@@ -52,6 +52,8 @@ La cantidad de cupos de subsidio y recursos que se dispondrán para este Llamado
 
 .
 
+(*) = "Zonas", son las singularizadas en las resoluciones exentas N° 1.219 de 2020; y N° 466 y N° 1.414, y su modificación, ambas de 2021, de Vivienda y Urbanismo.
+
 ### 3. Precio de las viviendas, montos de subsidio y bonos:
 
 3.1 Viviendas destinadas a familias vulnerables
@@ -62,13 +64,21 @@ Se deberá destinar como mínimo un 25% de las viviendas del proyecto a familias
 
 3.2 Viviendas destinadas a familias de sectores medios
 
-a. Los montos de subsidio para las familias de sectores medios, así como los porcentajes de viviendas del proyecto, serán los señalados en el siguiente cuadro de acuerdo a los rangos de precio de vivienda y comunas indicadas a continuación:
+Los montos de subsidio para las familias de sectores medios, así como los porcentajes de viviendas del proyecto, serán los señalados en las siguientes tablas de acuerdo a los rangos de precio de vivienda y comunas indicadas a continuación:
+
+3.2.1 Como mínimo un 15% del total de viviendas del proyecto:
 
 .
 
-b. Las comunas excluidas del cuadro precedente mantendrán los precios de vivienda y montos de subsidio según Emplazamiento de la Vivienda, de acuerdo a la tabla inserta en la letra b) del artículo 3° del DS N°19 (V. y U.), de 2016.
+3.2.2 Hasta un 60% del total de viviendas del proyecto:
+
+.
+
+Las comunas no incluidas en las tablas precedentes mantendrán los precios de vivienda y montos de subsidio según emplazamiento de la vivienda, de acuerdo a la tabla de la letra b) del artículo 3° del DS N° 19 (V. y U), de 2016.".
 
 3.3. El monto del Bono de Integración Social para las familias de sectores medios será el indicado en la siguiente tabla, de acuerdo al porcentaje de familias vulnerables que considere el proyecto; los requisitos para su obtención y aplicación serán aquellos establecidos en el artículo 4°, letra b), del DS N° 19.
+
+.
 
 Los montos de bono de integración social indicados en la tabla precedente, podrán ser aplicados sólo a proyectos aprobados que se encuentren emplazados en las comunas establecidas en cuadro inserto en el resuelvo 3.2. Las comunas excluidas de este cuadro deberán considerar los montos de bono de integración, de acuerdo a la tabla detallada en la letra b) del artículo 4° del DS N°19 (V. y U.), de 2016.
 
@@ -111,6 +121,10 @@ Más información respecto de los requisitos para la inscripción en el Registro
 - https://proveedorestecnicos.minvu.gob.cl/requisitos-de-inscripcion-para-contratistas/
 
 - https://proveedorestecnicos.minvu.gob.cl/solicitudes-de-inscripcion-en-linea/
+
+En caso de no cumplir algunos de los requisitos de la categoría exigida, la situación podrá ser evaluada y definida por el Serviu y Seremi de la región correspondiente.
+
+Las Entidades Desarrolladoras que postulen presentando el comprobante de ingreso de solicitud de inscripción, deberán presentar el Certificado de inscripción vigente al momento de la subsanación de observaciones. La no presentación del Certificado de inscripción será una causal de rechazo del proyecto.
 
 ### 5. Coherencia con el Entorno Urbano:
 
@@ -254,7 +268,7 @@ Sin perjuicio de lo dispuesto en el inciso final del artículo 15° del DS N° 1
 
 Una vez tramitado el convenio respectivo y verificado el inicio de obras por parte del Serviu, la Entidad Desarrolladora deberá entregar a ese Servicio toda la información del proyecto para su correcta y oportuna difusión hacia la ciudadanía, a través de los medios masivos de comunicación que el Minvu disponga.
 
-La Entidad Desarrolladora debe ejecutar al menos dos viviendas piloto, una correspondiente a la tipología destinada a familias vulnerables y otra destinada a familias de sectores medios, las que deberán estar completamente terminadas, recibidas por el Serviu respectivo y disponibles para ser visitadas por las familias, como máximo a la fecha establecida para la actividad de visita a la obra, señalada en el Plan de Integración Social, a que se refiere la letra c) del artículo 3°, del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
+La Entidad Desarrolladora debe ejecutar al menos dos viviendas piloto, una correspondiente a la tipología destinada a familias vulnerables y otra destinada a familias de sectores medios, las que deber�n estar completamente terminadas, recibidas por el Serviu respectivo y disponibles para ser visitadas por las familias, como máximo a la fecha establecida para la actividad de visita a la obra, señalada en el Plan de Integración Social, a que se refiere la letra c) del artículo 3°, del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
 
 ### 12. Incorporación de familias a los proyectos:
 
@@ -284,7 +298,7 @@ Para aplicar lo indicado en este resuelvo, los proyectos no deberán contar con 
 
 Las Entidades Desarrolladoras cuyos proyectos resultaron seleccionados en los llamados realizados durante los años 2020 y 2021, mediante las resoluciones exentas Nº 208 (V. y U.), de 2020, Nº 935 y Nº1.058 y su modificación, ambas de 2020, del Secretario Regional Ministerial Metropolitano; y las resoluciones exentas Nº 246 y Nº 1.516 y su modificación (V. y U.), de 2021, Nº 258 y Nº 308, de los Secretarios Regionales Ministeriales de las regiones del Maule y Araucanía respectivamente y las resoluciones exentas Nº 405, Nº 843 y Nº 905 del Secretario Regional Ministerial Metropolitano, todas de 2021, que se emplacen en alguna de las comunas o zonas de comunas determinadas para el presente llamado, detalladas en la tabla inserta en el resuelvo 2. de esta resolución, y que hayan sido renunciados formalmente al Serviu respectivo por las Entidades Desarrolladoras, con anterioridad a la fecha de publicación de esta resolución en el Diario Oficial, podrán reevaluar sus proyectos considerando los precios máximos de vivienda para familias vulnerables y de sectores medios, montos de subsidio y bono de integración social indicados en el resuelvo 3. de la presente resolución y retractarse de la renuncia.
 
-Las Entidades Desarrolladoras, para dejar sin efecto la renuncia, deberán enviar una carta, suscrita por el representante legal, al Serviu respectivo hasta el 31 de mayo de 2022, acompañando una declaración, donde indique que el proyecto ha sido evaluado por una empresa constructora que se encuentre inscrita en el Registro Nacional de Contratistas del Minvu, de acuerdo a lo señalado en el resuelvo 4.2 de esta resolución, en lo que corresponda, o cuya inscripción se encuentra en trámite, en cuyo caso la inscripción deberá estar vigente al momento del inicio de las obras, lo que será verificado por Serviu.
+Las Entidades Desarrolladoras, para dejar sin efecto la renuncia, deberán enviar una carta, suscrita por el representante legal, al Serviu respectivo hasta el 8 de julio de 2022, acompañando una declaración, donde indique que el proyecto ha sido evaluado por una empresa constructora que se encuentre inscrita en el Registro Nacional de Contratistas del Minvu, de acuerdo a lo señalado en el resuelvo 4.2 de esta resolución, en lo que corresponda, o cuya inscripción se encuentra en trámite, en cuyo caso la inscripción deberá estar vigente al momento del inicio de las obras, lo que será verificado por Serviu.
 
 Los proyectos cuya renuncia haya quedado sin efecto, y cumplan con los requisitos señalados, dispondrán de 20 días hábiles para suscribir el convenio respectivo, contados a partir de la fecha de ingreso de la notificación formal de la Entidad Desarrolladora al Serviu, de la retracción a su renuncia.
 
@@ -300,21 +314,21 @@ Para los proyectos sin inicio de obras, tanto vigentes como renunciados que se r
 
 ### 15. Estacionamientos
 
-Con el objetivo de asegurar una cantidad equitativa de estacionamientos para viviendas destinadas a familias vulnerables, cada proyecto deberá disponer un número proporcional al porcentaje de viviendas destinadas a dichas familias, que deberá calcularse en función de la cuota de estacionamientos establecida en la normativa correspondiente.
+Con el objetivo de asegurar una cantidad equitativa de estacionamientos para viviendas destinadas a familias vulnerables, cada proyecto deberá disponer un número proporcional al porcentaje de viviendas destinadas a dichas familias, que deberá calcularse en función de la cuota de estacionamientos establecida en la normativa correspondiente o en función de la cantidad de estacionamientos del proyecto.
 
 Los estacionamientos destinados a familias vulnerables, resultantes del cálculo señalado en el párrafo anterior, deberán estar incluidos dentro del precio de viviendas indicado en el resuelvo 3.1. de la presente resolución. En caso de que en un proyecto se haya reservado la totalidad de estacionamientos dispuestos para familias vulnerables, éstas podrían adquirir estacionamientos destinados a sectores medios, considerando el precio establecido para ese segmento.
 
-En el caso de viviendas destinadas a familias de sectores medios, el precio de los estacionamientos no podrá superar el porcentaje del precio de la vivienda a adquirir señalado a continuación:
+En el caso de viviendas destinadas a familias de sectores medios, el precio de los estacionamientos no podrá superar el porcentaje del precio de la vivienda señalado a continuación:
 
-1. Estacionamientos en superficie: precio máximo equivalente al 6% del precio de la vivienda a adquirir.
+1. Precio máximo de estacionamientos en superficie: equivalente al 8% del precio máximo de viviendas destinadas a sectores medios.
 
-2. Estacionamientos subterráneos: precio máximo equivalente al 10% del precio de la vivienda a adquirir.
+2. Precio máximo de estacionamientos subterráneos o que requieran de estructura adicional que soporte el estacionamiento: equivalente al 12% del precio máximo de viviendas destinadas a familias de sectores medios, con tope de 300 UF.
 
 Las Entidades Desarrolladoras no podrán obligar al beneficiario o interesado en adquirir una vivienda, a comprar un estacionamiento o bodega en conjunto con la vivienda.
 
-Estas disposiciones se aplicarán a los proyectos que sean seleccionados en virtud del presente llamado y a aquellos que se acojan a lo señalado en el resuelvo 14 de esta resolución, de acuerdo con lo siguiente:
+Estas disposiciones se aplicarán a los proyectos que sean seleccionados en virtud del presente llamado y a aquellos que se acojan a lo señalado en el Resuelvo 14 de esta resolución, de acuerdo con lo siguiente:
 
-1. Familias vulnerables: los estacionamientos deberán estar incluidos dentro del precio de las viviendas para todos los proyectos seleccionados en llamados realizados a partir del año 2020.
+1. Familias vulnerables: los estacionamientos deberán estar incluidos dentro del precio de las viviendas para todos los proyectos seleccionados en llamados realizados a partir del año 2020. Excepcionalmente, los proyectos seleccionados en llamados realizados en el año 2020, que presenten un avance de obras igual o superior al 70% al 31 de mayo de 2022, podrán proponer al Serviu respectivo, una cuota menor de estacionamientos destinados a familias vulnerables, que no podrá ser inferior al 50% de la cantidad de estacionamientos resultante del cálculo indicado anteriormente.
 
 2. Sectores Medios: para proyectos seleccionados a partir del año 2022 y para proyectos de los años 2020 y 2021.
 
