@@ -278,11 +278,15 @@ En el caso de los funcionarios que se acogen a jubilación, este plazo comenzar�
 
 El cupo mensual para descuentos por concepto de préstamos y créditos de casas comerciales no podrá exceder del límite legal permitido para descuentos de su renta bruta mensualizada o de su pensión, según corresponda, contemplado en el inciso segundo del artículo 96 del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo y las instrucciones emanadas por la Contraloría.
 
-#### Artículo Transitorio
+#### Artículo 1°
 
-Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo, conforme a lo dispuesto por el artículo 2°, serán elegidos dentro del plazo de 30 días contados desde la fecha de publicación del presente Reglamento y asumirán a contar del 1° del mes siguiente a aquel en que se realice la votación.
+Transitorio.- Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo, conforme a lo dispuesto por el artículo 2°, serán elegidos dentro del plazo de 30 días contados desde la fecha de publicación del presente Reglamento y asumirán a contar del 1° del mes siguiente a aquel en que se realice la votación.
 
 La Asociación de Funcionarios deberá designar los representantes Titular y Suplente dentro del mismo plazo indicado en el inciso anterior, cuando proceda, de acuerdo al inciso 3° del artículo 18 del Reglamento General.
+
+#### Artículo 2°
+
+transitorio.- La modificación establecida en la letra J del reglamento, entrará en vigencia a contar del año 2023. Consecuentemente, el subsidio de vacaciones, durante al año 2022, se concederá anualmente de una sola vez, una ayuda en dinero o en especies al afiliado que haga uso efectivo de su feriado legal en todo o en una fracción de diez (10) días continuos. La ayuda podrá ser solicitada una vez dictada la resolución que concede el feriado, emitida por la unidad correspondiente. En el caso de los afiliados pasivos, también se pagará este beneficio, en el mes de enero de cada año.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.- Carlos Figueroa Serrano, Ministro del Interior.
 
