@@ -1,0 +1,37 @@
+DEJA SIN EFECTO REX N° 1.515 DE 29.11.2019 (D.O. 10.12.2019) Y ESTABLECE ARANCELES DE MEDICAMENTOS PARA PACIENTES BENEFICIARIOS DE LA LEY N° 18.469 EN MODALIDAD DE ATENCIÓN INSTITUCIONAL (MAI) PARA GRUPOS C Y D
+
+Núm. 777 exenta.- Santiago, 8 de junio de 2022.
+
+Vistos:
+
+Lo dispuesto en los artículos 159 y 161 del DFL N° 1 de 2005, del Ministerio de Salud; los artículos 1° y 15 de la Res. Ex. N° 176, de 1999, modificada, entre otras, por la Res. Ex. N° 49 de 09.02.2019, ambas de los Ministerios de Salud y de Hacienda; el DFL N° 1 de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del DL N° 2.763/1979 y de las leyes N°s. 18.933 y 18.469 y el decreto N° 38 de 2005, del Ministerio de Salud, Reglamento Orgánico de los Establecimientos de Salud de Menor Complejidad y de los Establecimientos de Autogestión en Red; el artículo 24 de la ley 18.681 que establece normas complementarias de administración financiera, de incidencia presupuestaria y personal; los dictámenes de la Contraloría General de la República N°s. 25.157 de 2014, 65.056 de 2013 y 24.371 de 2009; la resolución exenta N° 1.172 de 2007, del Ministerio de Salud y Ministerio de Hacienda, que otorga la calidad de Establecimiento de Autogestión en Red al Instituto Psiquiátrico "Dr. José Horwitz Barak"; la resolución exenta N° 165 de 27.01.2015, del Servicio de Salud Metropolitano Norte, que establece el orden de subrogación del cargo de Director del Instituto Psiquiátrico Dr. José Horwitz Barak; la resolución afecta N° 72 de 12.04.2016, del Servicio de Salud Metropolitano Norte, que designa a doña Lilian San Román Figueredo en el cargo de Subdirectora Médica del Instituto Psiquiátrico Dr. José Horwitz Barak en calidad de transitorio y provisional; y la resolución N° 07/2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón.
+
+Considerando:
+
+1.- Que, de acuerdo con lo dispuesto en los artículos 159 y 161 del DFL N° 1 de 2005 Minsal (que corresponden a los antiguos artículos 28 y 30 de la ley N° 18.469, respectivamente), los afiliados al Régimen de Prestaciones de Salud, deberán contribuir al financiamiento del valor de las prestaciones y atención que ellos y los respectivos beneficiarios soliciten y que reciban de dicho Régimen, mediante pago directo, en la proporción y en la forma que indica esa normativa legal, estableciendo que el valor de las prestaciones será el que fije el arancel aprobado por los Ministerios de Salud y de Hacienda a proposición del Fondo Nacional de Salud, correspondiéndole al Estado a través de ese Fondo contribuir al financiamiento de las prestaciones en un porcentaje del valor señalado en el arancel fijado en conformidad al artículo 159, que se determinará, cada vez que así se requiera, por los Ministerios recién nombrados y cubrirá el valor total de las prestaciones respecto de los grupos de afiliados A y B y en los porcentajes que señala de los grupos C y D;
+
+2.- Que el inciso tercero del artículo 161 del DFL N° 1 de 2005, Minsal agrega que por resolución conjunta de los Ministerios de Salud y de Hacienda, podrán establecerse, para los medicamentos, prótesis y atenciones odontológicas, porcentajes diferentes a los que se alude en ese mismo precepto, en su inciso segundo;
+
+3.- A su vez, el artículo 1° de la Res. Ex. N° 176, de 1999, modificada, entre otras, por la Res. Ex. N° 49 de 09.02.2019, ambas de los Ministerios de Salud y de Hacienda, prescribe que "las prestaciones de salud que se otorguen por los Servicios, Instituciones u Organismos del Sistema Nacional de Servicios de Salud, o por los profesionales, establecimientos y entidades asistenciales de salud, de conformidad con la ley N° 18.469, estarán sujetas para la determinación de su valor al presente Arancel". Enseguida, en lo que concierne al valor de los medicamentos que se suministran, el artículo 15 de la referida resolución señala que "exclusivamente para la atención en la Modalidad Institucional, los medicamentos que corresponda facturar de acuerdo a lo establecido en la ley, deberán ser cobrados por los establecimientos de los Servicios de Salud, basándose en la lista de precios vigente que bimensualmente deberá entregar la Central de Abastecimiento del Sistema Nacional de Servicios de Salud. Aquellos medicamentos que no aparezcan mencionados en esta lista, deberán ser cobrados de acuerdo al costo de reposición";
+
+4.- Que, la normativa legal y reglamentaria citada, faculta a los servicios o establecimientos de salud, entre otras entidades de ese sector, para cobrar el valor de las prestaciones y medicamentos que reciban los afiliados del mencionado Régimen, según la tarifa que se fija en un arancel aprobado por las Secretarías de Estado antes señaladas;
+
+5.- Que, mediante dictámenes N°s. 25.157 de 2014, 65.056 de 2013 y 24.371 de 2009, entre otros, la Contraloría General de la República ha establecido que el procedimiento para aprobar mediante resolución exenta el arancel para el cobro de medicamentos e insumos a los pacientes que se atienda conforme a la modalidad de la ley N° 18.469, no sería objetable siempre que los valores de esa manera indicados y conforme al cual son facturados aquellos productos, tengan como base los precios vigentes que bimensualmente le proporcione Cenabast y en el caso de aquellos medicamentos que no aparezcan mencionados en esta lista, éstos sean cobrados de acuerdo al costo de reposición; que el arancel para el cobro de medicamentos e insumos a los pacientes para no beneficiarios de la ley N° 18.469, también debe determinarse según el costo de reposición; y, que, considerando que la ley no entrega una fórmula para fijar el costo de reposición, la decisión que se adopte debe ser fundada;
+
+6.- La necesidad del Instituto de fijar mediante resolución exenta el arancel para el cobro de medicamentos de los pacientes beneficiarios de la ley N° 18.469 correspondientes a los Grupos C y D;
+
+7.- La lista de precios vigentes establecida por Cenabast, publicada en su página web https://www.cenabast.cl/precios-vigentes-en-contratos/ a la fecha de emisión de la presente resolución;
+
+8.- El correo electrónico de fecha 01.06.2022 de la Subdirectora Médica (S) a la Unidad de Asesoría Jurídica, solicitando emisión de resolución que fija aranceles de fármacos que indica, incorporando los costos de las diferentes modalidades de atención que posee el Instituto.
+
+Resuelvo:
+
+1.- Déjese sin efecto la resolución exenta N° 1.515 de 29.11.2019 (D.O. 10.12.2019) de este Instituto Psiquiátrico.
+
+2.- Establézcanse los siguientes aranceles para los medicamentos que el Instituto Psiquiátrico "Dr. José Horwitz Barak" otorgue a pacientes beneficiarios de la ley N° 18.469 en Modalidad de Atención Institucional (MAI), correspondientes a los Grupos C y D:
+
+3.- La presente resolución deberá publicarse en el Diario Oficial de conformidad con lo establecido en el artículo 48 letra b) de la ley N° 19.880 y en el Portal de Transparencia Activa por tener efectos respecto de terceros, de conformidad con lo dispuesto en el artículo 7 letra g) de la ley N° 20.285.
+
+4.- La presente resolución entrará en vigencia el primer día hábil siguiente a la fecha de su publicación en el Diario Oficial.
+
+Anótese, comuníquese y publíquese.- Lilian San Román Figueredo, Directora (S), Instituto Psiquiátrico "Dr. José Horwitz Barak".
