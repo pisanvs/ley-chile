@@ -1,0 +1,27 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO: "PARQUE SOLAR PELEQUÉN"
+
+De conformidad con lo dispuesto en al artículo 96 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se notifica que mediante la resolución exenta N° 202206101174, de fecha 8 de junio de 2022, de la Dirección Regional del Servicio de Evaluación Ambiental de la Región del Libertador General Bernardo O'Higgins, se ha resuelto dar inicio a un nuevo proceso de participación ciudadana, por un plazo de 10 días hábiles, de acuerdo a lo establecido en el artículo 30 bis inciso segundo de la ley N° 19.300, en el marco del procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto "Parque Solar Pelequén" (en adelante, el "Proyecto"), presentada por don Ian Philippi Calvo, en representación de Sonnedix Pelequén Solar SpA, formalizada al Sistema de Evaluación de Impacto Ambiental (en adelante, "SEIA") con fecha 22 de abril de 2021.
+
+NUEVA ETAPA DE PARTICIPACIÓN CIUDADANA EN EL PROCEDIMIENTO DE EVALUACIÓN AMBIENTAL DE LA DIA DEL PROYECTO PARQUE SOLAR PELEQUÉN
+
+Se informa a la comunidad que, mediante resolución de fecha 8 de junio de 2022, el Director Regional del Servicio de Evaluación Ambiental Región de O'Higgins, Secretario de la Comisión de Evaluación de la Región de O'Higgins, resolvió dar inicio a una nueva etapa de participación ciudadana por un plazo de 10 días hábiles en el proceso de evaluación de la Declaración de Impacto Ambiental del proyecto Parque Solar Pelequén.
+
+Las partes y obras permanentes y temporales del proyecto Parque Solar Pelequén se emplazará en las comunas de San Fernando y Malloa, Región del Libertador General Bernardo O'Higgins, mientras que se presenta un Compromiso Ambiental Voluntario correspondiente al mejoramiento del Tranque en el sector de La Troya que se encuentra en la comuna de Peralillo en la misma región.
+
+Los elementos del medio ambiente a ser intervenidos directamente por el Proyecto, corresponden principalmente: al medio físico, componente aire, agua, ruido, vibraciones, campos electromagnéticos, efecto corona, suelo; medio biótico: componentes de flora y vegetación, y fauna terrestre, ecosistema terrestre, paisaje, patrimonio arqueológico y cultural y medio humano, salud de la población.
+
+El monto de inversión estimado para el Proyecto es de aproximadamente US$ 140 MUSD ciento cuarenta millones de dólares, considerando una vida útil de 30 años. Al final de este período se evaluará su permanencia o cierre.
+
+De acuerdo con el contenido de las aclaraciones, rectificaciones y ampliaciones, presentadas por el Proponente a través de la Adenda de fecha 26 de mayo de 2022, se aprecia en Figuras 1 y 2 de Adenda, un cambio en la localización de una de las partes del Proyecto, correspondiente a las Torres de la línea de transmisión eléctrica, y por consiguiente, en algunos sectores en el trazado de la línea de transmisión eléctrica; a partir de lo anterior, el Proponente ha actualizado además otros datos de la descripción de proyecto, así como también ampliado la información de la caracterización ambiental de algunos componentes ambientales.
+
+Por lo anterior, y de acuerdo con lo establecido en el artículo 29 de la ley N° 19.300 y en el artículo 92 del Reglamento del SEIA, es posible concluir que se reúnen los requisitos necesarios para dar inicio a un nuevo proceso de participación ciudadana en la evaluación ambiental del Proyecto, toda vez que las aclaraciones, rectificaciones o ampliaciones realizadas afectan sustantivamente al Proyecto.
+
+El expediente electrónico de evaluación del Proyecto se encuentra a disposición de los interesados para su revisión en la página web del Servicio de Evaluación Ambiental, www.sea.gob.cl, y en la Dirección Regional del SEA de la Región de O'Higgins, ubicada en la calle Campos N° 241, piso 7, Rancagua, horario de atención en días hábiles de lunes a viernes de 10:00 a 13:00 horas.
+
+La comunidad podrá realizar observaciones dentro del plazo de 10 días hábiles contados desde la última publicación del presente extracto en el Diario Oficial o en el diario de circulación regional. Para realizar estas observaciones, la comunidad podrá acceder a través del sitio web del SEA, o bien, enviando sus observaciones a la oficina de partes de la Dirección Regional del SEA de la Región de O'Higgins, ubicada en la calle Campos N° 241, piso 7, Rancagua, o través de la oficina de partes virtual en el siguiente link: https://www.sea.gob.cl/oficina-partes-virtual, debiendo seguir los pasos indicados en la página web.
+
+Las observaciones deberán señalar claramente el nombre, RUT y domicilio o correo electrónico, según corresponda. Tanto personas naturales como jurídicas podrán realizar observaciones, y en el caso de las personas jurídicas deberán acreditar vigencia de la organización y de la personería de su representante legal. La vigencia de estos antecedentes no podrá exceder de seis meses.
+
+Se deja constancia que este texto ha sido visado por la Dirección Regional del Servicio de Evaluación Ambiental de la Región de O'Higgins, sobre las bases de los antecedentes proporcionados por el Titular de la DIA del Proyecto Parque Solar Pelequén.-
+
+Pedro Pablo Miranda Acevedo, Director Regional del Servicio de Evaluación Ambiental Región del Libertador General Bernardo O'Higgins.
