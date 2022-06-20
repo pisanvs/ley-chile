@@ -646,6 +646,22 @@ Todos los concesionarios y permisionarios de servicios de telecomunicaciones ten
 
 Toda comunicación que exceda el territorio nacional será considerada de larga distancia internacional para los efectos de esta ley.
 
+#### Artículo 26 bis
+
+Los concesionarios de servicios públicos de telecomunicaciones que sean asignatarios de derechos de uso de espectro radioeléctrico deberán permitir el acceso y uso de sus facilidades a otros concesionarios de servicios públicos o que estén interesados en constituirse como tales, para la operación móvil virtual y de roaming automático, este último en los casos señalados en los incisos cuarto y quinto de este mismo artículo, debiendo formular y mantener actualizadas ofertas de facilidades mayoristas públicas sobre la base de criterios generales, uniformes, objetivos, transparentes, orientados a costos, en condiciones económicamente viables y no discriminatorias, y suficientemente desagregadas en todos sus elementos. Dicha oferta deberá ser única por cada grupo empresarial y contemplar todas las bandas de frecuencia de que dispongan y que sean utilizadas para la prestación, por sí mismos o a través de terceros, de servicios públicos de telefonía móvil o de transmisión de datos móviles.
+
+Un reglamento, expedido a través del Ministerio de Transportes y Telecomunicaciones, regulará las normas y plazos a que se ajustará el conjunto de condiciones técnicas, económicas, operativas, comerciales y otras que deberán contener las ofertas de facilidades y los respectivos contratos, conforme a los criterios y principios señalados en el inciso primero, así como sus posibles destinatarios, debiendo estas ofertas estar sujetas a la aprobación de la Subsecretaría. Fijará además las condiciones mínimas que garanticen el equilibrio de las partes durante la negociación y ejecución del contrato.
+
+El servicio de roaming automático en ningún caso podrá imponer costos adicionales al usuario asociados al mero uso de la red de una concesionaria diferente de la contratada por éste.
+
+En el caso del servicio de roaming automático, será obligatoria la celebración de acuerdos, indistintamente, en localidades, rutas o zonas aisladas; de baja densidad poblacional; beneficiadas por proyectos del Fondo de Desarrollo de las Telecomunicaciones; de servicio obligatorio; o con presencia de un único operador. Asimismo, será obligatoria la celebración de acuerdos, en todo el territorio nacional, para mitigar las interrupciones de la red móvil en situaciones de emergencia.
+
+Para el resto del país, con el objeto de promover la inversión en redes y facilitar la entrada de nuevos operadores, deberán formular ofertas de facilidades en los mismos términos señalados en los incisos anteriores, cuya suscripción por parte del nuevo operador tendrá una vigencia máxima que podrá ser definida en el reglamento, sin que pueda ser superior a cinco años contados desde el inicio de los servicios.
+
+Sin perjuicio de lo previsto en el artículo 28 bis, en caso de desacuerdo entre las partes en el proceso de negociación, implementación o ejecución del contrato, sea por motivos técnicos, económicos o de otra índole, las controversias que se susciten serán resueltas por un árbitro arbitrador, el que será designado y ejercerá sus funciones de conformidad con lo dispuesto en el artículo 232 del Código Orgánico de Tribunales, debiendo resolver la controversia considerando las disposiciones y principios contenidos en la presente ley y en la restante normativa de telecomunicaciones dictada a su amparo, incluidas las Ofertas de Facilidades aprobadas por la Subsecretaría, pudiendo adicionalmente solicitar la opinión de esta última.
+
+El árbitro deberá resolver en favor de una de las proposiciones de las partes, en un plazo máximo de tres meses, contado desde que el árbitro acepte el encargo, prorrogable de forma justificada por única vez, por tres meses más, y podrá, en su caso, establecer condiciones para ejecutar su fallo. Sus honorarios serán de cargo de aquel proveedor cuya alegación sea totalmente desestimada. En caso de establecerse condiciones, podrá el árbitro disponer un reparto de la carga de pagar sus honorarios entre los intervinientes en consistencia a su decisión. Sin perjuicio de lo anterior, el reglamento a que hace referencia el presente artículo podrá establecer la existencia de comisiones técnicas integradas por representantes de ambas partes, a través de las cuales éstas harán sus mejores esfuerzos por resolver previamente y de mutuo acuerdo las diferencias que surjan entre ellas.
+
 #### Artículo 27
 
 Los concesionarios de servicios públicos de telecomunicaciones podrán efectuar cobros por la instalación del servicio e iniciar el cobro por el suministro de servicios al público usuario, con la autorización previa de la Subsecretaría de Telecomunicaciones.
@@ -1101,6 +1117,8 @@ ii) Capacidad económica del infractor.
 iii) La conducta anterior del infractor, salvo en caso de reincidencia.
 
 Se considerará, para estos efectos, que la señal satelital se encuentra adecuadamente protegida si es que el permisionario del servicio ha adoptado, oportunamente, medidas tecnológicas suficientes para el resguardo de sus servicios.
+
+f) Los que vulneren el deber de reserva o secreto previsto en los artículos 218 bis, 219 y 222 del Código Procesal Penal, mediante el acceso, almacenamiento o difusión de los antecedentes o la información señalados en dichas normas, serán sancionados con la pena de presidio menor en su grado máximo.
 
 #### Artículo 37
 
