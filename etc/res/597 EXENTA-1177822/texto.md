@@ -1,0 +1,73 @@
+DEJA SIN EFECTO RESOLUCIÓN Nº 80, DE 2021, DEL MINISTERIO DEL MEDIO AMBIENTE QUE "ESTABLECE EL REDISEÑO Y MODERNIZACIÓN DE LA RED DE MONITOREO DE CALIDAD DEL AIRE EN LAS COMUNAS DE CONCÓN, QUINTERO Y PUCHUNCAVÍ" Y ORDENA INICIO DE CONSULTA PÚBLICA QUE INDICA
+
+Núm. 597 exenta.- Santiago, 7 de junio de 2022.
+
+Vistos:
+
+Lo dispuesto en el artículo 19 Nº 8 de la Constitución Política de la República de Chile; en la ley Nº 19.300, sobre Bases Generales del Medio Ambiente; en el DS Nº 39 de 2012, del Ministerio del Medio Ambiente, que Aprueba el Reglamento para la Dictación de Planes de Prevención y de Descontaminación; en el DS Nº 10, de 2015, del Ministerio del Medio Ambiente, que declara zona saturada por material particulado fino respirable MP2,5 como concentración anual y latente como concentración diaria, y zona latente por material particulado respirable MP 10, como concentración anual, a las comunas de Concón, Quintero y Puchuncaví; en el DS Nº 105, de 2018, que establece el Plan de Prevención y de Descontaminación Atmosférica para las comunas de Concón, Quintero y Puchuncaví; en la resolución Nº 80, de 2021, del Ministerio del Medio Ambiente; en la resolución exenta Nº 328, de 2022, del Ministerio del Medio Ambiente, que extiende aplicación de las medidas extraordinarias de visación de documentos del Ministerio del Medio Ambiente-Subsecretaría del Medio Ambiente, a raíz de la alerta sanitaria por brote de coronavirus (COVID-19); en el decreto Nº 23, de 2022, del Ministerio del Medio Ambiente, por el cual se nombra a don Maximiliano Proaño Ugalde como Subsecretario del Medio Ambiente; lo dispuesto en la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+1. Que, en virtud del artículo 33 inciso 1º de la ley Nº 19.300, sobre Bases Generales del Medio Ambiente, al Ministerio del Medio Ambiente le corresponde la administración de la información de los programas de medición y control de la calidad ambiental del aire, agua y suelo, para efectos de velar por el derecho a vivir en un medio ambiente libre de contaminación. Por su parte, de acuerdo con el artículo 70, letra t), corresponderá especialmente al Ministerio del Medio Ambiente, generar y recopilar la información técnica y científica precisa para la prevención de la contaminación y la calidad ambiental, en particular lo referente a las tecnologías, la producción, gestión y transferencias de residuos, la contaminación atmosférica y el impacto ambiental. Por último, en virtud del artículo 70, letra u), le corresponde al Ministerio administrar la información de los programas de monitoreo de calidad del aire, agua y suelo, proporcionada por los organismos competentes, cuando corresponda.
+
+2. Que, el DS Nº 105, de 2018, del Ministerio del Medio Ambiente, que establece el "Plan de Prevención y Descontaminación Atmosférica para las comunas de Concón, Quintero y Puchuncaví" (en adelante, el "Plan" o "PPDA CQP"), publicado en el Diario Oficial con fecha 30 de marzo de 2019, estableció en su artículo 50, que los establecimientos que tienen la obligación de monitorear la calidad del aire mediante estaciones de monitoreo de calidad del aire con representatividad poblacional deben entregar la supervisión técnica de éstas al Ministerio del Medio Ambiente, para velar por su correcto funcionamiento y entrega oportuna de información a la ciudadanía y los órganos fiscalizadores.
+
+3. Que, la declaración de zona saturada y/o latente por un contaminante específico supone que los niveles de concentración en la atmósfera establecidos por la norma primaria de calidad ambiental respectiva han sido superados o se encuentran sobre el 80% de la norma, lo que genera a su vez la necesidad de contar con una red de estaciones de calidad del aire cuyo diseño permita el monitoreo y seguimiento integral de la calidad del aire, considerando la naturaleza de las fuentes existentes y los contaminantes presentes en la atmósfera.
+
+4. Que, en virtud de lo establecido en el artículo 51, inciso primero, del Plan, el Ministerio del Medio Ambiente elaboró los estudios necesarios para el rediseño y modernización de la red de monitoreo de calidad del aire de la zona cubierta por el Plan, contemplando el monitoreo de los contaminantes normados (MP10, MP 2,5, SO 2 y NO 2), caracterización fisicoquímica del material particulado y medición de Compuestos Orgánicos Volátiles (COVs) tales como benceno, tolueno, etilbenceno y xileno (BTEX). De dicha forma, el Ministerio del Medio Ambiente aprobó la contratación del estudio "Mejoramiento de la red de monitoreo de calidad del aire en las comunas de Concón, Quintero y Puchuncaví" (en adelante, el "Estudio"), mediante resolución exenta Nº 911, de 2019, del Ministerio del Medio Ambiente, el que fue desarrollado por la Fundación Eurochile, en colaboración con el Instituto Meteorológico Finlandés (FMI).
+
+5. Que, considerando las recomendaciones entregadas por los especialistas a cargo del Estudio, el Ministerio procedió a elaborar una propuesta de rediseño y modernización de la red de monitoreo de calidad del aire, la que fue presentada a la comunidad de Concón, Quintero y Puchuncaví, el 28 de noviembre de 2019 y el 18 de agosto de 2020. Asimismo, fue socializada con las I. Municipalidades de dichas comunas, los días 30 de septiembre y 4 de noviembre de 2020, además del Consejo de Recuperación Ambiental y Social (en adelante, CRAS) durante la Sesión Extraordinaria CRAS de fecha 1 de octubre de 2020.
+
+6. Que, a partir de la propuesta para el rediseño y modernización de la red de monitoreo de calidad del aire, se presentaron observaciones mediante oficio Ord. Nº 001090, del 21 de octubre de 2020, de la I. Municipalidad de Puchuncaví, y oficio Ord. Nº 000694, del 9 de noviembre de 2020, de la I. Municipalidad de Quintero.
+
+7. Que, en virtud de lo anterior, y en cumplimiento del artículo 51 del Plan, el Ministerio del Medio Ambiente procedió a dictar la resolución exenta Nº 80, de 2021, que "Establece Rediseño y Modernización de la Red de Monitoreo de Calidad del Aire en las comunas de Concón, Quintero y Puchuncaví".
+
+8. Que, la naturaleza jurídica de la resolución Nº 80, de 2021, del Ministerio del Medio Ambiente, es de carácter breve y accesoria, no contemplando el procedimiento para su dictación de un régimen especial de acceso a la información ambiental ni una etapa formal de consulta pública, como la que se llevó a cabo en el marco del procedimiento de elaboración del Plan, encontrándose el artículo 51, dentro de los contenidos del PPDA CQP.
+
+9. Que, sin embargo, cabe considerar que el Estado reconoce a las personas el derecho a participar en sus políticas, planes, programas y acciones, ello conforme a lo dispuesto tanto en la ley Nº 20.500, sobre asociaciones y participación ciudadana en la gestión pública, como en la ley Nº 18.575, Orgánica Constitucional de bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia.
+
+10. Que, en este sentido, es importante tener presente que la ley Nº 20.500 incorpora la consulta pública o consulta ciudadana, como un mecanismo de participación cuya finalidad es la de conocer la opinión de las personas en materias de interés ciudadano, de manera informada, pluralista y representativa.
+
+11. Que, por su parte, la ley Nº 19.300, sobre Bases Generales del Medio Ambiente, dispone en su artículo 4 que: "es deber del Estado facilitar la participación ciudadana, permitir el acceso a la información ambiental y promover campañas educativas destinadas a la protección del medio ambiente". Según lo expresa el mensaje de la ley Nº 19.300, este principio "es de vital importancia en el tema ambiental, puesto que, para lograr una adecuada protección del medio ambiente, se requiere de la concurrencia de todos los afectados en la problemática".
+
+12. Que, a mayor abundamiento, cabe señalar que mediante resolución exenta Nº 601, de 2015, del Ministerio del Medio Ambiente, se aprobó la norma general de participación ciudadana del Ministerio del Medio Ambiente que establece modalidades formales y específicas en el marco de la ley Nº 20.500 ("Norma General"). Dicha resolución señala en su artículo 7 que "Los mecanismos de participación ciudadana constituyen procesos de corresponsabilidad social entre la ciudadanía y los órganos del Estado. Éstos se encuentran conformados por un número variable de etapas que presentan objetivos, requisitos de participación, procedimientos de trabajo y periodicidad de funcionamiento definidos previamente. Tienen por finalidad fortalecer y mejorar la gestión pública, contribuyendo a un funcionamiento más eficiente del Ministerio en el cumplimiento de sus políticas, planes, programas, normas y acciones".
+
+13. Que, de conformidad con lo anterior, la Norma General definió como uno de sus mecanismos de participación ciudadana, el de la Consulta Ciudadana, señalando en su artículo 16º, los tipos de consulta que de forma obligatoria el Ministerio debe realizar, por encontrarse contemplados en la ley Nº 19.300 y en los respectivos reglamentos para la elaboración de diversos instrumentos de regulación ambiental. Del mismo modo, establece que aun cuando no exista la obligatoriedad reglamentaria de realizar un proceso de consulta, este podrá desarrollarse de oficio o a petición de parte, respecto de materias de interés ciudadano y de relevancia ambiental, en las que se requiera conocer la opinión de las personas.
+
+14. Que, por su parte, mediante la resolución exenta Nº 57, de 2021, del Ministerio del Medio Ambiente, se aprobó la "Guía para la implementación de procesos de consultas ciudadanas del Ministerio del Medio Ambiente", la que tiene por objeto entregar un mayor detalle del mecanismo de consulta ciudadana, aportando criterios y procedimientos, tanto para los instrumentos normativos como respecto de aquellos instrumentos que sean definidos estratégicos por parte de esta Secretaría de Estado.
+
+15. Que, en virtud de lo anterior, esta nueva administración, aun cuando no existe la obligatoriedad legal ni reglamentaria de realizar un proceso de consulta pública específico para la dictación de la resolución a que se hace referencia en el artículo 51 del Plan, reconoce la relevancia ambiental de la implementación de la nueva red de monitoreo y a su vez el interés ciudadano sobre dicho procedimiento.
+
+16. Que, asimismo, es de gran interés de esta administración, fortalecer la participación ciudadana, especialmente, en aquellos territorios vulnerables ambientalmente. Para lo anterior, resulta necesario realizar una consulta pública que logre además la comunicación efectiva del contenido técnico de la implementación de la nueva red de monitoreo.
+
+17. Que, por otra parte, el artículo 61 de la ley Nº 19.880 -texto que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los órganos de la Administración del Estado, y que se aplica de manera supletoria a los procesos especiales como el de la especie-, señala que:
+
+"Los actos administrativos podrán ser revocados por el órgano que los hubiere dictado.
+
+La revocación no procederá en los siguientes casos:
+
+a) Cuando se trate de actos declarativos o creadores de derechos adquiridos legítimamente;
+
+b) Cuando la ley haya determinado expresamente otra forma de extinción de los actos; o
+
+c) Cuando, por su naturaleza, la regulación legal del acto impida que sean dejados sin efecto".
+
+18. Que, en relación al artículo recién citado, cabe mencionar que, de acuerdo a la doctrina nacional, la revocación consiste en la extinción anormal de un acto administrativo, producto de la dictación de un acto de contrario imperio por parte de la propia administración pública, por razones de mérito, oportunidad o conveniencia.
+
+19. Que, por otra parte, en el presente caso, no concurre ninguno de los requisitos que impiden a la autoridad administrativa revocar de oficio la resolución exenta Nº 80, de 2021, del Ministerio del Medio Ambiente, de acuerdo al citado artículo 61 de la ley Nº 19.880, pues dicha resolución no es un acto declarativo o creador de derechos adquiridos legítimamente; la ley no ha determinado expresamente otra forma de extinción de este acto, y no existe regulación legal del acto que impida que sea dejado sin efecto.
+
+20. Que, en consecuencia, por los fundamentos indicados, se procederá a dejar sin efecto la resolución exenta Nº 80, de 2021, del Ministerio del Medio Ambiente, con el objeto de iniciar un nuevo procedimiento para la determinación de las acciones implementación de la nueva red de monitoreo que cuente con una consulta pública adecuada.
+
+Resuelvo:
+
+1. Revocar la resolución exenta Nº 80, de 2021, que "Establece Rediseño y Modernización de la Red de Monitoreo de Calidad del Aire en las comunas de Concón, Quintero y Puchuncaví".
+
+2. Iníciese en el plazo de 15 días hábiles contados desde la publicación de la presente resolución en el Diario Oficial, un proceso de consulta ciudadana con una duración de 60 días hábiles acerca del borrador de la resolución que se pronunciará sobre las acciones necesarias para la implementación de la nueva red de monitoreo. La consulta pública, se llevará a cabo conforme a la resolución exenta Nº 57, de 2021, del Ministerio del Medio Ambiente, que aprobó la "Guía para la Implementación de Procesos de Consultas Ciudadanas del Ministerio del Medio Ambiente". La resolución que se pronunciará sobre las acciones necesarias para la implementación de la nueva red de monitoreo deberá dictarse en un plazo de 45 días hábiles contados desde la finalización del proceso de consulta ciudadana.
+
+3. En contra de la presente resolución, podrá deducirse el recurso de reposición, dentro del plazo de cinco días contados desde la publicación del presente acto administrativo en el Diario Oficial, de acuerdo con lo dispuesto en el artículo 59 de la ley Nº 19.880. Lo anterior, sin perjuicio de los recursos, acciones o derechos que se pueden hacer valer ante las autoridades correspondientes, y de las demás formas de revisión de los actos administrativos que procedan.
+
+4. Publíquese la presente resolución en el Diario Oficial y en el sitio electrónico del Ministerio del Medio Ambiente.
+
+Anótese, comuníquese y archívese.- Maximiliano Proaño Ugalde, Subsecretario del Medio Ambiente.
+
+Lo que transcribo a Ud. para los fines que estime pertinente.- Marie Claude Plumer Bodin, Subsecretaria del Medio Ambiente (S).
