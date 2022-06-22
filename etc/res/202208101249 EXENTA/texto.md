@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "EXTRACCIÓN Y PROCESAMIENTO GRUPO DE EMPRESAS ALCIDES VIDAL"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº40/2012 del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, acogiendo el recurso de reposición interpuesto contra la resolución exenta Nº 20220800152 de fecha 17 de marzo de 2022, por medio de la resolución exenta Nº 202208101249 de fecha 8 de junio de 2022, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Extracción y Procesamiento Grupo de Empresas Alcides Vidal", cuyo proponente es Empresa Dos Ríos Alcides Vidal EIRL.
+
+El Proyecto, el cual corresponde a una modificación de proyecto con RCA, se sitúa en la Región del Biobío, en la provincia de Biobío, comuna de Los Ángeles, sector de Mesamávida, en un predio particular de propiedad del Titular con Rol 1554-406 y consiste en la extracción de árido desde tres pozos lastreros y tres cuñas de depósito natural ubicada en la ribera norte del río Biobío, por un total de 2.009.212 m³ en una vida útil de 15 años. Además de ello, contempla el procesamiento de material con distintas granulometrías necesarias para fines requeridos por la demanda, lo anterior con la finalidad de generar insumos para obras viales de la Región del Biobío, considerando para ello la extracción de áridos, el traslado del material a la zona de procesamiento, acopio y despacho del producto. Para acceder al Proyecto se debe utilizar la ruta Q-530 localizada en el kilómetro 18,7 de la ruta 180.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30 en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web: https://seia.sea.gob.cl/archivos/2022/06/13/document_14_.
+
+pdf.-
+
+Nelson Cortés Matamala, Director Regional (S), Servicio de Evaluación Ambiental Región del Biobío.
