@@ -44,31 +44,31 @@ De los Órganos y sus Atribuciones
 
 #### Artículo 3º
 
-Cada "Comité de Desarrollo Productivo Regional" tendrá un Consejo Directivo integrado de la siguiente manera:
+El Comité tendrá un Consejo Directivo, integrado de la siguiente manera:
 
-a) Tres representantes del Intendente Regional, los que deberán ser personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designados por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia, previa solicitud de Corfo.
+a) Tres representantes del (de la) Gobernador(a) Regional, los(as) que deberán ser personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designados(as) por el(la) Gobernador(a) Regional o por la autoridad respectiva, si no fuere funcíonario(a) de su dependencia, previa solicitud de Corfo.
 
-Presidirá el Consejo Directivo aquel miembro que determine el Intendente.
+Presidirá el Consejo Directivo, aquel miembro que determine el (la) Gobernador(a) Regional.
 
-b) Un representante del Ministerio de Economía, Fomento y Turismo, designado por la autoridad que corresponda, previa solicitud de Corfo.
+b) Un(a) representante del Ministerio de Economía, Fomento y Turismo, designado(a) por la autoridad que corresponda, previa solicitud de Corfo.
 
-c) El(la) Seremi de Economía de la región correspondiente, previa solicitud de Corfo.
+c) El (La) Seremi de Economía de la región correspondiente.
 
-d) Un(a) representante del Vicepresidente Ejecutivo de Corfo, designado por él.
+d) Un(a) representante del (de la) Vicepresidente(a) Ejecutivo(a) de Corfo, designado por él (ella).
 
-e) Un(a) representante del Gerente General del Servicio de Cooperación Técnica, designado por él, previa solicitud de Corfo.
+e) Un(a) representante del (de la) Gerente General del Servicio de Cooperación Técnica, designado(a) por él (ella), previa solicitud de Corfo.
 
-f) Un(a) académico(a) universitario(a) o de instituto profesional, con domicilio o que se desempeñe en la Región, designado por el Consejo Regional, de una terna propuesta por el Intendente, previa solicitud de Corfo.
+f) Un(a) académico(a) universitario(a) o de instituto profesional, con domicilio o que se desempeñe en la región, designado(a) por el Consejo Regional, de una terna propuesta por el (la) Gobernador(a) Regional, previa solicitud de Corfo.
 
-g) Dos empresarios(as) regionales destacados(as), designados(as) por el Consejo Regional en votación única, resultando electas las personas que obtengan las dos primeras mayorías, de una quina propuesta por el Intendente, previa solicitud de Corfo.
+g) Dos empresarios(as) regionales destacados(as), designados(as) por el Consejo Regional en votación única, resultando electas las personas que obtengan las dos primeras mayorías, de una quina propuesta por el (la) Gobernador(a) Regional, previa solicitud de Corfo.
 
-h) El(la) Presidente de la Comisión de Trabajo del área de desarrollo productivo o su equivalente del Consejo Regional, previa solicitud de Corfo.
+h) El (La) Presidente(a) de la Comisión de Trabajo del área de desarrollo productivo o su equivalente del Consejo Regional, previa solicitud de Corfo.
 
-i) Un Consejero Regional, elegido por la mayoría del Consejo, previa solicitud de Corfo.
+i) Un(a) Consejero(a) Regional, elegido(a) por la mayoría del Consejo, previa solicitud de Corfo.
 
-Los integrantes mencionados en los literales anteriores, con excepción de los señalados en las letras f) y g), serán reemplazados, en caso de ausencia o impedimento, por personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designadas en calidad de reemplazante por el órgano o autoridad que haya designado al titular o aquella que lo integra, según corresponda.
+Los(as) integrantes mencionados(as) en los literales anteriores, con excepción de los(as) señalados(as) en las letras f) y g), serán reemplazados(as), en caso de ausencia o impedimento, por personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designadas en calidad de reemplazante por el órgano o autoridad que haya designado al titular o aquella que lo integra, según corresponda.
 
-Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
+Los(as) Consejeros(as) deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la Ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
 
 #### Artículo 4º
 
@@ -156,7 +156,7 @@ Podrá subrogar al Secretario, para el desempeño de las funciones indicadas, cu
 
 #### Artículo 10º
 
-El Consejo Directivo del Comité tendrá un Presidente, que será designado por el Intendente regional.
+El Consejo Directivo del Comité tendrá un(a) Presidente(a), que será designado(a) por el (la) Gobernador(a) Regional.
 
 El o los subrogantes del Presidente del Comité, serán designados de común acuerdo en la primera sesión del Comité, de entre los miembros establecidos en el artículo 3º precedente. A falta de los subrogantes así designados, presidirá la reunión el Consejero que los miembros presentes en la respectiva sesión designen al efecto.
 
@@ -232,7 +232,7 @@ Si el término de la relación laboral diere origen a pagos que deban imputarse 
 
 t) Contratar sobre la base de honorarios a nacionales y extranjeros, en los términos establecidos en el artículo 11 de la ley Nº18.834, y en las respectivas Leyes de Presupuestos.
 
-u) Participar en instancias de nivel regional tales como Gabinetes o Mesas Técnicas, que sean convocadas por el Intendente, por Secretarios Regionales Ministeriales o por otras autoridades; y ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité, o el Consejo de la Corporación o el Vicepresidente Ejecutivo de Corfo estime conveniente asignarle.
+u) Participar en instancias de nivel regional, tales como Gabinetes o Mesas Técnicas, que sean convocadas por el (la) Gobernador(a) Regional, por Secretarios(as) Regionales Ministeriales o por otras autoridades; y ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité, o el Consejo de la Corporación o el (la) Vicepresidente(a) Ejecutivo(a) de Corfo estimen conveniente asignarle.
 
 ### Párrafo 4º
 
