@@ -24,39 +24,49 @@ Considerando:
 
 Resuelvo:
 
-Establécense las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Prunus avium, Prunus amygdalus (= P. dulcis), Prunus cerasus, Prunus domestica, Prunus salicina, Prunus persica, Prunus persica var. nucipersica, Prurlus armeniaca, Malus domestica (=M.pumila), Pyrus communis, Citrus spp., Rubus idaeus, Rubus occidentalis y Vaccinium spp.; para esquejes enraizados y sin enraizar de Fragaria x ananassa; y para estacas sin enraizar de Vitis vinifera, Vitis riparia, Vitis rupestris y Vitis berlandieri, procedentes de los Estados Miembros de la Comunidad Europea:
+Establécense las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Prunus avium, Prunus amygdalus (= P. dulcis), Prunus cerasus, Prunus domestica, Prunus salicina, Prunus persica, Prunus persica var. nucipersica, Prurlus armeniaca, Malus domestica (=M.pumila), Pyrus communis, Citrus spp., Rubus idaeus, Rubus occidentalis y Vaccinium spp.; para esquejes enraizados y sin enraizar de Fragaria x ananassa, procedentes de los Estados Miembros de la Comunidad Europea:
 
 1. El material deberá venir amparado por un Certificado Fitosanitario oficial de la autoridad fitosanitaria del Estado Miembro de la Comunidad Europea correspondiente, en el que consten los siguientes requisitos y declaraciones adicionales:
 
-1.1. El material procede de un programa de producción
+1.1. El material procede de
 
-bajo Certificación Oficial o de Viveros o
+un programa de producción
 
-Centros Repositorios de Germoplasma, que se
+bajo Certificación Oficial
 
-encuentren bajo el control del Organismo
+o de Viveros o Centros
 
-Fitosanitario oficial del Estado Miembro de la
+Repositorios de Germoplasma,
 
-Comunidad Europea.
+que se encuentren bajo
 
-1.2. Además, se debe indicar en el Certificado
+el control del Organismo
 
-Fitosanitario las siguientes declaraciones
+Fitosanitario oficial
 
-adicionales, específicas para cada especie y
+del Estado Miembro de
 
-tipo de material de reproducción que a
+la Comunidad Europea.
+
+1.2. Además, se debe indicar
+
+en el Certificado
+
+Fitosanitario las siguientes
+
+declaraciones adicionales,
+
+específicas para cada
+
+especie y tipo de material
+
+de reproducción que a
 
 continuación se señalan:
 
 .
 
-2. El material debe ser sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros.
-
-Para el caso de estacas sin enraizar de Vitis vinifera, se aceptará como tratamiento alternativo la fumigación con fosfina, en dosis de 3 grs/m3 de PH3, por 4 días, con temperaturas iguales o superiores a los 12ºC.
-
-En ambos casos, se deberá señalar en el Certificado Fitosanitario, en la sección correspondiente a "Tratamiento", el producto, el tipo de aplicación y la dosis aplicada.
+2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión o aspersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, el tipo de aplicación y la dosis utilizada.
 
 3. Adicionalmente, el envío deberá cumplir con los siguientes requisitos fitosanitarios que se verificarán en la inspección fitosanitaria en el puerto de ingreso:
 
@@ -64,7 +74,7 @@ a. Libre de suelo.
 
 b. Libre de flores y restos de frutos.
 
-c. Adicionalmente, los envíos de Citrus spp., Cydonia oblonga, Malus domestica (=M. pumila) y Pyrus communis deberán venir desprovistos de hojas y los de Vitis vinifera, Vitis rupestres, Vitis riparia y Vitis berlandieri deberán venir libre de raíces y desprovisto de hojas. Además, los envíos de Vitis vinifera deberán venir sin desprendimiento de ritidoma.
+c. Adicionalmente, los envíos de Citrus spp., Cydonia oblonga, Malus domestica (=M. pumila) y Pyrus communis deberán venir desprovistos de hojas.
 
 d. Embalados en envases nuevos de primer uso, cerrados, resistentes a la manipulación, factibles de sellar y etiquetados o rotulados de acuerdo a la normativa vigente.
 
@@ -88,8 +98,12 @@ e. Los materiales de acondicionamiento destinados a amortiguar o conservar la hu
 
 > **Nota.** NOTA 1 El 1.5 del numeral 1 de la Resolución 6753 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar continuación del último párrafo de las declaraciones adicionales, una nueva viñeta: "- Las plantas, proceden de Estados Miembros (indicar país) que ha llevado a cabo inspecciones anuales para la detección de Xylella fastidiosa y se encuentra libre de esta plaga mediante análisis (especificar método de diagnóstico) a plantas madres en el momento óptimo de detección de la plaga" para las siguientes especies: . ALMENDRO (Prunus amigdalus = P. dulcis) . CEREZO AGRIO (Prunus cerasus) . CEREZO DULCE (Prunus avium) . CIRUELO EUROPEO (Prunus domestica) . CIRUELO JAPONÉS (Prunus salicina) . DURAZNERO (Prunus persica) y NECTARINO (Prunus persica var. Nucipersica) . DAMASCO (Prunus armeniaca) . PERAL EUROPEO (Pyrus comunis) . CÍTRICOS (Citrus spp.) . FRAMBUESO ROJO (Rubus idaeus) . FRAMBUESO NEGRO (Rubus occidentalis) . ARÁNDANOS, CRANBERRIES (Vaccinium spp) . VID (Vitis vinifera) . VID (Vitis rupestris, Vitis riparia y Vitis berlandieri)
 
+> **Nota.** NOTA 2 El numeral N° 6 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios para la importación de material de reproducción de la presente norma para las siguientes especies: Para "Manzano, Malus domestica (= M. pumila)", reemplazar la primera viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico en cada caso) en el momento óptimo para la detección de las plagas, encontrándose libres de Apple proliferation phytoplasma y Erwinia amylovora". Para "Peral Europeo, Pyrus communis", reemplazar la primera viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo para la detección de las plagas, encontrándose libres de Erwinia amylovora".
+
+> **Nota.** NOTA 3 El numeral 7.2 del número 7 de la Resolución 2081 Exenta, Agricultura, publicada el 27.04.2022, elimina del numeral 1.2 de la presente norma, los subtítulos de "Vid (Vitis vinifera) Estacas sin enraizar" y "Vid (Vitis rupestris, Vitis riparia y Vitis berlandieri) Estacas sin enraizar", con todos sus incisos.
+
 Disposición transitoria:
 
-En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.2, para las especies Prunus amygdalus (=P. dulcis), Prunus cerasus, Prunus avium, Prunus domestica, Prunus salicina, Prunus persica, Prunus persica var. nucipersica, Prunus armeniaca, Pyrus comunis, Citrus spp., Rubus idaeus, Rubus occidentalis, Vaccinium spp., Vitis vinifera, Vitis rupestris, Vitis riparia y Vitis berlandieri esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.2, para las especies Prunus amygdalus (=P. dulcis), Prunus cerasus, Prunus avium, Prunus domestica, Prunus salicina, Prunus persica, Prunus persica var. nucipersica, Prunus armeniaca, Pyrus comunis, Citrus spp., Rubus idaeus, Rubus occidentalis, Vaccinium spp., esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
