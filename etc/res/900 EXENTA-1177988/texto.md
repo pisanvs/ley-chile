@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 900, de 2 de junio de 2022, de esta Secretaría Regional, se otorgó Reconocimiento Oficial a la "Escuela de Conductores C & C San Antonio", de propiedad de la sociedad Instituto de Capacitación y Escuela de Conductores C & C San Antonio Limitada, cuyo nombre de fantasía es Escuela C & C San Antonio Ltda., RUT N° 77.032.193-k, representada legalmente por doña Claudia Yamili Aravena Cabeza, RUT Nº 13.767.969-8, para impartir los cursos conducentes a la obtención de las licencias profesionales Clase A2, A4 y A5, en su sede ubicada en Antofagasta Nº 204, segundo piso; taller mecánico ubicado en Av. Centenario Nº 338, y estacionamiento ubicado en Brisas del Mar Nº 1071, todos de la comuna de San Antonio.-
+
+Benigno Alejandro Retamal Rodríguez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
