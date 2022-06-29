@@ -20,7 +20,7 @@ Considerando:
 
 Resuelvo:
 
-1. Fíjese las siguientes exigencias sanitarias para el retorno de equinos que salen temporalmente del país por un período no superior a 60 días a competencias o eventos, sin fines de reproducción. Si la estadía de los equinos supera este período, para su reingreso a Chile deberán cumplir con las exigencias establecidas para el ingreso de equinos en régimen definitivo y de Doble Hemisferio.
+1. Fíjese las siguientes exigencias sanitarias para el retorno de equinos que salen temporalmente del país por un período no superior a 90 días a competencias o eventos, sin fines de reproducción. Si la estadía de los equinos supera este período, para su reingreso a Chile deberán cumplir con las exigencias establecidas para el ingreso de equinos en régimen definitivo y de Doble Hemisferio.
 
 2. El país o la zona donde permaneció temporalmente el equino debe estar declarado oficialmente libre de Peste equina africana por la Organización Mundial de Sanidad Animal (OIE).
 
