@@ -8,7 +8,7 @@ Lo dispuesto en la ley Nº 10.262, que faculta al Presidente de la República pa
 
 Decreto:
 
-1.- Autorízase a la entidad denominada "Sociedad de Asistencia y Capacitación" para realizar una colecta pública en todo el territorio nacional, los días 2, 3 y 4 de septiembre del año 2022.
+1.- Autorízase a la entidad denominada "Sociedad de Asistencia y Capacitación" para realizar una colecta pública en todo el territorio nacional, los días 9, 10 y 11 de septiembre del año 2022.
 
 2.- La colecta deberá efectuarse dando estricto cumplimiento a la normativa sanitaria vigente, según lo dispuesto por la autoridad al momento de efectuarse la colecta.
 
