@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 729, del 8 de junio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly Nº 743, comuna de Chillán, Rol de Avalúo Nº 1787-4, de aparente dominio de Bravo Aedo Luis Isidro. La superficie afecta a expropiación Parcial de terreno (Lote 84) es de 32,49 m², cuyos linderos particulares están enmarcados en el plano S16R-083, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto, Mario Fabrizzio Bellolio Bostica, por el Constructor Civil don Ítalo Renzo Zerga Arancibia y el ingeniero civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $11.063.987.-
+
+Director Serviu Región de Ñuble.
