@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 63, de fecha 27 de enero de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Centro de Estudios y Conservación del Patrimonio Natural CECPAN, RUT 65.075.516-2, concesión marítima menor, con vencimiento 30 de junio de 2031, sobre un sector de playa, en el lugar denominado Estero Castro-Norte Ten Ten, comuna de Castro, provincia de Chiloé, Región de Los Lagos, con una superficie total de 5.060 m2, la que fue tramitada con el SIABC N° 48.166. A modo referencial se señala la siguiente coordenada geográfica: Vértice 1, Lat. 42°27'55,02" S, Long. 73°46'0,50" W. El objeto consiste en amparar la conservación y permitir nidación de aves playeras migratorias. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Claudio Zúñiga Vásquez, Capitán de Corbeta LT, Capitán de Puerto de Castro.
