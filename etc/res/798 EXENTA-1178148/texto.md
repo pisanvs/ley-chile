@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 798, del 16 de junio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Psj. 5 Sur 804 El Roble, comuna de Chillán, Rol de Avalúo Nº 1822-3, de aparente dominio de Contreras Palomera Ester Zenobia. La superficie afecta a expropiación Parcial de terreno (Lote 94) es de 50,44 m² y Total de edificación es de 117,96 m², cuyos linderos particulares están enmarcados en el plano S16R-126, para el proyecto "Iniciativas de Inversión-Proyectos-Terrenos-Mejoramiento Avenida Huambali-Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por la Arquitecto doña Paola Loreto Martínez Perucca, la Arquitecto doña Carolina del Pilar Zuloaga Sanhueza, y el Ingeniero Civil don Marcelo Esteban Moreno Venegas, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $60.254.900.-
+
+Director Serviu Región de Ñuble.
