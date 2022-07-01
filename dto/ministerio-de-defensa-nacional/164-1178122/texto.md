@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 164, de fecha 4 de marzo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Ricardo Antonio Murúa López, Rut. Nº 11.722.929-7, Concesión Marítima Menor, con vencimiento el 30 de junio de 2027, sobre un sector de Terreno de Playa en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 180 m², la que fue tramitada con el SIABC Nº 48.291. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26º33'23.18"S Long. 70º40'53.03"W y Vértice D: Lat. 26º33'23.32"S Long. 70º40'53.66"W. El objeto consiste en amparar la construcción de una casa para veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Nicolás Soto Contreras, Teniente 1º LT, Capitán de Puerto de Chañaral.
