@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 696, del 1 de junio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambaly N° 731, comuna de Chillán, Rol de Avalúo N° 1787-2, de aparente dominio de Sotomayor Vega Héctor M. La superficie afecta a expropiación Parcial de terreno (Lote 82) es de 27,60 m², cuyos linderos particulares están enmarcados en el plano S16R-082, para el proyecto "Iniciativas de Inversión-Proyectos-Terrenos-Mejoramiento Avenida Huambali-Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, por el Constructor Civil don Ítalo Renzo Zerga Arancibia y el ingeniero civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $8.800.245.-
+
+Director Serviu Región de Ñuble.
