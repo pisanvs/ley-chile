@@ -8,8 +8,16 @@ Demanda General:
 
 Demanda General:
 
-3° Apruébense los montos y nóminas de beneficiarios de subsidios correspondientes al llamado a postulación establecido mediante la resolución exenta N° 337 (V. y U.), de fecha 1 de abril de 2021, citada en el Considerando 2., adjuntas como un Anexo de la presente resolución exenta, que se entiende incorporado como parte integrante de la misma. 4° Establécese el puntaje de corte de la presente selección de acuerdo a los recursos disponibles según el considerando 1., de acuerdo a la siguiente tabla:
+.
 
-5° Impútese el monto total de 91.483,33 Unidades de Fomento asignados en esta resolución exenta, de las cuales 80.129,01 Unidades de Fomento corresponden a subsidio directo y 11.354,32 Unidades de Fomento corresponden a Asistencia Técnica, a los recursos autorizados a la Región Metropolitana, para el Programa de Mejoramiento de Viviendas y Barrios del año 2021, para Condominios Viviendas Económicas. 6° Publíquese un extracto de la presente resolución exenta en el Diario Oficial por parte de la Seremi Regional y, de acuerdo a lo establecido en el DS N° 27 (V. y U.) de 2016, el Serviu de la Región Metropolitana deberá publicar en al menos un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes y proyectos beneficiados, de acuerdo al resuelvo 3°, de la presente resolución exenta.
+3° Apruébense los montos y nóminas de beneficiarios de subsidios correspondientes al llamado a postulación establecido mediante la resolución exenta N° 337 (V. y U.), de fecha 1 de abril de 2021, citada en el Considerando 2., adjuntas como un Anexo de la presente resolución exenta, que se entiende incorporado como parte integrante de la misma.
+
+4° Establécese el puntaje de corte de la presente selección de acuerdo a los recursos disponibles según el considerando 1., de acuerdo a la siguiente tabla:
+
+5° Impútese el monto total de 91.424,82 Unidades de Fomento asignados en esta resolución exenta, de las cuales 80.129,00 Unidades de Fomento corresponden a subsidio directo y 11.295,82 Unidades de Fomento corresponden a Asistencia Técnica, a los recursos autorizados a la Región Metropolitana, para el Programa de Mejoramiento de Viviendas y Barrios del año 2021, para Condominios Viviendas Económicas. 6° Publíquese un extracto de la presente resolución exenta en el Diario Oficial por parte de la Seremi Regional y, de acuerdo a lo establecido en el DS N° 27 (V. y U.) de 2016, el Serviu de la Región Metropolitana deberá publicar en al menos un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes y proyectos beneficiados, de acuerdo al resuelvo 3°, de la presente resolución exenta.
+
+> **Nota.** El numeral 1° de la Resolución 421 Exenta, Vivienda, modifica la presente norma en el sentido de rectificar en la tabla el RUT de la copropiedad "Comunidad Arturo Prat Porvenir", de la comuna de Santiago y, de corregir distribución y monto de asignación de proyecto copropiedad "La Palma", de la comuna de Ñuñoa, en la forma que se indica en la citada norma.
+
+> **Nota.** NOTA 1 El numeral 3° de la Resolución 421 Exenta, Vivienda, rectifica los anexos de la presente norma, correspondiente al financiamiento del proyecto, que se entenderá parte integrante de la presente resolución exenta.
 
 Anótese, comuníquese y publíquese.- Francisca Bustos Contreras, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo Subrogante.
