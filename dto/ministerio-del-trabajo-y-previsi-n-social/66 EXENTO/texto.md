@@ -74,7 +74,7 @@ DE LA AFILIACIÓN Y DESAFILIACIÓN
 
 #### Artículo 5º
 
-Podrán afiliarse al Servicio de Bienestar las personas que respecto de la institución a la cual éste pertenece tengan la calidad de funcionarios de planta o a contrata y aquellos que hayan jubilado siendo funcionarios de dicha institución.
+Podrán afiliarse al Servicio de Bienestar del Servicio Local de Educación Pública de Colchagua, todos los funcionarios/as de planta o a contrata en conformidad al DFL N°29 de Estatuto Administrativo, al inciso segundo del artículo 47° de la ley N°21.040 de 2017, y los funcionarios señalados en el artículo 29° de la ley N°21.109 de 2018, ambos del Ministerio de Educación, y respecto de aquellos que hayan jubilado siendo funcionarios/as de dicha Institución.
 
 Los afiliados que dejen de ser funcionarios y deseen seguir perteneciendo al Servicio de Bienestar como jubilados, podrán manifestarlo por escrito y, desde esa oportunidad y hasta que adquieran dicha calidad, se mantendrán en suspenso sus derechos como afiliados, los que se ejercerán plenamente a contar desde la fecha a partir de la cual se conceda la jubilación, pudiendo percibir retroactivamente los beneficios que correspondan, siempre que efectúen la cotización retroactiva por el periodo en que se mantuvieron en suspenso sus derechos.
 
@@ -126,7 +126,7 @@ El Consejo Administrativo, conforme al mismo procedimiento señalado en el artí
 
 Las personas que dejen de tener la calidad de afiliados del Servicio de Bienestar deberán efectuar el pago de las deudas pendientes con él en la forma y condiciones que determine el Consejo. En ningún caso, podrán alterarse las condiciones financieras estipuladas en los convenios que tales personas hayan celebrado con el Servicio de Bienestar para la obtención de los beneficios respectivos.
 
-## Título III
+## Título IV
 
 DE LA ADMINISTRACIÓN Y DIRECCIÓN
 
@@ -194,7 +194,7 @@ e) No encontrarse sometido a una investigación sumaria o sumario administrativo
 
 f) Ser afiliado al Servicio con una antigüedad no inferior a dos años; con excepción de la etapa de creación del Servicio, y
 
-g) Ser patrocinado por la firma de a lo menos 20 afiliados.
+g) Ser patrocinado por la firma de a lo menos 5 afiliados.
 
 #### Artículo 15º
 
@@ -228,7 +228,7 @@ El Encargado del Servicio de Bienestar, en su calidad de secretario del Consejo,
 
 Este Servicio de Bienestar estará sometido a la fiscalización de la Superintendencia de Seguridad Social, en adelante Superintendencia, sin perjuicio de las facultades que correspondan a la Contraloría General de la República, en adelante Contraloría, de acuerdo a sus leyes orgánicas.
 
-## Título IV
+## Título V
 
 DE LOS BENEFICIOS
 
@@ -310,6 +310,10 @@ i) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas autom�
 
 j) Ayuda médica: En caso de enfermedad grave y tratamiento médico de alto costo (Enfermedad Crónica o Catastrófica), que sea previamente calificada como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria anual de hasta diez ingresos mínimos mensuales, así como el acompañamiento social asistencial, si amerita.
 
+k) Subsidio de Fiestas Patrias: Se concederá una ayuda de hasta un ingreso mínimo mensual por cada afiliado por concepto de celebración de fiestas patrias; y
+
+l) Subsidio de Navidad: Se concederá una ayuda de hasta un ingreso mínimo mensual por cada afiliado por concepto de celebración de Navidad.
+
 #### Artículo 22º
 
 El Servicio podrá conceder, cuando su disponibilidad presupuestaria lo permita, los siguientes préstamos:
@@ -332,7 +336,7 @@ El mecanismo de reajustabilidad que se les aplicará, así como también el inte
 
 El Servicio propenderá al progreso social, cultural, recreativo y deportivo de sus beneficiarios. Con este objeto, siempre que sus recursos lo permitan, podrá:
 
-a) Financiar eventos culturales, deportivos, recreativos, festividades navideñas, actividades vacacionales, y cualquier otra que propenda a los fines señalados;
+a) Financiar eventos culturales, deportivos, recreativos, festividades navideñas, celebración de fiestas patrias, actividades vacacionales, y cualquier otra que propenda a los fines señalados;
 
 b) Asesorar y otorgar ayuda a las organizaciones que con tales fines se formen en el Consejo Administrativo, y que sean de carácter social, deportivo, recreativo y cultural, que beneficien directamente a sus afiliados, y
 
@@ -342,7 +346,7 @@ c) Realizar los estudios necesarios, a fin de que los beneficios señalados resp
 
 El Consejo fijará el porcentaje que podrá destinarse a las actividades señaladas en el artículo 24º, el cual no podrá exceder del 10% del presupuesto total del Servicio.
 
-## Título V
+## Título VI
 
 DISPOSICIONES GENERALES
 
