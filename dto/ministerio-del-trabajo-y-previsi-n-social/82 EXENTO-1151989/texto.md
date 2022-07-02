@@ -280,7 +280,9 @@ c) Patrocinar, asesorar y financiar cursos de desarrollo personal, actividades c
 
 d) Organizar y financiar celebraciones de Navidad y la adquisición de obsequios para sus afiliados e hijos cargas familiares hasta edades y montos que anualmente fije el Consejo Administrativo, y
 
-e) Organizar, promover y financiar actividades de estímulo para sus afiliados.
+e) Organizar, promover y financiar actividades de beneficios facultativos actividades vacacionales, celebración año nuevo, día de la secretaria, día del padre, día de la madre, día del niño, día internacional de la mujer, aniversario de la institución y aniversario del Servicio de Bienestar.
+
+f) Beneficios Septiembre y Diciembre: Anualmente el Consejo Administrativo del Servicio de Bienestar dispondrá la entrega de un aporte en dinero o especie por afiliado en el mes de septiembre y diciembre respectivamente, su valor estará determinado por la disponibilidad presupuestaria.
 
 #### Artículo 20°
 
