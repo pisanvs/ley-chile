@@ -552,7 +552,7 @@ El Subsistema Universitario considera como programa especial de acceso al conjun
 
 Los programas especiales de acceso pueden ser de carácter general, como es el caso del programa PACE, que se establece como una política pública ministerial, o pueden ser específicos de una determinada institución. En este último caso, deben ser aprobados por el Comité de Acceso.
 
-Dentro de la categoría de programas especiales de acceso de carácter específico, se encuentran los Programas de Preparación y Acceso a Pedagogía, los que deberán ser además validados por el Ministerio de Educación.
+Dentro de la categoría de programas especiales de acceso de carácter específico, se encuentran los Programas de Preparación y Acceso a Pedagogía, los que son únicamente validados por el Ministerio de Educación, en los términos dispuestos en las leyes Nº 20.129 y Nº 20.903, o la normativa que las reemplace.
 
 Por su parte, los Programas Especiales de Acceso de carácter específico, es decir, ofrecidos por las mismas Universidades, deberán contemplar:
 
@@ -610,7 +610,7 @@ El postulante podrá utilizar los puntajes obtenidos en las pruebas rendidas en 
 
 Previo a la etapa de postulación y según lo determine el Comité de Acceso, las universidades adscritas al Sistema recibirán el puntaje obtenido por los inscritos en cada uno de los instrumentos generales de acceso (puntaje NEM, puntaje Ranking, pruebas de admisión universitaria obligatorias, requeridas y electivas).
 
-Cada postulante deberá seleccionar, en estricto orden de preferencia, hasta 10 combinaciones de carrera, sede (o campus) y universidad. Durante el proceso de postulación, el postulante podrá modificar sus preferencias, considerándose como válida para efectos del proceso de selección la última modificación realizada. La postulación a las carreras es de exclusiva responsabilidad del postulante. Sin perjuicio de lo anterior, no será posible modificar las preferencias una vez finalizada la etapa de postulación, por lo que, al ser seleccionado un postulante en una carrera, quedarán automáticamente eliminadas sus postulaciones a las carreras que siguen en la lista de sus preferencias.
+Cada postulante deberá seleccionar, en estricto orden de preferencia, hasta 20 combinaciones de carrera, sede (o campus) y universidad. Durante el proceso de postulación, el postulante podrá modificar sus preferencias, considerándose como válida para efectos del proceso de selección la última modificación realizada. La postulación a las carreras es de exclusiva responsabilidad del postulante. Sin perjuicio de lo anterior, no será posible modificar las preferencias una vez finalizada la etapa de postulación, por lo que, al ser seleccionado un postulante en una carrera, quedarán automáticamente eliminadas sus postulaciones a las carreras que siguen en la lista de sus preferencias.
 
 Si con posterioridad al período de postulación y antes del primer período de matrícula, un estudiante se ve afectado por situaciones de fuerza mayor, este podrá presentar una solicitud de Matrícula por Excepción, mediante la cual podrá modificar su postulación.
 
