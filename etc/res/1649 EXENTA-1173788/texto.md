@@ -36,4 +36,6 @@ Fíjese el arancel para la prueba de admisión universitaria para el proceso de 
 
 Lo anterior, sin perjuicio de las causales de eximición establecidas en la ley N° 21.395 de presupuestos del sector público correspondiente al año 2022, en su Partida 09, Capítulo 90, Programa 01, Subtítulo 24, Ítem 03, Asignación 007, Glosa 06.
 
+Para la aplicación regular de la prueba de admisión universitaria, en el caso que el o la postulante inscriba conjuntamente la Prueba de Competencia Matemática 1 y la Prueba de Competencia Matemática 2, el arancel de inscripción de esta última prueba será gratuito.
+
 Anótese y publíquese en la página web del Ministerio de Educación y en el Diario Oficial con cargo al Ministerio de Educación.- Juan Eduardo Vargas Duhart, Subsecretario de Educación Superior.
