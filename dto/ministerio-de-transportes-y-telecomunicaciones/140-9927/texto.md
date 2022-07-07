@@ -16,13 +16,9 @@ D e c r e t o:
 
 1.- Otórgase a la Compañía Minera del Pacífico S.A. concesión para construir y explotar un desvío o ramal ferroviario de 14.067,19 metros de longitud, que partiendo en Minas Los Colorados, III Región, en un punto ubicado en la latitud 28°17'22", 1248 y longitud 70°48'49", 0848, unirá el yacimiento minero Los Colorados y el kilómetro 765 de la red longitudinal norte de la Empresa de Transportes Ferroviarios S.A., (Ferronor), y se denominará "Llano la Jaula".
 
-2.- Apruébanse los planos LC90-21-104 a LC90-21-119, LC90-21-124, LC90-21-121 de la ubicación General y LC90-21-122 de Planta General del trazado del Ramal, desarrollados en una franja de aproximadamente 5,4 kilómetros de largo por 20 metros de ancho, del predio particular denominado "Estancia Avalos y Zuleta", con una cabida aproximada de 108.000 metros cuadrados y en una franja de aproximadamente 9,1 kilómetros de largo por 20 metros de ancho, del predio fiscal denominado "Estancia Llanos del Lagarto", con una cabida estimada de 182.000 metros cuadrados.
+2.- Apruébese el plano MLC 19-G-PL-H1800-001 Planta Trazado Concesión Vía Férrea, que define una franja de 14.067,19 metros de largo por 20 metros de ancho, y una cabida aproximada de 281.343,8 metros cuadrados, el plano MLC 19-G-PL-H1800-002, Planta Trazado Concesión Vía Férrea en Terrenos Fiscales Estancia Llanos de Lagarto, que define una franja de 8.828,19 metros de largo con una cabida aproximada de 176.563,8 metros cuadrados, y el plano MLC 19-G-PL-H1800-003, Planta Trazado Concesión Vía Férrea en Terreno Particular Estancia Chañar Quemado, que define una franja de 5.239 metros de largo con una cabida aproximada de 104.780 metros cuadrados.
 
-Los deslindes de las franjas antes individualizadas son los siguientes:
-
-Franja del predio particular: Al Norte, Sur y Oeste, con Estancia de su ubicación (Avalos y Zuleta). Al Este con Estancia Llanos del Lagarto.
-
-Franja del predio fiscal: Al Norte y al Sur, con Estancia de su ubicación (Llanos del Lagarto). Al Este con terrenos ocupados por red longitudinal norte de Ferronor S.A. al Oeste, con Estancia Avalos y Zuleta.
+Los deslindes de las franjas antes individualizadas son los siguientes: Franja del predio particular: Al Norte, Sur y Oeste, con Estancia de su ubicación (Chañar Quemado). Al Este con Estancia Llanos del Lagarto. Franja del predio fiscal: Al Norte y al Sur, con Estancia de su ubicación (Llanos del Lagarto). Al Este con terrenos ocupados por red longitudinal norte de Ferronor S.A. al Oeste, con Estancia Chañar Quemado.
 
 Autorízase asimismo, a la Compañía Minera del Pacífico S.A. para usar y ocupar con el desvío "Llano la Jaula" la franja de terrenos fiscales antes delimitados y establécese que por este concepto pagará rentas anuales anticipadas de arrendamiento, que se fijarán por el Ministerio de Transportes y Telecomunicaciones, conforme a lo dispuesto en el Decreto N° 436, de 1966 de Transportes.
 
@@ -37,6 +33,8 @@ Autorízase asimismo, a la Compañía Minera del Pacífico S.A. para usar y ocup
 7.- Facúltase al señor Subsecretario de Transportes del Ministerio de Transportes y Telecomunicaciones para firmar esta escritura en representación del Fisco.
 
 8.- Déjase sin efecto el D.S. N° 218, sin tramitar de 5 de octubre de 1991, de este Ministerio.
+
+> **Nota.** El número 1° del Decreto 50, Transportes, publicado el 07.07.2022, dispone regularizar la prórroga, por un período de treinta años, de la concesión ferroviaria otorgada mediante el presente decreto, a la Compañía Minera del Pacífico S.A., del desvío o ramal "Llano La Jaula".
 
 Regístrese en el Ministerio de Bienes Nacionales, tómese razón, anótese, comuníquese y publíquese.
 
