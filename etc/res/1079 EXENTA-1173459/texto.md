@@ -42,6 +42,8 @@ IAU = Incentivo de Acceso Universal, corresponde al incentivo adicional que se o
 
 BER = Bus Estándar Red, corresponde al incentivo adicional que se otorga si el vehículo entrante tiene las características establecidas en la resolución exenta Nº 3.149, de 2021, modificada por la resolución exenta Nº 4.582, de 2021, ambas del Ministerio de Transportes y Telecomunicaciones:
 
+BE = Bus eléctrico, corresponde al incentivo adicional que se otorga si el vehículo entrante es eléctrico, según lo señalado en la letra l) del artículo 3 del decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, el cual corresponderá a un monto único de: $23.740.000.-
+
 c) Vehículo Saliente: Buses, Trolebuses y Taxibuses con capacidad entre 39 y 67 plazas inclusive. (Montos expresados en millones de pesos).
 
 A los montos previamente indicados, para vehículos entrantes año 2022 y 2023, deberán sumarse los siguientes incentivos adicionales, si corresponde según lo indicado en el artículo 7, del decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones:
@@ -50,6 +52,8 @@ IAU = Incentivo de Acceso Universal, corresponde al incentivo adicional que se o
 
 BER = Bus Estándar Red, corresponde al incentivo adicional que se otorga si el vehículo entrante tiene las características establecidas en la resolución exenta Nº 3.149, de 2021, modificada por la resolución exenta Nº 4.582, de 2021, ambas del Ministerio de Transportes y Telecomunicaciones:
 
+BE = Bus eléctrico, corresponde al incentivo adicional que se otorga si el vehículo entrante es eléctrico, según lo señalado en la letra l) del artículo 3 del decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, el cual corresponderá a un monto único de: $23.740.000.-
+
 d) Vehículo Saliente: Buses, Trolebuses y Taxibuses con capacidad mayor o igual a 68 plazas. (Montos expresados en millones de pesos)
 
 A los montos previamente indicados, para vehículos entrantes año 2022 y 2023, deberá sumarse los siguientes incentivos adicionales, si corresponde según lo indicado en el artículo 7, del decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones:
@@ -57,5 +61,7 @@ A los montos previamente indicados, para vehículos entrantes año 2022 y 2023, 
 IAU = Incentivo de Acceso Universal, corresponde al incentivo adicional que se otorga si el vehículo entrante tiene las características que lo hagan utilizable por todas las personas en condiciones de seguridad y comodidad, de la forma más autónoma y natural posible, según lo establecido mediante resolución exenta Nº 172, de 2018, modificada por resolución exenta Nº 2.371, de 2021, ambas del Ministerio de Transportes y Telecomunicaciones, el cual corresponderá a un monto único de: $13.930.000.
 
 BER = Bus Estándar Red, corresponde al incentivo adicional que se otorga si el vehículo entrante tiene las características establecidas en la resolución exenta Nº 3.149, de 2021, modificada por la resolución exenta Nº 4.582, de 2021, ambas del Ministerio de Transportes y Telecomunicaciones:
+
+BE = Bus eléctrico, corresponde al incentivo adicional que se otorga si el vehículo entrante es eléctrico, según lo señalado en la letra l) del artículo 3 del decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, el cual corresponderá a un monto único de: $23.740.000.-
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
