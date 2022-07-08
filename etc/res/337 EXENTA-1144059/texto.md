@@ -120,9 +120,13 @@ g) En caso de entregarse como garantía un Certificado de Fianza, éste deberá 
 
 h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo. No obstante lo anterior, habiéndose acreditado la recepción conforme por parte de la Dirección de Obras Municipales y del Serviu de la totalidad de las obras del proyecto en cuestión, financiadas con el crédito, podrán reemplazarse las garantías consistentes en boleta bancaria de garantía, póliza de garantía de ejecución inmediata o certificado de fianza recíproca, por un pagaré autorizado ante Notario, por el valor total del crédito adeudado.
 
+i) En caso de proyectos de las tipologías de Construcción en Sitio Propio, Pequeños Condominios y Densificación Predial, el reemplazo de las garantías señalado podrá ser efectuado proporcionalmente por cada vivienda cuyas obras se encuentren totalmente terminadas presentando informe emitido por el Fiscalizador Técnico de Obras en que conste que las obras fueron construidas según las especificaciones técnicas correspondientes y que no existen observaciones pendientes, sin que se requiera la recepción de la Dirección de Obras Municipales señalada en el literal anterior.
+
 i) En caso de proyectos de las tipologías de Construcción en Sitio Propio, Pequeños Condominios y Densificación Predial, el reemplazo de las garantías señalado podrá ser efectuado proporcionalmente, por cada vivienda que acredite la recepción conforme por parte de la Dirección de Obras Municipales y del Serviu.
 
 9. El préstamo se formalizará mediante el correspondiente contrato de mutuo, protocolizado de conformidad al Artículo Nº61 de la ley Nº16.391, siendo de cargo del mutuario todos los gastos que ello irrogue, sin perjuicio de su posterior aprobación mediante resoluciones del Director del serviu respectivo.
+
+> **Nota.** El numeral 4° de la Resolución 821 Exenta, Vivienda, publicada el 08.07.2022, modifica la presente resolución, en el sentido de agregar a continuación del literal h) del Resuelvo 8, un literal i). No obstante lo anterior, la modificación dispuesta por el numeral 11° de la Resolución 421 Exenta, Vivienda, publicada el 27.04.2021, ya había agregado un literal i) en el Resuelvo 8, por lo que en el presente texto actualizado contiene dos literales i).
 
 Anótese, publíquese y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
