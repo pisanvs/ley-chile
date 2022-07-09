@@ -302,8 +302,6 @@ Los niveles de calidad para las atenciones de emergencias son los establecidos e
 
 Las fórmulas tarifarias a que se refiere este decreto, se aplicarán a los consumos que se determinen de las lecturas realizadas a contar del 1 de noviembre del año 2018, las que tendrán una vigencia de cinco años.
 
-> **Nota.** El Decreto 2 Exento, Economía, publicado el 23.03.2023, modifica la presente norma en el sentido de prorrogar el período de vigencia de las fórmulas tarifarias fijadas por la presente norma, por otro período de cinco años, contados a partir del 1 de noviembre de 2023.
-
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, José Ramón Valente Vias, Ministro de Economía, Fomento y Turismo.
 
 Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Ignacio Guerrero Toro, Subsecretario de Economía y Empresas de Menor Tamaño.
