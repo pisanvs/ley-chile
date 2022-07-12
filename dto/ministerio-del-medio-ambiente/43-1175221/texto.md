@@ -65,3 +65,25 @@ Plan de manejo. En un plazo de 24 meses contado desde la publicación del presen
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.
 
 Lo que transcribo a Ud. para los fines que estime pertinente.- Maximiliano Proaño U., Subsecretario del Medio Ambiente.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance el decreto Nº 43, de 2021, del Ministerio del Medio Ambiente
+
+Nº E202199/2022.- Santiago, 7 de abril de 2022.
+
+Esta Contraloría General ha dado curso al documento del epígrafe, que declara santuario de la naturaleza Playa Tunquén-Quebrada Seca, ubicado en las comunas de Algarrobo y Casablanca, provincias de San Antonio y Valparaíso, respectivamente, Región de Valparaíso, por encontrarse ajustado a derecho.
+
+No obstante, cumple con hacer presente que, atendido que la creación de áreas protegidas trae aparejada como obligación esencial que el administrador elabore un plan de manejo en el plazo que indica, esta Contraloría General entiende que la corporación o fundación a que se refiere el artículo 4º de su parte dispositiva, debe crearse a la brevedad para tales efectos, correspondiendo a esa Secretaría de Estado velar por esos fines.
+
+Con el alcance que antecede se ha tomado razón del decreto de la suma.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+A la señora
+
+Ministra del Medio Ambiente
+
+Presente.
