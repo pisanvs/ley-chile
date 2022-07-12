@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA I Nº 24, DE 15.06.2021, QUE APROBÓ EL "CONTRATO DE ARRENDAMIENTO", SUSCRITO CON FECHA 31.05.2021, CON EL ARRENDADOR DON ABEL HERMINIO BÓRQUEZ MAYORGA, RESPECTO DE INMUEBLE UBICADO EN CALLE RÍO MAITÉN Nº 518, DE LA COMUNA Y CIUDAD DE COCHRANE, REGIÓN DE AYSÉN
+
+Por resolución exenta I Nº 17, de 17 de junio de 2022, el jefe del Departamento de Administración e Inmobiliaria, aprueba la modificación del resuelvo Nº 3 de la resolución exenta I Nº 24, de 15 de junio de 2021, que aprobó "Contrato de Arrendamiento", suscrito con fecha 31 de mayo de 2021, entre este Instituto de Previsión Social y don Abel Herminio Bórquez Mayorga, sobre su propiedad ubicada en calle Río Maitén Nº 518, de la comuna y ciudad de Cochrane, Región de Aysén, en el sentido de designar a partir de su total tramitación, como Administradora Titular del referido contrato, a la funcionaria Wilma Marín Sandoval, de la Dirección Regional IPS Región de Aysén, quien tendrá las facultades y responsabilidades que se indican en la Cláusula Octava de la mencionada convención.-
+
+Nicolás Fernández Abdala, Jefe (S) del Departamento Administración e Inmobiliaria.
