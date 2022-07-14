@@ -162,7 +162,7 @@ Sin perjuicio de lo indicado en el artículo 1º transitorio de este decreto, lo
 
 #### Artículo 3º
 
-Las "microempresas" y "pequeñas empresas" definidas en Ley 20.416 que Fija Normas Especiales para las Empresas de Menor Tamaño, dispondrán de un plazo de 72 y 36 meses respectivamente contado desde la fecha de entrada en vigencia del presente decreto, para cumplir con la obligación de rotular el descriptor "ALTO EN" establecida en el artículo 120 bis.
+Las "microempresas" y "pequeñas empresas" definidas en Ley 20.416 que Fija Normas Especiales para las Empresas de Menor Tamaño, dispondrán de un plazo de 120 y 36 meses respectivamente contado desde la fecha de entrada en vigencia del presente decreto, para cumplir con la obligación de rotular el descriptor "ALTO EN" establecida en el artículo 120 bis.
 
 #### Artículo 4º
 
