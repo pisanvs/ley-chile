@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 843, del 30 de junio de 2022, Serviu región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 855 El Roble, comuna de Chillán, Rol de Avalúo Nº 01836-00002, de aparente dominio de Becerra Palacios Pedro Enrique. La superficie afecta a expropiación parcial de terreno es de 26,54 m2 (Lote 98), cuyos linderos particulares están enmarcados en el plano S16R-130, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto don Alexander Theodor Boye Trenit, la ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón, y el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $6.286.673.-
+
+Director Serviu Región de Ñuble.
