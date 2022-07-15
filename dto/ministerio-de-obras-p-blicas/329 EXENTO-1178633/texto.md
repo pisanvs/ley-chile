@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº329, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 10-B, para la obra: AMPLIACION RUTA S-839 (SEGUNDA FAJA AL VOLCAN) VILLARRICA, que figura a nombre de INMOBILIARIA NUEVAVIDA LIMITADA., conforme al Registro de Propiedad de fojas 2.752 Nº 2.121, del Conservador de Bienes Raíces de Villarrica del año 2018, superficie 889 m2. La Comisión de Peritos integrada por los peritos MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de fecha 07 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $39.116.000.- para el lote Nº10-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
