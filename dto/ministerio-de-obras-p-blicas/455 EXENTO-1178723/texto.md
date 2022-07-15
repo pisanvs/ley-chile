@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 455 de 22 de junio de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 67 para la obra: CONCESIÓN RUTA 66 - CAMINO DE LA FRUTA. SECTOR B. SUBSECTOR: RUTA 66: ENLACE LAS ARAÑAS - LAS BRISAS DE SANTO DOMINGO, Región Metropolitana de Santiago, que figura a nombre de JIMENEZ JIMENEZ GLORIA ESTELA, rol de avalúo 11-21 de la comuna de San Pedro, superficie 380 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 6 de 6 de enero de 2022, integrada por Sergio Jeremías Órdenes Salinas, Víctor Hugo Escobar Uribe e Idema Violeta Riffo Salgado, mediante informe de tasación de 28 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $4.357.500 para el lote N° 67. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
