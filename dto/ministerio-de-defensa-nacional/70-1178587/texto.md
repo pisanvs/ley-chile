@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 70, de fecha 27 de enero de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Servicios Portuarios Patillos S.A., RUT Nº 61.214.000-6, quinta renovación de concesión marítima menor, con vencimiento el 30 de junio de 2027, sobre un sector de terreno de playa, en el lugar denominado Caleta Patillos, 60 Kms. al sur del Puerto de Iquique, comuna y provincia de Iquique, Región de Tarapacá, con una superficie total de 104.000 m2, la que fue tramitada con el SIABC Nº 45.318. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en continuar utilizando las instalaciones existentes de bateas solares, canchas de almacenamiento de sal y otras instalaciones complementarias a su industria. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Patache. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
