@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 878 del 7 de julio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 845 El Roble, comuna de Chillán, Rol de Avalúo N° 01822-00002, de aparente dominio de Carrasco Cerda Alicia del R. La superficie afecta a expropiación Parcial es de 23,64 m² (Lote 96) (cuyos linderos particulares están enmarcados en el plano S16R-128, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $7.407.349.-
+
+Director Serviu Región de Ñuble.
