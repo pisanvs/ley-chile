@@ -1,0 +1,7 @@
+DESTINACIÓN MARÍTIMA
+
+Decreto exento Nº 179, de fecha 4 de marzo de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, RUT Nº 60.719.000-3, Destinación Marítima, con vencimiento el 31 de diciembre de 2031, un sector de fondo de mar y porción de agua, en el lugar denominado Ensenada Gualaihué, al Noroeste de Punta Quebraolas, comuna de Hualaihué, provincia de Palena, Región de Los Lagos, con una superficie total de 43.801,28 m2, la que fue tramitada con el CM60920. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar un área de colecta de semillas, según lo dispuesto en el Título VI, párrafo 1º, artículo 75 Quáter, de la ley Nº 18.892, Ley General de Pesca y Acuicultura y sus modificaciones; y el DS Nº 297, de 2005, modificado por el DS 123, de 2011, ambos del Ministerio de Economía, Fomento y Reconstrucción, reglamento para la instalación de colectores. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Río Negro Hornopirén. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Osvaldo Hernández Moreira, Suboficial L. (Seg. M.), Capitán de Puerto de Río Negro Hornopirén.
