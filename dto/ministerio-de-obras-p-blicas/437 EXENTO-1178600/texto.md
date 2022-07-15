@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP. Nº437, de 22 de junio de 2022, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto (Exento) MOP Nº330, de 30 de abril de 2020, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº13-J, expropiado con motivo de la obra: Construcción Camino Puelo - Paso El Bolsón, Comuna de Cochamó, Provincia de Llanquihue, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 21 de octubre de 2016, complementado por acta de 16 de marzo de 2018, ascendente a la cantidad de $1.572.400, para el lote Nº13-J. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
