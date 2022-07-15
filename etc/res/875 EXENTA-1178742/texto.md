@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta Nº 875 del 07.07.2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 867 El Roble, comuna de Chillán, Rol de Avalúo Nº 01836-00004, de aparente dominio de Sociedad Comercializadora y Constru. La superficie afecta a expropiación Parcial es de 24,29 m2 de terreno (Lote 100), cuyos linderos particulares están enmarcados en el plano Sl6R-132, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $5.325.536.-
+
+Director Serviu Región de Ñuble.
