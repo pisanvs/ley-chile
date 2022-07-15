@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 432 de 22 de junio de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 141-66, comuna de Queilén, superficie 742 m2., para la obra MEJORAMIENTO W-883, SECTOR APECHE - CRUCE RUTA W-853 (PUENTE LAS CAÑAS), COMUNA DE QUEILÉN, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 18 de marzo de 2019, acordándose la indemnización con su propietario JUAN ÁNGEL PAIRO, en la cantidad de $2.672.757.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
