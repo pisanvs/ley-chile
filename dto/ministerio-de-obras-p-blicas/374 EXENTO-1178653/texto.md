@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 374 de 14 de junio de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 125 para la obra: CONCESIÓN RUTA 66 - CAMINO DE LA FRUTA. SECTOR B. SUBSECTOR: RUTA 66: PUENTE EL DURAZNO - ENLACE LAS ARAÑAS, Región Metropolitana de Santiago, que figura a nombre de CORREA ARDIZZONI JUAN LUIS, rol de avalúo 19-261 de la comuna de San Pedro, superficie 962 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 569 de 2 de diciembre de 2021, integrada por Carmen Andrea Alarcón Montecino, Roberto Sohrens Camus y Maximiliano Cortés Caiozzi, mediante informe de tasación de 20 de enero de 2022, fijó el monto de la indemnización provisional en la cantidad de $2.701.000 para el lote Nº 125. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
