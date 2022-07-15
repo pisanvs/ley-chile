@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta Nº 876 del 7 de julio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambali 861, El Roble, comuna de Chillán, Rol de Avalúo Nº 1836-3, de aparente dominio de Campos Burgos José de Las M. La superficie afecta a expropiación Parcial es de 28,97 m2 de terreno (Lote 99) y expropiación Parcial de 66,54 m 2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-158, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, el Ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón y el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $36.678.502.-
+
+Director Serviu Región de Ñuble.
