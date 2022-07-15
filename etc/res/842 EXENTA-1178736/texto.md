@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 842, del 30 de junio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº 849, comuna de Chillán, Rol de Avalúo Nº 01836-00025, de aparente dominio de De la Fuente Irribarren Francisco. La superficie afecta a expropiación parcial de terreno es de 27,14 m² (lote 97) y parcial de edificación (a)+(b) es de 77,75 m², cuyos linderos particulares están enmarcados en el plano S16R-129, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto don Alexander Theodor Boye Trenit, la ingeniero constructor doña Lorena Elizabeth Gajardo Alarcón, y el arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $48.130.896.-
+
+Director Serviu Región de Ñuble.
