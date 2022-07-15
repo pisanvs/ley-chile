@@ -82,6 +82,8 @@ En estos proyectos las construcciones correspondientes al equipamiento podrán s
 
 (En pesos moneda nacional, base Enero 2021)
 
+.
+
 ### II. OTRAS CONSTRUCCIONES:
 
 1.- TABLA DE CLASIFICACIÓN DE OTRAS CONSTRUCCIONES, TALES COMO: GALPONES, BODEGAS, HANGARES Y EDIFICIOS SIMILARES.
