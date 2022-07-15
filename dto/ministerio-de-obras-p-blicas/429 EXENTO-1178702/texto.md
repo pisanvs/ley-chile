@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 429 de 22 de junio de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 125, 126, 127, 129, 130 y 132, Rol de avalúo 841-4, comuna de Río Ibáñez, superficies 2.755, 21.132, 3.042, 409, 1.926 y 176 m2. respectivamente, para la obra MEJORAMIENTO RUTA 7 SUR, SECTOR MURTA - PUERTO TRANQUILO (ACCESO NORTE PUERTO TRANQUILO-ACCESO CAPILLA DEL MÁRMOL), COMUNA DE RÍO IBÁÑEZ, PROVINCIA DE GENERAL CARRERA, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO. La comisión de peritos, integrada por SERGIO JEREMÍAS ÓRDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SÁNCHEZ y HANDY CAMPOS SEPÚLVEDA, fijó el valor de tasación con fecha 01 de marzo de 2019, acordándose la indemnización con su propietaria INVERSIONES TRICAHUE LIMITADA, en la cantidad de $10.878.378.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
