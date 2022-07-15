@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP. N° 424, de 22 de junio de 2022, se modificó el numeral segundo del Decreto (Exento) MOP. N° 77, de 26 de marzo de 2021, en lo que se refiere al nombre del propietario, y se dejaron sin efecto los numerales 3°, 4°, 5° y 6° del Decreto (Exento) MOP. N°77, de 26 de marzo de 2021, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N° 81, expropiado con motivo de la obra: "Mejoramiento Camino Básico Intermedio Maquehue - Boroa - Puente Ragñintuleufu, comunas de Padre Las Casas y Nueva Imperial, Provincia de Cautín, Región de la Araucanía", que figura actualmente a nombre de ESPINOZA NECULQUEO SERVANDO, rol de avalúo 3212-254, Comuna de PADRE LAS CASAS, REGION DE LA ARAUCANÍA, superficie 592 m2. Consígnese judicialmente el monto provisional de la indemnización fijada mediante informe de tasación de fecha 21 de octubre de 2019, ascendente a la cantidad de $5.899.000.-, para el lote N°81. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186 de 1978.
+
+Fiscalía MOP.
