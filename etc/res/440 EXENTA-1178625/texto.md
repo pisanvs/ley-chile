@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N°440 EXENTA, DEL 29 DE JUNIO DEL 2022
+
+Por resolución exenta N° 440 del 29 de junio del año 2022, del Gobierno Regional de Ñuble,
+
+- **1.-** Que, mediante solicitud de fecha 24 de junio del año 2022, presentada por don Jaime Ortiz Suárez, representante de la empresa constructora Ecogam Ltda, solicitando corte de tránsito vehicular en calle Baquedano, entre Camino Público y Avenida O'Higgins, Avenida O'Higgins entre las calles Baquedano y San Martín y calle San Martín entre las calles O'Higgins y camino público, desde las 8:30 horas del día 23 de junio del año 2022 hasta las 18:00 horas del día 30 de diciembre del año 2022, con la finalidad de realizar la actividad denominada "Normalización y Mejoramiento de Veredas" comuna de Portezuelo.
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo, con dicho corte de tránsito en la comuna de Portezuelo, de acuerdo a los términos que se indica: Calle Baquedano, entre Camino Público y Avenida O'Higgins, Avenida O'Higgins entre las calles Baquedano y San Martín y Calle San Martín entre las calles O'Higgins y camino público, desde las 8:30 horas del día 23 de junio del año 2022 hasta las 18:00 horas del día 30 de diciembre del año 2022.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL N° 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en calle Baquedano, entre Camino Público y Avenida O'Higgins, Avenida O'Higgins entre las calles Baquedano y San Martín y Calle San Martín entre las calles O'Higgins y camino público, desde las 8:30 horas del día 23 de junio del año 2022 hasta las 18:00 horas del día 30 de diciembre del año 2022, con la finalidad de realizar la actividad denominada "Normalización y Mejoramiento de Veredas", comuna de Portezuelo.
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
