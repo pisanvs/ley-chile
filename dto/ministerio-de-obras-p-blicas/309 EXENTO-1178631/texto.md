@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº309, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960 y artículo 12º, de la ley Nº18.777, se expropió para la Empresa de Servicios Sanitarios San Isidro S.A. (ESSSI S.A), el lote de terreno Nº 3 C, para la obra: RECINTO PRODUCTIVO AGUA POTABLE LOS CIPRESES, que figura a nombre de COMITE DE VIVIENDA LOS CIPRESES, rol de avalúo 4650-97, Comuna de TEMUCO, REGION DE LA ARAUCANÍA, superficie 124 m2. La Comisión de Peritos integrada por CLAUDIO ALEJANDRO ROMO SANHUEZA, ARTURO OSVALDO CANTOS OYARZUN y CONSTANZA VICTORIA HILDA MIHOEVIC GONZALEZ, mediante informe de tasación de 02 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.761.482.- para el lote Nº3 C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
