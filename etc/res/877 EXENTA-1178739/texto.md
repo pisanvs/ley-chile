@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta Nº 877 del 7 de Julio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí 837, comuna de Chillán, Rol de Avalúo Nº 01822-00001, de aparente dominio de Arias Zarate Paulo Patricio. La superficie afecta a expropiación Parcial es de 24,51 m2 (Lote 95) y Parcial de edificación de 85.64 m2 cuyos linderos particulares están enmarcados en el plano S16R-127, para el proyecto "Mejoramiento Avenida Huambalí, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por el Arquitecto don Alexander Theodor Boye Trenit, la Ingeniero Constructor doña Lorena Elizabeth Gajardo Alarcón, y por el Arquitecto don Rodrigo Alexis Escobar Fernández, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $50.656.059.-
+
+Director Serviu Región de Ñuble.
