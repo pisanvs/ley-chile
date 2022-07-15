@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta Nº 879 del 7 de julio de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Alonso Ercilla 1795 AMP S Gajardo, comuna de Chillán, Rol de Avalúo Nº 001606-00007, de aparente dominio de Luengo Sandoval Julio Enrique y Otr. La superficie afecta a expropiación Total es de 176,92 m2 de terreno (Lote 61) y la de expropiación Total es de 83,70 m 2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-158, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán y el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $90.586.430.-
+
+Director Serviu Región de Ñuble.
