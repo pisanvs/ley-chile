@@ -28,6 +28,4 @@ I. Ejecútese el acuerdo del Consejo Directivo del Servicio Electoral, adoptado 
 
 "ACUERDO QUE ESTABLECE LOS MÁXIMOS DE GASTOS ELECTORALES PERMITIDOS PARA EL PLEBISCITO CONSTITUCIONAL DE 4 SEPTIEMBRE DE 2022"
 
-> **Nota.** El numeral I de la Resolución 499, Servicio Electoral, publicada el 30.07.2022, dispone ejecutar el acuerdo del Consejo Directivo del Servicio Electoral, adoptado en la sesión ordinaria Nº 452, celebrada el 27 de julio de 2022, que complementa los límites máximos de gastos electorales permitidos para el Plebiscito Constitucional de 4 de septiembre de 2022, establecidos mediante la presente resolución y la resolución 461, publicada el 15.07.2022, con el objeto de complementar los límites máximos de gastos electorales permitidos para las organizaciones de la sociedad civil y comandos adscritos a las proposiciones plebiscitarias 'Apruebo' y 'Rechazo', en los términos que indica la tabla inserta de la citada norma.
-
 Anótese, comuníquese y publíquese.- Raúl García Aspillaga, Director Servicio Electoral de Chile.
