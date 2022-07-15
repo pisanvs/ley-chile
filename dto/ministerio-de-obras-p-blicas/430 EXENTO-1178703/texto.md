@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 430 de 22 de junio de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 321-406, comuna de Cunco, superficie 426 m2., para la obra MEJORAMIENTO CBI LAS HORTENSIAS QUECHEREHUE COLICO, COMUNA DE CUNCO, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, PABLO ALEJANDRO SEPÚLVEDA GÓMEZ y ELENA PILAR FRITZ AGÜERO, fijó el valor de tasación con fecha 9 de abril de 2021, acordándose la indemnización con su propietario BELISARIO RICARDO FRITZ BERMEDO, en la cantidad de $1.154.632.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
