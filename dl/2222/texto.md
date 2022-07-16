@@ -40,9 +40,9 @@ Las naves se clasifican en mercantes y especiales y, según su porte, en naves m
 
 Son naves mercantes las que sirven al transporte, sea nacional o internacional.
 
-Son naves especiales las que se emplean en servicios, faenas o finalidades específicas, con características propias para las funciones a que están destinadas, tales como remolcadores, pesqueras, dragas, barcos científicos o de recreo, etcétera.
+Son naves especiales las que se emplean en servicios, faenas o finalidades específicas, con características propias para las funciones a que están destinadas, tales como remolcadores, pesqueros, dragas, barcos científicos o de recreo, etcétera.
 
-Son naves mayores aquellas de más de cincuenta toneladas de registro grueso, y naves menores, las de cincuenta o menos toneladas de registro grueso.
+Son naves mayores aquellas cuyo arqueo bruto es de cien o más y naves menores todas aquellas cuyo arqueo bruto es menor a cien.
 
 #### Artículo 5°
 
