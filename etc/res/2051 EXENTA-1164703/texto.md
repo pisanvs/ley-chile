@@ -34,9 +34,9 @@ Resuelvo:
 
 1.- Deléguese en el Delegado Presidencial Provincial del Biobío, las atribuciones que a continuación se individualizan:
 
-a) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para prevenir y/o enfrentar situaciones de emergencia o catástrofe que afecten a la provincia de Biobío, para la ejecución de acciones relacionadas con los fines del servicio y de acciones de apoyo, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas o convenio marco y hasta por un monto de 15.000 UTM, en caso de trato directo o licitación privada, conforme las normas de la ley 19.886 y su reglamento.
+a) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para prevenir y/o enfrentar situaciones de emergencia o catástrofe que afecten a la provincia de Biobío, para la ejecución de acciones relacionadas con los fines de servicio y de acciones de apoyo, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas, licitaciones privadas, convenio marco y/o trato directo, conforme a las normas de la ley N° 19.886 y su reglamento.
 
-b) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para la ejecución de acciones relacionadas con los fines del servicio y de acciones de apoyo, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas o convenio marco y hasta por un monto de 15.000 UTM, en caso de trato directo o licitación privada, conforme las normas de la ley 19.886 y su reglamento.
+b) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para la ejecución de acciones relacionadas con los fines del servicio y de acciones de apoyo en la Provincia de Biobío, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas, licitación privada, convenio marco y/o trato directo, conforme a las normas de la ley 19.886 y su reglamento.
 
 c) La facultad de celebrar convenios de colaboración, de mandato y/o ejecución con o sin transferencia de recursos, entre entidades públicas.
 
@@ -50,9 +50,9 @@ g) La facultad de suscribir y/o aprobar convenios o contratos para el financiami
 
 2.- Deléguese en el Delegado Presidencial Provincial de Arauco, las atribuciones que a continuación se individualizan:
 
-a) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para prevenir y/o enfrentar situaciones de emergencia o catástrofe que afecten a la provincia de Arauco, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas o convenio marco y hasta por un monto de 15.000 UTM, en caso de trato directo o licitación privada, conforme las normas de la ley 19.886 y su reglamento.
+a) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para prevenir y/o enfrentar situaciones de emergencia o catástrofe que afecten a la provincia de Arauco, para la ejecución de acciones relacionadas con los fines del servicio y de acciones de apoyo, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas, licitaciones privadas, convenio marco y/o trato directo, conforme a las normas de la ley N° 19.886 y su reglamento.
 
-b) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para la ejecución de acciones relacionadas con los fines del servicio y de acciones de apoyo, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas o convenio marco y hasta por un monto de 15.000 UTM, en caso de trato directo o licitación privada, conforme las normas de la ley 19.886 y su reglamento.
+b) La facultad de celebrar y/o aprobar contratos de suministro de bienes muebles y/o de prestación de servicios para la ejecución de acciones relacionadas con los fines del servicio y de acciones de apoyo que afecten a la provincia de Arauco, hasta por un monto de 20.000 UTM, en caso de licitaciones públicas, licitación privada, convenio marco y/o trato directo, conforme a las normas de la ley 19.886 y su reglamento.
 
 c) La facultad de celebrar convenios de colaboración, de mandato y/o ejecución, con o sin transferencia de recursos, entre entidades públicas.
 
