@@ -804,9 +804,13 @@ ZONA ZQ-1
 
 ZONA ZQ-2
 
+ZONA ZQ-2A
+
 ZONA ZQ-3
 
 ZONA ZI-1
+
+ZONA ZI-1A
 
 ZONA ZG
 
@@ -2354,15 +2358,19 @@ Equipamiento Vivienda
 
 0,4 0,2
 
-b.4 Sistema de Agrupamiento, Alturas y
-
-Distanciamiento:
-
-Aislado con una altura máxima de 7 metros
-
-con distanciamiento:
-
 Equipamiento Vivienda
+
+b.4 Sistema de Aislado con
+
+Agrupamiento, una altura
+
+Alturas y máxima de
+
+Distanciamiento 8,4 metros
+
+con
+
+distanciamiento:
 
 6 metros 4 metros
 
@@ -2550,7 +2558,11 @@ b.8 Estacionamientos: 1 cada 40 m2 de superficie
 
 útil construida.
 
-b.9 Densidad máxima: 160 habitantes/hectárea
+Vivienda
+
+b.9 Densidad máxima 153 habitantes/
+
+hectárea
 
 ZONA ZG
 
