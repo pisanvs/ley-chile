@@ -30,7 +30,7 @@ Resuelvo:
 
 1º Califíquese como emergencia laboral la situación producida en el mercado del trabajo por la pandemia Covid-19, en virtud de lo establecido en los considerandos precedentes, conforme con lo establecido en el artículo tercero, letra c) del decreto Nº 28, que establece componentes, líneas de acción, procedimientos, modalidades y mecanismos de control del Programa de Formación en el Puesto de Trabajo y sus modificaciones.
 
-2º Actívese la "Línea Emergencia Laboral Reactivación COVID-19" desde la fecha de la total tramitación del presente acto administrativo, y mientras se mantenga vigente, para las empresas y los trabajadores, dependientes o independientes, según sea el caso, que cumplan los requisitos señalados en la letra c) del artículo tercero del Decreto Nº 28 y en la presente resolución, con el objeto de incentivar la retención de empleos, a fin de evitar despidos de trabajadores acogidos a la ley Nº 21.227, la reincorporación al trabajo de los trabajadores que tienen a su cargo el cuidado de niños o niñas menores de dos años, así como para incentivar la contratación de nuevos trabajadores, y la formalización de las nuevas relaciones laborales que se creen en el período que indica esta resolución, a fin de recuperar los puestos de trabajo perdidos. El término de la activación de esta línea se realizará mediante resolución sujeta al mismo procedimiento de dictación de este acto.
+2º Actívese la "Línea Emergencia Laboral Reactivación COVID-19" desde la fecha de la total tramitación del presente acto administrativo, y mientras se mantenga vigente, para las empresas y los trabajadores, dependientes o independientes, según sea el caso, que cumplan los requisitos señalados en la letra c) del artículo tercero del Decreto Nº 28 y en la presente resolución, con el objeto de incentivar la retención de empleos, a fin de evitar despidos de trabajadores acogidos a la ley Nº 21.227, la reincorporación al trabajo de los trabajadores que tienen a su cargo el cuidado de niños o niñas menores de cinco años, así como para incentivar la contratación de nuevos trabajadores, y la formalización de las nuevas relaciones laborales que se creen en el período que indica esta resolución, a fin de recuperar los puestos de trabajo perdidos. El término de la activación de esta línea se realizará mediante resolución sujeta al mismo procedimiento de dictación de este acto.
 
 3º Determínense los siguientes términos y condiciones para postular y acceder a las bonificaciones de la Línea:
 
@@ -38,15 +38,13 @@ Resuelvo:
 
 Para efectos de la presente resolución, se entenderá por:
 
-(i) Beneficio: monto en dinero que se otorga mensualmente a la empresa o al trabajador, dependiente o independiente, según sea el caso, por el número de meses que se indique en cada bonificación, que se entrega únicamente con el objeto de incentivar (i) la reincorporación de trabajadores causantes del beneficio previamente acogidos al Título I de la ley Nº 21.227; (ii) la reincorporación al trabajo de los trabajadores, dependientes o independientes, que tienen a su cargo el cuidado de niños o niñas menores de dos años, para así evitar su deserción del trabajo; (iii) la contratación de nuevos trabajadores; o (iv) la formalización de las nuevas relaciones laborales que se creen, en los términos del inciso primero del artículo 9º del Código del Trabajo.
+(i) Beneficio: monto en dinero que se otorga mensualmente a la empresa o al trabajador, dependiente o independiente, según sea el caso, por el número de meses que se indique en cada bonificación, que se entrega únicamente con el objeto de incentivar (i) la reincorporación de trabajadores causantes del beneficio previamente acogidos al Título I de la ley Nº 21.227; (ii) la reincorporación al trabajo de los trabajadores, dependientes o independientes, que tienen a su cargo el cuidado de niños o niñas menores de cinco años, para así evitar su deserción del trabajo; (iii) la contratación de nuevos trabajadores; o (iv) la formalización de las nuevas relaciones laborales que se creen, en los términos del inciso primero del artículo 9º del Código del Trabajo.
 
 (ii) Bonificación a la Retención: beneficio incluido en la Línea que se entrega a las micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, únicamente con el objeto de reincorporar trabajadores acogidos al Título I de la ley Nº 21.227, equivalente a la suma de $160.000 (ciento sesenta mil pesos) mensuales por trabajador causante del beneficio o de $200.000 (doscientos mil pesos), tratándose de los trabajadores indicados en el inciso segundo de la letra a., del Título III, de esta resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el mes de diciembre de 2021. Con todo, las bonificaciones otorgadas respecto de postulaciones realizadas hasta el 15 de septiembre de 2021 inclusive, se concederán por hasta 6 meses y, tratándose de micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, por hasta 8 meses.
 
 (iii) Bonificación a la Contratación: beneficio incluido en la Línea que se entrega a las micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, con el objeto de contratar nuevos trabajadores, equivalente a un porcentaje de la remuneración mensual bruta imponible del trabajador causante del beneficio, con un tope, conforme a lo establecido en el Título IV. de la presente resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el mes de diciembre de 2021. Con todo, las bonificaciones otorgadas respecto de postulaciones realizadas hasta el 15 de septiembre de 2021 inclusive, se concederán por hasta 8 meses y, tratándose de micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, por hasta 10 meses.
 
-(iv) Bonificación para el cuidado de niños o niñas menores de dos años: beneficio incluido en la Línea que se entrega directamente al trabajador beneficiario desde la fecha en que se conceda y se devengará, como máximo, hasta el 31 de diciembre de 2021 para el caso de bonificaciones concedidas respecto de postulaciones realizadas entre el 15 de septiembre y el 31 octubre, ambos de 2021. Tratándose de bonificaciones concedidas respecto de postulaciones realizadas entre el 1º noviembre de 2021 y el 30 de junio de 2022, el beneficio se otorgará por un máximo de hasta tres meses. Con todo, los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses.
-
-Esta bonificación se entrega para financiar el cuidado del menor causante del beneficio, permitiendo la reincorporación del trabajador beneficiario al trabajo, y es equivalente a la suma de $200.000 (doscientos mil pesos) mensuales por cada menor causante del beneficio, conforme a lo establecido en el Titulo V. de la presente resolución.
+(iv) Bonificación mensual para el cuidado de niños o niñas menores de dos años de edad y entre dos años y menores de cinco años: Beneficio incluido en la Línea que se entrega directamente al/a la trabajador/a beneficiario/a que tengan el cuidado de niños y niñas menores cinco años desde la fecha en que se conceda, por tres meses, pudiendo postular hasta el 30 de septiembre de 2022.
 
 (v) Empresa beneficiaria: micro, pequeña y mediana empresa, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, que postula a las bonificaciones a la Retención o a la Contratación contempladas en la Línea, y cumple con los requisitos de postulación establecidos en el inciso primero del artículo cuarto del decreto Nº 28, y los establecidos en los Títulos III.
 
@@ -58,15 +56,17 @@ Esta bonificación se entrega para financiar el cuidado del menor causante del b
 
 (vi) IFE Laboral: Bonificación mensual que se otorga al trabajador dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador, en los términos del artículo 7º del Código del Trabajo, dentro de la época fijada en esta resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el 31 de diciembre de 2021, para el caso de bonificaciones concedidas respecto de postulaciones realizadas entre el 16 de septiembre y el 31 octubre, ambos de 2021. Tratándose de bonificaciones concedidas respecto de postulaciones realizadas a contar del 1º noviembre de 2021, el beneficio se otorgará por un máximo de hasta tres meses, y la fecha de devengo máxima del mismo será el 30 de junio de 2022. Con todo, los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses.
 
+(vi bis) Nuevo IFE Laboral: Bonificación mensual que se otorga al trabajador(a) dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador(a), en los términos del artículo 7° del Código del Trabajo. Se podrá postular a esta bonificación en virtud de relaciones laborales iniciadas en julio de 2022. Este beneficio se devengará por un máximo de hasta tres meses, sin que dicho devengo pueda exceder la fecha señalada en el numeral 5) de la letra c) del artículo tercero del decreto N° 28.
+
 (vii) Gran Empresa o Grandes Empresas: empresa beneficiaria cuya Planilla de Referencia está compuesta por 200 o más trabajadores con contrato vigente al mes de julio de 2020.
 
-(vii) Menor causante del beneficio: niño o niña menor de dos años que se encuentra al cuidado de un trabajador beneficiario que cumple los requisitos para acceder a la bonificación para el cuidado de niños o niñas menores de dos años, dispuestos en el Título V. de esta resolución.
+(vii) Menor causante del beneficio: niño o niña menor de 5 años que se encuentra al cuidado de un/a trabajador/a beneficiario/a que cumple los requisitos para acceder a la bonificación para el cuidado de niños o niñas menores, dispuestos en el Título V. de esta resolución.
 
 (viii) Planilla de Referencia: número de trabajadores que integraron la nómina de trabajadores con contrato vigente de la empresa beneficiaria durante el mes de julio de 2020, en la medida que dicha empresa sea beneficiaria de las bonificaciones a la Retención y/o a la Contratación al 15 de septiembre de 2021, inclusive. Si la empresa no fuere beneficiaria de las mencionadas bonificaciones al 15 de septiembre de 2021, y postula con posterioridad a esta fecha a los beneficios, su Planilla de Referencia corresponderá a la nómina de trabajadores con contrato vigente declarada por la empresa postulante para el pago de cotizaciones previsionales del mes de mayo de 2021.
 
 (ix) Remuneración mensual bruta imponible: contraprestaciones en dinero y las adicionales en especie que recibe un trabajador de su empleador por causa de la relación laboral. Se incluye dentro de este concepto, entre otros, el sueldo base, horas extraordinarias, comisiones, participaciones y gratificaciones que pueda recibir un trabajador.
 
-(x) Trabajador beneficiario: persona a quien se le ha concedido la bonificación para el cuidado de niños o niñas menores de dos años, conforme a lo establecido en el Título V., o bien, el IFE laboral, según lo dispuesto en el Título VI. de esta Resolución.
+(x) Trabajador/a beneficiario/a: persona a quien se le ha concedido la bonificación para el cuidado de niños o niñas menores, conforme a lo establecido en el Título V., o bien, el IFE Laboral o el Nuevo IFE Laboral, según lo dispuesto en el Título VI, respectivamente, de esta resolución.
 
 (xi) Trabajador causante del beneficio: trabajador dependiente contratado por la empresa beneficiaria, que cumple con los requisitos establecidos en los Títulos III. c) y/o IV. c) de la presente resolución, según sea el caso, que es postulado por la empresa beneficiaria para acceder a las bonificaciones a la Retención o a la Contratación.
 
@@ -190,179 +190,185 @@ e. Causal especial de término anticipado de la Bonificación a la Contratación
 
 El otorgamiento de esta bonificación se terminará anticipadamente en caso de que la empresa beneficiaria pacte la reducción temporal de la jornada de trabajo del Título II de la ley Nº 21.227 con el trabajador causante del beneficio.
 
-### V. Normas especiales a la Bonificación para el cuidado de niños o niñas menores de dos años
+V) DE LA BONIFICACIÓN PARA EL CUIDADO DE NIÑOS Y NIÑAS MENORES REGULADOS EN LAS LETRAS A Y B, DEL NUMERAL 3, DE LA LETRA C), DEL ARTÍCULO TERCERO DEL DECRETO N° 28.
 
-a. Valor de la bonificación.
+a.- Valor de la bonificación.
 
-Suma equivalente a $200.000 (doscientos mil pesos) mensuales que se entrega al trabajador beneficiario por cada niño o niña menor de 2 años que tiene a su cuidado.
+Suma equivalente a $200.000 (doscientos mil pesos) mensuales que se entrega al trabajador/a beneficiario/a por cada niño o niña menor de cinco años que tiene a su cuidado.
 
-b. Plazo de la bonificación.
+b.- Plazo de otorgamiento de esta bonificación.
 
-El plazo de otorgamiento de esta bonificación estará sujeto a las siguientes reglas:
+La bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular acorde a lo dispuesto en la letra e) de este título hasta el 30 de septiembre de 2022.
 
-(i) La bonificación otorgada respecto de una postulación realizada hasta el 14 de septiembre de 2021 inclusive, se otorgará por hasta 6 meses;
+c.- Requisitos respecto del trabajador beneficiario.
 
-(ii) La bonificación otorgada respecto de una postulación realizada entre el 15 de septiembre y hasta el 31 de octubre inclusive, ambos de 2021, se otorgará hasta el 31 de diciembre de 2021, y
+Estos requisitos se encuentran regulados en el decreto N° 28, del Ministerio del Trabajo y Previsión Social.
 
-(iii) La bonificación otorgada respecto de una postulación realizada entre el 1º de noviembre de 2021 y el 30 de junio de 2022, se otorgará por un máximo de hasta 3 meses.
+d.- Trabajadores/as que no pueden acceder a la bonificación.
 
-c. Requisitos respecto del trabajador beneficiario.
+No podrán acceder a las bonificaciones aquellos trabajadores/as dependientes o independientes que señale el decreto N° 28, del Ministerio del Trabajo y Previsión Social.
 
-La bonificación podrá ser solicitada directamente por el trabajador que cumpla, copulativamente, con los siguientes requisitos:
+e.- Periodo de postulación y otorgamiento del beneficio.
 
-i. Tratarse de un trabajador beneficiario, dependiente o independiente;
+Los/Las trabajadores/as podrán postular a los beneficios señalados en las letras A y B del numeral 3 de la letra c) del artículo tercero del decreto N° 28, en el sitio web www.subsidioalempleo.cl habilitado por el Servicio Nacional de Capacitación y Empleo, en adelante, "el Sence", conforme a la siguiente calendarización.
 
-ii. Encontrarse ejerciendo labores en calidad de trabajador dependiente o independiente, según sea el caso, al momento de la postulación al beneficio.
+A) Beneficiarios para el cuidado de niños/as menores de dos años:
 
-El cumplimiento de este requisito implicará que, a la época de postulación, el trabajador beneficiario debe haber comenzado a prestar servicios, dependientes o independientes, o haberse reincorporado a su trabajo y encontrarse prestando servicios efectivos, y
+.
 
-iii. Registrar al menos cuatro cotizaciones de seguridad social dentro de los doce meses anteriores al mes de postulación, siempre que la cotización del mes anterior al mes de postulación también esté registrada. Para estos efectos, la cotización se entenderá registrada cuando el Sence verifique que se cumplen cualquiera de las siguientes circunstancias: (a) que se han declarado y pagado las cotizaciones del trabajador beneficiario establecidas en el decreto ley N° 3.500, o las de salud; o (b) que las cotizaciones del decreto ley N° 3.500 y las de salud del trabajador beneficiario se encuentran declaradas y no pagadas en las respectivas instituciones previsionales.
+B) Beneficiarios para el cuidado de niños/as entre dos y menores de cinco años:
 
-A partir del 1° de mayo de 2021, el requisito mencionado en el iii. anterior no será aplicable a los trabajadores beneficiarios del IFE Laboral que deseen acceder a la bonificación para el cuidado de niños o niñas menores de dos años. En dicho caso, el Sence otorgará y pagará esta última bonificación una vez que verifique que el trabajador beneficiario registra cotizaciones de seguridad social correspondientes a la nueva relación laboral, confome a lo señalado en las letras (a) y (b) anteriores, dentro del plazo de dos meses contados desde la respectiva postulación. En caso que el Sence no verifique el registro de cotizaciones correspondientes a la nueva relación laboral dentro del plazo antes mencionado, rechazará la postulación a la bonificación para el cuidado de niños o niñas menores de dos años del trabajador respectivo.
+.
 
-En el caso de los trabajadores independientes, se entenderá cumplido este requisito por el hecho de haber realizado el proceso de declaración de renta del año 2020, 2021 o 2022, según corresponda.
+El Sence verificará el cumplimiento de los requisitos exigidos durante el mes siguiente al mes de la postulación, y comunicará lo resuelto al/la trabajador/a postulante por medio de correo electrónico a la dirección que haya indicado en su postulación. En caso de no ser aprobada la postulación se deberá indicar el motivo en que se funda.
 
-Con todo, sólo se concederá el beneficio considerando una calidad del trabajador beneficiario, aunque éste detente la calidad de dependiente e independiente. Por su parte, el trabajador beneficiario dependiente sólo podrá acceder a la bonificación imputando una única relación laboral, aunque preste servicios bajo vínculo de subordinación y dependencia para distintos empleadores.
+En contra de la decisión de no aprobación, el/la trabajador/a postulante podrá interponer el recurso de reposición dispuesto en la Ley N° 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, en una de las ventanas habilitadas por el Sence: https://buzonciudadano.sence.cl/ES/AtencionCiudadana/Login, dentro del plazo de cinco (5) días hábiles contados desde la fecha de la notificación respectiva, debiendo acompañar todos los antecedentes que sean necesarios para fundar el recurso.
 
-d. Trabajadores que no pueden acceder a la bonificación.
+El Sence resolverá el recurso de reposición a través de una resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
 
-No podrán acceder a esta bonificación los trabajadores que:
+f.- Pago del beneficio.
 
-(i) Sin perjuicio de cumplir con los requisitos señalados en la letra c. anterior, presten servicios bajo vínculo de dependencia y subordinación en empresas que tienen contratadas a veinte o más trabajadoras y, por dicha circunstancia, tengan derecho al beneficio de sala cuna establecido en el artículo 203 del Código del Trabajo.
+El Sence será el encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal, indicada por el/la trabajador/a beneficiario/a en su postulación.
 
-(ii) Se encuentren haciendo uso del descanso de maternidad a que se refiere el artículo 195 del Código del Trabajo, incluidas también las hipótesis de descanso suplementario del artículo 196 del mencionado código.
+El/La trabajador/a beneficiario/a tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de extinción reguladas en el decreto N° 28 y las señaladas en la letra g) de este numeral, de la presente resolución, según sea el caso, y lo devengará por el periodo en que se mantenga vigente el contrato de trabajo por el cual postuló.
 
-(iii) Se encuentren haciendo uso del permiso postnatal parental a que se refiere el artículo 197 bis del Código del Trabajo.
+Con todo, la bonificación para el cuidado de niñas y niños, considerando, en conjunto, los que correspondan a niños y niñas menores de dos años, como los menores de cinco años, no podrán devengarse por más de seis pagos en relación con un mismo menor causante.
 
-(iv) Al momento de la postulación o durante su otorgamiento, reciban alguno de los beneficios establecidos en los Títulos I y II de la ley Nº 21.247.
+g.- Extinción de la bonificación.
 
-(v) Tengan los efectos de sus contratos de trabajo suspendidos, de acuerdo con lo dispuesto en el Título I de la ley Nº 21.227.
-
-(vi) Presten servicios, dependientes e independientes, en el Estado y el personal de los los servicios públicos centralizados y Ministerios, Intendencias, Gobernaciones y de descentralizados creados para el cumplimiento de la función administrativa.
-
-(vii) Se encuentren haciendo uso de los permisos y licencias médicas establecidas en el artículo 199 del Código del Trabajo o en la ley Nº 21.063, respectivamente, conforme a la información que la Superintendencia de Seguridad Social le remita al Sence.
-
-e. Periodo de postulación y otorgamiento del beneficio.
-
-Los trabajadores beneficiarios podrán postular a esta bonificación desde el 15 de febrero de 2021, conforme a las ventanas de postulación que habilite el Sence para tal efecto por medio de la plataforma habilitada para tal efecto en el sitio web www.subsidioalempleo.cl. Una vez verificado por el Sence, el cumplimiento de los requisitos exigidos, se le comunicará al trabajador beneficiario la aprobación de la postulación efectuada por medio de correo electrónico. En caso de no aprobarse la postulación, el Sence comunicará al postulante por medio de correo electrónico dicha circunstancia, indicando además el motivo del rechazo.
-
-f. Pago del beneficio.
-
-El Sence será encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal, indicada por el trabajador beneficiario en su postulación.
-
-g. Suspensión del pago del beneficio.
-
-El derecho al pago del beneficio se suspenderá en el evento que se verifique cualquiera de las siguientes circunstancias:
-
-i. Si, habiéndose concedido la bonificación, opera la suspensión por acto de autoridad o por pacto suscrito por el empleador con el trabajador beneficiario, de conformidad con las normas establecidas en el Título I de la ley Nº 21.227. En caso que el trabajador beneficiario prestare servicios bajo vínculo de subordinación y dependencia para dos o más empleadores, solo se suspenderá el pago del beneficio si opera la suspensión de los efectos del contrato de trabajo, por acto de autoridad o por pacto, respecto de todos ellos. En caso que el trabajador beneficiario se reintegre a sus funciones dentro del plazo de vigencia de la bonificación, éste percibirá los pagos por los meses que resten hasta su término, si correspondiere.
-
-ii. Si, habiéndose concedido la bonificación, al menos, no se declaran y no pagan dentro de plazo legal las cotizaciones establecidas en el decreto ley Nº 3.500 y las de salud del trabajador beneficiario por dos meses consecutivos. Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el empleador o el trabajador independiente, según sea el caso, paga las cotizaciones de seguridad social adeudadas, se pagarán retroactivamente las bonificaciones cuyo pago fue suspendido.
-
-h. Término anticipado y extinción de la bonificación.
-
-El otorgamiento de esta bonificación se terminará anticipadamente en caso de que se verifique cualquiera de las siguientes circunstancias:
-
-i. En el evento que el trabajador beneficiario dependiente deje de prestar servicios bajo vínculo de subordinación y dependencia. En caso que el trabajador beneficiario dependiente preste servicios bajo vínculo subordinación y dependencia para dos o más empleadores, solo se terminará anticipadamente el otorgamiento de esta bonificación en caso que se termine la relación laboral con todos los empleadores.
-
-ii. Por fallecimiento del niño o niña menor de 2 años.
-
-iii. Si el trabajador beneficiario pierde el cuidado del niño o niña menor de 2 años.
-
-iv. En caso de que se prorrogue el plazo de la bonificación y se verifique que la empresa en la que presta servicios el trabajador beneficiario dependiente está obligada a otorgar el beneficio de sala cuna por tener contratadas a 20 o más trabajadoras.
-
-v. Si el trabajador beneficiario se acoge a la licencia prenatal o postnatal y sus suplementos, a que se refieren los artículos 195 y 196 del Código del Trabajo.
-
-(vi) Si el trabajador beneficiario se acoge a las licencias médicas establecidas en el artículo 199 del Código del Trabajo o en la ley Nº 21.063, respectivamente, conforme a la información que la Superintendencia de Seguridad Social le remita al Sence.
-
-Sin perjuicio de las causales de término anticipado antes señaladas, la bonificación para el cuidado de niños o niñas menores de 2 años se extinguirá en el evento que se verifique cualquiera de las siguientes circunstancias:
+Sin perjuicio de las causales de extinción señaladas en el decreto N° 28, la bonificación para el cuidado de niños o niñas menores no se mantendrá en el evento que se verifique cualquiera de las siguientes circunstancias:
 
 i. Por el cumplimiento del plazo de otorgamiento.
 
-ii. Por cumplir el menor causante del beneficio 2 años.
+ii. Por pérdida y/o renuncia del cuidado personal del niño o niña.
 
-El trabajador beneficiario tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de término anticipado o de extinción, según sea el caso, y hubiere alcanzado a prestar servicios, dependiente o independientes, sin alcanzar a completar un mes íntegro. El Sence determinará, vía instructivo, las reglas que permitan implementar esta disposición.
+iii. Si sobreviene una causal que impida acceder a la bonificación para el cuidado de niños y niñas con edades entre dos años y menores de cinco años y a la para el cuidado de niños/as menores de 2 años, como también respecto de aquellas causales aplicables sólo respecto de esta última, según corresponda, acorde a lo dispuesto en el numeral 3, letra c) "Línea Emergencia Laboral Reactivación COVID-19", del artículo tercero "Líneas de Acción y Componentes", del decreto N° 28.
 
-### VI. Normas especiales para el IFE Laboral
+iv. Pérdida de la vigencia del contrato de trabajo por el cual postuló la trabajadora o el trabajador.
+
+### VI. DEL IFE LABORAL Y NUEVO IFE LABORAL:
+
+A) IFE LABORAL
 
 a. Valor de la bonificación.
 
-Conforme a lo dispuesto en el numeral 4. del literal c) del artículo tercero del decreto Nº 28, el monto de esta bonificación corresponderá al (i) 50% de la remuneración bruta mensual imponible del trabajador al mes de la postulación, no pudiendo exceder de $200.000 mensuales para el caso de hombres de entre 24 y menores de 55 años; y (ii) 60% de la remuneración bruta mensual imponible del trabajador al mes de la postulación, no pudiendo exceder de $250.000 mensuales, para el caso de una trabajadora; una persona menor de 24 años; hombres desde 55 años; o una persona con discapacidad, calificada y certificada conforme lo establece el Título II de la ley Nº 20.422 y sus reglamentos; o personas que sean beneficiarias de una pensión de invalidez de cualquier régimen previsional, cualquiera sea su tipo, al momento de la postulación.
+Se encuentra regulada conforme a lo dispuesto en el numeral 4, letra c), del artículo tercero del decreto N° 28.
 
-b. El plazo de otorgamiento de esta bonificación estará sujeto a las siguientes reglas:
+b. El plazo de otorgamiento de esta bonificación.
 
-(i) La bonificación otorgada respecto de una postulación realizada hasta el 14 de septiembre de 2021 inclusive, se otorgará por hasta 6 meses;
+Este beneficio se devengará, desde que se conceda, hasta por tres meses, las postulaciones respectivas podrán realizarse hasta el mes de junio de 2022 de conformidad a lo señalado en el literal e).
 
-(ii) La bonificación otorgada respecto de una postulación realizada entre el 15 de septiembre y hasta el 31 de octubre inclusive, ambos de 2021, se otorgará hasta el 31 de diciembre de 2021; y
+c. Requisitos respecto del/de la trabajador/a beneficiario/a.
 
-(iii) La bonificación otorgada respecto de una postulación realizada a partir del 1º de noviembre de 2021, se otorgará por un máximo de hasta 3 meses.
+Se encuentra regulada conforme a lo dispuesto en el numeral 4, letra c), del artículo tercero del decreto N° 28.
 
-Con todo, la fecha de devengo máximo del IFE Laboral será el 30 de junio de 2022.
+d. Trabajadores/as que no podrán acceder a la bonificación.
 
-c. Requisitos respecto del trabajador beneficiario.
+Se encuentra regulada conforme a lo dispuesto en el numeral 4, letra c), del artículo tercero del decreto N° 28.
 
-La bonificación podrá ser solicitada directamente por el trabajador dependiente que cumpla, copulativamente, con los siguientes requisitos:
+e. Periodo de Postulación.
 
-i. Ser mayor de 18 años, y haber comenzado a prestar servicios bajo vínculo de subordinación y dependencia para con un nuevo empleador, en los términos del artículo 7º y siguientes del Código del Trabajo, conforme a lo establecido en el siguiente cuadro:
+Los/Las trabajadores/as que cumplan con los requisitos para postular al IFE Laboral podrán hacerlo en el sitio web www.subsidioalempleo.cl habilitado por el Servicio Nacional de Capacitación y Empleo, hasta el 30 de junio de 2022, la que se devengará, desde que se conceda, hasta por tres meses, acorde al siguiente cuadro:
 
-El trabajador beneficiario sólo podrá postular a esta bonificación durante el periodo de postulación al beneficio que corresponda con el inicio de la nueva relación laboral (en adelante, "Ventanas de Postulación").
+.
 
-ii. Tener una remuneración bruta mensual imponible igual o inferior a tres ingresos mínimos mensuales a la fecha de postulación. El valor del ingreso mínimo mensual será aquel fijado para los trabajadores mayores de 18 años y hasta de 65 años.
+El Sence verificará el cumplimiento de los requisitos exigidos dentro de los primeros cinco días hábiles del mes subsiguiente respecto al mes de postulación, y comunicará lo resuelto al/la trabajador/a postulante por medio de correo electrónico. En caso de no ser aprobada la postulación se deberá indicar el motivo en que se funda.
 
-El beneficio se imputará por una única relación laboral, aun cuando el trabajadador tenga un vinculo de subordinación y dependencia con más de un empleador.
+En contra de la decisión de no aprobación, el/la trabajador/a postulante podrá interponer el recurso de reposición dispuesto en la Ley N° 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, en una de las ventanas habilitadas por el Sence en el siguiente link: https://buzonciudadano.sence.cl/ES/AtencionCiudadana/Login, dentro del plazo de cinco (5) días hábiles contados desde la fecha de la notificación respectiva, debiendo acompañar todos los antecedentes que sean necesarios para fundar el recurso.
 
-iii. Haber estado cesante durante todo el mes anterior al de inicio de la nueva relación laboral dependiente que permite al trabajador postular a este beneficio. Para estos efectos, bastará que el Sence verifique al momento de conceder el beneficio que el trabajador no registre, por ningún empleador, pago ni declaración de cotizaciones previsionales correspondientes al mes calendario anterior al de inicio de la relación laboral por la cual se postula a este beneficio.
+El Sence resolverá el recurso de reposición a través de resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
 
-d. Trabajadores que no podrán acceder a la bonificación.
+El/La trabajador/a beneficiario/a dependiente solo podrá acceder al beneficio imputando una única relación laboral, aunque preste servicios bajo subordinación o dependencia para distintos empleadores/as.
 
-No podrán acceder a esta bonificación los trabajadores que:
+Los beneficiarios de las bonificaciones al Nuevo empleo, IFE Laboral o Nuevo IFE Laboral, que habiendo recibido uno o dos pagos anteriores y cumplan los requisitos para acceder al Nuevo IFE Laboral, solo podrán recibir este último beneficio hasta completar tres pagos en total de cualquiera de las bonificaciones antes señaladas.
 
-(i) Detenten la calidad de socios o accionistas de la empresa en que ejerzan funciones o cuya identidad coincida con ésta.
-
-(ii) Al momento de la postulación, o durante el otorgamiento del beneficio reciban alguno de los beneficios establecidos en los Títulos I y II de la ley N° 21.247.
-
-(iii) Tengan los efectos de sus contratos de trabajo suspendidos, de acuerdo a lo dispuesto en el Título I de la ley N° 21.227.
-
-(iv) Presten servicios en el Estado bajo cualquier modalidad contractual, incluido el personal de los Ministerios, Intendencias, Gobernaciones y de los servicios públicos centralizados y descentralizados creados para el cumplimiento de la función administrativa.
-
-Asimismo, no se considerarán las postulaciones respecto de los trabajadores que hayan comenzado a prestar servicios bajo vínculo de dependencia y subordinación con el mismo empleador respecto del cual postulan, en los tres meses anteriores a aquel mes en el cual se inició la relación laboral en virtud de la cual solicitan la bonificación. Para este efecto, el Sence revisará la información previsional del trabajador postulante de los tres meses anteriores al mes de inicio de la relación laboral por la que se postula, y rechazará la postulación en caso de que verifique que el trabajador registra cotizaciones por el mismo empleador en ese periodo.Tampoco se considerarán las postualciones a la bonificación durante un período de postulación que no coincida con el periodo de inicio de la nueva relación laboral, conforme se establece en las Ventanas de Postulación que señala esta resolución.
-
-e. Periodo de postulación y otorgamiento del beneficio.
-
-Los trabajadores beneficiarios podrán postular a esta bonificación a partir del 1º de mayo de 2021, durante las Ventanas de Postulación señaladas en la presente resolución y publicadas en el sitio web www.subsidioalempleo.cl. Una vez verificado por el Sence el cumplimiento de los requisitos exigidos, se le comunicará al trabajador beneficiario la aprobación de la postulación efectuada por medio de correo electrónico. En caso de no aprobarse la postulación, el Sence comunicará al postulante por medio de correo electrónico dicha circunstancia, indicando además el motivo del rechazo.
-
-El IFE Laboral es compatible con las bonificaciones a la contratación y para el cuidado de niños o niñas menores de dos años.
-
-No podrán postular a esta bonificación los trabajadores mientras se encuentren haciendo uso de una licencia médica, cualquiera fuere su causa.
+Verificación del requisito de cesantía: Haber estado cesante durante todo el mes anterior al de inicio de la nueva relación laboral dependiente que permite al trabajador postular a este beneficio. Para estos efectos, bastará que el Sence verifique al momento de conceder el beneficio que el trabajador no registre, por ningún empleador, pago ni declaración de cotizaciones previsionales correspondientes al mes calendario anterior al de inicio de la relación laboral por la cual se postula a este beneficio.
 
 f. Pago del beneficio.
 
-El Sence será encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal indicada por el trabajador beneficiario en su postulación.
+El Sence será encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal, indicada por el/la trabajador/a beneficiario/a en su postulación.
+
+El/La trabajador/a beneficiario/a tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de extinción, según sea el caso, y se devengará por el periodo en que se mantenga vigente el contrato de trabajo por el cual postuló, por un máximo de hasta tres meses.
 
 g. Suspensión del pago del beneficio.
 
-El derecho al pago del beneficio se suspenderá en el evento que se verifique cualquiera de las siguientes circunstancias:
+Si, habiéndose concedido la bonificación, no se declaran y no pagan dentro de plazo legal las cotizaciones establecidas en el decreto ley N° 3.500, de 1980, y las de salud del/la trabajador/a beneficiario/a por dos meses consecutivos.
 
-i. Si, habiéndose concedido la bonificación, opera la suspensión por acto de autoridad o por pacto suscrito por el empleador con el trabajador beneficiario, de conformidad con las normas establecidas en el Título I de la ley Nº 21.227. En caso que el trabajador beneficiario prestare servicios bajo vínculo de subordinación y dependencia para dos o más empleadores, solo se suspenderá el pago del beneficio si opera la suspensión de los efectos del contrato de trabajo, por acto de autoridad o por pacto, respecto de todos ellos. En caso que el trabajador beneficiario se reintegre a sus funciones dentro del plazo de vigencia de la bonificación, percibirá los pagos por los meses que resten hasta su término, si correspondiere.
+Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el/la empleador/a, declara y paga las cotizaciones de seguridad social adeudadas, se enterarán retroactivamente las bonificaciones cuyo pago fue suspendido.
 
-ii. Si, habiéndose concedido la bonificación, no se declaran y no pagan dentro de plazo legal las cotizaciones establecidas en el decreto ley N° 3.500 y las de salud del trabajador beneficiario por dos meses consecutivos. Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el empleador declara y paga las cotizaciones de seguridad social adeudadas, se pagarán retroactivamente las bonificaciones cuyo pago fue suspendido.
+h. Extinción de la bonificación.
 
-iii. Si, habiéndose concedido la bonificación, el trabajador beneficiario se encuentre gozando de licencia médica, cualquiera fuere su causa. Esta circunstancia será verificada por el Sence conforme a lo señalado en el inciso segundo del artículo sexto del decreto Nº 28.
+La bonificación se extinguirá en el evento que se verifique cualquiera de las siguientes circunstancias:
 
-Con todo, el plazo de otorgamiento del IFE Laboral estará sujeto a las reglas señaladas en el literal b. anterior.
+i. Por el pago de la totalidad de las cuotas de la bonificación otorgada.
 
-h. Término anticipado y extinción de la bonificación.
+ii. Fallecimiento del trabajador/a beneficiario/a.
 
-El otorgamiento de esta bonificación se terminará anticipadamente en el evento que el trabajador beneficiario deje de prestar servicios bajo vínculo de subordinación y dependencia con el empleador por el cual postuló al beneficio.
+iii. Término de la relación laboral por la que se postuló.
 
-Por su parte, el IFE Laboral se extinguirá por el cumplimiento del plazo de otorgamiento, o por haber sido otorgado por el número máximo de meses de beneficio señalado en el romanillo (ii) del literal b. anterior.
+iv. Si sobreviene una causal que impida acceder a la bonificación, acorde a lo dispuesto en el párrafo tercero del numeral 4, letra c) "Línea de Emergencia Laboral Reactivación COVID-19", del artículo tercero denominado "Líneas de Acción y Componentes", del decreto N° 28.
 
-El trabajador beneficiario tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de término anticipado o de extinción, según sea el caso. El Sence determinará, vía instructivo, las reglas que permitan implementar esta disposición.
+B) Nuevo IFE Laboral:
 
-Primera disposición transitoria:
+a) Valor de la bonificación.
 
-Los trabajadores que sean beneficiarios de la bonificación al nuevo empleo otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, estarán afectos a los términos y condiciones previstas en la resolución vigente al 28 de septiembre de 2021, salvo en lo que respecta al requisito de cesantía del numeral iii. del Título VI., que no aplicará para dicha bonificación, y en lo relativo al plazo de otorgamiento, que será de hasta 6 meses contados desde su concesión.
+Se encuentra regulado conforme a lo dispuesto en el numeral 5, letra c), del artículo tercero del decreto N° 28.
 
-Durante el periodo de septiembre de 2021 y hasta el 31 de diciembre, ambos de 2021, los trabajadores que sean beneficiarios de la bonificación al nuevo empleo otorgadas respecto de postulaciones realizadas hasta el 15 de septiembre de 2021 inclusive, tendrán derecho a percibir este beneficio con los montos del IFE Laboral. No obstante, si el plazo de otorgamiento de la bonificación continuare vigente después del 31 de diciembre de 2021, el monto a pagar será aquel originalmente contemplado para la bonificación al nuevo empleo de conformidad a la normativa vigente con anterioridad al 15 de septiembre de 2021.
+b) El plazo de otorgamiento de esta bonificación.
+
+Este beneficio se devengará por un máximo de tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022, en virtud de relaciones laborales iniciadas en julio de 2022.
+
+c) Requisitos respecto del/de la trabajador/a beneficiario/a.
+
+Se encuentran regulados conforme a lo dispuesto en el numeral 5, letra c), del artículo tercero del decreto N° 28.
+
+d) Trabajadores/as que no podrán acceder a la bonificación.
+
+Se encuentra regulado conforme a lo dispuesto en el numeral 5, letra c), del artículo tercero del decreto N° 28.
+
+e) Periodo de postulación y otorgamiento del beneficio.
+
+Los/Las trabajadores/as que cumplan con los requisitos para postular al Nuevo IFE Laboral podrán hacerlo en el sitio web www.subsidioalempleo.cl habilitado por el Sence, desde el 1° de julio y hasta el 30 de septiembre de 2022, el que se devengará por un máximo de tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022, acorde al siguiente cuadro:
+
+.
+
+El beneficio del Nuevo IFE Laboral se entenderá devengado desde su postulación, respecto de aquellos trabajadores/as que cumplan con todos los requisitos exigidos en el decreto N° 28 a esa fecha.
+
+El Sence verificará el cumplimiento de los requisitos exigidos dentro de los primeros cinco días hábiles del mes subsiguiente respecto al mes de postulación, y comunicará lo resuelto al/la trabajador/a postulante por medio de correo electrónico. En caso de no ser aprobada la postulación se deberá indicar el motivo en que se funda.
+
+En contra de la decisión de no aprobación, el/la trabajador/a postulante podrá interponer el recurso de reposición dispuesto en la Ley N° 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, en una de las ventanas habilitadas por el Sence en el siguiente link: https://buzonciudadano.sence.cl/ES/AtencionCiudadana/Login, dentro del plazo de cinco (5) días hábiles contados desde la fecha de la notificación respectiva, debiendo acompañar todos los antecedentes que sean necesarios para fundar el recurso.
+
+El Sence resolverá el recurso de reposición a través de resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
+
+El/La trabajador/a beneficiario/a dependiente solo podrá acceder al beneficio imputando una única relación laboral, aunque preste servicios bajo subordinación o dependencia para distintos empleadores/as.
+
+Los beneficiarios de las bonificaciones al Nuevo Empleo, IFE Laboral o Nuevo IFE Laboral, que habiendo recibido uno o dos pagos anteriores y cumplan los requisitos para acceder al Nuevo IFE Laboral, solo podrán recibir este último beneficio hasta completar tres pagos en total de cualquiera de las bonificaciones antes señaladas.
+
+Verificación del requisito de cesantía: Haber estado cesante durante todo el mes anterior al de inicio de la nueva relación laboral dependiente que permite al trabajador postular a este beneficio. Para estos efectos, bastará que el Sence verifique al momento de conceder el beneficio que el trabajador no registre, por ningún empleador, pago ni declaración de cotizaciones previsionales correspondientes al mes calendario anterior al de inicio de la relación laboral por la cual se postula a este beneficio.
+
+f) Pago del beneficio.
+
+El Sence será el encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal, indicada por el/la trabajador/a beneficiario/a en su postulación.
+
+El/La trabajador/a beneficiario/a tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de extinción, según sea el caso, y se devengará por el periodo en que se mantenga vigente el contrato de trabajo por el cual postuló, por un máximo de hasta tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022.
+
+g) Suspensión del pago del beneficio.
+
+Si, habiéndose concedido la bonificación, no se declaran y no pagan dentro de plazo legal las cotizaciones establecidas en el decreto ley N° 3.500, de 1980, y las de salud del/la trabajador/a beneficiario/a por dos meses consecutivos.
+
+Sin perjuicio de lo anterior, si dentro del plazo de vigencia de la bonificación el/la empleador/a, declara y paga las cotizaciones de seguridad social adeudadas, se enterarán retroactivamente las bonificaciones cuyo pago fue suspendido.".
+
+h) Extinción de la bonificación.
+
+La bonificación se extinguirá en el evento que se verifique cualquiera de las siguientes circunstancias:
+
+i. Por el pago de la totalidad de las cuotas de la bonificación otorgada.
+
+ii. Fallecimiento del trabajador/a beneficiario/a.
+
+iii. Término de la relación laboral por la que se postuló.
+
+iv. Si sobreviene una causal que impida acceder a la bonificación, acorde a lo dispuesto en el párrafo cuarto del numeral 5, letra c) "Línea de Emergencia Laboral Reactivación COVID-19", del artículo tercero denominado "Líneas de Acción y Componentes", del decreto N° 28.
 
 4º Requiérase al Sence para que adopte las medidas inmediatas y de carácter urgente para convocar a las postulaciones de la "Línea Emergencia Laboral Reactivación Covid-19", a contar del 25 de septiembre de 2020, verificar las condiciones de acceso a las bonificaciones, efectuar los pagos y constatar las causales de término anticipado o de suspensión establecidas en el presente acto administrativo y en general las establecidas en el decreto Nº 28, de 2011, del Ministerio del Trabajo y Previsión Social.
 
