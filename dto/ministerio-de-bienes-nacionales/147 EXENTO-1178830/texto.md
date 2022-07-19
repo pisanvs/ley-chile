@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE LOS LAGOS, A "I. MUNICIPALIDAD DE ANCUD"
+
+Mediante decreto exento N° E-147, de 28 de junio de 2022, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a "I. Municipalidad de Ancud", RUT N° 69.230.100-5, el inmueble fiscal ubicado en calle Pudeto Bajo, Pasaje Catalina Vela Montero, N° 232, correspondiente al Lote b del Plano de Subdivisión N° X-4-10.345, de la comuna de Ancud, provincia de Chiloé, Región de Los Lagos; enrolado en el Servicio de Impuestos Internos con el N° 424-1; inscrito a mayor cabida a favor del Fisco que rola a fojas 156 N° 201 del Registro de Propiedades del año 1965, del Conservador de Bienes Raíces de Ancud; singularizado en el Plano N° X-4-10.345-C.U.; aprobado por la Dirección de Obras Municipales de Ancud y archivado el año 2001 en el Registro de Propiedad del Conservador de Bienes Raíces de Ancud; con una superficie de 7.388,36 m2. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble fiscal para el funcionamiento del Centro de Salud Familiar (Cesfam) Pudeto Bajo. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Álvaro Lagos Kother, Encargado de la Unidad de Decretos, División Jurídica, Ministerio de Bienes Nacionales.
