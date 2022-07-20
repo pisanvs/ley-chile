@@ -38,9 +38,17 @@ Las subdivisiones que se efectúen de acuerdo con esta norma no requerirán del 
 
 Las enajenaciones a título gratuito que se hicieren en conformidad con las letras g), h) e i) del inciso anterior estarán exentas del trámite de insinuación.
 
+Los predios resultantes de una subdivisión efectuada en conformidad al presente decreto deberán tener acceso a un espacio público o a un camino proveniente del proceso de parcelación de la reforma agraria, llevada adelante bajo el amparo de las leyes N°s 15.020 y 16.640, en su caso.
+
+Los caminos comunes al interior de una comunidad rural, sean conformados por servidumbre o lotes camino, deberán ser mantenidos a prorrata por los propietarios con el fin de garantizar el acceso entre el espacio público y los respectivos predios.
+
 Los predios resultantes de una subdivisión quedarán sujetos a la prohibición de cambiar su destino en los términos que establecen los artículos 55° y 56° de la Ley General de Urbanismo y Construcciones.
 
 Los notarios públicos no autorizarán las escrituras públicas de enajenación ni los Conservadores de Bienes Raíces practicarán inscripción alguna si dichas escrituras no se ajustan a las disposiciones del presente decreto ley.
+
+Salvo estipulación expresa en contrario, en los lotes camino o servidumbres de tránsito que se hayan proyectado como tales en los planos de subdivisión certificados por el Servicio Agrícola y Ganadero, se entenderá haberse constituido una servidumbre de tránsito en los términos del artículo 881 del Código Civil.
+
+Las servidumbres de paso constituidas en virtud de esta ley deberán ser inscritas en el Conservador de Bienes Raíces correspondiente.
 
 #### Artículo 2°
 
