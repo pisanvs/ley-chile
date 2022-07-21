@@ -6,7 +6,7 @@ Disposiciones Preliminares
 
 #### Artículo 1°
 
-El presente reglamento establece las condiciones, normas y procedimientos aplicables al transporte de carga, por calles y caminos, de sustancias o productos que por sus características, sean peligrosas o representen riesgos para la salud de las personas, para la seguridad pública o el medio ambiente.
+El presente reglamento establece las condiciones, normas y procedimientos aplicables al transporte de carga, por calles y caminos, de sustancias peligrosas.
 
 Las disposiciones del presente decreto son sin perjuicio de la reglamentación especial que sea aplicable a cada producto peligroso en particular.
 
@@ -18,19 +18,19 @@ Las sustancias peligrosas que se transporten en remolques o semirremolques, debe
 
 #### Artículo 2°
 
-Se considerar n sustancias peligrosas aquellas que se definen en las Normas Chilenas 0ficiales NCh382.Of89 y NCh2120/1 al 9.Of89.
+Se consideran sustancias peligrosas aquellas que se indican en la Parte 3 del Volumen I de las Recomendaciones relativas al Transporte de Mercancías Peligrosas de la Comisión Económica de las Naciones Unidas para Europa.
 
 De los vehículos y su equipamiento
 
 #### Artículo 3°
 
-Los vehículos motorizados que se utilicen en el transporte de sustancias peligrosas deberán tener una antigüedad máxima de 15 años, requisito que entrará en vigencia de acuerdo con el calendario que fija el Artículo 36° siguiente. Para este efecto, la antigüedad se calculará restando al año en que se realiza el cómputo, el año de fabricación anotado en el Registro de Vehículos Motorizados.
+Los vehículos motorizados que se utilicen en el transporte de sustancias peligrosas deberán tener una antigüedad máxima de 15 años. Para este efecto, la antigüedad se calculará restando al año en que se realiza el cómputo, el año de fabricación anotado en el Registro de Vehículos Motorizados.
 
-Con vehículos hechizos, a que se refiere el artículo 43° de la ley N° 18.290 no se podrá, por razones de seguridad, efectuar transporte de sustancias peligrosas.
+Con vehículos hechizos, a que se refiere el artículo 49° del decreto con fuerza de ley N° 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que "fija texto refundido, coordinado y sistematizado de la Ley de Tránsito", no se podrá, por razones de seguridad, efectuar transporte de sustancias peligrosas.
 
 #### Artículo 4°
 
-Durante las operaciones de carga, transporte, descarga, transbordo y limpieza, los vehículos deberán portar los rótulos a que se refiere la Norma Chilena Oficial NCh 2190.0f93, los que deberán ser fácilmente visibles por personas situadas al frente, atrás o a los costados de los vehículos.
+Durante las operaciones de carga, transporte, descarga, transbordo y limpieza, los vehículos deberán portar los rótulos a que se refiere la Parte 5 del Volumen II de las Recomendaciones relativas al Transporte de Mercancías Peligrosas de la Secretaría de la Comisión Económica para Europa de las Naciones Unidas, los que deberán ser fácilmente visibles por personas situadas al frente, atrás o a los costados de los vehículos.
 
 #### Artículo 5°
 
@@ -58,9 +58,9 @@ De la carga, su acondicionamiento, estiba, descarga y manipulación
 
 #### Artículo 7°
 
-Las sustancias peligrosas fraccionadas deberán ser acondicionadas de forma de soportar los riesgos de carga, transporte, descarga y transbordo.
+Las sustancias peligrosas deberán ser acondicionadas de forma de soportar los riesgos de carga, transporte, descarga y transbordo.
 
-El embalaje externo de estas sustancias deberá estar marcado y etiquetado de acuerdo con la correspondiente clasificación y tipo de riesgo, de conformidad con lo establecido en la Norma Chilena Oficial NCh2190.Of93.
+El embalaje externo de estas sustancias deberá estar marcado y etiquetado de acuerdo con la correspondiente clasificación y tipo de peligro, de conformidad con lo establecido en las Recomendaciones relativas al Transporte de Mercancías Peligrosas de la Comisión Económica de las Naciones Unidas para Europa, sin perjuicio de la etiqueta a la que refiere el artículo 254 del decreto supremo N° 57, de 2019, de los Ministerios de Salud y de Medio Ambiente, que "Aprueba Reglamento de Clasificación, Etiquetado y Notificación de Sustancias Químicas y Mezclas Peligrosas".
 
 Será responsable del cumplimiento de las obligaciones establecidas en los incisos precedentes, el expedidor de la carga. Para efectos del presente reglamento, expedidor de la carga es la persona natural o jurídica por cuya cuenta y orden se realiza el envío de la mercancía peligrosa, para lo cual contrata su transporte.
 
@@ -200,7 +200,7 @@ El conductor del vehículo es el responsable durante el viaje, de la custodia, c
 
 El conductor deberá examinar regularmente y en lugares adecuados, las condiciones generales del vehículo, incluyendo la condición de los neumáticos y la integridad de la carga, en aspectos tales como, existencia de pérdidas o fugas del producto, seguridad de las amarras y posicionamiento de los rótulos.
 
-Cuando ocurrieren alteraciones respecto de las condiciones iniciales del viaje capaces de poner en riesgo la seguridad de las personas, de los bienes o del medio ambiente, el conductor interrumpirá el viaje y tomará contacto con el transportista, autoridad o entidades cuyo teléfono esté indicado en las instrucciones a que se refiere la letra b) del artículo 30°.
+Cuando ocurrieren alteraciones respecto de las condiciones iniciales del viaje capaces de poner en riesgo la seguridad de las personas, de los bienes o del medio ambiente, el conductor interrumpirá el viaje y tomará contacto con el transportista, autoridad o entidades cuyo teléfono esté indicado en la Hoja a que se refiere la letra b) del artículo 30°.
 
 #### Artículo 23°
 
@@ -238,25 +238,13 @@ El transportista deberá exigir del expedidor de la carga:
 
 a) La Guía de Despacho o Factura, que además de los contenidos básicos establecidos en normas específicas, detalle el o los productos peligrosos a transportar con su respectiva clasificación y Número de Naciones Unidas.
 
-b) Las instrucciones escritas que se deben seguir en caso de accidente, las que se consignarán junto al nombre del producto, su clase, número de Naciones Unidas y número de teléfono de emergencia, basadas en la Hoja de Datos de Seguridad a que se refiere la Norma Chilena Oficial NCh 2245.Of93.
+b) La Hoja de Datos de Seguridad, de acuerdo a lo establecido en el Decreto Supremo N° 57, de 2019, de los Ministerios de Salud y de Medio Ambiente, que "Aprueba Reglamento de Clasificación, Etiquetado y Notificación de Sustancias Químicas y Mezclas Peligrosas". Esta deberá mantenerse en la cabina del vehículo.
 
-Estas instrucciones deberán mantenerse en la cabina del vehículo y precisar en forma concisa, a lo menos, lo siguiente:
-
-- La naturaleza del peligro presentado por los productos transportados, así como las medidas de protección inmediatas para afrontarlo.
-
-- Las disposiciones aplicables para el caso de que una persona entre en contacto con las sustancias transportadas o con productos que pudieran desprenderse de ellos.
-
-- Las medidas que se deben tomar en caso de incendio y en particular los medios de extinción que no se deben emplear.
-
-- Las medidas que se deben tomar en caso de rotura o deterioro de los envases, especialmente cuando las sustancias peligrosas se desparramen por la carretera.
-
-- Lo referente al traslado de la carga o la prohibición absoluta de su manipulación cuando por cualquier motivo el vehículo no pueda continuar con el transporte.
-
-c) Los productos peligrosos identificados con sus respectivas etiquetas y marcas conforme a la Norma Chilena Oficial NCh.2190.Of93.
+c) Los envases que contienen productos peligrosos identificados con su respectiva etiqueta conforme al Título IV, Del etiquetado de seguridad de sustancias y mezclas, del Decreto Supremo N° 57, de 2019, de los Ministerios de Salud y de Medio Ambiente, que "Aprueba Reglamento de Clasificación, Etiquetado y Notificación de Sustancias Químicas y Mezclas Peligrosas".
 
 #### Artículo 31°
 
-El transportista no deberá recibir carga de sustancias peligrosas si el expedidor no le hace entrega de las instrucciones escritas a que se refiere la letra b) del artículo anterior, debiéndose dejar constancia de la entrega en la Guía de Despacho o Factura.
+El transportista no deberá recibir carga de sustancias peligrosas si el expedidor no le hace entrega de la Hoja a que se refiere la letra b) del artículo anterior, debiéndose dejar constancia de la entrega en la Guía de Despacho o Factura.
 
 #### Artículo 32°
 
@@ -266,7 +254,13 @@ Si el transportista no estuviere en conocimiento del carácter peligroso de la m
 
 El transportista no será responsable por el daño a personas o cosas que se originen en la utilización de embalajes inapropiados para el transporte de productos peligrosos.
 
-Artículi 34°.- El transportista es responsable que el vehículo circule portando los rótulos a que se refiere la Norma Chilena Oficial NCh 2190.Of93.
+#### Artículo 34°
+
+El transportista es responsable que el vehículo circule portando los rótulos a que se refieren las Recomendaciones relativas al Transporte de Mercancías Peligrosas de la Secretaría de la Comisión Económica para Europa de las Naciones Unidas".
+
+#### Artículo 34° bis
+
+Las normas a las que se hace referencia en el presente decreto se mantendrán a disposición permanente del público en el sitio web del Ministerio de Transportes y Telecomunicaciones (www.mtt.gob.cl).".
 
 De la fiscalización
 
@@ -278,25 +272,7 @@ De la vigencia
 
 #### Artículo 36°
 
-El presente reglamento entrará en vigencia 30 días después de su fecha de publicación en el Diario Oficial, con excepción de las normas que se indican a continuación, las que lo harán en la oportunidad que en cada caso se señala:
-
-a) Inciso primero del artículo 3°, a contar del 1 de octubre de 1998; hasta dicha fecha se aplicarán las antigüedades máximas que se indican en el calendario siguiente:
-
-A contar del Antigüedad máxima
-
-1 de octubre de 1995 20 años
-
-1 de octubre de 1996 18 años
-
-1 de octubre de 1997 16 años
-
-b) Artículo 4°, transcurridos 90 días de la publicación.
-
-c) Artículo 5°, transcurridos 180 días de la publicación.
-
-d) Inciso segundo del artículo 7° y letra c) del artículo 30°, transcurridos 120 días de la publicación.
-
-e) Letra b) del artículo 30°, transcurridos 60 días de la publicación.
+El presente reglamento entrará en vigencia 30 días después de su fecha de publicación en el Diario Oficial.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Narciso Irureta Aburto, Ministro de Transportes y Telecomunicaciones.
 
