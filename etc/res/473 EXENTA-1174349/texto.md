@@ -68,6 +68,18 @@ La doctora Ximena Aguilera y el doctor Ignacio Silva tendrán los roles de Presi
 
 En las sesiones del Consejo Asesor Externo también participará la Jefatura de la División de Planificación Sanitaria y la Jefatura del Departamento de Epidemiología, para efectos de lo dispuesto en el numeral 13 de esta resolución.
 
+El Consejo Asesor Externo tendrá las funciones siguientes:
+
+1. Proveer asesoría a las autoridades del Ministerio de Salud en la definición de estrategias relacionadas con el COVID-19.
+
+2. Proponer acciones que contribuyan a la prevención del COVID-19 y educación de la población en la materia.
+
+### 3. Proponer acciones para el diagnóstico oportuno del COVID-19
+
+4. Realizar recomendaciones para el abordaje y tratamiento de los casos confirmados por COVID-19.
+
+5. Proponer modificaciones normativas que faciliten la implementación de acciones en la materia.
+
 5. Establécese que la Secretaría Ejecutiva tendrá el rol de gestionar el funcionamiento interno de la Comisión Nacional de Respuesta Pandémica COVID-19 y establecer una agenda de trabajo.
 
 Dicha labor será llevada a cabo por personas designadas por sus Jefaturas, pertenecientes a la División de Planificación Sanitaria (DIPLAS), División de Prevención y Control de Enfermedades (DIPRECE), División de Políticas Públicas Saludables y Promoción (DIPOL), División de Gestión de la Red Asistencial (DIGERA), y División de Atención Primaria (DIVAP). Por otro lado, existirá también una persona representante del Instituto de Salud Pública.
