@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 3.090, de fecha 16 de junio de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta N° 1.152, de 2021, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Norma Gladys Schulz Leppe E.I.R.L.", cuyo nombre de fantasía es "Escuela de Conductores Gladys Schulz E.I.R.L.", en el sentido de incorporar a continuación de la expresión "La Escuela de Conductores estará ubicada en Avenida Bernardo O'Higgins N° 0167, Local A, comuna de Quilicura", la expresión: "y en su sede ubicada en La Niebla N° 39, comuna de Lo Barnechea".-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
