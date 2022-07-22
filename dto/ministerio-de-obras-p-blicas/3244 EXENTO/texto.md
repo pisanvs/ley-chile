@@ -66,6 +66,8 @@ Arica:
 
 . El sistema vial urbano que interconecta las Rutas 5 y A-27, dentro de los límites urbanos, a través de calle El Tranque, atravieso Río San José y calle Guillermo Sánchez.
 
+. El sistema vial que interconecta las rutas 5 y A-27, desde la Ruta 5 hasta el límite urbano oriente, a través de: calle Las Brisas, calle Los Cisnes y su prolongación.
+
 4º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Laurence Golborne Riveros, Ministro de Obras Públicas.
