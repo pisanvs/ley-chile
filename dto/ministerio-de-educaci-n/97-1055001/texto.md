@@ -24,7 +24,7 @@ Normas Generales
 
 Las normas del presente reglamento regulan el otorgamiento de los beneficios del Programa de "Becas de Educación Superior", las que en adelante también podrán denominarse:
 
-a) "Beca Bicentenario" es aquella dirigida a estudiantes de buen rendimiento académico que se matriculen como alumnos/as de primer año en universidades acreditadas por cuatro años o más de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
+a) "Beca Bicentenario" es aquella dirigida a estudiantes de buen rendimiento académico que se matriculen como alumnos/as de primer año en universidades acreditadas en el nivel avanzado o de excelencia de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
 
 Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la PSU y en reemplazo se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
@@ -44,89 +44,159 @@ Adicionalmente, esta beca incluye estudiantes que habiendo egresado de enseñanz
 
 d) "Beca para Estudiantes Hijos de Profesionales de la Educación". Se dirige a estudiantes destacados, hijos/as de profesionales de la educación o del personal a que se refiere la ley Nº 19.464, que se desempeñen en establecimientos educacionales regidos por DFL (Ed.) Nº 2, de 1998, y por el decreto ley Nº 3.166, de 1980, que se matriculen en instituciones de educación superior que cuenten con acreditación vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, de conformidad a la ley Nº 20.129.
 
-e) "Beca Vocación de Profesor". Es aquella dirigida a estudiantes que hayan obtenido como mínimo 600 puntos promedio en la Prueba de Selección Universitaria, entre las pruebas de Lenguaje y Comunicación y Matemática, que se matriculen por primera vez como alumnos de primer año en carreras de pedagogía acreditadas por al menos 2 años, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, en conformidad a la ley Nº 20.129, y que tengan el carácter de elegibles de acuerdo a lo establecido en el presente decreto.
+e) "Beca Vocación de Profesor". Es aquella dirigida a estudiantes que cumplan las siguientes condiciones, alternativamente:
+
+i) hayan obtenido como mínimo 600 puntos promedio en la Prueba de Selección Universitaria, entre las pruebas de Lenguaje y Comunicación y Matemática, que se matriculen por primera vez como alumnos de primer año en carreras de pedagogía acreditadas por al menos 2 años, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, en conformidad a la ley Nº 20.129, y que tengan el carácter de elegibles de acuerdo a lo establecido en el presente decreto.
 
 Asimismo, se podrá otorgar este beneficio a aquellos estudiantes provenientes de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo y que hayan obtenido a lo menos 580 puntos promedio en la PSU de las pruebas de Lenguaje y Comunicación y Matemáticas.
 
-Adicionalmente, esta beca está dirigida a aquellos estudiantes que se encuentren matriculados en el último año de una licenciatura y que opten por un ciclo o programa de formación pedagógica elegible para licenciados al año siguiente o subsiguiente, de acuerdo a lo establecido en el artículo 42 del presente decreto, en instituciones de Educación Superior reconocidas oficialmente por el Estado y acreditadas institucionalmente por a lo menos 2 años, de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. El beneficio financia en este caso, el último año de licenciatura y el programa de formación pedagógica de una duración máxima de cuatro semestres.
+ii) se encuentren matriculados en el último año de una licenciatura y que opten por un ciclo o programa de formación pedagógica elegible para licenciados al año siguiente o subsiguiente, de acuerdo a lo establecido en el artículo 42 del presente decreto, en instituciones de Educación Superior reconocidas oficialmente por el Estado y acreditadas institucionalmente por a lo menos en el nivel básico equivalente a 3 años, de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. El beneficio financia en este caso, el último año de licenciatura y el programa de formación pedagógica de una duración máxima de cuatro semestres.
 
-INCISO ELIMINADO.
+iii) que posean grado de licenciado o título profesional cuando se matriculen en un programa de formación pedagógica elegible.
 
-Los beneficiarios de esta beca, una vez obtenido el título profesional, deberán cumplir con la obligación de ejercer su profesión en los establecimientos educacionales determinados en el presente reglamento, en los plazos y formas establecidos en el Título VIII, Párrafo 5º.
+Los beneficiarios de esta beca, una vez obtenido el título profesional, financiado por el beneficio establecido en esta letra, deberán cumplir con la obligación de ejercer su profesión en los establecimientos educacionales determinados en el presente reglamento, en los plazos y formas establecidos en el Título VIII, Párrafo 5º.
 
 f) "Becas de Reparación". Incluye los siguientes beneficios:
 
-. En virtud de la ley 19.123, de 1992, se establece
+. En virtud de la ley 19.123,
 
-la continuidad gratuita de los estudios en
+de 1992, se establece la
 
-universidades, institutos profesionales y centros
+continuidad gratuita de los
 
-de formación técnica reconocidos por el Estado
+estudios en universidades,
 
-para los hijos/as de personas declaradas víctimas
+institutos profesionales y
 
-de violaciones a los derechos humanos o de la
+centros de formación técnica
 
-violencia política, que se individualizan en el
+reconocidos por el Estado
 
-Volumen Segundo del Informe de la Comisión Nacional
+para los hijos/as de personas
 
-de Verdad y Reconciliación y de las que se
+declaradas víctimas de
 
-reconozcan en tal calidad por la Corporación
+violaciones a los derechos
 
-Nacional de Reparación y Reconciliación, mediante
+humanos o de la violencia
 
-el pago de la matrícula y del arancel mensual.
+política, que se
 
-. Adicionalmente, la ley Nº 19.992, de 2004, garantiza
+individualizan en el
 
-la continuidad de los estudios de las personas que
+Volumen Segundo del
 
-fueron víctimas directas de violaciones a los
+Informe de la Comisión
 
-derechos humanos, individualizadas en los anexos
+Nacional de Verdad y
 
-"Listado de prisioneros políticos y torturados"
+Reconciliación y de las
 
-y "Menores de edad nacidos en prisión o detenidos
+que se reconozcan en tal
 
-con sus padres", de la Nómina de Personas
+calidad por la Corporación
 
-Reconocidas como Víctimas, que forma parte del
+Nacional de Reparación
 
-Informe de la Comisión Nacional sobre Prisión
+y Reconciliación, mediante
 
-Política y Tortura, creada por el decreto supremo
+el pago de la matrícula
 
-Nº 1.040, de 2003, del Ministerio del Interior.
+y del arancel mensual.
 
-Los beneficiarios que soliciten continuar sus
+. Adicionalmente, la ley
 
-estudios de enseñanza superior en instituciones
+Nº 19.992, de 2004,
 
-de educación superior estatales o privadas
+garantiza la continuidad
 
-reconocidas por el Estado, tendrán derecho al
+de los estudios de las
 
-pago de la matrícula y del arancel mensual.
+personas que fueron víctimas
 
-Incluye también, de conformidad a lo establecido
+directas de violaciones a
 
-por el artículo 6º transitorio de la ley Nº 20.405,
+los derechos humanos,
 
-a un descendiente de hasta segundo grado de
+individualizadas en
 
-consanguinidad en línea recta, en caso de no haber
+los anexos "Listado de
 
-utilizado el beneficio con anterioridad.
+prisioneros políticos y
+
+torturados" y "Menores de
+
+edad nacidos en prisión
+
+o detenidos con sus padres",
+
+de la Nómina de Personas
+
+Reconocidas como Víctimas,
+
+que forma parte del
+
+Informe de la Comisión
+
+Nacional sobre Prisión
+
+Política y Tortura,
+
+creada por el decreto
+
+supremo Nº 1.040, de 2003,
+
+del Ministerio del Interior.
+
+Los beneficiarios que
+
+soliciten continuar sus
+
+estudios de enseñanza
+
+superior en instituciones
+
+de educación superior
+
+estatales o privadas
+
+reconocidas por el
+
+Estado, tendrán derecho
+
+al pago de la matrícula
+
+y del arancel mensual.
+
+Incluye también, de
+
+conformidad a lo
+
+establecido por el
+
+#### Artículo 6º
+
+transitorio
+
+de la ley Nº 20.405,
+
+a un descendiente de
+
+hasta segundo grado de
+
+consanguinidad en línea
+
+recta, en caso de
+
+no haber utilizado el
+
+beneficio con anterioridad.
 
 g) "Beca de Excelencia Académica". Es aquella dirigida a estudiantes meritorios que egresen de enseñanza media en el año inmediatamente anterior a la matrícula, de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor del establecimiento o que hayan obtenido un puntaje nacional en la Prueba de Selección Universitaria rendida para dicho proceso de admisión, de acuerdo a la información oficial que entregue el Departamento de Evaluación, Medición y Registro Educacional de la Universidad de Chile (DEMRE). En el evento que alguna región del país no tuviere alumnos con puntaje nacional, se asignará el beneficio de esta beca al estudiante que haya obtenido el mejor puntaje de esa región. Para la obtención de este beneficio deberán matricularse como estudiantes de primer año en las instituciones de educación superior señaladas en el artículo 52 del DFL (Ed.) Nº 2, de 2010, que se encuentren acreditadas institucionalmente al 31 de diciembre del año previo a la matrícula, conforme a la ley Nº 20.129.
 
 h) "Beca de Articulación". Este beneficio se otorgará a estudiantes meritorios, egresados o titulados de carreras técnicas de nivel superior dentro de los dos años precedentes al año de asignación y, que habiendo obtenido un promedio de notas de educación media igual o superior a 5,0 (cinco coma cero), deseen continuar sus estudios en carreras conducentes a títulos profesionales, en un área del conocimiento afín con la carrera de origen, en instituciones de educación superior acreditadas, conforme a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Para la selección de los postulantes, se considerará el nivel socioeconómico del alumno y su familia, junto a su rendimiento académico.
 
-i) "Beca de continuidad de estudios para estudiantes de instituciones en cierre". Se asignará a estudiantes que provienen de los hogares pertenecientes a los siete deciles de menores ingresos de la población del país, que habiendo estado matriculados el año anterior al acto administrativo que designe administrador provisional o administrador de cierre, según corresponda, en instituciones respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial y éste haya dado su aprobación, conforme a los artículos Nº 64, 74 y 81, del DFL Nº 2, de 2010, del Ministerio de Educación, se matriculen en una institución de educación superior que cuente con acreditación institucional vigente de cuatro años o más, al 31 de diciembre del año anterior a la asignación del beneficio, conforme a la ley Nº 20.129.
+i) "Beca de continuidad de estudios para estudiantes de instituciones en cierre". Se asignará a estudiantes que provienen de los hogares pertenecientes a los siete deciles de menores ingresos de la población del país, que habiendo estado matriculados el año anterior al acto administrativo que designe administrador provisional o administrador de cierre, según corresponda, en instituciones respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial y éste haya dado su aprobación, conforme a los artículos Nº 64, 74 y 81, del DFL Nº 2, de 2010, del Ministerio de Educación, se matriculen en una institución de educación superior que cuente con acreditación institucional vigente de nivel avanzado o de excelencia, al 31 de diciembre del año anterior a la asignación del beneficio, conforme a la ley Nº 20.129.
 
 j) "Beca Cumplimiento de Sentencias y Acuerdos". Incluye los siguientes beneficios:
 
@@ -204,7 +274,7 @@ c) Acreditar situación socioeconómica de acuerdo con las normas que se estable
 
 d) Demostrar un rendimiento académico satisfactorio, de acuerdo con las normas que se establecen para cada una de las becas, con excepción de la Beca de continuidad de estudios para estudiantes de instituciones en cierre, de la beca Cumplimiento de Sentencias y Acuerdos y de la Beca de Reparación.
 
-e) Matricularse en una institución de educación superior que se encuentre acreditada de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, sin perjuicio de las excepciones contempladas en los artículos tercero y cuarto transitorios del presente reglamento.
+e) Matricularse en una institución de educación superior que se encuentre acreditada de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, sin perjuicio de las excepciones contempladas en el presente reglamento.
 
 #### Artículo 12
 
@@ -266,7 +336,7 @@ El FUAS será el único mecanismo válido de postulación a los beneficios que l
 
 El postulante deberá completar el FUAS, aceptar los términos y condiciones y enviar electrónicamente dicho formulario. Para todos los efectos del proceso de postulación, no se considerarán válidas las postulaciones inconclusas o que no sean enviadas electrónicamente a través de la página correspondiente, dentro de los plazos definidos por la Subsecretaría para ello.
 
-La Subsecretaría podrá ampliar el plazo de postulación originalmente informado, lo que se comunicará mediante la página web que se disponga para ello.
+La Subsecretaría será la encargada de señalar la o las fechas de postulación, pudiendo ampliar los plazos originalmente informados, lo que se comunicará mediante la página web que se disponga para ello.
 
 #### Artículo 19
 
@@ -468,7 +538,7 @@ a) Los estudiantes que se matriculen por primera vez como alumnos de primer año
 
 b) Los estudiantes que cursen el último año de una carrera de licenciatura que se matriculen en un programa o ciclo de formación pedagógica elegible para licenciados. Esta beca se otorgará por el último año de licenciatura y el período que comprenda la malla curricular del programa o ciclo de formación pedagógica que haya sido informado como carrera elegible por la institución en el proceso de oferta académica correspondiente al año anterior al proceso, con un máximo de cuatro semestres. Para postular a esta beca, los estudiantes de esta clase de licenciaturas deberán cumplir los requisitos señalados en el artículo 44 del presente reglamento.
 
-c) SUPRIMIDO.
+c) Los estudiantes que posean grado de licenciado o título profesional, que se matriculen en un programa de formación pedagógica elegible. Para postular a esta beca, los estudiantes deberán cumplir los requisitos señalados en el artículo 44 bis del presente reglamento.
 
 #### Artículo 38
 
@@ -476,7 +546,7 @@ Para optar a esta beca, el postulante deberá cumplir con los requisitos general
 
 #### Artículo 39
 
-El listado oficial de carreras de pedagogía elegibles y de programa o ciclo para licenciados elegible se encontrará en la página web www.becavocaciondeprofesor.cl u otra que la reemplace.
+El listado oficial de carreras de pedagogía y de programa o ciclo para licenciados y/o profesionales determinados elegibles por la Subsecretaría se encontrará en la página web www.becavocaciondeprofesor.cl u otra que la reemplace.
 
 ### Párrafo 2º
 
@@ -484,11 +554,11 @@ De la Elegibilidad de la Institución y Carrera
 
 #### Artículo 40
 
-De la Elegibilidad de Carreras de Pedagogía. Sólo serán elegibles para hacer efectiva esta beca:
+De la Elegibilidad de Carreras de Pedagogía. Sólo serán elegibles para hacer efectiva esta beca, de acuerdo a lo establecido en el literal a) del artículo 37:
 
 1. Las carreras de pedagogía acreditadas por, a lo menos, dos (2) años, de conformidad a lo dispuesto en la ley Nº 20.129;
 
-2. Que dichas carreras sean impartidas por universidades y que cuenten con acreditación institucional al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, por un período mínimo de dos (2) años de conformidad a la precitada ley;
+2. Que dichas carreras sean impartidas por universidades y que cuenten con acreditación institucional al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, por el nivel básico de conformidad a la precitada ley;
 
 3. Debe ser declarada por la institución en la oferta académica del año correspondiente como carrera elegible en todas sus sedes, modalidades y jornadas;
 
@@ -500,15 +570,19 @@ Los requisitos contemplados en los numerales 1 y 2 del artículo 40 y en el núm
 
 #### Artículo 42
 
-De la Elegibilidad de Carreras de Licenciatura.
+Para hacer efectiva esta Beca de acuerdo a lo establecido en el literal b) y c) del artículo 37, sólo serán elegibles:
 
-Para hacer efectiva esta Beca de acuerdo a lo establecido en el literal b) del artículo 37, sólo serán elegibles:
+1. Las universidades que se encuentren acreditadas institucionalmente, por a lo menos por el nivel básico, de conformidad a lo dispuesto en la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
 
-1. Las Instituciones de Educación Superior que se encuentren acreditadas institucionalmente, por a lo menos dos (2) años, de conformidad a lo dispuesto en la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
+2. Programas o ciclos de formación en pedagogía para licenciados y/o profesionales acreditados que la Institución de Educación Superior declare como elegibles en la oferta académica del respectivo Proceso de Admisión.
 
-2. Programas o ciclos de formación en pedagogía para licenciados que la Institución de Educación Superior declare como elegibles en la oferta académica del respectivo Proceso de Admisión.
+3. Para el caso del literal b) del artículo 37, licenciaturas que la Institución de Educación Superior declare como elegibles en la oferta académica del respectivo Proceso de Admisión.
 
-3. La institución que la imparte debe comprometerse a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional a la matrícula y al arancel de la carrera establecido anualmente por la Subsecretaría, para efectos de esta Beca, de conformidad a lo establecido en el artículo 45 del presente Reglamento.
+4. La institución que la imparte debe comprometerse a que los beneficiarios de la Beca Vocación de Profesor no pagarán valor alguno en forma adicional a la matrícula y al arancel de la carrera establecido anualmente por la Subsecretaría, para efectos de esta Beca, de conformidad a lo establecido en el artículo 45 del presente Reglamento.
+
+#### Artículo 42 bis
+
+La Subsecretaría podrá contemplar un esquema de priorización para carreras de pedagogía que presentan mayores déficits proyectados de docentes, el cual, de aplicarse, será fijado mediante un acto administrativo dictado para tal efecto, de conformidad a los requisitos establecidos cada año en la Ley de Presupuestos del Sector Público.
 
 ### Párrafo 3º
 
@@ -532,13 +606,21 @@ Respecto de los postulantes señalados en el literal b) del artículo 37, del pr
 
 a) Tener la condición de alumno regular y estar matriculado para el año de postulación a la beca, en el último año de una licenciatura -según información entregada por la institución de educación superior donde cursa sus estudios-.
 
-b) Haber obtenido a lo menos 600 puntos promedio en la Prueba de Selección Universitaria correspondiente al año de su ingreso a la licenciatura que se encuentra cursando.
+b) Haber obtenido a lo menos 600 puntos promedio en la Prueba de Selección Universitaria o el instrumento que lo reemplace correspondiente al año de su ingreso a la licenciatura que se encuentra cursando.
 
 c) Tener un avance curricular mínimo del 70% de la carrera.
 
+#### Artículo 44 bis
+
+Respecto de los postulantes señalados en el literal c) del artículo 37 del presente instrumento, deberán cumplir con los siguientes requisitos:
+
+a) Tener grado de licenciado o título profesional otorgado por una institución de educación superior.
+
+b) Matricularse en una universidad que se encuentre acreditada institucionalmente, por a lo menos el nivel básico, de conformidad a lo dispuesto en la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, para estudiar Programas o ciclos de formación en pedagogía acreditados que dicha institución declare como elegibles en la oferta académica del respectivo Proceso de Admisión.
+
 #### Artículo 45
 
-Se considerará como arancel de la carrera a cubrir por esta Beca el menor valor entre el arancel calculado por el Ministerio de Educación y el arancel que declare la respectiva institución. Para estos efectos, el arancel calculado por el Ministerio corresponderá a aquel que se obtiene del monto fijado para el año 2011 para el arancel de referencia por el Ministerio de Educación más la variación del IPC de cada año.
+Se considerará como arancel de la carrera a cubrir por esta Beca el menor valor entre el arancel calculado por el Ministerio de Educación y el arancel que declare la respectiva institución. Para estos efectos, el arancel calculado por el Ministerio corresponderá a aquel que se obtiene del monto fijado en el año 2011 para el arancel de referencia por el Ministerio de Educación más la variación del IPC de cada año.
 
 #### Artículo 46
 
@@ -568,11 +650,21 @@ Respecto de los postulantes señalados en la letra b) del artículo 37, los bene
 
 3. Para mantener el beneficio, el estudiante deberá matricularse en un ciclo o programa de formación pedagógico elegible a más tardar el año subsiguiente al de la obtención del beneficio.
 
+#### Artículo 48 bis
+
+Respecto de los postulantes señalados en la letra c) del artículo 37, los beneficios se determinarán de acuerdo con los siguientes criterios:
+
+1. La beca cubrirá el arancel del programa o ciclo de formación pedagógica y la matrícula correspondiente, de acuerdo a lo señalado en el artículo 45, por un máximo de semestres equivalentes a la duración de la carrera establecida en la oferta académica correspondiente al año de su postulación. Con todo, se financiará un máximo de cuatro semestres del programa o ciclo de formación pedagógica, debiendo el alumno costear el exceso si aquél fuese de mayor duración.
+
+2. Los beneficios se entregarán en forma prioritaria a quienes que, sin contar con el título de profesor, se encuentren ejerciendo actualmente la docencia en establecimientos educacionales que reciben financiamiento del estado en el año correspondiente a la asignación del beneficio, de acuerdo a la información que entrega el Sistema de Información General de Estudiantes (SIGE) del Ministerio de Educación.
+
+El número de cupos disponibles para alumnos que poseen título profesional o el grado de licenciado, quedarán establecidos de acuerdo a lo dispuesto en la ley de presupuestos cada año.
+
 #### Artículo 49
 
 Además de la cobertura total de arancel y matrícula, los asignatarios de la beca en virtud del literal a) del artículo 37 del presente instrumento, tendrán acceso al beneficio adicional de cursar un semestre en el extranjero, cuyas condiciones y requisitos se establecerán mediante decreto del Ministerio de Educación, que reglamenta beneficio para cursar un semestre en el extranjero, en el marco de la Beca Vocación de Profesor.
 
-En caso que, haciendo uso de este beneficio adicional, el becario sufra un atraso en el avance académico del semestre respectivo, por razones debidamente justificadas, podrá solicitar a la Subsecretaría, se conceda financiamiento adicional equivalente al atraso ocasionado, por un plazo máximo de un semestre, lo que sólo procederá en caso de ser autorizado expresamente por dicha repartición pública.
+En caso que, haciendo uso de este beneficio adicional, el becario sufra un atraso en el avance académico del semestre respectivo, por razones debidamente justificadas, podrá solicitar a la Subsecretaría, que se conceda financiamiento adicional equivalente al atraso ocasionado, por un plazo máximo de un semestre, lo que sólo procederá en caso de ser autorizado expresamente por dicha repartición pública.
 
 ### Párrafo 5º
 
@@ -590,9 +682,11 @@ Los beneficiarios de la Beca Vocación de Profesor de acuerdo con lo establecido
 
 En el caso de aquellos beneficiarios que cursaron estudios de Educación Parvularia, también podrán cumplir el requisito antes mencionado, en idénticos términos, en aquellos jardines infantiles y salas cunas que reciben recursos del Estado.
 
-Por otra parte, los beneficiarios de la Beca Vocación de Profesor de acuerdo a lo establecido en la letra b) del artículo 37, una vez obtenido el título profesional de Profesor/a o Educador/a, deberán ejercer dicha profesión trabajando en un establecimiento educacional de los señalados en el inciso primero del presente artículo, por una cantidad de horas equivalentes a una jornada laboral docente de 44 horas semanales por el número de semestres de duración regular del ciclo o programa de formación pedagógico (sin considerar la licenciatura). No obstante, si el ciclo de formación tiene una duración superior a 4 semestres, el periodo de retribución deberá ser equivalente al número de semestres efectivamente financiado por la beca.
+Por otra parte, los beneficiarios de la Beca Vocación de Profesor de acuerdo a lo establecido en la letra b) y c) del artículo 37, una vez obtenido el título profesional de Profesor/a o Educador/a, deberán ejercer dicha profesión trabajando en un establecimiento educacional de los señalados en el inciso primero del presente artículo, por una cantidad de horas equivalentes a una jornada laboral docente de 44 horas semanales por el número de semestres de duración regular del ciclo o programa de formación pedagógico (sin considerar la licenciatura). No obstante, si el ciclo de formación tuvo una duración superior a 4 semestres, el periodo de retribución deberá ser equivalente al número de semestres efectivamente financiado por la beca.
 
-Con todo, la Subsecretaría podrá establecer, mediante el respectivo acto administrativo, los criterios que permitan disminuir la duración de la obligación de retribución en casos calificados, tales como ruralidad, áreas con menor demanda curricular, entre otros. Para optar a la reducción de la obligación de retribución, el beneficiario deberá solicitarlo en su carta de inicio o término de retribución, indicando el fundamento para requerir la disminución.
+Con todo, la Subsecretaría podrá establecer, mediante el respectivo acto administrativo, los criterios que permitan disminuir la duración de la obligación de retribución en casos calificados, tales como ruralidad, áreas con menor demanda curricular, entre otros.
+
+En caso de que aquellos estudiantes que obtengan el título de Educador/a o Profesor/a, y cuya carrera o programa haya sido financiado parcialmente con la Beca Vocación de Profesor, sea porque optaron a la Gratuidad o porque accedieron a una Beca distinta antes de terminar el programa o carrera de Pedagogía o por cualquier otro motivo, sólo estarán obligados a cumplir parcialmente con su obligación de retribución, proporcionalmente a la cantidad de semestres financiados por la Beca Vocación de Profesor respecto a la duración formal de su carrera o programa, lo cual podrá ser establecido por la Subsecretaría, mediante el respectivo acto administrativo.
 
 #### Artículo 51 bis
 
@@ -620,7 +714,9 @@ Los beneficiarios de años anteriores al 2016 que hayan suscrito el convenio deb
 
 #### Artículo 53
 
-El cumplimiento de la obligación de retribución se acreditará mediante la presentación ante la a la Subsecretaría de uno o más certificado(s) extendido(s) por el o los Director(es) del o los establecimiento(s) educacional(es), en el que conste el tiempo en que el beneficiario ha ejercido labores docentes en el (los) respectivo(s) establecimiento(s). Dicho(s) documento(s) deberá(n) indicar la fecha de inicio y término de las labores desarrolladas para efectos de la retribución en el respectivo establecimiento, jornadas comprometidas y tipo de labores realizadas por el beneficiario. La veracidad de la declaración, podrá ser fiscalizada por el Ministerio de Educación, a través de la Subsecretaría.
+El cumplimiento de la obligación de retribución se acreditará mediante la presentación ante la a la Subsecretaría de uno o más certificado(s) extendido(s) por el o los Director(es) o Sostenedor(es) del o los establecimiento(s) educacional(es), en el que conste el tiempo en que el beneficiario ha ejercido funciones docentes, docente-directiva o técnico-pedagógicas en el (los) respectivo(s) establecimiento(s). Dicho(s) documento(s) deberá(n) indicar la fecha de inicio y término de las labores desarrolladas para efectos de la retribución en el respectivo establecimiento, jornadas comprometidas y tipo de labores realizadas por el beneficiario. La veracidad de la declaración, podrá ser fiscalizada por el Ministerio de Educación, a través de la Subsecretaría.
+
+Para verificar el cumplimiento de la obligación de retribución, se contabilizarán las horas totales trabajadas por los beneficiarios y consignadas entre las fechas que señalen el o los respectivos certificados.
 
 El Ministerio de Educación no se responsabilizará por el cumplimiento de las obligaciones contractuales contraídas entre el establecimiento educacional y el beneficiario.
 
@@ -642,17 +738,17 @@ Si vencido el plazo para cumplir la obligación de retribución, el becario ha c
 
 #### Artículo 54 ter
 
-La obligación de retribución quedará sin efecto en caso de fallecimiento del beneficiario o si éste sufre alguna enfermedad o accidente invalidante, que lo imposibilite para dar cumplimiento a su obligación, en el plazo o forma indicado en este párrafo. El beneficiario deberá solicitar la exención de la obligación de retribución debiendo acreditar ante la Subsecretaría, la circunstancia que lo imposibilita para el cumplimiento de la obligación. Dicha repartición calificará el mérito de la solicitud, aprobándola o rechazándola. La aceptación de la solicitud eximirá al Becario de la restitución de la suma otorgada por la Beca.
+La obligación de retribución quedará sin efecto en caso de fallecimiento del beneficiario o si éste sufre alguna enfermedad o accidente invalidante, que lo imposibilite para dar cumplimiento a su obligación, en el plazo o forma indicado en este párrafo. El beneficiario o sus herederos, según corresponda, deberán solicitar la exención de la obligación de retribución debiendo acreditar ante la Subsecretaría, la circunstancia que lo imposibilita para el cumplimiento de la obligación. Dicha repartición calificará el mérito de la solicitud, aprobándola o rechazándola. La aceptación de la solicitud eximirá al Becario de la restitución de la suma otorgada por la Beca.
 
 #### Artículo 54 quáter
 
-En caso de incumplimiento de la obligación de retribución, sin mediar autorización establecida en el artículo anterior, el beneficiario deberá restituir toda suma otorgada en razón de esta beca, o el proporcional en caso de que se haya cumplido la obligación parcialmente, debidamente reajustada anualmente según el valor del IPC desde el año de la primera asignación hasta el año previo a la restitución del monto correspondiente. En tal sentido, en el caso de los beneficiarios que hubieran realizado un cambio de institución o carrera y mantuvieron su beca, se considerarán los montos efectivos en forma independiente a la carrera inicial consignada en el convenio suscrito por el estudiante. La Subsecretaría adoptará las medidas pertinentes para efectos de obtener el reintegro de dichos montos, a través de las acciones judiciales que correspondan.
+En caso de incumplimiento de la obligación de retribución, sin mediar autorización establecida en el artículo 54 bis, el beneficiario deberá restituir toda suma otorgada en razón de esta beca, o el proporcional en caso de que se haya cumplido la obligación parcialmente, debidamente reajustada anualmente según el valor del IPC desde el año de cada asignación hasta el año previo a la restitución del monto correspondiente. En tal sentido, en el caso de los beneficiarios que hubieran realizado un cambio de institución o carrera y mantuvieron su beca, se considerarán los montos efectivos en forma independiente a la carrera inicial consignada en el convenio suscrito por el estudiante. La Subsecretaría adoptará las medidas pertinentes para efectos de obtener el reintegro de dichos montos, a través de las acciones judiciales que correspondan.
 
 #### Artículo 55
 
 Verificado el cumplimiento de la obligación de retribución, la Subsecretaría" dejará constancia de esta situación mediante el acto administrativo correspondiente.
 
-En caso de los beneficiarios de años anteriores al 2016 que no hayan suscrito el convenio, el Ministerio de Educación hará devolución de la garantía, dentro del plazo de treinta (30) días hábiles, contados desde la fecha de dictación del acto administrativo al que alude este artículo.
+A los beneficiarios de años anteriores al 2016 que no hayan suscrito el convenio, la Subsecretaría les notificará mediante correo electrónico, dentro del plazo de treinta (30) días hábiles, contados desde la fecha de dictación del acto administrativo al que alude este artículo, que el instrumento de garantía se encuentra disponible para su retiro el que se efectuará exclusivamente desde sus dependencias y cuya tramitación podrá delegar en una tercera persona, mediante un poder especial destinado al efecto, autorizado ante Notario Público.
 
 ## Título IX
 
@@ -910,7 +1006,7 @@ a) Cuando hubieren omitido antecedentes o faltado a la verdad al proporcionar la
 
 b) Cuando se compruebe la falsedad de los respaldos de la situación económica, académica o familiar del beneficiado.
 
-c) Por retiro, abandono, suspensión temporal de la carrera sin autorización del Ministerio de Educación, o cambio de institución sin la autorización de la Subsecretaría.
+c) Por retiro, abandono, suspensión temporal de la carrera o cambio de institución sin la autorización de la Subsecretaría en los últimos dos casos.
 
 d) Cuando incurrieren en alguna causal de eliminación prevista en la reglamentación académica de la institución de educación superior respectiva. En el caso de que el alumno incurriere en las causales de la letra a) y/o b), éste quedará impedido para postular a los beneficios que contempla el Programa de Becas de Educación Superior, el beneficio estudiantil asociado a la gratuidad y el Fondo Solidario de Crédito Universitario, por 2 (dos) años consecutivos.
 
@@ -994,19 +1090,13 @@ Transcurrido el plazo otorgado a la institución para realizar la respectiva res
 
 ## Artículos transitorios
 
-Primero: A partir del año 2021, toda referencia a la Prueba de Selección Universitaria, o PSU, contenida en el presente reglamento, se entenderá hecha al instrumento que la reemplace, según lo establezca el Sistema de Acceso a las instituciones de educación superior creado por la ley N°21.091, sobre educación superior.
+Primero: A partir del año 2021, toda referencia a la Prueba de Selección Universitaria, o PSU, contenida en el presente reglamento, se entenderá hecha a la Prueba de Transición o al instrumento que defina el Sistema de Acceso a las instituciones de educación superior creado por la ley Nº 21.091, sobre educación superior, sin perjuicio de los puntajes "guardados" que puedan ser utilizados el año 2021."
 
-Segundo: La referencia que se realiza en el artículo 13º de la resolución exenta Nº 118, de 2010, de la Junta Nacional de Auxilio Escolar y Becas, o la que la reemplace, al artículo 16 bis del decreto Nº 39, de 2011, que modifica el decreto supremo Nº 337, de 2010, deberá entenderse referida a este artículo transitorio, en los siguientes términos:
+Por su parte, las referencias a la prueba de "Lenguaje y Comunicación" se entenderán hechas a la prueba de "Comprensión Lectora".
 
-"Respecto de los estudiantes que hayan ingresado a una carrera del área de pedagogía elegible, durante el año siguiente a la rendición de la Prueba de Selección Universitaria (PSU), los beneficios se determinarán de acuerdo o los siguientes criterios:
+Lo señalado en este artículo, se entenderá sin perjuicio de lo establecido en el artículo 44, letra b) de este reglamento.
 
-a) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba de Selección Universitaria (PSU) mayor o igual a 600 (seiscientos) y menor a 700 (setecientos) puntos, entre las pruebas de Lenguaje y Comunicación y Matemática.
-
-b) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba de Selección Universitaria (PSU) mayor o igual a 700 (setecientos) y menor a 720 (setecientos veinte) puntos, entre las pruebas de Lenguaje y Comunicación y Matemática.
-
-c) Para aquellos estudiantes que hayan obtenido un puntaje promedio en la Prueba de Selección Universitaria (PSU) mayor o igual a 720 (setecientos veinte) puntos, entre las pruebas de Lenguaje y Comunicación y Matemáticas.".
-
-Tercero: Para los efectos del otorgamiento en el proceso de asignación de la Beca Nuevo Milenio, antes del 31 de marzo del año de asignación del beneficio, el Ministerio de Educación podrá, mediante resolución fundada, eximir durante dicha anualidad de la exigencia de la acreditación institucional señalada, a centros de formación técnica o institutos profesionales que:
+Segundo: Para los efectos del otorgamiento en el proceso de asignación de la Beca Nuevo Milenio, antes del 31 de marzo del año de asignación del beneficio, el Ministerio de Educación podrá, mediante resolución fundada, eximir durante dicha anualidad de la exigencia de la acreditación institucional señalada, a centros de formación técnica o institutos profesionales que:
 
 i. Durante el año anterior posean una tasa de retención de primer año superior o igual a un 50%.
 
@@ -1014,11 +1104,11 @@ ii. Que se encuentren sujetos al sistema de licenciamiento al 31 de diciembre de
 
 Lo establecido en este artículo, no será aplicable a la situación descrita en el inciso segundo y del artículo 30 y en el artículo 32 del presente reglamento.
 
-Cuarto: Se exceptúan del requisito establecido en el literal e) del artículo 11 los estudiantes matriculados en las instituciones creadas en virtud de las leyes Nº 20.842 y 20.910. Asimismo, los estudiantes matriculados en las universidades creadas en virtud de la ley 20.842 podrán acceder a las becas reguladas en el presente reglamento operando a su respecto la exención del requisito de acreditación de carrera.
+Tercero: Se exceptúan del requisito establecido en el literal e) del artículo 11 los estudiantes matriculados en las instituciones creadas en virtud de las leyes Nº 20.842 y 20.910. Asimismo, los estudiantes matriculados en las universidades creadas en virtud de la ley 20.842 podrán acceder a las becas reguladas en el presente reglamento operando a su respecto la exención del requisito de acreditación de carrera.
 
-En el caso de la beca Bicentenario, podrán acceder a ella los estudiantes de universidades estatales que, al 31 de diciembre del año anterior a la asignación de dicho beneficio, cuenten con una acreditación inferior a cuatro años, sin perjuicio de que deberán ser acreditadas por dicho plazo en su siguiente proceso de acreditación.
+En el caso de la beca Bicentenario, podrán acceder a ella los estudiantes de universidades estatales que, al 31 de diciembre del año anterior a la asignación de dicho beneficio, cuenten con una acreditación inferior a la establecida en al artículo 1 letra a) de este reglamento, sin perjuicio de que deberán ser acreditadas por dicho plazo en su siguiente proceso de acreditación.
 
-Quinto: Sin perjuicio de lo señalado en el artículo 7 del presente reglamento, hasta un 40% de los recursos para financiar las becas señaladas en el artículo 1, será entregado a las instituciones de educación superior durante el primer semestre de cada año, en proporción a los recursos que le correspondió a cada una el año anterior por este concepto.
+Cuarto: Sin perjuicio de lo señalado en el artículo 7 del presente reglamento, hasta un 40% de los recursos para financiar las becas señaladas en el artículo 1, será entregado a las instituciones de educación superior durante el primer semestre de cada año, en proporción a los recursos que le correspondió a cada una el año anterior por este concepto.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Harald Beyer Burgos, Ministro de Educación.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
