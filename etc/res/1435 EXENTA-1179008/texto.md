@@ -1,0 +1,5 @@
+DEJA SIN EFECTO RESOLUCIONES EXENTAS QUE INDICA
+
+Por resolución exenta N° 1.435, de 15 de julio de 2022, de esta Subsecretaría, déjense sin efecto las resoluciones exentas N° 2.279, N° 2.282, N° 2.287, N° 2.344, N° 2.345, N° 2.347, N° 2.348, N° 2.349, N° 2.353, N° 2.355, N° 2.356, N° 2.452, N° 2.455, N°.2.466, todas de 2007, que autorizaron a Corpesca S.A. para realizar actividades extractivas en alta mar, con las naves industriales "Don Antonio", "Isluga", "J.M. Hamwee", "Guanaye", "Eperva 48", "Huayquique", "Eperva 52", "Don Edmundo", "Águila Real", "Gavilán", "Puchuldiza", "Til Til", "Raulí" y "Tambo", por configurarse la causal establecida en el artículo 11.- letra a) del decreto supremo N° 360 de 2005, del actual Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 15 de julio de 2022.- Paulo Sepúlveda Sepúlveda, Subsecretario de Pesca y Acuicultura (S).
