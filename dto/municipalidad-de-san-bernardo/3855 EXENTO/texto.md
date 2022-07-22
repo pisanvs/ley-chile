@@ -88,11 +88,11 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1
 
-El Plan Regulador de San Bernardo y localidad de Lo Herrera, en adelante el Plan, está conformado por la presente Ordenanza, los planos PRC-SB-01 y PRC-SB-02, escala 1:10.000, PRC-SB-03/2017, escala 1:2.000, y la Memoria Explicativa, que le complementan y que para los efectos de su aplicación constituyen un solo cuerpo legal.
+El Plan Regulador de San Bernardo y localidad de Lo Herrera, en adelante el Plan, está conformado por la presente Ordenanza, los planos PRC-SB-01 y PRC-SB-02, escala 1:10.000, PRC-SB-03/2017, y PRC-SB-04/2021, escala 1:2.000, y la Memoria Explicativa, que le complementan y que para los efectos de su aplicación constituyen un solo cuerpo legal.
 
 #### Artículo 2
 
-Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, todas las cuales regirán dentro del área territorial del Plan graficada en los Planos PRC-SB-01, PRC-SB-02 y PRC-SB-03/2017.
+Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, todas las cuales regirán dentro del área territorial del Plan graficada en los Planos PRC-SB-01, PRC-SB-02, PRC-SB-03/2017 y PRC-SB-04/2021..
 
 #### Artículo 3
 
@@ -4755,3 +4755,7 @@ El Secretario Municipal y Ministro de Fe del Concejo Municipal, certifica que el
 El Secretario Municipal y Ministro de Fe, certifica que el Plan Regulador Comunal de San Bernardo y localidad de Lo Herrera, compuesto de los Planos, Memoria Explicativa y Ordenanza, fue promulgado mediante el Decreto Alcaldicio Exento Nº 3.855, de fecha 2 de mayo de 2006.
 
 > **Nota.** El literal d) del artículo 7 del Decreto 34, Vivienda, publicado el 20.09.2017, modifica el artículo 86 de la presente norma, en el sentido de intercalar en el cuadro Vialidad Comunal, entre la fila de la calle Bernardo O'Higgins y la fila Calle de Servicio 1, por aquellas vías y su descripción que la citada norma indica, por razones técnicas y temporales no se ha podido actualizar.
+
+> **Nota.** NOTA 1 El artículo primero del Decreto 29, Vivienda, publicado el 22.07.2022, modifica la presente norma en el sentido de de sustituir la normativa aplicable a los terrenos, ambos delimitados por la línea poligonal cerrada definida por los puntos A-B-C-D-A, y singularizados como Lote 3, Rol SII 6200-3, de una superficie de 13,51 ha, y Lote 4, Rol SII 6200-4, de una superficie de 9,97 ha, ambos de propiedad del Servicio de Vivienda y Urbanización Metropolitano, ubicados respectivamente en El Mariscal Nº 1339 y El Mariscal Nº 1577, comuna de San Bernardo, en la forma que la citada norma indica.
+
+> **Nota.** NOTA 2 El artículo cuarto del Decreto 29, Vivienda, publicado el 22.07.2022, modifica los planos PRC-SB-01 de Zonificación y PRC-SB-02 de Vialidad, graficando en ellos la subzona con Normas de Edificación y Uso de Suelo Conjuntas denominada ZU5-2 "El Mariscal", sobre el territorio delimitado por la línea poligonal cerrada definida por los puntos A-B-C-D-A, representada en el plano PRC-SB-04/2021, denominado "Modificación Plan Regulador Comunal de San Bernardo según artículo 50 Ley General y Construcciones El Mariscal 3 y 4".
