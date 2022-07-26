@@ -384,7 +384,7 @@ Las disposiciones establecidas en los artículos 7, 8 y 11 entrarán en vigencia
 
 #### Artículo décimo
 
-Las disposiciones establecidas en el artículo 10 entrarán en vigencia a partir del 1 de enero de 2024, debiendo considerarse todos los plazos establecidos en dicho artículo a contar de esta fecha.
+Las disposiciones establecidas en el artículo 10 entrarán en vigencia transcurrido un año desde su publicación en el Diario Oficial.
 
 Para los efectos de la obligación de entrega de información geológica básica reconocida en el artículo 21 del Código de Minería, que se modifica en el numeral 1 del artículo 10, las concesiones de exploración y explotación actualmente vigentes deberán dar cumplimiento a tal disposición transcurridos dos años, contados desde la entrada en vigencia de la presente ley.
 
