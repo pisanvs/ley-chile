@@ -30,7 +30,7 @@ La carga de un vehículo y los elementos de sujeción y protección de ésta, ta
 
 Prohíbese anunciar o promover la venta de gas licuado mediante el uso de aparato sonoro, golpes en los cilindros transportados u otro tipo de ruidos estridentes similares.
 
-El transporte de gas licuado deberá efectuarse de acuerdo con lo dispuesto en el Capítulo VI del D.S. Nº 29, de 1986, del Ministerio de Economía, Fomento y Reconstrucción.
+El transporte de gas licuado de petróleo deberá efectuarse de acuerdo con lo dispuesto en el Título VI "Del transporte de GLP" del decreto supremo Nº 108, de 2013, del Ministerio de Energía, que aprueba reglamento de seguridad para las instalaciones de almacenamiento, transporte y distribución de gas licuado de petróleo y operaciones asociadas, o el que en el futuro lo reemplace.
 
 #### Artículo 7º
 
