@@ -158,9 +158,15 @@ b) Memoria Explicativa, en la que se describa el proyecto a ejecutar y se señal
 
 Las partidas a ejecutar deberán ajustarse a lo señalado en el Itemizado Técnico de Construcción dispuesto en la resolución exenta Nº 6.624 (V. y U.), de 2016, y sus modificaciones, que fija aquellos ítems relacionados con los elementos a intervenir y con los requerimientos mínimos de estándar de construcción.
 
-6.6. Se deberá contemplar pintura en todos los muros interiores y cielo de las viviendas, así como en muros interiores y cielo de espacios de uso común en edificaciones colectivas, salvo en el caso en que el Serviu autorice al evaluar, por tratarse de materiales cuya terminación se proponga a la vista, tales como hormigón afinado, enchapes de materiales pétreos o cerámicos, o similares. La pintura debe aplicarse con un mínimo de dos manos, de acuerdo a indicaciones del fabricante y deberá presentar un acabado uniforme.
+6.6. Adicionalmente a los estándares mínimos dispuestos en la resolución exenta mencionada en el Visto g), el proyecto deberá contemplar alguna de las siguientes partidas de terminación al interior de la vivienda:
 
-6.7. Se deberá conformar el mobiliario de los clósets de la vivienda, incluyendo áreas para el guardado y barras para el colgado de ropa, cajoneras con quincallería para su desplazamiento, y puertas para su cierre completo, ejecutados en material adecuado tales como aglomerados revestidos.
+a) Pavimento de terminación con revestimiento de piso, en todos aquellos recintos que no se consideran en el punto 3.1. del Itemizado Técnico de Construcción, del tipo cerámico, piso fotolaminado o superior, u otros de similar naturaleza, o
+
+b) Pintura en todos los muros interiores y cielo de las viviendas, así como en muros interiores y cielo de espacios de uso común en edificaciones colectivas, salvo en el caso en que el Serviu autorice al evaluar, por tratarse de materiales cuya terminación se proponga a la vista, tales como hormigón afinado, enchapes de materiales pétreos o cerámicos, o similares.
+
+En caso de optar por esta alternativa, además, se deberá conformar el mobiliario de los closets de la vivienda, incluyendo áreas para el guardado y barras para el colgado de ropa, cajoneras con quincallería para su desplazamiento, y puertas para su cierre completo, ejecutados en material adecuado y de acuerdo a las indicaciones del fabricante.
+
+6.7. Eliminado.
 
 ### 7. Asistencia Técnica:
 
