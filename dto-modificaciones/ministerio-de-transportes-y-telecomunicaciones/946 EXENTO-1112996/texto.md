@@ -40,19 +40,39 @@ Decreto:
 
 Estudio.
 
-- Dirección : Eliodoro Yáñez Nº 1783, Providencia, Región
+- Dirección : Eliodoro Yáñez Nº 1783,
+
+Providencia, Región
 
 Metropolitana.
 
-- Coordenadas Geográficas : 33º 25' 47" Latitud Sur; 70º 36' 37" Longitud
+- Coordenadas
+
+Geográficas : 33º 25' 47" Latitud Sur;
+
+70º 36' 37" Longitud
 
 Oeste. Datum PSAD 56.
 
 Planta Transmisora.
 
-- Dirección : Camino a Club Andino, Punta Arenas, XII Región.
+- Dirección : Reserva Forestal
 
-- Coordenadas Geográficas : 53º 09' 31" Latitud Sur; 71º 00' 33" Longitud
+Magallanes, comuna
+
+de Punta Arenas,
+
+Región de Magallanes
+
+y de la Antártica
+
+Chilena
+
+- Coordenadas
+
+Geográficas : 53º 09' 31" Latitud Sur;
+
+71º 00' 33" Longitud
 
 Oeste. Datum WGS 84.
 
@@ -60,27 +80,43 @@ Sistema Radiante:
 
 - Polarización : Circular.
 
-- Tipo de antena : Anillo terminado en barras, con tilt eléctrico de 10,4º
+- Tipo de
 
-bajo la horizontal.
+antena : Anillo terminado en
 
-- Ganancia antena : 4,52 dBd de ganancia máxima sin tilt y -2,93 dBd en
+barras, con tilt eléctrico
+
+de 10,4º bajo la horizontal.
+
+- Ganancia antena : 4,52 dBd de ganancia máxima
+
+sin tilt y -2,93 dBd en
 
 el plano horizontal.
 
 - Nº antenas : 4.
 
-- Altura centro de radiación : 22,5 metros.
+- Altura centro
 
-- Pérdidas (cables,
+de radiación : 22,5 metros.
+
+- Pérdidas
+
+(cables,
 
 conectores) : 2,53 dB.
 
-- Pérdidas (divisor potencia): 0,2 dB.
+- Pérdidas
+
+(divisor
+
+potencia) : 0,2 dB.
 
 - Arreglo de antenas:
 
-- Largo cable alimentador : 25,5 metros.
+- Largo cable
+
+alimentador : 25,5 metros.
 
 - Diagrama de radiación horizontal, de acuerdo a la siguiente tabla:
 
