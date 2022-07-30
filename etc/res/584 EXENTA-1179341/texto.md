@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 584, de 6 de julio de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se aprueba el programa de enseñanza a la Escuela de Conductores No Profesionales o Clase B, denominada Escuela de Conductores Ruta del Sol Limitada, RUT N° 76.235.091-2, nombre de fantasía "Academia de Conductores Ruta del Sol Ltda.". La Escuela de Conductores tendrá como Director a don Jonathan Gregorio Esteban Martínez Canto, cédula de identidad N° 9.383.714-2, y su sede estará ubicada en Arturo Prat N° 601, comuna de Hualañé. Las horas pedagógicas autorizadas a la referida Escuela son 9 horas teóricas, 12 horas prácticas, con un total de 21 horas pedagógicas.-
+
+Ximena Alejandra Oliva Aravena, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
