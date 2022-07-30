@@ -56,25 +56,19 @@ d) Las personas jurídicas de derecho privado sin fines de lucro a que se refier
 
 Para la aplicación de los subsidios que se otorgan, regirán supletoriamente las disposiciones del DS Nº 49 (V. y U.), de 2011, en todo aquello que no se contraponga con lo dispuesto por la presente resolución.
 
-2. En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 21 de julio, 29 de julio, 30 de agosto, 25 de octubre, 10 de noviembre, 15 de diciembre de 2022 y 27 de diciembre, ubicados dentro del área urbana de las regiones y comunas que se indican en la siguiente tabla:
+2. En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 21 de julio, 29 de julio, 25 de agosto, 25 de octubre y 15 de diciembre de 2022, ubicados dentro del área urbana de las regiones y comunas que se indican en la siguiente tabla:
 
 3. El total de recursos para la selección de proyectos postulantes al presente llamado alcanzará por región los montos en Unidades de Fomento que se señalan en la siguiente tabla:
-
-.
 
 El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, sin perjuicio de efectuarse ajustes de los recursos disponibles del programa 2022.
 
 Para los efectos de imputar los recursos correspondientes a los subsidios a otorgar en el presente llamado, en el caso de los Municipios, Gobiernos Regionales y Personas sin fines de lucro, se considerará un monto promedio de 1.030 Unidades de Fomento por unidad de vivienda, incluidos los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras. En el caso de los proyectos que presente Serviu, se imputará un monto promedio de 1.530 Unidades de Fomento, incluidos los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras.
-
-Para el caso de las operaciones de Adquisición de Vivienda Construida, mencionadas en el numeral 4.2 de la presente resolución, el valor de subsidio a imputar en el proceso de selección respectivo, corresponderá al monto acordado en el contrato de promesa de compraventa suscrito entre el postulante y el promitente vendedor, ofrecido en la carta de oferta presentada por el vendedor o indicado en el certificado municipal de disponibilidad presupuestaria según corresponda, aprobado en cualquier caso, de acuerdo al procedimiento establecido en el numeral 11.3 de la presente resolución. A dichos montos, se adicionarán los recursos asociados al costo de las obras de recuperación, mejoramiento, y/o ampliación del inmueble existente, si procede y los recursos por concepto de asistencia técnica señalados en la resolución exenta Nº 1.875 (V. y U.), de 2015, y sus modificaciones, además de los montos a pagar por concepto de Fiscalización Técnica de Obras, de ser necesarios.
 
 ### 4. Tipologías de intervención:
 
 4.1. Construcción de Viviendas: Corresponderá a la edificación de conjuntos o edificios de viviendas colectivas, incluyendo su equipamiento y bienes comunes cuando corresponda, a través de la tipología de Construcción en Nuevos Terrenos, incluyendo si corresponde la adquisición del terreno.
 
 4.2. Adquisición de Viviendas Construidas: Corresponderá a la adquisición de viviendas construidas, ya sean individuales dispersas y/o edificación colectiva, pudiendo incluirse si se requiere, las obras de adecuación, refacción y/o mantención que se requieran para habilitarlas para el arriendo.
-
-El Serviu, en el caso de operaciones de Adquisición de Vivienda Construida individuales, donde el prominente vendedor sea una persona natural, deberá evaluar la situación social de dicho propietario, velando porque no se generen fenómenos de déficit habitacional, posterior a la venta del inmueble.
 
 4.3. Rehabilitación de Inmueble Existente: Corresponderá a la adquisición y/o adecuación de inmuebles existentes, incluyendo su ampliación, para su transformación en viviendas colectivas para ser destinadas al arriendo. En el caso de las Personas Jurídicas de derecho privado sin fines de lucro, podrán realizar esta intervención acreditando la constitución de comodato sobre un inmueble de propiedad fiscal, o perteneciente a organismos o empresas públicas, por un plazo compatible para constituir los gravámenes que se señalan en este llamado. Estos proyectos se considerarán también dentro de la tipología de Construcción en Nuevos Terrenos.
 
@@ -90,11 +84,11 @@ En estos casos, se aceptarán proyectos que consideren Permisos de Alteración y
 
 Por otra parte, los Serviu, los Gobiernos Regionales y los Municipios podrán postular proyectos de Adquisición de Vivienda Construidas de acuerdo al numeral 4.2 del resuelvo anterior.
 
-5.3. Las Personas Jurídicas sin fines de lucro podrán postular solamente a las intervenciones de Construcción de Viviendas o Rehabilitación de Inmueble Existente, acreditando la constitución de comodato sobre un terreno fiscal, o perteneciente a organismos o empresas públicas, por un plazo compatible para constituir los gravámenes que se señalan en este llamado. Para la acreditación antes referida, tratándose de un terreno perteneciente al Serviu, podrá presentarse carta del Director o Directora del Serviu que acredite el compromiso de la entrega del terreno en comodato a la Persona Jurídica, de resultar seleccionada en el Llamado correspondiente.
+5.3. Las Personas Jurídicas sin fines de lucro podrán postular solamente a las intervenciones de Construcción de Viviendas o Rehabilitación de Inmueble Existente, acreditando la constitución de comodato sobre un terreno fiscal, o perteneciente a organismos o empresas públicas, por un plazo compatible para constituir los gravámenes que se señalan en este llamado.
 
 5.4. Los terrenos o inmuebles sobre los que se desarrollen las intervenciones deberán encontrarse libres de gravámenes, prohibiciones, limitaciones, anotaciones o reclamaciones de cualquier naturaleza. Para la postulación con terrenos en comodato, este último deberá constituirse por un período igual o superior al indicado en el numeral 8.1 del resuelvo 8. de la presente resolución y deberá haber sido entregado para el desarrollo de objetivos compatibles con el presente llamado, por lo que el propietario del terreno no podrá poner término anticipado al comodato si dicha acción afecta las obligaciones adquiridas por el beneficiario.
 
-El Serviu, atendida la finalidad publica de los proyectos a realizar, podrá entregar en comodato terrenos de su propiedad por un plazo mayor al señalado en la resolución exenta Nº 14.464 (V. y U.), de 2017, que establece criterios y procedimientos para la adquisición, administración y enajenación de inmuebles de propiedad Serviu, a las Municipalidades y a las Personas Jurídicas sin fines de lucro. Asimismo, los terrenos entregados en comodato podrán ser destinados al uso habitacional y a la construcción viviendas para el arriendo.
+El Serviu, atendida la finalidad publica de los proyectos a realizar, podrá entregar en comodato terrenos de su propiedad por un plazo mayor al señalado en la resolución exenta Nº 14.464 (V. y U.), de 2017, que establece criterios y procedimientos para la adquisición, administración y enajenación de inmuebles de propiedad Serviu, a las Municipalidades y a las Personas Jurídicas sin fines de lucro.
 
 5.5. Los proyectos de construcción, rehabilitación o adquisición se ingresarán en la plataforma que se dispondrá al efecto, a más tardar a las 18:00 horas de los días señalados en el resuelvo 2 de esta resolución, incluyendo los siguientes antecedentes:
 
@@ -102,7 +96,7 @@ a) Intervenciones de Construcción de Viviendas y Rehabilitación de Inmueble Ex
 
 i. Certificado de Dominio Vigente y Certificado de Hipotecas, Gravámenes, Interdicciones y Prohibiciones, con indicación de litigios y bien familiar, otorgado por el Conservador de Bienes Raíces respectivo, con una antigüedad no superior a dos meses.
 
-ii. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En los casos en que el postulante sea un Municipio, en reemplazo del Contrato de Promesa de Compraventa, se podrá presentar un Certificado Municipal de disponibilidad presupuestaria, que se refiera de manera expresa al terreno objeto de la postulación y que considere el resguardo de recursos para el presupuesto del año 2023 en un monto equivalente al valor de terreno.
+ii. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años.
 
 iii. Certificado de factibilidad de dación de servicios, conforme a lo señalado en el literal h) del artículo 10. del DS Nº 49 (V. y U.), de 2011.
 
@@ -116,7 +110,7 @@ vii. Plano de emplazamiento, de acuerdo a lo señalado en el literal g) del art�
 
 viii. Informe de localización del terreno, inmueble o viviendas, donde conste el cumplimiento de las distancias para el cálculo del puntaje a que alude la letra b. del punto 11.1 de esta resolución. En caso de no incluirse este informe no se otorgará puntaje por este concepto.
 
-ix. En el caso de Municipios, Gobiernos Regionales y Personas Jurídicas de derecho privado sin fines de lucro, una carta de compromiso del propietario del terreno aceptando constituir la prohibición a la que alude el resuelvo 8., de la presente resolución, por a lo menos el período comprometido por el postulante.
+ix. En el caso de Municipios, Gobiernos Regionales y Personas Jurídicas de derecho privado sin fines de lucro, una carta de compromiso del propietario del terreno aceptando constituir la prohibición a la que alude el punto v. del numeral 5.4., de la presente resolución, por a lo menos el período comprometido por el postulante.
 
 x. Comprobante de ingreso al sistema SIBIS disponible en http://portalsibis.minvu.cl/ iniciosolicitud.aspx, de los datos y georreferenciación de los terrenos o inmuebles, en la categoría "Oferta Externa", y catastrarse en la base de datos "En Estudio".
 
@@ -124,13 +118,11 @@ xi. No se requerirá presentar a la postulación los antecedentes del proyecto e
 
 xii. Propuesta de Ordenanza Municipal en la que se definan los criterios de acceso, uso y permanencia de personas en situaciones sociales críticas que podrán utilizar las residencias destinadas a la atención de situaciones sociales críticas incluidas en los inmuebles, cuando corresponda.
 
-xiii) Plan de Administración, Operación y Mantención del Inmueble, de acuerdo al formato establecido por Minvu.
-
 Los restantes antecedentes del proyecto podrán ser ingresados una vez seleccionado el proyecto, de acuerdo a lo dispuesto en el artículo 10 del DS Nº 49 (V. y U.), de 2011. Los proyectos de construcción podrán ser ingresados usando metodología BIM (Building Information Modeling), en la forma en que el Minvu lo indique y de acuerdo a los plazos descritos en el resuelvo 2., de la presente resolución.
 
 b) Intervenciones de Adquisición de Vivienda:
 
-i. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En los casos en que el postulante sea un Municipio, en reemplazo del Contrato de Promesa de Compraventa, se podrá presentar un Certificado Municipal de disponibilidad presupuestaria, que se refiera de manera expresa al terreno objeto de la postulación y que considere el resguardo de recursos para el presupuesto del año 2023 en un monto equivalente al valor de terreno.
+i. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años.
 
 ii. Certificado de No Expropiación Municipal.
 
@@ -146,9 +138,7 @@ vii. En el caso de Municipios, Gobiernos Regionales y Personas Jurídicas de der
 
 viii. Comprobante de ingreso al sistema SIBIS disponible en http://portalsibis. minvu.cl/iniciosolicitud.aspx, de los datos y georreferenciación de las viviendas, en la categoría "Oferta Externa", y catastrarse en la base de datos "En Estudio".
 
-ix) Informe Serviu del avance de obras en los casos que se aplique lo dispuesto en el resuelvo 5.7 y carta de oferta presentada por el vendedor.
-
-x) Plan de Administración, Operación y Mantención del Inmueble, de acuerdo al formato establecido por Minvu.
+ix) Informe Serviu del avance de obras en los casos que se aplique lo dispuesto en el resuelvo 5.7.
 
 5.6. Dispónese que, atendidas las circunstancias sanitarias que afectan al país actualmente, los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el presente llamado. Con todo, y para proceder a la calificación del proyecto, la Comisión Evaluadora a que se refiere el resuelvo 7. de la resolución exenta citada en el visto j), precedente, podrá solicitar la entrega en un solo acto de los antecedentes físicos del proyecto, con posterioridad a la selección, y en forma previa al inicio de obras.
 
@@ -172,13 +162,7 @@ Si producto de las licitaciones que corresponda realizar los recursos disponible
 
 En el caso de los Serviu, el proyecto de construcción o rehabilitación de inmuebles se financiará completamente con subsidio, en base a la superficie de las unidades de vivienda resultantes de la intervención, incluyendo sus equipamientos y bienes comunes, cuando corresponda, de acuerdo a la siguiente tabla:
 
-Si la operación de adquisición considera la realización de obras de recuperación, mejoramiento, y/o ampliación del inmueble existente, su financiamiento se obtendrá del mismo monto de subsidio máximo establecido en este resuelvo. Para ello, en el informe a que se refiere el literal iv., de la letra b), del resuelvo 5.5, deberá incluirse un presupuesto detallado, que deberá ser evaluado y aprobado por Serviu, de acuerdo al procedimiento establecido en el numeral 11.3. de la presente resolución.
-
-En los casos mencionados en el párrafo anterior, en forma posterior a la selección de los proyectos, Serviu determinará los antecedentes técnicos específicos que se deberán presentar de acuerdo a lo descrito en el artículo 10, del DS Nº 49 (V. y U.), de 2011, a fin de verificar el cumplimiento de los requisitos exigidos en el reglamento antes mencionado, y de evaluar la correcta ejecución de las obras de adecuación, recuperación o mejoramiento, necesarias para habilitar el inmueble.
-
-Para postulaciones de Adquisición de Vivienda Construida ingresadas por Municipios, Gobiernos Regionales o Personas jurídicas de derecho privado sin fines de lucro, incluyendo las obras de recuperación, mejoramiento, y/o ampliación de la vivienda o inmueble existente, el financiamiento se obtendrá de la aplicación del presente resuelvo, considerando subsidio y/o préstamo.
-
-Para los casos de Adquisición de Vivienda que presenten los Serviu, el subsidio corresponderá al precio del inmueble a adquirir, el que en todo caso no podrá superar las 1.900 Unidades de Fomento por vivienda, ni tampoco ser superior en un 10% al valor de tasación que practique el Serviu respectivo
+Para los casos de Adquisición de Vivienda que presenten los Serviu, el subsidio corresponderá al precio del inmueble a adquirir, el que en todo caso no podrá superar las 1.900 Unidades de Fomento por vivienda, ni del 10% del valor de tasación que haga el Serviu. En el caso de postulaciones que apliquen lo dispuesto en el resuelvo 5.7, se permitirá que la tasación respectiva pueda ser realizada, durante el proceso de subsanación de observaciones establecido en el resuelvo 11.3.
 
 6.4. El postulante podrá comprometer aportes adicionales al proyecto, ya sea para el financiamiento de las unidades de vivienda como para el equipamiento adicional, los que deberán ser acreditados en conjunto con el resto de los antecedentes de postulación. Para personas jurídicas de derecho público no será exigible que enteren los aportes adicionales en el Serviu respectivo, pudiendo aportarlos directamente al financiamiento del contrato de construcción del proyecto. Sin embargo, si el contrato de construcción suscrito con posterioridad establece un precio menor al financiamiento disponible sumando el subsidio, el crédito y el aporte del postulante, el menor precio se descontará del monto del subsidio.
 
@@ -234,29 +218,17 @@ En el caso de proyectos que se encuentren emplazados en terrenos del Serviu, com
 
 9.1. Los proyectos podrán considerar tipologías de vivienda que comprendan unidades de 1 a 3 dormitorios. Los recintos que contemple cada tipología deberán cumplir con el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario señalado en el artículo 43 del DS Nº 49 (V. y U.), de 2011, o bien, con el Cuadro Normativo Abreviado que será publicado en la página que el Ministerio de Vivienda disponga para estos efectos (www.minvu.cl/postulacion/llamado). Los proyectos deberán además cumplir con el Itemizado Técnico de Construcción para proyectos del Fondo Solidario de Elección de Vivienda.
 
-9.2. Los proyectos deberán considerar unidades de vivienda con una superficie mínima, según número de dormitorios, de acuerdo a la siguiente tabla:
+9.2. Los proyectos deberán considerar unidades de vivienda con una superficie m�nima, según número de dormitorios, de acuerdo a la siguiente tabla:
 
 Se podrán presentar proyectos que no cumplan el mínimo establecido en la tabla anterior, fundamentado en restricciones derivadas de la aplicación de las normas urbanísticas o estructurales en caso de inmuebles existentes, lo que será evaluado por la Comisión.
 
-El inmueble o el proyecto de viviendas deberá considerar unidades con distinto número de dormitorios, sin embargo, las unidades de 1 dormitorio no podrán superar el 30% del total de unidades. Con todo, el Serviu, podrá de manera justificada aprobar porcentajes diferentes a los descritos en el presente párrafo, basado en criterios de densidad habitacional, cumplimiento de estándares urbanos de localización, u otros criterios de similar naturaleza donde se determinen ventajas evidentes para el desarrollo de proyectos.
+El inmueble o el proyecto de viviendas deberá considerar unidades con distinto número de dormitorios, sin embargo, las unidades de 1 dormitorio no podrán superar el 30% del total de unidades.
 
 9.3. La vivienda deberá contemplar en primer lugar un "Dormitorio Principal", al que se le sumará, de acuerdo a su tipología, un "Segundo Dormitorio". El tercer dormitorio, si corresponde, podrá cumplir los requerimientos del "Dormitorio Construido Adicional". Además del número de dormitorios, las viviendas deberán incluir como programa arquitectónico a lo menos los siguientes recintos: un espacio multiuso de estar comedor, un baño y una cocina, la que podrá estar integrada al estar comedor, logia y bodega.
 
 Las bodegas podrán ubicarse de manera individual en las unidades de vivienda o agrupadas en áreas comunes. Sin perjuicio de lo anterior, el recinto bodega deberá estar siempre completamente conformado como recinto independiente y cerrado, con una superficie mínima de 1 m² por unidad de vivienda. La logia no será exigible en viviendas de un dormitorio, siempre que se disponga del espacio para la lavadora y un espacio adecuado para el tendido de ropa, integrado a la cocina o baño.
 
-9.4. Los proyectos de la tipología Rehabilitación de Inmueble Existente, mencionados en el numeral 4.3., del resuelvo 4. de la presente resolución, podrán considerar de manera total o parcial, obras de recuperación, mejoramiento, y/o ampliación de la vivienda o inmueble existente, de acuerdo a lo establecido en la letra d), del artículo 9 del DS Nº 49 (V. y U.), de 2011, modificando el programa arquitectónico inicial de la vivienda existente, con el objeto de transformarla para acoger a más de un núcleo familiar, generando así unidades habitacionales adicionales.
-
-Sin perjuicio de lo anterior, la estructura de financiamiento del proyecto deberá considerar cuando corresponda, las obras y/o partidas mencionadas en el siguiente orden de priorización, las que se entenderán como requerimientos técnicos a cumplir para lograr un estándar arquitectónico adecuado:
-
-a) Obras de tipo estructural: serán aquellas destinadas a reparar y/o reforzar elementos constructivos que sean parte de la estructura original de la vivienda, con el fin de que ésta pueda resistir los nuevos requerimientos que deberá asumir al adaptar los recintos a las nuevas funciones que se definan, o en caso de proyectarse posibles ampliaciones. Dentro de estas obras se considera el aumento de luces de vigas y losas, refuerzo de entrepisos y vigas, construcción de losas, instalación de pilares, muros de contención y/o refuerzos de muros, soluciones de habilitación y asentamientos, entre otras.
-
-b) Obras de instalaciones y/o urbanización: destinadas a modificar y/o reparar, construir o poner en servicio las redes e instalaciones domiciliarias sanitarias (agua potable y/o alcantarillado), eléctricas y/o de gas. El objetivo de la intervención con este tipo de proyectos es reponer y/o mejorar las instalaciones de redes de electricidad, sanitaria y gas, para subsanar problemas existentes, ya sea por recalentamiento, por la falta de capacidad y/o mala instalación de la electricidad, la mala o precaria instalación de las redes de gas, al igual que las instalaciones de redes de alcantarillado de aguas servidas o de agua potable. Las obras podrán ser, entre otras, cambio de tablero, redes y reforzamiento eléctrico; obras de redes de instalaciones sanitarias, y la instalación de redes de gas. Todas estas instalaciones deben cumplir con la normativa correspondiente de la Superintendencia de Electricidad y Combustibles.
-
-c) Obras de habitabilidad en muros y cubierta: destinadas al mejoramiento de elementos que protegen exteriormente a la vivienda. En el caso de la reparación de la techumbre, podrán ser partidas destinadas a mejorar la estructura de envigado y refuerzos, aleros, reposición y/o cambio de cubierta y caballetes, canales y bajadas, según corresponda. En el caso de muros, se podrán considerar partidas de reparación superficial de paramentos interiores y/o de fachadas, destinadas a corregir desaplomes, pérdida de geometría, grietas, asentamientos, pérdida de masa, mantenimiento de revestimientos y terminaciones, entre otros.
-
-d) Obras de Mantención: destinadas a reparar y/o mejorar las terminaciones interiores y exteriores de la vivienda, tales como revestimientos interiores o exteriores, reposición de estucos, ventanas, puertas y sus marcos y alféizares, dinteles, molduras, pavimentos, pinturas y barnices, cierros y cierros perimetrales, entre otros.
-
-Los proyectos desarrollados en Inmuebles y Zonas de Conservación Histórica, de acuerdo a las condiciones y características que establecen los artículos 2.1.18 y 2.1.43 de la Ordenanza General de Urbanismo y Construcciones, se podrán eximir tanto del cumplimiento del Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, de acuerdo a lo establecido en el numeral 9.12., de la presente resolución, lo que deberá ser informado por Serviu a la Comisión Evaluadora a que se refiere el resuelvo 7., de la resolución exenta citada en el visto k) de esta resolución, previo a la calificación definitiva del proyecto.
+9.4. Los proyectos desarrollados en Inmuebles y Zonas de Conservación Histórica, de acuerdo a las condiciones y características que establecen los artículos 2.1.18 y 2.1.43 de la Ordenanza General de Urbanismo y Construcciones, se podrán eximir tanto del cumplimiento del Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, como del Itemizado Técnico de Construcción, siempre que a juicio de la Comisión Evaluadora se resuelva de manera adecuada la funcionalidad de los recintos, considerando su destino e interrelación.
 
 9.5. Los proyectos de Construcción de Viviendas de 40 o más unidades deberán incluir un mínimo de 5% de unidades que cumplan con los criterios de movilidad reducida, establecidos en las resoluciones exentas descritas en los vistos f) y g), o por el Cuadro Normativo Abreviado, dispuesto en la presente resolución. Para el cómputo de las viviendas, el resultado se aproximará al entero superior. Tratándose de proyectos de menos de 40 viviendas, se deberán contemplar a lo menos 2 unidades de vivienda con diseño adecuado para personas con movilidad reducida.
 
@@ -272,15 +244,13 @@ Los inmuebles podrán incluir además recintos de equipamiento para el funcionam
 
 9.9. Tratándose de intervenciones de Construcción de Vivienda, en forma adicional a las viviendas que se incluyan en el proyecto, deberá considerarse un sector que se denominará Vivienda Pública para Casos Sociales con capacidad para la habilitación de habitaciones independientes para 1 o 2 camas de 1 plaza, con baño individual y closets conformados, destinada a la atención inmediata y temporal de casos de extrema urgencia habitacional. Estas residencias deberán contar con espacios comunes de estar y cocina, y deberán contar con acceso separado respecto de las unidades de vivienda en arriendo. El Administrador podrá fijar una renta mínima a pagar por las personas que accedan a esta residencia o disponer exenciones al pago en casos de extrema urgencia. En las tipologías de Adquisición de Vivienda y Rehabilitación de Inmueble será de libre proposición la incorporación de Residencias destinadas a la atención de situaciones sociales críticas.
 
-En estos casos, la superficie, usos y área del mobiliario y artefactos, del recinto habitación independiente y su baño individual, deberán cumplir con el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario de la resolución exenta citada en el visto g), de la presente resolución, o con el Cuadro Normativo Abreviado indicado en el numeral 9.1., precedente.
-
 9.10. Los inmuebles de vivienda colectiva que se adquieran, rehabiliten o construyan deberán contar con recintos destinados a conserjería, vigilancia, y accesos controlados.
 
 9.11. Los proyectos que se emplacen en zonas donde se encuentren vigentes Planes de Descontaminación Atmosférica del Ministerio de Medio Ambiente, así como aquellos donde las exigencias de éstos para viviendas nuevas comiencen a regir en fecha posterior a su calificación, pero dentro del año del presente llamado, deberán incorporar dicho estándar o, en su defecto podrán implementarlo cuando apliquen las instrucciones que dicte este Ministerio en materia de estándar de acondicionamiento térmico para viviendas nuevas, las que estarán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, en la sección web respectiva (www.minvu.cl/postulacion/llamado).
 
 A su vez, aquellos proyectos que se desarrollan en áreas declaradas latentes o saturadas y que deban ingresar al Sistema de Evaluación de Impacto Ambiental, conforme lo establece el reglamento del Sistema de Evaluación de Impacto Ambiental, aprobado mediante el DS Nº 40, del Ministerio del Medio Ambiente, del año 2012, deberán cumplir con las exigencias resultantes de esa evaluación, destinadas a mitigar la emisión de material particulado.
 
-9.12. Para los efectos de intervenciones de Adquisición de Vivienda o Rehabilitación de Inmueble Existente, el Serviu podrá autorizar excepciones al cumplimiento de alguna o algunas las exigencias señaladas en el resuelvo 9. Estándar Técnico, de las resoluciones descritas en los Vistos f) y g), de la presente resolución, o el Cuadro Normativo Abreviado descrito en el numeral 9.1, precedente, si a juicio de dicho Servicio se acredita que el inmueble resguardará criterios de habitabilidad y funcionalidad de las unidades de vivienda.
+9.12. Para los efectos de intervenciones de Adquisición de Viviendas o Rehabilitación de Inmueble Existente, el Serviu podrá autorizar excepciones al cumplimiento de las exigencias de este resuelvo, siempre que se resguarden criterios de utilidad, funcionalidad y recintos mínimos de las unidades de vivienda.
 
 ### 10. Asistencia Técnica:
 
@@ -322,15 +292,11 @@ Aquellos proyectos que además de los antecedentes indicados en el numeral 5.5 d
 
 11.3. Los antecedentes señalados en el numeral 5.5, serán evaluados por el Serviu en un plazo de hasta 15 días hábiles contados desde la fecha del ingreso de postulación, de acuerdo a lo establecido en el resuelvo 2., pudiendo emitir observaciones que deberán ser comunicadas a los postulantes, quienes tendrán un plazo máximo de 10 días hábiles para su subsanación. A partir de la respuesta del postulante, el Serviu contará con 5 días hábiles para aprobar o rechazar la postulación, lo que deberá ser informado a la División de Política Habitacional, con el objeto de proceder a la prelación y selección de las solicitudes aprobadas según puntaje hasta los recursos disponibles, de conformidad a lo indicado en el resuelvo 2. de esta resolución.
 
-11.4. Con posterioridad a la selección, los proyectos serán ingresados al Serviu para su evaluación, en un plazo máximo de 90 días, prorrogables mediante resolución del Director del Serviu, y deberán obtener la calificación definitiva a que alude el artículo 13 del DS Nº 49 (V. y U.), de 2011. Dicha calificación, será realizada por la Comisión Evaluadora a que se refiere el resuelvo 7., de la resolución exenta citada en el Visto k), precedente.
+11.4. Con posterioridad a la selección, los proyectos serán ingresados al Serviu para su evaluación y deberán obtener la calificación definitiva a que alude el artículo 13 del DS Nº 49 (V y U.), de 2011. La calificación final del proyecto será realizada por la Comisión Evaluadora a que se refiere el resuelvo 7 de la resolución exenta citada en el visto j), precedente.
 
 11.5. En el caso de proyectos presentados por el Serviu, para el desarrollo y la materialización del proyecto definitivo, la tramitación y obtención de los permisos respectivos, y el seguimiento y prestación de los servicios y tareas que se requieran realizar durante la ejecución de las obras, éste podrá actuar por sí o contratar una Entidad Patrocinante.
 
-11.6. En los casos de Adquisición de Vivienda Construida, mencionados en el numeral 4.2., de la presente resolución, el Serviu deberá informar a la División de Política Habitacional, a través del Informe Técnico mencionado en el literal iv, de la letra b., del numeral 5.5, de la presente resolución, el cumplimiento de los aspectos de habitabilidad y funcionalidad descritos en el llamado, indicando que recomienda la participación de la iniciativa en el proceso de selección.
-
-En los casos de postulaciones Serviu de Adquisición de Vivienda Construida que no incluyan obras de recuperación, mejoramiento, y/o ampliación, luego del proceso de selección y la recepción final del inmueble, se deberá concretar el proceso de inscripción de dominio en el Conservador de Bienes Raíces respectivo, y además contratar o llevar adelante las acciones administrativas que corresponda para iniciar los servicios de administración descritos en el resuelvo 13 de la presente resolución
-
-11.7. Los antecedentes de las postulaciones no seleccionadas no permanecerán en el banco de postulaciones.
+11.6. Los antecedentes de las postulaciones no seleccionadas no permanecerán en el banco de postulaciones.
 
 ### 12. Construcción del Inmueble:
 
@@ -389,8 +355,6 @@ En caso que, por cualquier motivo o incumplimiento, se ponga término al contrat
 15. Mediante resolución del Ministro de Vivienda y Urbanismo, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional o en el sitio web del Minvu.
 
 > **Nota.** La letra g) del número 1° de la Resolución 923 Exenta, Vivienda, publicada el 30.07.2022, dispone reemplazar en el resuelvo 6 de la presente norma, en las tablas insertas en los numerales 6.2 y 6.3, en la fila correspondiente a "Regiones", donde dice "Coquimbo a La Araucanía" a "Coquimbo a Los Ríos".
-
-> **Nota.** NOTA 1 La letra b. del número 1 de la Resolución 1446 Exenta, Vivienda, publicada el 03.11.2022, dispone reemplazar en la tabla inserta en el resuelvo 2 de la presente norma, las filas correspondientes a las regiones de Valparaíso y Los Ríos, por aquellas que la citada norma indica.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
