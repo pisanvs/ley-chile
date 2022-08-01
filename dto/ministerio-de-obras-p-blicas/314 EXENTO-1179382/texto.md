@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 314, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1, 2, 3 y 4, para la obra: SISTEMA DE AGUA POTABLE RURAL SAN JOSÉ EL CARMEN, que figuran a nombre de CACERES VALDEBENITO GEORGINA ANA, roles de avalúo 201-11, Comuna de CABILDO, REGIÓN DE VALPARAÍSO, superficies 433, 318, 168 y 512 m2. respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y PATRICIA VERÓNICA ZAVALA CONTRERAS, mediante informe de tasación de 13 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $627.850, para el lote N°1, $461.100, para el lote N°2, $243.600, para el lote N°3 y $742.400, para el lote N°4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
