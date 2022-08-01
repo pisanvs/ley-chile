@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°316, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1-E, para la obra: SISTEMA DE AGUA POTABLE RURAL BAJADA DE PIEDRA, que figura a nombre de SOTO BARNERT ANA FLORA DEL CARMEN, rol de avalúo 307-17, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 2.714 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de fecha 06 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $22.516.200.- para el lote N°1-E. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
