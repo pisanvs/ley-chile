@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 320, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS (2018 - 2020), PUENTE EL CHIVO, que figura a nombre de PARRA ROJAS RICHARD ANTHONY, rol de avalúo 1188-47, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficie 586 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, NICOLAS ALEJANDRO ALARCON SANCHEZ y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de 01 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.388.960, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
