@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 484, de 05 de julio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 138, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figura a nombre de BAHAMONDE BAHAMONDE LUISA ERICA, rol de avalúo 1135-6, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficie 1.982 m2. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, CAROLINA CLAUDIA VERDEJO DÍAZ y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 05 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $13.841.200, para el lote N°138. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
