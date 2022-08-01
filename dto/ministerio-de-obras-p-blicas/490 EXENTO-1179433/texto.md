@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 490, de 05 de julio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 87, para la obra: MEJORAMIENTO RUTA 7 SUR, CUESTA EL TRARO-COCHRANE-LAGUNA ESMERALDA, que figura a nombre de VIDAL HERMOSILLA MARIA ANGELICA Y, rol de avalúo 211-3, Comuna de COCHRANE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 5.090 m2. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 16 de febrero de 2019, fijó el monto de la indemnización provisional en la cantidad de $16.596.000, para el lote Nº87. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
