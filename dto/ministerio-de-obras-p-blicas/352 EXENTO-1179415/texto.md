@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°352, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 93, 95 y 97-A, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figuran a nombre de MORENO MUNOZ SERGIO ENRIQUE, MORENO MUNOZ SERGIO ENRIQUE y VERA MELLA LUIS ALFONSO, roles de avalúo 1135-84, 1135-85 y 1138-390, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficies 377, 262 y 357 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, DORY GISELA DONOSO SALGADO y NICOLAS ALEJANDRO ALARCON SANCHEZ, mediante informe de tasación de 09 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $527.800, para el lote N°93, $698.863, para el lote N°95 y $2.454.800, para el lote N°97-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
