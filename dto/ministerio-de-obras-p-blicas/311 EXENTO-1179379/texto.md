@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°311, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 6, para la obra: SISTEMA DE AGUA POTABLE RURAL LAS ROSAS, que figura a nombre de VALENZUELA CONTRERAS SAMUEL EDUARDO, rol de avalúo 101-53, Comuna de CURACAVI, REGION METROPOLITANA DE SANTIAGO, superficie 500 m2. La Comisión de Peritos integrada por los peritos TATIANA GUTIERREZ ORTIZ, PABLO ALEX MANSILLA ARAVENA y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de fecha 18 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.410.000.- para el lote N°6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
