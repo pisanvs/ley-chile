@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.702, de fecha 16 de mayo de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote 6805-23, correspondiente al inmueble ubicado en El Observatorio Nº0936, Nacimiento, Rol de Avalúo 6805-23, comuna de La Pintana, Región Metropolitana, de aparente dominio de Lidia del Carmen Sandoval Salgado, con una superficie aproximada de 86,72 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Villa Nacimiento Primera Etapa - Comuna de La Pintana". La Comisión de Peritos integrada por Solange Lagos Díaz, Arquitecta; Constanza Camila Vásquez Muñoz, Arquitecta; y don Néstor Abello Rodríguez, Ingeniero Civil, mediante informe de fecha 22 de octubre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $85.913.800, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
