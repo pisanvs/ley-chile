@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 868 de 14/07/2022, conforme al artículo 51 Ley 16.391, D.L. 2.186, de 1978 y D.L. 1.305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 7, ubicado en calle Arauco Lote 7, comuna de Valdivia, de 814,5 m2 de superficie de terreno, sin Rol de avalúo, de la comuna de Valdivia, de aparente dominio de Ilustre Municipalidad de Valdivia, para destinarlo al proyecto denominado "Mejoramiento eje vial calles Pinto y Schmidt de Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta Nº1.161, de 24/11/2020, del Serviu Región de Los Ríos, integrada por Isabel Margarita del Carmen Olivares Rosales, María Soledad Núñez Arroyo y Yaschala Yáñez Riffo, fijó el monto de indemnización provisional, según informe de fecha 10/09/2021, esta última que reajustada de acuerdo al 1PC corresponde a $308.190.343.- conforme a lo dispuesto en el artículo 5º del D.L. 2186. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7º del D.L. 2.186 de 1978.
+
+.
