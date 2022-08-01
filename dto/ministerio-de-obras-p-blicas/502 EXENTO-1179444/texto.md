@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 502 de 5 de julio de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 265 para la obra: CONCESIÓN RUTA 66 - CAMINO DE LA FRUTA. SECTOR B. SUBSECTOR: RUTA 66: LAS BRISAS DE SANTO DOMINGO - PLANTA AVICOLA. VISTA HERMOSA, Región de Valparaíso, que figura a nombre de RUIZ TAGLE BURGOS MARIA CATALINA, rol de avalúo 2101-125 de la comuna de Santo Domingo, superficie 5.008,05 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 629 de 20 de diciembre de 2021, integrada por Mufida Viola Abuawad Elías, Fernando José Senerman Mandel y Eduardo Alejandro Silva Aracena, mediante informe de tasación de 10 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $215.699.375 para el lote N° 265. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
