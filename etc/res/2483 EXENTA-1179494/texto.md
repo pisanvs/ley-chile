@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.483, 14 de julio 2022, Serviu Región del Biobío ordenó expropiación total de un inmueble y total de edificación, ubicado en General Novoa N° 1063, Villa Loncopan, Rol de Avalúo N° 307-36, comuna de Concepción, de aparente dominio de Haeger Arriagada César Gustavo, superficie de 192,10 m² de terreno y 130,22 m² de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-40172-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao / General Novoa" comuna de Concepción, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por la arquitecta Carolina Andrea Contreras Tapia, por el arquitecto Brogan Christopher Ulloa Pérez y por el arquitecto Juan Felipe King Domínguez, según informe de fecha 21 de octubre de 2021, fijó monto provisional indemnización más reajuste Art. 5° del DL N° 2.186 de 1978, en $134.620.319.-
+
+Director (S), Serviu Región del Biobío.
