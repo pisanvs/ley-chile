@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 478, de 05 de julio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 226 y 227, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figuran a nombre de MANSILLA ULE CESAR LEOPOLDO y ULE SALDIVIA ABELINA MARIA, roles de avalúo 1137-75 y 1137-39, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficies 306 y 634 m2. respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, CAROLINA CLAUDIA VERDEJO DÍAZ y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 04 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.956.600, para el lote N°226 y $5.170.300, para el lote N°227. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
