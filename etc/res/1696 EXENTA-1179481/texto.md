@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.696, de fecha 16 de mayo de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote 6801-14, correspondiente al inmueble ubicado en Pasaje Río Cochiguas Nº10983, Nacimiento, Rol de Avalúo 6801-14, comuna de La Pintana, Región Metropolitana, de aparente dominio de Verónica del Rosario Pezoa Crisóstomo, con una superficie aproximada de 86,18 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Villa Nacimiento Primera Etapa - Comuna de La Pintana". La Comisión de Peritos integrada por los señores Nicolás Romero Morales, Ingeniero en Ejecución; Roberto Söhrens Camus, Arquitecto; y doña Luisa Aracena Hernández, Constructora Civil, mediante Informe de fecha 22 de octubre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $77.562.614, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
