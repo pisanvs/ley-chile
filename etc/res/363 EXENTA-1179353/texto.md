@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN Nº 2022/PA/05/0363 EXENTA DE FECHA 20 DE JUNIO DE 2022 QUE DESIGNA NUEVO FISCAL; Y RESOLUCIÓN Nº 2022/PA/05/0404 EXENTA DE FECHA 8 DE JULIO DE 2022 QUE APRUEBA PROCESO ADMINISTRATIVO POR CONTRAVENCIÓN A LA NORMATIVA EDUCACIONAL Y APLICA SANCIÓN
+
+La Superintendencia de Educación, por resolución exenta Nº 2022/PA/05/0363, de fecha 20 de junio de 2022, pone término a designación de fiscal en proceso administrativo seguido contra entidad sostenedora Entidad Individual Rayún de Quillota, RUT 65.155.002-5, representada legalmente por doña Alexia Elier Beltrán Cataldo, por presuntas contravenciones a la normativa educacional y designa nuevo fiscal instructor a doña Roxana Olmos Palma, que, mediante resolución exenta Nº 2022/PA/05/0404, de fecha 8 de julio de 2022, se aprueba proceso administrativo por contravención a la normativa educacional y aplica sanción al sostenedor Entidad Individual Rayún de Quillota, RUT Nº 65.155.002-5, disponiendo lo siguiente:
+
+- **1.-** Apruébase, Proceso Administrativo ordenado instruir a través de la resolución exenta Nº 2021/PA/05/0736, de fecha 15/09/2021, de la Encargada Regional de Fiscalización de la Superintendencia de Educación de la Región de Valparaíso, a la entidad sostenedora Entidad Individual Rayún de Quillota, RUT Nº 65.155.002-5 representado legalmente por doña Alexia Elier Beltrán Cataldo.
+
+- **2.-** Aplíquese, a la entidad sostenedora Entidad Individual Rayún de Quillota, RUT Nº 65.155.002-5, por el cargo Nº 1 formulado y no desvirtuado, la sanción de amonestación por escrito.
+
+- **3.-** Téngase presente que según el Art. 73 de la ley Nº 20.529, no se concede un plazo de subsanación puesto que la naturaleza de la infracción constatada no permite que pueda ser corregida. Se debe entender que la presente resolución exenta, contiene la sanción de amonestación para todos los efectos legales, una vez que se encuentre firme y ejecutoriada.
+
+- **4.-** Déjase constancia, que el sostenedor dispone del recurso de reclamación establecido en el artículo 84 de la ley Nº 20.529, el cual deberá deducirse dentro de un plazo de 15 días contados desde la fecha de notificación de la presente resolución, ante la Fiscalía, ubicada en la Dirección Regional de la Superintendencia de Educación de la Región de Valparaíso, cuya dirección corresponde a calle Limache Nº 3405, piso 3º, oficina Nº 38, comuna de Viña del Mar, de lunes a viernes desde las 09:00 horas hasta las 14:00 horas; estando facultado para enviarlo por vía electrónica y en PDF, a las siguientes casillas electrónicas: ofpartes.valparaiso@supereduc.cl, con copia a roxana.olmos@supereduc.cl.-
+
+Sybil Abarca Carvajal, Encargada Unidad Jurídica Regional, Superintendencia de Educación Región de Valparaíso.
