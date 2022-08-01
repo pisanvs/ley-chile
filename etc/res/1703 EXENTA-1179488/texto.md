@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.703, de fecha 16 de mayo de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote 6805-4, correspondiente al inmueble ubicado en Pasaje Río Elqui Nº 0941, Nacimiento, Rol de Avalúo 6805-4, comuna de La Pintana, Región Metropolitana, de aparente dominio de Yolanda del Carmen Candia Bustamante, con una superficie aproximada de 60,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Villa Nacimiento Primera Etapa - Comuna de La Pintana". La Comisión de Peritos integrada por Paulina Jadue Zaror, Arquitecta; Johanna Gil Vizcaíno, Arquitecta; y don Alejandro Palacios González, Arquitecto, mediante Informe de fecha 22 de octubre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $46.369.500, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
