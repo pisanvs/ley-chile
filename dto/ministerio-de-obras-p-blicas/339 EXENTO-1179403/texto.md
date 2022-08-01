@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 339 de 14 de junio de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 4, para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LOS LAGOS (2018 - 2020), PUENTE PULELFU, que figura a nombre de EMPRESA ELECTRICA PULELFU S A, rol de avalúo 2254-10 Comuna de PUYEHUE, REGIÓN DE LOS LAGOS, superficie 849 m2. La comisión de peritos integrada por ANDRES ECHEVERRIA CAMPO, HANDY GHISLAINE CAMPOS SEPULVEDA y VALENTINA ANDREA CHACALTANA SIMS, mediante informe de tasación de 17 de febrero de 2020, fijó los montos de la indemnización provisional en la cantidad de $2.343.440, para el lote N° 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
