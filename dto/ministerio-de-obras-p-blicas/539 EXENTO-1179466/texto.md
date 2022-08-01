@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº539, de 13 de julio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 25, 36 y 38, para la obra: MEJORAMIENTO RUTA S-192 GALVARINO - RUCATRARO, que figura a nombre de REIDEL MARTIN HERIBERTO, FORESTAL ARAUCO S.A. y FORESTAL ARAUCO S.A., roles de avalúo 70-7, 70-42 y 70-42, Comuna de GALVARINO, REGION DE LA ARAUCANÍA, superficies 545, 74 y 118 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 18 de enero de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.176.200 para el lote Nº25, $541.000 para el lote Nº36, y $633.450 para el lote Nº38. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
