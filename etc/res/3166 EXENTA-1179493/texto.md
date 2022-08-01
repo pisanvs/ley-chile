@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.166, de 13 junio 2022, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del Departamento 102 ubicado en Pasaje 21½ Norte Block Nº 1325 del Sector B de la Población Las Américas VIII Etapa, de la comuna de Talca, Rol de Avalúo Nº 1422-14 de la comuna de Talca, expropiación comprende derechos cuotativos en bienes comunes, propietario aparente Cristina Emelinda del Solar Flores. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto, Ingeniero Civil Industrial Álvaro Hernán Vergara Mejías, y arquitecto Claudia Poblete Ramírez, informe tasación de 30 septiembre de 2021, fijó monto provisional indemnización, debidamente reajustado, en $15.785.407.- pagados al contado.-
+
+Nebenka Donoso San Martín, Directora (S) Serviu Región del Maule.
