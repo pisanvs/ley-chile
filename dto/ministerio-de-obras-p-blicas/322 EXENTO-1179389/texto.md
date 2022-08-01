@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº322, de 14 de junio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 14, para la obra: MEJORAMIENTO RUTAS W-160; W-120, SECTOR HUICHA - CAULIN, que figura a nombre de MIRANDA CONTRERAS LEYLA ANDREA, rol de avalúo 1127-319, Comuna de ANCUD, REGIÓN DE LOS LAGOS, superficie 210 m2. La Comisión de Peritos integrada por NICOLAS ALEJANDRO ALARCON SANCHEZ, SONIA CATALINA GALLEGOS BLANCH y HANDY GHISLAINE CAMPOS SEPULVEDA, mediante informe de tasación de 09 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.130.200, para el lote Nº14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
