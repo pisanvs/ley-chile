@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°492, de 05 de julio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.31, 32, 33, 34 y 35, para la obra: MEJORAMIENTO RUTA CURANILAHUE - TRONGOL BAJO, que figuran a nombre de FORESTAL ARAUCO S.A., roles de avalúo 503-57, Comuna de CURANILAHUE, REGION DEL BIOBÍO, superficies 1.720, 1380, 802, 987 y 400 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, mediante informe de tasación de 18 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.552.640 para el lote N°31, $1.016.117 para el lote N°32, $1.297.687 para el lote N°33, $2.005.831 para el lote N°34, y $283.327 para el lote N°35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
