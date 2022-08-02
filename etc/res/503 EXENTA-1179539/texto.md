@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 503 EXENTA, DEL 21 DE JULIO DE 2022
+
+Por resolución exenta N° 503, del 21 de julio del año 2022, del Gobierno Regional de Ñuble.
+
+- **1.-** Que, mediante oficio de fecha 19 de julio del año 2022, presentado por la Sociedad Inmobiliaria y Constructora Vialfi Ltda., solicitando corte de tránsito vehicular en calle El Bosque con Avenida El Agua, pasaje Alcalde Daniel Sbardo, pasaje Alcalde León Palma, pasaje Alcalde Joaquín Campos Menchaca, pasaje Alcalde Tomás Cox Palma y pasaje Joaquín Lavín Pradenas, desde las 08:00 horas del día 19 de julio del año 2022 hasta las 18:30 horas del día 19 de diciembre del año 2022, con la finalidad de realizar la actividad denominada "Trabajos en Vía Pública", comuna de Portezuelo.
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito en la comuna de Portezuelo, de acuerdo a los términos que se indica: calle El Bosque con Avenida El Agua, pasaje Alcalde Daniel Sbardo, pasaje Alcalde León Palma, pasaje Alcalde Joaquín Campos Menchaca, pasaje Alcalde Tomás Cox Palma y pasaje Joaquín Lavín Pradenas, desde las 08:00 horas del día 19 de julio del año 2022 hasta las 18:30 horas del día 19 de diciembre del año 2022.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL Nº 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en calle El Bosque con Avenida El Agua, pasaje Alcalde Daniel Sbardo, pasaje Alcalde León Palma, pasaje Alcalde Joaquín Campos Menchaca, pasaje Alcalde Tomas Cox Palma y pasaje Joaquín Lavín Pradenas, desde las 08:00 horas del día 19 de julio del año 2022 hasta las 18:30 horas del día 19 de diciembre del año 2022, con la finalidad de realizar la actividad denominada "Trabajos en Vía Pública", comuna de Portezuelo.
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
