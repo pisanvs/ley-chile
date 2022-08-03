@@ -202,7 +202,7 @@ Estas disposiciones, con excepción del inciso primero, no serán aplicables a l
 
 La renuncia sólo podrá ser rechazada en los casos previstos en los estatutos o en otras normas aplicables a las cooperativas.
 
-La adopción de alguno de los acuerdos señalados en las letras e), g), h), m) y n) del artículo 23, y la modificación sustancial del objeto social, como por ejemplo aquella que implique la realización de nuevas actividades no relacionadas directa o indirectamente con el objeto original, concederá derecho al socio disidente a retirarse de la cooperativa, la que no podrá rechazar la renuncia en ningún caso.
+La adopción de alguno de los acuerdos señalados en las letras f), h), i), n) y ñ) del artículo 23, y la modificación sustancial del objeto social, como por ejemplo aquella que implique la realización de nuevas actividades no relacionadas directa o indirectamente con el objeto original, concederá derecho al socio disidente a retirarse de la cooperativa, la que no podrá rechazar la renuncia en ningún caso.
 
 Se considerará socio disidente a aquél que en la respectiva junta se hubiere opuesto al acuerdo pertinente o que, no habiendo concurrido a la junta, manifieste su disidencia por escrito a la cooperativa, dentro del plazo de treinta días contado desde la fecha en que se adoptó el acuerdo.
 
@@ -300,7 +300,7 @@ o) La fijación de remuneración, participación o asignaciones en dinero o espe
 
 p) Las demás materias que por ley o por los estatutos correspondan a su conocimiento o a la competencia de las juntas generales de socios y, en general, cualquier materia que sea de interés social.
 
-Requerirán la conformidad de los dos tercios de los socios presentes o representados en la junta general respectiva los acuerdos relativos a las materias de las letras d), e), f), h), i), j), k), l), m), n) y ñ), los que deberán ser tratados sólo en juntas generales especialmente citadas con tal objeto.
+Requerirán la conformidad de los dos tercios de los socios presentes o representados en la junta general respectiva los acuerdos relativos a las materias de las letras e), f), h), i), j), k), l), m), n) y ñ), los que deberán ser tratados sólo en juntas generales especialmente citadas con tal objeto.
 
 Los acuerdos relativos a las demás materias de conocimiento de la junta general se adoptarán por la mayoría simple de los socios presentes o representados en ella.
 
@@ -638,7 +638,7 @@ Los consejeros, gerentes, liquidadores, inspectores de cuentas, integrantes de l
 
 Respecto de aquellas cooperativas que superen las 200.000 unidades de fomento de patrimonio, podrá aplicarse el doble de las multas señaladas precedentemente. Con todo, respecto de las cooperativas que superen las 400.000 unidades de fomento de patrimonio, podrá aplicarse el triple de esas multas.
 
-En el caso de las cooperativas de trabajo, campesinas, de pescadores, de abastecimiento, distribución de agua potable y escolares, cuyo capital aportado por los socios no exceda de 20.000 unidades de fomento, no se cursarán multas, sino que en caso necesario el organismo fiscalizador aplicará lo dispuesto a partir del inciso quinto del presente artículo, aun cuando la infracción no sea reiterada.
+En el caso de las cooperativas de trabajo, campesinas, de pescadores, de abastecimiento, distribución de agua potable y escolares, cuyo capital aportado por los socios no exceda de 20.000 unidades de fomento, no se cursarán multas, sino que en caso necesario el organismo fiscalizador aplicará lo dispuesto a partir del inciso sexto del presente artículo, aun cuando la infracción no sea reiterada.
 
 Para la aplicación y efecto de este artículo, se entenderá por infracción reiterada aquella transgresión que, habiendo dado origen a una multa, siga ejecutándose luego de haberse otorgado un plazo para rectificar la acción u omisión sancionada.
 
@@ -888,7 +888,7 @@ Cada asamblea deberá elegir un consejo, cuya composición y atribuciones se fij
 
 Las cooperativas abiertas de vivienda de carácter nacional podrán contemplar en sus estatutos asambleas regionales, a las cuales deberán asistir los consejeros de programa. Sin perjuicio de las atribuciones que les confieran los estatutos y el reglamento, les corresponderá elegir un consejo regional, cuyos miembros en ejercicio representarán a los socios inscritos en las asambleas de la región respectiva, de acuerdo a lo señalado precedentemente.
 
-En todo caso, la adopción de acuerdos relativos a las materias señaladas en las letras d), e), f), g), h) e i) del artículo 23 deberá efectuarse en junta general de socios, convocada y constituida de acuerdo a las normas generales, en la cual no regirá respecto de los consejeros de asambleas de programas o regionales la limitación establecida en el inciso quinto del artículo 22 relativa al voto por poder.
+En todo caso, la adopción de acuerdos relativos a las materias señaladas en las letras e), f), g), h), i) y j) del artículo 23 deberá efectuarse en junta general de socios, convocada y constituida de acuerdo a las normas generales, en la cual no regirá respecto de los consejeros de asambleas de programas o regionales la limitación establecida en el inciso quinto del artículo 22 relativa al voto por poder.
 
 La enajenación de los bienes raíces destinados, de acuerdo al plano respectivo, a ser usados en común por una Asamblea de Programa, como las áreas de esparcimiento, recreación, reunión o desarrollo cultural de los integrantes del programa habitacional de que se trate, así como la constitución de derechos reales distintos al de dominio, sólo podrá ser efectuada por el Consejo de Administración, con acuerdo de la respectiva Asamblea.
 
