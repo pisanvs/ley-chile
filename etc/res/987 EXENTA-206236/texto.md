@@ -78,9 +78,15 @@ Egreso:
 
 Recinto - Alvares - Sucre - Bohn - Quillota- Av. Marina - Puente Mercado - Av. 1 Norte - Av. Libertad - Av. Benidorm - Subida Alessandri - Camino Internacional - Rotonda Santa Julia - Ruta 60 CH; o bien, Recinto - Alvares - Sucre - Bohn - Quillota - Av. Marina - Puente Mercado - 5 Oriente - Quillota - Calle Uno - Subida Santa Inés - Camino Internacional- Rotonda Santa Julia - Ruta 60 CH.
 
-5º La presente resolución entrará en vigencia a partir del 1 de enero de 2003.
+5° Fíjense al interior de la zona urbana de la comuna de Viña del Mar, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural con origen en la comuna de Casablanca y que ingresan a la comuna de Viña del Mar, por variante Agua Santa:
 
-6º Carabineros de Chile e inspectores fiscales y municipales fiscalizarán el fiel cumplimiento de la presente resolución.
+Ida: Ruta 68 - Ruta 60 - variante Agua Santa - Álvarez - Quinta - Errázuriz - Montaña - Eduardo Grove - Plaza Sucre - Plaza Vergara - Arlegui - Acceso Puente Libertad - Avenida Libertad – Avenida Benidorm.
+
+Regreso: San Antonio - Quillota - 1 Norte - Puente Casino - Von Schroeder - Viana - variante Agua Santa - Ruta 60 - Ruta 68.
+
+6º La presente resolución entrará en vigencia a partir del 1 de enero de 2003.
+
+7º Carabineros de Chile e inspectores fiscales y municipales fiscalizarán el fiel cumplimiento de la presente resolución.
 
 > **Nota.** El N° 2 de la Resolución 1805 Exenta, Transportes, publicada el 27.10.2003, dispuso que esta modificación tendrá vigencia hasta la implementación del Proyecto Definitivo del Par Vial Viana-Alvares, oportunidad en que deberán hacerse las modificaciones necesarias.
 
