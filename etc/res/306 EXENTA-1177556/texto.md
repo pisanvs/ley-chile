@@ -62,8 +62,6 @@ Resolución:
 
 a) Fechas Presentación Proyectos Condominios Emplazados en Suelo de Condición Salina
 
-SEGUNDA SELECCIÓN
-
 b) Fechas Presentación Proyectos Condominios ubicados en la comuna de Iquique que no se encuentren Emplazados en Suelo de Condición Salina
 
 La Seremi deberá publicar un extracto de las resoluciones en el Diario Oficial. En tanto, Serviu, mediante un aviso en al menos un periódico de circulación regional, pondrá en conocimiento de los postulantes el lugar y la fecha en que serán publicadas las nóminas de los proyectos y beneficiarios seleccionados.
