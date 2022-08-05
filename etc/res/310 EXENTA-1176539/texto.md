@@ -70,8 +70,6 @@ Resolución:
 
 .
 
-2º Fase de ingreso de proyectos:
-
 La Seremi recibirá los expedientes para el proceso de certificación, desde la fecha de emisión de la presente resolución hasta el día 5 de junio de 2022 a las 23:59 hrs. El proceso de subsanación de expedientes será entre los días 27 de junio de 2021 al 10 de julio de 2022, a las 23:59 hrs.
 
 3. La condición de condominio objeto de atención del programa, será acreditada por la Seremi Minvu correspondiente, en atención a los requisitos señalados en el artículo 89 del DS Nº 27 (V. y U.), de 2016.
@@ -132,8 +130,6 @@ c. Proyectos de ampliación de viviendas en copropiedad:
 
 18. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes, los cuales fueron designados de acuerdo a lo indicado en el artículo 22 del DS Nº 27 (V. y U.) de 2016:
 
-.
-
 Los cuales se distribuirán en un 60% del monto disponible para la comuna de Rancagua (tramo Nº 1) y un 40% para otras comunas de la región (Tramo Nº 2).
 
 Los cuales se dispondrán de la siguiente manera para las distintas postulaciones:
@@ -145,7 +141,5 @@ De existir saldos luego de la selección, estos quedarán a disposición de nive
 19. Déjese presente que de acuerdo a lo indicado en el resuelvo Nº 5 de la Res. Ex. Nº 588 de fecha 10 de mayo de 2022, individualizada en el visto Nº 14, recae en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar los postulantes, en atención a lo indicado en el artículo Nº 22 del DS Nº 27 (V. y U.), de 2016.
 
 20. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en la resolución exenta Nº 380 (V. y U.), de 2022 y el DS Nº 27 (V. y U.), de 2016.
-
-> **Nota.** El numeral 1° de la Resolución 1086 Exenta, Vivienda, publicada el 09.01.2023, modifica el plazo de "selección de beneficiarios" establecido en el cuadro del resuelvo N° 2 de la presente norma por el señalado en el citado numeral, que corresponde al 31-01-2023.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Óscar Alonso Muñoz Lara, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
