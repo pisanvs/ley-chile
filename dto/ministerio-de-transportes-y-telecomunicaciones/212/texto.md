@@ -246,7 +246,7 @@ Los trazados de los servicios de locomoción colectiva deberán considerar sólo
 
 Los servicios urbanos de locomoción colectiva deberán ofrecer, como mínimo, en el trazado troncal y en cada variante, en días hábiles, las frecuencias que se indican a continuación, medidas en puntos distantes no más de 500 m de cada terminal:
 
--------------------------------------------------------
+-----------------------------------------
 
 NUMERO DE HABITANTES PERIODO PUNTA
 
@@ -256,21 +256,27 @@ y 17:00 a 21:00
 
 FRECUENCIA POR SENTIDO
 
--------------------------------------------------------
+------------------------------------------
 
 Más de 1.000.000 5 vehículos/hora
 
-Entre 1.000.000 y 500.001 4 vehículos/hora
+Entre 1.000.000
 
-Entre 500.000 y 100.001 3 vehículos/hora
+y 500.001 4 vehículos/hora
+
+Entre 500.000
+
+y 100.001 3 vehículos/hora
 
 Menos de 100.001 2 vehículos/hora
 
--------------------------------------------------------
+-------------------------------------------
 
 No obstante lo dispuesto precedentemente, los Secretarios Regionales podrán, atendidas las características de demanda propias de una determinada ciudad o conglomerado de ciudades, aumentar o disminuir, mediante resolución, las frecuencias mínimas antes señaladas, distinguiendo según tipo de vehículo, o establecer que éstas se ofrezcan en un período del día distinto del antes indicado. Asimismo el Ministerio de Transportes y Telecomunicaciones podrá determinar, como parte un proceso de Licitación de Vías, frecuencias mínimas distintas a las antes señaladas, para la totalidad o parte de los servicios a licitar.
 
 De igual modo, tratándose de ciudades de menos de 30.000 habitantes, los Secretarios Regionales podrán disminuir la frecuencia correspondiente al período de punta.
+
+Sin perjuicio de lo anterior, el Secretario Regional podrá disponer, mediante resolución fundada, que, en días de elecciones populares y plebiscitos, se dé cumplimiento a las frecuencias mínimas establecidas para días hábiles y en periodo punta, pudiendo hacer distinción por horarios o períodos.
 
 En período fuera de punta, los servicios no podrán prestar una frecuencia superior al 80% de la frecuencia ofrecida para los períodos punta.
 
@@ -787,6 +793,10 @@ Las normas de los incisos anteriores no regirán cuando el Secretario Regional p
 Los Secretarios Regionales, para los efectos de fiscalización de los servicios rurales, podrán establecer la obligatoriedad de portar en los vehículos, un documento en el que se consigne la hora de llegada y de salida del o los terminales, además de otros datos identificatorios del servicio, lo que podrán hacer diferenciadamente por ciudades y según el tipo de vehículo de que se trate.
 
 El diseño y los datos que contendrá dicho documento serán definidos por el Secretario Regional en la misma resolución que establezca esta obligatoriedad. No obstante, tratándose de taxis colectivos y cuando se establezca para éstos la obligatoriedad del documento a que se refiere el inciso anterior, deberá señalarse en él la hora y el día en que el vehículo se encuentre fuera de servicio.
+
+#### Artículo 54° ter
+
+El Secretario Regional podrá disponer, mediante resolución fundada, que, en días de elecciones populares y plebiscitos, los servicios rurales se presten con la misma oferta que en los horarios del o los días de la semana que cuentan con mayor oferta de servicio; lo anterior, conforme a los datos inscritos en el Registro Nacional, en concordancia a lo establecido en el artículo 8° letra D literal b), del presente reglamento.
 
 #### Artículo 55°
 
