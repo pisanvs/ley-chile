@@ -1,0 +1,45 @@
+MODIFICA CONCESIÓN DE SERVICIO INTERMEDIO DE TELECOMUNICACIONES, QUE ÚNICAMENTE PROVEA INFRAESTRUCTURA FÍSICA PARA TELECOMUNICACIONES, A LA EMPRESA SBA TORRES CHILE SpA
+
+Santiago, 14 de junio de 2022.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 404 exento.
+
+Vistos:
+
+a) El decreto ley N° 1.762 de 1977, que creó la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
+
+b) La ley N° 18.168, General de Telecomunicaciones, en adelante la ley.
+
+c) El decreto supremo N° 103 de 2008, del Ministerio de Transportes y Telecomunicaciones.
+
+d) La resolución N° 7 de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+
+e) El decreto supremo N° 99 de 2012, del Ministerio de Transportes y Telecomunicaciones, que fija el reglamento que establece los requisitos para obtener, instalar, operar y explotar concesiones de servicios intermedios de telecomunicaciones que únicamente provean infraestructura física para telecomunicaciones.
+
+f) La resolución exenta N° 3.774, de 2012, de la Subsecretaría.
+
+g) El decreto supremo N° 151 de 2016, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante ingreso Subtel N° 8.178 de 18.01.2021.
+
+b) Que no se presentaron oposiciones a la publicación en extracto de la solicitud que modifica de la concesión.
+
+Decreto:
+
+Modifícase la concesión de Servicio Intermedio de Telecomunicaciones, que únicamente provea infraestructura física para telecomunicaciones, cuyo titular es la empresa SBA Torres Chile SpA, RUT N° 76.497.518-9, con domicilio en Málaga N° 50, oficina 52, comuna de Las Condes, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
+
+1. Autorízase a la concesionaria para instalar, operar y explotar una (1) torre de telecomunicaciones, destinada a soportar sistemas radiantes, según se indica a continuación:
+
+Para la Región de Coquimbo.
+
+### 2. Los plazos máximos se indican a continuación
+
+3. Apruébase el proyecto técnico base de la solicitud presentado por la concesionaria, conforme a las disposiciones técnico-legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
+
+4. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Juan Carlos Muñoz Abogabir, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Claudio Araya San Martín, Subsecretario de Telecomunicaciones.
