@@ -1,0 +1,33 @@
+REVOCA RESOLUCIÓN Nº 1.017 EXENTA DE 2022, POR RAZONES QUE INDICA
+
+Núm. 31/8/1.191 exenta.- Valparaíso, 22 de julio de 2022.
+
+Vistos:
+
+Lo prescrito en el artículo 111 de la Constitución Política de la República de Chile; en los artículos 23 y 24 letras h) y ñ), de la Ley 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional; lo dispuesto en la Ley 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la ley Nº 19.880, que establece las Bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; la resolución exenta Nº 1.009, de 2020, del Ministerio de Transportes y Telecomunicaciones y sus modificaciones posteriores; el artículo 113 del decreto con fuerza de ley Nº 1 del año 2007 de los Ministerios de Transportes y Telecomunicaciones y de Justicia; el decreto supremo Nº 71 de 2019, del Ministerio del Interior y Seguridad Pública; la ley Nº 21.074, sobre fortalecimiento de la regionalización del país; el oficio Ord. Nº 3390 de fecha 12 de julio de 2022, del Servicio de Vivienda y Urbanización de la Región de Valparaíso; la resolución Nº 7 de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón; el acta de proclamación del Tribunal Calificador de Elecciones, de fecha 31 de mayo de 2021, y la resolución exenta Nº 31/4/616, mediante la cual el Gobernador Regional asume en su calidad de tal.
+
+Considerando:
+
+1. Que, en el marco de las nuevas competencias transferidas a los Gobiernos Regionales, y de acuerdo a lo dispuesto en el decreto Nº 236, de fecha 26 de mayo de 2020, del Ministerio del Interior y Seguridad Pública, y en concordancia con lo dispuesto en el artículo quinto transitorio de la ley Nº 21.074, sobre fortalecimiento de la regionalización del país, se transfirió la facultad de prohibir por causa justificada la circulación de todo tipo de vehículos o de tipos específicos de estos, por determinadas vías públicas, así como la de coordinar la acción de diversas autoridades en materia de tránsito, respecto de la señalada competencia.
+
+2. Que, en dicho contexto, mediante resolución exenta Nº 1.017 de fecha 30 de junio de 2022, el Gobierno Regional de Valparaíso autorizó el cierre y ocupación de calle Portales, entre calles Luis Laulie y Manuel Montt, de la comuna de La Ligua, prohibiendo la circulación de vehículos motorizados en dichos tramos, desde el día 4 de julio de 2022 hasta el día 28 de julio de 2022, señalándose además alternativas de desvío y ordenando la adopción de las medidas necesarias al efecto.
+
+3. Que, la señalada autorización, que fuera solicitada por la empresa Ingeleb SpA, se motivó en razones de urgencia, para la realización de obras de construcción de colector de aguas lluvia, en el contexto del proyecto "LP 02-2022 Infraestructura Sanitaria", comuna de La Ligua.
+
+4. Que, con fecha 13 de julio de 2022, se recepciona el oficio Ord. Nº 3390 de fecha 12 de julio de 2022, de la Directora (S) del Servicio de Vivienda y Urbanización de la Región de Valparaíso, mediante el cual informa que el proyecto de mantención y conservación de redes secundarias de aguas lluvia, adjudicada al contratista Ingeleb SpA, se encuentra con las obras paralizadas por problemas económicos del contratista señalado, razón por la cual solicitan al Gobernador Regional el dejar nula la autorización de cierre y ocupación de calle Diego Portales entre calle Luis Laulie y Manuel Montt de la comuna de La Ligua, otorgada por resolución Nº 1.017 de 30 de junio de 2022, de este Gobierno Regional.
+
+5. Que, frente a la situación planteada, se debe hacer presente, en primer término, que no procede anular o invalidar la resolución en comento, ello por cuanto no se trata de un acto administrativo afecto a vicios de ilegalidad. No obstante ello, de los antecedentes tenidos a la vista, y en especial, de lo informado por el Serviu Región de Valparaíso en su oficio citado, debe entenderse que más allá de que la palabra "anular" que utiliza en su solicitud conlleve la idea de "invalidar", lo que persigue es que a dicha resolución de autorización del Gobierno Regional se la prive de efectos jurídicos, siendo por tanto, obligación de la Administración, en virtud de los principios de celeridad y conclusivo, consagrados en los artículos 7 y 8 de la ley Nº 19.880, así como el principio de coordinación consagrado en el artículo 3 de la ley Nº 18.575, analizar la procedencia de alguna causal de extinción del acto administrativo examinado que permita dar una solución oportuna y eficaz, resultando procedente entonces, para dejar sin efecto la resolución Nº 1.017 de 2022, recurrir a la figura de la revocación administrativa, establecida en el artículo 61 de la ley Nº 19.880. En efecto, la revocación consiste en el retiro de los actos administrativos válidamente emitidos, por razones de mérito, oportunidad o conveniencia, esto es, la remoción voluntaria de un acto administrativo válidamente emitido cuyos efectos son inoportunos o inconvenientes por ser contrarios al interés público o a la buena administración.
+
+Así, la resolución Nº 1.017 de 2022 del Gobierno Regional de Valparaíso, se fundó en motivos de urgencia para la ejecución de obras de construcción, las que en la actualidad, por las razones que ha expresado el Serviu de Valparaíso, se encuentran paralizadas, por lo cual, la resolución se ha visto afectada por un cambio en los presupuestos de hecho, lo que posibilita que la misma sea revocada, dictándose la resolución de contrario imperio que se funde en los nuevos antecedentes que ahora presenta el organismo público referido.
+
+Resuelvo:
+
+I. Revóquese, y, por tanto, déjese sin efecto, la resolución Nº 1.017 de fecha 30 de junio de 2022, del Gobierno Regional de Valparaíso, que autorizó el cierre y ocupación de calle Portales, entre calles Luis Laulie y Manuel Montt, de la comuna de La Ligua, y que prohibió la circulación de vehículos motorizados en dichos tramos, desde el día 4 de julio de 2022 hasta el día 28 de julio de 2022.
+
+II. Adóptense, por parte del responsable, todas las medidas necesarias que permitan restituir el libre tránsito y circulación por las arterias indicadas.
+
+III. Fiscalización. El cumplimiento de la presente resolución podrá ser fiscalizada por Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones.
+
+### IV. Publíquese la presente resolución en el Diario Oficial
+
+Anótese, comuníquese, publíquese y archívese.- Rodrigo Mundaca Cabrera, Gobernador Regional, Gobierno Regional de Valparaíso.
