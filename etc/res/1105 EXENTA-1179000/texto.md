@@ -14,7 +14,7 @@ Considerando:
 
 Resuelvo:
 
-1° Autorícese permiso para el cierre y ocupación de calle Gabriela Mistral entre calle Mariana Osorio y Pasaje Libertad; Pasaje Los Perales entre Pasaje El Sauce y Camino Circunvalación; calle Serrano con calle Riquelme, de la comuna de Olmué, y se prohíbe circulación de vehículos motorizados en dichos tramos, desde el día 15 de julio de 2022, hasta el día 20 de mayo de 2033, entre las 8:00 hrs. hasta las 18:00 hrs.
+1° Autorícese permiso para el cierre y ocupación de calle Gabriela Mistral entre calle Mariana Osorio y Pasaje Libertad; Pasaje Los Perales entre Pasaje El Sauce y Camino Circunvalación; calle Serrano con calle Riquelme, de la comuna de Olmué, y se prohíbe circulación de vehículos motorizados en dichos tramos, desde el día 15 de julio de 2022, hasta el día 30 de mayo de 2023, entre las 8:00 hrs. hasta las 18:00 hrs.
 
 2° Desvíos. El flujo vehicular, que en su trayecto tenga como vía de circulación las señaladas en el Resuelvo N° 1, deberán adoptar los siguientes desvíos de tránsito:
 
