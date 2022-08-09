@@ -1,0 +1,31 @@
+APRUEBA PROGRAMA DE EXPROPIACIONES DE INMUEBLES PARA LA EJECUCIÓN DEL PROYECTO "MEJORAMIENTO AV. GABRIELA MISTRAL, ENTRE AV. ANDES Y PABLO NERUDA, TEMUCO", COMUNA DE TEMUCO, REGIÓN DE LA ARAUCANÍA
+
+Santiago, 3 de agosto de 2022.- Hoy se decretó lo que sigue:
+
+Núm. 31 exento.
+
+Vistos:
+
+Lo dispuesto en el artículo 51 de la ley Nº 16.391, que crea el Ministerio de la Vivienda y Urbanismo; lo señalado en la primera parte del numeral 1.9 del acápite I Ministerio de Vivienda y Urbanismo, del artículo 1º del DS Nº 153 (V. y U.), de 1983, que redistribuye firma de materias que indica; la resolución exenta Nº 14.464 de fecha 21 de diciembre de 2017, que establece criterios y procedimientos para la adquisición, administración y enajenación de inmuebles de propiedad de Serviu; la resolución Nº 7, de 2019, de la Contraloría General de la República, y
+
+Considerando:
+
+a) Que el Director (S) del Servicio de Vivienda y Urbanización de la Región de la Araucanía, a través del oficio Ord. Nº 1089 de fecha 6 de abril de 2022, solicitó al Ministro de Vivienda y Urbanismo la aprobación del programa de expropiaciones de inmuebles destinados a la ejecución del proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", de la comuna de Temuco, Región de la Araucanía, Código B.I.P. 40027574-0, el cual contempla la expropiación total de 5 lotes, correspondientes a los Roles de Avalúo Fiscal Nº 2834-8 (Lote 2), Nº 2834-3 (Lote 3), Nº 2834-2 (Lote 4), Nº 2834-1 (Lote 5), y Nº 4035-2 (Lote 6), y la expropiación parcial de 3 lotes, correspondientes a los Roles de Avalúo Fiscal Nº 4011-24 (Lote 1), Nº 2835-12 (Lote la) y Nº 2508-19 (Lote 7), ubicados respectivamente en Islas Canarias 941, Av. Inés de Suárez 940, Av. Inés de Suárez 930, Av. Inés de Suárez 920, Av. Gabriela Mistral LT-D-1B, Av. Gabriela Mistral 02621, Tenerife 02330, y Gabriela Mistral 01670, considerándose para tal efecto una superficie total aproximada a expropiar de 6.648,68 m2 de suelo y de 1.671,18 m2 de edificación, con la finalidad de mejorar las condiciones de conectividad del sector Nor-Poniente de la ciudad de Temuco, en atención a la falta de conectividad de vías estructurantes y el importante incremento de la demanda, producto de la expansión urbana y crecimiento de la población del sector poniente, razón por la cual, la consolidación de dicha arteria permitirá la distribución de flujos a otras vías estructurantes (Pablo Neruda, San Martín, Av. Alemania, Inglaterra, Luis Durand, Pedro de Valdivia) en sentido Norte Poniente de la ciudad y en sentido Norte Sur (J. Carrera y Andes), disminuyendo principalmente los tiempos de traslado, adjuntándose para tal efecto: Informe Técnico Nº 5650/2022 del Servicio de Vivienda y Urbanización de la Región de la Araucanía, que singulariza los inmuebles a expropiar; los Informes Técnicos del Departamento de Desarrollo Urbano e Infraestructura de la Seremi de V. y U. de la Región de la Araucanía, Nº 35 (Rol: 4011-24), Nº 36 (Rol: 2835-12), Nº 37/2022 (Rol: 2834-8), Nº 38 (Rol: 2834-3), Nº 39 (Rol: 2834-2), Nº 40 (Ro1: 2834-1), Nº 41 (Ro1: 4035-2) y Nº 42 (Rol: 2508-19), todos de fecha 29 de marzo de 2022; Plano de Ubicación EXP-S2- /05 Proyecto de Expropiaciones Sector 2 Gabriela Mistral; Planos de Expropiaciones Lote 01, Lote 01a, Lote 02, Lote 03, Lote 04, Lote 05, Lote 06 y Lote 07, todos de marzo de 2019; Ficha IDI del proyecto Código B.I.P. 40027574-0; certificados de avalúo fiscal; y copias de inscripción en el Conservador de Bienes Raíces de Temuco, de cada uno de los inmuebles a expropiar.
+
+b) Que según dan cuenta los Informes Técnicos del Departamento de Desarrollo Urbano e Infraestructura de la Seremi de V. y U. de la Región de la Araucanía, Nº 35 (Rol: 4011-24), Nº 36 (Rol: 2835-12), Nº 37/2022 (Rol: 2834-8), Nº 38 (Ro1: 2834-3), Nº 39 (Ro1: 2834-2), Nº 40 (Rol: 2834-1), Nº 41 (Rol: 4035-2) y Nº 42 (Rol: 2508-19), todos de fecha 29 de marzo de 2022, se informó favorablemente la solicitud del Servicio de Vivienda y Urbanización de la Región de la Araucanía, formulada mediante el oficio Nº 885 de fecha 24 de marzo de 2022, mediante el cual se solicitó el informe técnico requerido conforme a lo dispuesto en el resuelvo 4.2 de resolución exenta Nº 14.464 (V. y U.), de 2017, y sus modificaciones.
+
+c) Que conforme al oficio Ord. Nº 1144, de fecha 1 de julio de 2022, del Jefe de la División Técnica de Estudio y Fomento Habitacional, se solicita la aprobación del programa de expropiación requerido para la ejecución del proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", de la comuna de Temuco, Región de la Araucanía, Código B.I.P. 40027574-0, solicitado por el Servicio de Vivienda y Urbanización de la Región de la Araucanía, mediante el oficio citado en el considerando a) precedente; razón por la que dicto el siguiente
+
+Decreto:
+
+1º.- Apruébase el programa de expropiaciones de terrenos destinados al proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", de la comuna de Temuco, Región de la Araucanía, Código B.I.P. 40027574-0, según dan cuenta los Planos de Expropiaciones Lote 01, Lote 01a, Lote 02, Lote 03, Lote 04, Lote 05, Lote 06 y Lote 07, elaborados por el Servicio de Vivienda y Urbanización de la Región de la Araucanía, referidos a los inmuebles que se singularizan a continuación:
+
+Superficie total aproximada a expropiar: 6.648,68 metros cuadrados.
+
+2º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Cautín, si lo hubiere.
+
+> **Nota.** Los numerales 1° y 2° del Decreto 73 Exento, Vivienda, publicado el 13.12.2022, modifica la tabla inserta en el resuelvo 1° de la presente norma en el sentido de incrementar la superficie afecta a expropiar del lote 6, Rol S.I.I. 4035-2, propietario aparente "Inmobiliaria de Supermercados S.A." de "3.265,6 m2" a "5.489,28 m2", como asimismo la superficie total aproximada a expropiar señalada en el párrafo final del mismo resuelvo, de "6.648,68 m2" a "8.872,36 m2".
+
+Anótese y publíquese.- Por orden del Presidente de la República, Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Tatiana Valeska Rojas Leiva, Subsecretaria de Vivienda y Urbanismo.
