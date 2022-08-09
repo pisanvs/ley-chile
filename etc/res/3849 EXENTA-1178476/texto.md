@@ -60,7 +60,7 @@ Resuelvo:
 
 11. Se prohíbe la movilización de adultos y estados inmaduros viables de la plaga hacia el área en peligro, sin la autorización previa del SAG mediante resolución exenta. Se exceptúan de esta medida las muestras para diagnósticos y estudios biológicos que realiza el SAG, las que se deberán movilizar bajo medidas de bioseguridad establecidas por el mismo Servicio.
 
-12. Deléguese en la jefatura de la División de Protección Agrícola-Forestal y Semillas la atribución de dictar por resolución exenta la autorización para la movilización de adultos y estados inmaduros viables de la plaga hacia el área en peligro, a que se refiere el resuelvo número diez (10).
+12. Deléguese en la jefatura de la División de Protección Agrícola-Forestal y Semillas la atribución de dictar por resolución exenta la autorización para la movilización de adultos y estados inmaduros viables de la plaga hacia el área en peligro, a que se refiere el resuelvo número once (11).
 
 13. La fiscalización de cualquiera de las medidas determinadas por el SAG será efectuada por éste, estando expresamente prohibida la ejecución de estas medidas de un modo distinto a lo establecido por el Servicio.
 
