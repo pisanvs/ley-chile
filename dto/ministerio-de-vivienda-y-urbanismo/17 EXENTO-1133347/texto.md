@@ -12,7 +12,7 @@ Decreto:
 
 1°.- Apruébase el siguiente programa de expropiación para el año 2019, en la Región del Biobío, para la adquisición de los siguientes lotes ubicados en la comuna de Concepción, a ser destinados a la ejecución del proyecto "Mejoramiento Par Vial Collao-General Novoa", y que se singularizan a continuación:
 
-Superficie aproximada inmuebles a expropiar: 36.904,224 m².
+Superficie aproximada inmuebles a expropiar: 37.804,734 metros cuadrados.
 
 2°.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Concepción si lo hubiere.
 
@@ -21,6 +21,8 @@ Superficie aproximada inmuebles a expropiar: 36.904,224 m².
 > **Nota.** NOTA 1 El numeral 1° del Decreto 5 Exento, Vivienda, publicado el 24.05.2021, complementa la presente norma en el sentido de incorporar a dicho programa el siguiente inmueble: Rol 320-23; Presunto Propietario SII 2021 Herrera Santibañez Yolanda Graciela; Dirección SII Collao 1625; Comuna Concepción; Superficie a Expropiar (m²) 117.61 m².
 
 > **Nota.** NOTA 2 El numeral 1 del Decreto 55 Exento, Vivienda, publicado el 19.10.2021, complementa la presente norma en el sentido de incorporar a dicho programa 56 inmuebles que la citada norma indica. La superficie aproximada a expropiar es de 1.974.64 metros cuadrados
+
+> **Nota.** NOTA 3 El numeral 1 del Decreto 29 Exento, Vivienda, publicado el 09.08.2022, complementa la presente norma en el sentido de incorporar a dicho programa los siguientes inmuebles:- Nº Lote 228; Rol 320-37; Presunto Propietario Horacio Insunza Valenzuela; Dirección SII Avda. Ignacio Collao 1091 Caupolicán II; Comuna Concepción; Superficie a Expropiar (m²) 42,80- Nº Lote 229; Rol 320-432; Presunto Propietario Fundación Guillermo Barberis Massa; Dirección SII Isabel Riquelme Nº 1320 LT 1, Valle del Andaluen; Comuna Concepción; Superficie a Expropiar (m²) 91,81
 
 Anótese, notifíquese y publíquese.- Por orden del Presidente de la República, Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
