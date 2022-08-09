@@ -614,14 +614,6 @@ Cada postulante deberá seleccionar, en estricto orden de preferencia, hasta 20 
 
 Si con posterioridad al período de postulación y antes del primer período de matrícula, un estudiante se ve afectado por situaciones de fuerza mayor, este podrá presentar una solicitud de Matrícula por Excepción, mediante la cual podrá modificar su postulación.
 
-Las universidades podrán fijar restricciones de postulación de dos tipos, las que aplicarán a todos sus programas:
-
-1. Máximo de postulaciones: la Universidad podrá establecer un número máximo de postulaciones a programas de su institución, lo que implicará que toda postulación que signifique excederse de dicho número máximo será considerada inválida.
-
-2. Exclusión por preferencia: la universidad podrá condicionar la validez de una postulación a la ubicación que dicha postulación tenga en el listado de preferencias de un postulante. Lo anterior implicará que toda postulación que se ubique después del límite fijado por dicha universidad no será considerada.
-
-Esta información deberá ser indicada en los requisitos de postulación que publique la respectiva institución.
-
 4.1.6.- Proceso de Selección
 
 Por factores de selección se entiende, el conjunto de instrumentos de acceso que se consideran para efectos del cálculo del puntaje ponderado de cada postulante para las carreras de su preferencia.
