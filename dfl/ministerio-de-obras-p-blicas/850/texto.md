@@ -518,6 +518,8 @@ b) Son caminos regionales: el resto de los caminos públicos.
 
 Sin perjuicio de esta clasificación el Presidente de la República podrá declarar qué caminos tienen el carácter de internacionales.
 
+Tanto un camino nacional como uno regional podrá ser declarado camino o ruta de belleza escénica, entendiéndose por tal, aquella vía de comunicación terrestre, o tramos de la misma, emplazada en una zona de alto valor paisajístico o turístico y que requiere un tratamiento diferenciado, sea de diseño, mantención, operación o señalización, destinado a preservar y proteger esas cualidades.
+
 #### Artículo 26º
 
 Todo camino que esté o hubiere estado en uso público se presumirá público en todo el ancho que tenga o haya tenido y la Dirección de Vialidad ordenará y hará cumplir su reapertura o ensanche, en caso de haber sido cerrado o modificado, cualquiera que sea el tiempo durante el cual el camino haya permanecido total o parcialmente sustraído al uso público.
@@ -630,13 +632,13 @@ Para construir el cauce correspondiente se oirá al propietario del predio a qui
 
 #### Artículo 38º
 
-Queda prohibida la colocación de carteles, avisos de propaganda o cualquiera otra forma de anuncios comerciales en los caminos públicos del país.
+Se prohíbe la instalación de elementos publicitarios en la faja vial de los caminos públicos.
 
-La colocación de avisos en las fajas adyacentes a los caminos deberá ser autorizada por el Director de Vialidad, en conformidad al Reglamento.
+La instalación de elementos publicitarios que puedan ser vistos desde los caminos públicos deberá ser autorizada por el Director Regional de Vialidad, en conformidad a la normativa aplicable y obteniendo el correspondiente permiso de instalación de elemento publicitario por parte de la Dirección de Obras Municipales respectiva.
 
-Toda infracción a las disposiciones del inciso precedente será sancionada por la Dirección de Vialidad en conformidad al Párrafo VI del presente Título, sin perjuicio de que la Dirección proceda al retiro inmediato de los mencionados carteles y avisos.
+Las Señales de Servicio, de Atractivo Turístico y de Monumentos Nacionales se regirán por el Manual de Señalización de Tránsito.
 
-> **Nota.** NOTA: 2 Por Sentencia del Tribunal Constitucional, publicada el 06.05.1992, se declaró la Inconstitucionalidad del DTO 357, Obras Públicas, D.O. 19.02.1992, que derogaba al DTO 1319, Obras Públicas, publicado el 25.10.1977.
+Toda infracción a las disposiciones de los incisos precedentes será sancionada por el organismo competente respectivo, señalado en la Ley sobre Publicidad Visible desde Caminos, Vías o Espacios Públicos, en conformidad a la ley y a los reglamentos dictados al efecto, sin perjuicio de que la Dirección Regional de Vialidad proceda al retiro inmediato de los mencionados elementos publicitarios.
 
 #### Artículo 39º
 
