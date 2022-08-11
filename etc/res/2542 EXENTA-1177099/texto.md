@@ -32,7 +32,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Determínase para el año 2023 los siguientes alumnos en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la subvención escolar preferencial, de acuerdo a lo dispuesto en el artículo 2° de la ley N° 20.248 y que se encuentran individualizados en el listado contenido en el archivo con el nombre "Rex Alumnos Prioritarios 2023-20-05-2022" del CD folio N° 01/2023 SEP - Alumnos Prioritarios 2023, con firma electrónica avanzada de la Coordinadora Nacional de Tecnología del Ministerio de Educación, que se acompaña en el anexo, y que forma parte integrante de la presente resolución.
+Determínase para el año 2023, los siguientes alumnos en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la Subvención Escolar Preferencial, de acuerdo con lo dispuesto en el artículo 2º de la ley Nº 20.248, y que se encuentran individualizados en los listados contenidos en el archivo con el nombre "Rex Alumnos Prioritarios 2023-20-05-22", del CD folio Nº "01/2023-SEP - Alumnos Prioritarios 2023" y en el archivo con el nombre "Nº 03-2022 Acoge Apelaciones Prioritarios 2023", del CD folio Nº "03/2022", ambos con firma electrónica avanzada de la Coordinadora Nacional de Tecnología de la División de Planificación y Presupuesto, que se acompañan en el anexo y que forman parte integrante de la presente resolución.
 
 #### Artículo 2°
 
