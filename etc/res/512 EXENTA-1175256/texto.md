@@ -42,33 +42,45 @@ Resolución:
 
 3. Mediante resolución de la Seremi de Vivienda y Urbanismo de la Región del Libertador General Bernardo O'Higgins, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias beneficiadas del llamado especial al que se refiere la presente resolución, la que deberá ser informada a la División de Política Habitacional de este Ministerio. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-4. Para postular al llamado a que se refiere esta resolución exenta, los postulantes deberán cumplir los siguientes requisitos adicionales a los dispuestos en el artículo 16, sin perjuicio de las exenciones que más adelante se indican:
+4. Para postular al llamado a que se refiere esta resolución exenta, los postulantes deberán cumplir con los siguientes requisitos adicionales a los dispuestos en el artículo 16 del DS N° 52 (V. y U.), de 2013, sin perjuicio de las exenciones que más adelante se indican:
 
-4.1. Contar con Certificado de Residencia en el Conjunto Habitacional Baltazar Castro o, en su defecto, con un contrato de arriendo en una vivienda ubicada en dicho conjunto.
+4.1. Acreditar residencia y su calidad de arrendatario dentro del polígono de intervención próximo a desocupar del Programa Regeneración de Conjuntos Habitacionales, en uno de los departamentos que se encuentran ubicados en Avenida El Sol Blocks N°s. 1235-1237-1241-1245-1249-1253-1257-1259-1269 y 1263, del Conjunto Habitacional Baltazar Castro de la comuna de Rancagua, para dicho efecto deberán presentar:
 
-4.2. Presentar certificados actualizados de no tener deuda de servicios básicos (Agua, Electricidad y Basura) o, en su defecto, una Declaración Jurada de conformidad firmada por el propietario de la vivienda arrendada en el Conjunto Habitacional Baltazar Castro mediante formato aportado por la Seremi.
+4.1.1. Un certificado de residencia que acredite su domicilio en el Conjunto Habitacional Baltazar Castro, emitido por la junta de vecinos respectiva, lo que se verifica con el timbre de la misma o, en su defecto, un contrato de arrendamiento simple o firmado ante notario, en el que conste que el postulante es arrendatario de un propietario del inmueble.
 
-4.3. Presentar un contrato de arriendo firmado ante notario de la vivienda a la que se trasladará el postulante o, en su defecto, un contrato de arriendo simple, adjuntando una Declaración Jurada de veracidad del contrato firmada por el propietario y arrendador de la vivienda donde se trasladará el postulante.
+4.1.2. Presentar certificados actualizados de no tener deuda de servicios básicos del departamento (Agua, Electricidad y Basura), o, en su defecto, una Declaración Jurada de conformidad debidamente firmada por el propietario del inmueble arrendado en el Conjunto Habitacional Baltazar Castro en formato tipo aportado por la Seremi.
 
-5. Los postulantes al llamado que por esta resolución se autoriza, serán eximidos de cumplir los requisitos y liberados de las condiciones que se indican a continuación, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013:
+5. Los postulantes al llamado que por esta resolución se autoriza, serán eximidos del cumplimiento de las siguientes condiciones y/o requisitos dispuestos en el DS N° 52 (V. y U.), de 2013, en las normas que se indican a continuación:
 
-5.1. De los montos y límites en el valor del subsidio establecidos en el artículo 5º.
+5.1. De la acreditación del ahorro mínimo del artículo 16 letra c.
 
-5.2. De la acreditación del ahorro mínimo del artículo 16 letra c.
+5.2. De contar con Instrumento de Caracterización Socioeconómica del artículo 16 letra d.
 
-5.3. De contar con Instrumento de Caracterización Socioeconómica del artículo 16 letra d.
+5.3. De contar con núcleo familiar del artículo 16 letra e.
 
-5.4. De contar con ingresos familiares acreditables (mínimo y máximo) del artículo 16 letra f.
+5.4. De contar con ingresos familiares acreditables del artículo 16 letra f.
+
+5.5. De ser propietario de una vivienda del artículo 21 letra b.
+
+5.6. De contar con beneficio habitacional anterior del artículo 21 letra d.
+
+5.7. De ser titular o haber sido titular de un subsidio de este programa, dispuesto en el artículo 21 letra e.
+
+5.8. De contar con certificado de subsidio habitacional vigente del artículo 21 letra f.
+
+5.9. De estar postulando a otro programa habitacional del artículo 21 letra g.
 
 6. El llamado autorizado mediante esta resolución, no deberá cumplir la exigencia establecida en la letra b. del artículo 15 del DS Nº 52 (V. y U.), de 2013, relativa a la necesidad de distribuir regionalmente el número de personas que se podrán seleccionar.
 
-7. El monto total que se destinará al financiamiento del llamado que por esta resolución se autoriza, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 11.520 UF, correspondientes a 80 subsidios.
+7. El monto total que se destinará al financiamiento del llamado que por esta resolución se autoriza, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 13.600 UF, correspondientes a 80 subsidios.
 
-8. El valor máximo del subsidio destinado a cada beneficiado será de 144 Unidades de Fomento (UF), el que se descontará mensualmente por un monto de hasta 6 UF.
+8. El valor máximo del subsidio destinado a cada beneficiado será de 170 Unidades de Fomento (UF), el que se descontará mensualmente por un monto de hasta 6 UF.
 
-9. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del llamado a que se refiere esta resolución no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato.
+9. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del llamado a que se refiere esta resolución no podrá superar las 13 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato.
 
-10. Establécese que, en todo aquello que no se encuentre regido por esta resolución, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, y sus modificaciones, que regula el Programa de Subsidio de Arriendo de Vivienda.
+10. Para los efectos de la aplicación del subsidio de arriendo, los beneficiarios del presente llamado deberán acreditar haber efectuado abandono del respectivo inmueble del Conjunto Habitacional Baltazar Castro objeto del Programa de Regeneración de Conjuntos Habitacionales, debiendo el Serviu realizar visitas inspectivas, con el objeto de verificar lo señalado.
+
+11. Establécese que, en todo aquello que no se encuentre regido por esta resolución, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, y sus modificaciones, que regula el Programa de Subsidio de Arriendo de Vivienda.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
