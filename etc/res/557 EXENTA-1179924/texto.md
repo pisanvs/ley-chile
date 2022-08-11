@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 557 EXENTA, DE 5 DE AGOSTO DE 2022
+
+Por resolución exenta N° 557, del 5 de agosto del año 2022, del Gobierno Regional de Ñuble.
+
+- **1.-** Que, mediante solicitud de fecha viernes 5 de agosto del año 2022, presentada por la Municipalidad de Portezuelo, solicitando corte de tránsito vehicular en calle O'Higgins entre las calles Balmaceda y San Martín, calle Balmaceda entre las calles O'Higgins y Catedral, calle Catedral entre las calles Balmaceda y San Martín y calle San Martín entre las calles Catedral y O'Higgins, comuna de Portezuelo, para el día 10 de septiembre del año 2022, desde las 8:00 horas hasta las 23:30 horas, con la finalidad de realizar la actividad denominada "Día Nacional del Vino".
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito en la comuna de Portezuelo, de acuerdo a los términos que se indican: Calle O'Higgins entre las calles Balmaceda y San Martín, calle Balmaceda entre las calles O'Higgins y Catedral, calle Catedral entre las calles Balmaceda y San Martín y calle San Martín entre las calles Catedral y O'Higgins, comuna de Portezuelo, para el día 10 de septiembre del año 2022, desde las 8:00 horas hasta las 23:30 horas.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL N° 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en calle O'Higgins entre las calles Balmaceda y San Martín, calle Balmaceda entre las calles O'Higgins y Catedral, calle Catedral entre las calles Balmaceda y San Martín y calle San Martín entre las calles Catedral y O'Higgins, comuna de Portezuelo, para el día 10 de septiembre del año 2022, desde las 8:00 horas hasta las 23:30 horas, con la finalidad de realizar la actividad denominada "Día Nacional del Vino".
+
+Anótese y publíquese.- Alicia Contreras Vielma, Gobernadora Regional (S), Gobierno Regional de Ñuble.
