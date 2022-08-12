@@ -58,6 +58,6 @@ i) Incorpórese, en el numeral 18, el punto VII, del siguiente tenor:
 
 "VII. Validar elementos asociados a la diferenciación y/o agregación de valor de la propuesta, en relación con otros Fondos, especialmente, aunque no limitado, que participan en los Programas de Financiamiento a Fondos de Inversión de Capital de Riesgo de Corfo".
 
-II. Las presentes modificaciones entrarán en vigencia, a contar de la publicación en el Diario Oficial de la resolución totalmente tramitada, que ejecute el presente Acuerdo.".
+II. La modificación contenida en el literal f), del número I anterior, se exigirá a las Administradoras que postulen por primera vez al Programa, no siéndole aplicable a aquellas que administren, o hayan administrado, al menos un Fondo que actualmente participe o haya participado en alguno de los Programas de capital de riesgo de Corfo. Las demás modificaciones entrarán en vigencia, a contar de la publicación en el Diario Oficial de la resolución totalmente tramitada, que ejecute el presente Acuerdo".
 
 Anótese, comuníquese, tómese razón y publíquese en el Diario Oficial.- José Manuel Garrido Bouzo, Gerente de Inversión y Financiamiento.
