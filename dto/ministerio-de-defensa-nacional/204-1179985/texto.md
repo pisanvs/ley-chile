@@ -1,0 +1,25 @@
+AMPLÍA PLAZO DE VIGENCIA DEL DECRETO Nº 265, DE 2019, DEL MINISTERIO DEFENSA NACIONAL
+
+Núm. 204.- Santiago, 11 de agosto de 2022.
+
+Vistos:
+
+Lo dispuesto en los artículos 24, 32 Nº 6 y Nº 17, 33, 35 y 101 de la Constitución Política de la República de Chile; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto fue refundido, coordinado y sistematizado en el DFL Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia; la ley Nº 19.880 que Establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; en la ley Nº 20.424, Estatuto Orgánico del Ministerio de Defensa Nacional; en el decreto Nº 265, de 2019, del Ministerio de Defensa Nacional, que Autoriza la colaboración y delega en el Ministro de Defensa Nacional las facultades en materia que indica; en los decretos Nº 217 de 2020 y Nº 234 de 2021, ambos del Ministerio de Defensa Nacional, que amplían plazo de vigencia de la delegación contenida en el decreto Nº 265, de 2019, del mismo origen; en el decreto exento Nº 639, de 2019, del Ministerio de Defensa Nacional, que dispone la organización y distribución de medios de las Fuerzas Armadas para la colaboración que indica y nombra el mando militar que asume el control operacional para dicho efecto, y sus posteriores ampliaciones; en la ley Nº 20.502 que Crea el Ministerio del Interior y Seguridad Pública y el Servicio Nacional para la Prevención y de la Rehabilitación del Consumo de Drogas y Alcohol y modifica diversos cuerpos legales; en el DFL Nº 4, de 1967, del Ministerio de Relaciones Exteriores, que Aprueba normas para la coordinación de las actividades de los ministerios y servicios públicos con la Dirección de Fronteras y Límites del Estado; en el decreto Nº 342, de 2004, del Ministerio de Relaciones Exteriores, que Promulga la Convención de las Naciones Unidas contra la delincuencia organizada transnacional y sus protocolos contra el tráfico ilícito de migrantes por tierra, mar y aire y para prevenir, reprimir y sancionar la trata de personas, especialmente mujeres y niños; en el decreto Nº 1.341, de 2018, del Ministerio del Interior y Seguridad Pública, que crea el Consejo Asesor de Coordinación y Unidad de Acción en Materia de Prevención y Control del Crimen Organizado; en el oficio Nº 20.743, de la Contraloría General de la República, del 6 de agosto de 2019, que cursa con alcances el decreto Nº 265, de 2019, del Ministerio de Defensa Nacional, y en la resolución Nº 7, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, el decreto Nº 265, de 9 de julio de 2019, del Ministerio de Defensa Nacional, modificado por el decreto Nº 3, de 12 de enero de 2021, del mismo origen, autorizó la colaboración de las Fuerzas Armadas con las autoridades civiles y policiales competentes para actuar en relación a actividades que se vinculen al tráfico ilícito de migrantes, y al narcotráfico y crimen organizado transnacional en zonas fronterizas del territorio nacional.
+
+2. Que el referido instrumento delegó en el Ministro de Defensa Nacional la facultad para suscribir, por orden del Presidente de la República, los decretos supremos que ordenen la organización y distribución de unidades de las Fuerzas Armadas, que tengan por objeto el despliegue de unidades aéreas, terrestres y marítimas para prestar apoyo logístico, de transporte y tecnológico en zonas fronterizas.
+
+3. Que, la referida delegación de facultades contenida en el decreto Nº 265, fue otorgada por el plazo de un año a contar de la fecha de publicación en el Diario Oficial, esto es, el 13 de agosto de 2019. Dicha delegación fue ampliada por el mismo plazo, mediante el decreto Nº 217, de 7 de julio de 2020, publicado en el Diario Oficial el 14 de agosto de 2020 y, posteriormente, por el decreto Nº 234, de 9 de junio de 2021, publicado el 4 de septiembre de 2021.
+
+4. Que, atendido que en la actualidad se mantienen las circunstancias que motivaron la dictación del referido decreto, resulta necesario ampliar la vigencia de la delegación al Ministro de Defensa Nacional de las facultades referidas en el decreto Nº 265, de 2019, con el fin de continuar la colaboración de las Fuerzas Armadas con las autoridades civiles y policiales competentes para actuar frente a las actividades vinculadas al tráfico ilícito de migrantes, al narcotráfico y crimen organizado transnacional en zonas fronterizas del territorio nacional.
+
+Decreto:
+
+I. Amplíase el plazo de vigencia de la delegación establecida en el artículo segundo del decreto Nº 265, de 2019, el cual se extenderá por un año a contar del vencimiento del período previsto en el decreto Nº 234, de 2021, ambos del Ministerio de Defensa Nacional.
+
+Anótese, tómese razón y publíquese.- GABRIEL BORIC FONT, Presidente de la República.- Maya Fernández Allende, Ministra de Defensa Nacional.- Izkia Siches Pastén, Ministra del Interior y Seguridad Pública.- Antonia Urrejola Noguera, Ministra de Relaciones Exteriores.
+
+Lo que se transcribe para su conocimiento.- Galo Eidelstein Silber, Subsecretario para las Fuerzas Armadas.
