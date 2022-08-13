@@ -30,7 +30,9 @@ a) El Departamento de Gestión y Desarrollo se organizará sobre la base de una 
 
 b) Las funciones de la nueva estructura de Departamento serán las siguientes:
 
-Jefatura de Departamento: Dirige el Departamento de Gestión y Desarrollo, proveyendo de información técnica y relevante para la toma de decisiones del Director/ra del Trabajo. Lidera la generación e implementación de instrumentos de gestión, análisis y mejora continua. Dirige la formulación, seguimiento de compromisos de gestión, generando acciones tendientes al cumplimiento de aquellos. Coordina el desarrollo, seguimiento y control de iniciativas que aporten a la modernización del Servicio. Sin prejuicio de otras funciones que la jefatura Superior del Servicio le encomiende.
+Jefatura de Departamento:
+
+DEROGADO.
 
 Subjefatura del Departamento: Subroga a la Jefatura del Departamento de Gestión y Desarrollo. Debe gestionar las acciones necesarias para el cumplimiento de los objetivos del Departamento. Sus funciones son:
 
@@ -90,13 +92,7 @@ Unidad de Análisis y Gestión de Procesos: Es la Unidad encargada de efectuar l
 
 2. Fíjanse los siguientes objetivos del Departamento de Gestión y Desarrollo:
 
-I. Optimizar los procesos de planificación y control de gestión mediante el diseño e implementación de instrumentos de gestión que contribuyan al logro de las metas institucionales.
-
-II. Ejecutar el proceso de control de gestión de los compromisos de la Institución, entregando a las Autoridades del Servicio información pertinente y confiable para la toma de decisiones.
-
-III. Contribuir a la optimización de los procesos de negocio y apoyo que se desarrollan en la Institución, a través de la ejecución de asesorías técnicas a los diferentes Centros de Responsabilidad, promoviendo el desarrollo de iniciativas de modernización Institucional.
-
-IV. Generar propuestas de mejora en el ámbito de la modernización institucional, que apunten al desarrollo de nuevos proyectos del Servicio, generados a partir de distintas fuentes de información y del trabajo en conjunto con los distintos centros de responsabilidad.
+DEROGADO
 
 3. Déjase sin efecto la resolución exenta Nº 365, de 11 de marzo de 2019, del Director del Trabajo de la época y toda otra instrucción vigente sobre la materia a partir de la publicación de la presente resolución en el Diario Oficial.
 
