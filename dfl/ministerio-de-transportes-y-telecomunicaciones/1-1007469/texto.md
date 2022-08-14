@@ -884,7 +884,21 @@ En los vehículos motorizados de carga no se podrá transportar personas en los 
 
 En ningún caso los vehículos motorizados de tres ruedas destinados al transporte de carga podrán transportar personas en los espacios destinados a carga.
 
-§3. DE LAS MEDIDAS DE SEGURIDAD
+§3. DEL TRANSPORTE DE CONCENTRADOS MINERALES
+
+#### Artículo 67 bis
+
+El transporte de concentrados minerales deberá realizarse siempre por medios herméticos y con los grados de humedad necesarios para evitar su volatilidad.
+
+Se entenderá que el transporte se realiza de la manera antes indicada, cuando se haga por medios estancos a pulverulentos, que impidan el paso de líquidos y sólidos, desde y hacia la carga que se transporta, a fin de evitar cualquier derrame eventual o accidental durante el traslado.
+
+#### Artículo 67 ter
+
+Un reglamento expedido por los ministerios de Transportes y Telecomunicaciones, de Minería y del Medio Ambiente determinará la forma en que se realizará la carga, transporte y descarga de minerales y de concentrados de minerales como también las obligaciones del generador de la carga en tal procedimiento. Lo anterior, con el objetivo de impedir la emisión de partículas al aire libre en el transporte de dichos elementos.
+
+El referido reglamento se deberá dictar dentro del plazo de ciento veinte días desde la fecha de publicación de la presente ley.
+
+§4. DE LAS MEDIDAS DE SEGURIDAD
 
 (ARTS. 68 - 81)
 
@@ -1004,7 +1018,7 @@ Todo conductor de motocicletas, motonetas, bicimotos y su acompañante deberán 
 
 En los vehículos de tracción animal deberán usarse animales adiestrados y con arneses que reúnan condiciones que permitan mantener el control del vehículo y proporcionen seguridad a los ocupantes.
 
-§4. DISTINTIVOS Y COLORES DE CIERTOS VEHÍCULOS
+§5. DISTINTIVOS Y COLORES DE CIERTOS VEHÍCULOS
 
 (ARTS. 82 - 83)
 
@@ -2421,6 +2435,8 @@ n o de frenos en condiciones deficientes;
 42. Usar los servicios de transporte público remunerado de pasajeros sin pagar la tarifa correspondiente, y
 
 43. Infringir lo dispuesto en el artículo 86.
+
+44. Infringir lo dispuesto en los artículos 67 bis y 67 ter, en lo referente al transporte, carga y descarga de minerales y de concentrado de minerales.
 
 En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo
 
