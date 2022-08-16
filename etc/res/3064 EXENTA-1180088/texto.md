@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.064, de fecha 04/08/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble ubicado en calle La Ligua número cero novecientos once, de esta ciudad, Rol de avalúo: 1571-10, comuna de Temuco. La superficie a expropiar aproximada es de 291,90 metros cuadrados, de aparente dominio de la sucesión intestada de David Jonatan Márquez Molina. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $102.920.000 según Informe Nº 13-0A, de fecha 17.07.2022 pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
