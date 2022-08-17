@@ -52,7 +52,7 @@ Además de los sujetos señalados en el Capítulo 3° de este Título, se encont
 
 4. Los alcaldes, concejales y consejeros regionales.
 
-5. Los oficiales generales y oficiales superiores de las Fuerzas Armadas y niveles jerárquicos equivalentes de las Fuerzas de Orden y Seguridad Pública.
+5. Los oficiales generales, los oficiales superiores y el grado superior de los oficiales jefes de las Fuerzas Armadas y niveles jerárquicos equivalentes de las Fuerzas de Orden y Seguridad Pública.
 
 6. Los defensores locales de la Defensoría Penal Pública.
 

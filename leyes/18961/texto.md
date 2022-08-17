@@ -12,7 +12,7 @@ Carabineros de Chile es una Institución policial técnica y de carácter milita
 
 Dependerá directamente del Ministerio del Interior y Seguridad Pública y se vinculará administrativamente con éste a través de la Subsecretaría del Interior.
 
-Carabineros se relacionará con los Ministerios, Intendencias, Gobernaciones y demás autoridades Regionales, Provinciales o Comunales, por intermedio de la Dirección General, Altas Reparticiones, Reparticiones y Unidades, según corresponda.
+Carabineros se relacionará con los demás ministerios por intermedio de la Subsecretaría del Interior, y con las Delegaciones Presidenciales Regionales, Delegaciones Presidenciales Provinciales y demás autoridades Regionales, Provinciales o Comunales, por intermedio de las Altas Reparticiones, Reparticiones y Unidades, según corresponda.
 
 Derivado de las particulares exigencias que imponen la función policial y la carrera profesional, los organismos y el personal que las desarrollan, así como sus institutos de formación profesional, se ajustarán a normas jurisdiccionales, disciplinarias y administrativas que se establecen en esta ley y en la legislación respectiva.
 
@@ -24,11 +24,35 @@ Este personal no podrá pertenecer a Partidos Políticos ni a organizaciones sin
 
 Corresponderá exclusivamente a la Institución y a su personal el uso del emblema, color y diseño de uniformes, grados, símbolos, insignias, condecoraciones y distintivos que le son característicos y que están determinados en el Estatuto del Personal, en las leyes y reglamentos.
 
+#### Artículo 2° bis
+
+Carabineros de Chile, como parte de la Administración del Estado, está al servicio de la comunidad y sus acciones se orientarán a la prevención de delitos, al control y restablecimiento del orden público y a la seguridad pública, así como a otras que le asignen las leyes.
+
+En el ejercicio de sus funciones, el personal de Carabineros de Chile deberá respetar, proteger y garantizar, sin discriminaciones arbitrarias, los derechos humanos y libertades reconocidos por la Constitución Política de la República, las leyes y los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+
+El personal de Carabineros de Chile velará por la integridad de las personas bajo su custodia.
+
+#### Artículo 2º ter
+
+Carabineros de Chile deberá informar al Ministerio del Interior y Seguridad Pública y, por intermedio de éste, a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados, al menos semestralmente, la cantidad de personal de la institución, dando cuenta de su desagregación y cobertura, tanto a nivel regional como comunal.
+
+La información a que se refiere el inciso primero tendrá el carácter de reservada.
+
+#### Artículo 2° quáter
+
+Carabineros de Chile, como institución integrante de las Fuerzas de Orden y Seguridad Pública, se encuentra autorizado para hacer uso de la fuerza, cuando sea estrictamente necesaria y en la proporción o medida requerida para el desempeño de las funciones policiales.
+
+Con todo, siempre en la medida de lo posible, se preferirá la utilización de medios no violentos antes de recurrir al uso de la fuerza.
+
+#### Artículo 2°
+
+quinquies.- Dentro del marco de su disponibilidad presupuestaria y su factibilidad de ejecución, de conformidad a las directrices de los planes a los que se refieren los artículos 3° bis y 3° ter, la Institución deberá dotar a sus funcionarios de los medios materiales para el cumplimiento de sus funciones. Deberán considerarse, entre otros, sistemas de registro audiovisual de los procedimientos policiales y su almacenamiento, y los elementos de protección personal, tales como escudos, cascos, chalecos antibalas y medios disuasivos menos letales, para aquellos casos en que el resguardo del orden público suponga la necesidad de su uso. La falta de estos elementos no obstará a la validez de los procedimientos.
+
+Durante el segundo semestre de cada año Carabineros de Chile deberá informar a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados, por intermedio del Ministerio del Interior y Seguridad Pública, la disponibilidad presupuestaria y su ejecución en la adquisición y renovación de los elementos señalados en el inciso anterior. Asimismo, deberá presentar el plan presupuestario para la adquisición del año siguiente y su cobertura para el personal.
+
 #### Artículo 3°
 
-Carabineros de Chile podrá establecer los servicios policiales que estime necesarios para el cumplimiento de sus finalidades específicas, de acuerdo con la Constitución Política y la legislación respectiva.
-
-En todo caso, y en cumplimiento de la función constitucional de garantizar el orden público y la seguridad pública interior, la distribución del personal y de los medios asociados al establecimiento de servicios policiales deberá ser informada en forma global, al menos semestralmente, al Ministerio del Interior y Seguridad Pública. Un reglamento fijará el alcance de la desagregación de la información relativa a la distribución antes referida.
+Carabineros de Chile establecerá los servicios policiales, según lo señalado en el respectivo Plan Estratégico de Desarrollo Policial y el Plan Anual de Gestión Operativa y Administrativa, para dar cumplimiento estricto a sus finalidades específicas, de acuerdo con la Constitución Política de la República y la legislación respectiva.
 
 Es misión esencial de la Institución desarrollar actividades tendientes a fortalecer su rol de policía preventiva.
 
@@ -44,6 +68,32 @@ Corresponderá a la Institución prestar la cooperación necesaria en cumplimien
 
 Asimismo, la Institución tendrá a su cargo, en la forma que determine la ley, la fiscalización y el control de las personas que desarrollen actividades de vigilancia privada.
 
+#### Artículo 3° bis
+
+Carabineros de Chile deberá elaborar de acuerdo a las directrices emanadas de la Subsecretaría del Interior, un Plan Estratégico de Desarrollo Policial, el cual contemplará un período de ejecución de a lo menos seis años, debiendo ser evaluado y actualizado cada tres años o conforme lo ameriten las circunstancias. Este Plan y sus modificaciones deberán aprobarse por el Ministro del Interior y Seguridad Pública.
+
+El Plan Estratégico de Desarrollo Policial establecerá los objetivos institucionales durante su período de vigencia y deberá definir la distribución de los recursos humanos y logísticos necesarios para lograrlos; los lineamientos de compras e inversiones; los mecanismos para su actualización, y la validación y medición del grado de cumplimiento de su finalidad y sus misiones, señaladas respectivamente en los artículos 1° y 3°.
+
+La definición de la distribución de los recursos humanos y logísticos deberá considerar las prioridades estratégicas establecidas en el Plan y basarse en una metodología de cálculo que se funde en criterios objetivos, que propendan a garantizar la prestación de servicios policiales a toda la población, en materia de prevención y control de la delincuencia.
+
+Una vez concluido el trabajo de elaboración, Carabineros de Chile deberá remitir el proyecto de plan al Ministerio del Interior y Seguridad Pública, el que deberá ser aprobado dentro de los seis meses siguientes a su recepción.
+
+Una vez que el acto administrativo de aprobación del Plan se encuentre totalmente tramitado, el Ministro del Interior y Seguridad Pública deberá remitir copia del mismo a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados. Asimismo, Carabineros de Chile deberá publicarlo en su sitio electrónico institucional, y sus autoridades tendrán la obligación de comunicarlo oportunamente a su personal.
+
+#### Artículo 3° ter
+
+Sin perjuicio de lo dispuesto en el artículo precedente, el General Director deberá elaborar durante el primer trimestre de cada año un Plan Anual de Gestión Operativa y Administrativa que permita ejecutar satisfactoriamente el Plan Estratégico de Desarrollo Policial vigente. Este Plan Anual de Gestión deberá ser sometido a la aprobación del Subsecretario del Interior y deberá identificar las directrices que permitirán hacer operativos los componentes de la política de desarrollo policial, y en especial los compromisos y las metas de gestión para el período correspondiente. Con todo, este plan podrá elaborarse dentro de los seis meses siguientes a la dictación de un nuevo Plan Estratégico de Desarrollo Policial o su modificación.
+
+#### Artículo 3° quáter
+
+El Alto Mando Policial, en conjunto con la Subsecretaría del Interior, tendrá a su cargo la supervisión y evaluación del desarrollo del Plan Estratégico de Desarrollo Policial y del Plan Anual de Gestión Operativa y Administrativa.
+
+En el ejercicio de esta supervisión, el Alto Mando Policial deberá encomendar programas, proyectos y tareas a las jefaturas responsables de ejecutarlos; controlar las acciones y procesos internos emanados del Plan Estratégico de Desarrollo Policial; entregar orientaciones, lineamientos y directrices que aporten a la consolidación del proceso de modernización; y calendarizar el trabajo anual de acuerdo al establecimiento de prioridades y jerarquías.
+
+Carabineros de Chile deberá informar semestralmente los resultados de dicha supervisión y evaluación al Ministerio del Interior y Seguridad Pública. Los informes de supervisión y evaluación deberán ser remitidos, también semestralmente, por dicha Secretaría de Estado a las comisiones de Hacienda de ambas cámaras del Congreso Nacional.
+
+Existirá un sistema de supervisión y evaluación de la gestión policial, cuyos procedimientos y protocolos se ajustarán a parámetros modernos de gestión. Los requisitos, características, metodologías y administración del sistema antes señalado serán determinados por un reglamento, expedido por el Ministerio del Interior y Seguridad Pública.
+
 #### Artículo 4°
 
 Carabineros de Chile prestará a las autoridades judiciales el auxilio de la fuerza pública que éstas soliciten en el ejercicio de sus atribuciones. Además, colaborará con los fiscales del Ministerio Público en la investigación de los delitos cuando así lo dispongan, sin perjuicio de las actuaciones que en virtud de la ley le corresponde realizar sin mediar instrucciones particulares de los fiscales. Deberá cumplir sin más trámite sus órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición de la autorización judicial previa, en su caso.
@@ -53,6 +103,34 @@ Carabineros, asimismo, prestará a las autoridades administrativas el auxilio de
 En situaciones calificadas, Carabineros podrá requerir a la autoridad administrativa la orden por escrito, cuando por la naturaleza de la medida lo estime conveniente para su cabal cumplimiento.
 
 La autoridad administrativa no podrá requerir directamente el auxilio de la fuerza pública, ni Carabineros podrá concederla, respecto de asuntos que esté investigando el Ministerio Público o estén sometidos al conocimiento de los tribunales de justicia y que hayan sido objeto de medidas ordenadas o decretadas por ellos y comunicadas o notificadas, en su caso, a Carabineros.
+
+#### Artículo 4° bis
+
+El General Director, durante el mes de junio de cada año, rendirá cuenta en audiencia pública de los resultados obtenidos de su gestión institucional, en consideración a indicadores objetivos y al cumplimiento de las metas trazadas en el Plan Estratégico de Desarrollo Policial, el Plan Anual de Gestión Operativa y Administrativa y, principalmente, en la Política Nacional de Seguridad Pública Interior.
+
+Asimismo, Carabineros de Chile rendirá cuenta anualmente a nivel regional y comunal, a través de sus respectivas autoridades, lo que deberá realizarse dentro de los tres meses de celebrada la cuenta pública a nivel nacional. En el caso del nivel comunal, se deberán tener igualmente en consideración los objetivos y metas trazadas en los respectivos Planes Comunales de Seguridad, así como el conjunto de acciones y estrategias destinadas a optimizar la gestión policial en materia de prevención del delito.
+
+Los antecedentes que fundan las cuentas públicas deberán estar a disposición de la sociedad civil en el sitio electrónico institucional, con información que permita una adecuada evaluación del ejercicio de sus facultades y cumplimiento de sus objetivos de manera pública y transparente, a nivel nacional, regional y local.
+
+#### Artículo 4° ter
+
+Carabineros de Chile deberá producir y publicar trimestralmente, a través de su sitio electrónico institucional, estadísticas e información institucional territorialmente desagregada, que permitan identificar los aspectos indispensables para evaluar el ejercicio de sus facultades de manera pública y transparente, en la forma y modo que señale el reglamento.
+
+No podrá incluirse dentro de esta información aquella cuyo conocimiento ponga en riesgo la seguridad pública o la integridad personal de los funcionarios policiales o de sus familias.
+
+#### Artículo 4° quáter
+
+Las órdenes generales y toda otra norma general, independientemente de su denominación, dictadas por cualquier integrante del Alto Mando Policial, deberán ser informadas al Ministerio del Interior y Seguridad Pública, en el plazo de quince días corridos desde su dictación.
+
+La Institución tendrá un registro sistematizado de toda su normativa interna, el que deberá estar a disposición de sus autoridades, del Ministerio del Interior y Seguridad Pública, y de la Contraloría General de la República. Dicho registro deberá mantenerse permanentemente actualizado.
+
+#### Artículo 4°
+
+quinquies.- Carabineros de Chile deberá archivar o eliminar, según corresponda, la documentación que posea o esté bajo su control, responsabilidad o competencia, de acuerdo al reglamento que regule esta materia, y que será expedido por el Ministerio del Interior y Seguridad Pública.
+
+Asimismo, propenderá a digitalizar la información que obre en su poder, de conformidad a la ley N° 18.845, que establece sistemas de microcopia o micrograbación de documentos, en lo que resulte aplicable.
+
+La documentación que se encuentre en poder de Carabineros de Chile no podrá ser eliminada cuando forme parte de los antecedentes de una causa judicial y deberá ser conservada, al menos, durante todo el tiempo que ésta dure.
 
 #### Artículo 5°
 
@@ -124,6 +202,10 @@ Oficiales Subalternos
 
 El personal Civil de Nombramiento Supremo e Institucional ocupará plazas de grados equivalentes a las del personal de fila y se agrupará jerárquicamente en sus respectivos escalafones.
 
+Los Oficiales Generales constituirán el Alto Mando de la Institución.
+
+Los Oficiales Superiores podrán recibir la denominación de Coronel Inspector, la cual no será constitutiva de grado jerárquico. Corresponderá al General Director de Carabineros su designación sólo para cargos estratégicos no operativos, y cuando las necesidades institucionales así lo ameriten, tomándose en consideración para su designación el perfil de competencias del Oficial Superior y las obligaciones asociadas al cargo correspondiente.
+
 #### Artículo 7°
 
 La Dirección General podrá contratar en forma temporal, cuando las necesidades del servicio lo requieran e informando semestralmente al Ministerio del Interior y Seguridad Pública, a profesionales, técnicos, administrativos y trabajadores a jornal o a trato, quienes quedarán sometidos a la jerarquía y disciplina de Carabineros de Chile y demás materias que determinen las leyes, en lo que sea pertinente.
@@ -148,7 +230,7 @@ Del Ingreso
 
 #### Artículo 9
 
-Para pertenecer a la Planta de Carabineros se requiere ser chileno, tener salud compatible con el ejercicio del cargo; haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo corresponde; no haber sido condenado ni encontrarse declarado reo por resolución judicial ejecutoriada en proceso por crimen o simple delito y no haber cesado en un cargo público por medida disciplinaria o calificación deficiente.
+Para pertenecer a la Planta de Carabineros se requiere ser chileno, tener salud compatible con el ejercicio del cargo; haber aprobado la educación media y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo corresponde; no haber sido condenado ni encontrarse declarado reo por resolución judicial ejecutoriada en proceso por crimen o simple delito y no haber cesado en un cargo público por medida disciplinaria o calificación deficiente.
 
 La incorporación a la Planta de Carabineros de los Oficiales y del personal de nombramiento institucional sólo podrá hacerse a través de las Escuelas institucionales, con excepción de los oficiales de los escalafones de los servicios.
 
@@ -302,6 +384,16 @@ Corresponde sólo a la autoridad respectiva de Carabineros destinar al personal 
 
 Las comisiones de servicio para desempeñar funciones ajenas al cargo, tanto dentro del territorio nacional como fuera de él, serán dispuestas por decreto supremo, expedido a través del Ministerio del Interior y Seguridad Pública, a proposición del General Director.
 
+#### Artículo 32 bis
+
+El superior a cargo de un procedimiento policial, que conforme a la planificación sea calificado de alta complejidad, deberá poner en conocimiento a sus subalternos respecto de sus riesgos, características y particularidades, con el fin de promover su desarrollo eficaz y el debido resguardo de los derechos de las personas.
+
+La forma de dar cumplimiento a lo prescrito en este artículo será reglamentada por la Institución, con la conformidad del Ministerio del Interior y Seguridad Pública.
+
+#### Artículo 32 ter
+
+Los informes que se levanten durante el proceso de toma de denuncia y en otros procedimientos policiales darán cuenta de las gestiones realizadas por los funcionarios policiales durante aquéllos.
+
 #### Artículo 33
 
 El personal de Carabineros tiene derecho, como retribución por sus servicios, al sueldo asignado al grado de su empleo y demás remuneraciones adicionales, asignaciones, bonificaciones, gratificaciones y estipendios de carácter general o especial que correspondan.
@@ -315,6 +407,12 @@ Además, gozará de los derechos que establezca la ley, tales como el feriado an
 El personal de Carabineros tendrá derecho a asistencia médica y a los beneficios de medicina curativa y preventiva, de conformidad a las normas legales vigentes.
 
 El sistema de salud que asegure el otorgamiento de estas prestaciones se financiará con los recursos que establezcan las leyes y con las cotizaciones del personal.
+
+#### Artículo 33 bis
+
+El personal de Carabineros tendrá derecho a ser defendido y, además, a solicitar, previa autorización del Ministerio del Interior y Seguridad Pública, que la institución persiga la responsabilidad civil y criminal de las personas que atenten contra su vida o su integridad corporal, con motivo del desempeño de sus funciones.
+
+La acción judicial será deducida ante el respectivo tribunal por el jefe superior de la Institución, a solicitud escrita del funcionario, y cuando el afectado fuere dicho jefe superior, la denuncia la hará el Ministro del Interior y Seguridad Pública.
 
 #### Artículo 34
 
@@ -332,9 +430,11 @@ El personal tendrá derecho a años de abono de servicios computables para el re
 
 #### Artículo 36
 
-La potestad disciplinaria será ejercida por las autoridades institucionales competentes a través de un racional y justo procedimiento administrativo.
+Suprimido.
 
-El personal que infrinja sus deberes u obligaciones incurrirá en responsabilidad administrativa conforme lo determine el Reglamento de Disciplina, sin perjuicio de la responsabilidad civil o penal que pueda afectarle.
+#### Artículo 36 bis
+
+Suprimido.
 
 #### Artículo 37
 
@@ -422,6 +522,32 @@ La renuncia al empleo, cuando fuere aceptada por la autoridad respectiva en conf
 
 ## Título III
 
+Probidad Funcionaria
+
+#### Artículo 44 bis
+
+El personal de Carabineros de Chile deberá dar estricto cumplimiento al principio de probidad administrativa, consistente en observar una conducta funcionaria intachable y un desempeño honesto y leal de la función o cargo, con preeminencia del interés general sobre el particular. Su infracción hará incurrir en responsabilidad administrativa y traerá consigo las sanciones que determine el Reglamento de Disciplina y de Sumarios Administrativos.
+
+#### Artículo 44 ter
+
+Carabineros de Chile deberá elaborar e implementar un sistema de auditoría de las declaraciones de patrimonio e intereses que deban realizar quienes se encuentran obligados en virtud del numeral 5 del artículo 4º de la ley Nº 20.880, sobre probidad en la función pública y de prevención de los conflictos de intereses, el que estará a cargo de la Alta Repartición que determine el General Director de Carabineros. El sistema tendrá por objeto detectar variaciones patrimoniales injustificadas y en ningún caso podrá afectar la fiscalización que de acuerdo a la ley corresponda a la Contraloría General de la República.
+
+El sistema de auditoría indicado en el inciso anterior deberá establecer los criterios que se utilizarán en la revisión preventiva de las declaraciones de patrimonio e intereses, y los controles adicionales que deban aplicarse.
+
+En caso de detectarse variaciones patrimoniales injustificadas que puedan revestir el carácter de infracciones administrativas o ser constitutivas de delito, deberán remitirse los antecedentes pertinentes a la autoridad u organismo correspondiente.
+
+#### Artículo 44 quáter
+
+El personal de Carabineros de Chile se encuentra obligado a denunciar ante la autoridad competente los hechos de que tomare conocimiento en el ejercicio de sus funciones y que revistieren el carácter de faltas administrativas, especialmente aquellas que contravengan el principio de probidad administrativa. Lo anterior es sin perjuicio del deber establecido en el artículo 175 del Código Procesal Penal, cuando los hechos sean constitutivos de delito.
+
+#### Artículo 44
+
+quinquies.- Carabineros de Chile elaborará un modelo de control interno para la prevención y control de conductas indebidas, tales como faltas a la probidad funcionaria, infracciones o faltas a los códigos de conducta y reglamentos disciplinarios, el que se radicará en una Alta Repartición y deberá contar con un mecanismo confidencial que permita a los miembros de la propia Institución dar cuenta de este tipo de conductas en forma anónima y garantizar que no sufrirán consecuencias negativas por ello.
+
+El modelo y sus modificaciones posteriores deberán ser aprobados por el Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior.
+
+## Título IV
+
 Antigüedad, Mando y Sucesión de Mando
 
 ### Párrafo 1°
@@ -474,19 +600,19 @@ Son facultades del General Director:
 
 a) Proponer al Presidente de la República, por intermedio del Ministro del Interior y Seguridad Pública, la designación del General Inspector que desempeñará el cargo de General Subdirector de Carabineros.
 
-b) Proponer al Presidente de la República, a través del Ministro del Interior y Seguridad Pública, la disposición, organización y distribución de los medios humanos y materiales, de acuerdo a las funciones que la Constitución Política de la República y las leyes encomienda a Carabineros.
+b) Proponer al Ministro del Interior y Seguridad Pública la disposición, organización y distribución de los medios humanos y materiales, siempre en el marco de lo dispuesto en el respectivo Plan Estratégico de Desarrollo Policial y de acuerdo a las funciones que la Constitución Política de la República y las leyes encomienda a Carabineros.
 
 c) Formular la doctrina que permita la unidad de criterio en el ejercicio del mando.
 
-d) Proponer al Ministro del Interior y Seguridad Pública el Presupuesto Institucional.
+d) Proponer al Ministro del Interior y Seguridad Pública el Presupuesto Institucional anual, en concordancia con lo dispuesto en el respectivo Plan Anual de Gestión Operativa Administrativa y remitiendo información suficientemente desagregada para su debida evaluación.
 
-e) Autorizar el armado, las reparaciones, las transformaciones y las modificaciones del material policial que forme parte o se encuentre afecto al servicio de la Institución, sin perjuicio del cumplimiento de las demás normas legales que pudieren regular estas materias.
+e) Establecer las definiciones estratégicas relativas al material policial que forme parte o se encuentre afecto al servicio de la Institución, sin perjuicio del cumplimiento de las demás normas legales que pudieren regular estas materias.
 
 f) Celebrar en conformidad a la ley los actos, contratos y convenciones para que se adquiera, se dé o tome en uso y se enajenen bienes muebles e inmuebles, que sean necesarios para el funcionamiento de Carabineros, los que se harán por intermedio de la Dirección de Logística; como asimismo contratar los servicios necesarios, incluso sobre la base de honorarios, para el cumplimiento de la correspondiente misión institucional.
 
-g) Aprobar la adquisición, el retiro del servicio, la enajenación de armamento conforme a los criterios técnicos institucionales, sin perjuicio de las disposiciones legales sobre dichas materias.
+g) Aprobar la adquisición, el retiro del servicio, la enajenación y destrucción de armamento conforme a los criterios técnicos institucionales, sin perjuicio de las disposiciones legales sobre dichas materias.
 
-h) Aprobar y disponer el uso y aplicación de todas las publicaciones oficiales internas de su Institución y los textos de estudio de sus planteles.
+h) Aprobar y disponer el uso y aplicación de todas las publicaciones oficiales internas de su Institución.
 
 i) Representar extrajudicialmente a Carabineros de Chile en conformidad a la ley en la celebración de actos, contratos y convenciones de cualquier naturaleza que sean necesarios para el logro de su misión.
 
@@ -498,13 +624,17 @@ l) Proponer al Presidente de la República, a través del Ministro del Interior 
 
 m) Autorizar la salida de los Oficiales al extranjero, por razones de carácter particular en uso de feriados, permisos o licencias de acuerdo al Estatuto del Personal.
 
-n) Proponer al Presidente de la República la Comisión de Servicio al Extranjero del Personal de Planta.
+n) Proponer al Ministro del Interior y Seguridad Pública la Comisión de Servicio al Extranjero del Personal de Planta.
 
-ñ) Disponer la creación de comisiones administrativas destinadas a conservar, mantener adquirir, vender, usar o producir bienes y servicios para las Altas Reparticiones, Reparticiones o Unidades de la Institución.
+ñ) Disponer la creación y supresión de comisiones administrativas destinadas a conservar, mantener adquirir, vender, usar o producir bienes y servicios para las Altas Reparticiones, Reparticiones o Unidades de la Institución.
 
 o) Disponer la inversión de fondos que se destinen por ley a la Institución y de los recursos que se obtengan por enajenaciones y ventas a que se refieren las letras anteriores. Estos últimos recursos constituirán ingresos propios de Carabineros y no ingresarán a rentas generales de la Nación.
 
-p) Todas las demás que otorguen la ley y los reglamentos institucionales.
+p) Dictar, previa aprobación del Ministerio del Interior y Seguridad Pública, los programas y planes de estudio y los perfiles de ingreso y egreso y del cuerpo docente de los planteles de la Institución.
+
+q) Todas las demás que otorguen la ley y los reglamentos institucionales.
+
+Lo dispuesto en este artículo no obstará las autorizaciones que se requieran, cuando procedieren, de parte del Ministro del Interior y Seguridad Pública o del Subsecretario del Interior, especialmente en virtud de lo dispuesto en los literales j) y l) del artículo 3° de la ley N° 20.502.
 
 #### Artículo 53
 
@@ -526,7 +656,7 @@ En caso de ausencia, impedimento o inhabilidad temporal, el General Director ser
 
 El Estatuto del personal contemplará las demás normas sobre mando y sucesión de mando.
 
-## Título IV
+## Título V
 
 Previsión
 
@@ -830,9 +960,71 @@ La Dirección de Bienestar de Carabineros podrá celebrar los convenios que posi
 
 (88).- Los fondos para hospitales de Carabineros y de la Dirección de Previsión de Carabineros se regirán por las normas legales que los crearon.
 
-## Título V
+## Título VI
+
+Responsabilidad Funcionaria
+
+#### Artículo 84 bis
+
+Todo hecho constitutivo de falta administrativa dará origen a una medida disciplinaria de conformidad al Reglamento de Disciplina y de Sumarios Administrativos, sin perjuicio de la responsabilidad civil o penal que pueda afectarle.
+
+La potestad disciplinaria será ejercida por las autoridades ministeriales e institucionales competentes a través de un racional y justo procedimiento administrativo.
+
+Además de las autoridades facultadas para disponer la instrucción de procedimientos sancionatorios, el Subsecretario del Interior podrá, cuando estime que los hechos de que ha tomado conocimiento son susceptibles de ser sancionados con una medida disciplinaria, ordenar al General Director que el superior jerárquico del funcionario respectivo inicie la instrucción del correspondiente procedimiento sancionatorio, pedirle cuenta de su avance, y, en su caso, poner los antecedentes en conocimiento de la justicia.
+
+#### Artículo 84 ter
+
+La responsabilidad administrativa se extingue por la muerte o el retiro del personal, por el cumplimiento de la sanción y por la prescripción de la acción disciplinaria.
+
+Si se encontrare en tramitación un procedimiento disciplinario en el que estuviere involucrado el personal y éste cesare en sus funciones, el procedimiento deberá continuarse hasta su normal término, y se anotará en su hoja de vida la sanción que el mérito del procedimiento disciplinario determine.
+
+Con todo, la acción disciplinaria contra el personal prescribirá en cuatro años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
+
+La prescripción de la acción disciplinaria se interrumpe, perdiéndose el tiempo transcurrido, si el personal incurriere nuevamente en falta administrativa, y se suspende desde la fecha de la resolución que ordene la instrucción del procedimiento disciplinario correspondiente.
+
+Si el proceso administrativo se paraliza por más de dos años o transcurren dos calificaciones funcionarias sin que haya sido sancionado, continuará corriendo el plazo de prescripción como si no se hubiese suspendido.
+
+Con todo, se suspenderá la tramitación del procedimiento disciplinario y el plazo de prescripción de su acción si respecto de los hechos que lo motivaron se formula denuncia o querella por un hecho constitutivo de delito, en los términos que establece la ley, hasta el término de la causa penal.
+
+#### Artículo 84 quáter
+
+A fin de evaluar y controlar la adecuada respuesta de la Institución ante abusos u otros actos arbitrarios de su personal en el ejercicio de sus funciones, Carabineros de Chile contará con un sistema para la interposición, tramitación y resolución de reclamos de parte de la ciudadanía, cuyo funcionamiento estará a cargo de una repartición destinada a dicho efecto. La Subsecretaría del Interior deberá supervisar el funcionamiento de este sistema.
+
+Sin perjuicio de la posibilidad de efectuarse estos reclamos de forma presencial, Carabineros de Chile deberá contar con un mecanismo para su interposición a través de una plataforma electrónica, que permita realizarlos con o sin reserva de la identidad del reclamante o de forma anónima. También se podrá acceder a este mecanismo a través del sitio electrónico del Ministerio del Interior y Seguridad Pública. A través de dicha plataforma, asimismo, el reclamante que hubiere entregado su identidad podrá acceder a la información pertinente para hacer seguimiento de su tramitación y resolución.
+
+Los resultados de los procedimientos disciplinarios que se originaren en virtud de lo dispuesto en el inciso anterior deberán ser comunicados mensualmente al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior.
+
+Carabineros de Chile deberá publicar y actualizar en su sitio electrónico, al menos trimestralmente, información estadística relativa a la tramitación, estado y resolución de los reclamos recibidos a través de este sistema.
+
+Un reglamento del Ministerio del Interior y Seguridad Pública definirá el funcionamiento de este sistema, el contenido mínimo de la denuncia, la forma en que se hará efectiva la reserva de identidad o anonimato del reclamante que así lo requiera, la forma y desagregación de la información estadística, así como las demás normas para su funcionamiento.
+
+#### Artículo 84
+
+quinquies.- En los procedimientos disciplinarios se levantará registro de las diligencias practicadas, debiendo tomar los recaudos necesarios para resguardar la reserva de la identidad de quien lo hubiere solicitado. Podrán incorporarse al expediente documentos u otros medios probatorios que sean pertinentes. Tan pronto se cerrare la investigación, se formularán o desestimarán los cargos.
+
+En caso que se formularen cargos, el inculpado deberá contar con un término para responderlos y, en su caso, para rendir prueba, los que serán determinados por el Reglamento de Disciplina y de Sumarios Administrativos.
+
+Vencido el plazo para los descargos o, en su caso, el término probatorio, el fiscal emitirá un informe que contendrá la relación de los hechos, los fundamentos y conclusiones a que hubiere llegado y formulará a la autoridad correspondiente la proposición que estimare procedente, quien resolverá, debiendo notificarse al inculpado.
+
+Las partes que no se conformaren con el dictamen podrán interponer el recurso jerárquico para ante el superior directo del dictaminador. No conformes con lo resuelto sobre el recurso jerárquico, las partes podrán apelar para ante el superior directo de quien resolvió dicha instancia.
+
+Igualmente, la resolución definitiva que se pronunciare en el procedimiento será informada al denunciante, si se conociere su identidad.
+
+La información sobre los procedimientos disciplinarios que se originaren en virtud de lo dispuesto en este artículo y del anterior deberán ser comunicados al Ministerio del Interior y Seguridad Pública. Particularmente, cuando los procedimientos disciplinarios tuvieren su origen en reclamos de particulares respecto del accionar policial, los resultados serán remitidos al Subsecretario del Interior, dentro de los diez días siguientes a la fecha en que el dictamen se encuentre firme, con una relación de los hechos que fueron objeto de investigación. Si el Subsecretario del Interior lo estimare pertinente, podrá requerir más antecedentes, los que deberán ser remitidos dentro de los cinco días siguientes a la recepción de la solicitud.
+
+En todo lo no previsto en este artículo se estará a lo dispuesto en el Reglamento de Disciplina y de Sumarios Administrativos.
+
+#### Artículo 84
+
+sexies.- Las medidas expulsivas dispuestas o confirmadas por el General Director, según corresponda, podrán ser reclamadas por el afectado ante el Ministerio del Interior y Seguridad Pública. Para ello, se deberá acompañar el sumario administrativo y los antecedentes en que conste la falta y defensa del inculpado, así como la hoja de vida y el informe de calificación respectivo. Igualmente se podrá reclamar respecto de los retiros por inclusión en la lista de eliminación, por resolución firme, debiendo remitirse al efecto todos los antecedentes.
+
+Elevados los antecedentes ante el Ministerio del Interior y Seguridad Pública, el interesado podrá presentar recurso de reconsideración en la forma que establezca el Reglamento de Disciplina y Sumarios Administrativos.
+
+## Título VIII
 
 Del Régimen Presupuestario
+
+> **Nota.** NOTA 1 El numeral 13 del artículo 1° de la ley 21427, publicada el 16.02.2022, intercala a continuación del artículo 84 un Título VI nuevo, pasando el actual Título VI a ser Título VIII. Dado que en el numeral 11 previamente se agregó un nuevo Título III, la citada referencia se entiende hecha al anterior Título V. Se hace presente que tras las modificaciones de los numerales 11 y 13 ningún Título queda enumerado como VII, por lo que la enumeración resultante no es correlativa.
 
 #### Artículo 85
 
@@ -856,15 +1048,37 @@ Con todo, el gasto que demande la ejecución de actividades provenientes de situ
 
 #### Artículo 89
 
-(93).- De los gastos netamente policiales, calificados como tales en la Ley de Presupuestos a proposición del General Director, que se efectúen dentro de su Presupuesto de Gastos, tanto en moneda nacional o extranjera, deberá rendirse cuenta en forma reservada al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, sin perjuicio de las obligaciones de rendición e información existentes en otros cuerpos legales.
-
-Los gastos reservados cuyos montos serán fijados anualmente, no podrán ser inferiores a los decretados inicialmente para tal efecto en el año 1989, actualizados mediante el procedimiento establecido en el artículo 88 de la presente ley. Dichos gastos serán fijados por decreto supremo, expedido por el Ministro del Interior y Seguridad Pública y suscrito, además, por el Ministro de Hacienda y tendrá la sola obligación de rendir cuenta en forma global y reservada, mediante Certificados de Buena Inversión.
+(93).- Del uso y disposición del presupuesto de Carabineros de Chile, del mérito de la administración de los fondos y de su contabilidad, tanto en moneda nacional o extranjera, deberá informarse circunstanciadamente, al menos semestralmente, al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, sin perjuicio de las obligaciones de rendición e información existentes en otros cuerpos legales. Para lo anterior, se tendrá en especial consideración lo dispuesto en las letras b) y j) del artículo 3° y en el artículo 9°, ambos de la ley N° 20.502.
 
 #### Artículo 90
 
 (94).- La información del movimiento financiero y presupuestario que se proporcione a los organismos correspondientes se ajustará a las normas establecidas en la Ley de la Administración Financiera del Estado.
 
 La documentación respectiva será mantenida en la Institución, donde podrá ser revisada por los organismos pertinentes y por la Contraloría General de la República, según corresponda.
+
+#### Artículo 90 bis
+
+Existirá una Alta Repartición encargada de la función de auditoría interna, dependiente directamente del General Director y a cargo de un Oficial General, cuya finalidad será controlar las operaciones financieras y contables, así como proponer los objetivos institucionales de auditoría y otras acciones orientadas al uso eficiente y eficaz de los recursos financieros de la Institución. Asimismo, esta Alta Repartición deberá elaborar un Plan Anual de Auditoría Interna, realizar el seguimiento de los planes de acción elaborados para subsanar las observaciones encontradas e informar sobre el cumplimiento anual de dicho Plan de Auditoría al Comité de Auditoría Policial que establece esta ley. Una vez elaborado dicho plan, deberá ser remitido a la Contraloría General de la República para su conocimiento.
+
+La Alta Repartición indicada en el inciso precedente deberá integrarse preferentemente por profesionales civiles, que posean títulos afines en administración, finanzas, contabilidad o auditoría.
+
+#### Artículo 90 ter
+
+Créase un Comité de Auditoría Policial, integrado por un representante de la Subsecretaría del Interior, un representante del Ministerio de Hacienda, y un Oficial General de Carabineros de Chile. Los representantes recién señalados deberán ser funcionarios públicos o agentes públicos civiles, los que serán de exclusiva confianza de la autoridad que los nombra.
+
+El Comité contratará anualmente un servicio de auditoría externa con la finalidad de evaluar, tanto el cumplimiento de la normativa legal vigente en las operaciones financieras de la Institución, como la eficiente asignación de recursos destinados al ejercicio de la función policial.
+
+Para efectos de lo establecido en el inciso anterior, Carabineros de Chile elaborará una Ficha Estadística Uniforme Policial que contenga la información financiera que será entregada trimestralmente al auditor, y cuya forma y contenido será dispuesta por la Subsecretaría del Interior.
+
+El Comité deberá emitir un informe respecto del cumplimiento de sus funciones, conteniendo recomendaciones y modificaciones que surjan de su supervisión y examen, el que, junto con los resultados de la auditoría externa, deberá remitirse al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, a la Dirección General de Carabineros de Chile, a la Contraloría General de la República y a la Comisión Especial Mixta de Presupuestos del Congreso Nacional.
+
+Un reglamento dictado por el Ministerio del Interior y Seguridad Pública y suscrito además por el Ministro de Hacienda establecerá las funciones del Comité de Auditoría, y la forma en que las mismas serán cumplidas.
+
+#### Artículo 90 quáter
+
+La Contraloría General de la República, en el ejercicio de sus facultades fiscalizadoras, podrá acceder, de forma presencial o remota, a las bases de datos, sistemas informáticos, y cualquier mecanismo para el procesamiento o almacenamiento de información que administre Carabineros de Chile, excluyéndose las que se tengan con finalidades de prevención, investigación y persecución de hechos punibles.
+
+La información secreta o reservada obtenida en virtud de este artículo estará sujeta a lo dispuesto en el inciso cuarto del artículo 9° de la ley N° 10.336, de organización y atribuciones de la Contraloría General de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto N° 2.421, de 1964, del Ministerio de Hacienda.
 
 #### Artículo 91
 

@@ -1476,9 +1476,25 @@ La jornada efectiva de trabajo del personal que ocupe cargos para cuyo desempeñ
 
 En ningún caso esta fijación constituirá impedimento para que dicho personal cumpla las exigencias del servicio, aún cuando ellas exedan de la jornada establecida.
 
+#### Artículo 136 bis
+
+El personal de la Policía de Investigaciones de Chile deberá dar estricto cumplimiento al principio de probidad administrativa, consistente en observar una conducta funcionaria intachable y un desempeño honesto y leal de la función o cargo, con preeminencia del interés general sobre el particular. Su infracción hará incurrir en responsabilidad administrativa y traerá consigo las sanciones que determine el Reglamento de Disciplina y de Sumarios Administrativos.
+
+#### Artículo 136 ter
+
+La Policía de Investigaciones deberá elaborar e implementar un sistema de auditoría de las declaraciones de patrimonio e intereses que deban realizar quienes se encuentran obligados en virtud del numeral 5 del artículo 4º de la ley Nº 20.880, sobre probidad en la función pública y de prevención de los conflictos de intereses, el que estará a cargo de la unidad que determine el Director General de la Institución. El sistema tendrá por objeto detectar variaciones patrimoniales injustificadas y en ningún caso podrá afectar la fiscalización que de acuerdo a la ley corresponda a la Contraloría General de la República.
+
+El sistema de auditoría indicado en el inciso anterior deberá establecer los criterios que se utilizarán en la revisión preventiva de las declaraciones de patrimonio e intereses, y los controles adicionales que deban aplicarse.
+
+En caso de detectarse variaciones patrimoniales injustificadas que puedan revestir el carácter de infracciones administrativas o ser constitutivas de delito, deberán remitirse los antecedentes pertinentes a la autoridad u organismo correspondiente.
+
 #### Artículo 137°
 
 Al personal de Investigaciones le serán aplicables en materias de incompatibilidad las normas del decreto con fuerza de ley N° 338, de 1960, con exepción de los cargos y sueldos de los peritos del Laboratorio de Criminalística que serán compatibles, para todos los efectos legales, con cualquier otro empleo de la Administración Civil del Estado, Fuerzas Armadas o Carabineros.
+
+#### Artículo 137 bis
+
+El personal de la Policía de Investigaciones de Chile se encuentra obligado a denunciar ante la autoridad competente los hechos de que tomare conocimiento en el ejercicio de sus funciones y que revistieren el carácter de faltas administrativas, especialmente aquellas que contravengan el principio de probidad administrativa. Lo anterior es sin perjuicio del deber establecido en el artículo 175 del Código Procesal Penal, cuando los hechos sean constitutivos de delito.
 
 CAPITULO 2°
 
@@ -1487,6 +1503,8 @@ Responsabilidades
 #### Artículo 138°
 
 El personal que infrinja sus obligaciones o deberes funcionarios, incurrirá en responsabilidad administrativa, sin perjuicio de la civil o penal que pueda afectarle.
+
+Además de las autoridades facultadas para disponer la instrucción de procedimientos sancionatorios, el Subsecretario del Interior podrá, cuando estime que los hechos de que ha tomado conocimiento son susceptibles de ser sancionados con una medida disciplinaria, ordenar al Director General que el superior jerárquico del funcionario respectivo inicie la instrucción del correspondiente procedimiento sancionatorio, pedirle cuenta de su avance, y, en su caso, poner los antecedentes en conocimiento de la justicia.
 
 #### Artículo 138 bis
 
@@ -1499,6 +1517,8 @@ Con todo, la acción disciplinaria contra el personal prescribirá en cuatro añ
 La prescripción de la acción disciplinaria se interrumpe, perdiéndose el tiempo transcurrido, si el personal incurriere nuevamente en falta administrativa, y se suspende desde la fecha de la resolución que ordene la instrucción del procedimiento disciplinario correspondiente.
 
 Si el proceso administrativo se paraliza por más de dos años, o transcurren dos calificaciones funcionarias sin que haya sido sancionado, continuará corriendo el plazo de prescripción como si no se hubiese suspendido.
+
+Con todo, se suspenderá la tramitación del procedimiento disciplinario y el plazo de prescripción de su acción si respecto de los hechos que lo motivaron se formula denuncia o querella por un hecho constitutivo de delito, en los términos que establece la ley, hasta el término de la causa penal.
 
 CAPITULO 2°
 
@@ -1541,6 +1561,12 @@ Las sanciones o medidas disciplinarias administrativas aplicadas o que se apliqu
 Las remuneraciones del personal de Investigaciones suspendido en sumario administrativo, quedarán reducidas al ochenta por ciento.
 
 INCISO FINAL DEROGADO.-
+
+#### Artículo 142 bis
+
+Las medidas expulsivas dispuestas o confirmadas por el Director General, según corresponda, podrán ser reclamadas por el afectado ante el Ministerio del Interior y Seguridad Pública. Para ello, se deberá acompañar el sumario administrativo y los antecedentes en que conste la falta y defensa del inculpado, así como la hoja de vida y el informe de calificación respectivo. Igualmente se podrá reclamar respecto de los retiros por inclusión en la lista anual de retiros por resolución firme, debiendo remitirse al efecto todos los antecedentes.
+
+Elevados los antecedentes ante el Ministerio del Interior y Seguridad Pública, se le notificará de aquello al inculpado a la brevedad posible, quien podrá pedirle la reconsideración de la sanción en el término de cinco días desde su notificación.
 
 CAPITULO 3°
 

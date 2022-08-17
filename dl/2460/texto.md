@@ -12,9 +12,23 @@ Organización, misión y funciones específicas
 
 La Policía de Investigaciones de Chile es una Institución Policial de carácter profesional, técnico y científico, integrante de las Fuerzas de Orden, dependiente del Ministerio del Interior y Seguridad Pública, cuyo personal estará sometido a un régimen jerárquico y disciplinario estricto. Se vinculará administrativamente con el referido Ministerio a través de la Subsecretaría del Interior.
 
-En el cumplimiento de sus funciones, la Institución se relacionará con las Secretarías de Estado, por intermedio de la Dirección General.
+En el cumplimiento de sus funciones, la Institución se relacionará con las Secretarías de Estado, por intermedio de la Subsecretaría del Interior.
 
 En lo que respecta a las relaciones con las Delegaciones Presidenciales Regionales, Delegaciones Presidenciales Provinciales, Alcaldías, y otros organismos regionales, provinciales o locales, Investigaciones de Chile se vinculará con ellos mediante las Jefaturas de Zona, Prefecturas, Comisarías y Unidades Menores, según proceda.
+
+#### Artículo 1° bis
+
+La Policía de Investigaciones de Chile, como parte de la Administración del Estado, está al servicio de la comunidad y sus acciones se orientarán a la prevención, control y restablecimiento del orden y la seguridad pública, así como a otras que le asignen las leyes.
+
+En el ejercicio de sus funciones, el personal de la Policía de Investigaciones de Chile deberá respetar, proteger y garantizar, sin discriminaciones arbitrarias, los derechos humanos y libertades reconocidos por la Constitución Política de la República, las leyes y los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+
+El personal de la Policía de Investigaciones de Chile velará por la integridad de las personas bajo su custodia.
+
+#### Artículo 1° ter
+
+La Policía de Investigaciones de Chile, como institución integrante de las Fuerzas de Orden y Seguridad Pública, se encuentra autorizada para hacer uso de la fuerza, cuando sea estrictamente necesaria y en la proporción o medida requerida para el desempeño de las funciones policiales.
+
+Con todo, siempre en la medida de lo posible, se preferirá la utilización de medios no violentos antes de recurrir al uso de la fuerza.
 
 #### Artículo 2°
 
@@ -30,6 +44,8 @@ En el Centro de Capacitación Profesional se efectuarán los cursos de especiali
 
 En el Instituto Superior de Investigaciones se realizarán los cursos de perfeccionamiento de los Oficiales, y los de formación de los jefes de la Institución.
 
+Para el ingreso a los planteles señalados en este artículo será requisito haber aprobado la enseñanza media.
+
 #### Artículo 3º bis
 
 La dotación máxima de ingreso de los alumnos al primer año de formación en la Escuela de Investigaciones se determinará, a más tardar, el mes de junio de cada año, con vigencia al año siguiente, por decreto supremo del Ministerio del Interior y Seguridad Pública, expedido por medio de la Subsecretaría del Interior, el que deberá contar con la firma del Ministro de Hacienda.
@@ -42,11 +58,71 @@ La misión fundamental de la Policía de Investigaciones de Chile es investigar 
 
 Corresponde en especial a Policía de Investigaciones de Chile contribuir al mantenimiento de la tranquilidad pública; prevenir la perpetración de hechos delictuosos y de actos atentatorios contra la estabilidad de los organismos fundamentales del Estado; dar cumplimiento a las órdenes emanadas del Ministerio Público para los efectos de la investigación, así como a las órdenes emanadas de las autoridades judiciales, y de las autoridades administrativas en los actos en que intervengan como tribunales especiales; prestar su cooperación a los tribunales con competencia en lo criminal; prestar la cooperación necesaria en cumplimiento de tratados internacionales ratificados y vigentes en Chile, incluyendo el intercambio de datos personales. Esta cooperación se ajustará a la legislación nacional en la materia y en ningún caso implicará la entrega de bases de datos nacionales ni el acceso directo a ellas por parte de los órganos de un Estado extranjero o de los órganos de una organización internacional, observando siempre lo dispuesto en la ley Nº 19.628, sobre Protección de la Vida Privada, particularmente en lo relativo a la protección de los titulares de datos; controlar el ingreso y la salida de personas del territorio nacional; adoptar todas las medidas conducentes para asegurar la correcta identificación de las personas que salen e ingresan al país, la validez y autenticidad de sus documentos de viaje y la libre voluntad de las personas de ingresar o salir de él; fiscalizar la permanencia de extranjeros en el país, representar a Chile como miembro de la Organización Internacional de Policía Criminal (INTERPOL), y dar cumplimiento a otras funciones que le encomienden las leyes.
 
+#### Artículo 5° bis
+
+La Policía de Investigaciones de Chile deberá elaborar, de acuerdo a las directrices emanadas de la Subsecretaría del Interior, un Plan Estratégico de Desarrollo Policial, el cual contemplará un período de ejecución de a lo menos seis años, debiendo ser evaluado y actualizado cada tres años o conforme lo ameriten las circunstancias. Este Plan y sus modificaciones deberán aprobarse por el Ministro del Interior y Seguridad Pública.
+
+El Plan Estratégico de Desarrollo Policial establecerá los objetivos institucionales durante su período de vigencia y deberá definir la distribución de los recursos humanos y logísticos necesarios para lograrlos; los lineamientos de compras e inversiones; los mecanismos para su actualización, y la validación y medición del grado de cumplimiento de su finalidad y sus misiones, señaladas respectivamente en los artículos 1° y 4°.
+
+La definición de la distribución de los recursos humanos y logísticos deberá considerar las prioridades estratégicas establecidas en el Plan y basarse en una metodología de cálculo que se funde en criterios objetivos, que propendan a garantizar la prestación de servicios policiales a toda la población, en materia de investigación y control de la delincuencia.
+
+Una vez concluido el trabajo de elaboración, la Policía de Investigaciones de Chile deberá remitir el proyecto de plan al Ministerio del Interior y Seguridad Pública, el que deberá ser aprobado dentro de los seis meses siguientes a su recepción.
+
+Una vez que el acto administrativo de aprobación del Plan se encuentre totalmente tramitado, el Ministro del Interior y Seguridad Pública deberá remitir copia del mismo a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados. Asimismo, la Policía de Investigaciones de Chile deberá publicarlo en su sitio electrónico institucional y sus autoridades tendrán la obligación de comunicarlo oportunamente a su personal.
+
+#### Artículo 5° ter
+
+Sin perjuicio de lo dispuesto en el artículo precedente, el Director General deberá elaborar, durante el primer trimestre de cada año, un Plan Anual de Gestión Operativa y Administrativa que permita ejecutar satisfactoriamente el Plan Estratégico de Desarrollo Policial vigente. Este Plan Anual de Gestión deberá ser sometido a la aprobación del Subsecretario del Interior y deberá identificar las directrices que permitirán hacer operativos los componentes de la política de desarrollo policial, y en especial los compromisos y las metas de gestión para el período correspondiente. Con todo, el plan podrá elaborarse dentro de los seis meses siguientes a la dictación de un nuevo Plan Estratégico de Desarrollo Policial o su modificación.
+
+#### Artículo 5° quáter
+
+El Alto Mando Policial, en conjunto con la Subsecretaría del Interior, tendrá a su cargo la supervisión y evaluación del desarrollo del Plan Estratégico de Desarrollo Policial y del Plan Anual de Gestión Operativa y Administrativa.
+
+En el ejercicio de esta supervisión, el Alto Mando Policial deberá encomendar programas, proyectos y tareas a las jefaturas responsables de ejecutarlos; controlar las acciones y procesos internos emanados del Plan Estratégico de Desarrollo Policial; entregar orientaciones, lineamientos y directrices que aporten a la consolidación del proceso de modernización, y calendarizar el trabajo anual de acuerdo al establecimiento de prioridades y jerarquías.
+
+La Policía de Investigaciones de Chile deberá informar los resultados de dicha supervisión y evaluación al Ministerio del Interior y Seguridad Pública. Los informes de supervisión y evaluación deberán ser remitidos, también semestralmente, por dicha Secretaría de Estado a las comisiones de Hacienda de ambas cámaras del Congreso Nacional.
+
+Existirá un sistema de supervisión y evaluación de la gestión policial, cuyos procedimientos y protocolos se ajustarán a parámetros modernos de gestión. Los requisitos, características, metodologías y administración del sistema antes señalado serán determinados por un reglamento, expedido por el Ministerio del Interior y Seguridad Pública.
+
+#### Artículo 5°
+
+quinquies.- El Director General, durante el mes de junio de cada año, rendirá cuenta en audiencia pública de los resultados obtenidos de su gestión institucional, en consideración a indicadores objetivos y al cumplimiento de las metas trazadas en el Plan Estratégico de Desarrollo Policial, el Plan Anual de Gestión Operativa y Administrativa y, principalmente, en la Política Nacional de Seguridad Pública Interior.
+
+Asimismo, la Policía de Investigaciones de Chile rendirá cuenta anualmente a nivel regional, a través de sus respectivas autoridades, lo que deberá realizarse dentro de los tres meses de celebrada la cuenta pública a nivel nacional.
+
+Los antecedentes que fundan las cuentas públicas deberán estar a disposición de la sociedad civil en el sitio electrónico institucional, con información que permita una adecuada evaluación del ejercicio de sus facultades y cumplimiento de sus objetivos de manera pública y transparente, a nivel nacional y regional.
+
+#### Artículo 5°
+
+sexies.- La Policía de Investigaciones de Chile deberá producir y publicar trimestralmente, a través de su sitio electrónico institucional, estadísticas e información institucional territorialmente desagregada, que permitan identificar los aspectos indispensables para evaluar el ejercicio de sus facultades de manera pública y transparente, en la forma y modo que señale el reglamento.
+
+No podrá incluirse dentro de esta información aquella cuyo conocimiento ponga en riesgo la seguridad pública o la integridad personal de los funcionarios policiales o de sus familias.
+
+#### Artículo 5°
+
+septies.- Las órdenes generales y toda otra norma general, independientemente de su denominación, dictadas por cualquier integrante del Alto Mando Policial, deberán ser informadas al Ministerio del Interior y Seguridad Pública, en el plazo de quince días corridos desde su dictación.
+
+Asimismo, la institución tendrá un registro sistematizado de toda su normativa interna, el que deberá estar a disposición de sus autoridades, del Ministerio del Interior y Seguridad Pública, y de la Contraloría General de la República. Dicho registro deberá mantenerse permanentemente actualizado.
+
 #### Artículo 6°
 
-La Policía de Investigaciones de Chile podrá establecer servicios policiales urbanos, rurales, fronterizos y cualquier otro que diga relación con sus funciones específicas, de acuerdo con la Constitución Política y la ley.
+La Policía de Investigaciones de Chile podrá establecer servicios policiales urbanos, rurales, fronterizos y cualquier otro que diga relación con sus funciones específicas, según lo establecido en el respectivo Plan Estratégico de Desarrollo Policial y el Plan Anual de Gestión Operativa y Administrativa, de acuerdo con la Constitución Política y la ley.
 
 Los servicios policiales en todo el territorio de la República estarán a cargo de Investigaciones y de Carabineros de Chile, salvo en lo que se refiere a las Policías Marítima y Militares y otras excepciones que prescriba la ley.
+
+#### Artículo 6º bis
+
+La Policía de Investigaciones de Chile deberá informar al Ministerio del Interior y Seguridad Pública y, por intermedio de éste, a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados, al menos semestralmente, la cantidad de personal de la institución, dando cuenta de su desagregación y cobertura, tanto a nivel regional como comunal.
+
+La información a que se refiere el inciso primero tendrá el carácter de reservada.
+
+#### Artículo 6° ter
+
+La Policía de Investigaciones de Chile deberá archivar o eliminar, según corresponda, la documentación que posea o esté bajo su control, responsabilidad o competencia, de acuerdo al reglamento que regule esta materia y que será expedido por el Ministerio del Interior y Seguridad Pública.
+
+Asimismo, propenderá a digitalizar la información que obre en su poder, de conformidad a la ley N° 18.845, que establece sistemas de microcopia o micrograbación de documentos, en lo que resulte aplicable.
+
+La documentación que se encuentre en poder de la Policía de Investigaciones de Chile no podrá ser eliminada cuando forme parte de los antecedentes de una causa judicial, y deberá ser conservada, al menos, durante todo el tiempo que ésta dure.
 
 ## Título Segundo
 
@@ -63,6 +139,46 @@ Policía de Investigaciones de Chile, asimismo, prestará a las autoridades admi
 En situaciones calificadas, Policía de Investigaciones de Chile, podrá requerir de la autoridad administrativa la orden por escrito, cuando por la naturaleza de la medida lo estime conveniente para su cabal cumplimiento.
 
 La autoridad administrativa no podrá requerir directamente el auxilio de la Institución, ni ésta podrá concederlo, respecto de asuntos que esté investigando el Ministerio Público o que estén sometidos al conocimiento de los tribunales de justicia y que hayan sido objeto de medidas ordenadas o decretadas por ellos y comunicadas o notificadas, en su caso, a la Policía de Investigaciones de Chile.
+
+#### Artículo 7 bis
+
+A fin de evaluar y controlar la adecuada respuesta de la institución ante abusos u otros actos arbitrarios de su personal en el ejercicio de sus funciones, la Policía de Investigaciones de Chile contará con un sistema para la interposición, tramitación y resolución de reclamos de parte de la ciudadanía, cuyo funcionamiento estará a cargo de una repartición destinada a dicho efecto. La Subsecretaría del Interior deberá supervisar el funcionamiento de este sistema.
+
+Sin perjuicio de la posibilidad de efectuarse estos reclamos de forma presencial, la Policía de Investigaciones de Chile, deberá contar con un mecanismo para su interposición a través de una plataforma electrónica, que permita realizarlos con o sin reserva de la identidad del reclamante o de forma anónima. También se podrá acceder a este mecanismo a través del sitio electrónico del Ministerio del Interior y Seguridad Pública. A través de dicha plataforma, el reclamante que hubiere entregado su identidad podrá acceder a la información pertinente para hacer seguimiento de su tramitación y resolución.
+
+Las resoluciones de los procedimientos disciplinarios que se originaren en virtud de lo dispuesto en el inciso anterior deberán ser comunicados mensualmente al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior.
+
+La Policía de Investigaciones de Chile deberá publicar y actualizar en su sitio electrónico, al menos trimestralmente, información estadística relativa a la tramitación, estado y resolución de los reclamos recibidos a través de este sistema.
+
+Un reglamento del Ministerio del Interior y Seguridad Pública definirá el funcionamiento de este sistema, el contenido mínimo de la denuncia, la forma en que se hará efectiva la reserva de identidad o anonimato del reclamante que así lo requiera, así como la forma y desagregación de la información estadística, y las demás normas para su funcionamiento.
+
+#### Artículo 7° ter
+
+La Policía de Investigaciones de Chile elaborará un modelo de control interno para la prevención y control de conductas indebidas, tales como faltas a la probidad funcionaria, infracciones o faltas a los códigos de conducta y reglamentos disciplinarios, el que se radicará en una Alta Repartición y deberá contar con un mecanismo confidencial que permita a los miembros de la propia Institución dar cuenta de este tipo de conductas en forma anónima y garantizar que no sufrirán consecuencias negativas por ello.
+
+El modelo y sus modificaciones posteriores deberán ser aprobados por el Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior.
+
+#### Artículo 7° quáter
+
+En los procedimientos disciplinarios se levantará registro de las diligencias practicadas, debiendo tomar los recaudos necesarios para resguardar la reserva de la identidad de quien lo hubiere solicitado. Podrán incorporarse al expediente documentos u otros medios probatorios que sean pertinentes. Tan pronto se cerrare la investigación, se formularán o desestimarán los cargos.
+
+En caso que se formularen cargos, el inculpado deberá contar con un término para responderlos y, en su caso, para rendir prueba, los que serán determinados por el Reglamento de Disciplina y de Sumarios Administrativos.
+
+Vencido el plazo para los descargos o, en su caso, el término probatorio, el fiscal emitirá un informe que contendrá la relación de los hechos, los fundamentos y conclusiones a que hubiere llegado y formulará a la autoridad correspondiente la proposición que estimare procedente, quien resolverá, debiendo notificarse al inculpado.
+
+Las partes que no se conformaren con el dictamen podrán interponer el recurso jerárquico para ante el superior directo del dictaminador. No conformes con lo resuelto sobre el recurso jerárquico, las partes podrán apelar para ante el superior directo de quien resolvió dicha instancia.
+
+Igualmente, la resolución definitiva que se pronunciare en el procedimiento será informada al denunciante, si se conociere su identidad.
+
+Los resultados de los procedimientos disciplinarios que se originaren en virtud de lo dispuesto en este artículo deberán ser comunicados al Ministerio del Interior y Seguridad Pública. Particularmente, cuando los procedimientos disciplinarios tuvieren su origen en reclamos de particulares respecto del accionar policial, los resultados serán remitidos al Subsecretario del Interior, dentro de los diez días siguientes a la fecha en que el dictamen se encuentre firme, con una relación de los hechos que fueron objeto de investigación. Si el Subsecretario del Interior lo estimare pertinente, podrá requerir más antecedentes, los que deberán ser remitidos dentro de los cinco días siguientes a la recepción de la solicitud.
+
+En todo lo no previsto en este artículo se estará a lo dispuesto en el Reglamento de Disciplina y de Sumarios Administrativos.
+
+#### Artículo 7°
+
+quinquies.- Si los hechos puestos en conocimiento de la Policía de Investigaciones en virtud de los artículos 7° bis y 7° ter fueren constitutivos de delito, el personal policial deberá remitir sin más demora la respectiva denuncia al Ministerio Público.
+
+Lo dispuesto en este artículo no obsta el inicio, tramitación y posterior resolución del procedimiento disciplinario que pudiere corresponder al caso.
 
 #### Artículo 8°
 
@@ -90,7 +206,7 @@ Corresponde al Director General de Investigaciones resolver sobre las siguientes
 
 2.- Entrega de la información que sea requerida por el Ministerio del Interior y Seguridad Pública, por medio de la Subsecretaría del Interior, en ejercicio de las facultades conferidas en el artículo 3º de la ley Nº 20.502.
 
-3.- Destinación y traslado del personal de la Institución.
+3.- Disposición, organización y distribución de los medios humanos y materiales, previa propuesta al Ministro del Interior y Seguridad Pública, en el marco de lo dispuesto en el respectivo Plan Estratégico de Desarrollo Policial y de acuerdo a las funciones que la Constitución Política de la República y las leyes encomiendan a la Institución.
 
 4.- Concesión de anticipos de remuneraciones, en conformidad a las disposiciones estatuarias, al personal que deba cambiar de residencia con motivo de nueva destinación.
 
@@ -100,11 +216,21 @@ Corresponde al Director General de Investigaciones resolver sobre las siguientes
 
 7.- Autorización al personal para contraer matrimonio, de acuerdo con la reglamentación correspondiente.
 
-8.- Comisiones de servicio, en conformidad a las disposiciones reglamentarias.
+8.- Comisiones de servicio, en conformidad a las disposiciones reglamentarias, salvo que se tratare de comisiones de servicio al extranjero del personal de planta, que requerirá la aprobación del Ministerio del Interior y Seguridad Pública.
 
 9.- Otorgamiento de feriados, licencias y permisos, con o sin goce de remuneraciones.
 
-10.- En general, todas aquellas resoluciones, conducentes al buen funcionamiento de la Institución que determine el reglamento.
+10.- Dictar, previa aprobación del Ministerio del Interior y Seguridad Pública, los programas y planes de estudio y de los perfiles de ingreso y egreso y del cuerpo docente de los planteles de la Institución.
+
+11.- En general, todas aquellas resoluciones, conducentes al buen funcionamiento de la Institución que determine el reglamento.
+
+Lo dispuesto en este artículo no obstará las autorizaciones que se requieran, cuando procedieren, de parte del Ministro del Interior y Seguridad Pública o del Subsecretario del Interior, especialmente en virtud de lo dispuesto en los literales j) y l) del artículo 3° de la ley N° 20.502.
+
+#### Artículo 10 bis
+
+Corresponderá al Director General disponer la organización y distribución de los medios humanos y materiales, previa propuesta al Ministro del Interior y Seguridad Pública, en el marco de lo dispuesto en el respectivo Plan Estratégico de Desarrollo Policial y de acuerdo a las funciones que la Constitución Política de la República y las leyes encomiendan a la Policía de Investigaciones de Chile.
+
+En el ejercicio de esta facultad, el Director General deberá, a través de la Jefatura Nacional de Gestión Estratégica, ejecutar el Plan Estratégico de Desarrollo Policial, así como el Plan Anual de Gestión Operativa y Administrativa. Para estos efectos, la Jefatura Nacional de Gestión Estratégica dependerá directamente del Director General, quien procurará otorgarle los medios humanos y logísticos que sean necesarios para su cometido.
 
 #### Artículo 11
 
@@ -194,7 +320,9 @@ El que infrinja esta disposición será castigado con arreglo a lo dispuesto en 
 
 #### Artículo 20
 
-La Policía de Investigaciones, inmediatamente que detenga a una persona, la pondrá a disposición del juez competente, informando al Ministerio Público si hubiere sido sorprendida en delito flagrante. Si en razón de la hora en que se practicó la detención no pudiere darse inmediato cumplimiento a esta regla, todo detenido que lo solicitare por sí o por otra persona, antes de ingresar en calidad de tal en las oficinas o cuarteles de Policía de Investigaciones de Chile, será examinado por un médico legista, quien tendrá la obligación de expedir un certificado de salud a su respecto, en el que dejará, especialmente constancia de las lesiones, erosiones, equimosis u otras manifestaciones de carácter interno o externo que denuncien que el detenido ha sido objeto de golpes, maltratos, heridas o cualquiera otra especie de violencia.
+Los informes que se levanten durante el proceso de toma de denuncia y en otros procedimientos policiales darán cuenta de las gestiones realizadas por los funcionarios policiales durante aquéllos.
+
+Con todo, la Policía de Investigaciones, inmediatamente que detenga a una persona, la pondrá a disposición del juez competente, informando al Ministerio Público si hubiere sido sorprendida en delito flagrante. Si en razón de la hora en que se practicó la detención no pudiere darse inmediato cumplimiento a esta regla, todo detenido que lo solicitare por sí o por otra persona, antes de ingresar en calidad de tal en las oficinas o cuarteles de Policía de Investigaciones de Chile, será examinado por un médico legista, quien tendrá la obligación de expedir un certificado de salud a su respecto, en el que dejará, especialmente constancia de las lesiones, erosiones, equimosis u otras manifestaciones de carácter interno o externo que denuncien que el detenido ha sido objeto de golpes, maltratos, heridas o cualquiera otra especie de violencia.
 
 INCISO ELIMINADO
 
@@ -230,9 +358,41 @@ Los Oficiales Policiales de los grados de Director General, Subdirectores, Prefe
 
 #### Artículo 25
 
+Dentro del marco de su disponibilidad presupuestaria y su factibilidad de ejecución, de conformidad a las directrices de los planes a los que se refieren los artículos 3° bis y 3° ter, la Institución deberá dotar a sus funcionarios de los medios materiales para el cumplimiento de sus funciones. Deberán considerarse, entre otros, sistemas de registro audiovisual de los procedimientos policiales y su almacenamiento; y los elementos de protección personal, tales como escudos, cascos, chalecos antibalas y medios disuasivos menos letales, para aquellos casos en que el resguardo del orden público suponga la necesidad de su uso. La falta de estos elementos no obstará a la validez de los procedimientos.
+
 La administración del vestuario, equipo, vehículos, armamento, material policial y demás especies del inventario de Policía de Investigaciones de Chile, será regulada por los reglamentos correspondientes.
 
 Los colores y distintivos de los vehículos de Investigaciones serán los que fije la Dirección General.
+
+Durante el segundo semestre de cada año la Institución deberá informar a la Comisión de Seguridad Pública del Senado y a la Comisión de Seguridad Ciudadana de la Cámara de Diputados, por intermedio del Ministerio del Interior y Seguridad Pública, la disponibilidad presupuestaria y su ejecución, en la adquisición y renovación de los elementos señalados en el inciso primero. Asimismo, deberá presentar el plan presupuestario para la adquisición del año siguiente y su aumento de cobertura para el personal.
+
+#### Artículo 25 bis
+
+Créase un Comité de Auditoría Policial, integrado por un representante de la Subsecretaría del Interior, un representante del Ministerio de Hacienda y un Prefecto General de la Policía de Investigaciones de Chile. Los representantes recién señalados deberán ser funcionarios públicos o agentes públicos civiles, los que serán de exclusiva confianza de la autoridad que los nombra.
+
+El Comité contratará anualmente un servicio de auditoría externa con la finalidad de evaluar, tanto el cumplimiento de la normativa legal vigente en las operaciones financieras de la institución, como la eficiente asignación de recursos destinados al ejercicio de la función policial.
+
+Para efectos de lo establecido en el inciso anterior, la Policía de Investigaciones de Chile elaborará una Ficha Estadística Uniforme Policial que contenga la información financiera que será entregada trimestralmente al auditor, y cuya forma y contenido será dispuesta por la Subsecretaría del Interior.
+
+El Comité deberá emitir un informe respecto de los resultados de la auditoría, conteniendo recomendaciones y modificaciones que surjan de su supervisión y examen, el que deberá remitirse al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, a la Dirección General de la Policía de Investigaciones de Chile, a la Contraloría General de la República y, por intermedio del Ministerio del Interior y Seguridad Pública, a la Comisión Especial Mixta de Presupuestos del Congreso Nacional.
+
+Un reglamento dictado por el Ministerio del Interior y Seguridad Pública y suscrito además por el Ministro de Hacienda establecerá las funciones del Comité de Auditoría, y forma en que las mismas serán cumplidas.
+
+#### Artículo 25 ter
+
+Del uso y disposición del presupuesto de la Policía de Investigaciones de Chile, del mérito de la administración de los fondos y de su contabilidad, tanto en moneda nacional o extranjera, deberá informarse circunstanciadamente, al menos semestralmente, al Ministerio del Interior y Seguridad Pública, a través de la Subsecretaría del Interior, sin perjuicio de las obligaciones de rendición e información existentes en otros cuerpos legales. Para lo anterior, se tendrá en especial consideración lo dispuesto en las letras b) y j) del artículo 3° y el artículo 9°, ambos de la ley N° 20.502.
+
+#### Artículo 25 quáter
+
+Existirá una unidad encargada de la función de auditoría interna, dependiente directamente del Director General y a cargo de un Prefecto, cuya finalidad será controlar las operaciones financieras y contables, así como proponer los objetivos institucionales de auditoría y otras acciones orientadas al uso eficiente y eficaz de los recursos financieros de la Institución. Asimismo, esta repartición deberá elaborar un Plan Anual de Auditoría Interna, realizar el seguimiento de los planes de acción elaborados para subsanar las observaciones encontradas e informar sobre el cumplimiento anual de dicho Plan de Auditoría al Comité de Auditoría Policial que establece esta ley. Una vez elaborado dicho plan, deberá ser remitido a la Contraloría General de la República para su conocimiento.
+
+La unidad indicada en el inciso precedente deberá integrarse preferentemente por profesionales civiles, que posean títulos afines en administración, finanzas, contabilidad o auditoría.
+
+#### Artículo 25
+
+quinquies.- La Contraloría General de la República, en el ejercicio de sus facultades fiscalizadoras, podrá acceder, de forma presencial o remota, a las bases de datos, sistemas informáticos, y cualquier mecanismo para el procesamiento o almacenamiento de información que administre la Policía de Investigaciones, excluyéndose las que se tengan con finalidades de investigación y persecución de hechos punibles.
+
+La información secreta o reservada obtenida en virtud de este artículo estará sujeta a lo dispuesto en el inciso cuarto del artículo 9° de la ley N° 10.336, de organización y atribuciones de la Contraloría General de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto N° 2.421, de 1964, del Ministerio de Hacienda.
 
 #### Artículo 26
 
@@ -273,6 +433,22 @@ Los peritos del Laboratorio de Criminalística cumplirán los cometidos que le e
 Deróganse el artículo 6°de la ley N° 6.180; los artículos 1°, 2°, 3°, y 13 del D.F.L.
 
 N°311, de 1953; el inciso final del artículo 5°y los artículos 12 y 13 de la ley N°11.743; las letras C) y D) del artículo 1°de la ley N°14.711; los artículos 2°, 10, 11, 16, 17 y 19 de la ley N°15.143; el artículo 1°del D.L. N° 384, de 1974; el artículo 5° del decreto supremo (I) N°3.738, de 1944, y, en general, toda disposición legal o reglamentaria que sea contraria o incompatible con el presente decreto ley.
+
+#### Artículo 32 bis
+
+El superior a cargo de un procedimiento policial, que conforme a la planificación, sea calificado de alta complejidad, deberá poner en conocimiento a sus subalternos respecto de sus riesgos, características y particularidades, con el fin de promover su desarrollo eficaz y el debido resguardo de los derechos de las personas.
+
+La forma de dar cumplimiento a lo prescrito en este artículo será reglamentado por la Institución, con la conformidad del Ministerio del Interior y Seguridad Pública.
+
+#### Artículo 32 ter
+
+Los informes que se levanten durante el proceso de toma de denuncia y en otros procedimientos policiales darán cuenta de las gestiones realizadas por los funcionarios policiales durante aquéllos.
+
+#### Artículo 32 quáter
+
+El personal de la Policía de Investigaciones tendrá derecho a ser defendido y, además, a solicitar, previa autorización del Ministerio del Interior y Seguridad Pública, que la institución persiga la responsabilidad civil y criminal de las personas que atenten contra su vida o su integridad corporal, con motivo del desempeño de sus funciones.
+
+La acción judicial será deducida ante el respectivo tribunal por el jefe superior de la Institución, a solicitud escrita del funcionario, y cuando el afectado fuere dicho jefe superior, la denuncia la hará el Ministro del Interior y Seguridad Pública.
 
 ARTICULOS TRANSITORIOS
 
