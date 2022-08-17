@@ -254,7 +254,7 @@ Deberá existir un registro impreso o electrónico, en idioma español, al inter
 
 . Clase primaria, clase secundaria, cuando corresponda, y división de peligrosidad, de acuerdo a la NCh 382:2013.
 
-Adicionalmente, también deberán estar disponibles las Hojas de Datos de Seguridad de las sustancias almacenadas de acuerdo a Norma Chilena Oficial Nº 2245:2015, Hoja de Datos de Seguridad para productos químicos - Contenido y orden de las secciones. La responsabilidad de elaborar o proveer la hoja de datos de seguridad, será del fabricante, importador o proveedor de la sustancia o producto, según corresponda.
+Adicionalmente, también deberán estar disponibles las Hojas de Datos de Seguridad de las sustancias almacenadas de acuerdo a lo establecido en el Título V, "De la ficha u hoja de datos de seguridad" del decreto supremo Nº 57, de 2019, del Ministerio de Salud, que aprueba reglamento de clasificación, etiquetado y notificación de sustancias químicas y mezclas peligrosas. La responsabilidad de elaborar o proveer la hoja de datos de seguridad, será del fabricante, importador o proveedor de la sustancia o producto, según corresponda.
 
 #### Artículo 15
 
@@ -266,7 +266,7 @@ En la portería o acceso principal de la empresa deberá existir un plano de emp
 
 . Incompatibilidad de las sustancias con el agua, si existiera.
 
-Deberán también estar disponibles en forma impresa o digital las Hojas de Datos de Seguridad de las sustancias almacenadas, de acuerdo a NCh 2245:2015 Hoja de datos de seguridad para productos químicos - Contenido y orden de las secciones, ordenadas y separadas por cada instalación de almacenamiento de sustancias peligrosas.
+Deberán también estar disponibles en forma impresa o digital las Hojas de Datos de Seguridad de las sustancias almacenadas, de acuerdo a lo establecido en el Título V, "De la ficha u hoja de datos de seguridad" del decreto supremo Nº 57, de 2019, del Ministerio de Salud, que aprueba reglamento de clasificación, etiquetado y notificación de sustancias químicas y mezclas peligrosas.
 
 #### Artículo 16
 
@@ -1836,7 +1836,7 @@ c) Listado de sustancias peligrosas almacenadas por instalación de almacenamien
 
 . Clase y división de peligrosidad, de acuerdo a la NCh 382:2013.
 
-. Hoja de datos de seguridad de acuerdo a la NCh 2245:2015; Hoja de datos de seguridad para productos químicos - Contenido y orden de las secciones.
+. Hoja de datos de seguridad de acuerdo a lo establecido en el Título V, "De la ficha u hoja de datos de seguridad" del decreto supremo Nº 57, de 2019, del Ministerio de Salud, que aprueba reglamento de clasificación, etiquetado y notificación de sustancias químicas y mezclas peligrosas.
 
 d) Cadena de mando
 
