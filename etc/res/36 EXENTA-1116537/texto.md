@@ -78,25 +78,25 @@ Resuelvo:
 
 2. Contratar servicios de publicación en extractos de las resoluciones que concedan la posesión efectiva de la herencia, por ellos suscritas, cualesquiera sean los montos involucrados.
 
-### IV. INICIATIVAS DE INVERSIÓN
+### IV. INICIATIVAS DE INVERSIÓN Y HABILITACIÓN
 
-Las siguientes facultades podrán ser ejercidas hasta por un monto inferior a 1000 Unidades Tributarias Mensuales:
+Las siguientes facultades podrán ser ejercidas por los Directores y Directoras Regionales hasta por un monto inferior a 5.000 Unidades Tributarias Mensuales. Las facultades comprenden:
 
-1. En relación con los trámites que se requieran efectuar ante la Dirección o Departamento de Obras Municipales, podrán suscribir solicitudes en materias de inversión pública, tales como de permisos de edificación, de obras preliminares y/o de demolición, respecto de inmuebles que el Servicio posea en dominio, en comodatos, destinados y/o entregados en arriendo del Servicio, en la Región, o cualquier requerimiento que verse sobre la materia.
+1. En relación con los trámites que se requieran efectuar ante la Dirección o Departamento de Obras Municipales, podrán suscribir solicitudes en materias de inversión pública, tales como de permisos de edificación, de obras preliminares y/o demolición, respecto de inmuebles que el Servicio posea en dominio, en comodatos, destinados y/o entregados en arriendo del Servicio, en la región, a cualquier requerimiento que verse sobre la materia.
 
-2. Suscribir solicitudes de destinación de inmuebles para el Servicio en la Región, que deban gestionar ante las Secretarías Regionales Ministeriales de Bienes Nacionales.
+2. Suscribir solicitudes de destinación de inmuebles para el Servicio en la región, que deban gestionar ante las Secretarías Regionales Ministeriales de Bienes Nacionales.
 
 3. Gestionar recomendaciones favorables ante el organismo técnico, que deban realizarse ante las Secretarías Regionales Ministeriales de Desarrollo Social.
 
-4. Representar al Director Nacional ante la Contraloría Regional, cuando se trate de materias relativas a representación y/o consultas asociadas a inversiones en la Región.
+4. Representar al Director Nacional ante la Contraloría Regional, cuando se trate de materias relativas a representación y/o consultas asociadas a inversiones en la región.
 
-5. Representar al Servicio ante el Gobierno Regional (Gore), y cuando se trate de gestión de recursos del Fondo Nacional de Desarrollo Regional (FNDR) y estado de avance de iniciativas de inversión que se desarrollen en la Región.
+5. Representar al Servicio ante el Gobierno Regional (Gore), y cuando se trate de gestión de recursos del Fondo Nacional de Desarrollo Regional (FNDR) y estado de avance de iniciativas de inversión que se desarrollen en la región.
 
-6. Suscribir convenios mandatos que encomienden en forma completa e irrevocable al (la) Director(a) Regional del Ministerio de Obras Públicas (MOP) a gestionar técnica y administrativamente la etapa de diseño y ejecución de las iniciativas de inversión en la Región en coordinación con la Oficina de Infraestructura.
+6. Suscribir convenios mandatos que encomienden en forma completa e irrevocable al (la) Director(a) Regional del Ministerio de Obras Públicas (MOP) a gestionar técnica y administrativamente la etapa de diseño y ejecución de las iniciativas de inversión en la región en coordinación con la Oficina de Infraestructura.
 
 7. Gestionar trámites asociados a servicios básicos o domiciliarios, tales como: luz, agua, gas, para los inmuebles del Servicio, cualquiera sea la calidad jurídica en que los tenga.
 
-8. Celebrar contratos de arriendo de inmuebles de la Región, sólo una vez que se cuente con la autorización del Ministerio de Hacienda, Dirección de Presupuesto, conforme a la normativa legal vigente.
+8. Celebrar contratos de arriendo de inmuebles de la región, sólo una vez que se cuente con la autorización del Ministerio de Hacienda, Dirección de Presupuesto, conforme a la normativa legal vigente.
 
 ### V. DE BIENES Y SERVICIOS
 
@@ -116,13 +116,13 @@ b. Respecto a los bienes muebles deteriorados o destruidos que no puedan reparar
 
 ### VI. DE COMPRAS
 
-1. Autorizar compras y contrataciones hasta por un monto inferior a 1000 Unidades Tributarias Mensuales por cada proceso, enmarcándose en las disponibilidades presupuestarias y en la normativa vigente en la materia. Esto comprende:
+1. Autorizar compras y contrataciones por los Directores y Directoras Regionales hasta por un monto inferior a 5.000 Unidades Tributarias Mensuales por cada proceso, enmarcándose en las disponibilidades presupuestarías y en la normativa vigente. Estas facultades comprenden:
 
 a. La aprobación de las bases administrativas, técnicas y anexos.
 
 b. Disponer el llamado a licitación pública para la contratación de servicios o adquisición de bienes muebles.
 
-c. Publicar las bases y el llamado a licitación en el Portal de ChileCompra, así como todas las resoluciones y documentos que deriven del proceso licitatorio, cuya publicación sea necesaria.
+c. Publicar las bases y el llamado a licitación en el Portal de Mercado Público, así como todas las resoluciones y documentos que deriven del proceso licitatorio, cuya publicación sea necesaria.
 
 d. Modificar las bases de licitación y efectuar las aclaraciones pertinentes, en la forma contemplada en aquellas.
 
@@ -132,13 +132,17 @@ f. Declarar desierto el proceso de licitación o inadmisible las ofertas.
 
 g. Dictar la resolución de Adjudicación en los procesos de compras.
 
-h. Modificar las etapas y los plazos el calendario del proceso de licitación.
+h. Modificar las etapas y los plazos del calendario del proceso de licitación.
 
 i. Autorizar por resolución fundada el trato o contratación directa, y la suscripción de contratos que se deriven de los procesos de compras con el adjudicatario y eventuales modificaciones posteriores, en todos los casos indicados, conforme a la normativa vigente y las disponibilidades presupuestarias.
 
-j. En general realizar cualquier actuación que de acuerdo a las Bases Administrativas y Técnicas y a la ley Nº 19.886 de Bases sobre Contratos Administrativos de Suministros y Prestaciones de Servicios y en el decreto Nº 250, de 2004, del Ministerio de Hacienda, que Aprueba su Reglamento, sea necesario ejecutar en un proceso de Licitación.
+j. En general realizar cualquier actuación que de acuerdo a las Bases Administrativas y Técnicas y la ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y en el decreto N° 250, de 2004, del Ministerio de Hacienda, que Aprueba su Reglamento, sea necesario ejecutar en un proceso de licitación.
 
-k. En el caso que la compra o contratación esté referida a: habilitaciones, remodelaciones, adecuaciones, conservaciones, mejoramientos, modificaciones estructurales, reposiciones o mejoras de instalaciones eléctricas, de agua, alcantarillado y/o climatización, de los inmuebles del servicio, cualquiera sea su calidad jurídica; el Director Regional, deberá solicitar expediente técnico a la Oficina de Infraestructura del Servicio. En caso de contar con el expediente, dicha autoridad deberá obtener la aprobación por escrito por parte de la mencionada Oficina.
+k. En el caso que la compra o contratación esté referida a: habilitaciones, remodelaciones, adecuaciones, conservaciones, mejoramientos, modificaciones estructurales, reposiciones o mejoras de instalaciones eléctricas, de agua, alcantarillado y/o climatización, de los inmuebles del Servicio, cualquiera sea su calidad jurídica; el Director Regional, deberá solicitar expediente técnico a la Oficina de Infraestructura del Servicio. En caso de contar con el expediente, dicha autoridad deberá obtener la aprobación por escrito por parte de la mencionada Oficina.
+
+l. Gestionar el contrato definitivo, en todos sus aspectos formales y reglamentarios. En especial, la gestión del contrato considera la determinación de las medidas a aplicar en los casos de incumplimiento del proveedor, tales como multas, cobro de garantía de fiel cumplimiento, término anticipado del contrato. Dichas gestiones deberán realizarse con estricta sujeción a lo prescrito en la ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios; y en el decreto supremo N° 250, de 2004, del Ministerio de Hacienda, que Aprueba el Reglamento de la ley N° 19.886.
+
+m. Resguardar los antecedentes y documentación esencial para realizar los procesos de compras y contrataciones de bienes y servicios, que permitan levantar un proceso licitatorio o justificar una contratación directa; suscribir los respectivos contratos; o bien, llevar a cabo la ejecución contractual, tales como: CDP, informes técnicos-económicos, informes de administradores de contratos, certificados de vigencia de la sociedad, certificados de vigencia de poder, declaraciones juradas de inhabilidades y prohibiciones para ofertar y contratar, garantía de seriedad de la oferta, garantía de fiel y oportuno cumplimiento, pólizas de seguros, entre otros antecedentes que sean requeridos en el marco del proceso de contratación.
 
 ### VII. DEPARTAMENTO ARCHIVO GENERAL
 
