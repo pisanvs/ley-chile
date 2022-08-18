@@ -218,7 +218,7 @@ En el caso de proyectos que se encuentren emplazados en terrenos del Serviu, com
 
 9.1. Los proyectos podrán considerar tipologías de vivienda que comprendan unidades de 1 a 3 dormitorios. Los recintos que contemple cada tipología deberán cumplir con el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario señalado en el artículo 43 del DS Nº 49 (V. y U.), de 2011, o bien, con el Cuadro Normativo Abreviado que será publicado en la página que el Ministerio de Vivienda disponga para estos efectos (www.minvu.cl/postulacion/llamado). Los proyectos deberán además cumplir con el Itemizado Técnico de Construcción para proyectos del Fondo Solidario de Elección de Vivienda.
 
-9.2. Los proyectos deberán considerar unidades de vivienda con una superficie m�nima, según número de dormitorios, de acuerdo a la siguiente tabla:
+9.2. Los proyectos deberán considerar unidades de vivienda con una superficie mínima, según número de dormitorios, de acuerdo a la siguiente tabla:
 
 Se podrán presentar proyectos que no cumplan el mínimo establecido en la tabla anterior, fundamentado en restricciones derivadas de la aplicación de las normas urbanísticas o estructurales en caso de inmuebles existentes, lo que será evaluado por la Comisión.
 
@@ -250,7 +250,7 @@ Los inmuebles podrán incluir además recintos de equipamiento para el funcionam
 
 A su vez, aquellos proyectos que se desarrollan en áreas declaradas latentes o saturadas y que deban ingresar al Sistema de Evaluación de Impacto Ambiental, conforme lo establece el reglamento del Sistema de Evaluación de Impacto Ambiental, aprobado mediante el DS Nº 40, del Ministerio del Medio Ambiente, del año 2012, deberán cumplir con las exigencias resultantes de esa evaluación, destinadas a mitigar la emisión de material particulado.
 
-9.12. Para los efectos de intervenciones de Adquisición de Viviendas o Rehabilitación de Inmueble Existente, el Serviu podrá autorizar excepciones al cumplimiento de las exigencias de este resuelvo, siempre que se resguarden criterios de utilidad, funcionalidad y recintos mínimos de las unidades de vivienda.
+9.12. Para los efectos de intervenciones de Adquisición de Vivienda o Rehabilitación de Inmueble Existente, el Serviu podrá autorizar excepciones al cumplimiento de alguna o algunas las exigencias señaladas en el resuelvo 9. Estándar Técnico, de las resoluciones descritas en los Vistos f) y g), de la presente resolución, o el Cuadro Normativo Abreviado descrito en el numeral 9.1, precedente, si a juicio de dicho Servicio se acredita que el inmueble resguardará criterios de habitabilidad y funcionalidad de las unidades de vivienda.
 
 ### 10. Asistencia Técnica:
 
