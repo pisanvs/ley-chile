@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 327 EXENTA, DE 2022
+
+Por resolución exenta Nº 327, de fecha 1 de junio de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Coquimbo, se autoriza a la escuela de conductores profesionales "Sociedad de Capacitación Escuela Profesional de Conductores Gran Vía Limitada", de propiedad de la sociedad del mismo nombre, RUT Nº 76.100.403-4, cuyo domicilio está ubicado en calle Rojas Poniente Nº 1505, comuna de La Serena; representada legalmente por José Miguel de Jesús Rodríguez Romero; cuyos planes y programas fueron autorizados mediante resolución exenta Nº 109, de 2012, a impartir los cursos conducentes a la obtención de la licencia de conductor profesional clase A2 y A4 en la modalidad e-learning, bajo el formato de ejecución asincrónico.-
+
+Alejandra Andrea Maureira Flores, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
