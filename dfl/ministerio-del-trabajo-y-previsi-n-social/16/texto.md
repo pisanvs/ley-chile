@@ -2030,6 +2030,12 @@ con el Decreto
 
 con Fuerza de Ley N° 33 de 1983.
 
+#### Artículo 3º
+
+Facúltase al Director o a la Directora General del Crédito Prendario para condonar los intereses moratorios de los créditos pignoraticios otorgados por la Dirección General del Crédito Prendario, que se hubieren devengado durante el periodo comprendido entre el 25 de marzo del año 2020 y el 31 de marzo del año 2022.
+
+Para efectos de lo señalado en el inciso anterior, el Director o la Directora General del Crédito Prendario deberá establecer un procedimiento para la condonación, mediante resolución exenta con autorización del Ministerio del Trabajo y Previsión Social, en un plazo no mayor a quince días desde la publicación de la presente ley. El o la empeñante deberá solicitar la condonación mediante una solicitud escrita, acompañada del pago o reliquidación de su deuda, dentro del plazo de seis meses contado desde la dictación de la resolución exenta señalada en este inciso.
+
 Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Alfonso Márquez de la Plata Y., Ministro del Trabajo y Previsión Social.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Guillermo Arthur Errázuriz, Subsecretario del Trabajo.
