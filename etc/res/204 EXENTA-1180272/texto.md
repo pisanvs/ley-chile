@@ -1,0 +1,35 @@
+APRUEBA AMPLIACIÓN DEL ALCANCE DE ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES ASIMET ASESORÍAS S.A., AL PERFIL OCUPACIONAL QUE INDICA
+
+Núm. 204 exenta.- Santiago, 2 de agosto de 2022.
+
+Visto:
+
+Lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; en el Reglamento que regula la Comisión del Sistema Nacional de Certificación de Competencias Laborales, establecido por decreto supremo Nº 137, de 2008, del Ministerio del Trabajo y Previsión Social; en el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, aprobado por decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social; la resolución exenta Nº 1.068, de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 281, de 26 de noviembre de 2020, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que aprueba el procedimiento de Ampliación de Alcance de Acreditación, para los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 335, de 14 de diciembre de 2021, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que acreditó a la sociedad Asimet Asesorías S.A., como Centro de Evaluación y Certificación de Competencias Laborales, complementada con la resolución exenta Nº 24, de 13 de enero de 2022, de esta Comisión; en la resolución exenta Nº 194, de 25 de julio de 2022, de esta Comisión, que cerró la etapa de evaluación de la solicitud de ampliación de alcance presentada por dicho Centro; el acuerdo Nº 1.022, de 2022, adoptado en la centésima cuadragésima segunda sesión ordinaria del directorio de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, celebrada con fecha 26 de julio de 2022; el Anexo de Acta de Compromiso suscrito por el Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A.; la resolución exenta Nº 63, de 2020, modificada por la resolución exenta Nº 327, de 31 de diciembre de 2020, ambas de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que establece medidas de gestión interna en la Comisión, que deberá cumplir su personal, para hacer frente a la situación sanitaria relacionada con el brote de Coronavirus (COVID-19); la resolución Nº 7, de 2019, de la Contraloría General de la República; y las facultades que me confiere el artículo 9º de la ley Nº 20.267.
+
+Considerando:
+
+1. Que, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante ChileValora o la Comisión, es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, cuya función es la implementación de las acciones reguladas en la ley Nº 20.267.
+
+2. Que, mediante resolución exenta Nº 281, de 2020, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, aprobó el Procedimiento de Ampliación de Alcance de Acreditación de los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales.
+
+3. Que, mediante resolución exenta Nº 335, de 2021, complementada por la resolución exenta Nº 24, de 2022, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, acreditó a la sociedad Asimet Asesorías S.A., como Centro de Evaluación y Certificación de Competencias Laborales, por un plazo de 3 años, para prestar los servicios de evaluación y certificación de competencias laborales en los perfiles detallados en este acto administrativo.
+
+4. Que, habiendo presentado una solicitud de ampliación de alcance de su acreditación, se ha determinado que el Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A., cumple con los requisitos normativos para efectuar procesos de evaluación y certificación en los sectores, subsectores y perfiles ocupacionales solicitados, conforme se da cuenta en la resolución exenta Nº 194, de 2022, que cierra el proceso de evaluación de dicha solicitud.
+
+5. Que, mediante acuerdo Nº 1.022, de 2022, adoptado en su centésima cuadragésima segunda sesión ordinaria, celebrada con fecha 26 de julio del mismo año, el órgano colegiado de ChileValora resolvió autorizar la ampliación del alcance al Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A. al perfil ocupacional detallado en el primer numeral de la parte resolutiva del presente acto administrativo.
+
+6. Que, con fecha 1 de agosto de 2022, se formalizó el anexo de acta de compromiso suscrita por el Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A., en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Apruébase la ampliación del alcance de la acreditación del Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A., RUT Nº 76.007.801-8, al perfil ocupacional de Gestor(a) de Inclusión Laboral (P-7830-2423-001-V01), del sector Servicios, subsector Servicios Administrativos y de Apoyo.
+
+2. Ingrésese el nuevo perfil ocupacional en el que se encuentra acreditado el Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A., RUT Nº 76.007.801-8, a la ficha que de éste se mantiene en el Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+3. Publíquese la presente resolución en el Diario Oficial, sin perjuicio que las futuras modificaciones de los códigos del perfil ocupacional antes señalado, se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales, sin necesidad de una nueva publicación.
+
+4. Impútense los ingresos recibidos por concepto de aranceles pagados por el Centro de Evaluación y Certificación de Competencias Laborales Asimet Asesorías S.A. por la solicitud de ampliación de alcance registrada con el ID SA-2020-13-14-025 en la plataforma informática habilitada para estos efectos, al subtítulo 07 "Ingresos de Operación", del presupuesto de la Comisión del Sistema Nacional de Certificación de Competencias Laborales para el año 2022.
+
+5. Téngase presente que, la ampliación de la acreditación concedida por el presente acto administrativo tendrá vigencia desde su publicación en el Diario Oficial y durante el plazo que dure la acreditación del Centro.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Ximena María Rivillo Oróstica, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
