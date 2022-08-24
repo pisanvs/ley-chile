@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO: "NUEVA CENTRAL SOLAR FOTOVOLTAICA LAS GUINDILLAS"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se notifica que mediante la resolución exenta N° 202206001145, de fecha 2 de agosto de 2022, de la Dirección Regional del Servicio de Evaluación Ambiental de la Región del Libertador General Bernardo O'Higgins, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el marco del procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Nueva Central Solar Fotovoltaica Las Guindillas", (en adelante, "Proyecto"), presentada por doña Gloria Elizabeth Echeverría Cádiz, en representación de Sur Solar SpA, (en adelante, el "Proponente"), formalizada al Sistema de Evaluación de Impacto Ambiental (en adelante, "SEIA") con fecha 18 de abril de 2022.
+
+El Proyecto se ubicará en la comuna de San Fernando, perteneciente a la provincia de Colchagua, Región del Libertador General Bernardo O'Higgins.
+
+El Proyecto ingresa al sistema de evaluación de impacto ambiental, cumpliendo con lo señalado por el legislador, conforme se señala en el artículo 3° del DS N° 40/2012, del Ministerio del Medio Ambiente, en particular, en el literal c) correspondiente a Centrales generadoras de energía Mayores a 3 MW.
+
+Cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012, el cual, señala que: "(...) las personas que intervengan tendrán los derechos y obligaciones establecidos en los artículos 90 y 91" (Derecho a formular observaciones), y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles (señalado en el artículo 94 inciso tercero del DS N° 40/2012), contados a partir del día siguiente de la esta publicación del presente extracto.
+
+El texto íntegro de la resolución que resuelve iniciar un proceso de participación ciudadana, puede ser conocido en la Dirección Regional del Servicio de Evaluación Ambiental, ubicada en calle Campos N° 241, piso 7, ciudad de Rancagua, o en el siguiente link: https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=normal&id_expediente=2155648796<1.-
+
+Pedro Pablo Miranda Acevedo, Director Regional del Servicio de Evaluación Ambiental Región del Libertador General Bernardo O'Higgins.
