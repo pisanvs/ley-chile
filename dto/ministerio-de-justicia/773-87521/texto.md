@@ -14,7 +14,7 @@ D e c r e t o:
 
 #### Artículo 1º
 
-La fecha de vencimiento de las cédulas de identidad para chilenos, emitidas a partir del 1 de julio de 1998 por el Servicio de Registro Civil e Identificación, se calculará de acuerdo a las siguientes reglas:
+La fecha de vencimiento de las cédulas de identidad para chilenos y chilenas, emitidas a partir del 1 de julio de 1998 por el Servicio de Registro Civil e Identificación, se calculará de acuerdo a las siguientes reglas:
 
 a) El tiempo transcurrido desde que se emite la cédula hasta que ésta venza variará entre cinco y diez años.
 
@@ -32,11 +32,13 @@ g) A las personas cuya fecha de nacimiento sea el 29 de febrero, para efectos de
 
 #### Artículo 2º
 
-La cédula de identidad para extranjeros con permanencia temporal, tendrá un plazo de validez igual al de su respectiva visación y la que se otorgue al titular de permanencia definitiva tendrá una validez de 5 años.
+Sin perjuicio de lo dispuesto en el artículo precedente, en caso de emitirse cédulas de identidad para chilenos y chilenas, utilizando los mismos datos biométricos del titular que obren completos en poder del Servicio de Registro Civil e Identificación y hubieren sido capturados para la emisión de su última cédula de identidad vencida, aquéllas tendrán un período de vigencia de tres años. Este período de vigencia se calculará de la manera indicada en las reglas del artículo 1º, letras b) y g), según correspondiere.
+
+Para efectos de lo dispuesto en el inciso precedente, se entenderá por datos biométricos completos la fotografía, firma e impresiones dactilares de una persona, que obren en poder del Servicio por un plazo no superior a ocho años contado desde la respectiva captura.
 
 #### Artículo 3º
 
-Todo lo anterior se establece, sin perjuicio de lo dispuesto en el artículo 1º del Decreto Ley Nº 1.268 del año 1975.
+La cédula de identidad que se otorgue a los extranjeros con residencia temporal deberá expedirse de conformidad con el plazo de vigencia que registre el permiso de residencia respectivo, de acuerdo con lo dispuesto en el artículo 43 de la Ley Nº 21.325, de Migración y Extranjería, y aquella que se otorgue al titular de residencia definitiva tendrá una validez de 5 años.
 
 Anótese, tómese razón, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- María Soledad Alvear Valenzuela, Ministra de Justicia.
 
