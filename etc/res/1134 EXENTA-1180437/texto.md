@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.134, de 16 de agosto de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprueba el Gabinete Técnico de la Ilustre Municipalidad de Puerto Octay, que tendrá su funcionamiento en calle Germán Wulf S/Nº, comuna de Puerto Octay, Región de Los Lagos, por cumplir los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Puerto Octay, para otorgar licencias de conductor conforme a las disposiciones del DFL Nº 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley de Tránsito y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle algunos de los requisitos que hicieron posible la presente autorización.-
+
+Pablo Walterio Joost Winkler, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Los Lagos.
