@@ -36,17 +36,15 @@ De la administración
 
 #### Artículo 4º
 
-La administración del Servicio corresponderá al Consejo Administrativo, integrado por 6 miembros:
+La administración del servicio corresponderá al Consejo Administrativo, integrado por 6 miembros:
 
-a) El Director de este Servicio de Salud o la persona que éste designe en su reemplazo, quien lo presidirá;
+. El Director de este Servicio de Salud o la persona que este designe en su reemplazo, que lo presidirá, quedando su nombramiento oficializado por resolución exenta. Mientras que para los otros cargos sólo se hará referencia al cargo.
 
-b) El Jefe del Departamento de Recursos Humanos;
+. El Subdirector/a de Gestión y Desarrollo de las Personas de la Dirección del Servicio de Salud Metropolitano Occidente o quien subrogue.
 
-c) El Jefe de Asesoría Jurídica, y
+. El Jefe de Asesoría Jurídica o a quien subrogue o designe. El que será denominado por Jefe del Departamento.
 
-d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
-
-El Jefe del Servicio actuará como Secretario del Consejo, teniendo en él derecho a voz pero no a voto.
+. Tres representantes de los afiliados/as, uno de los cuales será designado por la asociación de los funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
 
 #### Artículo 5º
 
@@ -88,7 +86,7 @@ b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspo
 
 Si ambos padres fuesen afiliados, cada uno de ellos tendrá derecho a este beneficio.
 
-c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
+c) Se otorgará un subsidio por Gastos de Sepultura al funcionario/a afiliado/a que careciere de él y a sus cargas familiares reconocidas, una vez acreditado el deceso de la persona con tope a fijar por Consejo Administrativo anualmente, estableciendo como máximo 10 UF.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
@@ -106,13 +104,13 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 También se otorgará una ayuda para adquisición de nicho-bóveda al funcionario afiliado que careciere de él y a sus cargas familiares reconocidas, una vez acreditado el deceso de la persona.
 
-d) Educación: El Servicio concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que realicen regularmente estudios de enseñanza básica, media, técnica y superior en algún establecimiento educacional del Estado, o reconocido por éste. Asimismo, el servicio concederá, además, una bonificación para calzado escolar a las cargas familiares del afiliado que realicen estudios de enseñanza básica.
+d) Educación: El servicio concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado/a o cargas familiares que realicen estudios de Enseñanza Básica, Media, Técnica y Superior en algún Establecimiento del Estado o reconocido por éste. Así mismo el Servicio concederá, además, una bonificación para calzado escolar, para las cargas familiares del afiliado/a que cursen regularmente en los niveles de prebásica y básica. Se entenderá por niveles prebásicos: Pre Kinder y Kinder.
 
 e) Becas de estudio: El Servicio, siempre que su disponibilidad presupuestaria lo permita, podrá otorgar becas de estudio a los afiliados y a sus cargas familiares que cursen enseñaza básica, media, técnica y superior en establecimientos educacionales del Estado, o reconocidos por éste, cuando su situación socioeconómica y/o rendimiento académico lo amerite.
 
 f) Ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el art. 15º del Reglamento General o artículo 8º del presente Reglamento.
 
-g) Catástrofe: Cuando el afiliado haya sufrido graves daños en su vivienda o haya perdido parte importante de los enseres a causa de incendio, terremoto, inundaciones u otro hecho fortuito.
+g) Catástrofe: Cuando el afiliado/a haya sufrido grandes daños en su vivienda o haya perdido parte importante de sus enseres a causa de incendio, terremoto, inundaciones u otro hecho fortuito.
 
 La gravedad de los hechos será calificada y cuantificada por la Asistente Social de Personal y Consejo Administrativo.
 
@@ -128,7 +126,7 @@ El Servicio podrá conceder préstamos a sus afiliados cuando sus recursos lo pe
 
 1. Préstamo médico: Se otorgará como complemento de las prestaciones a que se refiere el artículo 8º del presente Reglamento, y su monto no será superior a tres ingresos mínimos mensuales por afiliado cada 12 meses.
 
-2. Préstamo personal: Se otorgará una vez al año con el objeto de propender al mejoramiento de las condiciones familiares de los afiliados. Su monto no podrá exceder de un y medio ingresos mínimos mensuales por afiliado cada 12 meses.
+2.- Préstamo Personal: Se otorgará una vez al año, con el objeto de propender al mejoramiento de las condiciones familiares de los afiliados/as. Su monto máximo será determinado anualmente por el Consejo Administrativo, el que no podrá ser superior a $500.000.
 
 Para solicitar un nuevo préstamo personal será necesario haber pagado íntegramente el anterior.
 
@@ -158,19 +156,15 @@ La solicitud de cualquier tipo de préstamos será suscrita además del afiliado
 
 #### Artículo 14º
 
-Las cuotas que el afiliado adeude al Servicio por préstamos o por concepto de crédito de casas comerciales, no podrán en ningún caso exceder del 40% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que el afiliado/a adeude al Servicio por préstamos o concepto de crédito de casas comerciales no podrán en ningún caso exceder del 15% de la remuneración imponible para pensiones del afiliado/a o de su pensión según corresponda.
 
 #### Artículo 15º
 
-El Servicio propenderá al progreso social, cultural, deportivo y artístico de sus afiliados y familiares utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
-
-Con este objeto, el Servicio podrá conceder ayudas a los Jardines infantiles, Colonias de vacaciones, Hogares sociales, Casino de personal, Clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+El Servicio propenderá al progreso social, cultural, deportivo y artístico, de los afiliados/as y familiares, podrá conmemorar el Día Internacional del Día de la Mujer, Día de la Madre, Día del Padre, Día del Niño, Conmemoración del Día Internacional del Trabajo, Celebración de Fiestas Patrias, Aniversario de la Institución, utilizando el máximo de los recursos y facilidades que otras entidades o la comunidad pueda proporcionarle.
 
 #### Artículo 16º
 
-El Servicio podrá celebrar la festividad de Navidad para sus afiliados y sus cargas familiares de acuerdo a sus recursos financieros.
-
-El Consejo Administrativo anualmente fijará el porcentaje del presupuesto que deberá destinarse para estos efectos.
+El Servicio podrá celebrar la festividad de Navidad para sus afiliados/as y sus cargas familiares de acuerdo a sus recursos financieros. El Consejo Administrativo anualmente fijará el porcentaje del presupuesto que deberá destinarse para estos efectos. /En el marco de estas actividades se podrán entregar "bonos en dinero o especies" a los/as afiliados/as "aprobados por el Consejo Administrativo".
 
 #### Artículo 17º
 
@@ -206,9 +200,7 @@ h) Con los demás bienes o recursos que el Servicio obtenga a cualquier otro tí
 
 #### Artículo 19º
 
-Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Unica, Fiscal y contra ella sólo podrán girar conjuntamente el Jefe del Servicio y el funcionario que designe el Jefe Superior de la institución.
-
-En caso de ausencia o impedimento de estos giradores, serán reemplazados para estos efectos, el primero, por el Director de la Institución o quien éste designe, y el segundo, por el Jefe del Departamento de Recursos Humanos, a falta de éste, por el funcionario que el Consejo Administrativo designe.
+Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria a la cuenta única fiscal y contra ella sólo podrán girar conjuntamente; el Jefe/a del Servicio de Bienestar y el/la Subdirector/a de Gestión y Desarrollo de las Personas o Jefe de Finanzas de la Dirección, quien en caso de no encontrarse disponible ninguno de los designados, estará habilitado para firmar.
 
 ## Título VI
 
