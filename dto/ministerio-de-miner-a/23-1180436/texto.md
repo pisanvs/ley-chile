@@ -28,6 +28,6 @@ Decreto:
 
 4.- Déjase constancia que la vacancia del cargo de Vicepresidente Ejecutivo de la Comisión Chilena del Cobre se ha producido a contar del 19 de mayo del año 2022, sin perjuicio de la fecha posterior en que quede totalmente tramitado el presente acto administrativo.
 
-Anótese, tómese razón, notifíquese y publíquese.- GABRIEL BORIC FONT, Presidente de la República.- Marcela Hernández Pérez, Ministra de Minería.
+Anótese, tómese razón, notifíquese y publíquese.- GABRIEL BORIC FONT, Presidente de la República.- Marcela Hernando Pérez, Ministra de Minería.
 
 Lo que transcribo a usted, para su conocimiento.- Saluda atentamente a usted, Willy Kracht Gajardo, Subsecretario de Minería.
