@@ -162,9 +162,11 @@ La responsabilidad administrativa se extingue por la muerte o retiro del persona
 
 En el caso del personal que a la fecha de su retiro se encuentre sometido a Investigación Sumaria Administrativa, el procedimiento deberá continuarse hasta su normal término, anotándose en su Hoja de Vida la sanción que el resultado del sumario determine.
 
-La acción disciplinaria contra el personal prescribirá en dos años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
+La acción disciplinaria contra el personal prescribirá en cuatro años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
 
 La prescripción de la acción disciplinaria se suspende desde la fecha de la resolución que ordene la instrucción de la investigación sumaria administrativa correspondiente.
+
+Si el proceso administrativo se paraliza por más de dos años, o transcurren dos calificaciones funcionarias sin que haya sido sancionado, continuará corriendo el plazo de prescripción como si no se hubiese suspendido.
 
 ## Capítulo 2
 
@@ -197,6 +199,12 @@ Las actuaciones y diligencias de las investigaciones serán reservadas y sólo p
 Una vez terminada la investigación se le podrá dar publicidad, siempre que así lo estime conveniente la Autoridad a quien le haya correspondido resolver.
 
 Al Fiscal y al Secretario les está estrictamente prohibido comentar o divulgar los hechos que conozcan con motivo de la investigación, aún después de terminada ésta. La transgresión de esta prohibición se considerará, según su trascendencia, falta grave o gravísima, a menos que constituya delito.
+
+#### Artículo 14 bis
+
+Toda Investigación Sumaria Administrativa podrá tramitarse a través de medios electrónicos, debiendo constar en un expediente de igual naturaleza.
+
+Los Comandantes en Jefe Institucionales, quedan facultados para dictar las instrucciones necesarias para la implementación de la tramitación electrónica en sus respectivas instituciones."
 
 B.- DEL EXPEDIENTE.
 
@@ -248,47 +256,43 @@ a.- Normas Generales.
 
 El Fiscal que se designe, asistido por su Secretario, procederá a practicar todas las diligencias que estime convenientes para el esclarecimiento de los hechos ordenados investigar, siguiendo el procedimiento señalado para cada caso y dentro de los plazos establecidos en el artículo 12:
 
-El Fiscal estará sujeto a las eventuales responsabilidades disciplinarias que se deriven por el incumplimiento de lo dispuesto en el inciso anterior.
+Las diligencias investigativas podrán efectuarse a través de medios electrónicos, telemáticos, o a través de cualquier medio tecnológico apto para ello.
 
-#### Artículo 20º
+El Fiscal estará sujeto a las eventuales responsabilidades disciplinarias que se deriven por el incumplimiento de lo dispuesto en el inciso primero.
 
-El cuerpo del expediente se irá formando con las actuaciones (declaraciones, documentos, informes, etc.) que se practiquen y con las Resoluciones que el Fiscal dicte sucesivamente, guiándose para redactarlos por los modelos de formularios anexos a este Reglamento y que hayan sido aprobados en conformidad al Art. 24º. Esta secuencia sólo se interrumpe para agregar documentos inmediatamente después de terminada la diligencia que se está efectuando.
+#### Artículo 20
 
-Cada hoja, sea con diligencia o documentos, será numerada por el Secretario, correlativamente, con cifras que se colocarán en su parte superior, en el orden cronológico en que se realicen las diligencias o lleguen los documentos.
+El expediente se irá formando con las actuaciones que se practiquen y con las resoluciones que el Fiscal dicte sucesivamente. Esta secuencia sólo se interrumpe para agregar documentos inmediatamente después de terminada la diligencia que se está efectuando.
 
-No podrán desglosarse las hojas que constituyen el expediente, pero excepcionalmente y por motivos fundados, podrá desglosarse documentos. En este caso, el Secretario procederá a reemplazar tales documentos por una hoja que contenga los datos elementales para su ubicación, si fuere necesario, y una somera enunciación de lo que éste contenía. La hoja de reemplazo podrá ser una sola cuando se trate de sustituir a varias hojas seguidas y, en caso contrario, se colocará una hoja por cada documento que fuere menester desprender del expediente. Las hojas de reemplazo serán firmadas por el Fiscal y Secretario y no se alterará la numeración de las hojas que queden en el expediente.
+Cada página o pieza que se incorpore al expediente, será numerada según el orden cronológico en que se recepcione el documento o se realice la diligencia.
 
-El Secretario verificará la ordenación correlativa de las hojas y documentos que forman la investigación. Asimismo, elaborará la carátula correspondiente y asegurará el conjunto del expediente con tres broches, corchetes o costuras igualmente espaciados en el alto y a un centímetro del borde izquierdo del expediente.
+En caso de daño, alteración, destrucción o pérdida de un expediente, en trámite o terminado, la autoridad que ordenó instruir dicha Investigación Sumaria Administrativa deberá dictar una resolución ordenando su reconstitución, previo informe del funcionario a cargo de su custodia donde compruebe haber agotado todas las medidas necesarias para su búsqueda, adjuntando las copias que obraren en su poder. Lo anterior, es sin perjuicio de las medidas disciplinarias que proceda imponer a los responsables, si los hubiere.
 
-En caso de pérdida o destrucción de un expediente, en trámite o terminado, la autoridad que ordenó instruir dicha investigación sumaria administrativa, deberá dictar resolución ordenando su reconstitución, previo informe del Fiscal donde compruebe haber agotado todas las medidas necesarias para su ubicación. Lo anterior, es sin perjuicio de las medidas disciplinarias que proceda imponer a los responsables, si los hubiere.
+Para los efectos señalados en el inciso anterior, se podrá aprovechar aquellos documentos y/o archivos digitales o físicos de los que exista copia fidedigna, debiendo proceder en lo demás de acuerdo a la tramitación ordinaria de la investigación.
 
-Para los efectos señalados en el inciso anterior, el Fiscal podrá aprovechar aquellas piezas de que exista copia fidedigna, debiendo proceder en lo demás de acuerdo a la tramitación ordinaria de la investigación.
+No podrán desglosarse las piezas del expediente, salvo por razones fundadas, debiendo dejarse constancia de aquellas en el expediente, mediante certificación expedida por el Secretario, la cual reemplazará a los documentos o piezas extraídos, dejándose constancia de la cantidad de los mismos, a objeto de no alterar la numeración del expediente, debiendo en lo posible efectuar su reemplazo por copias autenticadas por el Secretario.
 
-#### Artículo 21º
+#### Artículo 21
 
-Las diligencias y actuaciones del Fiscal se escribirán en ambas carillas en papel proceso a máquina o a mano con letra clara y legible, cuando sea absolutamente imposible hacerlo a máquina, siguiendo las líneas correspondientes. A falta de papel proceso se usará papel oficio rayado o papel original para máquina siguiendo el mismo sistema.
+Las diligencias y actuaciones del Fiscal serán escritas debiendo extenderse sin abreviaturas, salvo las reglamentarias, y sin dejar espacios en blanco. Si es necesario enmendar una o más palabras, el Fiscal y el Secretario suscribirán un documento rectificatorio de aquel que deba enmendarse. En la expresión de las fechas, horas, cantidades y números, se emplearán cifras, salvo que los mismos puedan influir o ser esenciales en la determinación del hecho investigado y sus circunstancias, en cuyo caso deberá estamparse con cifras y letras.
 
-Las diligencias deben extenderse sin abreviaturas, salvo las reglamentarias, sin dejar blancos y sin raspar el papel para hacer enmiendas. Pero si es necesario enmendar o entrerreglonar una o más palabras, el Fiscal y el Secretario pondrán su media firma al margen de las enmendaduras o entrerreglonaduras. Cuando sea necesario anular una o más palabras se colocarán entre paréntesis y se dejará constancia al final de la diligencia y antes de las firmas, que tal o tales palabras entre paréntesis, no valen.
+#### Artículo 22
 
-En la expresión de las fechas, horas, cantidades y numeración, se emplearán cifras, salvo que tales expresiones puedan influir o ser esenciales en la determinación del hecho investigado y sus circunstancias, en cuyo caso deberá estamparse con cifras y letras.
-
-#### Artículo 22º
-
-El Secretario inutilizará en las hojas de las diligencias todas las páginas o parte de ellas que hubieren quedado en blanco por cualquier motivo, trazando dos líneas diagonales cruzadas y rubricando en lugar visible.
-
-Cuando se agreguen documentos, deberá colocarse al final o al reverso de ellos, y como resolución de la Fiscalía, después del lugar y fecha, "A los Antecedentes", suscribiéndola el Fiscal y Secretario.
+El Secretario inutilizará las hojas en blanco de las diligencias, estampando además su rúbrica en éstas. Asimismo, dejará constancia de la recepción y agregación de los respectivos documentos señalando la fecha y lugar.
 
 #### Artículo 23º
 
 Por regla general, las notificaciones que se realicen en una investigación deberán hacerse personalmente, entregando copia íntegra de la resolución respectiva, y bajo firma del notificado, dejando constancia de todo ello en el expediente. Con todo, la citación de testigos se efectuará de conformidad a lo dispuesto en los artículos 47°, 48° y 49° del presente reglamento.
 
-Si no pudiese hacerse la notificación en la forma establecida en el inciso anterior, ella podrá practicarse mediante carta certificada, oficio, radiograma u otro medio análogo, dirigido a su domicilio o al lugar donde se encontrare la persona que debe ser notificada, conteniendo copia íntegra o transcripción de la actuación, trámite o resolución respectiva. De este hecho deberá dejarse constancia en el expediente, entendiéndose realizada la notificación, cumplidos tres días desde el despacho o envío de los referidos documentos.
+Si no pudiese hacerse la notificación en la forma establecida en el inciso anterior, ella podrá practicarse mediante carta certificada, oficio, radiograma u otro medio análogo, dirigido a su domicilio o al lugar donde se encontrare la persona que debe ser notificada, conteniendo copia íntegra o transcripción de la actuación, trámite o resolución respectiva. De este hecho deberá dejarse constancia en el expediente, entendiéndose realizada la notificación, cumplidos tres días desde el despacho o envío de los referidos documentos. De las notificaciones por carta certificada, se dejará constancia en el procedimiento y se entenderán practicadas a contar del tercer día hábil siguiente a su recepción en la oficina de Correos que corresponda.
 
 No obstante lo anterior y para el caso que la persona que debe ser notificada se encontrare imposibilitada absolutamente en razón de enfermedad, para tomar conocimiento de alguna resolución que le afecte, ésta deberá comunicarse personalmente o por carta certificada a las personas que dispone el articulo 88 bis de la Ley 18.948, Orgánica Constitucional de las Fuerzas Armadas, en el orden que en ese mismo artículo se establece, con el objeto de que ellas adopten las medidas necesarias para el adecuado resguardo de los derechos e intereses del afectado. Si dentro de las personas a notificar se encontraren menores de edad, no se perfeccionará la notificación hasta que se comunique la resolución respectiva a sus representantes legales.
 
 Serán funcionarios competentes para efectuar las notificaciones a que se refiere este artículo, el Fiscal y el Secretario de la investigación, durante el curso de su tramitación, y el personal de la sección o departamento de personal de la Unidad o Repartición donde presta servicios la persona que deba ser notificada, para efectos de notificar la resolución de la autoridad que ordenó instruir la investigación, de cualquier otro superior, o cuando la notificación deba practicarse en un lugar geográfico distinto a aquél en que funciona la Fiscalía.
 
 Sin perjuicio de lo dispuesto en este artículo, cada Institución podrá establecer normas particulares de notificación en materia de investigaciones sumarias administrativas, para casos calificados, los que deberán garantizar a la persona que se notifica, el oportuno y completo conocimiento de la resolución o actuación correspondiente, permitiéndole ejercer los derechos a que haya lugar.
+
+Los notificados, en su primera comparecencia podrán fijar voluntariamente una casilla de correo electrónico para efectos de futuras notificaciones. Asimismo, se les dará a conocer una casilla electrónica a la cual puedan hacer llegar antecedentes, recursos y otras solicitudes que procedan.
 
 #### Artículo 24º
 
@@ -370,19 +374,17 @@ El Fiscal podrá interrogar al declarante en el lugar en que hubieren ocurrido l
 
 Las preguntas versarán sobre los actos, materia de la investigación, o que se relacionen con ella. El Fiscal dejará que el declarante narre sin interrupción los hechos sobre los cuales declara y solamente le exigirá las explicaciones que sean necesarias para aclarar puntos obscuros o dudosos de su declaración. Después le dirigirá las preguntas que crea oportunas para completar su exposición.
 
-#### Artículo 35º
+#### Artículo 35
 
-El Fiscal será el encargado de redactar, dictándole al Secretario, las declaraciones que haga y las respuestas al interrogatorio que dé el declarante, haciéndolo en la forma más exacta y precisa, y empleando en lo posible, las mismas palabras utilizadas por éste.
+El Fiscal será el encargado de redactar o transcribir, dictándole o reproduciéndole al Secretario, las declaraciones que haga y las respuestas al interrogatorio que dé el declarante, haciéndolo en la forma más exacta y precisa, y empleando en lo posible, las mismas palabras utilizadas por éste. Tratándose de las investigaciones sumarias administrativas tramitadas electrónicamente, las declaraciones podrán ser grabadas e incorporadas como archivo de audio o registro audiovisual en el expediente, dejándose constancia de ello en un acta resumida.
 
 #### Artículo 36º
 
 En determinadas circunstancias y atendiendo especialmente a la gravedad del asunto investigado y a la preparación y cultura del declarante, el Fiscal podrá permitir que aquél dicte su declaración o que consulte en su presencia apuntes o notas sobre el particular.
 
-#### Artículo 37º
+#### Artículo 37
 
-El declarante podrá leer su declaración una vez que ésta haya sido escrita; si no lo hiciere, se la leerá en voz alta el Secretario.
-
-La declaración será firmada por el declarante y por el Fiscal y Secretario. Si el declarante no pudiere o no quisiere firmar, se dejará constancia consignándose la razón de ello.
+El declarante podrá leer o revisar su declaración una vez que ésta haya sido escrita, transcrita o incorporada electrónicamente según sea el caso. La declaración o acta resumida será firmada por el declarante, por el Fiscal y el Secretario. Si el declarante no pudiere o no quisiere firmar, se dejará constancia consignándose la razón de ello, por parte del Secretario.
 
 #### Artículo 38º
 
@@ -434,7 +436,7 @@ Con todo, el derecho establecido en el presente artículo podrá ser renunciado 
 
 No pueden ser obligados a declarar como testigos cuando se trate de establecer responsabilidad de determinada persona:
 
-a) El cónyuge del inculpado, sus ascendientes o descendientes, sus padres o hijos adoptivos, sus parientes colaterales legítimos dentro del cuarto grado de consanguinidad (hermanos, tíos, sobrinos carnales y primos hermanos), parientes por afinidad en línea directa o dentro del segundo grado de la colateral (suegros, yernos, cuñados, etc.).
+a) El cónyuge o conviviente civil del inculpado, sus ascendientes o descendientes, sus padres o hijos adoptivos, sus parientes colaterales legítimos dentro del cuarto grado de consanguinidad (hermanos, tíos, sobrinos carnales y primos hermanos), parientes por afinidad en línea directa o dentro del segundo grado de la colateral (suegros, yernos, cuñados, etc.).
 
 b) Aquellas personas que, por su estado, profesión o función legal, como abogado, médico o confesor, tienen el deber de guardar el secreto que se les haya confiado, pero únicamente en lo que se refiere a dicho secreto.
 
@@ -568,7 +570,7 @@ Los documentos públicos otorgados fuera de Chile, deberán presentarse debidame
 
 #### Artículo 67º
 
-Para que los documentos privados tengan valor probatorio, deberán ser reconocidos por quien los haya escrito o firmado, siempre que el Fiscal estime necesario el reconocimiento para los fines de la investigación.
+Para que los documentos privados en soporte papel o digital tengan valor probatorio, deberán ser reconocidos por quien los haya escrito o firmado, siempre que el Fiscal estime necesario el reconocimiento para los fines de la investigación.
 
 #### Artículo 68º
 
@@ -577,6 +579,8 @@ Se agregarán a la investigación los documentos emanados de terceras personas, 
 Cuando el Fiscal estime necesario agregar a la investigación documentos secretos pertenecientes o emanados de las Fuerzas Armadas, Carabineros o Policía de Investigaciones, los requerirá mediante solicitud fundada dirigida por conducto regular a la autoridad institucional correspondiente. Sin embargo, si la autoridad requerida considerare que su remisión puede afectar la seguridad del Estado, la Defensa Nacional, el orden público o la seguridad de las personas, podrá rehusarse a ello. En tal caso, el Fiscal podrá recurrir a la autoridad superior respectiva, pudiendo llegar por conducto regular hasta el Comandante en Jefe, General Director o Director General, según el caso, quien resolverá en definitiva.
 
 El Fiscal dispondrá la formación de un cuaderno separado para agregar los documentos secretos que le sean remitidos, al que se incorporarán las declaraciones de testigos que se requiera mantener en reserva para preservar secretos que interesen a la seguridad del Estado, la Defensa Nacional, el orden público o la seguridad de las personas.
+
+Tratándose de Investigaciones Sumarias Administrativas tramitadas electrónicamente se contemplará un módulo encriptado o de acceso restringido para efectos de incorporar documentación secreta, de manera que el expediente electrónico sólo reflejará la circunstancia de que determinado archivo corresponde a un documento secreto. En caso de digitalizarse e incorporarse en el sistema un documento secreto, el Fiscal podrá restituir o destruir la copia del documento original remitida, según corresponda, dejando siempre constancia de dichas actuaciones en el expediente.
 
 Todos los que hubieren tomado conocimiento de estos antecedentes estarán obligados a mantener el secreto de su existencia y contenido, aun cuando hubiere terminado la investigación.
 
@@ -706,7 +710,7 @@ La autoridad que ordenó instruir la investigación sumaria administrativa podr�
 
 3. Parte Estimativa, que contendrá las proposiciones fundadas y concretas que el Fiscal hace, dando por establecido o no el hecho investigado, y solicitando se absuelva o sancione a los que aparezcan como responsables o inculpados, dejando una constancia que con esa misma fecha hace entrega de la investigación a la Autoridad que la ordenó instruir.
 
-En el caso de que en el Dictamen Fiscal o en su ampliación posterior, aparezcan cargos contra determinada persona, la autoridad que ordenó instruir la investigación la pondrá en conocimiento del o los inculpados por intermedio del Fiscal, y por escrito, para que en el término de cinco días contados desde la fecha de notificación, respondan a los cargos que existan en su contra, agregando al expediente los escritos de descargos correspondientes. Para estos efectos el expediente se facilitará al afectado, a su representante, o al abogado al que le haya solicitado su asesoría, debiendo mantenerse dentro del recinto militar.
+En el caso de que en el Dictamen Fiscal o en su ampliación posterior, aparezcan cargos contra determinada persona, se pondrán en conocimiento del o los inculpados por intermedio del Fiscal, por escrito, para que en el plazo de cinco días hábiles contado desde la fecha de su notificación pueda responder los mismos, formulando las alegaciones y defensas que estime convenientes, los que serán agregados al expediente. Para estos efectos se facilitará el expediente al inculpado o a su representante, si lo tuviere y se le otorgarán las copias que solicitare. Tratándose de documentación calificada de secreta conforme al artículo 68 se facilitará el cuaderno separado para su examen al inculpado o su representante, debiendo mantenerse dentro de la Unidad Militar.
 
 #### Artículo 85º
 
@@ -742,27 +746,25 @@ b.- Reconsideración, Reclamación y Apelación.
 
 #### Artículo 90º
 
-Una vez notificada la resolución del superior al afectado o inculpado, éste dispondrá del término de tres días para interponer Recurso de Reconsideración ante la misma autoridad, acompañando todos los antecedentes que estime necesarios para el fallo del mismo.
+Una vez notificada la resolución del superior al afectado o inculpado, éste dispondrá del término de cinco días para interponer Recurso de Reconsideración ante la misma autoridad, acompañando todos los antecedentes que estime necesarios para el fallo del mismo.
 
-La autoridad dispondrá de un plazo máximo de cinco días para resolver la reconsideración. Una vez resuelta, tal decisión será notificada debidamente al recurrente.
+La autoridad dispondrá de un plazo máximo de diez días para resolver la reconsideración. Una vez resuelta, tal decisión será notificada debidamente al recurrente.
 
 #### Artículo 91º
 
-El personal que no se conformare con la resolución recaída en un Recurso de Reconsideración, podrá interponer Recurso de Reclamación debidamente fundado, dirigido al superior directo del Jefe contra cuya decisión se reclama, dentro del plazo de tres días contados desde la fecha de notificación de la resolución dictada por la autoridad competente.
+El personal que no se conformare con la resolución recaída en un Recurso de Reconsideración, podrá interponer Recurso de Reclamación debidamente fundado, dirigido al superior directo del Jefe contra cuya decisión se reclama, dentro del plazo de cinco días contados desde la fecha de notificación de la resolución dictada por la autoridad competente.
 
 El recurso será entregado por el reclamante a su superior directo, el cuál lo hará llegar por conducto regular hasta la autoridad a quien va dirigido. Una vez recibido por el superior que deba conocerlo, éste dispondrá del plazo de diez días para emitir su resolución, la que deberá ser puesta en conocimiento del reclamante.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, la reclamación seguirá los demás trámites que se señalan al respecto en el correspondiente Reglamento de Disciplina.
 
-#### Artículo 92º
+#### Artículo 92
 
-Si el reclamante no se considerare satisfecho con la resolución del superior recaída en un Recurso de Reclamación, tendrá derecho a apelar de ella ante el superior de la autoridad de cuya resolución se apela, en el plazo de tres días, contados desde el momento en que le fue notificado el fallo de la reclamación, siguiendo el mismo procedimiento señalado en el artículo anterior.
+Si el reclamante no se considera satisfecho con la resolución del superior recaída en un recurso de reclamación, podrá interponer un recurso de apelación ante el superior de la autoridad cuya resolución se apela, en el plazo de cinco días contado desde que le fuera notificada la resolución que resolvió la reclamación. Esta autoridad conocerá de la apelación en única instancia.
 
-Se podrá interponer apelación sucesivamente del fallo de las apelaciones, hasta llegar al Comandante en Jefe Institucional. Sólo en aquellos casos en que el afectado o inculpado considere menoscabados sus derechos y atribuciones, o cuando la sanción que se le aplique sea la de retiro, se podrá apelar hasta el Presidente de la República.
+Sin perjuicio de lo dispuesto en el inciso anterior y tratándose de la sanción disciplinaria de licenciamiento del servicio impuesto al personal del cuadro permanente, personal de tropa profesional y gente de mar, siempre se podrá interponer recurso de apelación sucesivo y por conducto regular, hasta el Comandante en Jefe Institucional.
 
-El Recurso de Apelación seguirá los demás trámites que se señalan al respecto en el correspondiente Reglamento de Disciplina.
-
-No obstante lo dispuesto en los artículos 90°, 91° e incisos anteriores del presente artículo, en la Armada todo recurso en contra de una sanción disciplinaria, deberá ser interpuesto ante la autoridad que corresponda, en el plazo fatal de 5 días hábiles contados desde la fecha de la notificación de la resolución que la haya impuesto.
+Tratándose de aquellos casos en que la sanción sea aplicada por el Comandante en Jefe, procederá solo el recurso de reclamación ante el Ministro de Defensa Nacional. En el caso de que se trate de una sanción aplicada por esta última autoridad, solo procederá el recurso de reconsideración ante la misma.
 
 c.- Archivo del Expediente.
 
@@ -812,7 +814,7 @@ b) Lesiones leves: son aquellas que previsiblemente no producirán consecuencias
 
 La autoridad institucional, una vez que tome conocimiento de un accidente, pedirá a un Oficial de Sanidad o Médico de la Institución que informe la clasificación de las lesiones. Este informe deberá evacuarse en el plazo máximo de 24 horas y contendrá una descripción anatómica de la lesión, su localización y clasificación como grave o leve, indicando brevemente las razones o circunstancias que determinan dicha calificación. Sólo se podrán calificar de leves las lesiones, cuando aparezca en forma inequívoca que no producirán consecuencias futuras ni determinarán incapacidad o inutilidad para el afectado.
 
-Si las lesiones fueren clasificadas de leves, el informe médico recibirá el nombre de Informe Médico Temporal y se pondrá en conocimiento del afectado, bajo firma. Hecho esto, se elevarán los antecedentes por oficio con un resumen de las circunstancias en que se produjo la lesión, a la Dirección o Comando de Personal correspondiente, para su archivo en la carpeta de antecedentes personales del afectado.
+Si las lesiones fueren clasificadas de leves, el informe médico recibirá el nombre de Informe Médico Temporal y se pondrá en conocimiento del afectado, bajo firma. Hecho esto, se elevarán los antecedentes por oficio con un resumen de las circunstancias en que se produjo la lesión, a la Dirección o Comando de Personal correspondiente, para su archivo en la carpeta de antecedentes personales del afectado. En este caso sólo se instruirá una Investigación Sumaria Administrativa si el afectado así lo solicita, o en caso de que no sea beneficiario del Sistema de Salud de las Fuerzas Armadas.
 
 Si las lesiones fueren calificadas de graves, o si como consecuencia de un mismo accidente hubiere lesionados graves y leves, se ordenará la instrucción de una investigación sumaria administrativa para todos los afectados.
 
@@ -820,7 +822,7 @@ Si dentro de los tres años siguientes al día en que ocurrió el accidente, un 
 
 #### Artículo 98º
 
-En la substanciación de investigaciones sumarias administrativas por lesiones o muerte en accidente en acto del servicio, enfermedades derivadas de éste y enfermedades profesionales, deberá siempre solicitarse informe a la respectiva Comisión de Sanidad, el que deberá indicar con precisión lo siguiente:
+En la substanciación de investigaciones sumarias administrativas por lesiones graves o muerte en accidente en acto del servicio, enfermedades derivadas de éste y enfermedades profesionales, deberá siempre solicitarse informe a la respectiva Comisión de Sanidad, el que deberá indicar con precisión lo siguiente:
 
 a) Descripción anatómica de las lesiones y su localización, acompañando radiografías, fotografías y demás exámenes o elementos anexos que fueren menester.
 
@@ -996,13 +998,13 @@ Cuando se instruya una Investigación Sumaria Administrativa por deterioro o des
 
 En el caso que corresponda instruir Investigación Sumaria Administrativa por disconformidad en los envíos de vestuario y equipo o al aparecer diferencias entre los pesos indicados en la Guía respectiva y el anotado en su recepción, deberá acompañarse al expediente un Certificado extendido por el Jefe de Estación o funcionario que entregue los bultos, en el cual se deja constancia de este hecho.
 
-#### Artículo 115º
+#### Artículo 115
 
-En todas estas Investigaciones Sumarias Administrativas se dejará constancia del valor actual de la especie y/o el costo de su reparación cuando fuere posible. En caso de haber responsables, establecerá la forma como se distribuirá entre éstos el valor a pagar, conforme a la mayor o menor responsabilidad que se haya determinado en la investigación.
+En todas estas Investigaciones Sumarias Administrativas se dejará constancia del valor actual de las especies y/o el costo de reparación cuando fuere posible. En aquellos casos en que la indagatoria determine que les cabe responsabilidad a funcionarios o ex funcionarios por el perjuicio causado al patrimonio fiscal, deberá verificarse la existencia de pólizas de fidelidad funcionarias, cauciones o seguros que puedan hacerse efectivos y de no existir los mismos, o bien de ser insuficientes para cubrir el perjuicio causado, deberán efectuarse las gestiones pertinentes para hacer exigible su responsabilidad a través de los Tribunales Ordinarios de Justicia o ante el Tribunal de Cuentas de la Contraloría General de la República, según corresponda.
 
-La modalidad de estos pagos será determinada por la Dirección logística correspondiente, de acuerdo a las normas legales y reglamentarias vigentes sobre la materia.
+Con todo, la Autoridad llamada a resolver la respectiva investigación deberá ponderar el tipo de riesgo asociado a la naturaleza de la actividad que efectuaban los funcionarios, al momento de generarse el daño a las especies fiscales, así como toda otra circunstancia que surja del mérito de la investigación para determinar la eventual responsabilidad de los involucrados.
 
-En los casos de accidentes en que resulten dañados vehículos motorizados, equipo, u otro elemento de combate, el Comandante de la Unidad respectiva, una vez evacuado los peritajes correspondientes, dispondrá su inmediata reparación sin necesidad de esperar el término de la investigación sumaria.
+En los casos de accidentes en que resulten dañados vehículos motorizados, naves o aeronaves, equipos u otros elementos de combate, el Comandante de la Unidad respectiva, una vez efectuadas las diligencias y peritajes correspondientes, dispondrá su inmediata reparación sin esperar el término de la Investigación Sumaria Administrativa.
 
 D. ACCIDENTES DE AVIACIÓN.
 
@@ -1067,6 +1069,10 @@ INVESTIGACIONES SUMARÍSIMAS
 Las investigaciones que se originen en el Ejército y en la Fuerza Aérea a causa de los hechos descritos en el artículo 2° N° 8, inciso segundo, se substanciarán mediante el formulario tipo N° 12 que se detalla en anexo de este reglamento.
 
 Las autoridades facultadas para instruir una Investigación Sumarísima serán las mismas señaladas en el artículo 4° de este reglamento.
+
+Toda Investigación Sumarísima podrá tramitarse a través de medios electrónicos, debiendo constar en un expediente de igual naturaleza.
+
+Los Comandantes en Jefe Institucionales, quedan facultados para dictar las instrucciones necesarias para la implementación de la tramitación electrónica en sus respectivas instituciones.
 
 #### Artículo 127º
 
