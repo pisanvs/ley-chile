@@ -658,7 +658,7 @@ El superior no debe permitir que su estado de ánimo personal influya en la acti
 
 409. En caso de aniversarios patrios o con ocasión de actos que signifiquen una celebración general de la unidad, el Comandante o Jefe podrá suspender las sanciones durante el día de la celebración, pero en ningún caso podrán ser dejadas sin efecto.
 
-410. La facultad de sancionar faltas prescribe en el término de 6 meses, contados desde que tomó conocimiento de ellas el superior que debe sancionarlas; pero si de un proceso judicial o de una investigación sumaria administrativa se desprende que el hecho en cuestión debe ser sancionado disciplinariamente, podrá aplicarse la sanción correspondiente aun después de transcurridos los seis meses a que se ha hecho referencia.
+410. La acción disciplinaria contra el personal prescribirá en cuatro años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubiere hechos constitutivos de delitos, la acción disciplinaria prescribirá conjuntamente con la acción penal.
 
 411. El personal de la Armada que se encuentre como pasajero o en comisión en otro buque o repartición o a las órdenes de otra autoridad, estará sometido a la acción disciplinaria del Comandante o Jefe bajo cuya jurisdicción se encuentre.
 
@@ -674,9 +674,7 @@ En todo caso, el Jefe del afectado deberá estar informado del curso de los ante
 
 415. Una misma falta, sin perjuicio de lo prescrito en el artículo 111, sólo podrá ser sancionada por un solo superior y con una sola pena.
 
-416. Impuesta una sanción y notificada oficialmente, sólo podrá ser suspendida, postergada, modificada o anulada, por la autoridad que la impuso.
-
-No obstante, si el superior inmediato u otro directo de la autoridad que aplicó la sanción, tiene conocimiento oportuno de la sanción impuesta y estima que no es suficiente, que se ha procedido con demasiado rigor o que no hay falta, deberá hacerlo presente a la autoridad que ordenó la sanción, a fin de que ésta la aumente, disminuya o anule según el caso, aunque no haya mediado reclamación del inculpado, o para que lo solicite a la autoridad competente si no tuviere atribuciones para ello.
+416. Impuesta una sanción y notificada oficialmente, solo podrá ser suspendida, postergada, modificada o anulada, por la autoridad que la impuso o los superiores de esta, mediante los recursos de reconsideración, reclamación o apelación.
 
 ## Título V
 
@@ -734,11 +732,15 @@ Se prohíben los reclamos colectivos. Si un mismo hecho puede dar motivo a vario
 
 602. Los reclamos podrán presentarse verbalmente o por escrito ante la autoridad que impuso la sanción, la cual resolverá. En caso que su resolución denegare total o parcialmente la solicitud de reconsideración, deberá dar curso al reclamo ante el superior que corresponda, si fuere escrito y no contuviere expresiones inconvenientes, irrespetuosas o incompatibles con las normas militares, y si fuere verbal, otorgará la venia al afectado para proceder ante el superior respectivo.
 
-603. El derecho a reclamo podrá ejercitarse por conducto regular hasta llegar al Presidente de la República, observándose lo dispuesto en el artículo anterior, en cuanto a la reconsideración a que previamente deberá ser sometido.
+603. Si el reclamante quisiere impugnar la resolución del superior, tendrá derecho a presentar un recurso de apelación ante el superior jerárquico de la autoridad cuya resolución se apela, en el plazo de cinco días contados desde que esta le fuera notificada. Esta autoridad conocerá de la apelación en última instancia.
+
+En aquellos casos en que la sanción sea aplicada por el Comandante en Jefe, procederá solo el recurso de reclamación ante el Ministro de Defensa Nacional. En el caso de que se trate de una sanción aplicada por esta última autoridad, solo procederá el recurso de reconsideración ante la misma.
+
+Sin perjuicio de lo dispuesto en el inciso anterior y tratándose de la sanción disciplinaria de licenciamiento del Servicio impuesta a la gente de mar y tropa profesional, siempre se podrá interponer recurso de apelación sucesivo y por conducto regular, hasta el Comandante en Jefe Institucional.
 
 604. Cuando la autoridad respectiva, no habiendo reconsiderado la sanción impuesta, se negare a dar curso o conceder la venia para seguir el reclamo, siempre que éste se hubiere hecho por conducto regular y en la forma debida, podrá el afectado presentarlo verbalmente o por escrito, siempre por conducto regular, al superior que corresponda, expresando a éste que ha debido proceder en esta forma en vista de la negativa recibida. En todo caso, dará aviso en forma respetuosa al superior que negó la autorización, del procedimiento que adoptará, y sin este requisito su solicitud será desestimada y el contraventor incurrirá en falta que será sancionada por quien corresponda.
 
-605. Si su reclamo iniciado como verbal deseare seguirse hasta el Presidente de la República y el afectado estuviere prestando servicios en un buque o repartición que no se encontrare en la ciudad asiento de dicha autoridad, tal reclamo deberá consignarse por escrito ante el superior que debe darle curso.
+605. Derogado.
 
 606. La autoridad que impuso la sanción y las que intervengan en cada grado del reclamo, deberán informar por escrito al remitirlo al superior respectivo.
 
