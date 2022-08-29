@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 659 EXENTA, DE 24 DE AGOSTO DE 2022
+
+Por resolución exenta N° 659, de 24 de agosto de 2022, del Gobierno Regional de Ñuble.
+
+- **1.-** Que, mediante oficio de fecha 23 de agosto del año 2022 presentado por doña Yaqueline Cortez Zapata en representación del Establecimiento Educacional Nuestra Señora del Carmen de la comuna Portezuelo, solicitando corte de tránsito vehicular en calle Catedral entre las esquinas de las calles Baquedano y San Martín y calle O'Higgins entre las esquinas de las calles Baquedano y San Martín, comuna de Portezuelo, para el día 25 de agosto del año 2022, desde las 14:00 horas hasta las 16:00 horas, con la finalidad de realizar la actividad denominada "Corrida Familiar Padre Ricardo Sammon".
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo, con dicho corte de tránsito en la comuna de Portezuelo, de acuerdo a los términos que se indica: calle Catedral entre las esquinas de las calles Baquedano y San Martín y calle O'Higgins entre las esquinas de las calles Baquedano y San Martín, comuna de Portezuelo, para el día 25 de agosto del año 2022, desde las 14:00 horas hasta las 16:00 horas.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL N° 1, de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en calle Catedral entre las esquinas de las calles Baquedano y San Martín y calle O'Higgins entre las esquinas de las calles Baquedano y San Martín, comuna de Portezuelo, para el día 25 de agosto del año 2022, desde las 14:00 horas hasta las 16:00 horas, con la finalidad de realizar la actividad denominada "Corrida Familiar Padre Ricardo Sammon".
+
+Anótese y publíquese.- Alicia Contreras Vielma, Gobernadora Regional (S), Gobierno Regional de Ñuble.
