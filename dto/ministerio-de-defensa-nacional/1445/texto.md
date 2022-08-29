@@ -282,11 +282,7 @@ Se evitará imponer castigos colectivos, en atención a que, generalmente, una a
 
 #### Artículo 41
 
-Una vez notificado un castigo, sólo podrá suspenderlo, postergarlo o dejarlo sin efecto, por causa justificada, la autoridad que lo impuso o los superiores de ésta, sobre la base de una reclamación.
-
-No obstante, si el superior inmediato u otro directo de mayor categoría que la del que aplicó castigo tiene conocimiento oportuno de la sanción impuesta y opina que ella no es suficiente, que se ha procedido con demasiado rigor o que no ha existido falta, deberá ordenar, después de oír al que impuso el castigo, que lo aumente, disminuya o anule, aun cuando no haya mediado una reclamación del inculpado.
-
-En caso de que el Oficial que impuso el castigo no esté conforme con la apreciación del superior, podrá reclamar en la forma prescrita por este Reglamento.
+Una vez notificado un castigo, sólo podrá suspenderlo, postergarlo o dejarlo sin efecto, por causa justificada, la autoridad que lo impuso o los superiores de ésta, sobre la base de una reclamación o apelación.
 
 #### Artículo 42
 
@@ -294,11 +290,7 @@ El que reiteradamente incurre en erradas aplicaciones de castigos, demuestra fal
 
 #### Artículo 43
 
-La facultad de sancionar faltas prescribe en el término de seis meses contados desde que tomó conocimiento de ella el superior que debe sancionarlas; pero si un proceso militar o una investigación sumaria administrativa da como resultado que el hecho en cuestión debe ser sancionado disciplinariamente, podrá aplicarse la sanción correspondiente aun después de transcurridos los seis meses a que se ha hecho referencia.(1)
-
-----------
-
-(1) Artículo sustituido, por el que aparece en el texto, por el Decreto Supremo (Sub. Guerra) N.° 100, de l-X-1985.
+La acción disciplinaria contra el personal prescribirá en cuatro años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubiere hechos constitutivos de delitos, la acción disciplinaria prescribirá conjuntamente con la acción penal.
 
 #### Artículo 44
 
@@ -720,7 +712,7 @@ Si Oficiales de categoría superior o más antiguos que el Comandante de Guarnic
 
 Por regla general, es competente para conocer de un hecho que debe ser castigado disciplinariamente, el superior jerárquico del presunto culpable.
 
-Los superiores de un rango más alto son competentes cuando el hecho se ha cometido a su vista o contra su autoridad, por individuos de varias Unidades subordinadas; cuando el castigo ha sido sometido a su resolución; o cuando el superior competente en primera instancia no ha sancionado la acción punible, a pesar de tener conocimiento de ella.
+Los superiores de un rango solo serán competentes cuando el hecho se ha cometido a su vista o contra su autoridad, por individuos de varias unidades subordinadas y/o cuando el castigo ha sido sometido a su resolución, en virtud de lo dispuesto en el artículo siguiente.
 
 #### Artículo 61
 
@@ -792,7 +784,7 @@ El personal sometido a una doble subordinación será sancionado por el Oficial 
 
 #### Artículo 73
 
-Cuando un individuo haya cambiado de subordinación después de cometida una falta, pero antes de haber sido sancionado por ella, la atribución de castigar esa falta pasará al superior común del Jefe que debió sancionarla primitivamente y del Jefe que actualmente depende.
+Cuando haya variado la situación de subordinación de un individuo después de cometida una falta, pero antes de haber sido sancionado por ella, la atribución de castigarla corresponderá a la autoridad bajo cuyo mando se cometió.
 
 ## Capítulo VI
 
@@ -908,23 +900,21 @@ GENERALIDADES
 
 #### Artículo 78
 
-Todo miembro de las Fuerzas Armadas cuando estime que se le ha impuesto un castigo injusto o se le ha hecho una anotación en su Hoja de Vida que considera que le afecta en su carrera, tiene derecho a solicitar reconsideración y, posteriormente, interponer reclamación.
+Todo miembro de las Fuerzas Armadas cuando estime que se le ha impuesto un castigo injusto o se le ha hecho una anotación en su Hoja de Vida que considera que le afecta en su carrera, tiene derecho a solicitar reconsideración y, posteriormente, interponer reclamación y apelación conforme a los artículos siguientes.
 
-Cuando juzgue que se le ha tratado indebidamente por sus superiores o compañeros, o cuando considere menoscabados sus derechos o atribuciones, entablará sólo reclamación de acuerdo con el procedimiento que para ello se señala en los artículos siguientes, conformándolos a la naturaleza del reclamo.
+De la misma manera, quien estime que ha sido tratado indebidamente por sus superiores o compañeros, o considere que se le han menoscabado sus derechos o atribuciones podrá recurrir ante sus superiores, entablando los recursos de reclamación y apelación en los términos señalados en los artículos siguientes.
 
 #### Artículo 79
 
-El afectado podrá solicitar al superior que adoptó la medida, su reconsideración. Si éste mantuviera su resolución, aquél podrá reclamar ante el superior directo del jefe y, por conducto regular, hasta el Comandante en Jefe institucional, en materias que digan relación con el mantenimiento de la disciplina, y hasta el Presidente de la República, en aquellos casos en que considere menoscabados sus derechos y atribuciones o cuando la sanción que se aplique sea la de retiro.(1)
+El afectado podrá solicitar al superior que adoptó la medida su reconsideración, dentro del plazo de cinco días hábiles contado desde la notificación de la medida. Si este mantuviera su resolución, aquel podrá reclamar ante el superior directo del jefe, en el mismo plazo anterior. No conforme con lo resuelto, el afectado podrá interponer recurso de apelación ante el superior directo del jefe que resolvió la reclamación, en el plazo de cinco días hábiles, quien conocerá en última instancia, sin ulterior recurso.
 
-No se podrá interponer reclamación sin que antes se hubiere solicitado reconsideración al castigo o sanción impuesta, salvo el caso mencionado en el inciso segundo del artículo anterior.
+Sin perjuicio de lo dispuesto en el inciso anterior y tratándose del castigo disciplinario de licenciamiento del servicio impuesto al personal del cuadro permanente, personal de tropa profesional y gente de mar, siempre se podrá interponer recurso de apelación sucesivo y por conducto regular, hasta el Comandante en Jefe institucional.
 
------------
-
-(1) Artículo modificado, como aparece en el texto, por el artículo único, letra k), del Decreto N° 660 (556), de 26 de junio de 1987.
+No se podrá interponer reclamación ni apelación, sin que antes se hubiere solicitado reconsideración al castigo impuesto.
 
 #### Artículo 80
 
-En el caso que la sanción fuese impuesta directamente por el Comandante en Jefe institucional, el afectado sólo podrá reclamar ante el Ministro de Defensa Nacional, salvo lo estipulado en el artículo anterior.
+En el caso que la sanción fuese impuesta directamente por el Comandante en Jefe institucional, el afectado solo podrá reclamar ante el Ministro de Defensa Nacional. En el caso de que se trate de una sanción aplicada por esta última autoridad, solo procederá el recurso de reconsideración ante la misma.
 
 #### Artículo 81
 
@@ -936,7 +926,7 @@ Si el reclamante estuviere imposibilitado para hacer las actuaciones por escrito
 
 #### Artículo 83
 
-Las reclamaciones no podrán ser presentadas sino después de transcurrida una noche a contar desde el momento en que el reclamante ha tenido conocimiento del hecho que motiva el reclamo, y a más tardar dentro del plazo de tres días.
+Las reclamaciones no podrán ser presentadas sino después de transcurrida una noche a contar desde el momento en que el reclamante ha tenido conocimiento del hecho que motiva el reclamo, y a más tardar dentro del plazo de cinco días hábiles.
 
 ## Capítulo II
 
@@ -982,7 +972,7 @@ APELACION Y TRAMITES POSTERIORES
 
 #### Artículo 91
 
-La apelación contra el fallo de una reclamación deberá interponerse en el plazo fatal de tres días contados desde el momento en que se le notificó al apelante el fallo de la reclamación.
+La apelación contra el fallo de una reclamación deberá interponerse en el plazo fatal de cinco días hábiles contados desde el momento en que se le notificó al apelante el fallo de la reclamación.
 
 La apelación deberá expresar circunstanciadamente las razones en las cuales se fundamente.
 
@@ -1000,9 +990,7 @@ Una vez recibidas las apelaciones por el superior de cuya resolución se apela, 
 
 #### Artículo 93
 
-El reclamante podrá apelar sucesivamente del fallo de sus anteriores apelaciones, repitiéndose el procedimiento indicado en los artículos 91 y 92, hasta llegar al Presidente de la República en los casos que correspondiere.
-
-Cuando la reclamación tenga por origen anotaciones hechas en las Hojas de Vida, las reclamaciones sólo llegarán hasta el Comandante en Jefe respectivo, cuyo fallo se tendrá por definitivo.(1)
+Derogado.
 
 #### Artículo 94
 
@@ -1018,11 +1006,9 @@ Toda reclamación, manifiestamente infundada o que no se ajuste en su forma y en
 
 #### Artículo 97
 
-Cuando durante una reclamación ha variado la situación de subordinación del reclamante, pasará a ser competente para fallarla el superior que tenga atribuciones disciplinarias sobre ambos. En este caso, el Comandante de la Unidad, Buque, Base o Repartición en que hubiere tenido origen la reclamación deberá poner en conocimiento del superior que falla, el expediente respectivo.
+Cuando durante una reclamación o apelación ha variado la situación de subordinación del recurrente, no se alterará por ello la competencia de las autoridades llamadas a conocer de estos recursos.
 
 ----------
-
-(1) Artículo modificado, como aparece en el texto, por el artículo único, letra ñ), del Decreto N° 660 (556), de 26 de junio de 1987.
 
 (2)Los incisos 2° y 3° de este artículo fueron derogados por el artículo único, letra o), del Decreto N° 660 (556), de 26 de junio de 1987.
 
