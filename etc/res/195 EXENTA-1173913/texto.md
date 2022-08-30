@@ -42,6 +42,8 @@ a. Laboratorio Clínico
 
 b. Salud Pública
 
+c. Laboratorio Forense
+
 3. Déjase constancia que, concluido el plazo de 5 años, desde la publicación de la presente resolución, la Corporación Nacional de Certificación de Especialidades Farmacéuticas (Conacef) deberá acreditar ante el Ministerio de Salud el mantenimiento de las condiciones que justificaron su autorización.
 
 4. Remítase a la Superintendencia de Salud, una copia de los antecedentes tenidos a la vista para el otorgamiento de la autorización.
