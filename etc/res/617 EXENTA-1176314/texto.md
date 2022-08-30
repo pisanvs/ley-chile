@@ -116,6 +116,8 @@ Se permitirá la postulación de inmuebles pertenecientes a una sucesión heredi
 
 14. El ahorro se podrá acreditar hasta el último día del mes anterior de la postulación. La constructora podrá girar el ahorro de las familias al inicio de las obras, siempre y cuando entregue al Serviu una garantía por el monto girado, que podrá ser una boleta de garantía bancaria o un certificado de fianza. En caso que el postulante renuncie al subsidio sin haberse comenzado su obra, la empresa constructora deberá hacer devolución del total del ahorro girado de su cuenta, en un plazo máximo de 1 mes desde que efectuó la renuncia y esta fue autorizada por el Serviu. En caso de no devolverlo, el Serviu hará efectiva la garantía para completar la devolución de dicho ahorro.
 
+El Ahorro se fijará tomando en cuenta el valor de la UF a la fecha de publicación del llamado en el Diario Oficial.
+
 15. En este llamado se ampliarán las entidades que pueden prestar Servicios de Asistencia Técnica para las familias interesadas en postular a los diferentes tipos de proyectos, previa firma de un convenio con el Serviu que los habilite para participar, las que, además de los PSAT, podrán ser:
 
 15.1. Las empresas constructoras: las cuales podrán postular cualquier tipo de proyectos, pero no podrán efectuar las labores de Inspección Técnica de Obra (o Fiscalización Técnica de Obras) de los proyectos que postulan, debiendo el Serviu efectuar dichas labores, ya sea directamente o contratando servicios de terceros, quienes deberán estar disponibles al inicio de las obras. Estas deberán cumplir con las siguientes condiciones:
@@ -236,6 +238,8 @@ a) Los montos de subsidio según tipo de proyecto de este llamado, que se aplica
 
 ***** Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el recambio completo de este.
 
+****** En proyectos de la Región de Aysén, en casos de viviendas de postulantes adultos mayores, siempre podrá aplicarse el monto máximo de Incremento por Complejidad Técnica, además se podrá en casos autorizados por Serviu, aumentar el monto del subsidio base y el monto del incremento por Complejidad Técnica en hasta un 30%.
+
 b) Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones que a continuación se indican:
 
 . Subsidio Base: Corresponde al monto de subsidio mínimo que se otorgará por cada beneficiario.
@@ -264,6 +268,8 @@ a) Las viviendas deberán contar con permiso de edificación y recepción defini
 
 b) Excepcionalmente podrán postular a este llamado viviendas cuya superficie exceda los 140 metros cuadrados, pudiendo llegar hasta los 200 metros cuadrados, previa revisión del Serviu de su factibilidad.
 
+c) En el caso de la Región de Aysén podrán postularse las viviendas que hayan obtenido su recepción definitiva posterior al 4 de enero de 2007, siempre y cuando se acredite que la edificación no cumple el estándar térmico tipo Zona I que se indica en el presente llamado, para lo cual se deberá adjuntar un informe técnico emitido por el Prestador de Servicios de Asistencia Técnica y validado por Serviu.
+
 26.3 La Asistencia Técnica se regirá por lo establecido en la resolución exenta Nº 533 (V. y U.), de 1997, sin perjuicio de disponer para este tipo de proyectos, las siguientes condiciones:
 
 A. Será responsabilidad de los Prestadores de Servicios de Asistencia Técnica (PSAT) que participen con este tipo de proyectos, la realización de las siguientes labores:
@@ -283,6 +289,8 @@ c) En general, realizar todas aquellas labores a que se refiere el DS Nº 255 (V
 d) El Plan de Habilitación Social se deberá aplicar a todos los beneficiarios, ya sean individuales o grupales, para que conozcan, a lo menos, las temáticas de uso, cuidado y mantención de la vivienda acondicionada, dado que, en atención a las particularidades climático-ambientales de estas zonas, son relevantes para evitar la aparición de humedad y hongos. Además, se autoriza a cada Serviu, si lo estimase conveniente, para que incorpore a este Plan requisitos específicos en materia de difusión, capacitación u otro que pudiese contribuir al buen funcionamiento de estos proyectos.
 
 B. Los honorarios de Asistencia Técnica que se otorgarán a este tipo de proyecto, serán los indicados en la tabla que se agrega a continuación:
+
+Los pagos de honorarios de Asistencia Técnica que se otorgarán a la Región de Aysén, serán de 5 UF para las labores de Organización de la Demanda, de 10 UF para la Gestión de Proyecto e I.T.O. y 5 UF para el Plan de Habilitación Social.
 
 C. En los casos en que la vivienda se encuentre en proceso de regularización, y el proyecto considere el incremento a que se refiere la tabla inserta en el punto 26.1 letra a) de la presente resolución, a los montos de asistencia técnica a que se refiere la tabla precedente se adicionarán, según corresponda, los honorarios que se detallan a continuación:
 
@@ -644,7 +652,7 @@ b) De los montos de subsidio: Los montos de subsidio de este llamado serán los 
 
 * En casos de Viviendas con Pisos Ventilados (art. 4.1.10 OGUC) estos montos se podrán aumentar en 40 UF.
 
-** En casos de viviendas de postulantes adultos mayores, siempre podrá aplicarse el monto máximo de Incremento por Complejidad Técnica.
+** En proyectos de la Región de Aysén, en casos de viviendas de postulantes adultos mayores, siempre podrá aplicarse el monto máximo de Incremento por Complejidad Técnica, además se podrá en casos autorizados por Serviu, aumentar el monto del subsidio base y el monto del incremento por Complejidad Técnica en hasta un 40%.
 
 *** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF, en casos de viviendas que no tengan ningún recinto con recepción final. No podrán postular a este monto adicional las viviendas que hayan sido beneficiadas con un subsidio de acondicionamiento térmico del Programa de Protección del Patrimonio Familiar hasta el año 2015 inclusive.
 
