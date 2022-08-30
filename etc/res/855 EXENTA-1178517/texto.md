@@ -56,7 +56,7 @@ d) Las personas jurídicas de derecho privado sin fines de lucro a que se refier
 
 Para la aplicación de los subsidios que se otorgan, regirán supletoriamente las disposiciones del DS Nº 49 (V. y U.), de 2011, en todo aquello que no se contraponga con lo dispuesto por la presente resolución.
 
-2. En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 21 de julio, 29 de julio, 25 de agosto, 25 de octubre y 15 de diciembre de 2022, ubicados dentro del área urbana de las regiones y comunas que se indican en la siguiente tabla:
+2. En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 21 de julio, 29 de julio, 30 de agosto, 25 de octubre y 15 de diciembre de 2022, ubicados dentro del área urbana de las regiones y comunas que se indican en la siguiente tabla:
 
 3. El total de recursos para la selección de proyectos postulantes al presente llamado alcanzará por región los montos en Unidades de Fomento que se señalan en la siguiente tabla:
 
