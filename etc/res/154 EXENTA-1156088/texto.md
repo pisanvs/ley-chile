@@ -24,7 +24,7 @@ Considerando:
 
 Resolución:
 
-1. Autorízase a la Universidad de Santiago de Chile, USACH, como entidad certificadora de las siguientes especialidades de prestadores individuales de salud:
+1. Autorízase a la Universidad de Santiago de Chile, USACH, como entidad certificadora de las siguientes especialidades médicas, de prestadores individuales de salud::
 
 a. Anatomía patológica.
 
@@ -58,7 +58,7 @@ o. Traumatología y ortopedia.
 
 2. Déjase constancia que concluido el plazo de 5 años, desde la publicación de la presente resolución, la Universidad de Santiago de Chile deberá acreditar ante el Ministerio de Salud el mantenimiento de las condiciones que justificaron su autorización.
 
-3. Déjase constancia que la autorización otorgada mediante el presente acto, permite a la Universidad de Santiago de Chile, certificar las especialidades odontológicas indicadas, de acuerdo a la normativa establecida en el decreto Nº 8 de 2013, del Ministerio de Salud; Norma Técnica Operativa Nº 145, relativa a certificación de las especialidades y subespecialidades médicas y odontológicas: requisitos generales y específicos, aprobada mediante decreto exento Nº 489, de 28 de diciembre de 2012; Norma Técnica Nº 182 relativa a requisitos específicos de postulación: descripción de aspectos técnicos y conocimientos mínimos para la certificación de especialidades médicas y odontológicas, de 29 de diciembre de 2015, y Norma Técnica Nº 195, relativa a requisitos específicos de postulación: descripción de aspectos técnicos y conocimientos mínimos para la certificación de las especialidades médicas y odontológicas que señala, aprobada mediante decreto exento Nº 284, de 30 de noviembre de 2017.
+3. Déjase constancia que la autorización otorgada mediante el presente acto, permite a la Universidad de Santiago de Chile, certificar las especialidades médicas indicadas, de acuerdo a la normativa establecida en el decreto Nº 8 de 2013, del Ministerio de Salud; Norma Técnica Operativa Nº 145, relativa a certificación de las especialidades y subespecialidades médicas y odontológicas: requisitos generales y específicos, aprobada mediante decreto exento Nº 489, de 28 de diciembre de 2012; Norma Técnica Nº 182 relativa a requisitos específicos de postulación: descripción de aspectos técnicos y conocimientos mínimos para la certificación de especialidades médicas y odontológicas, de 29 de diciembre de 2015, y Norma Técnica Nº 195, relativa a requisitos específicos de postulación: descripción de aspectos técnicos y conocimientos mínimos para la certificación de las especialidades médicas y odontológicas que señala, aprobada mediante decreto exento Nº 284, de 30 de noviembre de 2017.
 
 4. Instrúyase a la División de Gestión y Desarrollo de las Personas, enviar a la Superintendencia de Salud, una copia de los antecedentes tenidos a la vista para el otorgamiento de la autorización.
 
