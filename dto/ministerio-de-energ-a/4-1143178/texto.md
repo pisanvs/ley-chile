@@ -12,7 +12,7 @@ Lo informado por la Superintendencia de Electricidad y Combustibles en el oficio
 
 Decreto:
 
-1. Otórgase a Sociedad de Ingeniería Eléctrica Mataquito Limitada, concesión definitiva para establecer, operar y explotar en la Región de Atacama, provincias de Copiapó y Huasco, comunas de Copiapó y Huasco, las instalaciones de servicio público de distribución de energía eléctrica constitutivas del siguiente proyecto:
+1. Otórgase a Distribuidora de Energía Eléctrica Mataquito S.A., concesión definitiva para establecer, operar y explotar en la Región de Atacama, provincias de Copiapó y Huasco, comunas de Copiapó y Huasco, las instalaciones de servicio público de distribución de energía eléctrica constitutivas del siguiente proyecto:
 
 NOMBRE DEL PROYECTOREGIÓN/PROVINCIA/COMUNAS PLANO N°
 
