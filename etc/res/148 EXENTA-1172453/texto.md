@@ -46,11 +46,13 @@ e) Los correos electrónicos de fechas 19 y 24 de enero de 2022, que dan cuenta 
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en las alternativas de postulación individual y colectiva, para proyectos de Pequeño Condominio, Densificación Predial y Construcción en Sitio Propio, que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos los días 5 de mayo, 25 de agosto y 15 de diciembre de 2022, o hasta agotar la totalidad de los recursos dispuestos para cada región convocada, según alternativa de postulación, de acuerdo al cuadro inserto en el resuelvo siguiente.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en las alternativas de postulación individual y colectiva, para proyectos de Pequeño Condominio, Densificación Predial y Construcción en Sitio Propio, que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos los días 5 de mayo, 30 de agosto y 15 de diciembre de 2022, o hasta agotar la totalidad de los recursos dispuestos para cada región convocada, según alternativa de postulación, de acuerdo al cuadro inserto en el resuelvo siguiente.
 
 Para efectos del presente llamado, las tipologías señaladas en el párrafo precedente se denominarán "Intervenciones de Micro Radicación". Los proyectos de Micro Radicación que postulen al presente llamado podrán incluir todas o algunas de las tipologías identificadas, para un mismo grupo organizado postulante.
 
 2. Los recursos involucrados por región, para la selección de postulantes según alternativa, son los siguientes:
+
+.
 
 3. El número de proyectos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de ser financiados con las recursos previstos en la tabla inserta en el resuelvo 2, para cada alternativa señalada, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y/o ajustes de marco presupuestario que serán aprobados mediante resolución.
 
