@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº610, de 27 de julio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº21-A, para la obra: MEJORAMIENTO RUTA E-525, SECTOR EL TARTARO - LOS PATOS, que figura a nombre de FERNANDEZ MANCILLA ORIANA DEL C, rol de avalúo 451-22, Comuna de PUTAENDO, REGIÓN DE VALPARAÍSO, superficie 37 m2. La Comisión de Peritos integrada por MARÍA CRISTINA AYALA MUÑOZ, YAZMIN MERCEDES BALBOA ROJAS y MARIA ISABEL RIOS MARCUELLO, mediante informe de tasación de 31 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.591.800, para el lote Nº21-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
