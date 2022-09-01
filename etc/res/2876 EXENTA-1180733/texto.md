@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.876, de fecha 4 de agosto de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote 6801-8, correspondiente al inmueble ubicado en Pasaje Río Cochiguás N° 10971, Nacimiento, Rol de Avalúo 6801-8, comuna de La Pintana, Región Metropolitana, de aparente dominio de Carola Andrea Meneses Arrau, con una superficie aproximada de 60,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Villa Nacimiento Primera Etapa-Comuna de La Pintana". La Comisión de Peritos integrada por los señores Nicolás Romero Morales, Ingeniero en ejecución; Roberto Söhrens Camus, Arquitecto, y doña Luisa Aracena Hernández, Constructora civil, mediante Informe de fecha 22 de octubre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $42.517.825, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
