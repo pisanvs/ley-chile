@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°536, de 13 de julio de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP N°206 de 1960, se expropiaron los lotes de terreno N°s. 83 y 87, para la obra: CAMINO: MIRASOL BIFURCACIÓN QUINTAY, RUTA F-814, que figuran a nombre de SOTO GONZALEZ GUILLERMINA DEL CA y GUADALUPE PICON JUAN HECTOR, roles de avalúo 278-325 y 609-19, Comuna de ALGARROBO, REGIÓN DE VALPARAÍSO, superficies 256 y 438 m2. respectivamente. La Comisión de Peritos integrada por PEDRO MARIO OSVALDO ALMONACID COLÍN, BERNARDO LUIS VERA MANDAKOVIC y FELIPE JOSÉ VALDÉS GONZÁLEZ, mediante informe de tasación de 10 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $7.417.600, para el lote N°83 y $7.085.280, para el lote N°87. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
