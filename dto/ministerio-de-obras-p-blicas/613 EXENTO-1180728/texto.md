@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº613, de 27 de julio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº3, para la obra: CAMINO PUELO - PASO EL BOLSON, SECTOR: SEGUNDO CORRAL - LAGO INFERIOR, que figura a nombre de TRABUNCHE SPA, rol de avalúo 155-24, Comuna de COCHAMO, REGIÓN DE LOS LAGOS, superficie 4.160 m2. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 18 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $4.992.000, para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
