@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 59 de 26.Ene.2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a nombre de Alfonso del Corazón de Jesús Peró Costabal, C.I. 7.010.595-0, concesión marítima menor, con vencimiento 31.dic.2026, sobre un sector de playa, fondo de lago, porción de agua y uso de mejora fiscal, en el lugar denominado sector La Puntilla, ribera Lago Ranco, al sureste de Futrono, comuna de Futrono, provincia del Ranco, Región de Los Ríos, con una superficie total de 125,09 m², la que fue tramitada con el SIABC N° 35050. A modo referencial se señala la siguiente coordenada geográfica, vértice A, LAT 40°08'51,43" S; LOG 72°21'25,01", Datum DWG 84. El objeto es amparar la construcción existente de un embarcadero (atracadero) para naves menores de uso recreativo, una rampa y tres boyas de amarre para naves de hasta 25 TRG. Los antecedentes de la concesión se encuentran a disposición del público en la Capitanía de Puerto de Lago Ranco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Luis Romero Morales, Teniente 1° LT, Capitán de Puerto de Lago Ranco.
