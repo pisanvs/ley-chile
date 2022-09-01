@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 95, de 31.Ene.2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a nombre de Luis Alfonso Vergara Salas, CI 4.437.543-5, primera renovación de concesión marítima menor, con vencimiento el 31.Dic.2026, sobre sectores de playa, fondo de lago y porción de agua, en lugar denominado sector Pisada del Diablo (lado Este), ribera Sur del lago, comuna de Lago Ranco, provincia del Ranco, Región de Los Ríos, con una superficie total de 97,44 m², la que fue tramitada con el SIABC Nº 38096. A modo referencial se señala la siguiente coordenada geográfica vértice A, LAT 40º18'55,67" S; LOG 72º26'57,58" W, datum DWG 84. El objeto sobre los sectores otorgados es continuar amparando una rampa y una boya de amarre destinada a naves menores de uso recreativo. Los antecedentes de la concesión se encuentran a disposición del público en la Capitanía de Puerto de Lago Ranco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Luis Romero Morales, Teniente 1º LT, Capitán de Puerto de Lago Ranco.
