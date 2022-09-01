@@ -98,393 +98,819 @@ A) AYUDAS MEDICAS: Los beneficios médicos serán los establecidos en el artícu
 
 B) SUBSIDIOS DE CARACTER SOCIAL: Sin cargo de restitución, se otorgarán a los afiliados, por las causales y bajo las modalidades que se indican, los siguientes subsidios, según disponibilidad presupuestaria y cuando el socio haya cumplido 3 meses de antigüedad en el Servicio.
 
-b.1. Asignación por matrimonio o por acuerdo
+b.1. Asignación por matrimonio o por
 
-de Unión Civil: Se concederá un bono al afiliado(a)
+acuerdo de Unión Civil:
 
-que contraiga matrimonio o celebre un acuerdo de
+Se concederá un bono al
 
-unión civil. Si ambos contrayentes o celebrantes
+afiliado(a) que contraiga
 
-fuesen afiliados(as), las asignaciones se pagarán
+matrimonio o celebre
 
-a cada uno de ellos en forma independiente. El
+un acuerdo de unión
 
-derecho a este beneficio se acreditará mediante
+civil. Si ambos
 
-el correspondiente certificado. El monto de esta
+contrayentes o celebrantes
 
-asignación se fijará anualmente por el Consejo
+fuesen afiliados(as), las
+
+asignaciones se pagarán
+
+a cada uno de ellos en
+
+forma independiente. El
+
+derecho a este beneficio
+
+se acreditará mediante
+
+el correspondiente
+
+certificado. El monto
+
+de esta asignación se
+
+fijará anualmente por
+
+el Consejo
 
 Administrativo.
 
-b.2. Nacimiento o adopción: Se concederá una ayuda
+b.2. Nacimiento o adopción:
 
-por el nacimiento o adopción de cada hijo de
+Se concederá una ayuda
 
-los y las afiliados y afiliadas. Si ambos
+por el nacimiento o
 
-padres fuesen afiliados, cada uno de ellos
+adopción de cada hijo
 
-tendrá derecho al beneficio en forma
+de los y las afiliados
 
-independiente. En el caso de la adopción,
+y afiliadas. Si ambos
 
-la ayuda podrá solicitarse una vez que se
+padres fuesen
 
-haya otorgado la tuición para la adopción
+afiliados, cada uno de
 
-de un hijo, circunstancia que debe acreditarse
+ellos tendrá derecho
 
-con la respectiva resolución judicial. El
+al beneficio en forma
 
-monto de la asignación por nacimiento o
+independiente. En el
 
-adopción, se fijará anualmente por el
+caso de la adopción,
+
+la ayuda podrá
+
+solicitarse una vez
+
+que se haya otorgado
+
+la tuición para
+
+la adopción de un
+
+hijo, circunstancia
+
+que debe acreditarse
+
+con la respectiva
+
+resolución judicial.
+
+El monto de la
+
+asignación por
+
+nacimiento o
+
+adopción, se
+
+fijará anualmente
+
+por el Consejo
+
+Administrativo.
+
+b.3. Fallecimiento:
+
+Se concederá una ayuda
+
+económica por el
+
+fallecimiento del
+
+afiliado y de cada
+
+una de sus cargas
+
+familiares, incluido
+
+el mortinato a
+
+partir del quinto
+
+mes de gestación y
+
+el fallecimiento del
+
+hijo recién nacido,
+
+que no hubiere sido
+
+aún reconocido
+
+como carga familiar.
+
+En caso de fallecimiento
+
+del afiliado,
+
+esta ayuda se otorgará
+
+atendiendo al
+
+siguiente orden
+
+de precedencia:
+
+1) A la persona
+
+designada por
+
+escrito para
+
+tales efectos
+
+por el afiliado;
+
+2) Al cónyuge
+
+o conviviente
+
+civil sobreviviente;
+
+3) A la persona
+
+que acredite
+
+haber efectuado
+
+los gastos
+
+del funeral.
+
+El monto de
+
+la asignación
+
+por fallecimiento,
+
+se fijará
+
+anualmente
+
+por el Consejo
+
+Administrativo.
+
+b.4. Ayuda médica: En
+
+caso de enfermedad
+
+grave y tratamiento
+
+médico prolongado
+
+de alto costo
+
+del afiliado o
+
+causantes de
+
+asignación
+
+familiar,
+
+calificados
+
+como tales por el
+
+médico tratante
+
+y aprobado por el Consejo
+
+Administrativo, se podrá
+
+otorgar al afiliado
+
+una ayuda económica
+
+complementaria de las
+
+prestaciones contempladas
+
+en el artículo 8,
+
+letra a) de este
+
+Reglamento, siempre que
+
+exista disponibilidad
+
+presupuestaria.
+
+b.5. Asignación por escolaridad:
+
+Se concederá
+
+anualmente al afiliado
+
+y afiliada, por
+
+cada hijo acreditado
+
+como carga
+
+familiar, que curse
+
+estudios en los
+
+niveles: pre-básico,
+
+básico, medio,
+
+técnico, o de educación
+
+superior, en un
+
+establecimiento del
+
+Estado o reconocido
+
+por éste. Esta asignación
+
+se extenderá también
+
+al afiliado que
+
+se encuentre estudiando
+
+en algún establecimiento
+
+educacional de los niveles
+
+antes mencionados,
+
+según disponibilidad
+
+presupuestaria y normas
+
+que fijará el Consejo
+
+Administrativo. Esta
+
+ayuda se hará extensible
+
+a las cargas familiares
+
+que asistan a
+
+establecimientos de
+
+educación
+
+diferencial, en este
+
+último caso
+
+no será necesario
+
+que el establecimiento
+
+esté reconocido
+
+por el Estado.
+
+b.6. Becas de estudio:
+
+Se concederá a los
+
+socios que se encuentren
+
+cursando estudios de
+
+Educación Superior y
+
+de formación técnica y
+
+sus cargas familiares,
+
+como estímulo al buen
+
+rendimiento académico,
+
+según las
+
+disponibilidades
+
+presupuestarias y por el
+
+monto que se fijará
+
+anualmente por el Consejo
+
+Administrativo,
+
+quien además fijará las
+
+condiciones y número
+
+de becas a otorgar.
+
+b.7. Feriado Legal: Se
+
+concederá anualmente,
+
+de una sola vez, un
+
+bono al afiliado/a
+
+con motivo del
+
+periodo de vacaciones.
+
+La fecha en que se
+
+concederá el
+
+beneficio será
+
+determinada por el
 
 Consejo Administrativo.
 
-b.3. Fallecimiento: Se concederá una ayuda
+b.8. Desgravamen: Al
 
-económica por el fallecimiento del afiliado y
+fallecimiento de un
 
-de cada una de sus cargas familiares, incluido
+afiliado se entenderán
 
-el mortinato a partir del quinto mes de
+condonadas automáticamente
 
-gestación y el fallecimiento del hijo recién
+las deudas que tuviere
 
-nacido, que no hubiere sido aún reconocido
+pendientes con el
 
-como carga familiar. En caso de fallecimiento
+Servicio por concepto
 
-del afiliado, esta ayuda se otorgará
+de préstamos que éste
 
-atendiendo al siguiente orden de precedencia:
-
-1) A la persona designada por escrito para
-
-tales efectos por el afiliado;
-
-2) Al cónyuge o conviviente civil sobreviviente;
-
-3) A la persona que acredite haber efectuado
-
-los gastos del funeral.
-
-El monto de la asignación por fallecimiento,
-
-se fijará anualmente por el Consejo
-
-Administrativo.
-
-b.4. Ayuda médica: En caso de enfermedad grave y
-
-tratamiento médico prolongado de alto costo
-
-del afiliado o causantes de asignación
-
-familiar, calificados como tales por el médico
-
-tratante y aprobado por el Consejo
-
-Administrativo, se podrá otorgar al afiliado
-
-una ayuda económica complementaria de las
-
-prestaciones contempladas en el artículo 8,
-
-letra a) de este Reglamento, siempre que
-
-exista disponibilidad presupuestaria.
-
-b.5. Asignación por escolaridad: Se concederá
-
-anualmente al afiliado y afiliada, por cada
-
-hijo acreditado como carga familiar, que curse
-
-estudies en los niveles: pre-básico, básico,
-
-medio, técnico o de educación superior, en un
-
-establecimiento del Estado o reconocido por
-
-éste. Esta asignación se extenderá también al
-
-afiliado que se encuentre estudiando en algún
-
-establecimiento educacional de los niveles
-
-antes mencionados, según disponibilidad
-
-presupuestaria y normas que fijará el Consejo
-
-Administrativo. Esta ayuda se hará extensible a
-
-las cargas familiares que asistan a
-
-establecimientos de educación diferencial.
-
-b.6. Becas de estudio: Se concederá a los socios
-
-que se encuentren cursando estudios de
-
-Educación Superior y de formación técnica y
-
-sus cargas familiares, como estímulo al buen
-
-rendimiento académico, según las
-
-disponibilidades presupuestarias y por el
-
-monto que se fijará anualmente por el Consejo
-
-Administrativo, quien además fijará las
-
-condiciones y número de becas a otorgar.
-
-b.7. Feriado Legal: Se concederá anualmente, de una
-
-sola vez, una bonificación al afiliado que
-
-tenga derecho y haga uso efectivo de su
-
-feriado legal correspondiente, una vez dictada
-
-la resolución de la Superintendencia de Salud
-
-que lo conceda. El afiliado que no haga uso
-
-del aludido feriado durante el año calendario
-
-no gozará de este beneficio; no obstante si al
-
-año siguiente acumulare legalmente el feriado
-
-de que haga uso, se le otorgará el monto de la
-
-bonificación correspondiente a cada período de
-
-feriado legal.
-
-b.8. Desgravamen: Al fallecimiento de un afiliado
-
-se entenderán condonadas automáticamente las
-
-deudas que tuviere pendientes con el Servicio
-
-por concepto de préstamos que éste le hubiese
+le hubiese
 
 otorgado.
 
-b.9. Catástrofe: Se concederá ayuda en dinero o
+b.9. Catástrofe: Se concederá
 
-especies, al afiliado y afiliada o sus cargas
+ayuda en dinero o
 
-legales que sufran daños graves en su persona
+especies, al
 
-o en sus bienes por situaciones imprevistas o
+afiliado y afiliada
 
-de fuerza mayor derivadas de accidentes,
+o sus cargas
 
-siniestros, catástrofe, fenómenos naturales,
+legales que sufran
 
-incendios, terremotos, inundaciones o
+daños graves en su
 
-pandemias. Para acceder a este beneficio será
+persona o en sus
 
-necesaria la comprobación del hecho que lo
+bienes por
 
-cause, por la jefatura del Bienestar.".
+situaciones
 
-"b.10. Asignación por cumpleaños, navidad y fiestas
+imprevistas o
 
-patrias: Se concederá anualmente una
+de fuerza mayor
 
-bonificación al afiliado y afiliada del
+derivadas de accidentes,
 
-Bienestar con motivo de las festividades antes
+siniestros, catástrofe,
 
-indicadas, ya sea en especies, dinero o
+fenómenos naturales,
 
-giftcard o similar, según disponibilidad
+incendios, terremotos,
 
-presupuestaria. El monto de esta asignación se
+inundaciones o
 
-fijará anualmente por el Consejo Administrativo.
+pandemias. Para
 
-Para solicitar los beneficios señalados en las
+acceder a este beneficio
 
-letras b.1., b.2., b.3., b.5. y b.6. del
+será necesaria la
 
-artículo anterior, el afiliado deberá
+comprobación del
 
-presentar una solicitud con el certificado
+hecho que lo
 
-respectivo, emitido por el Servicio de
+cause, por la
 
-Registro Civil e Identificación o el
+jefatura del Bienestar.".
 
-Establecimiento Educacional, según
+"b.10. Asignación por
 
-corresponda. En el caso del beneficio señalado
+cumpleaños, navidad y
 
-en la letra b.4. del artículo anterior, se
+fiestas patrias: Se
 
-deberán presentar junto con la solicitud
+concederá anualmente una
 
-antecedentes suficientes que a juicio del
+bonificación al afiliado
 
-Consejo Administrativo acrediten la situación
+y afiliada del
 
-del afiliado, y un certificado médico cuando
+Bienestar con motivo
 
-corresponda.
+de las festividades antes
 
-El Consejo Administrativo podrá solicitar
+indicadas, ya sea en
 
-cualquier otro antecedente que se requiera
+especies, dinero o
 
-para otorgar alguna de estas ayudas, y que no
+giftcard o similar,
 
-haya sido especificado en el presente
+según disponibilidad
 
-Reglamento.
+presupuestaria. El
 
-C) DE LOS PRESTAMOS: El Servicio de Bienestar podrá conceder los préstamos que a continuación se señalan, cuando sus recursos financieros lo permitan, los montos se fijarán mensualmente por el Consejo Administrativo:
+monto de esta
 
-c.1. Préstamos Médicos: Se otorgarán a los
+asignación se
 
-afiliados, como complementos de las ayudas
+fijará anualmente
 
-económicas a que se refiere el artículo 15°
+por el Consejo Administrativo.
 
-del Reglamento General, con la presentación de
+Para solicitar los
 
-los documentos legales que correspondan a los
+beneficios señalados en las
 
-gastos que se efectuarán en el tratamiento
+letras b.1., b.2., b.3.,
 
-médico del afiliado y sus cargas familiares.
+b.5. y b.6. del
 
-Este préstamo se podrá otorgar a partir del
+artículo anterior, el afiliado
 
-segundo mes de afiliación al Servicio.
+deberá presentar una
 
-c.2. Préstamos de Auxilio: Se otorgarán ante
+solicitud con el certificado
 
-problemas económicos graves u otras causas
+respectivo, emitido por
 
-justificadas, por una sola vez en el año, en
+el Servicio de Registro
 
-casos debidamente calificados por el Consejo
+Civil e Identificación o el
 
-Administrativo. Este Consejo podrá revisar
+Establecimiento
 
-aquellos casos que por motivos justificados,
+Educacional, según
 
-según informe social correspondiente, deba
+corresponda. En el
 
-incurrir en la solicitud de un segundo
+caso del beneficio
 
-préstamo en el año, según disponibilidad
+señalado en la letra
 
-presupuestaria y siempre que el socio haya
+b.4. del artículo
 
-cancelado el 50% del préstamo anterior.
+anterior, se
 
-c.3. Préstamos Escolares: Se otorgarán una vez al
+deberán presentar
 
-año con el propósito de solventar gastos de
+junto con la solicitud
 
-matrícula, cuotas de incorporación y
+antecedentes
 
-escolaridad, útiles y vestuario escolar de
+suficientes que a
 
-los hijos estudiantes que sean causantes de
+juicio del
 
-asignación familiar o bien para los propios
+Consejo Administrativo
 
-afiliados.
+acrediten la situación
 
-c.4. Préstamos Habitacionales: Se otorgarán por una
+del afiliado, y un
 
-sola vez al afiliado para complementar el
+certificado médico
 
-ahorro previo necesario, para la adquisición
+cuando corresponda.
 
-de una vivienda, pago de cuotas al contado o
+El Consejo Administrativo
 
-saldos de precio en operaciones de compra de
+podrá solicitar cualquier
 
-propiedades, pago de gastos accesorios de
+otro antecedente que se
 
-compra de una propiedad, gastos notariales,
+requiera para otorgar
 
-de inscripción legal, impuestos y comisiones,
+alguna de estas ayudas,
 
-debiendo, en tales casos, el afiliado y su
+y que no haya sido
 
-cónyuge no ser propietarios de una vivienda.
+especificado en el
 
-Además, se otorgarán para obras de refacción,
+presente Reglamento.
 
-reparación, ampliación o terminación de una
+C) DE LOS PRESTAMOS: El
 
-vivienda que habite habitualmente el afiliado
+Servicio de Bienestar
 
-o su grupo familiar.
+podrá conceder los
 
-c.5. Préstamos de compra de bienes muebles: Podrán
+préstamos que a
 
-otorgarse, previa presentación de una
+continuación se
 
-cotización del bien que se desea adquirir,
+señalan, cuando sus
 
-préstamos a los afiliados, para la compra de
+recursos financieros
 
-bienes muebles durables de uso familiar y que
+lo permitan, los
 
-digan relación con las necesidades del grupo
+montos se fijarán
+
+mensualmente por el
+
+Consejo Administrativo:
+
+c.1. Préstamos Médicos:
+
+Se otorgarán a los
+
+afiliados, como
+
+complementos de
+
+las ayudas económicas
+
+a que se refiere el
+
+#### Artículo 15°
+
+del Reglamento General,
+
+con la presentación de
+
+los documentos legales
+
+que correspondan a
+
+los gastos que se
+
+efectuarán en el
+
+tratamiento médico
+
+del afiliado y sus
+
+cargas familiares.
+
+Este préstamo se podrá
+
+otorgar a partir del
+
+segundo mes de
+
+afiliación al Servicio.
+
+c.2. Préstamos de
+
+Auxilio: Se otorgarán ante
+
+problemas económicos
+
+graves u otras causas
+
+justificadas, por una
+
+sola vez en el año, en
+
+casos debidamente
+
+calificados por el
+
+Consejo Administrativo.
+
+Este Consejo podrá
+
+revisar aquellos
+
+casos que por
+
+motivos justificados,
+
+según informe social
+
+correspondiente, deba
+
+incurrir en la solicitud
+
+de un segundo
+
+préstamo en el año,
+
+según disponibilidad
+
+presupuestaria y
+
+siempre que el
+
+socio haya
+
+cancelado el 50%
+
+del préstamo anterior.
+
+c.3. Préstamos Escolares:
+
+Se otorgarán una vez al
+
+año con el propósito
+
+de solventar gastos de
+
+matrícula, cuotas
+
+de incorporación y
+
+escolaridad, útiles
+
+y vestuario escolar de
+
+los hijos estudiantes
+
+que sean causantes de
+
+asignación familiar
+
+o bien para los
+
+propios afiliados.
+
+c.4. Préstamos
+
+Habitacionales: Se
+
+otorgarán por una
+
+sola vez al afiliado
+
+para complementar el
+
+ahorro previo necesario,
+
+para la adquisición de
+
+una vivienda, pago de
+
+cuotas al contado o
+
+saldos de precio en
+
+operaciones de compra de
+
+propiedades, pago de
+
+gastos accesorios de
+
+compra de una propiedad,
+
+gastos notariales,
+
+de inscripción legal,
+
+impuestos y comisiones,
+
+debiendo, en tales
+
+casos, el afiliado y su
+
+cónyuge no ser propietarios
+
+de una vivienda. Además,
+
+se otorgarán para obras
+
+de refacción, reparación,
+
+ampliación o
+
+terminación de una
+
+vivienda que habite
+
+habitualmente el
+
+afiliado o su grupo
 
 familiar.
 
-El Servicio podrá otorgar los préstamos
+c.5. Préstamos de
 
-indicados en las letras c.2., c.3., c.4.,
+compra de bienes
 
-c.5., a los afiliados sólo cuando hayan
+muebles: Podrán
 
-cumplido seis meses de antigüedad en el
+otorgarse, previa presentación
 
-Bienestar. Se podrá conceder un préstamo en
+de una cotización del bien
 
-el año, siempre que se haya descontado la
+que se desea adquirir,
 
-totalidad del préstamo anterior. Tendrán
+préstamos a los afiliados,
 
-prioridad los socios que soliciten su primer
+para la compra de
+
+bienes muebles durables
+
+de uso familiar y que
+
+digan relación con
+
+las necesidades del
+
+grupo familiar.
+
+El Servicio podrá otorgar
+
+los préstamos indicados
+
+en las letras c.2., c.3.,
+
+c.4., c.5., a los afiliados
+
+sólo cuando hayan
+
+cumplido seis meses de
+
+antigüedad en el
+
+Bienestar. Se podrá conceder
+
+un préstamo en el año,
+
+siempre que se haya
+
+descontado la
+
+totalidad del préstamo
+
+anterior. Tendrán
+
+prioridad los socios
+
+que soliciten su primer
 
 préstamo anual.
 
-El reintegro de los préstamos señalados deberá
+El reintegro de los préstamos
 
-hacerse en 10 cuotas mensuales, iguales y
+señalados deberá
 
-sucesivas, las que serán descontadas a partir
+hacerse en 10 cuotas
 
-del mes siguiente al de su otorgamiento.
+mensuales, iguales y
 
-La tasa de interés que devengarán estos
+sucesivas, las que
 
-préstamos será determinada anualmente por el
+serán descontadas a partir
 
-Consejo Administrativo, antes del inicio de
+del mes siguiente
 
-cada ejercicio, en conformidad a las
+al de su otorgamiento.
 
-disposiciones de la Ley N° 18.010.
+La tasa de interés que
+
+devengarán estos
+
+préstamos será determinada
+
+anualmente por el
+
+Consejo Administrativo,
+
+antes del inicio de
+
+cada ejercicio, en
+
+conformidad a las
+
+disposiciones de la
+
+Ley N° 18.010.
 
 D) ASISTENCIA SOCIAL: el Servicio de Bienestar podrá:
 
@@ -492,21 +918,107 @@ Otorgar asistencia personalizada de carácter educativo, social, biosíquica, y/
 
 Los mecanismos a utilizar para lograr los mejores resultados en los aspectos indicados podrán consistir en visitas domiciliarias, informes sociales, entrevistas, seguimientos de casos con fichas individualizadas y, en fin, todas las técnicas profesionales que cada caso aconseje.
 
-E) Cuando las posibilidades financieras y materiales del Servicio de Bienestar lo permitan, el Consejo podrá acordar asignar recursos orientados a los siguientes objetivos, esto incluirá actividades, bonificaciones y/o especies, que podrán beneficiar a los afiliados y afiliadas y su grupo familiar:
+E) BENEFICIOS FACULTATIVOS: Cuando
 
-1. Actividades culturales y/o sociales.
+las posibilidades financieras
+
+y materiales del Servicio de
+
+Bienestar lo permitan, el Consejo
+
+podrá acordar asignar recursos
+
+orientados a los siguientes
+
+objetivos, esto incluirá
+
+actividades, bonificaciones,
+
+especies, bonos y/o giftcard
+
+que podrán beneficiar a los
+
+afiliados y afiliadas y
+
+su grupo familiar:
+
+1. Actividades culturales
+
+y/o sociales, entre ellas
+
+actividades de vacaciones
+
+de invierno y de verano
+
+y bono cultural para los
+
+afiliados/as pasivos/as.
 
 2. Cultura física y deportiva.
 
 3. Celebración de Navidad.
 
-4. Celebración de Aniversario institucional.
+4. Celebración de Aniversario
 
-5. Celebración de Fiestas Patrias.
+Institucional.
 
-6. Colaborar o ayudar a financiar actividades culturales, artísticas y recreativas, entre ellos eventos tales como: el día del Niño, día del Padre, día de la Madre, día de la Mujer, día de la Secretaria, Aniversario de Servicio de Bienestar y/o festividades de fin de año que contribuyan mejorar la calidad de vida de los socios y socias.
+5. Celebración de Fiestas
 
-7. Colaborar o ayudar a financiar actividades de asesoría y acompañamiento en el proceso de jubilación de los socios y socias del Bienestar.
+Patrias.
+
+6. Colaborar o ayudar a
+
+financiar actividades
+
+culturales, artísticas
+
+y recreativas, entre
+
+ellos eventos tales
+
+como: el día del Niño,
+
+día del Padre, día de
+
+la Madre, día de la
+
+Mujer, día de la
+
+Secretaria,
+
+Aniversario de
+
+Servicio de Bienestar
+
+y/o festividades de
+
+fin de año, que
+
+contribuyan a
+
+mejorar la calidad
+
+de vida de los
+
+socios y socias.
+
+7. Colaborar o
+
+ayudar a financiar
+
+actividades de
+
+asesoría y
+
+acompañamiento
+
+en el proceso de
+
+jubilación de los
+
+socios y socias
+
+del Bienestar.
 
 #### Artículo 9°
 
