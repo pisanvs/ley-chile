@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 2.969, 11 de agosto de 2022, Serviu Región del Biobío ordenó expropiación parcial de terreno ubicado en Avenida Collao 1571, Lote 1, Rol de Avalúo Nº 320-19, comuna de Concepción, de aparente dominio de Rozas Garcés José Eduardo. La superficie afecta a expropiación parcial es de 67,68 m2 de terreno (Lote 150) y de 35,39 m2 de expropiación total de edificación y cuyos linderos particulares, enmarcados en plano S8R 40379-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par-Vial Collao- General Novoa" comuna de Concepción, Región del Biobío", conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Carolina Andrea Contreras Tapia, por arquitecta Paola Loreto Martínez Perucca y por arquitecta Carolina del Pilar Zuloaga Sanhueza, que fijó el monto de la indemnización provisional por la expropiación en la suma de $52.075.244, más una suma de $5.014.846 por concepto de reajuste del artículo 5º del DL 2186 de 1978, lo que arroja un total de $57.090.090.-
+
+Director (S) Serviu Región del Biobío.
