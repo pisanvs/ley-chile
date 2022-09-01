@@ -1,0 +1,13 @@
+ADJUDICACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS A EMPRESA DE SERVICIOS SANITARIOS SAN ISIDRO S.A.
+
+Por decreto supremo número 123, del Ministerio de Obras Públicas, de fecha 21 de julio de 2022, tramitado con fecha 10 de agosto de 2022, ingresada con fecha 30 de diciembre del año 2019 y complementada por presentaciones de fechas 5 y 12 de febrero del año 2021 se adjudicó a la Empresa de Servicios Sanitarios San Isidro S.A., RUT N° 96.889.730-6, domiciliada en calle Lynch número novecientos noventa y ocho, comuna de Temuco, Región de la Araucanía, las Concesiones de Producción y Distribución de Agua Potable y de Recolección y Disposición de Aguas Servidas para atender el área denominada "Ampliación Chinquio Etapa II" de la comuna de Puerto Montt, Región de Los Lagos.
+
+La zona de concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas corresponderá a un área de aproximadamente 41,84 hectáreas que se encuentra identificada y delimitada en el plano denominado "Tema: Territorio Operacional, Localidad de Chinquio, Ampliación Chinquio Etapa II, Provincia: Llanquihue, Comuna: Puerto Montt, Localidad Chinquio, Contenido: Planta General", y que forma parte integrante del presente decreto que se extracta.
+
+En el primer establecimiento correspondiente al año 2022, se considera la instalación de 145 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que aumentará a 696 en ambos casos, al quinto año, y hacia el final del periodo 2036 se espera contar con 1363 arranques e igual número de uniones domiciliarias.
+
+El servicio público de producción de agua potable del área que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a), de la Ficha de Antecedentes Técnicos (FAT), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el artículo 26º del DS MOP 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto. Las demás condiciones de prestación de los servicios otorgados en concesión son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC 10-40 B, que forma parte integrante del decreto extractado.
+
+Demás antecedentes constan en decreto extractado, el que fue reducido a Escritura Pública con fecha 17 de agosto del año 2022, en la 21ª Notaría de Santiago de doña Myriam Amigo Arancibia.
+
+Santiago, abril 2022.- Jorge Rivas Chaparro, Superintendente de Servicios Sanitarios.
