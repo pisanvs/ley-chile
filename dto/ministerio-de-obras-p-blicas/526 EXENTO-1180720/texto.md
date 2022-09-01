@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº526, de 13 de julio de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 2 y 3, para la obra: MEJORAMIENTO CRUCE VIAL RUTA E-35 CON RUTA E-375, SECTOR CHINCOLCO, que figura a nombre de CASTANEDA CASTANEDA JOSE MIGUEL y PEREZ TORRES CARMEN ANGELINA, roles de avalúo 123-24 y 123-18, Comuna de PETORCA, REGIÓN DE VALPARAÍSO, superficies 72 y 286 m2. respectivamente. La Comisión de Peritos integrada por SOLANGE ALEJANDRA LAGOS DÍAZ, KARINA ALEJANDRA LORCA PÉREZ y HERMAN EDGARDO FIGUEROA ZÚÑIGA, mediante informe de tasación de 25 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.162.000, para el lote Nº2 y $12.196.000, para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
