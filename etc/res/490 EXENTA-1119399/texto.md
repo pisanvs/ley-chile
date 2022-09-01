@@ -64,6 +64,8 @@ Superintendencia del Medio Ambiente. A la Superintendencia del Medio Ambiente (S
 
 A) Medidas regulatorias
 
+.
+
 B) Medidas no regulatorias
 
 #### Artículo sexto
