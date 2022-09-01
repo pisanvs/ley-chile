@@ -68,23 +68,21 @@ Dispóngase que en Alerta Nivel 3 se prohibirán los viajes provenientes y dirig
 
 ### II. DE LA DECLARACIÓN JURADA
 
-4. Obligatoriedad de la declaración. Dispóngase que todas las personas mayores de 6 años de edad que ingresen al país deben completar la Declaración Jurada sobre condiciones de ingreso al país, independiente del Nivel de Alerta dispuesto por la autoridad.
-
-5. Forma y plazo de la declaración. Dispóngase que todas las personas que ingresen al país deben completar la referida Declaración Jurada a través de un formulario electrónico disponible en el sitio www.c19.cl, hasta 48 horas antes de su embarque al medio de transporte por medio del cual prevean el ingreso al territorio nacional. Este formulario será considerado como documentación necesaria para el ingreso al país. La Declaración Jurada indicará dónde deberá realizarse la cuarentena o aislamiento a que se refiere el numeral siguiente y; será revisado por la autoridad sanitaria en el punto de ingreso al país.
-
-En casos calificados por la autoridad sanitaria y a solicitud de parte interesada, se podrá completar de forma manuscrita el formulario de Declaración Jurada y presentarlo en el punto de ingreso al país.
+Eliminado.
 
 ### III. DE LAS CUARENTENAS O AISLAMIENTOS
 
 6. Obligatoriedad de cuarentena o aislamiento. Dispóngase que en Alerta Nivel 1, sólo las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado de COVID-19, deberán cumplir con la medida de aislamiento por 7 días en una residencia sanitaria o en el lugar que la autoridad sanitaria determine. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
 
-Dispóngase que en Alerta Nivel 2, todas las personas que ingresen al territorio nacional y no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, deberán cumplir con la medida de cuarentena en una residencia sanitaria o en el lugar que la autoridad sanitaria determine, por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud. Con independencia del estado del esquema de vacunación, las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
+Dispóngase que en Alerta Nivel 2, todas las personas que ingresen al territorio nacional y no cuenten con esquema completo de vacunación contra SARS-CoV-2, deberán cumplir con la medida de cuarentena en una residencia sanitaria o en el lugar que la autoridad sanitaria determine, por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud. Con independencia del estado del esquema de vacunación, las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
 
-Dispóngase que en Alerta Nivel 3, todas las personas que ingresen al territorio nacional y no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena en residencias sanitarias por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
+Dispóngase que en Alerta Nivel 3, todas las personas que ingresen al territorio nacional y no cuenten con esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena en residencias sanitarias por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
 
 Para efectos de los párrafos anteriores, se entenderá que los 7 días se cumplirán una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual la persona hizo ingreso al país.
 
-Las personas que no cuenten con la validación del esquema completo de vacunación contra SARS-CoV-2, podrán dar término a la cuarentena o aislamiento antes de los 7 días, con la notificación del resultado negativo del test PCR para SARS-CoV-2 realizado luego de su ingreso al país.
+Las personas que no cuenten con esquema completo de vacunación contra SARS-CoV-2, podrán dar término a la cuarentena o aislamiento antes de los 7 días, con la notificación del resultado negativo del test PCR para SARS-CoV-2 realizado luego de su ingreso al país.
+
+Para los efectos de la presente norma, se entenderá que cuentan con el esquema de vacunación completa quienes presenten el respectivo comprobante de vacunación completa contra SARS-CoV-2, conforme al país donde hubiesen sido administradas.
 
 En los casos de personas que correspondan a un caso confirmado de COVID-19, a circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena o aislamiento dispuesto en este numeral
 
@@ -96,13 +94,9 @@ Los menores de 2 años que viajen con alguna de las personas señaladas en este 
 
 Todo lo anterior aplica sin perjuicio de lo dispuesto en el numeral 33 de la presente resolución.
 
-En todos los casos, la validación del esquema completo de vacunación contra SARS-CoV-2 se regirá por lo dispuesto en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
+7. Prohibición de interacción. Quienes ingresen a Chile no podrán interactuar con otras personas mientras dure su cuarentena o aislamiento, a excepción de quienes se encuentren en el domicilio indicado al ingresar al país donde deban realizar la cuarentena o aislamiento, quienes sean indispensables para el traslado desde el punto de entrada al país hasta su lugar de cuarentena o aislamiento, trabajadores de la salud y de residencias sanitarias.
 
-7. Prohibición de interacción. Quienes ingresen a Chile no podrán interactuar con otras personas mientras dure su cuarentena o aislamiento, a excepción de quienes se encuentren en el domicilio indicado en la Declaración Jurada señalada en el numeral 4 de esta resolución, quienes sean indispensables para el traslado desde el punto de entrada al país hasta su lugar de cuarentena o aislamiento, trabajadores de la salud y de residencias sanitarias.
-
-8. De la cuarentena o aislamiento. La cuarentena o aislamiento podrá realizarse en el domicilio particular indicado en la Declaración Jurada señalada en el numeral 4 de esta resolución.
-
-También podrá realizarse en un hotel, residencia sanitaria o lugares especialmente habilitados para el cumplimiento de medidas de cuarentena o aislamiento cuya dirección deberá indicarse en la Declaración Jurada señalada en el numeral 4 de esta resolución. En este caso no se permite abandonar la habitación mientras dure la cuarentena o aislamiento.
+8. De la cuarentena o aislamiento. La cuarentena o aislamiento podrá realizarse en el domicilio particular indicado al ingresar al país. También podrá realizarse en un hotel, residencia sanitaria o lugares especialmente habilitados para el cumplimiento de medidas de cuarentena o aislamiento. En estos casos no se permite abandonar el domicilio o la habitación mientras dure la cuarentena o aislamiento.
 
 Sin perjuicio de lo anterior, la autoridad sanitaria podrá disponer que la cuarentena o aislamiento se realice en otro lugar.
 
@@ -118,11 +112,11 @@ b. No se permite el ingreso a este lugar de ninguna persona que no resida ahí, 
 
 a. El trayecto al lugar de cumplimiento de la cuarentena o aislamiento deberá ser directo desde el lugar de ingreso al país, sin posibilidad de pernoctar ni interactuar con otras personas.
 
-b. No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes están ingresando al país, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2 validado por el Ministerio de Salud, aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al país, así como los menores de 6 años que viajen con ellos. En el caso de la Alerta Nivel 3, solamente se permitirá el transporte aéreo interregional una vez que el resultado del examen para detección de coronavirus de ingreso al país haya resultado negativo.
+b. No se podrán utilizar medios de transporte público, salvo que el vehículo sea utilizado exclusivamente por quienes están ingresando al país, además del conductor. Podrán exceptuarse de esta medida aquellas personas que viajen en transporte aéreo y cuenten con esquema de vacunación completo contra el SARS-CoV-2, aun cuando no hayan recibido el resultado del examen para detección de coronavirus realizado al ingresar al país, así como los menores de 6 años que viajen con ellos. En el caso de la Alerta Nivel 3, solamente se permitirá el transporte aéreo interregional una vez que el resultado del examen para detección de coronavirus de ingreso al país haya resultado negativo.
 
 c. Deberá utilizarse mascarilla durante todo el trayecto.
 
-12. Del traslado a otra región. En caso que el traslado sea a una región distinta a la de ingreso al país, la Declaración Jurada señalada en el numeral 4 de esta resolución actuará, en caso de control, como salvoconducto para llegar a destino. Con todo, deberán observarse las normas dispuestas en el numeral anterior.
+### 12. Eliminado
 
 13. De los contagiados. Aquel viajero que dentro de los 7 días contados desde su ingreso al país, conforme a la resolución Nº 494, de 2022, del Ministerio de Salud, sea calificado como caso confirmado o probable, deberá cumplir su cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos.
 
@@ -130,29 +124,29 @@ c. Deberá utilizarse mascarilla durante todo el trayecto.
 
 14. Del test PCR para SARS-CoV-2 al momento de abordar el medio de transporte con destino al territorio nacional. Dispóngase que en Alerta Nivel 2 y 3, al momento de abordar el medio de transporte con destino nacional, todas las personas deben contar con un resultado negativo de un test PCR para SARS-CoV-2.
 
-Lo dispuesto en el párrafo anterior igualmente es recomendado para todos los pasajeros en Alerta Nivel 1.
+Lo dispuesto en el párrafo anterior será exigido en Alerta Nivel 1 a todos los pasajeros que no cuenten con esquema completo de vacunación contra SARS-CoV-2.
 
 15. Del test PCR en el punto de entrada al país. Dispóngase que en Alerta Nivel 2 y 3, al entrar al país, todas las personas deben contar con un resultado negativo de un test PCR para SARS-CoV-2.
 
-Lo dispuesto en el párrafo anterior igualmente es recomendado para todos los pasajeros en Alerta Nivel 1.
+Lo dispuesto en el párrafo anterior será exigido en Alerta Nivel 1 a todos los pasajeros que no cuenten con esquema completo de vacunación contra SARS-CoV-2.
 
-16. Del plazo de la toma de muestra. En caso de ingresar vía aérea, la toma de muestra del test PCR para SARS-CoV-2 no debe exceder las 72 horas antes del viaje, contadas desde el embarque al medio de transporte aéreo. En caso de ingresar vía terrestre, la toma de muestra del test PCR para SARS-CoV-2 no debe exceder las 72 horas anteriores a la entrada al país.
+16. Del plazo de la toma de muestra. En el caso de ingresar vía aérea, la toma de muestra del test PCR para SARS-CoV-2 no debe exceder las 48 horas antes del viaje, contadas desde el horario programado del embarque. En el caso de ingresar vía terrestre, la toma de muestra del test PCR para SARS-CoV-2 no debe exceder las 48 horas anteriores a la entrada al país.
 
 Si el viaje desde el punto de origen hasta el territorio nacional contempla la utilización de varios medios de transporte, el plazo de la toma de muestra estará sujeto al último de éstos. En caso de retraso del medio de transporte en el embarque, el horario programado de embarque se seguirá considerando siempre y cuando, la diferencia con el horario efectivo de embarque no supere las 24 horas.
 
-17. Del certificado. El certificado del resultado del examen PCR para SARS-CoV-2 que trata este acápite, deberá acompañarse como documento adjunto a la Declaración Jurada señalada en el numeral 4 de la presente resolución.
+17. Del certificado. El certificado del resultado del examen PCR para SARS-CoV-2 que trata este acápite, podrá ser revisado por la autoridad sanitaria en el punto de ingreso al país.
 
-18. Obligaciones de la empresa de transporte. La empresa de transporte que efectúe el traslado del pasajero hacia el territorio nacional, será responsable del cumplimiento de lo dispuesto en el numeral anterior.
+18. Obligaciones de la empresa de transporte. La empresa de transporte que efectúe el traslado del pasajero hacia el territorio nacional, será responsable de la revisión del certificado que acredite el esquema completo de vacunación contra SARS-CoV-2 o el certificado indicado en el numeral anterior, según corresponda, al abordar el medio de transporte..
 
-Para dichos efectos, deberá exigir la presentación del test PCR para SARS-CoV-2 con resultado negativo al momento de abordar el medio de transporte con destino al territorio nacional en las fases de Alerta Nivel 2 y 3. El incumplimiento de lo dispuesto en este párrafo será sancionado de acuerdo al Libro X del Código Sanitario.
+El incumplimiento de lo dispuesto en este párrafo será sancionado de acuerdo al Libro X del Código Sanitario.
 
-19. De la denegación de entrada al país. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 de la presente resolución, la autoridad sanitaria podrá denegar al pasajero no residente de manera regular en Chile la entrada al país. En este caso, será responsabilidad de la empresa que efectúe el traslado del pasajero, devolverlo inmediatamente al punto de embarque.
+19. De la denegación de entrada al país. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 de la presente resolución, la autoridad sanitaria podrá denegar al pasajero extranjero no residente de manera regular en Chile la entrada al país. En este caso, será responsabilidad de la empresa que efectúe el traslado del pasajero, devolverlo inmediatamente al punto de embarque.
 
-20. De las sanciones. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 por un pasajero residente de manera regular en Chile, la autoridad sanitaria podrá sancionarlo acorde al Libro X del Código Sanitario y deberá cumplir el aislamiento que trata el numeral 6 de la presente resolución, en el lugar que disponga la autoridad sanitaria, debiendo el infractor sufragar los costos de la estadía.
+No obstante, la autoridad sanitaria podrá autorizar que el pasajero en las condiciones señaladas en el inciso anterior ingrese a Chile, siempre y cuando éste obtenga en el punto de entrada al país un resultado negativo de un test de PCR para SARS-CoV-2 o cumpla con la medida de aislamiento por 7 días en una residencia sanitaria o en el lugar que aquella determine. Lo anterior, sin perjuicio de las sanciones previstas en el numeral 20 siguiente.
 
-21. Excepción de contar con un resultado negativo de un test PCR para SARS-CoV-2. Dispóngase que en Alerta Nivel 1, por regla general, se recomendará que las personas cuenten, al momento de abordar un medio de transporte con destino al territorio nacional y en el punto de entrada al país, con un resultado negativo de un test PCR para SARS-CoV-2.
+20. De las sanciones. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 por un pasajero residente de manera regular en Chile o por un chileno, la autoridad sanitaria podrá sancionarlo acorde al Libro X del Código Sanitario y deberá cumplir el aislamiento que trata el numeral 6 de la presente resolución, en el lugar que disponga la autoridad sanitaria, debiendo el infractor sufragar los costos de la estadía.
 
-En aquellos pasos fronterizos terrestres que no sea factible realizar un test PCR para SARS-CoV-2, se podrá utilizar un test de antígeno para detectar casos positivos de COVID-19.
+21. Excepción de contar con un resultado negativo de un test PCR para SARS-CoV-2. En Alerta Nivel 1, se exceptúa a los residentes de manera regular en Chile de presentar un resultado negativo de un test PCR para SARS-CoV-2 al momento de abordar un medio de transporte con destino al territorio nacional y en el punto de entrada al país si cuentan con el esquema de vacunación completo contra SARS-CoV-2. Los no residentes, podrán eximirse de presentar un resultado negativo de un test PCR para SARS-CoV-2 presentando el certificado emitido por el país en que fueron administradas las vacunas que acredita que se cumplió con el esquema de vacunación completo contra SARS-CoV-2, exigido en dicho país.
 
 Asimismo, se deberá exceptuar de lo dispuesto en los numerales 14 y 15 la persona que cuente con la debida autorización, justificado en la imposibilidad de realizarse el test PCR para SARS-CoV-2 en el país que se encuentra encuentre antes de ingresar al territorio nacional. Dicha autorización se otorgará por medios electrónicos, previa solicitud del interesado al Cónsul de Chile en el país donde se encuentre; quien la derivará a la autoridad sanitaria chilena si a su juicio, existen motivos plausibles que hagan presumir que en el país no es posible el acceso a realizarse un test PCR para SARS-CoV-2. En caso contrario, la solicitud será rechazada de plano por el Cónsul.
 
@@ -164,11 +158,9 @@ Quien obtenga la autorización que trata este numeral deberá cumplir la cuarent
 
 23. Obligación. Toda persona que ingrese desde el extranjero podrá ser seleccionada aleatoriamente por la autoridad sanitaria en el momento de su ingreso a Chile, para ser sometida a exámenes de detección directa para SARS-CoV-2, determinados por la autoridad sanitaria.
 
-24. Del resultado positivo persistente. En el caso de aquellas personas que hayan estado contagiados por el virus SARS-CoV-2 durante el mes que precede a su embarque con destino al territorio nacional y que, 72 horas antes del embarque el resultado de su test RT-PCR para SARS-CoV-2 persistiera como positivo, sólo podrán ingresar al país si cuentan con dos resultados positivos para el señalado test.
+24. Del resultado positivo persistente. En el caso de aquellas personas que hayan estado contagiados por el virus SARS-CoV-2 durante el mes que precede a su embarque con destino al territorio nacional y que, 48 horas antes del embarque el resultado de su test RT-PCR para SARS-CoV-2 persistiera como positivo, sólo podrán ingresar al país si cuentan con dos resultados positivos para el señalado test.
 
-Para efectos de lo establecido en el párrafo anterior, la toma de muestra de uno de los test RT-PCR para SARS-CoV-2 positivo deberá haberse realizado hasta 72 horas antes del embarque y, la toma de muestra del otro test RT-PCR para SARS-CoV-2 cuyo resultado es positivo, deberá haberse realizado con más de 10 días de diferencia con la fecha de embarque, pero con menos de un mes desde el mismo.
-
-Los certificados en que consten los resultados de estos exámenes deberán acompañarse como documentos adjuntos al formulario de Declaración Jurada señalada en el numeral 4 de la presente resolución.
+Para efectos de lo establecido en el párrafo anterior, la toma de muestra de uno de los test RT-PCR para SARS-CoV-2 positivo deberá haberse realizado hasta 48 horas antes del embarque y, la toma de muestra del otro test RT-PCR para SARS-CoV-2 cuyo resultado es positivo, deberá haberse realizado con más de 10 días de diferencia con la fecha de embarque, pero con menos de un mes desde el mismo.
 
 La empresa de transporte que efectúe el traslado del pasajero hacia el territorio nacional será responsable del cumplimiento de lo dispuesto en este numeral, en los términos señalados en el numeral 18 de esta resolución.
 
@@ -198,31 +190,15 @@ En caso que una persona no residente de manera regular en el país se niegue a p
 
 33. Del viajero en tránsito. Exclúyase de los requisitos de ingreso dispuestos en los acápites III y IV, a las personas que ingresen al territorio nacional con el sólo fin de proseguir en tránsito a un país extranjero. Para estos casos la autoridad sanitaria podrá establecer requisitos específicos.
 
-34. De los tripulantes. Los residentes de manera regular en el país que sean tripulantes de naves y aeronaves y, los mecánicos o quienes cumplan otras labores operacionales en las mismas, que ingresen al territorio nacional, podrán exceptuarse de las medidas dispuestas en los acápites II, III, IV y VI, siempre y cuando cuenten con un esquema de vacunación completo contra el SARS-CoV-2 más una dosis de refuerzo recibida hace menos de 6 meses y validada por el Ministerio de Salud; o bien, cuando su empleador cumpla con asegurar e informar a la autoridad sanitaria la realización de un test RT-PCR para SARS-CoV-2 o un test antígeno -a lo menos cada 7 días- para cada persona que requiera esta excepción.
+34. De los tripulantes. Los tripulantes de naves y aeronaves y, los mecánicos o quienes cumplan otras labores operacionales en las mismas, que ingresen al territorio nacional, estarán exceptuados de las medidas dispuestas en los acápites III, IV y V
 
-35. Del personal asociado a carga. Exclúyase de los requisitos de ingreso dispuestos en los acápites III y V precedentes al personal asociado a la carga desde y hacia al territorio nacional, que sea estrictamente necesario, así como el personal de relevo de dicha tripulación, los que se regirán por lo que se dispone a continuación:
-
-a. A los conductores, sean o no residentes de manera regular en el país, se les exigirá al ingresar al país, portar un resultado negativo de un test PCR para SARS-CoV-2, el cual no debe exceder las 72 horas anteriores al inicio de viaje desde el punto de origen, según lo consignado en el manifiesto internacional de carga/declaración de tránsito aduanero.
-
-Cualquier conductor podrá ser seleccionado, en forma aleatoria por la autoridad sanitaria al momento de su ingreso, para ser sometido a un examen de detección directa para SARS-CoV-2, determinado por la autoridad sanitaria. Si este mismo conductor no accediera a realizarse el examen, deberá permanecer en cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 7 días siguientes a su ingreso al país; independiente del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad. En caso de negarse a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
-
-Los costos asociados a la estadía en el lugar donde cumple el aislamiento serán sufragados por la empresa extranjera de transporte internacional terrestre a cuyo nombre se encuentre habilitado el vehículo conducido por el conductor en cuestión.
-
-En contexto de Alerta Nivel 1, los conductores podrán ser exceptuados de este requisito por la Autoridad Sanitaria competente.
-
-b. Los conductores pertenecientes a la condición de reciprocidad, de nacionales argentinos y extranjeros residentes en dicho país, cuyo tránsito se efectúe entre los pasos fronterizos de Integración Austral y San Sebastián, quedarán exentos de la aplicación de las normas del acápite III.
+35. Del personal asociado a carga. Exclúyase de los requisitos de ingreso dispuestos en los acápites III, IV, V y VI precedentes al personal asociado a la carga desde y hacia al territorio nacional, que sea estrictamente necesario, así como el personal de relevo de dicha tripulación.
 
 36. De las excepciones autorizadas por la autoridad sanitaria. La autoridad sanitaria podrá mediante resolución fundada, autorizar el término anticipado de la cuarentena o aislamiento de aquellas personas que cuenten con un esquema de vacunación completo contra el SARS-CoV-2. Lo anterior, por razones de urgencias médicas, emergencias u otras razones calificadas, como integrar delegaciones oficiales o el cumplimiento de funciones esenciales para la adecuada marcha del país. Para ello se deberá contar con un resultado negativo de un test PCR para SARS-CoV-2 o antígeno cuya toma de muestra haya sido efectuada en territorio nacional posterior al ingreso al país.
 
-37. De los cruceros. Se permite la recalada de cruceros en los puertos del país, sujeto a las siguientes reglas durante los niveles de Alerta 2 y 3:
+37. De los cruceros. Se permite la recalada de cruceros en los puertos del país, sujeto a las siguientes reglas durante los niveles de Alerta 1, 2 y 3:
 
-a. Todos los pasajeros que desciendan en un puerto nacional por primera vez en su viaje deberán tener un resultado negativo de un test PCR para SARS-CoV-2. La toma de muestra no debe tener más de 24 horas de antigüedad, contadas desde la recalada en el primer puerto chileno.
-
-b. Para los posteriores descensos en puertos nacionales, los pasajeros deberán tener un resultado negativo de un test de antígenos o PCR para SARS-CoV-2, cuya toma de muestra debe tener un máximo de 72 horas de antigüedad, contadas desde la recalada en el puerto en que descenderá.
-
-c. Para descender en cualquier puerto, los pasajeros deberán tener su esquema de vacunación validado, según lo dispuesto en la resolución exenta Nº 494, de 2022, del Ministerio de Salud.
-
-d. Todos los pasajeros deberán cumplir con lo dispuesto en el acápite I de esta resolución.
+a) En los niveles de Alerta 2 y 3, todos los pasajeros que desciendan en un puerto nacional deberán tener un resultado negativo de un test PCR para SARS-CoV-2. En el nivel de Alerta 1, se exigirá este requisito sólo a los pasajeros no residentes de manera regular en Chile que no cuenten con esquema completo de vacunación contra SARS-CoV-2. La toma de muestra no debe tener más de 48 horas de antigüedad contadas desde la recalada en el primer puerto chileno.
 
 38. Exclúyase de la aplicación de lo dispuesto en los párrafos III y IV de esta resolución a las personas que ingresen al territorio nacional por los pasos fronterizos terrestres habilitados y que hayan salido del país dentro de las últimas 24 horas.
 
