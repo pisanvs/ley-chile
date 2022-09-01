@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.877, de fecha 4 de agosto de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote 6800-23, correspondiente al inmueble ubicado en Pasaje Río Los Molles Nº 11019, Nacimiento, Rol de Avalúo 6800-23, comuna de La Pintana, Región Metropolitana, de aparente dominio de Jenifer del Carmen Mancilla González, con una superficie aproximada de 60,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Villa Nacimiento Primera Etapa - Comuna de La Pintana". La Comisión de Peritos integrada por los señores Nicolás Romero Morales, Ingeniero en ejecución; Roberto Söhrens Camus, Arquitecto, y doña Luisa Aracena Hernández, Constructora civil, mediante Informe de fecha 22 de octubre de 2021, fijó la indemnización provisional por causa de la referida expropiación en la suma de $49.666.526, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
