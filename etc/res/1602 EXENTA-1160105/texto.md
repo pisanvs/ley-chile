@@ -94,7 +94,11 @@ Las causales por las cuales la Subsecretaría de Transportes podrá rechazar la 
 
 7. De la comunicación a terceros. Los mecanismos tecnológicos para el cálculo de tarifa aprobados por esta Subsecretaría y las resoluciones que autorizan la operación de los planes piloto, serán publicadas en el sitio web de la Subsecretaría de Transportes www.subtrans.cl.
 
-A contar de la notificación de la resolución aprobatoria al titular del proyecto, los responsables de los servicios de taxis básicos, y su submodalidad, cuando corresponda, o taxis de turismo, según sea el caso, podrán solicitar a la Secretaría Regional Ministerial respectiva la autorización para inscribir en el Registro Nacional de Servicios de Transporte como condición de operación la utilización del mecanismo tecnológico respectivo, de acuerdo a lo dispuesto en el decreto supremo N° 212, de 1992, citado en el visto.
+A contar de la notificación de la resolución aprobatoria al titular del proyecto, los responsables de los servicios de taxis básicos, y su submodalidad, cuando corresponda, o taxis de turismo, según sea el caso, podrán solicitar a la Secretaría Regional Ministerial respectiva, la autorización para que el cálculo de la tarifa se efectúe a través de mecanismos tecnológicos, de acuerdo a lo dispuesto en el decreto supremo Nº 212, de 1992, citado en visto.
+
+Para los taxis que presten los servicios previamente señalados, la solicitud se entenderá otorgada mediante la inscripción de dicho mecanismo, en el Registro Nacional de Servicios de Transporte de Pasajeros, asociado a su placa patente única.
+
+Asimismo, los responsables del servicio deberán informar a la Secretaría Regional Ministerial correspondiente, cuando no se requiera determinar el cálculo de la tarifa con el señalado mecanismo, para efectos de desvincular dicho dato del Registro Nacional.
 
 8. Del incumplimiento. Cualquier incumplimiento a las disposiciones establecidas en la presente resolución o en la resolución que autoriza la operación del plan piloto, y/o la aprobación del mecanismo tecnológico para el cálculo de tarifa, o a instrucciones del Ministerio, será causal suficiente para que se deje sin efecto la autorización o aprobación otorgadas.
 
