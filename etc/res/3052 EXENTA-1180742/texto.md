@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.052, de 18 de agosto de 2022, Serviu Región del Biobío ordenó la expropiación parcial del inmueble ubicado en Pedro Aguirre Cerda 810 LT. FUS San Pedro Viejo, Rol de Avalúo Nº 15012-22, comuna de San Pedro de la Paz, de aparente dominio de Rentas Dresden Limitada. La parte a expropiar tiene una superficie de 3.356,4003 m2 de terreno y obras complementarias, dentro de polígono y linderos señalados plano de expropiación S8R-41.232-2, para la ejecución de las obras del proyecto "Construcción Nuevo Puente Ferroviario Biobío, en la comuna de San Pedro de la Paz de la Región del Biobío", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil Italo Zerga Arancibia, ingeniero civil Marcelo Puentes Garrido e ingeniero civil Orlando Paredes Vásquez, según informe de fecha 22.07.2022, fijó monto provisional indemnización, más reajuste artículo 5º DL 2.186, en la suma de $1.067.230.867, pagadera de contado.
+
+Director Serviu Región del Biobío.
