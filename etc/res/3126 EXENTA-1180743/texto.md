@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.126, de 25 de agosto de 2022, Serviu Región del Biobío ordenó la expropiación parcial de terreno ubicado en A. Prat 71, Rol de avalúo Nº 38-2, comuna de Concepción, de aparente dominio de Inmobiliaria Gama Limitada y otro. La superficie afecta a expropiación parcial de terreno es de 53,52 m2 (Lote 06) y de 0,00 m2 de expropiación de edificación y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-38768-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción", comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto María Pamela Mac-Guire Acevedo, por el arquitecto Juan Felipe King Domínguez y por el arquitecto Pía Francisca Hernández Silva, que fijó el monto de la indemnización provisional por la expropiación en la suma de $46.920.110.-, más una suma de $868.022.-, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $47.788.132.-
+
+Director Serviu Región del Biobío.
