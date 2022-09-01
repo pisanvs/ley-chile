@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 175, de fecha 9 de marzo de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Ilustre Municipalidad de Dalcahue, RUT N° 69.230.300-8, concesión marítima menor, con vencimiento el 31 de diciembre de 2031, sobre un sector de playa, en el lugar denominado Sector Pedro Montt, Playa Museo, comuna de Dalcahue, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 3.241,39 m², la que fue tramitada con el SIABC N° 47.193. Sus coordenadas geográficas, tramos y medidas son los siguientes:
+
+El objeto de esta concesión marítima, sobre el sector otorgado, consiste en instalar y construir pasarelas, miradores y obras complementarias al desarrollo urbano y turismo local y el plazo contemplado para su ejecución es de 12 meses, salvo que el proyecto o actividad, o parte de estos, deba someterse al Sistema de Evaluación de Impacto Ambiental (SEIA). Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
