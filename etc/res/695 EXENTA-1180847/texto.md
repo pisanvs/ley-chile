@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 695, del 9 de agosto de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se aprueba el programa de enseñanza a la Escuela de Conductores No Profesionales o Clase B, denominada Escuela de Conductores Profesionales y No Profesionales San Javier SpA, RUT N° 77.534.344-3, nombre de fantasía "C y K Escuela de Conductores SpA". La Escuela de Conductores tendrá como Directora a Katiusca Andrea Arellano Urra, cédula de identidad N° 11.744.705-7 y su sede estará ubicada en Arturo Prat N° 2813, comuna de San Javier. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas, 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Ximena Alejandra Oliva Aravena, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
