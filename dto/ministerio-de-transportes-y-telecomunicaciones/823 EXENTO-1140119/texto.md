@@ -48,21 +48,35 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Comunitaria
+- Tipo de servicio : Radiodifusión
+
+Comunitaria
 
 Ciudadana.
 
-- Zona de servicio : Comuna de Melipilla, Región
+- Zona de servicio : Comuna de
 
-Metropolitana de Santiago.
+Melipilla,
 
-Superficie delimitada por
+Región
 
-una intensidad de campo mayor
+Metropolitana
 
-o igual que 74 dB (µV/m),
+de Santiago.
 
-referida al punto de emisión de
+Superficie
+
+delimitada
+
+por una intensidad
+
+de campo mayor o
+
+igual que 74 dB
+
+(µV/m), referida al
+
+punto de emisión de
 
 la señal.
 
@@ -88,7 +102,9 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de Radiación : Direccional.
 
-- Ganancia : 2,17 dBd de ganancia máxima.
+- Ganancia : 2,45 dBd de
+
+ganancia máxima.
 
 - Polarización : Vertical.
 
@@ -120,17 +136,25 @@ Sin perjuicio de la potencia máxima radiada de 25 W autorizada a esta concesió
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio, : Pasaje Pablo Lizama N° 349,
+- Ubicación del Estudio, : Pasaje Pablo Lizama
 
-Planta Transmisora y Villa Colonial 2, comuna de
+Planta Transmisora y N° 349, Villa
 
-Sistema Radiante Melipilla, Región
+Sistema Radiante Colonial 2,
 
-Metropolitana de Santiago.
+comuna de Melipilla,
 
-- Coordenadas Geográficas : 33º 40' 57" Latitud Sur.
+Región Metropolitana
 
-71º 13' 56" Longitud Oeste.
+de Santiago.
+
+- Coordenadas Geográficas : 33º 40' 57"
+
+Latitud Sur.
+
+71º 13' 56"
+
+Longitud Oeste.
 
 Datum WGS84.
 
