@@ -28,9 +28,11 @@ h) Las demás personas jurídicas sin fines de lucro regidas por leyes especiale
 
 En todos los casos anteriores se requerirá haber cumplido el período para el cual fueron elegidos durante la vigencia del estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, o en el tiempo en que éste fuere prorrogado, si es el caso; o que lo hayan cumplido en los tres meses anteriores a su declaración.
 
-Los dirigentes de las organizaciones señaladas en el inciso primero continuarán en sus cargos hasta nueve meses después que el estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, o su prórroga, haya finalizado, plazo en el cual se deberá realizar el proceso eleccionario correspondiente.
+Los dirigentes de las organizaciones señaladas en el inciso primero continuarán en sus cargos hasta quince meses después que el estado de excepción constitucional de catástrofe, por calamidad pública, declarado por decreto supremo Nº 104, de 2020, del Ministerio del Interior y Seguridad Pública, o su prórroga, haya finalizado, plazo en el cual se deberá realizar el proceso eleccionario correspondiente.
 
-La prórroga dispuesta en esta ley no tendrá aplicación en aquellos casos en que las organizaciones mencionadas en el inciso primero ya hubiesen elegido nuevos dirigentes durante el tiempo a que se refiere el inciso segundo, y no exista ningún proceso impugnatorio pendiente.".
+La prórroga dispuesta en esta ley no tendrá aplicación en aquellos casos en que las organizaciones mencionadas en el inciso primero ya hubiesen elegido nuevos dirigentes durante el tiempo a que se refiere el inciso segundo, y no exista ningún proceso impugnatorio pendiente.
+
+Dicha prórroga no será aplicable a las directivas, organismos colegiados intermedios y administrativos regulados por la ley N° 18.603, orgánica constitucional de los Partidos Políticos cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 4, de 2017, del Ministerio Secretaría General de la Presidencia.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 

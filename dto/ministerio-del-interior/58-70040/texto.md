@@ -52,17 +52,39 @@ Sólo se podrá pertenecer a una junta de vecinos. Mientras no se renuncie por e
 
 #### Artículo 6º
 
-Para los efectos de esta ley, las municipalidades llevarán un registro público, en el que se inscribirán las juntas de vecinos y demás organizaciones comunitarias que se constituyeren en su territorio, así como las uniones comunales que ellas acordaren. En este registro deberán constar la constitución, las modificaciones estatutarias y la disolución de las mismas.
+Para los efectos de esta ley, las municipalidades llevarán un registro público, que además estará disponible en la página web institucional, resguardando los datos personales en virtud de la ley N° 19.628, en el que se inscribirán las juntas de vecinos y demás organizaciones comunitarias que se constituyeren en su territorio, así como las uniones comunales que ellas acordaren. En este registro deberán constar la constitución, las modificaciones estatutarias y la disolución de las mismas.
 
-De igual modo, las municipalidades llevarán un registro público de las directivas de las juntas de vecinos, de la unión comunal de juntas de vecinos y de las demás organizaciones comunitarias, como, asimismo, de la ubicación de sus sedes o lugares de funcionamiento.
+De igual modo, las municipalidades llevarán un registro público, que además estará disponible en la página web institucional, resguardando los datos personales en virtud de la ley N° 19.628, de las directivas de las juntas de vecinos, de la unión comunal de juntas de vecinos y de las demás organizaciones comunitarias, como, asimismo, de la ubicación de sus sedes o lugares de funcionamiento.
 
-Será obligación de las municipalidades enviar al Servicio de Registro Civil e Identificación, semestralmente, y para efectos de mantener actualizado el Registro Nacional de Personas Jurídicas sin Fines de Lucro, una copia con respaldo digital de los registros públicos señalados en los incisos primero y segundo de este artículo.
+Para efectos del registro público de las directivas señalado en el inciso anterior, la comisión electoral deberá depositar en la secretaría municipal, dentro del quinto día hábil contado desde la celebración de la elección, los siguientes documentos:
+
+a) Acta de la elección.
+
+b) Registro de socios actualizado.
+
+c) Registro de socios que sufragaron en la elección.
+
+d) Acta de establecimiento de la comisión electoral de acuerdo a lo señalado en los estatutos.
+
+e) Certificado de antecedentes de los socios electos emitido por el Servicio de Registro Civil e Identificación que permita dar cuenta de lo señalado en el artículo 20 de esta ley.
+
+Será obligación de las municipalidades enviar mensualmente al Servicio de Registro Civil e Identificación una copia con respaldo digital de los registros públicos señalados en los incisos primero y segundo de este artículo, para efectos de mantener actualizado el Registro Nacional de Personas Jurídicas sin Fines de Lucro.
 
 Asimismo, será obligación de las municipalidades mantener copia actualizada y autorizada anualmente del registro a que se refiere el artículo 15.
 
 La municipalidad deberá otorgar, a quienes lo soliciten, copia autorizada de los estatutos, de las inscripciones y demás anotaciones practicadas en los registros públicos de organizaciones y directivas previstos en este artículo, las que serán de costo del solicitante.
 
-#### Artículo 6º bis
+La contravención a las obligaciones establecidas en este artículo se considerará infracción grave a los deberes funcionarios de quien corresponda, para efectos de su responsabilidad administrativa.
+
+#### Artículo 6° bis
+
+Verificado el depósito y conformidad legal de todos los antecedentes a que se refiere el inciso tercero del artículo 6°, el secretario municipal deberá expedir, a solicitud de cualquier miembro de la organización, certificados de vigencia de carácter provisorio, los que tendrán una vigencia de sesenta días corridos y podrán renovarse en caso de existir reclamaciones pendientes hasta que el fallo del tribunal electoral regional se encuentre ejecutoriado.
+
+Los certificados de vigencia de carácter definitivo serán emitidos únicamente por el Servicio de Registro Civil e Identificación. Para efectos de la emisión de estos certificados, el secretario municipal deberá enviar la información del registro público de las directivas al Servicio de Registro Civil e Identificación, una vez transcurridos veinte días desde el depósito de los antecedentes a que se refiere el inciso tercero del artículo 6°, cuando no hayan sido interpuestas reclamaciones o, habiéndose interpuesto dentro de plazo, cuando la sentencia recaída sobre éstas se encuentre ejecutoriada.
+
+La contravención a las obligaciones establecidas en este artículo se considerará infracción grave a los deberes funcionarios de quien corresponda, para efectos de su responsabilidad administrativa.
+
+#### Artículo 6º ter
 
 Las uniones comunales de juntas de vecinos y las uniones comunales de organizaciones comunitarias funcionales podrán agruparse en federaciones y confederaciones de carácter provincial, regional o nacional. Un reglamento establecerá el funcionamiento de este tipo de asociaciones, garantizando la debida autonomía en sus distintos niveles de funcionamiento.
 
@@ -140,11 +162,11 @@ j) Procedimientos de incorporación en la unión comunal de juntas de vecinos u 
 
 k) Establecimiento de la comisión electoral que tendrá a su cargo la organización y dirección de las elecciones internas.
 
-Esta comisión estará conformada por cinco miembros que deberán tener, a lo menos, un año de antigüedad en la respectiva junta de vecinos, salvo cuando se trate de la constitución de la primera, y no podrán formar parte del actual directorio ni ser candidatos a igual cargo.
+Esta comisión estará conformada por tres miembros que deberán tener, a lo menos, un año de antigüedad en la respectiva junta de vecinos, salvo cuando se trate de la constitución de la primera, y no podrán formar parte del actual directorio ni ser candidatos a igual cargo.
 
-La comisión electoral deberá desempeñar sus funciones en el tiempo que medie entre los dos meses anteriores a la elección y el mes posterior a ésta.
+La comisión electoral deberá desempeñar sus funciones en el tiempo que medie entre los dos meses anteriores a la elección y el mes posterior a ésta. En caso de reclamo ante el tribunal electoral regional, la comisión electoral desempeñará sus funciones hasta que la sentencia se encuentre ejecutoriada.
 
-Corresponderá a esta comisión velar por el normal desarrollo de los procesos eleccionarios y de los cambios de directorio, pudiendo impartir las instrucciones y adoptar las medidas que considere necesarias para tales efectos. Asimismo, le corresponderá realizar los escrutinios respectivos y custodiar las cédulas y demás antecedentes electorales, hasta el vencimiento de los plazos legales establecidos para presentar reclamaciones y solicitudes de nulidad. A esta comisión le corresponderá además la calificación de las elecciones de la organización.
+Corresponderá a esta comisión velar por el normal desarrollo de los procesos eleccionarios y de los cambios de directorio, pudiendo impartir las instrucciones y adoptar las medidas que considere necesarias para tales efectos, particularmente las que se refieren a la publicidad del acto eleccionario. Asimismo, le corresponderá realizar los escrutinios respectivos y custodiar las cédulas y demás antecedentes electorales, hasta el vencimiento de los plazos legales establecidos para presentar reclamaciones y solicitudes de nulidad. La comisión levantará acta de la elección, la cual será depositada en la secretaría municipal junto a los demás antecedentes señalados en el inciso tercero del artículo 6°, en un plazo de cinco días hábiles desde la elección. A esta comisión le corresponderá además la calificación de las elecciones de la organización.
 
 l) Forma de elaborar el plan anual de actividades. Las juntas de vecinos y las demás organizaciones comunitarias que lo soliciten podrán sujetarse a un estatuto tipo que les será proporcionado gratuitamente por la respectiva municipalidad.
 
@@ -279,6 +301,10 @@ Resultarán electos como directores quienes, en una misma votación, obtengan la
 En estas elecciones, cada afiliado tendrá derecho a un voto.
 
 Las normas de este artículo, salvo la referente a la inscripción de candidaturas, serán aplicables a la elección de los demás órganos internos de la organización.
+
+#### Artículo 21 bis
+
+La comisión electoral deberá comunicar al secretario municipal la realización de la elección del directorio con al menos quince días hábiles de anticipación a la fecha fijada para ella. En caso de omitir esta comunicación, la elección no tendrá validez. Esta informaci�n deberá ser publicada por el secretario municipal en la página web institucional de la municipalidad al día siguiente hábil de la comunicación y hasta la fecha de la elección. La contravención de esta obligación se considerará infracción grave a los deberes funcionarios de quien corresponda, para efectos de su responsabilidad administrativa.
 
 #### Artículo 22
 
