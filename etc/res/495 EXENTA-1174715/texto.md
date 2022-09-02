@@ -124,11 +124,11 @@ c. Deberá utilizarse mascarilla durante todo el trayecto.
 
 14. Del test PCR para SARS-CoV-2 al momento de abordar el medio de transporte con destino al territorio nacional. Dispóngase que en Alerta Nivel 2 y 3, al momento de abordar el medio de transporte con destino nacional, todas las personas deben contar con un resultado negativo de un test PCR para SARS-CoV-2.
 
-Lo dispuesto en el párrafo anterior será exigido en Alerta Nivel 1 a todos los pasajeros que no cuenten con esquema completo de vacunación contra SARS-CoV-2.
+Lo dispuesto en el párrafo anterior será exigido en Alerta Nivel 1 a todos los pasajeros no residentes de manera regular en el país, que sean mayores de 18 años y que no cuenten con esquema completo de vacunación contra SARS-CoV-2.
 
 15. Del test PCR en el punto de entrada al país. Dispóngase que en Alerta Nivel 2 y 3, al entrar al país, todas las personas deben contar con un resultado negativo de un test PCR para SARS-CoV-2.
 
-Lo dispuesto en el párrafo anterior será exigido en Alerta Nivel 1 a todos los pasajeros que no cuenten con esquema completo de vacunación contra SARS-CoV-2.
+Lo dispuesto en el párrafo anterior será exigido en Alerta Nivel 1 a todos los pasajeros no residentes de manera regular en el país, que sean mayores de 18 años y que no cuenten con esquema completo de vacunación contra SARS-CoV-2.
 
 16. Del plazo de la toma de muestra. En el caso de ingresar vía aérea, la toma de muestra del test PCR para SARS-CoV-2 no debe exceder las 48 horas antes del viaje, contadas desde el horario programado del embarque. En el caso de ingresar vía terrestre, la toma de muestra del test PCR para SARS-CoV-2 no debe exceder las 48 horas anteriores a la entrada al país.
 
@@ -146,7 +146,7 @@ No obstante, la autoridad sanitaria podrá autorizar que el pasajero en las cond
 
 20. De las sanciones. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 por un pasajero residente de manera regular en Chile o por un chileno, la autoridad sanitaria podrá sancionarlo acorde al Libro X del Código Sanitario y deberá cumplir el aislamiento que trata el numeral 6 de la presente resolución, en el lugar que disponga la autoridad sanitaria, debiendo el infractor sufragar los costos de la estadía.
 
-21. Excepción de contar con un resultado negativo de un test PCR para SARS-CoV-2. En Alerta Nivel 1, se exceptúa a los residentes de manera regular en Chile de presentar un resultado negativo de un test PCR para SARS-CoV-2 al momento de abordar un medio de transporte con destino al territorio nacional y en el punto de entrada al país si cuentan con el esquema de vacunación completo contra SARS-CoV-2. Los no residentes, podrán eximirse de presentar un resultado negativo de un test PCR para SARS-CoV-2 presentando el certificado emitido por el país en que fueron administradas las vacunas que acredita que se cumplió con el esquema de vacunación completo contra SARS-CoV-2, exigido en dicho país.
+21. Excepción de contar con un resultado negativo de un test PCR para SARS-CoV-2. En Alerta Nivel 1, los no residentes, podrán eximirse de presentar un resultado negativo de un test PCR para SARS-CoV-2 presentando el certificado emitido por el país en que fueron administradas las vacunas que acredita que se cumplió con el esquema de vacunación completo contra SARS-CoV-2, exigido en dicho país.
 
 Asimismo, se deberá exceptuar de lo dispuesto en los numerales 14 y 15 la persona que cuente con la debida autorización, justificado en la imposibilidad de realizarse el test PCR para SARS-CoV-2 en el país que se encuentra encuentre antes de ingresar al territorio nacional. Dicha autorización se otorgará por medios electrónicos, previa solicitud del interesado al Cónsul de Chile en el país donde se encuentre; quien la derivará a la autoridad sanitaria chilena si a su juicio, existen motivos plausibles que hagan presumir que en el país no es posible el acceso a realizarse un test PCR para SARS-CoV-2. En caso contrario, la solicitud será rechazada de plano por el Cónsul.
 
