@@ -1,0 +1,5 @@
+FIJA FECHA DE AUDIENCIA PARA APERTURA DE OFERTA ECONÓMICA DE SOCIEDAD CASINO DE JUEGO DEL MAULE S.A., EN RELACIÓN CON SU POSTULACIÓN AL PROCESO DE OTORGAMIENTO Y RENOVACIÓN DE PERMISOS DE OPERACIÓN ABIERTO MEDIANTE RESOLUCIÓN Nº 432 EXENTA, DE 2020
+
+Por resolución exenta Nº 693, de 30 de agosto de 2022, la Superintendencia de Casinos de Juego fija fecha de audiencia para la apertura de oferta económica de la sociedad Casino de Juego del Maule S.A., en relación con su postulación al proceso de otorgamiento y renovación de permisos de operación abierto mediante resolución exenta Nº 432, de 2020. Se fija como fecha de apertura de oferta económica el lunes 5 de septiembre de 2022, a las 10:30 hrs., en el primer piso del Ministerio de Hacienda, situado en calle Teatinos Nº 120, comuna de Santiago, Región Metropolitana.
+
+Santiago, 30 de agosto de 2022.- Vivien Villagrán Acuña, Superintendenta de Casinos de Juego.
