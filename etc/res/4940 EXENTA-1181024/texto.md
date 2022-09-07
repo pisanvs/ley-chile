@@ -1,0 +1,73 @@
+RECONOCE AL CENTRO DE PRODUCCIÓN KOPPERT B.V., UBICADO EN PAÍSES BAJOS, PARA EL INGRESO A CHILE DE LOS CONTROLADORES BIOLÓGICOS QUE SE INDICAN
+
+Núm. 4.940 exenta.- Santiago, 29 de agosto de 2022.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 18.755, Orgánica del Servicio; la ley Nº 19.473 que sustituye el texto de la ley Nº 4.601 sobre Caza y artículo Nº 609 del Código Civil; la ley Nº 19.880 que establece las bases de los procedimientos administrativos que rigen los órganos de la administración del Estado; el decreto ley Nº 3.557 sobre Protección Agrícola, y el decreto Nº 510, de 2016, que habilita puertos para la importación de mercancías sujetas a revisión del Servicio Agrícola y Ganadero, ambos del Ministerio de Agricultura; el decreto supremo Nº 5, de 1998, sobre el Reglamento de la Ley de Caza; el decreto Nº 66, de 2022, del Ministerio de Agricultura, que establece el orden de subrogación del Director Nacional del Servicio Agrícola y Ganadero; las resoluciones exentas Nºs. 1.465 de 1981, 2.229 de 2001, 3.080 de 2003, 3.815 de 2003, 9.296 de 2019, 3.685 de 2021 y 1.284 de 2021, todas del Servicio Agrícola y Ganadero; la resolución Nº 7, de 2019, de la Contraloría General de la República; las Hojas de Envío de la División de Protección de Recursos Naturales Renovables (Diproren) Nºs. 107.187 de 2018, 110.563 de 2018 y 74.918 de 2019; y la solicitud de la empresa Koppert Chile S.A.
+
+Considerando:
+
+1. Que, el Servicio Agrícola y Ganadero, en adelante el Servicio o el SAG, es la autoridad encargada de velar por el patrimonio fito y zoosanitario del país y, bajo este marco, está facultada para adoptar las medidas tendientes a evitar la introducción al territorio nacional de plagas y enfermedades que puedan afectar la salud animal y vegetal, las que pueden provenir de mercancías importadas.
+
+2. Que, la resolución exenta SAG 2.229, de 2001, establece las regulaciones que norman el ingreso al país de agentes exóticos de control biológico, polinizantes, organismos con propósito de investigación o de ornamentación.
+
+3. Que, existen algunos agentes exóticos de control biológico, polinizantes, organismos con propósitos de investigación o de ornamentación, cuyo uso puede ser beneficioso, mientras otros podrían producir impactos negativos en la sanidad vegetal, salud animal o en el medioambiente.
+
+4. Que, los agentes exóticos de control biológico, polinizantes, organismos con propósitos de investigación o de ornamentación que ingresen al país, pueden estar parasitados o infectados por otras especies de organismos nocivos, pudiendo afectar el éxito de los programas en desarrollo, o bien, dañar los recursos vegetales y animales nativos del país.
+
+5. Que, algunos sustratos orgánicos o inorgánicos que se utilizan en el transporte de agentes exóticos de control biológico, polinizantes, organismos con propósitos de investigación o de ornamentación, pueden ser vías de ingreso de organismos nocivos.
+
+6. Que, la División de Protección Agrícola, Forestal y Semillas del SAG tiene atribuciones para autorizar el ingreso a Chile de agentes exóticos producidos en centros calificados previamente, por medio de una resolución exenta, lo que permite que la cuarentena de pre-entrada del agente a internar pueda ser realizada en el lugar de producción, siempre que cumpla con las condiciones de infraestructura, aislamiento cuarentenario y especialistas calificados, haciendo equivalentes las medidas fitosanitarias dispuestas en el país de origen con las aplicadas en Chile, junto a un sistema de supervisión del Organismo Nacional Fitosanitario, que dé garantías del cumplimiento de los requisitos establecidos para estos productos.
+
+7. Que, Koppert Chile S.A., el año 2018 presentó al SAG una solicitud para que la empresa Koppert B.V., ubicada en Países Bajos, fuera autorizada, previa evaluación del Servicio, como centro de producción y exportación hacia Chile de los controladores biológicos Aphelinus abdominalis, Aphidius ervi, Aphidius colemani, Aphidoletes aphidimyza, Cryptolaemus montrouzieri, Neoseiulus californicus, Neoseiulus cucumeris, Orius insidiosus y Steinernema feltiae, además de los ácaros presa cosmopolitas Carpoglyphus lactis, Lepidoglyphus destructor y Tyrophagus putrescentiae, sin el requisito de cuarentena de pos-entrada en el país.
+
+8. Que, de acuerdo al procedimiento del SAG para el reconocimiento de centros, se realizó una visita de verificación in situ, por parte de inspectores del Servicio y en conjunto con representantes de la Organización Nacional de Protección Fitosanitaria (ONPF) de Países Bajos, correspondiente a la "Autoridad Neerlandesa de Seguridad de los Alimentos y Productos de Consumo" (NVWA, por sus siglas en neerlandés), donde se verificaron las condiciones de bioseguridad del Centro de Producción de la empresa Koppert B.V. y los procesos productivos de los agentes de control biológico y los ácaros presa. Del mismo modo, se logró conocer y entender la metodología utilizada por la ONPF de Países Bajos respecto a la certificación de exportación de estos controladores biológicos.
+
+9. Que, según se pudo comprobar, en Países Bajos la certificación fitosanitaria para la exportación de agentes de control biológico es realizado por la NVWA, institución gubernamental que forma parte y opera bajo la supervisión del Ministerio de Agricultura, Naturaleza y Calidad Alimenticia. Dentro de sus funciones se encuentra la inspección y certificación de exportaciones, como también supervisar las agencias oficiales de inspección. Como parte constituyente de esta autoridad se encuentra el Centro Nacional de Referencia (CNR), que cuenta con amplios conocimientos y experiencias en el campo de plagas, en especial las reglamentadas, y organismos que presentan amenazas a la sanidad vegetal en la Unión Europea. Se ocupa en ofrecer servicios diagnósticos, investigación y consultoría a los inspectores fitosanitarios y, a su vez, forman la base para el análisis de riesgos a nivel nacional y europeo, además, participa en el desarrollo de políticas a nivel nacional e internacional, y del sistema de certificación de las Agencias de Inspección Agrícola, instituciones gubernamentales independientes que cuentan con un mandato del Ministerio de Agricultura, Naturaleza y Calidad Alimenticia, para realizar inspecciones fitosanitarias como parte de la NVWA.
+
+10. Que, la certificación de los productos exportados por Koppert B.V., está basada en auditorías y supervisión de la NVWA, al sistema de control de calidad de la empresa y sus sistemas internos, lo que permite garantizar la identidad y pureza de los productos en las certificaciones fitosanitarias, de acuerdo con los requerimientos de cada país importador.
+
+11. Que, como resultado de la información documental y la evaluación in situ de las instalaciones y procesos productivos, se consideró que la empresa Koppert B.V. cumple con las condiciones de bioseguridad necesarias, y que el sistema oficial de la NVWA, en relación a las competencias legales, acciones fiscalizadoras y protocolos de inspección, dan las garantías necesarias para reconocer que la certificación fitosanitaria cumple con los requerimientos de Chile.
+
+12. Que, a través de la resolución exenta SAG 9.296, de 2019, y luego de las evaluaciones realizadas, se autorizó el ingreso de los controladores biológicos Aphelinus abdominalis, Aphidius ervi, Aphidius colemani, Aphidoletes aphidimyza, Cryptolaemus montrouzieri, Neoseiulus californicus, Neoseiulus cucumeris, Orius insidiosus y Steinernema feltiae, procedentes del Centro de Producción Koppert B.V. de Países Bajos, sin el requisito de cuarentena de pos-entrada en Chile.
+
+13. Que, la División de Protección de Recursos Naturales Renovables (Diproren) del Servicio, mediante las Hojas de Envío 110.563 de 2018, 74.918 de 2019 y 21.325 de 2021, se pronunció respecto a que la introducción de las especies de ácaros acompañantes Carpoglyphus lactis, Lepidoglyphus destructor y Tyrophagus putrescentiae, según la información disponible, no presenta riesgo sobre el equilibrio ecológico y el patrimonio ambiental del país.
+
+14. Que, mediante las resoluciones exentas 9.296 de 2019 y 3.685 de 2021, se autorizó el ingreso de los ácaros Carpoglyphus lactis, Lepidoglyphus destructor y Tyrophagus putrescentiae como presas vivas para los ácaros depredadores Neoseiulus californicus y Neoseiulus cucumeris, los que son producidos en el mismo Centro de Producción Koppert B.V. de Países Bajos y utilizados como alimento en su transporte, para asegurar su sobrevivencia.
+
+15. Que, la autorización otorgada al Centro de Producción Koppert B.V. de Países Bajos, a través de la resolución exenta SAG 9.296 de 2019, especifica una vigencia durante dos años a partir de la fecha de publicación en el Diario Oficial, correspondiente al 5 de diciembre de 2019, pudiendo ser prorrogada en base a informes periódicos con evaluación positiva emitidos y enviados al SAG por la NVWA, y a los resultados de conformidad de las inspecciones fitosanitarias del Servicio en el Punto de Ingreso.
+
+16. Que, según el procedimiento vigente, la renovación del reconocimiento del Centro de Producción se realizará a través de la emisión de una nueva resolución por parte del SAG. Para tal efecto, la ONPF del país de origen, debe remitir informes del desempeño del Centro durante el período anterior de vigencia de la resolución, incluyendo informes basados en la realización de las inspecciones y auditorías oficiales llevadas a cabo durante el período de vigencia del reconocimiento.
+
+17. Que la ONPF de Países Bajos, ha remitido al SAG informes del Centro de Producción Koppert B.V. que certifican una estabilidad, consistentemente positiva, en la producción, calidad y pureza de las especies Aphelinus abdominalis, Aphidius ervi, Aphidius colemani, Aphidoletes aphidimyza, Cryptolaemus montrouzieri, Neoseiulus californicus, Neoseiulus cucumeris, Orius insidiosus y Steinernema feltiae, como también los ácaros presa Carpoglyphus lactis y Lepidoglyphus destructor, por medio de las inspecciones y auditorías periódicas a estos productos.
+
+Resuelvo:
+
+1. Reconócese a Koppert B.V., ubicada en Veilingweg 14, 2651 BE, Berkel en Rodenrijs, Países Bajos, como Centro de Producción de los agentes de control biológico Aphelinus abdominalis, Aphidius ervi, Aphidius colemani, Aphidoletes aphidimyza, Cryptolaemus montrouzieri, Neoseiulus californicus, Neoseiulus cucumeris, Orius insidiosus y Steinernema feltiae, para su exportación a Chile, sin el requerimiento de cumplir cuarentena de pos-entrada en el país.
+
+2. Autorízase el uso de los ácaros Carpoglyphus lactis y Lepidoglyphus destructor como presas vivas para el transporte de ácaros depredadores autorizados, ya que estas especies no presentan riesgo para las plantas o el medioambiente, los que deben ser producidos en el mismo Centro.
+
+3. La autorización de ingreso al país de partidas de agentes de control biológico será otorgada al internador, mediante una resolución exenta emitida caso a caso por la División de Protección Agrícola, Forestal y Semillas del SAG, previo visto bueno de la Diproren, en la cual se detallarán los requisitos y condiciones específicas de la importación.
+
+4. Para su ingreso al país, los envíos de los agentes de control biológicos autorizados deberán estar amparados por un Certificado Fitosanitario oficial, presentado en original, emitido por la autoridad Fitosanitaria de Países Bajos, indicando el lugar de origen y especie del organismo, así como la ausencia de otros artrópodos vivos.
+
+5. El ingreso de los organismos autorizados deberá realizarse únicamente a través del Aeropuerto Arturo Merino Benítez, con la documentación requerida y cumpliendo las disposiciones establecidas para cada caso.
+
+6. Los agentes de control biológico que sean comercializados en el país, como lo indica la resolución exenta SAG 2.229 de 2001, deberán contar con una etiqueta que al menos señale el nombre científico del agente, la plaga objetivo de control, fase de desarrollo del agente, cantidad, forma de uso o liberación, condiciones de almacenamiento, tiempo de viabilidad y, en los casos que corresponda, la identidad del organismo presa.
+
+7. Todos los envíos deberán estar embalados en envases de primer uso, cerrados, resistentes a la manipulación y factibles de sellar, y etiquetados o rotulados de acuerdo a la normativa vigente.
+
+8. El período de vigencia de la autorización del Centro de Producción Koppert B.V. de Países Bajos, tendrá una validez de dos años a partir de la fecha de publicación de esta resolución en el Diario Oficial, la que podrá ser prorrogada, para tal efecto por la NVWA, debiendo enviar una carta a SAG solicitando esta renovación por un nuevo período, con a lo menos tres meses de antelación al término de vigencia de la resolución, basándose en informes periódicos con evaluación positiva realizados por NVWA y a los resultados de conformidad de las inspecciones fitosanitarias del Servicio en el Punto de Ingreso.
+
+9. Cualquier cambio en la estabilidad de la producción, la calidad y la pureza de los productos autorizados o cualquier cambio en el sistema de producción del Centro de Producción reconocido, deberán ser informados oficialmente por la NVWA al Servicio a la brevedad, para su evaluación y adopción de medidas, si correspondiere.
+
+10. El Centro de Producción no podrá seguir enviando agentes de control biológico, hecho que se establecerá mediante resolución fundada, en caso que durante la inspección de rutina del envío en el Punto de Ingreso, se detecten especies distintas a las autorizadas o la presencia de contaminantes, lo que será determinado mediante análisis oficiales de laboratorio.
+
+11. El restablecimiento de la condición de Centro Reconocido, deberá ser evaluada por este Servicio contra informe oficial de la NVWA, que explique las razones de lo ocurrido y señale las medidas adoptadas para solucionar los problemas detectados, pudiéndose determinar una evaluación in situ por parte del Servicio, en caso de definirse como una actividad necesaria para el restablecimiento del reconocimiento, cuyo costo deberá ser asumido por el sector productor.
+
+12. El Servicio podrá efectuar auditorías al Centro de Producción, si se estima pertinente, lo cual deberá ser comunicado con 30 días de anticipación a la NVWA. Los costos asociados serán cubiertos por el sector productor.
+
+13. La presente resolución entrará en vigencia luego de su publicación en el Diario Oficial de Chile.
+
+Anótese, comuníquese y publíquese.- Óscar Humberto Camacho Inostroza, Director Nacional (S), Servicio Agrícola y Ganadero.
