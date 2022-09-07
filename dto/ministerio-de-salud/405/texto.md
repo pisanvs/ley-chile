@@ -698,6 +698,8 @@ N-(2-hidroxibencil)-2,5-dimetoxi-4-iodofeniletilamina (25I- NBOH)
 
 2,5-dimetoxi-4-propiltio-N-(4-metoxibencil)- feniletilamina (25T7-NB4OMe)
 
+N-(4-iodo-2,5-dimetoxifeniletil)-N-(2-metoxibencil)acetamida, (N-ACETIL-25I-NBOMe).
+
 b) Derivados y análogos estructurales de la dimetiltripamina
 
 4-hidroxi-N,N-diisopropiltriptamina (4-HO-DIPT)
