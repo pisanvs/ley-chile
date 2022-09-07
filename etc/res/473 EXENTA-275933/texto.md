@@ -28,29 +28,15 @@ c) El pago del correspondiente arancel deberá efectuarse por el interesado al m
 
 d) Toda prestación que no figure en la presente resolución será cobrada por las Secretarías Regionales Ministeriales de Salud asimilándola a aquellas que se le asemejen en cuanto a recursos empleados y en el rubro que corresponda. En todo caso sólo podrán cobrarse aquellas prestaciones que tengan el debido respaldo legal o reglamentario sanitario.
 
-e) El Secretario Regional Ministerial respectivo, en casos excepcionales, y por resolución fundada podrá rebajar los aranceles o eximir de su pago a determinadas personas naturales o jurídicas que ejecuten actividades de asistencia social, docencia o investigación científica. Cuando el titular de una instalación o actividad objeto de la presente resolución acredite algunas de las siguientes calidades: Certificación Municipal de Microempresa Familiar; pertenecer al 40% más vulnerable de la población nacional, según la información que se desprenda por aplicación del instrumento de caracterización socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379, la cual estará contenida en el Registro Social de Hogares; financiamiento de proyectos Fosis; participación en proyectos Puente o familias Chile Crece Contigo u otro programa social dirigido a vulnerables sociales, el arancel total a cobrar corresponderá al 20% del arancel vigente de la respectiva prestación.
+e) El Secretario Regional Ministerial respectivo, en casos excepcionales, y por resolución fundada podrá rebajar los aranceles o eximir de su pago a determinadas personas naturales o jurídicas que ejecuten actividades de asistencia social, docencia o investigación científica. Cuando el titular de una instalación o actividad objeto de la presente resolución acredite algunas de las siguientes calidades: Certificación Municipal de Microempresa Familiar; pertenecer al 40% más vulnerable de la población nacional, según la información que se desprenda por aplicación del instrumento de caracterización socioeconómica a que se refiere el artículo 5° de la ley N° 20.379, la cual estará contenida en el Registro Social de Hogares; financiamiento de proyectos Fosis; participación en proyectos Puente o familias Chile Crece Contigo u otro programa social dirigido a vulnerables sociales, el arancel total a cobrar corresponderá a la suma de $1.000 (mil pesos).
 
 f) El presente arancel se reajustará anualmente y en forma automática, a contar del 10 de enero de cada año, conforme a la variación que haya experimentado el Índice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas o por el organismo que lo reemplace, entre los meses de enero y diciembre de cada año.
 
 g) Cuando un establecimiento deba ser objeto de más de una autorización sanitaria procederá al cobro de un arancel único, correspondiente a la prestación que tenga asignado el mayor valor más el 50% de los aranceles de las otras autorizaciones.
 
-h) El arancel total a cobrar para aquellas empresas que, de acuerdo a lo establecido en el artículo segundo de la ley Nº 20.416, acrediten ser microempresas, pequeñas o medianas empresas, se realizará conforme lo siguiente:
+h) El arancel total a cobrar para aquellas empresas que, de acuerdo a lo establecido en el artículo segundo de la ley Nº 20.416, acrediten ser microempresas, pequeñas o medianas empresas, será de $1.000.
 
-1) Desde el 11 de agosto de 2025 y hasta el 30 de septiembre de 2025, corresponderá al monto total del arancel vigente para la respectiva prestación, con un descuento del 50%.
-
-2) Desde el 1 de octubre de 2025 y hasta el 31 de diciembre de 2025, corresponderá al monto total del arancel vigente para la respectiva prestación, con un descuento del 25%.
-
-3) A contar del 1 de enero de 2026, corresponderá al monto total del arancel vigente para la respectiva prestación.
-
-i) El arancel total a cobrar a la persona natural que acredite que ha cumplido sesenta años de edad y que sea el beneficiario directo de la actuación administrativa, se realizará conforme lo siguiente:
-
-1) Desde el 11 de agosto de 2025 y hasta el 30 de septiembre de 2025, corresponderá al monto total del arancel vigente para la respectiva prestación, con un descuento del 50%.
-
-2) Desde el 1 de octubre de 2025 y hasta el 31 de diciembre de 2025, corresponderá al monto total del arancel vigente para la respectiva prestación, con un descuento del 25%.
-
-3) A contar del 1 de enero de 2026, corresponderá al monto total del arancel vigente para la respectiva prestación.
-
-j) El Secretario Regional Ministerial respectivo podrá establecer que el arancel total a cobrar corresponderá al 20% del arancel vigente de la respectiva prestación, para aquellos funcionarios públicos de salud que soliciten la renovación de la autorización de desempeño establecido en el decreto Nº 133, de 1984, que aprueba el reglamento sobre autorizaciones para instalaciones radiactivas o equipos generadores de radiaciones ionizantes, personal que se desempeña en ellas, u opere tales equipos y otras actividades afines. Para ello, el requirente deberá cumplir los siguientes requisitos: tener la calidad de titular o contrata; una relación de servicio o antigüedad en el sistema de salud de, a lo menos, tres años; haber tenido una dosimetría personal durante los mismos tres años, y presentar la resolución de autorización de desempeño anteriormente otorgada.
+i) El arancel total a cobrar a la persona natural que acredite que ha cumplido sesenta años de edad y que sea el beneficiario directo de la actuación administrativa, será de $1.000.
 
 ### II. Arancel de Prestaciones de Salud Ambiental
 
@@ -83,18 +69,6 @@ NOTA: VER DIARIO OFICIAL DE 13.08.2008, PAGINAS 5-9
 > **Nota.** NOTA 11 El Nº 1 de la Resolución 165 Exenta, Salud, publicada el 08.02.2022, aprueba la actualización de los valores arancelarios contenidos en la presente resolución, para el año 2022, conforme a lo dispuesto en la nómina adjunta en la citada norma.
 
 > **Nota.** NOTA 12 Los literales C, D, y E del numeral 1 de la Resolución 1213 Exenta, Salud, publicada el 07.09.2022, disponen incorporar y reemplazar determinados aranceles contenidos en la presente norma, de acuerdo a los términos que la citada Resolución indica.
-
-> **Nota.** NOTA 13 La letra a. del N° 1 de la Resolución 157 Exenta, Salud, publicada el 10.02.2023, modifica la presente norma en el sentido de agregar, en la Tabla del apartado II "Aranceles de Prestaciones de Salud Ambiental", bajo el ítem correspondiente a "2. Certificados y Otros", el siguiente arancel: 2.2.5 Informe Sanitario para Centros de Mantención 83.215 Temporal de Mascotas y Animales de Compañía.
-
-> **Nota.** NOTA 14 El numeral 1º de la Resolución 185 Exenta, Salud, publicada el 02.03.2023, modifica la presente norma en el sentido de actualizar los valores arancelarios, conforme a la manera dispuesta por la tabla inserta de la citada norma.
-
-> **Nota.** NOTA 15 La letra A del numeral 1º de la Resolución 344 Exenta, Salud, publicada el 26.04.2023, modifica la presente norma en el sentido de reemplazar bajo el ítem correspondiente a "1.5 Sustancias Químicas y Radioactivas" el numeral 1.5.9, por aquel que la citada norma indica.
-
-> **Nota.** NOTA 16 El Nº 2 de de la Resolución 761 Exenta, Salud, publicada el 11.06.2024, modifica la presente norma en el sentido de actualizar los valores arancelarios, conforme a la manera dispuesta por la tabla inserta en la citada norma.
-
-> **Nota.** NOTA 17 El numeral 1 del Nº 2 de la Resolución 857 Exenta, Salud, publicada el 11.08.2025, modifica la presente norma en el sentido de actualizar los valores arancelarios establecidos en la tabla del apartado "II.- Aranceles de Prestaciones de Salud Ambiental”, conforme a la manera dispuesta por la tabla inserta en la citada norma.
-
-> **Nota.** NOTA 18 El numeral 2 de la Resolución 331 Exenta, Salud, publicada el 09.04.2026. modifica la presente norma en el sentido de actualizar los valores arancelarios establecidos en la tabla del apartado "II.- Aranceles de Prestaciones de Salud Ambiental”, conforme a la manera dispuesta por la tabla inserta en la citada norma.
 
 Anótese y publíquese.- María Soledad Barría Iroumé, Ministra de Salud.
 
