@@ -44,12 +44,6 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 > **Nota.** Las letras a) y c) del resuelvo N° 1 de la Resolución 1151 Exenta, Vivienda, publicada el 08.09.2022, modifican la presente norma en los siguientes sentidos: 1. reemplazar en el Resuelvo 1, el cuadro correspondiente al Área 1 de la Región Metropolitana, en la columna Total Subsidios del proyecto Nueva Ilusión de San Luis 2, de la comuna de Peñalolén, el guarismo "86.906,71" por "86.955,01", y en el Total general del mismo cuadro el guarismo "1.786.105,79" por "1.786.154,09"; y 2. reemplazar en el anexo la fila correspondiente al proyecto Nueva Ilusión de San Luis 2, según se indica en la citada resolución.
 
-> **Nota.** NOTA 1 La letra a) del numeral 1 de la Resolución 1892 Exenta, Vivienda, publicada el 16.11.2023, modifica la presente norma en el sentido de reemplazar en el resuelvo 1, en el primer cuadro, la quinta fila correspondiente al numeral 4º, y la sexta fila, correspondiente a los guarismos de "Nº familias" y "Total Subsidios", por las que la citada norma indica.
-
-> **Nota.** NOTA 2 La letra b) del numeral 1 de la Resolución 1892 Exenta, Vivienda, publicada el 16.11.2023, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el resuelvo 4 la cuarta fila, correspondiente a la Región de Los Ríos y la séptima fila, correspondiente al "Total", por las filas que la citada norma indica.
-
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
-
-> **Nota.** NOTA 3 La letra c) del numeral 1 de la Resolución 1892 Exenta, Vivienda, publicada el 16.11.2023, modifica la presente norma en el sentido de reemplazar en el cuadro del Anexo Único la quinta fila correspondiente al numeral 4º, proyecto código 168940, por la fila que se indica en el cuadro adjunto como "Anexo Único" y que forma parte integrante de la citada resolución.
