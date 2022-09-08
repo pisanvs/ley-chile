@@ -46,8 +46,14 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 3. Los recursos comprometidos en el Resuelvo 2. y 4. de la presente resolución, para los proyectos seleccionados en el concurso a que se llamó por resolución exenta N° 325 (V. y U.), de 2021, en el cierre de postulación efectuado el día 28 de diciembre de 2021, se resume en el siguiente cuadro, incluyendo la suma total de familias beneficiadas y Unidades de Fomento comprometidas, considerando los montos de subsidio de los proyectos, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras:
 
-4. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 2.017.642,4 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2022, para el Programa Fondo Solidario de Elección de Vivienda de las Regiones de Antofagasta, Atacama, Metropolitana, y Los Lagos, según el siguiente detalle:
+4. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 2.122.802,4 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2022, para el Programa Fondo Solidario de Elección de Vivienda de las Regiones de Antofagasta, Atacama, Metropolitana, y Los Lagos, según el siguiente detalle:
+
+> **Nota.** El numeral 1.2 del número 1 de la Resolución 1152 Exenta, Vivienda, publicada el 08.09.2022, modifica el cuadro inserto en el numeral 2 de la presente norma, en la fila 5, columnas "Asistencia Técnica (1)" la cifra "4.824" por "4.829"; en "Total Asistencia Técnica (1+2+3)" la cifra "7.756" por "7.761"; en la fila "Total", en la columna "Asistencia Técnica (1)" la cifra "34.219,4" por "34.224,4", y, en "Total Asistencia Técnica (1+2+3)" la cifra "60.633,4" por "60.638,4".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo (S).
 
 Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario de Vivienda y Urbanismo (S).
+
+ANEXO ÚNICO
+
+NÓMINA DE PROYECTOS SELECCIONADOS- LLAMADOEFECTUADO MEDIANTE RESOLUCIÓN N° 325, (V. Y U.), DE 2021 - SELECCIÓN COMPLEMENTARIA CIERRE 28 DE DICIEMBRE DE 2021
