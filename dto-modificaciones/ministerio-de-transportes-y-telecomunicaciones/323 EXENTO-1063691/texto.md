@@ -60,7 +60,7 @@ Sector 07 (Quinta Maderos)
 
 Sur Oeste: Partiendo desde un punto correspondiente a la coordenada UTM84 (U18) Este 731431.62, Sur 5847864.62, en una prolongación en dirección Este 510 metros hasta límite predial Loteo Quinta Maderos; desde este punto en dirección Norte hasta interceptar con Avenida Octavio Jara Wolf (Ruta 180); desde este punto en dirección Oeste en 510 metros hasta interceptar la coordenada UTM84 (U18) Este 731431.62; desde este punto en dirección Sur hasta interceptar la coordenada UTM84 (U18) Sur 5847864.62, cerrando de esta forma el perímetro que constituye la Zona de Servicio (Sector 07) de la localidad de Los Ángeles.
 
-2. Eliminar los nodos remotos de conmutación, autorizados en el decreto supremo Nº 340, de 2001, del Ministerio de Transportes y Telecomunicaciones.
+2. Eliminar los nodos remotos de conmutación, autorizados en el decreto supremo Nº 478, de 1995, del Ministerio de Transportes y Telecomunicaciones.
 
 Los medios de transmisión y/o conmutación podrán ser propios o arrendados a terceros debidamente autorizados.
 
