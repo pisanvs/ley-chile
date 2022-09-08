@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN EXENTA SOBRE REVOCACIÓN Y DELEGACIÓN DE FACULTADES RESPECTO A LOS FUNCIONARIOS QUE EN ELLA SE INDICAN
+
+Resolución exenta SII N° 864, del 23 de marzo de 2022, de la Directora Regional de la VI Dirección Regional Rancagua del SII, según facultades contenidas en el artículo 6° N° 7 letra B) del Código Tributario y el artículo 20 de la Ley Orgánica del Servicio y autorización contenida en la resolución exenta SII N° 11, del 23 de enero de 2013, revoca la delegación de facultades contenidas en la resolución Ex. N° 136, del 10 de enero de 2019, respecto de los funcionarios que ella indica, y delega en los funcionarios que en ella se designa, las facultades que en ella se establecen respecto a las labores pertenecientes a la Oficina de Procedimientos Administrativos y Tributarios, cuyo texto íntegro se encuentra publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).-
+
+Pamela Bahamonde Robediz, Directora Regional (S).
