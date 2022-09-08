@@ -24,13 +24,13 @@ Resolución:
 
 Los Serviu recibirán las postulaciones, mediante las opciones y en las fechas que para cada una de ellas se indican a continuación:
 
-i. Las personas cuyos ahorros se encuentren depositados en instituciones con convenio con el Minvu, o dispongan de la información en línea, y que no requieran acreditar alguna situación especial, podrán postular en la página web www.minvu.cl, para lo cual deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación, a partir del 5 de abril de 2022 y hasta el 25 de julio de 2022, ambas fechas inclusive.
+i. Las personas cuyos ahorros se encuentren depositados en instituciones con convenio con el Minvu, o dispongan de la información en línea, y que no requieran acreditar alguna situación especial, podrán postular en la página web www.minvu.cl, para lo cual deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación, a partir del 5 de abril de 2022 y hasta el 29 de julio de 2022, ambas fechas inclusive.
 
 ii. Las personas que no puedan materializar su postulación de la forma indicada en el numeral i, precedente, podrán postular de manera presencial en las oficinas de los Serviu, a partir del 7 de abril de 2022 y hasta el 25 de julio de 2022, ambas fechas inclusive.
 
 2. Se realizarán selecciones en los meses de mayo y julio, con las familias que hubieren efectuado válidamente su postulación en el período indicado. Las familias que no sean consideradas en una selección continuarán postulando y serán contempladas en la siguiente hasta el último proceso respectivo.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.105.000 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.164.330 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
 
