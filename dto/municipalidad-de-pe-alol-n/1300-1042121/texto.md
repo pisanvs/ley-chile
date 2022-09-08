@@ -522,6 +522,126 @@ Son responsabilidades de la Municipalidad relativas a este Título:
 
 5. Evaluar permanentemente con el personal municipal y con las organizaciones del municipio el cumplimiento efectivo de la presente Ordenanza.
 
+## Título V — DEL FOMENTO DE LA PARTICIPACIÓN DE LA NIÑEZ Y JUVENTUDES EN PEÑALOLÉN
+
+#### Artículo 61
+
+El presente Título regula la forma en que la municipalidad fomenta la participación de niños, niñas y jóvenes en Peñalolén. Establece modalidades de participación infantil y juvenil, teniendo en consideración las características singulares de la comuna, tales como la configuración del territorio, la conformación etaria, de género e intercultural de este segmento de la población y cualquier otro elemento que requiera una representación específica.
+
+#### Artículo 62
+
+Existirán instancias municipales para el trabajo en pos de la participación de niños, niñas y jóvenes, principalmente a través de una Mesa Técnica Municipal de Participación de Niñez y Juventud. Esta instancia se articulará con las distintas formas de organización de niñez y juventudes y velará por el cumplimiento de esta Ordenanza.
+
+#### Artículo 63
+
+Para la implementación de este Título, se contemplan diversas modalidades e instancias de participación, en las que se puedan ir incorporando a niños, niñas y jóvenes, con el fin de que logren trabajar procesos de liderazgo (acordes a su autonomía progresiva), que los lleven a obtener un mayor nivel de incidencia en el desarrollo de la comuna y propicien la participación como un Derecho. El artículo 1° de la CIDN incluye dentro del concepto de niño a todo ser humano menor de 18 años de edad, por lo que esta Ordenanza promoverá la participación de niños y niñas desde los 0 hasta los 17 años. A su vez, contemplando que se pretende fortalecer también la participación de los/as jóvenes de la comuna, se contemplará para su definición etaria, la establecida desde el Instituto Nacional de la Juventud Injuv, por lo que también se trabajará en el fortalecimiento de la participación de jóvenes hasta 29 años, diferenciándose las actividades e instancias según corresponda.
+
+#### Artículo 64
+
+Principios. La participación de niños, niñas y juventudes se fomentará desde la municipalidad teniendo en consideración los siguientes principios y elementos: Promover espacios seguros, cómodos e inclusivos; promover el sentimiento de libertad de niños, niñas y jóvenes para expresarse, tomando en cuenta las opiniones para tomar decisiones que les puedan afectar.
+
+Se deberán tomar medidas que garanticen una participación segura sin riesgos, voluntaria e informada, poniendo en lo posible a los niños, niñas y jóvenes como protagonistas, en el liderazgo y conducción de las actividades de participación, relevando su rol de expertos en las materias que les afectan. Los espacios de participación deben ser respetuosos de distintas visiones, dar libertad y respetar valores de niños, niñas y jóvenes. La municipalidad deberá otorgar información sencilla y clara que empodere y potencie la participación; así como considerar las diversidades con acciones inclusivas.
+
+#### Artículo 65
+
+De las Instancias de Participación. A continuación, se describen instancias de participación de niños, niñas y jóvenes que se contemplan en esta Ordenanza, sin perjuicio de que son aplicables también, las demás formas de participación de la Ordenanza comunal de Participación.
+
+1. CONSEJO CONSULTIVO COMUNAL DE NIÑOS, NIÑAS Y JÓVENES. El Consejo Consultivo Comunal de Niños, Niñas y Jóvenes, es una instancia permanente de participación en la gestión municipal. Consiste en un espacio formativo y de participación, con énfasis en la incidencia en temáticas de interés para niños, niñas y adolescentes de la comuna.
+
+a) DEL OBJETIVO DEL CONSEJO CONSULTIVO. Este Consejo tendrá como objetivo "Facilitar el ejercicio al derecho a participar y expresar la opinión de todos/as los/as niños, niñas y jóvenes de la comuna de Peñalolén en temáticas acciones que les afecten directa o indirectamente; generando espacios de encuentro, a fin de que la participación de este grupo etario sea representativa y logre incidir en las políticas de niñez y juventud y en el desarrollo comunal en general".
+
+b) DE SUS INTEGRANTES. El Consejo se encontrará constituido por al menos 25 niños y niñas de 10 a 17 años, pertenecientes a la comuna de Peñalolén, y que cuenten con la autorización y el apoyo de sus adultos/as responsables, entendiendo por tal el consentimiento informado de su participación y el acompañamiento constante a las instancias de diálogo según su autonomía progresiva y edades. Estos miembros del Consejo, corresponderá a niños, niñas y jóvenes representantes de cada macro sector de la comuna, que actualmente son cuatro, los cuales serán definidos mediante una elección que se llevará a cabo en Asambleas de grupos de "Promotores de Derechos", los cuales se reunirán periódicamente, en el tiempo y la forma en que se determine en el Reglamento de funcionamiento del Consejo. Se propiciará la inclusión de niños, niñas y jóvenes sin discriminación alguna, ya sea por género, nacionalidad, religión, situación de discapacidad ni ninguna circunstancia.
+
+c) DE LA REPRESENTATIVIDAD DEL CONSEJO. Para que el Consejo Consultivo sea representativo de toda la comuna, se propiciará el encuentro de niños, niñas y jóvenes participantes de distintos programas e instituciones, presentes en todos los macro sectores; y también se propiciará la presencia dentro de sus integrantes de niños, niñas y jóvenes migrantes, de pueblos originarios y con necesidades especiales, contemplando a su vez, la equidad de género.
+
+d) DEL REGLAMENTO DE FUNCIONAMIENTO DEL CONSEJO. El documento será elaborado en forma colaborativa por el Consejo Consultivo con apoyo de la Mesa Técnica de Participación de Niñez y Juventud. Deberá ser trabajado y propuesto a la Dirección Jurídica para su aprobación dentro del plazo máximo de un año desde la publicación de la presente ordenanza. En dicho documento, se deberá establecer la periodicidad de las reuniones, su duración, y una Planificación Anual de Trabajo, así como otros aspectos del trabajo operativo del Consejo que permita a los niños, niñas y adolescentes organizarse. Este reglamento deberá basarse en los principios rectores de la Convención de los Derechos del Niño:
+
+i. Principio de velar por el interés superior del niño/a.
+
+ii. Principio del derecho a la vida, la supervivencia y el desarrollo.
+
+iii. Principio de participación y ser escuchado.
+
+iv. Principio de no discriminación.
+
+e) DE LAS ATRIBUCIONES DEL CONSEJO CONSULTIVO. El Consejo Consultivo adoptará acuerdos por mayoría absoluta, es decir, la mitad más uno de sus miembros y tendrá la atribución de solicitar Audiencia con el/la Alcalde/sa, solicitar información y pronunciamiento a las Unidades o Direcciones Municipales a través de la Secretaría Municipal, respecto de temas de interés y participar en la elaboración del Cabildo en conjunto con la Mesa Técnica de Participación de Niñez y Juventud y Secretaría Comunal de Planificación. Una vez al año se expondrá al Consejo Consultivo el plan de trabajo de la Mesa Técnica, la que deberá incorporar en su trabajo las opiniones resueltas por el Consejo; así como la presentación al mismo de los avances del Plan de Desarrollo comunal de niñez y juventud de la comuna por parte de Secretaría Comunal de Planificación y las unidades pertinentes.
+
+2. CABILDO DE NIÑOS, NIÑAS Y JÓVENES. Consiste en la ejecución de una Asamblea abierta para todos/as los/as niños, niñas y jóvenes que deseen participar de esta instancia pública para opinar y proponer ideas en función de temas de su interés, ya sea para temáticas específicas del desarrollo de la comuna o bien para que sean incorporadas al Pladeco, cuando corresponda.
+
+a) DE SU PERIODICIDAD. Su ejecución será obligatoria para la construcción del Plan de Desarrollo Comunal (Pladeco), con el propósito de incorporar su opinión a dicha planificación. Este, además, podrá realizarse toda vez que se estime pertinente por parte de la Mesa Técnica o a solicitud del Consejo Consultivo. Los Cabildos podrán ser territoriales o temáticos.
+
+b) DE SU EJECUCIÓN. Su elaboración, ejecución y evaluación serán co-construidas entre la Mesa Técnica de Participación de Niñez y Juventud, Secretaría Comunal de Planificación y el Consejo Consultivo de Niños, Niñas y Jóvenes.
+
+3. CONCURSO DE INNOVACIÓN ABIERTA: Instancia de participación dirigida a niños, niñas y jóvenes entre los 12 a 17 años (la edad es referencial, y se comprenden estudiantes de séptimo a cuarto medio) que vivan o estudien en colegios de la comuna de Peñalolén, con el objetivo de promover y potenciar las habilidades en la formulación de las políticas públicas, y en el autoconocimiento de los y las jóvenes como parte de una comunidad en la que existen distintas problemáticas. El concurso estará a cargo de la Dirección de Control y Gobierno Abierto, y su reglamentación deberá constar en bases de concurso públicas y conocidas por todos y todas. Sin perjuicio de lo anterior, contará con las siguientes fases: Etapa de difusión, etapa de sensibilización, etapa de formulación de las propuestas de política para resolver el problema, y la etapa de selección de iniciativa ganadora. Se considerará el desarrollo de una iniciativa por año, junto a la implementación de la iniciativa ganadora del año previo, conforme la disponibilidad presupuestaria respectiva.
+
+4. DISEÑO DE ESPACIOS PÚBLICOS: Instancia de participación en el diseño de los espacios públicos, donde se considere la opinión de niños, niñas y jóvenes para la construcción y habilitación de plazas y juegos. El diseño de plazas incluiría a los/as niños, niñas, jóvenes que vivan en el sector y sus familias, así como la de los representantes por sector del Consejo Consultivo. Esta instancia será organizada y llevada a cabo por la Mesa Técnica de Participación de Niñez y Juventud y bajo las directrices de la Dirección de Espacio Público y estará sujeta a disponibilidad presupuestaria. Se deberá diseñar bajo esta forma de participación al menos un espacio público al año por macro sector.
+
+5. CENTRO DE ESTUDIANTES: En coherencia con lo que plantea la normativa establecida en Mineduc, es la organización formada por los y las estudiantes de segundo ciclo de enseñanza básica y enseñanza media, de cada establecimiento educacional. Su finalidad es servir a sus miembros como medio de desarrollar en ellos el pensamiento reflexivo, el juicio crítico y la voluntad de acción; de formarlos para la vida democrática, y de prepararlos para participar en los cambios culturales y sociales. En ningún establecimiento se podrá negar la constitución y funcionamiento de un Centro de Estudiantes, desde el segundo ciclo básico en adelante. Esta ordenanza apunta a que los Centros de Estudiantes puedan disponer de una instancia de orientación para garantizar su participación en instancias comunales.
+
+6. MES DE LA NIÑEZ Y JUVENTUDES: Como parte de las instancias de participación, cada año en el mes de abril o mayo se generará por parte de la Mesa Técnica de Participación la convocatoria y metodología para que en el mes de agosto, en que se conmemora el mes de la niñez y juventudes se generen y construyan actividades donde los niños, niñas y jóvenes sean protagonistas, y sean quienes definan dentro del presupuesto disponible y las factibilidades técnicas municipales, la agenda de actividades hacia la comunidad, se incida en el gasto para eventos, actividades, talleres y otras de interés. La difusión de esta convocatoria debe ser comunal y contar con bases claras de participación y co-construcción de la agenda comunal del mes de la niñez y de las juventudes.
+
+7. MICRO SITIO WEB CON ACCESO Y PARTICIPACIÓN: Existirá en la página web municipal un micro sitio que será específico para la información local y comunal en lenguaje claro y accesible para niños, niñas y jóvenes, donde se inserten las principales noticias que les afecten y se acceda a los servicios. Además, esta plataforma contará con una vía de comunicación digital donde se podrán hacer llegar solicitudes o consultas, en un espacio dedicado a este tramo etario, sin perjuicio que se asegurará en cada recinto de atención de público del municipio un formulario especial de atención para menores de 18 años, donde también poder ejercer su derecho a consulta.
+
+#### Artículo 66
+
+De las Instancias de Formación. La municipalidad deberá entregar herramientas para la participación, a través de la difusión de los mecanismos de participación, para que de esta forma, niños, niñas y jóvenes puedan hacer uso y ejercicio de estos, considerando ciclo vital, género, interculturalidad, y diversidades. Además de la difusión de los mecanismos de participación la municipalidad debe ejecutar acciones de formación ciudadana, liderazgo, información clara y transparencia y participación. Estas instancias se distribuirán por tramos etarios conforme las distintas necesidades metodológicas y unidades responsables respectivas. Son las siguientes:
+
+1. PRIMERA INFANCIA: La Unidad de Primera Infancia estará a cargo de entregar información asociada a participación y ciudadanía en la red de Primera Infancia, estableciendo un módulo sobre la temática en las reuniones de red, fomentar la temática en otras actividades, salas cuna, jardines infantiles y otras organizaciones de primera infancia. Incluir en las actividades conjuntas de la red acciones para el ejercicio de ciudadanía y participación conforme el ciclo vital y los intereses que en este tramo etario correspondan.
+
+2. OFICINA DE PROTECCIÓN DE DERECHOS NIÑOS, NIÑAS Y JÓVENES: Instancias formativas a través de Talleres de liderazgo con Enfoque de Derechos; instancias formativas para adultos/as para entregar herramientas a adultos/as significativos que pueden ser apoyo y soporte en la participación de niños, niñas y jóvenes, ya sea por encontrarse en cargos estratégicos para este propósito (Instituciones: Orientadores; Monitores/as, etc.), o bien, por cumplir un rol familiar de cuidado (Familiares: Cuidadores/as, Hermanos/as, etc.).
+
+3. DIRECCIÓN DE EDUCACIÓN DE PEÑALOLÉN: PARA NIÑOS, NIÑAS Y JÓVENES DESDE LOS 4 A 18 AÑOS: (edad referencial y limitada al ámbito educativo) Instancias formativas para la participación en los espacios educativos a través de procesos pedagógicos y formativos en torno al ejercicio de la participación, liderazgo y trabajo en equipo que promuevan la generación de ideas y acciones de innovación educativa desde las organizaciones estudiantiles que sitúen la generación de habilidades y competencias de los niños, las niñas y jóvenes estudiantes de establecimientos municipales.
+
+4. OFICINA DE JUVENTUDES: PARA JÓVENES DESDE LOS 15 A 29 AÑOS: Instancias formativas para articular, vincular y empoderar liderazgos juveniles de la comuna desde los derechos juveniles, por medio de módulos formativos y experienciales abordándolos en temáticas de liderazgo los/as jóvenes de la comuna, impulsando el fortalecimiento de habilidades y competencias personales para el trabajo en comunidad, generando espacios de reflexión crítica y sensibilización en torno a temáticas de interés juvenil, por medio de encuentros, conversatorios y/u otras instancias de participación.
+
+5. DIRECCIÓN DE CONTROL Y GOBIERNO ABIERTO: PARA NIÑOS Y NIÑAS DESDE LOS 6 A 12 AÑOS, PROGRAMA DE TRANSPARENCIA Y PROBIDAD PARA NIÑOS Y NIÑAS: Instancia formativa que, a través de distintos medios, promueve el Derecho de acceso a la información, específicamente, información pública o Ley de Transparencia, de esta manera proveer herramientas de fomento a la participación.
+
+6. DEPARTAMENTO DE PARTICIPACIÓN CIUDADANA: Promoverá la participación de niños, niñas y jóvenes desde los 14 años, como socios de las organizaciones territoriales y funcionales. Así como también fomentar la constitución de organizaciones juveniles en los territorios. Con el fin de que los niños, niñas y jóvenes, tengan un rol protagónico en sus comunidades.
+
+#### Artículo 67
+
+De la Mesa Técnica de Participación de la Niñez y Juventud. La Mesa Técnica de Participación de la Niñez y Juventud será una instancia municipal que tendrá como objetivo promover y fortalecer procesos de participación de niñez y juventud en la comuna.
+
+1. DE LOS INTEGRANTES DE LA MESA TÉCNICA DE PARTICIPACIÓN DE NIÑEZ Y JUVENTUD. La Mesa Técnica de Participación de Niñez y Juventud será una instancia conformada por al menos dos integrantes de la Dirección de Desarrollo Comunitario, un integrante del Departamento de Participación, dos integrantes del Departamento de Promoción de Derechos y Prevención Social de la Dirección de Seguridad Humana, un representante de la Dirección de Control, un representante de la Corporación Municipal de Educación de Peñalolén y representantes de otras Unidades o Direcciones que se considere pertinente estén presentes.
+
+2. DEL OBJETIVO GENERAL DE LA MESA TÉCNICA DE PARTICIPACIÓN DE NIÑEZ Y JUVENTUD. La Mesa Técnica de Participación de Niñez y Juventud tiene como objetivo generar condiciones para el ejercicio del derecho a la participación en coherencia con la Política Local de Niñez y Juventudes y conforme lo indicado en la presente Ordenanza.
+
+3. DE LAS FUNCIONES DE LA MESA TÉCNICA DE PARTICIPACIÓN DE NIÑEZ Y JUVENTUD. La Mesa Técnica de Participación de Niñez y Juventud, tendrá las siguientes funciones:
+
+a) Elaboración y ejecución de un plan anual de trabajo.
+
+b) Incorporar la opinión del Consejo de los niños, niñas y jóvenes en la formulación del plan anual de trabajo.
+
+c) Apoyar en la elaboración y ejecución del plan anual de los niños, niñas y jóvenes.
+
+d) Apoyar en la elaboración del reglamento de funcionamiento del Consejo de niños, niñas y jóvenes.
+
+e) Asegurar la participación de niños, niñas y jóvenes por medio de las distintas instancias de participación que esta ordenanza indique y todas aquellas instancias municipales de participación.
+
+f) Asegurar que dicha participación sea representativa de todos los macro sectores de la comuna: . Sector La Faena/Sector Lo Hermida/Sector Peñalolén Alto/Sector San Luis.
+
+g) Sistematizar la información y entregar la información relevante a las redes comunales.
+
+h) Capacitar, sensibilizar y formar en materias de participación de NNJ y en enfoque de derechos, a las redes locales que trabajan con niñez y juventudes, a la comunidad en general y a funcionarios y funcionarias municipales y/o de las Corporaciones municipales.
+
+4. DE LAS SESIONES EN GENERAL DE LA MESA TÉCNICA DE PARTICIPACIÓN DE NIÑEZ Y JUVENTUD. La Mesa Técnica de Participación Infanto Juvenil, deberá reunirse en forma periódica y podrá formar comisiones de trabajo para estudiar, analizar o articular en materias de su competencia. La Mesa Técnica de Participación Infanto Juvenil, se reunirá de forma ordinaria, como mínimo 3 veces al año.
+
+5. DEL ENCARGADO DE LA MESA TÉCNICA DE PARTICIPACIÓN DE NIÑEZ Y JUVENTUD. Un representante del Departamento de Promoción de derechos y prevención social ejercerá la coordinación de esta Mesa, a quien le corresponderá:
+
+a) Presidir y convocar a las sesiones ordinarias y extraordinarias.
+
+b) Dirigir los debates con prudencia y equidad.
+
+c) Velar por la incorporación de los Principios y consideraciones de la Política Comunal de Niñez y Juventudes, así como lo dispuesto por esta Ordenanza.
+
+#### Artículo 68
+
+De las Votaciones Comunales. Se permitirá a todos los niños, niñas y jóvenes residentes de Peñalolén, la votación y participación en procesos comunales que lo permitan, según la normativa vigente, desde los 14 años. Lo anterior sin perjuicio de las normas especiales de votaciones y escrutinios y de organizaciones territoriales y funcionales.
+
+#### Artículo 69
+
+De la Rendición de Cuentas. Una vez al año, la Mesa Técnica deberá dar cuenta pública sobre cómo se han considerado y tenido en cuenta las opiniones de niños, niñas y jóvenes conforme esta ordenanza. Este informe se presentará ante el Consejo Consultivo, el Concejo Municipal y deberá ser público a través de los medios digitales del municipio, velando por su adecuada y clara difusión hacia todos y todas los niños, niñas y jóvenes de la comuna.
+
 Disposiciones Transitorias
 
 #### Artículo primero
