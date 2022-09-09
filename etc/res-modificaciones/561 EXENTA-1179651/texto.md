@@ -32,6 +32,8 @@ Resolución:
 
 2.- Modifíquese los plazos correspondientes a los procesos y fases de postulación y selección descritos en el resuelvo N° 2 de la Res. Ex. N° 310, de fecha 18 de mayo de 2022, por los siguientes:
 
+.
+
 3.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N° 310, de fecha 18 de mayo de 2022, de la Seremi Minvu de la Región del Libertador General Bernardo O'Higgins, mantiene su total vigencia.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Joel Becerra Fuentes, Secretario Regional Ministerial de Vivienda y Urbanismo (S) Región del Libertador General Bernardo O'Higgins.
