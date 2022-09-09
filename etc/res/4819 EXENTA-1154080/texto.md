@@ -508,27 +508,27 @@ Luego de la lectura, revisión y control de calidad de las pruebas rendidas, se 
 
 6. Antes de la publicación de puntajes, se realizan nuevos controles, lo que implica que al menos dos unidades de la institución encargada calculen separadamente las transformaciones que llevan al cálculo final de puntajes, las que luego se compararan para corroborar que en el 100% de los postulantes las transformaciones que realizó cada una entregan el mismo puntaje estándar a cada postulante.
 
-Distinciones que se confieren en el proceso de admisión a la educación universitaria: puntajes nacionales, regionales y mérito académico:
+Distinciones que se confieren en el proceso de admisión a la educación universitaria a postulantes de diversos contextos y trayectorias:
 
-Las distinciones que serán otorgadas a los postulantes con mejores resultados en los instrumentos de acceso de carácter general son "Puntajes Nacionales'', "Puntajes Regionales" y "Reconocimiento al Mérito Académico".
+Las distinciones serán otorgadas a los postulantes que, en el año de rendición de la prueba de admisión, egresan de la educación media, excluyendo a alumnos de exámenes libres y reconocimiento de estudios. Las referidas distinciones se otorgarán considerando los siguientes contextos y trayectorias, validados según los procedimientos que establezca la Subsecretaría de Educación Superior publicados a través de la Plataforma Electrónica Única:
 
-i. Puntajes Nacionales
+i. Pueblos Originarios.
 
-Corresponden a aquellos postulantes que pertenecen a la promoción del año y obtienen el máximo puntaje en alguna de las pruebas de admisión (850 puntos). Se excluyen los alumnos de exámenes libres, reconocimiento de estudios y de promociones anteriores para efectos del cómputo de los Puntajes Nacionales, aun cuando obtengan el puntaje máximo.
+Se distinguirá a mujeres y hombres provenientes de algún pueblo originario, que obtengan el puntaje más alto en cada prueba de admisión universitaria obligatoria.
 
-Los nombres de los postulantes que obtengan Puntaje Nacional en alguna de las pruebas de admisión universitaria serán informados a la opinión pública, siempre y cuando el postulante haya aceptado expresamente al momento de la inscripción que esta información sea publicada, conforme a la ley N° 19.628.
+ii. Situación de Discapacidad.
 
-ii. Puntajes Regionales
+Se distinguirá a mujeres y hombres en situación de discapacidad, que obtengan el puntaje más alto en cada prueba de admisión universitaria obligatoria.
 
-En aquellas regiones en las que no existan postulantes que hayan obtenido Puntaje Nacional, se publicarán los nombres de aquellos postulantes de la promoción del año que hayan obtenido los puntajes más altos en cada prueba de admisión, siempre y cuando el postulante haya aceptado expresamente al momento de la inscripción que esta información sea publicada, conforme a la ley N° 19.628.
+iii. Modalidades de Enseñanza.
 
-iii. Reconocimiento al Mérito Académico
+Se distinguirá a mujeres y hombres de establecimientos Municipales, Servicios Locales de Educación, Administración Delegada, Particulares Subvencionados, de modalidades Técnico Profesional y Científico Humanista, además de Particulares Pagados, que obtengan el más alto puntaje promedio entre las pruebas obligatorias, y que además hayan obtenido el Puntaje Ranking máximo.
 
-Se reconoce a estudiantes de la promoción del año de la modalidad científico-humanista y técnico-profesional, en cada región de Chile, que obtengan un Puntaje Ranking de Notas de 850 y los mejores puntajes promedio en las pruebas de admisión obligatorias, desagregados por región, sexo y dependencia del establecimiento de egreso (Municipal, Servicio Local de Educación, Administración Delegada, Particular Subvencionado y Particular Pagado).
+iv. Territorios.
 
-Adicionalmente, para el caso de estudiantes egresados de establecimientos Técnico-Profesionales, se reconoce a un estudiante de la promoción en cada región, seleccionando a quien haya obtenido Ranking 850 y el mejor puntaje promedio de las pruebas de admisión obligatorias.
+Se distinguirá a mujeres y hombres de cada región del país, además del territorio insular, que obtengan el más alto puntaje promedio entre las pruebas obligatorias; el puntaje más alto en la prueba de Competencia Matemática 2; en la prueba de Ciencias, y en la prueba de Historia y Ciencias Sociales.
 
-Los nombres de los postulantes que obtengan el "Reconocimiento al Mérito Académico", serán informados a la opinión pública, siempre y cuando el postulante haya aceptado expresamente al momento de la inscripción que esta información sea publicada, conforme a la ley N° 19.628.
+Los nombres de los postulantes que obtengan alguna de estas distinciones serán informados a la opinión pública, siempre y cuando el postulante haya aceptado expresamente al momento de la inscripción que esta información sea publicada, conforme a la ley N° 19.628.
 
 4.1.1.2.- Instrumentos de Acceso Específicos
 
