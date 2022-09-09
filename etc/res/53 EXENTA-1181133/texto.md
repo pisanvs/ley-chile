@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 53, de 25 de enero de 2012, modificada mediante resolución exenta Nº 86, de 20 de mayo de 2021, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Aysén, se aprobaron los planes y programas de enseñanza a la Escuela de Conductores Profesionales o Clase A denominada "Fénix Chile", cuyo propietario es la sociedad Fénix Capacita SpA, RUT 77.243.267-4, representada legalmente por don Patricio Osvaldo Guíñez Sandoval, cédula de identidad Nº 9.663.264-9, y por doña Marcela del Carmen Velásquez Soto, RUT: 10.947.448-7, para impartir los cursos conducentes a la obtención de licencia de conductores profesionales clase A2, A3, A4 y A5, en sus sedes ubicadas en Avenida General Baquedano Nº 1153, comuna de Coyhaique y calle Sargento Aldea Nº 461, comuna de Puerto Aysén.-
+
+Fabián Humberto Rojas Muñoz, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Aysén del General Carlos Ibáñez del Campo.
