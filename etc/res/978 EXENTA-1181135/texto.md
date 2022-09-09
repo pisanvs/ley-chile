@@ -1,0 +1,5 @@
+PUBLICACIÓN DE CIERRE DE CALLES EN LA REGIÓN DE LOS RÍOS
+
+De acuerdo con el formato y lo instruido por el Ministerio de Transportes y Telecomunicaciones, el Gobierno Regional de Los Ríos publica las resoluciones exentas mes de julio Nos. 4025, 4026, 4027, 4028, 4051- 4064, 4055, 4068, 4069, 4070, 4080, 4105, 4118, 4120, 4125, 4131, 4132, 4133, 4134, 4145, 4170, 4175, 4179, 4180, 4184, 4204, 4226, 4229, 4228, 4231, 4238, 4239, 4244, 4245-4308, 4250, 4256, 4257, 4258, 4253, 4254, 4255, 4283, 4297, 4299, 4300, 4314, 4320, 4326, 4327, 4328, 4329, 4330, 4333, 4334, 4341, 4364, 4370, 4387, 4395, 4396, 4397, 4398, 4399 y 4482; en las fechas descritas, prohibió la circulación de vehículos por las vías que se indican y por los motivos que se señalan en el siguiente cuadro:
+
+Luis Cuvertino Gómez, Gobernador Regional de Los Ríos.
