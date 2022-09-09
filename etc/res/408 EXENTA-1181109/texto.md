@@ -1,0 +1,37 @@
+LEVANTA ÁREA REGLAMENTADA POLILLA DEL RACIMO DE LA VID (LOBESIA BOTRANA) EN PARTE DE LAS COMUNAS DE SAN CARLOS, COIHUECO, ÑIQUÉN, PEMUCO, SAN IGNACIO, COELEMU, RÁNQUIL. ESTABLECE ÁREA REGLAMENTADA POLILLA DEL RACIMO DE LA VID (LOBESIA BOTRANA), EN LAS COMUNAS DE COIHUECO, ÑIQUÉN, SAN CARLOS, SAN NICOLÁS, COELEMU, NINHUE, PORTEZUELO, QUIRIHUE, RÁNQUIL, TREHUACO, BULNES, CHILLÁN VIEJO, CHILLÁN, EL CARMEN, PEMUCO, PINTO, QUILLÓN, SAN IGNACIO, YUNGAY Y SAN FABIÁN REGIÓN DE ÑUBLE Y DEROGA RES. N° 92/2022
+
+Núm. 408 exenta.- Chillán, 2 de septiembre de 2022.
+
+Vistos:
+
+Lo dispuesto en la Ley N° 18.755, Orgánica del Servicio Agrícola y Ganadero; el decreto ley N° 3.557, de 1980, sobre Protección Agrícola; la resolución exenta N° 3.080, de fecha 20 de octubre de 2003, que Establece Criterios de Regionalización en relación a las Plagas Cuarentenarias para el Territorio de Chile; la resolución exenta N° 5.916, de fecha 21 de octubre de 2016 y sus modificaciones establecidas en la resolución exenta N° 3.213, del 25 de mayo de 2017 y la resolución exenta N° 6.810, del 29 de agosto de 2019, que Declara Control Obligatorio de la Polilla del Racimo de la Vid (Lobesia botrana); la resolución exenta N° 3.822/2022, de fecha 5 de julio de 2022, que aprueba la Estrategia del Programa Nacional de Lobesia botrana, todas de la Dirección Nacional del Servicio Agrícola y Ganadero; la resolución TRA N° 240/706/2022, de la Dirección Nacional del Servicio Agrícola y Ganadero, que modifica orden de subrogación al cargo de Director Regional de Ñuble, Mapa de Áreas Reglamentadas para el Control Oficial de Lobesia botrana de la Región de Ñuble, la resolución N° 7/2019, de la Contraloría General de la República que fija normas sobre exención del trámite de toma de razón y deroga resolución N° 1.600, y resolución exenta N° 380/2019 de la Dirección Regional del SAG, Región de Ñuble.
+
+Considerando:
+
+1. Que, conforme lo dispuesto en su ley orgánica, corresponde al Servicio Agrícola y Ganadero, así como aplicar y fiscalizar el cumplimiento de las normas legales y reglamentarias sobre prevención, control y erradicación de plagas de los vegetales, así como determinar las medidas que deben adoptar los interesados para prevenir, controlar, combatir y erradicar las enfermedades o plagas declaradas de control obligatorio, siendo una de ellas la plaga denominada Lobesia botrana.
+
+2. Que, en cumplimiento del considerando precedente, por resolución exenta N° 5.916, de 2016, de la Dirección Nacional del SAG, citada en los vistos, se estableció como área reglamentada la zona definida por un radio de 3 km y dentro de ésta un área de control de 500 metros, determinadas ambas desde cada brote de la plaga Lobesia botrana, dentro de la cual se ejecutan las labores de control propiamente tal.
+
+3. Que, de acuerdo al modelo de ciclos biológicos del insecto registrado en las estaciones de monitoreo que utiliza el Servicio Agrícola y Ganadero para estos propósitos y a lo indicado en el Instructivo PNLb-8 "Instructivo para remover (levantar) la condición de área reglamentada en el Programa de Control Oficial de Lobesia botrana", se ha cumplido con las acciones y procedimientos de erradicación de la plaga.
+
+4. Que el Informe Técnico presentado por el Coordinador Regional del Programa y validado por el Encargado Regional del Programa de Protección Agrícola Forestal y Semillas, ha sido favorablemente sancionado por el Jefe de División, posibilitando el alzamiento de la referida área reglamentada.
+
+5. Que por resolución N° 92, de 2022, de la Dirección Regional de Ñuble, se estableció como área reglamentada parte de las comunas de Coihueco, Ñiquén, San Carlos, San Fabián y San Nicolás, provincia de Punilla; Coelemu, Ninhue, Portezuelo, Quirihue, Ránquil y Trehuaco, provincia de Itata; Bulnes, Chillán Viejo, Chillán, El Carmen, Pemuco, Pinto, Quillón, San Ignacio y Yungay, provincia de Diguillín.
+
+6. Que se hace necesario extender la aplicación de medidas fitosanitarias tendientes a su erradicación, en consideración a nuevas detecciones positivas de Lobesia botrana, en las comunas de San Nicolás y Coihueco provincia de Punilla; Quirihue, Coelemu, Trehuaco, Ninhue, Ránquil, provincia de Itata; Quillón, Bulnes, Pinto y Yungay, provincia de Diguillín, lo que permite definir un nuevo polígono que demarcará las nuevas áreas reglamentadas.
+
+Resuelvo:
+
+1. Establécese como áreas reglamentadas para la erradicación de la plaga Polilla del Racimo de la Vid (Lobesia botrana), parte de las comunas de Coihueco, Ñiquén, San Carlos, San Fabián y San Nicolás, provincia de Punilla; Coelemu, Ninhue, Portezuelo, Quirihue, Ránquil y Trehuaco, provincia de Itata; Bulnes, Chillán Viejo, Chillán, El Carmen, Pemuco, Pinto, Quillón, San Ignacio y Yungay, provincia de Diguillín, Región de Ñuble, insertas en los polígonos que se indican en el Mapa de Áreas Reglamentadas para el Control Oficial de Lobesia botrana de la Región de Ñuble, que se tiene como pieza integrante de esta resolución y que se encuentra disponible en la web del Servicio, en las oficinas sectoriales y en la de esta Dirección Regional.
+
+2. Ordénase la inmovilización de los frutos, plantas o partes de plantas de vid (Vitis vinifera) y/o arándano (Vaccinium corymbosum) y/o cualquier otro artículo que sea susceptible de transportar o dispersar la plaga y que se encuentren en el área reglamentada. Sólo con previa autorización del SAG podrá realizarse su traslado fuera del área reglamentada, previa aplicación de las medidas fitosanitarias que correspondan y de la forma que el SAG defina.
+
+3. Aplíquense en forma inmediata las regulaciones cuarentenarias y medidas fitosanitarias establecidas en la resolución exenta N° 5.916, del 21 de octubre de 2016 y sus modificaciones establecidas en la resolución exenta N° 3.213, del 25 de mayo de 2017 y la resolución exenta N° 6.810, del 29 de agosto de 2019, en las áreas definidas en la presente resolución y por los respectivos propietarios, arrendatarios o tenedores de los predios afectados, desde el momento de su notificación y bajo su exclusiva responsabilidad y cargo.
+
+4. Los propietarios, arrendatarios o tenedores de predios de vid y/o arándanos situados dentro del área reglamentada deberán implementar y presentar al SAG, para su autorización, un Plan Operacional de Trabajo, dentro del plazo de 30 días, contados desde la notificación de la condición de "Huerto ubicado dentro del área reglamentada". El Plan Operacional de Trabajo aprobado por el Servicio tendrá carácter obligatorio y será fiscalizado y sancionado por esta autoridad, conforme a la ley.
+
+5. Las transgresiones o incumplimientos de las medidas que se disponen serán sancionadas de conformidad a lo dispuesto en el decreto ley N° 3.557, de 1980, sobre Protección Agrícola, y por la ley N° 18.755, Orgánica del Servicio Agrícola y Ganadero.
+
+6. Deróguese la resolución N° 92, de 2022, de esta Dirección Regional, y levántense las restricciones cuarentenarias por polilla del racimo de la vid (Lobesia botrana) en el área reglamentada que comprende parcialmente las comunas de Coelemu y Ránquil, provincia de Itata; San Ignacio y Pemuco, provincia de Diguillín; San Carlos, Coihueco y Ñiquén, provincia de Punilla.
+
+Anótese y comuníquese.- Gloria Isabel Cuevas Cerda, Directora Regional (S) Región de Ñuble.
