@@ -48,7 +48,7 @@ b) Transcurrido un plazo de 3 años para mejoramientos y sólo se podrán postul
 
 4. El proceso de postulación se realizará de acuerdo con las fases establecidas en el artículo 27 del DS Nº 27 (V. y U.), de 2016.
 
-Las postulaciones podrán ser realizadas a través de Entidades Patrocinantes con Convenio Marco vigente, Equipos Técnico Profesionales o Profesionales Independientes que suscriban el contrato tipo, proporcionado por el Minvu, con la organización comunitaria. Los Equipos Técnico Profesionales y Profesionales Independientes podrán postular, en cada llamado, hasta 3 proyectos o un monto máximo de hasta 10.500 UF de subsidio, de cualquiera de los tipos de proyectos indicados en el DS Nº27.
+Las postulaciones podrán ser realizadas a través de Entidades Patrocinantes con Convenio Marco vigente, Equipos Técnico Profesionales o Profesionales Independientes que suscriban el contrato tipo, proporcionado por el Minvu, con la organización comunitaria. Los Equipos Técnico Profesionales y Profesionales Independientes podrán postular, en cada llamado, hasta 3 proyectos o un monto máximo de hasta 10.500 UF de subsidio, de cualquiera de los tipos de proyectos indicados en el artículo N° 64 del DS N° 27.
 
 Los Equipos Técnico Profesionales, y los Profesionales Independientes con proyectos seleccionados deberán suscribir un Convenio con el Serviu y presentar la inscripción vigente en el Registro de Consultores del Minvu en el plazo que dicho convenio señale.
 
@@ -98,7 +98,11 @@ f) De cumplir con lo señalado en el numeral 1, del Artículo Nº 38, en relaci�
 
 6. El presente llamado considera 2 selecciones, cuyos plazos de procesos y fases de postulación correspondientes a la primera selección son los siguientes:
 
+.
+
 La primera selección dispondrá del 50% de los recursos señalados en el Resuelvo 7 de la presente resolución, y la segunda selección dispondrá del saldo. Los plazos de la segunda selección son los detallados a continuación:
+
+.
 
 En caso de requerirse, el período de digitación podrá prorrogarse dentro del plazo de la habilitación de postulaciones. Del mismo modo, el período de Presentación de los Proyectos podrá extenderse dentro del plazo de la Revisión y Calificación de los proyectos.
 
