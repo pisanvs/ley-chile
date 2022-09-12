@@ -1,0 +1,5 @@
+SE APRUEBA EL TÉRMINO UNILATERAL DEL CONVENIO DE COLABORACIÓN SUSCRITO EL 22.07.2019, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA FUNDACIÓN ARTESANÍAS DE CHILE, APROBADO POR RESOLUCIÓN EXENTA Nº 263, DE 31.07.2019
+
+Por resolución exenta Nº 310, de 30 de agosto de 2022, el Director Nacional del Instituto de Previsión Social, aprobó el "Término Unilateral de Convenio de Colaboración entre el Instituto de Previsión Social y la Fundación Artesanías de Chile", de fecha 22 de agosto de 2022, ya que se ha podido constatar que a la fecha éste no se encuentra operativo, y su objetivo caducó, por lo cual se determinó la necesidad de finalizar el convenio, para lo cual se despachó oficio Ord. DN Nº 67.035-2022, de fecha 1 de febrero de 2022, mediante carta certificada, según da cuenta la Guía Nº 347, de 03.02.2022, remitida por el DSGT, para notificar a la Fundación de lo antes expuesto.-
+
+Patricio Coronado Rojo, Director Nacional.
