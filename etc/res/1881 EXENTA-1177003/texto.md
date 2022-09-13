@@ -46,16 +46,14 @@ Resolución:
 
 Los establecimientos de producción farmacéutica que posean sistemas propios de generación, almacenamiento y distribución de agua purificada (laboratorios farmacéuticos de producción y/o recetarios magistrales) deberán incorporar este método como parte de los programas de monitoreo rutinario de dichos sistemas.
 
-2. Establécese la obligatoriedad de incorporar como parámetro microbiológico la ausencia del complejo de Burkholderia cepacia en las especificaciones de producto terminado de medicamentos no estériles a base de agua, con registro sanitario vigente, tales como preparaciones acuosas de uso oral, oromucosal, dérmicas, nasales y/o preparaciones para inhalación.
+2. Establécese la obligatoriedad de incorporar como parámetro microbiológico la ausencia del complejo de Burkholderia cepacia en las especificaciones de producto terminado de medicamentos no estériles a base de agua, tales como preparaciones acuosas de uso oral, oromucosal, dérmicas, nasales y/o preparaciones para inhalación.
 
-Para tales efectos deberá presentar ante este Instituto los antecedentes correspondientes a la siguiente prestación Modificación de Especificaciones de Producto Farmacéutico o Pesticida (por producto), código de la prestación 4111020, pagando el arancel correspondiente.
-
-El requerimiento, señalado en el primer párrafo, aplica también sobre preparados magistrales u oficinales, en conformidad al Art. 47º del DS 79/2010 del Ministerio de Salud.
+Para tales efectos deberá presentar ante este Instituto los antecedentes correspondientes a la siguiente prestación Modificación de Especificaciones de Producto Farmacéutico o Pesticida (por producto), código de la prestación 4111020, cuya solicitud estará exenta de arancel.
 
 3. Instrúyase implementar el método analítico para la detección del complejo Burkholderia cepacia el capítulo <60> Examen Microbiológico de Productos no Estériles: Pruebas para el Complejo Burkholderia Cepacia de la Farmacopea de Estados Unidos de América (USP), u otro método de detección validado.
 
 A causa de la existencia de métodos de control alternativos al recomendado; producto del advenimiento de nuevas tecnologías en el ámbito de la microbiología, se requerirá de la validación completa de ellos para su implementación.
 
-4. Establécese los siguientes plazos para la implementación y fiscalización de los puntos 1 y 2:
+4. Establécese los siguientes plazos para la implementación y fiscalización del punto 1, con las pertinentes distinciones:
 
 Anótese, comuníquese y publíquese su texto íntegro en el Diario Oficial.- Heriberto García Escorza, Director (S), Instituto de Salud Pública de Chile.
