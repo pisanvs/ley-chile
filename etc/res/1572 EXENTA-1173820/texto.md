@@ -22,7 +22,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Declárase como de desempeño de excelencia para los años 2022 y 2023 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley N° 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en el listado contenido en el archivo "Listado EE Subvencionados seleccionados SNED 2022 - 2023" con firma electrónica avanzada del CD con folio N° 01/2022-2023, firmado por el Jefe de la División de Educación General, que se acompaña en anexo y que forma parte integrante de la presente resolución.
+Declárase como de desempeño de excelencia para los años 2022 y 2023 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley N° 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan en los listados contenidos en los archivos con firma electrónica avanzada del CD con folio N° 01/2022-2023 y del CD con folio N° 02/2022-2023, ambos firmados por los jefes respectivos de la División de Educación General, que se acompañan en anexo y que forman parte integrante de la presente resolución.
 
 #### Artículo 2°
 
@@ -42,6 +42,6 @@ Téngase presente que la transferencia que se devengue para el año 2023, quedar
 
 #### Artículo 6°
 
-Por razones de economía, eficiencia y de buen servicio, el anexo que contiene la nómina de establecimientos educacionales subvencionados beneficiarios de la subvención por desempeño de excelencia será distribuido en formato digital, por medio de una copia del CD a que refiere el artículo 1°.
+Por razones de economía, eficiencia y de buen servicio, el anexo que contiene la nómina de establecimientos educacionales subvencionados beneficiarios de la subvención por desempeño de excelencia será distribuido en formato digital, por medio de una copia de los CD a los que se refiere el Artículo 1°.
 
 Anótese, comuníquese y publíquese.- Jorge Poblete Aedo, Subsecretario de Educación.
