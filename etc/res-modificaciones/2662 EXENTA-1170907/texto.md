@@ -204,9 +204,9 @@ La transmisión del valor representativo de cada hora calendario deberá efectua
 
 d) Información de interrupciones
 
-Ante interrupciones por fallas que generen pérdida de datos, éstas deberán ser informadas a la SMA dentro de un plazo de 48 horas, a través de los medios que la SMA disponga para tal efecto, los cuales estarán disponibles en el módulo de Catastro API11 o en su defecto en el portal institucional.
+Ante interrupciones por fallas que generen pérdida de datos, éstas deberán ser informadas a la SMA en un consolidado semanal, de todas las interrupciones que haya sufrido durante la semana, a través de los medios que la SMA disponga para tal efecto, los cuales estarán disponibles en el módulo de Catastro API o en su defecto en el portal institucional.
 
-Incidentes que generen una interrupción en la transmisión, pero cuyos datos sean respaldados y enviados a la SMA de forma posterior, no será obligatorio informarlos, salvo cuando la interrupción supere las 48 horas seguidas.
+Para dar cumplimiento a lo anterior, el titular deberá cargar en los sistemas de la SMA, el primer día hábil de la semana siguiente a la que reporta.
 
 Sin perjuicio de lo anterior, el CES deberá garantizar el continuo monitoreo y envío de información, disponiendo de equipos de respaldo.
 
