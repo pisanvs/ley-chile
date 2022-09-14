@@ -198,11 +198,11 @@ o potencia
 
 902 a 928 MHz 5 mW
 
-2.400 a 2.483,5 MHz 50 mV/m a 3 metros
-
 13.553 a 13.567 kHz 20 mV/m a 30 metros
 
-i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de 77 a 81 GHz con una P.I.R.E. máxima de 55 dBm conforme a lo dispuesto en la Recomendación UIT-R M.1452-2, en la banda de frecuencias 76 a 77 GHz con una potencia máxima entregada a la antena de 10 mW y con antenas con una ganancia máxima de 40 dB y, en la banda 24.000 a 24.250 MHz, con una potencia máxima radiada de 100 mW.
+También podrán acogerse al presente literal los equipos y sus características, que sean certificados por la letra j.1 de esta resolución.
+
+i) Equipos empleados como sistemas de radar en vehículos que operen en la banda de 77 a 81 GHz con una P.I.R.E. máxima de 55 dBm conforme a lo dispuesto en la Recomendación UIT-R M.1452-2, en la banda de frecuencias 76 a 77 GHz con una potencia isotrópica radiada equivalente (P.I.R.E.) máxima de 50 dBm y, en la banda 24.000 a 24.250 MHz, con una potencia máxima radiada de 100 mW.
 
 j) Otros equipos que cumplan con lo que se establece a continuación:
 
@@ -210,7 +210,7 @@ j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz;
 
 También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 1 W y una densidad de potencia máxima radiada que no exceda 17 dBm/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
 
-Los equipos de acceso, también aludidos como AP, de baja potencia, que operen en la banda de frecuencias 5.925 a 7.125 MHz, deberán ser para uso exclusivo en interiores y cumplir con los siguientes requisitos de potencia de transmisión:
+Los equipos de acceso, también aludidos como AP, de baja potencia, que operen en la banda de frecuencias 5.925 a 6.425 MHz, deberán ser para uso exclusivo en interiores y cumplir con los siguientes requisitos de potencia de transmisión:
 
 - PIRE máxima de 30 dBm.
 
