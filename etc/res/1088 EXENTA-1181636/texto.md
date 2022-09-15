@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.088, 29 de agosto de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Collin 1190, comuna de Chillán, Rol de Avalúo N° 507-20, de aparente dominio de Fuentes Parra Víctor. La superficie afecta a expropiación Parcial es de 10,91 m2 de terreno y la de expropiación Total es de 35,34 m 2 de edificaciones, cuyos linderos particulares están enmarcados en el plano S16R-090, para el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por la Arquitecto doña Priscilla Andrea Encalada Rueda, el Arquitecto don Juan Felipe King Domínguez, el Arquitecto don Andrés Javier Tobar Beluzán y el Ingeniero Civil don Juan Armando Salas Urzúa, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $17.652.501.-
+
+Director Serviu Región de Ñuble.
