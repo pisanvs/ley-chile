@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.672, de fecha 18 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8237-02, correspondiente al inmueble ubicado en pasaje Reloj de Sol 01640, departamento 12, Rol de avalúo 8237-02, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Cristina Soledad Rojas Cariola, con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Patricia Zavala Contreras, Constructora Civil; Constanza Camila Vásquez Muñoz, Arquitecta, y Daniel Zamudio Wehrhahn, Ingeniero Civil; mediante Informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $25.607.636, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
