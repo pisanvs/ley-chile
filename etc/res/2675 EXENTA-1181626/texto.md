@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.675 de fecha 18 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote N° 8237-19, correspondiente al inmueble ubicado en calle Reloj De Sol 01670 DP 23 Marta Brunet, población Marta Brunet, Rol de Avalúo 8237-19, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Ingrid Karen Muñoz Menares, con una superficie aproximada de 42,74 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Roberto Söhrens Camus, Arquitecto, Paulina Jadue Zaror, Arquitecto; y Pablo Berrios Pirnat; Arquitecto, mediante Informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $25.369.387.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
