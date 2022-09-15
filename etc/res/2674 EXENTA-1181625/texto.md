@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.674 de fecha 18 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8237-14, correspondiente al inmueble ubicado en calle Reloj De Sol 01670 DP 12, población Marta Brunet Rol de Avalúo 8237-14, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Amelia Rosa Almuna Schulz, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Roberto Söhrens Camus, Arquitecto, Paulina Jadue Zaror, Arquitecta; y Pablo Berrios Pirnat; Arquitecto, mediante Informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $25.100.157.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
