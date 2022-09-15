@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°661, de 17 de agosto de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 93, para la obra: REPOSICION PAVIMENTO RUTA J-60, SECTOR RAUCO - CRUCE RUTA COSTERA, que figura a nombre de ALCAINO HERRERA MARIA GABRIELA, rol de avalúo 32-112, Comuna de RAUCO, REGION DEL MAULE, superficie 69 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PATRICIO ULISES DURAN MARCOS y JUAN ARMANDO SALAS URZÚA, mediante informe de tasación de 04 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.664.200 para el lote N°93. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
