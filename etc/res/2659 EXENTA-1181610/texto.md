@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.659, de fecha 18 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado lote Nº 8229-03, correspondiente al inmueble ubicado en pasaje Reloj de Sol 01669, departamento 13, Rol de Avalúo 8229-03, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Leonor Alicia Riquelme Salamanca, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Roberto Sóhrens Camus, arquitecto; Paulina Jadue Zaror, arquitecta; y Pablo Berríos Pirnat, arquitecto; mediante informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $26.055.919, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
