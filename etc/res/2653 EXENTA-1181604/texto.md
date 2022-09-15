@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.653, de fecha 18 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 8226-12, correspondiente al inmueble ubicado en calle Reloj de Sol 3566, DP 32, población Marta Brunet, Rol de Avalúo 8226-12, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Claudio Rojas Sepúlveda, con una superficie aproximada de 42,02 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Carlos Montecinos Galleguillos, Ingeniero en Ejecución, Juan Armando Salas Urzúa, Ingeniero Civil Industrial; y Maria Isabel Ríos Marcuello, Arquitecta, mediante informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $24.839.268.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 72 del decreto ley N° 2.186, de 1978.-
+
+Directora Serviu Metropolitano.
