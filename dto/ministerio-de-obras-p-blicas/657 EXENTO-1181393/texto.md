@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP N°657, de 17 de agosto de 2022, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto (Exento) MOP. N°469, de 26 de junio de 2019, en la parte que se refiere al Convenio Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno N°s 178 y 179, expropiados con motivo de la obra: Reposición Pavimento Ruta U-40, Sector: Osorno - Intersección Ruta U-52, Comuna de Osorno, San Juan de la Costa, Provincia de Osorno, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 04 de mayo de 2018, ascendente a la cantidad de $156.000, para el lote N°178 y $1.944.500, para el lote N°179. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
