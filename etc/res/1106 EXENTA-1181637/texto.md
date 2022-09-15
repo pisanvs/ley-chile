@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.106, del 2 de septiembre de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Huambalí Nº310, comuna de Chillán, Rol de Avalúo Nº 643-6, de aparente dominio de Pastén Sepúlveda Elba Adela. La superficie afecta a expropiación Parcial de terreno (Lote 57) es de 261,15 m² y Total de edificación es de 104,54 m², cuyos linderos particulares están enmarcados en el plano S16R-116, para el proyecto "Iniciativas de Inversión - Proyectos-Terrenos-Mejoramiento Avenida Huambali-Chillán", de la comuna de Chillán, en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto don Mario Fabrizzio Bellolio Bostica, el Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $67.150.977.-
+
+Director Serviu Región de Ñuble.
