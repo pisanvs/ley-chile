@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 626, de 17 de agosto de 2022, se tuvo por desistida parcialmente la expropiación del lote de terreno N° 8, ordenada por Decreto Exento MOP N° 1301 de 25 de noviembre de 2021, para la obra "Mejoramiento Ruta Nahuelbuta Sector B Subsector 4: Variante Coihue - Variante Renaico", Región del Biobío, comuna de Negrete, reduciéndose la superficie del lote N° 8 expropiado a 1.455 m2. Se aprobaron además el Plano y Cuadro de Expropiación, elaborados por la Dirección General de Concesiones de Obras Públicas, para el lote N° 8. En todo lo no modificado se mantiene plenamente vigente el Decreto Exento MOP N° 1.301 de 25 de noviembre de 2021. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 6°, 7° y 32° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
