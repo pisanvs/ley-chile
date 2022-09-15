@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 698 de 25 de agosto de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 131 y 133, Rol de avalúo 19-279, comuna de San Pedro, superficies 367 y 434 m2., para la obra CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B, SUBSECTOR: RUTA 66: PUENTE EL DURAZNO - ENLACE LAS ARAÑAS, COMUNA DE SAN PEDRO, PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por ORLANDO JAVIER PAREDES VÁSQUEZ, ANDRÉS ECHEVERRÍA CAMPO e ITSANG LU CHEN, fijó el valor de tasación con fecha 21 de enero de 2022, acordándose la indemnización con su propietaria MARÍA DE LA PAZ JULIA DEL CARMEN EMILIANA MORENO VELASCO, en la cantidad de $3.108.368.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
