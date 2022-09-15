@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 695 de 25 de agosto de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 280 para la obra: CONCESIÓN RUTA 66 - CAMINO DE LA FRUTA. SECTOR B. SUBSECTOR: RUTA 66: LAS BRISAS DE SANTO DOMINGO - PLANTA AVICOLA. VISTA HERMOSA, Región de Valparaíso, que figura a nombre de SANTANDER ZUNIGA LUIS, rol de avalúo 1629-3, de la comuna de Santo Domingo, superficie 353 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 632 de 20 de diciembre de 2021, integrada por Mufida Viola Abuawad Elias, Fernando José Senerman Mandel y Eduardo Alejandro Silva Aracena, mediante informe de tasación de 10 de febrero de 2022 fijó el monto de la indemnización provisional en la cantidad de $12.538.250 para el lote N° 280. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
