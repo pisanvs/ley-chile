@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°652, de 17 de agosto de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: CONSERVACIÓN PUENTES MENORES, PUENTE TEMUCO, que figura a nombre de URIBE BELLO JUAN EUDE, rol de avalúo 104-25, Comuna de EL CARMEN, REGION DE ÑUBLE, superficie 204 m2. La Comisión de Peritos integrada por VALERIA MARDONEZ LEMA, VALESKA ALÉ GOÑI y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 28 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.522.484 para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
