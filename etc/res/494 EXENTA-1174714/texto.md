@@ -360,13 +360,15 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, los efectos del Pase de M
 
 49. De la suspensión. La autoridad sanitaria podrá disponer como medida sanitaria, en casos justificados, la suspensión de la utilización del Pase de Movilidad. Para estos efectos, será aplicable lo dispuesto en el inciso segundo del artículo 178 del Código Sanitario.
 
-50. Exigencia en eventos masivos. El o los organizadores de eventos en los que se espere una concurrencia masiva de público deberán vender o entregar las entradas en forma nominada, las que serán intransferibles y se exigirá, como condición para el ingreso al recinto, la exhibición del Pase de Movilidad habilitado y un documento que acredite que la identidad de la persona coincide con aquella de la entrada, en su caso, conforme el numeral 48 precedente.
+50. Exigencia en eventos masivos. El o los organizadores de eventos en los que se espere una concurrencia masiva de público deberán vender o entregar las entradas en forma nominada, las que serán intransferibles.
 
-La exhibición del Pase de Movilidad y del documento que acredite la identidad, será exigible también para los trabajadores del evento.
+Para el ingreso al recinto se exigirá la exhibición del Pase de Movilidad habilitado o; en el caso de quienes no cuenten con un pase de movilidad y no están afectos a la medida de aislamiento prevista en la presente resolución o en la resolución exenta N° 495, de 12 abril de 2022, del Ministerio de Salud, un resultado negativo en test PCR para SARS-Cov-2 realizado en Chile y cuya muestra no exceda las 24 horas previas al ingreso.
+
+La exhibición de los documentos señalados precedentemente, será exigible también para los trabajadores del evento.
 
 Todo lo anterior deberá ser informado a los asistentes en forma previa y durante el evento.
 
-Por último, con al menos 24 horas de antelación al evento, el o los organizadores deberán consultar con la autoridad sanitaria regional el estado del Pase de Movilidad de los asistentes, siendo responsables de que sólo las personas con Pase de Movilidad vigente accedan al evento.
+Por último, con al menos 24 horas de antelación al evento, el o los organizadores deberán consultar con la autoridad sanitaria regional el estado del Pase de Movilidad de los asistentes, siendo responsables de que sólo accedan al evento las personas con Pase de Movilidad o resultado negativo en un test PCR, en los términos exigidos en el inciso segundo precedente.
 
 El o los organizadores deberán disponer de una nómina incluyendo nombres y apellidos de los participantes, su número de cédula de identidad o pasaporte y sus números de teléfono de contacto, así como el número de asiento utilizado por cada uno de ellos, en caso de butacas fijas. Esta nómina estará, en todo caso, afecta a las disposiciones de las leyes Nº 19.628 y Nº 20.584, en lo que fuera aplicable.
 
