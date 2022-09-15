@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 189, de fecha 17 de junio de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Salmones Multiexport S.A., RUT 79.891.160-0, concesión marítima menor con vencimiento el 30 de junio del año 2031, sobre un sector de playa y porción de agua, en el lugar denominado Sector Isla Teuquelín, Norte de Punta Cualchún, comuna de Quinchao, provincia de Chiloé, Región de Los Lagos, con una superficie total de 97,29 m², la que fue tramitada con el SIABC N° 43.471. A modo referencial se señala la siguiente coordenada geográfica: Latitud 42°27'41,92" Sur, Longitud 73°14'55,31" Weste. El objeto de esta concesión marítima, sobre los sectores otorgados, consiste en regularizar la instalación y operación de un atracadero flotante y una boya de amarre para naves hasta 25 TRG. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Dennis Gallardo Salinas, Suboficial L. (Seg.M.), Capitán de Puerto de Achao.
