@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº646, de 17 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 84 y 85, para la obra: CAMINO: MIRASOL BIFURCACIÓN QUINTAY, RUTA F-814, que figuran a nombre de MONTOYA GONZALEZ ORLANDO MOISES y ROJAS MONTOYA RONALD ALEJANDRO, roles de avalúo 609-23 y 609-21, Comuna de ALGARROBO, REGIÓN DE VALPARAÍSO, superficies 711 y 742 m2. respectivamente. La Comisión de Peritos integrada por PEDRO MARIO OSVALDO ALMONACID COLÍN, BERNARDO LUIS VERA MANDAKOVIC y FELIPE JOSÉ VALDÉS GONZÁLEZ, mediante informe de tasación de 10 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $13.720.600, para el lote Nº84 y $11.028.200, para el lote Nº85. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
