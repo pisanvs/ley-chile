@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 630 de 17 de agosto de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO RIO BUENO - PUERTO MONTT PID G3: SERVICIALIDAD Y OBRAS DE SEGURIDAD NORMATIVA OBRA Nº 4, Región de Los Lagos, que figura a nombre de ROSAS MANCILLA MANUEL GUSTAVO, rol de avalúo 105-40 de la comuna de San Pablo, superficie 467 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 49 de 9 de marzo de 2022, integrada por Karin Alicia Ernst Elizalde, Carlos Roberto Alarcón Villegas y Juan Andrés Tepper Lavanderos, mediante informe de tasación de 25 de abril de 2022, fijó el monto de la indemnización provisional en la cantidad de $4.139.050 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
