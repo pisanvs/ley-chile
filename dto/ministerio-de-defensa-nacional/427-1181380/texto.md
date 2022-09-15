@@ -1,0 +1,7 @@
+ACOGE PARCIALMENTE RECURSO DE REPOSICIÓN EN CONTRA DEL DECRETO SUPREMO N° 471/2017
+
+Decreto supremo N° 427, de fecha 25 de octubre de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, acoge parcialmente el recurso de reposición deducido en contra del DS N° 471, del 13 de octubre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sólo en el sentido de disminuir el porcentaje de la renta que grava el terreno entregado en concesión marítima a José Domingo Márquez Zambrano, RUN N° 13.971.632-9, con vencimiento el 31 de diciembre de 2022, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Playa Yape Sur, comuna y provincia de Iquique, Región de Tarapacá, con una superficie total de 1.000 m2, la que fue tramitada con el SIABC N° 31.741. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar la mejora fiscal existente, y dotar al sector con obras e instalaciones para desarrollar un proyecto de escuela de deportes náuticos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Patache. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Patache, 7 de septiembre de 2022.- Giovanni Grassi Fuentes, Teniente 1° LT, Capitán de Puerto de Patache.
