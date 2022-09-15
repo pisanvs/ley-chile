@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°662, de 17 de agosto de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.140, 141 y 142, para la obra: REPOSICION PAVIMENTO RUTA J-60, SECTOR RAUCO - CRUCE RUTA COSTERA, que figuran a nombre de VELOSO VYHMEISTER LILIANA Y OTRO, rol de avalúo 34-20, Comuna de RAUCO, REGION DEL MAULE, superficies 787, 196 y 844 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PATRICIO ULISES DURAN MARCOS y JUAN ARMANDO SALAS URZÚA, mediante informe de tasación de 06 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.838.100 para el lote N°140, $2.766.800 para el lote N°141, y $8.323.200 para el lote N°142. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
