@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.654, de fecha 18 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8226-14, correspondiente al inmueble ubicado en pasaje Raíz de Sueño 01630 departamento 12, Rol de Avalúo 8226-14, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de María Humbertina Bustos Bustos, con una superficie aproximada de 42,02 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Patricia Zavala Contreras, Constructora Civil; Constanza Camila Vásquez Muñoz, Arquitecta; y Daniel Zamudio Wehrhahn, Ingeniero Civil; mediante Informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $25.339.365, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
