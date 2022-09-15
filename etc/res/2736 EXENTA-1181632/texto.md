@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.736, de fecha 22 de julio de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado lote Nº8211-35, correspondiente al inmueble ubicado en Montaña Adentro 01682 departamento 33, Rol de Avalúo 8211-35, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Hecilda de las Mercedes de la Hoz, con una superficie aproximada de 42,98 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Habilitación de Terrenos Población Marta Brunet, Etapa B, Sector Bajos de Mena, Puente Alto". La Comisión de Peritos integrada por Patricia Zavala Contreras, constructora civil; Constanza Camila Vásquez Muñoz, arquitecta; y Daniel Zamudio Wehrhahn, ingeniero civil; mediante informe de fecha 10 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $25.520.905, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
