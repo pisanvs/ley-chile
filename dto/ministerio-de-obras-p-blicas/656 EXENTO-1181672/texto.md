@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº656, de 17 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.159 y 188, para la obra: REPOSICION PAVIMENTO RUTA J-60, SECTOR RAUCO - CRUCE RUTA COSTERA, que figura a nombre de DIAZ CALQUIN MARIO ROBERTO y RIQUELME FAUNDEZ JUAN DE DIOS Y OTR, roles de avalúo 34-65 y 36-213, Comuna de RAUCO, REGION DEL MAULE, superficies 163 y 411 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PATRICIO ULISES DURAN MARCOS y JUAN ARMANDO SALAS URZÚA, mediante informe de tasación de 30 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $34.318.000 para el lote Nº159, y $4.468.200 para el lote Nº188. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
