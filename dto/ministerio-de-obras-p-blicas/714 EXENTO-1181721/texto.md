@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 714 de 25 de agosto de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 63, Rol de avalúo 31-52, comuna de Rauco, superficie 180 m2., para la obra REPOSICIÓN PAVIMENTO RUTA J-60, SECTOR RAUCO - CRUCE RUTA COSTERA, COMUNA DE RAUCO, PROVINCIA DE CURICÓ, REGIÓN DEL MAULE. La comisión de peritos, integrada por GABRIEL ANTONIO PANTOJA RIVERA, PATRICIO ULISES DURÁN MARCOS y JUAN ARMANDO SALAS URZÚA, fijó el valor de tasación con fecha 01 de octubre de 2021, acordándose la indemnización con su propietaria MARTA DINA ABARCA CANALES, en la cantidad de $4.543.337.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
