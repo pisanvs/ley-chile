@@ -20,7 +20,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Destínase el eje San Diego-Bandera, entre Padre Alonso de Ovalle y Compañía de Jesús, de la comuna de Santiago, como paseo peatonal.
+1.- Destínase como paseo peatonal las siguientes vías de la comuna de Santiago, en los tramos y extensión que se indican en el cuadro inserto:
 
 2.- La Ilustre Municipalidad de Santiago deberá disponer, para tal efecto, la instalación de la señalización de tránsito correspondiente.
 
