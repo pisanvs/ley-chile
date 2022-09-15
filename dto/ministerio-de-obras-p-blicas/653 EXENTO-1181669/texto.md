@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°653, de 17 de agosto de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.50 y 51, para la obra: MEJORAMIENTO RUTA S-75, SECTOR COLICO - CABURGUA NORTE, que figura a nombre de MELEJ BUSTOS DIEGO ALFONSO Y OTROS, rol de avalúo 1319-318, Comuna de CUNCO, REGION DE LA ARAUCANÍA, superficies 250 y 120 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, MARIA SOLEDAD NUÑEZ ARROYO y CLAUDIO HERNÁN ANGULO SOTOMAYOR, mediante informe de tasación de 02 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.875.000 para el lote N°50, y $4.240.500 para el lote N°51. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
