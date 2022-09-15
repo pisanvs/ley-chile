@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 710 de 25 de agosto de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 75-B, Rol de avalúo 268-90, comuna de Pelluhue, superficie 1.539 m2., para la obra REPOSICIÓN PAVIMENTO RUTA M-50 SECTOR CAUQUENES - CHANCO TRAMO LOS RUILES - CHANCO, COMUNAS DE CHANCO Y PELLUHUE, PROVINCIA DE CAUQUENES, REGIÓN DEL MAULE. La comisión de peritos, integrada por JHANNE DARIOLETTE MEZA IBAR, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 18 de febrero de 2019, acordándose la indemnización con sus propietarias MÓNICA MARÍA MARGARITA GÓMEZ RÍOS Y OTRA, en la cantidad de $4.237.617.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
