@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN QUE RECTIFICA EXPEDIENTE DEL ESTUDIO DE IMPACTO AMBIENTAL DEL PROYECTO PARQUE EÓLICO VIENTO SUR
+
+De conformidad a lo dispuesto en el artículo 95 y en el inciso final del artículo 91 del DS Nº 40/2012 MMA (Reglamento del SEIA), se comunica que, con fecha 5 de septiembre del año 2022, el Servicio de Evaluación Ambiental de la Región del Biobío, emitió la resolución exenta Nº 202208101360 que rectifica el expediente de evaluación de impacto ambiental del Estudio de Impacto Ambiental del proyecto "Parque Eólico Viento Sur", del titular, Arauco Bioenergía S.A., aprobado por la resolución exenta Nº 202208101120 de la Comisión de Evaluación de la Región del Biobío, incorporando en él, a través de su publicación, los siguientes documentos: a) Anexo Participación Ciudadana Resolución de Calificación Ambiental (PAC RCA) y, b) Anexo de actas de Proceso de Consulta a Pueblos Indígenas (PCPI) en la sección del banner de proceso de consulta indígena.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA del Biobío, ubicada en Lincoyán Nº 145, Concepción. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
