@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 4.268, de fecha 6 de septiembre de 2022, de esta Secretaría Regional, se aprobó el Programa de Enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Sociedad de Capacitación Conduce Ltda", cuyo nombre de fantasía es "Conduce Ltda.", RUT N° 76.894.251-K, de propiedad de la sociedad del mismo nombre, cuyo representante legal es doña Diana Marcela Betancourt Ramírez, cédula nacional de identidad N° 25.013.207-7, y su director el señor Héctor Ernesto Cerda Rodríguez, cédula nacional de identidad N° 9.407.755-0. La Escuela de Conductores estará ubicada en Avenida Américo Vespucio N° 160-A, Oficina N° 21, comuna de Ñuñoa, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
