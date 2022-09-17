@@ -34,9 +34,9 @@ Resolución:
 
 1) Llámase a postulación en condiciones especiales, para el otorgamiento de subsidios de Mejoramiento y Ampliación de Vivienda, en Proyectos para la Vivienda, del Capítulo Segundo del Programa de Mejoramiento de Viviendas y Barrios, regulados por el DS N° 27 (V. y U.), de 2016, y sus modificaciones, que reglamenta el Programa de Mejoramiento de Viviendas y Barrios, para el desarrollo de los proyectos que se indican, en todas las regiones del país.
 
-2) Para el presente llamado se realizarán dos procesos de selección, siempre que tras el primer proceso queden recursos disponibles.
+2) Para el presente llamado se realizarán tres procesos de selección, siempre que tras el primer proceso queden recursos disponibles.
 
-3) Para el presente llamado se realizarán dos procesos de selección.
+3) Para el presente llamado se realizarán tres procesos de selección.
 
 (1) En caso de que alguna Entidad Patrocinante digite proyectos con fecha previa al Diagnóstico, dichos proyectos podrán ser eliminados del sistema y deberán volver a ser digitados, siempre que aun estén dentro de los plazos.
 
@@ -64,7 +64,7 @@ a) Viviendas Sociales.
 
 b) Viviendas construidas por Serviu o sus antecesores legales.
 
-c) Viviendas cuyo avalúo fiscal vigente al momento de la postulación, sea igual o inferior a 950 UF considerando el valor del terreno y el valor de las construcciones.
+c) Viviendas cuyo avalúo fiscal vigente al momento de la postulación, sea igual o inferior a 1.375 UF considerando el valor del terreno y el valor de las construcciones.
 
 En el caso de la línea de atención de Viviendas Patrimoniales, Antiguas o Cités, las Viviendas Objeto de este llamado que podrán participar serán las que se describen en el Resuelvo 29.5.
 
@@ -88,7 +88,9 @@ c) Obras de nueva cocina
 
 . En casos donde la vivienda no cuente con un espacio destinado y equipado como cocina en su interior. Una vivienda que cuenta con cocina integrada al living-comedor se entiende que sí posee un espacio destinado a cocina.
 
-Para la postulación de este llamado, se permitirá que el estándar térmico exigido para las ampliaciones corresponda a lo dispuesto en el 4.1.10. de la Ordenanza General de Urbanismo y Construcciones o a lo señalado en el Itemizado Técnico Constructivo, referido en el Resuelvo N° 13) de la presente resolución exenta.
+Para la postulación de este llamado, se permitirá que el estándar térmico exigido para las ampliaciones corresponda a lo dispuesto en el 4.1.10. o 4.1.10 bis de la Ordenanza General de Urbanismo y Construcciones o a lo señalado en el Itemizado Técnico Constructivo, referido en el Resuelvo N° 13) de la presente resolución exenta.
+
+Además, para las ampliaciones en primer piso que no altera la estructura de la vivienda original, se permitirá que Serviu apruebe un proyecto tipo, el que podrá replicarse para distintas viviendas, cumpliendo siempre con los permisos correspondientes. En estos casos Serviu sólo deberá verificar que el proyecto es el mismo autorizado previamente.
 
 9) Para afrontar el impacto provocado en los costos de las obras financiadas por el Minvu por los aumentos sostenidos en los precios de materiales de la construcción, este llamado considera aplicar los siguientes montos máximos de subsidio:
 
@@ -102,13 +104,23 @@ El monto máximo del subsidio base a otorgar para el financiamiento de obras de 
 
 9.3 Incrementos:
 
-10) En las postulaciones de proyectos para el otorgamiento de subsidios de Mejoramiento y Ampliación de Vivienda, que buscan atender a integrantes del grupo familiar que tengan discapacidad física, se aplicarán las siguientes condiciones y lineamientos:
+9.4 Increméntanse los montos del subsidio de Asistencia Técnica para los proyectos de Ampliación y para la regularización, señalado en la resolución exenta N° 1.237 (V. y U.), de 2019.
+
+Valor Base Asistencia Técnica Ampliación del Capítulo Segundo (UF):
+
+El monto de subsidio por concepto de Regularización de Vivienda será de 4 UF por beneficiario.
+
+Excepcionalmente, en el caso que la vivienda no pueda acogerse a las condiciones especiales para su regularización y/o que la Dirección de Obras Municipales exija el acompañamiento de proyectos de especialidades (Instalaciones Eléctricas, Sanitarias, Gas y/o Estructura), se otorgará por cada uno de los proyectos que sean exigidos 1,5 UF por beneficiario, adicionales.
+
+10) En las postulaciones de proyectos para el otorgamiento de subsidios de Mejoramiento y Ampliación de Vivienda, que buscan atender a integrantes del grupo familiar que tengan discapacidad, se aplicarán las siguientes condiciones y lineamientos:
 
 10.1 Mejoramiento de la Vivienda:
 
-Obras Estructurales y/o de instalaciones de la Vivienda: focalizados para personas que tengan discapacidad física, que requieran el uso permanente de sillas de ruedas o algún otro elemento que facilite su desplazamiento u otro medio de apoyo, el cual implique la intervención de estructuras soportantes existentes e implementación de soluciones constructivas que aseguren la ruta accesible a los recintos establecidos según el Manual de Accesibilidad Universal e Itemizado Técnico, tales como: implementación de rampas de acceso; pasamanos; restablecimiento de nivelación de pisos soportados en pisos ventilados desnivelados por la pérdida de capacidad de soporte de sus vigas, ampliación de vanos (más su refuerzo) y puertas, como también su cambio de orientación; adaptación de baños; ajustes de altura de mobiliario (clóset, artefactos, interruptores, entre otros). Así también podrán realizarse adecuación o reposición de instalaciones con el fin de hacerlas funcionales para personas con discapacidad física, tales como: instalación de artefactos sanitarios, complementos y accesorios de seguridad (barras de apoyo), redistribución de artefactos para lograr espacios de transferencia, implementación de grifería de palanca o gerontológica, implementación de grifería electrónica de activación por presencia, implementación de mamparas de ducha, adecuación de altura y ubicación de interruptores de luz y enchufes acorde a las necesidades de accesibilidad hacia ellas, cambio de cerraduras de puerta (cerraduras de palanca) y otros. También será posible el reacondicionamiento de instalaciones en base a requerimientos pertinentes de la discapacidad, en cuyo caso será exigible la certificación de dicha modificación por el profesional correspondiente y el organismo competente que corresponda.
+Obras Estructurales y/o de instalaciones de la Vivienda: focalizados para personas que tengan discapacidad física, sensorial, intelectual o algún trastorno del espectro autista, por ejemplo que requieran el uso permanente de sillas de ruedas, el cual implique la intervención de estructuras soportantes existentes e implementación de soluciones constructivas que aseguren la ruta accesible a los recintos establecidos según Manual de Accesibilidad Universal e ltemizado Técnico, tales como: implementación de rampas de acceso; pasamanos; restablecimiento de nivelación de pisos soportados en pisos ventilados desnivelados por la pérdida de capacidad de soporte de sus vigas, ampliación de vanos (más su refuerzo) y puertas, como también su cambio de orientación; adaptación de baños; ajustes de altura de mobiliario (clóset, artefactos, interruptores, entre otros). Así también podrá realizarse adecuación o reposición de instalaciones con el fin de hacerlas funcionales para personas con discapacidad, tales como: instalación de artefactos sanitarios, complementos y accesorios de seguridad (barras de apoyo), redistribución de artefactos para lograr espacios de transferencia, implementación de grifería especiales, implementación de grifería electrónica de activación por presencia, adecuación de altura, etc., estas se detallarán en un anexo de kits de intervenciones en la vivienda, según tipo de discapacidad, la cual se adjunta y que se entenderá como parte integrante de este llamado.
 
-Las obras pueden ser entre otras, obras de cambio de tablero, redes, reforzamiento eléctrico, obras de redes sanitarias y/o cambio de artefactos (estos últimos solo deben cambiarse si son requeridos para un uso adecuado de la persona con discapacidad). Todas estas instalaciones deben cumplir con la normativa correspondiente de la Superintendencia de Electricidad y Combustibles y la debida aprobación de los organismos competentes.
+También será posible el reacondicionamiento de instalaciones en base a requerimientos necesarios para la discapacidad, en cuyo caso será exigible la certificación de dicha modificación por el profesional pertinente y el organismo competente que corresponda. Las obras pueden ser, entre otras, obras de cambio de tablero, redes, reforzamiento eléctrico, instalación de obras de redes sanitarias y/o cambio de artefactos (estos últimos sólo deben cambiarse si son requeridos para un uso adecuado de la persona con discapacidad). Además, se podrán incluir redes de corrientes débiles y elementos de domótica, las cuales si no están contempladas en las tablas de costo regionales, podrán ser revisadas con Análisis de Precios Unitarios (APUs), pudiendo superar estos precios con APU el porcentaje señalado en el Art. 13 del DS N° 27 (V. y U.), de 2016, dentro del monto destinado en esta línea a incrementos por instalaciones. Todas estas instalaciones deben cumplir con la normativa correspondiente de la Superintendencia de Electricidad y Combustibles y la debida aprobación de los organismos competentes.
+
+En general de los recursos señalados para la línea de Mejoramiento, podrá destinarse hasta un 20% para otro tipo de arreglos urgentes detectados en el Diagnóstico Técnico Constructivo, pudiendo por ejemplo invertir en mejorar problemas de filtración de aguas lluvias en la techumbre.
 
 10.2 Ampliación de la Vivienda:
 
@@ -130,7 +142,7 @@ Estas ampliaciones deberán contar con permiso de edificación. Sin perjuicio de
 
 10.3 Las condiciones de postulación para proyectos de mejoramiento o ampliación de la vivienda serán las siguientes:
 
-10.3.1 Solo podrán postular personas en que algún integrante de su grupo familiar (postulante, un hijo, hija, cónyuge, u otro familiar a su cargo) presenten discapacidad física debidamente acreditada (credencial) por el organismo competente. La pertenencia al grupo familiar estará certificada por lo señalado en el Registro Social de Hogares.
+10.3.1 Solo podrán postular personas en que algún integrante de su grupo familiar (postulante, un hijo, hija, cónyuge, u otro familiar a su cargo) presenten discapacidad física en el caso de los proyectos de ampliación de la vivienda y cualquier discapacidad en el caso de mejoramiento de la vivienda. En ambos casos dicha condición ha de ser acreditada debidamente acreditada (credencial) por el organismo competente. La pertenencia al grupo familiar estará certificada por lo señalado en el Registro Social de Hogares.
 
 La condición de discapacidad física del integrante del grupo familiar deberá estar acreditada por el Compin o mediante inscripción en el Registro Nacional de Discapacidad.
 
@@ -164,9 +176,9 @@ En los casos que la vivienda original requiera regularizarse el incremento podr�
 
 10.3.9 Al momento del ingreso del proyecto, los proyectos del presente resuelvo deberán adjuntar una ficha de admisibilidad, en el contexto del Diagnóstico Técnico Constructivo.
 
-10.3.10 Para los proyectos del presente resuelvo no se exigirá la condición de Vivienda Objeto del Programa, señalada en el Resuelvo 7), pudiendo postularse con cualquier vivienda donde resida una familia con un integrante con Discapacidad Física.
+10.3.10 Para los proyectos del presente resuelvo no se exigirá la condición de Vivienda Objeto del Programa, señalada en el Resuelvo 7), pudiendo postularse con cualquier vivienda donde resida una familia con un integrante con Discapacidad.
 
-10.3.11 Podrán postular a los proyectos del presente Resuelvo, familias con un integrante con Discapacidad Física, sin que sea exigible la acreditación de un tramo específico del RSH, señalada en el Resuelvo 11.
+10.3.11 Podrán postular a los proyectos del presente Resuelvo, familias con un integrante con Discapacidad, sin que sea exigible la acreditación de un tramo específico del RSH, señalada en el Resuelvo 11.
 
 11) Podrán postular individualmente a este llamado las personas que se encuentren hasta el tramo del 60% según su caracterización socioeconómica, en adelante CSE, del RSH. En el caso de postulación grupal, a lo menos el 60% de los postulantes deben cumplir dicha condición pudiendo el 40% restante estar en cualquier tramo de CSE según el RSH. En el caso de postulaciones individuales de Adultos Mayores, podrán postular personas con un tramo de hasta el 90% del RSH.
 
@@ -186,9 +198,21 @@ En los casos que la vivienda original requiera regularizarse el incremento podr�
 
 19) Los antecedentes generales para la postulación indicados en el numeral 3. del artículo 27 del DS N° 27 (V. y U.), de 2016 y/o aquellos que los Serviu consideren relevantes de acuerdo con lo indicado en este llamado, podrán ser presentados a Serviu en formato digital, sin que sea necesario entregarlos en papel. Además, mediante Declaración Jurada Simple provista por Serviu, a ser presentada, conjuntamente, con los demás antecedentes, el postulante deberá explicitar su aprobación al proyecto, señalando que este es coherente con el Diagnóstico Técnico Constructivo presentado, coherencia que deberá ser verificada por el Serviu respectivo. Este documento, junto con el listado de los antecedentes, se aprobará y firmará por única vez por el postulante. El formato de esta Declaración se adjunta como anexo a la presente resolución, entendiéndose forma parte integrante de ella, y podrá ser enviado de forma digital.
 
-20) Los proyectos de ampliación de nuevo dormitorio cuyos postulantes presenten problemas de hacinamiento, y en cuyo grupo familiar habiten menores de 15 años de edad, duplicarán su puntaje.
+20) Los proyectos de ampliación de nuevo dormitorio cuyos postulantes presenten problemas de hacinamiento, podrán contar con las siguientes condiciones especiales:
+
+a) Los postulantes podrán presentar un ahorro mínimo de 3 UF.
+
+b) Si dentro del grupo familiar habitan menores de 15 años de edad, el proyecto duplicará su puntaje.
+
+c) En estos casos se permitirá la postulación de proyectos que permitan la conformación de dormitorio en superficies ya construidas ampliándolas, para lograr revertir el déficit.
+
+d) Sólo para este tipo de proyectos, para definir la capacidad máxima de Beneficiarios a atender simultáneamente por la EP, según su Convenio Regional de Asistencia Técnica, se entenderá que el proyecto termina cuando Serviu haya recibido las obras, una vez que estas hayan sido terminadas por la constructora, y por lo tanto la EP podrá atender nuevos beneficiarios.
+
+e) En estos casos se podrá certificar la condición de hacinamiento con el Diagnóstico Técnico Constructivo, no obstante el número de integrantes del grupo familiar deberá ser el que se señala en el Registro Social de Hogares.
 
 21) Para calcular el puntaje señalado en las tablas del artículo 80 del DS N° 27 (V. y U.) de 2016, respecto de la antigüedad de la vivienda, se permitirá presentar además del certificado de recepción definitiva de la vivienda, el certificado de avalúo fiscal detallado del inmueble emitido por el Servicio de Impuestos Internos o la copia de la escritura de compraventa del inmueble, siempre que en ella se señale el año de construcción y su superficie.
+
+Además se aplicará un puntaje adicional de 20 puntos a las familias pertenecientes al Subsistema de Seguridad y Oportunidades, del Ministerio de Desarrollo Social y Familia. Este puntaje se sumará a los puntajes señalados en el punto 1 del artículo 80. del DS N° 27 (V. y U.), de 2016, referido a los Factores de aplicación general, del Capítulo Segundo.
 
 22) Estará permitida la participación de Profesionales Independientes, que estén habilitados según lo establecido en el artículo 17 de la Ley General de Urbanismo y Construcciones para la realización de labores de Asistencia Técnica exclusivamente para proyectos postulados individualmente, siempre que dichos profesionales no presten simultáneamente Servicios de Asistencia Técnica a un número superior a 40 familias. Para este fin se deberá suscribir por cada proyecto, o por una agrupación de proyectos, un convenio entre la familia y el Profesional Independiente, en el formato provisto por el Serviu respectivo.
 
@@ -218,7 +242,9 @@ Se exime para este llamado de la exigencia de que la Seremi de Vivienda y Urbani
 
 25) Las Entidades Patrocinantes que postulen en una misma región proyectos a través de este llamado, podrán garantizar mediante Póliza de Seguro de Garantía a Primer Requerimiento la prestación simultánea de Servicios de Asistencia Técnica, hasta por un número máximo de 40 familias, postuladas ya sea individual, grupal o colectivamente. Los Profesionales Independientes, podrán también garantizar los Servicios de Asistencia Técnica mediante la póliza indicada. No habrá limitaciones de este tipo en caso de utilizar Boleta Bancaria de Garantía, Vale Vista, o Certificado de Fianza Recíproca. Además, tratándose de anticipos por la prestación de Servicios de Asistencia Técnica, se autoriza la entrega de un anticipo único, garantizado mediante póliza de garantía, hasta por un monto máximo del 30% de los honorarios pactados por Asistencia Técnica. El giro de estos recursos es independiente de los pagos realizados contra avance de los servicios de Asistencia Técnica ya aplicados. Igualmente, la asignación de dicho anticipo, sumado a los pagos realizados contra avance en la Prestación de Asistencia Técnica, no pueden superar conjuntamente el 80% de los recursos totales girados con cargo a Asistencia Técnica, esto implica que, al menos un 20% de los honorarios pactados deberán reservarse para el pago final de la correspondiente Asistencia Técnica, una vez terminada y aprobada la labor comprometida.
 
-26) En el caso de los proyectos que requieran Permiso de Edificación para su ejecución, se permitirá postular con un Anteproyecto aprobado por la Dirección de Obras Municipales respectiva. Sin embargo, cuando se requiera el Permiso de Edificación, este deberá ser acreditado por la Entidad Patrocinante ante el Serviu, antes del inicio de las obras. Además, en el caso de proyectos que contemplen la regularización de la vivienda, se permitirá postular con una Declaración Jurada Simple de la Entidad Patrocinante, indicando que es factible la regularización y que se comprometen a ejecutarla antes del término de las obras, conforme a lo dispuesto en la ley N° 20.898, o la que la reemplace. Para dicha regularización se podrán asignar los montos de subsidio contemplados en el artículo 78 del DS N° 27 (V. y U.), de 2016, que permite financiar las obras necesarias para la regularización de la vivienda, así como aquellos montos de Asistencia Técnica contemplados para la realización de este trámite en la resolución consignada en el Visto c) de esta resolución.
+26) En el caso de los proyectos que requieran Permiso de Edificación para su ejecución, se permitirá postular con el proyecto ingresado a la Dirección de Obras Municipales (DOM) respectiva. Sin embargo, cuando se requiera el Permiso de Edificación, éste deberá ser acreditado por la Entidad Patrocinante ante el Serviu, antes del inicio de las obras, en caso de no acreditarlo en dicha oportunidad, la Seremi, mediante resolución fundada podrá excluirlos de la selección. Además, en el caso de proyectos que contemplen la regularización de la vivienda, se permitirá postular con una Declaración Jurada Simple de la Entidad Patrocinante, indicando que es factible la regularización y que se comprometen a ejecutarla antes del término de las obras, conforme a lo dispuesto en la ley N° 20.898, o la que la reemplace. Para dicha regularización se podrán asignar los montos de subsidio contemplados en esta resolución, que permite financiar las obras necesarias para la regularización de la vivienda, así como aquellos montos de Asistencia Técnica contemplados para la realización de este trámite en la resolución consignada en el Visto c) de esta resolución.
+
+También en estos casos de proyectos que requieran Permiso de Edificación y/o Regularización, se permitirá pagar hasta el 80% del monto del subsidio una vez terminada la ejecución de las obras por parte de la constructora y que estas hayan sido recibidas por Serviu, quedando el pago del 20% restante pendiente hasta la obtención de la Recepción de la DOM.
 
 27) Para proyectos que opten a una rebaja del IVA, se requerirá el ingreso de un Certificado de Vivienda Social emitido por la Dirección de Obras Municipales respectiva, pudiendo dicho certificado ser acompañado con posterioridad a la fase de Presentación de Proyecto, pero antes del inicio de las obras. Para lo anterior, en el expediente se exigirá una Declaración Jurada por parte de la Entidad Patrocinante que indique que, en caso de no otorgarse dicho certificado, no podrán modificarse las obras contempladas en el proyecto, aunque el monto de este último se vea incrementado por este motivo.
 
