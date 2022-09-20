@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL MC CHICUREO
+
+De conformidad con lo dispuesto en el artículo 91 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las personas naturales y jurídicas que presentaron observaciones conforme a lo establecido en el artículo 30 bis de la ley N° 19.300 durante el proceso de participación ciudadana de la Declaración de Impacto Ambiental "MC Chicureo", sometido al Sistema de Evaluación Ambiental por su titular, Inmobiliaria San Martín SpA, que por resolución exenta N° 202213001483, de fecha 22 de agosto de 2022, la Comisión de Evaluación de la Región Metropolitana, calificó favorablemente el proyecto singularizado. Estas personas naturales y jurídicas disponen de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo, de conformidad a lo dispuesto en los artículos 20 y 30 bis de la ley N° 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en el sitio web: www.sea.gob.cl o en el siguiente enlace: https://validador.sea.gob.cl/validar/2156799526.-
+
+Arturo Farías Alcaíno, Director Regional, Servicio de Evaluación Ambiental, Secretario Comisión de Evaluación Región Metropolitana de Santiago.
