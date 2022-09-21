@@ -14,33 +14,37 @@ d) Lo dispuesto en los artículos 24°, 32°, N° 8 y 90°, inciso tercero, de l
 
 D e c r e t o:
 
-1°.- Créase una "Comisión Ejecutiva del Programa de Cooperación Internacional del Gobierno de Chile para Policías Uniformadas", que tendrá por objeto elaborar el proyecto de cooperación, que se ofrecerá a los países amigos interesados en enviar a su personal a perfeccionarse en Carabineros de Chile.
+1°.- Créase una "Comisión Ejecutiva del Programa de Cooperación Internacional del Gobierno de Chile para Policías Uniformadas", que tendrá por objeto elaborar el proyecto de cooperación, que se ofrecerá a los países amigos interesados en enviar a su personal a perfeccionarse en las Fuerzas de Orden y Seguridad Pública.
 
 Para tal finalidad redactará:
 
-Un "Estatuto de los Alumnos Becarios que cursan estudios en los Planteles Educacionales Policiales de Carabineros de Chile;
+Un "Estatuto de los Alumnos Becarios que cursan estudios en los Planteles Educacionales de las Fuerzas de Orden y Seguridad Pública de Chile;
 
 Un Plan Anual de Becas, con su proyección Presupuestaria, y
 
-El Reglamento de Funcionamiento para la Comisión que se crea.
+El Manual de Organización y Funcionamiento para la Comisión que se crea.
 
-2°.- La Comisión estará integrada por:
+2°.- La Comisión Ejecutiva estará compuesta por las personas que sirvan en calidad de titular o subrogante, en los siguientes cargos:
 
-- El señor Subsecretario de Carabineros, que la presidirá;
+a) El Subsecretario del Interior, quien la presidirá;
 
-- El señor Director de Política Especial del Ministerio de Relaciones Exteriores;
+b) El Director Ejecutivo de la Agencia Chilena de Cooperación Internacional para el Desarrollo (AGCID) del Ministerio de Relaciones Exteriores;
 
-- El señor General Director de Intendencia de Carabineros de Chile;
+c) El Jefe de la División de Administración y Finanzas de la Subsecretaría del Interior;
 
-- El señor General Director de Educación de Carabineros de Chile;
+d) Los Directores o Jefes de Educación de las Fuerzas de Orden y Seguridad Pública;
 
-- El señor Director Ejecutivo de la Agencia de Cooperación Internacional de Chile, y
+e) Los Directores o Jefes de las Direcciones de Finanzas de las Fuerzas de Orden y Seguridad Pública, y
 
-- El Jefe del Departamento Jurídico de la Subsecretaría de Carabineros, que actuará como Secretario.
+f) El Jefe de la División de Gestión y Modernización de las Policías de la Subsecretaría del Interior, quien oficiará como Secretario de la referida Comisión Ejecutiva.
 
 Los miembros de esta Comisión, no percibirán remuneraciones ni estipendio alguno por su asistencia a las Sesiones.
 
-3°.- Los acuerdos de la Comisión, mientras se dicta el Reglamento respectivo, tendrán el carácter de proposición a los Ministros de Relaciones Exteriores, Defensa Nacional y Planificación y Cooperación, y sesionará ordinariamente en la Subsecretaría de Carabineros.
+3°.- Los acuerdos de la Comisión, mientras se dicta el Manual de Organización y Funcionamiento respectivo, tendrán el carácter de proposición a los Ministros del Interior y Seguridad Pública y de Relaciones Exteriores, y sesionará ordinariamente en la Subsecretaría del Interior.
+
+4°.- El objeto del 'Programa de Cooperación Internacional del Gobierno de Chile para Policías Uniformadas (CECIPU)' será disponer una oferta de becas para estudios de pre y postgrado en materias propias de la especificidad de la función policial, para los países amigos interesados en enviar a su personal policial a cursar estudios de formación y perfeccionamiento en los planteles educacionales de las Fuerzas de Orden y Seguridad Pública de Chile, lo que será financiado con cargo a los recursos para becas que se entregan anualmente mediante Ley de Presupuesto para el Sector Público a la Subsecretaría del Interior.
+
+5°.- Instrúyese a Carabineros de Chile y a la Policía de Investigaciones de Chile entregar, anualmente, a la Comisión, su oferta académica de formación, perfeccionamiento y capacitación dirigida a las Policías extranjeras. Estas ofertas estarán enfocadas desde la especificidad de sus funciones y en concordancia al marco de este programa de cooperación internacional, esto es, Carabineros de Chile proporcionará una oferta académica con un enfoque al orden y seguridad pública; manejo de armamentos y explosivos; crimen organizado nacional e internacional; inteligencia, procedimientos policiales con animales; integración comunitaria; investigación criminalística y de tránsito, y finalmente operaciones especiales. Por su parte, la Policía de Investigaciones de Chile brindará una oferta dirigida a los campos de investigación criminal, inteligencia, crimen organizado nacional e internacional; derechos humanos y género; prevención estratégica; control migratorio y seguridad nacional, y por último, en seguridad pública y ciudadana.
 
 Tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Edmundo Pérez Yoma, Ministro de Defensa Nacional.- José Miguel Insulza Salinas, Ministro de Relaciones Exteriores.- Luis Maira Aguirre, Ministro de Planificación y Cooperación.
 
