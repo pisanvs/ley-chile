@@ -58,13 +58,11 @@ Resuelvo:
 
 7. El valor máximo del subsidio destinado a cada beneficiado se definirá conforme al porcentaje de vulnerabilidad indicado en su Registro Social de Hogares, acreditado al postular. En consecuencia, los montos máximos de subsidios que se otorgarán son los definidos en la siguiente tabla:
 
-8. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 1.425.474 UF correspondientes a 6.700 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
-
-.
+8. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 639.000 UF correspondientes a 3.000 subsidios, que se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
 
 9. Se aceptará la presentación de cédulas de identidad que no estén vigentes, en conformidad a lo establecido en el DS Nº 71, del Ministerio de Justicia y Derechos Humanos, de 2022, que extiende la fecha de vencimiento de las cédulas de identidad para chilenos y chilenas, y en la ley Nº 21.325, Ministerio del Interior y Seguridad Pública, que regula la vigencia de las cédulas de identidad para extranjeros.
 
-10. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en todas las comunas de las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Metropolitana, Aysén y Magallanes, en que el monto de la renta de arrendamiento podrá ser de hasta 13 UF.
+10. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el pa�s, no podrá superar las 11 UF, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en todas las comunas de las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Metropolitana, Aysén y Magallanes, en que el monto de la renta de arrendamiento podrá ser de hasta 13 UF.
 
 11. Establécese que, en todo aquello que no se encuentre regido por el presente llamado, se aplicará lo dispuesto en el DS Nº 52 (V. y U.), de 2013, que regula el Programa de Subsidio de Arriendo de Vivienda.
 
