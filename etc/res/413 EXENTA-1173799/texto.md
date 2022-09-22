@@ -52,6 +52,20 @@ Resolución:
 
 5) Los recursos disponibles para el primer proceso de selección de proyectos de este llamado, serán los siguientes montos por región.
 
+.
+
+En el caso de las líneas de proyectos de Ampliación, de Atención de Familias con Integrante con Discapacidad o de Atención de Cités o Viviendas Patrimoniales, se deberán evaluar el total de los proyectos postulados, y el monto nacional para seleccionar indicado en la siguiente tabla se distribuirá por región proporcionalmente, según la cantidad de familias que postulen en cada una de las líneas. Para la selección, cada región previamente calculará el puntaje de los proyectos postulados para efectuar su prelación, seleccionando la cantidad de proyectos que alcancen a financiarse con los recursos disponibles, según la distribución señalada precedentemente.
+
+.
+
+* Del total de recursos de Mejoramiento de la Vivienda a nivel regional se destinará a lo menos un 25% para proyectos de reparación de la envolvente de viviendas con asbesto cemento.
+
+En el caso de Mejoramientos, la revisión se efectuará en base a los recursos con que cuenta cada región, y para determinar la lista de espera se aplicará el 100% de dichos recursos.
+
+.
+
+En caso de que tras la selección efectuada, exista un saldo de recursos en alguna de las líneas, estos se podrán redistribuir a otra.
+
 Con estos montos se definirá el número de postulantes que deberán presentar las Carpetas de sus proyectos al Serviu respectivo. Asimismo, la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.) de 2016, corresponderá a lo menos a un 35% de los postulantes no preseleccionados en el presente llamado, quienes igualmente deberán presentar sus carpetas a Serviu.
 
 Si una vez concluido el primer proceso de selección, quedaren recursos disponibles, estos se destinarán al segundo proceso de selección, lo que se indicará en la resolución que apruebe dicha selección. Estos recursos podrán ser redistribuidos entre regiones.
