@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN EXENTA Nº 513 DE FECHA 30 DE SEPTIEMBRE DE 2021 DEL SERVICIO NACIONAL DE PESCA Y ACUICULTURA, RELATIVA A LA CALENDARIZACIÓN DE ENTREGA DE PLANES DE ACCIÓN ANTE CONTINGENCIA QUE SEÑALA, EN CONFORMIDAD AL DS Nº 320 DE 2001, DEL MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO, CONFORME LO QUE INDICA
+
+Por resolución exenta número DN-1.652/2022, de fecha 3 de agosto de 2022, de este Servicio, se modificó la resolución exenta Nº 513 de 2021, también de este Servicio, en relación a las contingencias de Pérdida, desprendimiento o escape de recursos nativos que revistan carácter de masivos (ERN), de Terremotos, Tsunamis, Temporales y Marejadas para centros de especies NO salmónidos (TTTMNS), y de Pérdida, desprendimiento o escape de recursos exóticos cualquiera sea su magnitud para centros con especies NO salmónidas (EENS), conforme lo que indicó.
+
+El texto íntegro de la resolución indicada, se encuentra publicada con esta fecha, en el sitio de dominio electrónico del Servicio Nacional de Pesca y Acuicultura, y en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, martes 6 de septiembre de 2022.- Fernando Naranjo Gatica, Director Nacional (S), Servicio Nacional de Pesca y Acuicultura.
