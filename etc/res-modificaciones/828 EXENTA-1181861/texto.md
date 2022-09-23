@@ -1,0 +1,7 @@
+MODIFÍCASE LA RESOLUCIÓN Nº 1.598 EXENTA, DE FECHA 21 DE JUNIO DE 2019, DE ESTA SECRETARÍA MINISTERIAL, QUE APRUEBA LA NÓMINA DE POSTULANTES SELECCIONADOS CORRESPONDIENTES AL PRIMER LLAMADO EN CONDICIONES ESPECIALES 2019 Y DISPONE LA ASIGNACIÓN DE RECURSOS PARA LA REGIÓN METROPOLITANA, QUE SE DESTINARÁN AL FINANCIAMIENTO DE SUBSIDIOS PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN SU MODALIDAD REGULADA POR EL CAPÍTULO SEGUNDO DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDA SOCIAL EN EL SENTIDO QUE INDICA
+
+Mediante la resolución exenta Nº 828, de fecha 9 de septiembre de 2022, esta Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, modifica su resolución exenta Nº 1.598, de fecha 21 de junio de 2019, en el sentido de modificar el cuadro de detalle incorporado en el numeral 1 de su parte resolutiva, ajustando el monto asignado en virtud del Título II, y el monto total en UF para la Copropiedad Monseñor Escrivá de Balaguer de Lo Barnechea. Asimismo, se modifica en lo pertinente la nómina de beneficiarios del proyecto mencionado entendiéndose parte integrante de la resolución.
+
+El texto íntegro de la resolución exenta extractada, que contiene el detalle y las condiciones de esta modificación, se encuentra disponible en el portal de transparencia activa de esta institución https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025.
+
+Anótese, comuníquese y publíquese.- Rocío Andrade Castro, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo.
