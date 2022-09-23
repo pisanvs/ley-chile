@@ -1,0 +1,17 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PROYECTO REUBICACIÓN PILA N° 3"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 202213101618, del Servicio de Evaluación Ambiental de la Región Metropolitana, del 2 de septiembre de 2022, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Reubicación Pila N° 3", cuyo titular es Nueva Pudahuel S.A.
+
+Que, el proyecto "Reubicación Pila N° 3", consiste en el traslado y depositación del orden de 1,6 millones de metros cúbicos de ripios que conforman la Pila N° 3, hacia otra pila de ripios existente, denominada Pila N° 2, ambas instalaciones mineras remanentes de la ex faena minera Lo Aguirre. La distancia aproximada entre ambas pilas es del orden de 1 km, estando la Pila N° 2 en dirección sureste respecto de la Pila N° 3. El movimiento de ripios se realizará mediante camiones, utilizando caminos existentes de la ex faena minera Lo Aguirre, y bajo estándares de diseño y operación que permitan que la pila receptora del material (Pila N° 2) mantenga su condición de estabilidad física y química. Las partes, obras y acciones del Proyecto se desarrollarán en la ex faena minera Lo Aguirre, en la Ruta 68 km 16½, comuna de Pudahuel, Región Metropolitana.
+
+Que, esta Dirección Regional estima que el Proyecto genera cargas ambientales para las comunidades próximas, por cuanto, en primer lugar, se cumple con el requisito de generar un beneficio social, al consistir en un proyecto de desarrollo minero, enmarcándose así dentro de las actividades de servicio público en los términos establecidos en el Considerando 20 ii) de la presente resolución y al oficio ordinario D.E. N° 202299102470, de fecha 2 de junio de 2022, de la Dirección Ejecutiva del SEA, de conformidad con lo expresado en los Considerandos N° 10 y siguientes de la presente resolución y, en segundo término, que se generarán externalidades ambientales negativas en localidades próximas al Proyecto, durante su construcción y operación, las que se encuentran indicadas a modo ejemplar en el Considerando N° 27 de la presente resolución, cumpliendo en consiguiente con los requisitos dispuestos en los incisos 6° y 7° del artículo 94, del RSEIA, para ordenar la apertura de un proceso de participación ciudadana.
+
+En virtud de lo anterior, y conforme al artículo 30° bis de la ley 19.300; y los artículos 94 y 95 del Reglamento del Sistema de Evaluación de Impacto Ambiental, la comunidad podrá realizar observaciones a la Declaración dentro de un plazo de 20 días hábiles, contados desde la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle Miraflores N° 178, piso 3, Santiago.
+
+. Sitio web www.sea.gob.cl.
+
+Arturo Farías Alcaíno, Director Regional, Servicio de Evaluación Ambiental Región Metropolitana de Santiago.
