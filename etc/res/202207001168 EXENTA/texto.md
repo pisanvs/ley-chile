@@ -1,0 +1,9 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "PROYECTO AR PANIMÁVIDA SOLAR", CUYO PROPONENTE ES "AR ENERGÍA CHILE SpA"
+
+Con fecha 14 de septiembre de 2022, se dictó la resolución exenta Nº digital 202207001168 del Director Regional del SEA Maule, que resolvió dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Proyecto AR Panimávida Solar", cuyo proponente es "AR Energía Chile SpA". El proyecto consiste en la instalación y operación de una planta de módulos fotovoltaicos para la generación de energía eléctrica, con una potencia nominal de 128,38 MWp. Además, contempla la construcción de una Subestación Elevadora y una Línea de Transmisión Eléctrica de Alta Tensión de (LAT) 220 kV de una longitud de 857 metros que conectará por medio de un Tap-off a una línea existente, además de unidades anexas. Todo lo anterior, en una superficie total de terreno de aproximadamente 174,8 hectáreas. Se emplazaría en la localidad de Panimávida, aproximadamente a 6,9 km al sur de la ciudad de Colbún, provincia de Linares, Región del Maule.
+
+El plazo legal para efectuar observaciones al proyecto en formato físico en la oficina del Servicio de Evaluación Ambiental del Maule, ubicada en calle 2 Oriente Nº 946, Talca; en la plataforma electrónica www.sea.gob.cl o por medio del formulario electrónico de ingreso a la Oficina de Partes, en el link https://www.sea.gob.cl/oficina-de-partes-virtual será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental Región del Maule.
