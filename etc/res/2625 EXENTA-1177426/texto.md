@@ -70,7 +70,7 @@ Esta condición de habilitación será válida para los procesos de admisión 20
 
 Apruébese las condiciones de admisión a los cupos garantizados y vacantes en la Educación Superior Subsistema Universitario por el Programa de Acceso a la Educación Superior, "PACE", para el Proceso de Admisión 2023, que se señalan a continuación:
 
-a. Los estudiantes que egresen de Educación Media el año 2022 y que cumplan con los criterios de prehabilitación y habilitación del Programa PACE establecidos en el artículo primero precedente, podrán matricularse haciendo uso de los cupos garantizados en los programas regulares modalidad presencial en jornada diurna y vespertina de los distintos niveles en las universidades en convenio, siempre que resulten seleccionados. Este cupo podrá utilizarse por única vez, ya sea para el proceso de admisión 2023 o 2024.
+a. Los estudiantes que egresen de Educación Media el año 2022 y que cumplan con los criterios de prehabilitación y habilitación del Programa PACE establecidos en el artículo primero precedente, podrán matricularse haciendo uso de los cupos garantizados en los programas regulares modalidad presencial en jornada diurna y vespertina de los distintos niveles en las universidades en convenio, siempre que resulten seleccionados. Este cupo podrá utilizarse por única vez, ya sea para el proceso de admisión 2023 o 2024. Entendiéndose como uso del cupo concretar una matrícula, por parte de un(a) estudiante habilitado(a), en alguna institución adscrita al Programa, independiente de su vía de ingreso.
 
 b. Los factores de selección que deberán utilizarse para calcular el Puntaje Ponderado PACE (PPP), a fin de asignar los cupos garantizados por las universidades en convenio para el Proceso de Admisión 2023, son los siguientes:
 
@@ -84,27 +84,49 @@ Excepcionalmente para la admisión 2023, los estudiantes egresados de establecim
 
 4. Bonificación por preferencia de postulación, consistente en la entrega de un bono adicional según el orden de preferencia de las carreras o programas a los que postula cada estudiante, de acuerdo con la siguiente tabla:
 
-Orden preferencia de postulación Bonificación
+Orden preferencia
+
+de postulación Bonificación
 
 1 25 puntos
 
-2 22 puntos
+2 24 puntos
 
-3 19 puntos
+3 23 puntos
 
-4 16 puntos
+4 22 puntos
 
-5 13 puntos
+5 21 puntos
 
-6 10 puntos
+6 20 puntos
 
-7 7 puntos
+7 19 puntos
 
-8 4 puntos
+8 18 puntos
 
-9 1 punto
+9 17 puntos
 
-10 0 punto
+10 16 puntos
+
+11 15 puntos
+
+12 14 puntos
+
+13 13 puntos
+
+14 11 puntos
+
+15 9 puntos
+
+16 7 puntos
+
+17 5 puntos
+
+18 3 puntos
+
+19 1 punto
+
+20 0 punto
 
 c. El Puntaje Ponderado PACE (PPP) deberá calcularse de acuerdo con la fórmula que se expresa en la ecuación que se transcribe a continuación, debiendo calcularse hasta el cuarto decimal:
 
