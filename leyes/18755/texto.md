@@ -18,7 +18,7 @@ Para los efectos de esta ley, se entenderá por "el Servicio" al Servicio Agríc
 
 #### Artículo 2°
 
-El Servicio tendrá por objeto contribuir al desarrollo agropecuario del país, mediante la protección, mantención e incremento de la salud animal y vegetal; la protección y conservación de los recursos naturales renovables que inciden en el ámbito de la producción agropecuaria del país y el control de insumos y productos agropecuarios sujetos a regulación en normas legales y reglamentarias.
+El Servicio tendrá por objeto contribuir al desarrollo silvoagropecuario del país, mediante la protección, mantención e incremento de la salud animal y vegetal; la protección y conservación de los recursos naturales renovables que inciden en el ámbito de la producción agropecuaria del país y el control de insumos y productos agropecuarios sujetos a regulación en normas legales y reglamentarias.
 
 #### Artículo 3°
 
@@ -50,7 +50,7 @@ k) Aplicar y fiscalizar el cumplimiento de las normas legales y reglamentarias s
 
 l) Promover las medidas tendientes a asegurar la conservación de suelos y aguas que eviten la erosión de éstos y mejores su fertilidad y drenaje. Además, promoverá las iniciativas tendientes a la conservación de las aguas y al mejoramiento de la extracción, conducción y utilización del recurso, con fines agropecuarios. Asimismo, regulará y administrará la provisión de incentivos que faciliten la incorporación de prácticas de conservación en el uso de suelos, aguas y vegetación.
 
-m) Aplicar y fiscalizar el cumplimiento de las normas legales y reglamentarias sobre producción y comercio de semillas, plaguicidas, fertilizantes, alimentos para animales, alcoholes etílicos, bebidas alcohólicas y vinagres; exposiciones y ferias de animales, nomenclatura de sus cortes y otras materias que la ley establezca, como también realizar los análisis bacteriológicos y bromatológicos y otros que fueran pertinentes y certificar la aptitud para el consumo humano de productos agropecuarios primarios destinados a la exportación.
+m) Aplicar y fiscalizar el cumplimiento de las normas legales y reglamentarias sobre producción y comercio de semillas, plaguicidas, fertilizantes, bioestimulantes, alimentos para animales, alcoholes etílicos, bebidas alcohólicas y vinagres; exposiciones y ferias de animales, nomenclatura de sus cortes y otras materias que la ley establezca, como también realizar los análisis bacteriológicos y bromatológicos y otros que fueran pertinentes y certificar la aptitud para el consumo humano de productos agropecuarios primarios destinados a la exportación.
 
 n) Determinar las condiciones sanitarias, en el ámbito de la salud animal, para el establecimiento y funcionamiento de los mataderos, medios de transportes, frigoríficos y demás establecimientos que la ley o su reglamento determine; fiscalizar el cumplimiento de las mismas y efectuar en ellos la inspección veterinaria de los animales y carnes, todo sin perjuicio de las atribuciones de los Servicios de Salud.
 
@@ -122,7 +122,7 @@ El Director Nacional podrá liberar del pago de tarifas y derechos cuando el con
 
 o) Autorizar la ejecución de trabajos extraordinarios y labores inspectivas en horarios que excedan la jornada normal, con cargo a las tarifas adicionales que deban pagar los usuarios.
 
-p) Aceptar donaciones, legados y herencias a favor del Servicio, estas últimas con beneficio de inventario, y acordar transacciones judiciales o extrajudiciales, convenios a que se refiere la Ley de Quiebras y someter asuntos a compromisos. En el caso de convenios internacionales, otorgar a los árbitros facultades de arbitradores en cuanto al procedimiento y fallo. Asimismo, le corresponderá asumir la representación extrajudicial y judicial del Servicio con las facultades de ambos incisos del artículo 7° del Código de Procedimiento Civil, pudiendo designar mandatario al efecto.
+p) Aceptar donaciones, legados y herencias a favor del Servicio, estas últimas con beneficio de inventario, y acordar transacciones judiciales o extrajudiciales, acuerdos de reorganización a que se refiere la Ley de Reorganización y Liquidación de Activos de Empresas y Personas y someter asuntos a compromisos. En el caso de convenios internacionales, otorgar a los árbitros facultades de arbitradores en cuanto al procedimiento y fallo. Asimismo, le corresponderá asumir la representación extrajudicial y judicial del Servicio con las facultades de ambos incisos del artículo 7° del Código de Procedimiento Civil, pudiendo designar mandatario al efecto.
 
 q) Fijar domicilios especiales del Servicio, y
 
@@ -202,9 +202,11 @@ Cuando alguna de estas contravenciones fuere puesta en conocimiento de Carabiner
 
 Los Inspectores del Servicio estarán facultados, en el cumplimiento de sus labores inspectivas, para ingresar a inmuebles, establecimientos o recintos públicos o privados en que existan, cultiven, produzcan , almacenen, depositen, procesen o vendan bienes o productos objeto de fiscalización y para registrar naves, aeronaves, trenes, vehículos, personas, animales, cajas, embalajes o envases. Quienes sean objeto de fiscalización deberán facilitar el cumplimiento de su cometido a los Inspectores del Servicio.
 
-Para el cumplimiento de lo dispuesto en el inciso anterior, los Inspectores del Servicio podrán solicitar directamente del Jefe de la Unidad de Carabineros más próxima o de la autoridad que corresponda, según el caso, el auxilio de la fuerza pública, la que podrá actuar con descerrajamiento, si fuere necesario, para ingresar a lugares cerrados que no constituyan morada.
+Asimismo, en el cumplimiento de sus labores fiscalizadoras, podrán requerir y examinar toda la documentación que se relacione con las actividades sometidas a la fiscalización del Servicio, tales como libros, facturas y guías de despacho, pudiendo solicitar de los fiscalizados las aclaraciones que sean necesarias para dar cumplimiento a su cometido.
 
-Las inspecciones a que se refiere el presente artículo podrán también realizarse, con auxilio de la fuerza pública, en lugares que constituyan morada, previa orden judicial emanada del Juez del Crimen con competencia en el territorio jurisdiccional donde se cometió la infracción, quien la podrá conceder de inmediato y a solicitud del Servicio.
+Para el cumplimiento de lo dispuesto en los incisos anteriores, los Inspectores del Servicio podrán solicitar directamente del Jefe de la Unidad de Carabineros más próxima o de la autoridad que corresponda, según el caso, el auxilio de la fuerza pública, la que podrá actuar con descerrajamiento, si fuere necesario, para ingresar a lugares cerrados que no constituyan morada.
+
+Las inspecciones a que se refiere el presente artículo podrán también realizarse, con auxilio de la fuerza pública, en lugares que constituyan morada, previa orden judicial emanada del Juez de Garantía con competencia en el territorio jurisdiccional donde se cometió la infracción, quien la podrá conceder de inmediato y a solicitud del Servicio.
 
 #### Artículo 14
 
@@ -224,7 +226,7 @@ Los Inspectores del Servicio que constaten infracción al artículo 2º de la pr
 
 Dichas medidas podrán también ser adoptadas por los Inspectores del Servicio en el caso de existir presunciones graves y precisas de que los bienes anteriores están siendo utilizados o son objeto de una infracción a la presente ley, o cuando a partir de presunciones igualmente graves y precisas sea necesario determinar el origen o presencia de alguna enfermedad, plaga o contaminación.
 
-Sin perjuicio de lo anterior, las medidas a las que se refiere este artículo sólo podrán ser adoptadas cuando una demora en su aplicación afectare gravemente el debido cumplimiento de sus labores y previa autorización fundada del Director Regional del Servicio, la que podrá concederse por cualquier medio que permita acreditar su otorgamiento.
+Sin perjuicio de lo anterior, las medidas a las que se refiere este artículo sólo podrán ser adoptadas cuando una demora en su aplicación afectare gravemente el debido cumplimiento de sus labores, las que deberán ser ratificadas por el Director Regional mediante resolución.
 
 #### Artículo 15
 
@@ -256,7 +258,9 @@ En los procedimientos administrativos y judiciales a que dieren lugar las infrac
 
 #### Artículo 19
 
-Las resoluciones que ordenen la comparecencia personal del infractor, que reciban la causa a prueba y las que absuelvan o apliquen sanciones al infractor se notificarán por medio de cédulas que contengan la copia íntegra de la resolución y los datos necesarios para su acertada inteligencia. Estas cédulas se dejarán por un funcionario del Servicio en el domicilio del interesado o de su apoderado, si lo tuviere, dejando testimonio escrito de su actuación.
+Las resoluciones que ordenen la comparecencia personal del infractor, que reciban la causa a prueba y las que absuelvan o apliquen sanciones al infractor deberán notificarse de acuerdo a lo dispuesto en el Párrafo 1º del Capítulo III de la ley Nº 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, o la que la reemplace.
+
+Sin perjuicio de lo anterior, las notificaciones podrán realizarse a través de correo electrónico cuando el interesado haya manifestado expresamente en el procedimiento su voluntad de ser notificado por esta vía.
 
 #### Artículo 20
 

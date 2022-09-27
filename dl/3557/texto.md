@@ -54,7 +54,7 @@ k) Plaguicida: Compuesto químico, orgánico o inorgánico, o substancia natural
 
 l) Semilla: Estructura botánica destinada a la reproducción sexuada o asexuada de una especie.
 
-m) Fertilizantes: Toda substancia o producto destinado a mejorar la productividad del suelo o las condiciones nutritivas de las plantas. Dentro de los fertilizantes se comprenden las enmiendas y los abonos.
+m) Derogado.
 
 ## Título II
 
@@ -242,7 +242,7 @@ El Servicio podrá prohibir, mediante resoluciones de carácter general, el trá
 
 ## Título III
 
-Fabricación, Comercialización y Aplicación de Plaguicidas y Fertilizantes
+Fabricación, Comercialización y Aplicación de Plaguicidas
 
 ### Párrafo 1° — De los plaguicidas
 
@@ -274,37 +274,27 @@ Deberá mantenerse un archivo público actualizado, a lo menos semestralmente, q
 
 Si al aplicar plaguicidas se causaren daños a terceros, ya sea en forma accidental o como consecuencia inevitable de la aplicación, éstos podrán demandar judicialmente la indemnización de perjuicios correspondiente dentro del plazo de un año contado desde que se detecten los daños. En todo caso, no podrán ejercerse estas acciones una vez que hayan transcurrido cuatro años desde la aplicación del plaguicida.
 
-### Párrafo 2° — De los fertilizantes
+### Párrafo 2° — Derogado.
 
-#### Artículo 37
+#### Artículo 37°
 
-Mediante resolución publicada en el Diario Oficial y fundada en razones técnicas, el Servicio podrá prohibir la fabricación, ingreso, distribución o venta de aquellos fertilizantes que contengan elementos perjudiciales para la agricultura.
+Derogado.
 
-#### Artículo 38
+#### Artículo 38°
 
-Los fertilizantes que se vendan envasados deberán indicar en el envase o en un rótulo especial, en forma indeleble, la composición centesimal del producto que contienen. Tratándose de productos sólidos que se vendan a granel, la composición centesimal del mismo deberá indicarse en las correspondientes boletas, facturas o guías de despacho.
+Derogado.
 
-> **Nota.** El artículo Transitorio de la LEY 19695, dispuso que la modificación al presente artículo, regirá noventa días después de su publicación.
+#### Artículo 39°
 
-#### Artículo 39
+Derogado.
 
-El Servicio tomará muestras, para su análisis, de todos los fertilizantes importados, los que podrán ser retirados de la aduana aún antes de que se haya efectuado dicho análisis; pero no podrán ser utilizados o enajenados sino después de comunicado el resultado favorable del mismo. El análisis deberá realizarse en el término de quince días contados desde la fecha del retiro de la aduana, según el caso.
+#### Artículo 40°
 
-El Servicio podrá prescindir del referido análisis en los casos en que los productos dispongan de certificados oficiales otorgados en su país de origen o cuando de acuerdo con convenios internacionales sea improcedente dicho análisis.
+Derogado.
 
-#### Artículo 40
+#### Artículo 41°
 
-El Servicio podrá captar muestras de los fertilizantes en cualquier etapa de su comercialización, aplicando las sanciones pertinentes si a través del análisis se comprobare que la composición físico-química del producto no corresponde a la indicada según lo dispuesto en el artículo 38 o incluye elementos perjudiciales para la agricultura.
-
-> **Nota.** El artículo Transitorio de la LEY 19695, dispuso que la modificación al presente artículo, regirá noventa días después de su publicación.
-
-#### Artículo 41
-
-Los usuarios de fertilizantes podrán solicitar al Servicio captación de muestras del producto por ellos adquiridos, a fin de verificar su composición físico-química.
-
-Si el producto resultare con una composición diferente a la expresada en el envase, o en un rótulo especial, boleta, factura o guía de despacho, cuando proceda, el usuario tendrá derecho a demandar judicialmente el pago de la indemnización correspondiente.
-
-> **Nota.** El artículo Transitorio de la LEY 19695, dispuso que la modificación al presente artículo, regirá noventa días después de su publicación.
+Derogado.
 
 ## Título IV
 

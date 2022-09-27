@@ -50,7 +50,7 @@ Derogado.
 
 #### Artículo 11°
 
-Los fabricantes, importadores y distribuidores de fertilizantes estarán obligados a comunicar al Servicio la iniciación de sus actividades con indicación del lugar de ubicación de los establecimientos que operen.
+Derogado.
 
 #### Artículo 12°
 
