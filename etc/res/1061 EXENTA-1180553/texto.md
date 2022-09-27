@@ -48,19 +48,19 @@ i. La comuna en la cual se localiza el barrio propuesto representa una prioridad
 
 ii. El barrio propuesto está afectado por problemas de deterioro y déficit urbano, problemáticas que se abordarán mediante la implementación del Programa Recuperación de Barrios.
 
-5. En la modalidad de Barrios Concursables, las propuestas de barrios serán presentadas por los municipios de las comunas habilitadas, según lo indicado en el numeral 2 de la presente resolución, los que podrán presentar sólo un barrio por comuna, conforme al formato entregado para tales efectos. Sin perjuicio de lo anterior, la comuna de Arica podrá, excepcionalmente, postular como máximo dos barrios.
+5. En la modalidad de Barrios Concursables, las propuestas de barrios serán presentadas por los municipios de las comunas habilitadas, según lo indicado en el numeral 2 de la presente resolución, los que podrán presentar sólo un barrio por comuna, conforme al formato entregado para tales efectos. Sin perjuicio de lo anterior, las comunas de Arica, Aysén y Coyhaique podrán, excepcionalmente, postular como máximo dos barrios.
 
-Los barrios propuestos deberán presentarse en el plazo de 32 días corridos contados a partir del día siguiente de la fecha de publicación en el Diario Oficial de la presente resolución, en la Oficina de Partes de la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, hasta las 13:00 horas del día señalado. Si el último día para la presentación de propuestas fuera día sábado, domingo o festivo, se entenderá prorrogado hasta el día siguiente hábil.
+Los barrios propuestos deberán presentarse en el plazo de 34 días corridos contados a partir del día siguiente de la fecha de publicación en el Diario Oficial de la presente resolución, en la Oficina de Partes de la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, hasta las 13:00 horas del día señalado. Si el último día para la presentación de propuestas fuera día sábado, domingo o festivo, se entenderá prorrogado hasta el día siguiente hábil.
 
 6. Para efectos de completar el expediente y/o ficha de caracterización de cada uno de los barrios propuestos, según corresponda, con la información requerida en dichos documentos, tanto el municipio como la Seremi de Vivienda y Urbanismo, deberán ingresar al visor habilitado para tales efectos, que será informado oportunamente por la Seremi respectiva.
 
-7. Para la modalidad de Barrios Concursables, a contar de la fecha de cierre del llamado, de acuerdo a lo establecido en el numeral 5 de la presente resolución, la Seremi respectiva realizará la calificación de Admisibilidad de las propuestas, dentro de un plazo máximo de 5 días corridos, conforme a los requisitos de postulación establecidos en la presente resolución, de acuerdo a los siguientes criterios:
+7. Para la modalidad de Barrios Concursables, a contar de la fecha de cierre del llamado, de acuerdo a lo establecido en el numeral 5 de la presente resolución, la Seremi respectiva realizará la calificación de Admisibilidad de las propuestas, dentro de un plazo máximo de 14 días corridos, conforme a los requisitos de postulación establecidos en la presente resolución, de acuerdo a los siguientes criterios:
 
 En esta etapa, la Seremi, podrá solicitar aclaraciones al municipio, con el objeto de complementar o corregir información, respecto de los antecedentes de la propuesta. El o la Secretario(a) Técnico(a) del Programa de Recuperación de Barrios de la Seremi coordinará el proceso de revisión de antecedentes.
 
 Se calificará al Barrio propuesto como Admisible habiendo cumplido con el 100% de los criterios antes señalados, en caso contrario, se calificará como No Admisible.
 
-8. Desde la fecha que se declare al Barrio propuesto con calificación Admisible, la Comisión Técnica Evaluadora dispondrá de 7 días corridos para calificar los antecedentes que respalden la factibilidad técnica de la intervención del Barrio propuesto, conforme a los siguientes criterios de elegibilidad:
+8. Desde la fecha que se declare al Barrio propuesto con calificación Admisible, la Comisión Técnica Evaluadora dispondrá de 21 días corridos para calificar los antecedentes que respalden la factibilidad técnica de la intervención del Barrio propuesto, conforme a los siguientes criterios de elegibilidad:
 
 (*) Si el barrio propuesto se localiza en dos zonas censales se considerará el puntaje de la zona censal cuya superficie sea predominante.
 
@@ -80,7 +80,7 @@ Dicha nómina deberá estar sancionada mediante una resolución, la que contendr
 
 No obstante, si existiesen barrios con empate en el puntaje de prelación en una misma región, superando de esta forma el doble de los cupos regionales asignados, se incorporarán a la nómina todos los barrios en esta situación.
 
-9. El Jurado Regional dispondrá de 7 días corridos contados a partir de la fecha de la resolución de la Comisión Técnica Evaluadora que declara con calificación elegible a los barrios concursables, para evaluar los antecedentes que respalden los barrios calificados como elegibles y las propuestas de Barrios de Interés Regional (BIR) presentadas por las Seremis correspondientes, conforme a los siguientes criterios:
+9. El Jurado Regional dispondrá de 14 días corridos contados a partir de la fecha de la resolución de la Comisión Técnica Evaluadora que declara con calificación elegible a los barrios concursables, para evaluar los antecedentes que respalden los barrios calificados como elegibles y las propuestas de Barrios de Interés Regional (BIR) presentadas por las Seremis correspondientes, conforme a los siguientes criterios:
 
 El Jurado Regional que tendrá por misión seleccionar los nuevos Barrios, estará compuesto por: el Gobernador Regional; el Secretario Regional del Ministerio de Desarrollo Social y Familia; el Secretario Regional del Ministerio de Economía, Fomento y Turismo; el Secretario Regional del Ministerio de Obras Públicas; el Secretario Regional del Ministerio de Vivienda y Urbanismo; el Jefe Regional de la Subsecretaría de Desarrollo Regional y Administrativo, y el o la Secretario(a) Técnico(a) del Programa Recuperación de Barrios de la Seremi respectiva, o quienes ellos designen para el efecto.
 
