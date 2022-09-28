@@ -32,7 +32,9 @@ Los montos indicados en el cuadro anterior podrán disminuir o aumentar con carg
 
 3. Comprométanse los recursos disponibles para la selección del primer cierre del Llamado en condiciones especiales, aprobado por la resolución exenta, citada en el visto d), los que se destinarán al financiamiento de subsidios habitacionales. La distribución de recursos por región se detalla en la siguiente Tabla:
 
-4. Los proyectos deberán ser calificados en los plazos establecidos en el artículo 44 del DS N° 10 (V. y U.), de 2015, y sus modificaciones, y en conformidad a las directrices establecidas en la circular N° 14, de 2019.
+.
+
+4. Mediante resolución fundada, el Director del Serviu podrá disponer la prórroga de los plazos establecidos en el Resuelvo 16. de la resolución exenta Nº 555 (V. y U.), de 2021, y sus modificaciones.
 
 5. Impútese el monto total de 114.113,470 Unidades de Fomento señaladas en el cuadro inserto en el resuelvo 3. de la presente resolución a los recursos disponibles en el Programa de Habitabilidad Rural correspondientes al año 2021.
 
