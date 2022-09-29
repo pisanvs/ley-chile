@@ -90,7 +90,11 @@ d) La emisión de certificaciones falsas.
 
 e) Ser condenado por sentencia ejecutoriada debido a responsabilidades civiles o penales derivadas de la prestación de los servicios referidos en el artículo 3º.
 
-Las acciones para perseguir las infracciones a que se refiere este artículo prescribirán en el plazo de dos años contado desde su comisión y su conocimiento corresponderá a los Juzgados de Policía Local.
+Las acciones para perseguir las infracciones a que se refiere este artículo prescribirán en el plazo de dos años contado desde su comisión y su conocimiento corresponderá a los juzgados de policía local. En caso de que los incumplimientos de las disposiciones señaladas causen lesiones menos graves, graves o la muerte de alguna persona, las acciones para perseguir las infracciones a que se refiere este artículo serán de conocimiento de los tribunales con competencia en materia penal, según corresponda.
+
+Los juzgados o tribunales competentes, al inicio del procedimiento de cualquier denuncia por infracción a las normas que regulen la instalación, mantención y certificación de funcionamiento de los ascensores, tanto verticales como inclinados, o funiculares, montacargas y escaleras o rampas mecánicas, deberán solicitar informe a la Dirección del Registro, con el objetivo de tomar conocimiento de las sanciones previas que les hubiesen sido aplicadas a las personas naturales y jurídicas que presten servicios de instalación, mantención y certificación de ascensores, tanto verticales como inclinados, o de funiculares, montacargas y escaleras o rampas mecánicas.
+
+De igual forma, para efectos de registrar las sanciones establecidas en este artículo, los juzgados o tribunales competentes deberán informar a la Dirección del Registro las sentencias que apliquen sanciones, cuando se encuentren en estado de ejecutoriadas.
 
 Disposiciones Transitorias
 
