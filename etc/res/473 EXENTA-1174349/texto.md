@@ -58,7 +58,7 @@ h) Mercedes López. Inmunóloga, académica UChile.
 
 i) Ana María Moraga. Epidemióloga, académica Universidad de Concepción, representante SOCHEPI.
 
-j) Maritza Labraña. Periodista experta en comunicación de riesgos, Jefa de Comunicaciones del Hospital San Juan de Dios.
+j) Eliminado.
 
 k) Andrea Repetto. Economista, académica Universidad Adolfo Ibáñez.
 
@@ -117,6 +117,8 @@ Asimismo, las personas que provengan del extra sector deberán guardar reserva d
 14. Establécese que la Comisión Nacional de Respuesta Pandémica COVID-19, compuesta por la Secretaría Ejecutiva, Consejo Asesor Externo, las Secretarías Técnicas y las Mesas Temáticas, se entenderán disueltas una vez que la Ministra de Salud así lo comunique.
 
 15. Déjese sin efecto la resolución exenta N° 131 de fecha 11 de marzo de 2020, que creó el grupo de trabajo denominado Consejo Asesor COVID-19.
+
+> **Nota.** La letra b) del numeral 1º de la Resolución 1370 Exenta, Salud, publicada el 29.09.2022, dispone incorporar en el numeral 5 inciso 2° de la presente norma, al departamento de Comunicaciones del Ministerio de Salud, como nuevo integrante de la Secretaría Ejecutiva.
 
 Anótese, comuníquese y publíquese.- María Vegoña Yarza Sáez, Ministra de Salud.
 
