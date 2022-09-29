@@ -1,0 +1,3 @@
+1.- APRUEBA CIRCULAR DE LA DIRECCIÓN GENERAL DEL TERRITORIO MARÍTIMO Y DE MARINA MERCANTE, ORDINARIO Nº O-75/005
+
+Resolución D.G.T.M. y M.M. Ordinario Nº 12600/368 Vrs., del 12 de septiembre de 2022, aprueba Circular de la Dirección General del Territorio Marítimo y de Marina Mercante, Ordinario Nº O-75/005, que "Implementa el Código Internacional para los buques que operen en aguas polares (Código Polar) en las naves de bandera nacional y su control en aguas jurisdiccionales.".
