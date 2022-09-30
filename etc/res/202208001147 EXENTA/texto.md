@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE FOTOVOLTAICO SOLAR LAJA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante la resolución exenta Nº 202208001147, de fecha 20 de septiembre de 2022, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Fotovoltaico Solar Laja", cuyo proponente es Impulso Solar NCI SpA.
+
+El Proyecto, se sitúa en la Región del Biobío, comuna de Cabrero, específicamente en la propiedad Pangal HJ2, Rol 206-58, al costado suroriente de la intersección de la Ruta 5 con la Ruta Q-97. Para acceder al Proyecto desde la comuna de Cabrero, se debe utilizar la Ruta 146 en sentido oriente-poniente durante 4,3 km hasta el acceso que permitirá ingresar a la instalación. El proyecto consiste en la construcción y operación de una Central Solar Fotovoltaica compuesta de 20.124 paneles fotovoltaicos de hasta 540 Wp cada uno, que en su conjunto totalizaría una potencia nominal de 8,50 (MWn).
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicadas en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web: https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2157128472.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
