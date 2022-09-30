@@ -4,7 +4,7 @@ Núm. 495 exenta.- Santiago, 12 de abril de 2022.
 
 Visto:
 
-Lo dispuesto en los artículos 1 y 19 N° 1 y Nº 9 de la Constitución Política de la República; el Código Sanitario; el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que Fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469; el Reglamento sanitario internacional, promulgado a través del decreto supremo Nº 230, de 2008, del Ministerio de Relaciones Exteriores; el decreto Nº 136, de 2004, del Ministerio de Salud, que establece el Reglamento orgánico del Ministerio de Salud; el decreto Nº 4, de 2020, del Ministerio de Salud, que Decreta alerta sanitaria por el período que se señala y otorga facultades extraordinarias que indica por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV) y, sus modificaciones mediante los decretos N°s. 1, 24, 39 y 52, de 2021, y N° 31, de 2022, del Ministerio de Salud; el decreto Nº 9, de 2020, del Ministerio de Salud, que Establece coordinación por emergencia de salud pública de importancia internacional que indica y designa Ministro Coordinador; el Código Penal y la ley Nº 21.240, de 2020, que Modifica el Código Penal y la ley Nº 20.393 para sancionar la inobservancia del aislamiento u otra medida preventiva dispuesta por la autoridad sanitaria, en caso de epidemia o pandemia; decreto Nº 295, de 2021, del Ministerio del Interior y Seguridad Pública, que Dispone el cierre temporal de lugares habilitados para el tránsito de personas, por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV), y deja sin efecto decreto que indica; el decreto N° 34, de 2022, que Modifica el decreto supremo N° 295, de 2021, del Ministerio del Interior y Seguridad Pública; la resolución exenta Nº 672, de 2021, del Ministerio de Salud, que Establece plan "Fronteras Protegidas"; la resolución exenta N° 494, de 12 de abril de 2022, que Establece plan "Seguimos cuidándonos, paso a paso", del Ministerio de Salud; el artículo 10 del decreto N° 2.421, del Ministerio de Hacienda, que Fija el texto refundido de la ley de organización y atribuciones de la Contraloría General de la República; la resolución Nº 7, de 2019, de la Contraloría General de la República y; los demás antecedentes tenidos a la vista.
+Lo dispuesto en los artículos 1 y 19 N° 1 y Nº 9 de la Constitución Política de la República; el Código Sanitario; el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que Fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469; el Reglamento sanitario internacional, promulgado a través del decreto supremo Nº 230, de 2008, del Ministerio de Relaciones Exteriores; el decreto Nº 136, de 2004, del Ministerio de Salud, que establece el Reglamento orgánico del Ministerio de Salud; el decreto Nº 4, de 2020, del Ministerio de Salud, que Decreta alerta sanitaria por el período que se señala y otorga facultades extraordinarias que indica por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV) y, sus modificaciones mediante los decretos N°s. 1, 24, 39 y 52, de 2021, y N° 31, de 2022, del Ministerio de Salud; el decreto Nº 9, de 2020, del Ministerio de Salud, que Establece coordinación por emergencia de salud pública de importancia internacional que indica y designa Ministro Coordinador; el Código Penal y la ley Nº 21.240, de 2020, que Modifica el Código Penal y la ley Nº 20.393 para sancionar la inobservancia del aislamiento u otra medida preventiva dispuesta por la autoridad sanitaria, en caso de epidemia o pandemia; decreto Nº 295, de 2021, del Ministerio del Interior y Seguridad Pública, que Dispone el cierre temporal de lugares habilitados para el tránsito de personas, por emergencia de salud pública de importancia internacional (ESPII) por brote del nuevo coronavirus (2019-NCOV), y deja sin efecto decreto que indica; el decreto N° 34, de 2022, que Modifica el decreto supremo N° 295, de 2021, del Ministerio del Interior y Seguridad Pública; la resolución exenta Nº 672, de 2021, del Ministerio de Salud, que Establece plan "Fronteras Protegidas"; la resolución exenta N° 1.400, de 29 de septiembre de 2022, que Establece plan "Seguimos cuidándonos", del Ministerio de Salud; el artículo 10 del decreto N° 2.421, del Ministerio de Hacienda, que Fija el texto refundido de la ley de organización y atribuciones de la Contraloría General de la República; la resolución Nº 7, de 2019, de la Contraloría General de la República y; los demás antecedentes tenidos a la vista.
 
 Considerando:
 
@@ -72,21 +72,21 @@ Eliminado.
 
 ### III. DE LAS CUARENTENAS O AISLAMIENTOS
 
-6. Obligatoriedad de cuarentena o aislamiento. Dispóngase que en Alerta Nivel 1, sólo las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado de COVID-19, deberán cumplir con la medida de aislamiento por 7 días en una residencia sanitaria o en el lugar que la autoridad sanitaria determine. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
+6. Obligatoriedad de cuarentena o aislamiento. Dispóngase que en Alerta Nivel 1, sólo las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado de COVID-19, deberán cumplir con la medida de aislamiento por 5 días en una residencia sanitaria o en el lugar que la autoridad sanitaria determine. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 1400, de 2022, del Ministerio de Salud.
 
-Dispóngase que en Alerta Nivel 2, todas las personas que ingresen al territorio nacional y no cuenten con esquema completo de vacunación contra SARS-CoV-2, deberán cumplir con la medida de cuarentena en una residencia sanitaria o en el lugar que la autoridad sanitaria determine, por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud. Con independencia del estado del esquema de vacunación, las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
+Dispóngase que en Alerta Nivel 2, todas las personas que ingresen al territorio nacional y no cuenten con esquema completo de vacunación contra SARS-CoV-2, deberán cumplir con la medida de cuarentena en una residencia sanitaria o en el lugar que la autoridad sanitaria determine, por 5 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 5 días. Lo anterior, de acuerdo con las reglas generales previstas en la resolución exenta N° 1.400, de 2022, del Ministerio de Salud. Con independencia del estado del esquema de vacunación, las personas que, al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
 
-Dispóngase que en Alerta Nivel 3, todas las personas que ingresen al territorio nacional y no cuenten con esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena en residencias sanitarias por 7 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 7 días. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
+Dispóngase que en Alerta Nivel 3, todas las personas que ingresen al territorio nacional y no cuenten con esquema completo de vacunación contra SARS-CoV-2, deben cumplir con la medida de cuarentena en residencias sanitarias por 5 días o hasta que abandonen el país, en el caso que su permanencia fuere menor a 5 días. Con independencia del estado del esquema de vacunación, las personas que al tiempo de ingresar al territorio nacional correspondan a un caso confirmado con COVID-19, deberán cumplir su cuarentena o aislamiento en una residencia sanitaria o en el lugar que la autoridad sanitaria determine.
 
-Para efectos de los párrafos anteriores, se entenderá que los 7 días se cumplirán una vez transcurridas 168 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual la persona hizo ingreso al país.
+Para efectos de los párrafos anteriores, se entenderá que los 5 días se cumplirán una vez transcurridas 120 horas desde el control de la aduana sanitaria en el paso fronterizo por el cual la persona hizo ingreso al país.
 
-Las personas que no cuenten con esquema completo de vacunación contra SARS-CoV-2, podrán dar término a la cuarentena o aislamiento antes de los 7 días, con la notificación del resultado negativo del test PCR para SARS-CoV-2 realizado luego de su ingreso al país.
+Las personas que no cuenten con esquema completo de vacunación contra SARS-CoV-2, podrán dar término a la cuarentena o aislamiento antes de los 5 días, con la notificación del resultado negativo del test PCR para SARS-CoV-2 realizado luego de su ingreso al país.
 
 Para los efectos de la presente norma, se entenderá que cuentan con el esquema de vacunación completa quienes presenten el respectivo comprobante de vacunación completa contra SARS-CoV-2, conforme al país donde hubiesen sido administradas.
 
 En los casos de personas que correspondan a un caso confirmado de COVID-19, a circunstancia de contar con un resultado negativo en un test de PCR para SARS-CoV-2 no eximirá a la persona del cumplimiento total de la cuarentena o aislamiento dispuesto en este numeral
 
-Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente y deban realizarse un test PCR para SARS-CoV-2 para terminar su cuarentena o aislamiento, se regirán por las reglas generales previstas en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
+Toda persona que se encuentre en alguna de las circunstancias descritas precedentemente y deban realizarse un test PCR para SARS-CoV-2 para terminar su cuarentena o aislamiento, se regirán por las reglas generales previstas en la resolución exenta N° 1.400, de 2022, del Ministerio de Salud.
 
 La autoridad sanitaria o el médico tratante podrán disponer un tiempo de cuarentena o aislamiento mayor, en consideración a las condiciones clínicas particulares del paciente o la situación epidemiológica particular.
 
@@ -106,7 +106,7 @@ a. Si en el domicilio utilizado para la cuarentena o aislamiento residen más pe
 
 b. No se permite el ingreso a este lugar de ninguna persona que no resida ahí, con excepción de la autoridad sanitaria o un servicio de urgencia.
 
-10. Prohibición de uso de Pase de Movilidad. Quienes se encuentren cumpliendo la cuarentena o aislamiento de la que trata esta resolución, no podrán hacer uso del Pase de Movilidad habilitado para eximirse de su cumplimiento.
+### 10. Eliminado
 
 11. Del traslado. Durante el traslado desde el punto de entrada al país al lugar de aislamiento, se deberán observar las siguientes reglas:
 
@@ -118,7 +118,7 @@ c. Deberá utilizarse mascarilla durante todo el trayecto.
 
 ### 12. Eliminado
 
-13. De los contagiados. Aquel viajero que dentro de los 7 días contados desde su ingreso al país, conforme a la resolución Nº 494, de 2022, del Ministerio de Salud, sea calificado como caso confirmado o probable, deberá cumplir su cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos.
+13. De los contagiados. Aquel viajero que dentro de los 5 días contados desde su ingreso al país, conforme a la resolución Nº 1400, de 2022, del Ministerio de Salud, sea calificado como caso confirmado o probable, deberá cumplir su cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos.
 
 ### IV. DEL TEST PCR PARA SARS-COV-2 PARA ABORDAR UN MEDIO DE TRANSPORTE CON DESTINO AL TERRITORIO NACIONAL E INGRESAR AL PAÍS
 
@@ -142,7 +142,7 @@ El incumplimiento de lo dispuesto en este párrafo será sancionado de acuerdo a
 
 19. De la denegación de entrada al país. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 de la presente resolución, la autoridad sanitaria podrá denegar al pasajero extranjero no residente de manera regular en Chile la entrada al país. En este caso, será responsabilidad de la empresa que efectúe el traslado del pasajero, devolverlo inmediatamente al punto de embarque.
 
-No obstante, la autoridad sanitaria podrá autorizar que el pasajero en las condiciones señaladas en el inciso anterior ingrese a Chile, siempre y cuando éste obtenga en el punto de entrada al país un resultado negativo de un test de PCR para SARS-CoV-2 o cumpla con la medida de aislamiento por 7 días en una residencia sanitaria o en el lugar que aquella determine. Lo anterior, sin perjuicio de las sanciones previstas en el numeral 20 siguiente.
+No obstante, la autoridad sanitaria podrá autorizar que el pasajero en las condiciones señaladas en el inciso anterior ingrese a Chile, siempre y cuando éste obtenga en el punto de entrada al país un resultado negativo de un test de PCR para SARS-CoV-2 o cumpla con la medida de aislamiento por 5 días en una residencia sanitaria o en el lugar que aquella determine. Lo anterior, sin perjuicio de las sanciones previstas en el numeral 20 siguiente.
 
 20. De las sanciones. Ante el incumplimiento de lo señalado en los numerales 14 y/o 15 por un pasajero residente de manera regular en Chile o por un chileno, la autoridad sanitaria podrá sancionarlo acorde al Libro X del Código Sanitario y deberá cumplir el aislamiento que trata el numeral 6 de la presente resolución, en el lugar que disponga la autoridad sanitaria, debiendo el infractor sufragar los costos de la estadía.
 
@@ -170,7 +170,7 @@ Eliminado.
 
 ### VI. DE LOS TEST PARA SARS-COV-2
 
-30. Obligatoriedad. Dispóngase que en Alerta Nivel 1 toda persona que ingrese desde el extranjero podrá ser seleccionada aleatoriamente por la autoridad sanitaria, en el momento de su ingreso y hasta 7 días después de éste, para ser sometida a exámenes de detección directa para SARS-CoV-2, determinado por la autoridad sanitaria.
+30. Obligatoriedad. Dispóngase que en Alerta Nivel 1 toda persona que ingrese desde el extranjero podrá ser seleccionada aleatoriamente por la autoridad sanitaria, en el momento de su ingreso y hasta 5 días después de éste, para ser sometida a exámenes de detección directa para SARS-CoV-2, determinado por la autoridad sanitaria.
 
 Dispóngase que en Alerta Nivel 2 y 3 se realizará por la autoridad sanitaria, exámenes de detección directa para SARS-CoV-2 a toda persona que ingrese desde el extranjero, en el momento de su ingreso y hasta 7 días después de éste.
 
@@ -178,13 +178,13 @@ Los exámenes de detección directa para SARS-CoV-2 serán aquellos que determin
 
 Quienes obtengan un resultado positivo del testeo del que trata este numeral, deberán cumplir la cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos.
 
-31. De la negativa. Si una persona residente de manera regular en el país no accediera a realizarse el examen al momento de su ingreso al país, deberá permanecer en cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 7 días siguientes a su ingreso. Lo anterior, no obstante del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
+31. De la negativa. Si una persona residente de manera regular en el país no accediera a realizarse el examen al momento de su ingreso al país, deberá permanecer en cuarentena o aislamiento en el lugar que disponga la autoridad sanitaria para esos efectos, durante los 5 días siguientes a su ingreso. Lo anterior, no obstante del resultado negativo que pudiese tener un test PCR para SARS-CoV-2 realizado con anterioridad o posterioridad.
 
 En caso que una persona no residente de manera regular en el país se niegue a practicarse el señalado examen, se aplicará lo dispuesto en el Código Sanitario o en el Reglamento Sanitario Internacional.
 
 ### VII. VIGILANCIA GENÓMICA
 
-32. Dispóngase la vigilancia genómica de todos los test PCR para SARS-CoV-2 positivos de personas que han ingresado al territorio nacional en los últimos 14 días o han sido establecidos como contacto estrecho de dichas personas, de acuerdo a lo dispuesto en la resolución exenta N° 494, de 2022, del Ministerio de Salud.
+32. Dispóngase la vigilancia genómica de todos los test PCR para SARS-CoV-2 positivos de personas que han ingresado al territorio nacional en los últimos 14 días o han sido establecidos como contacto estrecho de dichas personas, de acuerdo a lo dispuesto en la resolución exenta N° 1.400, de 2022, del Ministerio de Salud.
 
 ### VIII. DE LAS EXCEPCIONES
 
@@ -220,13 +220,13 @@ Aquellas personas que se encuentran en el literal a) de este numeral quedarán s
 
 Sin perjuicio de lo anterior, será aplicable lo dispuesto en el artículo 57 del Código Sanitario y el artículo 31 del Reglamento Sanitario Internacional, a las personas no residentes de manera regular en el país que incumplan alguna de las medidas que les sean aplicables, dispuestas por la autoridad sanitaria en esta u otras resoluciones.
 
-41. La autoridad sanitaria, conociendo de una posible infracción sanitaria en virtud de lo dispuesto en el Libro X del Código Sanitario, podrá disponer como medida sanitaria la suspensión de la utilización del Pase de Movilidad, mientras dure la tramitación del sumario sanitario.
+### 41. Eliminado
 
-42. La autoridad sanitaria, conociendo de una posible infracción sanitaria en virtud de lo dispuesto en el Libro X del Código Sanitario, podrá disponer como medida sanitaria la suspensión de la utilización del Pase de Movilidad, mientras dure la tramitación del sumario sanitario.
+### 42. Eliminado
 
-43. La autoridad sanitaria podrá aplicar como sanción a la infracción sanitaria, la suspensión de la utilización del Pase de Movilidad.
+### 43. Eliminado
 
-44. La autoridad sanitaria podrá levantar la suspensión de la utilización del Pase de Movilidad cuando estime una disminución del riesgo a la salud pública o cuando el infractor haya pagado la multa, en caso que se hubiese sancionado con ella.
+### 44. Eliminado
 
 ### X. DISPOSICIONES FINALES
 
