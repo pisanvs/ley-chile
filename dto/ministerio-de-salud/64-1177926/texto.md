@@ -112,7 +112,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 6°
 
-Los efectos de este decreto tendrán vigencia hasta el 30 de septiembre de 2022, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el 31 de marzo 2023, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
 
 #### Artículo 7°
 
