@@ -734,6 +734,14 @@ Sólo podrán ser colaboradores acreditados las personas jurídicas que hubieren
 
 Para los efectos de la presente ley, y demás que conforman el sistema jurídico de protección de la niñez, se entenderá que las personas jurídicas que sean colaboradores acreditados y su personal, cualquiera sea la naturaleza del vínculo, así como las personas naturales acreditadas, cumplen una función pública.
 
+#### Artículo 35 bis
+
+Cada cuatro años, contados desde la fecha en que se dictó el acto administrativo que otorgó la acreditación, todos los colaboradores deberán solicitar la reevaluación de su acreditación, ajustándose a los procesos de acreditación y requisitos vigentes al momento de la solicitud a la que refiere este inciso.
+
+En caso de producirse el rechazo de la reevaluación de la acreditación, el afectado podrá recurrir conforme a lo dispuesto en el artículo 10 de la ley N° 20.032 o podrá solicitar, por una sola vez, una nueva reevaluación de sus antecedentes, ante el Servicio, para lo cual dispondrá de un plazo de 30 días contado desde la notificación de la resolución de rechazo. Aquellos colaboradores acreditados que soliciten lo establecido en este inciso se entenderán autorizados para funcionar hasta que se resuelvan los recursos administrativos pendientes o la solicitud de nueva reevaluación. Un reglamento dictado por el Ministerio de Desarrollo Social y Familia determinará el proceso para esta nueva evaluación de antecedentes.
+
+El Director Nacional del Servicio revocará la acreditación mediante resolución fundada, respecto de aquellos colaboradores que no inicien el proceso de reevaluación de su acreditación en el plazo señalado en el inciso primero de este artículo. Las personas jurídicas sujetas a esta ley que deseen continuar desarrollando cualquier línea de acción a las que se refiere el artículo 18 deberán obtener nuevamente su acreditación en los términos del Título II de la ley N° 20.032.
+
 #### Artículo 36
 
 Personas naturales acreditadas. Las personas naturales sólo podrán desarrollar la línea de acción de diagnóstico clínico especializado y seguimiento de casos, y pericia regulada en el artículo 22 de esta ley. En dicho caso, las personas naturales deberán ser registradas de conformidad con el presente artículo.
@@ -1560,9 +1568,9 @@ El Presidente de la República, por decreto expedido por intermedio del Minister
 
 #### Artículo tercero
 
-Los colaboradores acreditados por el Servicio Nacional de Menores que, a la entrada en vigencia de esta ley, estén reconocidos como tales por dicho órgano, deberán acreditarse conforme a la presente ley, ajustándose a los nuevos requisitos de acreditación que se establezcan en virtud de ésta, en el período de un año contado desde la entrada en vigencia de la misma.
+Los colaboradores acreditados por el Servicio Nacional de Menores que, a la entrada en vigencia de esta ley, estén reconocidos como tales por dicho órgano, deberán acreditarse conforme a la presente ley, ajustándose a los nuevos requisitos de acreditación que se establezcan en virtud de ésta, en el período de 18 meses contado desde la entrada en vigencia de la misma.
 
-Las entidades coadyuvantes del Servicio Nacional de Menores que no se encuentren acreditadas a la fecha de entrada en vigencia de la presente ley deberán hacerlo dentro del plazo de un año, conforme a los requisitos y procedimientos a los que ésta se refiere.
+Las entidades coadyuvantes del Servicio Nacional de Menores que no se encuentren acreditadas a la fecha de entrada en vigencia de la presente ley deberán hacerlo dentro del plazo de 18 meses, conforme a los requisitos y procedimientos a los que ésta se refiere.
 
 No podrán acreditarse personas naturales u organismos cuyos miembros, sin importar su calidad, función o cargo en la institución, hayan sido objeto de sanciones administrativas, penales o civiles por hechos constitutivos de violencia, de cualquier índole, que haya afectado la vida o la integridad física y/o psíquica de los niños, niñas y adolescentes bajo su cuidado. En caso de encontrarse una investigación penal, un sumario administrativo o un proceso judicial en el momento de postular, el Servicio no podrá dar curso a la acreditación mientras no finalice el procedimiento administrativo, civil o penal que involucre la denuncia, estableciendo que no existió la vulneración de derechos de niños, niñas o adolescentes.
 
