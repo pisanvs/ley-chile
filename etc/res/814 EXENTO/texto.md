@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº814, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 5, para la obra: CONSTRUCCIÓN SENDA DE PENETRACIÓN CALAFATE - RUSSFIN, T. DEL FUEGO, que figura a nombre de DE GRENADE KOVACIC JORGE FERNANDO, rol de avalúo 656-12, Comuna de PORVENIR, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficie 67.386 m2. La Comisión de Peritos integrada por MARCOS MATULIC CVIETKOVICH, HUGO JOSÉ MANSILLA CÁRDENAS y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 17 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $87.859.046, para el lote Nº5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
