@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.545, de fecha 21 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote TP-2, correspondiente al inmueble ubicado en Faja Comprendida entre el Camino de Santiago a Melipilla y Avenida Las Industrias, Sin Rol, de la Comuna de Maipú, Región Metropolitana, de aparente dominio de Ilustre Municipalidad de Maipú, con una superficie aproximada de 13.106,15 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Karine Acevedo Hinojosa, Constructor Civil; Verónica Olivier Valdebenito, Arquitecto; y Victoria Blanco Costa, Arquitecto; mediante informe de fecha 30 de junio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $1.468.115.000.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
