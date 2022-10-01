@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 772 de 8 de septiembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 6 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO TEMUCO - RIO BUENO SECTOR: ATRAVIESO QUESQUECHÁN KM. 737.900,00 A KM. 738.600,00, Región de la Araucanía, que figura a nombre de CEBALLOS BASTIAS CARMEN EDELMIRA, rol de avalúo 409-20 de la comuna de Loncoche, superficie 792 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 200 de 8 de junio de 2022, integrada por Helmuth Felipe Alarcón Villegas, Jorge Esteban Casagrande Saavedra y Cristian Andrés Cáceres Vargas, mediante informe de tasación de 20 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $13.604.250 para el lote Nº 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
