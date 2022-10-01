@@ -1,0 +1,5 @@
+CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 200, de 29 de julio de 2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Invermar S.A., RUT N° 79.797.990-2, Concesión Marítima Menor, con vencimiento al 31 de diciembre de 2031, sobre un sector de Playa, Fondo de Mar y Porción de Agua, en el lugar denominado Ensenada Codihue, Este de Punta Aucha, comuna de Calbuco, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 483,71 m², la que fue tramitada con el SIABC N° 46.602. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 41°46'13,159'' S – 73°20'00,188'' W. El objeto de esta concesión marítima, en los sectores otorgados, consiste en amparar la instalación de un pontón bomba y una cañería conductora (salmoducto). Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Rafael Quijada C., Capitán de Corbeta LT, Capitán de Puerto de Calbuco.
