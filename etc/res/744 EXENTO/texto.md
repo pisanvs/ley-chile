@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº744, de 25 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 11-A, para la obra: MEJORAMIENTO RUTA T-345, LO AGUILA-MALIHUE, que figura a nombre de SANCHEZ VASQUEZ RAQUEL Y OTROS, rol de avalúo 111-87, Comuna de MAFIL, REGION DE LOS RÍOS, superficie 3.262 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 21 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $10.084.900 para el lote Nº11-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
