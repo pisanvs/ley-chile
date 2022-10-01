@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.572, 22 de septiembre de 2022, Serviu Región del Biobío ordenó expropiación parcial de terreno ubicado en Ignacio Collao 1447 LT 3 Collao, Rol de Avalúo Nº 320-345, comuna de Concepción, de aparente dominio de Inmobiliaria e Inv. Dinamarca Ltda. La superficie afecta a expropiación parcial de terreno es de 20,06 m2 (Lote 227) y de 0,00 m2 de expropiación de edificación y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R 41543-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao-General Novoa", comuna de Concepción, Región del Biobío", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por Ingeniero Constructor Óscar Alexis Novoa Sepúlveda, por la arquitecto Paola Loreto Martínez Perucca, y por el arquitecto Felipe Andrés Castillo Parra, que fijó el monto de la indemnización provisional por la expropiación en la suma de $12.218.915.- más una suma de $317.692.- por concepto de reajuste del artículo 5º del DL 2.186 de 1978, que dan la cifra de $12.536.607.-
+
+Director Serviu Región del Biobío.
