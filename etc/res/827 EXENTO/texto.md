@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº827, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº1, para la obra: CONSTRUCCIÓN INFRAESTRUCTURA PESQUERA ARTESANAL, CALETA TALQUILLA, OVALLE, que figura a nombre de AGRICOLA ALTOS DE TALINAY LIMITA, rol de avalúo 3064-15, Comuna de OVALLE, REGIÓN DE COQUIMBO, superficie 2.205,30 m2. La Comisión de Peritos integrada por PABLO JAVIER FLORES SALINAS, LUIS FELIPE MUÑOZ CARVAJAL y MAURICIO ANDRES ANDUEZA PEREZ, mediante informe de tasación de 12 de abril de 2022, fijó el monto de la indemnización provisional en la cantidad de $14.334.450, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
