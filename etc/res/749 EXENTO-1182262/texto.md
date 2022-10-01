@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°749, de 25 de agosto de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP N°206 de 1960, se expropiaron los lotes de terreno N°s.36 y 39, para la obra: CAMINO: MIRASOL BIFURCACION QUINTAY, RUTA F-814, que figuran a nombre de ALAMO LATRACH BARBARA y GOMEZ MOLINA MANUEL ANDRES, roles de avalúo 1290-3 y 1290-5, Comuna de ALGARROBO, REGION DE VALPARAÍSO, superficies 294 y 338 m2 respectivamente. La Comisión de Peritos integrada por VALENTINA ANDREA CHACALTANA SIMS, PEDRO IGNACIO ZEGERS RIESCO y RAYEN ALEJANDRA GUZMAN THEODULOZ, mediante informe de tasación de fecha 08 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $7.832.800 para el lote N°36 y $6.250.000 para el lote N°39. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
