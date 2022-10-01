@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº817, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 7, para la obra: MEJORAMIENTO RUTA S-61 SECTOR: MELIPEUCO-ICALMA, que figura a nombre de HIDROELECTRICA EL MANZANO SA, rol de avalúo 308-432, Comuna de MELIPEUCO, REGION DE LA ARAUCANÍA, superficie 8.243 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 22 de octubre de 2020, fijó el monto de la indemnización provisional en la cantidad de $16.599.300 para el lote Nº7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
