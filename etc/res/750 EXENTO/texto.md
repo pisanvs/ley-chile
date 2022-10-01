@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº750, de 25 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 24, para la obra: MEJORAMIENTO CBI ALLIPEN FOLILCO LAFQUEN, que figura a nombre de CALFUMIL NAVARRO FLORIDA Y OTRO, rol de avalúo 325-749, Comuna de FREIRE, REGION DE LA ARAUCANÍA, superficie 627 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 19 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.811.380 para el lote Nº24. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
