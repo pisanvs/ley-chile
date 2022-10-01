@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº782, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.56-A y 57, para la obra: MEJORAMIENTO RUTA S-785 -T,SECTOR PUENTE PAYA-PUENTE HUIÑOCO II, que figura a nombre de KLENNER REHBEIN RAFAEL WENDELIN, rol de avalúo 485-119,Comuna de LONCOCHE, REGION DE LA ARAUCANÍA, superficies 115 y 50 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informes de tasación de fecha 10 de mayo de 2019, lote Nº57 y con fecha 30 de diciembre de 2021, lote Nº56-A, fijó el monto de la indemnización provisional en la cantidad de $687.000 para el lote Nº56-A, y $81.000 para el lote Nº57. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
