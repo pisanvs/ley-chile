@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº736, de 25 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL MOP. Nº206 de 1960, se expropió el lote de terreno Nº 18, para la obra: REPOSICIÓN RUTA 9, TRAMO AEROPUERTO PUNTA ARENAS - GOBERNADOR PHILLIPI, que figura a nombre de ZUNIGA RODRIGUEZ LUIS, rol de avalúo 5111-97, Comuna de PUNTA ARENAS, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficie 1.648 m2. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, JOSÉ LUIS SUBIABRE AGUILAR y RODRIGO FERNANDEZ DUBROCK, mediante informe de tasación de 03 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $12.455.584, para el lote Nº18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
