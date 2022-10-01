@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.542, de fecha 21 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote LC-12, correspondiente al inmueble ubicado en Los Carrera 626, Rol de Avalúo 134-22, de la Comuna de El Monte, Región Metropolitana, de aparente dominio de Orellana Orellana Pedro Juan, con una superficie aproximada de 125,69 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Karine Acevedo Hinojosa, Constructor Civil; Verónica Olivier Valdebenito, Arquitecto; y Victoria Blanco Costa, Arquitecto; mediante informe de fecha 8 de julio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $16.801.770.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitana.
