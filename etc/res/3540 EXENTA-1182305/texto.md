@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.540, 15 de septiembre de 2022, Serviu Región del Biobío, ordenó expropiación parcial de terreno y total de edificación ubicado en Pedro de Valdivia 45, Rol de Avalúo Nº 1101-2, comuna de Concepción, de aparente dominio de Retamal Kries Mauricio Adolfo. La superficie afecta a expropiación parcial es de 6,07 m2 de terreno y de 7,29 m2 de expropiación total de edificación y cuyos linderos particulares están enmarcados en plano S8R 38759-2, para la ejecución de las obras del proyecto "Mejoramiento Paso Sobre Nivel Esmeralda y Vialidad Asociada", conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por arquitecta María Pamela Mac-Guire Acevedo, por arquitecto Juan Felipe King Domínguez y por arquitecta Pía Francisca Hernández Silva, que fijó el monto de la indemnización provisional por la expropiación en la suma de $8.533.704, más una suma de $221.876 por concepto de reajuste del artículo 5º del DL 2186 de 1978, lo que arroja un total de $8.755.580.-
+
+Director (S) Serviu Región del Biobío.
