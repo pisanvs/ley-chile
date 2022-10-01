@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 774 de 8 de septiembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 26 para la obra: CONCESIÓN AMÉRICO VESPUCIO ORIENTE, TRAMO AV. PRINCIPE DE GALES - LOS PRESIDENTES, Región Metropolitana de Santiago, que figura a nombre de CLAUDIA MARCELA OLGA PALACIOS ORTIZ Y OTROS, rol de avalúo 2369-90045 de la comuna de Ñuñoa, superficie 316 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 216 de 17 de junio de 2021, integrada por Solange Alejandra Lagos Díaz, Karina Alejandra Lorca Pérez y María Ignacia Larenas Cassone, mediante informe de tasación de 5 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $831.616.500 para el lote Nº 26. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
