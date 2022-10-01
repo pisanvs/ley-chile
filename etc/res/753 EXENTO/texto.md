@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº753, de 25 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.127 y 128, para la obra: MEJORAMIENTO RUTA S-75, SECTOR COLICO - CABURGUA NORTE, que figuran a nombre de FARET CONTRERAS CRISTOBAL DAVID, rol de avalúo 1319-241, Comuna de CUNCO, REGION DE LA ARAUCANÍA, superficies 930 y 285 m2 respectivamente. La Comisión de Peritos integrada por PABLO ALEJANDRO SEPULVEDA GOMEZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 05 de julio de 2019, fijó el monto de la indemnización provisional en la cantidad de $14.590.500 para el lote Nº127, y $7.737.750 para el lote Nº128. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
