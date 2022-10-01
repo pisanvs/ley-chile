@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 145 de fecha 4 de marzo de 2021, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Ricardo Antonio Cortés Cortés, RUT Nº 10.927.089-K, concesión marítima menor con uso de mejora fiscal, con vencimiento el 31 de diciembre de 2026, sobre un sector de Terreno de Playa en el lugar denominado Flamenco, comuna de Chañaral, Provincia de Chañaral, Región de Atacama, con una superficie total de 860.12 m2, la que fue tramitada con el SIABC Nº 48.115. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice A: Lat. 26º34'24.27"S Long. 70º41'0.75"W y Vértice D: Lat. 26º34'24.78"S Long. 70º40'59.31"W. El objeto consiste en destinar la construcción existente a casa de veraneo familiar. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Nicolás Soto Contreras, Teniente 1º LT, Capitán de Puerto de Chañaral.
