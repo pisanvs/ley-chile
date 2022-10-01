@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº738, de 25 de agosto de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 5, 7, 9 y 11, para la obra: REPOSICIÓN RUTA 9, TRAMO AEROPUERTO PUNTA ARENAS - GOBERNADOR PHILLIPI, que figuran a nombre de AGROPECUARIA ESTANCIAS DE LA PAT, roles de avalúo 5061-2, Comuna de PUNTA ARENAS, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficies 795, 790, 11.335 y 551 m2. respectivamente. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, JOSÉ LUIS SUBIABRE AGUILAR y RODRIGO FERNANDEZ DUBROCK, mediante informe de tasación de 03 de mayo de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.008.610, para el lote Nº5, $5.970.820, para el lote Nº7, $85.669.930, para el lote Nº9 y $4.164.458, para el lote Nº11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
