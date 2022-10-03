@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 3.997, de fecha 22 de agosto de 2022, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Autoescuela Santiago SpA", cuyo nombre de fantasía es "Autoescuela Santiago SpA", de propiedad de la sociedad del mismo nombre, RUT Nº 77.096.392-3, cuyo representante legal es el señor Hernán Gabriel Leiva Ortega, cédula de identidad Nº 5.734.536-5, cuyo director es el señor Luis Orlando Silva Valdés. La Escuela de Conductores estará ubicada en Profesora Amanda Labarca Nº 96, oficina Nº 42, comuna de Santiago, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son diez horas teóricas y trece horas prácticas, con un total de veintitrés horas pedagógicas.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
