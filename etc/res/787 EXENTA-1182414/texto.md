@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 787 EXENTA, DEL 28 DE SEPTIEMBRE DE 2022
+
+Por resolución exenta Nº 787, del 28 de septiembre del año 2022, del Gobierno Regional de Ñuble, se indica:
+
+- **1.-** Que, mediante solicitud de fecha 15 de septiembre del año 2022 presentada por don Clemente Contreras Contreras, en representación de la Empresa Inversiones Edco Limitada, solicitando corte de tránsito vehicular en ambas calzadas de calle Maipón, entre Av. O'Higgins y Claudio Arrau, entre los días sábado 29 y domingo 30 de octubre del año 2022; lo anterior de forma continua desde las 08:00 horas hasta las 20:00 horas, con la finalidad de realizar la actividad denominada Desmontaje Torre Grúa Proyecto Edificio Plaza Victoria. (Trabajos en la Vía Pública - calzada completa).
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito en las comunas de Chillán, de acuerdo a los términos que se indican: Maipón, entre Av. O'Higgins y Claudio Arrau (calzada completa), entre los días sábado 29 y domingo 30 de octubre del año 2022; lo anterior de forma continua desde las 08:00 horas hasta las 20:00 horas, respectivamente.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL Nº 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en calle Maipón, entre Av. O'Higgins y Claudio Arrau (calzada completa), lo anterior, entre los días sábado 29 y domingo 30 de octubre del año 2022; lo anterior de forma continua desde las 08:00 horas hasta las 20:00 horas, respectivamente, con la finalidad de realizar la actividad denominada "Desmontaje Torre Grúa Proyecto Edificio Plaza Victoria. (Trabajos en la Vía Pública - calzada completa)".
+
+Anótese y publíquese.- Alicia Contreras Vielma, Gobernadora Regional (S), Gobierno Regional de Ñuble.
