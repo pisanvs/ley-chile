@@ -1,0 +1,11 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "PARQUE EÓLICO EL GUANACO", CUYO PROPONENTE ES "ATLAS ENERGÍA SpA"
+
+Con fecha 22 de septiembre de 2022, se dictó la resolución exenta Nº digital 202207001171, del Director Regional del SEA Maule, que resolvió dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Parque Eólico El Guanaco", cuyo proponente es "Atlas Energía SpA". El proyecto consiste en la instalación y operación de un parque eólico compuesto por 48 aerogeneradores de 6,6 mega watts cada uno, totalizando una potencia de 316,8 mega watts, un sistema de almacenaje de energía (BESS), una subestación elevadora, red de líneas de distribución eléctrica soterradas de 33 kilovoltios, una línea de transmisión eléctrica de 220 kilovoltios de 28,3 kilómetros de longitud y 101 estructuras o torres que conectarían con la subestación Nueva Nirivilo. Complementariamente, considera equipos anexos, el uso de caminos existentes y la habilitación de 20 kilómetros de caminos internos para conectar con los aerogeneradores.
+
+El proyecto se emplazaría principalmente en la comuna de Constitución, mientras que la línea de transmisión abarcará las comunas de Empedrado y San Javier, todas en la Región del Maule. La superficie total involucrada considera la intervención de aproximadamente 98,3 hectáreas.
+
+El plazo legal para efectuar observaciones al proyecto en formato físico en la oficina del Servicio de Evaluación Ambiental del Maule, ubicada en calle 2 Oriente Nº 946, Talca; en la plataforma electrónica www.sea.gob.cl o por medio del formulario electrónico de ingreso a la Oficina de Partes, en el link https://www.sea.gob.cl/oficina-de-partes-virtual será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental Región del Maule.
