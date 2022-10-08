@@ -182,13 +182,9 @@ f) Dar cumplimiento a las demás tareas encomendadas por el Director.
 
 #### Artículo 6
 
-El Director tendrá bajo su dependencia directa los siguientes Departamentos:
+El Director tendrá bajo su dependencia directa el siguiente Departamento:
 
 ### I. Departamento Comunicaciones Estratégicas
-
-### II. Derogado
-
-### III. Departamento Proyectos Estratégicos y Control de Gestión
 
 ### Párrafo 2°
 
@@ -246,45 +242,17 @@ DEL DEPARTAMENTO EXPERIENCIA DE USUARIOS
 
 Derogado.
 
-### Párrafo 4°
+### Párrafo 4° — Derogado.
 
 DEL DEPARTAMENTO PROYECTOS ESTRATÉGICOS Y CONTROL DE GESTIÓN
 
-#### Artículo 10
+#### Artículo 10°
 
-Serán funciones del Departamento Proyectos Estratégicos y Control de Gestión las siguientes:
+Derogado.
 
-a) Centralizar la coordinación de los proyectos de carácter estratégico del Fonasa definidos por el Director.
+#### Artículo 11°
 
-b) Liderar la implementación de los proyectos estratégicos del Fonasa.
-
-c) Establecer los recursos y prioridades de los equipos de trabajo para el cumplimiento de los proyectos estratégicos de Fonasa.
-
-d) Alinear el desarrollo de los proyectos con el cumplimiento de la misión del Fonasa.
-
-e) Dar cumplimiento a las demás tareas encomendadas por el Director.
-
-#### Artículo 11
-
-Del Departamento Proyectos Estratégicos y Control de Gestión dependerá el Subdepartamento de Control de Gestión, el que tendrá las siguientes funciones:
-
-a) Liderar el proceso de definición de Metas e Indicadores de Desempeño, en el marco de la formulación presupuestaria.
-
-b) Formular, programar, monitorear y evaluar el cumplimiento de las metas e indicadores institucionales.
-
-c) Velar por el cumplimiento de las metas institucionales, comprometidas en los sistemas de incentivos (PMG, CDC, CDD, entre otros).
-
-d) Generar y difundir información oportuna, pertinente y de calidad, que apoye el proceso de toma de decisiones de la Dirección.
-
-e) Disponer de un sistema, programación, control y gestión de proyectos estratégicos, que entregue información oportuna, pertinente y confiable, destinado a apoyar el proceso de toma de decisión de la Dirección.
-
-f) Elaborar informes anuales que den cuenta de los compromisos institucionales y los resultados alcanzados (Balance de Gestión Integral).
-
-g) Colaborar con las demás Divisiones y Departamentos del Fondo Nacional de Salud en las materias que sean de su competencia.
-
-h) Cumplir cualquier instrucción que le sea encomendada por su superior jerárquico destinada a la mejor ejecución de las funciones señaladas en los literales precedentes.
-
-i) Dar cumplimiento a las demás tareas encomendadas por el jefe de departamento.
+Derogado.
 
 ## Título Tercero
 
@@ -1128,13 +1096,17 @@ i) Asesorar al Director Nacional sobre las materias que le sean encargadas y que
 
 #### Artículo 48
 
-La División Desarrollo Institucional estará integrada por los siguientes Departamentos, los cuales dependerán directamente del Jefe de la División:
+La División Desarrollo Institucional estará integrada por los siguientes Departamentos y Subdepartamentos, los cuales dependerán directamente del Jefe de la División:
 
 ### I. Departamento Estudios y Estadísticas
 
 ### II. Departamento Desarrollo de Productos
 
 ### III. Departamento Modernización de Procesos
+
+### IV. Departamento Proyectos Estratégicos
+
+### V. Subdepartamento de Control de Gestión
 
 ### Párrafo 2º
 
@@ -1245,6 +1217,50 @@ n) Gestionar y coordinar el Comité de Experiencia de Usuarios, así como velar 
 o) Colaborar con las demás divisiones, departamentos, direcciones y unidades del Fondo en las materias que sean de su competencia.
 
 p) Dar cumplimiento a todas las tareas que encomiende el Jefe de la División.
+
+### Párrafo 5
+
+DEL DEPARTAMENTO PROYECTOS ESTRATÉGICOS
+
+#### Artículo 52 bis
+
+Serán funciones del Departamento Proyectos Estratégicos las siguientes:
+
+a) Centralizar la coordinación de los proyectos de carácter estratégico del Fonasa definidos por el Director.
+
+b) Liderar la implementación de los proyectos estratégicos del Fonasa.
+
+c) Establecer los recursos y prioridades de los equipos de trabajo para el cumplimiento de los proyectos estratégicos del Fonasa.
+
+d) Alinear el desarrollo de los proyectos con el cumplimiento de la misión del Fonasa.
+
+e) Dar cumplimiento a las demás tareas encomendadas por el jefe de la División.
+
+### Párrafo 6
+
+SUBDEPARTAMENTO DE CONTROL DE GESTIÓN
+
+#### Artículo 52 ter
+
+Serán funciones del Subdepartamento de Control de Gestión las siguientes:
+
+a) Liderar el proceso de definición de Metas e Indicadores de Desempeño, en el marco de la formulación presupuestaria.
+
+b) Formular, programar, monitorear y evaluar el cumplimiento de las metas e indicadores institucionales.
+
+c) Velar por el cumplimiento de las metas institucionales, comprometidas en los sistemas de incentivos (PMG, CDC, CDD, entre otros).
+
+d) Generar y difundir información oportuna, pertinente y de calidad, que apoye el proceso de toma de decisiones de la Dirección.
+
+e) Disponer de un sistema, programación, control y gestión de proyectos estratégicos, que entregue información oportuna, pertinente y confiable, destinado a apoyar el proceso de toma de decisión de la Dirección.
+
+f) Elaborar informes anuales que den cuenta de los compromisos institucionales y los resultados alcanzados (Balance de Gestión Integral).
+
+g) Colaborar con las demás Divisiones y Departamentos del Fondo Nacional de Salud en las materias que sean de su competencia.
+
+h) Cumplir cualquier instrucción que le sea encomendada por su superior jerárquico destinada a la mejor ejecución de las funciones señaladas en los literales precedentes.
+
+i) Dar cumplimiento a las demás tareas encomendadas por el jefe de la División.
 
 ## Título Octavo
 
