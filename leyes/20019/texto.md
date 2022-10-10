@@ -16,7 +16,7 @@ Son organizaciones deportivas profesionales aquellas constituidas en conformidad
 
 Las organizaciones deportivas profesionales, en el ejercicio de sus funciones, deben promover el respeto irrestricto a las personas y, muy especialmente, deben adoptar el protocolo necesario para prevenir y sancionar las conductas de acoso sexual, abuso sexual, discriminación y maltrato, aprobado por el Ministerio del Deporte.
 
-Estas organizaciones tendrán por característica que sus jugadores sean remunerados y se encuentren sujetos a contratos de trabajo de deportistas profesionales.
+Estas organizaciones tendrán por característica que sus jugadores o jugadoras sean remunerados y se encuentren sujetos a contratos de trabajo de deportistas profesionales.
 
 Se entenderá por espectáculo deportivo profesional aquél en que participen organizaciones deportivas profesionales con el objeto de obtener un beneficio pecuniario.
 
@@ -29,6 +29,12 @@ Existirá un Registro de Organizaciones Deportivas Profesionales administrado po
 #### Artículo 3º
 
 Las federaciones deportivas nacionales que deseen organizar, producir y comercializar espectáculos deportivos profesionales deberán estar constituidas por asociaciones, que podrán denominarse ligas, que tendrán este exclusivo objeto y que estarán formadas por organizaciones deportivas profesionales.
+
+Las asociaciones o ligas que mantengan bajo su responsabilidad la realización de competiciones femeninas oficiales de carácter nacional en categoría adulta, sea que consideren sistemas de ascensos y descensos de equipos, confieran cupos o habiliten la participación en torneos internacionales, podrán continuar su actividad, siempre y cuando las organizaciones deportivas profesionales que la integran cumplan con los siguientes requisitos:
+
+a) Que las organizaciones deportivas profesionales integradas a estas asociaciones o ligas constituyan y mantengan equipos profesionales femeninos con jugadoras sujetas a contratos de trabajo de deportistas profesionales y con sus respectivos trabajadores que desempeñen actividades conexas, conforme a la regulación establecida en el Capítulo VI del Título II del Libro I del Código del Trabajo.
+
+b) Que la contratación laboral de las jugadoras profesionales referidas precedentemente tenga como parte empleadora única y exclusivamente a la respectiva organización deportiva profesional. Estará prohibida toda forma de subcontratación o tercerización de sus servicios.
 
 #### Artículo 4º
 

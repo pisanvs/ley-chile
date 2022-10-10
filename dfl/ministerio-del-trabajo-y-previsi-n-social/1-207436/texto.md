@@ -368,7 +368,7 @@ También quedarán excluidos de la limitación de jornada de trabajo los trabaja
 
 Asimismo, quedan excluidos de la limitación de jornada, los trabajadores contratados para que presten sus servicios preferentemente fuera del lugar o sitio de funcionamiento de la empresa, mediante la utilización de medios tecnológicos, informáticos o de telecomunicaciones.
 
-La jornada de trabajo de los deportistas profesionales y de los trabajadores que desempeñan actividades conexas se organizará por el cuerpo técnico y la entidad deportiva profesional correspondiente, de acuerdo a la naturaleza de la actividad deportiva y a límites compatibles con la salud de los deportistas, y no les será aplicable lo establecido en el inciso primero de este artículo.
+La jornada de trabajo de los y las deportistas profesionales y de los trabajadores y las trabajadoras que desempeñan actividades conexas se organizará por el cuerpo técnico y la entidad deportiva profesional correspondiente, de acuerdo a la naturaleza de la actividad deportiva y a límites compatibles con la salud de los y las deportistas, y no les será aplicable lo establecido en el inciso primero de este artículo.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -590,7 +590,7 @@ Exceptúanse de lo ordenado en los artículos anteriores los trabajadores que se
 
 7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que realicen dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700 y en el artículo 106 de la Ley Orgánica Constitucional de Municipalidades;
 
-8.- en calidad de deportistas profesionales o de trabajadores que desempeñan actividades conexas, y
+8.- en calidad de deportistas profesionales o de trabajadores o trabajadoras que desempeñan actividades conexas, y
 
 9.- como dependientes en las empresas de plataformas digitales de servicios, reguladas en el Capítulo X del Título II del Libro I del presente Código.
 
@@ -1730,11 +1730,11 @@ Tratándose de los cuarteleros conductores de los Cuerpos de Bomberos que no viv
 
 ## Capítulo VI
 
-Del contrato de los deportistas profesionales y trabajadores que desempeñan actividades conexas
+Del contrato de los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas
 
 #### Artículo 152 bis
 
-A.- El presente Capítulo regula la relación de trabajo, bajo dependencia o subordinación, entre los trabajadores que se dedican a la práctica del fútbol profesional y aquellos que desempeñan actividades conexas, con su empleador.
+A.- El presente Capítulo regula la relación de trabajo, bajo dependencia o subordinación, entre los trabajadores y las trabajadoras que se dedican a la práctica del fútbol profesional y aquellos que desempeñan actividades conexas, con su empleador.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1748,9 +1748,9 @@ B.- Para los efectos de la aplicación del presente Capítulo, las expresiones q
 
 a) Deportista profesional, es toda persona natural que, en virtud de un contrato de trabajo, se dedica a la práctica de un deporte, bajo dependencia y subordinación de una entidad deportiva, recibiendo por ello una remuneración.
 
-b) Trabajador que desempeña actividades conexas, es aquel que en forma remunerada ejerce como entrenador, auxiliar técnico, o cualquier otra calidad directamente vinculada a la práctica del deporte profesional.
+b) Trabajador o trabajadora que desempeña actividades conexas, es aquel que en forma remunerada ejerce como entrenador, auxiliar técnico, o cualquier otra calidad directamente vinculada a la práctica del deporte profesional.
 
-c) Entidad deportiva, es la persona natural o jurídica que utiliza los servicios de un deportista profesional, o de un trabajador que desempeña actividades conexas, en virtud de un contrato de trabajo.
+c) Entidad deportiva, es la persona natural o jurídica que utiliza los servicios de un o una deportista profesional, o de un trabajador o trabajadora que desempeña actividades conexas, en virtud de un contrato de trabajo.
 
 d) Entidad superior de la respectiva disciplina deportiva chilena, son aquellas entidades que organizan las competencias deportivas profesionales de carácter internacional, nacional, regional o local.
 
@@ -1764,33 +1764,33 @@ Forma, contenido y duración del contrato de trabajo
 
 #### Artículo 152 bis
 
-C.- Sin perjuicio de lo dispuesto en el artículo 9°, el contrato de trabajo se firmará en triplicado, entregándose un ejemplar al deportista profesional o trabajador que desempeñe actividades conexas, en el acto de la firma; otro quedará en poder del empleador y el tercero se registrará, dentro del plazo de 10 días hábiles de suscrito el contrato, ante la entidad superior correspondiente.
+C.- Sin perjuicio de lo dispuesto en el artículo 9°, el contrato de trabajo se firmará en triplicado, entregándose un ejemplar al o la deportista profesional o trabajador o trabajadora que desempeñe actividades conexas, en el acto de la firma; otro quedará en poder del empleador y el tercero se registrará, dentro del plazo de 10 días hábiles de suscrito el contrato, ante la entidad superior correspondiente.
 
-Dicho contrato mencionará todo beneficio o prestación que reciba el deportista profesional, y que tenga como causa el contrato de trabajo.
-
-> **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
-
-#### Artículo 152 bis
-
-D.- El contrato de trabajo de los deportistas profesionales y trabajadores que desempeñen actividades conexas se celebrará por tiempo determinado. La duración del primer contrato de trabajo que se celebre con una entidad deportiva no podrá ser inferior a una temporada, o lo que reste de ésta, si se ha iniciado, ni superior a cinco años.
-
-La renovación de dicho contrato deberá contar con el acuerdo expreso y por escrito del trabajador, en cada oportunidad, y tendrá una duración mínima de seis meses.
+Dicho contrato mencionará todo beneficio o prestación que reciba el o la deportista profesional, y que tenga como causa el contrato de trabajo.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 152 bis
 
-E.- Cuando un deportista celebre su primer contrato de trabajo en calidad de profesional con una entidad deportiva distinta a la o las participantes en su formación y educación, aquélla deberá pagar a estas últimas una indemnización en razón de la labor formativa realizada, de acuerdo a las normas fijadas por la entidad superior de la respectiva disciplina deportiva.
+D.- El contrato de trabajo de los o las deportistas profesionales y trabajadores o trabajadoras que desempeñen actividades conexas se celebrará por tiempo determinado. La duración del primer contrato de trabajo que se celebre con una entidad deportiva no podrá ser inferior a una temporada, o lo que reste de ésta, si se ha iniciado, ni superior a cinco años.
 
-Dicho pago estará dirigido únicamente a compensar la formación del deportista, y deberá tener en cuenta, al fijar la referida indemnización, la participación proporcional entre las distintas entidades deportivas participantes en la formación y educación de estos deportistas.
+La renovación de dicho contrato deberá contar con el acuerdo expreso y por escrito del trabajador o trabajadora, en cada oportunidad, y tendrá una duración mínima de seis meses.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 152 bis
 
-F.- El uso y explotación comercial de la imagen de los deportistas profesionales y de los trabajadores que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa.
+E.- Cuando un o una deportista celebre su primer contrato de trabajo en calidad de profesional con una entidad deportiva distinta a la o las participantes en su formación y educación, aquélla deberá pagar a estas últimas una indemnización en razón de la labor formativa realizada, de acuerdo a las normas fijadas por la entidad superior de la respectiva disciplina deportiva.
 
-En cuanto a los beneficios pecuniarios para el trabajador, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
+Dicho pago estará dirigido únicamente a compensar la formación del o la deportista, y deberá tener en cuenta, al fijar la referida indemnización, la participación proporcional entre las distintas entidades deportivas participantes en la formación y educación de estos deportistas.
+
+> **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
+
+#### Artículo 152 bis
+
+F.- El uso y explotación comercial de la imagen de los o las deportistas profesionales y de los trabajadores y trabajadoras que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa.
+
+En cuanto a los beneficios pecuniarios para el trabajador o trabajadora, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1818,19 +1818,17 @@ Cesiones temporales y definitivas
 
 #### Artículo 152 bis
 
-I.- Durante la vigencia del contrato, la entidad deportiva podrá convenir con otra la cesión temporal de los servicios del deportista profesional o una indemnización por terminación anticipada del contrato de trabajo, para cuyos efectos deberá contar con la aceptación expresa de éste. El contrato respectivo deberá otorgarse por escrito.
+I.- Durante la vigencia del contrato, la entidad deportiva podrá convenir con otra la cesión temporal de los servicios del o la deportista profesional o una indemnización por terminación anticipada del contrato de trabajo, para cuyos efectos deberá contar con la aceptación expresa de éste. El contrato respectivo deberá otorgarse por escrito.
 
-La cesión temporal suspende los efectos del contrato de trabajo entre la cedente y el trabajador, pero no interrumpe ni suspende el tiempo de duración pactado en dicho contrato.
-
-Cumplido el plazo de la cesión temporal, el deportista profesional se reincorporará al servicio de la entidad deportiva cedente.
+La cesión temporal suspende los efectos del contrato de trabajo entre la cedente y el trabajador o trabajadora, pero no interrumpe ni suspende el tiempo de duración pactado en dicho contrato. Cumplido el plazo de la cesión temporal, el o la deportista profesional se reincorporará al servicio de la entidad deportiva cedente.
 
 En virtud del contrato de cesión temporal, la entidad cedente responderá subsidiariamente por el cumplimiento de las obligaciones económicas del cesionario, hasta el monto de lo pactado en el contrato original.
 
-Se entiende por indemnización por terminación anticipada del contrato de trabajo, el monto de dinero que una entidad deportiva paga a otra para que ésta acceda a terminar anticipadamente el contrato de trabajo que la vincula con un deportista profesional, y que, por tanto, pone fin a dicho contrato.
+Se entiende por indemnización por terminación anticipada del contrato de trabajo, el monto de dinero que una entidad deportiva paga a otra para que ésta acceda a terminar anticipadamente el contrato de trabajo que la vincula con un o una deportista profesional, y que, por tanto, pone fin a dicho contrato.
 
-A lo menos un diez por ciento del monto de esta indemnización le corresponderá al deportista profesional.
+A lo menos un diez por ciento del monto de esta indemnización le corresponderá al o la deportista profesional.
 
-La terminación del contrato de trabajo produce la libertad de acción del deportista profesional.
+La terminación del contrato de trabajo produce la libertad de acción del o la deportista profesional.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1840,9 +1838,9 @@ Del derecho de información y pago por subrogación
 
 #### Artículo 152 bis
 
-J.- La entidad superior de la respectiva disciplina deportiva chilena deberá ser informada, por las entidades deportivas que participan en las competencias que organiza, sobre el monto y estado de cumplimiento de las obligaciones laborales y previsionales que a éstos correspondan respecto de los deportistas profesionales y trabajadores que desempeñan actividades conexas que laboren para ellas.
+J.- La entidad superior de la respectiva disciplina deportiva chilena deberá ser informada, por las entidades deportivas que participan en las competencias que organiza, sobre el monto y estado de cumplimiento de las obligaciones laborales y previsionales que a éstos correspondan respecto de los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas que laboren para ellas.
 
-En el caso que la entidad deportiva no acredite oportunamente el cumplimiento íntegro de esas obligaciones, la entidad superior de la respectiva disciplina deportiva, a requerimiento del o los trabajadores afectados, deberá retener de las obligaciones que tenga a favor de aquélla las sumas que se adeuden y pagar por subrogación al deportista profesional o trabajador que desempeña actividades conexas o institución previsional acreedora.
+En el caso que la entidad deportiva no acredite oportunamente el cumplimiento íntegro de esas obligaciones, la entidad superior de la respectiva disciplina deportiva, a requerimiento del o los trabajadores o trabajadoras afectados, deberá retener de las obligaciones que tenga a favor de aquélla las sumas que se adeuden y pagar por subrogación al o la deportista profesional o trabajador o trabajadora que desempeña actividades conexas o institución previsional acreedora.
 
 El monto y estado de cumplimiento de las obligaciones laborales y previsionales a que se refiere el inciso primero de este artículo, será acreditado en la forma establecida en el inciso segundo del artículo 183-C de este Código.
 
@@ -1854,11 +1852,11 @@ Del reglamento interno de orden, higiene y seguridad
 
 #### Artículo 152 bis
 
-K.- Las entidades deportivas estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los deportistas profesionales y los trabajadores que desempeñan actividades conexas, en los términos establecidos en el Título III, del Libro I.
+K.- Las entidades deportivas estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los y las deportistas profesionales y los trabajadores y trabajadoras que desempeñan actividades conexas, en los términos establecidos en el Título III, del Libro I.
 
 En ningún caso podrán imponerse sanciones por situaciones o conductas extradeportivas. Tampoco podrán imponerse sanciones que consistan en la reducción de las vacaciones o cualquier descanso, así como la exclusión de los entrenamientos con el plantel profesional.
 
-Los deportistas profesionales y trabajadores que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión.
+Los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
