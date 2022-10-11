@@ -1,0 +1,7 @@
+INICIA PROCEDIMIENTO PARA LA FIJACIÓN DE LA VÍA DE ACCESO A LAS PLAYAS DE MAR DENOMINADAS "PANCORA Y EL CHOCO" DE LA COMUNA DE PICHILEMU, Y PLAYA "LAS CRUCES" COMUNA DE PAREDONES, PROVINCIA DE CARDENAL CARO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
+
+Mediante resolución exenta Nº 192, de 11 de junio de 2021, el Secretario Regional Ministerial de Bienes Nacionales Región del Libertador General Bernardo O'Higgins inició el procedimiento administrativo de fijación de acceso a la playa de mar de la provincia de Cardenal Caro, Región de O'Higgins, sobre las siguientes playas: Pancora, ubicada en Sector Camino Público a Punta de Lobos (Ruta Caminera I-504), Playa de mar La Páncora. Coordenadas aproximadas: UTM H 18 - WGS 1984 - E-771424 - N-6185988, comuna de Pichilemu; Finao Choco, ubicada en Camino Público Rural de Cardonal de Panilonco a Topocalma (Variante las Garzas) - Ruta I-180 - Fundo Mónaco Norte - Coordenadas Aproximadas UTM H 19 - WGS 1984 - E-225843 - N-6204776, comuna de Pichilemu, y Las Cruces, ubicada en Camino Público Cahuil a Bucalmu - Ruta I-502, Coordenadas aproximadas: UTM H 18 - WGS 1984 - E-773481 - N-6172484, comuna de Paredones, Región del Libertador General Bernardo O'Higgins. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Eduardo Andrés González Pérez, Secretario Regional Ministerial de Bienes Nacionales Región del Libertador General Bernardo O'Higgins.
