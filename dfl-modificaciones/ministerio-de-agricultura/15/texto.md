@@ -268,9 +268,9 @@ Introdúcense las siguientes modificaciones al decreto con fuerza de ley RRA. N�
 
 #### Artículo 6°
 
-El Director Ejecutivo del Servicio Agrícola y Ganadero ordenará la retención de maderas cuando existan antecedentes fundados de que provienen de terrenos o bosques fiscales, de reservas forestales o de areas protegidas y de que han sido explotados ilegalmente.
+El Director Ejecutivo del Servicio Agrícola y Ganadero ordenará la retención de maderas cuando existan antecedentes fundados de que provienen de terrenos o bosques fiscales, de reservas forestales o de parques nacionales de turismo y de que han sido explotados ilegalmente.
 
-Constituyen antecedentes fundados los informes o denuncias suscritos por los funcionarios del Servicio Agrícola y Ganadero o por el personal del Cuerpo de Carabineros de Chile, quienes podrán señalar de inmediato el lugar o recinto de depósito de las maderas, de los troncos o de las trozas de madera mientras el Servicio se pronuncie, en definitiva, acerca de la medida de retención.
+Constituyen antecedentes fundados los informes o denuncias suscritos por los funcionarios del Servicio Agrícola y Ganadero o por el personal del Cuerpo de Carabineros de Chile, quienes podrán señalar de inmediato el lugar o recinto de depósito de las maderas mientras el Servicio se pronuncie, en definitiva, acerca de la medida de retención.
 
 > **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
 
@@ -293,34 +293,6 @@ El Servicio Agrícola y Ganadero podrá utilizar o enajenar las maderas retenida
 Acreditado, en cualquier momento, que las especies retenidas son de dominio particular, el funcionario competente deberá ordenar, sin más trámite, el alzamiento de la retención o la entrega del valor de tasación de las maderas utilizadas, fijado por el Servicio Agrícola y Ganadero, o del valor de enajenación de aquéllas, con deducción en ambos casos de los gastos necesarios en que se hubiera incurrido conforme a una liquidación del mismo Servicio, sin perjuicio de las acciones judiciales que los particulares pueden entablar.
 
 > **Nota.** El Art. 64 de la LEY 20283, publicada el 30.07.2008, dispuso el traspaso de las competencias, funciones y atribuciones en materia forestal otorgadas por el presente artículo al Servicio Agrícola y Ganadero o a su Director, a la Corporación Nacional Forestal o a su Director Ejecutivo, según corresponda.
-
-#### Artículo 9 bis
-
-Será obligatorio contar con las respectivas guías de despacho electrónicas para la producción, venta, almacenamiento, depósito, mantención o acopio de troncos o trozas de madera que no sean de especies nativas, provenientes de terrenos o bosques privados.
-
-A través de un reglamento dictado por el Ministerio de Hacienda, suscrito también por los Ministros del Interior y Seguridad Pública, y de Agricultura, se establecerá la forma en que se acreditará y se dará cumplimiento a la obligación señalada en el inciso precedente, así como qué se entenderá por troncos o trozas de madera para efectos de lo dispuesto en esta ley.
-
-#### Artículo 9 ter
-
-Los dueños, gerentes o empleados, directos o por cuenta de terceros, de barracas, aserraderos, canchas de acopio, empresas distribuidoras, plantas industriales o instalaciones que vendan, almacenen o consuman troncos o trozas de madera, no podrán recibirlos ni rematarlos sin que, previamente, hayan recibido la o las guías de despacho electrónicas a las que se refiere el artículo anterior, emitidas por el establecimiento de origen.
-
-Los dueños, gerentes o empleados, directos o por cuenta de terceros, de barracas, aserraderos, canchas de acopio, empresas distribuidoras, plantas industriales o instalaciones que vendan, almacenen o consuman troncos o trozas de madera, tendrán la obligación de entregar al adquirente las guías de despacho electrónicas que comprueben la procedencia de la madera en troza vendida, en la forma y plazo que determine el reglamento.
-
-#### Artículo 9 quáter
-
-Las barracas, aserraderos, canchas de acopio, empresas distribuidoras, plantas industriales o instalaciones que vendan, almacenen o consuman troncos o trozas de madera, sin contar con la o las guías de despacho electrónicas a las que se refiere el artículo 9 bis, serán sancionadas con multa equivalente al doble del beneficio económico reportado por la infracción, sin perjuicio de las sanciones de carácter penal y tributario que correspondan.
-
-La aplicación y cobro de la multa a que se refiere el inciso anterior, se ajustará a lo establecido en los artículos 45 y 46 de la ley N° 20.283, sobre recuperación del bosque nativo y fomento forestal.
-
-#### Artículo 9
-
-quinquies.- Corresponderá a Carabineros de Chile y a los funcionarios de la Corporación Nacional Forestal, la fiscalización de las disposiciones de esta ley.
-
-En el ejercicio de sus facultades, deberán controlar que el transportista lleve consigo durante el transporte de troncos o trozas de madera la respectiva guía de despacho electrónica, documentación que será visada en el acto para efectos de dejar constancia del control realizado.
-
-Asimismo, Carabineros de Chile deberá exigir la o las guías de despacho electrónicas o la factura correspondiente. En caso que el transportista carezca de los mencionados documentos o se niegue a su exhibición, los funcionarios policiales incautarán las especies y el medio de transporte utilizado. En este caso, además se dará aviso a la fiscalía respectiva para que inicie la investigación correspondiente; al Servicio de Impuestos Internos ante un eventual delito tributario, y a la Corporación Nacional Forestal para la determinación de eventuales infracciones administrativas.
-
-No obstante lo anterior, el Servicio de Impuestos Internos podrá ejercer sus facultades de revisión y fiscalización, conforme a las reglas generales, y en especial, a lo dispuesto en el artículo 55 del decreto ley N° 825, de 1974, sobre impuesto a las ventas y servicios, según corresponda.
 
 #### Artículo 10°
 
