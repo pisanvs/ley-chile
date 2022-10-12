@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 827 EXENTA, DEL 6 DE OCTUBRE DE 2022
+
+Por resolución exenta N° 827, del 6 de octubre del año 2022, del Gobierno Regional de Ñuble, se indica:
+
+- **1.-** Que, mediante solicitud de fecha 29 de septiembre del año 2022 presentada por Director Regional de Vialidad a través de ordinario N° 1137, solicitando corte de tránsito vehicular en ambas calzadas del Camino Público N-633, comuna de Pinto, acceso a reserva Ñuble, en el Dm 10.700 del camino N-633, ubicado en la comuna de Pinto, acceso a la reserva Ñuble, se encuentra una zona de socavación por el costado derecho, producido por el caudal del río que golpea con fuerza la ribera norte del lugar y desarrolla una gran erosión. Esta socavación del borde de la ribera norte del río Diguillín, compromete la estabilidad del camino, ya que se encuentra próxima al borde de dicho camino, lo que lo transforma en una ruta extremadamente peligrosa por la cercanía del socavón con la ruta y por la gran altura que presenta (20 metros aproximadamente), por lo que se debe realizar una variante de la ruta en dicho sector para entregar seguridad a los usuarios que circulan por el lugar. Se considera desplazar el camino hacia la izquierda, lo que significa que deban realizarse procedimientos expropiatorios y talas de bosque colindante, por lo que se sostiene en el referido oficio que la Dirección Regional de Vialidad se encuentra en proceso de iniciar los trámites expropiatorios de los predios particulares que colindan con el camino N-633, cuyo plazo de tramitación es de 6 meses.
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito en la comuna de Chillán, en los mismos términos solicitados.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL N° 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de vehículos en ambas calzadas por un tiempo de 6 meses en el Camino Público N-633, desde el Dm 10.700 en adelante, a contar de la fecha de publicación de la presente en el Diario Oficial.
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
