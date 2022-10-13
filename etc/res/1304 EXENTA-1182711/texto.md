@@ -1,0 +1,5 @@
+PUBLICACIÓN DE CIERRE DE CALLES EN LA REGIÓN DE LOS RÍOS
+
+De acuerdo con el formato y lo instruido por el Ministerio de Transportes y Telecomunicaciones, el Gobierno Regional de Los Ríos publica las resoluciones exentas mes de septiembre Nº 1.295, 1.296, 1.305, 1.410, 1.355, 1.356, 1.386, 1.301, 1.302, 1.303, 1.304, 1.290, 1.306, 1.292, 1.308, 1.307, 1.293, 1.435, 1.309, 1.310, 1.317, 1.385, 1.361, 1.319, 1.311, 1.357, 1.328, 1.470, 1.384, 1.358, 1.398, 1.387, 1.446, 1.438, 1.439, 1.391, 1.389, 1.450, 1.434, 1.473, 1.471, 1.452, 1.483, 1.484, 1.485, 1.475, 1.477, 1.482, 1.479, 1.480, 1.481, 1.486, 1.511, 1.536, 1.509, 1.545, 1.539, 1.530, 1.531, 1.512, 1.529, 1.528, 1.532, 1.533, 1.534, 1.510, 1.541 y 1.543; en las fechas descritas, prohibió la circulación de vehículos por las vías que se indican y por los motivos que se señalan en el siguiente cuadro:
+
+Luis Cuvertino Gómez, Gobernador Regional de Los Ríos.
