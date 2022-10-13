@@ -62,9 +62,9 @@ La presente concesión se otorga en conformidad a lo establecido en la Ley Gener
 
 Esta concesión se otorga por plazo indefinido.
 
-#### Artículo 11º
+#### Artículo 11°
 
-El plazo de construcción desde el inicio de los trabajos hasta la terminación total de las obras será de 16 meses, considerando el inicio de ellas después de 12 meses de la reducción a escritura pública del decreto que otorgue la concesión eléctrica. Las etapas y secciones de actividades de obras se indican a continuación:
+El plazo de construcción desde el inicio de los trabajos hasta la terminación total de las obras será de 16 meses, considerando el inicio de ellas después de 80 meses de la reducción a escritura pública del decreto que otorgue la concesión eléctrica. Las etapas y secciones de actividades de obras se indican a continuación:
 
 .
 
