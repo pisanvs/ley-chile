@@ -54,7 +54,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 9º
 
-El plazo de inicio de los trabajos será después de 12 meses desde la fecha de reducción a escritura pública del respectivo decreto de concesión, y el plazo para su terminación será de 18 meses, a contar de la fecha de inicio de los trabajos hasta la terminación total de las obras. Las obras se desarrollarán de manera simultánea y los plazos para terminación por etapas y secciones serán los siguientes:
+El plazo de inicio de los trabajos será después de 110 meses desde la fecha de reducción a escritura pública del respectivo decreto de concesión, y el plazo para su terminación será de 18 meses, a contar de la fecha de inicio de los trabajos hasta la terminación total de las obras. Las obras se desarrollarán de manera simultánea y los plazos para terminación por etapas y secciones serán los siguientes:
 
 .
 
