@@ -78,7 +78,7 @@ Para el cálculo de la equivalencia en Dólares USA del monto a emitir y colocar
 
 <!-- parte:10321091 -->
 
-El monto total máximo de las colocaciones que se realicen en virtud de las emisiones autorizadas en los artículos 1°, 2° y 3°, letra b), del presente decreto, será de hasta el equivalente a catorce mil millones de Dólares USA (US$14.000.000.000.-).
+El monto total máximo de las colocaciones que se realicen en virtud de las emisiones autorizadas en los artículos 1º, 2º y 3º, letra b), del presente decreto, será de hasta el equivalente a once mil millones de Dólares USA (US$11.000.000.000.-).
 
 #### Artículo 5º.
 
