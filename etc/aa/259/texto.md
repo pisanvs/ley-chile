@@ -16,7 +16,7 @@ Tercero: Que, a consecuencia de lo anterior, se ha producido un elevado aumento 
 
 Y visto, además, lo dispuesto en el artículo 82 de la Constitución Política de la República y en el numeral 4º del artículo 96 del Código Orgánico de Tribunales, esta Corte, en uso de sus facultades directivas y económicas, acuerda que:
 
-En las apelaciones de los recursos de amparo que versen sobre beneficios penitenciarios y libertades condicionales, una vez recibidos los autos en la Secretaría de la Corte Suprema, el Presidente del Tribunal ordenará dar cuenta preferente del recurso en la Segunda Sala, la cual, si lo estima conveniente, cuando la parte recurrente lo solicitare con fundamento plausible, podrá ordenar que sea resuelto previa vista de la causa, disponiendo traer los autos en relación, evento en el cual el recurso se agregará extraordinariamente a la tabla.
+En las apelaciones de los recursos de amparo que versen sobre beneficios penitenciarios y libertades condicionales, como también relativos a la admisibilidad de este recurso, el Presidente del Tribunal ordenará dar cuenta preferente del recurso en la Segunda Sala, la cual, si lo estima conveniente, cuando la parte recurrente lo solicitare con fundamento plausible, podrá ordenar que sea resuelto previa vista de la causa, disponiendo traer los autos en relación, evento en el cual el recurso se agregará extraordinariamente a la tabla.
 
 Este auto acordado regirá desde su publicación en el Diario Oficial.
 
