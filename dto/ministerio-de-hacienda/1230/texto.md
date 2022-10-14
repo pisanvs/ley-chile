@@ -1440,6 +1440,30 @@ de Medición de gas
 
 Recinto natural.
 
+28. Terminal Permanente Todo tipo
+
+Marítimo de
+
+Abastible operaciones
+
+aduaneras
+
+de graneles
+
+líquidos.
+
+29. Terminal Permanente Todo tipo
+
+Marítimo de
+
+ENAP operaciones
+
+aduaneras
+
+de graneles
+
+líquidos
+
 L. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
 
 Punto Habilitado Habilitación Operaciones aduaneras
