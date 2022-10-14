@@ -1,0 +1,9 @@
+INCREMÉNTESE LOS MONTOS DE SUBSIDIOS HABITACIONALES DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR, REGULADO POR DS N° 255 (V. Y U.), DE 2006, EN SU CAPÍTULO SEGUNDO DE LA ATENCIÓN A LOS CONDOMINIOS; CONFORME A LO SEÑALADO EN LA RESOLUCIÓN N° 727 EXENTA (V. Y U.) DE 2021 Y SU MODIFICACIÓN, QUE APRUEBA MEDIDAS EXCEPCIONALES DE GESTIÓN PARA EL OTORGAMIENTO DE SUBSIDIOS ADICIONALES PARA LOS PROGRAMAS HABITACIONALES QUE INDICA DESTINADO A 2 CITÉS DE LA REGIÓN METROPOLITANA
+
+Mediante la resolución exenta N° 903, de fecha 30.09.2022, esta Secretaría Ministerial de Vivienda y Urbanismo ha calificado como de extrema relevancia y, en consecuencia, ha dispuesto el incremento de los subsidios habitacionales correspondientes al Programa de Protección del Patrimonio Familiar, DS N° 255 (V. y U.) 2006, en su Título II, asignados por resolución Ex. N° 289, de fecha 16.03.2020, conforme a medidas excepcionales de gestión para el otorgamiento de subsidios adicionales establecidas en Res. Ex. N° 727 (V. y U.) de 2021, que se detallan en el siguiente cuadro resumen:
+
+Posteriormente, por Res. Ex. N° 191, de fecha 21.02.2022, esta Secretaría Ministerial rectificó la resolución Ex. N° 187, en el sentido de establecer que la publicación de la misma se debía realizar en extracto.
+
+El texto íntegro de la resolución extractada, que contiene el resumen, detalle y eximición de requisitos de este incremento, se encuentra disponible en portal de transparencia activa de esta institución (https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025).
+
+Anótese, comuníquese y publíquese.- Rocío Andrade Castro, Secretaria Regional Ministerial Metropolitana de Vivienda y Urbanismo.
