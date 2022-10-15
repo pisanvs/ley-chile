@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº833, de 20 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 85-A y 102, para la obra: MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA - CRUCE RUTA 126, que figura a nombre de ARAVENA ARAVENA CARMEN y MEZA GARRIDO PATRICIO HERNAN, roles de avalúo 274-70 y 276-54, Comuna de SAN JAVIER, REGION DEL MAULE, superficies 71 y 897 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 06 de enero de 2022, fijó el monto de la indemnización provisional en la cantidad de $720.400 para el lote Nº85-A, y $5.437.800 para el lote Nº102. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
