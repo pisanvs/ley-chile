@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°845, de 20 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 65, 66 y 68, para la obra: MEJORAMIENTO RUTA J-80, SECTOR CRUCE RUTA J-60 (HUALAÑE) - CRUCE RUTA COSTERA, que figuran a nombre de CARRENO GONZALEZ GERMAN ENRIQUE, rol de avalúo 174-168, Comuna de HUALAÑE, REGION DEL MAULE, superficies 596, 4.305 y 3.207 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 31 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.414.800 para el lote N°65, $19.503.200 para el lote N°66, y $15.361.200 para el lote N°68. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
