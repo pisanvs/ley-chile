@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°789, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.189-B, 191-A y 192-A, para la obra: MEJORAMIENTO Y CONSTRUCCIÓN RUTA CORRAL-VALDIVIA (PENÍNSULA SN. RAMON), que figura a nombre de OYARZO HUAQUIN VALERIA ELIZABETH Y, rol de avalúo 103-4, Comuna de CORRAL, REGION DE LOS RÍOS, superficies 3.558, 1.076 y 4.121 m2 respectivamente. La Comisión de Peritos integrada por PAULO DIAZ VERGARA, ANDRÉS ECHEVERRÍA CAMPO y CARLOS HUMBERTO BARRIENTOS ORTIZ, mediante informe de tasación de 23 de noviembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $11.165.900 para el lote N°189-B, $4.053.600 para el lote N°191-A, y $9.107.410 para el lote N°192-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
