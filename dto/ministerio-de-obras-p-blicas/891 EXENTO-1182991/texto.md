@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 891 de 30 de septiembre de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP, N° 850 de 1997, se expropiaron los lotes de terreno 61 y 61-A, Rol de avalúo 491-56, comuna de Loncoche, superficies 38 y 1.368 m2. respectivamente, para la obra MEJORAMIENTO RUTA S-785 -T, SECTOR PUENTE PAYA - PUENTE HUIÑOCO II, COMUNA DE LONCOCHE, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 10 de mayo de 2019, acordándose la indemnización con sus propietarias MACARENA DEL CARMEN HUENUPE CAYULEF Y OTRA, en la cantidad de $5.323.966.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
