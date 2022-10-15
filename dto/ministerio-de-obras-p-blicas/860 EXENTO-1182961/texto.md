@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 860 de 23 de septiembre de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 22 ter. letra k) y 105 del D.F.L. MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 117, 123 y 125, Rol de avalúo 29-160, comuna de San Pedro, superficies 2.541, 1.389 y 547 m2., para la obra CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B, SUBSECTOR: RUTA 66: ENLACE LAS ARAÑAS - LAS BRISAS DE SANTO DOMINGO, COMUNA DE SAN PEDRO, PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por NICOLÁS ALEJANDRO ALARCÓN SÁNCHEZ, LORENA ELIZABETH GAJARDO ALARCÓN y CLAUDIO ALEJANDRO GARCÍA SCHLIE, fijó el valor de tasación con fecha 18 de enero de 2022, acordándose la indemnización con su propietaria MARÍA ELISA RAQUEL ESTHER ASPILLAGA BARROS, en la cantidad de $31.653.685.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
