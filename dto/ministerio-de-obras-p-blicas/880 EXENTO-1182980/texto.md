@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 880 de 30 de septiembre de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 4, 5 y 7, Rol de avalúo 163-29, comuna de Curarrehue, superficies 51, 20 y 503 m2. respectivamente, para la obra REPOSICIÓN PUENTE CARES, CURARREHUE, COMUNA DE CURARREHUE, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YÁÑEZ RIFFO y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 05 de junio de 2017, acordándose la indemnización con su propietario STEPHAN ERNST GUJER, en la cantidad de $2.797.848.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
