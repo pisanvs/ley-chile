@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.676, de fecha 27 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote EB-5, correspondiente al inmueble ubicado en Camino a Melipilla 17800 PC. 9 Santa Ana de Chena, Rol de Avalúo 2606-23, de la Comuna de Maipú, Región Metropolitana, de aparente dominio de Inmobiliaria Gabi Limitada, con una superficie aproximada de 26,85 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Gabriel Pantoja Rivera, Ingeniero Agrónomo; M. Cristina Camus Palacios, Arquitecto, y María Carolina Letelier Bopp, Arquitecto; mediante informe de fecha 30 de julio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $4.743.150.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
