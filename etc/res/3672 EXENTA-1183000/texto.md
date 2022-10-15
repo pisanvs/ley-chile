@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.672, de fecha 27 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote EM-10, correspondiente al inmueble ubicado en LT 12 Fundo La Rinconada, Rol de Avalúo 2087-737, de la Comuna de Melipilla, Región Metropolitana, de aparente dominio de Letelier Zuloaga Roberto Santiag, con una superficie aproximada de 1.250,24 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Gabriel Pantoja Rivera, Ingeniero Agrónomo; María Cristina Camus Palacios, Arquitecto, y María Carolina Letelier Bopp, Arquitecto; mediante informe de fecha 30 de julio del 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.903.600.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
