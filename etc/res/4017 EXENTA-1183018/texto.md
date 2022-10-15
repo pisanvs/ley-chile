@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.017 de fecha 06/10/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 31/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Propiedad ubicada en Avenida Inés de Suárez, número novecientos treinta, que corresponde al sitio número dos de la manzana A del plano de Loteo Los Solares de Aranjuez", Rol de avalúo: 2834-2, comuna de Temuco. La superficie a expropiar aproximada es de 299,00 metros cuadrados, de aparente dominio de Cecilia Andrea Aguayo Moraga y Andrés Alberto Donoso Floody. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Fabián Eliecer Molina Morales y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $226.530.000 según Informe N° 04-0, de fecha 23.09.2022, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
