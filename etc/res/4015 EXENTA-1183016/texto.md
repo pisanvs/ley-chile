@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.015, de fecha 06/10/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 31/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Inmueble ubicado en Temuco, Sector Campos Deportivos, que corresponde al Lote número 5 de la subdivisión del sitio número 261 del plano urbano de Temuco", Rol de avalúo: 2508-19, comuna de Temuco. La superficie a expropiar aproximada es de 1.196,44 metros cuadrados, de aparente dominio de Sociedad Educacional Visión Futura Limitada. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Fabián Eliecer Molina Morales y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $684.250.000 según informe Nº 07-0, de fecha 23.09.2022, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
