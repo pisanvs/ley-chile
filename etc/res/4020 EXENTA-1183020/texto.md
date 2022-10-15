@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.020, de fecha 06/10/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 31/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Inmueble ubicado en calle Tenerife número 02330 que corresponde al sitio número 20 de la manzana C del plano de loteo Los Solares de Aranjuez", Rol de avalúo: 2835-12, comuna de Temuco. La superficie a expropiar aproximada es de 2,91 metros cuadrados, de aparente dominio de Álvaro Rodrigo Augsburger Bachmann. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Fabián Eliecer Molina Morales y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $1.610.000 según Informe N° 01-A, de fecha 23.09.2022, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
