@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 2022/PA/05/0626 EXENTA, DE FECHA 29 DE SEPTIEMBRE DE 2022, QUE ORDENA INSTRUIR PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2022/PA/05/0626, de fecha 29 de septiembre de 2022, que ordena Instruir Proceso Administrativo a la entidad sostenedora Entidad Individual Rayún de Quillota, RUT Nº 65.155.002-5, representada legalmente por doña Alexa Elier Beltrán Cataldo, RUT Nº 15.063.765-1. Resuelvo: 1. Instrúyase Proceso Administrativo a la Sostenedora Entidad Individual Rayún de Quillota, RUT Nº 65.155.002-5, representada legalmente por doña Alexa Elier Beltrán Cataldo, RUT Nº 15.063.765-1, por los hechos consignados en Acta de Fiscalización Nº 220501149, de fecha 15.09.2022. 2.- Desígnese Fiscal Instructor a don Enrique Rodríguez Segovia. 3.- Notifíquese la presente resolución.-
+
+Sybil Abarca Carvajal, Encargada Unidad de Jurídica Regional, Superintendencia de Educación Región de Valparaíso.
