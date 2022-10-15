@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.019 de fecha 06/10/2022, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 31/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Propiedad ubicada en calle Islas Canarias número 941, que corresponde al lote número 12 del plano de loteo actualmente signado con el número 941 por Pasaje Dos del Conjunto Los Solares de Aranjuez, de esta ciudad", Rol de avalúo: 2834-8, comuna de Temuco. La superficie a expropiar aproximada es de 320,00 metros cuadrados, de aparente dominio de Carlos Ramón Hettich Arriagada. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Fabián Eliecer Molina Morales y Claudio Marcelo Pezo Muñoz, fijó monto de indemnización provisional en $233.980.000 según Informe N° 02-0, de fecha 23.09.202.2, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
