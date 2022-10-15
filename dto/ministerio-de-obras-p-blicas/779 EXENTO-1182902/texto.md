@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº779, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.72, 73 y 74, para la obra: MEJORAMIENTO RUTA CURANILAHUE - TRONGOL BAJO, que figuran a nombre de SUC ARIAS ARAVENA JUAN BAUTISTA, roles de avalúo 504-44, Comuna de CURANILAHUE, REGION DEL BIOBÍO, superficies 156, 185 y 1.040 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, mediante informe de tasación de 06 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $427.280 para el lote Nº72, $3.728.965 para el lote Nº73, y $2.227.226 para el lote Nº74. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
