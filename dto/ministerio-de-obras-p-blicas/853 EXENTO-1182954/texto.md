@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 853 de 20 de septiembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO SANTIAGO - TALCA PID GRUPO II: OBRAS NORMATIVAS Y DE SERVICIALIDAD OBRA 24: CALLE DE SERVICIO ITAHUE PONIENTE. CURICÓ - MOLINA, Región del Maule, que figura a nombre de OBISPADO DE TALCA, rol de avalúo 617-30 de la comuna de Molina, superficie 473 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 132 de 28 de abril de 2022, integrada por Pablo Alex Mansilla Aravena, Andrés Rainer Schulz Villanueva y Carlos Alberto Montecinos Galleguillos, mediante informe de tasación de 18 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $18.522.000 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
