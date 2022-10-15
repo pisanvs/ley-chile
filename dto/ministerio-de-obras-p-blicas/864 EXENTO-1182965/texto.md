@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 864 de 23 de septiembre de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 22 ter. letra k) y 105 del D.F.L. MOP. Nº 850 de 1997, se expropió el lote de terreno 16, Rol de avalúo 213-47, comuna de Las Cabras, superficie 64 m2., para la obra CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B, SUBSECTOR: RUTA 66: PUENTE EL DURAZNO - ENLACE LAS ARAÑAS, COMUNA DE LAS CABRAS, PROVINCIA DE CACHAPOAL, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS. La comisión de peritos, integrada por CRISTIÁN ANDRÉS CÁCERES VARGAS, JORGE ESTEBAN CASAGRANDE SAAVEDRA y CARLOS ROBERTO ALARCÓN VILLEGAS, fijó el valor de tasación con fecha 21 de enero de 2022, acordándose la indemnización con su propietaria MARÍA ESTER RAMÍREZ PIÑA, en la cantidad de $1.785.225.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
