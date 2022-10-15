@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.674, de fecha 27 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote EM-6, correspondiente al inmueble ubicado en Villa El Marco LT Equip LT 22 Pomaire, Rol de Avalúo 2452-33, de la comuna de Melipilla, Región Metropolitana, de aparente dominio de Nibaldo Fabián León Santis, con una superficie aproximada de 410,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Gabriel Pantoja Rivera, Ingeniero Agrónomo; María Cristina Camus Palacios, Arquitecto, y María Carolina Letelier Bopp, Arquitecto; mediante Informe de fecha 30 de julio del 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $57.176.980.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
