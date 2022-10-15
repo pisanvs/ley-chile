@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº837, de 20 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1 y 2, para la obra: REPOSICIÓN PUENTE CANCURA EN RUTA U-55-V, que figuran a nombre de DOS NORTE S.A. y CERMAQ CHILE S.A., roles de avalúo 2262-6 y 2262-25, Comuna de OSORNO, REGIÓN DE LOS LAGOS, superficies 1.535 y 1.488 m2. respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, CAROLINA CLAUDIA VERDEJO DÍAZ y VALENTINA ANDREA CHACALTANA SIMS, mediante informe de tasación de 09 de enero de 2022, fijó el monto de la indemnización provisional en la cantidad de $21.167.000, para el lote Nº1 y $20.586.792, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
