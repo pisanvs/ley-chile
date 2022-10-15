@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº802, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 92, para la obra: MEJORAMIENTO RUTA W-883, CRUCE LONGITUDINAL DIAZ LIRA, SECTOR: PUREO - APECHE, que figura a nombre de NAVARRETE GUTIERREZ MANUEL OCTAV, rol de avalúo 135-1, Comuna de QUEILEN, REGIÓN DE LOS LAGOS, superficie 1.369 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, RODRIGO ANDRES YAÑEZ RIFFO y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de 09 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.470.900, para el lote Nº92. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
