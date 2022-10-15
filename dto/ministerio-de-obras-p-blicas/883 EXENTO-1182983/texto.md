@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 883 de 30 de septiembre de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 3, Rol de avalúo 308-313, comuna de Melipeuco, superficie 6.733 m2., para la obra MEJORAMIENTO RUTA S-61 SECTOR: MELIPEUCO-ICALMA, COMUNAS DE MELIPEUCO Y LONQUIMAY, PROVINCIAS DE CAUTÍN Y MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YÁÑEZ RIFFO, fijó el valor de tasación con fecha 22 de octubre de 2020, acordándose la indemnización con su propietaria MACARENA NICOLE VARELA CARRASCO, en la cantidad de $21.929.231.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
