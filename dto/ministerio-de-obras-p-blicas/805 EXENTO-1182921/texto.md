@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°805, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.70, 71, 72, 73 y 74, para la obra: REPOSICION RUTA N-59-Q, SECTOR: CHILLAN - YUNGAY (TRAMO 1), que figuran a nombre de FORESTAL CELCO S A, rol de avalúo 2221-10, Comuna de CHILLAN VIEJO, REGION DE ÑUBLE, superficies 11.642, 5.793, 698, 460 y 4.221 m2 respectivamente. La Comisión de Peritos integrada por VALERIA MARDONEZ LEMA, VALESKA ALÉ GOÑI y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 16 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $31.175.893 para el lote N°70, $19.194.134 para el lote N°71, $3.967.176 para el lote N°72, $1.619.520 para el lote N°73, y $15.495.513 para el lote N°74. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
