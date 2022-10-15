@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.678, de fecha 27 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote EB-6, correspondiente al inmueble ubicado en Lote A2 (Ex PC 12), Rol de Avalúo 1035-163, de la Comuna de Maipú, Región Metropolitana, de aparente dominio de Gandarillas Infante María Inés y Ot, con una superficie aproximada de 2.005,04 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Gabriel Pantoja Rivera, Ingeniero Agrónomo; María Cristina Camus Palacios, Arquitecto, y María Carolina Letelier Bopp, Arquitecto; mediante informe de fecha 30 de julio del 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $311.426.510.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
