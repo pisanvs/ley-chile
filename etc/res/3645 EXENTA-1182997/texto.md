@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.645, de fecha 27 de septiembre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote EB-1, correspondiente al inmueble ubicado en Camino Melipilla PC 5, Rol de Avalúo 2606-4, de la Comuna de Maipú, Región Metropolitana, de aparente dominio de Inmobiliaria Castilla SpA, con una superficie aproximada de 451,07 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Gabriel Pantoja Rivera, Ingeniero Agrónomo; María Cristina Camus Palacios, Arquitecto; y María Carolina Letelier Bopp, Arquitecto; mediante Informe de fecha 30 de julio del 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $69.305.190.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
