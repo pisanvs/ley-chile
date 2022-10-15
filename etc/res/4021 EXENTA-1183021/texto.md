@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.021, de fecha 06/10/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 31/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Lote Uno de una superficie de veinticinco mil cuatro coma setenta y cuatro metros cuadrados, que forma parte de la subdivisión del Lote V Cinco raya B, de una superficie de sesenta y dos mil novecientos sesenta y dos metros cuadrados, y este a su vez de un predio mayor que formaba parte del plano de subdivisión del Fundo San Carlos, ubicado en la comuna de Temuco", Rol de avalúo: 4011-24, comuna de Temuco. La superficie a expropiar aproximada es de 324,62 metros cuadrados, de aparente dominio de Walmart Chile S.A. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Fabián Eliecer Molina Morales y Claudio Marcelo Pezo Muñoz, fijó monto de indemnización provisional en $156.640.000 según informe Nº 01-0, de fecha 23.09.2022, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
