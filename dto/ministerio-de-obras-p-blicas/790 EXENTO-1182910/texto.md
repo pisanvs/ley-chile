@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°790, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 58, para la obra: MEJORAMIENTO CBI, RUTA V-860 SECTOR CRUCE RUTA V-60 (FIN PAVIMENTO) CRUCE RUTA V-840, que figura a nombre de URIBE SOTO SILVIA OFELIA, rol de avalúo 2124-231, Comuna de PUERTO MONTT, REGIÓN DE LOS LAGOS, superficie 149 m2. La Comisión de Peritos integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA Y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 29 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $194.000, para el lote N° 58. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
