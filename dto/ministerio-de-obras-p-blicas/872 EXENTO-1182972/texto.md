@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 872 de 30 de septiembre de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 60-A, Rol de avalúo 274-356, comuna de San Javier, superficie 5.139 m2., para la obra MEJORAMIENTO RUTA L-32, SECTOR PUENTE MARIMAURA - CRUCE RUTA 126, COMUNA DE SAN JAVIER, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 26 de octubre de 2021, acordándose la indemnización con sus propietarias ROSA ANGÉLICA JAQUE MUÑOZ Y OTRA, en la cantidad de $35.915.133.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
