@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°854, de 20 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 3, para la obra: DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN OBRA CANAL AGUSTINAS SECTOR: CANAL AGUSTINAS DERIVADO 6, que figura a nombre de MAYO LAFQUEN RAIN HUMBERTA, rol de avalúo 389-72, Comuna de PITRUFQUEN, REGION DE LA ARAUCANÍA, superficie 1.550 m2. La Comisión de Peritos integrada por TATIANA YASMIN GUTIERREZ ORTIZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 30 de noviembre de 2020, fijó el monto de la indemnización provisional en la cantidad de $4.405.250 para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
