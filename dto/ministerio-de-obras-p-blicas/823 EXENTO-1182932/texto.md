@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº823, de 08 de septiembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 61, 62 y 63, para la obra: MEJORAMIENTO RUTA CURANILAHUE - TRONGOL BAJO, que figuran a nombre de CEBALLOS OLATE JORGE HERNAN, CEBALLOS OLATE JORGE HERNAN y CEBALLOS OLATE JORGE HERNAN, roles de avalúo 504-230, 504-115 y 504-115, Comuna de CURANILAHUE, REGION DEL BIOBÍO, superficies 2.021, 2.839 y 356 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, mediante informe de tasación de 06 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.747.448 para el lote Nº61,8.502.315 para el lote Nº62, y $570.284 para el lote Nº63. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186. de 1978.
+
+Fiscalía MOP.
