@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.661, de fecha 15 de septiembre de 2022, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Construcción Parque Urbano Cerro Grande I Etapa, La Serena", conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 342-A, en plano de expropiación, ubicado en Lote 342-A Lote 3 Cerro Grande, comuna de La Serena, Rol de Avalúo Nº 2669-455, de aparente dominio de Jorge Patricio Ambiado Mora, superficie aprox. de 55,58 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Jaime Jurgens Bittner y Eduardo Tabilo González, según informe de fecha 8 de septiembre de 2022, fijó indemnización provisional en 87,90 UF, pagadero al contado.-
+
+Verónica Ibacache Parraguez, Directora (S), Serviu Región de Coquimbo.
