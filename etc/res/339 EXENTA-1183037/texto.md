@@ -1,0 +1,5 @@
+CALIFICA COMO TRABAJO NO PESADO, LA LABOR DE "TÉCNICO ELÉCTRICO-SUPERVISOR DE OBRA PLANTA ELÉCTRICA", EJECUTADA PARA LOS EMPLEADORES "BEDDIG Y CÍA. LTDA"; "EMPRESA DE INGENIERÍA EN MONTAJES ELÉCTRICOS DE CONTROL LTDA."; "JOSÉ LUIS VALENZUELA Y CÍA. LTDA."; "JOSÉ LUIS VALENZUELA BAUDRAND"; Y "JLV INGENIERÍA S.A"
+
+Por resolución exenta N° 339, de 14 de septiembre de 2022, el Director Nacional del Instituto de Previsión Social, califica como trabajo no pesado, la labor de "Técnico Eléctrico-Supervisor de Obra Planta Eléctrica", Ejecutada para los empleadores "Beddig y Cía. Ltda"; "Empresa de Ingeniería en Montajes Eléctricos de Control Ltda."; "José Luis Valenzuela y Cía. Ltda."; "José Luis Valenzuela Baudrand"; y "JLV Ingeniería S.A".-
+
+Patricio Coronado Rojo, Director Nacional del Instituto de Previsión Social.
