@@ -1,0 +1,5 @@
+DELEGA FACULTADES EN MATERIA DE BENEFICIOS DEL SISTEMA DE PENSIONES SOLIDARIAS EN LOS TÉRMINOS QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN N° 89 EXENTA, DE 26.02.2018 SOBRE LA MATERIA
+
+Por resolución exenta N° 183, de 19 de mayo de 2022, el Director Nacional del Instituto de Previsión Social, delega en la Jefatura del Subdepartamento Operaciones de Reforma del Departamento Gestión de Beneficios, la facultad de dictar y firmar las resoluciones que conceden, otorgan, rechazan, modifican, actualizan, reactivan, suspenden, extinguen e invalidan los beneficios del Sistema de Pensiones Solidario y la Bonificación por Hijo para las Mujeres establecidos en la ley N° 20.255, y de la Pensión Garantizada Universal y otros beneficios establecidos en la ley N° 21.419.-
+
+Patricio Coronado Rojo, Director Nacional del Instituto de Previsión Social.
