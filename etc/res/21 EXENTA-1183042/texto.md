@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO, SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA ILUSTRE MUNICIPALIDAD DE SAN PEDRO DE LA PAZ, RESPECTO DEL INMUEBLE MUNICIPAL UBICADO EN AVENIDA LOS ACACIOS N° 43 DE LA COMUNA DE SAN PEDRO DE LA PAZ, REGIÓN DEL BIOBÍO
+
+Por resolución exenta I N° 21, de 15 de septiembre de 2022, el Jefe del Departamento Administración e Inmobiliaria, aprueba Contrato de Comodato suscrito el 24 de agosto de 2022, entre el Instituto de Previsión Social y la I. Municipalidad de San Pedro de la Paz, por el cual esta última entidad entrega en comodato a este Instituto, la propiedad ubicada en Avenida Los Acacios N° 43 de la comuna de San Pedro de la Paz en la Región del Biobío, para el uso y funcionamiento de las actividades propias del Instituto.-
+
+Nicolás Fernández Abdala, Jefe (S) del Departamento Administración e Inmobiliaria.
