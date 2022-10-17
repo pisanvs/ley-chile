@@ -20,51 +20,63 @@ Especie Requisito de ingreso y
 
 declaración adicional
 
-especificado en el certificado
+especificado en el
+
+certificado
 
 fitosanitario
 
-Arachys hipogea (Maní) La partida ha sido sometida a
+Arachys hipogea (Maní) La partida ha sido
 
-un tratamiento de fumigación
+sometida a un
 
-contra Bruchidius spp.,
+tratamiento de
 
-Callosobruchus analis,
+fumigación contra
 
-Callosobruchus chinensis y
+Bruchidius spp.,
 
-Callosobruchus maculatus (Col.
+Callosobruchus
+
+analis,
+
+Callosobruchus
+
+chinensis
+
+y Callosobruchus
+
+maculatus (Col.
 
 Bruchidae), según
 
-especificaciones del numeral 6
+especificaciones del
 
-de esta Resolución.
+numeral 6 de esta
 
-Las semillas deben proceder de
+Resolución.
 
-áreas en la cual no se
+Las semillas deben
 
-encuentre reportada la
+proceder de áreas
 
-presencia de Trogoderma
+en la cual no se
 
-granarium,
+encuentre reportada
 
-Beta vulgaris var
+la presencia de
 
-altísima (=Beta
+Trogoderma granarium,
 
-vulgaris var
+Beta vulgaris var La partida ha sido
 
-sacharifera)
+altísima (=Beta sometida a un
 
-(remolacha azucarera) La partida ha sido sometida a
+vulgaris var tratamiento de
 
-un tratamiento de desinfección
+sacharifera) desinfección con
 
-con cualquiera de los
+(remolacha azucarera) cualquiera de los
 
 siguientes productos
 
@@ -72,87 +84,135 @@ fungicidas en forma
 
 alternativa: Benomyl,
 
-Benomyl+Thiram, Carbendazim,
+Benomyl+Thiram,
 
-Tiabendazol u otros
+Carbendazim,
 
-debidamente calificados.
+Tiabendazol
+
+u otros debidamente
+
+calificados.
 
 Brassica napus var
 
-napus; Sin declaraciones adicionales
+napus; Sin declaraciones
 
-Brassica rapa (raps
+Brassica rapa (raps adicionales
 
 o colza)
 
-Brassica juncea Sin declaraciones adicionales
+Brassica juncea Sin declaraciones
 
-(Mostaza)
+(Mostaza) adicionales
 
-Chenopodium quinoa Sin declaraciones adicionales
+Chenopodium quinoa Sin declaraciones
 
-(Quinoa)
+(Quinoa) adicionales
 
-Crambe abyssinica Sin declaraciones adicionales
+Crambe abyssinica Sin declaraciones
 
-(Crambe)
+(Crambe) adicionales
 
-Carthamus tinctorius Sin declaraciones adicionales
+Carthamus tinctorius Sin declaraciones
 
-(cartamo)
+(cartamo) adicionales
 
-Euphorbia lagascae Sin declaraciones adicionales
+Euphorbia lagascae Sin declaraciones
 
-Glycine max (soya) La partida ha sido sometida a
+adicionales
 
-un tratamiento de desinfección
+Glycine max (soya) El envío fue
 
-con cualquiera de los
+inspeccionado y se
 
-siguientes productos
+encuentra libre del
 
-fungicidas en forma
+suelo.
 
-alternativa Benomyl,
+El envió ha sido
 
-Benomyl+Thiram, Carbendazim,
+sometido a un
 
-Tiabendazol u otros
+tratamiento de
 
-debidamente calificados.
+desinfección con un
 
-La partida ha sido sometida
+fungicida eficaz,
 
-a un tratamiento de fumigación
+debidamente
 
-contra Bruchidius spp.,
+calificado.
 
-Callosobruchus analis,
+El nombre del
 
-Callosobruchus chinensis y
+producto
 
-Callosobruchus maculatus (Col.
+activo, el tipo de
 
-Bruchidae), según las
+aplicación y la dosis
 
-especificaciones señaladas en
+utilizada deberán
 
-el numeral 6 de esta
+quedar debidamente
 
-resolución.
+señalados en el campo
 
-Gossypium hirsutum; Sin declaraciones adicionales
+de tratamientos del
 
-Gossypium peruviana
+Certificado
+
+Fitosanitario.
+
+El envío ha sido
+
+sometido a un
+
+tratamiento
+
+de fumigación contra
+
+Bruchidus spp.,
+
+Callosobruchus
+
+analís,
+
+Callosobruchus
+
+chinensis
+
+y Callosobruchus
+
+maculatus
+
+(Col. bruchidae),
+
+según las
+
+especificaciones
+
+señaladas en el
+
+numeral 6 de
+
+esta Resolución.
+
+Gossypium hirsutum; Sin declaraciones
+
+Gossypium peruviana adicionales
 
 (algodón)
 
-Helianthus annuus La partida ha sido sometida a
+Helianthus annuus La partida ha sido
 
-un tratamiento de desinfección
+(girasol, maravilla) sometida a un
 
-(girasol, maravilla) con cualquiera de los
+tratamiento
+
+de desinfección con
+
+cualquiera de los
 
 siguientes productos
 
@@ -160,63 +220,87 @@ fungicidas en forma
 
 alternativa:
 
-Benomylo+Mancozeb, Benomylo+
+Benomylo+Mancozeb,
 
-Carboxina u otros debidamente
+Benomylo+ Carboxina
+
+u otros debidamente
 
 calificados.
 
-Humulus lupulus (lúpulo) Sin declaraciones adicionales
+Humulus lupulus (lúpulo) Sin declaraciones
 
-Lesquerella fendleri Sin declaraciones adicionales
+adicionales
 
-Limnanthes alba Sin declaraciones adicionales
+Lesquerella fendleri Sin declaraciones
 
-(Meadowfoam)
+adicionales
 
-Linum grandiflorum, Sin declaraciones adicionales
+Limnanthes alba Sin declaraciones
 
-Linum usitatissimum
+(Meadowfoam) adicionales
+
+Linum grandiflorum, Sin declaraciones
+
+Linum usitatissimum adicionales
 
 (lino, linaza)
 
-Nicotiana tabacum La partida ha sido sometida
+Nicotiana tabacum La partida ha sido
 
-(Tabaco) a un tratamiento de
+(Tabaco) sometida a un
 
-desinfección con Metalaxil.
+tratamiento de
 
-Ricinus communis Sin declaraciones adicionales
+desinfección con
 
-(Ricino)
+Metalaxil.
 
-Sesamum indicum La partida ha sido sometida
+Ricinus communis Sin declaraciones
 
-(S. orientale) a un tratamiento de
+(Ricino) adicionales
 
-(sésamo, ajonjolí) fumigación contra
+Sesamum indicum La partida ha sido
 
-Callosobruchus analis (Col.
+(S. orientale) sometida a un
 
-Bruchidae), según las
+(sésamo, ajonjolí) tratamiento de
 
-especificaciones señaladas
+fumigación
 
-en el numeral 6 de esta
+contra
 
-resolución.
+Callosobruchus
 
-Simmondsia chinensis (S. Sin declaraciones adicionales
+analis (Col.
 
-californica) (Jojoba)
+Bruchidae),
 
-Stokesia laevis Sin declaraciones adicionales
+según las
 
-Tagetes erecta Sin declaraciones adicionales
+especificaciones
 
-(clavelón, marigold)
+señaladas en el
 
-Vernonia galamensis Sin declaraciones adicionales
+numeral 6 de
+
+esta resolución.
+
+Simmondsia chinensis (S. Sin declaraciones
+
+californica) (Jojoba) adicionales
+
+Stokesia laevis Sin declaraciones
+
+adicionales
+
+Tagetes erecta Sin declaraciones
+
+(clavelón, marigold) adicionales
+
+Vernonia galamensis Sin declaraciones
+
+adicionales
 
 2. En las plagas reglamentadas exigidas, se aceptará como Declaración Adicional que las mismas no se encuentran reportadas en el país de origen de la semilla.
 
@@ -260,53 +344,67 @@ Especie Requisito de ingreso y
 
 declaración adicional
 
-especificado en el certificado
+especificado en el
+
+certificado
 
 fitosanitario
 
-Beta vulgaris var La semilla procede de un altísima (=Beta semillero inspeccionado
+Beta vulgaris var La semilla procede de
 
-vulgaris var durante el período de
+altísima (=Beta un semillero
 
-sacharifera) crecimiento activo y
+vulgaris var inspeccionado durante
 
-(remolacha libre de Colletotrichum
+sacharifera) el período de
 
-encontrado dematium
+(remolacha crecimiento activo
 
-azucarera)
+encontrado y libre de
 
-Glycine max (soya) La semilla procede de un
+azucarera) Colletotrichum
 
-semillero inspeccionado
+dematium
 
-durante el período de
+Glycine max (soya) La semilla procede de
+
+un semillero
+
+inspeccionado durante
+
+el período de
 
 crecimiento activo y
 
 encontrado libre de
 
-Colletotrichum truncatum
+Colletotrichum
+
+truncatum
 
 Helianthus annuus La semilla procede de un
 
-semillero inspeccionado
+(girasol, maravilla) semillero inspeccionado
 
-durante
+durante el período
 
-(girasol, maravilla) el período de crecimiento
+de crecimiento
 
-activo y encontrado libre
+activo y encontrado
 
-de Alternaria helianthi y
+libre de Alternaria
 
-Phomopsis helianthi
+helianthi y Phomopsis
 
-Nicotiana tabacum La semilla procede de un
+helianthi
 
-(Tabaco) semillero inspeccionado
+Nicotiana tabacum La semilla procede
 
-durante el período de
+(Tabaco) de un semillero
+
+inspeccionado durante
+
+el período de
 
 crecimiento activo y
 
