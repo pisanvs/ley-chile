@@ -1,0 +1,5 @@
+DESIGNA NUEVO ADMINISTRADOR TITULAR Y SUPLENTE DEL "CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL E INSTITUTO DE SEGURIDAD LABORAL", SOBRE EL INMUEBLE UBICADO EN CALLE SAN PABLO N° 2461, SANTIAGO Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA
+
+Por resolución exenta I N° 22, de 29 de septiembre de 2022, el jefe del Departamento Administración e Inmobiliaria designa, conforme lo establecido en la Cláusula Séptima de la modificación de contrato de comodato establecida por resolución exenta N° 154, del 16 marzo 2017, como administradores del Contrato de Comodato suscrito entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, sobre el inmueble ubicado en calle San Pablo N° 2461, Santiago, a los funcionarios de la Dirección Regional IPS Metropolitana, Daniela Araya Tirado, como Titular, y a Daniela Ortega Lobos, como Suplente.- Nicolás Fernández Abdala, Jefe (S) del Departamento Administración e Inmobiliaria.
+
+Carmen Gajardo Maturana, Jefa Unidad Gestión de Resoluciones, Instituto de Previsión Social.
