@@ -70,6 +70,8 @@ Delégase en el Director General Administrativo, o en quien le subrogue, la facu
 
 22. Visar el formulario de solicitudes de viáticos y pasajes, relativos a comisiones de servicios y cometidos funcionarios. Se exceptúan las correspondientes al Secretario General de Política Exterior, las que deberán ser autorizadas por el Subsecretario.
 
+23. Resolución que encomienda funciones de carácter directivo o de jefatura al personal de la Subsecretaría de Relaciones Exteriores.
+
 ### II. Materias relativas a bienes y contratación pública:
 
 1. Resolución de aceptación de donaciones por parte del Fisco, conforme a lo establecido en el artículo 4° de la ley N° 19.896.
