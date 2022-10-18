@@ -34,7 +34,7 @@ g) Los correos electrónicos de fechas 4 y 7 de marzo de 2022, que dan cuenta de
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá para realizar llamado a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual o colectiva, para proyectos de la modalidad de Construcción en Sitio Propio, destinados a la atención de familias afectadas por socavones con daño irreparable en sus viviendas, que cuenten con decreto de demolición por parte de la Dirección de Obras Municipales respectiva, en la Región de Tarapacá, por un monto total de hasta 140.000 Unidades de Fomento.
+1. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá para realizar llamado a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual o colectiva, para proyectos de la modalidad de Construcción en Sitio Propio, destinados a la atención de familias afectadas por socavones con daño irreparable en sus viviendas, que cuenten con decreto de demolición por parte de la Dirección de Obras Municipales respectiva, en la Región de Tarapacá, por un monto total de hasta 233.000 Unidades de Fomento.
 
 2. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá para establecer las siguientes condiciones especiales, para la participación de las familias en el llamado que se autoriza a través del Resuelvo precedente, de acuerdo a lo establecido en el artículo 21 del DS N° 49 (V. y U.), de 2011, y sus modificaciones:
 
@@ -76,15 +76,15 @@ iii. Del impedimento de la letra h) del artículo 4, establecido para personas q
 
 iv. Del requisito de acreditar disponibilidad de terreno libre de hipotecas y gravámenes, establecido en el numeral 1 de la letra j) del artículo 3.
 
-v. De lo señalado en el inciso segundo del artículo 7 del DS N� 49 (V. y U.), de 2011, permitiéndose la postulación de grupos organizados sin acreditación de personalidad jurídica.
+v. De lo señalado en el inciso segundo del artículo 7 del DS N° 49 (V. y U.), de 2011, permitiéndose la postulación de grupos organizados sin acreditación de personalidad jurídica.
 
 vi. De lo establecido en el artículo 14 del DS N° 49 (V. y U.), de 2011, respecto de la participación en proceso de selección solo de proyectos calificados, permitiéndose la postulación con proyectos creados en el Banco de Postulaciones de la plataforma Umbral.
 
 3. Los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el llamado que por esta resolución se autoriza, los que serán validados por el Serviu en la forma que se dispondrá especialmente para ello y que será informada oportunamente mediante resolución de su Director. Con todo, para proceder a la calificación del proyecto, el Serviu podrá solicitar la entrega en un solo acto de los antecedentes físicos, con posterioridad a la selección, y en forma previa al inicio de obras.
 
-4. El número de familias seleccionadas alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos previstos para el llamado que por esta resolución se autoriza, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponde.
+4. El número de familias seleccionadas alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos previstos para el llamado que por esta resolución se autoriza, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponde. Para efectos de imputación de recursos, se considerará un monto promedio y referencial de subsidio individual de 1.100 Unidades de Fomento, para cada operación de Construcción en Sitio Propio. El monto definitivo será el que corresponda, conforme la aplicación de lo señalado en el Resuelvo 2, incluyendo el respectivo servicio de asistencia técnica y el monto de fiscalización técnica de obras, según proceda, los que se imputarán al Programa Habitacional Fondo Solidario de Elección de Vivienda, del año 2022, de la Región de Tarapacá.
 
-5. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio a más tardar el día 30 de junio de 2022. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+5. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio a más tardar el día 28 de octubre de 2022. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
