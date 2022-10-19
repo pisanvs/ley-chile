@@ -56,8 +56,6 @@ Resolución:
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
-.
-
 3. La condición de Condominio objeto de atención del programa, será acreditada por la Seremi Minvu Región de Los Lagos, en atención a los requisitos señalados en el artículo Nº 89 del DS Nº 27 (V. y U.), de 2016 y de acuerdo a lo indicado en el numeral 43 de la Res. Ex. 380 (V. y U.), individualizada en el visto Nº 14.
 
 Las comunidades de copropietarios y residentes interesados en postular deberán presentar a través de una Entidad Patrocinante en la Seremi Minvu Región de Los Lagos, un expediente que contenga los documentos que permitan acreditar la condición de condominio objeto de atención del programa. Los antecedentes que debe contener el expediente son:
@@ -134,7 +132,7 @@ l) Identificación de la cantidad de recursos requeridos mediante subsidio, con 
 
 10. El ahorro mínimo a que se refiere el artículo 15 del DS Nº 27 (V. y U.), de 2016, debe ser acreditado al momento de ingresar la Carpeta de Proyecto al Serviu respectivo.
 
-11. Se establece que, la lista de espera a la que se refiere el numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016 y el literal e) del numeral 16 de la resolución exenta Nº 380, de (V. y U.), individualizada en el visto 14 de la presente resolución, deberá ser equivalente, como máximo, al 50% de los recursos disponibles para la región.
+11. Se establece que, la lista de espera a la que se refiere el numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016 y el literal e) del numeral 16 de la resolución exenta Nº 380, de (V. y U.), individualizada en el visto 14 de la resolución exenta Nº 192, deberá ser equivalente, como máximo, al 100% de los recursos disponibles para la región.
 
 12. Se establece que, para el presente llamado, se aplicarán los siguientes montos de subsidios en remplazo de los señalados en el artículo 84 del DS Nº 27 (V. y U.), de 2016, de acuerdo con los siguientes detalles:
 
