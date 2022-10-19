@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.911, de 13 de octubre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprueba el Gabinete técnico de la Ilustre Municipalidad de Futaleufú, cuyo domicilio estará ubicado en calle Bernardo O'Higgins Nº 596, comuna de Futaleufú, Región de Los Lagos, por cumplir los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Futaleufú para otorgar licencias de conductor conforme las disposiciones del DFL Nº 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley de Tránsito y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle algunos de los requisitos que hicieron posible la presente autorización.-
+
+Pablo Walterio Joost Winkler, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
