@@ -106,7 +106,7 @@ Elaboración de la Nómina de Potenciales Beneficiarios y Plazos Máximos de Pos
 
 La nómina de potenciales beneficiarios con derecho al Bono se elaborará sobre la base de las postulaciones recibidas en la Plataforma dispuesta para el efecto por el Ministerio de las Culturas, las Artes y el Patrimonio y considerando la base de datos y/o nómina de trabajadores y trabajadoras a que se refiere el inciso primero del artículo 2º de este decreto.
 
-El plazo máximo de postulación no podrá exceder de veinte (20) días hábiles, contados desde la notificación de la apertura del proceso a través de los canales oficiales dispuestos para ello por el Ministerio de las Culturas, las Artes y el Patrimonio.
+Se podrá abrir más de un período de postulación en caso de existir recursos remanentes. El plazo máximo de postulación no podrá exceder de veinte (20) días hábiles, contados desde la notificación de la apertura del proceso a través de los canales oficiales dispuestos para ello por el Ministerio de las Culturas, las Artes y el Patrimonio.
 
 El Ministerio de las Culturas, las Artes y el Patrimonio, a través de la Subsecretaría de las Culturas y las Artes, deberá verificar el cumplimiento de los requisitos establecidos en el artículo 2 de este reglamento y remitirá a la Subsecretaría de Evaluación Social la Nómina de Potenciales Beneficiarios, con sus respectivos roles únicos nacionales, para los efectos de lo establecido en el artículo 3. Recibidos estos antecedentes, por la Subsecretaría de Evaluación Social, esta procederá a tratar la información para los efectos de construir la prelación a que alude el artículo 3.
 
