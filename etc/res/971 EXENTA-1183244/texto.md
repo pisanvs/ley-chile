@@ -1,0 +1,7 @@
+RECTIFÍCASE LA RESOLUCIÓN Nº 880 EXENTA, DE FECHA 22 DE JULIO DE 2021 QUE APRUEBA LA NÓMINA DE POSTULANTES SELECCIONADOS CORRESPONDIENTES AL PRIMER LLAMADO EN CONDICIONES ESPECIALES 2021 Y DISPONE ASIGNACIÓN DE RECURSOS PARA LA REGIÓN METROPOLITANA, QUE SE DESTINARÁN AL FINANCIAMIENTO DE SUBSIDIOS PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDA Y BARRIOS REGULADO POR EL DS 27 (V. Y U.) DE 2016 CAPÍTULO TERCERO
+
+Mediante la resolución exenta Nº 971, de fecha 12.10.2022, esta Secretaría Ministerial de Vivienda y Urbanismo, rectifica su resolución exenta Nº 880, de fecha 22.07.2021, en el sentido de modificar el cuadro "Demanda General" incorporado en el numeral 1 y 2 de su parte resolutiva, de conformidad con lo dispuesto en el artículo 62 de la ley Nº 19.880, advirtiendo la existencia de un error involuntario de transcripción. En virtud de ello, se reemplaza el número de RUT de la Copropiedad indicada en la fila 71 de dicho cuadro y se establece un nuevo cuadro de detalle que se indica en dicha resolución.
+
+El texto íntegro de la resolución extractada, que contiene el nuevo cuadro de detalle y las condiciones de esta rectificación, se encuentra disponible en portal de transparencia activa de esta institución (https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025).
+
+Anótese, comuníquese, publíquese.- Rocío Andrade Castro, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo.
