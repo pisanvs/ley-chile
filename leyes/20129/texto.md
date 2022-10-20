@@ -334,11 +334,15 @@ De la acreditación institucional
 
 #### Artículo 15
 
-Las universidades, institutos profesionales y centros de formación técnica autónomos podrán someterse a procesos de acreditación institucional ante la Comisión, los que tendrán por objeto evaluar el cumplimiento de su proyecto institucional y verificar la existencia de mecanismos eficaces de autorregulación y de aseguramiento de la calidad al interior de las instituciones de educación superior, y propender al fortalecimiento de su capacidad de autorregulación y al mejoramiento continuo de su calidad.
+La acreditación institucional será obligatoria para las instituciones de educación superior autónomas y consistirá en la evaluación y verificación del cumplimiento de criterio y estándares de calidad, los que se referirán a recursos, procesos y resultados; así como también, el análisis de mecanismos internos para el aseguramiento de la calidad, considerando tanto su existencia como su aplicación sistemática y resultados, y su concordancia con la misión y propósito de las instituciones de educación superior.
 
-La opción por el proceso de acreditación será voluntaria y, en su desarrollo, la Comisión deberá tener en especial consideración la autonomía de cada institución. En todo caso, las instituciones de educación superior deberán reconocer y respetar siempre los principios de pluralismo, tolerancia, libertad de pensamiento y de expresión, libertad de asociación y participación de sus miembros en la vida institucional, dentro de los límites establecidos por la Constitución Política de la República y las leyes.
+La acreditación institucional será integral y considerará la evaluación de la totalidad de las sedes, funciones y niveles de programas formativos de la institución de educación superior, y de aquellas carreras y programas de estudio de pre y postgrado, en sus diversas modalidades, tales como presencial, semipresencial o a distancia, que hayan sido seleccionados por la Comisión para dicho efecto.
 
-Un reglamento de la Comisión establecerá la forma, condiciones y requisitos para el desarrollo de los procesos de acreditación institucional, los que, en todo caso, deberán considerar las etapas de autoevaluación institucional, evaluación externa y pronunciamiento de la Comisión.
+En el desarrollo del proceso de acreditación institucional, la Comisión deberá tener en especial consideración la autonomía de cada institución. En todo caso, las instituciones de educación superior deberán reconocer y respetar siempre los principios de pluralismo, tolerancia, libertad de pensamiento y de expresión, libertad de asociación y participación de sus miembros en la vida institucional, dentro de los límites establecidos por la Constitución Política de la República y las leyes.
+
+Un reglamento de la Comisión establecerá la forma, condiciones y requisitos para el desarrollo de los procesos de acreditación institucional, los que, en todo caso, deberán considerar las etapas de autoevaluación institucional, evaluación externa y pronunciamiento de la Comisión. Asimismo, un reglamento de la Comisión establecerá el procedimiento de selección de carreras y programas de estudio de pre y postgrado que serán evaluados en la acreditación institucional. Este procedimiento deberá asegurar la evaluación de una muestra intencionada de las carreras y programas de estudios impartidos por la institución en la totalidad de sus sedes, la que deberá considerar carreras y programas de estudio de las distintas áreas del conocimiento en las que la institución desarrolla sus funciones, y en sus diversas modalidades, evaluando integralmente la diversidad de la institución. La institución evaluada podrá seleccionar adicionalmente una carrera o programa para su evaluación, la que deberá ser considerada como parte integral de la muestra por la Comisión.
+
+> **Nota.** El Art. vigésimo primero transitorio de la ley 21.091, publicada el 29.05.2018, en su texto modificado por el Art. 1° de la ley 21.186, publicada el 21.11.2019, dispuso que las modificaciones que se introducen al presente artículo por su N° 15 entrarán en vigencia a contar del 1° de enero de 2020 respecto a la obligatoriedad de la acreditación; y en cuanto a la integralidad y muestra intencionada, regirán en conjunto con los nuevos criterios y estándares de calidad, aplicables a los procesos de acreditación que se inicien una vez trascurridos veinticuatro meses desde la fecha en que éstos sean publicados, lo que debe producirse antes del 30 de septiembre de 2020.
 
 #### Artículo 16
 
@@ -353,6 +357,14 @@ c) Pronunciamiento de la Comisión. Consiste en el juicio emitido por la Comisi�
 En todo caso, en el proceso de acreditación institucional, las instituciones deberán facilitar la participación de las organizaciones estudiantiles y de funcionarios en autoevaluación, garantizándoles, además, el pleno acceso a toda la información que se genere en las etapas de la evaluación externa y en el pronunciamiento de la Comisión.
 
 El reglamento de la Comisión establecerá la forma, condiciones y requisitos específicos para el desarrollo de los procesos de acreditación institucional.
+
+#### Artículo 16 bis
+
+Desde el inicio del proceso de acreditación institucional se entenderá, para todos los efectos legales, que la acreditación institucional vigente se prorrogará hasta la dictación de la resolución final que ponga término al proceso.
+
+En el caso de que una institución de educación superior no presente a la Comisión su informe de autoevaluación una vez vencida su acreditación vigente se entenderá que la institución no se encuentra acreditada, debiendo procederse de conformidad con lo establecido en el artículo 22 de la presente ley.
+
+Las instituciones de educación superior en proceso de licenciamiento deberán presentar su informe de autoevaluación a la Comisión en el plazo de dos años desde obtenida su autonomía. La no presentación del informe en dicho plazo tendrá a la institución por no acreditada.
 
 #### Artículo 17
 
@@ -402,19 +414,23 @@ b) Los institutos profesionales y centros de formación técnica, de acuerdo con
 
 El proceso de evaluación externa a que se refiere el artículo 15 inciso final, deberá ser realizado por pares evaluadores designados para ese fin por la Comisión, en conformidad con las normas de este artículo.
 
-Los pares evaluadores serán personas naturales o jurídicas, nacionales o extranjeras, que deberán encontrarse incorporadas en un registro público que la Comisión llevará a ese efecto. La incorporación al Registro de Pares Evaluadores se realizará por medio de presentación de antecedentes ante la Comisión, quien deberá efectuar llamados públicos, a lo menos una vez cada dos años. Por acuerdo de la Comisión se podrán efectuar concursos con una mayor periodicidad.
+Los pares evaluadores serán personas naturales, nacionales o extranjeras, que deberán encontrarse incorporadas en un registro público que la Comisión llevará a ese efecto. La incorporación al Registro de Pares Evaluadores se realizará por medio de presentación de antecedentes ante la Comisión, quien deberá efectuar llamados públicos, a lo menos una vez cada dos años. Por acuerdo de la Comisión se podrán efectuar concursos con una mayor periodicidad.
 
-Para ser considerados en el registro, los pares evaluadores personas naturales deberán tener, al menos, diez años de ejercicio académico o profesional y ser reconocidos en su área de especialidad. Las personas jurídicas, por su parte, deberán estar constituidas, en Chile o en el extranjero, con el objeto de realizar estudios, investigaciones y/o servicios de consultoría sobre temas educacionales y certificar, a lo menos, cinco años de experiencia en dichas actividades.
+Para ser considerados en el registro, los pares evaluadores deberán tener, al menos, diez años de ejercicio académico o profesional y ser reconocidos en su área de especialidad.
 
-Las personas jurídicas a que se refiere el presente artículo podrán acreditar la experiencia exigida en el inciso anterior, cuando sean conformadas, a lo menos, por tres académicos o profesionales que demuestren cumplir con las exigencias establecidas para los pares evaluadores personas naturales.
+Asimismo, en la designación de la Comisión de los pares evaluadores que participarán en cada caso, se deberá cautelar que se respete un adecuado equilibrio de personas con experiencia en instituciones de educación superior regionales y de la Región Metropolitana de Santiago.
 
-La Comisión designará, en consulta con la institución que se acredita, a las personas naturales que actuarán como pares evaluadores en un determinado proceso de acreditación institucional, de entre aquellas que figuren en el registro establecido en el inciso segundo. Sin perjuicio de lo anterior, la institución a ser evaluada tendrá derecho a vetar a uno o más de los pares propuestos, sin expresión de causa, hasta por tres veces. En caso de no lograrse acuerdo entre la Comisión y la institución de educación superior, la Comisión solicitará un pronunciamiento al Consejo Superior de Educación, entidad que determinará la composición definitiva de la comisión de pares evaluadores. La designación de pares evaluadores por parte del Consejo Superior de Educación será inapelable.
+La Comisión designará a los pares evaluadores que actuarán en un determinado proceso de acreditación institucional, de entre aquellas que figuren en el registro establecido en el inciso segundo. Sin perjuicio de lo anterior, la institución a ser evaluada podrá impugnar fundadamente a uno o más de los pares evaluadores por una sola vez, ante la Comisión, cuando concurra alguna de las causales de inhabilidad señaladas en el inciso siguiente, u otras circunstancias que a juicio de la institución puedan afectar la imparcialidad o normal desarrollo del proceso evaluativo, dentro del plazo de cinco días, contado desde la notificación de la resolución que designa a los pares evaluadores.
 
-En el caso de que la institución de educación superior opte por ser evaluada por una persona jurídica, de entre aquellas que figuren en el registro establecido en el inciso segundo, la Comisión designará de una terna propuesta por dicha institución, a la persona jurídica que actuará como par evaluador en ese determinado proceso de acreditación institucional.
+No podrán ser seleccionados como pares evaluadores las personas que:
 
-En todo caso, los pares evaluadores no podrán realizar evaluaciones en aquellas instituciones de educación superior en las que hubiere cursado estudios de pre o postgrado o con las que mantengan algún tipo de relación contractual, directiva o de propiedad, como tampoco en aquéllas con las que hubiese tenido alguno de estos vínculos, hasta transcurrido dos años desde que él hubiese terminado.
+a) Tengan vigentes o hayan celebrado contratos, por sí o por terceros, con la institución a ser evaluada, dentro de los dos años anteriores al inicio de sus funciones, según corresponda.
 
-Tratándose de pares evaluadores personas jurídicas, éstas no podrán tener con las instituciones de educación superior a ser evaluada, ninguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley Nº 18.045. Para estos efectos serán aplicables dichas normas también a las corporaciones universitarias.
+b) Tengan la calidad de cónyuge, conviviente civil o parientes hasta el segundo grado de consanguinidad o de afinidad, de quienes ejerzan funciones directivas, cualquiera sea su denominación en la institución a ser evaluada.
+
+c) Se hallen condenadas por crimen o simple delito.
+
+Asimismo, los pares evaluadores no podrán mantener ningún tipo de relación contractual, tener participación en la propiedad, o ser miembros de la asamblea o asociados en una institución de educación superior, ni ejercer funciones directivas en éstas, hasta doce meses después de haber participado en la evaluación externa de la institución respectiva.
 
 #### Artículo 19 bis
 
@@ -422,11 +438,13 @@ En el caso que la Comisión rechazare el informe presentado por los pares evalua
 
 #### Artículo 20
 
-La acreditación institucional se otorgará por un plazo de siete años a la institución de educación superior evaluada que, considerando el informe emitido por los pares evaluadores, cumpla íntegramente con los criterios de evaluación.
+Se otorgará la acreditación institucional a las instituciones de educación superior que cumplan con los criterios y estándares de las dimensiones referidas en el inciso tercero del artículo 17, teniendo en consideración su misión y proyecto institucional. La acreditación institucional podrá ser de excelencia, avanzada o básica, en conformidad con los niveles de desarrollo progresivo que evidencien las instituciones.
 
-Si la institución evaluada no cumple íntegramente con dichos criterios, pero presenta un nivel de cumplimiento aceptable, la Comisión podrá acreditarla por un período inferior, de acuerdo al grado de adecuación a los criterios de evaluación que, a su juicio, ésta presente.
+En su pronunciamiento, la Comisión señalará el plazo en que la institución deberá someterse a un nuevo proceso de acreditación, el que podrá ser de 6 o 7 años en el caso de la acreditación de excelencia, de 4 o 5 años en la acreditación avanzada y de 3 años en la acreditación básica, sin perjuicio de lo establecido en el inciso siguiente. Con todo, sólo podrán someterse a un nuevo proceso de acreditación en un plazo de 7 años aquellas instituciones que cuenten con acreditación de la dimensión de investigación, creación y/o innovación.
 
-En los casos indicados en el inciso anterior, la Comisión formulará las observaciones derivadas del proceso de evaluación, las que deberán ser subsanadas por la institución de educación superior respectiva, antes del término del período de acreditación otorgado. El cumplimiento de lo dispuesto en este inciso será especialmente considerado por la Comisión en el siguiente proceso de acreditación.
+Las instituciones reconocidas por el Estado acreditadas en el nivel básico sólo podrán impartir nuevas carreras o programas de estudio, abrir nuevas sedes, o aumentar el número de vacantes en alguna de las carreras o programas de estudio que impartan, previa autorización de la Comisión. Asimismo, la acreditación institucional básica sólo podrá otorgarse de forma consecutiva por una vez.
+
+La resolución final del proceso de acreditación institucional deberá contener un pronunciamiento respecto del Plan de Mejora del que trata el artículo 16 de la presente ley. El cumplimiento del Plan de Mejora será especialmente considerado por la Comisión en el siguiente proceso de acreditación institucional.
 
 #### Artículo 21
 
@@ -436,9 +454,21 @@ Eliminado.
 
 #### Artículo 22
 
-Si el nivel de cumplimiento de los criterios de evaluación no es aceptable, la Comisión no otorgará la acreditación y formulará las observaciones pertinentes. El siguiente proceso de evaluación considerará especialmente dichas observaciones y las medidas adoptadas por la institución para subsanarlas.
+No se otorgará la acreditación institucional a las instituciones de educación superior que no cumplan con los criterios y estándares de calidad, según lo dispuesto en el artículo 20.
 
-En todo caso, y sin perjuicio de lo señalado en el artículo 21, la institución no podrá someterse a un nuevo proceso de acreditación antes del plazo de dos años, contado desde el pronunciamiento negativo de la Comisión.
+Tampoco se otorgará la acreditación institucional a aquellas instituciones de educación superior que, habiendo obtenido por una vez consecutiva la acreditación institucional básica, no obtuvieren en el siguiente proceso al menos la acreditación avanzada.
+
+Las instituciones de educación superior reconocidas oficialmente por el Estado no acreditadas quedarán sujetas a la supervisión del Consejo Nacional de Educación por un plazo máximo de tres años, contado desde el pronunciamiento de no acreditación por parte de la Comisión. Para estos efectos, el Consejo podrá ejercer las funciones del artículo 87 del decreto con fuerza de ley Nº 2, del 2009, del Ministerio de Educación, en lo que sea aplicable, y solicitar a la respectiva institución de educación superior la información que estime pertinente.
+
+Las instituciones de educación superior referidas en el inciso anterior no podrán impartir nuevas carreras o programas, ni abrir nuevas sedes, ni aumentar sus vacantes. Asimismo, no podrán matricular nuevos estudiantes, salvo que cuenten con autorización previa del Consejo Nacional de Educación.
+
+En caso que la institución tenga carreras y programas de pre y posgrado acreditados, de conformidad con lo establecido en los títulos III y IV siguientes, aquéllos perderán su acreditación.
+
+Si al término del plazo señalado en el inciso tercero la institución no acreditada no obtiene al menos la acreditación institucional básica, el Consejo deberá informar al Ministerio de Educación para que éste dé curso a la revocación del reconocimiento oficial y al nombramiento de un administrador de cierre. Lo mismo aplicará en caso que, durante el transcurso del referido plazo, el Consejo, en acuerdo adoptado por la mayoría de sus miembros en sesión convocada a ese solo efecto, considere que la institución no cuenta con las condiciones mínimas necesarias para subsanar las observaciones que dan cuenta del incumplimiento de los criterios y estándares de calidad.
+
+En los casos regulados en el presente artículo, la Comisión Nacional de Acreditación deberá notificar al Ministerio de Educación de la no acreditación institucional dentro de los tres días hábiles siguientes a la dictación de la resolución respectiva.
+
+Lo dispuesto en este artículo no se aplicará a las instituciones de educación superior señaladas en la letra d) del artículo 52 del decreto con fuerza de ley Nº 2, del 2009, del Ministerio de Educación.
 
 #### Artículo 23
 
@@ -455,6 +485,36 @@ Si en el ejercicio de sus funciones la Comisión toma conocimiento de que la ins
 #### Artículo 25
 
 Durante la vigencia de la acreditación, las instituciones deberán informar a la Comisión, acompañando un informe de autoevaluación respecto de los cambios significativos que se produzcan en su estructura o funcionamiento, tales como apertura de carreras en nuevas áreas del conocimiento, establecimiento de nuevas sedes institucionales, desarrollo de nuevas modalidades de enseñanza, y cambios sustanciales en la propiedad, dirección o administración de una institución.
+
+#### Artículo 25 ter
+
+Para efectos del cierre de una sede, carrera o programa, las instituciones de educación superior deberán presentar un Plan de Cierre a la Subsecretaría de Educación Superior, el que previamente deberá ser notificado a los estudiantes matriculados en la respectiva carrera.
+
+El Plan de Cierre deberá contener, al menos, lo siguiente:
+
+a) Antecedentes sobre la necesidad de cerrar la sede, carrera o programa.
+
+b) Información relativa a matrícula de la sede, carreras, y programas, planta docente, datos de titulación y retención.
+
+c) Copia de los planes y programas de estudio.
+
+d) Indicar los mecanismos a través de los cuales se resguardará la integridad de los registros académicos de las carreras.
+
+e) Señalar la manera en que se resguardará y garantizará la continuidad de estudios de los estudiantes, además de la forma en que éstos recibirán el servicio educativo comprometido hasta finalizar sus carreras, en la medida que cumplan con los requisitos académicos que correspondan, lo que en ningún caso podrá contemplar cobros adicionales.
+
+f) Información detallada sobre etapas y plazos de ejecución del cierre.
+
+g) Señalar la manera en que se resguardarán los derechos laborales de los trabajadores de la institución que sean desvinculados, cuando corresponda.
+
+h) El plan de cierre deberá contener la indemnización que se haya causado a estudiantes, académicos y trabajadores por el mismo.
+
+La Subsecretaría deberá pronunciarse sobre el Plan de Cierre, aprobándolo o formulándole observaciones fundadas, las que deberán ser subsanadas por la institución.
+
+Sólo una vez aprobado el Plan de Cierre por la Subsecretaría, la institución de educación superior podrá ejecutarlo. Una vez finalizado el Plan de Cierre, la institución de educación superior deberá presentar los antecedentes al Ministerio de Educación para que éste dicte el acto administrativo correspondiente.
+
+El incumplimiento de lo señalado en este artículo constituirá una infracción gravísima para los efectos de lo dispuesto en la Ley de Educación Superior.
+
+Un reglamento del Ministerio de Educación regulará las materias que trata este artículo.
 
 ## Título III
 
@@ -492,15 +552,17 @@ a) Que la universidad aplique a los estudiantes de las carreras de pedagogía qu
 
 b) Las universidades solo podrán admitir y matricular en dichas carreras y programas regulares a alumnos que cumplan, a lo menos, con alguna de las siguientes condiciones:
 
-i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 70 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
+i. Haber rendido la prueba de acceso a la educación superior o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 60 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
 
-ii. Tener un promedio de notas de la educación media dentro del 10% superior de su establecimiento educacional, según el reglamento respectivo.
+ii. Tener un promedio de notas de la educación media dentro del 20% superior de su establecimiento educacional, según el reglamento respectivo.
 
-iii. Tener un promedio de notas de la educación media dentro del 30% superior de su establecimiento educacional, según el reglamento respectivo, y haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
+iii. Tener un promedio de notas de la educación media dentro del 40% superior de su establecimiento educacional, según el reglamento respectivo, y haber rendido la prueba de acceso a la educación superior o el instrumento que la reemplace y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
 
-iv. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocida por el Ministerio de Educación y rendir la prueba de selección universitaria o el instrumento que lo reemplace. Para ingresar a estos programas se deberá tener un promedio de notas de la educación media dentro del 15% superior de su establecimiento educacional, o a nivel nacional, según el reglamento respectivo.
+iv. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocido por el Ministerio de Educación, y haber rendido la prueba de acceso a la educación superior o el instrumento que la reemplace.
 
-Para estos efectos se entenderá que la prueba de selección universitaria es aquella que se aplica como mecanismo de admisión de estudiantes, por la mayor cantidad de universidades del Consejo de Rectores de las universidades chilenas.
+v. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocido por el Ministerio de Educación, y encontrarse inscrito en el Registro Nacional de la Discapacidad, establecido en el Título V de la ley Nº 20.422. En este caso no será necesario haber rendido la prueba de acceso a la educación superior o el instrumento que la reemplace.
+
+Para estos efectos se entenderá que la prueba de acceso a la educación superior es aquella que se aplica como mecanismo de admisión de estudiantes, por la mayor cantidad de universidades del Consejo de Rectores de las universidades chilenas.
 
 Los resultados de las evaluaciones diagnósticas señaladas en literal a) serán de carácter referencial y formativo para los estudiantes. Con todo, la universidad deberá establecer acciones de nivelación y acompañamiento, según corresponda, para aquellos estudiantes que obtengan bajos resultados en estas mediciones.
 

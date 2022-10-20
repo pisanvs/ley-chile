@@ -1498,11 +1498,9 @@ Si la carrera o programa no obtuviere la acreditación a que se refiere el incis
 
 Sin perjuicio de lo dispuesto en el artículo 10 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, tendrán la calidad de profesionales de la educación las personas que estén en posesión de un título de profesor o educador concedido por universidades de conformidad a las normas vigentes al momento de su otorgamiento.
 
-Artículo trigésimo sexto.- Los requisitos para la admisión universitaria establecidos en la letra b) del artículo 27 bis de la ley N°20.129, entrarán en vigencia desde el proceso de admisión universitaria y matrícula del año 2026.
+Artículo trigésimo sexto.- Los requisitos para la admisión universitaria establecidos en la letra b) del artículo 27 bis de la ley N°20.129, entrarán en vigencia desde el proceso de admisión universitaria y matrícula del año 2024.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, los referidos requisitos se aplicarán gradualmente en la forma que se señala en los incisos siguientes.
-
-Para el proceso de admisión universitaria y matrícula del año 2017 a 2022, deberá cumplirse con alguna de las siguientes exigencias:
+Sin perjuicio de lo dispuesto en el inciso anterior, para el proceso de admisión universitaria y matrícula del año 2023 a 2025, en las carreras y programas de pedagogía implementados con anterioridad al año 2019 que cuenten con una acreditación mínima de tres años y en los programas de prosecución de estudios de pedagogía que cuenten con una acreditación mínima de dos años, deberá cumplirse con alguna de las siguientes exigencias:
 
 i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
 
@@ -1510,15 +1508,9 @@ ii. Tener un promedio de notas de la educación media dentro del 30% superior de
 
 iii. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocido por el Ministerio de Educación y rendir la prueba de selección universitaria o el instrumento que la reemplace.
 
-Para los procesos de admisión universitaria y matrícula de los años 2023 a 2025, se deberá cumplir alguno de los siguientes requisitos:
+iv. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocido por el Ministerio de Educación y encontrarse inscrito en el Registro Nacional de la Discapacidad, establecido en el Título V de la ley Nº 20.422. En este caso no será necesario rendir la prueba de acceso a la educación superior o el instrumento que la reemplace.
 
-i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 60 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
-
-ii. Tener un promedio de notas de la educación media dentro del 20% superior de su establecimiento educacional, según el reglamento respectivo.
-
-iii. Tener un promedio de notas de la educación media dentro del 40% superior de su establecimiento educacional, según el reglamento respectivo, y haber rendido la prueba de selección universitaria o el instrumento que la reemplace y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
-
-iv. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocido por el Ministerio de Educación y rendir la prueba de selección universitaria o el instrumento que la reemplace.
+No obstante, para el año 2023, a las carreras y programas de pedagogía que no cumplan con los criterios de acreditación señalados en el inciso precedente, les será exigible el cumplimiento de los requisitos de admisión universitaria y matrícula en él establecidos. Asimismo, a los programas de prosecución de estudios de pedagogía les serán exigibles los requisitos de ingreso previstos en el artículo 27 sexies de la ley Nº 20.129, que establece un Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
 
 ### Párrafo 5°
 
