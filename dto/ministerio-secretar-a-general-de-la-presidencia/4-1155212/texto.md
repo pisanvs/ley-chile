@@ -30,7 +30,7 @@ Decreto:
 
 En el ejercicio de dicha función, esta Secretaría de Estado podrá coordinarse y requerir apoyo a los demás órganos de la Administración del Estado.
 
-2º Créase transitoriamente en la estructura interna del Ministerio Secretaría General de la Presidencia, desde la publicación del presente acto administrativo y hasta 60 días corridos contados desde la disolución de la Convención Constitucional –de acuerdo al inciso final del artículo 137 de la Constitución Política de la República– la Unidad de Secretaría Administrativa de la Convención Constitucional, dependiente del Subsecretario General de la Presidencia, la cual tendrá, con el objeto de dar cumplimiento a lo señalado en el numeral 1º anterior, la función de coordinar el apoyo técnico, administrativo y financiero en la instalación y funcionamiento de la Convención Constitucional.
+2º Créase transitoriamente en la estructura interna del Ministerio Secretaría General de la Presidencia, desde la publicación del presente acto administrativo y hasta la finalización del trabajo de gestión documental y traspaso al Archivo Nacional del Archivo de la Convención Constitucional, plazo que en ningún caso podrá ser posterior al 31 de diciembre del año 2022, la Unidad de Secretaría Administrativa de la Convención Constitucional, dependiente del Subsecretario General de la Presidencia, la cual tendrá, con el objeto de dar cumplimiento a lo señalado en el numeral 1º anterior, la función de coordinar el apoyo técnico, administrativo y financiero en la instalación y funcionamiento de la Convención Constitucional.
 
 Corresponderá a dicha Unidad, en el marco del presupuesto disponible:
 
