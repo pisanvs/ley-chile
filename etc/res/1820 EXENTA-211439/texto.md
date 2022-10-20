@@ -70,51 +70,85 @@ d) Indicación del monto total del aporte que efectuará el Comité, que deberá
 
 Las categorías definidas son las siguientes:
 
-Categoría 1: Programas estatales o de
+Categoría 1: Programas estatales o
 
-instituciones de ayuda social sin
+de instituciones de
 
-fines de lucro, consistentes en:
+ayuda social sin fines
 
-operaciones sitio, sitio urbanizado
+de lucro, consistentes
 
-con infraestructura sanitaria
+en: operaciones sitio,
 
-domiciliaria y vivienda progresiva.
+sitio urbanizado
 
-Categoría 2: Programas estatales o de
+con infraestructura
 
-instituciones de ayuda social sin
+sanitaria
 
-fines de lucro consistentes en loteos
+domiciliaria y vivienda
 
-con viviendas de hasta 60 m² de
+progresiva.
 
-superficie, según el proyecto de
+Categoría 2: Programas estatales o
+
+de instituciones de
+
+ayuda social sin
+
+fines de lucro
+
+consistentes en loteos
+
+con viviendas de
+
+hasta 60 m² de
+
+superficie, según el
+
+proyecto de
 
 loteo original.
 
-Categoría 3: Loteos y/o conjuntos habitacionales
+Categoría 3: Loteos y/o conjuntos
 
-construidos por particulares. El
+habitacionales
 
-Secretario Regional Ministerial de
+construidos por
 
-Vivienda y Urbanismo en conjunto con
+particulares. El
 
-el Director del Serviu, podrá
+Secretario Regional
 
-asimilar loteos y/o conjuntos
+Ministerial de
 
-habitacionales particulares de
+Vivienda y Urbanismo
 
-personas de escasos recursos a la
+en conjunto con
 
-categoría 2, previo informe social
+el Director del
+
+Serviu, podrá
+
+asimilar loteos
+
+y/o conjuntos
+
+habitacionales
+
+particulares de
+
+personas de escasos
+
+recursos a la
+
+categoría 2, previo
+
+informe social
 
 de la Municipalidad.
 
-Estarán exentos de efectuar el aporte financiero que requiere el presente Programa, los "Comités de Pavimentación muy Vulnerables", calificados como tales por la respectiva municipalidad. La calificación de "Comité de Pavimentación muy Vulnerable" procederá respecto de aquellos Comités en que a lo menos el 50% de las familias que lo integran se encuentren calificadas en el "Tramo 1" del Registro Social de Hogares. Para estos efectos, la municipalidad deberá adjuntar a la postulación el informe social que respalde y fundamente la calificación de "Comité de Pavimentación muy Vulnerable" firmado por el Alcalde respectivo, junto con la nómina de las familias que lo integran, indicando el Tramo en que cada una califica en el Registro Social de Hogares.
+Estarán exentos de efectuar el aporte financiero que requiere el presente Programa, los "Comités de Pavimentación muy Vulnerables", calificados como tales por la respectiva Municipalidad. La calificación de "Comité de Pavimentación muy Vulnerable" procederá respecto de aquellos Comités en que a lo menos el 50% de las familias que lo integran se encuentren calificadas en el "Tramo 1 y/o Tramo 2" del Registro Social de Hogares. Para estos efectos, la ''Municipalidad deberá adjuntar a la postulación el informe social que respalde y fundamente la calificación de "Comité de Pavimentación muy Vulnerable" firmado por el Alcalde respectivo, junto con la nómina de las familias que lo integran, indicando el Tramo en que cada una Califica en el Registro Social de Hogares.
 
 Igualmente estarán exentos de realizar el aporte financiero que requiere este Programa, los Comités de Pavimentación que pertenezcan a cualquiera de los Barrios priorizados en el Programa Recuperación de Barrios, por el Programa Pequeñas Localidades, por el Programa de Protección del Patrimonio Familiar, por el Programa de Mejoramiento de Viviendas y Barrios, por el Programa de Espacios Públicos o por el Programa de Asentamientos Precarios y la respectiva Municipalidad en relación a dichos proyectos.
 
@@ -945,6 +979,10 @@ transitorio: Durante el año 2022 la recepción de postulaciones municipales en 
 . para los 15 restantes Serviu del país el día viernes 14 de octubre del presente año.
 
 Adicionalmente, para participar en el 32° Proceso de Selección de Proyectos la recepción de postulaciones en la Secretaría Regional Ministerial de Vivienda y Urbanismo Metropolitana tendrá fecha de cierre el miércoles 30 de noviembre del presente año.
+
+#### Artículo 27º
+
+Transitorio: Durante el año 2022 y para postulaciones al 32º Llamado del Programa de Pavimentación Participativa quedarán exentas de realizar el porcentaje de aporte especificado en la letra e) del resuelvo 3º de esta resolución, las municipalidades (comunas) localizadas en las zonas territoriales pertenecientes a las provincias incluidas en el decreto de estado de excepción constitucional de emergencia vigente, provincias de Arauco y Biobío de la Región del Biobío y provincias de la Región de la Araucanía, y las municipalidades (comunas) localizadas en las zonas territoriales pertenecientes a las provincias que tuvieron decreto de estado de excepción constitucional de emergencia, provincias de Arica y Parinacota, en la Región de Arica y Parinacota, la provincia de Tamarugal, en la región de Tarapacá, y la provincia del Loa, en la Región de Antofagasta, denominada macro zona norte, y que actualmente cuentan con decreto que permite el apoyo militar con despliegue de tropas y otros efectivos para el control de los flujos de migración irregular.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
