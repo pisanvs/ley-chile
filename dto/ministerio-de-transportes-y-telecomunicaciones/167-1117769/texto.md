@@ -126,25 +126,29 @@ El RPI permitirá perfiles de consulta diferenciados para titulares de los proye
 
 #### Artículo 9°
 
-El titular del proyecto inmobiliario deberá solicitar el registro del respectivo proyecto en el RPI, informando para ello los siguientes antecedentes de éste:
+El titular deberá solicitar la inscripción de su proyecto inmobiliario en el RPI, para lo cual deberá proporcionar los siguientes antecedentes:
 
-1) Dirección y comuna,
+1) Copia digital del permiso de edificación o loteo, según corresponda, indicando su número y fecha de emisión;
 
-2) Número de rol del Servicio de Impuestos Internos del predio del proyecto,
+2) Copia digital de los planos del proyecto, donde conste de forma clara la ubicación de la o las cámaras de acceso;
 
-3) Destino del proyecto,
+3) Dirección y comuna;
 
-4) Número de unidades del proyecto y el número de pisos de ser el caso,
+4) Número de rol del Servicio de Impuestos Internos del predio en que se emplaza el proyecto;
 
-5) Cantidad de etapas,
+5) Destino del proyecto;
 
-6) Planos del proyecto, donde conste de forma clara la ubicación de la o las cámaras de acceso.
+6) Número de unidades que contempla el proyecto y, de ser el caso, el número de pisos;
+
+7) Cantidad de etapas que considera el proyecto.
 
 La solicitud deberá identificar una dirección de correo electrónico del titular del proyecto y un número telefónico, a los cuales los proveedores de servicios de telecomunicaciones puedan comunicarse directamente, vías de comunicación que deberán permanecer habilitadas, al menos, hasta la recepción definitiva de las respectivas obras.
 
-Una vez hecha la solicitud de registro, el RPI generará un comprobante de dicha solicitud y los antecedentes del proyecto serán visibles en el RPI para los proveedores de servicios de telecomunicaciones.
+Una vez hecha la solicitud de registro, el RPI generará un comprobante de dicha solicitud.
 
-Obtenido el respectivo permiso de loteo o edificación y dentro de un plazo de 90 días, el titular del proyecto inmobiliario deberá incorporar copia de éste a la solicitud de registro en el RPI previamente efectuada. Validados los datos ingresados en la solicitud de registro respecto de los antecedentes contenidos en el permiso, se entenderá perfeccionado el registro del proyecto en el RPI, siendo en ese momento visible para el público en general. A partir de este momento, el titular del proyecto inmobiliario podrá imprimir el certificado que acredita su registro en el RPI, necesario para la recepción definitiva del respectivo proyecto. De no registrarse el proyecto dentro de los 90 días indicados, no podrá imprimirse el referido certificado.
+Validados los datos ingresados en la solicitud de registro respecto de los antecedentes contenidos en el permiso, se entenderá perfeccionado el registro del proyecto en el RPI, siendo desde ese momento visible para los proveedores de servicios de telecomunicaciones.
+
+Transcurridos 30 días desde que se perfeccione el registro señalado en el inciso anterior, el proyecto pasará a ser visible para el público general y podrá emitirse el Certificado de Registro que debe adjuntarse a la solicitud de recepción definitiva de las obras.
 
 Cuando el proyecto fuere modificado, ya sea para cambiar su destino total o parcialmente, para cambiar la cantidad de lotes o predios, para cambiar la cantidad de unidades o la cantidad de pisos de la edificación, el titular del proyecto deberá modificar el registro efectuado en el RPI. Para dicho efecto, se seguirá el mismo procedimiento establecido anteriormente para el registro del proyecto en el RPI.
 
