@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 804 EXENTA, DE 13 DE SEPTIEMBRE DE 2022
+
+Mediante resolución exenta Nº 804, de fecha 13 de septiembre de 2022, de esta Secretaría Regional, se modifican las resoluciones exentas Nº 883 y Nº 887, de 21 y 24 de junio del año 2019, ambas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región del Maule, que aprobó planes y programas y otorgó reconocimiento oficial respectivamente a la Escuela de Conductores Profesionales o Clase A denominada Escuela de Conductores Mardones y Córdova Limitada, RUT.: 76.543.667-2, nombre de fantasía "Esproc Chile Ltda.", representada legalmente por don Franco Nicolás Córdova Mardones, para impartir cursos conducentes a la obtención de las licencias de conductor profesional clases A3 y A5, en el domicilio ubicado en calle Freire Nº 579, comuna de Curicó.-
+
+Ximena Alejandra Oliva Aravena, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
