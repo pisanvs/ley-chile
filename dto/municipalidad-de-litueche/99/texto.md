@@ -82,7 +82,7 @@ Todas aquellas materias atingentes al desarrollo urbano que no se encontrasen re
 
 #### Artículo 4
 
-De conformidad a la Ley General de Urbanismo y Construcciones y Ley Orgánica Constitucional de Municipalidades, corresponde a la Dirección de Obras Municipales de la Comuna de Litueche la responsabilidad en la aplicación y observancia de las normas de la presente Ordenanza, sin perjuicio de las facultades legales de la Secretaria Regional Ministerial de Vivienda y Urbanismo de la Región de O’Higgins. Asimismo la inobservancia de las normas de esta Ordenanza será sancionada de acuerdo a la Ley General de Urbanismo y Construcciones.
+De conformidad a la Ley General de Urbanismo y Construcciones y Ley Orgánica Constitucional de Municipalidades, corresponde a la Dirección de Obras Municipales de la Comuna de Litueche la responsabilidad en la aplicación y observancia de las normas de la presente Ordenanza, sin perjuicio de las facultades legales de la Secretaria Regional Ministerial de Vivienda y Urbanismo de la Región de O'Higgins. Asimismo la inobservancia de las normas de esta Ordenanza será sancionada de acuerdo a la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 5
 
@@ -174,7 +174,11 @@ A- Zonas Mixtas
 
 . Zona ZE1
 
+. Zona ZE-1A
+
 . Zona ZE2
+
+. Zona ZE-2A
 
 . Zona ZE3
 
@@ -240,6 +244,10 @@ Actividades productivas asimilables a todo tipo de industrias y aquellas instala
 
 3. Condiciones de Subdivisión y Edificación
 
+NORMAS URBANÍSTICAS DE LA ZONA ZE-1A
+
+Área Central Continua y Comercial
+
 Zona ZE-2
 
 Áreas mixtas pericentrales de equipamiento preferente
@@ -271,6 +279,10 @@ Venta de materiales de construcción a granel
 Actividades productivas asimilables a todo tipo de industrias y aquellas instalaciones de impacto similar, tales como grandes depósitos, talleres o bodegas industriales.
 
 3. Condiciones de Subdivisión y Edificación
+
+NORMAS URBANÍSTICAS DE LA ZONA ZE-2A
+
+Áreas Mixtas Pericentrales de Equipamiento Preferente
 
 Zona ZE-3:
 
