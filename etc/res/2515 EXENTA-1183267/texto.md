@@ -1,0 +1,35 @@
+DEJA SIN EFECTO RESOLUCIONES QUE INDICA Y ASIGNA ROLES A CAMINOS DE USO PÚBLICO DE LAS PROVINCIAS DE CHACABUCO Y CORDILLERA DE LA REGIÓN METROPOLITANA DE SANTIAGO
+
+Núm. 2.515 exenta.- Santiago, 22 de septiembre de 2022.
+
+Visto:
+
+El decreto MOP N° 301, de fecha 30/09/2011, que deja sin efecto decreto MOP N° 556, de fecha 13/06/1969, y el decreto MOP N° 3, de fecha 07/01/2011 (Sin Tramitar), y aprueba nuevo decreto que establece normas para la numeración y clasificación de caminos; el decreto MOP N° 436, de fecha 06/11/2014, que modifica el decreto MOP N° 301, de fecha 30/09/2011, que establece normas para la numeración y clasificación de caminos; el decreto MOP N°,132 de 1994, que Declara Camino Nacional con carácter de Internacional a Camino que indica; el decreto MOP N° 1.055 de 1997, que Declara Caminos Nacionales con Carácter de Internacionales; el decreto MOP N°.85 de 1998, que Declara Camino Nacional con Carácter de Internacional al Camino que indica; el decreto MOP N° 729, de fecha 18/08/2008, que deja sin efecto el DS N° 68 del 01/03/1993; el decreto MOP N° 267 de 2012, que Modifica y Designa Caminos Nacionales que indica en la Región Metropolitana y V Región; el decreto MOP N° 1.101 de 2013, que Modifica el decreto N°.729 de 2008, del Ministerio de Obras Públicas, que Declara Caminos Públicos en las Áreas Urbanas de la Región Metropolitana de Santiago, a las Calles o Avenidas que indica; el decreto MOP N° 464 de 2021, que Declara Caminos Públicos en las Áreas Urbanas de la Región Metropolitana de Santiago, a las Calles o Avenidas que indica; la resolución DV (exenta) N° 6.055 de 1991, que Asigna Roles a Caminos que Indica; la resolución DV (exenta) N° 6.926 de 2011, que deja sin efecto resoluciones que indica y asigna roles a caminos de la Región Metropolitana; la resolución DV (exenta) N° 08 de 2015, que Complementa resolución que indica, Modifica y Asigna Roles y Modifica Nombres a Caminos de la Región Metropolitana de Santiago; la resolución DV (exenta) N° 4.676 de 2016, que complementa resolución que indica, incorporando y extendiendo caminos de la Región Metropolitana de Santiago; la resolución DV (exenta) N° 5.276 de 2017, que complementa resolución que indica, incorporando y asignando rol a caminos de la Región Metropolitana de Santiago; el Ord DRV RM N° 2583 de 04/12/2019, que Solicita extensión y/o Cambios de Trazado de caminos en el marco del proceso de conformación de la Red Vial Oficial Única (ROU) Provincia de Chacabuco; el Ord SDD N°10559 de 02/12/2020, Remite observaciones a Formularios de Enrolamiento y de Alargue de Caminos; el Ord DRV RM N° 358 de 23/02/2021, Envía 5 Formularios con correcciones subsanadas y 1 Formulario Nuevo; el Ord DRV RM N°1100 de 24/06/2021, que Solicita Extensión de camino G-413 a resuelvo Exento DV N° 6.926 de fecha 16/11/2011; el Ord SDD N° 7680 de 17/08/2021, que Remite observaciones a Formularios de Enrolamiento y de Alargue de Caminos de la Provincia de Chacabuco; el Ord DRV RM N°1810 de 18/10/2021, que Reenvía Formularios con correcciones subsanadas; el Ord DRV RM N° 827 de 20/06/2022, que Solicita Extensión de camino G-437 a resuelvo exento DV N° 6926 de fecha 16/11/2011; el Ord DRV RM N° 885 de 05/07/2022, que Solicita cambio de trazado de camino G-18; el Ord DRV RM N° 362 de 24/02/2021, que Solicita desenrolamiento de camino de la Red Vial de la Provincia de Chacabuco; el Ord DRV RM N° 1101 de 24/06/2021, que Solicita desenrolar tramo de camino de la Red Vial de la Provincia de Cordillera; lo dispuesto en el DFL MOP N° 850 de fecha 12/09/1997, que fijó el texto refundido, coordinado y sistematizado de la ley 15.840, Orgánica del Ministerio de Obras Públicas y del DFL N° 206, Ley de Caminos, especialmente sus artículos N°s. 24, 25 y 26, y la resolución N° 7 de fecha 26/03/2019, de la Contraloría General de la República.
+
+Considerando:
+
+1) Que, la Dirección de Vialidad debe servir con objetividad a los intereses generales, y actuar de acuerdo con los principios de eficacia y coordinación que rigen a la Administración Pública.
+
+2) Que, se requiere mantener actualizado el catastro de caminos de la Red Vial Nacional que atiende la Dirección de Vialidad, actualizado el catastro de la Red Vial de las Provincias de Chacabuco y Cordillera de la Región Metropolitana de Santiago.
+
+3) Que, para el óptimo cumplimiento de lo precitado y a fin de estimular el diligente funcionamiento de la organización estatal, se ha desarrollado la labor de revisar y actualizar los trazados y antecedentes de la red vial con que trabajan las Direcciones Regionales de Vialidad y que conforman la Red Vial Oficial.
+
+4) Que, la Dirección Regional de Vialidad de la Región Metropolitana de Santiago, ha solicitado por medio de oficios ordinarios y antecedentes, el enrolamiento, alargue, cambio de trazado y desenrolamiento de tramos y caminos de las Provincias de Chacabuco y Cordillera.
+
+5) Que, a fin de actualizar la Red Vial Regional de la Región Metropolitana, se deben modificar los Roles de caminos existentes, para lo cual se requiere dejar sin efecto la resolución DV (exenta) N° 6.055 de 1991 y la resolución DV (exenta) N° 5.276 de 2017, y en lo concerniente a las Provincias de Chacabuco y Cordillera, la resolución DV (exenta) N° 6.926 de 2011, la resolución DV (exenta) N° 08 de 2015 y la resolución DV (exenta) N° 4.676 de 2016.
+
+6) Que, mediante la aplicación de tecnología GNSS para catastro y levantamiento de información de caminos, se ha mejorado la precisión en la medición de las longitudes de los caminos de la Dirección de Vialidad, por lo que las longitudes de caminos pueden tener cierta diferencia respecto de mediciones realizadas en años anteriores y reflejadas en actos administrativos previos a esta fecha y respecto de lo informado por la DRV en su solicitud de Enrolamiento y/o de Alargue o Cambio de Trazado.
+
+Resuelvo:
+
+1. Déjase sin efecto la resolución DV (exenta) N° 6.055 de 1991, la resolución DV (exenta) N° 5.276 de 2017.
+
+2. Déjase sin efecto, en lo concerniente a las Provincias de Chacabuco y Cordillera, la resolución DV (exenta) N° 6.926 de 2011, la resolución DV (exenta) N° 08 de 2015 y la resolución DV (exenta) N° 4.676 de 2016.
+
+3. Asígnanse Roles a los caminos de uso público de las Provincias de Chacabuco y Cordillera de la Región Metropolitana de Santiago, de acuerdo con el listado que se detalla a continuación:
+
+4. Exclúyase de este complemento todo camino o tramo de camino incluido en el resuelvo N° 3 de esta resolución, que se encuentre dentro de los límites urbanos vigentes declarados por los instrumentos de planificación territorial que corresponda y que no hayan sido declarados camino público en zona urbana, de acuerdo con lo estipulado en el Art. N° 24 del DFL MOP N° 850 de 1997.
+
+5. Téngase presente que los caminos individualizados en el resuelvo N° 3 de esta resolución, tienen un respaldo en archivo formato kmz, disponible para consulta y descarga en la página web de la Dirección de Vialidad del Ministerio de Obras Públicas.
+
+Anótese, comuníquese y publíquese.- Jaime Retamal Pinto, Director Nacional de Vialidad.
