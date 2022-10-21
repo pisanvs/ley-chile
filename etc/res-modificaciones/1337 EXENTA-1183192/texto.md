@@ -26,8 +26,6 @@ Resolución:
 
 2. Apruébase la selección de los grupos organizados indicados en la siguiente tabla, con su respectivo financiamiento total, el cual incluye los servicios de asistencia técnica, fiscalización técnica de obras y aranceles del Conservador de Bienes Raíces, detallados en el Resuelvo 4., para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, para adquisición de terrenos y desarrollo de proyectos de Construcción en Nuevos Terrenos, en las regiones Metropolitana, de Biobío y Los Ríos, correspondiente al proceso de selección cuyo cierre de postulación se efectuó el día 2 de junio de 2022, del llamado efectuado por resolución exenta N° 504 (V. y U.), de 2022, y sus modificaciones:
 
-Área 1 Región Metropolitana
-
 3. El detalle de los recursos comprometidos por concepto de subsidio para la adquisición de terreno y subsidio para la construcción, para las postulaciones seleccionadas en el Resuelvo anterior y que por este acto se asignan, se informa en el cuadro que se adjunta como anexo y que forma parte integrante de la presente resolución.
 
 4. Asígnase a los grupos organizados seleccionados en el Resuelvo 2. de la presente resolución exenta, por concepto de pago por los Servicios de Asistencia Técnica, por las Labores de Fiscalización Técnica de Obra y pago de Aranceles al Conservador de Bienes Raíces para el desarrollo de sus proyectos, los montos expresados en Unidades de Fomento que se detallan a continuación:
@@ -44,16 +42,6 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 > **Nota.** La letra c. del numeral 2° de la Resolución 1378 Exenta, Vivienda, publicada el 21.10.2022, dispone reemplazar en la tabla inserta en el resuelvo 5 de la presente resolución, las filas correspondientes a la Región del Biobío y total, por las que la citada norma indica en tabla adjunta.
 
-> **Nota.** NOTA 1 La letra a) del numeral 1° de la Resolución 1253 Exenta, Vivienda, publicada el 31.07.2023, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 2, la fila correspondiente a la Región de Los Ríos, por las que la citada norma indica en tabla adjunta.
-
-> **Nota.** NOTA 2 La letra b) del numeral 1° de la Resolución 1253 Exenta, Vivienda, publicada el 31.07.2023, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 5 de la presente resolución, las filas correspondientes a la Región de Los Ríos y total, por las que la citada norma indica en tabla adjunta.
-
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
 Lo que transcibo para su conocimiento.- Tatiana Valeska Rojas Leiva, Subsecretaria de Vivienda y Urbanismo.
-
-ANEXO ÚNICO
-
-NÓMINA DE GRUPOS SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXENTA N° 504 (V. Y U.) DE 2022, SELECCIÓN CIERRE 2 DE JUNIO DE 2022
-
-> **Nota.** La letra c) del numeral 1° de la Resolución 1253 Exenta, Vivienda, publicada el 31.07.2023, modifica la presente norma en el sentido de reemplazar en el cuadro del Anexo Único la fila correspondiente al proyecto código 171328 por la que se indica en el cuadro adjunto como Anexo, sin embargo, la citada Resolución ha sido publicada sin el referido anexo.
