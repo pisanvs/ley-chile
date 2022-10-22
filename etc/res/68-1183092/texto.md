@@ -939,3 +939,29 @@ Estos usos de suelo se regirán por lo indicado en la Ordenanza General de Urban
 5° Déjase establecido que la I. Municipalidad de Paillaco deberá archivar, conforme lo dispone el artículo 2.1.11 del Decreto N° 47 de 1992 del Ministerio de Vivienda y Urbanismo, Ordenanza General de Urbanismo y Construcciones, los planos y la modificación a la Ordenanza correspondiente, en el Conservador de Bienes Raíces de Paillaco, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la Secretaría Regional del Ministerio de Vivienda y Urbanismo de la Región de Los Ríos y en el propio Municipio.
 
 Anótese, tómese razón, comuníquese, publíquese y archívese.- Paz de la Maza Villalobos, Gobernadora Regional (S) Los Ríos.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+CONTRALORÍA REGIONAL DE LOS RÍOS
+
+Unidad Jurídica
+
+Cursa con alcances resolución Nº 68, de 2022, del Gobierno Regional de Los Ríos
+
+Nº E258061/2022.- Valdivia, 20 de septiembre de 2022.
+
+Esta Contraloría Regional ha dado curso al acto administrativo del rubro, que promulga la modificación del Plan Regulador Comunal de Paillaco, instrumento de planificación territorial que fue representado en dos ocasiones por esta Sede Regional, mediante sus oficios E49528, de 2020, y E146442, de 2021.
+
+Al respecto, es dable manifestar que del examen de los antecedentes adjuntos se advierte que se han subsanado suficientemente las observaciones formuladas en el referido oficio E146442.
+
+Sin perjuicio de lo anterior, cumple con hacer presente, en relación con la descripción del punto 9 del Límite Urbano de Reumén, contenido en el artículo 2.2. de la Ordenanza Local (OL), que entiende que dicho punto se ubica en la intersección de la línea trazada paralela a 8 metros al sur oriente del eje de la línea férrea y la línea trazada paralela a 388 metros desde donde detalla, y no a 396 metros como ahí se señala.
+
+Además, en relación con los cuadros de algunas zonas previstas en la OL, debe recordarse lo prescrito en el inciso final del artículo 2.1.24. de la Ordenanza General de Urbanismo y Construcciones, aprobada por el decreto Nº 47, de 1992, del Ministerio de Vivienda y Urbanismo, según el cual las salas cuna y jardines infantiles se entenderán siempre admitidos en las zonas con usos de suelo residencial o en las que se permita cualquiera clase de equipamiento, y lo propio respecto de lo dispuesto en el inciso segundo del artículo 2.1.33. de la misma Ordenanza que señala, en lo pertinente, que "Los servicios, artesanales y los profesionales se entenderán siempre incluidos en cualquier uso de suelo destinado a equipamiento" (aplica el dictamen Nº 893, de 2022, de este origen).
+
+A su vez, en cuanto a lo indicado en el cuadro de vialidad estructurante de la localidad de Pichirropulli; establecido en el artículo 7º de la OL, en las "Observaciones" de la vía Camino a Paillaco Ruta T-678 en el tramo "Balmaceda" - "25 m al sur poniente de Límite Urbano (Tramo 9-10)", se hace presente que entiende, que la distancia consignada para el ensanche considera los 11 metros existentes hasta alcanzar los 11,5 metros "hacia el sur oriente" y 13,5 y 14 metros "hacia al nor poniente", en concordancia con lo dibujado en el plano MPRC PAILLACO 03.
+
+Del mismo modo cumple con precisar respecto del precitado cuadro, acorde con el antedicho plano, en relación a la vía OP7, en el tramo "30 m al nor poniente de línea oficial nor poniente de calle NS 3" - "20m al nor poniente de línea oficial nor poniente de calle NS 3", que el ancho propuesto entre líneas oficiales y su ensanche "hacia el nor oriente desde la línea oficial sur poniente de la vía" es de 16 metros y no como ahí se anota.
+
+Con los alcances que anteceden se ha dado curso al instrumento de la suma.
+
+Saluda atentamente a Ud., Alejandro Riquelme Montecinos, Contralor Regional.
