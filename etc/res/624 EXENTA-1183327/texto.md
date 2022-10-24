@@ -1,0 +1,5 @@
+EXTRACTO
+
+Con fecha 7 de octubre de 2022, la Superintendencia de Educación dictó la resolución exenta N° 624, que modifica la resolución exenta N° 567 de 2021, que Aprueba la Circular Normativa para establecimientos de educación parvularia sujetos a período de adecuación, reemplazando en dicha Circular, el Capítulo I "Aspectos Generales" N° 4, "Alcance", párrafo primero, por el siguiente texto: "se someterán a estas instrucciones todos los establecimientos de educación parvularia, tanto públicos como privados del país, que no posean reconocimiento oficial del Estado ni autorización de funcionamiento, y que hayan comenzado a funcionar antes del 1 de enero de 2017". Esta resolución estará disponible íntegramente para la comunidad educativa en la página web institucional (www.supereduc.cl).-
+
+Francisco Trejo Ortega, Superintendente de Educación (S).
