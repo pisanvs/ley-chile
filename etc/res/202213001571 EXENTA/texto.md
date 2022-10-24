@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL CENTRO COMERCIAL MALL VIVO SANTIAGO ETAPA II
+
+De conformidad con lo dispuesto en el artículo 91 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica a las personas naturales y jurídicas que presentaron observaciones conforme a lo establecido en el artículo 30 bis de la ley N° 19.300 durante el proceso de participación ciudadana de la Declaración de Impacto Ambiental "Centro Comercial Mall Vivo Santiago Etapa II", sometido al Sistema de Evaluación Ambiental por su titular, Inmobiliaria Vivo Santiago SpA., que por resolución exenta N° 202213001571/2022, de fecha 6 de octubre del 2022, la Comisión de Evaluación de la Región Metropolitana calificó favorablemente el proyecto singularizado. Estas personas naturales y jurídicas disponen de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante la Directora Ejecutiva, de conformidad a lo dispuesto en los artículos 20 y 30 bis de la ley N° 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en el sitio web: www.sea.gob.cl o en el siguiente enlace: https://seia.sea.gob.cl/archivos/2022/10 /11/RCA_ Mall_Vivo_vf_con_firma.pdf.
+
+Arturo Farías Alcaíno, Director Regional, Servicio de Evaluación Ambiental, Secretario Comisión de Evaluación Región Metropolitana de Santiago.
