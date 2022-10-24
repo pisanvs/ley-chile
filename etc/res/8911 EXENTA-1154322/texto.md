@@ -418,26 +418,6 @@ f. Controles fitosanitarios realizados a cada lote de plantas producido.
 
 7.4.5. Los huertos que contraten Operadores de Servicios de injertación deberán comprobar que estos se encuentran inscritos en el Servicio.
 
-7.5. De los requisitos para los Operadores de Servicio de Injertación.
-
-7.5.1. Los operadores de servicios de injertación deberán inscribirse en el Servicio Agrícola y Ganadero.
-
-7.5.2. Los operadores de servicios de injertación deberán poseer un representante técnico, entregando información al Servicio que lo identifique. El representante técnico deberá cumplir con los requisitos establecidos en los puntos 6.4 y 6.5 de esta resolución.
-
-7.5.3. Los operadores de servicio de Injertación deberán contar con autorización de los propietarios de los sitios de producción para extraer material de propagación.
-
-7.5.4. Los operadores de servicios de injertación deberán demostrar mediante registros verificables la obtención de plantas y partes de plantas desde plantas madres analizadas y encontradas libres de CTV, CPsV, HSVd y cuyos análisis se encuentren vigentes.
-
-7.5.5. En relación con los registros de trazabilidad, deberán mantener los siguientes registros mínimos asociados a los sitios de producción desde donde obtienen los materiales y de los lugares de producción donde injertan el material de propagación:
-
-a. Registro de cosecha identificando: sitio producción de ubicación Plantas Madres donantes, especie, variedad, fecha de cosecha de los materiales, cantidad de ramillas y yemas cosechadas, nombre del donante del material y dirección.
-
-b. Registro de la injertación identificando: nombre del destinatario del material de injertación, identificación del vivero o lugar de producción (huerto) solicitante, ubicación, especie, variedades, patrones, fecha de injertación de los materiales, cantidad de púas y yemas injertadas, nombre destinatario y dirección.
-
-7.5.6. Deberán utilizar herramientas de corte de uso exclusivo y desinfectarlas permanentemente durante el proceso con productos tales como: Ácido Peracético 1%, Hipoclorito de Sodio al 1%-3% u otro apropiado para fines de sanitización con demostrada acción que minimice la posibilidad de transmisión de patógenos y para el control del viroide HSVd.
-
-7.5.7. Estos requisitos serán obligatorios a partir del 1 de octubre de 2023.
-
 ### 8. Sobre las fiscalizaciones
 
 8.1. El Servicio podrá fiscalizar el cumplimiento de las obligaciones dispuestas en esta resolución en cualquier etapa del proceso de producción de plantas corrientes de cítricos (Numeral 5.1).
