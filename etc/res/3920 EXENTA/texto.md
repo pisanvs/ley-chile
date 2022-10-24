@@ -1,4 +1,4 @@
-ESTABLECE REQUISITO DE INTERNACION PARA FRUTOS DE COCO
+ESTABLECE REQUISITO DE INTERNACION PARA FRUTOS DE PIÑA, PLATANO Y COCO
 
 Santiago, 4 de diciembre de 1998.- Hoy se resolvió lo que sigue:
 
@@ -8,11 +8,11 @@ Considerando:
 
 - Que corresponde al Servicio Agrícola y Ganadero establecer las regulaciones cuarentenarias necesarias para el resguardo del patrimonio fitosanitario del país.
 
-- Que para el ingreso de frutos de coco se deben adoptar regulaciones cuarentenarias que contemplen como criterio general el de riesgo mínimo, basado en el Análisis de Riesgo de Plagas.
+- Que para el ingreso de frutos de piña, plátano y coco se deben adoptar regulaciones cuarentenarias que contemplen como criterio general el de riesgo mínimo, basado en el Análisis de Riesgo de Plagas.
 
 R e s u e l v o:
 
-1.- Para internar al país frutos frescos de coco (Cocos nucifera) destinados a consumo, deberá presentarse al Servicio un Certificado Fitosanitario Oficial del país de origen en el cual se consigne que los frutos proceden de un país libre de Mosca oriental de la fruta (Bactrocera dorsalis).
+1.- Para internar al país frutos frescos de piña (Ananas spp.) y coco (Cocos nucifera) destinados a consumo, deberá presentarse al Servicio un Certificado Fitosanitario Oficial del país de origen en el cual se consigne que los frutos proceden de un país libre de Mosca oriental de la fruta (Bactrocera dorsalis).
 
 2.- En el caso de frutos de coco se deberá consignar, como declaración adicional en el Certificado Fitosanitario, que los frutos están libres de Pachymerus lacerdae, Pachymerus nucleorum (Col. Bruchidae) y Coccoctrypes pigmaeus y Coccotrypes carpohagus (Col. Scolytidae).
 

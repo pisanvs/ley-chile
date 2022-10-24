@@ -1,10 +1,10 @@
-ESTABLECE PROVISORIAMENTE MEDIDAS DE EMERGENCIA PARA EL INGRESO DE PLÁTANOS Y FLORES CORTADAS PROCEDENTES DE ECUADOR, Y MODIFICA LAS RESOLUCIONES EXENTAS QUE INDICA
+ESTABLECE PROVISORIAMENTE MEDIDAS DE EMERGENCIA PARA EL INGRESO DE FLORES CORTADAS PROCEDENTES DE ECUADOR, Y MODIFICA LAS RESOLUCIONES EXENTAS QUE INDICA
 
 Núm. 6.684 exenta.- Santiago, 1 de octubre de 2020.
 
 Vistos:
 
-Lo dispuesto en la Ley N° 18.755, Orgánica del Servicio Agrícola y Ganadero; ley N° 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado; el decreto ley N° 3.557 de 1980 del Ministerio de Agricultura sobre Protección Agrícola; el decreto N° 510 de 2016 del Ministerio de Agricultura que habilita puertos para la importación de mercancías sujetas a revisión del Servicio Agrícola y Ganadero; el decreto N° 112 de 2018 del Ministerio de Agricultura que nombra al Director Nacional del SAG; la resolución N° 7 de 2019 de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón; las Normas Internacionales para Medidas Fitosanitarias de la Convención Internacional de Protección Fitosanitaria (CIPF) de las Naciones Unidas para la Agricultura y la Alimentación, FAO, promulgadas por el decreto N° 144 de 2007 del Ministerio de Relaciones Exteriores; la resolución exenta N° 3.197/1996, que establece requisitos para internar flores cortadas, modificada por las resoluciones exentas N° 6.407/2012 y N° 3.625/2014, la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña, plátano y coco y la resolución exenta N° 4.702/2014 que establece requisitos fitosanitarios para la importación de frutos frescos de piña, procedentes de Ecuador y aprueba plan de trabajo, todas del Servicio Agrícola y Ganadero.
+Lo dispuesto en la Ley N° 18.755, Orgánica del Servicio Agrícola y Ganadero; ley N° 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado; el decreto ley N° 3.557 de 1980 del Ministerio de Agricultura sobre Protección Agrícola; el decreto N° 510 de 2016 del Ministerio de Agricultura que habilita puertos para la importación de mercancías sujetas a revisión del Servicio Agrícola y Ganadero; el decreto N° 112 de 2018 del Ministerio de Agricultura que nombra al Director Nacional del SAG; la resolución N° 7 de 2019 de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón; las Normas Internacionales para Medidas Fitosanitarias de la Convención Internacional de Protección Fitosanitaria (CIPF) de las Naciones Unidas para la Agricultura y la Alimentación, FAO, promulgadas por el decreto N° 144 de 2007 del Ministerio de Relaciones Exteriores; la resolución exenta N° 3.197/1996, que establece requisitos para internar flores cortadas, modificada por las resoluciones exentas N° 6.407/2012 y N° 3.625/2014, la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña y coco y la resolución exenta N° 4.702/2014 que establece requisitos fitosanitarios para la importación de frutos frescos de piña, procedentes de Ecuador y aprueba plan de trabajo, todas del Servicio Agrícola y Ganadero.
 
 Considerando:
 
@@ -12,7 +12,7 @@ Considerando:
 
 2. Que, en virtud de esa facultad, el Servicio dictó la resolución exenta N° 3.197/1996, que establece requisitos para internar flores cortadas, la que fue modificada por las resoluciones exentas N° 6.407/2012 y N° 3.625/2014.
 
-3. Que, en este mismo ámbito de atribuciones, el Servicio dictó la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña, plátano y coco y la resolución exenta N° 4.702/2014 que establece requisitos fitosanitarios para la importación de frutos frescos de piña procedentes de Ecuador y aprueba plan de trabajo.
+3. Que, en este mismo ámbito de atribuciones, el Servicio dictó la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña y coco y la resolución exenta N° 4.702/2014 que establece requisitos fitosanitarios para la importación de frutos frescos de piña procedentes de Ecuador y aprueba plan de trabajo.
 
 4. Que, en inspecciones realizadas en puntos de entrada, se han interceptado artículos reglamentados sin requisitos fitosanitarios establecidos por el SAG o no consignados en los correspondientes Certificados Fitosanitarios emitidos por la ONPF de Ecuador, lo que ha sido notificado a Ecuador mediante carta oficial.
 
@@ -30,7 +30,7 @@ Considerando:
 
 Resuelvo:
 
-1. Se establecen las siguientes medidas de emergencia, con carácter provisional respecto de la internación de frutos frescos de plátano, procedentes de Ecuador y adicionales a los requisitos establecidos en la resolución exenta N° 3.920/1998 que establece requisitos de internación para frutos de piña, plátano y coco:
+1. Se establecen las siguientes medidas de emergencia, con carácter provisional respecto de la internación de frutos frescos, procedentes de Ecuador y adicionales a los requisitos establecidos en la resolución exenta N° 3.920/1998 que establece requisitos de internación para frutos de piña y coco:
 
 a. Se deberá consignar en el Certificado Fitosanitario:
 
@@ -88,13 +88,13 @@ h. Los envíos procedentes de Ecuador, que cuenten con una certificación fitosa
 
 Donde dice:
 
-"10. Elimínese el origen Ecuador, de la resolución N° 3.920, de 1998, que establece requisitos de internación para frutos de piña, plátano y coco, para todo origen."
+"10. Elimínese el origen Ecuador, de la resolución N° 3.920, de 1998, que establece requisitos de internación para frutos de piña y coco, para todo origen."
 
 Debe decir:
 
-"10. Elimínese el origen Ecuador, de la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña, plátano y coco, sólo respecto de la internación de frutos de piña."
+"10. Elimínese el origen Ecuador, de la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña y coco, sólo respecto de la internación de frutos de piña."
 
-5. Entiéndase modificada, en el mismo sentido la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña, plátano y coco.
+5. Entiéndase modificada, en el mismo sentido la resolución exenta N° 3.920/1998, que establece requisitos de internación para frutos de piña y coco.
 
 6. Se hace presente, que esta resolución entrará en vigencia al quinto día de publicación en el Diario Oficial.
 
