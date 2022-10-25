@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 1.888, de 12 de octubre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se aprueba el Gabinete Técnico de la Ilustre Municipalidad de Hualaihué, que tendrá su funcionamiento en calle 21 de Septiembre N° 450, comuna de Hualaihué, Región de Los Lagos, por cumplir los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de Hualaihué, para otorgar licencias de conductor conforme a las disposiciones del DFL N° 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle algunos de los requisitos que hicieron posible la presente autorización.-
+
+Pablo Walterio Joost Winkler, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
