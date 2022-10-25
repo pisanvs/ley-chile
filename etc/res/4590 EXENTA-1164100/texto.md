@@ -22,7 +22,7 @@ Resuelvo:
 
 . Taxidermia: Del griego "taxis" (arreglo o colocación) y el griego "dermis" (piel), se define como el oficio o arte de disecar animales para conservarlos con apariencia de vivos y facilitar así su exposición, estudio y conservación (generalmente en museos, como trofeos de caza o decoración). La taxidermia consiste en la remoción de la piel de un animal (y subsecuentemente plumas, pelaje o escamas), su curtido, y luego su arreglo en una forma esculpida o molde, generalmente hecho de poliestireno o poliuretano.
 
-2. Establézcanse las siguientes exigencias sanitarias para el ingreso de animales taxidermizados a Chile:
+2. Establézcanse las siguientes exigencias sanitarias para la importación a Chile de animales taxidermizados por cualquier vía de ingreso (equipajes, medios de transporte, courrier o importación comercial).
 
 Los animales taxidermizados de las especies que se indican, deben ingresar a Chile, amparados por un certificado sanitario oficial, emitido por la autoridad sanitaria competente del país de origen, en el idioma del país de procedencia y en español, que acredite el cumplimiento de las siguientes exigencias sanitarias:
 
@@ -194,7 +194,27 @@ b. fumigación con formaldehído con una dosis de 400 mg/m3, con una humedad rel
 
 c. radiación gamma con una dosis de 40 kGy.
 
-2.4) OTRAS ESPECIES
+2.3 bis) AVES
+
+INFLUENZA AVIAR DE ALTA PATOGENICIDAD
+
+Las pieles y trofeos procedentes de aves distintas de las aves de corral:
+
+Se procesaron para garantizar la inactivación de los virus de influenza aviar de alta patogenicidad, empleando uno de los siguientes procedimientos y se tomaron las precauciones necesarias para evitar el contacto de la mercancía con cualquier fuente de virus de influenza aviar de alta patogenicidad.
+
+a. inmersión en agua hirviendo durante el tiempo necesario para garantizar la eliminación de todo el material que no sea hueso, casco o pico; o
+
+b. remojo en una solución de carbonato sódico - Na2CO 3 al 4% (p/v) y de pH igual o superior a 11,5, durante, por lo menos, 48 horas y agitando la solución; o
+
+c. remojo en una solución de ácido fórmico (100 kg de sal [NaCl] y 12 kg de ácido fórmico por 1.000 litros de agua) y de pH inferior a 3,0, durante, por lo menos, 48 horas y agitando la solución; se pueden añadir humectantes y curtientes; o
+
+d. en el caso de cueros frescos o verdes, tratamiento con sal (NaCl) que contenga un 2% de carbonato de sodio (Na2CO 3) durante, por lo menos, 28 días; o
+
+e. tratamiento con formol al 1% durante, por lo menos, seis días; o
+
+f. cualquier tratamiento equivalente cuya capacidad de desactivar el virus esté demostrada.
+
+2.4) OTRAS ESPECIES SUSCEPTIBLES
 
 FIEBRE AFTOSA
 
@@ -225,6 +245,16 @@ a. fumigación con etileno óxido con una dosis de 500 mg/litro, con una humedad
 b. fumigación con formaldehído con una dosis de 400 mg/m3, con una humedad relativa del 30%, a una temperatura superior a 15ºC durante 4 horas, o
 
 c. radiación gamma con una dosis de 40 kGy.
+
+2.5) OTRAS ESPECIES NO SUSCEPTIBLES
+
+Los trofeos y pieles de otros animales no susceptibles a las enfermedades mencionadas en la presente resolución, podrán ingresar a Chile sin presentar certificado sanitario oficial y solo si a la inspección física cumplen con las siguientes condiciones:
+
+a. Deben encontrarse secos y limpios.
+
+b. No deben presentar vestigios de sangre ni restos de cualquier tipo de materia orgánica animal o vegetal (fecas, tierra, etc.).
+
+c. No deben presentar mal olor asociado a un proceso de descomposición.
 
 3. En el caso de los especímenes protegidos por la convención sobre el Comercio Internacional de Especies Amenazadas de Flora y Fauna Silvestre (CITES), deben cumplir con las regulaciones específicas, cuando corresponda. No obstante lo anterior, los aspectos de sanidad vegetal o sanidad animal prevalecerán sobre la Ley CITES, debiendo ser aplicada la medida sanitaria que corresponda.
 
