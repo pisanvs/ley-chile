@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 894 EXENTA, DE 20 DE OCTUBRE DE 2022
+
+Por resolución exenta Nº 894, del 20 de octubre del año 2022, del Gobierno Regional de Ñuble, se indica:
+
+- **1.-** Que, mediante solicitud de fecha 18 de octubre del año 2022 presentada por el Colegio Darío Salas de la comuna de Chillán solicitando corte de tránsito vehicular en comuna de Chillán, por ambas calzadas de un circuito que comienza en el Frontis de la Municipalidad de Chillán por calle 18 de Septiembre y se extiende en el caso de la distancia de 3 km por las siguientes calles: 18 de Septiembre, Avda. Francia, Los Peumos, Avda. Padre Hurtado Colegio Darío Salas (Avenida Padre Hurtado) y en el caso de la distancia de 5 km por calles 18 de Septiembre, Avda. Francia, Los Peumos, Manuel Rodríguez, Alcalde Flores Millán (Quilamapú), Avenida Padre Hurtado, el día 20 de noviembre de 2022 desde las 08:00 horas hasta las 12:00 horas, con la finalidad de realizar Actividad Deportiva Denominada Corrida familiar, Colegio Darío Salas de Chillán.
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo, con dicho corte de tránsito, en los mismos términos solicitados.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL Nº 1, de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en comuna de Chillán, por ambas calzadas de un circuito que comienza en el Frontis de la Municipalidad de Chillán por calle 18 de Septiembre y se extiende en el caso de la distancia de 3 km por las siguientes calles:18 de Septiembre, Avda. Francia, Los Peumos, Avda. Padre Hurtado Colegio Darío Salas (Avenida Padre Hurtado) y en el caso de la distancia de 5 km por calles 18 de Septiembre, Avda. Francia, Los Peumos, Manuel Rodríguez, Alcalde Flores Millán (Quilamapú), Avenida Padre Hurtado, el día 20 de noviembre de 2022 desde las 08:00 horas hasta las 12:00 horas, con la finalidad de realizar Actividad Deportiva Denominada Corrida Familiar, Colegio Darío Salas de Chillán.
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
