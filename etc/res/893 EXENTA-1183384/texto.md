@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 893 EXENTA, DEL 20 DE OCTUBRE DE 2022
+
+Por resolución exenta Nº 893, del 20 de octubre del año 2022, del Gobierno Regional de Ñuble, se indica:
+
+- **1.-** Que, mediante solicitud de fecha 17 de octubre del año 2022 presentada por Colegio Cristiano Horeb, de Chillán Viejo, solicitando corte de tránsito vehicular en comuna de Chillán Viejo, por ambas calzadas de un circuito que comienza en calle Paula Jaraquemada entre Ángel Parra y 20 de Agosto, luego continua por calle Ángel Parra hasta Juan Martínez de Rozas, giro a la izquierda por calle Juan Martínez de Rozas hasta 20 de Agosto, giro a la izquierda por calle 20 de Agosto hasta Paula Jaraquemada, finalizando el circuito en Paula Jaraquemada frente al colegio, el día 11 de noviembre de 2022 desde las 09:30 horas hasta las 10:30 horas, con la finalidad de realizar actividad deportiva denominada Mini Maratón Colegio Cristiano Horeb.
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito, en los mismos términos solicitados.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL Nº 1, de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en comuna de Chillán Viejo, por ambas calzadas de un circuito que comienza en calle Paula Jaraquemada entre Ángel Parra y 20 de Agosto, luego continua por calle Ángel Parra hasta Juan Martínez de Rozas, giro a la izquierda por calle Juan Martínez de Rozas hasta 20 de Agosto, giro a la izquierda por calle 20 de Agosto hasta Paula Jaraquemada, finalizando el circuito en Paula Jaraquemada frente al colegio, el día 11 de noviembre de 2022 desde las 09:30 horas hasta las 10:30 horas, con la finalidad de realizar actividad deportiva denominada Mini Maratón Colegio Cristiano Horeb.
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
