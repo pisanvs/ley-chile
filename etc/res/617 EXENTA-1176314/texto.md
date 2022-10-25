@@ -78,13 +78,7 @@ Resolución:
 
 1.6. Proyectos de Acondicionamiento Térmico de la Vivienda, para viviendas emplazadas en la zona vinculada al Plan de Descontaminación Atmosférica (PDA) de la ciudad de Coyhaique y su zona circundante, a que se refiere el decreto citado en el Visto 13) de la presente resolución exenta. Este tipo de proyectos también podrán postular a Obras de Eficiencia Energética, destinadas al recambio en la vivienda de calefactores a leña por un calefactor eficiente, todo lo cual se regirá por lo señalado en el Resuelvo 30.
 
-2. El presente llamado considera dos procesos de selección, según el siguiente cuadro:
-
-.
-
-* La región definirá los procesos intermedios
-
-** La región podrá seguir revisando y calificando proyectos con posterioridad a la fecha de apertura del proceso de digitación.
+2. El presente llamado considera los siguientes procesos de selección, según el siguiente cuadro:
 
 La información de los proyectos se deberá ingresar de manera digital, según la operatoria que determine cada Serviu. El Serviu informará a las EP la fecha en que solicitará el ingreso del proyecto y la fecha del ingreso del documento con la firma del postulante. En dicho período, el Serviu definirá un plazo para la subsanación de observaciones.
 
@@ -92,9 +86,13 @@ Además, el Serviu proporcionará un documento único, en el que el postulante s
 
 3. Los montos destinados a este llamado son los que se señalan en el siguiente cuadro:
 
+* La línea de Calefactores se aplicará sólo en las comunas con PDA. Además, del total de recursos de esta línea a lo menos un 6% deberá aplicarse a Calefactores, y de éstos, un 40% para equipos tipo Split inverter (excepto en las comunas de Talca, Gran Concepción y Valdivia, donde no se exigirá dicho porcentaje). Para la primera selección se utilizará un 50 de estos recursos, en la segunda selección se utilizará un 45% de los recursos y en la tercera selección se utilizará el restante 5% de los recursos disponibles.
+
+* En la línea del total de recursos, a lo menos un 75% deberá aplicarse al Acondicionamiento Térmico PDA.
+
 4. El número de proyectos seleccionados en cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según el cuadro precedente, incluidos los Servicios de Asistencia Técnica que correspondan. Se podrán disminuir los recursos del presente llamado o aumentarlos con cargo a los recursos asignados para el Programa de Protección del Patrimonio Familiar del año 2022, por resolución del Ministro de Vivienda y Urbanismo, como también determinar la redistribución de recursos por títulos y/o por región, de acuerdo a la necesidad de cada región.
 
-5. Para efectos de este llamado, se considerarán viviendas objeto del Programa las definidas en el artículo 3 del DS Nº 255 (V. y U.), de 2006, cuya condición se acredite en conformidad a la letra e) de su artículo 21. De igual forma, podrán participar en este llamado las viviendas cuyo avalúo fiscal total no supere las 950 UF a la fecha de la presente resolución, lo que se acreditará presentando el Certificado de Avalúo Fiscal Simple. Esto no se aplicará a las viviendas de las familias que postulen proyectos de acondicionamiento térmico en el marco de los Planes de Descontaminación Atmosférica vigentes, pues estas se regirán por lo señalado en los resuelvos 28. y 30. de esta resolución, ni tampoco en el caso de los proyectos de acondicionamiento térmico regular de la Región de Aysén del General Carlos Ibáñez del Campo, en cuyo caso podrán postular todas las viviendas que no cumplan con el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, OGUC, emplazadas en las zonas urbanas de las comunas de Aysén, Cisnes, Chile Chico, Cochrane, Guaitecas, Lago Verde, Villa O'Higgins, Río Ibáñez, Tortel y Coyhaique (fuera del polígono PDA).
+5. Para efectos de este llamado, se considerarán viviendas objeto del Programa las definidas en el artículo 3 del DS Nº 255 (V. y U.), de 2006, cuya condición se acredite en conformidad a la letra e) de su artículo 21. De igual forma, podrán participar en este llamado las viviendas cuyo avalúo fiscal total no supere las 950 UF a la fecha de la presente resolución, lo que se acreditará presentando el Certificado de Avalúo Fiscal Simple. Esto no se aplicará a las viviendas de las familias que postulen proyectos de acondicionamiento térmico en el marco de los Planes de Descontaminación Atmosférica vigentes, pues estas se regirán por lo señalado en los resuelvos 28. y 30. de esta resolución, ni tampoco en el caso de los proyectos de acondicionamiento térmico regular de la Región de Aysén del General Carlos Ibáñez del Campo, en cuyo caso podrán postular todas las viviendas que no cumplan con el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, OGUC, emplazadas en las zonas urbanas de las comunas de Aysén, Cisnes, Chile Chico, Cochrane, Guaitecas, Lago Verde, Villa O'Higgins, Río Ibáñez, Tortel y Coyhaique (fuera del polígono PDA), ni tampoco a las viviendas que postulen a un subsidio de acondicionamiento térmico regular, en cuyo caso el avalúo fiscal máximo de la vivienda será de 1.375 UF.
 
 6. No podrán participar en este llamado aquellos proyectos referidos al Capítulo II del DS Nº 255 (V. y U.), de 2006, relativos a la atención a Condominios de Viviendas Sociales, ni en general inmuebles en Copropiedades Tipo A.
 
@@ -127,6 +125,8 @@ El Ahorro se fijará tomando en cuenta el valor de la UF a la fecha de publicaci
 . Informar al Serviu que se presentarán proyectos, a más tardar una semana después de publicada la presente resolución en el Diario Oficial, para que este coordine una inducción en el uso del sistema computacional de postulación.
 
 . La constructora sólo podrá presentar proyectos que ejecutará directamente, en caso de que resulten seleccionados.
+
+. En el caso de las empresas constructoras de 4º categoría, que presenten proyectos en el presente llamado para las líneas de acondicionamiento térmico PDA, acondicionamiento térmico regular y recambio del calefactor, se permite que el monto máximo de cada obra sea de 15.000 UF.
 
 . Límite de atención a 320 familias en cualquier llamado del Programa de Protección del Patrimonio Familiar, equivalente a 3a categoría de las Entidades de Asistencia Técnica.
 
@@ -224,6 +224,8 @@ a) Las familias interesadas en postular al presente tipo de proyecto, deberán a
 
 b) Las familias que pertenezcan al tramo que va entre el 61% y el 70% según la Caracterización Socioeconómica, que requieran aplicar el Incremento por Complejidad Técnica, señalado en la tabla del resuelvo 26.1 letra B, deberán aportar un ahorro de 5 UF.
 
+c) En la Región de Aysén, el ahorro mínimo será de 1,5 UF. Los adultos mayores o personas con discapacidad, su cónyuge o conviviente civil, podrán acreditar 1 UF de ahorro, en este caso, el monto base de subsidio del presente resuelvo se incrementará en 2 UF. Para las familias que pertenezcan al tramo que va entre el 61% y el 70%, según la Caracterización Socioeconómica que requieran aplicar, el Incremento por Complejidad Técnica señalado en la tabla del resuelvo 26.1 letra B, deberán aportar un ahorro de 3 UF.
+
 B. De los montos de subsidio:
 
 a) Los montos de subsidio según tipo de proyecto de este llamado, que se aplicarán en las regiones del Libertador General Bernardo O'Higgins, Maule, Ñuble, Biobío, La Araucanía, Los Ríos, Los Lagos y Aysén, se determinarán según las Zonas Térmicas indicadas en la siguiente tabla, a excepción de la Zona Térmica H, donde se aplicarán los montos a nivel nacional:
@@ -261,6 +263,8 @@ A. De los postulantes:
 a) No se exigirá a las familias postulantes contar con instrumento de Caracterización Socioeconómica. No obstante, sólo podrán postular al Incremento por Complejidad Técnica de este llamado, las familias que formen parte de hasta el 70% de la población más vulnerable del país, de conformidad a la información provista por el Registro Social de Hogares.
 
 b) No podrán postular a este tipo de proyectos las familias que vivan en ciudades o zonas que tengan un Plan de Descontaminación Atmosférica vigente, las que podrán postular a los proyectos de Acondicionamiento Térmico señalados en los Resuelvos 28 y 30 de la presente resolución.
+
+c) En el caso de la Región de Aysén, podrán participar las familias que sean propietarias, arrendatarias, usufructuarias o comodatarias de la vivienda con la que postulan. En el caso de postulantes arrendatarios, usufructuarios o comodatarios, deberán presentar al momento de la postulación la autorización escrita por parte del propietario. Respecto de los comodatarios, solo se aplicará para los casos de viviendas particulares.
 
 B. De las Viviendas Objeto del llamado:
 
@@ -374,6 +378,8 @@ Acreditación:
 
 Lo anterior será acreditado por el profesional competente del PSAT al momento del ingreso del proyecto al Serviu, mediante la presentación de la Ficha de Ventilación Minvu "Ventilación. Solución Constructiva de Acondicionamiento Térmico" y las correspondientes Especificaciones Técnicas.
 
+En el caso de la Región de Aysén, podrán postular las familias que hayan sido beneficiadas anteriormente con un subsidio del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, o con un subsidio de Acondicionamiento Térmico, hasta el año 2021 inclusive, siempre y cuando ese subsidio no haya permitido el acondicionamiento completo de la vivienda. Las viviendas nuevas construidas por el MINVU completamente regularizadas, sólo podrán postular si cuentan con una recepción municipal de la vivienda original anterior al año 2012.
+
 26.5. A los factores de puntaje definidos para el Título II, en el artículo 28 del DS Nº 255 (V. y U.), de 2006, se agregan los siguientes factores adicionales:
 
 a) Por recambio de ventanas existentes de vidrio simple por ventanas con Doble Vidriado Hermético (DVH), conforme a lo indicado a continuación:
@@ -391,6 +397,8 @@ b) Excepcionalmente y previa revisión del Serviu Región de Magallanes de su fa
 c) Se permitirá la participación, además de las viviendas sociales y las construidas por Serviu, de las viviendas de autoconstrucción y/o con ampliaciones que estén en proceso de regularización o regularizadas. El Serviu reconocerá la vivienda como objeto de atención dentro de los servicios de asistencia técnica.
 
 d) Las viviendas que pertenezcan a alguno de los polígonos de los barrios intervenidos o seleccionados por el Programa de Recuperación de Barrios, excluidas las que hayan sido beneficiadas con el mismo tipo de obras del llamado especial de Barrios.
+
+e) Podrán postular las familias que hayan sido beneficiadas anteriormente con un subsidio del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, o con un subsidio de Acondicionamiento Térmico, hasta el año 2021 inclusive, siempre y cuando ese subsidio no haya permitido el acondicionamiento completo de la vivienda.
 
 27.2. Se podrá aplicar este subsidio a viviendas que hayan obtenido recepción definitiva con posterioridad a la fecha indicada en el Artículo 6º bis del DS Nº255 (V. y V.), de 2006, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de esta norma y fueron recepcionadas con fecha posterior al 4 de mayo de 2007, o porque la Dirección de Obras Municipales haya autorizado la regularización del inmueble, no exigiendo el cumplimiento de lo señalado en el Artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones. Los proyectos de acondicionamiento a que se refiere este párrafo deberán observar lo dispuesto en el Resuelvo 26.4 precedente, de manera que una vez aplicado el subsidio, cumplan con ese estándar en la totalidad de la vivienda.
 
@@ -438,7 +446,7 @@ En casos de Viviendas con Pisos Ventilados (art. 4.1.10 OGUC), los montos máxim
 
 Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones de subsidio base, incremento por complejidad técnica, incremento por regularización e incremento por cambio de techumbre que se indican en el Resuelvo 26.1 letra b).
 
-e) En aquellas viviendas en que el Diagnóstico Técnico Constructivo acredite la existencia de construcciones sin recepción definitiva y que sea necesario regularizar, el subsidio se incrementará hasta en 40 UF para la realización de obras tendientes a mejorar los estándares de lo construido, con el objeto de cumplir con las normas que permitan obtener la recepción definitiva, especialmente las relativas a sanear o certificar las instalaciones, tales como las eléctricas, de gas natural y de agua potable y alcantarillado, y obras de normalización del complejo muro retardador de fuego entre unidades, permitiéndose un gasto máximo de 50 UF del subsidio total. Las obras a financiar con cargo a este incremento deberán ejecutarse simultáneamente con las obras asociadas a cada proyecto.
+e) En aquellas viviendas en que el Diagnóstico Técnico Constructivo acredite la existencia de construcciones sin recepción definitiva y que sea necesario regularizar, el subsidio se incrementará hasta en 45 UF para la realización de obras tendientes a mejorar los estándares de lo construido, con el objeto de cumplir con las normas que permitan obtener la recepción definitiva, especialmente las relativas a sanear o certificar las instalaciones, tales como las eléctricas, de gas natural y de agua potable y alcantarillado, y obras de normalización del complejo muro retardador de fuego entre unidades, permitiéndose un gasto máximo de 50 UF del subsidio total. Las obras a financiar con cargo a este incremento deberán ejecutarse simultáneamente con las obras asociadas a cada proyecto.
 
 En los casos en que las obras de regularización requieran de la construcción de muros cortafuego u otra solución similar ajustada a la Ordenanza General de Vivienda, Urbanismo y Construcciones, cuando en un mismo predio exista más de una edificación, el monto del subsidio se incrementará en otras 40 UF, adicionales a las señaladas.
 
@@ -456,7 +464,7 @@ En el caso de proyectos cuyo presupuesto exceda el monto del subsidio base, y el
 
 El cofinanciamiento deberá ser acreditado al momento de la postulación, y en caso que el postulante resultare beneficiado, el Serviu, al momento de la obtención del subsidio, deberá verificar que dichos recursos se encuentren depositados en la cuenta de dicho Servicio.
 
-27.6. Asistencia Técnica. De conformidad con lo establecido en el Resuelvo 21, los profesionales independientes señalados allí no podrán estar vinculados con Entidades de Asistencia Técnica, como parte del equipo acreditado en un CRAT, ni tampoco a la empresa constructora que ejecutará las obras.
+27.6. Asistencia Técnica. De conformidad con lo establecido en el Resuelvo 15.2, los profesionales independientes señalados allí no podrán estar vinculados con Entidades de Asistencia Técnica, como parte del equipo acreditado en un CRAT, ni tampoco a la empresa constructora que ejecutará las obras.
 
 27.7. Podrán participar en este llamado como PSAT, aquellos inscritos en el Registro Nacional de Contratistas de Viviendas Sociales o de Constructores de Viviendas Sociales del Minvu, siempre que sean autorizados por el Serviu para ejecutar proyectos y desarrollar labores de Asistencia Técnica o subcontratarlas, sin necesidad de suscribir el CRAT, debiendo en todo caso cumplir con los siguientes requisitos:
 
@@ -479,6 +487,8 @@ El Plan de Habilitación Social estará exento de cumplir lo dispuesto en el Art
 Se considerarán como válidas las actividades realizadas con los beneficiarios que efectivamente se encuentren con sus obras en ejecución.
 
 27.9. Respecto al plazo máximo para el inicio de las obras dispuesto en el Artículo 21, letra l) del DS Nº255 (V. y U.), de 2006, éste se extenderá hasta 180 días corridos, contados desde la fecha de la resolución de selección.
+
+27.10. Los Honorarios de Asistencia Técnica serán de 6 UF para las labores de Organización de la Demanda, de 11 UF para la gestión de proyecto e I.T.O y 6 UF para el Plan de Habilitación Social. En el caso de postulantes que hayan sido beneficiarios con un subsidio de Acondicionamiento Térmico del Programa de Protección del Patrimonio Familiar hasta el año 2021 inclusive, los honorarios de asistencia técnica por labores de Organización de la Demanda, serán de 1 UF si sus proyectos son presentados por el mismo PSAT del Subsidio anterior, o de 3 UF si son presentados por otro PSAT.
 
 28. En caso de Proyectos de Habitabilidad del Título II, Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el artículo 6° bis del DS Nº 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda de viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, se tendrán las siguientes consideraciones especiales:
 
@@ -528,7 +538,7 @@ Además, se considerarán viviendas objeto de proyectos de este Resuelvo las que
 
 b) Las viviendas deberán contar con permiso de edificación y recepción definitiva otorgada por la Dirección de Obras Municipales correspondiente. Excepcionalmente, podrán presentarse viviendas existentes que se encuentren con proceso de regularización iniciado, en cuyos casos, dicha tramitación deberá realizarse simultáneamente durante el transcurso de la ejecución del proyecto.
 
-c) Excepcionalmente y previa revisión del Serviu Región de Aysén de su factibilidad técnica, podrán postular a este llamado viviendas cuya superficie excedan los 140 metros cuadrados, pudiendo llegar hasta los 200 metros cuadrados.
+c) Excepcionalmente y previa revisión del Serviu de su factibilidad técnica, podrán postular a este llamado viviendas cuya superficie excedan los 140 metros cuadrados, pudiendo llegar hasta los 200 metros cuadrados.
 
 C. Establécense para este tipo de proyectos, las siguientes condiciones para la Asistencia Técnica:
 
@@ -606,6 +616,10 @@ e) Este subsidio se postulará en conjunto con el subsidio de Acondicionamiento 
 
 f) Se exigirá que el calefactor tenga una garantía mínima de 2 años, fecha en la cual se devolverá la boleta de garantía, Vale Vista o Certificado de Fianza Recíproca. Además, después de un año de instalado y antes de devolver el instrumento financiero se deberá efectuar a lo menos una mantención al equipo, asegurando su buen funcionamiento.
 
+g) Anticipo por compra de calefactor valorado en U.F. Al momento de su entrega el SERVIU podrá otorgar un anticipo por el calefactor puesto en la vivienda, que se encuentre debidamente almacenado y que no exceda el valor en plaza de los mismos ni, en total, el sesenta por ciento del monto del subsidio.
+
+Para el pago de este anticipo, se deberá contar con el Visto de Bueno de la PSAT, y de la familia, certificando ambos que el equipo se recibió en buenas condiciones y que se encuentra en la vivienda.
+
 30. En caso de la Región de Aysén, para Proyectos de Habitabilidad del Título II, de Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda ubicadas en zonas con Planes de Descontaminación Atmosférica, se tendrán las siguientes consideraciones especiales para los procesos de selección:
 
 30.1. Establécense las siguientes condiciones especiales de postulación:
@@ -647,8 +661,6 @@ Las familias interesadas en postular al presente tipo de proyecto deberán acred
 Las familias que pertenezcan al tramo que va entre el 61% y el 70% de Calificación Socioeconómica, que requiera aplicar el Incremento por Complejidad Técnica, deberán aportar un ahorro mínimo de 5 UF.
 
 b) De los montos de subsidio: Los montos de subsidio de este llamado serán los indicados en la tabla inserta a continuación:
-
-.
 
 * En casos de Viviendas con Pisos Ventilados (art. 4.1.10 OGUC) estos montos se podrán aumentar en 40 UF.
 
@@ -709,6 +721,10 @@ En aquellos casos en que la vivienda haya debido ser regularizada con el subsidi
 Se realizará en conformidad a lo dispuesto en la reglamentación vigente.
 
 En el caso que existan proyectos de regularización sólo se cursará el 2º y el 3º pago de la Asistencia Técnica cuando se haya obtenido la recepción definitiva de la vivienda.
+
+> **Nota.** El numeral 1.6 del número 1º de la Resolución 1401 Exenta, Vivienda, publicada el 25.10.2022, modifica la tabla inserta en la letra a), del literal B. De los montos de subsidio, del Resuelvo 26.1 de la presente norma, en la forma que la citada resolución indica.
+
+> **Nota.** NOTA 1 El numeral 1.14 del número 1º de la Resolución 1401 Exenta, Vivienda, publicada el 25.10.2022, modifica la tabla inserta en la letra a), del literal B. De los montos de subsidio, del punto 28.1 del Resuelvo 28 de la presente norma, en la forma que la citada resolución indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
