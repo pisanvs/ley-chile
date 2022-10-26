@@ -1,0 +1,37 @@
+POSTERGA PERMISOS DE SUBDIVISIÓN, LOTEOS, URBANIZACIÓN PREDIAL Y DE CONSTRUCCIONES
+
+Núm. 953.- Hualpén, 17 de octubre de 2022.
+
+Vistos:
+
+El expediente de solicitud de reconocimiento del Humedal Urbano Vasco de Gama-Chimalfe, presentado por la Municipalidad de Hualpén en la Seremi del Medio Ambiente de la Región del Biobío, mediante oficio Nº 0881 de fecha 05.08.2022; resolución exenta Nº 941 de fecha 22.08.2022, de Secretario Regional Ministerial del Medio Ambiente de la Región del Biobío, que declara admisible la solicitud de reconocimiento de Humedal Urbano Vasco de Gama-Chimalfe, presentada por la Municipalidad de Hualpén; Of. Ord. Nº 1034 de fecha 09.09.2022 de Alcalde de Municipalidad de Hualpén, que solicita al Secretario Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío, un Informe Previo y Favorable, respecto de la postergación de la entrega de permisos en el Humedal Urbano Vasco de Gama-Chimalfe; Informe Técnico de Asesor Urbanista de Hualpén, de fecha 01.09.2022, que establece la necesidad de postergar el otorgamiento de permisos de subdivisión, loteo o urbanización predial y de construcciones sobre los terrenos del Humedal Urbano Vasco de Gama-Chimalfe; Informe Previo de fecha 27.09.2022 del Departamento de Desarrollo Urbano e Infraestructura de la Seremi Minvu de la Región del Biobío, que recomienda al Seremi de Vivienda y Urbanismo de la Región del Biobío que la solicitud de postergación de permisos en el Humedal Urbano Vasco de Gama-Chimalfe sea informada favorablemente; Of. Ord. Nº 2235/DDUI Nº 985 de fecha 07.10.2022 de Secretario Regional Ministerial de Vivienda y Urbanismo (S) de la Región del Biobío, que informa favorablemente la postergación de permisos en el Humedal Urbano Vasco de Gama-Chimalfe de la comuna de Hualpén; Decreto Alcaldicio Nº 78 de fecha 18.05.1982, que aprueba Plan Regulador de Talcahuano vigente para la comuna de Hualpén; artículo 117 de la Ley General de Urbanismo y Construcciones; artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones; artículo 3º de la ley Nº 21.202; Circular Ord. Nº 0427, DDU 444 de fecha 28.10.2020, de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; artículos 1, 12, 56, 63 y siguientes de la Ley Nº 18.695 Orgánica Constitucional de Municipalidades.
+
+Considerando:
+
+1. Que se encuentra en tramitación el reconocimiento del Humedal Urbano "Vasco de Gama-Chimalfe" de la Comuna de Hualpén, en la Seremi del Medio Ambiente de la Región del Biobío, según consta en resolución exenta Nº 941 de fecha 22.08.2022, de Secretario Regional Ministerial del Medio Ambiente.
+
+2. Que la solicitud de reconocimiento del Humedal Urbano Vasco de Gama-Chimalfe, fue propuesta por el Municipio de Hualpén sobre cuatro polígonos, siendo el polígono 1 de mayor extensión, el que incluye cuatro zonas del instrumento de planificación territorial comunal vigente, las cuales son: S-9, S-10, S-15 y SE-8. Si bien es cierto la zona S-10 que permite el almacenamiento inofensivo sin construcciones y la zona SE-8 que corresponde a la zona "a" de alto riesgo del aeródromo Carriel Sur de Concepción y que tiene prohibición de construcciones, limitan las obras de edificación y urbanización, las otras dos áreas dentro del polígono: la zona S-15 que permite actividades productivas inofensivas y equipamiento de las clases deporte, terminales de distribución y servicios artesanales y la zona S-9 que admite el uso de suelo equipamiento de las clases deporte, esparcimiento, turismo y comercio, permiten el desarrollo de proyectos de edificación y urbanización que representan una amenaza para el Humedal Urbano Vasco de Gama-Chimalfe. Por otra parte, los polígonos 2, 3 y 4 aunque son de inferior magnitud que el polígono 1 incluyen: la zona S-9 que permite el uso de suelo equipamiento, la zona S-2 que admite los usos de suelo de vivienda y equipamiento y la zona S-15 que permite los usos de suelo equipamiento y actividades productivas, todas las cuales permiten obras de edificación y urbanización.
+
+3. Que la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío informó favorablemente la postergación de permisos de subdivisión, loteos, urbanización predial y de construcciones en el Humedal Urbano Vasco de Gama-Chimalfe, estableciendo criterios de evaluación en amparo de la Circular Ord. Nº 0427, DDU 444 de fecha 28.10.2020, de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y el cumplimiento de ellos por parte de la Municipalidad de Hualpén, según consta en informe técnico que acompaño a su Ord. Nº 2235/DDUI Nº 985 de fecha 07.10.2022.
+
+Decreto:
+
+1. Postérguese por el plazo de tres meses los permisos de subdivisión, loteos, urbanización predial y de construcciones:
+
+a. En "Polígono 1 (1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-1)", para las zonas S-9, S-10, S-15 y SE-8 del Plan Regulador Comunal de Talcahuano de 1982, vigente en la comuna de Hualpén. La vigencia de la postergación y eventual prórroga, comenzarán desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+b. En "Polígono 2 (1-2-3-4-1)", para las zonas S-9 y S-15 del Plan Regulador Comunal de Talcahuano de 1982, vigente en la comuna de Hualpén. La vigencia de la postergación y eventual prórroga, comenzarán desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+c. En "Polígono 3 (1-2-3-4-1)", para las zonas S-10 y S-15 del Plan Regulador Comunal de Talcahuano de 1982, vigente en la comuna de Hualpén. La vigencia de la postergación y eventual prórroga, comenzarán desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+d. En "Polígono 4 (1-2-3-4-1)", para la zona S-2 del Plan Regulador Comunal de Talcahuano de 1982, vigente en la comuna de Hualpén. La vigencia de la postergación y eventual prórroga, comenzarán desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+2. Ordénese, en caso de ser necesario, que el citado plazo de tres meses podrá ser prorrogado de conformidad con lo dispuesto en el artículo 117 de la Ley General de Urbanismo y Construcciones y no deberá sobrepasar la fecha máxima con la que cuenta el Ministerio del Medio Ambiente para pronunciarse.
+
+3. Ordénese a la Dirección de Administración y Finanzas a publicar el presente decreto municipal en el Diario Oficial de Chile, gasto que deberá ser imputado al presupuesto municipal vigente.
+
+4. Publíquese el presente decreto municipal en la página web del Municipio y procédase a la exhibición de la misma resolución y del plano respectivo, en dependencias de esta Municipalidad.
+
+> **Nota.** El numeral 1 de la Resolución 28 Exenta, Vivienda, publicada el 27.01.2023, ordena prorrogar por 9 meses o hasta la fecha en que se declare como humedal urbano al humedal "Vasco da Gama-Chimalfe" por parte del Ministerio del Medio Ambiente, siempre que no exceda dicho lapso, la postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, dispuesta por la presente norma, respecto de los terrenos localizados en la propuesta de humedal urbano "Vasco da Gama-Chimalfe".
+
+Anótese, comuníquese y archívese.- Miguel Ángel Rivera Morales, Alcalde.- Nelson Cuevas Muñoz, Secretario Municipal.
