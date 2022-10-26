@@ -78,7 +78,7 @@ b) Los montos de incrementos señalados en el artículo 85 del DS N° 27 (V. y U
 
 9. Con los montos de subsidios base e incrementos indicados en los numerales 7.a) y 7.b) del Resuelvo 7 precedente, no será posible financiar obras de Acondicionamiento Térmico y/o Eficiencia Energética en aquellos proyectos que hayan incrementado los subsidios según lo dispuesto en el artículo 86 del DS N° 27 (V. y U.), de 2016 y lo indicado en el Resuelvo 8 precedente.
 
-10. La lista de espera a la que se refiere el numeral 2 del artículo 27 del DS N° 27 (V. y U.), de 2016 y el literal e) del numeral 16 de la resolución exenta N° 380 de (V. y U.), individualizada en el Visto 5 de la presente resolución, deberá ser equivalente, como máximo, al 50% de los recursos disponibles para la región respectiva en el presente llamado, de acuerdo con el Resuelvo 16 de la presente resolución exenta.
+10. La lista de espera a la que se refiere el numeral 2 del artículo 27 del DS N° 27 (V. y U.), de 2016 y el literal e) del numeral 16 de la resolución exenta N° 380 de (V. y U.), individualizada en el Visto 5 de la presente resolución, deberá ser equivalente, como máximo, al 100% de los recursos disponibles para la región respectiva en el presente llamado, de acuerdo con el Resuelvo 16 de la presente resolución exenta.
 
 11. El porcentaje al que se refiere el numeral 32 de la resolución exenta N° 380, de (V. y U.), individualizada en el Visto 5 de la presente resolución, respecto de las reparaciones en bienes exclusivos producto de daños previstos como consecuencia de la intervención en los bienes comunes, será de un 15%.
 
