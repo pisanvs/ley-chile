@@ -88,7 +88,7 @@ Esta concesión se otorga por plazo indefinido.
 
 <!-- parte:10285567 -->
 
-El plazo de construcción de las obras será de 24 meses. Las obras se iniciarán dentro de los 6 meses contados desde la fecha de reducción a escritura pública del presente decreto de concesión eléctrica.
+El plazo de construcción de las obras será de 24 meses. Las obras se iniciarán dentro de los 18 meses contados desde la fecha de reducción a escritura pública del presente decreto de concesión eléctrica.
 
 Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
 
