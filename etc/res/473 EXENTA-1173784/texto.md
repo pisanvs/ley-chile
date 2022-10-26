@@ -161,3 +161,39 @@ En relación al personal responsable de la producción y cuidado directo de los 
 4. Anótese, notifíquese la presente resolución a todas las empresas, plantas y línea de producción afectas a la ley 17.798 sobre "Control de armas" a través de las Autoridades Fiscalizadoras correspondientes y remítase la resolución original con sus antecedentes a la Ayudantía General (Centro de Mensajes) de la Dirección General de Movilización Nacional, para su registro y control posterior.
 
 Patricio Carrillo Abarzúa, General de Brigada, Director General de Movilización Nacional.
+
+LISTADO REFERENCIAL DE EQUIVALENCIAS DE PRODUCTOS EXPLOSIVOS
+
+(CONSIDERA LAS SUSTANCIAS QUÍMICAS CONTROLADAS DERIVADAS DEL NITRATO DE AMONIO) INSTRUCCIONES DE USO DEL LISTADO
+
+Introducción:
+
+El presente listado, considera en forma "Referencial" la equivalencia a Dinamita 60% (Equivdin60%), de aquellos explosivos mayoritariamente utilizados en el país y de las sustancias químicas controladas derivadas del Nitrato de Amonio. Consecuentemente, este documento no Constituye un "Listado de Productos Explosivos Controlados" ni un "Listado de Sustancias Químicas Controladas" (para lo anterior, ver Res. DGMN. DCAE. SDE. Nº 9080/03 de 05.Ene.2012).
+
+Para efectos de realizar los cálculos detallados en las presentes "Instrucciones de uso", es necesario considerar que se encuentra definido como "W", la "Cantidad en kilos de Dinamita 60% (artículo 240 del Regto. Complementario)".
+
+El cálculo relacionado con la "Cantidad en kilos de Dinamita 60%", es realizado a todos los productos clasificados como "Explosivos", sin excepción. Respecto a las sustancias químicas, este cálculo es realizado solamente a las "Sustancias químicas controladas derivadas del nitrato de amonio (artículo 242 del Regto. Complementario)", las cuales se encuentran en este listado, a continuación de los productos explosivos.
+
+Todos los cálculos citados precedentemente, son realizados a base del "Calor de explosión" del producto o de los componentes del producto en forma porcentual, dividido por el "Calor de explosión" del explosivo de "Referencia" (Antecedentes del Explosivo de Referencia, en Página 7 del Presente Listado). Los cálculos de aquellos productos no encontrados en este "Listado Referencial", deben ser realizados bajo las mismas condiciones.
+
+Procedimiento de Obtención de la Equivalencia de un Producto:
+
+Busque en el listado el producto explosivo / nitrato de amonio, por nombre, características o bien por clase y número de Naciones Unidas o Norma Chilena NCh 382 Of 2004 "Sustancias peligrosas -Clasificación General".
+
+Encuentre la equivalencia respectiva, mediante los datos entregados en la columna "EQUIV DIN60% (Directa)". La equivalencia de esta columna, se encuentra expresada en forma directa, en "KGDIN60%" por "Unidad/Metros de Producto", o bien en "Unidades/Metros de Producto" por "KGDIN60%".
+
+Cuando el producto se encuentra a granel, encartuchado, en bolsas, sacos u otra modalidad de acuerdo a la situación presentada, la equivalencia respectiva se encuentra expresada en forma indirecta, a través de un factor adimensional, que se encuentra disponible en la columna "EQUIV DIN60% (Indirecta)".
+
+Aplicación del Procedimiento de Obtención de la Equivalencia de un Producto:
+
+Obtenido en forma directa o indirecta, el dato correspondiente a la equivalencia del explosivo / nitrato de amonio, respecto al explosivo de referencia (Dinamita 60%), se procede a calcular el valor "W" descrito precedentemente, conforme a lo siguiente:
+
+Dato obtenido en forma directa: A modo de ejemplo, si se va a almacenar, transportar o realizar determinada actividad que requiere de la "EQUIV DIN60%", en lo que respecta a una cantidad total de 400000 metros de cordón detonante flexible (5 g/m de PETN), distribuidos en diferentes carretes, su equivalencia de acuerdo al listado, es de 196 m/kg. Esto implica que W = 400000/196 = 2041KGDIN60% (400000 metros de cordón detonante flexible, equivalen a 2041 kilos de Dinamita 60%).
+
+Dato obtenido en forma indirecta: A modo de ejemplo, el artículo 280 del Reglamento Complementario de la Ley de Control de Armas, no exige protección del transporte, cuando el peso neto del explosivo sea inferior a 500 kilos equivalentes a Dinamita 60%. Para el caso del explosivo ANFO, si un transportista va a trasladar 820 kilos de este producto, se encuentra al límite de tener que considerar escolta, ya que W = 820 x 0,608 = 498.56 kilos, donde 0.608 = factor adimensional o dato obtenido en la columna EQUVDIN60% (Indirecta).
+
+De igual forma, para efectos de cálculo de distancias de seguridad en el ejemplo citado, para un almacén con 10.000 kilos de ANFO, "W" es igual a 6080 kilos (vale decir, 10.000 kilos x 0.608 = 6080 kilos). Con este dato, se aplican las fórmulas de distancias de seguridad "S", dispuestas en el artículo 240 del Reglamento Complementario de la Ley de Control de Armas.
+
+LAS CONSULTAS O DUDAS RELACIONADAS CON EL "CÁLCULO DE EQUIVALENCIAS", PUEDEN SER REALIZADA AL BANCO DE PRUEBAS DE CHILE, AL SIGUIENTE CORREO: bpch@idic.cl
+
+.
