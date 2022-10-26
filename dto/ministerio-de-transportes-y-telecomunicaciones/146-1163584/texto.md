@@ -52,23 +52,45 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Sonora en
+- Tipo de servicio : Radiodifusión
 
-Frecuencia Modulada.
+Sonora en
 
-- Zona de servicio : Localidad de La Higuera,
+Frecuencia
 
-Región de Coquimbo.
+Modulada.
 
-Superficie delimitada
+- Zona de servicio : Localidad de
 
-por una intensidad de
+La Higuera,
 
-campo mayor o igual
+Región de
 
-que 54 dB (µV/m), referida
+Coquimbo.
 
-al punto de emisión
+Superficie
+
+delimitada
+
+por una
+
+intensidad
+
+de campo
+
+mayor o
+
+igual que
+
+54 dB
+
+(µV/m),
+
+referida
+
+al punto
+
+de emisión
 
 de la señal.
 
@@ -94,11 +116,17 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Diagrama de Radiación : Direccional.
 
-- Ganancia : 8,01 dBd de ganancia máxima.
+- Ganancia : 8,01 dBd de
+
+ganancia
+
+máxima.
 
 - Polarización : Vertical.
 
-- Tipo de antenas : Yagi de 2 elementos.
+- Tipo de antenas : Yagi de 2
+
+elementos.
 
 - Nº Antenas : 2.
 
@@ -106,21 +134,33 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 radicación
 
-- Restricción : La altura del terreno sobre
+- Restricción : La altura
 
-el nivel del mar, donde
+del terreno
 
-se ubicará el sistema
+sobre el
 
-radiante, no debe ser
+nivel del
 
-mayor a 650 m.
+mar, donde
+
+se ubicará
+
+el sistema
+
+radiante,
+
+no debe
+
+ser mayor
+
+a 650 m.
 
 - Arreglo de antenas de acuerdo a la siguiente tabla:
 
-- Largo de cable alimentador :20,5 m.
+- Largo de cable alimentador : 20,5 m.
 
-- Pérdidas en cables, :0,8 dB.
+- Pérdidas en cables, : 0,8 dB.
 
 conectores y otros
 
@@ -128,15 +168,25 @@ conectores y otros
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio, : Avda. La Paz s/nº, comuna
+- Ubicación del Estudio, : Avda. La Paz
 
-Planta Transmisora y de La Higuera, Región
+Planta Transmisora y s/nº, comuna
 
-Sistema Radiante de Coquimbo.
+Sistema Radiante de La Higuera,
 
-- Coordenadas Geográficas : 29º 30' 37" Latitud Sur.
+Región de
 
-71º 12' 02" Longitud Oeste.
+Coquimbo.
+
+- Coordenadas Geográficas : 29º 30' 30"
+
+Latitud Sur;
+
+71º 11' 57"
+
+Longitud
+
+Oeste
 
 Datum WGS84.
 
