@@ -1724,7 +1724,7 @@ La disposición y capacidad de los edificios, equipos, estructuras y otros eleme
 
 25.1 Descripción General de la Obra
 
-El proyecto consiste en la construcción de una nueva S/E en un radio de 1,5 km desde el actual Tap Metrenco 66 kV, con un patio de 220 kV, en configuración interruptor y medio, que permita seccionar la línea 2x220 kV Cautín – Ciruelos y un patio de 66 kV, en configuración doble barra más transferencia, que seccione la línea 2x66 kV Temuco – Loncoche. Ambos patios serán conectados a través de la instalación de dos nuevos transformadores de 220/66 kV de capacidad de 60 MVA, los que no podrán compartir la misma diagonal. En el patio de 220 kV se deberá dejar espacio para al menos dos diagonales completas y en el patio de 66 kV se deberá dejar espacio para al menos cinco paños.
+El proyecto consiste en la construcción de una nueva S/E en un radio de 3 kms desde el cruce de las líneas 2x220 kV Cautín - Ciruelos y 2x66 kV Temuco - Loncoche, con un patio de 220 kV, en configuración interruptor y medio, que permita seccionar la línea 2x220 kV Cautín – Ciruelos y un patio de 66 kV, en configuración doble barra más transferencia, que seccione la línea 2x66 kV Temuco – Loncoche. Ambos patios serán conectados a través de la instalación de dos nuevos transformadores de 220/66 kV de capacidad de 60 MVA, los que no podrán compartir la misma diagonal. En el patio de 220 kV se deberá dejar espacio para al menos dos diagonales completas y en el patio de 66 kV se deberá dejar espacio para al menos cinco paños.
 
 Para el correcto diseño de la subestación se deben considerar las siguientes capacidades por barra:
 
@@ -1742,7 +1742,7 @@ Asimismo, respecto a la coordinación de las obras, será responsabilidad de los
 
 25.2 Ubicación de la Obra
 
-La nueva Subestación Nueva Metrenco deberá quedar ubicada en un radio de 1,5 km desde el actual Tap Metrenco en 66 kV, al sur de la ciudad de Temuco. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor ubicación que satisfaga los requerimientos del proyecto.
+La nueva Subestación Nueva Metrenco deberá quedar ubicada en un radio de 3 kms desde el cruce de las líneas 2x220 kV Cautín - Ciruelos y 2x66 kV Temuco - Loncoche, al sur de la ciudad de Temuco. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor ubicación que satisfaga los requerimientos del proyecto.
 
 25.3 Características Técnicas Mínimas del Seccionamiento de Línea de 2x220 kV y 2x66 kV
 
@@ -1874,7 +1874,7 @@ La disposición y capacidad de los edificios, equipos, estructuras y otros eleme
 
 27.1 Descripción General de la Obra
 
-El proyecto consiste en la construcción de una nueva línea 2x66 kV, de aproximadamente 30 km de extensión, entre la S/E Nueva Metrenco y la Nueva S/E Enlace Imperial, con una capacidad de, a lo menos, 52 MVA por circuito, a 35° C con sol.
+El proyecto consiste en la construcción de una nueva línea 2x66 kV, de aproximadamente 40 km de extensión, entre la S/E Nueva Metrenco y la Nueva S/E Enlace Imperial, con una capacidad de, a lo menos, 52 MVA por circuito, a 35° C con sol.
 
 El proyecto incluye los respectivos paños de línea en las subestaciones mencionadas, como también todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio, tales como comunicaciones, teleprotecciones, SCADA, obras civiles, montaje, pruebas de los nuevos equipos, adecuaciones en el patio de media tensión, entre otras.
 
@@ -1886,7 +1886,7 @@ Asimismo, respecto a la coordinación de las obras, será responsabilidad de los
 
 27.2 Ubicación de la Obra
 
-La Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial se encuentra ubicada en su totalidad en la Región de la Araucanía y comienza su recorrido en la comuna de Padre Las Casas para terminar su trazado en la comuna de Nueva Imperial. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor opción de trazado que satisfaga los requerimientos del proyecto.
+La Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial se encuentra ubicada en su totalidad en la Región de la Araucanía y comienza su recorrido en la comuna de Freire para terminar su trazado en la comuna de Nueva Imperial. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor opción de trazado que satisfaga los requerimientos del proyecto.
 
 27.3 Características Técnicas Mínimas de la Línea
 
@@ -2133,6 +2133,12 @@ b) Nueva Línea 2x220 Nueva Nirivilo - Nueva Cauquenes: Corresponde a un 18,321%
 c) Nueva Línea 2x220 Nueva Cauquenes - Dichato: Corresponde a un 34,656% del V.A.T.T. con que el proyecto fue adjudicado.
 
 d) Nueva Línea 2x220 Dichato - Hualqui: Corresponde a un 20,420% del V.A.T.T. con que el proyecto fue adjudicado.
+
+> **Nota.** La letra a. del artículo primero del decreto 6T, Energía, publicado el 11.08.2022, modifica el plazo constructivo de la Obra Nueva S/E Pueblo Seco 154 kV, establecido en el imperativo 1º, en el sentido de prorrogar en 27 días corridos el plazo previsto para su cumplimiento.
+
+> **Nota.** NOTA 1 La letra b. del artículo primero del decreto 6T, Energía, publicado el 11.08.2022, modifica el plazo de cumplimiento del Hito Relevante Nº 5, establecido en el numeral 1 del imperativo 5º, en el sentido de prorrogar en 27 días corridos el plazo previsto para su cumplimiento, de forma tal que en definitiva éste deberá cumplirse a más tardar el 27 de septiembre de 2021.
+
+> **Nota.** NOTA 2 El número 2° del Decreto 5, Energía, publicado el 28.10.2022, modifica el resuelvo 5° de la presente norma, en el sentido de señalar que los plazos de cumplimiento de los Hitos Relevantes indicados en dicho resuelvo, para las obras S/E Nueva Metrenco 220/66 kV y Línea 2x66 kV Nueva Metrenco - Enlace Imperial, como asimismo, respecto a las mismas obras mencionadas, los plazos constructivos señalados en la tabla del resuelvo 1° del presente Decreto, se contabilizarán desde la publicación del citado decreto en el Diario Oficial.
 
 Anótese, tómese razón y publíquese. - Por orden del Presidente de la República, Ricardo Irarrázabal Sánchez, Ministro de Energía (S).
 
