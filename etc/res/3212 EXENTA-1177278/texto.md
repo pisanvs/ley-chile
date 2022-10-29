@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1. Fíjanse las siguientes exigencias sanitarias para la internación a Chile de productos cárnicos procesados, entendiéndose por tales los productos elaborados en base a carne de bovinos, ovinos, caprinos, porcinos y aves, o sus mezclas:
+1. Fíjanse las siguientes exigencias sanitarias para la internación a Chile de productos cárnicos procesados, entendiéndose por tales los productos elaborados en base a carne de bovinos, ovinos, caprinos, porcinos y aves, o sus mezclas, encontrándose solos o contenidos en un plato preparado:
 
 1) Para efectos de la presente resolución, se distinguirán 4 categorías de productos cárnicos procesados, de acuerdo al tipo de procesamiento:
 
