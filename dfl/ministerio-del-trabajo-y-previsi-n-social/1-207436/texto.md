@@ -2622,6 +2622,14 @@ Las donaciones establecidas en la letra b) de este artículo deberán sujetarse 
 
 Las empresas que ejecuten alguna de las medidas señaladas en las letras a) y b) de este artículo deberán remitir una comunicación electrónica a la Dirección del Trabajo, con copia a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social, al Servicio Nacional de la Discapacidad y al Servicio de Impuestos Internos. La empresa deberá indicar en esta comunicación la razón invocada y la medida adoptada. Esta comunicación deberá ser efectuada durante el mes de enero de cada año y tendrá una vigencia de doce meses.
 
+#### Artículo 157 quáter
+
+Al menos uno de los trabajadores que se desempeñe en funciones relacionadas con recursos humanos dentro de las empresas contempladas en el supuesto del artículo 157 bis deberá contar con conocimientos específicos en materias que fomenten la inclusión laboral de las personas con discapacidad. Se entenderá que tienen estos conocimientos los trabajadores que cuenten con una certificación al respecto, otorgada por el Sistema Nacional de Certificación de Competencias Laborales establecido en la ley N° 20.267.
+
+Las empresas señaladas en el inciso anterior deberán promover en su interior políticas en materias de inclusión, las que serán informadas anualmente a la Dirección del Trabajo, de conformidad al reglamento a que se refiere el inciso final del artículo 157 bis. También deberán elaborar y ejecutar anualmente programas de capacitación de su personal, con el objeto de otorgarles herramientas para una efectiva inclusión laboral dentro de la empresa.
+
+Las actividades realizadas durante la jornada de trabajo o fuera de ella deberán considerar las normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad a que se refiere la ley N° 20.422, como también los principios generales contenidos en las demás normas vigentes sobre la materia.
+
 #### Artículo 154
 
 El reglamento interno deberá contener, a lo menos, las siguientes disposiciones:
