@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.856, de fecha 17 de octubre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote PA-3, correspondiente al inmueble ubicado en Pajaritos 153, Rol de Avalúo 301-94, de la comuna de Peñaflor, Región Metropolitana, de aparente dominio de Chacón Ríos José Miguel y otros, con una superficie aproximada de 1.251,23 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Constanza González Vergara, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil, y Andrés Schulz Villanueva, Arquitecto, mediante Informe de fecha 2 de agosto de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $80.522.742.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
