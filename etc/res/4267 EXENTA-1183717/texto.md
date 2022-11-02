@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.267, de fecha 24/10/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 38/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Pitrantu, entre Av. Pedro de Valdivia y Yaupi, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Propiedad consistente en un retazo de una superficie de 5.000 metros cuadrados, resultante de la subdivisión de un predio mayor, ubicado en Coihueco, comuna de Temuco", Rol de avalúo: 5040-30, comuna de Temuco. La superficie a expropiar aproximada es de 331,86 metros cuadrados, de aparente dominio de Empresa de Transportes de Pasajeros Línea Nueve S.A. Comisión de Peritos integrada por Constanza Victoria Hilda Mihoevic González, Claudio Alejandro Romo Sanhueza y Fernando Felipe Diez Raash, fijó monto de indemnización provisional en $72.537.815 según Informe N° 01-0A, de fecha 13.10.2022, pagadero contado.-
+
+Director Serviu, Región de la Araucanía.
