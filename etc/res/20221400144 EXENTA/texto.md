@@ -1,0 +1,11 @@
+PUBLICA RESOLUCIÓN QUE SE INDICA
+
+De conformidad con lo resuelto por el Ilustre Tercer Tribunal Ambiental, en sentencia de fecha 1 de agosto de 2022, dictada en autos sobre recurso de reclamación Rol N° 38-2020, que deja sin efecto la resolución exenta N° 54, de fecha 11 de septiembre de 2020, de la Comisión de Evaluación de la Región de Los Ríos y ordena la apertura de un procedimiento de participación ciudadana respecto de la Declaración de Impacto Ambiental (DIA) del proyecto denominado "Brisas de Torobayo", se comunica que, mediante la resolución exenta N° 20221400144, de fecha 19 de octubre de 2022, la Comisión de Evaluación de la Región de Los Ríos ha resuelto dar inicio a un proceso de participación ciudadana en el procedimiento de evaluación ambiental de la DIA del citado proyecto, cuyo titular es Galilea S.A. de Ingeniería y Construcción, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300.
+
+El proyecto Brisas de Torobayo es un proyecto inmobiliario que considera un total de 411 unidades habitacionales junto con su respectiva urbanización (agua potable particular, sistema de aguas servidas con descarga en el Río Valdivia, proyecto de aguas lluvias y habilitación de áreas verdes), con una superficie de 14,9 hectáreas, una fase de construcción de 6 años (70 viviendas por año), y se encuentra ubicado en el sector de Torobayo, comuna de Valdivia.
+
+Cualquier persona, natural o jurídica, podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012, en relación con los artículos 90 y 91 del mismo cuerpo reglamentario, y tendrá un plazo legal de 20 días hábiles para efectuarlas ante el Servicio de Evaluación Ambiental, a partir de la publicación del presente extracto en el Diario Oficial.
+
+El texto íntegro de la resolución exenta N° 20221400144 se encuentra disponible en el sitio web www.sea.gob.cl, o accediendo al siguiente link: https://bit.ly/3s9FMHx. Asimismo, podrá acceder a la indicada resolución acudiendo a las oficinas de la Dirección Regional del SEA de la Región de Los Ríos, ubicadas en Baquedano N° 625, Valdivia.-
+
+Karina Bastidas Torlaschi, Directora Regional, Servicio de Evaluación Ambiental Región de Los Ríos.
