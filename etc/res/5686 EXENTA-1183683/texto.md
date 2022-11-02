@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE BULNES
+
+El Servicio Agrícola y Ganadero, mediante resolución exenta SAG N° 5.686, de 4 de octubre de 2022, aclara y complementa resolución exenta SAG N° 2.903 de fecha 13 de mayo de 2021, que aclara y complementa resolución exenta SAG N° 816 de 29 de mayo de 1989, que revoca resolución exenta SAG N° 1.045 de 30 de abril de 1981 y aprueba Estudio Técnico de División de Derechos de Aprovechamiento de Aguas del predio "Milahue Oriente" y del Resto del Proyecto de Parcelación "Milahue" de la comuna de Bulnes, Provincia de Ñuble (hoy de Diguillín), Octava Región (hoy del Ñuble), en el sentido de señalar que la equivalencia de 1 regador del Canal Zañartu Poniente, es de 15,1 lts/seg; establecer que extrae sus aguas del álveo Río Diguillín, cuya bocatoma se encuentra en la Provincia de Diguillín y que, los derechos de aprovechamiento de aguas, son consuntivos, de ejercicio permanente y continuo, de naturaleza superficial y corrientes y su modo de captación es gravitacional.
+
+Publicación conforme al artículo 13° Ley N° 18.377.- Directora Nacional (S).
