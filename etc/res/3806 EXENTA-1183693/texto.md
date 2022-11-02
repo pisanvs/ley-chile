@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.806, de fecha 17 de octubre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote PA-2, correspondiente al inmueble ubicado en Coop. Malloco PC 3 LT 2, Rol de Avalúo 301-93, de la comuna de Peñaflor, Región Metropolitana, de aparente dominio de González Lasseube Jeannette Paol, con una superficie aproximada de 1.776,44 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Constanza González Vergara, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil, y Andrés Schulz Villanueva, Arquitecto, mediante Informe de fecha 2 de agosto de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $70.818.386.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
