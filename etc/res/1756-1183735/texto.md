@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 1.756, de fecha 21 de octubre de 2022, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 14e para la ejecución Proyecto "Interconexión Vial Alerce-Puerto Montt/Tramo Senda Central-Avda. Austral", comuna de Puerto Montt, que figura a nombre de Agropecuaria Los Coipos Ltda. y otra, rol de avalúo según SII N° 2216-17, comuna de Puerto Montt, superficie 485,34 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Juan Samuel Barrientos Bahamonde designados por resolución exenta N° 1.426, de 16 de agosto de 2021, fijó con fecha 1 de octubre de 2021, el valor provisional de la indemnización en la suma de $2.669.370. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.-
+
+Director Regional, Serviu Región de Los Lagos.
