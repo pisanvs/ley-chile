@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.764, de fecha 7 de octubre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote LC-5, correspondiente al inmueble ubicado en Los Carrera 509, Rol de Avalúo 133-50, de la comuna de El Monte, Región Metropolitana, de aparente dominio de Escobar Morales Florencio, con una superficie aproximada de 626,94 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Marlene Ríos Marcuello, Ingeniero Agrónomo; Norman Calderón Pontiggia, Ingeniero Agrónomo; y Claudia Marzullo García, Arquitecto; mediante Informe de fecha 8 de julio del 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $190.632.540.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
