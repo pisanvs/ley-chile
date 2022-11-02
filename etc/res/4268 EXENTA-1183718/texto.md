@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.268, de fecha 24/10/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 38/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Pitrantu, entre Av. Pedro de Valdivia y Yaupi, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Calle Pitrantu, sector Pedro de Valdivia", Rol de avalúo: sin rol, comuna de Temuco. La superficie a expropiar aproximada es de 7,12 metros cuadrados, de aparente dominio de Fisco de Chile. Comisión de Peritos integrada por Constanza Victoria Hilda Mihoevic González, Claudio Alejandro Romo Sanhueza y Fernando Felipe Diez Raash, fijó monto de indemnización provisional en $2.970.426 según Informe N° 02-1A, de fecha 13.10.2022, pagadero contado.-
+
+Director Serviu, Región de la Araucanía.
