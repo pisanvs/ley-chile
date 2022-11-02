@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.812, de fecha 17 de octubre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote LU-1, correspondiente al inmueble ubicado en Lucas Pacheco 528, Rol de Avalúo 82-39, de la comuna de Talagante, Región Metropolitana, de aparente dominio de Inversiones La Pinta Limitada y otros, con una superficie aproximada de 4.705,81 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Marlene Ríos Marcuello, Ingeniero Agrónomo; Norman Calderón Pontiggia, Ingeniero Agrónomo, y Claudia Marzullo García, Arquitecto, mediante Informe de fecha 8 de julio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $699.498.370.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Directora Serviu Metropolitano.
