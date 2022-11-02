@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.760, de fecha 7 de octubre de 2022, se ordenó la expropiación, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote LC-9, correspondiente al inmueble ubicado en Av. Los Carrera 580, Rol de Avalúo 134-79, de la comuna de El Monte, Región Metropolitana, de aparente dominio de Álvarez Juan Carlos, con una superficie aproximada de 1.100,00 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del proyecto denominado "Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda Melipilla". La Comisión de Peritos integrada por Marlene Ríos Marcuello, Ingeniero Agrónomo; Norman Calderón Pontiggia, Ingeniero Agrónomo; y Claudia Marzullo García, Arquitecto; mediante informe de fecha 8 de julio de 2022, fijó la indemnización provisional por causa de la referida expropiación en la suma de $233.523.250.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.-
+
+Directora Serviu Metropolitano.
