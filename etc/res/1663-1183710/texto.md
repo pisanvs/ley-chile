@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.663, de fecha 15 de septiembre de 2022, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Construcción Parque Urbano Cerro Grande I Etapa, La Serena", conforme al artículo 51 Ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 341, en plano de expropiación, ubicado en Cerro Grande LT 3 ST 341 Cerro Grande, comuna de La Serena, Rol de Avalúo Nº 2669-341, de aparente dominio de Tomás Ignacio Nass Worthington, superficie Aprox. de 136,61 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Jaime Jurgens Bittner y Eduardo Tabilo González, según informe de fecha 8 de septiembre de 2022, fijó indemnización provisional en 163,93 UF.-, pagadero al contado.-
+
+Verónica Ibacache Parraguez, Directora (S) Serviu Región de Coquimbo.
