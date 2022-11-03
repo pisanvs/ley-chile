@@ -38,7 +38,7 @@ Resolución:
 
 1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado, en las regiones, provincias y/o comunas que se indican en el siguiente resuelvo. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 30 de agosto, 27 de octubre y 15 de diciembre, todos de 2022, o hasta agotar la totalidad de los recursos dispuestos para cada región, provincia o comuna convocada, según corresponda.
 
-Para participar de cada cierre, además de contar con el Certificado de Calificación respectivo, se requerirá haber ingresado el proyecto al Serviu, a lo menos 30 días hábiles antes de cada fecha indicada en el inciso anterior, lo que constará en el respectivo Certificado de Proyecto Ingresado.
+Para participar de cada cierre, además de contar con el Certificado de Calificación respectivo, se requerirá haber ingresado el proyecto al Serviu, a lo menos 20 días hábiles antes de cada fecha indicada en el inciso anterior, lo que constará en el respectivo Certificado de Proyecto Ingresado.
 
 2. Los recursos involucrados para la selección de postulantes, por agrupación de provincias, son los siguientes:
 
@@ -78,7 +78,13 @@ Con todo, para la obtención del Certificado de Calificación del proyecto, debe
 
 5.1. Establécese, que el monto de subsidio base para los proyectos que participen del presente llamado, será de 490 Unidades de Fomento, al que se le aplicará el factor multiplicador definido en la resolución exenta Nº 1.874 (V. y U.), de 2015, según la comuna donde se ubique el proyecto.
 
-Al subsidio base podrá adicionarse un monto de hasta 10 Unidades de Fomento por familia correspondientes al costo del permiso de edificación, incluyendo los aportes al espacio público producto de la aplicación de la Ley Nº 20.958, que Establece un Sistema de Aportes al Espacio Público, aun cuando la postulación se hiciere contando con anteproyecto o con solicitud de ingreso a la Dirección de Obras Municipales. Una vez seleccionado el proyecto, el Director del Serviu respectivo, mediante resolución, sancionará el monto efectivo final de este incremento, pudiendo otorgar anticipos a cuenta del pago del subsidio por este concepto, para levantar la condicionalidad, contra la presentación de la orden de ingreso o documento emitido por el municipio para el pago del permiso de edificación y mandato al Serviu para que éste transfiera en forma directa al municipio respectivo.
+Al subsidio base podrá adicionarse un monto de hasta 5 Unidades de Fomento por familia correspondientes al costo del permiso de edificación, incluyendo los aportes al espacio público producto de la aplicación de la Ley N° 20.958, que Establece un Sistema de Aportes al Espacio Público, aun cuando la postulación se hiciere contando con anteproyecto o con solicitud de ingreso a la Dirección de Obras Municipales. Para esto se deberá considerar lo siguiente:
+
+i. El monto deberá ser incorporado en el presupuesto financiado, e ingresado en el módulo informático del sistema Umbral, sumándolo al subsidio base.
+
+ii. Una vez seleccionado el proyecto, el Director del Serviu, mediante resolución, sancionará el monto efectivo final de este incremento, pudiendo otorgar anticipos a cuenta del pago del subsidio por este concepto, para levantar la condicionalidad, contra la presentación de la orden de ingreso o documento emitido por el municipio para el pago del permiso de edificación, y el mandato al Serviu para que éste transfiera en forma directa al municipio respectivo, o para ser reembolsado directamente contra la boleta que acredite el gasto realizado.
+
+iii. Estos montos no deberán ser considerados en el contrato de construcción del proyecto.
 
 Los proyectos que se emplacen en zonas donde se encuentren vigentes Planes de Descontaminación Atmosférica del Ministerio del Medio Ambiente, así como aquellos donde las exigencias de estos para viviendas nuevas comiencen a regir en fecha posterior a su calificación, pero dentro del año del presente llamado, podrán incrementar su subsidio base en hasta 80 Unidades de Fomento, cuando requieran un mayor financiamiento para la ejecución de las indicaciones del referido plan o, en caso que esto no ocurra, cuando apliquen las normas que dicte este Ministerio para dicho efecto, las que estarán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, en la sección Fechas de Postulaciones. A su vez, aquellos proyectos que se desarrollan en áreas declaradas latentes o saturadas y que deban ingresar al Sistema de Evaluación de Impacto Ambiental, conforme lo establece el DS Nº 40, del Ministerio del Medio Ambiente, del año 2013, podrán optar a 40 UF adicionales para la ejecución de las exigencias resultantes de esa evaluación, destinadas a mitigar la emisión de material particulado.
 
@@ -94,13 +100,7 @@ Dentro del presupuesto de habilitación podrá considerarse un monto estimado pa
 
 Además de las obras señaladas en el inciso primero de la letra h) del artículo 35, del DS Nº 49 (V. y U.), de 2011, con el Subsidio de Habilitación podrán financiarse obras de urbanización del conjunto, obras de estacionamientos subterráneos, refuerzos estructurales respecto de predios vecinos, obras exigibles al proyecto producto del procedimiento de evaluación o declaración de impacto ambiental, de impacto sobre el transporte urbano, de mitigación para la reducción de riesgos y desastres, de ductos de telecomunicaciones y sistemas de acumulación e impulsión de agua potable.
 
-Tratándose de proyectos que se desarrollen en terrenos de propiedad del Serviu, en los casos en que el monto del Subsidio de Habilitación establecido en la letra
-
-- **h)** del artículo 35 del DS Nº 49 (V. y U.), de 2011, resulte insuficiente para financiar la habilitación del terreno, con cargo al marco de recursos establecido en la glosa presupuestaria a que se refiere el Visto
-
-- **b)** de esta resolución, se podrá autorizar el ingreso y la calificación de proyectos que consideren montos superiores en este ítem, contando con los respaldos técnicos y presupuestarios exigidos en el reglamento. Para la calificación del proyecto el Serviu deberá formular una solicitud de montos superiores para la habilitación del terreno, la cual será evaluada por este Ministerio a través de la División Técnica de Estudio y Fomento Habitacional, la que emitirá un Ordinario que contenga la recomendación respectiva. Esta facultad será incompatible con el aumento del monto dispuesto en el inciso final de la letra
-
-- **h)** mencionada.
+En los casos en que el monto del Subsidio de Habilitación establecido en este Resuelvo, resulte insuficiente para financiar las obras señaladas, con cargo al marco de recursos establecido en la glosa presupuestaria a que se refiere el Visto b) de esta resolución, se podrá autorizar el ingreso y la calificación de proyectos que consideren montos superiores en este ítem, contando con los respaldos técnicos y presupuestarios exigidos en el reglamento. Para la calificación del proyecto el Serviu deberá formular una solicitud de montos superiores para la habilitación del terreno, la cual será evaluada por este Ministerio a través de la División Técnica de Estudio y Fomento Habitacional, la que emitirá un Ordinario que contenga la recomendación respectiva. Esta facultad será incompatible con el aumento del monto dispuesto en el inciso final de la letra h) mencionada.
 
 Con todo, y para aplicar la facultad dispuesta en el párrafo anterior, y asignar montos superiores a los establecidos en la letra h) del artículo 35 del DS Nº 49 (V. y U.), de 2011, el terreno donde se emplace el proyecto deberá cumplir con los criterios mencionados en la letra a), del artículo antes citado, referido a sus condiciones de localización.
 
@@ -110,7 +110,15 @@ Con todo, y para aplicar la facultad dispuesta en el párrafo anterior, y asigna
 
 5.7. El subsidio complementario de Equipamiento y Espacio Público al que hace referencia la letra g), del artículo 35 del DS Nº 49 (V. y U.), de 2011, podrá financiar la implementación de obras de equipamiento, entorno urbano y/o áreas verdes asociadas a partidas que consideren en su diseño, los criterios de pertinencia dispuestos en el resuelvo 6, de la presente resolución. En los casos, el monto podrá ascender hasta 50 Unidades de Fomento.
 
-Adicionalmente a lo dispuesto en la letra g), del artículo 35 del DS Nº 49 (V. y U.), de 2011, y posterior a la selección del proyecto, podrá considerarse dentro del Subsidio para Equipamiento y Espacio Público, para el financiamiento de las obras correspondientes a mitigaciones directas producto de la aplicación de la Ley Nº 20.958, que Establece un Sistema de Aportes al Espacio Público, cuando al ingreso al Serviu no se hayan considerado los respectivos Informes de Mitigación de Impacto Vial, un monto que no podrá superar las 5 Unidades de Fomento por familia, el que deberá ser sancionado por el Director del Serviu mediante resolución, en forma previa al inicio de las obras.
+Adicionalmente a lo dispuesto en la letra g), del artículo 35 del DS N° 49 (V. y U.), de 2011, podrá considerarse dentro del Subsidio para Equipamiento y Espacio Público, un monto de hasta 10 Unidades de Fomento por familia, para el financiamiento de las obras correspondientes a mitigaciones directas producto de la aplicación de la Ley N° 20.958, que Establece un Sistema de Aportes al Espacio Público. Cuando al ingreso al Serviu no se hayan considerado las obras asociadas en el Informe de Mitigación de Impacto Vial, en el proyecto deberá procederse de la siguiente manera:
+
+i. Una vez calificado el proyecto, y según las fechas de cierre de cada proceso de selección, Serviu informará a la División de Política Habitacional los proyectos que requerirán dicho incremento.
+
+ii. Si el proyecto resultase seleccionado con calificación condicional, producto del ingreso con anteproyecto, se considerará un monto de 5 Unidades de Fomento promedio por familia para efectos de imputación.
+
+iii. Posterior a la selección, y una vez obtenida la calificación definitiva, mediante resolución del Director del Serviu, se sancionará el monto de este incremento, el que deberá ser incorporado en el presupuesto detallado, e ingresado en el módulo informático del sistema Umbral, sumándolo al subsidio base.
+
+iv. Excepcionalmente, si el costo de las obras asociadas al Informe de Mitigación de Impacto Vial, supera los montos dispuestos en el presente Resuelvo, el Director del Serviu podrá autorizar la calificación definitiva de estos proyectos, contando con los respaldos técnicos y presupuestarios exigidos en el reglamento, siempre que no se superen las 20 Unidades de Fomento por vivienda, en total.
 
 Para efectos de imputación, se considerará un monto de 2,5 Unidades de Fomento promedio por familia, a los proyectos que se acojan a este financiamiento.
 
@@ -198,7 +206,19 @@ Por otro lado, en el evento de ser necesaria la entrega de la garantía que disp
 
 10. Establécese, respecto de lo dispuesto en el artículo 69 del DS Nº 49 (V. y U.), de 2011, referido al pago de anticipos para la construcción, que no procederá la deducción del 5% ahí referido, y por consiguiente, respecto a lo señalado en el artículo 70 de la citada normativa, el contratista podrá solicitar el pago de hasta el 100% del monto de los subsidios, una vez recepcionadas las viviendas por parte del Serviu y de la Dirección de Obras Municipales respectiva.
 
-11. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
+11. Las familias que sean integrantes de los proyectos beneficiados por el presente llamado podrán ejecutar sus proyectos en base a las definiciones, alcances, criterios y denominaciones dispuestas en el Oficio Ordinario N° 1.059, de la División Técnica de Estudio y Fomento Habitacional, de fecha 16 de junio de 2022, que establece el protocolo de fiscalización técnica de obras para proyectos habitacionales industrializados, así como en las aclaraciones o complementos que emita la División Técnica de Estudios y Fomento Habitacional del Minvu respecto de las indicaciones presentadas en dicho oficio.
+
+En los casos que así lo requieran, y en base a lo dispuesto en el artículo 69 del DS N° 49 (V. y U.), de 2011, el Serviu podrá autorizar el pago de anticipos para la construcción, directamente al fabricante de el o los elementos industrializados, en base a las siguientes condiciones:
+
+a. El monto del anticipo podrá ser hasta un 50% del monto total de la o las partidas determinadas para la fabricación de las viviendas, el que se entregará directamente al mencionado fabricante, con cargo a los subsidios otorgados al respectivo proyecto.
+
+b. El anticipo se podrá pagar si el proyecto cuenta con la calificación definitiva, si se encuentra en condiciones de iniciar de obras, si así corresponde a la etapa a ejecutar, y cuando se encuentre aprobado el respectivo permiso de edificación.
+
+c. Este anticipo será caucionado a través del instrumento de garantía para la o las partidas de construcción industrializada, ya sea mediante una boleta de garantía, póliza de garantía de ejecución inmediata o certificado de fianza, de acuerdo a lo establecido por el Serviu.
+
+d. El saldo restante podrá ser girado al fabricante una vez recepcionadas en obra a conformidad del Serviu, los insumos y materiales correspondientes a las partidas industrializadas, pudiendo además devolverse las garantías señaladas.
+
+12. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 

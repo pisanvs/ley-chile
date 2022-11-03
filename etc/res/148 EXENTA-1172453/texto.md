@@ -250,7 +250,19 @@ También se podrán efectuar giros anticipados a cuenta del pago del subsidio pa
 
 Con todo, completado el 100% de las obras y habiendo sido éstas recepcionadas por el Serviu, se podrá hacer devolución de la boleta de garantía para el pago de anticipos de construcción o el instrumento de caución que corresponda, mencionada en el artículo 71 de la normativa.
 
-12. Mediante resolución del Ministro de Vivienda y Urbanismo, cuyo extracto se publicará en el Diario Oficial, se aprobarán las nóminas de proyectos seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu o del Serviu, durante los 15 días posteriores a la publicación de dicha resolución.
+12. Las familias que sean integrantes de los proyectos beneficiados por el presente llamado podrán ejecutar sus proyectos en base a las definiciones, alcances, criterios y denominaciones dispuestas en el oficio ordinario N° 1.059, de la División Técnica de Estudio y Fomento Habitacional, de fecha 16 de junio de 2022, que establece protocolo de fiscalización técnica de obras para proyectos habitacionales industrializados, así como en las aclaraciones o complementos que emita la División Técnica de Estudios y Fomento Habitacional del Minvu respecto de las indicaciones presentadas en dicho oficio.
+
+En los casos que así lo requieran, y en base a lo dispuesto en el artículo 69 del DS N° 49 (V. y U.), de 2011, el Serviu podrá autorizar el pago de anticipos para la construcción, directamente al fabricante de el o los elementos industrializados, en base a las siguientes condiciones:
+
+a. El monto del anticipo podrá ser hasta un 50% del monto total de la o las partidas determinadas para la fabricación de las viviendas, el que se entregará directamente al mencionado fabricante, con cargo a los subsidios otorgados al respectivo proyecto.
+
+b. El anticipo se podrá pagar si el proyecto cuenta con la calificación definitiva, si se encuentra en condiciones de iniciar de obras, si así corresponde a la etapa a ejecutar, y cuando se encuentre aprobado el respectivo permiso de edificación.
+
+c. Este anticipo será caucionado a través del instrumento de garantía para la o las partidas de construcción industrializada, ya sea mediante una boleta de garantía, póliza de garantía de ejecución inmediata o certificado de fianza, de acuerdo a lo establecido por el Serviu.
+
+d. El saldo restante podrá ser girado al fabricante una vez recepcionadas en obra a conformidad del Serviu, los insumos y materiales correspondientes a las partidas industrializadas, pudiendo además devolverse las garantías señaladas.
+
+13. Mediante resolución del Ministro de Vivienda y Urbanismo, cuyo extracto se publicará en el Diario Oficial, se aprobarán las nóminas de proyectos seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu o del Serviu, durante los 15 días posteriores a la publicación de dicha resolución.
 
 Anótese, publíquese y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo (S).
 
