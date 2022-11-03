@@ -830,9 +830,13 @@ Tabla 22. Límite máximo de emisión de MP y eficiencia para caldera nueva meno
 
 Las calderas nuevas deberán cumplir con las exigencias establecidas en la presente disposición, desde la fecha de inicio de su operación.
 
-Para acreditar el cumplimento de la presente disposición, el propietario de la caldera deberá presentar a la Superintendencia del Medio Ambiente, por única vez, al momento de realizar su registro, un certificado de origen del fabricante, que indique que la caldera cumple con lo exigido en la Tabla Nº 22.
+Para acreditar el cumplimento de la presente disposición, el propietario de la caldera deberá presentar a la Superintendencia del Medio Ambiente, por única vez, un certificado de origen del fabricante, que indique que la caldera cumple con lo exigido en la Tabla Nº 22.
 
 Se eximen de presentar dicho certificado las calderas nuevas que usanexclusivamente y en forma permanente un combustible gaseoso.
+
+La Superintendencia del Medio Ambiente verificará si se da cumplimiento a dichas exigencias.
+
+El plazo otorgado para presentar el certificado a la Superintendencia del Medio Ambiente será de 1 mes a contar de la entrega del número de registro de caldera otorgado por la Secretaría Regional Ministerial de Salud o de 3 meses desde la compra de la caldera de uso domiciliario.
 
 #### Artículo 37
 

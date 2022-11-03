@@ -796,9 +796,13 @@ Las calderas nuevas, con una potencia térmica nominal menor a 75 kWt, deberán 
 
 a. Las calderas nuevas deberán cumplir con las exigencias establecidas en la presente disposición desde la fecha de inicio de su operación.
 
-b. Para demostrar el cumplimento de la presente disposición, el propietario de la caldera deberá presentar a la Superintendencia del Medio Ambiente, por única vez, al momento de realizar su registro, un certificado de origen del fabricante, que indique que la caldera cumple con lo exigido en la Tabla N° 28.
+b. Para demostrar el cumplimento de la presente disposición, el propietario de la caldera deberá presentar a la Superintendencia del Medio Ambiente, por única vez, un certificado de origen del fabricante, que indique que la caldera cumple con lo exigido en la Tabla N° 28.
 
 c. Se eximen de presentar dicho certificado las calderas nuevas que usan exclusivamente y en forma permanente un combustible gaseoso.
+
+La Superintendencia del Medio Ambiente verificará si se da cumplimiento a dichas exigencias.
+
+El plazo otorgado para presentar el certificado a la Superintendencia del Medio Ambiente será de 1 mes a contar de la entrega del número de registro de caldera otorgado por la Secretaría Regional Ministerial de Salud o de 3 meses desde la compra de la caldera de uso domiciliario.
 
 #### Artículo 41
 
