@@ -42,6 +42,8 @@ r) Teniendo presente lo prescrito en los artículos 20 letra f), 24 letra o), y 
 
 Resuelvo:
 
+> **Nota.** El Decreto 729, Municipalidad de las Condes, publicado el 28.01.2011, introdujo diversas modificaciones en la presente Ordenanza. No se ha podido incorporar esta actualización por existir diferencias en los textos de algunos de los artículos que se modifican.
+
 1° Apruebase el Plan Regulador Comunal de Las Condes, constituido por la Memoria Explicativa, el Estudio de Factibilidad, la Ordenanza Local y los PRCLC-93 láminas N°s. 1, 2 y 3, planos que expresan gráficamente las disposiciones sobre Edificación, Usos de Suelo y Vialidad.
 
 > **Nota.** El DTO 98, Vivienda y Urbanismo, publicado el 27.07.1998, modificó el presente Plan Regulador en la forma que señala.
@@ -404,13 +406,7 @@ La aprobación de proyectos de urbanización producto de los proyectos de loteo 
 
 Los antejardines mínimos no establecidos en los respectivos planos de loteos y seccionales, ni en las disposiciones que se fijan sobre esta materia para las diferentes áreas de edificación serán de 5.00 m. para calles, y de 3.00 m. para pasajes, y predios que enfrentan áreas verdes y demás bienes de uso público.
 
-Sin perjuicio de lo señalado en el inciso anterior, los proyectos que se emplacen en áreas EAa, EAm y aquellos proyectos de densificación en las áreas EAb4 y EAb4', respecto de los antejardines deberán además cumplir las siguientes condiciones:
-
-A) Aquellos terrenos con pendiente promedio inferior al 10%, deberán dar una solución tal entre los niveles del antejardín y aquellos existentes en las aceras que enfrente el proyecto, que en ningún punto se produzca una diferencia de nivel mayor a 0,60 mts.
-
-B) En proyectos de densificación de más de 3 pisos de altura destinados a vivienda, no se permite utilizar el antejardín para estacionamiento de vehículos, tanto de visita como aquellos que correspondan a los exigidos por los instrumentos de planificación vigentes. En proyectos de equipamiento, sean éstos producto de cambio de destino o de una densificación, queda prohibido el uso del antejardín como estacionamiento o para exposición de productos.
-
-C) Los proyectos que consideren en el antejardín, la ventilación de los pisos subterráneos, las cámaras y registros de todas las instalaciones propias del proyecto, deberán presentar a la Dirección de Obras Municipales para su aprobación, una solución técnica que no considere estas instalaciones sobre el nivel natural del terreno. El ducto de evacuación de gases de los grupos electrógenos no podrá situarse en el antejardín.
+Los proyectos con subsidio estatal o municipal, calificados por la Dirección de Obras Municipales como viviendas sociales, ampliación de conjuntos de viviendas sociales y/o de equipamiento municipal, no requerirán de antejardín.
 
 #### Artículo 10
 
@@ -815,6 +811,8 @@ Avda. entre deslinde predial de los terrenos
 que enfrentan por el norte Calle Renato Sánchez
 
 y Avda. Presidente Errázuriz.
+
+> **Nota.** El N° 2 de la letra B), del N° 2 del decreto 3591, M. DE LAS CONDES, publicado el 04.11.2022, modificó en la forma que indica el cuadro contenido en el presente artículo.
 
 #### Artículo 35
 
@@ -1798,6 +1796,8 @@ En el área Ee1 (Edificación Especial N°1), las edificaciones existentes al mo
 
 > **Nota.** Las letras F, G y H del artículo único del DTO 3218, M. de Las Condes, publicado el 05.12.2003, modifican el presente artículo introduciendo diversas modificaciones a las tablas y áreas indicadas en éste, las cuales no se han incorporado al presente texto actualizado por razones técnicas temporales.
 
+> **Nota.** NOTA 1 El N° 3, de la letra B), del N° 2 del decreto 3591, M. DE LAS CONDES, publicado el 04.11.2022, modificó el presente artículo en la forma que indica.
+
 #### Artículo 39
 
 El presente artículo define el listado de obras generales, que constituyen la factibilidad de infraestructura necesaria a ejecutar total o parcialmente, para posibilitar el desarrollo de proyectos que se emplacen en las áreas denominadas EAb4 y EAb4' de la presente Ordenanza y que optan a las tablas de densificación de dichas Areas.
@@ -2069,6 +2069,12 @@ Presidente Errázuriz.
 > **Nota.** El Nº 24 del DTO 3218, M. de Las Condes, publicado el 05.12.2003, modificó el presente artículo, reemplazando o agregando vías al cuadro de esta norma. Estas modificaciones no se han incorporado al presente texto actualizado por razones técnicas temporales.
 
 > **Nota.** NOTA 1 El Nº 5 del Decreto 173, Municipalidad de las Condes, publicado el 19.01.2010, modifica la presente norma en el sentido de reemplazar en el cuadro de "Vialidad Comunal" para las vías Colectoras, de Servicio y Locales, el renglón correspondiente al tramo de la Avenida Plaza, entre Avenida Camino El Alba y Avenida Carlos Peña Otaegui, por el que en dicha norma se detalla.
+
+> **Nota.** NOTA 2 El numeral 1° del Decreto 1132, M. de las Condes, publicado el 12.11.2015, modifica la presente norma en el sentido de eliminar en el cuadro de "Vialidad Comunal", la afectación a utilidad pública, de la nómina de vías y/o tramos de vías clasificadas como colectoras de servicio y locales, que la citada norma indica.
+
+> **Nota.** NOTA 3 El numeral 2° del Decreto 1132, M. de las Condes, publicado el 12.11.2015, modifica la presente norma en el sentido de rectificar error de clasificación para la Avenida Las Condes, en el tramo avenida Presidente Kennedy y Camino a Farellones nominada como vía Troncal, clasificándola como vía Expresa en concordancia con lo establecido en la Ordenanza del Plan Regulador Metropolitano de Santiago.
+
+> **Nota.** NOTA 4 Los numerales 1° y 2° del Decreto 8676, M. de las Condes, publicado el 27.12.2017, modifica la presente norma en el sentido de eliminar los cuadros correspondientes a la nómina de vías y/o tramos de vías clasificadas como colectoras de servicio y locales, contenidos en el numeral primero decreto alcaldicio Sección 1ª N° 1.132, de 24 de abril de 2015, y derogar el inciso segundo del numeral primero del decreto alcaldicio Sección 1ª N° 1.132, de 24 de abril de 2015.
 
 #### Artículo 46
 
