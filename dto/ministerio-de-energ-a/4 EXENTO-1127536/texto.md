@@ -568,11 +568,9 @@ Las descripciones de las obras nuevas es la que a continuación se indica.
 
 a. Descripción general y ubicación de la obra
 
-El proyecto consiste en la construcción de una nueva línea de transmisión 2x500 kV, entre la subestación Entre Ríos y la subestación Ciruelos, con bajada en la subestación Río Malleco, con una capacidad de 1700 MVA por circuito a 35º C con sol y sus respectivos paños de conexión en los patios de 220 kV en las subestaciones antes mencionadas.
+El proyecto consiste en la construcción de una nueva línea de transmisión 2x500 kV, entre la subestación Entre Ríos y la subestación Ciruelos, con una capacidad de 1700 MVA por circuito a 35º C con sol y sus respectivos paños de conexión en los patios de 220 kV en las subestaciones antes mencionadas.
 
-En la nueva subestación Seccionadora Río Malleco 220 kV, la nueva línea deberá conectarse en la extensión de barra y plataforma adicional, fijada mediante el decreto exento Nº 422, de 9 de agosto de 2017, del Ministerio de Energía, que fija el plan de expansión del sistema de transmisión nacional para los doce meses siguientes y en sus respectivas bases y proceso de licitación.
-
-En la subestación Ciruelos, la nueva línea deberá utilizar dos de los espacios disponibles de acuerdo a lo fijado mediante decreto exento Nº 422, de 9 de agosto de 2017, del Ministerio de Energía, que fija el plan de expansión del sistema de transmisión nacional para los doce meses siguientes y en sus respectivas bases y proceso de licitación.
+En la subestación Ciruelos, la nueva línea deberá utilizar dos de los espacios disponibles de acuerdo a lo fijado mediante decreto exento N° 422, de 9 de agosto de 2017, del Ministerio de Energía, que fija el plan de expansión del sistema de transmisión nacional para los doce meses siguientes y en sus respectivas bases y proceso de licitación.
 
 En las respectivas bases de licitación se podrán definir los requisitos mínimos que deberán cumplir las instalaciones como espacios disponibles, capacidad térmica, cable de guardia, reservas, equipamientos, acometida de línea, entre otros.
 
