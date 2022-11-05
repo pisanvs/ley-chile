@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 5.079 EXENTA, DE 25 DE OCTUBRE DE 2022
+
+Por resolución exenta N° 5.079, de 25 octubre de 2022, de la Secretaría Regional Metropolitana de Transportes y Telecomunicaciones, se prorroga hasta el 30 de noviembre de 2022, la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros de la Región Metropolitana, de taxis básicos, ejecutivos y de turismo, emitidos con fecha de vencimiento 4 de noviembre de 2022, considerándose para efectos de fiscalización y control en la vía pública y plantas revisoras de la Región Metropolitana, la nueva fecha de vigencia. Dicha prórroga es sin perjuicio de la sustitución por certificados otorgados por plazo de vigencia Perímetro de Exclusión establecido por resolución exenta N° 4.316, de 2022, del Ministerio de Transportes y Telecomunicaciones. Texto íntegro resolución extractada se publicará en sitio web www.mtt.gob.cl.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
