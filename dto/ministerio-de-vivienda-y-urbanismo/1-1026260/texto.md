@@ -930,7 +930,7 @@ Los subsidios adicionales dispuestos para personas afectadas por una discapacida
 
 f) En caso que el beneficiario del subsidio tenga al menos 24 meses de copago de renta correspondiente al Programa de Subsidio de Arriendo de Vivienda, normado por el DS N° 52 (V. y U.), de 2013, lo que será acreditado por el Minvu o el Serviu, obtendrá un subsidio adicional de 60 UF.
 
-g) En el caso de operaciones de adquisición de viviendas, el beneficiario obtendrá un subsidio adicional para el pago de los aranceles que correspondan, para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, informe de aceptabilidad e inscripción en el Conservador de Bienes Raíces, que será de hasta 15 UF para viviendas usadas y de hasta 10 UF para viviendas nuevas. Para su pago se deberán presentar las respectivas boletas o facturas en que estén señalados los recursos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
+g) En el caso de operaciones de adquisición de viviendas correspondientes al tramo 1, el beneficiario obtendrá un subsidio adicional para el pago de los aranceles que correspondan, para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, informe de aceptabilidad e inscripción en el Conservador de Bienes Raíces, que será de hasta 15 UF para viviendas usadas y de hasta 10 UF para viviendas nuevas. Para su pago se deberán presentar las respectivas boletas o facturas en que estén señalados los recursos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
 
 Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que ajuste el monto y/o fórmula de cálculo del subsidio a que se refieren las letras a.1), a.2), b) y d) del presente artículo. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo y, en general, aquellos aspectos estacionarios o permanentes que incidan en el costo local y/o regional de construcción o adquisición de la vivienda objeto de este programa.
 
@@ -941,6 +941,8 @@ El Serviu autorizará la adquisición de una vivienda de un precio mayor al del 
 a) Solicitar autorización al Serviu para aplicar el subsidio a la adquisición de una vivienda cuyo precio sea mayor al del tramo en que resultó seleccionado, acompañando una promesa de compraventa, contrato de compraventa u otro documento suscrito por las partes en que se señale el precio de la vivienda y su fuente de financiamiento, considerando el monto de subsidio, ahorro y crédito hipotecario u otros aportes.
 
 b) Acreditar ante el Serviu que cumple con el ahorro mínimo exigido para el tramo en que aplicará el subsidio, en función del precio de la vivienda.
+
+> **Nota.** La letra a) del artículo único del Decreto 35, Vivienda, publicado el 05.11.2022, dispone reemplazar en la letra b.1) del cuadro contenido en la letra b) del presente artículo, las referencias "b.2.2)" y "b.2.3)" por las letras "b.2)" y "b.3)", respectivamente.
 
 #### Artículo 65
 
@@ -1311,6 +1313,18 @@ transitorio. No obstante lo dispuesto en el inciso segundo del artículo 13 de e
 transitorio. Sin perjuicio de lo establecido en el artículo 19, letra b).b2) de este reglamento, para el primer llamado a postulación nacional a efectuarse durante el año 2011, los proyectos habitacionales en la modalidad de postulación grupal con proyecto, podrán ser presentados al momento de la postulación del grupo; y no obstante lo dispuesto en el inciso primero del artículo 50 de este reglamento, el Serviu tendrá 10 días hábiles desde su presentación para aprobarlo o rechazarlo. En caso que sea rechazado, la postulación del grupo será dejada sin efecto.
 
 No obstante lo dispuesto en el Capítulo II de este reglamento, para el primer llamado a postulación nacional a efectuarse durante el año 2011, los proyectos habitacionales que se presenten en la modalidad de postulación grupa¡ con proyecto, para el Título I y el Título II, deberán cumplir con un programa arquitectónico de a lo menos tres recintos conformados: una zona de estar-comedor-cocina, un dormitorio con cabida para una cama de dos plazas, y un baño con inodoro, lavamanos y ducha o tina; y con relación al equipamiento, cumplir como mínimo lo indicado en el artículo 13 del DS Nº 40, (V. y U.), de 2004, debiendo en todo caso presentarse a lo menos los antecedentes indicados en la letra c) del inciso tercero del artículo 48 de este reglamento.
+
+#### Artículo 6°
+
+transitorio. En relación a los montos de ahorro mínimo exigidos para postular, se aplicarán las siguientes condiciones:
+
+a) En los llamados para la modalidad de adquisición de vivienda que se efectúen durante el año 2022, el ahorro mínimo para postular al tramo 1 será de 30 Unidades de Fomento, para el tramo 2, de 40 Unidades de Fomento y para el tramo 3, de 80 Unidades de Fomento; en cuanto a la modalidad de construcción en sitio propio, el ahorro mínimo para postular al tramo 2 será de 30 Unidades de Fomento y para el tramo 3, de 50 Unidades de Fomento.
+
+b) En los llamados para la modalidad de adquisición de vivienda que se efectúen durante el año 2023, el ahorro mínimo para postular al tramo 1 será de 40 Unidades de Fomento, para el tramo 2, de 50 Unidades de Fomento y para el tramo 3, de 100 Unidades de Fomento; en cuanto a la modalidad de construcción en sitio propio, el ahorro mínimo para postular al tramo 2 será de 35 Unidades de Fomento y para el tramo 3, de 55 Unidades de Fomento.
+
+c) En los llamados que se efectúen a partir del año 2024, regirán los montos de ahorro establecidos en los artículos 64 y 67 del presente decreto.
+
+Para aquellos beneficiarios que apliquen el subsidio a la adquisición de una vivienda cuyo precio exceda al del tramo en que resultaron seleccionados, regirán los montos de ahorro vigentes para cada tramo del llamado en que postuló.
 
 Anótese, tómese razón y publíquese. SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
