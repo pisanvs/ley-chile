@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.560 EXENTA, DE 8 DE AGOSTO DE 2022
+
+Mediante resolución exenta N° 2.560, de 8 de agosto de 2022, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 11 de junio de 2022, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Otec y Servicios Lilian Carolina Díaz Gonzalez Empresa Individual de R (Otec y Servicios Lilian Carolina Díaz González Empresa Individual de R)", Rut.76.877.366-1 contenida en la resolución exenta N° 2.684 de 18 de julio de 2019, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del art. 21 de la Ley 19.518.
+
+Santiago, 8 de agosto de 2022.- Andrea del Carmen Contreras Cuéllar, Jefa del Departamento de Desarrollo y Regulación de Mercado, Servicio Nacional de Capacitación y Empleo.
