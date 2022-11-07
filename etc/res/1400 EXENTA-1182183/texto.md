@@ -104,7 +104,7 @@ No se considerará contacto estrecho la persona que haya sido calificada como un
 
 La circunstancia de contar con un resultado negativo posterior para SARS-CoV-2 en un test PCR y/o un resultado negativo posterior para SARS-CoV-2 en una prueba de antígenos no exime a la persona del cumplimiento total de la medida de aislamiento o cuarentena dispuesta en este numeral. La autoridad sanitaria podrá disponer un aislamiento o cuarentena mayor en consideración a las condiciones epidemiológicas.
 
-8. Definición de caso sospechoso de reinfección. Se entenderá por caso sospechoso de reinfección aquella persona que presenta un resultado positivo para SARS-CoV-2 en un test PCR y/o un resultado positivo para SARS-CoV-2 en una prueba de antígenos, dentro de los 90 días posteriores a aquel que fue calificada como un caso confirmado, conforme a lo dispuesto en el numeral 2 precedente.
+8. Definición de caso sospechoso de reinfección. Se entenderá por caso sospechoso de reinfección aquella persona que presenta un resultado positivo para SARS-CoV-2 en un test PCR y/o un resultado positivo para SARS-CoV-2 en una prueba de antígenos, luego de los 90 días posteriores a aquel que fue calificada como un caso confirmado, conforme a lo dispuesto en el numeral 2 precedente.
 
 Para todos los efectos, la persona que califica como caso sospechoso de reinfección es considerada un caso confirmado, nuevo.
 
