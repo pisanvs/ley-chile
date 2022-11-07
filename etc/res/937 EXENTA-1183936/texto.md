@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 937 EXENTA, DEL 28 DE OCTUBRE DE 2022
+
+Por resolución exenta Nº 937, del 28 de octubre del año 2022, del Gobierno Regional de Ñuble, se indica:
+
+- **1.-** Que, mediante solicitud de fecha 28 de octubre del año 2022 presentada por la Ilustre Municipalidad de San Carlos, de la comuna antes señalada, se solicita corte de tránsito vehicular en la comuna antes indicada, por calle Vicuña Mackenna, entre las calles Independencia y Maipú, utilizando calzada completa, para el día 6/11/2022 desde las 09:00 hrs hasta las 12:00 hrs, con motivo de realizar una "Corrida con Perros" denominada "Aperro con Responsabilidad".
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo, con dicho corte de tránsito, en los mismos términos solicitados.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del artículo113, del DFL Nº 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en la comuna de San Carlos, por calle Vicuña Mackenna, entre las calles Independencia y Maipú, utilizando calzada completa, para el día 6/11/2022 desde las 09:00 hrs hasta las 12:00 hrs.
+
+Anótese y publíquese.- Alicia Contreras Vielma, Gobernadora Regional (S), Gobierno Regional de Ñuble.
