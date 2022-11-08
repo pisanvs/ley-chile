@@ -40,7 +40,9 @@ Resolución:
 
 El número de familias seleccionadas alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos previstos para el presente concurso, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponde. Mediante resolución de esta Secretaría Regional Ministerial de Vivienda y Urbanismo, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados. La difusión se realizará en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-2. El monto total de financiamiento para el presente llamado será de 140.000 UF.
+Para efectos de imputación de recursos, se considerará un monto promedio y referencial de subsidio individual de 1.100 Unidades de Fomento, para cada operación de Construcción en Sitio Propio. El monto definitivo será el que corresponda, conforme la aplicación de lo señalado en el resuelvo 4.3, incluyendo el respectivo servicio de asistencia técnica y el monto de fiscalización técnica de obras, según proceda, los que se imputarán al Programa Habitacional Fondo Solidario de Elección de Vivienda del año 2022.
+
+2. El monto total de financiamiento para el presente llamado será de 233.000 UF.
 
 ### 3. Postulación:
 
@@ -151,5 +153,7 @@ d) El Serviu podrá actuar como Entidad Patrocinante, de acuerdo a lo establecid
 9. Establécese que las condiciones que regularán el presente llamado son las que se señalan en la presente resolución, sin perjuicio que para todo lo que no se haya previsto en ésta, regirá lo dispuesto en el DS Nº 49, de Vivienda y Urbanismo, del año 2011.
 
 10. Los subsidios habitacionales que se otorguen conforme a esta resolución exenta, se imputarán a los recursos dispuestos para la Región de Tarapacá en el Programa regulado por el DS N° 49 (V. y U.), de 2011, para el año 2022.
+
+> **Nota.** La letra a) del número 1º de la Resolución 675 Exenta, Vivienda, publicada el 08.11.2022, dispone modificar la presente resolución en el sentido de agregar un inciso tercero al resuelvo 1., pasando el actual inciso tercero a ser el inciso cuarto. No obstante lo anterior, se actualizó la norma en el sentido que indica, pero se deja constancia que el resuelvo modificado contaba con sólo dos incisos, no siendo posible incorporar un inciso cuarto en el presente texto actualizado.
 
 Anótese, publíquese y archívese.- Francisco Javier Martínez Segovia, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Tarapacá.
