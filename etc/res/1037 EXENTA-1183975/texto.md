@@ -1,0 +1,7 @@
+APRUÉBASE SELECCIÓN DE LA LOCALIDAD DE SAN GABRIEL, DE LA COMUNA DE SAN JOSÉ DE MAIPO, PARA LA IMPLEMENTACIÓN DEL PROGRAMA PARA PEQUEÑAS LOCALIDADES EN LA REGIÓN METROPOLITANA
+
+Mediante resolución exenta Nº 1.037, de fecha 24.10.2022, la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo aprobó la selección de la localidad denominada San Gabriel, de la comuna de San José de Maipo, para la intervención del Programa para Pequeñas Localidades, regulado por el DS Nº 39 (V. y U.), de 2016 y en la resolución exenta Nº 1.024 (V. y U.), de fecha 12.08.2022, que llama a la formulación de propuestas para la ejecución del Programa para Pequeñas Localidades en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, Metropolitana, Ñuble, Biobío, La Araucanía, Los Lagos, Los Ríos, Aysén y Magallanes y la Antártica Chilena, y su modificación contenida en la Resol. Ex. Nº 1.232, de fecha 21.09.2022, en virtud de la evaluación realizada por la Mesa Regional, con fecha 19.10.2022, conforme al siguiente cuadro resumen:
+
+El texto íntegro de la resolución exenta Nº 1.037, de fecha 24.10.2022, se encuentra disponible en portal de transparencia activa de esta institución https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025.
+
+Anótese, comuníquese, publíquese.- Karen Tartakowsky López, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo Subrogante.
