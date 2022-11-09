@@ -46,6 +46,8 @@ a) Toda persona mayor de 60 años.
 
 b) Toda persona con discapacidad, de acuerdo a lo establecido en el artículo 5 de la ley Nº 20.422.
 
+c) Los cuidadores y cuidadoras, en los términos del artículo 5 quáter de la ley Nº 20.584, esto es toda persona que, de forma gratuita o remunerada, proporcione asistencia o cuidado, temporal o permanente, para la realización de actividades de la vida diaria, a personas con discapacidad o dependencia, estén o no unidas por vínculos de parentesco.
+
 Las personas consignadas en el inciso anterior serán denominadas, para efectos de este reglamento, indistintamente sujeto de atención preferente o beneficiado.
 
 #### Artículo 3
@@ -71,6 +73,36 @@ Para acreditar la condición de persona con discapacidad se deberá presentar un
 a) Credencial o certificado de discapacidad vigente emitido por el Servicio de Registro Civil e Identificación.
 
 b) Excepcionalmente, comprobante de inicio del proceso de calificación y certificación de discapacidad, válidamente emitido por la Comisión de Medicina Preventiva e Invalidez (Compin), con una vigencia máxima de 60 días.
+
+Para acreditar la condición de cuidador o cuidadora, conforme a la definición del artículo 5 quáter de la ley Nº 20.584 y del literal c) del artículo 2 de este reglamento, se deberá presentar alguno de los siguientes documentos:
+
+a) El documento que acredite que la persona figura en calidad de cuidador o cuidadora, emitido por el encargado o responsable de los programas, unidades o centros que se enlistan a continuación:
+
+i. El Programa Red Local de Apoyos y Cuidados del Ministerio de Desarrollo Social y Familia.
+
+ii. El Programa de Atención Domiciliaria a Personas con Dependencia Severa de los establecimientos de atención primaria de salud.
+
+iii. Las Unidades de cuidados paliativos universales presentes en los distintos niveles asistenciales de salud.
+
+iv. El Programa de Cuidados Domiciliarios, del Servicio Nacional del Adulto Mayor.
+
+v. Los Centros de Apoyo Comunitario para Personas con Demencia (ex Centros Diurnos para Personas con Demencia).
+
+b) Documento emitido por el Establecimiento de Larga Estadía para Adultos Mayores (Eleam) en donde ejerce el rol de cuidador o cuidadora en forma remunerada.
+
+c) Certificado del Registro Nacional de Discapacidad, de la persona natural que brinde cuidados a personas con discapacidad, conforme a lo dispuesto en la letra b) del artículo 56 de la ley Nº 20.422.
+
+d) Documento que informe la calidad de persona cuidadora, que emita el Ministerio de Desarrollo Social y Familia según la información contenida en el instrumento al que se refiere el artículo 5 de la ley Nº 20.379.
+
+e) En los casos en que la persona no participe de ninguno de los supuestos señalados en los literales precedentes, podrá acreditar su condición de cuidador o cuidadora presentando una declaración jurada simple respecto de su rol y copia simple del medio de acreditación de la calidad de persona mayor o persona con discapacidad, señalado en el inciso segundo y tercero precedente, de quien se encuentra a su cuidado.
+
+A través de una resolución del Ministro de Salud, se determinará el formato tipo que deberán tener los documentos aludidos en los literales a) y b) del inciso cuarto anterior.
+
+El contenido de la declaración jurada del literal e) del inciso cuarto anterior, será determinado en un formato aprobado por resolución del Ministro de Salud, que permanecerá descargable en el sitio electrónico de dicha Cartera de Estado. Igualmente, el cuidador o cuidadora interesado podrá solicitar el formato impreso en las oficinas de atención al público de los establecimientos de salud.
+
+Los documentos señalados en los literales a), b), c) y d) del inciso cuarto anterior no podrán tener una vigencia superior a un año contado desde la fecha de emisión.
+
+La declaración del literal e) del inciso cuarto anterior tendrá una vigencia de seis meses contado desde la fecha de emisión.
 
 ## Título II — - DE LAS MEDIDAS MÍNIMAS A APLICAR PARA LA ATENCIÓN PREFERENTE Y OPORTUNA
 
