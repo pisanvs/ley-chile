@@ -208,6 +208,10 @@ El presente Reglamento regirá durante los años 1996, 1997 y, posteriormente se
 
 El proceso de selección correspondiente al año 1996 se llevará a efecto dentro del plazo de 30 días a contar de la fecha de publicación del presente Decreto en el Diario Oficial. La subvención correspondiente a los meses ya devengados se pagará con efecto retroactivo.
 
+#### Artículo 3°
+
+Para la selección de establecimientos correspondientes al año 2024, no se considerará el resultado Simce del año 2022.
+
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Sergio Molina Silva, Ministro de Educación.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Jaime Pérez de Arce Araya, Subsecretario de Educación.

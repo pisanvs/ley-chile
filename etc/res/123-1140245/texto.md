@@ -178,6 +178,10 @@ transitorio: Las normas de este reglamento se aplicarán también a los asistent
 
 transitorio: Sin perjuicio de lo señalado en el artículo primero transitorio, antes del término del año calendario 2019, mediante resolución de la Subsecretaría de Educación, se requerirá a los sostenedores cuyos asistentes de la educación se rijan por el presente reglamento, que informen a este servicio por primera vez respecto de su cumplimiento en materia de convivencia escolar, de conformidad con lo señalado en el artículo 10 del presente reglamento. La resolución del caso será notificada mediante el sitio web www.comunidadescolar.cl.
 
+#### Artículo cuarto
+
+transitorio: Los resultados de las evaluaciones Simce de 2022 no serán utilizados para efectos de lo establecido en el artículo 11 del presente reglamento, considerándose que no hubo niveles medidos para dicho año.
+
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Marcela Cubillos Sigall, Ministra de Educación.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Raúl Figueroa Salas, Subsecretario de Educación.

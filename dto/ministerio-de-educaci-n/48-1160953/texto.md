@@ -126,6 +126,8 @@ Tabla 1. Plan de evaluaciones Simce 2021-2026
 
 *La planificación propuesta por el Mineduc establece que el Simce 2021 no tendrá consecuencias para los establecimientos. A finales de 2021, si las condiciones sanitarias lo permiten, se evaluará a los estudiantes de 4º básico y 2º medio en las asignaturas de Lectura y Matemáticas.
 
+**La planificación propuesta por el Mineduc y la Agencia establece que el Simce 2022 no tendrá consecuencias para los establecimientos.
+
 Consideraciones en el Plan de Evaluaciones Simce dada la emergencia sanitaria debido al COVID-19
 
 El país se encuentra en un momento complejo dada la emergencia sanitaria decretada debido al COVID-19. Este escenario ha traído múltiples desafíos en lo que respecta a la educación remota, los que se espera tengan impacto en el logro de aprendizajes por parte de los estudiantes.
@@ -135,6 +137,8 @@ Aún en este escenario, las evaluaciones son necesarias para comparar y dar cuen
 Por tanto, se estima que se deben mantener las evaluaciones Simce el 2021, pero reduciendo la cantidad de niveles evaluados. Por ello, el Plan de Evaluaciones plantea la aplicación de cuatro evaluaciones Simce el 2021.
 
 Según lo que establece la ley Nº 20.529, las pruebas censales deben ser incorporadas en la Ordenación de establecimientos; sin embargo, se considera apropiado no utilizar los resultados obtenidos en las pruebas aplicadas el 2021 para la Ordenación de establecimientos, dado lo irregular que ha sido la experiencia educativa durante los años 2020 y 2021 por efecto de la pandemia por COVID-19.
+
+Dada la persistencia de los efectos de la pandemia durante 2022, y sus consecuencias para los establecimientos y comunidades educativas, lo indicado en el inciso anterior también regirá para las pruebas censales aplicadas en 2022, por lo que sus resultados no serán utilizados para la ordenación de los establecimientos educacionales, ni se producirán los efectos derivados de esta última durante 2023.
 
 Esta recomendación surge porque no resulta conveniente responsabilizar a los establecimientos escolares del efecto que puede tener la pandemia en el logro de los Estándares de Aprendizaje que alcancen sus estudiantes.
 
@@ -192,7 +196,9 @@ A continuación, se señalan los estudios en los que participará Chile durante 
 
 . PISA: Programa Internacional para la Evaluación de Estudiantes.
 
-Cada uno de estos estudios tiene un ciclo de aplicación: PIRLS, 5 años; TIMSS, 4 años; ICILS, 5 años y PISA, 3 años. Cada uno requiere de una aplicación experimental y una aplicación definitiva, las que son presentadas en la siguiente tabla:
+. OCDE: Estudio de Competencias Socioemocionales.
+
+Cada uno de estos estudios tiene un ciclo de aplicación: PIRLS, 5 años; TIMSS, 4 años; ICILS, 5 años ; PISA, 3 años y OCDE, 4 años. Cada uno requiere de una aplicación experimental y una aplicación definitiva, las que son presentadas en la siguiente tabla:
 
 Tabla 3. Plan de estudios internacionales 2021-2030ª
 
