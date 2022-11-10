@@ -806,7 +806,7 @@ Sin perjuicio de lo dispuesto en el inciso anterior, la asamblea podrá solicita
 
 #### Artículo 53
 
-El Director de Obras Municipales tendrá el plazo de treinta días corridos para pronunciarse sobre las solicitudes a que se refieren los artículos 48 y 52, contado desde la fecha de su presentación. Será aplicable a este requerimiento lo dispuesto en los artículos 118 bis, 118 ter y 118 quáter de la Ley General de Urbanismo y Construcciones.
+El director de obras municipales tendrá un plazo de treinta días corridos para pronunciarse sobre las solicitudes a que se refieren los artículos 48 y 52, contados desde la fecha de la presentación de la misma. Será aplicable a este requerimiento lo dispuesto en los incisos segundo, tercero y cuarto del artículo 118 de la Ley General de Urbanismo y Construcciones.
 
 ## Título X
 
@@ -860,21 +860,19 @@ b) En los tramos de cierros opacos deberá resguardarse que la vereda destinada 
 
 #### Artículo 60
 
-En todo condominio deberá contemplarse la cantidad de estacionamientos para automóviles y bicicletas, requerida conforme a las normas vigentes y al plan regulador respectivo. No obstante, los condominios de viviendas de interés público deberán contemplar, al menos, un estacionamiento para automóvil por cada unidad destinada a vivienda, resguardando que también exista espacio para estacionar bicicletas, ya sea en los mismos estacionamientos para automóviles o en un área común destinada al efecto, conforme a las exigencias que establezca el reglamento de la ley.
+En todo condominio deberá contemplarse la cantidad de estacionamientos para automóviles y bicicletas, requerida conforme a las normas vigentes y al plan regulador respectivo. No obstante, los condominios de viviendas sociales deberán contemplar, al menos, un estacionamiento para automóvil por cada unidad destinada a vivienda, resguardando que también exista espacio para estacionar bicicletas, ya sea en los mismos estacionamientos para automóviles o en un área común destinada al efecto, conforme a las exigencias que establezca el reglamento de la ley.
 
-El referido reglamento también podrá establecer supuestos en los que excepcionalmente se permita al director de obras municipales la aprobación fundada de condominios de viviendas de interés público con una dotación de estacionamientos inferior a la señalada en el inciso precedente, en atención al tamaño acotado del condominio, al emplazamiento del mismo o a otros factores técnicos o urbanísticos que justifiquen una rebaja de dicha exigencia.
+El referido reglamento también podrá establecer supuestos en los que excepcionalmente se permita al director de obras municipales la aprobación fundada de condominios de viviendas sociales con una dotación de estacionamientos inferior a la señalada en el inciso precedente, en atención al tamaño acotado del condominio, al emplazamiento del mismo o a otros factores técnicos o urbanísticos que justifiquen una rebaja de dicha exigencia. Con todo, en caso alguno podrá autorizarse que la dotación de estacionamientos de un condominio de viviendas sociales sea inferior a un estacionamiento para automóvil, por cada dos unidades destinadas a vivienda.
 
-Los estacionamientos definidos que correspondan a la cuota mínima obligatoria, o aquellos que determine el Director de Obras Municipales, en virtud de la atribución contemplada en el inciso anterior, en cuyo caso se considerará el número que éste determine, deberán singularizarse en el plano a que se refiere el artículo 49 y solo podrán enajenarse o adjudicarse en uso y goce exclusivo en favor de personas que adquieran o hayan adquirido una o más unidades en el condominio. Los estacionamientos que excedan la cuota mínima obligatoria serán de libre enajenación.
+Los estacionamientos que correspondan a la cuota mínima obligatoria deberán singularizarse en el plano a que se refiere el artículo 49 y solo podrán enajenarse o adjudicarse en uso y goce exclusivo en favor de personas que adquieran o hayan adquirido una o más unidades en el condominio. Los estacionamientos que excedan la cuota mínima obligatoria serán de libre enajenación.
 
-En los condominios de viviendas de interés público nuevos, la escritura de compraventa de las viviendas deberá incluir la transferencia o la asignación en uso y goce exclusivo del estacionamiento que le corresponde a dicha unidad, sin perjuicio de la posibilidad que los propietarios de tales viviendas posteriormente transfieran su estacionamiento a otro copropietario del condominio o renuncien al uso y goce exclusivo constituido en su favor; en este último caso, la asamblea de copropietarios podrá asignar a otro copropietario el derecho de uso y goce exclusivo sobre dicho estacionamiento.
+En los condominios de viviendas sociales nuevos, la escritura de compraventa de las viviendas deberá incluir la transferencia o la asignación en uso y goce exclusivo del estacionamiento que le corresponde a dicha unidad, sin perjuicio de la posibilidad que los propietarios de tales viviendas posteriormente transfieran su estacionamiento a otro copropietario del condominio o renuncien al uso y goce exclusivo constituido en su favor; en este último caso, la asamblea de copropietarios podrá asignar a otro copropietario el derecho de uso y goce exclusivo sobre dicho estacionamiento.
 
 Tratándose de estacionamientos para personas con discapacidad, solo podrán asignarse en uso y goce a copropietarios, ocupantes o arrendatarios de las unidades del condominio que así lo requieran, cuando éstos correspondan a personas con discapacidad, especialmente aquellas con movilidad reducida que cuenten con la respectiva acreditación de esa condición señalada en la ley N° 20.422.
 
 En tanto los estacionamientos que correspondan a la cuota mínima obligatoria para personas con discapacidad no sean requeridos por las personas señaladas, podrán ser asignados temporalmente en uso y goce a otros copropietarios, concesión que finalizará por el solo ministerio de la ley, cuando sean asignados según se indica en el inciso anterior.
 
 Los estacionamientos de visitas tendrán el carácter de bienes comunes del condominio, sin perjuicio de su asignación a sectores determinados, conforme establezca el respectivo reglamento de copropiedad, no pudiendo ser enajenados ni asignados en uso y goce exclusivo.
-
-En los casos en que la Ordenanza General de Urbanismo y Construcciones permite ubicar estacionamientos en otros predios, el plano del condominio a que se refiere el artículo 49 deberá señalar tal circunstancia.
 
 ## Título XI
 
@@ -1088,7 +1086,7 @@ Lo anterior, también será aplicable en zonas decretadas como "zonas afectadas 
 
 Los condominios de densificación predial no requerirán comité de administración ni administrador, y aquellos de hasta cuatro viviendas, además, no necesitarán contar con fondo de reserva, estacionamientos, seguros ni planes de emergencia. Las normas urbanísticas aplicables serán solo las establecidas en el Reglamento Especial de Viviendas Económicas.
 
-A falta de reglamento de copropiedad, los condominios de densificación predial se regirán por el reglamento tipo, sin necesidad de que éste se encuentre inscrito en el conservador de bienes raíces respectivo.
+A falta de reglamento de copropiedad, los condominios de densificación predial se regirán por el que se establezca en el reglamento de esta ley como reglamento tipo, sin necesidad de que éste se encuentre inscrito en el conservador de bienes raíces respectivo.
 
 #### Artículo 81
 
@@ -1306,9 +1304,7 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo 1°
 
-Deberán dotarse de un reglamento de copropiedad aquellos condominios que hubiesen sido creados antes de la entrada en vigencia de esta ley, o que, habiendo surgido con posterioridad, se originen en una comunidad que no signifique copropiedad en los términos de la ley. Si éste no hubiese sido dictado al cabo de un año de la publicación de la presente ley, se entenderá aplicable al condominio el reglamento tipo que deberá aprobar el Ministerio de Vivienda y Urbanismo, mediante resolución exenta.
-
-> **Nota.** El artículo 2° de la ley 21650, publicada el 30.01.2024, dispone que la modificación introducida en el presente artículo por el numeral 2 del artículo 1° de la citada ley, producirá efectos en forma retroactiva a partir del 13 de abril de 2022.
+Deberán dotarse de un reglamento de copropiedad aquellos condominios que hubiesen sido creados antes de la entrada en vigencia de esta ley, o que, habiendo surgido con posterioridad, se originen en una comunidad que no signifique copropiedad en los términos de la ley. Si éste no hubiese sido dictado al cabo de un año de la publicación de la presente ley, se entenderá aplicable al condominio el reglamento tipo que deberá sancionar el reglamento de esta ley.
 
 #### Artículo 2°
 
@@ -1340,17 +1336,9 @@ El reglamento de la ley y el del Registro Nacional de Administradores de Condomi
 
 El mayor gasto fiscal que represente la aplicación de esta ley, durante el primer año presupuestario de vigencia, se financiará con cargo al presupuesto del Ministerio de Vivienda y Urbanismo y, en lo que faltare, con cargo a los recursos de la partida presupuestaria Tesoro Público de la Ley de Presupuestos del Sector Público.
 
-#### Artículo 8
+#### Artículo 8°
 
-La exigencia de estacionamientos para nuevos condominios de viviendas de interés público, establecida en el inciso primero del artículo 60, será aplicable a los proyectos que soliciten permiso de edificación a contar del 1 de enero de 2025. Se exceptúan aquellos que a esa fecha se encuentren en alguno de los siguientes estados de avance:
-
-1. Cuenten con subsidio asignado.
-
-2. Hayan sido calificados por el Servicio Regional de Vivienda y Urbanización o ingresados a dicho Servicio para su evaluación.
-
-3. Cuenten con un anteproyecto aprobado por la Dirección de Obras Municipales respectiva o lo hayan ingresado para su aprobación o para el otorgamiento del permiso de edificación.
-
-En cualquiera de estos casos, los proyectos deberán contemplar la cantidad de estacionamientos para automóviles requerida conforme al plan regulador respectivo, la que podrá rebajarse hasta en 50% según lo defina el arquitecto autor del proyecto.
+La exigencia de estacionamientos para nuevos condominios de viviendas sociales, establecida en el inciso primero del artículo 60, será aplicable para los proyectos que soliciten permiso de edificación desde el 1 de enero de 2023, exceptuándose aquellos que contaren con anteproyecto vigente, aprobado con anterioridad. Entre la publicación de esta ley y la fecha antes referida, los condominios de viviendas sociales que contemplen más de tres viviendas deberán contar, a lo menos, con un estacionamiento por cada dos viviendas.
 
 #### Artículo 9°
 
@@ -1359,16 +1347,6 @@ Derogado.
 #### Artículo 10
 
 Los condominios que incluyan unidades con destino habitacional existentes a la fecha de publicación de esta ley, deberán incorporarse en el registro señalado en el artículo 98 en el plazo de dos años contados desde la referida publicación.".
-
-#### Artículo 11
-
-Lo dispuesto en el inciso primero del artículo 70 no será exigible respecto de aquellos proyectos que al 1 de enero de 2024 se encuentren en alguno de los siguientes estados de avance:
-
-1. Cuenten con subsidio asignado.
-
-2. Hayan sido calificados por el Servicio Regional de Vivienda y Urbanización o ingresados a dicho Servicio para su evaluación.
-
-3. Cuenten con un anteproyecto aprobado por la Dirección de Obras Municipales respectiva o lo hayan ingresado para su aprobación o para el otorgamiento del permiso de edificación.
 
 #### Artículo segundo
 
