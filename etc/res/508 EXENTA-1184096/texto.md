@@ -1,0 +1,7 @@
+APRUEBA SELECCIÓN DE LA LOCALIDAD DE MELINKA, DE LA COMUNA DE GUAITECAS, PARA LA IMPLEMENTACIÓN DEL PROGRAMA DE PEQUEÑAS LOCALIDADES AÑO 2022, DEL MINVU, EN LA REGIÓN DE AYSÉN
+
+Mediante resolución exenta N° 508, del 21 de octubre de 2022, de la Secretaría Regional Ministerial de Vivienda y Urbanismo Región de Aysén, en conformidad con lo establecido en el DS N° 39 (V. y U.), de 2016, y en la resolución exenta N° 1.024 (V. y U.), de fecha 12 de agosto de 2022, y la resolución exenta N° 1.232 (V. y U.), de fecha 21 de septiembre de 2022, que la modifica.
+
+Apruébase, la selección de la localidad de Melinka, de la comuna de Guaitecas, Región de Aysén, para la intervención del Programa para Pequeñas Localidades, del Ministerio de Vivienda y Urbanismo, regulado por el DS N° 39 (V. y U.), de 2016, de acuerdo a los puntajes ponderados otorgados por la Comisión Técnica Evaluadora de la Seremi y por la Mesa Regional, según lo indicado en los considerandos de la presente resolución exenta, por haber obtenido la mayor ponderación de puntaje durante el proceso de evaluación realizado por éstos. Publíquese un extracto de la presente resolución exenta en el Diario Oficial, en la página web del Minvu y en la del Serviu de la Región de Aysén. Notifíquese la presente resolución exenta a la I. Municipalidad de Guaitecas, conforme a lo estipulado en los artículos 45 y ss., de la ley N° 19.880.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Claudia Donoso Muñoz, Secretaria Regional Ministerial Región de Aysén (S).
