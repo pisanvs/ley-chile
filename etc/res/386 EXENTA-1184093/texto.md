@@ -1,0 +1,5 @@
+SE DESIGNA AL JEFE DE GABINETE DE LA DIRECCIÓN NACIONAL DEL IPS COMO SUJETO PASIVO DE LA LEY Nº 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS Y DESIGNA ASISTENTE TÉCNICO
+
+Por resolución exenta Nº 386, de 24 de octubre de 2022, el Director Nacional del Instituto de Previsión Social designa, como Sujeto Pasivo de Lobby y Gestión de Intereses Particulares, al Jefe de Gabinete de la Dirección Nacional del IPS, don Mauricio Alfredo Vergara Cohn, experto, grado 2º EUS, quien en razón del cargo que desempeña, tiene atribuciones de carácter decisorias y relevantes para este Instituto o influye decisivamente en quienes tienen dichas atribuciones, de conformidad con lo dispuesto en el artículo 3º, de la ley Nº 20.730, reglamentada por el decreto Nº 71, de 2014, del Ministerio Secretaría General de la Presidencia.-
+
+Patricio Coronado Rojo, Director Nacional.
