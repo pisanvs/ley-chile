@@ -210,6 +210,8 @@ También se podrán efectuar giros anticipados a cuenta del pago del subsidio pa
 
 9.2. Los recursos involucrados por región, para la selección de postulantes son los siguientes:
 
+.
+
 9.3. El número de familias seleccionadas en cada región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla inserta en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y/o ajustes de marco presupuestario que serán aprobados mediante resolución. Sólo para los efectos de imputación, el monto de subsidio individual ascenderá a 920 Unidades de Fomento, para la adquisición de vivienda construida, nueva o usada, en el mercado inmobiliario o la adscripción a una vivienda que sea parte de un proyecto de la Nómina de Oferta de Proyectos Habitacionales, y de 795 Unidades de Fomento para la modalidad de Construcción en Sitio Propio o Densificación Predial.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
