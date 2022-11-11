@@ -90,7 +90,7 @@ La operación de los Proyectos deberá ajustarse a las instrucciones que imparta
 
 Etapa de selección de beneficiarios/as, empresas consultoras, y mejora del plan de trabajo: El financiamiento del Comité no podrá exceder de $150.000.- (ciento cincuenta mil pesos) por beneficiario/a.
 
-Etapa de Desarrollo: El cofinanciamiento del Comité no podrá exceder el 80% del costo total de esta etapa, con un tope máximo por beneficiario/a de $6.000.000.- (seis millones de pesos), monto que podrá ser destinado en su totalidad a proyectos de inversión; o, si ello no fuere así, destinar como máximo $1.000.000.- (un millón de pesos), por beneficiario/a para realizar Acciones de Gestión Empresarial.
+Etapa de Desarrollo: Los recursos otorgados por el Comité podrán financiar hasta el 100% del costo total de esta etapa, con un tope máximo por beneficiario/a de $6.000.000.- (seis millones de pesos), monto que podrá ser destinado, en su totalidad, a gastos de inversión; o, si ello no fuere así, destinar como máximo $1.000.000.- (un millón de pesos), por beneficiario/a para realizar Acciones de Gestión Empresarial.
 
 Las Acciones de Gestión Empresarial, contempladas en el Plan de Trabajo podrán corresponder a asistencia técnica, asesorías en gestión, capacitación y/o acciones de marketing.
 
