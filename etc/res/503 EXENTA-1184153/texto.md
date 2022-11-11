@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 503 EXENTA, DE 20 DE OCTUBRE DE 2022
+
+Por resolución exenta Nº 503, de 20 de octubre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá, se rectificó el resuelvo Nº 1 de la resolución exenta Nº 52, de 9 de noviembre de 1999, de la misma Secretaría Regional, en el sentido de reemplazarlo por el siguiente "Nombre: Escuela de Conductores Iquique Limitada. RUT: 77.497.930-1. Representante legal: Waldo Soto Cisterna. Cédula de Identidad: 7.154.590-8. Sede: José Briggs Nº 1848, Iquique. Director: Waldo Soto Cisterna. Instrucción a impartir: Licencia de conductor no profesional o Clase B". Igualmente, se aprobó el nuevo programa de enseñanza de la Escuela de Conductores Iquique Limitada, dejándose sin efecto el programa de enseñanza autorizado mediante la citada resolución Nº 52, de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Tarapacá.-
+
+Roderick Patricio Solís Furniel, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Tarapacá.
