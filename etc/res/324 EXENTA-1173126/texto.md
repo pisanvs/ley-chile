@@ -32,6 +32,18 @@ Resuelvo:
 
 2.- Asígnase los siguientes Roles a los caminos de uso público de la Región del Libertador General Bernardo O'Higgins, de acuerdo al listado que se detalla a continuación:
 
+ROL NOMBRE LONGITUD (km) INICIO TÉRMINO
+
+H-731 Cruce 1,391 I-721-H H-731
+
+I-721-H
+
+(Cuenca)
+
+- Fundo
+
+Los Llanos
+
 La simbología (--) en el cuadro precedente, se usa para omitir el valor de referencia de la ubicación relativa de los kilómetros de Inicio y Término de los caminos que parten o terminan en un camino cuyo trazado se encuentra en proceso de regularización, lo que afecta el kilometraje total; como también en sectores urbanos donde no corresponde la identificación por kilometraje.
 
 3.- Exclúyase de esta asignación de Roles y Nombres a todos aquellos caminos o tramos de caminos incluidos en el punto Nº 2 de esta resolución, que se encuentren dentro de los límites urbanos vigentes declarados por los instrumentos de planificación territorial que corresponda y que no hayan sido declarados como camino público en zona urbana, de acuerdo a lo estipulado en el Art. Nº 24 del DFL MOP Nº 850 de 1997.
