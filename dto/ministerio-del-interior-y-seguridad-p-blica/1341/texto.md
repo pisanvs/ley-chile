@@ -42,11 +42,23 @@ El Consejo será presidido por el Subsecretario del Interior, o quien éste desi
 
 - Policía de Investigaciones de Chile;
 
+- Gendarmería de Chile;
+
 - Estado Mayor Conjunto;
 
 - Dirección General del Territorio Marítimo y de Marina Mercante;
 
 - Dirección General de Aeronáutica Civil;
+
+- Dirección General de Movilización Nacional;
+
+- Agencia Nacional de Inteligencia de Chile;
+
+- Servicio de Impuestos Internos;
+
+- Unidad de Análisis Financiero;
+
+- Comisión para el Mercado Financiero;
 
 - Servicio Nacional de Aduanas.
 
