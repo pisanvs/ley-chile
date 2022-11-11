@@ -2706,6 +2706,32 @@ III.- De un costo total estimado entre 20.000 y 80.000 UTM: 25 días.
 
 IV.- De un costo total estimado mayor a 80.000 UTM: 35 días.
 
+#### Artículo 14
+
+Sujeto a la disponibilidad de recursos, podrá incorporarse, previa solicitud del contratista y mediante la suscripción de un convenio aprobado por resolución de la autoridad que adjudicó o aprobó el contrato, un mecanismo de reajuste en los contratos regidos por el presente Reglamento y que a la fecha de la total tramitación de esta modificación:
+
+a) No se encuentre dictada la resolución que designa la comisión de recepción única o provisoria;
+
+b) No se haya hecho abandono unilateral de la obra, lo que deberá ser verificado por el inspector fiscal o el respectivo Servicio;
+
+c) No se haya dado término anticipado al contrato;
+
+d) El contrato no contemplase el índice de reajuste, que se define en el párrafo siguiente, y
+
+e) No hayan sido licitadas mediante bases especiales, esto es, aquellas bases que no cuenten con un formato tipo, aprobado por el Ministerio de Obras Públicas y tomado de razón por la Contraloría General de la República.
+
+El índice de reajuste señalado en el inciso anterior corresponde a aquel calculado en conformidad a la resolución DGOP N° 80, de 2021 y sus modificaciones posteriores, el cual en este caso, y de manera excepcional, se aplicará sobre el valor total de cada estado de pago de obra descontando las utilidades, de manera de establecer la diferencia con el sistema de reajustabilidad establecido en el contrato original, denominándose en adelante "Mecanismo de Reajuste". Con todo, la diferencia que resulte de la aplicación del Mecanismo de Reajuste se pagará en valor nominal. No obstante lo anterior, la diferencia enterada no podrá superar el 20% del monto total del valor del contrato adjudicado, en cuyo caso la aplicación de este artículo cesará y solo continuará aplicándose el sistema de reajustabilidad contemplado en el contrato original.
+
+El Mecanismo de Reajuste contemplado en este artículo aplicará para los estados de pago de obras cursados desde el 1° de septiembre de 2021 hasta que se curse el último estado de pago de obras del respectivo contrato.
+
+Una vez que sea presentada la solicitud por el contratista, se procederá a verificar el cumplimiento de los requisitos establecidos en el presente artículo transitorio, para luego comenzar la tramitación del convenio que se deberá suscribir al efecto.
+
+Lo preceptuado en este artículo será también aplicable a los contratos que carecen de sistema de reajuste. Con todo, una vez alcanzado el 20% del monto total del valor del contrato adjudicado, éste continuará aplicándose sin reajuste.
+
+Lo anterior será aplicable a los convenios mandatos celebrados entre el Ministerio de Obras Públicas y los distintos organismos o servicios públicos, bajo los mismos requisitos señalados precedentemente, si el mandante así lo dispusiere.
+
+La solicitud establecida en este artículo solo podrá ejercerse hasta el 31 de marzo de 2023.
+
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Clemente Pérez Errazúriz, Subsecretario de Obras Públicas.
