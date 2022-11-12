@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 612, de 28 de octubre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Ñuble, se aprueba el Gabinete Técnico de la Ilustre Municipalidad de San Fabián de Alico, cuyo domicilio estará ubicado en calle 18 de Septiembre Nº140, comuna de San Fabián de Alico, Región de Ñuble, por cumplir los requisitos exigidos en la normativa. Asimismo, se autorizó a la Ilustre Municipalidad de San Fabián de Alico, para otorgar licencias de conductor conforme las disposiciones del DFL Nº 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito y sus reglamentos. La Municipalidad precedentemente individualizada deberá suspender el otorgamiento de licencias de conductor, en el evento de faltarle algunos de los requisitos que hicieron posible la presente autorización.-
+
+Javier Alfonso Isla Figueroa, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Ñuble.
