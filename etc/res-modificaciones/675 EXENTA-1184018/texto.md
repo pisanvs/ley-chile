@@ -28,8 +28,6 @@ b) Que, mediante la resolución exenta Nº 1.294/2022 (V. y U.), autorizó exten
 
 c) Conforme al procedimiento establecido en la resolución exenta, 160 familias de la comuna de Alto Hospicio fueron ingresadas al sistema informático de postulación que se generó para estos efectos, por lo tanto se encontrarían en condiciones para ser seleccionadas.
 
-La resolución exenta Nº 110 (V. y U.) de 2015, visada por el Ministro de Hacienda, a que se refiere el Visto b) de esta resolución, determina los recursos del programa habitacional correspondiente al año 2015, en virtud de lo dispuesto en el artículo 40, de la ley Nº 18.591, lo que permite comprometer financiamiento para años posteriores, por lo que dicto la siguiente
-
 Resolución:
 
 1.- Modifícase la resolución exenta Nº 422, de fecha 25 de julio de 2022, de esta Seremi, individualizada en el visto d) de este instrumento, en el siguiente sentido:
@@ -40,7 +38,7 @@ a) Agrégase el siguiente inciso tercero al resuelvo 1., pasando el actual incis
 
 b) Reemplázase, en el resuelvo 2. la cifra "140.000" por "233.000".
 
-2.- Apruébase la nómina de damnificados ingresados al sistema informático de postulación y seleccionados para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.) de 2011, cuyo texto fue reemplazado por el artículo primero del DS Nº 105 (V. y U.) de 2014, en la alternativa de postulación individual, en las comunas y modalidades que se indican, en el llamado especial efectuado por resolución exenta Nº 3.823 (V. y U.) de 2015.
+2.- Apruébase la nómina de damnificados ingresados al sistema informático de postulación y seleccionados para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.) de 2011, cuyo texto fue reemplazado por el artículo primero del DS Nº 105 (V. y U.) de 2014, en la alternativa de postulación individual, en el llamado en condiciones especiales efectuado por resolución exenta Nº 422/2022 de esta Seremi.
 
 2. Asígnase un monto de hasta 70 Unidades de Fomento a cada una de las personas identificadas en el resuelvo 2. de la presente resolución, para el pago por las labores de Asistencia Técnica, conforme a lo señalado en la resolución Nº 1.875 (V. y U.) de 2015, y sus modificaciones, que Fija el Procedimiento para la Prestación de Servicios de Asistencia Técnica, Jurídica y Social al Programa de Vivienda aprobado por el DS Nº 49, de 2011.
 
