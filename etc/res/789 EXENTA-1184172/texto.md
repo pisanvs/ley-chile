@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante la resolución exenta Nº 789, de 9 de septiembre de 2022, de esta Secretaría Regional Ministerial, se aprobaron los Planes y Programas conducentes a la obtención de Licencia de Conductor No Profesional o Clase B, a la Escuela de Conductores denominada "Centro de Capacitación Sebastiani SpA", RUT Nº 77.463.435-5. La escuela de conductores tendrá como Directora a doña Ingrid Margot Oporto Jara, cédula nacional de identidad 15.467.598-1, y su sede estará ubicada en calle Almagro N° 372, comuna de Purén, Región de la Araucanía. Las horas pedagógicas autorizadas a la referida escuela es de 8 horas pedagógicas teóricas y 12 horas prácticas, con un total de 20 horas pedagógicas.-
+
+Patricio Alejandro Poza Barrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de la Araucanía.
