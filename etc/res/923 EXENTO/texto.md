@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°923, de 05 de octubre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 112-A, 112-B y 112-C, para la obra: MEJORAMIENTO RUTA W-883, CRUCE LONGITUDINAL DIAZ LIRA, SECTOR: PUREO APECHE, que figuran a nombre de ULLOA MALDONADO FRANCISCO OMAR, roles de avalúo 139-89, Comuna de QUEILEN, REGIÓN DE LOS LAGOS, superficies 364, 35 y 226 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, RODRIGO ANDRES YAÑEZ RIFFO y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de 29 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.421.300, para el lote N°112-A, $407.000, para el lote N°112-B y $4.486.700, para el lote N°112-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
