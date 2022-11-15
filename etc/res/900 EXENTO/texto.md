@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 900 de 5 de octubre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 232 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, propietario según inscripción HUMBERTO PATRICIO HERRERA VIDAL, conforme inscripción Fojas 2528 Nº 2249 Año 2016 CBR Los Ángeles, comuna de Los Ángeles, superficie 637 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 420 de 28 de septiembre de 2021, integrada por Víctor Marcelo Soto Troncoso, Andrés Rainer Schulz Villanueva y Gustavo Sebastián Fonseca Cruces, mediante informe de tasación de 15 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $7.606.900 para el lote Nº 232. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
