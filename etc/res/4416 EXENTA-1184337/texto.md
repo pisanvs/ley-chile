@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.416, 7 de noviembre de 2022, Serviu Región del Biobío ordenó expropiación parcial de terreno ubicado en Ignacio Collao 1443 LT 2 Collao, Rol de Avalúo N° 320-344, comuna de Concepción, de aparente dominio de Banco Santander Chile. La superficie afecta a expropiación parcial es de 88,61 m2 de terreno (Lote 220) y cuyos linderos particulares están enmarcados en el plano S8R 41542-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par-Vial Collao-General Novoa", comuna de Concepción, Región del Biobío", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por ingeniero civil Orlando Javier Paredes Vásquez, por arquitecta Paola Loreto Martínez Perucca y por arquitecto Felipe Andrés Castillo Parra, que fijó el monto de la indemnización provisional por la expropiación en la suma de $40.217.388, más una suma de $361.956 por concepto de reajuste del artículo 5° del DL 2.186 de 1978, lo que arroja un total de $40.579.344.-
+
+Director (S) Serviu Región del Biobío.
