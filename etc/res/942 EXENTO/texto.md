@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº942, de 26 de octubre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1 y 2, para la obra: CONSTRUCCIÓN SENDA DE PENETRACIÓN CALAFATE - RUSSFIN, T. DEL FUEGO, que figuran a nombre de AGROPECUARIA CALETA JOSEFINA LIM, rol de avalúo 656-26, Comuna de PORVENIR, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficies 304.666 y 297.075 m2. respectivamente. La Comisión de Peritos integrada por MARCOS MATULIC CVIETKOVICH, HUGO JOSÉ MANSILLA CÁRDENAS y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 17 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $403.173.326, para el lote Nº1 y $394.812.314, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
