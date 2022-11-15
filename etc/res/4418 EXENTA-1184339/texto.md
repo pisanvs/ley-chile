@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.418, de 7 de noviembre 2022, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Nueva 1 945 BKD 5, Dpto. 12 Michaihue, Rol de avalúo N° 15801-76, comuna de San Pedro de la Paz, de aparente dominio de Carrasco Chávez María del Rosario, en una superficie de 37,91 m² de terreno, que corresponde al 0,62% de 6.065,67 m² de superficie de terreno común (Condominio D) y una superficie de 45,514 m² de edificación, dentro de linderos señalados plano de expropiación S8R-42.520-1, para la ejecución de las obras del proyecto Habilitación Conjunto Habitacional Michaihue 716 para la Regeneración San Pedro de la Paz", comuna de San Pedro de la Paz, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por ingeniero civil Orlando Paredes Vásquez, por arquitecto Carolina Contreras Tapia y por arquitecto Mario Bellolio Bosticca, según informe de tasación, de fecha 30 de septiembre de 2022, fijó monto provisional indemnización, más reajuste del artículo 5° DL 2.186, en $25.206.614, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
