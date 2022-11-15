@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 896 de 5 de octubre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 58 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figura a nombre de INMOB E INVERSIONES CAMPO SUR LT, rol de avalúo 1546-105 de la comuna de Los Ángeles, superficie 214 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 662 de 28 de diciembre de 2021, integrada por Evaldo Roberto Contreras Roa, Juan Andrés Tepper Lavanderos y Víctor Marcelo Soto Troncoso, mediante informe de tasación de 15 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $5.779.700 para el lote Nº 58. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
