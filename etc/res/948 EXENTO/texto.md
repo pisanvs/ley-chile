@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 948 de 27 de octubre de 2022, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 2, Rol de avalúo 141-2, comuna de Taltal, superficie 769,10 m2., para la obra CONSTRUCCIÓN PLAYA SECTOR CENTRO TALTAL, COMUNA DE TALTAL, PROVINCIA Y REGIÓN DE ANTOFAGASTA. La comisión de peritos, integrada por RODRIGO IVÁN CARBACHO AEDO, CAROLINA VERÓNICA O'BRIAN MOLINA y BÁRBARA ALEJANDRA PORTILLA CORTÉS, fijó el valor de tasación con fecha 11 de septiembre de 2021, acordándose la indemnización con su propietaria BEATRICE MARTINE LORENTZ TAY, en la cantidad de $155.801.499.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
