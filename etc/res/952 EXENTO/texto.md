@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 952 de 27 de octubre de 2022, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 293, Rol de avalúo 751-3, comuna de Calbuco, superficie 1.369 m2., para la obra AMPLIACIÓN REPOSICIÓN PAVIMENTO RUTA V-85, SECTOR: HUITO - CALBUCO, COMUNA DE CALBUCO, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIA ANGÉLICA MORALES RIVERA y ANDRÉS ECHEVERRÍA CAMPO, fijó el valor de tasación con fecha 22 de febrero de 2019, acordándose la indemnización con su propietario MARCOS AURELIO ARISMENDI DÍAZ, en la cantidad de $8.561.109.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
