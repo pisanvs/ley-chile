@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº945, de 27 de octubre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, y artículo 12º de la Ley Nº 18.777, se expropió para SACYR AGUA SANTIAGO S.A. el lote de terreno Nº 2, para la obra: PEAS EL ALBA, que figura a nombre de ARREDONDO CALDERA LUIS Y OTROS, rol de avalúo 1260-2, Comuna de COLINA, REGION METROPOLITANA DE SANTIAGO, superficie 40,50 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, JUAN PABLO BERTELSEN MAYOL y MARIA LUISA CHAPERON TORO, mediante informe de tasación de 26 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $3.520.000 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
