@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 380 de 7 de noviembre de 2022, Serviu Región de Valparaíso, ha dispuesto expropiación Parcial conforme al artículo 51 ley 16.391 y decreto ley 2.186 de 1978, del lote signado como Parcela 14, ubicado en Río San Pedro N°1601, Parcela 14, Hacienda Siete Hermanas, comuna de Viña del Mar, en el plano DRS-P N° 002/2021 de fecha agosto/2021 "Proyectos habitacionales en el marco del Programa de Asentamientos Precarios del Ministerio de Vivienda y Urbanismo, en la comuna de Viña del Mar de la región de Valparaíso", de presunto dominio de Quiscal Vivienda S.A., rol avalúo 1701-03. Comisión Tasadora integrada por Julia Venegas Escalante, Claudio Sepúlveda Salinas y Óscar López, según informe de tasación respectivo, se fijó monto indemnización provisional en $1.232.426.919, que será pagada al contado.-
+
+Director (S) Serviu.
