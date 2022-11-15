@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 938, de 05 de octubre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº 206 de 1960, se expropiaron los lotes de terreno Nºs. 67 y 68, para la obra: CAMINO MEJORAMIENTO RUTA S-222 HUALACURA LOS BOLDOS, SECTOR HUALACURA LOS BOLDOS, TRAMO KM. 0,000 A KM. 13,49200, que figuran a nombre de NEICO SELLAO SILVIA DEL CARMEN Y OT, rol de avalúo 615-113, Comuna de NUEVA IMPERIAL, REGIÓN DE LA ARAUCANÍA, superficies 176.35 y 170.95 m2 respectivamente. La Comisión de Peritos integrada por CESAR NOLBERTO CAMPOS VERGARA, EVADO ROBERTO CONTRERAS ROA y PABLO ALEJANDRO SEPULVEDA GOMEZ, mediante informes de tasación de fecha 27 de mayo de 2012, fijó el monto de las indemnizaciones provisionales en las cantidades de $564.263.- para el lote Nº 67 y $143.213.- para el lote Nº 68. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
