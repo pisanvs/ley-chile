@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº944, de 27 de octubre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c) y 14º letra e) del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960 y artículo 12º de la Ley Nº 18.777, se expropió para la Empresa ESSBIO S.A. el lote de terreno Nº 2, para la obra: PEP l.06-22520 GESTIÓN DE TERRENO - SONDAJE 1456-99, que figura a nombre de CIA CHILENA FOSFOROS, rol de avalúo 205-30, Comuna de RENGO, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficie 417,52 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, VALENTINA ANDREA CHACALTANA SIMS y SERGIO JEREMIAS ORDENES SALINAS, mediante informe de tasación de 14 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $8.350.400 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
