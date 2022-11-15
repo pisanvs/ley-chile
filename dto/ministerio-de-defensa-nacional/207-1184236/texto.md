@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESION MARÍTIMA MENOR
+
+Decreto supremo N° 207, de 23.Ago.2022, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a nombre de Mora y Mora Compañía Limitada, RUT 78.036.310-K, concesión marítima menor, con vencimiento 30.Jun.2027, sobre un sector de fondo de río y uso de mejora fiscal, en lugar denominado sector Este Canal Haverbeck, comuna y provincia de Valdivia, Región de Los Ríos, con una superficie de 200 m2, la que fue tramitada con el SIABC N° 44976. A modo referencial se señala la siguiente coordenada geográfica, vértice A, LAT 39°49'44,47" S; LONG 73°15'04,81" W, datum WGS 84. El objeto consiste en regularizar uso de mejora fiscal, correspondiente a un embarcadero fijo para naves menores de 50 TRG. Los antecedentes de la concesión se encuentran a disposición del público en la Capitanía de Puerto de Valdivia. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Rodrigo Gatica Labra, Capitán de Corbeta LT, Capitán de Puerto de Valdivia.
