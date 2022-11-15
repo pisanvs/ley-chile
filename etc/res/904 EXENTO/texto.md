@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 904 de 5 de octubre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 198 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figura a nombre de FUNDO LOS BUENOS AIRES SPA, rol de avalúo 1549-28 de la comuna de Los Ángeles, superficie 630 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 667 de 28 de diciembre de 2021, integrada por Patricia Angélica Morales Rivera, Handy Ghislaine Campos Sepúlveda y Loreto Isabel Hernández Ríos, mediante informe de tasación de 21 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $7.196.000 para el lote N° 198. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
