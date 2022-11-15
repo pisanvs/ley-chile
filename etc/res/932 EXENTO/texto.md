@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 932, de 5 de octubre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 104, para la obra: CONSTRUCCIÓN RUTA PRECORDILLERANA, SECTOR RUTA L-11 - RUTA L-535 - PUENTE ACHIBUENO, que figura a nombre de TAPIA ENCINA MOISÉS, rol de avalúo 560-27, Comuna de LINARES, REGIÓN DEL MAULE, superficie 307 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNÁNDEZ, mediante informe de tasación de 9 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $1.393.800 para el lote N° 104. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
