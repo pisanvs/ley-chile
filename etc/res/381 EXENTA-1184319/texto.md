@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 381 de 7 de noviembre de 2022, Serviu Región de Valparaíso, dispuesto expropiación Parcial conforme al artículo 51 ley 16.391 y decreto ley 2.186 de 1978, del lote signado como Lote 2 E, ubicado en Variante Agua Santa 6055, Lote 2 E, Hacienda Siete Hermanas, comuna de Viña del Mar, en el plano DRS-P N° 003/2021 de fecha agosto / 2021 "Proyectos habitacionales en el marco del Programa de Asentamientos Precarios del Ministerio de Vivienda y Urbanismo, en la comuna de Viña del Mar de la región de Valparaíso" de Presunto Dominio de Quiscal Zqei S.A., rol avalúo 1704-6. Comisión Tasadora integrada por Julia Venegas Escalante, Claudio Sepúlveda Salinas y Óscar López, según informe de tasación respectivo, se fijó monto indemnización provisional en $750.867.390, que será pagada al contado.-
+
+Director (S) Serviu.
