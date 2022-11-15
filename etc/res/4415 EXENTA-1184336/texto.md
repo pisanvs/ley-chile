@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.415, de 7 de noviembre 2022, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Nueva 1 945 BKD 1 DP 10 Michaihue, Rol de avalúo N° 15801-10, comuna de San Pedro de la Paz, de aparente dominio de Guajardo Bustos Teresa del Carmen, en una superficie de 37,91 m2 de terreno, que corresponde al 0,62% de 6.065,67 m2 de superficie de terreno común (Condominio D) y de 45,102 m2 de edificación dentro de linderos señalados plano de expropiación S8R-42.508-1, para la ejecución de las obras del proyecto "Habilitación Conjunto Habitacional Michaihue 716 para la Regeneración San Pedro de la Paz", comuna de San Pedro de la Paz, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, por ingeniero civil Marcelo Puentes Garrido y por arquitecto Ricardo Echeverría Hohmann, según informe de fecha 26 de septiembre de 2022, fijó monto provisional indemnización, más reajuste del artículo 5° DL 2.186, en $23.304.126, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
