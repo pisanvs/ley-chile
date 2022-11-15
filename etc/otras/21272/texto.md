@@ -14,7 +14,7 @@ Para efectos de lo dispuesto en el inciso anterior, los mencionados profesionale
 
 #### Artículo 2
 
-Los docentes a quienes les hubiese correspondido ser evaluados en los años 2020 y 2021 y que hubiesen optado por acogerse a la suspensión de su evaluación por aplicación de esta ley, les corresponderá evaluarse durante el año 2022. Los restantes docentes a quienes les corresponda ser evaluados en el año 2022 podrán suspender su evaluación para el año inmediatamente siguiente o evaluarse voluntariamente durante ese mismo año.
+Los docentes a quienes les hubiese correspondido ser evaluados en los años 2020 y 2021 y que hubiesen optado por acogerse a la suspensión de su evaluación por aplicación de esta ley, les corresponderá evaluarse durante el año 2022.
 
 Sin perjuicio de lo anterior, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP), por resolución fundada, podrá adoptar todas las medidas necesarias para la administración de los procesos 2020 y 2021, incluidos otros mecanismos para hacer efectivo lo dispuesto en el artículo 1 de esta ley.".
 
