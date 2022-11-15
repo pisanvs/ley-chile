@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº922, de 05 de octubre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.5 y 6, para la obra: CONSERVACIÓN RED VIAL REGIÓN DE LA ARAUCANIA (2020-2022) PLAN RECUPERACIÓN, REPOSICIÓN PUENTE HUARA Y SUS ACCESOS, que figura a nombre de FORESTAL MININCO S A, rol de avalúo 407-46, Comuna de GORBEA, REGION DE LA ARAUCANÍA, superficies 193 y 598 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 10 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $379.900 para el lote Nº5, y $1.577.400 para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
