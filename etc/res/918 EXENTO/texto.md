@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°918, de 05 de octubre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido. coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 43 y 51, para la obra: MEJORAMIENTO RUTA W-883, CRUCE LONGITUDINAL DIAZ LIRA, SECTOR: PUREO APECHE, que figuran a nombre de MARQUEZ MARQUEZ GABRIEL ANGEL y QUINAN GUALA DINA DEL CARMEN, roles de avalúo 137-132 y 147-75, Comuna de QUEILEN, REGIÓN DE LOS LAGOS, superficies 462 y 1.262 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, RODRIGO ANDRES YAÑEZ RIFFO y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de 29 de noviembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.878.900, para el lote N°43 y $2.231.600, para el lote N°51. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
