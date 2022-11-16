@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 1.974, de 22 de septiembre de 2022, de esta Secretaría Regional, se modifican las resoluciones exentas Nº 145 y Nº 146, de 21 de julio de 2000, ambas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso, que otorgó reconocimiento oficial y aprobó planes y programas respectivamente a la Escuela de Conductores Profesionales o Clase A denominada Escuela de Conductores Automóvil Club de Chile Ltda., RUT Nº 77.323.230-K, ubicada en calle Uno Oriente N°1078, comuna de Viña del Mar, en orden de dejar establecido que los nuevos representantes legales son los señores Alfredo Andrés Lavanchy Lavanchy, RUN Nº 16.286.913-2 y don Renato Guidio Rezende de Castro, RUN Nº 24.462.640-8.-
+
+Benigno Retamal Rodríguez, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Valparaíso.
