@@ -1,4 +1,4 @@
-OTORGA A TRANSMISORA VALLE ALLIPEN S.A., CONCESIÓN DEFINITIVA PARA ESTABLECER LA LÍNEA DE TRANSMISIÓN DENOMINADA "LÍNEA 1x110 kV MELIPEUCO - RÍO TOLTÉN TRAMO II" EN LA REGIÓN DE ARAUCANÍA, PROVINCIA DE CAUTÍN, COMUNA DE CUNCO
+OTORGA A TRANSMISORA MELIPEUCO S.A., CONCESIÓN DEFINITIVA PARA ESTABLECER LA LÍNEA DE TRANSMISIÓN DENOMINADA "LÍNEA 1x110 kV MELIPEUCO - RÍO TOLTÉN TRAMO II" EN LA REGIÓN DE ARAUCANÍA, PROVINCIA DE CAUTÍN, COMUNA DE CUNCO
 
 Núm. 42.- Santiago, 22 de marzo de 2016.
 
@@ -16,7 +16,7 @@ Decreto:
 
 <!-- parte:9699316 -->
 
-Otórgase a Transmisora Valle Allipen S.A., concesión definitiva para establecer en la Región de Araucanía, provincia Cautín, comuna de Cunco, las instalaciones de transmisión de energía eléctrica correspondientes al proyecto que se detalla a continuación:
+Otórgase a Transmisora Melipeuco S.A., concesión definitiva para establecer en la Región de Araucanía, provincia Cautín, comuna de Cunco, las instalaciones de transmisión de energía eléctrica correspondientes al proyecto que se detalla a continuación:
 
 #### Artículo 2°
 
