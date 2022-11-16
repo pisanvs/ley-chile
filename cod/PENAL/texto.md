@@ -2784,7 +2784,7 @@ Cuando las amenazas se hicieren contra los profesionales y funcionarios de los e
 
 En los casos de los tres artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
 
-### XII. De la evasión de los detenidos
+### XII. De la evasión de los detenidos y el ingreso de los elementos que se señalan a los recintos penitenciarios
 
 #### Artículo 299
 
@@ -2815,6 +2815,12 @@ Si los fugados fueron dos o más, se tomará como base para fijar la pena de los
 #### Artículo 304
 
 Cuando empleando las reglas anteriores para aplicar la pena, no pudiera ésta determinarse por falta de grados inferiores o por no ser aplicables las de inhabilitación y suspensión, se impondrá la última que contenga la respectiva escala gradual.
+
+#### Artículo 304 bis
+
+El que sin estar legal o reglamentariamente autorizado al efecto ingresare, intentare o permitiere ingresar por cualquier medio a un establecimiento penitenciario intercomunicadores, teléfonos, partes de ellos, chips telefónicos u otros elementos tecnológicos que permitan comunicarse con el exterior, será sancionado con la pena de presidio menor en su grado mínimo a medio.
+
+Si las conductas a que se refiere el inciso anterior fueren perpetradas por un abogado, procurador o empleado público, la pena no se aplicará en su grado mínimo y, además, conllevará desde suspensión en su grado mínimo a inhabilitación absoluta temporal en cualquiera de sus grados para el ejercicio de la profesión y del cargo u oficio, respectivamente.
 
 XIII. De la vagancia y mendicidad. Derogado.-
 
