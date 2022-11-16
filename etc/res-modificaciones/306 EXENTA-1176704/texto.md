@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1. Modifícase la resolución exenta N° 183, de 16 de marzo de 2021, de este origen, en el sentido de incorporar en su resuelvo primero, a continuación de la letra i), en calidad de sujeto pasivo de la ley N° 20.730, que Regula el Lobby y las gestiones que representen Intereses particulares ante autoridades y funcionarios, lo siguiente: j) Asesor Macroeconómico de la Subsecretaría de Hacienda.
+1. Modifícase la resolución exenta N° 183, de 16 de marzo de 2022, de este origen, en el sentido de incorporar en su resuelvo primero, a continuación de la letra i), en calidad de sujeto pasivo de la ley N° 20.730, que Regula el Lobby y las gestiones que representen Intereses particulares ante autoridades y funcionarios, lo siguiente: j) Asesor Macroeconómico de la Subsecretaría de Hacienda.
 
 2. Dispóngase que, por razones impostergables de buen servicio, la incorporación del Asesor Macroeconómico de la Subsecretaría de Hacienda como sujeto pasivo de la ley N° 20.730, que Regula el Lobby y las gestiones que representen intereses particulares ante autoridades y funcionarios, producirá sus efectos a contar de la fecha de la presente resolución exenta.
 
