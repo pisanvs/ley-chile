@@ -36,7 +36,7 @@ f) Los correos electrónicos de fecha 5 y 8 de agosto de 2022, que dan cuenta de
 
 Resolución:
 
-1. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del L. Gral. B. O'Higgins para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual, para la Adquisición de Vivienda Construida, destinados a la atención de familias del conjunto habitacional "Baltazar Castro", de la comuna de Rancagua, por un monto total de hasta 250.000 Unidades de Fomento, a realizarse hasta el mes de diciembre del año 2022.
+1. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del L. Gral. B. O'Higgins para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual, para la Adquisición de Vivienda Construida, destinados a la atención de familias del conjunto habitacional "Baltazar Castro", de la comuna de Rancagua, por un monto total de hasta 267.750 Unidades de Fomento, a realizarse hasta el mes de diciembre del año 2022.
 
 2. Autorízase a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del L. Gral. B. O'Higgins para establecer las siguientes condiciones especiales, para la participación de las familias en el llamado que se autoriza a través del Resuelvo precedente, de acuerdo a lo establecido en el artículo 21 del DS N° 49 (V. y U.), de 2011, y sus modificaciones:
 
@@ -70,7 +70,7 @@ g. Las personas seleccionadas y nominadas por el Seremi de Vivienda y Urbanismo 
 
 4. Mediante resolución de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del L. Gral. B. O'Higgins, que se deberá publicar en el Diario Oficial, se aprobará la nómina de las familias integrantes de los proyectos seleccionados, la que deberá ser informada a la División de Política Habitacional de este Ministerio. Dicha resolución deberá ser cursada a más tardar el día 30 de diciembre de 2022. La difusión de dicha nómina deberá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-5. Impútase el monto de 250.000 Unidades de Fomento asignado en esta resolución exenta, a los recursos autorizados a la Región del L. Gral. B. O'Higgins, para el Programa Habitacional Fondo Solidario de Elección de Vivienda del año 2022.
+5. Impútase el monto de 267.750 Unidades de Fomento asignado en esta resolución exenta, a los recursos autorizados a la Región del L. Gral. B. O'Higgins, para el Programa Habitacional Fondo Solidario de Elección de Vivienda del año 2022.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
