@@ -1,0 +1,83 @@
+MODIFICA DECRETO SUPREMO Nº 664, DEL AÑO 2008, DEL MINISTERIO DE EDUCACIÓN, QUE ESTABLECE NORMAS SOBRE EL OTORGAMIENTO DE BECAS DEL PROGRAMA BECAS BICENTENARIO DE POSTGRADO, BECAS CHILE, EN LO QUE RESPECTA A LAS BECAS ADMINISTRADAS POR LA AGENCIA NACIONAL DE INVESTIGACIÓN Y DESARROLLO, EN EL SENTIDO DE FACULTAR LA PRÓRROGA DE BECAS BICENTENARIO DE DOCTORADO QUE HAYAN SUFRIDO INTERRUPCIÓN POR LA PANDEMIA PROVOCADA POR EL COVID-19, POR MEDIDAS DE CONFINAMIENTO Y OTRAS SIMILARES
+
+Núm. 27.- Santiago, 31 de mayo de 2022.
+
+Considerando:
+
+1. Que, el artículo segundo transitorio de la Ley Nº 21.105 establece que el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación será considerado para todos los efectos el sucesor y continuador legal del Ministerio de Educación, en todo lo que se relacione con las funciones y atribuciones que ésta u otras leyes le otorguen específicamente al Ministerio de Ciencia, Tecnología, Conocimiento e Innovación; y en todos aquellos reglamentos o actos administrativos relacionados con la Comisión Nacional de Investigación Científica y Tecnológica y que hayan sido expedidos a través del Ministerio de Educación, así como en los derechos y obligaciones nacidos de actos ejecutados o celebrados por este último relacionados con la misma Comisión.
+
+2. Que, el artículo quinto transitorio de la ley Nº 21.105 mandata que corresponderá al Presidente o Presidenta de la República adecuar a la normativa introducida por dicha ley los reglamentos y decretos que considere necesarios, pudiendo modificarlos, eliminarlos, reemplazarlos o dictar otros nuevos, según lo estime pertinente.
+
+3. Que, mediante el artículo 11 de la Ley Nº 21.105 se crea: "(...) la Agencia Nacional de Investigación y Desarrollo (en adelante también 'la Agencia'), como un servicio público descentralizado, con personalidad jurídica y patrimonio propio, que se relacionará con el Presidente o Presidenta de la República a través del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, y que estará afecto al Sistema de Alta Dirección Pública establecido en la ley Nº 19.882, que regula nueva política de personal a los funcionarios públicos que indica.
+
+La Agencia tendrá por objeto administrar y ejecutar los programas e instrumentos destinados a promover, fomentar y desarrollar la investigación en todas las áreas del conocimiento, el desarrollo tecnológico y la innovación de base científico-tecnológica, de acuerdo a las políticas definidas por el Ministerio.
+
+El domicilio de la Agencia será la ciudad de Santiago.".
+
+4. Que, el artículo tercero transitorio de la ley Nº 21.105, que Crea el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, dispone que la Agencia Nacional de Investigación y Desarrollo es, para todos los efectos, la sucesora legal de la Comisión Nacional de Investigación Científica y Tecnológica (CONICYT), en las materias de sus respectivas competencias, en concordancia con las funciones y atribuciones que la citada ley les otorga.
+
+5. Que, asimismo, el artículo 12, letra e), de la referida ley Nº 21.105, dispone que para el cumplimiento de su objeto la Agencia tendrá, entre otras, la facultad de: "Ejecutar programas y los diferentes instrumentos que apoyen la formación, en Chile o en el extranjero, de profesionales e investigadores altamente calificados.".
+
+6. Que las sucesivas Leyes de Presupuestos del Sector Público, desde el año 2009 hasta la actualmente vigente, han contemplado ininterrumpidamente el Programa Becas Bicentenario de Postgrado destinado a la formación en Chile o en el extranjero de profesionales e investigadores de alta calificación.
+
+7. Que, para efectos de ejecutar la asignación presupuestaria Becas Bicentenario de Postgrado, y en cumplimiento de la Ley Nº 20.314, de Presupuestos del Sector Público para el año 2009, se dictó el decreto supremo Nº 664, de 2008, del Ministerio de Educación, que estableció las normas sobre el otorgamiento de becas del Programa Becas Bicentenario de Postgrado para el año 2009, denominadas Becas Chile.
+
+8. Que, de acuerdo con lo dispuesto en el artículo 1º del decreto supremo Nº 664, de 2008, del Ministerio de Educación, el referido decreto regula la ejecución del programa Becas Bicentenario de Postgrado y en él se contemplan: "(...) las características de las becas, los tipos de estudios que podrá financiar este beneficio, los requisitos para ser beneficiario, la forma en que serán seleccionados, las condiciones y los montos de las becas y los demás beneficios de ellas, las obligaciones a las que estará sujeto el becario en el período de duración de la beca, las garantías que resguarden el cumplimiento de sus obligaciones, las condiciones de prórroga, suspensión y término de las becas y los compromisos con el país al finalizarla".
+
+9. Que, en dicho orden de ideas, el artículo 23 del citado decreto supremo Nº 664, de 2008, del Ministerio de Educación, dispone que: "Las entidades ejecutoras de las Becas Chile, excepcionalmente y sólo previa evaluación de los antecedentes correspondientes, podrán aceptar solicitudes por parte de los becarios para sustituir sus preferencias de postulación; cambios de universidades, instituciones educacionales, y/o centros de investigación; cambios de programas de estudios; suspensión de la beca, con o sin beneficios; prórrogas de beca para iniciar estudios; prórrogas de retorno y retribución; prórrogas para el cumplimiento de las obligaciones, término anticipado en caso de fuerza mayor o caso fortuito sin restitución de fondos".
+
+10. Que las atribuciones antes referidas se ejercen por la Agencia Nacional de Investigación y Desarrollo, entidad ejecutora de este programa, como antes por su antecesora CONICYT.
+
+11. Que, la ley Nº 21.289, de Presupuestos del Sector Público para el año 2021, en su Partida 30, Capítulo 02, Programa 01, Subtítulo 24, Ítem 01, Asignación 230, glosa 07, dispuso que: " (...) podrán concederse a los becarios del Programa Becas Chile una extensión por un plazo de máximo de 6 meses adicionales, al máximo dispuesto por el artículo 22, letra b, del decreto supremo Nº 664/2008 y sus modificaciones, del Ministerio de Educación, que establece normas para el otorgamiento de becas bicentenario de posgrado, a efecto de que dichos becarios puedan concluir sus investigaciones y programas de estudio, interrumpidos por el acaecimiento de la pandemia de COVID-19 y por las medidas de confinamiento, cierre de establecimientos y otras, que en cada país de destino y en su marco legal vigente han condicionado los planes de formación de postgrado.".
+
+12. Que, la ley Nº 21.395, de Presupuestos del Sector Público para el año 2022, en su Partida 30, Capítulo 02, Programa 01, Subtítulo 24, Ítem 01, Asignación 230, glosa 10, dispuso que esos recursos serán utilizados para financiar las becas de postgrado al extranjero asignadas a partir del año 2009, conforme al decreto supremo Nº 664, de 2008, del Ministerio de Educación y sus modificaciones, sin mantener la posibilidad de otorgar a los becarios del Programa Becas Chile, una extensión para efectos de que puedan concluir sus investigaciones y programas de estudio interrumpidos por los efectos de la pandemia de COVID-19. Por tanto, de conformidad a la ley, corresponde a dicho reglamento la regulación de la ejecución del programa Becas Bicentenario de Postgrado.
+
+13. Que como es de público conocimiento, con fecha 30 de enero de 2020, el Director General de la Organización Mundial de la Salud (OMS) declaró que el brote de COVID-19 constituía una Emergencia de Salud Pública de Importancia Internacional (ESPII) en virtud de lo dispuesto en el artículo 12 del Reglamento Sanitario Internacional, aprobado en nuestro país por el decreto Nº 230, de 2008, del Ministerio de Relaciones Exteriores, y el 11 de marzo de 2020 la OMS concluyó que el COVID-19 podía considerarse como una pandemia.
+
+14. Que habiendo transcurrido más de dos años desde los hechos referidos, la enfermedad aún no está controlada a nivel mundial y aún persisten diversas medidas de confinamiento, cierre de establecimientos y otras adoptadas por los países para enfrentar la pandemia.
+
+15. Que, en ese sentido, mediante el dictamen Nº 3.610, de 2020, la Contraloría General de la República, con ocasión del brote del COVID-19, señaló que en el contexto de la pandemia corresponde a los órganos de la Administración del Estado adoptar las medidas que el ordenamiento jurídico les confiere a fin de procurar el bienestar general de la población. Agrega el dictamen que: "A la luz de lo prescrito por el artículo 45 del Código Civil, norma de derecho común y de carácter supletorio, el caso fortuito constituye una situación de excepción que, en diversos textos normativos, permite adoptar medidas especiales, liberar de responsabilidad, eximir del cumplimiento de ciertas obligaciones o plazos, o establecer modalidades especiales de desempeño, entre otras consecuencias que en situaciones normales no serían permitidas por el ordenamiento jurídico".
+
+16. Que, por su parte, el artículo 3 del decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, en concordancia con lo dispuesto en el artículo 1º de la Constitución Política de la República, establece que la Administración del Estado está al servicio de la persona humana, su finalidad es promover el bien común atendiendo las necesidades públicas en forma continua y permanente y fomentando el desarrollo del país a través del ejercicio de las atribuciones que le confiere la Constitución y la ley.
+
+17. Que la situación sanitaria ocasionada por la pandemia del COVID-19 ha implicado el retraso en el desarrollo de los estudios de los beneficiarios de becas de postgrado en Chile y en el extranjero, lo que pone en peligro la inversión realizada por el Estado de Chile, con el riesgo de que algunos beneficiarios no puedan concluir sus programas de postgrado exitosamente por la falta de financiamiento.
+
+18. Que, en virtud de todo lo anterior, se dicta el presente acto administrativo que modifica el reglamento que regula el Programa Becas Bicentenario de Postgrado, Becas Chile, ya citado, con el objeto de facultar de manera excepcional a la Agencia Nacional de Investigación y Desarrollo para otorgar a los becarios de doctorado del Programa Becas Chile que tengan o hayan tenido vigente su beca durante todo o parte del período de duración de la situación de pandemia por COVID-19, declarada por la autoridad competente del país de destino, una extensión de beca por un plazo máximo de 6 meses, adicionales a los máximos dispuestos en el decreto supremo Nº 664, de 2008 y sus modificaciones, del Ministerio de Educación, a efectos de que puedan concluir sus investigaciones y programas de estudio, interrumpidos por el acaecimiento de la citada pandemia y/o por las medidas de confinamiento, cierre de establecimientos y otras, que han condicionado los planes de formación de postgrado.
+
+Visto:
+
+Lo dispuesto en los artículos 24, 32 Nº 6 y 35 de la Constitución Política de la República de Chile, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en la ley Nº 21.395, de Presupuestos del Sector Público para el año 2022; en el decreto supremo Nº 664, de 2008 y sus modificaciones, del Ministerio de Educación; en los artículos 11, 12, segundo transitorio y tercero transitorio de la ley Nº 21.105 y las resoluciones Nos 7, de 2019 y 16, de 2020, ambas de la Contraloría General de la República.
+
+Decreto:
+
+#### Artículo primero
+
+Modifícase el decreto supremo Nº 664, de 2008, del Ministerio de Educación, que establece las normas sobre el otorgamiento de becas del Programa Becas Bicentenario de Postgrado, en lo que respecta a las becas ejecutadas por la Agencia Nacional de Investigación y Desarrollo, en el sentido de agregar el siguiente artículo transitorio:
+
+#### Artículo primero
+
+transitorio: Facúltese de manera excepcional a la Agencia Nacional de Investigación y Desarrollo para otorgar una extensión de beca a los becarios de Doctorado y Doctorado con Acuerdo Bilateral del Programa Becas Bicentenario de Postgrado, Becas Chile, que hayan finalizado o finalicen su beca entre el 1 de julio de 2021 y el 31 de diciembre de 2024, si ésta ha tenido vigencia durante todo o parte del período de alerta sanitaria decretada por la autoridad sanitaria por la pandemia de COVID-19 o acreditada en la forma que se indica en el numeral 2 del inciso tercero de esta disposición.
+
+Dicha extensión será por un plazo máximo de seis meses, adicionales a los máximos dispuestos en el presente decreto y sus modificaciones, con el objeto de que los becarios puedan concluir sus investigaciones y programas de estudio interrumpidos por el acaecimiento de la pandemia de COVID-19 y/o por las medidas de confinamiento, cierre de establecimientos y otras, que han condicionado los planes de formación de postgrado. Quedan exceptuados de esta posibilidad los becarios que hayan obtenido la extensión de hasta un máximo de seis meses adicionales, de conformidad a la glosa 07 de la Partida 30, Capítulo 02, Programa 01, de la ley Nº 21.289, de Presupuestos del Sector Público del año 2021.
+
+Para tales fines, la Agencia hará un llamado anual a presentar las solicitudes de extensión a los becarios de doctorado que se encuentren en la hipótesis descrita en los incisos precedentes y cumplan los siguientes requisitos:
+
+1.- Ser beneficiario/a de una beca de beca de Doctorado o Doctorado con Acuerdo Bilateral del Programa Becas Chile que haya finalizado o finalice entre el 1 de julio de 2021 y el 31 de diciembre de 2024 y que haya tenido vigencia durante todo o parte del período de pandemia por COVID-19, declarada por la autoridad sanitaria competente del país de destino o acreditada en la forma que se indica en el numeral 2 siguiente.
+
+Se entenderá por vigencia de la beca aquella establecida en su convenio y sus modificaciones, incluidas todas las extensiones aprobadas o extensiones que se encuentren en tramitación ante la Agencia antes de la publicación del presente decreto.
+
+2.- Contar con el respaldo por escrito del/de la director/a del programa de doctorado o del/de la profesor/a guía o tutor/a de la Tesis Doctoral, o autoridad competente de la Universidad, donde se señala la necesidad de una extensión del periodo de la beca de doctorado a fin de que dichos becarios puedan concluir sus investigaciones y programas de estudio interrumpidos por el acaecimiento de la pandemia de COVID-19 y/o por las medidas de confinamiento, cierre de establecimientos y otras, que han condicionado los planes de formación de postgrado.
+
+Las extensiones otorgadas en uso de la facultad conferida en el presente artículo serán contabilizadas en el cómputo del periodo de la beca, dejándose constancia de ello en la modificación del convenio respectivo. Por consiguiente, los plazos de exigibilidad de las obligaciones que contemplan los artículos 25 y 26 del presente decreto para los becarios de Doctorado y Doctorado con Acuerdo Bilateral en orden a acreditar la obtención del grado académico, retornar al país y comenzar su periodo de retribución, se contabilizarán desde el vencimiento del período de extensión de un máximo de seis meses que se otorgue a los solicitantes, computándose dicha extensión, además, para determinar el periodo de retribución en Chile.
+
+La Agencia podrá solicitar antecedentes complementarios al becario o a la Universidad o institución académica en que se curse el Doctorado.
+
+La facultad de otorgar extensiones de becas de que trata este artículo solo podrá ejercerse por la Agenda Nacional de Investigación y Desarrollo hasta el 31 de diciembre de 2024.
+
+#### Artículo segundo
+
+Déjase constancia que se mantienen inalterables las modificaciones introducidas por los decretos supremos Nº 402, de 2011, Nº 474, de 2015, Nº 78, de 2016, y Nº 261, del año 2016 al decreto supremo Nº 664, de 2008, todos del Ministerio de Educación.
+
+Anótese, tómese razón y publíquese.- GABRIEL BORIC FONT, Presidente de la República.- Flavio Salazar Onfray, Ministro de Ciencia, Tecnología, Conocimiento e Innovación.- Mario Marcel Cullell, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento, decreto Nº 27 del 31 de mayo de 2022.- Atentamente, Juan Ernesto Sepúlveda Alonso, Subsecretario (S) de Ciencia, Tecnología, Conocimiento e Innovación.

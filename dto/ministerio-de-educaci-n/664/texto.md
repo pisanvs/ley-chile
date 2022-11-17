@@ -1844,6 +1844,26 @@ Los convenios internacionales en materia de formación de capital humano avanzad
 
 Derogado
 
+#### Artículo primero
+
+transitorio: Facúltese de manera excepcional a la Agencia Nacional de Investigación y Desarrollo para otorgar una extensión de beca a los becarios de Doctorado y Doctorado con Acuerdo Bilateral del Programa Becas Bicentenario de Postgrado, Becas Chile, que hayan finalizado o finalicen su beca entre el 1 de julio de 2021 y el 31 de diciembre de 2024, si ésta ha tenido vigencia durante todo o parte del período de alerta sanitaria decretada por la autoridad sanitaria por la pandemia de COVID-19 o acreditada en la forma que se indica en el numeral 2 del inciso tercero de esta disposición.
+
+Dicha extensión será por un plazo máximo de seis meses, adicionales a los máximos dispuestos en el presente decreto y sus modificaciones, con el objeto de que los becarios puedan concluir sus investigaciones y programas de estudio interrumpidos por el acaecimiento de la pandemia de COVID-19 y/o por las medidas de confinamiento, cierre de establecimientos y otras, que han condicionado los planes de formación de postgrado. Quedan exceptuados de esta posibilidad los becarios que hayan obtenido la extensión de hasta un máximo de seis meses adicionales, de conformidad a la glosa 07 de la Partida 30, Capítulo 02, Programa 01, de la ley Nº 21.289, de Presupuestos del Sector Público del año 2021.
+
+Para tales fines, la Agencia hará un llamado anual a presentar las solicitudes de extensión a los becarios de doctorado que se encuentren en la hipótesis descrita en los incisos precedentes y cumplan los siguientes requisitos:
+
+1.- Ser beneficiario/a de una beca de beca de Doctorado o Doctorado con Acuerdo Bilateral del Programa Becas Chile que haya finalizado o finalice entre el 1 de julio de 2021 y el 31 de diciembre de 2024 y que haya tenido vigencia durante todo o parte del período de pandemia por COVID-19, declarada por la autoridad sanitaria competente del país de destino o acreditada en la forma que se indica en el numeral 2 siguiente.
+
+Se entenderá por vigencia de la beca aquella establecida en su convenio y sus modificaciones, incluidas todas las extensiones aprobadas o extensiones que se encuentren en tramitación ante la Agencia antes de la publicación del presente decreto.
+
+2.- Contar con el respaldo por escrito del/de la director/a del programa de doctorado o del/de la profesor/a guía o tutor/a de la Tesis Doctoral, o autoridad competente de la Universidad, donde se señala la necesidad de una extensión del periodo de la beca de doctorado a fin de que dichos becarios puedan concluir sus investigaciones y programas de estudio interrumpidos por el acaecimiento de la pandemia de COVID-19 y/o por las medidas de confinamiento, cierre de establecimientos y otras, que han condicionado los planes de formación de postgrado.
+
+Las extensiones otorgadas en uso de la facultad conferida en el presente artículo serán contabilizadas en el cómputo del periodo de la beca, dejándose constancia de ello en la modificación del convenio respectivo. Por consiguiente, los plazos de exigibilidad de las obligaciones que contemplan los artículos 25 y 26 del presente decreto para los becarios de Doctorado y Doctorado con Acuerdo Bilateral en orden a acreditar la obtención del grado académico, retornar al país y comenzar su periodo de retribución, se contabilizarán desde el vencimiento del período de extensión de un máximo de seis meses que se otorgue a los solicitantes, computándose dicha extensión, además, para determinar el periodo de retribución en Chile.
+
+La Agencia podrá solicitar antecedentes complementarios al becario o a la Universidad o institución académica en que se curse el Doctorado.
+
+La facultad de otorgar extensiones de becas de que trata este artículo solo podrá ejercerse por la Agenda Nacional de Investigación y Desarrollo hasta el 31 de diciembre de 2024.
+
 Anótese, tómese razón y publíquese.- Michelle Bachelet Jeria, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Cristián Martínez Ahumada, Subsecretario de Educación.
