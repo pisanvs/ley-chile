@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 994 EXENTA, DE 14 DE NOVIEMBRE DE 2022
+
+Por resolución exenta Nº 994 del 14 de noviembre del año 2022, del Gobierno Regional de Ñuble, se indica:
+
+- **1.-** Que, mediante solicitud de fecha 10 de noviembre del año 2022 presentada por Municipalidad de San Carlos, se solicita corte de tránsito vehicular en comuna de San Carlos, por calle Serrano desde Gazmuri a Ossas el día 14 de noviembre de 2022 de 9:00 a 13:00 horas, desde Pedro Lagos a Ossas el día 19 de noviembre de 2022 de 9:00 a 16:00 horas, desde Ossas a Matta el día 27 de noviembre de 2022 de 9:00 a 16:00 horas, desde Matta a Vicuña Mackenna el día 17 de diciembre de 2022 de 9:00 a 16:00 horas, desde Vicuña Mackenna a Diego Portales el día 08 de enero de 2023 de 9:00 a 16:00 horas, desde Diego Portales a Joaquín del Pino el día 15 de enero de 2023 de 9:00 a 16:00 horas, con la finalidad de realizar Refuerzo de Línea media tensión propiedad de CGE.
+
+- **2.-** Que, el Gobierno Regional de Ñuble está de acuerdo, con dicho corte de tránsito, en los mismos términos solicitados.
+
+- **3.-** Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL 1 de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo. Prohíbese la circulación de todo tipo de vehículos en comuna de San Carlos, por calle Serrano desde Gazmuri a Ossas el día 14 de noviembre de 2022 de 9:00 a 13:00 horas, desde Pedro Lagos a Ossas el día 19 de noviembre de 2022 de 9:00 a 16:00 horas, desde Ossas a Matta el día 27 de noviembre de 2022 de 9:00 a 16:00 horas, desde Matta a Vicuña Mackenna el día 17 de diciembre de 2022 de 9:00 a 16:00 horas, desde Vicuña Mackenna a Diego Portales el día 08 de enero de 2023 de 9:00 a 16:00 horas, desde Diego Portales a Joaquín del Pino el día 15 de enero de 2023 de 9:00 a 16:00 horas, con la finalidad de realizar Refuerzo de Línea media tensión propiedad de CGE.
+
+Anótese y publíquese.- Alicia Contreras Vielma, Gobernadora Regional (S), Gobierno Regional de Ñuble.
