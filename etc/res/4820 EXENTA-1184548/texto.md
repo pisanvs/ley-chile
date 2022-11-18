@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 4.820, de fecha 13 de octubre de 2022, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Conductor Express SpA", RUT Nº 77.395.145-4, de propiedad de la sociedad del mismo nombre, cuyo representante legal es la señora Valeria del Carmen Fernández Villanueva, cédula de identidad Nº 15.389.899-5, cuyo director es el señor Ismael Rudi Taiba Portales, RUT Nº 13.098.571-8. La Escuela de Conductores estará ubicada en calle Esmeralda Nº 1039, oficina Nº 2, comuna de Talagante, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
