@@ -1,0 +1,17 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN LA DECLARACIÓN DE IMPACTO AMBIENTAL: "MODIFICACIÓN PLANTA DEPURADORA DE RILES EMPRESA SAN LORENZO S.A ."
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA), se comunica que, mediante resolución exenta Nº 202205001221, de fecha 10 de noviembre de 2022, la Directora Regional del Servicio de Evaluación Ambiental (SEA) de la Región de Valparaíso, se ha resuelto dar inicio a un proceso de participación ciudadana en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Modificación Planta Depuradora de RILes Empresa San Lorenzo S.A." cuyo titular es Sociedad de Inversiones San Lorenzo S.A., el que se emplazaría en la comuna de San Felipe, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300.
+
+Que, conforme a la descripción del proyecto "Modificación Planta Depuradora de RILes Empresa San Lorenzo S.A.", la tipología en virtud de la cual ingresa al Sistema de Evaluación de Impacto Ambiental (SEIA), corresponde a aquellas contempladas en el artículo 3 del RSEIA, letra o), que señala, entre otros, a sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos. El proyecto sometido al Sistema de Evaluación de Impacto Ambiental consiste en la modificación del antiguo sistema de tratamiento de Residuos Industriales Líquidos ("RILes"), para que las futuras operaciones de la planta procesadora de pasas de Empresa San Lorenzo S.A. cumplan con todos los requisitos ambientales vigentes. El sistema de depuración diseñado es del tipo "Lodos Activados", el cual tratará todos los RILes estrictamente asociados al proceso productivo. El Proyecto produciría carga ambiental de acuerdo a lo dispuesto en el artículo 94 del RSEIA, ya que generaría beneficios sociales y ocasionaría externalidades ambientales negativas en localidades próximas a su emplazamiento, durante su construcción u operación.
+
+Cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del RSEIA y tendrán un plazo legal para efectuarlas ante la Dirección Regional del SEA de 20 días hábiles, contados a partir de la fecha de la presente publicación, a través de su sitio web (www.sea.gob.cl) o bien en papel en la Oficina de Partes del Servicio de Evaluación Ambiental de la Región de Valparaíso, ubicado en Prat Nº 827, oficina 301, Valparaíso, o a través de la Oficina de Partes Virtual, https://www.sea.gob.cl/oficina-partes-virtual. Las observaciones deberán formularse por escrito, contener sus fundamentos y referirse a la evaluación ambiental del Proyecto.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle Prat 827, oficina 301, Valparaíso.
+
+. Sitio web www.sea.gob.cl.
+
+. https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=2022/11/10/3439 ebdca6940c94af539357d9eb986333e5.
+
+Paola La Rocca Mattar, Directora Regional, Servicio de Evaluación Ambiental Región de Valparaíso.
