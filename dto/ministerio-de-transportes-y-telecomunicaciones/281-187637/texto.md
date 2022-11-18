@@ -148,15 +148,23 @@ Telecomunicaciones de Libre Recepción o de Radiodifusión
 
 Los concesionarios del servicio de libre recepción o de radiodifusión, estarán afectos al pago de un derecho anual calculado según la fórmula indicada en el artículo 9º, por cada frecuencia asignada a una estación en el decreto o resolución de concesión, considerando los factores nominales consignados en la tabla que se indica a continuación y la constante de ajuste correspondiente:
 
-Tipo Banda de Radiodifusión K1 A (kHz)
+Tipo Banda de K1 A (kHz)
 
-Sonora 535 - 1.705 kHz 0,010119289 10
+Radiodifusión
 
-Sonora 88 - 108 Mhz 0,000418333 180
+Sonora 535 - 0,010119289 10
+
+1.705 kHz
+
+Sonora 88 - 0,000418333 180
+
+108 Mhz
 
 Televisiva VHF 0,000378419 6.000
 
-Televisiva UHF 0,000189210 6.000
+Televisiva UHF 0,000535116 6.000
+
+El valor de K1 para las estaciones de radiodifusión televisiva en la banda UHF financiadas por el Fondo de Desarrollo de las Telecomunicaciones, será igual a 0,000189210.
 
 Para efectos de determinar los derechos en el servicio de radiodifusión sonora, se considerará para el cálculo una potencia máxima de 50.000 W.
 
@@ -381,6 +389,10 @@ Para los efectos de dar cumplimiento a lo dispuesto en el artículo 32º, los co
 #### Artículo 2º
 
 Derógase el Decreto Supremo Nº 103, de 28 de junio de 1988, modificado por Decreto Supremo Nº 13, de 07 de enero de 1991, ambos del Ministerio de Transportes y Telecomunicaciones.
+
+#### Artículo 3°
+
+En el caso de los concesionarios de radiodifusión televisiva que por aplicación del inciso cuarto del artículo segundo transitorio de la ley N° 20.750 deban mantener, en forma simultánea y en una misma zona de servicio, una concesión analógica en banda VHF y una concesión digital en banda UHF, y sólo mientras dure tal condición, el valor K1 será de 0,000244613 para la banda VHF con tecnología analógica y 0,000189210 para la banda UHF con tecnología digital. Ambos valores de K1 señalados en el presente inciso se aplicarán para el cálculo del cobro por utilización del espectro radioeléctrico hasta el plazo señalado en el decreto citado en la letra i) de los Vistos para cumplir con la obligación de cobertura digital de la totalidad de las concesiones de radiodifusión televisiva de libre recepción. Una vez cesen las transmisiones analógicas, el derecho a pagar por zona de servicio será calculado en base al valor del parámetro K1 señalado en el artículo 11 para las transmisiones digitales en la banda UHF. Con todo, lo preceptuado en este inciso sólo tendrá aplicación respecto de aquellas estaciones transmisoras que vayan dando cumplimiento de modo completo a cada uno de los hitos de digitalización establecidos en el decreto supremo N° 95, de 2019, modificado al efecto por el decreto supremo N° 50, de 2021, ambos del Ministerio de Transportes y Telecomunicaciones.
 
 Anótese, regístrese, tómese razón, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de la Contraloría General de la República.- Jose Miguel Insulza Salinas, Vicepresidente de la República.- Carlos Cruz Lorenzen, Ministro de Transportes y Telecomunicaciones.
 
