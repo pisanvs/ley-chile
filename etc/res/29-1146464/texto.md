@@ -62,6 +62,32 @@ generación de residuos y promover un modelo de cambio en los sistemas lineales 
 
 1.14. "Spread total de una operación": diferencia entre el costo total de una operación para la empresa beneficiaria y la tasa de interés de la operación de refinanciamiento cobrada por CORFO.
 
+1.15. Empresa liderada por mujeres": aquella que cumple alguna de las siguientes condiciones:
+
+i. Personas jurídicas constituidas en Chile, que correspondan a una empresa liderada por mujeres.
+
+ii. Persona natural de sexo femenino (sexo y nombre registral), mayor de 18 años, que cuente con iniciación de actividades en un giro empresarial de primera categoría de la Ley de Impuesto a la Renta (DL N° 824, de 1974).
+
+Se entenderá que una empresa es liderada por mujeres, en los siguientes casos:
+
+### 1. En caso de personas naturales, si la empresaria individual es mujer
+
+2. En caso de personas jurídicas con fines de lucro que cuenten con un directorio (por exigirlo la ley o porque así lo acuerden los socios o accionistas), en cualquiera de los dos siguientes casos:
+
+i. Que una o más mujeres tengan participación en, al menos, un 50% del capital social, con derecho a voto (en otros términos, que una o más mujeres sean dueñas de la mitad o más de la sociedad).
+
+ii. Que una o más mujeres tengan participación en, al menos, un 30% del capital social, con derecho a voto, y que, además, una o más mujeres tienen facultad para representar a la sociedad, ya sea como directoras, gerentes, administradoras, o ejecutivas principales.
+
+3. En caso de personas jurídicas con fines de lucro que no cuenten con directorio, en cualquiera de los dos siguientes casos:
+
+i. Que una o más mujeres tengan participación en, al menos, un 50% del capital social (en otros términos, que una o más mujeres sean dueñas de la mitad o más de la sociedad).
+
+ii. Que una o más mujeres tengan participación en, al menos, un 30% del capital social, y que, además, una o más mujeres tienen facultad para representar a la empresa.
+
+4. En caso de personas jurídicas sin fines de lucro u otras (por ejemplo: corporaciones, fundaciones, asociaciones gremiales, entre otras):
+
+a. Si su directorio (o el órgano al que le corresponda la administración), está integrado, al menos, en un 50% por mujeres (en otros términos, que al menos la mitad del directorio esté integrado por mujeres).
+
 ### 2. OBJETIVO DEL PROGRAMA
 
 El objetivo del Programa es el refinanciamiento de las Operaciones a Empresas Beneficiarias para las inversiones que éstas realicen y que estén destinadas a la construcción, operación y puesta en servicio de proyectos, iniciativas y/o medidas de:
@@ -108,11 +134,11 @@ Los Préstamos a Intermediarios Financieros:
 
 2) Podrán tener un plazo máximo de 15 años, incluyendo el período de gracia, si lo tuviere.
 
-3) Podrán tener vencimientos de capital semestrales o anuales.
+3) Podrán tener vencimientos de capital mensuales, trimestrales, semestrales o anuales.
 
 4) Criterio de amortización: Los plazos de amortización se computarán a partir del día 15 del mes en que la Corporación efectúe cada desembolso y se pagarán cuando corresponda, según el plan de pago establecido en el pagaré.
 
-5) Criterio de devengo de intereses: Los intereses se devengarán por día, a partir de la fecha de cada desembolso y se pagarán semestral o anualmente, venciendo la primera cuota, según la periodicidad definida, a los 6 meses o 1 año, y en las fechas coincidentes con el pago de las cuotas de amortización.
+5) Criterio de devengo de intereses: los intereses se devengarán por día, a partir de la fecha de cada desembolso, y se pagarán mensual, trimestral, semestral, o anualmente, venciendo la primera cuota, según la periodicidad definida, al mes, a los 3 meses, a los 6 meses, o cada 1 año, y en las fechas coincidentes con el pago de las cuotas de amortización.
 
 6) Podrán ser solicitados en Pesos, en Dólares de los Estados Unidos de América, en adelante "USD", o en Unidades de Fomento, en adelante "UF". En las solicitudes de Préstamos que presenten los IFI a la Corporación, los montos requeridos se deberán expresar en alguna de estas monedas.
 
@@ -120,7 +146,7 @@ Los Préstamos a Intermediarios Financieros:
 
 4.2. Tasas de interés aplicable a los préstamos
 
-Los Préstamos serán otorgados con tasas de interés fija, de acuerdo con una tabla de tasas establecida trimestralmente por el Comité Ejecutivo de Créditos de CORFO, en adelante, el "CEC". Dicha tabla podrá distinguir entre diferentes plazos, monedas, tipos de proyectos elegibles -según se establece en el numeral 7 de estas Normas, u otro criterio que defina el CEC.
+Los préstamos serán otorgados con tasas de interés fija, de acuerdo con una tabla de tasas establecida trimestralmente por el Comité Ejecutivo de Créditos de Corfo, en adelante, el "CEC". Dicha tabla podrá distinguir entre diferentes plazos, monedas, tipos de proyectos elegibles -según se establece en el numeral 7 de estas Normas, u otro criterio que defina el CEC. Asimismo, podrá establecer tasas preferentes cuando las empresas beneficiarias sean lideradas por mujeres (en los términos definidos en el numeral 1.15), y con el tope de monto máximo de financiamiento, indicado en el numeral 8.1.
 
 La tasa de interés aplicable corresponderá a la tasa vigente al momento que el IFI ingrese a CORFO la Solicitud de Préstamo, ya sea a través de la Oficina de Partes o por el medio electrónico dispuesto por la Corporación.
 
@@ -198,7 +224,7 @@ Las solicitudes de refinanciamiento deberán contener, al menos, la siguiente in
 
 12) Región y comuna de la inversión.
 
-13) Índice de rentabilidad de la inversión (TIR en %).
+13) Eliminado.
 
 14) Descripción del proyecto.
 
@@ -452,6 +478,20 @@ Una ESCO y/o ESMAC podrá ser beneficiaria del presente Programa si, además de 
 
 2) La inversión inicial requerida a sus clientes para el desarrollo de un proyecto específico (que sea financiado con los fondos del Programa) no deberá ser superior al 10% del valor de la inversión total requerida, situación que debe quedar reflejada en el contrato respectivo.
 
+6.1. REEMPLAZO DE EMPRESAS BENEFICIARIAS.
+
+El Intermediario Financiero podrá solicitar el reemplazo de la empresa beneficiaria de las operaciones que hayan sido aprobadas y se encuentren refinanciadas. Este reemplazo podrá celebrarse mediante novación por cambio de deudor, cesión u otra modalidad que produzca un efecto similar. Para realizar este reemplazo se deberán cumplir los siguientes requisitos:
+
+1) El reemplazo de la empresa beneficiaria deberá ser solicitado por el IFI a la Gerencia de Inversión y Financiamiento. El IFI podrá celebrar los actos jurídicos necesarios para perfeccionar el reemplazo de la empresa beneficiaria después de ser notificado de la decisión de Corfo, si ésta fuere la aprobación.
+
+2) La empresa reemplazante deberá cumplir con los requisitos exigidos en estas Normas respecto de las empresas beneficiarias.
+
+3) El reemplazo producirá efectos después de que Corfo apruebe la solicitud y de que se celebren los actos a que se refiere el numeral 1.
+
+Los requisitos antes enumerados no serán exigibles si el reemplazo de la empresa fuere resultado de un acto de autoridad ajeno a la voluntad del IFI, como, por ejemplo, el resultado de una decisión administrativa o una resolución judicial. En este caso, solo deberá informarse al CEC el hecho del reemplazo.
+
+Cualquier modificación de las demás condiciones del préstamo aprobado por Corfo deberá cumplir, además, con el procedimiento de reprogramación establecido en el numeral 8.4 de estas Normas.
+
 ### 7. PROYECTOS ELEGIBLES
 
 Son elegibles las operaciones para los siguientes tipos de proyectos o iniciativas:
@@ -510,7 +550,11 @@ ii) Térmico.
 
 iii) Otras tecnologías aplicadas y probadas para almacenamiento energético.
 
-e) Electromovilidad.
+e) Electromovilidad:
+
+i) Vehículo eléctrico a batería
+
+ii) Vehículo con celda de combustible.
 
 3) Mejora medioambiental en procesos productivos en empresas, de Economía Circular y otras iniciativas. A modo de ejemplo:7
 
@@ -550,7 +594,9 @@ Las operaciones que los IFI cursen a las empresas beneficiarias deberán cumplir
 
 3) Hasta el 30% del financiamiento puede destinarse al capital de trabajo requerido para la puesta en operación del proyecto.
 
-4) Las empresas beneficiarias deberán aportar con recursos propios, al menos el 30% del monto total de los recursos requeridos por el proyecto.
+4) En las operaciones de crédito de dinero, las empresas beneficiarias deberán aportar con recursos propios, al menos, el 10% del monto total de la inversión requerida.
+
+Si la empresa beneficiaria es liderada por mujeres, el IFI podrá solicitar la aplicación de una tasa de interés preferente, definida por el CEC. No obstante lo anterior, la suma de los financiamientos para dicha empresa beneficiaria no podrá superar los USD500.000 (quinientos mil dólares de los Estados Unidos de América).
 
 8.2. Condiciones de las operaciones
 
@@ -600,7 +646,7 @@ Las operaciones reprogramadas:
 
 1) No pueden exceder el monto máximo definido en esta normativa de USD20.000.000 (veinte millones de dólares de los Estados Unidos de América) por RUT de empresa.
 
-2) Al menos el 30% del monto total de los recursos requeridos por el proyecto debe seguir siendo aportado por la empresa beneficiaria.
+2) En las operaciones de crédito de dinero, al menos el 10% del monto total de la inversión requerida debe seguir siendo aportado por la empresa beneficiaria.
 
 3) La operación original más el plazo adicional de la reprogramación no podrá exceder el plazo máximo establecido en esta normativa.
 
@@ -742,7 +788,7 @@ Además de las rendiciones mensuales, los IFI que operan el Programa deberán en
 
 14.1. Antecedentes financieros
 
-Los IFI que operan el Programa deben enviar anualmente a CORFO los Estados Financieros auditados y su Memoria Anual dentro de los 150 días corridos desde el cierre del año anterior.
+Los IFI que operan el Programa deben enviar anualmente a Corfo los Estados Financieros auditados y su Memoria Anual y/o Informe Anual de Gestión, dentro de los 150 días corridos desde el cierre del año anterior.
 
 Asimismo, deben enviar los pre-balances trimestrales al cierre de cada trimestre calendario, marzo, junio, septiembre y diciembre, dentro de los 60 días corridos siguientes al término de cada cierre trimestral. Respecto del envío de éstos, deberán contar con notas explicativas para las siguientes cuentas:
 
@@ -874,6 +920,8 @@ iii. Mora de 6 y hasta 30 días corridos en el pago de cualquier monto que el IF
 
 iv. Discrepancia entre las condiciones rendidas y las efectivamente entregadas a las Empresas Beneficiarias.
 
+v. Realizar una reprogramación en contravención a las Normas del Programa.
+
 D. Incumplimientos Gravísimos:
 
 i. Entrega de documentación falsa o no fidedigna.
@@ -881,6 +929,8 @@ i. Entrega de documentación falsa o no fidedigna.
 ii. Uso de recursos para fines distintos a los informados.
 
 iii. Mora superior a 30 días corridos en el pago de cualquier monto que el IFI deba pagar a CORFO.
+
+iv. Reemplazar a una empresa beneficiaria sin seguir el procedimiento establecido en estas Normas.
 
 15.2.3. Procedimiento de Sanción
 
