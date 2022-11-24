@@ -16,9 +16,11 @@ Objetivos
 
 #### Artículo 1°
 
-El Servicio de Bienestar del Ministerio de Planificación y Cooperación, en adelante Servicio de Bienestar, tiene por objeto propender al mejoramiento de las condiciones de vida de los funcionarios de dicho Ministerio y al perfeccionamiento social y humano de los mismos.
+El Servicio de Bienestar del Ministerio de Desarrollo Social y Familia, en adelante Servicio de Bienestar, tiene por objeto propender al mejoramiento de las condiciones de vida de los y las funcionarias de todas sus Subsecretarías y al perfeccionamiento social y humano de los y las mismas.
 
 Con el referido objeto, propenderá a lograr la utilización más completa, adecuada y racional de los recursos humanos, materiales y financieros de que disponga, orientándolos a proporcionar una atención integral a sus afiliados, considerados globalmente, esto es, tanto en sus aspectos propiamente personales, de salud y/o biosíquicos, en cuanto a las áreas familiar, social y cultural que les son propias.
+
+El Jefe o la Jefa del Servicio de Bienestar será designado por el ministro o la ministra de Desarrollo Social y Familia de conformidad a las disposiciones legales y reglamentarias vigentes, y será el secretario o la secretaria del Consejo Administrativo.
 
 #### Artículo 2°
 
@@ -42,19 +44,21 @@ De la Administración
 
 Del Consejo Administrativo
 
-#### Artículo 4°
+#### Artículo 4º
 
-El Consejo Administrativo del Servicio de Bienestar estará integrado por 6 miembros, que serán los siguientes:
+La Administración del Servicio de Bienestar corresponderá al Consejo Administrativo del Servicio de Bienestar, órgano que estará compuesto por ocho integrantes:
 
-a) El Ministro de Planificación y Cooperación o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) El ministro o ministra de Desarrollo Social y Familia, o la persona a quien éste o ésta designe en su representación, quien lo presidirá.
 
-En ambos casos, estas personas presidirán el Consejo.
+b) El o la Fiscal del Ministerio, o la persona quien éste o ésta designe en su representación.
 
-b) El Jefe de la División Jurídica;
+c) El jefe o jefa del Departamento de Gestión y Desarrollo de Personas de la Subsecretaría de la Niñez, o el o la funcionario/a quien aquel o aquella designe en su representación.
 
-c) El Jefe del Departamento de Personal, y
+d) El jefe o jefa del Departamento de Gestión y Desarrollo de Personas de la Subsecretaría de Evaluación Social, o la persona quien éste o ésta designe en su representación.
 
-d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
+e) Cuatro representantes de las personas afiliadas y sus respectivos suplentes, debiendo elegirse un o una representante y su suplente por cada Subsecretaría conforme al artículo 5º de este reglamento y un o una representante por la Asociación de funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
+
+Todos los acuerdos del Consejo Directivo se adoptarán por mayoría absoluta de los miembros que asistan a las sesiones del Consejo y en caso de empate en la votación la decisión será dirimida por el ministro o ministra de Desarrollo Social y Familia, o la persona que la o lo represente.
 
 #### Artículo 5°
 
@@ -64,13 +68,15 @@ Si del proceso de la elección resultaren empatados en el segundo lugar dos cand
 
 #### Artículo 6°
 
-Para ser elegido representante del personal, además de los requisitos señalados en el artículo 20 del Reglamento General, se requiere no ser integrante del escalafón directivo de la planta del Ministerio de Planificación y Cooperación.
+Para ser elegido representante del personal, además de los requisitos señalados en el artículo 20 del Reglamento General, se requiere no ser integrante del escalafón directivo de la planta de la Subsecretaría de Evaluación Social, Subsecretaría de Servicios Sociales o Subsecretaría de la Niñez, según corresponda.
 
 #### Artículo 7°
 
 El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. En las sesiones extraordinarias sólo podrán tratarse las materias determinadas en la convocatoria o en el acuerdo que las origine.
 
 Las sesiones ordinarias se realizarán cada dos meses, en el día y hora que fije el Consejo. Las sesiones extraordinarias sólo pueden ser convocadas por el Presidente, de oficio o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo o por acuerdo de éste.
+
+El quórum mínimo para celebrar las sesiones del Consejo será de seis de sus integrantes.
 
 #### Artículo 8°
 
@@ -80,6 +86,12 @@ Las citaciones a las sesiones ordinarias y extraordinarias del Consejo Administr
 
 El Consejo Administrativo, además de las funciones señaladas en el artículo 29, del Reglamento General, deberá fijar los intereses y reajustes que devengarán los préstamos que otorgue el Servicio de Bienestar, ajustándose a las normas de la Ley N° 18.010.
 
+Del Jefe o Jefa del Servicio de Bienestar
+
+#### Artículo 9° bis
+
+El jefe o jefa del Servicio de Bienestar, que será designado por el ministro o la ministra de Desarrollo Social y Familia, de conformidad a lo señalado en el artículo 1º del presente reglamento, tendrá las funciones que le asigna el artículo 31º del decreto supremo Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social.
+
 ## Título III
 
 Financiamiento
@@ -88,7 +100,7 @@ Financiamiento
 
 El Servicio de Bienestar se financiará con:
 
-a) Los aportes que anualmente se consulten en el Presupuesto del Ministerio de Planificación y Cooperación, que éste aportará con sujeción a las normas legales y estatutarias vigentes;
+a) Los aportes que anualmente se consulten en el Presupuesto del Ministerio de Desarrollo Social y Familia, que éste aportará con sujeción a las normas legales y estatutarias vigentes;
 
 b) El aporte mensual de sus afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones, que fijará el Consejo Administrativo;
 
@@ -158,9 +170,9 @@ p) Contratar seguros de vida para sus afiliados, seguros de salud, para solventa
 
 Se podrán otorgar sin cargo de restitución a los afiliados, por las causales y con las modalidades que se indican, los siguientes subsidios:
 
-a) De Matrimonio: se concederá al afiliado que contraiga matrimonio y se acreditará con el correspondiente certificado. Si ambos contrayentes fueren afiliados al Servicio de Bienestar, ambos tendrán derecho a solicitar el beneficio íntegro en forma independiente;
+a) De Matrimonio o de Acuerdo de Unión Civil: se concederá al o la afiliado/a que contraiga matrimonio o celebre Acuerdo de Unión Civil y se acreditará con el correspondiente certificado. Si ambos/as contrayentes o convivientes civiles fueren afiliados/as al Servicio de Bienestar, ambos/as tendrán derecho a solicitar el beneficio íntegro en forma independiente;
 
-b) De Nacimiento: se concederá al afiliado que acredite, mediante el respectivo certificado, el nacimiento de cada hijo. Si ambos padres fueren afiliados al Servicio de Bienestar, cada uno tendrá derecho a recibir el beneficio íntegro en forma independiente;
+b) De Nacimiento o de Adopción: se concederá al afiliado/a que acredite, mediante el respectivo certificado, el nacimiento o la adopción de cada hijo o hija. Si el padre y la madre, o ambos padres o ambas madres, fueren afiliados/as al Servicio de Bienestar, cada uno/a tendrá derecho a recibir el beneficio íntegro en forma independiente;
 
 c) De Estudios: se concederá por cada afiliado estudiante o por cada hijo estudiante que constituya carga familiar de aquél, una vez cada año.
 
@@ -170,13 +182,11 @@ Para el efecto de este subsidio, se entenderá que son estudiantes todos aquello
 
 Asimismo, darán lugar a este beneficio los estudios de perfeccionamiento que realice el afiliado, tales como cursos de idiomas u otros similares destinados a incrementar o desarrollar su preparación cultural;
 
-d) Por Fallecimiento: procederá por el fallecimiento del afiliado o de alguna de sus cargas familiares. La defunción deberá acreditarse mediante el correspondiente certificado. En caso de fallecimiento del afiliado, este subsidio se pagará al cónyuge sobreviviente. A falta de éste se pagará conforme al siguiente orden de precedencia: hijos, padres, abuelos y nietos. En caso de faltar los beneficiarios enumerados, el Servicio de Bienestar podrá concurrir directamente al pago de los gastos de funerales por el máximo que corresponda, o bien otorgará esta asignación a quien acredite haber efectuado tales gastos.
+d) De fallecimiento: Procederá por el fallecimiento del afiliado o afiliada o de alguna de sus cargas familiares. La defunción deberá acreditarse mediante el correspondiente certificado. En caso de fallecimiento del afiliado o afiliada, este subsidio se pagará al o a la cónyuge sobreviviente o a su conviviente civil acreditado/a. A falta de éste/a, se pagará conforme al siguiente orden de precedencia: hijos/as, padres, abuelos/as y nietos/as. En caso de faltar los beneficiarios enumerados, el Servicio de Bienestar podrá concurrir directamente al pago de los gastos de funerales por el máximo que corresponda, o bien otorgará esta asignación a quien acredite haber efectuado tales gastos.
 
-Se otorgará el mismo subsidio por fallecimiento del hijo recién nacido, aun cuando no hubiere sido reconocido como carga familiar y por el mortinato a partir del quinto mes de gestación.
+Se otorgará el mismo subsidio por fallecimiento del hijo o hija recién nacido/a, aun cuando no hubiere sido reconocido/a como carga familiar y por la o el mortinata/o a partir del quinto mes de gestación.
 
-El monto de cada una de las asignaciones a que se refiere este número será determinado anualmente por el Consejo Administrativo del Bienestar.
-
-e) Subsidio Catastrófico: se podrá otorgar por una sola vez en el año y en una sola cuota, un subsidio catastrófico, para el caso que el afiliado, directamente, sea afectado por una enfermedad o evento que revista dicho carácter. Para estos efectos se entenderá por enfermedad catastrófica, la que fuera definida así por el Ministerio de Salud para su cobertura en Fonasa y por evento catastrófico todo hecho proveniente de caso fortuito o fuerza mayor que perjudique notoriamente los ingresos mensuales de los afiliados al Servicio (inundaciones, accidentes, incendios, etc.). Este subsidio se otorgará previo Informe Social y/o antecedentes médicos que acrediten la existencia y gravedad de la enfermedad o evento catastrófico de que se trate, así como con la debida aprobación del Consejo Administrativo que podrá requerir la documentación que estime pertinente para la evaluación de dicha situación.
+e) Subsidio Catastrófico: Se podrá otorgar por una sola vez en el año y en una sola cuota, un subsidio catastrófico para el caso que el afiliado o afiliada, directamente, sea afectado/a por una enfermedad o evento que revista dicho carácter. Para estos efectos se entenderá por enfermedad catastrófica, toda aquella cuyos costos perjudique los ingresos del grupo familiar y por evento catastrófico todo hecho proveniente de caso fortuito o fuerza mayor que perjudique notoriamente los ingresos mensuales de los afiliados o afiliadas al Servicio de Bienestar (inundaciones, accidentes, incendios, pandemia, catástrofes naturales, etc.) o se encuentren en situaciones excepcionales que mermen sus ingresos notoriamente calificados como tales por el Consejo Administrativo. Este subsidio se otorgará previo informe social de la jefatura del Servicio de Bienestar y antecedentes necesarios que acrediten la existencia y gravedad de la enfermedad o evento catastrófico de que se trate, además previo a la aprobación del Consejo Administrativo este podrá requerir la documentación que estime pertinente para la evaluación de dicha situación.
 
 3. Préstamos:
 
@@ -184,11 +194,9 @@ El Servicio de Bienestar podrá otorgar préstamos a sus afiliados, cuando sus r
 
 a) Préstamos Médicos: se otorgarán como complemento de las prestaciones a que se refiere el N° 1 de este artículo. La suma de los préstamos que se otorguen al afiliado por este concepto en cada año calendario, no podrá exceder de 5 ingresos mínimos;
 
-b) Préstamos de Emergencia: se otorgarán por necesidades urgentes debidamente calificadas por el Consejo Administrativo previo informe del Jefe del Servicio de Bienestar. Su monto no podrá exceder de 3 ingresos mínimos al año por afiliado; para solicitar un nuevo préstamo de emergencia será necesario haber reintegrado la totalidad del préstamo pendiente. Para impetrar este tipo de préstamo se exigirá una antigüedad mínima de un año como afiliado al Servicio de Bienestar, debiendo el afiliado, además, acompañar documentación que justifique esta solicitud con el objeto de priorizar socioeconómicamente la urgencia.
+b) Préstamos de Emergencia: Se otorgarán por necesidades urgentes debidamente calificadas por el Jefe o la Jefa del Servicio de Bienestar previo informe social fundado y por un monto que no podrá exceder de 3 ingresos mínimos al año por afiliado. Atendido el carácter urgente de esta prestación, esta se otorgará con el solo informe social referido y deberá informarse siempre a los o las Consejeros/as en la próxima sesión ordinaria del Consejo. Para impetrar este tipo de préstamo se exigirá una antigüedad mínima de un año como afiliado al Servicio de Bienestar, debiendo el afiliado o afiliada, además, acompañar documentación que justifique esta solicitud con el objeto de priorizar socioeconómicamente la urgencia.
 
-Los préstamos serán amortizados en un plazo de hasta 12 meses y su reajustabilidad e intereses serán fijados por el Consejo Administrativo, de acuerdo a las disposiciones contenidas en la Ley N° 18.010.
-
-La solicitud de cualquier préstamo será avalada por dos codeudores solidarios, quienes a su vez deben tener la calidad de afiliado al Servicio de Bienestar.
+Para solicitar un nuevo préstamo de emergencia será necesario haber reintegrado la totalidad del préstamo pendiente.
 
 4. Asistencia Social:
 
@@ -215,6 +223,8 @@ d) Participar en la organización y/o financiamiento de la celebración de las f
 e) Celebración de la Navidad, colaborando tanto en la organización de la propia celebración, cuanto en el financiamiento total o parcial de la misma y de los obsequios para los afiliados y los de sus hijos, cargas familiares, de hasta 12 años.
 
 Respecto de la celebración de la fiesta de Navidad en regiones, será responsable de la rendición del gasto respectivo el Jefe Administrativo de cada región, quien deberá velar porque los fondos asignados sean gastados de acuerdo a lo autorizado por el Consejo Administrativo. Además, el Servicio de Bienestar, si su presupuesto lo permite, podrá ayudar a las regiones y al nivel central en la realización de una fiesta de Navidad para niños.
+
+f) Al desarrollo de eventos o actividades recreativas, celebraciones de aniversario institucional, celebración de Fiestas Patrias, programas de vacunación, así como promoción de estilo de vida saludable, y otras de carácter institucional para los afiliados y afiliadas, previo acuerdo del Consejo Administrativo.
 
 #### Artículo 13
 
