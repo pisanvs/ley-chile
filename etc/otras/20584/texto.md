@@ -234,6 +234,8 @@ Por regla general, este proceso se efectuará en forma verbal, pero deberá cons
 
 Sin perjuicio de las facultades de los padres o del representante legal para otorgar el consentimiento en materia de salud en representación de los menores de edad competentes, todo niño, niña y adolescente tiene derecho a ser oído respecto de los tratamientos que se le aplican y a optar entre las alternativas que éstos otorguen, según la situación lo permita, tomando en consideración su edad, madurez, desarrollo mental y su estado afectivo y psicológico. Deberá dejarse constancia de que el niño, niña o adolescente ha sido informado y se le ha oído.
 
+Con todo, no se requerirá autorización de los progenitores o de quien ostente el cuidado personal y/o patria potestad de mayores de 14 años, cuando se trate de la toma de exámenes PCR (Reacción en Cadena de la Polimerasa) realizada por personal de salud, en cualquier establecimiento de salud autorizado o en el contexto del programa de Búsqueda de Casos Activos, y que es parte de la estrategia nacional de testeo, trazabilidad y aislamiento del Estado, bastando para ello el consentimiento del niño, niña o adolescente.
+
 En el caso de una investigación científica biomédica en el ser humano y sus aplicaciones clínicas, la negativa de un niño, niña o adolescente a participar o continuar en ella debe ser respetada. Si ya ha sido iniciada, se le debe informar de los riesgos de retirarse anticipadamente de ella.
 
 #### Artículo 15
