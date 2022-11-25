@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 725 EXENTA, DE 8 DE NOVIEMBRE DE 2022
+
+Por resolución exenta Nº 725, de fecha 8 de noviembre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Coquimbo, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales o Clase A denominada "Organismo Técnico de Capacitación Geocap Ltda.", RUT 76.612.314-7, representada legalmente por doña Adriana Elizabeth Tapia Véliz, RUN 11.723.256-5, y por don Javier Antonio Cortés Tapia, RUN 16.878.680-8, para impartir los cursos conducentes a la obtención de las licencias Clase A-2 y A4. La Escuela de Conductores estará ubicada en calle José Miguel Carrera Nº 250 y taller mecánico en calle Infante Nº 155, ambos en la comuna de Vicuña.-
+
+Alejandra Andrea Maureira Flores, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
