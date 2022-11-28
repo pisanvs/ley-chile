@@ -1,0 +1,5 @@
+DEJA SIN EFECTO RESOLUCIONES EXENTAS QUE INDICA
+
+Por resolución exenta N° 2.419, de 21 de noviembre de 2022, de esta Subsecretaría, déjese sin efecto las resoluciones exentas N° 2.278, N° 2.285, N° 2.288, N° 2.293, N° 2.354, N° 2.451, N° 2.454, N° 2.504, N° 3.112, todas de 2007, de esta Subsecretaría, que autorizaron al armador Corpesca S.A. para realizar actividades pesqueras extractivas en alta mar con las naves industriales "Squa", "Patillos", "Roble", "La Huaica", "Bio Bio", "Eperva 44", "Parinacota", "Eperva 46" y "Sagasca", por configurarse la causal establecida en el artículo 11.- letra a) del decreto supremo N° 360, de 2005, del actual Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 21 de noviembre de 2022.- Paulo Sepúlveda Sepúlveda, Subsecretario de Pesca y Acuicultura (S).
