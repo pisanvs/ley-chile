@@ -24,7 +24,7 @@ h) El Plano de Expropiación para el Programa de Emergencia Habitacional 2022, N
 
 i) El Plano de Expropiación para el Programa de Emergencia Habitacional 2022, Nº Lote de Expropiación 02-0, que corresponde al predio ubicado en Variante Camino Internacional Nº 1295, Lote 16, Rol Nº 114-45, de la comuna de Pucón;
 
-j) El oficio Ord. Nº 2456, de fecha 1 de agosto de 2022, del Director (S) Serviu Región de la Araucanía, mediante el cual se solicita se dicte el decreto supremo que apruebe el programa de expropiación de los terrenos ubicados en Variante Camino Internacional Nº 1295, Lotes 15 y 16, Roles de Avalúo Nºs 114-396 y 114-45, respectivamente, ambos de la comuna de Padre Las Casas, para la implementación de Plan de Emergencia Habitacional;
+j) El oficio Ord. Nº 2456, de fecha 1 de agosto de 2022, del Director (S) Serviu Región de la Araucanía, mediante el cual se solicita se dicte el decreto supremo que apruebe el programa de expropiación de los terrenos ubicados en Variante Camino Internacional Nº 1295, Lotes 15 y 16, Roles de Avalúo Nºs 114-396 y 114-45, respectivamente, ambos de la comuna de Pucón, para la implementación de Plan de Emergencia Habitacional;
 
 k) El memorándum Nº 91, de 31 de agosto de 2022, del Jefe de la División de Desarrollo Urbano, que solicita a la Jefa de la División Jurídica se dicte el decreto supremo que apruebe, para la Región de la Araucanía, el programa de expropiación de los referidos inmuebles;
 
@@ -44,11 +44,13 @@ Considerando:
 
 Decreto:
 
-1. Apruébase el programa de expropiaciones para la implementación del Plan de Emergencia Habitacional en la Región de la Araucanía, para adquirir los siguientes inmuebles ubicados en la comuna de Padre Las Casas, conforme a los planos, fichas e informes citados en los Vistos letras f), g), h), i), j) y m):
+1. Apruébase el programa de expropiaciones para la implementación del Plan de Emergencia Habitacional en la Región de la Araucanía, para adquirir los siguientes inmuebles ubicados en la comuna de Pucón, conforme a los planos, fichas e informes citados en los Vistos letras f), g), h), i), j) y m):
 
-Superficie total aproximada a expropiar: 10.055,67 m².
+Superficie total aproximada a expropiar: 10.146,67 m².
 
 2. Publíquese el presente decreto en el Diario Oficial y en un periódico de la provincia de Cautín, si lo hubiere.
+
+> **Nota.** La letra b del numeral 1° del Decreto 65 Exento, Vivienda, publicado el 28.11.2022, modifica la presente norma en el sentido de remmplazar en el cuadro del numeral 1, en la columna "Superficie aproximada a expropiar", relativa al Lote 16-1, el guarismo "898,18", por "989,18".
 
 Anótese, notifíquese y publíquese.- Por orden del Presidente de la República, Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
