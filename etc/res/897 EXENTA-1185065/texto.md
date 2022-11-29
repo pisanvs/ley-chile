@@ -1,0 +1,11 @@
+APRUEBA NÓMINA DE POSTULANTES SELECCIONADOS PARA EL LLAMADO NACIONAL 2022 EN CONDICIONES ESPECIALES, CONFORME A LA RESOLUCIÓN Nº 862 EXENTA (V. Y U.), DE FECHA 13 DE JULIO DE 2022, QUE LLAMA A PROCESO DE SELECCIÓN EN CONDICIONES ESPECIALES PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, REGULADO POR EL DS Nº 49 (V. Y U.), DE 2011, ALTERNATIVA INDIVIDUAL, MODALIDAD ADQUISICIÓN DE VIVIENDA CONSTRUIDA, NUEVA O USADA, ADSCRIPCIÓN A NÓMINA DE OFERTA DE PROYECTOS HABITACIONALES O LA MODALIDAD DE CONSTRUCCIÓN EN SITIO PROPIO O DENSIFICACIÓN PREDIAL, SEGÚN CORRESPONDA, A PERSONAS PERTENECIENTES AL CATASTRO DE CAMPAMENTOS DEL PROGRAMA DE ASENTAMIENTOS PRECARIOS DEL MINISTERIO DE VIVIENDA Y URBANISMO, DESTINADO A 80 SUBSIDIOS HABITACIONALES DE LA REGIÓN DE COQUIMBO. CUYO RESUELVO PRESCRIBE LO SIGUIENTE:
+
+Que la resolución exenta Nº 897, de la Seremi de Vivienda y Urbanismo Región de Coquimbo, de fecha 23 de noviembre de 2022, resolvió:
+
+1. Aprueba nómina de postulantes seleccionados correspondientes al llamado 2022, para el desarrollo de proyectos de subsidios habitacionales del Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011; Alternativa individual, modalidad adquisición de Vivienda Construida, Nueva o Usada, adscripción a nómina de oferta de proyectos habitacionales o la modalidad de Construcción en Sitio Propio o Densificación Predial, según corresponda, a personas pertenecientes al Catastro de Campamentos del programa de Asentamientos Precarios del Ministerio de Vivienda y Urbanismo. Se destinarán al financiamiento de los subsidios y al pago de los servicios de asistencia técnica, según la distribución que se señala a continuación:
+
+2. Impútese un total de 73.475 UF, del Programa Habitacional Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, para la atención de 80 beneficiarios, al Programa Habitacional del año 2022 para la región de Coquimbo.
+
+Los textos íntegros de esta resolución están publicados de la página web (www.minvu.cl) del Ministerio de Vivienda y Urbanismo.
+
+Anótese, notifíquese y publíquese.- José Manuel Peralta León, Secretario Regional Ministerial Vivienda y Urbanismo Región de Coquimbo.
