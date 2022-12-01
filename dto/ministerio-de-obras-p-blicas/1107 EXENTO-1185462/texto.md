@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1107 de 4 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 96 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de La Araucanía, que figura a nombre de SOC COMER E INV TRES PALMAS LTDA, rol de avalúo 1433-2 de la comuna de Renaico, superficie 45 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 172 de 24 de mayo de 2022, integrada por Tatiana Yasmín Gutiérrez Ortiz, Miguel Juan Fernández Cádiz y Valeria Madariaga Tordecilla, mediante informe de tasación de 12 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.922.500 para el lote N° 96. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
