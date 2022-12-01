@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.506, de 9 de noviembre 2022, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Nueva 1 945 BKD 9 DP 8 Michaihue, Rol de Avalúo Nº 15801-136, comuna de San Pedro de la Paz, de aparente dominio de Paris San Martín Anibal Maximili, en una superficie de 37,91 m2 de terreno, que corresponde al 0,62% de 6.065,67 m2 de superficie de terreno común (Condominio D) y de 45,514 m2 de edificación, dentro de linderos señalados plano de expropiación S8R-42.535-1, para la ejecución de las obras del proyecto Habilitación Conjunto Habitacional Michaihue 716 para la Regeneración San Pedro de la Paz, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la arquitecta civil Marcela Melo Rodríguez, por el arquitecto Andrés Tobar Beluzán y por el constructor civil Omar Aspé Neira, según informe de fecha 3 de octubre de 2022, fijó monto provisional indemnización, más reajuste del artículo 5º DL 2.186, en $24.704.034, pagadera de contado.
+
+Director (S), Serviu Región del Biobío.
