@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1045, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 57-D, para la obra: MEJORAMIENTO CAMINOS VARIOS EN COMUNA DE COYHAIQUE, SECTOR CRUCE RUTA 243 CH (TEJAS VERDES) - LAS BANDURRIAS, que figura a nombre de ORELLANA GAETE MARIA TERESA, rol de avalúo 1073-11, Comuna de COYHAIQUE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 243 m2. La Comisión de Peritos integrada por VALENTINA ANDREA CHACALTANA SIMS, PAULO ANDRÉS DIAZ VERGARA y RAYEN GUZMAN THEODULOZ, mediante informe de tasación de 06 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.264.000, para el lote Nº57-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
