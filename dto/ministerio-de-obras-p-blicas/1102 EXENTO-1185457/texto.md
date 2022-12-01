@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1102 de 4 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 187-1 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de La Araucanía, que figura a nombre de TOPALLI LARENAS LAZARO GERMAN, rol de avalúo 1453-6 de la comuna de Angol, superficie 475 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 179, de 24 de mayo de 2022, integrada por Verónica Paz Olivier Valdebenito, Carolina Claudia Verdejo Díaz y Angélica Yanett Seura Rojas, mediante informe de tasación de 15 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $7.160.000 para el lote N° 187-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
