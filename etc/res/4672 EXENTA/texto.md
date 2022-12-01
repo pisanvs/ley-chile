@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.672 de fecha 23/11/2022, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pablo Neruda y Simón Bolívar/Imperial, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado Inmueble ubicado en la ciudad de Temuco, Avenida Estadio antes, hoy Pablo Neruda número 0922, Rol de avalúo: 1571-28, comuna de Temuco. La superficie a expropiar aproximada es de 96,65 metros cuadrados, de aparente dominio de Ema del Tránsito Ríos Vidal. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Eduardo Antonio Yáñez Inzunza y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $45.010.000 según Informe Nº 14-0A, de fecha 21.11.2022, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
