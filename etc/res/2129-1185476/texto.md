@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.129 de fecha 21 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento avenida Cuatro Esquinas Tramo I Más calle Los Arrayanes, La Serena", ciudad de La Serena, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 26, en plano de expropiación, ubicado en pasaje Roman Vial 3501, La Serena, Rol de Avalúo N° 2103-3 de aparente dominio de Luis Hernan Tello Pavez, superficie aprox de 145,87 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Francesca Vives Figueroa y Eduardo Tabilo Gonzalez, según informe de fecha 20 de septiembre de 2022, fijó indemnización provisional en 2.299,12 UF.-, pagadero al contado.-
+
+Verónica Ibacache Parraguez, Directora (S) Serviu Región de Coquimbo.
