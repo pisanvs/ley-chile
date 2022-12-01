@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 997 de 27 de octubre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: SANTIAGO - TALCA PID GRUPO II: OBRAS NORMATIVAS Y DE SERVICIALIDAD OBRA 21: ATRAVIESO MONTERILLA KM 166.500, Región del Maule, que figura a nombre de LOZANO ENCALADA LUIS GABRIEL, rol de avalúo 64-10 de la comuna de Teno, superficie 1.479 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 243 de 5 de julio de 2022, integrada por Solange Alejandra Lagos Díaz, Alex Rodrigo Marabolí Sandoval y Carlos Roberto Alarcón Villegas, mediante informe de tasación de 19 de agosto de 2022, fijó el monto de la indemnización provisional en la cantidad de $23.224.600 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
