@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.624, de 16 de noviembre 2022, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Nueva 1 945 BKD 10 DP 15 Michaihue, Rol de Avalúo N° 15801-159, comuna de San Pedro de la Paz, de aparente dominio de Campo Alveal Laydy Roxana, en una superficie de 37,91 m2 de terreno, que corresponde al 0,62% de 6.065,67 m2 de superficie de terreno común (Condominio D) y de 45,102 m2 de edificación dentro de linderos señalados plano de expropiación S8R-42.542- 1, para la ejecución de las obras del proyecto Habilitación Conjunto Habitacional Michaihue 716 para la Regeneración San Pedro de la Paz", comuna de San Pedro de la Paz, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Italo Zerga Arancibia, por arquitecto Cecilia Carrasco Verdugo y por arquitecto Guillermo Villafañe Feres, según informe de fecha 30 de septiembre de 2022, fijó monto provisional indemnización, más reajuste del artículo 5° DL 2.186, en $24.504.560, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
