@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1039, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 68, para la obra: CONSTRUCCION RUTA PRECORDILLERANA SECTOR RUTA L-535 - COLVINDO Y 4 PUENTES, que figura a nombre de PRADENAS HENRIQUEZ MARCOS AURELI, rol de avalúo 502-341, Comuna de RETIRO, REGION DEL MAULE, superficie 2.071 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $48.932.800 para el lote Nº68. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
