@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1010 de 27 de octubre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 129-1 para la obra: CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B SUBSECTOR: RUTA 66: PUENTE EL DURAZNO - ENLACE LAS ARAÑAS, Región Metropolitana de Santiago, que figura a nombre de SOC AGRICOLA LOMAS ALTAS LT, rol de avalúo 19-280 de la comuna de San Pedro, superficie 597 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 261 de 14 de julio de 2022, integrada por Loreto Isabel Hernández Ríos, Ángel Mauricio Cáceres Barra y Juan Andrés Tepper Lavanderos, mediante informe de tasación de 29 de agosto de 2022, fijó el monto de la indemnización provisional en la cantidad de $6.563.100 para el lote N° 129-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
