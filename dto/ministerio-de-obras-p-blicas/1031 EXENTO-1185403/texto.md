@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1031, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1 y 2, para la obra: CONSTRUCCION PUENTE RIO PUTAGAN EN RUTA L-214, que figura a nombre de INVERSIONES E INMOBILIARIA ARMIC y SOC AGRIC FRAVIGAN Y CIA LTDA, roles de avalúo 208-64 y 212-59, Comuna de VILLA ALEGRE, REGION DEL MAULE, superficies 923 y 109 m2 respectivamente. La Comisión de Peritos integrada por LORENA ELIZABETH GAJARDO ALARCON, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 18 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $13.957.100 para el lote N°1, y $2.223.800 para el lote N°2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
