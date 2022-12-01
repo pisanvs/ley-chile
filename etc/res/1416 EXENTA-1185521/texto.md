@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°1.416 de 17/11/2022 y resolución exenta N°1,446 de 21/11/2022, conforme al artículo 51 ley 16.391, D.L. 2.186, de 1978 y D.L. 1305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote Retazo 3, ubicado en Cam. a Los Lagos a Vald., Pishuinco, comuna de Valdivia, de 6.159,0 M2 de superficie de terreno, Rol de Avalúo Matriz N°2410-188 y Pre Rol de Avalúo N°2410-47, de la comuna de Valdivia, de aparente dominio de Empresas Ferrocarriles del Estado, para destinarlo al proyecto denominado "Adquisición Terreno Habitacional Localidad Pishuinco". La Comisión de Peritos Tasadores nombrada por resolución exenta N°1.138 de 27/09/2022, del Serviu Región de Los Ríos, integrada por Sebastián Andrés Riquelme Vargas, Marcela Alejandra Melo Rodríguez y Jorge Fernando Contreras Melo, fijó el monto de indemnización provisional según informe de fecha 25/10/2022, corresponde a $59.563.689.-. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del D.L. 2.186 de 1978.
+
+.
