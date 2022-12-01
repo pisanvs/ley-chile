@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.462 del 21 de noviembre de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado en Las Rosas LT. 1-B, comuna de San Ignacio, Rol de Avalúo Nº 00574-00038, de aparente dominio de Constructora Iraira Limitada. La superficie afecta a expropiación Total de 35.315,650 m² de terreno (Lote 1-B), cuyos linderos particulares están enmarcados en el plano S16R-216, para implementación del Plan de Emergencia Habitacional en la Región de Ñuble, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el Arquitecto don Mario Fabrizzio Bellolio Bostica, el Constructor Civil don Ítalo Renzo Zerga Arancibia y por el Ingeniero Civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $612.938.421.-
+
+Director (S) Serviu Región de Ñuble.
