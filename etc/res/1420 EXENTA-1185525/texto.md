@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°1.420 de 17/11/2022, conforme al artículo 51 ley 16.391, D.L. 2.186, de 1978 y D.L. 1305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 14D, ubicado en Paillao PC 14, comuna de Valdivia, de 38.853,0 M2 de superficie de terreno, Rol de Avalúo N°2605-8, de la comuna de Valdivia, de aparente dominio de Agrícola Kuriñanco Limitada, para destinarlo al proyecto denominado "Expropiación Lote 14D, Sector Paillao Rol 2605-8, Comuna de Valdivia". La Comisión de Peritos Tasadores nombrada por resolución exenta N°1.138 de 27/09/2022, del Serviu Región de Los Ríos, integrada por María Soledad Núñez Arroyo, Yaschala Yáñez Riffo y María José Freire Allendes, fijó el monto de indemnización provisional según informe de fecha 24/10/2022, corresponde a $2.951.545.851.-. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del D.L. 2.186 de 1978.
+
+.
