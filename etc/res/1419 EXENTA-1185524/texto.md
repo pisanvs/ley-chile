@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°1.419 de 17/11/2022, conforme al artículo 51 Ley 16.391, D.L. 2.186, de 1978 y D.L. 1305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote B7, ubicado en El Zarzal LT Bl, comuna de Mariquina, de 6.518,61 M2 de superficie de terreno, Rol de Avalúo N°318-35, de la comuna de Mariquina, que forma parte de un terreno de mayor extensión, de aparente dominio de Sucesión Riffo Rivera Aura y Otros, para destinarlo al proyecto denominado "Expropiación parte Lote B5, rol 318-35". La Comisión de Peritos Tasadores nombrada por resolución exenta N°1.138 de 27/09/2022, del Serviu Región de Los Ríos, integrada por Sebastián Andrés Riquelme Vargas, Marcela Alejandra Melo Rodríguez y Jorge Fernando Contreras Melo, fijó el monto de indemnización provisional según informe de fecha 25/10/2022, corresponde a $116.802.007.-. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del D.L. 2.186 de 1978.
+
+.
