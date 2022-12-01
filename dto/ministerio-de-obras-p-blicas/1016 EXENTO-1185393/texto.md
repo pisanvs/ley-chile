@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1016 de 27 de octubre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 83 para la obra: CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B SUBSECTOR: RUTA 66: PUENTE EL DURAZNO - ENLACE LAS ARAÑAS, Región del Libertador Gral. Bernardo O'Higgins, que figura a nombre de BIEN COMUN, rol de avalúo 201-90811 de la comuna de Las Cabras, superficie 11 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 126 de 28 de abril de 2022, integrada por Gabriel Antonio Pantoja Rivera, Sonia Catalina Gallegos Blanch y Paola Andrea Domingo Porcella, mediante informe de tasación de 10 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $655.600 para el lote Nº 83. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
