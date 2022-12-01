@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1070, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.105, 106, 107 y 108, para la obra: MEJORAMIENTO RUTA CURANILAHUE - TRONGOL BAJO, que figuran todos a nombre de CUEVAS BRAVO MISAEL EDMUNDO, rol de avalúo 504-171, comuna de CURANILAHUE, REGION DEL BIOBÍO, superficies 34, 35, 976 y 1.858 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, mediante informe de tasación de 01 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.210.198 para el lote N°105, $103.210 para el lote N°106, $3.424.556 para el lote N°107, y $3.882.904 para el lote N°108. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
