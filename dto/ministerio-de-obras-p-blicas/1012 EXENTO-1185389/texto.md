@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1012 de 27 de octubre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 40-A para la obra: CONCESIÓN RUTA 66, CAMINO DE LA FRUTA, SECTOR B SUBSECTOR: RUTA 66: PUENTE EL DURAZNO - ENLACE LAS ARAÑAS, Región del Libertador Gral. Bernardo O'Higgins, que figura a nombre de ESTABLECIMIENTOS CONDE DE MANZO, rol de avalúo 555-39 de la comuna de Las Cabras, superficie 377 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 115 de 20 de abril de 2022, integrada por Gabriel Antonio Pantoja Rivera, Sonia Catalina Gallegos Blanch y Paola Andrea Domingo Porcella, mediante informe de tasación de 10 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.587.000 para el lote N° 40-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
