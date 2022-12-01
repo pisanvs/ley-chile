@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1028, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 46, 47, 48, 49 y 50, para la obra: CONSTRUCCION RUPUMEICA ALTO-RUPUMEICA BAJO, que figura a nombre de GANADERA Y FORESTAL CARRAN LIMITADA, rol de avalúo 63-24, Comuna de LAGO RANCO, REGION DE LOS RÍOS, superficies 78, 60, 4.075, 217 y 137 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 16 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $535.800 para el lote Nº46, $252.000 para el lote Nº47, $13.487.500 para el lote Nº48, $1.057.700 para el lote Nº49, y $823.700 para el lote Nº50. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
