@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1087 de 4 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 105-C1 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figura a nombre de GUTIÉRREZ FERNÁNDEZ SPA, rol de avalúo 1551-4 de la comuna de Los Ángeles, superficie 501 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 152 de 11 de mayo de 2022, integrada por Marlene Teresa Ríos Marcuello, Helmuth Felipe Alarcón Villegas y Jesús Fernando Díaz Pasmiño, mediante informe de tasación de 11 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $2.204.400 para el lote N° 105-C1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
