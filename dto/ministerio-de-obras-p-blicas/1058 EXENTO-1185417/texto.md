@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP. (Exento) Nº 1058, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL, MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 39 y 40, para la obra: MEJORAMIENTO CAMINOS VARIOS EN COMUNA DE COYHAIQUE, SECTOR CRUCE RUTA 243 CH (TEJAS VERDES) - LAS BANDURRIAS, que figuran a nombre de HONORATA ELENA INÉS MERA BELTRÁN, según inscripción de dominio fs. 603, Nº437, CBR Coyhaique, año 2022, superficie 633 m2. y GODOY CARRASCO EMILIO PEDRO SEBA, rol de avalúo 1001-862, superficie 456 m2. La Comisión de Peritos integrada por Valentina Andrea Chacaltana Sims, Paulo Andrés Díaz Vergara y Rayen Guzmán Theoduloz, mediante informe de tasación de 17 de junio de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.928.500, para el lote Nº 39 y $8.258.000, para el lote Nº 40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscalía MOP.
