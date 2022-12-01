@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.627, 16 de noviembre de 2022, Serviu Región del Biobío dispuso rectificar resolución exenta 4.447 de 07 de noviembre de 2022, en el sentido de expresar que donde dice: "Procédase a la expropiación parcial de terreno ubicado en ubicado en Nueva 1 945 BKD 4 DP 6 Michaihue Rol de Avalúo N° 15801-54 de la comuna de San Pedro de la Paz, de aparente propietario Pena Irma", debe decir: "Procédase a la expropiación total de terreno y edificación del inmueble ubicado en Nueva 1 945 BKD 4 DP 6 Michaihue Rol de Avalúo N° 15801-54 de la comuna de San Pedro de la Paz, de aparente propietario Pena Irma". Resolución rectificatoria se tendrá como parte integrante de la resolución exenta N° 4.447, de fecha 07.11.2022, la que mantiene plenamente su vigencia en lo no modificado por aquella.-
+
+Director (S) Serviu Región del Biobío.
