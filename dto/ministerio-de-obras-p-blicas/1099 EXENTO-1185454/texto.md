@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1099 de 4 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 60-1 para la obra: CONCESIÓN AMÉRICO VESPUCIO ORIENTE, TRAMO AV. PRINCIPE DE GALES - LOS PRESIDENTES, Región Metropolitana de Santiago, que figura a nombre de INMOBILIARIA E INVERSIONES CERVI, rol de avalúo 5671-18 de la comuna de Peñalolén, superficie 243 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 137 de 4 de mayo de 2022, integrada por Gustavo Eduardo Picero García, Constanza Camila Vásquez Muñoz y Javiera Paz Villafañe Hormazábal, mediante informe de tasación de 6 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $304.956.000 para el lote N° 60-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
