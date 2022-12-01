@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N°1.417 de 17/11/2022, conforme al artículo 51 ley 16.391, D.L. 2.186, de 1978 y D.L. 1305, de 1976 de Vivienda y Urbanismo, el Serviu Región de Los Ríos, expropió el Lote 2A, ubicado en calle Las Minas-Punahue, comuna de Los Lagos, de 1.277,0 M2 de superficie de terreno, Rol de Avalúo N°252-86, de la comuna de Los Lagos, que forma parte de un terreno de mayor extensión, de aparente dominio de Sucesión Sepúlveda Aguilera y Otros, para destinarlo al proyecto denominado "Habilitación acceso a terreno comité Villa El Sol del sector Punahue, comuna Los Lagos". La Comisión de Peritos Tasadores nombrada por resolución exenta N°1.138 de 27/09/2022, del Serviu Región de Los Ríos, integrada por Sebastián Andrés Riquelme Vargas, Marcela Alejandra Melo Rodríguez y Jorge Fernando Contreras Melo, fijó el monto de indemnización provisional según informe de fecha 25/10/2022, corresponde a $12.603.423.-. La publicación se efectúa en cumplimiento de lo preceptuado en el artículo 7° del D.L. 2.186 de 1978.
+
+.
