@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1101 de 4 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 69 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 4: VARIANTE COIHUE - VARIANTE RENAICO, Región del Biobío, que figura a nombre de VALENZUELA ROJAS DIEGO ANDRES, rol de avalúo 71-280 de la comuna de Negrete, superficie 1.186 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 79 de 24 de febrero de 2021, integrada por Ricardo Antonio Strickler Arellano, María Paulina De la Cuadra Becker y Yazmín Mercedes Balboa Rojas, mediante informe de tasación de 12 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $4.780.800 para el lote N° 69. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
