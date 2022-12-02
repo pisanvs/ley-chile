@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "REGULARIZACIÓN PLANTEL LECHERO Y ENGORDA FUNDO SANTA CRISTINA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 202208001161, de fecha 7 de noviembre de 2022, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Regularización Plantel Lechero y Engorda Fundo Santa Cristina", cuyo proponente es Agropecuaria Los Varones Ltda.
+
+El Proyecto se emplaza en el Fundo Santa Cristina, de propiedad de Agropecuaria Los Varones Ltda., localizado en la comuna de Antuco, km 50 de la ruta Q-25, provincia del Biobío, Región del Biobío. Considera la regularización del plantel lechero y de engorda del Fundo Santa Cristina, contemplando la habilitación de una zona para el compostaje de los residuos orgánicos (purín) generados en la zona de la sala de ordeña y en el pabellón de ternereras y sala de parto, una zona de manejo de residuos de tipo veterinario y una zona de almacenamiento de residuos transitorios no peligrosos. Además, se establece una diferenciación en el manejo y disposición final de residuos orgánicos, con la posibilidad de utilizarlos como materiales de fertilización en predios que serán utilizados para la producción de alimentos (maíces y pastos), para el mismo proceso lechero y ganadero. Contempla una vida útil proyectada a 25 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web:
+
+https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=2022/11/07/438ab190219287a06da27de904d75dbff7af
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
