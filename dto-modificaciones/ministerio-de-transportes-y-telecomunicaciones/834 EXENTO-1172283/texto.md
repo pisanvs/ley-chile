@@ -1,4 +1,4 @@
-MODIFICA CONCESIÓN DE SERVICIO PÚBLICO TELEFÓNICO A LA EMPRESA VTR COMUNICACIONES SpA
+MODIFICA CONCESIÓN DE SERVICIO PÚBLICO DE TRANSMISIÓN DE DATOS A LA EMPRESA VTR COMUNICACIONES SpA
 
 Santiago, 21 de diciembre de 2021.- Con esta fecha se ha decretado lo que sigue:
 
@@ -46,7 +46,7 @@ a) Lo solicitado por la interesada mediante ingreso Subtel Nº 190.593 de 23.11.
 
 b) Que la solicitud modifica elementos de la concesión no contemplados en el inciso quinto del artículo 14º, de la Ley, por lo que en la especie no son aplicables las normas de los artículos 15º y 16º de la misma, es decir, no requiere de publicación del extracto de la solicitud.
 
-c) El informe Técnico de fecha XX de diciembre de 2021, elaborado por el Departamento de Ingeniería de la Gerencia del Fondo de Telecomunicaciones, que da cuenta que la solicitud del Ingreso del considerando a) no presenta un detrimento al Proyecto Comprometido para la Zona 1, autorizado mediante decreto supremo del literal n) de los Vistos.
+c) El informe Técnico de fecha 7 de diciembre de 2021, elaborado por el Departamento de Ingeniería de la Gerencia del Fondo de Telecomunicaciones, que da cuenta que la solicitud del Ingreso del considerando a) no presenta un detrimento al Proyecto Comprometido para la Zona 1, autorizado mediante decreto supremo del literal n) de los Vistos.
 
 Decreto:
 
