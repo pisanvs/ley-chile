@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 5.235, de fecha 10 de noviembre de 2022, de esta Secretaría Regional, se aprobó Programa de Enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Escuela de Conductores Huelén SpA" cuyo nombre de fantasía es "Huelén SpA", RUT N° 77.270.387-2, de propiedad de la sociedad del mismo nombre, cuyo representante legal es la señora Cecilia Teresa Veas Araya, cédula de identidad N° 17.678.445-8, cuya directora es la señora Juanita Veas Araya, cédula de identidad N° 10.394.258-6. La Escuela de Conductores estará ubicada en Avenida Pedro Aguirre Cerda N° 030, comuna de La Cisterna, Región Metropolitana de Santiago. Las horas pedagógicas autorizadas a la referida Escuela son doce horas teóricas y doce horas prácticas, con un total de veinticuatro horas pedagógicas.-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
