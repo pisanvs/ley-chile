@@ -76,7 +76,7 @@ Los financiamientos garantizados por el Fondo de Garantía para Pequeños y Medi
 
 #### Artículo segundo
 
-Autorízase al Ministro de Hacienda para que, mediante uno o más decretos expedidos bajo la fórmula "Por orden del Presidente de la República", efectúe el aporte dispuesto en el literal a) del numeral 3) del artículo primero de esta ley. El mencionado aporte se podrá enterar en una o más transferencias hasta en un plazo máximo de 36 meses contados desde la entrada en vigencia de esta ley. Dichas transferencias se financiarán con la venta de activos del Tesoro Público, incluidos en estos los provenientes del Fondo de Estabilización Económica y Social.
+Autorízase al Ministro de Hacienda para que, mediante uno o más decretos expedidos bajo la fórmula "Por orden del Presidente de la República", efectúe el aporte dispuesto en el literal a) del numeral 3) del artículo primero de esta ley. El mencionado aporte se podrá enterar en una o más transferencias hasta en un plazo máximo de cuarenta y ocho meses contados desde la entrada en vigencia de la ley que modifica el Fondo de Garantía para Pequeños y Medianos Empresarios y permite flexibilizar convenios de pago por impuestos adeudados, para apoyar la reactivación de la economía. Dichas transferencias se financiarán con la venta de activos del Tesoro Público, incluidos en estos los provenientes del Fondo de Estabilización Económica y Social.
 
 #### Artículo tercero
 
