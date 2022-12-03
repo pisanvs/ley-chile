@@ -86,7 +86,7 @@ Los proyectos que aborden la estructura de las viviendas deberán contar con Per
 
 2.4. Fechas del llamado
 
-El Secretario Regional Ministerial de Arica y Parinacota seleccionará los postulantes y los respectivos proyectos según fechas de selección indicadas a continuación y a partir de la fecha de publicación del Llamado que se autoriza por la presente resolución y hasta el día 30 de noviembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
+El Secretario Regional Ministerial de Arica y Parinacota seleccionará los postulantes y los respectivos proyectos según fechas de selección indicadas a continuación y a partir de la fecha de publicación del Llamado que se autoriza por la presente resolución y hasta el día 30 de diciembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
 
 Este llamado contará con procesos de selección regional, en los cuales podrán ser digitados únicamente en sistema Rukan los proyectos previamente calificados por la Comisión Técnica Evaluadora - CTE de Serviu Región de Arica y Parinacota.
 
