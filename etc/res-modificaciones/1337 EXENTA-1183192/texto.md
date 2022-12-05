@@ -26,6 +26,8 @@ Resolución:
 
 2. Apruébase la selección de los grupos organizados indicados en la siguiente tabla, con su respectivo financiamiento total, el cual incluye los servicios de asistencia técnica, fiscalización técnica de obras y aranceles del Conservador de Bienes Raíces, detallados en el Resuelvo 4., para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, para adquisición de terrenos y desarrollo de proyectos de Construcción en Nuevos Terrenos, en las regiones Metropolitana, de Biobío y Los Ríos, correspondiente al proceso de selección cuyo cierre de postulación se efectuó el día 2 de junio de 2022, del llamado efectuado por resolución exenta N° 504 (V. y U.), de 2022, y sus modificaciones:
 
+Área 1 Región Metropolitana
+
 3. El detalle de los recursos comprometidos por concepto de subsidio para la adquisición de terreno y subsidio para la construcción, para las postulaciones seleccionadas en el Resuelvo anterior y que por este acto se asignan, se informa en el cuadro que se adjunta como anexo y que forma parte integrante de la presente resolución.
 
 4. Asígnase a los grupos organizados seleccionados en el Resuelvo 2. de la presente resolución exenta, por concepto de pago por los Servicios de Asistencia Técnica, por las Labores de Fiscalización Técnica de Obra y pago de Aranceles al Conservador de Bienes Raíces para el desarrollo de sus proyectos, los montos expresados en Unidades de Fomento que se detallan a continuación:
@@ -45,3 +47,7 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
 Lo que transcibo para su conocimiento.- Tatiana Valeska Rojas Leiva, Subsecretaria de Vivienda y Urbanismo.
+
+ANEXO ÚNICO
+
+NÓMINA DE GRUPOS SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXENTA N° 504 (V. Y U.) DE 2022, SELECCIÓN CIERRE 2 DE JUNIO DE 2022
