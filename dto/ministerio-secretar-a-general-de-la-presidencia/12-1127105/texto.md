@@ -32,51 +32,45 @@ El Consejo se relacionará con el Presidente de la República a través del Mini
 
 #### Artículo 2
 
-El Consejo estará integrado por trece miembros de reconocida experiencia en la gestión pública y/o privada, designados por el Presidente de la República, uno de los cuales será designado también Presidente, y otro, Vicepresidente.
+El Consejo estará integrado por quince miembros de reconocida experiencia en la gestión pública y/o privada, uno de los cuales será designado también Presidente/a, y otro, Vicepresidente/a.
 
-Durarán seis años en el desempeño de sus labores y se renovarán parcialmente cada dos, con excepción del Presidente y Vicepresidente del Consejo, cuyas designaciones durarán por el tiempo que restare al período presidencial en que fueren nombrados. Los miembros del Consejo, como también el Presidente y Vicepresidente, pueden ser nombrados por períodos sucesivos.
-
-En caso de renuncia, muerte, incapacidad o cualquier otra circunstancia permanente que impida a uno de sus consejeros el ejercicio regular y continuo de sus funciones, el Presidente de la República designará un reemplazante, quien durará en sus funciones por el tiempo que le restare al faltante para completar su periodo.
-
-Los miembros del Consejo ejercerán sus funciones ad-honorem y su desempeño no implicará la creación de un cargo público.
+Los miembros del Consejo durarán cuatro años en el desempeño de sus labores, ejercerán sus funciones ad honorem y su desempeño no implicará la creación de un cargo público.
 
 #### Artículo 3
 
 Integrarán el Consejo los siguientes miembros:
 
-Como Presidente:
+1) Presidente/a o representante de la Agrupación Nacional de Empleados Fiscales (Anef);
 
-Ramiro Mendoza Zúñiga, cédula nacional de identidad número 7.578.740-5.
+2) Presidente/a o representante de la Asociación Chilena de Municipalidades (ACHM);
 
-Como Consejeros:
+3) Presidente/a o representante de la Asociación de Gobernadores Regionales de Chile (Agorechi);
 
-1. Ignacio Irarrázaval Llona, cédula nacional de identidad número 6.989.582-4.
+4) Presidente/a o representante de la Confederación de la Producción y del Comercio (CPC);
 
-2. María Beatriz Corbo Atria, cédula nacional de identidad número 7.250.051-2.
+5) Un representante de una asociación gremial que agrupe a empresas de menor tamaño, designado por el Ministro de Economía, Fomento y Turismo;
 
-3. Salvador Valdés Prieto, cédula nacional de identidad número 6.973.463-4.
+6) Un/a representante de la Sociedad Civil organizada;
 
-4. Mario Waissbluth Subelman, cédula nacional de identidad número 5.127.355-9.
+7) Un ex Contralor General de la República;
 
-5. Evelyn Matthei Fornet, cédula nacional de identidad número 7.342.646-4.
+8) Dos expertos/as en materia de Transparencia e Integridad;
 
-6. Javier Etcheberry Celhay, cédula nacional de identidad número 4.891.404-7.
+9) Dos académicos/as expertos/as en Tecnologías de la Información (TICs);
 
-7. Claudio Muñoz Zúñiga, cédula nacional de identidad número 9.618.122-1.
+10) Dos académicos/as expertos/as en gestión pública.
 
-8. Sonia Jeannette Schiess, cédula de identidad número 21.217.935-3.
+11) Dos ex altos directivos/as públicos, de preferencia que hayan sido seleccionados en el marco del Sistema de Alta Dirección Pública.
 
-9. Gloria de la Fuente González, cédula nacional de identidad número 13.271.539-4.
+Los miembros indicados en los numerales 1 al 4 mantendrán sus labores siempre que revistan la calidad de Presidente/a o representante de la respectiva agrupación.
 
-10. Luis Larraín Arroyo, cédula nacional de identidad número 7.013.731-3.
+Por su parte, la persona nombrada de conformidad al numeral 5 durará en sus funciones mientras cuente con la confianza del Ministro de Economía, Fomento y Turismo, y los miembros correspondientes a los numerales 6 al 11 serán designados por el Presidente de la República y desempeñarán sus labores mientras cuenten con su confianza, pudiendo ser reemplazados en cualquier momento, todo lo anterior, sin perjuicio de lo dispuesto en el inciso 2º del artículo 2 de este reglamento. Las obligaciones que emanan de este instrumento para los integrantes de la Comisión sólo les serán exigibles una vez que manifiesten su voluntad en orden a participar de ella, ya sea de forma expresa, ya sea tácitamente al participar de la primera sesión a la que se convoque al efecto.
 
-11. Leonidas Montes Lira, cédula nacional de identidad número 6.377.980-6.
-
-12. Mauricio Duce Julio, cédula nacional de identidad número 10.741.151-8.
+En caso de vacancia, renuncia, muerte, incapacidad o cualquier otra circunstancia permanente que impida a uno de sus consejeros el ejercicio regular y continuo de sus funciones, el Presidente de la República o la autoridad respectiva designará un reemplazante.
 
 #### Artículo 4
 
-El Consejo sesionará con la asistencia de, al menos, la mitad de sus miembros y adoptará sus acuerdos con el voto favorable de la mayoría de los asistentes. En caso de empate, dirimirá la votación quien presida la reunión.
+El Consejo sesionará con la asistencia de, al menos, siete de sus miembros y adoptará sus acuerdos con el voto favorable de la mayoría de los asistentes. En caso de empate, dirimirá la votación quien presida la reunión.
 
 El Consejo sesionará ordinariamente con la periodicidad que se determine por acuerdo, y cada vez que lo convoque su Presidente.
 
@@ -94,9 +88,9 @@ La Subsecretaría de Hacienda, a través de la Secretaría de Modernización del
 
 #### Artículo 6
 
-El Presidente de la República, mediante instrucciones dirigidas a los órganos de la Administración del Estado, dispondrá que tales órganos, dentro del ámbito de sus respectivas competencias, le informen, a través del Subsecretario de Hacienda, de los asuntos que conciernan a la modernización del Estado y de la gestión pública.
+El Presidente de la República, mediante instrucciones dirigidas a los órganos de la Administración del Estado, dispondrá que tales órganos, dentro del ámbito de sus respectivas competencias, le informen, a través del Ministro de Hacienda, de los asuntos que conciernan a la modernización del Estado y de la gestión pública.
 
-Para tales efectos, y bajo la supervisión del Subsecretario de Hacienda, se organizará una secretaría técnica, que será desempeñada por la Secretaría de Modernización del Estado del Ministerio de Hacienda, prevista en el Programa Presupuestario de la misma denominación, que servirá del instancia de coordinación entre los ministerios y servicios públicos respecto de los asuntos indicados en el inciso anterior, y sistematizará los informes que éstos remitan para la elaboración de la agenda de modernización del Estado. El Subsecretario de Hacienda propondrá al Presidente de la República dicha agenda para su aprobación y publicación, así como los ajustes que corresponda durante su implementación.
+Para tales efectos, y bajo la supervisión del Ministro de Hacienda, se organizará una secretaría técnica, que será desempeñada por la Secretaría de Modernización del Estado del Ministerio de Hacienda, prevista en el Programa Presupuestario de la misma denominación, que servirá del instancia de coordinación entre los ministerios y servicios públicos respecto de los asuntos indicados en el inciso anterior, y sistematizará los informes que éstos remitan para la elaboración de la agenda de modernización del Estado. El Ministro de Hacienda propondrá al Presidente de la República dicha agenda para su aprobación y publicación, así como los ajustes que corresponda durante su implementación.
 
 La Secretaría de Modernización del Estado del Ministerio de Hacienda podrá invitar a otros funcionarios públicos o personas con conocimientos expertos a colaborar en la elaboración o ajustes de la agenda de modernización dentro de la esfera de sus competencias.
 
@@ -104,13 +98,13 @@ La Secretaría de Modernización del Estado del Ministerio de Hacienda podrá in
 
 A la Secretaría de Modernización del Estado le corresponderán las siguientes labores:
 
-a) Proponer al Presidente de la República, a través del Subsecretario de Hacienda, estrategias de modernización del Estado, incluido un proyecto de agenda de modernización del Estado.
+a) Proponer al Presidente de la República, a través del Ministro de Hacienda y previa conformidad de este último, estrategias de modernización del Estado, incluido un proyecto de agenda de modernización del Estado.
 
 b) Diagnosticar el estado de ejecución de las medidas y acciones tomadas por los órganos de la Administración del Estado para la implementación de la agenda de modernización del Estado.
 
 c) Identificar las prioridades de transformación y modernización transversales y sectoriales respecto de los contenidos de la agenda, sobre la base de los informes de los ministerios y servicios públicos y de conformidad a las instrucciones del Presidente de la República.
 
-d) Eliminado.
+d) Gestionar, en coordinación con la División de Coordinación Interministerial del Ministerio Secretaría General de la Presidencia, la elaboración de un informe final de avance e implementación de la agenda de modernización del Estado, el que deberá ser entregado al Presidente de la República en un plazo máximo de 90 días antes del término del período presidencial.
 
 #### Artículo 8
 
@@ -118,13 +112,11 @@ A la División de Coordinación Interministerial del Ministerio Secretaría Gene
 
 #### Artículo 9
 
-Dentro de los 180 primeros días de cada período presidencial, el Subsecretario de Hacienda, en coordinación con el Consejo, propondrá al Presidente de la República una actualización a la agenda de modernización del Estado.
+Dentro de los 180 primeros días de cada período presidencial, el Ministro de Hacienda, en coordinación con el Consejo, propondrá al Presidente de la República una actualización a la agenda de modernización del Estado.
 
 #### Artículo 10
 
-Créase el Comité de Modernización del Estado (en adelante, el "Comité"), presidido por el Director/a de la Secretaría de Modernización del Estado del Ministerio de Hacienda, en el que participará el Director Nacional del Servicio Civil, y adicionalmente un máximo de: tres representantes designados por el Ministro de Hacienda, tres designados por el Ministro Secretario General de la Presidencia, y dos designados por el Director de Presupuestos. Los miembros del Comité deberán desempeñar sus cargos mientras la autoridad que los designe lo estime conveniente, con un periodo máximo de cuatro años desde su nombramiento.
-
-Su labor será prestar asesoría a los respectivos ministerios y servicios públicos, apoyando en la coordinación de la implementación de la agenda de modernización del Estado.
+Créase el Comité de Modernización del Estado (en adelante, el "Comité") presidido por el Director/a de la Secretaría de Modernización del Estado del Ministerio de Hacienda, en el que participará el Director Nacional del Servicio Civil, y adicionalmente un máximo de tres representantes designados/as por el/la Ministro/a de Hacienda, tres representantes designados/as por el/la Ministro/a Secretario/a General de la Presidencia, dos representantes designados/as por el/la Director/a de Presupuestos, uno/a representante designado/a por el/la Ministro/a Secretario/a General de Gobierno, uno/a representante de la Subsecretaría de Desarrollo Regional y Administrativo designado/a por el/la Ministro/a del Interior y Seguridad Pública, y uno/a representante del Gabinete de la Presidencia de la República, designado/a por el Presidente/a de la República. Los miembros del Comité deberán desempeñar sus cargos mientras la autoridad que los designe lo estime conveniente.
 
 Para estos efectos, el Comité deberá sesionar ordinariamente una vez al mes, pudiendo acordar las sesiones extraordinarias que sean necesarias para su adecuado funcionamiento y adoptarán sus acuerdos por mayoría de sus integrantes. El Comité, en su primera sesión, deberá acordar las demás reglas de funcionamiento interno.
 
