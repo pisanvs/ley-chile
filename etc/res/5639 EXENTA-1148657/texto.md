@@ -28,7 +28,7 @@ Resuelvo:
 
 4. Las vacunas contra influenza equina que se importen o produzcan en el país, deberán estar registradas o autorizadas con el informe favorable del Servicio Agrícola y Ganadero y cumplir los requisitos que fije la respectiva resolución de este Servicio, de acuerdo a la normativa vigente en la materia.
 
-5. Para efectos de movimiento animal, el período de vigencia de la vacunación será de 6 meses posterior a su aplicación.
+5. Para efectos de movimiento animal, el período de vigencia de la vacunación en animales adultos, corresponderá a lo señalado en el rotulado gráfico del producto registrado ante el SAG.
 
 ### 6. Esta resolución se hará efectiva a partir del 31 de octubre de 2020
 
