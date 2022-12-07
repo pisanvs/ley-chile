@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.190 EXENTA, DEL 2 DE DICIEMBRE DE 2022
+
+Por resolución exenta Nº 1.190, del 2 de diciembre de 2022, del Gobierno Regional de Ñuble, se indica:
+
+1.- Que, mediante solicitud de fecha 28 de noviembre del año 2022 presentada por la Municipalidad de Chillán, se solicita corte de tránsito vehicular en la comuna antes indicada, por calle Arauco y Libertad, entre calles Avda. Libertad y Constitución, 18 de Septiembre y Arauco, calzada completa, para el día 22 de diciembre del año 2022, desde las 00:01 hasta el 23 de diciembre a las 6:30 A.M., con la finalidad de realizar la actividad denominada "Navidad 2022" con el Show de 32 Minutos, Concierto UDEC (Orquesta Sinfónica y Coro de la Universidad de Concepción). En caso de ser necesario, ante una eventual masividad de la actividad, solicita adicionalmente la autorización de corte de calle 18 de Septiembre desde calle Libertad (permitiendo viraje hacia el norte) hasta esquina Constitución (permitiendo el viraje hacia el poniente) desde el jueves 22 de diciembre a las 00:00 hrs., hasta el viernes 23 de diciembre a las 23:59 hrs.
+
+2.- Que, el Gobierno Regional de Ñuble está de acuerdo con dicho corte de tránsito, en los mismos términos solicitados.
+
+3.- Que, en consecuencia, existe una causa justificada en los términos del 113, del DFL Nº 1, de 2007, del Ministerio de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito para disponer las medidas que se establecen en la parte resolutiva del respectivo acto administrativo.
+
+Prohíbese la circulación de todo tipo de vehículos en la comuna de Chillán, por calle Arauco y Libertad, entre calles Avda. Libertad y Constitución, 18 de Septiembre y Arauco, calzada completa, para el día 22 de diciembre del año 2022, desde las 00:01 hasta el 23 de diciembre a las 6:30 A.M., con la finalidad de realizar la actividad denominada "Navidad 2022" con el Show de 32 Minutos, Concierto UDEC (Orquesta Sinfónica y Coro de la Universidad de Concepción). En caso de ser necesario, ante una eventual masividad de la actividad, solicita adicionalmente la autorización de corte de calle 18 de Septiembre desde calle Libertad (permitiendo viraje hacia el norte) hasta esquina Constitución (permitiendo el viraje hacia el poniente) desde el jueves 22 de diciembre a las 00:00 hrs., hasta el viernes 23 de diciembre a las 23:59 hrs.
+
+Anótese y publíquese.- Óscar Crisóstomo Llanos, Gobernador Regional, Gobierno Regional de Ñuble.
