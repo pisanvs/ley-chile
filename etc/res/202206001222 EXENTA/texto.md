@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO: "EMBALSE SAN DIEGO"
+
+De conformidad con lo dispuesto en al artículo 94 del DS N°40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se notifica que mediante la resolución exenta N°202206001222, de fecha 25 de noviembre de 2022, de la Dirección Regional del Servicio de Evaluación Ambiental de la Región del Libertador General Bernardo O'Higgins, se ha resuelto dar inicio a un proceso de participación ciudadana, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300 y sus modificaciones posteriores, en el marco del procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del "Embalse San Diego" (en adelante, "Proyecto"), presentada por don Juan Carlos Eyzaguirre Echeñique, en representación legal de Agrícola El Boldo SpA., (en adelante, el "Proponente"), formalizada al Sistema de Evaluación de Impacto Ambiental (en adelante, "SEIA") con fecha 21 de septiembre de 2022.
+
+El Proyecto se ubicará en la comuna de Peralillo, perteneciente a la provincia de Colchagua, Región del Libertador General Bernardo O'Higgins.
+
+El Proyecto ingresa al sistema de evaluación de impacto ambiental, cumpliendo con lo señalado por el legislador, conforme se señala en el artículo 3° del DS N°40/2012 del Ministerio del Medio Ambiente; en particular, literal a) Acueductos, embalses o tranques y sifones que deban someterse a la autorización establecida en el artículo 294 del Código de Aguas.
+
+Se informa que cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en al artículo 95 del DS N° 40/2012, el cual, señala que: "(...) las personas que intervengan tendrán los derechos y obligaciones establecidos en los artículos 90 y 91" (Derecho a formular observaciones), y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles (señalado en el artículo 94 inciso tercero del DS N°40/2012), contados a partir del día siguiente de la esta publicación del presente extracto.
+
+El texto íntegro de la resolución que resuelve iniciar un proceso de participación ciudadana, puede ser conocido en la Dirección Regional del Servicio de Evaluación Ambiental, ubicada en calle Campos N°241, piso 7, ciudad de Rancagua, o en el siguiente link: https://seia. sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&id_expediente=2156680907.
+
+Lidia Salazar Pérez, Directora Regional (S) del Servicio de Evaluación Ambiental Región del Libertador General Bernardo O'Higgins.
