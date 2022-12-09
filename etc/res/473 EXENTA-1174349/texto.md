@@ -40,7 +40,7 @@ Resolución:
 
 4. Establécese que el Consejo Asesor Externo estará integrado por las siguientes personas:
 
-a) Ximena Aguilera. Epidemióloga, académica Universidad del Desarrollo. Actual miembro del Consejo Asesor COVID-19.
+a) Dr. Pablo Vial, Médico infectólogo. Académico de la Universidad del Desarrollo. Fue Miembro del Consejo Asesor COVID-19.
 
 b) Ignacio Silva. Infectólogo, académico Universidad de Santiago, Hospital Barros Luco.
 
@@ -50,7 +50,7 @@ d) María Teresa Valenzuela. Epidemióloga, académica Universidad de Los Andes,
 
 e) Óscar Arteaga. Médico salubrista, Director Escuela de Salud Pública Universidad de Chile.
 
-f) Jeannette Dabanch. Infectóloga, académica Universidad de Chile, miembro del Consejo Asesor de Vacunas del MINSAL.
+f) Dra. Claudia Cortés, Infectóloga. Académica Universidad de Chile.
 
 g) Rafael Araos. Epidemiólogo, académico Universidad del Desarrollo, exjefe Epidemiología MINSAL. Fue miembro del Consejo Asesor COVID-19.
 
@@ -64,7 +64,7 @@ k) Andrea Repetto. Economista, académica Universidad Adolfo Ibáñez.
 
 l) Mónica Gerber. Socióloga, doctora en Métodos de Investigación Social London School of Economics and Political Science.
 
-La doctora Ximena Aguilera y el doctor Ignacio Silva tendrán los roles de Presidenta y Vicepresidente respectivo dentro del Consejo Asesor Externo.
+La doctora Catterina Ferreccio y el doctor Ignacio Silva tendrán los roles de Presidenta y Vicepresidente respectivo dentro del Consejo Asesor Externo.
 
 En las sesiones del Consejo Asesor Externo también participará la Jefatura de la División de Planificación Sanitaria y la Jefatura del Departamento de Epidemiología, para efectos de lo dispuesto en el numeral 13 de esta resolución.
 
