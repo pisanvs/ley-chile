@@ -1,0 +1,5 @@
+SE APRUEBA LA "MODIFICACIÓN DE CONTRATO DE COMODATO", ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, RESPECTO DEL INMUEBLE INSTITUCIONAL UBICADO EN LA COMUNA DE SANTIAGO, CON ACCESO POR CALLE AMUNÁTEGUI Nº 76 Y TAMBIÉN POR CALLE MONEDA Nº 1416, EN LA REGIÓN METROPOLITANA
+
+Por resolución exenta I Nº 25, de 9 de noviembre de 2022, conforme sus facultades delegadas, el Jefe del Departamento de Administración e Inmobiliaria IPS aprobó la "Modificación de Contrato de Comodato", suscrito con fecha 31 de agosto de 2022, entre el Instituto de Previsión Social y el Servicio de Registro Civil e Identificación, que modifica el contrato de comodato suscrito con fecha 11.05.2022, entre este Instituto y el Servicio de Registro Civil e Identificación, sancionado por resolución exenta I Nº 15, de 31 de mayo de esta anualidad.-
+
+Claudio Mauricio Vega Sandoval, Jefe Departamento de Administración e Inmobiliaria.
