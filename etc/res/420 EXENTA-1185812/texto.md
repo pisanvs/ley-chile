@@ -1,0 +1,5 @@
+SE APRUEBA EL "CONVENIO DE INTEROPERABILIDAD Y PRESTACIÓN DE SERVICIOS DE VERIFICACIÓN DE DATOS DEL REGISTRO DE POSESIONES EFECTIVAS EN LÍNEA EN EL MARCO DE LA PLATAFORMA INTEGRADA DE SERVICIOS ELECTRÓNICOS DEL ESTADO" SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN
+
+Por resolución exenta Nº 420, de 15 de noviembre de 2022, el Director Nacional del Instituto de Previsión Social aprobó el documento "Convenio de Interoperabilidad y Prestación de Servicios de Verificación de Datos del Registro de Posesiones Efectivas en Línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado", suscrito el 02.11.2022, entre este Instituto y el Servicio de Registro Civil e Identificación, que en diez (10) hojas, formó parte integrante del mencionado acto administrativo.-
+
+Patricio Coronado Rojo, Director Nacional.
