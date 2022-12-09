@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE BANCARIA SUBSIDIARIA A LA CUENTA ÚNICA FISCAL NÚMERO 9006605, DENOMINADA GIRADORA LOCAL DEL BANCO DEL ESTADO DE CHILE, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL ALAMEDA DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LOS FUNCIONARIOS QUE SE INDICA
+
+Por resolución exenta Nº 392, de 28 de octubre de 2022, el Director Nacional del Instituto de Previsión Social delegó la facultad para operar cuenta corriente bancaria subsidiaria a la cuenta única fiscal denominada Giradora Local Nº 9006605, del Centro de Atención Previsional Integral IPS Alameda, abierta en la Oficina Principal del Banco del Estado de Chile, destinada al pago de beneficios previsionales y gastos del referido CAPRI, en el funcionariado que individualiza.-
+
+Patricio Coronado Rojo, Director Nacional.
