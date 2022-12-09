@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 595 EXENTA, DE 22 DE NOVIEMBRE DE 2022
+
+Por resolución exenta Nº 595, de 22 de noviembre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama, se ha regularizado la prórroga del contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Atacama, celebrado con el concesionario Revisiones Técnicas San Dámaso S.A., y se ha prorrogado hasta el día 31 de diciembre de 2023, o hasta que comiencen a operar todos o parte de los establecimientos concesionados para esta Región, en virtud del llamado a licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región, a través de la resolución N° 34, de 23 de agosto de 2019, lo que ocurra primero.
+
+Anótese y publíquese en extracto en el Diario Oficial.- Carla Orrego Esquivel, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
