@@ -1,0 +1,5 @@
+SE APRUEBA "CONVENIO DE COLABORACIÓN" Y "TÉRMINO DE CONTRATO DE COMODATO Y NUEVO CONTRATO DE COMODATO", SUSCRITOS ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA ILUSTRE MUNICIPALIDAD DE JUAN FERNÁNDEZ
+
+Por resolución exenta I Nº 27, de 15 de noviembre de 2022, conforme sus facultades delegadas, el Jefe del Departamento de Administración e Inmobiliaria IPS aprobó el "Convenio de Colaboración", suscrito con fecha 17.10.2022, entre este Instituto y la Ilustre Municipalidad de Juan Fernández, cuya finalidad es coordinarse desde el ámbito de sus respectivas competencias y atribuciones legales, otorgándose mutua cooperación, y de este modo, propender a la integración social y al mejoramiento de la calidad de vida de los pensionados y otros beneficiarios del Instituto, propiciando su integración a la comunidad y su participación en actividades de carácter cultural, recreativas y en general, ejecutar todas aquellas actuaciones tendientes a mejorar el estándar y calidad de vida de dicho grupo etario, en la respectiva comuna de Juan Fernández.-
+
+Claudio Mauricio Vega Sandoval, Jefe Departamento de Administración e Inmobiliaria.
