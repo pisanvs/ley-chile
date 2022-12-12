@@ -44,7 +44,7 @@ Para efectos de la presente resolución, se entenderá por:
 
 (iii) Bonificación a la Contratación: beneficio incluido en la Línea que se entrega a las micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, con el objeto de contratar nuevos trabajadores, equivalente a un porcentaje de la remuneración mensual bruta imponible del trabajador causante del beneficio, con un tope, conforme a lo establecido en el Título IV. de la presente resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el mes de diciembre de 2021. Con todo, las bonificaciones otorgadas respecto de postulaciones realizadas hasta el 15 de septiembre de 2021 inclusive, se concederán por hasta 8 meses y, tratándose de micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, por hasta 10 meses.
 
-(iv) Bonificación mensual para el cuidado de niños o niñas menores de dos años de edad y entre dos años y menores de cinco años: Beneficio incluido en la Línea que se entrega directamente al/a la trabajador/a beneficiario/a que tengan el cuidado de niños y niñas menores cinco años desde la fecha en que se conceda, por tres meses, pudiendo postular hasta el 30 de septiembre de 2022.
+(iv) Bonificación mensual para el cuidado de niños o niñas menores de dos años de edad y entre dos años y menores de cinco años: Beneficio incluido en la Línea que se entrega directamente al/a la trabajador/a beneficiario/a que tengan el cuidado de niños y niñas menores cinco años desde la fecha en que se conceda, por tres meses, pudiendo postular hasta el 31 de diciembre de 2022.
 
 (v) Empresa beneficiaria: micro, pequeña y mediana empresa, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, que postula a las bonificaciones a la Retención o a la Contratación contempladas en la Línea, y cumple con los requisitos de postulación establecidos en el inciso primero del artículo cuarto del decreto Nº 28, y los establecidos en los Títulos III.
 
@@ -56,7 +56,7 @@ Para efectos de la presente resolución, se entenderá por:
 
 (vi) IFE Laboral: Bonificación mensual que se otorga al trabajador dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador, en los términos del artículo 7º del Código del Trabajo, dentro de la época fijada en esta resolución. Esta bonificación se otorgará desde la fecha en que se conceda y se devengará, como máximo, hasta el 31 de diciembre de 2021, para el caso de bonificaciones concedidas respecto de postulaciones realizadas entre el 16 de septiembre y el 31 octubre, ambos de 2021. Tratándose de bonificaciones concedidas respecto de postulaciones realizadas a contar del 1º noviembre de 2021, el beneficio se otorgará por un máximo de hasta tres meses, y la fecha de devengo máxima del mismo será el 30 de junio de 2022. Con todo, los trabajadores que sean beneficiarios de bonificaciones otorgadas respecto de postulaciones realizadas hasta el 14 de septiembre de 2021 inclusive, este beneficio se concederá por hasta 6 meses.
 
-(vi bis) Nuevo IFE Laboral: Bonificación mensual que se otorga al trabajador(a) dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador(a), en los términos del artículo 7° del Código del Trabajo. Se podrá postular a esta bonificación en virtud de relaciones laborales iniciadas en julio de 2022. Este beneficio se devengará por un máximo de hasta tres meses, sin que dicho devengo pueda exceder la fecha señalada en el numeral 5) de la letra c) del artículo tercero del decreto N° 28.
+(vi bis) Nuevo IFE Laboral: Bonificación mensual que se otorga al trabajador(a) dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador(a), en los términos del artículo 7° del Código del Trabajo. Se podrá postular a esta bonificación en virtud de relaciones laborales iniciadas a partir de julio de 2022. Este beneficio se devengará por un máximo de hasta tres meses, sin que dicho devengo pueda exceder la fecha señalada en el numeral 5) de la letra c) del artículo tercero del decreto N° 28.
 
 (vii) Gran Empresa o Grandes Empresas: empresa beneficiaria cuya Planilla de Referencia está compuesta por 200 o más trabajadores con contrato vigente al mes de julio de 2020.
 
@@ -198,7 +198,7 @@ Suma equivalente a $200.000 (doscientos mil pesos) mensuales que se entrega al t
 
 b.- Plazo de otorgamiento de esta bonificación.
 
-La bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular acorde a lo dispuesto en la letra e) de este título hasta el 30 de septiembre de 2022.
+La bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular acorde a lo dispuesto en la letra e) de este título hasta el 31 de diciembre de 2022.
 
 c.- Requisitos respecto del trabajador beneficiario.
 
@@ -224,7 +224,7 @@ El Sence verificará el cumplimiento de los requisitos exigidos durante el mes s
 
 En contra de la decisión de no aprobación, el/la trabajador/a postulante podrá interponer el recurso de reposición dispuesto en la Ley N° 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, en una de las ventanas habilitadas por el Sence: https://buzonciudadano.sence.cl/ES/AtencionCiudadana/Login, dentro del plazo de cinco (5) días hábiles contados desde la fecha de la notificación respectiva, debiendo acompañar todos los antecedentes que sean necesarios para fundar el recurso.
 
-El Sence resolverá el recurso de reposición a través de una resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
+El Sence resolverá, dentro del plazo de 20 días hábiles administrativos, el recurso de reposición a través de una resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
 
 f.- Pago del beneficio.
 
@@ -316,7 +316,9 @@ Se encuentra regulado conforme a lo dispuesto en el numeral 5, letra c), del art
 
 b) El plazo de otorgamiento de esta bonificación.
 
-Este beneficio se devengará por un máximo de tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022, en virtud de relaciones laborales iniciadas en julio de 2022.
+Este beneficio se devengará por un máximo de tres meses, sin que dicho devengo pueda exceder del 31 de diciembre de 2022, en virtud de relaciones laborales iniciadas a partir de julio de 2022.
+
+Las personas que hayan postulado a Nuevo IFE Laboral durante los meses de agosto y septiembre de 2022 accederán a dicha bonificación hasta octubre y noviembre, respectivamente.
 
 c) Requisitos respecto del/de la trabajador/a beneficiario/a.
 
@@ -328,7 +330,7 @@ Se encuentra regulado conforme a lo dispuesto en el numeral 5, letra c), del art
 
 e) Periodo de postulación y otorgamiento del beneficio.
 
-Los/Las trabajadores/as que cumplan con los requisitos para postular al Nuevo IFE Laboral podrán hacerlo en el sitio web www.subsidioalempleo.cl habilitado por el Sence, desde el 1° de julio y hasta el 30 de septiembre de 2022, el que se devengará por un máximo de tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022, acorde al siguiente cuadro:
+Los/Las trabajadores/as que cumplan con los requisitos para postular al Nuevo IFE Laboral podrán hacerlo en el sitio web www.subsidioalempleo.cl habilitado por el Sence, desde el 1° de julio y hasta el 31 de diciembre de 2022, el que se devengará por un máximo de tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022, acorde al siguiente cuadro:
 
 .
 
@@ -338,7 +340,7 @@ El Sence verificará el cumplimiento de los requisitos exigidos dentro de los pr
 
 En contra de la decisión de no aprobación, el/la trabajador/a postulante podrá interponer el recurso de reposición dispuesto en la Ley N° 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, en una de las ventanas habilitadas por el Sence en el siguiente link: https://buzonciudadano.sence.cl/ES/AtencionCiudadana/Login, dentro del plazo de cinco (5) días hábiles contados desde la fecha de la notificación respectiva, debiendo acompañar todos los antecedentes que sean necesarios para fundar el recurso.
 
-El Sence resolverá el recurso de reposición a través de resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
+El Sence resolverá, dentro del plazo de 20 días hábiles administrativos, el recurso de reposición a través de resolución fundada, en la que podrá acoger el recurso, o bien, rechazarlo. Esta resolución será notificada al/a la trabajador/a postulante de la misma forma que se señaló anteriormente. En contra de la resolución que resuelve el recurso, no procederán más recursos, por lo que la dictación de ésta producirá el efecto de agotar la vía administrativa. Lo anterior, sin perjuicio del recurso extraordinario de revisión previsto en el artículo 60 de la ley N° 19.880.
 
 El/La trabajador/a beneficiario/a dependiente solo podrá acceder al beneficio imputando una única relación laboral, aunque preste servicios bajo subordinación o dependencia para distintos empleadores/as.
 
@@ -350,7 +352,7 @@ f) Pago del beneficio.
 
 El Sence será el encargado de efectuar mensualmente el pago del beneficio por medio de depósito en la cuenta bancaria personal, indicada por el/la trabajador/a beneficiario/a en su postulación.
 
-El/La trabajador/a beneficiario/a tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de extinción, según sea el caso, y se devengará por el periodo en que se mantenga vigente el contrato de trabajo por el cual postuló, por un máximo de hasta tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022.
+El/La trabajador/a beneficiario/a tendrá derecho al pago de la bonificación hasta la fecha en que se verifique alguna de las causales de extinción, según sea el caso, y se devengará por el periodo en que se mantenga vigente el contrato de trabajo por el cual postuló, por un máximo de hasta tres meses, sin que dicho devengo pueda exceder del 31 de diciembre de 2022.
 
 g) Suspensión del pago del beneficio.
 
