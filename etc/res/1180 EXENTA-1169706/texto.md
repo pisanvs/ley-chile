@@ -2781,3 +2781,9 @@ La demostración debe considerar que existe luz día al exterior del avión y qu
 (i) Si se usa un simulador (mockup) del avión, este debe ser a tamaño real del interior del avión y representativo del avión en uso o propuesto a ser usado por el titular del AOC y debe contener los asientos adecuados para ser usados por los evacuados. La operación de las salidas de emergencia y de las puertas deben simular lo más cercanamente posible a las del avión. Para demostrar la evacuación debe considerarse la instalación exterior de un área alar suficiente.
 
 (ii) Si se usa un aparato de flotación que simule un compartimento de pasajeros, este debe ser representativo, en la medida de lo posible, del compartimento de pasajeros del avión usado en las operaciones. La operación de las salidas de emergencia y de las puertas deben simular lo más cercanamente posible a las del avión. Para demostrar la evacuación debe considerarse la instalación exterior de un área alar suficiente. El aparato debe estar equipado con el mismo equipo de supervivencia tal como está instalado en el avión para acomodar a todas las personas que participan en la demostración.
+
+DISPOSICIONES TRANSITORIAS:
+
+1.- El numeral 121.123 regirá a partir del 1° de junio de 2023 para aquellos explotadores que cuenten a la fecha de este acto administrativo con Certificado de Operador Aéreo (AOC) otorgado por esta Dirección General de Aeronáutica Civil, con autorización como empresa de transporte aéreo comercial en vuelos nacionales y regulares.
+
+2.- El numeral 121.501 regirá a partir del 1° de junio de 2023 para aquellos explotadores que cuenten a la fecha de este acto administrativo con Certificado de Operador Aéreo (AOC) otorgado por esta Dirección General de Aeronáutica Civil, con autorización como empresa de transporte aéreo comercial en vuelos nacionales y regulares.
