@@ -30,251 +30,55 @@ Resuelvo:
 
 Para los efectos de esta Resolución se entenderá por:
 
-a. Aditivo: Componente añadido distinto de la sustancia
+a. Aditivo: Componente añadido distinto de la sustancia activa y que no sean impurezas resultantes del proceso de fabricación. Tiene por objeto mantener la estabilidad y facilitar la manipulación de la sustancia activa grado técnico, como activo técnico (TC) o concentrado técnico(TK).
 
-activa y que no sean impurezas resultantes del
+b. Autorización de Plaguicida: Resolución que aprueba la fabricación, importación, distribución, exportación, venta, tenencia o aplicación de un plaguicida, que surge como resultado de la evaluación de un conjunto de determinaciones experimentales pruebas documentadas presentadas en apoyo de todas las afirmaciones relacionadas con las características que demuestren que el plaguicida es efectivo para el fin a que se destina y no entraña un riesgo inaceptable para la salud humana, animal ni para el medioambiente. Cada plaguicida estará identificado por un número de registro del Servicio.
 
-proceso de fabricación. Tiene por objeto mantener la
+c. Autorización de Muestra de Plaguicida para Experimentación: Resolución mediante la cual se aprueba una cantidad limitada de un plaguicida, para efectuar investigación exploratoria en escala reducida.
 
-estabilidad y facilitar la manipulación de la
+d. Coformulante: Cualquier sustancia, distinta de la sustancia activa grado técnico, incorporada intencionalmente a la formulación.
 
-sustancia activa grado técnico, como activo técnico
+e. Equivalencia: Proceso para la determinación de la similaridad de los perfiles de impurezas, toxicológicos ecotoxicológicos, así como de las propiedades físicas y químicas presentadas para sustancias activas grado técnico supuestamente similares generados por distintos fabricantes, para establecer si ellos presentan niveles similares de riesgo.
 
-(TC) o concentrado técnico(TK).
-
-b. Autorización de Plaguicida: Resolución que aprueba la
-
-fabricación, importación, distribución, exportación,
-
-venta, tenencia o aplicación de un plaguicida, que
-
-surge como resultado de la evaluación de un conjunto
-
-de determinaciones experimentales y pruebas
-
-documentadas presentadas en apoyo de todas las
-
-afirmaciones relacionadas con las características que
-
-demuestren que el plaguicida es efectivo para el fin
-
-a que se destina y no entraña un riesgo inaceptable
-
-para la salud humana, animal ni para el medioambiente.
-
-Cada plaguicida estará identificado por un número
-
-de registro del Servicio.
-
-c. Autorización de Muestra de Plaguicida para
-
-Experimentación:
-
-Resolución mediante la cual se aprueba una cantidad
-
-limitada de un plaguicida, para efectuar investigación
-
-exploratoria en escala reducida.
-
-d. Coformulante: Cualquier sustancia, distinta de la
-
-sustancia activa grado técnico, incorporada
-
-intencionalmente a la formulación.
-
-e. Equivalencia: Proceso para la determinación de la
-
-similaridad de los perfiles de impurezas,
-
-toxicológicos y ecotoxicológicos, así como de las
-
-propiedades físicas y químicas presentadas para
-
-sustancias activas grado técnico supuestamente
-
-similares generados por distintos fabricantes, para
-
-establecer si ellos presentan niveles similares de
-
-riesgo.
-
-e. bis. Especificación del Servicio: Aquella especificación
-
-de parámetros de calidad tales como pureza
-
-de la sustancia activa, contenido máximo de
-
-impureza relevante u otro, que el Servicio
-
-establece para la evaluación y autorización
-
-de un plaguicida por equivalencia
-
-e identidad.
+e. bis. Especificación del Servicio: Aquella especificación de parámetros de calidad tales como pureza de la sustancia activa, contenido máximo de impureza relevante u otro, que el Servicio establece para la evaluación y autorización de un plaguicida por equivalencia e identidad.
 
 f. Formulación: Fabricación del producto formulado.
 
 g. ELIMINADO.
 
-h. Identidad: Proceso para la autorización de una
+h. Identidad: Proceso para la autorización de una sustancia activa grado técnico y un producto formulado en el cuál los antecedentes técnicos acreditan un perfil único.
 
-sustancia activa grado técnico y un producto
-
-formulado en el cuál los antecedentes técnicos
-
-acreditan un perfil único.
-
-i. Impurezas relevantes: Son aquellos subproductos
-
-de fabricación o almacenamiento del plaguicida,
-
-los cuales, comparados con la sustancia activa,
-
-son toxicológicamente significativos para la
-
-salud o el ambiente, son fitotóxicos a las
-
-plantas tratadas, causan contaminación en cultivos
-
-para consumo, afectan la estabilidad del
-
-plaguicida o presentan cualquier otro efecto adverso.
+i. Impurezas relevantes: Son aquellos subproductos de fabricación o almacenamiento del plaguicida, los cuales, comparados con la sustancia activa, son toxicológicamente significativos para la salud o el ambiente, son fitotóxicos a las plantas tratadas, causan contaminación en cultivos para consumo, afectan la estabilidad del plaguicida o presentan cualquier otro efecto adverso.
 
 j. Ingrediente Activo: Sustancia Activa.
 
-k. Lote de fabricación: La cantidad definida de un
+k. Lote de fabricación: La cantidad definida de un material producida en una sola operación.
 
-material producida en una sola operación.
+l. Patrón de referencia o patrón: Aquella sustancia activa grado técnico que luego de su evaluación, determinación y autorización respectiva, se establece como la referencia vigente para la autorización de un plaguicida por equivalencia.
 
-l. Patrón de referencia o patrón: Aquella sustancia
+m. Plaguicida: Compuesto químico, orgánico o inorgánico, o sustancia natural que se utilice para combatir malezas, enfermedades o plagas potencialmente capaces de causar perjuicios en organismos u objetos. Se considerará como tal, el producto formulado y las sustancias activas con las que se formulan, con aptitudes insecticidas, reguladores de crecimiento de insectos, agentes sofocantes, acaricidas, nematicidas, molusquicidas, rodenticidas, lagomorficidas, fumigantes, fungicidas, bactericidas, desinfectantes, viricidas, microbicidas, preservantes de madera, alguicidas, herbicidas, defoliantes, desecantes, fitorreguladores, coadyuvantes, antitranspirantes, atrayentes, feromonas, aleloquímicos, repelentes, recubrimientos protectores de cultivos, inductores de resistencia y otros que se empleen en las actividades agrícolas y forestales y en otros ámbitos en los que este Servicio tenga competencia.
 
-activa grado técnico que luego de su evaluación,
+n. Plaguicida Natural: Son los plaguicidas basados en sustancias naturales pudiendo utilizarse por sí solos o en una formulación. Dentro de ellos podemos encontrar:
 
-determinación y autorización respectiva, se establece
+i. Plaguicidas biológicos, basados en agentes de control de biológico (microorganismos y macroorganismos) nativos o exóticos, y extractos de fermentación microbiológica;
 
-como la referencia vigente para la autorización de
+ii. Plaguicidas naturales químicos, basados en extractos de origen vegetal, animal o mineral;
 
-un plaguicida por equivalencia.
+iii. Plaguicidas semioquímicos, basados en feromonas que actúan entre miembros de una especie, y en aleloquímicos tales como cairomonas, alomonas, sinomonas y antimonas, que actúan entre miembros de diferentes especies, que pueden actuar como atrayentes o repelentes, las que pueden ser de origen natural o en algunos casos sintetizadas.
 
-m. Plaguicida: Compuesto químico, orgánico o inorgánico,
+n. bis. Producción: Fabricación de sustancias activas de un plaguicida natural.
 
-o sustancia natural que se utilice para combatir
+ñ. Productor: Fabricante de sustancias activas de un plaguicida natural.
 
-malezas, enfermedades o plagas potencialmente
+o. Resumen Ejecutivo: Informe impreso o en formato digital con una síntesis de la información requerida en los Antecedentes del Titular, los Requisitos Técnicos para la Evaluación de Plaguicidas y en los Documentos solicitados en esta norma, correspondiente al plaguicida objeto de la solicitud de autorización.
 
-capaces de causar perjuicios en organismos u objetos.
+p. Sustancia Activa: Componente que confiere la acción biológica esperada a un plaguicida, o modifica el efecto de otro plaguicida.
 
-Se considerará como tal, el producto formulado y las
+q. Sustancia Activa Equivalente: Aquella que luego de la evaluación efectuada por el Servicio, cumple con las especificaciones de la Sustancia Activa Patrón.
 
-sustancias activas con las que se formulan, con
+r. Sustancia Activa Grado Técnico: Sustancia activa tal cual se obtiene de la síntesis industrial; se compone del ingrediente activo, subproductos relacionados e impurezas, pudiendo contener pequeñas cantidades de aditivos.
 
-aptitudes insecticidas, reguladores de crecimiento de
-
-insectos, agentes sofocantes, acaricidas, nematicidas,
-
-molusquicidas, rodenticidas, lagomorficidas,
-
-fumigantes, fungicidas, bactericidas, desinfectantes,
-
-viricidas, microbicidas, preservantes de madera,
-
-alguicidas, herbicidas, defoliantes, desecantes,
-
-fitorreguladores, coadyuvantes, antitranspirantes,
-
-atrayentes, feromonas, aleloquímicos, repelentes,
-
-recubrimientos protectores de cultivos, inductores
-
-de resistencia y otros que se empleen en las
-
-actividades agrícolas y forestales y en otros ámbitos
-
-en los que este Servicio tenga competencia.
-
-n. Plaguicida Natural: Son los plaguicidas basados en
-
-sustancias naturales pudiendo utilizarse por sí solos
-
-o en una formulación. Dentro de ellos podemos
-
-encontrar:
-
-i. Plaguicidas biológicos, basados en agentes de
-
-control de biológico (microorganismos y
-
-macroorganismos) nativos o exóticos,
-
-y extractos de fermentación microbiológica;
-
-ii. Plaguicidas naturales químicos, basados en
-
-extractos de origen vegetal, animal o mineral;
-
-iii. Plaguicidas semioquímicos, basados en feromonas
-
-que actúan entre miembros de una especie, y en
-
-aleloquímicos tales como cairomonas, alomonas,
-
-sinomonas y antimonas, que actúan entre miembros
-
-de diferentes especies, que pueden actuar como
-
-atrayentes o repelentes, las que pueden ser de
-
-origen natural o en algunos casos sintetizadas.
-
-n. bis. Producción: Fabricación de sustancias activas de
-
-un plaguicida natural.
-
-ñ. Productor: Fabricante de sustancias activas de un
-
-plaguicida natural.
-
-o. Resumen Ejecutivo: Informe impreso o en formato
-
-digital con una síntesis de la información requerida
-
-en los Antecedentes del Titular, los Requisitos
-
-Técnicos para la Evaluación de Plaguicidas y en
-
-los Documentos solicitados en esta norma,
-
-correspondiente al plaguicida objeto de la solicitud
-
-de autorización.
-
-p. Sustancia Activa: Componente que confiere la acción
-
-biológica esperada a un plaguicida, o modifica el
-
-efecto de otro plaguicida.
-
-q. Sustancia Activa Equivalente: Aquella que luego de la
-
-evaluación efectuada por el Servicio, cumple con las
-
-especificaciones de la Sustancia Activa Patrón.
-
-r. Sustancia Activa Grado Técnico: Sustancia activa tal
-
-cual se obtiene de la síntesis industrial; se compone
-
-del ingrediente activo, subproductos relacionados e
-
-impurezas, pudiendo contener pequeñas cantidades
-
-de aditivos.
-
-s. Sustancia Activa Nueva: Aquella entidad química nueva
-
-que cumple con las condiciones sobre Ley de Propiedad
-
-Industrial y goza de los beneficios que ésta indica.
+s. Sustancia Activa Nueva: Aquella entidad química nueva que cumple con las condiciones sobre Ley de Propiedad Industrial y goza de los beneficios que ésta indica.
 
 t. ELIMINADO.
 
@@ -288,71 +92,29 @@ La autorización se otorgará previa evaluación favorable del Servicio, realiza
 
 Los tipos de autorización de plaguicidas, son los siguientes:
 
-a. Por identidad: para plaguicidas formulados,
+a. Por identidad: para plaguicidas formulados, sustancias activas nuevas, sustancias activas químicas sintéticas que no tiene un patrón de referencia determinado, los coadyuvantes o las sustancias naturales (sustancias semioquímicas, sustancias naturales químicas y sustancias biológicas).
 
-sustancias activas nuevas, sustancias activas
+b. Por equivalencia: para los plaguicidas formulados en base a sustancias activas químicas sintéticas, para las cuales exista una especificación del Servicio, quedando excluidos de este tipo de autorización los plaguicidas naturales (plaguicidas semioquímicos, plaguicidas naturales químicos y plaguicidas biológicos).
 
-químicas sintéticas que no tiene un patrón de
+c. Autorizaciones especiales: para plaguicidas como sustancias activas grado técnico, productos formulados, u otros, según corresponda; que el Servicio determina de acuerdo a otros requisitos de evaluación que no están contemplados en los numerales a y b; o para usos especiales de acuerdo a disposiciones especiales de la normativa, y otras leyes o reglamentos en los que el Servicio tiene atribuciones, tales como:
 
-referencia determinado, los coadyuvantes o las
+i. Plaguicidas como sustancias activas grado técnico idénticas, o como productos formulados; idénticos a otros ya autorizados.
 
-sustancias naturales (sustancias semioquímicas,
+ii. Plaguicidas para uso en producción orgánica.
 
-sustancias naturales químicas y sustancias
+iii. Plaguicidas para uso en cultivos menores.
 
-biológicas).
+iv. Plaguicidas para solo exportación.
 
-b. Por equivalencia: para los plaguicidas formulados
-
-en base a sustancias activas químicas
-
-sintéticas, para las cuales exista una
-
-especificación del Servicio, quedando
-
-excluidos de este tipo de autorización los
-
-plaguicidas naturales (plaguicidas semioquímicos,
-
-plaguicidas naturales químicos y plaguicidas
-
-biológicos).
-
-c. Autorizaciones especiales: para plaguicidas
-
-formulados que el Servicio determina de acuerdo
-
-a otros requisitos de evaluación
-
-o para usos especiales, tales como:
-
-i. Plaguicidas en base a sustancia activa idéntica
-
-o productos formulados idénticos a otros ya
-
-autorizados.
-
-ii. Plaguicidas para uso en producción orgánica
-
-iii. Plaguicidas para uso en cultivos menores
-
-iv. Plaguicidas para sólo exportación
-
-v. Feromonas de monitoreo
+v. Feromonas de monitoreo.
 
 vi. Muestras de plaguicidas para experimentación.
 
-vii. Patrones analíticos
+vii. Patrones analíticos.
 
-viii Plaguicidas para usos especiales (protección
+viii. Plaguicidas para usos especiales.
 
-de sanidad vegetal, ley de Caza y su
-
-reglamento, para control de especies dañinas
-
-y plagas en ecosistemas naturales y protección
-
-de sanidad animal)
+ix. Plaguicidas que se han sometido al esquema de reconocimiento del proceso de registro o autorización de sustancias activas grado técnico de Estados Unidos de América o la Unión Europea.
 
 4. Requerimientos previos técnicos y administrativos para la autorización de un plaguicida.
 
@@ -362,29 +124,11 @@ La autorización deberá ser solicitada al Servicio por una persona que tenga su
 
 4.1.1. Nombre, RUT y Dirección.
 
-4.1.2. Representante Legal, RUT, Dirección
-
-(Deberá acreditar legalmente la
-
-representación) y Correo electrónico.
+4.1.2. Representante Legal, RUT, Dirección (Deberá acreditar legalmente la representación) y Correo electrónico.
 
 4.1.3. Página web, si corresponde.
 
-4.1.4. Antecedentes que demuestren que el
-
-solicitante cuenta con asesoría de una
-
-persona con conocimiento, formación
-
-o experiencia en lo que se relacione
-
-con los plaguicidas.
-
-Esta persona deberá estar designada
-
-por el representante legal, mediante
-
-declaración jurada ante notario.
+4.1.4. Antecedentes que demuestren que el solicitante cuenta con asesoría de una persona con conocimiento, formación o experiencia en lo que se relacione con los plaguicidas. Esta persona deberá estar designada por el representante legal, mediante declaración jurada ante notario.
 
 4.2. Condiciones de la documentación.
 
@@ -432,111 +176,15 @@ La solicitud se tendrá por presentada válidamente, sólo desde el día de su p
 
 5.1. Para la sustancia activa grado técnico se requiere:
 
-a. Dos ejemplares de la HDS según la Norma Chilena
+a. Dos ejemplares de la HDS según la Norma Chilena NCh2245 vigente si se importa o fabrica en el país, o según la norma que corresponda al país de origen del plaguicida, cuando no se cumpla lo anterior; uno en original impreso y el otro en formato digital, para su inclusión en los antecedentes de evaluación para la sustancia activa grado técnico. Cuando la sustancia activa se importe o fabrique para la formulación nacional, una vez verificada durante la evaluación, la HDS según la Norma Chilena NCh2245 vigente, deberán remitirse al Servicio los ejemplares en formato impreso y digital ajustados a los términos de la evaluación realizada, para la emisión de la resolución de autorización correspondiente.
 
-NCh2245 vigente si se importa o fabrica en el país,
-
-o según la norma que corresponda al país de origen
-
-del plaguicida, cuando no se cumpla lo anterior;
-
-uno en original impreso y el otro en formato
-
-digital, para su inclusión en los antecedentes
-
-de evaluación para la sustancia activa grado
-
-técnico. Cuando la sustancia activa se importe o
-
-fabrique para la formulación nacional, una vez
-
-verificada durante la evaluación, la HDS según
-
-la Norma Chilena NCh2245 vigente, deberán remitirse
-
-al Servicio los ejemplares en formato impreso y
-
-digital ajustados a los términos de la evaluación
-
-realizada, para la emisión de la resolución de
-
-autorización correspondiente.
-
-b. Proyecto de la etiqueta de transporte de la unidad
-
-de embalaje de la sustancia activa grado técnico,
-
-uno en original impreso y el otro en formato
-
-digital, para su inclusión en los antecedentes de
-
-evaluación para la sustancia activa grado técnico.
-
-Cuando la sustancia activa se importe o fabrique
-
-para la formulación nacional, una vez verificada
-
-durante la evaluación y aprobada la etiqueta,
-
-deberán remitirse al Servicio los ejemplares de
-
-ésta en el número que el Servicio determine,
-
-ajustados a los términos de la evaluación realizada,
-
-para la emisión de la resolución de autorización
-
-correspondiente.
+b. Proyecto de la etiqueta de transporte de la unidad de embalaje de la sustancia activa grado técnico, uno en original impreso y el otro en formato digital, para su inclusión en los antecedentes de evaluación para la sustancia activa grado técnico. Cuando la sustancia activa se importe o fabrique para la formulación nacional, una vez verificada durante la evaluación y aprobada la etiqueta, deberán remitirse al Servicio los ejemplares de ésta en el número que el Servicio determine, ajustados a los términos de la evaluación realizada, para la emisión de la resolución de autorización correspondiente.
 
 5.2. Para el producto formulado se requiere:
 
-a. Dos ejemplares de la HDS y según la Norma
+a. Dos ejemplares de la HDS y según la Norma Chilena NCh2245 vigente, uno en original impreso y el otro en formato digital, para su inclusión en los antecedentes de evaluación del producto. Una vez verificada durante la evaluación, la HDS según la Norma Chilena NCh2245 vigente, deberán remitirse al Servicio los ejemplares en formato digital e impreso, ajustados a los términos de la evaluación realizada, para la emisión de la resolución de autorización correspondiente.
 
-Chilena NCh2245 vigente, uno en original
-
-impreso y el otro en formato digital, para
-
-su inclusión en los antecedentes de
-
-evaluación del producto. Una vez verificada
-
-durante la evaluación, la HDS según la Norma
-
-Chilena NCh2245 vigente, deberán remitirse
-
-al Servicio los ejemplares en formato digital
-
-e impreso, ajustados a los términos de la
-
-evaluación realizada, para la emisión de
-
-la resolución de autorización correspondiente.
-
-b. Proyecto de la etiqueta con que se expenderá
-
-en el país el plaguicida cuya autorización se
-
-solicita. Deberá enviarse al Servicio dos
-
-ejemplares del proyecto de etiqueta, uno en
-
-original impreso y el otro en formato digital,
-
-para su inclusión en los antecedentes de
-
-evaluación del producto. Una vez aprobada la
-
-etiqueta, deberán remitirse al Servicio los
-
-ejemplares de ésta en el número que el Servicio
-
-determine en formato impreso y en formato
-
-digital, ajustados a los términos de la evaluación
-
-realizada, para la emisión de la resolución de
-
-autorización correspondiente.
+b. Proyecto de la etiqueta con que se expenderá en el país el plaguicida cuya autorización se solicita. Deberá enviarse al Servicio dos ejemplares del proyecto de etiqueta, uno en original impreso y el otro en formato digital, para su inclusión en los antecedentes de evaluación del producto. Una vez aprobada la etiqueta, deberán remitirse al Servicio los ejemplares de ésta en el número que el Servicio determine en formato impreso y en formato digital, ajustados a los términos de la evaluación realizada, para la emisión de la resolución de autorización correspondiente.
 
 ## Título II — AUTORIZACION POR IDENTIDAD
 
@@ -548,19 +196,11 @@ El Servicio deberá pronunciarse sobre la autorización de un plaguicida dentro 
 
 El solicitante deberá proceder de acuerdo al numeral 4.6 y presentar la siguiente documentación para la evaluación del plaguicida, la cual deberá encontrarse ordenada de la siguiente manera:
 
-a. En relación al solicitante y titular, según
+a. En relación al solicitante y titular, según corresponda, lo establecido en el numeral 4.1.
 
-corresponda, lo establecido en el numeral
+b. En relación a la Sustancia Activa, lo establecido en el numeral 8.
 
-4.1.
-
-b. En relación a la Sustancia Activa, lo
-
-establecido en el numeral 8.
-
-c. En relación al Producto Formulado, lo
-
-establecido en el numeral 9.
+c. En relación al Producto Formulado, lo establecido en el numeral 9.
 
 6.2. Verificación, evaluación y autorización por Identidad.
 
@@ -594,6 +234,14 @@ De no cumplirse con lo dispuesto en la presente Resolución, el Servicio emitir�
 
 El plaguicida será autorizado por primera vez, para las combinaciones específicas plaga-cultivo y bajo las condiciones indicadas en ésta, con una vigencia de 10 años, los que podrán ser renovables, por igual período, si cumple con las disposiciones establecidas del Servicio.
 
+7 bis. Condiciones y requisitos para la evaluación y autorización de plaguicidas naturales (químicos naturales, semioquímicos y biológicos) y coadyuvantes.
+
+7 bis.1. Las condiciones y los requisitos para la evaluación y autorización por identidad de plaguicidas químicos naturales, semioquímicos y biológicos; y coadyuvantes se regirán por las resoluciones específicas dictadas por el Servicio y a través de las cuales se establecen las condiciones y requisitos para evaluar tales plaguicidas, de acuerdo al caso.
+
+En los casos que los tipos de plaguicidas anteriores, tanto sustancias activas grado técnico como productos formulados, no posean condiciones o requisitos específicos, se regirán por las disposiciones del Título I de Autorización por Identidad y los requisitos indicados en los numerales 4, 5, 8 y 9, en los que se adaptará la norma a la naturaleza de los plaguicidas como sustancia activa grado técnico y producto formulado, en base al principio de aplicabilidad.
+
+Para las evaluaciones favorables de plaguicidas naturales y coadyuvantes, el Servicio emitirá la resolución de autorización correspondiente, que será notificada al solicitante. A cada producto formulado se le asignará un número de autorización, que debe incluirse en la etiqueta respectiva. Asimismo, a cada sustancia activa grado técnico se le asignará un código correlativo de uso y control interno.
+
 ### 8. Requisitos técnicos para la evaluación de sustancias activas
 
 Se deberán presentar los siguientes antecedentes:
@@ -616,19 +264,11 @@ Estos antecedentes deben venir respaldados por el Certificado de inscripción o 
 
 8.1.3. Sinónimo (si tiene).
 
-8.1.4. Nombre químico (aceptado o propuesto por
+8.1.4. Nombre químico (aceptado o propuesto por UIQPA, CAS).
 
-UIQPA, CAS).
+8.1.5. Fórmula empírica, fórmula estructural (incluyendo estereoquímica de isómeros activos si corresponde) y masa molecular.
 
-8.1.5. Fórmula empírica, fórmula estructural
-
-(incluyendo estereoquímica de isómeros
-
-activos si corresponde) y masa molecular.
-
-8.1.6. Nº CAS, Nº CE (para cada isómero o mezcla
-
-de isómeros si corresponde) y CICAP.
+8.1.6. Nº CAS, Nº CE (para cada isómero o mezcla de isómeros si corresponde) y CICAP.
 
 8.1.7. Número de código experimental (cuando proceda).
 
@@ -638,61 +278,25 @@ de isómeros si corresponde) y CICAP.
 
 Esta información deberá venir respaldada por un Certificado con el método de fabricación, incluyendo procedimiento de síntesis, especificando las condiciones y disolventes empleados de la sustancia activa, emitido por el fabricante.
 
-8.1.10. Grado de pureza (contenido mínimo de
-
-sustancia activa en g/kg).
+8.1.10. Grado de pureza (contenido mínimo de sustancia activa en g/kg).
 
 8.1.11. Isómeros.
 
-a. Identificación. Nombre químico UIQPA y CAS;
+a. Identificación. Nombre químico UIQPA y CAS; nombre común, si existe; su fórmula empírica y estructural; número CAS, CE y CICAP (Si existe), y masa molecular.
 
-nombre común, si existe; su fórmula empírica
+b. Proporción en que se encuentran, y contenido mínimo en g/kg, para los isómeros activos. Para el caso de los isómeros inactivos señalar el contenido máximo.
 
-y estructural; número CAS, CE y CICAP
+8.1.12. Impurezas y subproductos, identificándolas con su nombre químico UIQPA y CAS; nombre común, si existe; su fórmula empírica y estructural; número CAS, CE y CICAP (Si existe) y masa molecular.
 
-(Si existe), y masa molecular.
-
-b. Proporción en que se encuentran, y contenido
-
-mínimo en g/kg, para los isómeros activos.
-
-Para el caso de los isómeros inactivos señalar
-
-el contenido máximo.
-
-8.1.12. Impurezas y subproductos, identificándolas
-
-con su nombre químico UIQPA y CAS; nombre
-
-común, si existe; su fórmula empírica y
-
-estructural; número CAS, CE y CICAP (Si
-
-existe) y masa molecular.
-
-a. De contenido mayor o igual a 1 g/kg, si no tienen
-
-efectos adversos, indicar su contenido máximo en
-
-g/kg.
+a. De contenido mayor o igual a 1 g/kg, si no tienen efectos adversos, indicar su contenido máximo en g/kg.
 
 El límite máximo para las impurezas relevantes también debe estar respaldado por datos analíticos de lote de fabricación (mínimo cinco lotes típicos) y el proponente debe establecer las bases estadísticas para los límites de fabricación.
 
-b. De cualquier contenido, para impurezas relevantes
-
-(aclarar y especificar los efectos adversos
-
-observados, por ejemplo, efectos toxicológicos,
-
-ecotoxicológicos o medioambientales, o efectos
-
-sobre la estabilidad de la sustancia activa).
+b. De cualquier contenido, para impurezas relevantes (aclarar y especificar los efectos adversos observados, por ejemplo, efectos toxicológicos, ecotoxicológicos o medioambientales, o efectos sobre la estabilidad de la sustancia activa).
 
 8.1.13. Aditivos (ej.: estabilizantes).
 
-a. Identificación, Nombre químico UIQPA y CAS; nombre
-
-común, si existe; su fórmula empírica y estructural;
+a. Identificación, Nombre químico UIQPA y CAS; nombre común, si existe; su fórmula empírica y estructural;
 
 número CAS, CE y CICAP (Si existe), y masa molecular.
 
@@ -726,7 +330,7 @@ Para la determinación de las propiedades fisicoquímicas se deberá utilizar la
 
 Al finalizar las determinaciones fisicoquímicas deberá indicarse el grado de cumplimiento de las especificaciones pertinentes de la FAO por parte de las sustancias activas objeto de la solicitud. Se enumerará detalladamente los parámetros y se justificarán las diferencias entre uno y otro.
 
-Para el caso de usar la sustancia activa pura, se debe informar el (los) método(s) de purificación y la pureza, que debe ser la más alta posible. Se justificará cuando ésta sea &lt; 980 g/kg, debiendo fundamentar que se agotaron las posibilidades técnicas de obtener una mayor pureza.
+Para el caso de usar la sustancia activa pura, se debe informar el (los) método(s) de purificación y la pureza, que debe ser la más alta posible. Se justificará cuando ésta sea &lt; 980 g/kg, debiendoo fundamentar que se agotaron las posibilidades técnicas de obtener una mayor pureza.
 
 Las informaciones de aspectos fisicoquímicos comprenden:
 
@@ -740,95 +344,31 @@ b. Color (p y t).
 
 c. Olor (p y t).
 
-8.2.2. Punto de fusión o congelamiento (p). En
+8.2.2. Punto de fusión o congelamiento (p). En caso que la sustancia activa sublime, señalar la temperatura a la que sublima (Punto de sublimación), o el proceso contrario. En caso que la sustancia activa se descomponga, señalar la temperatura a la que se descompone (Punto de descomposición).
 
-caso que la sustancia activa sublime,
+Punto de fusión (t), para sustancias activas que sean sólidas sobre 0ºC. En caso que la sustancia activa sublime, señalar la temperatura a la que sublima (Punto de sublimación). En caso que la sustancia activa se descomponga, señalar la temperatura a la que se descompone (Punto de descomposición).
 
-señalar la temperatura a la que sublima
-
-(Punto de sublimación), o el proceso
-
-contrario. En caso que la sustancia
-
-activa se descomponga, señalar la
-
-temperatura a la que se descompone
-
-(Punto de descomposición).
-
-Punto de fusión (t), para sustancias
-
-activas que sean sólidas sobre 0ºC. En
-
-caso que la sustancia activa sublime,
-
-señalar la temperatura a la que
-
-sublima (Punto de sublimación). En
-
-caso que la sustancia activa se
-
-descomponga, señalar la temperatura
-
-a la que se descompone (Punto de
-
-descomposición).
-
-8.2.3. Punto de ebullición (p) para líquidos
-
-a temperatura ambiente. En caso que la
-
-sustancia activa se descomponga, señalar
-
-la temperatura a la que se descompone
-
-(Punto de descomposición).
+8.2.3. Punto de ebullición (p) para líquidos a temperatura ambiente. En caso que la sustancia activa se descomponga, señalar la temperatura a la que se descompone (Punto de descomposición).
 
 8.2.4. Densidad (p y t).
 
 8.2.5. Presión de vapor (Pa) (p).
 
-8.2.6. Volatilidad (p) (constante de Henry,
+8.2.6. Volatilidad (p) (constante de Henry, Pa . m3 . mol-1) (p).
 
-Pa . m3 . mol-1) (p).
+8.2.7. Espectros (p): UV/VIS, IR, RMN- 1H, RMN-13C, EM.
 
-8.2.7. Espectros (p): UV/VIS, IR, RMN- 1H,
+8.2.8. Solubilidad en agua incluido efecto del pH (de 4 a 10) (p) La determinación se realizará en medio neutro, y en caso que la sustancia activa forme iones también se determinará la solubilidad en agua en medios ácidos y alcalinos.
 
-RMN-13C, EM.
+8.2.9. Solubilidad en disolventes orgánicos (p o t). Deberá ser determinada en los siguientes disolventes orgánicos, indicando la temperatura aplicada:
 
-8.2.8. Solubilidad en agua incluido efecto del
-
-pH (de 4 a 10) (p) La determinación se
-
-realizará en medio neutro, y en caso que
-
-la sustancia activa forme iones también
-
-se determinará la solubilidad en agua en
-
-medios ácidos y alcalinos.
-
-8.2.9. Solubilidad en disolventes orgánicos (p o
-
-t). Deberá ser determinada en los
-
-siguientes disolventes orgánicos,
-
-indicando la temperatura aplicada:
-
-a. Hidrocarburos alifáticos: preferentemente
-
-en n-heptano,
+a. Hidrocarburos alifáticos: preferentemente en n-heptano,
 
 b. Hidrocarburo aromático: preferentemente xileno,
 
-c. Hidrocarburos halogenados: preferentemente
+c. Hidrocarburos halogenados: preferentemente 1,2-dicloroeteno,
 
-1,2-dicloroeteno,
-
-d. Alcohol: preferentemente metanol o alcohol
-
-isopropílico,
+d. Alcohol: preferentemente metanol o alcohol isopropílico,
 
 e. Cetona: preferentemente acetona,
 
@@ -844,23 +384,15 @@ a. Velocidad de hidrólisis (p).
 
 b. Degradación fotoquímica (p).
 
-c. Constante de disociación (p), incluido el efecto
+c. Constante de disociación (p), incluido el efecto del pH (de 4 a 10).
 
-del pH (de 4 a 10).
-
-8.2.12. Inflamabilidad (t), para líquidos inflamables
-
-o combustibles, y para sólidos, gases o
-
-sustancias que desprendan gases inflamables.
+8.2.12. Inflamabilidad (t), para líquidos inflamables o combustibles, y para sólidos, gases o sustancias que desprendan gases inflamables.
 
 8.2.13. Tensión superficial (p).
 
 8.2.14. Propiedades explosivas (t).
 
-8.2.15. Propiedades oxidantes o comburentes (t), para
-
-sólidos o líquidos.
+8.2.15. Propiedades oxidantes o comburentes (t), para sólidos o líquidos.
 
 8.2.16. Corrosividad (t).
 
@@ -876,35 +408,15 @@ Los documentos que respalden este punto, deberán ser de carácter técnico y em
 
 8.3.1. Aptitud (Insecticida, herbicida, etc.)
 
-8.3.2. Efecto sobre los organismos-plaga (ej.:
+8.3.2. Efecto sobre los organismos-plaga (ej.: tóxico por inhalación, contacto sistémico u otras formas).
 
-tóxico por inhalación, contacto
+8.3.3. Organismos nocivos controlados (Nombre común y científico)
 
-sistémico u otras formas).
+8.3.4. Modo de acción sobre los organismos nocivos y sobre las plantas.
 
-8.3.3. Organismos nocivos controlados (Nombre
+8.3.5. Ámbito de aplicación previsto (en formulaciones para uso en campo, recintos cerrados, etc.).
 
-común y científico)
-
-8.3.4. Modo de acción sobre los organismos
-
-nocivos y sobre las plantas.
-
-8.3.5. Ámbito de aplicación previsto (en
-
-formulaciones para uso en campo,
-
-recintos cerrados, etc.).
-
-8.3.6. Resistencia (Información sobre
-
-desarrollo de resistencia en
-
-los organismos que controla y
-
-estrategias de manejo para
-
-prevenirlas).
+8.3.6. Resistencia (Información sobre desarrollo de resistencia en los organismos que controla y estrategias de manejo para prevenirlas).
 
 8.4. Métodos analíticos.
 
@@ -912,25 +424,11 @@ prevenirlas).
 
 Deberán facilitarse descripciones completas de la metodología.
 
-a. Método analítico para la determinación de la
+a. Método analítico para la determinación de la sustancia activa pura en el grado técnico.
 
-sustancia activa pura en el grado técnico.
+b. Método analítico para la determinación tanto de impurezas relevantes como de impurezas cuyo contenido es mayor o igual a 1 g/kg en la sustancia activa grado técnico, y cuando corresponda de los productos de degradación, isómeros, y aditivos (por ejemplo: estabilizantes).
 
-b. Método analítico para la determinación tanto de
-
-impurezas relevantes como de impurezas cuyo
-
-contenido es mayor o igual a 1 g/kg en la sustancia
-
-activa grado técnico, y cuando corresponda de los
-
-productos de degradación, isómeros, y aditivos
-
-(por ejemplo: estabilizantes).
-
-c. Parámetros analíticos: Para los métodos anteriores
-
-deberá presentarse:
+c. Parámetros analíticos: Para los métodos anteriores deberá presentarse:
 
 c.1. Linealidad,
 
@@ -944,61 +442,33 @@ c.4. Exactitud y repetibilidad
 
 Los métodos deberán permitir la determinación de la sustancia activa y/o de los metabolitos relevantes. Deberá determinarse empíricamente e indicarse la especificidad, precisión, recuperación y límite de cuantificación y detección.
 
-a. Residuos en o sobre plantas, productos vegetales,
-
-alimentos(de origen vegetal y animal) y alimentos
-
-de animales.
+a. Residuos en o sobre plantas, productos vegetales, alimentos(de origen vegetal y animal) y alimentos de animales.
 
 b. Residuos en suelo.
 
-c. Residuos en aguas (agua potable, aguas subterráneas
-
-y superficiales).
+c. Residuos en aguas (agua potable, aguas subterráneas y superficiales).
 
 d. Residuos en aire (si existen).
 
-e. Residuos en tejidos y fluidos animales o humanos
-
-(si existen).
+e. Residuos en tejidos y fluidos animales o humanos (si existen).
 
 8.5. Residuos en productos tratados.
 
-8.5.1. Identificación de los productos de degradación
+8.5.1. Identificación de los productos de degradación y metabolitos en plantas o productos tratados.
 
-y metabolitos en plantas o productos tratados.
+8.5.2. Comportamiento de los residuos de la sustancia activa y sus metabolitos desde la aplicación a
 
-8.5.2. Comportamiento de los residuos de la sustancia
+la cosecha. Absorción, distribución o conjugación con los ingredientes de la planta y la disipación del producto para el medio ambiente.
 
-activa y sus metabolitos desde la aplicación a
-
-la cosecha. Absorción, distribución o conjugación
-
-con los ingredientes de la planta y la disipación
-
-del producto para el medio ambiente.
-
-8.5.3. Datos sobre residuos, obtenidos mediante pruebas
-
-controladas. Esta información deberá venir
-
-respaldada con determinaciones realizadas por o
-
-para el fabricante con la sustancia activa en
-
-evaluación.
+8.5.3. Datos sobre residuos, obtenidos mediante pruebas controladas. Esta información deberá venir respaldada con terminaciones realizadas por o para el fabricante con la sustancia activa en evaluación.
 
 8.6. Información con respecto a la seguridad.
 
 Respaldada con HDS emitida por el fabricante de la sustancia activa según la Norma Chilena NCh2245 vigente, cuando se importe o fabrique en Chile, o según la norma que corresponda al país de origen del plaguicida, cuando no se cumpla lo anterior, o bien una declaración en original, de éste, donde se incluyan todas las recomendaciones para la sustancia activa.
 
-8.6.1. Procedimientos para la destrucción de la sustancia
+8.6.1. Procedimientos para la destrucción de la sustancia activa y para su descontaminación.
 
-activa y para su descontaminación.
-
-8.6.2. Posibilidades de recuperación (si la información
-
-está disponible).
+8.6.2. Posibilidades de recuperación (si la información está disponible).
 
 8.6.3. Posibilidades de neutralización.
 
@@ -1006,19 +476,11 @@ está disponible).
 
 8.6.5. Descontaminación de aguas.
 
-8.6.6. Métodos recomendados y precauciones de manejo
+8.6.6. Métodos recomendados y precauciones de manejo durante su manipulación, almacenamiento, transporte y en caso de incendio o derrame.
 
-durante su manipulación, almacenamiento,
+8.6.7. Productos de reacción y gases de combustión en caso de incineración o incendio.
 
-transporte y en caso de incendio o derrame.
-
-8.6.7. Productos de reacción y gases de combustión en
-
-caso de incineración o incendio.
-
-8.6.8. Información sobre equipos de protección
-
-individual.
+8.6.8. Información sobre equipos de protección individual.
 
 8.7. Toxicología.
 
@@ -1044,29 +506,19 @@ f. Sensibilización cutánea (activo grado técnico).
 
 8.7.2. Toxicidad a Corto Plazo/Mediano Plazo.
 
-a. Oral acumulativa (estudio de 28 días, ratas,
+a. Oral acumulativa (estudio de 28 días, ratas, activo grado técnico).
 
-activo grado técnico).
-
-b. Administración oral (90 días, activo grado
-
-técnico).
+b. Administración oral (90 días, activo grado técnico).
 
 b.1. en roedores (ratas).
 
-b.2. en no roedores (especie determinada
-
-en los protocolos OCDE u OCSPP de la EPA).
+b.2. en no roedores (especie determinada en los protocolos OCDE u OCSPP de la EPA).
 
 c. Otras vías:
 
-c.1. Inhalación (28 días, ratas, activo
+c.1. Inhalación (28 días, ratas, activo grado técnico,(sustancias volátiles)).
 
-grado técnico,(sustancias volátiles)).
-
-c.2. Dérmica (21/28 días, ratas o conejos,
-
-activo grado técnico).
+c.2. Dérmica (21/28 días, ratas o conejos, activo grado técnico).
 
 8.7.3. Toxicidad crónica.
 
@@ -1080,15 +532,9 @@ a. Estudios in vitro.
 
 a.1. Ensayo de mutación inversa en bacterias.
 
-a.2. Ensayo de clastogenicidad en células de
+a.2. Ensayo de clastogenicidad en células de mamífero u otros (Ensayo de aberraciones cromosómicas in vitro en mamíferos).
 
-mamífero u otros (Ensayo de aberraciones
-
-cromosómicas in vitro en mamíferos).
-
-a.3. Ensayo de mutación génica en células de
-
-mamífero.
+a.3. Ensayo de mutación génica en células de mamífero.
 
 b. Estudio in vivo en células somáticas.
 
@@ -1114,17 +560,11 @@ La necesidad de realizar estos ensayos deberá decidirse caso a caso, teniendo e
 
 a. Teratogenicidad.
 
-b. Estudio sobre, por lo menos, dos generaciones
-
-en mamíferos.
+b. Estudio sobre, por lo menos, dos generaciones en mamíferos.
 
 8.7.6. Metabolismo en Mamíferos.
 
-a. Estudios toxicocinéticos con dosis única (ratas,
-
-administración oral) y con dosis repetidas (ratas,
-
-administración oral).
+a. Estudios toxicocinéticos con dosis única (ratas, administración oral) y con dosis repetidas (ratas, administración oral).
 
 a.1. Absorción.
 
@@ -1132,9 +572,7 @@ a.2. Distribución.
 
 a.3. Excreción.
 
-b. Estudio Toxicocinético (ratas, administración
-
-dérmica).
+b. Estudio Toxicocinético (ratas, administración dérmica).
 
 b.1. Absorción dérmica.
 
@@ -1172,9 +610,7 @@ a.2. Hipersensibilidad o alergia.
 
 b. Observación directa de casos clínicos.
 
-c. Observación sobre la exposición de la población en general y
-
-estudios epidemiológicos.
+c. Observación sobre la exposición de la población en general y estudios epidemiológicos.
 
 8.8. Efectos sobre el Ambiente.
 
@@ -1186,45 +622,25 @@ El solicitante deberá presentar estudios para metabolitos y productos de reacci
 
 En los estudios correspondientes indicar la persistencia.
 
-8.8.1 Comportamiento en el Suelo (Datos para 3
+8.8.1 Comportamiento en el Suelo (Datos para 3 tipos de suelos patrones).
 
-tipos de suelos patrones).
-
-8.8.1.1. Tasa y vías de degradación (hasta 90%),
-
-incluida la identificación de:
+8.8.1.1. Tasa y vías de degradación (hasta 90%), incluida la identificación de:
 
 8.8.1.1.1. Procesos que intervienen
 
 8.8.1.1.2. Metabolitos y productos de degradación
 
-8.8.1.2. Adsorción y desorción y movilidad de la
+8.8.1.2. Adsorción y desorción y movilidad de la sustancia activa y, si es relevante, de sus metabolitos
 
-sustancia activa y, si es relevante, de
-
-sus metabolitos
-
-8.8.1.3. Magnitud y naturaleza de los residuos
-
-remanentes.
+8.8.1.3. Magnitud y naturaleza de los residuos remanentes.
 
 8.8.1.4. Comportamiento en el Agua y en el Aire.
 
 8.8.1.4.1 Tasa y vías de degradación en medio acuoso.
 
-8.8.1.4.1.2 Biodegradación, hidrólisis y fotólisis (si
+8.8.1.4.1.2 Biodegradación, hidrólisis y fotólisis (si no fueron especificados en las propiedades físicas y químicas).
 
-no fueron especificados en las propiedades
-
-físicas y químicas).
-
-8.8.1.4.2 Tasa y vías de degradación en el aire para
-
-sustancias volátiles y fumigantes (si no
-
-fueron especificados en las propiedades
-
-físicas y químicas).
+8.8.1.4.2 Tasa y vías de degradación en el aire para sustancias volátiles y fumigantes (si no fueron especificados en las propiedades físicas y químicas).
 
 8.9. Efectos Ecotoxicológicos
 
@@ -1234,53 +650,23 @@ Se deberá utilizar las directrices de la OCDE u OCSPP de la EPA, o protocolos q
 
 8.9.1 Efectos sobre las Aves.
 
-8.9.1.1. Toxicidad oral aguda. Estudio para una
+8.9.1.1. Toxicidad oral aguda. Estudio para una especie (codorniz japonesa o americana, o ánade real).
 
-especie (codorniz japonesa o americana,
-
-o ánade real).
-
-8.9.1.2. Toxicidad a corto plazo (estudio en una
-
-especie/8 días)
+8.9.1.2. Toxicidad a corto plazo (estudio en una especie/8 días)
 
 8.9.1.3. Efectos en la reproducción.
 
 8.9.2 Efectos sobre Organismos Acuáticos.
 
-8.9.2.1. Toxicidad aguda para peces. Estudio
+8.9.2.1. Toxicidad aguda para peces. Estudio para una especie (Trucha arcoíris) De contar con estudios de una segunda especie, estos deberán ser presentados al Servicio.
 
-para una especie (Trucha arcoíris) De
+8.9.2.2. Ensayo de toxicidad en las primeras fases de vida de los peces.
 
-contar con estudios de una segunda
-
-especie, estos deberán ser presentados
-
-al Servicio.
-
-8.9.2.2. Ensayo de toxicidad en las primeras
-
-fases de vida de los peces.
-
-8.9.2.3. Ensayo sobre el ciclo vital completo
-
-de los peces
+8.9.2.3. Ensayo sobre el ciclo vital completo de los peces
 
 8.9.2.4. Bioacumulación en peces.
 
-8.9.2.5. Toxicidad aguda para los invertebrados
-
-acuáticos. Estudio para una especie
-
-(Daphnia sp.) De contar con estudios
-
-de una segunda especie (insectos acuáticos,
-
-crustáceos (distinto de dáfnidos) y
-
-moluscos gasterópodos acuáticos) estos
-
-deberán ser presentados al Servicio.
+8.9.2.5. Toxicidad aguda para los invertebrados acuáticos. Estudio para una especie (Daphnia sp.) De contar con estudios de una segunda especie (insectos acuáticos, crustáceos (distinto de dáfnidos) y moluscos gasterópodos acuáticos) estos deberán ser presentados al Servicio.
 
 8.9.2.6. Estudios crónicos en Daphnia sp.
 
@@ -1288,67 +674,33 @@ deberán ser presentados al Servicio.
 
 8.9.2.8. Ritmo de crecimiento para Daphnia sp.
 
-8.9.2.9. Efectos sobre el crecimiento de las
+8.9.2.9. Efectos sobre el crecimiento de las algas. Incluyendo las siguientes variables de respuesta: rendimiento y tasa de crecimiento. Para los herbicidas debe incluirse una segunda especie de un grupo taxonómico diferente.
 
-algas. Incluyendo las siguientes variables
-
-de respuesta: rendimiento y tasa de
-
-crecimiento. Para los herbicidas debe
-
-incluirse una segunda especie de un grupo
-
-taxonómico diferente.
-
-8.9.3 Efectos sobre Organismos Distintos al
-
-Objetivo.
+8.9.3 Efectos sobre Organismos Distintos al Objetivo.
 
 8.9.3.1. Toxicidad para abejas
 
 a. Toxicidad aguda oral y de contacto
 
-b. Ensayo sobre la alimentación de colonias de
+b. Ensayo sobre la alimentación de colonias de abejas (Para el caso de Regulador de Crecimiento de Insectos).
 
-abejas (Para el caso de Regulador de Crecimiento
+8.9.3.2. Toxicidad aguda para artrópodos benéficos. Para uno de ellos y los otros en forma complementaria.
 
-de Insectos).
-
-8.9.3.2. Toxicidad aguda para artrópodos benéficos.
-
-Para uno de ellos y los otros en forma
-
-complementaria.
-
-a. Estudio para himenóptero parasitoide (Aphidius
-
-rhopalosiphi).
+a. Estudio para himenóptero parasitoide (Aphidius rhopalosiphi).
 
 b. Estudio para ácaro depredador (Typholodromus pyri).
 
-c. Estudios para dos especies relacionadas con la
+c. Estudios para dos especies relacionadas con la aplicación del plaguicida (Preferentemente depredador terrestre y depredador de follaje).
 
-aplicación del plaguicida (Preferentemente
+8.9.3.3. Toxicidad para lombrices de tierra (Eisenia foetida).
 
-depredador terrestre y depredador de follaje).
-
-8.9.3.3. Toxicidad para lombrices de tierra
-
-(Eisenia foetida).
-
-8.9.3.4. Toxicidad para microorganismos del
-
-suelo no objetivo.
+8.9.3.4. Toxicidad para microorganismos del suelo no objetivo.
 
 a. Transformación de nitrógeno.
 
 b. Mineralización de carbono.
 
-8.10. Información complementaria para
-
-proceso de evaluación de sustancia
-
-activa.
+8.10. Información complementaria para proceso de evaluación de sustancia activa.
 
 Sin perjuicio de lo anterior, el Servicio podrá solicitar información complementaria y estudios adicionales para el proceso de evaluación, debiendo cumplir con lo dispuesto en el numeral 6.2.3.
 
@@ -1378,19 +730,11 @@ b. Dirección.
 
 9.1.5. Otros nombres.
 
-9.1.6. Clase de uso a que se destina o Aptitud
+9.1.6. Clase de uso a que se destina o Aptitud (herbicida, insecticida, etc.).
 
-(herbicida, insecticida, etc.).
+9.1.7. Tipo de formulación (polvo mojable, concentrado emulsionable, etc.).
 
-9.1.7. Tipo de formulación (polvo mojable,
-
-concentrado emulsionable, etc.).
-
-9.1.8. Países de destino a los que se exportará,
-
-cuando corresponda a un plaguicida de
-
-formulación nacional.
+9.1.8. Países de destino a los que se exportará, cuando corresponda a un plaguicida de formulación nacional.
 
 9.2. Composición.
 
@@ -1402,13 +746,7 @@ Para el caso de la información de un coformulante que no queda debidamente resp
 
 9.2.1. Sustancia(s) activa(s).
 
-a. Identificación de la sustancia activa. Nombre común,
-
-nombre químico UIQPA y CAS, número CAS, CE y CICAP,
-
-indicando sales, ésteres, aminas, aniones o cationes
-
-presentes.
+a. Identificación de la sustancia activa. Nombre común, nombre químico UIQPA y CAS, número CAS, CE y CICAP, indicando sales, ésteres, aminas, aniones o cationes presentes.
 
 b. Contenido de sustancia activa grado técnico.
 
@@ -1416,25 +754,9 @@ c. Contenido de sustancia activa pura.
 
 9.2.2. Métodos para el análisis de la sustancia activa.
 
-a. Método de análisis para la determinación de la
+a. Método de análisis para la determinación de la sustancia activa en la formulación. En caso que la formulación contenga más de una sustancia activa se deberá establecer un método que sea capaz de determinar cada una de ellas en presencia de las otras sustancias activas.
 
-sustancia activa en la formulación. En caso que
-
-la formulación contenga más de una sustancia
-
-activa se deberá establecer un método que sea
-
-capaz de determinar cada una de ellas en
-
-presencia de las otras sustancias activas.
-
-b. Métodos analíticos para la determinación de
-
-impurezas relevantes que pueden formarse durante
-
-la fabricación del producto formulado o por su
-
-degradación durante el almacenamiento.
+b. Métodos analíticos para la determinación de impurezas relevantes que pueden formarse durante la fabricación del producto formulado o por su degradación durante el almacenamiento.
 
 c. Parámetros analíticos:
 
@@ -1448,21 +770,13 @@ c.4. Exactitud y repetibilidad.
 
 9.2.3. Coformulantes.
 
-a. Identificación del coformulante. Nombre común, nombre
-
-químico UIQPA y CAS, fórmula estructural, número CAS
-
-y CE, o cuando sea una mezcla indicar la identidad de
-
-los componentes, y nombre comercial.
+a. Identificación del coformulante. Nombre común, nombre químico UIQPA y CAS, fórmula estructural, número CAS y CE, o cuando sea una mezcla indicar la identidad de los componentes, y nombre comercial.
 
 b. Contenido.
 
 c. Función.
 
-d. Información toxicológica, ecotoxicológica o ambiental.
-
-Respaldar con HDS del proveedor del coformulante.
+d. Información toxicológica, ecotoxicológica o ambiental. Respaldar con HDS del proveedor del coformulante.
 
 El Servicio mediante resolución podrá restringir o prohibir la utilización de coformulantes que tengan efectos mutagénicos, teratogénicos, cancerígenos, neurotóxicos o inmunotóxico
 
@@ -1482,33 +796,21 @@ Al finalizar las determinaciones fisicoquímicas deberá indicarse el grado de c
 
 9.3.1.3 Olor
 
-9.3.2. Estabilidad en el almacenamiento (efectos
+9.3.2. Estabilidad en el almacenamiento (efectos de la temperatura respecto de su composición y de las propiedades físicas relacionadas con el uso) y la vida útil.
 
-de la temperatura respecto de su
-
-composición y de las propiedades físicas
-
-relacionadas con el uso) y la vida útil.
-
-9.3.3. Densidad relativa (D20°C4°C), densidad
-
-absoluta (þ) y densidad aparente.
+9.3.3. Densidad relativa (D20°C4°C), densidad absoluta (þ) y densidad aparente.
 
 9.3.4. Inflamabilidad
 
 9.3.4.1 Para líquidos inflamables o combustibles.
 
-9.3.4.2 Para sólidos, gases o sustancias que
-
-desprendan gases inflamables.
+9.3.4.2 Para sólidos, gases o sustancias que desprendan gases inflamables.
 
 9.3.5. Acidez/Alcalinidad y pH.
 
 9.3.6. Explosividad.
 
-9.3.7. Propiedades oxidantes o comburentes, para
-
-sólidos o líquidos.
+9.3.7. Propiedades oxidantes o comburentes, para sólidos o líquidos.
 
 9.4. Propiedades físicas y químicas relacionadas con el uso.
 
@@ -1532,9 +834,7 @@ Al finalizar las determinaciones fisicoquímicas deberá indicarse el grado de c
 
 9.4.7. Corrosividad.
 
-9.4.8. Incompatibilidad con otros productos (ej:
-
-fitosanitarios y fertilizantes).
+9.4.8. Incompatibilidad con otros productos (ej: fitosanitarios y fertilizantes).
 
 9.4.9. Densidad relativa a 20°C (D20°C20°C).
 
@@ -1554,9 +854,7 @@ fitosanitarios y fertilizantes).
 
 9.4.17. Solubilidad/miscibilidad en agua.
 
-9.4.18. Solubilidad/miscibilidad en disolventes
-
-orgánicos.
+9.4.18. Solubilidad/miscibilidad en disolventes orgánicos.
 
 9.4.19. Tensión superficial de disoluciones acuosas.
 
@@ -1570,17 +868,13 @@ Este punto deberá venir respaldado por los resultados de los ensayos de eficaci
 
 9.5.2. Efectos sobre las plagas y en los vegetales
 
-9.5.3. Condiciones en que el producto puede, o no, ser
-
-utilizado
+9.5.3. Condiciones en que el producto puede, o no, ser utilizado
 
 9.5.4. Instrucciones de Uso
 
 9.5.4.1. Cultivo
 
-9.5.4.2. Plaga u organismo a controlar (indicando su
-
-nombre común y científico)
+9.5.4.2. Plaga u organismo a controlar (indicando su nombre común y científico)
 
 9.5.4.3. Dosis.
 
@@ -1598,21 +892,11 @@ nombre común y científico)
 
 9.5.5. Usos aprobados en otros países,
 
-9.5.6 Estudios experimentales extranjeros, deben ser
+9.5.6 Estudios experimentales extranjeros, deben ser efectuados mediante protocolos universalmente aceptados, en que se demuestre la eficacia del plaguicida para los fines a que se recomienda.
 
-efectuados mediante protocolos universalmente
+9.5.7 Etiquetas y folletos originales con que el plaguicida, cuya autorización se solicita, se
 
-aceptados, en que se demuestre la eficacia del
-
-plaguicida para los fines a que se recomienda.
-
-9.5.7 Etiquetas y folletos originales con que el
-
-plaguicida, cuya autorización se solicita, se
-
-expende en el país de origen del fabricante del
-
-producto formulado.
+expende en el país de origen del fabricante del producto formulado.
 
 9.6. Envases Propuestos
 
@@ -1628,57 +912,31 @@ producto formulado.
 
 9.6.1.5 Sistema de cierre.
 
-9.6.2. Acción del producto sobre el material de
+9.6.2. Acción del producto sobre el material de los envases.
 
-los envases.
-
-9.6.3. Procedimientos para la descontaminación y
-
-destino final de los envases.
+9.6.3. Procedimientos para la descontaminación y destino final de los envases.
 
 9.7. Datos sobre el Manejo del Plaguicida
 
 Respaldada con HDS emitida por el fabricante del producto formulado, o bien una declaración en original de éste, donde se incluyan todas las recomendaciones para el plaguicida.
 
-9.7.1. Método de destrucción, eliminación o
+9.7.1. Método de destrucción, eliminación o inutilización del plaguicida.
 
-inutilización del plaguicida.
+9.7.2. Identidad de los productos de combustión originados en caso de incendio.
 
-9.7.2. Identidad de los productos de combustión
+9.7.3. Procedimientos de limpieza y descontaminación de los equipos de aplicación.
 
-originados en caso de incendio.
-
-9.7.3. Procedimientos de limpieza y descontaminación
-
-de los equipos de aplicación.
-
-9.7.4. Métodos recomendados y precauciones de
-
-manejo durante su manipulación, almacenamiento,
+9.7.4. Métodos recomendados y precauciones de manejo durante su manipulación, almacenamiento,
 
 transporte y en caso de incendio o derrame.
 
-9.7.5. Información sobre equipos de protección
-
-individual.
+9.7.5. Información sobre equipos de protección individual.
 
 9.8. Datos sobre residualidad
 
 Esta información deberá venir respaldada con determinaciones realizadas con el plaguicida en evaluación.
 
-9.8.1 Datos de residuos obtenidos en base a ensayos
-
-protocolizados, según las normas
-
-internacionales.
-
-Determinar, cuando proceda, el nivel de los
-
-residuos del plaguicida al momento de la cosecha
-
-del cultivo, en conformidad con las
-
-instrucciones de uso.
+9.8.1 Datos de residuos obtenidos en base a ensayos protocolizados, según las normas internacionales. Determinar, cuando proceda, el nivel de los residuos del plaguicida al momento de la cosecha del cultivo, en conformidad con las instrucciones de uso.
 
 9.9. Datos toxicológicos
 
@@ -1686,25 +944,15 @@ Debe respaldarse a través de los estudios generados por o para el fabricante de
 
 9.9.1. Toxicidad aguda para mamíferos.
 
-9.9.1.1. Oral (DL50 oral aguda, ratas, producto
+9.9.1.1. Oral (DL50 oral aguda, ratas, producto formulado).
 
-formulado).
+9.9.1.2. Dérmica (DL50 dermal aguda, ratas, producto formulado).
 
-9.9.1.2. Dérmica (DL50 dermal aguda, ratas, producto
+9.9.1.3. Inhalatoria (CL50 inhalatoria, ratas, producto formulado).
 
-formulado).
+9.9.2. Irritación cutánea y ocular (conejos, producto formulado)
 
-9.9.1.3. Inhalatoria (CL50 inhalatoria, ratas, producto
-
-formulado).
-
-9.9.2. Irritación cutánea y ocular (conejos, producto
-
-formulado)
-
-9.9.3. Sensibilización cutánea. (Si no se indicó para
-
-el técnico)
+9.9.3. Sensibilización cutánea. (Si no se indicó para el técnico)
 
 9.9.4. Informaciones Médicas Obligatorias.
 
@@ -1718,19 +966,11 @@ el técnico)
 
 9.9.4.2.3 Tratamiento médico.
 
-9.9.5 Informaciones médicas complementarias (cuando
+9.9.5 Informaciones médicas complementarias (cuando estén disponibles).
 
-estén disponibles).
+9.9.5.1 Observación sobre efectos de la exposición de la población no laboralmente expuesta y estudios epidemiológicos.
 
-9.9.5.1 Observación sobre efectos de la exposición de
-
-la población no laboralmente expuesta y
-
-estudios epidemiológicos.
-
-9.9.5.2 Observación directa de casos clínicos,
-
-accidentales y deliberados.
+9.9.5.2 Observación directa de casos clínicos, accidentales y deliberados.
 
 9.10 Datos de los efectos sobre el ambiente
 
@@ -1790,255 +1030,59 @@ El Servicio podrá sustituir el patrón de referencia si este no cumple con las 
 
 La equivalencia podrá ser aplicable en los siguientes casos:
 
-a. Cuando la sustancia activa grado técnico proviene
+a. Cuando la sustancia activa grado técnico proviene de un fabricante diferente al ya registrado para esa sustancia.
 
-de un fabricante diferente al ya registrado para
+b. Cuando la sustancia activa grado técnico cambia de escala laboratorio/piloto a escala comercial, para un mismo fabricante de la sustancia activa.
 
-esa sustancia.
-
-b. Cuando la sustancia activa grado técnico cambia de
-
-escala laboratorio/piloto a escala comercial, para
-
-un mismo fabricante de la sustancia activa.
-
-c. Cuando cambia una o más de las siguientes
-
-situaciones: el proceso de fabricación de la
-
-sustancia activa, o de calidad de los materiales
-
-iniciales, o el lugar de fabricación de la sustancia
-
-activa, o la adición de uno o más lugares de
-
-producción.
+c. Cuando cambia una o más de las siguientes situaciones: el proceso de fabricación de la sustancia activa, o de calidad de los materiales iniciales, o el lugar de fabricación de la sustancia activa, o la adición de uno o más lugares de producción.
 
 d. ELIMINADO.
 
-12.2. Criterios de equivalencia de sustancia activa
-
-grado técnico
+12.2. Criterios de equivalencia de sustancia activa grado técnico
 
 La equivalencia se determinará mediante los siguientes criterios:
 
 Primer nivel de evaluación de equivalencia.
 
-a. La equivalencia de las sustancias activas grado
+a. La equivalencia de las sustancias activas grado técnico se determinará de acuerdo a:
 
-técnico se determinará de acuerdo a:
+a.1. La pureza mínima certificada del ingrediente activo no es menor a la del patrón de referencia (considerando la relación de isómeros, si corresponde).
 
-a.1. La pureza mínima certificada del ingrediente
+a.2. Los resultados de las evaluaciones del proceso de fabricación usado, del perfil de impurezas y de la prueba de mutagenicidad (bacterias, in vitro), indican que los perfiles cumplen los requisitos del numeral 12.2.b.
 
-activo no es menor a la del patrón de referencia
+b. La equivalencia de los perfiles de impureza de las sustancias activas grado técnico se determinará por comparación de los límites de especificación de fabricación.
 
-(considerando la relación de isómeros, si
+b.1. La sustancia activa grado técnico generalmente se considerará equivalente cuando:
 
-corresponde).
-
-a.2. Los resultados de las evaluaciones del proceso de
-
-fabricación usado, del perfil de impurezas y de la
-
-prueba de mutagenicidad (bacterias, in vitro),
-
-indican que los perfiles cumplen los requisitos
-
-del numeral 12.2.b.
-
-b. La equivalencia de los perfiles de impureza de
-
-las sustancias activas grado técnico se determinará
-
-por comparación de los límites de especificación
-
-de fabricación.
-
-b.1. La sustancia activa grado técnico generalmente
-
-se considerará equivalente cuando:
-
-i) El límite máximo de cada una de las impurezas
-
-no relevante no exceda más del 50% en relación
-
-al nivel máximo en el perfil de referencia, o
-
-el nivel máximo absoluto no supere más de
-
-3 g/kg, lo que represente el mayor aumento.
+i) El límite máximo de cada una de las impurezas no relevante no exceda más del 50% en relación al nivel máximo en el perfil de referencia, o el nivel máximo absoluto no supere más de 3 g/kg, lo que represente el mayor aumento.
 
 ii) Que no se presenten nuevas impurezas relevantes,
 
 y;
 
-iii) Que no se incrementaron los límites de impurezas
+iii) Que no se incrementaron los límites de impurezas relevantes.
 
-relevantes.
+b.2. Cuando se sobrepasen estos límites para las diferencias en la concentración máxima de impurezas no relevantes, se le solicitará al proponente suministrar las razones y los datos de respaldo necesarios (Numeral 14.1.7), que expliquen por qué motivo estas impurezas en particular se pueden considerar como "no relevantes". El Servicio evaluará en cada caso para decidir si la Sustancia activa grado técnico es o no considerado equivalente.
 
-b.2. Cuando se sobrepasen estos límites para las
+b.3. Cuando hubiere impurezas nuevas, no presentes en el patrón en concentraciones mayores o iguales a 1 g/kg, se le solicitará al proponente suministrar las razones y los datos de respaldo necesarios (Numeral 14.1.7), que expliquen por qué estas impurezas son consideradas "no relevantes". En caso de no existir documentación de respaldo que explique esta situación deberá generarse dicha información por medio de los estudios que correspondan. El Servicio evaluará en cada caso si la sustancia activa grado técnico es, o no equivalente.
 
-diferencias en la concentración máxima de
+b.4. El perfil de la mutagenicidad (bacterias, in vitro) se considera equivalente al de la sustancia activa patrón, si el resultado de la evaluación comparada, punto final con punto final, no es peor para la sustancia activa objeto de la solicitud.
 
-impurezas no relevantes, se le solicitará al
+b.5. Cuando las impurezas relevantes superen a su máxima concentración o cuando hubieren nuevas impurezas relevantes, la sustancia activa grado técnico no se considerará equivalente y se denegará la solicitud mediante resolución fundada que se notificará al solicitante.
 
-proponente suministrar las razones y los datos de
+c. Cuando la información del primer nivel de evaluación sea insuficiente para decidir sobre la equivalencia o no equivalencia, se deberá proceder a evaluar con la información disponible o generada, mediante el segundo nivel de evaluación de equivalencia.
 
-respaldo necesarios (Numeral 14.1.7), que
-
-expliquen por qué motivo estas impurezas en
-
-particular se pueden considerar como "no
-
-relevantes". El Servicio evaluará en cada caso
-
-para decidir si la Sustancia activa grado técnico
-
-es o no considerado equivalente.
-
-b.3. Cuando hubiere impurezas nuevas, no presentes en
-
-el patrón en concentraciones mayores o iguales a 1
-
-g/kg, se le solicitará al proponente suministrar
-
-las razones y los datos de respaldo necesarios
-
-(Numeral 14.1.7), que expliquen por qué estas
-
-impurezas son consideradas "no relevantes". En
-
-caso de no existir documentación de respaldo que
-
-explique esta situación deberá generarse dicha
-
-información por medio de los estudios que
-
-correspondan. El Servicio evaluará en cada caso si
-
-la sustancia activa grado técnico es, o no
-
-equivalente.
-
-b.4. El perfil de la mutagenicidad (bacterias, in
-
-vitro) se considera equivalente al de la sustancia
-
-activa patrón, si el resultado de la evaluación
-
-comparada, punto final con punto final, no es peor
-
-para la sustancia activa objeto de la solicitud.
-
-b.5. Cuando las impurezas relevantes superen a su
-
-máxima concentración o cuando hubieren nuevas
-
-impurezas relevantes, la sustancia activa grado
-
-técnico no se considerará equivalente y se
-
-denegará la solicitud mediante resolución fundada
-
-que se notificará al solicitante.
-
-c. Cuando la información del primer nivel de
-
-evaluación sea insuficiente para decidir sobre la
-
-equivalencia o no equivalencia, se deberá proceder
-
-a evaluar con la información disponible o
-
-generada, mediante el segundo nivel de evaluación
-
-de equivalencia.
-
-i. Las sustancias activas grado técnico
-
-correspondientes a fabricantes o procesos de
-
-fabricación distintos, se considerarán
-
-equivalentes en caso que el primer nivel de
-
-evaluación llegue a resultados concluyentes en tal
-
-sentido. En caso contrario, deberá someterse al
-
-segundo nivel de evaluación de equivalencia y se
-
-estimará a la sustancia como equivalente, sólo si
-
-los resultados de las evaluaciones de los perfiles
-
-toxicológicos y ecotoxicológicos del segundo nivel
-
-indiquen que los perfiles cumplen con los
-
-requisitos de los numerales 12.2.d y 12.2.e.
+i. Las sustancias activas grado técnico correspondientes a fabricantes o procesos de fabricación distintos, se considerarán equivalentes en caso que el primer nivel de evaluación llegue a resultados concluyentes en tal sentido. En caso contrario, deberá someterse al segundo nivel de evaluación de equivalencia y se estimará a la sustancia como equivalente, sólo si los resultados de las evaluaciones de los perfiles toxicológicos y ecotoxicológicos del segundo nivel indiquen que los perfiles cumplen con los requisitos de los numerales 12.2.d y 12.2.e.
 
 Segundo nivel de evaluación de equivalencia.
 
-d. La equivalencia de los perfiles toxicológicos de
+d. La equivalencia de los perfiles toxicológicos de una sustancia activa grado técnico, se deberá determinar de acuerdo a:
 
-una sustancia activa grado técnico, se deberá
+d.1. El perfil toxicológico, se considerará equivalente al perfil toxicológico del patrón de referencia cuando los datos requeridos en el numeral 14.2.1 (ensayos de Toxicidad Aguda) no difieran por más de un factor de dos (2) en comparación con el perfil toxicológico del patrón de referencia o por un factor mayor que el de los incrementos de dosis adecuados, sí fuera mayor de dos (2). No deberá haber ningún cambio de evaluación en aquellos estudios que produzcan resultados categóricos por ejemplo: categoría 1, 2 o 3 de irritación cutánea.
 
-determinar de acuerdo a:
+d.2. Cuando fuera necesario, se evaluarán datos toxicológicos adicionales (numerales 14.2.2.a a 14.2.2.d) con el criterio aplicado en el numeral 12.2.d.1, siempre que, y si corresponde, los órganos afectados sean los mismos. La dosis de los estudios del solicitante respecto del patrón de equivalencia no debe diferir por más de un factor de dos (2), o los niveles sin efectos observados (NSEO) o los niveles sin efectos adversos observados (NSEAO), no deberán diferir en más de las diferencias en los niveles de dosis utilizados.
 
-d.1. El perfil toxicológico, se considerará equivalente
-
-al perfil toxicológico del patrón de referencia
-
-cuando los datos requeridos en el numeral 14.2.1
-
-(ensayos de Toxicidad Aguda) no difieran por más
-
-de un factor de dos (2) en comparación con el
-
-perfil toxicológico del patrón de referencia o por
-
-un factor mayor que el de los incrementos de dosis
-
-adecuados, sí fuera mayor de dos (2). No deberá
-
-haber ningún cambio de evaluación en aquellos
-
-estudios que produzcan resultados categóricos por
-
-ejemplo: categoría 1, 2 o 3 de irritación cutánea.
-
-d.2. Cuando fuera necesario, se evaluarán datos
-
-toxicológicos adicionales (numerales 14.2.2.a a
-
-14.2.2.d) con el criterio aplicado en el numeral
-
-12.2.d.1, siempre que, y si corresponde, los
-
-órganos afectados sean los mismos. La dosis de los
-
-estudios del solicitante respecto del patrón de
-
-equivalencia no debe diferir por más de un factor
-
-de dos (2), o los niveles sin efectos observados
-
-(NSEO) o los niveles sin efectos adversos
-
-observados (NSEAO), no deberán diferir en más de
-
-las diferencias en los niveles de dosis
-
-utilizados.
-
-e. Equivalencia de los perfiles ecotoxicológicos de
-
-los ingredientes activos grado técnico (según
-
-corresponda al uso previsto de la sustancia
-
-activa).
+e. Equivalencia de los perfiles ecotoxicológicos de los ingredientes activos grado técnico (según corresponda al uso previsto de la sustancia activa).
 
 Cuando fuera necesario, el perfil ecotoxicológico (numerales 14.2.2.e. y 14.2.2.f.) será considerado equivalente al perfil de referencia si los datos no difieren por más de un factor de cinco (5), comparado con el perfil de referencia, o por un factor mayor que el de los incrementos de dosis adecuados, si fuera mayor de cinco (5), determinados utilizando las mismas especies.
 
@@ -2064,27 +1108,11 @@ Se procederá de acuerdo al numeral 6.2.2.
 
 Durante la evaluación el Servicio establecerá:
 
-a. Si la sustancia activa grado técnico es equivalente,
+a. Si la sustancia activa grado técnico es equivalente, se procederá de acuerdo al numeral 12.4.5.
 
-se procederá de acuerdo al numeral 12.4.5.
+b. Si la información no permite establecer la equivalencia en forma clara, la solicitud pasará al segundo nivel de evaluación de equivalencia, según lo establecido en el numeral 12.4.4, lo cual será notificado al interesado.
 
-b. Si la información no permite establecer la
-
-equivalencia en forma clara, la solicitud pasará al
-
-segundo nivel de evaluación de equivalencia, según
-
-lo establecido en el numeral 12.4.4, lo cual será
-
-notificado al interesado.
-
-c. Si se deniega la solicitud por el no cumplimiento
-
-de los criterios de equivalencia o información
-
-incompleta, se emitirá una resolución fundada, la
-
-que se notificará al interesado.
+c. Si se deniega la solicitud por el no cumplimiento de los criterios de equivalencia o información incompleta, se emitirá una resolución fundada, la que se notificará al interesado.
 
 12.4.4. Evaluación de equivalencia de segundo nivel de sustancia activa grado técnico candidata a equivalente.
 
@@ -2096,19 +1124,9 @@ Para el caso de requerirse los estudios adicionales del plaguicida (sustancia ac
 
 Finalmente, el Servicio deberá establecer que:
 
-a. Si la sustancia activa grado técnico es equivalente,
+a. Si la sustancia activa grado técnico es equivalente, se procederá de acuerdo al numeral 12.4.5.
 
-se procederá de acuerdo al numeral 12.4.5.
-
-b. Si la sustancia activa grado técnico no es
-
-equivalente o no ha entregado la información
-
-requerida, se denegará la solicitud mediante
-
-resolución fundada, la que se notificará al
-
-interesado.
+b. Si la sustancia activa grado técnico no es equivalente o no ha entregado la información requerida, se denegará la solicitud mediante resolución fundada, la que se notificará al interesado.
 
 12.4.5. Resolución de autorización por equivalencia.
 
@@ -2150,19 +1168,11 @@ b.2. Propuesto, por ISO.
 
 c. Cualquier otro nombre común o sinónimo (si tiene).
 
-d. Nombre químico (aceptado o propuesto por UIQPA,
+d. Nombre químico (aceptado o propuesto por UIQPA, CAS).
 
-CAS).
+e. Fórmula empírica, fórmula estructural (incluyendo estereoquímica de isómeros activos si corresponde) y masa molecular.
 
-e. Fórmula empírica, fórmula estructural (incluyendo
-
-estereoquímica de isómeros activos si corresponde)
-
-y masa molecular.
-
-f. Nº CAS, Nº CE (para cada isómero o mezcla de
-
-isómeros si corresponde) y CICAP.
+f. Nº CAS, Nº CE (para cada isómero o mezcla de isómeros si corresponde) y CICAP.
 
 g. Número de código experimental (cuando proceda).
 
@@ -2172,63 +1182,25 @@ i. Método de fabricación de la sustancia activa.
 
 Esta información deberá venir respaldada por un Certificado con el método de fabricación incluyendo procedimiento de síntesis especificando las condiciones y disolventes empleados de la sustancia activa emitido por el fabricante de esta.
 
-j. Grado de pureza (contenido mínimo de sustancia
-
-activa en g/kg).
+j. Grado de pureza (contenido mínimo de sustancia activa en g/kg).
 
 k. Isómeros.
 
-k.1. Identificación. Nombre químico UIQPA y CAS;
+k.1. Identificación. Nombre químico UIQPA y CAS; nombre común, si existe; su fórmula empírica y estructural; número CAS, CE y CICAP (Si existe), y masa molecular.
 
-nombre común, si existe; su fórmula empírica y
+k.2. Proporción en que se encuentran, y contenido mínimo en g/kg para los isómeros activos. Para el caso de los isómeros inactivos señalar el contenido máximo.
 
-estructural; número CAS, CE y CICAP (Si existe),
+l. Impurezas y subproductos, identificándolas con su nombre químico UIQPA y CAS; nombre común, si existe; su fórmula empírica y estructural; número CAS, CE y CICAP (Si existe) y masa molecular.
 
-y masa molecular.
-
-k.2. Proporción en que se encuentran, y contenido
-
-mínimo en g/kg para los isómeros activos. Para el
-
-caso de los isómeros inactivos señalar el
-
-contenido máximo.
-
-l. Impurezas y subproductos, identificándolas con su
-
-nombre químico UIQPA y CAS; nombre común, si
-
-existe; su fórmula empírica y estructural; número
-
-CAS, CE y CICAP (Si existe) y masa molecular.
-
-l.1. De contenido mayor o igual a 1 g/kg, si no tienen
-
-efectos adversos, indicar su contenido máximo en
-
-g/kg.
+l.1. De contenido mayor o igual a 1 g/kg, si no tienen efectos adversos, indicar su contenido máximo en g/kg.
 
 El límite máximo para las impurezas relevantes también debe estar respaldado por datos analíticos de lote (mínimo cinco lotes de fabricación típicos) y el proponente debe establecer las bases estadísticas para los límites de fabricación de la sustancia activa.
 
-l.2. De cualquier contenido, para impurezas relevantes
-
-(aclarar y especificar los efectos adversos
-
-observados, por ejemplo, efectos toxicológicos,
-
-ecotoxicológicos o medioambientales, o efectos
-
-sobre la estabilidad de la sustancia activa).
+l.2. De cualquier contenido, para impurezas relevantes (aclarar y especificar los efectos adversos observados, por ejemplo, efectos toxicológicos, ecotoxicológicos o medioambientales, o efectos sobre la estabilidad de la sustancia activa).
 
 m. Aditivos (ej.: estabilizantes).
 
-m.1. Identificación, Nombre químico UIQPA y CAS; nombre
-
-común, si existe; su fórmula empírica y
-
-estructural; número CAS, CE y CICAP (Si existe), y
-
-masa molecular.
+m.1. Identificación, Nombre químico UIQPA y CAS; nombre omún, si existe; su fórmula empírica y estructural; número CAS, CE y CICAP (Si existe), y masa molecular.
 
 En caso que el aditivo sea una mezcla, señalar nombre y Nº CAS y CE de cada componente. Indicar la función de cada uno de los aditivos.
 
@@ -2260,157 +1232,45 @@ Para el caso de usar la sustancia activa pura, se debe informar el (los) método
 
 Notas específicas sobre propiedades fisicoquímicas que deben presentarse para la determinación de la equivalencia:
 
-(i) Los estudios y los datos sobre las propiedades
+(i) Los estudios y los datos sobre las propiedades fisicoquímicas de la sustancia activa pura se requieren solamente cuando se presume que su composición puede ser diferente a la de la sustancia activa patrón pura (p. ej. proporción de isómeros diferente o variable).
 
-fisicoquímicas de la sustancia activa pura se
-
-requieren solamente cuando se presume que su
-
-composición puede ser diferente a la de la
-
-sustancia activa patrón pura (p. ej. proporción
-
-de isómeros diferente o variable).
-
-(ii) Se acepta la composición de la sustancia activa
-
-pura como la misma, tanto en la sustancia activa
-
-patrón y la sustancia activa objeto de la
-
-solicitud, cuando es un solo compuesto aquiral,
-
-un solo enantiómero o un compuesto quiral como
-
-mezcla racémica de un par enantiómerico.
+(ii) Se acepta la composición de la sustancia activa pura como la misma, tanto en la sustancia activa patrón y la sustancia activa objeto de la solicitud, cuando es un solo compuesto aquiral, un solo enantiómero o un compuesto quiral como mezcla racémica de un par enantiómerico.
 
 Si la sustancia activa pura es una mezcla, excluyendo la mezcla racémica de un par enantiomérico, se presume que la composición de la sustancia activa pura es diferente en la sustancia activa patrón y la sustancia activa objeto de la solicitud sin evidencia que las composiciones sean iguales.
 
-(iii) Se aceptan que los datos de las propiedades
+(iii) Se aceptan que los datos de las propiedades fisicoquímicas disponibles para la sustancia activa patrón de los isómeros individuales puros de una mezcla de isómeros aplican a los isómeros individuales puros del material objeto de la solicitud.
 
-fisicoquímicas disponibles para la sustancia
+(iv) Además, se requiere los estudios y los datos cuando el valor medido de una propiedad no está en razonable concordancia con el valor registrado de la evaluación que respalda la especificación del patrón.
 
-activa patrón de los isómeros individuales
-
-puros de una mezcla de isómeros aplican a los
-
-isómeros individuales puros del material objeto
-
-de la solicitud.
-
-(iv) Además, se requiere los estudios y los datos
-
-cuando el valor medido de una propiedad no está
-
-en razonable concordancia con el valor registrado
-
-de la evaluación que respalda la especificación
-
-del patrón.
-
-(v) Se requiere los estudios y los datos para la
-
-solubilidad en disolventes orgánicos a
-
-temperatura ambiente para la sustancia activa
-
-grado pura o grado técnico. Sin embargo, si los
-
-datos de la solubilidad en disolvente para la
-
-sustancia activa pura ya fueron registrados en la
-
-evaluación que respalda la especificación del
-
-patrón, los datos de la solubilidad en
-
-disolventes no se requieren para la sustancia
-
-activa pura (o grado técnico) de la sustancia
-
-activa objeto de evaluación, si tienen la misma
-
-composición que la sustancia activa pura patrón.
+(v) Se requiere los estudios y los datos para la solubilidad en disolventes orgánicos a temperatura ambiente para la sustancia activa grado pura o grado técnico. Sin embargo, si los datos de la solubilidad en disolvente para la sustancia activa pura ya fueron registrados en la evaluación que respalda la especificación del patrón, los datos de la solubilidad en disolventes no se requieren para la sustancia activa pura (o grado técnico) de la sustancia activa objeto de evaluación, si tienen la misma composición que la sustancia activa pura patrón.
 
 a. Aspecto.
 
-a.1. Estado físico (activo puro (p), activo grado
-
-técnico (t)).
+a.1. Estado físico (activo puro (p), activo grado técnico (t)).
 
 a.2. Color (p y t).
 
 a.3. Olor (p y t).
 
-b. Punto de fusión o congelamiento (p). En caso que
+b. Punto de fusión o congelamiento (p). En caso que la sustancia activa sublime, señalar la temperatura a la que sublima (Punto de sublimación), o el proceso contrario. En caso que la sustancia activa se descomponga, señalar la temperatura a la que se descompone (Punto de descomposición).
 
-la sustancia activa sublime, señalar la
+Punto de fusión (t), para sustancias activas que sean sólidas sobre 0ºC. En caso que la sustancia activa sublime, señalar la temperatura a la que sublima (Punto de sublimación). En caso que la sustancia activa se descomponga, señalar la temperatura a la que se descompone (Punto de descomposición).
 
-temperatura a la que sublima (Punto de
+c. Punto de ebullición (p), para líquidos a temperatura ambiente. En caso que la sustancia activa se descomponga, señalar la temperatura a la que se descompone (Punto de descomposición).
 
-sublimación), o el proceso contrario. En caso que
+d. Presión de vapor (Pa) (p) y volatilidad (constante de Henry, Pa . m3. mol-1) (p).
 
-la sustancia activa se descomponga, señalar la
+e. Solubilidad en agua incluido efecto del pH (de 4 a 10) (p) La determinación se realizará en medio neutro, y en caso que la sustancia activa forme iones también se determinará la solubilidad en agua en medios ácidos y alcalinos.
 
-temperatura a la que se descompone (Punto de
+f. Solubilidad en disolventes orgánicos (p o t). Se determinará en los siguientes disolventes orgánicos (indicar la temperatura aplicada):
 
-descomposición).
-
-Punto de fusión (t), para sustancias activas que
-
-sean sólidas sobre 0ºC. En caso que la sustancia
-
-activa sublime, señalar la temperatura a la que
-
-sublima (Punto de sublimación). En caso que la
-
-sustancia activa se descomponga, señalar la
-
-temperatura a la que se descompone (Punto de
-
-descomposición).
-
-c. Punto de ebullición (p), para líquidos a
-
-temperatura ambiente. En caso que la sustancia
-
-activa se descomponga, señalar la temperatura a
-
-la que se descompone (Punto de descomposición).
-
-d. Presión de vapor (Pa) (p) y volatilidad
-
-(constante de Henry, Pa . m3. mol-1) (p).
-
-e. Solubilidad en agua incluido efecto del pH (de 4
-
-a 10) (p) La determinación se realizará en medio
-
-neutro, y en caso que la sustancia activa forme
-
-iones también se determinará la solubilidad en
-
-agua en medios ácidos y alcalinos.
-
-f. Solubilidad en disolventes orgánicos (p o t). Se
-
-determinará en los siguientes disolventes
-
-orgánicos (indicar la temperatura aplicada):
-
-f.1. Hidrocarburos alifáticos: preferentemente en
-
-n-heptano,
+f.1. Hidrocarburos alifáticos: preferentemente en n-heptano,
 
 f.2. Hidrocarburos aromáticos: preferentemente xileno,
 
-f.3. Hidrocarburos halogenados: preferentemente 1,
+f.3. Hidrocarburos halogenados: preferentemente 1, 2-dicloroeteno,
 
-2-dicloroeteno,
-
-f.4. Alcohol: preferentemente metanol o alcohol
-
-isopropílico,
+f.4. Alcohol: preferentemente metanol o alcohol isopropílico,
 
 f.5. Cetona: preferentemente acetona,
 
@@ -2426,31 +1286,15 @@ h.1. Velocidad de hidrólisis (p).
 
 h.2. Degradación fotoquímica (p).
 
-h.3. Constante de disociación (p), incluido el efecto
-
-del pH (de 4 a 10).
+h.3. Constante de disociación (p), incluido el efecto del pH (de 4 a 10).
 
 14.1.3. Métodos analíticos para la sustancia activa.
 
 Deberán presentarse las descripciones completas de la metodología.
 
-a. Método analítico para la determinación de la
+a. Método analítico para la determinación de la sustancia activa pura en el grado técnico.
 
-sustancia activa pura en el grado técnico.
-
-b. Método analítico para la determinación tanto de
-
-impurezas relevantes como de impurezas cuyo
-
-contenido es mayor o igual a 1 g/kg en la
-
-sustancia activa grado técnico, y cuando
-
-corresponda de los productos de degradación,
-
-isómeros y aditivos (por ejemplo:
-
-estabilizantes).
+b. Método analítico para la determinación tanto de impurezas relevantes como de impurezas cuyo contenido es mayor o igual a 1 g/kg en la sustancia activa grado técnico, y cuando corresponda de los productos de degradación, isómeros y aditivos (por ejemplo: estabilizantes).
 
 c. Parámetros analíticos:
 
@@ -2472,51 +1316,19 @@ a.1. Ensayo de mutación inversa en bacterias.
 
 14.1.5. Información adicional.
 
-Se deberá presentar la siguiente información a
-
-solicitud del Servicio, si en base a la evaluación
-
-de la información presentada por el solicitante
-
-se identifica la existencia de nueva(s) impureza(s)
-
-distinta(s) a las del perfil del patrón de
-
-referencia, con el objeto de determinar si es(son)
-
-relevante(s):
+Se deberá presentar la siguiente información a solicitud del Servicio, si en base a la evaluación de la información presentada por el solicitante se identifica la existencia de nueva(s) impureza(s) distinta(s) a las del perfil del patrón de referencia, con el objeto de determinar si es(son) relevante(s):
 
 a. Identificación de la impureza.
 
-a.1. Nombre químico de la impureza (aceptado o
+a.1. Nombre químico de la impureza (aceptado o propuesto por UIQPA, CAS).
 
-propuesto por UIQPA, CAS).
+a.2. Fórmula estructural (incluyendo estereoquímica de isómeros activos si corresponde).
 
-a.2. Fórmula estructural
+a.3. Nº CAS y Nº CE (para cada isómero o mezcla de isómeros si corresponde) de la impureza.
 
-(incluyendo estereoquímica de isómeros
+a.4. Espectros de la impureza (p): UV/VIS, IR, RMN1H, RMN13C, EM.
 
-activos si corresponde).
-
-a.3. Nº CAS y Nº CE (para cada isómero o mezcla
-
-de isómeros si corresponde) de la impureza.
-
-a.4. Espectros de la impureza (p): UV/VIS, IR,
-
-RMN1H, RMN13C, EM.
-
-b. Información respecto a los efectos adversos de la
-
-impureza. Esta información deberá proveerse dependiendo
-
-de los efectos adversos de la impureza, incluyendo
-
-información cuantitativa tal como los puntos finales
-
-de los estudios o los valores de los parámetros medidos
-
-cuando corresponda.
+b. Información respecto a los efectos adversos de la impureza. Esta información deberá proveerse dependiendo de los efectos adversos de la impureza, incluyendo información cuantitativa tal como los puntos finales de los estudios o los valores de los parámetros medidos cuando corresponda.
 
 b.1. Información toxicológica de la impureza.
 
@@ -2524,37 +1336,13 @@ b.2. Información medio ambiental de la impureza.
 
 b.3. Información ecotoxicológica de la impureza.
 
-b.4. Información fisicoquímica de la impureza
+b.4. Información fisicoquímica de la impureza (respecto a los efectos en la estabilidad de la sustancia activa grado técnico).
 
-(respecto a los efectos en la estabilidad
+c. Ocurrencia de la Impureza. En el caso que la evaluación del Servicio determine que existen peligros asociados a la impureza distinta, en base a la información aportada por el solicitante, de tipo toxicológico, ecotoxicológico, medio ambiental o por su estructura química, se deberá presentar:
 
-de la sustancia activa grado técnico).
+c.1. Determinación del perfil de impurezas de lotes de producción antes y después de almacenamiento de la sustancia activa grado técnico.
 
-c. Ocurrencia de la Impureza. En el caso que la
-
-evaluación del Servicio determine que existen
-
-peligros asociados a la impureza distinta, en
-
-base a la información aportada por el solicitante,
-
-de tipo toxicológico, ecotoxicológico, medio
-
-ambiental o por su estructura química, se deberá
-
-presentar:
-
-c.1. Determinación del perfil de impurezas de lotes
-
-de producción antes y después de almacenamiento
-
-de la sustancia activa grado técnico.
-
-c.2. Determinación del perfil de impurezas de lotes
-
-de producción antes y después de almacenamiento
-
-del producto formulado.
+c.2. Determinación del perfil de impurezas de lotes de producción antes y después de almacenamiento del producto formulado.
 
 14.2. Segundo nivel de evaluación de Equivalencia.
 
@@ -2584,9 +1372,7 @@ g. información médica complementaria
 
 Se deberá presentar artículos publicados en revistas técnicas, científicas o informes oficiales sobre:
 
-g.1. Vigilancia médica del personal de instalaciones
-
-de fabricación.
+g.1. Vigilancia médica del personal de instalaciones de fabricación.
 
 g.1.1. Hipersensibilidad o alergia.
 
@@ -2602,31 +1388,19 @@ La forma de administración de la sustancia de ensayo depende de las principales
 
 a. Toxicidad a corto plazo/mediano plazo.
 
-a.1. Oral acumulativa (estudio de 28 días, ratas,
+a.1. Oral acumulativa (estudio de 28 días, ratas, activo grado técnico).
 
-activo grado técnico).
-
-a.2. Administración oral (90 días, activo grado
-
-técnico):
+a.2. Administración oral (90 días, activo grado técnico):
 
 a.2.1. en roedores (ratas) y,
 
-a.2.2. en no roedores (especie determinada en
-
-los protocolos OCDE u OCSPP de la EPA).
+a.2.2. en no roedores (especie determinada en los protocolos OCDE u OCSPP de la EPA).
 
 a.3. Otras vías:
 
-a.3.1. Inhalación (28 días, ratas, activo grado técnico
+a.3.1. Inhalación (28 días, ratas, activo grado técnico con presión de vapor p &gt; 10-2 Pa (sustancias volátiles)).
 
-con presión de vapor p &gt; 10-2 Pa (sustancias
-
-volátiles)).
-
-a.3.2. Dérmica (21/28 días, ratas o conejos, activo
-
-grado técnico).
+a.3.2. Dérmica (21/28 días, ratas o conejos, activo grado técnico).
 
 b. Toxicidad crónica.
 
@@ -2642,17 +1416,11 @@ d. Efectos sobre la reproducción.
 
 d.1. Teratogenicidad.
 
-d.2. Estudio sobre, por lo menos, dos generaciones en
-
-mamíferos.
+d.2. Estudio sobre, por lo menos, dos generaciones en mamíferos.
 
 e. Metabolismo en Mamíferos.
 
-e.1. Estudios toxicocinéticos con dosis única (ratas,
-
-administración oral) y con dosis repetidas
-
-(ratas, administración oral).
+e.1. Estudios toxicocinéticos con dosis única (ratas, administración oral) y con dosis repetidas (ratas, administración oral).
 
 e.1.1. Absorción.
 
@@ -2660,17 +1428,13 @@ e.1.2. Distribución.
 
 e.1.3. Excreción.
 
-e.2. Estudio toxicocinético (ratas, administración
-
-dérmica).
+e.2. Estudio toxicocinético (ratas, administración dérmica).
 
 e.2.1. Absorción dérmica.
 
 e.3. Explicación de las rutas metabólicas.
 
-f. Estudios de neurotoxicidad o neurotoxicidad
-
-retardada.
+f. Estudios de neurotoxicidad o neurotoxicidad retardada.
 
 Para el caso de la neurotoxicidad retardada, deberán someterse las sustancias similares o estructuras afines a las capaces de producir fenómenos de neurotoxicidad retardada.
 
@@ -2678,43 +1442,15 @@ g. Ecotoxicología.
 
 g.1. Efectos sobre las aves.
 
-g.1.1. Toxicidad oral aguda. Estudio para una especie
-
-(codorniz japonesa o americana, o ánade real).
+g.1.1. Toxicidad oral aguda. Estudio para una especie (codorniz japonesa o americana, o ánade real).
 
 g.2. Efectos sobre organismos acuáticos.
 
-g.2.1. Toxicidad aguda para peces. Estudio para una
+g.2.1. Toxicidad aguda para peces. Estudio para una especie (Trucha arcoíris) De contar con estudios de una segunda especie, estos deberán ser presentados al Servicio.
 
-especie (Trucha arcoíris) De contar con estudios
+g.2.2. Toxicidad aguda para los invertebrados acuáticos. Estudio para una especie (Daphnia sp.) De contar con estudios de una segunda especie (insectos acuáticos, crustáceos distinto de dáfnidos) y moluscos gasterópodos acuáticos) estos deberán ser presentados al Servicio.
 
-de una segunda especie, estos deberán ser
-
-presentados al Servicio.
-
-g.2.2. Toxicidad aguda para los invertebrados
-
-acuáticos. Estudio para una especie (Daphnia
-
-sp.) De contar con estudios de una segunda
-
-especie (insectos acuáticos, crustáceos
-
-(distinto de dáfnidos) y moluscos gasterópodos
-
-acuáticos) estos deberán ser presentados al
-
-Servicio.
-
-g.2.3. Efectos sobre el crecimiento de las algas.
-
-Incluyendo las siguientes variables de
-
-respuesta: rendimiento y tasa de crecimiento.
-
-Para los herbicidas debe incluirse una segunda
-
-especie de un grupo taxonómico diferente.
+g.2.3. Efectos sobre el crecimiento de las algas. Incluyendo las siguientes variables de respuesta: rendimiento y tasa de crecimiento. Para los herbicidas debe incluirse una segunda especie de un grupo taxonómico diferente.
 
 g.3. Efectos sobre organismos distintos al objetivo.
 
@@ -2722,325 +1458,75 @@ g.3.1. Toxicidad para abejas.
 
 g.3.1.1. Toxicidad aguda oral y de contacto.
 
-g.3.2. Toxicidad aguda para artrópodos benéficos. Para
+g.3.2. Toxicidad aguda para artrópodos benéficos. Para uno de ellos y los otros en forma complementaria.
 
-uno de ellos y los otros en forma
+g.3.2.1. Estudio para himenóptero parasitoide (Aphidius rhopalosiphi)
 
-complementaria.
+g.3.2.2. Estudio para ácaro depredador (Typholodromus pyri)
 
-g.3.2.1. Estudio para himenóptero parasitoide (Aphidius
+g.3.2.3. Estudios para dos especies relacionadas con la aplicación del plaguicida (Preferentemente depredador terrestre y depredador de follaje)
 
-rhopalosiphi)
+g.3.3. Toxicidad para lombrices de tierra (Eisenia foetida).
 
-g.3.2.2. Estudio para ácaro depredador (Typholodromus
-
-pyri)
-
-g.3.2.3. Estudios para dos especies relacionadas con la
-
-aplicación del plaguicida (Preferentemente
-
-depredador terrestre y depredador de follaje)
-
-g.3.3. Toxicidad para lombrices de tierra (Eisenia
-
-foetida).
-
-h. Información sobre Persistencia, cuando
-
-corresponda de acuerdo a su uso.
+h. Información sobre Persistencia, cuando corresponda de acuerdo a su uso.
 
 ## Título V — AUTORIZACIONES ESPECIALES
 
-### 15. Autorizaciones basadas en sustancias activas grados
+15. Autorizaciones basadas en sustancias activas grados técnicos o productos formulados idénticos a otros ya autorizados.
 
-técnicos o productos formulados idénticos a otros ya autorizados.
+a. Sustancia activa idéntica a una sustancia activa de un plaguicida ya autorizado: El titular de una autorización de un plaguicida, podrá solicitar al Servicio una nueva autorización respecto de un producto que contiene idéntica sustancia activa al plaguicida ya autorizado. Para ello, deberá declarar ante Notario que la nueva solicitud recae en una sustancia activa idéntica al del producto del cual el titular ya cuenta con autorización.
 
-a. Sustancia activa idéntica a una sustancia activa
+No será necesario acompañar a la solicitud los antecedentes relativos a la sustancia activa que esta Resolución exige, no obstante, deberá adjuntar un certificado de composición cualicuantitativa que demuestre que corresponde a la misma sustancia activa, y el Resumen Ejecutivo con la sustancia activa en que está basado.
 
-de un plaguicida ya autorizado: El titular de una
+Para el caso en que el solicitante sea un tercero, el titular de la autorización original deberá declarar ante Notario su voluntad de facultar al tercero para utilizar los datos de la sustancia ya autorizada, como asimismo, que la nueva solicitud recae en una sustancia activa idéntica al del producto del cual el titular ya cuenta con autorización. En este caso, el titular del plaguicida que posee la autorización podrá enviar directamente al Servicio él o los certificados de composición cualicuantitativa que demuestre que corresponde a la misma sustancia activa.
 
-autorización de un plaguicida, podrá solicitar
+b. Producto formulado idéntico a un plaguicida ya autorizado: El titular de una autorización de un plaguicida, podrá solicitar al Servicio una nueva autorización respecto de un nuevo producto de idéntica formulación al plaguicida ya autorizado. Para ello, deberá acompañar a la solicitud correspondiente, declaración ante Notario que la nueva solicitud recae en una sustancia activa y un producto formulado idénticos a la sustancia activa y al producto formulado del cual el titular ya cuenta con autorización, indicación del nombre comercial, dos ejemplares de la etiqueta con que se expenderá el producto, los certificados de composición cualicuantitativa de la sustancia activa grado técnico y del producto formulado que demuestre que corresponde a la misma sustancia activa y producto formulado, y el Resumen Ejecutivo con la información de la sustancia activa y el producto en que está basado.
 
-al Servicio una nueva autorización respecto
+En el caso en que exista información que cambie con respecto a la autorización original, tal como cambios en las instrucciones de uso (dosis – cultivo- plaga), envases u otros, deberá actualizar el Resumen Ejecutivo y enviar la documentación de respaldo pertinente.
 
-de un producto que contiene idéntica sustancia
+Para el caso en que el solicitante sea un tercero, el titular de la autorización original deberá declarar ante Notario su voluntad de facultar al tercero para utilizar los datos de la sustancia activa y del producto formulado idéntico ya autorizado, como asimismo, que la nueva solicitud recae en una sustancia activa y en un producto formulado idéntico a la sustancia activa y al producto formulado del cual el titular ya cuenta con autorización. En este caso, el titular del plaguicida que posee la autorización podrá enviar directamente al Servicio él o los certificados de composición cualicuantitativa que demuestre que corresponde a la misma sustancia activa.
 
-activa al plaguicida ya autorizado. Para
-
-ello, deberá declarar ante Notario que la nueva
-
-solicitud recae en una sustancia activa idéntica
-
-al del producto del cual el titular ya cuenta
-
-con autorización.
-
-No será necesario acompañar a la
-
-solicitud los antecedentes relativos a la
-
-sustancia activa que esta Resolución exige, no
-
-obstante, deberá adjuntar un certificado de
-
-composición cualicuantitativa que demuestre que
-
-corresponde a la misma sustancia activa, y el
-
-Resumen Ejecutivo con la sustancia activa en que
-
-está basado.
-
-Para el caso en que el solicitante
-
-sea un tercero, el titular de la autorización
-
-original deberá declarar ante Notario su voluntad
-
-de facultar al tercero para utilizar los datos de
-
-la sustancia ya autorizada, como asimismo, que la
-
-nueva solicitud recae en una sustancia activa
-
-idéntica al del producto del cual el titular ya
-
-cuenta con autorización. En este caso, el titular
-
-del plaguicida que posee la autorización podrá
-
-enviar directamente al Servicio él o los
-
-certificados de composición cualicuantitativa que
-
-demuestre que corresponde a la misma sustancia
-
-activa.
-
-b. Producto formulado idéntico a un plaguicida ya
-
-autorizado: El titular de una autorización de un
-
-plaguicida, podrá solicitar al Servicio una nueva
-
-autorización respecto de un nuevo producto de
-
-idéntica formulación al plaguicida ya autorizado.
-
-Para ello, deberá acompañar a la solicitud
-
-correspondiente, declaración ante Notario que la
-
-nueva solicitud recae en una sustancia activa y un
-
-producto formulado idénticos a la sustancia activa
-
-y al producto formulado del cual el titular ya
-
-cuenta con autorización, indicación del nombre
-
-comercial, dos ejemplares de la etiqueta con que
-
-se expenderá el producto, los certificados de
-
-composición cualicuantitativa de la sustancia
-
-activa grado técnico y del producto formulado que
-
-demuestre que corresponde a la misma sustancia
-
-activa y producto formulado, y el Resumen
-
-Ejecutivo con la información de la sustancia
-
-activa y el producto en que está basado.
-
-En el caso en que exista información que cambie
-
-con respecto a la autorización original, tal como
-
-cambios en las instrucciones de uso (dosis –
-
-cultivo- plaga), envases u otros, deberá
-
-actualizar el Resumen Ejecutivo y enviar la
-
-documentación de respaldo pertinente.
-
-Para el caso en que el solicitante sea un tercero,
-
-el titular de la autorización original deberá
-
-declarar ante Notario su voluntad de facultar al
-
-tercero para utilizar los datos de la sustancia
-
-activa y del producto formulado idéntico ya
-
-autorizado, como asimismo, que la nueva solicitud
-
-recae en una sustancia activa y en un producto
-
-formulado idéntico a la sustancia activa y al
-
-producto formulado del cual el titular ya cuenta
-
-con autorización. En este caso, el titular del
-
-plaguicida que posee la autorización podrá enviar
-
-directamente al Servicio él o los certificados de
-
-composición cualicuantitativa que demuestre que
-
-corresponde a la misma sustancia activa.
-
-### 16. Autorización de plaguicidas para uso en producción
-
-orgánica.
+### 16. Autorización de plaguicidas para uso en producción orgánica
 
 En el caso de los plaguicidas que soliciten autorización para su uso en producción orgánica, el Servicio podrá autorizar, mediante resolución fundada, la fabricación, importación, exportación, distribución, tenencia, venta o aplicación de dichos plaguicidas, bajo las condiciones que indique, previa evaluación favorable del Servicio.
 
-16.1. En este tipo de autorización se debe tener en
+16.1. En este tipo de autorización se debe tener en consideración los siguientes casos:
 
-consideración los siguientes casos:
+a. Cuando el plaguicida no cuente con autorización del Servicio para su uso convencional, se deberá cumplir con la presente Resolución según lo establecido en los numerales 6.1, 6.2.1, 6.2.2 y 6.2.3, 8, 9 y el numeral 12 y 14 en los casos que corresponda.
 
-a. Cuando el plaguicida no cuente con autorización
+Si el resultado de la evaluación técnica etapa II es favorable, la solicitud será evaluada por el Servicio para verificar si cumple la normativa de producción orgánica. En caso de tener observaciones, el solicitante tendrá 30 días hábiles para responder a las mismas. Si éste no da respuesta, se aplicará lo dispuesto en el artículo 43 de la Ley Nº 19.880.
 
-del Servicio para su uso convencional, se deberá
+Si la respuesta del solicitante es satisfactoria y el plaguicida cumple con las normas técnicas de la Ley Nº 20.089, el Servicio evaluará la etiqueta de acuerdo a lo dispuesto en el numeral 6.2.4 y autorizará el plaguicida para que pueda aplicarse en producción orgánica. En caso contrario, sólo autorizará el plaguicida para aplicarse en agricultura convencional.
 
-cumplir con la presente Resolución según lo
-
-establecido en los numerales 6.1, 6.2.1, 6.2.2 y
-
-6.2.3, 8, 9 y el numeral 12 y 14 en los casos
-
-que corresponda.
-
-Si el resultado de la evaluación técnica etapa
-
-II es favorable, la solicitud será evaluada por
-
-el Servicio para verificar si cumple la
-
-normativa de producción orgánica. En caso de
-
-tener observaciones, el solicitante tendrá 30
-
-días hábiles para responder a las mismas. Si
-
-éste no da respuesta, se aplicará lo dispuesto
-
-en el artículo 43 de la Ley Nº 19.880.
-
-Si la respuesta del solicitante es satisfactoria
-
-y el plaguicida cumple con las normas técnicas
-
-de la Ley Nº 20.089, el Servicio evaluará la
-
-etiqueta de acuerdo a lo dispuesto en el numeral
-
-6.2.4 y autorizará el plaguicida para que pueda
-
-aplicarse en producción orgánica. En caso
-
-contrario, sólo autorizará el plaguicida para
-
-aplicarse en agricultura convencional.
-
-b. Cuando el plaguicida ya cuente con la autorización
-
-del Servicio para uso convencional, se deberá
-
-solicitar una ampliación de uso, para su uso en
-
-producción orgánica. En tal caso, el Servicio
-
-analizará y evaluará si cumple con la normativa
-
-específica.
+b. Cuando el plaguicida ya cuente con la autorización del Servicio para uso convencional, se deberá solicitar una ampliación de uso, para su uso en producción orgánica. En tal caso, el Servicio analizará y evaluará si cumple con la normativa específica.
 
 En caso de tener observaciones, el solicitante tendrá 30 días hábiles para responder a las mismas. Si éste no da respuesta, se aplicará lo dispuesto en el artículo 43 de la Ley Nº 19.880.
 
 Si la respuesta es satisfactoria, el Servicio resolverá si el plaguicida puede aplicarse en producción orgánica, en cuyo caso se modificará la etiqueta y se emitirá la resolución correspondiente. En caso contrario, sólo podrá aplicarse en agricultura convencional.
 
-16.2 El detalle de la información que será evaluada
+16.2 El detalle de la información que será evaluada por el Servicio para verificar que el plaguicida cumple con las normas técnicas de la Ley Nº 20.089, se presenta a continuación:
 
-por el Servicio para verificar que el plaguicida
+i) Certificado de composición cualicuantitativa de la sustancia activa grado técnico, emitido por el fabricante de esta, o del extracto natural o agente de control, emitido por el productor.
 
-cumple con las normas técnicas de la Ley Nº
+ii) Certificado de composición cualicuantitativa del producto formulado, emitido por el fabricante de este.
 
-20.089, se presenta a continuación:
+iii) Certificado de Producto Libre de OGM, que no contiene organismos genéticamente modificados o no deriva de ellos, cuando corresponda.
 
-i) Certificado de composición cualicuantitativa de
+iv) Certificados de proceso productivo, con los procesos u operaciones unitarias, equipamiento, materiales y reactivos; emitidos por el fabricante de la sustancia activa o productor, y por el fabricante del producto formulado.
 
-la sustancia activa grado técnico, emitido por el
-
-fabricante de esta, o del extracto natural o
-
-agente de control, emitido por el productor.
-
-ii) Certificado de composición cualicuantitativa del
-
-producto formulado, emitido por el fabricante de
-
-este.
-
-iii) Certificado de Producto Libre de OGM, que no
-
-contiene organismos genéticamente modificados o
-
-no deriva de ellos, cuando corresponda.
-
-iv) Certificados de proceso productivo, con los
-
-procesos u operaciones unitarias, equipamiento,
-
-materiales y reactivos; emitidos por el
-
-fabricante de la sustancia activa o productor,
-
-y por el fabricante del producto formulado.
-
-v) Certificado de Confirmación de Compatibilidad
-
-para Uso en Agricultura Orgánica, de acuerdo a
-
-los organismos competentes de Estados Unidos o
-
-la Unión Europea, si están disponible
+v) Certificado de Confirmación de Compatibilidad para Uso en Agricultura Orgánica, de acuerdo a los organismos competentes de Estados Unidos o la Unión Europea, si están disponible
 
 vi) Resumen Ejecutivo.
 
-vii) HDS según la Norma Chilena NCh2245 vigente,
-
-cuando corresponda.
+vii) HDS según la Norma Chilena NCh2245 vigente, cuando corresponda.
 
 viii) Etiqueta.
 
-ix) Informe técnico del fabricante de la sustancia
+ix) Informe técnico del fabricante de la sustancia activa o productor y del fabricante del producto formulado sobre el origen de las materias primas u organismos y proceso de obtención de éstos, y los proveedores.
 
-activa o productor y del fabricante del producto
+x) Informe Técnico de Toxicología/Ecotoxicología de sustancias activas, coformulantes y producto formulado.
 
-formulado sobre el origen de las materias primas
-
-u organismos y proceso de obtención de éstos, y
-
-los proveedores.
-
-x) Informe Técnico de Toxicología/Ecotoxicología de
-
-sustancias activas, coformulantes y producto
-
-formulado.
-
-xi) Efectos sobre enemigos naturales de las plagas
-
-agrícolas (macro o microorganismos), si están
-
-disponibles.
+xi) Efectos sobre enemigos naturales de las plagas agrícolas (macro o microorganismos), si están disponibles.
 
 xii) Otra información que el Servicio requiera de
 
@@ -3066,37 +1552,15 @@ Sin perjuicio de lo anterior, los fabricantes de sustancias activas, fabricantes
 
 El Servicio autorizará, previa evaluación favorable, los siguientes tipos de solicitudes de muestras de plaguicidas para experimentación:
 
-a. Para verificar eficacia con fines de registro:
+a. Para verificar eficacia con fines de registro: para evaluar por primera vez la eficacia de un plaguicida en el país, por Estaciones Experimentales autorizadas por el Servicio o bajo la supervisión de éstas.
 
-para evaluar por primera vez la eficacia de un
+b. Para verificar eficacia con fines de investigación.
 
-plaguicida en el país, por Estaciones
+c. Para ensayos con fines de registro y para investigación: para evaluar propiedades
 
-Experimentales autorizadas por el Servicio o
+fisicoquímicas, metodología analítica, residuos, toxicología, ecotoxicología y efectos ambientales.
 
-bajo la supervisión de éstas.
-
-b. Para verificar eficacia con fines de
-
-investigación.
-
-c. Para ensayos con fines de registro y para
-
-investigación: para evaluar propiedades
-
-fisicoquímicas, metodología analítica, residuos,
-
-toxicología, ecotoxicología y efectos ambientales.
-
-d. Autorizaciones especiales: para plaguicidas que el
-
-Servicio determina de acuerdo a sus facultades,
-
-bajo otros requisitos de evaluación o para usos
-
-especiales los cuales están descritos en el punto
-
-22 de la presente Resolución.
+d. Autorizaciones especiales: para plaguicidas que el Servicio determina de acuerdo a sus facultades, bajo otros requisitos de evaluación o para usos especiales los cuales están descritos en el punto 22 de la presente Resolución.
 
 ### 21. Autorización de patrones analíticos
 
@@ -3108,93 +1572,71 @@ Sin perjuicio de lo anterior, es deber del usuario cumplir con la normativa vige
 
 Este tipo de autorización se podrá aplicar en las siguientes situaciones, mediante resoluciones que dicte el Servicio al respecto.
 
-a. Cuando para las medidas contempladas en los
+a. Cuando para las medidas contempladas en los programas de prevención, control y combate de plagas, control de criaderos y depósitos de plantas, internación de mercaderías peligrosas para los vegetales, para las exportaciones o para emergencia fitosanitaria, se requiera aplicar un plaguicida que no esté autorizado por el Servicio o se requiera autorizar para un uso distinto, éste podrá aprobar mediante resolución fundada, su fabricación, importación, distribución, venta, tenencia o aplicación, bajo las condiciones que se indique.
 
-programas de prevención, control y combate de
+b. Cuando para las medidas contempladas en la Ley de Caza y su Reglamento relativas al control de especies dañinas, se determine el uso de plaguicidas; en tal caso, se debe cumplir con lo establecido en la Resolución de este Servicio que aprueba el Reglamento para el Control por medio de sustancias anticoagulantes de lagomorfos y roedores, y otras que el Servicio dicte al respecto. Se exceptúa el ámbito urbano o el control de ratas y ratones exóticos u otros animales que sean calificados de control por el Sistema Nacional de Servicios de Salud, en edificaciones o fuera de ellas en un radio no superior a 10 m de las mismas.
 
-plagas, control de criaderos y depósitos de
+c. Cuando para el control de especies dañinas y plagas en ecosistemas naturales se determine el uso de plaguicidas, la autorización deberá cumplir con lo establecido en la Resolución de este Servicio que establece los requerimientos para la autorización de plaguicidas para el control de especies dañinas y plagas en ecosistemas naturales.
 
-plantas, internación de mercaderías peligrosas
+d. Para las medidas contempladas en Sanidad y Protección Animal, y normativa asociada, establecidas para desinfectar los locales, ferias y el transporte u otros, el Servicio podrá aprobar la fabricación, importación, distribución, venta, tenencia o aplicación de plaguicidas mediante resolución fundada, bajo las condiciones que indique, de acuerdo al análisis técnico y aprobación de las unidades técnicas respectivas del Servicio.
 
-para los vegetales, para las exportaciones o para
+22 bis. Autorización de plaguicidas según esquema de reconocimiento del proceso de registro o autorización de sustancias activas de Estados Unidos de América o la Unión Europea.
 
-emergencia fitosanitaria, se requiera aplicar un
+22.bis.1. Condiciones para solicitar el reconocimiento del registro o autorización de sustancias activas.
 
-plaguicida que no esté autorizado por el Servicio
+Se podrá aplicar este esquema de evauación sólo para un producto formulado que contiene una sustancia activa idéntica a un plaguicida ya autorizado por la autoridad competente en Estados Unidos de América o en la Unión Europea, y en la medida que se cumplan las siguientes condiciones:
 
-o se requiera autorizar para un uso distinto, éste
+a) La sustancia activa tenga vigente su registro o autorización ante la autoridad correspondiente y no esté sometida a un proceso de revisión.
 
-podrá aprobar mediante resolución fundada, su
+b) El plaguicida producido o fabricado en base a la sustancia activa registrada o autorizada se fabrica o produce y se utiliza en al menos un estado o país del bloque económico en el cual se encuentra registrado o autorizado.
 
-fabricación, importación, distribución, venta,
+c) La solicitud no corresponde a una sustancia activa grado técnico idéntico o producto formulado idéntico de un plaguicida que ya ha sido autorizado por este esquema de reconocimiento.
 
-tenencia o aplicación, bajo las condiciones que se
+22.bis.2. Documentación requerida para evaluación del reconocimiento del proceso de registro o autorización de sustancias activas.
 
-indique.
+No será necesario acompañar a la solicitud aquellos antecedentes relativos a la sustancia activa que esta resolución exige; no obstante, el interesado deberá presentar la siguiente información:
 
-b. Cuando para las medidas contempladas en la Ley de
+a) Para el caso de una sustancia activa autorizada por la autoridad competente en Estados Unidos de América:
 
-Caza y su Reglamento relativas al control de
+i. Documento(s) oficial(es) emitido(s) por la Usepa que acredite(n) el registro vigente de la sustancia activa y del formulado, en ese país: Cartas de sello dorado (Gold Seal Letter) u otro documento equivalente.
 
-especies dañinas, se determine el uso de
+ii. Documentación con información emitida por Usepa sobre: Información de la sustancia activa grado técnico: pureza, contenido equivalente ácido, impurezas, impurezas relevantes, aditivos (todo expresado en % o g/kg): Declaración Confidencial de Fórmula (Confidential Statement of Formula, CSF), Registro de Evaluación de Datos (Data Evaluation Record, DER), u otros complementarios.
 
-plaguicidas; en tal caso, se debe cumplir con lo
+iii. Certificado de composición cuali-cuantitativo que demuestre que corresponde a la misma sustancia activa, del formulado que se quiere registrar en Chile (emitido por el fabricante registrado en Estados Unidos).
 
-establecido en la Resolución de este Servicio que
+iv. Certificado de fabricación del mismo origen autorizado en Estados Unidos, emitido por la fábrica.
 
-aprueba el Reglamento para el Control por medio de
+v. Certificado o documento de autorización de la Planta de producción de la sustancia activa, emitido por la Usepa, si es que la dirección del certificado de registro de la sustancia activa grado técnico es distinta a la dirección de la planta que la fabrica.
 
-sustancias anticoagulantes de lagomorfos y
+vi. Otra información que el Servicio solicite en forma complementaria para el proceso de evaluación, en caso de estimarlo necesario.
 
-roedores, y otras que el Servicio dicte al
+b) Para el caso de una sustancia activa autorizada en la Unión Europea:
 
-respecto. Se exceptúa el ámbito urbano o el
+i. Documento/s oficial/es emitido/s por la autoridad competente de la Unión Europea que acredite/n el registro vigente de la sustancia activa y del formulado en los países miembros.
 
-control de ratas y ratones exóticos u otros
+ii. Documentación con información emitida por UE con la Información de la sustancia activa grado técnico: pureza, contenido equivalente ácido, impurezas, impurezas relevantes, aditivos (todo expresado en % o g/kg): Proyecto de Informe de Evaluación (Draft Assessment Report, DAR) u otros documentos relacionados, cuando se trata de primer registro o Informe de la evaluación de equivalencia, en el caso de ser registro por equivalencia.
 
-animales que sean calificados de control por el
+iii. Certificado de composición cuali-cuantitativo que demuestre que corresponde a la misma sustancia activa, del formulado que se quiere registrar en Chile (emitido por el fabricante registrado en Unión Europea).
 
-Sistema Nacional de Servicios de Salud, en
+iv. Certificado de fabricación del mismo origen autorizado en la Unión Europea, emitido por la fábrica.
 
-edificaciones o fuera de ellas en un radio no
+v. Certificado o documento de autorización de la Planta de producción de la sustancia activa, emitido por la autoridad competente, si la dirección del documento oficial de registro de la sustancia activa grado técnico es distinta a la dirección de la planta que la fabrica.
 
-superior a 10 m de las mismas.
+vi. Otra información que el Servicio solicite en forma complementaria para el proceso de evaluación, en caso de estimarlo necesario.
 
-c. Cuando para el control de especies dañinas y
+Para la evaluación del producto formulado, el solicitante debe adjuntar toda la información de acuerdo a los requisitos indicados en la presente resolución.
 
-plagas en ecosistemas naturales se determine el
+Sin perjuicio de lo anterior, el Servicio podrá solicitar información complementaria adicional para el proceso de evaluación.
 
-uso de plaguicidas, la autorización deberá cumplir
+Las solicitudes serán sometidas a las etapas y plazos descritos en la presente resolución, o aquella que la reemplace, y el solicitante deberá pagar las tarifas correspondientes, considerando el cumplimiento de los requisitos administrativos y técnicos establecidos en la presente resolución.
 
-con lo establecido en la Resolución de este
+De este modo, durante la Etapa I de verificación documental se realizará la revisión de la información presentada para optar al reconocimiento de la sustancia activa presente en la formulación, junto con la verificación de los documentos de respaldo para el producto formulado, de modo tal que si la documentación de respaldo corresponde a lo exigido en la presente resolución, el Servicio informará al solicitante la conformidad de la etapa de verificación documental de la solicitud de su producto.
 
-Servicio que establece los requerimientos para la
+22.bis.3. Vigencia y renovación de la autorización.
 
-autorización de plaguicidas para el control de
+La autorización de un plaguicida de acuerdo a este esquema tendrá una vigencia de diez (10) años, renovable por períodos iguales y sucesivos, debiendo solicitarse su renovación, a lo menos seis (6) meses antes a la fecha de su vencimiento; en caso contrario, se entenderá que se desiste de la autorización y ésta expirará al vencimiento de los diez (10) años.
 
-especies dañinas y plagas en ecosistemas
-
-naturales.
-
-d. Para las medidas contempladas en Sanidad y
-
-Protección Animal, y normativa asociada,
-
-establecidas para desinfectar los locales, ferias
-
-y el transporte u otros, el Servicio podrá aprobar
-
-la fabricación, importación, distribución, venta,
-
-tenencia o aplicación de plaguicidas mediante
-
-resolución fundada, bajo las condiciones que
-
-indique, de acuerdo al análisis técnico y
-
-aprobación de las unidades técnicas respectivas
-
-del Servicio.
+Sin perjuicio de lo anterior, esta autorización también estará supeditada a que se mantenga vigente el registro o la autorización de la sustancia activa en los Estados Unidos de América o la Unión Europea, y en el caso de que se cancele o se prohíba en alguno de estos bloques económicos, el Servicio deberá analizar la información y determinar la procedencia de cancelar la autorización del producto formulado que se otorgó bajo este esquema de reconocimiento. Dependiendo de las razones que originaron la cancelación o prohibición de la autorización o registro de la sustancia activa, el Servicio podrá establecer un plazo máximo de dos (2) años para que el titular de una autorización vigente de un producto formulado ingrese la información correspondiente que permita completar la data de la sustancia activa, independiente de los años que queden para que dicha autorización en Chile expire.
 
 ## Título VI — RECHAZO, CANCELACIÓN, SUSPENSIÓN O PROHIBICIÓN DE LA AUTORIZACIÓN
 
@@ -3202,15 +1644,7 @@ del Servicio.
 
 El Servicio podrá someter a revisión, de oficio o por solicitud, una o más autorizaciones ya otorgadas; si considera que los avances tecnológicos y/o la información técnica y científica lo hacen necesario por afectar la calidad, eficacia, seguridad y/o la salud de las personas, los animales y el medio ambiente. La revisión por solicitud tendrá que ser fundada en antecedentes técnicos de estudios, literatura científica, informes u otros, los que deberán ser presentados ante el Servicio para su evaluación. El Servicio, durante esta revisión, podrá suspender la o las autorizaciones para evaluar la información que se haya recibido referida a la sustancia activa o al producto formulado autorizado, o si por razones de carácter técnico lo hacen necesario. Finalmente, y una vez evaluado, podrá restituir la autorización, modificar la vigencia de ésta, cancelarla, o restringir o prohibir la sustancia activa o la formulación correspondiente.
 
-### 24. El Servicio podrá rechazar, suspender o cancelar la
-
-autorización de un plaguicida, si se determina que la
-
-documentación presentada para la autorización es falsa,
-
-o no corresponde con el respaldo técnico que esta
-
-Resolución exige.
+24. El Servicio podrá rechazar, suspender o cancelar la autorización de un plaguicida, si se determina que la documentación presentada para la autorización es falsa, o no corresponde con el respaldo técnico que esta Resolución exige.
 
 ## Título VII — POST REGISTRO
 
@@ -3228,21 +1662,9 @@ Para la renovación de la autorización de un plaguicida, deberán acompañarse 
 
 Para optar a la renovación de la autorización del plaguicida, el titular deberá presentar la siguiente documentación, según corresponda:
 
-a. Para Sustancia Activa: se deberá presentar lo
+a. Para Sustancia Activa: se deberá presentar lo establecido en los numerales, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9; cuando corresponda 8.10; y lo señalado en el numeral 5.1.a.
 
-establecido en los numerales, 8.4, 8.5, 8.6,
-
-8.7, 8.8, 8.9; cuando corresponda 8.10; y lo
-
-señalado en el numeral 5.1.a.
-
-b. Para el Producto Formulado: se deberá presentar
-
-lo establecido en los numerales 9.2.2, 9.6, 9.7,
-
-9.8, 9.9, 9.10; cuando corresponda 9.11; y lo
-
-señalado en el numeral 5.2.a.
+b. Para el Producto Formulado: se deberá presentar lo establecido en los numerales 9.2.2, 9.6, 9.7, 9.8, 9.9, 9.10; cuando corresponda 9.11; y lo señalado en el numeral 5.2.a.
 
 ### 26. Modificaciones a la autorización de un plaguicida
 
@@ -3266,13 +1688,9 @@ Una vez autorizado un plaguicida, el titular de la autorización podrá solicita
 
 Para modificar la autorización de un plaguicida, deberá proceder de acuerdo al numeral 4.6, adjuntar el Resumen Ejecutivo debidamente actualizado en los numerales correspondientes y siguientes antecedentes:
 
-a. En relación al solicitante y titular, según
+a. En relación al solicitante y titular, según corresponda, de acuerdo al numeral 4.1.
 
-corresponda, de acuerdo al numeral 4.1.
-
-b. En relación a las modificaciones de autorización
-
-de plaguicidas, de acuerdo al numeral 27.
+b. En relación a las modificaciones de autorización de plaguicidas, de acuerdo al numeral 27.
 
 El Servicio verificará si la documentación de respaldo presentada corresponde a lo exigido en la presente Resolución. Si la solicitud cuenta con toda la información establecida en esta normativa y cumple con lo declarado por el solicitante en el formulario de solicitud, el Servicio informará al solicitante la conformidad de la etapa de verificación documental. Si la solicitud no reúne los requisitos señalados en la presente Resolución, se estará a lo dispuesto en el artículo 31 de la ley Nº 19.880.
 
@@ -3286,15 +1704,9 @@ De no cumplirse con lo dispuesto en la presente Resolución, el Servicio emitir�
 
 ### 27. Requisitos técnicos de modificaciones de autorizaciones
 
-27.1. Sustitución de un producto formulado por
+27.1. Sustitución de un producto formulado por cambios de la composición de la sustancia activa grado técnico.
 
-cambios de la composición de la sustancia
-
-activa grado técnico.
-
-27.1.1. Por aumento de la pureza de la sustancia activa
-
-grado técnico.
+27.1.1. Por aumento de la pureza de la sustancia activa grado técnico.
 
 Esta solicitud sólo será aplicable para plaguicidas autorizados por identidad. Sólo será aplicable para la misma sustancia activa con una pureza mínima mayor contenida en el grado técnico del mismo fabricante de la sustancia activa y del producto formulado de la autorización original. La concentración de la sustancia activa pura en el producto formulado deberá ser la misma que en el producto ya autorizado. Asimismo, deberán mantenerse los coformulantes del producto, pudiendo variar sólo el contenido del coformulante que ejerce el balance en la formulación para compensar los cambios en la sustancia activa grado técnico.
 
@@ -3302,127 +1714,39 @@ El solicitante deberá presentar al Servicio los siguientes documentos:
 
 a) Para la sustancia activa grado técnico.
 
-i) Declaración jurada del titular de la
+i) Declaración jurada del titular de la autorización, indicando el producto y su número de autorización.
 
-autorización, indicando el producto y su
+ii) Certificado de composición cualicuantitativo de la nueva composición, emitido por el fabricante de la sustancia activa.
 
-número de autorización.
+iii) Documento comparativo de la composición vigente y de la nueva composición, emitido por el fabricante de la sustancia activa, incluyendo una declaración de éste indicando las razones del o los cambios.
 
-ii) Certificado de composición cualicuantitativo de
+iv) Documento comparativo emitido por el fabricante de la sustancia activa o por quién éste encomendó, de propiedades fisicoquímicas.
 
-la nueva composición, emitido por el fabricante
+v) Declaración del fabricante de la sustancia activa que acredite que las propiedades biológicas, toxicológicas, medioambientales, ecotoxicológicas y de residuos no se ven adversamente afectadas y que los documentos que respaldaron su autorización, continúan siendo válidos para el certificado de composición que se está presentando.
 
-de la sustancia activa.
-
-iii) Documento comparativo de la composición vigente y
-
-de la nueva composición, emitido por el
-
-fabricante de la sustancia activa, incluyendo una
-
-declaración de éste indicando las razones del o
-
-los cambios.
-
-iv) Documento comparativo emitido por el fabricante
-
-de la sustancia activa o por quién éste
-
-encomendó, de propiedades fisicoquímicas.
-
-v) Declaración del fabricante de la sustancia activa
-
-que acredite que las propiedades biológicas,
-
-toxicológicas, medioambientales, ecotoxicológicas
-
-y de residuos no se ven adversamente afectadas y
-
-que los documentos que respaldaron su
-
-autorización, continúan siendo válidos para el
-
-certificado de composición que se está
-
-presentando.
-
-vi) HDS según la Norma Chilena NCh2245 vigente,
-
-cuando se importe o fabrique en Chile, o por
-
-la norma que corresponda al país de origen del
-
-plaguicida, cuando no se cumpla lo anterior
-
-actualizada de la Sustancia activa
-
-grado técnico.
+vi) HDS según la Norma Chilena NCh2245 vigente, cuando se importe o fabrique en Chile, o por la norma que corresponda al país de origen del plaguicida, cuando no se cumpla lo anterior actualizada de la Sustancia activa grado técnico.
 
 vii) Resumen ejecutivo debidamente actualizado.
 
-viii) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
+viii) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
 b) Para el producto formulado.
 
-i) Certificado de composición cualicuantitativo de
+i) Certificado de composición cualicuantitativo de la nueva composición, emitido por el fabricante del producto formulado.
 
-la nueva composición, emitido por el fabricante
+ii) Documento comparativo del producto formulado con la composición autorizada y la presentada en la solicitud, emitido por el fabricante del producto formulado. (Declaración que indique el balance realizado en la composición del producto formulado con el coformulante que compensa las variaciones en la sustancia activa grado técnico).
 
-del producto formulado.
+iii) Documento comparativo emitido por el fabricante del producto formulado o por quién éste encomendó, de propiedades fisicoquímicas.
 
-ii) Documento comparativo del producto formulado con
-
-la composición autorizada y la presentada en la
-
-solicitud, emitido por el fabricante del producto
-
-formulado.
-
-(Declaración que indique el balance realizado en
-
-la composición del producto formulado con el
-
-coformulante que compensa las variaciones en la
-
-sustancia activa grado técnico).
-
-iii) Documento comparativo emitido por el fabricante
-
-del producto formulado o por quién éste
-
-encomendó, de propiedades fisicoquímicas.
-
-iv) HDS según la Norma Chilena NCh2245 vigente del
-
-producto formulado.
+iv) HDS según la Norma Chilena NCh2245 vigente del producto formulado.
 
 v) Resumen ejecutivo debidamente actualizado.
 
-vi) Declaración del fabricante del producto
+vi) Declaración del fabricante del producto formulado para los estudios toxicológicos y ecotoxicológicos en el que se analice la toxicología (aguda) del coformulante que ha cambiado, en su proporción cuantitativa, para compensar la mayor pureza de la sustancia activa grado técnico.
 
-formulado para los estudios toxicológicos y
+vii) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
-ecotoxicológicos en el que se analice la
-
-toxicología (aguda) del coformulante
-
-que ha cambiado, en su proporción cuantitativa,
-
-para compensar la mayor pureza de la sustancia
-
-activa grado técnico.
-
-vii) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
-
-27.1.2. Con mejora en isómeros, perfil de impurezas o
-
-en aditivos manteniendo la misma pureza mínima
-
-de la sustancia activa grado técnico.
+27.1.2. Con mejora en isómeros, perfil de impurezas o en aditivos manteniendo la misma pureza mínima de la sustancia activa grado técnico.
 
 Corresponde al cambio de composición de isómeros, impurezas o aditivos manteniéndose la misma o mejor clasificación de peligro.
 
@@ -3432,425 +1756,157 @@ El solicitante deberá presentar al Servicio los siguientes documentos:
 
 a) Para la sustancia activa grado técnico.
 
-i) Declaración jurada del titular de la autorización
+i) Declaración jurada del titular de la autorización indicando el producto y su número de autorización.
 
-indicando el producto y su número de
+ii) Certificado de composición cualicuantitativo de la nueva composición, emitido por el fabricante de la sustancia activa.
 
-autorización.
+iii) Documento comparativo de la composición vigente y de la nueva composición, emitido por el fabricante de la sustancia activa, incluyendo una declaración de éste indicando las razones del o los cambios.
 
-ii) Certificado de composición cualicuantitativo de
+iv) Documento comparativo emitido por el fabricante de la sustancia activa o por quién éste encomendó, de propiedades fisicoquímicas.
 
-la nueva composición, emitido por el fabricante
+v) Declaración del fabricante de la sustancia activa que acredite que las propiedades
 
-de la sustancia activa.
-
-iii) Documento comparativo de la composición vigente y
-
-de la nueva composición, emitido por el
-
-fabricante de la sustancia activa, incluyendo una
-
-declaración de éste indicando las razones del o
-
-los cambios.
-
-iv) Documento comparativo emitido por el fabricante
-
-de la sustancia activa o por quién éste
-
-encomendó, de propiedades fisicoquímicas.
-
-v) Declaración del fabricante de la sustancia
-
-activa que acredite que las propiedades
-
-biológicas, toxicológicas, medioambientales,
-
-ecotoxicológicas y de residuos
-
-no se ven adversamente afectadas y que los
-
-documentos que respaldaron su autorización,
-
-continúan siendo válidos para el certificado de
+biológicas, toxicológicas, medioambientales, ecotoxicológicas y de residuos no se ven adversamente afectadas y que los documentos que respaldaron su autorización, continúan siendo válidos para el certificado de
 
 composición que se está presentando.
 
-vi) Declaración del fabricante de la sustancia
+vi) Declaración del fabricante de la sustancia activa para los estudios toxicológicos y ecotoxicológicos en el que se analice la toxicología (aguda) de los isómeros, impurezas o aditivos que han cambiado, en su proporción cuantitativa. Además en la nueva composición no se deberán generar nuevas impurezas relevantes.
 
-activa para los estudios toxicológicos y
-
-ecotoxicológicos en el que se analice la
-
-toxicología (aguda) de los isómeros,
-
-impurezas o aditivos que han cambiado, en su
-
-proporción cuantitativa. Además en la nueva
-
-composición no se deberán generar nuevas
-
-impurezas relevantes.
-
-vii) HDS según la Norma Chilena NCh2245 vigente,
-
-cuando se importe o fabrique en Chile, o por la
-
-norma que corresponda al país de origen del
-
-plaguicida, cuando no se cumpla lo anterior, de
-
-la Sustancia activa grado técnico.
+vii) HDS según la Norma Chilena NCh2245 vigente, cuando se importe o fabrique en Chile, o por la norma que corresponda al país de origen del plaguicida, cuando no se cumpla lo anterior, de la Sustancia activa grado técnico.
 
 viii) Resumen ejecutivo debidamente actualizado.
 
-ix) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
+ix) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
 b) Para el producto formulado.
 
-i) Otra información que el Servicio requiera de
+i) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
-acuerdo al caso en estudio.
-
-27.2. Sustitución del producto formulado por cambios
-
-en la composición de los coformulantes.
+27.2. Sustitución del producto formulado por cambios en la composición de los coformulantes.
 
 Sólo será aplicable a los coformulantes incluidos en la formulación de un producto ya autorizado y para el mismo fabricante del producto formulado declarado en la autorización vigente. Esto no considera modificaciones en el contenido de la sustancia activa, ni en el tipo (denominación y código) de formulación del plaguicida.
 
-27.2.1. Sustitución de la forma alotrópica de una
-
-sustancia utilizada como coformulante.
+27.2.1. Sustitución de la forma alotrópica de una sustancia utilizada como coformulante.
 
 Sustitución de una sustancia de una misma fórmula química con distintas formas alotrópicas, manteniendo el mismo contenido del coformulante dentro de la composición del producto formulado.
 
 El solicitante deberá presentar al Servicio los siguientes documentos:
 
-i) Certificado comparativo de la composición
+i) Certificado comparativo de la composición cualicuantitativa del plaguicida autorizado y la del plaguicida que contiene la forma alotrópica del coformulante, emitido por el fabricante del producto formulado.
 
-cualicuantitativa del plaguicida autorizado
+ii) Declaración del fabricante del producto formulado que acredite las razones del cambio.
 
-y la del plaguicida que contiene la forma
-
-alotrópica del coformulante, emitido por el
-
-fabricante del producto formulado.
-
-ii) Declaración del fabricante del producto
-
-formulado que acredite las razones del cambio.
-
-iii) Documento comparativo de las propiedades
-
-fisicoquímicas del plaguicida autorizado con las
-
-del plaguicida con la forma alotrópica del
-
-coformulante que se solicita sustituir, y los
-
-estudios correspondientes, si estos estuvieran
-
-disponibles.
+iii) Documento comparativo de las propiedades fisicoquímicas del plaguicida autorizado con las del plaguicida con la forma alotrópica del coformulante que se solicita sustituir, y los estudios correspondientes, si estos estuvieran disponibles.
 
 iv) Resumen ejecutivo debidamente actualizado.
 
-v) Otra información que el Servicio requiera de
+v) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
-acuerdo al caso en estudio.
-
-27.2.2. Sustitución de un coformulante por otro que
-
-cumpla la misma función.
+27.2.2. Sustitución de un coformulante por otro que cumpla la misma función.
 
 Corresponde a la sustitución de un coformulante por otro que cumpla las mismas funciones, manteniéndose la misma o mejor clasificación de peligro.
 
 El solicitante deberá presentar al Servicio los siguientes documentos:
 
-i) Certificado de la nueva composición
+i) Certificado de la nueva composición cualicuantitativa del producto formulado, emitido por el fabricante del producto formulado.
 
-cualicuantitativa del producto formulado, emitido
+ii) Documento comparativo de la composición cualicuantitativa del plaguicida autorizado y la del plaguicida cuyo coformulante se solicita sustituir, emitido por el fabricante del producto formulado.
 
-por el fabricante del producto formulado.
+iii) Declaración del fabricante del producto formulado que acredite las razones del cambio.
 
-ii) Documento comparativo de la composición
+iv) Documento comparativo de las propiedades fisicoquímicas del plaguicida autorizado con las del plaguicida cuyo coformulante se solicita sustituir y los estudios correspondientes si éstos estuvieran disponibles.
 
-cualicuantitativa del plaguicida autorizado y la
+v) Declaración del fabricante del producto formulado que analice comparativamente la toxicología del coformulante vigente y la del sustituyente.
 
-del plaguicida cuyo coformulante se solicita
+vi) Análisis técnico del fabricante del producto formulado que acredite que las propiedades físico químicas, biológicas (eficacia, residuos, selectividad), toxicológicas, y ecotoxicológicas no se ven adversamente afectadas y que los documentos que respaldaron la autorización ya otorgada continúan siendo válidos para el certificado de composición que se está presentando.
 
-sustituir, emitido por el fabricante del
+vii) HDS según la Norma Chilena NCh2245 vigente del producto formulado.
 
-producto formulado.
+viii) Actualización del Resumen ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición del producto formulado.
 
-iii) Declaración del fabricante del producto
+ix) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
-formulado que acredite las razones del cambio.
-
-iv) Documento comparativo de las propiedades
-
-fisicoquímicas del plaguicida autorizado con las
-
-del plaguicida cuyo coformulante se solicita
-
-sustituir y los estudios correspondientes si
-
-éstos estuvieran disponibles.
-
-v) Declaración del fabricante del producto formulado
-
-que analice comparativamente la toxicología del
-
-coformulante vigente y la del sustituyente.
-
-vi) Análisis técnico del fabricante del producto
-
-formulado que acredite que las propiedades
-
-físico químicas, biológicas (eficacia, residuos,
-
-selectividad), toxicológicas, y ecotoxicológicas
-
-no se ven adversamente afectadas y que los
-
-documentos que respaldaron la autorización ya
-
-otorgada continúan siendo válidos para el
-
-certificado de composición que se está
-
-presentando.
-
-vii) HDS según la Norma Chilena NCh2245 vigente del
-
-producto formulado.
-
-viii) Actualización del Resumen ejecutivo en sus
-
-numerales correspondientes, en cuanto al
-
-certificado de composición del producto
-
-formulado.
-
-ix) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
-
-27.2.3. Inclusión de un nuevo coformulante,
-
-modificación o eliminación en la proporción de
-
-otro coformulante dentro de la composición.
+27.2.3. Inclusión de un nuevo coformulante, modificación o eliminación en la proporción de otro coformulante dentro de la composición.
 
 Corresponde a la inclusión de un nuevo coformulante en el plaguicida autorizado, pudiéndose además, modificar la proporción o presencia de otro coformulante dentro de su composición, de tal forma que se mejoren sus características y se mantenga o mejore su clasificación de peligro.
 
 El solicitante deberá presentar al Servicio los siguientes documentos:
 
-i) Certificado de la nueva composición
+i) Certificado de la nueva composición cualicuantitativa del producto formulado, emitido por el fabricante del producto formulado.
 
-cualicuantitativa del producto formulado, emitido
+ii) Documento comparativo de composición cualicuantitativa del plaguicida autorizado y la del plaguicida cuya formulación se solicita sustituir, emitido por el fabricante del producto formulado.
 
-por el fabricante del producto formulado.
+iii) Declaración del fabricante del producto formulado que acredite las razones del cambio.
 
-ii) Documento comparativo de composición
+iv) Documento comparativo de las propiedades fisicoquímicas del plaguicida autorizado con las del plaguicida cuya formulación se solicita sustituir y sus estudios si éstos estuvieran disponibles.
 
-cualicuantitativa del plaguicida autorizado y la
+v) Datos toxicológicos del nuevo coformulante que se va a incluir dentro de la composición (HDS).
 
-del plaguicida cuya formulación se solicita
+vi) Análisis técnico del fabricante del producto formulado que acredite que las propiedades físico
 
-sustituir, emitido por el fabricante del producto
+químicas, biológicas (eficacia, residuos, selectividad), toxicológicas, y ecotoxicológicas no se ven adversamente afectadas y que los documentos que respaldaron la autorización ya otorgada continúan siendo válidos para el certificado de composición que se está presentando.
 
-formulado.
+vii) HDS según la Norma Chilena NCh2245 vigente del producto formulado.
 
-iii) Declaración del fabricante del producto formulado
+viii) Actualización del Resumen ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición del producto formulado.
 
-que acredite las razones del cambio.
+ix) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
-iv) Documento comparativo de las propiedades
-
-fisicoquímicas del plaguicida autorizado con las
-
-del plaguicida cuya formulación se solicita
-
-sustituir y sus estudios si éstos estuvieran
-
-disponibles.
-
-v) Datos toxicológicos del nuevo coformulante que se
-
-va a incluir dentro de la composición (HDS).
-
-vi) Análisis técnico del fabricante del producto
-
-formulado que acredite que las propiedades físico
-
-químicas, biológicas (eficacia, residuos,
-
-selectividad), toxicológicas, y ecotoxicológicas
-
-no se ven adversamente afectadas y que los
-
-documentos que respaldaron la autorización ya
-
-otorgada continúan siendo válidos para el
-
-certificado de composición que se está
-
-presentando.
-
-vii) HDS según la Norma Chilena NCh2245 vigente del
-
-producto formulado.
-
-viii) Actualización del Resumen ejecutivo en sus
-
-numerales correspondientes, en cuanto al
-
-certificado de composición del producto
-
-formulado.
-
-ix) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
-
-27.3. Modificación de origen o inclusión de un nuevo
-
-origen.
+27.3. Modificación de origen o inclusión de un nuevo origen.
 
 Será aplicable sólo a plaguicidas autorizados por identidad. Se procederá a una modificación de origen o inclusión de un nuevo origen, cuando se demuestre que el certificado de composición cualicuantitativo de la sustancia activa grado técnico o del producto formulado presentado en la solicitud, es idéntico al del origen de la autorización vigente.
 
-27.3.1. Modificación o inclusión de nuevo origen para
-
-la sustancia activa grado técnico.
+27.3.1. Modificación o inclusión de nuevo origen para la sustancia activa grado técnico.
 
 El solicitante deberá presentar los siguientes documentos:
 
-i) Certificado de composición cualicuantitativo de la
+i) Certificado de composición cualicuantitativo de la sustancia activa grado técnico del nuevo origen de ésta, emitido por el fabricante de ésta.
 
-sustancia activa grado técnico del nuevo origen de
+ii) Certificado de inscripción o de exportación donde se fabrica la sustancia activa grado técnico del nuevo origen, emitido por la autoridad competente o en su defecto por quien lo fabrica en el nuevo origen.
 
-ésta, emitido por el fabricante de ésta.
+iii) Actualización del Resumen ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición de la sustancia activa grado técnico.
 
-ii) Certificado de inscripción o de exportación donde
+iv) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
-se fabrica la sustancia activa grado técnico del
-
-nuevo origen, emitido por la autoridad competente
-
-o en su defecto por quien lo fabrica en el nuevo
-
-origen.
-
-iii) Actualización del Resumen ejecutivo en sus
-
-numerales correspondientes, en cuanto al
-
-certificado de composición de la sustancia activa
-
-grado técnico.
-
-iv) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
-
-27.3.2. Modificación o inclusión de nuevo origen para
-
-el producto formulado.
+27.3.2. Modificación o inclusión de nuevo origen para el producto formulado.
 
 El solicitante deberá presentar los siguientes documentos:
 
-i) Certificado de composición cualicuantitativo del
+i) Certificado de composición cualicuantitativo del nuevo origen del producto formulado emitido por el fabricante de este.
 
-nuevo origen del producto formulado emitido por el
+ii) Certificado de inscripción y libre venta, o de exportación de la autoridad competente del nuevo origen del producto, o en su defecto certificado de quien lo formula en el nuevo origen.
 
-fabricante de este.
+iii) Actualización del Resumen ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición del producto formulado.
 
-ii) Certificado de inscripción y libre venta, o de
+iv) Dos ejemplares de la etiqueta con las modificaciones propuestas.
 
-exportación de la autoridad competente del nuevo
-
-origen del producto, o en su defecto certificado
-
-de quien lo formula en el nuevo origen.
-
-iii) Actualización del Resumen ejecutivo en sus
-
-numerales correspondientes, en cuanto al
-
-certificado de composición del producto
-
-formulado.
-
-iv) Dos ejemplares de la etiqueta con las
-
-modificaciones propuestas.
-
-v) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
+v) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
 27.4. Inclusión de modificaciones en el uso.
 
 Corresponde a las modificaciones que puedan darse para el uso de plaguicidas ya autorizados por el Servicio.
 
-27.4.1. Inclusión de nuevos usos, ya sean éstos para
-
-nuevos cultivos, plagas, dosis, momento de
-
-aplicación, y en otros usos propuestos.
+27.4.1. Inclusión de nuevos usos, ya sean éstos para nuevos cultivos, plagas, dosis, momento de aplicación, y en otros usos propuestos.
 
 El solicitante deberá presentar los siguientes documentos:
 
-i) Estudio de eficacia para el nuevo uso, el que
+i) Estudio de eficacia para el nuevo uso, el que deberá estar comprobado en alguna de las Estaciones Experimentales autorizadas por el Servicio.
 
-deberá estar comprobado en alguna de las
+ii) Dos ejemplares de la etiqueta con las modificaciones propuestas.
 
-Estaciones Experimentales autorizadas por el
-
-Servicio.
-
-ii) Dos ejemplares de la etiqueta con las
-
-modificaciones propuestas.
-
-iii) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
+iii) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
 iv) Resumen ejecutivo debidamente actualizado.
 
-27.4.2. Cuando el uso solicitado corresponda a una
-
-misma combinación plaga-cultivo de un uso
-
-autorizado previamente para otro plaguicida
-
-con igual concentración de ingrediente activo
-
-puro y misma formulación.
+27.4.2. Cuando el uso solicitado corresponda a una misma combinación plaga-cultivo de un uso autorizado previamente para otro plaguicida con igual concentración de ingrediente activo puro y misma formulación.
 
 El solicitante deberá presentar los siguientes documentos:
 
-i) Estudio de eficacia para el nuevo uso, el que
+i) Estudio de eficacia para el nuevo uso, el que deberá estar comprobado en alguna de las Estaciones Experimentales autorizadas por el Servicio, o Certificación de eficacia otorgada por la Estación Experimental.
 
-deberá estar comprobado en alguna de las
+ii) Dos ejemplares de la etiqueta con las modificaciones propuestas.
 
-Estaciones Experimentales autorizadas por el
-
-Servicio, o Certificación de eficacia otorgada
-
-por la Estación Experimental.
-
-ii) Dos ejemplares de la etiqueta con las
-
-modificaciones propuestas.
-
-iii) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
+iii) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
 iv) Resumen ejecutivo debidamente actualizado.
 
@@ -3858,21 +1914,15 @@ iv) Resumen ejecutivo debidamente actualizado.
 
 Corresponde a las modificaciones que puedan darse para el uso de plaguicidas ya autorizados por el Servicio.
 
-27.5.1. Modificación de etiqueta o aspectos formales
-
-del expediente.
+27.5.1. Modificación de etiqueta o aspectos formales del expediente.
 
 Para los cambios de nombre comercial, modificaciones en el texto de la etiqueta que no involucren el uso del producto, eliminación de usos (cultivos o plagas), o modificación de aspectos formales del expediente, entre otros, el solicitante deberá presentar los siguientes documentos:
 
 i) Razones de la modificación.
 
-ii) Dos ejemplares de la etiqueta con las
+ii) Dos ejemplares de la etiqueta con las modificaciones propuestas.
 
-modificaciones propuestas.
-
-iii) Otra información y antecedentes técnicos que el
-
-Servicio requiera de acuerdo al caso en estudio.
+iii) Otra información y antecedentes técnicos que el Servicio requiera de acuerdo al caso en estudio.
 
 iv) Resumen ejecutivo debidamente actualizado.
 
@@ -3880,23 +1930,11 @@ iv) Resumen ejecutivo debidamente actualizado.
 
 Para los cambios de representante legal, de dirección o traspaso de titular, el solicitante deberá presentar los siguientes documentos:
 
-i) Escritura pública, para cambio de representante
+i) Escritura pública, para cambio de representante legal o del nuevo titular.
 
-legal o del nuevo titular.
+ii) Carta del titular vigente de intención de ceder de esta condición a otra persona, para cambio de titular y Carta del titular nuevo de aceptación del traspaso, ambas legalizadas ante notario, para traspaso de titular.
 
-ii) Carta del titular vigente de intención de ceder de
-
-esta condición a otra persona, para cambio de
-
-titular y Carta del titular nuevo de aceptación
-
-del traspaso, ambas legalizadas ante notario, para
-
-traspaso de titular.
-
-iii) Otra información que el Servicio requiera de
-
-acuerdo al caso en estudio.
+iii) Otra información que el Servicio requiera de acuerdo al caso en estudio.
 
 iv) Resumen ejecutivo debidamente actualizado.
 
@@ -3904,53 +1942,19 @@ iv) Resumen ejecutivo debidamente actualizado.
 
 Se procederá a una modificación de destino o inclusión de un nuevo destino, cuando se demuestre que la sustancia activa grado técnico o el producto formulado se encuentre registrado o en proceso de autorización en el país de destino.
 
-27.5.3.1. Modificación o inclusión de nuevo destino
+27.5.3.1. Modificación o inclusión de nuevo destino para la sustancia activa grado técnico. El solicitante deberá presentar los siguientes documentos:
 
-para la sustancia activa grado técnico. El
+i) Certificado de inscripción de la sustancia activa grado técnico del nuevo destino, emitido por la autoridad competente, o un documento en que conste que se encuentra en proceso de autorización.
 
-solicitante deberá presentar los siguientes
+ii) Actualización del Resumen Ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición de la sustancia activa grado técnico.
 
-documentos:
-
-i) Certificado de inscripción de la sustancia activa
-
-grado técnico del nuevo destino, emitido por la
-
-autoridad competente, o un documento en que conste
-
-que se encuentra en proceso de autorización.
-
-ii) Actualización del Resumen Ejecutivo en sus
-
-numerales correspondientes, en cuanto al
-
-certificado de composición de la sustancia activa
-
-grado técnico.
-
-27.5.3.2. Modificación o inclusión de nuevo destino
-
-para el producto formulado.
+27.5.3.2. Modificación o inclusión de nuevo destino para el producto formulado.
 
 El solicitante deberá presentar los siguientes documentos:
 
-i) Certificado de inscripción y libre venta, de
+i) Certificado de inscripción y libre venta, de la autoridad competente del nuevo destino del producto, o un documento en que conste que se encuentra en proceso de autorización en el nuevo destino.
 
-la autoridad competente del nuevo destino del
-
-producto, o un documento en que conste que se
-
-encuentra en proceso de autorización en el
-
-nuevo destino.
-
-ii) Actualización del Resumen Ejecutivo en sus
-
-numerales correspondientes, en cuanto al
-
-certificado de composición del producto
-
-formulado.
+ii) Actualización del Resumen Ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición del producto formulado.
 
 ### 28. Tratamiento de la información no divulgada
 
@@ -3978,7 +1982,7 @@ El Servicio podrá verificar en las sustancias activas grado técnico que se fab
 
 30.2 Los fabricantes de sustancias activas, productores, importadores, fabricantes de productos formulados, fraccionadores, exportadores y distribuidores de plaguicidas, deberán informar el inicio de sus actividades mediante el Formulario establecido por el Servicio, en un plazo máximo de 30 días de acontecido para la verificación del cumplimiento de las obligaciones contenidas en la presente Resolución; cualquier cambio de lo informado a través del Formulario, deberá comunicarlo al Servicio dentro de los 30 días siguientes a su ocurrencia.
 
-30.3. El plaguicida se identificará mediante un código de lote, esto es, una clave que permita individualizarlo en cualquiera de las etapas de fabricación, producción, importación, exportación, fraccionamiento, distribución y venta.
+30.3.3. El plaguicida se identificará mediante un código de lote, esto es, una clave que permita individualizarlo en cualquiera de las etapas de fabricación, producción, importación, exportación, fraccionamiento, distribución y venta.
 
 Las claves estarán formadas por números o por combinaciones de letras y números, debiendo incluir, a lo menos, el mes y el año de fabricación y el número correspondiente a la partida.
 
@@ -4010,17 +2014,9 @@ Sin embargo, solo deberán presentar los siguientes documentos:
 
 a. La solicitud correspondiente;
 
-b. 2 ejemplares de la etiqueta con que se expende el
+b. 2 ejemplares de la etiqueta con que se expende el producto;
 
-producto;
-
-c. Una actualización de los antecedentes toxicológicos
-
-agudos y crónicos, ecotoxicológicos, ambientales,
-
-de residuos, de seguridad, métodos analíticos y de
-
-uso, si corresponde; y
+c. Una actualización de los antecedentes toxicológicos agudos y crónicos, ecotoxicológicos, ambientales, de residuos, de seguridad, métodos analíticos y de uso, si corresponde; y
 
 d. Resumen Ejecutivo debidamente actualizado.
 
