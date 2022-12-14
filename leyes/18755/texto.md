@@ -126,7 +126,7 @@ p) Aceptar donaciones, legados y herencias a favor del Servicio, estas últimas 
 
 q) Fijar domicilios especiales del Servicio, y
 
-r) Dictar las resoluciones generales o particulares que fueren necesarias para el ejercicio de las atribuciones que se le confieren por el presente artículo o para el cumplimiento de los objetivos del Servicio.
+r) Dictar las resoluciones generales o particulares que fueren necesarias para el ejercicio de las atribuciones que se le confieren por el presente artículo o para el cumplimiento de los objetivos del Servicio, y podrá disponer su publicación en extracto en el Diario Oficial.
 
 s) Autorizar, de acuerdo con el reglamento, la contratación de pólizas que cubran la siniestralidad para funcionarios o empleados que cumplan labores de alto riesgo, en el terreno o en laboratorios del Servicio.
 
