@@ -62,6 +62,8 @@ Se deberá destinar como mínimo un 25% de las viviendas del proyecto a familias
 
 .
 
+Para las viviendas emplazadas en las regiones mencionadas en la letra c) de la tabla anterior, no se considerará la diferencia de 100 UF exigida en el ítem 5 de la Tabla de Factores y Puntajes del Artículo 11° del DS N° 19 (V. y U.), de 2016, entre la tipología de viviendas destinadas a familias vulnerables y la tipología destinada a sectores medios cuyo precio oscila entre las 1.500 UF y las 1.700 UF.
+
 3.2 Viviendas destinadas a familias de sectores medios
 
 Los montos de subsidio para las familias de sectores medios, así como los porcentajes de viviendas del proyecto, serán los señalados en las siguientes tablas de acuerdo a los rangos de precio de vivienda y comunas indicadas a continuación:
@@ -84,7 +86,7 @@ Los montos de bono de integración social indicados en la tabla precedente, podr
 
 3.4 Porcentaje máximo de venta de viviendas sin aplicación de subsidios:
 
-Los proyectos que se desarrollen en algunas de las 26 zonas definidas en las resoluciones exentas Nº 1.219 de 2020, Nº.466 y Nº1.414 de 2021, todas de Vivienda y Urbanismo, de acuerdo a la letra c) del artículo 7º del DS Nº19 (V. y U.), de 2016, podrán considerar porcentajes de vivienda para venta sin aplicación de subsidio cuyo precio exceda de los máximos indicados en la letra a) del artículo 7º del decreto precitado, según lo indicado en la siguiente tabla:
+Los proyectos que se desarrollen en algunas de las 27 zonas definidas en las resoluciones exentas N° 1.219 de 2020, N° 466 y N° 1.414 de 2021 y sus modificaciones, todas de Vivienda y Urbanismo, de acuerdo a la letra c) del artículo 7° del DS N° 19 (V. y U.), de 2016, podrán considerar porcentajes de vivienda para venta sin aplicación de subsidio cuyo precio exceda de los máximos indicados en la letra a) del artículo 7° del decreto precitado, según lo indicado en la siguiente tabla:
 
 .
 
@@ -256,10 +258,6 @@ Una vez sancionada la selección de los proyectos, la Entidad Desarrolladora deb
 
 Las Entidades Desarrolladoras cuyos proyectos hayan resultado seleccionados no podrán ceder o transferir dicho proyecto a otra Entidad. Excepcionalmente, en casos justificados, el Serviu podrá autorizar la cesión o transferencia del proyecto, con posterioridad al inicio de las obras y siempre que registre un avance de obras igual o superior al 30%, lo que será verificado por el Serviu.
 
-Las Entidades Desarrolladoras, cuyos proyectos hayan resultado seleccionados deberán presentar, al momento de la firma del convenio, un Plan de Gestión de Residuos de Construcción y Demolición, documento que deberá ser elaborado según lo establecido en la norma NCh N° 3562 "Residuos de Construcción y Demolición (RCD) – Clasificación y Directrices para el Plan de Gestión" oficializada según decreto exento N° 37 (V. y U.), de 2019.
-
-El formato tipo del "Plan de Gestión de Residuos de Construcción y Demolición", se encontrará disponible, para ser descargado desde la página web del Ministerio de Vivienda y Urbanismo, una vez publicada la presente resolución en el Diario Oficial.
-
 ### 11. Inicio de las Obras:
 
 La Entidad Desarrolladora deberá comunicar el inicio de obras al Serviu, mediante una carta que señale la fecha del inicio y acompañe una programación general de la obra, que indique el porcentaje mensual de avance esperado y el permiso de edificación, cuando corresponda.
@@ -268,7 +266,7 @@ Sin perjuicio de lo dispuesto en el inciso final del artículo 15° del DS N° 1
 
 Una vez tramitado el convenio respectivo y verificado el inicio de obras por parte del Serviu, la Entidad Desarrolladora deberá entregar a ese Servicio toda la información del proyecto para su correcta y oportuna difusión hacia la ciudadanía, a través de los medios masivos de comunicación que el Minvu disponga.
 
-La Entidad Desarrolladora debe ejecutar al menos dos viviendas piloto, una correspondiente a la tipología destinada a familias vulnerables y otra destinada a familias de sectores medios, las que deber�n estar completamente terminadas, recibidas por el Serviu respectivo y disponibles para ser visitadas por las familias, como máximo a la fecha establecida para la actividad de visita a la obra, señalada en el Plan de Integración Social, a que se refiere la letra c) del artículo 3°, del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
+La Entidad Desarrolladora debe ejecutar al menos dos viviendas piloto, una correspondiente a la tipología destinada a familias vulnerables y otra destinada a familias de sectores medios, las que deberán estar completamente terminadas, recibidas por el Serviu respectivo y disponibles para ser visitadas por las familias, como máximo a la fecha establecida para la actividad de visita a la obra, señalada en el Plan de Integración Social, a que se refiere la letra c) del artículo 3°, del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
 
 ### 12. Incorporación de familias a los proyectos:
 
@@ -292,6 +290,8 @@ Los proyectos seleccionados en llamados realizados durante los años 2020 y 2021
 
 En el caso de los proyectos en terrenos de propiedad del Serviu aprobados en los años 2019, 2020 y 2021, la posibilidad de acogerse a la homologación será autorizada mediante resolución del Director del Serviu, previa solicitud de la Entidad Desarrolladora, adjuntando los antecedentes que la respalden fundada en aumentos de costo que afecten al proyecto. En la resolución señalada deberán fijarse los precios y montos de subsidios, teniendo como máximo, los señalados en los párrafos anteriores según año de selección.
 
+Excepcionalmente, en el caso de los proyectos seleccionados en Llamados en terrenos de propiedad del Serviu realizados durante el año 2019, podrán solicitar al Director/a Serviu, acogerse a los precios máximos de vivienda, monto de subsidio y bono de integración indicados en el Artículo 3°, letra b) establecidos en el decreto DS N° 16 (V. y U.), de 2019, publicado en el Diario Oficial el 23 de julio de 2020, procedimiento que podrá ser autorizado mediante resolución del Director/a Serviu, previa solicitud de la Entidad Desarrolladora, adjuntando los antecedentes que la respalden
+
 Para aplicar lo indicado en este resuelvo, los proyectos no deberán contar con recepción municipal de obras al 31 de marzo de 2022.
 
 14.2. Proyectos renunciados
@@ -310,7 +310,7 @@ Los nuevos precios de vivienda, montos de subsidio y bonos de integración expre
 
 Tampoco será posible aumentar el precio de la vivienda ni otorgar mayor monto de subsidio a familias de sectores medios que ya cuenten con un compromiso pactado con la Entidad Desarrolladora.
 
-Para los proyectos sin inicio de obras, tanto vigentes como renunciados que se retracten, deberán iniciarlas hasta el 30 de noviembre de 2022.
+Para los proyectos sin inicio de obras, tanto vigentes como renunciados que se retracten, deberán iniciarlas hasta el 30 de diciembre de 2022.
 
 ### 15. Estacionamientos
 
@@ -335,6 +335,10 @@ Estas disposiciones se aplicarán a los proyectos que sean seleccionados en virt
 ### 16. Préstamo de Enlace
 
 Una vez que se acredite lo indicado en el artículo 28º del DS Nº19 (V. y U.), de 2016, el Serviu podrá otorgar un préstamo de enlace a la empresa constructora a cargo del proyecto por un monto máximo de 300 UF por vivienda. El préstamo deberá ser entregado en dos cuotas, la primera al momento de acreditar el inicio de obras del proyecto, y la segunda, una vez que Serviu verifique en terreno que el proyecto cuenta con más de un 15% de avance de las obras.
+
+Adicionalmente a solicitud de la Empresa Constructora, el Serviu podrá otorgar un nuevo préstamo de enlace equivalente al monto del subsidio base, excluyendo los bonos de integración y captación, por cada vivienda destinada a familias vulnerables del proyecto, al cual se le descontarán las 300 UF inicialmente otorgadas. El nuevo préstamo se pagará en 2 cuotas iguales, la primera contra un 30% avance de obras y la segunda contra un 50% avance de obras. Este nuevo préstamo se otorgará en las mismas condiciones y exigencias establecidas en el artículo 28° del DS N° 19 (V. y U.), de 2016.
+
+Serviu deberá verificar el avance físico de la obra en terreno, previo al pago de cada una de las cuotas.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
