@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.143, de fecha 21 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Avenida Cuatro Esquinas Tramo I más calle Los Arrayanes, La Serena", ciudad de La Serena, conforme al artículo 51 Ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 12, en plano de expropiación, ubicado en Cuatro Esquinas 412, La Serena, Rol de Avalúo N° 291-32, de aparente dominio de Gladys Giovanine Cifuentes Véliz Cuatro Esquina, superficie aprox. de 21,39 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 8 de septiembre de 2022, fijó indemnización provisional en 212,28 UF, pagadero al contado.-
+
+Verónica Ibacache Parraguez, Directora (S) Serviu Región de Coquimbo.
