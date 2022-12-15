@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1219, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1 A y 1 B, para la obra: SISTEMA DE AGUA POTABLE RURAL VILLA CAPRICHO, que figura a nombre de BACHMANN LEMP CARLOS ALBERTO y FORESTAL GALVARINO LTDA y, roles de avalúo 814-27 y 816-9, Comuna de GALVARINO, REGION DE LA ARAUCANÍA, superficies 400 y 225 m2 respectivamente. La Comisión de Peritos integrada por CONSTANZA CAMILA VASQUEZ MUÑOZ, FERNANDO LUIS CONTRERAS HENNINGS y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 18 de agosto de 2022, fijó el monto de la indemnización provisional en la cantidad de $620.000 para el lote Nº1 A, y $715.000 para el lote Nº1 B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
