@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.982, de fecha 06/12/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y decreto 69/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación total del bien raíz denominado: "Parte de la quinta número 23 A, del plano de Temuco, de una superficie de 39 metros de frente por 100 metros de fondo", Rol de avalúo: 362-3, comuna de Temuco. La superficie a expropiar aproximada es de 3.900 metros cuadrados, de aparente dominio de Sucesión intestada de Héctor Fernando Rebolledo Aravena y Juana María Robles Méndez. Comisión de Peritos integrada por don Claudio Romo Sanhueza, Arturo Cantos Oyarzún y Mario Gutiérrez Truan, fijó monto de Indemnización Provisional en $950.519.934, según Informe Nº 02-0, de fecha 1 de diciembre de 2022, pagadero contado.
+
+Director Serviu Región de la Araucanía.
