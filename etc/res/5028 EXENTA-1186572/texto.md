@@ -1,0 +1,7 @@
+NOTIFICACIÓN
+
+Resolución exenta 5.028, 06 de diciembre de 2022, SERVIU Región del Biobío ordenó la expropiación parcial de los derechos cuotativos del inmueble ubicado en Avda. Ignacio Collao 1585, Rol de Avalúo Nº 320-438 al 320-506, comuna de Concepción, enmarcado en el polígono A-B-C-D-E-A del plano S8R 41.540-1, en el cual se indican sus deslindes, y cuyos roles de avalúo, porcentaje del derecho cuotativo a expropiar, y aparentes propietarios, se detallan en el cuadro siguiente:
+
+La superficie afecta expropiación parcial de terreno mediante derecho cuotativo contempla la expropiación parcial de terreno cuotativo de la superficie de 54,04 m2 (Lote 214) y de 0,00 m2 de edificación y cuyos linderos particulares, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao- General Novoa" comuna de Concepción, Región del Biobío", conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por los arquitectos Rodrigo Alexis Escobar Fernández, Paola Loreto Martínez Perucca y Felipe Andrés Castillo Parra, que fijó el monto de la indemnización provisional por la expropiación en la suma de $26.090.567.- lo que será pagado al contado.
+
+Director (S) Serviu Región del Biobío.
