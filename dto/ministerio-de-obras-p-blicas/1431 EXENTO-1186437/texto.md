@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1431, de 25 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 293, para la obra: REPOSICION RUTA 148 SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, que figura a nombre de LOZANO GARRATON MARIA ANA, rol de avalúo 1093-965, Comuna de QUILLON, REGION DE ÑUBLE, superficie 13 m2. La Comisión de Peritos integrada por VALERIA MARDONEZ LEMA, VALESKA ALÉ GOÑI y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 01 de abril de 2020, fijó el monto de la indemnización provisional en la cantidad de $342.816 para el lote N°293. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
