@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.671, de 13 de diciembre de 2022, Serviu III Región de Atacama, conforme DL Nº 2.186 de 1978, ley Nº 16.391 y DS Nº 51/2022 de V. y U., ordenó la expropiación del inmueble denominado Lote 7, ubicado en Avenida La Paz Nº 639, Copiapó, rol de avalúo fiscal Nº 98-11, Plano Código CAT-001 denominado "Estudio Final de Expropiación Sector Entrepuentes" y Plano Rectificación Estudio Final de Expropiación Sector Entrepuentes SRAUGS-1935 de 2022 del Serviu Atacama, de aparente dominio de Rosa Herminia Olivera Castillo, para ejecución proyecto Construcción Parque Central Diagonal Entrepuentes, Copiapó. Comisión tasadora integrada por Norman Calderón Pontiggia, ingeniero agrónomo; María Pizarro Sandoval, ingeniero agrónomo, y Ximena Peñaloza Herrero, arquitecta, según informe de 13 de diciembre de 2022, fijó un monto provisional de indemnización de $169.321.900.- pagadera al contado
+
+Director Serviu III Región Atacama.
