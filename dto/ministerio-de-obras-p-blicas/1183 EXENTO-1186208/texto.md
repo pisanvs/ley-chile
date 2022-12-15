@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1183 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 160 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de FRUTICOLA ANGOL SA, rol de avalúo 1453-150 de la comuna de Angol, superficie 8.221 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 24 de 13 de enero de 2021, integrada por Verónica Paz Olivier Valdebenito, Danilo Alejandro Basis Queirolo y Jesús Fernando Díaz Pasmiño, mediante informe de tasación de 3 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $161.896.000 para el lote Nº 160. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
