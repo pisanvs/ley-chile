@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1174, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.12-1, 12-2 y 12-3, para la obra: DISEÑO DE OBRAS FLUVIALES Y MANEJO DE CAUCE EN LA QUEBRADA DE PAIPOTE, que figuran a nombre de AGRICOLA TIERRA AMARILLA LIMITADA, roles de avalúo 554-11, Comuna de COPIAPO, REGIÓN DE ATACAMA, superficies 1.662, 2.141 y 478,50 m2. respectivamente. La Comisión de Peritos integrada por JUAN ANDRES TEPPER LAVANDEROS, ARTURO PAULINO PERALTA MORALES y ANDRES ANBAL RISSO CAAMAÑO, mediante informe de tasación de 10 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $66.480.000, para el lote N°12-1, $81.358.000, para el lote N°12-2 y $18.183.000, para el lote N°12-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
