@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 5.029, 6 de diciembre de 2022, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación, ubicado en Gral. Novoa 398, Rol de Avalúo Nº 279-14, comuna de Concepción, de aparente dominio de Fernández Stiepovich Claudia Paz y otro. La superficie expropiación parcial de terreno es de 17,67 (Lote 25), y de 26,68 m2 de expropiación total de edificación y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-41989-2, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par - Vial Collao - General Novoa" comuna de Concepción, Región del Biobío, conforme artículo 51 ley Nº 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitectos Rodrigo Alexis Escobar Fernández, Paola Loreto Martínez Perucca y Felipe Andrés Castillo Parra, que fijó el monto de la indemnización provisional por la expropiación en la suma de $20.683.056.- pagadera de contado.
+
+Director Serviu (S) Región del Biobío.
