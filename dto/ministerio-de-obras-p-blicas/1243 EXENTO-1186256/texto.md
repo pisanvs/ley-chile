@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1243 de 16 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 8 para la obra: CONEXIÓN VIAL RUTA 78 HASTA RUTA 68, Región Metropolitana de Santiago, que figura a nombre de CONSTRUCCIONES Y PROYECTOS LOS MAIT, rol de avalúo 2597-148 de la comuna de Pudahuel, superficie 9.492 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 231 de 5 de julio de 2022, modificada por Resolución Expropiaciones Fiscalía (Exenta) Nº 336 de 23 de agosto de 2022, integrada por Gustavo Eduardo Picero García, María Cristina Camus Palacios y Lilian Alicia Nahuelhual Llanquín, mediante informe de tasación de 20 de septiembre de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.282.091.000 para el lote Nº 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
