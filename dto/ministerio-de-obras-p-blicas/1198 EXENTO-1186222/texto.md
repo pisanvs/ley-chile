@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1198 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO COLLIPULLI TEMUCO SECTOR: ACT 11 - 12 PUENTE PELALES PONIENTE KM. 692.700,00 A KM. 693.320,00, Región de la Araucanía, que figura a nombre de CONTRERAS HERMOSILLA ABRAHAM LAUTAR, rol de avalúo 310-410 de la comuna de Freire, superficie 860 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 314 de 16 de agosto de 2022, integrada por Rodrigo Alexis Escobar Fernández, Handy Ghislaine Campos Sepúlveda y María Soledad Núñez Arroyo, mediante informe de tasación de 30 de septiembre de 2022, fijó el monto de la indemnización provisional en la cantidad de $11.982.000 para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
