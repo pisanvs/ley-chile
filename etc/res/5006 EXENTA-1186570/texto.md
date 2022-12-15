@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 5006 de fecha 07/12/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978, DS 31/2022 modificado por DS 73/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado "Inmueble denominado Temuco II, consistente en el Lote D-1-B de una superficie de 18.400 metros cuadrados, que es resultante de la subdivisión de un predio de mayor extensión denominado Lote D que forma parte del resto de las hijuelas que conforman el predio San Carlos, ubicado en la comuna de Temuco", Rol de avalúo: 4035-2, comuna de Temuco. La superficie a expropiar aproximada es de 2.223,68 metros cuadrados, de aparente dominio de Q2 SpA y Renta Nacional Compañía de Seguros de Vida S.A. Comisión de Peritos integrada por don Ítalo Ignacio Cortés Rocco, Fabián Eliecer Molina Morales y Claudio Marcelo Pezo Muñoz, fijó monto de Indemnización Provisional en $538.230.000 según Informe N° 06-01A, de fecha 15.11.2022, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
