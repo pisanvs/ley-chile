@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1145, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.63-A y 63-B, para la obra: CONSTRUCCION RUTA PRECORDILLERANA, SECTOR RUTA L-11 - RUTA L-535 - PUENTE ACHIBUENO, que figura a nombre de CASTRO MORALES JORGE ARMANDO y CHAVEZ PALMA CARLOS ALBERTO, roles de avalúo 567-200 y 567-199, Comuna de LINARES, REGION DEL MAULE, superficies 474 y 927 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNANDEZ, mediante informe de tasación de 21 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $5.189.500 para el lote Nº63-A, y $9.989.750 para el lote Nº63-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
