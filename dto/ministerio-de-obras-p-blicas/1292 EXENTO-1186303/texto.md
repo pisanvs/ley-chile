@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1292 de 16 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 198 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de NAVARRETE FERNANDEZ MARIO E, rol de avalúo 821-2 de la comuna de Angol, superficie 379,72 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 29 de 14 de enero de 2021, integrada por Sonia Catalina Gallegos Blanch, Felipe Suckel Figueroa y Valentina Andrea Chacaltana Sims, mediante informe de tasación de 1 de marzo de 2021, fijó el monto de la indemnización provisional en la cantidad de $33.442.600 para el lote N° 198. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
