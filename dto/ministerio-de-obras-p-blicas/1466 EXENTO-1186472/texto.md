@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1466, de 28 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno D-26 y D-34, para la obra: CONSTRUCCION EMBALSE EMPEDRADO, que figura a nombre de ROJAS TEJOS GONZALO ARTURO Y OTRO y ROJAS CANCINO JESUS ISAAC, roles de avalúo 296-108 y 297-92, Comuna de EMPEDRADO, REGIÓN DEL MAULE, superficies 1.501 y 3.786 m2 respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 27 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $5.243.450 para el lote D-26, y $8.317.600 para el lote D-34. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
