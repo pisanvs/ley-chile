@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.666 de 13 de diciembre de 2022, Serviu III Región de Atacama, conforme D.L. Nº 2186 de 1978, Ley Nº 16.391 y D.S. Nº 51/2022 de V. y U., ordenó la expropiación del inmueble denominado Lote 4, ubicado en Avenida La Paz Nº 615, Población El Rosario, Copiapó, rol de avalúo fiscal Nº 98-7, Plano Código CAT-001 denominado "Estudio Final de Expropiación Sector Entrepuentes" y Plano Rectificación Estudio Final de Expropiación Sector Entrepuentes SRAUGS-1935 del 2022 del Serviu Atacama, de aparente dominio de Sociedad Servicios industriales y Asesorías Técnicas ALL Machine Limitada, para ejecución proyecto Construcción Parque Central Diagonal Entrepuentes, Copiapó. Comisión tasadora integrada por Norman Calderón Pontiggia, ingeniero agrónomo, María Pizarro Sandoval, ingeniero agrónoma y Ximena Peñaloza Herrero, arquitecta, según informe de 13 de diciembre de 2022, fijó un monto provisional de indemnización de $197.401.954.- pagadera al contado.
+
+Director Serviu III Región Atacama.
