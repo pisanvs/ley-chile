@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.544, de 6 de diciembre de 2022, Serviu III Región de Atacama, conforme DL Nº 2.186 de 1978, ley 16.391 y DS Nº 50/2022 de V. y U., ordenó la expropiación parcial del inmueble denominado Lote 1 ubicado en la comuna de Copiapó, rol de avalúo fiscal Nº 552-29, Plano de Expropiación denominado SRAUGS-1926 Expropiación Lote 1 y Lote 2 Copiapó, de aparente dominio de Inversiones Inmobiliarias Inverrnoll Limitada, destinados a la implementación del Plan de Emergencia Habitacional en la Región de Atacama para los años 2022 y siguientes. Comisión tasadora integrada por Norman Calderón Pontiggia, ingeniero agrónomo; María Josefina Pizarro Sandoval, ingeniero agrónomo, y Ximena Peñaloza Herrero, arquitecto, según informe de 5 de diciembre de 2022, fijó un monto provisional de indemnización de $855.591.050.- pagadera al contado
+
+Director Serviu III Región Atacama.
