@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1061, de 04 de noviembre de 2022, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº105, de 26 de marzo de 2021, en la parte que se refiere al Convenio Ad-Referéndum de Indemnización Definitiva de Expropiación, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº20, expropiado con motivo de la obra: Mejoramiento Ruta C-495, Sector La Fragua - Junta de Valeriano, Comuna de Alto del Carmen, Provincia de Huasco, Región de Atacama. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 18 de noviembre de 2019, ascendente a la cantidad de $811.700, para el lote Nº20. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
