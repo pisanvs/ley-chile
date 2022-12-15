@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1413, de 22 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1 y 4, para la obra: OBRA DE EMERGENCIA Nº13/2014, PUENTE MALLOCO, COMUNA DE VILLARRICA, REGION DE LA ARAUCANIA, que figuran a nombre de PAILLLALAFQUEN YANEZ BERNARDO y RIBERA BRAVO DAPHNE MARIA CECILI Y, roles de avalúo 306-257 y 314-46, Comuna de VILLARRICA, REGION DE LA ARAUCANÍA, superficies 81 y 64 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, ENEDINA DEL CARMEN CID RAMIREZ y PAULA ANDREA LAGOS CARRASCO, mediante informe de tasación de fecha 4 de mayo de 2015, fijó el monto de la indemnización provisional en la cantidad de $371.500.- para el lote Nº 1 y $829.500.- para el lote Nº4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
