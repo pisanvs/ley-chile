@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1190 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3-1 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 1: LOS ÁNGELES - RUTA 5, Región del Biobío, que figura a nombre de HUNE MOELLER ERNESTO GERHARD Y OTRO, rol de avalúo 1565-19 de la comuna de Los Ángeles, superficie 1.066 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 148 de 11 de mayo de 2022, integrada por Marlene Teresa Ríos Marcuello, Helmuth Felipe Alarcón Villegas y Jesús Fernando Díaz Pasmiño, mediante informe de tasación de 15 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $304.386.500 para el lote Nº 3-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
