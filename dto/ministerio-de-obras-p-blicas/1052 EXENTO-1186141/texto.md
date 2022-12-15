@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1052, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP N°206 de 1960, se expropiaron los lotes de terreno N°s.53, 55 y 65, para la obra: MEJORAMIENTO RUTA H-45-G, SECTOR CUESTA CHADA, que figura a nombre de OBISPADO DE RANCAGUA, AGRICOLA SUPER LIMITADA y AGRICOLA SUPER LIMITADA, roles de avalúo 137-491, 137-157 y 137-157, Comuna de MOSTAZAL, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 10, 177 y 99 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, VALENTINA ANDREA CHACALTANA SIMS y SERGIO JEREMIAS ORDENES SALINAS, mediante informe de tasación de 05 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $2.329.000 para el lote N°53, $3.180.850 para el lote N°55, y $663.300 para el lote N°65. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
