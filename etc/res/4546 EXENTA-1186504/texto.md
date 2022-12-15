@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.546, de 06 de diciembre de 2022, Serviu III Región de Atacama, conforme DL Nº 2.186 de 1978, ley Nº 16.391 y DS Nº 51/2022 de V. y U., ordenó la expropiación parcial del inmueble denominado Lote 7 (ANFA), ubicado en la comuna de Copiapó, rol de avalúo fiscal Nº 626-1, Plano Código SRAUGS-1927 Expropiación Calle Estadio Nº 74, Copiapó, de aparente dominio de Asociación Nacional de Fútbol Amateur, destinados a la implementación del Plan de Emergencia Habitacional en la Región de Atacama para el año 2022 y siguientes. Comisión tasadora integrada por Norman Calderón Pontiggia, ingeniero agrónomo; María Josefina Pizarro Sandoval, ingeniero agrónomo, y Ximena Peñaloza Herrero, arquitecta, según informe de 05 de diciembre de 2022, fijó un monto provisional de indemnización de $143.504.840.-, pagadera al contado.-
+
+Director Serviu III Región Atacama.
