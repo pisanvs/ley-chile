@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.987 de fecha 06/12/2022, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y DS 62/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado Propiedad ubicada en calle San Ernesto número 500 de la ciudad de Temuco, que corresponde al Lote Dos del plano de subdivisión del predio ubicado al Sur de la población Dreves, Rol de avalúo: 1569-26, comuna de Temuco. La superficie a expropiar aproximada es de 11.836,12 metros cuadrados, de aparente dominio de Hugo Washington Lazo Ortiz. Comisión de Peritos integrada por Marcela Melo Rodríguez, Constanza Mihoevic González y Fernando Diez Raasch, fijó monto de Indemnización Provisional en $4.619.209.185 según Informe Nº 04-0, de fecha 25.11.2022 pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
