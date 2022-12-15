@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1371, de 21 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº31-A, para la obra: MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUE, TRAMO 1: KM. 0,00000 A KM. 11,90000, que figura a nombre de SOCIEDAD AGROINDUSTRIAL EL TOQUI, rol de avalúo 177-117, Comuna de CASABLANCA, REGIÓN DE VALPARAÍSO, superficie 1.018 m2. La Comisión de Peritos integrada por PEDRO MARIO ALMONACID COLIN, IRMA DIAZ RIVEROS y CLAUDIA ARELLANO GOMEZ, mediante informe de tasación de 30 de diciembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $3.461.200, para el lote Nº31-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
