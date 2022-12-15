@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1373, de 21 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s 21, 23 y 25, para la obra: MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUE, TRAMO 1: KM. 0,00000 A KM. 11,90000, que figuran a nombre de SOC AGR DON MANUEL, rol de avalúo 177-117, Comuna de CASABLANCA, REGIÓN DE VALPARAÍSO, superficies 165, 1.055 y 1.346 m2. La Comisión de Peritos integrada por PEDRO MARIO ALMONACID COLIN, IRMA DIAZ RIVEROS y CLAUDIA ARELLANO GOMEZ, mediante informe de tasación de 16 de enero de 2015, fijó el monto de la indemnización provisional en las cantidades de $968.500, para el lote N°21, $12.421.981, para el lote N°23 y $14.355.039, para el lote N°25. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
