@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1040, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.38, 51 y 52, para la obra: MEJORAMIENTO RUTA J-80, SECTOR CRUCE RUTA J-60 (HUALAÑE) - CRUCE RUTA COSTERA, que figuran a nombre de VISTA HERMOSA INVERSIONES FORESTALE, rol de avalúo 159-92, Comuna de LICANTEN, REGION DEL MAULE, superficies 2.155, 13.092 y 1.398 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 06 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $11.039.500 para el lote Nº38, $77.350.800 para el lote Nº51, y $8.370.200 para el lote Nº52. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
