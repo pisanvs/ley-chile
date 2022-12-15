@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1378, de 21 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1-D, para la obra: MEJORAMIENTO RUTA 7: SECTOR CRUCE RUTA 240 VILLA ORTEGA, que figura a nombre de GALILEA RODRIGUEZ FRANCISCO MI, rol de avalúo 1001-40, Comuna de COYHAIQUE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 337 m2. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, HANDY CAMPOS SEPULVEDA y GABRIEL ANTONIO PANTOJA RIVERA, mediante informe de tasación de 22 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $2.022.000, para el lote N°1-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
