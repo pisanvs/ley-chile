@@ -1,0 +1,21 @@
+PRORROGA PLAZO CONTENIDO EN LA RESOLUCIÓN Nº 428 EXENTA, DE 30 DE NOVIEMBRE DE 2016, DE LA SECRETARÍA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES DE LA REGIÓN DEL BIOBÍO, PARA LOS SERVICIOS QUE INDICA
+
+Núm. 2.348 exenta.- Concepción, 30 de noviembre de 2022.
+
+Visto:
+
+Lo dispuesto en la Ley Nº 18.696; el DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito; el decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, que establece el reglamento de los servicios nacionales de transporte público de pasajeros; las facultades delegadas mediante la resolución Nº 52, de 2004, del Ministerio de Transportes y Telecomunicaciones; la resolución exenta Nº 428, de 30 de noviembre de 2016, modificada por la resolución exenta Nº 656, de 27 de noviembre de 2018, la resolución exenta Nº 554, de 21 de noviembre de 2019, la resolución exenta Nº 160, de 28 de mayo de 2020, la resolución exenta Nº 676, de 27 de noviembre de 2020, y la resolución exenta Nº 1.609, de 24 de noviembre de 2021, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío; Informe respecto de la situación de los terminales, de 14 de noviembre de 2022, de la División de Transporte Público Regional de la Región del Biobío; la resolución Nº 7, de 2019, de la Contraloría General de la Republica, y la demás normativa que resulte aplicable.
+
+Considerando:
+
+1. Que, por resolución exenta Nº 428, de 30 de noviembre de 2016, modificada por la resolución exenta Nº 656, de 27 de noviembre de 2018, la resolución exenta Nº 554, de 21 de noviembre de 2019, la resolución exenta Nº 160, de 28 de mayo de 2020, la resolución exenta Nº 676, de 27 de noviembre de 2020, y la resolución exenta Nº 1.609, de 24 de noviembre de 2021, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se estableció la fecha y condiciones de cumplimiento del artículo 45º del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, para los servicios que se indicaron, en la Región del Biobío.
+
+2. Que, el Área de Transporte Público Regional de esta Secretaría Regional Ministerial, ha remitido un informe respecto de la situación de los terminales de los servicios urbanos prestados mediante taxis colectivos existentes en las comunas de Los Ángeles y Tomé, ambas de la Región del Biobío. En las conclusiones del referido informe se indica la necesidad de ampliar por 12 meses, esto es, hasta el próximo 30 de noviembre de 2023, el plazo para la obtención de la resolución de Autorización de Funcionamiento para los servicios de taxis colectivos urbanos existentes en las comunas de Los Ángeles y Tomé, que aún no han finalizado de regularizar su terminal, ello con el objeto de evitar la suspensión de sus servicios, lo cual afectaría gravemente la oferta de transporte público en las comunas indicadas.
+
+3. Que, frente a la situación descrita, por razones de interés superior y para los efectos de atender las necesidades públicas, en forma continua, uniforme, permanente y regular, esta autoridad se ve en la necesidad de prorrogar el plazo para la regularización de los terminales de taxis colectivos en las comunas que se indican en la parte resolutiva del presente acto administrativo.
+
+Resuelvo:
+
+Prorróguese el plazo, solo para los servicios de taxis colectivos urbanos existentes en las comunas de Los Ángeles y Tomé, establecido en la letra b), del resuelvo Nº 2 de la resolución exenta Nº 428, de 30 de noviembre de 2016, y sus respectivas modificaciones, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, hasta el 30 de noviembre de 2023.
+
+Anótese, comuníquese y publíquese en el Diario Oficial.- Claudia Regina García Lima, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
