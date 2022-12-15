@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1161, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.64 y 65, para la obra: MEJORAMIENTO RUTA S-61 SECTOR: MELIPEUCO-ICALMA, que figura a nombre de CAYUQUEO CATILEO ELIAS, rol de avalúo 64-365, Comuna de LONQUIMAY, REGION DE LA ARAUCANÍA, superficies 4.772 y 167 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 15 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $29.657.200 para el lote N°64, y $1.117.400 para el lote N°65. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
