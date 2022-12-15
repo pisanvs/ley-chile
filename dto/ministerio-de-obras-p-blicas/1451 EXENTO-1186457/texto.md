@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1451 de 25 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 125 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de REGLA LEONELLI DELIA MARIANA, rol de avalúo 1438-29 de la comuna de Angol, superficie 2.549 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 23 de 13 de enero de 2021, integrada por María Isabel de Jesús Ríos Marcuello, Yasmín Mercedes Balboa Rojas y María Paulina De la Cuadra Becker, mediante informe de tasación de 25 de febrero de 2021, fijó el monto de la indemnización provisional en la cantidad de $22.266.996 para el lote N° 125. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
