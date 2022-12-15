@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1266, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 11-B y 15-A, para la obra: MEJORAMIENTO RUTA 9, CERRO CASTILLO - BIFURCACION RUTA Y-150, que figuran a nombre de SUC BAUTISTA DEL C CARDENAS PEREZ y CARDENAS BAEZ MARGARITA ESTER Y OTR, roles de avalúo 1020-24 y 1020-26, Comuna de TORRES DEL PAINE, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficies 2.479 y 487 m2. respectivamente. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, HUGO JOSÉ MANSILLA CÁRDENAS y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 31 de enero de 2020, fijó el monto de la indemnización provisional en la cantidad de $3.361.524, para el lote Nº11-B y $695.923, para el lote Nº15-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
