@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.978, de fecha 06/12/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y decreto 61/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación total del bien raíz denominado: "lote 15-4, resultante de la subdivisión de los lotes 15 y 16 resultantes, a su vez, de la subdivisión de un predio de mayor extensión ubicado en la comuna de Pucón", Rol de avalúo: 114-396 (Rol Matriz), 207-260 (Pre Rol lote 15-4), comuna de Pucón. La superficie a expropiar aproximada es de 898,79 metros cuadrados, de aparente dominio de Gabriel Ferrer Dyvinetz. Comisión de Peritos integrada por don Claudio Romo Sanhueza, Arturo Cantos Oyarzún y Mario Gutiérrez Truan, fijó monto de Indemnización Provisional en $150.610.110 según Informe Nº 15-4, de fecha 22 de noviembre de 2022, pagadero contado.-
+
+Director (S) Serviu Región del Biobío.
