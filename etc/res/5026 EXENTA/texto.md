@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 5.026, 6 de diciembre de 2022, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación del inmueble ubicado en B Corral 104 EMP CAP., Rol de Avalúo Nº 279-15, comuna de Concepción, de aparente dominio de Loosli Martínez Vanessa Andrea. La superficie afecta a expropiación parcial es de 32,25 m2 (lote 26), y de 1,96 m2 de expropiación total de edificación y cuyos linderos particulares están enmarcados en el plano S8R 41990-1, para la ejecución de las obras del proyecto "Mejoramiento Avenida Par - Vial Collao - General Novoa" comuna de Concepción, Región del Biobío", conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rodrigo Alexis Escobar Fernández, por arquitecta Paola Loreto Martínez Perucca y por arquitecto Felipe Andrés Castillo Parra, que fijó el monto de la indemnización provisional por la expropiación en la suma de $16.690.417.-
+
+Director (S) Serviu Región del Biobío.
