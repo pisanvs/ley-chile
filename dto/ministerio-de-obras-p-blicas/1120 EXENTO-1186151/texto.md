@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1120, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nº 29 y 34, para la obra: CAMINO ALMAGRO - RULO CARDAL - PUENTE FIERRO, SECTOR KM. 0,60000 AL KM. 8,50000, que figuran a nombre de CONA CANIULAF IRMA DEL CARMEN Y OTR y TRANAMIL CONA JULIO, roles de avalúo 604-279 y 604-310, comuna de NUEVA IMPERIAL, superficies 64 y 132 m2 respectivamente. La Comisión de Peritos integrada por ENEDINA DEL CARMEN CID RAMIREZ, PABLO ALEJANDRO SEPULVEDA GOMEZ y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de fecha 12 de julio de 2011, fijó el monto de la indemnización provisional en la cantidad de $48.000.- para el lote Nº29 y $99.000.- para el lote Nº34. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
