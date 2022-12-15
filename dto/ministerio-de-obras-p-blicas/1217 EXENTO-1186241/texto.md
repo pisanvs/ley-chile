@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1217, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 24 y 25, para la obra: MEJORAMIENTO INTEGRAL QUEBRADA DE PEÑUELAS, que figuran a nombre de SUC GIUSEPPE NICOLODI ZUC Y OTS y WALMART CHILE S.A., roles de avalúo 963-9 y 3906-122, Comuna de LA SERENA, REGIÓN DE COQUIMBO, superficies 2.700 y 1.320 m2. respectivamente. La Comisión de Peritos integrada por PABLO ALEX MANSILLA ARAVENA, CONSTANZA CAMILA VASQUEZ MUÑOZ y CARLOS ALBERTO MONTECINOS GALLEGUILLOS, mediante informe de tasación de 07 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $324.100.000 para el lote Nº24, y $158.400.000, para el lote Nº25. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
