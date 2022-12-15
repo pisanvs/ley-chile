@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1135, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.132, 133, 134 y 135, para la obra: MEJORAMIENTO RUTA INTERCOMUNAL DEL SECANO INTERIOR, que figura a nombre de NARVAEZ CALISTRO RICARDO DANIEL, rol de avalúo 169-237, Comuna de PORTEZUELO, REGION DE ÑUBLE, superficies 687, 242, 1.248 y 2.066 m2 respectivamente. La Comisión de Peritos integrada por VALERIA MARDONEZ LEMA, DORY GISELA DONOSO SALGADO y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 17 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.455.898 para el lote N°132, $2.170.050 para el lote N°133, $3.480.776 para el lote N°134, y $6.928.710 para el lote N°135. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
