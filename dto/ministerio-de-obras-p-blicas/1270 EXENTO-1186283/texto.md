@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1270, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N°82, para la obra: CAMINO MEJORAMIENTO RUTA S-222 HUALACURA LOS BOLDOS, SECTOR HUALACURA LOS BOLDOS, TRAMO KM. 0,000 A KM. 13,49200, que figura a nombre de COLLIO CURINIR HUGO FERNANDO, rol de avalúo 615-311, Comuna de NUEVA IMPERIAL, REGION DE LA ARAUCANÍA, superficie 382.05 m2. La Comisión de Peritos integrada por CESAR NOLBERTO CAMPOS VERGARA, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEJANDRO SEPULVEDA GOMEZ, mediante informe de tasación de fecha 27 de mayo de 2012, fijó el monto de la indemnización provisional en la cantidad de $286.538.- para el lote N° 82. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
