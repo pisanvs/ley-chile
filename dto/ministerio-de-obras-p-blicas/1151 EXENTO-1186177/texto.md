@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1151, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 17, para la obra: MEJORAMIENTO RUTA E-253, LONGOTOMA - ARTIFICIO, que figura a nombre de COOP DE REF AGRARIA ASIG MARIANO AL, rol de avalúo 361-138, Comuna de LA LIGUA, REGIÓN DE VALPARAÍSO, superficie 4.315 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, PEDRO IGNACIO ZEGERS RIESCO y ANGELICA YANETT SEURA ROJAS, mediante informe de tasación de 07 de enero de 2021, fijó el monto de la indemnización provisional en la cantidad de $24.797.428, para el lote Nº17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
