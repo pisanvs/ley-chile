@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1359, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 29-B y 29-C, para la obra: MEJORAMIENTO RUTA 9, CERRO CASTILLO - BIFURCACIÓN RUTA Y-150, que figuran a nombre de GANADERA CERRO GUIDO SOCIEDAD ANONI. roles de avalúo 1020-30, Comuna de TORRES DEL PAINE, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficies 519 y 168 m2, respectivamente. La Comisión de Peritos integrada por CLAUDIA PATRICIA GALLARDO OJEDA, HUGO JOSÉ MANSILLA CÁRDENAS y CAROLINA ULLOA ALVAREZ, mediante informe de tasación de 31 de enero de 2020, fijó el monto de la indemnización provisional en la cantidad de $741.651, para el lote N°29-B y $246.288, para el lote N°29-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
