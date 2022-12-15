@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1228, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL, MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.76, 77, 78, 79 y 80, para la obra: CONSTRUCCION RUPUMEICA ALTO-RUPUMEICA BAJO, que figura a nombre de VASQUEZ QUINILLAO LUIS HERNAN, rol de avalúo 67-237, Comuna de LAGO RANCO, REGION DE LOS RÍOS, superficies 708, 1.577, 372, 1.111 y 115 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 20 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.906.600 para el lote Nº76, $4.837.900 para el lote Nº77, $1.640.200 para el lote Nº78, $4.584.100 para el lote Nº79, y $571.500 para el lote Nº80. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
