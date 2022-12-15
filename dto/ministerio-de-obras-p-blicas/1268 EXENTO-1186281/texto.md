@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1268, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 9-E y 9-F, para la obra: REPOSICIÓN DE PUENTE SENADOR EXEQUIEL GONZALEZ, RUTA-7, SECTOR RÍO PALENA, que figuran a nombre de XIMENA PILAR PRADO URBAN, según inscripción de dominio fs.398, Nº388, CBR CISNES, AÑO 2016, Comuna de CISNES, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficies 2.900 y 1.488 m2. respectivamente. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 06 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $10.860.000, para el lote Nº9-E y $5.800.000, para el lote Nº9-F. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
