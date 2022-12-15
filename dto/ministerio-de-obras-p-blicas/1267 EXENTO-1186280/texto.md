@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1267, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº194, para la obra: AMPLIACIÓN REPOSICIÓN RUTA V-85, SECTOR: CRUCE V-815-HUITO, CALBUCO, que figura a nombre de MUNOZ MUNOZ MARLENE ALEJANDRA Y OTR, rol de avalúo 164-102, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficie 562 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, HANDY GHISLAINE CAMPOS SEPULVEDA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 31 de enero de 2022, fijó el monto de la indemnización provisional en la cantidad de $18.249.000, para el lote Nº194. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
