@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 5.010, de 6 de diciembre de 2022, de Serviu Región del Biobío, ordenó expropiación parcial de terreno inmueble ubicado en Avda. Ignacio Collao Nº 1451, LT-1 sector Collao, Rol de Avalúo Nº 320-343, comuna de Concepción, de aparente dominio de Inmobiliaria e Inversiones Santa Ida, superficie de 118,45 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-41.541-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao / General Novoa", comuna de Concepción, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Patricia Cecilia Palacios González, arquitecta Paola Loreto Martínez Perucca, y arquitecto Felipe Andrés Castillo Parra, según informe de fecha 28.10.2022, fijó monto provisional indemnización en $52.084.141.-
+
+Director Serviu Región del Biobío.
