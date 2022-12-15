@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.981 de fecha 06/12/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 69/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado Inmueble ubicado en calle Nueva Imperial número ciento sesenta, de la comuna de Temuco, de una superficie aproximada de 2.068,18 metros cuadrados (Nueva Imperial N° 180 según SII), Rol de avalúo: 362-115, comuna de Temuco. La superficie a expropiar aproximada es de 2.068,18 metros cuadrados, de aparente dominio de Sucesión intestada de Héctor Fernando Rebolledo Aravena y Juana María Robles Méndez. Comisión de Peritos integrada por Claudio Romo Sanhueza, Arturo Cantos Oyarzún y Mario Gutiérrez Truan, fijó monto de Indemnización Provisional en $504.063.158 según Informe N° 03-0, de fecha 01.12.2022, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
