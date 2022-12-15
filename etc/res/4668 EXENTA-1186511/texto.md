@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.668 de 13 de diciembre de 2022, Serviu III Región de Atacama, conforme D.L. Nº 2186 de 1978, Ley Nº 16.391 y D.S. Nº 51/2022 de V. y U., ordenó la expropiación del inmueble denominado Lote 6a, ubicado en Avenida La Paz Nº 635, Copiapó, rol de avalúo fiscal Nº 98-14, Plano Código CAT-001 denominado "Estudio Final de Expropiación Sector Entrepuentes" y Plano Rectificación Estudio Final de Expropiación Sector Entrepuentes SRAUGS-1935 del 2022 del SERVIU Atacama, de aparente dominio de Maritza del Carmen Berríos Porras, Jeanette de Lourdes Berríos Porras, América Monserrat Berríos Porras, Avelino Fernando Berríos Porras, Johnny Enrique Berríos Porras, Yeny del Rosario Berríos Porras, Abelino Segundo Berríos Oyarce, para ejecución proyecto Construcción Parque Central Diagonal Entrepuentes, Copiapó. Comisión tasadora integrada por Norman Calderón Pontiggia, ingeniero agrónomo, María Pizarro Sandoval, Ingeniero Agrónoma y Ximena Peñaloza Herrero, arquitecta, según informe de 13 de diciembre de 2022, fijó un monto provisional de indemnización de $57.489.710.- pagadera al contado.
+
+Director Serviu III Región Atacama.
