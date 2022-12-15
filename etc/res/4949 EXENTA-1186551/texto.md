@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 4.949, de fecha 06/12/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y decreto 12/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Campos del Sur II, Región de la Araucanía", Serviu Región de la Araucanía ordenó la expropiación total del bien raíz denominado: "Sublote número Tres Dos, resultante de la subdivisión de la hijuela número tres del predio Santa Ximena, ubicado en la comuna de Renaico", Rol de avalúo: 68-105, comuna de Renaico. La superficie a expropiar aproximada es de 35.100 metros cuadrados, de aparente dominio de Sociedad Agrícola Los Notros Limitada. Comisión de Peritos integrada por don Marcelo Melo Rodríguez, Constanza Mihoevic González, Fernando Diez Raash, fijó monto de Indemnización Provisional en $183.314.559 según Informe N° 08-0, de fecha 1 de diciembre de 2022, pagadero contado.-
+
+Director (S) Serviu Región del Biobío.
