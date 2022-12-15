@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1337, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.7, 8, 9, 10 y 11, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO RUTA R-95 LIUCURA-ICALMA, que figura a nombre de CANUMIR MILLA ERICA LUZ Y OTROS, rol de avalúo 63-577, Comuna de LONQUIMAY, REGION DE LA ARAUCANÍA, superficies 1.727, 400, 3.464, 153 y 162 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 20 de octubre de 2021, fijó el monto de la indemnización provisional en la cantidad de $6.044.500 para el lote Nº7, $2.060.000 para el lote Nº8, $12.124.000 para el lote Nº9, $535.500 para el lote Nº10, y $567.000 para el lote Nº11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
