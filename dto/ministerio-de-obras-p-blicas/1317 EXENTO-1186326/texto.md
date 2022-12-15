@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1317 de 16 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 9-2 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 4: VARIANTE COIHUE - VARIANTE RENAICO, Región del Biobío, que figura a nombre de AGRICOLA RIHUE LIMITADA, rol de avalúo 71-2 de la comuna de Negrete, superficie 1.130 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 257 de 14 de julio de 2022, integrada por Tatiana Yazmín Gutiérrez Ortiz, Miguel Juan Fernández Cádiz y Valeria Francisca Madariaga Tordecilla, mediante informe de tasación de 31 de agosto de 2022, fijó el monto de la indemnización provisional en la cantidad de $4.294.000 para el lote N° 9-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
