@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1287, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.77, 79 y 80, para la obra: MEJORAMIENTO RUTA INTERCOMUNAL DEL SECANO INTERIOR, que figura a nombre de MUNOZ MOLINA LORENA INES, FORESTAL CHOLGUAN S A y MOYA GATICA FRESIA DEL CARMEN, roles de avalúo 148-750, 149-343 y 148-409, Comuna de NINHUE, REGION DE ÑUBLE, superficies 345, 323 y 2326 m2 respectivamente. La Comisión de Peritos integrada por VALESKA ALÉ GOÑI, MARCELA PAZ QUINTANA DAURÉ y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 21 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $2.549.870 para el lote N°77, $389.443 para el lote N°79, y $14.121.348 para el lote N°80. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
