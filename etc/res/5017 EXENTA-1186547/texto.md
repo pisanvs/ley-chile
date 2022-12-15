@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 5.017, de 6 de diciembre de 2022, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Collao 1625, Rol de Avalúo Nº 320-23, comuna de Concepción, de aparente dominio de Careaga Herrera Yolanda Graciela y otros, en una superficie de 92,79 m2 de terreno y 217,96 m2 de edificación, conforme al plano S8R-40.075-2, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el ingeniero civil Orlando Paredes Vásquez, por la arquitecto Paola Martínez Perucca y por el arquitecto Felipe Castillo Parra, según informe de fecha 22 de noviembre de 2022, fijó monto provisional indemnización en la suma de $152.415.398, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
