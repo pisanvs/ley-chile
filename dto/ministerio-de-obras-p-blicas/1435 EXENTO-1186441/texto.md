@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1435, de 25 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.15, 16, 17, 18 y 19, para la obra: MEJORAMIENTO RUTA CURANILAHUE - TRONGOL BAJO, que figuran a nombre de VOLTERRA SA, rol de avalúo 503-64, Comuna de CURANILAHUE, REGION DEL BIOBÍO, superficies 443, 693, 1.558, 5.737 y 1.078 m2 respectivamente. La Comisión de Peritos integrada por ROXANA CECILIA ABARZUA GAJARDO, HANDY GHISLAINE CAMPOS SEPULVEDA y GONZALO ANDRÉS SUAZO FIGUEROA, mediante informe de tasación de 03 de septiembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $29.428.153 para el lote N°15, $554.799 para el lote N°16, $1.224.908 para el lote N°17, $10.315.033 para el lote N°18, y $2.732.678 para el lote N°19. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
