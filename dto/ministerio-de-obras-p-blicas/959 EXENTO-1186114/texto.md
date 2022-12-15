@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 959, de 27 de octubre de 2022, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº36, de 24 de marzo de 2022, en la parte que se refiere al Convenio Ad-Referéndum de Indemnización Definitiva de Expropiación, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 415, expropiado con motivo de la obra: REPOSICIÓN PAVIMENTO RUTA L-111-11, SECTOR COLBÚN - PANIMÁVIDA - LINARES, COMUNA DE LINARES, Región del Maule. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 30 de marzo de 2020, ascendente a la cantidad de $13.461.700, para el lote Nº415. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
