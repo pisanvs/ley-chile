@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1366, de 21 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: SERVICIO SANITARIO RURAL LAGUNILLAS, que figura a nombre de AGRICOLA LAS LOBAS LIMITADA, rol de avalúo 164-3, Comuna de CASABLANCA, REGIÓN DE VALPARAÍSO, superficie 100 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, PATRICIA VERÓNICA ZAVALA CONTRERAS y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 11 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $630.000, para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
