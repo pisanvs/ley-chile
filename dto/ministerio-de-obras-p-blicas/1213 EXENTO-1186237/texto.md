@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1213 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 47 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, propietario según inscripción CARMEN REYES RIOSECO, conforme registro propiedad Fs. 4361 Nº 4281 Año 1995 CBR Los Ángeles, sin rol de avalúo, en la comuna de Los Ángeles, superficie 96 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 670 de 29 de diciembre de 2021, integrada por Evaldo Roberto Contreras Roa, Juan Andrés Tepper Lavanderos y Víctor Marcelo Soto Troncoso, mediante informe de tasación de 15 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.287.580 para el lote Nº 47. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
