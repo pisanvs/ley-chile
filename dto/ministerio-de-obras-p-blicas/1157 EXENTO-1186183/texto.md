@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1157, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.12 y 20, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO ACCESO QUILAS BAJAS, que figura a nombre de RAPIMAN VERGARA CRISTINA LORENA y NAHUELPI ANTIL CELINDA DEL CAR, roles de avalúo 311-583 y 311-181, Comuna de FREIRE, REGION DE LA ARAUCANÍA, superficies 120 y 281 m2 respectivamente. La Comisión de Peritos integrada por HANDY GHISLAINE CAMPOS SEPULVEDA, CONSTANZA CAMILA VASQUEZ MUÑOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 18 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.293.050 para el lote N°12, y $2.851.175 para el lote N°20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
