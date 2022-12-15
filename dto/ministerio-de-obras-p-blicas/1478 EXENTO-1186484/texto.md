@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1478, de 28 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 12, para la obra: OBRAS DE REGULACION Y RETENCION EN EL RIO ANDALIEN, que figura a nombre de FORESTAL ARAUCO S.A., rol de avalúo 21286-335, Comuna de CONCEPCION, REGION DEL BIOBÍO, superficie 155.800 m2. La Comisión de Peritos integrada por PATRICIA VERONICA ZAVALA CONTRERAS, CARMEN PILAR RIOS MARCUELLO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 30 de septiembre de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.392.863.200 para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
