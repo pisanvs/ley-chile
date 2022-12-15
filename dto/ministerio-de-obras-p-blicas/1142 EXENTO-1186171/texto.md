@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1142, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 19 y 20, para la obra: MEJORAMIENTO RUTA E-253, LONGOTOMA - ARTIFICIO, que figuran a nombre de BEIZA ABARCA BERNARDO, roles de avalúo 361-213 y 361-139, Comuna de LA LIGUA, REGIÓN DE VALPARAÍSO, superficies 534 y 1.011 m2. respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, PEDRO IGNACIO ZEGERS RIESCO y ANGELICA YANETT SEURA ROJAS, mediante informe de tasación de 07 de enero de 2021, fijó el monto de la indemnización provisional en la cantidad de $3.998.663, para el lote N°19 y $8.589.552, para el lote N°20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
