@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.764, de 24 de noviembre 2022, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Avda. Ignacio Collao 1583, Collao, Rol de Avalúo Nº 320-21, comuna de Concepción, de aparente dominio de Troncoso Campano Morelia Elena, en una superficie de 62,45 m2 de terreno, conforme al plano S8R-40.381-2, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto Alberto Vallette Isla, por la constructor civil Cecilia Abarzúa Gajardo, y por el ingeniero civil industrial Carlos Montecinos Galleguillos, según informe de fecha 04 de noviembre de 2022, fijó monto provisional indemnización, en la suma de $22.687.259, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
