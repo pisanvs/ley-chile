@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1271, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nº 5 y 6, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO 2da FAJA EL VOLCAN, que figura a nombre de INVERSIONES SMLP CHILE LIMITADA, roles de avalúo 314-44 y 313-54 Comuna de VILLARRICA, REGION DE LA ARAUCANÍA, superficie 712 y 3.118 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de fecha 25 de mayo de 2017, fijó el monto de las indemnizaciones provisionales en las cantidades de $7.599.000.- para el lote Nº 5 y $20.651.000.- para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
