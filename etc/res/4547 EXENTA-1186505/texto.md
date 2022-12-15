@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.547 de 6 de diciembre de 2022, Serviu III Región de Atacama, conforme DL Nº 2.186 de 1978, Ley Nº 16.391, y DS Nº 48/2022 de V. y U., ordenó la expropiación parcial de inmueble denominado Lote A (Lote 1 Econssa) ubicado en la comuna de Copiapó, rol de avalúo fiscal Nº 216-3, Plano de Expropiación denominado SRAUGS-1922 Expropiación Lote A Econssa, Copiapó de aparente dominio de Empresa Concesionaria de Servicios Sanitarios S.A., destinados a la implementación del Plan de Emergencia Habitacional en la Región de Atacama para el año 2022, y siguientes. Comisión tasadora integrada por Norman Calderón Pontiggia, ingeniero agrónomo, María Josefina Pizarro Sandoval, Ingeniero Agrónoma y Ximena Peñaloza Herrero, arquitecta, según informe de 5 de diciembre de 2022, fijo un monto provisional de indemnización de $2.220.568.045.- pagadera al contado
+
+Director Serviu III Región Atacama.
