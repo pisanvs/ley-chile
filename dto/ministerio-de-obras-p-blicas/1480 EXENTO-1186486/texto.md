@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1480, de 28 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 7, para la obra: OBRAS DE REGULACION Y RETENCION EN EL RIO ANDALIEN, que figura a nombre de SANHUEZA VALDES FERNANDO ANIBAL, rol de avalúo 21286-936, Comuna de CONCEPCION, REGION DEL BIOBÍO, superficie 90.132 m2. La Comisión de Peritos integrada por PATRICIA ANGELICA MORALES RIVERA, JUAN ANDRES TEPPER LAVANDEROS y ANDRES ANIBAL RISSO CAAMAÑO, mediante informe de tasación de 02 de septiembre de 2022, fijó el monto de la indemnización provisional en la cantidad de $881.514.000 para el lote Nº7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
