@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1368, de 21 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 13C, para la obra: SISTEMA DE AGUA POTABLE RURAL LOS ALMENDROS, que figura a nombre de PEREZ COROSEO GUSTAVO DEL ROSA, rol de avalúo 305-194, Comuna de QUILLOTA, REGIÓN DE VALPARAÍSO, superficie 20 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, PATRICIA VERÓNICA ZAVALA CONTRERAS y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 20 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $632.800, para el lote Nº13C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
