@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1186 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 6-3 para la obra: CONCESIÓN VIAL RUTAS DEL LOA. SECTOR A. RUTA 25, TRAMO ENLACE CARMEN ALTO - CALAMA. KM 0.858,50 A KM 111.860,00, Región de Antofagasta, que figura a nombre de ENAEX S A, rol de avalúo 2005-22 de la comuna de Calama, superficie 568 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) N° 136 de 4 de mayo de 2022, integrada por Carolina Verónica O'Brien Molina, Bárbara Alejandra Portilla Cortés y Rodrigo Iván Carbacho Aedo, mediante informe de tasación de 30 de mayo de 2022, fijó el monto de la indemnización provisional en la cantidad de $42.605.682 para el lote N° 6-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
