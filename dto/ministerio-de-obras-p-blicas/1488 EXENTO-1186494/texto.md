@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1488, de 28 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno D-1 y D-3, para la obra: CONSTRUCCION EMBALSE EMPEDRADO, que figura a nombre de SOC AGRIC Y FORESTAL LOS COIGUES LT y LUNA ESPINOZA RAUL HERNAN, roles de avalúo 295-74 y 295-81, Comuna de EMPEDRADO, REGION DEL MAULE, superficies 17.189 y 2.762 m2 respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 27 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $21.102.200 para el lote D-1, y $9.660.200 para el lote D-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
