@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1365, de 21 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1-A, para la obra: SISTEMA DE AGUA POTABLE RURAL VIÑA LA VEGA, que figura a nombre de GATICA TEJADA JORGE FRANCISCO Y OTR, rol de avalúo 202-145, Comuna de CABILDO, REGIÓN DE VALPARAÍSO, superficie 822,70 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, PATRICIA VERÓNICA ZAVALA CONTRERAS y JUAN ANDRÉS TEPPER LAVANDEROS, mediante informe de tasación de 28 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $1.480.860, para el lote N°1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
