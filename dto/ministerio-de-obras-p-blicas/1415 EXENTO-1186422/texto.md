@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1415, de 22 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.99, 100, 101 y 102, para la obra: MEJORAMIENTO Y CONSTRUCCIÓN RUTA CORRAL-VALDIVIA(PENÍNSULA SN.RAMON), que figura a nombre de FORESTAL ANCHILE LTDA, rol de avalúo 107-58, Comuna de CORRAL, REGION DE LOS RÍOS, superficies 67, 59, 77 y 941 m2 respectivamente. La Comisión de Peritos integrada por PAULO DIAZ VERGARA, CARLOS HUMBERTO BARRIENTOS ORTIZ y EVALDO ROBERTO CONTRERAS ROA, mediante informe de tasación de 24 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $397.400 para el lote Nº99, $129.800 para el lote Nº100, $319.400 para el lote Nº101, y $2.572.700 para el lote Nº102. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
