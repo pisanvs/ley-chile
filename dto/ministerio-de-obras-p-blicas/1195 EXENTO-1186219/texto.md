@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1195 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 189-1 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de FIGUEROA OSSES NELLY DE LA CRUZ, rol de avalúo 1453-102 de la comuna de Angol, superficie 975 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 179 de 24 de mayo de 2022, integrada por Verónica Paz Olivier Valdebenito, Carolina Claudia Verdejo Díaz y Angélica Yanett Seura Rojas, mediante informe de tasación de 15 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $9.065.750 para el lote Nº 189-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
