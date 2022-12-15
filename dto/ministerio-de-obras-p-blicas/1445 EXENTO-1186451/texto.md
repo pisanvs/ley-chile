@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1445, de 25 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.81, 82, 83, 84 y 85, para la obra: MEJORAMIENTO RUTA INTERCOMUNAL DEL SECANO INTERIOR, que figuran a nombre de FORESTAL CHOLGUAN S A, rol de avalúo 149-343, Comuna de NINHUE, REGIÓN DE ÑUBLE, superficies 13.861, 2.314, 124, 4.568 y 1.532 m2 respectivamente. La Comisión de Peritos integrada por VALERIA MARDONEZ LEMA, PEDRO PABLO JOFRÉ ORELLANA y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 18 de agosto de 2021, fijó el monto de la indemnización provisional en la cantidad de $9.478.669 para el lote Nº81, $1.191.296 para el lote Nº82, $235.180 para el lote Nº83, $3.361.816 para el lote Nº84, y $1.155.228 para el lote Nº85. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a la dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
