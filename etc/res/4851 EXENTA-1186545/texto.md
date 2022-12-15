@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.851, de 29 de noviembre de 2022, Serviu Región del Biobío ordenó la expropiación parcial de terreno ubicado en La Violeta 125 Rol de Avalúo N° 279-1, comuna de Concepción, de aparente dominio de Farina García Elías de Jesús. La superficie afecta a expropiación parcial de terreno es de 13,45 m2 (Lote 24) y de 19,32 m2 de expropiación total de edificación y cuyos linderos particulares, enmarcados en el polígono A-B-C-D-E-F-A del plano S8R 41.988-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao-General Novoa" comuna de Concepción, Región del Biobío", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el arquitecto Rodrigo Alexis Escobar Fernández, por el arquitecto Paola Loreto Martínez Perucca y por el arquitecto Felipe Andrés Castillo Parra, que fijó el monto de la indemnización provisional por la expropiación en la suma de $13.985.196.-
+
+Director Serviu Región del Biobío.
