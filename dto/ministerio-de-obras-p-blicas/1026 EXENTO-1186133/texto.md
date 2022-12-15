@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1026, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1, 4 y 20, para la obra: MEJORAMIENTO RUTA H-45-G, SECTOR CUESTA CHADA, que figuran a nombre de INMOBILIARIA BIG FIVE LIMITADA, roles de avalúo 613-76, 613-71 y 613-76, Comuna de MOSTAZAL, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 180, 262 y 1.133 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, VALENTINA ANDREA CHACALTANA SIMS y SERGIO JEREMIAS ORDENES SALINAS, mediante informe de tasación de 20 de mayo de 2022, fijó el monto de la indemnización provisional en la cantidad de $2.251.000 para el lote N°1, $2.943.000 para el lote N°4, y $8.048.000 para el lote N°20. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
