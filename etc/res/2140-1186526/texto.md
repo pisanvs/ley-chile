@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.140, de fecha 21 de noviembre de 2021, del Serviu IV Región de Coquimbo, se ordenó expropiar parcialmente, por causa de utilidad pública, para la ejecución del proyecto "Mejoramiento Avenida Cuatro Esquinas Tramo I más Calle Los Arrayanes, La Serena", ciudad de La Serena, conforme al artículo 51 Ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 15, en plano de expropiación, ubicado en Pasaje Chacabuco 3498, La Serena, Rol de Avalúo N° 298-12, de aparente dominio de Mario Durán Bordones y Elba Patricia Durán Bordones, superficie aprox. de 66,18 m2. Comisión de Peritos conformada por profesionales Miguel Rubio Vega, Francesca Vives Figueroa y Eduardo Tabilo González, según informe de fecha 8 de septiembre de 2022, fijó indemnización provisional en 1.157,55 UF, pagadero al contado.-
+
+Verónica Ibacache Parraguez, Directora (S) Serviu Región de Coquimbo.
