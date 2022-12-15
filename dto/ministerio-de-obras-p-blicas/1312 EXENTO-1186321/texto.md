@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1312 de 16 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 23-1 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR B SUBSECTOR 5: VARIANTE RENAICO - HUEQUÉN, Región de la Araucanía, que figura a nombre de COMUNIDAD INDIGENA EUGENIO ARAYA, rol de avalúo 67-65 de la comuna de Renaico, superficie 2.647 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 171 de 24 de mayo de 2022, integrada por Tatiana Yasmín Gutiérrez Ortiz, Miguel Juan Fernández Cádiz y Valeria Madariaga Tordecilla, mediante informe de tasación de 12 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $9.661.550 para el lote Nº 23-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
