@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.983, de fecha 06/12/2022, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 69/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado Inmueble consistente en el lote trece, de la manzana G, de una superficie de 4.400 metros cuadrados, ubicado en el barrio industrial de Temuco, resultante de la subdivisión del resto del predio denominado fundo Maipo, ubicado en Temuco, Rol de avalúo: 2913-4, comuna de Temuco. La superficie a expropiar aproximada es de 4.400 metros cuadrados, de aparente dominio de Inmobiliaria e Inversiones Invergolden Limitada. Comisión de Peritos integrada por Marcela Melo Rodríguez, Constanza Mihoevic González y Fernando Diez Raasch, fijó monto de Indemnización Provisional en $919.184.112 según Informe Nº 01-0, de fecha 01.12.2021, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
