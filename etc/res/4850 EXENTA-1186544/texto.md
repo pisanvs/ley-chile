@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 4.850, de 29 de noviembre de 2022, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Las Violetas 124, Empart, Rol de Avalúo N° 278-4, comuna de Concepción, de aparente dominio de Clemente Villarroel Limitada, en una superficie de 17,51 m2 de terreno, conforme al plano S8R-41.987-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, por arquitecto Paola Martínez Perucca y por arquitecto Felipe Castillo Parra, según informe de fecha 9 de noviembre de 2022, fijó monto provisional indemnización en la suma de $15.648.494, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
