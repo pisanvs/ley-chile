@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1364, de 16 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.47 y 59, para la obra: MEJORAMIENTO RUTA H-45-G, SECTOR CUESTA CHADA, que figura a nombre de BECERRA DONOSO MARGARITA EUGENIA y CLUB DEPORTIVO JUVENTUD AMERICA PEU, roles de avalúo 137-580 y 600-114, Comuna de MOSTAZAL, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 54 y 41 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, VALENTINA ANDREA CHACALTANA SIMS y SERGIO JEREMIAS ORDENES SALINAS, mediante informe de tasación de 05 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $6.363.800 para el lote Nº47, y $3.236.600 para el lote Nº59. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
