@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1196 de 9 de noviembre de 2022, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c) y 105º del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 100-2 para la obra: MEJORAMIENTO RUTA NAHUELBUTA SECTOR A SUBSECTOR 2: RUTA 5 - PUENTE COIHUE, Región del Biobío, que figura a nombre de VELOSO CASTILLO MARGARITA TRANSITO, rol de avalúo 1563-17 de la comuna de Los Ángeles, superficie 1.091 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía (Exenta) Nº 153 de 11 de mayo de 2022, integrada por Marlene Teresa Ríos Marcuello, Helmuth Felipe Alarcón Villegas y Jesús Fernando Díaz Pasmiño, mediante informe de tasación de 17 de junio de 2022, fijó el monto de la indemnización provisional en la cantidad de $11.406.600 para el lote Nº 100-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
