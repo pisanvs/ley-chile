@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1051, de 04 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.63 y 64, para la obra: MEJORAMIENTO RUTA H-45-G, SECTOR CUESTA CHADA, que figura a nombre de ARMIJO MENA SERGIO ENRIQUE y ARMIJO MENA SERGIO ENRIQUE, roles de avalúo 137-446 y 137-446, Comuna de MOSTAZAL, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 77 y 33 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, VALENTINA ANDREA CHACALTANA SIMS y SERGIO JEREMIAS ORDENES SALINAS, mediante informe de tasación de 05 de julio de 2022, fijó el monto de la indemnización provisional en la cantidad de $4.937.340 para el lote N°63, y $1.789.860 para el lote N°64. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
