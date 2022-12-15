@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 1.542, del 06 de diciembre de 2022, Serviu Región de Ñuble ordenó expropiación de inmueble ubicado Los Crisantemos 10, Pueblo Seco, comuna de San Ignacio, Rol de Avalúo N° 602-193, de aparente dominio de Constructora Iraira Limitada. La superficie afecta a expropiación parcial de Terreno de 22.288,40 m2 (Lote 1) y cuyos linderos particulares están enmarcados en el plano S16R-218, para implementación del Plan de Emergencia Habitacional en la Región de Ñuble, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por el Arquitecto don Andrés Javier Tobar Beluzán, el Arquitecto don Juan Felipe King Domínguez, y por el Arquitecto don Daniel Chandía Marín, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $269.726.038.- Director Serviu Región de Ñuble.
+
+.
