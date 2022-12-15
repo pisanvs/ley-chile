@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1121, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 35 y 37, para la obra: MEJORAMIENTO RUTA E-253, LONGOTOMA - ARTIFICIO, que figuran a nombre de INVERSIONES E INMOBILIARIA OSHUM SP, roles de avalúo 361-217, Comuna de LA LIGUA, REGIÓN DE VALPARAÍSO, superficies 63 y 654 m2. respectivamente. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEJO DÍAZ, IRMA ELIANA DEL CARMEN DIAZ RIVEROS y JUAN ROBERTO HONORATO ERRAZURIZ, mediante informe de tasación de 17 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $572.229, para el lote N°35 y $2.673.879, para el lote N°37. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
