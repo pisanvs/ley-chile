@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1422, de 25 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 18, para la obra: MEJORAMIENTO RUTA X-608, CRUCE TENIENTE VIDAL - LAGO ATRAVESADO, que figura a nombre de OSCAR MAURICIO AVENDAÑO TORRES, según inscripción de dominio FS.39, N°23, CBR COYHAIQUE, AÑO 2017, Comuna de COYHAIQUE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 340 m2. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 08 de abril de 2021, fijó el monto de la indemnización provisional en la cantidad de $1.417.200, para el lote N°18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
