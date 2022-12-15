@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1409, de 22 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.15 y 16-A, para la obra: MEJORAMIENTO RUTA 208 LA UNION -RAPACO, que figura a nombre de GARCIA VINUELA RAUL y IRIBARNE ONATE JUAN CARLOS, roles de avalúo 538-386 y 548-17, Comuna de LA UNION, REGION DE LOS RÍOS, superficies 110 y 150 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 22 de diciembre de 2021, fijó el monto de la indemnización provisional en la cantidad de $685.500 para el lote Nº15, y $1.338.000 para el lote Nº16-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
