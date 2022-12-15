@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1171, de 09 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DEL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 249, para la obra: AMPLIACION REPOSICION RUTA V-85, SECTOR: CRUCE V-815-HUITO, CALBUCO, que figura a nombre de OYARZUN MANSILLA MARIA ALICIA Y OTR, rol de avalúo 174-61, Comuna de CALBUCO, REGIÓN DE LOS LAGOS, superficie 1.084 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, HANDY GHISLAINE CAMPOS SEPULVEDA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 09 de febrero de 2022, fijó el monto de la indemnización provisional en la cantidad de $4.953.200, para el lote N°249. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
