@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1489, de 28 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno D-41, D-42 y D-47, para la obra: CONSTRUCCION EMBALSE EMPEDRADO, que figura a nombre de ESPINOZA FUENTEALBA LUIS RAFAE, ROJAS MENDEZ LUIS y ESPINOZA BECERRA MARIA FILOMENA, roles de avalúo 297-87, 297-68 y 297-194, Comuna de EMPEDRADO, REGION DEL MAULE, superficies 5.287, 1.650 y 2.909 m2 respectivamente. La Comisión de Peritos integrada por NICOLAS ALEJANDRO ALARCON SANCHEZ, SERGIO JEREMIAS ORDENES SALINAS y JESUS FERNANDO DIAZ PASMIÑO, mediante informe de tasación de 27 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $13.565.550 para el lote D-41, $4.534.500 para el lote D-42, y $8.639.750 para el lote D-47. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
