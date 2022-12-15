@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1464, de 25 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1 y 2, para la obra: DISEÑO, REPOSICIÓN Y AMPLIACIÓN SISTEMA DE AGUA POTABLE RURAL HUERTOS FAMILIARES, que figuran a nombre de PAREDES PINCOL JOSE EUGENIO y AGUILANTE AYNOL JOSE ARMANDO, roles de avalúo 1004-23 y 1004-808, Comuna de NATALES, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA, superficies 5.751 y 597 m2. respectivamente. La Comisión de Peritos integrada por MIGUEL JUAN FERNANDEZ CADIZ, PATRICIA ANGELICA MORALES RIVERA y VICTORIA ADRIANA BLANCO COSTA, mediante informe de tasación de 27 de octubre de 2022, fijó el monto de la indemnización provisional en la cantidad de $44.280.500, para el lote Nº1 y $5.129.500, para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
