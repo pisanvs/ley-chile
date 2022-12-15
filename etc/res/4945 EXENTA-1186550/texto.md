@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.945, de fecha 06/12/2022, conforme al artículo 51 ley 16.391, DL 2.186/1978 y decreto 62/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación total del bien raíz denominado: "Predio urbano de aproximadamente 5.000 metros cuadrados, ubicado en la Población Paredes de esta comuna" (hoy de una superficie de 2.500 metros cuadrados), Rol de avalúo: 1027-2, comuna de Temuco. La superficie a expropiar aproximada es de 2.500 metros cuadrados, de aparente dominio de Sucesión de José Matías Serrano Serra, sucesión de Rosa Serrano Serra, sucesión de Nieves María Serrano Serra, sucesión de Salvadora Isabel Serrano Serra y Eulalia Serrano Serra. Comisión de Peritos integrada por don Marcelo Melo Rodríguez, Constanza Mihoevic González y Fernando Diez Raash, fijó monto de indemnización Provisional en $433.478.871, según informe Nº 03-0, de fecha 1 de diciembre de 2022, pagadero contado.-
+
+Director (S) Serviu Región del Biobío.
