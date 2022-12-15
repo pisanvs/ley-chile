@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1443, de 25 de noviembre de 2022, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.30 y 34, para la obra: MEJORAMIENTO RUTA J-80, SECTOR CRUCE RUTA J-60 (HUALAÑE) - CRUCE RUTA COSTERA, que figura a nombre de ALVAREZ NAVARRO CRIMILDA DE LAS MER y SANCHEZ ALVAREZ MISAEL Y OTROS, roles de avalúo 151-36 y 151-16, Comuna de HUALAÑE, REGION DEL MAULE, superficies 428 y 362 m2 respectivamente. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 08 de julio de 2021, fijó el monto de la indemnización provisional en la cantidad de $5.367.000 para el lote N°30, y $2.291.000 para el lote N°34. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
