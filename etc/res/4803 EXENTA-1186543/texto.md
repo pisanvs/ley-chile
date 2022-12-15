@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.803, de 28 de noviembre de 2022, Serviu Región del Biobío ordenó expropiación total de un inmueble y de edificación, ubicado en camino a Coronel Nº 3055, sector Las Islas Km. 7, Rol de Avalúo Nº 15008-36, comuna San Pedro de la Paz, de aparente dominio de Sucesión Torres Salgado Carlos Segundo, superficie de terreno 55.553,00 m² (5,5 ha) y superficie edificación 339 m² dentro de polígono y linderos señalados plano de expropiación S8R-42654-2, para la ejecución de las obras asociadas a futuros proyectos de Programas Habitacionales del Fondo Solidario de Elección de Vivienda del DS Nº 49 del año 2011 del Ministerio de Vivienda y Urbanismo u otros enmarcados dentro del Plan de Emergencia Habitacional del mismo Ministerio. Comisión Peritos integrada por ingeniero civil Orlando Javier Paredes Vásquez, constructora civil María Soledad Silva Hernández y arquitecto Juan Felipe King Domínguez según informe de fecha 15.11.2022, fijó monto provisional indemnización en $3.664.310.766.-
+
+Director Serviu Región del Biobío.
