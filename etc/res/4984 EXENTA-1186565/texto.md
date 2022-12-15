@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.984, de fecha 06/12/2022, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 60/2022 de Vivienda y Urbanismo, para destinarlo al Proyecto "Plan de Emergencia Habitacional", Serviu Región de la Araucanía ordenó la expropiación del bien raíz denominado Lote cinco Enriqueta, de una superficie de veintiocho mil quinientos ochenta metros cuadrados, resultante de la fusión de los lotes B Uno, lote Cuatro, lote Dos-A y lote Dos-B, que forman parte del resto del inmueble ubicado en el lugar Llahuallin, Rol de avalúo: 3365-555, comuna de Padre Las Casas. La superficie a expropiar aproximada es de 27.742,94 metros cuadrados, de aparente dominio de Lisandro Federico Paulsen Gutiérrez. Comisión de Peritos integrada por Claudio Romo Sanhueza, Arturo Cantos Oyarzún y Mario Gutiérrez Truan, fijó monto de Indemnización Provisional en $1.719.376.819 según Informe Nº 05-0, de fecha 01.12.2022, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
