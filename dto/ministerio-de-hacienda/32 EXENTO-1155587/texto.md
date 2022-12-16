@@ -56,21 +56,25 @@ BENEFICIARIOS
 
 Personas Elegibles.
 
-Podrán optar a financiamientos con Garantías de Reactivación las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 1.000.000 de Unidades de Fomento (en adelante, "UF"). Para efectos de este Reglamento, se entenderán comprendidos dentro del concepto de empresas o empresarios, los establecimientos de educación superior; los establecimientos educacionales de educación parvularia, básica y media; y los sostenedores de estos establecimientos.
+Podrán optar a financiamientos con Garantías de Reactivación las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 100.000 de Unidades de Fomento (en adelante, "UF"). Con todo, los empresarios y empresas con ventas netas anuales que excedan de 25.000 UF, solo podrán optar a financiamientos con Garantía de Reactivación en la medida que sus ventas se hubieren visto disminuidas conforme a lo indicado en el artículo 3 siguiente. Para efectos de este Reglamento, se entenderán comprendidos dentro del concepto de empresas o empresarios, los establecimientos de educación superior; los establecimientos educacionales de educación parvularia, básica y media; y los sostenedores de estos establecimientos.
 
 Asimismo, para efectos de este Reglamento, se entenderán por "empresas" a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía de Reactivación, de acuerdo con lo que se establece en el artículo 3 siguiente.
 
 #### Artículo 3
 
-Elegibilidad por Ventas.
+Elegibilidad por Ventas y Requisito Adicional para Empresas con Ventas Superiores a 25.000 UF.
 
-Las ventas anuales a que se refiere el inciso primero del artículo 2, corresponderán a las ventas netas del impuesto al valor agregado (IVA) de los bienes, productos o servicios propios del giro de la empresa, y podrán medirse alternativamente en cualquiera de los siguientes períodos: i) en los doce meses inmediatamente anteriores a la fecha en que se otorga el financiamiento, ii) entre el 1 de octubre de 2018 y el 30 de septiembre de 2019, iii) en el año calendario 2019, o iv) en el año calendario 2020.
+Las ventas anuales a que se refiere el inciso primero del artículo 2, corresponderán a las ventas netas del Impuesto al Valor Agregado (IVA) de los bienes, productos o servicios propios del giro de la empresa, y podrán medirse alternativamente en cualquiera de los siguientes períodos: i) en los doce meses inmediatamente anteriores a la fecha en que se otorgue el financiamiento; ii) entre el 1 de octubre de 2018 y el 30 de septiembre de 2019; iii) en el año calendario 2019; o iv) en el año calendario 2020.
 
-La estimación de ventas y su calificación como empresa, independiente de su naturaleza jurídica, deberá ser realizada por la institución financiera que otorga los financiamientos.
+Adicionalmente, para efectos de las Bases de Fogape-Reactivación, las empresas cuyas ventas netas anuales excedan de 25.000 UF, bajo la alternativa de medición que se utilice conforme al inciso anterior, solo podrán optar a financiamientos con Garantía de Reactivación en la medida que sus ventas, determinadas conforme a la alternativa de medición utilizada, se hubiesen visto disminuidas en, al menos, un 10% respecto de las ventas netas anuales de: i) los doce meses inmediatamente anteriores al periodo utilizado para medir sus ventas conforme al inciso anterior; o ii) los 12 meses comprendidos entre el 1 de octubre de 2018 y el 30 de septiembre de 2019.
 
-El Administrador del Fogape podrá facilitar un mecanismo de consulta de elegibilidad por tamaño de empresas a la mencionada institución financiera. Para acceder a dicho mecanismo, la institución financiera deberá ingresar al sistema de información del Fondo, el cual consultará el rango de ventas al Servicio de Impuestos Internos (en adelante, el "SII"). El resultado positivo de esta consulta bastará como acreditación suficiente de la elegibilidad de la empresa.
+La estimación de ventas, la verificación del requisito de disminución en las ventas, si fuese aplicable, y su calificación como empresa, independiente de su naturaleza jurídica, deberá ser realizada por la institución financiera que otorga los financiamientos.
 
-Respecto de las microempresas informales, empresas con inicio de actividades inferior a 12 meses a la fecha de la solicitud, empresas exentas de pago de IVA o sometidas a tributaciones especiales, como renta presunta u otra, y todos los casos en los cuales la consulta al SII no proporcione información, las ventas podrán ser estimadas por la respectiva institución financiera al momento de su evaluación. En estos casos, cada institución financiera deberá requerir a la empresa elegible, para ser incluida en la carpeta de cada operación, una declaración jurada simple respecto del nivel de ventas anuales estimado para esas empresas.
+El Administrador del Fogape podrá facilitar un mecanismo de consulta de elegibilidad por tamaño de empresas a la mencionada institución financiera. Para acceder a dicho mecanismo, la institución financiera deberá ingresar al sistema de información del Fondo, el cual consultará el rango de ventas al Servicio de Impuestos Internos (en adelante el "SII"). El resultado positivo de esta consulta bastará como acreditación suficiente de la elegibilidad de la empresa. Dicho mecanismo de consulta también podrá ser utilizado, con los mismos efectos, para verificar el cumplimiento del requisito de disminución en las ventas netas anuales, en caso que fuese aplicable.
+
+Respecto de las empresas cuyas ventas netas anuales no excedan de 2.400 UF que no hayan iniciado actividades, empresas con inicio de actividades inferior a 12 meses a la fecha de la solicitud, empresas exentas de pago de IVA o sometidas a tributaciones especiales, como renta presunta u otra, y todos los casos en los cuales la consulta al SII no proporcione información, las ventas podrán ser estimadas por la respectiva institución financiera al momento de su evaluación. En estos casos, cada institución financiera deberá requerir a la empresa elegible, para ser incluida en la carpeta de cada operación, una declaración jurada simple respecto del nivel de ventas anuales estimado para esas empresas.
+
+De la misma manera, en las empresas exentas de pago de IVA, sometidas a tributaciones especiales, como renta presunta u otra, o en las cuales la consulta al SII no proporcione información, el requisito de disminución en las ventas, si fuese aplicable, podrá ser verificado por la respectiva institución financiera al momento de su evaluación, para lo cual deberá requerir a la empresa elegible, para ser incluida en la carpeta de cada operación, una declaración jurada simple en donde ésta declare que sus ventas se han visto disminuidas, conforme a lo indicado en el inciso segundo de este artículo.
 
 #### Artículo 4
 
@@ -82,9 +86,9 @@ a) Micro y Pequeñas Empresas: Empresas cuyas ventas netas anuales no superen la
 
 b) Medianas Empresas: Empresas cuyas ventas netas anuales superen las 25.000 UF y no excedan de 100.000 UF.
 
-c) Empresas Grandes I: Empresas cuyas ventas netas anuales superen las 100.000 UF y no excedan de 600.000 UF.
+c) Eliminado.
 
-d) Empresas Grandes II: Empresas cuyas ventas netas anuales superen las 600.000 UF y no excedan de 1.000.000 UF.
+d) Eliminado.
 
 #### Artículo 5
 
@@ -110,9 +114,9 @@ En caso que el o los financiamientos a amortizar, refinanciar o pre-pagar, no es
 
 2) Medianas Empresas: 50% del saldo deudor de cada financiamiento de hasta 25.000 UF.
 
-3) Grandes Empresas I: 40% del saldo deudor de cada financiamiento de hasta 150.000 UF.
+3) Eliminado.
 
-4) Grandes Empresas II: 40% del saldo deudor de cada financiamiento de hasta 250.000 UF.
+4) Eliminado.
 
 ## Título II
 
@@ -127,8 +131,6 @@ El Administrador del Fondo licitará, total o parcialmente, con cargo a los recu
 El Administrador del Fondo deberá especificar en las Bases Fogape-Reactivación de cada Garantía de Reactivación, conforme a lo establecido en el decreto ley Nº 3.472, de 1980, del Ministerio de Hacienda, y en este Reglamento, las condiciones generales que deberán cumplir las instituciones financieras del artículo 8 de este Reglamento para tener acceso a la Garantía de Reactivación y hacer uso de los recursos comprometidos.
 
 Asimismo, el Administrador del Fondo especificará el mecanismo de selección de las ofertas recibidas. En particular, el Administrador del Fondo podrá seleccionar las ofertas sobre la base de la tasa de utilización global de la garantía, ofrecida por las instituciones financieras participantes, o podrá dejar fija dicha tasa. Se entenderá por la tasa de utilización global de garantía, el porcentaje máximo del total de la cartera que cubrirá la Garantía de Reactivación.
-
-Con todo, en las Bases Fogape-Reactivación el Administrador del Fondo establecerá que el porcentaje del total de garantías a licitar para empresas cuyas ventas netas anuales no excedan 100.000 UF, no podrá ser menor al 50% del monto licitado, y para empresas cuyas ventas netas anuales no excedan de 25.000 UF, no podrá ser menor al 30% del monto licitado. El Administrador del Fondo deberá reportar semestralmente a la CMF los porcentajes asignados.
 
 #### Artículo 8
 
@@ -196,13 +198,13 @@ a) Micro y Pequeñas Empresas: 85% del saldo deudor de cada financiamiento de ha
 
 b) Medianas Empresas: 80% del saldo deudor de cada financiamiento de hasta 25.000 UF.
 
-c) Grandes Empresas I: 70% del saldo deudor de cada financiamiento de hasta 150.000 UF.
+c) Eliminado.
 
-d) Grandes Empresas II: 60% del saldo deudor de cada financiamiento de hasta 250.000 UF.
+d) Eliminado.
 
-El aumento al límite m�ximo de financiamiento de conformidad al inciso final del artículo anterior no afectará los límites de cobertura.
+El aumento al límite máximo de financiamiento de conformidad al inciso final del artículo anterior no afectará los límites de cobertura.
 
-Sin perjuicio de lo anterior, en caso de micro, pequeñas y medianas empresas los límites de cobertura serán de 90% del saldo deudor de cada financiamiento cuando, al menos uno de los giros de la empresa, registrado ante el Servicio de Impuestos Internos, corresponda a:
+Sin perjuicio de lo anterior, los límites de cobertura serán de 90% del saldo deudor de cada financiamiento cuando, al menos uno de los giros de la empresa, registrado ante el Servicio de Impuestos Internos, corresponda a:
 
 1. Servicios de transporte de escolares (492210).
 
@@ -278,8 +280,6 @@ Sin perjuicio de lo anterior, en caso de micro, pequeñas y medianas empresas lo
 
 37. Peluquería y otros tratamientos de belleza (960200).
 
-> **Nota.** El numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone que la modificación introducida al inciso tercero del presente artículo 14° entrará en vigencia a partir de la publicación en el Diario Oficial del citado decreto, esto es, el 26.06.2021.
-
 #### Artículo 15
 
 Otras Condiciones de los Financiamientos con Garantías de Reactivación.
@@ -292,7 +292,7 @@ Cada institución financiera será responsable por la decisión de otorgar finan
 
 Finalmente, los financiamientos que cuenten con la Garantía de Reactivación, deberán cumplir con las siguientes condiciones copulativas:
 
-a) El plazo de dichos financiamientos será de máximo 7 años, sin perjuicio de la posibilidad de otorgar, dentro de dicho plazo máximo, flexibilidades o modalidades de pagos intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar, para deudores que desarrollen actividades con flujos de ingresos estacionales o variables o dedicados al sector agrícola, inmobiliario, entre otros.
+a) El plazo de dichos financiamientos para empresas cuyas ventas netas anuales no excedan de 100.000 UF será de máximo 12 años, incluido en dicho plazo al menos 6 meses de gracia para el pago de la primera cuota, sin perjuicio de la posibilidad de otorgar flexibilidades o modalidades de pagos intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar, para deudores que desarrollen actividades con flujos de ingresos estacionales o variables o dedicados al sector agrícola, inmobiliario, entre otros. Con todo, en el caso de las mencionadas empresas que tengan dentro de sus giros registrados ante el Servicio de Impuestos Internos, a lo menos uno de los giros mencionados en el inciso final del artículo 14, el plazo de gracia para el pago de la primera cuota deberá ser de, al menos, 12 meses, los que se entenderán incluidos dentro del plazo máximo de 12 años del financiamiento. El período de gracia será calculado sobre la base de meses de 30 días, por tanto, éste no podrá tener una duración menor a 180 o 360 días, según corresponda, y no afectará el cobro de los intereses devengados durante la vigencia del financiamiento. Sin perjuicio de lo anterior, no procederán los periodos de gracia antes indicados cuando se otorguen créditos contingentes o cuando la empresa solicitante del financiamiento con Garantía Reactivación declare expresamente, de forma oral o escrita, que le fue informado que tiene derecho al plazo de gracia y que renuncia a ese derecho. Corresponderá a la institución financiera otorgante acreditar la respectiva declaración a través de documentos escritos, grabaciones de voz u otros medios físicos o digitales.
 
 b) Las instituciones financieras no podrán establecer costo alguno para el pre-pago de estas obligaciones.
 
@@ -302,15 +302,15 @@ d) No podrán ser otorgados a empresas que estén sujetas a alguno de los proced
 
 e) No podrán ser otorgados a empresas que se encuentren con clasificación individual de riesgo dentro de las carteras de sus respectivos acreedores, cuando estén clasificadas como cartera deteriorada, salvo que se trate de un refinanciamiento conforme al artículo 6 del presente reglamento.
 
-f) El plazo de dichos financiamientos para empresas cuyas ventas netas anuales excedan de 100.000 UF será de máximo 7 años, sin perjuicio de la posibilidad de otorgar, dentro de dicho plazo máximo, flexibilidades o modalidades de pagos intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar, para deudores que desarrollen actividades con flujos de ingresos estacionales o variables o dedicados al sector agrícola, inmobiliario, entre otros.
+f) El plazo de dichos financiamientos para empresas cuyas ventas netas anuales excedan de 100.000 UF será de máximo 12 años, sin perjuicio de la posibilidad de otorgar, dentro de dicho plazo máximo, flexibilidades o modalidades de pagos intermedias que vayan en beneficio del deudor, tales como, a modo ejemplar, para deudores que desarrollen actividades con flujos de ingresos estacionales o variables o dedicados al sector agrícola, inmobiliario, entre otros.
 
-> **Nota.** El inciso tercero del numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone dejar sin efecto el literal f) que se incorpora por la citada norma, a partir del 17 de agosto de 2021.
+> **Nota.** El inciso tercero del numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone dejar sin efecto el literal f que se incorpora por la citada norma, a partir del 17 de agosto de 2021.
 
 #### Artículo 16
 
 Plazo de las Garantías de Reactivación por cada Financiamiento con Garantías de Reactivación.
 
-La vigencia de la Garantía de Reactivación no podrá extenderse por un plazo mayor a 10 años desde su otorgamiento. Si se renegocian deudas caucionadas por las Garantías de Reactivación, el plazo de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada.
+La vigencia de la Garantía de Reactivación no podrá extenderse por un plazo mayor a 12 años desde su otorgamiento. Si se renegocian deudas caucionadas por las Garantías de Reactivación, el plazo de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada.
 
 La renegociación de financiamientos cuya Garantía de Reactivación haya sido pagada por el Fondo sólo podrá efectuarse en condiciones equitativas previamente acordadas con el Administrador del Fondo y con arreglo a las condiciones generales o especiales que éste determine, las cuales, en su caso, deberán ser informadas a las entidades participantes.
 
@@ -340,7 +340,7 @@ Requerimiento de Pago de la Garantía de Reactivación.
 
 En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 500 días siguientes a la fecha en que el deudor debió pagar, para cuyo efecto el acreedor deberá demostrar:
 
-a) Elegibilidad de la empresa: en base al nivel de ventas netas anuales de la empresa, en la manera que establece en el artículo 3 del presente Reglamento.
+a) Elegibilidad de la empresa: en base al nivel de ventas netas anuales y el requisito de disminución en las ventas, establecidos en el artículo 3 del presente Reglamento.
 
 b) Destino de los recursos financiados: bastará con la declaración jurada simple del deudor, o alternativas a la que se refiere el artículo 15 del presente Reglamento.
 
@@ -348,11 +348,7 @@ c) Copia del pagaré, título ejecutivo o instrumento privado de operación de l
 
 d) El inicio de las acciones de cobro.
 
-Se entenderá como inicio de las acciones de cobro, la debida presentación de la demanda ejecutiva y la respectiva notificación al deudor principal, dentro de los plazos legales y las posibles extensiones que puedan otorgarse por ley, especialmente en situaciones de contingencia.
-
-Sin perjuicio de lo anterior, para créditos que el Fondo haya garantizado a micro, pequeñas y medianas empresas, se entenderá por cumplido el requisito del literal d. de este artículo, demostrando la existencia de al menos dos intentos de comunicación de cobro extrajudicial.
-
-> **Nota.** El numeral 2 del Decreto 254 Exento, Hacienda, publicado el 26.06.2021, dispone que el literal c) del presente artículo 20 tendrá efecto retroactivo y será aplicable a los financiamientos con Garantías de Reactivación otorgados con anterioridad a la fecha de publicación del citado Decreto.
+Se entenderá por cumplido el requisito del literal d) de este artículo, demostrando la existencia de, al menos, dos intentos de comunicación de cobro extrajudicial.
 
 #### Artículo 21
 
@@ -374,7 +370,7 @@ El Administrador del Fondo podrá establecer el monto de deducible que deberá s
 
 Este deducible se aplicará a todos los créditos que hayan sido cubiertos por las licitaciones de Garantías de Reactivación.
 
-No obstante lo anterior, no existirá deducible respecto de Garantías de Reactivación que caucionen financiamientos que se otorguen a empresas con ventas netas anuales de hasta 100.000 UF, siempre y cuando dichas empresas no tengan deudas vigentes con la institución financiera al momento de la solicitud del financiamiento con Garantía de Reactivación, salvo que correspondan a deudas de financiamientos con Garantía Covid-19, reguladas de conformidad al decreto exento Nº 130, de 24 de abril de 2020, del Ministerio de Hacienda, o a deudas de financiamientos con Garantías de Reactivación. La institución financiera podrá acreditar esta última condición mediante la emisión de una liquidación de deuda de la empresa solicitante, en la cual deberá constar que la empresa solicitante no mantiene deudas con la institución financiera a la fecha de la solicitud del financiamiento con Garantía de Reactivación.
+No obstante lo anterior, no existirá deducible cuando las empresas no tengan deudas vigentes con la institución financiera al momento de la solicitud del financiamiento con Garantía de Reactivación, salvo que correspondan a deudas de financiamientos con Garantía Covid-19, reguladas de conformidad al decreto exento Nº 130, de 24 de abril de 2020, del Ministerio de Hacienda, o a deudas de financiamientos con Garantías de Reactivación. La institución financiera podrá acreditar esta última condición mediante la emisión de una liquidación de deuda de la empresa solicitante, en la cual deberá constar que la empresa solicitante no mantiene deudas con la institución financiera a la fecha de la solicitud del financiamiento con Garantía de Reactivación.
 
 #### Artículo 23
 
@@ -432,7 +428,7 @@ En todo lo no previsto en el presente Reglamento, regirán las disposiciones del
 
 Vigencia.
 
-El presente Reglamento entrará en vigencia desde su publicación en el Diario Oficial y regirá hasta el 31 de diciembre de 2028. El cumplimiento de este plazo no afectará la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantía para Pequeños y Medianos Empresarios respecto de las garantías que se hayan otorgado en virtud del presente Reglamento, ni tampoco el plazo de vigencia de las mismas.
+El presente Reglamento entrará en vigencia desde su publicación en el Diario Oficial y regirá hasta el 31 de diciembre de 2033. El cumplimiento de este plazo no afectará la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantía para Pequeños y Medianos Empresarios respecto de las garantías que se hayan otorgado en virtud del presente Reglamento, ni tampoco el plazo de vigencia de las mismas.
 
 #### Artículo segundo
 
