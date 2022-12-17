@@ -1,0 +1,13 @@
+EXTRACTO
+
+Gobierno Regional Aysén, por Res. Ex. N° 1.253, de 28 septiembre 2022, prohibió circulación vehículos relativa a la actividad denominada "Conservación Red Primaria de Aguas Lluvias, Región de Aysén, Año 2022, Coyhaique", y autorizó al contratista Sr. Rubén Recabal Fica, para realizar la siguiente intervención en vía pública:
+
+- Intervención veredón calle Los Coigües, lado sur: Ocupación veredón y media calzada desde calle Los Coigües lado sur hasta paradero locomoción colectiva antes de llegar a calle Las Lengas, para realizar trabajos de demolición de vereda, excavación, instalación de tubería HDPE 450 mm, construcción de 1 sumidero lado sur calzada Los Coigües, relleno con material y reposición de vereda, además rotura de calzada, excavación, instalación tubo HDPE de 450 mm, relleno con material, construcción de 2 sumideros y hormigón R4. El ingreso a calle Las Tepas será desde calle Los Canelos y sólo para los residentes, donde estos deben retornar por calle Las Tepas y desde ahí al resto de la ciudad. Duración de esta obra: 40 días corridos desde aprobada dicha solicitud.
+
+- Intervención calle Los Coigües con calle las Lengas: Posterior a los trabajos realizados en el punto uno señalado anteriormente, se ocupará media calzada de calle Los Coigües, desde calle Las Tepas y hasta calle Las Lengas lado sur, con cortes intermitentes en calle Los Coigües para retiro de escombros y rellenos en sector calle demolida (Los Coigües y atravieso Las Lengas). En este sector se requiere cortar calle Las Lengas producto del atravieso, generando desvíos en calle Las Lengas para subir por Los Canelos y retomar calle Los Coigües por calle Los Calafates. Como también corte de calle Las Lengas con calle Simpson sólo ingreso a residentes. Duración de esta obra: 41 días corridos desde aprobada dicha solicitud.
+
+- Ocupación media calzada calle Los Coigües lado norte: Posterior a los trabajos realizados en el punto señalado anteriormente, se ocupará media calzada lado sur con cortes intermitentes para retiro de escombros y rellenos para la construcción de dos sumideros lado norte por Los Coigües. En este sector se requiere cortar calle Las Lengas producto del atravieso, generando desvío en calle Las Lengas para subir por los Canelos y retomar calle Los Coigües por calle Los Calafates. Como también corte de calle las Lengas con calle Simpson sólo ingreso a residentes. Duración de esta obra: 23 días corridos desde aprobada dicha solicitud.
+
+Se deja establecido que la empresa No deberá trabajar en horarios punta (12:30 hrs. a 14:30 hrs.) y desde las (17:30 hrs. hasta 19:00 hrs.).-
+
+Andrea Macías Palma, Gobernadora Regional, Gobierno Regional de Aysén.- Javier González Jara, Jefe Unidad Jurídica, Gobierno Regional de Aysén.
