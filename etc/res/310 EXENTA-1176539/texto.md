@@ -70,6 +70,8 @@ Resolución:
 
 .
 
+2º Fase de ingreso de proyectos:
+
 La Seremi recibirá los expedientes para el proceso de certificación, desde la fecha de emisión de la presente resolución hasta el día 5 de junio de 2022 a las 23:59 hrs. El proceso de subsanación de expedientes será entre los días 27 de junio de 2021 al 10 de julio de 2022, a las 23:59 hrs.
 
 3. La condición de condominio objeto de atención del programa, será acreditada por la Seremi Minvu correspondiente, en atención a los requisitos señalados en el artículo 89 del DS Nº 27 (V. y U.), de 2016.
