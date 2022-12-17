@@ -546,7 +546,7 @@ El Certificado de Uso sólo aplicará cuando el uso a solicitar corresponda a un
 
 11.5.4.4 Número y momentos de aplicación.
 
-11.5.4.5 Determinación de % eficacia
+11.5.4.5 Determinación de % eficacia. En el caso de programas de control oficial de plagas y enfermedades, el Servicio podrá establecer por resolución fundada los niveles de eficacia que deberán demostrar los plaguicidas sujetos de registro.
 
 11.5.4.6 Métodos de aplicación.
 
@@ -780,7 +780,7 @@ b. Degradación fotoquímica (p).
 
 c. Constante de disociación en medio neutro y, cuando es ionizable, en medios ácidos y alcalinos en rango de pH 4 a 10 (p).
 
-12.2.11. Inflamabilidad (t), para líquidos inflamables o combustibles, y para sólidos gases o sustancias que desprendan gases inflamables.
+12.2.11. Inflamabilidad (t), para l�quidos inflamables o combustibles, y para sólidos gases o sustancias que desprendan gases inflamables.
 
 12.2.12. Corrosividad (t)
 
@@ -1044,7 +1044,7 @@ El Certificado de Uso sólo aplicará cuando el uso a solicitar corresponda a un
 
 13.5.4.4. Número y momentos de aplicación.
 
-13.5.4.5. Determinación de % eficacia
+13.5.4.5. Determinación de % eficacia. En el caso de programas de control oficial de plagas y enfermedades, el Servicio podrá establecer por resolución fundada los niveles de eficacia que deberán demostrar los plaguicidas sujetos de registro.
 
 13.5.4.6. Métodos de aplicación.
 
@@ -1458,7 +1458,7 @@ El Certificado de Uso sólo aplicará cuando el uso a solicitar corresponda a un
 
 15.5.4.3. Dosis (número de emisores/superficie, si corresponde)
 
-15.5.4.4 Determinación de eficacia (% disrupción del apareamiento)
+15.5.4.4 Determinación de eficacia (% disrupción del apareamiento). En el caso de programas de control oficial de plagas y enfermedades, el Servicio podrá establecer por resolución fundada los niveles de eficacia que deberán demostrar los plaguicidas sujetos de registro.
 
 15.5.4.5 Número y momentos de aplicación.
 
@@ -1598,7 +1598,7 @@ Esta obligación entrará en vigor a contar del primer semestre del año 2023, p
 
 29. Los solicitantes de autorizaciones de semioquímicos presentadas bajo la resolución N° 1.557 de 2014, y que al momento de la entrada en vigencia de la presente resolución no hayan iniciado el proceso de evaluación técnica (Etapa II), podrán solicitar al Servicio que sus productos sean evaluados bajo el procedimiento y requisitos de esta norma. El Servicio solicitará por escrito a los titulares de las solicitudes correspondientes, la información faltante, según corresponda, con el objeto de cumplir con los requisitos de la presente resolución.
 
-30. Las feromonas que cuenten con autorización especial en el marco del Control oficial de Lobesia botrana o tengan su soliciud en proceso de tramitación, tendrán un plazo de dos (2) años a partir de la entrada en vigencia de la presente resolución, para ingresar su solicitud de registro en cumplimiento a los requisitos técnicos establecidos en esta resolución, a través del Subdepartamento de Plaguicidas y Fertilizantes y así poder estar en la lista oficial de plaguicidas autorizados. Los titulares que ingresen la solicitud en el plazo indicado, podrán seguir comercializando el insumo hasta que el Servicio se pronuncie en forma definitiva sobre su autorización. Los titulares que no ingresen la solicitud en el plazo, no podrán seguir comercializando el producto al término del plazo de dos (2) años antes mencionado.
+30. Las feromonas que cuenten con autorización especial en el marco del Control oficial de Lobesia botrana o tengan su soliciud en proceso de tramitación, tendrán un plazo de tres (3) años a partir de la entrada en vigencia de la presente resolución, para ingresar su solicitud de registro en cumplimiento a los requisitos técnicos establecidos en esta resolución, a través del Subdepartamento de Plaguicidas y Fertilizantes y así poder estar en la lista oficial de plaguicidas autorizados. Los titulares que ingresen la solicitud en el plazo indicado, podrán seguir comercializando el insumo hasta que el Servicio se pronuncie en forma definitiva sobre su autorización. Los titulares que no ingresen la solicitud en el plazo, no podrán seguir comercializando el producto al término del plazo de dos (2) años antes mencionado.
 
 31. Los semioquímicos autorizados bajo el marco de las resoluciones N° 3.670 de 1999 y N° 1.557 de 2014 y sus modificaciones, estarán obligados a someterse al proceso de actualización de los antecedentes técnicos presentados en el registro original, de acuerdo a los requisitos específicos que establece la presente norma, durante el proceso de renovación de la autorización de dicho producto. En caso de que el titular no presente al Servicio los antecedentes correspondientes, la autorización se considerará expirada en la fecha de término del período respectivo.
 
