@@ -72,7 +72,7 @@ Para estas obras podrán destinar una parte menor del monto presupuestado del pr
 
 ### 3. Fechas del llamado
 
-El Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá seleccionará los postulantes y los respectivos proyectos según fechas de selección indicadas a continuación y a partir de la fecha de publicación del Llamado que se autoriza por la presente resolución y hasta el día 30 de noviembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
+El Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá seleccionará los postulantes y los respectivos proyectos según fechas de selección indicadas a continuación y a partir de la fecha de publicación del Llamado que se autoriza por la presente resolución y hasta el día 30 de diciembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
 
 Este llamado contará con procesos de selección regional, en los cuales podrán ser digitados únicamente en el sistema Rukan los proyectos previamente calificados por la Comisión Técnica Evaluadora - CTE del Serviu Región de Tarapacá.
 
