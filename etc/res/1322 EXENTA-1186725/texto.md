@@ -1,0 +1,9 @@
+RECTIFICA LA RESOLUCIÓN EXENTA Nº 613 DEL SEREMI METROPOLITANO DE VIVIENDA Y URBANISMO, DE FECHA 26 DE MAYO 2021, QUE MODIFICA LA RESOLUCIÓN EXENTA Nº 114 DE ESTA SEREMI DE 2021, EN EL SENTIDO QUE INDICA Y APRUEBA NÓMINA DE POSTULANTES SELECCIONADOS DE LA REGIÓN METROPOLITANA DEL LLAMADO EN CONDICIONES ESPECIALES, PARA PROYECTOS DE EQUIPAMIENTO COMUNITARIO DEL CAPÍTULO PRIMERO DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS, REGULADO POR EL D.S. Nº 27 (V. Y U.) DE 2016
+
+Mediante su resolución exenta Nº 1.322 de fecha 6 de diciembre de 2022, esta Secretaría Ministerial de Vivienda y Urbanismo, rectifica su resolución exenta Nº 613, de fecha 26 de mayo de 2021, que modifica a la resolución exenta Nº 114/2021 y a su vez a la resolución exenta 281/2019, ambas de esta Secretaría Ministerial, en el siguiente sentido: (1) reemplazar la tabla inserta en el Resuelvo 1.1; (2) reemplazar la tabla correspondiente a la nómina de postulantes seleccionados, que forma parte y que se adjunta a la resolución exenta Nº 281-2020 de esta Secretaría Ministerial; (3) reemplazar la tabla inserta en el Resuelvo 3. Junto a lo anterior, imputa el monto de 803,16 UF a los recursos del Programa Habitacional año 2022, autorizados en la Región Metropolitana para el Programa Mejoramiento de Viviendas y Barrios, regulado por el D.S. Nº 27 (V. y U.), de 2016, de acuerdo con la siguiente tabla:
+
+El texto íntegro de la resolución exenta extractada, que contiene las nuevas tablas y las condiciones de esta rectificación, se encuentra disponible en portal de transparencia activa de esta institución:
+
+https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AP025.
+
+Anótese, comuníquese y publíquese.- Rocío Andrade Castro, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo.
