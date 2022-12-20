@@ -174,9 +174,15 @@ Dentro de los 30 (treinta) días hábiles siguientes a la adopción de la decisi
 
 Las instituciones que cuenten con convenio de tramitación electrónica suscrito con la CNA, y manifiesten su voluntad de notificarse de las resoluciones de acreditación a través de las direcciones de correo electrónico declaradas, se entenderán notificadas al día hábil siguiente del envío de la información de que el referido acto administrativo se encuentra disponible en la plataforma de tramitación electrónica. Para tales efectos, las resoluciones de acreditación contarán con firma electrónica avanzada.
 
-#### Artículo 22º
+#### Artículo 22°
 
-Acorde al artículo 59 de la ley 19.880, y a las instrucciones dictadas por la CNA al efecto, la institución podrá interponer un recurso de reposición respecto de la decisión de acreditación, en el plazo de 5 (cinco) días hábiles contados desde la notificación de la resolución que contenga dicha decisión. La Comisión dispondrá de un plazo de 30 (treinta) días hábiles para pronunciarse sobre la reposición.
+Conforme a las instrucciones dictadas por la CNA al efecto, la institución podrá interponer un recurso de reposición respecto de la decisión de acreditación.
+
+Para lo anterior, la institución en el plazo de 5 (cinco) días hábiles contados desde la notificación de la resolución que contenga dicha decisión, deberá realizar una presentación denominada "presentación del recurso de reposición".
+
+Luego, habiéndose interpuesto dentro de ese plazo la aludida presentación y siendo declarada admisible a tramitación por la CNA, la institución contará con un plazo de 10 (diez) días hábiles adicionales para exponer y acompañar los antecedentes que fundamenten el recurso de reposición, denominada "complemento del recurso de reposición".
+
+La Comisión dispondrá de un plazo de 30 (treinta) días hábiles para pronunciarse sobre la reposición, contados desde la presentación de la argumentación complementaria.
 
 #### Artículo 23º
 
