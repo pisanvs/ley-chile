@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 5.304, de fecha 21 de noviembre de 2022, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta Nº 318, de 2022, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "EDC San Luis SpA", cuyo nombre de fantasía es "EDC San Luis", en el sentido de incorporar a continuación de la expresión "La Escuela de Conductores estará ubicada en Avenida Pedro de Valdivia Nº 3474, Local 43B, comuna de Ñuñoa, Región Metropolitana de Santiago" la expresión: "y en su sede ubicada en Avenida Antonio Matta Nº 060, Local 10, comuna de Ñuñoa.".-
+
+Roberto Alexis Santa Cruz González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
