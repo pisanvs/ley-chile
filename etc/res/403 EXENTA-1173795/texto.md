@@ -32,7 +32,7 @@ Resolución:
 
 1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos hasta los días 5 de mayo, 5 de julio, 28 de julio, 30 de agosto, 27 de octubre y 15 de diciembre, todos de 2022, o hasta agotar la totalidad de los recursos dispuestos para cada región, provincia o comuna convocada, según corresponda.
 
-Los grupos organizados que presenten proyectos al cierre del 15 de diciembre de 2022 estarán eximidos de cumplir con esta última condición.
+Los grupos organizados que presenten proyectos al cierre del 27 de diciembre de 2022 estarán eximidos de cumplir con esta última condición.
 
 2. Los recursos involucrados para la selección de postulantes por región, son los siguientes:
 
