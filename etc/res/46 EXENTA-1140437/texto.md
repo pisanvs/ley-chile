@@ -196,13 +196,15 @@ Cuando la carrera o programa se imparta en distintas sedes, jornadas y modalidad
 
 Dentro de los 30 (treinta) días hábiles siguientes a la adopción de la decisión, la institución será notificada de la resolución administrativa que contiene los fundamentos del juicio adoptado. Dicha notificación se efectuará de acuerdo a lo dispuesto en el artículo 46º de la ley Nº 19.880. Las decisiones de acreditación que adopte la Comisión son públicas y se encuentran informadas en el sitio web institucional. Las instituciones que cuenten con convenio de tramitación electrónica suscrito con la CNA y manifiesten su voluntad de notificarse de las resoluciones de acreditación a través de las direcciones de correo electrónico declaradas, se entenderán notificadas al día hábil siguiente del envío de la información de que el referido acto administrativo se encuentra disponible en la plataforma de tramitación electrónica. Para tales efectos, las resoluciones de acreditación contarán con firma electrónica avanzada.
 
-#### Artículo 27º
+#### Artículo 27°
 
-Acorde al artículo 59 de la ley 19.880, y a las instrucciones dictadas por la CNA al efecto, la institución podrá interponer un recurso de reposición respecto de la decisión de acreditación, en el plazo de 5 (cinco) días hábiles contados desde la notificación de la resolución que contenga dicha decisión.
+Conforme a las instrucciones dictadas por la CNA al efecto, la institución podrá interponer un recurso de reposición respecto de la decisión de acreditación.
 
-La Comisión dispondrá de un plazo de 30 (treinta) días hábiles para pronunciarse sobre la reposición, contado desde la fecha de presentación del recurso, o bien, desde la fecha en que se subsanen observaciones al escrito, según el caso.
+Para lo anterior, la institución en el plazo de 5 (cinco) días hábiles contados desde la notificación de la resolución que contenga dicha decisión, deberá realizar una presentación denominada "presentación del recurso de reposición".
 
-Las reposiciones deberán venir suscritas por el representante legal o por la persona especialmente facultada para ello y expresar de manera precisa los aspectos impugnados y fundamentar claramente sus objeciones en base a antecedentes que la Comisión no haya tenido a la vista al momento de resolver. En todo caso, dichos antecedentes deberán ser de fecha anterior o coetánea al proceso de acreditación, considerando como límite la visita de evaluación externa. La Secretaría Ejecutiva deberá informar a la Comisión sobre las solicitudes que no cumplan con estas condiciones.
+Luego, habiéndose interpuesto dentro de ese plazo la aludida presentación y siendo declarada admisible a tramitación por la CNA, la institución contará con un plazo de 10 (diez) días hábiles adicionales para exponer y acompañar los antecedentes que fundamenten el recurso de reposición, denominada "complemento del recurso de reposición".
+
+La Comisión dispondrá de un plazo de 30 (treinta) días hábiles para pronunciarse sobre la reposición, contados desde la presentación de la argumentación complementaria.
 
 #### Artículo 27° bis
 
