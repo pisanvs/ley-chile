@@ -62,7 +62,7 @@ b. Fase de Ejecución de Viviendas y Equipamiento: Corresponderá a la segunda e
 
 Las fases señaladas serán consecutivas, y su desarrollo será conducido por la Entidad Patrocinante del proyecto. Sin perjuicio de lo anterior, se podrá iniciar la Fase de Ejecución de Viviendas antes del término de la Fase Loteo y Urbanización, con autorización del Serviu, cuando las características del proyecto así lo permitan.
 
-3. La selección de los proyectos se realizará mediante resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, la que deberá ser remitida a la División de Política Habitacional dentro de los 10 días siguientes de emitida, para su publicación en el sitio web del Minvu. Se realizarán procesos de selección con los proyectos calificados por el Serviu los días 23 de noviembre y 15 de diciembre de 2022. La selección de proyectos se hará por región y por estricto orden de prelación, siguiendo los siguientes criterios:
+3. La selección de los proyectos se realizará mediante resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, la que deberá ser remitida a la División de Política Habitacional dentro de los 10 días siguientes de emitida, para su publicación en el sitio web del Minvu. Se realizarán procesos de selección con los proyectos calificados por el Serviu los días 23 de noviembre y 27 de diciembre de 2022. La selección de proyectos se hará por región y por estricto orden de prelación, siguiendo los siguientes criterios:
 
 a. En primer lugar, los proyectos que cuenten con permiso de loteo aprobado y cumplan con los requisitos para optar al Subsidio Diferenciado a la Localización.
 
@@ -74,7 +74,7 @@ d. En caso de empate entre los proyectos según los criterios anteriores, se pri
 
 El número de proyectos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 24., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras. El Minvu podrá practicar redistribuciones y/o aumentos, los que serán sancionados mediante resolución. Tratándose de postulaciones de proyectos con familias que fueron beneficiadas anteriormente con un subsidio, y que no recibieron recursos para las labores de Fiscalización Técnica de Obras, y/o cuando se consideren viviendas en nómina de oferta, se asignarán al proyecto los recursos totales que correspondan para todas las viviendas del proyecto, de manera de permitir la fiscalización técnica de las obras del proyecto en su totalidad, a objeto de factibilizar su ejecución.
 
-4. Para participar de cada cierre, además de contar con el Certificado de Calificación respectivo, se requerirá haber ingresado el proyecto al Serviu, a lo menos 14 días hábiles antes de cada fecha indicada en el Resuelvo 3. de esta resolución, lo que constará en el respectivo Certificado de Proyecto Ingresado. Los antecedentes para el ingreso de los proyectos serán los siguientes:
+### 4. Los antecedentes para el ingreso de los proyectos serán los siguientes:
 
 a. Los antecedentes de las familias y grupos, que se requieren para postular colectivamente, de acuerdo al Párrafo I, del Capítulo II del DS Nº 49 (V. y U.), de 2011.
 
@@ -120,7 +120,7 @@ Las tipologías de vivienda que hayan sido evaluadas de acuerdo a las condicione
 
 Las viviendas de proyectos que hayan sido aprobados y calificados en postulaciones anteriores por los Serviu podrán ser considerados vivienda tipo para todos los efectos del presente llamado, sin que sea necesaria una nueva evaluación por parte del Serviu.
 
-Para el caso de viviendas tipo materializadas a través de industrialización aprobadas por Ditec, el Serviu en su revisión podrá verificar solo los antecedentes de las condiciones que son propias de las características geográficas, en el sentido de que estas sean compatibles con las especificaciones técnicas señaladas para la zona en cuestión. De la misma forma podrán participar empresas industrializadoras que trabajen en cada región las que deberán presentar sus proyectos a Serviu para evaluación bajo las condiciones indicadas en el presente llamado, en dicho caso el proceso de industrialización deberá contar con la aprobación de la Ditec.
+Para el caso de viviendas tipo materializadas a través de industrialización aprobadas por Ditec, el Serviu en su revisión podrá verificar solo los antecedentes de las condiciones que son propias de las características geográficas, en el sentido de que estas sean compatibles con las especificaciones técnicas señaladas para la zona en cuestión. De la misma forma podrán participar empresas industrializadoras que trabajen en cada región las que deberán presentar sus proyectos a Serviu para evaluación bajo las condiciones indicadas en el presente llamado, en dicho caso el proceso de industrialización deberá contar con la aprobación de la Ditec, considerándose cumplidas las exigencias del estándar técnico de las viviendas, señaladas en el artículo 43 del DS N° 49, referidas a las características, superficies, dimensiones y espacios de separación mínimos indicados en el Cuadro Normativo de Proyectos Habitacionales y Tabla de Espacios de Usos Mínimos para el Mobiliario.
 
 7. Los antecedentes señalados en el resuelvo 4., serán evaluados por el Serviu en un plazo de hasta 35 días hábiles contados desde la fecha de emisión del Certificado de Proyecto Ingresado, pudiendo emitir observaciones que deberán ser comunicadas a la Entidad Patrocinante, quien tendrá un plazo máximo de 10 días hábiles para su subsanación, luego el Serviu dispondrá de un plazo de 15 días hábiles para calificar el proyecto, si corresponde. Si no se diere respuesta o no se resolvieren las observaciones formuladas, el proyecto será rechazado.
 
@@ -134,7 +134,7 @@ Los proyectos podrán ser ingresados usando metodología BIM (Building Informati
 
 11. Para los efectos del presente llamado, los proyectos podrán cumplir con el Cuadro Normativo de Proyectos Habitacionales y Tabla de Espacios de Usos Mínimos para el Mobiliario al que alude el artículo 43 del DS Nº 49, aprobado por la resolución exenta Nº 6.625 (V. y U.), de 2016, y sus modificaciones, o bien, con el Cuadro Normativo Abreviado anexo en la presente resolución, y que se entenderá parte integrante de ella. Asimismo, se deberá dar cumplimiento al Itemizado Técnico de Construcción para Proyectos del Programa regulado por el DS Nº 49, aprobado por resolución exenta Nº 6.624 (V. y U.), de 2016, y sus modificaciones.
 
-Para este llamado será obligatorio el punto 3 del Cuadro Normativo Abreviado anexo en la presente resolución.
+Para este llamado será obligatorio el punto 3 del Cuadro Normativo Abreviado anexo en la presente resolución, en lo que corresponda
 
 12. El Director del Serviu podrá autorizar excepciones a los requisitos relacionados a las características técnicas de los proyectos, por razones fundadas, en forma previa o con posterioridad su ingreso, cuando a su juicio se garantice una adecuada funcionalidad de los recintos correspondientes y un desempeño similar a los establecidos en la normativa respecto a las soluciones constructivas.
 
