@@ -56,7 +56,7 @@ d) Las personas jurídicas de derecho privado sin fines de lucro a que se refier
 
 Para la aplicación de los subsidios que se otorgan, regirán supletoriamente las disposiciones del DS Nº 49 (V. y U.), de 2011, en todo aquello que no se contraponga con lo dispuesto por la presente resolución.
 
-2. En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 21 de julio, 29 de julio, 30 de agosto, 25 de octubre, 10 de noviembre y 15 de diciembre de 2022, ubicados dentro del área urbana de las regiones y comunas que se indican en la siguiente tabla:
+2. En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 21 de julio, 29 de julio, 30 de agosto, 25 de octubre, 10 de noviembre, 15 de diciembre de 2022 y 27 de diciembre, ubicados dentro del área urbana de las regiones y comunas que se indican en la siguiente tabla:
 
 3. El total de recursos para la selección de proyectos postulantes al presente llamado alcanzará por región los montos en Unidades de Fomento que se señalan en la siguiente tabla:
 
@@ -88,7 +88,7 @@ En estos casos, se aceptarán proyectos que consideren Permisos de Alteración y
 
 Por otra parte, los Serviu, los Gobiernos Regionales y los Municipios podrán postular proyectos de Adquisición de Vivienda Construidas de acuerdo al numeral 4.2 del resuelvo anterior.
 
-5.3. Las Personas Jurídicas sin fines de lucro podrán postular solamente a las intervenciones de Construcción de Viviendas o Rehabilitación de Inmueble Existente, acreditando la constitución de comodato sobre un terreno fiscal, o perteneciente a organismos o empresas públicas, por un plazo compatible para constituir los gravámenes que se señalan en este llamado.
+5.3. Las Personas Jurídicas sin fines de lucro podrán postular solamente a las intervenciones de Construcción de Viviendas o Rehabilitación de Inmueble Existente, acreditando la constitución de comodato sobre un terreno fiscal, o perteneciente a organismos o empresas públicas, por un plazo compatible para constituir los gravámenes que se señalan en este llamado. Para la acreditación antes referida, tratándose de un terreno perteneciente al Serviu, podrá presentarse carta del Director o Directora del Serviu que acredite el compromiso de la entrega del terreno en comodato a la Persona Jurídica, de resultar seleccionada en el Llamado correspondiente.
 
 5.4. Los terrenos o inmuebles sobre los que se desarrollen las intervenciones deberán encontrarse libres de gravámenes, prohibiciones, limitaciones, anotaciones o reclamaciones de cualquier naturaleza. Para la postulación con terrenos en comodato, este último deberá constituirse por un período igual o superior al indicado en el numeral 8.1 del resuelvo 8. de la presente resolución y deberá haber sido entregado para el desarrollo de objetivos compatibles con el presente llamado, por lo que el propietario del terreno no podrá poner término anticipado al comodato si dicha acción afecta las obligaciones adquiridas por el beneficiario.
 
@@ -100,7 +100,7 @@ a) Intervenciones de Construcción de Viviendas y Rehabilitación de Inmueble Ex
 
 i. Certificado de Dominio Vigente y Certificado de Hipotecas, Gravámenes, Interdicciones y Prohibiciones, con indicación de litigios y bien familiar, otorgado por el Conservador de Bienes Raíces respectivo, con una antigüedad no superior a dos meses.
 
-ii. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En los casos que el postulante sea un municipio, deberá presentarse el certificado Municipal de disponibilidad presupuestaria, que considere el resguardo de recursos con el monto del valor de terreno para el presupuesto del año 2023.
+ii. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En los casos en que el postulante sea un Municipio, en reemplazo del Contrato de Promesa de Compraventa, se podrá presentar un Certificado Municipal de disponibilidad presupuestaria, que se refiera de manera expresa al terreno objeto de la postulación y que considere el resguardo de recursos para el presupuesto del año 2023 en un monto equivalente al valor de terreno.
 
 iii. Certificado de factibilidad de dación de servicios, conforme a lo señalado en el literal h) del artículo 10. del DS Nº 49 (V. y U.), de 2011.
 
@@ -128,7 +128,7 @@ Los restantes antecedentes del proyecto podrán ser ingresados una vez seleccion
 
 b) Intervenciones de Adquisición de Vivienda:
 
-i. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años.
+i. Contrato de promesa de compraventa suscrito ante Notario, cuando corresponda, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En los casos en que el postulante sea un Municipio, en reemplazo del Contrato de Promesa de Compraventa, se podrá presentar un Certificado Municipal de disponibilidad presupuestaria, que se refiera de manera expresa al terreno objeto de la postulación y que considere el resguardo de recursos para el presupuesto del año 2023 en un monto equivalente al valor de terreno.
 
 ii. Certificado de No Expropiación Municipal.
 
@@ -146,9 +146,7 @@ viii. Comprobante de ingreso al sistema SIBIS disponible en http://portalsibis. 
 
 ix) Informe Serviu del avance de obras en los casos que se aplique lo dispuesto en el resuelvo 5.7 y carta de oferta presentada por el vendedor.
 
-x) Certificado Municipal de disponibilidad presupuestaria, que considere el resguardo de recursos con el monto del valor de la oferta presentada por el vendedor del inmueble para el presupuesto del año 2023, en los casos que el postulante sea un municipio.
-
-xi) Plan de Administración, Operación y Mantención del Inmueble, de acuerdo al formato establecido por Minvu.
+x) Plan de Administración, Operación y Mantención del Inmueble, de acuerdo al formato establecido por Minvu.
 
 5.6. Dispónese que, atendidas las circunstancias sanitarias que afectan al país actualmente, los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el presente llamado. Con todo, y para proceder a la calificación del proyecto, la Comisión Evaluadora a que se refiere el resuelvo 7. de la resolución exenta citada en el visto j), precedente, podrá solicitar la entrega en un solo acto de los antecedentes físicos del proyecto, con posterioridad a la selección, y en forma previa al inicio de obras.
 
