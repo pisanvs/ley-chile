@@ -3354,7 +3354,7 @@ El siguiente artículo define los usos permitidos y excluidos, en el terreno de 
 
 a) Usos Permitidos: Residencial, Comercio y Oficinas, Equipamiento Turístico, Recreacional y Deportivo, Industria Inofensiva y Areas Verdes.
 
-b) Usos Excluidos: Industria Molesta.
+b) Usos Excluidos: Industria Molesta; black-kitchen, dark-kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y similares; apart-hoteles.
 
 ## Capítulo 6.3.
 
@@ -3594,4 +3594,6 @@ Jaime Márquez Rojas.- Arquitecto, Asesor Urbanista.
 
 > **Nota.** NOTA 5 Los numerales 2.10, 2.11, 2.12 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de eliminar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el cuarto guion de la casilla correspondiente a las actividades permitidas, la actividad «canales de televisión», incorporar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el recuadro correspondiente a las actividades prohibidas, «Edificaciones o locales destinados a: - canales de televisión»
 
-> **Nota.** NOTA 6 El numeral 1.1, 1.2, 1.3, 1.5, 1.7 Y 1.8 del numero 1 del artículo único del Decreto 1039 Exento, Municipalidad de Providencia, publicado 27.07.2019, introduce cambios a los cuadros de los artículos 2.3.03, 5.2.02, 5.2.04, 5.6.01, 6.2.17, 6.2.18 respectivamente en el sentido de incorporar, añadir y modificar las imagenes de la manera que la citada norma indica.
+> **Nota.** NOTA 6 El numeral 1.1, 1.2, 1.3, 1.5, 1.7 y 1.8 del numero 1 del artículo único del Decreto 1039 Exento, Municipalidad de Providencia, publicado 27.07.2019, introduce cambios a los cuadros de los artículos 2.3.03, 5.2.02, 5.2.04, 5.6.01, 6.2.17, 6.2.18 respectivamente en el sentido de incorporar, añadir y modificar las imagenes de la manera que la citada norma indica.
+
+> **Nota.** NOTA 7 Los numerales 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7 y 1.8 del número 1° del Decreto 1739 Exento, Municipalidad de Providencia, publicado el 23.12.2022, introducen modificaciones en la presente norma en los cuadros de los artículos siguientes: 5.6.04; cuadro 32 del artículo 6.2.12; cuadro 34 del artículo 6.2.14; cuadro 35 y 35 BIS del artículo 6.2.15; cuadro 36 del artículo 6.2.16; cuadro 37 del artículo 6.2.17 y cuadro 38 del artículo 6.2.18 del presente decreto, respectivamente, de la manera que la citada norma indica.
