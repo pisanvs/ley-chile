@@ -3564,7 +3564,9 @@ De las Importaciones, Internaciones y Exportaciones de Artificios Pirotécnicos
 
 Toda persona natural o jurídica que se encuentre inscrita como importador o exportador podrá solicitar autorización a la Dirección General para exportar, importar e internar al país Artificios Pirotécnicos, para lo cual se dará cumplimiento a lo establecido en el Título IV del presente Reglamento Complementario.
 
-Los importadores inscritos como comerciantes podrán mantener hasta por dos años contados desde la fecha de internación al país, existencias de Artificios Pirotécnicos para ser comercializados.
+Los importadores inscritos como comerciantes podrán mantener existencias de Artificios Pirotécnicos para ser comercializados por el tiempo de vencimiento establecido por el fabricante, siempre que cumplan con las certificaciones que indica el artículo 306 del presente Reglamento.
+
+> **Nota.** El artículo transitorio del decreto 271, Defensa, publicado el 23.12.2022, establece que las modificaciones que introduce en la presente norma se encontrarán vigentes durante los años 2022 y 2023.
 
 #### Artículo 305
 
@@ -3572,7 +3574,9 @@ Sólo se autorizará la internación de Artificios Pirotécnicos a las empresas 
 
 #### Artículo 306
 
-Los certificados de control emitidos por el Banco de Pruebas de Chile en la inspección de los elementos importados, tendrán una vigencia de seis meses. Vencido este plazo, y antes que se cumpla un año, los importadores podrán solicitar un nuevo análisis, por única vez sin costo, en el que se deberá certificar que los productos mantienen sus condiciones de seguridad.
+Los certificados de control emitidos por el Banco de Pruebas de Chile en la inspección de los elementos importados, tendrán una vigencia de un año contado de la fecha de certificación de los productos. Vencido este plazo, el importador deberá requerir, a su costa, el análisis de los productos que aún se encuentren almacenados a fin de verificar que éstos mantienen sus condiciones de seguridad. Las certificaciones que se efectúen en ningún caso podrán exceder la vigencia prevista en el inciso segundo del artículo 304 de este reglamento.
+
+> **Nota.** El artículo transitorio del decreto 271, Defensa, publicado el 23.12.2022, establece que las modificaciones que introduce en la presente norma se encontrarán vigentes durante los años 2022 y 2023.
 
 ## Capítulo V
 
@@ -3582,7 +3586,9 @@ De los Espectáculos Pirotécnicos
 
 Los Espectáculos Pirotécnicos serán autorizados por la Autoridad Fiscalizadora del lugar donde se efectuará esta actividad, la cual deberá verificar que se cuente con los seguros correspondientes, carta de garantía o resguardo e informe para su instalación, desarrollo y medidas de seguridad, firmado y aprobado por un Programador Calculista, profesional que debe estar acreditado ante la Dirección General.
 
-La persona o empresa que desee efectuar un Espectáculo Pirotécnico deberá solicitar los permisos respectivos con una anticipación de diez días.
+La persona o empresa que desee efectuar un Espectáculo Pirotécnico deberá solicitar los permisos respectivos con una anticipación de 48 horas.
+
+> **Nota.** El artículo transitorio del decreto 271, Defensa, publicado el 23.12.2022, establece que las modificaciones que introduce en la presente norma se encontrarán vigentes durante los años 2022 y 2023.
 
 #### Artículo 308
 
