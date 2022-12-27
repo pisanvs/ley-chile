@@ -38,9 +38,9 @@ Resolución:
 
 Llámase a postulación en condiciones especiales para el Sistema Integrado de Subsidio Habitacional conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, en la alternativa de postulación colectiva con proyecto habitacional, para Proyectos de Integración Social en condiciones especiales, destinado a un programa de vivienda para trabajadores organizados colectivamente en un sindicato o asociación gremial, sean de empresas privadas o públicas, de organismos públicos o municipales, en adelante "el empleador".
 
-La postulación considerará la participación del grupo de trabajadores postulantes y su empleador, lo que se formalizará mediante un Convenio de Trabajo suscrito ante Notario, conforme al formato provisto por el Serviu en que se establecerá la voluntad de llevar adelante el proyecto y las obligaciones de las partes, y presentar un proyecto habitacional.
+La postulación considerará la participación de un grupo de trabajadores que pertenezcan a una o varias organizaciones de trabajadores, sean sindicatos o asociaciones gremiales, y su empleador, lo que se formalizará mediante un Convenio de Trabajo suscrito ante Notario por las partes, organizaciones de trabajadores y el empleador, conforme al formato provisto por el Serviu, en el que se establecerán las obligaciones de las partes, y la de presentar un proyecto habitacional. En el caso de trabajadores de empresas privadas o públicas, la gestión del proyecto podrá ser encargada a una entidad patrocinante externa, previo acuerdo de las partes, lo que deberá quedar estipulado en el Convenio de Trabajo.
 
-El período de postulación será desde la publicación de la presente resolución en el Diario Oficial y hasta las 14:00 hrs. del 30 de noviembre de 2022, período en que los Serviu recibirán directamente los proyectos habitacionales y las nóminas de trabajadores asociados al mismo.
+El período de postulación será desde la publicación de la presente resolución en el Diario Oficial y hasta las 14:00 hrs. del 12 de diciembre de 2022, período en que los Serviu recibirán directamente los proyectos habitacionales y las nóminas de trabajadores asociados al mismo.
 
 ### 2. Recursos del llamado
 
@@ -50,21 +50,25 @@ El número de postulantes seleccionados en cada región, cuando corresponda, alc
 
 ### 3. Requisitos de postulación
 
-3.1. Aporte de terreno
+3.1. Aporte de terreno.
 
-El empleador aportará el terreno en que se desarrollará el proyecto, para lo cual deberá presentar su certificado de dominio vigente y de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años, extendido con no más de 90 días corridos de anticipación a la fecha de postulación o la respectiva promesa de compraventa suscrita ante Notario, cuando corresponda, acompañado de la copia de la inscripción de dominio vigente a nombre del promitente vendedor, con el certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En caso de presentarse una promesa de compraventa, la escritura de compraventa del terreno deberá ser ingresada al Conservador de Bienes Raíces dentro de los 90 días posteriores a la publicación en el Diario Oficial de la resolución que sanciona la selección del presente llamado; de no cumplirse el ingreso al Conservador de Bienes Raíces en el plazo señalado y/o de rechazarse la correspondiente inscripción, se dejará sin efecto la selección del grupo.
+El empleador aportará el terreno en que se desarrollará el proyecto, para lo cual deberá presentar un certificado de dominio vigente y de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años, extendido con no más de 90 días corridos de anticipación a la fecha de postulación, o cuando corresponda, la respectiva promesa de compraventa suscrita ante Notario, acompañado de la copia de la inscripción de dominio vigente a nombre del promitente vendedor, con el certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años. En lugar del certificado de dominio vigente y de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes señalado, podrá presentarse un estudio de título de 10 años suscrito por un Abogado. En caso de presentarse una promesa de compraventa, la escritura de compraventa del terreno deberá ser ingresada al Conservador de Bienes Raíces en el plazo señalado en el Convenio de Trabajo, el que podrá extenderse con autorización del Serviu; de no cumplirse el ingreso al Conservador de Bienes Raíces en el plazo convenido y/o de rechazarse la correspondiente inscripción, se dejará sin efecto la selección del grupo.
 
-El terreno deberá contar con los certificados de factibilidad de dación de servicios correspondientes y con VºBº de un revisor independiente; certificado de no expropiación municipal y certificado de informaciones previas emitido por la Dirección de Obras Municipales respectiva.
+El terreno deberá contar con los certificados de factibilidad de dación de servicios correspondientes y con V°B° de un revisor independiente; certificado de no expropiación municipal y certificado de informaciones previas emitido por la Dirección de Obras Municipales respectiva. En caso de no alcanzar a contar con el V°B° del revisor independiente a la fecha de cierre del llamado, se podrá postergar la entrega del informe hasta 45 días corridos después de la fecha de cierre del llamado.
+
+En el caso de trabajadores de organismos públicos o municipales que participen a través de sus asociaciones gremiales, el proyecto se podrá desarrollar en terrenos fiscales o públicos, los que serán cedidos por el organismo fiscal, público o municipal que corresponda. En este evento, deberá acompañarse un documento, emitido por el Secretario Regional Ministerial de Bienes Nacionales respectivo o del representante legal del organismo público que corresponda, en que se acredite el acto administrativo o carta compromiso en el cual conste la decisión de iniciar el procedimiento regular para la enajenación o transferencia de dicho inmueble al Serviu respectivo, o a quien se determine, en el cual se especificará la localización, lote, deslindes y superficie del terreno, así como el plazo para formalizar el traspaso de terreno.
 
 3.2. Convenio de Trabajo suscrito ante Notario
 
-Se deberá presentar un Convenio de Trabajo suscrito ante Notario, entre el empleador y la organización, sindicato o asociación gremial, que corresponde al grupo que postula, conforme al formato proporcionado por el Serviu.
+Se deberá presentar un Convenio de Trabajo suscrito ante Notario, entre el empleador y la o las organizaciones de trabajadores, sindicatos o asociaciones gremiales, en adelante también "la organización", a que corresponde al grupo que postula.
 
 El Convenio de Trabajo deberá considerar a lo menos, lo siguiente:
 
 a) Identificación del terreno que aporta el empleador.
 
-b) Compromiso de cesión del terreno en que se desarrollará el proyecto al grupo de trabajadores postulantes. En caso de haberse presentado con promesa de compraventa, deberá quedar estipulado, en el Convenio, el compromiso de cesión del terreno una vez que sea adquirido por el empleador.
+b) Compromiso de cesión del terreno en que se desarrollará el proyecto. En caso de haberse presentado con promesa de compraventa, deberá quedar estipulado, en el Convenio, el compromiso de cesión del terreno una vez que sea adquirido por el empleador.
+
+Tratándose de terrenos fiscales o públicos, deberá acompañarse documento emitido por el Secretario Regional Ministerial de Bienes Nacionales respectivo o del representante legal del organismo público que corresponda, en que se acredite el acto administrativo o carta compromiso en el cual conste la decisión de iniciar el procedimiento regular para la enajenación de dicho inmueble al Serviu respectivo o a quien se determine, en el cual se especificará la localización, lote, deslindes y superficie del terreno, así como el plazo para formalizar el traspaso de terreno.
 
 c) Número de trabajadores que considera el proyecto, señalando el número de trabajadores que pertenecen al sindicato o asociación gremial y quienes no son parte de estas organizaciones, pero pertenecen a la misma institución empleadora.
 
@@ -72,17 +76,21 @@ d) Características del proyecto: tipo de proyecto, tipología de viviendas, can
 
 e) Otros aportes del empleador, de los trabajadores y la forma de materializarlos.
 
-f) Conformación del Equipo o Comité de Proyecto, el que se constituirá por representantes del empleador, de la organización de trabajadores y a lo menos un representante que sea parte del grupo postulante. Este equipo velará por el buen desarrollo y diseño del proyecto, supervisar su elaboración, contratación y ejecución, así como también supervigilar las labores de asignación y venta de las viviendas, y relacionarse con el Serviu en lo que corresponda.
+f) Debe quedar establecido quien será el responsable de ejecutar o contratar el proyecto arquitectónico y proyectos técnicos correspondientes.
 
-g) Responsabilidades de las partes.
+g) La contratación de una empresa constructora que cuente con inscripción vigente en el Registro Nacional de Contratistas del Minvu, lo que deberá ser acreditado al momento de contratar la ejecución de las obras correspondientes al proyecto, estableciendo cuál de las partes firmantes del Convenio será la responsable de esta labor, pudiendo la parte responsable mandatar a terceros para ello.
 
-h) La obligación de contratar una empresa constructora que cuente con inscripción vigente en el Registro Nacional de Contratistas del Minvu, lo que deberá ser acreditado al momento de contratar la ejecución de las obras correspondientes al proyecto.
+h) Involucrar al grupo postulante en el desarrollo del proyecto, para lo cual se conformará un Equipo o Comité de Proyecto, integrado por representantes del empleador, de la o las organizaciones de trabajadores y a la menos un representante que sea parte del grupo postulante. Este equipo velará por el buen desarrollo y diseño del proyecto, teniendo labores de supervisión en su elaboración, contratación, y ejecución, así como también supervigilar las labores de asignación y venta de las viviendas, y relacionarse con el Serviu en lo que corresponda.
 
 i) La obligación de solicitar a la empresa constructora, como parte del contrato de ejecución de obras, la presentación de un informe "Mecanismo de Post Venta y Calidad de la Construcción", que incluya las estrategias y medios directos de atención a los trabajadores beneficiarios, en caso de fallas o deterioros constructivos que afecten al proyecto, a partir de la obtención de la recepción municipal de éste.
 
 j) Carta Gantt del desarrollo y ejecución del proyecto.
 
 k) El expediente de postulación.
+
+l) Establecer si la gestión del proyecto será encargada a una entidad patrocinante.
+
+m) Será responsabilidad de las partes la información presentada al momento de la postulación con relación al proyecto y la información del grupo postulante, en especial chequear que los trabajadores postulados sean parte de la o las organizaciones de trabajadores y/o que sean trabajadores del empleador que suscribe el Convenio.
 
 ### 4. De la presentación de antecedentes de la postulación y de los proyectos
 
@@ -94,17 +102,19 @@ Además, podrá considerarse un tercer tramo de precio de vivienda, dependiendo 
 
 Los porcentajes para cada tramo de precio de vivienda se calcularán en función del número total de viviendas del proyecto presentado.
 
-4.3. Los empleadores deberán apoyar el desarrollo del proyecto involucrando al grupo postulante en el diseño y desarrollo del proyecto, para lo que conformarán un Equipo o Comité de Proyecto, lo que quedará establecido en el Convenio de Trabajo respectivo.
+4.3. Para ejecutar o contratar la ejecución del proyecto arquitectónico y proyectos técnicos, se contará con recursos de asistencia técnica, ya sea en el caso de trabajadores de empresas privadas o públicas o de organismos públicos o municipales.
 
-El Serviu, con cargo a los recursos de asistencia técnica podrá ejecutar o contratar la ejecución del proyecto arquitectónico y proyectos técnicos, en el caso de trabajadores de organismos públicos o municipales.
+Los servicios de asistencia técnica deberán considerar, a lo menos, el diseño y elaboración de proyecto técnico, lo relacionado con la gestión legal del terreno, la tramitación de los créditos hipotecarios, y la supervisión de la construcción del proyecto. El Serviu definirá las tareas y productos exigidos, así como la forma e hitos para los pagos correspondientes. Los montos para pagar por los servicios de asistencia técnica no podrán exceder de 50 Unidades de Fomento por familia. Todo lo anterior, deberá quedar establecido en un convenio que el Serviu suscribirá con quien preste estos servicios y la organización u organizaciones de trabajadores que participan del proyecto. Quien preste los servicios de asistencia técnica deberá estar con inscripción vigente en el Registro de Consultores del Ministerio de Vivienda y Urbanismo, en la especialidad técnica correspondiente.
 
-En el caso de empresas privadas o públicas, se podrán contratar los servicios de una entidad que se encargue de las labores de gestión del proyecto, contratación de las obras, seguimiento de la ejecución de las obras y de la adjudicación de las viviendas, estos servicios no tendrán financiamiento con cargo a recursos de asistencia técnica.
+Si es la empresa constructora la que elabora los proyectos arquitectónicos y técnicos, podrá recibir el pago de los servicios de asistencia técnica que correspondan.
 
-4.4. Al momento de la postulación, deberá presentarse una carta, firmada por el empleador, la organización, sindicato o asociación gremial, que corresponde al grupo postulante y una empresa constructora que acredite que el proyecto presentado ha sido evaluado y se enmarca dentro del financiamiento disponible para su ejecución.
+En el caso de trabajadores de organismo públicos o municipales, el Serviu, con cargo a los recursos de asistencia técnica podrá ejecutar o contratar el desarrollo del proyecto arquitectónico y proyectos técnicos.
+
+4.4. Al momento de la postulación, deberá presentarse una carta, firmada por el empleador, la o las organizaciones de trabajadores, sean sindicatos o asociaciones gremiales, que corresponde al grupo postulante y una empresa constructora que acredite que el proyecto presentado ha sido evaluado y se enmarca dentro del financiamiento disponible para su ejecución.
 
 4.5. Al momento de la postulación deberán presentarse las nóminas de trabajadores integrantes de los proyectos, debiendo corresponder a los siguientes porcentajes:
 
-a) Como mínimo, un 20% de los postulantes deberán corresponder a trabajadores de hasta el 50% más vulnerable de la población nacional de conformidad al Instrumento de Caracterización Socioeconómico denominado Registro Social de Hogares (RSH), a las que se les destinarán las viviendas de hasta 1.200 UF, 1.300 UF o 1.400 UF, de acuerdo a la zona de emplazamiento del proyecto.
+a) Como mínimo, un 20% de los postulantes deberán corresponder a trabajadores de hasta el 70% más vulnerable de la población nacional de conformidad al Instrumento de Caracterización Socioeconómico denominado Registro Social de Hogares (RSH), a las que se les destinarán las viviendas de hasta 1.200 UF, 1.300 UF o 1.400 UF, de acuerdo a la zona de emplazamiento del proyecto.
 
 b) Como mínimo, un 60% de los postulantes deberán corresponder a trabajadores de hasta el 90% más vulnerable de la población nacional de conformidad al RSH, a los que se destinarán las viviendas de hasta 1.600 UF, 1.700 UF o 1.800 UF, de acuerdo a la zona de emplazamiento del proyecto.
 
@@ -124,13 +134,25 @@ La nómina de postulantes podrá incluir hasta un 20% de personas que no sean pa
 
 4.9. No será exigible presentar Certificado de Preaprobación de Crédito ni de recursos necesarios para financiar la vivienda de acuerdo a lo señalado en la letra d2) del literal d) del artículo 16 del DS Nº 1 precitado.
 
-4.10. Se podrá reemplazar hasta un 30% de los postulantes presentados al momento de postular. Los reemplazantes, deberán cumplir con los requisitos para ser seleccionado y con el ahorro mínimo correspondiente al tramo de precio de vivienda del reemplazado.
+4.10. Se podrá reemplazar hasta un 30% de los postulantes presentados al momento de postular. La nómina de reemplazantes deberá ser presentada al momento de la postulación y deberán cumplir con los requisitos para ser seleccionados, no siendo necesario acreditar el ahorro mínimo requerido al momento de la presentación. En caso de producirse el reemplazo, el reemplazante deberá acreditar a lo menos el 50% del ahorro mínimo correspondiente al tramo de precio de vivienda en que será incorporado y el 50% restante, deberá ser enterado hasta la fecha de suscripción de la respectiva escritura de compraventa.
+
+4.11. Podrán ser parte del grupo postulante, familias que sean beneficiaras de un subsidio habitacional sin aplicar, las que deberán ser parte de la o las organizaciones de trabajadores, sean sindicatos o asociaciones gremiales, que participan del llamado. De no ser parte de alguna organización de trabajadores, podrá ser considerado en el 20% a que se refiere el numeral 4.7., siempre sea trabajador de la empresa u organismo público o municipal que firma el Convenio de Trabajo.
+
+Las familias beneficiadas con subsidio regulado por el DS N° 49, modalidad individual, y del tramo 1 del DS N° 1, ambos Vivienda y Urbanismo, de 2011, podrán aplicar el subsidio en los tramos de precio de vivienda definidos en el numeral 6.1.
+
+Las familias beneficiadas con subsidios de los tramos 1 y 2 del DS N° 1 (V. y U.), de 2011, podrán aplicar el subsidio en los tramos de vivienda definidos en el numeral 6.2. y en el numeral 6.3., siempre que el proyecto considere un tercer tramo.
+
+Las familias beneficiadas con subsidios correspondientes al DS N° 1 (V. y U.), de 2011, cuya vigencia haya expirado, podrán incorporarse al grupo postulante, siempre que, a la fecha de cierre del llamado, no hubiesen transcurrido 60 meses desde la fecha de inicio del período de vigencia del respectivo subsidio.".
+
+4.12. La información del proyecto y de los integrantes del grupo de postulantes presentada al momento de la postulación será de responsabilidad del empleador y de la o las organizaciones de trabajadores. De detectarse información o falsa, se aplicará lo dispuesto en el artículo 40 del DS N° 1, (V. y U.), de 2011.
 
 ### 5. Requisitos técnicos para los proyectos y las viviendas
 
 Para su presentación los proyectos deberán contar con permiso de edificación o con anteproyecto aprobado por la Dirección de Obras Municipales o en caso de no contar con las tramitaciones señaladas, con comprobante de ingreso del expediente emitido por la Dirección de Obras respectiva junto con el informe favorable de un Revisor Independiente a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones.
 
 Además, el proyecto deberá cumplir con las distancias de acceso a los servicios que se señalan en el artículo 1º del DS Nº 1 (V. y U.), de 2011, sobre los Proyectos de Integración Social y con lo establecido en el artículo 47 del citado decreto.
+
+Previa solicitud del Secretario Regional Ministerial que corresponda, el Ministro de Vivienda y Urbanismo podrá, en casos calificados y mediante resolución fundada, eximir del cumplimiento de una o más de las distancias de acceso a servicios, señaladas en el artículo 1° del DS N° 1 (V. y U.), de 2011, que se indica anteriormente.
 
 5.1. Exigencias para los proyectos
 
@@ -232,25 +254,31 @@ Los montos de subsidio y ahorro mínimo, según el precio de la vivienda, serán
 
 Los montos de subsidios de las tablas precedentes, incluyen el subsidio adicional de 200 UF, establecidos en la letra d) del artículo 64 y letra f) del artículo 67 del DS Nº 1 (V. y U.), de 2011.
 
+Si el trabajador beneficiario o algún integrante del núcleo familiar con discapacidad asociada a movilidad reducida que dificulten su desplazamiento -el que deberá estar inscrito en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la ley N° 20.422, que establece normas sobre la igualdad de oportunidades e inclusión social de personas con discapacidad asociada a movilidad reducida- a los montos de subsidios de las tablas precedentes se adicionarán hasta 80 UF, debiendo la vivienda cumplir con lo establecido en la resolución exenta N° 6.625 (V. y U.), de 2016, y sus modificaciones, que Aprueba Cuadro Normativo y Tabla de Espacios y Usos mínimos para el Mobiliario, para Proyectos del Programa Fondo Solidario de Elección de Vivienda, en su ítem II.
+
 A lo menos el 50% del ahorro mínimo señalado deberá estar depositado al 30 de noviembre de 2022, en alguna de las cuentas o instrumentos de ahorro a que se refiere el artículo 8º del DS Nº 1 (V. y U.), de 2011. El 50% restante deberá ser enterado hasta la fecha de suscripción de la respectiva escritura de compraventa.
 
 No será exigible la permanencia o antigüedad de la cuenta de ahorro señalada en al artículo 10 del DS Nº 1 precitado.
 
+Las familias beneficiadas con un subsidio habitacional que se incorporen a los proyectos deberán cumplir con el ahorro mínimo establecido para cada tramo de precio de vivienda, definidos en los numerales 6.1., 6.2. y 6.3., considerándose para ello el ahorro con que resultaron seleccionadas. En caso de no cumplir dicho ahorro mínimo, éste deberá ser enterado a la fecha de suscripción de la respectiva escritura de compraventa.
+
+Los trabajadores beneficiados que adquieran viviendas en los tramos de precio definidos en el numeral 6.1., obtendrán un subsidio adicional de hasta 10 UF para el pago de los aranceles que correspondan, para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, e inscripción en el Conservador de Bienes Raíces. Para su pago se deberán presentar las respectivas boletas o facturas en que estén señalados los recursos gastados, pudiendo el subsidio ser pagado a quien determine el trabajador beneficiario.
+
 ### 7. De la selección de los grupos postulantes
 
-Con los proyectos aprobados por el Serviu presentados al llamado, por resolución del Ministro de Vivienda y Urbanismo se sancionará la selección de los grupos asociados a dichos proyectos.
+Con los proyectos aprobados por el Serviu presentados al llamado, por resolución del Ministro de Vivienda y Urbanismo se sancionará la selección de los grupos asociados a dichos proyectos. Se permitirá la aprobación de proyectos con terrenos fiscales o públicos en proceso de autorización de destino y transferencia, lo que se acreditará con carta compromiso del organismo correspondiente, indicando la localización, identificación del lote y deslindes, mientras se aprueba la transferencia.
 
 La selección de los grupos de trabajadores beneficiarios para la asignación del subsidio, se realizará conforme al orden de prelación que determine el respectivo puntaje del grupo, hasta enterar el total de los recursos disponibles en el llamado. Si el corte alcanza a un grupo de postulantes y los recursos no son suficientes para atender a la totalidad de los integrantes hábiles del grupo, se excluirá a todo el grupo.
 
 Para determinar el puntaje del grupo, se sumarán los puntajes individuales que obtenga cada uno de los postulantes hábiles del grupo y se dividirá por el número total de postulantes hábiles. El resultado que se obtenga de esta división se considerará como el puntaje del grupo.
 
-El puntaje individual de cada postulante se obtendrá sumando cada uno de los puntajes obtenidos por el postulante, de acuerdo a los factores señalados en las letras
+El puntaje individual de cada postulante se obtendrá sumando cada uno de los puntajes obtenidos, de acuerdo con los factores señalados en las letras
 
 - **a)** Grupo Familiar,
 
 - **b)** Vulnerabilidad Habitacional y
 
-- **e)** Antigüedad de la postulación, del artículo 65 del DS Nº 1 (V. y U.), de 2011.
+- **e)** Antigüedad de la postulación, del artículo 65 del DS N° 1 (V. y U.), de 2011. En el caso de postulantes beneficiados con el subsidio habitacional, se considerará un puntaje de 125 puntos.
 
 La nómina de proyectos y trabajadores seleccionados asociados a cada grupo será publicada en el Diario Oficial.
 
@@ -306,7 +334,7 @@ Si los beneficiarios de subsidio solicitan un crédito hipotecario, se sujetará
 
 ### 12. Préstamos
 
-Una vez suscrito el contrato de construcción por los trabajadores y por el empleador con la constructora que ejecutará el proyecto, el Serviu podrá otorgar, por una sola vez, un préstamo de enlace hasta por un plazo máximo de 36 meses, en las condiciones establecidas en la presente resolución a la empresa constructora. Para ello deberá presentar al Serviu una copia del permiso de edificación del proyecto, la programación de las obras, la conformidad del Equipo o Comité del Proyecto y una carta informando el inicio de las obras, lo cual deberá ser verificado en terreno por Serviu.
+Una vez suscrito el contrato de construcción por la o las organizaciones de trabajadores y por el empleador con la constructora que ejecutará el proyecto, el Serviu podrá otorgar, por una sola vez, un préstamo de enlace hasta por un plazo máximo de 36 meses, en las condiciones establecidas en la presente resolución a la empresa constructora. Para ello deberá presentar al Serviu una copia del permiso de edificación del proyecto, la programación de las obras, la conformidad del Equipo o Comité del Proyecto y una carta informando el inicio de las obras, lo cual deberá ser verificado en terreno por Serviu.
 
 Este préstamo no podrá exceder del monto de subsidio correspondiente a cada vivienda. Tanto su otorgamiento como su restitución se expresarán en Unidades de Fomento. No se concederá más de un préstamo para el financiamiento de viviendas de un mismo proyecto.
 
