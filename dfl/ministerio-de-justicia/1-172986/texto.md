@@ -646,17 +646,15 @@ Derogado.
 
 #### Artículo 105
 
-No podrá procederse a la celebración del matrimonio sin el asenso o licencia de la persona o personas cuyo consentimiento sea necesario según las reglas que van a expresarse, o sin que conste que el respectivo contrayente no ha menester para casarse el consentimiento de otra persona, o que ha obtenido el de la justicia en subsidio.
+Derogado.
 
 #### Artículo 106
 
-Los que hayan cumplido dieciocho años no estarán obligados a obtener el consentimiento de persona alguna.
+Derogado.
 
 #### Artículo 107
 
-Los que no hubieren cumplido dieciocho años no podrán casarse sin el consentimiento expreso de sus progenitores; si faltare uno de ellos, el del otro; o a falta de ambos, el del ascendiente o de los ascendientes de grado más próximo.
-
-En igualdad de votos contrarios preferirá el favorable al matrimonio.
+Derogado.
 
 #### Artículo 108
 
@@ -664,63 +662,35 @@ Derogado.
 
 #### Artículo 109
 
-Se entenderá faltar el padre o madre u otro ascendiente, no sólo por haber fallecido, sino por estar demente; o por hallarse ausente del territorio de la República, y no esperarse su pronto regreso; o por ignorarse el lugar de su residencia.
-
-También se entenderá faltar el padre o madre cuando la paternidad o maternidad haya sido determinada judicialmente contra su oposición.
+Derogado.
 
 #### Artículo 110
 
-Se entenderá faltar asimismo el padre o madre que estén privados de la patria potestad por sentencia judicial o que, por su mala conducta, se hallen inhabilitados para intervenir en la educación de sus hijos.
+Derogado.
 
 #### Artículo 111
 
-A falta de dichos padre, madre o ascendientes, será necesario al que no haya cumplido dieciocho años el consentimiento de su curador general.
-
-En defecto de los anteriormente llamados, dará al menor el consentimiento para el matrimonio el oficial del Registro Civil que deba intervenir en su celebración. Si éste tuviere alguna de las razones contempladas en el artículo 113 para oponerse al matrimonio, lo comunicará por escrito al juez de letras de la comuna o agrupación de comunas para los efectos señalados en el artículo 112.
-
-Si se tratare de un hijo cuya filiación aún no ha sido determinada respecto de ninguno de sus progenitores, el consentimiento para el matrimonio lo dará su curador general. A falta de éste, será aplicable lo dispuesto en el inciso anterior.
+Derogado.
 
 #### Artículo 112
 
-Si la persona que debe prestar este consentimiento lo negare, aunque sea sin expresar causa alguna, no podrá procederse al matrimonio de los menores de dieciocho años.
-
-El curador y el oficial del Registro Civil que nieguen su consentimiento estarán siempre obligados a expresar la causa, y, en tal caso, el menor tendrá derecho a pedir que el disenso sea calificado por el juzgado competente.
+Derogado.
 
 #### Artículo 113
 
-Las razones que justifican el disenso no podrán ser otras que éstas:
-
-1ª. La existencia de cualquier impedimento legal, incluso el señalado en el artículo 116;
-
-2ª. El no haberse practicado alguna de las diligencias prescritas en el título De las segundas nupcias, en su caso;
-
-3ª. Grave peligro para la salud del menor a quien se niega la licencia, o de la prole;
-
-4ª. Vida licenciosa, pasión inmoderada al juego, embriaguez habitual, de la persona con quien el menor desea casarse;
-
-5ª. Haber sido condenada esa persona por delito que merezca pena aflictiva;
-
-6ª. No tener ninguno de los esposos medios actuales para el competente desempeño de las obligaciones del matrimonio.
+Derogado.
 
 #### Artículo 114
 
-El que no habiendo cumplido dieciocho años se casare sin el consentimiento de un ascendiente, estando obligado a obtenerlo, podrá ser desheredado, no sólo por aquel o aquellos cuyo consentimiento le fue necesario, sino por todos los otros ascendientes. Si alguno de éstos muriere sin hacer testamento, no tendrá el descendiente más que la mitad de la porción de bienes que le hubiera correspondido en la sucesión del difunto.
+Derogado.
 
 #### Artículo 115
 
-El ascendiente sin cuyo necesario consentimiento se hubiere casado el descendiente, podrá revocar por esta causa las donaciones que antes del matrimonio le haya hecho.
-
-El matrimonio contraído sin el necesario consentimiento de otra persona no priva del derecho de alimentos.
+Derogado.
 
 #### Artículo 116
 
-Mientras que una persona no hubiere cumplido dieciocho años, no será lícito al tutor o curador que haya administrado o administre sus bienes, casarse con ella, sin que la cuenta de la administración haya sido aprobada por el juez, con audiencia del defensor de menores.
-
-Igual inhabilidad se extiende a los descendientes del tutor o curador para el matrimonio con el pupilo o pupila.
-
-El matrimonio celebrado en contravención a esta disposición, sujetará al tutor o curador que lo haya contraído o permitido, a la pérdida de toda remuneración que por su cargo le corresponda; sin perjuicio de las otras penas que las leyes le impongan.
-
-No habrá lugar a las disposiciones de este artículo, si el matrimonio es autorizado por el ascendiente o ascendientes cuyo consentimiento fuere necesario para contraerlo.
+Derogado.
 
 #### Artículo 117
 
@@ -846,7 +816,7 @@ Lo mismo se aplicará para nombrar partidor, provocar la partición y para concu
 
 #### Artículo 139
 
-(148). El marido menor de edad necesita de curador para la administración de la sociedad conyugal.
+(148). Derogado.
 
 #### Artículo 140
 
@@ -938,7 +908,7 @@ oficio de la mujer
 
 La mujer casada de cualquiera edad podrá dedicarse libremente al ejercicio de un empleo, oficio, profesión o industria.
 
-La mujer casada, que desempeñe algún empleo o que ejerza una profesión, oficio o industria, separados de los de su marido, se considerará separada de bienes respecto del ejercicio de ese empleo, oficio, profesión o industria y de lo que en ellos obtenga, no obstante cualquiera estipulación en contrario; pero si fuere menor de dieciocho años, necesitará autorización judicial, con conocimiento de causa, para gravar y enajenar los bienes raíces.
+La mujer casada, que desempeñe algún empleo o que ejerza una profesión, oficio o industria, separados de los de su marido, se considerará separada de bienes respecto del ejercicio de ese empleo, oficio, profesión o industria y de lo que en ellos obtenga, no obstante cualquiera estipulación en contrario.
 
 Incumbe a la mujer acreditar, tanto respecto del marido como de terceros, el origen y dominio de los bienes adquiridos en conformidad a este artículo. Para este efecto podrá servirse de todos los medios de prueba establecidos por la ley.
 
@@ -970,7 +940,7 @@ La mujer no podrá renunciar en las capitulaciones matrimoniales la facultad de 
 
 #### Artículo 154
 
-Para que la mujer menor pueda pedir separación de bienes, deberá ser autorizada por un curador especial.
+Derogado.
 
 #### Artículo 155
 
@@ -1786,7 +1756,7 @@ La emancipación legal se efectúa:
 
 2º. Por el decreto que da la posesión provisoria, o la posesión definitiva en su caso, de los bienes del padre o madre desaparecido, salvo que corresponda al otro ejercitar la patria potestad;
 
-3º. Por el matrimonio del hijo, y
+3º. Eliminado.
 
 4º. Por haber cumplido el hijo la edad de dieciocho años.
 
@@ -2854,7 +2824,7 @@ A falta de todas las personas antedichas tendrá lugar la curaduría dativa.
 
 #### Artículo 463
 
-La mujer curadora de su marido demente, tendrá la administración de la sociedad conyugal. Si por su menor edad u otro impedimento no se le defiriere la curaduría de su marido demente, podrá a su arbitrio, luego que cese el impedimento, pedir esta curaduría o la separación de bienes.
+La mujer curadora de su marido demente, tendrá la administración de la sociedad conyugal. Si por un impedimento no se le defiriere la curaduría de su marido demente, podrá a su arbitrio, luego que cese el impedimento, pedir esta curaduría o la separación de bienes.
 
 #### Artículo 464
 
@@ -7464,7 +7434,7 @@ Un descendiente no puede ser desheredado sino por alguna de las causas siguiente
 
 3ª. Por haberse valido de fuerza o dolo para impedirle testar;
 
-4ª. Por haberse casado sin el consentimiento de un ascendiente, estando obligado a obtenerlo;
+4ª. Eliminada.
 
 5ª. Por haber cometido un delito que merezca pena aflictiva; o por haberse abandonado a los vicios o ejercido granjerías infames; a menos que se pruebe que el testador no cuidó de la educación del desheredado.
 
@@ -8092,7 +8062,7 @@ Si falleciere uno de varios coasignatarios, después de habérsele deferido la a
 
 Los tutores y curadores, y en general los que administran bienes ajenos por disposición de la ley, no podrán proceder a la partición de las herencias o de los bienes raíces en que tengan parte sus pupilos, sin autorización judicial.
 
-Pero el marido no habrá menester esta autorización para provocar la partición de los bienes en que tenga parte su mujer: le bastará el consentimiento de su mujer, si ésta fuere mayor de edad y no estuviere imposibilitada de prestarlo, o el de la justicia en subsidio.
+Pero el marido no habrá menester esta autorización para provocar la partición de los bienes en que tenga parte su mujer: le bastará el consentimiento de su mujer, si no estuviere imposibilitada de prestarlo, o el de la justicia en subsidio.
 
 #### Artículo 1323
 
@@ -10486,11 +10456,7 @@ También se podrá estipular que la mujer dispondrá libremente de una determina
 
 #### Artículo 1721
 
-El menor hábil para contraer matrimonio podrá hacer en las capitulaciones matrimoniales, con aprobación de la persona o personas cuyo consentimiento le haya sido necesario para el matrimonio, todas las estipulaciones de que sería capaz si fuese mayor; menos las que tengan por objeto renunciar los gananciales, o enajenar bienes raíces, o gravarlos con hipotecas o censos o servidumbres. Para las estipulaciones de estas clases será siempre necesario que la justicia autorice al menor.
-
-El que se halla bajo curaduría por otra causa que la menor edad, necesitará de la autorización de su curador para las capitulaciones matrimoniales, y en lo demás estará sujeto a las mismas reglas que el menor.
-
-No se podrá pactar que la sociedad conyugal tenga principio antes o después de contraerse el matrimonio; toda estipulación en contrario es nula.
+El que se halla bajo curaduría necesitará de la autorización de su curador para las capitulaciones matrimoniales.
 
 #### Artículo 1722
 
@@ -10498,7 +10464,7 @@ Las escrituras que alteren o adicionen las capitulaciones matrimoniales, otorgad
 
 #### Artículo 1723
 
-Durante el matrimonio los cónyuges mayores de edad podrán substituir el régimen de sociedad de bienes por el de participación en los gananciales o por el de separación total. También podrán substituir la separación total por el régimen de participación en los gananciales.
+Durante el matrimonio los cónyuges podrán substituir el régimen de sociedad de bienes por el de participación en los gananciales o por el de separación total. También podrán substituir la separación total por el régimen de participación en los gananciales.
 
 El pacto que los cónyuges celebren en conformidad a este artículo deberá otorgarse por escritura pública y no surtirá efectos entre las partes ni respecto de terceros, sino desde que esa escritura se subinscriba al margen de la respectiva inscripción matrimonial. Esta subinscripción sólo podrá practicarse dentro de los treinta días siguientes a la fecha de la escritura en que se pacte la separación. El pacto que en ella conste no perjudicará, en caso alguno, los derechos válidamente adquiridos por terceros respecto del marido o de la mujer y, una vez celebrado, no podrá dejarse sin efecto por el mutuo consentimiento de los cónyuges.
 
@@ -10722,7 +10688,7 @@ En los casos a que se refiere el inciso anterior para obligar los bienes sociale
 
 La autorización de la mujer deberá ser específica y otorgada por escrito, o por escritura pública si el acto exigiere esta solemnidad, o interviniendo expresa y directamente de cualquier modo en el mismo. Podrá prestarse en todo caso por medio de mandato especial que conste por escrito o por escritura pública según el caso.
 
-La autorización a que se refiere el presente artículo podrá ser suplida por el juez, previa audiencia a la que será citada la mujer, si ésta la negare sin justo motivo. Podrá asimismo ser suplida por el juez en caso de algún impedimento de la mujer, como el de menor edad, demencia, ausencia real o aparente u otro, y de la demora se siguiere perjuicio. Pero no podrá suplirse dicha autorización si la mujer se opusiere a la donación de los bienes sociales.
+La autorización a que se refiere el presente artículo podrá ser suplida por el juez, previa audiencia a la que será citada la mujer, si ésta la negare sin justo motivo. Podrá asimismo ser suplida por el juez en caso de algún impedimento de la mujer, como demencia, ausencia real o aparente u otro, y de la demora se siguiere perjuicio. Pero no podrá suplirse dicha autorización si la mujer se opusiere a la donación de los bienes sociales.
 
 #### Artículo 1750
 
@@ -10916,7 +10882,7 @@ Los herederos de cada cónyuge gozan de los mismos derechos y están sujetos a l
 
 #### Artículo 1781
 
-Disuelta la sociedad, la mujer mayor o sus herederos mayores tendrán la facultad de renunciar los gananciales a que tuvieren derecho. No se permite esta renuncia a la mujer menor, ni a sus herederos menores, sino con aprobación judicial.
+Disuelta la sociedad, la mujer o sus herederos mayores tendrán la facultad de renunciar los gananciales a que tuvieren derecho.
 
 #### Artículo 1782
 
@@ -16440,9 +16406,7 @@ DEROGADO
 
 #### Artículo 38
 
-En los juicios de disenso si no se alega causa legal, en los casos en que haya obligación de hacerlo, el juez deberá dar inmediatamente autorización para el matrimonio.
-
-Si la persona que debe prestar el consentimiento no concurre a la audiencia, se entiende que retira el disenso. Lo dicho, no regirá con respecto al Oficial del Registro Civil.
+Derogado.
 
 #### Artículo 39
 
@@ -16991,6 +16955,228 @@ El plazo de prescripción para las acciones ejecutivas de cobro por deudas de pe
 Por el no pago de la deuda alimentaria, el tercero que ha debido contribuir económicamente a satisfacer las necesidades del alimentario, sin estar legalmente obligado o en exceso de lo que era su obligación, tendrá acción de reembolso en contra del alimentante, por el enriquecimiento sin causa de éste a expensas suya. Esta acción se tramitará ante el tribunal con competencia en asuntos de familia que hubiere decretado o aprobado la pensión alimenticia.
 
 Ante la solicitud de condonación de la deuda alimenticia presentada por el alimentario, el tribunal que estimare que a otros sujetos que no han comparecido al proceso pudiera corresponderles el ejercicio esta acción, deberá ordenar poner el proceso en su conocimiento, para que dentro del término de emplazamiento presente su demanda. Si no la presentare, caducará su derecho.
+
+TÍTULO FINAL
+
+DEL REGISTRO NACIONAL DE DEUDORES DE PENSIONES DE ALIMENTOS
+
+#### Artículo 20
+
+Definiciones. Para los efectos de este Título, se entenderá por:
+
+1. Registro: el Registro Nacional de Deudores de Pensiones de Alimentos.
+
+2. Deudor de alimentos: el alimentante con inscripción vigente en el Registro.
+
+3. Personas con interés legítimo en la consulta: el deudor de alimentos, su alimentario o el representante legal de éste, los tribunales con competencia en asuntos de familia y las personas o entidades obligadas a consultar el Registro.
+
+4. Servicio: el Servicio de Registro Civil e Identificación.
+
+#### Artículo 21
+
+El Registro. Créase el Registro Nacional de Deudores de Pensiones de Alimentos, cuyo objeto es articular diversas medidas legales, a fin de promover y garantizar el cumplimiento de las pensiones de alimentos. Este Registro será electrónico y de acceso remoto, gratuito e inmediato, para cualquier persona con interés legítimo en la consulta.
+
+El funcionamiento y la administración del Registro estarán a cargo del Servicio de Registro Civil e Identificación. Un reglamento, expedido por el Ministerio de Justicia y Derechos Humanos, regulará los aspectos técnicos, de operatividad y de cualquier otra especie necesarios para la adecuada implementación y funcionamiento del Registro.
+
+#### Artículo 22
+
+Contenido. El Registro dará cuenta de la inscripción de las personas que reúnan copulativamente las siguientes condiciones:
+
+a) Que estén obligadas al pago de una pensión de alimentos, provisorios o definitivos, fijados o aprobados por resolución judicial que causa ejecutoria.
+
+b) Que adeuden, total o parcialmente, al menos tres mensualidades consecutivas de alimentos provisorios o definitivos, o cinco discontinuas.
+
+#### Artículo 23
+
+Funciones del Servicio. En lo que respecta al Registro, son funciones del Servicio de Registro Civil e Identificación:
+
+a) Realizar las inscripciones, modificaciones, actualizaciones y cancelaciones en el Registro, ordenadas por el tribunal competente, por los medios y en la forma que determine el reglamento.
+
+b) Certificar en línea, por los medios y en la forma que determine el reglamento, si la persona por la que se consulta tiene inscripciones vigentes en el Registro en calidad de deudor de alimentos.
+
+Toda persona con interés legítimo en la consulta y quienes deban realizarla podrán acceder en línea al Registro y obtener en forma gratuita la certificación indicada en este literal. En caso de existir una inscripción vigente, la certificación deberá individualizar al deudor de alimentos, mediante su nombre completo y número de cédula de identidad o documento de identificación correspondiente; indicar el número de alimentarios afectados, el monto actualizado de la deuda y la cantidad de cuotas adeudadas, la individualización del tribunal que fijó o aprobó la pensión y los datos de la cuenta dispuesta para realizar el pago. Si quien realiza la consulta es el alimentario afectado o su representante legal, se podrá optar a que la certificación también incluya referencia a dicho alimentario, individualizándolo a través de su nombre completo y número de cédula de identidad o documento de identificación correspondiente.
+
+#### Artículo 24
+
+Inscripción en el Registro. Mensualmente, el tribunal competente, de oficio o a petición de parte, una vez practicadas las liquidaciones correspondientes, ordenará al Servicio, con citación al alimentante y al alimentario, inscribir en el Registro al alimentante moroso que reúna las condiciones señaladas en el artículo 22. Esta resolución deberá individualizar de forma completa a la persona que registre deudas derivadas de pensiones alimenticias, con señalamiento de la identificación de cada uno de los alimentarios, causas respectivas, número de cuotas adeudadas, sea total o parcialmente, monto adeudado resultante de la liquidación y datos de la cuenta dispuesta para realizar el pago.
+
+La resolución indicada en el inciso anterior y la o las liquidaciones en las que se funda deberán ser notificadas conjuntamente y en un solo acto a las partes interesadas, en la forma dispuesta por el inciso octavo del artículo 12, teniéndose por aprobadas si no fueren objetadas dentro de tercero día. Habiéndose presentado objeción contra esta resolución o las liquidaciones, el tribunal resolverá en el más breve plazo, de plano o previo traslado, y con el solo mérito de los antecedentes que las partes acompañen a sus presentaciones y aquellos que obren en el proceso. En contra de la resolución que ordena la inscripción del alimentante en el Registro, éste sólo podrá alegar el incumplimiento de las condiciones legales del artículo 22.
+
+La única oportunidad para presentar objeciones a la liquidación, en los casos en que habiéndose practicado ésta el tribunal constate que el alimentante moroso reúne las condiciones señaladas en el artículo 22 para ser inscrito en el Registro, es el plazo de tres días referido en el inciso anterior. En consecuencia, en estos casos, el tribunal únicamente notificará a las partes la liquidación conjuntamente con la orden de inscripción, y en un solo acto, para que exista un plazo único y común para hacer valer las objeciones que correspondan.
+
+La decisión que acoja la objeción deducida, sea respecto de la orden de inscripción o de la liquidación que le sirve de fundamento, sólo será impugnable por la contraparte mediante recurso de reposición y siempre que ésta no hubiere tenido ocasión de ser oída sobre la materia que se reclama. Dicha solicitud de reposición deberá deducirse dentro de tercero día y de forma fundada. El tribunal fallará de plano la reposición, pero podrá oír a la otra parte cuando la complejidad del asunto así lo aconsejare. En contra de la resolución que resuelve la reposición no procederá recurso alguno. Tampoco será recurrible la decisión que rechaza la objeción deducida.
+
+El alimentante, dentro del plazo señalado para presentar objeciones o, en su caso, hasta el día siguiente a que se falle la objeción o solicitud de reposición deducida, podrá enervar la orden de inscripción mediante el pago íntegro de la deuda por pensión alimenticia.
+
+Una vez practicada la inscripción en el Registro, el tribunal competente, mensualmente, tan pronto quede firme la liquidación respectiva, deberá comunicar al Servicio el número de mensualidades y monto adeudado para proceder a su actualización.
+
+#### Artículo 25
+
+Cancelación de la inscripción en el Registro. La cancelación de la inscripción en el Registro será dispuesta de oficio por orden judicial y comunicada al Servicio, tan pronto se acredite por el alimentante el pago íntegro de los alimentos adeudados o se adopte un acuerdo de pago, serio y suficiente, que sea aprobado por el tribunal por resolución firme o ejecutoriada, según lo dispuesto en el artículo 26.
+
+#### Artículo 26
+
+Acuerdo de pago serio y suficiente de las pensiones de alimentos adeudadas. El alimentante que no tuviere bienes suficientes para solucionar el monto total de las pensiones alimenticias adeudadas podrá proponer por intermedio del tribunal la adopción de un acuerdo de pago de la deuda, que sea serio y suficiente.
+
+Se entenderá que es serio el acuerdo si da cuenta de las circunstancias o garantías objetivas que hacen verosímil proyectar su cumplimiento íntegro y oportuno, atendido el grado de diligencia con que el alimentante regularmente ha dado cumplimiento al pago de la pensión, y la buena fe con la que ha actuado, especialmente, al transparentar su capacidad económica. Se entenderá que es suficiente, si permite solucionar íntegramente la deuda en el menor plazo posible, atendida la capacidad económica actual del alimentante y las necesidades del alimentario.
+
+La solicitud presentada por el alimentante de conformidad con lo dispuesto en el inciso anterior se tramitará como incidente, y cuando resulte necesario, el tribunal citará a las partes a audiencia especial. Para aprobar el acuerdo de pago de la deuda, el tribunal previamente deberá resguardar su seriedad y suficiencia, y verificará el consentimiento del alimentario. En ejercicio de esta función podrá proponer las modificaciones que estime necesarias a fin de subsanar sus deficiencias.
+
+Para efectos de alcanzar un acuerdo, se podrá dividir en cuotas el monto total adeudado, expresándose el valor de cada cuota en unidades tributarias mensuales. No será aplicable el límite previsto en el inciso primero del artículo 7 al monto que resulte de adicionar a la pensión de alimentos el pago de las pensiones adeudadas.
+
+Tan pronto el acuerdo de pago fuere aprobado por el tribunal por medio de una resolución firme o ejecutoriada, el tribunal deberá comunicarlo al Servicio y solicitará la correspondiente cancelación en el Registro.
+
+Si el alimentante incumpliere el acuerdo de pago, el tribunal ordenará inscribir al deudor en el Registro. Cuando el acuerdo de pago se hubiere dividido en cuotas, el incumplimiento de una sola cuota hará exigible la totalidad de la deuda. Si el alimentante no compareciere al tribunal a señalar las razones que justificaren el incumplimiento del acuerdo dentro del término de un mes desde que éste se produjo, se le impondrá una multa de 1 a 5 unidades tributarias mensuales, que en caso de reincidencia podrá imponerse hasta por el doble. Si en cambio compareciere dando razones justificadas, podrá proponer al tribunal la aprobación de un nuevo acuerdo de pago serio y suficiente.
+
+#### Artículo 27
+
+Formularios. Para realizar las presentaciones judiciales a que se refiere este Título, deberá disponerse de formularios especiales, cuyo contenido y formato serán determinados por la Corporación Administrativa del Poder Judicial. Dichas presentaciones deberán realizarse a través de la plataforma electrónica del Poder Judicial, por el medio de identificación que el sistema provee.
+
+#### Artículo 28
+
+Retención en las operaciones de crédito de dinero. Todo proveedor de servicios financieros que al celebrar con una persona natural una operación de crédito de dinero, entregue o se obligue a entregar una suma igual o superior a cincuenta unidades de fomento, para que sea restituida en cuotas periódicas, a excepción de los productos financieros con créditos disponibles o créditos rotativos, estará obligado a consultar, en la forma y por los medios dispuestos en el artículo 23, si el solicitante se encuentra inscrito en el Registro en calidad de deudor de alimentos.
+
+Si el solicitante de una operación de crédito tiene inscripción vigente en el Registro, el proveedor de servicios financieros estará obligado a retener el equivalente al cincuenta por ciento del crédito o un monto inferior si éste es suficiente para solucionar el total de los alimentos adeudados y pagar dicha suma al alimentario a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro.
+
+El Conservador de Bienes Raíces, en forma previa a la inscripción de una hipoteca que tenga por objeto caucionar el crédito otorgado por un proveedor de servicios financieros, deberá requerir a quien solicita la inscripción que acredite que la persona a la cual se le asigna el crédito no figura inscrita en el Registro en calidad de deudor de alimentos, o en su defecto, que el proveedor de servicios financieros ha dado cumplimiento a los deberes de retención y pago señalados en el inciso anterior.
+
+Los mismos deberes serán aplicables respecto del Servicio, tratándose de la inscripción de una prenda sin desplazamiento, constituida para caucionar el crédito otorgado por un proveedor de servicios financieros.
+
+Será aplicable lo dispuesto en el artículo 31 cuando la operación de crédito de dinero tenga por objeto financiar la compraventa de inmuebles o vehículos motorizados. En consecuencia, en tales casos, no será aplicable lo señalado en los incisos tercero y cuarto.
+
+El proveedor de servicios financieros que celebre una operación de crédito de dinero señalada en este artículo y omitiera consultar si el solicitante de la operación se encuentra inscrito en el Registro en calidad de deudor de alimentos o bien omitiera los deberes de retención y pago, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad que debió retener y pagar al alimentario. La misma sanción recaerá respecto del Conservador de Bienes Raíces que no cumpla con las obligaciones contenidas en el inciso tercero. En caso de incumplimiento de las obligaciones a su cargo por parte de personal del Servicio, éste incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, de diez a cincuenta por ciento de su remuneración.
+
+#### Artículo 29
+
+Los tribunales de justicia, en la tramitación de los procedimientos de ejecución, antes de realizar el pago del dinero embargado o producido por la realización de bienes, deberán consultar, en la forma y por los medios dispuestos en el artículo 23, si el ejecutado y el ejecutante aparecen con inscripción vigente en el Registro en calidad de deudor de alimentos.
+
+Si el ejecutado aparece inscrito en el Registro en calidad de deudor de alimentos, el tribunal, al hacer el pago, deberá considerar al alimentario como un acreedor preferente, en los términos del número 5 del artículo 2472 del Código Civil. Respecto del pago que al alimentario corresponda, deberá el tribunal hacer la retención correspondiente y pagar a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro.
+
+Si el ejecutante tiene inscripción vigente en el Registro, el tribunal deberá retener del pago el equivalente al cincuenta por ciento o el monto total de los alimentos adeudados si éste es inferior, y pagar dicha suma al alimentario a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro.
+
+Tratándose de los procedimientos concursales de la ley N° 20.720, con el objeto de asegurar el pago de los créditos alimenticios, el liquidador, previo a realizar el primer pago o reparto de fondos, deberá consultar en el Registro, en la forma y por los medios dispuestos en el artículo 23, si el deudor y los acreedores beneficiarios tienen inscripción vigente en calidad de deudor de alimentos. Si el deudor aparece inscrito en el Registro en calidad de deudor de alimentos, el liquidador deberá considerar de oficio al alimentario como acreedor preferente en los términos del número 5 del artículo 2472 del Código Civil. Para estos efectos, el liquidador deberá hacer reserva de fondos y pagar la deuda alimenticia a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro. Si el acreedor tiene inscripción vigente en el Registro, el liquidador deberá retener del pago o reparto el equivalente al cincuenta por ciento o el monto total de los alimentos adeudados si éste es inferior, y pagar dicha suma a su alimentario a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro.
+
+En la realización de los remates públicos los tribunales de justicia no admitirán a participar como postores a las personas con inscripción vigente en el Registro en calidad de deudor de alimentos. Para estos efectos, el tribunal deberá consultar el Registro, en la forma y por los medios dispuestos en el artículo 23, en forma previa a hacer la calificación de la garantía de seriedad de la oferta. De igual forma, el Notario Público no extenderá la escritura pública de compraventa, mientras no verifique que el adjudicatario no tiene una inscripción vigente en el Registro en calidad de deudor de alimentos. Si por lo dispuesto anteriormente no pudiere suscribirse la escritura pública de compraventa, el tribunal deberá dejar sin efecto el acta de remate y el proceso de subasta pública, haciendo efectiva la garantía de seriedad de la oferta, en los términos del artículo 494 del Código de Procedimiento Civil, y dispondrá la devolución del dinero del precio de venta consignado por el adjudicatario, con deducción del monto que éste adeude por pensión alimenticia, el que será retenido y pagado a su alimentario.
+
+En caso de incumplimiento de las obligaciones previstas en los incisos precedentes por parte de funcionarios de los tribunales, éstos incurrirán en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, de diez a cincuenta por ciento de su remuneración. En caso de incumplimiento del deber referido en el inciso cuarto por parte del Notario Público, éste incurrirá en multa a beneficio fiscal, equivalente al doble de la cantidad que debió retener y pagar al alimentario.
+
+#### Artículo 30
+
+Retención de la devolución de impuestos a la renta. En el mes de marzo de cada año, la Tesorería General de la República, antes del pago de la devolución anual de impuestos a la renta, deberá consultar, en la forma y por los medios dispuestos en el artículo 23, si el contribuyente aparece inscrito en el Registro en calidad de deudor de alimentos.
+
+Si el contribuyente tiene inscripción vigente en el Registro, la Tesorería General de la República deberá retener de la devolución, con preferencia a otro tipo de deudas que generen retención, una suma equivalente al monto de los alimentos adeudados y pagar dicha suma al alimentario a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro, en la medida en que el monto a devolver sea superior a la deuda. Si la deuda alimentaria fuere mayor al monto correspondiente a la devolución anual de impuestos a la renta, la Tesorería deberá retener y pagar al alimentario la totalidad de la suma correspondiente a la devolución anual de impuestos a la renta. La Tesorería General de la República siempre deberá informar de la retención y el pago al tribunal respectivo. Si la Tesorería General de la República efectúa el pago habiéndose incumplido las obligaciones previstas en los incisos precedentes, el personal respectivo incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, del diez por ciento al cincuenta por ciento de su remuneración.
+
+#### Artículo 31
+
+Traspaso de bienes sujetos a registro. El Servicio de Registro Civil e Identificación deberá rechazar la inscripción de dominio por compraventa de un vehículo motorizado a nombre de una persona con inscripción vigente en el Registro, en calidad de deudor de alimentos, a menos que a la fecha de suscripción del título se certifique por un notario público que tales inscripciones no existían y que a partir de esa fecha, no han transcurrido cinco meses. La misma obligación adoptarán los Conservadores de Bienes Raíces ante la presentación de una solicitud de inscripción de dominio de un inmueble por compraventa.
+
+Si el vendedor del vehículo o inmueble tiene vigente una inscripción en el Registro en calidad de deudor de alimentos, la entidad a cargo de practicar la inscripción de dominio sólo podrá admitir la solicitud cuando se deje constancia en el título traslaticio, por un notario público, de que el cincuenta por ciento del dinero correspondiente al precio de venta, o una proporción inferior si ésta es suficiente para solucionar el total de la deuda, ha sido retenido y pagado al alimentario, o que se han otorgado garantías que aseguran el pago en un plazo no mayor a cinco días hábiles contados desde la inscripción. Para estos efectos, se entenderá que la entrega al notario en comisión de confianza de valores o documentos representativos de pago e instrucciones escritas constituyen garantía suficiente para asegurar el correspondiente pago. El notario, una vez cumplido el encargo, deberá mantener el texto de la instrucción dejada en su poder, al menos por un año.
+
+Para los fines de este artículo, la entidad registral deberá consultar, en la forma y por los medios dispuestos en el artículo 23, si las partes del contrato de compraventa tienen inscripciones vigentes en el Registro, en calidad de deudor de alimentos.
+
+Sin perjuicio de lo dispuesto en los incisos precedentes, la entidad a cargo del registro en que se deba practicar la inscripción de dominio, antes de practicar la inscripción solicitada, cualquiera sea el título en que se funde, deberá comunicar inmediatamente al tribunal con competencia en asuntos de familia que fuere competente, de la solicitud de inscripción que tenga por título el aporte, transferencia, transmisión o adquisición del bien por un deudor de alimentos, para que éste proceda conforme a sus atribuciones legales.
+
+El Conservador de Bienes Raíces que incumpla los deberes a que se refieren los incisos precedentes incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad que debió retener y pagar al alimentario. En caso de incumplimiento de las obligaciones a su cargo por parte de personal del Servicio, éste incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, del diez al cincuenta por ciento de su remuneración.
+
+En ningún caso la infracción a los deberes contemplados en este artículo acarreará la nulidad de la inscripción de dominio ni de la transferencia.
+
+Tratándose de la venta en pública subasta no tendrá aplicación el presente artículo, con excepción del deber de comunicación al tribunal con competencia en asuntos de familia al que hace referencia el inciso cuarto. Respecto de tales actuaciones, será aplicable lo dispuesto en el artículo 29.
+
+#### Artículo 32
+
+Del pasaporte. Para dar curso a la tramitación de un pasaporte de conformidad con la normativa vigente, al momento de la petición, el Servicio deberá consultar en línea si el solicitante se encuentra inscrito en el Registro a su cargo en calidad de deudor de alimentos. En el evento de aparecer con inscripción vigente en el Registro el Servicio rechazará, sin más trámite y en el acto, la solicitud.
+
+En caso de incumplimiento de las obligaciones previstas en el inciso precedente, el personal respectivo incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, del diez al cincuenta por ciento de su remuneración.
+
+#### Artículo 33
+
+De la licencia de conducir. La municipalidad competente para expedir una licencia de conducir o su duplicado, de conformidad con el artículo 5 de la ley N° 18.290, de Tránsito, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2007, del Ministerio de Transportes y Telecomunicaciones, y de Justicia, deberá consultar en línea al Servicio si el solicitante se encuentra inscrito en el Registro en calidad de deudor de alimentos. Si aparece con inscripción vigente en el Registro, lo informará al solicitante y no dará curso a la solicitud.
+
+En caso de incumplimiento de las obligaciones previstas en el inciso precedente, el personal respectivo incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, del diez al cincuenta por ciento de su remuneración.
+
+#### Artículo 34
+
+Reglas comunes a los artículos 32 y 33. Si el o la solicitante de los documentos a que se refieren los artículos 32 y 33 precedentes justificare ante el tribunal, de forma fundada, que la expedición del pasaporte o de la licencia de conducir son indispensables para el ejercicio de la actividad o empleo que le genera ingresos, éste podrá ordenar a la autoridad correspondiente que expida la licencia de conducir o el pasaporte, con una vigencia limitada, por un plazo no inferior a seis meses ni superior a un año, siempre que el alimentante garantice el pago íntegro de la deuda y se obligue a solucionar las cantidades y con la periodicidad que fije el juez, en relación con los ingresos mensuales ordinarios y extraordinarios que perciba. Una vez recibida la solicitud, el tribunal deberá resolverla en el más breve plazo, de plano o previo traslado, con el solo mérito de los antecedentes que las partes acompañen a sus presentaciones y aquéllos que obren en el proceso.
+
+Con todo, vencidos los documentos otorgados con vigencia limitada, la tramitación ordinaria de renovación de alguno de éstos por las autoridades autorizadas por ley a otorgarlos quedará supeditada al cumplimiento íntegro y oportuno de las condiciones señaladas por el juez, hasta alcanzar el pago íntegro de la deuda.
+
+Deberá dejarse constancia en el Registro de la orden judicial que el tribunal expida de conformidad con este artículo.
+
+#### Artículo 35
+
+Beneficios económicos. Los órganos de la Administración del Estado podrán consultar el Registro, en la forma y por los medios dispuestos en el artículo 23, para la adjudicación de los beneficios económicos señalados en el inciso segundo, cuando en el acto administrativo por el que se aprobaren las bases de postulación a ellos se disponga como requisito o condición para percibirlo, no tener una inscripción vigente en el Registro como deudor de alimentos, o se pondere dicha circunstancia en los procesos de evaluación de antecedentes de los postulantes, o se establezcan exigencias u obligaciones especiales a su respecto, en orden a promover el pago total o parcial de la deuda alimenticia. En tales casos, se entenderá que los respectivos órganos de la Administración del Estado son personas con interés legítimo en la consulta.
+
+Los órganos de la Administración del Estado deberán realizar la consulta regulada en el inciso primero cuando se trate de las postulaciones a beneficios económicos que se otorguen a las personas, destinados al desarrollo del capital humano; al financiamiento para la creación de empresas o para el fomento de empresas ya creadas; o para el desarrollo de proyectos de inversión.
+
+Será también aplicable lo señalado en los incisos precedentes, tratándose de las personas jurídicas sin fines de lucro creadas de conformidad con lo dispuesto en los artículos 100 y siguientes de la ley N° 19.175, orgánica constitucional sobre Gobierno y Administración Regional, cuyo texto refundido, coordinado, sistematizado fue fijado por el decreto con fuerza de ley N° 1-19.175, de 2005, del Ministerio del Interior; en el artículo 12 del decreto con fuerza de ley N° 1-3.063, de 1980, del Ministerio del Interior, y en los artículos 129 y siguientes de la ley N° 18.695, orgánica constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2006, del Ministerio del Interior. En tales casos, se entenderá que las respectivas entidades son personas con interés legítimo en la consulta.
+
+Con todo, si el favorecido por un beneficio estatal que implica una transferencia directa de dinero tiene inscripción vigente en el Registro, el ente estatal estará obligado a retener el equivalente al cincuenta por ciento de la transferencia directa o un monto inferior si éste es suficiente para solucionar el monto total de los alimentos adeudados, y entregar dicha suma al alimentario a través de una transferencia de los fondos a la cuenta bancaria inscrita en el Registro.
+
+Para efectos del presente artículo, en ningún caso se considerarán dentro de las categorías de beneficios económicos sujetos a sus disposiciones, aquéllos que estén destinados a ayudar a personas y familias en situación de vulnerabilidad socioeconómica, ni los destinados a enfrentar la cesantía.
+
+#### Artículo 36
+
+Autoridades y personal de organismos públicos. Toda persona, para ingresar a las dotaciones de la Administración del Estado, del Poder Judicial, del Congreso Nacional o de otro organismo público, o ser nombrado o contratado en alguna de estas instituciones, o promovido o ascendido y que tenga una inscripción vigente en el Registro en calidad de deudor de alimentos, deberá autorizar, como condición habilitante para su contratación, nombramiento, promoción o ascenso, que la institución respectiva proceda a retener y pagar directamente al alimentario el monto de las futuras pensiones de alimentos, más un recargo de un diez por ciento, que será imputado a la deuda de alimentos hasta extinguirla íntegramente. Tratándose del nombramiento, contratación, promoción o ascenso en cargos directivos de exclusiva confianza de la autoridad facultada para efectuar el nombramiento, en cargos de alta dirección pública del primer y segundo nivel jerárquico de acuerdo al Título VI de la ley N° 19.882, y en cargos con remuneración bruta mensualizada igual o superior a 80 unidades tributarias mensuales, el recargo será de un veinte por ciento. Para estos efectos, no será aplicable el límite previsto en el inciso primero del artículo 7, al monto que resulte de adicionar a la pensión de alimentos el respectivo recargo del diez o veinte por ciento.
+
+Tratándose de quienes resulten electos senadores, diputados, gobernadores regionales, consejeros regionales, alcaldes, concejales y cualquiera otra persona que resulte electa para ejercer un cargo de elección popular, que tengan una inscripción vigente en el Registro en calidad de deudores de alimentos, deberán autorizar, en forma previa a la asunción de su cargo, que la institución respectiva proceda a retener y pagar directamente al alimentario en los términos expresados en el inciso precedente, con recargo de un veinte por ciento.
+
+Extinguida la deuda, la institución respectiva continuará obligada a retener y entregar directamente al alimentario, a su representante legal o la persona a cuyo cuidado esté, la suma o cuota periódica establecida como pensión alimenticia, y deberá ajustar la retención al monto necesario para el pago de ella.
+
+Es obligación de la institución respectiva consultar en el Registro, en la forma y por los medios dispuestos en el artículo 23, si el interesado se encuentra inscrito en calidad de deudor de alimentos, como asimismo, deberá adoptar los protocolos y medidas administrativas necesarias para dar íntegro cumplimiento a lo dispuesto en este artículo. Tratándose de senadores, diputados, gobernadores regionales, consejeros regionales, alcaldes, concejales y cualquiera otra persona que resulte electa para ejercer un cargo de elección popular, para efectos de lo dispuesto en el inciso segundo, las entidades correspondientes deberán cumplir con las obligaciones de que trata este inciso, de consulta en el Registro, y de adopción de las medidas administrativas del caso, dentro de los diez días hábiles anteriores a la fecha prevista para la asunción del cargo de que se trate.
+
+En caso de incumplimiento de las obligaciones previstas en este artículo, el personal respectivo incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, de diez a cincuenta por ciento de su remuneración.
+
+#### Artículo 37
+
+Pluralidad de deudas inscritas en el Registro. Si la suma retenida, de conformidad con lo dispuesto en los artículos 28 a 31 y en el artículo 36, es insuficiente para cubrir íntegramente las deudas consignadas en el Registro, a través de distintas inscripciones, la cuantía retenida deberá distribuirse de manera que todas las deudas inscritas sean solucionadas de forma proporcional.
+
+#### Artículo 38
+
+De los directores y gerentes generales de sociedades anónimas abiertas con transacción bursátil. Cuando un gerente general o director de una sociedad anónima abierta con transacción bursátil tenga una inscripción vigente en el Registro, en carácter de deudor de alimentos, la sociedad respectiva deberá retener del sueldo del director o del gerente general, según corresponda, el equivalente al cincuenta por ciento de su sueldo o el monto total de los alimentos adeudados si éste es inferior y pagar directamente esos montos al alimentario a través del depósito de los fondos en la cuenta bancaria inscrita en el Registro.
+
+El incumplimiento del deber de retención antes indicado no afectará la validez de los actos o contratos que hubieren practicado o celebrado los gerentes generales o directores.
+
+Para estos efectos, se entenderán personas con interés legítimo en la consulta, además del propio interesado, la respectiva sociedad anónima abierta y el competente órgano fiscalizador.
+
+#### Artículo 39
+
+Deber de información en la manifestación del matrimonio o acuerdo de unión civil. El Oficial del Servicio de Registro Civil e Identificación, al comunicársele por los futuros contrayentes la intención de celebrar matrimonio o acuerdo de unión civil, deberá consultar el Registro e informarles por escrito, entregándoles copia de la certificación, si los futuros contrayentes poseen una inscripción vigente en calidad de deudor de alimentos, so pena de incurrir el funcionario en responsabilidad por su omisión, en los términos dispuestos en el inciso final del artículo 10 de la ley N° 19.947, que establece nueva Ley de Matrimonio Civil.
+
+En ningún caso la infracción de este deber acarreará la nulidad del matrimonio o del acuerdo de unión civil, ni del régimen patrimonial aplicable.
+
+#### Artículo 40
+
+Comisión de Coordinación y Evaluación del Nuevo Sistema de Cumplimiento de Pensiones Alimenticias. Créase la Comisión de Coordinación y Evaluación del Nuevo Sistema de Cumplimiento de Pensiones Alimenticias, con carácter consultivo, que tendrá por objetivo procurar el fortalecimiento del sistema de cumplimiento de pago de pensiones alimenticias concebido en este Título, en adelante, "Sistema" o "Sistema de Cumplimiento", a través de proposiciones técnicas que faciliten su implementación, coordinación, seguimiento, evaluación y eficacia, así como la acción mancomunada de las instituciones en ella representadas.
+
+En particular, corresponderá a esta Comisión ejercer las siguientes funciones:
+
+a) Coordinar la actuación de los organismos que participan de la operatoria del Registro.
+
+b) Coordinar la actuación de los organismos encargados de dar cumplimiento a las medidas legales contempladas en este Título que afectan a las personas con inscripción vigente en el Registro.
+
+c) Evaluar la implementación y el funcionamiento del sistema, con el objeto de proponer las medidas pertinentes tendientes a mejorar su funcionamiento.
+
+En el marco de esta función, podrá preparar propuestas de convenios de colaboración interinstitucional que se estimen necesarios para el debido funcionamiento del Sistema, a fin de proponer su suscripción a los representantes de las respectivas instituciones.
+
+d) Proponer las reformas que resulten pertinentes a las autoridades de los ministerios integrantes de la Comisión; preparando para estos efectos evaluaciones, estudios y demás antecedentes que sustenten las proposiciones técnicas que se formulen.
+
+e) Preparar un informe anual, respecto de las evaluaciones, propuestas técnicas y demás antecedentes preparados por la Comisión; y respecto de los diagnósticos de la gestión institucional y proposiciones técnicas que remitan las instituciones, de conformidad a lo dispuesto en el inciso final del presente artículo. El informe deberá ser entregado a las autoridades de las instituciones integrantes de la Comisión en el mes de diciembre de cada año y remitido en igual fecha a la Comisión Especial encargada de conocer iniciativas y tramitar proyectos de ley relacionados con la mujer y la igualdad de género del Senado y a la Comisión de Mujeres y Equidad de Género de la Cámara de Diputados.
+
+Para facilitar la debida coordinación institucional, y el cumplimiento de las normas legales que integran el sistema, la Comisión podrá establecer lineamientos, estándares y criterios generales, así como proponer los protocolos de actuación institucional que correspondan a las entidades encargadas de dar cumplimiento a las obligaciones dispuestas en este Título.
+
+La Comisión estará integrada por un representante del Poder Judicial, del Ministerio de la Mujer y la Equidad de Género, del Ministerio de Justicia y Derechos Humanos, del Ministerio de Desarrollo Social y Familia y del Servicio de Registro Civil e Identificación. Dichos representantes serán funcionarios de las instituciones mencionadas y serán designados por medio de la dictación del acto administrativo correspondiente emanado de la autoridad respectiva. Asimismo, los representantes podrán hacerse acompañar en las sesiones de la Comisión por otros funcionarios de las respectivas instituciones.
+
+La Comisión será coordinada bajo la responsabilidad del Ministerio de la Mujer y la Equidad de Género, en el que estará radicada su secretaría ejecutiva. El Ministerio de la Mujer y la Equidad de Género deberá proveer los medios necesarios para garantizar el funcionamiento de las sesiones y la elaboración y registro de las evaluaciones, estudios y demás antecedentes que debe preparar la Comisión en el marco de sus funciones.
+
+La Comisión sesionará en forma ordinaria, convocada por su secretaría ejecutiva, cada cuatro meses, dentro de los primeros quince días del mes correspondiente. Las sesiones extraordinarias serán convocadas por la secretaría ejecutiva a solicitud de al menos dos de sus miembros.
+
+La Comisión no podrá sesionar sin la concurrencia de, al menos, tres de sus integrantes. Sus acuerdos se adoptarán por la mayoría de sus miembros presentes. Si un integrante titular estuviere imposibilitado de asistir, será reemplazado por quien corresponda que lo subrogue.
+
+La secretaría ejecutiva deberá levantar acta de cada sesión respecto a las materias tratadas y de los acuerdos adoptados y, en su caso, incluirá los antecedentes estadísticos, técnicos y demás pertinentes en que se haya fundado la Comisión para obrar y resolver. Estas actas serán públicas de acuerdo a las disposiciones establecidas en la ley Nº 20.285, sobre acceso a la información pública.
+
+La Comisión podrá invitar a sus sesiones a los representantes de organizaciones e instituciones públicas y privadas que estime pertinente, como, asimismo, podrá solicitar ser recibida por cualquier autoridad o funcionario del Estado, para recabar antecedentes o representar las necesidades que sea indispensable atender para el cumplimiento de sus fines.
+
+Con el fin de garantizar el trabajo coordinado de los actores involucrados en la Comisión, el o la Ministro(a) de la Mujer y la Equidad de Género, el o la Presidente(a) de la Corte Suprema, el o la Ministro(a) de Justicia y Derechos Humanos, el o la Ministro(a) de Desarrollo Social y Familia y el o la Director(a) Nacional del Servicio de Registro Civil e Identificación deberán remitir a la Comisión, en el mes de octubre de cada año, un diagnóstico de la gestión institucional respectiva en torno al funcionamiento del Sistema de Cumplimiento concebido en este Título, y propuestas de trabajo para el diseño de proposiciones técnicas para su seguimiento, evaluación y fortalecimiento. En todo caso, la Comisión podrá requerir mayor información o antecedentes a las referidas autoridades para una mejor comprensión de los datos proporcionados.
 
 #### Artículo transitorio
 

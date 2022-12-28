@@ -26,7 +26,7 @@ Los efectos del matrimonio y las relaciones entre los cónyuges y entre éstos y
 
 #### Artículo 2º
 
-La facultad de contraer matrimonio es un derecho esencial inherente a la persona humana, si se tiene edad para ello. Las disposiciones de esta ley establecen los requisitos para asegurar el libre y pleno consentimiento de los contrayentes.
+La facultad de contraer matrimonio es un derecho esencial inherente a la persona humana, si se tiene edad para ello. El matrimonio que se celebre con un menor de edad será nulo, de conformidad con las normas del Capítulo V de la presente ley. Las disposiciones de esta ley establecen los requisitos para asegurar el libre y pleno consentimiento de los contrayentes.
 
 El juez tomará, a petición de cualquier persona, todas las providencias que le parezcan convenientes para posibilitar el ejercicio legítimo de este derecho cuando, por acto de un particular o de una autoridad, sea negado o restringido arbitrariamente.
 
@@ -58,7 +58,7 @@ No podrán contraer matrimonio:
 
 2° Los que se hallaren ligados por un acuerdo de unión civil vigente, a menos que el matrimonio lo celebre con su conviviente civil;
 
-3º Los menores de dieciséis años;
+3º Los menores de dieciocho años;
 
 4º Los que se hallaren privados del uso de razón; y los que por un trastorno o anomalía psíquica, fehacientemente diagnosticada, sean incapaces de modo absoluto para formar la comunidad de vida que implica el matrimonio;
 
@@ -394,7 +394,7 @@ De la titularidad y del ejercicio de la acción de nulidad
 
 La titularidad de la acción de nulidad del matrimonio corresponde a cualesquiera de los presuntos cónyuges, salvo las siguientes excepciones:
 
-a) La nulidad fundada en el número 3º del artículo 5º podrá ser demandada por cualquiera de los cónyuges o por alguno de sus ascendientes, pero alcanzados los dieciséis años por parte de ambos contrayentes, la acción se radicará únicamente en el o los que contrajeron sin tener esa edad;
+a) La nulidad fundada en el número 3º del artículo 5º podrá ser demandada por cualquiera de los cónyuges o por cualquier persona fundándose en el interés superior del niño, niña o adolescente, pero alcanzados los dieciocho años por parte de ambos contrayentes, la acción se radicará únicamente en el o los que contrajeron sin tener esa edad;
 
 b) La acción de nulidad fundada en alguno de los vicios previstos en el artículo 8º corresponde exclusivamente al cónyuge que ha sufrido el error o la fuerza;
 
@@ -414,7 +414,7 @@ La acción de nulidad del matrimonio sólo podrá intentarse mientras vivan ambo
 
 La acción de nulidad de matrimonio no prescribe por tiempo, salvo las siguientes excepciones:
 
-a) Tratándose de la nulidad fundada en la causal establecida en el número 3º del artículo 5º, la acción prescribirá en un año, contado desde la fecha en que el cónyuge inhábil para contraer matrimonio hubiere adquirido la mayoría de edad;
+a) Suprimido.
 
 b) En los casos previstos en el artículo 8º, la acción de nulidad prescribe en el término de tres años, contados desde que hubiere desaparecido el hecho que origina el vicio de error o fuerza;
 
@@ -510,7 +510,7 @@ La acción de divorcio es irrenunciable y no se extingue por el mero transcurso 
 
 #### Artículo 58
 
-El cónyuge menor de edad y el interdicto por disipación son hábiles para ejercer por sí mismos la acción de divorcio, sin perjuicio de su derecho a actuar por intermedio de representantes.
+El interdicto por disipación es hábil para ejercer por sí mismo la acción de divorcio, sin perjuicio de su derecho a actuar por intermedio de representantes.
 
 ### Párrafo 3º
 
