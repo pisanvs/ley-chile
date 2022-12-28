@@ -222,7 +222,7 @@ DE LA SOLICITUD DE DISOLUCIÓN DEL VÍNCULO MATRIMONIAL
 
 <!-- parte:10291408 -->
 
-DE LA NOTIFICACIÓN O INFORMACIÓN AL CÓNYUGE. El tribunal que acoja la solicitud de rectificación de una persona con vínculo matrimonial vigente, ordenará que la resolución judicial que acoge la solicitud sea notificada a su cónyuge. Asimismo, cuando se acoja una solicitud administrativa de rectificación de una persona con vínculo matrimonial vigente, el Servicio de Registro Civil e Identificación informará de la rectificación a su cónyuge.
+DE LA NOTIFICACIÓN O INFORMACIÓN AL CÓNYUGE. Cuando se acoja una solicitud administrativa de rectificación de una persona con vínculo matrimonial vigente, el Servicio de Registro Civil e Identificación informará ésta a su cónyuge.
 
 #### Artículo 19
 
