@@ -80,7 +80,7 @@ El aumento de remuneraciones que contempla esta ley para el personal asistente d
 
 #### Artículo 9°
 
-A contar desde el 1° de enero de 2019, la subvención a que se refiere el artículo 1° pasará a incrementar, en la proporción que corresponda, los factores de la unidad de subvención educacional señalados en el artículo 9° del decreto con fuerza de ley N° 5, del Ministerio de Educación, de 1993. Dicho incremento se determinará mediante decreto supremo del mismo Ministerio, suscrito, además, por el Ministro de Hacienda.
+Suprimido.
 
 #### Artículo 10
 

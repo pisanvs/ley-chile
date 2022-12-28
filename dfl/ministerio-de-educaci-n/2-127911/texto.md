@@ -674,6 +674,8 @@ No obstante lo señalado en el inciso anterior, la subvención del primero, segu
 
 En los casos en que se suspendan las clases o actividades escolares por un mes calendario a lo menos, en virtud de resolución del Ministerio de Educación, se considerará para los efectos del cálculo de los promedios de asistencia a que se refieren los incisos anteriores, que la asistencia media de ese mes es la ocurrida en el último mes en que se registró asistencia efectiva.
 
+> **Nota.** El artículo único de la Ley 21407, publicado el 24.01.2022, interpreta el inciso cuarto del artículo 13°, en el sentido de que la referida norma tiene por propósito favorecer el financiamiento de los establecimientos educacionales, en ningún caso perjudicarlos, por lo que no procede reintegro alguno por concepto de subvención.
+
 #### Artículo 14
 
 No obstante lo señalado en el artículo anterior, el monto de la subvención mensual estará sujeto a modificaciones cuando existan discrepancias entre las asistencias comprobadas en visitas inspectivas a un establecimiento educacional, respecto de las asistencias medias declaradas, para lo cual se procederá conforme a los incisos siguientes.
@@ -1139,6 +1141,12 @@ Estos valores se pagarán de la siguiente manera:
 3.- El señalado en el tercer tramo, se pagará a los sostenedores que hayan retenido a alumnos de 3º y 4º años de enseñanza media, hayan sido promovidos o no a 4º año de enseñanza media, o se hayan matriculado nuevamente en 4º año de enseñanza media por haber repetido dicho curso.
 
 4.- El valor señalado en el cuarto tramo, se pagará a los sostenedores que hayan retenido a alumnos de 4º año de enseñanza media y que en la oportunidad que corresponda el pago de esta subvención, hayan egresado satisfactoriamente de dicho curso.
+
+#### Artículo 43
+
+A.- Con cargo a la subvención educacional regulada en este párrafo los sostenedores podrán desarrollar actividades destinadas a asegurar la continuidad y trayectoria educativa integral de los y las estudiantes que tengan un riesgo de abandono educativo, tales como planes y acciones de retención y continuidad educativa, y la mantención de un equipo escolar de acompañamiento para dichos fines, entre otras.
+
+El Ministerio de Educación deberá entregar lineamientos respecto a las acciones que se podrán desarrollar con cargo a estos recursos y para los fines descritos.
 
 #### Artículo 44
 

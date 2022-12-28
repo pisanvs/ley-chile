@@ -464,7 +464,7 @@ Las prestaciones del seguro de la ley Nº 19.728 se pagarán contra la presentac
 
 #### Artículo 47
 
-Derogado.
+Los funcionarios y funcionarias municipales y los trabajadores de los cementerios municipales, que habiendo postulado al proceso de los cupos correspondientes a los años 2018, 2019, 2020 y 2021 de la ley Nº 21.135, y que hayan pasado a integrar en forma preferente el listado de seleccionado de dicho proceso conforme a lo dispuesto en el artículo 6 de la citada ley, correspondiéndoles el beneficio en los años siguientes, podrán acceder anticipadamente al cupo respectivo siempre que tengan la condición de enfermos terminales o bien padecer trastorno neuro cognitivo mayor en fase terminal, debidamente certificado por el médico tratante. El número máximo de cupos a anticipar serán 61, los cuales serán descontados de las anualidades que hubieren correspondido al respectivo beneficiario. A partir de la publicación de esta ley, la Subsecretaría de Desarrollo Regional y Administrativo podrá asignar anticipadamente los cupos antes indicados, siempre que la municipalidad remita a dicha Subsecretaría el certificado emitido por el médico tratante, visado por el secretario municipal.
 
 #### Artículo 48
 
@@ -639,8 +639,6 @@ La información remitida será utilizada por la Dirección de Presupuestos para 
 La Dirección de Presupuestos informará a la Contraloría General de la República sobre el incumplimiento de la obligación dispuesta en este artículo, la cual, de acuerdo a las normas de su ley orgánica, podrá incoar el sumario y establecer las sanciones que correspondan respecto de las entidades sujetas a su fiscalización. El incumplimiento injustificado de la obligación establecida en este artículo se sancionará con multa de 20 a 50 por ciento de las remuneraciones de la autoridad o jefe superior respectivo del órgano o servicio.
 
 La Dirección de Presupuestos y su personal deberán guardar absoluta reserva y secreto de los datos personales de que tomen conocimiento en virtud de la presente disposición, y abstenerse de usar dicha información en beneficio propio o de terceros. Para efectos de lo dispuesto en el inciso segundo del artículo 125 del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, se estimará que los hechos que configuren infracciones de esta disposición vulneran gravemente el principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan.
-
-La Dirección de Presupuestos publicará semestralmente en su página web institucional la información disponible y consolidada por institución del número de trabajadores informados en la nómina a que se refiere el inciso primero de este artículo. Con todo, la integridad y calidad de la información será de exclusiva responsabilidad de los organismos mencionados en dicho inciso.
 
 #### Artículo 71
 

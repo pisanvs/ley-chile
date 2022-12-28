@@ -462,6 +462,8 @@ Capacitación y perfeccionamiento de funcionarios no académicos. Las universida
 
 Contratación para labores accidentales y no habituales. Las universidades del Estado podrán contratar, sobre la base de honorarios, sólo la prestación de servicios o labores accidentales y que no sean las habituales de la institución. Las personas contratadas a honorarios se regirán por las cláusulas del respectivo contrato de conformidad a la legislación civil y no les serán aplicables las disposiciones del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo.
 
+Además, las universidades del Estado podrán contratar sobre la base de honorarios, la prestación de servicios o labores de investigación, docencia académica de pre y postgrado hasta un máximo de 12 horas semanales o para impartir hasta cuatro asignaturas o por un semestre académico. Asimismo, podrán contratar a honorarios aquellos servicios que se requieran para la ejecución de proyectos y actividades específicas que cuentan con financiamiento propio para su ejecución, incluyendo labores de docencia, investigación o extensión.
+
 #### Artículo 49
 
 Actos atentatorios a la dignidad de los integrantes de la comunidad universitaria. Las prohibiciones para el personal académico y no académico de las universidades del Estado, relativas a actos atentatorios a la dignidad de los demás funcionarios, incluido el acoso sexual, el acoso laboral y la discriminación arbitraria, se entenderán referidas también a conductas del mismo tipo que resulten atentatorias a la dignidad de estudiantes, y de toda persona vinculada, de cualquier forma, a las actividades de la respectiva institución.

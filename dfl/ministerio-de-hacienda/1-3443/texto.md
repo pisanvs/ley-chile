@@ -44,7 +44,7 @@ Cargos Planta/Cargo E.U.S. Cargos
 
 1 Jefe División 2° 1
 
-3 Jefes División 3° 3
+2 Jefes División 3° 2
 
 1 Jefe División 4° 1
 
@@ -399,8 +399,6 @@ h) Administrativos de los grados 16° al 20°:
 > **Nota.** El Artículo 1º del Decreto con Fuerza de Ley 10, Hacienda, publicado el 08.02.2010, modifica conforme a lo dispuesto en el artículo 17 de la ley Nº 20.309, la planta de personal de la Secretaría y Administración General del Ministerio de Hacienda, contenida en el presente artículo, creándose los cargos que se indican a continuación:Plantas / Cargos Grados Número E.U.S. Jefe de oficina 10 1 Jefe de oficina 12 1 Jefe de oficina 16 1 Total Planta Directivos 3 Profesional 7 1 Total Planta Profesionales 1 Técnico 23 1 Total planta técnicos 1 Total cargos 5.
 
 > **Nota.** NOTA 1 El inciso final del artículo 71 de la Ley 21526, publicada el 28.12.2022, dispone que los requisitos de ingreso y promoción que se establecen en la letra e) de Requisitos Adicionales del artículo único de la presente norma, que fueron reemplazados por el inciso primero del citado artículo de la señalada ley, para los cargos profesionales que se indican de la Secretaría y Administración General del Ministerio de Hacienda, no serán exigibles a los funcionarios titulares de esa planta en servicio a la fecha de publicación de la Ley 21526, respecto de los cargos que sirven. Asimismo, a los funcionarios a contrata en servicio a la fecha de publicación de la Ley 21526 que se encuentren asimilados a dichos grados y planta de dicha Secretaría, y a aquellos cuyos contratos se prorroguen en las mismas condiciones, no les serán exigibles los requisitos que se establecen en el párrafo final de letra e) de Requisitos Adicionales del presente artículo único.
-
-> **Nota.** NOTA 2 El artículo 3 de la ley 21658 publicada el 09.02.2024 ordena agregar un " Cargo de Exclusiva Confianza" por lo que el total de cargos de dicho escalafón corresponde a 9.
 
 Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Martín Costabal Llona, Ministro de Hacienda.- Carlos Francisco Cáceres C., Ministro del Interior.
 
