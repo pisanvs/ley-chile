@@ -12,9 +12,11 @@ Decreto:
 
 1°.- Apruébase el siguiente programa de expropiación para el año 2021, en la Región de Ñuble, para la adquisición de los siguientes lotes ubicados en la comuna de Chillán, a ser destinados a la ejecución del proyecto "Mejoramiento Diego Portales - Francisco Ramírez, Chillán", que mejorarán la capacidad vial de la calle Diego Portales y la Avenida Francisco Ramírez, y que se singularizan a continuación:
 
-Superficie aproximada inmuebles a expropiar: 2.660,08 metros cuadrados.
+Superficie aproximada inmuebles a expropiar: 3.098,29 metros cuadrados.
 
 2°.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Diguillín, si lo hubiere.
+
+> **Nota.** El Nº 1 del Decreto 80 Exento, Vivienda, publicado el 29.12.2022, complementa el programa de expropiaciones de terrenos destinados a la implementación del proyecto denominado "Mejoramiento Diego Portales-Francisco Ramírez, Chillán", en la comuna de Chillán, de la Región de Ñuble, aprobado mediante el presente decreto, en el sentido de incorporar el inmueble cuyos datos se especifican en la tabla inserta en la citada norma.
 
 Anótese, notifíquese y publíquese.- Por orden del Presidente de la República, Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
