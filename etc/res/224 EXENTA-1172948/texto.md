@@ -112,6 +112,8 @@ Para afrontar el impacto provocado en los costos de las obras financiadas por el
 
 .
 
+(*) Resolución Nº 1.438, de 2022 (V. y U.), de 26 de octubre de 2022, que aprueba nómina complementaria de postulantes beneficiados en el primer proceso de selección del llamado a postulación nacional en condiciones especiales para el desarrollo de proyectos del Capítulo Primero, Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.) de 2016, a Organizaciones Comunitarias y Juntas de Vecinos, regidas por la ley Nº 19.418.
+
 Con estos montos se determinará el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu, en formato físico o digital según lo indique cada Serviu. También tendrán que presentar sus carpetas los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del Artículo 27 del DS Nº 27 (V. y U.) de 2016, la que se determinará hasta alcanzar el equivalente al 20% de los recursos dispuestos en el presente llamado. No obstante, si durante el proceso de revisión y evaluación el número de proyectos que no cumplan con los requisitos de las etapas anteriores supera dicho porcentaje, cada Serviu podrá aumentar el número de postulantes de la lista de espera.
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, se podrán redistribuir o incrementar los recursos señalados en la tabla precedente total o parcialmente, mediante resoluciones dictadas al efecto.
