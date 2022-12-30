@@ -46,6 +46,14 @@ Resolución:
 
 1.- Apruébese la siguiente nómina seleccionada en el Llamado Regional en Condiciones Especiales para el otorgamiento de Subsidios Habitacionales del Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, y sus modificaciones, del Conjunto Habitacional Baltazar Castro de la comuna de Rancagua.
 
+a) Asígnese un subsidio habitacional base de hasta 900 UF, a cada uno de los participantes seleccionados en el Llamado Regional en condiciones especiales del Conjunto Habitacional Baltazar Castro, de la comuna de Rancagua. El monto total del subsidio habitacional, será el que resulte de descontar de las 900 UF el valor que percibe el beneficiario por concepto de expropiación.
+
+b) Asígnese un subsidio de habilitación de hasta 80 UF, que podrá ser utilizado para obras de demolición, de acuerdo a lo señalado en el artículo 35 letra h) del DS N° 49 (V. y U.) de 2011. Corresponderá al Serviu de la Región del L.B. O'Higgins determinar los mecanismos de pago del subsidio para demolición.
+
+c) Asígnese a las familias beneficiadas mediante el llamado especial, que no sean dueñas de otra vivienda, un monto de subsidio de albergue transitorio de hasta 46 UF, de acuerdo a las condiciones señaladas en el artículo N° 27, del DS N° 49 (V. y U.), de 2011.
+
+d) Asígnese un monto de subsidio de hasta 12 UF. para el pago por los servicios de Asistencia Técnica y las labores de Fiscalización Técnica de Obras, según se establece en la resolución exenta N° 1.875 (V. y U.), de 2015, que fija procedimiento para la prestación de servicios de asistencia técnica, jurídica y social para el programa Fondo Solidario de Elección de Vivienda.
+
 2.- Se condiciona la Entrega del Beneficio previa entrega de los siguientes documentos:
 
 - Declaración Jurada Simple de Postulación DS Nº 49.
