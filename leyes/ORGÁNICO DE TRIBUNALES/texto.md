@@ -106,7 +106,7 @@ Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perp
 
 9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República;
 
-10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años;
+10°) Los sancionados en los artículos 367, 367 quáter inciso segundo y 367 septies del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 367 quáter, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años;
 
 11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos;
 
@@ -1256,6 +1256,26 @@ B. Las atribuciones de las Cortes de Apelaciones previstas en el artículo 47 se
 
 C. Tratándose de los tribunales de juicio oral en lo penal, las Cortes de Apelaciones podrán ejercer las potestades señaladas en el artículo 47, ordenando que uno o más de los jueces del tribunal se aboquen en forma exclusiva al conocimiento de las infracciones de los adolescentes a la ley penal, en calidad de jueces de garantía, cuando el mejor servicio judicial así lo exigiere.
 
+#### Artículo 47
+
+D.- En los Juzgados de Letras en lo Civil, en los Juzgados de Familia, en los Juzgados de Letras del Trabajo, en los Juzgados de Cobranza Laboral y Previsional, en el Juzgado de Letras de Familia, Garantía y Trabajo creado por el artículo 1º de la ley Nº 20.876, y en los Juzgados de Letras con competencia común, a solicitud del juez o del juez presidente, si es el caso, y previo informe de la Corporación Administrativa del Poder Judicial, las Cortes de Apelaciones podrán autorizar, por resolución fundada en razones de buen servicio con el fin de cautelar la eficiencia del sistema judicial para garantizar el acceso a la justicia o la vida o integridad de las personas, la adopción de un sistema de funcionamiento excepcional que habilite al tribunal a realizar de forma remota por videoconferencia las audiencias de su competencia en que no se rinda prueba testimonial, absolución de posiciones o declaración de partes o de peritos. Lo anterior no procederá respecto de las audiencias en materias penales que se realicen en los Juzgados de Letras con competencia común.
+
+La propuesta de funcionamiento excepcional será elaborada por el secretario o administrador del tribunal, y suscrita por el juez o juez presidente, según corresponda. Dicha propuesta tendrá una duración máxima de un año, la que se podrá prorrogar por una sola vez por el mismo período, sin necesidad de una nueva solicitud.
+
+El tribunal deberá solicitar a las partes una forma expedita de contacto a efectos de que coordine con ellas los aspectos logísticos necesarios, tales como número de teléfono o correo electrónico. Las partes deberán dar cumplimiento a esta exigencia hasta dos días antes de la realización de la audiencia respectiva. Si cualquiera de las partes no ofreciere oportunamente una forma expedita de contacto, o no fuere posible contactarla a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no ha comparecido a la audiencia.
+
+La constatación de la identidad de la parte que comparece de forma remota deberá efectuarse inmediatamente al inicio de la audiencia, de manera remota ante el ministro de fe o el funcionario que determine el tribunal respectivo, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro.
+
+De la audiencia realizada por vía remota mediante videoconferencia en los asuntos civiles y comerciales se levantará acta que consignará todo lo obrado en ella, la que deberá ser suscrita por las partes, el juez y los demás comparecientes, mediante firma electrónica simple o avanzada.
+
+Sin perjuicio de lo dispuesto en el inciso primero, cualquier persona legitimada a comparecer en la causa podrá solicitar, hasta dos días antes de la realización de la audiencia, que ésta se desarrolle de forma presencial, invocando razones graves que imposibiliten o dificulten su participación, o que por circunstancias particulares, quede en una situación de indefensión.
+
+La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de su responsabilidad. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, el tribunal fijará un nuevo día y hora para la continuación de la audiencia, sin que se pierda lo obrado con anterioridad a dicho mal funcionamiento. En la nueva audiencia que se fije, el tribunal velará por la igualdad de las partes en el ejercicio de sus derechos.
+
+La Corte Suprema regulará mediante auto acordado los criterios que las Cortes de Apelaciones deberán tener a la vista para aprobar este tipo de funcionamiento excepcional.
+
+> **Nota.** El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el presente artículo regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme a dicho artículo disponga la Corte Suprema.
+
 #### Artículo 48
 
 Los jueces de letras de comunas asiento de Corte conocerán en primera instancia de las causas de hacienda, cualquiera que sea su cuantía.
@@ -1505,6 +1525,18 @@ Las salas no podrán funcionar sin la concurrencia de tres jueces como mínimum.
 #### Artículo 68
 
 Las Cortes de Apelaciones resolverán los asuntos en cuenta o previa vista de ellos, según corresponda.
+
+#### Artículo 68 bis
+
+Las Cortes de Apelaciones podrán autorizar, por resolución fundada en razones de buen servicio a fin de cautelar la eficiencia del sistema judicial para garantizar el acceso a la justicia o la vida o integridad de las personas, la adopción de un sistema de funcionamiento excepcional que las habilite a realizar la vista de las causas sometidas a su conocimiento en forma remota por videoconferencia. La propuesta de funcionamiento excepcional será elaborada por el presidente de la Corte respectiva y deberá ser aprobada por el pleno. Dicha propuesta tendrá una duración máxima de un año, la que se podrá prorrogar por una sola vez por el mismo período, sin necesidad de una nueva solicitud.
+
+En este caso, tendrá aplicación lo dispuesto en los artículos 223 y 223 bis del Código de Procedimiento Civil.
+
+Con todo, cualquiera de las partes podrá solicitar, hasta las 12:00 horas del día anterior a la vista de la causa, que esta se desarrolle de forma presencial, invocando razones graves que imposibiliten o dificulten su participación, o que por circunstancias particulares, quede en una situación de indefensión.
+
+La Corte Suprema regulará mediante auto acordado los criterios que las Cortes de Apelaciones deberán tener a la vista para aprobar este tipo de funcionamiento excepcional.
+
+> **Nota.** El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el presente artículo regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme a dicho artículo disponga la Corte Suprema.
 
 #### Artículo 69
 
@@ -1784,6 +1816,16 @@ Las salas de la Corte Suprema conocerán:
 
 10.- De los demás negocios judiciales de que corresponda conocer a la Corte Suprema y que no estén entregados expresamente al conocimiento del pleno.
 
+#### Artículo 98 bis
+
+La Corte Suprema podrá autorizar por razones de buen servicio a fin de cautelar la eficiencia del sistema judicial para garantizar el acceso a la justicia o la vida o integridad de las personas, por resolución fundada, la adopción de un sistema de funcionamiento excepcional que la habilite a realizar la vista de las causas sometidas a su conocimiento en forma remota por videoconferencia. La propuesta de funcionamiento excepcional será elaborada por su presidente y deberá ser aprobada por el pleno. Dicha propuesta tendrá una duración máxima de un año, la que se podrá prorrogar por una sola vez por el mismo período, sin necesidad de una nueva solicitud.
+
+En este caso, tendrá aplicación lo dispuesto en los artículos 223 y 223 bis del Código de Procedimiento Civil.
+
+Con todo, cualquiera de las partes podrá solicitar, hasta las 12:00 horas del día anterior a la vista de la causa, que ésta se desarrolle de forma presencial, invocando razones graves que imposibiliten o dificulten su participación de manera significativa, o que por circunstancias particulares, quede en una situación de indefensión.
+
+> **Nota.** El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el presente artículo regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme a dicho artículo disponga la Corte Suprema.
+
 #### Artículo 99
 
 Corresponderá a la Corte Suprema, mediante auto acordado, establecer cada dos años las materias de que conocerá cada una de las salas en que ésta se divida, tanto en funcionamiento ordinario como extraordinario. Al efecto, especificará la o las salas que conocerán de materias civiles, penales, constitucionales, contencioso administrativas, laborales, de menores, tributarias u otras que el propio tribunal determine. Asimismo, señalará la forma y periodicidad en que las salas especializadas decidirán acerca de las materias indicadas en el inciso primero del artículo 781 y en los incisos primero y segundo del artículo 782, ambos del Código de Procedimiento Civil, respecto de los recursos de casación que hayan ingresado hasta quince días antes de la fecha en que se deba resolver sobre la materia. En todo caso, la mencionada periodicidad no podrá ser superior a tres meses.
@@ -1819,6 +1861,24 @@ La obligación señalada en el artículo 311 se entenderá cumplida por el juez 
 En ningún caso, la facultad establecida en este artículo podrá ser empleada como mecanismo de sanción o menoscabo en contra de los jueces destinados, ni tampoco ser utilizada reiteradamente respecto de un mismo juez.
 
 Sin perjuicio de lo señalado en el inciso segundo, la Corte Suprema podrá ejercer la facultad de destinación entre tribunales ubicados dentro de la Región Metropolitana, aun cuando dependan de distintas Cortes de Apelaciones.
+
+#### Artículo 101 bis
+
+Cuando existieren desequilibrios entre las dotaciones de los ministros, secretarios, fiscales judiciales, relatores y funcionarios; y la carga de trabajo entre las Cortes de Apelaciones de Santiago y de San Miguel de la Región Metropolitana, por razones de buen servicio con el fin de cautelar la eficiencia del sistema judicial para garantizar el acceso a la justicia o la vida o integridad de las personas, la Corte Suprema podrá, por resolución fundada, a solicitud del Presidente de la Corte de Apelaciones respectiva, previo informe de la Corporación Administrativa del Poder Judicial, en que consten los datos objetivos para su procedencia, destinar transitoriamente a uno o más ministros, secretarios, fiscales judiciales, relatores o funcionarios de Corte a desempeñar sus funciones preferentemente en la otra Corte. Los destinados sólo podrán asumir el mismo cargo y labor que respectivamente desempeñaban en la Corte de origen.
+
+Dicha facultad podrá ejercerse excepcionalmente entre las Cortes mencionadas por un plazo mínimo de seis meses y máximo de un año por cada ministro, secretario, fiscal judicial, relator o funcionario, sin renovación inmediata.
+
+La solicitud deberá presentarse por la respectiva Corte de Apelaciones, debiendo indicar en ella el tiempo por el cual se solicita, el que no podrá ser menor a seis meses ni superior a un año. Dicha petición, acompañada con el respectivo informe de la Corporación Administrativa del Poder Judicial a que alude el inciso primero, oyendo previamente a las respectivas Cortes de Apelaciones, será conocida y resuelta por la Corte Suprema considerando la proyección necesaria para superar los desequilibrios y cautelar el buen servicio a que alude el inciso primero. En sus informes deberán las Cortes de Apelaciones respectivas incluir la nómina de ministros, secretarios, fiscales judiciales, relatores y funcionarios que presten su anuencia para ser preferidos en su destinación a la otra Corte.
+
+La Corte Suprema designará al ministro, secretario, fiscal judicial, relator o funcionario destinado dando preferencia a aquellos que manifiesten su interés en ser destinados transitoriamente.
+
+Esta facultad no podrá ejercerse con respecto al ministro presidente del tribunal ni afectar en forma simultánea a un porcentaje superior al cincuenta por ciento de los ministros, secretarios, fiscales judiciales, relatores o funcionarios integrantes de cada Corte.
+
+El ejercicio de esta facultad no modificará el sistema de remuneración, de calificación o el régimen estatutario de los ministros, secretarios, fiscales judiciales, relatores o funcionarios destinados, ni tampoco podrá importar deterioro en su condición funcionaria, personal o familiar.
+
+La obligación señalada en el artículo 311 se entenderá cumplida por el ministro transitoriamente destinado, para todos los efectos legales, por el hecho de verificarse respecto de su tribunal de origen.
+
+En ningún caso, la facultad establecida en este artículo podrá ser empleada como mecanismo de sanción o menoscabo en contra de los ministros, secretarios, fiscales judiciales, relatores o funcionarios destinados, ni tampoco ser utilizada reiteradamente respecto de alguno de ellos sin contar con su anuencia previa. No podrá ser destinado quien que se encuentre sometido a un proceso disciplinario o cumpliendo una sanción administrativa.
 
 #### Artículo 102
 
@@ -1883,6 +1943,48 @@ El Presidente de la Corte Suprema desempeñará las atribuciones a que se refier
 #### Artículo 107
 
 Los presidentes de las salas de la Corte Suprema, tendrán las atribuciones que el artículo 92 confiere a los presidentes de las salas de las Cortes de Apelaciones.
+
+## Título VI — bis
+
+De la realización de audiencias bajo la modalidad semipresencial o vía remota en los procedimientos penales en trámite ante los juzgados de garantía, los tribunales de juicio oral en lo penal, las Cortes de Apelaciones y la Corte Suprema.
+
+#### Artículo 107 bis
+
+En los procedimientos penales, en trámite ante sí, los juzgados de garantía, los tribunales de juicio oral en lo penal, las Cortes de Apelaciones y la Corte Suprema podrán decretar el desarrollo de audiencias bajo la modalidad semipresencial, consistente en la comparecencia vía remota de uno o más de los intervinientes o partes, estando siempre el tribunal presente, sin perjuicio de las disposiciones del Código Procesal Penal o del Código de Procedimiento Penal, según corresponda.
+
+Lo dispuesto en el inciso precedente no procederá respecto de las audiencias de juicio. Sin perjuicio de lo anterior, tratándose de las declaraciones del imputado, la víctima, testigos y peritos, el tribunal podrá autorizar la comparecencia por vía remota, en los siguientes casos:
+
+1. Cuando exista la necesidad de brindar protección a las víctimas y testigos que presten declaración, según lo dispuesto en el artículo 308 del Código Procesal Penal.
+
+2. Cuando el imputado se encuentre privado de libertad y deba comparecer por vía remota en el establecimiento o recinto en que permanece. El tribunal deberá adoptar las medidas necesarias para el cumplimiento del artículo 327 del Código Procesal Penal.
+
+3. Cuando, atendida la situación de la víctima o el imputado, el traslado al lugar del juicio resulte muy dispendioso.
+
+4. Cuando el perito tenga su domicilio fuera del lugar del juicio, o se encuentre fuera del lugar del juicio por causa justificada; o tratándose de perito que tenga la calidad de funcionario público, y el traslado al tribunal pueda afectar el cumplimiento de sus funciones.
+
+5. Cuando el testigo sea funcionario público, y esté fuera del lugar del juicio por encontrarse gozando de permiso o feriado.
+
+El tribunal podrá exigir, cuando sea procedente, que la comparecencia vía remota de los intervinientes o partes respectivas, sea ante el tribunal con competencia en materia penal más cercano al lugar donde se encuentren.
+
+Para efectos de lo dispuesto en los incisos precedentes, el tribunal examinará previamente que bajo esta modalidad no se vulneran las garantías del debido proceso contempladas en la Constitución Política de la República y en los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+
+#### Artículo 107 ter
+
+Sin perjuicio de lo dispuesto en el artículo anterior, en situaciones excepcionales, cuando las circunstancias lo aconsejaren, a fin de cautelar la vida e integridad de las personas, el acceso a la justicia y la eficiencia del sistema judicial, las Cortes de Apelaciones, previo informe de la Corporación Administrativa del Poder Judicial, podrán disponer, mediante resolución fundada, la adopción de un sistema de funcionamiento de excepcionalidad que habilite a la Corte, a los juzgados de garantía y a los tribunales de juicio oral en lo penal, a proceder en forma remota por videoconferencia, como también bajo la modalidad semipresencial, en la realización de las audiencias de los procedimientos penales en trámite ante sí.
+
+A su turno, la Corte Suprema podrá disponer, mediante resolución fundada, la adopción de un sistema de funcionamiento de excepcionalidad que la habilite a proceder en forma remota por videoconferencia, como también bajo la modalidad semipresencial, en la realización de las audiencias de los procedimientos penales en trámite ante sí, ante situaciones excepcionales, cuando las circunstancias lo aconsejaren, a fin de cautelar la vida e integridad de las personas, el acceso a la justicia, y la eficiencia del sistema judicial. Asimismo, cuando las circunstancias de la situación excepcional lo hicieren necesario, la Corte Suprema además podrá disponer, mediante resolución fundada, la adopción de un sistema de funcionamiento de excepcionalidad para las audiencias de los procedimientos penales en trámite ante las Cortes de Apelaciones, los juzgados de garantía y los tribunales de juicio oral en lo penal de todo el país.
+
+El sistema de funcionamiento de excepcionalidad que decrete una corte de conformidad con las disposiciones de los incisos anteriores, podrá tener una duración máxima de un año. Con todo, podrá prorrogarse, si se mantienen las circunstancias de la situación de excepción, en cuyo caso, la vigencia total del sistema de funcionamiento de excepcionalidad y sus prórrogas no podrá ser superior a dos años.
+
+Dispuesto un sistema de funcionamiento de excepcionalidad, de conformidad con las disposiciones de los incisos anteriores, los tribunales respectivos se sujetarán a las normas de funcionamiento que disponga la Corte en su resolución y a las reglas de los incisos siguientes.
+
+En el caso del juicio oral, el tribunal citará a los intervinientes a una audiencia de factibilidad, para efectos de determinar su desarrollo de forma presencial, semipresencial o vía remota. En ésta, el tribunal podrá decretar el desarrollo de la audiencia del juicio oral vía remota o de manera semipresencial, cuando existiere acuerdo entre el fiscal, el defensor y el querellante, si lo hubiere, y previo examen de que las condiciones acordadas para la realización de la audiencia no vulneran las garantías del debido proceso contempladas en la Constitución Política de la República y en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Si no existiera dicho acuerdo, el tribunal igualmente podrá decretar su desarrollo vía remota o de manera semipresencial, siempre que estimare que bajo esta modalidad no se vulneran las garantías del debido proceso. De la resolución del tribunal, tanto el fiscal, como el defensor, o el querellante si lo hubiere, podrán oponerse, lo que será resuelto en la misma audiencia de factibilidad.
+
+En el caso del juicio oral simplificado, el tribunal podrá decretar su desarrollo de manera presencial, semipresencial, o por vía remota, examinando previamente que bajo estas últimas dos modalidades no se vulneran las garantías del debido proceso contempladas en la Constitución Política de la República y en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Sin perjuicio de lo anterior, cualquiera de los intervinientes podrá solicitar de manera fundada que se efectúe una audiencia de factibilidad, en los términos del inciso precedente, debiendo el tribunal resolver si ésta es o no necesaria.
+
+Respecto de las demás audiencias, una vez notificado a los intervinientes que la audiencia respectiva se realizará por vía remota o semipresencial, el fiscal, el defensor o el querellante, si lo hubiere, podrán oponerse por escrito dentro del plazo de cuarenta y ocho horas, por considerar que pudieren afectarse las garantías del debido proceso contempladas en la Constitución Política de la República y en los tratados internacionales ratificados por Chile y que se encuentren vigentes. El tribunal resolverá, inmediatamente y por la vía más expedita, según los argumentos presentados por los intervinientes.
+
+En toda audiencia que se desarrolle en forma remota por videoconferencia o bajo la modalidad semipresencial en que deba intervenir el imputado, el tribunal velará que exista una comunicación directa, permanente y confidencial entre el imputado y su defensa.
 
 ## Título VII
 
@@ -2464,7 +2566,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $8.265 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $6.231 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $8.860 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $6.680 pesos.
 
 #### Artículo 199
 
@@ -4330,7 +4432,7 @@ El notario deberá inutilizar, con su firma y sello, el reverso no escrito de la
 
 #### Artículo 405
 
-Las escrituras públicas deberán otorgarse ante notario y podrán ser extendidas manuscritas, mecanografiadas o en otra forma que leyes especiales autoricen. Deberán indicar el lugar y fecha de su otorgamiento; la individualización del notario autorizante y el nombre de los comparecientes, con expresión de su nacionalidad, estado civil, profesión, domicilio y cédula de identidad, salvo en el caso de extranjeros y chilenos radicados en el extranjero, quienes podrán acreditar su identidad con el pasaporte o con el documento de identificación con que se les permitió su ingreso al país.
+Las escrituras públicas deberán otorgarse ante notario y podrán ser extendidas mecanografiadas, o a través de documento electrónico para el otorgamiento de las escrituras a que hace referencia el artículo 497 del Código de Procedimiento Civil, o en otra forma que leyes especiales autoricen. Deberán indicar el lugar y fecha de su otorgamiento; la individualización del notario autorizante y el nombre de los comparecientes, con expresión de su nacionalidad, estado civil, profesión, domicilio y cédula de identidad, salvo en el caso de extranjeros y chilenos radicados en el extranjero, quienes podrán acreditar su identidad con el pasaporte o con el documento de identificación con que se les permitió su ingreso al país.
 
 Además, el notario al autorizar la escritura indicará el número de anotación que tenga en el repertorio, la que se hará el día en que sea firmada por el primero de los otorgantes.
 
@@ -4355,6 +4457,16 @@ Se considera que una persona firma una escritura o documento no sólo cuando lo 
 #### Artículo 409
 
 Siempre que alguno de los otorgantes o el notario lo exijan, los firmantes dejarán su impresión digital en la forma indicada en el artículo anterior.
+
+#### Artículo 409 bis
+
+El notario extenderá escrituras públicas a través de documento electrónico en el caso dispuesto en el artículo 497 del Código de Procedimiento Civil, empleando medios tecnológicos que permitan su suscripción por parte de los otorgantes mediante firma electrónica avanzada, siempre que los sistemas electrónicos garanticen debidamente su identidad, así como la autenticidad de los datos asociados a la firma electrónica, tales como fecha y hora de suscripción. Asimismo, el notario deberá rubricarla mediante firma electrónica avanzada.
+
+El notario deberá verificar el cumplimiento de los requisitos establecidos en el artículo 405, entendiéndose que el lugar de otorgamiento es aquel en que se encuentra el notario.
+
+Suscrita una escritura pública electrónica por todos sus otorgantes, y autorizada conforme a la ley, el notario autorizante deberá proceder a insertarla en los registros pertinentes.
+
+Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos y suscrito también por el Ministro de Hacienda y el Ministro Secretario General de la Presidencia, detallará la forma y características que deberán tener las escrituras públicas otorgadas a través de documentos electrónicos y las copias autorizadas de dichas escrituras. Este reglamento, a su vez, detallará la forma en que el notario deberá protocolizar y registrar las escrituras públicas electrónicas y documentos electrónicos que se insertaren a ellas.
 
 #### Artículo 410
 
@@ -4513,6 +4625,10 @@ Sin embargo si la protocolización se indicare en una escritura pública, bastar
 El libro repertorio se cerrará diariamente, indicándose el número de la última anotación, la fecha y firma del notario. Si no se hubiere efectuado anotaciones, se expresará esta circunstancia.
 
 La falta de las anotaciones señaladas en el inciso segundo, no afectará la validez de una escritura pública otorgada, sin perjuicio de la responsabilidad del notario.
+
+#### Artículo 430 bis
+
+Las escrituras otorgadas de conformidad a lo dispuesto en el artículo 497 del Código de Procedimiento Civil serán incorporadas a un libro repertorio y a un protocolo electrónico. Los documentos que se acompañen de conformidad al inciso tercero del artículo 495 del mismo cuerpo normativo, también serán agregados a dicho protocolo electrónico. Se aplicará lo dispuesto en los dos artículos anteriores en lo que fuere pertinente.
 
 #### Artículo 431
 
@@ -5190,7 +5306,7 @@ En cuanto al destino de las fianzas y de los dineros decomisados, y de los que n
 
 Los tribunales de justicia mantendrán una cuenta corriente bancaria de depósito en la oficina del Banco del Estado del lugar en que funcionen, o del más próximo al de asiento del tribunal, y del movimiento de ella deberán rendir cuenta anualmente a la Contraloría General de la República.
 
-Los pagos que deban hacer esos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario o del administrador y el timbre del tribunal.
+Los pagos que deban hacer esos tribunales se efectuarán por medio de transferencia electrónica o cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario o del administrador y el timbre del tribunal. La Corte Suprema establecerá mediante auto acordado los requisitos que deben cumplirse para la realización de la transferencia electrónica y la forma de garantizar el correcto uso de este mecanismo.
 
 Los jueces o secretarios que subroguen al tribunal podrán girar en esas cuentas, debiendo expresar esta circunstancia en la antefirma. No podrán girar los demás subrogantes legales de los jueces.
 

@@ -12,7 +12,7 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1°
 
-Objeto de la ley. La presente ley regula la realización de la entrevista investigativa videograbada y de la declaración judicial con el objeto de prevenir la victimización secundaria de niños, niñas y adolescentes que hayan sido víctimas de los delitos contemplados en los Párrafos 5 y 6 del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 374 bis; 390; 390 bis; 390 ter; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal.
+Objeto de la ley. La presente ley regula la realización de la entrevista investigativa videograbada y de la declaración judicial con el objeto de prevenir la victimización secundaria de niños, niñas y adolescentes que hayan sido víctimas de los delitos contemplados en los Párrafos 5, 6 y 6 bis del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 390; 390 bis; 390 ter; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal.
 
 Mediante la prevención de la victimización secundaria se busca evitar toda consecuencia negativa que puedan sufrir los niños, niñas y adolescentes con ocasión de su interacción, en calidad de víctimas, con las personas o instituciones que intervienen en las etapas de denuncia, investigación y juzgamiento de los delitos señalados en el inciso anterior.
 
@@ -386,7 +386,7 @@ Introdúcense las siguientes modificaciones en el Código Procesal Penal:
 
 #### Artículo 110 bis
 
-Designación de curador ad litem. En los casos en que las víctimas menores de edad de los delitos establecidos en los Párrafos 5 y 6 del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 374 bis; 390; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal, carezcan de representante legal o cuando, por motivos fundados, se estimare que sus intereses son independientes o contradictorios con los de aquel a quien corresponda representarlos, el juez podrá designarles un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.".
+Designación de curador ad litem. En los casos en que las víctimas menores de edad de los delitos establecidos en los Párrafos 5, 6 y 6 bis del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 390; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal, carezcan de representante legal o cuando, por motivos fundados, se estimare que sus intereses son independientes o contradictorios con los de aquel a quien corresponda representarlos, el juez podrá designarles un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.".
 
 3) Derógase el artículo 191 bis.
 

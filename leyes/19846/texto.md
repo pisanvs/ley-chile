@@ -310,7 +310,7 @@ Disposiciones finales
 
 #### Artículo 30
 
-La participación en la producción de material pornográfico en cuya elaboración hayan sido utilizados menores de dieciocho años y la comercialización, importación, exportación, distribución o exhibición de ese material, serán sancionadas de conformidad a lo previsto en los artículos 366 quinquies, 374 bis y 374 ter del Código Penal.
+La participación en la producción de material pornográfico en cuya elaboración hayan sido utilizados menores de dieciocho años y la comercialización, importación, exportación, distribución o exhibición de ese material, serán sancionadas de conformidad a lo previsto en los artículos 367 quáter y 367 quinquies del Código Penal.
 
 #### Artículo 31
 

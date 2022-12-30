@@ -34,7 +34,7 @@ La edad del imputado deberá ser determinada por el juez competente en cualquier
 
 #### Artículo 4º
 
-Regla especial para delitos sexuales. No podrá procederse penalmente respecto de los delitos previstos en los artículos 362, 365, 366 bis, 366 quáter y 366 quinquies del Código Penal, cuando la conducta se hubiere realizado con una persona menor de 14 años y no concurra ninguna de las circunstancias enumeradas en los artículos 361 ó 363 de dicho Código, según sea el caso, a menos que exista entre aquélla y el imputado una diferencia de, a lo menos, dos años de edad, tratándose de la conducta descrita en el artículo 362, o de tres años en los demás casos.
+Regla especial para delitos sexuales. No podrá procederse penalmente respecto de los delitos previstos en los artículos 362, 365, 366 bis, 366 quáter y 367 quáter inciso segundo, del Código Penal, cuando la conducta se hubiere realizado con una persona menor de 14 años y no concurra ninguna de las circunstancias enumeradas en los artículos 361 ó 363 de dicho Código, según sea el caso, a menos que exista entre aquélla y el imputado una diferencia de, a lo menos, dos años de edad, tratándose de la conducta descrita en el artículo 362, o de tres años en los demás casos.
 
 #### Artículo 5º
 

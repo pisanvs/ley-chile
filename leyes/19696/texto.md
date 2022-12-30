@@ -564,7 +564,9 @@ Protección de la integridad física y psicológica de las personas objeto del t
 
 Cuando se trate de menores de dieciocho años, los servicios públicos a cargo de la protección de la infancia y la adolescencia deberán facilitar su acceso a las prestaciones especializadas que requieran, especialmente, aquellas tendientes a su recuperación integral y a la revinculación familiar, si fuere procedente de acuerdo al interés superior del menor de edad.
 
-En los casos en que las víctimas de los delitos establecidos en los artículos 411 bis y 411 quáter del Código Penal carezcan de representante legal o cuando, por motivos fundados, el juez estime que los intereses de las personas menores de edad son independientes o contradictorios con los de aquel a quien corresponda representarlo, el juez le designará un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.
+Inciso Derogado.
+
+> **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
 ### Párrafo 3º — La policía
 
@@ -867,6 +869,12 @@ Los derechos precedentemente señalados no podrán ser ejercidos por quien fuere
 #### Artículo 110
 
 Información a personas que no hubieren intervenido en el procedimiento. En los casos a que se refiere el inciso segundo del artículo 108, si ninguna de las personas enunciadas en ese precepto hubiere intervenido en el procedimiento, el ministerio público informará sus resultados al cónyuge del ofendido por el delito o, en su defecto, a alguno de los hijos u otra de esas personas.
+
+#### Artículo 110 bis
+
+Designación de curador ad litem. En los casos en que las víctimas menores de edad de los delitos establecidos en los Párrafos 5, 6 y 6 bis del Título VII del Libro Segundo, y en los artículos 141, incisos cuarto y quinto; 142; 372 bis; 390; 391; 395; 397, número 1; 411 bis; 411 ter; 411 quáter, y 433, número 1, todos del Código Penal, carezcan de representante legal o cuando, por motivos fundados, se estimare que sus intereses son independientes o contradictorios con los de aquel a quien corresponda representarlos, el juez podrá designarles un curador ad litem de cualquier institución que se dedique a la defensa, promoción o protección de los derechos de la infancia.
+
+> **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
 ### Párrafo 7º — El querellante
 
@@ -1570,13 +1578,11 @@ Sin perjuicio de lo anterior, la inasistencia del imputado válidamente emplazad
 
 #### Artículo 191 bis
 
-Anticipación de prueba de menores de edad. El fiscal podrá solicitar que se reciba la declaración anticipada de los menores de 18 años que fueren víctimas de alguno de los delitos contemplados en el Libro Segundo, Título VII, párrafos 5 y 6 del Código Penal. En dichos casos, el juez, considerando las circunstancias personales y emocionales del menor de edad, podrá, acogiendo la solicitud de prueba anticipada, proceder a interrogarlo, debiendo los intervinientes dirigir las preguntas por su intermedio.
+Anticipación de prueba de menores de edad. Derogado.-
 
-Con todo, si se modificaren las circunstancias que motivaron la recepción de prueba anticipada, la misma deberá rendirse en el juicio oral.
+> **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
-La declaración deberá realizarse en una sala acondicionada, con los implementos adecuados a la edad y etapa evolutiva del menor de edad.
-
-En los casos previstos en este artículo, el juez deberá citar a todos aquellos que tuvieren derecho a asistir al juicio oral.
+> **Nota.** NOTA 1 El artículo 7 N° 1 de la ley 21.522, publicada el 30.12.2022, modifica el presente artículo en el sentido de reemplazar la expresión "párrafos 5 y 6" por "párrafos 5, 6 y 6 bis" los cuales pertenecen al Libro Segundo, Título VII, del Código Penal; ello no obstante haber sido derogado previamente por el artículo 32 N° 3 de la ley 21.057, que regula las entrevistas grabadas en video de menores de edad. Esta misma ley establece, en su artículo 1°, que su ámbito de aplicación, comprende los párrafos indicados del Código Penal.
 
 #### Artículo 192
 
@@ -1850,7 +1856,7 @@ Otros medios técnicos de investigación. Cuando el procedimiento tuviere por ob
 
 #### Artículo 226 bis
 
-Técnicas especiales de investigación. Cuando la investigación de los delitos contemplados en el artículo 190 de la ley Nº18.290 y en los artículos 442, 443, 443 bis, 447 bis, 448 bis y 456 bis A del Código Penal, lo hicieren imprescindible y existieren fundadas sospechas, basadas en hechos determinados, de la participación en una asociación ilícita, o en una agrupación u organización conformada por dos o más personas, destinada a cometer los hechos punibles previstos en estas normas, aun cuando ésta o aquella no configure una asociación ilícita, el Ministerio Público podrá aplicar las técnicas previstas y reguladas en los artículos 222 a 226, conforme lo disponen dichas normas.
+Técnicas especiales de investigación. Cuando la investigación de los delitos contemplados en el artículo 190 de la ley Nº18.290 y en los artículos 442, 443, 443 bis, 447 bis, 448 bis, 448 septies y 456 bis A del Código Penal, lo hicieren imprescindible y existieren fundadas sospechas, basadas en hechos determinados, de la participación en una asociación ilícita, o en una agrupación u organización conformada por dos o más personas, destinada a cometer los hechos punibles previstos en estas normas, aun cuando ésta o aquella no configure una asociación ilícita, el Ministerio Público podrá aplicar las técnicas previstas y reguladas en los artículos 222 a 226, conforme lo disponen dichas normas.
 
 Además, cumpliéndose las mismas condiciones establecidas en el inciso anterior y tratándose de los crímenes contemplados en los artículos 433, 434, inciso primero del 436 y 440 del Código Penal y de los delitos a que hace referencia el inciso precedente, el Ministerio Público podrá utilizar las técnicas especiales de investigación consistentes en entregas vigiladas y controladas, el uso de agentes encubiertos e informantes en la forma regulada por los artículos 23 y 25 de la ley Nº20.000, siempre que fuere necesario para lograr el esclarecimiento de los hechos, establecer la identidad y la participación de personas determinadas en éstos, conocer sus planes, prevenirlos o comprobarlos.
 
@@ -2448,11 +2454,13 @@ Devolución de los documentos de la investigación. El tribunal devolverá a los
 
 Prueba anticipada. Durante la audiencia de preparación del juicio oral también se podrá solicitar la prueba testimonial anticipada conforme a lo previsto en el artículo 191.
 
-Si con posterioridad a la realización de la audiencia de preparación del juicio oral, sobreviniere, respecto de los testigos, alguna de las circunstancias señaladas en el inciso segundo del artículo 191 o se tratare de la situación señalada en el artículo 191 bis, cualquiera de los intervinientes podrá solicitar al juez de garantía, en audiencia especial citada al efecto, la rendición de prueba anticipada.
+Si con posterioridad a la realización de la audiencia de preparación del juicio oral, sobreviniere, respecto de los testigos, alguna de las circunstancias señaladas en el inciso segundo del artículo 191, cualquiera de los intervinientes podrá solicitar al juez de garantía, en audiencia especial citada al efecto, la rendición de prueba anticipada.
 
 Asimismo, se podrá solicitar la declaración de peritos en conformidad con las normas del Párrafo 6º del Título III del Libro Segundo, cuando fuere previsible que la persona de cuya declaración se tratare se encontrará en la imposibilidad de concurrir al juicio oral, por alguna de las razones contempladas en el inciso segundo del artículo 191.
 
 Para los efectos de lo establecido en los incisos anteriores, el juez de garantía citará a una audiencia especial para la recepción de la prueba anticipada.
+
+> **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
 #### Artículo 280 bis
 
@@ -2704,7 +2712,9 @@ Todo testigo dará razón circunstanciada de los hechos sobre los cuales declara
 
 #### Artículo 310
 
-Testigos menores de edad. El testigo menor de edad sólo será interrogado por el presidente de la sala, debiendo los intervinientes dirigir las preguntas por su intermedio.
+Testigos menores de edad. El testigo menor de edad sólo será interrogado por el presidente de la sala, debiendo los intervinientes dirigir las preguntas por su intermedio, teniendo éste el deber de impedir que se formulen preguntas que puedan causar sufrimiento o afectación grave de la dignidad del niño, niña o adolescente, a efectos de resguardar su interés superior.
+
+> **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
 #### Artículo 311
 
@@ -3920,7 +3930,7 @@ Si el tribunal estimare necesario ordenar la destrucción de las especies, se ll
 
 Las demás especies decomisadas se pondrán a disposición de la Dirección General del Crédito Prendario para que proceda a su enajenación en subasta pública, o a destruirlas si carecieren de valor. El producto de la enajenación tendrá el mismo destino que se señala en el inciso primero.
 
-En los casos de los artículos 366 quinquies, 374 bis, inciso primero, y 374 ter del Código Penal, el tribunal destinará los instrumentos tecnológicos decomisados, tales como computadores, reproductores de imágenes o sonidos y otros similares, al Servicio Nacional de Menores o a los departamentos especializados en la materia de los organismos policiales que correspondan.
+En los casos de los artículos 367 quáter, incisos primero y segundo, 367 quinquies y 367 septies del Código Penal, el tribunal destinará los instrumentos tecnológicos decomisados, tales como computadores, reproductores de imágenes o sonidos y otros similares, al Servicio Nacional de Menores o a los departamentos especializados en la materia de los organismos policiales que correspondan.
 
 #### Artículo 470
 

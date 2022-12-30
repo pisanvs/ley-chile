@@ -232,7 +232,7 @@ La libertad vigilada intensiva podrá decretarse:
 
 a) Si la pena privativa o restrictiva de libertad que impusiere la sentencia fuere superior a tres años y no excediere de cinco, o
 
-b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 390 bis, 390 ter, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
+b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 390 bis, 390 ter, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter inciso segundo, y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
 
 En los casos previstos en las dos letras anteriores, deberán cumplirse, además, las condiciones indicadas en ambos numerales del inciso segundo del artículo anterior.
 
@@ -538,9 +538,9 @@ De la regla especial aplicable a los extranjeros
 
 #### Artículo 34
 
-Si el condenado a una pena igual o inferior a cinco años de presidio o reclusión menor en su grado máximo fuere un extranjero que no residiere legalmente en el país, el juez, de oficio o a petición de parte, podrá sustituir el cumplimiento de dicha pena por la expulsión de aquél del territorio nacional.
+Si el condenado a una pena igual o inferior a cinco años de presidio o reclusión menor en su grado máximo fuere un extranjero que no residiere legalmente en el país, el juez, de oficio o a petición de parte, podrá sustituir el cumplimiento de dicha pena por la expulsión de aquél del territorio nacional. La misma sustitución se aplicará respecto del extranjero que resida legalmente en el país, a menos que el juez, fundadamente, establezca que su arraigo en el país aconseje no aplicar esta medida, debiendo recabar para estos efectos un informe técnico al Servicio Nacional de Migraciones, el que deberá ser evacuado al tenor del artículo 129 de la Ley de Migración y Extranjería. No procederá esta sustitución respecto de los delitos cometidos con infracción de la ley Nº 20.000 y de los incisos segundo, tercero, cuarto y quinto del artículo 168 de la Ordenanza de Aduanas, ni de los condenados por los delitos contemplados en el párrafo V bis, de los delitos de tráfico ilícito de migrantes y trata de personas, del Título octavo del Libro Segundo del Código Penal.
 
-A la audiencia que tenga por objetivo resolver acerca de la posible sustitución de la pena privativa de libertad por la expulsión del territorio nacional deberá ser citado el Ministerio del Interior y Seguridad Pública, a fin de ser oído. Si se ordenare la expulsión, deberá oficiarse al Departamento de Extranjería del Ministerio mencionado para efectos de que lleve a cabo la implementación de esta pena y se ordenará la internación del condenado hasta la ejecución de la misma.
+A la audiencia que tenga por objetivo resolver acerca de la posible sustitución de la pena privativa de libertad por la expulsión del territorio nacional deberá ser citado el Ministerio del Interior y Seguridad Pública, a fin de ser oído. Si se ordenare la expulsión, deberá oficiarse a la Policía de Investigaciones de Chile para efectos de que lleve a cabo la implementación de esta pena y se ordenará la internación del condenado hasta la ejecución de la misma, debiendo informarse de ello al Servicio Nacional de Migraciones.
 
 El condenado extranjero al que se le aplicare la pena de expulsión no podrá regresar al territorio nacional en un plazo de diez años, contado desde la fecha de la sustitución de la pena.
 
