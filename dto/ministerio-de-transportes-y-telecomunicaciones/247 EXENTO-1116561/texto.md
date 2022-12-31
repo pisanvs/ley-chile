@@ -38,6 +38,22 @@ Decreto:
 
 4. Autorízase a la concesionaria para cambiar la ubicación del estudio, rectificar las coordenadas geográficas de la planta, cambiar características técnicas del sistema radiante y eliminar radioenlace estudio-planta, en los términos que a continuación se señalan:
 
+Estudio, Planta Transmisora y Sistema Radiante
+
+- Dirección : Julio Sepúlveda
+
+Nº 1193,
+
+Angol, IX Región.
+
+- Coordenadas : 37° 47' 20"
+
+Geográfica Latitud Sur;
+
+72° 42' 30"
+
+Longitud Oeste
+
 5. El presente decreto de modificación deberá publicarse en el Diario Oficial, dentro del plazo de 30 días hábiles, contados desde su notificación a la concesionaria. La no publicación de éste dentro del plazo indicado, producirá la extinción de dicho acto administrativo por el solo ministerio de la Ley sin necesidad de declaración alguna, de conformidad a lo previsto en el inciso final del artículo 23º de la Ley.
 
 ### 6. Los plazos serán los que se indican a continuación:
