@@ -864,7 +864,49 @@ e) Ser oída, si lo solicitare, por el tribunal antes de pronunciarse acerca del
 
 f) Impugnar el sobreseimiento temporal o definitivo o la sentencia absolutoria, aun cuando no hubiere intervenido en el procedimiento.
 
+Tratándose de los delitos previstos en el Código Penal, en los artículos 141, inciso final; 142, inciso final; 150 A; 150 D; 361; 362; 363; 365 bis; 366, incisos primero y segundo; 366 bis; 366 quáter; 367; 367 ter; 372 bis; 411 quáter, cuando se cometan con fines de explotación sexual, y 433, número 1, en relación con la violación, así como también cualquier delito sobre violencia en contra de las mujeres, las víctimas tendrán además derecho a:
+
+a) Contar con acceso a asistencia y representación judicial.
+
+b) No ser enjuiciada, estigmatizada, discriminada ni cuestionada por su relato, conductas o estilo de vida.
+
+c) Obtener una respuesta oportuna, efectiva y justificada.
+
+d) Que se realice una investigación con debida diligencia desde un enfoque intersectorial, incorporando la perspectiva de género y de derechos humanos.
+
+e) Recibir protección a través de las medidas contempladas en la legislación, cuando se encuentre amenazada o vulnerada su vida, integridad física, indemnidad sexual o libertad personal.
+
+f) La protección de sus datos personales y los de sus hijas e hijos, respecto de terceros, y de su intimidad, honra y seguridad, para lo cual el tribunal que conozca del respectivo procedimiento podrá disponer las medidas que sean pertinentes.
+
+g) Participar en el procedimiento recibiendo información clara, oportuna y completa de la causa. En particular, podrán obtener información de la causa personalmente, sin necesidad de requerir dicha información a través de un abogado.
+
+h) Que se adopten medidas para prevenir la victimización secundaria, esto es, evitar toda consecuencia negativa que puedan sufrir con ocasión de su interacción en el proceso penal. Con dicha finalidad, la denuncia debe ser recibida en condiciones que garanticen el respeto por su seguridad, privacidad y dignidad. La negativa o renuencia a recibir la denuncia se considerará una infracción grave al principio de probidad administrativa.
+
+Asimismo, tendrá derecho a que su declaración sea recibida en el tiempo más próximo desde la denuncia, por personal capacitado de Carabineros de Chile, de la Policía de Investigaciones de Chile o del Ministerio Público y cuente con el soporte necesario para evitar que vuelva a realizarse durante la etapa de investigación, a menos que ello sea indispensable para el esclarecimiento de los hechos o que la propia víctima lo requiera. La declaración judicial deberá ser recibida por jueces capacitados, y se garantizará en los casos referidos, el respeto por la seguridad, privacidad y dignidad de la víctima.
+
 Los derechos precedentemente señalados no podrán ser ejercidos por quien fuere imputado del delito respectivo, sin perjuicio de los derechos que le correspondieren en esa calidad.
+
+#### Artículo 109 bis
+
+Medidas de protección especiales para víctimas de delitos de violencia sexual. En los delitos contemplados en el Código Penal, en los artículos 141, inciso final; 142, inciso final; 150 A; 150 D; 361; 362; 363; 365 bis; 366, incisos primero y segundo; 366 bis; 366 quáter; 367; 367 ter; 372 bis; 411 quáter, cuando se cometan con fines de explotación sexual, y 433, número 1, en relación con la violación, el juez de garantía y el tribunal de juicio oral en lo penal, de oficio o a petición de alguno de los intervinientes, deberá adoptar una o más de las siguientes medidas para proteger la identidad, intimidad, integridad física, sexual y psíquica de la o las víctimas:
+
+a) Suprimir de las actas de las audiencias todo nombre, dirección o cualquier otra información que pudiera servir para identificar a las víctimas, sus familiares o testigos, directa o indirectamente.
+
+b) Prohibir a los intervinientes que entreguen información o formulen declaraciones a los medios de comunicación social relativas a la identidad de la o las víctimas, a menos que ellas consientan de manera libre e informada en dar a conocer su identidad.
+
+c) Impedir el acceso de personas determinadas o del público en general a la sala de audiencia, y ordenar su salida de ella, si alguna de las víctimas lo solicita.
+
+d) Prohibir a los medios de comunicación social el acceso a la sala de audiencia, si alguna de las víctimas lo solicita.
+
+e) Decretar alguna de las medidas establecidas en el artículo 308 para favorecer su declaración judicial.
+
+El Ministerio Público y los tribunales de justicia deberán tomar todas las medidas que correspondan para impedir la identificación de la o las víctimas por parte de terceras personas ajenas al proceso penal, a menos que ellas consientan de manera libre e informada en dar a conocer su identidad.
+
+#### Artículo 109 ter
+
+Deber de prevención de la victimización secundaria. Las personas e instituciones que intervienen en el proceso penal, en sus etapas de denuncia, investigación y juzgamiento tienen el deber de prevenir la victimización secundaria, esto es, evitar toda consecuencia negativa que puedan sufrir las víctimas con ocasión de su interacción en el proceso penal.
+
+Anualmente Carabineros de Chile, la Policía de Investigaciones de Chile, el Servicio Médico Legal, el Ministerio de Salud, el Ministerio Público, la Defensoría Penal Pública y el Poder Judicial realizarán planes de formación y perfeccionamiento que aborden la prevención de la victimización secundaria y la perspectiva de género en el proceso penal y fomenten una protección especial de las víctimas de violencia de género.
 
 #### Artículo 110
 
@@ -1212,7 +1254,7 @@ c) Cuando se comenzare a ejecutar la pena privativa de libertad o se resolviere 
 
 Recursos relacionados con la medida de prisión preventiva. La resolución que ordenare, mantuviere, negare lugar o revocare la prisión preventiva será apelable cuando hubiere sido dictada en una audiencia. No obstará a la procedencia del recurso, la circunstancia de haberse decretado, a petición de cualquiera de los intervinientes, alguna de las medidas cautelares señaladas en el artículo 155. En los demás casos no será susceptible de recurso alguno.
 
-Tratándose de los delitos establecidos en los artículos 141, 142, 361, 362, 365 bis, 390, 390 bis, 390 ter, 391, 433, 436 y 440 del Código Penal, en las leyes N°17.798 y N°20.000 y de los delitos de castración, mutilaciones y lesiones contra miembros de Carabineros, de la Policía de Investigaciones y de Gendarmería de Chile, en el ejercicio de sus funciones, el imputado que hubiere sido puesto a disposición del tribunal en calidad de detenido o se encontrare en prisión preventiva no podrá ser puesto en libertad mientras no se encontrare ejecutoriada la resolución que negare, sustituyere o revocare la prisión preventiva. El recurso de apelación contra esta resolución deberá interponerse en la misma audiencia, gozará de preferencia para su vista y fallo y será agregado extraordinariamente a la tabla el mismo día de su ingreso al Tribunal de Alzada, o a más tardar a la del día siguiente hábil. Cada Corte de Apelaciones deberá establecer una sala de turno que conozca estas apelaciones en días feriados.
+Tratándose de los delitos establecidos en los artículos 141, 142, 361, 362, 363, 365 bis, 366 incisos primero y segundo, 366 bis, 390, 390 bis, 390 ter, 391, 411 quáter, 433, 436 y 440 del Código Penal, en las leyes N°17.798 y N°20.000 y de los delitos de castración, mutilaciones y lesiones contra miembros de Carabineros, de la Policía de Investigaciones y de Gendarmería de Chile, en el ejercicio de sus funciones, el imputado que hubiere sido puesto a disposición del tribunal en calidad de detenido o se encontrare en prisión preventiva no podrá ser puesto en libertad mientras no se encontrare ejecutoriada la resolución que negare, sustituyere o revocare la prisión preventiva. El recurso de apelación contra esta resolución deberá interponerse en la misma audiencia, gozará de preferencia para su vista y fallo y será agregado extraordinariamente a la tabla el mismo día de su ingreso al Tribunal de Alzada, o a más tardar a la del día siguiente hábil. Cada Corte de Apelaciones deberá establecer una sala de turno que conozca estas apelaciones en días feriados.
 
 En los casos en que no sea aplicable lo dispuesto en el inciso anterior, estando pendiente el recurso contra la resolución que dispone la libertad, para impedir la posible fuga del imputado la Corte de Apelaciones respectiva tendrá la facultad de decretar una orden de no innovar, desde luego y sin esperar la vista del recurso de apelación del fiscal o del querellante.
 
@@ -1583,6 +1625,14 @@ Anticipación de prueba de menores de edad. Derogado.-
 > **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
 > **Nota.** NOTA 1 El artículo 7 N° 1 de la ley 21.522, publicada el 30.12.2022, modifica el presente artículo en el sentido de reemplazar la expresión "párrafos 5 y 6" por "párrafos 5, 6 y 6 bis" los cuales pertenecen al Libro Segundo, Título VII, del Código Penal; ello no obstante haber sido derogado previamente por el artículo 32 N° 3 de la ley 21.057, que regula las entrevistas grabadas en video de menores de edad. Esta misma ley establece, en su artículo 1°, que su ámbito de aplicación, comprende los párrafos indicados del Código Penal.
+
+#### Artículo 191 ter
+
+Anticipación de prueba con el fin de evitar la victimización secundaria. El fiscal podrá solicitar al juez de garantía que se reciba la declaración anticipada de aquellas víctimas de alguno de los delitos contemplados en el Código Penal, en los artículos 141 inciso final; 150 A; 150 D; 361; 365 bis; 366 incisos primero y segundo; 372 bis; 411 quáter, cuando se cometan con fines de explotación sexual, y 433, número 1, cuando se cometa violación, con el fin de evitar victimización secundaria.
+
+En los casos previstos en el inciso precedente, el juez deberá citar a todos aquellos que tuvieren derecho a asistir al juicio oral, quienes tendrán todas las facultades previstas para su participación en la audiencia del juicio oral.
+
+Sin perjuicio de lo anterior, la inasistencia del imputado válidamente emplazado no obstará a la validez de la audiencia en la que se rinda la prueba anticipada.
 
 #### Artículo 192
 
@@ -2462,6 +2512,8 @@ Para los efectos de lo establecido en los incisos anteriores, el juez de garant�
 
 > **Nota.** El Art. primero transitorio de la ley 21.057, establece que la modificación introducida al presente artículo comenzará a regir de manera gradual, en plazos contados desde la publicación del Reglamento: Primera etapa: seis meses después, respecto de las regiones XV, I, II, VII, XI y XII. Segunda etapa: dieciocho meses después, respecto de las regiones III, IV, VIII, IX y XIV. Tercera etapa: treinta meses después, comprendiendo las regiones V, VI, X y Metropolitana.
 
+> **Nota.** NOTA 1 El N° 6 del artículo 7 de la ley 21523, publicada el 31.12.2022, reemplazó en el inciso segundo del presente artículo la frase "la situación señalada en el artículo 191 bis" por: "las situaciones señaladas en los artículos 191 bis y 191 ter"; sin embargo, la frase "o se tratare de la situación señalada en el artículo 191 bis" ya había sido eliminada por el N° 4 del artículo 32 de la ley 21057, cuyo N° 3 además derogó el artículo 191 bis, por lo que no se ha podido incorporar en este texto actualizado.
+
 #### Artículo 280 bis
 
 Audiencia intermedia. Una vez fallado el recurso de apelación contra el auto de apertura del juicio oral o habiendo transcurrido el plazo para interponerlo, y antes de su envío al tribunal de juicio oral en lo penal competente, en conjunto con la solicitud de aplicación del procedimiento abreviado, la suspensión condicional del procedimiento, acuerdos reparatorios o el arribo de convenciones probatorias, se solicitará al juez de garantía, por una única vez, la realización de una nueva audiencia, a efectos de resolver la solicitud.
@@ -2698,11 +2750,11 @@ Si el testigo hiciere uso del derecho previsto en el inciso precedente, quedará
 
 #### Artículo 308
 
-Protección a los testigos. El tribunal, en casos graves y calificados, podrá, por solicitud de cualquiera de las partes o del propio testigo, disponer medidas especiales destinadas a proteger la seguridad de este último, las que podrán consistir, entre otras, en autorizarlo para deponer vía sistema de vídeo conferencia, separado del resto de la sala de audiencias mediante algún sistema de obstrucción visual, o por otros mecanismos que impidan el contacto directo del testigo con los intervinientes o el público. Dichas medidas durarán el tiempo razonable que el tribunal dispusiere y podrán ser renovadas cuantas veces fuere necesario.
+Protección a los testigos. El tribunal, en casos graves y calificados, o para evitar toda consecuencia negativa que puedan sufrir los testigos con ocasión de su interacción en un juicio oral, podrá, por solicitud de cualquiera de las partes o del propio testigo, disponer medidas especiales destinadas a proteger la seguridad de este último, las que podrán consistir, entre otras, en autorizarlo para deponer vía sistema de vídeo conferencia, separado del resto de la sala de audiencias mediante algún sistema de obstrucción visual, o por otros mecanismos que impidan el contacto directo del testigo con los intervinientes o el público. Dichas medidas durarán el tiempo razonable que el tribunal dispusiere y podrán ser renovadas cuantas veces fuere necesario.
 
 De igual forma, el ministerio público, de oficio o a petición del interesado, adoptará las medidas que fueren procedentes para conferir al testigo, antes o después de prestadas sus declaraciones, la debida protección.
 
-Se entenderá que constituye un caso grave y calificado aquel en que la solicitud se fundamente en la existencia de malos tratos de obra o amenazas en los términos del artículo 296 del Código Penal. Para adoptar esta decisión, el tribunal podrá oír de manera reservada al testigo, sin participación de los intervinientes en el juicio.
+Se entenderá que constituye un caso grave y calificado, especialmente cuando existan malos tratos de obra o amenazas en los términos del artículo 296 del Código Penal. Para adoptar esta decisión, el tribunal podrá oír de manera reservada al testigo, sin participación de los intervinientes en el juicio.
 
 #### Artículo 309
 
@@ -2882,9 +2934,11 @@ Excepcionalmente, en el caso de fallecimiento o incapacidad sobreviniente del pe
 
 Métodos de interrogación. En sus interrogatorios, las partes que hubieren presentado a un testigo o perito no podrán formular sus preguntas de tal manera que ellas sugirieren la respuesta.
 
+En relación a la víctima, no se podrán realizar interrogaciones ni contrainterrogatorios que humillen, causen sufrimiento, intimiden o lesionen su dignidad.
+
 Durante el contrainterrogatorio, las partes podrán confrontar al perito o testigo con su propios dichos u otras versiones de los hechos presentadas en el juicio.
 
-En ningún caso se admitirán preguntas engañosas, aquéllas destinadas a coaccionar ilegítimamente al testigo o perito, ni las que fueren formuladas en términos poco claros para ellos.
+En ningún caso se admitirán preguntas engañosas, aquéllas destinadas a coaccionar o a acosar ilegítimamente al testigo o perito, ni las que fueren formuladas en términos poco claros para ellos.
 
 Estas normas se aplicarán al imputado cuando se allanare a prestar declaración.
 
@@ -2901,6 +2955,8 @@ c) Cuando la no comparecencia de los testigos, peritos o coimputados fuere imput
 d) Cuando se tratare de declaraciones realizadas por coimputados rebeldes, prestadas ante el juez de garantía, y
 
 e) Cuando las hipótesis previstas en la letra a) sobrevengan con posterioridad a lo previsto en el artículo 280 y se trate de testigos, o de peritos privados cuya declaración sea considerada esencial por el tribunal, podrá incorporarse la respectiva declaración o pericia mediante la lectura de la misma, previa solicitud fundada de alguno de los intervinientes.
+
+f) Cuando existan antecedentes fundados sobre la retractación de la víctima, los que serán valorados por el tribunal de acuerdo a lo dispuesto en el artículo 297, teniendo en especial consideración los informes psicológicos acompañados y los antecedentes relativos a la evaluación del riesgo en que se encuentra.
 
 #### Artículo 332
 

@@ -208,6 +208,10 @@ e) División de Informática, y
 
 f) División de Atención a las Víctimas y Testigos, que tendrá por objeto velar por el cumplimiento de las tareas que a este respecto le encomiende al Ministerio Público la ley procesal penal. Asimismo, le corresponderá prestar asesoría a quienes sean víctimas de delitos que la ley califica como terroristas.
 
+Cualquier persona podrá solicitar información a la División de Atención a las Víctimas y Testigos del Ministerio Público, sobre los procedimientos de acompañamiento y asesoría que ella presta a quienes denuncien ser víctimas de los delitos previstos en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, 361, 362, 363, 365 bis; 366, incisos primero y segundo; 366 bis, 366 quáter, 367 y 367 ter, 372 bis, 411 quáter cuando se cometa con fines de explotación sexual y 433, número 1, en relación con la violación. El Ministerio Público deberá entregar, a cualquier persona que lo solicite, información completa y suficiente acerca de las prestaciones disponibles para víctimas y testigos, y de los servicios públicos en materia de información, orientación, representación, atención integral y reparación a las víctimas y sus familias.
+
+Cuando el Ministerio Público tome conocimiento de un hecho que reviste los caracteres de delito de violencia sexual señalados en el inciso anterior, se contactará de cualquier manera con la víctima dentro de las veinticuatro horas siguientes, con el objeto de entregarle asesoría y orientación para el ejercicio de sus derechos, y podrá ella si así lo solicitare, involucrar a su familia. Si el Ministerio Público no pudiere tomar contacto con la víctima en los términos antes señalados, comunicará dicha circunstancia al juez de garantía.
+
 Un Director Ejecutivo Nacional organizará y supervisará las unidades administrativas de la Fiscalía Nacional, sobre la base de las instrucciones generales que dicte el Fiscal Nacional.
 
 El Director Ejecutivo Nacional y los jefes de las unidades administrativas serán funcionarios de la exclusiva confianza del Fiscal Nacional.
@@ -813,6 +817,8 @@ El Fiscal Nacional, teniendo presente las necesidades de funcionamiento del Mini
 > **Nota.** NOTA: 1 El Art. 7º de la LEY 20174, publicada el 05.04.2007, creó en la planta de personal establecida en el presente artículo un total de 27 cargos, los que se han repartido en esta actualización de la forma en que la citada norma lo dispone. De conformidad con el Art. 13 de la misma ley, esta modificación rige a contar de 180 días después de su publicación.
 
 > **Nota.** NOTA: 2 El Art. 5º de la LEY 20175, publicada el 11.04.2007, creó en la planta de personal establecida en el presente artículo un total de 19 cargos, los que se han repartido en esta actualización de la forma en que la citada norma lo dispone. De conformidad con el Art. 13 de la misma ley, esta modificación rige a contar de 180 días después de su publicación.
+
+> **Nota.** NOTA 3 El artículo 17 de la Ley 21033, publicada el 05.09.2017, modifica la presente norma en el sentido de crear en la planta de personal treinta y seis nuevos cargos que incrementarán el correspondiente número que para cada uno de ellos establece esta norma: Fiscal Regional, un cargo; Fiscal Adjunto, 2 cargos; Director Ejecutivo Regional, un cargo; Jefe de Unidad, 6 cargos; Profesionales, 10 cargos; Técnicos, 5 cargos; Administrativos, 8 cargos, y Auxiliares, 3 cargos.
 
 ### Párrafo 3°
 

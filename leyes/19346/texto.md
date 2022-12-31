@@ -278,6 +278,10 @@ La Academia no podrá acordar en los contratos de trabajo que celebre con su per
 
 Para los efectos de este artículo se entenderá como remuneración que corresponde a los funcionarios de cada categoría, la remuneración máxima que se pague a las personas encasilladas en ellas, cualquiera sea el concepto por el cual ellas se devenguen.
 
+#### Artículo 22
+
+La Academia Judicial, dentro de sus programas de formación y perfeccionamiento, considerará especialmente la capacitación en materias relacionadas con las perspectivas de género en el proceso penal, que eviten la revictimización, los estereotipos y fomenten una protección especial de las víctimas de violencia de género.
+
 #### Artículo 1°
 
 transitorio.- El mayor gasto que irrogue la aplicación de la presente ley se financiará con cargo al presupuesto del Poder Judicial.

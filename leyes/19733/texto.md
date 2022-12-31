@@ -312,7 +312,9 @@ Se exceptúan de lo dispuesto en el inciso anterior las publicaciones jurídicas
 
 Se prohíbe la divulgación, por cualquier medio de comunicación social, de la identidad de menores de edad que sean autores, cómplices, encubridores o testigos de delitos, o de cualquier otro antecedente que conduzca a ella.
 
-Esta prohibición regirá también respecto de las víctimas de alguno de los delitos contemplados en el Título VII, "Crímenes y simples delitos contra el orden de las familias y contra la moralidad pública", del Libro II del Código Penal, a menos que consientan expresamente en la divulgación.
+Esta prohibición regirá también respecto de las víctimas de los delitos contemplados en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, de alguno de los delitos contemplados en el Título Séptimo del Libro Segundo, "Crímenes y delitos contra el orden de las familias, contra la moralidad pública y contra la integridad sexual" y de los delitos contemplados en los artículos 411 quáter, cuando se cometa con fines de explotación sexual, y 433, número 1, en relación con la violación, todos del Código Penal, a menos que consientan expresamente en la divulgación.
+
+Para comunicar la investigación o juicio, se deberá referir a la víctima ya sea con sus iniciales, un número o cualquier otra manera que no posibilite su individualización. Además, se debe evitar el uso de todo recurso editorial que dé cuenta de estereotipos o prejuicios respecto a su condición de víctima, eventual responsabilidad en los hechos, conductas anteriores o posteriores al delito o cualquier otro elemento que normalice, justifique o relativice la violencia sufrida.
 
 La infracción a este artículo será sancionada con multa de treinta a ciento cincuenta unidades tributarias mensuales. En caso de reiteración, la multa se elevará al doble.
 
