@@ -1364,6 +1364,8 @@ Las reglas precedentes se entienden sin perjuicio de las prescripciones de corto
 
 No prescribirá la acción penal respecto de los crímenes y simples delitos descritos y sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter, 367 septies; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, cuando al momento de la perpetración del hecho la víctima fuere menor de edad.
 
+En caso de que el delito previsto en el inciso primero del artículo 366 se cometiere contra mayores de edad, la prescripción de la acción penal será de diez años.
+
 #### Artículo 95
 
 <!-- parte:9672310 -->
@@ -4210,6 +4212,12 @@ Sin perjuicio de lo dispuesto en el artículo 63, en los delitos señalados en l
 
 2º Ser dos o más los autores del delito.
 
+#### Artículo 368 bis A
+
+<!-- parte:10392883 -->
+
+La circunstancia atenuante señalada en el N° 7 del artículo 11 no podrá aplicarse tratándose de los delitos previstos en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, 361, 362, 363, 365 bis; 366, incisos primero y segundo, 366 bis, 366 quáter, 367 y 367 ter, 372 bis, 411 quáter cuando se cometa con fines de explotación sexual, y 433, número 1, en relación con la violación.
+
 #### Artículo 368 ter
 
 <!-- parte:9737182 -->
@@ -4235,6 +4243,12 @@ En caso de que un cónyuge o conviviente cometa alguno de los delitos establecid
 <!-- parte:9736827 -->
 
 Derogado.
+
+#### Artículo 369 bis A
+
+<!-- parte:10392884 -->
+
+Tratándose de los delitos previstos en los artículos 141, inciso final; 142, inciso final; 150 A, 150 D, 361, 362, 363, 365 bis; 366, incisos primero y segundo, 366 bis, 366 quáter, 367 y 367 ter, 372 bis, 411 quáter cuando se cometa con fines de explotación sexual, y 433, número 1, en relación con la violación, para la determinación de la cuantía de la pena en los términos dispuestos en el artículo 69, el tribunal tendrá en especial consideración la afectación psíquica o mental de la víctima para la calificación de la extensión del mal producido por el delito.
 
 #### Artículo 369 ter
 
@@ -4304,7 +4318,7 @@ Si el autor del delito descrito en el inciso anterior es un hombre y la víctima
 
 <!-- parte:9736829 -->
 
-En los delitos establecidos en los tres párrafos anteriores, el juez podrá en cualquier momento, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección del ofendido y su familia que estime convenientes, tales como la sujeción del implicado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional del ofendido; la prohibición de aproximarse al ofendido o a su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con aquél.
+En los delitos contemplados en los artículos 141, inciso final; 142, inciso final; 150 A; 150 D; 361; 362; 363; 365 bis; 366; 366 bis; 366 quáter; 367; 367 ter; 372 bis; 411 quáter; cuando se cometan con fines de explotación sexual, y 433, número 1, en relación con la violación, el juez podrá en cualquier etapa de la investigación o del procedimiento, y aun antes de la formalización, a petición de parte, o de oficio por razones fundadas, disponer las medidas de protección de la víctima y su familia que estime convenientes, tales como la sujeción del imputado a la vigilancia de una persona o institución determinada, las que informarán periódicamente al tribunal; la prohibición de visitar el domicilio, el lugar de trabajo o el establecimiento educacional de la víctima; la prohibición de aproximarse a la víctima o a su familia, la prohibición de tomar contacto con la víctima o con su familia, y, en su caso, la obligación de abandonar el hogar que compartiere con la víctima.
 
 ### VIII. De los ultrajes públicos a las buenas costumbres
 
@@ -4498,6 +4512,14 @@ Son circunstancias agravantes de responsabilidad penal para el delito de femicid
 
 Tratándose del delito de femicidio, el juez no podrá aplicar la circunstancia atenuante de responsabilidad penal prevista en el N° 5 del artículo 11.
 
+#### Artículo 390 sexies
+
+<!-- parte:10392885 -->
+
+El que con ocasión de hechos previos constitutivos de violencia de género, cometidos por éste en contra de la víctima, causare el suicidio de una mujer, será sancionado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo como autor de suicidio femicida.
+
+Se entenderá por violencia de género cualquier acción u omisión basada en el género, que causare muerte, daño o sufrimiento físico, sexual o psicológico a la mujer, donde quiera que esto ocurra, especialmente aquellas circunstancias establecidas en el artículo 390 ter.
+
 §1 ter.
 
 Del homicidio
@@ -4535,6 +4557,14 @@ Si no constare tampoco quienes causaron lesiones graves al ofendido, se impondr�
 <!-- parte:10105374 -->
 
 El que con conocimiento de causa prestare auxilio a otro para que se suicide, sufrirá la pena de presidio menor en sus grados medio a máximo, si se efectúa la muerte.
+
+#### Artículo 393 bis
+
+<!-- parte:10392886 -->
+
+Quien induzca a otra persona a cometer suicidio será sancionado con la pena de presidio menor en sus grados mínimo a medio. Si por tal circunstancia se produjera la muerte, la pena será de presidio menor en sus grados medio a máximo.
+
+Si la inducción al suicidio y la consecuente muerte de la víctima, se produce con ocasión de concurrir cualesquiera de las circunstancias establecidas en el artículo 390 ter, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 ### II. Del infanticidio
 
@@ -4776,7 +4806,7 @@ El que promoviere o facilitare la entrada o salida del país de personas para qu
 
 El que mediante violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra capte, traslade, acoja o reciba personas para que sean objeto de alguna forma de explotación sexual, incluyendo la pornografía, trabajos o servicios forzados, servidumbre o esclavitud o prácticas análogas a ésta, o extracción de órganos, será castigado con la pena de reclusión mayor en cualquiera de sus grados y multa de cincuenta a cien unidades tributarias mensuales.
 
-Si la víctima fuere menor de edad, aun cuando no concurriere violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, se impondrán las penas de reclusión mayor en su grado medio y multa de cincuenta a cien unidades tributarias mensuales.
+Si la víctima fuere menor de edad, aun cuando no concurriere violencia, intimidación, coacción, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad o de dependencia de la víctima, o la concesión o recepción de pagos u otros beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, se impondrán las penas de reclusión mayor en sus grados medio a máximo y multa de cincuenta a cien unidades tributarias mensuales.
 
 El que promueva, facilite o financie la ejecución de las conductas descritas en este artículo será sancionado como autor del delito.
 
