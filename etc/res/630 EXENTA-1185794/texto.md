@@ -42,4 +42,6 @@ II.- La difusión de la nómina de beneficiarios deberá efectuarse por Serviu A
 
 III.- Téngase presente para todos los efectos legales.
 
+IV.- Impútense los 252 subsidios de 920 UF cada uno, que ascienden a un total de 231.840 UF, a los recursos dispuestos para el presente año, en la Circular N° 2 de 24 de enero de 2022 del Subsecretario de Vivienda y Urbanismo, programa DS N° 49 (V. y U.) de 2011, Fondo Solidario de Elección de Vivienda.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Por orden del Sr. Ministro, Carlos Contreras Gutiérrez, Secretario Regional Ministerial Minvu Región de Antofagasta.
