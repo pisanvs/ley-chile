@@ -4,9 +4,9 @@ Núm. 26.- Santiago, 3 de marzo de 2000.- Visto: lo dispuesto por el artículo 7
 
 D e c r e t o:
 
-#### Artículo 1º
+#### Artículo 1°
 
-Para los efectos de la ley Nº 19.633, los vehículos motorizados livianos, definidos por el decreto supremo Nº 211, antes señalado, de modelos no homologados a la entrada en vigencia de este decreto, sin perjuicio de otras exigencias que les sean aplicables, deberán contar con los elementos de seguridad de los números 1) a 7) del artículo siguiente y su aplicación será la definida en el artículo 3º.
+A Los vehículos motorizados livianos definidos por el decreto supremo N° 211 y los vehículos motorizados medianos definidos por el decreto supremo N° 54, ambos citados en el Visto, sin perjuicio de otras exigencias, les serán aplicables los elementos de seguridad del artículo siguiente, en la forma y de acuerdo a la obligatoriedad definida en el artículo 3°.
 
 #### Artículo 2º
 
@@ -26,7 +26,7 @@ Para los fines del presente decreto, los elementos de seguridad que se señalan 
 
 7. Columna de dirección retráctil: es aquella que, en caso de impacto de un vehículo, tiene condiciones para retraerse con el fin de no agredir al conductor;
 
-8. Sistema de Bolsa de Aire (Air Bag): sistema de retención complementario a los cinturones de seguridad, que en caso de colisión o choque grave del vehículo, despliega e infla automáticamente una estructura flexible, que limita la gravedad de los contactos de una o varias partes del cuerpo de un ocupante del vehículo con el interior del habitáculo;
+8. Sistema de Bolsa de Aire (Air Bag): sistema de retención complementario a los cinturones de seguridad, que en caso de colisión o choque grave del vehículo, despliega e infla automáticamente una estructura flexible, que limita la gravedad de los contactos de una o varias partes del cuerpo de un ocupante del vehículo con el interior del habitáculo; estas bolsas pueden ser frontales, laterales de cuerpo, laterales de cabeza, entre otros;
 
 9. Sistema antibloqueo de frenos (ABS): es aquel que, bajo ciertas situaciones de frenado, permite que las ruedas no se bloqueen, facilitando al conductor el control del vehículo;
 
@@ -38,19 +38,33 @@ Para los fines del presente decreto, los elementos de seguridad que se señalan 
 
 13. Espejo retrovisor abatible: es aquel que, en caso de golpe, cede en el sentido contrario al de marcha del vehículo.
 
-14.- Sistema Recordatorio de Uso del Cinturón de Seguridad: Sistema que tiene por objeto avisar al conductor cuando no utiliza el cinturón de seguridad.
+14.- Sistema Recordatorio de Uso del Cinturón de Seguridad: Sistema que tiene por objeto avisar al conductor cuando alguno de los ocupantes no utiliza el cinturón de seguridad.
 
 15.- Anclajes para los sistemas o asientos de seguridad para niños: Las partes de la estructura del vehículo o del asiento o de cualquier otra parte del vehículo, a las cuales se deben sujetar los sistemas o asientos de seguridad para niños.
 
 16.- Programa electrónico de estabilidad (ESP): Función de control electrónico de un vehículo que mejora la estabilidad dinámica del mismo.
 
+17.- Sistema Avanzado de Frenado de Emergencia (AEB): sistema capaz de detectar automáticamente una colisión frontal inminente y de activar el sistema de frenado del vehículo para desacelerarlo, a fin de evitar o mitigar la colisión.
+
+18.- Detector de punto ciego (BSD): sistema que advierte a los conductores, mediante una alerta sonora o visual, si hay vehículos en los carriles adyacentes que pueden no ser vistos por el conductor.
+
+19.- Asistente de velocidad inteligente (ISA): sistema que ayuda al conductor a mantener la velocidad idónea al entorno de la vía, proporcionándole información específica y adecuada.
+
+20.- Asistente de mantenimiento de carril (LKA): sistema que ayuda al conductor a mantener una posición segura del vehículo con respecto a los límites del carril o de la carretera, al menos, cuando el vehículo abandona o está a punto de abandonar el carril y existe un riesgo inminente de colisión.
+
+> **Nota.** El artículo primero transitorio del Decreto 58, Transportes, publicado el 04.01.2023, dispone que la modificación realizada por la letra c) del artículo único de la citada norma en el Nº 14 del presente artículo entrará en vigencia transcurridos veinticuatro (24) meses desde la publicación del ya individualizado decreto en el Diario Oficial respecto de los vehículos motorizados livianos y medianos que, a la fecha de la solicitud de primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, no se encuentren homologados. Respecto del resto de los vehículos motorizados livianos y medianos que soliciten su primera inscripción en el mencionado Registro, las referidas modificaciones entrarán en vigencia transcurridos treinta y seis (36) meses desde la publicación del citado decreto en el Diario Oficial.
+
 #### Artículo 3º
 
-Será obligatorio para todos los vehículos a que se refiere el artículo 1º de este decreto, estar provistos de los elementos señalados en los números 1), 2), 4), 6), 7) y 13) del artículo anterior. Además, para los vehículos livianos de pasajeros serán obligatorios los elementos indicados en los números 3), 5), 10), 14) y 15) del mismo artículo. Las obligaciones anteriores serán exigibles, salvo que los vehículos estén construidos o equipados con otros elementos equivalentes, de modo que cumplan los objetivos del artículo precedente. Asimismo se exceptúa de la obligación relativa al número 15) del artículo 2º a las camionetas livianas o furgones con un peso bruto vehicular menor a 2.700 kg y que son derivadas de vehículos que fueron originalmente diseñados para el transporte de pasajeros. Con todo, los siguientes elementos deberán atenerse a las modalidades que se indican:
+Será obligatorio para todos los vehículos a que se refiere el artículo 1º de este decreto, estar provistos de los elementos señalados en los números 1) al 10), y 13) al 16), todos del artículo anterior. Para el caso de los elementos señalados en los puntos 3) y 5), la exigencia será aplicable solo a los vehículos con luneta trasera. Asimismo, para el elemento señalado en el punto 8), la exigencia será aplicable respecto a los airbags frontales; y para el elemento señalado en el punto 14), la exigencia será aplicable para todos los asientos de los vehículos livianos y, en el caso de los vehículos medianos, sólo será aplicable para los asientos del conductor y acompañante. Las obligaciones anteriores serán exigibles, salvo que los vehículos estén construidos o equipados con otros elementos equivalentes, de modo que cumplan los objetivos del artículo precedente. Asimismo se exceptúa de la obligación relativa al número 10) del artículo 2° a los vehículos destinados al transporte de personas con más de 9 asientos, incluido el conductor, y aquellos vehículos que conforme a las normas indicadas en el artículo 6° del presente decreto se exceptúen. De la misma manera se excluye de la obligación contenida en el número 15) del artículo 2°, a los vehículos destinados al transporte de personas con más de 9 asientos, incluido el conductor, y a los vehículos destinados al transporte de carga con solo una fila de asientos. Con todo, los siguientes elementos deberán atenerse a las modalidades que se indican:
 
 a) El cinturón de seguridad a que se refiere el número 1) será obligatorio tanto para los asientos delanteros como para los traseros. Los cinturones deberán reunir las características del artículo 2º del decreto Nº 30, de 1985, antes referido y, tratándose de los asientos adyacentes a las puertas, deberán ser de tres puntos. En el caso de asientos traseros intermedios o adyacentes a puertas corredizas u orientados hacia atrás, de asientos abatibles y otros equivalentes, los cinturones podrán ser de dos puntos. Lo mismo ocurrirá respecto de los asientos traseros de camionetas de cabina y media y de vehículos convertibles.
 
 b) Por su parte, el apoyacabeza señalado en el número 4) del artículo 2º, que deberá cumplir las condiciones del inciso segundo del número 1º de la resolución Nº 54, de 1994, mencionada en el Visto, será obligatorio en todos los asientos en que debe llevarse cinturón de seguridad de tres puntos, de acuerdo a lo establecido en la letra a) precedente.
+
+c) Asimismo, para requerir el cumplimiento de los elementos de seguridad señalados en el artículo 2°, se considerará el ámbito de aplicación de las normas a que se refiere el artículo 6° del presente decreto.
+
+> **Nota.** El artículo primero transitorio del Decreto 58, Transportes, publicado el 04.01.2023, dispone que la modificación realizada por la letra e) del artículo único de la citada norma en el párrafo primero del presente artículo, exclusivamente en lo referido a los elementos de seguridad que pasan a ser obligatorios, entrará en vigencia transcurridos veinticuatro (24) meses desde la publicación del ya individualizado decreto en el Diario Oficial respecto de los vehículos motorizados livianos y medianos que, a la fecha de la solicitud de primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, no se encuentren homologados. Respecto del resto de los vehículos motorizados livianos y medianos que soliciten su primera inscripción en el mencionado Registro, las referidas modificaciones entrarán en vigencia transcurridos treinta y seis (36) meses desde la publicación del citado decreto en el Diario Oficial.
 
 #### Artículo 4º
 
@@ -62,7 +76,7 @@ Sin perjuicio de los elementos de los artículos anteriores, el Ministerio estab
 
 #### Artículo 6º
 
-Las normas que deberán cumplir los elementos mencionados en el artículo 2º, o sus equivalentes, en su caso, serán las establecidas por el Code Federal of Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea o por las Regulaciones de Seguridad definidas por la Comisión Económica Europea de las Naciones Unidas, Brasil, Japón o Corea, según determine el Ministerio.
+Las normas que deberán cumplir los elementos mencionados en el artículo 2º, o sus equivalentes, en su caso, serán las establecidas por el Code Federal of Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea o por las Regulaciones de Seguridad definidas por la Comisión Económica Europea de las Naciones Unidas, Brasil, Japón, Corea, o por el Estándar Nacional de la República Popular China (GB o GB/T), según determine el Ministerio.
 
 #### Artículo 7º
 
@@ -70,7 +84,7 @@ El Ministerio, dentro del plazo de sesenta días de publicado este decreto, dict
 
 #### Artículo 8º
 
-Tratándose de vehículos livianos de pasajeros, los elementos de seguridad señalados en los números 8), 9), 11), 12) y 16) serán optativos; en el caso de vehículos livianos comerciales, serán optativas los consignados en los números 3), 5), 8) a 12),y 16 todos del artículo 2°. Sin embargo, cuando los vehículos motorizados livianos definidos por el decreto supremo Nº 211/91, homologados o no, vengan provistos de alguno o algunos de ellos y se pretenda comercializarlos o publicitarlos con esa característica, los fabricantes, armadores, importadores o sus representantes, deberán estar en condiciones de acreditar a los eventuales interesados, que ellos cumplen con las normas del artículo 6º, para cuyo efecto deberán contar con un certificado que lo señale, documento que deberán mantener a disposición del Ministerio para cuando les sea requerido.
+Será optativo para todos los vehículos a que se refiere el artículo 1° de este decreto, los elementos de seguridad señalados en el número 8) respecto a los airbags laterales de cuerpo y laterales de cabeza, y en los números 11), 12), 14) respecto del sistema recordatorio de uso del cinturón de seguridad para los asientos traseros de los vehículos medianos, y 17) al 20) todos del artículo 2°. Sin embargo, cuando los vehículos motorizados livianos definidos por el decreto supremo Nº 211/91, homologados o no, vengan provistos de alguno o algunos de ellos y se pretenda comercializarlos o publicitarlos con esa característica, los fabricantes, armadores, importadores o sus representantes, deberán estar en condiciones de acreditar a los eventuales interesados, que ellos cumplen con las normas del artículo 6º, para cuyo efecto deberán contar con un certificado que lo señale, documento que deberán mantener a disposición del Ministerio para cuando les sea requerido.
 
 Además, las personas mencionadas en el inciso anterior deberán colocar un rótulo en los vehículos de que se trata, que contenga un listado de todos los elementos optativos a que se refiere el inciso anterior, en el que se señale determinadamente con cuál o cuáles cuenta el vehículo que se ofrece y de cuáles carece. El rótulo deberá reunir las características y colocarse o adherirse en los vehículos, según determine el Ministerio.
 
