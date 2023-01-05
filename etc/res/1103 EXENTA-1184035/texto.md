@@ -214,6 +214,8 @@ El presente llamado establece una Oferta mínima por valor de suelo, señalada e
 
 El puntaje por concepto de Oferta de Valor de Suelo pondera un 15% del puntaje total y se calculará de acuerdo a la siguiente fórmula:
 
+.
+
 La oferta de Valor de Suelo se presentará utilizando el formato contenido en el Anexo N°15: Declaración Oferta Económica, y no podrá ser modificada en el proceso de reingreso de subsanación de observaciones del proyecto ni posterior a la selección.
 
 9.1. Forma de pago del terreno.
