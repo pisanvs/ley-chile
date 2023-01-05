@@ -30,6 +30,8 @@ Resuelvo:
 
 7. Oficios de pronunciamientos sobre solicitudes de eliminación de datos y antecedentes.
 
+8. Oficios que desestimen recursos extraordinarios de revisión, por no configurarse las causales que lo hacen procedente.
+
 2.- Delégase en el Jefe y/o Subjefe de la División Jurídica la facultad de firmar "Por orden del Contralor General", la toma de razón, junto a los oficios de alcance y de representación que procedan, de los siguientes actos administrativos de competencia de la División Jurídica:
 
 ### 1. Otorgamiento de franquicias aduaneras
