@@ -30,7 +30,7 @@ Decreto:
 
 1°. Apruébase el programa de expropiación de 65 inmuebles necesarios para ejecutar el proyecto "Mejoramiento Avenida Diagonal Las Termas, Chillán", Código BIP 30126884-0, en la comuna de Chillán, en la Región de Ñuble, según el plano "Mejoramiento Avenida Diagonal Las Termas Chillán", láminas Nº Exp 1 a 7 de 7, a escala 1:500, elaborado por el Serviu Región del Biobío, de fecha marzo de 2019, cuyos datos se especifican a continuación:
 
-Superficie total aproximada a expropiar: 16.429,94 m² (dieciséis mil cuatrocientos veintinueve coma noventa y cuatro metros cuadrados).
+Superficie total aproximada a expropiar: 17.309,81 m² (diecisiete mil trescientos nueve coma ochenta y un metros cuadrados).
 
 2°. El presente decreto será publicado en el Diario Oficial y en un periódico de la provincia de Diguillín, si lo hubiere.
 
