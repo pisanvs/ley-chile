@@ -10,7 +10,7 @@ El Plan Regulador de la comuna de Puchuncaví, aprobado mediante decreto alcaldi
 
 Decreto:
 
-1.- Apruébese proyecto "Enmienda al Plan Regulador, localidad de Horcón, comuna de Puchuncaví", desarrollado y gestionado por la Municipalidad de Puchuncaví a través de la Secretaría Comunal de Planificación, comprendiendo la localidad urbana de Horcón y modificando una fracción de zona Z4 a Z4a, de los terrenos en que se emplazará el proyecto de viviendas sociales Comité Santa Ana I, aumentando en un 30% su ocupación de suelo.
+1.- Apruébese proyecto "Enmienda al Plan Regulador, localidad de Horcón, comuna de Puchuncaví", desarrollado y gestionado por la Municipalidad de Puchuncaví a través de la Secretaría Comunal de Planificación, comprendiendo la localidad urbana de Horcón y modificando una fracción de zona Z4 a Z4a, de los terrenos en que se emplazará el proyecto de viviendas sociales Comité Santa Ana I, incrementando en un 20% la densidad.
 
 2.- Publíquese en el Diario Oficial de la República de Chile el presente decreto alcaldicio y la ordenanza local de proyecto "Enmienda al Plan Regulador, localidad de Horcón, comuna de Puchuncaví".
 
