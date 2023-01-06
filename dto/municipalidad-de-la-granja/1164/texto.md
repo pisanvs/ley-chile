@@ -196,7 +196,7 @@ c) Adjuntar Resolución Sanitaria (cuando corresponda).
 
 d) Fotocopia de la colilla de Iniciación de Actividades ante el Servicio de Impuestos Internos.
 
-e) Certificado de Antecedentes Personales con una vigencia no superior a 30 días, para fines especiales, en que conste que no ha sido condenado por delito tipificado en la ley N° 20.000.
+e) Eliminado.
 
 f) Dos fotos tamaño carnet.
 
@@ -221,6 +221,8 @@ El comercio en las ferias libres se ejercerá, previo pago de una patente munici
 La Municipalidad, a través de su Ordenanza de Cobro de Derechos Municipales, fijará los derechos que deberá pagar cada comerciante, sin perjuicio de lo dispuesto en los artículos 23° y siguientes de la Ley de Rentas Municipales, en la Tesorería Municipal por semestres anticipados, en los meses de enero y julio, para cuyo efecto el Departamento de Patentes confeccionará los roles correspondientes.
 
 Asimismo, deberán presentar anualmente en el mes de enero de cada año, el certificado de antecedentes personales consignado en la letra e) del artículo 20 de la presente ordenanza, al momento de cancelar el pago de su patente correspondiente a ese mismo mes. En caso contrario, no se renovará la patente respectiva.
+
+> **Nota.** El Decreto 2613, M. de La Granja, publicada el 06.01.2023, modifica el artículo 20º y el presente artículo 22º de esta norma, en el sentido de eliminar el certificado de antecedentes personales como documento necesario para solicitar, obtener y/o renovar la patente de feria libre que se otorga por la citada ordenanza municipal.
 
 #### Artículo 23°
 
