@@ -60,7 +60,7 @@ Las Etapas N° 3 y N° 4 referidas en el cuadro anterior, serán eventuales y se
 
 #### Artículo 4°
 
-Establécese que la competencia transferida será ejercida por los gobiernos regionales, en la medida en que corresponda por existir un Plan Regulador Intercomunal o Metropolitano, a contar del plazo de 180 días corridos siguientes a la publicación del presente decreto en el Diario Oficial.
+Establécese que la competencia transferida será ejercida por los gobiernos regionales, en la medida en que corresponda por existir un Plan Regulador Intercomunal o Metropolitano, a contar del plazo de 270 días corridos siguientes a la publicación del presente decreto en el Diario Oficial.
 
 #### Artículo 5°
 
@@ -68,7 +68,7 @@ Establécese que, en conformidad al análisis realizado, el ejercicio de la pres
 
 #### Artículo 6°
 
-Establécese que la competencia será transferida de forma temporal, por el plazo de un año a contar del término del plazo de 180 días corridos siguientes a la publicación del presente decreto en el Diario Oficial, conforme a lo señalado en el artículo 4° precedente, a cada uno de los gobiernos regionales, en los términos establecidos en este acto y en la normativa aplicable, sin perjuicio de las causales de revocación, dispuestas en el artículo 21 octies de la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.
+Establécese que la competencia será transferida de forma temporal, por el plazo de un año a contar del término del plazo de 270 días corridos siguientes a la publicación del presente decreto en el Diario Oficial, conforme a lo señalado en el artículo 4° precedente, a cada uno de los gobiernos regionales, en los términos establecidos en este acto y en la normativa aplicable, sin perjuicio de las causales de revocación, dispuestas en el artículo 21 octies de la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.
 
 Si al término del plazo de un año referido en el inciso anterior, aún se encuentra pendiente la total tramitación de informes previos solicitados al respectivo gobierno regional, estos se emitirán por las Seremi Minvu durante el plazo restante de acuerdo a lo establecido en los artículos 2.1.19. y 3.1.7. de la OGUC.
 
@@ -104,7 +104,7 @@ La entrega total de la información indicada en las letras a),
 
 - **b)** y
 
-- **c)** precedentes, así como la instancia de capacitación singularizada en la letra d), deberá realizarse, por parte de las Seremi Minvu respectivas en el plazo máximo de 180 días corridos contado a partir de la publicación del presente decreto en el Diario Oficial. Los actos administrativos individualizados en la letra
+- **c)** precedentes, así como la instancia de capacitación singularizada en la letra d), deberá realizarse, por parte de las Seremi Minvu respectivas en el plazo máximo de 270 días corridos contado a partir de la publicación del presente decreto en el Diario Oficial. Los actos administrativos individualizados en la letra
 
 - **b)** precedente, que sean emitidos por las respectivas Seremi Minvu con posterioridad a la publicación del presente decreto en el Diario Oficial, deberán ser remitidos en copia al respectivo gobierno regional, dentro del plazo de 5 días corridos contados desde su total tramitación.
 
