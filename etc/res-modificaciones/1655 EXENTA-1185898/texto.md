@@ -50,8 +50,6 @@ Resolución:
 
 > **Nota.** El numeral 3.3 del número 3 de la Resolución 1898 Exenta, Vivienda, publicada el 07.01.2023, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el presente resuelvo, las filas Metropolitana y Total, por las que la citada norma indica.
 
-> **Nota.** NOTA 1 El numeral 2 de la Resolución 756 Exenta, Vivienda, publicada el 14.04.2023, modifica la presente norma en el sentido de eliminar del cuadro inserto en el Resuelvo 3, la fila correspondiente al proyecto Código Umbral 173703, Conjunto Habitacional Tranque Forestal y de reemplazar en la fila correspondiente al Total el guarismo "243" por "153" y el guarismo "298.290" por "205.590".
-
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Tatiana Valeska Rojas Leiva, Subsecretaria de Vivienda y Urbanismo.

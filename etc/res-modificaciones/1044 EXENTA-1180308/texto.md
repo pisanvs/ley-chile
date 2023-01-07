@@ -24,7 +24,7 @@ Considerando:
 
 a) Que, mediante la resolución exenta citada en el Visto g), se llamó al proceso de postulación en condiciones especiales de proyectos para la construcción, rehabilitación o adquisición de viviendas públicas para el arriendo, mediante el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011 y sus modificaciones, conforme a la letra i) de la Glosa 03 de vivienda asociada al subtítulo 33, ítem 01, de la Ley de Presupuestos del Sector Público del año 2022.
 
-b) Que, conforme a lo establecido en la resolución citada en el Visto g) precedente, se ha procedido a revisar las postulaciones presentadas al cierre del día 28 de julio, siendo debidamente aprobada una iniciativa para la adquisición de viviendas, postulada en la Región del Biobío.
+b) Que, conforme a lo establecido en la resolución citada en el Visto g) precedente, se ha procedido a revisar las postulaciones presentadas al cierre del día 21 de julio, siendo debidamente aprobada una iniciativa para la adquisición de viviendas, postulada en la Región del Biobío.
 
 c) El Informe Técnico del Serviu de la Región del Biobío, remitido mediante correo electrónico del Director (S) de ese Servicio, con fecha 16 de agosto de 2022, donde se acredita el cumplimiento por parte del proyecto presentado en la Región del Biobío de las condiciones de habitabilidad y funcionales, establecidas para el llamado en curso, dadas las condiciones normativas y se recomienda su selección como una alternativa real para la aplicación del subsidio de arriendo en la comuna de San Pedro de la Paz.
 
@@ -38,7 +38,7 @@ Resolución:
 
 3. Atendido que en el presente proceso de selección sólo participó una iniciativa de la Región del Biobío, no corresponde aplicar lo señalado en el Resuelvo 7. de la resolución exenta Nº 127 (V. y U.), de 2022.
 
-4. Los recursos comprometidos en el Resuelvo 1. de la presente resolución exenta, para el proyecto seleccionado en el concurso a que se llamó mediante resolución exenta Nº 855 (V. y U.), de 2022, cuyo cierre de postulación se efectuó el día 28 de julio de 2022, ascienden a 122.400 Unidades de Fomento, considerando los montos de subsidio del proyecto, incluyendo sus respectivos Servicios de Asistencia Técnica y aranceles del Conservador de Bienes Raíces y se imputarán a los recursos dispuestos para e! año 2022, para el Programa Fondo Solidario de Elección de Vivienda de la Región del Biobío.
+4. Los recursos comprometidos en el Resuelvo 1. de la presente resolución exenta, para el proyecto seleccionado en el concurso a que se llamó mediante resolución exenta Nº 855 (V. y U.), de 2022, cuyo cierre de postulación se efectuó el día 21 de julio de 2022, ascienden a 122.400 Unidades de Fomento, considerando los montos de subsidio del proyecto, incluyendo sus respectivos Servicios de Asistencia Técnica y aranceles del Conservador de Bienes Raíces y se imputarán a los recursos dispuestos para e! año 2022, para el Programa Fondo Solidario de Elección de Vivienda de la Región del Biobío.
 
 Anótese, publíquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
