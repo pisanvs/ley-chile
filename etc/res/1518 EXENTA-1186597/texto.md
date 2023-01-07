@@ -34,7 +34,7 @@ b. Si en el primer o segundo periodo de 12 meses a partir del mes de inicio de l
 
 Niveles de Emergencia Ambiental para dióxido de nitrógeno
 
-Los siguientes niveles originarán situaciones de emergencia ambiental para benceno, expresados como concentración de 1 hora:
+Los siguientes niveles originarán situaciones de emergencia ambiental para dióxido de nitrógeno, expresados como concentración de 1 hora:
 
 Niveles de emergencia
 
