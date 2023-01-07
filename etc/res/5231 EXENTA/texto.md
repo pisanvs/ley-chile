@@ -90,6 +90,18 @@ c) Mejoramiento y/o Ampliación de Vivienda Existente con Construcción o Mejora
 
 22. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
+Si las disponibilidades de caja lo permiten, tratándose de proyectos de mejoramiento y ampliación de vivienda existente y de proyectos de mejoramiento del entorno y equipamiento comunitario, el Serviu podrá autorizar el pago de anticipos tanto para el pago del permiso de edificación como para la ejecución de las obras de construcción, pudiendo aplicar la normativa y procedimientos correspondientes a la Tipología Construcción en Sitio del Residente, establecida en el DS N° 10 (V. y U.), de 2015.
+
+El Serviu podrá otorgar como anticipo hasta un 95% del monto total del subsidio, contra acreditación de avance de obras, no pudiendo superar cada solicitud de avance de obras el 20% de dicho monto, y siempre que los anticipos se mantengan debidamente caucionados, según establece la normativa vigente. El 5% restante será girado conforme a lo señalado en el artículo 69 del DS N° 10 (V. y U.), de 2015.
+
+Sin perjuicio de lo señalado, el primer anticipo podrá otorgarse sin acreditar avance de obras, hasta por un 25% del monto total del contrato. Para proceder a este primer giro deberá acreditarse el cumplimiento de los requisitos establecidos en las letras a) y d) del artículo 71, de adicionándose los siguientes requisitos:
+
+a) Compromiso de inicio de obras a 30 días de autorizado el pago, para el proyecto completo para el que solicita anticipo. Lo anterior deberá quedar establecido en la Carta Gantt y en el Contrato de Obras.
+
+b) Ejecución y entrega simultánea de las obras comprometidas en el anticipo, según carta Gantt.
+
+c) El monto de anticipo autorizado se girará en dos pagos. El primero equivalente a un 5% contra acta de entrega material del terreno y el segundo, equivalente al saldo del anticipo autorizado, contra certificación del inicio efectivo de las obras, emitido por el Fiscalizador Técnico de Obras.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.

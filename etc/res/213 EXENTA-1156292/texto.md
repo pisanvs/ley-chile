@@ -206,6 +206,18 @@ Los recursos indicados en el párrafo anterior podrán disminuir o aumentar con 
 
 29. En atención a lo establecido en el inciso segundo del artículo 45 del DS Nº 10 (V. y U.), de 2015, las resoluciones del Serviu que acojan a procedimiento reclamaciones a los resultados de la selección, fundadas en errores no imputables a los postulantes o a las Entidades de Gestión Rural, deberán indicar expresamente la razón por la cual se acoge la reclamación y los antecedentes que respaldan dicha argumentación, debiendo ser emitida en un plazo no superior a 30 días hábiles contados desde la publicación en el Diario Oficial de la resolución de selección. La resolución que deberá emitir la Seremi respectiva, asignando el subsidio e imputando los recursos, una vez concluido el proceso de reclamación, deberá ser emitida en un plazo no superior a 30 días hábiles contados desde la respuesta recibida por parte de la División de Política Habitacional.
 
+Si las disponibilidades de caja lo permiten, tratándose de proyectos de mejoramiento y ampliación de vivienda existente y de proyectos de mejoramiento del entorno y equipamiento comunitario, el Serviu podrá autorizar el pago de anticipos tanto para el pago del permiso de edificación como para la ejecución de las obras de construcción, pudiendo aplicar la normativa y procedimientos correspondientes a la Tipología Construcción en Sitio del Residente, establecida en el DS N° 10 (V. y U.), de 2015.
+
+El Serviu podrá otorgar como anticipo hasta un 95% del monto total del subsidio, contra acreditación de avance de obras, no pudiendo superar cada solicitud de avance de obras el 20% de dicho monto, y siempre que los anticipos se mantengan debidamente caucionados, según establece la normativa vigente. El 5% restante será girado conforme a lo señalado en el artículo 69 del DS N° 10 (V. y U.), de 2015.
+
+Sin perjuicio de lo señalado, el primer anticipo podrá otorgarse sin acreditar avance de obras, hasta por un 25% del monto total del contrato. Para proceder a este primer giro deberá acreditarse el cumplimiento de los requisitos establecidos en las letras a) y d) del artículo 71, de adicionándose los siguientes requisitos:
+
+a) Compromiso de inicio de obras a 30 días de autorizado el pago, para el proyecto completo para el que solicita anticipo. Lo anterior deberá quedar establecido en la Carta Gantt y en el Contrato de Obras.
+
+b) Ejecución y entrega simultánea de las obras comprometidas en el anticipo, según carta Gantt.
+
+c) El monto de anticipo autorizado se girará en dos pagos. El primero equivalente a un 5% contra acta de entrega material del terreno y el segundo, equivalente al saldo del anticipo autorizado, contra certificación del inicio efectivo de las obras, emitido por el Fiscalizador Técnico de Obras.
+
 Anótese, publíquese en el Diario Oficial y en la página web del Serviu y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo (S).
 
 Lo que transcribo para su conocimiento.- Gilda Espinoza Ahumada, Subsecretaria de Vivienda y Urbanismo (S).
