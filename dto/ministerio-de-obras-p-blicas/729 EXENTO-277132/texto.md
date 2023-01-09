@@ -40,6 +40,10 @@ Ruta 71, Cruce Longitudinal (Cerro Blanco) - Casas de Chacabuco.
 
 Ruta 72, Acceso Aeropuerto Arturo Merino Benítez.
 
+Ruta 73: Lo Pinto - San José.
+
+Ruta 76: Santiago - Malloco.
+
 Ruta 78, Santiago - San Antonio, sector: Cruce
 
 Longitudinal - Paso Sepultura.
