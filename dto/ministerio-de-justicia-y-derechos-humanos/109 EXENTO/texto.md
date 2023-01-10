@@ -24,7 +24,7 @@ Para las restantes materias, los servicios de mediación serán de costo de las 
 
 Decreto:
 
-1°. Reajústase el arancel máximo que podrán percibir los mediadores inscritos en el Registro de Mediadores que establece la ley Nº 19.968 y su Reglamento, en la suma de $102.353.- (ciento dos mil trescientos cincuenta y tres pesos), por cada sesión realizada durante un proceso de mediación.
+1°. Derogado.
 
 2°. Déjase sin efecto el decreto exento Nº 264, de 26 de enero de 2021, del Ministerio de Justicia y Derechos Humanos, que Reajusta Arancel Máximo que Podrán Percibir los Mediadores Inscritos en el Registro de Mediadores de la ley Nº 19.968.
 
