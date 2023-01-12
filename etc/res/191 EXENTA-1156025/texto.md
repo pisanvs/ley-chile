@@ -70,19 +70,13 @@ g) Coordinar con la Unidad de Comunicaciones e Imagen Institucional, el desarrol
 
 h) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que el Director encomiende.
 
-2.1.1 Dependerá de la Jefatura de Gabinete, un COORDINADOR TÉCNICO, que tendrá las siguientes funciones:
-
-a) Efectuar acciones de coordinación entre los departamentos técnicos y la Dirección del Instituto.
-
-b) Ejercer el rol de facilitador de las relaciones laborales con las asociaciones de funcionarios, Jefaturas y la Dirección.
-
-c) Realizar las actividades de coordinación que se requieran colegios profesionales y otras entidades afines, externas al Instituto.
+2.1.1 Suprimido.
 
 2.2 La UNIDAD DE ASESORÍA JURÍDICA, que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
 
 a) Oficios que sean requeridos por los Tribunales de Justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, Fiscalías Militares y jefaturas jurídicas de otros órganos de la Administración del Estado, salvo aquellos que estén especialmente delegados en otras áreas técnicas.
 
-b) Oficios enviados al Ministerio Público en que se denuncie la ocurrencia de hechos que pudieran ser constitutivos de delito, siempre que no se relacione con hechos verificados por el Subdepartamento de Inspecciones del Depto. Agencia Nacional de Medicamentos, en el ejercicio de sus funciones.
+b) Redactar o revisar la legalidad, según corresponda, de los proyectos de formalización de actos administrativos y contratos que suscriba el Director.
 
 c) Resoluciones que denieguen totalmente el acceso a la información pública, en el marco de la Ley Nº 20.285.
 
@@ -122,11 +116,11 @@ g) Vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en
 
 h) Diseñar y producir los contenidos que serán publicados en la página web institucional.
 
-i) Ser responsable de administrar la plataforma que ha dispuesto la Ley Nº 20.730, que regula el lobby y las gestiones de interés particular, ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
+i) Diseñar, sistematizar y diagramar el contenido de la cuenta pública institucional, así como también coordinar los aspectos logísticos y protocolares de la misma.
 
-j) Ser el ente coordinador de la participación ciudadana, entendiéndose comprendido en este concepto los diálogos participativos, la organización del Consejo de la Sociedad Civil, y todas aquellas instancias afines.
+j) Suprimido.
 
-k) Realizar las gestiones referentes a la participación ciudadana en relación a la cuenta pública institucional.
+k) Suprimido.
 
 2.4 La UNIDAD DE PLANIFICACIÓN ESTRATÉGICA Y CONTROL DE GESTIÓN, la que tendrá las siguientes funciones:
 
@@ -162,19 +156,63 @@ f) Apoyar y coordinar la gestión en materias de la calidad en el ámbito instit
 
 g) Ser contraparte institucional con organismos externos -Instituto Nacional de Normalización, casas certificadoras y acreditadoras-, en el ámbito de la calidad.
 
-2.6 La UNIDAD DE RELACIONES INTERNACIONALES, a la que corresponderán las siguientes funciones:
+2.6 La Unidad de Participación y Atención Ciudadana (UPAC), destinada a gestionar el uso de las herramientas disponibles para ejercer la participación y atención ciudadana, potenciando la gestión pública, tanto con la ciudadanía y las partes interesadas, en coherencia con la planificación estratégica institucional. Esta unidad estará compuesta por las siguientes oficinas y secciones, detallándose a continuación sus funciones:
 
-a) Asesorar, apoyar y actuar como enlace entre la Dirección, Departamentos y a las demás Unidades Asesoras en la definición de los lineamientos de cooperación internacional del Instituto.
+2.6.1. Oficina de Participación Ciudadana y Lobby:
 
-b) Velar por el cumplimiento de los compromisos adquiridos por el Instituto ante organismos internacionales, mediante el seguimiento de los convenios, declaraciones, acuerdos o proyectos.
+a) Realizar las gestiones referentes a la participación ciudadana en relación a la cuenta pública institucional.
+
+b) Ser el área responsable de la implementación y ejecución de los mecanismos de participación ciudadana contemplados en la ley N° 20.500, como son el consejo de la sociedad civil y otras instancias.
+
+c) Velar por el cumplimiento del instructivo presidencial vigente sobre esta materia, a través de las actividades ahí descritas, como son, por ejemplo, facilitar el acceso a información pertinente y útil a las organizaciones de la sociedad civil, y fomentar la participación política y organizacional, con perspectiva de género, entre otras.
+
+d) Ser responsable de administrar la plataforma que ha dispuesto la ley N° 20.730, que regula el lobby y las gestiones de interés particular, ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
+
+2.6.2. Oficina de Capacitación Externa:
+
+a) Liderar, planificar, organizar y coordinar las tareas administrativas requeridas para la ejecución de las actividades de capacitaciones externas del Instituto.
+
+b) Proponer la planificación de actividades y presupuesto de capacitación externa para cada año, de acuerdo a lo pesquisado a partir de los mecanismos de participación ciudadana y de interés institucional.
+
+d) Difundir los programas de capacitación externa del Servicio, coordinar y supervisar la ejecución de las actividades contempladas en ellos.
+
+e) Coordinar visitas educativas de la institución.
+
+f) Administrar las dependencias y equipos destinados para el desarrollo de actividades de capacitación externas.
+
+2.6.3. Sección Oficina de Información, Reclamos y Sugerencias (OIRS) cuya jefatura tendrá delegada la facultad de derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad a lo dispuesto en el decreto N° 680, de 1990, del Ministerio del Interior, y la ley N° 20.285, sobre acceso a la información pública, informar la prórroga al Consejo para la Transparencia, respecto de cualquier trámite ante dicha entidad:
+
+2.6.3.1. La Oficina de Informaciones, Reclamos y Sugerencias (OIRS) tendrá las siguientes funciones:
+
+a) Informar al cliente sobre la organización, competencia y funcionamiento del Instituto, formalidades y plazos de las presentaciones o solicitudes presentadas; la documentación y antecedentes que deben acompañarse a éstas; los procedimientos y su tramitación; y las demás indicaciones necesarias a fin de que el público tenga un acceso expedito y oportuno a sus diversas prestaciones y solicitudes, así como el resultado de éstas.
+
+b) Informar sobre la ubicación, competencia y horarios de las unidades de la Administración del Estado perteneciente a otros órganos, servicios o empresas relacionadas con las prestaciones que se requieran.
+
+c) Recibir y gestionar las sugerencias que los usuarios presenten ante ella, que tengan por objeto mejorar el funcionamiento del Servicio.
+
+d) Recibir y gestionar los reclamos que los usuarios presenten en relación al Instituto o respecto de alguno de sus funcionarios, que tengan por objeto representar deficiencias, abusos, faltas, omisiones o cualquier otra irregularidad que afecten al interés personal legítimo del reclamante.
+
+e) Dar respuesta en forma efectiva a las solicitudes de información presentadas por clientes, usuarios o beneficiarios, cumpliendo en forma y fondo con el espíritu de las leyes sobre acceso a la información pública y de procedimientos administrativos.
+
+f) Velar por la publicidad de los actos de la administración, verificando la publicación completa y oportuna de la información pública.
+
+g) Administrar la central telefónica institucional.
+
+h) Ser el espacio en el cual se difunda la Carta de Derechos Ciudadanos elaborada por la Institución.
+
+2.6.4. Sección Relaciones Internaciones y Cooperación Nacional.
+
+a) Asesorar, apoyar y actuar como enlace entre la Dirección, Departamentos y a las demás Unidades Asesoras en la definición de los lineamientos de cooperación nacional e internacional del Instituto.
+
+b) Velar por el cumplimiento de los compromisos adquiridos por el Instituto ante organismos nacionales e internacionales, mediante el seguimiento de los convenios, declaraciones, acuerdos o proyectos.
 
 c) Coordinar con el Ministerio de Relaciones Exteriores las actividades que se deriven de los procesos de relación y cooperación internacional, según corresponda.
 
 d) Coordinar con la Oficina de Cooperación y Asuntos Internacionales del Ministerio de Salud, las actividades que se deriven de los procesos de relación y cooperación internacional, según corresponda.
 
-e) Generar y coordinar redes de cooperación entre las diversas instancias del sector público, centralizado o descentralizado, especializadas en asuntos internacionales o de cooperación.
+e) Generar y coordinar redes de cooperación entre las diversas instancias del sector público, centralizado o descentralizado, especializadas en asuntos nacionales e internacionales o de cooperación.
 
-f) Actuar como enlace del Instituto en la celebración de convenios con entidades extranjeras, redactarlos -cuando proceda-, revisar su pertinencia, elaborar las resoluciones que aprueben dichos convenios -con el visto bueno de la Asesoría Jurídica-, y mantener un listado actualizado de los mismos, debiendo efectuar el seguimiento y control de las obligaciones contenidas en los compromisos suscritos.
+f) Actuar como enlace del Instituto en la celebración de convenios con entidades nacionales y extranjeras, redactarlos -cuando proceda-, revisar su pertinencia, elaborar las resoluciones que aprueben dichos convenios -con el visto bueno de la Asesoría Jurídica-, y mantener un listado actualizado de los mismos, debiendo efectuar el seguimiento y control de las obligaciones contenidas en los compromisos suscritos.
 
 2.7 La UNIDAD DE AUDITORÍA INTERNA, la que cumplirá con las funciones que se mencionan a continuación:
 
@@ -376,6 +414,10 @@ iv. Horarios especiales.
 
 v. Comisiones de servicio dentro del territorio nacional, previa instrucción por escrito de la Dirección.
 
+vi. Horas extraordinarias, sean estas remuneradas o con tiempo compensatorio, previa autorización por escrito del Director.
+
+e) Contrataciones ad honorem de alumnos en práctica.
+
 5.6.1 El Subdepartamento Gestión y Desarrollo de Personas estará compuesto por la sala cuna y el jardín infantil, además de las siguientes Secciones y Unidades, que tendrán las funciones y delegación de firma, que a continuación se indican:
 
 5.6.2 Unidad de control de gestión:
@@ -448,7 +490,7 @@ b) Asesorar y apoyar a la jefatura del Subdepartamento en la implementación de 
 
 5.6.8 Formación y Capacitación:
 
-a) Liderar, planificar, organizar y coordinar las tareas administrativas requeridas para la ejecución de las actividades de capacitaciones internas y externas del Instituto.
+a) Liderar, planificar, organizar y coordinar las tareas administrativas requeridas para la ejecución de las actividades de capacitaciones internas del Instituto.
 
 b) Proponer la planificación de actividades y presupuesto de capacitación para cada año.
 
@@ -460,7 +502,7 @@ e) Difundir los programas de capacitación del Servicio y coordinar y supervisar
 
 f) Coordinar prácticas y pasantías de la institución.
 
-g) Coordinar visitas educativas de la institución.
+g) Eliminado.
 
 h) Administrar las dependencias y equipos destinados para el desarrollo de actividades de capacitación.
 
@@ -560,27 +602,9 @@ a) Coordinar, controlar, hacer seguimiento y ejecución de las Metas de Desempe�
 
 b) Organización de la información, elaboración de reportes, planes y programas de los distintos procesos asociados al Subdepartamento.
 
-5.9.2 Oficina de informaciones, reclamos y sugerencias (OIRS), cuya jefatura tendrá delegada la facultad de derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad a la Ley Nº 20.285, sobre acceso a la información pública, informar la prórroga al Consejo para la Transparencia, respecto de cualquier trámite ante dicha entidad.
+c) Administrar encuestas y mediciones sobre la satisfacción de los usuarios respecto a la calidad de la atención y las expectativas de éstos.
 
-5.9.2.1 La Oficina de informaciones, reclamos y sugerencias (OIRS) tendrá las siguientes funciones:
-
-a) Informar al cliente sobre la organización, competencia y funcionamiento del Instituto, formalidades y plazos de las presentaciones o solicitudes presentadas; la documentación y antecedentes que deben acompañarse a éstas; los procedimientos y su tramitación; y las demás indicaciones necesarias a fin de que el público tenga un acceso expedito y oportuno a sus diversas prestaciones y solicitudes, así como el resultado de éstas.
-
-b) Informar sobre la ubicación, competencia y horarios de las unidades de la Administración del Estado perteneciente a otros órganos, servicios o empresas relacionadas con las prestaciones que se requieran.
-
-c) Recibir y gestionar las sugerencias que los usuarios presenten ante ella, que tengan por objeto mejorar el funcionamiento del Servicio.
-
-d) Recibir y gestionar los reclamos que los usuarios presenten en relación al Instituto o respecto de alguno de sus funcionarios, que tengan por objeto representar deficiencias, abusos, faltas, omisiones o cualquier otra irregularidad que afecten al interés personal legítimo del reclamante.
-
-e) Dar respuesta en forma efectiva a las solicitudes de información presentadas por clientes, usuarios o beneficiarios, cumpliendo en forma y fondo con el espíritu de las leyes sobre acceso a la información pública y de procedimientos administrativos.
-
-f) Velar por la publicidad de los actos de la administración, verificando la publicación completa y oportuna de la información pública.
-
-g) Realizar encuestas y mediciones sobre la satisfacción de los usuarios respecto a la calidad de la atención y las expectativas de éstos al acercarse al organismo.
-
-h) Ser el espacio en el cual se difunda la Carta de Derechos Ciudadanos elaborada por la Institución.
-
-5.9.3 Gestión de Productos y Servicios:
+5.9.2 Gestión de Productos y Servicios:
 
 a) Informar y orientar a los clientes y usuarios sobre las prestaciones y trámites disponibles e informar acerca de los requisitos para solicitar dichas prestaciones.
 
@@ -594,19 +618,19 @@ e) Proporcionar al Subdepartamento de Gestión Financiera los cierres diarios, m
 
 f) Notificar a los usuarios los oficios, resoluciones, certificados y otros documentos oficiales que son el resultado del trámite realizado por el Instituto.
 
-5.9.4 Gestión Documental:
+5.9.3 Gestión Documental:
 
 a) Centralizar, formalizar, registrar, custodiar y actuar como ministro de fe, respecto de toda la documentación resultante de una prestación.
 
 b) Gestionar la plataforma de contact center.
 
-5.9.5 Cámara y Despacho:
+5.9.4 Cámara y Despacho:
 
 a) Almacenar y custodiar los bienes institucionales que necesiten ser conservados en cámaras de frío.
 
 b) Realizar los despachos correspondientes a las ventas de bienes institucionales y de otros productos relacionados con el quehacer institucional.
 
-5.9.6 Gestión de Muestras:
+5.9.5 Gestión de Muestras:
 
 a) Recibir, registrar, conservar, resguardar y derivar las muestras clínicas y del ambiente enviadas al Instituto por los usuarios, beneficiarios, pacientes y clientes, según normativa establecida.
 
@@ -618,7 +642,7 @@ d) Recibir, registrar y resguardar los informes de resultados enviados por los l
 
 e) Informar al público sobre la tramitación y resultados de prestaciones asociadas a muestras clínicas y ambientales.
 
-5.9.7 Devoluciones y post venta:
+5.9.6 Devoluciones y post venta:
 
 a) Recibir y analizar solicitudes de devolución de arancel, generando las resoluciones que se pronuncien sobre las mismas, notificándolas.
 
@@ -645,6 +669,10 @@ h) Instruir retiros del mercado de productos farmacéuticos y cosméticos.
 i) Suscribir los oficios a terceros relacionados con el control de serie y control de estantería.
 
 j) Resolver las presentaciones relativas a la obligación de entregar los informes periódicos de seguridad y plan de manejo de riesgo, así como lo solicitud de modificación de los mismos.
+
+k) Resoluciones que se pronuncien sobre cancelaciones voluntarias de registro sanitario, solicitadas por los propios titulares.
+
+l) Resoluciones por las que se rechaza una solicitud de alzamiento de una medida sanitaria adoptada por funcionarios del departamento.
 
 6.1 El Depto. Agencia Nacional de Medicamentos tendrá las siguientes Coordinaciones, Unidades y Subdepartamentos que se indicarán a continuación:
 
