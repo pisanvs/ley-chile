@@ -2200,6 +2200,22 @@ operaciones
 
 aduaneras
 
+33. Terminal Permanente Paso de personas
+
+Marítimo y todo tipo de
+
+Bahía Chilota operaciones
+
+aduaneras.
+
+34. Terminal Permanente Paso de personas
+
+Marítimo y todo tipo de
+
+Bahía Azul operaciones
+
+aduaneras.
+
 > **Nota.** El DTO 29 EXENTO, Hacienda, publicado el12.02.1999 agregó un nuevo punto habilitado con el Nº 23. Con anterioridad el DTO 377 Exento, Hacienda, publicado el 23.12.1998, agregó un punto habilitado con el mismo numeral.
 
 > **Nota.** NOTA 1: El Artículo único del DTO 13 Exento, Hacienda, publicado el 17.03.1999, agregó un nuevo punto habilitado al artículo 1º del decreto 294, incorporándose dicha modificación en el presente decreto.
