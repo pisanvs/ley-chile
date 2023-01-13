@@ -1,14 +1,16 @@
-FIJA LIMITES PERIFERICOS AL RECINTO DE LA ZONA FRANCA DE PUNTA ARENAS Y DELEGA EN EL INTENDENTE REGIONAL ATRIBUCIONES QUE SEÑALA
+FIJA LIMITES PERIFERICOS AL RECINTO DE LA ZONA FRANCA DE PUNTA ARENAS Y DELEGA EN EL GOBERNADOR REGIONAL ATRIBUCIONES QUE SEÑALA
 
 Núm. 275.- Santiago, 19 de Marzo de 1976.- Vistos: el oficio N° 185, de fecha 13 de Marzo de 1976, de la Intendencia de la XII Región "Magallanes y Antártica Chilena", y
 
 Considerando la necesidad de fijar los límites del área a que se refiere el artículo 2º, letra a), del decreto ley N° 1.055, de 1975, modificado por el decreto ley N° 1.233, de 1975, y de la Zona Franca de Extensión referida en el artículo 16 del mismo cuerpo legal;
 
-Que a objeto de acelerar la puesta en marcha de la Zona Franca de Punta Arenas se advierte la conveniencia de delegar en la intendencia de la XII Región las facultades relacionadas con la concesión, administración, supervigilancia y del establecimiento de normas de procedimientos internos de control y fiscalización de dicha Zona Franca, y
+Que a objeto de acelerar la puesta en marcha de la Zona Franca de Punta Arenas se advierte la conveniencia de delegar en el Gobierno Regional de Magallanes y de la Antártica Chilena las facultades relacionadas con la concesión, administración, supervigilancia y del establecimiento de normas de procedimientos internos de control y fiscalización de dicha Zona Franca, y
 
 Teniendo presente lo establecido en los decretos leyes Nºs. 1.055 y 1.233, ambos de 1975,
 
 Decreto:
+
+> **Nota.** El N°3 del Decreto 2, Hacienda, publicado el 13.01.2022, dispone reemplazar la mención "de la intendencia de la XII Región" por "del Gobierno Regional de Magallanes y de la Antártica Chilena", contenida en el párrafo tercero de los vistos de la presente norma. Se ha efectuado la actualización, sin embargo, precisamos que en el texto existente decía "en la intendencia de la XII Región" en vez de "de la intendencia de la XII Región"
 
 #### Artículo 1º
 
@@ -38,7 +40,7 @@ Declárase que los límites periféricos de la Extensión de la Zona Franca de P
 
 #### Artículo 3º
 
-Delégase en el Intendente de la XII Región, en lo que respecta a la Zona Franca de Punta Arenas, las facultades que el decreto ley N° 1.055 y sus modificaciones otorga a los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción con relación a la concesión, administración y supervigilancia de la Zona Franca a que se refiere el artículo 2º, letra a), del citado decreto ley. Delégase, asimismo, en dicho Intendente, la facultad de señalar los procedimientos Internos de control y fiscalización que estime convenientes para cautelar el fiel cumplimiento de las reglas aplicables a la Zona Franca.
+Delégase en el Gobernador Regional de la Región de Magallanes y de la Antártica Chilena, en lo que respecta a la Zona Franca de Punta Arenas, las facultades que el DFL N° 2, de 2001, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 341, de 1977, del Ministerio de Hacienda, sobre zonas francas; otorga a los Ministerios de Hacienda y de Economía, Fomento y Turismo con relación a la concesión, administración y supervigilancia de dicha Zona Franca. Delégase, asimismo, en dicho Gobernador Regional, la facultad de señalar los procedimientos Internos de control y fiscalización que estime convenientes para cautelar el fiel cumplimiento de las reglas aplicables a la Zona Franca.
 
 Tómese razón, comuníquese, publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Jorge Cauas Lama, Ministro de Hacienda.
 
