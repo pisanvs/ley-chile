@@ -42,6 +42,56 @@ Quedarán exceptuados del pago los siguientes contribuyentes: las mujeres jefas 
 
 Sin perjuicio de las exenciones anteriores, estarán afectos a rebaja de un 100, 50 o 25%, según evaluación de la Dirección de Desarrollo Comunitario, los casos especiales definidos como enfermedades raras y catastróficas, que padezcan o estuvieren padeciendo el o la obligada al pago, o un ascendiente o descendiente directo de este último. Para todos los efectos, se entenderá por enfermedad catastrófica aquella que motive un gasto permanente, ya sea en tratamientos, medicamentos, exámenes y/o atenciones médicas periódicas y prolongadas, y que, a juicio de la Dirección de Desarrollo Comunitario signifique un desmedro grave en la atención de sus necesidades básicas del grupo familiar.
 
+Quedarán exceptuados del pago los siguientes contribuyentes:
+
+Postulantes a Exención
+
+a) Mujeres jefas de hogar mayores de 60 años, con registro social de hogares menor o igual al 70%.
+
+b) Hombres jefes de hogar mayores de 65 años, con registro social de hogares menor o igual al 70%.
+
+c) Situación de discapacidad certificada por el COMPIN.
+
+d) Que detenten el cuidado personal de un niño o niña menor de 18 años.
+
+e) Que detenten el cuidado personal de un niño o niña mayor de 18 años, que se encontrare cursando la educación superior.
+
+f) Por cualquier causal sobreviniente experimenten una situación de necesidad manifiesta, que será declarada por DIDECO.
+
+g) Cónyuge sobreviviente del jefe de hogar que fallezca durante el año 2023.
+
+Postulante a rebaja porcentual del 25%, 50%, 100%, según evaluación de DIDECO
+
+a) Enfermedades raras y catastróficas (*) de persona encargada del pago.
+
+b) Enfermedades raras y catastróficas (*) a ascendientes o descendientes directos de la persona encargada del pago.
+
+(*) Para todos los efectos se entenderá por enfermedad rara y catastrófica, toda aquella que signifiquen un gasto permanente en tratamientos, medicamentos, exámenes y/o atenciones periódicas y prolongadas.
+
+c) Jefe o jefa de hogar que sea víctima de destrucción total del inmueble a causa de: incendio. diluvio, anegamiento, terremoto y otro desastre natural.
+
+d) Registro social de hogares que ubica al jefe o jefa de hogar dentro del 40% y el 70% de mayor vulnerabilidad.
+
+e) Registro social de hogares que ubica al jefe o jefa de hogar en el 80% de mayor vulnerabilidad, que presente desmejoramiento económico, revisado caso a caso en DIDECO.
+
+Requisitos para postular a los beneficios de exención o rebaja correspondiente.
+
+a) Los beneficiarios deberán presentar una solicitud por escrito.
+
+b) Ser el propietario del inmueble afecto al cobro, acreditado con certificado de dominio vigente, certificado de antecedente del bien raiz, certificado de avalúo fiscal y/o copia de escritura de propiedad.
+
+c) Ser arrendatario del inmueble afecto a cobro, acreditado con contrato de arriendo.
+
+d) Si es heredero del inmueble afecto al cobro, debe acreditar dicha calidad con certificado de posesión efectiva y declaración notarial de los miembros de la sucesión facultando al solicitante para representar a la sucesión en el trámite.
+
+e) Que el inmueble sea destinado exclusivamente a fines habitacionales.
+
+f) Para el caso de enfermedades catastróficas de personas ascendientes o descendientes del jefe o jefa de hogar, como del suyo propio, deberán adjuntar los antecedentes médicos respectivos.
+
+g) En los casos del cuidado personal de niños y niñas menores de 18 años, deberá presentar el certificado de nacimiento respectivo y en los casos mayores de 18 años en educación superior, junto al certificado de nacimiento respectivo, deberán acompañar certificado de alumno regular.
+
+Los usuarios podrán postular al beneficio de exención o rebaja al pago de derecho de aseo entre el 15 de enero y 15 de marzo 2023, considerando que el beneficio regirá por año calendario, caducando automáticamente al cabo del año para el cual se solicitó el beneficio.
+
 #### Artículo 8º
 
 La Dirección de Finanzas deberá mantener actualizado el rol de predios exentos de conformidad a la Ley de Rentas II, mediante la información entregada por el Servicio de Impuestos Internos.
@@ -86,7 +136,25 @@ De 476,06 hasta 634,75 UTM un 50% de recargo anual
 
 De 634,75 y más un 100% de recargo anual
 
-Artículo Nº 14.- El costo mínimo anual de la tarifa de aseo domiciliario para el año 2007 será de $21.737 (veintiún mil setecientos treinta y siete pesos) dividido este valor en cuatro cuotas iguales.
+Artículo Nº 14.- El costo anual de la tarifa de aseo domiciliario para el año 2021, 2022, 2023, será por $42.140, pagadero en cuatro cuotas trimestrales, las que serán reajustadas en forma semestral según variación del I.P.C., considerando 1er. semestre la 1ra. y 2da. cuota, que contempla entre enero y junio, y 2do. semestre la 3ra. y 4ta. cuota contemplado entre julio y diciembre.
+
+El cobro del monto de este derecho, tendrá el siguiente vencimiento:
+
+a) Primera cuota: hasta el 30 de abril de cada año.
+
+b) Segunda cuota: hasta el 30 de junio de cada año.
+
+c) Tercera cuota: hasta el 30 de septiembre de cada año.
+
+d) Cuarta cuota: hasta el 30 de noviembre de cada año
+
+e)
+
+Artículo Nº 15.- Quedarán exentas de pago las Juntas de Vecinos y Organizaciones Comunitarias, en conformidad a lo indicado en el Art. 28 de la ley 19.148. Estarán afectas al beneficio de exención las propiedades fiscales correspondientes a la Ilustre Municipalidad, Carabineros de Chile, Bomberos, Serviu, Establecimientos Educacionales, Servicio de Registro Civil e Identificación, y Juzgado de Policía Local.
+
+Artículo Nº 16.- El incumplimiento de pago sobre el derecho de aseo municipal, generará intereses por morosidad, las que se calcularán de acuerdo a la Tabla de Cálculos de Reajuste para Impuestos Morosos, publicada mensualmente por la Tesorería General de la Republica, cuya fórmula indica que es el 1,5% + IPC de intereses progresivo sobre el valor a pagar.
+
+Artículo Nº 17.- Delégase a la Dirección de Desarrollo Comunitario (DIDECO), la facultad de evaluar y determinar, conforme a los antecedentes presentados por los postulantes, el beneficio de exención o rebaja en el cobro de los derechos de aseo domiciliario.
 
 2º.- Déjese sin efecto lo establecido en las ordenanzas indicadas en el punto 1º.
 
