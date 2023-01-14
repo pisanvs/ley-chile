@@ -14,15 +14,17 @@ Considerando:
 
 3°. Que, de acuerdo con lo estipulado en el inciso quinto del artículo 31 de la Ley General de Educación, una vez aprobadas las Bases Curriculares, le corresponde al Ministerio de Educación elaborar los Planes y Programas de estudio para el nivel de educación básica y media, los que deberán ser aprobados por el Consejo Nacional de Educación, según el procedimiento establecido en el artículo 86 del mismo cuerpo legal, los que serán obligatorios para aquellos establecimientos educacionales que carezcan de ellos;
 
-4°. Que, con la finalidad de cumplir lo precedentemente señalado, con fecha 13 de octubre de 2020, se presentó a consideración del Consejo Nacional de Educación una propuesta de Programas de Estudio para 1° y 2° año de educación básica, para la asignatura de Lengua y Cultura de los Pueblos Originarios y Ancestrales, que consideró los Programas de Estudio para cada uno de los nueve pueblos originarios y reconocidos por la ley N° 19.253, a saber, Aymara, Quechua, Lickanantay, Colla, Diaguita, Rapa Nui, Mapuche, Kawésqar y Yagán, además del Programa de Estudio de Interculturalidad;
+4°. Que, con la finalidad de cumplir lo precedentemente señalado, con fecha 13 de octubre de 2020, se presentó a consideración del Consejo Nacional de Educación una propuesta de Programas de Estudio para 1° y 2° año de educación básica, para la asignatura de Lengua y Cultura de los Pueblos Originarios Ancestrales, que consideró los Programas de Estudio para cada uno de los nueve pueblos originarios reconocidos por la ley Nº 19.523, a saber, Aymara, Quechua, Lickanantay, Colla, Diaguita, Rapa Nui, Mapuche, Kawésqar y Yagán, además del Programa de Estudio de Interculturalidad;
 
-5°. Que, para el análisis de la propuesta, el Consejo Nacional de Educación, contó con 10 consultores externos al Consejo, especialistas a nivel escolar y/o en educación intercultural, además de recibir la opinión de 2 académicos de amplia trayectoria en educación intercultural, aprobando con sugerencias los Programas de Estudio de 1° y 2° año de enseñanza básica para las asignaturas de Lengua y Cultura de los Pueblos Originarios Ancestrales Rapa Nui, Colla, Lickanantay, Kawésqar y Yagán, efectuando observaciones respecto de los Pueblos Originarios Ancestrales Aymaras, Quechua, Diaguita, Mapuche e Interculturalidad, según resolución exenta N° 287, de 29 de diciembre de 2020, que ejecuta Acuerdo N° 140/2020 del Consejo Nacional de Educación;
+5°. Que, para el análisis de la propuesta, el Consejo Nacional de Educación, contó con 10 consultores externos al Consejo, especialistas a nivel escolar y/o en educación intercultural, además de recibir la opinión de 2 académicos de amplia trayectoria en educación intercultural, aprobando con sugerencias los Programas de Estudio de 1° y 2° año de enseñanza básica para las asignaturas de Lengua y Cultura de los Pueblos Originarios Ancestrales Rapa Nui, Colla, Lickanantay, Kawésqar y Yagán, efectuando observaciones respecto de los Pueblos Originarios Ancestrales Aymara, Quechua, Diaguita, Mapuche e Interculturalidad, según resolución exenta N° 287, de 29 de diciembre de 2020, que ejecuta Acuerdo N° 140/2020 del Consejo Nacional de Educación;
 
 6°. Que, por lo anterior, el Ministerio de Educación recoge las sugerencias y observaciones, entregando con fecha 15 de abril de 2021 en una propuesta reformulada de los programas observados, la que es analizada nuevamente por el Consejo Nacional de Educación, por 6 consultores externos especialistas en distintas áreas de lenguas y culturas en enseñanza escolar y/o interculturalidad, además de recibir en sesión a un académico con experiencia en educación e investigación intercultural y a un director de establecimiento educacional, ante lo que el Consejo Nacional de Educación, mediante resolución exenta N° 110, de 7 de junio de 2021, ejecuta el Acuerdo N° 55/2021, comunicando a esta Cartera de Estado que, en ejercicio de sus facultades legales, por la unanimidad de sus miembros presentes, acuerda aprobar, con sugerencias respecto al Programa de Interculturalidad, los Programas de Estudio de 1° y 2° básico para las asignaturas de Lengua y Cultura de los Pueblos Originarios Ancestrales;
 
 7°. Que, dando cumplimiento a lo establecido en el inciso quinto del artículo 31 de la Ley General de Educación, es necesario dictar el presente decreto;
 
 Decreto:
+
+> **Nota.** El numeral 2 del artículo 1 del Decreto 28 Exento, Educación, publicado el 14.01.2023, dispone reemplazar en el considerando 5º y en el artículo 1º de la presente norma, la palabra "Cola" por "Colla", sin embargo, la expresión "Colla" se encuentra correctamente escrita en ambos textos.
 
 #### Artículo 1°
 
@@ -34,8 +36,8 @@ Téngase presente que el Programa de estudio de acuerdo con las Bases Curricular
 
 #### Artículo 3°
 
-Declárase "oficial" la edición del Ministerio de Educación de los programas de estudio correspondientes a las asignaturas de aprendizaje aprobados en el presente decreto, que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales de educación media del país, a través de su página web (www.mineduc.cl).
+Declárase "oficial" la edición del Ministerio de Educación de los programas de estudio correspondientes a las asignaturas de aprendizaje aprobados en el presente decreto, que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales de educación básica del país, a través de su página web (www.mineduc.cl).
 
-Anótese y publíquese.- Por orden del Presidente de la República, Raúl Figueroa Salas, Ministro de Educación.
+Anótese y publíquese.- Raúl Figueroa Salas, Ministro de Educación.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Jorge Poblete Aedo, Subsecretario de Educación.
