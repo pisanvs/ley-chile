@@ -48,7 +48,7 @@ Tercero.- El Panel estará constituido por las siguientes personas:
 
 3) Pablo Marshall Rivera, RUN 7.044.604-9.
 
-4) Leonardo Andrés Moreno Núñez, RUN 7.689.070-6.
+4) Ernesto Eduardo González Navarrete, RUN 8.707.075-1.
 
 5) Marcela Cecilia Perticara Torilo, RUN 14.758.597-7.
 
