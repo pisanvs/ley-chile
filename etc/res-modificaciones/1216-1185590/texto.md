@@ -54,6 +54,8 @@ Resolución:
 
 1.- Reemplácese el resuelvo N° 1 de la resolución exenta N° 566, cuadro de fechas 8.07.2022, por el siguiente:
 
+.
+
 2.- En todo lo demás no modificado, manténgase inalterable la Res. exenta N° 481, de fecha 14.06.2022, que llama a postulación a proyectos del Cap. III del DS N° 27 (V. y U.), de 2016.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Ximena Sepúlveda Varas, Secretaria Regional Ministerial de Vivienda y Urbanismo Región de la Araucanía.
