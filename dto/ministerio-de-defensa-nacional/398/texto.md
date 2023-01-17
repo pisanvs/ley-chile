@@ -92,7 +92,9 @@ Podrán postular al nombramiento como prácticos autorizados, quienes manifieste
 
 - **a)** Haberse desempeñado durante cinco o más años como Práctico Oficial.
 
-- **b)** Que su retiro de la Armada no haya sido causado por incapacidad psicofísica, mala calificación o como resultado de una sanción disciplinaria en investigación sumaria administrativa o de una sentencia judicial ejecutoriada. 1.2 Los Capitanes de Alta Mar que acrediten:
+- **b)** Que su retiro de la Armada no haya sido causado por incapacidad psicofísica, mala calificación o como resultado de una sanción disciplinaria en investigación sumaria administrativa o de una sentencia judicial ejecutoriada.
+
+- **c)** Haber ingresado al servicio con dos o más años de mando efectivo en naves de un arqueo bruto mayor de 1.000 toneladas o mayores de 80 metros de eslora máxima. 1.2 Los Capitanes de Alta Mar que acrediten:
 
 - **a)** Estar en posesión del título vigente de Capitán de Alta Mar.
 
