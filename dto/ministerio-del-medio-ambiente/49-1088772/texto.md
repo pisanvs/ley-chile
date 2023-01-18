@@ -1084,13 +1084,13 @@ a) En aquellos días para los cuales se pronostique un episodio crítico en el n
 
 i. La SEREMI de Salud entregará a la ciudadanía recomendaciones para la protección de la salud y hará un llamado al uso responsable y eficiente de la calefacción a leña.
 
-ii. Se suspenderán las actividades físicas y deportivas al aire libre y al interior de gimnasios, después de las 19 horas, sin perjuicio de lo dispuesto en la letra f) del presente artículo.
+ii. Eliminado.
 
 iii. En las zonas territoriales que la autoridad ambiental previamente determine, no se permitirán humos visibles provenientes de las viviendas, entre las 18 y las 23:59 horas, exceptuando un periodo máximo de 15 minutos continuos para el encendido de los artefactos, según metodología que establecerá la Autoridad Sanitaria, mediante acto administrativo.
 
 b) En aquellos días para los cuales se pronostique un episodio crítico en el nivel PRE EMERGENCIA, se tomarán las siguientes acciones:
 
-i. Se suspenderán las actividades físicas y deportivas al aire libre y al interior de gimnasios, durante todo el día, sin perjuicio de lo dispuesto en la letra f) del presente artículo.
+i. Eliminado.
 
 ii. En las zonas territoriales que la autoridad ambiental previamente determine, no se permitirán humos visibles provenientes de las viviendas, entre las 18 y las 06 horas del día siguiente, exceptuando un periodo máximo de 15 minutos continuos para el encendido de los artefactos, según metodología que establecerá la Autoridad Sanitaria, mediante acto administrativo.
 
@@ -1102,7 +1102,7 @@ v. A contar del tercer año de entrada en vigencia del presente Plan, se prohibi
 
 c) En aquellos días para los cuales se pronostique un episodio crítico en el nivel EMERGENCIA, se tomarán las siguientes acciones:
 
-i. Se suspenderán las actividades físicas y deportivas al aire libre y al interior de gimnasios, durante todo el día, sin perjuicio de lo dispuesto en la letra f) del presente artículo.
+i. Eliminado.
 
 ii. En las zonas territoriales que la autoridad ambiental previamente determine, no se permitirán humos visibles provenientes de las viviendas, durante las 24 horas del día, exceptuando un periodo máximo de 15 minutos continuos para el encendido de los artefactos, según metodología que establecerá la Autoridad Sanitaria, mediante acto administrativo.
 
@@ -1116,7 +1116,9 @@ e) La SEREMI de Educación de la Región del Maule comunicará a los establecimi
 
 f) La SEREMI de Educación, podrá suspender las actividades físicas y deportivas al aire libre y al interior de gimnasios, para la totalidad de la comunidad escolar de la zona saturada en aquellos días en que se declare un episodio crítico.
 
-g) La SEREMI del Medio Ambiente informará a la SEREMI del Deporte el inicio del Plan Operacional de Gestión de Episodios Críticos para que lo difunda entre las organizaciones con las cuales trabaja en la zona saturada, y en aquellos días en que se declare un episodio crítico, suspendan las actividades deportivas al aire libre y al interior de gimnasios, organizadas por dicha institución.
+g) La Seremi del Medio Ambiente informará a la Seremi del Deporte de la Región del Maule, el inicio del Plan Operacional de Gestión de Episodios Críticos para que lo difunda entre las organizaciones con las cuales trabaja en la zona saturada; y asimismo, en aquellos días en que se declare un episodio crítico, les informe sobre los riesgos de realizar dichas actividades físicas.
+
+h) En general, se recomienda abstenerse de realizar actividad física, de acuerdo a lo expuesto en la "Guía de recomendaciones de Actividad Física con Alerta Ambiental" elaborada por la Subsecretaría de Salud Pública, guía que se encuentra disponible en su página web.
 
 CAPÍTULO VIII. PROGRAMA DE EDUCACIÓN Y DIFUSIÓN DE LAS MEDIDAS DEL PLAN DE DESCONTAMINACIÓN ATMOSFÉRICA
 
