@@ -34,7 +34,7 @@ Resuelvo:
 
 1. Infórmese el otorgamiento del Premio Nacional de los Derechos Humanos 2022, por parte del Consejo del Instituto Nacional de Derechos Humanos, a Elizabeth Leonor Andrade Huaringa, RUT Nº 22.480.884-4.
 
-2. Determínase que el Servicio de Tesorerías, conforme al programa de caja, cargará al ítem 50-01-03-24-03-133 del Tesoro Público, la cantidad destinada al pago de la pensión vitalicia señalada en la letra c) del Considerando 6º de la presente resolución, a Elizabeth Leonor Andrade Huaringa RUT Nº 22.480.884-4, en su calidad de ganadora del Premio Nacional de Derechos Humanos 2022, de acuerdo con lo dispuesto en el artículo 14 de la ley Nº 20.405.
+2. Determínase que el Servicio de Tesorerías, conforme al programa de caja, cargará al ítem 50-01-03-23-01-001 del Tesoro Público, la cantidad destinada al pago de la pensión vitalicia señalada en la letra c) del Considerando 6º de la presente resolución, a Elizabeth Leonor Andrade Huaringa RUT Nº 22.480.884-4, en su calidad de ganadora del Premio Nacional de Derechos Humanos 2022, de acuerdo con lo dispuesto en el artículo 14 de la ley Nº 20.405.
 
 3. Impútese la suma indicada en el considerando 6º letra b), a la asignación 24.01.189 "Premios Nacionales", del presupuesto vigente del INDH.
 
