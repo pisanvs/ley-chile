@@ -36,7 +36,9 @@ Valor Patente: 1 UTM.
 
 B) HOTELES, ANEXOS DE HOTELES, CASAS DE PENSIÓN O RESIDENCIALES:
 
-a) Hotel y anexo de hotel, en el que se preste servicio de hospedaje y alimentación. El expendio deberá realizarse en las dependencias destinadas para tales efectos.
+a) Hotel y anexo de hotel, en el que se preste servicio de hospedaje y alimentación. El expendio deberá realizarse en las dependencias destinadas para tales efectos. Los hoteles y anexos de hoteles que cuenten con este tipo de patentes podrán realizar espectáculos artísticos consistentes en música en vivo, danza, shows de humor, muestras culturales y en general toda clase de espectáculos de dicha naturaleza, sin necesidad de una patente adicional.
+
+Para estos efectos, se entenderá como anexo de hotel aquella dependencia que posee una continuidad material o funcional con el hotel, ya sea que se ubique de manera colindante al edificio que alberga a este último, o bien porque existe una continuidad de funciones y actividades entre ambos. En todo caso, no podrá considerarse como anexo de hotel aquella dependencia que se ubique a más de 100 metros de distancia del edificio del hotel principal.
 
 Valor Patente: 0,7 UTM.
 
@@ -142,7 +144,13 @@ Q) SALONES DE MÚSICA EN VIVO, establecimientos con expendio de bebidas alcohól
 
 Valor Patente: 3,5 UTM.
 
-Esta patente sólo podrá otorgarse, con carácter de accesoria, a los establecimientos que cuenten con alguna de las patentes establecidas en las letras C), E) y Ñ) de este artículo. Esta patente se concederá en la forma que determina el artículo 5º, previo cumplimiento de los requisitos de zonificación y distanciamiento establecidos en el artículo 8º, en las normas sobre emisión de ruidos y en las ordenanzas municipales respectivas.
+Esta patente sólo podrá otorgarse, con carácter de accesoria, a los establecimientos que cuenten con alguna de las patentes señaladas en las letras C), E), F), G), I), J), M) y Ñ). Ella se concederá previo cumplimiento de los requisitos de zonificación y distanciamiento establecidos en el artículo 8, en las normas sobre emisión de ruidos y en las ordenanzas municipales respectivas, una vez acreditado el cumplimiento de los requisitos antes señalados por decreto alcaldicio.".
+
+Para efectos de esta letra, se considerará con carácter accesoria la patente de salones de música en vivo que, cumpliendo previamente con los requisitos sanitarios, de distanciamiento y zonificación, acceda a aquellas conferidas en las letras C), E), F), G), I), J), M) y Ñ).
+
+Si el informe técnico al que hacen referencia los artículos 15 y 21 del decreto N° 38, de 2011, del Ministerio del Medio Ambiente, que establece norma de emisión de ruidos generados por fuente que indica, elaborada a partir de la revisión del decreto N°146, de 1997, del Ministerio Secretaría General de la Presidencia, constata el incumplimiento de los niveles máximos permisibles de ruido, la municipalidad podrá declarar la caducidad de la patente accesoria.
+
+En el caso de la letra J), solo podrá otorgarse en las áreas del recinto dedicadas exclusivamente a la venta con fines promocionales y turísticos o a la degustación.
 
 Para los efectos de esta ley se entenderá por venta o expendio al por mayor, el realizado en cantidades no inferiores a 200 litros, si se trata de venta a granel, o de 48 botellas, cajas, latas u otras unidades de consumo si la venta es de bebidas envasadas.
 
