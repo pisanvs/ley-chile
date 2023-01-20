@@ -16,43 +16,79 @@ D e c r e t o :
 
 Corresponde a la agrupación presupuestaria de los organismos que se incluyen en la Ley de Presupuestos del Sector Público, como sigue:
 
-PARTIDA : Nivel superior de agrupación asignada
+PARTIDA : Nivel superior de
 
-a la Presidencia de la República, al
+agrupación asignada
 
-Congreso Nacional, al Poder Judicial,
+a la Presidencia
 
-a la Contraloría General de la
+de la República, al
 
-República, Ministerio Público, a cada
+Congreso Nacional,
 
-uno de los diversos Ministerios y a la
+al Poder Judicial,
 
-Partida "Tesoro Público" que
+a la Contraloría
 
-contiene la estimación de ingresos del
+General de la
 
-Fisco y de los gastos y aportes de
+República,
+
+Ministerio Público,
+
+a cada uno de los
+
+diversos Ministerios
+
+y a la Partida
+
+"Tesoro Público" que
+
+contiene la
+
+estimación de
+
+ingresos del
+
+Fisco y de los
+
+gastos y aportes de
 
 cargo fiscal.
 
-CAPITULO : Subdivisión de la Partida, que
+CAPITULO : Subdivisión de
 
-corresponde a cada uno de los
+la Partida, que
 
-organismos que se identifican con
+corresponde a
 
-presupuestos aprobados en forma
+cada uno de los
 
-directa en la Ley de Presupuestos.
+organismos que
 
-PROGRAMA : División presupuestaria de los
+se identifican con
 
-Capítulos, en relación a funciones
+presupuestos
 
-u objetivos específicos identificados
+aprobados en forma
 
-dentro de los presupuestos de los
+directa en la
+
+Ley de Presupuestos.
+
+PROGRAMA : División
+
+presupuestaria de los
+
+Capítulos, en relación
+
+a funciones u objetivos
+
+específicos identificados
+
+dentro de los
+
+presupuestos de los
 
 organismos públicos.
 
@@ -60,29 +96,49 @@ organismos públicos.
 
 Corresponde al ordenamiento de las transacciones presupuestarias de acuerdo con su origen, en lo referente a los ingresos, y a los motivos a que se destinen los recursos, en lo que respecta a los gastos. Contiene las siguientes divisiones:
 
-SUBTITULO : Agrupación de operaciones
+SUBTITULO : Agrupación de
 
-presupuestarias de
+operaciones
 
-características o naturaleza
+presupuestarias
 
-homogénea, que comprende un
+de características
+
+o naturaleza
+
+homogénea, que
+
+comprende un
 
 conjunto de ítem.
 
-ITEM : Representa un "motivo
+ITEM : Representa un
 
-significativo" de ingreso o
+"motivo
+
+significativo"
+
+de ingreso o
 
 gasto.
 
-ASIGNACION : Corresponde a un "motivo
+ASIGNACION : Corresponde a
 
-específico" del ingreso o gasto.
+un "motivo
 
-SUB-ASIGNACION : Subdivisión de la asignación en
+específico"
 
-conceptos de "naturaleza más
+del ingreso o
+
+gasto.
+
+SUB-ASIGNACION : Subdivisión
+
+de la asignación
+
+en conceptos
+
+de "naturaleza más
 
 particularizada".
 
@@ -122,51 +178,95 @@ INGRESOS
 
 001 Primera Categoría
 
-002 Segunda Categoría, Sueldos,
+002 Segunda Categoría,
 
-Salarios y Pensiones
+Sueldos,
+
+Salarios
+
+y Pensiones
 
 003 Global Complementario
 
 004 Adicional
 
-005 Tasa 40% DL N° 2.398 de 1978
+005 Tasa 40%
 
-006 Artículo 21 Ley Impuesto a la
+DL N° 2.398
 
-Renta
+de 1978
+
+006 Artículo 21
+
+Ley Impuesto
+
+a la Renta
 
 007 Término de Giro
 
 Subt. Item Asig.
 
-02 Impuesto al Valor Agregado
+02 Impuesto al
 
-001 Tasa General Débitos
+Valor Agregado
 
-002 Tasa General Créditos
+001 Tasa General
 
-101 Tasas Especiales Débitos
+Débitos
 
-102 Tasas Especiales Créditos
+002 Tasa General
 
-201 Tasa General de Importaciones
+Créditos
 
-03 Impuestos a Productos Específicos
+101 Tasas Especiales
 
-001 Tabacos, Cigarros y Cigarrillos
+Débitos
 
-002 Derechos de Explotación ENAP
+102 Tasas Especiales
 
-003 Gasolinas, Petróleo Diesel y Otros
+Créditos
 
-01 03 004 Derechos de Extracción Ley de Pesca
+201 Tasa General de
 
-04 Impuestos a los Actos Jurídicos
+Importaciones
 
-05 Impuestos al Comercio Exterior
+03 Impuestos a
 
-001 Derechos Específicos de
+Productos
+
+Específicos
+
+001 Tabacos,
+
+Cigarros y
+
+Cigarrillos
+
+002 Derechos de
+
+Explotación ENAP
+
+003 Gasolinas,
+
+Petróleo
+
+Diesel y Otros
+
+01 03 004 Derechos de
+
+Extracción Ley de Pesca
+
+04 Impuestos a los
+
+Actos Jurídicos
+
+05 Impuestos al
+
+Comercio Exterior
+
+001 Derechos
+
+Específicos de
 
 Internación
 
@@ -178,7 +278,9 @@ Internación
 
 06 Impuestos Varios
 
-001 Herencias y Donaciones
+001 Herencias y
+
+Donaciones
 
 002 Patentes Mineras
 
@@ -186,67 +288,135 @@ Internación
 
 006 Otros
 
-07 Otros Ingresos Tributarios
+07 Otros Ingresos
 
-001 Reajuste de Impuestos de
+Tributarios
+
+001 Reajuste de Impuestos
+
+de Declaración Anual
+
+002 Multas e Intereses
+
+por Impuestos
+
+09 Sistema de Pago
+
+de Impuestos
+
+001 Pagos Provisionales
+
+del Año
+
+002 Créditos para
 
 Declaración Anual
 
-002 Multas e Intereses por Impuestos
+de Renta
 
-09 Sistema de Pago de Impuestos
+003 Devoluciones
 
-001 Pagos Provisionales del Año
+Determinadas
 
-002 Créditos para Declaración Anual
+Declaración
+
+Anual de Renta
+
+004 Devoluciones
 
 de Renta
 
-003 Devoluciones Determinadas
+005 Reintegro de
 
-Declaración Anual de Renta
+Devoluciones
 
-004 Devoluciones de Renta
+de Renta
 
-005 Reintegro de Devoluciones de Renta
+101 IVA Remanente
 
-101 IVA Remanente Crédito del Período
+Crédito del
 
-102 IVA Remanente Crédito Períodos
+Período
 
-Anteriores
+102 IVA Remanente
 
-103 Devoluciones de IVA
-
-104 Reintegro de Devoluciones de IVA
-
-201 Devoluciones de Aduanas
-
-202 Devoluciones de Otros Impuestos
-
-301 Fluctuación Deudores del Período
-
-302 Fluctuación Deudores de Períodos
+Crédito Períodos
 
 Anteriores
 
-303 Reajuste por Pago Fuera de Plazo
+103 Devoluciones de
 
-401 Diferencias de Pago
+IVA
 
-501 Impuestos de Declaración y Pago
+104 Reintegro de
 
-Simultáneo Mensual de Empresas
+Devoluciones de
+
+IVA
+
+201 Devoluciones de
+
+Aduanas
+
+202 Devoluciones de
+
+Otros Impuestos
+
+301 Fluctuación
+
+Deudores del
+
+Período
+
+302 Fluctuación
+
+Deudores de
+
+Períodos
+
+Anteriores
+
+303 Reajuste por
+
+Pago Fuera de
+
+Plazo
+
+401 Diferencias de
+
+Pago
+
+501 Impuestos de
+
+Declaración y
+
+Pago
+
+Simultáneo
+
+Mensual de
+
+Empresas
 
 Constructoras
 
-502 Recuperación Peajes Ley N° 19.764
+502 Recuperación
 
-601 Aplicación Artículo 8° Ley N°
+Peajes
+
+Ley N° 19.764
+
+601 Aplicación
+
+#### Artículo 8°
+
+Ley N°
 
 18.566
 
-701 Conversión de Pagos en Moneda
+701 Conversión
+
+de Pagos en Moneda
 
 Extranjera
 
@@ -262,21 +432,37 @@ LA REALIZACION DE ACTIVIDADES
 
 003 Otros derechos
 
-004 Derechos de Explotación
+004 Derechos de
+
+Explotación
 
 999 Otras
 
-02 Permisos y Licencias
+02 Permisos y
 
-001 Permisos de Circulación
+Licencias
 
-002 Licencias de Conducir y similares
+001 Permisos de
+
+Circulación
+
+002 Licencias de
+
+Conducir y
+
+similares
 
 999 Otros
 
-03 Participación en Impuesto
+03 Participación
 
-Territorial - Art. 37 D.L.
+en Impuesto
+
+Territorial -
+
+#### Artículo 37
+
+D.L.
 
 N° 3.063, de 1979
 
@@ -284,23 +470,37 @@ N° 3.063, de 1979
 
 99 Otros Tributos
 
-04 IMPOSICIONES PREVISIONALES
+04 IMPOSICIONES
 
-01 Aportes del Empleador
+PREVISIONALES
 
-001 Cotizaciones para la Ley de
+01 Aportes del
 
-Accidentes del Trabajo
+Empleador
+
+001 Cotizaciones
+
+para la Ley de
+
+Accidentes del
+
+Trabajo
 
 999 Otros
 
-02 Aportes del Trabajador
+02 Aportes del
 
-001 Cotizaciones para el Fondo de
+Trabajador
 
-Pensiones
+001 Cotizaciones
 
-002 Cotizaciones para Salud
+para el Fondo
+
+de Pensiones
+
+002 Cotizaciones
+
+para Salud
 
 999 Otros
 
@@ -310,31 +510,53 @@ Pensiones
 
 Subt. Item Asig.
 
-02 Del Gobierno Central
+02 Del Gobierno
 
-03 De Otras Entidades Públicas
+Central
 
-04 De Empresas Públicas no
+03 De Otras
+
+Entidades
+
+Públicas
+
+04 De Empresas
+
+Públicas no
 
 Financieras
 
-05 De Empresas Públicas Financieras
+05 De Empresas
 
-06 De Gobiernos Extranjeros
+Públicas
 
-07 De Organismos Internacionales
+Financieras
+
+06 De Gobiernos
+
+Extranjeros
+
+07 De Organismos
+
+Internacionales
 
 06 RENTAS DE LA PROPIEDAD
 
-01 Arriendo de Activos No Financieros
+01 Arriendo de Activos
+
+No Financieros
 
 02 Dividendos
 
 03 Intereses
 
-04 Participación de Utilidades
+04 Participación de
 
-99 Otras Rentas de la Propiedad
+Utilidades
+
+99 Otras Rentas de la
+
+Propiedad
 
 07 INGRESOS DE OPERACION
 
@@ -342,59 +564,109 @@ Financieras
 
 02 Venta de Servicios
 
-08 OTROS INGRESOS CORRIENTES
+08 OTROS INGRESOS
 
-01 Recuperaciones y Reembolsos por
+CORRIENTES
+
+01 Recuperaciones y
+
+Reembolsos por
 
 Licencias Médicas
 
-001 Reembolsos Art. 4° Ley N° 19.345
+001 Reembolsos
 
-y Ley Nº 19.117 Art. Único
+#### Artículo 4°
 
-002 Recuperaciones Art. 12 Ley
+Ley N° 19.345
 
-N° 18.196 y Ley Nº 19.117 Art.
+y Ley Nº 19.117
 
-Único
+#### Artículo Único
 
-02 Multas y Sanciones Pecuniarias
+002 Recuperaciones
 
-03 Participación del Fondo Común
+#### Artículo 12
 
-Municipal - Art. 38 D.L. N° 3.063,
+Ley
+
+N° 18.196 y
+
+Ley Nº 19.117
+
+#### Artículo Único
+
+02 Multas y
+
+Sanciones
+
+Pecuniarias
+
+03 Participación
+
+del Fondo Común
+
+Municipal -
+
+#### Artículo 38
+
+D.L.
+
+N° 3.063,
 
 de 1979
 
-001 Participación Anual
+001 Participación
 
-002 Compensaciones Fondo Común
+Anual
+
+002 Compensaciones
+
+Fondo Común
 
 Municipal
 
 003 Aportes Extraordinarios
 
-004 Compensación Ley N° 19.850
+004 Compensación
+
+Ley N° 19.850
 
 005 SUPRIMIDA
 
-04 Fondos de Terceros
+04 Fondos de
+
+Terceros
 
 99 Otros
 
 001 Devoluciones y Reintegros no
 
-Provenientes de Impuestos
+Provenientes
+
+de Impuestos
 
 002 SUPRIMIDA
 
-003 Fondos en Administración en Banco
+003 Fondos en
+
+Administración
+
+en Banco
 
 Central
 
-004 Integros Ley N° 19.030
+004 Integros
 
-100 Administradora del Fondo para Bonificación por Retiro.
+Ley N° 19.030
+
+100 Administradora
+
+del Fondo para
+
+Bonificación por
+
+Retiro.
 
 999 Otros
 
@@ -402,11 +674,17 @@ Central
 
 01 Libre
 
-02 Servicio de la Deuda Interna
+02 Servicio de
 
-03 Servicio de la Deuda Externa
+la Deuda Interna
 
-10 VENTA DE ACTIVOS NO FINANCIEROS
+03 Servicio de la
+
+Deuda Externa
+
+10 VENTA DE ACTIVOS
+
+NO FINANCIEROS
 
 01 Terrenos
 
@@ -422,19 +700,29 @@ Central
 
 07 Programas Informáticos
 
-99 Otros Activos no Financieros
+99 Otros Activos
 
-11 VENTA DE ACTIVOS FINANCIEROS
+no Financieros
 
-01 Venta o Rescate de Títulos y
+11 VENTA DE ACTIVOS
+
+FINANCIEROS
+
+01 Venta o Rescate
+
+de Títulos y
 
 Valores
 
 001 Depósitos a Plazo
 
-002 Pactos de Retrocompra
+002 Pactos de
 
-003 Cuotas de Fondos Mutuos
+Retrocompra
+
+003 Cuotas de
+
+Fondos Mutuos
 
 004 Bonos o Pagarés
 
@@ -444,13 +732,21 @@ Valores
 
 02 Venta de Acciones y
 
-Participaciones de Capital
+Participaciones
 
-03 Operaciones de Cambio
+de Capital
 
-99 Otros Activos Financieros
+03 Operaciones de
 
-12 RECUPERACION DE PRESTAMOS
+Cambio
+
+99 Otros Activos
+
+Financieros
+
+12 RECUPERACION DE
+
+PRESTAMOS
 
 01 De Asistencia Social
 
@@ -462,57 +758,93 @@ Participaciones de Capital
 
 05 Médicos
 
-06 Por Anticipos a Contratistas
+06 Por Anticipos a
 
-07 Por Anticipos por Cambio de
+Contratistas
+
+07 Por Anticipos por
+
+Cambio de
 
 Residencia
 
-09 Por Ventas a Plazo
+09 Por Ventas a
 
-10 Ingresos por Percibir
+Plazo
+
+10 Ingresos por
+
+Percibir
 
 Subt. Item Asig.
 
-13 TRANSFERENCIAS PARA GASTOS
+13 TRANSFERENCIAS
+
+PARA GASTOS
 
 DE CAPITAL
 
 01 Del Sector Privado
 
-02 Del Gobierno Central
+02 Del Gobierno
 
-03 De Otras Entidades Públicas
+Central
 
-04 De Empresas Públicas no
+03 De Otras
+
+Entidades Públicas
+
+04 De Empresas
+
+Públicas no
 
 Financieras
 
-05 De Empresas Públicas Financieras
+05 De Empresas
 
-06 De Gobiernos Extranjeros
+Públicas Financieras
 
-07 De Organismos Internacionales
+06 De Gobiernos
+
+Extranjeros
+
+07 De Organismos
+
+Internacionales
 
 14 ENDEUDAMIENTO
 
-01 Endeudamiento Interno
+01 Endeudamiento
 
-001 Colocación de Valores
+Interno
 
-002 Empréstitos
+001 Colocación de
 
-003 Créditos de Proveedores
-
-02 Endeudamiento Externo
-
-001 Colocación de Valores
+Valores
 
 002 Empréstitos
 
-003 Créditos de Proveedores
+003 Créditos de
 
-15 SALDO INICIAL DE CAJA
+Proveedores
+
+02 Endeudamiento
+
+Externo
+
+001 Colocación de
+
+Valores
+
+002 Empréstitos
+
+003 Créditos de
+
+Proveedores
+
+15 SALDO INICIAL
+
+DE CAJA
 
 Subt. Item Asig.
 
@@ -526,61 +858,101 @@ GASTOS
 
 002 Aportes del Empleador
 
-003 Asignaciones por Desempeño
+003 Asignaciones
 
-004 Remuneraciones Variables
+por Desempeño
 
-005 Aguinaldos y Bonos
+004 Remuneraciones
+
+Variables
+
+005 Aguinaldos y
+
+Bonos
 
 02 Personal a Contrata
 
-001 Sueldos y Sobresueldos
+001 Sueldos y
 
-002 Aportes del Empleador
+Sobresueldos
 
-003 Asignaciones por Desempeño
+002 Aportes del
 
-004 Remuneraciones Variables
+Empleador
 
-005 Aguinaldos y Bonos
+003 Asignaciones
 
-03 Otras Remuneraciones
+por Desempeño
+
+004 Remuneraciones
+
+Variables
+
+005 Aguinaldos y
+
+Bonos
+
+03 Otras
+
+Remuneraciones
 
 001 Honorarios a Suma
 
-Alzada - Personas Naturales
+Alzada -
 
-002 Honorarios Asimilados a Grados
+Personas Naturales
+
+002 Honorarios
+
+Asimilados a Grados
 
 003 Jornales
 
-004 Remuneraciones Reguladas por
+004 Remuneraciones
+
+Reguladas por
 
 el Código del Trabajo
 
-005 Suplencias y Reemplazos
+005 Suplencias y
 
-006 Personal a Trato y/o Temporal
+Reemplazos
+
+006 Personal a Trato
+
+y/o Temporal
 
 007 Alumnos en Práctica
 
 999 Otras
 
-04 Otros Gastos en Personal
+04 Otros Gastos en
 
-001 Asignación de Traslado
+Personal
+
+001 Asignación de
+
+Traslado
 
 002 Dieta Parlamentaria
 
-003 Dietas a Juntas, Consejos
+003 Dietas a
+
+Juntas, Consejos
 
 y Comisiones
 
-004 Prestaciones de Servicios
+004 Prestaciones de
 
-en Programas Comunitarios.
+Servicios
 
-22 BIENES Y SERVICIOS DE CONSUMO
+en Programas
+
+Comunitarios.
+
+22 BIENES Y SERVICIOS
+
+DE CONSUMO
 
 01 Alimentos y Bebidas
 
@@ -588,23 +960,35 @@ en Programas Comunitarios.
 
 002 Para Animales
 
-02 Textiles, Vestuario y Calzado
+02 Textiles, Vestuario
 
-001 Textiles y Acabados Textiles
+y Calzado
 
-002 Vestuario, Accesorios y Prendas
+001 Textiles y Acabados
+
+Textiles
+
+002 Vestuario,
+
+Accesorios y Prendas
 
 Diversas
 
 003 Calzado
 
-03 Combustibles y Lubricantes
+03 Combustibles y
+
+Lubricantes
 
 001 Para Vehículos
 
-002 Para Maquinarias, Equipos
+002 Para Maquinarias,
 
-de Producción, Tracción y
+Equipos
+
+de Producción,
+
+Tracción y
 
 Elevación
 
@@ -612,59 +996,99 @@ Elevación
 
 999 Para Otros
 
-04 Materiales de Uso o Consumo
+04 Materiales de
 
-001 Materiales de Oficina
+Uso o Consumo
 
-002 Textos y Otros Materiales
+001 Materiales de
+
+Oficina
+
+002 Textos y Otros
+
+Materiales
 
 de Enseñanza
 
-003 Productos Químicos
+003 Productos
 
-004 Productos Farmacéuticos
+Químicos
 
-005 Materiales y Utiles Quirúrgicos
+004 Productos
 
-006 Fertilizantes, Insecticidas,
+Farmacéuticos
 
-Fungicidas y Otros
+005 Materiales y
 
-007 Materiales y Utiles de Aseo
+Utiles Quirúrgicos
 
-008 Menaje para Oficina, Casino
+006 Fertilizantes,
+
+Insecticidas,
+
+Fungicidas y
+
+Otros
+
+007 Materiales y
+
+Utiles de Aseo
+
+008 Menaje para
+
+Oficina, Casino
 
 y Otros
 
-009 Insumos, Repuestos y Accesorios
+009 Insumos,
+
+Repuestos
+
+y Accesorios
 
 Computacionales
 
-010 Materiales para Mantenimiento
+010 Materiales para
 
-y Reparaciones de Inmuebles
+Mantenimiento
 
-011 Repuestos y Accesorios para
+y Reparaciones
 
-Mantenimiento y Reparaciones
+de Inmuebles
+
+011 Repuestos y
+
+Accesorios para
+
+Mantenimiento
+
+y Reparaciones
 
 de Vehículos
 
-012 Otros Materiales, Repuestos
+012 Otros Materiales,
+
+Repuestos
 
 y Utiles Diversos
 
 013 Equipos Menores
 
-014 Productos Elaborados de Cuero,
+014 Productos Elaborados
+
+de Cuero,
 
 Caucho y Plásticos
 
-015 Productos Agropecuarios y
+015 Productos
+
+Agropecuarios y
 
 Forestales
 
-016 Materias Primas y Semielaboradas
+016 Materias Primas y
+
+Semielaboradas
 
 999 Otros
 
@@ -686,37 +1110,61 @@ Subt. Item Asig.
 
 007 Acceso a Internet
 
-008 Enlaces de Telecomunicaciones
+008 Enlaces de
+
+Telecomunicaciones
 
 999 Otros
 
-06 Mantenimiento y Reparaciones
+06 Mantenimiento y
 
-001 Mantenimiento y Reparación
+Reparaciones
+
+001 Mantenimiento y
+
+Reparación
 
 de Edificaciones
 
-002 Mantenimiento y Reparación de
+002 Mantenimiento y
+
+Reparación de
 
 Vehículos
 
-003 Mantenimiento y Reparación
+003 Mantenimiento y
+
+Reparación
 
 Mobiliarios y Otros
 
-004 Mantenimiento y Reparación de
+004 Mantenimiento y
 
-Máquinas y Equipos de Oficina
+Reparación de
 
-005 Mantenimiento y Reparación de
+Máquinas y Equipos
 
-Maquinaria y Equipos de Producción
+de Oficina
 
-006 Mantenimiento y Reparación de
+005 Mantenimiento y
 
-Otras Maquinarias y Equipos
+Reparación de
 
-007 Mantenimiento y Reparación
+Maquinaria y
+
+Equipos de Producción
+
+006 Mantenimiento y
+
+Reparación de
+
+Otras Maquinarias
+
+y Equipos
+
+007 Mantenimiento y
+
+Reparación
 
 de Equipos Informáticos
 
@@ -724,13 +1172,15 @@ de Equipos Informáticos
 
 07 Publicidad y Difusión
 
-001 Servicios de Publicidad
+001 Servicios
+
+de Publicidad
 
 002 Servicios de Impresión
 
-003 Servicios de Encuadernación y
+003 Servicios de Encuadernación
 
-Empaste
+y Empaste
 
 999 Otros
 
@@ -750,27 +1200,39 @@ Alumbrado Público.
 
 005 Servicios de Mantención de Semáforos
 
-006 Servicios de Mantención de
+006 Servicios de Mantención
 
-Señalizaciones de
+de Señalizaciones de
 
 Tránsito.
 
-007 Pasajes, Fletes y Bodegajes
+007 Pasajes, Fletes
 
-008 Salas Cunas y/o Jardines
+y Bodegajes
+
+008 Salas Cunas y/o
+
+Jardines
 
 Infantiles
 
-009 Servicios de Pago y Cobranza
+009 Servicios de
 
-010 Servicios de Suscripción y
+Pago y Cobranza
+
+010 Servicios de
+
+Suscripción y
 
 Similares.
 
-011 Servicios de Producción y
+011 Servicios de
 
-Desarrollo de Eventos.
+Producción y
+
+Desarrollo de
+
+Eventos.
 
 999 Otros
 
@@ -782,39 +1244,67 @@ Desarrollo de Eventos.
 
 003 Arriendo de Vehículos
 
-004 Arriendo de Mobiliario y Otros
+004 Arriendo de
 
-005 Arriendo de Máquinas y Equipos
+Mobiliario y Otros
 
-006 Arriendo de Equipos Informáticos
+005 Arriendo de
+
+Máquinas y Equipos
+
+006 Arriendo de
+
+Equipos Informáticos
 
 999 Otros
 
-10 Servicios Financieros y de Seguros
+10 Servicios
 
-001 Gastos Financieros por Compra y
+Financieros y
 
-Venta de Títulos y Valores
+de Seguros
 
-002 Primas y Gastos de Seguros
+001 Gastos Financieros
 
-003 Servicios de Giros y Remesas
+por Compra y
+
+Venta de Títulos
+
+y Valores
+
+002 Primas y Gastos
+
+de Seguros
+
+003 Servicios de
+
+Giros y Remesas
 
 004 Gastos Bancarios
 
 999 Otros
 
-11 Servicios Técnicos y Profesionales
+11 Servicios
 
-001 Estudios e Investigaciones
+Técnicos y
+
+Profesionales
+
+001 Estudios e
+
+Investigaciones
 
 002 Cursos de Capacitación
 
-003 Servicios Informáticos
+003 Servicios
+
+Informáticos
 
 999 Otros
 
-12 Otros Gastos en Bienes y Servicios
+12 Otros Gastos en
+
+Bienes y Servicios
 
 de Consumo
 
@@ -826,7 +1316,9 @@ de Consumo
 
 Protocolo y Ceremonial
 
-004 Intereses, Multas y Recargos
+004 Intereses, Multas y
+
+Recargos
 
 005 Derechos y Tasas
 
@@ -834,7 +1326,9 @@ Protocolo y Ceremonial
 
 999 Otros
 
-23 PRESTACIONES DE SEGURIDAD SOCIAL
+23 PRESTACIONES DE
+
+SEGURIDAD SOCIAL
 
 01 Prestaciones Previsionales
 
@@ -846,9 +1340,13 @@ Montepíos
 
 003 Bono de Reconocimiento
 
-004 Desahucios e Indemnizaciones
+004 Desahucios e
 
-005 Fondo de Seguro Social de los
+Indemnizaciones
+
+005 Fondo de Seguro
+
+Social de los
 
 Empleados Públicos
 
@@ -856,73 +1354,121 @@ Empleados Públicos
 
 007 Seguro de Vida
 
-008 Devolución de Imposiciones
+008 Devolución de
 
-009 Bonificaciones de Salud
+Imposiciones
 
-010 Subsidios de Reposo Preventivo
+009 Bonificaciones de
 
-011 Subsidio de Enfermedad y Medicina
+Salud
+
+010 Subsidios de Reposo
+
+Preventivo
+
+011 Subsidio de
+
+Enfermedad y Medicina
 
 Curativa
 
-012 Subsidios por Accidentes del
+012 Subsidios por
+
+Accidentes del
 
 Trabajo
 
-013 Subsidios de Reposo Maternal,
+013 Subsidios de Reposo
+
+Maternal,
 
 #### Artículo 196
 
 Código del Trabajo
 
-014 Subsidio Cajas de Compensación
+014 Subsidio Cajas de
+
+Compensación
 
 de Asignación Familiar
 
-015 Aporte Fondo de Cesantía Solidario
+015 Aporte Fondo de
+
+Cesantía Solidario
 
 Ley N° 19.728
 
 Subt. Item Asig.
 
-02 Prestaciones de Asistencia Social
+02 Prestaciones de
+
+Asistencia Social
 
 001 Asignación Familiar
 
 002 Pensiones Asistenciales
 
-003 Garantía Estatal Pensiones Mínimas
+003 Garantía Estatal
 
-004 Ayudas Económicas y Otros Pagos
+Pensiones Mínimas
+
+004 Ayudas Económicas
+
+y Otros Pagos
 
 Preventivos
 
-005 Subsidios de Reposo Maternal y
+005 Subsidios de Reposo
+
+Maternal y
 
 Cuidado del Niño
 
-006 Subsidio de Cesantía
+006 Subsidio
 
-012 Aporte Familiar Permanente de marzo
+de
 
-013 Garantía Estatal Artículo 82 DL Nº 3.500
+Cesantía
 
-03 Prestaciones Sociales del
+012 Aporte Familiar
+
+Permanente
+
+de marzo
+
+013 Garantía Estatal
+
+#### Artículo 82
+
+DL Nº 3.500
+
+03 Prestaciones
+
+Sociales del
 
 Empleador
 
-001 Indemnización de Cargo Fiscal
+001 Indemnización de
+
+Cargo Fiscal
 
 002 Beneficios Médicos
 
-003 Fondo Retiro Funcionarios
+003 Fondo Retiro
 
-Públicos Ley Nº 19.882
+Funcionarios
 
-004 Otras indemnizaciones
+Públicos Ley
 
-012 Aporte Familiar Permanente de marzo
+Nº 19.882
+
+004 Otras
+
+indemnizaciones
+
+012 Aporte Familiar
+
+Permanente de marzo
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -930,85 +1476,137 @@ Públicos Ley Nº 19.882
 
 02 Al Gobierno Central
 
-03 A Otras Entidades Públicas
+03 A Otras Entidades
 
-04 A Empresas Públicas no Financieras
+Públicas
 
-05 A Empresas Públicas Financieras
+04 A Empresas Públicas
 
-06 A Gobiernos Extranjeros
+no Financieras
 
-07 A Organismos Internacionales Podrá
+05 A Empresas Públicas
 
-incluir las gastos que se
+Financieras
 
-efectúen en virtud de convenios
+06 A Gobiernos
 
-o contratos con Organismos
+Extranjeros
 
-Internacionales, con acuerdo
+07 A Organismos
 
-a la normativa vigente.
+Internacionales
+
+Podrá incluir
+
+los gastos que se
+
+efectúen en
+
+virtud de convenios
+
+o contratos con
+
+Organismos
+
+Internacionales,
+
+con acuerdo
+
+a la normativa
+
+vigente.
 
 25 INTEGROS AL FISCO
 
 01 Impuestos
 
-02 Anticipos y/o Utilidades
+02 Anticipos
+
+y/o Utilidades
 
 03 Excedentes de Caja
 
-99 Otros Integros al Fisco
+99 Otros Integros al
+
+Fisco
 
 26 OTROS GASTOS CORRIENTES
 
 01 Devoluciones
 
-02 Compensaciones por Daños a
+02 Compensaciones por
 
-Terceros y/o a la Propiedad
+Daños a
 
-También comprende los gastos
+Terceros y/o a la
 
-por conceptos de indemnizaciones
+Propiedad
 
-y todo tipo de gasto que surja
+También comprende
 
-de reclamaciones administrativas
+los gastos
 
-o judiciales, con motivo de
+por conceptos de
 
-contratos por iniciativas de
+indemnizaciones
 
-inversión cerrados en el Banco
+y todo tipo de gasto
 
-Integrado de Proyectos, que no
+que surja
 
-puedan imputarse en otro ítem
+de reclamaciones
+
+administrativas
+
+o judiciales, con
+
+motivo de contratos
+
+por iniciativas de
+
+inversión cerrados
+
+en el Banco Integrado
+
+de Proyectos, que no
+
+puedan imputarse
+
+en otro ítem
 
 o subtítulo. En el acto
 
-administrativo que dispone el
+administrativo que
 
-pago se deberá asociar la
+dispone el pago se
+
+deberá asociar la
 
 respectiva imputación con
 
-el correspondiente proyecto
+el correspondiente
+
+proyecto
 
 de inversión.
 
 03 2% Constitucional
 
-04 Aplicación Fondos de Terceros
+04 Aplicación Fondos de
+
+Terceros
 
 27 APORTE FISCAL LIBRE
 
-28 APORTE FISCAL PARA SERVICIO DE
+28 APORTE FISCAL PARA
+
+SERVICIO DE
 
 LA DEUDA
 
-29 ADQUISICION DE ACTIVOS NO
+29 ADQUISICION DE
+
+ACTIVOS NO
 
 FINANCIEROS
 
@@ -1022,9 +1620,13 @@ FINANCIEROS
 
 05 Máquinas y Equipos
 
-001 Máquinas y Equipos de Oficina
+001 Máquinas y Equipos
 
-002 Maquinarias y Equipos para la
+de Oficina
+
+002 Maquinarias y Equipos
+
+para la
 
 Producción
 
@@ -1032,25 +1634,43 @@ Producción
 
 06 Equipos Informáticos
 
-001 Equipos Computacionales y
+001 Equipos
+
+Computacionales y
 
 Periféricos
 
-002 Equipos de Comunicaciones
+002 Equipos de
 
-para Redes Informáticas
+Comunicaciones
 
-07 Programas Informáticos
+para Redes
 
-001 Programas Computacionales
+Informáticas
 
-002 Sistemas de Información
+07 Programas
 
-99 Otros Activos no Financieros
+Informáticos
 
-30 ADQUISICION DE ACTIVOS FINANCIEROS
+001 Programas
 
-01 Compra de Títulos y Valores
+Computacionales
+
+002 Sistemas de
+
+Información
+
+99 Otros Activos no
+
+Financieros
+
+30 ADQUISICION DE
+
+ACTIVOS FINANCIEROS
+
+01 Compra de Títulos
+
+y Valores
 
 001 Depósitos a Plazo
 
@@ -1066,17 +1686,25 @@ para Redes Informáticas
 
 02 Compra de Acciones y
 
-Participaciones de Capital
+Participaciones de
+
+Capital
 
 03 Operaciones de Cambio
 
-99 Otros Activos Financieros
+99 Otros Activos
 
-31 INICIATIVAS DE INVERSION
+Financieros
+
+31 INICIATIVAS DE
+
+INVERSION
 
 01 Estudios Básicos
 
-001 Gastos Administrativos
+001 Gastos
+
+Administrativos
 
 002 Consultorías
 
@@ -1120,9 +1748,13 @@ Subt. Item Asig.
 
 05 Médicos
 
-06 Por Anticipos a Contratistas
+06 Por Anticipos a
 
-07 Por Anticipos por Cambio de
+Contratistas
+
+07 Por Anticipos por
+
+Cambio de
 
 Residencia
 
@@ -1136,17 +1768,25 @@ Residencia
 
 03 A Otras Entidades Públicas
 
-04 A Empresas Públicas no Financieras
+04 A Empresas Públicas no
 
-05 A Empresas Públicas Financieras
+Financieras
+
+05 A Empresas Públicas
+
+Financieras
 
 06 A Gobiernos Extranjeros
 
-07 A Organismos Internacionales
+07 A Organismos
+
+Internacionales
 
 34 SERVICIO DE LA DEUDA
 
-01 Amortización Deuda Interna
+01 Amortización Deuda
+
+Interna
 
 001 Rescate de Valores
 
@@ -1154,7 +1794,9 @@ Residencia
 
 003 Créditos de Proveedores
 
-02 Amortización Deuda Externa
+02 Amortización Deuda
+
+Externa
 
 001 Rescate de Valores
 
@@ -1210,147 +1852,217 @@ CLASIFICADOR DE INGRESOS
 
 01 IMPUESTOS
 
-Comprende los ingresos recaudados
+Comprende los ingresos
 
-exclusivamente por el Estado, por vía
+recaudados exclusivamente
 
-tributaria, por concepto de impuestos
+por el Estado, por vía
 
-directos e indirectos provenientes de
+tributaria, por concepto
 
-transferencias obligatorias de agentes
+de impuestos directos e
 
-económicos, exigidas por la autoridad
+indirectos provenientes de
 
-competente, sin ofrecer a cambio una
+transferencias
+
+obligatorias de agentes
+
+económicos, exigidas
+
+por la autoridad
+
+competente, sin ofrecer
+
+a cambio una
 
 contraprestación directa.
 
 01 IMPUESTOS A LA RENTA
 
-Corresponde al gravamen sobre el ingreso,
+Corresponde al gravamen
 
-las utilidades y las ganancias de
+sobre el ingreso,
 
-capital, aplicado a las personas
+las utilidades y las
 
-naturales y jurídicas, de acuerdo a lo
+ganancias de
 
-dispuesto en el artículo 1° del decreto
+capital, aplicado a las
+
+personas naturales y
+
+jurídicas, de acuerdo a lo
+
+dispuesto en el artículo 1°
+
+del decreto
 
 ley N° 824, de 1974.
 
 02 IMPUESTO AL VALOR AGREGADO
 
-Impuesto sobre los bienes y servicios
+Impuesto sobre los bienes y
 
-recaudado en etapas por las empresas,
+servicios recaudado en etapas
 
-pero cobrado en última instancia y en
+por las empresas,
 
-su totalidad a los compradores finales,
+pero cobrado en última
 
-de acuerdo a lo establecido en el decreto
+instancia y en
+
+su totalidad a los
+
+compradores finales,
+
+de acuerdo a lo
+
+establecido en el decreto
 
 ley N° 825, de 1974.
 
 03 IMPUESTOS A PRODUCTOS ESPECIFICOS
 
-Impuestos selectivos que gravan a una
+Impuestos selectivos que
+
+gravan a una
 
 gama limitada de productos.
 
 04 IMPUESTOS A LOS ACTOS JURIDICOS
 
-Comprende los impuestos sobre la emisión,
+Comprende los impuestos
 
-compra y venta de valores, los impuestos
+sobre la emisión,
 
-sobre los cheques y otras formas de pago
+compra y venta de valores,
 
-y los impuestos sobre transacciones
+los impuestos sobre los
 
-legales específicas, como la validación
+cheques y otras formas de pago
+
+y los impuestos sobre
+
+transacciones legales
+
+específicas, como la validación
 
 de contratos.
 
 05 IMPUESTOS AL COMERCIO EXTERIOR
 
-Corresponde a los ingresos provenientes
+Corresponde a los ingresos
 
-de los impuestos que gravan el comercio
+provenientes de los impuestos
+
+que gravan el comercio
 
 exterior.
 
 06 IMPUESTOS VARIOS
 
-Incluye el ingreso procedente de los
+Incluye el ingreso
 
-impuestos aplicados predominantemente
+procedente de los
 
-sobre una base o bases diferentes de
+impuestos aplicados
 
-las descritas en las categorías de
+predominantemente
+
+sobre una base o
+
+bases diferentes de
+
+las descritas en
+
+las categorías de
 
 impuestos anteriores.
 
 07 OTROS INGRESOS TRIBUTARIOS
 
-Incluye los ingresos provenientes de la
+Incluye los ingresos
 
-aplicación de factores de reajuste o
+provenientes de la
 
-actualización sobre los impuestos de
+aplicación de factores
 
-declaración anual, y de la aplicación
+de reajuste o
 
-de intereses y multas sobre los impuestos
+actualización sobre los
 
-no pagados en su oportunidad.
+impuestos de
+
+declaración anual, y
+
+de la aplicación
+
+de intereses y multas
+
+sobre los impuestos
+
+no pagados en su
+
+oportunidad.
 
 09 SISTEMA DE PAGO DE IMPUESTOS
 
 Corresponde a los diferentes
 
-procedimientos contables implementados
+procedimientos contables
 
-para el registro y administración del
+implementados para el registro
+
+y administración del
 
 movimiento tributario del período.
 
-03 TRIBUTOS SOBRE EL USO DE BIENES Y LA
+03 TRIBUTOS SOBRE EL USO DE BIENES
 
-REALIZACION DE ACTIVIDADES
+Y LA REALIZACION DE ACTIVIDADES
 
-Comprende los ingresos de naturaleza
+Comprende los ingresos de
 
-coercitiva, asociados a la propiedad que
+naturaleza coercitiva,
 
-ejerce el Estado sobre determinados
+asociados a la propiedad que
 
-bienes y a las autorizaciones que otorga
+ejerce el Estado sobre
 
-para la realización de ciertas
+determinados bienes y a
 
-actividades, que por su naturaleza
+las autorizaciones que
+
+otorga para la realización
+
+de ciertas actividades,
+
+que por su naturaleza
 
 requieren ser reguladas.
 
 01 PATENTES Y TASAS POR DERECHOS
 
-Son entradas, provenientes de la
+Son entradas, provenientes
 
-propiedad que el Estado ejerce sobre
+de la propiedad que el Estado
 
-determinados bienes, por la autorización
+ejerce sobre determinados bienes,
 
-para el ejercicio de ciertas actividades,
+por la autorización
 
-por la obtención de ciertos servicios
+para el ejercicio de ciertas
+
+actividades, por la obtención
+
+de ciertos servicios
 
 estatales, etc.
 
-Comprende las siguientes asignaciones:
+Comprende las siguientes
+
+asignaciones:
 
 001 Patentes Municipales
 
@@ -1364,19 +2076,29 @@ Comprende las siguientes asignaciones:
 
 02 PERMISOS Y LICENCIAS
 
-Corresponde a los ingresos provenientes
+Corresponde a los ingresos
 
-del cobro por autorizaciones de carácter
+provenientes
 
-obligatorio para realizar ciertas
+del cobro por
+
+autorizaciones de carácter
+
+obligatorio para
+
+realizar ciertas
 
 actividades.
 
-Comprende las siguientes asignaciones:
+Comprende las siguientes
+
+asignaciones:
 
 001 Permisos de Circulación
 
-002 Licencias de Conducir y similares
+002 Licencias de Conducir y
+
+similares
 
 999 Otros
 
@@ -1390,41 +2112,63 @@ N° 3.063, DE 1979
 
 99 OTROS TRIBUTOS
 
-Otros Tributos no especificados en las
+Otros Tributos no
+
+especificados en las
 
 categorías anteriores.
 
 04 IMPOSICIONES PREVISIONALES
 
-Comprende los ingresos que perciben los
+Comprende los ingresos que
 
-organismos públicos y los fondos de
+perciben los organismos
 
-seguridad social, constituidos por los
+públicos y los fondos de
 
-aportes que de acuerdo a la legislación
+seguridad social,
 
-previsional vigente corresponde enterar
+constituidos por los
 
-tanto a los empleadores como a los
+aportes que de acuerdo
 
-trabajadores, según corresponda, ya
+a la legislación
 
-sean del sector público o privado.
+previsional vigente
+
+corresponde enterar
+
+tanto a los empleadores
+
+como a los trabajadores,
+
+según corresponda, ya
+
+sean del sector público
+
+o privado.
 
 01 APORTES DEL EMPLEADOR
 
-Son aquellos, que por ley le corresponde
+Son aquellos, que por ley
 
-pagar directamente a los empleadores en
+le corresponde
+
+pagar directamente a los
+
+empleadores en
 
 nombre de sus empleados.
 
 Sub. Item Asig.
 
-Comprende las siguientes asignaciones:
+Comprende las siguientes
 
-001 Cotizaciones para la Ley de Accidentes
+asignaciones:
+
+001 Cotizaciones para la Ley
+
+de Accidentes
 
 del Trabajo
 
@@ -1432,11 +2176,17 @@ del Trabajo
 
 02 APORTES DEL TRABAJADOR
 
-Son aportes deducidos de los sueldos y
+Son aportes deducidos de
 
-salarios de los empleados y enterados por
+los sueldos y
 
-el empleador en nombre de ellos.
+salarios de los empleados
+
+y enterados por
+
+el empleador en nombre
+
+de ellos.
 
 Comprende las siguientes asignaciones:
 
@@ -5374,81 +6124,149 @@ Item Asig. SubAsig.
 
 001 Sueldos Bases
 
-002 Asignación de Antigüedad
+002 Asignación de
 
-003 Asignación Profesional
+Antigüedad
 
-004 Asignación de Zona
+003 Asignación
 
-005 Asignación de Rancho
+Profesional
 
-006 Asignaciones del DL N º 2.411, de
+004 Asignación de
+
+Zona
+
+005 Asignación de
+
+Rancho
+
+006 Asignaciones del
+
+DL N º 2.411, de
 
 1978
 
-007 Asignaciones del DL N º 3.551, de
+007 Asignaciones del
+
+DL N º 3.551, de
 
 1981
 
-008 Asignación de Nivelación
+008 Asignación de
 
-009 Asignaciones Especiales
+Nivelación
 
-010 Asignación de Pérdida de Caja
+009 Asignaciones
 
-011 Asignación de Movilización
+Especiales
 
-012 Gastos de Representación
+010 Asignación de
 
-013 Asignación de Dirección Superior
+Pérdida de Caja
 
-014 Asignaciones Compensatorias
+011 Asignación de
 
-015 Asignaciones Sustitutivas
+Movilización
 
-016 Asignación de Dedicación Exclusiva
+012 Gastos de
 
-017 Asignación para Operador de
+Representación
+
+013 Asignación de
+
+Dirección Superior
+
+014 Asignaciones
+
+Compensatorias
+
+015 Asignaciones
+
+Sustitutivas
+
+016 Asignación de
+
+Dedicación Exclusiva
+
+017 Asignación
+
+para Operador de
 
 Maquinaria Pesada
 
-018 Asignación de Defensa Judicial
+018 Asignación de
+
+Defensa Judicial
 
 Estatal
 
-019 Asignación de Responsabilidad
+019 Asignación de
+
+Responsabilidad
 
 020 Asignación por Turno
 
-021 Asignación Artículo 1° Ley N° 19.264
+021 Asignación
 
-022 Componente Base Asignación de
+#### Artículo 1°
+
+Ley N° 19.264
+
+022 Componente Base
+
+Asignación de
 
 Desempeño
 
 023 Asignación de Control
 
-024 Asignación de Defensa Penal Pública
+024 Asignación de
 
-025 Asignación Artículo 1° Ley N° 19.112
+Defensa Penal Pública
 
-026 Asignación Artículo 1° Ley N° 19.432
+025 Asignación
 
-027 Asignación de Estímulo Personal
+#### Artículo 1°
+
+Ley N° 19.112
+
+026 Asignación
+
+#### Artículo 1°
+
+Ley N° 19.432
+
+027 Asignación de
+
+Estímulo Personal
 
 Médico Diurno
 
-028 Asignación de Estímulo Personal
+028 Asignación de
+
+Estímulo Personal
 
 Médico y Profesores
 
-029 Aplicación Artículo 7° Ley N° 19.112
+029 Aplicación
 
-030 Asignación de Estímulo Por Falencia
+#### Artículo 7°
 
-031 Asignación de Experiencia Calificada
+Ley N° 19.112
 
-032 Asignación de Reforzamiento
+030 Asignación de
+
+Estímulo Por
+
+Falencia
+
+031 Asignación de
+
+Experiencia Calificada
+
+032 Asignación de
+
+Reforzamiento
 
 Profesional Diurno
 
@@ -5458,45 +6276,77 @@ Profesional Diurno
 
 035 Asignación Legislativa
 
-036 Asignación Artículo 11° Ley N° 19.041
+036 Asignación
+
+#### Artículo 11°
+
+Ley N° 19.041
 
 037 Asignación Única
 
-038 Asignación Zonas Extremas
+038 Asignación Zonas
 
-039 Asignación de Responsabilidad
+Extremas
+
+039 Asignación de
+
+Responsabilidad
 
 Superior
 
 040 Asignación Familiar en el Exterior
 
-041 Asignaciones Exclusivas de las
+041 Asignaciones Exclusivas
 
-Fuerzas Armadas y de Orden
+de las Fuerzas
 
-042 Asignaciones por Desempeño en el
+Armadas y de Orden
+
+042 Asignaciones por
+
+Desempeño en el
 
 Exterior
 
-043 Asignación Inherente al Cargo
+043 Asignación
+
+Inherente al Cargo
 
 Ley N ° 18.695
 
-044 Asignación de Atención Primaria
+044 Asignación de
+
+Atención Primaria
 
 Municipal
 
-055 Bono de Modernización Ley Nº 21.132
+055 Bono de
+
+Modernización
+
+Ley Nº 21.132
+
+998 Aplicación inciso 5to
+
+del artículo 1
+
+de la ley Nº 21.526.
 
 999 Otras Asignaciones
 
 002 Aportes del Empleador
 
-001 A Servicios de Bienestar
+001 A Servicios de
 
-002 Otras Cotizaciones Previsionales
+Bienestar
 
-003 Cotización Adicional, Artículo
+002 Otras Cotizaciones
+
+Previsionales
+
+003 Cotización
+
+Adicional, Artículo
 
 8 ° Ley N º 18.566
 
@@ -5510,25 +6360,45 @@ Municipal
 
 004 Remuneraciones Variables
 
-001 Asignación Artículo 12° Ley
+001 Asignación
+
+#### Artículo 12°
+
+Ley
 
 N º 19.041
 
-002 Asignación de Estímulo Jornadas
+002 Asignación de
+
+Estímulo Jornadas
 
 Prioritarias
 
-003 Asignación Artículo 3° Ley N° 19.264
+003 Asignación
 
-004 Asignación por Desempeño de Funciones
+#### Artículo 3°
+
+Ley N° 19.264
+
+004 Asignación por
+
+Desempeño de
+
+Funciones
 
 Críticas
 
-005 Trabajos Extraordinarios
+005 Trabajos
 
-006 Comisiones de Servicios en el País
+Extraordinarios
 
-007 Comisiones de Servicios en el
+006 Comisiones de
+
+Servicios en el País
+
+007 Comisiones de
+
+Servicios en el
 
 Exterior
 
@@ -5540,7 +6410,9 @@ Exterior
 
 003 Bonos Especiales
 
-004 Bonificación Adicional al Bono
+004 Bonificación Adicional
+
+al Bono
 
 de Escolaridad
 
@@ -5550,113 +6422,231 @@ de Escolaridad
 
 001 Sueldos Bases
 
-002 Asignación de Antigüedad
+002 Asignación de
 
-003 Asignación Profesional
+Antigüedad
 
-004 Asignación de Zona
+003 Asignación
 
-005 Asignación de Rancho
+Profesional
 
-006 Asignaciones del DL N º 2.411,
+004 Asignación de
+
+Zona
+
+005 Asignación de
+
+Rancho
+
+006 Asignaciones del
+
+DL N º 2.411,
 
 de 1978
 
-007 Asignaciones del DL N º 3.551,
+007 Asignaciones del
+
+DL N º 3.551,
 
 de 1981
 
-008 Asignación de Nivelación
+008 Asignación de
 
-009 Asignaciones Especiales
+Nivelación
 
-010 Asignación de Pérdida de Caja
+009 Asignaciones
 
-011 Asignación de Movilización
+Especiales
 
-012 Gastos de Representación
+010 Asignación de
 
-013 Asignaciones Compensatorias
+Pérdida de Caja
 
-014 Asignaciones Sustitutivas
+011 Asignación
 
-015 Asignación de Dedicación Exclusiva
+de Movilización
 
-016 Asignación para Operador de
+012 Gastos de
 
-Maquinaria Pesada
+Representación
 
-017 Asignación de Defensa Judicial
+013 Asignaciones
+
+Compensatorias
+
+014 Asignaciones
+
+Sustitutivas
+
+015 Asignación de
+
+Dedicación
+
+Exclusiva
+
+016 Asignación
+
+para Operador de
+
+Maquinaria
+
+Pesada
+
+017 Asignación de
+
+Defensa Judicial
 
 Estatal
 
-018 Asignación de Responsabilidad
+018 Asignación de
 
-019 Asignación por Turno
+Responsabilidad
 
-020 Asignación Artículo 1° Ley N° 19.264
+019 Asignación por
 
-021 Componente Base Asignación de
+Turno
+
+020 Asignación
+
+#### Artículo 1°
+
+Ley N° 19.264
+
+021 Componente
+
+Base Asignación de
 
 Desempeño
 
 022 Asignación de Control
 
-023 Asignación de Defensa Penal Pública
+023 Asignación de
 
-024 Asignación Artículo 1° Ley N° 19.112
+Defensa Penal Pública
 
-025 Asignación Artículo 1° Ley N° 19.432
+024 Asignación
 
-026 Asignación de Estímulo Personal
+#### Artículo 1°
+
+Ley N° 19.112
+
+025 Asignación
+
+#### Artículo 1°
+
+Ley N° 19.432
+
+026 Asignación
+
+de Estímulo Personal
 
 Médico Diurno
 
-027 Asignación de Estímulo Personal
+027 Asignación de
+
+Estímulo Personal
 
 Médico y Profesores
 
-028 Aplicación Artículo 7° Ley N° 19.112
+028 Aplicación
 
-029 Asignación de Estímulo Por Falencia
+#### Artículo 7°
 
-030 Asignación de Experiencia Calificada
+Ley N° 19.112
 
-031 Asignación de Reforzamiento
+029 Asignación de
+
+Estímulo Por
+
+Falencia
+
+030 Asignación de
+
+Experiencia
+
+Calificada
+
+031 Asignación
+
+de Reforzamiento
 
 Profesional Diurno
 
-032 Asignación Judicial
+032 Asignación
 
-033 Asignación de Casa
+Judicial
 
-034 Asignación Legislativa
+033 Asignación
 
-035 Asignación Artículo 11° Ley N° 19.041
+de Casa
 
-036 Asignación Única
+034 Asignación
 
-037 Asignación Zonas Extremas
+Legislativa
+
+035 Asignación
+
+#### Artículo 11°
+
+Ley N° 19.041
+
+036 Asignación
+
+Única
+
+037 Asignación
+
+Zonas Extremas
 
 038 Asignación de Responsabilidad
 
 Superior
 
-039 Asignación Familiar en el Exterior
+039 Asignación
 
-040 Asignaciones Exclusivas de las
+Familiar en
 
-Fuerzas Armadas y de Orden
+el Exterior
 
-041 Asignaciones por Desempeño en el
+040 Asignaciones
+
+Exclusivas de
+
+las Fuerzas
+
+Armadas y de
+
+Orden
+
+041 Asignaciones
+
+por Desempeño
+
+en el
 
 Exterior
 
-042 Asignación de Atención Primaria
+042 Asignación de
+
+Atención Primaria
 
 Municipal
 
-055 Bono de Modernización Ley Nº 21.132
+055 Bono de
+
+Modernización
+
+Ley Nº 21.132
+
+998 Aplicación
+
+inciso 5to del
+
+#### Artículo 1
+
+de
+
+la ley Nº 21.526.
 
 999 Otras Asignaciones
 
@@ -5766,7 +6756,7 @@ Para realizar la referida desagregación, se considerarán las siguientes distin
 
 > **Nota.** El Decreto 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
 
-> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publicada en el Diario Oficial.
+> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publicada en el
 
 Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
