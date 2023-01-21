@@ -2,9 +2,9 @@ AUTO ACORDADO DEL TRIBUNAL DE CUENTAS DE SEGUNDA INSTANCIA, PREVISTO EN EL ARTIC
 
 En Santiago de Chile, a seis de abril de dos mil cuatro, bajo la presidencia del señor Contralor General de la República, don Gustavo Sciolla Avendaño, se reunió el Tribunal de Cuentas de Segunda Instancia, en sesión especialmente convocada al efecto, con la asistencia de los abogados integrantes don Hugo Pereira Anabalón y don Mario Verdugo Marinkovic, en calidad de miembros titulares. Asistió además don Francisco Tortorolo Pastorelli, en su calidad de miembro reemplazante. De conformidad con lo establecido en el artículo 118 de la ley Nº 10.336 y en los artículos 3º y 5º, inciso cuarto, del Código Orgánico de Tribunales, se aprobó el siguiente auto acordado:
 
-1º.- El Tribunal de Cuentas de Segunda Instancia tendrá su asiento en la ciudad de Santiago de Chile, calle Teatinos Nº 56, piso 7º. Sesionará los días viernes de 9:00 a 11:00 horas, sin perjuicio que por
+1º.- El Tribunal de Cuentas de Segunda Instancia tendrá su asiento en la ciudad de Santiago de Chile, calle Teatinos N° 56, entrepiso. Sesionará los días viernes de 9:30 horas a 11:30 horas, sin perjuicio que, por razones de conveniencia se determinen otros días y horas.
 
-razones de buen funcionamiento se determinen otros días y horas.
+Las sesiones que realice el Tribunal de Cuentas de Segunda Instancia se llevarán a cabo, preferentemente, vía el sistema telemático que para tal efecto determine el Tribunal.
 
 2º.- El Tribunal conocerá de los recursos de apelación y especial de revisión en su caso, que se interpongan en el procedimiento del Juicio de Cuentas.
 
