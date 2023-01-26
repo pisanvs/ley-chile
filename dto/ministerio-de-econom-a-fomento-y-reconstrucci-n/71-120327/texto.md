@@ -8,6 +8,8 @@ D e c r e t o:
 
 Otórgase a EcoGas S.A., RUT: 96.784.270-2, concesión definitiva para establecer, operar y explotar el servicio público de distribución de gas de red para gas natural y/o propano diluido, en las comunas de Temuco y Padre Las Casas, en las zonas definidas más adelante, en la Novena Región.
 
+> **Nota.** Los numerales 1° y 2° del Decreto 264 Exento, Energía, publicado el 26.01.2023, modifican la presente norma en el sentido de ampliar la zona de concesión, dentro de las comunas de Temuco y Padre Las Casas, al área comprendida dentro del polígono formado por las líneas imaginarias que unen los vértices identificados mediante letras y sus coordenadas UTM, según Datum WGS84, de acuerdo a las Tablas 1, 2 y 3 que la citada norma indica.
+
 #### Artículo segundo
 
 Los límites de la zona de concesión solicitada en las comunas de Temuco y Padre Las Casas, corresponden al polígono definido por los puntos en coordenadas geográficas, en grados sexagesimales, señalados en el siguiente listado, de acuerdo a los planos generales mostrados en el artículo cuarto:
