@@ -23,3 +23,5 @@ El total de aportes para gastos de administración corresponde al 0,15% de los b
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Patricio Melero Abaroa, Ministro del Trabajo y Previsión Social.- Rodrigo Cerda Norambuena, Ministro de Hacienda.
 
 Lo que transcribo a usted para su conocimiento.- Christian Larraín Pizarro, Subsecretario de Previsión Social (S).
+
+.
