@@ -190,6 +190,8 @@ Del Financiamiento
 
 24. Los recursos involucrados para la selección de postulantes, por región, son los siguientes:
 
+.
+
 Para los efectos de imputar los recursos de este llamado, se considerará un monto promedio de subsidio por vivienda de 1.280 Unidades de Fomento, el que incluirá los subsidios y los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras. Mediante resolución del Director del Serviu se determinarán los montos de subsidio efectivos a aplicar.
 
 25. Establécese que los montos de subsidio para el financiamiento de los proyectos que participen del presente llamado serán los que se señalan a continuación, en las condiciones que se indican:
