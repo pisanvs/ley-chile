@@ -34,7 +34,7 @@ El Consejo de Evaluación del Sistema de Educación Pública, en adelante "el Co
 
 En el cumplimiento de su objeto, el Consejo deberá:
 
-a) Evacuar, en el mes de enero de cada año, un informe de seguimiento de la puesta en marcha del Sistema de Educación Pública.
+a) Evacuar, en el mes de abril de cada año, un informe de seguimiento de la puesta en marcha del Sistema de Educación Pública.
 
 b) Emitir un informe de evaluación intermedia del proceso de instalación de los Servicios Locales en el mes de marzo del año 2021.
 
