@@ -2114,6 +2114,10 @@ Asimismo el titular de una concesión o autorización de acuicultura podrá para
 
 INCISO FINAL ELIMINADO.
 
+#### Artículo 69 ter
+
+Los módulos de cultivo y fondeo deberán presentar condiciones de seguridad apropiadas a las características geográficas y oceanográficas del sitio concesionado, para evitar el escape de ejemplares de salmónidos, conforme lo exige el reglamento.
+
 #### Artículo 70
 
 Prohíbese la captura de especies anádromas y catádromas, provenientes de cultivos abiertos, en las aguas terrestres, aguas interiores y mar territorial, en aquellas áreas en que dichas especies inician o culminan su ciclo migratorio, ya sea como alevín o juvenil, o en su etapa de madurez apropiada para su explotación comercial.
@@ -2129,6 +2133,14 @@ a) Sistemas, artes y aparejos de pesca.
 b) Areas, temporadas de captura y cuotas de captura.
 
 c) Participación de los cultivadores, de los pescadores artesanales y pescadores deportivos en la pesquería.
+
+#### Artículo 70 bis
+
+Los titulares de centros de cultivo en los que se haya verificado un escape de ejemplares de las especies indicadas deberán recapturarlos, en el plazo de treinta días corridos, prorrogable por otros treinta días. Para estos efectos, el titular del centro de cultivo podrá recabar la prestación de los servicios de armadores artesanales debidamente inscritos en el Registro Pesquero Artesanal o de organizaciones de pescadores artesanales legalmente constituidas, y deberán comunicar al Servicio la nómina de tales armadores o de los integrantes de la organización, en su caso, al inicio de las acciones de recaptura. Dichos ejemplares serán contabilizados, para efectos de determinar el cumplimiento de la obligación de recaptura, sólo en la medida en que conste a los órganos fiscalizadores su entrega material.
+
+#### Artículo 70 ter
+
+Los armadores artesanales que en sus faenas de pesca capturen accidentalmente especies salmonídeas que sean objeto de cultivo en la región de su inscripción en el registro pesquero artesanal, deberán informarlo en sus declaraciones de desembarque conforme al artículo 63 y cumplir los demás requisitos que señale el reglamento.
 
 #### Artículo 71
 
@@ -2543,6 +2555,10 @@ Sin perjuicio de las normas sobre acceso a la información pública, el Servicio
 a) Solicitudes de concesión de acuicultura ingresadas a trámite, señalando su número de ingreso, ubicación, superficie y grupo de especies hidrobiológicas incorporadas en el proyecto técnico.
 
 b) Informes sobre situación sanitaria y uso de antimicrobianos por cantidad y tipo de las agrupaciones de concesiones e informes sobre el programa nacional de vigilancia de enfermedades de alto riesgo, de conformidad con el reglamento a que se refiere el artículo 86.
+
+A su vez, una vez terminado cada ciclo productivo, el Servicio deberá publicar información sobre la cantidad y clase de antibióticos y antiparasitarios utilizados y la respectiva biomasa, mortalidad y cosecha. Esta información deberá desagregarse por empresa y centro de cultivo.
+
+En el evento de un escape, el Servicio deberá publicar la cantidad de ejemplares escapados, tan pronto le sea informado por el titular del centro.
 
 La información será actualizada semestralmente.
 
@@ -3204,7 +3220,7 @@ El plazo de suspensión de operaciones dispuesto en virtud de este artículo no 
 
 Se declarará la caducidad de la concesión de acuicultura, si se configura una tercera infracción de las señaladas precedentemente, en el plazo de tres años contado desde el cumplimiento de la segunda suspensión respecto de este centro de cultivo.
 
-En el evento de escape, desprendimiento o pérdida de recursos exóticos, cualquiera sea su magnitud y la pérdida, desprendimiento o escape de recursos nativos, que revistan el carácter de masivos, y siempre que se hubiere constatado el incumplimiento de la adopción de medidas de seguridad de los módulos de cultivo y fondeo o de la mantención de las mismas en los casos que corresponda, conforme al reglamento, el titular del centro de cultivo será sancionado con multa de 500 a 3.000 unidades tributarias mensuales.
+En el evento de escape, desprendimiento o pérdida de recursos exóticos, cualquiera sea su magnitud y la pérdida, desprendimiento o escape de recursos nativos, que revistan el carácter de masivos, y siempre que se hubiere constatado el incumplimiento de la adopción de medidas de seguridad de los módulos de cultivo y fondeo o de la mantención de las mismas en los casos que corresponda, conforme al reglamento, el titular del centro de cultivo será sancionado con multa de 500 a 3.000 unidades tributarias mensuales. Esta disposición no será aplicable a los centros de cultivo de salmónidos, los que estarán sometidos a los artículos 118 sexies y 118 septies.
 
 El titular del centro de cultivo en que se constate el uso de fármacos o de sustancias químicas prohibidas para la acuicultura, será sancionado con multa de 500 a 3.000 unidades tributarias mensuales. En caso de reiterarse la infracción dentro del plazo de dos años, la multa se duplicará.
 
@@ -3212,13 +3228,39 @@ Las infracciones de este artículo no se someterán al procedimiento establecido
 
 #### Artículo 118 quáter
 
-Sin perjuicio de lo señalado en el inciso séptimo del artículo anterior, en caso de escape o pérdida masiva de recursos en sistemas de cultivo intensivo o el desprendimiento o pérdida de recursos hidrobiológicos exóticos en sistemas extensivos, se presumirá que existe daño ambiental de conformidad con la ley Nº 19.300 si el titular del centro no recaptura como mínimo el 10% de los ejemplares en el plazo de 30 días contado desde el evento, prorrogables por una vez en los mismos términos.
+Derogado.
 
 #### Artículo 118
 
 quinquies.- Se aplicará la suspensión de operaciones por el plazo de dos años, a un centro de cultivo por haber sido clasificado en bioseguridad baja por dos veces consecutivas, al término de los descansos sanitarios respectivos, de conformidad con la metodología establecida en el reglamento a que se refiere el artículo 86.
 
 La suspensión de operaciones se aplicará de conformidad al procedimiento previsto en el artículo 118 ter.
+
+#### Artículo 118
+
+sexies.- En el evento de que se constate que en un centro de cultivo de salmónidos no se da cumplimiento a las condiciones de seguridad de las estructuras de cultivo y fondeo indicadas en la memoria de cálculo elaborada de acuerdo a las características del sector, conforme a lo exigido por el reglamento, no se podrá sembrar ejemplares hasta que se compruebe que se da cumplimiento a dichas condiciones, lo que debe ser acreditado por un certificador de estructuras, a costo del titular.
+
+En el evento de que se constate que en un centro de cultivo de salmónidos que se encuentra con ejemplares, no se da cumplimiento a las condiciones de seguridad de las estructuras de cultivo y fondeo indicadas en la memoria de cálculo elaborada de acuerdo a las características del sector o no se da cumplimiento a las mantenciones de tales estructuras, conforme a lo exigido por el reglamento, se deberá retirar, en el plazo máximo de dos meses contado desde que se constate el incumplimiento, todos los ejemplares que se encuentren en el centro, a menos que se acredite el cumplimiento de las condiciones antes señaladas por un certificador de estructuras, a costo del titular.
+
+En caso de haber procedido la suspensión, la operación solo se reiniciará cuando se acredite que las estructuras de cultivo y fondeo han sido instaladas y se encuentran operativas, de acuerdo con la memoria de cálculo elaborada conforme a lo indicado en el inciso anterior, lo que debe ser acreditado por un certificador de estructuras, a costo del titular.
+
+Las medidas de suspensión de siembra y de operaciones de que tratan los incisos anteriores serán aplicadas por resolución del Servicio.
+
+Se sancionará al titular, al arrendatario o a quien estuviere ejerciendo la actividad en el centro en que se hubiere constatado el no cumplimiento de las condiciones de seguridad, habiendo ejemplares sembrados en él, con el equivalente a la mitad del valor de cosecha de los ejemplares que se hubieren encontrado en la o las jaulas defectuosas o en el centro, en caso de que el incumplimiento comprometiera la totalidad de las instalaciones.
+
+Se determinará al responsable de las obligaciones y sanciones conforme a lo indicado en el inciso final del artículo 81.
+
+#### Artículo 118
+
+septies.- Prohíbese la liberación de ejemplares de salmónidos desde centros de cultivo.
+
+El evento de escape de salmónidos será sancionado con una multa equivalente al valor de cosecha de los ejemplares escapados que no sean recapturados de conformidad con lo indicado en el artículo 70 bis y con la suspensión de operaciones en el centro por un plazo de entre uno y cuatro años, determinable de acuerdo con el número de salmones escapados, número de salmones recapturados, eventos de escapes anteriores que hubieran afectado al centro, y todo otro criterio que, a juicio fundado de la autoridad competente, sea relevante para la determinación de la suspensión. Ésta se mantendrá mientras no se acredite al Servicio que las condiciones de seguridad se encuentran operativas, mediante un certificador al que se refiere el artículo 122 letra k).
+
+El responsable del escape deberá financiar, a todo evento, un monitoreo de ejemplares de la o las especies escapadas, en un área geográfica a ser determinada por resolución de la Subsecretaría, por el plazo de dos años, a fin de determinar los efectos derivados del evento.
+
+Se determinará al responsable de las obligaciones y sanciones conforme a lo indicado en el inciso final del artículo 81. Sin perjuicio de lo anterior, éste no será responsable en caso de fuerza mayor o caso fortuito.
+
+En el caso de que el centro de cultivo no cuente con una resolución de calificación ambiental, la denuncia por esta infracción y la indicada en el artículo 118 sexies se tramitarán de conformidad con el Título IX de esta ley.
 
 #### Artículo 119
 
@@ -3647,6 +3689,10 @@ Las especies y la carnada, ilegalmente internadas caerán siempre en comiso.
 #### Artículo 137 bis
 
 El que liberare especies hidrobiológicas exóticas desde centros de cultivo al ambiente sin obtener la autorización previa a que se refiere el reglamento del artículo 87, será sancionado con multa de 100 a 3.000 unidades tributarias mensuales y con la pena de presidio menor en su grado mínimo a medio.
+
+La sustracción de especies desde un centro de cultivo será sancionada con las penas establecidas en el artículo 440 del Código Penal. Con la misma pena se sancionará la ruptura maliciosa de redes y toda acción que provoque o pueda provocar el escape de ejemplares desde centros de cultivo.
+
+El que conociendo su origen o no pudiendo menos que conocerlo tenga en su poder, a cualquier título, especies salmonídeas obtenidas en vulneración a la normativa vigente, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, será sancionado de conformidad con lo dispuesto en el artículo 456 bis A del Código Penal.
 
 #### Artículo 138
 
