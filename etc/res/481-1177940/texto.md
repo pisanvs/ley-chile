@@ -150,8 +150,6 @@ Para los demás proyectos se regirán únicamente por el anexo titulado estánda
 
 ### 25. La distribución de recursos para efectuar la selección de proyectos es:
 
-.
-
 26. Los subsidios que se otorguen conforme al presente llamado, se imputarán a los recursos dispuestos en el año 2022, según Circ. N° 2 para la Región de la Araucanía, en el Programa de Mejoramiento de Viviendas y Barrios, para su capítulo III, regulado por el DS N° 27 (V. y U.), de 2016.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Ximena Sepúlveda Varas, Secretaria Regional Ministerial de Vivienda y Urbanismo Región de la Araucanía.
