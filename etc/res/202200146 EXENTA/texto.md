@@ -22,7 +22,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Desígnase en calidad de representante del Ministerio de Economía, Fomento y Turismo ante la Comisión Técnica contemplada en el artículo 4° de la ley N° 18.634, a don Jorge Soto Solar, RUT N° 8.777.190-3, funcionario de la División Política Comercial e Industrial, de la Subsecretaría de Economía y Empresas de Menor Tamaño, correo electrónico: jsoto@economia.cl.
+Desígnase en calidad de representante del Ministerio de Economía, Fomento y Turismo ante la Comisión Técnica contemplada en el artículo 4° de la ley N° 18.634, a don Jorge Soto Solar, RUT N° 8.777.190-3, funcionario de la División Política Comercial e Industrial, de la Subsecretaría de Economía y Empresas de Menor Tamaño, correo electrónico: jsoto@economia.cl, y en caso de ausencia o impedimento del titular, desígnase en calidad de representante suplente a don Nicolás Lillo Bustos, Jefe de la División de Política Comercial e Industrial de la Subsecretaría de Economía y Empresas de Menor Tamaño, correo electrónico nlillob@economia.cl.
 
 #### Artículo segundo
 
