@@ -40,6 +40,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por agrupación de provincias, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región, provincia o comuna alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución. Tratándose de proyectos que postulen con familias que fueron beneficiadas anteriormente con un subsidio, y que no recibieron recursos para las labores de Fiscalización Técnica de Obras, y/o cuando se consideren viviendas en nómina de oferta, se asignarán al proyecto los recursos totales que correspondan para todas las viviendas del proyecto, de manera de permitir la fiscalización técnica de las obras del proyecto en su totalidad, a objeto de factibilizar su ejecución.
 
 ### 4. Postulación:
