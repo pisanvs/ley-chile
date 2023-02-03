@@ -126,7 +126,11 @@ l) Formar y publicar, anualmente, la estadística de todas las operaciones sobre
 
 m) Establecer, mediante normas de carácter general, las exigencias técnicas y patrimoniales que deberán cumplir tanto los intermediarios de seguros y reaseguros como los liquidadores de siniestros para desempeñarse como tales, pudiendo dictar, asimismo, las normas por las cuales deben regirse la intermediación y la contratación de seguros y la liquidación de siniestros;
 
-n) ELIMINADA.
+n) Establecer, mediante norma de carácter general, las condiciones mínimas que deberán cumplir las compañías de seguros e intermediarios de seguros en materia de atención al público, tanto en sus oficinas y sucursales, si las tuvieren, como en otros canales que habiliten al efecto. Deberán cumplir con las exigencias que para su funcionamiento establezca la Comisión, considerando elementos tales como los estándares de seguridad de las operaciones que se efectúen por dichos canales y la disponibilidad mínima de ellos, y otras reglas que instruya la Comisión, con el fin de establecer estándares de calidad y servicios mínimos acorde a los productos y servicios que ofrezcan.
+
+La Comisión, mediante normativa, en atención a la naturaleza del servicio prestado o condiciones del mercado, podrá establecer la obligación de contar con determinados canales de atención, determinar la distribución del horario, condiciones y requerimientos de funcionamiento, disponibilidad y cualquier otra disposición que determine.
+
+Asimismo, la Comisión podrá determinar la obligación de las entidades fiscalizadas conforme a esta ley de implementar un canal idóneo de atención de reclamos de clientes en consideración al número de clientes y tipo de servicio prestado, el cual deberá ajustarse a las características y condiciones que ella defina por norma de carácter general, en proporción al número de clientes y tipo de servicio prestado por la entidad.
 
 ñ) Las que otras leyes o normas expresamente le confieran.
 
@@ -230,15 +234,25 @@ Los riesgos de crédito deberán ser asegurados sólo por compañías del primer
 
 Se entenderá por seguro de crédito aquel que cubre los riesgos de pérdidas o deterioro en el patrimonio del asegurado, producto del no pago de una obligación en dinero o de crédito de dinero.
 
+Los seguros podrán convenirse como paramétricos, esto es, que, frente a la ocurrencia del riesgo o evento dañoso, contemplado en el contrato, la indemnización sea pagada sin que el asegurado deba justificar la existencia o monto de los daños, y aun en caso de que éstos no se produzcan. El asegurado deberá estar realmente expuesto a sufrir un daño ante la ocurrencia del siniestro, aunque dicho daño finalmente no se materialice. Para esta modalidad, las variables y riesgos deberán ser demostrables y claramente medibles a través de procedimientos objetivos y el riesgo deberá ser asegurable conforme a las reglas generales.
+
+La Comisión establecerá para los seguros paramétricos, mediante norma de carácter general, los criterios a los cuales se sujetarán, entre otros, las variables que se podrán tomar como índices, los riesgos que serán asegurables bajo esta modalidad y las características de las pólizas que se depositen. No se podrán contratar bajo esta modalidad los seguros previsionales, aquellos que sean obligatorios y los que se exijan como requisito para el desarrollo de una determinada actividad.
+
+La Comisión determinará, mediante norma de carácter general, las normas aplicables a las compañías de seguros y auxiliares del comercio de seguros respecto de la comercialización, distribución, liquidación expedita de siniestros y gestión de reclamos relativos a seguros inclusivos, microseguros y seguros masivos, entendidos como aquellos destinados a sectores excluidos o sub atendidos del mercado independientemente de su nivel de ingresos económicos, aquellos destinados a sectores de la población de bajos ingresos, o aquellos susceptibles de ser distribuidos por medios de comercialización masivos, respectivamente.
+
+La Comisión podrá establecer normas diferenciadas para este tipo de seguros en cuanto a coberturas y exclusiones, emisión de pólizas simplificadas o comprobantes de contratación y medios tecnológicos a través de los cuales se podrá cumplir la obligación de entrega de información a los asegurados y beneficiarios conforme a las normas del Código de Comercio, obligaciones de asesoría, recepción de denuncios y liquidación de siniestros, en atención a la naturaleza de los riesgos o perfil de clientes a los cuales estén dirigidos.
+
 #### Artículo 12
 
-La Superintendencia, sujetándose a la ley N° 19.628, al reglamento y a la demás normativa aplicable, entregará la información sobre los seguros a quienes acrediten tener la calidad de asegurados. En caso de incapacidad judicialmente declarada o muerte de un asegurado, se entregará dicha información a quienes acrediten tener la calidad de cónyuge, hijos, padres, beneficiarios u otros legítimos interesados.
+Créase un sistema de consulta de seguros, digital, interconectado en tiempo real y automático, de acceso remoto y gratuito, que será administrado por la Comisión para el Mercado Financiero y que se regirá por las disposiciones de esta ley y la normativa que se dicte para su implementación. Dicho sistema entregará información sobre los contratos de seguros a quienes tengan la calidad de contratante o asegurado en ellos y, en caso de fallecimiento o incapacidad judicialmente declarada, a quien demuestre un interés legítimo en acceder a dicha información. En este último caso, se entenderá que tienen interés legítimo quienes acrediten tener la calidad de cónyuge, hijos, padres o la calidad de herederos de dicho contratante o asegurado. La Comisión para el Mercado Financiero establecerá mediante norma de carácter general, los mecanismos de autenticación necesarios para asegurar la identidad de quienes accedan a la información.
 
-En caso de consulta debidamente notificada por la Superintendencia a las aseguradoras, éstas tendrán la obligación de proporcionar a la Superintendencia la información que se indica en el inciso siguiente.
+Las compañías de seguros deberán mantener bases de datos actualizadas con información de las pólizas respecto de las cuales mantengan obligaciones vigentes, y deberán proporcionar a la Comisión para el Mercado Financiero la información necesaria para la operación del mencionado sistema de consulta.
 
-El contenido específico de la información que deben proporcionar las aseguradoras será determinado por el reglamento. Las características asociadas a esa información, tales como el formato, medios de envío, plazos y otros, serán determinadas por las instrucciones o normas de carácter general que imparta la Superintendencia. La información señalada contendrá al menos la indicación de las compañías aseguradoras contratantes, la vigencia y el tipo de seguro, de acuerdo al código en el Depósito de Pólizas respectivo, estando prohibido, en su caso, informar antecedentes relacionados con la identidad del beneficiario o las condiciones establecidas para ello en el seguro. Dicha información deberá proporcionarse mientras las obligaciones de la compañía estén vigentes.
+El contenido específico de la información señalada en el inciso anterior, su formato de envío, periodicidad, interconexión o medios de envío y otros aspectos necesarios para el funcionamiento del sistema de consulta de seguros serán determinados por una norma de carácter general que dicte la Comisión para el Mercado Financiero. La información señalada contendrá al menos la indicación de las compañías aseguradoras contratantes; del intermediario, en caso que corresponda; del contratante o asegurado, la indicación de la vigencia y el tipo de seguro de que se trata, de acuerdo al código en el Depósito de Pólizas respectivo, estando prohibido, en su caso, informar antecedentes relacionados con la identidad del beneficiario o las condiciones establecidas para ello en el seguro. Dicha información deberá proporcionarse mientras las obligaciones de la compañía estén vigentes.
 
-La Superintendencia deberá resguardar el carácter privado de la información suministrada y deberá eliminar de sus bases de datos antes de transcurridos 60 días desde su recepción la información recibida por parte de las aseguradoras en virtud de lo establecido en este artículo.
+El sistema de consulta de seguros deberá permitir que, con el objeto de obtener nuevas ofertas de seguros, los contratantes o asegurados puedan otorgar su consentimiento para que la información relativa a sus contratos de seguros sea intercambiada entre las compañías de seguros. Para tales efectos, las compañías de seguros estarán obligadas a cumplir la solicitud del cliente, debiendo siempre respetar las disposiciones de la ley Nº 19.628, sobre Protección de la Vida Privada. La Comisión establecerá los requisitos y condiciones con los cuales deberán cumplir las compañías de seguro con el objeto de facilitar dicho intercambio. Asimismo, una norma de carácter general determinará la forma en la que se entregará el consentimiento expreso de los asegurados para todos los efectos legales.
+
+Las compañías de seguros serán responsables por la veracidad e integridad de la información que proporcionen, y de su entrega oportuna. En caso de infracción, podrán ser sancionadas por la Comisión para el Mercado Financiero de conformidad a lo dispuesto en el decreto ley Nº 3.538, de 1980, sin perjuicio de lo dispuesto en el artículo 49 de esta ley.
 
 #### Artículo 13
 
@@ -482,7 +496,7 @@ La inversión en los distintos tipos de instrumentos o activos representativos d
 
 a) Entre un 5% y un 10% del total para los bonos sin plazo fijo de vencimiento contemplados en la letra b) del artículo 21;
 
-b) 5% del total, para la suma de la inversión en los instrumentos de la letra c) del Nº 1, que no se encuentren inscritos en el Registro de Valores de la Comisión para el Mercado Financiero, o que, estando inscritos, no cuenten con clasificación de riesgo conforme a la ley Nº 18.045, o que esta clasificación de riesgo sea inferior a la que defina la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general. Se exceptuarán de este límite, aquellos instrumentos emitidos por empresas nacionales, fuera del país, que cuenten con clasificación de riesgo internacional igual o superior a BBB. No obstante lo anterior, la Comisión para el Mercado Financiero podrá excluir de este límite a ciertos instrumentos que no se encuentren inscritos en el mencionado Registro, siempre que éstos cumplan con las condiciones que para este propósito aquélla establezca por una norma de carácter general;
+b) 5% del total, para la suma de la inversión en los instrumentos de la letra c) del Nº 1, que no se encuentren inscritos en el Registro de Valores de la Superintendencia, o que estando inscritos, no cuenten con clasificación de riesgo conforme a la ley Nº 18.045, o ésta sea inferior a BBB o N-3, según corresponda. Se exceptuarán de este límite, aquellos instrumentos emitidos por empresas nacionales, fuera del país, que cuenten con clasificación de riesgo internacional igual o superior a BBB;
 
 c) entre un 3% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en los instrumentos de la letra d) del Nº 1;
 
@@ -498,7 +512,7 @@ h) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
 
 i) Derogado.
 
-j) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº 3, que presenten una clasificación de riesgo internacional que sea inferior a la que defina la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general;
+j) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
 
 k) Para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº 3, la Superintendencia, mediante norma de carácter general, establecerá los porcentajes máximos posibles de invertir. No obstante, el porcentaje máximo de inversión para los instrumentos antes mencionados no podrá ser inferior al diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías;
 
@@ -514,7 +528,7 @@ a) 25% del total, para la suma de la inversión en aquellos instrumentos compren
 
 - **b)** y
 
-- **c)** del Nº 1, que presenten una clasificación de riesgo que sea inferior a la que defina la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general, o que, en el caso de instrumentos de la letra
+- **c)** del Nº1, que presenten clasificación de riesgo igual o inferior a BBB o N-3, según corresponda a instrumentos de largo y corto plazo, o que, en el caso de instrumentos de la letra
 
 - **c)** del Nº 1, no presenten clasificación de riesgo;
 
@@ -562,7 +576,7 @@ g) 1% del total, para la suma de la inversión en instrumentos de las letras
 
 - **b)** e
 
-- **i)** del N° 1 de este artículo, según corresponda, emitidos por una misma entidad o sus respectivas filiales;
+- **j)** del N° 1 de este artículo, según corresponda, emitidos por una misma entidad o sus respectivas filiales;
 
 h) 10% del total, para la suma de la inversión en los siguientes instrumentos:
 
@@ -582,7 +596,7 @@ iv) Instrumentos de la letra
 
 - **b)** e
 
-- **i)** del N° 1 de este artículo, y
+- **j)** del N° 1 de este artículo, y
 
 i) 2% del total, para la suma de la inversión en acciones de empresas concesionarias de obras de infraestructura de uso público, emitidas por una misma entidad o sus respectivas filiales.
 
@@ -778,19 +792,21 @@ Los bancos, cooperativas, agentes administradores de mutuos hipotecarios endosab
 
 1. Los seguros deberán ser contratados en forma colectiva por la entidad crediticia, para sus deudores, por medio de licitación pública con bases preestablecidas. En dicha licitación se recibirán y darán a conocer las ofertas públicamente en un solo acto.
 
-2. Las compañías cuya menor clasificación de riesgo sea igual o inferior a BBB, no podrán participar en la licitación.
+2. Las referidas bases de licitación no podrán exigir que las ofertas de aseguradoras incluyan obligatoriamente los servicios de un corredor de seguros.
 
-3. Los seguros serán asignados por la entidad crediticia al oferente que presente el menor precio, incluyendo la comisión del corredor de seguros, si correspondiere, salvo que, después de iniciado el proceso de licitación y antes de su adjudicación, se hubiese deteriorado notoriamente la solvencia de ese oferente por un hecho sobreviniente. En tal caso, el directorio o máximo órgano directivo de la entidad crediticia, pública y fundadamente, previa calificación de ese hecho por una clasificadora de riesgo señalada previamente en las bases, podrá adjudicar la licitación al segundo menor precio.
+3. No podrán participar en la licitación, directa o indirectamente, los corredores de seguros que hayan asesorado a la entidad crediticia licitante en dicha licitación y las compañías cuya menor clasificación de riesgo sea igual o inferior a BBB.
 
-La entidad crediticia podrá sustituir al corredor incluido en la oferta adjudicada, manteniendo la misma comisión de intermediación considerada en dicha oferta, siempre y cuando ello esté previsto en las bases.
+4. Los seguros serán asignados por la entidad crediticia al oferente que presente el menor precio, incluyendo la comisión del corredor de seguros, si correspondiere, salvo que, después de iniciado el proceso de licitación y antes de su adjudicación, se hubiese deteriorado notoriamente la solvencia de ese oferente por un hecho sobreviniente. En tal caso, el directorio o máximo órgano directivo de la entidad crediticia, pública y fundadamente, previa calificación de ese hecho por una clasificadora de riesgo señalada previamente en las bases, podrá adjudicar la licitación al segundo menor precio.
 
-4. Los seguros deberán convenirse exclusivamente sobre la base de una prima expresada como un porcentaje del monto asegurado de cada riesgo. La prima incluirá la comisión del corredor de seguros, si lo hubiere, la que se expresará sólo como un porcentaje de la prima.
+La entidad crediticia no podrá sustituir al corredor incluido en la oferta adjudicada.
 
-5. No podrán estipularse comisiones o pagos a favor de la entidad crediticia asociados a la contratación o gestión de estos seguros, a la cobranza de las primas, o por cualquier otro concepto, salvo el derecho del acreedor a pagarse de su crédito con la indemnización en caso de siniestro.
+5. Los seguros deberán convenirse exclusivamente sobre la base de una prima expresada como un porcentaje del monto asegurado de cada riesgo. La prima incluirá la comisión del corredor de seguros, si lo hubiere.
 
-6. Corresponderá al deudor asegurado cualquier suma que devuelva o reembolse el asegurador por mejor siniestralidad, volumen de primas, número de asegurados u otros conceptos análogos.
+6. No podrán estipularse comisiones o pagos a favor de la entidad crediticia asociados a la contratación o gestión de estos seguros, a la cobranza de las primas, o por cualquier otro concepto, salvo el derecho del acreedor a pagarse de su crédito con la indemnización en caso de siniestro. Esta prohibición será aplicable durante la vigencia de los seguros adjudicados, de manera que en ningún caso se podrán considerar, directa o indirectamente, pagos a la entidad crediticia distintos del derecho a pagarse de su crédito con la indemnización en caso de siniestro.
 
-7. Una norma conjunta, que dictarán las Superintendencias de Valores y Seguros y de Bancos e Instituciones Financieras, regulará el proceso de licitación y las condiciones mínimas que contemplarán las bases de licitación. Dicha norma podrá considerar, entre otros, los siguientes aspectos:
+7. Corresponderá al deudor asegurado cualquier suma que devuelva o reembolse el asegurador por mejor siniestralidad, volumen de primas, número de asegurados u otros conceptos análogos.
+
+8. Una norma de carácter general, que dictará la Comisión para el Mercado Financiero, regulará el proceso de licitación y las condiciones mínimas que contemplarán las bases de licitación. Dicha norma podrá considerar, entre otros, los siguientes aspectos:
 
 a. Coberturas de seguros a licitar.
 
@@ -798,7 +814,7 @@ b. Duración de los contratos y coberturas.
 
 c. Exigencias técnicas y patrimoniales de los corredores de seguros.
 
-d. Información estadística agregada sobre la cartera a licitar que la entidad crediticia deberá entregar a los aseguradores para la realización de la oferta.
+d. Información sobre la cartera a licitar que la entidad crediticia deberá entregar a los aseguradores para la realización de la oferta.
 
 e. Criterios de segmentación de la cartera a licitar.
 
@@ -812,13 +828,15 @@ La citada norma regulará asimismo la información mínima que las entidades cre
 
 Todo lo anterior es sin perjuicio del derecho de los deudores a contratar individual y directamente los seguros a que se refiere este artículo, con un asegurador de su elección. En todo caso, la entidad crediticia no podrá exigir al deudor coberturas o condiciones distintas a las contempladas en los seguros licitados, ni podrá aceptar una póliza individual con menores coberturas que las de los seguros licitados.
 
-Estas disposiciones también serán aplicables a seguros asociados a créditos hipotecarios otorgados a personas jurídicas, que presenten características similares a las operaciones de personas naturales de que trata este artículo, en cuanto a objeto y fines del crédito hipotecario, de acuerdo con lo que se establezca en la norma conjunta antes señalada.
+Estas disposiciones también serán aplicables a seguros asociados a créditos hipotecarios otorgados a personas jurídicas, que presenten características similares a las operaciones de personas naturales de que trata este artículo, en cuanto a objeto y fines del crédito hipotecario, de acuerdo con lo que se establezca en la norma antes señalada.
 
 Sin perjuicio de lo previsto en la letra g., los aseguradores y corredores de seguros que se adjudiquen las licitaciones deberán mantener reserva sobre las bases de datos que reciban de las entidades de crédito en virtud de la letra h., salvo que dicha entidad los dispensare. Quien las divulgue o utilice en perjuicio de la entidad de crédito, deberá responder de los daños y perjuicios que provoque, no obstante las demás sanciones que dicha infracción amerite.
 
-La Superintendencia de Valores y Seguros establecerá, por norma de carácter general, las condiciones y coberturas mínimas que deberán contemplar los seguros asociados a los créditos hipotecarios a los que se refiere este artículo, tanto para aquellos contratados directamente por el deudor como para los contratados por la entidad crediticia por cuenta de éste. La citada norma deberá ser enviada en consulta a la Superintendencia de Bancos e Instituciones Financieras.
+La Comisión para el Mercado Financiero establecerá, por norma de carácter general, las condiciones y coberturas mínimas que deberán contemplar los seguros asociados a los créditos hipotecarios a los que se refiere este artículo, tanto para aquellos contratados directamente por el deudor como para los contratados por la entidad crediticia por cuenta de éste. Las disposiciones de este artículo resultarán también aplicables a los seguros que se deban contratar en virtud de los contratos de arrendamiento de vivienda con promesa de compraventa, celebrados por sociedades inmobiliarias en conformidad a lo dispuesto en la ley Nº 19.281.
 
 Las disposiciones de este artículo resultarán también aplicables a los seguros que se deban contratar en virtud de los contratos de arrendamiento de vivienda con promesa de compraventa, celebrados por sociedades inmobiliarias en conformidad a lo dispuesto en la ley N° 19.281.
+
+Las entidades crediticias que cuenten con carteras de menor tamaño, podrán agrupar dichas carteras, aún entre distintas entidades, para la licitación de seguros. Para tales efectos, la Comisión para el Mercado Financiero, mediante norma de carácter general establecerá criterios mínimos para efectuar las señaladas agrupaciones de cartera.
 
 Párrafo Tercero
 
@@ -868,7 +886,7 @@ c) los sancionados por la Superintendencia con la revocación de su inscripción
 
 #### Artículo 45
 
-La Superintendencia podrá sancionar a los agentes de ventas de las compañías y a los corredores de seguros en los casos y la forma establecida en el artículo 28 del decreto ley N° 3.538, de 1980.
+La Comisión para el Mercado Financiero podrá sancionar a los agentes de ventas de las compañías y a los corredores de seguros en los casos y la forma establecida en el artículo 37 del decreto ley Nº 3.538, del Ministerio de Hacienda, de 1980, cuyo texto fue reemplazado por el artículo primero de la ley Nº 21.000, que crea la Comisión para el Mercado Financiero.
 
 #### Artículo 46
 
@@ -944,23 +962,25 @@ Los seguros pueden ser contratados ya sea directamente con la entidad asegurador
 
 Podrán ser agentes de ventas las personas que se dediquen a la comercialización o venta de seguros por cuenta de una compañía, no pudiendo prestar tales servicios en más de una entidad aseguradora en cada grupo de seguros. a excepción de los agentes de ventas de compañías que, conforme a lo señalado en el artículo 11 de esta ley, cubran riesgos de crédito, los que podrán, a su vez, prestar servicios en una entidad aseguradora del primer grupo que no esté facultada para cubrir estos riesgos.
 
-Tales agentes deberán inscribirse en el registro especial que llevará la Superintendencia o la entidad aseguradora, según se determine mediante norma de carácter general;
-
-quedarán sujetos a su fiscalización, y podrá exigírseles los mismos requisitos establecidos para los corredores de seguros en los artículos 58 y 59 siguientes.
+Tales agentes deberán inscribirse en el registro especial que llevará la Comisión para el Mercado Financiero; quedarán sujetos a su fiscalización, y podrá exigírseles los mismos requisitos establecidos para los corredores de seguros en los artículos 58 y 59 siguientes.
 
 Serán de responsabilidad de la entidad aseguradora las infracciones, errores u omisiones en que puedan incurrir los agentes de ventas en el desempeño de su actividad.
 
 Los corredores de seguros son auxiliares del comercio de seguros, que deben asesorar a la persona que desea asegurarse por su intermedio, ofreciéndole las coberturas más convenientes a sus necesidades e intereses e ilustrándola sobre las condiciones del contrato, debiendo asistirla durante toda su vigencia, especialmente en las modificaciones que eventualmente correspondan y al momento de producirse un siniestro. Deben también asesorar a la compañía aseguradora verificando la identidad de los contratantes, la existencia de los bienes asegurables y entregándole toda la información que posean del riesgo propuesto.
 
-Los corredores deberán entregar a todos sus clientes información respecto de la diversificación de sus negocios y de las compañías con que trabajen, en la forma que determine la Superintendencia.
+Los corredores deberán entregar a todos sus clientes información respecto de la diversificación de sus negocios y de las compañías con que trabajen, en la forma que determine la Comisión para el Mercado Financiero.
 
 Para la intermediación de seguros previsionales se requerirá la inscripción en el registro de Asesores Previsionales a que se refiere el Título XVII del decreto ley N° 3.500, de 1980. Dichos intermediarios quedarán sujetos a las exigencias y requisitos que para los Asesores Previsionales se establecen en el mencionado decreto ley.
 
 Queda prohibido a las compañías de seguros entregar, directa o indirectamente, a los asesores previsionales que intermedien contratos de seguros previsionales a que se refiere el decreto ley N° 3.500, de 1980, incentivos que se determinen en función del volumen intermediado de dicho tipo de seguros con cada una de ellas.
 
-Las compañías de seguros podrán ofrecer, cotizar y convenir contratos de seguro, utilizando los mecanismos continuos de subasta pública de las entidades que autorice la Superintendencia y que se regirán por las normas que ésta determine.
+Las compañías de seguros podrán ofrecer, cotizar y convenir contratos de seguro, utilizando los mecanismos continuos de subasta pública de las entidades que autorice la Comisión para el Mercado Financiero y que se regirán por las normas que ésta determine.
 
 La utilización de mecanismos continuos de subasta pública no excluye la participación, ni la responsabilidad de los auxiliares del comercio de seguros, en la asesoría e intermediación de los seguros.
+
+#### Artículo 57 bis
+
+Derogado.
 
 #### Artículo 58
 

@@ -864,7 +864,7 @@ b) Hipotecas;
 
 c) Prendas sobre bonos de la deuda pública o de instituciones hipotecarias regidas por la ley de 1855, estimados los de estas últimas en el valor que se les asigne, para este objeto, por decreto supremo, y que en ningún caso podrá exceder del 90% de su valor nominal, y
 
-d) Pólizas de seguros de fianza o de responsabilidad personal, contratadas a la orden del Contralor en alguna institución con personalidad jurídica o sociedad anónima expresamente autorizada por el Presidente de la República para atender esta clase de contratos.
+d) Pólizas de seguros de fianza o de responsabilidad personal, contratadas a la orden del Contralor en alguna institución con personalidad jurídica o sociedad anónima expresamente autorizada por la Comisión para el Mercado Financiero para atender esta clase de contratos.
 
 Las cauciones que deba rendir el personal perteneciente a las Fuerzas Armadas se regirán por las normas que contemplen sus propios estatutos y los Reglamentos de cada Institución.
 

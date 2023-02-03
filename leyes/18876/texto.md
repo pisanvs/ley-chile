@@ -212,6 +212,8 @@ c.- Deberán constituirse con un capital mínimo equivalente a 30.000 unidades d
 
 d.- Las operaciones relativas al patrimonio de la empresa serán totalmente independientes de las del conjunto de valores recibidos en depósito, y se contabilizarán separadamente de las de éste.
 
+Los requisitos y exigencias establecidas en la presente ley podrán ser exceptuados conforme lo determine la Comisión mediante norma de carácter general, respecto de aquellas empresas que, por la naturaleza del servicio prestado, en términos del número o tipo de depositantes, volumen de operaciones, u otras condiciones de similar naturaleza, no comprometan la fe pública o estabilidad financiera al no superar los límites establecidos en la respectiva norma de carácter general o en atención a las condiciones que ella establezca. Asimismo, la Comisión podrá establecer formas menos gravosas de cumplimiento de los requisitos y exigencias de esta ley, cuando no se superen los límites establecidos en la norma de carácter general respectiva o cuando con las nuevas formas de cumplimiento no se comprometa la fe pública o estabilidad financiera.
+
 #### Artículo 19°
 
 Las empresas de depósito pueden poseer por cuenta propia valores de oferta pública. Estas empresas deben tener en su contabilidad debidamente individualizados por su número los títulos representativos de las cantidades de valores recibidos en depósito, de manera de distinguirlos de los títulos representativos de valores que posean por cuenta propia.
@@ -235,6 +237,8 @@ f.- Establecer las normas y procedimientos generales relativos a la aceptación 
 g.- Contemplar en su reglamento interno, normas y procedimientos justos y uniformes por los cuales los depositantes del sistema pueden ser sancionados o suspendidos en caso de infracción a la presente ley, a sus normas complementarias, estatutos o normas internas de la empresa y las causales de término del contrato de depósito, por infracción a las mismas normas.
 
 h) Proporcionar un estudio tarifario, el cual será de conocimiento público, respaldando la estructura de remuneraciones a ser aplicadas por los servicios prestados. El estudio debe fundamentarse en la estructura de ingresos y costos relevantes proyectados por la empresa para su normal funcionamiento. Para ello, se deberá tener en consideración los principios de equilibrio financiero de la empresa y de equidad entre los usuarios. Los contenidos mínimos para la elaboración del estudio serán establecidos por la Superintendencia a través de una norma de carácter general. Con todo, el referido estudio deberá ser actualizado a lo menos cada dos años o con ocasión de ajustes a las tarifas de la empresa. Sin perjuicio de lo anterior, la Superintendencia podrá requerir en cualquier oportunidad una actualización del referido estudio.
+
+i) Cumplir con las exigencias de gobierno corporativo y gestión de riesgos que determine la Comisión mediante norma de carácter general.
 
 #### Artículo 21°
 

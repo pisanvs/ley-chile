@@ -158,7 +158,9 @@ Corresponderá a las Cajas de Compensación la administración de prestaciones d
 
 9.- Constituir sociedades con el objeto exclusivo de emitir y operar medios de pago con provisión de fondos, en los términos establecidos en la ley que autoriza la emisión de estos medios de pago por entidades no bancarias y a la normativa dictada conforme a ella. Las sociedades constituidas en virtud de este numeral quedarán sujetas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, quedando los administradores de la Caja de Compensación obligados a cumplir los requisitos de integridad contemplados en el artículo 28 de la Ley General de Bancos.
 
-10.- Efectuar las demás funciones que establezca la ley.
+10.- Constituir sociedades con el objeto exclusivo de prestar uno o más de los servicios de plataforma de financiamiento colectivo, enrutamiento de órdenes, intermediación de instrumentos financieros, asesoría crediticia y asesoría de inversión de conformidad al inciso segundo del artículo 5 de la ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec.
+
+11.- Efectuar las demás funciones que establezca la ley.
 
 Las Cajas de Compensación estarán facultadas para celebrar convenios con el Fondo Nacional de Salud, sobre otorgamiento de credenciales de salud, venta, emisión y pago de órdenes de atención, y, otorgamiento y cobro de los préstamos que establece el artículo 31 de la ley N° 18.469.
 

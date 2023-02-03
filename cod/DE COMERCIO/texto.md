@@ -2564,7 +2564,7 @@ Los accionistas sólo serán responsables hasta el monto de sus respectivos apor
 
 #### Artículo 430
 
-La sociedad por acciones que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+La sociedad por acciones que durante doce meses consecutivos cumpla las condiciones que obligan a una sociedad anónima cerrada a inscribir sus acciones en el Registro de Valores de la ley N° 18.045, se transformará por el solo ministerio de la ley en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La junta de accionistas que se celebre con posterioridad a este hecho, deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 #### Artículo 431
 
@@ -2986,7 +2986,7 @@ La participación es un contrato por el cual dos o más comerciantes toman inter
 
 #### Artículo 507 bis
 
-La sociedad en comandita que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+La sociedad en comandita que durante doce meses consecutivos cumpla las condiciones que obligan a la sociedad anónima cerrada a inscribir sus acciones en el Registro de Valores de la ley N° 18.045, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 #### Artículo 508
 

@@ -12,23 +12,19 @@ La sociedad anónima es una persona jurídica formada por la reunión de un fond
 
 La sociedad anónima es siempre mercantil, aun cuando se forme para la realización de negocios de carácter civil.
 
-#### Artículo 2°
+#### Artículo 2
 
 Las sociedades anónimas pueden ser de tres clases: abiertas, especiales o cerradas.
 
-Son sociedades anónimas abiertas aquellas que inscriban voluntariamente o por obligación legal sus acciones en el Registro de Valores.
+Son sociedades anónimas abiertas aquellas que inscriban sus acciones en el Registro de Valores. Estarán obligadas a inscribir sus acciones en el Registro de Valores, aquellas sociedades que durante doce meses consecutivos hayan tenido inscritos en el registro de accionistas más de 2.000 accionistas o el número superior que establezca la Comisión mediante norma de carácter general, siempre que con aquel número no se vea comprometida la fe pública, teniendo en consideración el tipo de accionista, naturaleza de la sociedad o circunstancias similares.
 
-Son sociedades anónimas especiales las indicadas en el Título XIII de esta ley.
+Son sociedades anónimas especiales las indicadas en el Título XIII.
 
 Son sociedades anónimas cerradas las que no califican como abiertas o especiales.
 
-Las sociedades anónimas abiertas y las sociedades anónimas especiales quedarán sometidas a la fiscalización de la Comisión para el Mercado Financiero, en adelante la Comisión, salvo que la ley las someta al control de alguna Superintendencia. En este último caso, quedarán además sometidas a la primera, en lo que corresponda, cuando emitieren valores.
+Las sociedades anónimas abiertas y las sociedades anónimas especiales quedarán sometidas a la fiscalización de la Comisión para el Mercado Financiero, en adelante la Comisión. En este último caso, quedarán además sometidas a la primera, en lo que corresponda, cuando emitieren valores.
 
-Las sociedades anónimas que dejen de cumplir las condiciones para estar obligadas a inscribir sus acciones en el Registro de Valores, continuarán afectas a las normas que rigen a las sociedades anónimas abiertas, mientras la junta extraordinaria de accionistas no acordare lo contrario por los dos tercios de las acciones con derecho a voto. En este caso, el accionista ausente o disidente tendrá derecho a retiro.
-
-Cada vez que las leyes establezcan como requisito que una sociedad se someta a las normas de las sociedades anónimas abiertas o que dichas normas le sean aplicables, o se haga referencia a las sociedades sometidas a la fiscalización, al control o a la vigilancia de la Comisión, o se empleen otras expresiones análogas, se entenderá, salvo mención expresa en contrario, que la remisión se refiere exclusivamente a las normas aplicables a las sociedades anónimas abiertas en cuanto a las obligaciones de información y publicidad para con los accionistas, la Comisión y el público en general. En todo lo demás, esas sociedades se regirán por las disposiciones de las sociedades anónimas cerradas y no estarán obligadas a inscribirse en el Registro de Valores, salvo que fueren emisores de valores de oferta pública. Las sociedades anónimas a que se refiere este inciso, que no fueren abiertas, una vez que cesare la condición o actividad en cuya virtud la ley las sometió al control de la Comisión, podrán solicitar a ésta la exclusión de sus registros y fiscalización, acreditando dicha circunstancia.
-
-Las disposiciones de la presente ley primarán sobre las de los estatutos de las sociedades que dejen de ser cerradas, por haber cumplido con algunos de los requisitos establecidos en el inciso segundo del presente artículo. Lo anterior es sin perjuicio de la obligación de estas sociedades de adecuar sus estatutos a las normas de la presente ley, conjuntamente con la primera modificación que en ellos se introduzca.
+Las sociedades anónimas abiertas solo podrán solicitar la cancelación de sus acciones en el Registro de Valores por acuerdo de los dos tercios de las acciones con derecho a voto en junta extraordinaria de accionistas. De aprobarse la solicitud de cancelación, el accionista ausente o disidente tendrá derecho a retiro. En caso de que la cancelación de la inscripción hubiere sido a consecuencia de un proceso administrativo sancionatorio de la Comisión, la sociedad continuará teniendo la calidad de sociedad anónima abierta para los efectos de la presente ley, mientras la junta extraordinaria de accionistas no acordare lo contrario por los dos tercios de las acciones con derecho a voto, en cuyo caso, el accionista ausente o disidente tendrá derecho a retiro.
 
 #### Artículo 3°
 
@@ -1362,7 +1358,7 @@ De las Sociedades sujetas a normas especiales.
 
 #### Artículo 126
 
-Las compañías aseguradoras y reaseguradoras, las sociedades anónimas administradoras de fondos mutuos, las bolsas de valores y otras sociedades que la ley expresamente someta a los trámites que a continuación se indican, se forman, existen y aprueban por escritura pública, obtención de una resolución de la Comisión que autorice su existencia e inscripción y publicación del certificado especial que otorgue dicha Comisión.
+Las sociedades que la ley expresamente someta a los trámites que a continuación se indican, se forman, existen y prueban por escritura pública, obtención de una resolución de la Comisión que autorice su existencia e inscripción y publicación del certificado especial que otorgue dicha Comisión..
 
 Las escrituras públicas deberán contener, a más de las menciones generales exigidas por esta ley, las especiales requeridas por las leyes particulares que las rijan.
 
@@ -1375,6 +1371,8 @@ Aprobada la existencia de una sociedad, la Comisión expedirá un certificado qu
 #### Artículo 127
 
 La modificación de los estatutos de las sociedades a que se refiere el artículo anterior y su disolución anticipada acordadas por sus respectivas juntas de accionistas, luego de ser reducidas sus actas a escrituras públicas, deberán ser aprobadas por la Comisión, efectuándose en lo pertinente la inscripción y publicación indicadas en el artículo anterior.
+
+No será necesaria la aprobación de la Comisión tratándose de modificaciones a los estatutos que sólo tengan por finalidad aumentar el capital de la sociedad, cuando dicho aumento sea enterado en moneda de curso legal o en aquellas divisas que cumplan con las condiciones que establezca la Comisión por normativa.
 
 #### Artículo 128
 

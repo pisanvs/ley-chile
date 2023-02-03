@@ -10,6 +10,8 @@ Proyecto de ley:
 
 La presente ley tiene por objeto autorizar la emisión y operación de medios de pago con provisión de fondos o cualquier otro sistema similar por parte de empresas no bancarias, en la medida que dichos sistemas importen que el emisor u operador contraiga habitualmente obligaciones de dinero para con el público en general o ciertos sectores o grupos específicos de él.
 
+Para todos los efectos legales, se entenderá que los medios de pago a que se refiere el inciso anterior comprenden las representaciones digitales, electrónicas o informáticas, registradas mediante sistemas que utilicen tecnologías de registros distribuidos u otras análogas, de unidades cuyo valor sea directamente determinable y respaldado en función de dinero, ya sea que se trate de moneda nacional o extranjera, o bien, de documentos en que consten obligaciones pagaderas en cualquiera de esas monedas, y sujeto a que tales representaciones y sistemas cumplan con los estándares y condiciones mínimas en materias de seguridad, fiabilidad, aceptabilidad, uso, masividad, entre otras, que el Banco Central de Chile establezca por norma general.
+
 Para efectos de esta ley, se entenderá por empresa no bancaria a los emisores u operadores distintos de las empresas bancarias, sus filiales o empresas de apoyo al giro.
 
 La operación de estos medios de pago podrá ser ejercida por empresas operadoras constituidas en virtud de la presente ley, o por sociedades de apoyo al giro bancario conforme a lo dispuesto en el artículo 74 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que Fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican (en adelante "Ley General de Bancos"). Las empresas emisoras podrán también operar por sí mismas los medios de pago de su propia emisión.
@@ -36,7 +38,7 @@ La adquisición de acciones de un emisor no bancario de medios de pago con provi
 
 #### Artículo 5
 
-Los emisores no bancarios de medios de pago con provisión de fondos estarán facultados para recibir dinero del público, el que solamente podrá destinarse a efectuar los pagos correspondientes a la utilización de dichos medios, al cargo de las comisiones que procedan o al reembolso de los recursos recibidos del titular del instrumento de pago.
+Los emisores no bancarios de medios de pago con provisión de fondos estarán facultados para recibir dinero del público, el que solamente podrá destinarse a efectuar los pagos correspondientes a la utilización de dichos medios, a cumplir las transferencias de fondos instruidas por el titular o por un tercero especialmente autorizado por éste, al cargo de las comisiones que procedan o al reembolso de los recursos recibidos del titular del instrumento de pago.
 
 Los fondos recibidos con motivo de lo dispuesto en el inciso anterior se registrarán, mantendrán y contabilizarán en todo momento en forma segregada respecto de las otras operaciones realizadas por la sociedad emisora, ya sea con recursos propios o de terceros, y no serán susceptibles de embargo, medida prejudicial o precautoria u otras limitaciones al dominio emanadas de obligaciones asumidas por el emisor respectivo distintas de las indicadas en el inciso precedente. Asimismo, dichos dineros recibidos por el emisor no devengarán intereses ni reajustes.
 

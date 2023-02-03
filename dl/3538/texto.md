@@ -204,7 +204,13 @@ En todo caso, para el cumplimiento de los fines de los señalados organismos, la
 
 Respecto de la información recabada, así como de las comunicaciones a que se refiere el párrafo anterior, regirá el deber de reserva establecido en el inciso primero del artículo 28 de la presente ley.
 
-36. Ejercer las demás facultades que otras leyes expresamente le confieran.
+36. Establecer, mediante norma de carácter general, las condiciones mínimas que deberán cumplir las instituciones fiscalizadas en materia de atención al público, tanto en sus oficinas y sucursales, si las tuvieren, como en otros canales que habiliten al efecto. También deberán cumplir con las exigencias que para su funcionamiento establezca la Comisión, considerando elementos tales como los estándares de seguridad de las operaciones que se efectúen por dichos canales y la disponibilidad mínima de ellos, y otras reglas que instruya la Comisión, con el fin de establecer estándares de calidad y servicios mínimos acorde a los productos y servicios que ofrezcan.
+
+La Comisión, mediante normativa o resolución fundada, en atención a la naturaleza del servicio prestado o condiciones del mercado, podrá establecer la obligación de contar con determinados canales de atención, determinar la distribución del horario, condiciones y requerimientos de funcionamiento, disponibilidad u otras condiciones de la misma naturaleza que la Comisión determine.
+
+Asimismo, la Comisión podrá determinar la obligación de las entidades fiscalizadas conforme a esta ley de implementar un canal idóneo de atención de reclamos de clientes en consideración al número de clientes y tipo de servicio prestado, el cual deberá ajustarse a las características y condiciones que defina la Comisión por norma de carácter general.
+
+37. Ejercer las demás facultades que otras leyes expresamente le confieran.
 
 #### Artículo 6
 

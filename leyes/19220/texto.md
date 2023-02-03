@@ -20,9 +20,9 @@ Corresponde a la Comisión para el Mercado Financiero, en adelante la "Comisión
 
 Para establecer y operar una bolsa de productos se requerirá de la autorización previa de la Comisión y sus estatutos deberán contener las siguientes modalidades:
 
-1) Deben constituirse y mantener un capital pagado mínimo equivalente a 30.000 unidades de fomento, dividido en acciones sin valor nominal y un número de miembros de, a lo menos, ocho corredores de productos.
+1) Deben constituirse y mantener un capital pagado mínimo equivalente a 30.000 unidades de fomento, dividido en acciones sin valor nominal.
 
-Si durante la vigencia de la sociedad, el número de corredores o el monto de su patrimonio neto se redujera a cifras inferiores a las establecidas precedentemente, la bolsa dispondrá de un plazo de seis meses para subsanar los déficit producidos. Vencido este plazo sin que así haya ocurrido, podrá serle revocada su autorización de existencia por la Comisión, a menos que este organismo le autorice la reducción de su capital social o del número de sus corredores miembros.
+Si durante la vigencia de la sociedad, el monto de su patrimonio neto se redujera a cifras inferiores a las establecidas precedentemente, la bolsa dispondrá de un plazo de seis meses para subsanar el déficit producido. Vencido este plazo sin que así haya ocurrido, podrá serle revocada su autorización de existencia por la Comisión, a menos que este organismo le autorice la reducción de su capital social.
 
 2) La vigencia de la sociedad deberá pactarse por tiempo indefinido.
 
@@ -76,31 +76,33 @@ De los corredores de bolsas de productos
 
 Los corredores de bolsas de productos, en adelante los corredores, son quienes están autorizados por ley para realizar las operaciones de intermediación en las bolsas de productos.
 
+Los corredores de productos podrán asimismo actuar como corredores de bolsa en las Bolsas de Valores regidos por la ley N° 18.045, reputándose como tales para todos los efectos de esa ley.
+
 Los corredores podrán también dedicarse a la compra o venta de productos en bolsa por cuenta propia, siempre que exista ánimo para transferir derechos sobre los mismos, y a la intermediación de productos fuera de bolsa. No obstante, cuando un corredor opere por cuenta de un comitente que desee mantener en reserva su identidad, se dejará constancia de esta circunstancia en la documentación pertinente y se consignarán únicamente los datos del referido intermediario. Esta reserva no será oponible a la Comisión.
 
 Una bolsa podrá rechazar, con el acuerdo de a lo menos dos tercios de sus directores en ejercicio, a las personas que opten al cargo de corredor de dicha bolsa, en la medida que ellas, o sus socios, no cumplan los requisitos de solvencia, idoneidad, y demás exigencias que la respectiva bolsa establezca en sus estatutos o reglamentos. La bolsa, al establecer y verificar el cumplimiento de dichos requisitos y exigencias, no podrá restringir o entorpecer la libre competencia. En caso de rechazo, los fundamentos del mismo deberán constar en el acta respectiva.
 
-#### Artículo 7º
+#### Artículo 7
 
-Para los efectos de determinar el cumplimiento de los requisitos necesarios para su fiscalización, la Comisión llevará un Registro de Corredores de Bolsas de Productos, en adelante el "Registro de Corredores", en el cual se deberán inscribir las sociedades anónimas que acrediten, a satisfacción de la Comisión, lo siguiente:
+Para los efectos de determinar el cumplimiento de los requisitos necesarios para su fiscalización, la Comisión llevará un Registro de Corredores de Bolsas de Productos, en adelante el "Registro de Corredores", en el cual se deberán inscribir las personas jurídicas que acrediten, a satisfacción de la Comisión, lo siguiente:
 
-a) Tener un gobierno corporativo, controles internos y sistemas de gestión de riesgos que permitan a la corredora cumplir adecuadamente sus deberes y responsabilidades, conforme a la evaluación que realice la Comisión, empleando la metodología que para estos efectos establezca mediante norma de carácter general.
+a) Tener un gobierno corporativo, controles internos y sistemas de gestión de riesgos que permitan a la corredora cumplir adecuadamente sus deberes y responsabilidades, conforme a la evaluación que realice la Comisión. Deberán emplear la metodología que para estos efectos establezca mediante norma de carácter general.
 
 b) Disponer de personal que cuente con la idoneidad y conocimientos suficientes para el correcto desempeño de las actividades que realice.
 
-c) Mantener permanentemente un patrimonio mínimo de 6.000 unidades de fomento. No obstante lo anterior, para efectuar las operaciones indicadas en el inciso segundo del artículo 6º de la presente ley, se deberá mantener un patrimonio mínimo de 14.000 unidades de fomento.
+c) Alcanzado el volumen de negocios que la Comisión haya establecido por norma de carácter general y que permitan presumir razonablemente que con los riesgos que enfrenta el corredor de productos puede comprometer la fe pública y estabilidad financiera, deberán mantener permanentemente un patrimonio mínimo calculado en la forma que determine la Comisión mediante norma de carácter general, el cual deberá ser el equivalente al mayor entre: i) 5.000 unidades de fomento; o ii) el 3% de los activos ponderados por riesgos financieros y operacionales de la entidad calculado conforme al método que al efecto establezca la Comisión mediante norma de carácter general. Tratándose de entidades que presenten deficiencias en su gestión de riesgos, dicho porcentaje podrá ser incrementado hasta el 6% por la Comisión en atención a la evaluación de la calidad de gestión de riesgos que ésta realice.
 
 d) Constituir las garantías en la forma y por los montos que se establecen en esta ley.
 
 e) No haber sido sancionado con la expulsión de una bolsa de productos ni de una bolsa de valores, ni haber sido ordenada la cancelación de su inscripción en los Registros que al efecto lleve la Comisión.
 
-f) No haber sido condenado por delito que merezca pena aflictiva o por los delitos contemplados en los artículos 37 y 38 de esta ley, y
+f) No haber sido condenado por delito que merezca pena aflictiva o por los delitos contemplados en los artículos 37 y 38, ni haber sido sancionados administrativamente por incurrir en las conductas constitutivas de delito de esta ley, de las leyes N° 18.045, N° 18.046, N° 20.712, N° 20.720, del decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda y del decreto con fuerza de ley Nº 251, de 1931, del Ministerio de Hacienda.
 
 g) No encontrarse sometido a un procedimiento concursal de liquidación.
 
 La Comisión establecerá, mediante norma de carácter general, los medios y la forma en que los interesados deberán acreditar las circunstancias señaladas en este artículo y los antecedentes que con tal fin deberán acompañar a sus solicitudes de inscripción.
 
-Quienes no se encuentren inscritos en el referido Registro, no podrán publicitar su carácter de corredores de bolsa de productos, ni usar membretes, planchas o distintivo alguno que los individualice como tales.
+Quienes no se encuentren inscritos en el referido Registro no podrán publicitar su carácter de corredores de bolsa de productos, ni usar membretes, planchas o distintivo alguno que los individualice como tales.
 
 #### Artículo 8°
 
@@ -116,17 +118,17 @@ Cumplidos los requisitos establecidos en el artículo 7° la Comisión proceder�
 
 Los corredores deberán cumplir y mantener los márgenes de endeudamiento, de garantías y otras condiciones de liquidez y solvencia patrimonial que la Comisión haya establecido de manera general y previa en relación a la naturaleza de las operaciones, su cuantía y el tipo de instrumentos que se negocien.
 
+Dicha normativa deberá señalar el método que se deberá aplicar para el cumplimiento de esas condiciones, el que se establecerá en función de la evaluación de la calidad del proceso de gestión de riesgos que sobre la entidad realice la Comisión.
+
 #### Artículo 11
 
-Los corredores deberán constituir una garantía, previa al desempeño de su actividad, para asegurar el cumplimiento de sus obligaciones como intermediarios de productos.
+Alcanzado el volumen de negocios o el número de clientes que pudieran resultar afectados con las actuaciones u omisiones del corredor, según haya establecido la Comisión por norma de carácter general, los corredores deberán constituir una garantía para asegurar el cumplimiento de sus obligaciones como intermediarios de productos.
 
-La garantía será de un monto inicial equivalente a 6.000 unidades de fomento. La Comisión podrá establecer, de manera general y obligatoria, mayores garantías en razón de la calidad del gobierno corporativo, controles internos y sistemas de gestión de riesgos de la corredora, que hayan sido evaluados por la misma Comisión, de conformidad a la metodología a que se refiere el artículo 7º de esta ley. Las mayores exigencias de garantías que establezca este organismo, en ningún caso podrán ser superiores a las 30.000 unidades de fomento.
+La garantía deberá constituirse por el monto que determine la Comisión, según los parámetros establecidos mediante norma de carácter general, en consideración al impacto o perjuicio potencial que pueda ocasionar la entidad a sus clientes, la calidad del gobierno corporativo y gestión de riesgos de la entidad, y que el monto resultante no haga inviable el modelo de negocios de ésta.
 
-La garantía podrá constituirse en dinero efectivo, boleta bancaria, póliza de seguros, prenda sobre productos, prenda sobre acciones de sociedades anónimas abiertas u otros valores de oferta pública, con excepción de acciones emitidas por las bolsas en que participen. La garantía constituida se deberá mantener reajustada en la misma proporción en que varíe el monto de la unidad de fomento.
+La garantía podrá constituirse en dinero efectivo, boleta bancaria, póliza de seguros, prenda sobre productos, prenda sobre acciones de sociedades anónimas abiertas u otros valores de oferta pública, con excepción de acciones emitidas por las bolsas en que participen. La garantía constituida se deberá mantener reajustada en la misma proporción en que varíe el monto de la unidad de fomento. La constitución de garantías sobre prenda de acciones de sociedades anónimas abiertas o sobre otros valores de oferta pública, no podrá exceder de un 40% del total de la caución.
 
-La constitución de garantías sobre prenda de acciones de sociedades anónimas abiertas o sobre otros valores de oferta pública, no podrá exceder de un 40% del total de la caución.
-
-La garantía deberá mantenerse vigente hasta los seis meses posteriores a la pérdida de la calidad de corredor y en todo caso hasta que se resuelvan, por sentencia ejecutoriada, las acciones judiciales que se hayan deducido en su contra hasta seis meses después de la pérdida de la calidad de corredor. La circunstancia de no haberse deducido acciones judiciales en el tiempo antedicho, se acreditará mediante la declaración jurada notarial del corredor mismo o, en su caso, de todos los directores y administradores.
+No obstante lo establecido en los incisos anteriores, la Comisión, mediante norma de carácter general, podrá sustituir la garantía individual antes señalada por una cofinanciada, la que deberá ser de un monto suficiente y características adecuadas para enfrentar los riesgos de las entidades que la cofinancian, con el objeto de compatibilizar la protección de la fe pública y estabilidad financiera con la viabilidad económica de los modelos de negocios de los corredores de productos.
 
 #### Artículo 12
 
@@ -174,31 +176,35 @@ Los corredores no serán responsables de las obligaciones emanadas de los contra
 
 #### Artículo 16
 
-La Comisión, mediante resolución fundada y previa audiencia del afectado, podrá suspender hasta por el plazo máximo de un año o cancelar la inscripción de un corredor en el Registro de Corredores por haber éste incurrido en alguna de las siguientes causales:
+La Comisión, mediante resolución fundada y previa audiencia del afectado, podrá suspender hasta por el plazo máximo de un año o cancelar la inscripción de un corredor en el Registro de Corredores por haber incurrido éste en alguna de las siguientes causales:
 
 a) No haber subsanado, dentro del plazo de seis meses, las deficiencias graves que la Comisión le hubiere notificado en relación con el requisito de la letra
 
-- **a)** del artículo 7º, o dejar de cumplir los requisitos de las letras b), c), d), e),
+- **a)** del artículo 7, o haber dejado de cumplir los requisitos de las letras b), c), d), e),
 
 - **f)** y
 
-- **g)** del mismo artículo.
+- **g)** del mismo artículo. Sin perjuicio de lo anterior, en casos calificados, la Comisión podrá otorgar al interesado un plazo adicional de hasta ciento ochenta días hábiles para subsanar las deficiencias relacionadas con la letra
 
-Sin perjuicio de lo anterior, en casos calificados, la Comisión podrá otorgar un plazo adicional de hasta ciento veinte días al interesado, para subsanar las deficiencias relacionadas con la letra
-
-- **a)** del artículo 7º. De igual modo, podrá otorgar el mismo plazo, también en casos calificados, para subsanar las deficiencias relacionadas con las letras b), c),
+- **a)** del artículo 7. De igual modo, podrá otorgar el mismo plazo, también en casos calificados, para subsanar las deficiencias relacionadas con las letras b), c),
 
 - **d)** y
 
 - **g)** de dicho artículo.
 
-b) Incurrir en graves violaciones a las obligaciones que le impone esta ley, sus normas complementarias, las instrucciones que imparta la Comisión u otras disposiciones que los rijan;
+En el evento que el patrimonio mínimo de un corredor disminuyere a un monto inferior al establecido en el artículo 7 o la entidad dejare de cumplir con las condiciones de liquidez, endeudamiento o solvencia patrimonial, ésta deberá comunicar ese hecho a la Comisión tan pronto tome conocimiento de él y presentar un plan de regularización dentro del plazo de cinco días corridos, el cual podrá ser prorrogado por la Comisión hasta completar diez días corridos en total. Dicho plan deberá contener medidas concretas del referido déficit que le permitan remediar la situación en que se encuentra y asegurar su normal funcionamiento. Mientras se mantenga dicha situación deberá abstenerse de realizar nuevas operaciones que deterioren su situación financiera.
 
-c) Tomar parte en forma culpable o dolosa en transacciones que produzcan alteraciones artificiales de precios; o realizar conductas tendientes a restringir la competencia en el mercado de productos y cualquier otra participación no compatible con las sanas prácticas en los mercados de productos o de valores;
+Asimismo, en caso de que la Comisión tomare conocimiento de que una entidad se encuentra en los supuestos indicados en el inciso precedente o cuando resulte previsible que incurrirá en déficit patrimonial de manera inminente de mantenerse las circunstancias de mercado o en atención al actuar de la propia entidad, y esto no le hubiere sido comunicado oportunamente, la Comisión podrá requerir a la entidad la presentación de un plan de regularización. De no subsanarse el déficit dentro del plazo de seis meses contado desde que aquél se hubiere producido, la entidad deberá dejar de prestar el servicio de intermediación, y presentar a la Comisión un programa de término de operaciones y traspaso de clientes.
 
-d) Dejar de desempeñar la función de corredor activo por más de un año, sin causa justificada;
+A partir de la fecha de recepción del programa a que se refiere el inciso anterior, la Comisión podrá designar un interventor o administrador provisional, por el período que determine mediante resolución fundada. La administración de la entidad quedará sometida, en el ejercicio de sus funciones, a las instrucciones que le imparta el o los interventores designados por la Comisión. El interventor tendrá todas las facultades del giro ordinario que la ley y los estatutos señalan al directorio, o a quien haga sus veces, y al gerente general. La designación de interventor deberá recaer en funcionarios de la Comisión o en profesionales externos debidamente calificados, sujeto a que cumplan los requisitos de idoneidad y capacidad técnica que la Comisión determine mediante norma de carácter general. En este último caso, los servicios del interventor serán remunerados con cargo del presupuesto anual de la Comisión.
 
-e) Participar en transacciones bursátiles de productos cuyas características y condiciones no cumplan los estándares mínimos establecidos en los padrones inscritos en el Registro de Productos, o en transacciones bursátiles de productos cuya cotización haya sido suspendida, y
+b) Incurrir en graves violaciones a las obligaciones que le impone esta ley, sus normas complementarias, las instrucciones que imparta la Comisión u otras disposiciones que los rijan.
+
+c) Tomar parte en forma culpable o dolosa en transacciones que produzcan alteraciones artificiales de precios; o realizar conductas tendientes a restringir la competencia en el mercado de productos y cualquier otra participación no compatible con las sanas prácticas en los mercados de productos o de valores.
+
+d) Dejar de desempeñar la función de corredor activo por más de un año, sin causa justificada.
+
+e) Participar en transacciones bursátiles de productos cuyas características y condiciones no cumplan los estándares mínimos establecidos en los padrones inscritos en el Registro de Productos, o en transacciones bursátiles de productos cuya cotización haya sido suspendida.
 
 f) Dejar de cumplir obligaciones originadas en transacciones de productos en que haya tomado parte.
 

@@ -270,6 +270,8 @@ Normas de publicidad. Una vez presentada la solicitud, el proveedor deberá info
 
 Sociedades de apoyo al giro. Las sociedades de apoyo al giro reguladas en el Párrafo 2 del Título IX del decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda, que fija texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, podrán prestar servicios a cualquier proveedor en relación con la portabilidad financiera y la operatividad de esta ley. Las sociedades de apoyo al giro que provean los mencionados servicios deberán establecer condiciones y exigencias objetivas y no discriminatorias de contratación, sin que puedan establecer diferencias en relación al volumen de operaciones.
 
+Las comunicaciones entre proveedores mencionadas en el inciso anterior deberán realizarse a través de las interfaces de acceso remoto y automatizado de que dispongan los proveedores involucrados en un proceso de portabilidad financiera, una vez que los referidos proveedores tengan calidad de participantes en el Sistema de Finanzas Abiertas contemplado en el título III de la Ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec.
+
 ## Título V
 
 MODIFICACIONES A OTROS CUERPOS NORMATIVOS

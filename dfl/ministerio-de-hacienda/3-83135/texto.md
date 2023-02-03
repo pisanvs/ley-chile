@@ -22,7 +22,7 @@ Derogado.
 
 Corresponderá a la Comisión para el Mercado Financiero (en adelante, la "Comisión") la fiscalización del Banco del Estado de Chile y de las demás empresas bancarias, cualquiera sea su naturaleza.
 
-Asimismo, la Comisión tendrá la fiscalización de las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito, tarjetas de pago con provisión de fondos o de cualquier otro sistema similar a los referidos medios de pago, siempre que éstos importen que el emisor u operador contraiga habitualmente obligaciones de dinero para con el público en general o ciertos sectores o grupos específicos de él.
+Asimismo, la Comisión tendrá la fiscalización de las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito, tarjetas de pago con provisión de fondos o de cualquier otro sistema similar a los referidos medios de pago, siempre que éstos importen que el emisor u operador contraiga habitualmente obligaciones de dinero para con el público en general o ciertos sectores o grupos específicos de él. Para todos los efectos legales, se entenderá que los referidos medios de pago comprenden las representaciones digitales, electrónicas o informáticas, registradas mediante sistemas que utilicen tecnologías de registros distribuidos u otras análogas, de unidades cuyo valor sea directamente determinable y respaldado en función de dinero, ya sea que se trate de moneda nacional o extranjera, o bien, de documentos en que consten obligaciones pagaderas en cualquiera de esas monedas, y sujeto a que tales representaciones y sistemas cumplan con los estándares y condiciones mínimas en materias de seguridad, fiabilidad, aceptabilidad, uso, masividad, entre otras, que el Banco Central de Chile establezca mediante norma general.
 
 Las entidades descritas en el inciso anterior, distintas de las empresas bancarias, de sus filiales o empresas de apoyo al giro deberán constituirse en el país como sociedades anónimas especiales de conformidad con el Título XIII de la ley N° 18.046, sobre Sociedades Anónimas, y se sujetarán a las disposiciones aplicables a las sociedades anónimas abiertas, en todo lo que no se oponga a las normas especiales que éstas deban observar de conformidad con la regulación que las rige.
 
@@ -888,7 +888,7 @@ a) Prestar servicios destinados a facilitar el cumplimiento de los fines de las 
 
 b) Que por su intermedio las instituciones financieras puedan efectuar determinadas operaciones de giro bancario con el público, excepto la de captar dinero.
 
-Las sociedades de apoyo al giro bancario que realicen actividades relacionadas con los medios de pago podrán prestar servicios a los emisores y operadores de los medios de pago descritos en el inciso segundo del artículo 2 de la presente ley.
+Las sociedades de apoyo al giro bancario deberán establecer condiciones de acceso públicas, generales, objetivas y no discriminatorias para la prestación de servicios a emisores y operadores de los medios de pago descritos en el inciso segundo del artículo 2, así como a otras instituciones o terceros autorizados por la Comisión, sujeto al cumplimiento de las demás condiciones y exigencias que ésta establezca mediante norma de carácter general.
 
 Las sociedades de apoyo al giro bancario a que se refiere el inciso anterior podrán utilizar medios tecnológicos, electrónicos o cualquier otro que resulte apto para facilitar que los establecimientos de comercio puedan aceptar en forma expresa las condiciones de contratación que éstas propongan para la operación de medios de pago con provisión de fondos no bancarios y similares, las que deberán ser objetivas, competitivas, transparentes y no discriminatorias. Estas condiciones deberán ser informadas a los establecimientos de comercio con la debida anticipación y publicidad, procurando asegurar un adecuado conocimiento de su sentido, alcances y efectos.
 
@@ -1796,7 +1796,7 @@ La omisión total o parcial en la entrega de dichos antecedentes podrá ser sanc
 
 #### Artículo 155
 
-Las instituciones sometidas a la fiscalización de la Comisión en virtud de la presente ley estarán obligadas a conservar durante seis años sus libros, formularios, correspondencia, documentos y papeletas. La Comisión podrá autorizar la eliminación de parte de este archivo antes de ese plazo y exigir que determinados documentos o libros se guarden por plazos mayores. Podrá, asimismo, facultarlas para conservar reproducciones mecánicas o fotográficas de esta documentación en reemplazo de los originales.
+Las instituciones sometidas a la fiscalización de la Comisión en virtud de la presente ley estarán obligadas a conservar durante seis años sus libros, formularios, correspondencia, documentos y papeletas. La Comisión podrá autorizar la eliminación de parte de este archivo antes de ese plazo y exigir que determinados documentos o libros se guarden por plazos mayores. Podrá, asimismo, facultarlas para conservar dicha documentación en medios distintos del papel, mediante sistemas tecnológicos que aseguren su fidelidad con el original. Resultará aplicable íntegramente lo dispuesto en el numeral 17 del artículo 5 del decreto ley N° 3.538, de 1980.
 
 El plazo se contará desde la fecha del último asiento operado en ellos o desde la fecha en que se hayan extendido, según corresponda.
 

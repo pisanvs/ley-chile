@@ -46,7 +46,7 @@ En relación con las operaciones no autorizadas incluidas en el reclamo, se cons
 
 Tan pronto el usuario tome conocimiento de la existencia de operaciones no autorizadas, deberá dar aviso conforme a lo previsto en el artículo 2 de esta ley.
 
-En los casos en que el usuario desconozca haber autorizado una operación, corresponderá al emisor probar que dicha operación fue autorizada por el usuario y que se encuentra registrada a su nombre.
+En los casos en que el usuario desconozca haber autorizado una operación, corresponderá al emisor probar que ella fue autorizada por el usuario y que se encuentra registrada a su nombre. Tratándose de un pago o transferencia electrónica iniciada a través de un proveedor de servicios de iniciación de pagos, corresponderá a dicho proveedor demostrar que, dentro de su ámbito de competencia, la operación fue autorizada por el usuario y registrada conforme a lo instruido por este último.
 
 El solo registro de las operaciones no bastará, necesariamente, para demostrar que esta fue autorizada por el usuario, ni que el usuario actuó con culpa o descuido que le sean imputables, sin perjuicio de la acción contra el autor del delito.
 
@@ -68,27 +68,29 @@ Si se acreditare por sentencia firme o ejecutoriada que el usuario ha participad
 
 El procedimiento para ejercer esta acción será el establecido en el Párrafo 1º del Título IV de la ley Nº 19.496, sobre protección de los derechos de los consumidores.
 
+Tratándose de un pago o transferencia electrónica iniciada a través de un proveedor de servicios de iniciación de pagos, si el responsable de la operación no autorizada es el proveedor de servicios de iniciación de pagos, éste deberá resarcir al emisor por las pérdidas sufridas o las sumas abonadas para efectuar la devolución al usuario, incluido el monto de la operación no autorizada.
+
 El emisor estará impedido de ofrecer a los usuarios la contratación de seguros cuya cobertura corresponda a riesgos o siniestros que el emisor deba asumir en conformidad a esta ley.
 
 #### Artículo 6
 
-Los emisores, operadores, comercios y otros establecimientos afiliados a un sistema de tarjetas de pago, así como las demás entidades que intervengan o presten servicios asociados a pagos y transacciones electrónicas, u otros sistemas de características similares, deberán adoptar las medidas de seguridad necesarias para prevenir la comisión de los ilícitos descritos en esta ley conforme a la legislación y normativa que les resulte aplicable, y resguardando la prestación segura del respectivo servicio en los términos señalados por el artículo 23 de la ley Nº 19.496.
+Los emisores, operadores, comercios y otros establecimientos afiliados a un sistema de tarjetas de pago, así como las demás entidades que intervengan o presten servicios asociados a pagos y transacciones electrónicas, u otros sistemas de características similares, incluyendo los proveedores de servicios de iniciación de pagos, deberán adoptar las medidas de seguridad necesarias para prevenir la comisión de los ilícitos descritos en esta ley y el resguardo de la privacidad de los datos de los titulares o usuarios de medios de pago conforme a la legislación y normativa que les resulte aplicable, y velarán por la prestación segura del respectivo servicio en los términos señalados por el artículo 23 de la ley N° 19.496.
 
 En el caso de los emisores u operadores, según corresponda, dichas medidas de seguridad deberán considerar, al menos, lo siguiente:
 
-a) Contar con sistemas de monitoreo que tengan como objetivo detectar aquellas operaciones que no corresponden al comportamiento habitual del usuario.
+- **a)** Contar con sistemas de monitoreo que tengan como objetivo detectar aquellas operaciones que no corresponden al comportamiento habitual del usuario;
 
-b) Implementar procedimientos internos para gestionar las alertas generadas por dichos sistemas de monitoreo.
+- **b)** Implementar procedimientos internos para gestionar las alertas generadas por dichos sistemas de monitoreo;
 
-c) Identificar patrones de potenciales fraudes, conforme a las prácticas de la industria y recomendaciones, los que deberán incorporarse al sistema de monitoreo de operaciones.
+- **c)** Identificar patrones de potenciales fraudes, conforme a las prácticas de la industria y recomendaciones, los que deberán incorporarse al sistema de monitoreo de operaciones;
 
-d) Establecer límites y controles en los diversos canales de atención que permitan mitigar las pérdidas por fraude. Los referidos límites y controles deberán basarse en consideraciones de riesgo objetivas, generales y no discriminatorias, en relación con la naturaleza del medio de pago y la clase de operaciones que permita efectuar.
+- **d)** Establecer límites y controles en los diversos canales de atención que permitan mitigar las pérdidas por fraude. Los referidos límites y controles deberán basarse en consideraciones de riesgo objetivas, generales y no discriminatorias, en relación con la naturaleza del medio de pago y la clase de operaciones que permita efectuar.
 
-El órgano fiscalizador competente, a través de la normativa que dicte, recomendará lo señalado en las letras a), b), c) y d) respecto de los emisores sujetos a su supervisión.
+La Comisión para el Mercado Financiero definirá a través de la normativa que dicte, las exigencias que deberán cumplir los emisores y operadores de tarjetas de pago sujetos a su supervisión de conformidad a lo dispuesto en el artículo 2 de la Ley General de Bancos, así como las medidas de seguridad que deberán adoptar los proveedores de servicios de iniciación de pagos regulados en el artículo 30 de la Ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec.
 
 La falta o deficiencia de tales medidas será considerada para la determinación de las responsabilidades correspondientes a cada uno de ellos, que pudiere perseguir en su contra el usuario u otro afectado.
 
-Lo indicado es sin perjuicio de la posibilidad de que los emisores puedan perseguir el cumplimiento de la obligación de restitución o reembolso que corresponda, por cancelaciones de cargos o devoluciones de fondos, en base a los estándares y procedimientos de seguridad exigibles a cada una de las entidades antes indicadas, de conformidad con esta ley, las demás leyes y regulaciones aplicables, teniendo presente los términos y condiciones contractuales que los vinculen, en cada caso.
+Lo indicado es sin perjuicio de la posibilidad de que los emisores puedan perseguir el cumplimiento de la obligación de restitución o reembolso que corresponda, por cancelaciones de cargos o devoluciones de fondos, en base a los estándares y procedimientos de seguridad exigibles a cada una de las entidades antes indicadas, de conformidad con esta ley, las demás leyes y regulaciones aplicables, teniendo presente los términos y condiciones contractuales que los vinculen y responsabilidad que les competen en cada caso.
 
 ## Título III
 
@@ -141,10 +143,6 @@ Los emisores deberán bloquear todos aquellos medios de pago que se encuentren i
 #### Artículo 11
 
 Las entidades emisoras señaladas en el artículo 1 de la presente ley deberán informar semestralmente, en sus respectivos sitios electrónicos, acerca del número de usuarios afectados por casos cubiertos por el presente cuerpo legal, señalando los montos involucrados y los plazos en que hayan dado respuesta o cumplimiento a sus obligaciones. Además, deberán enviar la información de manera desagregada a la Comisión para el Mercado Financiero.
-
-#### Artículo 4º
-
-El tarjetahabiente no tendrá responsabilidad por las operaciones realizadas con posterioridad al aviso o noticia entregada al emisor, sin perjuicio de la responsabilidad penal que corresponda.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

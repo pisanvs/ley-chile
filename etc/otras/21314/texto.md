@@ -228,31 +228,7 @@ b) Agrégase el siguiente inciso final:
 
 #### Artículo 3°
 
-La prestación de servicios de asesoría de inversión en Chile quedará sometida a la presente regulación. Para estos efectos se entenderá por asesorías de inversión la prestación, por cualquier medio, de servicios o la oferta de productos al público general o a sectores específicos de él, relacionados con la inversión en instrumentos financieros de cualquier especie. Quedarán excluidos de la obligación de inscripción en el Registro regulado por el presente artículo, los bancos, las compañías de seguros y reaseguros, los intermediarios de valores de oferta pública, las administradoras de fondos autorizados por ley y los administradores de cartera fiscalizados por la Comisión para el Mercado Financiero.
-
-La prestación de servicios de asesoría de inversión estará sometida a la fiscalización de la Comisión para el Mercado Financiero, la que dispondrá de todas las facultades que le confiere el decreto ley Nº 3.538, del Ministerio de Hacienda, de 1980, cuyo texto fue reemplazado por el artículo primero de la ley Nº 21.000, que crea la Comisión para el Mercado Financiero, para efectos de vigilar el cumplimiento de las disposiciones del presente artículo y las normas que en su conformidad sean dictadas.
-
-Quien se dedique de manera habitual a prestar servicios de asesoría de inversión deberá estar previamente inscrito en el Registro que mantenga al efecto la Comisión para el Mercado Financiero y sólo podrá prestar servicios mientras se encuentre registrado en él. Dicho Registro estará permanentemente a disposición del público a través de su sitio web institucional.
-
-La precitada Comisión, por norma de carácter general, establecerá los requisitos de inscripción en el Registro, los casos y procedimiento de cancelación y suspensión del mismo y, en caso que lo estime necesario para el adecuado funcionamiento del mercado financiero, determinará las exigencias que deberán cumplir los asesores de inversión en materia de solvencia, gestión de riesgos, idoneidad y conducta. Asimismo, determinará la información mínima que los asesores de inversión deberán proporcionar al público general y a la propia Comisión. Con todo, la Comisión para el Mercado Financiero estará facultada para dictar normas diferenciadas en atención a la naturaleza de los servicios o productos de inversión que ofrezcan al público, así como la cantidad de clientes que pudieren verse afectados.
-
-Por las anotaciones o modificaciones que se realicen al Registro descrito en el presente artículo no procederá el cobro de derecho o tarifa alguna.
-
-La información, propaganda o publicidad que por cualquier medio se entregue respecto de la oferta de productos o servicios relacionados con la inversión no podrá contener declaraciones, alusiones o representaciones que puedan inducir a error, o que sean equívocos o puedan causar confusión al público acerca de la naturaleza, precios, rentabilidad, rescates, liquidez, garantías, fiscalización o cualquier otra característica de tales productos o servicios o aquellas relativas a quienes los presten.
-
-La información que se entregue al público y que contenga recomendaciones de inversión deberá cumplir los requisitos que establezca la Comisión para el Mercado Financiero mediante norma de carácter general, en materia de difusión acerca del riesgo, costos, rentabilidades esperadas, conflictos de interés, y perfil profesional de los responsables de dicha información, entre otros.
-
-Sufrirán las penas de presidio menor en cualquiera de sus grados, quienes presten asesorías de inversión de manera habitual sin estar previamente inscritos en el Registro establecido en el presente artículo o cuya inscripción hubiere sido suspendida o cancelada.
-
-Por su parte, sufrirán la pena de presidio menor en sus grados mínimo a medio, los que, con el objeto de inducir a error, difundan información falsa o tendenciosa, aun cuando no persigan con ello obtener ventajas para sí o terceros.
-
-La pena señalada en el inciso precedente se aumentará en dos grados, cuando:
-
-a) La conducta descrita se realice por quien debiendo estar inscrito en el Registro no lo estuviere al momento de realizarla, o
-
-b) La conducta descrita haya afectado a más de 100 personas.
-
-Con todo, las infracciones al presente artículo por las entidades inscritas en el Registro podrán ser sancionadas de conformidad a lo dispuesto en el Título III del decreto ley Nº 3.538, del Ministerio de Hacienda, de 1980, cuyo texto fue reemplazado por el artículo primero de la ley Nº 21.000, que crea la Comisión para el Mercado Financiero.
+Derogado.
 
 #### Artículo 4°
 
