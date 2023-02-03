@@ -72,6 +72,8 @@ a. Los plazos correspondientes a los procesos y fases de postulación y selecci�
 
 Plazos de proceso postulación y selección:
 
+.
+
 Los plazos informados en el resuelvo precedente, podrán por razones de buen servicio experimentar modificaciones, las cuales serán informados oportunamente bajo el canal de comunicación más expedito tanto por el Serviu Metropolitano y/o la Seremi, sin perjuicio de la dictación del acto administrativo de regularización correspondiente.
 
 b. Este llamado contempla la modalidad de postulación colectiva, asociado a copropiedad formalizada, a través de la siguiente personalidad jurídica:
@@ -138,11 +140,15 @@ Una vez dictada la resolución exenta de proyectos seleccionados correspondiente
 
 m. El recurso máximo disponible para efectuar la selección de proyectos será el siguiente:
 
+.
+
 Este monto podrá experimentar modificaciones en atención a las asignaciones directas, a otorgar bajo las facultades delegadas mediante la resolución exenta Nº 6.042, de (V. y U.), singularizada en el Visto 25 de la presente resolución exenta, como las otorgadas por el Minvu, así como también a los recursos comprometidos en Convenios, cuando sea el caso.
 
 El Minvu, mediante resoluciones, podrá reasignar entre regiones los recursos indicados en este resuelvo, a fin de garantizar la completa asignación de los subsidios correspondientes al Programa Habitacional del año 2022.
 
 n. Considerando los recursos establecidos en el resuelvo precedente, se identifican los montos que serán destinados a la selección de: Condominios Económicos que conforman la demanda general del programa y Ampliaciones:
+
+.
 
 La distribución de montos contemplada en el cuadro anterior podrá experimentar variaciones en función de la proyección de demanda habilitada en etapa de certificación de condominios objeto del programa o en fase de habilitación de copropiedades.
 
