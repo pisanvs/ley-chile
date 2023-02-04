@@ -50,7 +50,7 @@ Para efectos de la procedencia de la garantía estatal, los estudios de educaci�
 
 2.- Ser autónomas, en los términos establecidos en la ley 18.962;
 
-3.- Que seleccionen a sus alumnos de primer año considerando el puntaje obtenido por ellos en la Prueba de Selección Universitaria (P.S.U.), cuando proceda, de acuerdo a lo dispuesto en el artículo 18º del presente reglamento;
+3.- Que seleccionen a sus alumnos de primer año considerando el puntaje obtenido por ellos en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, sobre Educación Superior, para el instrumento de acceso a la educación superior, cuando proceda, de acuerdo a lo dispuesto en el artículo 18º del presente reglamento;
 
 4.- Encontrarse acreditadas en conformidad con el sistema de aseguramiento de la calidad que establezca la ley;
 
@@ -62,7 +62,7 @@ Para efectos de la procedencia de la garantía estatal, los estudios de educaci�
 
 Asimismo, procederá la garantía estatal en el caso de créditos destinados a financiar estudios cursados en la Escuela Militar, la Escuela Naval, la Escuela de Aviación, la Escuela de Carabineros y la Escuela de Investigaciones Policiales, en cuanto dichas instituciones cumplan con los siguientes requisitos:
 
-1.- Que seleccionen a sus alumnos de primer año considerando el puntaje obtenido por ellos en la Prueba de Selección Universitaria, cuando proceda, y
+1.- Que seleccionen a sus alumnos de primer año considerando el puntaje obtenido por ellos en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, cuando proceda, y
 
 2.- Que se encuentren acreditadas en conformidad con el sistema de aseguramiento de la calidad que establezca la ley.
 
@@ -76,7 +76,7 @@ b.- Forma de utilización del aporte fiscal indirecto contemplado en el artícul
 
 c.- Clasificación de Riesgo de la respectiva institución, si la hubiere, y/o sus estados financieros auditados que permitan verificar que las instituciones cuentan con respaldo suficiente para solventar las garantías por deserción académica a que se refiere el artículo 14º de la ley Nº 20.027.
 
-d.- Puntajes mínimos exigidos en la Prueba de Selección Universitaria para la selección de sus alumnos.
+d.- Puntajes mínimos exigidos en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, para la selección de sus alumnos.
 
 e.- Estadísticas de deserción por carrera, actualizadas al año anterior.
 
@@ -210,23 +210,23 @@ Asimismo, la Comisión deberá implementar en conjunto con las instituciones de 
 
 #### Artículo 18º
 
-Para efectos de lo dispuesto en el artículo 9º de la ley Nº 20.027, se considerará que el alumno tiene mérito académico suficiente para acceder a un crédito garantizado por el Estado en cuanto cumpla con los requisitos académicos que la respectiva institución de educación superior haya establecido para estos efectos. Tratándose de alumnos de primer año deberá considerarse, en todo caso, el puntaje promedio obtenido en la Prueba de Selección Universitaria aplicada por el Consejo de Rectores de Universidades Chilenas, o su equivalencia en notas de enseñanza media, de acuerdo a la tabla que anualmente fije el Departamento de Medición y Registro de la Universidad de Chile, aprobada por el Consejo de Rectores de Universidades Chilenas.
+Para efectos de lo dispuesto en el artículo 9º de la ley Nº 20.027, se considerará que el alumno tiene mérito académico suficiente para acceder a un crédito garantizado por el Estado en cuanto cumpla con los requisitos académicos que la respectiva institución de educación superior haya establecido para estos efectos. Tratándose de alumnos de primer año deberá considerarse, en todo caso, el puntaje promedio obtenido en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, o su equivalencia en notas de enseñanza media, de acuerdo a la tabla que anualmente fije el Departamento de Medición y Registro de la Universidad de Chile, o la entidad mandatada para dichos efectos.
 
 Sin perjuicio de lo anterior, las instituciones de educación superior participantes del sistema deberán exigir, a lo menos, los siguientes requisitos mínimos, de carácter académico, para la postulación de sus estudiantes:
 
 a) En el caso de centros de formación técnica e institutos profesionales:
 
-Para alumnos que postulen a primer año de estudios, acreditar un promedio de notas durante la enseñanza media equivalente a 475 puntos en el Sistema de Selección Universitaria, de acuerdo a la tabla de equivalencias que aplique el Departamento de Medición y Registro de la Universidad de Chile, o acreditar un puntaje mínimo de 475 puntos promedio en la Prueba de Selección Universitaria, considerándose para estos efectos sólo las pruebas de lenguaje y de matemáticas.
+Para alumnos que postulen a primer año de estudios, acreditar un promedio de notas durante la enseñanza media equivalente a 510 puntos en el Sistema de Acceso a la Educación Superior, o la entidad mandatada para dichos efectos, o acreditar un puntaje mínimo de 485 puntos promedio en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, considerándose para estos efectos sólo las pruebas obligatorias vigentes.
 
 Tratándose de alumnos que al momento de la postulación registren dos o más semestres cursados en una institución de educación superior, acreditar un avance curricular progresivo equivalente al 70% del total de créditos o cursos inscritos en los últimos dos semestres que hubiesen cursado y concluido en la institución. Tratándose de alumnos que al momento de la postulación sólo registren un semestre cursado y concluido en su institución, el porcentaje de avance curricular señalado anteriormente se considerará sobre el total de cursos o créditos inscritos en dicho semestre.
 
 b) En el caso de universidades e instituciones señaladas en el artículo 8 de la ley Nº 20.027:
 
-Para alumnos que postulen a primer año del programa o plan de estudios respectivo, acreditar un puntaje mínimo de 475 puntos promedio en la Prueba de Selección Universitaria, considerándose para estos efectos sólo las pruebas de lenguaje y de matemáticas.
+Para alumnos que postulen a primer año del programa o plan de estudios respectivo, acreditar un puntaje mínimo de 485 puntos promedio en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, considerándose para estos efectos sólo las pruebas obligatorias vigentes.
 
 A su vez, no será exigible el puntaje mínimo de Prueba de Selección Universitaria a aquellos alumnos que cumplan con los requisitos exigidos en la respectiva Ley de Presupuestos para la obtención de la Beca de Excelencia Académica.
 
-Se exceptúa de la exigencia de puntaje en la Prueba de Selección Universitaria a aquellos alumnos no videntes que, dada su condición, no han podido rendir dicha prueba de selección. Asimismo, no será exigible la rendición de la Prueba de Selección Universitaria para aquellos alumnos que han cursado al menos los últimos dos años de su enseñanza media en el extranjero. En ambos casos, los alumnos postulantes deberán contar con un promedio de notas de enseñanza media equivalente a 475 puntos en el Sistema de Selección Universitaria, de acuerdo a la tabla de equivalencias que aplique el Departamento de Medición y Registro de la Universidad de Chile.
+Se exceptúa de la exigencia de puntaje en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, a aquellas personas ciegas que no han podido rendirla. Asimismo, no será exigible la rendición de la Prueba de Selección Universitaria para aquellos alumnos que han cursado al menos los últimos dos años de su enseñanza media en el extranjero. En ambos casos, los alumnos postulantes deberán contar con un promedio de notas de enseñanza media equivalente a 510 puntos en el Sistema de Acceso a la Educación Superior, o la entidad mandatada para dichos efectos.
 
 Tratándose de alumnos que al momento de la postulación registren dos o más semestres cursados en una universidad, acreditar un avance curricular progresivo equivalente al 70% del total de créditos o cursos inscritos en los últimos dos semestres que hubiesen cursado y concluido en la institución. En el caso de alumnos que al momento de la postulación sólo registren un semestre cursado y concluido en su institución, el porcentaje de avance curricular señalado anteriormente se considerará sobre el total de cursos o créditos inscritos en dicho semestre.
 
@@ -236,7 +236,7 @@ a) Para aquellos alumnos que renuevan su crédito en la misma institución de ed
 
 b) Para aquellos alumnos que renueven su crédito en una institución distinta a aquella en la que estudiaron durante el período anterior, será necesario distinguir:
 
-I. Alumnos que ingresan a primer año: Cumplir con los requisitos académicos mínimos, de acceso al crédito, debiendo tener rendida la Prueba de Selección Universitaria antes de la fecha de cambio de institución y como máximo dentro de los tres años anteriores a la obtención del crédito, teniendo 475 puntos promedio en ella, para acceder a una universidad; o promedio de notas de enseñanza media equivalente a 475 puntos en el Sistema de Selección Universitaria, de acuerdo a la tabla de equivalencias que aplique el Departamento de Medición y Registro de la Universidad de Chile para acceder a un instituto profesional o centro de formación técnica. No será aplicable esta exigencia a los alumnos que originalmente obtuvieron el crédito como alumno de curso superior en una universidad.
+I. Alumnos que ingresan a primer año: Cumplir con los requisitos académicos mínimos, de acceso al crédito, debiendo tener rendida la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, antes de la fecha de cambio de institución y como máximo dentro de los tres años anteriores a la obtención del crédito, teniendo 485 puntos promedio en las pruebas obligatorias vigentes, para acceder a una universidad; o promedio de notas de enseñanza media equivalente a 510 puntos en el Sistema de Acceso a la Educación Superior, de acuerdo a la tabla de equivalencias que aplique el Departamento de Medición y Registro de la Universidad de Chile para acceder a un instituto profesional o centro de formación técnica. No será aplicable esta exigencia a los alumnos que originalmente obtuvieron el crédito como alumno de curso superior en una universidad.
 
 II. Alumnos que ingresan a curso superior: Cumplir con los requisitos académicos que exija la institución de educación superior respectiva, para otorgarle su garantía académica.
 
@@ -907,6 +907,18 @@ Para estos efectos, los deudores deberán postular a este beneficio, dentro del 
 transitorio.- Respecto de las cuotas pagadas por el deudor entre enero de 2012 y el mes inmediatamente anterior a aquel en que se inicie la aplicación del subsidio a la tasa de interés y, eventualmente, del beneficio de contingencia a la renta si se hubiere solicitado y concedido, los diferenciales de cuota pagados en exceso generarán un excedente que será descontado en las cuotas siguientes que corresponda pagar al deudor. Para efectos de lo anterior, este excedente será descontado en el mismo número de cuotas que lo generaron y sólo se hará efectivo respecto de las cuotas que el deudor pague de manera oportuna, de acuerdo con lo establecido en el contrato de apertura de línea de crédito correspondiente. En el caso de existir excedente que no pueda ser descontado en el mismo número de cuotas que lo generaron, este remanente deberá ser descontado en las cuotas siguientes que el deudor pague de manera oportuna, hasta efectuar la devolución total de lo pagado en exceso.
 
 Este procedimiento se aplicará respecto de todos aquellos deudores que al último día hábil del mes inmediatamente anterior a aquel en que se inicie la aplicación del beneficio de reducción de cuota y, eventualmente, de contingencia a la renta, se encuentren al día en el pago de sus mensualidades.
+
+#### Artículo quinto
+
+transitorio: Para la determinación del cumplimiento del puntaje promedio mínimo exigido como requisito de mérito académico suficiente para acceder a este crédito, o para renovarlo realizando un cambio de carrera a primer año con puntajes obtenidos durante los últimos tres años anteriores a la obtención del crédito, dispuesto en el artículo 18 del presente reglamento, se aplicarán las siguientes reglas respecto de las pruebas y períodos que se indican:
+
+a) Los puntajes de los estudiantes que rindieron la Prueba de Selección Universitaria (PSU) o la Prueba de Transición (PDT) en diciembre del año 2020 se considerarán en su escala original y no deberán ser convertidos.
+
+Para los estudiantes de ese mismo conjunto que, con la escala original, obtuvieron un puntaje igual o superior a 475 puntos promedio de las pruebas obligatorias vigentes para cada una de las pruebas de acceso mencionadas, se considerará que de todas formas cumplen el requisito de mérito académico suficiente para acceder a este crédito.
+
+b) Los puntajes de los estudiantes que rindieron la PDT en diciembre del año 2021 deberán ser convertidos a la nueva escala de puntajes definida por el Comité de Acceso al Subsistema Universitario, establecido en la ley N° 21.091, sobre Educación Superior.
+
+Con todo, a los estudiantes que, con la escala original, obtuvieron un puntaje igual o superior a 475 puntos promedio de las pruebas obligatorias de Comprensión Lectora y Matemática, pero que tras la conversión no alcanzan el nuevo puntaje promedio mínimo de 485 puntos, se les considerará que de todas formas cumplen el requisito de mérito académico suficiente.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
 
