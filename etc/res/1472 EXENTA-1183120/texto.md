@@ -56,31 +56,21 @@ ESTABLECE MEDIDAS SANITARIAS PARA EL TRASLADO DE PERSONAS A LA ISLA DE PASCUA.
 
 2. De las facultades de la autoridad sanitaria. La autoridad sanitaria u otra persona mandatada por ella podrá fijar un punto de control sanitario en las instalaciones de puertos y aeropuertos de la Isla de Pascua, y proporcionar dispositivos de detección para SARS-CoV-2 para las personas que ingresen al territorio insular.
 
-3. De la certificación del esquema de vacunación completo contra SARS-CoV-2. Dispóngase, que las personas que no tengan residencia regular en la Isla de Pascua deberán exhibir el certificado que acredite su esquema de vacunación completo contra SARS-CoV-2, emitido por el país en el que fueron administradas las respectivas vacunas.
+3. De los protocolos. La determinación y ejecución de los protocolos para la toma de muestra, la realización del test PCR o la prueba de antígenos, la interpretación de los resultados, el seguimiento sanitario y la exhibición documental, serán de competencia de la autoridad sanitaria.
 
-Las personas que se trasladen desde el territorio nacional deberán exhibir el certificado previo a su embarque en el punto de control sanitario fijado en el puerto o aeropuerto, según corresponda.
-
-Las personas que se trasladan desde el extranjero deberán exhibir el certificado en el punto de control sanitario del territorio insular.
-
-4. De los protocolos. La determinación y ejecución de los protocolos para la toma de muestra, la realización del test PCR o la prueba de antígenos, la interpretación de los resultados, el seguimiento sanitario y la exhibición documental, serán de competencia de la autoridad sanitaria.
-
-5. De la obligación de las empresas de transporte. Dispóngase, que las empresas de transporte que efectúen el traslado de pasajeros a la Isla de Pascua serán responsables de revisar el certificado que acredite el esquema completo de vacunación contra SARS-CoV-2, en la forma que lo determine la autoridad sanitaria.
-
-El incumplimiento de lo dispuesto en este numeral será sancionado de acuerdo al Libro X del Código Sanitario.
-
-6. De la denegación de ingreso a la Isla de Pascua. La autoridad sanitaria podrá denegar el ingreso a la Isla de Pascua a las personas que no sean residentes de forma regular en la Isla de Pascua e incumplan lo dispuesto en la presente resolución.
+4. De la denegación de ingreso a la Isla de Pascua. La autoridad sanitaria podrá denegar el ingreso a la Isla de Pascua a las personas que no sean residentes de forma regular en la Isla de Pascua e incumplan lo dispuesto en la presente resolución.
 
 Las empresas de transporte que efectúen el traslado de las referidas personas a la Isla de Pascua serán responsables de devolverlas inmediatamente a los puntos de embarque.
 
 ### II. DISPOSICIONES FINALES
 
-7. Reitérase, a la autoridad sanitaria la instrucción de solicitar el auxilio de la fuerza pública para el cumplimiento de las medidas sanitarias impuestas por esta resolución y por aquellas que le sirven de antecedente.
+5. Reitérase, a la autoridad sanitaria la instrucción de solicitar el auxilio de la fuerza pública para el cumplimiento de las medidas sanitarias impuestas por esta resolución y por aquellas que le sirven de antecedente.
 
-8. Instrúyase, a las autoridades sanitarias la difusión de las medidas sanitarias por los medios de comunicación masivos.
+6. Instrúyase, a las autoridades sanitarias la difusión de las medidas sanitarias por los medios de comunicación masivos.
 
-9. Déjase constancia que el cumplimiento de las medidas dispuestas por la presente resolución serán fiscalizadas por la autoridad sanitaria y su incumplimiento sancionado según lo dispuesto en el Libro X del Código Sanitario, el Código Penal y la ley N° 20.393.
+7. Déjase constancia que el cumplimiento de las medidas dispuestas por la presente resolución serán fiscalizadas por la autoridad sanitaria y su incumplimiento sancionado según lo dispuesto en el Libro X del Código Sanitario, el Código Penal y la ley N° 20.393.
 
-10. Déjase constancia que la presente resolución reemplaza la resolución exenta Nº 1.057, de 2022, del Ministerio de Salud.
+8. Déjase constancia que la presente resolución reemplaza la resolución exenta Nº 1.057, de 2022, del Ministerio de Salud.
 
 Anótese, comuníquese y publíquese.- Ximena Aguilera Sanhueza, Ministra de Salud.
 
