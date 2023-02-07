@@ -38,17 +38,17 @@ Las licitaciones y contratos a que se refieren estas Bases Administrativas Gener
 
 4- Las aclaraciones a que se refiere el Art 5º de las presentes Bases Administrativas Generales, si las hubiere.
 
-5- Bases y Disposiciones Técnicas mínimas entregadas por la Dirección para la Licitación.
+5- Términos de referencia, incluyendo los estudios pertinentes, tales como estudios de suelo, levantamientos topográficos, entre otros, si corresponde, así como los requisitos técnicos del proyecto entregados por la Dirección.
 
-6- Las Especificaciones Técnicas Especiales aceptadas por la Dirección, correspondientes a la obra que se contrata.
+6- El Proyecto aceptado por la Dirección y sus especificaciones técnicas.
 
-7- Los Estudios de Suelos y Levantamiento Topográfico, si fuese el caso.
+7- Los documentos y antecedentes de la propuesta adjudicada.
 
-8- El Proyecto aceptado por la Dirección.
+8- Suprimido.
 
-9- Los documentos y antecedentes de la propuesta adjudicada.
+9- Suprimido.
 
-10- Términos de Referencia.
+10- Suprimido.
 
 ART.3 DISCREPANCIA EN LOS ANTECEDENTES
 
@@ -58,17 +58,17 @@ En caso de existir discrepancia entre los distintos documentos de una licitació
 
 2) Las Bases Administrativas Especiales.
 
-3) Los Términos de Referencia.
+3) Términos de referencia, incluyendo los estudios pertinentes, tales como estudios de suelo, levantamientos topográficos, entre otros, si corresponde, así como los requisitos técnicos del proyecto entregados por la Dirección.
 
-4) El Proyecto aceptado por la Dirección.
+4) El Proyecto aceptado por la Dirección y sus especificaciones técnicas.
 
 5) Los documentos y antecedentes de la propuesta adjudicada.
 
-6) El Estudio de Suelos y Levantamiento Topográfico, si fuese el caso.
+6) Suprimido.
 
-7) Las Especificaciones Técnicas Especiales correspondientes a la obra.
+7) Suprimido.
 
-8) Disposiciones Técnicas mínimas, si las hubiere.
+8) Suprimido.
 
 ART.4 ENTREGA Y VENTA DE ANTECEDENTES
 
@@ -392,9 +392,9 @@ DESCUENTO PORCENTUAL TOTAL:
 
 Será la suma de los descuentos porcentuales obtenidos por antecedentes, proyecto y plazo, según los aspectos a), b) y c).
 
-ART.15 MODIFICACIONES AL PROYECTO
+ART.15 OBSERVACIONES AL PROYECTO
 
-La Dirección podrá efectuar observaciones a los proyectos de los proponentes durante el período de evaluación, en cuyo caso éstos deberán comprometerse a incorporarlas en su totalidad, mediante un documento denominado "Carta - compromiso" que le proporcionará la Dirección, en donde se especifiquen las modificaciones que se introducen al proyecto, y se dejará constancia de que ellas no significarán un mayor costo para esta Institución. Este documento se enviará al contratista, a más tardar, tres días antes del acto de apertura económica de la propuesta, debiendo este último pronunciarse respecto a su aceptación en dicho acto, quedando constancia de ello en el acta respectiva.
+La Dirección podrá efectuar observaciones a los proyectos de los proponentes durante el período de evaluación, que sean coherentes con los términos de referencia suministrados o con la normativa aplicable, no pudiendo tratarse de complementaciones, incorporaciones o deducciones que difieran de los requisitos previamente establecidos en los antecedentes suministrados por la Dirección. En cuyo caso los proponentes deberán comprometerse a incorporar dichas observaciones en su totalidad, mediante un documento denominado "Carta - compromiso" que le proporcionará la Dirección, en donde se especifiquen las precisiones que se introducen al proyecto, dejando constancia que estas no significarán una modificación del precio ofertado. Este documento se enviará al contratista, a más tardar, cinco días antes del acto de apertura económica de la propuesta, debiendo este último pronunciarse respecto a su aceptación en dicho acto, quedando constancia de ello en el acta respectiva.
 
 La Carta - Compromiso suscrita por el contratista y la Dirección pasará a formar parte integrante del contrato.
 
@@ -444,7 +444,7 @@ ART.19 MODIFICACIONES AL CONTRATO
 
 Durante la vigencia del contrato, el contratista no podrá introducir unilateralmente modificaciones al proyecto. En caso de ser necesarias estas modificaciones, serán de mutuo acuerdo entre el contratista y la autoridad que adjudicó el contrato, y siempre que signifiquen una mejoría en la calidad de la obra y no aumenten su plazo total, su costo o los precios unitarios.
 
-Sólo en casos calificados por la Dirección Nacional o por la Institución Mandante, cuando proceda, se podrán introducir modificaciones, esto es, el reemplazo de parte de la obras contenidas en el proyecto por obras nuevas o extraordinarias, las cuales no podrán superar el 30% del valor del contrato original, actualizado en la forma señalada en el inciso tercero del artículo 105º del Reglamento para Contratos de Obras Públicas. Las nuevas condiciones que se acuerden se establecerán en un convenio que requerirá de la aprobación de las autoridades que adjudicaron el contrato.
+Sólo en casos calificados por la Dirección Nacional respectiva del Ministerio de Obras Públicas o por la Institución Mandante, cuando proceda, se podrán introducir modificaciones de obras, esto es, la incorporación de obras nuevas o extraordinarias, la modificación de las obras previstas o el empleo de materiales no considerados. Las modificaciones de obras o la incorporación de las obras extraordinarias no podrán superar el 30% del valor del contrato original, actualizado en la forma señalada en el inciso cuarto del artículo 105 del decreto supremo Nº 75, de 2004, del Ministerio de Obras Públicas, Reglamento para Contratos de Obras Públicas. Las nuevas condiciones y los plazos que procedan se establecerán en un convenio suscrito con el contratista, que será resuelto por la autoridad que corresponda conforme con el decreto supremo Nº 1.093, de 2003, del Ministerio de Obras Públicas, Reglamento de Montos de Contratos de Obra Pública. Lo anterior, sin perjuicio de lo establecido a falta de acuerdo en el inciso tercero del citado artículo 105, del decreto supremo Nº 75, de 2004, del Ministerio de Obras Públicas.
 
 ART.20 PLAZOS
 
@@ -464,7 +464,7 @@ La modificación de dichos plazos parciales, se llevará a efecto con la debida 
 
 ART.20.2 MODIFICACIONES DEL PLAZO TOTAL
 
-Si durante la ejecución de la obra se produjeran atrasos parciales ocasionados por fuerza mayor o por caso fortuito, el contratista deberá presentar a la Inspección Fiscal su justificación por escrito antes de que transcurran 30 días desde que se hayan producido, pasado este período no se aceptará justificación alguna. El Director General de Obras Públicas estudiará el informe presentado por la Inspección Fiscal y las razones invocadas por el contratista para justificar el atraso y resolverá o propondrá, a la autoridad que corresponda, la aceptación o rechazo de la ampliación del plazo total del contrato.
+Si durante la ejecución de la obra se produjeran atrasos parciales ocasionados por fuerza mayor o por caso fortuito, el contratista deberá presentar a la Inspección Fiscal su justificación por escrito antes de que transcurran 30 días desde que se hayan producido, período tras el cual no se aceptarán justificaciones. La Dirección Nacional respectiva del Ministerio de Obras Públicas estudiará el informe presentado por la Inspección Fiscal y las razones invocadas por el contratista para justificar el atraso y resolverá la aceptación o rechazo de la ampliación del plazo total del contrato. En caso de tratarse de un contrato adjudicado por la Dirección General de Obras Públicas, será esta autoridad quien califique tal circunstancia.
 
 ART.21 GARANTÍAS
 
@@ -478,9 +478,9 @@ El Ministerio de Obras Públicas pagará al contratista por etapas ejecutadas me
 
 El monto de cada estado de pago corresponderá a un porcentaje sobre el valor del contrato, calculado de acuerdo a lo definido en las Bases Administrativas Especiales y al que se aplicará el reajuste señalado en el artículo 24º de las presentes Bases Administrativas Generales, si procede.
 
-Para pagar el estado de pago presentando, el contratista deberá acompañar el "Acta de Recepción Provisional de la Etapa" correspondiente y la garantía especial señalada en el Art. 23º de las presentes Bases Administrativas Generales.
+Para pagar el estado de pago presentado, el contratista deberá acompañar el "Acta de Recepción Provisional de la Etapa" correspondiente.
 
-Sin prejuicio de lo indicado en los incisos precedentes, se podrá establecer en las Bases Administrativas Especiales, para el caso de contratos o etapas de los mismos con plazo superior a 45 días, siempre que se cuente con las disponibilidades presupuestarias suficientes, el pago de hasta el 80 % del avance físico del contrato o de la etapa correspondiente, según proceda. Este pago será a requerimiento del contratista, acompañando la certificación pertinente de la Inspección Fiscal, no siendo necesario la presentación de la boleta de garantía señalada en el Art. 23º.
+Sin perjuicio de lo indicado en los incisos precedentes, se podrá establecer en las Bases Administrativas Especiales, para el caso de contratos o etapas de los mismos con plazo superior a 45 días, siempre que se cuente con las disponibilidades presupuestarias suficientes, el pago de hasta el 80% del avance físico del contrato o de la etapa correspondiente, según proceda. Este pago será a requerimiento del contratista, acompañando la certificación pertinente de la Inspección Fiscal.
 
 El mencionado pago no podrá corresponder a períodos inferiores a 30 días, y se imputará al valor de la etapa respectiva.
 
@@ -488,11 +488,9 @@ Sólo se pagará anticipos por avances físicos que correspondan a obras ejecuta
 
 #### Artículo 23
 
-GARANTÍAS ESPECIALES
+RETENCIONES
 
-En estos contratos no regirá lo dispuesto en el Art. 158º del Reglamento para Contratos de Obras Públicas. Sin embargo, para que el contratista pueda percibir el pago de un estado de pago, deberá presentar una boleta de garantía bancaria por el 5% del estado de pago, incluido el reajuste correspondiente, si este procediera y con un plazo de vigencia equivalente al plazo pendiente del contrato, más 6 meses, salvo que en las Bases Administrativas Especiales se señale una vigencia diferente.
-
-Estas boletas servirán como garantía de la correcta ejecución de los trabajos y del cumplimento de todas las obligaciones del contrato hasta la recepción provisoria del total de la obra contratada.
+De cada estado de pago se retendrá un 5% del valor de la etapa ejecutada que le da origen, incluido su reajuste. Estas retenciones no estarán afectas a ningún tipo de reajuste y podrán canjearse por boletas de garantía, o pólizas de seguro, cuyo plazo de vigencia será equivalente al plazo pendiente del contrato, más 12 meses, salvo que en las Bases Administrativas Especiales se señale una vigencia diferente. No se harán retenciones cuando el contratista entregue junto a los estados de pago boletas de garantía o pólizas de seguro, por el 5% del valor de la etapa y su reajuste, a pagar en dicho estado de pago. Estas retenciones, boletas o pólizas servirán como garantía de la correcta ejecución de los trabajos y del cumplimento de todas las obligaciones del contrato hasta la recepción provisoria del total de la obra contratada.
 
 #### Artículo 24
 
