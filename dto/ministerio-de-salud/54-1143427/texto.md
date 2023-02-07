@@ -28,7 +28,7 @@ Decreto
 
 Califícase como establecimientos urbanos de desempeño difícil, para el período comprendido entre los años 2020 a 2022, ambos inclusive, a los establecimientos urbanos de atención primaria de salud municipal que se señalan a continuación.
 
-Sus dotaciones suman 587.266 horas semanales, lo que constituye el 24,96% del total de horas semanales de la dotación urbana nacional, ascendente a 2.352.807.- horas semanales. Ellas darán derecho a la asignación correspondiente, en los porcentajes que a continuación se indica:
+Sus dotaciones suman 587.580 horas semanales, lo que constituye el 24,97% del total de horas semanales de la dotación urbana nacional, ascendente a 2.353.121.- horas semanales. Ellas darán derecho a la asignación correspondiente, en los porcentajes que a continuación se indica:
 
 A.- PRIMER TRAMO: 15% de Asignación de Desempeño Difícil
 
@@ -40,11 +40,13 @@ B.- SEGUNDO TRAMO: 10% de Asignación de Desempeño Difícil
 
 C.- TERCER TRAMO: 5% de Asignación de Desempeño Difícil
 
-470.597.- horas semanales, que completan el 24,96% del total de las horas dotación en establecimientos urbanos de Atención Primaria de Salud Municipal. Sumado a los tramos anteriores representan el 100% de la dotación considerada para el beneficio.
+470.911.- horas semanales, que completan el 24,97% del total de las horas dotación en establecimientos urbanos de Atención Primaria de Salud Municipal. Sumado a los tramos anteriores representan el 99,88% de la dotación considerada para el beneficio.
+
+> **Nota.** La letra c) del artículo 1 del Decreto 39, Salud, publicado el 07.02.2023, reemplaza el número de horas semanales correspondiente a los establecimientos urbanos de Atención Primaria de Salud Municipal que indica, contenidos en el presente artículo, de acuerdo a lo dispuesto en la tabla inserta de la citada norma.
 
 #### Artículo 2
 
-Concédese una asignación de desempeño difícil de 15% al personal que labora en los Servicios de Atención Primaria de Urgencia Urbanos, que se señalan en las siguientes comunas, correspondiente a 139.120.- horas semanales, que representan el 4,41% del total de horas de la dotación de Atención Primaria de Salud Municipal del país (3.154.991.- horas semanales).
+Concédese una asignación de desempeño difícil de 15% al personal que labora en los Servicios de Atención Primaria de Urgencia Urbanos, que se señalan en las siguientes comunas, correspondiente a 139.736.- horas semanales, que representan el 4,43% del total de horas de la dotación de Atención Primaria de Salud Municipal del país (3.156.556.- horas semanales).
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Paula Daza Narbona, Ministra de Salud (S).
 
