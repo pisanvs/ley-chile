@@ -148,13 +148,13 @@ El Ministerio de Educación supervisará el funcionamiento del sistema de acredi
 
 #### Artículo 12°
 
-Se considerará que el alumno tiene una calidad académica que lo hace merecedor de crédito cuando cumpla con los requisitos que la respectiva universidad haya establecido para tales efectos, los que en todo caso deberán considerar el puntaje promedio obtenido en la Prueba de Admisión a la Universidad aplicada por el Consejo de Rectores de las Universidades Chilenas. Asimismo, este requisito en ningún caso podrá ser inferior a un puntaje de 475 puntos promedio de las Pruebas de Lenguaje y Comunicación y de Matemáticas.
+Se considerará que el alumno tiene una calidad académica que lo hace merecedor de crédito cuando cumpla con los requisitos que la respectiva universidad haya establecido para tales efectos, los que en todo caso deberán considerar el puntaje promedio obtenido en la Prueba de Acceso a la Educación Superior, o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley Nº 21.091, sobre Educación Superior, para el instrumento de acceso a la Educación Superior. Asimismo, este requisito en ningún caso podrá ser inferior a un puntaje de 485 puntos promedio de las pruebas obligatorias vigentes.
 
 Las universidades observarán los siguientes criterios básicos, de carácter académico, para el otorgamiento de créditos provenientes de sus fondos solidarios:
 
 1.- Preferentemente, se otorgará crédito a los alumnos regulares de carreras conducentes a un título técnico o profesional o al grado de licenciado, o a un título profesional y licenciatura, así como a los matriculados en ciclos básicos que tienen una continuidad en aquéllas.
 
-2.- El requisito de puntaje mínimo en la prueba de admisión a las Universidades a que se refiere el inciso anterior, será exigible durante todo el primer año académico de cada alumno.
+2.- El requisito de puntaje mínimo en la Prueba de Acceso a la Educación Superior a las Universidades a que se refiere el inciso anterior, será exigible durante todo el primer año académico de cada alumno.
 
 3.- Los alumnos podrán optar al crédito durante el período normal de duración de la carrera y dentro de un 50% de incremento de dicho período.
 
@@ -189,6 +189,18 @@ Las universidades ajustarán los requerimientos de ayuda de sus estudiantes a la
 #### Artículo 16°
 
 El formulario único de acreditación socioeconómica a ser aplicado en cada universidad de las que otorgan créditos universitarios, a partir del año 1995, a que se refiere el artículo 5° del presente reglamento, se aprobará mediante resolución del Subsecretario de Educación.
+
+#### Artículo transitorio
+
+Para la determinación del cumplimiento del puntaje promedio mínimo exigido como requisito de calidad académica para otorgar el Fondo Solidario del Crédito Universitario, dispuesto en el artículo 12 del presente reglamento, se aplicarán las siguientes reglas respecto de las pruebas y períodos que se indican:
+
+a) Los puntajes de los estudiantes que rindieron la Prueba de Selección Universitaria (P.S.U.) o la Prueba de Transición (P.D.T.) en diciembre del año 2020 se considerarán en su escala original y no deberán ser convertidos.
+
+Para los estudiantes de ese mismo conjunto que, con la escala original, obtuvieron un puntaje igual o superior a 475 puntos promedio de las pruebas obligatorias vigentes para cada una de las pruebas de acceso mencionadas, se considerará que de todas formas cumplen el requisito académico referido en el presente reglamento.
+
+b) Los puntajes de los estudiantes que rindieron la P.D.T. en diciembre del año 2021 deberán ser convertidos a la nueva escala de puntajes definida por el Comité de Acceso al Subsistema Universitario, establecido en la ley N° 21.091, sobre Educación Superior.
+
+Con todo, los estudiantes que, con la escala original, obtuvieron un puntaje igual o superior a 475 puntos promedio de las pruebas obligatorias de Comprensión Lectora y Matemática, pero, tras la conversión no alcanzan el nuevo puntaje promedio mínimo de 485 puntos, se considerará que de todas formas cumplen el requisito académico referido en el presente reglamento.
 
 Anótese, tómese razón, publíquese e insértese en la recopilación de leyes y reglamentos de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Sergio Molina Silva, Ministro de Educación.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
