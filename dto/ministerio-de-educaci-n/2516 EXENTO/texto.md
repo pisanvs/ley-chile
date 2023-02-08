@@ -48,9 +48,7 @@ Inciso Derogado.
 
 El proceso de titulación se deberá iniciar dentro del plazo máximo de 3 años, contados desde la fecha de egreso del estudiante.
 
-La práctica profesional tendrá una duración mínima de 180 horas en todas las especialidades que señalan las Bases Curriculares de la Formación Diferenciada Técnico - Profesional, sin consideración de un máximo de horas, para el año 2020 y 2021.
-
-Los establecimientos educacionales podrán autorizar, excepcionalmente, a realizar un plan de práctica profesional que contemple horas realizadas en la estrategia de alternancia, las que deberán corresponder a horas desarrolladas en la empresa, órgano de la Administración del Estado, servicio público o empresa pública, y que se encuentre directamente relacionadas con la especialidad, siempre que, en total, la suma de horas que contemple este plan sea superior a las 180 horas.
+La práctica profesional tendrá una duración mínima de 360 horas y máxima de 540 horas.
 
 Para los estudiantes de formación dual la práctica profesional tendrá una duración mínima de 180 horas y máxima de 360 horas. Para ello deberá justificar en su Plan de Estudio, que 180 horas de clases se realizaron en la Formación DUAL en centros de práctica.
 
@@ -74,7 +72,7 @@ El Plan de Práctica y los respectivos Informes mencionados en este artículo fo
 
 #### Artículo 7º
 
-El establecimiento educacional deberá realizar al menos una visita en terreno a cada estudiante durante el periodo de práctica profesional, en las que deberá entrevistarse con el representante del centro de práctica y con el estudiante, dejando constancia de la visita. Esta visita podrá realizarse mediante mecanismos virtuales, dejando siempre registro y evidencia de la supervisión efectuada.
+El establecimiento educacional deberá realizar al menos una visita en terreno a cada estudiante durante el periodo de práctica profesional, en las que deberá entrevistarse con el representante del centro de práctica y con el estudiante, dejando constancia de la visita.
 
 En aquellos casos que un estudiante efectúe su práctica profesional fuera del país o de la región de origen del establecimiento educacional, este último deberá:
 
@@ -98,8 +96,6 @@ b) Estudiantes egresados, que cuenten con un contrato de trabajo, y que se hayan
 
 c) Los estudiantes con más de tres años de egresados, que se hayan desempeñado en actividades propias de su especialidad por 720 horas cronológicas.
 
-d) Estudiantes egresados, que logren acreditar el cumplimiento de 180 horas de práctica profesional.
-
 Para lo cual se matricularán, presentarán certificado de las actividades realizadas y se someterán al proceso regular utilizado por el establecimiento educacional para evaluar el cumplimiento de la práctica profesional.
 
 En aquellos casos que a través de las Bases Curriculares se haya cambiado el nombre de origen de la especialidad del egresado de más de tres años, éste se titulará con el nombre de la especialidad vigente.
@@ -120,7 +116,7 @@ Cada establecimiento educacional Técnico Profesional deberá contar con un Regl
 
 a) Duración de la Práctica expresada en horas cronológicas.
 
-b) Criterios y procedimientos para la elaboración, evaluación y aprobación del Plan de Práctica. La práctica profesional realizada durante el periodo 2020 y 2021, podrá ser efectuada, en todo o en parte, bajo la modalidad a distancia, si así se establece entre el establecimiento educacional, estudiante y lugar de práctica, debiendo ser registrada en el respectivo instrumento de práctica.
+b) Criterios y procedimientos para la elaboración, evaluación y aprobación del Plan de Práctica.
 
 c) Procedimientos de supervisión e instrumentos de registro del proceso de la práctica profesional, que deberá incluir, entre otros aspectos, el número mínimo de visitas del Profesor Tutor, el Plan de Práctica, número de reuniones con el representante del Centro de Práctica y con los alumnos y alumnas en práctica, y número de informes de supervisión por parte del establecimiento.
 
@@ -168,9 +164,7 @@ Sin perjuicio de lo anterior, aquellos establecimientos educacionales que al 31 
 
 #### Artículo segundo
 
-transitorio: Para el año escolar 2022, la práctica profesional tendrá una duración mínima de 180 horas en todas las especialidades que señalan las Bases Curriculares de la Formación Diferenciada Técnico-Profesional, y podrá ser efectuada, en todo o en parte, bajo la modalidad a distancia, si así se establece entre el establecimiento educacional, el estudiante y el lugar donde aquella se realice, debiendo ser registrada en el respectivo instrumento de práctica.
-
-Asimismo y sólo para el año escolar 2022, podrá reconocerse como práctica profesional, la realizada por los estudiantes egresados de un establecimiento educacional que imparte el nivel de Enseñanza Media Formación Diferenciada Técnico-Profesional, que hayan obtenido su Licencia de Enseñanza Media, sin la titulación de técnico de nivel medio, y que se encuentren realizando sus estudios en un Centro de Formación Técnica acreditado, Centro de Formación Técnica Estatal o Instituto Profesional acreditado, podrán convalidar dicha práctica profesional, siempre que se haya ejecutado en la misma especialidad desarrollada en la educación media, para efectos del reconocimiento de la práctica profesional.
+transitorio: Para el año escolar 2023, la práctica profesional tendrá una duración mínima de 180 horas en todas las especialidades que señalan las Bases Curriculares de la Formación Diferenciada Técnico-Profesional, y podrá ser efectuada, en todo o en parte, bajo la modalidad a distancia, si así se establece entre el establecimiento educacional, el estudiante y el lugar donde aquella se realice, debiendo ser registrada en el respectivo instrumento de práctica.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Yasna Provoste Campillay, Ministra de Educación.
 
