@@ -116,45 +116,65 @@ D. Antecedentes relativos al servicio:
 
 La solicitud de inscripción deberá especificar además la siguiente información según el tipo de servicio y de vehículo de que se trate:
 
-a) Servicios urbanos de transporte público de pasajeros:
+a) Servicios urbanos de transporte público
 
-a.1) Servicios urbanos de transporte público de
+de pasajeros:
 
-pasajeros prestados con buses, trolebuses,
+a.1) Servicios urbanos de transporte
+
+público de pasajeros prestados
+
+con buses, trolebuses,
 
 minibuses y taxis colectivos:
 
-i) nombre y número de la línea y sus variantes;
+i) nombre y número de la línea y sus
 
-ii) descripción del recorrido troncal y de cada
+variantes;
 
-una de las variantes, indicándose:
+ii) descripción del recorrido troncal
+
+y de cada una de las variantes,
+
+indicándose:
 
 - trazado;
 
-- horario de atención por día de la semana;
+- horario de atención por día de
 
-- frecuencia por período del día y días de la
+la semana;
 
-semana y especificación de la longitud del
+- frecuencia por período del
 
-circuito completo (ida más regreso)
+día y días de la semana
+
+y especificación de la
+
+longitud del circuito
+
+completo(ida más regreso)
 
 expresada en kilómetros;
 
 - origen y destino del servicio, y
 
-- características especiales que identifiquen
+- características especiales que
 
-a las variantes, cuando corresponda.
+identifiquen a las variantes,
+
+cuando corresponda.
 
 - Tarifa a cobrar por el servicio.
 
-iii) ubicación del o de los terminales autorizados
+iii) ubicación del o de los terminales
 
-y documentación que acredite que el interesado
+autorizados y documentación que
 
-se encuentra habilitado para su uso, cuando corresponda.
+acredite que el interesado
+
+se encuentra habilitado para su
+
+uso, cuando corresponda.
 
 Las frecuencias a que alude el punto ii) anterior son aquellas que el interesado en prestar el servicio se compromete a ofrecer.
 
@@ -172,37 +192,63 @@ ii) Vigencia de autorización de uso de banda.
 
 b) Servicios rurales de transporte público de pasajeros prestados con buses, minibuses o taxis colectivos:
 
-- itinerarios;
+- itinerarios, esto es, recorrido
 
-- especificación de la longitud del circuito
+en el que se detallan las ciudades
 
-completo (ida más regreso) expresada en
+o localidades por las que transita;
 
-kilómetros;
+- especificación de la longitud
+
+del circuito completo (ida más
+
+regreso) expresada en kilómetros;
 
 - origen y destino del servicio;
 
-- horario de atención por día de la semana, y
+- horario de atención por día de la
 
-- ubicación del o de los terminales autorizados
+semana, y
 
-y documentación que acredite que el interesado
+- ubicación del o de los terminales
 
-se encuentra habilitado para su uso, cuando
+autorizados y documentación que
 
-corresponda.
+acredite que el interesado
+
+se encuentra habilitado para
+
+su uso, cuando corresponda.
 
 - Tarifa a cobrar por el servicio.
 
-c) Servicios interurbanos de transporte público de
+c) Servicios interurbanos de transporte
 
-pasajeros prestados con buses:
+público de pasajeros prestados
 
-- itinerarios;
+con buses:
+
+- itinerarios, esto es, recorrido en el que se detallan las ciudades o localidades por las que transita;
 
 - ubicación del o de los terminales autorizados y documentación que acredite que el interesado se encuentra habilitado para su uso, cuando corresponda, y ubicación de las oficinas de venta de pasajes.
 
 - Tarifa a cobrar por el servicio.
+
+- Un plan operacional, en caso de que el itinerario de un servicio requiera operar desde Paradas Auxiliares de Transporte Interurbano, que contendrá al menos lo siguiente:
+
+i) Origen-destino.
+
+ii) Itinerario.
+
+iii) Horarios de operación.
+
+iv) Placas patentes únicas de los buses que harán uso de la Parada Auxiliar de Transporte Interurbano.
+
+v) Ubicación de la Parada Auxiliar de Transporte Interurbano y documentación que acredite la autorización de uso, emitida de la Municipalidad respectiva o del Ministerio de Obras Públicas, según corresponda.
+
+vi) Nombre y tipo de mecanismo tecnológico que utilizará para el control del plan operacional.
+
+El plan operacional deberá presentarse mediante un formulario cuyo formato será determinado por el Ministerio de Transportes y Telecomunicaciones.
 
 > **Nota.** El Nº 5 del DTO 174, Transportes, publicado el 08.02.2000, dispone que las modificaciones introducidas al presente artículo entrarán a regir 30 días después de su publicación.
 
@@ -808,11 +854,33 @@ Los buses que atiendan servicios interurbanos deberán ser del tipo pullman de u
 
 #### Artículo 57°
 
-Los Secretarios Regionales con los informes que se señalan en el artículo 53°, podrán fijar los trazados que deberán utilizar los servicios interurbanos en la zona urbana, atendiendo a sus orígenes y destinos y terminales que éstos utilizan. También podrá la autoridad antes aludida, para un uso más racional de las vías, determinar horarios para la circulación de los vehículos con que se prestan los mencionados servicios en los trazados que fije.
+Los Secretarios Regionales con los informes que se señalan en el artículo 53°, podrán fijar los trazados que deberán utilizar los servicios interurbanos en la zona urbana, atendiendo a sus orígenes y destinos y terminales o Paradas Auxiliares de Transporte Interurbano que éstos utilizan. También podrá la autoridad antes aludida, para un uso más racional de las vías, determinar horarios para la circulación de los vehículos con que se prestan los mencionados servicios en los trazados que fije.
 
 #### Artículo 58°
 
-En ciudades de más de 50.000 habitantes, la locomoción colectiva interurbana deberá contar con terminales que cumplan con las disposiciones que les sean aplicables.
+En ciudades de más de 50.000 habitantes, la locomoción colectiva interurbana deberá contar con terminales que cumplan con las disposiciones que les sean aplicables. Sin perjuicio de la obligación de contar con terminales en ciudades de más de 50.000 habitantes, algunos itinerarios del servicio inscrito podrán, con el propósito exclusivo de recoger o dejar pasajeros, operar desde una Parada Auxiliar de Transporte Interurbano.
+
+Para efectos del presente reglamento se entenderá por Parada Auxiliar de Transporte Interurbano a aquel lugar ubicado en la vía pública cuya función es la de iniciar o terminar un viaje con el propósito exclusivo de recoger o dejar pasajeros.
+
+Para operar desde una Parada Auxiliar de Transporte Interurbano el responsable del servicio o el interesado, según sea el caso, deberá presentar ante el Secretario Regional respectivo, el plan operacional descrito en el artículo 8º del presente reglamento. Una vez que dicho plan esté autorizado e inscrito en el Registro Nacional, se deberá dar cabal cumplimiento a éste.
+
+El mecanismo tecnológico señalado en el punto vi) de la letra D. del literal c) del artículo 8º del presente reglamento, al menos deberá contar con las herramientas y funcionalidades necesarias para controlar el plan operacional, conforme esté autorizado, midiendo tiempos de permanencia, control del recorrido, placas patentes únicas, horario de operación, entre otros. La información obtenida deberá quedar a disposición de la Subsecretaría de Transportes por un plazo de, al menos, 120 días corridos, con el objeto de efectuar los controles y fiscalizaciones respectivas.
+
+Las características de las Paradas Auxiliares de Transporte Interurbano serán determinadas por el Ministerio de Transportes y Telecomunicaciones mediante resolución fundada, la que deberá considerar, al menos, los siguientes aspectos:
+
+i) Lugares de detención, con el propósito exclusivo de recoger o dejar pasajeros.
+
+ii) Establecimiento de áreas de restricción y/o áreas donde podrán emplazarse; considerando aspectos como la intermodalidad y multimodalidad con otros modos y/o servicios de transporte, y ponderando los impactos que las Paradas Auxiliares de Transporte Interurbano puedan generar en su entorno, entre otros.
+
+iii) Análisis operacional de los accesos, teniendo en consideración las condiciones de accesibilidad universal para las personas usuarias de los servicios, las medidas de mitigación que deban efectuarse, entre otros.
+
+iv) Criterios de la fijación de vías dentro de las áreas urbanas, las que deberán considerar trazados directos que conduzcan a vías expresas, autopistas, carreteras o similares, atendido lo dispuesto en el artículo 57 del presente reglamento, además de tener en consideración aspectos como mantener la fluidez en la circulación de peatones, ciclistas y vehículos motorizados, entre otros.
+
+v) Porcentaje o cantidad máxima de itinerarios de un servicio que puedan operar desde la Parada Auxiliar de Transporte Interurbano.
+
+Una vez presentados los antecedentes, relativos al plan operacional señalado en el artículo 8º, ante la Secretaría Regional Ministerial respectiva, ésta deberá elaborar un informe técnico que dé cuenta que la Parada Auxiliar de Transporte Interurbano cumple con los requisitos establecidos en la resolución a la que se refiere el inciso anterior.
+
+En las Paradas Auxiliares de Transporte Interurbano no podrá realizarse venta presencial de pasajes, la que solo podrá efectuare en línea, en oficinas establecidas o en terminales.
 
 En ciudades de menos de 50.000 habitantes la locomoción colectiva interurbana deberá disponer a lo menos de una oficina de venta de pasajes próxima al lugar de estacionamiento donde inicien el servicio; este último, autorizado por la Municipalidad competente.
 
