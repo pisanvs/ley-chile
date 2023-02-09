@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Otórgase, por una sola vez, una bonificación por retiro voluntario al personal asistente de la educación que se desempeñe en establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal; en los establecimientos regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, del año 1980, y, asimismo, a los trabajadores regidos por el Código del Trabajo que se desempeñen en los Departamentos de Administración de Educación Municipal (DAEM), en las Direcciones de Educación Municipal (DEM) y al personal que cumple funciones relacionadas con la administración del servicio educacional en las referidas corporaciones municipales, quienes, para los efectos de esta ley, se someterán a las mismas disposiciones que los asistentes de la educación, y que, en el período comprendido entre el 1 de julio de 2014 y el 31 de diciembre de 2025, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, siempre que comuniquen su decisión de renunciar voluntariamente al total de horas que sirven en los organismos antes señalados, en los plazos y según las normas contenidas en esta ley y en el reglamento.
+Otórgase, por una sola vez, una bonificación por retiro voluntario al personal asistente de la educación que se desempeñe en establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal, incluidos aquellos establecimientos de educación parvularia financiados vía transferencia de fondos; en los establecimientos regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, del año 1980, y, asimismo, a los trabajadores regidos por el Código del Trabajo que se desempeñen en los Departamentos de Administración de Educación Municipal (DAEM), en las Direcciones de Educación Municipal (DEM) y al personal que cumple funciones relacionadas con la administración del servicio educacional en las referidas corporaciones municipales, quienes, para los efectos de esta ley, se someterán a las mismas disposiciones que los asistentes de la educación, y que, en el período comprendido entre el 1 de julio de 2014 y el 31 de diciembre de 2025, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, siempre que comuniquen su decisión de renunciar voluntariamente al total de horas que sirven en los organismos antes señalados, en los plazos y según las normas contenidas en esta ley y en el reglamento.
 
 La bonificación por retiro voluntario será de cargo del empleador y ascenderá a un mes de remuneración imponible por cada año de servicio prestado en las entidades mencionadas en el inciso anterior, con un máximo de once meses.
 
@@ -38,9 +38,9 @@ a) En primer término, los trabajadores regidos por el Código del Trabajo que s
 
 b) En segundo lugar, aquellos de mayor edad.
 
-c) En igualdad de condiciones de edad, se priorizarán aquellos con mayor número de años de servicio en la institución empleadora.
+c) En igualdad de condiciones de edad, se priorizarán aquellos que hayan tenido un mayor número de días de licencias médicas cursadas durante los trescientos sesenta y cinco días inmediatamente anteriores al inicio del período de postulación. Para estos efectos, la institución empleadora deberá informar a la Subsecretaría de Educación el número de días de licencias médicas.
 
-d) De persistir la igualdad, se priorizarán aquellos que hayan tenido un mayor número de días de licencias médicas cursadas durante los trescientos sesenta y cinco días inmediatamente anteriores al inicio del período de postulación. Para estos efectos, la institución empleadora deberá informar a la Subsecretaría de Educación el número de días de licencias médicas.
+d) De persistir la igualdad, se priorizarán aquellos con mayor número de años de servicio en la institución empleadora.
 
 Si aplicados todos los criterios de prioridad anteriores no fuere posible asignar un cupo, resolverá el Subsecretario de Educación.
 
@@ -185,6 +185,12 @@ El reglamento que trata este artículo deberá dictarse dentro de los noventa d�
 #### Artículo 15
 
 No obstante lo establecido en el inciso primero del artículo 6, el trabajador podrá solicitar que se ponga término a la relación laboral por causas justificadas tales como enfermedad grave u otras, desde el momento en que se le notifique la resolución que lo determine como beneficiario. Caso en el cual, el empleador deberá informar de dicha situación al Ministerio de Educación, el que por su parte deberá determinar la fecha en que se pagarán los beneficios correspondientes a la bonificación por retiro voluntario. Durante el período entre que se pone término a la relación laboral y el pago efectivo de la bonificación, el trabajador no percibirá remuneración alguna.
+
+#### Artículo 16
+
+En el marco de esta ley, el Ministerio de Educación en cada uno de los procesos anuales podrá asignar beneficiarios así como establecer la transferencia de recursos a un mismo sostenedor, a través de uno o más actos administrativos, los cuales deberán contener el nombre y demás datos que permitan individualizar tales personas beneficiarias.
+
+Asimismo, el Ministerio podrá solicitar cualquier tipo de información, antecedentes o datos, a organismos y entidades públicas o privadas, para verificar el cumplimiento de los requisitos exigidos para la aplicación de la presente ley, las que deberán entregar su respuesta dentro del plazo de veinte días hábiles. Para los mismos fines, podrá celebrar convenios de traspaso de información con dichos organismos y entidades. En ambos casos, deberá darse pleno cumplimiento a lo establecido en la ley N° 19.628, sobre protección de la vida privada, o la que la reemplace, y resguardar la información, según corresponda.
 
 DISPOSICIONES TRANSITORIAS
 

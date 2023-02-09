@@ -114,6 +114,14 @@ Con todo, se aplicarán sin necesidad de autorización judicial las causales de 
 
 En el caso de los directores con derecho a fuero, la participación en sus asociaciones será considerada actividad gremial para los efectos de esta ley y sus reglamentos.
 
+#### Artículo 8 quáter
+
+El sostenedor respectivo deberá conceder a los dirigentes nacionales del Colegio de Profesores los permisos necesarios para ausentarse de sus labores, con el objeto de cumplir sus funciones gremiales fuera del lugar de trabajo, los que no podrán ser inferiores a 22 horas semanales por cada dirigente de carácter nacional, ni a 11 horas por cada dirigente de una directiva de carácter regional, provincial o comunal.
+
+El tiempo de los permisos semanales será acumulable por cada dirigente dentro del mes calendario correspondiente.
+
+El tiempo que abarcaren los permisos otorgados a los directores de asociaciones se entenderá trabajado para todos los efectos, manteniendo el derecho a remuneración.
+
 #### Artículo 9º
 
 En cada establecimiento, para los efectos de esta ley se entenderá por año laboral docente el período comprendido entre el primer día hábil del mes en que se inicia el año escolar y el último del mes inmediatamente anterior a aquel en que se inicie el año escolar siguiente.
@@ -1270,7 +1278,7 @@ Para estos efectos se entenderá por establecimiento educacional de alta concent
 
 En escuelas o liceos cárceles se entenderá, sólo para efectos de determinar el derecho a percibir la asignación señalada en el inciso primero, que la concentración de alumnos prioritarios es igual al 60%.
 
-En caso de que el beneficiario se encuentre en el tramo profesional inicial o temprano solo podrá percibirla hasta por el término de cuatro años desde que nace su derecho a hacerla exigible, en cualquiera de dichos tramos.
+En caso de que el beneficiario se encuentre en el tramo profesional inicial o temprano solo podrá percibirla hasta por el término de cuatro años desde que nace su derecho a hacerla exigible, en cualquiera de dichos tramos. Si al término de los cuatro años se encuentran pendientes los resultados de la aplicación de los instrumentos establecidos en el artículo 19 K, habiendo sido rendidos por el profesional, la percepción de la asignación podrá extenderse hasta la fecha en que obtenga dichos resultados, con un máximo de un año.
 
 En aquellos establecimientos educacionales con una concentración de alumnos prioritarios igual o superior al 80%, los profesionales de la educación que se encuentren en los tramos profesional avanzado, experto I y experto II, recibirán por concepto de esta asignación un monto fijo mensual adicional de $60.000.-, para un contrato de 44 horas cronológicas semanales. Para aquellos profesionales de la educación que tengan una designación o contrato inferior a 44 horas cronológicas semanales, este monto se pagará proporcionalmente a las horas establecidas en las respectivas designaciones o contratos. Esta suma se reajustará en la misma proporción y oportunidad que el monto fijo señalado en el inciso primero.
 
@@ -1494,7 +1502,7 @@ i) Por pérdida sobreviniente de algunos de los requisitos de incorporación a u
 
 j) Por supresión de las horas que sirvan, en conformidad con lo dispuesto en el artículo 22 de esta ley.
 
-k) Por acogerse a la renuncia anticipada conforme a lo establecido en el inciso final del artículo 70.
+k) Derogada.
 
 l) Por disposición del sostenedor, a proposición del director del establecimiento en el ejercicio de la facultad contemplada en el inciso tercero letra a) del artículo 7° bis de esta ley, tratándose de los docentes mal evaluados en virtud de lo dispuesto en el artículo 70 de esta ley. Para estos efectos, los establecimientos que contaren con menos de 20 docentes podrán poner término anualmente a la relación laboral de un docente.
 

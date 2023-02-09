@@ -244,7 +244,7 @@ Excepcionalmente, en caso de que no hubiere una universidad del Estado en la reg
 
 Para estos efectos se entenderá por tutela la labor de asesoría y apoyo que tiene por objeto fomentar y fortalecer la mejora y el desarrollo de las capacidades académicas, administrativas y financieras del Centro de Formación Técnica tutelado.
 
-Cada Centro de Formación Técnica estatal deberá presentarse, en un plazo máximo de seis años contado desde que comience sus actividades académicas, al proceso de acreditación que establece la ley N° 20.129 o el instrumento que lo reemplace, y deberá ser acreditada, al menos, en las áreas institucional y de vinculación con el medio. En caso que no se acreditare, se procederá a la designación de un administrador provisional, de acuerdo a la ley Nº 20.800.
+Cada Centro de Formación Técnica estatal deberá presentarse, en un plazo máximo de diez años contado desde que comience sus actividades académicas, al proceso de acreditación que establece la ley N° 20.129 o el instrumento que lo reemplace, y deberá ser acreditada, al menos, en las áreas institucional y de vinculación con el medio. En caso que no se acreditare, se procederá a la designación de un administrador provisional, de acuerdo a la ley Nº 20.800.
 
 Con todo, el Centro de Formación Técnica, que gozará de plena autonomía por el solo ministerio de la ley, deberá elaborar su proyecto de desarrollo institucional en el plazo de un año desde su entrada en funcionamiento. El Consejo Nacional de Educación administrará un procedimiento de supervigilancia para los Centros de Formación Técnica creados por esta ley, el que se desarrollará hasta que estos se presenten al procedimiento de acreditación de acuerdo a la ley N° 20.129 o el instrumento que la reemplace.
 

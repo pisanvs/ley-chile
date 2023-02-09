@@ -1262,13 +1262,15 @@ DEROGADO.
 
 #### Artículo 54
 
-El Subsecretario de Educación podrá, mediante resolución fundada y previo informe
+El Subsecretario de Educación, mediante resolución fundada y previo informe favorable de la Superintendencia de Educación, podrá ordenar que se deje sin efecto la medida de retención de la subvención que proceda por el incumplimiento del pago de cotizaciones previsionales por parte de los sostenedores de establecimientos educacionales que se hubiere producido por aplicación del artículo 7 de la ley N° 19.609, que permite efectuar anticipos del Fondo Común Municipal, en los casos que indica, o en virtud de otras normas.
 
-favorable de la Superintendencia
+Dicha resolución sólo procederá cuando la suspensión del derecho a percibir la subvención comprometa gravemente la continuidad del servicio educativo o la garantía por parte del Estado del derecho a la educación, y no podrá extenderse más allá del término del respectivo período escolar.
 
-de Educación, ordenar que se deje sin efecto la medida de retención de la subvención que proceda por el incumplimiento del pago de cotizaciones previsionales por parte de los sostenedores de establecimientos educacionales, en aplicación de la letra f) del artículo 6º de este cuerpo legal. Dicha resolución sólo procederá cuando la suspensión del derecho a percibir la subvención comprometa gravemente la garantía por parte del Estado del derecho a la educación establecido en el artículo 19 Nº 10 de la Constitución Política de la República, y no podrá extenderse más allá del término del respectivo período escolar.
+El Ministerio de Educación estará facultado para pagar directamente a las instituciones previsionales correspondientes los montos retenidos.
 
-En los casos en que se dicte la resolución a que se refiere el inciso anterior, el Ministerio de Educación retendrá de la subvención mensual un monto equivalente a las cotizaciones impagas hasta el mes anterior, el que será transferido al sostenedor cuando éste demuestre haber efectuado dichas cotizaciones.
+Un reglamento dictado a través del Ministerio de Educación definirá los requisitos, condiciones de aplicación, procedimiento, mecanismos para evitar el pago de deudas ya saldadas y cualquier otra norma necesaria para la aplicación de lo establecido en este artículo.
+
+El reglamento señalado en el inciso anterior deberá ser dictado e ingresado a la Contraloría General de la República para su toma de razón, dentro de los sesenta días siguientes a la publicación de esta ley en el Diario Oficial.
 
 #### Artículo 54 bis
 

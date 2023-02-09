@@ -128,6 +128,12 @@ Podrán acceder a la bonificación los profesionales de la educación del sector
 
 Asimismo, los profesionales de la educación señalados en el inciso anterior tendrán derecho a presentar la solicitud para acceder al bono que se establece en la ley N° 20.305, de conformidad con el artículo 4° de esta ley.
 
+#### Artículo 8°
+
+En el marco de esta ley, el Ministerio de Educación, en cada uno de los procesos anuales, podrá asignar beneficiarios, así como establecer la transferencia de recursos a un mismo sostenedor, a través de uno o más actos administrativos, los cuales deberán contener el nombre y demás datos que permita individualizar tales personas beneficiarias.
+
+El Ministerio podrá solicitar cualquier tipo de información, antecedentes o datos a organismos y entidades públicas o privadas para verificar el cumplimiento de los requisitos exigidos para la aplicación de la presente ley, las que deberán entregar su respuesta dentro del plazo de veinte días hábiles. Para los mismos fines, podrá celebrar convenios de traspaso de información con tales organismos y entidades. En ambos casos, deberá darse pleno cumplimiento a lo establecido en la ley N° 19.628, sobre protección de la vida privada, o la que la reemplace, y resguardar la información, según corresponda.
+
 ## Artículos transitorios
 
 #### Artículo primero

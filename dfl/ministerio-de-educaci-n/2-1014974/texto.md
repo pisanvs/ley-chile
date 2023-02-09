@@ -182,11 +182,17 @@ Los establecimientos propiciarán iniciativas de apoyo biopsicosociales y de ate
 
 En aquellos casos en que exista prescripción médica de un especialista y con estricto cumplimiento de los protocolos del Ministerio de Salud, el establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
 
+Los proyectos educativos de los establecimientos educacionales particulares pagados deberán contemplar programas de inclusión escolar que incorporen los ajustes necesarios y apoyos pertinentes, tales como estrategias de diversificación de la enseñanza y adecuaciones curriculares, entre otros, para el acceso y permanencia de estudiantes con discapacidad o necesidades educativas especiales permanentes.
+
+En ningún caso se podrá cancelar la matrícula ni suspender o expulsar alumnos por presentar discapacidad o necesidades educativas especiales permanentes.
+
 Sin embargo, en los establecimientos reconocidos oficialmente por el Estado, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
 
 En el caso que en la misma comuna o localidad no exista otro establecimiento de igual nivel o modalidad, lo señalado en el inciso anterior no podrá afectar de manera alguna el derecho a la educación.
 
 Ni el Estado, ni los establecimientos educacionales podrán discriminar arbitrariamente en el trato que deben dar a los estudiantes y demás miembros de la comunidad educativa.
+
+> **Nota.** El artículo tercero transitorio de la Ley 21544, publicada el 09.02.2023, indica que los "ajustes necesarios" a los que se refieren los incisos noveno y décimo del presente artículo, incorporados por el número 1° del artículo 10° de la citada ley, son las medidas de adecuación del ambiente físico, social y de actitud a las carencias específicas de las personas con discapacidad o necesidades educativas especiales permanentes que, de forma eficaz y práctica y sin que suponga una carga desproporcionada para los establecimientos, faciliten la accesibilidad o participación de una persona con discapacidad o necesidades educativas especiales permanentes en igualdad de condiciones que el resto de las y los alumnos del mismo establecimiento, en virtud de lo dispuesto en la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad. Agrega, que, además, se deberán promover formas adecuadas de asistencia y apoyo a las personas con discapacidad o necesidades educativas especiales permanentes para asegurar su acceso a la información en todo el proceso educativo. Asímismo, se deberán facilitar las medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo su desarrollo académico y social, de conformidad con el objetivo de la plena inclusión.
 
 #### Artículo 12
 
@@ -216,7 +222,13 @@ f) Monto y condiciones de cobro por participar en el proceso, y
 
 g) Proyecto educativo del establecimiento.
 
+Los procesos de admisión de los establecimientos educacionales particulares pagados deberán asegurar, a partir del primer nivel de transición, que el 5% de los cupos sean prioritarios para estudiantes con discapacidad o necesidades educativas especiales permanentes, siempre que se presenten suficientes postulaciones para cubrir dichos cupos. Para tener dicha prioridad los apoderados deberán presentar evaluaciones médicas o certificado de discapacidad, de acuerdo a lo dispuesto en el Título II de la ley N° 20.422, para acreditar que el postulante presenta una discapacidad o necesidades educativas especiales permanentes. Lo señalado en este inciso es sin perjuicio de lo dispuesto en el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+
+Asimismo, los procesos de admisión de los establecimientos particulares pagados deberán priorizar a el o los hermanos de alumnos matriculados que presenten discapacidad o necesidades educativas especiales permanentes, para que puedan cursar sus estudios en estos establecimientos.
+
 Los directamente afectados por una acción u omisión que importe discriminación arbitraria en el ámbito educacional podrán interponer la acción de no discriminación arbitraria establecida en la ley Nº20.609, sin perjuicio de lo establecido en la Convención Relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza.
+
+> **Nota.** El artículo tercero transitorio de la Ley 21544, publicada el 09.02.2023, dispone que la modificación dispuesta por el número 2 del artículo 10° de la citada ley al presente artículo, que intercala los incisos tercero y cuarto nuevos, referidas a los procesos de admisión de los establecimientos particulares pagados, comenzarán a regir de acuerdo a las siguientes reglas: a) Para el año escolar 2026, deberán asegurar que al menos un cupo por nivel sea prioritario para estudiantes con discapacidad o necesidades educativas especiales permanentes. b) Para el año escolar 2027, al menos un cupo por curso deberá ser prioritario para estudiantes con discapacidad o necesidades educativas especiales permanentes. c) Para el año escolar 2028, se deberá dar cumplimiento a lo dispuesto en los incisos precedentemente señalados.
 
 #### Artículo 14
 
@@ -311,6 +323,8 @@ La educación especial o diferencial es la modalidad del sistema educativo que d
 Se entenderá que un alumno presenta necesidades educativas especiales cuando precisa ayudas y recursos adicionales, ya sean humanos, materiales o pedagógicos, para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación.
 
 La modalidad de educación especial y los proyectos de integración escolar contarán con orientaciones para construir adecuaciones curriculares para las escuelas especiales y aquellas que deseen desarrollar proyectos de integración.
+
+Los establecimientos educacionales particulares pagados no podrán cobrar un mayor valor de matrícula ni un arancel superior a estudiantes con discapacidad o necesidades educativas especiales permanentes en razón de los ajustes necesarios y apoyos pertinentes para su acceso y permanencia en el establecimiento.
 
 Se efectuarán adecuaciones curriculares para necesidades educacionales específicas, tales como las que se creen en el marco de la interculturalidad, de las escuelas cárceles y de las aulas hospitalarias, entre otras.
 
