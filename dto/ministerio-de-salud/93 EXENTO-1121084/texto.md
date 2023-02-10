@@ -48,6 +48,10 @@ Norma ISO 25841 "Condones femeninos - Exigencias y métodos de ensayo"; Clase II
 
 Dispóngase que, a contar de la entrada en vigencia del presente decreto, los productos señalados en el numeral anterior solo podrán ser fabricados, importados, comercializados o distribuidos en el país si cuentan con la certificación correspondiente de cumplimiento de las normas que les son aplicables, otorgada por una entidad autorizada por el Instituto de Salud Pública para ello.
 
+#### Artículo 2º bis
+
+Los productos y elementos de uso médico que se señalan en el artículo primero y que se incorporen al sistema de verificación de conformidad, quedan sometidos a verificación lote a lote.
+
 #### Artículo 3°
 
 La fiscalización y control del cumplimiento de las disposiciones del presente decreto, del Reglamento de Control de Productos y Elementos de Uso Médico y del artículo 111 del Código Sanitario se efectuará por el Instituto de Salud Pública de Chile y por las Secretarías Regionales Ministeriales de Salud, en sus respectivas áreas de competencia, de conformidad con las disposiciones del Libro X del Código Sanitario.
