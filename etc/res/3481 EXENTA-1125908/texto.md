@@ -44,7 +44,7 @@ La fuente tipográfica para el texto será Arial tamaño 8, mayúscula, con exce
 
 .
 
-6º.- Los distintivos para los vehículos señalados en el resuelvo cuarto, sin perjuicio de los señalados en los decretos supremos Nº 24 de 1989 y Nº 19 de 2001 y en las resoluciones exentas Nº 431 de 2001 y Nº 1.019 de 2004, citados en Visto, cuyos certificados de revisión técnica y de emisiones contaminantes sean emitidos electrónicamente, serán rectangulares redondeados de 5 cm de alto por 10 cm de ancho y deberán contener el Nº del distintivo, la placa patente del vehículo, el tipo de servicio y la vigencia. Adicionalmente, deberá disponer de un espacio de 3 cm x 3 cm para el código QR.
+6º.- Los distintivos para los vehículos señalados en el resuelvo cuarto, sin perjuicio de los señalados en los decretos supremos Nº 24 de 1989 y Nº 19 de 2001, citados en Visto, cuyos certificados de revisión técnica y de emisiones contaminantes sean emitidos electrónicamente, serán rectangulares redondeados de 5 cm de alto por 10 cm de ancho y deberán contener el Nº del distintivo, la placa patente del vehículo, el tipo de servicio y la vigencia. Adicionalmente, deberá disponer de un espacio de 3 cm x 3 cm para el código QR.
 
 .
 
@@ -53,6 +53,16 @@ En el recuadro superior del distintivo se indicará el título "Revisión Técni
 La fuente tipográfica para el texto será Arial mayúscula tamaño 10, con excepción del título "Revisión Técnica", y la consignación de la placa patente y la vigencia de la revisión que deberá ir en negrilla, tamaño 16, mientras que el tipo de servicio deberá consignarse en negrilla, tamaño 14.
 
 7º.- La marca gráfica PRT deberá insertarse en color como fondo en los Certificados de Revisión Técnica, de Verificación de Emisiones y distintivos cuando corresponda, y deberá sujetarse a las indicaciones dispuestas en el Manual de Imagen Corporativa.
+
+8°.- Los distintivos del número 2 del decreto supremo N° 19, de 2001, citado en el Visto, tendrán las mismas características y formato que las señaladas en el resuelvo N° 6, pero la primera y última fila tendrán de fondo los colores siguientes:
+
+- **a)** rojo para los vehículos que deben efectuar su control de emisión de contaminantes en los meses de enero a abril;
+
+- **b)** verde si el control debe realizarse en los meses de mayo a agosto, y
+
+- **c)** azul si el control corresponde a los meses de septiembre a diciembre de cada año.
+
+9°.- Los distintivos a que se refiere el artículo 13° del decreto supremo N° 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, para los vehículos motorizados que emplean gas natural comprimido o gas licuado de petróleo como combustible, tendrán las mismas características y formato que las señaladas en el resuelvo N° 6, salvo por la primera y última fila, que tendrán de fondo el color naranjo y deberán indicar en la primera fila el título "Revisión Técnica GNC" o "Revisión Técnica GLP", según se trate de vehículos que emplean gas natural comprimido o gas licuado de petróleo, respectivamente.
 
 > **Nota.** La letra b del artículo único de la Resolución 2283 Exenta, Transportes, publicada el 03.09.2019, modifican la presente norma en el sentido de reemplazar en la figura correspondiente al anverso del documento cuyas imágenes se muestran en el resuelvo 2º, y en las de los documentos cuyas imágenes aparecen en los resuelvos 4º y 5º, la expresión "Firmado Digitalmente por" por "Firma Electrónica Avanzada".
 
