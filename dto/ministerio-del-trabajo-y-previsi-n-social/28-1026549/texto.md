@@ -96,9 +96,9 @@ El empleador no podrá acceder a la bonificación a la contratación respecto de
 
 3. De la bonificación para el cuidado de niños o niñas menores.
 
-A. Para el cuidado de niños y niñas menores de dos años de edad. Se entregará una bonificación mensual de $200.000 (doscientos mil pesos) a la trabajadora dependiente o independiente, que cumpla con los requisitos señalados en este numeral, por cada niño o niña menor de dos años que tenga a su cuidado. Esta bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular la trabajadora hasta el día 30 de septiembre de 2022. Igualmente, podrá postular a esta bonificación el trabajador, dependiente o independiente, a quien se le hubiera entregado de manera exclusiva el cuidado personal de un niño o niña menor de dos años, por sentencia judicial o por un equivalente jurisdiccional, por escritura pública o por acta extendida ante un oficial del Registro Civil, anotada al margen de la inscripción de nacimiento del niño o niña menor de dos años.
+A. Para el cuidado de niños y niñas menores de dos años de edad. Se entregará una bonificación mensual de $200.000 (doscientos mil pesos) a la trabajadora dependiente o independiente, que cumpla con los requisitos señalados en este numeral, por cada niño o niña menor de dos años que tenga a su cuidado. Esta bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular la trabajadora hasta el día 31 de marzo de 2023. Igualmente, podrá postular a esta bonificación el trabajador, dependiente o independiente, a quien se le hubiera entregado de manera exclusiva el cuidado personal de un niño o niña menor de dos años, por sentencia judicial o por un equivalente jurisdiccional, por escritura pública o por acta extendida ante un oficial del Registro Civil, anotada al margen de la inscripción de nacimiento del niño o niña menor de dos años.
 
-B. Para el cuidado de niños y niñas con edades entre dos años y menores de cinco años. Se entregará una bonificación mensual de $200.000 (doscientos mil pesos) a la trabajadora, dependiente o independiente, que cumpla con los requisitos señalados en este numeral, por cada niño o niña de dos años y menor a cinco años que tenga a su cuidado. Esta bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular la trabajadora hasta el día 30 de septiembre de 2022. Igualmente, podrá postular a esta bonificación el trabajador, dependiente o independiente, a quien se le hubiera entregado de manera exclusiva el cuidado personal de un niño o niña igual o mayor a dos años y menor a cinco años, por sentencia judicial o por un equivalente jurisdiccional, por escritura pública o por acta extendida ante un oficial del Registro Civil, anotada al margen de la inscripción de nacimiento del niño o niña causante.
+B. Para el cuidado de niños y niñas con edades entre dos años y menores de cinco años. Se entregará una bonificación mensual de $200.000 (doscientos mil pesos) a la trabajadora, dependiente o independiente, que cumpla con los requisitos señalados en este numeral, por cada niño o niña de dos años y menor a cinco años que tenga a su cuidado. Esta bonificación se devengará, desde que se conceda, por tres meses, pudiendo postular la trabajadora hasta el día 31 de marzo de 2023. Igualmente, podrá postular a esta bonificación el trabajador, dependiente o independiente, a quien se le hubiera entregado de manera exclusiva el cuidado personal de un niño o niña igual o mayor a dos años y menor a cinco años, por sentencia judicial o por un equivalente jurisdiccional, por escritura pública o por acta extendida ante un oficial del Registro Civil, anotada al margen de la inscripción de nacimiento del niño o niña causante.
 
 C. Normas comunes a las bonificaciones de los literales A. y B.
 
@@ -160,7 +160,7 @@ Los y las trabajadores(as) mientras se encuentren haciendo uso de licencia médi
 
 La bonificación a que se refiere este numeral será compatible con las bonificaciones para el cuidado de niños o niñas establecidos en el numeral 3 de esta letra.
 
-5. Nuevo IFE Laboral: Bonificación mensual que se otorga al trabajador(a) dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador(a), en los términos del artículo 7° del Código del Trabajo. Se podrá postular a esta bonificación en virtud de relaciones laborales iniciadas en julio de 2022. Este beneficio se devengará por un máximo de hasta tres meses, sin que dicho devengo pueda exceder del 30 de septiembre de 2022.
+5. Nuevo IFE Laboral: Bonificación mensual que se otorga al trabajador(a) dependiente, previamente cesante, que comienza a prestar servicios bajo vínculo de dependencia y subordinación para con un nuevo empleador(a), en los términos del artículo 7° del Código del Trabajo. Se podrá postular a esta bonificación en virtud de relaciones laborales iniciadas a partir del mes anterior al de la postulación. Este beneficio se devengará por un máximo de hasta tres meses, sin que dicho devengo pueda exceder del 31 de marzo de 2023. En particular, las personas que hayan postulado a Nuevo IFE Laboral durante los meses de noviembre y diciembre de 2022, accederán a dicha bonificación hasta completar tres pagos respectivamente.
 
 El monto de esta bonificación será:
 
@@ -170,7 +170,7 @@ b) El 60% de la remuneración bruta mensual del trabajador(a) al mes de la postu
 
 Esta bonificación podrá ser solicitada por los y las trabajadoras dependientes que cumplan las siguientes condiciones copulativas:
 
-i. Tratarse de persona mayor de 18 años que haya comenzado a prestar servicios para un empleador(a) durante el mes anterior, o en el mes de la postulación;
+i. Tratarse de persona mayor de 18 años que haya comenzado a prestar servicios para un empleador(a) durante el mes anterior al de su postulación;
 
 ii. Que su remuneración bruta mensual sea igual o inferior a tres ingresos mínimos mensuales, a la fecha de la postulación. El valor del ingreso mínimo mensual será aquel fijado para los y las trabajadoras mayores de 18 años y hasta de 65 años; y
 
@@ -207,8 +207,6 @@ Las bonificaciones establecidas en el presente literal son incompatibles con aqu
 Requisitos de postulación:
 
 Podrán postular a las bonificaciones a la retención y a la contratación las micro, pequeñas y medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, siempre que tributen en primera categoría de la Ley sobre Impuesto a la Renta, de acuerdo a lo establecido en el artículo 20 de dicho cuerpo legal, y los contribuyentes que tributen conforme al artículo 22 del mismo, de acuerdo a la certificación otorgada por el Servicio de Impuestos Internos.
-
-Podrán postular a la bonificación para el cuidado de niños o niñas menores de dos años del numeral 3 de la letra c) del artículo tercero, los trabajadores beneficiarios que cumplan copulativamente con los requisitos de acceso a este beneficio, mencionados en el párrafo cuarto del numeral 3 de la letra c) del artículo tercero del presente decreto. El requisito señalado en el párrafo anterior no será aplicable a la bonificación para el cuidado de niños o niñas menores de dos años.
 
 Podrán postular al IFE Laboral del numeral 4 de la letra c) del artículo tercero, los trabajadores que cumplan con los requisitos copulativos de acceso a este beneficio, señalados en dicha norma.
 
