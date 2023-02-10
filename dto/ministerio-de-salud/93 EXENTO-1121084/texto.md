@@ -52,6 +52,12 @@ Norma ISO 25841 "Condones femeninos - Exigencias y métodos de ensayo"; Clase II
 
 Dispóngase que, a contar de la entrada en vigencia del presente decreto, los productos señalados en el numeral anterior solo podrán ser fabricados, importados, comercializados o distribuidos en el país si cuentan con la certificación correspondiente de cumplimiento de las normas que les son aplicables, otorgada por una entidad autorizada por el Instituto de Salud Pública para ello.
 
+#### Artículo 2º bis
+
+<!-- parte:10355086 -->
+
+Los productos y elementos de uso médico que se señalan en el artículo primero y que se incorporen al sistema de verificación de conformidad, quedan sometidos a verificación lote a lote.
+
 #### Artículo 3°
 
 <!-- parte:9936766 -->
