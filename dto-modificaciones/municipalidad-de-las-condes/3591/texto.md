@@ -160,13 +160,11 @@ SIGLA SECTOR DESCRIPCIÓN
 
 y, agrégase a continuación de la fila correspondiente al área E-Ab3 la siguiente nueva fila:
 
-S-E-Ab3' S sector E edificación A aislada b baja 3' -----------
-
 ### 3. En el CAPÍTULO IV "Zonificación y Normas Específicas":
 
 Incorpórese en el artículo 38, numeral 3, Área E-Ab3: edificación aislada baja N° 3, a continuación de primer inciso a continuación de la tabla de normas específicas, el siguiente numeral 3a "Sector S-EAb3'": Sector edificación aislada baja N° 3'" y los siguientes incisos primero, segundo, tercero y cuarto:
 
-En el sector delimitado por la avenida Paul Harris por el norte, calle Santa Zita por el oriente, calle Incahuasi por el sur y calle Punitaqui por el oriente, los proyectos calificados por la Dirección de Obras Municipales como viviendas sociales, podrán optar por las condiciones urbanísticas señaladas en la siguiente tabla:
+En el sector delimitado por la avenida Paul Harris por el norte, calle Santa Zita por el oriente, calle Incahuasi por el sur y calle Punitaqui por el poniente, los proyectos calificados por la Dirección de Obras Municipales como viviendas sociales, podrán optar por las condiciones urbanísticas señaladas en la siguiente tabla:
 
 Los proyectos que utilicen el incentivo establecido en la tabla de densificación precedente deben emplazarse en un predio con una superficie predial mayor a 1.500 m2.
 
