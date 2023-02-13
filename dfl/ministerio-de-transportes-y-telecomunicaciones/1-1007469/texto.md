@@ -650,7 +650,7 @@ De igual manera quedarán anotadas dichas solicitudes en el Repertorio Electrón
 
 El Repertorio será generado diariamente por el Oficial de Registro Civil e Identificación, quien deberá incorporar los datos en el sistema electrónico del Registro de Vehículos Motorizados, certificando el número de anotaciones efectuadas, de conformidad a lo dispuesto en el reglamento referido en el artículo 46.
 
-El adquiriente de un vehículo deberá solicitar su inscripción dentro de los treinta días siguientes a la fecha de su adquisición.
+El adquiriente de un vehículo deberá solicitar su inscripción dentro de los treinta días siguientes a la fecha de su adquisición. En caso de que se trate de un vehículo nuevo regirá lo dispuesto en el inciso segundo del artículo 51.
 
 En los casos en que el título traslaticio de dominio sea autorizado por un notario u otro ministro de fe, éste deberá requerir del vendedor un certificado del Registro de Multas del Tránsito no pagadas, al momento de la celebración del contrato, y solicitar la inscripción a costa del adquirente, en el plazo señalado en el inciso anterior.
 
@@ -716,6 +716,10 @@ El Servicio de Registro Civil e Identificación cobrará los derechos que se est
 
 Los vehículos motorizados no podrán transitar sin la placa única, el permiso de circulación otorgado por las Municipalidades y el certificado de un seguro obligatorio de accidentes causados por vehículos motorizados.
 
+Todo vehículo motorizado nuevo que se comercialice en el país deberá entregarse por parte de los comercializadores con sus placas patentes únicas instaladas.
+
+Los comercializadores que infrinjan lo dispuesto en el inciso precedente serán sancionados conforme a lo dispuesto en el inciso cuarto del artículo 204.
+
 Los remolques y semirremolques que deban inscribirse en el Registro Especial de Remolques y Semirremolques, deberán tener placa patente única, requisito sin el cual no estarán autorizados a transitar.
 
 El certificado del seguro obligatorio de accidentes causados por vehículos motorizados deberá portarse siempre en el vehículo y encontrarse vigente.
@@ -774,13 +778,17 @@ El certificado de inscripción de los camiones y tractocamiones cuyo peso bruto 
 
 La exigencia de patente única tendrá las siguientes excepciones:
 
-1.- Las Municipalidades podrán otorgar, anualmente, permisos de circulación provisional a las personas naturales o jurídicas con establecimientos comerciales dentro de sus comunas, para ser utilizada por la casa comercial en los vehículos motorizados nuevos, para sus necesidades de traslado o exhibición en la vía pública.
+1.- Las Municipalidades podrán otorgar, semestralmente, permisos de circulación provisional a las personas jurídicas con establecimientos comerciales dentro de sus comunas, con el objeto de que sean utilizados por la casa comercial para exhibición en la vía pública de vehículos motorizados nuevos.
 
-Estos permisos se otorgarán en un determinado número, no superior a cinco para una misma persona natural o jurídica. En casos especialmente calificados por la Municipalidad, este número podrá aumentar a diez.
+Estos permisos se otorgarán en un determinado número, no superior a cinco, para una misma persona jurídica.
+
+Las Municipalidades llevarán un registro de los permisos de circulación provisionales que se otorguen. Junto con ello, el municipio deberá entregar placas provisorias cuyo diseño y características serán fijadas por el Ministerio de Transportes y Telecomunicaciones.
+
+Las Municipalidades que otorguen estos permisos deberán informarlos a la Subsecretaría de Desarrollo Regional y Administrativo en la oportunidad y forma que ésta determine.
 
 2.- Los vehículos extranjeros en tránsito temporal que tengan la placa de su país y que hayan cumplido las exigencias que requiere la patente extranjera;
 
-3.- Los vehículos nuevos cuyos propietarios los internen al país o los adquieran en una firma importadora, de una armaduría o un establecimiento comercial, podrán transitar por la vía pública por un tiempo no superior a cinco días con la factura de compra del vehículo, para el solo efecto de obtener la patente única y el permiso de circulación, y
+3.- Los vehículos nuevos con peso bruto vehicular igual o superior a 3.860 kilogramos, que solo puedan desplazarse por sus propios medios y únicamente para fines de traslado a dependencias del comercializador. El Ministerio de Transportes y Telecomunicaciones determinará la forma y los requisitos con que estos vehículos podrán circular sin el uso de la patente única mediante un reglamento.
 
 4.- Los vehículos pertenecientes a las Fuerzas Armadas y a Carabineros de Chile, debidamente identificados y destinados exclusivamente a uso militar o policial, según el caso.
 
@@ -2376,6 +2384,8 @@ conductor, sin perjuicio de lo dispuesto en el artículo 194.
 
 5.- Conducir un vehículo manipulando un dispositivo de telefonía móvil o cualquier otro artefacto electrónico o digital, que no venga incorporado de fábrica en él, excepto si la acción se realiza a través de un sistema de manos libres, conforme a las especificaciones que determine el reglamento.
 
+6.- Conducir un vehículo sin la placa patente única cuando ésta sea exigible conforme con lo dispuesto en el artículo 51.
+
 > **Nota.** De conformidad con el Art. transitorio de la ley 20904, publicada el 16 de marzo de 2016, las obligaciones que la citada ley introduce en el inciso 4° del artículo 75 serán exigibles transcurridos 12 meses desde su publicación.
 
 #### Artículo 200
@@ -2390,7 +2400,7 @@ Son infracciones o contravenciones graves las siguientes:
 
 4. Entregar el dueño o su tenedor un vehículo para que lo conduzca persona que no cumpla con los requisitos para conducir;
 
-5. Conducir un vehículo sin la placa patente cuando ésta sea exigible conforme con lo dispuesto en el artículo 51;
+5. DEROGADO.
 
 6. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros de Chile o las de un inspector fiscal en los procedimientos de fiscalización del transporte público y privado remunerado de pasajeros y transporte de carga;
 
@@ -2563,6 +2573,8 @@ La pena de multa se aplicará a los infractores de los preceptos de esta ley, de
 A los reincidentes de infracciones gravísimas o graves, cometidas en los últimos tres y dos años, respectivamente, se les impondrá el doble de la multa establecida para cada infracción, la que se elevará al triple en caso de incurrirse nuevamente en dicha conducta. Lo anterior, sin perjuicio de las suspensiones o cancelaciones de licencias de conductor que corresponda.
 
 Las personas que indiquen un domicilio falso o inexistente en un procedimiento de fiscalización donde sean citadas al juzgado de policía local serán sancionadas con multa de una a diez unidades tributarias mensuales.
+
+El comercializador que entregue un vehículo nuevo sin la placa patente única instalada será sancionado con multa de 10 a 50 unidades tributarias mensuales.
 
 El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 3 a 50 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
 
