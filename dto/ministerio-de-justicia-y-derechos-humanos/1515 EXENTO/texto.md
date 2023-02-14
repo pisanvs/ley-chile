@@ -768,9 +768,9 @@ III.- Numéranse, en conformidad a lo prescrito en el inciso tercero del artícu
 
 34. Como Conservador y Archivero de San Bernardo, el oficio actualmente servido por doña Amelia Teresa Gálvez Carvallo;
 
-35. Como Primera Notaría de San Bernardo, el oficio actualmente servido por doña Marta Lylian Jacques Parraguez;
+35. Como Primera Notaría de San Bernardo, el oficio actualmente servido por don Carlos Virgilio Ruiz Bahamondes;
 
-36. Como Segunda Notaría de San Bernardo, el oficio actualmente servido por don Carlos Virgilio Ruiz Bahamondes;
+36. Como Segunda Notaría de San Bernardo, el oficio actualmente servido por doña Marta Lylian Jacques Parraguez;
 
 37. Como Tercera Notaría de San Bernardo, el oficio actualmente servido por don Claudio Alfonso Ortiz Cerda;
 
@@ -1477,6 +1477,8 @@ III.- Numéranse, en conformidad a lo prescrito en el inciso tercero del artícu
 6. Como Notaría y Conservador de Natales, el oficio actualmente servido por don Herbert James Mundy Casanova; y
 
 7. Como Secretario, Notario, Conservador, Archivero y Receptor de Porvenir, el oficio actualmente servido por don Cristian Mauricio Matus Cuevas.
+
+> **Nota.** El Decreto Nº 102, Justicia, publicado el 05.10.2021, que modifica el artículo 2º del Decreto Nº 49, Justicia, publicado el 18.05.2019, a su vez modifica la presente norma en el sentido de suspender hasta el 31 de agosto de 2021 todos los efectos del presente decreto, únicamente en lo que dice relación con los cargos creados, separados o fusionados por el referido acto debidamente convalidado, de acuerdo al listado de Notarías incluido en el citado artículo 2º del Decreto Nº 49, Justicia.
 
 Comuníquese, publíquese y archívese este decreto exento, para su ulterior examen por la Contraloría General de la República.- Por orden de la Presidenta de la República, Jaime Campos Quiroga, Ministro de Justicia y Derechos Humanos.
 
