@@ -580,25 +580,41 @@ Derechos Municipales sobre Transporte, Tránsito y Vehículos
 
 to. El permiso de estacionamiento en puntos determinados en calles o lugares de uso público anual:
 
-a) Estacionamientos particulares, semestral,
+a) Estacionamientos particulares valor anual
 
-por vehículos que no excedan de 5 mts. 1,5 UTM.
+según tabla:
 
-b) Estacionamiento de Buses, semestral, cada
+i. Estacionamiento de hasta
 
-10 metros o fracción 1 UTM.
+5 metros lineales 10 UTM
 
-c) Estacionamiento de Taxibuses, Minibuses,
+ii.Estacionamiento de hasta
 
-semestral, cada 10 metros o fracción 1 UTM.
+10 metros lineales 20 UTM
 
-d) Estacionamiento de Taxi básico, semestral,
+b) Estacionamiento de Buses,
 
-cada l0 metros o fracción 1 UTM.
+semestral, cada 10 metros
+
+o fracción 1 UTM.
+
+c) Estacionamiento de
+
+Taxibuses, Minibuses,
+
+semestral, cada 10 metros
+
+o fracción 1 UTM.
+
+d) Estacionamiento de Taxi
+
+básico, semestral, cada
+
+l0 metros o fracción 1 UTM.
 
 (*) Además los permisos de Estacionamiento comprendido entre las calles: O'Higgins, Latorre, Alcázar y Mackay llevarán un recargo de un 50%.
 
-> **Nota.** El numeral 3 del Decreto 6551, Municipalidad de Lebu, publicado el 04.11.2017, modifica la presente en el sentido de agregar la letra h de la manera que la citada norma indica.
+> **Nota.** El numeral 3 del Decreto 8304, Municipalidad de Lebu, publicado el 14.02.2023, modifica la presente norma en el sentido de reemplazar la letra h) existente a la fecha, por la que sigue: "h) Las áreas a concesionar tendrán una tarifa de hasta 28 pesos por minuto.".
 
 #### Artículo 27
 
