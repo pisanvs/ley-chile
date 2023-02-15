@@ -810,7 +810,7 @@ Tampoco constituirá renta el mayor valor o sobreprecio y sus reajustes obtenido
 
 6°.- La distribución de utilidades o de fondos acumulados que las sociedades anónimas hagan a sus accionistas en forma de acciones total o parcialmente liberadas o mediante el aumento del valor nominal de las acciones, todo ello representativo de una capitalización equivalente, como así también, la parte de los dividendos que provengan de los ingresos a que se refiere este artículo, sin perjuicio de lo dispuesto en el artículo 29 respecto de los números 25 y 28 del presente artículo.
 
-Las acciones totalmente liberadas a que refiere el párrafo anterior, no tendrán valor de adquisición en su futura enajenación y el mayor valor obtenido en la misma no se beneficiará del ingreso no renta contemplado en el artículo 107. Tratándose de acciones parcialmente liberadas o de acciones que aumentaron su valor nominal, no formará parte del valor de adquisición de las mismas aquella parte liberada o aquella en que aumentó su valor nominal, respectivamente, no siendo procedente en dicha parte el beneficio del ingreso no renta contemplado en el artículo 107 respecto del mayor valor obtenido en su enajenación.
+Las acciones totalmente liberadas a que refiere el párrafo anterior, no tendrán valor de adquisición en su futura enajenación y el mayor valor obtenido en la misma no se beneficiará con la tributación contemplada en el artículo 107. Tratándose de acciones parcialmente liberadas o de acciones que aumentaron su valor nominal, no formará parte del valor de adquisición de las mismas aquella parte liberada o aquella en que aumentó su valor nominal, respectivamente, no siendo procedente en dicha parte la tributación contemplada en el artículo 107 respecto del mayor valor obtenido en su enajenación.
 
 7°.- Las devoluciones de capital, hasta el valor de aporte o de adquisición de su participación, y sus reajustes, siempre que no correspondan a utilidades capitalizadas que deban pagar los impuestos de esta ley. Las sumas retiradas, remesadas o distribuidas por estos conceptos se imputarán y afectarán con los impuestos de primera categoría, global complementario o adicional, según corresponda, en la forma dispuesta por el artículo 14.
 
@@ -1140,11 +1140,11 @@ Tratándose de naves con cubierta, que no cuenten con certificado de la autorida
 
 Los pequeños mineros artesanales estarán afectos a un impuesto único sustitutivo de todos los impuestos de esta ley por las rentas provenientes de la actividad minera, que se aplicará sobre el valor neto de las ventas de productos mineros con arreglo a las siguientes tasas:
 
-1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 323,85 centavos de dólar por libra;
+1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 374,21 centavos de dólar por libra;
 
-2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 323,85 centavos de dólar por libra y no sobrepasa de 416,42 centavos de dólar por libra; y
+2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 374,21 centavos de dólar por libra y no sobrepasa de 481,18 centavos de dólar por libra; y
 
-4% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 416,42 centavos de dólar por libra.
+4% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 481,18 centavos de dólar por libra.
 
 Se entiende por valor neto de la venta el precio recibido por el minero, excluida o deducida la renta de arrendamiento o regalía, cuando proceda.
 
@@ -1496,7 +1496,7 @@ No quedará sujeta a las normas sobre reajuste contempladas en este número ni a
 
 > **Nota.** NOTA: 5 El Artículo 10º de la LEY 19247, publicada el 15.09.1993, ordenó que lo dispuesto por su artículo 1º, regirá a contar del 1º de enero de 1994, afectando a las rentas que se perciban o se devenguen desde esa fecha, a excepción de la letra j), que regirá a contar del 4 de junio de 1993, y de las letras g) y h), que tendrán vigencia desde el 1° de enero de 1995.
 
-#### Artículo 33 bis
+#### Artículo 33° bis
 
 Crédito por inversiones en activo fijo.
 
@@ -1522,11 +1522,9 @@ Si el porcentaje que resulte es inferior al 4%, será este último porcentaje el
 
 En todo lo demás, se aplicarán las reglas establecidas en la letra a) precedente.
 
-c) Los contribuyentes que en los 3 ejercicios anteriores a aquel en que adquieran, terminen de construir, o tomen en arrendamiento con opción de compra los bienes respectivos, según corresponda, y registren un promedio de ventas anuales superior a 100.000 unidades de fomento tendrán derecho al crédito establecido en este artículo, equivalente a un 4% del valor de los bienes físicos del activo inmovilizado, adquiridos nuevos, terminados de construir durante el ejercicio o que tomen en arrendamiento, según corresponda.
+c) Eliminada.
 
-En todo lo demás, se aplicarán las reglas establecidas en la letra a) precedente.
-
-#### Artículo 34
+#### Artículo 34°
 
 Rentas presuntas.
 
@@ -1562,15 +1560,15 @@ c) Minería.
 
 Se presume de derecho que la renta líquida imponible de la actividad minera, incluyendo en ella la actividad de explotación de plantas de beneficio de minerales, siempre que el volumen de los minerales tratados provenga en más de un 50% de la pertenencia explotada por el mismo contribuyente, será la que resulte de aplicar sobre las ventas netas anuales de productos mineros, la siguiente escala:
 
-4% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, no excede de 305,29 centavos de dólar;
+4% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, no excede de 352,76 centavos de dólar;
 
-6% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 305,29 centavos de dólar y no sobrepasa de 323,85 centavos de dólar;
+6% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 352,76 centavos de dólar y no sobrepasa de 374,21 centavos de dólar;
 
-10% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 323,85 centavos de dólar y no sobrepasa de 370,09 centavos de dólar;
+10% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 374,21 centavos de dólar y no sobrepasa de 427,64 centavos de dólar;
 
-15% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 370,09 centavos de dólar y no sobrepasa de 416,42 centavos de dólar; y
+15% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 427,64 centavos de dólar y no sobrepasa de 481,18 centavos de dólar; y
 
-20% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 416,42 centavos de dólar.
+20% si el precio promedio de la libra de cobre en el año o ejercicio respectivo, excede de 481,18 centavos de dólar.
 
 Por precio de la libra de cobre se entiende el Precio de Productores Chilenos fijado por la Comisión Chilena del Cobre.
 
@@ -1697,6 +1695,10 @@ La presunción establecida en el inciso anterior sólo se aplicará cuando no se
 #### Artículo 37°
 
 En el caso de los bancos que no estén constituidos en calidad de sociedades chilenas, y sin perjuicio de lo dispuesto en los artículos 31, inciso tercero y 41 E, la Dirección Regional podrá rechazar como gasto necesario para producir la renta el exceso que determine por las cantidades pagadas o adeudadas a sus casas matrices por concepto de intereses, comisiones y cualquier otro pago que provenga de operaciones financieras cuando los montos de estas cantidades no guarden relación con las que se cobran habitualmente en situaciones similares, conforme a los antecedentes que proporcione el Banco Central de Chile y la Superintendencia de Bancos e Instituciones Financieras a solicitud del respectivo Director Regional.
+
+#### Artículo 37° bis
+
+Derogado.
 
 #### Artículo 38°
 
@@ -2100,433 +2102,9 @@ Las empresas constituidas en Chile que declaren su renta efectiva según contabi
 
 C.- Suprimido.
 
-#### Artículo 41º
+#### Artículo 41°
 
-D.- A las sociedades anónimas abiertas
-
-y las sociedades anónimas cerradas que acuerden en sus
-
-estatutos someterse a las normas que rigen a éstas,
-
-que se constituyan en Chile y de acuerdo a las leyes
-
-chilenas con capital extranjero que se mantenga en
-
-todo momento de propiedad plena, posesión y tenencia
-
-de socios o accionistas que cumplan los requisitos
-
-indicados en el número 2, sólo les será aplicable lo
-
-dispuesto en este artículo en reemplazo de las demás
-
-disposiciones de esta ley, salvo aquellas que obliguen
-
-a retener impuestos que afecten a terceros o a
-
-proporcionar información a autoridades públicas,
-
-respecto del aporte y retiro del capital y de los
-
-ingresos o ganancias que obtengan de las actividades
-
-que realicen en el extranjero, así como de los gastos
-
-y desembolsos que deban efectuar en el desarrollo de
-
-ellas. El mismo tratamiento se aplicará a los
-
-accionistas de dichas sociedades domiciliados o
-
-residentes en el extranjero por las remesas, y
-
-distribuciones de utilidades o dividendos que obtengan
-
-de éstas y por las devoluciones parciales o totales
-
-de capital provenientes del exterior, así como por
-
-el mayor valor que obtengan en la enajenación de las
-
-acciones en las sociedades acogidas a este artículo,
-
-con excepción de la parte proporcional que corresponda
-
-a las inversiones en Chile, en el total del patrimonio
-
-de la sociedad. Para los efectos de esta ley, las
-
-citadas sociedades no se considerarán domiciliadas en
-
-Chile, por lo que tributarán en el país sólo por las
-
-rentas de fuente chilena.
-
-Las referidas sociedades y sus socios o accionistas
-
-deberán cumplir con las siguientes obligaciones y
-
-requisitos, mientras la sociedad se encuentre acogida a
-
-este artículo:
-
-1.- Tener por objeto exclusivo la realización de
-
-inversiones en el país y en el exterior, conforme a las
-
-normas del presente artículo.
-
-2.- Los accionistas de la sociedad y los socios o
-
-accionistas de aquellos, que sean personas jurídicas y
-
-que tengan el 10% o más de participación en el capital
-
-o en las utilidades de los primeros, no deberán estar
-
-domiciliados ni ser residentes en Chile, ni en países
-
-o en territorios que sean considerados como paraísos
-
-fiscales o regímenes fiscales preferenciales nocivos por
-
-la Organización de Cooperación y Desarrollo Económico.
-
-Mediante decreto supremo del Ministerio de Hacienda, que
-
-podrá modificarse cuantas veces sea necesario a petición
-
-de parte o de oficio, se determinará la lista de países
-
-que se encuentran en esta situación. Para estos efectos,
-
-sólo se considerarán en esta lista los Estados o
-
-territorios respectivos que estén incluidos en la lista
-
-de países que establece periódicamente la Organización
-
-de Cooperación y Desarrollo Económico, como paraísos
-
-fiscales o regímenes fiscales preferenciales nocivos. En
-
-todo caso, no será aplicable lo anterior si al momento
-
-de constituirse la sociedad en Chile y ya efectuados los
-
-correspondientes aportes, los accionistas de la sociedad
-
-y los socios o accionistas de aquellos, si son personas
-
-jurídicas, no se encontraban domiciliados o residentes
-
-en un país o territorio que, con posterioridad a tales
-
-hechos, quede comprendido en la lista a que se refiere
-
-este número. Igual criterio se aplicará respecto de las
-
-inversiones que se efectúen en el exterior en relación
-
-al momento y al monto efectivamente invertido a esa
-
-fecha.
-
-Sin perjuicio de la restricción anterior, podrán
-
-adquirir acciones de las sociedades acogidas a este
-
-artículo las personas domiciliadas o residentes en
-
-Chile, siempre que en su conjunto no posean o participen
-
-directa o indirectamente del 75% o más del capital o
-
-de las utilidades de ellas. A estas personas se le
-
-aplicarán las mismas normas que esta ley dispone para
-
-los accionistas de sociedades anónimas constituidas
-
-fuera del país, incluyendo el impuesto a la renta a las
-
-ganancias de capital que se determinen en la enajenación
-
-de las acciones de la sociedad acogida a este artículo.
-
-3.- El capital aportado por el inversionista
-
-extranjero deberá tener su fuente de origen en el
-
-exterior y deberá efectuarse en moneda extranjera
-
-de libre convertibilidad a través de alguno de los
-
-mecanismos que la legislación chilena establece para
-
-el ingreso de capitales desde el exterior. Igual
-
-tratamiento tendrán las utilidades que se originen del
-
-referido capital aportado. Asimismo, la devolución de
-
-estos capitales deberá efectuarse en moneda extranjera
-
-de libre convertibilidad, sujetándose a las normas
-
-cambiarias vigentes a esa fecha.
-
-No obstante lo dispuesto en el inciso anterior, el
-
-capital podrá ser enterado en acciones, como también en
-
-derechos sociales, pero de sociedades domiciliadas en
-
-el extranjero de propiedad de personas sin domicilio ni
-
-residencia en Chile, valorados todos ellos a su precio
-
-bursátil o de libros, según corresponda, o de
-
-adquisición en ausencia del primero.
-
-En todo caso, la sociedad podrá endeudarse, pero
-
-los créditos obtenidos en el extranjero no podrán
-
-exceder en ningún momento la suma del capital aportado
-
-por los inversionistas extranjeros y de tres veces a
-
-la aportada por los inversionistas domiciliados o
-
-residentes en Chile. En el evento que la participación
-
-en el capital del inversionista domiciliado o residente
-
-en el extranjero aumente o bien que el capital disminuya
-
-por devoluciones del mismo, la sociedad deberá, dentro
-
-del plazo de sesenta días contados desde la ocurrencia
-
-de estos hechos, ajustarse a la nueva relación
-
-deuda-capital señalada.
-
-En todo caso, los créditos a que se refiere este
-
-número, estarán afectos a las normas generales de la Ley
-
-de Timbres y Estampillas y sus intereses al impuesto
-
-establecido en el artículo 59º, número 1), de esta ley.
-
-4.- La sociedad deberá llevar contabilidad completa
-
-en moneda extranjera o moneda nacional si opta por ello,
-
-e inscribirse en un registro especial a cargo del
-
-Servicio de Impuestos Internos, en reemplazo de lo
-
-dispuesto en el artículo 68 del Código Tributario
-
-debiendo informar, periódicamente, mediante declaración
-
-jurada a este organismo, el cumplimiento de las
-
-condiciones señaladas en los números 1, 2, 3, 5 y 6, así
-
-como cada ingreso de capital al país y las inversiones
-
-o cualquier otra operación o remesa al exterior que
-
-efectúe, en la forma, plazo y condiciones que dicho
-
-Servicio establezca.
-
-La entrega de información incompleta o falsa en la
-
-declaración jurada a que se refiere este número, será
-
-sancionada con una multa de hasta el 10% del monto de
-
-las inversiones efectuadas por esta sociedad, no
-
-pudiendo en todo caso ser dicha multa inferior al
-
-equivalente a 40 unidades tributarias anuales la que se
-
-sujetará para su aplicación al procedimiento establecido
-
-en el artículo 165 del Código Tributario.
-
-5.- No obstante su objeto único, las sociedades
-
-acogidas a este artículo podrán prestar servicios
-
-remunerados a las sociedades y empresas indicadas en
-
-el número siguiente, relacionados con las actividades
-
-de estas últimas, como también invertir en sociedades
-
-anónimas constituidas en Chile. Estas deberán aplicar el
-
-impuesto establecido en el número 2) del artículo 58º,
-
-con derecho al crédito referido en el artículo 63º, por
-
-las utilidades que acuerden distribuir a las sociedades
-
-acogidas a este artículo, cuando proceda. A los
-
-accionistas domiciliados o residentes en Chile a que se
-
-refiere el número 2.-, inciso segundo de este artículo,
-
-que perciban rentas originadas en las utilidades
-
-señaladas, se les aplicará respecto de ellas las mismas
-
-normas que la ley dispone para los accionistas de
-
-sociedades anónimas constituidas fuera del país, y
-
-además, con derecho a un crédito con la tasa de impuesto
-
-del artículo 58º, número 2), aplicado en la forma
-
-dispuesta en el artículo 41 A de esta ley.
-
-Las sociedades acogidas a este artículo, que
-
-invirtieron en sociedades constituidas en Chile
-
-deberán distribuir sus utilidades comenzando por las
-
-más antiguas, registrando en forma separada las que
-
-provengan de sociedades constituidas en Chile de
-
-aquellas obtenidas en el exterior. Para los efectos de
-
-calcular el crédito recuperable a que se refiere la
-
-parte final del inciso anterior, la sociedad deberá
-
-considerar que las utilidades que se distribuyen,
-
-afectadas por el impuesto referido, corresponden a todos
-
-sus accionistas en proporción a la propiedad existente
-
-de los accionistas residentes o domiciliados en Chile y
-
-los no residentes ni domiciliados en el país.
-
-Las sociedades acogidas a este artículo deberán
-
-informar al contribuyente y al Servicio de Impuestos
-
-Internos el monto de la cantidad con derecho al crédito
-
-que proceda deducir.
-
-6.- Las inversiones que constituyen su objeto
-
-social se deberán efectuar mediante aporte social o
-
-accionario, o en otros títulos que sean convertibles
-
-en acciones, de acuerdo con las normas establecidas
-
-en el artículo 87 de la ley Nº 18.046, en empresas
-
-constituidas y formalmente establecidas en el
-
-extranjero, en un país o territorio que no sea de
-
-aquellos señalados en el número 2, de este artículo,
-
-para la realización de actividades empresariales. En
-
-caso que las actividades empresariales referidas no sean
-
-efectuadas en el exterior directamente por las empresas
-
-mencionadas, sino por filiales o coligadas de aquellas o
-
-a través de una secuencia de filiales o coligadas, las
-
-empresas que generen las rentas respectivas deberán
-
-cumplir en todo caso con las exigencias de este número.
-
-7.- El mayor valor que se obtenga en la enajenación
-
-de las acciones representativas de la inversión en una
-
-sociedad acogida a las disposiciones de este artículo
-
-no estará afecto a los impuestos de esta ley, con las
-
-excepciones señaladas en el inciso primero y en el
-
-inciso segundo del número 2. Sin embargo, la enajenación
-
-total o parcial de dichas acciones a personas naturales
-
-o jurídicas domiciliadas o residentes en alguno de los
-
-países o territorios indicados en el número 2 de este
-
-artículo o a filiales o coligadas directas o indirectas
-
-de las mismas, producirá el efecto de que, tanto la
-
-sociedad como todos sus accionistas quedarán sujetos
-
-al régimen tributario general establecido en esta ley,
-
-especialmente en lo referente a los dividendos,
-
-distribuciones de utilidades, remesas o devoluciones
-
-de capital que ocurran a contar de la fecha de la
-
-enajenación.
-
-8.- A las sociedades acogidas a las normas
-
-establecidas en el presente artículo, no les serán
-
-aplicables las disposiciones sobre secreto y reserva
-
-bancario establecido en el artículo 154 de la Ley
-
-General de Bancos. Cualquier información relacionada
-
-con esta materia deberá ser proporcionada a través del
-
-Servicio de Impuestos Internos, en la forma en la que
-
-se determine mediante un reglamento contenido en un
-
-decreto supremo del Ministerio de Hacienda.
-
-9.- El incumplimiento de cualquiera de los
-
-requisitos establecidos en este artículo determinará la
-
-aplicación plena de los impuestos de la presente ley a
-
-contar de las rentas del año calendario en que ocurra
-
-la contravención.
-
-> **Nota.** El Art. 1° transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la presente modificación regirá a contar del día 1° del mes siguiente al de su publicación.
+D.- Derogado.
 
 #### Artículo 41°
 
@@ -3586,6 +3164,16 @@ Los demás contribuyentes no indicados en los incisos anteriores deberán llevar
 
 > **Nota.** NOTA: 1 El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
 
+#### Artículo 68° bis
+
+Los contribuyentes que perciban rentas por el ejercicio de aquellas actividades señaladas en el artículo 42 N° 2 y en el artículo 48 deberán emitir boletas de honorarios en forma electrónica en la forma y en el plazo que determine el Servicio de Impuestos Internos mediante una resolución.
+
+La obligación de emitir documentos electrónicos establecida en el inciso anterior no será aplicable en el caso de contribuyentes que desarrollen su actividad en un lugar geográfico sin cobertura de datos móviles o fijos de operadores de telecomunicaciones que tienen infraestructura, sin acceso a energía eléctrica, o en lugares declarados como zonas afectadas por catástrofe conforme al decreto supremo N° 104, de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del Título I de la ley Nº 16.282, a quienes el Servicio de Impuestos Internos les deberá autorizar y timbrar boletas de honorarios en papel. En estos casos, el Servicio de Impuestos Internos, de oficio o a petición de parte, dictará una o más resoluciones, según sea necesario, individualizando al contribuyente o grupo de contribuyentes que se encuentren en alguna de las situaciones referidas, en base a la información entregada por los organismos técnicos que corresponda, respecto de las zonas geográficas del territorio nacional que no cuentan con los servicios o suministros respectivos y el plazo durante el cual dicha situación se mantendrá o debiese mantenerse. Dicha información deberá ser entregada por los organismos referidos en forma periódica conforme lo solicite el Servicio de Impuestos Internos.
+
+El contribuyente que presente una solicitud para obtener una resolución según lo que se establece en el inciso anterior podrá emitir boletas de honorarios en papel mientras que la solicitud no sea resuelta, debiendo el Servicio de Impuestos Internos autorizar y timbrar aquellas boletas de honorarios que sean necesarias para su actividad mientras esté pendiente la resolución. En todo caso, transcurridos treinta días corridos desde la presentación sin que la solicitud sea resuelta por el Servicio de Impuestos Internos, ésta se entenderá aceptada.
+
+Tratándose de lugares declarados como zonas afectadas por catástrofe por terremoto o inundación, el Servicio de Impuestos Internos, dentro de los cinco días siguientes a la publicación en el Diario Oficial del respectivo decreto que realiza tal declaración, podrá de oficio dictar una resolución fundada autorizando el timbraje de boletas de honorarios en papel respecto de aquellas localidades afectadas que así lo determine.
+
 #### Artículo 69°
 
 Las declaraciones anuales exigidas por esta ley serán presentadas en el mes de abril de cada año, en relación a las rentas obtenidas en el año calendario o comercial anterior, salvo las siguientes excepciones:
@@ -4114,25 +3702,25 @@ El Servicio, previa citación, podrá tasar el precio o valor de la cesión a qu
 
 DEROGADO.
 
-#### Artículo 107
+#### Artículo 107°
 
 El mayor valor obtenido en la enajenación o rescate, según corresponda, de los valores a que se refiere este artículo, se regirá para los efectos de esta ley por las siguientes reglas:
 
 1) Acciones de sociedades anónimas abiertas constituidas en Chile con presencia bursátil.
 
-No obstante lo dispuesto en los artículos 17, Nº8, no constituirá renta el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas abiertas con presencia bursátil, que cumplan con los siguientes requisitos:
+No obstante lo dispuesto en el artículo 17, número 8, se afectará con un impuesto con tasa de 10%, que tendrá el carácter de impuesto único a la renta, el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas abiertas con presencia bursátil, que cumplan con los siguientes requisitos:
 
-a) La enajenación deberá ser efectuada en: i) una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045 o iii) en el aporte de valores acogido a lo dispuesto en el artículo 109;
+a) La enajenación deberá ser efectuada en: i) una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045 o iii) en el aporte de valores acogido a lo dispuesto en el artículo 109;
 
-b) Las acciones deberán haber sido adquiridas en: i) una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045, o iii) en una colocación de acciones de primera emisión, con motivo de la constitución de la sociedad o de un aumento de capital posterior, o iv) con ocasión del canje de valores de oferta pública convertibles en acciones, o v) en un rescate de valores acogido a lo dispuesto en el artículo 109, y
+b) Las acciones deberán haber sido adquiridas en: i) una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045, o iii) en una colocación de acciones de primera emisión, con motivo de la constitución de la sociedad o de un aumento de capital posterior, o iv) con ocasión del canje de valores de oferta pública convertibles en acciones, o v) en un rescate de valores acogido a lo dispuesto en el artículo 109, y
 
-c) En el caso previsto en el literal iii), de la letra b), si las acciones se hubieren adquirido antes de su colocación en bolsa, el mayor valor no constitutivo de renta será el que se produzca por sobre el valor superior entre el de dicha colocación o el valor de libros que la acción tuviera el día antes de su colocación en bolsa, quedando en consecuencia afecto a los impuestos de esta ley, en la forma dispuesta en el artículo 17, el mayor valor que resulte de comparar el valor de adquisición inicial, debidamente reajustado en la forma dispuesta en dicho artículo, con el valor señalado precedentemente. Para determinar el valor de libros se aplicará lo dispuesto en el inciso tercero del artículo 41.
+c) En el caso previsto en el literal iii), de la letra b), si las acciones se hubieren adquirido antes de su colocación en bolsa, el mayor valor afecto al impuesto único será el que se produzca por sobre el valor superior entre el de dicha colocación o el valor de libros que la acción tuviera el día antes de su colocación en bolsa, quedando en consecuencia afecto a los impuestos de esta ley, en la forma dispuesta en el artículo 17, el mayor valor que resulte de comparar el valor de adquisición inicial, debidamente reajustado en la forma dispuesta en dicho artículo, con el valor señalado precedentemente. Para determinar el valor de libros se aplicará lo dispuesto en el artículo 130 del decreto supremo N° 702, de 2011, del Ministerio de Hacienda, que Aprueba el Nuevo Reglamento de Sociedades Anónimas, o el que lo reemplace.
 
 En el caso previsto en el literal iv), de la letra b) anterior, se considerará como precio de adquisición de las acciones el precio asignado en el canje.
 
 2) Cuotas de fondos de inversión.
 
-Lo dispuesto en el numeral 1) será también aplicable a la enajenación, en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, de cuotas de fondos de inversión regidos por la ley Nº 18.815, que tengan presencia bursátil. Asimismo, se aplicará a la enajenación en dichas bolsas de las cuotas señaladas que no tengan presencia bursátil o al rescate de tales cuotas cuando el fondo se liquide o sus partícipes acuerden una disminución voluntaria de capital, siempre y cuando se establezca en la política de inversiones de los reglamentos internos, que a lo menos el 90% de la cartera de inversiones del fondo se destinará a la inversión en acciones con presencia bursátil. En ambos casos, para acogerse a lo dispuesto en este artículo, la política de inversiones de este tipo de fondos, contenida en su reglamento interno, deberá establecer la obligación por parte de la administradora de distribuir entre los partícipes la totalidad de los dividendos o distribuciones e intereses percibidos que provengan de los emisores de los valores en que el fondo haya invertido, durante el transcurso del ejercicio en el cual éstos hayan sido percibidos o dentro de los 180 días siguientes al cierre de dicho ejercicio, y hasta por el monto de los beneficios netos percibidos en el ejercicio, según dicho concepto está definido en la Ley sobre Administración de Fondos de Terceros y Carteras Individuales, menos las amortizaciones de pasivos financieros que correspondan a dicho período y siempre que tales pasivos hayan sido contratados con a lo menos 6 meses de anterioridad a dichos pagos.
+Lo dispuesto en el numeral 1) será también aplicable a la enajenación, en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, de cuotas de fondos de inversión regidos por la ley Nº 20.712, que tengan presencia bursátil. Asimismo, se aplicará a la enajenación en dichas bolsas de las cuotas señaladas que no tengan presencia bursátil o al rescate de tales cuotas cuando el fondo se liquide o sus partícipes acuerden una disminución voluntaria de capital, siempre y cuando se establezca en la política de inversiones de los reglamentos internos, que a lo menos el 90% de la cartera de inversiones del fondo se destinará a la inversión en acciones con presencia bursátil. En ambos casos, para acogerse a lo dispuesto en este artículo, la política de inversiones de este tipo de fondos, contenida en su reglamento interno, deberá establecer la obligación por parte de la administradora de distribuir entre los partícipes la totalidad de los dividendos o distribuciones e intereses percibidos que provengan de los emisores de los valores en que el fondo haya invertido, durante el transcurso del ejercicio en el cual éstos hayan sido percibidos o dentro de los 180 días siguientes al cierre de dicho ejercicio, y hasta por el monto de los beneficios netos percibidos en el ejercicio, según dicho concepto está definido en la N° Ley 20.712, menos las amortizaciones de pasivos financieros que correspondan a dicho período y siempre que tales pasivos hayan sido contratados con a lo menos 6 meses de anterioridad a dichos pagos.
 
 Lo dispuesto en el párrafo anterior no resultará aplicable a las enajenaciones y rescates, según corresponda, de cuotas de fondos de inversión que dejaren de dar cumplimiento al porcentaje de inversión o a la obligación de distribución contemplados en el reglamento interno respectivo por causas imputables a la administradora o, cuando no siendo imputables a la administradora, dichos incumplimientos no hubieran sido regularizados dentro de los tres meses siguientes de producidos. Se tendrá por incumplido el requisito de porcentaje de inversión, si las inversiones del fondo respectivo en acciones con presencia bursátil resultasen inferiores a un 90% por un período continuo o discontinuo de 30 o más días en un año calendario.
 
@@ -4142,13 +3730,13 @@ Las administradoras de los fondos deberán certificar anualmente al Servicio de 
 
 3.1) Cuotas de fondos mutuos cuyas inversiones consistan en valores con presencia bursátil.
 
-No constituirá renta el mayor valor obtenido en la enajenación de cuotas de fondos mutuos del decreto ley Nº 1.328, que cumplan con los siguientes requi-sitos:
+Se afectará con un impuesto con tasa de 10%, que tendrá el carácter de impuesto único a la renta, el mayor valor obtenido en la enajenación de cuotas de fondos mutuos de la ley Nº 20.712, que cumplan con los siguientes requisitos:
 
-a) La enajenación deberá ser efectuada: i) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) mediante el aporte de valores conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo;
+a) La enajenación deberá ser efectuada: i) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) mediante el aporte de valores conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo;
 
-b) Las cuotas deberán haber sido adquiridas: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros; o iii) en un rescate de valores efectuado de conformidad a lo dispuesto en el artículo 109;
+b) Las cuotas deberán haber sido adquiridas: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero; o iii) en un rescate de valores efectuado de conformidad a lo dispuesto en el artículo 109;
 
-c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los valores que tengan presencia bursátil a que se refiere este artículo, y en los valores a que se refiere el artículo 104. Se tendrá por incumplido este requisito si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por causas imputables a la ejecución de la política de inversiones por parte de la sociedad administradora o, cuando ello ocurra por otras causas, si en este último caso dicho incumplimiento no es subsanado dentro de un período máximo de seis meses contado desde que éste se ha producido. Las administradoras de los fondos deberán certificar al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el inciso tercero, del Nº 4°, del artículo 97, del Código Tributario;
+c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los valores que tengan presencia bursátil a que se refiere este artículo, y en los valores a que se refiere el artículo 104. Se tendrá por incumplido este requisito si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por causas imputables a la ejecución de la política de inversiones por parte de la sociedad administradora o, cuando ello ocurra por otras causas, si en este último caso dicho incumplimiento no es subsanado dentro de un período máximo de seis meses contado desde que éste se ha producido. Las administradoras de los fondos deberán certificar al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el párrafo tercero, del Nº 4°, del artículo 97, del Código Tributario;
 
 d) El reglamento interno del fondo respectivo deberá contemplar la obligación de la sociedad administradora de distribuir entre los partícipes la totalidad de los dividendos percibidos entre la fecha de adquisición de las cuotas y la enajenación o rescate de las mismas, provenientes de los emisores de los valores a que se refiere la letra c) anterior. De igual forma, el reglamento interno deberá contemplar la obligación de distribuir entre los partícipes un monto equivalente a la totalidad de los intereses devengados por los valores a que se refiere el artículo 104 en que haya invertido el fondo durante el ejercicio comercial respectivo, conforme a lo dispuesto en el artículo 20. Esta última distribución deberá llevarse a cabo en el ejercicio siguiente al año comercial en que tales intereses se devengaron, independientemente de la percepción de tales intereses por el fondo o de la fecha en que se hayan enajenado los instrumentos de deuda correspondientes, y
 
@@ -4156,19 +3744,19 @@ e) La política de inversiones del fondo contenida en su reglamento interno debe
 
 3.2) Cuotas de fondos mutuos con presencia bursátil.
 
-No constituirá renta el mayor valor obtenido en la enajenación de cuotas de fondos mutuos del decreto ley Nº 1.328, de 1976, que tengan presencia bursátil y no puedan acogerse al número 3.1) anterior, siempre que se cumplan los siguientes requisitos:
+Se afectará con un impuesto con tasa de 10%, que tendrá el carácter de impuesto único a la renta, el mayor valor obtenido en la enajenación de cuotas de fondos mutuos de la ley N° 20.712, que tengan presencia bursátil y no puedan acogerse al número 3.1) anterior, siempre que se cumplan los siguientes requisitos:
 
-a) La enajenación de las cuotas deberá efectuarse: i) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) mediante su aporte conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo cuando se realice en forma de valores conforme a lo dispuesto en el artículo 109;
+a) La enajenación de las cuotas deberá efectuarse: i) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) mediante su aporte conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo cuando se realice en forma de valores conforme a lo dispuesto en el artículo 109;
 
-b) La adquisición de las cuotas deberá efectuarse: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o iii) en un rescate de valores efectuado conforme a lo dispuesto en el artículo 109;
+b) La adquisición de las cuotas deberá efectuarse: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o iii) en un rescate de valores efectuado conforme a lo dispuesto en el artículo 109;
 
 c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los siguientes valores emitidos en el país o en el extranjero:
 
 c.1) Valores de oferta pública emitidos en el país: i) acciones de sociedades anónimas abiertas constituidas en Chile y admitidas a cotización en a lo menos una bolsa de valores del país; ii) instrumentos de deuda de oferta pública a que se refiere el artículo 104 y valores representativos de deuda cuyo plazo sea superior a tres años admitidos a cotización en a lo menos una bolsa de valores del país que paguen intereses con una periodicidad no superior a un año, y iii) otros valores de oferta pública que generen periódicamente rentas y que estén establecidos en el reglamento que dictará mediante decreto supremo el Ministerio de Hacienda.
 
-c.2) Valores de oferta pública emitidos en el extranjero: Debe tratarse de valores que generen periódicamente rentas tales como intereses, dividendos o repartos, en que los emisores deban distribuir dichas rentas con una periodicidad no superior a un año. Asimismo, tales valores deberán ser ofrecidos públicamente en mercados que cuenten con estándares al menos similares a los del mercado local, en relación a la revelación de información, transparencia de las operaciones y sistemas institucionales de regulación, supervisión, vigilancia y sanción sobre los emisores y sus títulos. El mismo reglamento fijará una nómina de aquellos mercados que cumplan con los requisitos que establece este inciso. Se entenderán incluidos en esta letra los valores a que se refiere el inciso final del artículo 11, siempre que cumplan con los requisitos señalados precedentemente.
+c.2) Valores de oferta pública emitidos en el extranjero: Debe tratarse de valores que generen periódicamente rentas tales como intereses, dividendos o repartos, en que los emisores deban distribuir dichas rentas con una periodicidad no superior a un año. Asimismo, tales valores deberán ser ofrecidos públicamente en mercados que cuenten con estándares al menos similares a los del mercado local, en relación a la revelación de información, transparencia de las operaciones y sistemas institucionales de regulación, supervisión, vigilancia y sanción sobre los emisores y sus títulos. El mismo reglamento fijará una nómina de aquellos mercados que cumplan con los requisitos que establece este párrafo. Se entenderán incluidos en esta letra los valores a que se refiere el inciso final del artículo 11, siempre que cumplan con los requisitos señalados precedentemente.
 
-Se tendrá por incumplido el requisito establecido en esta letra si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por un período continuo o discontinuo de 30 o más días en un año calendario. Las administradoras de los fondos deberán certificar anualmente al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el inciso tercero del número 4° del artículo 97 del Código Tributario;
+Se tendrá por incumplido el requisito establecido en esta letra si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por un período continuo o discontinuo de 30 o más días en un año calendario. Las administradoras de los fondos deberán certificar anualmente al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el párrafo tercero del número 4° del artículo 97 del Código Tributario;
 
 d) El reglamento interno del fondo respectivo deberá contemplar la obligación de la sociedad administradora de distribuir entre los partícipes la totalidad de los dividendos e intereses percibidos entre la fecha de adquisición de las cuotas y la enajenación o rescate de las mismas, provenientes de los emisores de los valores a que se refiere la letra c) anterior, salvo que se trate de intereses provenientes de los valores a que se refiere el artículo 104. En este último caso, el reglamento interno deberá contemplar la obligación de distribuir entre los partícipes un monto equivalente a la totalidad de los intereses devengados por dichos valores durante el ejercicio comercial respectivo conforme a lo dispuesto en el artículo 20. Esta última distribución deberá llevarse a cabo en el ejercicio siguiente al año comercial en que tales intereses se devengaron, independientemente de la percepción de tales intereses por el fondo o de la fecha en que se hayan enajenado los instrumentos de deuda correspondientes;
 
@@ -4176,15 +3764,49 @@ e) Cuando se hayan enajenado acciones, cuotas u otros títulos de similar natura
 
 Cuando se hayan enajenado instrumentos de deuda dentro de los cinco días hábiles anteriores a la fecha de pago de los respectivos intereses, la sociedad administradora deberá distribuir entre los partícipes del mismo un monto equivalente a la totalidad de los referidos intereses, el que se considerará percibido por el fondo, salvo que provengan de los instrumentos a que se refiere el artículo 104.
 
-En caso de que la sociedad administradora no haya cumplido con la obligación de distribuir a los partícipes las rentas a que se refiere esta letra, dicha sociedad quedará afecta a una multa de hasta un cien por ciento de tales rentas, no pudiendo esta multa ser inferior al equivalente a 1 unidad tributaria anual. La aplicación de esta multa se sujetará al procedimiento establecido en el artículo 165 del Código Tributario. Además, la sociedad administradora deberá pagar por tales rentas un impuesto único y sustitutivo de cualquier otro tributo de esta ley con tasa de 35%. Este impuesto deberá ser declarado y pagado por la sociedad administradora en el mes de abril del año siguiente al año comercial en que debió efectuarse la distribución de tales rentas. Respecto del impuesto a que se refiere este inciso, no se aplicará lo dispuesto en el artículo 21, y se considerará como un impuesto sujeto a retención para los efectos de la aplicación de sanciones, y
+En caso de que la sociedad administradora no haya cumplido con la obligación de distribuir a los partícipes las rentas a que se refiere esta letra, dicha sociedad quedará afecta a una multa de hasta un cien por ciento de tales rentas, no pudiendo esta multa ser inferior al equivalente a 1 unidad tributaria anual. La aplicación de esta multa se sujetará al procedimiento establecido en el artículo 165 del Código Tributario. Además, la sociedad administradora deberá pagar por tales rentas un impuesto único y sustitutivo de cualquier otro tributo de esta ley con tasa de 35%. Este impuesto deberá ser declarado y pagado por la sociedad administradora en el mes de abril del año siguiente al año comercial en que debió efectuarse la distribución de tales rentas. Respecto del impuesto a que se refiere este parrafo, no se aplicará lo dispuesto en el artículo 21, y se considerará como un impuesto sujeto a retención para los efectos de la aplicación de sanciones, y
 
 f) La política de inversiones del fondo contenida en su reglamento interno deberá contemplar la prohibición de adquirir valores que en virtud de cualquier acto o contrato priven al fondo de percibir los dividendos, intereses, repartos u otras rentas provenientes de tales valores que se hubiese acordado o corresponda distribuir. La sociedad administradora que infrinja esta prohibición será sancionada con una multa de 1 unidad tributaria anual por cada uno de los valores adquiridos en contravención a dicha prohibición, sin perjuicio de las sanciones que correspondan conforme a lo dispuesto en el Título III del decreto ley N° 3.538, de 1980.
 
 4) Presencia bursátil.
 
-También se aplicará lo dispuesto en este artículo, cuando la enajenación se efectúe dentro de los 90 días siguientes a aquél en que el título o valor hubiere perdido presencia bursátil. En este caso el mayor valor obtenido no constituirá renta sólo hasta el equivalente al precio promedio que el título o valor hubiere tenido en los últimos 90 días en que tuvo presencia bursátil. El exceso sobre dicho valor se gravará con los impuestos de primera categoría, global complementario o adicional, según corresponda. Para que proceda lo anterior, el contribuyente deberá acreditar, cuando el Servicio de Impuestos Internos así lo requiera, con un certificado de una bolsa de valores, tanto la fecha de la pérdida de presencia bursátil de la acción, como el valor promedio señalado.
+También se aplicará lo dispuesto en este artículo, cuando la enajenación se efectúe dentro de los 90 días siguientes a aquél en que el título o valor hubiere perdido presencia bursátil. En este caso el mayor valor obtenido se afectará con el impuesto único de tasa 10% sólo hasta el equivalente al precio promedio que el título o valor hubiere tenido en los últimos 90 días en que tuvo presencia bursátil. El exceso sobre dicho valor se gravará con los impuestos de primera categoría, global complementario o adicional, según corresponda. Para que proceda lo anterior, el contribuyente deberá acreditar, cuando el Servicio de Impuestos Internos así lo requiera, con un certificado de una bolsa de valores, tanto la fecha de la pérdida de presencia bursátil de la acción, como el valor promedio señalado.
 
-5) Las pérdidas obtenidas en la enajenación, en bolsa o fuera de ella, de los valores a que se refiere este artículo, solamente serán deducibles de los ingresos no constitutivos de renta del contribuyente.
+5) Las pérdidas obtenidas en la enajenación, en bolsa o fuera de ella, de los valores a que se refiere este artículo, solamente serán deducibles de los ingresos derivados de la enajenación de valores afectos a la tributación establecida en este artículo, obtenidas por el contribuyente en el mismo ejercicio o en los ejercicios siguientes, en el evento que el contribuyente no registre tales ingresos o éstos sean inferiores a dichas pérdidas. Para estos efectos, las pérdidas se reajustarán de acuerdo con el porcentaje de variación del Índice de Precios al Consumidor en el período comprendido entre el mes anterior al de la enajenación que produjo esas pérdidas y el mes anterior al del cierre del ejercicio que corresponda. En caso de que la pérdida hubiere sido deducida de la base imponible afecta al impuesto de primera categoría, ésta deberá ser agregada en la determinación de la renta líquida imponible, de conformidad con lo dispuesto en la letra e) del número 1 del artículo 33. Con todo, para que proceda esta deducción, las pérdidas deberán acreditarse fehacientemente ante el Servicio de Impuestos Internos.
+
+6) Retención, declaración y pago del impuesto.
+
+El adquirente o corredor de bolsa o agente de valores que actúa por cuenta del vendedor sin domicilio ni residencia en Chile deberá retener el monto del impuesto único al momento en que el precio de enajenación sea pagado, remesado, abonado en cuenta o puesto a disposición del enajenante.
+
+En los casos señalados en el párrafo anterior, la retención se efectuará con la tasa del 10% sobre el mayor valor afecto al impuesto establecido en este artículo, salvo que el adquirente o corredor de bolsa o agente de valores que actúa por cuenta del vendedor sin domicilio ni residencia en Chile, no disponga de información suficiente para efectos de determinar dicho mayor valor, en cuyo caso la retención se practicará con una tasa provisional del 1% sobre el total del precio de enajenación sin deducción alguna.
+
+Las retenciones practicadas conforme a este artículo se enterarán en arcas fiscales en el plazo establecido en la primera parte del artículo 79. Procederá además lo dispuesto en el artículo 83 y en lo que fuere aplicable el número 4 del artículo 74.
+
+El monto del impuesto retenido se dará de abono al total del impuesto único que se determine en los resultados obtenidos en las operaciones reguladas por el presente artículo. Para estos efectos, se aplicará al monto retenido lo establecido en el artículo 75.
+
+Los contribuyentes enajenantes estarán obligados a presentar la declaración anual a que se refiere el artículo 65 y solucionar en dicha oportunidad la diferencia entre las cantidades retenidas y el monto del impuesto aplicable. Si el total de las retenciones practicadas fuere superior al monto del impuesto que efectivamente deba aplicarse en el ejercicio correspondiente, el saldo que resultare a favor del contribuyente le será devuelto según lo establecido en el artículo 97.
+
+Sin perjuicio de lo señalado en el párrafo anterior, si con la retención declarada y pagada se han solucionado íntegramente los impuestos que afectan al contribuyente conforme a este artículo, este último quedará liberado de presentar la referida declaración anual.
+
+7) Determinación del mayor valor.
+
+Para efectos de determinar el mayor valor afecto al impuesto único con tasa de 10%, los contribuyentes con domicilio o residencia en Chile podrán considerar como valor de adquisición y/o aporte, a su elección:
+
+a) El precio de cierre oficial de los valores respectivos, al 31 de diciembre del año de la adquisición, considerando primero los valores más antiguos según su fecha de adquisición, lo que podrá ser propuesto por el Servicio de Impuestos Internos en la declaración de renta del año tributario que corresponda en virtud de la información que dicho Servicio tenga a su disposición. Dicha propuesta no liberará al contribuyente de complementar, o ajustar la información que corresponda de acuerdo con las normas generales; o
+
+b) El valor de adquisición y/o aporte conforme a las normas generales establecidas en la Ley sobre Impuesto a la Renta.
+
+Por su parte, los contribuyentes sin domicilio ni residencia en Chile, para efectos de determinar el mayor valor afecto al impuesto único con tasa de 10% deberán considerar el valor de adquisición y/o aporte conforme a la letra b) anterior.
+
+8) Efectos del pago del impuesto.
+
+Efectuada la declaración y pago del referido impuesto se entenderá cumplida totalmente la tributación con el impuesto a la renta de las cantidades a que se refiere este artículo, por lo que se deberán anotar como rentas con tributación cumplida en el registro REX o de rentas exentas e ingresos no constitutivos de renta establecido en la letra c) del número 2 de la letra A del artículo 14, y podrán ser retiradas, remesadas o distribuidas conforme a las reglas generales de imputación.
+
+Deberá incorporarse en el registro señalado en el párrafo anterior el resultado neto de las rentas que fueron afectadas con el impuesto único de tasa 10%, es decir, una vez deducidos los costos, gastos y desembolsos que sean imputables al término del ejercicio, según lo establecido en la letra e) del número 1 del artículo 33.
+
+9) Inversionistas institucionales.
+
+Sin perjuicio de lo anterior, no constituirá renta el mayor valor obtenido por inversionistas institucionales, sea que se encuentren domiciliados o residentes en Chile o en el extranjero, en la enajenación de los instrumentos indicados en este artículo que cumplan con los requisitos en él establecidos. Para estos efectos, debe entenderse por inversionista institucional aquellos a que se refiere la letra e) del artículo 4º bis de la ley Nº 18.045.
 
 #### Artículo 108°
 
@@ -4218,11 +3840,11 @@ a) El valor de rescate de las cuotas del fondo para aquellos inversionistas que 
 
 b) El valor de adquisición de los títulos o instrumentos mediante los cuales se efectúa el rescate a que se refiere el literal anterior, será aquél empleado por la administradora del fondo respectivo para pagar el rescate en esos valores. Del mismo modo, el valor de tales títulos o instrumentos deberá constar en el certificado que al efecto emitirá la administradora.
 
-#### Artículo 110
+#### Artículo 110°
 
 Para efectos de lo dispuesto en esta ley, constituirán valores con presencia bursátil los que se determinen en conformidad a la ley Nº 18.045 de Mercado de Valores.
 
-Sin perjuicio de lo anterior, si la presencia bursátil está dada exclusivamente en virtud de un contrato que asegure la existencia diaria de ofertas de compra y venta de los valores de acuerdo al párrafo tercero de la letra g) del artículo 4 bis de la ley Nº 18.045, el tratamiento del mayor valor como un ingreso no constitutivo de renta según las reglas de este Título VI aplicará sólo por el plazo de un año contado desde la primera oferta pública de valores que se realice luego de inscrito el emisor o depositado el reglamento en el correspondiente registro de la Comisión para el Mercado Financiero, según corresponda.
+Sin perjuicio de lo anterior, si la presencia bursátil está dada exclusivamente en virtud de un contrato que asegure la existencia diaria de ofertas de compra y venta de los valores de acuerdo al párrafo tercero de la letra g) del artículo 4 bis de la ley Nº 18.045, el tratamiento del mayor valor según las reglas de este Título VI aplicará sólo por el plazo de un año contado desde la primera oferta pública de valores que se realice luego de inscrito el emisor o depositado el reglamento en el correspondiente registro de la Comisión para el Mercado Financiero, según corresponda.
 
 #### Artículo 2°
 
