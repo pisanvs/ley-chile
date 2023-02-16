@@ -1,4 +1,4 @@
-OTORGA A PARQUE EÓLICO EL ARRAYÁN SPA CONCESIÓN ELÉCTRICA DEFINITIVA PARA ESTABLECER LAS INSTALACIONES REFERIDAS A TRANSMISIÓN ELÉCTRICA DE ENERGÍA DENOMINADAS "AMPLIACIÓN SUBESTACIÓN DON GOYO 2X220 KV", EN LA REGIÓN DE COQUIMBO, PROVINCIA DE LIMARÍ, COMUNA DE OVALLE
+OTORGA A DON GOYO TRANSMISIÓN S.A. CONCESIÓN ELÉCTRICA DEFINITIVA PARA ESTABLECER LAS INSTALACIONES REFERIDAS A TRANSMISIÓN ELÉCTRICA DE ENERGÍA DENOMINADAS "AMPLIACIÓN SUBESTACIÓN DON GOYO 2X220 KV", EN LA REGIÓN DE COQUIMBO, PROVINCIA DE LIMARÍ, COMUNA DE OVALLE
 
 Núm. 12.- Santiago, 15 de enero de 2018.
 
@@ -14,7 +14,7 @@ Decreto:
 
 #### Artículo 1°
 
-- Otórgase a Parque Eólico El Arrayán SpA., concesión definitiva para establecer en la Región de Coquimbo, provincia de Limarí y comuna de Ovalle, las instalaciones referidas al siguiente proyecto:
+- Otórgase a Don Goyo Transmisión S.A., concesión definitiva para establecer en la Región de Coquimbo, provincia de Limarí y comuna de Ovalle, las instalaciones referidas al siguiente proyecto:
 
 .
 
