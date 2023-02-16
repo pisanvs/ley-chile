@@ -226,7 +226,7 @@ iv. Las demás materias que le sean solicitadas por el/la Director/a Ejecutivo/a
 
 b) Coordinar la aplicación de normas y criterios jurídicos uniformes a nivel nacional, en las materias de orden legal relativas al "Comité InnovaChile", pudiendo, para estos efectos, instruir a los abogados de las Direcciones Regionales y de los Comités de carácter regional. Lo anterior, sin perjuicio de las atribuciones de la Fiscalía de Corfo.
 
-c) Asistir a las sesiones de Consejo Directivo y de Subcomité/s y certificar la asistencia a éstas de sus miembros; levantar actas de las mismas; y certificar los Acuerdos que el Consejo Directivo, en Pleno o en Subcomité, adopte en dichas sesiones. Para el desempeño de las funciones indicadas en este literal, el Director Jurídico podrá nombrar subrogantes especiales.
+c) Asistir a las sesiones de Consejo Directivo y de Subcomité/s y certificar la asistencia a éstas de sus miembros; levantar actas de las mismas; y certificar los Acuerdos que el Consejo Directivo, en Pleno o en Subcomité, adopte en dichas sesiones. Para el desempeño de las funciones indicadas en esta letra, el/la Fiscal de la Corporación podrá designar a uno/a o más abogados/as de Corfo y/o de sus Comités, como subrogantes especiales del Director Jurídico.
 
 d) Gestionar la confección y visar los actos jurídicos, convenios y contratos, y los actos administrativos que deba dictar el/la Director/a Ejecutivo/a en el ámbito de sus competencias, incluido el texto definitivo de las resoluciones que aprueban las bases de los Instrumentos de Financiamiento del Comité, en coordinación con la Dirección de Área pertinente.
 
@@ -238,7 +238,7 @@ g) Efectuar o supervisar, en su caso, los análisis de antecedentes legales de l
 
 h) Suscribir los convenios de subsidio y sus modificaciones, y dictar las resoluciones que los aprueben, sin perjuicio de la delegación efectuada en otras autoridades de Corfo o sus Comités.
 
-El Director Jurídico podrá designar a uno o más subrogantes, para que actúen en caso de su ausencia o impedimento.
+El/La Fiscal de la Corporación podrá designar a uno/a o más abogados/as de Corfo y/o de sus Comités, como subrogantes del/de la Director/a Jurídico/a, para que actúe(n) en caso de su ausencia o impedimento.
 
 ### Párrafo 5° — "De las Direcciones de Área"
 
