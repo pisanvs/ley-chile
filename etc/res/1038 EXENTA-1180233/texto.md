@@ -36,6 +36,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes por región, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución. Tratándose de proyectos en que postulen familias que fueron beneficiadas anteriormente con un subsidio, y que no recibieron recursos para las labores de Fiscalización Técnica de Obras, y/o cuando se consideren viviendas en nómina de oferta, se asignarán al proyecto los recursos totales que correspondan para todas las viviendas del proyecto, de manera de permitir la fiscalización técnica de las obras del proyecto en su totalidad, a objeto de factibilizar su ejecución.
 
 4. Dispónese que, atendidas las circunstancias sanitarias que afectan al país actualmente, los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el presente llamado, los que serán validados por el SERVIU en la forma que se dispondrá especialmente para ello y que será informada oportunamente a través de resolución de su Director. Con todo, para proceder a la calificación definitiva del proyecto, el SERVIU correspondiente podrá solicitar la entrega en un solo acto de los antecedentes físicos del proyecto, con posterioridad a la selección, y en forma previa al inicio de obras.
