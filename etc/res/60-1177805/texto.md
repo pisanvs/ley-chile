@@ -124,9 +124,11 @@ d) Un/a representante del Ministerio de Relaciones Exteriores, designado/a por e
 
 e) Un/a representante de la Agencia de Promoción de la Inversión Extranjera, designado/a por su Director/a, previa solicitud de Corfo.
 
-f) Un/a representante de Corfo, designado/a por el/la Vicepresidente/a Ejecutivo/a de la Corporación.
+f) Un/a representante del Ministerio de Bienes Nacionales, designado/a por el/la Ministro/a de Bienes Nacionales, previa solicitud de Corfo.
 
-g) El/La Director/a Ejecutivo/a del Comité.
+g) Un/a representante de Corfo, designado/a por el/la Vicepresidente/a Ejecutivo/a de la Corporación.
+
+h) El/La Director/a Ejecutivo/a del Comité.
 
 #### Artículo 7º
 
@@ -154,7 +156,7 @@ Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso c
 
 El "Consejo Interministerial" y la "Mesa Técnica" se reunirán las veces y en la forma que éstos mismos determinen, de acuerdo con las necesidades que se presenten. El quórum del "Consejo Interministerial" para sesionar será de, a lo menos, seis miembros, y los Acuerdos se adoptarán por simple mayoría de los miembros asistentes a la reunión. La "Mesa Técnica" sesionará con, al menos, la mayoría de los miembros designados, y adoptará los Acuerdos por simple mayoría de los presentes en la sesión.
 
-Se entenderá que participan en las sesiones, aquellos miembros que, a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de videoconferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente, bajo certificación de quien presidió la sesión y del/de la Secretario/a del órgano colegiado respectivo. Sólo será procedente esta modalidad, cuando en la sesión correspondiente hubiere quórum presencial.
+Se entenderá que participan en las sesiones, aquellos miembros que, a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de videoconferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente, bajo certificación de quien presidió la sesión y del/de la Secretario/a del órgano colegiado respectivo.
 
 #### Artículo 10º
 
