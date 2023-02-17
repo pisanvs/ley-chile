@@ -250,37 +250,15 @@ Se evaluará la red interior. Se deberá presentar y evaluar caso a caso al mome
 
 . Una vez subsanadas las observaciones, el proyecto podrá ser reingresado, para lo cual, si se presenta de manera presencial (carpeta física con antecedentes) deberá seguir el procedimiento de ingreso establecido en el punto 3. Presentación de Proyectos del presente documento, y, en caso de presentación digital, podrá adjuntar los antecedentes subsanados respondiendo directamente al mail mediante el cual se comunicaron las observaciones.
 
-### 6. DEL PAGO VÍA ASISTENCIA TÉCNICA
+### 6. DE LA IMPLEMENTACIÓN DE LAS VIVIENDAS TIPO
 
-. A los Proyectos de Vivienda Tipo que se presenten y aprueben, les serán aplicables las normas y procedimientos de Asistencia Técnica vigentes. Así, en el caso del Fondo Solidario de Elección de Vivienda, regulado por el DS N° 49 (V. y U.), de 2011, los servicios y honorarios se regirán por lo establecido en la resolución exenta N° 1.875 (V. y U.), de 2015. Para el caso del Programa de Habitabilidad Rural, regulado por el DS N° 10 (V. y U.), de 2015, los servicios y honorarios se regirán por lo establecido en la resolución exenta N° 3.131 (V. y U.), de 2016.
-
-. Para proceder al pago, además de los requisitos establecidos en las resoluciones que regulan la Prestación de Servicios de Asistencia Técnica antes señaladas, se deberá cumplir con los criterios complementarios que a continuación se señalan:
-
-- El Proyecto de Vivienda Tipo debe ser seleccionado por las familias para su uso en un proyecto habitacional, lo que debe ser formalizado mediante una "Declaración Jurada".
-
-- Si una Entidad Patrocinante (EP) o una Entidad de Gestión Rural (EGR) presentaron y les fue aprobado el Proyecto de Vivienda Tipo, y serán estas mismas entidades las que patrocinen el proyecto habitacional, se les pagará a dichas entidades el monto destinado al Servicio de Asistencia Técnica "Elaboración de Proyectos Técnicos y Contratación de Obras" o "Elaboración y Presentación del Proyecto Técnico y Contratación de Obras" según corresponda, conforme lo establece la resolución que regula la Prestación de Servicios de Asistencia Técnica respectiva.
-
-- Para lo anterior, al momento de presentarse el proyecto para su calificación, además de los antecedentes exigidos en el correspondiente reglamento del Programa respectivo en la Resolución de Asistencia Técnica e Itemizado Técnico de Construcción y Cuadro Normativo asociado, se deberán incorporar todos los antecedentes que dan cuenta de la aprobación del Proyecto de Vivienda Tipo, esto es, el oficio que asigna el "Código de Aprobación", mediante el cual se aprobó el Proyecto de Vivienda Tipo y sus antecedentes (planos y especificaciones técnicas, entre otros) timbrados e identificados como "aprobados", en formato físico y digital.
-
-- En los casos en que el participante o la entidad que obtuvo la aprobación del Proyecto de Vivienda Tipo no sea la misma que presenta y patrocina el proyecto habitacional que se está postulando, y que corresponde a esa Vivienda Tipo aprobada, además de los antecedentes señalados precedentemente, se debe presentar el "Contrato de Cesión, Autorización o Licencia del Autor" en los términos señalados en el punto 5.4. En caso de aprobación del presente instrumento. En estos casos, el pago al participante o entidad que aprobó e hizo posible el ingreso del proyecto en el Banco, y que se utilizará en la postulación de un proyecto habitacional asociado a la implementación de un Proyecto de Vivienda Tipo, ascenderá al 20% de los honorarios correspondientes al Servicio de Asistencia Técnica "Elaboración de Proyectos Técnicos y Contratación de Obras" en el caso de proyectos desarrollados en el marco del Programa Fondo Solidario de Elección de Vivienda o "Elaboración y Presentación del Proyecto Técnico y Contratación de Obras" en el caso de proyectos desarrollados en el marco del Programa de Habitabilidad Rural, según lo dispuesto en la Resolución de Asistencia Técnica respectiva, esto cuando el proyecto comprenda una vivienda y hasta 30 unidades habitacionales. En caso de proyectos colectivos superiores a 30 viviendas, se pagará a partir de la vivienda 31, hasta el 10% del honorario asociado a este servicio, utilizando la misma metodología de pago acumulativo establecido en las resoluciones de Asistencia Técnica correspondientes, de acuerdo a la siguiente tabla:
-
-. Para hacer efectivo el pago, la EP o EGR según corresponda, deberá adjuntar un comprobante que acredite el pago al participante que presentó y aprobó el Proyecto de Vivienda Tipo. Alternativamente, Serviu, a través de un mandato otorgado por la EP o la EGR, podrá pagar directamente al participante o la entidad el honorario pactado.
-
-. El pago al participante o entidad autora del proyecto, correspondiente al servicio Elaboración de Proyectos Técnicos, se calculará conforme al porcentaje definido con anterioridad, en los mismos hitos de pago que establece la resolución de Asistencia Técnica respectiva.
-
-. El hito de pago establecido para los honorarios del autor de la Vivienda Tipo será el inicio de obras, acreditado mediante el Acta de Entrega de Terreno y anotación en el Libro de Obras.
-
-. Los cálculos y los hitos de pago de los honorarios de Asistencia Técnica asociados al proyecto habitacional, son los establecidos en la resolución exenta N° 1.875 (V. y U.), de 2015, y en la resolución exenta N° 3.131 (V. y U.), de 2016.
-
-### 7. DE LA IMPLEMENTACIÓN DE LAS VIVIENDAS TIPO
-
-7.1 Del Programa de Habitabilidad Rural, regulado por el DS N° 10 (V. y U.), de 2015.
+6.1 Del Programa de Habitabilidad Rural, regulado por el DS N° 10 (V. y U.), de 2015.
 
 . Una vez seleccionada una Vivienda Tipo, tratándose de familias beneficiadas con el Subsidio del Programa de Habitabilidad Rural, regulado por el DS N° 10 (V. y U.), de 2015, los Serviu revisarán los siguientes antecedentes técnicos:
 
 - Estudio de Suelos, Levantamiento Topográfico, Contrato de Obras y Presupuesto Detallado. Será responsabilidad de Serviu que los costos finales de la vivienda tipo se encuentren debidamente justificados, debiendo revisar y aprobar el costo final del proyecto, aplicando en la evaluación lo dispuesto en el oficio N° 184 (V. y U.), de 6 de marzo de 2018, el cual establece directrices para los procesos de revisión y aprobación de Proyectos de Habitabilidad Rural.
 
-7.2 Del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS N° 49 (V. y U.), de 2011.
+6.2 Del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS N° 49 (V. y U.), de 2011.
 
 . Para la Calificación Definitiva de un Proyecto Habitacional que aplica un proyecto de Vivienda Tipo aprobado en el marco del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS N° 49 (V. y U.) de 2011, los Serviu sólo deberán verificar lo siguiente:
 
@@ -292,7 +270,7 @@ Se evaluará la red interior. Se deberá presentar y evaluar caso a caso al mome
 
 - La existencia de un proyecto aprobado por la Seremi de Salud respectiva, en el caso de Soluciones Sanitarias Particulares de Abastos de Agua Potable y Sistemas de Evacuación de Aguas Servidas.
 
-### 8. FORMATOS
+### 7. FORMATOS
 
 . Se adjuntan al presente instrumento, los siguientes antecedentes que forman parte integrante de esta resolución y deberán ser presentados en el orden y formatos indicados:
 
