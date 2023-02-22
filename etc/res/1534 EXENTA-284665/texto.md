@@ -88,15 +88,17 @@ APÉNDICE
 
 Este apéndice es parte integrante de la norma técnica que establece la numeración para servicios de emergencia y el procedimiento de asignación correspondiente.
 
-Número Servicio de Para tener acceso a:
+Número Servicio Para tener acceso a:
+
+de
 
 Emergencia
 
-130 Incendios La recepción de llamadas de
+130 Incendios La recepción de llamadas
 
-Forestales emergencia, atendidas por
+Forestales de emergencia, atendidas
 
-personal de CONAF,
+por personal de CONAF,
 
 correspondientes a la
 
@@ -106,103 +108,103 @@ y aviso de ocurrencia de
 
 incendios forestales.
 
-131 Ambulancias La recepción de llamadas de
+131 Ambulancias La recepción de llamadas
 
-emergencia, atendidas por
+de emergencia, atendidas
 
-personal del Ministerio de
+por personal del
 
-Salud, que tienen relación
+Ministerio de Salud,
 
-con la salud de las
+que tienen relación con
+
+la salud de las
 
 personas.
 
-132 Bomberos La recepción de llamadas de
+132 Bomberos La recepción de llamadas
 
-emergencia atendidas por
+de emergencia atendidas
 
-personal del Cuerpo de
+por personal del Cuerpo
 
-Bomberos de Chile.
+de Bomberos de Chile.
 
-133 Carabineros de Chile La recepción de llamadas de
+133 Carabineros La recepción de llamadas
 
-emergencia, es decir, robos,
+de Chile de emergencia, es decir,
 
-asaltos, homicidios,
+robos, asaltos,
 
-agresiones, accidentes de
+homicidios, agresiones,
 
-tránsito u otros
+accidentes de tránsito
 
-hechos que afecten
+u otros hechos que
 
-gravemente a
+afecten gravemente a
 
 las personas.
 
-134 Investigaciones La recepción de llamadas de
+134 Investigaciones La recepción de llamadas
 
-emergencia atendidas por
+de emergencia atendidas
 
-personal de la Policía de
+por personal de la
+
+Policía de
 
 Investigaciones.
 
-135 Fono Drogas La atención de denuncias y
+135 Fono Drogas La atención de denuncias
 
-recepción de información por
+y recepción de
 
-personal de Carabineros de
+información por personal
+
+de Carabineros de
 
 Chile, sobre focos de
 
-tráfico y consumo
+tráfico y consumo de
 
-de drogas.
+drogas.
 
-NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+NÚMERO SERVICIO PARA TENER ACCESO A:
 
-136 Cuerpo de Socorro La recepción de
+DE
 
-Andino de Chile llamadas
+EMERGENCIA
 
-Atendidas
+136 Cuerpo La recepción de llamadas
 
-por personal
+de Socorro Atendidas por personal
 
-del Cuerpo de
+Andino del Cuerpo de Socorro
 
-Socorro Andino
+de Chile Andino de Chile,
 
-de Chile,
+respecto de accidentes
 
-respecto de
+y emergencias que
 
-accidentes y
+ocurran en lugares
 
-emergencias que
+cordilleranos y agrestes.
 
-ocurran en
+137 Búsqueda y La recepción de llamadas
 
-lugares
+Salvamento de emergencia atendidas
 
-cordilleranos
+Marítimo por personal de la
 
-y agrestes.
+Armada de Chile,
 
-137 Búsqueda y La recepción de llamadas de
+correspondientes
 
-Salvamento Marítimo emergencia atendidas
+a accidentes en Playas
 
-por personal de la Armada de
-
-Chile, correspondientes a
-
-accidentes en Playas y
-
-roqueríos, accidentes
+y roqueríos, accidentes
 
 portuarios, alertas de
 
@@ -210,21 +212,23 @@ naves en emergencia y
 
 situaciones similares,
 
-con el objeto de
+con el objeto de brindar
 
-brindar auxilio a las
+auxilio a las personas
 
-personas accidentadas.
+accidentadas.
 
-138 Aéreo de La recepción de llamadas de
+138 Aéreo de La recepción de llamadas
 
-Rescate (SAR) emergencia atendidas por
+Rescate de emergencia atendidas
 
-personal de la Fuerza Aérea
+(SAR) por personal de la Fuerza
 
-de Chile, correspondientes a
+Aérea de Chile,
 
-la búsqueda de aeronaves
+correspondientes a la
+
+búsqueda de aeronaves
 
 y salvamento de sus
 
@@ -236,53 +240,61 @@ territorio chileno, a la
 
 búsqueda de personas
 
-extraviadas o accidentadas
+extraviadas o
 
-en la cordillera y a la
+accidentadas en la
 
-evacuación de damnificados
+cordillera y a la
 
-durante catástrofes
+evacuación de
 
-naturales.
+damnificados durante
+
+catástrofes naturales.
 
 139 Informaciones La recepción de llamadas
 
-Policiales por personal de Carabineros
+Policiales por personal de
 
-de Chile para la atención de
+Carabineros de Chile
 
-Consultas relativas a la
+para la atención
 
-actividad policial
+de Consultas relativas
+
+a la actividad policial
 
 143 Fonoacción La recepción de llamadas
 
 para la atención de
 
-consultas o presentación de
+consultas o presentación
 
-denuncias al Ministerio de
+de denuncias al
 
-Transpones y
+Ministerio de Transportes
 
-Telecomunicaciones, por
+y Telecomunicaciones, por
 
-humos visibles en vehículos
+humos visibles en
 
-motorizados, por calidad de
+vehículos motorizados,
 
-servicio del transporte
+por calidad de servicio
 
-público o de las plantas de
+del transporte público
+
+o de las plantas de
 
 revisión técnica.
 
-147 Fono Niños La recepción de llamadas de
+147 Fono Niños La recepción de llamadas
 
-emergencia atendidas por
+de emergencia atendidas
 
-personal especializado de
+por personal
+
+especializado de
 
 Carabineros de Chile,
 
@@ -290,75 +302,89 @@ respecto de amenazas o
 
 vulneraciones de los
 
-derechos de los niños, niñas
+derechos de los niños,
 
-y adolescentes menores de
+niñas y adolescentes
 
-edad, en el ámbito del
+menores de edad, en el
 
-maltrato infantil y abuso
+ámbito del maltrato
+
+infantil y abuso
 
 sexual.
 
-149 Fono Familia La recepción de llamadas por
+149 Fono Familia La recepción de llamadas
 
-personal de Carabineros
+por personal de
 
-de Chile para la atención de
+Carabineros de Chile
+
+para la atención de
 
 consultas, con el objeto
 
-de solicitar información de
+de solicitar información
 
-orientación y efectuar
+de orientación y efectuar
 
 denuncias relativas a
 
-maltrato dentro del núcleo
+maltrato dentro del
 
-familiar.
+núcleo familiar.
 
-1400 Botes Salvavidas La recepción de llamadas de
+1400 Botes La recepción de llamadas
 
-Puerto Montt emergencia atendidas por
+Salvavidas de emergencia atendidas
 
-personal del Cuerpo de
+Puerto por personal del Cuerpo
 
-Voluntarios de Botes
+Montt de Voluntarios de Botes
 
-Salvavidas de Puerto Montt,
+Salvavidas de Puerto
 
-a objeto de proveer, entre
+Montt, a objeto de
+
+proveer, entre
 
 otros servicios,
 
-rescate marítimo y terrestre
+rescate marítimo y
 
-de personas con riesgo
+terrestre de personas
 
-vital, en la zona primaria
+con riesgo vital,
+
+en la zona primaria
 
 de Puerto Montt, que
 
-comprende las Provincias de
+comprende las Provincias
 
-Llanquihue, Chiloe y Palena.
+de Llanquihue, Chiloe
+
+y Palena.
 
 1402 Fono La recepción de llamadas
 
-Emergencia atendidas por personal de la
+Emergencia atendidas por personal
 
-Las Condes Dirección de Seguridad
+Las Condes de la Dirección de
 
-Ciudadana y Emergencias de
+Seguridad Ciudadana y
 
-la Municipalidad
+Emergencias de la
 
-de Las Condes, respecto de
+Municipalidad de
+
+Las Condes, respecto de
 
 situaciones de emergencia
 
-que ocurran en dicha comuna.
+que ocurran en dicha
+
+comuna.
 
 1403 Fono La recepción de llamadas
 
@@ -366,37 +392,39 @@ Emergencia atendidas por personal
 
 Vitacura de la Dirección de
 
-Operaciones de
+Operaciones de la
 
-la Municipalidad de
+Municipalidad de
 
-Vitacura,
+Vitacura, respecto de
 
-respecto de situaciones de
+situaciones de emergencia
 
-emergencia que ocurran en
+que ocurran en dicha
 
-dicha comuna
+comuna
 
-1404 Servicio de Rescate La recepción de llamadas de
+1404 Servicio La recepción de llamadas
 
-Asociación Chilena emergencia por personal de
+de Rescate de emergencia por
 
-de Seguridad Empresas de Servicios
+Asociación personal de Empresas
 
-Externos Asociación Chilena
+Chilena de de Servicios Externos
 
-de Seguridad S. A. (ESACHS),
+Seguridad Asociación Chilena de
+
+Seguridad S. A. (ESACHS),
 
 a objeto de gestionar la
 
 asistencia médica
 
-y el respectivo despacho de
+y el respectivo despacho
 
-ambulancias en todas las
+de ambulancias en todas
 
-regiones del país.
+las regiones del país.
 
 1411 Fono El Metro La recepción de
 
@@ -416,15 +444,17 @@ transporte, en la Región
 
 Metropolitana.
 
-NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+NÚMERO SERVICIO PARA TENER ACCESO A:
 
-1414 Municipalidad de
+DE
 
-Providencia La recepción de llamadas
+EMERGENCIA
 
-atendidas por personal
+1414 Municipalidad La recepción de llamadas
 
-de la Dirección de
+de atendidas por personal
+
+Providencia de la Dirección de
 
 Protección Civil y
 
@@ -442,13 +472,17 @@ emergencia que ocurran
 
 en dicha comuna.
 
-NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+NÚMERO SERVICIO PARA TENER ACCESO A:
 
-1407 Mutual de Seguridad La recepción de llamadas
+DE
 
-atendidas por personal de
+EMERGENCIA
 
-la Mutual de Seguridad,
+1407 Mutual La recepción de llamadas
+
+de atendidas por personal de
+
+Seguridad la Mutual de Seguridad,
 
 para el servicio de
 
@@ -458,21 +492,23 @@ de dicha entidad a nivel
 
 nacional.
 
-Número Servicio de Para tener acceso a
+Número Servicio Para tener acceso a:
+
+de
 
 Emergencia
 
-1410 Fono Emergencia La recepción de llamadas
+1410 Fono La recepción de llamadas
 
-Peñaflor atendidas por personal
+Emergencia atendidas por personal
 
-de la Oficina de Seguridad
+Peñaflor de la Oficina de
 
-Ciudadana de la
+Seguridad Ciudadana de la
 
-Municipalidad
+Municipalidad de
 
-de Peñaflor, respecto de
+Peñaflor, respecto de
 
 situaciones de emergencia
 
@@ -480,23 +516,23 @@ que ocurran en dicha
 
 comuna.
 
-Número Servicio de Emergencia Para tener acceso a
+Número Servicio Para tener acceso a:
 
-1408 Fono Emergencia Zapallar La recepción de llamadas
+de
 
-atendidas por personal
+Emergencia
 
-del Servicio de
+1408 Fono La recepción de llamadas
 
-Atención de
+Emergencia atendidas por personal
 
-Seguridad
+Zapallar del Servicio de Atención
 
-y Emergencia
+de Seguridad y Emergencia
 
-Ciudadana
+Ciudadana de la
 
-de la Municipalidad de
+Municipalidad de
 
 Zapallar, respecto de
 
@@ -506,65 +542,51 @@ emergencia que ocurran
 
 en dicha comuna.
 
-1416 Fono Emergencia La recepción de
+1416 Fono La recepción de llamadas
 
-La Florida llamadas
+Emergencia atendidas por
 
-atendidas por personal
+La Florida personal de la
 
-de la Municipalidad
+Municipalidad de La
 
-de La Florida,
+Florida, respecto
 
-respecto de
+de situaciones de
 
-situaciones de
+emergencia que ocurran
 
-emergencia
+en dicha comuna.
 
-que ocurran en dicha
+1417 Fono La recepción de llamadas
 
-comuna.
+Emergencia atendidas por personal
 
-1417 Fono Emergencia La recepción de
+Huechuraba de la Municipalidad de
 
-Huechuraba llamadas
+Huechuraba, respecto
 
-atendidas por
+de situaciones de
 
-personal de
+emergencia que ocurran
 
-la Municipalidad
+en dicha comuna.
 
-de Huechuraba,
+NÚMERO SERVICIO PARA TENER ACCESO A:
 
-respecto de
+DE
 
-situaciones de
+EMERGENCIA
 
-emergencia
+1412 FONODROGAS La recepción de llamadas
 
-que ocurran en dicha
+de SENDA atendidas por personal
 
-comuna.
+del Servicio Nacional
 
-NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+para la Prevención y
 
-1412 FONODROGAS de SENDA La recepción
-
-de llamadas
-
-atendidas por
-
-personal
-
-del Servicio
-
-Nacional
-
-para la Prevención
-
-y Rehabilitación del
+Rehabilitación del
 
 Consumo de Drogas y
 
@@ -574,13 +596,17 @@ todas las regiones
 
 del país.
 
-Número Servicio de Emergencia Para tener acceso a
+Número Servicio Para tener acceso a:
 
-1413 Fono Emergencia Talagante La recepción de llamadas
+de
 
-Atendidas por personal
+Emergencia
 
-del Departamento de
+1413 Fono La recepción de llamadas
+
+Emergencia Atendidas por personal
+
+Talagante del Departamento de
 
 Seguridad e Información
 
@@ -594,45 +620,37 @@ emergencia que ocurran
 
 en dicha comuna.
 
-1409 Fono Emergencia Temuco La recepción de llamadas
+1409 Fono La recepción de llamadas
 
-atendidas por personal
+Emergencia atendidas por personal
 
-del Departamento
+Temuco del Departamento de
 
-de Seguridad
+Seguridad e Información
 
-e Información de la
-
-Municipalidad de
+de la Municipalidad de
 
 Temuco, respecto de
 
-situaciones
+situaciones de
 
-de emergencia que ocurran
+emergencia que ocurran
 
 en dicha comuna.
 
-1415 Fono Emergencia El La recepción de
+1415 Fono La recepción de llamadas
 
-Quisco llamadas
+Emergencia atendidas por personal
 
-atendidas por personal
+El Quisco de la Unidad de
 
-de la Unidad de
+Inspección y Vigilancia
 
-Inspección
+de la Municipalidad de
 
-y Vigilancia de la
+El Quisco, respecto de
 
-Municipalidad de El
-
-Quisco, respecto de
-
-situaciones de
-
-emergencia
+situaciones de emergencia
 
 que ocurran en dicha
 
@@ -640,13 +658,11 @@ comuna.
 
 NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
-1418 Fono Emergencia Maipú La recepción
+1418 Fono La recepción de llamadas
 
-de llamadas
+Emergencia atendidas por personal
 
-atendidas por personal
-
-de la Municipalidad de
+Maipú de la Municipalidad de
 
 Maipú, respecto de
 
@@ -656,39 +672,41 @@ que ocurran en dicha
 
 comuna.
 
-1419 Fono Emergencia La recepción de
+1419 Fono La recepción de llamadas
 
-La Reina llamadas
+Emergencia atendidas por
 
-atendidas por personal
+La Reina personal de la
 
-de la Central de
+Central de Operaciones
 
-Operaciones de
+de Emergencia de la
 
-Emergencia
-
-de la Municipalidad de
+Municipalidad de
 
 La Reina, respecto de
 
-situaciones de emergencia
+situaciones de
 
-que ocurran en dicha
+emergencia que
+
+ocurran en dicha
 
 comuna.
 
-1420 Fono Emergencia La recepción de llamadas
+1420 Fono La recepción de llamadas
 
-Coquimbo atendidas por personal de
+Emergencia atendidas por
 
-la Dirección de Seguridad
+Coquimbo personal de la
+
+Dirección de Seguridad
 
 Ciudadana de la
 
-Municipalidad
+Municipalidad de
 
-de Coquimbo, respecto de
+Coquimbo, respecto de
 
 situaciones de
 
@@ -2350,11 +2368,11 @@ referidas a
 
 incendios.
 
-1514 Fono Emergencia Las llamadas serán
+1514 Fono Las llamadas serán
 
-Pudahuel recepcionadas por
+Emergencia recepcionadas por el
 
-el Departamento de
+Pudahuel Departamento de
 
 Seguridad Pública de
 
@@ -2376,11 +2394,9 @@ manera, las llamadas
 
 serán canalizadas por
 
-medio de los
+medio de los dispositivos
 
-dispositivos de
-
-respuesta y despliegue
+de respuesta y despliegue
 
 territorial al lugar
 
@@ -2390,33 +2406,27 @@ patrullaje preventivo
 
 de seguridad ciudadana
 
-para,por ejemplo,
+para, por ejemplo,
 
 incendios, accidentes
 
-de tránsito o
+de tránsito o emergencias
 
-emergencias en espacio
+en espacio público,
 
-público, atender a
+atender a víctimas de
 
-víctimas de todo
+todo tipo de delitos,
 
-tipo de delitos,
+situaciones visualizadas
 
-situaciones
+por vecinos, denuncias
 
-visualizadas por
+asociadas a actividades
 
-vecinos, denuncias
+irregulares en espacios
 
-asociadas a
-
-actividades irregulares
-
-en espacios públicos,
-
-atención de
+públicos, atención de
 
 problemáticas de
 
@@ -2440,39 +2450,47 @@ la atención de
 
 emergencias.
 
-1516 Fono Emergencia La recepción de
+1516 Fono La recepción de
 
-Romeral llamadas por la Oficina
+Emergencia llamadas por la Oficina
 
-de Seguridad Ciudadana
+Romeral de Seguridad Ciudadana
 
-de la Ilustre Municipalidad
+de la Ilustre
 
-de Romeral, que al recibir
+Municipalidad de Romeral,
 
-solicitudes en situaciones
+que al recibir
 
-de emergencia que requieran
+solicitudes en
 
-soluciones rápidas para los
+situaciones
 
-ciudadanos, derivarán cada
+de emergencia que
 
-caso al patrullero de
+requieran
 
-seguridad más cercano al
+soluciones rápidas para
 
-domicilio o lugar de los
+ciudadanos, derivarán
 
-hechos.
+cada caso al patrullero
 
-1517 Fono Emergencia La recepción de llamadas
+de seguridad más cercano
 
-Paine por parte de la Dirección
+al domicilio o lugar de
 
-de Seguridad Pública de la
+los hechos.
 
-lustre Municipalidad de
+1517 Fono La recepción de llamadas
+
+Emergencia por parte de la
+
+Paine Dirección de Seguridad
+
+Pública de la Ilustre
+
+Municipalidad de
 
 Paine, donde se efectuará
 
@@ -2482,9 +2500,9 @@ con Carabineros, Bomberos
 
 y Ambulancia, según lo
 
-requiera la situación. Las
+requiera la situación.
 
-acciones concretas e
+Las acciones concretas e
 
 inmediatas que adoptará
 
@@ -2492,25 +2510,29 @@ dicha Dirección incluyen
 
 acudir con vehículos
 
-municipales al lugar donde
+municipales al lugar
 
-fueron reportados los
+donde fueron reportados
 
-hechos, en el cual se
+los hechos, en el cual
 
-restará la primera atención
+se restará la primera
 
-de las víctimas. Asimismo,
+atención de las víctimas.
 
-se colaborará en el cierre
+Asimismo, se colaborará
 
-de calles o perímetro del
+en el cierre de calles
+
+o perímetro del
 
 lugar; y, por último,
 
-apoyo y contención telefónica
+apoyo y contención
 
-de la persona que está
+telefónica de la
+
+persona que está
 
 siendo afectada por un
 
@@ -2631,5 +2653,35 @@ organismos y autoridades
 correspondientes, según
 
 lo requiera la situación.
+
+1520 Iquique Recepción de llamadas
+
+del servicio de
+
+emergencia de la
+
+comuna de Iquique,
+
+recibidas por el
+
+Área de Emergencias
+
+y Seguridad Pública
+
+de la Ilustre
+
+Municipalidad de
+
+Iquique, donde serán
+
+atendidas las inquietudes
+
+o solicitudes tendientes
+
+a salvaguardar la vida y
+
+los bienes de las
+
+personas.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
