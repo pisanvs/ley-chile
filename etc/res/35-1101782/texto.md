@@ -76,6 +76,8 @@ a) Entidad Experta: Persona natural o jurídica que cumple con el perfil definid
 
 b) Becario: También llamados beneficiarios, son personas naturales, chilenas o extranjeras con residencia definitiva en el país. Cada Proyecto podrá establecer requisitos objetivos adicionales que deberán cumplir, dependiendo de la naturaleza del PFC.
 
+No podrán ser becarios, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la ley Nº 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos".
+
 c) Asociado: Es una entidad que se caracteriza por cofinanciar la ejecución del proyecto mediante la formalización de un aporte pecuniario y/o valorizado. Su participación es optativa.
 
 ### 5. MODELO DE ADMINISTRACIÓN
