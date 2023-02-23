@@ -8,27 +8,7 @@ Decreto:
 
 #### Artículo primero
 
-Autorízase la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos, exento del uso del disco fiscal, al vehículo de propiedad del Ministerio Público que se individualiza, asignado a la Fiscal Regional de la Región de Arica y Parinacota.
-
-Fiscal Regional de la Región de Arica y Parinacota
-
-Vehículo: Station Wagon
-
-Marca: Chevrolet
-
-Modelo: Captiva 2.4 Aut
-
-Año: 2015
-
-Motor: LE9141470006
-
-Chassis: KL1FC5EU3EB046757
-
-Color: Plateado metálico
-
-I.N.R.V.M.: GVSB.34-9
-
-Patente: GVSB.34
+Derogado.
 
 #### Artículo segundo
 
