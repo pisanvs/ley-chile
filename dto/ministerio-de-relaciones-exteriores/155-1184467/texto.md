@@ -18,7 +18,7 @@ Considerando
 
 Decreto:
 
-1. Apruébese la prórroga de la contrata del Sr. Germán Rocca Nazabal (RUN Nº 9.387.719-5), a contar del 1 de enero al 11 de marzo de 2022, como agregado a contrata, asimilado a 4ª Categoría Exterior, a fin de que preste funciones como agregado en el Consulado General de Chile en Miami, Estados Unidos.
+1. Apruébese la prórroga de la contrata del Sr. Germán Rocca Nazabal (RUN N° 9.387.719-5), a contar del 1 de enero hasta el 31 de marzo de 2022, como Agregado a contrata, asimilado a 4ª Categoría Exterior, a fin de que preste funciones como Agregado en el Consulado General de Chile en Miami, Estados Unidos de América.
 
 2. El Ministerio de Relaciones Exteriores podrá poner término anticipado al presente contrato, si los servicios de la persona indicada dejan de ser necesarios.
 
