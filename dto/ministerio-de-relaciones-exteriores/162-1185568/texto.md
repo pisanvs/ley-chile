@@ -24,7 +24,7 @@ Decreto:
 
 3. Por razones impostergables de buen servicio, la persona antes individualizada dará continuidad a sus funciones, sin esperar la total tramitación del presente decreto.
 
-4. Establézcase que la Sra. Monasterio Gálvez tendrá derecho a pasajes, asignación de traslado de menaje de casa y efectos personales, y asignación de instalación, todo de conformidad con lo establecido en el DFL 33 antes citado. Las condiciones de asignación de traslado de menaje de casa y efectos personales se ajustarán además al reglamento establecido en el decreto N° 2.154 de 1997 de esta Secretaría de Estado.
+### 4. Derogado
 
 5. Impútese el gasto que corresponda al Subtítulo 21-04-001 del presupuesto corriente en moneda nacional; y a los Subtítulos 22-08-007 y 21-02-001 del presupuesto corriente en moneda extranjera convertida a dólares, todos del Ministerio de Relaciones Exteriores, del año presupuestario vigente.
 
