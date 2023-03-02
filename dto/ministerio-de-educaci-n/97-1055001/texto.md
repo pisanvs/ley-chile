@@ -26,13 +26,13 @@ Las normas del presente reglamento regulan el otorgamiento de los beneficios del
 
 a) "Beca Bicentenario" es aquella dirigida a estudiantes de buen rendimiento académico que se matriculen como alumnos/as de primer año en universidades acreditadas en el nivel avanzado o de excelencia de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
 
-Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la PSU y en reemplazo se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
+Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la Prueba de Acceso a la Educación Superior ("PAES"), o la denominación que defina el Comité de Acceso al Subsistema Universitario establecido en la ley N° 21.091, y en reemplazo se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
 Adicionalmente, esta beca estará destinada a aquellos estudiantes que se encuentren en cursos superiores en aquellas universidades incluidas en el artículo 1º del decreto con fuerza de ley Nº 4, de 1981, del Ministerio de Educación, y cumplan los requisitos que se establecen en el artículo 24.
 
 b) "Beca Juan Gómez Millas". Es aquella dirigida a estudiantes de buen rendimiento académico egresados de enseñanza media y que se matriculen como alumnos en alguna de las instituciones de educación superior a que se refiere el artículo 52 del DFL (Ed.) Nº 2, de 2010, que tengan el carácter de instituciones autónomas y se encuentren acreditadas institucionalmente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, de conformidad a la ley Nº 20.129.
 
-Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la PSU y se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
+Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la "PAES", o el instrumento que la reemplace, y se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
 Adicionalmente, se podrá otorgar a estudiantes extranjeros, con permanencia definitiva o con residencia, que hayan cursado la enseñanza media en Chile, de comprobada necesidad socioeconómica, que se matriculen en las instituciones de educación superior mencionadas anteriormente.
 
@@ -46,9 +46,9 @@ d) "Beca para Estudiantes Hijos de Profesionales de la Educación". Se dirige a 
 
 e) "Beca Vocación de Profesor". Es aquella dirigida a estudiantes que cumplan las siguientes condiciones, alternativamente:
 
-i) hayan obtenido como mínimo 600 puntos promedio en la Prueba de Selección Universitaria, entre las pruebas de Lenguaje y Comunicación y Matemática, que se matriculen por primera vez como alumnos de primer año en carreras de pedagogía acreditadas por al menos 2 años, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, en conformidad a la ley Nº 20.129, y que tengan el carácter de elegibles de acuerdo a lo establecido en el presente decreto.
+i) hayan obtenido como mínimo 625 puntos promedio en la Prueba de Transición ("PDT") o en la PAES (o el instrumento que la reemplace), según sea el caso, entre las pruebas obligatorias vigentes de Acceso a la Educación Superior, que se matriculen por primera vez como alumnos de primer año en carreras de pedagogía acreditadas por al menos 2 años, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, en conformidad a la ley Nº 20.129, y que tengan el carácter de elegibles de acuerdo a lo establecido en el presente decreto.
 
-Asimismo, se podrá otorgar este beneficio a aquellos estudiantes provenientes de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo y que hayan obtenido a lo menos 580 puntos promedio en la PSU de las pruebas de Lenguaje y Comunicación y Matemáticas.
+Asimismo, se podrá otorgar este beneficio a aquellos estudiantes provenientes de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo y que hayan obtenido a lo menos 595 puntos promedio en la PDT o en la PAES (o el instrumento que la reemplace), según sea el caso, entre las pruebas obligatorias vigentes de Acceso a la Educación Superior.
 
 ii) se encuentren matriculados en el último año de una licenciatura y que opten por un ciclo o programa de formación pedagógica elegible para licenciados al año siguiente o subsiguiente, de acuerdo a lo establecido en el artículo 42 del presente decreto, en instituciones de Educación Superior reconocidas oficialmente por el Estado y acreditadas institucionalmente por a lo menos en el nivel básico equivalente a 3 años, de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. El beneficio financia en este caso, el último año de licenciatura y el programa de formación pedagógica de una duración máxima de cuatro semestres.
 
@@ -192,7 +192,7 @@ no haber utilizado el
 
 beneficio con anterioridad.
 
-g) "Beca de Excelencia Académica". Es aquella dirigida a estudiantes meritorios que egresen de enseñanza media en el año inmediatamente anterior a la matrícula, de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor del establecimiento o que hayan obtenido un puntaje nacional en la Prueba de Selección Universitaria rendida para dicho proceso de admisión, de acuerdo a la información oficial que entregue el Departamento de Evaluación, Medición y Registro Educacional de la Universidad de Chile (DEMRE). En el evento que alguna región del país no tuviere alumnos con puntaje nacional, se asignará el beneficio de esta beca al estudiante que haya obtenido el mejor puntaje de esa región. Para la obtención de este beneficio deberán matricularse como estudiantes de primer año en las instituciones de educación superior señaladas en el artículo 52 del DFL (Ed.) Nº 2, de 2010, que se encuentren acreditadas institucionalmente al 31 de diciembre del año previo a la matrícula, conforme a la ley Nº 20.129.
+g) "Beca de Excelencia Académica". Es aquella dirigida a estudiantes meritorios que egresen de enseñanza media en el año inmediatamente anterior a la matrícula, de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor del establecimiento o que hayan obtenido al menos una de las Distinciones a las Trayectorias Educativas ("DTE") en las Pruebas de Acceso a la Educación Superior rendidas para dicho proceso de admisión, de acuerdo a lo establecido en la letra a) del artículo 63 del presente reglamento. En el evento que alguna región del país no tuviere alumnos con una destacada trayectoria educativa, se asignará el beneficio de esta beca al estudiante que haya obtenido el mejor puntaje de esa región. Para la obtención de este beneficio deberán matricularse como estudiantes de primer año en las instituciones de educación superior señaladas en el artículo 52 del DFL (Ed.) Nº 2, de 2010, que se encuentren acreditadas institucionalmente al 31 de diciembre del año previo a la matrícula, conforme a la ley Nº 20.129.
 
 h) "Beca de Articulación". Este beneficio se otorgará a estudiantes meritorios, egresados o titulados de carreras técnicas de nivel superior dentro de los dos años precedentes al año de asignación y, que habiendo obtenido un promedio de notas de educación media igual o superior a 5,0 (cinco coma cero), deseen continuar sus estudios en carreras conducentes a títulos profesionales, en un área del conocimiento afín con la carrera de origen, en instituciones de educación superior acreditadas, conforme a la ley Nº 20.129, al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Para la selección de los postulantes, se considerará el nivel socioeconómico del alumno y su familia, junto a su rendimiento académico.
 
@@ -204,13 +204,17 @@ j) "Beca Cumplimiento de Sentencias y Acuerdos". Incluye los siguientes benefici
 
 - Caso Lemún Saavedra: Podrá optar a esta beca la persona individualizada en el numeral 4º, literal a), del Acuerdo que contiene las recomendaciones emitidas por la Comisión Interamericana de Derechos Humanos en el caso de Edmundo Alex Lemún Saavedra vs Chile, suscrito con fecha 9 de marzo 2018, que curse estudios superiores en instituciones de educación superior.
 
+- Caso Acuerdo de Solución Amistosa, suscrito por el Estado y "F.S.": Tendrán derecho a esta beca las personas individualizadas en el Capítulo IV del Acuerdo de Solución Amistosa, suscrito por el Estado y "F.S.", con fecha 3 de agosto de 2021, correspondiente al caso N° 12.956 de la Comisión Interamericana de Derechos Humanos, que cursen estudios superiores en instituciones de educación superior.
+
 Los beneficiarios de estas becas podrán acceder a las mismas bajo las condiciones y procedimiento que se establecen en el título XI del presente reglamento, siempre que se matriculen en instituciones de educación superior que se encuentren acreditadas de conformidad a la ley Nº 20.129, al 31 de diciembre del año anterior a la asignación.
+
+Las referencias a las pruebas obligatorias vigentes de acceso a la Educación Superior se entenderán hechas a las Pruebas de Comprensión Lectora y Matemática para el caso de la PDT, y a las Pruebas de Competencia Lectora y Competencia Matemática 1 para el caso de la PAES.
 
 #### Artículo 2º
 
 Las becas que se otorguen en virtud de lo dispuesto por el presente Reglamento tendrán por objeto cubrir, total o parcialmente, el valor del arancel real de la carrera correspondiente.
 
-Se entenderá por "arancel real" el valor anual de la carrera, establecido por la institución de educación superior donde estudie el becario, informado a la Subsecretaría de Educación Superior en la oferta académica respectiva, cualquiera sea la denominación que en ella se le dé.
+Se entenderá por "arancel real" el valor anual de la carrera, establecido por la institución de educación superior donde estudie el becario, informado a la Subsecretaría de Educación Superior en adelante, la "Subsecretaría", en la oferta académica respectiva, cualquiera sea la denominación que en ella se le dé.
 
 Para los efectos del presente reglamento, se entenderá por "Arancel de referencia" el monto máximo de dinero determinado por la Subsecretaría para financiar un plan o programa de estudios determinado. Dicho arancel se fijará anualmente, mediante el acto administrativo correspondiente.
 
@@ -282,7 +286,7 @@ Los requisitos objetivos que deban cumplir los estudiantes para la asignación d
 
 #### Artículo 13
 
-En los casos que corresponda establecer la situación socioeconómica del alumno, se utilizará como instrumento de evaluación uniforme el Formulario Único de Acreditación Socioeconómica, en adelante "FUAS", que consiste en un formulario digital que administra el Ministerio de Educación, a través de su la Subsecretaría, para recabar antecedentes socioeconómicos del postulante a la educación superior y su grupo familiar y a partir del cual se determina el decil de ingresos al que pertenece el postulante.
+En los casos que corresponda establecer la situación socioeconómica del alumno, se utilizará como instrumento de evaluación uniforme el Formulario Único de Acreditación Socioeconómica, en adelante "FUAS", que consiste en un formulario digital que administra el Ministerio de Educación, a través de su Subsecretaría, para recabar antecedentes socioeconómicos del postulante a la educación superior y su grupo familiar y a partir del cual se determina el decil de ingresos al que pertenece el postulante.
 
 La información obtenida mediante el FUAS se verificará con distintas bases de datos de organismos públicos, que permiten determinar la situación socioeconómica del postulante, en tramos de ingreso definidos por la Encuesta de Caracterización Socioeconómica Nacional, CASEN, o del instrumento que la reemplace. Dichos tramos de ingreso, serán corregidos de acuerdo a la información proporcionada por las bases de datos de otros organismos públicos. El resultado del instrumento permitirá distribuir a los postulantes en deciles ordenados en forma ascendente, de acuerdo al ingreso autónomo per cápita del hogar, corregido de acuerdo a las distintas bases de datos consultadas.
 
@@ -292,11 +296,11 @@ La Subsecretaría podrá solicitar al postulante que complemente o aclare la inf
 
 #### Artículo 14
 
-Para el requisito de puntaje PSU establecido para las Becas Bicentenario, Juan Gómez Millas, Estudiantes Hijos de Profesionales de la Educación y Vocación de Profesor, se considerará el mayor puntaje promedio obtenido en la Prueba de Selección Universitaria (pruebas de Lenguaje y Comunicación y Matemáticas) del proceso de admisión o del año inmediatamente anterior, según corresponda.
+Para el requisito de puntaje establecido para las Becas Bicentenario, Juan Gómez Millas, Estudiantes Hijos de Profesionales de la Educación y Vocación de Profesor, se considerará el mayor puntaje promedio obtenido en la PDT (pruebas de Comprensión Lectora y Matemática) o en la PAES (pruebas de Competencia Lectora y de Competencia Matemática 1), según sea el caso, del proceso de admisión o del año inmediatamente anterior, según corresponda.
 
-En el caso de la "Beca de Excelencia Académica", sólo se considerará la PSU del año de admisión, para cumplir el requisito de puntaje establecido para el beneficio.
+En el caso de la "Beca de Excelencia Académica", sólo se considerará la PDT o la PAES, según sea el caso, del año de admisión, para cumplir el requisito de puntaje establecido para el beneficio.
 
-En todo caso, no será exigible el requisito de puntaje PSU, o del instrumento que la reemplace, para aquellos estudiantes que ingresen a la educación superior mediante el Programa de Acompañamiento y Acceso Efectivo (PACE).
+En todo caso, no será exigible el requisito de puntaje PDT O PAES, o del instrumento que la reemplace, para aquellos estudiantes que ingresen a la educación superior mediante el Programa de Acompañamiento y Acceso Efectivo (PACE).
 
 #### Artículo 15
 
@@ -362,7 +366,7 @@ Previo a la selección del beneficio, la Subsecretaría realizará una pre-asign
 
 Dicha preasignación no constituye un derecho para el beneficiario, sino que constituye una etapa previa a la selección, en la cual la Subsecretaría verificará el efectivo cumplimiento de la totalidad de los requisitos establecidos en el presente reglamento respecto de los beneficiarios del programa de becas de educación superior.
 
-Para proceder a la asignación definitiva del beneficio, las Instituciones de Educación Superior deberán informar a la Subsecretaría la Subsecretaría, la nómina que acredita la matrícula en la respectiva institución, en los plazos establecidos por dicha Subsecretaría.
+Para proceder a la asignación definitiva del beneficio, las Instituciones de Educación Superior deberán informar a la Subsecretaría, la nómina que acredita la matrícula en la respectiva institución, en los plazos establecidos por dicha Subsecretaría.
 
 La nómina de estudiantes beneficiarios será comunicada a través de la página web. Una vez asignada la beca, ésta se hará efectiva mediante el pago directo a la institución de educación superior en que fue seleccionado el estudiante.
 
@@ -384,7 +388,7 @@ El postulante podrá fundar su recurso en causales tales como:
 
 . Falta de antecedentes relevantes para la resolución del asunto.
 
-. Error de cálculo en el proceso de asignación de becas (ingreso, notas enseñanza media, promedio PSU, entre otros).
+. Error de cálculo en el proceso de asignación de becas (ingreso, notas enseñanza media, promedio PDT o PAES, según corresponda, entre otros).
 
 . Otras situaciones que incidan en el proceso y que no se tomaron en consideración.
 
@@ -404,13 +408,13 @@ También se podrá asignar este beneficio a estudiantes que se matriculen en cur
 
 2. Pertenecer a los primeros siete deciles de menores ingresos de la población del país.
 
-3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que postulan a esta beca, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos.
+3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que postulan a esta beca, deberán haber obtenido en la PDT o en la PAES, según corresponda, un puntaje promedio igual o superior a 510 puntos.
 
-Se exceptuarán de rendir la PSU aquellos postulantes en situación de discapacidad, según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
+Se exceptuarán de rendir la PAES aquellos postulantes en situación de discapacidad, según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
 #### Artículo 24 bis
 
-Para hacer efectivo este beneficio, la institución en que se matriculen debe cumplir con la condición de que al menos el 80% de los estudiantes matriculados para el año anterior a la asignación del beneficio, en primer año en licenciaturas no conducentes a título, o carreras profesionales con licenciatura, cuenten con un puntaje ponderado promedio, igual o mayor a 450 puntos entre la Prueba de Selección Universitaria, el puntaje de notas de la enseñanza media y el puntaje de ranking de notas, los que se considerarán en idéntica proporción.
+Para hacer efectivo este beneficio, la institución en que se matriculen debe cumplir con la condición de que al menos el 80% de los estudiantes matriculados para el año anterior a la asignación del beneficio, en primer año en licenciaturas no conducentes a título, o carreras profesionales con licenciatura, cuenten con un puntaje ponderado promedio, igual o mayor a 458 puntos entre las pruebas obligatorias vigentes, el puntaje de notas de la enseñanza media y el puntaje de ranking de notas, los que se considerarán en idéntica proporción.
 
 #### Artículo 25
 
@@ -428,7 +432,7 @@ Para optar a la Beca Juan Gómez Millas, además de los requisitos señalados en
 
 2. Pertenecer a los primeros siete deciles de menores ingresos de la población del país.
 
-3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que postulan a esta beca, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos.
+3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que postulan a esta beca, deberán haber obtenido en la PDT o en la PAES, según corresponda, un puntaje promedio igual o superior a 510 puntos promedio.
 
 Se exceptuarán de este requisito aquellos postulantes con discapacidad, según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5.0. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
@@ -464,7 +468,7 @@ La Ley de Presupuestos de cada año establecerá el número de cupos disponibles
 
 La beca cubrirá hasta un monto máximo anual de $600.000 (seiscientos mil pesos) o el menor valor entre el arancel real de la carrera correspondiente y el monto del beneficio.
 
-Sin embargo, la beca cubrirá hasta un monto máximo anual de $860.000 (ochocientos sesenta mil pesos), para los postulantes que provengan de los hogares pertenecientes a los primeros cinco deciles de menores ingresos del país, en la medida que las instituciones en que se matriculen en primer año cuenten con acreditación vigente de tres años, de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior a la asignación.
+Sin embargo, la beca cubrirá hasta un monto máximo anual de $860.000 (ochocientos sesenta mil pesos), para los postulantes que provengan de los hogares pertenecientes a los primeros cinco deciles de menores ingresos del país, en la medida que las instituciones en que se matriculen en primer año cuenten con acreditación vigente de nivel básico, de conformidad a la ley N° 20.129, al 31 de diciembre del año anterior a la asignación.
 
 Para todos los efectos, los montos señalados en este artículo se aplicarán también para la renovación del beneficio de quienes lo hayan obtenido en años anteriores.
 
@@ -476,9 +480,9 @@ Derogado.
 
 El Ministerio de Educación asignará un número determinado de becas, de acuerdo a lo establecido en la Ley de Presupuestos de cada año, para aquellos estudiantes que habiendo egresado de enseñanza media dentro de los cuatro años anteriores al proceso de asignación de becas respectivo y que, cumpliendo con los requisitos establecidos en las letras a), b) y d) del artículo 29 del presente reglamento, se encuentren entre los mejores promedios de notas de su promoción, considerados por establecimiento, y que obtengan los mejores resultados, ordenados éstos por estricto orden de precedencia, al aplicarse en igual ponderación los puntajes obtenidos de los siguientes factores:
 
-1. Ranking de notas de enseñanza media, el que se calculará mediante un procedimiento estadístico basado en datos a nivel de cada establecimiento educacional, que transformará las notas de sus estudiantes a una escala normalizada entre 150 y 850 puntos.
+1. Ranking de notas de enseñanza media, el que se calculará mediante un procedimiento estadístico basado en datos a nivel de cada establecimiento educacional, que transformará las notas de sus estudiantes a una escala entre 100 y 1.000 puntos.
 
-2. Puntaje notas de enseñanza media (NEM) del estudiante, las que serán transformadas a puntaje estándar según tabla de conversión de notas utilizada para los efectos de la PSU por el Departamento de Evaluación, Medición y Registro Educacional (DEMRE) de la Universidad de Chile.
+2. Puntaje notas de enseñanza media (NEM) del estudiante, las que serán transformadas a puntaje estándar según tabla de conversión de notas utilizada para los efectos de la PDT o PAES, según corresponda, por el Departamento de Evaluación, Medición y Registro Educacional (Demre) de la Universidad de Chile, o la entidad mandatada para dichos efectos.
 
 #### Artículo 32
 
@@ -496,13 +500,13 @@ a) Ser hijo/a de un/a profesional de la educación o del personal a que se refie
 
 b) Matricularse en alguna de las instituciones de educación superior a que se refiere el artículo 52 del DFL (Ed.) Nº 2, de 2010, que cuenten con acreditación institucional al 31 de diciembre del año anterior a la asignación del beneficio, de conformidad a la ley Nº 20.129.
 
-c) En cuanto al rendimiento académico, se requiere obtener un puntaje promedio en la Prueba de Selección Universitaria igual o superior a 600 (seiscientos) puntos y un promedio de notas en la enseñanza media igual o superior a 6,0 (seis coma cero).
+c) En cuanto al rendimiento académico, se requiere obtener un puntaje promedio en la PDT o en la PAES, según corresponda, igual o superior a 625 (seiscientos veinticinco) puntos y un promedio de notas en la enseñanza media igual o superior a 6,0 (seis coma cero).
 
 d) Provenir de los hogares pertenecientes a los ocho deciles de menores ingresos de la población del país.
 
 #### Artículo 34
 
-Una vez asignadas las becas a quienes cumplan con los requisitos establecidos en el artículo precedente, y de acuerdo a la disponibilidad presupuestaria, el Ministerio de Educación asignará dicho beneficio, por estricto orden de puntaje (incluyendo NEM), a aquellos estudiantes que, cumpliendo los requisitos señalados en los literales a) y b) del artículo 33, hubieren obtenido, a lo menos, un puntaje promedio en la Prueba de Selección Universitaria igual o superior a 500 (quinientos) puntos y un promedio de notas en la enseñanza media igual o superior a cinco coma cinco (5,5).
+Una vez asignadas las becas a quienes cumplan con los requisitos establecidos en el artículo precedente, y de acuerdo a la disponibilidad presupuestaria, el Ministerio de Educación asignará dicho beneficio, por estricto orden de puntaje (incluyendo NEM), a aquellos estudiantes que, cumpliendo los requisitos señalados en los literales a) y b) del artículo 33, hubieren obtenido, en la PDT o en la PAES, según corresponda, a lo menos, un puntaje promedio igual o superior a 510 (quinientos diez) puntos, y un promedio de notas en la enseñanza media igual o superior a cinco coma cinco (5,5).
 
 Estos estudiantes para optar a la beca, deberán cumplir además los requisitos señalados en el artículo 11 y realizar el procedimiento de postulación del Título III del presente reglamento.
 
@@ -594,9 +598,9 @@ Para optar a la Beca conforme a lo establecido en la letra a) del artículo 37, 
 
 Adicionalmente, los postulantes deberán cumplir con los siguientes requisitos no copulativos:
 
-a) Haber obtenido en la Prueba de Selección Universitaria entre las pruebas de Lenguaje y Comunicación y Matemáticas un puntaje promedio igual o superior a 600 puntos; o,
+a) Haber obtenido en la PDT (pruebas de Comprensión Lectora y Matemática) o en la PAES (prueba de Competencia Lectora y prueba de Competencia Matemática 1), un puntaje promedio igual o superior a 625 puntos, según corresponda; o,
 
-b) Haber obtenido un promedio de notas de enseñanza media que se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo, de establecimientos educacionales regidos por el DFL (Ed.) Nº2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, y que a lo menos hayan obtenido 580 puntos promedio en la Prueba de Selección Universitaria.
+b) Haber obtenido un promedio de notas de enseñanza media que se encuentre en el 10% mejor de su cohorte de egreso en el año anterior al proceso de asignación de becas respectivo, de establecimientos educacionales regidos por el DFL (Ed.) Nº2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, y que a lo menos hayan obtenido 595 puntos promedio en la PDT o en la PAES, según corresponda; o,
 
 c) Haber ingresado a la educación superior mediante el Programa de Acompañamiento y Acceso Efectivo (PACE).
 
@@ -606,7 +610,7 @@ Respecto de los postulantes señalados en el literal b) del artículo 37, del pr
 
 a) Tener la condición de alumno regular y estar matriculado para el año de postulación a la beca, en el último año de una licenciatura -según información entregada por la institución de educación superior donde cursa sus estudios-.
 
-b) Haber obtenido a lo menos 600 puntos promedio en la Prueba de Selección Universitaria o el instrumento que lo reemplace correspondiente al año de su ingreso a la licenciatura que se encuentra cursando.
+b) Haber obtenido a lo menos 625 puntos promedio en la PDT o en la PAES, según sea el caso, correspondiente al año de su ingreso a la licenciatura que se encuentra cursando.
 
 c) Tener un avance curricular mínimo del 70% de la carrera.
 
@@ -746,7 +750,7 @@ En caso de incumplimiento de la obligación de retribución, sin mediar autoriza
 
 #### Artículo 55
 
-Verificado el cumplimiento de la obligación de retribución, la Subsecretaría" dejará constancia de esta situación mediante el acto administrativo correspondiente.
+Verificado el cumplimiento de la obligación de retribución, la Subsecretaría dejará constancia de esta situación mediante el acto administrativo correspondiente.
 
 A los beneficiarios de años anteriores al 2016 que no hayan suscrito el convenio, la Subsecretaría les notificará mediante correo electrónico, dentro del plazo de treinta (30) días hábiles, contados desde la fecha de dictación del acto administrativo al que alude este artículo, que el instrumento de garantía se encuentra disponible para su retiro el que se efectuará exclusivamente desde sus dependencias y cuya tramitación podrá delegar en una tercera persona, mediante un poder especial destinado al efecto, autorizado ante Notario Público.
 
@@ -768,7 +772,7 @@ b) En el caso de aquellos estudiantes de Universidades, Institutos Profesionales
 
 #### Artículo 57
 
-Para hacer efectivo su derecho, deberá presentar ante la Subsecretaría" los documentos que acrediten su calidad de hijo/a de las personas indicadas en el artículo 56. La edad límite para impetrar este beneficio será la de 35 años.
+Para hacer efectivo su derecho, deberá presentar ante la Subsecretaría los documentos que acrediten su calidad de hijo/a de las personas indicadas en el artículo 56. La edad límite para impetrar este beneficio será la de 35 años.
 
 ### Párrafo 2º
 
@@ -784,7 +788,7 @@ En caso que a la entrada en vigencia de la ley Nº 20.405, hubiere fallecido el 
 
 En el caso indicado en el artículo anterior, al postulante no le serán exigibles los requisitos establecidos en el artículo 11 del presente reglamento, y se hará beneficiario de la respectiva beca dando cumplimiento a las siguientes condiciones:
 
-a) Acreditar ante la Subsecretaría" la calidad de descendiente del beneficiario hasta el segundo grado de consanguinidad en línea recta, mediante la presentación de los certificados de nacimiento que sean necesarios para acreditar el vínculo parental.
+a) Acreditar ante la Subsecretaría la calidad de descendiente del beneficiario hasta el segundo grado de consanguinidad en línea recta, mediante la presentación de los certificados de nacimiento que sean necesarios para acreditar el vínculo parental.
 
 b) Acreditar el traspaso del beneficio mediante instrumento notarial suscrito por el titular. En caso de fallecimiento del titular del beneficio sin haber hecho uso de éste, el traspaso deberá acreditarse mediante instrumento notarial suscrito conjuntamente por el resto de los descendientes y el cónyuge sobreviviente, si hubiere. En este último caso, deberá adjuntarse a dicho instrumento notarial el Certificado de Posesión Efectiva del difunto, emitido por el Servicio de Registro Civil e Identificación, si existiere. En todo caso, se deberá acompañar una declaración jurada que dé cuenta del total de los descendientes del difunto y sus identidades, la que será cotejada con la información existente en el Servicio de Registro Civil e Identificación.
 
@@ -822,7 +826,19 @@ Beca de Excelencia Académica
 
 Además de los requisitos señalados en el artículo 11 y cumplir lo dispuesto por el Título III del presente reglamento, para optar a la Beca de Excelencia Académica los estudiantes deberán cumplir además con los requisitos que a continuación se señalan:
 
-a) Ser estudiante meritorio que haya egresado de enseñanza media en el año inmediatamente anterior a la matrícula, de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor del establecimiento de acuerdo a la información que entrega el Sistema de Información General de Estudiantes (SIGE) del Ministerio de Educación o que hayan obtenido un puntaje nacional en la Prueba de Selección Universitaria rendida en el año inmediatamente anterior a la matrícula para el proceso de admisión respectivo, de acuerdo a la información que entrega el Departamento de Evaluación, Medición y Registro Educacional de la Universidad de Chile y que provengan de los hogares pertenecientes hasta el octavo decil de ingreso per cápita del país. En el evento que alguna región del país no tuviere alumnos con puntaje nacional, se asignará el beneficio de esta beca al estudiante que haya obtenido el mejor puntaje de esa región.
+a) Ser estudiante meritorio que haya egresado de enseñanza media en el año inmediatamente anterior a la matrícula, de establecimientos educacionales regidos por el DFL (Ed.) Nº 2, de 1998, y el DL (Ed.) Nº 3.166, de 1980, cuyo promedio de notas de enseñanza media se encuentre en el 10% mejor del establecimiento de acuerdo a la información que entrega el Sistema de Información General de Estudiantes (SIGE) del Ministerio de Educación o que hayan obtenido al menos una de las Distinciones a las Trayectorias Educativas ("DTE") en las Pruebas de Acceso a la Educación Superior rendidas para dicho proceso de admisión, reguladas en la resolución exenta N° 5.250, de 2022, de la Subsecretaría de Educación Superior, y que provengan de los hogares pertenecientes hasta el octavo decil de ingreso per cápita del país.
+
+Dichas distinciones serán asignadas con criterio de paridad de género, esto es, conferidas a la(s) mujer(es) y al (los) hombre(s) que obtengan los puntajes más altos, respectivamente, y que cumplan, en todo caso, con lo establecido en cada una de ellas.
+
+Las Distinciones a las Trayectorias Educativas son las siguientes:
+
+i) Distinción de personas en situación de discapacidad: se reconocerá a las personas en situación de discapacidad que obtengan el puntaje más alto en cada prueba obligatoria vigente (prueba de Competencia Lectora y prueba de Competencia Matemática 1).
+
+ii) Distinción de pueblos indígenas: se reconocerá a las personas provenientes de algún pueblo indígena reconocido por la Ley N° 19.253 -que Establece Normas sobre Protección, Fomento y Desarrollo de los Indígenas, y crea la Corporación Nacional de Desarrollo Indígena- que obtengan el puntaje más alto en cada prueba obligatoria vigente (prueba de Competencia Lectora y prueba de Competencia Matemática 1).
+
+iii) Distinción modalidad de enseñanza: se reconocerá a las personas que obtengan 1.000 puntos en el puntaje ranking y el promedio más alto entre las pruebas obligatorias vigentes (prueba de Competencia Lectora y prueba de Competencia Matemática 1), por cada modalidad de enseñanza (científico-humanista y técnico-profesional), según dependencia de establecimiento (establecimientos educacionales regidos por el decreto con fuerza de ley N° 2, de 1998, y el decreto ley N° 3.166, de 1980, ambos del Ministerio de Educación).
+
+iv) Distinción de territorios: se reconocerá a las personas de cada región, además de personas del territorio insular, que obtengan el puntaje promedio más alto entre las pruebas obligatorias vigentes (prueba de Competencia Lectora y prueba de Competencia Matemática 1); el puntaje más alto en la prueba de Ciencias; el puntaje más alto en la prueba de Historia y Ciencias Sociales; y, en la prueba de Competencia Matemática 2. En el evento que alguna región del país no tuviere alumnos con una destacada trayectoria educativa, se asignará el beneficio de esta beca al estudiante que haya obtenido el mejor puntaje de esa región.
 
 b) Matricularse como alumno de primer año en alguna de las instituciones de educación superior señaladas en el artículo 52º del DFL (Ed.) Nº 2, de 2010, que se encuentren acreditadas al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, conforme a la ley Nº 20.129.
 
@@ -841,6 +857,8 @@ La Beca Cumplimiento de Sentencias y Acuerdos se asignará a las personas que se
 a) Aquellas individualizadas en el Ord. N°1077, de fecha 9 de mayo de 2017, del Ministerio de Desarrollo Social y Familia, y sus posteriores modificaciones, dictado en cumplimiento de lo establecido en el Capítulo VIII, Nº 3, letra b) de la sentencia dictada por la Corte Interamericana de Derechos Humanos para el caso "Norín Catrimán y Otros vs Chile", de fecha 29 de mayo de 2014, que se matriculen en instituciones de educación superior que se encuentren acreditadas al 31 de diciembre del año anterior a la asignación de dicho beneficio, de conformidad a la ley Nº 20.129.
 
 b) Caso Lemún Saavedra: En cumplimiento de lo dispuesto en el numeral 4º, literal a), del Acuerdo que contiene las recomendaciones emitidas por la Comisión Interamericana de Derechos Humanos en el caso de Edmundo Alex Lemún Saavedra vs Chile, suscrito con fecha 9 de marzo de 2018, se otorgará el presente beneficio a la persona allí individualizada, que se matricule en instituciones de educación superior que se encuentren acreditadas al 31 de diciembre del año anterior a la asignación de dicho beneficio, de conformidad a la ley Nº 20.129.
+
+c) Aquellas individualizadas en el numeral sexto del Capítulo IV del Acuerdo de Solución Amistosa, suscrito por el Estado y "F.S." con fecha 3 de agosto de 2021, correspondiente al caso N° 12.956 de la Comisión Interamericana de Derechos Humanos, que se matriculen en instituciones de educación superior que se encuentren acreditadas al 31 de diciembre del año anterior a la asignación de dicho beneficio, de conformidad a la ley N° 20.129.
 
 #### Artículo 66
 
@@ -946,7 +964,7 @@ No serán considerados cambios de institución y/o carrera:
 
 3. El caso de los estudiantes señalados en la letra b) del artículo 37, quienes podrán hacer efectiva su beca, en lo que corresponde al programa o ciclo de formación pedagógica elegible, en una institución de educación superior distinta de aquella en que detenta la condición de alumno regular en su carrera de origen.
 
-4. El traslado de institución que realicen aquellos alumnos provenientes de instituciones de Educación Superior, respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial, en conformidad al artículos N° 64, N° 74 y N° 81, del DFL N° 2, de 2009, del Ministerio de Educación.
+4. El traslado de institución que realicen aquellos alumnos provenientes de instituciones de Educación Superior, respecto de las cuales el Ministerio de Educación haya solicitado al Consejo Nacional de Educación la revocación del reconocimiento oficial, en conformidad a lOS artículos N° 64, N° 74 y N° 81, del DFL N° 2, de 2009, del Ministerio de Educación.
 
 #### Artículo 77
 
@@ -1090,11 +1108,37 @@ Transcurrido el plazo otorgado a la institución para realizar la respectiva res
 
 ## Artículos transitorios
 
-Primero: A partir del año 2021, toda referencia a la Prueba de Selección Universitaria, o PSU, contenida en el presente reglamento, se entenderá hecha a la Prueba de Transición o al instrumento que defina el Sistema de Acceso a las instituciones de educación superior creado por la ley Nº 21.091, sobre educación superior, sin perjuicio de los puntajes "guardados" que puedan ser utilizados el año 2021."
+Primero: Para la determinación de los puntajes mínimos exigidos como requisito para la obtención de los beneficios regulados en el presente reglamento, se aplicarán las siguientes reglas respecto de las pruebas y períodos que se indican:
 
-Por su parte, las referencias a la prueba de "Lenguaje y Comunicación" se entenderán hechas a la prueba de "Comprensión Lectora".
+a) Los puntajes de los estudiantes que rindieron la Prueba de Selección Universitaria (P.S.U.) o la Prueba de Transición (P.D.T.) para el proceso de admisión 2021, se considerarán en su escala original y no deberán ser convertidos.
 
-Lo señalado en este artículo, se entenderá sin perjuicio de lo establecido en el artículo 44, letra b) de este reglamento.
+Por tanto, para los casos de las Becas: "Bicentenario"; "Juan Gómez Millas"; "Para Estudiantes Hijos de Profesionales de la Educación" y "Vocación de Profesor" se exigirán los siguientes puntajes mínimos conforme a su escala original:
+
+i. Beca Bicentenario:
+
+- En cuanto al rendimiento académico mínimo establecido en el número 3 del artículo 24 del presente reglamento, se requiere haber obtenido un puntaje promedio igual o superior a 500 puntos, en la PSU o en la PDT, según corresponda.
+
+- En cuanto al puntaje establecido en el artículo 24 bis del presente reglamento, se requiere contar con un puntaje ponderado promedio, igual o mayor a 450 puntos.
+
+ii. Beca Juan Gómez Millas:
+
+- En cuanto al rendimiento académico mínimo establecido en el número 3 del artículo 26 del presente reglamento, se requiere haber obtenido un puntaje promedio igual o superior a 500 puntos, en la PSU o en la PDT, según corresponda.
+
+iii. Beca para Estudiantes Hijos de Profesionales de la Educación:
+
+- En cuanto al rendimiento académico mínimo establecido en la letra c) del artículo 33 del presente reglamento, se requiere haber obtenido un puntaje promedio igual o superior a 600 puntos, en la PSU o en la PDT, según corresponda.
+
+- En cuanto al rendimiento académico mínimo establecido en el inciso primero del artículo 34 del presente reglamento, se requiere haber obtenido un puntaje promedio igual o superior a 500 puntos, en la PSU o en la PDT, según corresponda.
+
+iv. Beca Vocación de Profesor:
+
+- En cuanto al puntaje mínimo establecido en el artículo 1, letra e), numeral i), primer párrafo; en el artículo 43 letra a); y en el artículo 44 letra b), todos del presente reglamento, se requiere haber obtenido un puntaje promedio igual o superior a 600 puntos en la PSU o en la PDT, entre las pruebas de Lenguaje y Comunicación o Competencia Lectora y Matemática, según corresponda.
+
+- En cuanto al puntaje mínimo establecido en el artículo 1, letra e), numeral i), segundo párrafo, y en el artículo 43 letra b) del presente reglamento, se requiere haber obtenido al menos un puntaje promedio de 580 puntos en la PSU o en la PDT, según corresponda.
+
+b) Los puntajes de los estudiantes que rindieron la PDT en diciembre del año 2021 deberán ser convertidos a la nueva escala de puntajes definida por el Comité de Acceso al Subsistema Universitario, establecido en la ley N° 21.091, sobre Educación Superior.
+
+Con todo, los estudiantes que, con la escala original de la PDT de diciembre del año 2021, obtuvieron un puntaje igual o superior al mínimo exigido para cada una de las becas según dicha escala, pero, tras la conversión no alcanzan el nuevo puntaje mínimo exigido por el presente reglamento, se considerará que de todas formas cumplen el requisito de puntaje requerido.
 
 Segundo: Para los efectos del otorgamiento en el proceso de asignación de la Beca Nuevo Milenio, antes del 31 de marzo del año de asignación del beneficio, el Ministerio de Educación podrá, mediante resolución fundada, eximir durante dicha anualidad de la exigencia de la acreditación institucional señalada, a centros de formación técnica o institutos profesionales que:
 
