@@ -392,9 +392,7 @@ transporte de mercancías peligrosas; etc.
 
 #### Artículo 307
 
-A.- Esta tarifa estará sujeta, cuando se solicite, al pago de pilotaje desde el puerto hacia otras zonas situadas dentro de un radio de 30 millas de distancia y cuyo valor será de US$33.72 por cada mil toneladas de registro grueso o fracción.
-
-> **Nota.** El Nº 2 del Art. único del DTO 329, Defensa, publicado el 19.04.2002, dispuso que la presente modificación entrará en vigor 30 días después de su publicación en el Diario Oficial.
+A.- Esta tarifa estará sujeta, cuando se solicite, al pago de pilotaje desde el puerto hacia otras zonas situadas dentro de un radio de 50 millas de distancia y cuyo valor será de US$52.86 por cada mil toneladas de registro grueso o fracción.
 
 #### Artículo 307
 
