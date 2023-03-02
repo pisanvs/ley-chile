@@ -76,11 +76,11 @@ De las Obligaciones del Distribuidor.
 
 3.2 Adicionalmente, deberá informar a esta Superintendencia a más tardar el día 31 de diciembre de cada año, el listado de sus instalaciones y tanques, indicando capacidad y tipo de CL que almacena en éstos, según Anexo 6: "Listado de Instalaciones y Tanques".
 
-3.3 En caso de incorporar nuevas instalaciones o tanques, o puesta fuera de servicio de alguna de ellas, el distribuidor deberá actualizar el listado señalado en el numeral precedente, informando a la Superintendencia en el plazo de 10 días hábiles, contado desde la ocurrencia de cualquiera de las circunstancias antes señaladas.
+3.3 En caso de incorporar nuevas instalaciones o tanques, o puesta fuera de servicio de alguna de ellas, el distribuidor deberá enviar el Anexo 6: "Listado de Instalaciones y Tanques" actualizado, considerando solo las instalaciones y tanques involucrados, informando a la Superintendencia en el plazo de 10 días hábiles, contado desde la ocurrencia de cualquiera de las circunstancias antes señaladas.
 
 3.4 El distribuidor deberá realizar el monitoreo de la calidad a cada uno de los tanques que formen parte de la instalación de CL destinada al abastecimiento a vehículos que haya sido seleccionada mediante el sorteo.
 
-3.5 El muestreo y análisis de los CL se deberá realizar por el distribuidor a través de laboratorios propios o de tercera parte contratados para tal efecto, a los que se refiere la presente resolución.
+3.5 El muestreo y análisis de los CL se deberá realizar por el distribuidor a través de laboratorios propios o de tercera parte contratados para tal efecto, a los que se refiere la presente resolución. Dichos laboratorios deberán estar acreditados por un Organismo de Acreditación adscrito a ILAC (International Laboratory Accreditation Cooperation) y autorizados por la Superintendencia de acuerdo a lo indicado en el artículo 4, de la presente resolución.
 
 3.6 Los distribuidores de CL que opten por efectuar las actividades de muestreo y análisis con laboratorios propios estarán sujetos a una modalidad de monitoreo adicional respecto de sus instalaciones por un laboratorio de tercera parte.
 
@@ -102,15 +102,21 @@ Dicho monitoreo se efectuará de acuerdo a lo establecido en la norma chilena NC
 
 #### Artículo 4
 
-Requisitos y Obligaciones de los Laboratorios Propios y de Tercera Parte.
+Requisitos y Obligaciones de los Laboratorios Propios, de Tercera Parte y Entidades de Muestreo.
 
-4.1 Deberán disponer de la infraestructura, equipos e instrumentos necesarios y su personal tener las competencias para efectuar los procedimientos correspondientes. Tales entidades deberán estar acreditadas, en todos los ensayos indicados en la Tabla I y en el muestreo, según corresponda, bajo la norma ISO/IEC 17025:2017 o aquella que la reemplace, otorgada por un Organismo de Acreditación adscrito a ILAC (International Laboratory Accreditation Cooperation).
+4.1 Los laboratorios de CL y las entidades de muestreo deberán disponer de la infraestructura, equipos e instrumentos necesarios y su personal tener las competencias para efectuar los procedimientos correspondientes. Los laboratorios y entidades de muestreo deberán estar acreditados por un Organismo de Acreditación adscrito a ILAC (International Laboratory Accreditation Cooperation).
 
-Los laboratorios de CL que a la fecha de la entrada en vigencia de la presente resolución desarrollen actividades de análisis y muestreo, y que no cuenten con acreditación vigente, deberán obtenerla antes del 6 de julio de 2022, según lo dispuesto en el punto 6.2.2 de la resolución exenta Nº 19.049, de 2017.
+Los laboratorios de CL, que a la fecha de la entrada en vigencia de la presente resolución desarrollen la actividad de análisis o de muestreo y su correspondiente análisis, deberán obtener la acreditación ISO/IEC 17025:2017 para todos los ensayos indicados en la Tabla I. Respecto de los laboratorios de CL y entidades de muestreo que realicen solo la actividad de muestreo, deberán obtener la acreditación ISO/IEC 17020:2012. Las acreditaciones anteriormente mencionadas se deberán obtener antes del 1 de julio de 2023.
 
-Los laboratorios que realicen análisis de CL deberán contar con la autorización de SEC, de acuerdo con los requisitos establecidos por ésta. Dicha autorización será obligatoria a partir del 1 de enero de 2023.
+A partir del 1 de enero de 2024, deberán contar con autorización de SEC, de acuerdo con los requisitos establecidos por ésta, las empresas que realicen las siguientes actividades:
 
-Los laboratorios que no den cumplimiento a los requisitos indicados en los párrafos anteriores no podrán realizar las actividades establecidas en la presente resolución.
+- Los laboratorios de CL que realicen solo análisis.
+
+- Los laboratorios de CL que realicen muestreo y su correspondiente análisis.
+
+- Los laboratorios de CL y entidades de muestreo que realicen solo muestreo.
+
+Los laboratorios y las entidades de muestreo que no den cumplimiento a los requisitos indicados en los párrafos anteriores no podrán realizar las actividades establecidas en la presente resolución.
 
 4.2 Para efecto de los registros y subcontrataciones de ensayos y/o servicios, los laboratorios deberán ceñirse a lo estipulado en la norma ISO/IEC 17025:2017 ya citada o en aquella que la reemplace.
 
@@ -132,7 +138,7 @@ En caso que no sea factible muestrear el CL porque la instalación y/o el tanque
 
 4.10 Será responsabilidad del laboratorio, la correcta identificación de cada acta y muestra, debiendo mantener un control de los correlativos de éstas e informar a la Superintendencia en caso de eventuales errores.
 
-4.11 En caso de detectarse un no cumplimiento en alguno de los parámetros indicados en la Tabla I, el laboratorio deberá conservar la contramuestra que ha quedado bajo su custodia, en un lugar protegido de la luz, de la humedad, de fuentes de ignición, fluctuaciones de temperatura y del polvo ambiental, por un plazo de seis meses, contado desde la fecha del referido análisis.
+4.11 En caso de detectarse un no cumplimiento en alguno de los parámetros indicados en la Tabla I, el laboratorio deberá conservar la contramuestra que ha quedado bajo su custodia, en un lugar protegido de la luz, de la humedad, de fuentes de ignición, fluctuaciones de temperatura y del polvo ambiental, por un plazo de seis meses, contado desde la fecha del referido análisis, en caso contrario podrá eliminarlas.
 
 4.12 Los requisitos de envío de información establecidos en la presente resolución, a los laboratorios deberá ser realizada a través de Oficina de Partes y al correo electrónico dtcl@sec.cl.
 
@@ -144,7 +150,7 @@ Del Sorteo y Muestreo.
 
 5.2 Cada muestreo de CL se deberá realizar según lo indicado en la norma NCh60/1.Of2001, "Procedimiento Manual para Obtención de Muestras-Parte 1: Método de Pistola de Carga".
 
-5.3 Cada muestreo deberá considerar la toma de tres muestras; dos de ellas corresponderán a muestras testigo, una que quedará bajo la custodia del distribuidor de la instalación y otra que quedará en custodia del laboratorio que efectuará el análisis respectivo; ambas se deberán conservar por un plazo de seis meses. La tercera muestra, estará destinada a la realización de los análisis que correspondan según la Tabla I "Ensayos a realizar en tanques de instalaciones de abastecimiento a vehículos".
+5.3 Cada muestreo deberá considerar la toma de tres muestras; dos de ellas corresponderán a muestras testigo, una que quedará bajo la custodia del distribuidor de la instalación y otra que quedará en custodia del laboratorio que efectuará el análisis respectivo. La tercera muestra estará destinada a la realización de los análisis que correspondan según la Tabla I "Ensayos a realizar en tanques de instalaciones de abastecimiento a vehículos".
 
 En aquellos casos que el análisis de octanaje sea encargado a un laboratorio subcontratado, se deberá tomar una cuarta muestra de gasolina la cual será destinada a dicho análisis.
 
@@ -212,7 +218,7 @@ Este sorteo considerará la categorización por nivel de inspección en cada zon
 
 4. En aquellas instalaciones en que los tanques de un mismo producto se encuentren interconectados, se deberá tomar solo una muestra y consignar en el Acta tal condición.
 
-5. En aquellas instalaciones en que la gasolina de 95 octanos se obtenga por mezcla (blender), se deberá muestrear al igual que el resto de los productos que se expendan en la instalación, debiendo consignar en el Acta tal condición.
+5. En aquellas instalaciones en que la gasolina de 95 octanos se obtenga por mezcla (blender), se deberá muestrear al menos una de las mezcladoras que expendan dicho CL, debiendo consignar en el Acta tal condición. Para dichas muestras se deberán realizar todos los análisis indicados en la Tabla I: "Ensayos a realizar en tanques de instalaciones de abastecimiento a vehículos".
 
 6. Deberán realizar la correcta identificación de cada acta y muestra, manteniendo un control de los correlativos de éstas.
 
