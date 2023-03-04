@@ -74,8 +74,6 @@ Los montos de subsidio para las familias de sectores medios, así como los porce
 
 3.2.2 Hasta un 60% del total de viviendas del proyecto:
 
-.
-
 Las comunas no incluidas en las tablas precedentes mantendrán los precios de vivienda y montos de subsidio según emplazamiento de la vivienda, de acuerdo a la tabla de la letra b) del artículo 3° del DS N° 19 (V. y U), de 2016.".
 
 3.3. El monto del Bono de Integración Social para las familias de sectores medios será el indicado en la siguiente tabla, de acuerdo al porcentaje de familias vulnerables que considere el proyecto; los requisitos para su obtención y aplicación serán aquellos establecidos en el artículo 4°, letra b), del DS N° 19.
@@ -86,17 +84,17 @@ Los montos de bono de integración social indicados en la tabla precedente, podr
 
 3.4 Porcentaje máximo de venta de viviendas sin aplicación de subsidios:
 
-Los proyectos que se desarrollen en algunas de las 27 zonas definidas en las resoluciones exentas N° 1.219 de 2020, N° 466 y N° 1.414 de 2021 y sus modificaciones, todas de Vivienda y Urbanismo, de acuerdo a la letra c) del artículo 7° del DS N° 19 (V. y U.), de 2016, podrán considerar porcentajes de vivienda para venta sin aplicación de subsidio cuyo precio exceda de los máximos indicados en la letra a) del artículo 7° del decreto precitado, según lo indicado en la siguiente tabla:
+Los proyectos que se desarrollen en algunas de las 30 zonas definidas en las resoluciones exentas N° 1.219 de 2020, N° 466 y N° 1.414 de 2021 y sus modificaciones, todas de Vivienda y Urbanismo, de acuerdo a la letra c) del artículo 7° del DS N° 19 (V. y U.), de 2016, podrán considerar porcentajes de vivienda para venta sin aplicación de subsidio cuyo precio exceda de los máximos indicados en la letra a) del artículo 7° del decreto precitado, según lo indicado en la siguiente tabla:
 
-.
+3.5. Los incentivos definidos para las zonas antes mencionadas podrán ser aplicados en proyectos seleccionados de llamados realizados los años 2019, 2020 y 2021, que se encuentren emplazados dentro de estos polígonos. En el caso de proyectos que deseen aplicar un porcentaje de unidades para venta libre, no considerado en el proyecto original, éste deberá ser descontado de las unidades de vivienda destinadas a sectores medios, no afectando las viviendas para familias vulnerables ni del tramo intermedio, resguardando el cumplimiento de la entremezcla. En el caso del aumento en el precio máximo de venta de viviendas con subsidio, no aplicará para las viviendas que ya cuenten con un compromiso pactado con las familias, mediante documento formal o inscripción en sistema Rukan.
 
-3.5. Los porcentajes considerados en la tabla precedente deberán calcularse respecto del total de viviendas del proyecto.
+3.6. Los porcentajes considerados en la tabla precedente deberán calcularse respecto del total de viviendas del proyecto.
 
 El porcentaje de viviendas de venta por sobre el precio máximo sin aplicación de subsidio, no será considerado como una tipología para acreditar la cuarta tipología de vivienda que otorga puntaje adicional, indicado en el Ítem 4. Tipologías de Viviendas, de la Tabla de Factores y Puntajes, del artículo 11° del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
 
-3.6. Las viviendas correspondientes al porcentaje de venta por sobre el precio máximo sin aplicación de subsidio, señalado en la tabla del punto 3.4 del resuelvo 3° del presente Llamado, no podrán ser consideradas para efectos de otorgar el préstamo de enlace, señalado en el artículo 28° del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
+3.7. Las viviendas correspondientes al porcentaje de venta por sobre el precio máximo sin aplicación de subsidio, señalado en la tabla del punto 3.4 del resuelvo 3° del presente Llamado, no podrán ser consideradas para efectos de otorgar el préstamo de enlace, señalado en el artículo 28° del DS N° 19 (V. y U.), de 2016, y sus modificaciones.
 
-3.7. Las resoluciones que definen las zonas indicadas en el cuadro anterior, se encuentran publicadas en el sitio web del Ministerio de Vivienda y Urbanismo (https://www.minvu.gob.cl/beneficio/vivienda/subsidio-de-integracion-social-y-territorial-ds19/).
+3.8. Las resoluciones que definen las zonas indicadas en el cuadro anterior, se encuentran publicadas en el sitio web del Ministerio de Vivienda y Urbanismo (https://www.minvu.gob.cl/beneficio/vivienda/subsidio-de-integracion-social-y-territorial-ds19/).
 
 4. Requisitos de postulación para la Entidades Desarrolladoras y Constructoras
 
@@ -288,11 +286,11 @@ Los proyectos seleccionados en llamados realizados en el año 2019, mediante la 
 
 Los proyectos seleccionados en llamados realizados durante los años 2020 y 2021, mediante las resoluciones exentas Nº 208 (V. y U.), de 2020, Nº 935 y Nº 1058 y su modificación, ambas de 2020, del Secretario Regional Ministerial Metropolitano; y las resoluciones exentas Nº 246 y Nº 1.516 y su modificación (V. y U.), de 2021, Nº 258 y Nº 308, de los Secretarios Regionales Ministeriales de las regiones del Maule y Araucanía respectivamente y las resoluciones exentas Nº 405, Nº 843 y Nº 905 del Secretario Regional Ministerial Metropolitano, todas de 2021, podrán considerar los precios máximos de vivienda y montos de subsidio para familias vulnerables indicados en el resuelvo 3.1 de la presente resolución. Para las viviendas destinadas a sectores medios podrán considerar los precios máximos, montos de subsidio y bono de integración social para las comunas indicadas en el resuelvo 3.2; para el resto de las comunas, se mantendrán los precios de vivienda, montos de subsidios y bono de integración, según Emplazamiento de la Vivienda, de acuerdo a la tabla inserta en la letra b) del artículo 3º del DS Nº 19 (V. y U.), de 2016.
 
-En el caso de los proyectos en terrenos de propiedad del Serviu aprobados en los años 2019, 2020 y 2021, la posibilidad de acogerse a la homologación será autorizada mediante resolución del Director del Serviu, previa solicitud de la Entidad Desarrolladora, adjuntando los antecedentes que la respalden fundada en aumentos de costo que afecten al proyecto. En la resolución señalada deberán fijarse los precios y montos de subsidios, teniendo como máximo, los señalados en los párrafos anteriores según año de selección.
+En el caso de los proyectos en terrenos de propiedad del Serviu aprobados en los años 2019, 2020, 2021 y 2022, la posibilidad de acogerse a la homologación será autorizada mediante resolución del Director del Serviu, previa solicitud de la Entidad Desarrolladora, adjuntando los antecedentes que la respalden fundada en aumentos de costo que afecten al proyecto.
 
 Excepcionalmente, en el caso de los proyectos seleccionados en Llamados en terrenos de propiedad del Serviu realizados durante el año 2019, podrán solicitar al Director/a Serviu, acogerse a los precios máximos de vivienda, montos de subsidio y bonos de integración y captación de subsidios, indicados en el artículo 3°, letra b), artículo 4°, letra b) y en el inciso primero del artículo 5° respectivamente, establecidos en el DS N° 19 (V. y U.), de 2016, procedimiento que podrá ser autorizado mediante resolución del Director/a Serviu, previa solicitud de la Entidad Desarrolladora, adjuntando los antecedentes que la respalden.
 
-En el caso de proyectos en terrenos municipales seleccionados en llamados realizados durante el año 2019, podrán solicitar al Director/a Serviu, homologar los montos de subsidio, bonos y precios máximos de viviendas destinadas a familias de sectores medios, indicados en los Resuelvo 3.2. y 3.3. de la presente resolución, cuya autorización deberá aprobarse en los mismos términos indicados en el inciso precedente.
+En el caso de proyectos en terrenos municipales seleccionados en llamados realizados durante el año 2019, podrán solicitar al Director/a Serviu, homologar los montos de subsidio, bonos y precios máximos de viviendas destinadas a familias de sectores medios, indicados en los Resuelvo 3.2 y 3.3, debiendo considerar el cumplimiento de lo indicado en el Resuelvo 15, de la presente resolución, referido a los estacionamientos. Esta solicitud deberá aprobarse en los mismos términos indicados en el inciso precedente.
 
 Para aplicar lo indicado en este resuelvo, los proyectos no deberán contar con recepción municipal de obras al 31 de marzo de 2022.
 
