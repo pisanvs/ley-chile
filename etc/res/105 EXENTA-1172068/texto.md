@@ -40,8 +40,14 @@ Dichos montos fueron calculados conforme a la resolución exenta N° 1.875 (V. y
 
 Mediante resolución del Director del Serviu respectivo, se determinarán los montos definitivos de Asistencia Técnica, cuando corresponda otorgar los incrementos que la resolución exenta N° 1.875 (V. y U.), de 2015, establece en las letras e), g), h), j) y k) del número 3 de su artículo 3°.
 
-3. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 6.666.512,07 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2022, para el Programa Fondo Solidario de Elección de Vivienda de las Regiones de Coquimbo, Valparaíso, O'Higgins, Maule, Ñuble, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana, según el siguiente detalle:
+3. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 6.685.102,07 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2022, para el Programa Fondo Solidario de Elección de Vivienda de las Regiones de Coquimbo, Valparaíso, O'Higgins, Maule, Ñuble, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana, según el siguiente detalle:
+
+.
+
+> **Nota.** La letra a del numeral 1 de la Resolución 509 Exenta, Vivienda, publicada el 04.03.2023, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el presente resuelvo, la fila 13 por la que la citada norma indica.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
+
+.
