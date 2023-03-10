@@ -34,13 +34,15 @@ Normas Generales
 
 El mecanismo común de rendición de cuenta pública es el procedimiento por el cual se verificará el cumplimiento de la obligación legal de rendición de cuenta pública del uso de todos los recursos, públicos y privados, que perciban los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado.
 
-El presente Reglamento establece las características, modalidades, condiciones y plazos del mecanismo común de rendición de cuenta pública del uso de los recursos. Por lo tanto, deberán sujetarse a estas normas los instrumentos y formatos estandarizados que fije la Superintendencia de Educación para facilitar a los sostenedores el cumplimiento de la obligación de rendir cuenta pública del uso de los recursos.
+El presente Reglamento establece las características, modalidades, condiciones y plazos del mecanismo común de rendición de cuenta pública del uso de los recursos y la posibilidad de rectificar dicha rendición, en los términos que determine la Superintendencia de Educación.
+
+Las entidades sostenedoras de establecimientos adscritos al régimen de subvenciones deberán sujetarse a las normas establecidas en el presente reglamento, así como a las instrucciones, instrumentos y formatos estandarizados que fije la Superintendencia de Educación, con el propósito de regular, orientar y facilitar el cumplimiento de la obligación de rendir cuenta pública del uso de los recursos afectos a los fines educativos señalados en la ley.
 
 #### Artículo 2º
 
 Para efectos del presente Reglamento, los siguientes conceptos tendrán el significado que se establece en este artículo, sin perjuicio del que les asigne la Contabilidad:
 
-a) Rendición de cuenta pública del uso de los recursos: Es la obligación legal de los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado, de dar a conocer y entregar las cuentas comprobadas del uso de todos los recursos públicos y privados que administren o perciban, anualmente, en la forma y plazo que establece el presente Reglamento, de acuerdo a los instrumentos y formatos estandarizados que fije la Superintendencia de Educación, y bajo su fiscalización.
+a) Rendición de cuenta pública del uso de los recursos: Es la obligación legal de los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado, de dar a conocer y entregar las cuentas comprobadas del uso de todos los recursos públicos y privados que administren o perciban, anualmente, en la forma y plazo que establece el presente Reglamento, en concordancia con las instrucciones, instrumentos y formatos estandarizados que fije la Superintendencia de Educación, y bajo su fiscalización.
 
 b) Estados Financieros: Es el instrumento que da cuenta, a través de una representación estructurada, de la situación y desempeño financiero de un establecimiento educacional a una fecha o período determinado.
 
@@ -86,13 +88,15 @@ g) Cuentas Bancarias: Corresponden a las cuentas corrientes y/o las cuentas vist
 
 h) Gastos objetados: Corresponden a aquellos desembolsos cuyo respaldo documental no da cuenta en forma fehaciente de que éstos se ajusten a los fines educativos, especiales o generales, según sea el caso, o que no cumplen con las instrucciones de forma establecidas por la Superintendencia, y que por ello requerirá información adicional para ser aceptado.
 
-i) Gastos no aceptados: Corresponden a aquellos egresos detectados en una fiscalización, que habiendo sido previamente objetados, la Superintendencia considera que no se ajustan a los fines educativos, generales o especiales, según sea el caso, o que sus respaldos documentales están adulterados o no dieron cumplimiento a los requisitos legales.
+i) Gastos no aceptados: Corresponden a aquellos egresos detectados en una fiscalización, que habiendo sido previamente objetados, la Superintendencia considera que no se ajustan a los fines educativos, generales o especiales, según sea el caso, o que sus respaldos documentales están adulterados o no dieron cumplimiento a los requisitos legales y a las instrucciones que hubiere dictado al efecto.
 
-j) Juicio de legalidad: Procedimiento por el cual la Superintendencia de Educación verifica que un acto o contrato que sirve de antecedente a un desembolso, se enmarca dentro de los fines educativos, sean especiales o generales, señalados en la normativa educacional; y que su documentación cumpla con los requisitos legales. Dicho juicio, comprenderá el criterio de eficiencia en el uso de los recursos respecto de la administración en el servicio educativo.
+j) Juicio de legalidad: Procedimiento por el cual la Superintendencia de Educación verifica que un acto o contrato que sirve de antecedente a un desembolso, se enmarca dentro de los fines educativos, sean especiales o generales, señalados en la normativa educacional; y que su documentación cumpla con los requisitos legales y las instrucciones que hubiere dispuesto sobre la materia. Dicho juicio, comprenderá el criterio de eficiencia en el uso de los recursos respecto de la administración en el servicio educativo.
 
 k) Juicio de mérito: Procedimiento de calificación del uso de los recursos aportados por el Estado, que realiza el sostenedor, dentro de la finalidad especial o general prevista en la ley, según sea el caso.
 
 l) Formato estandarizado: Modelo, plataforma o formulario predefinido por la Superintendencia de Educación, manual o electrónico, dirigido a las entidades sostenedoras, necesario para llevar a cabo de manera eficiente el proceso de rendición de cuenta.
+
+m) Rectificación de la rendición de cuenta: Procedimiento que tiene por objeto corregir, completar y ajustar la declaración efectuada por las entidades sostenedoras en sus procesos de rendición de cuenta, en los términos, plazos y forma que disponga la Superintendencia de Educación.
 
 #### Artículo 2º bis
 
@@ -112,7 +116,7 @@ La cuenta pública del uso de los recursos a que se refiere este Reglamento debe
 
 Para estos efectos, se deberán utilizar los formatos estandarizados e instrumentos que fije la Superintendencia de Educación.
 
-Sin perjuicio de lo anterior, los sostenedores serán los responsables de resguardar los los estados financieros individuales y consolidados, y la información de respaldo que presenten, por un período mínimo de cinco años contados a partir del vencimiento del plazo para efectuar la rendición.
+Sin perjuicio de lo anterior, los sostenedores serán los responsables de resguardar los estados financieros individuales y consolidados, y la información de respaldo que presenten, por un período mínimo de cinco años contados a partir del vencimiento del plazo para efectuar la rendición.
 
 Asimismo, dentro del término señalado en el inciso anterior, los sostenedores deberán presentar la documentación fundante de los registros contables que hubieren obtenido dentro del período a rendir, cuando la Superintendencia de Educación así lo requiera. Podrán excusarse de este deber mientras dichos documentos se encuentren en poder de otro órgano del Estado, en el ejercicio de sus competencias legales.
 
@@ -120,11 +124,11 @@ Asimismo, dentro del término señalado en el inciso anterior, los sostenedores 
 
 Los Estados financieros individuales y consolidados deberán comprender la totalidad de las operaciones que se efectúen en los establecimientos educacionales durante el período a rendir.
 
-Dichos estados deberán consignar de manera desagregada todos los movimientos financieros contables registrados en los libros de contabilidad del período a rendir, de tal forma que éstos den cuenta del uso y destino de los recursos de carácter público o privado percibidos por los sostenedores, los gastos efectuados, las inversiones realizadas, las obligaciones contraídas, y cualquier otra operación de las señaladas en el artículo 3º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en que se destinen dichos recursos.
+Dichos estados deberán consignar de manera desagregada todos los movimientos financieros contables registrados en los libros de contabilidad del período a rendir, de tal forma que éstos den cuenta del uso y destino de los recursos de carácter público o privado percibidos por los sostenedores, los gastos efectuados, las inversiones realizadas, las obligaciones contraídas, y cualquier otra operación sujeta al cumplimiento de fines educativos, en que se destinen dichos recursos.
 
 Los estados financieros de aquellos establecimientos educacionales que reciban subvenciones y aportes para fines especiales, deberán presentar además, la información detallada y en la forma que exija la Superintendencia de Educación para este tipo de subvenciones, mediante instrucciones de carácter general.
 
-El informe consolidado que deban entregar los sostenedores que administren más de un establecimiento subvencionado o que reciba aportes del Estado, deberá consignar de manera desagregada la información señalada en los dos incisos anteriores.
+El informe consolidado que deban entregar los sostenedores que administren más de un establecimiento subvencionado o que reciba aportes del Estado, deberá consignar de manera desagregada la información señalada en los dos incisos anteriores, por cada uno de los establecimientos que gestionen.
 
 #### Artículo 4º bis
 
@@ -138,9 +142,21 @@ La Superintendencia de Educación informará mediante instrucciones de carácter
 
 Como parte del proceso de rendición de cuentas, los sostenedores deberán acreditar la disponibilidad de los saldos de las subvenciones destinadas a fines educativos generales y especiales. Solo aquellas cuentas incluidas en el Registro de Cuentas Bancarias podrán ser utilizadas para acreditar los saldos que puedan quedar al final de cada ejercicio.
 
-En el caso de las subvenciones para fines especiales, la Superintendencia de Educación informará al Ministerio de Educación la existencia de excedentes o saldos no invertidos, a fin de que este tramite su devolución cuando corresponda.
+Los excedentes o saldos no invertidos en la respectiva anualidad podrán ser utilizados en el período de rendición de cuentas correspondiente al año siguiente. Este movimiento contable deberá reflejarse en el registro de apertura de dicho período.
 
-Si el Ministerio de Educación, en el ámbito de sus competencias, resuelve no tramitar la devolución, deberá informar esta decisión a la Superintendencia de Educación en el plazo de 20 días hábiles, en cuyo caso dichos excedentes o saldos podrán ser utilizados en el período de rendición de cuentas correspondiente al año siguiente. Este movimiento contable deberá reflejarse en el registro de apertura de dicho período.
+#### Artículo 5° bis
+
+En los casos en que los sostenedores dejan de percibir subvención o aportes del Estado, tales como, la renuncia o la revocación del reconocimiento oficial, la pérdida del derecho a percibir subvención, la renuncia al régimen de financiamiento público, o cuando se traspasa el servicio educativo en conformidad a la ley N° 21.040, la Superintendencia de Educación informará al Ministerio de Educación la existencia de excedentes o saldos no invertidos, a fin de que tramite su devolución. Estos saldos incluirán todos los recursos que las entidades sostenedoras hubieren percibido en dicha calidad y que estén afectos al cumplimiento de los fines educativos,
+
+Dicho procedimiento operará también respecto de los saldos no invertidos de subvenciones para fines especiales pertenecientes a entidades sostenedoras que se mantengan en el régimen de financiamiento del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, de acuerdo a su regulación específica, pero que pierdan el derecho a impetrar la respectiva subvención especial.
+
+La Superintendencia de Educación, en uso de sus facultades, determinará los saldos finales, los que deberán ser restituidos a contar del vencimiento del plazo para efectuar la rendición de cuentas correspondiente.
+
+El Ministerio de Educación definirá los mecanismos, formas y plazos de pago de los saldos sujetos a la obligación restitutoria especificada en el presente artículo, sin perjuicio de las facultades generales de cobro del Estado frente a su incumplimiento.
+
+#### Artículo 5 ter
+
+La Superintendencia de Educación establecerá, mediante instrucciones de carácter general, los procesos de rectificación de la rendición de cuenta respecto de todas las subvenciones y aportes públicos adscritos a fines educativos, en la forma, plazos y periodos que ésta determine.
 
 ## Título III
 
@@ -156,13 +172,15 @@ Ante la concurrencia de gastos objetados, producto de la fiscalización que efec
 
 #### Artículo 8º
 
-Ante la concurrencia de gastos no aceptados producto de una fiscalización, se deberá acreditar la existencia de su monto debidamente reajustado en los términos del artículo 3 ter, del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en la cuenta bancaria respectiva.
+Ante la concurrencia de gastos no aceptados producto de una fiscalización, se deberá acreditar la existencia de sus montos en las cuentas bancarias respectivas.
+
+La Superintendencia de Educación establecerá la posibilidad de rectificar los gastos no aceptados en los procesos que ésta determine. Aquellos desembolsos no atribuibles a ninguna de las operaciones adscritas a fines educativos deberán ser acreditados en las cuentas bancarias, debidamente reajustados en los términos del artículo 3 ter del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
 En contra de los gastos no aceptados, procederán los recursos de la ley Nº 19.880.
 
-Las actas de fiscalización serán notificadas mediante correo electrónico a la dirección que para dichos efectos haya registrado el sostenedor y se entenderá practicada al tercer día hábil siguiente de su despacho.
+Las actas de fiscalización serán notificadas mediante correo electrónico a la dirección que para dichos efectos haya registrado el sostenedor y se entenderá practicada al día hábil siguiente de su despacho.
 
-La Superintendencia de Educación fijará mediante instrucciones de carácter general, la forma y plazos para reflejar en los sistemas contables del sostenedor, según corresponda, los gastos no aceptados, así como cualquier otro aspecto de la fiscalización que le competa según la ley.
+La Superintendencia de Educación fijará mediante instrucciones de carácter general, la forma y plazos para reflejar en los sistemas contables del sostenedor, según corresponda, los gastos no aceptados, así como cualquier otro aspecto de la fiscalización que le competa según la ley. El gasto no aceptado firme formará parte del saldo y se contabilizará en el periodo siguiente en los mismos términos del inciso 2° del artículo 5° del presente reglamento.
 
 #### Artículo 9º
 
