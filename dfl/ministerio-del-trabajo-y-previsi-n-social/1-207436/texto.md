@@ -962,6 +962,14 @@ El tiempo que estos trabajadores destinen a la atención de estas emergencias se
 
 El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acreditación de la circunstancia señalada en este artículo.
 
+#### Artículo 66
+
+quinquies.- Los trabajadores dependientes regidos por el Código del Trabajo, aquellos regidos por la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda y por la ley N° 18.883, que aprueba Estatuto Administrativo para Funcionarios Municipales, que sean padres, madres o tutores legales de menores de edad debidamente diagnosticados con trastorno del espectro autista, estarán facultados para acudir a emergencias respecto a su integridad en los establecimientos educacionales en los cuales cursen su enseñanza parvularia, básica o media.
+
+El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en caso alguno, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en la letra a) del número 4 del artículo 160, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
+
+El trabajador deberá dar aviso a la Inspección del Trabajo del territorio respectivo respecto a la circunstancia de tener un hijo, hija o menor bajo su tutela legal, diagnosticado con trastorno del espectro autista.
+
 #### Artículo 67
 
 Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
@@ -3537,6 +3545,8 @@ El subsidio derivado del permiso postnatal parental se financiará con cargo al 
 El empleador que impida el uso del permiso postnatal parental o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible el uso del permiso establecido en los incisos precedentes, será sancionado con multa a beneficio fiscal de 14 a 150 unidades tributarias mensuales. Cualquier infracción a lo dispuesto en este inciso podrá ser denunciada a la Inspección del Trabajo, entidad que también podrá proceder de oficio a este respecto.
 
 > **Nota.** El artículo 8 de la ley 21474 publicada el 27.07.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de mayo y el 30 de septiembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
+
+> **Nota.** NOTA 1 El artículo 1 de la ley 21510 publicada el 24.11.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de octubre y el 30 de diciembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
 
 #### Artículo 198
 
