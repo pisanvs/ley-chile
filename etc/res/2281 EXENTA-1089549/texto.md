@@ -84,6 +84,8 @@ vi. Como requisito para comprometer el terreno se exigirá a las familias obliga
 
 El ahorro a comprometer por las familias según el cuadro precedente podrá ser acreditado hasta el momento del ingreso del proyecto al Banco de Postulaciones del Programa Fondo Solidario de Elección de Vivienda.
 
+Con todo, este requisito de ahorro mínimo comenzará a ser exigible para los postulantes cuyas cartas se emitan a contar del 1 de abril de 2024.
+
 vii. El compromiso del Serviu de poner a disposición el terreno para el desarrollo del proyecto habitacional de que se trate. La entrega del terreno se verificará sólo una vez que las personas interesadas cuenten con el proyecto habitacional calificado y las familias estén beneficiadas con los subsidios habitacionales correspondientes.
 
 viii. El compromiso de la Entidad Patrocinante a desarrollar el proyecto que mejor resuelva las necesidades habitacionales del grupo que representa. En todo caso, las Entidades Patrocinantes distintas del Serviu declararán expresamente que aceptan someterse a la supervigilancia que la SEREMI estime pertinente respecto del cumplimiento de sus obligaciones.
@@ -96,7 +98,7 @@ d. Información a remitir.
 
 Los Serviu deberán remitir un Informe a la División de Política Habitacional por cada Carta Compromiso que emitan. En el, se incluirán copia de la Carta Compromiso y de todos sus antecedentes.
 
-2. Las cartas compromiso que hayan sido emitidas por los Serviu previo a la entrada en vigencia de la presente resolución y las que se emitan hasta marzo del año 2023 no se verán afectadas por lo dispuesto en ella.
+### 2. Eliminado
 
 Anótese, publíquese, comuníquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
