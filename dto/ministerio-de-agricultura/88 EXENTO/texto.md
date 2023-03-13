@@ -74,7 +74,9 @@ Lo señalado en el párrafo anterior no se aplicará para las Regiones de Arica 
 
 Esta práctica sólo considera la bonificación del valor del producto.
 
-En el caso de suelos de secano y en los suelos de la Región de Coquimbo, la dosis mínima a aplicar será de 8 ton/ha. Para los suelos de secano de las Regiones de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins, del Maule y del Biobío, la dosis mínima a aplicar será de 6 ton/ha.
+En el caso de suelos de secano y en los suelos de la Región de Coquimbo, la dosis mínima a aplicar será de 8 ton/ha. Para los suelos de secano de las Regiones de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins, del Maule y del Biobío, la dosis mínima a aplicar será de 6 ton/ha. Lo anterior aplica también en las regiones de Ñuble y La Araucanía.
+
+No obstante, lo anterior, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, las dosis mínimas a aplicar podrán ser inferiores a las señaladas en el inciso precedente, y no se aplicará la "Pauta Técnica para la Aplicación de Guano" a que se refiere el inciso segundo de este numeral octavo, en aquellas superficies o potreros afectadas por incendios. Asimismo, en estos casos no será necesario presentar un análisis de suelo.
 
 (9) Aplicación de guano rojo (kg): Se entiende por tal al producto formado por el excremento de aves marinas, fosilizado a través del tiempo en las costas del norte chileno, el que se aplica en dosis de hasta 1.000 kg/ha/año, destinada al mejoramiento de las propiedades físicas del suelo. Esta práctica sólo considera la bonificación del valor del producto.
 
@@ -82,7 +84,7 @@ En el caso de suelos de secano y en los suelos de la Región de Coquimbo, la dos
 
 (11) Aplicación de roca fosfórica (kg): Consiste en la aplicación de dosis equivalente no superior a 200 kg P2 O5 /ha sobre suelos de pH inferior o igual a 5,8 (medido en agua), lo que deberá ser demostrado por el correspondiente análisis químico de suelo. Esta práctica no es compatible con el subprograma "Incorporación de fertilizantes de base fosforada" ni con la práctica de "Guano rojo".
 
-(12) Establecimiento e incorporación de abono verde (ha): Mínimo 20 ton/ha (Materia Verde). Contempla los costos derivados del cultivo de leguminosas o leguminosas asociadas a cereales, destinadas únicamente a ser incorporadas al suelo. Además, considera los costos del corte e incorporación de dicho cultivo.
+(12) Establecimiento e incorporación de abono verde (ha): Mínimo 20 ton/ha (Materia Verde). Contempla los costos derivados del cultivo de leguminosas o leguminosas asociadas a cereales, destinadas únicamente a ser incorporadas al suelo. Además, considera los costos del corte e incorporación de dicho cultivo. Tratándose de superficies o potreros afectados por incendios, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, el mínimo referido anteriormente será de 10 ton/ha (materia verde).
 
 (13) Manejo de rastrojos (ha): Las prácticas de este numeral implican la obligación del beneficiario de no quemar rastrojos en ninguna parte del predio objeto del beneficio, salvo condiciones de emergencia sanitaria decretada por la autoridad correspondiente. Tales prácticas son las siguientes:
 
@@ -138,7 +140,7 @@ g. Energizador - Alto: Capacidad de 35 y más km. Considera sólo el costo del e
 
 h. Panel Solar: Consiste en una unidad energética para abastecer de energía a la batería que alimenta al energizador. El monto para bonificar no considera la batería.
 
-(25) Construcción cerco tradicional (m lineal): El objetivo de esta práctica está asociado exclusivamente al manejo de praderas, teniendo como propósito central evitar el sobretalajeo y deterioro de éstas, además de lo anterior podrá usarse como protección de sistemas silvopastorales, aguadas y protección para el control de erosión de cárcavas. En consecuencia, no podrá ser utilizado como cerco limítrofe o para la protección de cultivos. Se exceptúan de lo anterior, las provincias de Parinacota y Tamarugal, comunas de San Pedro de Atacama, Ollagüe, sector Alto El Loa de la comuna de Calama, comuna de Cabo de Hornos y localidad de Dorotea de la comuna de Natales, donde podrá usarse como cerco limítrofe. En la Región de Magallanes y de la Antártica Chilena, se podrá usar como cerco de protección de establecimiento de praderas.
+(25) Construcción cerco tradicional (m lineal): El objetivo de esta práctica está asociado exclusivamente al manejo de praderas, teniendo como propósito central evitar el sobretalajeo y deterioro de éstas, además de lo anterior podrá usarse como protección de sistemas silvopastorales, aguadas y protección para el control de erosión de cárcavas. En consecuencia, no podrá ser utilizado como cerco limítrofe o para la protección de cultivos. Se exceptúan de lo anterior, las provincias de Parinacota y Tamarugal, comunas de San Pedro de Atacama, Ollagüe, sector Alto El Loa de la comuna de Calama, comuna de Cabo de Hornos y localidad de Dorotea de la comuna de Natales, donde podrá usarse como cerco limítrofe. En la Región de Magallanes y de la Antártica Chilena, se podrá usar como cerco de protección de establecimiento de praderas. No obstante lo anterior, tratándose de superficies o potreros afectados por incendios, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, esta práctica podrá utilizarse como cerco limítrofe, en la medida que el área asociada tenga un destino agropecuario y los cercos perimetrales hayan sido afectados por el incendio.
 
 El detalle de las especificaciones por Región o zona es el siguiente:
 
@@ -154,7 +156,7 @@ f. Regiones de Los Lagos y de Aysén del General Carlos Ibáñez del Campo: cinc
 
 g. Región de Magallanes y de la Antártica Chilena: corresponde a un cerco de 7 hebras de alambre liso 14/16, seis de alambre liso y una de alambre púas o 5 de alambre liso y dos de púas; con distanciamiento de postes (4 pulgadas de diámetro o 4"x4", en la base y 7 pies de largo) y piquetes (1"x1, 5"x3, 5 pies), cada 10 y 1 metros, respectivamente. Para la construcción del cerco los postes de Lenga pueden ser reemplazados por otro material apropiado de mayor o igual valor, como, por ejemplo: ciprés o pino impregnado. Asimismo, los piquetes de madera podrán ser reemplazados por distanciadores del tipo "econet" o de similares características y de igual o mayor valor. El aumento de la altura del cerco y el uso de alambre de púas es opcional y el costo adicional es de cargo del productor.
 
-(26) Construcción cerco tipo malla Ursus (m lineal): El objetivo de esta práctica está asociado exclusivamente al manejo de praderas, teniendo como propósito central evitar el sobretalajeo y deterioro de éstas. En consecuencia, no podrá ser utilizado como cerco limítrofe o para la protección de cultivos. Se exceptúan de lo anterior, comunas de San Pedro de Atacama, Ollagüe, sector Alto El Loa de la comuna de Calama, la comuna de Colchane, Huara y Pica, donde podrá usarse como cerco limítrofe y de protección de cultivos, en la Región de Magallanes y de la Antártica Chilena donde podrá usarse como cerco de protección de establecimiento de praderas. Podrá reemplazarse la malla ursus por malla hexagonal, pero el costo asociado será de cargo al beneficiario de la práctica.
+(26) Construcción cerco tipo malla Ursus (m lineal): El objetivo de esta práctica está asociado exclusivamente al manejo de praderas, teniendo como propósito central evitar el sobretalajeo y deterioro de éstas. En consecuencia, no podrá ser utilizado como cerco limítrofe o para la protección de cultivos. Se exceptúan de lo anterior, comunas de San Pedro de Atacama, Ollagüe, sector Alto El Loa de la comuna de Calama, la comuna de Colchane, Huara y Pica, donde podrá usarse como cerco limítrofe y de protección de cultivos, en la Región de Magallanes y de la Antártica Chilena donde podrá usarse como cerco de protección de establecimiento de praderas. Podrá reemplazarse la malla ursus por malla hexagonal, pero el costo asociado será de cargo al beneficiario de la práctica. No obstante lo anterior, tratándose de superficies o potreros afectados por incendios, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, esta práctica podrá utilizarse como cerco limítrofe, en la medida que el área asociada tenga un destino agropecuario y los cercos perimetrales hayan sido afectados por el incendio.
 
 El detalle de las especificaciones por Región es el siguiente:
 
@@ -240,6 +242,8 @@ v. Control de bordes de cárcava con sacos hilerados (m lineal): Se utilizan sac
 
 vi. Disipador de energía (barrera pequeña de varas o fajinas) (unidad): Cada barrera contiene 16 varas de 0,6 m. En la construcción se utilizan estacas o rodrigones (poste impregnado) y se alambran cada 0,5 o 1 m. en la horizontal y se alambran a las estacas verticales que se disponen a 0,7 a 0,8 m en la horizontal, estas se deben enterrar a 0,1 m.
 
+Tratándose de superficies o potreros afectados por incendios, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, esta práctica también podrá aplicarse para el resguardo y protección de áreas asociadas a quebradas, aplicando lo que resulte técnicamente pertinente a las distintas medidas de control precedentemente indicadas, debiendo en cada una de ellas ser justificadas en el Informe Técnico correspondiente.
+
 (36) Recuperación de bofedales (ha): Consiste en el retiro de la vegetación muerta, nivelación del terreno y abonadura a razón de 5 toneladas de guano por hectárea. Replante en base a trozos en buen estado del mismo bofedal a una distancia aproximada de 15 cm. Incluye mano de obra por riego.
 
 (37) Mantención de bofedales (ha): Consiste en la aplicación de 3 toneladas de guano por hectárea, construcción de acequias de 20 a 30 cm de profundidad, con un ancho de 40 cm y 2% de pendiente.
@@ -266,7 +270,7 @@ a. Establecimiento de biofiltros para sedimentos (m2 ): Corresponde a una franja
 
 b. Establecimiento de biofiltros para sedimentos y filtración de contaminantes en pendientes mayores o iguales a 15% (m2 ): Franja de 20 metros de ancho de los cuales los primeros 8 metros cercanos al cauce serán de especies arbustivas y/o arbóreas, con marco de plantación de 3x2 m en caso de árboles y de 1x1 m en caso de arbustos. Los siguientes 12 m serán con cobertura herbácea en base a una mezcla de festuca más ballica a razón de 70 kg/ha.
 
-(42) Incorporación de cenizas y siembra de avena (ha): Práctica para suelos afectados por erupciones volcánicas. Consiste en la incorporación de cenizas de más de 5 cm de espesor acompañado de una siembra de avena.
+(42) Incorporación de cenizas y siembra de cereales (ha): Práctica para suelos afectados por cenizas. Para el caso de erupciones volcánicas la incorporación de cenizas de más de 5 cm de espesor acompañado de una siembra de cereales. Tratándose de superficies o potreros afectados por incendios, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, no será requisito un espesor mínimo de cenizas en superficie. Considera la siembra de un cereal.
 
 (43) Construcción de surcos en media luna (metro perimetral): Son estructuras de forma semicircular, donde se levanta un camellón de suelo y piedra como murete. La construcción se realiza con la tierra existente dentro del área comprendida entre los arcos concéntricos, formándose un surco que servirá como acumulador de agua para evitar que el camellón tenga que soportar todo el volumen de agua almacenada.
 
@@ -297,6 +301,8 @@ Para el caso de la Región de Magallanes y de la Antártica Chilena, la determin
 Determinación de la Densidad:
 
 Nota: Para determinar la densidad correspondiente a mata barrosa (Mulinum spinosum), no se considerará altura.
+
+Tratándose de superficies o potreros afectados por incendios, en casos de emergencia agrícola o catástrofe declaradas por la autoridad competente, o de emergencias calificadas por el Instituto de Desarrollo Agropecuario de conformidad con la ley N° 18.910, esta práctica también podrá ser utilizada para el despeje de áreas con restos de viñedos o huertos frutales. En tal caso, el costo considera la remoción del material vegetal afectado, su confinamiento o eliminación. El Informe Técnico correspondiente deberá justificar que la ejecución de la práctica no aumentará el riesgo de erosión de la superficie intervenida, o en su defecto las medidas complementarias para evitarlo.
 
 (52) Limpia Pica Pica (Ulex europeaus) (ha): Considera corte, destronque y acopio del material eliminado. Considera corte, destronque y acopio del material eliminado, en densidades altas, medio y bajo, además, el plan de manejo deberá contener el desarrollo de un plan productivo para el área afecta al beneficio.
 
@@ -351,6 +357,8 @@ El informe técnico de la postulación deberá indicar la distribución espacial
 (68) Cultivos Cereales (ha): Establecimiento de cerales, destinadas a suplir el déficit de siembras.
 
 2. Derógase el Decreto N°9, de 2021, del Ministerio de Agricultura, que establece tabla de costos para el año 2021, que fija los valores de las actividades que se bonificarán en el marco del Sistema de Incentivo para Sustentabilidad Agroambiental de los Suelos Agropecuarios.
+
+> **Nota.** El numeral 1 del Decreto 26 Exento, Agricultura, publicado el 13.03.2023, modifica la presente norma en el sentido de reemplazar los valores de dos prácticas para la Región de Magallanes y la Antártica Chilena, que forman parte del subprograma "Empleo de métodos de intervención de suelos para su conservación (II)", por los que la citada norma indica.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Esteban Valenzuela Van Treek, Ministro de Agricultura.
 
