@@ -46,6 +46,8 @@ Excepcionalmente, los Serviu podrán recibir postulaciones a través de un formu
 
 3. Los recursos dispuestos para la selección de postulantes, por región del país, son los siguientes:
 
+.
+
 La selección de postulantes se realizará de acuerdo a la región consignada en el Registro Social de Hogares de cada postulante, por estricto orden de prelación según los puntajes señalados en el resuelvo 7. de la presente resolución, pudiendo efectuarse redistribuciones o aumentos de recursos, de acuerdo con la disponibilidad del Programa, conforme la resolución indicada en el Visto c) del presente acto administrativo.
 
 ### 4. Del Sistema para la postulación:
