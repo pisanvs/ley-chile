@@ -152,7 +152,7 @@ Los requisitos y condiciones serán los siguientes:
 
 a) Que exista una organización de usuarios que ejerza jurisdicción en la fuente en la que se solicita la extracción temporal de aguas.
 
-b) El solicitante deberá estar incluido en el registro de comuneros de la respectiva organización de usuarios.
+b) El solicitante deberá estar incluido en el Registro de Comuneros de la respectiva organización de usuarios. En caso de SHAC declarados áreas de restricción o zona de prohibición, el solicitante deberá al menos haberse hecho parte en el proceso de conformación de la comunidad, conforme a lo dispuesto en el artículo 63 del Código de Aguas y décimo segundo transitorio de la ley Nº 21.435.
 
 c) El solicitante deberá demostrar que posee uno o más derechos de aprovechamiento de aguas que por la situación de severa sequía no puede ejercer, luego de haber sido aplicada la prorrata y/o redistribución por parte de la organización de usuarios respectiva, acompañando para ello un informe técnico dando cuenta las razones de interés general que justificarían la autorización de extracción temporal.
 
@@ -188,7 +188,7 @@ Si la solicitud de autorización de explotación temporal se funda en un cambio 
 
 v. Una vez que la Dirección Regional de Aguas respectiva cuente con la totalidad de la información requerida resolverá la solicitud en el más breve plazo.
 
-vi. No obstante, no se tramitarán aquellas solicitudes que se ubiquen en puntos de captación y/o solicitantes que hayan sido objeto de procesos sancionatorios de fiscalización y a cuyo respecto se hayan aplicado sanciones dentro del año anterior y en curso. Esta limitación sólo podrá dejarse sin efecto, a solicitud de la interesada, siempre que presente en ese mismo acto una resolución de la Dirección General de Aguas o una sentencia judicial que, a su vez, haya dejado sin efecto lo dispuesto en la resolución regional.
+vi. No obstante, no se tramitarán aquellas solicitudes que se ubiquen en puntos de captación y/o solicitantes hayan sido sancionados por el Servicio dentro del año anterior y en curso. Esta limitación sólo podrá dejarse sin efecto, a solicitud de la interesada, siempre que presente en ese mismo acto una resolución de la Dirección General de Aguas o una sentencia judicial que, a su vez, haya dejado sin efecto lo dispuesto en la resolución regional.
 
 No se tramitarán aquellas solicitudes, asociadas a derechos que se encuentren incumpliendo su obligación de catastrar las obras de captación y de instalar y mantener sistemas de medición y de transmisión de extracciones efectivas y su obligación de reportar las extracciones.
 
@@ -204,7 +204,7 @@ IV.- NORMAS DE OPERACIÓN PARA LA EXTRACCIÓN TEMPORAL DE AGUAS EN ZONAS QUE CUE
 
 La extracción temporal de aguas en razón de un decreto que declare zona de escasez hídrica se regirá por las siguientes disposiciones generales:
 
-a) El agua a extraer sólo puede ser utilizada para los fines expresamente autorizados, no pudiendo ser destinada a necesidades o aplicaciones distintas, ni ceder a otros usuarios. De constatarse lo contrario, la resolución que autoriza la extracción será dejada sin efecto.
+a) El agua a extraer sólo puede ser utilizada para los fines expresamente autorizados, no pudiendo ser destinada a necesidades o aplicaciones distintas, ni ceder a otros usuarios, salvo que se trate de un intercambio de agua que sea imprescindible para asegurar o facilitar el cumplimiento de lo dispuesto en el artículo 5 bis incisos 2º y 5º del Código de Aguas, siempre que no produzca afectación a derechos de terceros y exista respaldo técnico de que el intercambio de agua no producirá un impacto negativo a la sustentabilidad del acuífero o de la fuente.
 
 b) El solicitante, al momento de comenzar la extracción, deberá contar y mantener un sistema de medición de caudales y niveles freáticos, tanto en el punto autorizado bajo decreto que declare zona de escasez hídrica como en el punto de origen, si corresponde, registrando cada una hora los caudales máximos instantáneos extraídos y reportarlos junto con los volúmenes diarios, al menos una vez a la semana a través del software DGA de Monitoreo de Extracciones Efectivas. En el caso que se haya ordenado instalar y mantener un sistema de medición y de transmisión de extracciones efectivas, mediante resolución, con una frecuencia de reporte menor, primará lo establecido en esta resolución.
 
@@ -222,7 +222,7 @@ h) Si en cualquier momento se determina que la información entregada es incompl
 
 i) Las extracciones temporales de aguas solicitadas por parte de una Organización de Usuarios, amparadas en el decreto de zona de escasez hídrica, deberán ser administradas y distribuidas conforme a los acuerdos de distribución o redistribución vigente.
 
-j) Con todo, no se podrán autorizar solicitudes de extracción de aguas con cargo a decreto de zona de escasez hídrica en un mismo punto de captación y/o con cargo al mismo derecho de aprovechamiento de aguas, en más de una oportunidad consecutiva.
+j) Con todo, no se podrán autorizar solicitudes de extracción de aguas con cargo a decreto de zona de escasez hídrica en un mismo punto de captación y/o con cargo al mismo derecho de aprovechamiento de aguas, en más de una oportunidad consecutiva. Lo anterior será aplicable salvo que se trate de una empresa concesionaria de servicios sanitarios que cuente con informe favorable de la Superintendencia de Servicios Sanitarios, mediante el cual se acredite que el caudal solicitado es imprescindible para el abastecimiento de la población y que a pesar de haber cumplido con su programa de inversión, y demás exigencias establecidas en el ordenamiento jurídico, no le ha sido posible disponer de dicho caudal.
 
 3. Comuníquese la presente resolución al Sr. Ministro de Obras Públicas; al Sr. Subsecretario de Obras Públicas; al Sr. Superintendente de Servicios Sanitarios; al Sr. Director Nacional de Obras Hidráulicas; a la Subdirección de la DGA, a la Jefatura de Departamento de Organizaciones de Usuarios de la DGA, a la Jefatura del Departamento de Fiscalización de la DGA, a la Jefatura del Departamento de Administración de Recursos Hídricos de la DGA, a la Jefatura de la División de Hidrología de la DGA, a la Jefatura del Departamento de Información de Recursos Hídricos de la DGA, a la Jefatura de la División Legal de la DGA, a las Direcciones Regionales de la Dirección General de Aguas, y a las demás oficinas que corresponda.
 
