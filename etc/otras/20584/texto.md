@@ -10,9 +10,9 @@ Proyecto de ley:
 
 Disposiciones Generales
 
-#### Artículo 1º
+#### Artículo 1°
 
-Esta ley tiene por objeto regular los derechos y deberes que las personas tienen en relación con acciones vinculadas a su atención de salud.
+Esta ley tiene por objeto regular los derechos y deberes que las personas tienen en relación con acciones vinculadas a su atención de salud, cualquiera sea la forma en que ésta se preste, presencialmente o realizada a distancia o por telemedicina apoyada en tecnologías de la información y las comunicaciones, conforme a las condiciones que establezca el reglamento respectivo.
 
 Sus disposiciones se aplicarán a cualquier tipo de prestador de acciones de salud, sea público o privado. Asimismo, y en lo que corresponda, se aplicarán a los demás profesionales y trabajadores que, por cualquier causa, deban atender público o se vinculen con el otorgamiento de las atenciones de salud.
 
@@ -29,6 +29,16 @@ Se entiende por prestador de salud, en adelante el prestador, toda persona, natu
 Prestadores institucionales son aquellos que organizan en establecimientos asistenciales medios personales, materiales e inmateriales destinados al otorgamiento de prestaciones de salud, dotados de una individualidad determinada y ordenados bajo una dirección, cualquiera sea su naturaleza y nivel de complejidad. Corresponde a sus órganos la misión de velar porque en los establecimientos indicados se respeten los contenidos de esta ley.
 
 Prestadores individuales son las personas naturales que, de manera independiente, dependiente de un prestador institucional o por medio de un convenio con éste, otorgan directamente prestaciones de salud a las personas o colaboran directa o indirectamente en la ejecución de éstas. Se consideran prestadores individuales los profesionales de la salud a que se refiere el Libro Quinto del Código Sanitario.
+
+Los prestadores podrán otorgar acciones, atenciones y procedimientos de salud digital destinados a la prevención, promoción, protección, recuperación y rehabilitación de las personas, manteniendo registros de estas prestaciones en los mismos términos que una atención presencial. Las prestaciones de telemedicina deberán sujetarse a las disposiciones reglamentarias vigentes y las que al efecto dicte el Ministerio de Salud, las que tendrán por objeto resguardar que las prestaciones de salud digital se ejecuten en condiciones de seguridad, con respeto a los derechos en salud de las personas y regular la implementación y desarrollo de acciones vinculadas a la atención de salud realizadas a distancia, por medio o con apoyo de tecnologías de la información y comunicaciones.
+
+Los medios a través de los cuales se realicen las acciones y prestaciones de salud digital deberán ser adecuados al tipo de prestación que se otorgará al paciente, debiendo preferir aquellos medios que resguarden la calidad en la atención de salud, de acuerdo con la normativa vigente.
+
+Será responsabilidad de los prestadores institucionales e individuales de salud que otorguen acciones de salud digital, utilizar medios técnicos que cumplan los estándares de seguridad que establezca el Ministerio de Salud en todas las etapas del tratamiento de datos, siendo responsables de todo daño que ocasionare el incumplimiento a dicho deber.
+
+No será eximente de responsabilidad que el prestador utilice a estos efectos medios de terceros, sin perjuicio de la responsabilidad del proveedor de servicios conforme a las reglas generales.
+
+Para los efectos del tratamiento de datos personales, se entenderá que el prestador es el responsable de llevar los registros o bases de datos de los pacientes que se generen con ocasión de la gestión de los sistemas de apoyo a la salud, y los proveedores tendrán las responsabilidades propias de un mandatario, en los términos previstos en la ley N° 19.628 sobre protección de la vida privada.
 
 Para el otorgamiento de prestaciones de salud todo prestador deberá haber cumplido las disposiciones legales y reglamentarias relativas a los procesos de certificación y acreditación, cuando correspondan.
 
@@ -148,13 +158,25 @@ c) Las condiciones y obligaciones contempladas en sus reglamentos internos que l
 
 d) Las instancias y formas de efectuar comentarios, agradecimientos, reclamos y sugerencias.
 
+e) Las características y condiciones de uso de las tecnologías que empleará para las prestaciones de salud digital como, asimismo, los medios tecnológicos y conectividad con que deberá contar y las acciones que deba realizar el paciente para comunicarse correctamente con el prestador respectivo, a través de un lenguaje o medios que faciliten su comprensión.
+
 Los prestadores deberán colocar y mantener en un lugar público y visible, una carta de derechos y deberes de las personas en relación con la atención de salud, cuyo contenido será determinado mediante resolución del Ministro de Salud.
 
 Los prestadores individuales estarán obligados a proporcionar la información señalada en las letras a) y b) y en el inciso precedente.
 
+#### Artículo 8° bis
+
+Un reglamento del Ministerio de Salud establecerá los requisitos y procedimientos aplicables a la autorización sanitaria de los prestadores institucionales que otorguen prestaciones de salud digital, así como de los espacios asistenciales destinados a ello; el ejercicio de las acciones de telemedicina respecto de los prestadores individuales de salud; y las medidas de registro, publicidad, calidad, seguridad y de fiscalización que podrán ser tomadas para asegurar el cumplimiento de lo dispuesto en esta ley.
+
 #### Artículo 9º
 
 Toda persona tiene derecho a que todos y cada uno de los miembros del equipo de salud que la atiendan tengan algún sistema visible de identificación personal, incluyendo la función que desempeñan, así como a saber quien autoriza y efectúa sus diagnósticos y tratamientos.
+
+El prestador institucional es responsable de la regularidad y seguridad del otorgamiento de la prestación de salud digital conforme a la normativa vigente, como asimismo que la prestación de salud digital sea realizada por el prestador individual que previamente haya seleccionado el paciente, cuando corresponda, así como de la calidad y seguridad del otorgamiento de la prestación de salud digital conforme a la normativa vigente.
+
+En caso que se modifique alguno de estos elementos, deberá obtenerse el consentimiento de la persona previo al otorgamiento de la acción o prestación de salud digital, debiendo siempre facilitar que esta se otorgue en forma oportuna.
+
+En caso que el paciente rechace la modificación, el prestador deberá restituir de manera inmediata la totalidad del pago que aquel hubiera realizado por la respectiva prestación.
 
 Se entenderá que el equipo de salud comprende todo individuo que actúe como miembro de un equipo de personas, que tiene la función de realizar algún tipo de atención o prestación de salud. Lo anterior incluye a profesionales y no profesionales, tanto del área de la salud como de otras que tengan participación en el quehacer de salud.
 
@@ -168,6 +190,14 @@ Tratándose de atenciones médicas de emergencia o urgencia, es decir, de aquell
 
 Los prestadores deberán adoptar las medidas necesarias para asegurar la adecuada confidencialidad durante la entrega de esta información, así como la existencia de lugares apropiados para ello.
 
+#### Artículo 10 bis
+
+Las plataformas tecnológicas empleadas en las acciones y prestaciones de salud digital, así como las que almacenan y tratan datos personales deberán estar acreditadas en cuanto al cumplimiento de las normas y estándares técnicos que establezca el Ministerio de Salud a través de un reglamento y las normas técnicas respectivas.
+
+La acreditación a que alude el inciso anterior deberá ser otorgada por instituciones públicas o privadas previamente acreditadas por el Ministerio de Salud, conforme a las exigencias establecidas en el mismo reglamento. Esta función acreditadora podrá ser delegada en órganos públicos o privados mediante convenios especialmente suscritos para estos efectos.
+
+El Ministerio de Salud deberá mantener, en su página web, un registro público de las entidades acreditadoras autorizadas, que contenga, al menos, los datos de sus propietarios, directivos y de sus profesionales evaluadores.
+
 #### Artículo 11
 
 Toda persona tendrá derecho a recibir, por parte del médico tratante, una vez finalizada su hospitalización, un informe legible que, a lo menos, deberá contener:
@@ -176,9 +206,11 @@ a) La identificación de la persona y del profesional que actuó como tratante p
 
 b) El período de tratamiento;
 
-c) Una información comprensible acerca del diagnóstico de ingreso y de alta, con sus respectivas fechas, y los resultados más relevantes de exámenes y procedimientos efectuados que sean pertinentes al diagnóstico e indicaciones a seguir, y
+c) Una información comprensible acerca del diagnóstico de ingreso y de alta, con sus respectivas fechas, y los resultados más relevantes de exámenes y procedimientos efectuados que sean pertinentes al diagnóstico e indicaciones a seguir;
 
-d) Una lista de los medicamentos y dosis suministrados durante el tratamiento y de aquellos prescritos en la receta médica.
+d) Una lista de los medicamentos y dosis suministrados durante el tratamiento y de aquellos prescritos en la receta médica, y
+
+e) La modalidad de atención en que se efectuará el seguimiento del tratamiento de salud, con relación a la atención recibida, en caso de ser necesario.
 
 El prestador deberá entregar por escrito la información sobre los aranceles y procedimientos de cobro de las prestaciones de salud que le fueron aplicadas, incluyendo pormenorizadamente, cuando corresponda, los insumos, medicamentos, exámenes, derechos de pabellón, días-cama y honorarios de quienes le atendieron, antes del pago, si éste correspondiere.
 
@@ -198,15 +230,19 @@ Toda la información que surja, tanto de la ficha clínica como de los estudios 
 
 #### Artículo 13
 
-La ficha clínica permanecerá por un período de al menos quince años en poder del prestador, quien será responsable de la reserva de su contenido. Un reglamento expedido a través del Ministerio de Salud establecerá la forma y las condiciones bajo las cuales los prestadores almacenarán las fichas, así como las normas necesarias para su administración, adecuada protección y eliminación.
+La ficha clínica deberá conservarse por los prestadores por un período de al menos quince años, y serán los responsables de la reserva de su contenido. Un reglamento expedido a través del Ministerio de Salud establecerá la forma y las condiciones bajo las cuales los prestadores almacenarán las fichas, así como las normas necesarias para su administración, adecuada protección y eliminación.
 
-Los terceros que no estén directamente relacionados con la atención de salud de la persona no tendrán acceso a la información contenida en la respectiva ficha clínica. Ello incluye al personal de salud y administrativo del mismo prestador, no vinculado a la atención de la persona.
+La ficha clínica electrónica y los sistemas que la soporten deberán estar diseñados para interoperar con otros sistemas necesarios para el otorgamiento de acciones y prestaciones de salud. Un reglamento del Ministerio de Salud, suscrito por el Ministerio de Hacienda, establecerá los estándares técnicos y administrativos que deberán cumplir para su certificación.
 
-Sin perjuicio de lo anterior, la información contenida en la ficha, copia de la misma o parte de ella, será entregada, total o parcialmente, a solicitud expresa de las personas y organismos que se indican a continuación, en los casos, forma y condiciones que se señalan:
+El Ministerio de Salud determinará los estándares que sean necesarios para garantizar la integración e integridad de los datos, interoperabilidad, disponibilidad, autenticidad y confidencialidad de la información que conste en la ficha clínica, además de las condiciones o resguardos administrativos que sean necesarios para tales efectos. Lo anterior, de acuerdo con los recursos que disponga para estos efectos cada año la Ley de Presupuestos del Sector Público y teniendo en consideración el marco normativo vigente, especialmente la ley N° 19.628, sobre protección de la vida privada y el decreto con fuerza de ley N° 1, promulgado el año 2004 y publicado el año 2005, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 211, de 1973, que fija normas para la defensa de la libre competencia.
+
+Los terceros que no estén directamente relacionados con la atención de salud de la persona no tendrán acceso a la información contenida en la respectiva ficha clínica. Ello incluye al personal de salud y administrativo del mismo prestador, no vinculado a la atención de la persona, independiente de la modalidad de atención prestada.
+
+La información contenida en la ficha clínica, copia de toda o parte de ella, será entregada o será accesible, total o parcialmente, a solicitud expresa de las personas y organismos que se indican a continuación, en los casos, forma y condiciones que se señalan:
 
 a) Al titular de la ficha clínica, a su representante legal o, en caso de fallecimiento del titular, a sus herederos.
 
-b) A un tercero debidamente autorizado por el titular, mediante poder simple otorgado ante notario.
+b) A un tercero debidamente autorizado por el titular, mediante poder simple otorgado ante notario o firmado a través de un sistema electrónico que garantice su autenticidad, de conformidad con lo dispuesto a la ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma.
 
 c) A los tribunales de justicia, siempre que la información contenida en la ficha clínica se relacione con las causas que estuvieren conociendo.
 
@@ -215,6 +251,8 @@ d) A los fiscales del Ministerio Público y a los abogados, previa autorización
 e) Al Instituto de Salud Pública, en el ejercicio de sus facultades.
 
 Las instituciones y personas indicadas precedentemente adoptarán las providencias necesarias para asegurar la reserva de la identidad del titular las fichas clínicas a las que accedan, de los datos médicos, genéticos u otros de carácter sensible contenidos en ellas y para que toda esta información sea utilizada exclusivamente para los fines para los cuales fue requerida.
+
+Las personas individualizadas en las letras a) y b) precedentes podrán requerir, de conformidad con la ley N° 19.628, la entrega gratuita y sin dilaciones indebidas de una copia íntegra de la información contenida en la ficha clínica, en un formato estructurado, de uso común y lectura legible, que sea susceptible de ser portado a otro sistema de ficha clínica o transmitirlos a otro prestador que se indique en la solicitud, según lo dispuesto en la resolución que apruebe la norma técnica dictada para tales efectos por el Ministerio de Salud. En caso que la información se requiera para ser proporcionada a otro prestador, este requisito se cumplirá con la entrega de la información necesaria para que el prestador autorizado pueda acceder de manera remota a la ficha clínica del paciente y extraer la información necesaria para garantizar la continuidad del cuidado del paciente. El manejo, almacenamiento y traspaso de esta información se hará teniendo en consideración el marco normativo vigente, especialmente la ley N° 19.628 sobre protección de la vida privada y el decreto con fuerza de ley N° 1, promulgado el año 2004 y publicado el año 2005, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 211, de 1973, que fija normas para la defensa de la libre competencia.
 
 ### Párrafo 7º
 
@@ -231,6 +269,8 @@ Este derecho debe ser ejercido en forma libre, voluntaria, expresa e informada, 
 En ningún caso el rechazo a tratamientos podrá tener como objetivo la aceleración artificial de la muerte, la realización de prácticas eutanásicas o el auxilio al suicidio.
 
 Por regla general, este proceso se efectuará en forma verbal, pero deberá constar por escrito en el caso de intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasivos y, en general, para la aplicación de procedimientos que conlleven un riesgo relevante y conocido para la salud del afectado. En estos casos, tanto la información misma, como el hecho de su entrega, la aceptación o el rechazo deberán constar por escrito en la ficha clínica del paciente y referirse, al menos, a los contenidos indicados en el inciso primero del artículo 10. Se presume que la persona ha recibido la información pertinente para la manifestación de su consentimiento, cuando hay constancia de su firma en el documento explicativo del procedimiento o tratamiento al cual deba someterse.
+
+El consentimiento informado del paciente para recibir prestaciones de salud digital se podrá otorgar en forma verbal, caso en el cual el prestador institucional e individual respectivo deberá registrar la aceptación o rechazo de la atención de salud mediante una declaración escrita en formato papel o firmado a través de un sistema electrónico que garantice su autenticidad de conformidad con lo dispuesto en la ley N° 19.799, dejándose registro en la ficha clínica de los resguardos adoptados para asegurar el derecho de información de la persona.
 
 Sin perjuicio de las facultades de los padres o del representante legal para otorgar el consentimiento en materia de salud en representación de los menores de edad competentes, todo niño, niña y adolescente tiene derecho a ser oído respecto de los tratamientos que se le aplican y a optar entre las alternativas que éstos otorguen, según la situación lo permita, tomando en consideración su edad, madurez, desarrollo mental y su estado afectivo y psicológico. Deberá dejarse constancia de que el niño, niña o adolescente ha sido informado y se le ha oído.
 

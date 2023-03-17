@@ -1278,6 +1278,10 @@ Lo anterior no obsta al cumplimiento de los deberes de información por parte de
 
 Los profesionales señalados en los artículos 112 y 113 bis de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químico-farmacéuticos y farmacéuticos.
 
+#### Artículo 120 bis
+
+Los profesionales a que se refiere este Libro podrán otorgar prestaciones a distancia mediante tecnologías de la información y comunicaciones, dentro del ámbito de sus competencias, en las condiciones y con los requisitos que establezcan el reglamento y las demás normativas que al efecto dicte el Ministerio de Salud.
+
 # Libro Sexto
 
 DE LOS ESTABLECIMIENTOS DEL ÁREA DE LA SALUD
@@ -1297,6 +1301,8 @@ De los establecimientos asistenciales de salud
 #### Artículo 122
 
 Los establecimientos asistenciales que realicen acciones de salud a las personas requerirán de autorización expresa de la Secretaría Regional Ministerial del territorio en que se encuentren situados y estarán sujetos a los requisitos de instalación, funcionamiento y dirección técnica que determine el reglamento que los regule en particular, en su condición de establecimientos de atención cerrada, generales o especializados. Dicho reglamento determinará, asimismo, los requisitos profesionales que deberá cumplir quien tenga su dirección técnica.
+
+El reglamento de que trata el inciso anterior deberá considerar las circunstancias particulares de aquellos establecimientos que otorgan prestaciones o atenciones apoyadas en tecnologías de la información y las comunicaciones a distancia.
 
 #### Artículo 123
 
