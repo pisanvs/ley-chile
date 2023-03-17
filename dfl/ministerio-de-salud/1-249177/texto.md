@@ -148,6 +148,12 @@ b) Coordinar a nivel nacional, a solicitud de los Servicios de Salud, los proces
 
 c) Celebrar, cuando así lo determine el Ministro, los actos y convenios que por su materia afecten a todos o algunos de los Servicios de Salud, previo informe favorable de éstos, y que surtirán los mismos efectos que si ellos los hubiesen celebrado directamente. El Subsecretario de Redes Asistenciales subrogará al Ministro de Salud en ausencia del Subsecretario titular de Salud Pública.
 
+#### Artículo 8° bis
+
+<!-- parte:10415407 -->
+
+La Subsecretaría de Redes Asistenciales coordinará el otorgamiento de prestaciones o atenciones de salud a distancia a través de tecnologías de la información y las comunicaciones.
+
 #### Artículo 9º
 
 <!-- parte:8653809 -->
@@ -1448,6 +1454,12 @@ Los funcionarios del Ministerio de Salud y de los Servicios de Salud, del Fondo 
 
 El personal a jornal que se contrate para labores de carácter transitorio se regirá por el Código del Trabajo y será imponente del Instituto de Normalización Previsional o de una Administradora de Fondos de Pensiones, según corresponda.
 
+#### Artículo 79 bis
+
+<!-- parte:10415408 -->
+
+Los prestadores del sistema podrán otorgar prestaciones de salud mediante tecnologías de la información y comunicaciones, y podrán contratar profesionales conforme al régimen laboral que corresponda. Estos profesionales quedarán sujetos al cumplimiento de objetivos asociados a la realización de atenciones médicas de salud digital, y podrán desarrollar sus labores fuera de las dependencias institucionales, previa autorización de la autoridad que corresponda. Un reglamento dictado por el Ministerio de Salud, suscrito además por el Ministro de Hacienda, determinará las condiciones y las autorizaciones bajo las cuales se aplicará lo dispuesto en este artículo, y establecerá además los mecanismos para resguardar la productividad y eficiencia de las prestaciones otorgadas con independencia de la modalidad de atención, ya sea mediante tecnologías de la información y comunicaciones, así como de aquellas otorgadas presencialmente. Lo anterior, de acuerdo a los recursos que disponga para estos efectos cada año la Ley de Presupuestos del Sector Público.
+
 #### Artículo 80
 
 <!-- parte:8653904 -->
@@ -2681,6 +2693,8 @@ Las deudas generadas por incumplimiento en el pago de las tarifas que señala el
 <!-- parte:8654010 -->
 
 Los afiliados, con las excepciones que establece esta ley, deberán contribuir al financiamiento del valor de las prestaciones y atenciones que ellos y los respectivos beneficiarios soliciten y que reciban del Régimen, mediante pago directo, en la proporción y forma que más adelante se indican. El valor de las prestaciones será el que fije el arancel aprobado por los Ministerios de Salud y de Hacienda a proposición del Fondo Nacional de Salud.
+
+El arancel del que trata el inciso anterior cubrirá la entrega de las atenciones o prestaciones que ahí se señalan, incluyendo las prestaciones realizadas a distancia, mediante tecnologías de la información y comunicaciones, en la forma que ahí se establezca.
 
 #### Artículo 160
 
