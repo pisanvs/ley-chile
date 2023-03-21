@@ -2,7 +2,7 @@ LEY NÚM. 21.539
 
 MODIFICA LA LEY N° 18.290, DE TRÁNSITO, PARA SUPRIMIR LA EXCEPCIÓN A LA EXIGENCIA DE PATENTE ÚNICA PARA LA CIRCULACIÓN DE VEHÍCULOS NUEVOS ADQUIRIDOS EN CHILE
 
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley iniciado en moción de la ex diputada Ximena Ossandón Irarrázabal y las diputadas María Luisa Cordero Velásquez, Lorena Fries Monleón, Carla Morales Maldonado, Erika Olivera De La Fuente y de los diputados René Alinco Bustos, José Miguel Castro Bascuñán, Marcos Ilabaca Cerda y Alberto Undurraga Vicuña,
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley iniciado en moción de las diputadas Ximena Ossandón Irarrázabal, María Luisa Cordero Velásquez, Lorena Fries Monleón, Carla Morales Maldonado, Erika Olivera De La Fuente y de los diputados René Alinco Bustos, José Miguel Castro Bascuñán, Marcos Ilabaca Cerda y Alberto Undurraga Vicuña,
 
 Proyecto de ley:
 
