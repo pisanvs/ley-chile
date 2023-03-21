@@ -614,6 +614,16 @@ Quedarán exentos de concurrir con los aportes señalados en este número, tanto
 
 Para los efectos de validar una postulación, las Secretarías Regionales Ministeriales de Vivienda y Urbanismo deberán requerir los documentos de respaldo necesarios, que acrediten el cumplimiento de los requisitos del Programa por parte del Comité de Pavimentación.
 
+3° bis.- En el caso de postulaciones de calles y/o pasajes para la pavimentación o repavimentación de sus calzadas, los porcentajes de aportes de Comités de Pavimentación y de Municipalidades especificados respectivamente en las letras d) y e) del resuelvo 3° precedente, deberán ser ponderados por los siguientes guarismos, según el tipo de pavimentación adoptado en la postulación:
+
+. Ponderador =1,0 para las tres soluciones de pavimentación adoptadas de menor valor referencial, de entre las alternativas de pavimentación existentes;
+
+. Ponderador que resulte del valor referencial, determinado según el resuelvo 7°, del tipo de pavimento adoptado en la postulación dividido por el respectivo valor base, ambos definidos en la letra f) del Resuelvo 9° de la presente resolución, correspondientes al mismo llamado.
+
+La respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo oportunamente deberá informar a las Municipalidades los guarismos especificados en el párrafo anterior, que ponderan los aportes reglamentarios de Comités de Pavimentación y de Municipalidades, según el tipo de pavimento adoptado en su postulación, de manera de transparentar su aplicación e incentivar la elección de tipos de pavimentos que requieran una menor inversión.
+
+Respecto de Comités de Pavimentación y Municipalidades beneficiados con cero por ciento (0%) de aportes reglamentarios o que se eximen de los mismos, deberán elegir para su postulación tipos de materialidades de pavimentación de menor inversión, dentro de las alternativas de pavimentos que proporcione la Secretaría Regional Ministerial de Vivienda y Urbanismo.
+
 4º.- El ahorro en dinero deberá estar depositado, a la fecha de la inscripción, a nombre de cada miembro del respectivo Comité o a nombre del Comité, en una Cuenta de Ahorro. El ahorro se acreditará al momento de la inscripción, presentando fotocopia de la libreta de ahorro correspondiente.
 
 5º.- El ahorro acreditado deberá haberse puesto a disposición de la Municipalidad correspondiente, con anterioridad a la firma del convenio a que se refiere el número 10.
@@ -630,9 +640,11 @@ Será requisito que las Municipalidades estén al día con el respectivo SERVIU 
 
 Si el proyecto que se postula considera conjuntamente la pavimentación o repavimentación de calzadas y de sus aceras correspondientes, soluciones de aguas lluvia u obras anexas imprescindibles, el presupuesto de postulación debe incluir el costo de la totalidad de las obras a realizar.
 
-El SERVIU tendrá que establecer y brindar a las respectivas comunas alternativas de pavimentación de diferente costo, de forma de permitir la elección de soluciones que requieran una menor inversión. Las soluciones de pavimentación a aplicar deberán cumplir condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación año 2008, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
+El Serviu tendrá que establecer y brindar a las respectivas comunas alternativas de pavimentación de diferente costo, de forma de permitir la elección de soluciones que requieran una menor inversión. El Serviu como mínimo deberá proporcionar valores referenciales para las siguientes materialidades de pavimentación: hormigón de cemento vibrado (HCV); concreto asfáltico en caliente (ASFC, no modificado con polímeros); concreto asfáltico en frío (ASFF); adocretos, según se establece en los Artículos 3.2.5 (tercer inciso), 3.2.6 y 3.2.8 de la Ordenanza General de Urbanismo y Construcciones. Además, podrá considerar otras materialidades de pavimentación, según la realidad regional o que requieran una menor inversión, como pavimentos delgados de hormigón de cemento vibrado o adoquín de piedra.
 
-a) Indice de Serviciabilidad Inicial (pi) 4,5 en hormigón de cemento vibrado y 4,2 en concreto asfáltico en caliente e Indice de Serviciabilidad Final (pf) 2,0 para ambas soluciones de pavimentación, o índice equivalente como el Indice de Rugosidad Internacional (IRI).
+Las soluciones de pavimentación a aplicar deberán cumplir las condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación año 2008, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
+
+a) Índice de Serviciabilidad Inicial (pi) 4,5 en hormigón de cemento vibrado y 4,2 en concreto asfáltico en caliente e Índice de Serviciabilidad Final (pf) 2,0 para ambas soluciones de pavimentación, o índice equivalente como el Índice de Rugosidad Internacional (IRI).
 
 b) Nivel de Confiabilidad en el diseño de 70%, o índice equivalente.
 
@@ -983,6 +995,14 @@ Adicionalmente, para participar en el 32° Proceso de Selección de Proyectos la
 #### Artículo 27º
 
 Transitorio: Durante el año 2022 y para postulaciones al 32º Llamado del Programa de Pavimentación Participativa quedarán exentas de realizar el porcentaje de aporte especificado en la letra e) del resuelvo 3º de esta resolución, las municipalidades (comunas) localizadas en las zonas territoriales pertenecientes a las provincias incluidas en el decreto de estado de excepción constitucional de emergencia vigente, provincias de Arauco y Biobío de la Región del Biobío y provincias de la Región de la Araucanía, y las municipalidades (comunas) localizadas en las zonas territoriales pertenecientes a las provincias que tuvieron decreto de estado de excepción constitucional de emergencia, provincias de Arica y Parinacota, en la Región de Arica y Parinacota, la provincia de Tamarugal, en la región de Tarapacá, y la provincia del Loa, en la Región de Antofagasta, denominada macro zona norte, y que actualmente cuentan con decreto que permite el apoyo militar con despliegue de tropas y otros efectivos para el control de los flujos de migración irregular.
+
+#### Artículo 28°
+
+Transitorio: En el 33° Proceso de Selección de Proyectos, para determinar los valores referenciales del m² de pavimentación y de repavimentación, según el procedimiento establecido en el Resuelvo 7° de la presente resolución, se podrán considerar aquellos contratos cuyos costos reales no superen en más de un 50% su presupuesto original.
+
+#### Artículo 29°
+
+Transitorio: Las postulaciones seleccionadas en el 32° Proceso de Selección de Proyectos del Programa de Pavimentación Participativa, que realizó la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo en la comuna de Viña del Mar y en las comunas de las regiones de Ñuble, Biobío y La Araucanía podrán quedar exentas de realizar el financiamiento complementario requerido por obras anexas imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos aprobados por el correspondiente Servicio de Vivienda y Urbanización, en consideración a los decretos vigentes que señalan a dichas Comunas y Regiones como Zona Afectada por Catástrofe. Para estos efectos, el Servicio de Vivienda y Urbanización deberá considerar a las comunas realmente afectadas por estas catástrofes y solo las obras anexas que son imprescindibles para la ejecución correcta de las obras de pavimentación seleccionadas.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
