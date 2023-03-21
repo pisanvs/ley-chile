@@ -390,6 +390,26 @@ transitorio: En el caso de deportistas becarios que se encuentren categorizados 
 
 Tratándose de aquellos deportistas que actualmente se encuentren percibiendo el incentivo económico de conformidad al decreto supremo Nº 4 de 2015 del Ministerio del Deporte, y que para su permanencia alguna vez se hubieran mantenido en la beca en virtud de lo dispuesto en el inciso primero del artículo 40º de dicho Reglamento, la Beca durará solo hasta el término de su vigencia, de acuerdo al logro por el cual se encuentra categorizado en el Programa de Becas para Deportistas de Alto Rendimiento, no pudiendo ser aplicable lo señalado en el inciso precedente.
 
+#### Artículo cuarto
+
+transitorio: Los deportistas becarios que a la fecha de publicación de la presente resolución se encuentren con plazo vigente de su beca o que se haya iniciado un proceso de exclusión a su respecto, podrán mantenerse en el Sistema, de manera excepcional, hasta el término de los XIX Juegos Panamericanos y VII Juegos Parapanamericanos, según corresponda, luego del cual se evaluará su continuidad como becario bajo los criterios establecidos en el Capítulo II "De la permanencia del Deportista Becario en el Sistema" del Reglamento.
+
+Lo anterior solo aplicará para aquellos deportistas que cumplan con los requisitos que se enumeran a continuación:
+
+1. Que se encuentren en proceso de preparación y clasificación para los XIX Juegos Panamericanos y VII Juegos Parapanamericanos, lo que deberá ser validado por la Unidad en conjunto con la Asesoría Técnica del Alto Rendimiento.
+
+2. Que se encuentren en el Sistema de Becas Proddar y hayan obtenido algunos de los siguientes logros deportivos:
+
+. Medalla de bronce en juegos suramericanos.
+
+. Medalla de oro y plata en juegos bolivarianos.
+
+. Medallista en juegos panamericanos junior.
+
+. Medallista de oro en campeonato panamericano juvenil.
+
+. Clasificados para competir en algunas de las pruebas contempladas en el Programa de los XIX Juegos Panamericanos y VII Juegos Parapanamericanos según los criterios establecidos por manual técnico del evento.
+
 2) Apruébanse los Anexos I, II, III, IV, V y VI de la resolución complementaria del Sistema de Becas para Deportistas de Alto Rendimiento, cuyo texto es el siguiente:
 
 ANEXO I: CLASIFICACIÓN DE MODALIDADES DEPORTIVAS Y PRUEBAS PARA EFECTOS DEL INGRESO Y PERMANENCIA EN EL SISTEMA DE BECAS PARA DEPORTISTAS DE ALTO RENDIMIENTO.
