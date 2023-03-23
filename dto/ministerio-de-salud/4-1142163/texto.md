@@ -60,7 +60,7 @@ Otórgase a la Subsecretaría de Salud Pública facultades extraordinarias para 
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
+Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 y su interacción con otros virus respiratorios de circulación simultánea al SARS-CoV-2, así como para gestionar los efectos de la pandemia en la atención de salud.
 
 2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia por montos hasta 5.000 UTM, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
@@ -80,13 +80,13 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 10. Disponer el precio máximo a pagar por parte de la población general de determinados productos farmacéuticos, dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias.
 
-11. Suprimido.
+11. Disponer labores extraordinarias para la investigación epidemiológica de otros virus respiratorios en circulación simultánea al SARS-CoV-2 tales como Adenovirus, Influenza, Parainfluenza, Rinovirus, Sincicial y otros, incluyendo la vigilancia de factores de riesgo que representa la Influenza A(H5N1) conocida como gripe aviar.
 
 12. Realizar importación directa de medicamentos, insumos y dispositivos médicos que sean necesarios para el cumplimiento de las facultades que se entregan al sector salud mediante este decreto. En dicho contexto, podrá en el caso de productos importados, y en virtud de prácticas internacionales de comercio, eximirse de una o más obligaciones contenidas en la ley 19.886.
 
-13. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
+13. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19 y otros virus respiratorios de circulación simultánea al SARS-CoV-2, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
 
-14. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
+14. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19 y otros virus respiratorios de circulación simultánea al SARS-CoV-2. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
 
 #### Artículo 2º bis
 
@@ -94,7 +94,7 @@ Otórgase a la Subsecretaría de Redes Asistenciales facultades extraordinarias 
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
+Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 y su interacción con otros virus respiratorios de circulación simultánea al SARS-CoV-2, así como para gestionar los efectos de la pandemia en la atención de salud.
 
 2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl. Para celebrar contratos cuyo monto sea igual o superior a 5000 UTM, se requerirá previamente la visación de la División de Finanzas y Administración Interna de la Subsecretaría de Salud Pública.
 
@@ -120,9 +120,9 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 13. Disponer el precio máximo a pagar por parte de la población general de determinados dispositivos médicos, elementos e insumos sanitarios, así como de prestaciones de salud y servicios sanitarios, como asimismo, todos los bienes y servicios necesarios para atender las necesidades sanitarias en la red asistencial de salud.
 
-14. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
+14. Realizar la transferencia de dominio, a título gratuito, de bienes muebles adquiridos para hacer frente la epidemia de Covid-19 y otros virus respiratorios de circulación simultánea al SARS-CoV-2, a aquellos servicios públicos que ejecuten acciones de salud relacionadas directamente con la utilización de dichos bienes. Asimismo, se podrá realizar la transferencia de dominio, a título gratuito, de dichos bienes muebles, a aquellos servicios públicos que promuevan el desarrollo de actividades académicas, científicas, de investigación o innovación, y que sean útiles en el ámbito de la salud, en los casos en que no se puedan continuar empleando, ya sea por renovación o utilización de otras alternativas. La transferencia se realizará mediante resolución exenta de la Subsecretaría, sin más trámite. Dicha resolución deberá individualizar en forma detallada el o los bienes a enajenar y el Servicio adquirente del dominio.
 
-15. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
+15. Aceptar transferencias de dominio a título gratuito, de bienes muebles destinados a hacer frente a la epidemia de COVID-19 y otros virus respiratorios de circulación simultánea al SARS-CoV-2. La aceptación se realizará mediante resolución exenta de la Subsecretaría, sin más trámite, la cual deberá individualizar en forma detallada el o los bienes aceptados.
 
 #### Artículo 3º
 
@@ -132,7 +132,7 @@ Otórgase a las Secretarías Regionales Ministeriales de Salud del país, facult
 
 2. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
+Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 y su interacción con otros virus respiratorios de circulación simultánea al SARS-CoV-2, así como para gestionar los efectos de la pandemia en la atención de salud.
 
 3. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl. Para celebrar contratos cuyo monto sea superior a 1000 UTM, se requerirá previamente la visación de la División de Finanzas y Administración Interna de la Subsecretaría de Salud Pública.
 
@@ -154,13 +154,13 @@ Lo dispuesto en el inciso precedente, se organizará acorde al personal requerid
 
 12. Disponer de las medidas necesarias para evitar aglomeraciones de gente en espacios cerrados o abiertos que puedan fomentar la propagación del virus.
 
-13. Disponer el aislamiento de las personas que estén infectadas con el nuevo coronavirus 2019, o bien, bajo sospecha de estar infectadas, de tal forma que se procure la contención de la propagación de dicho virus.
+13. Disponer el aislamiento de las personas que estén infectadas con el nuevo coronavirus 2019 u otro virus respiratorio grave, o bien, bajo sospecha de estar infectadas, de tal forma que se procure la contención de la propagación de dicho virus.
 
 14. Localizar a quienes hayan estado en contacto con personas sospechosas o afectadas por el nuevo coronavirus 2019.
 
 15. Denegar la entrada al país u ordenar el aislamiento de ciudadanos extranjeros no residentes en Chile, sospechosos o afectados por el nuevo coronavirus 2019.
 
-16. Suprimido.
+16. Disponer labores extraordinarias para la investigación epidemiológica de otros virus respiratorios en circulación simultánea al SARS-CoV-2 tales como Adenovirus, Influenza, Parainfluenza, Rinovirus, Sincicial y otros, incluyendo la vigilancia de factores de riesgo que representa la Influenza A(H5N1) conocida como gripe aviar.
 
 17. Suspender las clases en establecimientos educacionales y las actividades masivas en espacios cerrados.
 
@@ -200,7 +200,7 @@ Otórgase a los Servicios de Salud del país, facultades extraordinarias para di
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
-Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 como para gestionar los efectos de la pandemia en la atención de salud.
+Lo dispuesto en el inciso precedente, se organizará acorde al personal requerido conforme a las instrucciones, protocolos y estrategias definidas por el nivel central, tanto para la prevención y trazabilidad del COVID-19 y su interacción con otros virus respiratorios de circulación simultánea al SARS-CoV-2, así como para gestionar los efectos de la pandemia en la atención de salud.
 
 2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
@@ -324,7 +324,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 10º
 
-Los efectos de este decreto tendrán vigencia hasta el 31 de diciembre de 2022, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el 31 de agosto de 2023, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
 
 #### Artículo 11º
 
