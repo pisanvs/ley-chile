@@ -72,9 +72,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11°
 
-El plazo para el inicio de las obras será de 180 días después de haberse reducido a escritura pública el presente decreto de concesión eléctrica, y éstas tendrán una duración estimada de 23 meses, según se muestra en el cronograma general del proyecto que se incluye a continuación:
-
-.
+El plazo de construcción desde el inicio de los trabajos hasta la terminación de las obras será de 23 meses, iniciándose el cómputo de éste a partir del mes 18 desde el otorgamiento de la Concesión de Uso Oneroso del Parque Fotovoltaico Cielos de Tarapacá, o o contar del día 1 de julio de 2024, lo que ocurra primero.
 
 #### Artículo 12°
 
