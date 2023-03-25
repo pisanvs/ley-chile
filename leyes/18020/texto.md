@@ -12,11 +12,9 @@ PROYECTO DE LEY:
 
 Establécese un subsidio familiar destinado a personas de escasos recursos, el que se regirá por las disposiciones de esta ley.
 
-A contar del 1 de mayo de 2023 el monto del subsidio será la cantidad de $21.243 al mes.
+A contar del 1 de mayo de 2023 el monto del subsidio será la cantidad de $20.328 al mes.
 
 Los causantes inválidos, en los términos establecidos en el régimen de prestaciones familiares tendrán derecho a que el subsidio que les corresponda sea aumentado al duplo, entendiéndose que, para los efectos de su otorgamiento, equivale a dos subsidios familiares.
-
-> **Nota.** El inciso primero del artículo primero transitorio de la ley 21685, publicada el 13.07.2024, dispone que los derechos que correspondiere ejercer en aplicación de las modificaciones incorporadas por la citada ley se devengarán a contar del 1 de julio de 2024.
 
 #### Artículo 2°
 
@@ -65,30 +63,6 @@ En contra de la resolución que dicte el alcalde podrá reclamarse, dentro del p
 La resolución que se adopte en el recurso será comunicada al Alcalde respectivo, quien, si procediere, deberá otorgar el beneficio de acuerdo con las normas aplicables a la concesión del subsidio familiar.
 
 El reglamento determinará las formalidades que debe cumplir la inscripción y la forma de practicar la notificación señalada en el inciso tercero.
-
-#### Artículo 4° bis
-
-El subsidio familiar regulado en esta ley se otorgará de manera automática cuando los causantes sean niños, niñas o adolescentes menores de 18 años que pertenezcan a hogares en el 40% socioeconómicamente más vulnerable de la población, según el instrumento del artículo 5° de la ley N° 20.379, que crea el sistema intersectorial de protección social e institucionaliza el subsistema de protección integral a la infancia "Chile Crece Contigo", o el instrumento que lo reemplace. El procedimiento automático de concesión, pago o extinción se regirá por este artículo, y no será aplicable lo establecido en el inciso final del artículo 3°, ni en los artículos 4°, 7° y 10 de la presente ley.
-
-Respecto de los causantes establecidos en el inciso anterior, el Ministerio de Desarrollo Social y Familia verificará periódicamente el cumplimiento de los requisitos para la concesión del subsidio causado en virtud del artículo 2° de esta ley, de conformidad con el procedimiento estipulado en el reglamento al que hace alusión el inciso final de este artículo.
-
-Asimismo, el Ministerio de Desarrollo Social y Familia verificará periódicamente la concurrencia de las causales de extinción de los requisitos para el otorgamiento o mantención de este subsidio, mediante la información del registro del artículo 6° de la ley N° 19.949, que establece un sistema de protección social para familias en situación de extrema pobreza denominado "Chile Solidario", y del instrumento del artículo 5° de la ley N° 20.379, o del instrumento que lo reemplace.
-
-Una vez cumplido el plazo establecido en el inciso segundo del artículo 5°, el Ministerio de Desarrollo Social y Familia determinará si procede la renovación del beneficio respecto del causante, según las reglas precedentes.
-
-El beneficio que se conceda de conformidad con este artículo será incompatible con las asignaciones familiar y maternal establecidas en el decreto con fuerza de ley N° 150, promulgado el año 1981 y publicado el año 1982, del Ministerio del Trabajo y Previsión Social, que regula el Sistema de Prestaciones Familiares, y con el subsidio familiar otorgado de acuerdo a los otros artículos de esta ley. Para el cumplimiento de lo anterior, la Superintendencia de Seguridad Social proporcionará mensualmente al Ministerio de Desarrollo Social y Familia la información de los causantes de las mencionadas asignaciones que figuren con reconocimientos vigentes, y los causantes a quienes se les hubiere concedido el subsidio familiar de conformidad a las demás disposiciones de esta ley. A partir de esta información, el Ministerio de Desarrollo Social y Familia procederá a su eliminación de las nóminas que ha de enviar mensualmente al Instituto de Previsión Social para el pago del subsidio familiar, de conformidad al inciso séptimo de este artículo.
-
-Determinada la procedencia del subsidio familiar de conformidad a los incisos anteriores, el Ministerio de Desarrollo Social y Familia deberá concederlo al beneficiario que corresponda, según el siguiente orden de precedencia: la madre, el padre o la jefatura del hogar, siempre que formen parte del mismo hogar que el causante, según el instrumento del artículo 5° de la ley N° 20.379, o aquel que lo reemplace, sin que le sean aplicables los requisitos establecidos en el artículo 3º de esta ley. El reglamento a que alude el inciso final de este artículo determinará la forma en que se realizará el devengo y pago en favor de los causantes en aquellos casos en que no se registren en el hogar personas mayores de edad conforme a la información del instrumento del citado artículo 5° de la ley N° 20.379, o del instrumento que lo reemplace.
-
-El Ministerio de Desarrollo Social y Familia deberá comunicar a los beneficiarios la concesión del subsidio familiar otorgada en virtud de este artículo por la vía más expedita, de acuerdo a la normativa vigente. Asimismo, deberá conformar una nómina mensual de los causantes y sus beneficiarios señalados en este artículo y remitirla al Instituto de Previsión Social, quien efectuará el pago. El devengo y pago del beneficio se producirá a contar del mes siguiente a aquel en que el Instituto de Previsión Social hubiere recibido dicha nómina.
-
-El beneficiario podrá renunciar en cualquier momento al subsidio familiar, decisión que deberá comunicar al Ministerio de Desarrollo Social y Familia en la forma y canales que éste disponga y establezca para ello. Recibida dicha comunicación, el Ministerio procederá a su eliminación de la nómina a que se refiere el inciso anterior, a partir del próximo mes calendario.
-
-El Ministerio de Desarrollo Social y Familia conocerá y resolverá los reclamos relacionados con el subsidio de este artículo de conformidad a lo establecido en la ley Nº 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
-
-Corresponderá a la Superintendencia de Seguridad Social la fiscalización del régimen de concesión, pago y extinción señalado en los incisos anteriores, y de las instituciones que lo administren, según corresponda dentro de la esfera de sus competencias y en conformidad a la ley.
-
-El Ministerio de Desarrollo Social y Familia deberá dictar un reglamento, suscrito también por el Ministerio de Hacienda y el Ministerio del Trabajo y Previsión Social, que establezca las normas necesarias para la implementación del presente artículo.
 
 #### Artículo 5°
 
