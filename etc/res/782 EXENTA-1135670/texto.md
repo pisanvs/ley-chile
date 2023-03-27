@@ -296,6 +296,8 @@ PARTE AERONÁUTICA
 
 Área de movimiento de un aeródromo y de los terrenos y edificios adyacentes o las partes de los mismos, cuyo acceso está controlado.
 
+Al tratarse de un área donde conjugan una multiplicidad de actores y actividades de diversa naturaleza, las responsabilidades estarán acotadas según el área y estructura de las actividades que allí se desarrollen, ya sea por organismos públicos o empresas privadas.
+
 PARTE PÚBLICA
 
 La zona de un aeródromo y los edificios a los que tienen acceso ilimitado los pasajeros que viajan y el público no viajero.
