@@ -44,8 +44,4 @@ Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Felipe W
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
 
-ANEXO ÚNICO
-
-NÓMINA DE PROYECTOS SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXENTA N° 1.705 (V. Y U.), DE 2021
-
-SELECCIÓN COMPLEMENTARIA CIERRE DEL 1 DE DICIEMBRE DE 2021
+.
