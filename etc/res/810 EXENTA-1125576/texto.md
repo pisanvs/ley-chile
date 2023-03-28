@@ -26,42 +26,10 @@ Resuelvo:
 
 .
 
-2.- Fíjense, para la comuna de Andacollo, Coquimbo y La Serena, los siguientes puntos de control horario, a los servicios de transporte público rural que se prestan entre la comuna de Andacollo y la conurbación Coquimbo - La Serena:
+2.- Para dar cumplimiento a lo estipulado en el numeral anterior, una vez notificadas de la presente resolución, las empresas que prestan servicios desde o hacia la comuna de Andacollo, provenientes de las comunas de La Serena o Coquimbo, deberán presentar la documentación respectiva en esta Secretaría Regional Ministerial para modificar y regularizar sus certificados de inscripción en el Registro Nacional de Servicios de Transporte Público de Pasajeros, de modo de incluir las vías de acceso y egreso, establecidas en esta resolución.
 
-.
+3.- Carabineros de Chile e Inspectores Municipales y Fiscales del Ministerio de Transportes y Telecomunicaciones fiscalizarán el fiel cumplimiento de lo dispuesto en la presente resolución, especialmente lo referente a horarios de control de pasada en los puntos indicados anteriormente.
 
-3.- Determínense los horarios de operación de los servicios rurales de transporte mayor, según se establecen en las siguientes tablas, para todos los días de la semana.
-
-Horarios de Salidas de lunes a viernes (a La Serena y Coquimbo)
-
-.
-
-Horarios de llegada de lunes a viernes (desde La Serena y Coquimbo)
-
-.
-
-Horarios de Salida sábado (a La Serena y Coquimbo)
-
-.
-
-Horarios de Llegada sábado (desde La Serena y Coquimbo)
-
-.
-
-Horarios de Salida domingos y festivos (a La Serena y Coquimbo)
-
-.
-
-Horarios de Llegada domingos y festivos (desde La Serena y Coquimbo)
-
-.
-
-4.- Para dar cumplimiento a lo estipulado en el numeral anterior, una vez notificadas de la presente resolución, las empresas que prestan servicios desde o hacia la comuna de Andacollo, provenientes de las comunas de La Serena o Coquimbo, deberán presentar la documentación respectiva en esta Secretaría Regional Ministerial para modificar y regularizar sus certificados de inscripción en el Registro Nacional de Servicios de Transporte Público de Pasajeros, de modo de incluir las vías de acceso y egreso, establecidas en esta resolución.
-
-5.- Para el cabal cumplimiento de los numerales 2 y 3 del presente acto administrativo, cada operador podrá implementar un sistema de control de horario de sus respectivos servicios mediante sistema GPS u otro similar.
-
-6.- Carabineros de Chile e Inspectores Municipales y Fiscales del Ministerio de Transportes y Telecomunicaciones fiscalizarán el fiel cumplimiento de lo dispuesto en la presente resolución, especialmente lo referente a horarios de control de pasada en los puntos indicados anteriormente.
-
-7.- La presente resolución entrará en vigencia a los 30 días de su publicación en el Diario Oficial.
+4.- La presente resolución entrará en vigencia a los 30 días de su publicación en el Diario Oficial.
 
 Anótese y publíquese.- Juan Fuentes Isla, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
