@@ -1386,7 +1386,7 @@ En los caminos públicos en que opere un sistema electrónico de cobro de tarifa
 
 Si en un día calendario se cometen dos o más contravenciones a la prohibición dispuesta en el inciso anterior, solo se considerará la primera para todos los efectos legales.
 
-Los equipos y demás medios utilizados para la implementación de este sistema, constituyen equipos de registro de infracciones, rigiéndose por lo dispuesto en el inciso tercero del artículo 3º y en el artículo 24, ambos de la ley Nº 18.287 y en el artículo 4º de esta ley, salvo en lo previsto en sus incisos quinto, sexto, séptimo y octavo. Los estándares técnicos y condiciones de instalación, funcionamiento y uso de los mismos serán regulados por el Ministerio de Obras Públicas.
+Los equipos y demás medios utilizados para la implementación de este sistema, constituyen equipos de registro de infracciones, rigiéndose por lo dispuesto en el inciso tercero del artículo 3º y en el artículo 24, ambos de la ley Nº 18.287 y en el artículo 4º de esta ley, salvo en lo previsto en sus incisos sexto, séptimo, octavo, noveno y décimo. Los estándares técnicos y condiciones de instalación, funcionamiento y uso de los mismos serán regulados por el Ministerio de Obras Públicas.
 
 #### Artículo 115
 

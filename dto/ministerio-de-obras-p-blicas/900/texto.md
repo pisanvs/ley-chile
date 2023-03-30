@@ -658,7 +658,25 @@ La empresa concesionaria que no diere cumplimiento a lo dispuesto en los incisos
 
 #### Artículo 43
 
-DEROGADO.
+Las concesionarias de obras viales que dispongan de sistemas electrónicos de cobro deberán crear, implementar, mantener y administrar, a su entero costo y responsabilidad de éstas, un sitio electrónico unificado a través del cual los usuarios con o sin contrato de televía puedan realizar de manera conjunta o separada el pago de sus cuentas de tarifas o peajes correspondientes a las distintas concesionarias. Para hacer posible el pago de manera conjunta las concesionarias podrán acordar la misma fecha de facturación, de manera que las boletas sean emitidas y estén disponibles para el pago conjunto de las diferentes concesionarias.
+
+Los usuarios de autopistas concesionadas y los funcionarios municipales autorizados podrán consultar los estados de deuda en el sitio electrónico unificado para los efectos de lo dispuesto en el numeral 2 y en el numeral 5 del artículo 43 bis y del artículo 43 ter de la ley Nº 18.287, que establece procedimientos ante los juzgados de policía local. Lo anterior, en la forma y condiciones que establezca el reglamento a que se refiere este artículo.
+
+Se entenderá que el solicitante de los beneficios previstos en los numerales 2 y 5 del artículo 43 bis y en el 43 ter de la ley N° 18.287 se encuentra en mora de sus obligaciones con alguna de las sociedades concesionarias de obras viales cuando existen cobros impagos en un plazo igual o inferior a 5 años. El cómputo de dicho término considerará el período comprendido entre la fecha de vencimiento o pago, contenida en las boletas o facturas emitidas por primera vez por las sociedades concesionarias, y la fecha de la solicitud de rebaja.
+
+El referido sitio electrónico unificado no implicará recargo alguno de costos para los usuarios con o sin contrato de televía.
+
+El sitio electrónico unificado deberá ajustarse a los requerimientos técnicos operativos, de contenido, autenticación, seguridad y privacidad que establezcan los ministerios de Obras Públicas y de Economía, Fomento y Turismo mediante un reglamento. El sitio electrónico unificado deberá contemplar el valor cobrado por cada concesionaria de obras viales al usuario. Dicho reglamento podrá considerar los sitios electrónicos desarrollados o en proceso de desarrollo por parte de las sociedades concesionarias de obras viales, para realizar de manera conjunta o separada el pago de las cuentas de tarifas o peajes por parte de los usuarios.
+
+Asimismo, el referido reglamento determinará la forma y condiciones en que los usuarios, por una parte, y los funcionarios municipales, por otra, podrán consultar el estado de deuda para efectos de lo dispuesto en el inciso segundo del numeral 2 y en el numeral 5 del artículo 43 bis y en el artículo 43 ter de la ley Nº 18.287. En cualquier caso, el sitio sólo habilitará las consultas a los datos propios del solicitante y, en caso de los funcionarios municipales, requerirá de habilitación previa en la forma que determine el reglamento. El uso indebido de los datos personales por parte de los funcionarios generará las responsabilidades previstas en la ley N° 19.628, sobre protección de la vida privada, sin perjuicio de lo dispuesto en otras leyes sobre la materia.
+
+A falta de acuerdo entre las concesionarias, los costos del sitio electrónico unificado serán soportados entre ellas en proporción a su facturación en el año calendario anterior. La creación, implementación, mantención y administración del sitio, según corresponda, deben ser encargados a un tercero elegido previa licitación conforme a las reglas que establezca el reglamento.
+
+Para la creación, implementación, mantención y administración del sitio electrónico unificado, las concesionarias de obras viales deberán adoptar los resguardos necesarios para dar cumplimiento a las normas y estándares del decreto con fuerza de ley N° 1, promulgado el año 2004 y publicado el año 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 211, que fija las normas para la defensa de la libre competencia, y mitigar los riesgos de incumplimiento de esa normativa. Las concesionarias deberán garantizar condiciones de acceso a la información con criterios objetivos, no discriminatorios y que protejan adecuadamente su confidencialidad, con el propósito de resguardar las condiciones de competencia en los mercados relacionados. El modo y las conductas que deberán adoptarse serán establecidos en el reglamento antes señalado.
+
+Toda nueva concesionaria de obras viales que disponga de sistema electrónico de cobro deberá adherirse a su entero costo al sitio electrónico unificado.
+
+Sin perjuicio del sitio unificado que se establece en este artículo, las concesionarias de obras viales deberán mantener o implementar aquellos sitios electrónicos que les sean requeridos en las bases de licitación de la concesión de obra pública que les fue adjudicada. Además, podrán mantener o encargar a terceros en forma individual la creación, implementación, mantención y administración de sitios electrónicos adicionales que entreguen información a los usuarios de la respectiva concesión y que permitan el pago de sus cuentas de tarifas o peajes.
 
 ARTICULOS TRANSITORIOS
 
