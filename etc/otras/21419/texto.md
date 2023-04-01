@@ -338,7 +338,7 @@ Serán beneficiarias de la Pensión Garantizada Universal, las personas que reú
 
 a) Haber cumplido 65 años de edad.
 
-b) No integrar un grupo familiar perteneciente al 10% más rico de la población de 65 o más años de Chile, conforme a lo establecido en el artículo 11.
+b) No integrar un grupo familiar perteneciente al 10% más rico de la población de Chile, conforme a lo establecido en el artículo 25.
 
 c) Acreditar residencia en el territorio de la República de Chile por el lapso no inferior a veinte años continuos o discontinuos, contados desde que el peticionario haya cumplido veinte años de edad; y, en todo caso, por el lapso no inferior a cuatro años de residencia en los últimos cinco años inmediatamente anteriores a la fecha de presentación de la solicitud para acogerse al beneficio de esta ley.
 
@@ -478,7 +478,7 @@ Un reglamento dictado por el Ministerio del Trabajo y Previsión Social, suscrit
 
 - **b)** del artículo 10, considerando, a lo menos, el ingreso per cápita del grupo familiar y un test de afluencia a éste. El test de afluencia a que se refiere el presente inciso se entenderá como un instrumento de medición, que podrá incluir variables indicativas de ingreso y patrimonio, con el fin de permitir la identificación de quienes cumplen con el requisito establecido en el literal
 
-- **b)** del artículo 10 para ser beneficiarios de la Pensión Garantizada Universal, y deberá considerar para estos efectos criterios que contemplen la autonomía presupuestaria del grupo familiar del beneficiario. Con todo, el o los instrumentos de focalización no deberán considerar como parte del patrimonio del beneficiario el valor de la vivienda principal. El o los instrumentos de focalización que se apliquen deberán ser los mismos para toda la población de 65 o más años de edad. Además, el reglamento fijará el algoritmo de focalización para efectos de la letra
+- **b)** del artículo 10 para ser beneficiarios de la Pensión Garantizada Universal, y deberá considerar para estos efectos criterios que contemplen la autonomía presupuestaria del grupo familiar del beneficiario. Con todo, el o los instrumentos de focalización no deberán considerar como parte del patrimonio del beneficiario el valor de la vivienda principal. El o los instrumentos de focalización que se apliquen deberán ser los mismos para toda la población. Además, el reglamento fijará el algoritmo de focalización para efectos de la letra
 
 - **b)** del artículo 10; la forma y circunstancias en que se harán efectivas las causales de extinción y suspensión de la Pensión Garantizada Universal; los sistemas de control y evaluación que utilizará el Instituto de Previsión Social para excluir a los beneficiarios que no cumplan los requisitos establecidos en este Título, y las demás normas necesarias para la aplicación de la Pensión Garantizada Universal.
 
