@@ -984,6 +984,8 @@ La facultad establecida en el artículo 49 ter deberá ejercerse dentro de los c
 
 > **Nota.** El artículo único de la Ley 21143, publicada el 27.02.2019, dispone que los reglamentos que fijan las plantas de personal de los municipios, ingresados para su toma de razón a la Contraloría General de la República durante el año 2018, publicados entre el 1 de enero del año 2019 y la fecha de publicación de la citada ley, entrarán en vigencia a partir del 27 de febrero de 2019
 
+> **Nota.** NOTA 1 El artículo 2 de la Ley 21493, publicada el 04.10.2022, dispone que los reglamentos que fijan las plantas de personal de los municipios, ingresados para su toma de razón a la Contraloría General de la República durante el año 2019, y hasta la publicación de esta ley, y que fueron publicados entre el 1 de enero del año 2022 y la fecha de publicación de esta ley, entrarán en vigencia a partir de esta última.
+
 #### Artículo 49
 
 quinquies.- Para todos los efectos legales, la participación de los funcionarios municipales en la determinación de la planta municipal no se entenderá como una vulneración al número 6 del artículo 62 de la ley N° 18.575 y al número 1 del artículo 12 de la ley N° 19.880.
@@ -1541,6 +1543,8 @@ Las sesiones extraordinarias serán convocadas por el alcalde o por un tercio, a
 Las sesiones del concejo serán públicas. Los dos tercios de los concejales presentes podrán acordar que determinadas sesiones sean secretas.
 
 Las actas del concejo se harán públicas una vez aprobadas, y contendrán, a lo menos, la asistencia a la sesión, los acuerdos adoptados en ella y la forma como fueron votadas. La publicación se hará mediante los sistemas electrónicos o digitales que disponga la municipalidad.
+
+Las sesiones públicas deberán ser transmitidas simultáneamente, por cualquier medio electrónico capaz de emitir imagen y voz. Asimismo, deberán publicarse las grabaciones de las sesiones en la página web institucional y/o en alguna plataforma de libre acceso en internet, y se hará constar el enlace a ella en la página institucional o en otras plataformas oficiales de información al público, dentro de las setenta y dos horas siguientes a su celebración, y mantenerse disponibles por el plazo mínimo de tres años.
 
 #### Artículo 85
 

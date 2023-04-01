@@ -1044,6 +1044,8 @@ Las sesiones ordinarias y extraordinarias serán públicas. Su convocatoria se e
 
 El consejo regional determinará en un reglamento interno las demás normas necesarias para su funcionamiento, regulándose en él las comisiones de trabajo que el consejo podrá constituir para desarrollar sus funciones, las que, en todo caso, serán siempre presididas por un consejero regional, sin perjuicio de la asistencia de terceros cuya opinión se considere relevante a juicio de la propia comisión.
 
+Las sesiones públicas deberán ser transmitidas simultáneamente, por cualquier medio electrónico capaz de emitir imagen y voz. Asimismo, deberán publicarse las grabaciones de las sesiones en la página web institucional y/o en alguna plataforma de libre acceso en internet, y se hará constar el enlace a ella en la página institucional o en otras plataformas oficiales de información al público, dentro de las setenta y dos horas siguientes a su celebración, y mantenerse disponibles por el plazo mínimo de tres años.
+
 #### Artículo 38
 
 El quórum para sesionar será, en primera citación, de los tres quintos de los consejeros en ejercicio y, en segunda citación, de la mayoría absoluta de aquéllos.
