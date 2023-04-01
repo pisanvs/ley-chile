@@ -128,7 +128,7 @@ De conformidad con el citado artículo 10 de la ley N° 21.419, los requisitos p
 
 a) Haber cumplido 65 años de edad,
 
-b) No integrar un grupo familiar perteneciente al 10% más rico de la población de 65 o más años de Chile, conforme a lo establecido en el artículo 11 de la ley N° 21.419,
+b) No integrar un grupo familiar perteneciente al 10% más rico de la población de Chile, conforme a lo establecido en el artículo 25 de la ley N° 21.419,
 
 c) Acreditar residencia en el territorio de la República de Chile por el lapso no inferior a veinte años continuos o discontinuos, contados desde que el peticionario haya cumplido veinte años de edad; y, en todo caso, por el lapso no inferior a cuatro años de residencia en los últimos cinco años inmediatamente anteriores a la fecha de presentación de la solicitud para acogerse al beneficio, y
 
@@ -236,7 +236,7 @@ Del Instrumento de Focalización
 
 #### Artículo 26
 
-El Instrumento de Focalización es el mecanismo que permite evaluar el nivel de riqueza de la población de 65 o más años para los efectos de asignar el beneficio de Pensión Garantizada Universal de la ley N° 21.419.
+El Instrumento de Focalización es el mecanismo que permite evaluar el nivel de riqueza de la población de Chile para los efectos de asignar el beneficio de Pensión Garantizada Universal de la ley N° 21.419.
 
 Para efectos de lo dispuesto en este reglamento, el algoritmo de focalización constará de dos etapas:
 
