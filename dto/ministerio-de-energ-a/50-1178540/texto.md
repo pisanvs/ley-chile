@@ -78,9 +78,9 @@ La presente concesión se otorga en conformidad a lo dispuesto en la Ley General
 
 Esta concesión se otorga por plazo indefinido.
 
-#### Artículo 11º
+#### Artículo 11°
 
-El plazo de construcción de las obras, desde el inicio de los trabajos hasta la terminación total de las obras, tanto para la Subestación Libélula como para la Red Colectora 33 kV, será de 12 meses, considerando el inicio de ellas inmediatamente cumplidos 30 días contados desde la fecha de reducción a escritura pública del presente decreto de concesión eléctrica definitiva. Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
+El plazo de construcción de las obras, desde el inicio de los trabajos hasta la terminación total de las obras, tanto para la Subestación Libélula como para la Red Colectora 33 kV, será de 19 meses, considerando el inicio de ellas inmediatamente cumplidos 180 días contados desde la fecha de reducción a escritura pública del presente decreto de concesión eléctrica definitiva. Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
 
 Cronograma Subestación Libélula
 
