@@ -20,6 +20,8 @@ Resuelvo:
 
 1. Prohíbese el registro, fabricación, importación, distribución, venta, tenencia y uso de los productos farmacéuticos de uso exclusivamente veterinarios, formulados con las siguientes clases de antimicrobianos:
 
+a. Antibióticos
+
 . Ácidos pseudomónicos
 
 . Amdinocilina
@@ -32,11 +34,17 @@ Resuelvo:
 
 . Cefalosporinas de quinta generación
 
+. Cefalosporinas sideróforas
+
 . Cetólidos
 
 . Derivados del ácido fosfónico
 
 . Estreptograminas
+
+. Eravaciclina
+
+. Fidaxomicina
 
 . Glicilciclinas
 
@@ -46,13 +54,59 @@ Resuelvo:
 
 . Monobactámicos
 
+. Omadaciclina
+
 . Oxazolidinonas
+
+. Plazomicina
 
 . Rifamicinas (excepto Rifamixina)
 
 . Riminofenazinas
 
 . Sulfonas
+
+b. Antivirales
+
+. Amantadina
+
+. Baloxavir marboxil
+
+. Celgosivir
+
+. Favipiravir
+
+. Galidesivir
+
+. Lactimidomicina
+
+. Laninamivir
+
+. Metisazona
+
+. Molnupiravir
+
+. Nitazoxanida
+
+. Oseltamivir
+
+. Peramivir
+
+. Ribavirina
+
+. Rimantadina
+
+. Tizoxanida
+
+. Triazavirina
+
+. Umifenovir
+
+. Zanamivir
+
+c. Antiprotozoarios
+
+. Nitazoxanida.
 
 Excepcionalmente, se podrá autorizar el uso especial en animales no destinados a la producción de alimentos (animales de compañía y equinos); de acuerdo a lo dispuesto en el artículo 16 del decreto N° 25 de 2005, que aprueba el reglamento de productos farmacéuticos de uso exclusivamente veterinario.
 
