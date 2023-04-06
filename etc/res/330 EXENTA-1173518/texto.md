@@ -30,7 +30,7 @@ ii. Las personas que no puedan materializar su postulación de la forma indicada
 
 2. Se realizarán selecciones en los meses de mayo y julio, con las familias que hubieren efectuado válidamente su postulación en el período indicado. Las familias que no sean consideradas en una selección continuarán postulando y serán contempladas en la siguiente hasta el último proceso respectivo.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.164.330 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.164.500 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según la tabla que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
 
