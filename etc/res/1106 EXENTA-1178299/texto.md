@@ -24,6 +24,8 @@ Resuelvo:
 
 1°. Establécense las siguientes pistas de uso exclusivo para el servicio de transporte público urbano y rural de pasajeros, prestados mediante buses y taxis colectivos, en la comuna de Los Ángeles, en el costado derecho de las vías y ejes viales que a continuación se indican, según sentido del tránsito, de acuerdo con la siguiente tabla ordenadora:
 
+.
+
 También podrán circular por estas pistas de uso exclusivo, los siguientes vehículos:
 
 a) Vehículos de emergencia, policiales, de Gendarmería de Chile, del Programa de Fiscalización de la Subsecretaría de Transportes y aquellos vehículos fiscales o municipales, destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales.
