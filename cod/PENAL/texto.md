@@ -110,6 +110,14 @@ Inciso Derogado.
 
 Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 361, 362, 365 bis, 390, 391, 433 y 436 de este Código.
 
+Se presumirá legalmente que concurren las circunstancias previstas en los números 4°, 5° y 6° de este artículo, respecto de las Fuerzas de Orden y Seguridad Pública, Gendarmería de Chile, las Fuerzas Armadas y los servicios bajo su dependencia, cuando éstas realicen funciones de orden público y seguridad pública interior; en dichos casos se entenderá que concurre el uso racional del medio empleado si, en razón de su cargo o con motivo u ocasión del cumplimiento de funciones de resguardo de orden público y seguridad pública interior, repele o impide una agresión que pueda afectar gravemente su integridad física o su vida o las de un tercero, empleando las armas o cualquier otro medio de defensa.
+
+Los numerales 4°, 5° y 6° se aplicarán respecto de los funcionarios de las Fuerzas de Orden y Seguridad Pública, Gendarmería de Chile, las Fuerzas Armadas y los servicios bajo su dependencia, cuando éstas realicen funciones de orden público y seguridad pública interior ante agresiones contra las personas. De afectarse exclusivamente bienes, procederá la aplicación del número 10° del presente artículo.
+
+Esta norma se utilizará con preferencia a lo establecido en el artículo 410 del Código de Justicia Militar.
+
+Respecto de lo dispuesto en los párrafos anteriores, los tribunales, según las circunstancias y si éstas demuestran que no había necesidad racional de usar el arma de servicio o armamento menos letal en toda la extensión que aparezca, deberán considerar esta circunstancia como atenuante de la responsabilidad y rebajar la pena en uno, dos o tres grados, salvo que concurra dolo.
+
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
 
 Primera.-Realidad o peligro inminente del mal que se trata de evitar.
@@ -1438,11 +1446,11 @@ El que sin derecho encerrare o detuviere a otro privándole de su libertad, come
 
 En la misma pena incurrirá el que proporcionare lugar para la ejecución del delito.
 
-Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones será castigado con la pena de presidio mayor en su grado mínimo a medio.
+Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decisiones, o si el encierro o detención se prolongare por más de 24 horas, será castigado con la pena de presidio mayor en su grado mínimo a medio.
 
 Si en cualesquiera de los casos anteriores, el encierro o la detención se prolongare por más de quince días o si de ello resultare un daño grave en la persona o intereses del secuestrado, la pena será presidio mayor en su grado medio a máximo.
 
-El que con motivo u ocasión del secuestro cometiere además homicidio, violación o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a presidio perpetuo calificado.
+El que con motivo u ocasión del secuestro cometiere además homicidio, violación o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio perpetuo a presidio perpetuo calificado.
 
 #### Artículo 142
 
@@ -1558,9 +1566,9 @@ En los casos previstos en los artículos 150 A y 150 B se excluirá el mínimum 
 
 D.-
 
-El empleado público que, abusando de su cargo o sus funciones, aplicare, ordenare o consintiere en que se apliquen apremios ilegítimos u otros tratos crueles, inhumanos o degradantes, que no alcancen a constituir tortura, será castigado con las penas de presidio menor en sus grados medio a máximo y la accesoria correspondiente. Igual sanción se impondrá al empleado público que, conociendo de la ocurrencia de estas conductas, no impidiere o no hiciere cesar la aplicación de los apremios o de los otros tratos, teniendo la facultad o autoridad necesaria para ello o estando en posición para hacerlo.
+El empleado público que, en incumplimiento de los reglamentos respectivos actúe abusando de su cargo o que en el ejercicio de sus funciones, aplique, ordene o consienta en que se apliquen apremios ilegítimos u otros tratos crueles, inhumanos o degradantes, que no alcancen por su gravedad a constituir tortura, será castigado con las penas de presidio menor en sus grados medio a máximo y la accesoria correspondiente. Igual sanción se impondrá al empleado público que, conociendo de la ocurrencia de estas conductas, no impida o no haga cesar la aplicación de los apremios o de los otros tratos, teniendo la facultad o autoridad necesaria para ello y estando en posición para hacerlo.
 
-Si la conducta descrita en el inciso precedente se cometiere en contra de una persona menor de edad o en situación de vulnerabilidad por discapacidad, enfermedad o vejez; o en contra de una persona que se encuentre bajo el cuidado, custodia o control del empleado público, la pena se aumentará en un grado.
+Si la conducta descrita en el inciso precedente se comete en contra de una persona menor de edad o en situación de vulnerabilidad por discapacidad, enfermedad o vejez, la pena se aumentará en un grado.
 
 No se considerarán como apremios ilegítimos u otros tratos crueles, inhumanos o degradantes las molestias o penalidades que sean consecuencia únicamente de sanciones legales, o que sean inherentes o incidentales a éstas, ni las derivadas de un acto legítimo de autoridad.
 
@@ -2824,6 +2832,8 @@ El que sin estar legal o reglamentariamente autorizado al efecto ingresare, inte
 
 Si las conductas a que se refiere el inciso anterior fueren perpetradas por un abogado, procurador o empleado público, la pena no se aplicará en su grado mínimo y, además, conllevará desde suspensión en su grado mínimo a inhabilitación absoluta temporal en cualquiera de sus grados para el ejercicio de la profesión y del cargo u oficio, respectivamente.
 
+Si la conducta descrita en el inciso primero fuere cometida por el empleado público para facilitar la perpetración de alguno de los crímenes o simples delitos previstos en el artículo 27 letra a) de la ley N° 19.913, artículos 1, 2, 3 y 4 de la ley N° 20.000, y en los artículos 141, 142, 268 ter, 391, 438, 467 y 468 del presente Código, se aumentará la pena del inciso primero en un grado y además conllevará la inhabilitación absoluta perpetua para cargos u oficios públicos.
+
 XIII. De la vagancia y mendicidad. Derogado.-
 
 #### Artículo 305
@@ -4030,7 +4040,7 @@ Derogado.
 
 #### Artículo 438
 
-El que para defraudar a otro lo obligare con violencia o intimidación a suscribir, otorgar o entregar un instrumento público o privado que importe una obligación estimable en dinero, será castigado, como culpable de robo, con las penas respectivamente señaladas en este párrafo.
+El que para obtener un provecho patrimonial para sí o para un tercero constriña a otro con violencia o intimidación a suscribir, otorgar o entregar un instrumento público o privado que importe una obligación estimable en dinero, o a ejecutar, omitir o tolerar cualquier otra acción que importe una disposición patrimonial en perjuicio suyo o de un tercero, será castigado con las penas respectivamente señaladas en este párrafo para el culpable de robo.
 
 #### Artículo 439
 

@@ -1928,6 +1928,8 @@ De las infracciones a los preceptos del tránsito será responsable el conductor
 
 El conductor, el propietario del vehículo y el tenedor del mismo a cualquier título, a menos que estos últimos acrediten que el vehículo fue usado contra su voluntad, son solidariamente responsables de los daños o perjuicios que se ocasionen con su uso, sin perjuicio de la responsabilidad de terceros de conformidad a la legislación vigente.
 
+No obstante lo establecido en el inciso anterior, el funcionario de Carabineros de Chile, de la Policía de Investigaciones de Chile o de Gendarmería de Chile, que conduciendo un vehículo motorizado en persecución de un delito o en la ejecución de procedimientos estrictamente policiales o propios de la institución a la que pertenece ocasione daños o perjuicios, no será responsable de ellos, sin perjuicio de la responsabilidad que le corresponda al propietario del vehículo.
+
 De igual manera, si se otorgare una licencia de conductor con infracción a las normas de esta ley, el o los funcionarios responsables de ello, sean o no municipales, serán solidariamente responsables de los daños y perjuicios que se ocasionen por culpa del conductor a quien se le hubiere otorgado dicha licencia, sin perjuicio de las sanciones penales y administrativas que correspondan.
 
 El concesionario de un establecimiento a que se refiere el artículo 4º de la ley Nº 18.696, será civil y solidariamente responsable de los daños y perjuicios originados por un accidente de tránsito, causado por desperfectos de un vehículo respecto del cual se hubiese expedido un certificado falso, ya sea por no haberse practicado realmente la revisión o por contener afirmaciones de hechos contrarios a la verdad.

@@ -290,6 +290,10 @@ El personal perteneciente a las plantas de Oficiales Penitenciarios y de Gendarm
 
 Lo anterior sin perjuicio de lo dispuesto en la ley N° 17.798.
 
+El personal a que se refiere el inciso primero que, en ejercicio de su cargo o con ocasión de éste haga uso de su arma de servicio, armamento menos letal o elementos no letales, para rechazar alguna violencia o vencer la resistencia contra la autoridad, no podrá ser separado de sus funciones ni ver afectada su remuneración, mientras no concluya la investigación administrativa respectiva.
+
+Lo anterior, sin perjuicio de las facultades de la autoridad respectiva para ordenar el desarrollo de labores distintas de las que motivaron la investigación administrativa mientras ésta se desarrolle.
+
 #### Artículo 14
 
 Al personal de Gendarmería de Chile le será aplicable la ley N° 19.296, que establece normas sobre asociaciones de funcionarios de la Administración del Estado.
@@ -300,11 +304,19 @@ El personal de gendarmería deberá otorgar a cada persona bajo su cuidado un tr
 
 #### Artículo 15
 
-A.- El que matare a un miembro de Gendarmería de Chile durante el desempeño de sus funciones o en razón de ellas, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+A.- El que matare a un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+La conducta establecida en el inciso anterior será castigada con presidio perpetuo a presidio perpetuo calificado si concurre alguna de las circunstancias siguientes:
+
+a) Si se comete mediante precio, recompensa o promesa, o cualquier otro tipo de beneficio para sí o para un tercero.
+
+b) Si se ejecuta con auxilio de gente armada o de personas que aseguren o proporcionen la impunidad.
+
+c) Si el imputado formó parte de una agrupación o reunión de delincuentes, aun cuando ésta o aquella no configure una asociación ilícita.
 
 #### Artículo 15
 
-B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería de Chile durante el desempeño de sus funciones o en razón de ellas, será castigado:
+B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado:
 
 1. Con la pena de presidio mayor en su grado medio a máximo, si del resultado de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
@@ -316,7 +328,7 @@ B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería d
 
 #### Artículo 15
 
-C.- Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un miembro de Gendarmería de Chile en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+C.- Cuando los delitos establecidos en los artículos 395 y 396 del Código Penal se cometan respecto de un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones se aplicarán las penas que siguen:
 
 1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
 

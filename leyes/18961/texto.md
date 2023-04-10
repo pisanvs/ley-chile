@@ -428,6 +428,10 @@ Tendrá derecho también a que no se le descuente de las remuneraciones cualquie
 
 El personal tendrá derecho a años de abono de servicios computables para el retiro por accidentes en actos del servicio o a consecuencia del mismo; por desempeñarse en lugares aislados; por trabajar en actividades perjudiciales o nocivas para la salud, y por toda otra causal que haga procedente este beneficio, en la forma que determine la ley.
 
+#### Artículo 35 bis
+
+En el ejercicio de sus funciones preventivas, el personal de Carabineros de Chile será provisto de capacitación, equipo y armamento adecuado para su cumplimiento, y para el resguardo de su vida e integridad personal, la de terceros y para cumplir con ellas.
+
 #### Artículo 36
 
 Suprimido.
@@ -971,6 +975,8 @@ Todo hecho constitutivo de falta administrativa dará origen a una medida discip
 La potestad disciplinaria será ejercida por las autoridades ministeriales e institucionales competentes a través de un racional y justo procedimiento administrativo.
 
 Además de las autoridades facultadas para disponer la instrucción de procedimientos sancionatorios, el Subsecretario del Interior podrá, cuando estime que los hechos de que ha tomado conocimiento son susceptibles de ser sancionados con una medida disciplinaria, ordenar al General Director que el superior jerárquico del funcionario respectivo inicie la instrucción del correspondiente procedimiento sancionatorio, pedirle cuenta de su avance, y, en su caso, poner los antecedentes en conocimiento de la justicia.
+
+El funcionario policial que en ejercicio de su cargo o con ocasión de éste haga uso de su arma de servicio, armamento menos letal o elementos no letales, para rechazar alguna violencia o vencer la resistencia contra la autoridad, no podrá ser separado de sus funciones ni ver afectada su remuneración, mientras no concluya la investigación administrativa respectiva. Lo anterior, sin perjuicio de las facultades de la autoridad respectiva para ordenar el desarrollo de labores distintas a las policiales mientras tal investigación se desarrolle.
 
 #### Artículo 84 ter
 

@@ -174,6 +174,10 @@ Los resultados de los procedimientos disciplinarios que se originaren en virtud 
 
 En todo lo no previsto en este artículo se estará a lo dispuesto en el Reglamento de Disciplina y de Sumarios Administrativos.
 
+El funcionario policial que en ejercicio de su cargo o con ocasión de éste haga uso de su arma de servicio, armamento menos letal o elementos no letales, para rechazar alguna violencia o vencer la resistencia contra la autoridad, no podrá ser separado de sus funciones ni ver afectada su remuneración, mientras no concluya la investigación administrativa respectiva.
+
+Lo anterior, sin perjuicio de las facultades de la autoridad respectiva para ordenar el desarrollo de labores distintas a las policiales mientras tal investigación se desarrolle.
+
 #### Artículo 7°
 
 quinquies.- Si los hechos puestos en conocimiento de la Policía de Investigaciones en virtud de los artículos 7° bis y 7° ter fueren constitutivos de delito, el personal policial deberá remitir sin más demora la respectiva denuncia al Ministerio Público.
@@ -278,11 +282,19 @@ Se prohíbe la reproducción y uso de las placas, tarjetas, timbres y sellos de 
 
 #### Artículo 17
 
-El que matare a un miembro de la Policía de Investigaciones de Chile que se encontrare en el ejercicio de sus funciones será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+El que matare a un miembro de la Policía de Investigaciones de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+La conducta establecida en el inciso anterior será castigada con presidio perpetuo a presidio perpetuo calificado si concurre alguna de las circunstancias siguientes:
+
+a) Si se comete mediante precio, recompensa o promesa, o cualquier otro tipo de beneficio para sí o para un tercero.
+
+b) Si se ejecuta con auxilio de gente armada o de personas que aseguren o proporcionen impunidad.
+
+c) Si el imputado actúa con su rostro cubierto con el objeto de ocultar su identidad.
 
 #### Artículo 17 bis
 
-El que hiriere, golpeare o maltratare de obra a un miembro de la Policía de Investigaciones de Chile que se encontrare en el ejercicio de sus funciones, será castigado:
+El que hiriere, golpeare o maltratare de obra a un miembro de la Policía de Investigaciones de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado:
 
 1º.- Con la pena de presidio mayor en su grado medio a máximo, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
@@ -294,7 +306,7 @@ El que hiriere, golpeare o maltratare de obra a un miembro de la Policía de Inv
 
 #### Artículo 17 ter
 
-Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un funcionario de la Policía de Investigaciones en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+Cuando los delitos establecidos en los artículos 395 y 396 del Código Penal se cometieren respecto de un funcionario de la Policía de Investigaciones en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones se aplicarán las penas que siguen:
 
 1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
 
@@ -355,6 +367,10 @@ Estará exento de responsabilidad criminal, el funcionario de la Policía de Inv
 El personal de Policía de Investigaciones de Chile está autorizado para portar armas de fuego en la forma y condiciones que determine el Reglamento.
 
 Los Oficiales Policiales de los grados de Director General, Subdirectores, Prefectos Inspectores, Prefectos y Subprefectos, de la Policía de Investigaciones de Chile en retiro, estarán facultados para portar armas de fuego que tengan debidamente inscritas a su nombre, previa autorización otorgada por el Director General, sin perjuicio de aplicárseles lo que disponga la reglamentación respectiva, para el personal en servicio activo.
+
+#### Artículo 24 bis
+
+En el ejercicio de sus funciones, el personal de la Policía de Investigaciones de Chile será provisto de capacitación, equipo y armamento adecuado para resguardar su vida e integridad personal, la de terceros y para cumplir con ellas.
 
 #### Artículo 25
 

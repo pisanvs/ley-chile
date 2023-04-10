@@ -52,6 +52,8 @@ Calidad de imputado. Las facultades, derechos y garantías que la Constitución 
 
 Para este efecto, se entenderá por primera actuación del procedimiento cualquiera diligencia o gestión, sea de investigación, de carácter cautelar o de otra especie, que se realizare por o ante un tribunal con competencia en lo criminal, el ministerio público o la policía, en la que se atribuyere a una persona responsabilidad en un hecho punible.
 
+En las investigaciones iniciadas por el Ministerio Público, los funcionarios policiales o de Gendarmería de Chile, de las Fuerzas Armadas y los funcionarios de los servicios de su dependencia, en cumplimiento del deber, exclusivamente en el marco de funciones de resguardo del orden público, tales como las que se ejercen durante estados de excepción constitucional, protección de la infraestructura crítica, resguardo de fronteras, y funciones de policía cuando correspondan, o cuando se desempeñan en el marco de sus funciones fiscalizadoras, que se encuentren en el caso previsto en el párrafo tercero del numeral 6° del artículo 10 del Código Penal, serán considerados como víctimas o testigos, según corresponda, para todos los efectos legales, a menos que las diligencias permitan atribuirles participación punible. En este último caso adquirirán la calidad de imputado, y podrán hacer valer las facultades, derechos y garantías propias de éste.
+
 #### Artículo 8º
 
 Ámbito de la defensa. El imputado tendrá derecho a ser defendido por un letrado desde la primera actuación del procedimiento dirigido en su contra. Todo imputado que carezca de abogado tendrá derecho irrenunciable a que el Estado le proporcione uno. La designación del abogado la efectuará el juez antes de que tenga lugar la primera actuación judicial del procedimiento que requiera la presencia de dicho imputado.
@@ -576,7 +578,7 @@ Función de la policía en el procedimiento penal. La Policía de Investigacione
 
 Carabineros de Chile, en el mismo carácter de auxiliar del ministerio público, deberá desempeñar las funciones previstas en el inciso precedente cuando el fiscal a cargo del caso así lo dispusiere.
 
-Sin perjuicio de lo previsto en los incisos anteriores, tratándose de la investigación de hechos cometidos en el interior de establecimientos penales, el ministerio público también podrá impartir instrucciones a Gendarmería de Chile, que actuará de conformidad a lo dispuesto en este Código.
+Sin perjuicio de lo previsto en los incisos anteriores, tratándose de investigaciones en las que apareciere necesario el carácter auxiliar de Gendarmería de Chile para la realización de diligencias de investigación en el interior de establecimientos penales, el Ministerio Público también podrá impartirle instrucciones. En estos casos Gendarmería de Chile deberá actuar de conformidad con lo dispuesto en este Código.
 
 #### Artículo 80
 
@@ -1034,6 +1036,10 @@ Exclusión de otras medidas. Cuando la imputación se refiriere a faltas, o deli
 
 Lo dispuesto en el inciso anterior no tendrá lugar en los casos a que se refiere el inciso cuarto del artículo 134 o cuando procediere el arresto por falta de comparecencia, la detención o la prisión preventiva de acuerdo a lo dispuesto en el artículo 33.
 
+#### Artículo 124 bis
+
+Tratándose del caso previsto en los párrafos tercero y final del numeral 6 del artículo 10 del Código Penal, no se podrán ordenar medidas cautelares que recaigan sobre la libertad del imputado, con excepción de la citación y las medidas cautelares previstas en los literales d) y g) del artículo 155. Lo anterior, no será aplicable si en el curso de la investigación surgen antecedentes calificados que justifiquen la existencia de un delito.
+
 ### Párrafo 3º — Detención
 
 #### Artículo 125
@@ -1178,7 +1184,7 @@ Se entenderá especialmente que la prisión preventiva es indispensable para el 
 
 Para estimar si la libertad del imputado resulta o no peligrosa para la seguridad de la sociedad, el tribunal deberá considerar especialmente alguna de las siguientes circunstancias: la gravedad de la pena asignada al delito; el número de delitos que se le imputare y el carácter de los mismos; la existencia de procesos pendientes, y el hecho de haber actuado en grupo o pandilla.
 
-Se entenderá especialmente que la libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando se encontrare sujeto a alguna medida cautelar personal como orden de detención judicial pendiente u otras, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
+Se entenderá especialmente que la libertad del imputado constituye un peligro para la seguridad de la sociedad, cuando los delitos imputados tengan asignada pena de crimen en la ley que los consagra; cuando el imputado hubiere sido condenado con anterioridad por delito al que la ley señale igual o mayor pena, sea que la hubiere cumplido efectivamente o no; cuando los delitos imputados consistieren en atentados contra la vida o la integridad física de miembros de Carabineros de Chile, de la Policía de Investigaciones de Chile, funcionarios de las Fuerzas Armadas y de los servicios de su dependencia o de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, que tengan asignada una pena igual o superior a la de presidio menor en su grado máximo en la ley que los consagra; cuando se encontrare sujeto a alguna medida cautelar personal como orden de detención judicial pendiente u otras, en libertad condicional o gozando de alguno de los beneficios alternativos a la ejecución de las penas privativas o restrictivas de libertad contemplados en la ley.
 
 Se entenderá que la seguridad del ofendido se encuentra en peligro por la libertad del imputado cuando existieren antecedentes calificados que permitieren presumir que éste realizará atentados en contra de aquél, o en contra de su familia o de sus bienes.
 
