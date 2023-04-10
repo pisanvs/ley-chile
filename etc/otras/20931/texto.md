@@ -384,15 +384,11 @@ El Ministerio Público, Carabineros de Chile, la Policía de Investigaciones de 
 
 Corresponderá al Ministerio Público la administración del banco de datos que se forme y que se configurará con los datos señalados en el inciso anterior, el que deberá mantener unificado y actualizado y podrá ser consultado o requerido por los organismos referidos en dicho inciso, dentro de la esfera de su competencia, garantizando la interoperatividad de los bancos antes referidos.
 
-Sin perjuicio de lo anterior, para efectos de colaborar con la seguridad pública y la prevención del delito, el Ministerio Público deberá aportar a la Subsecretaría de Prevención del Delito y a las municipalidades del país la información contenida en el banco de datos regulado en el presente artículo. Lo anterior, en forma anonimizada y mediante la plataforma electrónica interconectada establecida en el literal p) del artículo 63 de la Ley N° 18.695, Orgánica Constitucional de Municipalidades.
-
-El decreto supremo al que hace referencia el inciso primero señalará en detalle los datos que el Ministerio Público deberá aportar, de conformidad con lo dispuesto en el inciso anterior, así como cualquier otro aspecto necesario para el adecuado cumplimiento de dicha obligación.
-
 #### Artículo 12
 
 En cumplimiento de las funciones de resguardo del orden y la seguridad pública, y sin perjuicio de lo señalado en el artículo 85 del Código Procesal Penal, los funcionarios policiales indicados en el artículo 83 del mismo Código podrán verificar la identidad de cualquier persona mayor de 18 años en vías públicas, en otros lugares públicos y en lugares privados de acceso al público, por cualquier medio de identificación, tal como cédula de identidad, licencia de conducir, pasaporte o tarjeta estudiantil o utilizando, el funcionario policial o la persona requerida, cualquier dispositivo tecnológico idóneo para tal efecto, debiendo siempre otorgarse las facilidades necesarias para su adecuado cumplimiento. En caso de duda respecto de si la persona es mayor o menor de 18 años, se entenderá siempre que es menor de edad.
 
-Carabineros de Chile, en el marco de sus labores de supervigilancia de las normas de la ley N° 18.290, del Tránsito, podrá realizar controles preventivos de los ocupantes de un vehículo motorizado y no motorizado, tales como autos, motocicletas, triciclos y ciclos. En el ejercicio de esta facultad, los funcionarios policiales podrán realizar registros al interior de los maleteros o portaequipajes del respectivo vehículo motorizado o de tracción animal, o a contenedores o mochilas que sirvan para el transporte de mercancía.
+Carabineros de Chile, en el marco de sus labores de supervigilancia de las normas de la ley N° 18.290, del Tránsito, podrá realizar controles preventivos de los ocupantes de un vehículo motorizado. En el ejercicio de esta facultad, los funcionarios policiales podrán realizar registros al interior de los maleteros o portaequipajes del respectivo vehículo o en uno de tracción animal.
 
 El procedimiento descrito anteriormente deberá limitarse al tiempo estrictamente necesario para los fines antes señalados. En ningún caso podrá extenderse más allá de una hora.
 
@@ -409,18 +405,6 @@ Constituirá una falta administrativa ejercer las atribuciones señaladas en est
 Las Policías deberán elaborar un procedimiento estandarizado de reclamo destinado a aquellas personas que estimen haber sido objeto de un ejercicio abusivo o denigratorio de la facultad señalada en el presente artículo.
 
 Las Policías informarán trimestralmente al Ministerio del Interior y Seguridad Pública sobre los antecedentes que les sean requeridos por este último, para conocer la aplicación práctica que ha tenido esta facultad. El Ministerio del Interior y Seguridad Pública, a su vez, publicará en su página web la estadística trimestral de la aplicación de la misma.".
-
-#### Artículo 12 bis
-
-En caso de que la persona sometida al procedimiento señalado en el artículo anterior no pueda acreditar encontrarse en situación migratoria regular, según lo establecido en la ley N° 21.325, el funcionario policial deberá registrar y trasladar al individuo para ponerlo a disposición de la Policía de Investigaciones de Chile dentro del más breve plazo para corroborar su situación migratoria e iniciar los procedimientos que correspondan de conformidad a la ley.
-
-Si al momento de ser puesto a disposición de la autoridad migratoria el sujeto sometido a control mantiene pendientes notificaciones relacionadas con procedimientos de expulsión u otros de la ley N° 21.325, se procederá a su notificación inmediata, y se dejará constancia de la debida recepción mediante firma del extranjero.
-
-El funcionario policial deberá considerar como documentos válidos para acreditar la situación migratoria regular de la persona extranjera, su cédula de identidad vigente, el certificado otorgado por el Servicio Nacional de Migraciones en el que conste que la persona extranjera realizó una solicitud de otorgamiento, cambio o prórroga de un permiso de residencia, o la resolución expedida por la autoridad migratoria en la que conste el otorgamiento de un permiso de residencia. Se entenderá que la cédula de identidad mantiene su vigencia en aquellos casos en que el extranjero cuente con un certificado de residencia en trámite vigente o hasta que la autoridad migratoria resuelva la respectiva solicitud, conforme lo establece el artículo 43 de la ley N° 21.325.
-
-Este procedimiento deberá realizarse de conformidad con las restricciones señaladas en el artículo anterior, y con respeto del principio de proporcionalidad e igualdad de trato.
-
-Se aplicarán las disposiciones de este artículo para el ejercicio de las atribuciones sobre control de identidad y registro en las áreas de las zonas fronterizas, otorgadas a las Fuerzas Armadas de forma transitoria, mientras se encuentre vigente el decreto que las faculta para ello.
 
 #### Artículo 13
 

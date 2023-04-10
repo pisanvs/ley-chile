@@ -494,7 +494,7 @@ En los casos que se indican en este artículo, el juez de letras de la jurisdicc
 
 En la Primera Región de Tarapacá, el juez de letras de la comuna de Pozo Almonte.
 
-En la Segunda Región de Antofagasta, los jueces de letras de las comunas de María Elena y de Taltal.
+En la Segunda Región de Antofagasta, los jueces de letras de las comunas de María Elena, Mejillones y de Taltal.
 
 En la Tercera Región de Atacama, los jueces de letras de las comunas de Chañaral, Freirina y Caldera.
 
@@ -514,7 +514,7 @@ En la Décima Región de Los Lagos, los jueces de letras de las comunas de Pangu
 
 En la Undécima Región del General Carlos Ibáñez del Campo, los jueces de letras de las comunas de Cisnes, Chile Chico, Aisén y Cochrane.
 
-En la Duodécima Región de Magallanes y Antártica Chilena, los jueces de letras de las comunas de Natales y Porvenir.
+En la Duodécima Región de Magallanes y Antártica Chilena, los jueces de letras de las comunas de Natales, Porvenir y Cabo de Hornos.
 
 #### Artículo 4º
 
@@ -2326,7 +2326,7 @@ ii. Los artículos 177 a 181 de la ley Nº 17.105, Ley de Alcoholes, Bebidas Alc
 
 Créase una Comisión de Coordinación del Sistema de Justicia Penal, de carácter permanente y consultivo, que tendrá como objetivo procurar el fortalecimiento y buen funcionamiento del sistema procesal penal, a través de proposiciones técnicas que faciliten su desarrollo, seguimiento y evaluación, así como la acción mancomunada de las instituciones en ella representadas.
 
-Dicha Comisión estará integrada por el Ministro de Justicia, quien la presidirá, por el Presidente de la Corte Suprema, por el Fiscal Nacional del Ministerio Público, por el Defensor Nacional de la Defensoría Penal Pública, por el Presidente del Colegio de Abogados con mayor número de afiliados, por el General Director de Carabineros, por el Director General de la Policía de Investigaciones de Chile y por el Subsecretario de Justicia.
+Dicha Comisión estará integrada por el Ministro de Justicia, quien la presidirá, por el Presidente de la Corte Suprema, por el Fiscal Nacional del Ministerio Público, por el Defensor Nacional de la Defensoría Penal Pública, por el Presidente del Colegio de Abogados con mayor número de afiliados, por el General Director de Carabineros, por el Director General de la Policía de Investigaciones de Chile, por el Director Nacional de Gendarmería de Chile y por el Subsecretario de Justicia.
 
 La Comisión de Coordinación sesionará en forma ordinaria, convocada por su presidente, cada dos meses, dentro de los primeros quince días del mes correspondiente. Las sesiones extraordinarias serán convocadas por el presidente de la Comisión o por éste a solicitud de dos de sus miembros.
 
@@ -2354,7 +2354,7 @@ Créanse Comisiones Regionales de Coordinación del Sistema de Justicia Penal, d
 
 Las Comisiones Regionales dependerán de la Comisión de Coordinación a que se refiere el artículo precedente, a la que remitirán, a lo menos semestralmente, información sobre el funcionamiento y estadísticas del sistema de justicia penal en su región.
 
-Cada Comisión Regional estará integrada por el Secretario Regional Ministerial de Justicia, quien la presidirá, por el Presidente de la Corte de Apelaciones respectiva, por el Fiscal Regional del Ministerio Público, por el Defensor Regional respectivo, por el Jefe de Zona de Carabineros pertinente, por el Jefe de Zona Policial que corresponda y por el Presidente del Colegio de Abogados con mayor número de afiliados en la región. En el caso de existir dos o más Cortes de Apelaciones en la región, la Comisión estará integrada por todos los Presidentes de esas Cortes.
+Cada Comisión Regional estará integrada por el Secretario Regional Ministerial de Justicia, quien la presidirá, por el Presidente de la Corte de Apelaciones respectiva, por el Fiscal Regional del Ministerio Público, por el Defensor Regional respectivo, por el Jefe de Zona de Carabineros pertinente, por el Jefe de Zona Policial que corresponda, por el Director Regional de Gendarmería respectivo y por el Presidente del Colegio de Abogados con mayor número de afiliados en la región. En el caso de existir dos o más Cortes de Apelaciones en la región, la Comisión estará integrada por todos los Presidentes de esas Cortes.
 
 En la Región Metropolitana, el Fiscal Nacional del Ministerio Público y el Defensor Nacional designarán al fiscal y defensor regionales que integrarán la respectiva Comisión Regional.
 
