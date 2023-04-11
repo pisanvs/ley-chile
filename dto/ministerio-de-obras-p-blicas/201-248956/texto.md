@@ -100,11 +100,9 @@ Ruta F-74-G, Melipilla - Bollenar - Casablanca, Tramo:
 
 Cuesta Ibacache - Ruta F-90.
 
-Ruta F-98-G, Cruce Ruta 78 - San Sebastián - Algarrobo
+Ruta G-986, Cruce G-948 (San Sebastián) - Algarrobo
 
-- Mirasol, tramo: Nuevo Camino La Pólvora -
-
-Laguna Verde.
+- Mirasol - Cruce G-812 (El Yeco).
 
 Ruta G-82, Cruce Ruta 78 (Agua Buena) - San Antonio.
 
@@ -156,9 +154,9 @@ Ruta F-814 - San José de Mirasol - Los Cardos, tramo:
 
 Ruta F-818 - Los Cardos.
 
-Ruta F-98-G, Cruce Ruta 78 - San Sebastián - Algarrobo
+Ruta G-986, Cruce G-948 (San Sebastián) - Algarrobo
 
-- Mirasol, tramo: Los Cardos - Ruta F-832.
+- Mirasol - Cruce G-812 (El Yeco).
 
 Ruta F-832, Cruce Ruta F-90 - Aguas Marinas -
 
@@ -168,9 +166,9 @@ Ruta F-90, Cruce Ruta 68 (Casablanca) - Algarrobo,
 
 tramo: Ruta F-832 - Ruta F-98-G.
 
-Ruta F-98-G, Cruce Ruta 78 San Sebastián - Algarrobo -
+Ruta G-986, Cruce G-948 (San Sebastián) - Algarrobo
 
-Mirasol, tramo: Ruta F-90 - Ruta 78.
+- Mirasol - Cruce G-812 (El Yeco).
 
 Red Vial Litoral Central:
 
@@ -429,6 +427,10 @@ Limache
 Olmué
 
 . El sistema vial urbano que interconecta las Rutas F-590 y F-660, desde el límite urbano poniente hasta el límite urbano sur, a través de Av. Eastman, calle Colegio y Av. Narváez.
+
+EL QUISCO
+
+. El tramo urbano que permite dar continuidad a la ruta G-986, en el sector de la desembocadura del Estero El Totoral, a través de: Camino Antiguo San Antonio - Algarrobo.
 
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
