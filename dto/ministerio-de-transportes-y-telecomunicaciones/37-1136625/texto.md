@@ -22,11 +22,11 @@ Decreto:
 
 Sin perjuicio de la placa patente única que por reglamento deben portar los vehículos motorizados en su parte delantera y posterior, los camiones, y tracto camiones, deberán exhibir, además, en un lugar visible de sus puertas y sobre el techo de la caja de carga de la carrocería, si dicho techo tiene una longitud de 7 m o más y su construcción lo permite, las letras y dígitos correspondientes a la placa patente única del vehículo. Asimismo, la exigencia anteriormente descrita para el techo de la caja de carga, será exigible en los mismos términos, a los remolques y semirremolques, los que deberán exhibir sobre su techo las letras y dígitos correspondientes a la placa patente única de estos vehículos. Las letras y dígitos tendrán las siguientes características:
 
-a. Serán de color negro e irán pintados o adheridos en la carrocería.
+a. Serán de color negro y los de las puertas irán pintados de manera permanente o indeleble, los ubicados en el techo de la caja de carga podrán ser pintados o adheridos.
 
 b. El color de fondo, en la zona donde se pinten o adhieran las letras y dígitos, será blanco; aceptándose también como color de fondo el galvanizado metálico.
 
-c. Tendrán como mínimo 12 cm de alto y un espesor de trazo de 2 cm en las puertas y 120 cm de alto y un espesor de trazo de 18 cm en el techo, con un ancho de acuerdo al tipo de letra. Asimismo, las letras y dígitos sobre el techo, deberán orientarse de forma transversal al vehículo, centradas respecto del eje longitudinal del mismo, de manera tal que su lectura normal desde la altura sea desde el costado izquierdo del vehículo, como se indica en el siguiente esquema:
+c. Tendrán como mínimo 12 cm de alto en las puertas y serán del mismo tipo que el indicado para las letras y números de la placa patente única señalado en el artículo 7º, letra A, del decreto supremo Nº 53, de 1984, del Ministerio de Transportes y Telecomunicaciones. Las ubicadas sobre el techo tendrán un alto de 120 cm y un espesor de trazo de 18 cm, con un ancho de acuerdo al tipo de letra. Asimismo, las letras y dígitos sobre el techo, deberán orientarse de forma transversal al vehículo, centradas respecto del eje longitudinal del mismo, de manera tal que su lectura normal desde la altura sea desde el costado izquierdo del vehículo, como se indica en el siguiente esquema:
 
 El cumplimiento de las disposiciones anteriores, será verificado en la revisión técnica que deba practicársele a los vehículos a contar de la fecha de entrada en vigencia del presente decreto.
 
