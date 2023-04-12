@@ -1,4 +1,4 @@
-FIJA NORMA TECNICA PARA EL SERVICIO PUBLICO TELEFONICO LOCAL INALAMBRICO EN LA BANDA DE FRECUENCIAS 3.400 - 3.600 MHz
+REGULA EL USO DE LA BANDA DE FRECUENCIA DE FRECUENCIAS 3.400 - 3.600 MHz
 
 Santiago, 22 de octubre de 1999.- Con esta fecha se ha resuelto lo que sigue:
 
@@ -14,11 +14,13 @@ d) La resolución Nº 55, de 1992, cuyo texto refundido, coordinado y sistematiz
 
 Considerando: Que la normativa que se aprueba tiene por objeto introducir competencia en los medios de acceso al usuario final, de manera que éstos no se encuentren limitados a los que en la actualidad utilizan las concesionarias de servicio público telefónico.
 
-R e s u e l v o:
+Fíjase la siguiente norma técnica para la banda de frecuencias 3.400 - 3.600 MHz
 
 Fíjase la siguiente norma técnica para el servicio público telefónico local inalámbrico en la banda de frecuencias 3.400 - 3.600 MHz.
 
 > **Nota.** El Artículo único de la Resolución 6554 Exenta, Transportes, publicada el 09.12.2010, modifica la presente resolución en el sentido de que la banda de frecuencias regulada por esta resolución también podrá ser empleada para suministrar servicio público de telefonía móvil. Las concesionarias de servicio público telefónico local inalámbrico en la banda de frecuencias 3.400 - 3.600 MHz interesadas en suministrar el citado servicio móvil, deberán solicitar las respectivas concesiones sobre la misma banda de frecuencias autorizada.
+
+> **Nota.** NOTA 1 El artículo segundo de la Resolución 770 Exenta, Transportes, publicada el 12.04.2023, modifica el artículo único de la Resolución 6554 Exenta, Transportes, publicada el 09.12.2010, que es modificatoria a su vez de la presente norma, indica que la banda de frecuencias regulada en esta Resolución, podrá ser empleada para suministrar servicio público de telecomunicaciones, pudiendo ofrecer prestaciones específicas fijas o móviles, asimismo, ordena que las concesionarias de servicio público telefónico local inalámbrico en la banda de frecuencias 3.400 - 3.600 MHz interesadas en suministrar otras prestaciones específicas, deberán solicitar las respectivas concesiones sobre la misma banda de frecuencias autorizada, además las nuevas prestaciones específicas necesitarán la correspondiente autorización de acuerdo a lo que la citada norma indica.
 
 ## Título I
 
@@ -26,7 +28,7 @@ Descripción
 
 #### Artículo 1º
 
-El servicio público telefónico inalámbrico, en la banda de frecuencias 3.400 - 3.700 MHz, en adelante el servicio, es un servicio de telecomunicaciones que opera mediante radioenlaces en la citada banda, sin perjuicio del empleo de otros medios de transmisión.
+El servicio público, en la banda de frecuencias 3.400 - 3.700 MHz, en adelante el servicio, es un servicio de telecomunicaciones que opera mediante radioenlaces en la citada banda, sin perjuicio del empleo de otros medios de transmisión.
 
 ## Título II
 
