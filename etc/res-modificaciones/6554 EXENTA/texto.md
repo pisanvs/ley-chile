@@ -20,7 +20,9 @@ Resuelvo:
 
 #### Artículo único
 
-Modifíquese la resolución exenta Nº 1.498, de 1999, de la Subsecretaría de Telecomunicaciones, en el sentido de que la banda de frecuencias regulada por la referida resolución también podrá ser empleada para suministrar servicio público de telefonía móvil. Las concesionarias de servicio público telefónico local inalámbrico en la banda de frecuencias 3.400 - 3.600 MHz interesadas en suministrar el citado servicio móvil, deberán solicitar las respectivas concesiones sobre la misma banda de frecuencias autorizada.
+Modifíquese la resolución exenta N° 1.498, de 1999, de la Subsecretaría de Telecomunicaciones, en el sentido de que la banda de frecuencias regulada por la referida resolución también podrá ser empleada para suministrar servicio público de telecomunicaciones, pudiendo ofrecer prestaciones específicas fijas o móviles. Las concesionarias de servicio público telefónico local inalámbrico en la banda de frecuencias 3.400 - 3.600 MHz interesadas en suministrar otras prestaciones específicas, deberán solicitar las respectivas concesiones sobre la misma banda de frecuencias autorizada.
+
+2. Las nuevas prestaciones específicas necesitarán la correspondiente autorización; esta autorización no podrá otorgarse en caso que se generen distorsiones a la competencia en los mercados afectados, manteniendo en todo caso el equilibrio económico financiero de los títulos habilitantes, con el objeto de resguardar el uso efectivo y eficiente del espectro radioeléctrico, pudiendo la autoridad establecer condiciones para su autorización.
 
 Anótese y publíquese en el Diario Oficial.- Jorge Atton Palma, Subsecretario de Telecomunicaciones.
 
