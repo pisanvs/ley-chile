@@ -20,95 +20,115 @@ Decreto:
 
 2º Declárese caminos públicos en la V Región de Valparaíso, todos los tramos urbanos ubicados en los centros poblados, pueblos y ciudades, de las siguientes rutas:
 
-Ruta 5, Longitudinal Norte, sector: Montenegro - Los
+Ruta 5, Longitudinal Norte, sector:
 
-Ermitaños.
+Montenegro - Los Ermitaños.
 
-Ruta 57, A. Vespucio - Túnel Chacabuco - San Vicente -
+Ruta 57, A. Vespucio - Túnel Chacabuco -
 
-Cruce Ruta 60 CH, sector: Túnel Chacabuco - San
+San Vicente - Cruce Ruta 60 CH, sector:
 
-Vicente - Cruce Ruta 60 CH.
+Túnel Chacabuco - San Vicente - Cruce
 
-Ruta 60 CH, Cruce Longitudinal (Hijuelas) - Villa Dulce
+Ruta 60 CH.
 
-- Cruce Ruta 68.
+Ruta 60 CH, Cruce Longitudinal (Hijuelas) -
 
-Ruta 60 CH, Cruce Longitudinal (Llay-Llay) - Túnel
+Villa Dulce - Cruce Ruta 68.
 
-Cristo Redentor.
+Ruta 60 CH, Cruce Longitudinal
 
-Ruta 60 CH, nuevo trazado en construcción tramo: San
+(Llay-Llay) - Túnel Cristo Redentor.
 
-Pedro - Enlace Peñablanca.
+Ruta 60 CH, nuevo trazado en construcción
 
-Ruta 60 CH, nuevo trazado en construcción tramo: Llay-
+tramo: San Pedro - Enlace Peñablanca.
 
-Llay - Los Andes.
+Ruta 60 CH, nuevo trazado en construcción
 
-Ruta 62, Cruce Longitudinal (La Calera) - Quilpué -
+tramo: Llay-Llay - Los Andes.
 
-Cruce Ruta 60 CH, tramo: Limache - Ruta 60 CH,
+Ruta 62, Cruce Longitudinal (La Calera) -
 
-nuevo trazado en construcción.
+Quilpué - Cruce Ruta 60 CH, tramo:
 
-Ruta 66, Cruce Longitudinal (Pelequén) - San Antonio,
+Limache - Ruta 60 CH, nuevo trazado en
 
-sector: Límite Regional - San Antonio.
+construcción.
 
-Ruta 68, Santiago - Valparaíso, sector: Túnel Zapata -
+Ruta 66, Cruce Longitudinal (Pelequén) -
 
-Valparaíso.
+San Antonio, sector: Límite Regional -
 
-Ruta 78, Santiago - San Antonio, sector: Paso Sepultura
+San Antonio.
 
-- San Antonio.
+Ruta 68, Santiago - Valparaíso, sector:
 
-Ruta E-37-D, Illapel - Pedegua, sector: Límite Regional
+Túnel Zapata - Valparaíso.
 
-- Pedegua.
+Ruta 78, Santiago - San Antonio, sector:
 
-Ruta E-35, Cruce Longitudinal (Quebradilla) - La Ligua
+Paso Sepultura - San Antonio.
 
-- Petorca - Chincolco.
+Ruta E-37-D, Illapel - Pedegua, sector:
 
-Ruta E-39, Cruce Longitudinal (Quínquimo) - La Ligua.
+Límite Regional - Pedegua.
 
-Ruta E-41, Cabildo - La Vega - Guayacán - El Tártaro -
+Ruta E-35, Cruce Longitudinal (Quebradilla) -
 
-Putaendo.
+La Ligua - Petorca - Chincolco.
 
-Ruta E-46, Cruce Longitudinal (Catapilco) - La Laguna.
+Ruta E-39, Cruce Longitudinal (Quínquimo) -
+
+La Ligua.
+
+Ruta E-41, Cabildo - La Vega - Guayacán -
+
+El Tártaro - Putaendo.
+
+Ruta E-46, Cruce Longitudinal (Catapilco) -
+
+La Laguna.
 
 Ruta E-71, San Felipe - Putaendo.
 
 Ruta E-85, San Felipe - Los Andes.
 
-Ruta E-89, Auco - Rinconada - Cruce Ruta 60 CH.
+Ruta E-89, Auco - Rinconada - Cruce
 
-Ruta F-30-E Cruce Ruta 5 - Papudo - Cruce Ruta 60 CH.
+Ruta 60 CH.
+
+Ruta F-30-E Cruce Ruta 5 - Papudo -
+
+Cruce Ruta 60 CH.
 
 Ruta F-20, Nogales - Puchuncaví.
 
-Ruta F-50, Cruce Ruta 68 - Lo Orozco - Quilpué.
+Ruta F-50, Cruce Ruta 68 - Lo Orozco -
 
-Ruta F-10-G, Til Til - Limache, sector: Cuesta La
+Quilpué.
 
-Dormida - Limache.
+Ruta F-10-G, Til Til - Limache, sector:
 
-Ruta F-74-G, Melipilla - Bollenar - Casablanca, Tramo:
+Cuesta La Dormida - Limache.
 
-Cuesta Ibacache - Ruta F-90.
+Ruta F-74-G, Melipilla - Bollenar -
 
-Ruta G-986, Cruce G-948 (San Sebastián) - Algarrobo
+Casablanca, Tramo: Cuesta Ibacache -
 
-- Mirasol - Cruce G-812 (El Yeco).
+Ruta F-90.
 
-Ruta G-82, Cruce Ruta 78 (Agua Buena) - San Antonio.
+Ruta G-986, Cruce G-948 (San Sebastián) -
 
-Ruta G-80-I, Cruce Ruta 66 (Retén Atalaya) - La Rosa,
+Algarrobo - Mirasol - Cruce G-812 (El Yeco).
 
-sector: Cruce Ruta 66 - Límite Regional.
+Ruta G-82, Cruce Ruta 78 (Agua Buena) -
+
+San Antonio.
+
+Ruta G-80-I, Cruce Ruta 66 (Retén Atalaya) -
+
+La Rosa, sector: Cruce Ruta 66 - Límite Regional.
 
 Ruta E-253, Longotoma - Artificio.
 
@@ -118,85 +138,113 @@ Ruta G-904, Leyda - San Juan - Tejas Verdes.
 
 By Pass Zapallar.
 
-Nuevo Troncal Sur, Viña del Mar - Enlace
+Nuevo Troncal Sur, Viña del Mar -
 
-Peñablanca.
+Enlace Peñablanca.
 
 Nuevo Camino La Pólvora:
 
-Nuevo trazado de acceso al Puerto.
+Nuevo trazado de acceso al
 
-Ruta F-724, Acceso La Pólvora, tramo: Nuevo Trazado -
+Puerto.
 
-Ruta F-730.
+Ruta F-724, Acceso La Pólvora, tramo: Nuevo
 
-Ruta F-730, Camino La Pólvora - Laguna Verde por cuesta
+Trazado - Ruta F-730.
 
-Balmaceda, tramo: Ruta F-724 - Ruta F-718.
+Ruta F-730, Camino La Pólvora - Laguna Verde
 
-Ruta F-718, Las Taguas - Placilla, tramo: Ruta F-730 -
+por cuesta Balmaceda, tramo:
 
-Nuevo trazado.
+Ruta F-724 - Ruta F-718.
 
-Nuevo trazado, tramo: Ruta F-718 - Ruta 68.
+Ruta F-718, Las Taguas - Placilla, tramo:
 
-Circuito Costero del Litoral Central:
+Ruta F-730 - Nuevo trazado.
 
-Ruta F-800, Cruce Ruta 68 - Las Tablas - Quintay,
+Nuevo trazado, tramo: Ruta F-718
 
-tramo: Ruta 68 - Llampaiquillo.
+- Ruta 68.
 
-Ruta F-818, Acceso a Tunquén, tramo: Llampaiquillo -
+Circuito Costero del Litoral
 
-Ruta F-814.
+Central:
 
-Ruta F-814 - San José de Mirasol - Los Cardos, tramo:
+Ruta F-800, Cruce Ruta 68 - Las Tablas -
 
-Ruta F-818 - Los Cardos.
+Quintay, tramo: Ruta 68 -
 
-Ruta G-986, Cruce G-948 (San Sebastián) - Algarrobo
+Llampaiquillo.
 
-- Mirasol - Cruce G-812 (El Yeco).
+Ruta F-818, Acceso a Tunquén, tramo:
+
+Llampaiquillo - Ruta F-814.
+
+Ruta F-814 - San José de Mirasol - Los
+
+Cardos, tramo: Ruta F-818 -
+
+Los Cardos.
+
+Ruta G-986, Cruce G-948 (San Sebastián) -
+
+Algarrobo - Mirasol - Cruce
+
+G-812 (El Yeco).
 
 Ruta F-832, Cruce Ruta F-90 - Aguas Marinas -
 
 Algarrobo.
 
-Ruta F-90, Cruce Ruta 68 (Casablanca) - Algarrobo,
+Ruta F-90, Cruce Ruta 68 (Casablanca) -
 
-tramo: Ruta F-832 - Ruta F-98-G.
+Algarrobo, tramo: Ruta F-832 -
 
-Ruta G-986, Cruce G-948 (San Sebastián) - Algarrobo
+Ruta F-98-G.
 
-- Mirasol - Cruce G-812 (El Yeco).
+Ruta G-986, Cruce G-948 (San Sebastián) -
+
+Algarrobo - Mirasol - Cruce G-812
+
+(El Yeco).
 
 Red Vial Litoral Central:
 
-Nuevo Camino Costero Cartagena - Algarrobo.
+Nuevo Camino Costero Cartagena -
 
-Ruta F-950, Punta de Tralca - Loma Verde, tramo: Ruta
+Algarrobo.
 
-F-98-G - Nuevo Camino Costero Cartagena - Algarrobo.
+Ruta F-950, Punta de Tralca - Loma Verde, tramo:
 
-Ruta G-984, Quillaicillo - Las Cruces, tramo: Ruta
+Ruta F-98-G - Nuevo Camino Costero
 
-F-98-G - Nuevo Camino Costero Cartagena - Algarrobo.
+Cartagena - Algarrobo.
+
+Ruta G-984, Quillaicillo - Las Cruces, tramo:
+
+Ruta F-98-G - Nuevo Camino Costero
+
+Cartagena - Algarrobo.
 
 Ruta G-996, El Tabo - El Membrillo.
 
-Ruta F-90, Cruce Ruta 68 (Casablanca) - Algarrobo,
+Ruta F-90, Cruce Ruta 68 (Casablanca) -
 
-tramo: Ruta 68 - Ruta F-832.
+Algarrobo, tramo: Ruta 68 - Ruta
 
-Camino Costero Interior Variante Las
+F-832. Camino Costero Interior
 
-Pataguas.
+Variante Las Pataguas.
 
-Ruta F-962-G, Cruce Ruta 78 (Malvilla) - Lo Zárate -
+Ruta F-962-G, Cruce Ruta 78 (Malvilla) -
 
-Orrego Abajo, tramo: Camino Costero Interior
+Lo Zárate - Orrego Abajo, tramo:
 
-Variante Las Pataguas - Orrego Abajo.
+Camino Costero Interior
+
+Variante Las Pataguas - Orrego
+
+Abajo.
 
 Ruta F-210, Cruce F-30-E - Quintero
 
@@ -212,145 +260,195 @@ Ruta G-820, Cruce G-986 (Mirasol) - Cruce G-812 (San José).
 
 Ruta F-528, Cruce Ruta 64 (Colmo) - Fuerte Aguayo - Cruce Ruta 64 (Reñaca Alto).
 
+Ruta E-61, Cruce Ruta 60 CH (Los Andes) - Cruce Ruta 60 CH (Tres Esquinas).
+
+F-180, Cruce E-30-F - Los Maitenes - Cruce F-190.
+
 3º Declárese Caminos Públicos en las áreas urbanas de las siguientes Capitales de provincia, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Valparaíso:
 
-. El tramo urbano del Nuevo Camino La Pólvora, desde
+. El tramo urbano del Nuevo Camino
 
-el Puerto de Valparaíso hasta el límite urbano Sur;
+La Pólvora, desde el Puerto de
 
-a través de Nuevo trazado de acceso al Puerto y Av.
+Valparaíso hasta el límite urbano
 
-Altamirano.
+Sur; a través de Nuevo trazado de
 
-. El tramo urbano de la Ruta 68, desde Av. Argentina
+acceso al Puerto y Av. Altamirano.
 
-hasta el límite urbano Sur; a través de Av. Santos
+. El tramo urbano de la Ruta 68,
+
+desde Av. Argentina hasta el límite
+
+urbano Sur; a través de Av. Santos
 
 Ossa.
 
 La Ligua:
 
-. El tramo urbano de la Ruta E-35, desde Ruta E-39
+. El tramo urbano de la Ruta E-35,
 
-hasta el límite urbano Sur; a través de calle sin
+desde Ruta E-39 hasta el límite urbano
 
-nombre, en el sector El Rayado.
+Sur; a través de calle sin nombre,
 
-. El tramo urbano de la Ruta E-39, desde el límite
+en el sector El Rayado.
 
-urbano Poniente hasta Ruta E-35; a través de
+. El tramo urbano de la Ruta E-39, desde
 
-Portales.
+el límite urbano Poniente hasta Ruta
 
-. El tramo urbano del trazado proyectado por Plan
+E-35; a través de Portales.
 
-Intercomunal de Valparaíso en plano MPIV-02 del By
+. El tramo urbano del trazado proyectado
 
-Pass La Ligua.
+por Plan Intercomunal de Valparaíso en
+
+plano MPIV-02 del By Pass La Ligua.
 
 Los Andes:
 
-. El tramo urbano de la Ruta 60 CH, nuevo trazado en
+. El tramo urbano de la Ruta 60 CH,
 
-construcción, desde el límite urbano Norte hasta
+nuevo trazado en construcción, desde
 
-empalmar con Ruta 57; a través de vía proyectada.
+el límite urbano Norte hasta empalmar
 
-. El tramo urbano de la Ruta 60 CH, desde el límite
+con Ruta 57; a través de vía
 
-urbano Poniente hasta el límite urbano Oriente; a
+proyectada.
 
-través de: San Rafael, Av. Argentina Poniente, Av.
+. El tramo urbano de la Ruta E-61,
 
-Argentina, Av. Argentina Oriente, General del Canto
+desde el límite urbano poniente hasta
 
-y Camino Internacional.
+el límite urbano oriente; a través de:
 
-. El sistema vial que interconecta la Ruta 60 CH
+San Rafael, Av. Argentina Poniente,
 
-con la Ruta-57CH, a través de: Av. Santa Teresa
+Av. Argentina, Av. Argentina Oriente,
 
-y Calle Larga, desde su intersección con Av.
+General Del Canto y Camino Internacional
 
-Argentina hasta el límite urbano Sur, y el tramo
+a Mendoza.
 
-urbano del By Pass Auco-Los Andes, desde el
+. El sistema vial que interconecta la
 
-límite urbano Oriente hasta su intersección con
+Ruta 60 CH con la Ruta-57CH, a
 
-la Ruta 60 CH; a través de By Pass Auco - Los
+través de: Av. Santa Teresa y Calle
 
-Andes.
+Larga, desde su intersección con
+
+Av. Argentina hasta el límite urbano
+
+Sur, y el tramo urbano del By Pass
+
+Auco-Los Andes, desde el límite urbano
+
+Oriente hasta su intersección con
+
+la Ruta 60 CH; a través de By Pass
+
+Auco - Los Andes.
 
 San Antonio:
 
-. El tramo urbano de la Ruta G-82, desde el límite
+. El tramo urbano de la Ruta G-82,
 
-urbano Oriente hasta la intersección de Av.
+desde el límite urbano Oriente hasta
 
-Balmaceda con Av. Centenario; a través de Camino de
+la intersección de Av. Balmaceda con
+
+Av. Centenario; a través de Camino de
 
 Acceso a San Antonio.
 
-. El tramo urbano de la Ruta 78, desde la entrada Sur
+. El tramo urbano de la Ruta 78, desde
 
-al Recinto Portuario hasta el límite urbano
+la entrada Sur al Recinto Portuario
 
-Oriente; a través de: 1º de Enero, Aníbal Pinto,
+hasta el límite urbano Oriente;
+
+a través de: 1º de Enero, Aníbal Pinto,
 
 Diputado Carlos Demarchi, 10 Sur y Av.
 
 Circunvalación Barrancas.
 
-. El tramo urbano de la Ruta 66, desde la Ruta G-904
+. El tramo urbano de la Ruta 66, desde
 
-hasta el límite urbano Sur; a través de Calle del
+la Ruta G-904 hasta el límite urbano
 
-Puente. Y su prolongación al Norte hasta Av.
+Sur; a través de Calle del Puente.
 
-Circunvalación Barrancas; a través de Av. Chile.
+Y su prolongación al Norte hasta Av.
 
-. El tramo urbano de la Ruta G-904, desde la Ruta 66
+Circunvalación Barrancas; a través
 
-hasta el límite urbano Sur; a través de Camino San
+de Av. Chile.
 
-Juan - Leyda.
+. El tramo urbano de la Ruta G-904,
+
+desde la Ruta 66 hasta el límite urbano
+
+Sur; a través de Camino San Juan - Leyda.
+
+. Sistema Vial Urbano que conecta
+
+la Ruta G-82 con el Puerto de Panul, a
+
+través de: Camino Viejo a Santiago-
+
+Cartagena, Camino de Acceso al
+
+Muelle Panul y Av. Antonio Núñez de
+
+Fonseca.
 
 San Felipe:
 
-. El tramo urbano de la Ruta 60 CH nuevo trazado en
+. El tramo urbano de la Ruta 60 CH
 
-construcción, desde el límite urbano Poniente hasta
+nuevo trazado en construcción, desde el
 
-el límite urbano Oriente; a través de nuevo trazado
+límite urbano Poniente hasta el límite
+
+urbano Oriente; a través de nuevo trazado
 
 en construcción.
 
-. El tramo urbano de la Ruta E-85 desde su conexión
+. El tramo urbano de la Ruta E-85 desde
 
-con la Ruta 60 CH nuevo trazado en construcción
+trazado su conexión con la Ruta 60 CH
 
-hasta el límite urbano Oriente; a través de Nueva
+nuevo en construcción hasta el límite
+
+urbano Oriente; a través de Nueva
 
 Avenida Circunvalación y Tocornal.
 
-. El tramo urbano de la Ruta 60 CH, desde el límite
+. El tramo urbano de la Ruta 60 CH, desde
 
-urbano Poniente hasta el límite urbano Oriente; a
+el límite urbano Poniente hasta el límite
 
-través de Ruta 60.
+urbano Oriente; a través de Ruta 60.
 
-. El tramo urbano de la Ruta E-71, desde el límite
+. El tramo urbano de la Ruta E-71, desde
 
-urbano Norte hasta el límite urbano Sur; a través
+el límite urbano Norte hasta el límite
 
-de: Camino a Encón, Alameda Maipú y J.M. Velasco.
+urbano Sur; a través de: Camino a Encón,
 
-. El tramo urbano de la Ruta E-89, desde Ruta 60 CH
+Alameda Maipú y J.M. Velasco.
 
-hasta el límite urbano Sur; a través de San Martín.
+. El tramo urbano de la Ruta E-89, desde
+
+Ruta 60 CH hasta el límite urbano Sur;
+
+a través de San Martín.
 
 4º Declárese Caminos Públicos en las áreas urbanas de las siguientes Ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
@@ -431,6 +529,14 @@ Olmué
 EL QUISCO
 
 . El tramo urbano que permite dar continuidad a la ruta G-986, en el sector de la desembocadura del Estero El Totoral, a través de: Camino Antiguo San Antonio - Algarrobo.
+
+LOS ANDES - SAN ESTEBAN
+
+. Sistema Vial Urbano que interconecta las Rutas E-85, E-741 y E-61, a través de: Los Olmos, Callejón Las Juntas, puente sobre río Aconcagua y Avda. Salvador Allende.
+
+PUCHUNCAVÍ
+
+. El tramo urbano de la Ruta F-180, a través de vía troncal VT-8q.
 
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
