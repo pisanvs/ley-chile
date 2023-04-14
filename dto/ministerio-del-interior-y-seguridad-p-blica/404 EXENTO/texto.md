@@ -72,23 +72,7 @@ I.N.R.V.M. DWZC.67-1
 
 Patente DWZC.67.
 
-4.- Vehículo STATION WAGON
-
-Marca TOYOTA
-
-Modelo RAV4 4x4 LUJO 2.0 MT EURO 5
-
-Año 2019
-
-Motor 3ZR2B71639
-
-Chasis JTMBD8EV6KJ033128
-
-Color GRIS OSCURO METÁLICO
-
-I.N.R.V.M. KTJJ.44-2
-
-Patente KTJJ.44.
+4.- Derogado.
 
 5.- Vehículo AUTOMÓVIL
 
@@ -272,23 +256,7 @@ I.N.R.V.M. FYZL.93-8
 
 Patente FYZL.93.
 
-4.- Vehículo AUTOMÓVIL
-
-Marca HYUNDAI
-
-Modelo ELANTRA FL GLS 1.6
-
-Año 2016
-
-Motor G4FGFU020876
-
-Chasis KMHDH41CAGU626394
-
-Color PLATEADO
-
-I.N.R.V.M. HSHV.18-3
-
-Patente HSHV.18.
+4.- Derogado.
 
 5.- Vehículo STATION WAGON
 
@@ -343,6 +311,8 @@ Color PLATEADO SILVER METÁLICO
 I.N.R.V M. JYRG.77-3
 
 Patente JYRG.77.
+
+> **Nota.** El artículo segundo del Decreto 238 Exento, Interior, dispone derogar en lo relativo al vehículo placa patente FBFB.47-8, el cual no se encuentra contenido en el artículo primero de la presente norma.
 
 #### Artículo segundo
 

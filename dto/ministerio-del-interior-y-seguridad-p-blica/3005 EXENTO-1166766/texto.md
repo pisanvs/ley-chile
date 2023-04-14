@@ -160,25 +160,7 @@ I.N.R.V.M.: FXXZ.20-7
 
 Placa Única FXXZ.20
 
-2.-
-
-Vehículo: Station Wagon
-
-Marca: Toyota
-
-Modelo: RAV 4 2.0
-
-Año: 2019
-
-Motor: 3ZR2B71639
-
-Chasis: JTMBD8EV6KJ033128
-
-Color: Gris oscuro metálico
-
-I.N.R.V.M.: KTJJ.44-2
-
-Placa Única: KTJJ.44
+2.- Derogado.
 
 3.-
 
