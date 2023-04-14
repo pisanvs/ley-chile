@@ -18,7 +18,7 @@ En lo que respecta a las relaciones con las Delegaciones Presidenciales Regional
 
 #### Artículo 1° bis
 
-La Policía de Investigaciones de Chile, como parte de la Administración del Estado, está al servicio de la comunidad y sus acciones se orientarán a la prevención, control y restablecimiento del orden y la seguridad pública, así como a otras que le asignen las leyes.
+La Policía de Investigaciones de Chile, como parte de la Administración del Estado, está al servicio de la comunidad y sus acciones se orientarán a la investigación especializada de todos los delitos, especialmente aquellos complejos y relacionados con el crimen organizado, contribuyendo a evitar la perpetración de hechos delictuosos y de actos atentatorios contra la estabilidad de los organismos del Estado. Además, deberá efectuar el control de ingreso y egreso de personas al territorio nacional, fiscalizar la permanencia de extranjeros en el mismo y desarrollar otras funciones que le encomienden las leyes.
 
 En el ejercicio de sus funciones, el personal de la Policía de Investigaciones de Chile deberá respetar, proteger y garantizar, sin discriminaciones arbitrarias, los derechos humanos y libertades reconocidos por la Constitución Política de la República, las leyes y los tratados internacionales ratificados por Chile y que se encuentren vigentes.
 
