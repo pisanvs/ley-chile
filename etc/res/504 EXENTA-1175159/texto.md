@@ -48,8 +48,6 @@ Para efectos del presente Llamado, y en relación a lo señalado en el inciso se
 
 3. Los recursos involucrados para la selección de grupos postulantes por Región, comuna y área, según corresponda, son los siguientes:
 
-.
-
 El número de grupos a seleccionar en cada Región alcanzará hasta el número de subsidios susceptibles de ser financiados con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de Asistencia Técnica y Fiscalización Técnica de Obras, pudiendo practicarse redistribuciones y/o aumentos, los que serán sancionados mediante resolución.
 
 Para los efectos de imputar los recursos de este llamado, se considerará por beneficiario un monto promedio de subsidio de construcción de 950 Unidades de Fomento (UF), más el subsidio correspondiente a la adquisición de terreno a que hace referencia la letra a) del Resuelvo 7. de la presente resolución, y los recursos destinados al pago de la Asistencia Técnica y Fiscalización Técnica de Obras.
@@ -292,9 +290,7 @@ Por otra parte, podrán adscribir a viviendas en nómina de postulaciones selecc
 
 > **Nota.** NOTA 4 Las letras a, b y c del numeral 1.5 del numero 5 de la Resolución 1253 Exenta, Vivienda, publicada el 28.09.2022, modifican el cuadro inserto en la letra b) del resuelvo 7 en el sentido de reemplazar la fila correspondiente al subsidio base la oración inicial "1.250 UF para proyectos de hasta 40 Viviendas", por "1.250 UF para proyectos de hasta 70 Viviendas, eliminar en la fila correspondiente al subsidio base, la segunda oración "1.045 UF para proyectos sobre 40 y hasta 70 viviendas", pasando la tercera oración a ser la segunda y reemplazar en la fila correspondiente al "Subsidio de Habilitación para proyectos de la tipología de Construcción en Nuevos Terrenos" por la que la citada norma indica.
 
-> **Nota.** NOTA 5 La letra b del numeral 1 de la Resolución 1595 Exenta, Vivienda, publicada el 03.12.2022, modifica la presente norma en el sentido de reemplazar las filas correspondientes a la Región del Maule y la Región de Los Ríos por las que la citada norma indica.
-
-> **Nota.** NOTA 6 La letra c del numeral 1 de la Resolución 1595 Exenta, Vivienda, publicada el 03.12.2022, modifica la presente norma en el sentido de sustituir la fila Áreas Verdes de la tabla inserta en el número iv, del numeral iii), de la letra a) del presente resuelvo 7, por la que la citada norma indica.
+> **Nota.** NOTA 6 La letra c del numeral 1 de a Resolución 1595 Exenta, publicada el 03.12.2022, modifica la presente norma en el sentido de sustituir la fila Áreas Verdes de la tabla inserta en el número iv, del numeral iii), de la letra a), del Resuelvo 7, referida al ÁMBITO: ÁREAS VERDES, INDICADOR: distancia máxima recorrible peatonalmente a través de un bien nacional de uso público existente o en ejecución, desde el punto más cercano del terreno por la que la citada norma indica.
 
 Anótese, publíquese, comuníquese y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
