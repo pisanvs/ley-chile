@@ -2170,6 +2170,8 @@ b) Asistencia médica curativa que incluye consulta, exámenes y procedimientos 
 
 c) Atención odontológica, en la forma que determine el reglamento.
 
+La mamografía contenida en el Examen de Medicina Preventiva, y que fuere solicitada de acuerdo con la frecuencia establecida por el Ministerio de Salud, no requerirá de la orden médica respectiva para respaldar el otorgamiento del examen imagenológico. Asimismo, los prestadores deberán informar a los beneficiarios su carácter gratuito, por hallarse comprendido en el examen señalado en la letra a) del inciso primero de este artículo. El prestador que tome ese examen tendrá la obligación de informar al paciente en caso de resultado alterado o que deba complementar con estudios adicionales. La Superintendencia de Salud emitirá las instrucciones requeridas para dar fiel cumplimiento a lo dispuesto en este inciso.
+
 #### Artículo 139
 
 Toda mujer embarazada tendrá derecho a protección del Estado durante el embarazo y hasta el sexto mes del nacimiento del hijo, la que comprenderá el control del embarazo y puerperio.
