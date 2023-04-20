@@ -24,7 +24,7 @@ b) Que no se presentaron oposiciones a la publicación en extracto de la solicit
 
 Decreto:
 
-Otórgase concesión de Servicio Público de Voz Sobre Internet, a la empresa Uxtal SpA, RUT Nº 77.096.413-K, con domicilio en Armando Carrera Nº 5218, comuna de Ñuñoa, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:
+Otórgase concesión de Servicio Público de Voz Sobre Internet, a la empresa Uxtel SpA, RUT Nº 77.096.413-K, con domicilio en Armando Carrera Nº 5218, comuna de Ñuñoa, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:
 
 1. Autorízase a la concesionaria para instalar, operar y explotar un nodo ubicado en calle Europa Nº 1969, comuna de Providencia, Región Metropolitana de Santiago.
 
