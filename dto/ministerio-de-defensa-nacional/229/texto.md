@@ -336,13 +336,13 @@ Para ingresar a los cursos de Aspirantes a Oficiales de Orden y Seguridad y de I
 
 a) Ser chileno;
 
-b) No tener menos de 17 ni más de 21 años de edad a la fecha de ingreso al curso;
+b) No tener menos de 18 ni más de 30 años a la fecha de ingreso al curso;
 
 c) Ser soltero;
 
 d) Haber cumplido con la Ley de Reclutamiento;
 
-e) Estatura mínima sin calzado, 1,55 metros las Aspirantes a Oficiales Femeninas, y 1,65 metros, los Aspirantes a Oficiales del Escalafón Masculino;
+e) Estatura mínima sin calzado, 1,50 metros las Aspirantes a Oficiales Femeninas, y 1,60 metros, los Aspirantes a Oficiales Masculinos;
 
 f) No encontrarse declarado reo, ni haber sido condenado por resolución ejecutoriada en crimen o simple delito, ni delitos políticos, o suspendido por Sumario Administrativo;
 
@@ -350,7 +350,7 @@ g)Cédula de identidad al día;
 
 h) Haber completado satisfactoriamente la enseñanza media científico humanística, en cursos regulares, para todos los escalafones; los postulantes al escalafón de Intendencia podrán acreditar enseñanza comercial completa;
 
-i) No tener defectos físicos notorios;
+i) Suprimido;
 
 j) Salud y dentadura en buen estado, compatible con las exigencias del servicio, acreditados con certificados extendidos por los respectivos servicios de Carabineros;
 
