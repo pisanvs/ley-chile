@@ -12,15 +12,15 @@ Autorízase a la Empresa Nacional de Minería, ENAMI, para transferir, a título
 
 La autorización que se concede por esta ley a la Empresa Nacional de Minería se entenderá sin perjuicio de las funciones sobre fomento a la pequeña y la mediana minería que el decreto con fuerza de ley Nº 153, de 1960, del Ministerio de Hacienda, establece para esa empresa del Estado.
 
-Ambas instituciones deberán suscribir los convenios que sean necesarios para la contratación, a precios de mercado, de servicios suministrados por la Fundición y Refinería Las Ventanas, para asegurar el cumplimiento, por parte de la Empresa Nacional de Minería, de la atención y fomento que su estatuto orgánico dispone respecto de la pequeña y la mediana minería.
+Ambas instituciones deberán suscribir los convenios que sean necesarios para la contratación, a precios de mercado, de servicios suministrados por Codelco-Chile, sus fundiciones y refinerías y preferentemente la División Ventanas, para asegurar el cumplimiento, por parte de la Empresa Nacional de Minería, de la atención y fomento que su estatuto orgánico dispone respecto de la pequeña y la mediana minería.
 
-La Empresa Nacional de Minería ejecutará las obligaciones que emanan de la Política de Fomento para la Pequeña y Mediana Minería, que defina el Ministerio de Minería. Para el cumplimiento de tales obligaciones, el adquirente Codelco-Chile deberá mantener, en la Fundición y Refinería Las Ventanas, la capacidad de fusión y refinación necesaria para garantizar, sin restricción ni limitación alguna, el tratamiento de los productos de la pequeña y mediana minería que envíe la Empresa Nacional de Minería, en modalidad de maquila, u otra que acuerden las partes.
+La Empresa Nacional de Minería ejecutará las obligaciones que emanan de la Política de Fomento para la Pequeña y Mediana Minería, que defina el Ministerio de Minería. Para el cumplimiento de tales obligaciones, el adquirente Codelco-Chile deberá garantizar, sin restricción ni limitación alguna, el tratamiento de los productos de la pequeña y mediana minería que envíe la Empresa Nacional de Minería, en modalidad de maquila, u otra que acuerden las partes. Asimismo, Codelco-Chile deberá mantener la capacidad de recepción de dichos minerales y garantizar la materia prima y el flujo que permita el pleno funcionamiento de la Refinería Las Ventanas, ambas en la División Ventanas.
 
 En las transferencias o aportes que efectúe Codelco-Chile en conformidad a este artículo, los terceros adquirentes deberán obligarse, incondicional e irrevocablemente, al cumplimiento de lo dispuesto en el inciso anterior.
 
 En los convenios que deberán suscribir la Empresa Nacional de Minería y Codelco-Chile en los términos establecidos en este artículo, se deberá estipular que los cargos y condiciones de tratamiento de los productos de la pequeña y mediana minería serán establecidos en el decreto supremo que fije la política de fomento del sector.
 
-Codelco-Chile no podrá transferir o dar en aporte a terceros todo o parte de la Fundición y Refinería Las Ventanas sin autorización legal previa otorgada al efecto.
+Codelco-Chile no podrá transferir o dar en aporte a terceros todo o parte de la Fundición y Refinería Las Ventanas sin autorización legal previa otorgada al efecto, salvo para dar cumplimiento a lo dispuesto en la ley N° 20.551, que regula el cierre de faenas e instalaciones mineras.
 
 La restricción impuesta en el inciso anterior se entenderá sin perjuicio de la necesaria reposición y renovación de bienes muebles, inmuebles y equipos que la operación industrial del complejo demande.
 
