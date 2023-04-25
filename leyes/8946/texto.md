@@ -54,7 +54,9 @@ Corresponderá a los Servicios de Vivienda y Urbanización fiscalizar las obras 
 
 Las Municipalidades podrán fiscalizar las obras de pavimentación, cuando el Servicio de Vivienda y Urbanización les delegue esta facultad por convenir a la buena marcha de las obras.
 
-Los Servicios de Vivienda y Urbanización cobrarán un derecho único de inspección, cuyo monto se fijará anualmente por resoluciones del Ministro de Vivienda y Urbanismo, y que será independiente de los derechos municipales aplicables conforme al decreto ley Nº 3.063, de 1979.
+El Servicio de Vivienda y Urbanización podrá delegar esta facultad por convenir a la buena marcha de las obras, en municipios u organizaciones inscritas en el Registro de Inspección del Ministerio de Vivienda y Urbanismo.
+
+Esta delegación deberá efectuarse por resolución, la que fijará las condiciones técnicas para la fiscalización, recepción de obras, su seguimiento durante el periodo de garantía legal y las modalidades para informar al Servicio de las etapas de la fiscalización efectuada.
 
 Los particulares podrán, a su costa, ejecutar obras de pavimentación sujetos a la fiscalización de los Servicios de Vivienda y Urbanización.
 

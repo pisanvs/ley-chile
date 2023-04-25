@@ -12,213 +12,351 @@ Regularización de Viviendas
 
 #### Artículo 1º
 
-Los propietarios de viviendas que no cuenten con recepción definitiva, total o parcial, emplazadas en áreas urbanas o rurales, podrán, dentro del plazo de seis años contado desde la publicación de esta ley, obtener los permisos de edificación y de recepción definitiva, siempre que las viviendas cumplan, además, los siguientes requisitos:
+Los propietarios de viviendas que no cuenten con recepción definitiva, total o parcial, emplazadas en áreas urbanas o rurales, podrán hasta el 31 de diciembre del 2025 obtener los permisos de edificación y de recepción definitiva, siempre que las viviendas cumplan, además, los siguientes requisitos:
 
-1) Haber sido construidas antes de la publicación de
+1) Haber sido construidas antes
 
-esta ley.
+de la publicación de esta ley.
 
-2) No estar emplazadas en áreas de riesgo o
+2) No estar emplazadas en áreas
 
-protección, en terrenos declarados de utilidad
+de riesgo o protección, en
 
-pública o en bienes nacionales de uso público.
+terrenos declarados de utilidad
 
-Tratándose de áreas urbanas, deberán estar
+pública o en bienes nacionales
 
-emplazadas en suelo que admita el uso residencial.
+de uso público. Tratándose de
 
-3) Tener un avalúo fiscal de hasta 1.000 unidades de
+áreas urbanas, deberán estar
 
-fomento. El avalúo se acreditará con el
+emplazadas en suelo que
 
-certificado otorgado por el Servicio de Impuestos
+admita el uso residencial.
 
-Internos.
+3) Tener un avalúo fiscal de
 
-4) Tener una superficie cuyos recintos habitables,
+hasta 1.000 unidades de fomento.
 
-incluidos baños y cocina, no exceda de 90 metros
+El avalúo se acreditará con el
 
-cuadrados.
+certificado otorgado por el
 
-5) No tener, a la fecha de ingreso de la solicitud de
+Servicio de Impuestos Internos;
 
-regularización, reclamaciones escritas pendientes
+excepto en casos de viviendas
 
-por incumplimiento de normas urbanísticas ante la
+que sean beneficiadas por
 
-dirección de obras municipales o el juzgado de
+subsidios del Ministerio
 
-policía local respectivo.
+de Vivienda y Urbanismo
 
-6) Cumplir con las normas que se indican a
+para el mejoramiento y/o
 
-continuación, para garantizar la habitabilidad,
+ampliación de la vivienda,
 
-seguridad y estabilidad de las viviendas, y con
+caso en el que podrá
 
-aquellas aplicables a las instalaciones interiores
+superar el referido avalúo.
 
-de electricidad, agua potable, alcantarillado y
+4) Tener una superficie cuyos
+
+recintos habitables, incluidos
+
+baños y cocina, no exceda de
+
+90 metros cuadrados;
+
+excepto en casos de
+
+viviendas que sean
+
+beneficiadas por
+
+subsidios del
+
+Ministerio de Vivienda
+
+y Urbanismo para el
+
+mejoramiento y/o
+
+ampliación de la
+
+vivienda, caso en el
+
+que podrá superar
+
+dicha superficie.
+
+5) No tener, a la fecha de
+
+ingreso de la solicitud de
+
+regularización, reclamaciones
+
+escritas pendientes por
+
+incumplimiento de normas
+
+urbanísticas ante la dirección
+
+de obras municipales o el
+
+juzgado de policía local
+
+respectivo.
+
+6) Cumplir con las normas que
+
+se indican a continuación,
+
+para garantizar la habitabilidad,
+
+seguridad y estabilidad de
+
+las viviendas, y con aquellas
+
+aplicables a las instalaciones
+
+interiores de electricidad,
+
+agua potable, alcantarillado y
 
 gas, que correspondan:
 
 MATERIA NORMAS DE HABITABILIDAD
 
-Altura La altura mínima de piso a cielo, medida en
+Altura La altura mínima de piso
 
-obra terminada, que debe ser de 2,30 metros,
+a cielo, medida en obra
 
-podrá ser rebajada hasta 2,0 metros. La
+terminada, que debe ser
 
-medida vertical mínima de obra terminada en
+de 2,30 metros, podrá ser
 
-pasadas peatonales bajo vigas o instalaciones
+rebajada hasta 2,0 metros.
 
-horizontales de 2,0 metros podrá ser rebajada
+La medida vertical mínima
 
-hasta en un 10%.
+de obra terminada en pasadas
 
-Terminación El estándar de terminaciones no podrá ser
+peatonales bajo vigas o
 
-Interior inferior al definido en la Ordenanza General
+instalaciones horizontales
 
-de Urbanismo y Construcciones para una obra
+de 2,0 metros podrá ser
+
+rebajada hasta en un 10%.
+
+Terminación El estándar de terminaciones
+
+Interior no podrá ser inferior al
+
+definido en la Ordenanza
+
+General de Urbanismo y
+
+Construcciones para una obra
 
 gruesa habitable.
 
-Ventilación Los locales habitables deberán tener, al
+Ventilación Los locales habitables deberán
 
-menos, una ventana que permita la entrada de
+tener, al menos, una ventana
+
+que permita la entrada de
 
 aire y luz del exterior.
 
-Sin embargo, se admitirán ventanas fijas
+Sin embargo, se admitirán
 
-selladas siempre que se contemplen ductos de
+ventanas fijas selladas siempre
 
-ventilación adecuados y que no se trate de
+que se contemplen ductos de
 
-dormitorios o recintos en los que se consulten
+ventilación adecuados y que
 
-artefactos de combustión de cualquier tipo.
+no se trate de dormitorios
 
-No obstante lo anterior, los baños, cocinas y
+o recintos en los que se
 
-lavaderos, cuando no contemplen ventana al
+consulten artefactos de
 
-exterior que permita la renovación de aire,
+combustión de cualquier tipo.
 
-deberán ventilarse mediante un ducto,
+No obstante lo anterior, los
 
-individual o colectivo, de sección libre no
+baños, cocinas y lavaderos,
 
-interrumpida de, al menos, 0,16 m2;. La
+cuando no contemplen ventana
 
-dimensión señalada podrá reducirse en caso
+al exterior que permita la
 
-de contemplarse tiraje forzado.
+renovación de aire, deberán
+
+ventilarse mediante un ducto,
+
+individual o colectivo, de
+
+sección libre no interrumpida
+
+de, al menos, 0,16 m2;. La
+
+dimensión señalada podrá
+
+reducirse en caso de
+
+contemplarse tiraje forzado.
 
 MATERIA NORMAS DE SEGURIDAD CONTRA INCENDIOS
 
-Resistencia Las viviendas aisladas, pareadas o continuas,
+Resistencia Las viviendas aisladas,
 
-al Fuego de hasta dos pisos, cuya superficie edificada
+al Fuego pareadas o continuas, de
 
-sea inferior o igual a 90 m2, tendrán una
+hasta dos pisos, cuya
 
-resistencia al fuego a lo menos F-15 en todos
+superficie edificada sea
 
-sus elementos y componentes soportantes,
+inferior o igual a 90 m2,
 
-siempre que el muro de adosamiento o muro
+tendrán una resistencia
 
-divisorio, según corresponda, cumpla con las
+al fuego a lo menos F-15
 
-exigencias de muros divisorios entre unidades
+en todos sus elementos y
 
-de la Ordenanza General de Urbanismo y
+componentes soportantes,
 
-Construcciones.
+siempre que el muro de
 
-Adosamientos Tratándose de edificaciones adosadas al
+adosamiento o muro
 
-deslinde, el muro de adosamiento deberá
+divisorio, según corresponda,
 
-llegar hasta la cubierta del cuerpo adosado
+cumpla con las exigencias
 
-con resistencia al fuego F-60. Además, el
+de muros divisorios entre
 
-adosamiento deberá contemplar un sistema de
+unidades de la Ordenanza
 
-evacuación de aguas lluvia que no afecte a
+General de Urbanismo
 
-los predios vecinos.
+y Construcciones.
+
+Adosamientos Tratándose de edificaciones
+
+adosadas al deslinde, el muro
+
+de adosamiento deberá llegar
+
+hastala cubierta del cuerpo
+
+adosado con resistencia al
+
+fuego F-60. Además, el
+
+adosamiento deberá contemplar
+
+un sistema de evacuación de
+
+aguas lluvia que no afecte
+
+a los predios vecinos.
 
 MATERIA NORMAS DE ESTABILIDAD
 
-Cálculo No se exigirá proyecto de cálculo
+Cálculo No se exigirá proyecto de
 
-Estructural estructural en los casos que a
+Estructural cálculo estructural en los
 
-continuación se indica:
+casos que a continuación
 
-a) Viviendas de estructura de madera, de un
+se indica:
 
-máximo de dos pisos, con entramados de
+a) Viviendas de estructura de
 
-pisos de madera, cuyas habitaciones no
+madera, de un máximo de dos
 
-tengan más de 3,0 metros de distancia
+pisos, con entramados de
+
+pisos de madera, cuyas
+
+habitaciones no tengan más
+
+de 3,0 metros de distancia
 
 entre apoyos.
 
-b) Viviendas de estructura de albañilería
+b) Viviendas de estructura de
 
-armada o reforzada, o de hormigón armado,
+albañilería armada o
 
-de un máximo de un piso, cuyas
+reforzada, o de hormigón
 
-habitaciones no tengan más de 3,0 metros
+armado, de un máximo de un
+
+piso, cuyas habitaciones no
+
+tengan más de 3,0 metros
 
 de distancia entre apoyos.
 
-c) Viviendas de estructura en primer piso
+c) Viviendas de estructura en
 
-de albañilería armada o reforzada, o de
+primer piso de albañilería
 
-hormigón armado, de un máximo de dos
+armada o reforzada, o de
 
-pisos con entramados de pisos de madera,
+hormigón armado, de un
 
-cuyas habitaciones no tengan más de
+máximo de dos pisos con
 
-3,0 metros de distancia entre apoyos,
+entramados de pisos de
 
-siempre que la estructura del segundo
+madera, cuyas habitaciones
+
+no tengan más de 3,0
+
+metros de distancia entre
+
+apoyos, siempre que la
+
+estructura del segundo
 
 piso sea liviana.
 
-En estos casos el profesional competente
+En estos casos el profesional
 
-deberá declarar que la obra reúne las
+competente deberá declarar
 
-condiciones de estabilidad, respecto del
+que la obra reúne las
 
-tipo de construcción de que se trate, o que
+condiciones de estabilidad,
 
-cumple con las condiciones mínimas de los
+respecto del tipo de
 
-elementos de construcción no sometidos a
+construcción de que se trate,
 
-cálculo de estabilidad, exigidas en el
+o que cumple con las
 
-Capítulo 6 del Título 5 de la Ordenanza
+condiciones mínimas de los
 
-General de Urbanismo y Construcciones, que
+elementos de construcción
 
-les sean aplicables.
+no sometidos a cálculo de
+
+estabilidad, exigidas en
+
+el Capítulo 6 del Título 5
+
+de la Ordenanza General de
+
+Urbanismo y Construcciones,
+
+que les sean aplicables.
 
 #### Artículo 2º
 
@@ -236,7 +374,7 @@ d) Certificado de avalúo a la fecha de publicación de esta ley, otorgado por e
 
 La dirección de obras municipales, dentro de los noventa días hábiles siguientes a la presentación de la solicitud, revisará exclusivamente el cumplimiento de las normas urbanísticas a que se refiere el número 2) del artículo 1º de esta ley y, con el solo mérito de los documentos a que alude el presente artículo, otorgará el correspondiente certificado de regularización, si fuere procedente.
 
-Las regularizaciones que se efectúen de conformidad a este artículo pagarán los derechos municipales establecidos en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados en 75% cuando el valor de la construcción no supere las 400 unidades de fomento y en un 50% cuando exceda esa cantidad. Si el propietario de la vivienda a regularizar tiene 65 años de edad o más, o si uno de los residentes de la misma estuviere inscrito en el Registro Nacional de la Discapacidad al que se refieren los artículos 55 y 56 de la ley Nº 20.422, la exención será de un 100% de los derechos municipales. La edad del propietario de la vivienda se acreditará con la cédula de identidad y la discapacidad con la inscripción en el Registro Nacional de Discapacidad.
+Las regularizaciones que se efectúen de conformidad a este artículo pagarán los derechos municipales establecidos en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados en 75% cuando el valor de la construcción no supere las 400 unidades de fomento y en un 50% cuando exceda esa cantidad. Si el propietario de la vivienda a regularizar tiene 65 años de edad o más, o si uno de los residentes de la misma estuviere inscrito en el Registro Nacional de la Discapacidad al que se refieren los artículos 55 y 56 de la ley Nº 20.422, la exención será de un 100% de los derechos municipales. La edad del propietario de la vivienda se acreditará con la cédula de identidad y la discapacidad con la inscripción en el Registro Nacional de Discapacidad. A estos proyectos no les será aplicable lo dispuesto en el artículo 70 del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones.
 
 #### Artículo 3º
 
@@ -271,6 +409,8 @@ Las regularizaciones que se efectúen de conformidad al presente artículo pagar
 ## Título II
 
 Regularización de edificaciones destinadas a Microempresas Inofensivas o Equipamiento Social
+
+> **Nota.** El artículo 2º de la Ley 21.415, publicada el 04.02.2022, dispone renovar la vigencia de las disposiciones del presente Título II por el tiempo que reste hasta completar el plazo de siete años desde la publicación de esta ley.
 
 #### Artículo 4º
 

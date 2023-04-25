@@ -206,13 +206,13 @@ Entre las etapas de dicho procedimiento operativo deberá incluirse la participa
 
 La Mesa de Evaluación aprobará, observará o rechazará la adquisición de cada terreno propuesto, de lo que deberá dejarse constancia en las actas de las respectivas sesiones, las que servirán de base para la dictación de la resolución fundada del Ministro de Vivienda y Urbanismo, referida en el primer párrafo de este literal.
 
-f) El Ministerio de Vivienda y Urbanismo deberá destinar los terrenos adquiridos bajo esta modalidad al desarrollo de proyectos para atender a personas, entidades y/o grupos que cumplan con los criterios y requisitos para la postulación y selección, individual o colectiva, establecidos en la normativa aplicable al programa Fondo Solidario de Elección de Vivienda o a otros programas destinados preferentemente a las familias ubicadas en el tramo del 40% más vulnerable de la población.
+f) El Ministerio de Vivienda y Urbanismo deberá destinar los terrenos adquiridos bajo esta modalidad al desarrollo de proyectos para atender a personas, entidades y/o grupos que cumplan con los criterios y requisitos para la postulación y selección, individual o colectiva, establecidos en la normativa aplicable al programa Fondo Solidario de Elección de Vivienda, al programa de Integración Social y Territorial o a los programas del Ministerio de Vivienda y Urbanismo para la construcción de viviendas de interés público.
 
 g) El Ministerio podrá condicionar la destinación de mayores recursos para la adquisición de un terreno al cumplimiento de exigencias adicionales por parte del comité de vivienda, entidad o grupo organizado que se adjudique dicho terreno, tales como la acreditación de un mayor ahorro por parte de las familias que lo conforman.
 
 #### Artículo 2
 
-El Ministerio de Vivienda y Urbanismo, con el objeto de financiar la adquisición y/o habilitación de terrenos para proyectos destinados preferentemente a familias ubicadas en el tramo del 40% más vulnerable de la población, podrá efectuar llamados en condiciones especiales para el otorgamiento de subsidios a comités de vivienda o a otras entidades o grupos organizados que puedan postular al programa Fondo Solidario de Elección de Vivienda o aquel que lo reemplace, como a las cooperativas de vivienda, por montos superiores a los establecidos en el respectivo decreto supremo, siempre que se trate de la adquisición y/o habilitación de terrenos para el desarrollo de proyectos que se emplacen en sectores con adecuados indicadores y estándares de desarrollo urbano y de acceso a bienes públicos, conforme a los criterios que el Ministerio establezca mediante resolución.
+El Ministerio de Vivienda y Urbanismo, con el objeto de financiar la adquisición y/o habilitación de terrenos para proyectos destinados preferentemente a familias ubicadas en el tramo del 40% más vulnerable de la población, podrá efectuar llamados en condiciones especiales para el otorgamiento de subsidios a comités de vivienda o a otras entidades o grupos organizados que puedan postular al programa Fondo Solidario de Elección de Vivienda o aquel que lo reemplace, o para la construcción de viviendas de interés público, como a las cooperativas de vivienda, por montos superiores a los establecidos en el respectivo decreto supremo, siempre que se trate de la adquisición y/o habilitación de terrenos para el desarrollo de proyectos que se emplacen en sectores con adecuados indicadores y estándares de desarrollo urbano y de acceso a bienes públicos, conforme a los criterios que el Ministerio establezca mediante resolución.
 
 El porcentaje máximo a comprometer por esta vía será definido anualmente en la Ley de Presupuestos del Sector Público.
 
@@ -224,7 +224,7 @@ De la habilitación normativa de terrenos
 
 #### Artículo 3
 
-El Ministerio de Vivienda y Urbanismo, atendida la necesidad de viabilizar la construcción de viviendas para beneficiarios del programa Fondo Solidario de Elección de Vivienda o del programa destinado preferentemente a las familias más vulnerables que lo reemplace, podrá establecer normas urbanísticas especiales aplicables a uno o más terrenos, en forma excepcional y dando cumplimiento a lo dispuesto en este Párrafo y en las normas reglamentarias que pudieren dictarse al efecto.
+El Ministerio de Vivienda y Urbanismo, atendida la necesidad de viabilizar la construcción de viviendas para beneficiarios del programa Fondo Solidario de Elección de Vivienda o del programa destinado preferentemente a las familias más vulnerables que lo reemplace, podrá establecer normas urbanísticas especiales aplicables a uno o más terrenos, en forma excepcional y dando cumplimiento a lo dispuesto en este Párrafo y en las normas reglamentarias que pudieren dictarse al efecto. Adicionalmente, el Ministerio podrá establecer normas urbanísticas especiales para el o los terrenos destinados a la construcción de viviendas de interés público.
 
 Este mecanismo excepcional sólo podrá ser aplicado respecto de terrenos que se encuentren inscritos a nombre del Servicio Regional de Vivienda y Urbanización respectivo o de otro órgano que integre la Administración del Estado.
 
@@ -232,7 +232,7 @@ También podrá aplicarse respecto de terrenos sobre los cuales exista una prome
 
 Respecto de terrenos de propiedad de un comité de vivienda, entidad o grupo organizado o sobre los cuales exista una promesa de compraventa en favor de éstos, en ambos casos inscritos o firmadas con anterioridad a la entrada en vigencia de esta ley, excepcionalmente podrá aplicarse el mecanismo contemplado en este Párrafo, previa calificación del Servicio Regional de Vivienda y Urbanización.
 
-En todos los casos referidos en los incisos precedentes, las normas urbanísticas especiales que se establezcan para el o los terrenos sólo podrán ser aplicadas para la construcción del o los proyectos acogidos al referido programa que justificaron el uso de esta facultad excepcional y no para la ejecución de proyectos que tengan un objeto distinto.
+En todos los casos referidos en los incisos precedentes, las normas urbanísticas especiales que se establezcan para el o los terrenos sólo podrán ser aplicadas para la construcción del o los proyectos acogidos al referido programa o para la construcción del o los proyectos de viviendas de interés público que justificaron el uso de esta facultad excepcional y no para la ejecución de proyectos que tengan un objeto distinto.
 
 #### Artículo 4
 
@@ -368,6 +368,10 @@ Disposiciones generales
 
 #### Artículo 21
 
+El Ministro de Vivienda y Urbanismo podrá excepcionalmente aprobar las normas técnicas necesarias a objeto de estandarizar técnicas o tecnologías propias de las viviendas industrializadas, sólo respecto de materias donde no exista norma o reglamento técnico aprobado por la autoridad competente y para hacerlas aplicables únicamente a la ejecución del Plan de Emergencia Habitacional.
+
+Las normas señaladas tendrán por propósito establecer estándares de edificación, de conformidad con lo dispuesto en el artículo 105 del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, y serán aprobadas mediante decreto supremo.
+
 El Ministerio de Vivienda y Urbanismo, a través de las divisiones con competencias en la materia, podrá impartir instrucciones para la aplicación de las disposiciones de esta ley, mediante circulares que se mantendrán a disposición de cualquier interesado en su sitio electrónico institucional.
 
 #### Artículo 22
@@ -376,9 +380,37 @@ El decreto supremo referido en la letra c) del artículo 1 de esta ley deberá d
 
 #### Artículo 23
 
+El Director de Obras Municipales podrá otorgar facilidades para el pago de derechos por permisos de subdivisión, fusión, edificación y urbanización, conforme a lo establecido en el artículo 128 de la Ley General de Urbanismo y Construcciones, sea que se tramiten o no en forma simultánea, mediante cuotas que se reajustarán conforme a la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas. Estas cuotas deberán cancelarse íntegramente antes de la recepción definitiva de las obras, en caso de que considere obras de urbanización o edificación, o antes de aprobarse los permisos respectivos, en caso de que no incluya obras de urbanización o edificación.
+
+#### Artículo 24
+
+El sistema electrónico a que se refiere el inciso sexto del artículo 170 de la Ley General de Urbanismo y Construcciones, recibirá todos los proyectos que generen crecimiento urbano por extensión o densificación. El Ministerio de Transportes y Telecomunicaciones y el Ministerio de Vivienda y Urbanismo, mediante decreto supremo, establecerán un procedimiento para habilitar la recepción de proyectos cuando dicho sistema no se encuentre operativo para el tipo de proyecto específico.
+
+#### Artículo 25
+
+El Director de Obras Municipales podrá otorgar los permisos de urbanización o edificación o las autorizaciones correspondientes con el solo mérito del comprobante de admisibilidad de ingreso del informe de mitigación al sistema electrónico. En este evento, la resolución que apruebe el informe de mitigación será exigida para la recepción final o parcial de la obra, y se verificará que las medidas de mitigación estén ejecutadas o garantizadas, según corresponda.
+
+#### Artículo 26
+
+Las donaciones de inmuebles que se efectúen para uso exclusivo de programas habitacionales tanto a los Servicios de Vivienda y Urbanización como a grupos de trabajadores de la entidad donante que se encuentren organizados colectivamente en un sindicato o asociación gremial, no requerirán del trámite de insinuación, estarán exentas de impuestos, tendrán la calidad de gasto necesario para producir renta para efecto de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1 del decreto ley N° 824, de 1974, y no estarán sujetas al límite global absoluto dispuesto en el artículo 10 de la ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos.
+
+Igual tratamiento tendrán las donaciones de inmuebles que se efectúen entre particulares con el fin de acceder al programa Pequeño Condominio regulado por el decreto N° 49, de 2011, del Ministerio de Vivienda y Urbanismo, que aprueba Reglamento del Programa de Fondo Solidario de Elección de Vivienda, o aquel que lo reemplace.
+
+Tratándose de donaciones efectuadas a grupos de trabajadores de la entidad donante, los inmuebles donados sólo podrán ser utilizados para el o los proyectos habitacionales indicados en la respectiva donación y las obras deberán iniciarse dentro del periodo de vigencia establecido en el inciso segundo del artículo 28.
+
+En caso de incumplimiento, el contribuyente que realizó la donación quedará sujeto al impuesto único establecido en el inciso primero del artículo 21 de la Ley sobre Impuesto a la Renta, aplicado sobre el monto mayor entre el valor que el inmueble mantenía registrado en la contabilidad del contribuyente y el valor del avalúo fiscal del inmueble correspondiente al semestre en el cual se realizó la donación. En caso de que el donante sea un contribuyente no sujeto al impuesto de primera categoría, se aplicará sobre el valor del avalúo fiscal del inmueble, correspondiente al semestre en que se realizó la donación, el impuesto establecido en el artículo 2 de la ley N° 16.271, sobre Impuesto a las Herencias y Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se encuentra fijado en el artículo 8 del decreto con fuerza de ley N° 1, de 2000, del Ministerio de Justicia.
+
+#### Artículo 27
+
+Tratándose de proyectos habitacionales que postulen a los programas habitacionales vigentes, en el proceso de revisión de los Servicios de Vivienda y Urbanización respectivos, el Ministerio de Vivienda y Urbanismo podrá considerar la presentación de informes emitidos por revisores independientes de obras de edificación y revisores de cálculo estructural a que se refieren los artículos 116 bis y 116 bis A) de la Ley General de Urbanismo y Construcciones, con el objeto de que den cuenta del cumplimiento de los requisitos correspondientes al estándar técnico contenido en los reglamentos y llamados, así como de los proyectos de estructuras respectivos. En tal caso, será facultativo para el Servicio de Vivienda y Urbanización evaluar los contenidos correspondientes a lo informado por los revisores para efectos de la calificación de los proyectos. Los aspectos operativos y los requisitos de categoría para los revisores, de acuerdo con la envergadura de los proyectos, se establecerán en los respectivos llamados.
+
+Los revisores independientes de obras de edificación se regirán además por las disposiciones contenidas en la ley N° 20.071, que crea y regula el Registro Nacional de Revisores Independientes de Obras de Edificación y su reglamento. Los revisores de cálculo estructural se regirán igualmente por la ley N° 19.748, que crea y regula el Registro Nacional de Revisores de Cálculo Estructural y su reglamento. En ambos casos, serán aplicables las sanciones correspondientes en caso de errores e infracciones derivadas de la elaboración de los informes señalados.
+
+#### Artículo 28
+
 Las disposiciones de los Capítulos I y II de la presente ley se evaluarán anualmente. El Ministerio de Vivienda y Urbanismo deberá remitir un informe a la Comisión Mixta de Presupuestos y a las Comisiones de Vivienda, Desarrollo Urbano y Bienes Nacionales de la Cámara de Diputados y de Vivienda y Urbanismo del Senado.
 
-Las referidas disposiciones tendrán vigencia hasta el 31 de diciembre de 2025, sin perjuicio de una eventual prórroga legal, si fuere necesario para la adecuada implementación del Plan de Emergencia Habitacional.".".
+Las referidas disposiciones tendrán vigencia hasta el 31 de diciembre de 2025, sin perjuicio de una eventual prórroga legal, si fuere necesario para la adecuada implementación del Plan de Emergencia Habitacional.
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 

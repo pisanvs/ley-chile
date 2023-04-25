@@ -736,13 +736,15 @@ De la Subdivisión y la Urbanización del Suelo
 
 #### Artículo 65°
 
-El proceso de subdivisión y urbanización del suelo comprende tres casos:
+El proceso de subdivisión y urbanización del suelo comprende cuatro casos:
 
 a) Subdivisión de terrenos, sin que se requiera la ejecución de obras de urbanización, por ser suficientes las existentes;
 
 b) Loteos de terrenos, condicionados a la ejecución de obras de urbanización, incluyendo como tales la apertura de calles y formación de nuevos barrios o poblaciones;
 
 c) Urbanización de loteos existentes, cuyas obras de infraestructura sanitaria y energética y de pavimentación no fueron realizadas oportunamente. El proceso de transferencia de los terrenos estará sujeto a que el propietario de los mismos cumpla con los requisitos que se determinan en el Párrafo 4°, Capítulo II, del Título III de esta ley, y en su Ordenanza General.
+
+d) Urbanizaciones voluntarias ejecutadas en el espacio público o al interior de un predio por parte de su propietario, desvinculadas del proceso de división del suelo, sujetas siempre a aprobación previa de la municipalidad respectiva.
 
 #### Artículo 66°
 
@@ -764,7 +766,7 @@ Todo plano aprobado de subdivisión, loteo o urbanización pasará automáticame
 
 #### Artículo 70
 
-En toda urbanización de terrenos se cederá gratuita y obligatoriamente para circulación, áreas verdes, desarrollo de actividades deportivas y recreacionales, y para equipamiento, las superficies que señale la Ordenanza General, las que no podrán exceder del 44% de la superficie total del terreno original.
+En toda urbanización de terrenos se cederá gratuita y obligatoriamente para circulación, áreas verdes, desarrollo de actividades deportivas y recreacionales, y para equipamiento, las superficies que señale la Ordenanza General, las que no podrán exceder del 44% de la superficie total del terreno original. Las urbanizaciones de terreno podrán voluntariamente ceder superficies que excedan dicho porcentaje, sujeto siempre a aprobación previa de la municipalidad respectiva.
 
 Si el instrumento de planificación territorial correspondiente contemplare áreas verdes de uso público o fajas de vialidad en el terreno respectivo, las cesiones se materializarán preferentemente en ellas.
 
@@ -1366,7 +1368,7 @@ La garantía de urbanización por el monto total de las obras, que exige esta le
 
 Las instituciones bancarias y aseguradoras, que hubieren emitido el respectivo documento de garantía por la urbanización, pagarán los valores garantizados o la parte de ellos que corresponda con el solo mérito del certificado que otorgue el Director de Obras Municipales, en el sentido de que las obras no se han ejecutado, total o parcialmente, y que el plazo correspondiente se encuentra vencido, indicado además, el monto proporcional de la garantía que deba hacerse efectivo.
 
-En los loteos que ejecuten los Servicios Regionales o Metropolitano del Sector Vivienda, por sí o a través de terceros, bastará que dichas Instituciones otorguen a la respectiva Municipalidad una carta de resguardo que garantice que las obras de urbanización se ejecutarán conforme a los proyectos aprobados, para que la Direción de Obras Municipales proceda a la recepción definitiva de las viviendas, locales comerciales y obras de equipamiento comunitario que se encuentren terminadas y ejecutadas conforme a los correspondientes permisos o sus modificaciones. Se señalará en estos casos, en los certificados de recepción, que las obras de urbanización se han garantizado conforme a lo dispuesto en este inciso.
+En las urbanizaciones que ejecuten los Servicios Regionales o Metropolitano del Sector Vivienda, por sí o a través de terceros, bastará que dichas Instituciones otorguen a la respectiva Municipalidad una carta de resguardo que garantice que las obras de urbanización se ejecutarán conforme a los proyectos aprobados, para que la Dirección de Obras Municipales proceda a la autorización de ventas y adjudicaciones de lotes antes de estar ejecutada y recibida la urbanización, o a la emisión de certificados de informaciones previas de ellos, o a la recepción definitiva de las viviendas, locales comerciales y obras de equipamiento comunitario que se encuentren terminadas y ejecutadas conforme a los correspondientes permisos o sus modificaciones. Se señalará en estos casos, en los certificados de recepción, que las obras de urbanización se han garantizado conforme a lo dispuesto en este inciso.
 
 #### Artículo 130
 
@@ -1490,6 +1492,8 @@ Las plantaciones y obras de ornato deberán ser aprobadas y recibidas por la Dir
 
 La Ordenanza General establecerá los estándares mínimos de obras de urbanización exigibles fuera del terreno propio, cuando se trate de proyectos desvinculados de la vialidad existente, para los efectos de su adecuada inserción urbana, o su conectividad cuando se trate de proyectos en el área rural conforme al artículo 55.
 
+Asimismo, la Ordenanza General de Urbanismo y Construcciones establecerá las situaciones que comprenden requisitos y efectos de aquellas urbanizaciones que excedan el porcentaje máximo de cesiones dispuesto en el artículo 70 y de aquellas urbanizaciones que no se encuentren vinculadas directamente a la división del suelo, contenidas en la letra d) del artículo 65.
+
 > **Nota.** NOTA : Ver el artículo 6 de la Ley 19525, publicada en el Diario Oficial de 10.11.1997.
 
 #### Artículo 135
@@ -1499,6 +1503,8 @@ Terminados los trabajos a que se refiere el articulo anterior, o las obras de ed
 a) Al dominio nacional de uso público, todas las calles, avenidas, áreas verdes y espacios públicos en general, contemplados como tales en el proyecto, y
 
 b) Al dominio municipal, los terrenos cedidos de conformidad al artículo 70 de esta ley para localizar equipamientos. Para el solo efecto de mantener la historia de la propiedad raíz, dichos terrenos se inscribirán a nombre del municipio respectivo, en el Registro de Propiedad del Conservador de Bienes Raíces, presentando el certificado de recepción definitiva. La Ordenanza General indicará las menciones que deberá incluir el certificado para poder ser inscrito en el mencionado Registro.
+
+Al mismo procedimiento y efectos se sujetarán las urbanizaciones que excedan el porcentaje máximo de cesiones dispuesto en el artículo 70, así como aquellas contenidas en la letra d) del artículo 65.
 
 #### Artículo 136°
 
@@ -1878,6 +1884,8 @@ e) Detallará el contenido del informe de mitigación del proyecto, que deberá 
 
 Las medidas propuestas en el informe, en conjunto con la ejecución de las consideradas en el plan de inversiones en infraestructura de movilidad y espacio público, deberán mitigar los efectos del proyecto sobre el sistema de movilidad dentro del área de influencia para que sus estándares de servicio tengan un nivel semejante al existente, de acuerdo a las características de la zona en que se inserta. El proyecto no podrá recepcionarse si no se han materializado las obras del plan de inversiones en infraestructura de movilidad y espacio público cuya ejecución hubiere previsto el informe.
 
+Corresponderá al Ministerio de Transportes y Telecomunicaciones, a través de la División de Normas y Operaciones, impartir las instrucciones para la aplicación e implementación del sistema electrónico a que se refiere el inciso final del artículo 170 y el reglamento al que alude el inciso primero de este artículo, mediante circulares que se mantendrán a disposición de cualquier interesado.
+
 #### Artículo 172
 
 El secretario regional ministerial de Transportes y Telecomunicaciones o el director de Tránsito y Transporte Públicos Municipal, según corresponda, tendrá un plazo máximo de sesenta días para aprobar, observar o rechazar el informe de mitigación mediante resolución fundada, previa consulta a los demás órganos competentes, incluyéndose, en el caso de las municipalidades, las Direcciones de Obras Municipales, los cuales deberán remitir sus respuestas en un plazo máximo de treinta días, contado desde el envío del respectivo informe. Vencido este plazo sin que se hayan evacuado dichas respuestas, la autoridad correspondiente estará facultada para pronunciarse directamente sobre la solicitud.
@@ -1918,9 +1926,13 @@ Cada municipio elaborará un plan comunal de inversiones en infraestructura de m
 
 Las municipalidades podrán solicitar al gobierno regional la elaboración de estos planes o también incluirlos en la formulación o actualización del plan comunal de desarrollo a que se refiere el artículo 6 de la ley N° 18.695, orgánica constitucional de Municipalidades.
 
+Para la ejecución de las obras incluidas en los planes comunales de inversiones en infraestructura de movilidad y espacio público podrán contemplarse recursos adicionales a los aportes a que se refiere el artículo 175, que provengan de otros órganos de la Administración del Estado.
+
 #### Artículo 177
 
-En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, análogo al previsto en el artículo precedente, pero que contendrá proyectos, obras y medidas incluidas en los instrumentos de planificación de nivel intercomunal o asociadas a éstos. El intendente someterá este proyecto a la aprobación de los alcaldes de las comunas incluidas en el área correspondiente. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado al consejo regional y promulgado por el intendente luego de su aprobación, remitiendo copia a las municipalidades respectivas y publicándolo en el sitio electrónico del Gobierno Regional.
+En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, análogo al previsto en el artículo precedente, pero que contendrá proyectos, obras y medidas incluidas en los instrumentos de planificación de nivel intercomunal o asociadas a éstos. El gobernador regional someterá este proyecto a la aprobación de los alcaldes de las comunas incluidas en el área correspondiente. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado al consejo regional y promulgado por el gobernador regional luego de su aprobación, remitiendo copia a las municipalidades respectivas y publicándolo en el sitio electrónico del Gobierno Regional.
+
+Para la ejecución de las obras incluidas en los planes intercomunales de inversiones en infraestructura de movilidad y espacio público podrán contemplarse recursos adicionales a los aportes a que se refiere el artículo 175, que provengan de otros órganos de la Administración del Estado.
 
 #### Artículo 178
 
@@ -1974,7 +1986,7 @@ De la mitigación y los incentivos en los instrumentos de planificación territo
 
 #### Artículo 183
 
-Cuando los planes reguladores intercomunales establezcan nuevas áreas urbanas o de extensión urbana podrán determinar condiciones adicionales de urbanización y equipamiento para el desarrollo de los proyectos que se emplacen en ellas, incluyendo la ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto, la ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos, la inclusión de tipos de vivienda o usos de suelo en sus proyectos, la materialización o mejoramiento de equipamientos públicos u otras medidas que promuevan la integración social y la sustentabilidad urbana, todo lo cual se determinará de acuerdo con un estudio de impacto urbano y las reglas que establezca la Ordenanza General.
+Los planes reguladores intercomunales o metropolitanos podrán establecer condiciones adicionales de urbanización o equipamiento, así como condiciones asociadas a obras que aporten al cuidado ambiental y consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático. Las condiciones serán exigibles para el desarrollo de los proyectos que se emplacen en las áreas urbanas en que se admita actividad productiva o infraestructura de impacto intercomunal, en áreas de extensión urbana cuando actúe a través de disposiciones transitorias con carácter supletorio, o en áreas rurales cuando se establezcan los usos de suelo para los efectos de la aplicación del artículo 55. Dichas condiciones incluyen la ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto, la ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos, la inclusión de tipos de vivienda, usos de suelo o tecnologías, la materialización o mejoramiento de equipamientos públicos, áreas verdes u otras medidas que promuevan la integración social y la sustentabilidad urbana y ambiental del territorio, todo lo cual se determinará de acuerdo con un estudio de impacto urbano y con las reglas que establezca la Ordenanza General de Urbanismo y Construcciones.
 
 El cumplimiento de las condiciones deberá garantizarse mediante cauciones que se ajusten a lo dispuesto en el artículo 173 y su incumplimiento acarreará, además de su cobro, la caducidad de las autorizaciones otorgadas y no ejecutadas.
 

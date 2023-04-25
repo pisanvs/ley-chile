@@ -860,19 +860,21 @@ b) En los tramos de cierros opacos deberá resguardarse que la vereda destinada 
 
 #### Artículo 60
 
-En todo condominio deberá contemplarse la cantidad de estacionamientos para automóviles y bicicletas, requerida conforme a las normas vigentes y al plan regulador respectivo. No obstante, los condominios de viviendas sociales deberán contemplar, al menos, un estacionamiento para automóvil por cada unidad destinada a vivienda, resguardando que también exista espacio para estacionar bicicletas, ya sea en los mismos estacionamientos para automóviles o en un área común destinada al efecto, conforme a las exigencias que establezca el reglamento de la ley.
+En todo condominio deberá contemplarse la cantidad de estacionamientos para automóviles y bicicletas, requerida conforme a las normas vigentes y al plan regulador respectivo. No obstante, los condominios de viviendas de interés público deberán contemplar, al menos, un estacionamiento para automóvil por cada unidad destinada a vivienda, resguardando que también exista espacio para estacionar bicicletas, ya sea en los mismos estacionamientos para automóviles o en un área común destinada al efecto, conforme a las exigencias que establezca el reglamento de la ley.
 
-El referido reglamento también podrá establecer supuestos en los que excepcionalmente se permita al director de obras municipales la aprobación fundada de condominios de viviendas sociales con una dotación de estacionamientos inferior a la señalada en el inciso precedente, en atención al tamaño acotado del condominio, al emplazamiento del mismo o a otros factores técnicos o urbanísticos que justifiquen una rebaja de dicha exigencia. Con todo, en caso alguno podrá autorizarse que la dotación de estacionamientos de un condominio de viviendas sociales sea inferior a un estacionamiento para automóvil, por cada dos unidades destinadas a vivienda.
+El referido reglamento también podrá establecer supuestos en los que excepcionalmente se permita al director de obras municipales la aprobación fundada de condominios de viviendas de interés público con una dotación de estacionamientos inferior a la señalada en el inciso precedente, en atención al tamaño acotado del condominio, al emplazamiento del mismo o a otros factores técnicos o urbanísticos que justifiquen una rebaja de dicha exigencia.
 
-Los estacionamientos que correspondan a la cuota mínima obligatoria deberán singularizarse en el plano a que se refiere el artículo 49 y solo podrán enajenarse o adjudicarse en uso y goce exclusivo en favor de personas que adquieran o hayan adquirido una o más unidades en el condominio. Los estacionamientos que excedan la cuota mínima obligatoria serán de libre enajenación.
+Los estacionamientos definidos que correspondan a la cuota mínima obligatoria, o aquellos que determine el Director de Obras Municipales, en virtud de la atribución contemplada en el inciso anterior, en cuyo caso se considerará el número que éste determine, deberán singularizarse en el plano a que se refiere el artículo 49 y solo podrán enajenarse o adjudicarse en uso y goce exclusivo en favor de personas que adquieran o hayan adquirido una o más unidades en el condominio. Los estacionamientos que excedan la cuota mínima obligatoria serán de libre enajenación.
 
-En los condominios de viviendas sociales nuevos, la escritura de compraventa de las viviendas deberá incluir la transferencia o la asignación en uso y goce exclusivo del estacionamiento que le corresponde a dicha unidad, sin perjuicio de la posibilidad que los propietarios de tales viviendas posteriormente transfieran su estacionamiento a otro copropietario del condominio o renuncien al uso y goce exclusivo constituido en su favor; en este último caso, la asamblea de copropietarios podrá asignar a otro copropietario el derecho de uso y goce exclusivo sobre dicho estacionamiento.
+En los condominios de viviendas de interés público nuevos, la escritura de compraventa de las viviendas deberá incluir la transferencia o la asignación en uso y goce exclusivo del estacionamiento que le corresponde a dicha unidad, sin perjuicio de la posibilidad que los propietarios de tales viviendas posteriormente transfieran su estacionamiento a otro copropietario del condominio o renuncien al uso y goce exclusivo constituido en su favor; en este último caso, la asamblea de copropietarios podrá asignar a otro copropietario el derecho de uso y goce exclusivo sobre dicho estacionamiento.
 
 Tratándose de estacionamientos para personas con discapacidad, solo podrán asignarse en uso y goce a copropietarios, ocupantes o arrendatarios de las unidades del condominio que así lo requieran, cuando éstos correspondan a personas con discapacidad, especialmente aquellas con movilidad reducida que cuenten con la respectiva acreditación de esa condición señalada en la ley N° 20.422.
 
 En tanto los estacionamientos que correspondan a la cuota mínima obligatoria para personas con discapacidad no sean requeridos por las personas señaladas, podrán ser asignados temporalmente en uso y goce a otros copropietarios, concesión que finalizará por el solo ministerio de la ley, cuando sean asignados según se indica en el inciso anterior.
 
 Los estacionamientos de visitas tendrán el carácter de bienes comunes del condominio, sin perjuicio de su asignación a sectores determinados, conforme establezca el respectivo reglamento de copropiedad, no pudiendo ser enajenados ni asignados en uso y goce exclusivo.
+
+En los casos en que la Ordenanza General de Urbanismo y Construcciones permite ubicar estacionamientos en otros predios, el plano del condominio a que se refiere el artículo 49 deberá señalar tal circunstancia.
 
 ## Título XI
 
@@ -1338,7 +1340,7 @@ El mayor gasto fiscal que represente la aplicación de esta ley, durante el prim
 
 #### Artículo 8°
 
-La exigencia de estacionamientos para nuevos condominios de viviendas sociales, establecida en el inciso primero del artículo 60, será aplicable para los proyectos que soliciten permiso de edificación desde el 1 de enero de 2023, exceptuándose aquellos que contaren con anteproyecto vigente, aprobado con anterioridad. Entre la publicación de esta ley y la fecha antes referida, los condominios de viviendas sociales que contemplen más de tres viviendas deberán contar, a lo menos, con un estacionamiento por cada dos viviendas.
+La exigencia de estacionamientos para nuevos condominios de viviendas de interés público, establecida en el inciso primero del artículo 60, será aplicable para los proyectos que soliciten permiso de edificación desde el 1 de enero de 2025, exceptuándose aquellos que contaren con anteproyecto vigente, aprobado con anterioridad.
 
 #### Artículo 9°
 
