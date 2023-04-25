@@ -1172,7 +1172,7 @@ Las frecuencias en la gama de 3000 kHz a 4000 kHz son adecuadas para los disposi
 
 28. Las frecuencias comprendidas entre la banda 4000 4063 kHz, destinadas al servicio móvil marítimo, está limitada a las estaciones de barco que funcionan en radiotelefonía.
 
-29. ELIMINADO.
+29. Las estaciones del servicio de aficionados que utilicen la banda de frecuencias 5.351,5 - 5.366,5 kHz no deberán rebasar una potencia radiada máxima de 25 W (p.i.r.e.).
 
 29A. Las estaciones del servicio de radiolocalización no causarán interferencia perjudicial a las estaciones de los servicios fijo o móvil, ni reclamarán protección contra las mismas. Las aplicaciones del servicio de radiolocalización se limitan a los radares oceanográficos que funcionan con arreglo a lo dispuesto en la resolución 612 (Rev.CMR-12).
 
@@ -1294,7 +1294,7 @@ Debe hacerse todo lo posible para seguir mejorando las características de los r
 
 48. La banda 108-117,975 MHz también se atribuye a título primario al servicio móvil aeronáutico (R) exclusivamente para los sistemas que funcionan en conformidad con las normas aeronáuticas internacionales reconocidas. Dicha utilización ha de ser conforme con la Resolución 413 (Rev.CMR-07). La utilización de la banda 108-112 MHz por el servicio móvil aeronáutico (R) se limitará a los sistemas compuestos por transmisores en tierra y los correspondientes receptores para la transmisión de información de navegación para la navegación aérea en conformidad con las normas aeronáuticas internacionales reconocidas.
 
-49. ELIMINADO.
+49. La operación del servicio de radiodifusión sonora en la banda de frecuencias 76 - 88 MHz no deberá causar interferencias perjudiciales al servicio de radiodifusión televisiva, por lo que su operación y eventual compartición, estarán sujetos a lo que disponga el respectivo reglamento o norma técnica que, en todo caso, no deberá efectuarse antes del período establecido en el inciso cuarto del artículo segundo transitorio de la ley 20.750.
 
 50. ELIMINADO.
 
@@ -1744,9 +1744,9 @@ Puede utilizarse control automático de potencia para aumentar la densidad de p.
 
 202. Los sensores activos a bordo de vehículos que funcionan en la banda de frecuencias 17,2-17,3 GHz no causarán interferencia perjudicial ni obstaculizarán el desarrollo del servicio de radiolocalización y de otros servicios con atribución a título primario.
 
-203. ELIMINADO.
+203. En la banda 17,3-17,8 GHz la compartición entre el servicio fijo por satélite (Tierra-espacio) y el servicio de radiodifusión por satélite deberá efectuarse también de acuerdo con lo dispuesto en el numeral § 1 del Anexo 4 al Apéndice 30A.
 
-204. La utilización de la banda 17,3-17,8 GHz por los sistemas de satélites geoestacionarios del servicio fijo por satélite (Tierra-espacio) está limitada a los enlaces de conexión para el servicio de radiodifusión por satélite en la banda 12,2-12,7 GHz y al enlace Tierra-espacio del servicio fijo por satélite atribuido a título secundario en la misma banda, a condición de que no se cause mayor interferencia ni requieran mayor protección que las resultantes de la aplicación del Plan del Apéndice 30A, del Reglamento de Radiocomunicaciones de la UIT, para la posiciones orbitales y frecuencias inscritas para Chile en dicho Plan.
+204. El servicio fijo por satélite (espacio-Tierra) en la banda 17,7-17,8 GHz no deberá causar interferencia perjudicial ni reclamar protección contra las asignaciones del servicio de radiodifusión por satélite que funciona de conformidad con el Reglamento de Radiocomunicaciones.
 
 205. La UIT ha identificado las siguientes bandas para su utilización por las aplicaciones de alta densidad del servicio fijo por satélite:
 
@@ -1929,6 +1929,8 @@ Todas las frecuencias en la banda 1000-3000 GHz pueden ser utilizadas por los se
 > **Nota.** NOTA 4 El numeral 1 del Artículo Único del Decreto 141, Transportes, publicado el 19.12.2012, modifica la presente norma, en el sentido de reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
 
 > **Nota.** NOTA 5 El numeral 2 del Artículo Único del Decreto 19, Transportes, publicado el 30.07.2016, modifica la presente norma, en el sentido de eliminar y reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
+
+> **Nota.** NOTA 6 El numeral 1 del Artículo Único del Decreto 192, Transportes, publicado el 25.04.2023, modifica la presente norma, en el sentido de reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
 
 Anótese, regístrese, tómese razón, publíquese en el Diario Oficial e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
 
