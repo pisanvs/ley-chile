@@ -458,7 +458,7 @@ Prohibiciones. Los comerciantes de ferias libres estarán sujetos a las siguient
 
 16. Botar papeles, basura o desperdicios de cualquier tipo y, en general, toda clase de objetos, en la vía pública, veredas, calzadas, aceras, pasajes y otros en bienes nacionales de uso público aledaños a la feria, en parques o jardines o en cauces naturales o artificiales, acequias, canales, sumideros y otras obras de la misma naturaleza.
 
-17. Ejercer cualquier tipo de proselitismo político.
+17. Ejercer cualquier tipo de proselitismo político en el espacio comprendido en el permiso respectivo.
 
 18. Colgar o amarrar lonas y módulos a los árboles, señales de tránsito, semáforos o rejas de vecinos, con cordeles, lienzos u otros elementos semejantes.
 
