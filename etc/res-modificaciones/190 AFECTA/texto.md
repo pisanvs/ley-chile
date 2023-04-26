@@ -158,13 +158,17 @@ Tramo 4-5
 
 Línea
 
-correspondiente al
+al
+
+correspondiente
 
 costado sur
 
 oriente de la
 
-antigua línea férrea
+antigua línea
+
+férrea
 
 de Santa Cruz que
 
@@ -252,13 +256,15 @@ camino El Guindo. Tramo 8-9
 
 Línea imaginaria
 
-trazada por el eje
+trazada por el
 
-del antiguo canal
+eje del antiguo
 
-de regadío Paniahue
+canal de regadío
 
-entre los puntos
+Paniahue entre
+
+los puntos
 
 8 y 9.
 
@@ -278,11 +284,13 @@ Capellanía. Tramo 9-10
 
 Línea imaginaria
 
-trazada por el eje
+trazada por el
 
-del canal de
+eje del canal de
 
-regadío Capellanía
+regadío
+
+Capellanía
 
 entre los puntos
 
@@ -302,9 +310,9 @@ Guirivilo. Tramo 10-11
 
 Línea imaginaria
 
-trazada por el eje
+eje trazada por
 
-del estero
+el del estero
 
 Guirivilo entre
 
@@ -334,7 +342,9 @@ Línea recta
 
 trazada
 
-entre los puntos
+entre los
+
+puntos
 
 11 y 12.
 
@@ -654,11 +664,15 @@ trazada
 
 paralela a 160
 
-metros al norponiente
+metros al
+
+norponiente
 
 del eje de calle
 
-Gobernador N. Mujica
+Gobernador N.
+
+Mujica
 
 entre los puntos
 
@@ -1506,7 +1520,7 @@ Adosamiento máximo : 40 % retirado 3 m. de la
 
 línea de edificación
 
-Densidad Bruta Máxima : 75 Hab/Há.
+Densidad Bruta Máxima : 90 Hab/Há.
 
 Disposiciones complementarias:
 
