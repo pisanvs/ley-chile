@@ -32,7 +32,7 @@ Considerando:
 
 Resuelvo:
 
-1º Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros y servicios de taxi colectivo inscritos en la comuna de Valdivia, en el costado derecho de la calzada y en el sentido y ejes viales que seguidamente se indican:
+1º Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros y servicios de taxis básicos, taxis colectivos y taxis ejecutivos, y todo otro servicio de transporte público mayor y menor regularmente inscritos en el Registro Nacional de Transporte Público de la ciudad de Valdivia, en el costado derecho de la calzada y en el sentido y ejes viales, según el siguiente detalle:
 
 2º Sin perjuicio de lo dispuesto en el numeral precedente, podrán circular por las pistas de uso exclusivo individualizadas, los siguientes vehículos:
 
@@ -44,13 +44,9 @@ a) El ingreso a la pista exclusiva podrá efectuarse en cualquiera de las demarc
 
 b) La salida de la pista exclusiva podrá efectuarse en cualquiera de las demarcaciones correspondientes a los dos cruces posteriores a la ubicación de la residencia o estacionamiento respectivo.
 
-iii) Los taxis básicos, sólo para dejar y recoger pasajeros, en aquellas paradas debidamente autorizadas y habilitadas por la Ilustre Municipalidad de Valdivia.
+iii) Vehículos del Programa Nacional de Fiscalización, municipales y policiales, destinados a cumplir labores de seguridad ciudadana, debidamente identificados como tales.
 
-iv) Vehículos del Programa Nacional de Fiscalización, municipales y policiales, destinados a cumplir labores de seguridad ciudadana, debidamente identificados como tales.
-
-v) Vehículos y camiones recolectores de basura, con la sola finalidad de hacer retiro de los desechos particulares depositados en el costado de la calzada correspondiente a las pistas exclusivas.
-
-vi) Buses de transporte público de pasajeros rurales e interurbanos por aquellas vías o ejes indicados en el resuelvo precedente, que aparezcan en sus certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros como parte de su trazado autorizado en zona urbana.
+iv) Vehículos y camiones recolectores de basura, con la sola finalidad de hacer retiro de los desechos particulares depositados en el costado de la calzada correspondiente a las pistas exclusivas.
 
 3º En las pistas demarcadas con líneas segmentadas de color amarillo que indican zonas mixtas, podrá ingresar cualquier tipo de vehículos a la vía segregada con el fin de virar en el cruce más cercano.
 
