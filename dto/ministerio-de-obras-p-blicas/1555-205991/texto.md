@@ -126,6 +126,8 @@ Acceso a Michaihue.
 
 . El sistema vial que interconecta los accesos a los puentes Bicentenario e Industrial, a través de: Avenida Ribera Sur, Violeta Parra y Avenida Ribera Sur.
 
+. La vialidad que conecta el Acceso Sur IV Puente y la Ruta 160 By Pass Coronel; a través de: Ruta Pie de Monte (E-8).
+
 4º Declárase Caminos Públicos en las áreas urbanas de las siguientes Capitales de Provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Chillán:
