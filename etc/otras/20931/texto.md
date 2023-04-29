@@ -406,6 +406,18 @@ Las Policías deberán elaborar un procedimiento estandarizado de reclamo destin
 
 Las Policías informarán trimestralmente al Ministerio del Interior y Seguridad Pública sobre los antecedentes que les sean requeridos por este último, para conocer la aplicación práctica que ha tenido esta facultad. El Ministerio del Interior y Seguridad Pública, a su vez, publicará en su página web la estadística trimestral de la aplicación de la misma.".
 
+#### Artículo 12 bis
+
+En caso de que la persona sometida al procedimiento señalado en el artículo anterior no pueda acreditar encontrarse en situación migratoria regular, según lo establecido en la ley N° 21.325, el funcionario policial deberá registrar y trasladar al individuo para ponerlo a disposición de la Policía de Investigaciones de Chile dentro del más breve plazo para corroborar su situación migratoria e iniciar los procedimientos que correspondan de conformidad a la ley.
+
+Si al momento de ser puesto a disposición de la autoridad migratoria el sujeto sometido a control mantiene pendientes notificaciones relacionadas con procedimientos de expulsión u otros de la ley N° 21.325, se procederá a su notificación inmediata, y se dejará constancia de la debida recepción mediante firma del extranjero.
+
+El funcionario policial deberá considerar como documentos válidos para acreditar la situación migratoria regular de la persona extranjera, su cédula de identidad vigente, el certificado otorgado por el Servicio Nacional de Migraciones en el que conste que la persona extranjera realizó una solicitud de otorgamiento, cambio o prórroga de un permiso de residencia, o la resolución expedida por la autoridad migratoria en la que conste el otorgamiento de un permiso de residencia. Se entenderá que la cédula de identidad mantiene su vigencia en aquellos casos en que el extranjero cuente con un certificado de residencia en trámite vigente o hasta que la autoridad migratoria resuelva la respectiva solicitud, conforme lo establece el artículo 43 de la ley N° 21.325.
+
+Este procedimiento deberá realizarse de conformidad con las restricciones señaladas en el artículo anterior, y con respeto del principio de proporcionalidad e igualdad de trato.
+
+Se aplicarán las disposiciones de este artículo para el ejercicio de las atribuciones sobre control de identidad y registro en las áreas de las zonas fronterizas, otorgadas a las Fuerzas Armadas de forma transitoria, mientras se encuentre vigente el decreto que las faculta para ello.
+
 #### Artículo 13
 
 Las personas naturales o jurídicas que desarrollen actividades de comercio o reparación de objetos nuevos o usados deberán llevar un registro documental e información sobre su adquisición y procedencia a efecto de acreditar su dominio, posesión o legítima tenencia. Además, deberán cumplir con esta obligación quienes administren o tengan a su custodia recintos destinados al bodegaje o almacenamiento.
