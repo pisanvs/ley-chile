@@ -22,10 +22,6 @@ Resuelvo:
 
 Establécense pistas de uso exclusivo para buses de transporte público urbano y rural de pasajeros en la comuna de Concepción, en el costado derecho de las vías y ejes viales que a continuación se indican, según sentido del tránsito, de acuerdo a la siguiente tabla ordenadora:
 
-.
-
-. Las pistas exclusivas correspondientes al Puente Llacolén tendrán un horario de funcionamiento de lunes a viernes, excepto los días festivos, entre las 07:30 y las 09:00 horas, y entre las 17:30 y 19:00 horas.
-
 También podrán circular por estas pistas de uso exclusivo, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior. Respecto de los taxis colectivos, estos podrán transitar libres o con pasajeros en su interior, siempre y cuando en su trazado se contemple el tránsito por las pistas de uso exclusivo señaladas.
