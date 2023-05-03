@@ -234,7 +234,9 @@ b) Nadie puede ser privado de su libertad personal ni ésta restringida sino en 
 
 c) Nadie puede ser arrestado o detenido sino por orden de funcionario público expresamente facultado por la ley y después de que dicha orden le sea intimada en forma legal. Sin embargo, podrá ser detenido el que fuere sorprendido en delito flagrante, con el solo objeto de ser puesto a disposición del juez competente dentro de las veinticuatro horas siguientes.
 
-Si la autoridad hiciere arrestar o detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al afectado. El juez podrá, por resolución fundada, ampliar este plazo hasta por cinco días, y hasta por diez días, en el caso que se investigaren hechos calificados por la ley como conductas terroristas;
+Si la autoridad hiciere arrestar o detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al afectado. El juez podrá, por resolución fundada, ampliar este plazo hasta por cinco días, y hasta por diez días, en el caso que se investigaren hechos calificados por la ley como conductas terroristas.
+
+Este lapso de cuarenta y ocho horas no se considerará para efectos de materialización de expulsiones administrativas. En este último caso, corresponderá a la ley fijar el plazo máximo, el que no podrá, en todo caso, exceder de cinco días corridos;
 
 d) Nadie puede ser arrestado o detenido, sujeto a prisión preventiva o preso, sino en su casa o en lugares públicos destinados a este objeto.
 
