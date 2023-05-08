@@ -28,11 +28,11 @@ Temporada de crecimiento: Período del año en que las plantas tienen un crecimi
 
 ### 2. DE LA CUARENTENA PREDIAL:
 
-2.1. Las siguientes especies deberán cumplir con Cuarentena Predial, independiente del origen, en Estación Cuarentenaria 2, bajo las condiciones de aislamiento artificial y físico establecidas por el Servicio y por el periodo de cuarentena mínimo que a continuación se señala, y es extensiva a todas aquellas especies que como resultado del Análisis de Riesgo de Plagas califiquen para la aplicación de esta medida del manejo del riesgo:
+2.1. Las siguientes especies deberán cumplir con Cuarentena Predial, en Estación Cuarentenaria 2, bajo las condiciones de aislamiento artificial y físico establecidas por el Servicio, por el período de cuarentena que a continuación se señala:
 
 2.1.1. Plantas, excepto semillas:
 
-.
+c. ORNAMENTALES
 
 2.2. Cumplirán Cuarentena Predial aquellos envíos
 
