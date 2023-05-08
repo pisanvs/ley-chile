@@ -68,9 +68,9 @@ Cuarentena Posentrada de Centros Reconocidos (Cuarentena de Centros): Nivel de C
 
 Cuarentena Posentrada para Material Vegetal como Cultivo de Tejido In Vitro (Cuarentena In Vitro): Nivel de Cuarentena Posentrada aplicada a un envío correspondiente a material vegetal producido bajo técnicas de cultivo in vitro, que contemple Declaraciones Adicionales que requieran verificación fitosanitaria mediante técnicas específicas de laboratorio y que al momento del ingreso mantienen esta condición in vitro. Estos ingresarán a una Estación Cuarentenaria 2 o 3, en un lugar presentado por el importador y autorizado por el Servicio, hasta que éste compruebe, mediante técnicas de diagnóstico oficial, la ausencia de las plagas solicitadas como Declaración Adicional.
 
-### 5. Deberán cumplir Cuarentena Posentrada, independiente de su origen:
+5. Deberán cumplir cuarentena de posentrada, los siguientes materiales vegetales de propagación:
 
-a. Las plantas (excluidos semillas y cultivo de material in vitro) de las siguientes especies vegetales, por el período de cuarentena mínimo, definido en cada una de las resoluciones por nivel de cuarentena asociadas a esta normativa:
+a. Las plantas (excluido semillas y cultivo de material in vitro) de las siguientes especies vegetales, por el período de cuarentena establecido en la normativa vigente, para cada Nivel de Cuarentena::
 
 a.1 FRUTALES
 
@@ -81,8 +81,6 @@ a.2 FORESTALES
 (**) Para Populus spp. y Salix spp. sólo se autoriza el ingreso de estacas sin enraizar.
 
 a.3 ORNAMENTALES
-
-.
 
 a.4 HORTALIZAS
 
