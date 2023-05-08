@@ -20,39 +20,7 @@ Decreto:
 
 1º Prohíbase el ingreso a territorio nacional, incluidas cualquier zona de franquicias tributarias, aduaneras o de otra especie, de neumáticos usados, reacondicionados o recauchados, bajo cualquier concepto y para cualquier fin, independiente de su país de origen.
 
-2º Sólo se permitirá el ingreso de los neumáticos a que se refiere el artículo precedente, exclusivamente cuando formen parte de un vehículo, incluyendo el o los neumáticos de repuesto. En tal caso, estos neumáticos deberán estar debidamente montados en sus llantas, en condiciones de presión de inflado de acuerdo a las especificaciones técnicas del fabricante, con el fin de evitar el ingreso y acumulación de agua en ellos, minimizando el riesgo de transporte pasivo de formas inmaduras de mosquitos.
-
-De la misma manera se exceptuarán de la prohibición de ingreso aquellos neumáticos que hayan salido del país para ser sometidos a mantenciones indispensables, de acuerdo a requerimientos operacionales y de seguridad de la actividad. Esta necesidad debe ser respaldada por el solicitante a la autoridad sanitaria, a través de una memoria técnica que la justifique y demuestre que no existen alternativas al procedimiento. Los procedimientos del transporte y almacenaje de estos neumáticos deben ser realizados en todo momento en compartimentos herméticos a prueba de agua. El cumplimiento de las condiciones anteriormente señaladas será responsabilidad de las empresas propietarias de estos neumáticos, las que deberán presentar, a la autoridad sanitaria, documentos que certifiquen el cumplimiento de estos requerimientos, así como un catastro con el número de neumáticos que salen y regresan al país para su mantención.
-
-Asimismo, se exceptuarán de la prohibición establecida en el numeral 1° del presente decreto aquellos neumáticos que, por cualquier motivo o circunstancia, hubieren sido depositados en territorio de algún país fronterizo con Chile, circunstancia que será certificada por la Dirección Nacional de Fronteras y Límites del Estado del Ministerio de Relaciones Exteriores, en cuyo caso, el propietario de tales residuos podrá solicitar a la Autoridad Sanitaria correspondiente la autorización para ingresarlos a territorio nacional.
-
-Para obtener la autorización a que se refiere el inciso anterior, el interesado deberá presentar a la Autoridad Sanitaria la siguiente documentación:
-
-a. Certificado de la Dirección Nacional de Fronteras y Límites del Estado, del Ministerio de Relaciones Exteriores, que acredite que los neumáticos se encuentran, efectivamente, en territorio extranjero.
-
-b. En el caso de que los neumáticos se encuentren a una altura igual o inferior a 2.200 m.s.n.m.:
-
-i. Certificado emitido por la Autoridad Sanitaria del país donde están depositados tales residuos, que indique la ausencia de mosquitos y/o brotes de enfermedades transmitidas por éstos en la zona donde aquéllos se encuentran.
-
-ii. En el caso de no contar con el certificado señalado en el punto precedente, se deberá contar con un certificado emitido por la Autoridad Sanitaria del país de origen que acredite que los neumáticos fueron sometidos a un proceso efectivo de eliminación del mosquito en cualquier estado de su ciclo biológico, a fin de evitar el riesgo de transporte pasivo de éstos. Dicho documento deberá ser presentado al momento del ingreso de cada embarque de neumáticos.
-
-c. Plan de Manejo para el Reingreso de Neumáticos Usados, el que deberá contener la siguiente información:
-
-i. Cantidad y ubicación de los neumáticos usados que se pretende reingresar.
-
-ii. Lugar y medio de ingreso al territorio nacional.
-
-iii. Datos del responsable del ingreso de los neumáticos.
-
-iv. Ubicación y manejo que se dará a los neumáticos en cada etapa de manejo incluido, según corresponda, su almacenamiento, valorización y disposición final.
-
-En el evento de que el lugar desde el cual se trasladan los neumáticos se encuentre a una altura igual o inferior a 2.200 m.s.n.m., el interesado deberá adjuntar al referido plan de manejo la siguiente información:
-
-a) Procedimiento detallado del proceso de eliminación del mosquito en cualquier etapa de su ciclo biológico al que serán sometidos los neumáticos.
-
-b) Procedimientos para el traslado de los neumáticos de forma de evitar su infestación por mosquitos en algún estado de su ciclo biológico.
-
-La Secretaría Regional Ministerial de Salud respectiva autorizará el reingreso de los neumáticos solo si el destino de los mismos en territorio nacional corresponde a un sitio debidamente autorizado
+2º Sólo se permitirá el ingreso de los neumáticos a que se refiere el artículo precedente, exclusivamente cuando formen parte de un vehículo motorizado, de transporte de personas o de carga, incluyendo el o los neumáticos de repuesto, con o sin uso previo. En tal caso, todos los neumáticos, deberán estar debidamente montados en sus llantas, en condiciones de presión de inflado de acuerdo a las especificaciones técnicas del fabricante, con el fin de evitar el ingreso y acumulación de agua en ellos, minimizando el riesgo de transporte pasivo de formas inmaduras de mosquitos.
 
 3º Cuando los neumáticos sean empleados como parte del embalaje o protección de la carga, deberán contar con un dispositivo que impida el ingreso y mantención de agua en su interior, de manera que no sean aptos para la infestación por mosquitos en cualquiera de sus etapas evolutivas.
 
