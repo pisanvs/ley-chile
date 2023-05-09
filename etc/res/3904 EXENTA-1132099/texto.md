@@ -300,13 +300,13 @@ Con todo, en aquellos casos en donde el respectivo título de dominio no incluya
 
 .
 
-6 SOBRE LAS EXCEPCIONES SEÑALADAS EN EL ARTÍCULO 1º DEL DL Nº 3.516
+6 SOBRE LAS EXCEPCIONES SEÑALADAS EN EL ARTÍCULO 1° DEL DL Nº 3.516
 
-No obstante lo dispuesto en los literales a) a j) del artículo 1º del decreto ley Nº 3.516 de 1980, que establecen excepciones al límite de superficie mínima a lotear de 0,5 ha, se hace presente que el Servicio debe pronunciarse igualmente respecto de si los lotes resultantes de una subdivisión predial propuesta cumplen con la normativa vigente, en este caso, sobre los demás requisitos distintos de la cabida mínima de 0,5 hectáreas, como por ejemplo respecto de: que la superficie total loteable no sobrepase la superficie predial, que cada lote resultante tenga acceso a un espacio público, que los planos presentados cumplan con la escala y demás requisitos establecidos para los mismos, etc.
+No obstante lo dispuesto en los literales a) a i) del artículo 1° del decreto ley N° 3.516 de 1980, que establecen excepciones al límite de superficie mínima a lotear de 0,5 ha, se hace presente que el Servicio debe pronunciarse igualmente respecto de si los lotes resultantes de una subdivisión predial propuesta cumplen con la normativa vigente, en este caso, sobre los demás requisitos distintos de la cabida mínima de 0,5 hectáreas, como por ejemplo respecto de: que la superficie total loteable no sobrepase la superficie predial, que cada lote resultante tenga acceso a un espacio público, que los planos presentados cumplan con la escala y demás requisitos establecidos para los mismos, etc.
 
-En lo puntual y respecto del literal j), se deberá verificar además que los lotes resultantes de la aplicación de este literal tengan una cabida no inferior a los 500 m2 ni superior a los 1000 m2.
+Adicionalmente, para todas las situaciones, en donde sea aplicable alguna de las excepciones señaladas por la norma, deberá adecuarse el texto del timbre a que hace referencia el Numeral 5 de esta resolución.
 
-Adicionalmente, para todas las situaciones en donde sea aplicable alguna de las excepciones señaladas por la norma, deberá adecuarse el texto del timbre a que hace referencia el numeral 5 de esta resolución.
+Téngase presente, que en cumplimiento de dictamen E258993/2022, de la Contraloría General de la República, el presente numeral no se aplica a la letra j) del artículo primero del decreto ley N° 3.516.
 
 7 ACTIVIDADES POSTERIORES
 
