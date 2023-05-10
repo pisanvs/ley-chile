@@ -304,13 +304,9 @@ De los recursos
 
 35. Establécese que el monto base disponible para los proyectos que participen en el presente llamado, es el que se define en la siguiente tabla, al que se le aplicará el factor multiplicador correspondiente a la localidad, definido por la resolución exenta 3.130, citada en el visto d):
 
-36. Los recursos involucrados para la selección ascienden a un total de 1.074.796 Unidades de Fomento y su distribución regional, será la siguiente:
+36. Los recursos involucrados en la selección ascenderán a un total de 1.274.206,548 UF y su distribución nacional será la siguiente:
 
-Tratándose de la Región del Biobío, en el marco del Plan Buen Vivir indicado en el Considerando 4 de la presente resolución, la distribución regional será la siguiente: 72.649 Unidades de Fomento para las comunas que integran la provincia de Arauco y comuna Alto del Biobío; y 62.000 Unidades de Fomento para las demás comunas de la región.
-
-Los montos indicados en el cuadro anterior podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2022, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por región, de acuerdo con la necesidad de cada una de estas.
-
-Para los efectos de imputar los recursos correspondientes a los subsidios a otorgar en el presente llamado, se considerará un monto promedio de 1.030 Unidades de Fomento por unidad de vivienda, incluidos los recursos destinados a los subsidios y al pago de la Asistencia Técnica y Fiscalización Técnica de Obras. Corresponderá al Director del Serviu mediante resolución establecer el monto final de los subsidios correspondientes al proyecto aprobado.
+.
 
 37. Para efectuar el proceso de selección el total de postulantes aprobados por Serviu, independiente de la tipología del proyecto, será ordenado por estricto orden de prelación de mayor a menor puntaje. Si no se alcanzara a seleccionar un expediente colectivo por falta de recursos regionales, se seleccionará al siguiente postulante susceptible de financiar, que corresponda en estricto orden de prelación, otorgando siempre la prioridad a quien tenga un mayor puntaje regional.
 
