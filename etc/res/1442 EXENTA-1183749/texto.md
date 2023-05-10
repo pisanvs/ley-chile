@@ -348,9 +348,7 @@ De los recursos
 
 El monto máximo a financiar para proyectos de Construcción de Nuevos Equipamientos Comunitarios ascenderá a 7.500 UF, presupuesto que deberá ser evaluado por Serviu de conformidad a la tabla de costos vigente aprobada regionalmente, que se aplique al Capítulo I del DS N° 27 (V. y U.), de 2016, citado en el visto i) de la presente resolución.
 
-38. Los recursos involucrados para la selección ascienden a un total de 510.497 Unidades de Fomento y su distribución regional, será la siguiente:
-
-Los montos indicados en el cuadro anterior podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2022, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por región.
+38. Los recursos involucrados en la selección ascenderán a un total de 504.499.228 UF y su distribución nacional será la siguiente:
 
 39. Para efectuar el proceso de selección el total de postulantes aprobados por Serviu, independiente de la tipología del proyecto, será ordenado por estricto orden de prelación de mayor a menor puntaje. Si no se alcanzara a seleccionar un expediente colectivo por falta de recursos regionales, se seleccionará al siguiente postulante susceptible de financiar, que corresponda en estricto orden de prelación, otorgando siempre la prioridad a quien tenga un mayor puntaje regional.
 
