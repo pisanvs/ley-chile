@@ -1222,11 +1222,9 @@ CH Monto del crédito hipotecario.
 
 #### Artículo 74
 
-Garantía estatal de remate. Si una vivienda financiada con un subsidio habitacional a que se refiere este reglamento y con un crédito complementario a que se refiere el artículo 69 precedente, de hasta el equivalente al 90% del precio de la vivienda, fuere objeto de remate judicial por incumplimiento en el servicio de la deuda, y el producto del remate no alcanzare a cubrir el saldo insoluto de la deuda, el Serviu o el Minvu enterará al acreedor hipotecario, los siguientes porcentajes del saldo insoluto de la deuda, con sus intereses y comisiones devengadas hasta el día de la adjudicación de la vivienda como consecuencia del remate, incluyendo las costas del juicio, según el precio de la vivienda:
+Garantía estatal de remate. Si una vivienda financiada con un subsidio habitacional a que se refiere este reglamento y con un crédito complementario a que se refiere el artículo 69 precedente, de hasta el equivalente al 90% del precio de la vivienda, fuere objeto de remate judicial por incumplimiento en el servicio de la deuda, y el producto del remate no alcanzare a cubrir el saldo insoluto de la deuda, el Serviu o el Minvu enterará al acreedor hipotecario el 100% del saldo insoluto de la deuda, con sus intereses y comisiones devengadas hasta el día de adjudicación de la vivienda como consecuencia del remate, incluyendo las costas del juicio.
 
-.
-
-El Minvu o el Serviu se obligan a pagar a la entidad crediticia, los porcentajes de la mencionada diferencia, dentro del plazo de 60 días corridos, contados desde la fecha en que la entidad crediticia lo solicite al Serviu acompañando la siguiente documentación:
+El Minvu o el Serviu se obligan a pagar a la entidad crediticia la mencionada diferencia, dentro del plazo de 60 días corridos, contados desde la fecha en que la entidad crediticia lo solicite al Serviu acompañando la siguiente documentación:
 
 a) Copia autorizada del acta de remate extendida por el tribunal competente;
 
@@ -1248,7 +1246,7 @@ Si la entidad crediticia transfiere el contrato de mutuo hipotecario otorgado co
 
 Lo señalado en este artículo también será aplicable a un crédito hipotecario que se destine a refinanciar la deuda del crédito original, siempre que el crédito para el refinanciamiento se otorgue conforme a las condiciones señaladas en este reglamento.
 
-> **Nota.** El numeral 16 del artículo 1° del Decreto 22, Vivienda, publicado el 21.06.2017, modifica la presente norma en EL sentido de reemplazar en la tabla inserta el guarismo "2.200" por "2.400".
+El numeral 16 del artículo 1° del Decreto 22, Vivienda, publicado el 21.06.2017, modifica la presente norma en EL sentido de reemplazar en la tabla inserta el guarismo "2.200" por "2.400".
 
 #### Artículo 74 bis
 

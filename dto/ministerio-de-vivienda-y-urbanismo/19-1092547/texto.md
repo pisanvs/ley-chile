@@ -700,13 +700,9 @@ CH Monto del crédito hipotecario
 
 Garantía Estatal de Remate.
 
-Si una vivienda financiada con un subsidio habitacional a que se refiere este Reglamento -o un subsidio del Sistema Integrado de Subsidio Habitacional que se aplique a viviendas de proyectos seleccionado de conforme a este decreto- y con un crédito complementario a que se refiere el artículo 22° del presente Reglamento, de hasta el equivalente al 90% del precio de la vivienda, fuere objeto de remate judicial por incumplimiento en el servicio de la deuda, y el producto del remate no alcanzare a cubrir el saldo insoluto de la deuda, el Serviu o el Minvu enterará al acreedor hipotecario, los siguientes porcentajes del saldo insoluto de la deuda, con sus intereses y comisiones devengadas hasta el día de adjudicación de la vivienda como consecuencia del remate, incluyendo las costas del juicio, según el precio de la vivienda:
+Si una vivienda financiada con un subsidio habitacional a que se refiere este Reglamento o un subsidio del Sistema Integrado de Subsidio Habitacional que se aplique a viviendas de proyectos seleccionado de conforme a este decreto y con un crédito complementario a que se refiere el artículo 22° del presente Reglamento, de hasta el equivalente al 90% del precio de la vivienda, fuere objeto de remate judicial por incumplimiento en el servicio de la deuda, y el producto del remate no alcanzare a cubrir el saldo insoluto de la deuda, el Serviu o el Minvu enterará al acreedor hipotecario el 100% del saldo insoluto de la deuda, con sus intereses y comisiones devengadas hasta el día de adjudicación de la vivienda como consecuencia del remate, incluyendo las costas del juicio.
 
-.
-
-En que "P" corresponde al precio de la vivienda.
-
-El Minvu o el Serviu se obligan a pagar a la entidad crediticia, los porcentajes de la mencionada diferencia, dentro del plazo de 60 días corridos, contados desde la fecha en que la entidad crediticia lo solicite al Serviu acompañando la siguiente documentación:
+El Minvu o el Serviu se obligan a pagar a la entidad crediticia la mencionada diferencia, dentro del plazo de 60 días corridos, contados desde la fecha en que la entidad crediticia lo solicite al Serviu acompañando la siguiente documentación:
 
 a) Copia autorizada del acta de remate extendida por el Tribunal competente;
 

@@ -408,13 +408,11 @@ Si el contrato de arrendamiento con promesa de compraventa fuere declarado resue
 
 #### Artículo 38
 
-En los contratos de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional, en que el precio de la compraventa prometida no exceda de 2O00 Unidades de Fomento, el arrendador promitente vendedor podrá solicitar al árbitro que conoce del juicio de terminación del contrato por no pago de los aportes a que se refiere el artículo 37 de la Ley Nº 19.281, que ordene la venta de la vivienda en pública subasta. Dicha resolución deberá notificarse al SERVIU respectivo con una anticipación mínima de 30 días a la fecha del remate.
+En los contratos de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional, el arrendador promitente vendedor podrá solicitar al árbitro que conoce del juicio de terminación del contrato por no pago de los aportes a que se refiere el artículo 37 de la Ley Nº 19.281, que ordene la venta de la vivienda en pública subasta. Dicha resolución deberá notificarse al SERVIU respectivo con una anticipación mínima de 30 días a la fecha del remate.
 
 Con el producto del remate, al cual deben adicionarse los fondos que el arrendatario promitente comprador tenga depositados en la cuenta de ahorro o haya abonado al arrendador promitente vendedor conforme a lo dispuesto en el artículo 7º de la Ley 19.281, así como todo otro aporte o abono efectuado, destinado al pago de la renta de arrendamiento y al pago del precio de la compraventa prometida, debidamente estipulado en el respectivo contrato, sin deducción de monto alguno por concepto de otros pagos que correspondan con cargo a dichos fondos, el árbitro ordenará que se pague al arrendador promitente vendedor el precio de la compraventa prometida, más las rentas de arrendamiento devengadas y no pagadas y las costas del juicio.
 
-Si el producto del remate no alcanzare a cubrir el saldo de la deuda, incluidas las rentas de arrendamiento devengadas y no pagadas y las costas del juicio, el Serviu enterará al arrendador promitente vendedor el saldo insoluto de la deuda, en los porcentajes que se indican, según sea dicho precio, con un tope de 200 unidades de fomento:
-
-En que "P" corresponde al precio de la vivienda determinado en la forma señalada en el inciso segundo del artículo 23 de este reglamento.
+Si el producto del remate no alcanzare a cubrir el saldo de la deuda, incluidas las rentas de arrendamiento devengadas y no pagadas y las costas del juicio, el Serviu respectivo enterará al arrendador promitente vendedor el 100% de ese saldo no cubierto, con un límite máximo de 200 Unidades de Fomento por operación.
 
 INCISO ELIMINADO.
 
