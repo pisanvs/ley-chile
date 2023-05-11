@@ -110,7 +110,7 @@ Las solicitudes de reconocimiento oficial de las especialidades del nivel de edu
 
 #### Artículo segundo
 
-Las especialidades técnico-profesionales reconocidas oficialmente con anterioridad a la entrada en vigencia del presente Decreto, tendrán un plazo de 4 años contados desde dicha fecha, para dar cumplimiento a los requisitos establecidos en este Decreto.
+Las especialidades técnico-profesionales reconocidas oficialmente con anterioridad a la entrada en vigencia del presente Decreto, tendrán un plazo de 7 años contados desde dicha fecha, para dar cumplimiento a los requisitos establecidos en este Decreto.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gerardo Varela Alfonso, Ministro de Educación.
 
