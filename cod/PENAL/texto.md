@@ -3616,7 +3616,7 @@ El que mate a otro y no esté comprendido en los artículos 390, 390 bis y 390 t
 
 Primera.- Con alevosía.
 
-Segunda.- Por premio o promesa remuneratoria, o por cualquier otro medio que implique ánimo de lucro.
+Segunda.- Por premio o promesa remuneratoria, o por beneficio económico o de otra naturaleza en provecho propio o de un tercero.
 
 Tercera.- Por medio de veneno.
 
@@ -3625,6 +3625,12 @@ Cuarta.- Con ensañamiento, aumentando deliberada e inhumanamente el dolor al of
 Quinta.- Con premeditación conocida.
 
 2.º Con presidio mayor en su grado medio a máximo en cualquier otro caso.
+
+#### Artículo 391 bis
+
+El que conspire para cometer el delito de homicidio calificado previsto en los términos del artículo 391 N° 1°, circunstancia segunda, será castigado con la pena de presidio menor en su grado máximo.
+
+Si la conducta descrita en el inciso precedente se comete en contra de un juez con competencia en lo penal, de un fiscal del Ministerio Público, de un defensor penal público, de un funcionario de Carabineros de Chile, de la Policía de Investigaciones de Chile o de Gendarmería de Chile, en razón del ejercicio de sus funciones, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 #### Artículo 392
 
