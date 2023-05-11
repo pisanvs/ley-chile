@@ -64,9 +64,13 @@ El conjunto de políticas de la institución permite el desarrollo de programas 
 
 En caso de que el programa sea desarrollado de forma interinstitucional, las universidades cumplen con lo señalado en el presente documento.
 
+.
+
 Criterio 5. Organización interna
 
 El programa dispone de una organización interna formal. Un reglamento regula las relaciones de las y los académicos y las y los estudiantes con el programa y la universidad, incluyendo mecanismos para evaluar el grado de cumplimiento de sus objetivos. Dispone de un cuerpo directivo con funciones claramente establecidas para su gestión.
+
+.
 
 Criterio 6. Infraestructura y recursos para el aprendizaje
 
