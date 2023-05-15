@@ -106,7 +106,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Centro de servicio automotor»: recinto destinado a la prestación de servicios para vehículos que no signifiquen labores de taller mecánico.
 
-«Ciclovía»: Se estará a lo dispuesto en el inciso octavo del artículo 2º de la ley de tránsito Nº18.290, o sus modificaciones.
+«Ciclovía»: Se estará a lo dispuesto en el DFL N° 1, de 2007, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, o aquel que lo modifique o reemplace.
 
 «Coeficiente de constructibilidad»: número que multiplicado por la superficie total del predio, descontadas de esta última las áreas declaradas de utilidad pública, fija el máximo de metros cuadrados posibles de construir sobre el terreno.
 
@@ -232,7 +232,7 @@ a 100 personas.
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-«Huella podotáctil»: recorrido de pavimento con texturas en sobre relieve y contraste cromático respecto del pavimento circundante, destinada a guiar y/o alertar de los cambios de dirección o de nivel en una circulación peatonal.
+«Huella Podotáctil»: Recorrido conformado por pavimentos que destacan por su diferenciación de texturas y contraste cromático respecto del pavimento circundante, cuyo propósito es guiar y/o alertar de los cambios de dirección, cambios de nivel, discontinuidad espacial, peligro u otras situaciones en la ruta accesible.
 
 'Imagen Objetivo': Propuesta de desarrollo urbano del territorio a planificar, a través de la cual se pretende dar cumplimiento a los objetivos de planificación, cuyos contenidos y procedimiento de formulación se establecen en el artículo 2.1.5. de esta Ordenanza.
 
@@ -342,6 +342,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Plan de inversiones en infraestructura de movilidad y espacio público»: Instrumento de nivel comunal o intercomunal, según sea el caso, que contiene una cartera de proyectos, obras y medidas incluidas en los instrumentos de planificación territorial o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbana, referidas a áreas verdes, aceras y circulaciones peatonales, pasos para peatones, calzadas, ciclovías, luminarias y alumbrado público, soterramiento de redes, paraderos de buses, señalética, áreas de juegos infantiles, baños públicos, mobiliario urbano tales como bancos o escaños, basureros o contenedores de basura, estacionamientos de bicicletas, kioscos, pérgolas, entre otros.
 
+«Platabanda»: Espacio de la acera, reservado principalmente a la contención de áreas verdes y arbolado urbano, así como también a la instalación de equipamiento, redes de servicios eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano, estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones.
+
 «Playa de mar»: la extensión de tierra que las olas bañan y desocupan alternativamente hasta donde llegan en las más altas mareas.
 
 «Plaza»: espacio libre de uso público destinado, entre otros, al esparcimiento y circulación peatonal.
@@ -406,13 +408,13 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Revisor independiente»: profesional competente, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que verifica e informa al respectivo Director de Obras Municipales que los anteproyectos, proyectos y obras cumplen con todas las disposiciones legales y reglamentarias pertinentes. Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de un profesional competente.
 
-«Ruta accesible»: parte de una vereda o de una circulación peatonal, de ancho continuo, apta para cualquier persona, con pavimento estable, sin elementos sueltos, de superficie homogénea, antideslizante en seco y en mojado, libre de obstáculos, gradas o cualquier barrera que dificulte el desplazamiento y percepción de su recorrido.
+«Ruta Accesible»: Espacio libre y continuo, con las dimensiones mínimas que para cada caso establece esta Ordenanza, destinado a la circulación de personas en una vereda, en el espacio público, o al interior de una edificación; libre de obstáculos, gradas u otro tipo de barreras que dificulten el desplazamiento y la percepción del mismo, de superficie estable y homogénea, antideslizante en seco y en mojado, y apto para el desplazamiento en forma segura de todas las personas.
 
 «Saldo predial»: sitio cuya superficie, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión predial mínima establecida en el Instrumento de Planificación Territorial respectivo.
 
 «Sector»: DEROGADO.
 
-«Símbolo Internacional de Accesibilidad (SIA)»: "Símbolo grafico conforme a la NCh 3180, con silla de ruedas en blanco sobre un fondo azul, Pantone 294C.
+«Símbolo Internacional de Accesibilidad (SIA)»: Símbolo gráfico, conforme a la NCh 3180, correspondiente a la silueta de una persona sentada en una silla de ruedas, en color blanco sobre un fondo azul, Pantone 294C, orientado a identificar zonas o áreas adaptadas o reservadas a las personas con discapacidad
 
 «Sistema automático de extinción de incendio»: conjunto formado por dispositivos y equipos capaces de detectar y descargar, en forma automática, un agente extintor de fuego en un área de incendio.
 
@@ -474,7 +476,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Uso de suelo»: conjunto genérico de actividades que el Instrumento de Planificación Territorial admite o restringe en un área predial, para autorizar los destinos de las construcciones o instalaciones.
 
-«Vereda»: parte pavimentada de la acera.
+«Vereda»: Espacio continuo de la acera, pavimentado y libre de obstáculos, destinado exclusivamente al tránsito y uso de peatones, cuyo ancho y características mínimas corresponderá al que para cada caso disponga la presente Ordenanza.
 
 «Vía»: espacio destinado a la circulación de vehículos motorizados y no motorizados y/o peatones.
 
@@ -1970,7 +1972,7 @@ La Municipalidad podrá autorizar determinadas construcciones en las áreas verd
 
 3º: Se ejecuten o garanticen las obras paisajísticas que establezca la respectiva Municipalidad, incluyendo la mantención de las mismas.
 
-Se deberá incluir en el porcentaje recién indicado todas las edificaciones proyectadas y existentes, las vías vehiculares internas necesarias para estos usos, con excepción de la definida en el instrumento de planificación territorial, si la hubiere, y las superficies destinadas a estacionamientos sobre el terreno y cualquier otro porcentaje admitido previamente por el instrumento de planificación territorial.
+Se deberá incluir en el porcentaje recién indicado todas las edificaciones proyectadas y existentes, las vías internas para vehículos motorizados necesarias para estos usos, con excepción de la definida en el instrumento de planificación territorial, si la hubiere, y las superficies destinadas a estacionamientos sobre el terreno y cualquier otro porcentaje admitido previamente por el instrumento de planificación territorial.
 
 En las áreas verdes o parques que correspondan a bienes nacionales de uso público y que no se hubieren materializado como tales, la Municipalidad podrá autorizar construcciones de hasta un 10% del total del área verde o parque, siempre que:
 
@@ -2418,83 +2420,115 @@ Cumplimiento de Cesiones combinando con Aportes al Espacio Público en dinero, e
 
 #### Artículo 2
 
-2.8. Con el objeto de asegurar el uso, permanencia y desplazamiento de todas las personas en forma autónoma y sin dificultad, incluidas las personas con discapacidad, especialmente aquellas con movilidad reducida, los nuevos espacios públicos y aquellos existentes que se remodelen, deberán cumplir con las siguientes disposiciones:
+2.8. Con el objeto de asegurar el uso, permanencia y desplazamiento de todas las personas en forma autónoma y sin dificultad, especialmente aquellas con discapacidad y movilidad reducida, los nuevos espacios públicos y/o aquellos existentes que se remodelen, deberán ser accesibles, para lo cual deben dar cumplimiento a las disposiciones contenidas en este artículo.
 
-1. En todas las veredas se deberá consultar una ruta accesible, la que deberá identificarse y graficarse en los respectivos planos del proyecto. Su ancho será continuo y corresponderá al ancho de la vereda, con un mínimo de 1,20 m por 2,10 m de alto.
+1. Deberán consultar una ruta accesible, conforme al detalle y dimensiones mínimas que se indican en la siguiente tabla:
 
-En las circulaciones peatonales al interior de espacios públicos, tales como plazas, parques, la ruta accesible tendrá un ancho continuo mínimo de 1,5 m por 2,10 de alto.
+DIMENSIONES DE LA RUTA ACCESIBLE
 
-En los costados de una ruta accesible o una circulación peatonal, rampa o terraza no podrán existir desniveles superiores a 0,30 m sin estar debidamente protegidos por barandas y un borde resistente de una altura no inferior a 0,30 m, antecedido de un cambio de textura en el pavimento a 0,60 m del inicio del borde".
+.
+
+En los costados de una ruta accesible, circulación peatonal o terraza no podrán diseñarse desniveles superiores a 0,30 m sin estar protegidos por barandas y un borde resistente de una altura no inferior a 0,30 m. La altura mínima de la baranda, incluido el pasamanos, será de 0,95 m mientras que sus estándares y condiciones de diseño serán determinados por el arquitecto del proyecto debiendo en todo caso resguardarse que ésta no sea escalable. La baranda y pasamanos podrán reemplazarse por un antepecho continuo de no menos de 0,80 m de alto y no menos de 0,40 m de ancho.
+
+Excepcionalmente, en circulaciones peatonales ubicadas en bordes costeros, fluviales, lacustres, palustres y humedales, o al interior de plazas, parques y áreas verdes públicas, podrá prescindirse de la baranda, borde resistente o el antepecho mencionados en el párrafo precedente en tanto la superficie inferior producida por el desnivel corresponda a una superficie blanda tales como arena, una cubierta vegetal o vegetación arbustiva densa y en tanto el desnivel entre ambos planos no exceda los 0,30 m de altura. Asimismo, no se requerirá de barandas cuando el desnivel entre ambos planos se encuentre salvado por taludes cuya superficie contemple las mismas características de materialidad mencionadas precedentemente y cuyas pendientes no excedan el 30%.
+
+Con todo, ante la ausencia de barandas o antepechos, el diseño o remodelación de los espacios a que se refiere el párrafo precedente, deberá incorporar a lo largo de toda la extensión que no considere barandas o antepechos un pavimento podotáctil de alerta de 0,4 m y máximo de 0,6 m de ancho y al menos una señalización vertical que advierta, sobre la presencia del respectivo desnivel.
+
+Se exceptúan de lo dispuesto en el párrafo segundo de este numeral, relativo a la exigencia de contemplar barandas o antepechos, los andenes para el transporte de pasajeros o de carga y descarga de productos, los escenarios y graderías de anfiteatros u otros espacios de similar naturaleza, cuya función se vería impedida con la instalación de barandas, bordes inferiores o antepechos.
 
 2. En los pasos para peatones, así como en los cruces de vías no demarcados, el desnivel entre la vereda y la calzada deberá ser salvado con un rebaje de la vereda mediante rampas antideslizantes, y cumpliendo las siguientes especificaciones:
 
-a) El largo de la rampa no podrá superar 1,5 m;
+a) La pendiente de la rampa, en toda su extensión, no podrá exceder el 12% para longitudes hasta 1,5 m. Sobre dicha longitud, la pendiente de la rampa irá disminuyendo conforme aumenta la longitud de la misma. Para verificar la pendiente proyectada se aplicará la fórmula contenida en el numeral 2 del artículo 4.1.7. de esta Ordenanza.
 
-b) La pendiente de la rampa en todo su largo no podrá exceder el 12%;
+b) El ancho libre mínimo de la rampa será continuo y corresponderá al ancho de la vereda que enfrenta con un mínimo de 1,20 m. Se entenderá por ancho libre de la rampa el ancho del plano principal por el cual se produce el desplazamiento, sin considerar los planos laterales a que se refiere el literal d) de este numeral.
 
-c) El ancho libre mínimo de la rampa será continuo y corresponderá al de las líneas demarcadoras del paso peatonal que enfrenta. Cuando no existan líneas demarcadoras, deberá tener un ancho mínimo de 1,2 m;
+En la intersección de vías vehiculares con vías destinadas exclusivamente a circulación peatonal o que hayan sido convertidas en paseos peatonales, se deberá nivelar la calzada con la vereda o circulación respectiva. No obstante, si por consideraciones técnicas esto no fuere posible, el ancho de la rampa para salvar el desnivel entre acera y calzada corresponderá al ancho de las líneas demarcadoras que enfrenta o tendrá un mínimo de 4 m, si no las hubiere.
 
-d) La rampa, y el espacio que la antecede y precede; deberán permanecer siempre libre de obstáculos;
+En cruces cuyas líneas demarcadoras tengan un ancho igual o superior a 6 m, la rampa para conformar el rebaje de la vereda se podrá disminuir hasta en un 30% en relación al ancho de las líneas demarcadoras que enfrenta.
 
-e) La pendiente transversal de la rampa no será superior al 2%. No se requerirá de esta pendiente si la rampa se encuentra confinada por mobiliario urbano y/o por elementos verticales tales como árboles, postes de alumbrado público, telefonía, señales de tránsito, cámaras de vigilancia u otros dispositivos similares;
+En caso de no existir líneas demarcadoras en un cruce de vías, deberá estarse a lo señalado en el párrafo primero de este literal.
 
-f) El encuentro de la rampa con la calzada será igual a 0 cm, salvo casos fundados en los cuales por la topografía del terreno y/o para facilitar el escurrimiento de las aguas lluvia, dicho encuentro podrá tener hasta 1 cm de desnivel, presentando éste una terminación redondeada o roma, libre de aristas.
+c) La rampa, el espacio que la antecede y el que la sucede, deberán permanecer siempre libre de obstáculos.
 
-La rampa antideslizante, en el nivel de la vereda, deberá ser antecedida, por un pavimento podotáctil de alerta, adosado a la rampa y de un ancho mínimo de 0,4 m y máximo de 0,8 m. El pavimento de alerta no podrá ser instalado como pavimento de la rampa;
+d) La pendiente de los planos laterales que conforman la rampa deberá ser coincidente con la pendiente de la misma. No obstante, podrá prescindirse de dichos planos laterales en aquellos casos en que la rampa se encuentre confinada por mobiliario urbano u otros elementos tales como árboles, postes de alumbrado público, telefonía, señales de tránsito, cámaras de vigilancia u otros dispositivos similares.
 
-g) En las medianas de ancho superior a 6 m, que sean atravesadas por pasos para peatones, deberá implementarse el rebaje de vereda con rampas antideslizantes con las características citadas en las letras precedentes;
+e) El encuentro de la rampa con la calzada será continuo, sin desniveles, salvo casos fundados en los que para facilitar el escurrimiento de las aguas lluvia, dicho encuentro podrá tener hasta 1 centímetro de desnivel, presentando éste una terminación redondeada o roma, libre de aristas.
 
-h) Las medianas de ancho inferior a 6 m, que sean atravesadas por pasos para peatones, deberán rebajarse hasta el nivel de la calzada con un ancho libre mínimo que corresponderá al de las líneas demarcadoras del paso para peatones que enfrenta. Cuando no existan líneas demarcadoras, ese ancho libre será de 2 m como máximo.
+El pavimento podotáctil a que se refieren los numerales 5 y 6 de este artículo, no podrá ser utilizado como pavimento de la rampa, salvo cuando ésta tenga una pendiente igual o inferior a un 6%, en cuyo caso, el pavimento de alerta se podrá ubicar sobre la misma, previo al encuentro de la rampa con la calzada. En estos casos, el pavimento guía deberá extenderse hasta el pavimento de alerta, resguardando la conformación de la huella podotáctil, siempre y cuando proceda la instalación de dicha huella de acuerdo a lo señalado en el numeral 5 de este artículo.
 
-Cuando esta mediana consulte detención de peatones, su ancho no podrá ser inferior a 1,20 m a fin de permitir la permanencia de personas en silla de ruedas o coches de niños, entre otros casos posibles;
+En el nivel de la vereda, la rampa, en todo su ancho, deberá ser antecedida por un pavimento podotáctil de alerta, adosado a ésta, cuyo desarrollo tendrá un mínimo de 0,4 m y máximo de 0,6 m.
 
-i) Si la mediana de ancho inferior a 6 m consulta circulación peatonal a lo largo de ésta, el cruce con el rebaje señalado en la letra precedente, deberá ser salvado rebajando esa circulación en todo su ancho, mediante rampas antideslizantes, las que deberán cumplir las especificaciones antes señaladas que correspondan;
+f) En las medianas de ancho superior a 6 m, que sean atravesadas por pasos para peatones, deberán implementarse rebajes de vereda, mediante rampas, con las características indicadas en los literales precedentes.
 
-j) Cuando la mediana consulte paso para peatones en el sentido longitudinal de ésta, su ancho libre mínimo y continuo será de 1,20 m. Si los bordes laterales de dicho paso estuvieren a menos de 1 m de la calzada, deberán consultar rejas u otro tipo de barrera cuya altura sea de 0,95 m. Dicho paso podrá ser a nivel de la calzada o a nivel de la mediana. En éste último caso, el desnivel que se produzca con la calzada adyacente deberá ser salvado rebajando la mediana a través de rampas antideslizantes. En ambos lados de la mediana, el ancho de las líneas demarcadoras del paso para peatones sobre la calzada determinará el largo del rebaje de la mediana.
+g) En las medianas cuyo ancho sea igual o inferior a 6 m, que sean atravesadas por pasos para peatones, deberá rebajarse la mediana hasta el nivel de la calzada, en un ancho libre mínimo que corresponderá al de las líneas demarcadoras del respectivo paso para peatones.
 
-3. Cuando la vereda abarque toda la acera y su ancho sea inferior a 1,2 m, el desnivel entre ésta y la calzada deberá ser salvado rebajando toda la vereda mediante rampas hasta alcanzar el nivel de la calzada, manteniendo dicho nivel con un largo que corresponderá al de las líneas demarcadoras del paso peatonal que enfrenta. Cuando no existan líneas demarcadoras, ese largo deberá tener un mínimo de 1,5 m. En este caso las pendientes otorgadas a la rampa no podrán exceder el 10%.
+Si el ancho de las líneas demarcadoras fuere igual o superior a 6 m, el ancho del rebaje de la mediana podrá disminuirse hasta en un 30%. Cuando no existan líneas demarcadoras, el ancho libre del rebaje será de 2 m como máximo.
 
-4. Cuando en una misma vereda existan diferentes niveles, la transición entre estos se podrá solucionar por medio de rampas, ocupando todo el ancho de la vereda preferentemente. En este caso las pendientes otorgadas a la rampa no podrán exceder el 10%.
+h) En medianas de ancho inferior a 6 m que consulten circulación peatonal en su sentido longitudinal, se deberá salvar el encuentro de la circulación peatonal con el rebaje señalado en el literal precedente, mediante rampas, las que deberán cumplir con las características indicadas en los literales precedentes y cuyo ancho corresponderá al ancho de la circulación longitudinal de la mediana.
 
-El tramo de vereda entre desniveles no podrá tener un largo inferior a 1,20 m, salvo que éste enfrente el acceso de alguno de los edificios a los que se refiere el artículo 4.1.7. de esta Ordenanza, en cuyo caso su largo corresponderá al del acceso del edificio que enfrenta, con un mínimo de 3 metros.
+i) En las medianas que consulten pasos para peatones en su sentido longitudinal, dicho paso deberá tener un ancho libre mínimo y continuo de 1,20 m. Asimismo, si la distancia entre los bordes de dicho paso y la calzada adyacente, fuese inferior a 1 m, deberá considerarse un elemento de protección o resguardo cuya altura mínima será de 0,95 m. Dicho paso podrá efectuarse a nivel de la calzada o a nivel de la mediana. En este último caso, el desnivel que se produzca con la calzada deberá ser salvado rebajando la mediana, a través de rampas, con las características indicadas en los literales precedentes, según corresponda.
 
-5. Sólo en las veredas y circulaciones peatonales que contemplen altos flujos peatonales y/o cuyas dimensiones superen los 3 m de ancho, se consultará una huella podotáctil, compuesta por pavimentos con textura de guía y de alerta.
+El ancho de los rebajes de la mediana estará determinado por el ancho de las líneas demarcadoras del paso para peatones en la calzada. Cuando no existan líneas demarcadoras, ese ancho libre será de 2 m como máximo.
 
-La huella podotáctil irá instalada en la parte considerada ruta accesible en las veredas y circulaciones peatonales, alineada preferentemente a la línea oficial, o la línea de fachadas que enfrentan la respectiva vía, a una distancia no menor a 1 m de esa línea medidos desde el eje de esa huella. Cuando se consulte alineada con la solera, la distancia al eje de la huella no podrá ser inferior a 2 m.
+j) Las medianas que consulten detención de peatones, deberán tener un ancho igual o superior a 1,20 m a fin de permitir la permanencia de personas de manera segura.
 
-En la circulación peatonal al interior de espacios públicos se dispondrá alineada con la solerilla que confina el pavimento de esa circulación.
+3. Cuando la vereda abarque toda la acera y su ancho sea inferior a 1,2 m, el desnivel entre ésta y la calzada deberá ser salvado rebajando la vereda mediante rampas, hasta alcanzar el nivel de la calzada, nivelándose así vereda y calzada en el ancho que corresponderá al de las líneas demarcadoras del paso peatonal que enfrenta. En caso que no existan líneas demarcadoras, dicho ancho será de 1,5 m como mínimo. En estos casos las pendientes de las rampas no podrán exceder el 10%.
 
-6. El pavimento a emplear como guía al avance seguro tendrá textura con franjas longitudinales orientadas en la dirección del flujo peatonal, de un ancho de 0,40 m.
+4. Cuando se produzcan diferentes niveles en el sentido de circulación de una vereda, la transición entre éstos se resolverá por medio de rampas o planos inclinados, ocupando todo el ancho de la vereda preferentemente. En este caso las pendientes de las rampas no podrán exceder el 10%, salvo en casos justificados, en que se podrá exceder dicho porcentaje previa autorización del Director de Obras Municipales.
 
-El pavimento a emplear como alerta tendrá textura de botones que alerten de los cambios de dirección o peligro en la vereda o en la circulación peatonal. En los cambios de dirección el pavimento consultará un ancho de 0,4 m. Cuando se trate de advertir peligro en el avance seguro, el ancho de la huella será de 0,4 m como mínimo y 0,8 m como máximo, y estará ubicado perpendicular al eje de la ruta accesible.
+El tramo de vereda entre desniveles deberá tener una longitud mínima de 1,50 m. Si dicho tramo de vereda enfrenta el acceso de alguno de los edificios a los que se refiere el artículo 4.1.7. de esta Ordenanza, dicha longitud corresponderá a la del acceso peatonal del edificio que enfrenta, con un mínimo de 3 m.
 
-Ambos pavimentos sólo podrán utilizarse para servir de alerta o de guía en la huella podotáctil señalada en el numeral precedente. En ningún caso el pavimento de guía o de alerta podrá ser incorporado como pavimento de la rampa.
+5. En las veredas cuyo ancho sea igual o superior a 6 m y en las circulaciones peatonales al interior de los espacios públicos cuyo ancho sea igual o superior a 4 m, se deberá consultar una huella podotáctil, la que deberá cumplir con las siguientes características:
 
-7. Cuando se presenten desniveles salvados por escaleras se podrán intercalar rampas antideslizantes, las que deberán cumplir con lo establecido en el numeral 2 del artículo 4.1.7. de esta Ordenanza.
+a) Deberá estar instalada en la ruta accesible.
 
-8. En los pavimentos de las veredas los elementos tales como rejillas de ventilación, colectores de aguas lluvias, tapas de registro, protecciones de árboles, juntas de dilatación, cambios de pavimentos u otros de similar naturaleza, no podrán tener separaciones mayores a 1,5 cm entre sí, deberán ubicarse a nivel del pavimento y, en caso de contar con barras o rejas, éstas deberán disponerse en forma perpendicular al sentido del flujo peatonal. Asimismo, tales elementos no podrán estar ubicados en la ruta accesible, en el espacio que precede o antecede a la rampa, ni en la huella podotáctil.
+b) Estará compuesta por pavimento con texturas de alerta y de guía de acuerdo a las especificaciones que se indican en el numeral seis de este artículo.
 
-9. El mobiliario urbano ubicado en el espacio público no podrá interrumpir la ruta accesible, deberá ser instalado a un costado de ésta, al mismo nivel y su diseño deberá consultar las siguientes características:
+c) En pavimentos embebidos, tipo baldosas, la huella podotáctil deberá estar nivelada con el pavimento circundante. No obstante, para asegurar la detección de los elementos pododetectables, éstos podrán sobresalir hasta 5 milímetros respecto del pavimento circundante. Para el caso de pavimentos podotáctiles sobrepuestos se tolerará una altura máxima de 6 milímetros sobre el nivel del pavimento circundante.
 
-a) Los bancos o escaños al costado de la ruta accesible deberán tener un asiento a una altura de 0,45 m medidos desde el nivel de piso terminado, respaldo y apoya brazos. A uno o a ambos costados, deberá proveerse un espacio libre horizontal de 0,90 m por 1,20 m para que se pueda situar una persona con discapacidad en silla de ruedas, un coche de niños, o un dispositivo de ayuda técnica, tales como andadores fijos o andadores de paseo.
+d) Estará alineada preferentemente a la línea oficial o a la línea de fachadas que enfrenten la respectiva vía, o circulación peatonal, a una distancia igual o superior a 1 m medida desde esa línea hasta el eje de la huella. En el caso de fachadas que presenten discontinuidad respecto de la línea oficial, dicha distancia podrá fluctuar entre 1 m y 1,5 m medidos desde esa línea hasta el eje de la huella podotáctil.
 
-b) Cuando se provea de módulos o casetas con teléfonos públicos, todos los aparatos deberán instalarse a no más de 1,2 m de altura, medidos desde el nivel de piso terminado, en tanto que el largo del cable entre la unidad de teléfono y el auricular no podrá ser inferior a 0,75 m.
+Alternativamente, la huella podotáctil podrá alinearse a la solera, en cuyo caso la distancia entre ésta con el eje de la huella no podrá ser inferior a 3 m.
 
-El diseño del módulo o caseta deberá considerar las dimensiones requeridas para la aproximación frontal o lateral al teléfono de una persona con discapacidad en silla de ruedas. El área de aproximación debe estar libre de obstáculos y tener dimensiones mínimas de 0,80 m por 1,20 m para permitir una silla de ruedas. Dicha área no podrá obstaculizar la circulación peatonal.
+e) En las circulaciones peatonales al interior de plazas, parques y áreas verdes públicas, se dispondrán alineadas a las solerillas u otros elementos que confinen los pavimentos de estas circulaciones y se ubicará preferentemente en el eje de la ruta accesible.
 
-Cuando se determine la aproximación frontal, la altura del área bajo ese módulo o caseta no será inferior a 0,70 m, medidos desde el nivel de piso terminado, debiendo tener no menos de 0,60 m de profundidad.
+Se podrá prescindir de la huella podotáctil a que se refiere este numeral, en caso que los planos de fachada de las edificaciones, así como las solerillas u otros elementos similares que confinen los pavimentos al interior de los espacios públicos, provean de continuidad y puedan actuar como guía para el desplazamiento seguro, situación que deberá quedar consignada en los respectivos planos y justificada en la respectiva memoria de accesibilidad del proyecto.
 
-c) Los paraderos de locomoción colectiva no podrán obstaculizar la ruta accesible y deberán estar conectados con ésta. En caso que los paraderos se proyecten sobre el nivel de la vereda, o bajo éste, el desnivel que se produzca deberá salvarse mediante rampas antideslizantes que no sobrepasen el 10% de pendiente. La rampa de acceso a los paraderos siempre deberá estar libre de obstáculos. La señalización vertical que identifica al paradero estará ubicada de forma que no obstaculice el acceso al paradero ni el giro en 360º de una silla de ruedas. En todo el largo del paradero que enfrenta a la calzada se deberá instalar el pavimento de alerta, con una aplicación de color que contraste con el pavimento del paradero.
+6. El pavimento podotáctil a emplear como guía para el avance seguro tendrá textura con franjas longitudinales orientadas en la dirección del flujo peatonal, de un ancho de 0,4 m.
 
-d) Cuando se requiera aumentar el ancho de la vereda a todo o parte de la acera, los tazones o platos de riego de los árboles deberán contemplar una protección cuyo nivel corresponda al nivel de la vereda. El elemento usado para esa protección deberá tener contraste cromático respecto del pavimento circundante.
+El pavimento podotáctil a emplear como alerta tendrá textura de botones que alerten de los cambios de dirección superiores a los 45° o situaciones de peligro en la ruta accesible. En los cambios de dirección el pavimento consultará un desarrollo mínimo de 0,4 m. El ancho del pavimento de alerta será de 0,4 m como mínimo y 0,8 m como máximo, y estará ubicado perpendicular al eje de la ruta accesible, en caso que se requiera advertir peligro en el avance seguro.
 
-e) Los postes de alumbrado público o de telefonía, señales de tránsito verticales, cámaras de vigilancia y otros dispositivos o elementos verticales similares, así como los bolardos deberán colocarse alineados con la solera y en el borde de la acera cercano a la calzada, y su aplicación de color deberá contrastar con el color del pavimento de la vereda. Asimismo, deberán instalarse fuera de la vereda o de la banda de circulación peatonal al interior del espacio público, y en ningún caso interrumpirán la ruta accesible ni el rebaje de vereda. En este caso, los bolardos deberán tener dimensiones no inferiores a 1 m.
+Ambos pavimentos sólo deberán utilizarse para servir de alerta o de guía en la huella podotáctil señalada en el numeral precedente, no pudiendo en ningún caso ser incorporados como pavimento de la rampa, a excepción de aquellos casos a que se refiere el párrafo segundo del literal e), del numeral 2 de este artículo.
 
-f) Cuando en la remodelación de vías existentes se consulte la acera y calzada al mismo nivel y la solera sea reemplazada por bolardos, se instalará una franja continua de pavimento podotáctil de alerta adyacente a la línea imaginaria que forman los bolardos a lo largo de la vía remodelada y por el lado que corresponde a la vereda. En este caso, los bolardos consultarán una aplicación de color que contraste con el pavimento de la vereda pudiendo tener dimensiones inferiores a 1 m, no pudiendo colocarse en la ruta accesible ni en la zona destinada al cruce para peatones.
+En el diseño y trazado de la huella podotáctil, deberá velarse siempre por el contraste entre las texturas de los pavimentos de guía y de alerta, en relación al pavimento de la ruta accesible.
 
-g) En las vías de mayor flujo peatonal, la Municipalidad deberá dotar a los semáforos con señales auditivas y luminosas para las personas con discapacidad visual y auditiva, debiendo ubicarse éstos adyacentes a los pasos para peatones. El dispositivo de control de estas señales deberá instalarse a una altura máxima de 1 m respecto del nivel de la vereda, y contemplará además las siguientes características:
+7. Cuando los proyectos a que se refiere este artículo, presenten desniveles entre sus distintas áreas o recorridos, se deberá garantizar su accesibilidad mediante la utilización de rampas las que deberán cumplir con lo establecido en el numeral 2 del artículo 4.1.7. de esta Ordenanza.
 
-- Poseerá información táctil del cruce en sistema braille e indicarán la dirección del cruce mediante flecha.
+8. En las veredas y circulaciones peatonales, los elementos tales como rejillas de ventilación, rejillas de sumideros para la recolección de aguas lluvias, tapas de registro, protecciones para alcorques, juntas de dilatación, cambios de pavimentos u otros de similar naturaleza, no podrán tener separaciones mayores a 1,5 centímetros respecto del pavimento circundante, deberán ubicarse a nivel del pavimento y, en caso de contar con barras o rejas, éstas deberán disponerse en forma perpendicular al sentido del flujo peatonal.
+
+Asimismo, tales elementos no podrán estar ubicados en la ruta accesible, en el espacio que antecede o sucede a una rampa, en la rampa misma, ni en la huella podotáctil, salvo en aquellos casos en que las dimensiones de la vereda no permitan una solución alternativa lo cual deberá demostrarse realizando los detalles respectivos en el plano de accesibilidad del proyecto.
+
+9. El mobiliario urbano no podrá interrumpir la ruta accesible y su diseño deberá consultar las siguientes características:
+
+a) Los bancos o escaños deberán tener un asiento a una altura no inferior a los 0,45 m medidos desde el nivel de piso terminado, con apoya brazos y un respaldo cuyo ángulo no podrá exceder los 105°. A uno o a ambos costados de éstos, deberá proveerse un espacio libre horizontal de 0,90 m por 1,20 m para que se pueda situar una persona con discapacidad en silla de ruedas, un coche de niños, o un dispositivo de ayuda técnica, tales como andadores fijos, andadores de paseo u otros similares.
+
+b) Los módulos o casetas con teléfonos públicos provistos en los proyectos, deberán instalarse a no más de 1,2 m de altura, medidos desde el nivel de piso terminado, en tanto que el largo del cable entre la unidad de teléfono y el auricular no podrá ser inferior a 0,75 m.
+
+El diseño del módulo o caseta deberá considerar las dimensiones requeridas para la aproximación frontal o lateral al teléfono de una persona con discapacidad en silla de ruedas. El área de aproximación debe estar libre de obstáculos y tener dimensiones mínimas de 0,90 m por 1,20 m para permitir una silla de ruedas. Dicha área no podrá obstaculizar la circulación peatonal.
+
+En aquellos casos de aproximación frontal al módulo o caseta, la altura libre del área bajo el teléfono no será inferior a 0,70 m, medidos desde el nivel de piso terminado, y la profundidad de dicha área no será inferior a 0,60 m.
+
+c) Los paraderos de transporte público de pasajeros deberán estar conectados con la ruta accesible y no deberán obstaculizarla. En caso que los paraderos se proyecten sobre el nivel de la vereda, o bajo éste, el desnivel que se produzca deberá salvarse mediante rampas que no sobrepasen el 10% de pendiente. La rampa de acceso a los paraderos siempre deberá estar libre de obstáculos. La señalización vertical que identifica al paradero estará ubicada de forma que no obstaculice el acceso al paradero ni el giro en 360° de una silla de ruedas. En todo el largo del paradero que enfrenta a la calzada se deberá instalar el pavimento de alerta, con una aplicación de color que contraste con el pavimento del paradero.
+
+d) Los alcorques o platos de riego de los árboles deberán contemplar una protección cuyo nivel corresponderá al nivel de la vereda. El elemento usado como protección deberá tener contraste cromático respecto del pavimento circundante.
+
+e) Los postes de alumbrado público o de telefonía, señales de tránsito verticales, cámaras de vigilancia y otros dispositivos o elementos verticales similares, así como los bolardos deberán instalarse en la acera a un costado de la ruta accesible, alineados con la solera, y su aplicación de color deberá contrastar con el color del pavimento de la vereda. Asimismo, al interior de espacios públicos, éstos deberán instalarse fuera de la circulación peatonal, y no podrán interrumpir la ruta accesible ni los rebajes de vereda. En todos los casos, la altura de los bolardos deberá ser igual o superior a 1 metro.
+
+f) Si en la remodelación de vías existentes, la vereda y la calzada se consultan a un mismo nivel y la solera es reemplazada por bolardos para delimitar el flujo vehicular, se instalará una franja continua de pavimento podotáctil de alerta, adyacente a la línea imaginaria que forman los bolardos a lo largo de la vía remodelada y por el lado que corresponde a la vereda. En este caso, los bolardos consultarán una aplicación de color que contraste con el pavimento de la vereda, y no podrán tener una altura inferior a 1 m, ni podrán colocarse en la ruta accesible o en la zona correspondiente al cruce para peatones.
+
+g) En las vías de mayor flujo peatonal, la Municipalidad respectiva deberá dotar a los semáforos con señales auditivas y luminosas para las personas con discapacidad visual y/o auditiva, debiendo ubicarse éstos adyacentes a los pasos para peatones. El dispositivo de control de estas señales deberá instalarse a una altura máxima de 1 m respecto del nivel de la vereda, y contemplará además las siguientes características:
+
+- Poseerá información táctil del cruce en sistema braille e indicará la dirección del cruce mediante flecha.
 
 - Su activación será superficial o puntual e incorporará vibración.
 
@@ -2502,15 +2536,37 @@ g) En las vías de mayor flujo peatonal, la Municipalidad deberá dotar a los se
 
 - Emitirá una señal luminosa de activación, indicando avance y detención.
 
-h) Cuando se incorporen áreas de juegos infantiles, éstos deberán estar conectados a la ruta accesible y a través de ésta, se conectarán con estacionamientos para personas con discapacidad si el proyecto los contemplare, con paraderos de transporte público y otras áreas consideradas en el respectivo proyecto, tales como áreas de descanso, observación, actividades recreativas y/o deportivas.
+10. Los parques, plazas y áreas verdes públicas emplazadas dentro de los límites urbanos, cuya superficie sea igual o superior a 2 hectáreas, deberán contar con servicios higiénicos de uso público, los que deberán considerar diseño universal conforme a lo dispuesto en el numeral 6 del artículo 4.1.7. de esta Ordenanza, además de dar cumplimiento a los requisitos que se indican a continuación:
 
-i) Cuando se incorporen baños públicos en el proyecto, se deberá proveer de al menos un baño para personas con discapacidad, el cual estará conectado a la ruta accesible y cuyas características corresponderán a las señaladas en el numeral 6 del artículo 4.1.7. de esta Ordenanza.
+- Deberán proyectarse a una distancia máxima de 50 metros medidos desde cualquier punto de los estacionamientos dispuestos para personas con discapacidad, si los hubiere, hasta el acceso a los recintos destinados a los servicios higiénicos.
 
-10. Cuando los respectivos proyectos de nuevos espacios públicos o de los que se remodelen, consideren estacionamientos a lo menos el 1% de éstos será para personas con discapacidad, con un mínimo de uno. Esta cuota de estacionamientos estará agrupada en una misma zona y dispuesta de tal manera que permita acceder o salir del vehículo en forma libre y segura a personas con discapacidad, especialmente aquellas en silla de ruedas. La calzada en ningún caso podrá considerarse como un área segura para acceder o salir del vehículo.
+- Deberán proyectarse a una distancia máxima de 50 metros medidos desde cualquier punto de al menos uno de los paraderos de transporte público que sirva al proyecto, si los hubiere, hasta el acceso a los recintos destinados a los servicios higiénicos.
 
-Sus dimensiones mínimas serán de 5 m de largo por 2,5 m de ancho más una franja de circulación segura de 1,10 m de ancho dispuesta a uno de sus costados longitudinales, la que podrá ser compartida con otro estacionamiento para personas con discapacidad y a través de la cual se conectará a la ruta accesible existente, o a la determinada por el respectivo proyecto. La pendiente del terreno sobre el cual se disponen estos estacionamientos, incluida la franja de circulación segura, no podrá ser superior al 2% tanto en el sentido transversal como longitudinal. Estos estacionamientos deberán señalizarse sobre el pavimento, con el Símbolo Internacional de Accesibilidad (SIA), y su demarcación y señalización vertical será conforme lo establece el Manual de Señalización de Tránsito, aprobado por decreto Nº78 del Ministerio de Transportes y Telecomunicaciones, de 2012, o el que lo reemplace. La señalización vertical no podrá obstruir la ruta accesible, el área destinada a estos estacionamientos, la apertura de las puertas de los respectivos vehículos, ni la franja de circulación segura.
+- Deberán proyectarse a una distancia máxima de 100 metros medidos desde cualquier punto de las áreas que consideren juegos no mecanizados, si las hubiere, hasta el acceso a los recintos destinados a los servicios higiénicos.
 
-Si por las características topográficas del terreno, no es factible dar cumplimiento a las disposiciones de este artículo, el Director de Obras Municipales podrá, previa solicitud fundada por parte del interesado, autorizar mediante resolución fundada otras soluciones que aseguren el desplazamiento de las personas con discapacidad, especialmente aquellas con movilidad reducida.
+- Los baños para las personas con discapacidad deberán estar al interior de los recintos destinados a los baños generales, evitando concebir recintos con accesos segregados que pongan en riesgo el adecuado funcionamiento o mantención de los mismos.
+
+- Los recintos destinados a servicios higiénicos, deberán considerar un área destinada a mudadores para niños, con diseño universal, sin distinción de sexos de los usuarios, y deberá contar con un mesón o espacio para la muda de dos niños a la vez y al menos dos lavamanos.
+
+Los servicios higiénicos a que se refiere este literal deberán estar conectados a través de la ruta accesible, con todas aquellas áreas o sectores que considere el proyecto.
+
+En aquellos parques, plazas y áreas verdes públicas cuya superficie sea igual o superior a 5 hectáreas, las distancias antes indicadas podrán aumentarse al doble.
+
+Los parques, plazas y áreas verdes públicas cuya superficie sea inferior a 2 hectáreas, que consideren servicios higiénicos de uso público, deberán igualmente dar cumplimiento a las disposiciones de este numeral.
+
+11. Los proyectos a que se refiere este artículo y que consideren estacionamientos, deberán destinar a lo menos el 1% de éstos a personas con discapacidad, con un mínimo de dos. Estos estacionamientos estarán agrupados en una misma zona y dispuestos de tal manera que permitan acceder o salir del vehículo en forma libre y segura a personas con discapacidad, especialmente aquellas en silla de ruedas. En ningún caso, la calzada podrá considerarse como un área segura para acceder o salir del vehículo.
+
+Sus dimensiones mínimas serán de 5 m de largo por 2,5 m de ancho, más una franja de circulación segura de 1,10 m de ancho, dispuesta a uno de sus costados longitudinales, la que podrá ser compartida con otro estacionamiento para personas con discapacidad, y se conectará a la ruta accesible existente, o a la que proponga el respectivo proyecto. La pendiente del terreno sobre el cual se dispongan estos estacionamientos, incluida la franja de circulación segura, no podrá ser superior al 2%, tanto en el sentido transversal como longitudinal. Estos estacionamientos deberán estar señalizados con el Símbolo Internacional de Accesibilidad (SIA), y su demarcación sobre el pavimento y señalización vertical será conforme lo establece el Manual de Señalización de Tránsito, aprobado por d ecreto N° 78 del Ministerio de Transportes y Telecomunicaciones, de 2012, o el que lo reemplace. La señalización vertical no podrá obstruir la ruta accesible, el área destinada a estos estacionamientos, la apertura de las puertas de los respectivos vehículos, ni la franja de circulación segura.
+
+12. Los parques, plazas o áreas verdes públicas y privadas de uso público, que contemplen juegos infantiles no mecanizados, deberán construirse a partir de un diseño universal que permita su utilización de forma autónoma por todos los niños, incluidos aquellos con discapacidad.
+
+En su diseño, los juegos infantiles convencionales como aquellos que cuenten con un diseño universal, así como también todos aquellos dispositivos de carácter recreativo o educativo destinados al esparcimiento, deberán ir dispuestos en el espacio de manera tal, que su utilización permita la plena integración e interacción de todos los niños, niñas y adolescentes, así como también la posibilidad que ellos puedan estar acompañados por sus padres o tutores, si éstos tuvieran algún tipo de discapacidad.
+
+Asimismo, por medio de la ruta accesible, estas zonas deberán estar conectadas con todas aquellas áreas consideradas en el respectivo proyecto tales como las destinadas al descanso, a la observación, a actividades recreativas y/o deportivas, estacionamientos para personas con discapacidad y servicios higiénicos si los hubiere, paraderos de transporte público u otras.
+
+Cuando en los proyectos de nuevos espacios públicos, las características topográficas del terreno no permitieren dar cumplimiento a las pendientes que, para cada caso, establece este artículo, el Director de Obras Municipales, previa solicitud fundada por parte del interesado, podrá autorizar en el permiso correspondiente la exención al cumplimiento de dicha exigencia. Con todo, la solución propuesta deberá asegurar la continuidad en el desplazamiento de todas las personas considerando los respectivos rebajes de vereda.
+
+La solicitud fundada a que se refiere el inciso precedente, deberá ser ingresada por el interesado junto con la respectiva solicitud de permiso de loteo, urbanización o edificación, según corresponda, adjuntando un plano topográfico del proyecto que incluya el trazado de las vías propuestas, sean estas vehiculares y/o peatonales, que demuestren la imposibilidad de conseguir las pendientes exigidas. Asimismo, la autorización, que para estos efectos conceda el Director de Obras Municipales, deberá quedar expresamente señalada en el permiso respectivo.
 
 Las disposiciones antes señaladas, se aplicarán igualmente al interior de parques, plazas y áreas libres destinadas a área verde, que no son bienes nacionales de uso público, a las que se refiere el artículo 2.1.31. de esta Ordenanza.
 
@@ -2518,9 +2574,11 @@ Las autorizaciones que se concedan para la ocupación del espacio público, sean
 
 Tratándose de proyectos de repavimentación, reparación, remodelación o reposición de veredas y/o calzadas, el respectivo proyecto de pavimentación deberá considerar la construcción de los rebajes de vereda con sus respectivas rampas, siempre dando continuidad a la circulación peatonal entre veredas.
 
-En los casos señalados en el inciso anterior, si por las características topográficas del terreno, por las dimensiones mínimas de las aceras existentes y/o porque estas se encuentran con obstáculos que no sea posible retirar, tales como árboles, postes de alumbrado público o de telecomunicaciones u otros elementos similares, y por ello no fuere factible dar cumplimiento a las disposiciones de este artículo, en el respectivo proyecto se deberán materializar otras soluciones permanentes que aseguren el desplazamiento de las personas con movilidad reducida o con discapacidad. En estos casos, el ancho de la ruta accesible podrá ser rebajado a no menos de 0,90 m.
+En los casos señalados en el inciso anterior, si por las características topográficas del terreno, por las dimensiones mínimas de las aceras existentes y/o porque estas se encuentran con obstáculos que no sea posible retirar, tales como árboles, postes de alumbrado público o de telecomunicaciones u otros elementos similares, y por ello no fuere factible dar cumplimiento a las disposiciones de este artículo, en el respectivo proyecto se deberán materializar otras soluciones permanentes que aseguren el desplazamiento de todas las personas. En estos casos, el ancho de la ruta accesible podrá ser rebajado a no menos de 0,90 m.
 
 Con todo, si las aceras existentes fuesen inferiores a 0,90 m de ancho y/o por la presencia de los obstáculos señalados en el inciso precedente no fuere factible dar cumplimiento a las disposiciones de este artículo, no será exigible al proyecto el cumplimiento de las disposiciones de este artículo referidas al ancho mínimo de la ruta accesible.
+
+> **Nota.** El artículo transitorio del Decreto 30, Vivienda, publicado el 15.05.2023, señala que las disposiciones contenidas en el numeral 10 del presente artículo, referidas a la exigencia de contemplar servicios higiénicos en los proyectos allí descritos, comenzarán a regir una vez transcurridos veinticuatro meses desde la fecha de publicación de la citada norma en el Diario Oficial.
 
 #### Artículo 2
 
@@ -2716,37 +2774,23 @@ l) Deberán existir aceras a ambos costados, cada una de allas de 2 m de ancho m
 
 m) ELIMINADA.
 
-En las vías expresas, troncales, colectoras y de servicio estarán permitidas las ciclovías, siempre que cumplan los requisitos de segregación contemplados en el artículo 2.3.2. bis de esta Ordenanza. En las vías locales, no se requerirá segregación
+Tratándose de obras de adecuación en vías urbanas existentes, tales como proyectos viales de pavimentación o repavimentación, reposición, mejoramiento, conservación, adecuación de los perfiles existentes, redistribución del espacio de veredas y platabandas en aceras, o de redistribución del espacio entre aceras y calzadas, implementación de medidas de gestión de velocidad o de ciclovías, no será requisito dar cumplimiento a los criterios, condiciones y estándares de diseño establecidos en el inciso primero de este artículo, en tanto se dé cumplimiento, como mínimo, a los siguientes requisitos:
 
-Con todo, tratándose de vías urbanas existentes, para la ejecución de un proyecto de pavimentación, de mejoramiento del estándar de la calzada, de repavimentación, reparación, remodelación, adecuación de los perfiles existentes redistribución del espacio de la calzada, medidas de gestión de velocidad o implementación de ciclovías, no será requisito cumplir con los criterios, condiciones y estándares de diseño que se establecen en el inciso primero de este artículo, siempre que se cumpla como mínimo con los siguientes requisitos, según corresponda:
+a) Deberán contemplarse aceras a ambos costados de la vía, con un ancho mínimo de 2,00 m., las que deberán considerar la respectiva ruta accesible en los términos previstos en el artículo 2.2.8. de la presente Ordenanza.
 
-a) En las vías de una pista que contemplen locomoción colectiva, el ancho mínimo de su calzada pavimentada no será inferior a 6,50 metros.
+b) Las ciclovías deberán dar cumplimiento a lo dispuesto en el artículo 2.3.2. bis de esta Ordenanza.
 
-Cuando consulten 2 o más pistas, tendrán a lo menos una pista de 3,50 metros y las otras de un ancho mínimo de 3,00 metros.
+c) En las vías que contemplen servicios de transporte público como buses o trolebuses, el ancho de la calzada será igual o superior a 6,50 m.
 
-b) En las vías de una pista que no contemplen locomoción colectiva, el ancho mínimo de su calzada pavimentada no será inferior a 4,50 metros. Cuando consulten 2 o más pistas, el ancho mínimo de cada pista será de 2,75 metros.
+d) En las vías que contemplen servicios de transporte público, como minibuses o taxis colectivos, o que solo consideren el desplazamiento de vehículos particulares, el ancho mínimo de la calzada será de 4,50 m. Cuando se consulte más de una pista, el ancho mínimo de la calzada será de 5,50 m.
 
-c) En las vías de una pista que contemplen flujo eventual de vehículos, el ancho mínimo de su calzada pavimentada no será inferior a 4,00 metros.
-
-d) Tratándose de la implementación de ciclovías, observar las características de segregación referidas en el numeral 2 del artículo 2.3.2 bis, debiendo aplicarse conforme a la velocidad fijada por la autoridad respectiva
-
-En los casos a que se refieren las letras a), b) y c), precedentes, deberán contemplarse aceras a ambos costados, cada una de ellas de un ancho mínimo de 2,00 metros. Excepcionalmente y por razones fundadas, el Servicio de Vivienda y Urbanización respectivo, podrá autorizar la disminución de este ancho.
-
-INCISO DEROGADO
+e) Cuando los municipios establezcan zonas de tránsito calmado, conforme a lo dispuesto en la Ley de Tránsito, el ancho mínimo de las calzadas pavimentadas será de 3,50 m.
 
 #### Artículo 2
 
-3.2. bis. Las ciclovías se definirán considerando las siguientes características:
+3.2. bis. Las nuevas ciclovías y aquellas existentes que se adecuen, deberán cumplir con lo dispuesto por el DS N° 102, de 2019, del Ministerio de Transportes y Telecomunicaciones, que reglamenta, entre otras materias, las condiciones de gestión y seguridad de tránsito de las ciclovías, o aquel que lo reemplace.
 
-1.- Deben formar parte de la calzada de una vía. Excepcionalmente, cuando se requiera conectar ciclovías, podrán ubicarse en la mediana o en un bandejón, o como parte de la acera, sin afectar la vereda.
-
-2.- Deberán contemplar elementos de segregación según la velocidad de diseño de la vía en que se emplazan, de acuerdo al siguiente detalle:
-
-a) En vías con velocidades de diseño mayores a 50 km/h la ciclovía requerirá segregación física, que consistirá en una franja demarcada de seguridad de mínimo 50 cm de ancho, en cuyo eje se dispondrán elementos separadores que impidan su invasión lateral por vehículos motorizados, pero que permitan su atravieso a los vehículos a energía humana que transitan por la ciclovía. Los separadores deberán inscribirse en una envolvente definida por ángulos de 45º aplicados en los bordes de la franja de seguridad y un plano paralelo al pavimento de la calzada a 50 cm de altura; deberán tener características geométricas y de materialidad que minimicen los efectos sobre los usuarios de la ciclovía en caso de caídas y deberán tener elementos reflectantes y ser preferentemente desmontables, para permitir la mantención de la calzada.
-
-b) En vías con velocidades de diseño entre 30 y 50 km/h la ciclovía requerirá sólo una segregación visual, que consistirá en una franja demarcada de seguridad de entre 30 y 50 cm de ancho, en cuyo eje se dispondrán tachas o tachones viales reflectantes a una distancia no mayor a 1 m entre sí.
-
-c) Las vías con velocidad de diseño inferior a 30 km/h no requerirán ciclovías segregadas.
+Con todo, las ciclovías no podrán afectar la ruta accesible a que se refiere el artículo 2.2.8. de la presente Ordenanza.
 
 #### Artículo 2
 
@@ -3304,7 +3348,7 @@ Las modificaciones de los proyectos a que se refiere el inciso primero de este a
 
 #### Artículo 2
 
-6.17. Los proyectos acogidos a la ley Nº 19.537, sobre copropiedad inmobiliaria, clasificados como condominios Tipo B, deberán contemplar superficies de terreno de dominio común destinadas a vialidad, áreas verdes y equipamiento como si se trataran de proyectos de loteo.
+6.17. Los proyectos acogidos al régimen de copropiedad inmobiliaria, clasificados como condominios Tipo B, deberán contemplar superficies de terreno de dominio común destinadas a vialidad, áreas verdes y equipamiento como si se trataran de proyectos de loteo.
 
 En estos casos, el proyecto deberá asimilar los anchos de las vías conforme a la tipología que establece el artículo 2.3.4. de este mismo Título y el pavimento de las mismas se ejecutará conforme a las especificaciones mínimas que señalan los incisos quinto y siguientes del artículo 3.2.5., las cuales podrán ser modificadas por el arquitecto del proyecto, siempre que se aseguren condiciones similares en cuanto a resistencia y durabilidad.
 
@@ -3312,7 +3356,7 @@ Tratándose de proyectos clasificados como condominios Tipo A, los estándares y
 
 Las obras de pavimentación señaladas no requerirán permisos especiales o la aprobación de un proyecto de las mismas, y serán recepcionadas por la Dirección de Obras Municipales bajo el carácter de obras complementarias.
 
-Con todo, en los condominios Tipo A y Tipo B, se deberá contemplar al menos una ruta accesible que conecte su acceso desde el espacio público con las unidades o edificios que el proyecto contemple, los estacionamientos para personas con discapacidad y los locales o recintos de uso común que sean bienes comunes del condominio. Lo anterior, sin perjuicio de cumplir con las disposiciones contenidas en el artículo 4.1.7. de esta Ordenanza que les sean aplicables. La ruta accesible proyectada en el terreno de dominio común deberá tener un ancho mínimo de 1,20 m por 2,10 m de alto y dar cumplimiento al artículo 2.2.8. de esta Ordenanza, en lo que corresponda. Los pavimentos de la ruta accesible y de las circulaciones peatonales contempladas serán conforme a lo dispuesto en el inciso segundo precedente. Asimismo, los estacionamientos de visita que el proyecto contemple deberán cumplir con lo dispuesto en el artículo 2.4.2. de esta Ordenanza.
+Con todo, en los condominios Tipo A y Tipo B, se deberá contemplar al menos una ruta accesible que conecte su acceso desde el espacio público con el acceso a las unidades o edificios que el proyecto contemple, los estacionamientos para personas con discapacidad y los locales o recintos de uso común que sean bienes comunes del condominio. Lo anterior, sin perjuicio de cumplir con las disposiciones contenidas en el artículo 4.1.7. de esta Ordenanza que les sean aplicables. La ruta accesible proyectada en el terreno de dominio común deberá tener un ancho mínimo de 1,20 m por 2,10 m de alto y dar cumplimiento al artículo 2.2.8. de esta Ordenanza, en lo que corresponda. Los pavimentos de la ruta accesible y de las circulaciones peatonales contempladas serán conforme a lo dispuesto en el inciso segundo precedente. Asimismo, los estacionamientos de visita que el proyecto contemple deberán cumplir con lo dispuesto en el artículo 2.4.2. de esta Ordenanza.
 
 #### Artículo 2
 
@@ -4114,7 +4158,7 @@ a) Los botones de comando u otros sistemas de activación, deberán estar ubicad
 
 b) Deberá instalarse un pasamano en al menos una pared lateral de la cabina y en todo su largo. El pasamano debe tener un diámetro entre 3,5 cm y 5 cm, y estará instalado a no menos de 3,5 cm de la pared y a 0,90 m de altura medidos desde el nivel de piso terminado de la cabina. El pasamano será interrumpido si se sitúa en la misma pared donde se encuentra instalado el panel con los botones de comando o sistemas de activación del ascensor para evitar su obstrucción. En las cabinas cuyo ancho sea superior a 2 m, el pasamano deberá estar instalado en al menos dos paredes de ésta.
 
-c) En las cabinas en las que por sus dimensiones una persona en silla de ruedas no pueda girar en su interior, la pared de fondo de ésta deberá contemplar un espejo u otro dispositivo que permita a esa persona observar los obstáculos cuando se mueva hacia atrás al salir de la cabina. Tratándose de un espejo, éste será del tipo inastillable y será instalado a partir de 0,30 cm de altura, medidos desde el nivel de piso terminado de la cabina.
+c) En las cabinas en las que por sus dimensiones una persona en silla de ruedas no pueda girar en su interior, la pared de fondo de ésta deberá contemplar un espejo u otro dispositivo que permita a esa persona observar los obstáculos cuando se mueva hacia atrás al salir de la cabina. Tratándose de un espejo, éste será del tipo inastillable y será instalado a partir de 0,30 m de altura, medidos desde el nivel de piso terminado de la cabina. Este requisito no será exigible en ascensores de doble embarque.
 
 d) Deberán contar con una señal audible que indique en cada parada el número del piso que corresponda. El tiempo de detención deberá permitir el paso de una persona con discapacidad en silla de ruedas, así como de personas con discapacidad visual o movilidad reducida.
 
@@ -4169,6 +4213,8 @@ e) Los servicios higiénicos destinados a personas con discapacidad deberán se�
 8. Cuando se contemple la instalación de teléfonos públicos, se efectuará conforme a lo señalado en el artículo 2.2.8. de esta Ordenanza.
 
 9. Cuando se requieran ascensores, conforme al artículo 4.1.11. de este mismo Capítulo, uno de ellos deberá contar con las medidas mínimas de cabina establecidas en la letra c) del numeral 1 de ese mismo artículo.
+
+Los edificios a los que se refiere este artículo, no contarán con la obligación de contemplar la huella podotáctil regulada en el artículo 2.2.8. de esta Ordenanza.
 
 > **Nota.** El numeral 2 del artículo primero del Decreto 37. Vivienda, publicado el 21.03.2016, modifica la presente norma en el sentido de reemplazar el numeral 9, por el siguiente: "9. Cuando se requieran ascensores, conforme al artículo 4.1.11. de este mismo Capítulo, uno de ellos deberá contar con las medidas mínimas de cabina establecidas en la letra c) del numeral 1 de ese mismo artículo.". Sin embargo, la presente norma a partir de la modificación introducida por el numeral 8 del artículo primero del Decreto 50, Vivienda, publicado el 04.03.2014 no posee numeral 9, por lo que no se ha podido reemplazar.
 
@@ -10538,7 +10584,7 @@ a) Sus dimensiones y distribución de artefactos en su interior deberán contemp
 
 b) Su puerta de acceso consultará un ancho libre de paso que deberá ser como mínimo de 0,80 m y abrirá preferentemente hacia el exterior. En caso de abrir hacia el interior, el barrido de la puerta no podrá interferir con el radio de giro señalado en la letra precedente. Sólo en casos fundados podrá utilizarse puerta corredera.
 
-c) Para la instalación del lavamanos, inodoro y sus barras de apoyo, y los accesorios de baño, se deberá considerar los requisitos señalados en el numeral 7 del artículo 4.1.7. de esta Ordenanza.
+c) Para la instalación del lavamanos, inodoro y sus barras de apoyo, y los accesorios de baño, se deberá considerar los requisitos señalados en el numeral 6 del artículo 4.1.7. de esta Ordenanza.
 
 d) El receptáculo de ducha tendrá dimensiones mínimas de 0,90 m de ancho por 1,20 m de largo, sin reborde y con un desnivel máximo hacia el desagüe de 0,5 cm, respecto del nivel de piso terminado. Deberá considerar además un espacio de transferencia lateral, el cual podrá ser compartido por el inodoro. Dispondrá de un espacio para un asiento de área 0,45 m por 0,45 m, que deberá estar a una altura terminada de 0,46 m, pudiendo ser fijo, abatible o movible. Podrá considerar brazos laterales de apoyo. La regadera de la ducha será tipo teléfono y no podrá estar instalada por sobre 1,20 m de altura.
 
