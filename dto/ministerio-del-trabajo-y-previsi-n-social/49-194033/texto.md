@@ -112,6 +112,10 @@ d) Inhabilidad sobreviniente.
 
 e) Ser candidato a un cargo de elección popular.
 
+f) Por cese en la función de Presidente de la Comisión y nueva designación, dispuesta mediante decreto supremo conjunto de los Ministerios del Trabajo y Previsión Social y Hacienda.
+
+La nueva designación no podrá recaer en quien haya ejercido el cargo en el período inmediatamente anterior a dicho acto.
+
 El miembro de la Comisión que estimare estar afecto a alguna causal de cesación en el ejercicio de su cargo, deberá comunicarlo de inmediato a la Superintendencia de Administradoras de Fondos de Pensiones y al Presidente de la Comisión, sin perjuicio de dar cuenta de ello a la Comisión en la siguiente sesión que ésta celebre, dejando constancia de ello en el acta de la misma, y debiendo la Comisión comunicar tal hecho a la organización empresarial o de trabajadores que lo haya designado, a fin de proceder a su reemplazo.
 
 #### Artículo 10º
