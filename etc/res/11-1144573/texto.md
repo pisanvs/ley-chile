@@ -20,7 +20,7 @@ Resuelvo:
 
 #### Artículo primero
 
-La asignación presupuestaria correspondiente a la asignación "Red Cultura", se ejecutará conforme a lo dispuesto en la Glosa Nº 15, Asignación 129, Ítem 03, Subtítulo 24 del Programa 01, Capítulo 01, Partida 29 del Ministerio de las Culturas, las Artes y el Patrimonio, establecido en la ley Nº 21.192 de Presupuestos del Sector Público para el año 2020 y a la presente resolución.
+La asignación presupuestaria correspondiente a la asignación "Red Cultura y Puntos de Cultura Comunitaria", se ejecutará conforme a lo dispuesto en la Glosa N° 15, asignación 129, ítem 03, subtítulo 24 del programa 01, capítulo 01, partida 29 del Ministerio de las Culturas, las Artes y el Patrimonio, establecido en la ley N° 21.516, de Presupuestos del Sector Público para el año 2023 y a la presente resolución. Con dichos recursos se podrán comprar y contratar bienes y servicios que permitan el funcionamiento y desarrollo de las actividades de los componentes de este programa.
 
 #### Artículo segundo
 
@@ -28,109 +28,291 @@ Con los recursos correspondientes a la Glosa Nº 15, Asignación 129, Ítem 03, 
 
 #### Artículo tercero
 
-La asignación señalada en el artículo primero de esta resolución comprende el financiamiento de los gastos establecidos en la glosa respectiva y, en términos generales, comprende los siguientes componentes, actividades y gastos asociados:
+La asignación señalada en el artículo primero de esta resolución, comprende el financiamiento de los gastos establecidos en la glosa respectiva y, en términos generales, los siguientes componentes, actividades y gastos asociados:
 
-Componente 1: Planificación cultural local participativa
+### I. Asignación Red Cultura
 
-El componente tiene por objetivo la co-construcción permanente de la planificación cultural y sus herramientas de gestión, entre la comunidad organizada y no organizada, y los gobiernos locales y espacios culturales.
+Red Cultura es un programa que tiene como objetivo promover la planificación cultural con participación local en las comunas del país que cuentan con municipios. Para ello, su estrategia consiste en relacionar a la comunidad, al sector cultural y artístico con los municipios y espacios culturales, procurando la instalación de procesos de planificación cultural con participación local que acreciente el desarrollo cultural y artístico de los territorios. Cada Secretaría Regional Ministerial de las Culturas, las Artes y el Patrimonio, en base a criterios, focaliza municipios y espacios culturales para que formulen o actualicen instrumentos de planificación cultural local: Plan Municipal de Cultura (PMC), Plan de Gestión de Espacios Culturales (PG) y Estrategias de Sostenibilidad de PMC y PG.
 
-Para estos efectos, a través de este componente se podrán realizar las siguientes actividades y gastos:
+El programa Red Cultura se implementará a partir de la ejecución de tres componentes, a saber:
 
-. Financiamiento de elaboración, actualización y sostenibilidad de Planes Municipales de Cultura y Planes de Gestión de Espacios Culturales elaborados participativamente, mediante metodologías de co-diseño.
+Componente 1: Planificación Cultural Participativa
 
-. Desarrollo y llamado a convocatoria pública, para el Fortalecimiento de la Planificación y la Gestión Cultural.
+Tiene por objetivo fortalecer los procesos de planificación cultural local a través del desarrollo de herramientas para la planificación cultural, construidos de manera participativa. Las herramientas de planificación cultural refieren a: Planes Municipales de Cultura (en adelante "PMC"), Planes de Gestión de Espacios Culturales (en adelante "PG") y Estrategias de Sostenibilidad de PMC y PG.
 
-. Catálogo de programación artística de Red Cultura y plataforma de trabajo entre Espacios Culturales (Red de Espacios Culturales) y encuentros de encargados/as de cultura municipal.
+Se entenderá por estos instrumentos:
 
-. Contratación de servicios logísticos y de producción integral para la realización de mesas de trabajo, seminarios, encuentros, jornadas, laboratorios, conversatorios, coloquios, talleres, simposios, congresos, ferias y ceremonias que promuevan, capaciten y fortalezcan las temáticas de acceso y participación de la población en arte y cultura y demás objetivos del componente.
+. Plan Municipal de Cultura: Herramienta de planificación participativa que define y organiza los objetivos propuestos en materia cultural a nivel local. Busca transformar las actuales condiciones culturales, patrimoniales, identitarias y ciudadanas de una comuna, en función de obtener un mejoramiento de las condiciones de vida de la población en general.
 
-. Desarrollo, elaboración, diseño, impresión de estudios, publicaciones, material de mediación, manuales, herramientas técnicas así como materiales y acciones de difusión e información a la ciudadanía, que permitan el cumplimento de los objetivos del componente.
+. Plan de Gestión de Espacios Culturales: Herramienta de planificación participativa que define y organiza los objetivos de un espacio cultural, incluyendo la opinión de la comunidad que lo integra.
 
-. Adquisición, administración y uso de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas del programa a nivel nacional y regional.
+. Estrategia de Sostenibilidad: Herramienta de gestión cultural que busca financiar acciones establecidas en los PMC y los PG, con el objetivo de apoyar a los municipios y espacios culturales en la implementación de sus planificaciones.
 
-. Contratación de relatores, gestores culturales, docentes, académicos, curadores, investigadores, profesionales, expertos y/o especialistas, jurados nacionales y extranjeros en temáticas de gestión cultural territorial, territorio, gestión de redes, asociatividad, participación e innovación, planificación participativa, gobernanza, metodologías de inteligencia colectiva, diseño, evaluación y gestión de proyectos y concursos, políticas públicas culturales, derechos humanos, migración, herramientas de sistematización de información y levantamiento de datos, corrección de estilo, elaboración y diseño de material gráfico, entre otros. Estas contrataciones incluyen gastos asociados como traslados nacionales e internacionales, alojamiento y alimentación.
+A través de este componente se podrán realizar las siguientes actividades y financiar los gastos que se indican a continuación:
 
-. Financiamiento de pasajes y servicios de producción integral para gestores culturales, invitados, entre otros, así como traslados de cargas, insumos para proyectos creativos, innovadores y/o no convencionales, uso de espacio, equipamiento y todo lo necesario que permita el cumplimento de los objetivos del componente.
+Actividades:
 
-. Gastos en honorarios que permitan la implementación y desarrollo de las actividades de este componente.
+. Apoyar y fomentar la elaboración, actualización y sostenibilidad de las herramientas de planificación cultural: PMC, y PG, elaborados participativamente y las Estrategias de Sostenibilidad de dichas herramientas de planificación, mediante metodologías de co-diseño, asesoría metodológica, encuentros, consultorías, estudios, entre otros.
 
-. Seguimiento, supervisión, diagnóstico, mediación y evaluación del trabajo en el territorio relativo a la implementación u ejecución del componente.
+. Apoyar el fortalecimiento de la planificación y la gestión cultural local; a través de convocatoria dirigida al financiamiento de la programación cultural que desarrollan municipios, fundaciones, corporaciones culturales municipales y espacios culturales vinculados al programa.
 
-. Convocatorias con el fin de otorgar becas para formación en materias relacionadas a la gestión cultural, participación ciudadana para el desarrollo cultural local y asociatividad como estrategia de trabajo en cultura.
+. Desarrollar labores de supervisión y asesorías técnicas para asegurar el cumplimiento de las metodologías participativas en la elaboración y actualización de las herramientas de planificación cultural local.
 
-. Generación de pasantías nacionales e internacionales y participación en pasantías nacionales e internacionales para Encargados de Cultura de municipios y Encargados de Espacios Culturales de la Red.
+. Realización de procesos formativos a través de mesas de trabajo, seminarios, encuentros, jornadas, laboratorios, conversatorios, coloquios, talleres, simposios, congresos, ferias, ceremonias u otras que promuevan, capaciten y fortalezcan las temáticas de acceso y participación de los actores del territorio y sus comunidades en cultura, arte y patrimonio.
 
-. Celebrar convenios de cooperación con municipalidades, corporaciones, fundaciones u otras entidades de derecho público o privado.
+. Realizar acciones de difusión, visibilización y formación para la gestión cultural programática de los municipios y espacios culturales que favorezca la vinculación y comunicación con la ciudadanía a nivel local.
 
-. Celebrar convenios de traspasos de recursos con personas jurídicas de derecho público o privado para apoyar la ejecución del programa.
+. Desarrollar acciones de producción y difusión de actividades e iniciativas culturales y artísticas de espacios culturales, municipalidades, organizaciones de la sociedad civil y de la comunidad vinculada al ámbito local.
 
-. Acciones tendientes a financiar la gestión, producción y difusión de actividades e iniciativas culturales y artísticas de espacios culturales, municipalidades y de la comunidad en general.
+. Desarrollar acciones de reconocimiento y valorización a la gestión cultural para municipios y espacios culturales.
 
-. Iniciativas territoriales que contribuyan al desarrollo cultural local en co-diseño con la comunidad.
+. Propiciar acciones de colaboración con entidades públicas y/o privadas que realicen actividades en el territorio cuyo fin sea acorde a las materias propias del componente, todas en el marco de la normativa vigente.
 
-. Se contempla la realización del convenio con la Fundación Nacional para la Superación de la Pobreza y 12 convenios tripartitos a nivel regional para efectos de implementar el programa Servicio País (SP) en cualquiera de sus líneas de acción (profesionales SP, voluntarios y estudiantes en práctica profesional).
+Gastos a financiar:
 
-Componente 2: Fortalecimiento de Organizaciones Culturales Comunitarias (OCC)
+. Gastos asociados al financiamiento de convocatorias públicas.
 
-El objetivo es trabajar colaborativamente con Organizaciones Culturales Comunitarias, apoyando el trabajo territorial de participación cultural y de gobernanza que éstas realizan, buscando vinculación entre ellas y las personas con quienes trabajan, así como los contenidos culturales locales que abordan, de manera efectiva e incidente en la planificación y desarrollo cultural de sus comunas. Fortalecimiento y construcción de redes y proyectos internacionales con el fin de consolidar las relaciones del país con Estados e instituciones extranjeras y organismos internacionales en materiales de gestión cultural.
+. Adquisición de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas propias del componente.
 
-Para estos efectos, a través de este componente se podrán realizar las siguientes actividades y gastos:
+. Contratación de servicios profesionales especializados.
 
-. Contratación de servicios logísticos y de producción integral para la realización encuentros, mesas de trabajo, seminarios, jornadas, laboratorios, conversatorios, coloquios, talleres, simposios, congresos, ferias y ceremonias que complementen el trabajo de planificación de contenidos y presupuestario de las organizaciones culturales comunitarias y promuevan, capaciten y fortalezcan las temáticas de acceso y participación de la comunidad en arte y cultura y demás objetivos del componente.
+. Contratación de servicios relativos al desarrollo e implementación de plataformas digitales.
 
-. Desarrollo y llamado a convocatorias públicas para el financiamiento de iniciativas artísticas comunitarias de Organizaciones Culturales Comunitarias.
+. Servicios de logística, producción integral y artística.
 
-. Financiamiento de traslados, alojamientos, alimentación para asistencia a instancias nacionales e internacionales vinculadas a la cultura comunitaria, para responsables y/o participantes de organizaciones culturales comunitarias.
+. Gastos asociados a traslados, pasajes, alimentación y estadía.
 
-. Contratación de servicios logísticos y de producción integral para el desarrollo de estudio conceptual y de caracterización de Organizatones Culturales Comunitarias.
+. Gastos en honorarios que permitan la implementación y desarrollo de las actividades del componente.
 
-. Difusión y promoción a través de campañas, exposiciones publicaciones y proyectos específicas que aborden, informen y potencien la planificación cultural participativa e inclusiva, la asociatividad y la gestión de los espacios culturales, la circulación de contenidos, la formación, la capacitación y configuración de redes con OCC.
+. Contratación de estudios, publicaciones, material de mediación, manuales, herramientas técnicas, gráficas y audiovisuales, así como materiales y acciones de difusión, vinculación e información a la ciudadanía.
 
-. Contratación de relatores, gestores culturales, docentes, académicos, curadores, investigadores, profesionales, expertos y/o especialistas, jurados nacionales y extranjeros en temáticas de gestión cultural territorial, territorio, gestión de redes, asociatividad, participación e innovación, planificación participativa, gobernanza, metodologías de inteligencia colectiva, diseño, evaluación y gestión de proyectos y concursos, políticas públicas culturales, derechos humanos, migración, herramientas de sistematización de información y levantamiento de datos, corrección de estilo, elaboración y diseño de material gráfico, entre otros.
+. Diseño, elaboración, impresión y publicación de material informativo, didáctico, con fines de divulgación y pedagógico sobre las materias propias que aborda el componente.
 
-. Financiamiento de pasajes y servicios de producción integral para gestores culturales, invitados, entre otros, que permitan el cumplimento de los objetivos del componente, incluidos los gastos que puedan incurrirse con motivo de la implementación del programa Ibercultura Viva.
+Componente 2: Redes de Activación Cultural
 
-. Seguimiento programático en terreno de las coordinaciones regionales y coordinación nacional, así como desarrollo de herramientas de información diagnóstica para la evaluación de la implementación del componente.
+Tiene por objetivo promover y coordinar espacios de participación y articulación regional y local con los diferentes actores con los que se relaciona el Programa Red Cultura, tales como, municipios, corporaciones, fundaciones culturales municipales y espacios culturales. A través de este componente se podrán realizar las siguientes actividades y financiar los gastos que se indican a continuación:
 
-. Desarrollo, elaboración y distribución de material de mediación, manuales y herramientas técnicas que permitan la nivelación e información en ámbitos de la gestión de espacios, programación, formación de audiencias, desarrollo de públicos, normativas, metodologías participativas, innovación social, entre otras, que puedan formar parte de proyectos elaborados por la comunidad, así como herramientas que permitan a la comunidad mantenerse informada, activa y que ello le permita incidir en el desarrollo cultural de su comuna.
+Actividades:
 
-. Elaboración, diseño, impresión de estudios y publicaciones, así como acciones de difusión, convocatorias e información a la ciudadanía. Adquisición, administración y uso de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas del componente a nivel nacional y regional.
+. Implementar iniciativas territoriales que contribuyan al desarrollo cultural local en co-diseño con la comunidad, a través de mesas de trabajo regionales compuestas por equipos municipales de cultura y encargados/as de espacios culturales.
 
-. Suscripción de convenios de colaboración y/o transferencia de recursos con otras instituciones públicas, privadas y no gubernamentales.
+. Financiar total o parcialmente becas de formación, pasantías en materias relacionadas a la gestión cultural, la participación ciudadana para el desarrollo cultural local y asociatividad como estrategia de trabajo en cultura.
 
-. Contratación de servicios de asesoría técnica en georreferenciación.
+. Desarrollar acciones referidas a producción y difusión de actividades e iniciativas culturales y artísticas de espacios culturales y municipalidades.
 
-. Acciones tendientes a financiar la gestión, producción y difusión de actividades e iniciativas culturales y artísticas de organizaciones culturales comunitarias y de la comunidad en general.
+. Apoyar la gestión de redes compuestas por municipios, espacios culturales y comunidad organizada, que permita el desarrollo colectivo de iniciativas de activación cultural en temáticas de gestión de redes, asociatividad, participación e innovación, planificación participativa, gobernanza cultural, metodologías de planificación y participación social, diseño, evaluación y gestión de proyectos, políticas públicas culturales, derechos humanos, migración, entre otros.
 
-Componente 3: Prácticas colaborativas desde el arte
+. Desarrollar herramientas digitales para la difusión, visibilización y formación, consideradas en las líneas estratégicas del programa Red Cultura, tales como Catálogo Digital, Espacios formativos y otros necesarios para la gestión programática, vinculación y comunicación con la ciudadanía.
 
-El objetivo del componente es aumentar la participación cultural local mediante prácticas artísticas denominadas "Residencias de Arte Colaborativo", en las que artistas y/o colectivos artísticos se instalan en territorios y espacios culturales diversos. Esto para desarrollar experiencias colectivas con las comunidades locales, mediante estrategias que permitan levantar contenidos culturales locales y aporten al desarrollo cultural.
+. Financiar proyectos de gestión y programación artística cultural de espacios culturales bajo convenio.
 
-Para estos efectos, a través de este componente se podrán realizar las siguientes actividades y gastos:
+. Propiciar acciones de colaboración con entidades públicas y/o privadas que realicen actividades en el territorio cuyo fin sea acorde a las materias propias del componente, todas en el marco de la normativa vigente.
 
-. Desarrollo y llamado a convocatoria pública, para el financiamiento de proyectos de experiencias artísticas con y desde la comunidad a través de mediación de artistas, colectivos artísticos y/o gestores culturales, contemplándose para ello residencias de arte colaborativo y pasantías en el mismo tenor.
+Gastos a financiar:
 
-. Contratación de servicios logísticos y de producción integral para la organización de seminarios, encuentros con artistas y colectivos residentes, nacional y regional; desarrollo de mesas de trabajo, seminarios, encuentros, jornadas, laboratorios, conversatorios, coloquios, talleres, simposios, congresos, ferias y ceremonias que promuevan, capaciten y fortalezcan las temáticas de acceso y participación de la comunidad en arte y cultura y demás objetivos del componente.
+. Adquisición, administración y uso de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas propias del componente.
 
-. Contratación de relatores, gestores culturales, docentes, académicos, curadores, investigadores, profesionales, expertos y/o especialistas, jurados nacionales y extranjeros en temáticas de gestión cultural territorial, territorio, gestión de redes, asociatividad, participación e innovación, planificación participativa, gobernanza, metodologías de inteligencia colectiva, diseño, evaluación y gestión de proyectos y concursos, políticas públicas culturales, derechos humanos, migración, herramientas de sistematización de información y levantamiento de datos, corrección de estilo, elaboración y diseño de material gráfico, entre otros. Estas contrataciones incluyen gastos asociados como traslados nacionales e internacionales, alojamiento y alimentación.
+. Contratación de servicios profesionales especializados.
 
-. Adquisición, administración y uso de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas del componente a nivel nacional y regional.
+. Gastos relativos al desarrollo e implementación de plataformas digitales.
 
-. Financiamiento de pasajes y servicios de producción integral para gestores culturales, invitados, entre otros, así como traslados de cargas, insumos para proyectos creativos, innovadores y/o no convencionales, uso de espacio, equipamiento y todo lo necesario para el desarrollo de actividades, que permitan el cumplimento de los objetivos del componente.
+. Contratación de servicios de logística, producción integral y artística.
 
-. Contratación de servicios para la elaboración, diseño, impresión de estudios y publicaciones, asi como acciones de difusión, convocatorias e información a la ciudadanía.
+. Contratar el diseño, elaboración, distribución, impresión y publicación de material didáctico y de difusión, gráfico, y/o audiovisual sobre las materias propias que aborda el componente.
 
-. Desarrollo, elaboración y distribución de material de mediación, manuales y herramientas, técnicas que permitan la nivelación e información en ámbitos de la gestión de espacios, programación, formación de audiencias, desarrollo de públicos, normativas, metodologías participativas, innovación social, entre otras, que puedan formar parte de proyectos elaborados por la comunidad, así como herramientas que le permitan mantenerse informada y activa para incidir en el desarrollo cultural de su comuna.
+. Gastos en honorarios que permitan la implementación y desarrollo de las actividades del componente.
 
-. Financiamiento de la gestión, producción y difusión de actividades e iniciativas artísticas y culturales de artistas, colectivos artísticos en conjunto con la comunidad local y Residencias de Arte Colaborativo.
+. Financiamiento de convocatorias públicas.
 
-. Contratación de servicios logísticos y de producción integral para la realización de jornadas nacionales y macro zonales que permitan la planificación, seguimiento y evaluación de la gestión del componente.
+. Financiamiento de pasajes, alimentación y, traslados de cargas, arriendos de infraestructura (salones, salas, espacios, centros culturales, museos, galerías, oficinas, entre otros), y equipamiento técnico, conforme a la normativa vigente.
 
-. Seguimiento programático en terreno de las coordinaciones regionales y coordinación nacional, supervisión, diagnóstico y mediación del trabajo en el territorio relativo a la ejecución del componente.
+Componente 3: Herramientas de formación en el ámbito cultural municipal
 
-. Desarrollo de herramientas de información diagnóstica para la evaluación de la implementación del componente.
+Tiene por objetivo proveer insumos metodológicos y antecedentes que permitan la gestión seguimiento y control del conocimiento en el ámbito cultural municipal a través de procesos formativos dirigidos a equipos municipales y espacios culturales, ello con la finalidad de avanzar en la instalación de un sistema de información en planificación y gestión cultural local. Lo anterior en base a un modelo estandarizado a nivel nacional, proporcionado por la Subsecretaría de las Culturas y las Artes; que contemple la gestión, seguimiento y control del conocimiento en el ámbito municipal.
 
-. Elaboración, diseño, impresión de estudios y publicaciones, así como acciones de difusión, convocatorias e información a la ciudadanía.
+A través de este componente se podrán realizar las siguientes actividades y financiar los gastos que se indican a continuación:
+
+Actividades:
+
+. Desarrollar capacitaciones, talleres, encuentros o pasantías dirigidas a equipos municipales y espacios culturales, con la finalidad de avanzar en la instalación de un sistema de información en planificación y gestión cultural local, que considere la creación y uso de herramientas para el manejo y la sistematización de información y datos en cultura; y la generación de indicadores en gestión cultural local.
+
+. Realización de mesas de trabajo, seminarios, procesos formativos, encuentros, jornadas, laboratorios, conversatorios, coloquios, talleres, simposios, congresos, ferias y ceremonias que promuevan, capaciten y fortalezcan competencias en las temáticas de acceso y participación para las y los actores del territorio y sus comunidades en cultura, arte y patrimonio.
+
+. Desarrollar labores de supervisión y asesorías técnicas para apoyar a los equipos municipales y espacios culturales, con herramientas de formación en el ámbito cultural municipal.
+
+. Desarrollar procesos de diseño y producción para el levantamiento de plataformas web, sitios, mini sitios u otras herramientas tecnológicas que permitan la visibilización del componente y del programa.
+
+. Propiciar acciones de colaboración con entidades públicas y/o privadas que realicen actividades en el territorio cuyo fin sea acorde a las materias propias del componente, todas en el marco de la normativa vigente.
+
+Gastos a financiar:
+
+. Contratación de Servicios de logística, Producción integral y artística.
+
+. Adquisición de materiales e insumos, entre otros, que permitan el funcionamiento y desarrollo de las actividades propias del componente.
+
+. Contratación de servicios profesionales especializados, vinculados a las actividades propias del componente.
+
+. Contratación de servicios para el desarrollo de herramientas de sistematización de información, georreferenciación y levantamiento de datos.
+
+. Contratación de Servicios de diseño, elaboración, distribución, impresión y publicación de material gráfico, y/o audiovisual sobre las materias propias que aborda el componente.
+
+. Arriendos de infraestructura (salones, salas, espacios, centros culturales, museos, galerías, oficinas, entre otros), conforme a la normativa vigente.
+
+. Gastos asociados a traslados, pasajes, alimentación y estadía.
+
+. Gastos en honorarios que permitan la implementación y desarrollo de las actividades del componente.
+
+### II. Programa Puntos de Cultura Comunitaria
+
+El programa Puntos de Cultura Comunitaria, en adelante "el Programa" tiene como objetivo aumentar el desarrollo de las prácticas socioculturales sostenidas por organizaciones o colectivos de base comunitaria.
+
+Para efectos del programa, se entiende por organizaciones o colectivos de base comunitaria como toda organización, grupo o colectivo de tres o más personas que desarrollan un trabajo permanente y sostenido en el tiempo, en torno a acciones específicas de carácter colectivo, asociadas al desarrollo de un espacio territorial y geográfico determinado, que habitan, articulan y dinamizan, y en cuyo quehacer prevalecen contenidos asociados a diversas prácticas artísticas-culturales.
+
+Para estos efectos se creará un registro que administrará el programa donde las organizaciones y colectivos de base comunitaria podrán postular para ser parte del mismo. Para ello, se abrirá una convocatoria pública dirigida tanto a personas jurídicas como a personas naturales representantes de colectivos, para ser validados como Puntos de Cultura Comunitaria, en adelante PCC.
+
+Los PCC desarrollarán un Plan de Fortalecimiento que buscará apoyar la sostenibilidad operativa y facilitará la gestión programática de estas organizaciones en sus territorios. Además, el programa incentivará la configuración de redes regionales de PCC y los apoyará con capacitaciones y asesorías técnicas.
+
+Ser reconocido como PCC implica formar parte de un Registro, llamado Registro Puntos de Cultura Comunitaria, que les permitirá visibilizarse, recibir financiamiento a partir de un Plan de Fortalecimiento, participar de capacitaciones y de una red de PCC, así como la posibilidad de participar en reuniones, seminarios y encuentros internacionales de Ibercultura viva, programa de cooperación técnica y financiera entre gobiernos iberoamericanos, creado para fortalecer las políticas culturales de base comunitaria de los países, que busca apoyar tanto las iniciativas gubernamentales de los países miembros como las desarrolladas por organizaciones culturales comunitarias y pueblos originarios en sus territorios.
+
+El programa se implementará a partir de la ejecución de tres componentes:
+
+Componente 1: Acompañamiento para la Visibilización de Puntos de Cultura Comunitaria
+
+Tiene por objetivo acompañar a las organizaciones culturales de base comunitarias en su registro y validación como PCC. El registro se realizará en una plataforma donde se inscriben las organizaciones que se autoidentifican como fortalecedoras de prácticas socioculturales para luego ser validadas como PCC. Junto con el registro y validación se entregará acompañamiento por parte de un equipo programático, en la confección de un Plan de Fortalecimiento que deberá contener: la programación asociada a su quehacer, actividades de formación, tales como talleres y jornadas de capacitación, que permitan desarrollar competencias asociadas a la gestión cultural local, como sobre gastos asociados a la administración y gestión de la organización cultural comunitaria.
+
+Se validarán como PCC, las organizaciones de base comunitaria, que demuestren experiencia de trabajo en el territorio, entendiendo por organizaciones culturales de base comunitaria aquellas que desarrollan prácticas socioculturales a través de un trabajo permanente y sostenido en el tiempo dentro de un territorio.
+
+La experiencia en el desarrollo de prácticas socioculturales se acreditará, con la presentación de documentación relativa a la implementación de, al menos, una práctica sociocultural en sus territorios, con financiamiento de entidades externas o por autogestión de recursos.
+
+A través de este componente se podrán realizar las siguientes actividades y financiar los gastos que se indican a continuación:
+
+Actividades:
+
+. Instar a través de distintas acciones el registro de organizaciones de base comunitaria de todo el territorio nacional para ser reconocidas como PCC.
+
+. Realizar acciones asociadas a procesos de validación de las organizaciones de base comunitaria que completen el Registro. La validación se llevará a cabo mediante comisiones de validación, que serán de carácter regional, y tendrán por función revisar y validar los antecedentes ingresados por cada organización para identificar si la organización corresponde a un PCC. Conformarán las comisiones de validación representantes del Consejo Regional de las Culturas, las Artes y el Patrimonio, funcionarios de las respectivas Secretarías Regionales Ministeriales de las Culturas, las Artes y el Patrimonio y/o Subsecretaría de las Culturas y las Artes, de acuerdo a lo que se establezca en las respectivas bases de convocatoria.
+
+. Realización de asesorías técnicas, para el acompañamiento de organizaciones de base comunitaria para completar el registro, proceso de validación como PCC y la elaboración de plan de fortalecimiento.
+
+. Realizar acciones de difusión y comunicación de las actividades propias del componente.
+
+. Acciones asociadas a la realización de estudios en temáticas relacionadas con las organizaciones culturales de base comunitaria, su funcionamiento y quehacer.
+
+. Acciones asociadas al intercambio de experiencias y saberes, en reuniones, mesas de trabajo, seminarios, coloquios, congresos, jornadas, talleres, residencias, laboratorios, ferias, mercados, festivales y otros en ámbitos que aborda el componente.
+
+. Propiciar acciones de colaboración con entidades públicas y/o privadas que realicen actividades en el territorio cuyo fin sea acorde a las materias propias del componente, todas en el marco de la normativa vigente.
+
+Gastos a financiar:
+
+. Gastos asociados al financiamiento de convocatorias públicas.
+
+. Adquisición de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas propias del componente.
+
+. Contratación de servicios profesionales especializados.
+
+. Contratación de servicios relativos al desarrollo e implementación de plataformas digitales.
+
+. Contratación de Servicios de diseño, elaboración, traducción, distribución, impresión y publicación de material gráfico, y/o audiovisual sobre las materias propias que aborda el componente.
+
+. Arriendos de infraestructura (salones, salas, espacios, centros culturales, museos, galerías, oficinas, entre otros), conforme a la normativa vigente.
+
+. Contratación de Servicios de logística, Producción integral y artística.
+
+. Gastos asociados a traslados, pasajes, alimentación y estadía.
+
+Componente 2: Fortalecimiento de Organizaciones de Base Comunitaria (PCC)
+
+Tiene por objetivo fortalecer la sostenibilidad de las prácticas socio culturales de PCC a partir del financiamiento para la implementación de su Plan de Fortalecimiento. Se entiende como Plan de Fortalecimiento, la estrategia de acciones que requiere desarrollar la organización vinculadas a los ámbitos de programación, formación y sostenibilidad.
+
+Con el objetivo de distribuir los recursos con los que contará el componente, se priorizará a los PCC registrados, validados y que cuentan con plan de fortalecimiento.
+
+En caso de que exista una mayor cantidad de organizaciones identificadas como PCC a las que se les pueda financiar un Plan de Fortalecimiento, éstas se ordenarán de acuerdo con los años de experiencia en el desarrollo de prácticas socioculturales, lo que se acreditará con la presentación de documentación respecto de la implementación de al menos, una práctica sociocultural en sus territorios, con financiamiento de entidades externas o por autogestión de recursos. Adicionalmente se podrán considerar otros criterios de priorización, tales como, PCC situadas en comunas con mayor porcentaje de población en pobreza multidimensional de acuerdo a la encuesta Casen del Ministerio de Desarrollo Social y Familia, y en situación de aislamiento territorial según la Subsecretaría de Desarrollo Regional. La fuente de información de la antigüedad para las organizaciones será la fecha de constitución de la misma y/o la antigüedad de la práctica sociocultural que la caracteriza.
+
+A través de este componente se podrán realizar las siguientes actividades y financiarán los gastos que se indican a continuación:
+
+Actividades:
+
+. Financiamiento de los Planes de Fortalecimiento de los PCC.
+
+. Realizar acciones tendientes al acompañamiento técnico de los PCC en la implementación y evaluación del plan de fortalecimiento, como en la ejecución de las acciones y las respectivas rendiciones de actividades y recursos.
+
+. Desarrollar labores de supervisión y asesorías técnicas para apoyar el seguimiento y evaluación de los planes de fortalecimiento.
+
+. Realizar instancias de intercambio de experiencia y saberes, reuniones, mesas de trabajo, seminarios, coloquios, congresos, jornadas, talleres, residencias, laboratorios, ferias, mercados, festivales y otros en ámbitos vinculados al desarrollo del componente.
+
+. Realización de estudios, investigaciones o asesorías técnicas especializadas en temáticas relacionadas al componente y su gestión.
+
+. Acciones de difusión y socialización de los objetivos del componente, de las actividades desarrolladas por los PCC y de los resultados.
+
+. Propiciar acciones de colaboración con entidades públicas y/o privadas que realicen actividades en el territorio cuyo fin sea acorde a las materias propias del componente, todas en el marco de la normativa vigente.
+
+Gastos a financiar:
+
+. Gastos asociados al financiamiento de convocatorias públicas.
+
+. Adquisición de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas propias del componente.
+
+. Contratación de servicios profesionales especializados.
+
+. Contratación de Servicios de diseño, elaboración, distribución, impresión y publicación de material gráfico, y/o audiovisual sobre las materias propias que aborda el componente.
+
+. Arriendos de infraestructura (salones, salas, espacios, centros culturales, museos, galerías, oficinas, entre otros), y equipamiento técnico, conforme a la normativa vigente.
+
+. Contratación de Servicios de logística, Producción integral y artística.
+
+. Gastos asociados a traslados, pasajes, alimentación y estadía.
+
+. Contratación a honorarios para el desarrollo de talleres, producción y gestión del PCC.
+
+. Servicios básicos y generales asociados a la sostenibilidad dec PCC establecidos en su Plan de Fortalecimiento, tales como: agua, luz, aseo e internet, entre otros.
+
+Componente 3: Articulaciones Regionales de Puntos de Cultura Comunitaria
+
+Tiene como objetivo promover la conformación de redes de PCC y la implementación de planes de articulación, a nivel nacional y regional para el desarrollo de prácticas socioculturales de manera colectiva y colaborativa.
+
+Se entenderá por conformación de redes, aquellas acciones orientadas al desarrollo y fortalecimiento de la asociatividad entre los distintos PCC, a nivel nacional y regional. Se considera un mínimo de 4 organizaciones de base comunitaria, validadas como PCC para constituir una red.
+
+Se entienden como planes de articulación las estrategias que elaborarán las redes para su configuración, gobernanzas, acciones conjuntas, la definición y medición del cumplimiento de sus objetivos en cada una de las regiones.
+
+Estas acciones deben considerar el establecimiento de una estructura organizacional regional que cuente con un sistema de gobernanza interna, que defina responsables, mecanismos de coordinación, reportabilidad, entre otros; con el fin de asegurar la participación de los PCC que conforman las redes regionales y nacionales.
+
+A nivel internacional el componente se relaciona con IberCultura Viva, que es un programa de cooperación técnica y financiera entre países iberoamericanos, creado para fortalecer las políticas culturales de base comunitaria de dichos países y que busca apoyar tanto las iniciativas gubernamentales de los países miembros como las desarrolladas por organizaciones culturales comunitarias y pueblos originarios en sus territorios. Estos apoyos se realizan mediante convocatorias públicas.
+
+A través de este componente se podrán realizar las siguientes actividades y financiar los gastos que se indican a continuación:
+
+Actividades:
+
+. Creación de las redes regionales y nacionales, para la elaboración y ejecución de planes de articulación.
+
+. Acciones asociadas a formación, entre otros servicios que se requieran para fortalecer y propiciar la gestión de redes.
+
+. Desarrollar labores de supervisión y asesorías técnicas para apoyar el seguimiento y evaluación de los planes de articulación.
+
+. Realizar encuentros interregionales y/o nacionales de las redes de PCC.
+
+. Realizar pasantías nacionales e internacionales para representantes e integrantes de PCC, en el marco de IberCultura Viva.
+
+. Realización de encuentros, talleres, seminarios, coloquios, congresos, ceremonias, laboratorios, ferias y otras instancias que cuenten con la participación de terceros que promuevan, capaciten y fortalezcan la conformación de la red de PCC en cada región del país.
+
+. Propiciar acciones de colaboración con entidades públicas y/o privadas que realicen actividades en el territorio cuyo fin sea acorde a las materias propias del componente, todas en el marco de la normativa vigente.
+
+Gastos a financiar:
+
+. Gastos asociados al financiamiento de convocatorias públicas.
+
+. Adquisición de materiales e insumos que permitan el funcionamiento y desarrollo de las actividades e iniciativas propias del componente.
+
+. Contratación de servicios profesionales especializados.
+
+. Contratación de Servicios de diseño, elaboración, distribución, impresión y publicación de material gráfico, y/o audiovisual sobre las materias propias que aborda el componente.
+
+. Arriendos de Infraestructura (salones, salas, espacios, centros culturales, museos, galerías, oficinas, entre otros), y equipamiento técnico, conforme a la normativa vigente.
+
+. Contratación de Servicios de logística, Producción integral y artística.
+
+. Contratación a honorarios para el desarrollo de talleres, producción y gestión del PCC.
+
+. Contratación de servicios logísticos y de producción integral para la Gastos asociados a pasantías, tales como, pasajes, traslados alimentación y estadía de integrantes de los PCC en instancias nacionales e internacionales de intercambio de experiencias.
 
 #### Artículo cuarto
 
