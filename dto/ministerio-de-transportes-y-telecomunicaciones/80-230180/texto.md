@@ -372,4 +372,16 @@ En los casos en que no exista disponibilidad de prestadores de servicios de tran
 
 - **d)** Dar cumplimiento a las normas generales sobre condiciones técnicas, medidas de seguridad y fabricación, debiendo, en todo caso, contar con el permiso de circulación vigente, certificado de revisión técnica y de emisión de gases al día y seguro obligatorio de accidentes personales.
 
+#### Artículo 4°
+
+En los casos en que no exista disponibilidad de prestadores de servicios de transporte privado remunerado de pasajeros autorizados, a los servicios de transporte que sean contratados por el Instituto Nacional de Estadísticas con el objeto de transportar al personal que realice labores estadísticas o censales durante los años 2023 y 2024, sólo le serán exigibles las condiciones que a continuación se indican, referidas a los vehículos:
+
+a) Portar un certificado emitido por el Instituto Nacional de Estadísticas que acredite su utilización para los fines antedichos;
+
+b) Llevar una nómina del personal del Instituto Nacional de Estadísticas que es transportado en el vehículo;
+
+c) Portar un letrero rectangular de dimensiones de 36 cm. de largo por 13 cm. de alto, ubicado en el costado inferior derecho del parabrisas (costado opuesto del conductor), que indique la expresión "Personal INE"; y
+
+d) Dar cumplimiento a las normas generales sobre condiciones técnicas, medidas de seguridad y fabricación, debiendo, en todo caso, contar con el permiso de circulación vigente, certificado de revisión técnica y de emisión de gases al día y seguro obligatorio de accidentes personales.
+
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones. Lo que transcribo para su conocimiento.- Saluda a Ud., Mauricio Carrasco Torres, Jefe Depto. Administrativo.
