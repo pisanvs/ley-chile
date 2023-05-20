@@ -14,7 +14,7 @@ Decreto:
 
 <!-- parte:9003088 -->
 
-Fíjase, a contar de la fecha de publicación del presente decreto, el valor de costo que podrán cobrar los servicios dependientes del Ministerio de Educación Pública por la venta de los documentos o copias de éstos, que soliciten los particulares, en la forma que se indica:
+Fíjase, a contar de la fecha de publicación del presente decreto, el valor de costo que podrán cobrar los servicios dependientes del Ministerio de Educación por la venta de los documentos o copias de éstos, que soliciten los particulares, en la forma que se indica:
 
 A.- Microfilms y Multicopias:
 
@@ -109,6 +109,8 @@ c/u 0,03 UTM
 33.- Hoja de listado con información estadística generada por proceso computacional 0,006 UTM.
 
 34.- Compendio de Información Estadística del sector educación y cultura. 0,12 UTM.
+
+Se excluye de la aplicación del presente decreto los documentos o copias de éstos otorgados por Ayuda Mineduc, quedando exentos de cobro para los particulares.
 
 #### Artículo 2°
 
