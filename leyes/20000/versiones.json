@@ -41,7 +41,7 @@
   },
   {
     "fecha": "2023-05-23",
-    "committed": false,
+    "committed": true,
     "modificadaPor": {
       "numero": "21575",
       "idNorma": 1192530,
