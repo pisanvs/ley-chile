@@ -2362,6 +2362,12 @@ No será constitutivo de los delitos contemplados en los artículos 248, 250, in
 
 Lo dispuesto en el inciso anterior no se aplicará respecto del delito contemplado en el artículo 251 bis cuando se ofreciere, prometiere, diere o consintiere en dar a un funcionario público extranjero un beneficio, para que omita o ejecute, o por haber omitido o ejecutado un acto con infracción a los deberes de su cargo.
 
+#### Artículo 251
+
+septies.-
+
+En los delitos contemplados en los artículos 248; 250, incisos segundo y tercero, y 251 bis, cuyo beneficio económico o de otra naturaleza provenga de personas naturales condenadas por alguna de las conductas punibles contempladas en las leyes números 19.366, 19.913 y 20.000, la pena deberá ser aumentada en dos grados. Igual agravante se impondrá en el caso de que el beneficio económico o de otra naturaleza provenga de personas jurídicas, cuando cualquiera de sus representantes legales o administradores, y socios en el caso de las sociedades que no sean anónimas, se encuentren en alguna de dichas situaciones.
+
 ### X. Resistencia y desobediencia
 
 #### Artículo 252

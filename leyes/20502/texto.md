@@ -34,7 +34,7 @@ a) Proponer al Presidente de la República la Política Nacional de Seguridad P�
 
 b) Velar por la mantención del orden público en el territorio nacional.
 
-En cumplimiento de esta facultad, el Ministerio solicitará a las Fuerzas de Orden y Seguridad Pública, al menos semestralmente, informes, antecedentes y estadísticas tendientes a materializar una evaluación de las medidas y programas adoptados por dichas Fuerzas para una eficaz, racional y eficiente mantención del orden público, tales como aquellos relativos a la distribución del personal; medidas para el control e investigación de delitos; los datos sobre la ocurrencia de delitos en los cuadrantes donde se aplique el plan respectivo junto con las acciones y medidas adoptadas a su respecto; nóminas de niños o niñas en situación de vulnerabilidad y los datos sobre las políticas y planes preventivos, de control e investigación de hechos delictivos, entre otros.
+En cumplimiento de esta facultad, el Ministerio solicitará a las Fuerzas de Orden y Seguridad Pública, al menos semestralmente, informes, antecedentes y estadísticas tendientes a materializar una evaluación de las medidas y programas adoptados por dichas Fuerzas para una eficaz, racional y eficiente mantención del orden público, tales como aquellos relativos a la distribución del personal; medidas para el control e investigación de delitos; los datos sobre la ocurrencia de delitos en los cuadrantes donde se aplique el plan respectivo junto con las acciones y medidas adoptadas a su respecto; nóminas de niños o niñas en situación de vulnerabilidad y los datos sobre las políticas y planes preventivos, de control e investigación de hechos delictivos, entre otros. De igual forma, deberá solicitar anualmente la información desagregada de las cuentas públicas de ambas policías, tanto a nivel nacional, regional y local, cuando corresponda.
 
 c) Encomendar y coordinar las acciones y programas que los demás Ministerios y los Servicios Públicos desarrollen en relación con la Política Nacional de Seguridad Pública Interior, evaluarlas y controlarlas, decidiendo su implementación, continuación, modificación y término, así como la ejecución de las políticas gubernamentales en materias de control y prevención del delito, de rehabilitación y de reinserción social de infractores de ley, sin perjuicio de llevar a cabo directamente los que se le encomienden.
 
@@ -50,9 +50,17 @@ h) Definir y evaluar las medidas orientadas al control de los delitos y aquellas
 
 i) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluyendo las municipalidades, que digan relación directa con la elaboración, ejecución y evaluación de las políticas, planes y programas de seguridad interior y orden público.
 
-j) Evaluar el cumplimiento de las metas y objetivos de los planes y programas de seguridad pública a cargo de las instituciones policiales, para lo cual fijará y aplicará modelos, sistemas y,o estrategias de evaluación de la gestión de las funciones, planes y programas de dichas instituciones, que contemplen la evaluación del cumplimiento de metas y parámetros, tales como un programa de distribución del personal que cumpla criterios básicos de descentralización y satisfacción de necesidades locales; transparencia activa y pasiva y eficiencia en el uso de recursos.
+j) Ejercer, a través de la Subsecretaría del Interior, el control presupuestario, financiero y de mérito sobre las inversiones y gastos de las Fuerzas de Orden y Seguridad Pública. Para dicho propósito, el Ministerio del Interior y Seguridad Pública deberá, al menos semestralmente, requerir la información de estadísticas e información sobre el avance de su gestión financiera.
 
-k) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
+k) Evaluar el cumplimiento de las metas y objetivos de los planes y programas de seguridad pública a cargo de las instituciones policiales, para lo cual fijará y aplicará modelos, sistemas y,o estrategias de evaluación de la gestión de las funciones, planes y programas de dichas instituciones, que contemplen la evaluación del cumplimiento de metas y parámetros, tales como un programa de distribución del personal que cumpla criterios básicos de descentralización y satisfacción de necesidades locales; transparencia activa y pasiva y eficiencia en el uso de recursos.
+
+l) Aprobar, a través de la Subsecretaría del Interior, las bases o términos de referencia para la adquisición de tecnología y sistemas informáticos por parte de las Fuerzas de Orden y Seguridad Pública.
+
+El Ministerio del Interior y Seguridad Pública dispondrá los estándares para la adquisición de equipos y programas computacionales, con miras a compatibilizar las herramientas tecnológicas que utilicen las Fuerzas de Orden y Seguridad Pública.
+
+Para el cumplimiento de lo anterior, el Ministerio del Interior y Seguridad Pública podrá solicitar la opinión de otras instituciones que estime relevante.
+
+m) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
 
 #### Artículo 4°
 
@@ -108,6 +116,8 @@ En cumplimiento de tales funciones, podrá celebrar acuerdos o convenios con ins
 
 Sin perjuicio del ejercicio de las atribuciones que el Ministro le delegue, así como del cumplimiento de las tareas que aquél le encargue, el Subsecretario del Interior deberá, especialmente, ocuparse de los asuntos de naturaleza administrativa de las Fuerzas de Orden y Seguridad Pública y de los organismos del sector que corresponda; en especial, elaborar los decretos, resoluciones, órdenes ministeriales y oficios relativos a nombramientos, ascensos, retiros, renuncias, comisiones de servicios nacionales a otros organismos del Estado y al extranjero y, en general, todos aquellos actos administrativos orientados a la resolución de solicitudes, beneficios u otros asuntos que interesen al personal de las Fuerzas de Orden y Seguridad Pública en servicio activo, al personal en retiro y a los familiares de todos los anteriores.
 
+Para atender los asuntos de naturaleza administrativa referidos a las Fuerzas de Orden y Seguridad Pública señalados en el inciso primero, así como las labores de control y evaluación a las que alude el artículo 3°, la Subsecretaría del Interior dispondrá de una o más divisiones para relacionarse con Carabineros de Chile y la Policía de Investigaciones de Chile, que deberán contar con los recursos humanos y financieros necesarios, sin perjuicio de las demás funciones que se les encomiende en virtud de ésta u otras leyes o reglamentos.
+
 La Subsecretaría del Interior deberá mantener actualizado el registro especial establecido por el Título V de la ley Nº 20.000.
 
 #### Artículo 11
@@ -140,6 +150,10 @@ d) Asesorar al Ministro del Interior y Seguridad Pública en el cumplimiento de 
 
 e) Proponer al Ministro del Interior y Seguridad Pública las políticas y programas en materias de prevención del consumo de estupefacientes, sustancias psicotrópicas e ingestión abusiva de alcohol, y de tratamiento, rehabilitación y reinserción social de las personas afectadas por dichas sustancias, siempre que se trate de infractores de ley.
 
+f) Asesorar al Ministro del Interior y Seguridad Pública en lo relativo a la formulación de planes y medidas de prevención de hechos ilícitos y de violencia relacionados con los espectáculos deportivos y hechos, conductas y circunstancias conexas regidas por la ley Nº19.327, de derechos y deberes en los espectáculos de fútbol profesional, y en particular, mantener el registro al que hace referencia el artículo 30 de dicho cuerpo legal.
+
+g) Emitir opinión sobre la coherencia de los planes comunales de seguridad pública con la Política Nacional de Seguridad Pública Interior y con los instrumentos de gestión y directrices del Ministerio del Interior y Seguridad Pública en este ámbito, a que se refiere la letra a) del artículo 3, dentro de los sesenta días siguientes a su aprobación, de acuerdo a lo dispuesto en el artículo 104 F de la ley N° 18.695, orgánica constitucional de Municipalidades.
+
 ## Título III
 
 De la Ejecución Territorial de la Política de Seguridad Pública
@@ -170,7 +184,9 @@ Cada municipio podrá llevar a cabo directamente planes y programas en materia d
 
 En cada región del país existirá un Consejo Regional de Seguridad Pública Interior, presidido por el Intendente e integrado por los Gobernadores Provinciales, los alcaldes de los municipios de la región, el Secretario Regional Ministerial de Justicia, un representante de la Corte de Apelaciones respectiva designado por ésta, el Fiscal Regional del Ministerio Público, el Defensor Regional de la Defensoría Penal Pública, el Jefe de Zona de Carabineros de Chile, el Jefe de Región Policial de la Policía de Investigaciones de Chile, el Director Regional de Gendarmería de Chile, el Director Regional del Servicio Nacional de Menores, y el Director Regional del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol.
 
-Este Consejo tendrá carácter consultivo y asesorará al Intendente en la implementación y coordinación de la Política Nacional de Seguridad Pública Interior a nivel regional, provincial y local.
+Este Consejo tendrá carácter consultivo y asesorará al Intendente en la implementación y coordinación de la Política Nacional de Seguridad Pública Interior a nivel regional, provincial y local, debiendo considerar los planes comunales de seguridad pública.
+
+Le corresponderá, además, mantener una coordinación con los consejos comunales de seguridad pública de la región respectiva debiendo considerar la información, antecedentes y estadísticas que éste le provea.
 
 Dicho Consejo se reunirá a lo menos una vez por semestre.
 
@@ -224,9 +240,11 @@ h) Certificar, de acuerdo a criterios técnicos, los proyectos cuyo financiamien
 
 i) Mantener una base de datos actualizada y pública que contenga información sobre los objetivos, metas comprometidas, entidades beneficiadas, presupuestos y acciones realizadas durante la ejecución y evaluación de los planes y programas del Servicio, y recopilar, sistematizar y analizar los antecedentes relevantes sobre el fenómeno de las drogas y el alcohol.
 
-j) Celebrar acuerdos o convenios con instituciones públicas o privadas, incluyendo las municipalidades, que digan relación directa con la ejecución de las políticas, planes y programas de prevención del consumo de drogas y alcohol, así como el tratamiento, rehabilitación y reinserción social de las personas afectadas por la drogadicción y el alcoholismo.
+j) Celebrar acuerdos o convenios con instituciones públicas o privadas, nacionales o internacionales, incluyendo las municipalidades, que permitan la ejecución, análisis, evaluación o implementación de políticas, planes y programas de prevención del consumo de drogas y alcohol, así como el tratamiento, rehabilitación y reinserción social de las personas afectadas por la drogadicción y el alcoholismo.
 
-k) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
+k) Administrar los bienes inmuebles incautados que el juez de garantía destine provisoriamente al Servicio, y rendir cuenta de su gestión a dicho juez a lo menos trimestralmente.
+
+l) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
 
 #### Artículo 20
 

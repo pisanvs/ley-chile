@@ -1590,6 +1590,20 @@ Objetos, documentos e instrumentos. Los objetos, documentos e instrumentos de cu
 
 Si los objetos, documentos e instrumentos se encontraren en poder del imputado o de otra persona, se procederá a su incautación, de conformidad a lo dispuesto en este Título. Con todo, tratándose de objetos, documentos e instrumentos que fueren hallados en poder del imputado respecto de quien se practicare detención en ejercicio de la facultad prevista en el artículo 83 letra b) o se encontraren en el sitio del suceso, se podrá proceder a su incautación en forma inmediata.
 
+#### Artículo 187 bis
+
+Enajenación temprana de especies. A solicitud del Ministerio Público, el juez de garantía podrá disponer la enajenación temprana de los bienes incautados, siempre que se trate de vehículos motorizados, o se trate de bienes sujetos a corrupción, susceptibles de próximo deterioro y cuya conservación sea difícil o muy dispendiosa.
+
+Para estos efectos, el juez de garantía deberá oficiar a la Dirección General del Crédito Prendario para que informe sobre la tasación del respectivo bien. En caso de que éste deba ser destruido por dicho organismo por carecer de valor, el juez de garantía así deberá decretarlo en la resolución.
+
+Si el bien figura inscrito en algún registro público, sea que acredite o no propiedad, el juez de garantía, antes de resolver la enajenación temprana, deberá citar a quienes figuren como titulares de derechos en dichos registros. En caso de que el citado no comparezca a la audiencia de enajenación temprana, se procederá en su ausencia.
+
+La enajenación se llevará a cabo por la Dirección General del Crédito Prendario en subasta pública cuando la resolución que disponga la enajenación se encuentre firme o ejecutoriada.
+
+El monto de lo obtenido en la subasta será depositado en el Banco del Estado de Chile, en cuentas o valores reajustables y con intereses.
+
+En el evento que la sentencia sea absolutoria o no establezca el comiso de las especies enajenadas, el precio de la venta, sus reajustes e intereses serán restituidos a quien corresponda. En caso contrario se destinarán a la Corporación Administrativa del Poder Judicial.
+
 #### Artículo 188
 
 Conservación de las especies. Las especies recogidas durante la investigación serán conservadas bajo la custodia del ministerio público, quien deberá tomar las medidas necesarias para evitar que se alteren de cualquier forma.
@@ -3968,6 +3982,10 @@ Intervinientes . Durante la ejecución de la pena o de la medida de seguridad, s
 
 El condenado o el curador, en su caso, podrán ejercer durante la ejecución de la pena o medida de seguridad todos los derechos y facultades que la normativa penal y penitenciaria le otorgare.
 
+El Consejo de Defensa del Estado podrá tener la calidad de interviniente para todos los efectos de la ejecución de la pena en su aspecto patrimonial y especialmente respecto del cumplimiento del comiso impuesto en la sentencia, haya o no comparecido en la causa respectiva.
+
+Sin perjuicio de lo previsto en el inciso precedente y para sus mismos efectos, tratándose de los delitos contemplados en la ley Nº19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, y en la ley Nº20.000, que sustituye la ley Nº19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas, podrán tener, además, la calidad de intervinientes, tanto el Ministerio del Interior y Seguridad Pública como el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, hayan o no comparecido en la causa respectiva.
+
 ### Párrafo 2º — Ejecución de las sentencias
 
 #### Artículo 467
@@ -3983,6 +4001,20 @@ Cuando el condenado debiere cumplir pena privativa de libertad, el tribunal remi
 Si la sentencia hubiere concedido una pena sustitutiva a las penas privativas o restrictivas de libertad consideradas en la ley, remitirá copia de la misma a la institución encargada de su ejecución.
 
 Asimismo, ordenará y controlará el efectivo cumplimiento de las multas y comisos impuestos en la sentencia, ejecutará las cauciones en conformidad con el artículo 147, cuando procediere, y dirigirá las comunicaciones que correspondiere a los organismos públicos o autoridades que deban intervenir en la ejecución de lo resuelto.
+
+#### Artículo 468 bis
+
+Ejecución del comiso. Toda sentencia que imponga el comiso de las ganancias provenientes del delito será ejecutada como decisión civil dictada por un tribunal con competencia en lo penal.
+
+En caso de que los bienes decomisados sean dinero o derechos a sumas de dinero, se los transferirá al Fisco. Los fondos obtenidos mediante la realización de los bienes decomisados también serán transferidos al Fisco.
+
+El comiso de inmuebles o de bienes de propiedad registral conlleva la facultad de realizar aquellas inscripciones necesarias para ejecutar eficazmente el bien decomisado.
+
+El Conservador de Bienes Raíces respectivo, efectuadas las cancelaciones e inscripciones que procedan, deberá remitir copia de dichas inscripciones al tribunal que decretó el comiso, el que deberá oficiar a la Dirección General del Crédito Prendario y acompañará copia de las nuevas inscripciones de propiedad a nombre del Fisco de Chile y copia autorizada de la sentencia para que ésta proceda a rematarlo en subasta pública.
+
+Los notarios, archiveros, conservadores de bienes raíces, el Servicio de Registro Civil e Identificación y demás organismos, autoridades y empleados públicos deberán realizar las actuaciones y diligencias y otorgar las copias de los instrumentos que les sean solicitados para efectuar la subasta o destrucción de las especies, según corresponda, en forma gratuita y exentos de toda clase de derechos, tasas e impuestos.
+
+Toda actuación o diligencia previa a la subasta pública que deba efectuar la Dirección General del Crédito Prendario con el objeto de que los bienes queden en condiciones de ser subastados, se efectuará con auxilio de la fuerza pública a solicitud de la referida institución.
 
 #### Artículo 469
 

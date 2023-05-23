@@ -40,13 +40,23 @@ El que, sin la competente autorización posea, transporte, guarde o porte consig
 
 En igual pena incurrirá el que adquiera, transfiera, suministre o facilite a cualquier título pequeñas cantidades de estas sustancias, drogas o materias primas, con el objetivo de que sean consumidas o usadas por otro.
 
-Se entenderá que no concurre la circunstancia de uso o consumo personal exclusivo y próximo en el tiempo, cuando la calidad o pureza de la droga poseída, transportada, guardada o portada no permita racionalmente suponer que está destinada al uso o consumo descrito o cuando las circunstancias de la posesión, transporte, guarda o porte sean indiciarias del propósito de traficar a cualquier título.
+Se entenderá que no concurre la circunstancia de uso o consumo personal exclusivo y próximo en el tiempo, cuando la droga poseída, transportada, guardada o portada no permita racionalmente suponer que está destinada al uso o consumo descrito o cuando las circunstancias de la posesión, transporte, guarda o porte sean indiciarias del propósito de traficar a cualquier título.
 
-#### Artículo 5º
+#### Artículo 5
 
-El que suministre a menores de dieciocho años de edad, a cualquier título, productos que contengan hidrocarburos aromáticos, tales como benceno, tolueno u otras sustancias similares, incurrirá en la pena de presidio menor en sus grados medio a máximo y multa de cuarenta a doscientas unidades tributarias mensuales.
+El que sin el consentimiento de la persona afectada le administre a ésta alguna de las sustancias referidas en el artículo 1 será sancionado con la pena de presidio menor en su grado medio a máximo y multa de once a veinte unidades tributarias mensuales.
 
-Atendidas las circunstancias del delito, podrá imponerse, además, la clausura a que hace referencia el artículo 7º.
+Si se hubiese obrado con violencia o intimidación para administrar u obligar a otro a consumir las sustancias referidas en el artículo 1, la pena será de presidio mayor en sus grados mínimo a medio.
+
+Lo dispuesto en los incisos precedentes no será aplicable si el hecho fuere constitutivo de un delito sancionado con igual o mayor pena por otra disposición legal, en cuyo caso, sin perjuicio de lo dispuesto en el artículo 63 del Código Penal, el suministro de dichas sustancias o el empleo de violencia o intimidación serán considerados como una sola circunstancia agravante.
+
+Si los delitos previstos en el presente artículo se hubieren realizado para facilitar o permitir la ejecución de otros delitos, las penas previstas de unos y otros se aplicarán de conformidad a lo dispuesto en el artículo 74 del Código Penal.
+
+#### Artículo 5 bis
+
+El que suministre a menores de dieciocho años de edad, a cualquier título, productos que contengan solventes o gases inhalantes capaces de provocar daños a la salud o dependencia física o psíquica, tales como benceno, tolueno, u otras sustancias similares, incurrirá en la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa de ochenta a cuatrocientas unidades tributarias mensuales.
+
+Atendidas las circunstancias del delito, podrá imponerse, además, la clausura a que hace referencia el artículo 7.
 
 #### Artículo 6º
 
@@ -60,11 +70,13 @@ El que, encontrándose autorizado para suministrar a cualquier título las susta
 
 El que, careciendo de la debida autorización, siembre, plante, cultive o coseche especies vegetales del género cannabis u otras productoras de sustancias estupefacientes o sicotrópicas, incurrirá en la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa de cuarenta a cuatrocientas unidades tributarias mensuales, a menos que justifique que están destinadas a su uso o consumo personal exclusivo y próximo en el tiempo, caso en el cual sólo se aplicarán las sanciones de los artículos 50 y siguientes.
 
+Se entenderá justificado el cultivo de especies vegetales del género cannabis para la atención de un tratamiento médico, con la presentación de la receta extendida para ese efecto por un médico cirujano tratante, la que deberá indicar el diagnóstico de la enfermedad, su tratamiento y duración, además de la forma de administración del cannabis, la que no podrá ser mediante combustión. Será sancionado con la pena de presidio mayor en su grado mínimo quien falsifique o maliciosamente haga uso de recetas falsas para justificar el cultivo de especies vegetales del género cannabis. Si se acreditare que dicha conducta tiene por objeto la comercialización de la droga o su facilitación a un tercero, la pena aumentará en un grado.
+
 Según la gravedad del hecho y las circunstancias personales del responsable, la pena podrá rebajarse en un grado.
 
 #### Artículo 9º
 
-La autorización a que se refiere el artículo anterior será otorgada por el Servicio Agrícola y Ganadero. No podrá otorgarse dicha autorización a las personas naturales respecto de las cuales se hubiere formalizado la investigación, decretado la suspensión condicional del procedimiento prevista en el artículo 237 del Código Procesal Penal o hayan sido condenadas por alguna de las conductas punibles contempladas en esta ley o en las leyes 19.366 y 19.913. Tampoco se otorgará a las personas jurídicas, cuando cualesquiera de sus representantes legales o administradores, y socios en el caso de las sociedades que no sean anónimas, se encuentren en alguna de dichas situaciones.
+La autorización a que se refiere el artículo anterior será otorgada por el Servicio Agrícola y Ganadero. No podrá otorgarse dicha autorización a las personas naturales respecto de las cuales se hubiere decretado la suspensión condicional del procedimiento prevista en el artículo 237 del Código Procesal Penal o hayan sido condenadas por alguna de las conductas punibles contempladas en esta ley o en las leyes 19.366 y 19.913. Tampoco se otorgará a las personas jurídicas, cuando cualesquiera de sus representantes legales o administradores, y socios en el caso de las sociedades que no sean anónimas, se encuentren en alguna de dichas situaciones.
 
 Se suspenderá la autorización concedida por el solo ministerio de la ley si, con posterioridad a ésta, se formaliza la investigación por alguno de los delitos aludidos; y se entenderá cancelada definitivamente, de igual modo, desde que se encuentre ejecutoriada la respectiva sentencia de término condenatoria.
 
@@ -144,7 +156,7 @@ c) Si se suministró, promovió, indujo o facilitó el uso o consumo de drogas o
 
 d) Si el delito se cometió por funcionarios públicos aprovechando o abusando de su calidad de tales.
 
-e) Si el delito se cometió valiéndose de personas exentas de responsabilidad penal.
+e) Si el delito se cometió valiéndose de niños, niñas o adolescentes o personas exentas de responsabilidad penal.
 
 f) Si el delito se cometió en las inmediaciones o en el interior de un establecimiento de enseñanza o en sitios a los que escolares y estudiantes acuden a realizar actividades educativas, deportivas o sociales.
 
@@ -152,7 +164,11 @@ g) Si el delito se perpetró en una institución deportiva, cultural o social, m
 
 h) Si el delito fue cometido en un centro hospitalario, asistencial, lugar de detención o reclusión, recinto militar o policial.
 
+i) Si el delito es perpetrado por una persona que desempeñe funciones laborales o educativas de manera permanente con menores de edad, o tenga con ellos una relación directa y constante.
+
 Si concurren dos o más de las circunstancias señaladas precedentemente, la pena podrá ser aumentada en dos grados.
+
+La pena se aumentará en dos grados cuando quien se valga de niños, niñas o adolescentes o personas exentas de responsabilidad penal en los términos señalados en la letra e) proveyere de armas de fuego a estos últimos para alcanzar sus fines delictivos.
 
 #### Artículo 20
 
@@ -276,7 +292,7 @@ De las medidas de protección a testigos, peritos, agentes encubiertos, revelado
 
 #### Artículo 30
 
-Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, en cualquier etapa del procedimiento, cuando el Ministerio Público estimare, por las circunstancias del caso, que existe riesgo o peligro grave para la vida o la integridad física de un testigo o de un perito, de un informante o de un agente encubierto o revelador y, en general de quienes hayan colaborado eficazmente en el procedimiento, en los términos del artículo 22, como asimismo de su cónyuge, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
+Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, en cualquier etapa del procedimiento, cuando el Ministerio Público estimare, por las circunstancias del caso, que existe riesgo o peligro grave para la vida o la integridad física de un testigo o de un perito, de un informante o de un agente encubierto o revelador y, en general de quienes hayan colaborado eficazmente en el procedimiento, en los términos del artículo 22, como asimismo de su cónyuge, o conviviente civil, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
 
 Para proteger la identidad de los que intervengan en el procedimiento, su domicilio, profesión y lugar de trabajo, el fiscal podrá aplicar medidas tales como:
 
@@ -348,25 +364,37 @@ Tratándose de la investigación de los delitos establecidos en esta ley, el pla
 
 #### Artículo 40
 
-Los instrumentos, objetos de cualquier clase y los efectos incautados de los delitos a que se refiere esta ley y de que se hace mención en los artículos 187 y 188 del Código Procesal Penal, podrán ser destinados por el juez de garantía, a solicitud del Ministerio Público, a una institución del Estado o, previa caución, a una institución privada sin fines de lucro, que tenga como objetivo la prevención del consumo indebido, el tratamiento y la rehabilitación de las personas afectadas por la drogadicción, o el control del tráfico ilegal de estupefacientes, oyendo al Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol. Estos bienes deberán ser utilizados en los fines propios de la entidad que los reciba, la que deberá acreditar recursos suficientes para hacerse cargo de los costos de conservación.
+Los bienes muebles e inmuebles, instrumentos, objetos de cualquier clase y los efectos incautados de los delitos a que se refiere esta ley y de que se hace mención en los artículos 187 y 188 del Código Procesal Penal, podrán ser destinados provisionalmente por el juez de garantía, a solicitud del Ministerio Público, a una institución del Estado o, previa caución, a una institución privada sin fines de lucro, que tenga como objetivo la prevención del consumo indebido, el tratamiento y la rehabilitación de las personas afectadas por la drogadicción, o el control del tráfico ilegal de estupefacientes. Asimismo, los bienes podrán ser destinados provisionalmente a unidades policiales que participen en la investigación y desarticulación de organizaciones criminales destinadas a cometer los delitos sancionados en la presente ley. En todo caso, cada institución deberá acreditar recursos suficientes para hacerse cargo de los costos de conservación, los que se financiarán con cargo a su presupuesto. Los inmuebles incautados y destinados provisionalmente estarán exentos del pago de impuestos, contribuciones o cargas mientras subsista la incautación. Para estos efectos, el juez de garantía informará al Servicio de Impuestos Internos, a la Tesorería General de la República y a la municipalidad de la comuna en la que se encuentre el bien respectivo, la destinación provisional y, cuando fuere procedente, su término, en ambos casos mediante remisión de copia de la resolución que así lo disponga. La institución destinataria de inmuebles incautados asumirá la responsabilidad de su administración y deberá rendir cuentas de su gestión al juez de garantía a lo menos trimestralmente.
+
+Para efectos de la solicitud del Ministerio Público sobre destinación provisoria, se deberá oficiar al Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, el que podrá contestar por escrito, dentro de quinto día de notificado. De no recibir respuesta dentro de plazo, se entenderá que el Servicio concurre con la decisión del Ministerio Público.
 
 La incautación de las armas se regirá por la ley Nº 17.798, sobre Control de Armas. Los dineros se depositarán en el Banco del Estado de Chile, en cuentas o valores reajustables.
 
 Si la incautación recae sobre establecimientos industriales o mercantiles, sementeras, plantíos o en general frutos pendientes, el juez de garantía, a solicitud del Ministerio Público, designará un administrador provisional, quien deberá rendir cuenta de su gestión a este último, a lo menos trimestralmente. La incautación de un inmueble comprende la de sus frutos o rentas.
 
-Si el juez de garantía, a solicitud del Ministerio Público, estimare conveniente la enajenación de alguna de las especies a que se hace mención en este artículo, lo dispondrá en resolución fundada. Si se tratare de bienes sujetos a corrupción, o susceptibles de próximo deterioro, o cuya conservación sea difícil o muy dispendiosa, deberá, en todo caso, procederse a su enajenación. La enajenación se llevará a cabo por la Dirección General del Crédito Prendario en subasta pública, salvo que el tribunal, también a petición del Ministerio Público, dispusiere la venta directa.
+El Ministerio Público deberá informar trimestralmente al Ministerio del Interior y Seguridad Pública y al Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, sobre los dineros, valores y demás bienes incautados conforme a esta ley. El Ministerio del Interior y Seguridad Pública deberá dictar un reglamento para regular las materias que trata este párrafo.
 
-En este último caso y en el evento de que la sentencia no condene a la pena de comiso de las especies enajenadas, el precio de la venta, sus reajustes e intereses serán restituidos a quien corresponda. Lo mismo sucederá con los dineros aludidos en el inciso segundo.
+#### Artículo 40 bis
 
-El Ministerio Público deberá informar al Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, trimestralmente, sobre los dineros, valores y demás bienes incautados conforme a esta ley.
+A solicitud del Ministerio Público o del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, el juez de garantía podrá disponer la enajenación temprana de los bienes incautados, siempre que se trate de vehículos motorizados, o bienes respecto de los cuales existan antecedentes de que continúan siendo utilizados en actividades ilícitas, o se trate de bienes sujetos a corrupción, susceptibles de próximo deterioro, cuya conservación sea difícil o muy dispendiosa.
+
+Para estos efectos, el juez de garantía deberá oficiar al Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol para que tome conocimiento de la resolución que dispone la enajenación temprana, y también deberá oficiar a la Dirección General del Crédito Prendario para que informe sobre la tasación del respectivo bien. En caso de que éste deba ser destruido por carecer de valor, de conformidad a lo dispuesto en el inciso primero del artículo 46, el juez de garantía así deberá decretarlo en la resolución.
+
+Si el bien figura inscrito en algún registro público, sea que acredite o no propiedad, el juez de garantía, antes de resolver la enajenación temprana, deberá citar a quienes figuren como titulares de derechos en dichos registros. En caso de que el citado no comparezca a la audiencia de enajenación temprana, se procederá en su ausencia.
+
+La enajenación se llevará a cabo por la Dirección General del Crédito Prendario en subasta pública cuando la resolución que disponga la enajenación se encuentre firme o ejecutoriada, de acuerdo con lo dispuesto en el artículo 46 y en el artículo 468 bis del Código Procesal Penal.
+
+El monto de lo obtenido en la subasta será depositado en el Banco del Estado de Chile, en cuentas o valores reajustables y con intereses.
+
+En el evento que la sentencia no establezca el comiso de las especies enajenadas, el precio de la venta, sus reajustes e intereses serán restituidos a quien corresponda.
 
 #### Artículo 41
 
-Sin perjuicio de lo dispuesto en el artículo 23, las sustancias y especies a que se refieren los artículos 1º, 2º, 5º y 8º y, en su caso, las materias primas empleadas en su elaboración, que sean incautadas en conformidad a la ley, deberán ser entregadas dentro de las veinticuatro horas siguientes al Servicio de Salud que corresponda.
+Sin perjuicio de lo dispuesto en el artículo 23, las sustancias y especies a que se refieren los artículos 1º, 2º, 5 bis y 8º y, en su caso, las materias primas empleadas en su elaboración, que sean incautadas en conformidad a la ley, deberán ser entregadas dentro de las veinticuatro horas siguientes al Servicio de Salud que corresponda.
 
 Con todo, cuando circunstancias especiales así lo aconsejen, el juez de garantía, a solicitud del Ministerio Público, podrá ampliar este plazo hasta en cuarenta y ocho horas, a solicitud de los funcionarios que hubieren incautado las referidas sustancias o materias primas.
 
-Las sustancias estupefacientes o sicotrópicas y sus materias primas y las que contengan hidrocarburos aromáticos deberán destruirse en el plazo de quince días por el Servicio de Salud respectivo, una vez separada una cantidad técnicamente suficiente para los análisis de que trata el artículo 43, siempre que respecto de dichas sustancias no se discuta su legítima tenencia o posesión por terceros.
+Las sustancias estupefacientes o sicotrópicas y sus materias primas y las que contengan gases o solventes inhalantes, así como sus contenedores, deberán destruirse en el plazo de quince días por el Servicio de Salud respectivo, una vez separada una cantidad técnicamente suficiente para los análisis de que trata el artículo 43, siempre que respecto de dichas sustancias no se discuta su legítima tenencia o posesión por terceros.
 
 #### Artículo 42
 
@@ -374,7 +402,7 @@ Los funcionarios responsables del retardo en el cumplimiento de las obligaciones
 
 #### Artículo 43
 
-El Servicio de Salud deberá remitir al Ministerio Público, en el más breve plazo, un protocolo del análisis químico de la sustancia suministrada, en el que se identificará el producto y se señalará su peso o cantidad, su naturaleza, contenido, composición y grado de pureza, como, asimismo, un informe acerca de los componentes tóxicos y sicoactivos asociados, los efectos que produzca y la peligrosidad que revista para la salud pública.
+El Servicio de Salud deberá remitir al Ministerio Público, en el más breve plazo, el que no podrá exceder de treinta días, un protocolo del análisis químico de la sustancia suministrada, en el que se identificará el producto y se señalará su peso o cantidad, su naturaleza, contenido, composición y grado de pureza, como, asimismo, un informe acerca de los componentes tóxicos y sicoactivos asociados, los efectos que produzca y la peligrosidad que revista para la salud pública.
 
 Conservará, en todo caso, una determinada cantidad de dicha sustancia para el evento de que cualquiera de los intervinientes solicite nuevos análisis de la misma, de conformidad a los artículos 188, inciso tercero, y 320 del Código Procesal Penal.
 
@@ -382,21 +410,39 @@ Esta muestra se conservará por el plazo máximo de dos años, al cabo del cual 
 
 Efectuado el análisis a que se refiere el inciso primero, los precursores y sustancias químicas esenciales deberán ser enajenados en la forma dispuesta en el inciso cuarto del artículo 40.
 
+Efectuado el análisis a que se refiere el inciso primero, los precursores y sustancias químicas esenciales deberán ser enajenados en la forma dispuesta en el artículo 40 bis; o a través de venta directa, a solicitud del Ministerio Público con autorización del juez de garantía; o destruidos por el Servicio de Salud respectivo, conforme a lo dispuesto en el inciso tercero del artículo 41.
+
 #### Artículo 44
 
 Cuando las sustancias estupefacientes o sicotrópicas incautadas, las plantas o materias primas, con excepción de los precursores y sustancias químicas esenciales, hagan difícil, por su cantidad, lugar de ubicación u otras circunstancias, su traslado y almacenamiento, el juez de garantía, a petición del Ministerio Público, decretará su incineración o destrucción en el mismo lugar donde hubieren sido encontradas, debiendo, en este caso, darse cumplimiento a las demás normas de los artículos 40 a 43.
 
 #### Artículo 45
 
-Sin perjuicio de las reglas generales, caerán especialmente en comiso los bienes raíces; los muebles, tales como vehículos motorizados terrestres, naves y aeronaves, dinero, efectos de comercio y valores mobiliarios; y, en general, todo otro instrumento que haya servido o hubiere estado destinado a la comisión de cualquiera de los delitos penados en esta ley; los efectos que de ellos provengan y las utilidades que hubieren originado, cualquiera que sea su naturaleza jurídica, o las transformaciones que hubieren experimentado, como, asimismo, todos aquellos bienes facilitados o adquiridos por terceros a sabiendas del destino u origen de los mismos.
+Sin perjuicio de las reglas generales, caerán especialmente en comiso los bienes raíces; los muebles, tales como vehículos motorizados terrestres, naves y aeronaves, dinero, efectos de comercio y valores mobiliarios; y, en general, todo otro instrumento que haya servido o hubiere estado destinado a la comisión de cualquiera de los delitos penados en esta ley; los efectos que de ellos provengan y las utilidades que hubieren originado, cualquiera que sea su naturaleza jurídica, o las transformaciones que hubieren experimentado, como, asimismo, todos aquellos bienes facilitados o adquiridos por terceros a sabiendas o no pudiendo menos que conocer del destino u origen de los mismos.
 
 Igual sanción se aplicará respecto de las sustancias señaladas en el inciso primero del artículo 2º, y de las materias primas, elementos, materiales, equipos e instrumentos usados o destinados a ser utilizados, en cualquier forma, para cometer alguno de los delitos sancionados en esta ley.
 
+Se impondrá el comiso de toda cosa que hubiere sido empleada como instrumento en la perpetración de un delito previsto en esta ley y que fuere especialmente apta para ser utilizada delictivamente. Se entenderá que son especialmente aptas para ser utilizadas delictivamente aquellas cosas que se encuentren en general prohibidas por la ley. El tribunal deberá decretar el comiso de cosas especialmente aptas para ser utilizadas delictivamente incluso cuando el imputado fuere absuelto o sobreseído. Para ello bastará el establecimiento de su uso en un hecho delictivo. El comiso de instrumentos especialmente aptos para ser utilizados delictivamente procederá aun respecto del tercero de buena fe y que tuviere título para poseer la cosa, a menos que se acredite que él no tuvo responsabilidad en el uso de la cosa por parte del hechor. Si el comiso afecta a un tercero de buena fe, éste podrá solicitar indemnización al responsable.
+
+El comiso de una cosa que no fuere especialmente apta para ser utilizada delictivamente y que ha servido de instrumento en la perpetración del delito será impuesto en la sentencia condenatoria y no procederá respecto del tercero de buena fe.
+
+Se impondrá el comiso de toda cosa obtenida o producida a través de la perpetración de un delito previsto en esta ley. El comiso de los efectos del delito será decretado por el juez incluso si el imputado fuere absuelto o sobreseído, siempre que se establezca que la cosa proviene de un hecho ilícito. Dicho comiso no procederá respecto del tercero de buena fe. Tratándose de efectos de posesión ilícita, el comiso procederá en todos los casos.
+
+Cuando por cualquier circunstancia no sea posible decomisar las especies señaladas en este artículo que han sido usadas como instrumentos en la perpetración del delito o que han sido obtenidas o producidas a través de su perpetración, el tribunal aplicará el comiso a una suma de dinero equivalente a su valor o a otros bienes que sean de propiedad del condenado.
+
+El tribunal podrá decretar el comiso de los activos patrimoniales cuyo valor corresponda a la cuantía de las ganancias obtenidas a través de la perpetración de un delito sancionado en la presente ley cuando establezca que tales ganancias provienen de los delitos objeto de la condena. Las ganancias comprenden los frutos y las utilidades que el delito ha originado, cualquiera sea su naturaleza jurídica, así como el equivalente a los costos evitados mediante el hecho ilícito. Siempre que se establezca que las ganancias proceden de un hecho ilícito el juez decretará el comiso de ellas, aunque el imputado fuere sobreseído o absuelto.
+
+Tratándose de delitos de esta ley perpetrados de conformidad con la modalidad descrita en el artículo 16, se impondrá el comiso de todos los activos vinculados a la actividad en cuyo contexto se hubiere ejecutado el delito objeto de la condena, a menos que se acredite su origen lícito.
+
 #### Artículo 46
 
-Los bienes decomisados en conformidad a esta ley serán enajenados en subasta pública por la Dirección General del Crédito Prendario, la que podrá, además, ordenar su destrucción, si carecieren de valor.
+Los bienes decomisados en conformidad a esta ley serán enajenados en subasta pública por la Dirección General del Crédito Prendario, la que podrá, además, ordenar su destrucción, por carecer de valor, lo que será determinado por el Departamento de Tasaciones de dicha institución.
 
-El producto de la enajenación de los bienes y valores decomisados y los dineros en tal situación ingresarán a un fondo especial del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, con el objetivo de ser utilizados en programas de prevención del consumo de drogas, tratamiento y rehabilitación de las personas afectadas por la drogadicción. Un reglamento establecerá la forma de distribución de los fondos, así como los mecanismos que garanticen la transparencia de los actos tendientes a su traspaso.
+Una vez decretado el comiso de un inmueble que haya sido destinado provisionalmente al Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol o a otro organismo público, éste, previa autorización de la Dirección de Presupuestos, podrá solicitar al juez de garantía que le sea transferido su dominio, con fines de prevención y rehabilitación del consumo de drogas o alcohol, sin que proceda en este caso la enajenación en pública subasta establecida en el artículo 469 del Código Procesal Penal.
+
+El producto de la enajenación de los bienes y valores decomisados y los dineros en tal situación, el producto de la enajenación temprana a que se refiere el artículo 40 bis, así como los dineros incautados no decomisados y no reclamados por sus dueños, ingresarán a un fondo especial del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, con el objetivo de ser utilizados en programas de prevención del consumo de drogas y alcohol, tratamiento y rehabilitación de las personas afectadas por la drogadicción y alcoholismo. Asimismo, podrá ser utilizado en proyectos, estudios e investigaciones, infraestructura y capacitaciones, que permitan apoyar directamente el efectivo cumplimiento de la labor del Servicio. Un reglamento establecerá la forma de distribución de los fondos, así como los mecanismos que garanticen la transparencia de los actos tendientes a su traspaso.
+
+No obstante lo anterior, parte de dichos recursos podrán ser destinados a las unidades del Ministerio Público que cumplan funciones de análisis, investigación o persecución del crimen organizado dedicado a la comisión de los delitos sancionados en la presente ley, así como también a las unidades de Carabineros de Chile y de la Policía de Investigaciones de Chile que tengan como objeto la desarticulación de organizaciones criminales dedicadas a la perpetración de dichos delitos, en la forma que establezca el reglamento señalado en el inciso anterior.
 
 Igual aplicación se dará al monto de las multas impuestas en esta ley y al precio de la subasta de las especies de que hace mención el artículo 470 del Código Procesal Penal. Se exceptúan de esta disposición las armas de fuego y demás elementos a que se refiere la ley Nº 17.798, sobre Control de Armas.
 
@@ -464,9 +510,15 @@ De la aplicación de la pena
 
 #### Artículo 52
 
-Si el sentenciado no pagare la multa impuesta sufrirá, por vía de sustitución, la pena de reclusión, regulándose un día por cada media unidad tributaria mensual. En todo caso, la reclusión no podrá exceder de seis meses.
+Si el sentenciado no pagare la multa impuesta en virtud de la letra a) del artículo 50, el tribunal podrá aplicar, por vía de sustitución, la pena de asistencia obligatoria a programas de prevención hasta por 60 días, o de tratamiento o rehabilitación, en su caso, por un período de hasta 180 días, en instituciones autorizadas por el servicio de salud competente, o la pena de prestación de servicios en beneficio de la comunidad.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, en casos debidamente calificados, el tribunal podrá eximir al condenado del pago de multa o imponerle una inferior al mínimo establecido en esta ley, debiendo dejar constancia en la sentencia de las razones que motivaron su decisión.
+Para proceder a cualquiera de dichas sustituciones, se requerirá del acuerdo del condenado. En caso contrario, el tribunal impondrá, por vía de sustitución y apremio de la multa, la pena de reclusión, regulándose un día por cada tercio de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
+
+En caso de incumplimiento de las penas de asistencia obligatoria a programas de prevención o de tratamiento o rehabilitación, el encargado de la respectiva institución informará al tribunal que haya impuesto la sanción, el que lo citará a una audiencia, conjuntamente con el condenado, su defensor y el Ministerio Público, para resolver sobre la mantención o revocación de la pena. En caso de decretarse la revocación, el tribunal impondrá al condenado la pena de reclusión, regulándose un día por cada tercio de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
+
+En cuanto a la regulación y revocación de la pena de servicios en favor de la comunidad, regirán las disposiciones contenidas en los artículos 49 a 49 sexies del Código Penal.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, en casos debidamente calificados el tribunal podrá eximir al condenado del pago de la multa o imponerle una inferior al mínimo establecido en la ley, debiendo dejar constancia en la sentencia o en la resolución posterior a ésta, de las razones que motivaron la decisión.
 
 #### Artículo 53
 
@@ -500,7 +552,7 @@ De las medidas de control de precursores y sustancias químicas esenciales
 
 #### Artículo 55
 
-Las personas naturales o jurídicas que produzcan, fabriquen, preparen, importen o exporten precursores o sustancias químicas esenciales catalogadas por el reglamento a que alude el artículo 58 como susceptibles de ser utilizadas para la fabricación ilícita de drogas estupefacientes o sicotrópicas, deberán inscribirse en un registro especial que la Subsecretaría del Interior creará para tal efecto.
+Las personas naturales o jurídicas que produzcan, fabriquen, preparen, importen o exporten, transporten, distribuyan, comercialicen, almacenen o eliminen precursores o sustancias químicas esenciales catalogadas por el reglamento a que alude el artículo 58 como susceptibles de ser utilizadas para la fabricación ilícita de drogas estupefacientes o sicotrópicas, deberán inscribirse en un registro especial que la Subsecretaría del Interior creará para tal efecto.
 
 Sólo quienes se hayan inscrito en ese registro especial podrán efectuar las operaciones y actividades previstas en el inciso precedente con precursores y sustancias químicas esenciales catalogadas en dicho reglamento. Las inscripciones deberán ser renovadas periódicamente.
 
@@ -512,13 +564,15 @@ La inscripción en el registro especial sólo podrá ser denegada a las personas
 
 Del mismo modo, la inscripción en el registro será suspendida si, con posterioridad a ella, se formaliza la investigación por alguno de los delitos aludidos y se cancelará, desde que se encuentre ejecutoriada la respectiva sentencia de término condenatoria.
 
-Las resoluciones judiciales aludidas en los incisos anteriores se comunicarán a la Subsecretaría del Interior tan pronto se encuentren firmes. La Subsecretaría, a la brevedad, dictará la correspondiente resolución, de carácter declarativo, y la comunicará a los interesados.
+Para efectos de la suspensión, cancelación o denegación de la inscripción en el registro, el Ministerio Público remitirá trimestralmente a la Subsecretaría del Interior la nómina de los sujetos que han sido condenados, beneficiarios de suspensión condicional del procedimiento o formalizados por los delitos establecidos en esta ley y en las leyes Nos. 19.366 y 19.913. La Subsecretaría, a la brevedad, dictará la correspondiente resolución, de carácter declarativo, y la comunicará a los interesados.
 
 #### Artículo 57
 
-Las personas que se encuentren registradas en conformidad al artículo 55 deberán mantener un inventario de las existencias de las sustancias a que se refiere dicho artículo y una relación completa y actualizada del movimiento que éstas experimenten, los que deberán encontrarse disponibles para ser remitidos o examinados por la autoridad responsable del registro con la frecuencia y bajo las modalidades que el reglamento indique. Asimismo, comunicarán a la referida autoridad las operaciones de importación y exportación, con antelación a la fecha prevista para el embarque o para el envío legal de la exportación, respecto de lo cual la Subsecretaría del Interior notificará al país importador.
+Las personas que se encuentren registradas en conformidad al artículo 55 deberán mantener un inventario de las existencias de las sustancias a que se refiere dicho artículo y una relación completa y actualizada del movimiento que éstas experimenten, los que deberán ser remitidos a la autoridad responsable del registro con la frecuencia y bajo las modalidades que el reglamento indique, y podrán ser examinados tanto por ésta como por la Policía de Investigaciones de Chile y Carabineros de Chile, quienes colaborarán con la autoridad. Asimismo, las personas registradas comunicarán a la autoridad responsable del registro las operaciones de importación y exportación, con antelación a la fecha prevista para el embarque o para el envío legal de la exportación, respecto de lo cual la Subsecretaría del Interior notificará al país importador.
 
 El intercambio de información que se realice con organismos internacionales y con otros Estados, por aplicación de lo señalado en el inciso precedente, se sujetará a lo dispuesto en las convenciones y tratados internacionales, o en su defecto, al principio de reciprocidad, y se condicionará a que el Estado que reciba la información mantenga el carácter confidencial con que se le remite.
+
+Las personas naturales o jurídicas que no se encuentren registradas y que produzcan, fabriquen, preparen, transporten, importen, exporten, distribuyan, comercialicen, almacenen o eliminen precursores o sustancias químicas esenciales catalogadas por el reglamento a que alude el artículo 58, podrán ser examinadas por las autoridades señaladas en el inciso primero y estarán sujetas a las sanciones correspondientes.
 
 #### Artículo 58
 
@@ -526,7 +580,11 @@ El reglamento determinará el listado de precursores y sustancias químicas esen
 
 #### Artículo 59
 
-La infracción a las obligaciones de registrarse, de mantener inventario y relación de movimientos e informar sobre los mismos cuando la autoridad lo requiera, y de informar importaciones y exportaciones, será sancionada con multa de cuarenta a mil unidades tributarias mensuales. El producto de las multas ingresará al fondo especial a que se refiere el artículo 46 de esta ley y se destinará a los fines que allí se contemplan.
+La infracción a las obligaciones de registrarse, de mantener inventario y relación de movimientos e informar sobre los mismos cuando la autoridad lo requiera, de mantener actualizados los datos en el Registro y de informar importaciones y exportaciones, será sancionada con multa de cuarenta a mil unidades tributarias mensuales. El producto de las multas ingresará al fondo especial a que se refiere el artículo 46 de esta ley y se destinará a los fines que allí se contemplan. En casos calificados de reincidencia, procederá además la clausura del establecimiento.
+
+Para la determinación del monto de la multa se considerará la gravedad de la infracción, la conducta previa del infractor y la naturaleza de las sustancias sobre la cual recayó la infracción.
+
+Las multas deberán pagarse dentro de los quince días siguientes a la fecha en que se encuentre firme la respectiva resolución.
 
 #### Artículo 60
 
@@ -548,11 +606,11 @@ Para efectos de lo dispuesto en este artículo, el juez de garantía o el Minist
 
 #### Artículo 62
 
-No se aplicará ninguna de las medidas alternativas contempladas en la ley Nº 18.216 a la persona que haya sido condenada con anterioridad por alguno de los crímenes o simples delitos contemplados en esta ley o en la ley Nº 19.366, en virtud de sentencia ejecutoriada, haya cumplido, o no, efectivamente la condena, a menos que le sea reconocida la circunstancia atenuante establecida en el artículo 22.
+No se aplicará ninguna de las penas sustitutivas contempladas en la ley Nº 18.216 a la persona que haya sido condenada con anterioridad por alguno de los crímenes o simples delitos contemplados en esta ley o en la ley Nº 19.366, en virtud de sentencia ejecutoriada, haya cumplido, o no, efectivamente la condena, a menos que le sea reconocida la circunstancia atenuante establecida en el artículo 22.
 
 #### Artículo 63
 
-Un reglamento señalará las sustancias y especies vegetales a que se refieren los artículos 1º, 2º, 5º y 8º; los requisitos, obligaciones y demás exigencias que deberán cumplirse para el otorgamiento de las autorizaciones a que se refiere el artículo 9º, y las normas relativas al control y fiscalización de dichas plantaciones.
+Un reglamento señalará las sustancias, productos que contengan solventes o gases inhalantes y especies vegetales a que se refieren los artículos 1º, 2º, 5 bis y 8º; los requisitos, obligaciones y demás exigencias que deberán cumplirse para el otorgamiento de las autorizaciones a que se refiere el artículo 9º, y las normas relativas al control y fiscalización de dichas plantaciones.
 
 #### Artículo 64
 
