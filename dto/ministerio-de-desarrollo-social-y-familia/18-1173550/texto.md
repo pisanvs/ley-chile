@@ -38,7 +38,7 @@ d) Un profesional del área económica o de administración con más de cinco a�
 
 Decreto:
 
-1° Desígnase, a contar del 18 de octubre de 2021, y por un periodo de tres años, en el cargo de Consejeros del Consejo de Expertos del artículo 9 de la ley N° 21.302, a las siguientes personas:
+1º Desígnase, a contar del 18 de octubre de 2021, y por un periodo de cinco años, en el cargo de Consejeros del Consejo de Expertos del artículo 9 de la ley Nº 21.302, a las siguientes personas:
 
 1. Don Juan Paulo Sánchez Errázuriz, RUN 16.095.993-2, Profesional del área económica o de administración.
 
