@@ -28,7 +28,7 @@ Decreto:
 
 #### Artículo único
 
-Declárase zona saturada por Material Particulado Fino Respirable MP 2,5 , como concentración de 24 horas, a la ciudad de Puerto Aysén y su área circundante, en conformidad al polígono que se indica, cuyos límites geográficos de acuerdo a las coordenadas UTM Datum WGS84, Huso 18, son los siguientes:
+Declárase zona saturada por Material Particulado Fino Respirable MP 2,5, como concentración de 24 horas, a la ciudad de Puerto Aysén y su área circundante, en conformidad al polígono que se indica, cuyos límites geográficos de acuerdo a las coordenadas UTM Datum WGS84, Huso 18, son los siguientes:
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.- Enrique Paris Mancilla, Ministro de Salud.
 
