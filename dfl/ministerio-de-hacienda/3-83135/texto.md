@@ -1810,7 +1810,7 @@ Los bancos estarán sujetos al siguiente sistema de caducidad de los depósitos,
 
 Transcurridos dos años desde que la cuenta respectiva no haya tenido movimiento o no haya sido cobrada la acreencia por el titular, la empresa bancaria formará una lista en el mes de enero siguiente, la que fijará en su domicilio principal. Podrán omitirse de la lista las acreencias inferiores al equivalente de una unidad de fomento. Las que excedan individualmente del equivalente de cinco unidades de fomento deberán publicarse en el Diario Oficial en un día del mes de marzo siguiente.
 
-Transcurridos tres años desde el mes de enero en que corresponda formar la lista, la acreencia correspondiente caducará y se extinguirán a su respecto todos los derechos del titular, debiendo la institución financiera enterar las cantidades correspondientes, deducidos los gastos de publicación en su caso, en la Tesorería Regional o Provincial que corresponda a su domicilio principal.
+Transcurridos tres años desde el mes de enero en que corresponda formar la lista, la acreencia correspondiente caducará y se extinguirán a su respecto todos los derechos del titular, debiendo la institución financiera pasar de pleno derecho a la Junta Nacional de Cuerpos de Bomberos de Chile las cantidades correspondientes, deducidos los gastos de publicación en su caso. La institución financiera pondrá tales cantidades a disposición de la referida Junta Nacional, la que prorrateará y distribuirá íntegramente dichos dineros entre los Cuerpos de Bomberos de Chile.
 
 No se aplicará lo dispuesto en este artículo:
 
