@@ -28,21 +28,89 @@ Serán beneficiarios del Sistema Nacional de Capacitación, en lo que respecta a
 
 T I T U L O II
 
-Del Consejo Nacional de Capacitación y de los Consejos
-
-Regionales de Capacitación
+Del Consejo Nacional de Capacitación y de los Consejos Regionales de Capacitación
 
 #### Artículo 3º
 
-Los consejeros provenientes del sector empresarial y laboral, que integren el Consejo Nacional y los Consejos Regionales de Capacitación a que alude el artículo 9º del Estatuto, serán designados por el Ministro del Trabajo y Previsión Social o Secretario Regional Ministerial del Trabajo y Previsión Social, según el caso, previa consulta a las organizaciones legalmente constituidas, representativas de dichos sectores, de carácter nacional o regional, respectivamente.
+Existirá un órgano nacional de conformación tripartita, denominado Consejo Nacional de Capacitación, cuya función será asesorar al Ministerio del Trabajo y Previsión Social en la formulación de la política nacional de capacitación.
 
-#### Artículo 4º
+Dicho Consejo será presidido por el Ministro(a) del Trabajo y Previsión Social, y estará integrado, además, por los Ministros de Hacienda, de Economía, Fomento y Turismo, de Educación y el Vicepresidente de la Corporación de Fomento de la Producción, o por quienes estos designen en su representación.
 
-Tales consejeros durarán dos años en sus cargos, pudiendo ser designados por otros períodos similares, con consulta a las organizaciones respectivas del sector empresarial y laboral.
+Formarán parte de este consejo cuatro consejeros provenientes del sector laboral y cuatro consejeros provenientes del sector empresarial, incluyendo al menos un representante de las organizaciones de empresas de menor tamaño, quienes serán designados por el (la) Presidente(a) del Consejo, previa consulta a las organizaciones nacionales más representativas de dichos sectores.
 
-#### Artículo 5º
+Estos consejeros(as) durarán dos años en sus cargos, desde la fecha de la total tramitación del acto del Ministerio del Trabajo y Previsión Social que los designe, pudiendo ser designados(as) por otros periodos de igual duración, previa consulta a las organizaciones que representan.
 
-El quórum para sesionar, tanto del Consejo Nacional como de los Regionales, será la mayoría absoluta de sus miembros.
+#### Artículo 3° bis
+
+Los miembros del Consejo para ser designados deberán cumplir con los siguientes requisitos:
+
+a) Tener dieciocho años de edad.
+
+b) Contar con una reconocida trayectoria en el ámbito de las relaciones laborales, mercado del trabajo, formación y capacitación, lo que se acreditará mediante curriculum vitae y certificaciones académicas, laborales, sindicales, declaraciones u otro documento que se considere relevante para aquello.
+
+No podrán ser integrantes del Consejo:
+
+1. Las personas que les afecte alguna de las inhabilidades establecidas en el artículo 54 de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia.
+
+2. Las Personas que ocupen cargos de elección popular.
+
+3. Los representantes, gerentes, directivos o trabajadores de los Organismos Técnicos de Capacitación o de los Organismos Técnicos Intermedios para Capacitación regulados por la Ley N° 19.518 y sus reglamentos.
+
+4. Los(as) funcionarios(as) de planta y contrata, personal a honorarios y toda aquella persona natural que preste servicios, cualquiera sea su vinculo contractual, al Servicio Nacional de Capacitación y Empleo.
+
+Los consejeros y consejeras en el ejercicio de su cargo deberán observar una conducta intachable y un desempeño honesto y leal, así como mantener la debida confidencialidad de la información a la cual tengan acceso en el cumplimento de sus funciones, conforme a la normativa vigente.
+
+#### Artículo 3° ter
+
+Los y las integrantes del Consejo no serán remunerados en sus funciones y cesarán en sus cargos por alguna de las siguientes causales:
+
+a) Expiración del plazo por el que fueron nombrados.
+
+b) Por renuncia, ante el presidente(a) del Consejo.
+
+c) Por falta grave al cumplimiento de sus funciones, considerándose como tal las siguientes situaciones:
+
+1. Inasistencia injustificada a tres sesiones ordinarias seguidas del Consejo.
+
+2. Inasistencia injustificada a más del cincuenta por ciento de las sesiones ordinarias que el Consejo realice en el año.
+
+3. Incumplimiento de las obligaciones de probidad y confidencialidad que les son aplicables en razón de su cargo, así como incurrir en alguna de las causales de inhabilidad establecidas en el artículo anterior.
+
+El miembro del Consejo que estimare estar afecto a alguna causal de cesación en el ejercicio de su cargo, deberá comunicarlo de inmediato al o la Ministro(a) del Trabajo y Previsión Social deberá tomar las medidas necesarias para su reemplazo.
+
+#### Artículo 4°
+
+El Consejo sesionará, a lo menos, cada tres meses convocados por el o la Presidente(a), y emitirá, una vez al año, un informe público sobre las deliberaciones y acuerdos que haya adoptado en el ejercicio de sus funciones.
+
+El Consejo sesionará con al menos siete miembros y sus acuerdos se adoptarán por mayoría absoluta de los y las presentes. Su Presidente(a) dirimirá los empates que pudieren producirse. Los acuerdos del Consejo deberán adoptarse con la concurrencia de, a lo menos, un consejero(a) que represente al sector gubernamental, al empresarial y al laboral, respectivamente.
+
+El o la Subsecretario(a) del Trabajo podrá asistir con derecho a voz a todas las sesiones del Consejo.
+
+Excepcionalmente, el Presidente(a) del Consejo podrá autorizar la realización de las sesiones por videoconferencia u otro medio electrónico.
+
+Los y las consejeros(as) deberán absténerse de participar cuando en la sesión respectiva se traten materias en que puedan tener interés personal. Para efectos de clarificar la incidencia planteada, el Consejo ponderará las circunstancias expresadas por el o la respectivo(a) consejero(a), con prescindencia de su participación.
+
+El Consejo tendrá una Secretaría Técnica que estará a cargo del director(a) nacional del Servicio Nacional de Capacitación y Empleo. Lo anterior, sin perjuicio de la responsabilidad del Subsecretario(a) del Trabajo de velar por el correcto funcionamiento del Consejo, así como del cumplimiento de sus acuerdos.
+
+#### Artículo 5°
+
+Existirá en cada región del país un Consejo Regional de Capacitación, que tendrá por función asesorar al Gobierno Regional en el desarrollo y aplicación de la política nacional de capacitación en el ámbito regional.
+
+Este órgano regional será integrado por el Secretario(a) Regional Ministerial del Trabajo y Previsión Social, quien lo presidirá, y por los Secretarios(as) Regionales Ministeriales de los Ministerios que integran el Consejo Nacional. También lo integrarán dos consejeros(as) provenientes del sector laboral y dos consejeros(as) provenientes del sector empresarial, quienes serán designados por su presidente de la misma forma como lo son los que integran el Consejo Nacional de Capacitación.
+
+A los miembros de los Consejos Regionales de Capacitación les será aplicable lo establecido en los artículos 3° bis y 3° ter anteriores.
+
+#### Artículo 5° bis
+
+El Consejo Regional sesionará, conforme lo determine su presidente(a), pero deberán existir a lo menos 3 sesiones en el año y emitirá un informe anual, el que deberá ser remitido al Consejo Nacional, debiendo referirse a las deliberaciones y acuerdos que haya adoptado en el cumplimiento de sus funciones.
+
+El Consejo sesionará con al menos cinco miembros y sus acuerdos se adoptarán por mayoría absoluta de los presentes. Su presidente(a) dirimirá los empates que pudieren producirse. Los acuerdos del Consejo deberán adoptarse con la concurrencia de, a lo menos, un consejero(a) que represente al sector gubernamental, al empresarial y al laboral, respectivamente.
+
+Excepcionalmente, el Presidente(a) del Consejo podrá autorizar la realización de las sesiones por videoconferencia u otro medio electrónico.
+
+Los consejeros y consejeras deberán abstenerse de participar cuando en la sesión respectiva se traten materias en que puedan tener interés personal. Para efectos de clarificar la incidencia planteada, el Consejo ponderará las circunstancias expresadas por el respectivo consejero(a), con prescindencia de su participación.
+
+El Consejo Regional tendrá una Secretaría Técnica que estará a cargo del respectivo director(a) regional del Servicio Nacional de Capacitación y Empleo.
 
 T I T U L O III
 
