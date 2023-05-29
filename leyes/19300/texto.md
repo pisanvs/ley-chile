@@ -46,6 +46,10 @@ j) Evaluación de Impacto Ambiental: el procedimiento, a cargo del Servicio de E
 
 k) Impacto Ambiental: la alteración del medio ambiente, provocada directa o indirectamente por un proyecto o actividad en un área determinada;
 
+k bis) Impacto crítico: alteración del medio ambiente, en especial de la salud y/o de los componentes ambientales, provocada directa o indirectamente por un proyecto o actividad, que no puede ser mitigada, reparada o compensada adecuadamente en conformidad con el decreto que declare la zona como latente o saturada.
+
+El reglamento establecerá los criterios específicos que permitan establecer la existencia de un impacto crítico para cada componente, tales como exposición y riesgo, o permanencia, capacidad de regeneración o renovación del recurso, y las condiciones que hacen posible la presencia de desarrollo de las especies y ecosistemas, en cuanto corresponda.
+
 l) Línea de Base: la descripción detallada del área de influencia de un proyecto o actividad, en forma previa a su ejecución;
 
 ll) Medio Ambiente: el sistema global constituido por elementos naturales y artificiales de naturaleza física, química o biológica, socioculturales y sus interacciones, en permanente modificación por la acción humana o natural y que rige y condiciona la existencia y desarrollo de la vida en sus múltiples manifestaciones;
@@ -68,9 +72,13 @@ r) Recursos Naturales: los componentes del medio ambiente susceptibles de ser ut
 
 s) Reparación: la acción de reponer el medio ambiente o uno o más de sus componentes a una calidad similar a la que tenían con anterioridad al daño causado o, en caso de no ser ello posible, restablecer sus propiedades básicas;
 
-t) Zona Latente: aquélla en que la medición de la concentración de contaminantes en el aire, agua o suelo se sitúa entre el 80% y el 100% del valor de la respectiva norma de calidad ambiental, y
+t) Zona Latente: aquélla en que la medición de la concentración de contaminantes en el aire, agua o suelo se sitúa entre el 80% y el 100% del valor de la respectiva norma de calidad ambiental.
 
 u) Zona Saturada: aquélla en que una o más normas de calidad ambiental se encuentran sobrepasadas.
+
+v) Plan de Prevención: instrumento de gestión ambiental que tiene por finalidad evitar que los niveles establecidos en las normas primarias y/o secundarias de calidad ambiental se encuentren en saturación, a través de la definición e implementación de medidas y acciones específicas, que logren la reducción de los niveles de concentración señalados en dichas normas por debajo de la latencia.
+
+w) Plan de Descontaminación: instrumento de gestión ambiental que, a través de la definición e implementación de medidas y acciones específicas, tiene por finalidad recuperar los niveles establecidos en las normas primarias y/o secundarias de calidad ambiental de una zona calificada como saturada por uno o más contaminantes.
 
 #### Artículo 3°
 
@@ -738,11 +746,23 @@ El decreto supremo señalado en el inciso anterior dejará sin efecto las respec
 
 Esta declaración tendrá como fundamento las mediciones, realizadas o certificadas por los organismos públicos competentes, en las que conste haberse verificado la condición que la hace procedente. El procedimiento estará a cargo de la Secretaría Regional Ministerial de Medio Ambiente. Si la zona objeto de la declaración estuviere situada en distintas regiones, el procedimiento estará a cargo del Ministerio del Medio Ambiente.
 
+#### Artículo 43 bis
+
+Una vez declarada una zona como latente o saturada, mediante resolución suscrita por el Ministro del Medio Ambiente, se podrán adoptar, fundadamente, medidas provisionales de acuerdo a lo señalado en el artículo 32 de la ley N° 19.880, en conformidad con los antecedentes considerados en el proceso de elaboración de la norma que declara la zona como latente o saturada, así como con la norma de calidad respectiva y con la naturaleza y gravedad de afectación de los componentes ambientales y la salud de la población, durante el plazo considerado para la elaboración de anteproyecto de plan respectivo. Dichas medidas podrán mantenerse hasta la dictación del respectivo plan de prevención o descontaminación. Las medidas provisionales establecidas se extinguirán una vez publicado en el Diario Oficial el decreto que establezca el plan de prevención o descontaminación, por el solo ministerio de la ley.
+
+Las medidas provisionales podrán ser alzadas o modificadas durante el procedimiento de elaboración del plan de prevención y/o de descontaminación, de oficio o a solicitud de parte, en virtud de circunstancias sobrevinientes o que no pudieron ser tenidas en cuenta en el momento de su adopción.
+
 #### Artículo 44
 
 Mediante decreto supremo del Ministerio del Medio Ambiente, que llevará además la firma del ministro sectorial que corresponda, se establecerán planes de prevención o de descontaminación, cuyo cumplimiento será obligatorio en las zonas calificadas como latentes o saturadas, respectivamente.
 
 La elaboración de estos planes y su proposición a la autoridad competente para su establecimiento corresponderá al Ministerio del Medio Ambiente, previo informe de la Secretaría Regional Ministerial respectiva. Para estos efectos se seguirá el mismo procedimiento y etapas establecidos en el inciso tercero del artículo 32 de la presente ley el que no podrá exceder el plazo de cuatro años contado desde la publicación del decreto supremo que declaró la zona como latente o saturada.
+
+Todo plan de prevención o de descontaminación será revisado por el Ministerio del Medio Ambiente, al menos, cada cinco años, y se aplicará el mismo procedimiento señalado en el inciso anterior.
+
+El incumplimiento de los plazos dispuestos en este artículo, así como de los señalados en el artículo 32, por parte de la jefatura o jefe superior del órgano o servicio de la Administración del Estado respectivo, será sancionado con la medida disciplinaria de multa equivalente a media remuneración mensual, previa instrucción de una investigación sumaria o sumario administrativo, llevado por la Contraloría General de la República, de acuerdo a las normas de su ley orgánica y del Estatuto Administrativo.
+
+Si la autoridad o jefatura superior del órgano o servicio de la Administración del Estado sancionado persiste en su actitud, se le aplicará el doble de la sanción indicada y la suspensión en el cargo por un término de cinco días.
 
 #### Artículo 45
 
