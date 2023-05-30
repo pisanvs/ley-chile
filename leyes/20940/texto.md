@@ -1326,9 +1326,11 @@ b) Un consejero designado por el Ministro de Hacienda.
 
 c) Un consejero designado por el Ministro de Economía, Fomento y Turismo.
 
-d) Tres consejeros designados por las organizaciones de empleadores de mayor representatividad del país, incluyendo al menos un representante de las organizaciones de empresas de menor tamaño.
+d) Un consejero designado por el Consejo Nacional Consultivo de la Empresa de Menor Tamaño, contemplado en la ley N° 20.416 entre los representantes de las distintas entidades gremiales que lo integran.
 
-e) Tres consejeros designados por las centrales sindicales de mayor representatividad del país.
+e) Dos consejeros designados por las organizaciones de empleadores de mayor representatividad del país.
+
+f) Tres consejeros designados por las centrales sindicales de mayor representatividad del país.
 
 Los miembros del Consejo durarán cuatro años en sus cargos, pudiendo ser designados por un período adicional. La renovación de los consejeros se realizará por parcialidades cada dos años en la forma que determine el reglamento.
 
