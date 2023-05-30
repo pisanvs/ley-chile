@@ -1686,8 +1686,6 @@ Cuadro 9 Espacio VIALIDAD ESTRUCTURANTE COMUNAL
 
 > **Nota.** NOTA 1 El numero 1 del Decreto 624, Municipalidad de la Serena, publicado el 04.06.2021, rectifica el Cuadro 9 contenido en el presente artículo en su fila 2, en los tramos definidos para la calle Av. El Jardín, en el sentido de reemplazar el contenido de las columnas denominadas "Ancho existente entre L.O. (m)" y "Observaciones", por las que en la citada norma se expresan.
 
-> **Nota.** NOTA 2 El N° 1 del decreto 1302, M. de la Serena, publicado el 10.12.2024, rectifica el Cuadro 9 fila 20, en el sentido de reemplazar el contenido de las columnas denominadas "Ancho existente entre L.O. (m)" y "Observaciones", por las que en la citada norma se expresan.
-
 3. Publíquese en el Diario Oficial el texto íntegro del presente Decreto Alcaldicio.
 
 4. Archívense en los términos señalados en la Ordenanza General de Urbanismo y Construcciones, los antecedentes del Plan Regulador Comunal de La Serena en el Conservador de Bienes Raíces de La Serena, la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, la Secretaría Regional Ministerial del Vivienda y Urbanismo Región de Coquimbo y en la Ilustre Municipalidad de La Serena.
