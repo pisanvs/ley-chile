@@ -240,33 +240,37 @@ De las funciones
 
 Créanse los siguientes Servicios de Salud, en adelante los Servicios, que coordinadamente tendrán a su cargo la articulación, gestión y desarrollo de la Red Asistencial correspondiente, para la ejecución de las acciones integradas de fomento, protección y recuperación de la salud y rehabilitación de las personas enfermas:
 
-Dos en la Región de Tarapacá:
+1. Uno en la Región de Arica y Parinacota: Arica y Parinacota.
 
-Arica e Iquique.
+2. Uno en la Región de Tarapacá: Tarapacá.
 
-Uno en la Región de Antofagasta:
+3. Uno en la Región de Antofagasta: Antofagasta.
 
-Antofagasta.
+4. Uno en la Región de Atacama: Atacama.
 
-Uno en la Región de Atacama:
+5. Uno en la Región de Coquimbo: Coquimbo.
 
-Atacama.
+6. Tres en la Región de Valparaíso: Valparaíso-San Antonio, Viña del Mar-Quillota y Aconcagua.
 
-Uno en la Región de Coquimbo:
+7. Uno en la Región del Libertador General Bernardo O'Higgins: O'Higgins.
 
-Coquimbo.
+8. Uno en la Región del Maule: Maule.
 
-Tres en la Región de Valparaíso: Valparaíso - San Antonio, Viña del Mar - Quillota y Aconcagua. Uno en la Región del Libertador General Bernardo O'Higgins: Libertador General Bernardo O'Higgins.
+9. Uno en la Región del Ñuble: Ñuble.
 
-Uno en la Región del Maule: Maule.
+10. Cuatro en la Región del Biobío: Concepción, Arauco, Talcahuano y Biobío.
 
-Cinco en la Región del Bío - Bío: Concepción, Arauco, Talcahuano, Ñuble y Bío -Bío. Dos en la Región de la Araucanía: Araucanía Sur y Araucanía Norte. Uno en la Región de Los Ríos: Valdivia. Tres en la Región de Los Lagos: Osorno, del Reloncaví y Chiloé.
+11. Dos en la Región de La Araucanía: Araucanía Sur y Araucanía Norte.
 
-Uno en la Región de Aysén del General Carlos Ibáñez del Campo: Aysén del General Carlos Ibáñez del Campo.
+12. Uno en la Región de Los Ríos: Los Ríos.
 
-Uno en la Región de Magallanes y de la Antártica Chilena: Magallanes.
+13. Tres en la Región de Los Lagos: Osorno, Reloncaví y Chiloé.
 
-Seis en la Región Metropolitana de Santiago: Central, Sur, Sur - Oriente, Oriente, Norte y Occidente.
+14. Uno en la Región de Aysén del General Carlos Ibáñez del Campo: Aysén.
+
+15. Uno en la Región de Magallanes y de la Antártica Chilena: Magallanes.
+
+16. Seis en la Región Metropolitana de Santiago: Metropolitano Central, Metropolitano Sur, Metropolitano Sur-Oriente, Metropolitano Oriente, Metropolitano Norte y Metropolitano Occidente.
 
 Los Servicios serán organismos estatales, funcionalmente descentralizados, dotados de personalidad jurídica y patrimonio propio para la realización de las referidas acciones.
 
