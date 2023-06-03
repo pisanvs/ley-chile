@@ -100,29 +100,29 @@ de sus activos.
 
 i) Títulos Representativos de Índices
 
-Accionarios o Índices de Renta Fija:
+Financieros: a los instrumentos
 
-a los instrumentos negociables
+financieros listados en mercados
 
-representativos de participación
+de valores, respaldados por una
 
-en la propiedad de una cartera de
+canasta de activos tales como
 
-acciones de empresas o de bonos,
+acciones, renta fija, de los
 
-respectivamente, cuyo objetivo es
+que deriva su valor, y que
 
-obtener retornos similares a los
+generalmente siguen el
 
-de determinados índices accionarios
+desempeño de un índice
 
-o índices de renta fija, según sea
-
-el caso, antes de gastos.
+financiero.
 
 j) Gestor de activos alternativos: a
 
-la entidad administradora
+la entidad
+
+administradora
 
 involucrada en las inversiones en
 
@@ -320,11 +320,11 @@ Superintendencia de Pensiones
 
 Los otros instrumentos de oferta pública, cuyos emisores sean fiscalizados por la Comisión para el Mercado Financiero o la, que autorice la Superintendencia de Pensiones, previo informe favorable del Banco Central de Chile, cuyos riesgos sean asimilables a los de cuotas de fondos mutuos o de inversión extranjeros, se aprobarán, previa solicitud de la Superintendencia de Pensiones, en consideración a que éstos cumplan los requisitos establecidos para dichos instrumentos en el Capítulo 2 anterior, salvo en lo que respecta al monto mínimo de activos administrados por cuenta de terceros por el administrador de las inversiones del fondo o el grupo al que pertenece, en cuyo caso no se exigirá un monto predeterminado, quedando sujeto a evaluación caso a caso en conjunto con las restantes variables.
 
-4.- Títulos Representativos de Índices
+4.- Títulos Representativos de Índices Financieros
 
 #### Artículo 24
 
-Los títulos representativos de índices accionarios o índices de renta fija extranjeros serán asimilados a cuotas de fondos de inversión extranjeros, y se aprobarán cuando cumplan los requisitos exigidos a dichos instrumentos en el Capítulo 2 anterior. Sin perjuicio de lo anterior, los índices accionarios e índices de renta fija deberán corresponder a aquellos elaborados por bolsas de valores extranjeras o entidades extranjeras, con vasta experiencia y reconocido prestigio en esta materia, que estén reguladas por una autoridad fiscalizadora formal y que se encuentren radicadas en países con clasificación de riesgo igual o superior a Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior, considerando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 anterior.
+Los títulos representativos de índices financieros serán asimilados a cuotas de fondos de inversión extranjeros, y se aprobarán cuando cumplan los requisitos exigidos para dichos instrumentos en el Capítulo 2 anterior. Sin perjuicio de lo anterior, cuando el objetivo de los títulos sea obtener retornos similares a los de determinados índices, los índices accionarios e índices de renta fija, según sea el caso, deberán corresponder a aquellos elaborados por bolsas de valores extranjeras o entidades extranjeras, con vasta experiencia y reconocido prestigio en esta materia, que estén reguladas por una autoridad fiscalizadora formal y que se encuentren radicadas en países con clasificación de riesgo igual o superior a Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior, considerando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 de este Acuerdo.
 
 Sin perjuicio de lo anterior, y sólo en casos excepcionales, la Comisión podrá aprobar la clasificación de riesgo del país donde esté radicada la bolsa de valores o la entidad que elabora el índice, cuando ésta sea inferior a Categoría AA, y sea igual o superior a Categoría BBB, considerando al efecto su clasificación de riesgo país, ponderada en conjunto con otros factores relevantes a considerar, en particular la fortaleza y estabilidad de su marco institucional.
 
