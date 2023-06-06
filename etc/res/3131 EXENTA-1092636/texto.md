@@ -136,13 +136,7 @@ No obstante lo anterior, la Entidad de Gestión Rural podrá solicitar a los pos
 
 Adicionalmente, el SERVIU tendrá la facultad de establecer que se trata de un mismo proyecto, cuando se presenten dos o más proyectos, que compartan uno o más de los siguientes aspectos: deslindes, permiso de loteo, certificado de factibilidad de servicios sanitarios o eléctricos, proyectos de urbanización o arquitectónico o cualquier otro aspecto que permita al SERVIU establecer que conforman, para efectos de este Programa, un solo proyecto habitacional.
 
-16.- Los Serviu podrán evaluar y aprobar proyectos desarrollados como Vivienda Tipo para el Programa de Habitabilidad Rural, para ser aplicados en proyectos de Construcción en Sitio del Residente (CSR) y Ampliación de Viviendas Existentes, si procede, a través de la modalidad de postulación individual y colectiva, así como para proyectos colectivos de la tipología Construcción de Conjunto Habitacional.
-
-La Vivienda Tipo para el Programa de Habitabilidad Rural, podrá ser aplicable para el proyecto específico del cual forma parte, así como para otros proyectos habitacionales seleccionados en la misma u otras regiones, conforme a lo señalado en la resolución Nº 32 (V. y U.), de fecha 14 de enero de 2021, y sólo podrá iniciar su construcción una vez otorgado el Permiso de Edificación correspondiente. Podrán considerarse Vivienda Tipo, aquellos proyectos que hayan sido aprobados por Serviu en instancias de postulación anterior, y que no hayan sido categorizados previamente.
-
-Para aplicar la figura de Vivienda Tipo, la Entidad de Gestión Rural (EGR) deberá desarrollar los mismos servicios señalados en el numeral 3 del artículo 2, de la presente resolución. El monto a pagar por tales servicios corresponderá al señalado en el artículo 3 de la presente resolución, según corresponda a cada Tipología de Proyecto.
-
-Respecto a la modalidad de pago, se aplicarán las mismas directrices señaladas en el numeral 6.1.2 del artículo 3 de esta resolución Nº 3.131 (V. y U.) de 2016, salvo lo relativo al primer pago, en que además de requerirse la aprobación del proyecto técnico por SERVIU, deberá estar otorgado el permiso de edificación correspondiente.
+16.- Eliminado.
 
 17.- Para la Fiscalización Técnica de Obras (FTO), se deberá considerar lo siguiente:
 
@@ -244,9 +238,9 @@ Postulación Individual y Colectiva
 
 1.6. Construcción y Mejoramiento del Equipamiento y Entorno Comunitario
 
-El valor de la Asistencia Técnica a pagar en proyectos de construcción y mejoramiento del equipamiento y entorno comunitario, parte de un monto base de 60 UF y se incrementará en 1,5 UF por cada familia asociada al proyecto.
+El valor de la Asistencia Técnica a pagar en proyectos de construcción y mejoramiento del equipamiento y entorno comunitario, parte de un monto base de 60 UF, a lo cual se le adicionará un 15% del valor total del subsidio asociada al proyecto.".
 
-El monto a pagar por los servicios de asistencia técnica, se desglosa como sigue:
+El monto total a pagar por concepto de asistencia técnica, se desglosa de la siguiente forma:
 
 .
 
@@ -284,7 +278,7 @@ Aplicable a las tipologías de Construcción de Conjuntos Habitacionales y en Si
 
 Para los efectos de lo dispuesto en el inciso anterior, la Entidad de Gestión Rural deberá presentar para la evaluación y aprobación del SERVIU respectivo, en conjunto con el resto de los antecedentes del proyecto, presupuesto separado, fundamentado y detallado de las obras de mejoramiento que se realizarán, a través de informe firmado por profesional competente.
 
-Incremento en Asistencia Técnica y Fiscalización Técnica de Obras (FTO)
+Incremento en Asistencia Técnica
 
 .
 
@@ -294,7 +288,7 @@ Aplicable para la modalidad de Construcción de Vivienda Nueva. Podrá destinars
 
 Para efectos de lo dispuesto en los incisos anteriores, la Entidad de Gestión Rural deberá presentar para la evaluación y aprobación del SERVIU respectivo, en conjunto con el resto de los antecedentes del proyecto, presupuesto separado, fundamentado y detallado de las obras que se realizarán, a través de informe firmado por el profesional competente.
 
-Incremento en Asistencia Técnica y Fiscalización Técnica de Obras (FTO)
+Incremento en Asistencia Técnica
 
 .
 
@@ -304,7 +298,9 @@ Aplicable a proyectos de construcción sustentable, para vivienda nueva y existe
 
 Para efectos de lo dispuesto en los incisos anteriores, la Entidad de Gestión Rural deberá presentar para la evaluación y aprobación del SERVIU respectivo, en conjunto con el resto de los antecedentes del proyecto, presupuesto separado, fundamentado y detallado de las obras que se realizarán, a través de informe firmado por el profesional competente.
 
-Incremento en Asistencia Técnica y Fiscalización Técnica de Obras (FTO)
+Incremento en Asistencia Técnica
+
+.
 
 3.4. Requerimientos Arquitectónicos Locales
 
@@ -320,21 +316,21 @@ Incremento en Asistencia Técnica
 
 Se aplica a vivienda nueva y ampliación de ésta. Este complemento opera en caso que el postulante o uno o más integrantes del grupo familiar estuviere afectado por una discapacidad que afecte su movilidad y dificulte su desplazamiento. Las obras adicionales que financiará el mayor monto de subsidio deberán estar consideradas en el proyecto de habitabilidad, debiendo la vivienda contemplar la implementación de obras que contribuyan a paliar tales limitaciones y cumplir además con los requerimientos establecidos en el Cuadro Normativo de Estándar Técnico de Habitabilidad Rural.
 
-En aquellos proyectos en los que aplique el subsidio para la discapacidad, sólo para los casos en que el beneficiario califique bajo esta condición, el monto adicional de Asistencia Técnica para el servicio de Elaboración y Presentación de Proyectos Técnicos y Contratación de Obras ascenderá a 3 UF por familia.
+En aquellos proyectos en los que aplique el subsidio para la discapacidad, sólo para los casos en que el beneficiario califique bajo esta condición, el monto adicional de Asistencia Técnica para el servicio de Elaboración y Presentación de Proyectos Técnicos y Contratación de Obras ascenderá a 4 UF por familia.
 
 3.6. Subsidio para Regularización de Construcciones Existentes
 
 Aplicable para la modalidad de mejoramiento y ampliación de la Vivienda, en que sea necesario regularizar las construcciones existentes.
 
-Si parte de la vivienda a intervenir no cuenta con recepción definitiva de la DOM, la Entidad de Gestión Rural podrá regularizar esta situación por una sola vez y en el contexto de los proyectos de mejoramiento y/o ampliación presentados al presente Programa. Para el caso de proyectos de la tipología de Ampliación, se debe obtener, en primer lugar, el permiso de edificación correspondiente. En el caso de los proyectos de mejoramiento, la regularización podrá gestionarse durante la ejecución de las obras. Para realizar los trámites de regularización, en ambos casos, se podrá acceder al pago de hasta 7 UF de Asistencia Técnica, por familia.
+Si parte de la vivienda a intervenir no cuenta con recepción definitiva de la DOM, la Entidad de Gestión Rural podrá regularizar esta situación por una sola vez y en el contexto de los proyectos de mejoramiento y/o ampliación presentados al presente Programa. Para el caso de proyectos de la tipología de Ampliación, se debe obtener, en primer lugar, el permiso de edificación correspondiente. En el caso de los proyectos de mejoramiento, la regularización podrá gestionarse durante la ejecución de las obras. Para realizar los trámites de regularización, en ambos casos, se podrá acceder al pago de hasta 8 UF de Asistencia Técnica, por familia.
 
 Para el caso de postulaciones a proyectos de la tipología Acondicionamiento Térmico de la Vivienda o Equipamiento, las viviendas a intervenir deberán estar completamente regularizadas.
 
 3.7. Asistencia Técnica a la Exploración Geotécnica para la Clasificación Sísmica de Suelos en proyectos de CCH
 
-En aquellos proyectos de habitabilidad pertenecientes a la tipología CCH, en que se dé cumplimiento a lo dispuesto en el artículo 5° del DS N° 61 (V. y U.), de 2011, que aprueba el Reglamento que fija el Diseño Sísmico de Edificios, los valores de la Asistencia Técnica fijados de conformidad a lo previsto precedentemente, se incrementarán, por una sola vez, sin importar la cantidad de beneficiarios que integran el proyecto, hasta en 140 UF, para realizar una Medición de Ondas Superficiales sobre el terreno donde se emplazará el proyecto, o bien otro estudio de similar complejidad o valor, cuando el profesional competente hubiere recomendado utilizar dicha metodología para la clasificación sísmica del suelo, conforme a lo dispuesto en el Cuadro Normativo de Estándar Técnico de Habitabilidad Rural.
+En aquellos proyectos de habitabilidad pertenecientes a la tipología CCH, en que se dé cumplimiento a lo dispuesto en el artículo 5° del DS N° 61 (V. y U.), de 2011, que aprueba el Reglamento que fija el Diseño Sísmico de Edificios, los valores de la Asistencia Técnica fijados de conformidad a lo previsto precedentemente, se incrementarán, por una sola vez, sin importar la cantidad de beneficiarios que integran el proyecto, hasta en 170 UF, para realizar una Medición de Ondas Superficiales sobre el terreno donde se emplazará el proyecto, o bien otro estudio de similar complejidad o valor, cuando el profesional competente hubiere recomendado utilizar dicha metodología para la clasificación sísmica del suelo, conforme a lo dispuesto en el Cuadro Normativo de Estándar Técnico de Habitabilidad Rural.
 
-Excepcionalmente, en razón de lo dispuesto en el artículo 5° del DS N° 61, ya citado, a solicitud fundada de SERVIU, y con la autorización de la SEREMI correspondiente, la DITEC podrá aprobar para algunos proyectos de la tipología CCH, la ejecución de Ensayos de Penetración Estándar (SPT), por un monto máximo de 400 UF.
+Excepcionalmente, en razón de lo dispuesto en el artículo 5° del DS N° 61, ya citado, a solicitud fundada de SERVIU, y con la autorización de la SEREMI correspondiente, la DITEC podrá aprobar para algunos proyectos de la tipología CCH, la ejecución de Ensayos de Penetración Estándar (SPT), por un monto máximo de 450 UF.
 
 El pago correspondiente a la exploración geotécnica asociada a la clasificación sísmica de suelos, se efectuará una vez ejecutado el trabajo, debiendo encontrarse vigentes los respectivos subsidios de habitabilidad. En los casos en que el SERVIU actúe como EGR, el pago de este servicio se puede cursar de forma previa a la asignación de los subsidios.
 
@@ -356,9 +352,9 @@ Existen depósitos de suelos que por sus propiedades geotécnicas singulares no 
 
 - Suelos finos saturados de sensitividad mayor a 10.
 
-Tratándose de proyectos colectivos CCH que presenten alguna de las clases de suelo señalados, los valores de la Asistencia Técnica se incrementarán hasta por un monto de 50 UF por proyecto, con el fin de financiar parte o la totalidad de los estudios señalados.
+Tratándose de proyectos colectivos CCH que presenten alguna de las clases de suelo señalados, los valores de la Asistencia Técnica se incrementarán hasta por un monto de 60 UF por proyecto, con el fin de financiar parte o la totalidad de los estudios señalados.
 
-En el caso de suelos salinos, adicionalmente, se destinarán hasta 225 UF por proyecto para evaluar los perfiles de salinidad del terreno, con el fin de complementar la clasificación geotécnica del suelo, evaluando el porcentaje de sales del mismo.
+En el caso de suelos salinos, adicionalmente, se destinarán hasta 260 UF por proyecto para evaluar los perfiles de salinidad del terreno, con el fin de complementar la clasificación geotécnica del suelo, evaluando el porcentaje de sales del mismo.
 
 El pago correspondiente a estos estudios, se efectuará una vez ejecutado el trabajo, debiendo encontrarse vigentes los respectivos subsidios de habitabilidad. En los casos en que el SERVIU actúe como EGR, el pago de este servicio se puede cursar de forma previa a la asignación de los subsidios.
 
@@ -366,7 +362,7 @@ El pago se efectuará a la EGR o a la empresa constructora o contratista, depend
 
 3.9. Diagnóstico Técnico y Social del Territorio en Proyectos del Título I. de Asociación Territorial
 
-Para proyectos del Título I de este Programa, el Servicio Organización de la Demanda, Acreditación del Terreno y/o Propiedad, y Presentación del Expediente de Postulación, tendrá un incremento único de 70 UF por proyecto, destinado a financiar el pago del Diagnóstico Técnico y Social del Territorio.
+Para proyectos del Título I de este Programa, el Servicio Organización de la Demanda, Acreditación del Terreno y/o Propiedad, y Presentación del Expediente de Postulación, tendrá un incremento único de 85 UF por proyecto, destinado a financiar el pago del Diagnóstico Técnico y Social del Territorio.
 
 4. Asignaciones Directas y Factores de Incremento
 
@@ -494,7 +490,7 @@ Postulación Individual y Colectiva
 
 1.6. Construcción y Mejoramiento del Equipamiento y Entorno Comunitario
 
-El valor de la Asistencia Técnica a pagar en proyectos de construcción y mejoramiento del equipamiento y entorno comunitario, parte de un monto base de 60 UF y se incrementará en 2 UF por familia asociada al proyecto. El monto total a pagar por concepto de asistencia técnica, se desglosa de la siguiente forma:
+El valor de la Asistencia Técnica a pagar en Proyectos de Construcción y Mejoramiento del Equipamiento y Entorno Comunitario, parte de un monto base de 60 UF, a lo cual se le adicionará un 15% del valor total del subsidio asociada al proyecto. El monto total a pagar por concepto de asistencia técnica, se desglosa de la siguiente forma:
 
 .
 

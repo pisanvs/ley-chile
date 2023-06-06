@@ -62,25 +62,25 @@ El Serviu pagará el monto de subsidio que corresponda por las actividades efect
 
 1.- Pago Asistencia Técnica Modalidad Construcción en Sitio Propio y Densificación Predial
 
-a) Se destinarán hasta 20 UF por familia beneficiada para el pago de la prestación de los servicios de asistencia técnica desarrolladas por la respectiva EP y de aranceles correspondientes a:
+a) Se destinarán hasta 24 UF por familia beneficiada para el pago de la prestación de los servicios de asistencia técnica desarrolladas por la respectiva EP y de aranceles correspondientes a:
 
 i. Elaboración y Presentación del Proyecto Técnico
 
-ii. Contratación de las Obras.
+ii. Contratación de las Obras
 
-De las 20 UF señaladas, podrán destinarse hasta 10 UF para el pago o reembolso de aranceles, tales como permiso de edificación, recepción municipal, certificados e inscripciones, debiendo la familia, la EP o la empresa constructora, según corresponda, entregar la documentación respectiva que respalde el valor de los aranceles a financiar. En caso de que sea la EP o la empresa constructora la entidad que cobre estos recursos, la familia deberá entregar un mandato para que el Serviu proceda a realizar dicho pago, verificados previamente los antecedentes presentados.
+De las 24 UF señaladas, podrán destinarse hasta 11 UF para el pago o reembolso de aranceles, tales como permiso de edificación, recepción municipal, certificados e inscripciones, debiendo la familia, la EP o la empresa constructora, según corresponda, entregar la documentación respectiva que respalde el valor de los aranceles a financiar. En caso de que sea la EP o la empresa constructora la entidad que cobre estos recursos, la familia deberá entregar un mandato para que el Serviu proceda a realizar dicho pago, verificados previamente los antecedentes presentados.
 
-El pago de las 20 UF señaladas se cursará una vez recepcionadas las obras por la DOM y el Serviu, y efectuadas las inscripciones correspondientes.
+El pago de las 24 UF señaladas, se cursará una vez recepcionadas las obras por la DOM y el Serviu, y efectuadas las inscripciones correspondientes.
 
-b) Por otra parte, se destinarán hasta 6 UF por familia para la realización de las actividades correspondientes a:
+b) Por otra parte, se destinarán hasta 7,5 UF por familia para la realización de las actividades correspondientes a:
 
 iii. Verificación de Hitos de Avance de Obras
 
-Se pagarán 2 UF por cada hito de verificación de avance de obras.
+Se pagarán 2,5 UF por cada hito de verificación de avance de obras.
 
-El pago se podrá realizar parcialmente, de la siguiente forma:
+El pago se podrá realizar de la siguiente forma:
 
-- una vez aprobado por Serviu el Informe que certifique el inicio de obras;
+- una vez aprobado por Serviu el Informe que certifique el Inicio de obras;
 
 - una vez informado y certificado el avance físico del 50%, y/o,
 

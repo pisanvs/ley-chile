@@ -120,9 +120,7 @@ Comprende la entrega de información y asesoría a las personas vinculadas al Pr
 
 b) Desarrollo del Proyecto Técnico: Diagnóstico Técnico Constructivo, Elaboración, Tramitación y Postulación de Proyectos Técnicos y Asesoría a la Contratación de Obras
 
-b.1) Diagnóstico Técnico Constructivo: Consiste en la aplicación de un procedimiento de evaluación técnico-constructivo del bien inmueble que se desea intervenir con un subsidio
-
-de este Programa, mediante una metodología e instrumento proporcionado por el Serviu. El diagnóstico técnico constructivo deberá dar cuenta de las características y estado del terreno en donde se emplazará el proyecto, de las edificaciones levantadas para uso habitacional, de los servicios básicos disponibles y de los bienes inmuebles que forman parte del equipamiento y el entorno comunitario, según corresponda. La aplicación de este diagnóstico podrá ser desarrollada por un profesional competente de la Entidad Patrocinante, por un profesional independiente que haya suscrito un contrato con las familias para desarrollar esta tarea, en la modalidad correspondiente, o por la Empresa Constructora o el Serviu, cuando actúen como Entidad Patrocinante. El diagnóstico deberá ser aprobado y firmado por los postulantes y/o los representantes de la persona jurídica, según corresponda.
+b.1) Diagnóstico Técnico Constructivo: Consiste en la aplicación de un procedimiento de evaluación técnico-constructivo del bien inmueble que se desea intervenir con un subsidio de este Programa, mediante una metodología e instrumento proporcionado por el Serviu. El diagnóstico técnico constructivo deberá dar cuenta de las características y estado del terreno en donde se emplazará el proyecto, de las edificaciones levantadas para uso habitacional, de los servicios básicos disponibles y de los bienes inmuebles que forman parte del equipamiento y el entorno comunitario, según corresponda. La aplicación de este diagnóstico podrá ser desarrollada por un profesional competente de la Entidad Patrocinante, por un profesional independiente que haya suscrito un contrato con las familias para desarrollar esta tarea, en la modalidad correspondiente, o por la Empresa Constructora o el Serviu, cuando actúen como Entidad Patrocinante. El diagnóstico deberá ser aprobado y firmado por los postulantes y/o los representantes de la persona jurídica, según corresponda.
 
 Para el caso del Capítulo I, el diagnóstico deberá considerar un enfoque comunitario, a fin de conocer el estado y ruta peatonal de los equipamientos comunitarios, áreas verdes y áreas de riesgo ubicadas en el entorno del proyecto propuesto, entre otros. Asimismo, en el área de influencia del proyecto, se deberá contemplar el levantamiento de información sobre el tipo y características de la población residente (fuentes INE y Casen), antecedentes que deberán justificar y acreditar la pertinencia e impacto que el proyecto tendrá en la comunidad.
 
@@ -206,13 +204,15 @@ Incrementos de la Asistencia Técnica (UF por Familia) según Características d
 
 .
 
-Adicionalmente, en la intervención de Viviendas Antiguas y/o Patrimoniales, los proyectos que consideren intervenciones en inmuebles históricos y zonas típicas que: requieran la autorización del Consejo de Monumentos Nacionales; consideren intervenciones en inmuebles de conservación histórica y zonas de conservación histórica, según el Plan Regulador correspondiente, requiriendo la autorización de la Seremi Minvu, antes del ingreso del expediente a la DOM; u otro tipo de intervención en un inmueble que según el Plan Regulador requiere de ambas revisiones, tendrán un incremento adicional en el servicio de Gestión Técnica, Social y Legal de Proyectos de 4 UF por beneficiario o unidad resultante.
+Adicionalmente, en la intervención de Viviendas Antiguas y/o Patrimoniales, los proyectos que consideren intervenciones en inmuebles históricos y zonas típicas, que: requieran la autorización del Consejo de Monumentos Nacionales; consideren intervenciones en inmuebles de conservación histórica y zonas de conservación histórica, según el Plan Regulador correspondiente, requiriendo la autorización de la Seremi Minvu, antes del ingreso del expediente a la DOM; u otro tipo de intervención en un inmueble que según el Plan Regulador requiere de ambas revisiones, tendrán un incremento adicional en el servicio de Gestión Técnica, Social y Legal de Proyectos de 5 UF por beneficiario o unidad resultante.
+
+Adicionalmente en los casos que sean utilizados sistemas constructivos no tradicionales o sistemas constructivos industrializados tendrá un incremento adicional en el servicio de Desarrollo del Proyecto Técnico, Diagnóstico Técnico Constructivo; Elaboración, Tramitación y Postulación de Proyectos Técnicos y Asesoría a la Contratación de Obras de 1 UF por beneficiario o unidad resultante.
 
 Valor de la Asistencia Técnica para la Regularización de Viviendas (UF)
 
-El valor a pagar por concepto de Regularización de Vivienda será de 3 UF por beneficiario.
+El valor a pagar por concepto de Regularización de Vivienda será de 4 UF por beneficiario.
 
-Excepcionalmente, en el caso que la vivienda no pueda acogerse a las condiciones especiales para su regularización y/o que la Dirección de Obras Municipales exija el acompañamiento de proyectos de especialidades (Instalaciones Eléctricas, Sanitarias, Gas y/o Estructura), se pagará por cada uno de los proyectos que sean exigidos adicionalmente 1,5 UF por beneficiario.
+Excepcionalmente, en el caso que la vivienda no pueda acogerse a las condiciones especiales para su regularización y/o que la Dirección de Obras Municipales exija el acompañamiento de proyectos de especialidades (Instalaciones Eléctricas, Sanitarias, Gas y/o Estructura), se pagará por cada uno de los proyectos que sean exigidos adicionalmente 2 UF por beneficiario.
 
 3. Régimen de Fiscalización Técnica de Obras (FTO)
 
@@ -266,11 +266,7 @@ c) Obras de Redes de Servicio, Obras de Refuerzo Estructural y Obras de Eficienc
 
 .
 
-En el caso de postulaciones simultáneas correspondientes a Proyectos de Mejoramiento de Bienes Comunes, se pagará en Asistencia Técnica un porcentaje similar al que representa
-
-cada obra o proyecto respecto al total de fondos asignados. El presupuesto total se obtiene de la sumatoria de recursos asignados simultáneamente para cada obra o proyecto que beneficia a las familias. En estos casos, se pagará también por cada servicio que comprende la asistencia técnica, un valor equivalente al porcentaje asignado por este concepto a cada
-
-proyecto.
+En el caso de postulaciones simultáneas correspondientes a Proyectos de Mejoramiento de Bienes Comunes, se pagará en Asistencia Técnica un porcentaje similar al que representa cada obra o proyecto respecto al total de fondos asignados. El presupuesto total se obtiene de la sumatoria de recursos asignados simultáneamente para cada obra o proyecto que beneficia a las familias. En estos casos, se pagará también por cada servicio que comprende la asistencia técnica, un valor equivalente al porcentaje asignado por este concepto a cada proyecto.
 
 2. Proyectos de Ampliación de la Vivienda en Copropiedad
 
@@ -278,9 +274,7 @@ proyecto.
 
 Postulaciones Simultáneas
 
-En el caso de postulación simultánea de Proyectos de Mejoramiento de Bienes Comunes y de Ampliación de la Vivienda en Copropiedad, se pagará el 100% de la asistencia técnica
-
-correspondiente a Proyectos de Ampliación de la Vivienda en Copropiedad y se pagará sólo un 50% de la asistencia técnica correspondiente a Proyectos de Mejoramiento de Bienes Comunes, de acuerdo a las tablas precedentes. En estos casos, se pagará también por cada servicio que comprende la asistencia técnica, un valor equivalente al porcentaje asignado por este concepto a cada proyecto.
+En el caso de postulación simultánea de Proyectos de Mejoramiento de Bienes Comunes y de Ampliación de la Vivienda en Copropiedad, se pagará el 100% de la asistencia técnica correspondiente a Proyectos de Ampliación de la Vivienda en Copropiedad y se pagará sólo un 50% de la asistencia técnica correspondiente a Proyectos de Mejoramiento de Bienes Comunes, de acuerdo a las tablas precedentes. En estos casos, se pagará también por cada servicio que comprende la asistencia técnica, un valor equivalente al porcentaje asignado por este concepto a cada proyecto.
 
 Asistencia Técnica asociada a Ley de Copropiedad
 
@@ -290,9 +284,19 @@ Según se trate de la primera o segunda postulación de la copropiedad, al Servi
 
 Los honorarios indicados en la tabla precedente se pagarán una vez que Serviu verifique la realización y cumplimiento de la totalidad de los servicios y productos que establezca el respectivo llamado a postulación.
 
+Incrementos de la Asistencia Técnica (UF por Familia) según Características del Proyecto o Partidas Especiales
+
+.
+
+Adicionalmente, en la intervención de Condominios Antiguos y/o Patrimoniales, los proyectos que consideren intervenciones en inmuebles históricos y zonas típicas, que: requieran la autorización del Consejo de Monumentos Nacionales; consideren intervenciones en inmuebles de conservación histórica y zonas de conservación histórica, según el Plan Regulador correspondiente, requiriendo la autorización de la Seremi Minvu, antes del ingreso del expediente a la DOM; u otro tipo de intervención en un inmueble que según el Plan Regulador requiere de ambas revisiones, tendrán un incremento adicional en el servicio de Gestión Técnica, Social y Legal de Proyectos de 5 UF por beneficiario o unidad resultante.
+
+Adicionalmente en los casos que sean utilizados sistemas constructivos no tradicionales o sistemas constructivos industrializados tendrá un incremento adicional en el servicio de Desarrollo del Proyecto Técnico, Diagnóstico Técnico Constructivo; Elaboración, Tramitación y Postulación de Proyectos Técnicos y; Asesoría a la Contratación de Obras de 1 UF por beneficiario o unidad resultante.
+
 Valor Asistencia Técnica para Regularización de Viviendas (UF)
 
-El valor a pagar por concepto de Regularización de Vivienda será de 3 UF por beneficiario.
+El valor a pagar por concepto de Regularización de Vivienda será de 4 UF por beneficiario.
+
+Excepcionalmente, en el caso que la vivienda no pueda acogerse a las condiciones especiales para su regularización y/o que la Dirección de Obras Municipales exija el acompañamiento de proyectos de especialidades (Instalaciones Eléctricas, Sanitarias, Gas y/o Estructura), se pagará por cada uno de los proyectos que sean exigidos adicionalmente 2 UF por beneficiario
 
 3. Régimen de Fiscalización Técnica de Obras (FTO)
 
@@ -324,17 +328,17 @@ Valor Base Asistencia Técnica al Capítulo Cuarto (UF)
 
 (*) En el caso de Proyectos de Acondicionamiento Térmico de la Vivienda destinados a Inmuebles ubicados en zonas con Planes de Descontaminación Atmosférica vigente, se incrementará en 2 UF el valor del Servicio de FTO.
 
-Adicionalmente, en la intervención de Viviendas Antiguas y/o Patrimoniales, los proyectos que consideren intervenciones en inmuebles históricos y zonas típicas, que: requieran la autorización del Consejo de Monumentos Nacionales; consideren intervenciones en inmuebles de conservación histórica y zonas de conservación histórica, según el Plan Regulador correspondiente, requiriendo la autorización de la Seremi Minvu, antes del ingreso del expediente a la DOM; u otro tipo de intervención en un inmueble que según el Plan Regulador requiere de ambas revisiones, tendrán un incremento adicional en el servicio de Gestión Técnica, Social y Legal de Proyectos de 4 UF por beneficiario o unidad resultante.
+Adicionalmente, en la intervención de Viviendas Antiguas y/o Patrimoniales, los proyectos que consideren intervenciones en inmuebles históricos y zonas típicas, que: requieran la autorización del Consejo de Monumentos Nacionales; consideren intervenciones en inmuebles de conservación histórica y zonas de conservación histórica, según el Plan Regulador correspondiente, requiriendo la autorización de la Seremi Minvu, antes del ingreso del expediente a la DOM; u otro tipo de intervención en un inmueble que según el Plan Regulador requiere de ambas revisiones, tendrán un incremento adicional en el servicio de Gestión Técnica, Social y Legal de Proyectos de 5 UF por beneficiario o unidad resultante.
 
 Valor de la Asistencia Técnica para la Regularización de Viviendas (UF)
 
-El valor a pagar por concepto de Regularización de Vivienda será de 3 UF por beneficiario.
+El valor a pagar por concepto de Regularización de Vivienda será de 4 UF por beneficiario.
 
-Excepcionalmente, en el caso que la vivienda a regularizar no pueda acogerse a condiciones especiales para su regularización y/o que la Dirección de Obras Municipales, exija el acompañamiento de proyectos de especialidades (Instalaciones Eléctricas, Sanitarias, Gas y/o Estructuras), se pagará adicionalmente, por cada uno de los proyectos que sean exigidos 1,5 UF por beneficiario.
+Excepcionalmente, en el caso que la vivienda a regularizar no pueda acogerse a condiciones especiales para su regularización y/o que la Dirección de Obras Municipales, exija el acompañamiento de proyectos de especialidades (Instalaciones Eléctricas, Sanitarias, Gas y/o Estructuras), se pagará adicionalmente, por cada uno de los proyectos que sean exigidos 2 UF por beneficiario.
 
 Calificación Energética de la Vivienda
 
-El Serviu pagará 2 UF por la calificación energética de cada unidad habitacional intervenida a través de un proyecto perteneciente a este Capítulo, y que contemple obras de mejoramiento térmico o de eficiencia energética. El pago se realizará una vez realizado el servicio y aprobado el informe correspondiente por el Serviu.
+El Serviu pagará 2,5 UF por la calificación energética de cada unidad habitacional intervenida a través de un proyecto perteneciente a este Capítulo, y que contemple obras de mejoramiento térmico o de eficiencia energética. El pago se realizará una vez realizado el servicio y aprobado el informe correspondiente por el Serviu.
 
 No obstante lo anterior, la posibilidad de realizar la calificación energética para los proyectos señalados deberá quedar establecida en los Llamados Regulares o Extraordinarios que realice el MINVU para este Programa, y/o en particular para este Capítulo.
 

@@ -270,7 +270,7 @@ DEL PAGO DEL SUBSIDIO DE ASISTENCIA TÉCNICA
 
 .
 
-En caso que la misma EP del proyecto ejecute el Plan de Acompañamiento Social Etapa Apoyo a la Conformación del Nuevo Barrio, exceptuando los casos en que el Serviu sea la EP, se adicionará al servicio 1 UF por cada familia que compone el proyecto.
+En caso que la misma EP del proyecto ejecute el Plan de Acompañamiento Social Etapa Apoyo a la Conformación del Nuevo Barrio, exceptuando los casos en que el Serviu sea la EP, se adicionará al servicio 1,5 UF por cada familia que compone el proyecto.
 
 En caso que el Serviu ejecute el Plan de Acompañamiento Social Etapa de Apoyo a la Conformación del Nuevo Barrio, podrá ejecutar directamente este servicio o bien contratar para ello a personas naturales o jurídicas inscritas en el Registro de Consultores del Minvu, regulado por el DS N° 135 (V. y U.), de 1978, Título IV, Rubro Prestaciones de Asistencia Técnica.
 
@@ -288,7 +288,7 @@ El pago correspondiente a los Megaproyectos, considerará lo dispuesto en el art
 
 .
 
-El Servicio Elaboración de Proyectos T�cnicos y Contratación de Obras, se pagará de forma similar a lo establecido en el primer párrafo del numeral 1.2 de este artículo.
+El Servicio Elaboración de Proyectos Técnicos y Contratación de Obras, se pagará de forma similar a lo establecido en el primer párrafo del numeral 1.2 de este artículo.
 
 Igualmente, en el servicio Gestión Legal, esta asesoría puede pagarse a la Empresa Constructora, cuando ejecutó el servicio no siendo EP, mediante mandato otorgado por esta última al Serviu.
 
@@ -312,19 +312,23 @@ Incremento para financiamiento Serviu
 
 .
 
+Incremento al valor a pagar a la Entidad Patrocinante
+
+.
+
 En ambos casos, para calcular el monto a pagar, se aplicará el sistema de pago señalado en el numeral 4, inciso segundo de este artículo.
 
-Tratándose de proyectos (CSP y DP) y Pequeños Condominios (PC), en los que aplique el subsidio para habilitación, el monto adicional de asistencia técnica para el servicio Elaboración de Proyectos Técnicos y Contratación de Obras, ascenderá a 1,8 UF por familia.
+Tratándose de proyectos (CSP y DP) y Pequeños Condominios (PC), en los que aplique el subsidio para habilitación, el monto adicional de asistencia técnica para el servicio Elaboración de Proyectos Técnicos y Contratación de Obras, ascenderá a 2,2 UF por familia.
 
 b) Incremento de la Asistencia Técnica para Proyectos que cuenten con Subsidio de Factibilización
 
-Tratándose de proyectos CNT o MP, que resulten beneficiados con subsidio de factibilización, se asignará 1 UF adicional de asistencia técnica por familia. Este monto adicional se sumará al servicio Elaboración de Proyectos Técnicos y Contratación de Obras.
+Tratándose de proyectos CNT o MP, que resulten beneficiados con subsidio de factibilización, se asignará 1,5 UF adicional de asistencia técnica por familia. Este monto adicional se sumará al servicio Elaboración de Proyectos Técnicos y Contratación de Obras.
 
 c) Incremento de Asistencia Técnica para Proyectos que cuenten con Subsidio a la Discapacidad
 
-En aquellos proyectos en los que aplique el subsidio para la discapacidad, de acuerdo a lo señalado en el artículo 35, letra f) del DS Nº 49 (V. y U.), de 2011, y sus modificaciones, sólo para los casos en que el beneficiario califique en esta condición, el monto adicional de asistencia técnica para el servicio de Elaboración de Proyectos Técnicos y Contratación de Obras, ascenderá a 10 UF por familia, cuando el proyecto se relacione directamente con el desarrollo de obras que busquen optimizar los espacios y superficies interiores de la vivienda, para el mejor desplazamiento de las personas que presentan alguna discapacidad física y que se ven afectadas en este sentido. En estos casos se deberá cumplir con lo dispuesto en el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, señalado en el artículo 43 del DS Nº 49 (V. y U.), de 2011, y sus modificaciones.
+En aquellos proyectos en los que aplique el subsidio para la discapacidad, de acuerdo a lo señalado en el artículo 35, letra f) del DS Nº 49 (V. y U.), de 2011, y sus modificaciones, sólo para los casos en que el beneficiario califique en esta condición, el monto adicional de asistencia técnica para el servicio de Elaboración de Proyectos Técnicos y Contratación de Obras, ascenderá a 12 UF por familia, cuando el proyecto se relacione directamente con el desarrollo de obras que busquen optimizar los espacios y superficies interiores de la vivienda, para el mejor desplazamiento de las personas que presentan alguna discapacidad física y que se ven afectadas en este sentido. En estos casos se deberá cumplir con lo dispuesto en el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, señalado en el artículo 43 del DS Nº 49 (V. y U.), de 2011, y sus modificaciones.
 
-Asimismo, para proyectos que obtengan un subsidio adicional por discapacidad, relacionado con el desarrollo de obras menores de mejoramiento funcional al interior de la vivienda, que contribuyan a paliar las limitaciones que afectan a estas personas, el monto adicional de la asistencia técnica para el servicio de Elaboración de Proyectos Técnicos y Contratación de Obras, ascenderá a 5 UF por familia. Este monto, así como el criterio establecido, se mantendrá para los proyectos individuales en que aplique este subsidio.
+Asimismo, para proyectos que obtengan un subsidio adicional por discapacidad, relacionado con el desarrollo de obras menores de mejoramiento funcional al interior de la vivienda, que contribuyan a paliar las limitaciones que afectan a estas personas, el monto adicional de la asistencia técnica para el servicio de Elaboración de Proyectos Técnicos y Contratación de Obras, ascenderá a 7 UF por familia. Este monto, así como el criterio establecido, se mantendrá para los proyectos individuales en que aplique este subsidio.
 
 d) Incremento de Asistencia Técnica para Proyectos a desarrollar en Territorios Especiales y Localidades Aisladas
 
@@ -334,9 +338,13 @@ Incremento para financiamiento Serviu
 
 .
 
+Incremento al valor a pagar a la Entidad Patrocinante
+
+.
+
 Para calcular el monto a pagar, se aplicará, para ambos casos, el sistema de pago señalado en el numeral 4, inciso segundo de este artículo.
 
-Tratándose de proyectos colectivos CSP, DP o PC o proyectos individuales, en los que aplique el subsidio para territorios especiales y localidades aisladas, el incremento de asistencia técnica a pagar a la Entidad Patrocinante, ascenderá a 12 UF por familia, distribuidas de la siguiente manera:
+Tratándose de proyectos colectivos CSP, DP o PC o proyectos individuales, en los que aplique el subsidio para territorios especiales y localidades aisladas, el incremento de asistencia técnica a pagar a la Entidad Patrocinante, ascenderá a 13 UF por familia, distribuidos de la siguiente forma:
 
 .
 
@@ -358,7 +366,7 @@ Respecto al proceso de Calificación Energética de Viviendas (precalificación 
 
 .
 
-Adicionalmente, tratándose de proyectos colectivos de las modalidades CNT/MP, CSP, DP o PC, se pagará a la entidad calificadora, un monto adicional de asistencia técnica, correspondiente a 0,9 UF por vivienda, una vez que las unidades que componen del proyecto obtengan la Etiqueta de Eficiencia Energética.
+Adicionalmente, tratándose de proyectos colectivos de las modalidades CNT/MP, CSP, DP o PC, se pagará a la entidad calificadora, un monto adicional de asistencia técnica, correspondiente a 1 UF por vivienda, una vez que las unidades que componen del proyecto obtengan la Etiqueta de Eficiencia Energética.
 
 Terminadas y recepcionadas las viviendas, la entidad calificadora deberá realizar una capacitación a las familias, acerca de los contenidos y resultados del proceso de Calificación Energética, y los efectos en la calidad de vida al interior de las soluciones habitacionales.
 
@@ -368,17 +376,17 @@ g.2) Incremento de Asistencia Técnica para Proyectos que contemplen Obras de Ef
 
 .
 
-En los proyectos CNT o MP, que contemplen obras de eficiencia energética, hídrica, manejo sanitario y/o diseño o construcción sustentable para sus viviendas, por ejemplo: instalación de sistemas solares térmicos o paneles fotovoltaicos y aplicación de sistemas de eficiencia hídrica o de aislación térmica, entre otros, se pagará o la Entidad Patrocinante un subsidio base de asistencia técnica de 30 UF por proyecto, incluido en el servicio Elaboración de Proyectos Técnicos y Contratación de Obras, sea cual fuere el tamaño del proyecto. Además, el Serviu adicionará el valor calculado para cada tramo de beneficiarios que integran el proyecto, de acuerdo al siguiente procedimiento:
+En los proyectos CNT o MP, que contemplen obras de eficiencia energética, hídrica, manejo sanitario y/o diseño o construcción sustentable para sus viviendas, por ejemplo: instalación de sistemas solares térmicos o paneles fotovoltaicos y aplicación de sistemas de eficiencia hídrica o de aislación térmica, entre otros, se pagará o la Entidad Patrocinante un subsidio base de asistencia técnica de 35 UF por proyecto, incluido en el servicio Elaboración de Proyectos Técnicos y Contratación de Obras, sea cual fuere el tamaño del proyecto. Además, el Serviu adicionará el valor calculado para cada tramo de beneficiarios que integran el proyecto, de acuerdo al siguiente procedimiento:
 
 Según el tamaño del proyecto, el primer tramo se calcula multiplicando el número de viviendas que incluye el tramo (de 1 a 30) por el factor 0,5. A este monto se adiciona, cuando corresponda, la aplicación de la fórmula para el segundo tramo, que resulta de multiplicar el número de viviendas de este tramo (de 1 a 40) por el factor 0,3. Si el proyecto está entre 70 y 120 viviendas, se aplica la fórmula dispuesta para el tercer tramo, que resulta de multiplicar el número de viviendas del tramo (de 1 a 50) por el factor 0,2. Finalmente, si el proyecto supera las 120 viviendas, se continúa aplicando el mismo procedimiento, debiendo sumarse los totales de cada tramo hasta establecer el valor total por la asesoría.
 
-En caso de proyectos de las modalidades CSP, DP y PC, el incremento de Asistencia Técnica para estos proyectos será de 15 UF por vivienda.
+En caso de proyectos de las modalidades CSP, DP y PC, el incremento de Asistencia Técnica para estos proyectos será de 17 UF por vivienda.
 
 En el caso de proyectos colectivos, que incluyan partidas o elementos correspondientes a más de una de las tipologías señaladas, sean de eficiencia energética, hídrica, manejo sanitario y diseño o construcción sustentable, sólo se pagará por una vez el incremento base indicado con anterioridad, independiente del número de tipologías del proyecto. Sin embargo, para calcular los incrementos por tramo, éste se aplicará conforme a la fórmula descrita, para cada una de las tipologías que el proyecto incorpora.
 
-Tratándose de proyectos de Eficiencia Hídrica y de Manejo Sanitario, al subsidio base se adicionarán 5 UF en los proyectos colectivos y 3 UF en los individuales (CSP, DP y PC).
+Tratándose de proyectos de Eficiencia Hídrica y de Manejo Sanitario, al subsidio base se adicionarán 6 UF en los proyectos colectivos y 4 UF en los individuales (CSP, DP y PC).
 
-En caso de proyectos CNT/MP, que contemplen partidas de eficiencia energética, hídrica, manejo sanitario y diseño o construcción sustentable, para obras de equipamientos y/o espacios públicos, siguiendo las directrices que establece el Manual de Elementos Urbanos Sustentables, del Minvu, y/o las instrucciones que al respecto éste indique, se otorgará por una sola vez un incremento en asistencia técnica al proyecto de 20 UF, el que se pagará una vez terminada y recepcionada la obra.
+En caso de proyectos CNT/MP, que contemplen partidas de eficiencia energética, hídrica, manejo sanitario y diseño o construcción sustentable, para obras de equipamientos y/o espacios públicos, siguiendo las directrices que establece el Manual de Elementos Urbanos Sustentables, del Minvu, y/o las instrucciones que al respecto éste indique, se otorgará por una sola vez un incremento en asistencia técnica al proyecto de 25 UF, el que se pagará una vez terminada y recepcionada la obra.
 
 El pago de la asistencia técnica relacionada con estos proyectos, aplicará conforme a lo dispuesto en el artículo 3°, numeral 5.2.8.
 
@@ -392,7 +400,7 @@ En aquellos proyectos habitacionales pertenecientes a la tipología Nuevos Terre
 
 El pago correspondiente a la exploración geotécnica asociada a la clasificación sísmica de suelos, se efectuará una vez ejecutado el trabajo, debiendo encontrarse vigentes los respectivos subsidios habitacionales. En los casos en que el Serviu actúe como EP, el pago de este servicio se puede cursar de forma previa a la asignación de los subsidios.
 
-El pago se efectuará a la EP o a la Empresa Constructora, dependiendo de quién haya contratado el servicio, sólo contra la presentación y aprobación por el Serviu del informe del o los estudios y demás antecedentes técnicos y administrativos que den cuenta de su completa realización, conforme al valor señalado en la documentación presentada, no debiendo superar dicho pago el monto máximo indicado en cada caso. Cuando el profesional competente recomiende la realización de ambos estudios, el valor máximo de la asistencia técnica no podrá superar las 480 UF.
+El pago se efectuará a la EP o a la Empresa Constructora, dependiendo de quién haya contratado el servicio, sólo contra la presentación y aprobación por el Serviu del informe del o los estudios y demás antecedentes técnicos y administrativos que den cuenta de su completa realización, conforme al valor señalado en la documentación presentada, no debiendo superar dicho pago el monto máximo indicado en cada caso. Cuando el profesional competente recomiende la realización de ambos estudios, el valor máximo de la asistencia técnica no podrá superar las 510 UF.
 
 i) De la Exploración Geotécnica Asociada a la Construcción en Suelos Salinos
 
@@ -414,11 +422,11 @@ Tratándose de proyectos CNT/MP, CSP, DP o PC, cuando el Área Gestión Técnica
 
 .
 
-Tratándose de soluciones individuales de CSP, DP o PC, se aplica un incremento de 2 UF por familia."
+Tratándose de soluciones individuales de CSP, DP o PC, se aplica un incremento de 2,5 UF por familia."
 
 k) Incremento de Asistencia Técnica para Proyectos de Mejoramiento del Hábitat Físico y Social de las Familias
 
-"Tratándose de proyectos CNT/MP, cuando el Plan de Acompañamiento Social Etapa Organización de la Demanda, Diseño y Ejecución del Proyecto, o el Plan de Acompañamiento Social Etapa de Apoyo a la Conformación del Nuevo Barrio, incluya la Asesoría para la Generación de Proyectos de Mejoramiento del Hábitat Físico y Social de las Familias, mediante Programas de Financiamiento Público o Privado, que excluyen aporte adicional del Minvu, el valor de la asistencia técnica a pagar a la EP se incrementará en 1 UF por cada familia que compone el proyecto. Cuando este tipo de proyectos se genere en alguna de las modalidades colectivas de CSP, DP y PC, al incremento señalado se adicionará un subsidio base de 30 UF.
+"Tratándose de proyectos CNT/MP, cuando el Plan de Acompañamiento Social Etapa Organización de la Demanda, Diseño y Ejecución del Proyecto, o el Plan de Acompañamiento Social Etapa de Apoyo a la Conformación del Nuevo Barrio, incluya la Asesoría para la Generación de Proyectos de Mejoramiento del Hábitat Físico y Social de las Familias, mediante Programas de Financiamiento Público o Privado, que excluyen aporte adicional del Minvu, el valor de la asistencia técnica a pagar a la EP se incrementará en 1,5 UF por cada familia que compone el proyecto. Cuando este tipo de proyectos se genere en alguna de las modalidades colectivas de CSP, DP y PC, al incremento señalado se adicionará un subsidio base de 35 UF.
 
 Este incremento no se aplica en los casos en que el Serviu sea la EP del Proyecto.
 
@@ -774,7 +782,7 @@ En las bases de contratación se deberá contemplar que el Serviu se encuentra f
 
 g. De los honorarios a pagar por los servicios de asistencia técnica
 
-Por la prestación de los servicios de asistencia técnica, el Serviu pagará un honorario base de 15 UF por operación terminada de adquisición de vivienda construida usada.
+Por la prestación de los servicios de asistencia técnica, el Serviu pagará un honorario base de 24 UF por operación terminada de adquisición de vivienda construida usada.
 
 Se entenderá por operación terminada aquella en que tanto la vivienda cuya adquisición se financia con el subsidio habitacional, como la prohibición de gravar y enajenar, se encuentran inscritas a nombre del beneficiario y del Serviu respectivamente, en el Conservador de Bienes Raíces respectivo y se hubiere pagado el subsidio habitacional al vendedor del inmueble.
 
@@ -782,9 +790,7 @@ Para el pago de los honorarios se deberán acompañar los documentos necesarios 
 
 La periodicidad y procedimiento de pago de los honorarios de asistencia técnica y jurídica se deberán establecer por el Serviu en las respectivas bases administrativas de licitación.
 
-Tratándose de una operación AVC, en la cual se aplique el Subsidio de Localización, el Serviu adicionará 5 UF al pago final de la asistencia técnica concluida. En el caso de aplicar el Subsidio de Factibilización, a la operación se adicionarán 3 UF al pago final, contra proceso terminado. Cuando la operación de adquisición implique subsidio para personas con discapacidad, y la vivienda cumple con el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, a que se refiere el artículo 43 del DS 49 (V. y U.), de 2011, y sus modificaciones, en la sección correspondiente a personas con discapacidad, al pago final de asistencia técnica, se adicionarán 10 UF contra la operación terminada.
-
-Tratándose de operaciones de AVC en Territorios Especiales y Localidades Aisladas, según lo establecido en el DS 49 (V. y U.), de 2011, y sus modificaciones, se adicionarán 10 UF al pago final por asistencia técnica terminada. Finalmente, cuando a través de este subsidio se adquieran viviendas entre 37,5 y 40 mt2, se adicionarán 2 UF al pago final de la asistencia técnica. Si esta superficie varía entre 41 y 45 mt2, el pago adicional llegará a 3 UF. Por último, cuando se adquiera una vivienda que supere los 46 mt2, el pago adicional de la asistencia técnica ascenderá a 4 UF.
+Tratándose de operaciones de AVC en Territorios Especiales y Localidades Aisladas, según lo establecido en el DS N° 49, (V. y U.), de 2011, y sus modificaciones, se adicionarán 15 UF al pago final por asistencia técnica terminada.
 
 h. Boleta Bancaria de Garantía
 
@@ -800,7 +806,11 @@ Las labores a desarrollar en esta prestación, corresponden a las señaladas en 
 
 La adquisición de otra vivienda por parte del vendedor deberá efectuarse dentro de los doce meses siguientes a la fecha de la inscripción en el Conservador de Bienes Raíces respectivo de la enajenación de la vivienda que dio lugar a este bono.
 
-El monto a pagar por esta asesoría asciende a 15 UF.
+El monto a pagar por esta asesoría asciende a 18 UF.
+
+j. Gastos Operacionales
+
+En el caso de operaciones de adquisición de vivienda construida, nueva o usada, se podrán adicionar hasta 7 UF por concepto de Gastos Operacionales. De estos gastos, hasta 5 UF podrán destinarse a pagos de aranceles notariales y otros derivados de cobros comerciales asociados a la operación de compraventa, los que podrán ser reembolsados contra las boletas y/o facturas que acrediten los gastos realizados. Dichos documentos podrán ser presentados directamente por las familias o por las entidades de Asesoría Técnica Legal que prestan el servicio en las operaciones de compraventa.
 
 2. De la Asistencia Técnica para Adquisición de Vivienda Construida Nueva
 
@@ -820,7 +830,7 @@ La Modalidad de Autoconstrucción Asistida, cuya responsabilidad en materia de a
 
 .
 
-Tratándose de proyectos individuales emplazados en Territorios Especiales o Localidades Aisladas, el Serviu adicionará 10 UF más para la ejecución de los servicios de asistencia técnica, consignados con los números 1), 2) y 3), de la tabla anterior. 5 UF se cancelarán contra la obtención de los productos señalados en los numerales 1) y 2) de la tabla precedente, Verificación del Estado Situación del Inmueble y el Terreno y, Elaboración de Proyectos de Arquitectura, Loteo y Urbanización y, las 5 UF restantes, contra la obtención de los productos señalados en el numeral 3) de la tabla precedente, esto es Recepción y Aprobación de los Informes correspondientes y Recepción conforme de Serviu y de la DOM de la vivienda, e inscripción de las prohibiciones y gravámenes en el CBR. Para el servicio de Fiscalización Técnica de Obras, número 4) de la misma tabla, se adicionarán 10 UF más, pagaderas contra la realización de la actividad y la recepción de las obras por el Serviu y la DOM.
+Tratándose de proyectos individuales emplazados en Territorios Especiales o Localidades Aisladas, el Serviu adicionará 12 UF más para la ejecución de los servicios de asistencia técnica, consignados con los números 1), 2) y 3), de la tabla anterior. 6 UF se cancelarán contra la obtención de los productos señalados en los numerales 1) y 2) de la tabla precedente, Verificación del Estado Situación del Inmueble y el Terreno y, Elaboración de Proyectos de Arquitectura, Loteo y Urbanización y, las 6 UF restantes, contra la obtención de los productos señalados en el numeral 3) de la tabla precedente, esto es Recepción y Aprobación de los Informes correspondientes y Recepción conforme de Serviu y de la DOM de la vivienda, e inscripción de las prohibiciones y gravámenes en el CBR.
 
 Para la modalidad de Autoconstrucción Asistida, aplican los contenidos y disposiciones establecidos en el artículo 2°, numerales 13, 14, 15, 16 y 17, incluido el sistema de pago indicado en el artículo 3°, numeral 3, letra g.2) y numeral 5.2.8, todos de la presente resolución, siempre y cuando se cumplan con las actividades y productos allí establecidos.
 
