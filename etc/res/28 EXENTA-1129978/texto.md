@@ -1064,9 +1064,9 @@ a) Dar respuesta a los reclamos presentados por los beneficiarios en las Regione
 
 #### Artículo 146
 
-Deléganse en las Jefaturas de la División Contraloría que se individualizan las facultades especiales que para cada una de ella se indican:
+Deléganse en las Jefaturas de la División Fiscalización y Contraloría que se individualizan las facultades especiales que para cada una de ella se indican:
 
-1º En el Jefe de la División Contraloría las siguientes facultades:
+1º En el Jefe de la División Fiscalización y Contraloría las siguientes facultades:
 
 a) Fiscalizar a prestadores públicos y privados inscritos en la Modalidad Libre Elección, de oficio o previo requerimiento, para verificar el correcto financiamiento de las atenciones de salud, incluidas las atenciones de urgencia con riesgo vital o de secuela funcional grave, según lo dispuesto en el artículo 143 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud.
 
@@ -1074,37 +1074,43 @@ b) Suspender la vigencia de los convenios de la Modalidad Libre Elección, por c
 
 c) Supervisar permanentemente la realización de las fiscalizaciones y aplicación de sanciones que correspondan en la Modalidad de Libre Elección, así como velar por el correcto cumplimiento de los procesos y de las normas establecidas para la substanciación de los procedimientos de fiscalización y aplicación de sanciones a los prestadores de dicha modalidad.
 
-d) Firmar oficios dirigidos a la Superintendencia de Salud informando el cumplimiento de Sentencias Arbitrales.
+d) Firmar oficios dirigidos a la Superintendencia de Salud informando el cumplimiento de Sentencias Arbitrales, en el contexto de Ley de Urgencia.
 
-2º En el Jefe del Departamento Contraloría MLE las siguientes facultades:
+2º En el Jefe del Departamento de Monitoreo las siguientes facultades:
 
-a) Instruir el inicio de la fiscalización mediante acto administrativo respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins; dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere; dictar el acto administrativo mediante el cual se le formulan cargos al prestador; y dictar el acto administrativo fundado que aplica las medidas provisionales.
+a) Levantamiento de CAT, según la materia y montos.
 
-b) Autorizar programas y órdenes de atención cuya vigencia haya caducado en los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente, así como programas y órdenes de atención con enmendaduras y roturas y que no se ajusten a los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente.
+b) Solicitar antecedentes clínicos y/o asociados a prestaciones a los prestadores en contexto MAI, MLE y GRD.
 
-c) Autorizar el pago de cobros por prestaciones de salud presentados ante el Fondo Nacional de Salud por prestadores de salud sin acompañar el original de la orden de atención de salud correspondiente, cuando la ausencia de dicho documento sea causada por extravío, robo, hurto, incendio, situaciones de catástrofe o excepcionales y casos fortuitos calificados previamente por el Jefe de la División.
+3º En el Jefe del Departamento de Regulación las siguientes facultades:
 
-d) Solicitar antecedentes clínicos a prestadores.
+a) Dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere.
 
-e) Levantamiento de CAT, según la materia y montos.
+b) Dictar el acto administrativo mediante el cual se le formulan cargos al prestador.
 
-3º En el Jefe del Departamento Contraloría MAI las siguientes facultades:
+c) Autorizar programas y órdenes de atención cuya vigencia haya caducado en los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente, así como programas y órdenes de atención con enmendaduras y roturas y que no se ajusten a los términos establecidos en las normas técnicas administrativas para la aplicación del arancel que se encontrare vigente.
 
-a) Solicitar antecedentes clínicos a prestadores.
+d) Autorizar el pago de cobros por prestaciones de salud presentados ante el Fondo Nacional de Salud por prestadores de salud sin acompañar el original de la orden de atención de salud correspondiente, cuando la ausencia de dicho documento sea causada por extravío, robo, hurto, incendio, situaciones de catástrofe o excepcionales y casos fortuitos calificados previamente por el Jefe de la División.
 
-4º En el Jefe del Departamento Contraloría de Prestaciones:
+e) Oficios a prestadores por solicitud de devolución de pagos realizados por usuarios.
 
-a) Solicitar antecedentes clínicos a prestadores.
+f) Solicitar antecedentes clínicos y/o de cuentas médicas a prestadores, en el contexto de demandas arbitrales y cumplimiento de sentencia arbitral.
 
-b) Solicitar cortes de cuenta a prestadores públicos y privados.
+4º En el Jefe del Departamento de Fiscalización las siguientes facultades:
 
-c) Oficios a prestadores informando aprobación de pago de bonos de atención de salud por concepto de aplicación de la ley de urgencia.
+a) Instruir el inicio de la fiscalización mediante acto administrativo respecto de las personas naturales o jurídicas inscritas en la Base de Prestadores MLE y que registren domicilio en la Región Metropolitana o en la Región del Libertador General Bernardo O'Higgins.
 
-d) Oficios a prestadores por solicitud de devolución de pagos realizados por usuarios.
+b) Dictar el acto administrativo fundado que aplica las medidas provisionales.
 
-e) Oficios de respuesta a solicitudes ciudadanas escalables de ley de urgencia.
+c) Oficios a prestadores informando aprobación de pago de bonos de atención de salud por concepto de aplicación de la Ley de Urgencia.
+
+d) Solicitar cortes de cuenta a prestadores públicos y privados.
+
+e) Oficios de respuesta a solicitudes ciudadanas escalables de Ley de Urgencia.
 
 f) Oficios de respuesta a solicitudes ciudadanas escalables de revisión de cuentas.
+
+g) Solicitar antecedentes clínicos a prestadores, en contexto MAI, MLE y GRD.
 
 #### Artículo 147
 
