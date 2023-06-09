@@ -26,7 +26,7 @@ Resuelvo:
 
 1.4.- Subsanaciones a las solicitudes de acceso a la información, de acuerdo al artículo 12 de la Ley de Transparencia.
 
-1.5- Derivaciones a otros servicios públicos en virtud del artículo 13 de la Ley de Transparencia.
+1.5.- Derivaciones a otros servicios públicos en virtud del artículo 13 de la Ley de Transparencia, solo cuando corresponda a una derivación total.
 
 2.- En caso de ausencia de la funcionaria doña María Carolina Acuña Porras, la delegación de firma en los mismos términos indicados en el numeral anterior, recaerá en la funcionaria doña Yasna Campos Cornejo, encargada del Área de Gestión de Solicitudes de Acceso a la Información Pública de la Coordinación de Usuarios de la Subsecretaría de Transportes, y en ausencia de los anteriores, en el funcionario don Felipe Castillo Díaz, abogado de la División Legal, de la Subsecretaría de Transportes.
 
