@@ -194,6 +194,8 @@ El interesado en prestar servicio de alquiler en la modalidad de taxi básico de
 
 #### Artículo 6°
 
+La acreditación a la cual hace referencia el artículo 3°, tendrá una vigencia de 5 años, contados desde su otorgamiento.
+
 Ante denuncias fundadas que cierto tipo o modelo, o serie de taxímetros, no cumple con las disposiciones vigentes, el fabricante o proveedor y las personas jurídicas a que se refiere el artículo 3º podrán ser requeridos para que realice nuevamente la correspondiente certificación técnica.
 
 #### Artículo 7°
@@ -209,6 +211,12 @@ DEROGADO
 #### Artículo 9º
 
 Para verificar las condiciones de funcionamiento del taxímetro, podrá utilizarse un equipo generador de pulsos eléctricos equivalente a 1.000 Hz., que emule la señal enviada por el sensor de distancias del vehículo al taxímetro. Este equipo deberá estar dotado con los conectores necesarios para intercalarlo en una instalación típica del taxímetro en un vehículo, con el fin de inyectarle los pulsos al taxímetro y verificar el desempeño de éste.
+
+#### Artículo Transitorio
+
+Aquellos fabricantes o proveedores de taxímetros que, a la fecha de la publicación en el Diario Oficial de la presente resolución, cuenten con una acreditación otorgada hace 5 años o más, dispondrán de un plazo de 6 meses contados desde la misma, para acreditar ante el Centro de Control y Certificación Vehicular el cumplimiento de las características y especificaciones técnicas señaladas en la presente resolución.
+
+Vencido este plazo, todo taxímetro que no haya sido debidamente acreditado será eliminado de la nómina a la cual hace referencia la resolución exenta N° 2.159, de 1999 y sus modificaciones.
 
 Anótese, tómese razón y publíquese.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.
 
