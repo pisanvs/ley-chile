@@ -84,7 +84,17 @@ d) Que los predios de origen de las maderas se haya liberado Eubazus semirugosus
 
 e) Que se demuestre la presencia o el establecimiento de Eubazus semirugosus en el predio de origen de las maderas.
 
-9. Los medios de transporte que se utilicen en el traslado de plantas para plantar, plantas madres, setos, trozas y maderas (incluida la leña) de especies hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán cumplir con las medidas de resguardo establecidas por el SAG, lo cual deberá ser verificado por los dueños, arrendatarios o tenedores de los predios.
+f) Que las maderas se movilicen al área en peligro en el periodo de no vuelo de la plaga, comprendido entre el 15 de mayo y 15 de septiembre u otro que determine el SAG según antecedentes biológicos de la plaga, y que además se cumpla con las siguientes medidas:
+
+f.1) Se presente al SAG un sistema que asegure la trazabilidad de estas maderas hasta su descortezado.
+
+f.2) En el lugar de destino, las maderas con corteza se mantengan separadas del resto de las maderas acopiadas.
+
+f.3) Se debe presentar al SAG un plan de vigilancia fitosanitaria que incluya al menos la instalación de 4 trampas de embudo y 10 parcelas de trozas cebo instaladas dentro de un radio de 2 km del lugar de destino de las maderas.
+
+f.4) En destino, las maderas deberán ser sometidas a tratamiento de descortezado antes del inicio del periodo de vuelo de la plaga. Esta corteza deberá ser destruida mediante incineración.
+
+9. Los medios de transporte que se utilicen en el traslado de plantas para plantar, plantas madres, setos, trozas y maderas (incluida la leña) de especies hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán cumplir con las medidas de resguardo establecidas por el SAG, lo cual deberá ser verificado por los dueños, arrendatarios o tenedores de los predios. Los propietarios, arrendatarios, tenedores o administradores de aserraderos, centros de acopio de maderas, industrias u otro tipo de recintos localizados en el área en peligro, que procesen o acopien maderas con corteza hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán verificar que éstas estén debidamente autorizadas por el SAG y dar cumplimiento a las medidas fitosanitarias establecidas para estas maderas.
 
 10. Las maderas libres de corteza; las astillas sin corteza; las maderas con o sin corteza secadas al horno (KD) o en forma artificial con un contenido de humedad menor o igual al 20%, los postes y polines impregnados a presión, las maderas con tratamientos de la norma NIMF 15 autorizados por el SAG, las maderas sometidas a tratamientos de maceración para debobinado y las maderas elaboradas a la forma de muebles, parquet, puertas, ventanas, casas prefabricadas, mediaguas, paneles u otra elaboración similar se podrán movilizar hacia el área en peligro sin restricción. Sin perjuicio de lo señalado, el Servicio podrá fiscalizar la condición de elaboración de estos productos, y de su condición fitosanitaria, según los requerimientos que establezca.
 
