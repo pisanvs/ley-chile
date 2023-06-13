@@ -48,11 +48,11 @@ Apruébase el reglamento que establece normas relativas a la integración, modal
 
 #### Artículo 1º
 
-El presente reglamento tiene por objeto regular la integración, modalidades de funcionamiento y otras materias necesarias para el funcionamiento de los Comités Regionales de Ciencia, Tecnología e Innovación para el Desarrollo de los gobiernos regionales, de acuerdo a lo dispuesto en el artículo 68 bis de la ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, cuyo texto refundido, coordinado, sistematizado y actualizado está fijado en el decreto con fuerza de ley Nº 1-19.175, de 2005, del Ministerio del Interior, en adelante denominada también como "la ley".
+El presente reglamento tiene por objeto regular la integración, modalidades de funcionamiento y otras materias necesarias para el funcionamiento de los Comités Regionales de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo de los gobiernos regionales, de acuerdo a lo dispuesto en el artículo 68 bis de la ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, cuyo texto refundido, coordinado, sistematizado y actualizado está fijado en el decreto con fuerza de ley Nº 1-19.175, de 2005, del Ministerio del Interior, en adelante denominada también como "la ley".
 
 #### Artículo 2º
 
-Cada gobierno regional tendrá un Comité Regional de Ciencia, Tecnología e Innovación para el Desarrollo, en adelante denominado también como "el Comité", el que estará constituido por integrantes del sector público y privado, quienes participarán ad-honorem.
+Cada gobierno regional tendrá un Comité Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo, en adelante denominado también como "el Comité", el que estará constituido por integrantes del sector público y privado, quienes participarán ad-honorem.
 
 ## Título Segundo — Integración
 
@@ -62,7 +62,7 @@ El Comité estará constituido por los siguientes integrantes con derecho a voz 
 
 1. El Gobernador Regional, quien lo presidirá;
 
-2. El Consejero Regional que se desempeñe como Presidente de la comisión de trabajo que aborde las materias de Ciencia, Tecnología e Innovación para el Desarrollo, según se establece en el artículo 37 de la ley, y que cuente con el acuerdo del Consejo Regional.
+2. El Consejero Regional que se desempeñe como Presidente de la comisión de trabajo que aborde las materias de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo, según se establece en el artículo 37 de la ley, y que cuente con el acuerdo del Consejo Regional.
 
 3. El Secretario Regional Ministerial de Educación;
 
@@ -140,17 +140,17 @@ Los miembros del Comité no percibirán dieta, no obstante, a los integrantes de
 
 Serán funciones del Comité:
 
-a) Elaborar y proponer al gobierno regional una Estrategia Regional de Ciencia, Tecnología e Innovación, en adelante denominada también como "la Estrategia", teniendo en cuenta el componente regional o macrozonal de la Estrategia que elabore el consejo asesor presidencial creado por el decreto supremo Nº 177, de 2014, del Ministerio de Economía, Fomento y Turismo, o la institucionalidad que lo reemplace, así como la Estrategia Regional de Desarrollo y políticas públicas regionales relacionadas;
+a) Elaborar y proponer al gobierno regional una Estrategia Regional de Ciencia, Tecnología, Conocimiento e Innovación, en adelante denominada también como "la Estrategia", teniendo en cuenta el componente regional o macrozonal de la Estrategia que elabore el consejo asesor presidencial creado por el decreto supremo Nº 177, de 2014, del Ministerio de Economía, Fomento y Turismo, o la institucionalidad que lo reemplace, así como la Estrategia Regional de Desarrollo y políticas públicas regionales relacionadas;
 
-b) Asesorar al gobierno regional en la identificación y la formulación de políticas y acciones que fortalezcan la ciencia, tecnología e innovación en la región, en coherencia con la Política Nacional sobre la materia que se encuentre aprobada de acuerdo a la ley Nº 21.105;
+b) Asesorar al gobierno regional en la identificación y la formulación de políticas y acciones que fortalezcan la ciencia, tecnología, conocimiento e innovación en la región, en coherencia con la Política Nacional sobre la materia que se encuentre aprobada de acuerdo a la ley Nº 21.105;
 
-c) Elaborar y proponer al gobierno regional las medidas y orientaciones de mediano y largo plazo, para el desarrollo de la región en el ámbito de la ciencia, tecnología e innovación, pudiendo considerar para tales efectos los resultados de los procesos de evaluación que realice la División de Planificación y Desarrollo Regional;
+c) Elaborar y proponer al gobierno regional las medidas y orientaciones de mediano y largo plazo, para el desarrollo de la región en el ámbito de la ciencia, tecnología, conocimiento e innovación, pudiendo considerar para tales efectos los resultados de los procesos de evaluación que realice la División de Planificación y Desarrollo Regional;
 
 d) Asesorar al gobierno regional en áreas de su competencia, entre otras, la investigación científica, el capital humano y la innovación, así como la transferencia y difusión de tecnologías vinculadas a la innovación regional.
 
-La Estrategia Regional de Ciencia, Tecnología e Innovación deberá ser acordada por los tres cuartos de los integrantes del Comité en ejercicio.
+La Estrategia Regional de Ciencia, Tecnología, Conocimiento e Innovación deberá ser acordada por los tres cuartos de los integrantes del Comité en ejercicio.
 
-La elaboración o actualización de la Estrategia Regional de Ciencia, Tecnología e Innovación contemplará procedimientos de participación y de diálogo con los diferentes actores y agentes del Sistema de Ciencia, Tecnología, Conocimiento e Innovación que se desempeñan en la región.
+La elaboración o actualización de la Estrategia Regional de Ciencia, Tecnología, Conocimiento e Innovación contemplará procedimientos de participación y de diálogo con los diferentes actores y agentes del Sistema de Ciencia, Tecnología, Conocimiento e Innovación que se desempeñan en la región.
 
 ## Título Cuarto — Respecto a la modalidad de funcionamiento del Comité
 
@@ -206,15 +206,17 @@ Disposiciones Transitorias
 
 #### Artículo primero
 
-transitorio: Los gobiernos regionales deberán constituir el Comité Regional de Ciencia, Tecnología e Innovación para el Desarrollo dentro de los ciento ochenta días siguientes a la publicación en el Diario Oficial del presente reglamento.
+transitorio: Los gobiernos regionales deberán constituir el Comité Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo dentro de los ciento ochenta días siguientes a la publicación en el Diario Oficial del presente reglamento.
 
 #### Artículo segundo
 
-transitorio: Mientras no entre en funcionamiento la totalidad de las Secretarías Regionales Ministeriales de Ciencia, Tecnología, Conocimiento e Innovación, el Secretario Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación que tenga a su cargo dos o más regiones, de conformidad a lo dispuesto en el decreto exento Nº 1, de 2019, y en el decreto supremo Nº 7, de 2019, ambos del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, o de las normas que las reemplacen, o el profesional que, para estos efectos, sea designado por el Ministro de dicha cartera de Estado, integrará el Comité de aquellas regiones que estén asignadas a su cargo.
+transitorio: Mientras no entre en funcionamiento la totalidad de las Secretarías Regionales Ministeriales de Ciencia, Tecnología, Conocimiento e Innovación, el Secretario Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación que tenga a su cargo dos o más regiones, de conformidad a lo dispuesto en el decreto exento Nº 1, de 2019, y en el decreto supremo Nº 7, de 2019, ambos del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, o de las normas que las reemplacen, o el funcionario que éste designe, integrará el Comité de aquellas regiones que estén asignadas a su cargo.
+
+En el caso de la Región Metropolitana de Santiago y durante el período a que se refiere el inciso anterior, el Comité Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo se integrará por el profesional que, para estos efectos, sea designado por el Ministro o la Ministra de dicha Cartera de Estado.
 
 #### Artículo tercero
 
-transitorio: En la primera sesión del Comité Regional de Ciencia, Tecnología e Innovación para el Desarrollo, el Gobierno Regional, a través de la División de Planificación y Desarrollo Regional respectiva, informará de la existencia y/o estado y los contenidos de la Estrategia Regional en Ciencia, Tecnología e Innovación para el Desarrollo y de la Política Regional en la materia, si existiese.
+transitorio: En la primera sesión del Comité Regional de Ciencia, Tecnología, Conocimiento e Innovación para el Desarrollo, el Gobierno Regional, a través de la División de Planificación y Desarrollo Regional respectiva, informará de la existencia y/o estado y los contenidos de la Estrategia Regional en Ciencia, Tecnología e Innovación para el Desarrollo y de la Política Regional en la materia, si existiese.
 
 Adicionalmente, en caso de existir una Estrategia Regional de Ciencia, Tecnología e Innovación para el Desarrollo, el Comité deberá pronunciarse sobre la ratificación de la misma, o su revisión, dentro del plazo de ciento veinte días contados desde su constitución. En caso que no exista una Estrategia Regional de Ciencia, Tecnología e Innovación para el Desarrollo, el Comité deberá elaborarla dentro del plazo de un año contado desde su constitución.
 
