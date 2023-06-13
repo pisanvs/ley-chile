@@ -638,7 +638,7 @@ Los consejeros, gerentes, liquidadores, inspectores de cuentas, integrantes de l
 
 Respecto de aquellas cooperativas que superen las 200.000 unidades de fomento de patrimonio, podrá aplicarse el doble de las multas señaladas precedentemente. Con todo, respecto de las cooperativas que superen las 400.000 unidades de fomento de patrimonio, podrá aplicarse el triple de esas multas.
 
-En el caso de las cooperativas de trabajo, campesinas, de pescadores, de abastecimiento, distribución de agua potable y escolares, cuyo capital aportado por los socios no exceda de 20.000 unidades de fomento, no se cursarán multas, sino que en caso necesario el organismo fiscalizador aplicará lo dispuesto a partir del inciso sexto del presente artículo, aun cuando la infracción no sea reiterada.
+En el caso de las cooperativas de trabajo, campesinas, de pescadores, de abastecimiento, distribución de agua potable y escolares, que no califiquen como de importancia económica en los términos del artículo 109, y cuyo capital aportado por los socios no exceda de 20.000 unidades de fomento, las multas establecidas en el inciso primero del presente artículo deberán ser cursadas hasta por la mitad de los montos señalados.
 
 Para la aplicación y efecto de este artículo, se entenderá por infracción reiterada aquella transgresión que, habiendo dado origen a una multa, siga ejecutándose luego de haberse otorgado un plazo para rectificar la acción u omisión sancionada.
 
