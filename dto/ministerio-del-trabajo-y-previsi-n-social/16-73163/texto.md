@@ -60,6 +60,8 @@ f) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas autom�
 
 g) Beca de Alimentación: El servicio de Bienestar podrá otorgar becas de alimentación a los afiliados que acrediten una situación socioeconómica aflictiva calificada por el/la Asistente Social o, en su defecto, por el/la Jefe del Servicio de Bienestar. El Consejo Administrativo regulará la forma, oportunidad, plazos, requisitos y montos, para el otorgamiento de este beneficio, el que podrá ser parcial o total, de acuerdo a la situación en estudio.
 
+h) El Servicio de Bienestar podrá otorgar una ayuda Social, consistente en un beneficio en dinero o en especies no sujetos a restitución, en los siguientes casos: desastre natural, enfermedades catastróficas y ante una situación debidamente acreditada y calificada, por la/el Trabajador/a Social o la Jefatura del Servicio de Bienestar.
+
 #### Artículo 4º
 
 El Servicio de Bienestar podrá otorgar a sus afiliados, préstamos no reajustables, en dinero para los fines que a continuación se indican:
@@ -100,11 +102,9 @@ a) El/la Subsecretario/a de Justicia, o la persona que éste designe, quien lo p
 
 b) El/la Subsecretario/a de Derechos Humanos, o la persona que éste/a designe".
 
-c) El Jefe de la División Defensa Social;
+c) El Jefe del Departamento Administrativo de la Subsecretaría de Justicia, y
 
-d) El Jefe del Departamento Administrativo de la Subsecretaría de Justicia, y
-
-e) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios cuando proceda, en conformidad a lo establecido en el inciso 3º del artículo 18 del Reglamento General.
+d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios cuando proceda, en conformidad a lo establecido en el inciso 3º del artículo 18 del Reglamento General.
 
 #### Artículo 7º
 
