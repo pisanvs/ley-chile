@@ -42,15 +42,13 @@ Resuelvo:
 
 2.1 Se aceptará como Declaración Adicional alternativa, que:
 
-2.1.1. La/s plaga/s no está(n) presentes en el país de origen, o
+2.1.1. La/s plaga/s no está(n) presentes en el país de origen, según los lineamientos establecidos en la NIMF 8 "Determinación de la situación de una plaga en un área".
 
-2.1.2. El envío proviene de área libre de la(s) plaga(s), reconocida oficialmente por el Servicio a través de una resolución exenta.
+Para dar cumplimiento a esta Declaración Adicional, el país de origen deberá mantener información de respaldo y los registros de plagas, en la que se basan para determinar la condición de país libre, teniendo en cuenta que estos registros podrán ser solicitados por el Servicio.
 
-2.1.3. En el caso de los países que componen la Unión Europea:
+o
 
-2.1.3.1. La/s plaga/s no está(n) presente(s) en la Unión Europea, o
-
-2.1.3.2. El envío proviene de área o país de la Unión Europea libre de la(s) plaga(s), reconocida oficialmente por el Servicio, mediante una resolución exenta.
+2.1.2. El envío proviene de área libre de la/s plaga/s, reconocida oficialmente por el Servicio a través de una resolución exenta (Indicar número y año).
 
 2.2 El número de los sellos deberá incluirse en el certificado fitosanitario, excepto cuando existan acuerdos bilaterales.
 
