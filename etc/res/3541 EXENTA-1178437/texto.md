@@ -44,19 +44,17 @@ Resuelvo:
 
 "El envío fue sometido a un tratamiento para el control de Trogoderma granarium (Col., Dermestidae), Corcyra cephalonica (Lep., Tortricidae), Caryedon serratus (Col., Bruchidae), Callosobruchus analis (Col., Bruchidae), Callosobruchus theobromae (Col., Bruchidae).".
 
-Se deberá especificar el tratamiento en la Sección III del certificado fitosanitario indicando producto, dosis, tiempo de exposición, temperatura del producto a tratar y fecha de tratamiento, según corresponda.
+Se deberá especificar el tratamiento en la sección correspondiente del certificado fitosanitario indicando producto, dosis, tiempo de exposición, temperatura del producto a tratar y fecha de tratamiento, según corresponda.
 
-1.2. Se aceptará como Declaración Adicional alternativa, que:
+1.2 Se aceptará como Declaración Adicional alternativa, que:
 
-1.2.1 La/s plaga/s no está(n) presentes en el país de origen o,
+1.2.1. La/s plaga/s no está/n presentes en el país de origen, según los lineamientos de la NIMF 8 "Determinación de la situación de una plaga en un área".
 
-1.2.2 El envío proviene de área libre de la(s) plaga(s), reconocida oficialmente por el Servicio a través de una resolución exenta.
+Para dar cumplimiento a esta Declaración Adicional, el país de origen deberá mantener información de respaldo y los registros de plagas, en la que se basan para determinar la condición de país libre, teniendo en cuenta que estos registros podrán ser solicitados por el Servicio.
 
-1.2.3 En el caso de los países que componen la Unión Europea.
+O bien,
 
-1.2.3.1 La/s plaga/s no está(n) presentes en la Unión Europea o,
-
-1.2.3.2 El envío proviene de área o país de la Unión Europea libre de la(s) plaga(s), reconocida oficialmente por el Servicio mediante una resolución exenta.
+1.2.2. El envío proviene de área libre de la(s) plaga(s), reconocida oficialmente por el Servicio a través de la resolución exenta (Indicar número y año).
 
 2. Se aceptarán como tratamientos fitosanitarios los siguientes esquemas de fumigación:
 
@@ -80,15 +78,15 @@ Fuente FAO. Manual de fumigación para control de insectos.
 
 2.3 En aquellos casos en que se deba tratar contra Trogoderma granarium e insectos de la Familia Bruchidae (Caryedon serratus, Callosobruchus analis, Callosobruchus theobromae) o Corcyra cephalonica (Lep., Tortricidae), será válido el tratamiento que se exige contra Trogoderma granarium, aplicándose, así, un solo tratamiento para todas las plagas presentes a tratar.
 
-3. Los envíos una vez sometidos al tratamiento de fumigación, deberán mantenerse resguardados en el lugar de acopio, durante el despacho y transporte a Chile. Los medios de transporte (camiones), contenedores o paletas aéreas deberán ser sellados.
+3. Todos los envíos deberán mantenerse resguardados en el lugar de acopio, durante el despacho y transporte a Chile. Todos los medios de transporte (camiones, contenedores o paletas aéreas) deberán ser sellados.
 
 Se aceptará como sello o precinto, el de la ONPF del país de origen del exportador, de la agencia naviera, de aduanas o de otra entidad reconocida y supervisado oficialmente por la ONPF del país exportador; el cual deberá incluirse en el certificado fitosanitario, excepto que existan acuerdos bilaterales.
 
 4. El sello o precinto deberá llegar intacto a Chile, en caso contrario será causal de rechazo, situación que podrá ser analizada por el Servicio, a solicitud de la ONPF exportadora.
 
-### 5. El envío debe encontrarse libre de restos vegetales
+### 5. El envío debe venir libre de suelo y otros restos vegetales
 
-6. El envío debe venir libre de suelo; entendiéndose por suelo los terrones mayores o iguales a 3 mm de diámetro, requisito que deberá ser verificado por la ONPF exportadora previo a emitir el certificado fitosanitario.
+### 6. Eliminado
 
 7. Los envases deberán ser de primer uso, cerrados, resistentes a la manipulación y etiquetados o rotulados con al menos la siguiente información: país de origen, nombre o código del productor y especie vegetal, de acuerdo con la normativa vigente.
 
