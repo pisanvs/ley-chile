@@ -46,18 +46,26 @@ f. Plasma bovino congelado para uso industrial destinado únicamente para la ali
 
 g. Lanas industrializadas, tales como teñidas, en tops, en blousse o con algún tratamiento o proceso similar y los subproductos del lavado de la lana y sus derivados como lanolina.
 
-h. Cueros bovinos, equinos, ovinos y porcinos con tratamiento como wetblue, piquelado, curtido o semicurtido.
+h. Cueros con tratamiento como wetblue, piquelado, curtido o semicurtido.
 
 i. Platos o comidas preparadas que sólo contenga lácteos como ingredientes pecuarios, tales como las pastas, empanadas, pizzas, lasañas, barritas de queso apanada, entre otros.
 
 j. Cenizas de huesos.
 
-2. Los productos antes señalados y que sean destinados a la elaboración de medicamentos veterinarios o a la alimentación animal deben cumplir con los requisitos específicos para estos fines.
+k. Cenizas de animales cremados.
 
-3. Las disposiciones de la presente resolución se deben aplicar sin perjuicio de la normativa especial sobre productos orgánicos y otras disposiciones específicas.
+l. Ácidos nucleicos purificados, anticuerpos purificados, citocromos, diluyentes para semen, enzimas, fermentos o cultivos lácticos, gelatinas purificadas, líneas celulares, medios de cultivos, placas con antígenos inactivados, betapropiolactona, tejidos fijados en formalina, cortes histológicos fijados, soluciones hidrosalinas y tripsina en sus diferentes presentaciones.
 
-4. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial.
+m. Productos requeridos por el SAG para fines de ensayo en el laboratorio u otras actividades oficiales.
 
-5. Deróguese la resolución exenta N° 3.081, de 2006, que exime de presentación de monografías de procesos a productos con ingredientes de origen animal que se indica y sus modificaciones.
+2. Todos los productos indicados anteriormente no requieren realizar el trámite de importación ante el SAG para ingresar a Chile, independiente de la cantidad y la vía de entrada (pasajero/correo/courier/carga). Lo anterior, sin perjuicio de los requerimientos específicos del Servicio Nacional de Aduanas.
+
+3. Los productos antes señalados y que sean destinados a la elaboración de medicamentos veterinarios o a la alimentación animal deben cumplir con los requisitos específicos para estos fines.
+
+4. Las disposiciones de la presente resolución se deben aplicar sin perjuicio de la normativa especial sobre productos orgánicos y otras disposiciones específicas.
+
+5. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial.
+
+6. Deróguese la resolución exenta N° 3.081, de 2006, que exime de presentación de monografías de procesos a productos con ingredientes de origen animal que se indica y sus modificaciones.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
