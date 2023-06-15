@@ -1216,7 +1216,7 @@ Audiencias públicas.
 
 1. Los diversos grupos y organizaciones de la sociedad civil, así como toda persona o grupo de personas, podrán solicitar ser recibidos para hacer valer su punto de vista sobre algún asunto de su interés que tenga relación directa con el anteproyecto de propuesta de nueva Constitución elaborado por la Comisión Experta.
 
-2. Estas peticiones de audiencias públicas deberán efectuarse ante la Secretaría Ejecutiva de Participación Ciudadana entre el 7 y el 14 de junio de 2023. La lista con las audiencias solicitadas será enviada a la Secretaría del Consejo Constitucional, para que la Mesa Directiva determine en el plazo de tres días, cuáles de ellas serán recibidas por las Comisiones del Consejo Constitucional y cuáles serán recibidas por las distintas universidades acreditadas, sobre la base de un criterio de distribución territorial determinado por la Secretaría Ejecutiva de Participación Ciudadana.
+2. Estas peticiones de audiencias públicas deberán efectuarse ante la Secretaría Ejecutiva de Participación Ciudadana entre el 7 y 21 de junio de 2023. La lista con las audiencias solicitadas será enviada a la Secretaría del Consejo Constitucional, para que la Mesa Directiva determine en el plazo de tres días, cuáles de ellas serán recibidas por las Comisiones del Consejo Constitucional y cuáles serán recibidas por las distintas universidades acreditadas, sobre la base de un criterio de distribución territorial determinado por la Secretaría Ejecutiva de Participación Ciudadana.
 
 3. Deberá llevarse registro de todas las audiencias en una plataforma común de acceso público.
 
