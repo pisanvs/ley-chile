@@ -52,7 +52,7 @@ origen y temporada.
 
 ### 3. Adicionalmente, los envíos deberán cumplir con:
 
-3.1 Los envíos deben proceder de los lugares de producción y empacadoras registradas por la DSV, y autorizados por un año mediante resolución emitida por el Servicio Agrícola y Ganadero.
+3.1 Los envíos deben proceder de los lugares de producción y empacadoras registrados y aprobados por el DSV, y autorizados por el SAG mediante resolución vigente emitida para cada temporada.
 
 3.2 Los envases deberán ser nuevos y de primer uso, no permitiéndose el reenvase. En los envases se deberá indicar la siguiente información: nombre de la especie, Municipio y Estado de origen, empacadora autorizada (nombre o código establecido en registro de la DSV), lugar de producción (nombre o código establecido en registro de la DSV y temporada, cumpliendo con las características especificadas en el "Plan de Trabajo para la Exportación de Frutas Frescas para consumo de Melón (Cucumis Melo) y Sandía (Citrullus Lanatus) desde Brasil a Chile, procedentes de algunos municipios del estado de Ceará y Río Grande do Norte, reconocidos como áreas libres de Anastrepha grandis".
 
@@ -60,27 +60,17 @@ origen y temporada.
 
 3.4 Las frutas frescas producidas en las áreas reconocidas libres de Anastrepha grandis, de acuerdo al Plan de Trabajo para la exportación a Chile, deberán venir en medios de transporte que aseguren las condiciones fitosanitarias y la no contaminación del envío, los cuales deberán venir sellados por la DSV.
 
-3.4.1 En caso de transporte terrestre, el envío deberá venir en
+3.4.1 En caso de transporte terrestre:
 
-camión frigorífico o en contenedores con sello oficial, lo
+a. El envío deberá venir en camiones frigoríficos o en contenedores, asegurando su condición fitosanitaria con el uso de sellos oficiales, los que serán instalados en las empacadoras registradas y aprobadas por DSV, previo a su despacho a Chile;
 
-cual permita asegurar la condición fitosanitaria del embarque
+O bien,
 
-y la no contaminación.
+Cada unidad sobre pallet, que compone el envío, será cubierta por malla antiáfidos y dispondrá de un sello oficial (a consignar en el Certificado Fitosanitario respectivo), acción a ejecutarse previo al despacho en las instalaciones de las empacadoras registradas y aprobadas por DSV. Estas unidades serán cargadas en un transporte cerrado que impida su manipulación hasta la frontera brasilera, para ahí, en recintos bajo medidas de resguardo fitosanitario (depósitos fiscales) y supervisados por funcionarios del DSV, ser transbordadas al medio de transporte que las llevará hasta Chile. En ambos casos, la autoridad fitosanitaria brasilera deberá constatar que los medios de transporte cumplan con medidas de resguardo suficientes y se encuentren limpios.
 
-3.4.2 En caso de transporte marítimo, los contenedores deberán
+3.4.2 En caso de transporte marítimo, los contenedores deberán venir con sello oficial. Cada contenedor deberá estar en buenas condiciones, operando, con puertas de cierre hermético.
 
-venir con sello oficial. Cada contenedor deberá estar en
-
-buenas condiciones, operando, con puertas de cierre hermético.
-
-3.4.3 En caso de transporte aéreo, el envío deberá venir cubierto
-
-por malla tipo mosquitera y debidamente empacado, con sello o
-
-precinto en cada pallet; o en contenedores debidamente
-
-sellados.
+3.4.3 En caso de transporte aéreo, el envío deberá venir cubierto por malla tipo mosquitera y debidamente empacado, con sello o precinto en cada pallet; o en contenedores debidamente sellados.
 
 4. Los envíos serán inspeccionados a su arribo al país por profesionales del Servicio Agrícola y Ganadero destacados en el puerto de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias, y con la documentación adjunta, resolverán la pertinencia de su internación o la adopción de las medidas correspondientes.
 
