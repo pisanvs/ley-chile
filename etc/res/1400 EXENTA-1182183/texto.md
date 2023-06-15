@@ -158,6 +158,12 @@ Exceptúase de lo dispuesto en el presente numeral a los niños y niñas menores
 
 La administración del establecimiento de salud es responsable de exigir en sus dependencias el correcto uso de la mascarilla.
 
+13 bis. Uso de mascarillas en establecimientos educacionales. Dispóngase el uso obligatorio de mascarillas para las personas mayores de 5 años en actividades escolares realizadas en espacios cerrados dentro de establecimientos educacionales, de los niveles básico y medio, tanto públicos como privados.
+
+Los trabajadores y trabajadoras del nivel parvulario también deberán cumplir con la obligación establecida en el párrafo anterior.
+
+Aquellas personas con condiciones de salud o enfermedades en que el uso de la mascarilla pueda afectar su salud o desarrollo, podrán eximirse de la obligación señalada en el párrafo anterior, haciendo uso de mascarilla según tolerancia.
+
 14. Se recomienda altamente el uso de mascarilla en el transporte público o privado sujeto a pago, en aglomeraciones en espacios cerrados, al interior de farmacias y a las personas con síntomas de COVID-19.
 
 iv. Medidas sanitarias relativas a las actividades educacionales.
