@@ -2336,13 +2336,13 @@ Derogado.
 
 #### Artículo 171
 
-La acción civil que tuviere por objeto únicamente la restitución de la cosa, deberá interponerse siempre ante el tribunal que conozca las gestiones relacionadas con el respectivo procedimiento penal.
+La acción civil que tenga por objeto la restitución de la cosa o la imposición del comiso de las ganancias provenientes del delito o, en los casos en que la ley lo disponga aun sin sentencia condenatoria, del hecho ilícito que corresponde al delito, deberán interponerse siempre ante el tribunal que conozca las gestiones relacionadas con el respectivo procedimiento penal.
 
 Dicho tribunal conocerá también todas las restantes acciones que la víctima deduzca respecto del imputado para perseguir las responsabilidades civiles derivadas del hecho punible, y que no interponga en sede civil.
 
 Con la excepción indicada en el inciso primero, las otras acciones encaminadas a obtener la reparación de las consecuencias civiles del hecho punible que interpusieren personas distintas de la víctima, o se dirigieren contra personas diferentes del imputado, sólo podrán interponerse ante el tribunal civil que fuere competente de acuerdo a las reglas generales.
 
-Será competente para conocer de la ejecución de la decisión civil de las sentencias definitivas dictadas por los jueces con competencia penal, el tribunal civil mencionado en el inciso anterior.
+El tribunal civil mencionado en el inciso anterior será competente para conocer de la ejecución de la decisión civil de las sentencias definitivas dictadas por los jueces con competencia penal, así como de la sentencia que imponga el comiso de las ganancias provenientes del hecho ilícito que corresponda al delito o, en su caso, del valor equivalente a los efectos o instrumentos del delito.
 
 #### Artículo 172
 
@@ -2566,7 +2566,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $8.860 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $6.680 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $9.995 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $6.905 pesos.
 
 #### Artículo 199
 

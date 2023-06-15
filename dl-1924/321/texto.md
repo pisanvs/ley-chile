@@ -32,6 +32,8 @@ Las personas condenadas a dos o más penas, cuya suma alcance o supere los cuare
 
 Las personas condenadas por los incisos tercero y cuarto del artículo 196 de la ley Nº 18.290, de Tránsito, podrán postular a este beneficio sólo una vez que hayan cumplido dos tercios de la condena.
 
+Las personas condenadas por el delito contemplado en el artículo 293 del Código Penal sólo podrán postular al beneficio de la libertad condicional cuando hayan cumplido dos tercios de la pena, salvo quienes han cooperado eficazmente con la investigación, los que podrán postular de conformidad a lo señalado en el artículo anterior.
+
 Las personas condenadas a presidio perpetuo por delitos contemplados en la ley N° 18.314, que determina conductas terroristas y fija su penalidad y, además condenadas por delitos sancionados en otros cuerpos legales, podrán postular al beneficio de la libertad condicional una vez que hayan cumplido diez años de pena, siempre que los hechos punibles hayan ocurrido entre el 1 de enero de 1989 y el 1 de enero de 1998 y suscriban, en forma previa, una declaración que contenga una renuncia inequívoca al uso de la violencia.
 
 #### Artículo 3º bis

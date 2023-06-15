@@ -224,6 +224,8 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 
 22.° Cometer el delito contra una víctima menor de 18 años, un adulto mayor o una persona con discapacidad, en los términos de la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad.
 
+23ª. Ejecutar el hecho formando parte de una agrupación u organización de dos o más personas destinada a cometer crímenes o simples delitos, siempre que ésta o aquélla no constituya una asociación delictiva o criminal de que trata el Párrafo 10 del Título VI del Libro II, y ello ha facilitado la perpetración del delito o ha aumentado el peligro para la integridad física de la víctima, o haber ejecutado el hecho con violencia, intimidación o engaño.
+
 ### V. De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito
 
 #### Artículo 13
@@ -297,6 +299,8 @@ El perdón de la parte ofendida no extingue la acción penal, salvo respecto de 
 #### Artículo 20
 
 No se reputan penas, la restricción o privación de libertad de los detenidos o sometidos a prisión preventiva u otras medidas cautelares personales, la separación de los empleos públicos acordada por las autoridades en uso de sus atribuciones o por el tribunal durante el proceso o para instruirlo, ni las multas y demás correcciones que los superiores impongan a sus subordinados y administrados en uso de su jurisdicción disciplinal o atribuciones gubernativas.
+
+Tampoco se reputa pena el comiso de las ganancias provenientes del delito, ni cualquier forma de comiso sin condena prevista por la ley.
 
 ### II. De la clasificación de las penas
 
@@ -412,6 +416,30 @@ La caución y la sujeción a la vigilancia de la autoridad podrán imponerse com
 
 Toda sentencia condenatoria en materia criminal lleva envuelta la obligación de pagar las costas, daños y perjuicios por parte de los autores, cómplices, encubridores y demás personas legalmente responsables.
 
+#### Artículo 24 bis
+
+Toda sentencia condenatoria en materia criminal lleva consigo el comiso de las ganancias provenientes del delito cuando las hubiere. Por el comiso de ganancias se priva a una persona de activos patrimoniales cuyo valor corresponda a la cuantía de las ganancias obtenidas a través del delito, o bien para o por perpetrarlo, y se los transfiere a la Corporación Administrativa del Poder Judicial.
+
+Las ganancias obtenidas comprenden los frutos y las utilidades que se han originado, cualquiera sea su naturaleza jurídica. También comprenden el equivalente a los costos evitados mediante el hecho ilícito.
+
+En la determinación del valor de las ganancias no se descontarán los gastos que han sido necesarios para perpetrar el delito y obtenerlas.
+
+La acción para obtener el comiso de ganancias se sujetará a las reglas de prescripción de la acción penal respectiva.
+
+Si un mismo bien puede ser objeto de comiso conforme a este artículo y conforme a los artículos 31, 31 bis y 31 ter, sólo se aplicará lo dispuesto en este artículo.
+
+#### Artículo 24 ter
+
+El comiso de ganancias también será impuesto a quien no ha intervenido en la perpetración del hecho, en cualquiera de las siguientes circunstancias:
+
+1ª. Si adquirió la ganancia como heredero o asignatario testamentario, a cualquier título gratuito o sin título válido, a menos que la haya adquirido del mismo modo de un tercero que no se encontrare en la misma circunstancia ni en las circunstancias que siguen.
+
+2ª. Si obtuvo la ganancia mediante el hecho ilícito y los intervinientes en la perpetración del hecho actuaron en su interés.
+
+3ª. Si adquirió la ganancia sabiendo o debiendo saber su procedencia ilícita al momento de la adquisición.
+
+4ª. Si se trata de una persona jurídica, que ha recibido la ganancia como aporte a su patrimonio.
+
 ### III. De los límites, naturaleza y efectos de las penas
 
 #### Artículo 25
@@ -460,7 +488,29 @@ Las penas de presidio, reclusión, confinamiento, extrañamiento y relegación m
 
 #### Artículo 31
 
-Toda pena que se imponga por un crimen o un simple delito, lleva consigo la pérdida de los efectos que de él provengan y de los instrumentos con que se ejecutó, a menos que pertenezcan a un tercero no responsable del crimen o simple delito.
+Se impondrá el comiso de toda cosa que ha sido empleada como instrumento en la perpetración de un delito y sea especialmente apta para ser empleada delictivamente. Se entenderá que son especialmente aptas para ser utilizadas delictivamente, en todo caso, aquellas cosas cuya tenencia o porte se encuentra en general prohibida por la ley.
+
+El tribunal deberá decretar el comiso de cosas especialmente aptas para ser utilizadas delictivamente aun si el imputado resulta absuelto o sobreseído. Para ello bastará el establecimiento de su uso en un hecho delictivo. En este caso, el comiso será impuesto de conformidad con el procedimiento establecido en el Título III bis del Libro IV del Código Procesal Penal.
+
+El comiso de instrumentos especialmente aptos para ser utilizados delictivamente procederá aun respecto de terceros de buena fe y que tengan título para poseer la cosa, a menos que se establezca que el dueño no tuvo responsabilidad en el uso de la cosa por parte del hechor.
+
+Si el comiso afecta a un tercero de buena fe y que no tiene responsabilidad por el hecho, éste podrá solicitar indemnización al hechor.
+
+#### Artículo 31 bis
+
+El comiso de una cosa que no sea especialmente apta para ser utilizada delictivamente y que ha servido de instrumento en la perpetración del hecho sólo será impuesto en la sentencia condenatoria y siempre que la cosa haya sido utilizada en la perpetración de un delito.
+
+Lo dispuesto en el inciso anterior no procederá respecto de terceros de buena fe. El tribunal prescindirá de su imposición cuando la privación de su propiedad le ocasione un perjuicio desproporcionado al afectado.
+
+#### Artículo 31 ter
+
+Se impondrá el comiso de toda cosa obtenida o producida a través de la perpetración del hecho.
+
+El comiso de los efectos del delito será decretado por el juez aun si el imputado resulta absuelto o sobreseído, siempre que se establezca que la cosa proviene de un hecho ilícito. En este caso, el comiso será impuesto de conformidad con el procedimiento establecido en el Título III bis del Libro IV del Código Procesal Penal.
+
+El comiso de los efectos del hecho no procederá respecto del tercero de buena fe.
+
+Tratándose de efectos de tenencia ilícita, el comiso procederá en todos los casos.
 
 NATURALEZA Y EFECTOS DE ALGUNAS PENAS.
 
@@ -604,17 +654,21 @@ En todos los casos en que se imponga el pago de costas se entenderá comprender 
 
 #### Artículo 48
 
-Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades pecuniarias, se satisfarán éstas en el orden siguiente:
+Si los bienes del condenado no fueran bastantes para cubrir las responsabilidades pecuniarias, se satisfarán éstas en el orden siguiente:
 
-1.° Las costas procesales y personales.
+1. El comiso de las ganancias provenientes del delito o, en su caso, del valor equivalente a los efectos o instrumentos del delito.
 
-2.° El resarcimiento de los gastos ocasionados por el juicio.
+2. Las multas.
 
-3.° La reparación del daño causado e indemnización de perjuicios.
+3. Las costas procesales y el resarcimiento de los gastos ocasionados por el juicio.
 
-4.° La multa.
+4. La reparación del daño causado e indemnización de perjuicios.
 
-En caso de un procedimiento concursal, estos créditos se graduarán, considerándose como uno solo, entre los que no gozan de preferencia.
+5. Las costas personales.
+
+Si por aplicación de lo dispuesto en el inciso anterior no es posible satisfacer la indemnización de perjuicios derivada del delito por falta de bienes realizables, el perjudicado podrá ejercer la acción civil sobre los bienes decomisados para efectos del número 1, o el producto de su realización, siempre que exista una relación directa entre el perjuicio irrogado y las ganancias obtenidas. El Estado podrá excepcionarse del pago si demuestra la existencia de bienes realizables sobre los cuales puede hacerse efectiva la indemnización, o que ella no pudo ser satisfecha por negligencia del perjudicado.
+
+En caso de iniciarse un procedimiento concursal, estos créditos se graduarán considerándose la obligación de cumplir con el comiso como un crédito de la primera clase comprendido en el número 1 del artículo 2472 del Código Civil y los restantes como uno solo entre los que no gozan de preferencia. En este caso no se aplicará lo dispuesto en el inciso anterior.
 
 #### Artículo 49
 
@@ -838,19 +892,7 @@ La multa se considera como la pena inmediatamente inferior a la última en todas
 
 Para fijar su cuantía respectiva se adoptará la base establecida en el art. 25, y en cuanto a su aplicación a cada caso especial se observará lo que prescribe el art. 70.
 
-El producto de las multas, ya sea que se impongan por sentencia o que resulten de un decreto que conmuta alguna pena, ingresará en una cuenta fiscal, especial, contra la cual sólo podrá girar el Ministerio de Justicia, para algunos de los siguientes fines, y en conformidad al Reglamento que para tal efecto dictará el Presidente de la República:
-
-1.- Creación, instalación y mantenimiento de establecimientos penales y de reeducación de antisociales;
-
-2.- Creación de Tribunales e instalación, mantenimiento y desarrollo de los servicios judiciales, y
-
-3.- Mantenimiento de los Servicios del Patronato Nacional de Reos.
-
-La misma regla señalada en el inciso anterior, se aplicará respecto a las cauciones que se hagan efectivas, de los dineros que caigan en comiso y del producto de la enajenación en subasta pública de las demás especies decomisadas, la cual se deberá efectuar por la Dirección de Aprovisionamiento del Estado.
-
-Las disposiciones de los dos incisos anteriores no son aplicables a las multas señaladas en el artículo 483-b.
-
-El producto de las multas, cauciones y comisos derivados de faltas y contravenciones, se aplicará a fondos de la Municipalidad correspondiente al territorio donde se cometió el delito que se castiga.
+El producto de las multas, cauciones y comisos derivados de faltas y contravenciones, se aplicará a fondos de la Municipalidad correspondiente al territorio donde ellas se cometieron.
 
 #### Artículo 61
 
@@ -2586,7 +2628,7 @@ Estarán exentas de las penas que establece este artículo las personas a que se
 
 #### Artículo 269 ter
 
-El fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
+El funcionario policial, el fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
 
 ### III. De la rotura de sellos
 
@@ -2734,41 +2776,81 @@ Si como resultado de las referidas acción u omisión se causaren lesiones que m
 
 Para los efectos del artículo anterior se entenderá por acto de maltrato o crueldad con animales toda acción u omisión, ocasional o reiterada, que injustificadamente causare daño, dolor o sufrimiento al animal.
 
-### X. De las asociaciones ilícitas
+### 10. De las asociaciones delictivas y criminales
 
 #### Artículo 292
 
-Toda asociación formada con el objeto de atentar contra el orden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
+Quien sea parte en una asociación delictiva será sancionado con presidio menor en su grado mínimo a medio.
 
-INCISO DEROGADO.
+La pena será de presidio menor en su grado máximo si la participación consiste en cumplir funciones de jefatura, ejercer mando en ella, financiarla o proveerle recursos o medios, o en haberla fundado.
+
+Se entenderá por asociación delictiva toda organización formada por tres o más personas, con acción sostenida en el tiempo, que tenga entre sus fines la perpetración de simples delitos.
 
 #### Artículo 293
 
-Si la asociación ha tenido por objeto la perpetración de crímenes, los jefes, los que hubieren ejercido mando en ella y sus provocadores, sufrirán la pena de presidio mayor en cualquiera de sus grados.
+Quien sea parte en una asociación criminal será sancionado con presidio menor en su grado máximo.
 
-Cuando la asociación ha tenido por objeto la perpetración de simples delitos, la pena será presidio menor en cualquiera de sus grados para los individuos comprendidos en el acápite anterior.
+La pena será presidio mayor en su grado mínimo si la participación consiste en cumplir funciones de jefatura, ejercer mando en ella, financiarla o proveerle recursos o medios, o en haberla fundado.
+
+Se entenderá por asociación criminal toda organización formada por tres o más personas, con acción sostenida en el tiempo, que tenga entre sus fines la perpetración de hechos constitutivos de crímenes.
+
+Si la asociación tiene entre sus fines la perpetración de crímenes y simples delitos se aplicarán las sanciones dispuestas en el inciso primero.
+
+#### Artículo 293 bis
+
+Será sancionado con presidio menor en su grado máximo el que, en un proceso por asociación delictiva o criminal:
+
+a) Amenace a otro con el objeto de que preste una declaración o un testimonio falso.
+
+b) Amenace o constriña a otro a que omita prestar declaración o testimonio, a que produzca o presente antecedentes o pruebas falsas, o a que omita producir o presentar antecedentes o pruebas relevantes.
+
+c) Ofrezca o entregue a otro un beneficio económico o de otra naturaleza para que preste una declaración o testimonio falso o para que omita declarar o testificar.
+
+d) Ofrezca o entregue a otro un beneficio económico o de otra naturaleza con el objeto de que produzca o presente antecedentes o pruebas falsas u omita producir o presentar antecedentes o pruebas relevantes.
 
 #### Artículo 294
 
-Cualesquiera otros individuos que hubieren tomado parte en la asociación y los que a sabiendas y voluntariamente le hubieren suministrado medios e instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, y en el segundo, con presidio menor en su grado mínimo.
+Las penas de los artículos 292 y 293 se impondrán sin perjuicio de las que correspondan por los crímenes o simples delitos cometidos con motivo u ocasión de tales actividades.
+
+Cuando la asociación se ha formado a través de una persona jurídica, se impondrá, además, como consecuencia accesoria de la pena impuesta a los responsables individuales, la disolución o cancelación de la personalidad jurídica.
+
+En todo caso se impondrá el comiso de ganancias, de conformidad con el artículo 24 bis. Asimismo, caerán en comiso todos los activos vinculados a la actividad en cuyo contexto se haya perpetrado el delito, a menos que se acredite su origen lícito.
+
+El comiso de ganancias será impuesto en conformidad con los procedimientos establecidos por la ley.
 
 #### Artículo 294 bis
 
-Las penas de los artículos 293 y 294 se impondrán sin perjuicio de las que correspondan, por los crímenes o simples delitos cometidos con motivo u ocasión de tales actividades.
+Se impondrá asimismo el comiso de las ganancias obtenidas por una organización delictiva o criminal, en los términos del artículo anterior, si se dicta:
 
-Cuando la asociación se hubiere formado a través de una persona jurídica, se impondrá además, como consecuencia accesoria de la pena impuesta a los responsables individuales, la disolución o cancelación de la personalidad jurídica.
+1. Sobreseimiento temporal conforme a las letras b) y c) del inciso primero, y el inciso segundo del artículo 252 del Código Procesal Penal.
+
+2. Sentencia absolutoria fundada en la falta de convicción a que se refiere el artículo 340 del Código Procesal Penal o sobreseimiento definitivo fundado en la letra b) del artículo 250 del mismo Código.
+
+3. Sobreseimiento definitivo o sentencia absolutoria fundados en la concurrencia de circunstancias eximentes de responsabilidad que no excluyen la ilicitud del hecho.
+
+4. Sobreseimiento definitivo o sentencia absolutoria fundados en haberse extinguido la responsabilidad penal o en haber sobrevenido un hecho que, con arreglo a la ley, pone fin a esa responsabilidad.
+
+El comiso de ganancias sin condena previa también será impuesto respecto de aquellas personas que no han intervenido en la realización del hecho ilícito que se encontraren en cualquiera de las circunstancias señaladas en el artículo 24 ter.
+
+El comiso de ganancias sin condena previa será impuesto de conformidad al procedimiento especial previsto en el Título III bis del Libro IV del Código Procesal Penal.
+
+La acción para obtener el comiso de ganancias en virtud de este artículo prescribirá en el plazo de cuatro años, contado desde que ha transcurrido el plazo de prescripción de la acción penal respectiva.
+
+#### Artículo 294 ter
+
+Cuando la cosa usada como instrumento por una organización delictiva o criminal o que resulte de dichos delitos sea dinero o haya sido enajenada, perdida u ocultada, el juez deberá imponer comiso sustitutivo por un valor equivalente.
+
+El comiso por valor equivalente sólo procederá como consecuencia adicional a la pena. En la determinación del valor equivalente de la cosa a ser decomisada no podrán descontarse los gastos que han sido necesarios para perpetrar el hecho. El valor equivalente se extenderá, asimismo, a los frutos o utilidades de los efectos del hecho.
+
+El Ministerio Público deberá solicitar la aplicación del comiso por valor equivalente en la oportunidad procesal prevista para solicitar el comiso de ganancias, y la discusión sobre el monto del valor equivalente tendrá lugar en la oportunidad procesal prevista para la determinación de la magnitud del comiso de ganancias.
 
 #### Artículo 295
 
-Quedarán exentos de las penas señaladas en los artículos anteriores aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
+El tribunal prescindirá de las penas señaladas en los artículos 292 y 293 o impondrá la pena inferior en uno o dos grados al integrante que:
 
-Podrán sin embargo ser puestos bajo la vigilancia de la autoridad.
+1. Antes de tener lugar alguno de los hechos cuya perpetración constituye el fin o la actividad de la asociación, revele a la autoridad la existencia de la asociación, sus planes y propósitos o la identidad de sus miembros.
 
-#### Artículo 295 bis
-
-Se aplicarán las penas de prisión en su grado máximo a presidio menor en su grado mínimo al que, habiendo tenido noticias verosímiles de los planes o de las actividades desarrolladas por uno o más miembros de una asociación ilícita, omite ponerlas oportunamente en conocimiento de la autoridad.
-
-Quedará exento de las penas a que se refiere este artículo el cónyuge, el conviviente civil, los parientes por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado, y el padre, hijo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
+2. Haya o no intervenido en la perpetración de los delitos que constituyen el fin o la actividad de la asociación o que corresponden a medios de los que ella se vale, revele a la autoridad la existencia de la asociación, sus planes y propósitos o la identidad de sus miembros de tal modo que a juicio del tribunal la autoridad haya estado en condiciones de disolverla antes de la perpetración de hechos ulteriores.
 
 ### XI. De las amenazas de atentado contra las personas y propiedades
 
@@ -3406,13 +3488,13 @@ Tratándose de los delitos previstos en los artículos 141, inciso final; 142, i
 
 #### Artículo 369 ter
 
-Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 367, 367 ter, 367 quáter, incisos primero y segundo, y 367 septies, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
+Cuando existieren sospechas fundadas de que una persona hubiere cometido o preparado la comisión de alguno de los delitos previstos en los artículos 367, 367 ter, 367 quáter, incisos primero y segundo, y 367 septies, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona. La captación, grabación y registro subrepticio de imágenes o sonidos en lugares cerrados o que no sean de libre acceso al público, podrá ser autorizada por el juez, a solicitud del fiscal cuando existan fundadas sospechas basadas en hechos determinados y graves que lo hagan imprescindible para el esclarecimiento de los hechos. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
 
 Igualmente, bajo los mismos supuestos previstos en el inciso precedente, podrá el tribunal, a petición del Ministerio Público, autorizar la intervención de agentes encubiertos. Mediando igual autorización y con el objeto exclusivo de facilitar la labor de estos agentes, los organismos policiales pertinentes podrán mantener un registro reservado de producciones del carácter investigado. Asimismo, podrán tener lugar entregas vigiladas de material respecto de la investigación de hechos que se instigaren o materializaren a través del intercambio de dichos elementos, en cualquier soporte.
 
 La actuación de los agentes encubiertos y las entregas vigiladas serán plenamente aplicables al caso en que la actuación de los agentes o el traslado o circulación de producciones se desarrolle a través de un sistema de telecomunicaciones.
 
-Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones de la ley Nº 20.000.
+Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y las entregas vigiladas se regirán por las disposiciones del Párrafo 3° bis del Título I del Libro II del Código Procesal Penal.
 
 #### Artículo 369 quáter
 
@@ -3878,11 +3960,11 @@ octies.-
 
 Previa autorización del juez de garantía competente, el fiscal podrá autorizar, en las investigaciones por los delitos previstos en el presente párrafo, que funcionarios policiales se desempeñen como agentes encubiertos y, a propuesta de dichos funcionarios, que determinados informantes de esos servicios actúen en esa calidad.
 
-Cuando existieren sospechas fundadas de que una persona o una organización delictiva hubiere cometido o preparado la comisión de alguno de los delitos indicados en este párrafo, y la investigación lo hiciere imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona o de quienes integraren dicha organización, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos y la grabación de comunicaciones. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
+Cuando existan fundadas sospechas de que una persona ha cometido o preparado la comisión de alguno de los delitos indicados en este Párrafo y la investigación lo haga imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la interceptación o grabación de las telecomunicaciones de esa persona. La captación, grabación y registro subrepticio de imágenes o sonidos en lugares cerrados o que no sean de libre acceso al público, podrá ser autorizada por el juez, a solicitud del fiscal, cuando existan fundadas sospechas basadas en hechos determinados y graves que lo hagan imprescindible para el esclarecimiento de los hechos. En lo demás, se estará íntegramente a lo dispuesto en los artículos 222 a 225 del Código Procesal Penal.
 
-Estas técnicas podrán ser utilizadas por el fiscal sea que se trate de una persona, un grupo de personas o una organización delictiva que hubiere cometido o preparado la comisión de los delitos señalados en este artículo.
+Igualmente, cuando la investigación lo haga imprescindible, el tribunal, a petición del Ministerio Público, podrá autorizar la utilización de otra u otras de las diligencias especiales de investigación reguladas en el Párrafo 3° bis del Título I del Libro II del Código Procesal Penal.
 
-En todo aquello no regulado por este artículo los agentes encubiertos e informantes se regirán por las disposiciones respectivas de la ley Nº 20.000.
+En todo aquello no regulado por este artículo los agentes encubiertos e informantes se regirán por las disposiciones respectivas del Párrafo 3° bis del Título I del Libro II del Código Procesal Penal.
 
 ### VI. De la calumnia
 
@@ -4180,7 +4262,7 @@ Las marcas registradas, señales conocidas, dispositivos de identificación indi
 
 Para los efectos previstos en el inciso primero, en los casos de traslado de animales o de partes de los mismos, realizado en vehículos de transporte de carga, Carabineros de Chile deberá exigir, además del formulario de movimiento animal, la boleta, factura o guía de despacho correspondiente, a efectos de acreditar el dominio, posesión o legítima tenencia de las especies. Ante la imposibilidad de acreditar dicho dominio, posesión o legítima tenencia, según corresponda, por carecer de los mencionados documentos o por negarse a su exhibición, los funcionarios policiales se incautarán de las especies, sus partes y del medio de transporte, dando aviso a la fiscalía correspondiente para el inicio de la investigación que proceda, al Servicio de Impuestos Internos ante un eventual delito tributario, a la autoridad sanitaria competente para que instruya sumario sanitario y al Servicio Agrícola y Ganadero para determinar la eventual existencia de infracciones a la normativa agropecuaria.
 
-Ante la sospecha o la comisión de los delitos a que se refiere este párrafo, el Ministerio Público podrá, en lo pertinente, autorizar la correspondiente investigación bajo la técnica de entrega vigilada o controlada, en los términos regulados en el Título II, Párrafo 1°, de la ley N° 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas.
+Ante la sospecha o la comisión de los delitos a que se refiere este párrafo, el Ministerio Público podrá, en lo pertinente, autorizar la correspondiente investigación bajo la técnica de entrega vigilada en los términos regulados en el Párrafo 3° bis del Título I del Libro II del Código Procesal Penal.
 
 #### Artículo 448
 
