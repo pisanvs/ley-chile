@@ -184,7 +184,9 @@ a) El proveedor del servicio, sin importar el mecanismo de contratación que se 
 
 b) Los proveedores de servicios de telecomunicaciones deberán guardar y mantener a disposición del suscriptor y autoridades competentes, una copia íntegra y fiel del contrato suscrito, incluyendo las posteriores modificaciones, independiente del mecanismo de contratación;
 
-c) Para todos los actos conducentes a la celebración, modificación o término del contrato, los proveedores de servicios de telecomunicaciones deberán contemplar mecanismos que permitan garantizar la identidad de las partes;
+c) Para todos los actos conducentes a la celebración, modificación o término del contrato, así como para todos aquellos que, puedan traducirse en la generación de obligaciones por éste, los proveedores de servicios de telecomunicaciones deberán contemplar mecanismos que permitan garantizar indubitadamente la identidad de las partes.
+
+Para tales efectos la Subsecretaría de Telecomunicaciones podrá establecer estándares de seguridad, con protocolos o factores de autentificación mínimos que deberán cumplir los proveedores de servicios de telecomunicaciones con el objeto de verificar, la identidad inequívoca de las partes, tales como preguntas de validación, biometría, certificados de firma electrónica avanzada, entre otros;
 
 d) Las acciones necesarias para el término y/o modificación del contrato por el suscriptor no podrán ser más gravosas que las requeridas para la contratación del servicio correspondiente; y
 
