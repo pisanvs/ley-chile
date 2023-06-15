@@ -668,6 +668,18 @@ Bonificación por
 
 Retiro.
 
+201 Ingresos por
+
+Cobro de Pagos
+
+en Exceso
+
+202 Ingresos por
+
+Cobro de Pagos
+
+Duplicados
+
 999 Otros
 
 09 APORTE FISCAL
@@ -1529,6 +1541,36 @@ y/o Utilidades
 99 Otros Integros al
 
 Fisco
+
+001 Integros por
+
+Recuperación
+
+de Licencias
+
+Médicas
+
+002 Integros por
+
+Saldos No
+
+Utilizados de
+
+Transferencias
+
+201 Integros por
+
+Cobro de Pagos
+
+en Exceso
+
+202 Integros por
+
+Cobro de Pagos
+
+Duplicados
+
+999 Otros
 
 26 OTROS GASTOS CORRIENTES
 
@@ -2529,6 +2571,18 @@ de Impuestos
 004 Integros Ley N° 19.030
 
 100 Administradora del Fondo para Bonificación por Retiro
+
+201 Ingresos por
+
+Cobro de Pagos
+
+en Exceso
+
+202 Ingresos por
+
+Cobro de Pagos
+
+Duplicados
 
 999 Otros
 
@@ -5152,6 +5206,28 @@ Comprende los siguientes ítem:
 
 99 OTROS INTEGROS AL FISCO
 
+001 Integros por
+
+Recuperación de
+
+Licencias Médicas
+
+002 Integros por
+
+Saldos No Utilizados
+
+de Transferencias
+
+201 Integros por Cobro
+
+de Pagos en Exceso
+
+202 Integros por Cobro
+
+de Pagos Duplicados
+
+999 Otros.
+
 26 OTROS GASTOS CORRIENTES
 
 01 Devoluciones
@@ -6756,7 +6832,7 @@ Para realizar la referida desagregación, se considerarán las siguientes distin
 
 > **Nota.** El Decreto 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
 
-> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publicada en el
+> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publica
 
 Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
