@@ -2838,11 +2838,17 @@ Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 
 
 En los casos aludidos en el inciso anterior, deberá acreditarse haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
 
-#### Artículo transitorio
+#### Artículo 6
 
 Durante el primer año de vigencia de la presente ley, no será exigible a los conductores de los vehículos empleados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, el contar con la licencia especial Clase F.
 
-> **Nota.** El numeral 5° de la Ley 21416, publicada el 14.02.2022, agrega un artículo transitorio nuevo a la presente norma, razón por la cual se ha incorporado a continuación del artículo 5° transitorio, al no señalarse lugar ni número que corresponde de acuerdo al texto publicado.
+#### Artículo 7°
+
+Prorrógase por dos años, contados desde la fecha de vencimiento consignada en el documento, la vigencia de todas las licencias de conductor cuyo control correspondía realizar originalmente durante el año 2022.
+
+Prorrógase por un año, contado desde la fecha de vencimiento consignada en el documento, la vigencia de todas las licencias de conductor cuyo control corresponda realizar originalmente durante los años 2023 y 2024.
+
+Las licencias no profesionales clase B, C o especiales cuyo control corresponda realizar originalmente durante los años 2020, 2021, 2022, 2023 y 2024, se renovarán por el plazo que resta conforme lo establecido en el artículo 19, contado desde la fecha de vencimiento consignada en el documento. Para el caso de las licencias profesionales y aquellas que se hayan otorgado conforme al inciso final del artículo 22, su renovación se otorgará por el término que corresponda de acuerdo a las reglas generales.
 
 Tómese razón, regístrese, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- Carlos Maldonado Curti, Ministro de Justicia.
 
