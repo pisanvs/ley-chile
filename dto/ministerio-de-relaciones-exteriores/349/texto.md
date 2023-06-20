@@ -84,6 +84,12 @@ b) Cooperará con otras Partes del anexo I para fomentar la eficacia individual 
 
 1. Las Partes incluidas en el anexo I se asegurarán, individual o conjuntamente, de que sus emisiones antropógenas agregadas, expresadas en dióxido de carbono equivalente, de los gases de efecto invernadero enumerados en el anexo A no excedan de las cantidades atribuidas a ellas, calculadas en función de los compromisos cuantificados de limitación y reducción de las emisiones consignados para ellas en el anexo B y de conformidad con lo dispuesto en el presente artículo, con miras a reducir el total de sus emisiones de esos gases a un nivel inferior en no menos de 5% al de 1990 en el período de compromiso comprendido entre el año 2008 y el 2012.
 
+1 bis. Las Partes incluidas en el anexo I se asegurarán, individual o conjuntamente, de que sus emisiones antropógenas agregadas, expresadas en dióxido de carbono equivalente, de los gases de efecto invernadero enumerados en el anexo A no excedan de las cantidades atribuidas a ellas, calculadas en función de los compromisos cuantificados de limitación y reducción de las emisiones consignados para ellas en la tercera columna del cuadro contenido en el anexo B y de conformidad con lo dispuesto en el presente artículo, con miras a reducir el total de sus emisiones de esos gases a un nivel inferior en no menos del 18% al de 1990 en el período de compromiso comprendido entre los años 2013 y 2020.
+
+1 ter. Las Partes incluidas en el anexo B podrán proponer un ajuste para reducir el porcentaje consignado en la tercera columna del anexo B de su compromiso cuantificado de limitación y reducción de las emisiones consignado en la tercera columna del cuadro que figura en el anexo B. La secretaría deberá comunicar esa propuesta de ajuste a las Partes al menos tres meses antes del período de sesiones de la Conferencia de las Partes en calidad de reunión de las Partes en el presente Protocolo en que se proponga su aprobación.
+
+1 quater. Los ajustes propuestos por las Partes incluidas en el anexo I para aumentar el nivel de ambición de su compromiso cuantificado de limitación y reducción de las emisiones de conformidad con el artículo 3, párrafo 1 ter supra, se considerarán aprobados por la Conferencia de las Partes en calidad de reunión de las Partes en el presente Protocolo a menos que objeten a su aprobación más de tres cuartos de las Partes presentes y votantes. La secretaría comunicará los ajustes aprobados al Depositario, que los hará llegar a todas las Partes. Los ajustes entrarán en vigor el 1 de enero del año siguiente a la comunicación por el Depositario, y serán vinculantes para las Partes.
+
 2. Cada una de las Partes incluidas en el anexo I deberá poder demostrar para el año 2005 un avance concreto en el cumplimiento de sus compromisos contraídos en virtud del presente Protocolo.
 
 3. Las variaciones netas de las emisiones por las fuentes y la absorción por los sumideros de gases de efecto invernadero que se deban a la actividad humana directamente relacionada con el cambio del uso de la tierra y la silvicultura, limitada a la forestación, reforestación y deforestación desde 1990, calculadas como variaciones verificables del carbono almacenado en cada período de compromiso, serán utilizadas a los efectos de cumplir los compromisos de cada Parte incluida en el anexo I dimanantes del presente artículo. Se informará de las emisiones por las fuentes y la absorción por los sumideros de gases de efecto invernadero que guarden relación con esas actividades de una manera transparente y verificable y se las examinará de conformidad con lo dispuesto en los artículos 7 y 8.
@@ -96,7 +102,13 @@ b) Cooperará con otras Partes del anexo I para fomentar la eficacia individual 
 
 7. En el primer período de compromiso cuantificado de limitación y reducción de las emisiones, del año 2008 al 2012, la cantidad atribuida a cada Parte incluida en el anexo I será igual al porcentaje consignado para ella en el anexo B de sus emisiones antropógenas agregadas, expresadas en dióxido de carbono equivalente, de los gases de efecto invernadero enumerados en el anexo A correspondientes a 1990, o al año o período de base determinado con arreglo al párrafo 5 supra, multiplicado por cinco. Para calcular la cantidad que se les ha de atribuir, las Partes del anexo I para las cuales el cambio del uso de la tierra y la silvicultura constituían una fuente neta de emisiones de gases de efecto invernadero en 1990 incluirán en su año de base 1990 o período de base las emisiones antropógenas agregadas por las fuentes, expresadas en dióxido de carbono equivalente, menos la absorción por los sumideros en 1990 debida al cambio del uso de la tierra.
 
-8. Toda Parte incluida en el anexo I podrá utilizar el año 1995 como su año de base para los hidrofluorocarbonos, los perfluorocarbonos y el hexafluoruro de azufre para hacer los cálculos a que se refiere el párrafo 7 supra.
+7 bis. En el segundo período de compromiso cuantificado de limitación y reducción de las emisiones, de 2013 a 2020, la cantidad atribuida a cada Parte incluida en el anexo I será igual al porcentaje consignado para ella en la tercera columna del cuadro contenido en el anexo B de sus emisiones antropógenas agregadas, expresadas en dióxido de carbono equivalente, de los gases de efecto invernadero enumerados en el anexo A correspondientes a 1990, o al año o período de base determinado con arreglo al párrafo 5 supra, multiplicado por ocho. A los efectos de calcular la cantidad que se les ha de atribuir, las Partes incluidas en el anexo I para las cuales el cambio de uso de la tierra y la silvicultura constituían una fuente neta de emisiones de gases de efecto invernadero en 1990 incluirán en su año de base 1990 o período de base las emisiones antropógenas agregadas por las fuentes menos la absorción antropógena agregada por los sumideros, expresadas en dióxido de carbono equivalente, derivadas del cambio de uso de la tierra en 1990.
+
+7 ter. Toda diferencia positiva entre la cantidad atribuida en el segundo período de compromiso a una Parte incluida en el anexo I y el promedio de sus emisiones anuales en los tres primeros años del período de compromiso precedente multiplicado por ocho, se transferirá a la cuenta de cancelación de esa Parte.
+
+8. Toda Parte incluida en el anexo I podrá utilizar el año 1995 como su año de base para los hidrofluorocarbonos, los perfluorocarbonos y el hexafluoruro de azufre para hacer los cálculos a que se refieren los párrafos 7 y 7 bis supra.
+
+8 bis. Toda Parte incluida en el anexo I podrá utilizar el año 1995 o 2000 como su año de base para el trifluoruro de nitrógeno a los efectos del cálculo a que se refiere el párrafo 7 bis supra.
 
 9. Los compromisos de las Partes incluidas en el anexo I para los períodos siguientes se establecerán en enmiendas al anexo B del presente Protocolo que se adoptarán de conformidad con lo dispuesto en el párrafo 7 del artículo 21. La Conferencia de las Partes en calidad de reunión de las Partes en el presente Protocolo comenzará a considerar esos compromisos al menos siete años antes del término del primer período de compromiso a que se refiere el párrafo 1 supra.
 
@@ -106,6 +118,10 @@ b) Cooperará con otras Partes del anexo I para fomentar la eficacia individual 
 
 12. Toda unidad de reducción certificada de emisiones que adquiera una Parte de otra Parte con arreglo a lo dispuesto en el artículo 12 se agregará a la cantidad atribuida a la Parte que la adquiera.
 
+12 bis. Toda unidad generada a partir de los mecanismos de mercado que se establezcan en el marco de la Convención o de sus instrumentos podrá ser utilizada por las Partes incluidas en el anexo I como ayuda para cumplir sus compromisos cuantificados de limitación y reducción de las emisiones de conformidad con el artículo 3. Las unidades de este tipo que adquiera una Parte de otra Parte en la Convención se sumarán a la cantidad atribuida a la Parte que las adquiera y se restarán de la cantidad de unidades en poder de la Parte que las transfiera.
+
+12 ter. La Conferencia de las Partes en calidad de reunión de las Partes en el presente Protocolo se asegurará de que, en los casos en que las Partes incluidas en el anexo I utilicen unidades procedentes de actividades aprobadas en el marco de los mecanismos de mercado a que se hace referencia en el párrafo 12 bis supra como ayuda para cumplir sus compromisos cuantificados de limitación y reducción de las emisiones de conformidad con el artículo 3, una parte de esas unidades se destine a sufragar los gastos administrativos y a ayudar a las Partes que son países en desarrollo particularmente vulnerables a los efectos adversos del cambio climático a hacer frente a los costos de la adaptación, si esas unidades se adquieren con arreglo al artículo 17.
+
 13. Si en un período de compromiso las emisiones de una Parte incluida en el anexo I son inferiores a la cantidad atribuida a ella en virtud del presente artículo, la diferencia se agregará, a petición de esa Parte, a la cantidad que se atribuya a esa Parte para futuros períodos de compromiso.
 
 14. Cada Parte incluida en el anexo I se empeñará en cumplir los compromisos señalados en el párrafo 1 supra de manera que se reduzcan al mínimo las repercusiones sociales, ambientales y económicas adversas para las Partes que son países en desarrollo, en particular las mencionadas en los párrafos 8 y 9 del artículo 4 de la Convención. En consonancia con las decisiones pertinentes de la Conferencia de las Partes sobre la aplicación de esos párrafos, la Conferencia de las Partes en calidad de reunión de las Partes en el presente Protocolo estudiará en su primer período de sesiones las medidas que sea necesario tomar para reducir al mínimo los efectos adversos del cambio climático y/o el impacto de la aplicación de medidas de respuesta para las Partes mencionadas en esos párrafos. Entre otras, se estudiarán cuestiones como la financiación, los seguros y la transferencia de tecnología.
@@ -114,9 +130,9 @@ b) Cooperará con otras Partes del anexo I para fomentar la eficacia individual 
 
 1. Se considerará que las Partes incluidas en el anexo I que hayan llegado a un acuerdo para cumplir conjuntamente sus compromisos dimanantes del artículo 3 han dado cumplimiento a esos compromisos si la suma total de sus emisiones antropógenas agregadas, expresadas en dióxido de carbono equivalente, de los gases de efecto invernadero enumerados en el anexo A no excede de las cantidades atribuidas a ellas, calculadas en función de los compromisos cuantificados de limitación y reducción de las emisiones consignados para ellas en el anexo B y de conformidad con lo dispuesto en el artículo 3. En el acuerdo se consignará el nivel de emisión respectivo asignado a cada una de las Partes en el acuerdo.
 
-2. Las Partes en todo acuerdo de este tipo notificarán a la secretaría el contenido del acuerdo en la fecha de depósito de sus instrumentos de ratificación, aceptación o aprobación del presente Protocolo o de adhesión a éste. La secretaría informará a su vez a las Partes y signatarios de la Convención el contenido del acuerdo.
+2. Las Partes en todo acuerdo de este tipo notificarán a la secretaría el contenido del acuerdo en la fecha de depósito de sus instrumentos de ratificación, aceptación o aprobación del presente Protocolo o de adhesión a éste, o en la fecha de depósito de sus instrumentos de aceptación de cualquier enmienda al anexo B de conformidad con el artículo 3, párrafo 9. La secretaría informará a su vez a las Partes y signatarios de la Convención el contenido del acuerdo.
 
-3. Todo acuerdo de este tipo se mantendrá en vigor mientras dure el período de compromiso especificado en el párrafo 7 del artículo 3.
+3. Todo acuerdo de este tipo se mantendrá en vigor mientras dure el período de compromiso especificado en el artículo 3 al que se refiera.
 
 4. Si las Partes que actúan conjuntamente lo hacen en el marco de una organización regional de integración económica y junto con ella, toda modificación de la composición de la organización tras la aprobación del presente Protocolo no incidirá en los compromisos ya vigentes en virtud del presente Protocolo. Todo cambio en la composición de la organización se tendrá en cuenta únicamente a los efectos de los compromisos que en virtud del artículo 3 se contraigan después de esa modificación.
 
@@ -396,17 +412,19 @@ ANEXO A
 
 Gases de efecto invernadero
 
-Dióxido de carbono (CO 2)
+Dióxido de carbono (CO2)
 
-Metano (CH4 )
+Metano (CH4)
 
-Óxido nitroso (N2 O)
+Óxido nitroso (N2O)
 
 Hidrofluorocarbonos (HFC)
 
 Perfluorocarbonos (PFC)
 
-Hexafluoruro de azufre (SF6 )
+Hexafluoruro de azufre (SF6)
+
+Trifluoruro de nitrógeno (NF3) (1)
 
 Sectores/categorías de fuentes
 
@@ -478,96 +496,46 @@ Otros
 
 ANEXO B
 
-Parte Compromiso cuantificado
+.
 
-de limitacion o reduccion
-
-de las emisiones (% del
-
-nivel de año o período
-
-de base)
-
-Alemania 92
-
-Australia 108
-
-Austria 92
-
-Bélgica 92
-
-Bulgaria* 92
-
-Canadá 94
-
-Comunidad Europea 92
-
-Croacia* 95
-
-Dinamarca 92
-
-Eslovaquia* 92
-
-Eslovenia* 92
-
-España 92
-
-Estados Unidos de América 93
-
-Estonia* 92
-
-Federación Rusa* 100
-
-Finlandia 92
-
-Francia 92
-
-Grecia 92
-
-Hungría* 94
-
-Irlanda 92
-
-Islandia 110
-
-Italia 92
-
-Japón 94
-
-Letonia* 92
-
-Liechtenstein 92
-
-Lituania* 92
-
-Luxemburgo 92
-
-Mónaco 92
-
-Noruega 101
-
-Nueva Zelandia 100
-
-Países Bajos 92
-
-Polonia* 94
-
-Portugal 92
-
-Reino Unido de Gran
-
-Bretaña e Irlanda del
-
-Norte 92
-
-República Checa* 92
-
-Rumania* 92
-
-Suecia 92
-
-Suiza 92
-
-Ucrania* 100
+Abreviatura: n.a. = no se aplica.
 
 * Países que están en proceso de transición a una economía de mercado.
+
+Todas las notas, a excepción de las notas 1, 2 y 5, proceden de las comunicaciones de las respectivas Partes.
+
+1 Las Partes podrán, a título facultativo y para sus propios fines, utilizar un año de referencia para expresar sus compromisos cuantificados de limitación o reducción de las emisiones (CCLRE) como un porcentaje de las emisiones de ese año, que no será internacionalmente vinculante en el marco del Protocolo de Kyoto, además de indicar sus CCLRE en relación con el año de base en la segunda y la tercera columna de este cuadro, que sí son internacionalmente vinculantes.
+
+2 En los documentos FCCC/SB/2011/INF.1/Rev.1 y FCCC/KP/AWG/2012/MISC.1, Add.l y Add.2, figura más información sobre estas promesas.
+
+3 El CCLRE de Australia para el segundo período de compromiso del Protocolo de Kyoto es coherente con el logro de la meta incondicional de Australia para el año 2020 del 5% con respecto a los niveles de 2000. Australia se reserva la opción de elevar ulteriormente su meta para 2020 del 5% al 15% o al 25% con respecto a los niveles de 2000, con sujeción a que se cumplan determinadas condiciones. Esta indicación mantiene el carácter de las promesas formuladas en el marco de los Acuerdos de Cancún, y no constituye un nuevo compromiso jurídicamente vinculante con arreglo al presente Protocolo o a sus normas y modalidades conexas.
+
+4 Los CCLRE de la Unión Europea y sus Estados miembros para un segundo período de compromiso del Protocolo de Kyoto se basan en el entendimiento de que dichos compromisos serán cumplidos conjuntamente por la Unión Europea y sus Estados miembros, de conformidad con lo dispuesto en el artículo 4 del Protocolo de Kyoto.
+
+Los CCLRE se consignan sin perjuicio de que la Unión Europea y sus Estados miembros notifiquen ulteriormente la adopción de un acuerdo para cumplir sus compromisos en forma conjunta, de conformidad con lo dispuesto en el Protocolo de Kyoto.
+
+5 Añadido al anexo B mediante enmienda aprobada en virtud de la decisión 10/CMP.2. La enmienda aún no ha entrado en vigor.
+
+6 El CCLRE de Croacia para un segundo período de compromiso del Protocolo de Kyoto se basa en el entendimiento de que Croacia cumplirá dicho compromiso conjuntamente con la Unión Europea y sus Estados miembros, de conformidad con lo dispuesto en el artículo 4 del Protocolo de Kyoto. Por consiguiente, la adhesión de Croacia a la Unión Europea no afectará a su participación en este acuerdo de cumplimiento conjunto en virtud del artículo 4 ni a su CCLRE.
+
+7 En el marco de un acuerdo mundial e integral para el período posterior a 2012, la Unión Europea reitera su oferta condicional de asumir una reducción de las emisiones del 30% para el año 2020 con respecto a los niveles de 1990, a condición de que otros países desarrollados se comprometan a aplicar reducciones comparables de sus emisiones y los países en desarrollo hagan una contribución adecuada con arreglo a sus responsabilidades y sus capacidades respectivas.
+
+8 El CCLRE de Islandia para un segundo período de compromiso del Protocolo de Kyoto se basa en el entendimiento de que Islandia cumplirá dicho compromiso conjuntamente con la Unión Europea y sus Estados miembros, de conformidad con lo dispuesto en el artículo 4 del Protocolo de Kyoto.
+
+9 El CCLRE que figura en la tercera columna se refiere a una meta de reducción del 20% para el año 2020 con respecto a los niveles de 1990. Liechtenstein estudiaría la posibilidad de elevar su meta de reducción de las emisiones al 30% para 2020 con respecto a los niveles de 1990, a condición de que otros países desarrollados se comprometieran a aplicar reducciones comparables de sus emisiones y los países en desarrollo más avanzados económicamente hicieran una contribución adecuada con arreglo a sus responsabilidades y sus capacidades respectivas.
+
+10 El CCLRE de Noruega del 84% es coherente con su meta del 30% de reducción de las emisiones para 2020 con respecto a los niveles de 1990. Si con ello puede contribuir a un acuerdo mundial e integral en el que las Partes que son los principales emisores acepten reducciones de las emisiones acordes a la meta de 2º C, Noruega adoptará un nivel de reducción de las emisiones del 40% para 2020 con respecto a los niveles de 1990. Esta indicación mantiene el carácter de la promesa formulada en el marco de los Acuerdos de Cancún, y no constituye un nuevo compromiso jurídicamente vinculante con arreglo al presente Protocolo.
+
+11 El CCLRE que figura en la tercera columna de este cuadro se refiere a una meta de reducción del 20% para 2020 con respecto a los niveles de 1990. Suiza estudiaría la posibilidad de elevar su meta de reducción de las emisiones al 30% para 2020 con respecto a los niveles de 1990, con sujeción a que otros países desarrollados se comprometieran a aplicar reducciones comparables de sus emisiones y los países en desarrollo hicieran una contribución adecuada con arreglo a sus responsabilidades y capacidades, en consonancia con la meta de los 2º C.
+
+Esta indicación mantiene el carácter de la promesa formulada en el marco de los Acuerdos de Cancún, y no constituye un nuevo compromiso jurídicamente vinculante con arreglo al presente Protocolo o a sus normas y modalidades conexas.
+
+12 Se arrastrará en su totalidad, y no se aceptará ninguna cancelación o limitación del uso de este bien soberano legítimamente adquirido.
+
+13 El 15 de diciembre de 2011, el Depositario recibió una notificación por escrito del retiro del Canadá del Protocolo de Kyoto. Esta medida entrará en vigor para el Canadá el 15 de diciembre de 2012.
+
+14 En una comunicación de fecha 10 de diciembre de 2010, el Japón indicó que no tenía intención de quedar obligado por el segundo período de compromiso del Protocolo de Kyoto después de 2012.
+
+15 Nueva Zelandia sigue siendo Parte en el Protocolo de Kyoto. Adoptará una meta cuantificada de reducción de las emisiones para el conjunto de la economía con arreglo a la Convención Marco de las Naciones Unidas sobre el Cambio Climático en el período 2013 a 2020.
+
+16 En una comunicación de fecha 8 de diciembre de 2010, que la secretaría recibió el 9 de diciembre de 2010, la Federación de Rusia indicó que no tenía intención de asumir un compromiso cuantificado de limitación o reducción de las emisiones para el segundo período de compromiso.
