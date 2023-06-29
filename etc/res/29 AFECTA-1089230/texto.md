@@ -368,13 +368,11 @@ La no presentación de la primera solicitud de desembolso dentro del plazo de 90
 
 En casos calificados y si las características de las inversiones que se financian lo justifican, el CEC podrá otorgar prórrogas a esos plazos, previa solicitud presentada por los Intermediarios Financieros con una anticipación de al menos 30 días previos al vencimiento de los plazos descritos con anterioridad.
 
-22. Comisión por modificación de condiciones originales de préstamos aprobados.
-
-Las modificaciones posteriores al desembolso que soliciten los IFI de préstamos de refinanciamiento aprobados que obliguen a cambios o canjes de pagarés o modificaciones de escrituras suscritas, estarán afectas a una comisión de gestión. Esta comisión corresponderá a un 0,25% del saldo deudor de capital de la operación vigente al momento de aprobarse la modificación y tendrá un mínimo de UF10 y un máximo de UF100.
+### 22. Suprimido
 
 ### 23. Reprogramación de Operaciones
 
-El Intermediario podrá reprogramar la operación acogida al Crédito Solar CSP, para lo cual deberá solicitar previamente la aprobación al Gerente de Inversión y Financiamiento, en adelante "el Gerente".
+El Intermediario podrá reprogramar la operación acogida al Crédito Solar CSP otorgada al beneficiario final. Posteriormente, el Intermediario entregará, mediante comunicación dirigida al Gerente de Inversión y Financiamiento, en adelante "el Gerente", los antecedentes de dicha reprogramación. El Gerente una vez realizado el estudio de los antecedentes tenidos a la vista, presentará al CEC la solicitud de reprogramación del préstamo del Intermediario con Corfo, en las mismas condiciones de plazo, moneda y reajustabilidad en que el Intermediario reprogramó la operación con el beneficiario final.
 
 Las reprogramaciones de las operaciones de Leasing podrán considerar un ajuste en el valor del bien adquirido.
 
@@ -382,13 +380,13 @@ Las operaciones reprogramadas no pueden exceder el monto máximo definido en est
 
 Las reprogramaciones no podrán contener una disminución del plazo originalmente pactado con el beneficiario final. Además, la operación original más el plazo adicional de la reprogramación no podrá exceder el plazo máximo establecido en esta normativa.
 
-La tasa de interés aplicada por el Intermediario Financiero a la reprogramación debe ser inferior a la tasa máxima convencional a la fecha de la reprogramación. Asimismo, la tasa de interés de CORFO al Intermediario Financiero podrá corresponder a la más alta entre la tasa vigente al momento en que se realizó la solicitud original y la tasa vigente al momento de la reprogramación, teniendo como referencia la tasa máxima convencional vigente al momento de la reprogramación. La reprogramación de las operaciones podrá modificar la frecuencia de pago definida en la operación original.
+La tasa de interés aplicada por el Intermediario Financiero, producto de la reprogramación del crédito con el beneficiario final, deberá corresponder a la tasa de interés cursada en la operación original, teniendo como referencia la tasa máxima convencional vigente al momento de la reprogramación. Asimismo, la tasa de interés del préstamo Corfo otorgado al Intermediario Financiero corresponderá a la tasa vigente al momento en que se realizó la solicitud original, teniendo como referencia la tasa máxima convencional vigente al momento de la reprogramación. La reprogramación de las operaciones podrá modificar la frecuencia de pago definida en la operación original, siempre que esta nueva frecuencia se ajuste a lo dispuesto en el numeral 11 del presente Reglamento.
 
 En caso de una reprogramación, el capital de la operación podrá verse incrementado únicamente por intereses por mora, intereses capitalizados por concepto de periodo de gracia y los siguientes gastos asociados al proceso de reprogramación: gastos notariales y el costo de las primas de seguros cuyo objetivo sea garantizar únicamente el pago de cuotas impagas del crédito, tales como seguro de desgravamen, seguro de cesantía o seguro de invalidez.
 
 En ningún caso el capital de la operación reprogramada podrá superar el monto de capital original. En caso que exista aumento de capital por concepto de la reprogramación de la operación, el Intermediario Financiero deberá disponer de otras fuentes de financiamiento para cubrir ese diferencial, si corresponde.
 
-El CEC aprobará la reprogramación siempre que la operación cumpla con las condiciones definidas en este numeral y las demás condiciones del presente Reglamento.
+El CEC aprobará la reprogramación del préstamo otorgado al intermediario financiero, siempre que la operación cumpla con las condiciones definidas en este numeral y las demás condiciones del presente Reglamento.
 
 ### 24. Revisión de las operaciones financiadas
 
