@@ -236,15 +236,13 @@ Los Organismos Administradores deberán brindar asistencia técnica a las entida
 
 #### Artículo 11
 
-Las secretarías regionales ministeriales de salud y las Mutualidades de Empleadores remitirán por carta certificada a las respectivas entidades empleadoras, o por carta entregada personalmente al representante legal de ellas, a más tardar en septiembre del año en que se realice la evaluación, el Promedio Anual de Trabajadores y una nómina de sus trabajadores que durante el Período de Evaluación hubieren sufrido incapacidades o muertes a consecuencia de un accidente del trabajo o de una enfermedad profesional. La nómina señalará respecto de cada trabajador, el número de Días Perdidos y los grados de invalideces.
+El Instituto de Seguridad Laboral, por cuenta de las Secretarías Regionales Ministeriales de Salud, y las Mutualidades de Empleadores comunicarán a las respectivas entidades empleadoras, por carta certificada, por carta entregada personalmente a su representante legal o por correo electrónico a aquéllas que consientan en ser notificadas por este último medio, a más tardar en septiembre del año en que se realice la evaluación, el Promedio Anual de Trabajadores y una nómina de sus trabajadores que durante el Período de Evaluación hubieren sufrido incapacidades o muertes a consecuencia de un accidente del trabajo o de una enfermedad profesional. La nómina señalará respecto de cada trabajador, el número de Días Perdidos y los grados de invalideces.
 
-Además, en dicha carta los organismos administradores deberán informar a las entidades empleadoras respecto del inicio del Proceso de Evaluación, y a las que pudieran acceder a rebaja o exención de la cotización adicional se lo señalarán expresamente y les comunicarán, además, los requisitos que deben acreditar para acceder a dicha rebaja o exención, indicándoles el plazo para ello.
+Además, en dicha comunicación los organismos administradores deberán informar a las entidades empleadoras respecto del inicio del Proceso de Evaluación, y a las que pudieran acceder a rebaja o exención de la cotización adicional se lo señalarán expresamente y les comunicarán, además, los requisitos que deben acreditar para acceder a dicha rebaja o exención, indicándoles el plazo para ello.
 
-No regirá esta obligación respecto de las entidades empleadoras que no cumplen el requisito para ser evaluadas, señalado en el artículo 7º. Sin embargo, en tales casos las secretarías regionales ministeriales de salud y las Mutualidades de Empleadores emitirán una resolución fundada acerca de las causas por las que no procede la evaluación, la que notificarán a la correspondiente entidad empleadora.
+No regirá esta obligación respecto de las entidades empleadoras que no cumplen el requisito para ser evaluadas, señalado en el artículo 7º. Sin embargo, en tales casos el Instituto de Seguridad Laboral, por cuenta de las secretarías regionales ministeriales de salud y las Mutualidades de Empleadores emitirán una resolución fundada acerca de las causas por las que no procede la evaluación, la que notificarán a la correspondiente entidad empleadora.
 
-La entidad empleadora podrá solicitar la rectificación de los errores de hecho en que hayan incurrido el Servicio de Salud respectivo o la Mutualidad de Empleadores, dentro de los quince días siguientes a la recepción de la carta certificada o a la notificación personal efectuada al representante legal, a que se refiere el inciso primero de este artículo. Para tales efectos, se entenderá que la carta certificada ha sido recibida al tercer día de recibida por la Oficina de Correos de Chile.
-
-> **Nota.** El artículo único del Decreto 54, Trabajo, publicado el 14.10.2005, modifica el presente artículo, en el sentido de reemplazar la expresión "los Servicios de Salud" por "las secretarías regionales ministeriales de salud". Sin embargo, no es posible efectuar el respectivo cambio en el inciso final por cuanto el texto modificado no coincide con dicha modificación expresa.
+La entidad empleadora podrá solicitar la rectificación de los errores de hecho en que hayan incurrido los organismos administradores, dentro de los quince días siguientes a la recepción de la carta certificada, correo electrónico o a la notificación personal efectuada al representante legal, a que se refiere el inciso primero de este artículo. Para tales efectos, se entenderá que la carta certificada ha sido recibida al tercer día de recibida por la Oficina de Correos de Chile, y si se hubiere practicado por correo electrónico, el día hábil siguiente al despacho.
 
 #### Artículo 12
 
@@ -372,13 +370,13 @@ Notificaciones, Plazos y Recursos
 
 #### Artículo 18
 
-Las resoluciones a que se refiere este decreto se notificarán por carta certificada dirigida al domicilio de la entidad empleadora o personalmente al representante legal de la misma o por correo electrónico, cuando las entidades empleadoras consientan expresamente en ser notificadas a la dirección de correo electrónico que señalen para ese efecto.
+Las resoluciones a que se refiere este decreto se notificarán por carta certificada dirigida al domicilio de la entidad empleadora o personalmente al representante legal de la misma o por correo electrónico, cuando las entidades empleadoras consientan expresamente en ser notificadas a la dirección de correo electrónico que señalen para ese efecto. El Instituto de Seguridad Laboral efectuará estas notificaciones por cuenta de las Secretarías Regionales Ministeriales de Salud.
 
 Respecto de las entidades empleadoras que se encuentran adheridas a una Mutualidad de Empleadores, el domicilio al que deberá dirigirse la carta certificada será el que hubieran señalado en su solicitud de ingreso a aquélla, a menos que posteriormente hubiesen designado uno nuevo en comunicación especialmente destinada al efecto. Tratándose de las entidades empleadoras afiliadas al Instituto de Seguridad Laboral, su domicilio será el que hayan consignado ante ese organismo.
 
 Si la resolución se hubiere notificado por carta certificada se tendrá como fecha de notificación el tercer día de recibida dicha carta en la Empresa de Correos de Chile y si se hubiere practicado por correo electrónico, el día hábil siguiente a su despacho.
 
-Corresponderá a la Superintendencia de Seguridad Social impartir instrucciones de carácter general a las mutualidades de empleadores y al Instituto de Seguridad Laboral, entre otros aspectos, sobre la forma y oportunidad en que podrán obtener el consentimiento expreso de las entidades empleadoras para ser notificadas por correo electrónico y sobre la forma y oportunidad en que ese Instituto, deberá informar a la secretaría regional ministerial de salud la dirección electrónica que las entidades empleadoras hubieren indicado para tal efecto.
+Corresponderá a la Superintendencia de Seguridad Social impartir instrucciones de carácter general a las mutualidades de empleadores y al Instituto de Seguridad Laboral, entre otros aspectos, sobre la forma y oportunidad en que podrán obtener el consentimiento expreso de las entidades empleadoras para ser notificadas por correo electrónico.
 
 En todo caso, será obligación de las entidades empleadoras, que hubieran consentido en ser notificadas por correo electrónico, en mantenerlo actualizado e informar oportunamente su voluntad de revocar su consentimiento o cualquier circunstancia que impida o dificulte su notificación por esa vía.
 
@@ -461,6 +459,14 @@ transitorio.- Si producto de la aplicación del proceso de evaluación del año 
 #### Artículo quinto
 
 transitorio.- Durante el Proceso de evaluación correspondiente al año 2021, las comunicaciones, informaciones y notificaciones a que se refiere este decreto, se efectuarán preferentemente a través de medios electrónicos. Tratándose de las entidades empleadoras afiliadas al Instituto de Seguridad Laboral, dicho organismo administrador efectuará las comunicaciones, informaciones y notificaciones de cargo de las Secretarías Regionales Ministeriales de Salud.
+
+#### Artículo sexto
+
+transitorio: Si producto de la aplicación del proceso de evaluación del año 2023, las entidades empleadoras que conforme al Clasificador Chileno de Actividades Económicas CIIU4.CL 2012, desarrollan actividades correspondientes a la sección Q "Actividades de atención de la salud humana y de asistencia social", aumentaren su tasa de cotización adicional diferenciada, éstas mantendrán desde enero de 2024 hasta diciembre de 2025, la tasa de cotización adicional diferenciada que deba aplicárseles al 31 de diciembre de 2023.
+
+#### Artículo séptimo
+
+transitorio: Para la determinación de la magnitud de la siniestralidad efectiva de los procesos de evaluación correspondientes a los años 2023 y 2025, se excluirá la enfermedad causada por el COVID-19, y aquellas patologías de origen laboral que afecten a trabajadores contagiados con COVID-19 y que deriven de esta enfermedad.
 
 Tómese razón, comuníquese, publíquese e insértese en la recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Germán Molina Valdivieso, Ministro del Trabajo y Previsión Social.- Alex Figueroa Muñoz, Ministro de Salud.
 
