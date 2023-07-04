@@ -102,7 +102,9 @@ De acuerdo a lo señalado en el artículo 19 del DS Nº 113, cuando las subastas
 
 El Coordinador deberá utilizar criterios conservadores en la programación de la operación del sistema eléctrico, a efectos de reducir la probabilidad de déficit energético del SEN.
 
-En este sentido, el Coordinador deberá utilizar una proyección de caudales afluentes para la primera semana de operación, a partir de la fecha de publicación del presente decreto en el Diario Oficial, igual o inferior a los caudales afluentes aprovechables promedio de las últimas dos semanas anteriores a la primera semana de operación señalada anteriormente. Asimismo, para las semanas siguientes y hasta completar dos meses, el Coordinador podrá utilizar una condición hidrológica que refleje la energía afluente del último mes. En todo caso, si el Coordinador contase con antecedentes que permitan respaldar el uso de una proyección de caudales afluentes menor a las señaladas anteriormente, deberá priorizar el uso de estos antecedentes.
+En este sentido, el Coordinador deberá utilizar una proyección de caudales afluentes para la primera semana de operación, a partir de la fecha de publicación del presente decreto en el Diario Oficial, igual o inferior a los caudales afluentes aprovechables promedio de las últimas dos semanas anteriores a la primera semana de operación señalada anteriormente. Asimismo, para las semanas siguientes y hasta completar dos meses, el Coordinador podrá utilizar una condición hidrológica que refleje la energía afluente del último mes, considerando las restricciones técnicas y operacionales de cada embalse y que minimice la probabilidad de vertimientos futuros en embalses estacionales y que no comprometa la seguridad de abastecimiento del Sistema Eléctrico Nacional.
+
+Sin perjuicio de lo anterior, en caso de que el Coordinador contase con antecedentes sobrevinientes que permitan respaldar el uso de una proyección de caudales afluentes distinta a la señalada anteriormente, deberá priorizar el uso de estos antecedentes.
 
 5. Optimización del mantenimiento de unidades generadoras
 
