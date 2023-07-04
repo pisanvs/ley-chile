@@ -24,21 +24,31 @@ Apruébase la siguiente Ordenanza Hídrica Local de la comuna de La Granja:
 
 DEL RIEGO DE ESPACIOS VERDES
 
-#### Artículo 1
+#### Artículo 1°
 
-Se prohíbe el riego de áreas verdes y de árboles en el bien nacional de uso público, entre las 12:00 y las 18:00 horas.
+En temporada de altas temperaturas, se prohíbe el riego de áreas verdes y de árboles en el Bien Nacional de Uso Público, entre las 12:00 y las 18:00 horas. En temporada de bajas temperaturas no habrá restricción horaria.
 
 DEL RIEGO MUNICIPAL
 
-#### Artículo 2
+#### Artículo 2°
 
 El servicio de riego municipal se realizará en los siguientes horarios:
 
-a) Primer turno, desde las 18:00 a las 6:00 horas.
+Temporada de altas temperaturas (enero-febrero-marzo-octubre-noviembre-diciembre)
 
-b) Segundo turno, desde las 6:00 a 12:00 horas.
+a) Primer turno, desde las 18:00 a las 06:00 horas.
+
+b) Segundo turno, desde las 06:00 a las 12:00 horas.
 
 Se exceptúa de esta disposición el riego de especies vegetales juveniles, recién plantadas, que requieran un riego constante, por lo que no tendrán restricción horaria.
+
+Temporada de bajas temperaturas (abril-mayo-junio-julio-agosto-septiembre)
+
+Sin restricción horaria.
+
+Cualquier solicitud para aumentar o disminuir el horario antes señalado, debe ser debidamente autorizado por la Dirección de Medio Ambiente, Aseo y Ornato.
+
+* Cabe señalar, que los meses de baja y altas temperaturas pueden cambiar, conforme a la ocurrencia de fenómenos climáticos que afecten a la Región Metropolitana, generando condiciones extremas en cualquier mes del año.
 
 DE LAS PROHIBICIONES
 
