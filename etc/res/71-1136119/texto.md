@@ -82,7 +82,7 @@ Los Consejeros deberán dar cumplimiento al principio de probidad administrativa
 
 El Consejo Directivo sesionará en Pleno o en Subcomités, conforme a lo que se dispone en el artículo 6° siguiente, y tendrá las facultades necesarias para acordar la dictación o celebración de todos los actos, contratos y operaciones conducentes al cumplimiento de los fines del Comité, en el ámbito de sus competencias, las que deberá ejercer en conformidad con las disposiciones legales y reglamentarias aplicables a Corfo.
 
-El Consejo Directivo, sea en Pleno o en Subcomités, se reunirá las veces y en la forma que él mismo determine. Convocado el Consejo por el Presidente, las citaciones las hará el/la Director/a Ejecutivo/a, o los/las Directores/as de Área, en el caso de los Subcomités. El quórum para que sesione el Consejo Directivo en Pleno, será de ocho miembros; y de simple mayoría, cuando sesione en Subcomité. Los Acuerdos se adoptarán por la mayoría de los miembros presentes.
+El Consejo Directivo, sea en Pleno o en Subcomités, se reunirá las veces y en la forma que él mismo determine. Convocado el Consejo por el Presidente, las citaciones las hará el/la Director/a Ejecutivo/a, o los/las Subdirectores/as de Área, en el caso de los Subcomités. El quórum para que sesione el Consejo Directivo en Pleno, será de ocho miembros; y de simple mayoría, cuando sesione en Subcomité. Los Acuerdos se adoptarán por la mayoría de los miembros presentes.
 
 Se entenderá que participan en las sesiones de sus órganos colegiados aquellos miembros que, a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de video conferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente, bajo certificación de quien presidió la sesión y de quien haga las veces de Secretario.
 
@@ -108,7 +108,7 @@ Si por vacancia temporal de algún cargo, o ausencia, impedimento o inhabilidad 
 
 Serán atribuciones del Consejo Directivo, sesionando en Subcomités:
 
-a) Resolver fundadamente, previa evaluación, las solicitudes de financiamiento parcial de proyectos o programas específicos, a propuesta del/de la Director/a Ejecutivo/a o de los/las Directores/as de Área, o la autoridad competente, según corresponda. Asimismo, podrá establecer condiciones de adjudicación y/o formalización a los proyectos o programas específicos cuyo financiamiento parcial fuere aprobado.
+a) Resolver fundadamente, previa evaluación, las solicitudes de financiamiento parcial de proyectos o programas específicos, a propuesta del/de la Director/a Ejecutivo/a o de los/las Subdirectores/as de Área, o la autoridad competente, según corresponda. Asimismo, podrá establecer condiciones de adjudicación y/o formalización a los proyectos o programas específicos cuyo financiamiento parcial fuere aprobado.
 
 b) Resolver fundadamente, respecto de proyectos en ejecución, las solicitudes de modificaciones de monto de cofinanciamiento y cambio de beneficiario, previo análisis de los antecedentes legales y técnicos pertinentes. Lo anterior, de conformidad con lo dispuesto en las bases que regulen el instrumento.
 
@@ -138,11 +138,15 @@ Ante la ausencia o impedimento del Presidente titular del Consejo Directivo y su
 
 La determinación del/de los Subcomité(s), su integración y presidencia, será establecida mediante acto administrativo por el/la Director/a Ejecutivo/a del Comité.
 
-### Párrafo 3° — "De la Dirección Ejecutiva"
+### Párrafo 3° — "De la Dirección Ejecutiva y de la Subdirección Ejecutiva"
 
 #### Artículo 10°
 
 El Comité tendrá un/a Director/a Ejecutivo/a, que corresponderá a la persona nombrada como Gerente de Innovación de Corfo.
+
+El Vicepresidente Ejecutivo de Corfo podrá designar a uno/a o más funcionarios/as de la Corporación y/o de sus Comités, como subrogantes del/de la Director/a Ejecutivo/a, para que, en el orden que determine, actúe(n) en caso de su ausencia o impedimento, con todas sus facultades, lo que no será necesario acreditar ante terceros.
+
+El Comité tendrá, además, un/a Subdirector/a Ejecutivo/a, cuya función principal será apoyar a la Dirección Ejecutiva en todas aquellas materias que permitan el correcto funcionamiento del Comité, coordinando y, en su caso, supervisando el accionar de sus Subdirecciones de Área y unidades operativas y de apoyo. Lo anterior, es sin perjuicio de las demás funciones que le encomienden el Consejo Directivo del Comité o el/la Director a Ejecutivo/a.
 
 #### Artículo 11°
 
@@ -168,7 +172,7 @@ h) Determinar el/los Subcomité/s que conocerá/n y resolverá/n acerca de las s
 
 Sin perjuicio del conocimiento conferido a los órganos señalados precedentemente, podrá, además, entregar el conocimiento, total o parcial, y la correspondiente asignación de recursos de los proyectos presentados a los Instrumentos de Financiamiento, a órganos colegiados a nivel regional, creados por el Consejo de Corfo, de acuerdo a las facultades que en cada caso se le otorguen.
 
-Asimismo, determinará la Dirección de Área encargada de la evaluación, seguimiento, control y cierre de los proyectos presentados a cada uno de los Instrumentos de Financiamiento, la que, además, propondrá al órgano decisor la aprobación o rechazo de las solicitudes de cofinanciamiento presentadas.
+Asimismo, determinará la Subdirección de Área encargada de la evaluación, seguimiento, control y cierre de los proyectos presentados a cada uno de los Instrumentos de Financiamiento, la que, además, propondrá al órgano decisor la aprobación o rechazo de las solicitudes de cofinanciamiento presentadas.
 
 i) Efectuar las compras de bienes y contratación de servicios específicos del giro, necesarios para el desarrollo de las funciones del Comité, conforme a la ley N° 19.886 y su Reglamento. En ejercicio de esta facultad, y sólo a modo ejemplar, podrá aprobar bases de licitación pública o privada, aprobar tratos directos, adjudicar procesos o recurrir a contratación a través de Convenios Marcos, dictar todo tipo de resoluciones, y aprobar y celebrar los contratos pertinentes.
 
@@ -188,7 +192,7 @@ p) Cautelar los recursos y bienes del Comité, y confeccionar y mantener al día
 
 q) Rectificar los errores de hecho de que puedan adolecer los Acuerdos del Consejo Directivo y del/ de los Subcomité/s.
 
-r) Fijar la organización del Comité, relativa al número, denominación y objeto de cada una de las Direcciones de Área, y demás unidades operativas y de apoyo a su gestión.
+r) Fijar la organización del Comité, relativa al número, denominación y funciones de cada una de las Subdirecciones de Área, y demás unidades operativas y de apoyo a su gestión, así como la dependencia de cada una.
 
 s) Contratar y finiquitar al personal profesional, técnico y administrativo que se considere necesario para ejecutar las actividades del Comité. Sin perjuicio de lo establecido en el Artículo 9° del decreto ley N° 1.953, de 1977, en el Artículo 62° de la ley N° 18.482, y en la resolución Conjunta N° 5, de 2005, modificada por las resoluciones N° 138, de 2007 y N° 2, de 2014, todas de los Ministerios de Economía, Fomento y Reconstrucción -hoy de Economía, Fomento y Turismo-, y de Hacienda, sus modificaciones o el texto que las remplace, los trabajadores dependientes que se contraten en uso de esta atribución tendrán el carácter de particulares, rigiéndose por el Código del Trabajo y leyes complementarias, en los términos establecidos por la Contraloría General de la República en esta materia. Dentro de esta facultad, el Director Ejecutivo podrá disponer y contratar para los funcionarios del Comité la capacitación que estime necesaria, como también dictar los actos relativos a temas laborales y de seguridad social.
 
@@ -204,11 +208,11 @@ u) Determinar los Subcomités, junto con su integración y Consejero a quien cor
 
 v) Ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité, o el Consejo de la Corporación o el Vicepresidente Ejecutivo, estimen conveniente asignarle.
 
-### Párrafo 4° — "De las Direcciones Operativas"
+### Párrafo 4° — "De la Dirección Jurídica"
 
 #### Artículo 12°
 
-El Comité tendrá un Director Jurídico, y un Director por cada Dirección de Área de las señaladas en el Párrafo 5°.
+El Comité tendrá un Director Jurídico, y un/a Subdirector/a por cada Subdirección de Área de las señaladas en el Párrafo 5°.
 
 #### Artículo 13°
 
@@ -228,9 +232,9 @@ b) Coordinar la aplicación de normas y criterios jurídicos uniformes a nivel n
 
 c) Asistir a las sesiones de Consejo Directivo y de Subcomité/s y certificar la asistencia a éstas de sus miembros; levantar actas de las mismas; y certificar los Acuerdos que el Consejo Directivo, en Pleno o en Subcomité, adopte en dichas sesiones. Para el desempeño de las funciones indicadas en esta letra, el/la Fiscal de la Corporación podrá designar a uno/a o más abogados/as de Corfo y/o de sus Comités, como subrogantes especiales del Director Jurídico.
 
-d) Gestionar la confección y visar los actos jurídicos, convenios y contratos, y los actos administrativos que deba dictar el/la Director/a Ejecutivo/a en el ámbito de sus competencias, incluido el texto definitivo de las resoluciones que aprueban las bases de los Instrumentos de Financiamiento del Comité, en coordinación con la Dirección de Área pertinente.
+d) Gestionar la confección y visar los actos jurídicos, convenios y contratos, y los actos administrativos que deba dictar el/la Director/a Ejecutivo/a en el ámbito de sus competencias, incluido el texto definitivo de las resoluciones que aprueban las bases de los Instrumentos de Financiamiento del Comité, en coordinación con la Subdirección de Área pertinente.
 
-e) Comunicar a los postulantes, beneficiarios, peticionarios y a terceros, los actos administrativos y, en general, todas las actuaciones y decisiones adoptadas por las autoridades del Comité y su Consejo Directivo o Subcomité/s, sin perjuicio de las facultades que hayan sido entregadas a los Directores de Área, Directores Regionales de la Corporación y otras delegaciones efectuadas por el Consejo de la Corporación. Por razones de buen servicio, el cumplimiento material de esta tarea podrá ser encomendada por el Director Jurídico a otros funcionarios de su dependencia.
+e) Comunicar a los postulantes, beneficiarios, peticionarios y a terceros, los actos administrativos y, en general, todas las actuaciones y decisiones adoptadas por las autoridades del Comité y su Consejo Directivo o Subcomité/s, sin perjuicio de las facultades que hayan sido entregadas a los/as Subdirectores/as de Área, Directores Regionales de la Corporación y otras delegaciones efectuadas por el Consejo de la Corporación. Por razones de buen servicio, el cumplimiento material de esta tarea podrá ser encomendada por el Director Jurídico a otros funcionarios de su dependencia.
 
 f) Visar los avisos sobre aperturas o llamados de los Instrumentos de Financiamiento del Comité que deban ser publicados en diarios, cualquiera sea su soporte.
 
@@ -240,13 +244,13 @@ h) Suscribir los convenios de subsidio y sus modificaciones, y dictar las resolu
 
 El/La Fiscal de la Corporación podrá designar a uno/a o más abogados/as de Corfo y/o de sus Comités, como subrogantes del/de la Director/a Jurídico/a, para que actúe(n) en caso de su ausencia o impedimento.
 
-### Párrafo 5° — "De las Direcciones de Área"
+### Párrafo 5° — "De las Subdirecciones Operativas
 
 #### Artículo 14°
 
 Al/a los Director/es de Área a quien/es la Dirección Ejecutiva encomiende la evaluación, seguimiento, control y cierre de los proyectos asociados a determinados Instrumentos de Financiamiento, o de proyectos postulados y adjudicados en llamados específicos, le/s corresponderá, entre otras, y sin perjuicio de las delegaciones efectuadas en otras autoridades de Corfo a sus Comités, las siguientes tareas:
 
-a) Distribuir y organizar el trabajo de los directivos, profesionales y administrativos asignados a la Dirección de Área respectiva.
+a) Distribuir y organizar el trabajo de los directivos, profesionales y administrativos asignados a la Subdirección de Área respectiva.
 
 b) Resolver fundadamente acerca de la admisibilidad técnica de los proyectos postulados, de acuerdo a lo que establezcan las respectivas bases del instrumento.
 
