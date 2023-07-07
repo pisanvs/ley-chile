@@ -132,11 +132,7 @@ Las personas contratadas a honorarios se regirán por las reglas que establezca 
 
 Para ingresar a la Administración del Estado será necesario cumplir los siguientes requisitos:
 
-a) Ser ciudadano;
-
-No obstante, en casos de excepción determinados por la autoridad llamada a hacer el nombramiento, podrá designarse en empleos a contrata a extranjeros que posean conocimientos científicos o de carácter especial. Los respectivos decretos o resoluciones de la autoridad deberán ser fundados, especificándose claramente la especialidad que se requiere para el empleo y acompañándose el certificado o título del postulante.
-
-En todo caso, en igualdad de condiciones, se preferirá a los chilenos.
+a) Ser ciudadano o extranjero poseedor de un permiso de residencia.
 
 b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere procedente;
 
@@ -262,7 +258,7 @@ Podrán hacerse concursos destinados a disponer de un conjunto de postulantes el
 
 #### Artículo 22
 
-La autoridad facultada para hacer el nombramiento seleccionará a una de las personas propuestas y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original o en copia autentificada ante Notario, los documentos probatorios de los requisitos de ingreso señalados en el artículo 13 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
+La autoridad facultada para hacer el nombramiento seleccionará a una de las personas propuestas y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original, copia autentificada ante Notario o a través de documento electrónico suscrito con las formalidades que en cada caso exija la ley, los documentos probatorios de los requisitos de ingreso señalados en el artículo 13 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
 
 #### Artículo 23
 

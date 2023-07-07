@@ -1600,7 +1600,7 @@ Las organizaciones titulares de áreas de manejo, podrán solicitar, en aquellos
 
 #### Artículo 55
 
-E.- En el evento que dos o más organizaciones de pescadores artesanales soliciten acceder a una misma área de manejo, y, a lo menos, dos de ellas cumplan con los requisitos exigidos por esta ley y el reglamento, podrá asignarse en forma conjunta, previo acuerdo voluntario de estas organizaciones, el cual deberá constar por escrito y debidamente autorizado por notario público. En caso de no existir tal acuerdo, se preferirá a aquella organización que no sea titular de un área de manejo.
+E.- En el evento que dos o más organizaciones de pescadores artesanales soliciten acceder a una misma área de manejo, y, a lo menos, dos de ellas cumplan con los requisitos exigidos por esta ley y el reglamento, podrá asignarse en forma conjunta, previo acuerdo voluntario de estas organizaciones, el cual deberá constar por escrito y debidamente autorizado por notario público o suscrito mediante firma electrónica avanzada por los representantes de todas las organizaciones de pescadores involucradas. En caso de no existir tal acuerdo, se preferirá a aquella organización que no sea titular de un área de manejo.
 
 No pudiendo asignarse el área de manejo conforme a lo dispuesto en el inciso anterior, se preferirá a la organización que obtenga el mayor puntaje ponderado, de acuerdo a los siguientes criterios:
 
@@ -3922,7 +3922,7 @@ d) Los funcionarios públicos de la Administración Central del Estado.
 
 e) Las personas que presten servicios remunerados a cualquier título, al Ministerio de Economía, Fomento y Reconstrucción o a los servicios dependientes de dicho Ministerio.
 
-Los miembros del Consejo nominados conforme a este número, antes de asumir el cargo, deberán declarar bajo juramento y mediante instrumento protocolizado en una notaría, la circunstancia de no afectarles alguna de las incompatibilidades señaladas precedentemente. Asimismo, deberán presentar una declaración de intereses en conformidad con la ley orgánica constitucional de Bases Generales de la Administración del Estado.
+Los miembros del Consejo nominados conforme a este número, antes de asumir el cargo, deberán declarar bajo juramento y mediante instrumento protocolizado en una notaría o suscrito mediante firma electrónica avanzada, la circunstancia de no afectarles alguna de las incompatibilidades señaladas precedentemente. Asimismo, deberán presentar una declaración de intereses en conformidad con la ley orgánica constitucional de Bases Generales de la Administración del Estado.
 
 Si alguno de los consejeros designados de conformidad a este número incurriere, durante el ejercicio del cargo, en alguna de las circunstancias inhabilitantes señaladas precedentemente, cesará de inmediato en sus funciones, y será reemplazado de acuerdo con las reglas generales por el tiempo que reste al consejero inhabilitado.
 

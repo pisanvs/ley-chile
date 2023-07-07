@@ -140,7 +140,7 @@ La solicitud de concesión deberá presentarse a la Superintendencia, con copia 
 
 Las concesiones de servicio público de distribución de gas de red y las de transporte de gas serán otorgadas mediante decreto supremo del Ministerio de Energía, expedido bajo la fórmula "por orden del Presidente de la República", previo informe de la Superintendencia.
 
-El decreto que otorgue la concesión deberá publicarse por el concesionario en el Diario Oficial, en el plazo de treinta días corridos contado desde la fecha de su total tramitación y reducirse a escritura pública dentro de los treinta días siguientes a la fecha de su publicación.
+El decreto que otorgue la concesión deberá publicarse por el concesionario en el Diario Oficial, en el plazo de treinta días corridos contado desde la fecha de su total tramitación.
 
 #### Artículo 8°
 
@@ -198,13 +198,11 @@ De la caducidad de las concesiones
 
 #### Artículo 18°
 
-El Presidente de la República mediante decreto supremo fundado, expedido a través del Ministerio de Energía, podrá declarar la caducidad de una concesción de gas antes de entrar en explotación si el concesionario no redujere a escritura pública el decreto de concesión dentro de los 30 días siguientes a la fecha de su publicación.
-
 El Ministro de Energía podrá solicitar a la Superintendencia que declare el incumplimiento grave de las obligaciones de una empresa concesionaria de gas antes de entrar en explotación, si no se hubiesen ejecutado por lo menos los dos tercios de las obras en los plazos establecidos o en las prórrogas de plazo que se otorguen y no mediare fuerza mayor o caso fortuito, declaración que deberá efectuarse dentro de los noventa días corridos siguientes a dicha solicitud. Declarado el incumplimiento grave por la Superintendencia, podrá el Presidente de la República decretar la caducidad de la concesión.
 
 En los casos de caducidad previstos en el inciso anterior, el ex concesionario podrá levantar y retirar las instalaciones de gas ejecutadas. Cuando estas instalaciones ocupen bienes nacionales de uso público, terrenos fiscales o terrenos particulares, en virtud de servidumbres constituidas, el retiro deberá hacerse dentro del plazo y en las condiciones que fije la Superintendencia, en conformidad a los reglamentos. El costo de los retiros que afectaren bienes de uso público será de cargo del exconcesionario.
 
-Cuando sea declarada la caducidad de una concesión por la causal señalada en el inciso segundo de este artículo, el Presidente de la República, si lo estimare conveniente para el interés general, podrá disponer la expropiación de los bienes de la concesión en conformidad a lo dispuesto en los artículo 20° y siguientes.
+Cuando sea declarada la caducidad de una concesión por la causal señalada en el inciso primero de este artículo, el Presidente de la República, si lo estimare conveniente para el interés general, podrá disponer la expropiación de los bienes de la concesión en conformidad a lo dispuesto en los artículo 20° y siguientes.
 
 > **Nota.** El numeral iv) de la letra a) del N° 14, del Art. 1° de la Ley 20999, publicada el 09.02.2017, dispuso la sustitución de la frase "dentro de los 90 días corridos siguientes de transcurridos dichos plazos", por la expresión: ", declaración que deberá efectuarse dentro de los noventa días corridos siguientes a dicha solicitud". Esta modificación no se pudo efectuar, por cuanto la frase a que se hace referencia no se encuentra en el texto de este artículo. Sin embargo, se hace presente que aquella sí estaba en el proyecto aprobado por la Cámara de Diputados en Primer Trámite Constitucional, donde había sido agregada a continuación de la expresión "caso fortuito".
 
@@ -268,7 +266,7 @@ De las Servidumbres
 
 A. Todas las servidumbres que señalen los decretos de concesión se establecerán en conformidad a los planos de servidumbres que se hayan aprobado en el decreto de concesión.
 
-Las gestiones para hacer efectivas las servidumbres deberán iniciarse en cada caso dentro de los seis meses siguientes a la fecha de reducción a escritura pública del decreto de concesión que hubiere aprobado los planos correspondientes, so pena de caducidad del derecho otorgado para imponer la servidumbre.
+Las gestiones para hacer efectivas las servidumbres deberán iniciarse en cada caso dentro de los seis meses siguientes a la fecha de publicación en el Diario Oficial del decreto de concesión que hubiere aprobado los planos correspondientes, so pena de caducidad del derecho otorgado para imponer la servidumbre.
 
 #### Artículo 22
 

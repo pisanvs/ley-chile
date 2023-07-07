@@ -246,7 +246,7 @@ El concurso podrá ser declarado total o parcialmente desierto, sólo por falta 
 
 #### Artículo 20
 
-El alcalde seleccionará a una de las personas propuestas con especial consideración de los factores señalados en el inciso segundo del artículo 16 y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original o en copia autentificada ante Notario, los documentos probatorios de los requisitos de ingreso señalados en el artículo 11 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
+El alcalde seleccionará a una de las personas propuestas con especial consideración de los factores señalados en el inciso segundo del artículo 16 y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original, copia autentificada ante Notario o a través de documento electrónico suscrito con las formalidades que en cada caso exija la ley, los documentos probatorios de los requisitos de ingreso señalados en el artículo 11 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
 
 #### Artículo 21
 

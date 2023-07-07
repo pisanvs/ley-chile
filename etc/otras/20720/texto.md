@@ -1338,7 +1338,7 @@ De las pruebas. Para acreditar las excepciones y defensas del Deudor se aplicar�
 
 1) Prueba testimonial: el escrito de oposición deberá incluir la completa individualización de los testigos que depondrán, así como las razones que justifican su comparecencia.
 
-2) Prueba confesional: el escrito de oposición deberá acompañar el pliego de posiciones. Si el acreedor solicitante fuere una persona jurídica, podrá comparecer cualquier persona habilitada a nombre del representante legal, siempre que exhiba en el día de la diligencia la respectiva delegación, otorgada por escritura pública y en la que conste expresamente la facultad de absolver posiciones a nombre del demandante.
+2) Prueba confesional: el escrito de oposición deberá acompañar el pliego de posiciones. Si el acreedor solicitante es una persona jurídica podrá comparecer cualquier persona habilitada a nombre del representante legal, siempre que exhiba el día de la diligencia la respectiva delegación. En la delegación, que se efectuará por escrito, deberá constar la autorización notarial de la firma o su suscripción mediante firma electrónica avanzada, y la facultad de absolver posiciones a nombre del demandante.
 
 3) Prueba pericial: se aplicarán las disposiciones de los artículos 409, 410 y 411 del Código de Procedimiento Civil en lo referido a la procedencia de este medio de prueba. Tratándose de casos de informe pericial facultativo, el Deudor deberá exponer las razones que justifican decretar dicha diligencia.
 
@@ -2395,6 +2395,8 @@ Propuesta de reparto de fondos. El Liquidador deberá proponer a los acreedores 
 3) Reserva para responder a los acreedores residentes en el extranjero que no hayan alcanzado a comparecer, de conformidad a los plazos previstos en el artículo 252.
 
 4) Sujeción al procedimiento establecido en artículo siguiente.
+
+> **Nota.** El numeral 1° de la Resolución 2060 Exenta, Economía, publicada el 04.05.2022, interpreta el numeral 1° del presente artículo, en el sentido que dicha norma establece la obligación para el liquidador de proponer a los acreedores un reparto, cuando la disponibilidad de fondos permita abonar a los acreedores reconocidos una cantidad no inferior al cinco por ciento de sus acreencias, pero no impide la realización de repartos de fondos, cuando la distribución sea inferior al cinco por ciento de las acreencias que se contemplen en el reparto, toda vez que la finalidad del procedimiento concursal de liquidación es el pago de las obligaciones del deudor, resultando contrario a dicha finalidad, devolver fondos al deudor existiendo créditos pendientes de pago en el concurso.
 
 #### Artículo 248
 

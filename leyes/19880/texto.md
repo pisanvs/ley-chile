@@ -10,7 +10,11 @@ Disposiciones Generales
 
 #### Artículo 1º
 
-Procedimiento Administrativo. La presente ley establece y regula las bases del procedimiento administrativo de los actos de la Administración del Estado. En caso de que la ley establezca procedimientos administrativos especiales, la presente ley se aplicará con carácter de supletoria.
+Procedimiento Administrativo. La presente ley establece y regula las bases del procedimiento administrativo de los actos de la Administración del Estado.
+
+Todo procedimiento administrativo deberá expresarse a través de los medios electrónicos establecidos por ley, salvo las excepciones legales.
+
+En caso de que la ley establezca procedimientos administrativos especiales, la presente ley se aplicará con carácter supletorio.
 
 La toma de razón de los actos de la Administración del Estado se regirán por lo dispuesto en la Constitución y en la Ley Orgánica Constitucional de la Contraloría General de la República.
 
@@ -40,15 +44,15 @@ Los actos administrativos gozan de una presunción de legalidad, de imperio y ex
 
 #### Artículo 4º
 
-Principios del procedimiento. El procedimiento administrativo estará sometido a los principios de escrituración, gratuidad, celeridad, conclusivo, economía procedimental, contradictoriedad, imparcialidad, abstención, no formalización, inexcusabilidad, impugnabilidad, transparencia y publicidad.
+Principios del procedimiento. El procedimiento administrativo estará sometido a los principios de escrituración, gratuidad, celeridad, conclusivo, economía procedimental, contradictoriedad, imparcialidad, abstención, no formalización, inexcusabilidad, impugnabilidad, transparencia, publicidad y aquellos relativos a los medios electrónicos.
 
 #### Artículo 5º
 
-Principio de escrituración. El procedimiento administrativo y los actos administrativos a los cuales da origen, se expresarán por escrito o por medios electrónicos, a menos que su naturaleza exija o permita otra forma más adecuada de expresión y constancia.
+Principio de escrituración. El procedimiento administrativo y los actos administrativos a los cuales da origen se expresarán por escrito a través de medios electrónicos, a menos que se configure alguna excepción establecida en la ley.
 
 #### Artículo 6º
 
-Principio de gratuidad. En el procedimiento administrativo, las actuaciones que deban practicar los órganos de la Administración del Estado serán gratuitas para los interesados, salvo disposición legal en contrario.
+Principio de gratuidad. En el procedimiento administrativo, las actuaciones que deban practicar los órganos de la Administración del Estado y la obtención de documentos e información necesaria para su conclusión serán gratuitas para los interesados, salvo disposición legal en contrario. No procederán cobros entre los órganos de la Administración del Estado que deban participar en su desarrollo e intercambio, salvo disposición legal en contrario.
 
 #### Artículo 7º
 
@@ -68,7 +72,7 @@ Principio de economía procedimental. La Administración debe responder a la má
 
 Se decidirán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo, siempre que no sea obligatorio su cumplimiento sucesivo.
 
-Al solicitar los trámites que deban ser cumplidos por otros órganos, deberá consignarse en la comunicación cursada el plazo establecido al efecto.
+Toda comunicación entre órganos de la Administración que se practique en el marco del procedimiento se realizará por medios electrónicos, dejándose constancia del órgano requirente, el funcionario responsable que practica el requerimiento, destinatario, procedimiento a que corresponde, gestión que se encarga y el plazo establecido para su realización. Asimismo, deberá remitirse una copia electrónica de tal comunicación a todos quienes figuren como interesados en el procedimiento administrativo de que se trate.
 
 Las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, a menos que la Administración, por resolución fundada, determine lo contrario.
 
@@ -116,6 +120,8 @@ La inhabilitación se planteará ante la misma autoridad o funcionario afectado,
 
 Principio de la no formalización. El procedimiento debe desarrollarse con sencillez y eficacia, de modo que las formalidades que se exijan sean aquéllas indispensables para dejar constancia indubitada de lo actuado y evitar perjuicios a los particulares.
 
+Quienes desempeñen cargos en la Administración no podrán exigir la presentación de autorizaciones notariales de firmas en documentos otorgados en soporte de papel o electrónico, salvo que dicha autorización sea expresamente requerida por mandato legal o reglamentario.
+
 El vicio de procedimiento o de forma sólo afecta la validez del acto administrativo cuando recae en algún requisito esencial del mismo, sea por su naturaleza o por mandato del ordenamiento jurídico y genera perjuicio al interesado.
 
 La Administración podrá subsanar los vicios de que adolezcan los actos que emita, siempre que con ello no se afectaren intereses de terceros.
@@ -142,27 +148,43 @@ Principio de Transparencia y de Publicidad. El procedimiento administrativo se r
 
 En consecuencia, salvo las excepciones establecidas en la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado y en otras disposiciones legales aprobadas con quórum calificado, son públicos los actos y resoluciones de los órganos de la Administración del Estado, así como sus fundamentos y documentos en que éstos se contengan, y los procedimientos que utilicen en su elaboración o dictación.
 
+#### Artículo 16 bis
+
+Principios generales relativos a los medios electrónicos. En la tramitación de los procedimientos administrativos por medios electrónicos se deberá cumplir con los principios de neutralidad tecnológica, de actualización, de equivalencia funcional, de fidelidad, de interoperabilidad y de cooperación.
+
+En virtud del principio de actualización, los órganos de la Administración del Estado deberán actualizar sus plataformas a tecnologías no obsoletas o carentes de soporte, así como generar medidas que permitan el rescate de los contenidos de formatos de archivo electrónicos que caigan en desuso.
+
+El principio de equivalencia funcional consiste en que los actos administrativos suscritos por medio de firma electrónica serán válidos y producirán los mismos efectos que si se hubieren llevado a cabo en soporte de papel.
+
+El principio de fidelidad consiste en que todas las actuaciones del procedimiento se registrarán y conservarán íntegramente y en orden sucesivo en el expediente electrónico, el que garantizará su fidelidad, preservación y la reproducción de su contenido.
+
+El principio de interoperabilidad consiste en que los medios electrónicos deben ser capaces de interactuar y operar entre sí al interior de la Administración del Estado, a través de estándares abiertos que permitan una segura y expedita interconexión entre ellos.
+
+El principio de cooperación consiste en que los distintos órganos de la Administración del Estado deben cooperar efectivamente entre sí en la utilización de medios electrónicos.
+
 #### Artículo 17
 
 Derechos de las personas. Las personas, en sus relaciones con la Administración, tienen derecho a:
 
-a) Conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados, y obtener copia autorizada de los documentos que rolan en el expediente y la devolución de los originales, salvo que por mandato legal o reglamentario éstos deban ser acompañados a los autos, a su costa;
+a) Conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados, y obtener copia autorizada de los documentos que rolan en el expediente y la devolución de los originales, salvo que por mandato legal o reglamentario éstos deban ser acompañados a los autos, a su costa. Constituye copia autorizada aquella generada por la plataforma electrónica donde se acceda al expediente electrónico, que cuente con un medio de verificación de su autenticidad;
 
 b) Identificar a las autoridades y al personal al servicio de la Administración, bajo cuya responsabilidad se tramiten los procedimientos;
 
-c) Eximirse de presentar documentos que no correspondan al procedimiento, o que ya se encuentren en poder de la Administración;
+c) Acompañar documentos electrónicos, tales como copias digitalizadas de documentos en soporte de papel o documentos electrónicos en su origen, que no sean emitidos por los órganos de la Administración del Estado, en la medida que conste su autenticidad e integridad, salvo que por mandato legal o reglamentario éstos deban ser acompañados a los autos en soporte de papel, a su costa;
 
-d) Acceder a los actos administrativos y sus documentos, en los términos previstos en la ley;
+d) Eximirse de presentar documentos que no correspondan al procedimiento o que emanen y se encuentren en poder de cualquier órgano de la Administración del Estado. En este último caso, dichos documentos deberán ser remitidos por el órgano que los tuviere en su poder a aquel que estuviere tramitando el procedimiento administrativo;
 
-e) Ser tratados con respeto y deferencia por las autoridades y funcionarios, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones. Los actos de instrucción que requieran la intervención de los interesados habrán de practicarse en la forma que resulte más cómoda para ellos y sea compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales;
+e) Acceder a los actos administrativos y sus documentos, en los términos previstos en la ley;
 
-f) Formular alegaciones y aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución;
+f) Ser tratados con respeto y deferencia por las autoridades y funcionarios, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones. Los actos de instrucción que requieran la intervención de los interesados habrán de practicarse en la forma que resulte más cómoda para ellos y sea compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales;
 
-g) Exigir las responsabilidades de la Administración Pública y del personal a su servicio, cuando así corresponda legalmente;
+g) Formular alegaciones y aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución;
 
-h) Obtener información acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar, e
+h) Exigir las responsabilidades de la Administración Pública y del personal a su servicio, cuando así corresponda legalmente;
 
-i) Cualesquiera otros que les reconozcan la Constitución y las leyes.
+i) Obtener información acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar, e
+
+j) Cualesquiera otros que les reconozcan la Constitución y las leyes.
 
 ## Capítulo II
 
@@ -178,15 +200,43 @@ Definición. El procedimiento administrativo es una sucesión de actos trámite 
 
 El procedimiento administrativo consta de las siguientes etapas: iniciación, instrucción y finalización.
 
-Todo el procedimiento administrativo deberá constar en un expediente, escrito o electrónico, en el que se asentarán los documentos presentados por los interesados, por terceros y por otros órganos públicos, con expresión de la fecha y hora de su recepción, respetando su orden de ingreso. Asimismo, se incorporarán las actuaciones y los documentos y resoluciones que el órgano administrativo remita a los interesados, a terceros o a otros órganos públicos y las notificaciones y comunicaciones a que éstas den lugar, con expresión de la fecha y hora de su envío, en estricto orden de ocurrencia o egreso.
+Todo el procedimiento administrativo deberá constar en un expediente electrónico, salvo las excepciones contempladas en la ley, en el que se asentarán los documentos presentados por los interesados, por terceros y por otros órganos públicos, con expresión de la fecha y hora de su recepción, respetando su orden de ingreso. Asimismo, se incorporarán las actuaciones y los documentos y resoluciones que el órgano administrativo remita a los interesados, a terceros o a otros órganos públicos y las notificaciones y comunicaciones a que éstas den lugar, con expresión de la fecha y hora de su envío, en estricto orden de ocurrencia o egreso.
 
-Además, deberá llevarse un registro actualizado, escrito o electrónico, al que tendrán acceso permanente los interesados, en el que consten las actuaciones señaladas en el inciso precedente, con indicación de la fecha y hora de su presentación, ocurrencia o envío.
+El ingreso de las solicitudes, formularios o documentos se hará mediante documentos electrónicos o por medio de formatos o medios electrónicos, a través de las plataformas de los órganos de la Administración del Estado.
+
+Aquella persona que carezca de los medios tecnológicos, no tenga acceso a medios electrónicos o sólo actuare excepcionalmente a través de ellos, podrá solicitar por medio de un formulario, ante el órgano respectivo, efectuar presentaciones dentro del procedimiento administrativo en soporte de papel. El órgano respectivo deberá pronunciarse dentro de tercero día, y deberá hacerlo de manera fundada en caso de denegar la solicitud. Sin perjuicio de lo anterior, la presentación de dicha solicitud no suspenderá los plazos para los interesados por lo que, en todo caso, antes del vencimiento de un plazo y mientras no se haya pronunciado la Administración podrán efectuarse las presentaciones en soporte de papel. Las solicitudes, formularios o escritos presentados en soporte de papel serán digitalizados e ingresados al expediente electrónico inmediatamente por el funcionario correspondiente. Un reglamento dictado conjuntamente por el Ministerio Secretaría General de la Presidencia y el Ministerio de Hacienda establecerá las formas de acreditar el encontrarse dentro de las circunstancias indicadas en este inciso.
+
+Los expedientes electrónicos, a los que tendrán acceso permanente los interesados, contendrán un registro actualizado de todas las actuaciones del procedimiento, según lo señalado en el inciso tercero, que estará a disposición tanto en las plataformas electrónicas como en las dependencias de la Administración para su consulta. La consulta en las dependencias de la Administración deberá ser guiada y asesorada, si así se requiere, para el caso de quienes estuvieren autorizados para efectuar presentaciones en soporte de papel por la Administración. Sólo podrán ponerse a disposición en soporte de papel en los casos en que no hubiere sido posible digitalizarse según se establece en el artículo 19 bis. En tal evento, así como en el caso de personas autorizadas para efectuar presentaciones en soporte de papel, podrá solicitarse obtención de copias en soporte de papel. Un reglamento, dictado en conjunto por el Ministerio Secretaría General de la Presidencia y el Ministerio de Hacienda, regulará aquellos casos en que la Administración pueda excusarse de entregar copias en soporte de papel por razones de distraer indebidamente a los funcionarios del cumplimiento de sus labores habituales, esto es la utilización de un tiempo excesivo considerando su jornada de trabajo, o un alejamiento de sus funciones habituales, así como en los que podrá exigir el pago de los costos directos de reproducción y la fijación de sus valores.
+
+Excepcionalmente, cuando el sistema o las plataformas electrónicas que soportan los medios electrónicos no se encuentren disponibles por emergencia, fuerza mayor u otro motivo calificado, el jefe superior del servicio, por resolución fundada, podrá autorizar la emisión de ciertos actos administrativos así como efectuar presentaciones en soporte de papel. Lo anterior deberá digitalizarse posteriormente y agregarse en el expediente electrónico correspondiente.
 
 #### Artículo 19
 
-Utilización de medios electrónicos. El procedimiento administrativo podrá realizarse a través de técnicas y medios electrónicos.
+Uso obligatorio de plataformas electrónicas. Los órganos de la Administración estarán obligados a disponer y utilizar adecuadamente plataformas electrónicas para efectos de llevar expedientes electrónicos, las que deberán cumplir con estándares de seguridad, interoperabilidad, interconexión y ciberseguridad.
 
-Los órganos de la Administración procurarán proveerse de los medios compatibles para ello, ajustándose al procedimiento regulado por las leyes.
+Los escritos, documentos, actos y actuaciones de toda especie que se presenten o verifiquen en el procedimiento se registrarán en el expediente electrónico correspondiente, siguiendo las nomenclaturas pertinentes, de acuerdo a cada etapa del procedimiento.
+
+La conservación de los expedientes electrónicos estará a cargo del órgano respectivo, el cual será el responsable de su integridad, disponibilidad y autenticidad.
+
+Si fuere necesaria la reconstitución de un expediente o piezas de éste se reemplazará en todo o parte por una copia fiel, que se obtendrá de quien la tuviere, si no se dispusiere de ella directamente.
+
+Si no existiere copia fiel los actos se dictarán nuevamente, para lo cual la Administración reunirá los antecedentes que le permitan fundamentar su preexistencia y contenido, y las actuaciones se repetirán con las formalidades previstas para cada caso.
+
+Las comunicaciones oficiales entre los órganos de la Administración serán registradas en una plataforma electrónica destinada al efecto.
+
+Mediante reglamento, dictado en conjunto por el Ministerio Secretaría General de la Presidencia y el Ministerio de Hacienda, se fijarán los estándares que deberán cumplir dichas plataformas, en los términos previstos en esta ley considerando, además, condiciones de accesibilidad para los interesados, seguridad, funcionamiento, calidad, protección y conservación de los documentos.
+
+#### Artículo 19 bis
+
+Documentos electrónicos y digitalización. Los actos de la Administración y los documentos de los interesados deberán cumplir con lo establecido en la ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma.
+
+Los documentos presentados por interesados cuyo formato original no sea electrónico podrán presentarse mediante copias digitalizadas directamente en el expediente electrónico. Asimismo, podrán presentarse en la dependencia de la Administración correspondiente, documentos electrónicos o bien en soporte de papel si lo anterior no fuere posible, debiendo el funcionario correspondiente digitalizarlos e ingresarlos inmediatamente al expediente electrónico.
+
+La forma de cotejar la autenticidad y conformidad de los documentos en soporte de papel y sus copias digitalizadas presentadas según lo indicado en el inciso anterior será regulada por un reglamento dictado en conjunto por el Ministerio Secretaría General de la Presidencia, el Ministerio de Hacienda y el Ministerio de las Culturas, las Artes y el Patrimonio. Toda infracción a la autenticidad y conformidad de las copias digitalizadas respecto a los documentos originales en soporte de papel hará incurrir en las sanciones que determine la ley.
+
+En caso de documentos presentados por órganos de la Administración cuyo formato original no sea electrónico, éstos deberán ser digitalizados por el funcionario correspondiente de acuerdo a lo previsto en la ley Nº 18.845, que establece sistemas de microcopia o micrograbación de documentos.
+
+En casos excepcionales y cuando se haya autorizado a una persona para efectuar presentaciones en soporte de papel, no será necesario acompañar copias digitalizadas. En estos casos, los documentos presentados en formato que no sea electrónico serán digitalizados e ingresados inmediatamente por el funcionario correspondiente al expediente electrónico, a menos que ello no fuere materialmente posible por su naturaleza, formato o cantidad según los criterios que se establezcan mediante un reglamento dictado en conjunto por el Ministerio Secretaría General de la Presidencia, el Ministerio de Hacienda y el Ministerio de las Culturas, las Artes y el Patrimonio. En este caso, se dejará constancia de ello en el expediente
 
 #### Artículo 20
 
@@ -206,7 +256,7 @@ Interesados. Se consideran interesados en el procedimiento administrativo:
 
 Apoderados. Los interesados podrán actuar por medio de apoderados, entendiéndose que éstos tienen todas las facultades necesarias para la consecución del acto administrativo, salvo manifestación expresa en contrario.
 
-El poder deberá constar en escritura pública o documento privado suscrito ante notario. Se requerirá siempre de escritura pública cuando el acto administrativo de que se trate produzca efectos que exijan esa solemnidad.
+El poder podrá constar en documento suscrito mediante firma electrónica simple o avanzada. Se aceptará también aquel que conste por escritura pública o documento privado suscrito ante notario. Con todo, se requerirá siempre de documento suscrito mediante firma electrónica avanzada o de escritura pública cuando el acto administrativo de que se trate produzca efectos que exijan solemnidad de instrumento o escritura pública.
 
 #### Artículo 23
 
@@ -214,13 +264,33 @@ Obligación de cumplimiento de los plazos. Los términos y plazos establecidos e
 
 #### Artículo 24
 
-El funcionario del organismo al que corresponda resolver, que reciba una solicitud, documento o expediente, deberá hacerlo llegar a la oficina correspondiente a más tardar dentro de las 24 horas siguientes a su recepción.
+El funcionario del organismo al que corresponda resolver, que reciba una solicitud, documento o expediente, deberá hacerlo llegar a la dependencia respectiva, a través de medios electrónicos, a más tardar dentro de las 24 horas siguientes a su recepción.
 
 Las providencias de mero trámite deberán dictarse por quien deba hacerlo, dentro del plazo de 48 horas contado desde la recepción de la solicitud, documento o expediente.
 
 Los informes, dictámenes u otras actuaciones similares, deberán evacuarse dentro del plazo de 10 días, contado desde la petición de la diligencia.
 
 Las decisiones definitivas deberán expedirse dentro de los 20 días siguientes, contados desde que, a petición del interesado, se certifique que el acto se encuentra en estado de resolverse. La prolongación injustificada de la certificación dará origen a responsabilidad administrativa.
+
+#### Artículo 24 bis
+
+En virtud de los principios de interoperabilidad y cooperación, en todo procedimiento administrativo los órganos de la Administración del Estado que tengan en su poder documentos o información respecto de materias de su competencia, que sean necesarios para su conocimiento o resolución, deberán remitirlos por medios electrónicos a aquel órgano ante el cual se estuviere tramitando el respectivo procedimiento, que así lo solicite. No obstante, se requerirá previa autorización del interesado en los términos indicados en la letra f) del artículo 30, en el caso de que dichos documentos o información contengan datos sensibles de aquel interesado, ya sea que estén incluidos o no en bases de datos personales, de conformidad con lo establecido en el artículo 30.
+
+Se dejará registro de toda solicitud entre los órganos de la Administración del Estado respecto a información de carácter sensible del interesado, al que tendrán acceso. Este registro deberá indicar, al menos, lo siguiente:
+
+a) El órgano requirente.
+
+b) El funcionario responsable.
+
+c) El órgano destinatario.
+
+d) El procedimiento a que corresponde.
+
+e) Los datos o información que se solicita.
+
+f) El plazo establecido para su realización, si corresponde.
+
+Para efectos de este artículo será aplicable lo dispuesto en los artículos 7º y 11 de la ley Nº 19.628.
 
 #### Artículo 25
 
@@ -229,6 +299,8 @@ Cómputo de los plazos del procedimiento administrativo. Los plazos de días est
 Los plazos se computarán desde el día siguiente a aquél en que se notifique o publique el acto de que se trate o se produzca su estimación o su desestimación en virtud del silencio administrativo. Si en el mes de vencimiento no hubiere equivalente al día del mes en que comienza el cómputo, se entenderá que el plazo expira el último día de aquel mes.
 
 Cuando el último día del plazo sea inhábil, éste se entenderá prorrogado al primer día hábil siguiente.
+
+Las plataformas electrónicas permitirán la presentación de documentos todos los días del año durante las veinticuatro horas. No obstante, la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente.
 
 #### Artículo 26
 
@@ -260,7 +332,7 @@ Con anterioridad al acuerdo de iniciación, podrá el órgano competente abrir u
 
 Inicio a solicitud de parte. En caso que el procedimiento se inicie a petición de parte interesada, la solicitud que se formule deberá contener:
 
-a) Nombre y apellidos del interesado y, en su caso, de su apoderado, así como la identificación del medio preferente o del lugar que se señale, para los efectos de las notificaciones.
+a) Nombre y apellidos del interesado y, en su caso, de su apoderado, así como el medio electrónico a través del cual se llevarán a cabo las notificaciones, pudiendo para estos efectos indicar una dirección de correo electrónico, caso en el cual se entenderá éste como domicilio válido para practicar las notificaciones, el que se incluirá en el registro indicado en el artículo 46. Excepcionalmente, podrá indicar un medio alternativo de notificación, en los términos señalados en dicho artículo.
 
 b) Hechos, razones y peticiones en que consiste la solicitud.
 
@@ -270,11 +342,13 @@ d) Firma del solicitante o acreditación de la autenticidad de su voluntad expre
 
 e) Órgano administrativo al que se dirige.
 
+f) Manifestación si se autoriza al órgano de la Administración del Estado que tuviera en su poder documentos o información que contengan datos de carácter sensible del interesado, para que éstos sean remitidos por medios electrónicos al órgano que corresponda resolver en el procedimiento respectivo, conforme al artículo 9º de la ley Nº 19.628.
+
 Cuando las pretensiones correspondientes a una pluralidad de personas, tengan un contenido y fundamento idéntico o sustancialmente similar, podrán ser formuladas en una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa.
 
-De las solicitudes, comunicaciones y escritos que presenten los interesados en las oficinas de la Administración, podrán éstos exigir el correspondiente recibo que acredite la fecha de presentación, admitiéndose como tal una copia en la que figure la fecha de presentación anotada por la oficina.
+De las solicitudes, comunicaciones y escritos que presenten los interesados en las oficinas de la Administración, podrán éstos exigir el correspondiente recibo que acredite la fecha de presentación, considerándose suficiente acreditación un certificado de ingreso generado por la plataforma electrónica donde se acceda al expediente electrónico, en el que figure la fecha de presentación.
 
-La Administración deberá establecer formularios de solicitudes, cuando se trate de procedimientos que impliquen la resolución numerosa de una serie de procedimientos. Los formularios mencionados estarán a disposición de los ciudadanos en las dependencias administrativas.
+La Administración deberá establecer formularios de solicitudes cuando se trate de procedimientos de común tramitación, los que estarán a disposición de los ciudadanos por medios electrónicos o en las dependencias administrativas, en los casos autorizados de tramitación mediante presentaciones en soporte de papel.
 
 Los solicitantes podrán acompañar los documentos que estimen convenientes para precisar o completar los datos del formulario, los cuales deberán ser admitidos y tenidos en cuenta por el órgano al que se dirijan.
 
@@ -332,6 +406,18 @@ En la notificación se consignará el lugar, fecha y hora en que se practicará 
 
 Informes. Para los efectos de la resolución del procedimiento, se solicitarán aquellos informes que señalen las disposiciones legales, y los que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de requerirlos.
 
+#### Artículo 37 bis
+
+Cuando un órgano de la Administración del Estado deba evacuar un acto administrativo de carácter general que tenga claros efectos en los ámbitos de competencia de otro órgano, le remitirá todos los antecedentes y requerirá de éste un informe para efectos de evitar o precaver conflictos de normas, con el objeto de resguardar la coordinación, cooperación y colaboración entre los órganos involucrados en su dictación.
+
+Los órganos administrativos cuyo informe se solicite deberán evacuarlo dentro del plazo de treinta días corridos, contado desde la fecha en que hubieren recibido el requerimiento a que se refiere el inciso precedente. El requirente valorará el contenido de la opinión del órgano administrativo requerido, expresándolo en la motivación del acto administrativo de carácter general que dicte, de conformidad con lo dispuesto en el artículo 41. Transcurrido el plazo sin que se hubiere recibido el correspondiente informe, se procederá conforme al inciso segundo del artículo 38.
+
+El requerimiento y los informes que emitan los órganos administrativos en virtud de los incisos anteriores se sujetarán en su forma, valor y tramitación a lo señalado en los artículos 37 y 38.
+
+No regirá lo establecido en los incisos anteriores en los casos en que el acto administrativo de carácter general requiera aplicación inmediata o en el más breve plazo posible, atendida su naturaleza y urgencia, circunstancia que deberá ser justificada y de la cual se dejará constancia en su texto.
+
+Con todo, el órgano administrativo autor de dicho acto, con posterioridad a su dictación, deberá remitirle a los otros órganos administrativos competentes todos los antecedentes tenidos a la vista y requerir de éstos un informe, con el propósito de cumplir con los objetivos señalados en el inciso primero, en la aplicación del acto administrativo respectivo.
+
 #### Artículo 38
 
 Valor de los informes. Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.
@@ -378,7 +464,7 @@ La aceptación de informes o dictámenes servirá de motivación a la resolució
 
 Renuncia y Desistimiento. Todo interesado podrá desistirse de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos.
 
-Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquéllos que la hubiesen formulado.
+Si la solicitud de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquéllos que la hubiesen formulado.
 
 Tanto el desistimiento como la renuncia podrán hacerse por cualquier medio que permita su constancia.
 
@@ -414,13 +500,13 @@ No obstante lo anterior, los actos administrativos que afectaren a personas cuyo
 
 #### Artículo 46
 
-Procedimiento. Las notificaciones se harán por escrito, mediante carta certificada dirigida al domicilio que el interesado hubiere designado en su primera presentación o con posterioridad.
+Procedimiento. Las notificaciones se practicarán por medios electrónicos en base a la información contenida en un registro único dependiente del Servicio de Registro Civil e Identificación, sobre el cual se configurarán domicilios digitales únicos, cuyas características y operatividad será regulada mediante reglamento dictado conjuntamente por el Ministerio Secretaría General de la Presidencia, el Ministerio de Hacienda y el Ministerio de Justicia y Derechos Humanos. Dichas notificaciones tendrán el carácter de personal.
 
-Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de Correos que corresponda.
+Quienes carezcan de los medios tecnológicos, no tengan acceso a medios electrónicos o sólo actuaren excepcionalmente a través de ellos, podrán solicitar por medio de un formulario, ante el órgano respectivo o ante el encargado del registro señalado en el inciso anterior, que la notificación se practique mediante forma diversa, quien deberá pronunciarse dentro del tercer día, según lo establezca el reglamento, y deberá hacerlo de manera fundada en caso de denegar la solicitud. La notificación se realizará en la forma solicitada si fuere posible o mediante carta certificada dirigida al domicilio que debiere designar al presentar esta solicitud. En caso de notificaciones por carta certificada, éstas se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de correos que corresponda.
 
-Las notificaciones podrán, también, hacerse de modo personal por medio de un empleado del órgano correspondiente, quien dejará copia íntegra del acto o resolución que se notifica en el domicilio del interesado, dejando constancia de tal hecho.
+Asimismo, las notificaciones podrán hacerse en las dependencias de la Administración, si el interesado se apersonare a recibirla, dejándose constancia de ello en el expediente electrónico, consignándose la fecha y hora de la misma. Si el interesado requiriere copia del acto o resolución que se le notifica se le dará, sin más trámite, en el mismo momento, en el formato que se tramite el procedimiento.
 
-Asimismo, las notificaciones podrán hacerse en la oficina o servicio de la Administración, si el interesado se apersonare a recibirla, firmando en el expediente la debida recepción. Si el interesado requiriere copia del acto o resolución que se le notifica, se le dará sin más trámite en el mismo momento.
+Mediante el reglamento referido en el inciso primero se regulará de qué forma los órganos de la Administración deberán practicar las notificaciones electrónicas, considerarlas practicadas y obtener información necesaria para llevar el registro indicado, estableciendo, a lo menos, los requisitos y condiciones necesarios que aseguren la constancia de la fecha y hora de envío de notificaciones, la recepción o acceso por el interesado o su apoderado, especialmente en el caso de la primera notificación para resguardar su derecho a la defensa, así como la integridad del contenido, la identidad fidedigna del remitente y el destinatario de la misma.
 
 #### Artículo 47
 

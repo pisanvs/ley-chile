@@ -246,7 +246,7 @@ Los poderes para asistir con derecho a voz y voto a ellas, deberán otorgarse po
 
 No podrán ser apoderados los miembros del Consejo de Administración, de la Junta de Vigilancia, el Gerente y los trabajadores de las Cooperativas.
 
-Los apoderados deberán ser socios de la cooperativa, salvo que se trate del cónyuge o hijos del socio, o de administradores o trabajadores de éstos, en cuyo caso el poder que se otorgue deberá ser autorizado ante notario.
+Los apoderados deberán ser socios de la cooperativa, salvo que se trate del cónyuge o hijos del socio, o de administradores o trabajadores de éstos, en cuyo caso el poder que se otorgue deberá ser autorizado ante notario, o suscrito mediante firma electrónica avanzada.
 
 Ningún socio podrá representar a más de un 5% de los socios presentes o representados en una asamblea general.
 
@@ -434,7 +434,7 @@ La junta general de socios podrá autorizar la emisión de valores de oferta pú
 
 #### Artículo 36
 
-Para el cobro de los saldos insolutos de las cuotas de participación bastará como título ejecutivo una copia autorizada del acta del Consejo de Administración en la que conste el acuerdo tomado por dicho consejo en orden a su cobro judicial, acompañado del documento de suscripción correspondiente.
+Para el cobro de los saldos insolutos de las cuotas de participación bastará como título ejecutivo una copia autorizada, o suscrita mediante firma electrónica avanzada, del acta del Consejo de Administración en la que conste el acuerdo tomado por dicho consejo en orden a su cobro judicial, acompañado del documento de suscripción correspondiente.
 
 #### Artículo 37
 
@@ -806,7 +806,7 @@ Los dueños de terrenos ubicados en una misma comuna, que persigan como objetivo
 
 #### Artículo 76
 
-La enajenación de las cuotas de participación de las cooperativas de vivienda deberá ser previamente aprobada por el consejo de administración, debiendo efectuarse mediante instrumento privado autorizado ante notario, en el que deberá constar la fecha de la sesión del consejo que la haya aprobado.
+La enajenación de las cuotas de participación de las cooperativas de vivienda deberá ser previamente aprobada por el consejo de administración, debiendo efectuarse mediante instrumento privado autorizado ante notario, o suscrito mediante firma electrónica avanzada, en el que deberá constar la fecha de la sesión del consejo que la haya aprobado.
 
 El consejo de administración podrá rechazar la enajenación en los casos previstos en los estatutos.
 

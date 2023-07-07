@@ -462,11 +462,7 @@ decretos con fuerza de ley Nº4, de
 
 todos del Ministerio de Relaciones
 
-Exteriores. La resolución que dicte
-
-la Superintendencia será reducida a
-
-escritura pública.
+Exteriores.
 
 #### Artículo 21°
 
@@ -560,7 +556,7 @@ o su prórroga.
 
 #### Artículo 23°
 
-Las concesiones provisionales caducarán de pleno derecho si el interesado no redujere a escritura pública la resolución de concesión provisional dentro de los treinta días siguientes a su publicación en el Diario Oficial.
+Derogado.
 
 #### Artículo 24°
 
@@ -1066,109 +1062,23 @@ su informe.
 
 #### Artículo 29°
 
-El Ministro de Energía, previo informe de la Superintendencia, y con la autorización de la Dirección Nacional de Fronteras y Límites del Estado, si corresponde de acuerdo a las disposiciones de los decretos con fuerza de ley Nº 4 de 1967, Nº 7 de 1968 y Nº 83 de 1979, del Ministerio de Relaciones Exteriores, resolverá fundadamente acerca de la solicitud de concesión definitiva, en un plazo de quince días
+El Ministro de Energía, previo informe de la Superintendencia, y con la autorización de la Dirección Nacional de Fronteras y Límites del Estado, si corresponde de acuerdo a las disposiciones de los decretos con fuerza de ley Nº 4 de 1967, Nº 7 de 1968 y Nº 83 de 1979, del Ministerio de Relaciones Exteriores, resolverá fundadamente acerca de la solicitud de concesión definitiva, en un plazo de quince días contado desde la fecha de recepción del informe de la Superintendencia.
 
-contado desde la fecha de recepción
+Para evacuar su informe, la Superintendencia dispondrá de sesenta días, contados desde el vencimiento del plazo para responder
 
-del informe de la Superintendencia.
+a todas las observaciones u oposiciones que se hubieren presentado, o desde el vencimiento del plazo para presentarlas, si no se hubiere hecho, o desde la constancia de haberse constituido servidumbre voluntaria
 
-Para evacuar su informe, la Superintendencia
+respecto de todos los propietarios de predios afectados que no hubieren sido notificados, según corresponda. El informe de la Superintendencia sólo se pronunciará sobre aquellas observaciones y oposiciones fundadas en causales establecidas en esta ley que hubieren sido formuladas por los dueños de las propiedades afectadas o por otros interesados dentro de plazo.
 
-dispondrá de sesenta días, contados desde
+El decreto de otorgamiento, que contendrá las indicaciones de las letras a) y siguientes del artículo 25º y la aprobación de los planos de servidumbres que se impondrán, deberá ser publicado en el sitio electrónico del Ministerio de Energía en el plazo de quince días, contado desde la fecha de su publicación en el Diario Oficial, y deberá esta última efectuarse dentro del plazo de quince días contado desde la total tramitación del decreto.
 
-el vencimiento del plazo para responder
+Tratándose de proyectos para establecer líneas de transmisión de energía eléctrica, el solicitante podrá dividir en cualquier momento la concesión que solicita en dos o más tramos. Las notificaciones practicadas con anterioridad a la división de la solicitud de concesión se entenderán válidas para todos los efectos, siempre y cuando el trazado en el predio afectado y notificado no haya variado a propósito de dicha división.
 
-a todas las observaciones u oposiciones
+El decreto que se pronuncie sobre cada tramo, señalará la concesión a la que pertenece.
 
-que se hubieren presentado, o desde el
+El decreto también consignará que, si por cualquiera circunstancia, alguno de los tramos no pudiere ejecutarse, el retiro de las instalaciones que ocupen bienes nacionales de uso público, terrenos fiscales o particulares, deberá hacerse dentro del plazo y en las condiciones que fije la Superintendencia.
 
-vencimiento del plazo para presentarlas,
-
-si no se hubiere hecho, o desde la constancia
-
-de haberse constituido servidumbre voluntaria
-
-respecto de todos los propietarios de predios
-
-afectados que no hubieren sido notificados,
-
-según corresponda. El informe de la
-
-Superintendencia sólo se pronunciará sobre
-
-aquellas observaciones y oposiciones fundadas
-
-en causales establecidas en esta ley que hubieren
-
-sido formuladas por los dueños de las
-
-propiedades afectadas o por otros interesados
-
-dentro de plazo.
-
-El decreto de otorgamiento, que contendrá
-
-las indicaciones de las letras a) y siguientes
-
-del artículo 25º y la aprobación de los planos
-
-de servidumbres que se impondrán, deberá ser
-
-publicado en el sitio electrónico del Ministerio
-
-de Energía en el plazo de quince días, contado
-
-desde la fecha de su publicación en el Diario
-
-Oficial y deberá ser reducido a escritura
-
-pública por el concesionario antes de quince
-
-días contados desde esta última publicación.
-
-Tratándose de proyectos para establecer
-
-líneas de transmisión de energía eléctrica, el
-
-solicitante podrá dividir en cualquier momento
-
-la concesión que solicita en dos o más tramos.
-
-Las notificaciones practicadas con anterioridad
-
-a la división de la solicitud de concesión se
-
-entenderán válidas para todos los efectos,
-
-siempre y cuando el trazado en el predio afectado
-
-y notificado no haya variado a propósito de
-
-dicha división.
-
-El decreto que se pronuncie sobre cada tramo,
-
-señalará la concesión a la que pertenece.
-
-El decreto también consignará que, si por
-
-cualquiera circunstancia, alguno de los tramos
-
-no pudiere ejecutarse, el retiro de las instalaciones
-
-que ocupen bienes nacionales de uso público,
-
-terrenos fiscales o particulares, deberá hacerse
-
-dentro del plazo y en las condiciones que fije
-
-la Superintendencia.
-
-La división a que se refiere este artículo no
-
-afectará en modo alguno la prohibición de
-
-fraccionamiento contemplada en la ley Nº19.300.
+La división a que se refiere este artículo no afectará en modo alguno la prohibición de fraccionamiento contemplada en la ley Nº19.300.
 
 #### Artículo 30°
 
@@ -1480,53 +1390,15 @@ Extinción de las Concesiones
 
 #### Artículo 39º
 
-Las concesiones definitivas
+Las concesiones definitivas de servicio eléctrico caducarán, antes de entrar en explotación:
 
-de servicio eléctrico caducarán, antes
+1. Si no se iniciaren los trabajos dentro de los plazos señalados y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.
 
-de entrar en explotación:
+2. Si no se hubiesen ejecutado por lo menos los dos tercios de las obras dentro de los plazos establecidos y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.
 
-1. Si el concesionario no redujere
+La caducidad será declarada por el Presidente de la República mediante decreto supremo fundado.
 
-a escritura pública el decreto de concesión
-
-dentro del plazo establecido en el inciso tercero
-
-del artículo 29º.
-
-2. Si no se iniciaren los trabajos dentro de
-
-los plazos señalados y no mediare fuerza mayor o caso
-
-fortuito u otra causal grave y calificada que exima
-
-de responsabilidad al concesionario, la que deberá
-
-ser fundada por la Superintendencia.
-
-3. Si no se hubiesen ejecutado por lo menos
-
-los dos tercios de las obras dentro de los plazos
-
-establecidos y no mediare fuerza mayor o caso
-
-fortuito u otra causal grave y calificada que exima
-
-de responsabilidad al concesionario, la que deberá
-
-ser fundada por la Superintendencia.
-
-La caducidad será declarada por el Presidente
-
-de la República mediante decreto supremo fundado.
-
-El decreto supremo que rechace la solicitud de
-
-caducidad será expedido por el Ministro de Energía
-
-bajo la fórmula "por orden del Presidente de la
-
-República."
+El decreto supremo que rechace la solicitud de caducidad será expedido por el Ministro de Energía bajo la fórmula "por orden del Presidente de la República."
 
 #### Artículo 40º
 
@@ -1688,7 +1560,9 @@ Se podrá autorizar la servidumbre temporal de postación en casos calificados p
 
 #### Artículo 62°
 
-Las gestiones para hacer efectivas las servidumbres deberán iniciarse en cada caso dentro de los seis meses siguientes a la fecha de reducción a escritura pública del decreto de concesión definitiva que hubiere aprobado los planos correspondientes, so pena de caducidad del derecho otorgado para imponer la servidumbre.
+Las gestiones para hacer efectivas las servidumbres deberán iniciarse en cada caso dentro de los seis meses siguientes a la fecha de publicación en el Diario Oficial del decreto de concesión definitiva que hubiere aprobado los planos correspondientes, so pena de caducidad del derecho otorgado para imponer la servidumbre.
+
+A efectos de la inscripción de las servidumbres indicadas en el inciso anterior en los registros conservatorios correspondientes, bastará con la exhibición del decreto de concesión suscrito con firma electrónica avanzada de acuerdo a lo dispuesto en la ley N° 19.799, o con la exhibición de su copia debidamente autorizada por el ministro de fe del Ministerio de Energía.
 
 #### Artículo 63º
 
@@ -2742,15 +2616,17 @@ El mencionado decreto será publicado en el Diario Oficial y en el sitio web del
 
 El titular del proyecto será considerado titular de concesión eléctrica para los efectos del artículo 31° bis y 34° bis de la presente ley.
 
-Dentro de los treinta días siguientes a la publicación en el Diario Oficial del decreto referido en el inciso segundo, el titular del proyecto lo deberá reducir a escritura pública, a su costo. A partir de la fecha de reducción a escritura pública, el titular del proyecto deberá iniciar las gestiones para hacer efectivas las servidumbres conforme a los artículos 62° y siguientes de la ley.
+Dentro de los treinta días siguientes a la publicación en el Diario Oficial del decreto referido en el inciso segundo, el titular del proyecto deberá iniciar las gestiones para hacer efectivas las servidumbres conforme a los artículos 62° y siguientes de la ley.
 
 En todo lo no regulado en el presente Capítulo, será aplicable, en lo que corresponda, lo dispuesto en el Capítulo V, del Título II, de la presente ley.
+
+A efectos de la inscripción en los registros conservatorios correspondientes de las servidumbres constituidas mediante el decreto señalado en este artículo, bastará con la exhibición del decreto suscrito con firma electrónica avanzada de acuerdo a lo dispuesto en la ley N° 19.799, o con la exhibición de su copia debidamente autorizada por el Ministro de fe del Ministerio de Energía.
 
 #### Artículo 98°
 
 Situación excepcional de modificaciones de trazados. En caso que, una vez obtenida la resolución de calificación ambiental y durante la ejecución del proyecto, el titular del mismo requiera excepcionalmente modificar el trazado definitivo, deberá, en forma previa, solicitar en forma fundada la aprobación del Ministerio, el que deberá evaluar los antecedentes que justifican tal modificación y una vez obtenida la autorización de éste, el proyecto deberá sujetarse a lo dispuesto en la ley Nº19.300, sobre Bases Generales del Medio Ambiente.
 
-Calificada favorablemente la modificación del proyecto, el Ministerio procederá a modificar el decreto señalado en el artículo anterior, el que deberá ser publicado y reducido a escritura pública en los términos y condiciones señalados en dicho artículo.
+Calificada favorablemente la modificación del proyecto, el Ministerio procederá a modificar el decreto señalado en el artículo anterior, el que deberá ser publicado en los términos y condiciones señalados en dicho artículo. Dicho decreto servirá de título suficiente para requerir las inscripciones que procedan en los registros conservatorios respectivos, conforme a lo indicado en el inciso final del artículo precedente.
 
 #### Artículo 99°
 

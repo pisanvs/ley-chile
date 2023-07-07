@@ -42,7 +42,7 @@ Las organizaciones deportivas profesionales tendrán el carácter de corporacion
 
 #### Artículo 5º
 
-Las organizaciones deportivas profesionales tendrán el carácter de tales por el solo hecho de depositar en la Dirección Nacional del Instituto Nacional de Deportes copia autorizada de la escritura pública de constitución, inscrita y publicada en los términos del artículo 5º de la ley Nº 18.046, en el caso de las sociedades anónimas deportivas profesionales, o acta reducida a escritura pública de la asamblea en que se aprobaron los estatutos y se otorgó mandato al número de personas necesario para realizar todos los actos y contratos requeridos para perfeccionar su constitución, tratándose de corporaciones y fundaciones. En ambos casos, será requisito para el depósito y posterior registro, acompañar certificado, también reducido a escritura pública, emitido por la correspondiente asociación o liga deportiva profesional, en que conste su carácter de socia.
+Las organizaciones deportivas profesionales tendrán el carácter de tales por el solo hecho de depositar en la Dirección Nacional del Instituto Nacional de Deportes copia autorizada de la escritura pública de constitución, inscrita y publicada en los términos del artículo 5º de la ley Nº 18.046, en el caso de las sociedades anónimas deportivas profesionales, o acta reducida a escritura pública de la asamblea en que se aprobaron los estatutos y se otorgó mandato al número de personas necesario para realizar todos los actos y contratos requeridos para perfeccionar su constitución, tratándose de corporaciones y fundaciones. En ambos casos, será requisito para el depósito y posterior registro, acompañar certificado, otorgado por escrito, y deberá constar en el respectivo instrumento la autorización notarial de la firma o suscribirse éste a través de documento electrónico suscrito mediante firma electrónica avanzada, emitido por la correspondiente asociación o liga deportiva profesional, en que conste su carácter de socia.
 
 Las organizaciones deportivas profesionales mantendrán su calidad mientras se encuentren con su inscripción vigente en el Registro de Organizaciones Deportivas Profesionales, de acuerdo a lo que establezca el reglamento.
 
@@ -212,7 +212,7 @@ d) La fijación del monto de los aportes en dinero efectivo que, junto con los b
 
 #### Artículo 27
 
-La asamblea deberá celebrarse con asistencia de un notario público, quien certificará el hecho de haberse cumplido con todas las formalidades exigidas por esta ley. El acta de la misma deberá reducirse a escritura pública, la cual dará testimonio de los miembros asistentes y de los reclamos que se hubieren formulado en conformidad a lo dispuesto en el artículo 18 del decreto supremo Nº 110, de 1979, del Ministerio de Justicia.
+El acta de la asamblea dará testimonio de los miembros que asistieron, de los reclamos que se hayan formulado, y deberá reducirse a escritura pública.
 
 #### Artículo 28
 
