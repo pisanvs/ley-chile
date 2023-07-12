@@ -106,27 +106,29 @@ b) Gestionar ante la Dirección de Presupuestos del Ministerio de Hacienda, la a
 
 c) Informar al Comité las impugnaciones de las tasaciones bancarias de los inmuebles a ser adquiridos con créditos garantizados por el Fondo.
 
-d) Constituir la Comisión Tasadora y nombrar a los peritos que correspondan designar a Corfo, de conformidad a lo establecido en el decreto supremo a que se refiere el inciso segundo, del artículo noveno transitorio, de la Ley Nº 20.845.
+d) Aprobar o impugnar las tasaciones comerciales de los inmuebles donde funcionan los establecimientos educacionales, presentadas por la entidad sostenedora, que no cuenten con la garantía del Fondo de Garantía de Infraestructura Escolar, en conformidad a lo dispuesto en el artículo sexto transitorio y en la letra a) del artículo octavo transitorio de la ley N° 20.845, sea que ésta fuera realizada por la empresa bancaria o por la comisión tasadora a que se refiere el artículo noveno transitorio del mismo cuerpo legal.
 
-e) Informar al Comité sobre la constitución de la Comisión Tasadora y del nombramiento de peritos que correspondan designar a Corfo, de conformidad a lo establecido en el artículo noveno transitorio de la ley Nº 20.845.
+e) Constituir la Comisión Tasadora y nombrar a los peritos que correspondan designar a Corfo, de conformidad a lo establecido en el decreto supremo a que se refiere el inciso segundo, del artículo noveno transitorio, de la Ley Nº 20.845.
 
-f) Pagar los honorarios de los peritos tasadores que formen parte de la Comisión Tasadora y que sean de cargo de la Corporación, en representación del Fondo.
+f) Informar al Comité sobre la constitución de la Comisión Tasadora y del nombramiento de peritos que correspondan designar a Corfo, de conformidad a lo establecido en el artículo noveno transitorio de la ley Nº 20.845.
 
-g) La representación legal, judicial y extrajudicial, del Fondo. En el ámbito judicial, deberá asumir la representación del Fondo en todos los asuntos, juicios o gestiones que le competan a Corfo ante cualquier tribunal, ordinario, especial, arbitral, administrativo o de cualquier otra clase, así intervenga como demandante, demandado o tercero de cualquier especie, pudiendo ejercitar toda clase de acciones, sean ellas ordinarias, ejecutivas, especiales, de jurisdicción no contenciosa o de cualquier otra naturaleza. En el ejercicio de la representación judicial, podrá actuar tanto con todas las facultades ordinarias del mandato judicial, como en los términos previstos en el inciso segundo del artículo séptimo del Código de Procedimiento Civil, pudiendo desistirse en primera instancia de la acción entablada, aceptar la demanda contraria, renunciar a los recursos y a los términos legales, absolver posiciones, comprometer, otorgar a los árbitros facultades de arbitradores, cobrar, percibir, prorrogar jurisdicción, intervenir en gestiones de conciliación o avenimiento, proponer y aprobar convenios y otorgar quitas o esperas; con la sola limitación de que no podrá contestar demandas, sin que ellas sean notificadas previamente al Vicepresidente Ejecutivo de la Corporación.
+g) Pagar los honorarios de los peritos tasadores que formen parte de la Comisión Tasadora y que sean de cargo de la Corporación, en representación del Fondo.
 
-h) Ejecutar o suscribir toda clase de actos, contratos o documentos, públicos o privados, requeridos para el cabal cumplimiento de las anteriores facultades.
+h) La representación legal, judicial y extrajudicial, del Fondo. En el ámbito judicial, deberá asumir la representación del Fondo en todos los asuntos, juicios o gestiones que le competan a Corfo ante cualquier tribunal, ordinario, especial, arbitral, administrativo o de cualquier otra clase, así intervenga como demandante, demandado o tercero de cualquier especie, pudiendo ejercitar toda clase de acciones, sean ellas ordinarias, ejecutivas, especiales, de jurisdicción no contenciosa o de cualquier otra naturaleza. En el ejercicio de la representación judicial, podrá actuar tanto con todas las facultades ordinarias del mandato judicial, como en los términos previstos en el inciso segundo del artículo séptimo del Código de Procedimiento Civil, pudiendo desistirse en primera instancia de la acción entablada, aceptar la demanda contraria, renunciar a los recursos y a los términos legales, absolver posiciones, comprometer, otorgar a los árbitros facultades de arbitradores, cobrar, percibir, prorrogar jurisdicción, intervenir en gestiones de conciliación o avenimiento, proponer y aprobar convenios y otorgar quitas o esperas; con la sola limitación de que no podrá contestar demandas, sin que ellas sean notificadas previamente al Vicepresidente Ejecutivo de la Corporación.
 
-i) Pagar las cuotas insolutas del contrato a que hace referencia el artículo octavo transitorio de la ley Nº 20.845, operando la subrogación en los términos del numeral 5º del artículo 1610 del Código Civil.
+i) Ejecutar o suscribir toda clase de actos, contratos o documentos, públicos o privados, requeridos para el cabal cumplimiento de las anteriores facultades.
 
-j) Ejecutar el acuerdo del Comité que hace efectiva la garantía de pago a que se refiere el artículo décimo cuarto transitorio de la ley Nº 20.845, debiendo efectuar su notificación por carta certificada al sostenedor.
+j) Pagar las cuotas insolutas del contrato a que hace referencia el artículo octavo transitorio de la ley Nº 20.845, operando la subrogación en los términos del numeral 5º del artículo 1610 del Código Civil.
 
-k) Realizar las gestiones necesarias con el objeto de inscribir los bienes inmuebles recuperados por el Fondo, como consecuencia de haberse hecho efectiva la garantía de pago.
+k) Ejecutar el acuerdo del Comité que hace efectiva la garantía de pago a que se refiere el artículo décimo cuarto transitorio de la ley Nº 20.845, debiendo efectuar su notificación por carta certificada al sostenedor.
 
-l) Transferir al Fisco los inmuebles recuperados en virtud de lo señalado en la letra anterior, dentro del plazo establecido en la ley Nº 20.845.
+l) Realizar las gestiones necesarias con el objeto de inscribir los bienes inmuebles recuperados por el Fondo, como consecuencia de haberse hecho efectiva la garantía de pago.
 
-m) Dictar la resolución que dé cuenta del pago de la última cuota del crédito bancario garantizado, previo requerimiento del sostenedor del establecimiento.
+m) Transferir al Fisco los inmuebles recuperados en virtud de lo señalado en la letra anterior, dentro del plazo establecido en la ley Nº 20.845.
 
-n) Realizar el cálculo a que se refiere el inciso final, del artículo undécimo transitorio, de la ley Nº 20.845, debiendo informar igualmente dicho cálculo al Comité.
+n) Dictar la resolución que dé cuenta del pago de la última cuota del crédito bancario garantizado, previo requerimiento del sostenedor del establecimiento.
+
+ñ) Realizar el cálculo a que se refiere el inciso final, del artículo undécimo transitorio, de la ley Nº 20.845, debiendo informar igualmente dicho cálculo al Comité.
 
 4º La inversión de los recursos del "Fondo de Garantía de Infraestructura Escolar", en los términos regulados por el artículo undécimo de la Ley Nº 20.845, y de conformidad a las instrucciones impartidas por el Ministro de Hacienda, corresponderá al Gerente de Administración y Finanzas de Corfo, a través de la Unidad de Gestión Patrimonial o la Unidad de su dependencia que la reemplace en dichas funciones.
 
