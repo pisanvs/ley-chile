@@ -1096,7 +1096,7 @@ Los procedimientos descritos en los artículos 2 y 5 transitorios mencionados en
 
 #### Artículo segundo
 
-Los derechos de aprovechamientos de aguas constituidos por acto de autoridad competente, y que a la fecha de publicación de esta ley no estuvieren inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces correspondiente, deberán ser inscritos, a petición de sus titulares, en el referido registro. Transcurrido el plazo de dieciocho meses contado desde la publicación de esta ley, los Conservadores de Bienes Raíces no admitirán a trámite la inscripción de los derechos de aprovechamiento de que trata este inciso, los cuales caducarán por el solo ministerio de la ley.
+Los derechos de aprovechamientos de aguas constituidos por acto de autoridad competente, y que a la fecha de publicación de esta ley no estuvieren inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces correspondiente, deberán ser inscritos, a petición de sus titulares, en el referido registro, antes del 6 de abril de 2025. Transcurrido este plazo, los Conservadores de Bienes Raíces no admitirán a trámite la inscripción de los derechos de aprovechamiento de que trata este inciso, los cuales caducarán por el solo ministerio de la ley. La caducidad a que se refiere este inciso no será aplicable a los usos actuales de las aguas respecto de los cuales se inicie el procedimiento de regularización, conforme lo dispuesto en el inciso segundo del artículo anterior.
 
 La negativa del Conservador de Bienes Raíces a inscribir un derecho de aprovechamiento de aguas, cuya inscripción se ha sometido a trámite dentro del plazo señalado en el inciso anterior, se sujetará al procedimiento judicial contemplado en los incisos segundo y tercero del artículo 1 transitorio del Código de Aguas. El interesado que solicita la inscripción tendrá el plazo máximo de treinta días hábiles para recurrir, contado desde el día en que el Conservador de Bienes Raíces deje constancia de su negativa a inscribirlo. Si el juez de letras competente resolviere por sentencia firme o ejecutoriada que procede la inscripción del derecho de aprovechamiento de aguas en el registro respectivo, el Conservador de Bienes Raíces competente procederá a practicar la inscripción, entendiéndose, para todos los efectos legales, que tal derecho siempre estuvo vigente. En todo caso, el interesado, al momento de presentar la acción para impugnar la decisión del Conservador de Bienes Raíces, deberá solicitar que se remita copia de ella y de la resolución que la acoge a tramitación a la Dirección General de Aguas, para que este Servicio se abstenga de conceder nuevos derechos de aprovechamiento de aguas que puedan afectar su derecho, mientras dure el procedimiento judicial.
 
@@ -1109,6 +1109,8 @@ El plazo que se contempla en el inciso primero será de cinco años para aquello
 El Registro Público de Derechos de Aprovechamiento de Aguas establecido en el inciso tercero del artículo 122 del Código de Aguas, incluirá un registro de todos los derechos de aguas que informen los Conservadores de Bienes Raíces en virtud del presente artículo y también de aquellos que informen directamente sus titulares, adjuntando al efecto copia del certificado de dominio vigente y de la inscripción en el registro conservatorio respectivo.
 
 No se aplicará la causal de caducidad establecida en el inciso primero a los derechos de aprovechamiento otorgados a los servicios sanitarios rurales; a las comunidades agrícolas definidas en el artículo 1 del decreto con fuerza de ley N° 5, de 1967, del Ministerio de Agricultura; a los propietarios de áreas protegidas que no utilicen los derechos de aprovechamiento de aguas con el objeto de mantener la función de preservación ecosistémica en dichas áreas protegidas; y a los indígenas o comunidades indígenas, entendiendo por tales los regulados en el artículo 5 del Código de Aguas y aquellos considerados en los artículos 2 y 9 de la ley N° 19.253, respectivamente. No obstante, sí les será aplicable a los casos anteriores lo dispuesto en el inciso cuarto de este artículo, excepto en el caso de los indígenas y comunidades indígenas.
+
+El Instituto de Desarrollo Agropecuario, la Dirección General de Aguas, la Corporación Nacional de Desarrollo Indígena y la correspondiente organización de usuarios velarán por la difusión e información de las disposiciones de este artículo.
 
 #### Artículo tercero
 
@@ -1144,7 +1146,7 @@ El mayor gasto fiscal que represente la aplicación de esta ley durante su prime
 
 #### Artículo décimo
 
-Lo dispuesto en el inciso primero del artículo 132 comenzará a regir a los dos años de la publicación de esta ley.
+Lo dispuesto en el inciso primero del artículo 132 comenzará a regir desde el 6 de abril de 2025.
 
 #### Artículo décimo
 
@@ -1152,13 +1154,19 @@ primero.- Los titulares de derechos de aprovechamiento de aguas que hayan inicia
 
 #### Artículo décimo
 
-segundo.- En todas las áreas de restricción o zonas de prohibición declaradas antes de la publicación de la presente ley deberán iniciarse los trámites para conformar las Comunidades de Aguas Subterráneas, dentro del plazo de un año –contado desde la publicación de ésta. Vencido el plazo, la Dirección General de Aguas no podrá autorizar cambios de punto de captación en dicha zona, respecto de aquellas personas que no se hayan hecho parte en el proceso de conformación de la comunidad, conforme a lo dispuesto en el artículo 63 del Código de Aguas.
+segundo.- En todas las áreas de restricción o zonas de prohibición declaradas antes de la publicación de esta ley deberán iniciarse los trámites para conformar las Comunidades de Aguas Subterráneas, dentro del plazo de tres años contado desde su publicación. Vencido el plazo la Dirección General de Aguas sólo podrá autorizar cambios de punto de captación en dicha zona, respecto de aquellas personas que se hayan hecho parte en el proceso de conformación de la comunidad, conforme a lo dispuesto en el artículo 63 del Código de Aguas o se incorporen a la comunidad con posterioridad.
 
 #### Artículo décimo
 
 tercero.- Las inscripciones que se hubieren practicado a la fecha de entrada en vigencia de la presente ley, por aplicación de las causales previstas en los números 1, 2, 3 y 8 del artículo 114, numerales que la presente ley deroga, continuarán vigentes para todos los efectos legales, y les serán aplicables lo dispuesto en el numeral 5 del artículo 173, y lo señalado en el artículo 460 bis del Código Penal, debiendo, asimismo, incorporarse en el catastro público que lleva la Dirección General de Aguas, según se contempla en el artículo 122.
 
 Sin perjuicio de lo señalado en el inciso precedente, para los efectos de lo dispuesto en el artículo 117 del Código de Aguas, todo titular de derecho de aprovechamiento de aguas que haya sido reconocido dentro de los títulos constitutivos de una organización de usuarios de aguas deberá contar con el título individualmente inscrito a su nombre.
+
+A petición de parte, y previo informe favorable de la Dirección General de Aguas, los Conservadores de Bienes Raíces podrán efectuar inscripciones individuales de derechos de aprovechamiento de aguas en favor de aquellos titulares que no las posean, a partir de las inscripciones constitutivas de aquellas organizaciones de usuarios de aguas, constituidas judicial o extrajudicialmente. En conformidad con lo dispuesto en el literal a) del artículo 300 del Código de Aguas, una circular contendrá los requisitos y condiciones necesarias para solicitar este informe.
+
+En la petición a que se refiere el inciso anterior, el solicitante deberá acompañar un certificado emitido por la respectiva organización de usuarios de aguas, con una antigüedad no superior a treinta días corridos, en el cual se reconozca que es integrante de esa organización. Si ella no emite el certificado solicitado dentro de treinta días, el titular acompañará copia de esa solicitud junto con los demás antecedentes a la Dirección General de Aguas.
+
+La petición a que alude el inciso tercero se publicará en la forma establecida en el artículo 131 del Código de Aguas. Los titulares de derechos de aprovechamiento de aguas afectados podrán deducir oposición dentro del plazo de noventa días hábiles contado desde dicha publicación, mediante presentación que se sujetará en la forma, plazos y trámites a lo prescrito en el Párrafo 1 del Título I del Libro Segundo del Código de Aguas.
 
 #### Artículo décimo
 

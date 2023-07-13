@@ -1666,7 +1666,17 @@ Conocidas las observaciones al listado, ellas serán resueltas por la Dirección
 
 Los gastos que irrogue a la Dirección General de Aguas la formación de un rol provisional de usuarios, serán determinados por dicha Dirección y cobrados a los integrantes del rol, a prorrata de sus derechos.
 
-f. De las modificaciones en cauces naturales o artificiales
+f. Del perfeccionamiento del derecho de aprovechamiento
+
+#### Artículo 170 bis
+
+Toda solicitud destinada a perfeccionar o completar los elementos o características esenciales del título del derecho de aprovechamiento de aguas se someterá a la Dirección General de Aguas, por medio de un procedimiento administrativo especial que se tramitará en conformidad al Párrafo 1 de este Título. Para estos efectos se tendrá a la vista lo dispuesto en los artículos 7, 309, 312, 313 y demás disposiciones de este Código, en lo que correspondan.
+
+Una vez que se encuentre firme y ejecutoriada la resolución administrativa que perfeccione el título del derecho de aprovechamiento de aguas, la Dirección General de Aguas, dentro del plazo de quince días hábiles, procederá a registrar el derecho en el Catastro Público de Aguas dispuesto en el artículo 122. Asimismo, el titular del derecho, cuando corresponda, deberá requerir al Conservador de Bienes Raíces respectivo que deje constancia del registro efectuado en el Catastro Público de Aguas, al margen de la inscripción del derecho de aprovechamiento de aguas.
+
+Lo dispuesto en los incisos anteriores también será aplicable a la solicitud de perfeccionamiento del título del derecho de aprovechamiento de aguas que hubiese sido determinado en una resolución dictada por el Servicio Agrícola y Ganadero.
+
+g. De las modificaciones en cauces naturales o artificiales
 
 #### Artículo 171°
 
@@ -1682,7 +1692,7 @@ Si se realizaren obras con infracción de lo dispuesto en el artículo anterior,
 
 Si las obras que no cuentan con la debida autorización entorpecen el libre escurrimiento de las aguas o significan peligro para la vida o salud de los habitantes, la Dirección General de Aguas impondrá una multa del segundo al tercer grado, de conformidad al artículo 173 ter, y apercibirá al infractor fijándole un plazo perentorio para que destruya las obras o las modifique, ordenándole que presente el correspondiente proyecto de acuerdo a las normas de este Código. Si el infractor no diere cumplimiento a lo ordenado, la Dirección le impondrá una multa mínima de 100 y máxima de 1.000 unidades tributarias anuales, según fuere la magnitud del entorpecimiento ocasionado al libre escurrimiento de las aguas o el peligro para la vida o salud de los habitantes, y podrá adoptar las medidas para su cumplimiento de conformidad a lo dispuesto en el artículo 138.
 
-g. De la fiscalización
+h. De la fiscalización
 
 #### Artículo 172 bis
 
@@ -3103,6 +3113,10 @@ La Dirección General de Aguas, a petición de la Comisión Nacional de Riego y 
 El actual Registro de Aguas que llevan los Conservadores de Bienes Raíces constituirá el Registro de Aguas establecido por el artículo 112 del presente código.
 
 No será necesario reinscribir los derechos de aguas que estuvieren vigentes.
+
+#### Artículo 11
+
+Los solicitantes de perfeccionamiento del título de derechos de aprovechamiento de aguas que hayan presentado su requerimiento previo a la vigencia del artículo 170 bis podrán voluntariamente someterse al nuevo procedimiento dispuesto en ese artículo, y harán constar el desistimiento o renuncia en sede judicial.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Rolando Ramos Muñoz, Brigadier General, Ministro de Economía, Fomento y Reconstrucción.- Patricio Torres Rojas, Brigadier General, Ministro de Obras Públicas.- Luis Simón Figueroa del Río, Ministro de Agricultura subrogante.
 
