@@ -14,7 +14,7 @@ Que, conjuntamente con lo anterior, se procede a eliminar del listado de autoriz
 
 Decreto:
 
-1º Autorízase la circulación los días sábados en la tarde, domingo y festivos, y exceptúanse de la obligación de llevar pintado el disco distintivo "Estatal", de conformidad a lo señalado en el decreto ley Nº 799, de 1974, a los veh�culos de dotación del Servicio Nacional de Aduanas, que a continuación se indican:
+1º Autorízase la circulación los días sábados en la tarde, domingo y festivos, y exceptúanse de la obligación de llevar pintado el disco distintivo "Estatal", de conformidad a lo señalado en el decreto ley Nº 799, de 1974, a los vehículos de dotación del Servicio Nacional de Aduanas, que a continuación se indican:
 
 1.
 
@@ -118,25 +118,7 @@ I.R.N.V.M. : FKBZ 84-5
 
 Destinación : Dirección Nacional de Aduanas Valparaíso.
 
-7.
-
-Vehículo : Station Wagon
-
-Marca : Hyundai
-
-Modelo : Santa Fe GLS 2.4
-
-Ano : 2013
-
-Color : Plateado
-
-Nº motor : G4KECU837323
-
-Chassis Nº : KMHSU81CADU031512
-
-I.R.N.V.M. : FKCB 56-4
-
-Destinación : Dirección Nacional de Aduanas Valparaíso.
+### 7. Eliminado
 
 8.
 
@@ -238,25 +220,7 @@ I.R.N.V.M. : FDDV 58-9
 
 Destinación : Administración de Aduanas Osorno.
 
-13.
-
-Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano DX Dob/Cab. 4x4 2.5
-
-Año : 2013
-
-Color : Plateado
-
-Nº motor : YD25424719T
-
-Chassis Nº : 3N6PD23Y8ZK917447
-
-I.R.N.V.M. : FHBZ 37-4
-
-Destinación : Dirección Regional de Aduanas Puerto Montt.
+### 13. Eliminado
 
 14.
 
