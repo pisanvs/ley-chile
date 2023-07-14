@@ -330,7 +330,21 @@ Asimismo, el proveedor deberá reparar los daños que pueda sufrir la vivienda e
 
 Toda instalación eléctrica deberá estar canalizada de modo de proteger el cableado eléctrico. Si el cable de alimentación se encuentra dañado tiene que ser sustituido por el técnico certificado.
 
+2. Establézcase la obligatoriedad por parte de las Entidades Patrocinantes, a difundir la información del Recambio de Calefactores a la totalidad de los beneficiarios hábiles organizadas para los llamados de Eficiencia Energética del Ministerio de Vivienda y Urbanismo.
+
+3. Instrúyase a las Entidades Patrocinantes, que al momento de ingresar un proyecto de Eficiencia Energética para la calificación de Serviu, debe agregar a los antecedentes requeridos, un Informe fundado que justifique que las viviendas de los beneficiarios hábiles, no incluidas en el recambio de calefactores, es porque no cumplen con los criterios para ser sujetos de dicho beneficio, con la firma respectiva del beneficiario que valide dicha afirmación.
+
+4. Déjese presente, que el cumplimiento de lo establecido en el presente acto administrativo, se considerará obligatorio para todos los procesos de postulación al llamado Eficiencia Energética del Ministerio de Vivienda y Urbanismo, desde el año 2024.
+
+5. Déjese presente, que todo lo no modificado por la presente resolución, se mantiene vigente en todas sus partes la resolución exenta N° 277.
+
+### 6. La presenta resolución no irroga gastos a la institución
+
+### 7. Publíquese, el presente acto administrativo en el Diario Oficial
+
 ### 2. Publíquese, el presente acto administrativo en el Diario Oficial
+
+> **Nota.** El N° 1 de la Resolución 641 Exenta, Vivienda, publicada del 14.07.2023, agrega los resuelvos 2 a 7 en la presente norma. Sin embargo, no se pronuncia respecto de la situación del resuelvo 2 correspondiente a la versión anterior de la presente resolución, razón por la cual se mantiene en el presente texto actualizado. Por su parte, por la redacción que se utiliza en el resuelvo 5, correspondería a la resolución modificatoria y no a la presente norma.
 
 Anótese, comuníquese y archívese.- Francisco Javier Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
 
