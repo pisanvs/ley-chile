@@ -108,9 +108,11 @@ c) Que, en los casos que la extracción de agua produzca perjuicio ajeno, la ext
 
 La norma al amparar únicamente el uso doméstico de subsistencia, consumo humano y el saneamiento definido en el artículo 5° bis, del Código de Aguas, sólo puede aplicar a personas naturales. En este sentido, la norma se encuentra destinada a garantizar un derecho humano esencial, propio y exclusivo de la persona humana.
 
-3.- Respecto a la existencia de SSR o empresa sanitaria.
+3.- Respecto a la existencia de SSR o empresa sanitaria
 
-En caso de que la obra de captación se encuentre ubicada dentro del polígono de concesión de una empresa sanitaria o un SSR, la persona o grupo familiar podrá ampararse en el artículo 56° del Código de Aguas siempre y cuando no cuenten con factibilidad de conexión de agua potable asociado a las respectivas empresas sanitarias o SSR.
+En caso de que la obra de captación se encuentre ubicada dentro del polígono de concesión de una empresa sanitaria o un SSR, la persona o grupo familiar podrá ampararse en el artículo 56º del Código de Aguas incluso cuando cuenten con factibilidad de conexión de agua potable asociado a las respectivas empresas sanitarias o SSR, siempre que 1) la extracción de agua subterránea se realice en suelo propio; 2) el destino de las aguas extraídas con cargo al artículo 56 inciso 1º sea para satisfacer las necesidades de bebida y uso doméstico de subsistencia de la persona o su grupo familiar [cumpliendo con los límites de caudal máximo]; y 3) no se produzca perjuicio ajeno o bien produciéndose la extracción de agua reporte mayor utilidad en comparación con dicho perjuicio ajeno.
+
+Ahora bien, en los casos en que la persona se encuentre igualmente conectada a una empresa sanitaria o SSR, el Servicio analizará en su mérito y conforme a antecedentes técnicos si la extracción produce perjuicio ajeno, y que la extracción no reporta mayor utilidad en comparación con dicho perjuicio; ordenando si corresponde la paralización de la extracción.
 
 4.- En cuanto a los usos ornamentales.
 
@@ -125,6 +127,8 @@ El uso del agua que se realice en segundas viviendas, casas de veraneo o suelos 
 a) En aquellas situaciones en que las aguas se utilicen exclusivamente para el consumo humano y saneamiento: Que, el caudal máximo instantáneo no sea superior a 0,5 l/s considerando además para consumo humano, un volumen de hasta 20 metros cúbicos mensuales por familia.
 
 b) En aquellas situaciones en que las aguas se utilicen para consumo humano, saneamiento y usos domésticos de subsistencia: Si la persona o grupo familiar, además de satisfacer sus necesidades de bebida y aseo personal, utiliza las aguas para la bebida de sus animales y/o el cultivo de productos hortofrutícolas para su subsistencia, el caudal máximo instantáneo no sea superior a 0,5 l/s y un volumen máximo de extracción será de hasta 650 metros cúbicos mensuales.
+
+7.- El artículo 56º del Código de Aguas, aplica tanto a quienes realizan una extracción de agua en suelo propio como a todos aquellos que realizan la extracción con un justo título para habitar en dicho inmueble. Lo anterior, siempre y cuando el destino de las aguas extraídas sea para satisfacer las necesidades de bebida y uso doméstico de subsistencia de la persona o su grupo familiar.
 
 IV.- INTERPRETACIONES PARTICULARES PARA EL CORRECTO ALCANCE Y APLICABILIDAD DEL INCISO 2° DEL ARTÍCULO 56° DEL CÓDIGO DE AGUAS
 
