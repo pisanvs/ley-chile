@@ -308,8 +308,6 @@ Plazos para la Instalación del Sistema de Medición de Extracciones y del Siste
 
 Los plazos que tendrán los titulares de derechos de aprovechamiento para la instalación del Sistema de Medición, Sistema de Trasmisión, registro de la obra en el Software DGA de Monitoreo de Extracciones Efectivas y para comenzar a transmitir los datos de extracciones, serán los definidos en el Cuadro 7, y comenzarán una vez sea publicada en el Diario Oficial la resolución DGA Regional que corresponda.
 
-.
-
 Cuadro 7. Detalle de Plazos para los diferentes componentes.
 
 Los plazos para los titulares de derechos de aprovechamiento de aguas subterráneas de la Provincia de Petorca, serán establecidos en resolución regional correspondiente.
