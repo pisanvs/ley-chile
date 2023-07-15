@@ -44,7 +44,21 @@ a. La concesionaria minera deberá ingresar, en formato digital, en la Oficina d
 
 1) La individualización del solicitante con su nombre completo, indicando su RUT (si corresponde), domicilio, dirección de correo electrónico, y cualquier otra mención que facilite el contacto con la DGA y que permita dar respuesta a los requerimientos de antecedentes solicitados por el Servicio.
 
-2) La ubicación de la o las obra(s) mediante la cual se captan las aguas halladas, indicando la comuna, provincia y coordenadas U.T.M. de acuerdo al Datum WGS 1984 y el huso. Dichas obras deben ser caracterizadas en detalle, indicando entre otras, su profundidad, tipología y funcionamiento.
+2) La ubicación de la o las obra(s) mediante la cual se captan las aguas halladas, indicando la comuna, provincia y coordenadas UTM de acuerdo al Datum WGS 1984 y el huso. Dichas obras deben ser caracterizadas en detalle, indicando entre otras, su profundidad, tipología y funcionamiento.
+
+La ubicación de los afloramientos podrá ser informada a través de:
+
+a) Polígono que identifique la zona donde estos de producen.
+
+b) Ubicación de las obras que permitan el desaguado.
+
+c) Cualquier otra referencia válida, permanente y verificable, que permita identificar la ubicación de los afloramientos de acuerdo al contexto hidrogeológico en que estos se registren.
+
+Se deberá describir en forma detallada el manejo de las aguas provenientes de los afloramientos dentro de la faena de explotación, es decir su drenaje hasta el punto donde son colectadas o acumuladas para ser conducidas hasta el punto de medición de caudal y volumen.
+
+En caso que las aguas provenientes de los afloramientos se mezclen con otras aguas de distinto origen y/o naturaleza, deberán describirse los puntos o zonas de mezcla y su ubicación así como también la forma o ubicación de los puntos de medición de las aguas de distinto origen.
+
+Las figuras, referencias o puntos deberán ser identificados y ubicados mediante coordenadas UTM [m] Datum WGS84, profundidad [m] y/o altitud [msnm] y referencia con respecto a la operación [nivel, túnel, operación, etc.].
 
 3) El caudal, promedio y máximo, que se capta y el volumen total anual, en el caso que corresponda, expresado en volumen por unidad de tiempo (l/s, m3/s, u otra unidad).
 
@@ -64,7 +78,7 @@ b. Al informe identificado en el punto anterior, deberán acompañarse los sigui
 
 2. Cuando corresponda, acompañar los antecedentes legales de la persona jurídica incluyendo el certificado de vigencia de ella y la personería con vigencia, cuya antigüedad no debe ser superior a 60 días hábiles contados desde la fecha de presentación del Informe.
 
-3. Copia de Inscripción con Vigencia de la sentencia constitutiva de la concesión minera, del Registro de Propiedad del Conservador de Minas respectivo, cuya antigüedad no debe ser superior a 60 días hábiles contados desde la fecha de presentación del Informe.
+3. Certificado de dominio vigente del acta de mensura y sentencia constitutiva de la pertenencia minera respectiva del Conservador de Minas correspondiente, cuya antigüedad no debe ser superior a un año a la fecha de presentación del informe. Si no se cuenta con vigencia de esa antigüedad, se podrá acompañar documento de Sernageomin que dé cuenta de las pertenencias mineras que el concesionario tenga registradas.
 
 4. La o las Resoluciones de Calificación Ambiental asociadas a la concesión minera respectiva, faena o proyecto, en caso que corresponda y que se vinculen con las aguas halladas.
 
@@ -74,9 +88,13 @@ b. Al informe identificado en el punto anterior, deberán acompañarse los sigui
 
 7. Estudio Hidrogeológico que establezca el origen y marco conceptual (modelo conceptual) del funcionamiento hidrogeológico del sector hidrogeológico de aprovechamiento común donde se hallan las aguas y la influencia que pueda tener a sectores adyacentes.
 
+Para concesionarios de la gran y mediana minería el plazo de entrega del modelo conceptual será de 120 días hábiles, contados desde el hallazgo de las aguas, prorrogables por una sola vez de manera fundada.
+
+Para el caso de la pequeña minería y minería artesanal, no será obligatorio el modelo conceptual. En casos fundados la DGA podrá solicitar mayores antecedentes para pronunciarse.
+
 Esta información deberá ser coherente con la presentada en el proceso de evaluación ambiental, si corresponde, sin perjuicio de considerar sus posteriores actualizaciones y la oportunidad de presentación en la DGA.
 
-c. Para el caso de la pequeña minería y minería artesanal, no será obligatorio el documento enunciado en el número 7 de la letra b. anterior. En casos fundados la DGA podrá solicitar mayores antecedentes para pronunciarse.
+c. Eliminado.
 
 2. Determínanse las formas, requisitos y periodicidad en que deberá entregarse la información señalada en inciso tercero del artículo 56 bis del Código de Aguas:
 
@@ -92,7 +110,7 @@ Esta plataforma requiere autenticarse con clave única y recibe los datos de las
 
 Al respecto, los concesionarios mineros deberán mantener actualizada la información de cada obra. Asimismo, deberán mantener actualizada la información del Sistema de Medición y del Sistema de Transmisión. Todo lo anterior, de acuerdo a los campos a llenar en el Software DGA de Monitoreo de Extracciones Efectivas.
 
-Para fines del Software DGA de Monitoreo de Extracciones Efectivas (M.E.E.) los estanques de acumulación exclusivos de aguas halladas se considerarán una obra de captación, debiendo además registrar por separado las obras aportantes.
+Para fines del Software DGA de Monitoreo de Extracciones Efectiva (M.E.E.) cada conducto de salida de un estanque de acumulación exclusivo de aguas halladas se considerarán una obra de captación. Si un estanque de acumulación exclusivo de aguas halladas tiene más de un conducto de salida deberán registrarse por separado cada uno de ellos, teniendo cada uno un código de obra distinto. No se deben registrar las obras aportantes a un estanque de acumulación exclusivo de aguas halladas, por lo que no tendrán código de obra. Sin embargo, las obras aportantes deberán estar detalladas en un documento que deberá adjuntarse en el registro de la obra que corresponda al conducto de salida del estanque de acumulación exclusivo de aguas halladas respectivo.
 
 Para los casos de obras de captación que utilicen el sistema de medición por Otros Medios, en el registro de cada obra deberán adjuntar un documento que describa el sistema de medición utilizado. Al respecto, la Dirección General de Aguas, dentro de sus funciones de policía y vigilancia, podrá en cualquier momento hacer observaciones al sistema de medición utilizado.
 
@@ -112,7 +130,7 @@ Como requisito para obtener la información periódica se deberá instalar uno d
 
 Este Sistema de Medición se compone de conducción de las aguas halladas, estanque de acumulación, flujómetro, Data Logger y fuente de energía eléctrica, con las siguientes características:
 
-Conducción de las aguas halladas. Corresponde a los sistemas que transportan las aguas captadas desde los lugares de los hallazgos hasta el estanque de acumulación exclusivo de aguas halladas. Se puede emplear cualquier sistema de conducción, por ejemplo, mangueras, tuberías, camiones aljibe u otros. Las aguas captadas deben ser íntegramente conducidas y depositadas en el estanque de acumulación exclusivo de aguas halladas. Las obras aportantes relativas a las aguas halladas, captadas y depositadas en el estanque de acumulación exclusivo de dichas aguas deben estar registradas por separado con un sistema de medición por otros medios.
+Conducción de las aguas halladas. Corresponde a los sistemas que transportan las aguas captadas desde los lugares de los hallazgos hasta el estanque de acumulación exclusivo de aguas halladas. Se puede emplear cualquier sistema de conducción, por ejemplo, mangueras, tuberías, camiones aljibe u otros. Las aguas captadas deben ser íntegramente conducidas y depositadas en el estanque acumulación exclusivo de aguas halladas.
 
 Estanque de acumulación exclusivo de aguas halladas. Corresponde a la estructura donde se depositarán y acumularán las aguas halladas. Debe tener las dimensiones suficientes para los volúmenes de aguas captadas. En general debe ubicarse en un lugar fijo, sin perjuicio que, de cambiar su ubicación, deberá actualizarse la información de las coordenadas. Debe recibir solo las aguas captadas amparadas en el artículo 56 bis del Código de Aguas, no pudiendo recibir ningún otro tipo de aguas que provengan de fuentes distintas a éstas. Este estanque podría tener varios conductos de salida, todos los cuales deben estar claramente identificados.
 
@@ -269,6 +287,8 @@ El estándar que le corresponderá instalar a cada concesionario minero depender
 . Categoría D: Estándar Pequeños Mineros y Mineros Artesanales.
 
 Los concesionarios mineros pueden emplear un componente de estándar superior, por ejemplo, un concesionario minero al que se le ordene Estándar Empresa Pequeña podría emplear Transmisión por Archivo u Online.
+
+> **Nota.** Los numerales 7 y 8 del N° I de la Resolución 1739 Exenta, Obras Públicas, publicada el 15.07.2023, modifican el cuadro 4 del artículo 5 del resuelvo 2° de la presente norma, respectivamente, en el siguiente sentido, donde dice: "Certificado de calibración" debe decir: "Certificado de calibración o contrastación" y donde dice: "Máxima antigüedad del certificado de calibración, en caso que el vigente no lo indique" debe decir: "Máxima antigüedad del certificado de calibración o contrastación".
 
 #### Artículo 6
 
