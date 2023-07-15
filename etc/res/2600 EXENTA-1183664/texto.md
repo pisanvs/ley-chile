@@ -56,23 +56,27 @@ Resuelvo:
 
 1. Defínase para efectos de interpretar el inciso 1° del artículo 56° bis del Código de Aguas, los siguientes conceptos y expresiones:
 
-. Aguas halladas: Aguas que, por la naturaleza de la actividad minera, son subterráneas, que efectiva y materialmente se alumbran durante la realización de las labores mineras de exploración o explotación, y cuyo hallazgo requiere de una labor previa del minero, precisamente aquella que se inserte en las labores propias de su título concesional, sin el fin último de encontrar dichas aguas.
+. Aguas halladas: Aguas que, por la naturaleza de la actividad minera, son subterráneas, que efectiva y materialmente se alumbran durante la realización de las labores mineras de exploración o explotación, y cuyo hallazgo requiere de una labor previa del minero, precisamente aquella que se inserte en las labores propias de su título concesional, sin el fin último de encontrar dichas aguas. Asimismo, se considerarán como aguas halladas aquellas aguas que afloren en obras subterráneas destinadas al transporte de minerales, residuos mineros, u otras de naturaleza similar.
 
 . Concesionaria minera: Persona titular de una concesión minera, a saber de "un derecho real e inmueble; distinto e independiente del dominio del predio superficial, aunque tengan un mismo dueño; oponible al Estado y a cualquier persona; transferible y transmisible; susceptible de hipoteca y otros derechos reales y, en general, de todo acto o contrato; y que se rige por las mismas leyes civiles que los demás inmuebles, salvo en lo que contraríen disposiciones de la Ley Orgánica Constitucional sobre Concesiones Mineras o del Código de Minería".
 
 . Labores de exploración minera: Conjunto de acciones y trabajos que permiten identificar, mediante la aplicación de una o más técnicas de reconocimientos geológicos, zonas de características favorables para la presencia de acumulaciones de minerales y yacimientos.
 
-. Labores de explotación minera: Se refiere a todas las labores que se realicen en la faena minera en el ejercicio de la facultad que tiene la concesionaria minera de extraer y apropiarse de lo extraído, con el objeto exclusivo de extraer o arrancar sustancias minerales concesibles, desde que se constituye la concesión de explotación hasta su extinción.
+. Labores de explotación minera: Se refiere a todas las labores que se realicen en la faena minera en el ejercicio de la facultad que tiene la concesionaria minera de extraer y apropiarse de lo extraído, con el objeto de extraer o arrancar sustancias minerales, desde que se constituye la concesión de explotación hasta su extinción.
 
-. En la medida que sean necesarias: Condición referente a que las aguas sean indispensables para las faenas de explotación y que implican la exigencia de una correspondencia y proporcionalidad entre estas aguas alumbradas y la entidad/características de las labores mineras.
+. En la medida que sean necesarias: Condición referente a que las aguas sean destinadas a las faenas de explotación y que implican la exigencia de una correspondencia y proporcionalidad entre estas aguas alumbradas y la entidad/características de las labores mineras de explotación, de beneficio o procesamiento de minerales.
 
 . Aguas sobrantes: Aguas que, conforme a la definición anterior, no se considera necesario su aprovechamiento indispensable en razón de la entidad/características de la concesión minera.
+
+La disposición de las aguas sobrantes podrá ser realizada a la fuente natural, de preferencia la de origen, o la más cercana, mientras no exista afección a la calidad de las aguas o a terceros.
 
 . Usos distintos: Cualquier otra utilización y/o aprovechamiento de aguas distintos a aquellos necesarios para la faena de explotación minera.
 
 . Peligro: En el contexto de la sustentabilidad de los acuíferos o los derechos de terceros, y en aplicación del principio preventivo, se entenderá como todo acto o situación con potencial de generar consecuencias no deseadas.
 
 . Grave afectación de los acuíferos: Daño severo a la sustentabilidad del acuífero que se produce cuando el volumen de extracción provoca un descenso sostenido o abrupto de sus niveles freáticos y/o de la calidad de aguas, de acuerdo con los criterios técnicos que defina la Dirección General de Aguas.
+
+Lo anterior deberá ser verificado, teniendo en cuenta entre otros antecedentes aquellos referentes al sector hidrogeológico de aprovechamiento común de las aguas halladas, en razón de una relación de causalidad entre la extracción de dichas aguas y el descenso producido que provoca la grave afectación.
 
 . Grave afectación de derechos de terceros: Efecto o consecuencia de causar menoscabo significativo al ejercicio de derechos de aprovechamiento de aguas de personas, naturales, jurídicas o, de hecho.
 
@@ -87,6 +91,8 @@ a) Los usos que permite el artículo 56° bis del Código de Aguas son una excep
 b) Atendido el tenor literal del artículo 56° bis del Código de Aguas, y considerando el carácter excepcionalísimo de esta norma, sólo podrán ampararse en este derecho quien disponga de una concesión minera. Lo anterior es ratificado por el artículo 110° Código de Minería, al iniciar el enunciado señalando: "El titular de la concesión minera tiene...". De esta manera, se establece que no podrán ampararse en lo dispuesto en el artículo 56° bis del Código de Aguas, aquellas personas que exploten faenas mineras sin concesión.
 
 c) Atendida la definición de aguas halladas aportada anteriormente, también pueden ampararse en el artículo 56° bis del Código de Aguas las aguas que, por razones de seguridad se capten antes de que afloren en el rajo o mina subterráneas, para despresurizar, salvaguardar la estabilidad de taludes o cualquier otra situación equivalente que deberá ser ponderada por la DGA, y que se demuestre hidrogeológicamente que dichas aguas aflorarían en el rajo en caso de no ser extraídas.
+
+La Dirección General de Aguas o el interesado podrán consultar al Sernageomin, en caso que a partir de la revisión de los antecedentes, existan o se requiera ejecutar captaciones anticipadas por motivos de seguridad de la faena derivadas del afloramiento o sobrepresión de aguas en la mina o rajo.
 
 d) En aquellos casos en que se extraigan aguas que fueron alumbradas en el contexto de una exploración minera, no se aplicará el artículo 56° bis del Código de Aguas, toda vez que las aguas que afloran en dicho contexto solo pueden ser utilizadas en la medida que sean necesarias en faenas de explotación.
 
