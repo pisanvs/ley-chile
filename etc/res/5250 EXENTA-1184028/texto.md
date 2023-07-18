@@ -332,9 +332,9 @@ Las condiciones de participación en el proceso de admisión a la educación uni
 
 El postulante, al participar en el proceso, acepta que infringir sus normas genera las siguientes consecuencias:
 
-El incumplimiento de alguno de los deberes antes señalados, así como toda acción que altere o impida el normal desarrollo de las distintas etapas del proceso de admisión, perjudique o pueda perjudicar a los participantes, infrinja la obligación de rendir las pruebas en forma personal y sin ayudas o cualquier sustracción o difusión no autorizada de todo o parte del contenido de las pruebas de admisión universitaria, significará la exclusión inmediata del proceso en curso de admisión a las universidades adscritas al Sistema de Acceso y no podrá participar en el proceso de admisión inmediatamente posterior.
+El incumplimiento de alguno de los deberes antes señalados, así como toda acción que altere o impida el normal desarrollo de las distintas etapas del proceso de admisión, perjudique o pueda perjudicar a los participantes, infrinja la obligación de rendir las pruebas en forma personal y sin ayudas o cualquier sustracción o difusión no autorizada de todo o parte del contenido de las pruebas de admisión universitaria, significará la exclusión inmediata del proceso en curso de admisión a las universidades adscritas al Sistema de Acceso.
 
-Asimismo, si en la rendición los documentos de identificación y/o la tarjeta de identificación no coinciden con el postulante, al igual que en los casos anteriores, significará exclusión inmediata del proceso en curso y no podrá participar en el proceso de admisión inmediatamente posterior.
+Asimismo, si en la rendición los documentos de identificación y/o la tarjeta de identificación no coinciden con el postulante, al igual que en los casos anteriores, significará exclusión inmediata del proceso en curso.
 
 La institución encargada de la aplicación de la prueba de acceso a la educación superior, en adelante "la institución'', notificará a los infractores las consecuencias antes descritas, junto con los hechos que las originen, al correo electrónico indicado por el postulante infractor en la etapa de inscripción, pudiendo reclamar de su aplicación dentro de los tres días hábiles siguientes. De acuerdo con el mérito de lo expuesto, la consecuencia a la infracción del proceso podrá mantenerse o dejarse sin efecto.
 
@@ -342,7 +342,7 @@ Sin perjuicio de lo anterior, se realizarán las denuncias y/o se ejercerán las
 
 Luego de la determinación definitiva de la infracción, la institución remitirá a la Subsecretaría de Educación Superior la nómina que individualice a los postulantes infractores, con todos los antecedentes que sirvieron de base para dicha determinación.
 
-La Subsecretaría de Educación Superior, mediante resolución constatará dicha nómina y las consecuencias de la infracción.
+La Subsecretaría de Educación Superior, mediante resolución constatará dicha nómina y las consecuencias de la infracción. La o el postulante en cuestión dispondrá de cinco (5) días hábiles contados desde la notificación del referido acto administrativo de la Subsecretaría, para presentar ante esta una reposición, en los términos establecidos en la ley Nº 19.880, sin perjuicio de otros medios que disponga esa u otras normas.
 
 Postulantes en situación de discapacidad: Para la inscripción se entenderá por persona con discapacidad lo establecido por el artículo 5º de la ley 20.422, que consigna: "Persona con discapacidad es aquella que teniendo una o más deficiencias físicas, mentales, sea por causa psíquica o intelectual, o sensoriales, de carácter temporal o permanente, al interactuar con diversas barreras presentes en el entorno, ve impedida o restringida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás."
 
