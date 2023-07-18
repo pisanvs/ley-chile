@@ -6,7 +6,7 @@ En Santiago, a cuatro de noviembre de dos mil nueve, se reunió el Tribunal Cons
 
 <!-- parte:8798524 -->
 
-PRIMERO.- El Tribunal Constitucional celebrará sus sesiones ordinarias de Pleno los días martes, miércoles y jueves a las 9:00 horas. En función de la carga y de la complejidad de los asuntos que deban tratarse, el Presidente del Tribunal podrá determinar modificaciones al horario de inicio de las sesiones ordinarias, lo cual deberá expresarse en la tabla respectiva.
+PRIMERO.- El Tribunal Constitucional celebrará sus sesiones ordinarias de Pleno los días martes, miércoles y jueves a las 09:30 horas. En función de la carga y de la complejidad de los asuntos que deban tratarse, el Presidente del Tribunal podrá determinar modificaciones al horario de inicio de las sesiones ordinarias, lo cual deberá expresarse en la tabla respectiva.
 
 Las sesiones extraordinarias de Pleno se celebrarán cuando las convoque el Presidente del Tribunal, de propia iniciativa o a solicitud de tres o más de los miembros del Tribunal.
 
