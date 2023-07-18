@@ -394,13 +394,21 @@ Del Procedimiento de Regularización
 
 Los apoderados que no hayan participado en los mecanismos principal o complementario de asignación o habiendo participado de aquellos, requieran cambio de establecimiento, deberán seguir el procedimiento descrito en los siguientes artículos.
 
+Para el mismo procedimiento, los establecimientos educacionales deberán regirse por las normas de este Título.
+
 #### Artículo 55
 
-El Ministerio llevará un registro de aquellos establecimientos que, finalizado los mecanismos principal o complementario de asignación, registren vacantes para el año escolar respectivo. Para efectos de la postulación durante el proceso de regularización, los apoderados podrán solicitar información respecto de las vacantes en los establecimientos en las oficinas que el Ministerio disponga para este fin.
+Para el funcionamiento del procedimiento de Regularización, el Ministerio pondrá a disposición un sistema informático web que funcionará como un Registro Público, el que deberá ser utilizado por los establecimientos y los apoderados para llevar a cabo el procedimiento de Regularización, y que corresponderá a una plataforma distinta que aquella disponible para las etapas previas del proceso.
+
+Para su utilización los apoderados deben registrarse en el referido sistema, así como a sus respectivos estudiantes que vayan a participar en esta etapa. Asimismo, los establecimientos educacionales deberán gestionar sus vacantes en esta etapa a través de dicho Registro.
 
 #### Artículo 56
 
-Todos los estudiantes que soliciten ingresar a un establecimiento mediante el presente procedimiento, deberán ser admitidos en caso de que las vacantes sean suficientes en relación al número de postulantes. En caso de no existir vacantes suficientes, el establecimiento deberá respetar el orden de ingreso de la solicitud de matrícula por parte de los postulantes, debiendo mantener un registro público en que se consigne el día, hora y firma del apoderado para estos efectos.
+Todos los estudiantes que soliciten ingresar a un establecimiento mediante el presente procedimiento, deberán ser admitidos en caso de que las vacantes sean suficientes en relación al número de postulantes. Para proceder con la matrícula de los estudiantes, los establecimientos que cuenten con vacantes, así como aquellos a los que se les vayan generando, deberán asignarlas siguiendo el orden de ingreso de las solicitudes de matrícula por parte de los postulantes, conforme al Registro Público.
+
+El Registro Público, en la fecha establecida por el Calendario de Admisión y antes del inicio del período de regularización general, estará disponible sólo para la inscripción de los postulantes que participaron en el período complementario de postulación y que no fueron asignados en ninguna de sus preferencias declaradas. Con posterioridad a ese período, el Registro estará disponible para la inscripción de todos los estudiantes que deseen participar en la etapa de Regularización.
+
+Para efectos de la postulación durante el proceso de regularización, el Ministerio pondrá a disposición de los apoderados información respecto a las vacantes de los establecimientos. Estas serán calculadas en base a los cupos declarados por los establecimientos y la matrícula que ellos registren en el Sistema de Información General de Estudiantes, siendo responsabilidad del establecimiento mantener la información de matrícula actualizada para que los apoderados cuenten con datos fidedignos.
 
 Durante este procedimiento se autorizará a matricular a alumnos en exceso por sobre los cupos reportados según el artículo 7º del presente reglamento, a los establecimientos que requieran incorporar a estudiantes de intercambio. No obstante, no se podrá sobrepasar la capacidad máxima de atención autorizada de cada establecimiento. El sobrecupo deberá ser regularizado el año escolar siguiente, declarándolo según lo dispuesto en el párrafo 2 del Título I de este reglamento.
 
@@ -414,11 +422,11 @@ Si durante el año escolar un estudiante decide no continuar estudiando en su es
 
 #### Artículo 59
 
-La matrícula de los estudiantes en esta etapa deberá realizarse directamente en los establecimientos que cuenten con vacantes.
+La matrícula de los estudiantes en esta etapa deberá realizarse directamente en los establecimientos que cuenten con vacantes, los que deberán verificar que el trámite lo realice el apoderado del estudiante, conforme a las definiciones de este reglamento.
 
 #### Artículo 60
 
-Los establecimientos que matriculen a estudiantes mediante este procedimiento, deberán informar dicha matrícula al Departamento Provincial de Educación respectivo.
+Los establecimientos que matriculen a estudiantes mediante este procedimiento, deberán proceder en los mismos términos que el artículo 53.
 
 ## Título IV
 
