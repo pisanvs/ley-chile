@@ -106,9 +106,7 @@ Metrópoli de Concepción:
 
 . Autopista Talcahuano - Concepción - Colón 1, Av. Alonso de Rivera - J.M. García, Autopista General Bonilla y Acceso a Concepción, desde el Nudo O'Higgins hasta el límite urbano Metropolitano Oriente de Concepción.
 
-. La vialidad que conecta el acceso al puerto de San Vicente con la Ruta O-60 y con la Ruta 154, a través de: Av. La Marina, Juan Antonio Ríos, Gran Bretaña, Acceso Norte a Puente Nº 4, Las Golondrinas, Costanera Ribera Norte 1 y Costanera Ribera Norte 2 y la prolongación de Acceso Norte Puente Nº 4 hacia el Sur, a través de: Acceso Norte Puente Nº 4, Puente Nº 4 sobre río Biobío, Acceso Sur Puente Nº 4 y Ruta San Pedro - Coronel, esta última desde Acceso Sur Puente Nº 4 en sector Estero Los Batros hasta el
-
-Acceso a Michaihue.
+. La vialidad que conecta el acceso al puerto de San Vicente con la Ruta O-60 y con la Ruta 154, a través de: Av. La Marina, Juan Antonio Ríos, Gran Bretaña, Acceso Norte a Puente Nº 4, Las Golondrinas, Costanera Ribera Norte 1 y Costanera Ribera Norte 2 y la prolongación de Acceso Norte Puente Nº 4 hacia el Sur, a través de: Acceso Norte Puente Nº 4, Puente Nº 4 sobre río Biobío, Acceso Sur Puente Nº 4 y Ruta San Pedro - Coronel, esta última desde Acceso Sur Puente Nº 4 en sector Estero Los Batros hasta el Acceso a Michaihue.
 
 . Puente Llacolén, desde Arturo Prat hasta Pedro Aguirre Cerda.
 
@@ -127,6 +125,8 @@ Acceso a Michaihue.
 . El sistema vial que interconecta los accesos a los puentes Bicentenario e Industrial, a través de: Avenida Ribera Sur, Violeta Parra y Avenida Ribera Sur.
 
 . La vialidad que conecta el Acceso Sur IV Puente y la Ruta 160 By Pass Coronel; a través de: Ruta Pie de Monte (E-8).
+
+. El sistema vial que interconecta la Ruta 152 y la Ruta 146, a través de vía proyectada en Plan Regulador: Ruta 442 - Chaimavida y sus enlaces.
 
 4º Declárase Caminos Públicos en las áreas urbanas de las siguientes Capitales de Provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
