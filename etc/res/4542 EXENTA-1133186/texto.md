@@ -36,8 +36,6 @@ Resuelvo:
 
 2. Para su ingreso al país, los envíos de esquejes con y sin raíz de Dianthus spp. provenientes del Centro de Producción Barberet & Blanc S.A, deberán estar amparados por un certificado fitosanitario oficial, presentado en original, emitido por la autoridad fitosanitaria de España, indicando la siguiente declaración adicional: "Los esquejes de Dianthus spp. provienen de la Empresa Barberet & Blanc S.A., Centro de Producción reconocido por SAG-Chile, para exportar material de propagación de Dianthus spp. a Chile, encontrándose libres de las siguientes plagas cuarentenarias: Liriomyza trifolii (Dip.: Agromyzidae), Bemisia argentifolii (Hem.: Aleyrodidae), Mamestra brassicae (Lep.: Noctuidae), Cacoecimorpha pronubana (Lep.: Tortricidae), Epichoristodes acerbella (Lep.: Tortricidae), Hercinothrips femoralis (Thys.: Thripidae), Helicoverpa armígera (Lep.: Noctuidae), Phialophora cinerescens, Erwinia chrysanthemi (=Dyckeya spp.) (Excepto E. chrysanthemi pv. dianthicola y E. chrysanthemi pv.zeae), Rhodococcus fascians, Carnation Ringspot virus, Ustilago violacea, Ditylenchus dipsaci y Xiphinema diversicaudatum.
 
-3. Esta resolución tendrá vigencia por dos años a contar del 21 de julio de 2019.
-
-> **Nota.** El numeral 1° de la Resolución 4402 Exenta, Agricultura, publicada el 26.07.2021, prorroga la vigencia de la presente norma, por dos años a contar del 21.07.2021.
+### 3. Esta resolución tendrá vigencia hasta el 21 de septiembre de 2023
 
 Anótese, comuníquese y notifíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
