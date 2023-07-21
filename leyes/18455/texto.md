@@ -328,7 +328,11 @@ El Servicio podrá eximir a productos destinados exclusivamente a la exportació
 
 ## Título VII
 
-De las sanciones
+De los delitos e infracciones administrativas
+
+### Párrafo I
+
+De los delitos
 
 #### Artículo 42
 
@@ -340,21 +344,93 @@ Al que sin ser elaborador comprare para vender los productos a que se refieren l
 
 Se presumirá que un producto se destina a la bebida cuando se expone, ofrece o pone a disposición de terceros en cualquier forma, sin que se advierta de manera destacada en los envases o etiquetas que el producto no es apto para la bebida.
 
-Además de la pena indicada en los incisos precedentes, se aplicará a los infractores una multa de 25 a 200 unidades tributarias mensuales.
+Además de la pena privativa de libertad indicada en los incisos precedentes, se aplicará a los infractores una multa a beneficio fiscal desde 75 hasta un máximo de 5.000 unidades tributarias mensuales.
 
 #### Artículo 43
 
-Los que contravinieren algunas de las medidas señaladas en el inciso primero del artículo 53 serán sancionados con la pena de presidio menor en sus grados mínimo a medio. Se les aplicará, además, una multa de 15 a 150 unidades tributarias mensuales.
+Los que contravinieren algunas de las medidas señaladas en el inciso primero del artículo 53 serán sancionados con la pena de presidio menor en sus grados mínimo a medio. Se les aplicará, además, una multa que podrá ir desde 50 hasta un máximo de 5.000 unidades tributarias mensuales.
 
 #### Artículo 44
 
-El que otorgare certificados de potabilidad respecto de los productos a que se refiere esta ley y que fueren tóxicos o nocivos para la salud será sancionado con la pena de reclusión menor en sus grados mínimo a medio y multa de 15 a 150 unidades tributarias mensuales.
+El que otorgare certificados de potabilidad respecto de los productos a que se refiere esta ley y que fueren tóxicos o nocivos para la salud será sancionado con la pena de reclusión menor en sus grados mínimo a medio y multa que podrá ir desde 50 hasta un máximo de 5.000 unidades tributarias mensuales.
+
+#### Artículo 44
+
+A.- El tribunal podrá imponer al condenado por los delitos señalados en los artículos 42, 43 y 44 la sanción de multa junto con la pena respectiva.
+
+La cuantía de la multa será desde 50 o desde 75, según el caso, hasta 5.000 unidades tributarias mensuales.
+
+La multa impuesta deberá ser proporcional. El tribunal deberá ponderar la importancia del daño causado o del peligro ocasionado, el beneficio económico obtenido en la comisión del delito, la reincidencia y la capacidad económica del infractor.
+
+### Párrafo II
+
+De las infracciones administrativas
+
+#### Artículo 44
+
+B.- De las infracciones administrativas. Los que incurran en infracciones a lo dispuesto en esta ley serán sancionados por el Servicio con una o más de las siguientes sanciones:
+
+1. Multa a beneficio fiscal.
+
+2. Comiso de las especies, elementos, insumos que hubieren servido para cometer la infracción y los productos resultantes de ella, de conformidad con lo dispuesto en el artículo 50.
+
+3. Clausura temporal o definitiva del establecimiento fiscalizado, según corresponda, de conformidad con lo dispuesto en el artículo 50.
+
+4. Destrucción de las especies, elementos, insumos que hubieren servido para cometer la infracción y los productos resultantes de ella.
+
+En caso de reincidencia se deberá aplicar siempre la sanción de clausura, sea ésta temporal o definitiva.
+
+Sin perjuicio de la aplicación de las sanciones señaladas en el presente artículo, los Directores Regionales del Servicio podrán determinar el destino de los elementos o insumos que hubieren servido para cometer la infracción y los productos resultantes de ella, cuando los elementos decomisados sirvan para un uso distinto de aquel que se les dio para cometer la infracción, conforme a las instrucciones generales que imparta el Director Nacional.
+
+Los costos asociados a la aplicación de las sanciones establecidas en el presente artículo serán de cargo de los respectivos infractores.
+
+#### Artículo 44
+
+C.- Las infracciones a esta ley se clasificarán en gravísimas, graves y leves:
+
+1. Son gravísimas las infracciones establecidas en el artículo 45.
+
+2. Son graves las infracciones señaladas en el artículo 46.
+
+3. Son leves las infracciones establecidas en los artículos 47 y 48.
+
+#### Artículo 44
+
+D.- La sanción que corresponda aplicar a cada infracción se determinará, según su gravedad, dentro de los siguientes rangos:
+
+1. Las infracciones gravísimas podrán ser objeto de multa de hasta cinco mil unidades tributarias mensuales.
+
+2. Las infracciones graves podrán ser objeto de multa de hasta dos mil quinientas unidades tributarias mensuales.
+
+3. Las infracciones leves podrán ser objeto de multa de hasta mil unidades tributarias mensuales.
+
+#### Artículo 44
+
+E.- Para la determinación de las sanciones específicas que en cada caso corresponda aplicar, se considerarán las siguientes circunstancias:
+
+1. La importancia del daño causado o del peligro ocasionado.
+
+2. El volumen o cuantía del producto objeto de la infracción.
+
+3. El beneficio económico obtenido con motivo de la infracción, si lo hubiere.
+
+4. La intencionalidad en la comisión de la infracción.
+
+5. El grado de participación en el hecho, acción u omisión constitutiva de la misma.
+
+6. La conducta anterior del infractor.
+
+7. La capacidad económica del infractor.
+
+8. La afectación de las zonas vinícolas y/o las denominaciones de origen de vinos y destilados.
+
+9. Todo otro criterio que, para la eficaz y correcta aplicación de la presente ley, y a juicio fundado del Servicio, sea relevante para la determinación de la sanción.
 
 #### Artículo 45
 
-Se sancionará con multa de 1 a 150 unidades tributarias mensuales:
+Se sancionará como autores de infracciones gravísimas:
 
-1) A los que elaboraren o vendieren productos falsificados que no sean tóxicos o dañinos para la salud;
+1) A los que elaboraren o vendieren productos falsificados que no sean tóxicos o dañinos para la salud, incluyendo a los que efectuaren cualquier mezcla de uva de mesa o sus derivados, mosto o vino, con uva vinífera con denominación de origen o con sus derivados, mosto o vino.
 
 2) A los que expendieren alcohol etílico sin desnaturalizar a usuarios no inscritos en el registro a que se refiere el inciso segundo del artículo 13.
 
@@ -370,7 +446,7 @@ Se sancionará con multa de 1 a 150 unidades tributarias mensuales:
 
 #### Artículo 46
 
-Se impondrá un multa de 1 a 100 unidades tributarias mensuales:
+Se sancionará como autores de infracciones graves:
 
 1) A los que infringieren las obligaciones o prohibiciones que les imponen los artículos 17, 23 y 34.
 
@@ -378,13 +454,13 @@ Se impondrá un multa de 1 a 100 unidades tributarias mensuales:
 
 3) A los que utilizaren sustancias distintas o en proporción menor a las autorizadas para la desnaturalización de alcoholes.
 
-4) A los que elaboraren productos adulterados que no sean tóxicos o dañinos para la salud y a los que, a sabiendas, vendieren dichos productos.
+4) A los que elaboraren productos adulterados que no sean tóxicos o dañinos para la salud y a los que, a sabiendas, vendieren dichos productos, incluyendo a los que efectuaren cualquier mezcla de uva de mesa o sus derivados, mosto o vino, con uva vinífera sin denominación de origen o con sus derivados, mosto o vino.
 
 5) A los que otorgaren certificados de potabilidad respecto de productos que, sin ser tóxicos ni dañinos para la salud, no cumplan con los requisitos establecidos en el inciso segundo del artículo 7°.
 
 #### Artículo 47
 
-Se castigará con multa de 1 a 75 unidades tributarias mensuales:
+Se sancionará como autores de infracciones leves:
 
 1) A los que enajenaren o movilizaren productos con infracción a lo dispuesto en los artículos 11 ó 40. Si tales productos resultaren en definitiva tóxicos o dañinos para la salud, falsificados o adulterados, esta pena se aplicará conjuntamente con la indicada en los artículos 42, 45, N° 1), o 46, N° 4), según proceda.
 
@@ -414,7 +490,7 @@ Se castigará con multa de 1 a 75 unidades tributarias mensuales:
 
 #### Artículo 48
 
-Cualquiera otra conducta descrita en esta ley que constituya una infracción a sus normas, que no se encuentre específicamente penada en los artículos precedentes, se sancionará con multa de 0.5 a 50 unidades tributarias mensuales.
+Serán considerados como infracciones leves los hechos, actos u omisiones que contravengan las instrucciones, requerimientos o medidas dispuestas por el Servicio en el ejercicio de las atribuciones conferidas en esta ley.
 
 #### Artículo 49
 
@@ -428,9 +504,7 @@ Para los efectos de lo dispuesto en el inciso anterior, se considerará que exis
 
 Además de las penas establecidas en los artículos anteriores, se podrá disponer el comiso de los productos elaborados, envasados, movilizados o comercializados con infracción a la presente ley. Si se cometiere alguno de los delitos a que se refieren los incisos primero y segundo del artículo 42, podrán ser decomisados también los elementos y materias primas destinados a la elaboración de los productos.
 
-Sin perjuicio de lo preceptuado en el inciso precedente y atendidas las circunstancias del hecho, podrá disponerse la clausura de 1 a 30 días o de 1 a 15 días si se cometiere alguna de las infracciones indicadas en los artículos 45 y 46, respectivamente.
-
-La clausura podrá ser definitiva cuando se incurriere en algunos de los delitos sancionados en el artículo 42 y cuando se reincidiere, en los términos establecidos en el inciso segundo del artículo 49, en alguna de las infracciones a que se refiere el artículo 45.
+Adicionalmente se podrá disponer la clausura de 1 a 30 días si la infracción fuere gravísima conforme al artículo 45, y de 1 a 15 días si se cometiere alguna de las infracciones graves conforme al artículo 46.
 
 La clausura recaerá sobre el local o establecimiento en que se hubiere constatado la infracción. Si se tratare de locales o establecimientos donde, además, se expendan otras mercaderías, la resolución de clausura determinará el traslado de los productos a que se refiere esta ley a una sección o dependencia cerrada del mismo, en la que se inmovilizarán, y dispondrá las medidas que sean conducentes para impedir el ejercicio del giro durante el tiempo de vigencia de la sanción.
 
@@ -452,7 +526,7 @@ Tratándose de hechos constitutivos de los delitos indicados en el artículo 42,
 
 #### Artículo 54
 
-Las sanciones que se establecen en los artículos 45, 46 y 47 de este cuerpo legal se aplicarán también a los comerciantes, distribuidores, depositarios y acopiadores en cuyo poder se encuentre el producto final cuando, por las circunstancias y demás antecedentes del caso, se pueda presumir fundadamente que no han podido ignorar que el producto de que se trata ha sido elaborado con infracción a la presente ley.
+Las sanciones que se establecen en el artículo 44 B de este cuerpo legal se aplicarán también a los comerciantes, distribuidores, depositarios y acopiadores en cuyo poder se encuentre el producto final cuando, por las circunstancias y demás antecedentes del caso, se pueda presumir fundadamente que no han podido ignorar que el producto de que se trata ha sido elaborado con infracción a la presente ley.
 
 #### Artículo 55
 
