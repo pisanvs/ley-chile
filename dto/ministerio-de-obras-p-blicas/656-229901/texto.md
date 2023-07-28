@@ -134,11 +134,11 @@ Monte Patria:
 
 Salamanca:
 
-* El sistema vial urbano que interconecta la Ruta D-81 con la Ruta D-835, desde el límite urbano Poniente hasta el límite urbano Suroriente; a través de: Ruta 81 Salamanca - Illapel, Providencia, Circunvalación existente, Tomás Davis y Camino a Cuncumén.
+. El sistema vial urbano que interconecta las rutas D-81, D-825 y D-835, desde límite urbano poniente hasta límite urbano surponiente y límite urbano suroriente; a través de: Ruta 81 Salamanca - Illapel, Providencia, Bypass Salamanca, Tomás Davis, Camino a Cuncumén y Puente Salamanca.
 
 Vicuña:
 
-* El tramo urbano de la Ruta 41 CH, desde el límite urbano Sur hasta el límite urbano Nororiente; a través del Puente Alfonso Díaz Ossa y Camino a Rivadavia.
+. El sistema vial urbano que interconecta las rutas 41 CH, D-463, D-465 y D-357, desde límite urbano poniente hasta límite urbano sur y límite urbano oriente; a través de: puente sobre río Elqui, Alameda Las Delicias, Acceso Puente Presbítero T. Álvarez y Camino a Peralillo.
 
 6º.- Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
