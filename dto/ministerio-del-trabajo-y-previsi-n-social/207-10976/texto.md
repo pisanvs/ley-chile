@@ -32,7 +32,13 @@ a) El Director Nacional del Sence, o la persona que éste designe en su reemplaz
 
 b) El Jefe de Contabilidad del Servicio Nacional de Capacitación y Empleo.
 
-c) Dos representantes de los afiliados, uno de los cuales será designado por la Asociación de funcionarios que corresponda, cuando proceda en conformidad al inciso 3° del artículo 18° del Reglamento General.
+c) Dos representantes de los afiliados(as).
+
+d) Un representante de los afiliados que será designado por la asociación de funcionarios que corresponda, cuando proceda en conformidad al inciso 3° del artículo 18° del Reglamento General.
+
+e) El encargado de la Unidad de Desarrollo de Personas del Servicio Nacional de Capacitación y Empleo, Sence, o de la unidad que la reemplace, cualquiera sea la denominación.
+
+El jefe del Servicio de Bienestar actuará como secretario del Consejo, teniendo solo derecho a voz.
 
 #### Artículo 4°
 
@@ -48,21 +54,23 @@ d) Estar al día en el cumplimiento de sus obligaciones con el Servicio de Biene
 
 #### Artículo 5°
 
-Los representantes de los afiliados durarán dos años en sus funciones y podrán ser reelegidos.
+Los representantes de los afiliados durarán 2 años en sus funciones y podrán ser reelegidos por un periodo adicional siempre que la reelección cuente con el acuerdo de los representantes del Consejo Administrativo.
 
-El procedimiento para elegir a los representantes de los afiliados será objeto de una regulación interna; y la designación que le corresponda a la Asociación de funcionarios Sence se realizará en la forma que el referido ente determine.
+El procedimiento para elegir a los representantes de los afiliados será realizada en conformidad a las normas establecidas en un reglamento interno. La designación que le corresponda a la Asociación de funcionarios Sence se realizará en la forma que el referido ente determine. Los representantes deberán dejar por escrito su consentimiento de elección o reelección y su compromiso de asistencia y participación ante el Consejo Administrativo.
 
 #### Artículo 6°
 
-El Consejo Administrativo sesionará ordinariamente cada tres meses a lo menos, en el día y hora que fijen sus miembros y se citará por escrito por el Secretario del Consejo.
+El Consejo Administrativo sesionará ordinariamente cada tres meses a lo menos, en el día y hora que fijen sus miembros y la forma de citación a los miembros del Consejo será por escrito a través de correo electrónico dirigido por el secretario del Consejo con la debida anticipación.
 
-El quórum para sesionar será de tres de sus miembros y sus acuerdos se adoptarán, en general, por simple mayoría de los miembros asistentes, salvo que el reglamento general o este mismo, señalasen un quórum distinto para ciertas materias. En caso de empate, decidirá el voto de quien presida.
+En el caso de sesiones extraordinarias, la forma de citación a los miembros del Consejo Administrativo será por escrito, a través de correo electrónico, lo cual quedará establecido en el Acta correspondiente. Se podrán realizar los Consejos de forma remota, utilizando los recursos informáticos dispuestos para ello en el Servicio.
 
-En el caso de sesiones extraordinarias, será necesario citar a los miembros del Consejo Administrativo, lo que se efectuará por lo menos con un día de anticipación y dando al evento amplia publicidad, debiendo notificarse especialmente y por escrito a cada miembro por el secretario del Consejo. También procederá la citación especial, cuando se trate de hacer concurrir a una sesión al representante suplente.
+La citación a las sesiones ordinarias deberá ser enviada con una anticipación de al menos 5 días hábiles; y con al menos 24 horas para las sesiones extraordinarias; sin perjuicio las citaciones serán difundidas ampliamente.
+
+El quórum para sesionar será de 4 de sus miembros y sus acuerdos se adoptarán, en general, por simple mayoría de los miembros asistentes, salvo que el Reglamento General o este mismo señale un quórum distinto para ciertas materias. En caso de empate, decidirá el voto de quien presida. La inasistencia a 3 consejos consecutivos dará lugar a la destitución del consejero(a); en el caso de los representantes de la Institución lo reemplazará en su cargo quien subrogue sus funciones, y en el caso los(as) representantes de los(as) afiliados(as), el (la) suplente.
 
 #### Artículo 7°
 
-La Contabilidad del Servicio de Bienestar estará a cargo de un Contador.
+La Contabilidad del Servicio de Bienestar estará a cargo de un Contador, el que preferentemente será parte del equipo de Bienestar.
 
 ## Título III
 
@@ -72,11 +80,11 @@ Del financiamiento, presupuesto y control de cuentas
 
 El Servicio de Bienestar se financiará con los siguientes recursos:
 
-a) Con la cuota de incorporación que deberán pagar los afiliados por una sola vez, y que será de hasta un 3% de sus remuneraciones imponibles para pensiones. A los jubilados de la Institución no se les exigirá cuota de incorporación;
+a) Con la cuota de incorporación que deberán pagar los afiliados por una sola vez, y que será de hasta un 3% de sus remuneraciones imponibles para pensiones. Lo anterior también aplica en el caso de los afiliados jubilados que no tengan incorporación anterior.
 
-b) Con el aporte mensual de sus afiliados en servicio activo, la cual no será inferior a un 1% ni superior a un 3% de la remuneración mensual imponible para pensiones;
+b) Con el aporte mensual de sus afiliados en servicio activo, la cual no será inferior a un 1% ni superior a un 3% de la remuneración mensual imponible para pensiones; El tramo de este aporte será decidido anualmente por el Consejo Administrativo y será notificado en forma escrita y de forma electrónica a los afiliados, con los recursos informáticos que posea el Servicio.
 
-c) Con el aporte mensual de sus afiliados jubilados, que no será inferior a un 1% ni superior a un 3% de sus pensiones;
+c) Con el aporte mensual de sus afiliados jubilados, que no será inferior a un 1% ni superior a un 3% del monto imponible de su pensión; el tramo de este aporte será decidido anualmente por el Consejo Administrativo y será notificado en forma escrita y de forma electrónica a los afiliados, con los recursos informáticos que posea el servicio.
 
 d) Con los aportes que anualmente se consultan en el presupuesto del Servicio Nacional de Capacitación y Empleo para el Servicio de Bienestar, de acuerdo a las normas legales y estatutarias vigentes;
 
@@ -90,7 +98,7 @@ h) Con los demás bienes o recursos que obtenga a cualquier título.
 
 #### Artículo 9°
 
-Los fondos del Servicio de Bienestar deberán depositarse en una cuenta subsidiaria de la Cuenta Unica Fiscal, en el Banco del Estado de Chile, y en contra de ella sólo se podrá girar cuando la orden de pago lleve la firma del Jefe del Servicio de Bienestar y del Jefe del Departamento Administrativo. En ausencia de los anteriores firmarán las personas que tengan firmas autorizadas en el Sence.
+Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal, en el Banco del Estado de Chile, y en contra de ella podrán girar conjuntamente el jefe de Bienestar y otro funcionario público titular autorizado expresamente para ello por el Consejo Administrativo, quienes deberán rendir caución con arreglo a lo dispuesto en el texto refundido de la Ley N° 10.336. Lo anterior, sin perjuicio de lo dispuesto en el artículo 34 del Reglamento General. En ningún caso podrá ser titular de la referida cuenta, quien desempeñe la función de contador(a) del Servicio de Bienestar. En caso de ausencia o impedimento de los giradores mencionados, éstos serán reemplazados por los funcionarios que el Consejo Administrativo haya designado en calidad de subrogantes. El procedimiento interno para autorizar y documentar los egresos será aprobado por acto administrativo del Director Nacional del Servicio.
 
 ## Título IV
 
@@ -142,49 +150,57 @@ Con el objeto de mejorar el nivel de atención a sus afiliados, el Bienestar pod
 
 El Servicio de Bienestar, siempre que los recursos presupuestarios lo permitan, podrá otorgar ayudas económicas, sin cargo de restitución, a los afiliados que justifiquen alguna de las siguientes causas:
 
-1. Matrimonio del afiliado: Se concederá ayuda por el matrimonio del afiliado. Si ambos contrayentes fuesen afiliados, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
+1. Matrimonio o Acuerdo de Unión Civil del Afiliado: Se concederá ayuda por el matrimonio del afiliado. Si ambos contrayentes fuesen afiliados, cada uno de ellos tendrá derecho a este beneficio en forma independiente. Se deja establecido que, si el Acuerdo de Unión Civil termina por el matrimonio de los convivientes civiles entre sí, no se podrá solicitar la asignación por la causal de matrimonio.
 
-2. Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
+2. Nacimiento o Adopción: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de adopción también corresponderá otorgar asignación de nacimiento, la que deberá ser acreditada con la respectiva sentencia de adopción y/o certificado de nacimiento.
 
 3. Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiese sido aún reconocido como carga familiar.
 
-En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
+La ayuda por fallecimiento del afiliado titular podrá efectuarse a través de fondos propios del Bienestar, o a través de la contratación de un seguro de vida para tales efectos. En el caso de ser efectuado a través de fondos propios, la ayuda se otorgará en el siguiente orden de precedencia:
 
 1° A la persona designada expresamente para tales efectos por el afiliado;
 
-2° Al cónyuge sobreviviente;
+2° Cónyuge o conviviente civil, sobrevivientes;
 
-3° A los hijos legítimos;
+3° A los hijos;
 
-4° A los hijos naturales;
+4° A los padres;
 
-5° A los padres legítimos;
-
-6° A la persona que acredite haber efectuado los gastos del funeral.
+5° A la persona que acredite haber efectuado los gastos del funeral.
 
 Si ambos padres fueren afiliados, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-4. Incendio o catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar o la persona que éste designe;
+4. Ayuda social o asistencial: Podrá concederse una ayuda en dinero o en especie en caso de daños graves a consecuencia de un desastre de origen natural o de estado de necesidad que afecte al afiliado; contingencia que deberá ser debidamente comprobada y ponderada por el Consejo Administrativo, en cuanto a su acaecimiento y dimensión de los daños sufridos.
 
 5. Escolaridad: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares, que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste.
 
-El monto de las ayudas contempladas en este artículo será determinado en ingresos mínimos mensuales por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General. Para solicitar los referidos beneficios deberá acompañarse a la solicitud el certificado respectivo emitido por la oficina de Registro Civil e Identificación y/o del establecimiento educacional, según corresponda, y 6. Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviesen pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
+6. Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviesen pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
+
+7. Cumpleaños: Se podrá conceder un bono o regalo de cumpleaños a los afiliados.
+
+8. Navidad: Se podrá conceder un bono a los afiliados y/o sus cargas familiares, por concepto de celebraciones de navidad en el mes de diciembre de cada año. Por este mismo concepto, se podrá conceder un regalo de navidad a las cargas familiares de los afiliados. Si ambos padres son afiliados, solo se concederá un regalo por hijo.
+
+9. Asignación de Matrícula: Se podrá conceder una ayuda económica para el afiliado titular, como estímulo a su formación de pregrado y postgrado, 1 vez al año.
+
+10. Fiestas Patrias: Se podrá otorgar al afiliado una ayuda en dinero o en especie, o descuento asociado a algún convenio suscrito por el Servicio de Bienestar por concepto de fiestas patrias.
+
+11. Socios sin carga familiar: Se podrá otorgar una vez al año, un estímulo en dinero o en especie, a los asociados que no tengan cargas familiares, con el objeto de equiparar los beneficios entregados por el Servicio de Bienestar.
 
 #### Artículo 12°
 
-El Servicio de Bienestar podrá celebrar y financiar la Navidad, para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
-
-Asimismo, el Consejo Administrativo podrá acordar, cuando los recursos presupuestarios lo permitan, asignar recursos para financiar actividades culturales y/o sociales.
+El Servicio de Bienestar podrá celebrar y financiar la Navidad, para los afiliados y sus cargas familiares. Asimismo, el Consejo Administrativo podrá acordar asignar recursos cuando los recursos presupuestarios lo permitan, asignar recursos para financiar actividades culturales, sociales y deportivas.
 
 #### Artículo 13°
 
-El Servicio podrá conceder los préstamos no reajustables que a continuación se señalan, cuando sus recursos financieros lo permitan:
+El Servicio de Bienestar podrá conceder los préstamos no reajustables que se señalan, con la tasa de interés que determine el Consejo Administrativo, en conformidad a las disposiciones legales y reglamentarias vigentes, en la medida que los recursos financieros lo permitan.
 
 1. Préstamo escolar: Podrá otorgarse a cada afiliado, una vez al año, un préstamo de escolaridad por cada hijo carga familiar y que siga cursos regulares de educación básica, media, técnica, profesional universitaria. Este beneficio se otorgará previa presentación de los respectivos certificados de matrícula, sin perjuicio de otros antecedentes que pueda exigir el Consejo Administrativo.
 
-2. Préstamo de auxilio: El Servicio podrá otorgar a sus afiliados, cuando las disponibilidades económicas lo permitan, préstamos de auxilio. Estos préstamos sólo se concederán por problemas económicos graves y otras causas justificadas, calificadas por el Consejo Administrativo.
+2. Préstamo Personal: El Servicio podrá otorgar a sus afiliados, cuando las disponibilidades económicas lo permitan, préstamos personales.
 
-El monto máximo de los préstamos antes señalados, será determinado anualmente, en ingresos mínimos mensuales, por el Consejo Administrativo. Asimismo, el Consejo Administrativo anualmente determinará la tasa de interés que devengarán estos préstamos, debiendo ser un porcentaje del interés corriente para operaciones no reajustables, fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
+3. Préstamo para Vacaciones: Anualmente el afiliado podrá solicitar (una vez en el año calendario) este préstamo cuando haga uso de sus vacaciones, el cual no se podrá requerir de manera simultánea con el préstamo personal, ni en un plazo inferior a 30 días.
+
+El monto máximo de los préstamos antes señalados será determinado anualmente por el Consejo Administrativo en base a la disponibilidad presupuestaria. La tasa de interés será determinada por el Consejo Administrativo, en conformidad a las disposiciones legales y reglamentarias vigentes.
 
 #### Artículo 14°
 
@@ -194,15 +210,15 @@ Las referidas cuotas serán descontadas a partir del mes siguiente al del otorga
 
 #### Artículo 15°
 
-La cuota de servicio de la deuda por préstamos, más los compromisos que tenga el afiliado por concepto de créditos en casas comerciales, no podrá en ningún caso comprometer más del 40% de la renta imponible para pensiones o de su pensión cuando corresponda, incluídos todos sus descuentos voluntarios, sean o no del Servicio de Bienestar.
+La cuota de servicio de la deuda por préstamos, más los compromisos que tenga el afiliado por concepto de créditos en casas comerciales, no podrán, en caso alguno, exceder del 15% de la renta imponible para pensiones o de su pensión de jubilación, incluídos todos sus descuentos voluntarios, sean o no del Servicio de Bienestar.
 
-Para solicitar un nuevo préstamo de auxilio, será necesario haber servido como mínimo el 50% del anterior.
+Para solicitar un nuevo préstamo personal, será necesario haber servido como mínimo el 50% del anterior.
 
 Por último se hace presente que el afiliado, en todo caso, tendrá derecho a los beneficios contemplados en el artículo 10° de este Reglamento.
 
 #### Artículo 16°
 
-Para el otorgamiento de préstamos, créditos de casas comerciales o servicios médicos, será requisito previo la constitución de dos codeudores solidarios, que estén afiliados al Servicio de Bienestar y que por lo menos uno de ellos pertenezca a la planta permanente del Sence.
+Para el otorgamiento de préstamos, créditos de casas comerciales o servicios médicos, será requisito previo la constitución de dos codeudores solidarios, que estén afiliados al Servicio de Bienestar y que por lo menos uno de ellos deberá tener una antigüedad mayor a dos años en el Servicio.
 
 ## Título V
 
@@ -210,11 +226,11 @@ Disposiciones generales
 
 #### Artículo 17°
 
-Las referencias que en este Reglamento se hacen al "Sence" deben entenderse hechas al Servicio Nacional de Capacitación y Empleo. Por "Ingreso mínimo mensual" deberá entenderse el Ingreso Mínimo para fines no remuneracionales de la fecha en que se cause el beneficio.
+Las referencias que en este Reglamento se hacen al "Sence" deben entenderse hechas al Servicio Nacional de Capacitación y Empleo.
 
 #### Artículo 18°
 
-El derecho a impetrar los beneficios que concede el Servicio de Bienestar, caducará luego de transcurridos 6 meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos. En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
+El derecho a impetrar los beneficios que concede el Servicio de Bienestar, caducará luego de transcurridos 6 meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos. En el caso de los afiliados que se acogen a jubilación y manifiesten por escrito su intención de seguir perteneciendo al Servicio de Bienestar como jubilados, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el periodo comprendido entre esta fecha y la del cese de sus funciones.
 
 #### Artículo 19°
 
@@ -231,6 +247,28 @@ Los afiliados tendrán derecho a solicitar a su Servicio de Bienestar copia de c
 #### Artículo 22°
 
 Los antecedentes personales de que conozca el Consejo Administrativo, tendrá el carácter de confidenciales.
+
+#### Artículo 23°
+
+Los afiliados que dejen de ser funcionarios y que deseen seguir perteneciendo al Servicio de Bienestar como jubilados, podrán manifestarlo por escrito y, desde esa oportunidad y hasta que adquieran la calidad de jubilado, se mantendrán en suspenso sus derechos como afiliados, los que se ejercerán plenamente a contar desde la fecha a partir de la cual se conceda la jubilación, pudiendo percibir retroactivamente los beneficios que correspondan, siempre que efectúen la cotización retroactiva por el período en que se mantuvieron en suspenso sus derechos.
+
+Durante el período de suspensión referido en el inciso precedente, y en el caso de existir seguros contratados en beneficio de los afiliados, quien desee mantener su derecho a impetrar tales prestaciones, deberá seguir pagando la prima correspondiente, sin perjuicio del reembolso que corresponda, una vez que adquiera la calidad de jubilado.
+
+#### Artículo 24°
+
+Corresponderá al Consejo Administrativo del Servicio de Bienestar determinar los procedimientos o documentos para acreditar el cumplimiento de los requisitos o condiciones para obtener los beneficios establecidos en este Reglamento, siempre que no constituyan en sí mismos, nuevos requisitos o condiciones.
+
+#### Artículo 25°
+
+El Servicio de Bienestar podrá otorgar y/o propiciar, según sus facultades y en base a la disponibilidad financiera, las siguientes iniciativas o acciones, que serán evaluadas y aprobadas por el Consejo Administrativo, siempre que no pongan en riesgo la salud financiera y presupuestaría del Servicio de Bienestar:
+
+1. Financiar o contribuir a financiar eventos culturales, deportivos, recreativos, convivencias o camaraderías, actividades vacacionales, artísticas y/o sociales: campeonatos, actividades deportivas y/o escuelas de verano; promoción de la salud, visitas culturales, entre otros como parte del plan de calidad de vida laboral aprobado; celebraciones que convoquen a todos los afiliados del Servicio de Bienestar y sus cargas legales.
+
+2. Propiciar y coordinar la celebración de convenios y/o contratos de acuerdo con la normativa vigente para el otorgamiento de beneficios y promociones a los afiliados y sus cargas familiares, y siempre que con ello se favorezca el cumplimiento de los objetivos del Servicio de Bienestar. La celebración de estos acuerdos no podrá significar gasto alguno para el Servicio.
+
+3. Administrar colonias, refugios, casas de huéspedes u otros inmuebles en comodato para el uso de sus afiliados, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponderá al Servicio. Los gastos por la administración de los lugares individualizados en este reglamento no serán de cargo del presupuesto del Servicio de Bienestar.
+
+4. Otorgar a sus afiliados y/o causantes de asignación familiar obsequios y/o bonos en el marco de las siguientes ocasiones: día del niño, día de la secretaria, día de la mujer, día del padre, de la madre.
 
 #### Artículo 1°
 
