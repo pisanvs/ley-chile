@@ -36,8 +36,6 @@ Adiciones: Documentos mediante los cuales el Serviu podrá entregar información
 
 Administración Delegada: El sistema de contratación en virtud del cual una persona natural o jurídica, inscrita en el Registro Nacional de Contratistas, en adelante Renac, del Ministerio de Vivienda y Urbanismo, en adelante Minvu, toma a su cargo la construcción de una obra, reembolsándosele previa comprobación por el Serviu, el costo invertido en ella, más una cantidad suficiente para compensarle los gastos de administración y cubrir los honorarios de acuerdo a lo dispuesto en este reglamento.
 
-Administrador del Contrato: Es el contratista, o su representante reconocido por la Inspección Técnica de la Obra, en adelante I.T.O., que está a cargo del desarrollo del contrato, y que debe atenderlo de manera de dar cumplimiento al programa convenido.
-
 Aumento o Disminución de Obras: La modificación del proyecto que se produce al alterar las cantidades de obras previstas en el contrato respectivo.
 
 Autoridad que corresponda o autoridad correspondiente: La persona que la reglamentación o el Director del Serviu designe para conocer de una materia.
@@ -68,15 +66,17 @@ Especificaciones Técnicas: Conjunto de exigencias técnicas establecidas para c
 
 Gastos Generales: Aquellos gastos directos de obra no imputables a partidas específicas de la construcción.
 
-Inspección Técnica de la Obra: El o los funcionarios profesionales del área de la construcción que designe el Director del Serviu para supervisar el fiel cumplimiento de un contrato de obra.
+Fiscalización Técnica de la Obra (FTO): El o los funcionarios profesionales del área de la construcción que designe el Director del Serviu para supervisar el fiel cumplimiento de un contrato de obra, conforme a los procedimientos establecidos en el Manual de Inspección Técnico de Obras y el presente reglamento.
 
 Institución: El Serviu.
 
 Itemizado de Partidas: Denominado también Itemizado, es el listado de partidas, y sus unidades de medida, que el Serviu entregará entre los antecedentes de la licitación, cuando entregue el proyecto cuya ejecución se quiere contratar.
 
+Libro de Inspección: Medio de comunicación oficial entre la FTO, proyectistas y contratistas, distinto del Libro de Obras establecido en la Ley General de Urbanismo y Construcciones.
+
 Licitación: Concurso de proponentes autorizados para cotizar la construcción de una obra material de acuerdo a las bases administrativas, bases técnicas, especificaciones técnicas y planos generales y/o de detalle aprobados por el Serviu para dicho objeto, de acuerdo a las normas establecidas en este reglamento.
 
-Manual de Inspección Técnica de Obras: Documento de gestión y control de calidad en la de ejecución de las obras, aprobado por D.S. Nº 137 (V. y U.), de 1998, publicado en el Diario Oficial el 26 de noviembre de 1999.
+Manual de Inspección Técnica de Obras: Documento de gestión y control de calidad en la ejecución de las obras, aprobado por DS Nº 85 (V. y U.), de 2007, publicado en el Diario Oficial el 9 de noviembre de 2007, o el que lo reemplace.
 
 Obras Extraordinarias: Obras que se incorporan o agregan al proyecto, cuyas características son diferentes a las especificadas o a las contenidas en los antecedentes que sirven de base al contrato.
 
@@ -85,6 +85,8 @@ Oferta Económica: Cotización de precios presentada por el oferente y que forma
 Planos de Detalles: Diseños a escala adecuada para realizar la construcción de piezas o partes del proyecto contenidas en los planos generales. Los planos de detalle que se entreguen con posterioridad a la aceptación de una propuesta sólo servirán para aclarar y precisar en mejor forma las obras consultadas en las bases.
 
 Planos Generales: Diseños de conjunto que indicando ubicación, formas y medidas a una escala adecuada, permitan un juicio general de las obras por realizar, representado en un lenguaje gráfico normalizado que facilite la correcta interpretación del proyecto.
+
+Plazo de días: Cuando en el presente Reglamento se establezcan plazos de días, se entenderá que se refieren a días corridos, salvo que se señale expresamente que se trate de días hábiles.
 
 Presupuesto Compensado: a) En el caso de las propuestas a suma alzada en que el Serviu entregue el proyecto cuya ejecución se quiere contratar, el presupuesto compensado será el que resulte de modificar los precios globales de las partidas del presupuesto oficial estimativo en el porcentaje de diferencia que exista entre la propuesta aprobada y dicho presupuesto oficial. Se deberán considerar las cantidades de obra indicadas por el contratista en su oferta, y los precios unitarios compensados se determinarán dividiendo los precios globales compensados de las partidas por las cantidades de obra señaladas por el contratista en su presupuesto detallado. El presupuesto del contratista deberá respetar el itemizado que se entregue.
 
@@ -130,7 +132,7 @@ a) Si la propuesta pública respectiva hubiere sido declarada desierta, porque n
 
 b) Si se tratare de trabajos que correspondan a la realización o terminación de un contrato que haya debido resolverse anticipadamente por falta de cumplimiento del contratista u otras causales;
 
-c) En casos de emergencia fundamentados y calificados por el Director del SERVIU. Cuando el monto del contrato a celebrarse exceda de 10.000 Unidades de Fomento, en adelante U.F., el Director del SERVIU para declarar de emergencia requerirá autorización previa, por escrito, del Ministro o del Subsecretario de Vivienda y Urbanismo;
+c) En casos de emergencia o urgencia, fundamentados y calificados por el Director del Serviu. Cuando el monto del contrato a celebrarse exceda de 10.000 Unidades de Fomento, en adelante UF, el Director del Serviu para declarar de emergencia o urgencia, requerirá autorización previa, por escrito, del Ministro o del Subsecretario de Vivienda y Urbanismo;
 
 d) Cuando se trate de obras de conservación, reparación o mejoramiento habituales de inmuebles de propiedad del Serviu respectivo. Cuando el monto del contrato exceda de 3.000 U.F., para contratar por trato directo se requerirá autorización previa, por escrito, del Ministro o del Subsecretario de Vivienda y Urbanismo;
 
@@ -240,7 +242,7 @@ Además, podrán estipularse premios si el contratista administrador obtiene eco
 
 #### Artículo 16
 
-En los contratos por administración delegada se reembolsará al contratista administrador los gastos directos efectuados, debidamente comprobados y aprobados por la I.T.O., en rendiciones de cuenta que incluirán los comprobantes fehacientes. Las facturas, recibos y comprobantes de pago deberán ser extendidos a nombre del Serviu.
+En los contratos por administración delegada se reembolsará al contratista administrador los gastos directos efectuados, debidamente comprobados y aprobados por la FTO, en rendiciones de cuenta que incluirán los comprobantes fehacientes. Las facturas, recibos y comprobantes de pago deberán ser extendidos a nombre del Serviu.
 
 No obstante el reembolso al contratista administrador de todos los gastos directos ocasionados por la ejecución de las obras contratadas, entre los cuales se incluirán las remuneraciones e imposiciones previsionales de los trabajadores, sólo el contratista administrador tendrá la calidad de empleador de los trabajadores ocupados en las obras, radicándose en él, para todos los efectos legales, los derechos y obligaciones propias de los empleadores, de acuerdo con las normas laborales.
 
@@ -272,7 +274,7 @@ Los gastos de administración y honorarios se pagarán al contratista administra
 
 #### Artículo 21
 
-La adquisición de materiales y el arrendamiento de maquinarias y vehículos deberán ser autorizados por la I.T.O. y se regirán por las normas pertinentes de los artículos 140 y siguientes de este reglamento.
+La adquisición de materiales y el arrendamiento de maquinarias y vehículos deberán ser autorizados por la FTO y se regirán por las normas pertinentes de los artículos 140 y siguientes de este reglamento.
 
 ## Título II
 
@@ -428,7 +430,7 @@ El Acta será firmada por el integrante de la Comisión Técnica que presida el 
 
 Si la resolución que adjudica una propuesta no se dictare dentro de los 30 días siguientes a la fecha de apertura, o no fuere totalmente tramitada dentro de los 60 días contados desde la misma fecha, el contratista tendrá derecho a desistirse de su propuesta y a retirar los antecedentes y documentos presentados.
 
-Si el contratista favorecido se desiste de la oferta presentada, omite información o la proporcionada no fuere veraz, no suscribiere el contrato dentro del plazo que fija el artículo 45 del presente reglamento, se negare a mantener los términos o condiciones de su oferta o no presentare en tiempo las garantías a que se refieren el artículo 50 y siguientes de este reglamento, se podrá dejar sin efecto la resolución que adjudicó las obras y adjudicarse la propuesta a otro contratista que hubiere participado en la licitación, de acuerdo al presente reglamento, en el orden de calificación de los oferentes. Además, el contratista será sancionado en la forma que establece el reglamento del Renac, pudiendo levantarse, hasta dos veces, la sanción de suspensión, si el contratista afectado paga una multa a beneficio del Serviu, por una suma equivalente al dos por ciento de la oferta presentada, a su valor actualizado. En los casos en que el Serviu optare por adjudicar la propuesta a otro contratista que siga en el orden de calificación de los oferentes, el monto de la multa que deberá pagar cada contratista suspendido que preceda a aquél en el orden antes mencionado, será equivalente a la diferencia que resulte entre el valor de su oferta y el de la oferta del contratista que le siga en ese orden de calificación.
+Si el contratista adjudicado se desiste de la oferta presentada, omite información o la proporcionada no fuere veraz, no suscribiere el contrato dentro del plazo que fija el artículo 45 del presente reglamento, o no presentare a tiempo las garantías a que se refieren los artículos 50, 51 y 52 de este reglamento, se podrá dejar sin efecto la resolución que adjudicó las obras y adjudicarse la propuesta a otro contratista que hubiere participado en la licitación, de acuerdo al presente reglamento, en el orden de calificación de los oferentes. Además, el contratista será sancionado en la forma que establece el reglamento del Renac, pudiendo levantarse, hasta por una sola vez la sanción de suspensión, en el caso que el contratista afectado pague una multa a beneficio del Serviu, por una suma equivalente al dos por ciento de la oferta presentada, a su valor actualizado. En los casos en que el Serviu optare por adjudicar la propuesta a otro contratista que siga en el orden de calificación de los oferentes, el monto de la multa, será equivalente a la diferencia que resulte entre el valor de su oferta y el de la oferta del contratista que le siga en ese orden de calificación, siempre y cuando dicho valor sea superior a la aplicación de una multa equivalente al dos por ciento de la oferta presentada por el contratista que se desiste de su oferta.
 
 Tratándose de propuestas para proyectos que cuenten con financiamiento proveniente de créditos externos, cuyos antecedentes deban enviarse a las correspondientes entidades crediticias, los plazos fijados en este artículo serán de 120 y 150 días, respectivamente.
 
@@ -470,7 +472,7 @@ a) D.F.L. Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones.
 
 b) D.S. Nº 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones.
 
-c) D.S. Nº 137 (V. y U.), de 1998, Manual de Inspección Técnica de Obras del Ministerio de Vivienda y Urbanismo.
+c) DS Nº 85 (V. y U.), de 2007, Manual de Inspección Técnica de Obras del Ministerio de Vivienda y Urbanismo, o el que lo reemplace.
 
 d) D.S. Nº 127 (V. y U.), de 1977, Reglamento del Registro Nacional de Contratistas del Minvu.
 
@@ -560,35 +562,35 @@ Si durante el desarrollo del contrato se determinare que el contratista tiene su
 
 Para todos los efectos legales, el contratista deberá fijar domicilio en Chile, en la misma comuna en que tenga su sede la Dirección Regional del Serviu.
 
-Cualquier cambio de domicilio deberá ser comunicado al Serviu por escrito por el contratista o por su representante y aceptado por la I.T.O.
+Cualquier cambio de domicilio deberá ser comunicado al Serviu por escrito por el contratista o por su representante y aceptado por la FTO.
 
 ## Título IV
 
-De la Inspeccion Técnica de la Obra
+De la Fiscalización Técnica de la Obra
 
 #### Artículo 57
 
-En la construcción de las obras regidas por este reglamento, la responsabilidad de su correcta y oportuna ejecución conforme al proyecto aprobado, a las bases especiales y a las normas técnicas vigentes, recae en el contratista seleccionado, quien deberá adoptar las medidas de gestión y control de calidad utilizando la metodología establecida por el Manual. A la I.T.O. le corresponderá verificar el autocontrol que, de conformidad con la reglamentación vigente, debe cumplir el contratista respecto a las obras que ejecuta, realizando para ello las inspecciones selectivas y cursar los estados de pago conforme a los procedimientos fijados en el Manual.
+En la construcción de las obras regidas por este reglamento, la responsabilidad de su correcta y oportuna ejecución conforme al proyecto aprobado, a las bases especiales y a las normas técnicas vigentes, recae en el contratista seleccionado, quien deberá adoptar las medidas de gestión y control de calidad utilizando la metodología establecida por el Manual. A la FTO le corresponderá verificar el autocontrol que, de conformidad con la reglamentación vigente, debe cumplir el contratista respecto a las obras que ejecuta, realizando para ello las inspecciones selectivas y cursar los estados de pago conforme a los procedimientos fijados en el Manual.
 
-La I.T.O. estará a cargo de el o los funcionarios profesionales del área de la construcción que designe el Director del Serviu. Uno de los miembros de la I.T.O. cuando sean varios, será designado Director de la Obra. La I.T.O. podrá contar con la asesoría de profesionales competentes, sean personas naturales o jurídicas, contratadas por el Serviu para la prestación de estos servicios.
+La FTO estará compuesta de al menos dos funcionarios, uno de ellos será designado Director de la Obra. La FTO podrá contar con la asesoría de profesionales competentes, de aquellos que establece la Ley General de Urbanismo y Construcciones, sean personas naturales o jurídicas, contratadas por el Serviu para la prestación de estos servicios.
 
-El contratista estará obligado a prestar toda la colaboración y otorgar el máximo de facilidades que requiera la I.T.O. para desempeñar su labor, debiendo poner a su disposición una oficina independiente de las dimensiones que se indicarán en las bases especiales.
+El contratista estará obligado a prestar toda la colaboración y otorgar el máximo de facilidades que requiera la FTO para desempeñar su labor, debiendo poner a su disposición una oficina independiente de las dimensiones que se indicarán en las bases especiales.
 
 Sin perjuicio de lo anterior, el Serviu podrá establecer sistemas de inspección complementarios, cuyas características deberán establecerse en las bases especiales.
 
 #### Artículo 58
 
-Sin perjuicio de la responsabilidad directa del contratista, a la Inspección Técnica de la Obra, I.T.O., le corresponderá velar, en los términos que se señalan en el presente Título, porque las obras que se ejecuten cumplan con las especificaciones técnicas y planos, y concuerden con las restantes obras que contemple el contrato.
+Sin perjuicio de la responsabilidad directa del contratista, a la FTO, le corresponderá velar, en los términos que se señalan en el presente Título, porque las obras que se ejecuten cumplan con las especificaciones técnicas y planos, y concuerden con las restantes obras que contemple el contrato.
 
 #### Artículo 59
 
-El contratista deberá someterse a las órdenes o instrucciones que la I.T.O. imparta por escrito en el Libro de Obras, sobre las obras u otros aspectos del contrato, conforme a los términos y condiciones del contrato. Dichas órdenes deberán ser cumplidas por el contratista en el plazo indicado por la I.T.O., pudiendo apelar de ellas dentro de los dos días hábiles siguientes a su notificación, ante el jefe de la unidad técnica del Serviu, quien resolverá breve y sumariamente.
+El contratista deberá someterse a las órdenes o instrucciones que la FTO imparta por escrito en el Libro de Obras, sobre las obras u otros aspectos del contrato, conforme a los términos y condiciones del contrato. Dichas órdenes deberán ser cumplidas por el contratista en el plazo indicado por la I.T.O., pudiendo apelar de ellas dentro de los dos días hábiles siguientes a su notificación, ante el jefe de la unidad técnica del Serviu, quien resolverá breve y sumariamente.
 
-Si la I.T.O., formulare observaciones, el contratista deberá subsanarlas y no podrá excusarse alegando que las obras cuentan con recepción de otros servicios. Será responsabilidad de la I.T.O., cuidar que las obras recibidas por otros servicios no generen inconvenientes para la ejecución de otras partidas que considere el contrato.
+Si la FTO, formulare observaciones, el contratista deberá subsanarlas y no podrá excusarse alegando que las obras cuentan con recepción de otros servicios. Será responsabilidad de la FTO, cuidar que las obras recibidas por otros servicios no generen inconvenientes para la ejecución de otras partidas que considere el contrato.
 
-El incumplimiento de una orden no apelada, faculta a la I.T.O., para paralizar las faenas hasta que dicha orden sea acatada o para hacerla ejecutar la orden por cuenta y cargo del contratista, sin perjuicio de aplicar una multa de 5 U.F., por cada día de incumplimiento. Si las órdenes no apeladas fueran la causa directa o indirecta de obras defectuosas, el contratista no podrá excusar su responsabilidad.
+El incumplimiento de una orden no apelada, faculta a la FTO, para paralizar las faenas hasta que dicha orden sea acatada o para hacerla ejecutar la orden por cuenta y cargo del contratista, sin perjuicio de aplicar una multa de 5 U.F., por cada día de incumplimiento. Si las órdenes no apeladas fueran la causa directa o indirecta de obras defectuosas, el contratista no podrá excusar su responsabilidad.
 
-Las órdenes o resoluciones de la I.T.O., incluidas aquéllas que recaigan en los reclamos deducidos por el contratista, se entenderán suficientemente notificadas a éste, por su anotación en el Libro de Inspección establecido en el artículo 69 de este reglamento. Esta forma de notificación no excluye otras que el Serviu pueda adoptar.
+Las órdenes o resoluciones de la FTO, incluidas aquéllas que recaigan en los reclamos deducidos por el contratista, se entenderán suficientemente notificadas a éste, por su anotación en el Libro de Inspección establecido en el artículo 69 de este reglamento. Esta forma de notificación no excluye otras que el Serviu pueda adoptar.
 
 Si el contratista no estuviere de acuerdo con la resolución del jefe de la unidad técnica del Serviu, podrá reclamar de ello por escrito, dentro de los tres días hábiles siguientes a su notificación, al Director del Serviu, cuyo dictamen será definitivo.
 
@@ -596,73 +598,71 @@ Si después de resueltos los reclamos o dificultades, el contratista se resistie
 
 #### Artículo 60
 
-La I.T.O., cuando estimare que corresponde suspender, despedir o impartir órdenes a los trabajadores o subcontratistas de la empresa constructora, deberá hacerlo por intermedio del contratista, de su representante legal o del profesional a cargo de las obras.
+La FTO, cuando estimare que corresponde suspender, despedir o impartir órdenes a los trabajadores o subcontratistas de la empresa constructora, deberá hacerlo por intermedio del contratista, de su representante legal o del profesional a cargo de las obras.
 
-La I.T.O., podrá exigir la separación de cualquier subcontratista y sus trabajadores o de trabajadores del contratista, por insubordinación, desórdenes, incapacidad u otro motivo grave debidamente comprobado, a juicio de la I.T.O., quedando siempre responsable el contratista de los fraudes, vicios de construcción o abusos que haya podido cometer la persona separada, siendo de su cargo todo pago que deba hacerse con motivo de la aplicación de la orden que se le imparta.
+La FTO, podrá exigir la separación de cualquier subcontratista y sus trabajadores o de trabajadores del contratista, por insubordinación, desórdenes, incapacidad u otro motivo grave debidamente comprobado, a juicio de la FTO, quedando siempre responsable el contratista de los fraudes, vicios de construcción o abusos que haya podido cometer la persona separada, siendo de su cargo todo pago que deba hacerse con motivo de la aplicación de la orden que se le imparta.
 
-El contratista tiene la obligación de reconstruir por su cuenta y cargo las obras o reemplazar los materiales que no sean aceptados por la I.T.O.
+El contratista tiene la obligación de reconstruir por su cuenta y cargo las obras o reemplazar los materiales que no sean aceptados por la FTO.
 
 #### Artículo 61
 
-Toda consulta, observación o proposición de los contratistas que se relacione con los trabajos, salvo las apelaciones a que se refiere el artículo 59 de este reglamento, deberá presentarse por escrito a la I.T.O., la que resolverá dentro de un plazo máximo de 10 días hábiles o bien, si fuere necesario, la enviará dentro de un plazo máximo de cinco días hábiles y con el informe correspondiente, a la autoridad que corresponda, para su resolución o para que se someta a la consideración del Director del Serviu.
+Toda consulta, observación o proposición de los contratistas que se relacione con los trabajos, salvo las apelaciones a que se refiere el artículo 59 de este reglamento, deberá presentarse por escrito a la FTO, la que resolverá dentro de un plazo máximo de 10 días hábiles o bien, si fuere necesario, la enviará dentro de un plazo máximo de cinco días hábiles y con el informe correspondiente, a la autoridad que corresponda, para su resolución o para que se someta a la consideración del Director del Serviu.
 
 #### Artículo 62
 
-La supervigilancia que ejerza el Serviu por medio de la I.T.O., no libera al contratista de la responsabilidad contractual y técnica que le cabe.
+La supervigilancia que ejerza el Serviu por medio de la FTO, no libera al contratista de la responsabilidad contractual y técnica que le cabe.
 
 #### Artículo 63
 
-El contratista deberá solicitar a la I.T.O., la recepción técnica de las partidas que el Serviu establezca, de lo cual se dejará constancia en el Libro de Inspección, de acuerdo a lo establecido en el Manual. Tales recepciones podrán otorgarse por parcialidades y deberán hacerse antes que el avance de las obras cubra dichas partidas.
+El contratista deberá solicitar a la FTO, la recepción técnica de las partidas que el Serviu establezca, de lo cual se dejará constancia en el Libro de Inspección, de acuerdo a lo establecido en el Manual. Tales recepciones podrán otorgarse por parcialidades y deberán hacerse antes que el avance de las obras cubra dichas partidas.
 
-No podrán proseguirse los trabajos sino después que se hayan obtenido los respectivos conformes, para cuyo objeto la I.T.O., deberá recibir oportunamente las partidas que corresponda.
+No podrán proseguirse los trabajos sino después que se hayan obtenido los respectivos conformes, para cuyo objeto la FTO, deberá recibir oportunamente las partidas que corresponda.
 
 #### Artículo 64
 
-La I.T.O., tendrá acceso a toda la documentación oficial de la obra. Podrá asimismo, requerir copia de todos y cada uno de los antecedentes que precise relacionados con los trabajos y/o con el contrato.
+La FTO, tendrá acceso a toda la documentación oficial de la obra. Podrá asimismo, requerir copia de todos y cada uno de los antecedentes que precise relacionados con los trabajos y/o con el contrato.
 
 #### Artículo 65
 
-La I.T.O., se preocupará especialmente de que el avance de las obras se desarrolle en proporción al plazo de ejecución estipulado en el contrato, para cuyo objeto controlará el avance real en relación con el avance contractual y deberá exigir al contratista las medidas necesarias para mantener el normal desarrollo de las obras.
+La FTO, se preocupará especialmente de que el avance de las obras se desarrolle en proporción al plazo de ejecución estipulado en el contrato, para cuyo objeto controlará el avance real en relación con el avance contractual y deberá exigir al contratista las medidas necesarias para mantener el normal desarrollo de las obras.
 
-Corresponderá a la I.T.O., formular los correspondientes estados de pago.
+Corresponderá a la FTO, formular los correspondientes estados de pago.
 
 #### Artículo 66
 
-La I.T.O., informará a la autoridad que corresponda las obras extraordinarias que sea necesario ejecutar, conviniendo los precios con el contratista y dejando constancia de la fecha en que se acordó dicho precio, no pudiendo ordenar su ejecución hasta contar con la autorización para ello por parte de la autoridad. El informe respectivo deberá hacerse con la debida antelación.
+La FTO, informará a la autoridad que corresponda las obras extraordinarias que sea necesario ejecutar, conviniendo los precios con el contratista y dejando constancia de la fecha en que se acordó dicho precio, no pudiendo ordenar su ejecución hasta contar con la autorización para ello por parte de la autoridad. El informe respectivo deberá hacerse con la debida antelación.
 
-Sin perjuicio de lo anterior, la I.T.O., está facultada para autorizar modificaciones hasta en un uno por ciento de la obra que, obedeciendo a elementales exigencias de buena construcción, pudieren ser indispensables a pesar de todo lo previsto y cuya ejecución evite detener la marcha de la obra, dando cuenta de ello a la autoridad que corresponda.
+Sin perjuicio de lo anterior, la FTO, está facultada para autorizar modificaciones hasta en un uno por ciento de la obra que, obedeciendo a elementales exigencias de buena construcción, pudieren ser indispensables a pesar de todo lo previsto y cuya ejecución evite detener la marcha de la obra, dando cuenta de ello a la autoridad que corresponda.
 
 #### Artículo 67
 
-Cuando a juicio de la I.T.O., sea necesario efectuar una verificación técnica especializada, podrá requerir del Director del Serviu la intervención de un profesional experto, cuyos honorarios serán de cargo del Serviu.
+Cuando a juicio de la FTO, sea necesario efectuar una verificación técnica especializada, podrá requerir del Director del Serviu la intervención de un profesional experto, cuyos honorarios serán de cargo del Serviu.
 
 #### Artículo 68
 
-Cuando el contratista se crea injustamente perjudicado por los procedimientos empleados por la I.T.O., podrá reclamar, por escrito, ante el Director del Serviu, quien, si la situación así lo amerita, dispondrá una investigación sumaria, sin que por esto se interrumpa los trabajos.
+Cuando el contratista se crea injustamente perjudicado por los procedimientos empleados por la FTO, podrá reclamar, por escrito, ante el Director del Serviu, quien, si la situación así lo amerita, dispondrá una investigación sumaria, sin que por esto se interrumpa los trabajos.
 
 #### Artículo 69
 
-Para la buena marcha y fiscalización de la obra se llevará en ella un libro que se denominará Libro de Inspección, en el cual la I.T.O., anotará todas las observaciones que le merezca el desarrollo de los trabajos y las órdenes que se impartan al contratista. Estas observaciones llevarán fecha y la firma del Director de la Obra o del funcionario de la I.T.O., que las formuló, debiendo ser, asimismo, firmadas por el contratista o su representante para constancia de notificación, pero su firma no será indispensable para la validez del acto.
+Para la buena marcha y fiscalización de la obra, se llevará un libro mediante medios electrónicos que se denominará Libro de Inspección, en el cual la FTO formulará al contratista todas las observaciones que le merezca el desarrollo de los trabajos y las órdenes que se impartan.
 
-El libro en referencia será proporcionado por el Serviu, sus hojas irán foliadas y dispuestas en forma de poder desglosar una copia para el Serviu y otra para el contratista.
+El acceso al Libro de Inspección se efectuará a través de la plataforma electrónica dispuesta para estos efectos por el Serviu, la que deberá cumplir con los principios de neutralidad tecnológica, de actualización, de equivalencia funcional, de fidelidad, de interoperabilidad y de cooperación. En casos excepcionales el Libro de Inspección podrá llevarse en soporte de papel, conforme a los términos previstos en el artículo 18 de la ley Nº 19.880.
 
-Este libro quedará bajo la custodia del contratista, quien será responsable en caso de extravío, y de las enmendaduras, raspaduras, desglose de hojas o destrozos que puedan afectarlo. Será, asimismo, obligación del contratista mantener dicho libro en sitio adecuado para los efectos de la anotación oportuna de las órdenes o notificaciones que impartan o efectúen los representantes del Serviu. El contratista, a su vez, utilizará el Libro de Inspección para estampar las consultas, observaciones o proposiciones a que se refiere el artículo 61 de este reglamento. Asimismo, en este Libro quedará constancia de las apelaciones que deduzca el contratista en conformidad a lo dispuesto en el artículo 59 de este reglamento.
+Las observaciones formuladas en el Libro de Inspección por parte de la FTO, como asimismo, las consultas, observaciones, proposiciones o apelaciones efectuadas por el contratista en conformidad a lo dispuesto en los artículos 59 y 61 de este reglamento, deberán ser suscritas mediante firma electrónica simple, con arreglo a lo dispuesto en la ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma.
 
-El contratista, al dar término a las obras, deberá entregar al Serviu el Libro de Inspección, dejando constancia de ello en el acta de recepción de las obras.
-
-Asimismo, se deberá mantener en el lugar de la obra, en forma permanente, un Libro de Obras, según el artículo 143 de la Ley General de Urbanismo y Construcciones, de las mismas características que el Libro de Inspección, en el cual se consignarán, debidamente firmadas y fechadas, las observaciones sobre el desarrollo de la construcción que formulen los profesionales proyectistas, el representante del contratista, los profesionales de los servicios públicos que intervengan y los inspectores municipales cuando corresponda, las cuales, cuando la I.T.O., lo considere procedente, deberán ser consignadas, debidamente firmadas y fechadas, en el Libro de Inspección.
+Además, se llevará el Libro de Obras, en el que se consignarán conforme a lo dispuesto en el artículo 143 de la Ley General de Urbanismo y Construcciones, las observaciones sobre el desarrollo de la construcción que formulen los profesionales proyectistas, el representante del contratista, los profesionales de los servicios públicos que intervengan y los inspectores municipales cuando corresponda, las cuales, cuando la FTO, lo considere procedente, deberán ser consignadas en el Libro de Inspección.
 
 #### Artículo 70
 
-La I.T.O., deberá velar porque el contratista cumpla respecto de su personal, con las disposiciones legales vigentes sobre remuneraciones, imposiciones, seguros y normas de seguridad.
+La FTO, deberá velar porque el contratista cumpla respecto de su personal, con las disposiciones legales vigentes sobre remuneraciones, imposiciones, seguros y normas de seguridad.
 
 #### Artículo 71
 
-Los profesionales autores de los proyectos, en las visitas que hagan a las obras, estamparán sus observaciones e instrucciones en el Libro de Obras. Si éstas involucran mayores gastos, deberán ser autorizadas por la I.T.O., y dispuestas en el Libro de Inspección, sin perjuicio de su posterior ratificación por parte de la autoridad que corresponda.
+Los profesionales autores de los proyectos, en las visitas que hagan a las obras, estamparán sus observaciones e instrucciones en el Libro de Obras. Si éstas involucran mayores gastos, deberán ser autorizadas por la FTO, y dispuestas en el Libro de Inspección, sin perjuicio de su posterior ratificación por parte de la autoridad que corresponda.
 
 #### Artículo 72
 
-En casos de grave negligencia o cuando los trabajos constituyan peligro, la I.T.O., con la aprobación por escrito de la autoridad que corresponda, podrá tomar las medidas inmediatas que estime del caso para reparar o corregir las obras objetadas, descontándose el costo de su reparación del estado de pago más próximo. En estos casos la I.T.O., podrá suspender el trabajo en la sección objetada, anotando esta circunstancia en el Libro de Inspección y dando cuenta inmediata a la autoridad correspondiente, ordenando al contratista la demolición y reconstrucción de la parte defectuosa.
+En casos de grave negligencia o cuando los trabajos constituyan peligro, la FTO, con la aprobación por escrito de la autoridad que corresponda, podrá tomar las medidas inmediatas que estime del caso para reparar o corregir las obras objetadas, descontándose el costo de su reparación del estado de pago más próximo. En estos casos la FTO, podrá suspender el trabajo en la sección objetada, anotando esta circunstancia en el Libro de Inspección y dando cuenta inmediata a la autoridad correspondiente, ordenando al contratista la demolición y reconstrucción de la parte defectuosa.
 
 ## Título V
 
@@ -690,17 +690,17 @@ Todo contratista queda obligado a facilitar la ejecución de los trabajos que el
 
 El contratista o su representante para la obra, reconocido por el Serviu, es responsable del desarrollo del contrato y debe atenderlo en forma que su avance esté de acuerdo con el programa de trabajo aprobado.
 
-Si el contratista o su representante debieren ausentarse de la obra por períodos que afecten dicho avance, se deberá dejar un representante autorizado por la I.T.O. El Serviu podrá, sin embargo, en cualquier momento y por causa justificada, ordenar al contratista el cese de las funciones del representante y/o de su reemplazante.
+Si el contratista o su representante debieren ausentarse de la obra por períodos que afecten dicho avance, se deberá dejar un representante autorizado por la FTO El Serviu podrá, sin embargo, en cualquier momento y por causa justificada, ordenar al contratista el cese de las funciones del representante y/o de su reemplazante.
 
 #### Artículo 76
 
 El Serviu exigirá que el contratista mantenga un profesional ingeniero civil, arquitecto, ingeniero constructor o constructor civil, a cargo de las obras que se contraten, en calidad de residente permanente, durante todo el período de la ejecución de las mismas, salvo que en las bases de la licitación se establezca condiciones diferentes. En las bases de licitación se establecerán los requisitos de experiencia que deberá cumplir este profesional.
 
-La I.T.O., deberá comunicar a la autoridad que corresponda el cumplimiento de la disposición sobre permanencia en obra del profesional responsable de ella.
+La FTO, deberá comunicar a la autoridad que corresponda el cumplimiento de la disposición sobre permanencia en obra del profesional responsable de ella.
 
 #### Artículo 77
 
-Dentro del plazo de 5 días, contados desde la fecha de protocolización de la resolución que adjudica el contrato, el contratista deberá presentar a la I.T.O. la estructura organizacional u organigrama, que será utilizado para ejecutar las obras. El incumplimiento de esta obligación en el plazo señalado se sancionará con una multa diaria de 2 U.F., que se descontará administrativamente del estado de pago siguiente. Esta estructura organizacional deberá detallarse hasta los niveles de profesionales residentes, indicando el personal que permanecerá en faena, señalándose un cronograma para ello, con expresa indicación de las relaciones entre los profesionales responsables en terreno. Asimismo, cuando se requiera en las bases especiales, se deberá incluir en la estructura organizacional a los profesionales especialistas definidos en la Ordenanza General de Urbanismo y Construcción.
+Dentro del plazo de 5 días, contados desde la fecha de protocolización de la resolución que adjudica el contrato, el contratista deberá presentar a la FTO la estructura organizacional u organigrama, que será utilizado para ejecutar las obras. El incumplimiento de esta obligación en el plazo señalado se sancionará con una multa diaria de 2 U.F., que se descontará administrativamente del estado de pago siguiente. Esta estructura organizacional deberá detallarse hasta los niveles de profesionales residentes, indicando el personal que permanecerá en faena, señalándose un cronograma para ello, con expresa indicación de las relaciones entre los profesionales responsables en terreno. Asimismo, cuando se requiera en las bases especiales, se deberá incluir en la estructura organizacional a los profesionales especialistas definidos en la Ordenanza General de Urbanismo y Construcción.
 
 #### Artículo 78
 
@@ -736,13 +736,13 @@ En caso de que el contratista introdujera, sin previa autorización escrita del 
 
 El contratista deberá iniciar los trabajos después de la entrega del terreno, en el plazo que se indique en las bases administrativas especiales.
 
-El atraso superior a 15 días corridos en la iniciación de los trabajos, o cualquiera interrupción en el curso de ellos que dure otro tanto y que no haya sido causada por fuerza mayor o justificada plenamente ante la I.T.O., dará derecho al Serviu para poner término anticipado administrativamente al contrato, de acuerdo con el artículo 134 de este reglamento.
+El atraso superior a 15 días corridos en la iniciación de los trabajos, o cualquiera interrupción en el curso de ellos que dure otro tanto y que no haya sido causada por fuerza mayor o justificada plenamente ante la FTO, dará derecho al Serviu para poner término anticipado administrativamente al contrato, de acuerdo con el artículo 134 de este reglamento.
 
 #### Artículo 82
 
-El contratista está obligado a cumplir durante la ejecución de las obras con los plazos parciales establecidos en el contrato o con los avances de obra estipulados en el Programa de Trabajo correspondiente, lo que será evaluado por la I.T.O., cada vez que transcurra un diez por ciento del plazo total del contrato o en la oportunidad en que se presente un estado de pago. Si se produjere un atraso injustificado en la ejecución de las obras, superior al treinta por ciento con respecto al avance consultado en el mencionado programa, la I.T.O., informará al Director del Serviu, quien podrá poner término anticipado al contrato, conforme a lo dispuesto en el artículo 134 de este reglamento, sin perjuicio de la aplicación de las multas que establece el artículo 59 de este reglamento o de las que se fijen en las bases administrativas especiales.
+El contratista está obligado a cumplir durante la ejecución de las obras con los plazos parciales establecidos en el contrato o con los avances de obra estipulados en el Programa de Trabajo correspondiente, lo que será evaluado por la FTO, cada vez que transcurra un diez por ciento del plazo total del contrato o en la oportunidad en que se presente un estado de pago. Si se produjere un atraso injustificado en la ejecución de las obras, superior al treinta por ciento con respecto al avance consultado en el mencionado programa, la I.T.O., informará al Director del Serviu, quien podrá poner término anticipado al contrato, conforme a lo dispuesto en el artículo 134 de este reglamento, sin perjuicio de la aplicación de las multas que establece el artículo 59 de este reglamento o de las que se fijen en las bases administrativas especiales.
 
-Si durante la ejecución de la obra la I.T.O., advirtiera atrasos parciales superiores al cinco por ciento del avance programado, ocasionados por fuerza mayor o por caso fortuito, el contratista deberá presentar a la I.T.O., en cada oportunidad en que esto suceda, su justificación por escrito antes de que transcurran 30 días desde que se haya producido el retraso, debiendo la I.T.O., informar a la autoridad que corresponda sobre la validez de la justificación ofrecida. Transcurrido dicho plazo no se aceptará justificación alguna. La autoridad que corresponda estudiará el informe presentado por la I.T.O., y las razones invocadas por el contratista para justificar el atraso y propondrá al Director del Serviu, la aceptación o rechazo de la ampliación de plazo.
+Si durante la ejecución de la obra la FTO, advirtiera atrasos parciales superiores al cinco por ciento del avance programado, ocasionados por fuerza mayor o por caso fortuito, el contratista deberá presentar a la FTO, en cada oportunidad en que esto suceda, su justificación por escrito antes de que transcurran 30 días desde que se haya producido el retraso, debiendo la FTO, informar a la autoridad que corresponda sobre la validez de la justificación ofrecida. Transcurrido dicho plazo no se aceptará justificación alguna. La autoridad que corresponda estudiará el informe presentado por la FTO, y las razones invocadas por el contratista para justificar el atraso y propondrá al Director del Serviu, la aceptación o rechazo de la ampliación de plazo.
 
 En casos justificados, el Serviu podrá conceder ampliaciones de plazo con derecho a reajustabilidad y/o a mayores gastos generales, determinando estos últimos en la forma establecida en el artículo 90 de este reglamento.
 
@@ -754,17 +754,17 @@ Si el programa de trabajo se está realizando con retraso, el Serviu impartirá 
 
 #### Artículo 84
 
-Los materiales y elementos industriales para la construcción que se empleen en las obras deberán cumplir con las normas técnicas pertinentes y, a falta de éstas, deberán ser de la mejor calidad y procedencia en su especie de acuerdo con las especificaciones técnicas. La I.T.O., verificará tal condición, pudiendo requerir los análisis y pruebas del caso para resolver sobre su aceptación o rechazo.
+Los materiales y elementos industriales para la construcción que se empleen en las obras deberán cumplir con las normas técnicas pertinentes y, a falta de éstas, deberán ser de la mejor calidad y procedencia en su especie de acuerdo con las especificaciones técnicas. La FTO, verificará tal condición, pudiendo requerir los análisis y pruebas del caso para resolver sobre su aceptación o rechazo.
 
 No obstante, si durante el período de la construcción o durante el plazo de garantía, se comprobare que el material o los elementos han resultado deficientes en el hecho, el contratista tendrá la obligación de reemplazarlos y rehacer de su cuenta y a su costa la obra en que fueron empleados.
 
-En las bases especiales de cada contrato el Serviu determinará las áreas y especialidades que requieren las Instituciones Oficiales de Control Técnico de Calidad de los Materiales y Elementos Industriales para la Construcción, en adelante I.O.C.T., para desempeñarse como laboratorios de control de calidad de los materiales y de los procesos constructivos de las obras a ejecutar. En caso de dudas en los resultados de los ensayes ya practicados, la I.T.O., podrá requerir a otra I.O.C.T., los estudios o ensayes que estime necesarios, los que serán de cuenta y cargo del contratista hasta el medio por ciento del valor total de la oferta. Excedido dicho monto, los ensayes serán de cargo del Serviu, a menos que se determine que las obras han sido mal ejecutadas o que los materiales y elementos industriales no cumplen los requisitos establecidos en el contrato, en cuyo caso serán de cargo del contratista.
+En las bases especiales de cada contrato el Serviu determinará las áreas y especialidades que requieren las Instituciones Oficiales de Control Técnico de Calidad de los Materiales y Elementos Industriales para la Construcción, en adelante I.O.C.T., para desempeñarse como laboratorios de control de calidad de los materiales y de los procesos constructivos de las obras a ejecutar. En caso de dudas en los resultados de los ensayes ya practicados, la FTO, podrá requerir a otra I.O.C.T., los estudios o ensayes que estime necesarios, los que serán de cuenta y cargo del contratista hasta el medio por ciento del valor total de la oferta. Excedido dicho monto, los ensayes serán de cargo del Serviu, a menos que se determine que las obras han sido mal ejecutadas o que los materiales y elementos industriales no cumplen los requisitos establecidos en el contrato, en cuyo caso serán de cargo del contratista.
 
 #### Artículo 85
 
-Las interrupciones que puedan experimentar las obras como consecuencia del rechazo por la I.T.O., de materiales que no cumplan las condiciones del contrato, no darán derecho a prórroga del plazo.
+Las interrupciones que puedan experimentar las obras como consecuencia del rechazo por la FTO, de materiales que no cumplan las condiciones del contrato, no darán derecho a prórroga del plazo.
 
-Sólo el Director del Serviu podrá conceder prórroga del plazo por la necesidad de reconstruir obras defectuosas, cuando éstas, habiendo sido aceptadas por la I.T.O., no pudieren atribuirse a mala fe, a falta de atención o a ignorancia de las reglas de la técnica y del arte por parte del contratista.
+Sólo el Director del Serviu podrá conceder prórroga del plazo por la necesidad de reconstruir obras defectuosas, cuando éstas, habiendo sido aceptadas por la FTO, no pudieren atribuirse a mala fe, a falta de atención o a ignorancia de las reglas de la técnica y del arte por parte del contratista.
 
 #### Artículo 86
 
@@ -806,7 +806,7 @@ El Serviu podrá ordenar la paralización de las obras sin que el contratista te
 
 #### Artículo 92
 
-El contratista estará obligado a ejecutar, por su cuenta y bajo su exclusiva responsabilidad, el replanteo general de la obra, así como los replanteos parciales que se efectúen en el curso de ella, siendo de su cuenta los gastos que éstos originen. La I.T.O., deberá visar dichos replanteos mediante metodología establecida en el Manual, dejando constancia en el Libro de Inspección.
+El contratista estará obligado a ejecutar, por su cuenta y bajo su exclusiva responsabilidad, el replanteo general de la obra, así como los replanteos parciales que se efectúen en el curso de ella, siendo de su cuenta los gastos que éstos originen. La FTO, deberá visar dichos replanteos mediante metodología establecida en el Manual, dejando constancia en el Libro de Inspección.
 
 Si la falta de entrega del terreno o de los planos no fuese imputable al contratista y le ocasionare atrasos en relación con el programa de trabajo aprobado, se aumentará el plazo del contrato en proporción al atraso que se produzca por el motivo indicado, con derecho a reajuste y pago de mayores gastos generales en la forma indicada en el artículo 90 de este reglamento.
 
@@ -828,7 +828,7 @@ El contratista estará obligado a proporcionar a los trabajadores que laboren en
 
 Si el contratista no diere oportuno cumplimiento al pago de las remuneraciones o de las imposiciones previsionales del personal ocupado en las faenas, incluido el personal de las empresas subcontratistas, el Serviu estará facultado para pagar a quien corresponda, ante un Inspector del Trabajo o un Ministro de Fe, las cantidades adeudadas imputándolas a cualquier pago pendiente.
 
-Los pagos aludidos se efectuarán administrativamente, sobre la base de los libros del contratista y de las listas de trabajadores entregadas por éste a la I.T.O., y previo informe favorable de la Inspección del Trabajo.
+Los pagos aludidos se efectuarán administrativamente, sobre la base de los libros del contratista y de las listas de trabajadores entregadas por éste a la FTO, y previo informe favorable de la Inspección del Trabajo.
 
 Igual medida se podrá adoptar en los casos de liquidación o terminación anticipada del contrato, si el contratista no hubiese dado cumplimiento a lo dispuesto en el inciso anterior.
 
@@ -854,7 +854,7 @@ A menos que en las bases administrativas especiales del contrato se estipule otr
 
 El Serviu no tendrá obligación de proporcionar sino los materiales a que expresamente se obligue de acuerdo con las bases especiales o el contrato, en la forma y oportunidad que estos documentos determinen.
 
-Asimismo, el Serviu podrá autorizar al contratista para adquirir los materiales a que se refiere el inciso anterior, previas tres cotizaciones a lo menos visadas por la I.T.O., reembolsando su valor al contratista.
+Asimismo, el Serviu podrá autorizar al contratista para adquirir los materiales a que se refiere el inciso anterior, previas tres cotizaciones a lo menos visadas por la FTO, reembolsando su valor al contratista.
 
 #### Artículo 100
 
@@ -890,6 +890,8 @@ Cuando el aumento de obras, en cada partida, sea superior al veinte por ciento d
 
 Cualquier proposición de aumento de plazo consecuencia de cambios en las obras contratadas, sea por sector o por el total de la obra, obligará al contratista a presentar una reprogramación financiera a la I.T.O., para su aceptación, en un plazo máximo de siete días hábiles, contados desde la fecha de la total tramitación de la resolución que aprueba el aumento o disminución de obras.
 
+Para el caso de los aumentos de obra, se deberá complementar proporcionalmente la garantía establecida en el artículo 50 de este reglamento. En el evento de no dar cumplimiento, se aplicará la multa diaria de 2 UF que establece el artículo 94.
+
 #### Artículo 104
 
 El Director del Serviu podrá contratar obras extraordinarias en un determinado contrato, de acuerdo a la pauta siguiente:
@@ -910,7 +912,7 @@ La constitución de servidumbres, concesiones o la celebración de contratos des
 
 #### Artículo 106
 
-El contratista deberá colocar letreros de identificación de la obra, señalando su razón social y el nombre del Serviu, de dimensiones y formato acordes a las normas establecidas por el Serviu. En las bases administrativas especiales se fijará el número de letreros, correspondiendo a la I.T.O., indicar el lugar de su ubicación y leyenda, siendo de cargo del contratista los costos de fabricación, colocación y mantención.
+El contratista deberá colocar letreros de identificación de la obra, señalando su razón social y el nombre del Serviu, de dimensiones y formato acordes a las normas establecidas por el Serviu. En las bases administrativas especiales se fijará el número de letreros, correspondiendo a la FTO, indicar el lugar de su ubicación y leyenda, siendo de cargo del contratista los costos de fabricación, colocación y mantención.
 
 #### Artículo 107
 
@@ -920,7 +922,7 @@ En las bases administrativas especiales se indicarán las condiciones para el tr
 
 #### Artículo 108
 
-El contratista deberá cumplir estrictamente con la solución de desvíos de tránsito que fije el proyecto de ingeniería entregado o aprobado por el Serviu, documento que sólo podrá modificarse previa autorización de la I.T.O., siempre que ello signifique una disminución de la congestión durante la construcción de las obras.
+El contratista deberá cumplir estrictamente con la solución de desvíos de tránsito que fije el proyecto de ingeniería entregado o aprobado por el Serviu, documento que sólo podrá modificarse previa autorización de la FTO, siempre que ello signifique una disminución de la congestión durante la construcción de las obras.
 
 #### Artículo 109
 
@@ -931,6 +933,8 @@ Si el proyecto que se contrata afecta el tránsito local, el contratista deberá
 Al término de las obras, el contratista deberá despejar y retirar del sitio de las obras todos los materiales excedentes, obras provisorias, escombros y basuras de cualquier especie.
 
 Durante la ejecución de las obras el contratista deberá mantener las vías de acceso limpias de todo material proveniente de la obra.
+
+Para el caso de las obras extraordinarias, se deberá complementar proporcionalmente la garantía establecida en el artículo 50 de este reglamento. En el evento de no dar cumplimiento, se aplicará la multa diaria de 2 UF que establece el artículo 94.
 
 #### Artículo 111
 
@@ -954,7 +958,7 @@ De los Estados de Pago
 
 #### Artículo 114
 
-El precio de las obras se cobrará y pagará mediante estados de pago que deberá formular el Director de la Obra, basándose en cada partida o grupo de partidas aprobados por la I.T.O., de conformidad al procedimiento establecido en el Manual.
+El precio de las obras se cobrará y pagará mediante estados de pago que deberá formular el Director de la Obra, basándose en cada partida o grupo de partidas aprobados por la FTO, de conformidad al procedimiento establecido en el Manual.
 
 A excepción del estado de pago final o cuando así lo resuelva en casos calificados por la autoridad, los estados de pago por obra ordinaria no podrán presentarse con una frecuencia menor a 14 días y su monto será el que resulte de evaluar la obra ejecutada en el periodo, sobre la base del presupuesto compensado y al valor de la U.F., a la fecha de pago. Si el monto del estado de pago supera el valor establecido en la programación financiera, el Serviu estará obligado a pagar, a lo menos, este último valor. Si el Serviu no pudiere pagar el valor total del estado de pago, el contratista tendrá derecho a que la diferencia no pagada se calcule al valor de la U.F., a la fecha de su entero.
 
@@ -966,7 +970,7 @@ Los estados de pago por obras extraordinarias, aumentos de obras y valores pro f
 
 #### Artículo 115
 
-Los estados de pago en contratos a suma alzada o a serie de precios unitarios serán formulados por la I.T.O., cuando se hayan ejecutado físicamente obras del presupuesto compensado. Los estados de pago deberán llevar las firmas del Director de la Obra, del contratista o del representante de éste y de la autoridad que corresponda del Serviu.
+Los estados de pago en contratos a suma alzada o a serie de precios unitarios serán formulados por la FTO, cuando se hayan ejecutado físicamente obras del presupuesto compensado. Los estados de pago deberán llevar las firmas del Director de la Obra, del contratista o del representante de éste y de la autoridad que corresponda del Serviu.
 
 El estado de pago será fechado el día que ingrese al Serviu, en la oficina que éste determine, firmado por el Director de la Obra y el contratista. Si el contratista no lo firmare por tener observaciones, de todas maneras se cursará el estado de pago, sin su firma.
 
@@ -1048,11 +1052,11 @@ Del Término de las Obras
 
 #### Artículo 123
 
-El contratista, una vez terminados los trabajos, solicitará por escrito al Serviu, a través de la I.T.O., la recepción de las obras. En un plazo no superior a dos días hábiles, contados desde la fecha de dicha solicitud, la I.T.O., deberá verificar el término de las obras y el fiel cumplimiento de los planos y especificaciones del contrato. El Director de la Obra, dentro del mismo plazo, comunicará por oficio su conformidad a la autoridad que corresponda, precisando la fecha en que el contratista puso término a las obras.
+El contratista, una vez terminados los trabajos, solicitará por escrito al Serviu, a través de la FTO, la recepción de las obras. En un plazo no superior a dos días hábiles, contados desde la fecha de dicha solicitud, la FTO, deberá verificar el término de las obras y el fiel cumplimiento de los planos y especificaciones del contrato. El Director de la Obra, dentro del mismo plazo, comunicará por oficio su conformidad a la autoridad que corresponda, precisando la fecha en que el contratista puso término a las obras.
 
-Si a juicio de la I.T.O., los trabajos no estuvieren terminados, dentro del mismo plazo el Director de la Obra elevará su informe negativo a dicha autoridad.
+Si a juicio de la FTO, los trabajos no estuvieren terminados, dentro del mismo plazo el Director de la Obra elevará su informe negativo a dicha autoridad.
 
-La recepción de las obras se efectuará por una comisión compuesta por al menos tres profesionales del área de la construcción, a lo menos, designados para este efecto por la autoridad que corresponda, en un plazo no superior a dos días hábiles, contados desde la fecha del informe de la I.T.O., para pronunciarse. El acto administrativo correspondiente, indicará quien presidirá la comisión.
+La recepción de las obras se efectuará por una comisión compuesta por al menos tres profesionales del área de la construcción, a lo menos, designados para este efecto por la autoridad que corresponda, en un plazo no superior a dos días hábiles, contados desde la fecha del informe de la FTO, para pronunciarse. El acto administrativo correspondiente, indicará quien presidirá la comisión.
 
 La comisión deberá constituirse en las obras en un plazo no superior a cinco días hábiles, contados desde la fecha de su designación, debiendo asistir, por lo menos, dos de los miembros designados y el Director de la Obra.
 
@@ -1072,7 +1076,7 @@ Si el contratista no hiciere las reparaciones y/o cambios que se le ordenaren, d
 
 Una vez subsanados los reparos formulados por la comisión, ésta deberá proceder a efectuar la recepción de acuerdo con lo establecido en el artículo anterior, fijándose como fecha de término de las obras la fecha originalmente indicada por el Director de la Obra, a la cual se agregarán los días sobre el plazo contractual, que el contratista empleó en ejecutar las reparaciones y/o cambios, estableciéndose una nueva fecha de término, la que deberá ser certificada por el Director de la Obra. En este caso se aplicará lo dispuesto en el artículo 86 del presente reglamento.
 
-En ningún caso podrá el contratista excusar su responsabilidad por los trabajos defectuosos o negarse a reconstruirlos bajo pretexto de haber sido aceptados por la I.T.O.
+En ningún caso podrá el contratista excusar su responsabilidad por los trabajos defectuosos o negarse a reconstruirlos bajo pretexto de haber sido aceptados por la FTO.
 
 #### Artículo 125
 
@@ -1082,11 +1086,13 @@ Si el contratista se negare a efectuar las reparaciones ordenadas por la Comisi�
 
 #### Artículo 126
 
-Una vez recibidas las obras, el contratista deberá entregar una boleta bancaria de garantía, extendida a nombre de quien se indique en las bases administrativas especiales, por un valor equivalente al tres por ciento del monto total del contrato, expresada en U.F., para caucionar el buen comportamiento de las obras y su buena ejecución, tras lo cual, el Serviu procederá a devolver al contratista la boleta de garantía a que se refiere el artículo 50 de este reglamento.
+Una vez recibidas las obras por parte de la comisión, el contratista deberá entregar una boleta bancaria de garantía, extendida a nombre de quien se indique en las bases administrativas especiales, por un valor equivalente al tres por ciento del monto total del contrato, expresada en UF, para caucionar el buen comportamiento de las obras y su buena ejecución, tras lo cual, el Serviu procederá a devolver al contratista las boletas de garantía a que se refieren los artículos 50 y 52 de este reglamento.
 
-La boleta de garantía que responde por el buen comportamiento de las obras tendrá una vigencia de a lo menos dos años, salvo que en las bases administrativas especiales se fije un plazo diferente, no pudiendo ser éste inferior a un año, contado desde la fecha fijada como término de la obra.
+La boleta de garantía que responde por el buen comportamiento de las obras tendrá una vigencia de a lo menos dos años, salvo que en las bases administrativas especiales se fije un plazo diferente, no pudiendo ser éste inferior a un año, contado desde la fecha del acta de recepción de las obras.
 
-El plazo de garantía establecido en el inciso precedente que se contará desde la fecha de recepción de las obras, debe entenderse sin perjuicio del plazo de garantía legal de cinco años establecido en el artículo 2003, regla tercera, del Código Civil.
+El plazo de garantía establecido en el inciso precedente que se contará desde la fecha de recepción de las obras, debe entenderse sin perjuicio del plazo de garantía legal de cinco años establecido en el artículo 2003, regla tercera, del Código Civil y lo dispuesto en la Ley General de Urbanismo y Construcciones.
+
+El Director del Serviu, en las respectivas Bases Administrativas, podrá establecer como garantía para caucionar el buen comportamiento de las obras y su buena ejecución algún otro instrumento legal, siempre que estime que entrega un efectivo resguardo de su cumplimiento.
 
 #### Artículo 127
 
@@ -1152,7 +1158,7 @@ d) Si por causa imputable al contratista el avance de las obras no alcanzare el 
 
 e) Por incumplimiento reiterado de las condiciones técnicas de ejecución del proyecto.
 
-f) Si el contratista no acatare las órdenes e instrucciones que le imparta la I.T.O., o las autoridades del Serviu directamente, conforme a lo dispuesto en este reglamento.
+f) Si el contratista no acatare las órdenes e instrucciones que le imparta la FTO, o las autoridades del Serviu directamente, conforme a lo dispuesto en este reglamento.
 
 g) Por incumplimiento del estándar de las obras requerido por el contrato, de acuerdo a los procedimientos establecidos en el Manual.
 
@@ -1288,13 +1294,47 @@ Las licitaciones y contratos de proyectos de pavimentación y obras viales se re
 
 4. Manual de Normas Técnicas para la Señalización, Control y Regulación del Tránsito en vías donde se realicen trabajos, aprobado resolución exenta Nº 1.826, del Ministerio de Obras Públicas, de 1983.
 
-5. Manual de Vialidad Urbana. Volumen 3. Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana, Publicación Nº 197 del Ministerio de Vivienda y Urbanismo, de 1984, aprobado por D.S. Nº 12 (V. y U.), de 1984.
+5. Manual de Vialidad Urbana. Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana, Publicación del Ministerio de Vivienda y Urbanismo, aprobado por decreto exento Nº 827 (V. y U.), de 2008, o el que lo reemplace.
 
-6. Código de Normas y Especificaciones Técnicas de Obras de Pavimentación, Publicación Nº 291, del Ministerio de Vivienda y Urbanismo, de 1984.
+6. Código de Normas y Especificaciones Técnicas de Obras de Pavimentación, Publicación Nº 332, aprobado por resolución exenta Nº 3.008 del Ministerio de Vivienda y Urbanismo, de 2016, o el que lo reemplace.
 
 7. Manual de Carreteras de la Dirección de Vialidad del Ministerio de Obras Públicas.
 
 8. Especificaciones y Métodos de Muestreo y Ensayes de la Dirección de Vialidad del Ministerio de Obras Públicas.
+
+## Título IX
+
+DE LAS OBRAS DE MENOR CUANTÍA:
+
+#### Artículo 145
+
+Para los fines de la aplicación del presente Título, se entenderán como obras de menor cuantía aquellas cuyo valor no exceda de 8.000 U.F.
+
+#### Artículo 146
+
+En este tipo de obras podrá omitirse la exigencia del artículo 31, número 1.3., letras b), c) y d), relativas a la planificación general de la obra.
+
+#### Artículo 147
+
+Los plazos a que se refieren los artículos 26, 34, 45, 79 y 115, podrán ser reducidos hasta la mitad en las Bases Administrativas Especiales.
+
+Por su parte, el contratista tendrá un plazo de tres días para formular observaciones al acta de la Comisión a que se refiere el artículo 123.
+
+#### Artículo 148
+
+En el caso de aumentos de estas obras, se procederá de acuerdo a la siguiente pauta:
+
+1.- Hasta por un diez por ciento del monto original del contrato, expresado en UF, con el solo mérito de los antecedentes del caso, previa autorización por escrito del Director Serviu.
+
+2.- Sobre un diez y hasta un treinta y cinco por ciento del monto original del contrato expresado en UF, previa autorización por escrito del Secretario Regional Ministerial del Minvu.
+
+#### Artículo 149
+
+En el caso de obras extraordinarias se procederá de acuerdo a la siguiente pauta:
+
+1.- Hasta por un cinco por ciento del monto original del contrato expresado en UF, con el solo mérito de los antecedentes del caso, previa autorización por escrito del Director Serviu.
+
+2.- Sobre un cinco y hasta un quince por ciento del monto original del contrato expresado en UF, previa autorización por escrito del Secretario Regional Ministerial del Minvu.
 
 Segundo.- Derógase las resoluciones Nº 1.380, de 1973 y Nº 778, de 1974, de la ex Corporación de la Vivienda. Derógase los D.S. Nº 331 (V. y U.), de 1975;
 
