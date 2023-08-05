@@ -4,7 +4,7 @@ Núm. 7.773 exenta.- Santiago, 29 de noviembre de 2021.
 
 Vistos:
 
-Lo dispuesto en la Ley Nº 18.755, ley que establece organización y atribuciones del Servicio Agrícola y Ganadero; la ley Nº 18.164, que introduce modificaciones a la legislación aduanera; DFL RRA Nº 16, de 1963, que establece disposiciones sobre sanidad y protección animal; ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; el decreto Nº 112, de 2018, del Ministerio de Agricultura, que designa Director Nacional del SAG; el decreto Nº 16, del Ministerio de Relaciones Exteriores, que aprueba Acuerdo OMC y Acuerdo SPS; las resoluciones exentas de este origen Nº 3.138, de 1999, que establece requisito de habilitación para establecimientos de producción pecuaria que deseen exportar animales o sus productos a Chile y sus modificaciones y la Nº 3.081, de 2006, que exime de presentación de monografías de procesos a productos con ingredientes de origen animal que se indica y la resolución Nº 7, de 2019, de la Contraloría General de la República, que establece los actos administrativos sometidos al trámite de Toma de Razón.
+Lo dispuesto en la Ley Nº 18.755, ley que establece organización y atribuciones del Servicio Agrícola y Ganadero; la ley Nº 18.164, que introduce modificaciones a la legislación aduanera; DFL RRA Nº 16, de 1963, que establece disposiciones sobre sanidad y protección animal; ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; ley N° 20.962 de 2016, del Ministerio de Agricultura, que aplica la Convención sobre el Comercio Internacional de Especies Amenazadas de Flora y Fauna Silvestres (CITES); el decreto Nº 112, de 2018, del Ministerio de Agricultura, que designa Director Nacional del SAG; el decreto Nº 16, del Ministerio de Relaciones Exteriores, que aprueba Acuerdo OMC y Acuerdo SPS; las resoluciones exentas de este origen Nº 3.138, de 1999, que establece requisito de habilitación para establecimientos de producción pecuaria que deseen exportar animales o sus productos a Chile y sus modificaciones y la Nº 3.081, de 2006, que exime de presentación de monografías de procesos a productos con ingredientes de origen animal que se indica y la resolución Nº 7, de 2019, de la Contraloría General de la República, que establece los actos administrativos sometidos al trámite de Toma de Razón.
 
 Considerando:
 
@@ -46,14 +46,22 @@ l. Sangre, suero o plasma animal para utilización in vitro,
 
 m. Tendones y cartílagos,
 
-n. Grasas animales, como tocino, cuero comestible de cerdo y grasa bovino en rama entre otros,
+n. Sebo o grasa de bovinos, porcinos, ovinos, caprinos y aves; a excepción de los sebos o las grasas destinados a la alimentación animal.
 
 o. Trofeos o animales taxidermizados.
+
+p. Carne de rana, carne de reptil y carne de canguro.
+
+q. Productos cárnicos procesados madurados, productos cárnicos procesados acidificados y productos cárnicos procesados cocidos; elaborados en base a carne de bovinos, ovinos, caprinos, porcinos, aves, o sus mezclas.
+
+r. Colágeno, gelatina, proteínas hidrolizadas y chicharrones.
 
 2. No obstante lo anterior, en casos calificados, el SAG podrá requerir antecedentes adicionales o establecer sistemas de autorización, si los riesgos sanitarios de los productos pecuarios señalados se modificaran.
 
 3. Sin perjuicio de lo señalado en la presente resolución, los productos de origen pecuario afecto a sus disposiciones, deben cumplir la legislación específica sobre productos orgánicos, cuando proceda.
 
-4. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial.
+4. Los productos mencionados en la presente resolución que correspondan a especímenes de especies protegidas por la CITES, deben dar cumplimiento a las regulaciones específicas, cuando corresponda.
+
+5. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial.
 
 Anótese, comuníquese y publíquese.- Domingo Rojas Philippi, Director Nacional (S), Servicio Agrícola y Ganadero.
