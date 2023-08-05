@@ -4714,7 +4714,9 @@ Serán castigados con la pena de reclusión menor en sus grados medio a máximo 
 
 7.° En tumbas, signos conmemorativos, monumentos, estatuas, cuadros u otros objetos de arte colocados en edificios o lugares públicos;
 
-8.° Arruinando al perjudicado.
+8.° Arruinando al perjudicado;
+
+9.° En medios de transporte público de pasajeros o en bienes o infraestructura asociada a dicha actividad.
 
 #### Artículo 486
 

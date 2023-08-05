@@ -2360,7 +2360,7 @@ En caso de producirse las lesiones o muerte descritas en los incisos segundo y t
 
 #### Artículo 198
 
-El que atentare contra un vehículo motorizado en circulación, apedreándolo o arrojándole otros objetos contundentes o inflamables o por cualquier otro medio semejante, será castigado con pena de presidio menor en su grado mínimo.
+El que atentare contra un vehículo motorizado, se encuentre o no en circulación, apedreándolo o arrojándole otros objetos contundentes o inflamables o por cualquier otro medio semejante, será castigado con pena de presidio menor en su grado mínimo.
 
 Si a consecuencias del atentado se causare la muerte o se lesionare a alguna persona, se aplicarán las penas señaladas al delito de que se trate, aumentadas en un grado.
 
