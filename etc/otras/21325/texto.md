@@ -36,7 +36,7 @@ Definiciones. Para efectos de esta ley, se entenderá por:
 
 11. Migrante: Persona que se desplaza o se ha desplazado a través de una frontera internacional, fuera de su lugar habitual de residencia, independientemente de su situación jurídica, el carácter voluntario o involuntario del desplazamiento, las causas del desplazamiento o la duración de su estancia.
 
-12. Ministerio: Ministerio del Interior.
+12. Ministerio: Ministerio del Interior y Seguridad Pública.
 
 13. Permiso de Residencia: Autorización que habilita la residencia legal en Chile y que define el tipo de actividades que se permite realizar a su portador, la que se materializará en un documento o registro.
 
@@ -117,16 +117,6 @@ La Política Nacional de Migración y Extranjería definirá los idiomas adicion
 Se establecerán canales de información accesibles, veraces y descentralizados, entre los que se encontrarán, a lo menos, las plataformas electrónicas del Ministerio del Interior y Seguridad Pública, del Servicio Nacional de Migraciones, del Ministerio de Relaciones Exteriores, y de embajadas y consulados chilenos en el exterior.
 
 El Estado deberá disponer de mecanismos accesibles de reclamo para el extranjero afectado por falta de información íntegra, oportuna y eficaz por parte de la autoridad migratoria.
-
-En su primer contacto con el extranjero que ha ingresado al país, la autoridad contralora deberá apercibirlo a que indique la dirección de su estadía. Si el extranjero no informa la dirección de su estadía deberá indicar una dirección de correo electrónico de conformidad con el artículo 146. Si el extranjero tampoco informa un correo electrónico quedará afecto a lo dispuesto en el numeral 8 del artículo 32.
-
-La notificación del acto administrativo que da inicio al procedimiento podrá practicarse de conformidad con las reglas generales establecidas en el artículo 147. También será válida toda notificación de dicho acto practicada mediante carta certificada dirigida a la dirección de su estadía o mediante comunicación enviada a la dirección de correo electrónico que haya informado el extranjero de conformidad con el inciso anterior, o que se correspondan con la última dirección de su estadía o la última dirección de correo electrónico informada al Servicio.
-
-De esta última circunstancia deberá informar la autoridad contralora al momento de apercibir al extranjero para que comunique la dirección de su estadía o correo electrónico. La autoridad contralora deberá exhibir al extranjero el documento donde constan los antecedentes recolectados y entregarle una copia de éste.
-
-El extranjero deberá mantener actualizada la dirección de su estadía o dirección de correo electrónico, e informar al Servicio sobre cualquier cambio dentro del plazo de treinta días corridos desde que se haya producido.
-
-Las direcciones de su estadía o direcciones de correo electrónico informadas deberán ser incorporadas en el Registro Nacional de Extranjeros. Podrá emitirse un comprobante en caso de ser solicitado por el propio extranjero.
 
 #### Artículo 6
 
@@ -962,7 +952,7 @@ Esta obligación se aplicará sin perjuicio de las sanciones correspondientes de
 
 #### Artículo 100
 
-Listado de pasajeros y tripulantes. Las empresas de transporte internacional y nacional de pasajeros estarán obligadas a presentar, al momento del ingreso o salida del país de sus respectivos medios de transporte o en los trayectos que realicen dentro del país, un listado de pasajeros y tripulantes, y todos los datos necesarios para su identificación. Para estos efectos, deberá utilizarse el listado que el conductor de todo vehículo que ingresa al territorio nacional o sale de él debe presentar de conformidad con lo establecido en el artículo 34 de la Ordenanza de Aduanas.
+Listado de pasajeros y tripulantes. Las empresas de transporte internacional de pasajeros estarán obligadas a presentar, al momento del ingreso o salida del país de sus respectivos medios de transporte, un listado de pasajeros y tripulantes, y todos los datos necesarios para su identificación. Para estos efectos, deberá utilizarse el listado que el conductor de todo vehículo que ingresa al territorio nacional o sale de él debe presentar de conformidad con lo establecido en el artículo 34 de la Ordenanza de Aduanas.
 
 El Servicio Nacional de Aduanas, o la autoridad que primero reciba dicho listado, deberá entregársela a los restantes organismos que ejerzan funciones en los pasos fronterizos, que por ley se encuentren obligados a exigirla.
 
@@ -1192,7 +1182,7 @@ Prohibición de expulsiones colectivas. Los extranjeros y sus familiares no podr
 
 Reconducción o devolución inmediata. El extranjero que ingrese al país mientras se encuentre vigente la resolución que ordenó su expulsión, abandono o prohibición de ingreso al territorio nacional será reembarcado de inmediato o devuelto a su país de origen o de procedencia en el más breve plazo, y sin necesidad que a su respecto se dicte una nueva resolución, válidamente notificada.
 
-Asimismo, el extranjero que sea sorprendido por la autoridad contralora intentando ingresar o habiendo ingresado al territorio nacional eludiendo el control migratorio, ya sea por pasos habilitados o no, o que se haya internado al territorio nacional hasta 10 kilómetros del límite fronterizo terrestre o dentro del mar territorial, o intentando ingresar valiéndose de documentos falsificados, adulterados o expedidos a nombre de otra persona, contraviniendo la prohibición de ingreso del número 3 artículo 32, previa acreditación de su identidad y de su registro, será inmediatamente reembarcado o reconducido a la frontera, según corresponda, debiendo en este último caso informar a la autoridad contralora del país vecino colindante al paso fronterizo por el cual se intentó el ingreso y estableciéndose a su respecto una prohibición de ingreso provisoria de un año.
+Asimismo, el extranjero que sea sorprendido por la autoridad contralora intentando ingresar al territorio nacional eludiendo el control migratorio, ya sea por pasos habilitados o no, o valiéndose de documentos falsificados, adulterados o expedidos a nombre de otra persona, contraviniendo la prohibición de ingreso del número 3 artículo 32, previa acreditación de su identidad, será inmediatamente reembarcado o reconducido a la frontera, según corresponda, debiendo en este último caso informar a la autoridad contralora del país vecino colindante al paso fronterizo por el cual se intentó el ingreso y estableciéndose a su respecto una prohibición de ingreso provisoria de seis meses.
 
 La autoridad contralora informará de ello al Servicio para que éste determine el tiempo que durará la prohibición de ingreso, de conformidad al artículo 136. En caso de que dicha prohibición y su duración no sea dictada por el Servicio dentro de los siguientes seis meses de producido el hecho, la prohibición provisoria señalada en el inciso anterior quedará sin efecto de pleno derecho.
 
@@ -1208,13 +1198,7 @@ Los extranjeros reconducidos o reembarcados conforme a este artículo deberán s
 
 #### Artículo 132
 
-Forma de disponer la medida. Las medidas de expulsión de extranjeros serán impuestas por resolución fundada del Director Nacional del Servicio. El Director Nacional del Servicio, por resolución, podrá designar las regiones del país en las cuales las medidas de expulsión de titulares de permanencia transitoria serán impuestas por los directores regionales respectivos. Sólo en el caso que al afectado por la expulsión no le fuere aplicable lo prescrito en los incisos segundo y tercero del artículo 91, previamente a la dictación de la medida deberá ser notificado personalmente o por carta certificada dirigida al último domicilio registrado en el Servicio o en la Policía de Investigaciones de Chile, salvo que éste hubiere registrado, ante cualquiera de ellas, un correo electrónico para su notificación. Efectuada dicha notificación tendrá un plazo de diez días para presentar sus descargos respecto de la causal de expulsión invocada. En la notificación señalada precedentemente o en los incisos segundo y tercero del artículo 91, se le informará al extranjero que, de aplicarse la medida de expulsión, podrá, conforme a la legislación aplicable, designar un mandatario que lo represente en defensa de sus derechos laborales y o previsionales, así como en el cumplimiento de sus obligaciones pendientes. Sólo en casos debidamente calificados, fundados en razones de seguridad interior o exterior, podrá disponer el Subsecretario del Interior, mediante resolución fundada, la medida de expulsión de extranjeros. El acto administrativo de este último deberá establecer el plazo de prohibición de ingreso al país que corresponda.
-
-Tratándose de la notificación por carta certificada, ésta se entenderá practicada al tercer día desde la fecha de recepción de la carta en la oficina de correos que corresponda y, en el caso de la notificación por correo electrónico, ésta se entenderá efectuada al tercer día desde la fecha de su envío.
-
-#### Artículo 132 bis
-
-En el caso de extranjeros que se encuentren en la causal del numeral 3 del artículo 32, la circunstancia de dar inicio al procedimiento establecido en el artículo anterior, consistente en la emisión del respectivo acto administrativo y su posterior notificación, deberá ser realizada por la Policía de Investigaciones de Chile al momento de efectuarse la respectiva denuncia, sin perjuicio de las facultades del Servicio Nacional de Migraciones.
+Forma de disponer la medida. Las medidas de expulsión de extranjeros serán impuestas por resolución fundada del Director Nacional del Servicio. El Director Nacional del Servicio, por resolución, podrá designar las regiones del país en las cuales las medidas de expulsión de titulares de permanencia transitoria serán impuestas por los directores regionales respectivos. Sólo en el caso que al afectado por la expulsión no le fuere aplicable lo prescrito en los incisos segundo y tercero del artículo 91, previamente a la dictación de la medida deberá ser notificado en conformidad al artículo 147 y tendrá un plazo de diez días para presentar sus descargos respecto de la causal de expulsión invocada. En la notificación señalada precedentemente o en los incisos segundo y tercero del artículo 91, se le informará al extranjero que, de aplicarse la medida de expulsión, podrá, conforme a la legislación aplicable, designar un mandatario que lo represente en defensa de sus derechos laborales y o previsionales, así como en el cumplimiento de sus obligaciones pendientes. Excepcionalmente, sólo en casos debidamente calificados, fundados en razones de seguridad interior o exterior, podrá disponer el Subsecretario del Interior, mediante resolución fundada, la medida de expulsión de extranjeros. El acto administrativo de este último deberá establecer el plazo de prohibición de ingreso al país que corresponda.
 
 #### Artículo 133
 
@@ -1382,8 +1366,6 @@ Notificación de la medida de expulsión. Las medidas de expulsión siempre ser�
 
 La notificación personal se hará mediante entrega de una copia íntegra de la respectiva resolución al afectado, de conformidad al artículo 5 de esta ley. Deberá dejarse registro de este acto por escrito, bajo la firma del afectado y del funcionario que la realiza, indicando la fecha, hora y lugar en que se practicó. En caso de que el afectado se negare a firmar, se dejará constancia de este hecho en el mismo documento de la notificación, debidamente firmado por el funcionario encargado de esta gestión.
 
-En aquellos casos en que no sea posible practicar la notificación por no ser habida la persona en dos días continuos y en horarios distintos, el funcionario procederá a certificar tal circunstancia en el expediente y practicará la notificación por carta certificada o por correo electrónico, cuando corresponda.
-
 #### Artículo 148
 
 Otras formas de notificación. El Servicio podrá establecer otras formas de notificación que fueren convenientes para una mejor comunicación de sus resoluciones, las que en todo caso deberán contar con el consentimiento expreso del extranjero destinatario.
@@ -1472,7 +1454,7 @@ Servicio Nacional de Migraciones
 
 #### Artículo 156
 
-Créase el Servicio Nacional de Migraciones como un servicio público descentralizado, dotado de personalidad jurídica y patrimonio propios, sometido a la supervigilancia del Presidente de la República por intermedio del Ministerio del Interior.
+Créase el Servicio Nacional de Migraciones como un servicio público descentralizado, dotado de personalidad jurídica y patrimonio propios, sometido a la supervigilancia del Presidente de la República por intermedio del Ministerio del Interior y Seguridad Pública.
 
 El Servicio estará sujeto a las normas del Sistema de Alta Dirección Pública establecido en la ley Nº 19.882, que regula la nueva política de personal a los funcionarios públicos que indica.
 
@@ -1621,8 +1603,6 @@ Autoridad contralora. Corresponderá a la Policía en el ejercicio de su funció
 3. Denunciar ante el Servicio las infracciones de esta ley de que tome conocimiento, sin perjuicio de adoptar las demás medidas que sean de su competencia de acuerdo a la ley.
 
 4. Ejecutar las medidas de expulsión dictadas por las autoridades señaladas en el artículo 126.
-
-5. Requerir a las personas extranjeras, al momento del control, detención o autodenuncia, un correo electrónico de contacto o la creación de uno, en ese momento, para efectos de ser notificados de los procedimientos de expulsión que se inicien en su contra y de las resoluciones, actos o medidas que en él se dicten.
 
 Respecto a la función establecida en el primer numeral, en aquellos pasos habilitados en que no haya unidades de la Policía, Carabineros de Chile cumplirá dichas funciones. Sin embargo, en los puertos de mar en que no existan dichas unidades, ellas serán cumplidas por la Autoridad Marítima a que se refiere el artículo 2, letra c), del decreto ley Nº 2.222, de 1978.
 
