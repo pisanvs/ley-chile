@@ -22,7 +22,9 @@ Considerando:
 
 Resuelvo:
 
-1° Establézcanse como pistas de uso exclusivo para los vehículos Taxi Colectivo del Transporte Público Menor, para bicicletas el uso de una ciclovía y para vehículos inscritos como transporte escolar de hasta un peso vehicular bruto de 3.860 kilos, en los tramos y espacios de la calzada de la comuna de La Serena, que se indican en el siguiente cuadro:
+1° Establézcanse como pistas de uso exclusivo para los vehículos Taxi Colectivo del Transporte Público Menor, para bicicletas el uso de una Ciclovía, para vehículos inscritos como transporte escolar de hasta un peso vehicular bruto de 3.860 kilos, y para taxis básicos en cualquiera de sus modalidades o submodalidades, en los tramos y espacios de la calzada de la comuna de La Serena, que se indican en el siguiente cuadro:
+
+.
 
 2.- Se dará inicio al funcionamiento de las vías exclusivas, una vez terminada la instalación de la señalización de tránsito.
 
