@@ -82,9 +82,9 @@ n. Informe de Proyecto Postulación Vehículos Eléctricos (IPVE): Informe que d
 
 Podrán ingresar al Programa Especial, como vehículos salientes, aquellos buses, minibuses, trolebuses y taxibuses que cumplan los siguientes requisitos copulativos:
 
-a. Encontrarse operativos para el transporte público remunerado de pasajeros durante los últimos tres años contados desde la fecha de publicación de la ley N° 20.378, es decir, entre el 5 de septiembre del año 2006 y el 5 de septiembre del año 2009, ambas fechas inclusive.
+a. Encontrarse operativos para el transporte público remunerado de pasajeros en alguna oportunidad entre el día 5 de septiembre de 2006 y 5 de septiembre de 2012.
 
-b. Contar con inscripción vigente a nombre del postulante en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, al momento de la postulación.
+b. Contar con inscripción vigente a nombre del postulante, o de los integrantes de la Unión Temporal de Postulantes, en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, al momento de la postulación.
 
 c. Contar o haber contado con inscripción vigente el o los vehículos, propiedad del postulante, o de los integrantes que conformen una Unión Temporal de Postulantes, en el Registro, en una oportunidad al menos, dentro de los últimos 18 meses contados desde la fecha de postulación. Lo anterior es sin perjuicio del cumplimiento de los plazos y requisitos que en materia de reemplazo contempla el decreto supremo Nº 1, de 1994, del Ministerio de Transportes y Telecomunicaciones. Dicha inscripción podrá corresponder a servicios urbanos y rurales de las zonas geográficas en que no opera el Sistema de Transporte Público de la Provincia de Santiago y las comunas de Puente Alto y San Bernardo.
 
@@ -358,19 +358,15 @@ Para postulaciones con vehículos entrantes eléctricos, realizada por una Unió
 
 #### Artículo 15
 
-El vehículo entrante, se encontrará sujeto a las siguientes restricciones:
+El vehículo entrante o los vehículos entrantes eléctricos se encontrarán sujetos a las siguientes restricciones:
 
 a) No podrán participar nuevamente del Programa Especial, sino sólo como vehículos salientes, en los casos que corresponda.
 
-b) No podrán cambiar de tipo de servicio ni de región, por un período de, a lo menos, 36 meses contados desde la fecha de inicio de la segunda etapa de postulación, conforme lo establezcan los respectivos Gobiernos Regionales al inicio de la convocatoria, mientras la propiedad del vehículo entrante corresponda al postulante.
+b) No podrán cambiar de tipo de servicio ni de región, por un período de, a lo menos, 36 meses contados desde la fecha de inicio de la segunda etapa de postulación, conforme lo establezcan los respectivos Gobiernos Regionales al inicio de la convocatoria, mientras la propiedad del vehículo entrante o de los vehículos entrantes eléctricos correspondan al postulante.
 
-c) No podrán realizar en los días hábiles del período señalado en la letra precedente, servicios especiales regulados en el decreto supremo Nº 237, de 1992, del Ministerio de Transportes y Telecomunicaciones. Para estos efectos, se entenderá por tipo de servicio a las categorías establecidas en el Reglamento aprobado por el decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, o el que lo reemplace.
+c) No podrán realizar en los días hábiles servicios especiales regulados en el decreto supremo Nº 88, de 2021, del Ministerio de Transportes y Telecomunicaciones. Para estos efectos, se entenderá por tipo de servicio a las categorías establecidas en el Reglamento aprobado por el decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, o el que lo reemplace. En el caso de incumplimiento, el beneficiario deberá restituir, en cada caso, un 2% de la suma percibida, reajustada de conformidad a la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o la entidad que lo reemplace, entre el mes anterior a aquél en que se percibió y el que antecede a su restitución. La devolución deberá materializarse dentro de un plazo de sesenta días hábiles contado desde que haya quedado establecido el precitado incumplimiento por la Subsecretaría de Transportes.
 
-c) Deberán mantenerse prestando servicios de transporte público de pasajeros por, al menos, 48 meses contados desde el otorgamiento del beneficio. El incumplimiento de esta exigencia, salvo en los supuestos de fuerza mayor o caso fortuito, obligará al beneficiario a restituir la suma percibida, reajustada de conformidad a la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o la entidad que lo reemplace, entre el mes anterior a aquél en que se percibió y el que antecede a su restitución. La devolución deberá materializarse dentro de un plazo de sesenta días hábiles contado desde que haya quedado establecido el precitado incumplimiento por la Subsecretaría de Transportes.
-
-> **Nota.** La letra u) del artículo único del Decreto 210, Transportes, publicado el 17.06.2015 dispone incorporar en el presente artículo 15 un literal d), sin embargo, en su texto lo individualiza como literal c), razón por la cual se ingresa en este artículo a continuación del actual literal c).
-
-> **Nota.** NOTA 1 El número 10.1 del numeral 10 del Decreto 86, Transportes, publicado el 03.07.2021, modifica la presente norma en el sentido de agregar en el presente artículo 15°, a continuación de las palabras "vehículos entrantes", la siguiente frase: "o los vehículos entrantes eléctricos". Sin embargo, dicha modificación no se puede incorporar en el presente texto actualizado en razón de que no coinciden los textos.
+d) Deberán mantenerse prestando servicios de transporte público de pasajeros por, al menos, 48 meses contados desde el otorgamiento del beneficio. El incumplimiento de esta exigencia, salvo en los supuestos de fuerza mayor o caso fortuito, obligará al beneficiario a restituir la suma percibida, reajustada de conformidad a la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o la entidad que lo reemplace, entre el mes anterior a aquél en que se percibió y el que antecede a su restitución. La devolución deberá materializarse dentro de un plazo de sesenta días hábiles contado desde que haya quedado establecido el precitado incumplimiento por la Subsecretaría de Transportes.
 
 ## Título Quinto
 
