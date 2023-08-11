@@ -18,9 +18,9 @@ DISPOSICIONES GENERALES
 
 Definiciones. Para efectos de esta ley, se entenderá, en singular o plural, por:
 
-1) Acuerdo de Reorganización Judicial: Aquel que se suscribe entre una Empresa Deudora y sus acreedores con el fin de reestructurar sus activos y pasivos, con sujeción al procedimiento establecido en los Títulos 1 y 2 del Capítulo III. Para los efectos de esta ley, se denominará indistintamente "Acuerdo de Reorganización Judicial" o "Acuerdo".
+1) Acuerdo de Reorganización Judicial: Aquel que se suscribe entre una Empresa Deudora y sus acreedores con el fin de reestructurar sus activos y pasivos, con sujeción a los procedimientos establecidos en los Títulos 1 y 2 del Capítulo III, y en el Título 3 del Capítulo V. Para los efectos de esta ley, se denominará indistintamente "Acuerdo de Reorganización Judicial" o "Acuerdo".
 
-2) Acuerdo de Reorganización Extrajudicial o Simplificado: aquel que se suscribe entre una Empresa Deudora y sus acreedores con el fin de reestructurar sus activos y pasivos, y que se somete a aprobación judicial con sujeción al procedimiento establecido en el Título 3 del Capítulo III. Para los efectos de esta ley, se denominará indistintamente "Acuerdo de Reorganización Extrajudicial o Simplificado" o "Acuerdo Simplificado".
+2) Acuerdo de Reorganización Extrajudicial: aquel que se suscribe entre una Empresa Deudora y sus acreedores con el fin de reestructurar sus activos y pasivos, y que se somete a aprobación judicial con sujeción al procedimiento establecido en el Título 3 del Capítulo III. Para los efectos de esta ley, se denominará indistintamente Acuerdo de Reorganización Extrajudicial o Acuerdo Extrajudicial.
 
 3) Avalúo Fiscal: El precio de los inmuebles fijado por el Servicio de Impuestos Internos para los efectos del pago del impuesto territorial.
 
@@ -42,7 +42,7 @@ Definiciones. Para efectos de esta ley, se entenderá, en singular o plural, por
 
 12) Deudor: Toda Empresa Deudora o Persona Deudora, atendido el Procedimiento Concursal de que se trate y la naturaleza de la disposición a que se refiera.
 
-13) Empresa Deudora: Toda persona jurídica privada, con o sin fines de lucro, y toda persona natural contribuyente de primera categoría o del número 2) del artículo 42 del decreto ley Nº 824, del Ministerio de Hacienda, de 1974, que aprueba la ley sobre impuesto a la renta.
+13) Empresa Deudora: toda persona jurídica de derecho privado, con o sin fines de lucro, y toda persona natural que, dentro de los veinticuatro meses anteriores al inicio del Procedimiento Concursal correspondiente, haya sido contribuyente de primera categoría.
 
 14) Informe del Veedor: Aquel relativo al Acuerdo de Reorganización Judicial, regulado en el número 8) del artículo 57 de esta ley.
 
@@ -50,9 +50,9 @@ Definiciones. Para efectos de esta ley, se entenderá, en singular o plural, por
 
 16) Ley: ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
-17) Liquidación Forzosa: Demanda presentada por cualquier acreedor del Deudor, conforme al Párrafo 2 del Título 1 del Capítulo IV de esta ley.
+17) Liquidación Forzosa: Demanda presentada por cualquier acreedor del Deudor, conforme al Párrafo 2 del Título 1 del Capítulo IV, o al Párrafo 2 del Título 2 del Capítulo V de esta ley.
 
-18) Liquidación Voluntaria: Aquella solicitada por el Deudor, conforme al Párrafo 1 del Título 1 del Capítulo IV de esta ley.
+18) Liquidación Voluntaria: Aquella solicitada por el Deudor, conforme al Párrafo 1 del Título 1 del Capítulo IV, o al Párrafo 1 del Título 2 del Capítulo V de esta ley.
 
 19) Liquidador: Aquella persona natural sujeta a la fiscalización de la Superintendencia de Insolvencia y Reemprendimiento, cuya misión principal es realizar el activo del Deudor y propender al pago de los créditos de sus acreedores, de acuerdo a lo establecido en esta ley.
 
@@ -74,15 +74,21 @@ a) El cónyuge, los ascendientes, descendientes y colaterales por consanguinidad
 
 b) Las personas que se encuentren en alguna de las situaciones a que se refiere el artículo 100 de la ley Nº 18.045, de Mercado de Valores.
 
-27) Procedimiento Concursal: cualquiera de los regulados en esta ley, denominados, indistintamente, Procedimiento Concursal de Reorganización de la Empresa Deudora, Procedimiento Concursal de Liquidación de la Empresa Deudora, Procedimiento Concursal de Renegociación de la Persona Deudora y Procedimiento Concursal de Liquidación de los Bienes de la Persona Deudora.
+27) Procedimiento Concursal: cualquiera de los regulados en esta ley, denominados, indistintamente, Procedimiento Concursal de Reorganización de la Empresa Deudora, Procedimiento Concursal de Liquidación de la Empresa Deudora, Procedimiento Concursal de Renegociación de la Persona Deudora, Procedimiento Concursal de Liquidación Simplificada y Procedimiento Concursal de Reorganización Simplificada.
+
+27 A) Procedimientos Concursales Especiales: Aquellos regulados en el Capítulo V, sin perjuicio de otros procedimientos concursales especiales establecidos en otras leyes.
 
 28) Procedimiento Concursal de Liquidación: Aquél regulado en el Capítulo IV de esta ley.
 
+28 A) Procedimiento Concursal de Liquidación Simplificada: aquel regulado en el Título 2 del Capítulo V.
+
 29) Procedimiento Concursal de Reorganización: Aquél regulado en el Capítulo III de esta ley.
+
+29 A) Procedimiento Concursal de Reorganización Simplificada: aquel regulado en el Título 3 del Capítulo V.
 
 30) Procedimiento Concursal de Renegociación: Aquél regulado en el Capítulo V de esta ley.
 
-31) Protección Financiera Concursal: Aquel período que esta ley otorga al Deudor que se somete al Procedimiento Concursal de Reorganización, durante el cual no podrá solicitarse ni declararse su liquidación, ni podrán iniciarse en su contra juicios ejecutivos, ejecuciones de cualquier clase o restituciones en los juicios de arrendamiento. Dicho período será el comprendido entre la notificación de la Resolución de Reorganización y el Acuerdo de Reorganización Judicial, o el plazo fijado por la ley si este último no se acuerda.
+31) Protección Financiera Concursal: Aquel período que esta ley otorga al Deudor que se somete al Procedimiento Concursal de Reorganización o al Procedimiento Concursal de Reorganización Simplificada, durante el cual no podrá solicitarse ni declararse su liquidación, ni podrán iniciarse en su contra juicios ejecutivos, ejecuciones de cualquier clase o restituciones en los juicios de arrendamiento. Dicho período será el comprendido entre la notificación de la Resolución de Reorganización y el Acuerdo de Reorganización Judicial, o el plazo fijado por la ley si este último no se acuerda.
 
 32) Quórum Especial: El conformado por dos tercios del pasivo total con derecho a voto verificado y/o reconocido, según corresponda, en el Procedimiento Concursal respectivo.
 
@@ -94,7 +100,7 @@ b) Las personas que se encuentren en alguna de las situaciones a que se refiere 
 
 36) Resolución de Liquidación: Aquella resolución judicial dictada en un Procedimiento Concursal que produce los efectos señalados en el Párrafo 4 del Título 1 del Capítulo IV de esta ley.
 
-37) Resolución de Reorganización: Aquella resolución judicial dictada en un Procedimiento Concursal que produce los efectos señalados en el artículo 57 de esta ley.
+37) Resolución de Reorganización: Aquella resolución judicial dictada en un Procedimiento Concursal que produce los efectos señalados en el artículo 57 o en el artículo 286 B de esta ley.
 
 38) Servicios de Utilidad Pública: Aquéllos considerados como consumos básicos, cuyos prestadores se encuentran regulados por leyes especiales y sujetos a la fiscalización de la autoridad, tales como agua, electricidad, gas, teléfono e internet.
 
@@ -154,7 +160,15 @@ De todas las notificaciones que se practiquen en virtud de lo dispuesto en este 
 
 Cada vez que la ley ordene al Deudor señalar el Correo Electrónico de sus acreedores, se entenderá que debe indicar el de los representantes legales de aquéllos.
 
-Una vez finalizados los Procedimientos Concursales, en la forma prescrita en esta ley, la Superintendencia deberá proceder a la eliminación, modificación o bloqueo de los datos del Deudor en el Boletín Concursal, en conformidad con lo establecido en la ley Nº 19.628, sobre protección de la vida privada.
+Una vez finalizados los Procedimientos Concursales en la forma prescrita en esta ley, la Superintendencia y los responsables de los registros o bancos de datos personales, en su caso, deberán proceder a la eliminación, modificación o bloqueo de los datos del Deudor en el Boletín Concursal y otros registros o bancos de datos personales referidos a obligaciones de carácter económico, financiero, bancario o comercial, según corresponda, en conformidad con lo establecido en el artículo 6 de la ley Nº 19.628, sobre protección de la vida privada, en un plazo no superior a treinta días.
+
+#### Artículo 6
+
+A.- De la realización telemática de audiencias en los Procedimientos Concursales de Renegociación y Juntas de Acreedores no celebradas ante el tribunal o en el lugar que éste designe. Las audiencias de los Procedimientos Concursales de Renegociación y las Juntas de Acreedores que no se celebren en las dependencias del tribunal o en el lugar que éste determine, se podrán realizar por medios telemáticos conforme a la norma de carácter general que dictará al efecto la Superintendencia.
+
+#### Artículo 6
+
+B.- De las audiencias judiciales y Juntas de Acreedores celebradas ante el tribunal o en el lugar que éste designe en los Procedimientos Concursales de Liquidación y Reorganización. Tratándose de audiencias judiciales y Juntas de Acreedores celebradas ante el tribunal o en el lugar que éste designe, las partes podrán comparecer vía remota por videoconferencia, de conformidad con las reglas generales dispuestas para las audiencias telemáticas de las contiendas que se tramitan ante los juzgados con competencia civil.
 
 #### Artículo 7º
 
@@ -178,7 +192,13 @@ DEL VEEDOR Y DEL LIQUIDADOR
 
 #### Artículo 9º
 
-Estructura. La Nómina de Veedores estará integrada por las personas naturales nombradas en el cargo de Veedor por la Superintendencia, la que la mantendrá debidamente actualizada y a disposición del público a través de su página web.
+Estructura. La Nómina de Veedores estará integrada por las personas naturales nombradas en el cargo de Veedor por la Superintendencia, la que la mantendrá debidamente actualizada y a disposición del público a través de su página web. Esta nómina estará compuesta por dos categorías, A y B.
+
+Los Veedores que pertenezcan a la Categoría A gestionarán los procedimientos regulados en el Capítulo III. Los Veedores que pertenezcan a la Categoría B gestionarán los procedimientos regulados en el Título 3 del Capítulo V.
+
+Por defecto, todo Veedor que se incorpore a la Nómina de Veedores en virtud del artículo 13 será incorporado en la Categoría B. Para acceder a la Categoría A, los Veedores deberán presentar una solicitud a la Superintendencia y cumplir con los requisitos e indicadores de gestión positivos determinados por la Superintendencia por medio de una norma de carácter general.
+
+La admisión e inscripción en la Categoría A eliminará automáticamente la pertenencia a la Categoría B, salvo que el Veedor solicite mantenerse en ambas categorías.
 
 #### Artículo 10
 
@@ -196,11 +216,13 @@ Menciones de la Nómina de Veedores. La referida Nómina contendrá las siguient
 
 2) Calificaciones obtenidas durante los últimos cinco años en el examen a que se refiere el artículo 14.
 
-3) Número total de Procedimientos Concursales de Reorganización en que hubiere intervenido, con mención de aquellos en que se hubiere aprobado el Acuerdo de Reorganización, de los cinco principales acreedores y el sector o rubro de los Deudores en cada uno de ellos.
+3) Número total de Procedimientos Concursales de Reorganización y de Reorganización Simplificada en que hubiere intervenido, con mención de aquellos en que se hubiere aprobado el Acuerdo de Reorganización, de los cinco principales acreedores y el sector o rubro de los Deudores en cada uno de ellos.
 
 4) Honorario promedio percibido.
 
-5) Registro de las sanciones aplicadas.
+5) Registro de las sanciones aplicadas en los últimos tres años calendario.
+
+6) Categoría a la que pertenece el Veedor.
 
 ### Párrafo 2 — . Del Veedor
 
@@ -210,7 +232,7 @@ Requisitos. Podrá solicitar su inclusión en la Nómina de Veedores toda person
 
 1) Contar con un título profesional de contador auditor o de una profesión de a lo menos diez semestres de duración, otorgado por universidades del Estado o reconocidas por éste, o por la Corte Suprema, en su caso;
 
-2) Contar con, a lo menos, cinco años de ejercicio de la profesión que haga valer;
+2) Contar con, a lo menos, cinco años de ejercicio de la profesión que acredite mediante antecedentes que puedan ser verificados por la Superintendencia;
 
 3) Aprobar el examen para Veedores a que se refiere el artículo siguiente;
 
@@ -302,6 +324,8 @@ f) Profesionales o técnicos que le presten servicios, sean éstos esporádicos 
 
 10) Por muerte.
 
+11) Por haber sido excluido de la Nómina de Liquidadores por sentencia firme o ejecutoriada, salvo que ello se haya debido a su renuncia presentada ante la Superintendencia. La resolución por la cual la Superintendencia determine la exclusión por esta causa no será susceptible de recurso alguno.
+
 Producida alguna de las circunstancias señaladas en los números precedentes, la Superintendencia dictará la resolución de exclusión respectiva.
 
 Sin perjuicio de lo anterior, en el evento que se produzcan algunas de las circunstancias previstas en los numerales 1), 2), 3), 4) y 8) anteriores, la Superintendencia deberá previamente representarla al Veedor para que éste presente sus descargos, dentro de los cinco días siguientes. Vencido el plazo señalado sin que se presente descargo alguno, la Superintendencia dictará la correspondiente resolución de exclusión. Si el Veedor presenta sus descargos, la Superintendencia podrá acogerlos o rechazarlos dictando la correspondiente resolución.
@@ -384,7 +408,7 @@ Deberes del Veedor. La función principal del Veedor es propiciar los acuerdos e
 
 En el ejercicio de sus funciones deberá especialmente:
 
-1) Imponerse de los libros, documentos y operaciones del Deudor.
+1) Imponerse de los libros, y otra documentación contable, financiera o tributaria de las operaciones del Deudor.
 
 2) Incorporar y publicar en el Boletín Concursal copia de todos los antecedentes y resoluciones que esta ley le ordene.
 
@@ -402,13 +426,15 @@ En el ejercicio de sus funciones deberá especialmente:
 
 9) Rendir mensualmente cuenta de su actuación y de los negocios del Deudor a la Superintendencia, y presentar las observaciones que le merezca la administración de aquél. Esta cuenta será enviada, además, por correo electrónico a cada uno de los acreedores.
 
-10) Ejecutar todos los actos que le encomiende esta ley.
+10) Velar por el correcto y oportuno cumplimiento de las obligaciones laborales y de seguridad social del Deudor respecto de los trabajadores con contrato laboral vigente y de aquellos cuyo contrato hubiere terminado antes del inicio del procedimiento o durante la Protección Financiera Concursal. En caso de incumplimiento del Deudor, deberá dar cuenta de esta circunstancia al tribunal competente y a la Superintendencia.
+
+11) Ejecutar todos los actos que le encomiende esta ley.
 
 #### Artículo 26
 
-Delegación de funciones. El Veedor sólo podrá delegar sus funciones, manteniendo su responsabilidad y a su costa, en otros Veedores vigentes en la Nómina de Veedores, con igual competencia territorial.
+Delegación de funciones. El Veedor sólo podrá delegar sus funciones, manteniendo su responsabilidad y a su costa, en otros Veedores que no se encuentren actualmente suspendidos de la Nómina de Veedores, con igual competencia territorial.
 
-La referida delegación deberá efectuarse por instrumento público, en el que conste la aceptación del delegado, el que será agregado al expediente y notificado mediante su publicación en el Boletín Concursal.
+La referida delegación deberá efectuarse por instrumento público y materializarse en un mandato especial para un procedimiento determinado, o en un mandato general para todos los procedimientos en los que actualmente o en el futuro sea designado el Veedor, respecto de actuaciones específicas de su gestión y notificada mediante su publicación en el Boletín Concursal. Asimismo, deberá constar en el expediente de cada procedimiento en el que dicho delegado actúe. El mandato terminará, especialmente, en caso de suspensión o exclusión ya sea del Veedor delegante o del Veedor delegado.
 
 #### Artículo 27
 
@@ -430,6 +456,14 @@ De la Cuenta Final. El Veedor rendirá cuenta final de su gestión en el plazo d
 
 Estructura. La Nómina de Liquidadores estará integrada por todas las personas naturales nombradas como tales por la Superintendencia, la que deberá mantenerla debidamente actualizada y a disposición del público a través de su página web.
 
+Esta nómina estará compuesta por dos categorías, A y B.
+
+Los Liquidadores que pertenezcan a la Categoría A gestionarán los procedimientos regulados en el Capítulo IV. Los Liquidadores que pertenezcan a la Categoría B gestionarán los procedimientos regulados en los Títulos 1 y 2 del Capítulo V, cuando corresponda.
+
+Por defecto, todo Liquidador que se incorpore a la Nómina de Liquidadores en virtud del artículo 32 será incorporado en la Categoría B. Para acceder a la Categoría A, los Liquidadores deberán presentar una solicitud a la Superintendencia y cumplir con los requisitos e indicadores de gestión positivos determinados por la Superintendencia, lo que será normado por medio de una norma de carácter general.
+
+Los Liquidadores que pertenezcan a la Categoría A podrán solicitar mantenerse inscritos en ambas categorías. Los requisitos para proceder al cambio de categorías a la o a las que pertenezca un Liquidador se regulará por la Superintendencia mediante la norma de carácter general señalada en el inciso anterior.
+
 #### Artículo 31
 
 Norma general. Será aplicable a los Liquidadores lo dispuesto en el Título 1 del Capítulo II de la presente ley respecto de los Veedores, en todo aquello que no esté expresamente regulado en el presente Título y, en todo caso, siempre que no sea contrario a la naturaleza de la función que desempeñan.
@@ -440,7 +474,7 @@ Requisitos. Podrá ser Liquidador y solicitar su inclusión en la Nómina de Liq
 
 1) Contar con un título profesional de contador auditor o de una profesión de a lo menos diez semestres de duración, otorgado por universidades del Estado o reconocidas por éste, o por la Corte Suprema, en su caso.
 
-2) Contar con, a lo menos, cinco años de ejercicio de la profesión que haga valer.
+2) Contar con, a lo menos, cinco años de ejercicio de la profesión que acredite mediante antecedentes que puedan ser verificados por la Superintendencia.
 
 3) Aprobar un examen de conocimientos para Liquidadores, en los términos del artículo 14.
 
@@ -502,19 +536,19 @@ En el ejercicio de sus funciones, el Liquidador deberá especialmente, con arreg
 
 #### Artículo 37
 
-Nominación del Liquidador. Presentada una solicitud de inicio de Procedimiento Concursal de Liquidación ante el tribunal competente, la Superintendencia nominará al Liquidador conforme al procedimiento establecido en el presente artículo, salvo en el caso previsto en el número 3 del artículo 120.
+Nominación del Liquidador. Presentada una solicitud de inicio de Procedimiento Concursal de Liquidación o Liquidación Simplificada ante el tribunal competente, la Superintendencia nominará al Liquidador conforme al procedimiento establecido en el presente artículo.
 
 Tratándose de una solicitud de Liquidación Voluntaria, el Deudor acompañará a la Superintendencia copia de la respectiva solicitud con cargo del tribunal competente o de la Corte de Apelaciones correspondiente y copia de la nómina de acreedores y sus créditos, de acuerdo a lo establecido en el artículo 115 de esta ley.
 
-Tratándose de una solicitud de Liquidación Forzosa, el acreedor peticionario acompañará a la Superintendencia copia de la respectiva solicitud con cargo del tribunal competente o de la Corte de Apelaciones correspondiente y copia de la nómina de acreedores y sus créditos que haya acompañado el Deudor, en su caso, de acuerdo a lo establecido en el artículo 120 de esta ley.
+Tratándose de una solicitud de Liquidación Forzosa, el acreedor peticionario acompañará a la Superintendencia copia de la respectiva solicitud con cargo del tribunal competente o de la Corte de Apelaciones correspondiente y copia de la nómina de acreedores y sus créditos que haya acompañado el Deudor, en su caso, de acuerdo a lo establecido en el artículo 120 de esta ley. En caso de que el Deudor no hubiere presentado la referida nómina de acreedores en la audiencia o no concurriere a ésta, el tribunal informará este hecho a la Superintendencia para que realice la nominación mediante sorteo.
 
 Acompañados los antecedentes antes señalados, la Superintendencia notificará a los tres mayores acreedores del Deudor, que no sean Personas Relacionadas de éste, según la información entregada, dentro del día siguiente y por el medio más expedito, lo que será certificado por un ministro de fe de la Superintendencia.
 
-Dentro del segundo día siguiente a la referida notificación, cada acreedor propondrá por escrito o por correo electrónico a un Liquidador titular y a un Liquidador suplente vigentes en la Nómina de Liquidadores. Para estos efectos, cada acreedor será individualmente considerado, sin distinción del monto de su crédito.
+Dentro del segundo día siguiente a la referida notificación, cada acreedor propondrá por escrito o por correo electrónico a un Liquidador titular y a un Liquidador suplente de la categoría que correspondan, vigentes en la Nómina de Liquidadores. Para estos efectos, cada acreedor será individualmente considerado, sin distinción del monto de su crédito.
 
 Dentro del día siguiente al señalado en el inciso anterior, la Superintendencia nominará como Liquidador titular al que hubiere obtenido la primera mayoría de entre los propuestos para ese cargo por los acreedores, y como suplente a aquel que hubiere obtenido la primera mayoría de entre los propuestos para ese cargo. Si sólo respondiere un acreedor, se estará a su propuesta. Si respondieren todos o dos de ellos y la propuesta recayere en personas diversas, se estará a aquella del acreedor cuyo crédito sea superior. En caso que no se reciban propuestas, la nominación tendrá lugar mediante sorteo ante la Superintendencia, en el que participarán todos aquellos Liquidadores vigentes en la Nómina de Liquidadores a esa fecha.
 
-Los sorteos que efectúe la Superintendencia se regularán por medio de una norma de carácter general.
+Los sorteos que efectúe la Superintendencia se regularán por medio de una norma de carácter general y su resultado tendrá carácter público.
 
 Excepcionalmente, si de los antecedentes acompañados a la Superintendencia por el Deudor o acreedor peticionario, según corresponda, se acredita que un solo acreedor representa más del 50% del pasivo del deudor, la Superintendencia nominará al Liquidador titular y al suplente propuesto por dicho acreedor. En caso que dicho acreedor no propusiere al Liquidador titular y al suplente, se estará a las reglas generales establecidas en los incisos anteriores.
 
@@ -528,9 +562,9 @@ Aceptado el cargo, la Superintendencia emitirá el Certificado de Nominación de
 
 #### Artículo 38
 
-Cese anticipado en el cargo. El Liquidador cesará anticipadamente en el cargo por no haberse confirmado su nominación por la Junta de Acreedores; por haberse aprobado un Acuerdo de Reorganización Judicial o un Acuerdo de Reorganización Simplificado que termine con el Procedimiento Concursal de Liquidación, o por lo dispuesto en los artículos 23 y 24, que serán aplicables, en lo que corresponda, al Liquidador.
+Cese anticipado en el cargo. El Liquidador cesará anticipadamente en el cargo por no haberse confirmado su nominación por la Junta de Acreedores; por haberse aprobado un Acuerdo de Reorganización Judicial, un Acuerdo de Reorganización Extrajudicial, o un Acuerdo de Reorganización Simplificado que termine con el Procedimiento Concursal de Liquidación o de Liquidación Simplificada, o por lo dispuesto en los artículos 23 y 24, que serán aplicables, en lo que corresponda, al Liquidador.
 
-Si el Liquidador titular cesare anticipadamente en el cargo asumirá el suplente, sin perjuicio de la facultad de la Junta de Acreedores de designar uno nuevo. Si no pudiere asumir el Liquidador suplente, la Superintendencia deberá citar a Junta Extraordinaria de Acreedores con el fin de que se designe un Liquidador titular y a uno suplente, en caso que los acreedores no los hubieren designado. Si dicha junta no se celebra por falta de quórum, la Superintendencia hará la designación por sorteo.
+Si el Liquidador titular cesare anticipadamente en el cargo asumirá el suplente, sin perjuicio de la facultad de la Junta de Acreedores de designar uno nuevo. Si no pudiere asumir el Liquidador suplente, el tribunal deberá citar a Junta Extraordinaria de Acreedores con el fin de que se designe un Liquidador titular y a uno suplente, en caso que los acreedores no los hubieren designado. Si dicha junta no se celebra por falta de quórum, la Superintendencia hará la designación por sorteo.
 
 Los Liquidadores que fueren designados de conformidad a este artículo deberán asumir aun cuando el Procedimiento Concursal de Liquidación no tuviere bienes o fondos por repartir.
 
@@ -586,11 +620,11 @@ Tabla de Honorarios. El honorario único a que se refiere el artículo anterior 
 
 11) Sobre la parte que exceda de 1.000.000 de unidades de fomento, 1%.
 
-El primer tramo se calculará sobre los ingresos del Procedimiento Concursal de Liquidación cuando no hubiere repartos o, si habiendo repartos, correspondiere al Liquidador un honorario inferior a 30 unidades de fomento y, en este caso, el honorario no podrá exceder de esa cantidad.
+El primer tramo se calculará sobre los ingresos del Procedimiento Concursal de Liquidación o Liquidación Simplificada, cuando no hubiere repartos o, si habiendo repartos, correspondiere al Liquidador un honorario inferior a 30 unidades de fomento y, en este caso, el honorario no podrá exceder de esa cantidad.
 
 Para la determinación del honorario que corresponda al Liquidador en cada reparto, se deberá calcular previamente la cantidad que le corresponda por honorarios y luego aplicar la tabla precedente en la forma progresiva descrita, a partir del respectivo tramo. En consecuencia, para la aplicación de la tabla y determinación del porcentaje del honorario que le corresponde en cada reparto, deberá considerarse el monto total distribuido en repartos anteriores.
 
-Si luego de practicada la diligencia de incautación y confección de inventario a que se refiere el numeral 2) del artículo 163, se constatare por el Liquidador que el Deudor carece de bienes, o que éstos son insuficientes para el pago de los honorarios que pudieren corresponderle, éste sólo tendrá derecho a una remuneración de 30 unidades de fomento, que serán pagadas por la Superintendencia con cargo a su presupuesto.
+El Liquidador tendrá derecho a una remuneración mínima de 30 unidades de fomento. Si al presentar la Cuenta Final de Administración, el Liquidador determina que sus honorarios corresponden a un monto inferior a 30 unidades de fomento, deberá comunicar dicha circunstancia a la Superintendencia, la que, una vez aprobada la Cuenta Final de Administración, pagará el saldo restante, con cargo a su presupuesto.
 
 #### Artículo 41
 
@@ -606,7 +640,7 @@ El Liquidador, o sus Personas Relacionadas, no podrán tener participación algu
 
 #### Artículo 42
 
-Regla general. Una misma persona natural no podrá estar inscrita en la Nómina de Veedores y en la Nómina de Liquidadores.
+Regla general. Una misma persona natural podrá estar inscrita en la Nómina de Veedores y en la Nómina de Liquidadores.
 
 #### Artículo 43
 
@@ -648,7 +682,7 @@ Contenido. La Superintendencia fijará la forma y contenidos obligatorios de la 
 
 #### Artículo 50
 
-Oportunidad. El Liquidador deberá acompañar al Tribunal y a la Superintendencia su Cuenta Final de Administración dentro de los treinta días siguientes a que se verifique cualquiera de las circunstancias que a continuación se señalan:
+Oportunidad. El Liquidador deberá acompañar al Tribunal su Cuenta Final de Administración dentro de los treinta días siguientes a que se verifique cualquiera de las circunstancias que a continuación se señalan:
 
 1) Vencimiento de los plazos legales de realización de bienes.
 
@@ -656,45 +690,57 @@ Oportunidad. El Liquidador deberá acompañar al Tribunal y a la Superintendenci
 
 3) Cese anticipado de su cargo.
 
+Una vez dictada la resolución del tribunal que tiene por acompañada la Cuenta Final de Administración, el Liquidador dispondrá del plazo de tres días para presentar ante la Superintendencia copia de dicha resolución y copia de la referida Cuenta.
+
 #### Artículo 51
 
-Rendición de la Cuenta. Una vez acompañada su Cuenta Final de Administración al tribunal competente y a la Superintendencia, el Liquidador deberá citar a Junta de Acreedores a efectos de rendirla, explicar su contenido, las conclusiones y acreditar la retención del porcentaje de honorarios a percibir de conformidad a lo dispuesto en el número 7) del artículo 39. La Superintendencia podrá concurrir a dicha Junta con derecho a voz.
+Rendición de la cuenta. Dentro de los cinco días siguientes a la dictación de la resolución que tiene por acompañada su Cuenta Final de Administración, el Liquidador, mediante publicación en el Boletín Concursal y sin mediar requerimiento al tribunal, citará a la Junta de Acreedores e indicará el día, hora y lugar en que se celebrará. Entre la fecha de publicación de la citación y la celebración de la Junta de Acreedores deberá transcurrir no menos de veinte ni más de treinta días. La citación incluirá también una copia de la Cuenta Final de Administración.
 
-La citación deberá publicarse en el Boletín Concursal dentro de los cinco días siguientes a la resolución que tuvo por acompañada la Cuenta Final de Administración ante el Tribunal, e incluirá el día, hora y lugar en que se celebrará la Junta de Acreedores. Entre la fecha de publicación de la citación y de celebración de la Junta de Acreedores deberán transcurrir no menos de diez ni más de veinticinco días. La citación incluirá también una copia de la Cuenta Final de Administración.
+En la mencionada Junta, el Liquidador deberá rendir la cuenta, explicar su contenido, las conclusiones y acreditar la retención del porcentaje de honorarios a percibir, de conformidad a lo dispuesto en el número 6) del artículo 39. La Superintendencia podrá concurrir a dicha Junta con derecho a voz.
 
 Dicha Junta se celebrará con los acreedores que asistan.
 
 #### Artículo 52
 
-De la objeción. Podrán objetar la Cuenta Final de Administración del Liquidador el Deudor, cualquier acreedor y la Superintendencia.
+De la objeción. Podrán objetar la Cuenta Final de Administración del Liquidador, el Deudor, cualquier acreedor y la Superintendencia.
 
-Las objeciones se presentarán ante la Superintendencia dentro de los cinco días siguientes a la fecha en que se celebró o debió celebrarse la respectiva Junta de Acreedores. Si el objetante fuese la Superintendencia, su objeción será publicada en el Boletín Concursal en el mismo plazo antes señalado.
+Las objeciones se presentarán ante el tribunal del concurso dentro de los quince días siguientes a la fecha en que se celebró o debió celebrarse la respectiva Junta de Acreedores, y se deberá acompañar una copia de ellas a la Superintendencia dentro del mismo plazo, a través del medio electrónico que ésta indique por norma de carácter general.
 
-En caso de no deducirse objeciones oportunamente, el Liquidador o la Superintendencia solicitarán al tribunal competente que tenga por aprobada la Cuenta Final de Administración para todos los efectos legales.
+En caso de no deducirse objeciones dentro del plazo señalado, el tribunal, de oficio o previa solicitud del Liquidador, de la Superintendencia, del Deudor o de los acreedores, tendrá por aprobada, sin más trámite, la Cuenta Final de Administración para todos los efectos legales.
 
 Si se presentaren objeciones, se observarán las normas que siguen:
 
-1) Una vez vencido el plazo señalado en el inciso segundo, la Superintendencia requerirá informe al Liquidador de todas las objeciones presentadas o publicadas en una única resolución, la que se notificará por correo electrónico al Liquidador y se publicará en el Boletín Concursal.
+1. El Liquidador deberá publicar en el Boletín Concursal las objeciones que se hubieren deducido, en el plazo de dos días contado desde el término del plazo para objetar, e informará esta circunstancia al tribunal. El vencimiento de este plazo sin que el Liquidador hubiere realizado las publicaciones antedichas, facultará a la Superintendencia para proceder a su publicación, y se considerará una falta grave de conformidad con el número 2) del inciso segundo del artículo 338.
 
-2) El Liquidador dispondrá de diez días contados desde la notificación de la resolución antes indicada para contestar en una sola presentación todas las objeciones planteadas. En su presentación, el Liquidador podrá incluir correcciones a la Cuenta Final de Administración objetada, caso en el cual acompañará el texto definitivo que las refleje.
+2. Una vez vencido el plazo señalado en el inciso segundo, el Liquidador deberá presentar ante el tribunal y publicar en el Boletín Concursal, dentro de diez días, un informe de todas las objeciones formuladas. En su presentación, el Liquidador podrá incluir correcciones a la Cuenta Final de Administración objetada, caso en el cual acompañará el texto definitivo que las refleje.
 
-3) Si el Liquidador no efectúa presentación alguna en el plazo antes indicado, se entenderá suspendido de pleno derecho para asumir en los procedimientos regidos por esta ley mientras la o las objeciones no sean resueltas.
+3. Si el Liquidador no efectúa presentación alguna en el plazo antes indicado, se entenderá suspendido de pleno derecho para asumir en los procedimientos regidos por esta ley, mientras la o las objeciones no sean resueltas. Esta circunstancia deberá informarla el tribunal mediante oficio a la Superintendencia.
 
-4) Transcurrido el plazo señalado en el número 2), se haya presentado o no el informe del Liquidador, los objetantes dispondrán de tres días para insistir en sus objeciones.
+4. Vencido el plazo indicado en el número 2, evacuado o no el informe del Liquidador, los objetantes dispondrán de diez días para insistir en sus objeciones ante el tribunal, y deberán acompañar una copia de sus insistencias a la Superintendencia dentro del mismo plazo, a través del medio electrónico que ésta indique por norma de carácter general. El Liquidador deberá publicar en el Boletín Concursal las insistencias que se hubieren deducido, en el plazo de dos días contado desde el término del plazo para insistir en las objeciones, e informará esta circunstancia al tribunal. El vencimiento de este plazo sin que el Liquidador hubiere realizado las publicaciones antedichas, facultará a la Superintendencia para proceder a su publicación, y se considerará una falta grave de conformidad con el número 2) del inciso segundo del artículo 338.
 
-5) Si no se presentaren insistencias, se tendrá por aprobada la Cuenta Final de Administración.
+5. Si no se presentaren insistencias, el tribunal tendrá por aprobada la Cuenta Final de Administración mediante resolución, dictada de oficio o a solicitud de parte.
 
-6) En caso de insistencia, la Superintendencia remitirá al tribunal competente, dentro del plazo de diez días, un informe que contendrá las objeciones planteadas, la contestación del Liquidador si la hubiere, y su opinión en cuanto a si los hechos afectan decisivamente el patrimonio concursado, si implican un grave perjuicio para los acreedores y/o el Deudor, o si reflejan una manifiesta e inexcusable inobservancia del Liquidador a su deber de cuidado. El referido informe establecerá si el Liquidador quedará suspendido para asumir en nuevos Procedimientos Concursales.
+6. En caso de insistencia, la Superintendencia remitirá al tribunal competente, dentro del plazo de veinte días contado desde su publicación, un informe que se pronunciará sobre ellas, sobre la contestación del Liquidador, si la hubiere, e informará si los hechos afectan el activo concursal, implican un perjuicio para los acreedores y/o el Deudor, o si reflejan una manifiesta e inexcusable inobservancia del Liquidador a los deberes propios de su cargo previstos en esta ley. La Superintendencia establecerá en su informe si el Liquidador quedará suspendido para asumir en nuevos Procedimientos Concursales.
 
-7) El tribunal competente apreciará los antecedentes aportados de acuerdo a las normas de la sana crítica y pronunciará su resolución dentro de los quince días siguientes a la entrega del informe que indica el número anterior.
+7. Vencido el plazo del número anterior, en caso de que existan hechos pertinentes, sustanciales y controvertidos, el tribunal recibirá la causa a prueba.
 
-8) Si la resolución desechare en todas sus partes la o las objeciones deducidas, condenará al o los objetantes en costas, quienes responderán solidariamente de ellas, salvo que el tribunal competente estime que hubo motivo plausible para litigar. La misma regla se aplicará en caso que la resolución rechace una o más objeciones y acoja otras, respondiendo solidariamente todas las partes vencidas de la condena en costas. Tratándose del Deudor, responderán solidariamente de esas costas su abogado patrocinante y sus mandatarios judiciales.
+a) Una vez recibida la causa a prueba y resueltos los recursos de reposición, en caso de haberse deducido, las partes deberán ofrecer los medios de prueba de los que se valdrán para acreditar sus pretensiones en el plazo de tres días contado desde la notificación de la resolución respectiva.
 
-9) La resolución del tribunal competente que acoja una o más objeciones insistidas, señalará las medidas que el Liquidador deberá ejecutar para subsanar, reparar o corregir los defectos advertidos. Si la resolución rechaza la Cuenta Final de Administración deberá designar al Liquidador suplente como titular, de acuerdo con lo establecido en el inciso segundo del artículo 38.
+b) Tratándose de prueba pericial, el tribunal determinará la calidad del perito y los puntos sobre los cuales deberá pronunciarse, e instará a las partes para que acuerden su nombre. En caso de desacuerdo, el perito deberá ser designado en ese mismo acto por el tribunal, que le fijará un plazo de diez días para que evacue su informe. No será necesario en estos casos practicar la audiencia de reconocimiento.
 
-Contra esta resolución procederá el recurso de apelación, el que se concederá en el solo efecto devolutivo. Contra la resolución que rechace una o más objeciones insistidas no procederá recurso alguno.
+c) En la misma resolución, el tribunal citará a las partes a una audiencia de prueba, la que deberá tener lugar en un plazo no superior a veinte días contado desde su notificación.
 
-Una vez firme la sentencia que rechace la Cuenta Final de Administración, la Superintendencia excluirá al Liquidador de la Nómina de Liquidadores, de conformidad a lo establecido en el artículo 34 de esta ley.
+d) En la audiencia de prueba sólo se admitirá la declaración de dos testigos por cada parte respecto de cada punto de prueba. Concluida la recepción de la prueba, las partes formularán verbal y brevemente las observaciones que el examen de ella les sugiera, de un modo preciso y concreto.
+
+e) El tribunal apreciará las pruebas señaladas de acuerdo con las reglas de la sana crítica, y deberá fallar el asunto dentro de diez días contados desde la finalización de la audiencia de prueba.
+
+8. Si la resolución desecha en todas sus partes la o las objeciones deducidas, condenará al o los objetantes en costas, salvo que el tribunal competente estime que han tenido motivo plausible para litigar.
+
+9. Si el tribunal acoge una o más objeciones, podrá rechazar la Cuenta Final de Administración u ordenar al Liquidador subsanar los defectos advertidos, dispondrán las medidas que deberá ejecutar al efecto y señalarán el plazo en que el Liquidador deberá proceder. Ante el incumplimiento de las medidas ordenadas dentro del término señalado, el tribunal dictará de oficio o a solicitud de parte la resolución que tiene por rechazada la Cuenta Final de Administración.
+
+10. En caso de que se rechace la cuenta, se procederá a la designación del Liquidador suplente como titular, de acuerdo con lo establecido en el inciso segundo del artículo 38.
+
+Contra la resolución que se pronuncie sobre las objeciones procederá el recurso de apelación, el que se concederá en el solo efecto devolutivo.
 
 #### Artículo 53
 
@@ -732,11 +778,11 @@ Un modelo de dicha solicitud se regulará por la Superintendencia mediante una n
 
 #### Artículo 55
 
-Antecedentes para la nominación del Veedor. Para los efectos de la nominación de los Veedores titular y suplente, el Deudor deberá presentar a la Superintendencia una copia del documento indicado en el artículo anterior, con el respectivo cargo del tribunal competente o de la Corte de Apelaciones correspondiente. Además, deberá acompañar un certificado emitido por un auditor independiente al Deudor, inscrito en el Registro de Auditores Externos de la Superintendencia de Valores y Seguros. Este certificado se extenderá conforme a la información disponible suministrada por el Deudor y deberá contener un estado de sus deudas, con expresión del nombre, domicilio y correo electrónico de los acreedores o de sus representantes legales, en su caso; de la naturaleza de los respectivos títulos, y del monto de sus créditos, indicando el porcentaje que cada uno representa en el total del pasivo, con expresión de los tres mayores acreedores, excluidas las Personas Relacionadas al Deudor. La nominación de los Veedores titular y suplente se realizará según el procedimiento establecido en el artículo 22 y, una vez concluido, la Superintendencia extenderá el respectivo Certificado de Nominación contemplado en dicha disposición.
+Antecedentes para la nominación del Veedor. Para los efectos de la nominación de los Veedores titular y suplente, el Deudor deberá presentar a la Superintendencia una copia del documento indicado en el artículo anterior, con el respectivo cargo del tribunal competente o de la Corte de Apelaciones correspondiente. Además, deberá acompañar un certificado emitido por un auditor independiente al Deudor, inscrito en el Registro de Inspectores de Cuentas y Auditores Externos o en el Registro de Empresas de Auditoría Externa de la Comisión para el Mercado Financiero. Este certificado se extenderá conforme a la información disponible suministrada por el Deudor y deberá contener un estado de sus deudas, con expresión del nombre, domicilio y correo electrónico de los acreedores o de sus representantes legales, en su caso; de la naturaleza de los respectivos títulos, y del monto de sus créditos, indicando el porcentaje que cada uno representa en el total del pasivo, con expresión de los tres mayores acreedores, excluidas las Personas Relacionadas al Deudor. Asimismo, el certificado deberá contener otras menciones que determinará la Superintendencia mediante norma de carácter general. La nominación de los Veedores titular y suplente se realizará según el procedimiento establecido en el artículo 22 y, una vez concluido, la Superintendencia extenderá el respectivo Certificado de Nominación contemplado en dicha disposición.
 
 #### Artículo 56
 
-Antecedentes que deberá acompañar el Deudor. Aceptada la nominación por el Veedor titular y suplente, la Superintendencia remitirá al tribunal competente el Certificado de Nominación correspondiente. Paralelamente, el Deudor acompañará lo siguiente:
+Antecedentes que deberá acompañar el Deudor. Aceptada la nominación por el Veedor titular y suplente, la Superintendencia remitirá al tribunal competente el Certificado de Nominación correspondiente. Paralelamente, el Deudor, a través de una declaración jurada simple firmada, acompañará lo siguiente:
 
 1) Relación de todos sus bienes, con expresión de su avalúo comercial, del lugar en que se encuentren y de los gravámenes que los afecten. Deberá señalar, además, cuáles de estos bienes tienen la calidad de esenciales para el giro de la Empresa Deudora;
 
@@ -754,7 +800,7 @@ Si se tratare de una persona jurídica, los documentos referidos serán firmados
 
 Resolución de Reorganización. Dentro del quinto día de efectuada la presentación señalada en el artículo anterior, el tribunal competente dictará una resolución designando a los Veedores titular y suplente nominados en la forma establecida en el artículo 22. En la misma resolución dispondrá lo siguiente:
 
-1) Que durante el plazo de treinta días contado desde la notificación de esta resolución, prorrogable de conformidad a lo dispuesto en el artículo 58, el Deudor gozará de una Protección Financiera Concursal en virtud de la cual:
+1) Que durante el plazo de sesenta días contado desde la notificación de esta resolución, prorrogable de conformidad a lo dispuesto en el artículo 58, el Deudor gozará de una Protección Financiera Concursal en virtud de la cual:
 
 a) No podrá declararse ni iniciarse en contra del Deudor un Procedimiento Concursal de Liquidación, ni podrán iniciarse en su contra juicios ejecutivos, ejecuciones de cualquier clase o restituciones en juicios de arrendamiento. Lo anterior no se aplicará a los juicios laborales sobre obligaciones que gocen de preferencia de primera clase, suspendiéndose en este caso sólo la ejecución y realización de bienes del Deudor, salvo que se trate de juicios laborales de este tipo que el Deudor tuviere en tal carácter a favor de su cónyuge, de sus parientes, o de los gerentes, administradores, apoderados con poder general de administración u otras personas que tengan injerencia en la administración de sus negocios. Para estos efectos, se entenderá por parientes del Deudor o de sus representantes legales los ascendientes, descendientes, y los colaterales hasta el cuarto grado de consanguinidad y afinidad, inclusive.
 
@@ -788,9 +834,9 @@ c) Tratándose de personas jurídicas, éstas no podrán modificar sus pactos, e
 
 a) Si la propuesta es susceptible de ser cumplida, habida consideración de las condiciones del Deudor;
 
-b) El monto probable de recuperación que le correspondería a cada acreedor en sus respectivas categorías, en caso de un Procedimiento Concursal de Liquidación, y
+b) El monto probable de recuperación que le correspondería a cada acreedor en sus respectivas categorías, en caso de un Procedimiento Concursal de Liquidación, considerando el valor comercial de los bienes, su depreciación estimable en caso de liquidación y el monto de créditos preferentes, garantizados y valistas; y
 
-c) Si la propuesta de determinación de los créditos y su preferencia indicada por el Deudor se ajustan a la ley.
+c) Si la propuesta se ajusta a la ley.
 
 Si el Veedor no presentare el referido informe dentro del plazo indicado, el Deudor, cualquiera de los acreedores o el tribunal competente informará a la Superintendencia para que se apliquen las sanciones pertinentes. En este caso, el Acuerdo de Reorganización Judicial se votará con prescindencia del Informe del Veedor.
 
@@ -800,9 +846,9 @@ Si el Veedor no presentare el referido informe dentro del plazo indicado, el Deu
 
 #### Artículo 58
 
-Prórroga de la Protección Financiera Concursal. El plazo establecido en el número 1) del artículo anterior para la Protección Financiera Concursal podrá prorrogarse hasta por treinta días, si el Deudor obtiene el apoyo de dos o más acreedores, que representen más del 30% del total del pasivo, excluidos los créditos de las Personas Relacionadas con el Deudor. Hasta el décimo día anterior al vencimiento del plazo antes señalado, el Deudor podrá solicitar una nueva prórroga por otros treinta días si obtiene el apoyo de dos o más acreedores que representen más del 50% del total del pasivo, excluidos los créditos de las Personas Relacionadas con el Deudor.
+Prórroga de la Protección Financiera Concursal. El plazo establecido en el número 1) del artículo anterior para la Protección Financiera Concursal podrá prorrogarse hasta por sesenta días, si el Deudor obtiene el apoyo de dos o más acreedores, que representen más del 30% del total del pasivo, excluidos los créditos de las Personas Relacionadas con el Deudor. Hasta el décimo día anterior al vencimiento del plazo antes señalado, el Deudor podrá solicitar una nueva prórroga por otros sesenta días si obtiene el apoyo de dos o más acreedores que representen más del 50% del total del pasivo, excluidos los créditos de las Personas Relacionadas con el Deudor.
 
-Sin perjuicio de lo anterior, se podrá solicitar en un solo acto la prórroga del plazo regulado para la Protección Financiera Concursal a que se refiere el número 1) del artículo anterior hasta por sesenta días, si el Deudor obtiene el apoyo de dos o más acreedores que representen más del 50% del total del pasivo, excluidos los créditos de las Personas Relacionadas con el Deudor.
+Sin perjuicio de lo anterior, se podrá solicitar en un solo acto la prórroga del plazo regulado para la Protección Financiera Concursal a que se refiere el número 1) del artículo anterior hasta por ciento veinte días, si el Deudor obtiene el apoyo de dos o más acreedores que representen más del 50% del total del pasivo, excluidos los créditos de las Personas Relacionadas con el Deudor.
 
 Los acreedores hipotecarios y prendarios que presten su apoyo para la prórroga de la Protección Financiera Concursal no perderán su preferencia y podrán impetrar las medidas conservativas que procedan.
 
@@ -818,11 +864,17 @@ Acogida la prórroga de la Protección Financiera Concursal, el tribunal compete
 
 Objeto de la propuesta de Acuerdo de Reorganización Judicial. La propuesta podrá versar sobre cualquier objeto tendiente a reestructurar los pasivos y activos de una Empresa Deudora.
 
+#### Artículo 60
+
+A.- Derechos de los trabajadores en un proceso de reorganización. Los derechos de los trabajadores de la Empresa Deudora con contrato de trabajo vigente, y los de aquellos cuyo contrato de trabajo hubiere terminado manteniendo la Empresa Deudora obligaciones laborales y previsionales pendientes de pago se regirán por las normas del Código del Trabajo y las demás normas que correspondan, sin que sean aplicables las normas de la presente ley, salvo lo dispuesto en la letra a) del número 1) del artículo 57.
+
+Los trabajadores no podrán ser parte de los acuerdos de reorganización.
+
 #### Artículo 61
 
 Acuerdos de Reorganización Judicial por clases o categorías de acreedores. La propuesta de Acuerdo podrá separarse en clases o categorías de acreedores y se podrá formular una propuesta para los acreedores valistas y otra para los acreedores hipotecarios y prendarios cuyos créditos se encuentren garantizados con bienes de propiedad del Deudor o de terceros. Los acreedores hipotecarios y prendarios que voten la propuesta del Acuerdo conservarán sus preferencias.
 
-La propuesta de Acuerdo será igualitaria para todos los acreedores de una misma clase o categoría, salvo que medie acuerdo en contrario, de conformidad a lo dispuesto en los artículos 64 y siguientes.
+La propuesta de Acuerdo será igualitaria para todos los acreedores de una misma clase o categoría, salvo que medie acuerdo en contrario, de conformidad a lo dispuesto en el artículo 64.
 
 Los acreedores hipotecarios y prendarios cuyos créditos se encuentren garantizados con bienes de propiedad del Deudor o de terceros podrán votar la propuesta de Acuerdo que se formule para acreedores valistas si renuncian a la preferencia de sus créditos y no podrán votar la propuesta de Acuerdo que se formule para la clase o categoría de los acreedores hipotecarios o prendarios, salvo que dicha renuncia sea parcial y se manifieste expresamente.
 
@@ -834,7 +886,7 @@ Propuestas alternativas de Acuerdo de Reorganización Judicial. En cada una de s
 
 #### Artículo 63
 
-Posposición del pago a acreedores Personas Relacionadas. Los acreedores Personas Relacionadas con el Deudor, cuyos créditos no se encuentren debidamente documentados 90 días antes del inicio del Procedimiento Concursal de Reorganización, quedarán pospuestos en el pago de sus créditos, hasta que se paguen íntegramente los créditos de los demás acreedores a los que les afectará el Acuerdo de Reorganización Judicial. Sin perjuicio de lo anterior, el Acuerdo podrá hacer aplicable la referida posposición a otros acreedores Personas Relacionadas con el Deudor, cuyos créditos se encuentren debidamente documentados, previo informe fundado del Veedor. Esta posposición no regirá respecto de los créditos que se originen en virtud de los artículos 72 y 73. Tampoco regirá respecto de los créditos que se originen en virtud del artículo 74, en la medida que se autorice por los acreedores que representen más del 50% del pasivo del Deudor.
+Posposición del pago a acreedores Personas Relacionadas. Los acreedores Personas Relacionadas con el Deudor, cuyos créditos no se encuentren debidamente documentados 90 días antes del inicio del Procedimiento Concursal de Reorganización, quedarán pospuestos en el pago de sus créditos, hasta que se paguen íntegramente los créditos de los demás acreedores a los que les afectará el Acuerdo de Reorganización Judicial. Sin perjuicio de lo anterior, el Acuerdo podrá hacer aplicable la referida posposición a otros acreedores Personas Relacionadas con el Deudor, cuyos créditos se encuentren debidamente documentados, previo informe fundado del Veedor. Esta posposición no regirá respecto de los créditos que se originen en virtud de los artículos 72 y 74.
 
 #### Artículo 64
 
@@ -852,6 +904,10 @@ Acreedores comprendidos en los Acuerdos de Reorganización Judicial. Los Acuerdo
 
 Los créditos que se originen con posterioridad no serán incluidos en el Acuerdo de Reorganización Judicial.
 
+Los acreedores cuyos créditos sean anteriores a la fecha de la Resolución de Reorganización, pero que no hubieren verificado oportunamente y aquellos que no estuvieren contenidos en el certificado del artículo 55 podrán demandar que se cumpla el Acuerdo a su favor mientras no se encuentren prescritas las acciones que de él resulten, mediante un procedimiento incidental, ante el mismo tribunal que se pronunció sobre el Acuerdo.
+
+En este procedimiento podrá actuar como parte cualquiera de los acreedores a los que les afecte el Acuerdo.
+
 #### Artículo 67
 
 Prohibición de repartos. Se prohíbe a la Empresa Deudora repartir sumas a sus accionistas o socios, bajo ningún concepto, ni directa ni indirectamente, sea por la vía de reducción de capital, condonación de préstamos otorgados y/o repartos de dividendos antes de haber pagado el 100% de las obligaciones emanadas del Acuerdo de Reorganización Judicial, salvo que los acreedores expresamente lo autoricen en la forma que lo determine el Acuerdo.
@@ -864,17 +920,19 @@ Si el árbitro declara la terminación o el incumplimiento del Acuerdo, remitir�
 
 #### Artículo 69
 
-Interventor y Comisión de Acreedores. El Acuerdo de Reorganización Judicial deberá estipular el nombramiento de un interventor por al menos un año contado desde el Acuerdo, el que recaerá en un Veedor vigente de la Nómina de Veedores. El interventor nombrado tendrá las atribuciones, deberes y remuneración que el mismo Acuerdo señale. Si ellas no se especifican, se entenderá que tendrá las señaladas en el artículo 294 del Código de Procedimiento Civil.
+Interventor y Comisión de Acreedores. El Acuerdo de Reorganización Judicial deberá estipular el nombramiento de un interventor por al menos un año contado desde el Acuerdo, el que recaerá en un Veedor de la categoría que corresponda, vigente de la Nómina de Veedores y las contempladas en los numerales 1, 7, 8 y 11 del artículo 25. El interventor nombrado tendrá las atribuciones, deberes y remuneración que el mismo Acuerdo señale. Si ellas no se especifican, se entenderá que tendrá las señaladas en el artículo 294 del Código de Procedimiento Civil. Este interventor será fiscalizado por la Superintendencia.
 
-El Veedor tendrá la obligación de poner en conocimiento, de forma fundada, el incumplimiento del Acuerdo a la Superintendencia y a los acreedores que les afecte, mediante notificación por Correo Electrónico.
+El interventor tendrá la obligación de poner en conocimiento, de forma fundada y por escrito, el incumplimiento del Acuerdo al tribunal, a la Superintendencia y a los acreedores que les afecte. Respecto de estos últimos, dicha notificación se efectuará por correo electrónico. Adicionalmente, el interventor deberá presentar semestralmente, por escrito, a la Superintendencia y al tribunal, un informe sobre el estado de cumplimiento del Acuerdo mientras se encuentre vigente en su cargo. El contenido de este informe se regulará mediante norma de carácter general dictada por la Superintendencia.
 
 Sin perjuicio de lo anterior, en el Acuerdo de Reorganización Judicial podrá designarse a una Comisión de Acreedores para supervigilar el cumplimiento de sus estipulaciones, con las atribuciones, deberes y remuneración que, en su caso, señale el Acuerdo.
+
+Para efectos de este artículo, el tribunal competente será aquel ante el cual se tramitó el Acuerdo.
 
 ### Párrafo 2 — . De la determinación del pasivo
 
 #### Artículo 70
 
-Verificación y objeción de los créditos. Los acreedores tendrán un plazo de ocho días contado desde la notificación de la Resolución de Reorganización a que se refiere el artículo 57 para verificar sus créditos ante el tribunal que conoce del procedimiento. Con tal propósito, deberán acompañar los títulos justificativos de éstos, señalando, en su caso, si se encuentran garantizados con prenda o hipoteca y el avalúo comercial de los bienes sobre los que recaen las garantías. No será necesaria verificación alguna si los créditos y el avalúo comercial de las garantías se encontraren señaladas, a satisfacción del acreedor, en el estado de deudas a que se refiere el número 4) del artículo 56 publicado en el Boletín Concursal.
+Verificación y objeción de los créditos. Los acreedores tendrán un plazo de quince días contado desde la notificación de la Resolución de Reorganización a que se refiere el artículo 57 para verificar sus créditos ante el tribunal que conoce del procedimiento. Con tal propósito, deberán acompañar los títulos justificativos de éstos, señalando, en su caso, si se encuentran garantizados con prenda o hipoteca y el avalúo comercial de los bienes sobre los que recaen las garantías. No será necesaria verificación alguna si los créditos y el avalúo comercial de las garantías se encontraren señaladas, a satisfacción del acreedor, en el estado de deudas a que se refiere el número 4) del artículo 56 publicado en el Boletín Concursal.
 
 Vencido el plazo señalado en el inciso anterior y dentro de los dos días siguientes, el Veedor publicará en el Boletín Concursal todas las verificaciones presentadas, indicando los créditos que se encuentren garantizados con prenda o hipoteca y el avalúo comercial de los bienes sobre los que recaen las garantías.
 
@@ -900,25 +958,25 @@ La resolución que falle las impugnaciones ordenará la incorporación o modific
 
 #### Artículo 72
 
-Continuidad del suministro. Los proveedores de bienes y servicios que sean necesarios para el funcionamiento de la Empresa Deudora, cuyas facturas tengan como fecha de emisión no menos de ocho días anteriores a la fecha de la Resolución de Reorganización y en la medida que en su conjunto no superen el 20% del pasivo señalado en la certificación contable referida en el artículo 55, se pagarán preferentemente en las fechas originalmente convenidas, siempre que el respectivo proveedor mantenga el suministro a la Empresa Deudora, circunstancia que deberá acreditar el Veedor.
+Continuidad del suministro. Los proveedores de bienes y servicios que sean necesarios para el funcionamiento de la Empresa Deudora, cuyos créditos fueren anteriores a la Resolución de Reorganización y que en su conjunto no superen el 20% del pasivo señalado en la certificación contable referida en el artículo 55, se pagarán en las fechas originalmente convenidas, siempre que el respectivo proveedor mantenga el suministro a la Empresa Deudora, en las mismas condiciones que realizaba esta prestación antes de la dictación de la Resolución de Reorganización, circunstancia que deberá acreditar el Veedor.
 
-En caso de no suscribirse el Acuerdo y, en consecuencia, se dictare la Resolución de Liquidación de la Empresa Deudora, los créditos provenientes de este suministro se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
+Los créditos de estos proveedores contraídos con anterioridad a la Resolución de Reorganización deberán ser pagados en los términos convenidos, siempre que se cumpla con los requisitos del inciso anterior, y una vez pagados no serán considerados en el pasivo con derecho a voto. Para estos efectos, si corresponde, el Veedor deberá eliminar estos créditos de la nómina de créditos reconocidos.
+
+En caso de dictarse la Resolución de Liquidación de la Empresa Deudora, por cualquier causa, los créditos provenientes del suministro originado durante la Protección Financiera Concursal se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
 
 #### Artículo 73
 
-Operaciones de comercio exterior. Los que financien operaciones de comercio exterior de la Empresa Deudora se pagarán preferentemente en las fechas originalmente convenidas, siempre que esos acreedores mantengan las líneas de financiamiento u otorguen nuevos créditos para este tipo de operaciones, circunstancia que deberá acreditar el Veedor.
-
-En caso que no se suscribiere el Acuerdo de Reorganización Judicial y, en consecuencia, se dictare la Resolución de Liquidación de la Empresa Deudora, los créditos provenientes de estas operaciones de comercio exterior se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
+Derogado.
 
 #### Artículo 74
 
-Venta de activos y contratación de préstamos durante la Protección Financiera Concursal. Durante la Protección Financiera Concursal, la Empresa Deudora podrá vender o enajenar activos cuyo valor no exceda el 20% de su activo fijo contable, y podrá adquirir préstamos para el financiamiento de sus operaciones, siempre que éstos no superen el 20% de su pasivo señalado en la certificación contable referida en el artículo 55.
+Enajenación de activos y obtención de financiamiento durante la Protección Financiera Concursal. Durante la Protección Financiera Concursal, y para el financiamiento de sus operaciones, la Empresa Deudora podrá enajenar activos cuyo valor no exceda el 20% de su activo fijo contable, y podrá contratar préstamos y/o llevar a cabo otra clase de operaciones de financiamiento, siempre que éstos no superen el 20% de su pasivo señalado en la certificación contable referida en el artículo 55, circunstancia que deberá certificar el Veedor.
 
-La venta, enajenación o contratación de préstamos que excedan los montos señalados en el inciso anterior, así como toda operación con Personas Relacionadas con la Empresa Deudora, requerirá la autorización de los acreedores que representen más del 50% del pasivo del Deudor.
+La enajenación, contratación de préstamos u otras operaciones de financiamiento que excedan los montos señalados en el inciso anterior, así como toda operación con Personas Relacionadas con la Empresa Deudora, requerirá la autorización de los acreedores que representen más del 30% del pasivo del Deudor, excluidos los créditos de las Personas Relacionadas con el Deudor.
 
-Los préstamos contratados por la Empresa Deudora en virtud de este artículo no se considerarán en las nóminas de créditos y se pagarán preferentemente en las fechas convenidas, siempre que se utilicen para el financiamiento de sus operaciones, circunstancia que deberá acreditar el Veedor.
+Los préstamos contratados y las operaciones de financiamiento llevadas a cabo por la Empresa Deudora en virtud de este artículo, no se considerarán en las nóminas de créditos y se pagarán en las fechas convenidas.
 
-En caso de no suscribirse el Acuerdo y, en consecuencia, se dictare la Resolución de Liquidación de la Empresa Deudora, estos préstamos se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
+En caso de dictarse la Resolución de Liquidación de la Empresa Deudora, por cualquier causa, los préstamos contratados y demás créditos que se hubieren originado en virtud de otras operaciones de financiamiento que hubieren tenido lugar durante la Protección Financiera Concursal se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
 
 #### Artículo 75
 
@@ -936,7 +994,7 @@ El Veedor verificará que el producto de todos los actos o contratos que se otor
 
 #### Artículo 77
 
-Efectos del retiro del Acuerdo. Una vez notificada la propuesta de Acuerdo, ésta no podrá ser retirada por el Deudor, salvo que cuente con el apoyo de acreedores que representen a lo menos el 75% del pasivo.
+Efectos del retiro del Acuerdo. Una vez notificada la propuesta de Acuerdo, ésta no podrá ser retirada por el Deudor, salvo que cuente con el apoyo de acreedores que representen a lo menos el 75% del pasivo, excluidas las Personas Relacionadas al Deudor. El apoyo de los acreedores podrá manifestarse de la forma dispuesta en el artículo 80.
 
 Si la propuesta de Acuerdo es retirada por el Deudor sin contar con el apoyo referido en el inciso anterior, el tribunal competente dictará la Resolución de Liquidación.
 
@@ -962,11 +1020,11 @@ El acuerdo sobre la propuesta de una clase o categoría se adoptará bajo la con
 
 #### Artículo 80
 
-Procedimiento de registro de firmas. Para obtener las mayorías que exige el Procedimiento Concursal de Reorganización, el Veedor podrá recabar la votación de cualquier acreedor, mediante la suscripción de uno o más documentos ante un ministro de fe o mediante firma electrónica avanzada, en que conste la aceptación de los acreedores.
+Votación sobre la propuesta de Acuerdo. Los acreedores titulares de créditos reconocidos en el procedimiento podrán pronunciarse sobre la propuesta de Acuerdo mediante una presentación al tribunal, en que conste su voto.
 
 Los votos que se obtengan mediante este sistema se considerarán como votos de acreedores presentes en la Junta de Acreedores llamada a conocer y pronunciarse sobre la propuesta de Acuerdo, para los efectos del cómputo de las mayorías.
 
-Los acreedores del Deudor podrán suscribir estos documentos desde la publicación de la propuesta de Acuerdo en el Boletín Concursal, y hasta tres días antes de la fecha fijada para la Junta de Acreedores llamada a conocer y pronunciarse sobre dicha propuesta.
+Los acreedores podrán votar desde la publicación del informe del Veedor sobre la propuesta de Acuerdo en el Boletín Concursal o desde el plazo establecido para ello en caso de que no la presente y hasta un día antes de la fecha fijada para la Junta de Acreedores llamada a conocer y pronunciarse sobre dicha propuesta.
 
 #### Artículo 81
 
@@ -1008,7 +1066,7 @@ Causales para impugnar el Acuerdo. El Acuerdo podrá ser impugnado por los acree
 
 5) Ocultación o exageración del activo o pasivo.
 
-6) Por contener una o más estipulaciones contrarias a lo dispuesto en esta ley.
+6) Por contener una o más estipulaciones contrarias a lo dispuesto en el ordenamiento jurídico.
 
 #### Artículo 86
 
@@ -1026,9 +1084,9 @@ La resolución que resuelva las impugnaciones se publicará en el Boletín Concu
 
 Nueva propuesta de Acuerdo. Si se acoge por resolución firme y ejecutoriada la impugnación al Acuerdo por las causales establecidas en los números 1), 2), 3) y 6) del artículo 85, el Deudor podrá presentar una nueva propuesta de Acuerdo, dentro de los diez días siguientes contados desde que se notifique la resolución que tuvo por acogida la impugnación referida, siempre que esta nueva propuesta se presente apoyada por dos o más acreedores que representen, a lo menos, un 66% del pasivo total con derecho a voto. En este caso, el Deudor gozará de Protección Financiera Concursal hasta la celebración de la Junta llamada a conocer y pronunciarse sobre la nueva propuesta. La resolución que tenga por presentada la nueva propuesta de Acuerdo fijará la fecha de la Junta de Acreedores llamada a conocer y pronunciarse sobre dicha nueva propuesta, la que deberá celebrarse dentro de los diez días siguientes contados desde que el Deudor la presentó.
 
-Si el Deudor no presentare la nueva propuesta de Acuerdo que reúna las condiciones indicadas en el inciso anterior, dentro del plazo antes establecido, el tribunal competente dictará, de oficio y sin más trámite, la Resolución de Liquidación de la Empresa Deudora.
+Cuando el Deudor no presente una nueva propuesta de Acuerdo que reúna las condiciones indicadas en el inciso anterior dentro del plazo antes establecido, y cuando se acoja una impugnación al Acuerdo por las causales establecidas en los números 4) y 5) del artículo 85, el tribunal, de oficio y sin más trámite, ordenará el inicio del Procedimiento Concursal de Liquidación en la misma resolución que acoge la impugnación. El tribunal deberá requerir a la Superintendencia la nominación del Liquidador según el artículo 37, y acompañar los antecedentes de los tres principales acreedores de conformidad a la nómina de créditos reconocidos, excluidas las Personas Relacionadas con el deudor. Recibido el certificado de nominación, dictará la Resolución de Liquidación sin más trámite. Desde el referido requerimiento hasta la dictación de la Resolución de Liquidación el Deudor tendrá la calidad de depositario provisional para todos los efectos legales.
 
-Si se acoge una impugnación al Acuerdo por las causales establecidas en los números 4) y 5) del artículo 85, el tribunal, de oficio y sin más trámite, ordenará el inicio del Procedimiento Concursal de Liquidación en la misma resolución que acoge la impugnación, y el Deudor no podrá presentar nuevamente una propuesta de Acuerdo.
+Cuando se inicie el procedimiento concursal de liquidación por haberse acogido las causales de impugnación establecidas en los números 4) y 5) del artículo 85, el Deudor no podrá presentar nuevamente una propuesta de Acuerdo.
 
 ### Párrafo 3 — . De la aprobación y vigencia del Acuerdo de Reorganización Judicial
 
@@ -1076,7 +1134,7 @@ Lo anterior, es sin perjuicio de la obligación del Deudor de reconocer como ing
 
 #### Artículo 94
 
-De los bienes no esenciales para la continuidad del giro de la Empresa Deudora. En el plazo de ocho días siguientes a la publicación de la Resolución de Reorganización referida en el artículo 57, el acreedor cuyo crédito se encuentre garantizado con prenda o hipoteca podrá solicitar fundadamente al tribunal competente que declare que el bien sobre el que recae su garantía no es esencial para el giro de la Empresa Deudora. Para resolver lo anterior, el tribunal podrá solicitar al Veedor un informe que contendrá la calificación de si el bien es o no esencial para el giro de la Empresa Deudora y el avalúo comercial del bien sobre el que recaen las referidas garantías. El tribunal deberá resolver dicha calificación en única instancia, a más tardar el segundo día anterior a la fecha de celebración de la Junta de Acreedores llamada a conocer y pronunciarse sobre las proposiciones de Acuerdo de Reorganización Judicial.
+De los bienes no esenciales para la continuidad del giro de la Empresa Deudora. En el plazo de quince días siguientes a la publicación de la Resolución de Reorganización referida en el artículo 57, el acreedor cuyo crédito se encuentre garantizado con prenda o hipoteca podrá solicitar fundadamente al tribunal competente que declare que el bien sobre el que recae su garantía no es esencial para el giro de la Empresa Deudora. Para resolver lo anterior, el tribunal podrá solicitar al Veedor un informe que contendrá la calificación de si el bien es o no esencial para el giro de la Empresa Deudora y el avalúo comercial del bien sobre el que recaen las referidas garantías. El tribunal deberá resolver dicha calificación en única instancia, a más tardar el segundo día anterior a la fecha de celebración de la Junta de Acreedores llamada a conocer y pronunciarse sobre las proposiciones de Acuerdo de Reorganización Judicial.
 
 El acreedor cuya garantía recae sobre un bien calificado como no esencial concurrirá y votará en la clase o categoría de acreedores valistas, únicamente por el saldo del crédito no cubierto por la garantía. El saldo cubierto por la garantía no se considerará en el pasivo de la clase o categoría de acreedores garantizados.
 
@@ -1092,13 +1150,13 @@ Efectos del Acuerdo de Reorganización Judicial en las obligaciones garantizadas
 
 3. Respecto de las obligaciones del Deudor garantizadas con prenda o hipoteca sobre bienes de propiedad de terceros, declarados no esenciales para el giro de la Empresa Deudora de acuerdo a los artículos 56 y 94, deberá distinguirse:
 
-a) Si el respectivo acreedor vota a favor del Acuerdo, se sujetará a los términos y modalidades establecidos en el referido acuerdo y no podrá perseguir su crédito en términos distintos a los estipulados.
+a) Si el respectivo acreedor vota, se sujetará a los términos y modalidades establecidos en el referido acuerdo y no podrá perseguir su crédito en términos distintos a los estipulados.
 
 b) Si el respectivo acreedor manifiesta su intención de no votar o no asiste a la Junta de Acreedores llamada a conocer y pronunciarse sobre la propuesta de Acuerdo, su crédito no se considerará en el pasivo con derecho a voto correspondiente a su clase o categoría, y podrá cobrar su crédito respecto de las prendas o hipotecas otorgadas por terceros.
 
 4. Respecto de las obligaciones del Deudor garantizadas con cauciones personales, deberá distinguirse:
 
-a) Si el respectivo acreedor vota en su clase o categoría de valista a favor del Acuerdo, se sujetará a los términos y modalidades establecidos en el referido acuerdo y no podrá cobrar su crédito en términos distintos a los estipulados.
+a) Si el respectivo acreedor vota en su clase o categoría de valista, se sujetará a los términos y modalidades establecidos en el referido acuerdo y no podrá cobrar su crédito en términos distintos a los estipulados.
 
 b) Si el respectivo acreedor manifiesta su intención de no votar o no asiste a la Junta de Acreedores llamada a conocer y pronunciarse sobre la propuesta de Acuerdo, su crédito no se considerará en el pasivo con derecho a voto correspondiente a su clase o categoría, y podrá cobrar su crédito respecto de los fiadores o codeudores, solidarios o subsidiarios, o avalistas en los términos originalmente pactados.
 
@@ -1113,6 +1171,10 @@ Rechazo del Acuerdo. Si la propuesta de Acuerdo es rechazada por los acreedores 
 Si el Deudor no presenta la nueva propuesta de Acuerdo dentro del plazo antes establecido, el tribunal dictará la Resolución de Liquidación, de oficio y sin más trámite.
 
 La Junta de Acreedores que rechace la primera o segunda propuesta de Acuerdo, en su caso, deberá nominar a los Liquidadores titular y suplente, a los que el tribunal competente deberá designar con el carácter de definitivos.
+
+#### Artículo 96
+
+A.- Término del Procedimiento Concursal de Reorganización. Se entenderá terminado el Procedimiento Concursal de Reorganización una vez publicada en el Boletín Concursal la resolución que aprueba la cuenta final de gestión del procedimiento, la que deberá presentarse de conformidad al artículo 29.
 
 ### Párrafo 6 — . De la nulidad y declaración de incumplimiento del Acuerdo de Reorganización Judicial
 
@@ -1158,33 +1220,33 @@ Designación del Liquidador. En la demanda de nulidad o de incumplimiento del Ac
 
 Si se interpusiere más de una demanda de nulidad o de incumplimiento del Acuerdo, el tribunal competente designará a los Liquidadores titular y suplente nominados en la primera demanda que se acoja.
 
-## Título 3 — Del Acuerdo de Reorganización Extrajudicial o Simplificado
+## Título 3 — Del Acuerdo de Reorganización Extrajudicial
 
 #### Artículo 102
 
-Legitimación. Toda Empresa Deudora podrá celebrar un Acuerdo de Reorganización Extrajudicial o Simplificado con sus acreedores y someterlo a aprobación judicial, conforme a lo establecido en el presente Título. Para los efectos de este Título se denominará indistintamente Empresa Deudora o Deudor.
+Legitimación. Toda Empresa Deudora podrá celebrar un Acuerdo de Reorganización Extrajudicial con sus acreedores y someterlo a aprobación judicial, conforme a lo establecido en el presente Título. Para los efectos de este Título se denominará indistintamente Empresa Deudora o Deudor.
 
 #### Artículo 103
 
-Competencia. Será competente para aprobar el Acuerdo Simplificado el tribunal que hubiere sido competente para conocer de un Procedimiento Concursal de Reorganización del Deudor de acuerdo a esta ley.
+Competencia. Será competente para aprobar el Acuerdo Extrajudicial el tribunal que hubiere sido competente para conocer de un Procedimiento Concursal de Reorganización del Deudor de acuerdo a esta ley.
 
 #### Artículo 104
 
-Formalidades. El Acuerdo Simplificado deberá ser otorgado ante un ministro de fe o ante un ministro de fe de la Superintendencia, quien certificará, además, la personería de los representantes que concurran al otorgamiento de este instrumento, cuyas copias autorizadas deberán agregarse al Acuerdo respectivo.
+Formalidades. El Acuerdo Extrajudicial deberá ser otorgado ante un ministro de fe o ante un ministro de fe de la Superintendencia, quien certificará, además, la personería de los representantes que concurran al otorgamiento de este instrumento, cuyas copias autorizadas deberán agregarse al Acuerdo respectivo.
 
 #### Artículo 105
 
-Objeto. El Acuerdo Simplificado podrá versar sobre cualquier objeto tendiente a reestructurar los activos y pasivos del Deudor.
+Objeto. El Acuerdo Extrajudicial podrá versar sobre cualquier objeto tendiente a reestructurar los activos y pasivos del Deudor.
 
 #### Artículo 106
 
-Normas aplicables. Serán aplicables al Acuerdo Simplificado, cuando corresponda y siempre que no contravengan lo dispuesto en el presente Párrafo, los Títulos 1 y 2 de este Capítulo, en lo relativo a los acuerdos por clases o categorías de acreedores, determinación del pasivo, propuestas alternativas, diferencias entre acreedores de igual clase o categoría, condonación o remisión de créditos, constitución de garantías, cláusulas de arbitraje, nombramiento del interventor y designación de la Comisión de Acreedores.
+Normas aplicables. Serán aplicables al Acuerdo Extrajudicial, cuando corresponda y siempre que no contravengan lo dispuesto en el presente Párrafo, los Títulos 1 y 2 de este Capítulo, en lo relativo a los acuerdos por clases o categorías de acreedores, determinación del pasivo, propuestas alternativas, diferencias entre acreedores de igual clase o categoría, condonación o remisión de créditos, constitución de garantías, cláusulas de arbitraje, nombramiento del interventor y designación de la Comisión de Acreedores.
 
 #### Artículo 107
 
-Requisitos. Para la aprobación judicial del Acuerdo Simplificado, éste deberá presentarse ante el tribunal competente junto con los antecedentes singularizados en el artículo 56, acompañado de un listado de todos los juicios y procesos administrativos seguidos contra el Deudor que tengan efectos patrimoniales, con indicación del tribunal, órgano de la Administración del Estado, rol o número de identificación y materias sobre las que tratan estos procesos.
+Requisitos. Para la aprobación judicial del Acuerdo Extrajudicial, éste deberá presentarse ante el tribunal competente junto con los antecedentes singularizados en el artículo 56, acompañado de un listado de todos los juicios y procesos administrativos seguidos contra el Deudor que tengan efectos patrimoniales, con indicación del tribunal, órgano de la Administración del Estado, rol o número de identificación y materias sobre las que tratan estos procesos.
 
-Conjuntamente con la presentación del Acuerdo Simplificado, deberá presentarse un informe de un Veedor de la Nómina de Veedores, elegido por el Deudor y sus dos principales acreedores, que deberá contener la calificación fundada acerca de:
+Conjuntamente con la presentación del Acuerdo Extrajudicial, deberá presentarse un informe de un Veedor de la Nómina de Veedores, elegido por el Deudor y sus dos principales acreedores, que deberá contener la calificación fundada acerca de:
 
 1. Si la propuesta es susceptible de ser cumplida, habida consideración de las condiciones del Deudor;
 
@@ -1194,7 +1256,7 @@ Conjuntamente con la presentación del Acuerdo Simplificado, deberá presentarse
 
 #### Artículo 108
 
-Resolución de Reorganización Simplificada. Presentada la solicitud de aprobación judicial del Acuerdo Simplificado y hasta la aprobación judicial regulada en el artículo 112, el tribunal dispondrá:
+Resolución de Reorganización Extrajudicial. Presentada la solicitud de aprobación judicial del Acuerdo Extrajudicial y hasta la aprobación judicial regulada en el artículo 112, el tribunal dispondrá:
 
 a) La prohibición de solicitar la Liquidación Forzosa del Deudor y de iniciarse en su contra juicios ejecutivos, ejecuciones de cualquier clase o restitución en los juicios de arrendamiento. Lo anterior no se aplicará a los juicios laborales sobre obligaciones que gocen de preferencia de primera clase, suspendiéndose en ese caso sólo la ejecución y realización de bienes del Deudor, excepto los que el Deudor tuviere, en tal carácter, a favor de su cónyuge o de sus parientes o de los gerentes, administradores, apoderados con poder general de administración u otras personas que hayan tenido o tengan injerencia en la administración de sus negocios. Para estos efectos, se entenderá por parientes los ascendientes y descendientes y los colaterales por consanguinidad y afinidad hasta el cuarto grado, inclusive.
 
@@ -1204,35 +1266,35 @@ c) La prohibición al Deudor de gravar o enajenar sus bienes, salvo los que resu
 
 #### Artículo 109
 
-Quórum. El Deudor deberá presentar el Acuerdo Simplificado suscrito por dos o más acreedores que representen al menos tres cuartas partes del total de su pasivo, correspondiente a su respectiva clase o categoría. Las Personas Relacionadas con el Deudor no podrán suscribir un Acuerdo Simplificado, ni sus créditos se considerarán en el monto del pasivo para los efectos de la determinación del quórum de aprobación del referido Acuerdo.
+Quórum. El Deudor deberá presentar el Acuerdo Extrajudicial suscrito por dos o más acreedores que representen al menos tres cuartas partes del total de su pasivo, correspondiente a su respectiva clase o categoría. Las Personas Relacionadas con el Deudor no podrán suscribir un Acuerdo Extrajudicial, ni sus créditos se considerarán en el monto del pasivo para los efectos de la determinación del quórum de aprobación del referido Acuerdo.
 
-Los cesionarios de créditos adquiridos dentro de los treinta días anteriores a la fecha de la presentación a aprobación judicial del Acuerdo Simplificado tampoco se considerarán para el quórum señalado en el inciso anterior.
+Los cesionarios de créditos adquiridos dentro de los treinta días anteriores a la fecha de la presentación a aprobación judicial del Acuerdo Extrajudicial tampoco se considerarán para el quórum señalado en el inciso anterior.
 
 #### Artículo 110
 
-Publicidad. Junto con presentar al tribunal el Acuerdo Extrajudicial o Simplificado con los antecedentes señalados en el artículo 107, el Deudor deberá acompañar al Veedor copia de éstos para que los publique en el Boletín Concursal y los acompañe a los acreedores por medio de correos electrónicos, si lo tuvieren.
+Publicidad. Junto con presentar al tribunal el Acuerdo Extrajudicial con los antecedentes señalados en el artículo 107, el Deudor deberá acompañar al Veedor copia de éstos para que los publique en el Boletín Concursal y los acompañe a los acreedores por medio de correos electrónicos, si lo tuvieren.
 
 #### Artículo 111
 
-Impugnación. Podrán impugnar el Acuerdo Simplificado los acreedores disidentes y aquellos que demuestren haber sido omitidos de los antecedentes previstos en el artículo 107, siempre y cuando la impugnación se funde en alguna de las causales establecidas en el artículo 85 respecto de los Acuerdos de Reorganización Judicial, o bien en la existencia, los montos y las preferencias de sus créditos.
+Impugnación. Podrán impugnar el Acuerdo Extrajudicial los acreedores disidentes y aquellos que demuestren haber sido omitidos de los antecedentes previstos en el artículo 107, siempre y cuando la impugnación se funde en alguna de las causales establecidas en el artículo 85 respecto de los Acuerdos de Reorganización Judicial, o bien en la existencia, los montos y las preferencias de sus créditos.
 
-La impugnación deberá presentarse ante el tribunal competente dentro de los diez días siguientes a la publicación del Acuerdo Simplificado efectuada conforme al artículo anterior. Una copia de la impugnación señalada y de los antecedentes correspondientes deberán ser publicados en el Boletín Concursal por el Veedor.
+La impugnación deberá presentarse ante el tribunal competente dentro de los diez días siguientes a la publicación del Acuerdo Extrajudicial efectuada conforme al artículo anterior. Una copia de la impugnación señalada y de los antecedentes correspondientes deberán ser publicados en el Boletín Concursal por el Veedor.
 
-Las impugnaciones al Acuerdo Simplificado se tramitarán como incidente y se fallarán conjuntamente en una audiencia única, que el tribunal citará para tal efecto y que se celebrará dentro de los diez días siguientes de vencido el plazo para impugnar. Esta audiencia será verbal y se llevará a cabo con los que asistan. La resolución que se pronuncie sobre las impugnaciones se publicará en el Boletín Concursal y será apelable en el solo efecto devolutivo.
+Las impugnaciones al Acuerdo Extrajudicial se tramitarán como incidente y se fallarán conjuntamente en una audiencia única, que el tribunal citará para tal efecto y que se celebrará dentro de los diez días siguientes de vencido el plazo para impugnar. Esta audiencia será verbal y se llevará a cabo con los que asistan. La resolución que se pronuncie sobre las impugnaciones se publicará en el Boletín Concursal y será apelable en el solo efecto devolutivo.
 
 #### Artículo 112
 
-Aprobación judicial. Dentro de los diez días siguientes a la publicación del Acuerdo Simplificado, el tribunal podrá citar a todos los acreedores a quienes les afecte el Acuerdo, para su aceptación ante el tribunal, la cual deberá contar con el quórum señalado en el artículo 109.
+Aprobación judicial. Dentro de los diez días siguientes a la publicación del Acuerdo Extrajudicial, el tribunal podrá citar a todos los acreedores a quienes les afecte el Acuerdo, para su aceptación ante el tribunal, la cual deberá contar con el quórum señalado en el artículo 109.
 
-Una vez aceptado el Acuerdo Simplificado, o vencido el plazo señalado en el inciso anterior sin que el tribunal hubiere citado, y vencido el plazo para presentar impugnaciones sin que se hayan interpuesto o si, deducidas, se hubieren rechazado por resolución que se encuentre firme y ejecutoriada, el tribunal competente, previa verificación del cumplimiento de los requisitos legales, dictará la correspondiente resolución aprobando el Acuerdo Simplificado, debiendo el Veedor publicarla en el Boletín Concursal.
+Una vez aceptado el Acuerdo Extrajudicial, o vencido el plazo señalado en el inciso anterior sin que el tribunal hubiere citado, y vencido el plazo para presentar impugnaciones sin que se hayan interpuesto o si, deducidas, se hubieren rechazado por resolución que se encuentre firme y ejecutoriada, el tribunal competente, previa verificación del cumplimiento de los requisitos legales, dictará la correspondiente resolución aprobando el Acuerdo Extrajudicial, debiendo el Veedor publicarla en el Boletín Concursal.
 
 #### Artículo 113
 
-Efectos de la aprobación judicial. El Acuerdo Simplificado aprobado judicialmente de conformidad a las disposiciones anteriores producirá, cuando corresponda, los efectos previstos en el Párrafo 4 del Título 2 de este Capítulo, siempre que no contravenga lo dispuesto en el presente Párrafo.
+Efectos de la aprobación judicial. El Acuerdo Extrajudicial aprobado judicialmente de conformidad a las disposiciones anteriores producirá, cuando corresponda, los efectos previstos en el Párrafo 4 del Título 2 de este Capítulo, siempre que no contravenga lo dispuesto en el presente Párrafo.
 
 #### Artículo 114
 
-Nulidad e Incumplimiento del Acuerdo Simplificado. Demandada la nulidad o el incumplimiento del Acuerdo Simplificado, se aplicará lo dispuesto en el Párrafo 6 del Título 2 de este Capítulo.
+Nulidad e Incumplimiento del Acuerdo Extrajudicial. Demandada la nulidad o el incumplimiento del Acuerdo Extrajudicial, se aplicará lo dispuesto en el Párrafo 6 del Título 2 de este Capítulo.
 
 ## Capítulo IV
 
@@ -1246,19 +1308,33 @@ DEL PROCEDIMIENTO CONCURSAL DE LIQUIDACIÓN
 
 Ámbito de aplicación y requisitos. La Empresa Deudora podrá solicitar ante el juzgado de letras competente su Liquidación Voluntaria, acompañando los siguientes antecedentes, con copia:
 
-1) Lista de sus bienes, lugar en que se encuentran y los gravámenes que les afectan.
+1) Lista de sus bienes, lugar en que se encuentran y los gravámenes que les afectan, incluyendo todos aquellos que se encuentren en su poder en una calidad distinta de la de dueño y aquellos bienes constituidos en garantía a su favor y la documentación que lo acredite. Asimismo, deberá indicar su participación en sociedades, comunidades y comunidades hereditarias. La Empresa Deudora que tribute en base a renta efectiva según contabilidad completa deberá además acompañar una copia del inventario de bienes.
 
-2) Lista de los bienes legalmente excluidos de la Liquidación.
+2) Documentación que acredite el dominio de los bienes indicados en la solicitud, respecto de los cuales exista registro. Particularmente, en el caso de los bienes raíces, el certificado de dominio vigente emitido por el Conservador de Bienes Raíces respectivo. Asimismo, en el caso de los vehículos motorizados, el certificado de anotaciones vigentes de vehículos motorizados emitido por el Servicio de Registro Civil e Identificación.
 
-3) Relación de sus juicios pendientes.
+3) Lista de los bienes legalmente excluidos de la Liquidación.
 
-4) Estado de deudas, con nombre, domicilio y datos de contacto de los acreedores, así como la naturaleza de sus créditos.
+4) Relación de sus juicios pendientes, si los hubiera.
 
-5) Nómina de los trabajadores, cualquiera sea su situación contractual, con indicación de las prestaciones laborales y previsionales adeudadas y fueros en su caso.
+5) Estado de deudas, con nombre, domicilio y datos de contacto de los acreedores, así como la naturaleza de sus créditos.
 
-6) Si el Deudor llevare contabilidad completa presentará, además, su último balance.
+6) Nómina de los trabajadores, cualquiera sea su situación contractual, con indicación de las prestaciones derivadas de la relación laboral adeudadas y fueros en su caso, incluyendo antecedentes que den cuenta del estado de pago de las cotizaciones de seguridad social y de las liquidaciones de sueldo, si corresponde.
 
-Si se tratare de una persona jurídica, los documentos antes referidos serán firmados por sus representantes legales.
+7) Si el Deudor llevare contabilidad completa presentará, además, su último balance.
+
+8) Copia de los antecedentes contenidos en la carpeta tributaria electrónica.
+
+9) Copia de las cartolas históricas de las cuentas corrientes y cuentas vistas asociadas al Deudor, con dos años de anterioridad al inicio del procedimiento de Liquidación Voluntaria, o el tiempo de vigencia de la persona jurídica de derecho privado en caso que fuere menor a dos años, y emitidas con no más de treinta días anteriores a la solicitud de inicio de este procedimiento. Los Bancos e Instituciones Financieras deberán poner dicha documentación a disposición del Deudor dentro del plazo de cinco días contado desde que éste realizó la solicitud.
+
+La Empresa Deudora que sea persona natural sólo deberá acompañar copia de las cartolas históricas de las cuentas corrientes y cuentas vistas asociadas a su actividad económica. Asimismo, el Deudor deberá acompañar informes de deuda emitidos por la Comisión para el Mercado Financiero o la autoridad que corresponda.
+
+En caso de imposibilidad de acceder a las cartolas históricas, deberá acompañarse algún antecedente que dé cuenta de dicha imposibilidad.
+
+10) Declaración jurada que indique que los antecedentes y documentos que se adjuntan a esta solicitud de inicio del Procedimiento de Liquidación Voluntaria son completos y fehacientes.
+
+Los documentos antes referidos serán firmados por los representantes del Deudor.
+
+El tribunal podrá denegar dar curso a la solicitud de Liquidación Voluntaria en caso de incumplimiento de los requisitos mencionados en el inciso primero o segundo de este artículo.
 
 Para los efectos de este Capítulo se denominará indistintamente Empresa Deudora o Deudor.
 
@@ -1272,11 +1348,11 @@ Tramitación. El tribunal competente revisará la presentación del Deudor y, si
 
 Ámbito de aplicación y causales. Cualquier acreedor podrá demandar el inicio del Procedimiento Concursal de Liquidación de una Empresa Deudora en los siguientes casos:
 
-1) Si cesa en el pago de una obligación que conste en título ejecutivo con el acreedor solicitante. Esta causal no podrá invocarse para solicitar el inicio del Procedimiento Concursal de Liquidación respecto de los fiadores, codeudores solidarios o subsidiarios, o avalistas de la Empresa Deudora que ha cesado en el pago de las obligaciones garantizadas por éstos.
+1) Si cesa en el pago de una obligación que conste en título ejecutivo vencido y que se constituya como una obligación propia de la actividad de la Empresa Deudora con el acreedor solicitante. Esta causal no podrá invocarse para solicitar el inicio del Procedimiento Concursal de Liquidación respecto de los fiadores, codeudores subsidiarios, o avalistas de la Empresa Deudora que ha cesado en el pago de las obligaciones garantizadas por éstos.
 
 2) Si existieren en su contra dos o más títulos ejecutivos vencidos, provenientes de obligaciones diversas, encontrándose iniciadas a lo menos dos ejecuciones, y no hubiere presentado bienes suficientes para responder a la prestación que adeude y a sus costas, dentro de los cuatro días siguientes a los respectivos requerimientos.
 
-3) Cuando la Empresa Deudora o sus administradores no sean habidos, y hayan dejado cerradas sus oficinas o establecimientos sin haber nombrado mandatario con facultades suficientes para dar cumplimiento a sus obligaciones y contestar nuevas demandas. En este caso, el demandante podrá invocar como crédito incluso aquel que se encuentre sujeto a un plazo o a una condición suspensiva.
+3) Cuando la Empresa Deudora o sus administradores no sean habidos, y hayan dejado cerradas sus oficinas o establecimientos, salvo que se hubiere nombrado un mandatario con facultades suficientes para dar cumplimiento a sus obligaciones y contestar nuevas demandas. En este caso, el demandante podrá invocar como crédito incluso aquel que se encuentre sujeto a un plazo.
 
 #### Artículo 118
 
@@ -1284,19 +1360,19 @@ Requisitos. La demanda se presentará ante el tribunal competente, señalará la
 
 1) Los documentos o antecedentes escritos que acreditan la causal invocada.
 
-2) Vale vista o boleta bancaria expedida a la orden del tribunal por una suma equivalente a 100 unidades de fomento para subvenir los gastos iniciales del Procedimiento Concursal de Liquidación.
+2) Vale vista o boleta bancaria expedida a la orden del tribunal por una suma equivalente a 100 unidades de fomento para subvenir los gastos iniciales del procedimiento y los honorarios de los Liquidadores para la administración del Procedimiento Concursal de Liquidación.
 
 En caso que se dicte la correspondiente Resolución de Liquidación, dicha suma será considerada como un crédito del acreedor solicitante, y gozará de la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
 
 3) El acreedor peticionario podrá designar a un Veedor vigente de la Nómina de Veedores, que asumirá en caso que el Deudor se oponga a la Liquidación Forzosa. Dicho Veedor supervigilará las actividades del Deudor mientras dure la tramitación del Juicio de Oposición, conforme a lo dispuesto en el Párrafo 3 de este Título, y tendrá las facultades de interventor contenidas en el artículo 25 de esta ley. Los honorarios del Veedor no podrán ser superiores a 100 unidades de fomento y serán de cargo del acreedor peticionario. Asimismo, el demandante podrá solicitar en su demanda cualquiera de las medidas señaladas en los Títulos IV y V del Libro Segundo del Código de Procedimiento Civil. El Veedor estará facultado para solicitar las medidas cautelares que estime necesarias, con cargo del acreedor peticionario, para garantizar la mantención del activo del Deudor mientras dure el Juicio de Oposición, quedando el Deudor sujeto a las restricciones señaladas en el número 2) del artículo 57 de esta ley.
 
-4) El nombre de los Liquidadores titular y suplente, para el caso que el Deudor no compareciere o no efectuare actuación alguna por escrito en la Audiencia Inicial prevista en el artículo 120.
+4) Eliminado.
 
 El Liquidador o Veedor que hubiera ejercido como tal en algún Procedimiento Concursal, no podrá asumir en otro procedimiento respecto de un mismo Deudor.
 
 #### Artículo 119
 
-Revisión, primera providencia y notificación. Presentada la demanda, el tribunal competente examinará en el plazo de tres días el cumplimiento de los requisitos del artículo precedente. En caso que los considere cumplidos, la tendrá por presentada, ordenará publicarla en el Boletín Concursal y citará a las partes a una audiencia que tendrá lugar al quinto día desde la notificación personal del Deudor o la realizada conforme al artículo 44 del Código de Procedimiento Civil, aun cuando no se encuentre en el lugar del juicio. En caso contrario, ordenará al demandante la corrección pertinente y fijará un plazo de tres días para que los subsane, bajo apercibimiento de tener por no presentada la demanda.
+Revisión, primera providencia y notificación. Presentada la demanda, el tribunal competente examinará en el plazo de tres días el cumplimiento de los requisitos del artículo precedente. En caso que los considere cumplidos, la tendrá por presentada y citará a las partes a una audiencia que tendrá lugar al quinto día desde la notificación personal del Deudor o la realizada conforme al artículo 44 del Código de Procedimiento Civil, aun cuando no se encuentre en el lugar del juicio. En caso contrario, ordenará al demandante la corrección pertinente y fijará un plazo de tres días para que los subsane, bajo apercibimiento de tener por no presentada la demanda.
 
 #### Artículo 120
 
@@ -1306,7 +1382,7 @@ Audiencia Inicial. La Audiencia Inicial se desarrollará conforme a las siguient
 
 1) El tribunal informará al Deudor acerca de la demanda presentada en su contra y de los efectos de un eventual Procedimiento Concursal de Liquidación.
 
-2) Acto seguido, el Deudor podrá proponer por escrito o verbalmente alguna de las actuaciones señaladas en los literales siguientes, debiendo siempre señalar el nombre o razón social, domicilio y correo electrónico de sus tres acreedores, o sus representantes legales, que figuren en su contabilidad con los mayores créditos. Si el Deudor no cumple con este requisito el tribunal tendrá por no presentada la actuación y dictará de inmediato la Resolución de Liquidación, nombrando a los Liquidadores titular y suplente, ambos en carácter de provisionales, que el acreedor peticionario hubiere designado en su demanda, conforme a lo dispuesto en el número 4 del artículo 118. Las referidas actuaciones podrán ser:
+2) Acto seguido, el Deudor podrá proponer por escrito o verbalmente alguna de las actuaciones señaladas en los literales siguientes, debiendo siempre señalar el nombre o razón social, domicilio y correo electrónico de sus tres acreedores, o sus representantes legales, que figuren en su contabilidad con los mayores créditos. Si el Deudor no cumple con este requisito el tribunal tendrá por no presentada la actuación y dictará la Resolución de Liquidación, previo requerimiento a la Superintendencia de la realización del sorteo de conformidad al artículo 37, para efectos de designar a los Liquidadores titular y suplente, ambos en carácter de provisional. Las referidas actuaciones podrán ser:
 
 a) Consignar fondos suficientes para el pago del crédito demandado y las costas correspondientes. El tribunal tendrá por efectuada la consignación, ordenará practicar la liquidación del crédito, la regulación y tasación de las costas y señalará el plazo en que el Deudor deberá pagarlos, el que se contará desde que esas actuaciones se encuentren firmes. Si el Deudor no pagare en el plazo fijado, el tribunal dictará la respectiva Resolución de Liquidación.
 
@@ -1314,11 +1390,9 @@ b) Allanarse por escrito o verbalmente a la demanda, dictando en este caso el tr
 
 c) Acogerse expresamente al Procedimiento Concursal de Reorganización contemplado en el Capítulo III de esta ley.
 
-d) Oponerse a la demanda de Liquidación Forzosa, en cuyo caso se observarán las disposiciones del Párrafo 3 del presente Título. La oposición del Deudor sólo podrá fundarse en las causales previstas en el artículo 464 del Código de Procedimiento Civil.
+d) Oponerse a la demanda de Liquidación Forzosa, en cuyo caso se observarán las disposiciones del Párrafo 3 del presente Título. En caso de haberse invocado las causales del numeral 1) y/o 2) del artículo 117, la oposición del Deudor sólo podrá fundarse en las excepciones previstas en el artículo 464 del Código de Procedimiento Civil. De haberse deducido la demanda en virtud de lo dispuesto en el numeral 3) del artículo 117, el Deudor podrá fundar la oposición en la falta de concurrencia de uno o más de los requisitos de dicha causal.
 
-3) Si el Deudor no compareciere a esta audiencia, o compareciendo no efectúa alguna de las actuaciones señaladas en el número 2 anterior, el tribunal dictará la Resolución de Liquidación y nombrará a los Liquidadores titular y suplente que el acreedor peticionario hubiere designado en su demanda, ambos en carácter de provisionales, conforme a lo dispuesto en el número 4 del artículo 118.
-
-De lo obrado en esta audiencia se levantará acta, la que deberá ser firmada por los comparecientes y el secretario del tribunal.
+3) Si el Deudor no compareciere a esta audiencia, o compareciendo no efectúa alguna de las actuaciones señaladas en el número 2), el tribunal dictará la Resolución de Liquidación, previo requerimiento a la Superintendencia de la realización de un sorteo de conformidad al artículo 37, y designará a los Liquidadores titular y suplente, ambos en carácter de provisionales. Desde dicho requerimiento hasta la dictación de Resolución de Liquidación el Deudor tendrá la calidad de depositario provisional para todos los efectos legales.
 
 ### Párrafo 3 — . Del Juicio de Oposición
 
@@ -1440,15 +1514,21 @@ En consecuencia, serán nulos los actos y contratos posteriores que el Deudor ej
 
 #### Artículo 131
 
-Resolución de controversias entre partes. Todas las cuestiones que se susciten entre el Deudor, el Liquidador y cualquier otro interesado en relación a la administración de los bienes sujetos al Procedimiento Concursal de Liquidación serán resueltas por el tribunal en audiencias verbales, a solicitud del interesado y conforme a las reglas que siguen:
+Resolución de controversias entre partes. Todas las cuestiones que se susciten entre el Deudor, el Liquidador y cualquier otro interesado en relación con el dominio, la posesión, la mera tenencia o la administración de los bienes sujetos al Procedimiento Concursal de Liquidación, o la sustanciación del procedimiento, serán tramitadas en cuaderno separado y resueltas por el tribunal, a solicitud del interesado y conforme a las reglas que siguen:
 
-a) El solicitante deberá exponer por escrito al tribunal tanto la petición que formula como los antecedentes que le sirven de sustento.
+a) El solicitante deberá exponer por escrito al tribunal tanto la petición que formula como los antecedentes que le sirven de sustento, con indicación de los medios de prueba de los que se pretende valer.
 
 b) El tribunal analizará la petición y podrá desecharla de plano si considera que carece de fundamento plausible.
 
-c) En caso contrario, citará a las partes a una audiencia verbal que se notificará por el Estado Diario, se publicará por el Liquidador en el Boletín Concursal y se celebrará en el menor tiempo posible.
+c) En caso contrario, el tribunal conferirá traslado de este incidente a las partes a fin de que puedan exponer lo que estimen conveniente a sus derechos, junto con ofrecer los medios de prueba de los que se valdrán para acreditar sus pretensiones. Dicha resolución será notificada por el estado diario.
 
-d) El Liquidador podrá comparecer personalmente o a través de su apoderado judicial. La audiencia se celebrará con las partes que asistan y la resolución que adopte el tribunal sólo será susceptible de reposición, la que deberá deducirse y resolverse en la misma audiencia.
+d) Evacuado el traslado o en su rebeldía, el tribunal evaluará si existieren hechos pertinentes, sustanciales y controvertidos, en cuyo caso recibirá la causa a prueba, y citará a una audiencia dentro de quinto día, donde se deberá rendir la prueba que ofrezcan las partes. En caso contrario, resolverá la solicitud sin más trámite. Dicha resolución será notificada por el estado diario.
+
+e) A la audiencia de prueba señalada en el literal d), el Liquidador podrá comparecer personalmente o a través de su apoderado judicial. La audiencia se celebrará con las partes que asistan.
+
+f) El tribunal apreciará la prueba según las reglas de la sana crítica y fallará la petición del solicitante dentro de los veinte días contados desde la fecha de celebración de la audiencia del literal anterior. Dicha resolución será notificada por el estado diario y será susceptible de recurso de apelación.
+
+En lo no regulado por este artículo regirá lo dispuesto en el Título IX del Libro Primero del Código de Procedimiento Civil.
 
 #### Artículo 132
 
@@ -1716,9 +1796,31 @@ Asesoría general al Liquidador. En las diligencias de incautación e inventario
 
 #### Artículo 169
 
-Deber de colaboración del Deudor. El Deudor deberá indicar y poner a disposición del Liquidador todos sus bienes y antecedentes. En caso que el Deudor se negare o no pudiere dar cumplimiento a lo anterior, el deber recaerá en cualquiera de sus administradores, si los hubiera.
+Deber de colaboración del Deudor. El Deudor deberá indicar y poner a disposición del Liquidador todos los bienes y antecedentes exigidos por la presente ley o el tribunal, bajo apercibimiento de arresto hasta por dos meses o multa que no podrá exceder las 10 unidades tributarias mensuales. En caso que el Deudor se negare o no pudiere dar cumplimiento a lo anterior, el deber recaerá en cualquiera de sus administradores, si los hubiera.
 
-Sin perjuicio de lo anterior, el Liquidador podrá solicitar el auxilio de la fuerza pública en caso de oposición del Deudor o de sus administradores, para lo cual bastará la exhibición de copia autorizada de la Resolución de Liquidación al jefe de turno de la respectiva unidad de Carabineros de Chile.
+Sin perjuicio de lo anterior, el Liquidador podrá solicitar el auxilio de la fuerza pública en caso de oposición del Deudor o de sus administradores, para lo cual bastará la exhibición de copia autorizada de la Resolución de Liquidación al jefe de turno de la respectiva unidad de Carabineros de Chile. En este caso, el Liquidador deberá solicitar al tribunal que declare la mala fe del Deudor, conforme a lo establecido en el artículo 169 A. Cualquier acreedor podrá efectuar la misma solicitud.
+
+#### Artículo 169
+
+A.- Declaración de mala fe. En cualquier etapa del procedimiento y mientras no se encontrare firme o ejecutoriada la resolución de término, el Liquidador deberá solicitar al tribunal que declare la mala fe del Deudor. Cualquier acreedor podrá efectuar la misma solicitud. Para ello debe concurrir alguna de las siguientes circunstancias:
+
+1. Cuando los antecedentes documentales o la indicación de los activos del Deudor informados de conformidad a los artículos 115 o 273 A, fueren incompletos o falsos.
+
+2. Cuando el Deudor, dentro de los dos años anteriores o durante el Procedimiento Concursal, hubiere destruido u ocultado información o antecedentes documentales.
+
+3. Cuando el Deudor, dentro de los dos años anteriores o durante el Procedimiento Concursal, hubiere realizado actos que impliquen la distracción u ocultación de bienes o derechos de su patrimonio.
+
+4. Cuando el tribunal hubiere acogido por medio de una sentencia firme o ejecutoriada una acción prevista en el Capítulo VI.
+
+5. Cuando el Deudor hubiere sido condenado, en el marco del mismo Procedimiento Concursal, por cualquiera de los delitos concursales previstos en el Párrafo 7 del Título IX del Libro Segundo del Código Penal.
+
+La solicitud a que se refiere el presente artículo se tramitará en cuaderno separado como incidente. La prueba se valorará de conformidad con las reglas de la sana crítica. En todo lo demás regirán las normas del Título IX del Libro Primero del Código de Procedimiento Civil.
+
+Tratándose de la circunstancia descrita en los numerales 4) y 5) del inciso primero, el tribunal resolverá la solicitud de plano.
+
+La resolución que acoja la solicitud y determine la mala fe del Deudor, deberá, valorando la gravedad de los hechos, determinar que, al término del procedimiento, no se extinguirán los saldos insolutos o sólo se extinguirá un porcentaje a prorrata respecto de todos los acreedores. Esta resolución sólo producirá los efectos señalados en este inciso.
+
+La resolución que falle este incidente será apelable en el solo efecto devolutivo.
 
 ### Párrafo 6 — . De la determinación del pasivo
 
@@ -1804,7 +1906,7 @@ Tendrán derecho a voz:
 
 3) El Deudor.
 
-4) El Superintendente de Insolvencia y Emprendimiento, o quien éste designe.
+4) El Superintendente de Insolvencia y Reemprendimiento, o quien éste designe.
 
 #### Artículo 183
 
@@ -1862,9 +1964,9 @@ Del derecho a voto. Tendrán derecho a voto aquellos acreedores cuyos créditos 
 
 Audiencia de determinación del derecho a voto. Corresponderá al tribunal determinar el derecho a voto respecto de los acreedores indicados en el artículo anterior cuyos créditos no estén reconocidos, debiendo sujetar su decisión a las reglas siguientes:
 
-1) Deberá celebrarse una audiencia el día inmediatamente anterior a la Junta de Acreedores, ante el tribunal y en presencia del secretario, a la que asistirán el Liquidador, el Deudor y los acreedores, estos dos últimos, si lo estiman pertinente.
+1) Deberá celebrarse una audiencia el mismo día y con anterioridad a la Junta Constitutiva, ante el tribunal y en presencia del secretario, a la que asistirán el Liquidador, el Deudor y los acreedores, estos dos últimos, si lo estiman pertinente. En el caso de que la Junta Constitutiva no se celebre en las dependencias del tribunal, dicha audiencia deberá celebrarse el día anterior a la respectiva junta.
 
-2) La audiencia se celebrará a las 15:00 horas, horario que podrá ser modificado por el tribunal, de oficio o a petición de parte.
+2) La audiencia se celebrará en el horario que establezca el tribunal, teniendo presente lo dispuesto en el numeral 10) del inciso primero del artículo 129.
 
 3) La audiencia comenzará con la entrega de un informe escrito del Liquidador al tribunal acerca de la verosimilitud de la existencia y monto reclamado de los créditos no reconocidos. El informe se deberá referir especialmente a aquellos créditos que estén en alguna de las circunstancias previstas en el artículo 188. El Informe incluirá todos los créditos no reconocidos que se hubieren verificado hasta el día inmediatamente anterior a dicha audiencia.
 
@@ -1897,6 +1999,8 @@ De la Junta Constitutiva. Es la primera Junta de Acreedores que se celebra una v
 #### Artículo 194
 
 Segunda citación a la Junta Constitutiva. En caso de no celebrarse la Junta Constitutiva por falta del quórum necesario para sesionar, ésta deberá efectuarse el segundo día, a la misma hora y en igual lugar. El secretario del tribunal deberá dejar constancia de esta situación en el acta que se levante y desde entonces los acreedores se entenderán legalmente notificados de esa segunda citación. La Junta así convocada se tendrá por constituida y se celebrará con los acreedores que asistan, adoptándose las decisiones con Quórum Simple de los presentes, sin perjuicio de las materias que exijan quórum distintos.
+
+En caso de no celebrarse la Junta Constitutiva en primera citación, el tribunal podrá resolver, sin más trámite, de oficio o a petición de parte, dar curso a los efectos del artículo 195.
 
 #### Artículo 195
 
@@ -1998,7 +2102,7 @@ Comisión de acreedores. La Junta de Acreedores podrá acordar, con Quórum Cali
 
 Ámbito de aplicación. La realización simplificada o sumaria prevista en este Título se aplicará en los siguientes casos:
 
-a) Si el Deudor califica como micro empresa, de conformidad a lo dispuesto en el artículo segundo de la ley Nº 20.416, circunstancia que será acreditada por el Liquidador, para lo cual podrá requerir al Servicio de Impuestos Internos la información relativa al nivel de ventas del Deudor.
+a) Suprimido.
 
 b) Si el Liquidador informare a los acreedores en la Junta Constitutiva que el producto probable de la realización del activo a liquidar no excederá las 5.000 unidades de fomento. Si el Deudor o cualquier acreedor no estuviere de acuerdo con la estimación efectuada por el Liquidador, deberá formular verbalmente su oposición en la misma Junta Constitutiva. El tribunal, luego de escuchar a los interesados y al Liquidador, deberá resolver la controversia en la misma Junta. Contra la resolución que pronuncie no procederá recurso alguno.
 
@@ -2388,7 +2492,7 @@ Renunciabilidad de créditos de origen laboral. No podrán renunciarse los monto
 
 Propuesta de reparto de fondos. El Liquidador deberá proponer a los acreedores un reparto de fondos siempre que se reúnan los siguientes requisitos copulativos:
 
-1) Disponibilidad de fondos para abonar a los acreedores reconocidos una cantidad no inferior al cinco por ciento de sus acreencias.
+1) Disponibilidad de fondos para abonar a los acreedores reconocidos una cantidad no inferior al cinco por ciento de sus acreencias, salvo que por acuerdo en Junta de Acreedores, con quórum simple, los acreedores acuerden un reparto por un porcentaje inferior.
 
 2) Reserva previa de los dineros suficientes para solventar los gastos del Procedimiento Concursal de Liquidación y los créditos de igual o mejor derecho cuya impugnación se encuentre pendiente.
 
@@ -2450,15 +2554,23 @@ Destino de los fondos en caso de no comparecencia. Si algún acreedor comprendid
 
 #### Artículo 254
 
-Resolución de término. Una vez publicada la resolución que tuvo por aprobada la Cuenta Final de Administración en los términos descritos en los artículos 49 y siguientes, el tribunal, de oficio, a petición de parte o de la Superintendencia, dictará una resolución declarando terminado el Procedimiento Concursal de Liquidación.
+Resolución de término. Una vez publicada la resolución que tuvo por aprobada la Cuenta Final de Administración en los términos descritos en los artículos 49 y siguientes, el tribunal, de oficio, a petición de parte o de la Superintendencia, dictará una resolución declarando terminado el Procedimiento Concursal de Liquidación, la que deberá ser publicada por el Liquidador en el Boletín Concursal, dentro del plazo de cinco días contado desde la dictación de la resolución de término.
 
-Con la resolución de término del Procedimiento Concursal de Liquidación, el Deudor recuperará la libre administración de sus bienes.
+"Si se hubiere promovido el incidente del artículo 169 A o deducido las acciones previstas en el Capítulo VI, el tribunal no podrá dictar la resolución de término sino hasta que se encontrare firme o ejecutoriada la resolución que falla el incidente, en el primer caso, o la sentencia que se pronuncia sobre las acciones deducidas, en el segundo.
 
 #### Artículo 255
 
-Efectos de la Resolución de Término. Una vez que se encuentre firme o ejecutoriada la resolución que declara el término del Procedimiento Concursal de Liquidación, se entenderán extinguidos por el solo ministerio de la ley y para todos los efectos legales los saldos insolutos de las obligaciones contraídas por el Deudor con anterioridad al inicio del Procedimiento Concursal de Liquidación.
+Efectos de la Resolución de Término en los Procedimientos Concursales de Liquidación. Una vez que se encuentre firme o ejecutoriada la resolución que declara el término del Procedimiento Concursal de Liquidación, se entenderán extinguidos por el solo ministerio de la ley y para todos los efectos legales los saldos insolutos de las obligaciones contraídas por el Deudor con anterioridad al inicio del Procedimiento Concursal de Liquidación, salvo los siguientes:
 
-Extinguidas las obligaciones conforme al inciso anterior, el Deudor se entenderá rehabilitado para todos los efectos legales, salvo que la resolución señalada en el artículo precedente establezca algo distinto.
+1. Los alimentos que se deben por ley a ciertas personas de conformidad a las reglas previstas por el Título XVIII del Libro I del Código Civil y la compensación económica prevista en el Párrafo 1° del Capítulo VII de la ley N° 19.947, que establece la Nueva Ley de Matrimonio Civil.
+
+2. Las obligaciones derivadas de delitos o cuasidelitos civiles y/o penales.
+
+En aquellos casos que el tribunal resuelva, de conformidad con lo dispuesto en el artículo 169 A, que no procede la extinción de los saldos insolutos o que ésta procede en forma parcial, deberá indicarlo expresamente en la resolución de término.
+
+La extinción de las obligaciones no afectará a los derechos de los acreedores frente al fiador, codeudor, solidario o subsidiario, avalista o tercero constituyente de garantías reales para asegurar el cumplimiento de las obligaciones del Deudor, quienes no podrán invocar el beneficio previsto en el presente artículo ni podrán subrogarse en los derechos de los acreedores o exigir un reembolso por los pagos efectuados.
+
+Ejecutoriada la resolución de término, cesarán todas las inhabilidades, restricciones y prohibiciones que esta ley u otras leyes imponen al Deudor, salvo que la resolución señalada en el artículo precedente establezca algo distinto por haberse acogido el incidente de mala fe de conformidad con lo dispuesto en el artículo 169 A.
 
 #### Artículo 256
 
@@ -2496,17 +2608,27 @@ Si se acogen las impugnaciones al Acuerdo de Reorganización Judicial por resolu
 
 ## Capítulo V
 
-DE LOS PROCEDIMIENTOS CONCURSALES DE LA PERSONA DEUDORA
+DE LOS PROCEDIMIENTOS CONCURSALES ESPECIALES
 
 ## Título 1 — Del Procedimiento Concursal de Renegociación de la Persona Deudora.
 
 #### Artículo 260
 
-Ámbito de aplicación y requisitos. El Procedimiento Concursal de Renegociación será aplicable sólo a la Persona Deudora, que para efectos de este Capítulo se denominará indistintamente Persona Deudora o Deudor.
+Ámbito de aplicación y requisitos. El Procedimiento Concursal de Renegociación será aplicable sólo a la Persona Deudora, que para efectos de este Título se denominará indistintamente Persona Deudora o Deudor.
 
-La Persona Deudora podrá someterse a un Procedimiento Concursal de Renegociación si tuviere dos o más obligaciones vencidas por más de 90 días corridos, actualmente exigibles, provenientes de obligaciones diversas, cuyo monto total sea superior a 80 unidades de fomento, siempre y cuando no haya sido notificada de una demanda que solicite el inicio de un Procedimiento Concursal de Liquidación o de cualquier otro juicio ejecutivo iniciado en su contra que no sea de origen laboral.
+La Persona Deudora podrá someterse a un Procedimiento Concursal de Renegociación si tuviere dos o más obligaciones vencidas por más de 90 días corridos, actualmente exigibles, provenientes de obligaciones diversas, cuyo monto total sea superior a 80 unidades de fomento, siempre y cuando no haya sido notificada de una demanda que solicite el inicio de un Procedimiento Concursal de Liquidación Simplificada.
 
-El expediente que se genere en la Superintendencia a raíz de las actuaciones y resoluciones a las que se refiere este Capítulo será público, sin perjuicio de lo dispuesto en el número 2 del artículo 21 de la ley de transparencia de la función pública y de acceso a la información de la Administración del Estado, contenida en el artículo primero de la ley Nº 20.285.
+Quedarán excluidas del Procedimiento Concursal de Renegociación de la Persona Deudora las siguientes obligaciones:
+
+1. Los alimentos que se deben por ley a ciertas personas de conformidad a las reglas previstas por el Título XVIII del Libro I del Código Civil y la compensación económica prevista en el Párrafo 1° del Capítulo VII de la ley N° 19.947, que establece la Nueva Ley de Matrimonio Civil.
+
+2. Las obligaciones derivadas de delitos o cuasidelitos civiles.
+
+3. Las obligaciones por multa y demás sanciones pecuniarias penales y aquellas de carácter especial que la Superintendencia determine mediante norma de carácter general.
+
+Sin perjuicio de lo anterior, estas obligaciones deberán ser incluidas en los antecedentes exigidos en el artículo 261.
+
+El expediente que se genere en la Superintendencia a raíz de las actuaciones y resoluciones a las que se refiere este Título será público, sin perjuicio de lo dispuesto en el número 2 del artículo 21 de la ley de transparencia de la función pública y de acceso a la información de la Administración del Estado, contenida en el artículo primero de la ley Nº 20.285.
 
 #### Artículo 261
 
@@ -2516,17 +2638,19 @@ a) Declaración jurada con una lista de las obligaciones del Deudor, vencidas o 
 
 b) Declaración jurada con la singularización de todos los ingresos que percibe, por cualquier causa, sean éstos fijos o esporádicos, acompañando al efecto los antecedentes que los acrediten;
 
-c) Declaración jurada con el listado completo de sus bienes, con indicación de aquellos que las leyes declaren inembargables, y de los gravámenes y prohibiciones que les afecten;
+c) Declaración jurada con el listado completo de sus bienes y de los gravámenes y prohibiciones que les afecten;
 
 d) Una propuesta de renegociación de todas sus obligaciones vigentes;
 
-e) Una declaración jurada en que conste que es Persona Deudora o que, habiendo iniciado actividades comerciales, no haya prestado servicios por dichas actividades durante los veinticuatro meses anteriores a la presentación de la referida solicitud, y
+e) Una declaración jurada en que conste que es Persona Deudora, y que no se le ha notificado de la demanda de Liquidación o de cualquier otro juicio ejecutivo iniciado en su contra que no sea de origen laboral.
 
-f) Una declaración jurada en que conste que no se le ha notificado de la demanda de Liquidación o de cualquier otro juicio ejecutivo iniciado en su contra que no sea de origen laboral.
+f) Suprimido.
+
+La Superintendencia dictará una norma de carácter general que regule, en todo lo no establecido en la presente ley, las exigencias que deberá cumplir el Deudor para acreditar la información declarada en los antecedentes acompañados.
 
 #### Artículo 262
 
-Examen de admisibilidad. Dentro de los cinco días siguientes a la presentación de la solicitud de inicio del Procedimiento Concursal de Renegociación, la Superintendencia podrá:
+Examen de admisibilidad. Dentro de los diez días hábiles administrativos siguientes a la presentación de la solicitud de inicio del Procedimiento Concursal de Renegociación, la Superintendencia podrá:
 
 1) Declarar admisible la solicitud;
 
@@ -2540,9 +2664,9 @@ Resolución de Admisibilidad. La resolución de la Superintendencia que declare 
 
 1) El nombre y el número de cédula de identidad de la Persona Deudora.
 
-2) El listado inicial de los acreedores informados por la Persona Deudora con indicación de los montos adeudados por concepto de capital e intereses y sus preferencias.
+2) El listado inicial de los acreedores informados por la Persona Deudora con indicación de los montos adeudados por concepto de capital e intereses.
 
-3) El listado de bienes de la Persona Deudora informados por ella, con expresa mención de aquellos que son inembargables, y los gravámenes y prohibiciones que los afecten, si los hubieren, individualizando a los beneficiarios de estos últimos.
+3) El listado de bienes informado por la Persona Deudora, con expresa mención de aquellos que son inembargables, y los gravámenes y prohibiciones que los afecten, si los hubieren, individualizando a los beneficiarios de estos últimos.
 
 4) La comunicación a los acreedores y a terceros del inicio del Procedimiento Concursal de Renegociación y de la fecha de celebración de la audiencia de determinación del pasivo. Esta audiencia se celebrará no antes de quince ni después de treinta días contados desde la publicación de esta resolución en el Boletín Concursal.
 
@@ -2562,11 +2686,11 @@ Para los efectos de hacer valer la oposición al inicio de las ejecuciones a que
 
 4) Todos los contratos suscritos por la Persona Deudora mantendrán su vigencia y condiciones de pago, en su caso, y no será posible hacer efectivas cláusulas de resolución o caducidad fundadas en el inicio del Procedimiento Concursal de Renegociación, con la sola excepción de suspender las líneas de crédito o sobregiro que se hubieren pactado. Sin perjuicio de lo anterior, las obligaciones ya contraídas mantendrán sus condiciones de pago, sin que se pueda acelerar o aplicarles multas fundadas en el inicio del referido procedimiento. Si la contraparte de estos contratos realizare cualquier acción que importe el término de los mismos o exigiera anticipadamente el pago de su crédito, dicho crédito quedará pospuesto en su pago hasta que se paguen la totalidad de los acreedores a quienes afectará el Acuerdo de Renegociación.
 
-5) Cualquier interesado podrá observar u objetar los créditos del listado señalado en el número 2) del artículo 263 así como el listado de bienes señalado en el número 3) del mismo artículo, hasta tres días antes de la celebración de la audiencia de determinación del pasivo regulada en el artículo siguiente, pudiendo concurrir a la misma con derecho a voz y voto.
+5) Cualquier interesado podrá observar u objetar los créditos de la nómina señalada en el número 2) del artículo 263, y verificar además las preferencias de todos sus créditos, así como el listado de bienes señalado en el número 3) del mismo artículo, hasta tres días hábiles administrativos antes de la celebración de la audiencia de determinación del pasivo regulada en el artículo siguiente. También podrá concurrir a ella con derecho a voz y voto. La Superintendencia dictará una norma de carácter general que regule, en todo lo no establecido en la presente ley, la presentación y tramitación de las observaciones u objeciones.
 
 6) La Persona Deudora no podrá ejecutar actos ni celebrar contratos relativos a sus bienes embargables que sean parte de Procedimiento Concursal de Renegociación, bajo el apercibimiento de ser tenido por depositario alzado en los términos del artículo 444 del Código de Procedimiento Civil.
 
-Los efectos señalados en este artículo se extinguirán con la publicación en el Boletín Concursal del acta que contiene el Acuerdo de Renegociación o el Acuerdo de Ejecución, en su caso.
+Los efectos señalados en este artículo se extinguirán con la publicación en el Boletín Concursal de la resolución que declara finalizado el Procedimiento Concursal de Renegociación, de acuerdo con el artículo 268 o aquella que lo declara finalizado anticipadamente, de conformidad a lo dispuesto en el artículo 269.
 
 #### Artículo 265
 
@@ -2576,21 +2700,23 @@ Esta audiencia se celebrará ante el Superintendente o ante quien éste designe 
 
 La Superintendencia presentará una propuesta de nómina de pasivo teniendo en vista el listado acompañado por la Persona Deudora de acuerdo al artículo 261, lo indicado por quienes hubieren observado u objetado el referido listado de acreedores, y las observaciones que la Superintendencia pudiere sugerir.
 
-En esta audiencia, con el voto de la Persona Deudora y de la mayoría absoluta del pasivo según la propuesta señalada en el inciso anterior, se determinará el pasivo con derecho a voto. Los créditos de las Personas Relacionadas con la Persona Deudora no se considerarán para los efectos de quórum ni para las votaciones a que hubiere lugar.
+En esta audiencia, con el voto de la Persona Deudora y de dos o más acreedores que en conjunto representen más del 50 por ciento del pasivo según la propuesta señalada en el inciso anterior, se determinará el pasivo con derecho a voto. Los créditos de las Personas Relacionadas con la Persona Deudora no se considerarán para los efectos de quórum ni para las votaciones a que hubiere lugar.
 
-Si no se llegare a acuerdo respecto de la determinación del pasivo de la Persona Deudora, la Superintendencia podrá suspender esta audiencia por una vez, hasta por cinco días, con el objeto de propender al acuerdo.
+Si no se llegare a Acuerdo respecto de la determinación del pasivo de la Persona Deudora, la Superintendencia podrá suspender esta audiencia por una vez, hasta por diez días, con el objeto de propender al Acuerdo.
 
-Si aún así no se llegare a acuerdo respecto del pasivo de la Persona Deudora, en la primera o segunda audiencia, la Superintendencia deberá citar a una audiencia de ejecución, la que deberá celebrarse no antes de quince ni después de treinta días contados desde la publicación señalada en el citado artículo 263.
+Si aún así no se llegare a acuerdo respecto del pasivo de la Persona Deudora, en la primera o segunda audiencia, la Superintendencia deberá citar a una audiencia de ejecución, la que deberá celebrarse no antes de quince ni después de treinta días contados desde la fecha de celebración de la audiencia de determinación del pasivo. En caso de que no existiera acuerdo respecto de la determinación del pasivo del Deudor, la propuesta de nómina de pasivo presentada por la Superintendencia será la nómina de créditos reconocidos.
 
 En caso de acordarse el pasivo de la Persona Deudora, la Superintendencia dictará una resolución que contendrá el acta con la nómina de créditos reconocidos y la citación a todos los acreedores cuyos créditos fueron reconocidos, a la audiencia de renegociación regulada en el artículo siguiente, la cual se publicará en el Boletín Concursal dentro del segundo día siguiente.
 
-La audiencia de renegociación deberá celebrarse no antes de quince ni después de treinta días contados desde la publicación señalada.
+La audiencia de renegociación deberá celebrarse no antes de quince ni después de treinta días hábiles administrativos contados desde la publicación señalada.
 
 #### Artículo 266
 
 Audiencia de renegociación. Determinado el pasivo conforme al artículo anterior, se llevará a cabo la audiencia de renegociación en la fecha señalada en la resolución de que da cuenta el citado artículo precedente.
 
 Esta audiencia se celebrará ante el Superintendente, o ante quien éste designe, con los acreedores que asistieren o los representantes legales en su caso y la Persona Deudora, personalmente o debidamente representada. Al igual que en la audiencia de determinación del pasivo regulada en el artículo anterior, el Superintendente, o quien éste designe, facilitará la adopción de un acuerdo entre las partes.
+
+La Superintendencia podrá ajustar la propuesta presentada por el Deudor, con el consentimiento de este último, manifestado expresamente en la audiencia de renegociación.
 
 La renegociación se acordará con el voto conforme de la Persona Deudora y de dos o más acreedores que en conjunto representen más del 50% del pasivo reconocido. No se considerarán en el pasivo para los efectos del quórum ni para las votaciones a que hubiere lugar los créditos de las Personas Relacionadas con la Persona Deudora, ni los acreedores garantizados que asistan y voten en contra del Acuerdo de Renegociación propuesto.
 
@@ -2608,15 +2734,15 @@ Respecto de los acreedores cuyos créditos estén garantizados con prenda e hipo
 
 Si la obligación de la Persona Deudora está garantizada con prenda o hipoteca sobre bienes de propiedad de terceros, y el respectivo acreedor asiste y vota en contra del Acuerdo de Renegociación propuesto, su crédito no se considerará en el pasivo y podrá cobrarlo respecto de las prendas e hipotecas otorgadas por terceros. Al tercero poseedor de la finca hipotecada o propietario del bien prendado que hubiere pagado de acuerdo a lo anterior le afectarán los términos y condiciones del Acuerdo de Renegociación celebrado.
 
-Si no se acordare la renegociación, la Superintendencia podrá suspender esta audiencia por una sola vez, hasta por cinco días, con el objeto de propender al acuerdo.
+Si no se acordare la renegociación, la Superintendencia podrá suspender esta audiencia por una sola vez, hasta por diez días hábiles administrativos, con el objeto de propender al acuerdo.
 
-Si no se arribare a acuerdo, en la primera o segunda audiencia de renegociación, la Superintendencia deberá citar a una audiencia de ejecución, la que deberá celebrarse no antes de quince ni después de treinta días contados desde la publicación en el Boletín Concursal de la citación señalada.
+Si no se arribare a acuerdo, en la primera o segunda audiencia de renegociación, la Superintendencia deberá citar a una audiencia de ejecución, la que deberá celebrarse no antes de quince ni después de treinta días hábiles administrativos contados desde la publicación en el Boletín Concursal de la citación señalada.
 
-Acordada la renegociación, la Superintendencia dictará una resolución que contendrá el acta con el Acuerdo de Renegociación, suscrito por la Persona Deudora, los acreedores presentes y el Superintendente, o quien éste haya designado. El acta con el Acuerdo de Renegociación que se levante en la señalada audiencia se publicará en el Boletín Concursal dentro de los dos días siguientes.
+Acordada la renegociación, la Superintendencia dictará una resolución que contendrá el acta con el Acuerdo de Renegociación, suscrito por la Persona Deudora, los acreedores presentes y el Superintendente, o quien éste haya designado. El acta con el Acuerdo de Renegociación que se levante en la señalada audiencia se publicará en el Boletín Concursal dentro de los dos días hábiles administrativos siguientes.
 
 El Acuerdo de Renegociación afectará únicamente a los acreedores que figuren en la nómina de créditos reconocidos de acuerdo a lo señalado en el artículo anterior, hayan concurrido o no a la audiencia de renegociación.
 
-El Acuerdo de Renegociación podrá versar sobre cualquier objeto que propenda a repactar, novar o remitir las obligaciones de la Persona Deudora y no podrá ser revocado con posterioridad conforme al artículo 290 de esta ley si la Persona Deudora es sometida a un Procedimiento Concursal de Liquidación.
+El Acuerdo de Renegociación podrá versar sobre cualquier objeto que propenda a repactar, novar o remitir las obligaciones de la Persona Deudora y no podrá ser revocado con posterioridad conforme al artículo 290 de esta ley si la Persona Deudora es sometida a un Procedimiento Concursal de Liquidación Simplificada.
 
 #### Artículo 267
 
@@ -2624,31 +2750,33 @@ Audiencia de ejecución. Si no se alcanzare acuerdo respecto del pasivo de la Pe
 
 Esta audiencia se celebrará ante el Superintendente o ante quien éste designe mediante resolución, con los acreedores que asistieren o sus representantes legales, y la Persona Deudora, personalmente o debidamente representada. Al igual que en las audiencias reguladas en los artículos anteriores, el Superintendente, o quien éste designe, facilitará la adopción de un acuerdo entre las partes.
 
-En dicha audiencia la Superintendencia presentará una propuesta de realización del activo del deudor. La Persona Deudora y dos o más acreedores que representen a lo menos el 50% del pasivo reconocido con derecho a voto o el 50% del pasivo que consta en la propuesta de la Superintendencia a que se refiere el inciso tercero del artículo 265, en su caso, acordarán la fórmula de realización del activo del deudor. No se considerarán para los efectos de quórum ni para las votaciones a que hubiere lugar los créditos de las Personas Relacionadas con la Persona Deudora.
+En dicha audiencia la Superintendencia presentará una propuesta de realización del activo declarado, la que adicionalmente podrá contener un plan de reembolso del Deudor para con los acreedores de acuerdo con lo dispuesto en el presente inciso. En la propuesta se indicarán los bienes legalmente excluidos. La Persona Deudora y dos o más acreedores que representen a lo menos el 50 por ciento del pasivo reconocido con derecho a voto o el 50 por ciento del pasivo que consta en la propuesta de la Superintendencia a que se refiere el inciso tercero del artículo 265, en su caso, aprobarán la propuesta. Ésta contendrá la fórmula de realización del activo del Deudor y, si lo hubiera, un plan de reembolso con el respectivo monto que deberá pagar el Deudor para cumplir con el plan, el que mensualmente no podrá exceder del 30 por ciento de sus ingresos declarados en el procedimiento. Este plan deberá contener la forma y plazo en que deberá efectuarse dicho pago, el que no podrá exceder de seis meses contados desde la publicación del Acuerdo de Ejecución en el Boletín Concursal. No se considerarán para los efectos de quórum ni para las votaciones a que hubiere lugar los créditos de las Personas Relacionadas con la Persona Deudora.
 
 Siempre podrán formularse vías alternativas de realización de bienes de la Persona Deudora, las que serán sometidas al mismo quórum de aprobación anterior.
 
 El acuerdo de ejecución contendrá la forma en que serán realizados los bienes de la Persona Deudora y el pago a los acreedores señalados en dicho acuerdo, en la forma establecida en el Título XLI del Libro IV del Código Civil "De la Prelación de Créditos".
 
-Si no se llegare a un acuerdo, la Superintendencia remitirá los antecedentes al tribunal competente del domicilio del Deudor, el cual dictará la correspondiente Resolución de Liquidación, de acuerdo a lo dispuesto en Título 2 de este Capítulo.
+Si no se llegare a un acuerdo, la Superintendencia podrá suspender esta audiencia por una sola vez, hasta por diez días hábiles administrativos, con el objeto de propender al acuerdo.
 
-Si el acuerdo de ejecución designare a un Liquidador, éste deberá formar parte de la Nómina de Liquidadores vigente a la fecha, y sus honorarios ascenderán a un total de 30 unidades de fomento de acuerdo al artículo 40 de esta ley.
+Si no se llegare a un acuerdo tras la suspensión señalada en el inciso anterior, la Superintendencia remitirá los antecedentes al tribunal competente del domicilio del Deudor, el cual dictará la correspondiente Resolución de Liquidación, de acuerdo a lo dispuesto en Título 2 de este Capítulo.
+
+Si el acuerdo de ejecución designare a un Liquidador, éste deberá formar parte de la Nómina de Liquidadores vigente a la fecha, y sus honorarios se pagarán de conformidad con lo dispuesto en el artículo 40, los que se calcularán exclusivamente sobre el producto de la realización de los bienes del Deudor y de ningún modo respecto del aporte enterado con cargo al plan de reembolso. Si de lo anterior resultare que los honorarios del Liquidador fueren inferiores a 30 unidades de fomento, éste tendrá derecho a una remuneración única de 30 unidades de fomento, que será pagada por la Superintendencia con cargo a su presupuesto.
 
 Vencido el plazo señalado en el acuerdo para la realización de los bienes, el Liquidador, si lo hubiere, procederá al reparto de fondos en los términos del Título 5 del Capítulo IV de esta ley. Toda objeción o incidencia en relación a la gestión del Liquidador en este reparto de fondos deberá interponerse por los acreedores ante la Superintendencia, la que resolverá administrativamente en única instancia y sin ulterior recurso.
 
 El plazo para la realización del activo y el referido reparto de fondos contenidos en el acuerdo de ejecución no podrá ser superior a seis meses contado desde la publicación del Acuerdo de Ejecución en el Boletín Concursal.
 
-El acta con el Acuerdo de Ejecución que se levante en la señalada audiencia se publicará en el Boletín Concursal dentro de los dos días siguientes.
+El acta con el Acuerdo de Ejecución que se levante en la señalada audiencia se publicará en el Boletín Concursal dentro de los dos días hábiles administrativos siguientes.
 
 La Superintendencia dictará una norma de carácter general que regule, en todo lo no establecido en la presente ley, los contenidos del acuerdo de ejecución que propondrá la Superintendencia y la forma en que se desarrollará la señalada audiencia.
 
 #### Artículo 268
 
-Resolución que declara finalizado el Procedimiento Concursal de Renegociación y de la ejecución. Una vez vencido el plazo para impugnar el Acuerdo de Renegociación o el Acuerdo de Ejecución, según corresponda, o una vez resuelta y desechada la impugnación, conforme a lo establecido en el artículo 272, la Superintendencia declarará finalizado el Procedimiento Concursal de Renegociación.
+Resolución que declara finalizado el Procedimiento Concursal de Renegociación y de la ejecución. Una vez vencido el plazo para impugnar el Acuerdo de Renegociación, o una vez resuelta y desechada la impugnación, conforme a lo establecido en el artículo 272, la Superintendencia declarará finalizado el Procedimiento Concursal de Renegociación y las obligaciones respecto de los créditos que conforman dicho acuerdo se entenderán extinguidas, novadas o repactadas, según lo acordado, y la Persona Deudora se entenderá rehabilitada para todos los efectos legales. Para ello, la Superintendencia emitirá un certificado de incobrabilidad a solicitud de los acreedores titulares de las deudas remitidas, que les permita castigar sus créditos en conformidad a la ley cuando corresponda.
 
-Si el referido procedimiento hubiere finalizado en virtud de un Acuerdo de Ejecución, se entenderán extinguidos, por el solo ministerio de la ley, los saldos insolutos de las obligaciones contraídas por la Persona Deudora respecto de los créditos parte de dicho acuerdo, a contar de la publicación de esta resolución en el Boletín Concursal.
+Una vez verificado el cumplimiento del plazo establecido en el Acuerdo de Ejecución para la realización de los bienes del Deudor, la Superintendencia declarará finalizado el Procedimiento Concursal de Renegociación y los saldos insolutos de las obligaciones de la Persona Deudora respecto de los créditos parte de dicho acuerdo se entenderán extinguidos por el solo ministerio de la ley.
 
-Si el referido procedimiento hubiere finalizado en virtud de un Acuerdo de Renegociación, las obligaciones respecto de los créditos que conforman dicho acuerdo se entenderán extinguidas, novadas o repactadas, según lo acordado, y la Persona Deudora se entenderá rehabilitada para todos los efectos legales. Para ello, la Superintendencia emitirá un certificado de incobrabilidad a solicitud de los acreedores titulares de las deudas remitidas, que les permita castigar sus créditos en conformidad a la ley cuando corresponda.
+La extinción de las obligaciones no afectará a los derechos de los acreedores frente al fiador, codeudor, solidario o subsidiario, avalista o tercero constituyente de garantías reales para asegurar el cumplimiento de las obligaciones del Deudor, quienes no podrán invocar el beneficio previsto en el presente artículo ni podrán subrogarse en los derechos de los acreedores o exigir un reembolso por los pagos efectuados.
 
 #### Artículo 269
 
@@ -2662,7 +2790,9 @@ Término anticipado del Procedimiento Concursal de Renegociación y sus efectos.
 
 4) Si con posterioridad al inicio del procedimiento aparecieren bienes no declarados por la Persona Deudora en los antecedentes a que se refiere el artículo 261.
 
-Declarado el término anticipado del Procedimiento Concursal de Renegociación, finalizarán los efectos de la Resolución de Admisibilidad regulados en el artículo 264. Vencido el plazo para reponer administrativamente en los términos del artículo 270 sin que se hubiere presentado un recurso de reposición, o habiéndose presentado se hubiere rechazado, la Superintendencia remitirá los antecedentes al tribunal competente, el que dictará la correspondiente resolución de liquidación de los bienes de la Persona Deudora, de acuerdo a lo dispuesto en el Título 2 de este Capítulo.
+5) Si llegado el plazo establecido en el Acuerdo de Ejecución, no se informa a la Superintendencia su cumplimiento, de conformidad a lo establecido en el Acuerdo.
+
+Declarado el término anticipado del Procedimiento Concursal de Renegociación, finalizarán los efectos de la Resolución de Admisibilidad regulados en el artículo 264. Vencido el plazo para reponer administrativamente en los términos del artículo 270 sin que se hubiere presentado un recurso de reposición, o habiéndose presentado se hubiere rechazado, la Superintendencia remitirá los antecedentes al tribunal competente, el que dictará la correspondiente Resolución de Liquidación, de acuerdo a lo dispuesto en el Título 2 de este Capítulo.
 
 #### Artículo 270
 
@@ -2690,7 +2820,7 @@ De la impugnación del Acuerdo de Renegociación o del Acuerdo de Ejecución. El
 
 4) Si con posterioridad a la celebración de un Acuerdo de Renegociación o de un Acuerdo de Ejecución aparecieran bienes.
 
-La impugnación deberá deducirse ante el tribunal al que le corresponderá conocer del Procedimiento Concursal de Liquidación de los Bienes de la Persona Deudora, dentro del plazo de diez días contado desde la publicación del Acuerdo de Renegociación o del Acuerdo de Ejecución en el Boletín Concursal.
+La impugnación deberá deducirse ante el tribunal al que le corresponderá conocer del Procedimiento Concursal de Liquidación Simplificada, dentro del plazo de diez días contado desde la publicación del Acuerdo de Renegociación o del Acuerdo de Ejecución en el Boletín Concursal.
 
 Las impugnaciones al Acuerdo de Renegociación o al Acuerdo de Ejecución se tramitarán conforme a las normas del juicio sumario y contra la resolución que se pronuncie no procederá recurso alguno.
 
@@ -2702,31 +2832,99 @@ El Acuerdo de Renegociación o el Acuerdo de Ejecución regirá no obstante las 
 
 En el caso anterior, los actos y contratos ejecutados o celebrados por el Deudor en el tiempo que medie entre el Acuerdo de Renegociación o el Acuerdo de Ejecución y la fecha en que queda ejecutoriada la resolución que acoja las impugnaciones, no podrán dejarse sin efecto.
 
-## Título 2 — Del Procedimiento Concursal de Liquidación de los Bienes de la Persona Deudora
+#### Artículo 272
 
-### Párrafo 1 — . De la Liquidación Voluntaria de los Bienes de la Persona Deudora
+A.- Modificación del Acuerdo de Renegociación. La Persona Deudora a la que le fuere imposible dar cumplimiento al Acuerdo de Renegociación podrá solicitar su modificación por una sola vez, siempre que acredite que al menos el 50 por ciento de las obligaciones declaradas por ella proviene de acreencias del Acuerdo de Renegociación originalmente pactado.
+
+Para todos los efectos legales, la modificación se tramitará como un nuevo Procedimiento Concursal de Renegociación de la Persona Deudora. Sin perjuicio de lo anterior, la solicitud deberá indicar, además de lo señalado en el artículo 261, las obligaciones del Acuerdo Concursal de Renegociación respecto de las cuales el Deudor se encuentra en mora.
+
+La resolución de la Superintendencia que declare admisible el procedimiento deberá individualizar el Acuerdo de Renegociación que será modificado.
+
+#### Artículo 272
+
+B.- Antecedentes que debe remitir la Superintendencia respecto de las Personas Deudoras. Cada vez que la ley ordene a la Superintendencia remitir antecedentes al tribunal competente para que se dicte la Resolución de Liquidación, se entenderá que deberá remitir:
+
+1. Copia de los antecedentes aportados por la Persona Deudora, a los que se refiere el artículo 261.
+
+2. Copia de la resolución a que se refiere el artículo 263.
+
+3. Copia de la propuesta de determinación del pasivo a que se refiere el artículo 265.
+
+4. Copia del acta de la audiencia de ejecución, en que conste que no se arribó a acuerdo.
+
+5. Copia de la resolución que declare terminado anticipadamente el Procedimiento Concursal de Renegociación, en los términos del artículo 269.
+
+## Título 2 — Del Procedimiento Concursal de Liquidación Simplificada
+
+### Párrafo 1 — . Del Procedimiento Concursal de Liquidación Voluntaria Simplificada
 
 #### Artículo 273
 
-Ámbito de aplicación y requisitos. Toda Persona Deudora podrá solicitar ante el tribunal competente la liquidación voluntaria de sus bienes, acompañando los siguientes antecedentes:
+El procedimiento de este Título se aplicará a Personas Deudoras y a Empresas Deudoras que califiquen como micro o pequeña empresa de acuerdo con el artículo segundo de la ley N° 20.416 y con el artículo 505 bis del Código del Trabajo. Para efectos de este Título se les denominará indistintamente como Deudor.
 
-1) Lista de sus bienes, lugar en que se encuentren y los gravámenes que les afecten;
+La circunstancia de ser el Deudor una Empresa Deudora que cumpla con los requisitos del inciso anterior será acreditada a través de una declaración jurada suscrita por el representante del Deudor o el Deudor, según corresponda, y acompañando la información que determinará la Superintendencia por norma de carácter general.
 
-2) Lista de los bienes legalmente excluidos de la Liquidación de los Bienes de la Persona Deudora;
+Los modelos de declaración jurada se regularán por la Superintendencia en la norma de carácter general señalada en el inciso anterior y estarán disponibles en sus dependencias y en su sitio web.
 
-3) Relación de juicios pendientes con efectos patrimoniales, y
+Será aplicable a este procedimiento lo dispuesto en el Capítulo IV en todo aquello que no sea contrario a las disposiciones del presente párrafo.
 
-4) Estado de deudas, con nombre, domicilio y datos de contacto de los acreedores, así como la naturaleza de sus créditos.
+#### Artículo 273
+
+A.- Antecedentes de la solicitud. El Deudor que inicie un Procedimiento Concursal de Liquidación Voluntaria Simplificada deberá acompañar los siguientes antecedentes y documentos:
+
+1. Nómina de todos los bienes que sean de su dominio, si los hubiere, con indicación de su avalúo comercial, su estado de conservación, los gravámenes que les afecten y el lugar donde se ubican, incluyendo todos aquellos que se encuentren en su poder en una calidad distinta de la de dueño y aquellos bienes constituidos en garantía a su favor y la documentación que lo acredite. Asimismo, deberá indicar su participación en sociedades, comunidades y comunidades hereditarias.
+
+2. Documentación que acredite el dominio de los bienes señalados en el numeral anterior, respecto de los cuales exista registro, si los hubiere. Particularmente, en el caso de los bienes raíces, el certificado de dominio vigente emitido por el Conservador de Bienes Raíces respectivo. Asimismo, en el caso de los vehículos motorizados, el certificado de anotaciones vigentes de vehículos motorizados emitido por el Servicio de Registro Civil e Identificación.
+
+3. Nómina de los bienes legalmente excluidos del Procedimiento Concursal de Liquidación Voluntaria Simplificada.
+
+4. Relación de juicios pendientes con efectos patrimoniales, si los hubiere.
+
+5. Estado de deudas, con indicación del nombre de los acreedores, la naturaleza y monto de sus créditos. Adicionalmente, el informe de deuda emitido por la Comisión para el Mercado Financiero o la autoridad que corresponda.
+
+6. Nómina de los trabajadores, cualquiera sea su situación contractual, con indicación de las prestaciones derivadas de la relación laboral adeudadas y fueros en su caso, incluyendo antecedentes que den cuenta del estado de pago de las cotizaciones de seguridad social y de las liquidaciones de sueldo, si corresponde.
+
+7. Copia de las cartolas históricas de las cuentas corrientes y cuentas vistas asociadas al Deudor, en el caso de las Empresas Deudoras que sean personas jurídicas. En el caso de la Empresa Deudora que sea persona natural deberá acompañar sólo copia de las cartolas históricas de las cuentas corrientes y cuentas vistas asociadas a su actividad económica, con dos años de anterioridad al inicio del Procedimiento Concursal de Liquidación Simplificada y emitidas dentro de los cinco días anteriores a la presentación de la solicitud de inicio de este procedimiento, para ambos casos.
+
+8. Copia de los antecedentes contenidos en la carpeta tributaria electrónica.
+
+9. Declaración jurada que indique que los antecedentes y documentos que se adjuntan a esta solicitud de inicio del Procedimiento Concursal de Liquidación Voluntaria Simplificada son completos y fehacientes.
+
+Tratándose de una Persona Deudora, los antecedentes de carácter patrimonial y tributario acompañados al procedimiento serán de carácter reservado, y sólo tendrán acceso a ellos el Liquidador, los acreedores y la Superintendencia. Ninguno de estos antecedentes podrá ser almacenado ni utilizado con otros fines que los propios de este procedimiento, y deberán ser eliminados al término de éste.
+
+La Superintendencia, mediante norma de carácter general, establecerá el formato y contenido de esta solicitud.
+
+Si se trata de una persona jurídica, los documentos referidos serán firmados por sus representantes legales.
+
+#### Artículo 273
+
+B.- Admisibilidad. No podrá solicitar la Liquidación Voluntaria de sus bienes el Deudor respecto del cual exista una resolución de término de un Procedimiento Concursal de Liquidación o de Liquidación Simplificada firme y ejecutoriada, sino una vez transcurridos cinco años contados desde la fecha de su publicación.
+
+Asimismo, el juez podrá denegar dar curso a la solicitud de Liquidación Voluntaria, ante la insuficiencia o incumplimiento de cualquiera de los requisitos o antecedentes mencionados en el artículo anterior.
+
+No obstante lo anterior, el juez no podrá denegar la dictación de la Resolución de Liquidación en los Procedimientos Concursales de Liquidación Simplificada cuando ellos se inicien en virtud de las disposiciones de otros procedimientos concursales.
 
 #### Artículo 274
 
-Tramitación y resolución. Conjuntamente con lo dispuesto en el artículo anterior, la Persona Deudora solicitará la nominación del Liquidador de conformidad a lo dispuesto en el artículo 37 de esta ley.
+Tramitación y Resolución de Liquidación. Presentada la solicitud de inicio por el Deudor, se solicitará la nominación del Liquidador de conformidad a lo dispuesto en el artículo 37 de esta ley.".
 
-Recibido el Certificado de Nominación, el tribunal dictará la resolución de liquidación de los bienes de la Persona Deudora, la que contendrá las menciones señaladas en el artículo 129 y será publicada en el Boletín Concursal, conforme lo dispone el inciso final de dicha norma.
+Recibido el Certificado de Nominación, el tribunal dictará la Resolución de Liquidación de los bienes de la Persona Deudora, la que contendrá las menciones señaladas en el artículo 129 y será publicada en el Boletín Concursal, conforme lo dispone el inciso final de dicha norma. Respecto de los efectos de la Resolución de Liquidación regirá lo dispuesto en el Párrafo 4 del Título 1 del Capítulo IV.
+
+En la Resolución de Liquidación, la orden establecida en el número 3) del inciso primero del artículo 129 de proceder a la incautación será reemplazada por la orden de requerir al Deudor la entrega de los bienes o su incautación, según corresponda, de conformidad a lo dispuesto en el artículo 275.
 
 #### Artículo 275
 
-Efectos de la resolución de liquidación de los bienes de la Persona Deudora. Será aplicable a este procedimiento lo dispuesto en los Párrafos 4 y 5 del Título 1 del Capítulo IV de esta ley en todo aquello que no sea contrario con la naturaleza de la Persona Deudora.
+De la entrega de los bienes. En los procedimientos regulados en el presente párrafo, no será necesaria la diligencia de incautación.
+
+El Liquidador requerirá al Deudor la entrega de los bienes a lo menos cinco días antes de la fecha de su realización. En dicho requerimiento, el Liquidador levantará un acta de recepción en la que se señalará día, lugar y hora en la que se entregaron los bienes, la que será firmada tanto por el Deudor como por el Liquidador.
+
+Esta acta deberá ser publicada por el Liquidador en el Boletín Concursal dentro de los dos días siguientes a la recepción.
+
+En el tiempo que intermedie el inicio del procedimiento y el levantamiento del acta de recepción de los bienes, el Deudor quedará en calidad de depositario provisional para todos los efectos legales.
+
+Sin perjuicio de lo anterior, de forma excepcional y fundada, el tribunal podrá disponer en la Resolución de Liquidación, previo análisis de los documentos acompañados por el Deudor de conformidad a lo dispuesto en el artículo 273 A, la realización de la diligencia de incautación, y deberá el Liquidador levantar la respectiva acta de incautación e inventario en el lugar en que se encuentren los bienes, conforme a las normas del Párrafo 5 del Título 1 del Capítulo IV.
+
+Asimismo, si durante la tramitación del procedimiento el Deudor incumpliere con los deberes de cuidado en su calidad de depositario provisional, o aparecieren bienes no declarados por el Deudor, el tribunal ordenará al Liquidador la realización de la diligencia de incautación e inventario en los términos de los artículos 163 y siguientes. En este caso, se entenderá que el Deudor ha incumplido con su deber de colaboración establecido en el artículo 169.
 
 #### Artículo 276
 
@@ -2736,29 +2934,77 @@ Si la Persona Deudora se encontrare casada, se aplicarán a la realización de l
 
 #### Artículo 277
 
-De la determinación del pasivo. La determinación del pasivo se realizará en la forma establecida en el Párrafo 6 del Título 1 del Capítulo IV de esta Ley.
+Verificación ordinaria de créditos. Los acreedores tendrán el plazo de quince días, contado desde la notificación de la Resolución de Liquidación, para verificar sus créditos y alegar su preferencia ante el tribunal que conoce del procedimiento y acompañar los títulos justificativos del crédito. Asimismo, deberán indicar una dirección válida de correo electrónico para recibir las notificaciones que fueren pertinentes.
+
+Vencido el plazo señalado en el inciso anterior, dentro de los dos días siguientes, el Liquidador publicará en el Boletín Concursal todas las verificaciones presentadas.
+
+#### Artículo 277
+
+A.- Acreedores prestadores de Servicios de Utilidad Pública. Lo preceptuado en el artículo precedente también será aplicable a los acreedores que presten Servicios de Utilidad Pública conforme al artículo 171.
+
+#### Artículo 277
+
+B.- Término del periodo de verificación ordinaria de créditos. Vencido el plazo de quince días señalado en el artículo 277, se entenderá cerrado de pleno derecho el período ordinario de verificación de créditos.
+
+#### Artículo 277
+
+C.- Estudio de créditos y preferencias. En cumplimiento de sus deberes legales, el Liquidador examinará todos los créditos que se verifiquen y las preferencias que se aleguen, e investigará su origen, cuantía y legitimidad por todos los medios a su alcance, especialmente aquellos verificados por las Personas Relacionadas del Deudor. Si no encontrare justificado algún crédito o preferencia, deberá deducir la objeción que corresponda, de conformidad a las disposiciones del artículo 277 D.
+
+#### Artículo 277
+
+D.- Objeción de créditos. Los acreedores, el Liquidador y el Deudor tendrán el plazo de cinco días, contado desde el vencimiento del período ordinario de verificación, para deducir objeción fundada sobre la existencia, montos o preferencias de los créditos que se hayan verificado.
+
+Las objeciones señaladas anteriormente se presentarán ante el tribunal que conoce del procedimiento. Expirado el plazo de cinco días que se indica en el inciso anterior sin que se formulen objeciones, los créditos no objetados quedarán reconocidos. Asimismo, vencido dicho plazo, y dentro de los dos días siguientes, el Liquidador publicará en el Boletín Concursal todas las objeciones presentadas, confeccionará la nómina de créditos reconocidos, la acompañará al expediente y la publicará en el Boletín Concursal.
+
+#### Artículo 277
+
+E.- Impugnación de créditos. Si se formulan objeciones, el Liquidador arbitrará las medidas necesarias para que se obtenga el debido ajuste entre los acreedores o entre éstos y el Deudor, y se subsanen las objeciones. Si ellas no se subsanan, los créditos objetados se considerarán impugnados.
+
+El tribunal apreciará el fundamento de las objeciones, y podrá solicitar al Liquidador el informe señalado en el inciso primero del artículo 175.
+
+La resolución que falle las impugnaciones se dictará dentro de décimo día contado desde la notificación de la resolución que tiene por acompañada la nómina de créditos impugnados y ordenará la incorporación o modificación de los créditos en la nómina de créditos reconocidos, cuando corresponda. La referida nómina de créditos reconocidos modificada deberá ser publicada por el Liquidador en el Boletín Concursal dentro de los dos días siguientes a la fecha en que se dicte la resolución señalada.
+
+#### Artículo 277
+
+F.- De la verificación extraordinaria de créditos. Los acreedores que no hayan verificado sus créditos en el período ordinario podrán hacerlo mientras no esté firme y ejecutoriada la resolución que tenga por aprobada la Cuenta Final de Administración del Liquidador, para ser considerados sólo en los repartos futuros, y deberán aceptar todo lo obrado con anterioridad. La resolución que tenga por presentada la verificación deberá ser publicada por el Liquidador en el Boletín Concursal dentro de los dos días siguientes a su presentación.
+
+Los créditos verificados extraordinariamente podrán ser objetados o impugnados en conformidad al procedimiento establecido en los artículos 277 D y 277 E, dentro del plazo de cinco días contado desde la notificación de su verificación en el Boletín Concursal.
 
 #### Artículo 278
 
-De las Juntas de Acreedores. La Junta Constitutiva tendrá lugar en las dependencias del tribunal o en el lugar que éste determine, y se celebrará al trigésimo segundo día de publicada la resolución de liquidación de los bienes de la Persona Deudora.
+De las Juntas de Acreedores. En los Procedimientos Concursales de Liquidación Simplificada de este Título no se celebrará junta constitutiva, ordinaria ni extraordinaria de acreedores.
 
-En dicha Junta se tratarán las siguientes materias:
+Sin perjuicio de lo anterior, durante el procedimiento, el o los acreedores que representen en su conjunto a lo menos el 25 por ciento del pasivo con derecho a voto podrán solicitar al tribunal que cite extraordinariamente a Junta de Acreedores.
 
-1) El Liquidador titular provisional deberá informar respecto de los activos del Deudor, efectuar una propuesta de realización de los mismos y una estimación de los gastos.
+El tribunal fijará el día, hora y lugar de celebración de la Junta, y ordenará al Liquidador publicar la citación y la respectiva solicitud en el Boletín Concursal, dentro de dos días de notificada la resolución por el estado diario.
 
-2) La ratificación de los Liquidadores titular y suplente provisionales o la designación de sus reemplazantes. Los Liquidadores que no hubieren sido ratificados continuarán en sus cargos hasta que asuman sus reemplazantes. Deberá suscribirse entre el Liquidador no ratificado y el que lo reemplace, dentro de diez días contados desde la nueva designación, un acta de traspaso en que conste el estado preciso de los bienes del Deudor y cualquier otro aspecto relevante para una adecuada continuación del Procedimiento Concursal de Liquidación, debiendo entregarse todos los antecedentes, documentos y otros instrumentos del deudor que se encuentren en su poder. Una copia del acta antes indicada deberá ser remitida a la Superintendencia.
+La Junta deberá celebrarse transcurridos a lo menos tres días después de la publicación de la citación por el Liquidador en el Boletín Concursal.
 
-3) La designación de un presidente y un secretario titulares y de un suplente para cada uno de esos cargos, de entre los acreedores con derecho a voto o sus representantes, para las sesiones de Juntas futuras, si hubiere.
+#### Artículo 278
 
-4) Los honorarios del Liquidador, los que se regirán conforme lo dispuesto en los artículos 39 y 40 de esta ley.
+A.- De las formalidades de la Junta Extraordinaria. La Junta contará con la presencia del Liquidador, y actuará como ministro de fe el secretario del tribunal.
 
-5) Cualquier otro acuerdo que la Junta estime conducente, pudiendo acordar desde ya no celebrar otras Juntas, salvo citación del Liquidador o de cualquiera de los acreedores que representen a lo menos el 25% del pasivo.
+El tribunal, antes de dar inicio a esta Junta, deberá dar cumplimiento a lo establecido en el artículo 190.
 
-Sin perjuicio de lo señalado, en lo no regulado en este artículo será aplicable lo dispuesto en el artículo 189.
+De los puntos tratados, los acuerdos adoptados y demás materias que el tribunal estime pertinentes deberá dejarse constancia en un acta que será firmada por el secretario del tribunal y los acreedores que lo soliciten. Una copia autorizada de dicha acta será agregada al expediente por el tribunal y publicada en el Boletín Concursal por el Liquidador.
+
+Para efectos de los quórum para sesionar y para adoptar decisiones en estas Juntas Extraordinarias se estará a lo dispuesto en el Párrafo 7 del Título 1 del Capítulo IV.
 
 #### Artículo 279
 
 De la realización del activo. La realización del activo se llevará a cabo conforme a lo dispuesto en el artículo 204.
+
+Sin perjuicio de lo anterior, se permitirá la venta de los bienes muebles por medio de plataformas electrónicas y sin mediación de un martillero concursal, lo cual deberá ser informado por el Liquidador al tribunal mediante presentación escrita. Estas plataformas deberán permitir al Liquidador individualizar al Deudor propietario de cada uno de los bienes, de modo tal que pueda mantener un registro individual y fehaciente de los ingresos de cada procedimiento. En estos casos, sólo podrá cobrarse una comisión al adjudicatario de la venta. El uso de estas plataformas deberá ser autorizada por la Superintendencia, para lo cual dictará una norma de carácter general. Esta norma también regulará las menciones mínimas que deberán tener las publicaciones de los bienes en las plataformas electrónicas.
+
+#### Artículo 279
+
+A.- De la realización de los bienes garantizados. Sin perjuicio de lo dispuesto en el artículo anterior, los acreedores hipotecarios y prendarios podrán ejecutar individualmente los bienes gravados de acuerdo al artículo 135. En este caso, el tribunal no podrá dictar la resolución de término hasta la realización y liquidación del respectivo bien que sirve de garantía, con la finalidad de determinar si existiere un remanente a ser restituido a la masa.
+
+#### Artículo 279
+
+B.- Solicitud de no perseverar en la realización de bienes. Sin perjuicio de lo dispuesto en el artículo 229, el Liquidador podrá solicitar al tribunal autorización para no perseverar en la venta de uno o más bienes muebles determinados del Deudor, para lo cual deberá acreditar ante el tribunal que mantuvo publicado el aviso de venta del bien por un mínimo de cuarenta y cinco días en una plataforma electrónica autorizada por la Superintendencia, de acuerdo con lo dispuesto en el artículo 279, sin haber logrado su enajenación.
+
+El tribunal dará traslado de esta solicitud a los acreedores, y les otorgará un plazo de cinco días para pronunciarse al respecto. Transcurrido el plazo sin que se presentaren objeciones al requerimiento, el tribunal autorizará al Liquidador a no perseverar en la realización de los bienes. De lo contrario, si alguno de los acreedores ha objetado la solicitud dentro de plazo, el tribunal resolverá la objeción en el término de diez días y contra esta resolución no procederá recurso alguno. Si el tribunal resuelve rechazar la solicitud del Liquidador, prorrogará hasta por dos meses el plazo para la enajenación de los bienes.
 
 #### Artículo 280
 
@@ -2766,13 +3012,59 @@ Del pago del pasivo. El pago del pasivo se efectuará conforme a lo dispuesto en
 
 #### Artículo 281
 
-Cuenta final de administración y término de la liquidación de los bienes de la Persona Deudora. Será aplicable a la liquidación de los bienes la Persona Deudora lo dispuesto en los Párrafos 2 del Título 3 del Capítulo II, sobre Cuenta Final de Administración, y 4 del Título 5 del Capítulo IV, sobre término del Procedimiento Concursal de Liquidación.
+Cuenta Final de Administración y de la objeción. Dentro de los quince días siguientes a la verificación de cualquiera de las circunstancias que se señalan en el artículo 50, el Liquidador deberá acompañar su Cuenta Final de Administración al tribunal, y deberá publicarla en el Boletín Concursal dentro del mismo plazo, cumpliendo con los requisitos del artículo 49.
 
-### Párrafo 2 — . De la Liquidación Forzosa de los Bienes de la Persona Deudora
+Una vez emitida la resolución del tribunal que tiene por acompañada la Cuenta Final de Administración, el Liquidador dispondrá del plazo de tres días para presentar ante la Superintendencia copia de dicha resolución y copia de la referida cuenta.
+
+El Deudor, los acreedores y la Superintendencia tendrán el plazo de diez días, contado desde la resolución que tiene por acompañada la Cuenta Final de Administración, para objetarla ante el tribunal.
+
+En caso de no deducirse objeciones oportunamente, el Liquidador, el Deudor, la Superintendencia o los acreedores solicitarán al tribunal competente que tenga por aprobada, sin más trámite, la Cuenta Final de Administración para todos los efectos legales.
+
+Si se presentan objeciones, el tribunal les dará tramitación incidental, conforme a las normas del Título IX del Libro I del Código de Procedimiento Civil, y valorará la prueba de acuerdo con las reglas de la sana crítica. El tribunal podrá requerir informe a la Superintendencia respecto del perjuicio a la masa o a los acreedores y del incumplimiento de los deberes del Liquidador. Además, el tribunal podrá determinar la suspensión provisoria del Liquidador para ser nominado en nuevos procedimientos, de lo cual informará a la Superintendencia.
+
+Si el tribunal rechaza la o las objeciones, tendrá por aprobada la Cuenta Final de Administración.
+
+La resolución del tribunal que acoja una o más objeciones señalará las medidas que el Liquidador deberá ejecutar para subsanar, reparar o corregir los defectos advertidos y el plazo en el cual deberán ser ejecutadas. Dicha corrección no se entenderá constitutiva de una nueva Cuenta Final de Administración.
+
+Si el Liquidador no ejecuta las medidas señaladas por el tribunal dentro del plazo dispuesto, se tendrá por rechazada la Cuenta Final de Administración en todas sus partes, lo que deberá ser certificado por el tribunal. Si el Liquidador cumple con lo dispuesto, el tribunal tendrá por aprobada la Cuenta Final de Administración. Para efectos de determinar si las observaciones han sido subsanadas, el tribunal dará traslado a los objetantes y podrá solicitar informe a la Superintendencia.
+
+En caso de rechazarse la cuenta, deberá designar al Liquidador suplente como titular, de acuerdo con lo establecido en el artículo 38.
+
+Para la ejecución de la resolución que rechaza la Cuenta Final de Administración se estará a lo dispuesto en el artículo 53, en lo que no fuere contrario al presente artículo.
+
+Una vez que se encuentre firme la sentencia que rechaza la Cuenta Final de Administración, la Superintendencia excluirá al Liquidador de la Nómina de Liquidadores, de conformidad a lo establecido en el artículo 34.
+
+#### Artículo 281
+
+A.- Del Término del Procedimiento Concursal de Liquidación Simplificada. Una vez publicada la resolución que tuvo por aprobada la Cuenta Final de Administración en los términos descritos en el artículo 281, el tribunal, de oficio o a petición de parte o de la Superintendencia, dictará una resolución que declare terminado el Procedimiento Concursal de Liquidación Simplificada, la que deberá ser publicada por el Liquidador en el Boletín Concursal en el plazo de cinco días contado desde la dictación de la resolución de término.
+
+Si se hubiere promovido el incidente del artículo 169 A o deducido las acciones previstas en el Capítulo VI, el tribunal no podrá dictar la resolución de término sino hasta que se encontrare firme o ejecutoriada la resolución que falla el incidente, en el primer caso, o la sentencia que se pronuncia sobre las acciones deducidas, en el segundo.
+
+Respecto de los efectos de la resolución de término y los recursos que proceden en su contra, se aplicará lo dispuesto en los artículos 255 y 256, respectivamente.
+
+#### Artículo 281
+
+B.- Término del Procedimiento Concursal de Liquidación Simplificada por Acuerdo de Reorganización Judicial. Durante el Procedimiento Concursal de Liquidación Simplificada, una vez notificada la nómina de créditos reconocidos, el Deudor que califique como micro o pequeña empresa de conformidad con el artículo 273 podrá acompañar al tribunal competente una propuesta de Acuerdo de Reorganización Judicial y le serán aplicables las disposiciones contenidas en el Título 3 de este Capítulo, en lo que fueren procedentes y en todo lo que no se regule en las disposiciones siguientes.
+
+Presentada una propuesta de Acuerdo de Reorganización Judicial, el tribunal dictará una resolución que la tendrá por acompañada. Una copia de la referida propuesta deberá ser publicada por el Liquidador en el Boletín Concursal.
+
+En la misma resolución el tribunal competente fijará la fecha, lugar y hora en que deberá efectuarse la votación para pronunciarse sobre la propuesta de Acuerdo de Reorganización Judicial que presente el Deudor.
+
+El quórum y la vigencia del Acuerdo de Reorganización Judicial se regirán por lo dispuesto en los artículos 258 y 259, respectivamente.
+
+### Párrafo 2 — . Del Procedimiento Concursal de Liquidación Forzosa Simplificada
 
 #### Artículo 282
 
-Causal para solicitar el inicio de un Procedimiento Concursal de Liquidación de los bienes de una Persona Deudora. Mientras no se declare la admisibilidad de un Procedimiento Concursal de Renegociación de una Persona Deudora, cualquier acreedor podrá solicitar el inicio del Procedimiento Concursal de Liquidación de los bienes de la Persona Deudora, siempre que existieren en contra de ésta dos o más títulos ejecutivos vencidos, provenientes de obligaciones diversas, encontrándose iniciadas a lo menos dos ejecuciones, y no se hubieren presentado dentro de los cuatro días siguientes al respectivo requerimiento, bienes suficientes para responder a la prestación que adeude y a sus costas.
+Causales para solicitar el inicio forzoso del Procedimiento Concursal de Liquidación Simplificada. Cualquier acreedor podrá demandar el inicio forzoso del Procedimiento Concursal de Liquidación Simplificada, en los siguientes casos:
+
+a) Si existieren en contra del Deudor dos o más títulos ejecutivos vencidos, provenientes de obligaciones diversas, encontrándose iniciadas a lo menos dos ejecuciones, y no se hubieren presentado dentro de los cuatro días siguientes al respectivo requerimiento bienes suficientes para responder a la prestación que adeude y a sus costas.
+
+b) Tratándose de un Deudor que califique como micro o pequeña empresa de conformidad con el artículo 273, cuando éste o sus administradores no sean habidos, y hayan dejado cerradas sus oficinas o establecimientos, salvo que se hubiere nombrado un mandatario con facultades suficientes para dar cumplimiento a sus obligaciones y contestar nuevas demandas. En este caso, el demandante podrá invocar como crédito incluso aquel que se encuentre sujeto a un plazo.
+
+Para solicitar el inicio forzoso de un Procedimiento Concursal de Liquidación Simplificada no deberá existir respecto del Deudor otro Procedimiento Concursal en tramitación.
+
+Este procedimiento se podrá iniciar respecto de los deudores contemplados en el inciso primero del artículo 273.
 
 #### Artículo 283
 
@@ -2780,53 +3072,255 @@ Requisitos. La demanda se presentará ante el tribunal competente, señalará la
 
 1) Los documentos o antecedentes escritos que acreditan la causal invocada.
 
-2) Vale vista o boleta bancaria expedida a la orden del tribunal por una suma equivalente a 200 unidades de fomento para subvenir los gastos iniciales del Procedimiento Concursal de Liquidación de los bienes de la Persona Deudora.
+2) Vale vista o boleta bancaria expedida a la orden del tribunal por una suma equivalente a 100 unidades de fomento para subvenir los gastos iniciales del procedimiento y los honorarios de los Liquidadores para la administración del Procedimiento Concursal de Liquidación Simplificada.
 
-3) El nombre de los Liquidadores titular y suplente, para el caso que el Deudor no compareciere o no efectuare actuación alguna por escrito en la audiencia prevista en el artículo siguiente.
+3) Eliminado.
 
 El Liquidador o Veedor que hubiese ejercido como tal en algún Procedimiento Concursal no podrá asumir en otro procedimiento respecto de un mismo Deudor.
 
-El acreedor peticionario podrá designar a un Veedor vigente de la Nómina de Veedores, que asumirá en caso que el Deudor se oponga al Procedimiento Concursal de Liquidación de los bienes de la Persona Deudora. Dicho Veedor supervigilará las actividades del Deudor mientras dure la tramitación del Juicio de Oposición, el que se sustanciará conforme a las normas de esta ley, y tendrá las facultades de interventor contenidas en el artículo 25. Los honorarios del Veedor no podrán ser superiores a 50 unidades de fomento y serán de cargo del acreedor peticionario. Sin perjuicio de lo anterior, el demandante podrá solicitar en su demanda cualquiera de las medidas señaladas en los Títulos IV y V del Libro Segundo del Código de Procedimiento Civil.
+El acreedor peticionario podrá designar a un Veedor vigente de la Nómina de Veedores, que asumirá en caso que el Deudor se oponga al Procedimiento Concursal de Liquidación Simplificada. Dicho Veedor supervigilará las actividades del Deudor mientras dure la tramitación del Juicio de Oposición, el que se sustanciará conforme a las normas de esta ley, y tendrá las facultades de interventor contenidas en el artículo 25. Los honorarios del Veedor no podrán ser superiores a 50 unidades de fomento y serán de cargo del acreedor peticionario. Sin perjuicio de lo anterior, el demandante podrá solicitar en su demanda cualquiera de las medidas señaladas en el Título V del Libro Segundo del Código de Procedimiento Civil.
 
 #### Artículo 284
 
-Revisión, primera providencia y notificación. Presentada la demanda, el tribunal competente examinará en el plazo de tres días el cumplimiento de los requisitos del artículo precedente. En caso que los considere cumplidos, la tendrá por presentada, ordenará publicarla en el Boletín Concursal y citará a las partes a una audiencia que tendrá lugar al quinto día desde la notificación personal del deudor o conforme al artículo 44 del Código de Procedimiento Civil, aun cuando no se encuentre en el lugar del juicio. En caso contrario, ordenará al demandante la corrección pertinente y fijará un plazo de tres días para que subsane, bajo apercibimiento de tener por no presentada la demanda.
+Revisión, primera providencia y notificación. Presentada la demanda, el tribunal competente examinará en el plazo de tres días el cumplimiento de los requisitos del artículo precedente. En caso que los considere cumplidos, la tendrá por presentada y citará a las partes a una audiencia que tendrá lugar al quinto día desde la notificación personal del deudor o conforme al artículo 44 del Código de Procedimiento Civil, aun cuando no se encuentre en el lugar del juicio. En caso contrario, ordenará al demandante la corrección pertinente y fijará un plazo de tres días para que subsane, bajo apercibimiento de tener por no presentada la demanda.
 
 La audiencia se desarrollará conforme a las siguientes reglas:
 
-1) El tribunal informará al Deudor acerca de la demanda presentada en su contra y de los efectos del Procedimiento Concursal de Liquidación de los bienes la Persona Deudora.
+1) El tribunal informará al Deudor acerca de la demanda presentada en su contra y de los efectos del Procedimiento Concursal de Liquidación Simplificada.
 
-2) A continuación, la Persona Deudora podrá proponer, por escrito o verbalmente, alguna de las alternativas señaladas en los literales siguientes, debiendo siempre señalar el nombre o razón social, domicilio y correo electrónico, si lo conociere, de los tres mayores acreedores, o de sus representantes legales. Si el Deudor no cumple con este último requisito, el tribunal tendrá por no presentada la actuación que fuere del caso y dictará de inmediato la Resolución de Liquidación de los bienes de la Persona Deudora, nombrando a los Liquidadores titular y suplente, ambos en carácter de provisionales, que el acreedor peticionario hubiere designado en su demanda, conforme a lo dispuesto en el número 3) del artículo anterior. De acuerdo a lo señalado, la Persona Deudora podrá:
+2) A continuación, el Deudor podrá proponer, por escrito o verbalmente, alguna de las siguientes alternativas:
 
-a) Consignar fondos suficientes para el pago del crédito demandado y las costas correspondientes. El tribunal tendrá por efectuada la consignación, ordenará practicar la liquidación del crédito, la regulación y tasación de las costas, y señalará el plazo en que el Deudor deberá pagarlos, el que se contará desde que esas actuaciones se encuentren firmes. Si el deudor no pagare en el plazo fijado, el tribunal dictará la respectiva Resolución de Liquidación de los bienes de la Persona Deudora.
+a) Consignar fondos suficientes para el pago del crédito demandado y las costas correspondientes. El tribunal tendrá por efectuada la consignación, ordenará practicar la liquidación del crédito, la regulación y tasación de las costas, y señalará el plazo en que el Deudor deberá pagarlos, el que se contará desde que esas actuaciones se encuentren firmes. Si el Deudor no pagare en el plazo fijado, el tribunal dictará la respectiva Resolución de Liquidación.
 
-b) Allanarse a la demanda, por escrito o verbalmente, caso en el cual el tribunal dictará la respectiva Resolución de Liquidación de los bienes de la Persona Deudora.
+b) Allanarse a la demanda, por escrito o verbalmente, caso en el cual el tribunal dictará la respectiva Resolución de Liquidación.
 
-c) Oponerse a la demanda de liquidación forzosa, en cuyo caso se observarán las disposiciones del Párrafo 3 del Título 1 del Capítulo IV de esta ley. La oposición del deudor sólo podrá fundarse en las causales previstas en el artículo 464 del Código de Procedimiento Civil.
+c) Oponerse a la demanda de Liquidación Forzosa, en cuyo caso se observarán las disposiciones del Párrafo 3 del Título 1 del Capítulo IV. En caso de haberse invocado la causal contemplada en el literal a) del inciso primero del artículo 282, la oposición del Deudor sólo podrá fundarse en las excepciones previstas en el artículo 464 del Código de Procedimiento Civil. De haberse deducido la demanda en virtud de lo dispuesto en el literal b) del inciso primero del artículo 282, el Deudor podrá fundar la oposición en la falta de concurrencia de uno o más de los requisitos de dicha causal.
 
-3) Si el Deudor no comparece a esta audiencia o si, compareciendo, no efectúa alguna de las actuaciones señaladas en el número 2) anterior, el tribunal dictará la Resolución de Liquidación de los bienes de la Persona Deudora y nombrará a los Liquidadores titular y suplente, ambos en carácter de provisionales, que el acreedor peticionario hubiere designado en su demanda, conforme a lo dispuesto en el número 3) del artículo anterior.
+d) Tratándose de una Empresa Deudora de las referidas en el artículo 273, acogerse expresamente al Procedimiento Concursal de Reorganización Simplificada.
+
+3) Si el Deudor no comparece a esta audiencia o si, compareciendo, no efectúa alguna de las actuaciones señaladas en el número 2) anterior, el tribunal dictará la Resolución de Liquidación, previo requerimiento a la Superintendencia de la realización de sorteo de conformidad al artículo 37, y designará a los Liquidadores titular y suplente, ambos en carácter de provisionales. Desde dicho requerimiento hasta la dictación de Resolución de Liquidación el Deudor tendrá la calidad de depositario provisional para todos los efectos legales.
 
 De lo obrado en esta audiencia se levantará acta, la que deberá ser firmada por los comparecientes y el secretario del tribunal.
 
 #### Artículo 285
 
-Resolución de Liquidación de los bienes de la Persona Deudora. La Resolución de Liquidación de los bienes de la Persona Deudora se dictará conforme a lo dispuesto en el artículo 274, y en la tramitación del procedimiento se estará a lo señalado en el Párrafo anterior.
+Resolución de Liquidación en un Procedimiento Concursal de Liquidación Forzosa Simplificada. La Resolución de Liquidación se dictará conforme a lo dispuesto en el artículo 274, y en la tramitación del procedimiento se estará a lo señalado en el Párrafo anterior.
+
+En la Resolución de Liquidación, el tribunal dispondrá que el Deudor deberá acompañar uno o más de los antecedentes exigidos en el artículo 273 A, dentro del plazo de veinte días contado desde la notificación de la resolución en el Boletín Concursal, bajo el apercibimiento señalado en el artículo 169.
+
+## Título 3
+
+Del Procedimiento Concursal de Reorganización Simplificada.
 
 #### Artículo 286
 
-Antecedentes que debe remitir la Superintendencia. Cada vez que la ley ordene que la Superintendencia remita antecedentes al tribunal competente para que se dicte la Resolución de Liquidación de los bienes de la Persona Deudora, se entenderá que deberá remitir:
+Ámbito de aplicación y requisitos. El procedimiento de este Título se aplicará a Empresas Deudoras que califiquen como micro o pequeña empresa de acuerdo con el artículo segundo de la ley N° 20.416 y el artículo 505 bis del Código del Trabajo. Este procedimiento se regirá supletoriamente, y sólo en aquello que no se contraponga con lo dispuesto en este Título, por las normas del Capítulo III de la presente ley. Para efectos de este Título, las Empresas Deudoras se denominarán Deudor.
 
-1) Copia de los antecedentes aportados por la Persona Deudora, a los que se refiere el artículo 261.
+La circunstancia de ser el Deudor una Empresa Deudora que cumpla con los requisitos del inciso anterior será acreditada a través de una declaración jurada suscrita por el Deudor o por su representante, según corresponda, y deberá acompañarse la información que determinará la Superintendencia por norma de carácter general.
 
-2) Copia de la resolución a que se refiere el artículo 263.
+Los modelos de declaración jurada se regularán por la Superintendencia mediante norma de carácter general y estarán disponibles en sus dependencias y en su sitio web.
 
-3) Copia de la propuesta de determinación del pasivo a que se refiere el artículo 265.
+#### Artículo 286
 
-4) Copia del acta de la audiencia de ejecución, en que conste que no se arribó a acuerdo.
+A.- Antecedentes para la nominación del Veedor. Para los efectos de la nominación de los Veedores titular y suplente, el Deudor deberá presentar a la Superintendencia una copia del documento indicado en el artículo 54, con el respectivo cargo del tribunal competente o de la Corte de Apelaciones correspondiente. Además, deberá acompañar todos los antecedentes a los que se refiere el artículo 56. Sin perjuicio de lo anterior, los antecedentes singularizados en el número 4) de dicho artículo deberán ser informados por el Deudor dentro de la misma declaración jurada que éste exige, y no mediante un certificado de auditor independiente.
 
-5) Copia de la resolución que declare terminado anticipadamente el Procedimiento Concursal de Renegociación, en los términos del artículo 269.
+#### Artículo 286
 
-En todo caso, los acreedores no deberán consignar la suma a que se refiere el número 2) del artículo 283.
+B.- Resolución de Reorganización. Dentro del quinto día de efectuada la presentación señalada en el artículo anterior, el tribunal competente dictará una resolución que designará al Veedor titular y suplente, nominados en la forma establecida en el artículo 22. En la misma resolución dispondrá lo siguiente:
+
+1. Que, durante el plazo de cuarenta días contado desde la notificación de esta resolución, prorrogable de conformidad a lo dispuesto en el artículo 286 C, el Deudor gozará de una Protección Financiera Concursal, en los mismos términos que dispone el artículo 57.
+
+2. Que, durante la Protección Financiera Concursal se aplicarán al Deudor las siguientes medidas cautelares y de restricción:
+
+a) quedará sujeto a la intervención del Veedor titular designado en la misma resolución, el que tendrá los deberes contenidos en el artículo 25.
+
+b) no podrá gravar o enajenar sus bienes, salvo aquellos cuya enajenación o venta sea propia de su giro o que resulten estrictamente necesarios para el normal desenvolvimiento de su actividad. Respecto de los demás bienes o activos, se estará a lo previsto en el artículo 286 J.
+
+c) tratándose de personas jurídicas, éstas no podrán modificar sus pactos, estatutos sociales o régimen de poderes. La inscripción de cualquier transferencia de acciones de la Empresa Deudora en los registros sociales pertinentes requerirá la autorización del Veedor, que la extenderá en la medida que ella no altere o afecte los derechos de los acreedores. Lo anterior no regirá respecto de las sociedades anónimas abiertas que hagan oferta pública de sus valores.
+
+3. La fecha en que expirará la Protección Financiera Concursal.
+
+4. La orden al Deudor para que, con la supervisión y asistencia del Veedor, elabore su propuesta de Acuerdo de Reorganización Judicial, la que deberá ser presentada ante el tribunal competente y publicada por el Veedor en el Boletín Concursal a lo menos diez días antes de la fecha fijada para la votación del Acuerdo. Si el Deudor se niega a ser supervisado o recibir la asistencia del Veedor, éste informará aquella circunstancia mediante presentación escrita al tribunal. Si la propuesta no es publicada, por la negativa del Deudor, el Veedor certificará esta circunstancia al tribunal competente, el que dictará la Resolución de Liquidación sin más trámite.
+
+5. La orden al Veedor de acompañar un informe a dicha propuesta, tres días antes de la fecha de votación del Acuerdo, la que deberá referirse a la viabilidad de la propuesta, y si la propuesta presentada por el Deudor se ajusta a la ley.
+
+Si el Veedor no presentare el referido informe dentro del plazo indicado, el Deudor, cualquiera de los acreedores o el tribunal competente informará a la Superintendencia para que se apliquen las sanciones pertinentes. En este caso, el Acuerdo de Reorganización Judicial Simplificado se votará con prescindencia del Informe del Veedor.
+
+6. La fecha en que deberá votarse la propuesta de Acuerdo de Reorganización Judicial que presente el Deudor. La fecha será aquella en la que expire la Protección Financiera Concursal.
+
+7. Que, dentro de quince días contados desde la notificación de esta resolución, todos los acreedores deberán acreditar ante el tribunal competente su personería para actuar en el Procedimiento Concursal de Reorganización Simplificada, con indicación expresa de la facultad que le confieren a sus apoderados para conocer, modificar y adoptar el Acuerdo de Reorganización Judicial.
+
+8. La orden para que el Veedor inscriba copia de esta resolución en los conservadores de bienes raíces correspondientes, al margen de la inscripción de propiedad de cada uno de los inmuebles que pertenecen al Deudor.
+
+9. Que, dentro del quinto día de efectuada la notificación de esta resolución, deberán asistir a una audiencia el Deudor, el Veedor y los tres mayores acreedores indicados en la declaración jurada referida en el artículo 286 A. Esta diligencia se efectuará con los que concurran y tratará sobre la proposición de honorarios que formule el Veedor. Si en ella no se alcanza acuerdo sobre el monto de los honorarios y su forma de pago, o no asiste ninguno de los citados, dichos honorarios se fijarán por el tribunal competente sin ulterior recurso.
+
+10. La orden al Deudor para que proporcione al Veedor copia de todos los antecedentes acompañados conforme al artículo 56. Estos antecedentes y la copia de la resolución de que trata este artículo serán publicados por el Veedor en el Boletín Concursal dentro del plazo de tres días contados desde su dictación.
+
+La Superintendencia, mediante norma de carácter general, regulará modelos de propuesta de Acuerdo de Reorganización que podrán ser utilizadas por los Deudores sujetos a estos procedimientos.
+
+#### Artículo 286
+
+C.- Prórroga de la Protección Financiera Concursal. El plazo establecido en el número 1 del artículo anterior podrá prorrogarse hasta por treinta días en virtud de una solicitud del Deudor presentada ante el tribunal competente y publicada en el Boletín Concursal, hasta el décimo día anterior al vencimiento de dicho plazo. Los acreedores tendrán el plazo de tres días contado desde la publicación de la solicitud para manifestar su oposición mediante presentación al tribunal. Vencido este plazo, el tribunal deberá acoger la solicitud del Deudor, salvo que uno o más acreedores que representen más del 70 por ciento del pasivo declarado en la solicitud de inicio o reconocido, con exclusión de los créditos de las Personas Relacionadas con el Deudor, se hubieren opuesto a la prórroga.
+
+Asimismo, el Deudor podrá requerir una nueva prórroga por otros treinta días, mediante solicitud que deberá ser presentada al tribunal y publicada en el Boletín Concursal hasta el décimo día anterior al vencimiento del plazo de la prórroga otorgada de conformidad con el inciso anterior. Los acreedores tendrán tres días contados desde la publicación de la solicitud para manifestar su oposición mediante presentación al tribunal. Vencido este plazo el tribunal deberá acoger la solicitud del Deudor, salvo que uno o más acreedores que representen el 50 por ciento del pasivo declarado en la solicitud de inicio o reconocido, excluidos los créditos de las Personas Relacionadas con el Deudor, se hubieren opuesto a la prórroga.
+
+Los acreedores hipotecarios y prendarios que presten apoyo para la prórroga de la Protección Financiera Concursal no perderán su preferencia y podrán impetrar las medidas conservativas que procedan.
+
+#### Artículo 286
+
+D.- Nueva fecha de votación. En caso de proceder la prórroga de la Protección Financiera Concursal de acuerdo con el artículo anterior, el tribunal competente deberá fijar en su resolución la nueva fecha para la votación de la propuesta de Acuerdo de Reorganización Judicial.
+
+#### Artículo 286
+
+E.- Posposición del pago a acreedores Personas Relacionadas. Los acreedores Personas Relacionadas con el Deudor, cuyos créditos no se encuentren debidamente documentados noventa días antes del inicio del Procedimiento Concursal de Reorganización Simplificada, quedarán pospuestos en el pago de sus créditos hasta que se paguen íntegramente los créditos de los demás acreedores a los que les afectará el Acuerdo de Reorganización Judicial. Sin perjuicio de lo anterior, el Acuerdo podrá hacer aplicable la referida posposición a otros acreedores Personas Relacionadas con el Deudor, cuyos créditos se encuentren debidamente documentados, previo informe fundado del Veedor. Esta posposición no regirá respecto de los créditos que se originen en virtud de los artículos 286 I y 286 J.
+
+#### Artículo 286
+
+F.- Acreedores comprendidos en los Acuerdos de Reorganización Judicial. Los Acuerdos sólo afectarán a los acreedores cuyos créditos se originen con anterioridad a la Resolución de Reorganización regulada en el artículo 286 B.
+
+Los créditos que se originen con posterioridad no serán incluidos en el Acuerdo de Reorganización Judicial.
+
+Los acreedores cuyos créditos sean anteriores a la fecha de la Resolución de Reorganización, pero que no hubieren verificado oportunamente y aquellos que no estuvieren contenidos en la declaración jurada a que se refiere el artículo 286 A podrán demandar que se cumpla el Acuerdo a su favor mientras no se encuentren prescritas las acciones que de él resulten, mediante un procedimiento incidental, ante el mismo tribunal que se pronunció sobre el Acuerdo.
+
+En este procedimiento podrá actuar como parte cualquiera de los acreedores a los que les afecte el Acuerdo.
+
+#### Artículo 286
+
+G.- Verificación y objeción de los créditos. Los acreedores tendrán el plazo de quince días, contado desde la notificación de la Resolución de Reorganización a que se refiere el artículo 286 B, para verificar sus créditos ante el tribunal que conoce del procedimiento. Con tal propósito, deberán acompañar los títulos justificativos de éstos, y señalar, en su caso, si se encuentran garantizados con prenda o hipoteca y el avalúo comercial de los bienes sobre los que recaen las garantías. No será necesaria verificación alguna si los créditos y el avalúo comercial de las garantías se encontraren señaladas, a satisfacción del acreedor, en el estado de deudas que deberá acompañar el Deudor conforme al artículo 286 A.
+
+Vencido el plazo señalado en el inciso anterior y dentro de los dos días siguientes, el Veedor publicará en el Boletín Concursal todas las verificaciones presentadas, e indicará los créditos que se encuentren garantizados con prenda o hipoteca y el avalúo comercial de los bienes sobre los que recaen las garantías.
+
+En el plazo de ocho días siguiente a la publicación indicada en el inciso precedente, el Veedor, el Deudor y los acreedores podrán deducir objeción fundada sobre la falta de títulos justificativos de los créditos, sus montos, preferencias o sobre el avalúo comercial de los bienes sobre los que recaen las garantías, que se indican en el referido estado de deudas que presenta el Deudor o en las verificaciones presentadas por los acreedores.
+
+Los interesados presentarán sus objeciones ante el tribunal. Vencido el plazo indicado en el inciso precedente, y dentro de los dos días siguientes, el Veedor publicará en el Boletín Concursal todas las objeciones presentadas. Asimismo, expirado el plazo que se señala en el citado inciso anterior sin que se formulen objeciones, los créditos y el avalúo comercial de los bienes sobre los que recaen las garantías no objetados quedarán reconocidos.
+
+El Veedor confeccionará la nómina de los créditos reconocidos, la que deberá indicar los montos de los créditos, si éstos se encuentran garantizados con prenda o hipoteca y el avalúo comercial de los bienes sobre los que recaen las garantías. El Veedor deberá acompañar la nómina al expediente dentro de quinto día de expirado el plazo para objetar y la publicará en el Boletín Concursal, sirviendo ésta como única nómina para la votación a que se refiere el artículo 286 K, sin perjuicio de su posterior ampliación o modificación de acuerdo con el artículo siguiente.
+
+#### Artículo 286
+
+H.- Impugnación de créditos. Si se formulan objeciones, el Veedor arbitrará las medidas necesarias para subsanarlas. Si no se subsanan, los créditos y el avalúo comercial de los bienes sobre los que recaen las garantías que fueren objeto de dichas objeciones se considerarán impugnados, y el Veedor los acumulará, emitirá un informe acerca de si existen o no fundamentos plausibles para ser considerados por el tribunal competente, y emitirá su opinión fundada sobre el avalúo comercial del bien sobre el que recae la garantía objetada.
+
+El Veedor acompañará al tribunal competente la nómina de créditos impugnados con su respectivo informe y la nómina de créditos reconocidos indicada en el artículo 286 G, y las publicará en el Boletín Concursal dentro de los cinco días siguientes a la expiración del plazo previsto para objetar que se señala en el inciso primero del artículo anterior.
+
+Agregados al expediente los antecedentes que señala el inciso anterior, el tribunal citará a una audiencia única y verbal para el fallo de las impugnaciones. Dicha audiencia se celebrará dentro de tercero día, contado desde la notificación de la resolución que tiene por acompañada la nómina de créditos reconocidos e impugnados.
+
+A la audiencia podrán concurrir el Veedor, el Deudor, los impugnantes y los impugnados. En ésta deberán resolverse las incidencias que promuevan las partes en relación con las impugnaciones. En caso de que fuere estrictamente necesario, el tribunal competente podrá suspender la audiencia y continuarla con posterioridad. Con todo, la resolución que se pronuncie sobre las impugnaciones deberá dictarse a más tardar el segundo día anterior a la fecha de la votación del Acuerdo.
+
+La resolución que falle las impugnaciones ordenará la incorporación o modificación de créditos en la nómina de créditos reconocidos, o la modificación del avalúo comercial de los bienes sobre los que recaen las garantías, cuando corresponda, y será apelable en el solo efecto devolutivo. El Veedor deberá publicar la nómina de créditos reconocidos según la resolución anterior en el Boletín Concursal, a más tardar el día anterior a la fecha de la votación del Acuerdo.
+
+#### Artículo 286
+
+I.- Continuidad del suministro. Los proveedores de bienes y servicios que sean necesarios para el funcionamiento de la Empresa Deudora, cuyos créditos fueren anteriores a la Resolución de Reorganización y que en su conjunto no superen el 20 por ciento del pasivo señalado en la declaración jurada mencionada en el artículo 286 A, se pagarán en las fechas originalmente convenidas, siempre que el respectivo proveedor mantenga el suministro a la Empresa Deudora, en las mismas condiciones que realizaba esta prestación antes de la dictación de la Resolución de Reorganización, circunstancia que deberá certificar el Veedor.
+
+Los créditos de estos proveedores que sean anteriores a la Resolución de Reorganización deberán ser pagados en los términos convenidos, siempre que se cumpla con los requisitos del inciso anterior, y una vez pagados, no serán considerados en el pasivo con derecho a voto. Para estos efectos, si corresponde, el Veedor deberá eliminar estos créditos de la nómina de créditos reconocidos.
+
+En caso de dictarse la Resolución de Liquidación de la Empresa Deudora, por cualquier causa, los créditos provenientes del suministro originado durante la Protección Financiera Concursal se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
+
+#### Artículo 286
+
+J.- Enajenación de activos y obtención de financiamiento durante la Protección Financiera Concursal. Durante la Protección Financiera Concursal, y para el financiamiento de sus operaciones, la Empresa Deudora podrá enajenar activos cuyo valor no exceda el 20% de su activo fijo contable, y podrá contratar préstamos y/o llevar a cabo otra clase de operaciones de financiamiento, siempre que no superen el 20% de su pasivo señalado en la declaración jurada a que se refiere el artículo 286 A, circunstancia que deberá certificar el Veedor.
+
+La enajenación, contratación de préstamos u otras operaciones de financiamiento que excedan los montos señalados en el inciso anterior, así como toda operación con Personas Relacionadas con la Empresa Deudora, requerirá la autorización de los acreedores que representen más del 30% del pasivo del Deudor, excluidos los créditos de las Personas Relacionadas con el Deudor.
+
+Los préstamos contratados y las operaciones de financiamiento llevadas a cabo por la Empresa Deudora en virtud de este artículo no se considerarán en las nóminas de créditos y se pagarán en las fechas convenidas.
+
+En caso de dictarse la Resolución de Liquidación de la Empresa Deudora, por cualquier causa, los préstamos contratados y demás créditos que se hubieren originado en virtud de otras operaciones de financiamiento que hubieren tenido lugar durante la Protección Financiera Concursal se pagarán con la preferencia establecida en el número 4 del artículo 2472 del Código Civil.
+
+#### Artículo 286
+
+K.- Acreedores con derecho a voto. Sólo tienen derecho a concurrir y votar los acreedores cuyos créditos se encuentren en la nómina de créditos reconocidos a que se refiere el artículo 286 G y aquellos que figuren en la ampliación de esta nómina, de acuerdo con lo previsto en el artículo 286 H. En ambos casos deberá darse cumplimiento a lo ordenado en el número 7 del artículo 286 B, relativo a la acreditación de personerías.
+
+Los acreedores cuyos créditos se encuentren garantizados con prenda o hipoteca votarán de acuerdo al avalúo comercial de los bienes sobre los que recaen las garantías, conforme conste en la nómina de créditos reconocidos y en su ampliación o modificación, en su caso.
+
+Cuando el avalúo comercial de los bienes sobre los que recaen las garantías exceda el valor del crédito que garantizan, el acreedor correspondiente votará de acuerdo al monto de su crédito, según conste en la nómina de créditos reconocidos y en su ampliación o modificación, en su caso.
+
+#### Artículo 286
+
+L.- De la Junta de Acreedores. En los Procedimientos Concursales de Reorganización Simplificada no se celebrará Junta de Acreedores. En su lugar, se procederá a votar directamente la propuesta de Acuerdo de Reorganización Judicial que presente el Deudor. Sin perjuicio de lo anterior, la propuesta se deberá acordar en los mismos términos establecidos en el artículo 79, en aquello que no sea incompatible con este artículo, considerándose como acreedores presentes aquellos que votaron la propuesta de conformidad al artículo 286 N.
+
+No obstante, a lo menos cinco días antes de la fecha fijada para la votación del Acuerdo uno o más acreedores que representen en su conjunto a lo menos el 30 por ciento del pasivo con derecho a voto podrán solicitar al tribunal que cite extraordinariamente a una Junta de Acreedores para votar la propuesta de Acuerdo de Reorganización Judicial. El tribunal mediante resolución fijará la hora del día de la votación del Acuerdo, y citará a los acreedores a una junta en sus dependencias, la que deberá realizarse al término del plazo de Protección Financiera Concursal. Dicha resolución deberá ser publicada en el Boletín Concursal por el Veedor en el plazo de dos días contado desde su dictación. La resolución que resuelva dicha solicitud, acogiéndola o denegándola, será inapelable.
+
+#### Artículo 286
+
+M.- Modificación del Acuerdo. Las modificaciones del Acuerdo deberán adoptarse por el Deudor y los acreedores que lo suscribieron agrupados en sus respectivas clases o categorías, conforme al mismo procedimiento y mayorías exigidas en el artículo 286 L.
+
+No obstante lo anterior, el Acuerdo que establezca la constitución de una Comisión de Acreedores podrá facultarla para modificarlo con el quórum de aprobación que el mismo Acuerdo determine, el que en ningún caso podrá ser inferior al quórum simple.
+
+La modificación podrá recaer sobre todo o parte del contenido del Acuerdo, salvo lo referente a la calidad de acreedor, su clase o categoría, diferencias entre acreedores de igual clase o categoría, monto de sus créditos, sus preferencias, y respecto de aquellas materias que el Acuerdo determine como no modificables por la Comisión de Acreedores.
+
+En las votaciones que tengan lugar con posterioridad a la aprobación del Acuerdo por el tribunal, el derecho a voto se determinará en conformidad al artículo 286 K. No tendrán derecho a voto los acreedores que tengan la calidad de Personas Relacionadas con el Deudor.
+
+#### Artículo 286
+
+N.- Votación sobre la propuesta de Acuerdo. Los acreedores reconocidos en el procedimiento podrán pronunciarse sobre la propuesta de Acuerdo mediante una presentación al tribunal, en que conste el voto de los acreedores.
+
+Los acreedores podrán votar desde la publicación del informe del Veedor sobre la propuesta de Acuerdo en el Boletín Concursal o desde el plazo establecido para ello, en caso de que no la presente y hasta el término del día fijado para la votación del Acuerdo de Reorganización Judicial.
+
+#### Artículo 286
+
+Ñ.- Nueva propuesta de Acuerdo. Si se acoge la impugnación del Acuerdo por las causales establecidas en los numerales 1), 2), 3) y 6) del artículo 85, el Deudor podrá presentar una nueva propuesta de Acuerdo con asistencia del Veedor, dentro de los diez días siguientes contados desde que se notifique la resolución que tuvo por acogida la impugnación referida. En este caso, el Deudor gozará de Protección Financiera Concursal hasta la votación de la nueva propuesta. La resolución que tenga por presentada la nueva propuesta de Acuerdo fijará la fecha de la nueva votación, la que deberá celebrarse dentro de los diez días siguientes contados desde que el Deudor la presentó.
+
+Si el Deudor no presentare la nueva propuesta de Acuerdo, con asistencia del Veedor, dentro del plazo antes establecido, el tribunal competente dictará, de oficio y sin más trámite, la Resolución de Liquidación del Deudor.
+
+Si se acoge una impugnación al Acuerdo por las causales establecidas en los números 4) o 5) del artículo 85, el tribunal, de oficio y sin más trámite, ordenará el inicio del Procedimiento Concursal de Liquidación Simplificada en la misma resolución que acoge la impugnación.
+
+En los casos de los incisos segundo y tercero, previo a la dictación de la Resolución de Liquidación, el tribunal deberá requerir a la Superintendencia la nominación del Liquidador según el artículo 37, acompañando los antecedentes de los tres principales acreedores de conformidad a la nómina de créditos reconocidos, excluidas las Personas Relacionadas con el Deudor. Recibido el Certificado de Nominación, el tribunal dictará la Resolución de Liquidación sin más trámite. Desde el referido requerimiento hasta la dictación de Resolución de Liquidación, el Deudor tendrá la calidad de depositario provisional para todos los efectos legales.
+
+#### Artículo 286
+
+O.- Aprobación y vigencia del Acuerdo. El Acuerdo se entenderá aprobado y comenzará a regir una vez vencido el plazo para impugnarlo, sin que se hubiere impugnado y el tribunal competente lo declare así de oficio o a petición de cualquier interesado o del Veedor.
+
+Si el Acuerdo fuere impugnado y las impugnaciones fueren desechadas, el tribunal competente lo declarará aprobado en la resolución que deseche la o las impugnaciones, y aquél comenzará a regir desde que dicha resolución cause ejecutoria.
+
+Las resoluciones señaladas en los incisos primero y segundo se notificarán en el Boletín Concursal.
+
+El Acuerdo regirá no obstante las impugnaciones que se hubieren interpuesto en su contra. Sin embargo, si éstas fueren interpuestas por acreedores de una determinada clase o categoría, que representen en su conjunto a lo menos el 30 por ciento del pasivo con derecho a voto de su respectiva clase o categoría, el Acuerdo no empezará regir hasta que dichas impugnaciones sean desestimadas por sentencia firme y ejecutoriada. En este caso y en el del inciso segundo, no podrán dejarse sin efecto los actos y contratos ejecutados o celebrados por el Deudor en el tiempo que medie entre el Acuerdo y la fecha en que quede ejecutoriada la resolución que acoja las impugnaciones.
+
+El recurso de casación deducido en contra de la resolución de segunda instancia que desecha la o las impugnaciones no suspenderá el cumplimiento de dicha resolución, incluso si la parte vencida solicita que se otorgue fianza de resultas por la parte vencedora.
+
+Acogidas las impugnaciones al Acuerdo por resolución firme y ejecutoriada, las obligaciones y derechos existentes entre el Deudor y sus acreedores con anterioridad a éste se regirán por sus respectivas convenciones.
+
+#### Artículo 286
+
+P.- Cancelación de anotaciones e inscripciones. Aprobado el Acuerdo de Reorganización Judicial, se cancelarán las inscripciones previstas en el número 8 del artículo 286 B.
+
+#### Artículo 286
+
+Q.- De los bienes no esenciales para la continuidad del giro de la Empresa Deudora. En el plazo de quince días siguiente a la publicación de la Resolución de Reorganización referida en el artículo 286 B, el acreedor cuyo crédito se encuentre garantizado con prenda o hipoteca podrá solicitar fundadamente al tribunal competente que declare que el bien sobre el que recae su garantía no es esencial para el giro de la Empresa Deudora. Para resolver lo anterior, el tribunal podrá solicitar al Veedor un informe que contendrá la calificación de si el bien es o no es esencial para el giro de la Empresa Deudora y el avalúo comercial del bien sobre el que recaen las referidas garantías. El tribunal deberá resolver dicha calificación en única instancia, a más tardar el segundo día anterior a la fecha de la votación del Acuerdo de Reorganización Judicial.
+
+El acreedor cuya garantía recae sobre un bien calificado como no esencial concurrirá y votará en la clase o categoría de acreedores valistas, únicamente por el saldo del crédito no cubierto por la garantía. El saldo cubierto por la garantía no se considerará en el pasivo de la clase o categoría de acreedores garantizados.
+
+El acreedor cuyo crédito no hubiere sido enteramente cubierto por la garantía podrá solicitar, mediante un procedimiento incidental ante el mismo tribunal que conoció y se pronunció sobre el Acuerdo, que éste se cumpla en su favor, mientras no se encuentren prescritas las acciones que emanen de él. El excedente que resulte de la venta del bien declarado no esencial, una vez pagado el respectivo crédito, se destinará al cumplimiento del Acuerdo.
+
+#### Artículo 286
+
+R.- Efectos del Acuerdo de Reorganización Judicial en las obligaciones garantizadas del Deudor. Los efectos del Acuerdo de Reorganización Judicial en las obligaciones garantizadas del Deudor serán los siguientes:
+
+1. Respecto de las obligaciones del Deudor garantizadas con prenda o hipoteca sobre bienes de propiedad del Deudor o de terceros, declarados esenciales para el giro de la Empresa Deudora, de acuerdo con los artículos 286 A y 286 Q, se aplicarán los términos y modalidades establecidos en el Acuerdo de Reorganización Judicial.
+
+2. Respecto de las obligaciones del Deudor garantizadas con prenda o hipoteca sobre bienes de propiedad del Deudor, declarados no esenciales para el giro de la Empresa Deudora de acuerdo con los artículos 286 A y 286 Q, regirá lo establecido en los incisos segundo y tercero del artículo anterior.
+
+3. Respecto de las obligaciones del Deudor garantizadas con prenda o hipoteca sobre bienes de propiedad de terceros, declarados no esenciales para el giro de la Empresa Deudora de acuerdo con los artículos 286 A y 286 Q, deberá distinguirse:
+
+a) Si el respectivo acreedor vota, se sujetará a los términos y modalidades establecidos en el Acuerdo y no podrá perseguir su crédito en términos distintos de los estipulados.
+
+b) Si el respectivo acreedor no vota, su crédito no se considerará en el pasivo con derecho a voto correspondiente a su clase o categoría, y podrá cobrar su crédito respecto de las prendas o hipotecas otorgadas por terceros.
+
+4. Respecto de las obligaciones del Deudor garantizadas con cauciones personales, deberá distinguirse:
+
+a) Si el respectivo acreedor vota en su clase o categoría de valista, se sujetará a los términos y modalidades establecidos en el acuerdo y no podrá cobrar su crédito en términos distintos de los estipulados.
+
+b) Si el respectivo acreedor no vota sobre la propuesta de Acuerdo, su crédito no se considerará en el pasivo con derecho a voto correspondiente a su clase o categoría, y podrá cobrar su crédito respecto de los fiadores o codeudores, solidarios o subsidiarios, o avalistas en los términos originalmente pactados.
+
+El fiador, codeudor solidario o subsidiario, avalista, tercero poseedor de la finca hipotecada o propietario del bien prendado que hubiere pagado, de acuerdo a lo establecido en la letra b) del número 3 o en la letra b) del número 4 anteriores, podrá ejercer, según corresponda, su derecho de subrogación o reembolso, mediante un procedimiento incidental, ante el mismo tribunal que conoció y se pronunció sobre el Acuerdo, y solicitar que éste se cumpla a su favor, mientras no se encuentren prescritas las acciones que de él resulten.
+
+#### Artículo 286
+
+S.- Rechazo del Acuerdo. Si la propuesta de Acuerdo es rechazada por los acreedores por no haberse obtenido el quórum necesario para su aprobación o porque el Deudor no hubiere otorgado su consentimiento, y no estuviere constituida la Junta de Acreedores, el tribunal deberá requerir a la Superintendencia la nominación del Liquidador, de acuerdo al artículo 37, dentro de los cinco días siguientes a esta actuación, y acompañará los antecedentes de los tres principales acreedores que constan en la nómina de créditos reconocidos, excluidas las Personas Relacionadas con el Deudor. Una vez recibido el Certificado de Nominación del Liquidador, el tribunal dictará la Resolución de Liquidación sin más trámite. Desde el referido requerimiento hasta la dictación de Resolución de Liquidación, el Deudor tendrá la calidad de depositario provisional para todos los efectos legales.
+
+Si la junta estuviere constituida y la propuesta de Acuerdo es rechazada en los términos del artículo anterior, el tribunal dictará la Resolución de Liquidación respectiva, sin más trámite. La Junta de Acreedores que rechace la propuesta de Acuerdo deberá nominar a los Liquidadores titular y suplente, a los que el tribunal competente deberá designar con el carácter de definitivos.
+
+Sin perjuicio de lo anterior, si dentro del plazo previsto en el inciso primero, o en la misma junta en el caso del inciso segundo, el Deudor acreditare ante el tribunal que cuenta con el apoyo de uno o más acreedores, que representan a lo menos la mitad del pasivo con derecho a voto, con exclusión de las Personas Relacionadas con el Deudor, para realizar una nueva propuesta de Acuerdo, el tribunal fijará como nueva fecha de votación de Acuerdo de Reorganización Judicial el décimo día contado desde la notificación de dicha resolución por el estado diario, fecha hasta la cual se extenderá la Protección Financiera Concursal. En este caso, el Deudor deberá presentar una nueva propuesta dentro de cinco días contados desde dicha notificación. Si la nueva propuesta de Acuerdo es rechazada o no es presentada dentro de plazo, el tribunal procederá de conformidad al inciso primero o segundo, según corresponda.
 
 ## Capítulo VI
 
@@ -2866,15 +3360,17 @@ Las reformas a los pactos o estatutos sociales que se realicen dentro del plazo 
 
 #### Artículo 290
 
-Actos o contratos revocables celebrados por la Persona Deudora. Iniciados los Procedimientos Concursales de Renegociación o de Liquidación de los Bienes la Persona Deudora, los acreedores podrán deducir acción revocatoria concursal, respecto de los siguientes actos ejecutados o contratos celebrados por la Persona Deudora dentro del año inmediatamente anterior al inicio de estos procedimientos:
+Actos o contratos revocables celebrados por la Persona Deudora. Iniciados los Procedimientos Concursales de Renegociación o de Liquidación de una Persona Deudora, el Liquidador deberá y los acreedores podrán deducir acción revocatoria concursal, respecto de los siguientes actos ejecutados o contratos celebrados por la Persona Deudora dentro del año inmediatamente anterior al inicio de estos procedimientos:
 
 1) Todo pago anticipado, cualquiera fuere la forma en que haya tenido lugar.
 
 2) Todo pago de deudas vencidas que no sea ejecutado en la forma estipulada en la convención. La dación en pago de efectos de comercio equivale a pago en dinero.
 
-3) Toda hipoteca, prenda o anticresis constituida sobre bienes del deudor para asegurar obligaciones anteriormente contraídas.
+3) Toda hipoteca, prenda o anticresis constituida sobre bienes del Deudor para asegurar obligaciones anteriormente contraídas.
 
-Tratándose de cualquier acto o contrato celebrado a título gratuito y de los señalados en los números precedentes que se hayan celebrado con Personas Relacionadas a la Persona Deudora, aunque se proceda por interposición de un tercero, el plazo se ampliará a 2 años.
+Sin perjuicio de lo dispuesto en el inciso anterior, si el Liquidador estima que el costo de ejercer las acciones previstas en este artículo fuere superior al beneficio que podría obtener, deberá dejar constancia escrita de esta circunstancia ante el tribunal y someter a votación de los acreedores la decisión de deducir las acciones previstas en este artículo.
+
+Tratándose de cualquier acto o contrato celebrado a título gratuito y de los señalados en el inciso primero que se hayan celebrado con Personas Relacionadas a la Persona Deudora, aunque se proceda por interposición de un tercero, el plazo se ampliará a 2 años.
 
 En las demandas que se deduzcan de conformidad a lo establecido en el presente artículo, el juez deberá constatar si el acto ejecutado o el contrato celebrado han tenido lugar dentro de los plazos señalados y si responden a alguna de las descripciones previstas. Habiéndose constatado la concurrencia de los requisitos anteriores, el tribunal dictará sentencia acogiendo la acción revocatoria concursal interpuesta, salvo que el Deudor o el tercero contratante acrediten que el acto ejecutado o el contrato celebrado no produjeron perjuicio a la masa de acreedores. Todo lo anterior, sin perjuicio de los recursos que procedan.
 
@@ -3354,7 +3850,7 @@ El personal que cumpla funciones profesionales y fiscalizadoras quedará afecto 
 
 Atribuciones y Deberes. Para el cumplimiento de sus funciones, la Superintendencia tendrá las siguientes atribuciones y deberes:
 
-1) Fiscalizar las actuaciones de los Liquidadores, Veedores, Martilleros Concursales que se sometan voluntariamente al control de la Superintendencia en virtud de lo dispuesto en esta ley, administradores de la continuación de las actividades económicas y asesores económicos de insolvencia, en adelante en conjunto como los "entes fiscalizados" o los "fiscalizados", en todos los Procedimientos Concursales y asesorías económicas de insolvencias, en todos los aspectos de su gestión, sean técnicos, jurídicos o financieros.
+1) Fiscalizar las actuaciones de los Liquidadores, Veedores, Interventores designados conforme a esta ley, Martilleros Concursales que se sometan voluntariamente al control de la Superintendencia en virtud de lo dispuesto en esta ley, administradores de la continuación de las actividades económicas y asesores económicos de insolvencia, en adelante en conjunto como los "entes fiscalizados" o los "fiscalizados", en todos los Procedimientos Concursales y asesorías económicas de insolvencias, en todos los aspectos de su gestión, sean técnicos, jurídicos o financieros.
 
 2) Interpretar administrativamente las leyes, reglamentos y demás normas que rigen a los fiscalizados, sin perjuicio de las facultades jurisdiccionales que correspondan a los tribunales competentes.
 
@@ -4519,6 +5015,12 @@ Los asesores económicos de insolvencias que además tengan la calidad de síndi
 Artículo undécimo.- Para dar cumplimiento a lo dispuesto en el artículo 295, quienes integren la lista de abogados que pueden ser nombrados árbitros de acuerdo al Libro IV del Código de Comercio a la fecha de publicación de esta ley, se entenderán incorporados en la Nómina de Árbitros Concursales, debiendo procurar su capacitación de conformidad al artículo 297, dentro del plazo de vacancia que indica el artículo primero transitorio de la presente ley.
 
 Artículo duodécimo.- Las disposiciones penales contempladas en la presente ley sólo se aplicarán a los hechos ocurridos con posterioridad a su entrada en vigencia. En consecuencia, el artículo 38 y el Título XIII, ambos del Libro IV del Código de Comercio, quedarán vigentes para todos los efectos relativos a la persecución de los delitos contemplados en sus disposiciones y perpetrados con anterioridad a la entrada en vigencia de esta ley, sin perjuicio de las normas relativas a la pena, en que regirá lo dispuesto en el artículo 18 del Código Penal.".
+
+#### Artículo décimo
+
+tercero.- En todas aquellas quiebras iniciadas antes de la entrada en vigencia de la presente ley, que carezcan de bienes o en que éstos no alcancen a cubrir los gastos necesarios para su prosecución, el respectivo tribunal, de oficio o a petición de parte o de la Superintendencia de Insolvencia y Reemprendimiento, podrá decretar el sobreseimiento temporal. La resolución se notificará por medio de aviso inserto en el Diario Oficial. La carencia de bienes o la insuficiencia de éstos para cubrir los gastos de la quiebra, podrá ser acreditada mediante un informe contable emitido por la Superintendencia, que se adjuntará a la solicitud respectiva.
+
+Si transcurrido el plazo de dos años desde que se hubiere notificado el sobreseimiento temporal, no se hubiere solicitado que éste se deje sin efecto, en los términos del artículo 162 del Libro IV del Código de Comercio, el respectivo tribunal, de oficio, a petición de parte o de la Superintendencia, podrá decretar el sobreseimiento definitivo.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
