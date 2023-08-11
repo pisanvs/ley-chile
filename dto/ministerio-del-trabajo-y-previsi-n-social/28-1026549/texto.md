@@ -66,6 +66,68 @@ Durante los tres primeros meses de contrato de trabajo, la bonificación será d
 
 Sin perjuicio de lo anterior, el Subsecretario del Trabajo, en la resolución de calificación indicada en el inciso primero de esta letra podrá, fundadamente, priorizar la ejecución de esta línea de acción en micro y/o pequeñas y/o medianas empresas, conforme a lo dispuesto en el artículo 505 bis del Código del Trabajo, que corran grave riesgo de cierre a consecuencia de alguna actividad económica en crisis, catástrofe natural o declaración estado de excepción constitucional.
 
+b-bis): Bonificación a micro, pequeñas y medianas empresas en zonas afectadas por emergencia laboral por nuevas contrataciones: Esta bonificación tiene por objetivo apoyar la contratación formal de nuevas personas trabajadoras por parte de empresas privadas de menor tamaño, para estos efectos, se entenderá por dichas empresas como aquellas con hasta 199 personas trabajadoras, a la fecha de su postulación, en las zonas afectadas por una crisis de alguna actividad económica; por una catástrofe natural o por la declaración de estado de excepción, según lo dispuesto en la ley N° 18.415. Estas situaciones serán calificadas como estado de emergencia laboral, por el Subsecretario del Trabajo, mediante resolución fundada, visada por la Dirección de Presupuestos.
+
+La bonificación a las nuevas contrataciones por Emergencia Laboral beneficiará tanto a la empresa empleadora como a sus trabajadores y trabajadoras que comiencen a prestar servicios bajo vínculo de subordinación y dependencia, en los términos del artículo 7° del Código del Trabajo y en la medida que mantengan su vinculación contractual, por un plazo de, a lo menos, tres meses. Así, la bonificación será la siguiente:
+
+A. Cuando la nueva contratación se suscriba con un trabajador entre 25 y 54 años, la empresa recibirá una bonificación mensual de hasta el 60% de la remuneración bruta mensual imponible por trabajador, la que, en ningún caso, podrá superar los $200.000 (doscientos mil pesos). Por su parte, el trabajador recibirá una bonificación mensual de hasta un 25% de su remuneración bruta mensual imponible; dicha bonificación, en ningún caso, podrá exceder de $50.000 (cincuenta mil pesos).
+
+B. La bonificación mensual para las empresas alcanzará hasta un 60% de la remuneración bruta mensual imponible del trabajador. Dicha bonificación no pudiendo superar, en ningún caso, los $250.000 (doscientos cincuenta mil pesos). Ello una vez que se suscriba la contratación formal de alguna de las siguientes personas:
+
+i. Una mujer trabajadora mayor de 18 años;
+
+ii. Un hombre trabajador mayor de 18 y menor de 25 años;
+
+iii. Una persona trabajadora mayor a 54 años.
+
+iv. Una persona trabajadora con algún grado de discapacidad, calificada y certificada conforme lo establece el Título II de la ley N° 20.422 y sus reglamentos.
+
+v. Una persona que sea beneficiaria de una pensión de invalidez total de cualquier régimen previsional.
+
+C. Las personas trabajadoras señaladas en el literal B, precedente, recibirán una bonificación mensual de hasta un 25% de su remuneración bruta mensual imponible, no pudiendo en ningún caso ser superior a $100.000 (cien mil pesos).
+
+Los representantes de las empresas al momento de postular a la bonificación lo deberán hacer por los trabajadores y trabajadoras cuya contratación la origina, durante todo el período de postulación, siendo de su exclusiva responsabilidad la fidelidad de los antecedentes entregados para su concesión y pago. Las postulaciones a esta bonificación comenzarán el 1 de junio y se extenderán hasta el 31 de agosto de 2023 inclusive.
+
+La bonificación se concederá y pagará por el Servicio Nacional de Capacitación y Empleo, en la medida que se cumplan los siguientes requisitos copulativos:
+
+1. El servicio prestado por el contrato de trabajo origina la bonificación deberá desempeñarse en la zona afectada determinada por la resolución del Subsecretario del Trabajo establecida en el inciso primero de este literal.
+
+2. El contrato de trabajo por el cual se postula deberá ser suscrito entre el 1 de abril y 31 de julio de 2023, e ingresado a la plataforma de la Dirección del Trabajo https://midt.dirtrab.cl/welcome, conforme a lo establecido en el artículo 9 bis del Código del Trabajo.
+
+3. El trabajador/a por el cual se postula no deberá haber tenido una relación laboral con la empresa en los dos meses previos a la fecha del contrato por el cual se está postulando.
+
+4. El trabajador/a no podrá detentar la calidad de socios o accionistas de la empresa solicitante, tampoco podrán coincidir la razón social y/o RUT de la empresa con la persona que postula.
+
+5. El trabajador/a no podrá tener la calidad de cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive respecto del dueño, socio o accionista de la empresa solicitante.
+
+6. El trabajador/a no debe tener relación laboral, o prestar servicios en empresas públicas u organismos que sean parte de la administración del Estado.
+
+7. El trabajador/a no se encuentra haciendo uso de licencia médica por más de 15 días corridos durante la vigencia del contrato de trabajo que dio origen a la bonificación.
+
+Excepcionalmente, los representantes de las empresas beneficiadas, en tanto continúen verificándose los requisitos antes señalados, podrán solicitar al Servicio Nacional de Capacitación y Empleo, por una única vez y antes del vencimiento del periodo de tres meses durante los cuales se devenga la bonificación, una prórroga de hasta por tres meses adicionales de este beneficio para su empresa, en la medida que:
+
+a) Se mantenga vigente la relación laboral que dio origen a la bonificación;
+
+b) Se mantengan las condiciones indicadas en el inciso anterior, y
+
+c) La empresa cuente con al menos el 80% de la plantilla de nómina total de personas trabajadoras de la empresa en virtud de los cuales realizó su primera postulación, al término del tercer mes de bonificación.
+
+Con todo este beneficio, tanto para la empresa como para los trabajadores se devengará, como máximo, hasta el mes de diciembre de 2023.
+
+El beneficio se pierde de automáticamente de manera administrativa, tanto respecto de la empresa como de los trabajadores o trabajadoras beneficiados/as, si:
+
+a) La empresa solicitante hubiere puesto término a los contratos de trabajo de más del 20% de su plantilla de personas trabajadoras respecto de aquellas relaciones laborales vigentes a la fecha de su postulación.
+
+b) Cumplimiento del plazo de otorgamiento del beneficio y este no hubiera sido prorrogado.
+
+c) Por la pérdida de cualquiera de los requisitos que dan origen al beneficio.
+
+d) Término de la relación laboral, por cualquier causa, que da origen al beneficio.
+
+e) El empleador/a no está al día en la declaración y pago de cotizaciones previsionales de la plantilla de personas trabajadoras del mes anterior al que corresponda el pago del beneficio.
+
+La bonificación a que se refiere esta letra solo será compatible con las bonificaciones para el cuidado de niños o niñas menores establecidos en el numeral 3 de la letra c) del artículo tercero de este decreto.
+
 c) Línea Emergencia Laboral Reactivación Covid-19: Esta línea de acción se podrá implementar cuando, como consecuencia de la pandemia denominada Covid-19, se requiera incentivar la retención de empleos, evitando despidos de trabajadores acogidos a la ley N° 21.227 y la reincorporación al trabajo de trabajadoras y trabajadores, dependientes e independientes, que tienen a su cargo el cuidado de niños o niñas menores de cinco años, evitando su deserción por problemas de cuidado. Además, esta línea se podrá implementar para incentivar la contratación de nuevos trabajadores, y la formalización de las nuevas relaciones laborales que se creen, de acuerdo al inciso primero del artículo 9° del Código del Trabajo en el contexto de dicha pandemia, lo anterior con el objetivo de recuperar los puestos de trabajo perdidos. Dicha situación será calificada por el Subsecretario del Trabajo, mediante resolución fundada visada por la Dirección de Presupuestos, producto de la emergencia laboral motivada por la pandemia Covid-19 en adelante indistintamente también la "Resolución". La referida resolución determinará los aspectos administrativos necesarios para la adecuada gestión de las bonificaciones, así como los relativos a su implementación, mantención, pago y la época de postulación para cada una de las bonificaciones de esta línea de acción.
 
 Con cargo a los recursos del Programa se podrá otorgar a los empleadores o trabajadores y trabajadoras, según sea el caso, las siguientes bonificaciones:
@@ -230,11 +292,13 @@ Mecanismos de Control:
 
 El SENCE realizará auditorías internas al Programa, verificando el cumplimiento de sus diversas fases y lo estipulado en el presente decreto y las instrucciones dictadas al efecto.
 
-Respecto de la línea de acción del literal c) del artículo tercero, el Sence podrá verificar y determinar el cumplimiento de dichos requisitos y condiciones, incluyendo la declaración y pago, o la declaración y no pago, según sea el caso, de las o alguna de las cotizaciones de seguridad social del trabajador, solicitando información o confirmación al Servicio de Impuestos Internos, a la Dirección del Trabajo, a la Superintendencia de Pensiones, al Servicio de Registro Civil e Identificación, a la Superintendencia de Seguridad Social, al Instituto de Previsión Social o a otras entidades u organismos públicos con competencia en la materia. Asimismo, podrá solicitar al Instituto de Previsión Social los antecedentes que disponga el Sistema de Información establecido en el artículo 56 y siguientes de la ley Nº 20.255.
+Respecto de las líneas de acción de los literales b); b-bis) y c del artículo tercero, el Sence podrá verificar y determinar el cumplimiento de dichos requisitos y condiciones, incluyendo la declaración y pago, o la declaración y no pago, según sea el caso, de las o alguna de las cotizaciones de seguridad social del trabajador, solicitando información o confirmación al Servicio de Impuestos Internos, a la Dirección del Trabajo, a la Superintendencia de Pensiones, al Servicio de Registro Civil e Identificación, a la Superintendencia de Seguridad Social, al Instituto de Previsión Social o a otras entidades u organismos públicos con competencia en la materia. Asimismo, podrá solicitar al Instituto de Previsión Social los antecedentes que disponga el Sistema de Información establecido en el artículo 56 y siguientes de la ley Nº 20.255.
 
 Respecto de los empleadores que se encuentren en la situación del artículo 28 de la ley Nº 21.227, el Sence solo verificará que se encuentren declaradas las referidas cotizaciones afectas a dicha disposición.
 
 En caso de no haber cumplido las respectivas condiciones y obligaciones señaladas en los incisos precedentes, el empleador o el trabajador beneficiario, según sea el caso, no podrán recibir nuevas bonificaciones con cargo a la línea de acción del literal c) del artículo tercero; sin perjuicio de las demás acciones que correspondan.
+
+En caso de comprobarse la presentación de antecedentes falsos, y sin perjuicio de lo establecido en el artículo sexto bis del presente decreto la empresa deberá devolver todas las sumas que hubieran sido transferidas, por este concepto, tanto a ella como a los trabajadores y trabajadoras.
 
 Asimismo, el SENCE realizará las fiscalizaciones pertinentes, para verificar el cumplimiento de la normativa señalada en el presente decreto y en las instrucciones que el Director Nacional del SENCE dicte al efecto, de acuerdo con el Plan Anual de Fiscalización del SENCE.
 
