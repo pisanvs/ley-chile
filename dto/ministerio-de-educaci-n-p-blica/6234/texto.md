@@ -562,21 +562,19 @@ La Biblioteca deberá llevar un registro de todos los usuarios inscritos con su 
 
 #### Artículo 83
 
-Si el usuario que ha recibido una o más obras en préstamo no las devuelve en el plazo establecido, deberá pagar una multa por cada día de atraso con un tope de 1 unidad tributaria mensual. El monto de esta multa será determinado mediante resolución dictada anualmente por el director de la Dirección de Bibliotecas, Archivos y Museos.
+Si el usuario que ha recibido una o más obras en préstamo no las devuelve en el plazo establecido, perderá la posibilidad de retirar obras en préstamo desde cualquiera de las bibliotecas que forman parte del Sistema Nacional de Bibliotecas Públicas o de bibliotecas en convenio, de lo cual quedará constancia en su registro de usuario.
 
-Conjuntamente con la multa correspondiente por los días de atraso, el infractor perderá la posibilidad de retirar obras en préstamo desde cualquiera de las bibliotecas que forman parte del Sistema Nacional de Bibliotecas Públicas o de bibliotecas en convenio, de lo cual quedará constancia en su registro de usuario.
+Cesará la referida sanción una vez que el usuario restituya a la biblioteca el material prestado, conforme al artículo siguiente.
 
-Cesará la referida sanción una vez que el usuario restituya a la biblioteca el material prestado, conforme al artículo siguiente, y pague la multa correspondiente.
-
-En el caso de menores de 14 años, la multa y obligación de restituir se aplicará al padre, madre y/o apoderado respectivo y la pérdida de la posibilidad de retirar obras en préstamo afectará a ambos.
+En el caso de menores de 14 años, la obligación de restituir se aplicará al padre, madre y/o apoderado respectivo y la pérdida de la posibilidad de retirar obras en préstamo afectará a ambos.
 
 #### Artículo 84
 
-No se recibirá el material que se devuelva sensiblemente deteriorado o incompleto, en cuyo caso deberá el usuario reponerlo por uno nuevo original o por uno usado que se encuentre en buen estado de conservación, lo que determinará el encargado de la Sección correspondiente. En caso de no reponerlo o estimar el encargado de la Sección que el material usado repuesto no se encuentra en buen estado, se aplicará la sanción señalada en el inciso segundo del artículo 83 precedente, para el caso de atraso.
+No se recibirá el material que se devuelva sensiblemente deteriorado o incompleto, en cuyo caso deberá el usuario reponerlo por uno nuevo original o por uno usado que se encuentre en buen estado de conservación, lo que determinará el encargado de la Sección correspondiente. En caso de no reponerlo o estimar el encargado de la Sección que el material usado repuesto no se encuentra en buen estado, se aplicará la sanción señalada en el inciso primero del artículo 83 precedente, para el caso de atraso.
 
 #### Artículo 85
 
-Los fondos provenientes de las multas que se apliquen por retardo en la devolución, se invertirán en la adquisición de obras destinadas a esta Sección.
+Derogado.
 
 #### Artículo 85° bis
 
