@@ -64,7 +64,9 @@ El "Comité" estará integrado por los siguientes miembros permanentes:
 
 - Un representante de la Subsecretaría de Minería
 
-- Un representante de la Subsecretaría de Energía, y
+- Un representante de la Subsecretaría de Energía
+
+- Un representante de la Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación, y
 
 - Un representante de la Dirección Nacional de la Agencia Nacional de Inteligencia.
 
