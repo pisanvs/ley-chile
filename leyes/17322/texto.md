@@ -248,6 +248,12 @@ Sin perjuicio de lo dispuesto en los artículos 12 y 14 de esta ley, se aplicar�
 
 > **Nota.** El artículo 5º Transitorio de la LEY 19260, dispuso que quienes hayan incurrido en alguna de las conductas tipificadas en este artículo o en el inciso final del artículo 19 del DL 3500, de 1980, permanecerán sujetos a las disposiciones penales vigentes en la oportunidad de su ocurrencia, sin perjuicio de lo establecido en el artículo 18 del Código Penal.
 
+#### Artículo 13 bis
+
+<!-- parte:10450462 -->
+
+Con la misma pena establecida en el artículo anterior se sancionará al empleador que, sin el consentimiento del trabajador, omita retener o enterar las cotizaciones previsionales de un trabajador o declare ante las instituciones de seguridad social pagarle una renta imponible o bruta menor a la real, disminuyendo el monto de las cotizaciones que debe descontar y enterar. La conducta será sancionada igualmente, si el consentimiento del trabajador ha sido obtenido por el empleador con abuso grave de su situación de necesidad, inexperiencia o incapacidad de discernimiento.
+
 #### Artículo 14°
 
 <!-- parte:8636802 -->
