@@ -1432,6 +1432,24 @@ i) Se ejecuten al interior de áreas silvestres protegidas del Estado, sin autor
 
 Las infracciones previstas en esta ley prescribirán a los tres años de cometidas, plazo que se interrumpirá con la notificación de la formulación de cargos por los hechos constitutivos de las mismas.
 
+#### Artículo 37 bis
+
+Sin perjuicio de las sanciones que corresponda aplicar conforme a las normas del presente Título, será sancionado con la pena de presidio menor en sus grados mínimo a medio y multa de 100 a 1.000 unidades tributarias mensuales:
+
+a) El que maliciosamente en la evaluación ambiental de un proyecto presentare información que ocultare, morigerare, alterare o disminuyere los efectos o impactos ambientales futuros determinados en la evaluación ambiental, de un modo tal que pudiere conducir a una incorrecta aprobación de la resolución de calificación ambiental.
+
+b) El que maliciosamente fraccionare sus proyectos o actividades para eludir el sistema de evaluación de impacto ambiental o hacer variar la vía de ingreso a él.
+
+c) El que maliciosamente presentare a la Superintendencia del Medio Ambiente información falsa o incompleta para acreditar el cumplimiento de obligaciones impuestas en una resolución de calificación ambiental, normas de emisión, planes de reparación, programas de cumplimiento, planes de prevención o de descontaminación, o cualquier otro instrumento de gestión ambiental de su competencia.
+
+#### Artículo 37 ter
+
+Sin perjuicio de las sanciones que corresponda aplicar conforme a las normas del presente Título, será sancionado con la pena de presidio menor en su grado mínimo y multa de 50 a 500 unidades tributarias mensuales:
+
+a) El que incumpliere las sanciones de clausura impuestas por la Superintendencia del Medio Ambiente o las medidas impuestas en virtud de las letras b), c), d) y e) del artículo 48.
+
+b) El que impidiere u obstaculizare significativamente las actividades de fiscalización que efectuare la Superintendencia del Medio Ambiente.
+
 ### Párrafo 2º
 
 De las sanciones

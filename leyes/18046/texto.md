@@ -1432,7 +1432,19 @@ Las acciones contempladas en este artículo, son compatibles con las demás acci
 
 #### Artículo 134
 
-Los peritos, contadores o auditores externos que con sus informes, declaraciones o certificaciones falsas o dolosas, indujeren a error a los accionistas o a los terceros que hayan contratado con la sociedad, fundados en dichas informaciones o declaraciones falsas o dolosas, sufrirán la pena de presidio o relegación menores en sus grados medios a máximo y multa a beneficio fiscal por valor de hasta una suma equivalente a 4.000 unidades de fomento.
+Los directores, gerentes, administradores o ejecutivos principales de una sociedad anónima que en la memoria, balances u otros documentos destinados a los socios, a terceros o a la Administración, exigidos por ley o por la reglamentación aplicable, que deban reflejar la situación legal, económica y financiera de la sociedad, dieren o aprobaren dar información falsa sobre aspectos relevantes para conocer el patrimonio y la situación financiera o jurídica de la sociedad, serán sancionados con la pena de presidio o reclusión menores en sus grados medio a máximo.
+
+Con la misma pena serán sancionados quienes lleven la contabilidad de la sociedad, o los peritos, auditores externos o inspectores de cuenta ajenos a la sociedad, que colaboraren al hecho descrito en el inciso anterior. La pena se impondrá, asimismo, a quienes colaboren al hecho con ocasión de la prestación de servicios de auditoría externa por una persona jurídica.
+
+Si el hecho se refiere a una sociedad anónima abierta, la pena podrá ser aumentada en un grado.
+
+Lo dispuesto en los incisos precedentes será aplicable siempre que la conducta no constituyere otro delito sancionado con mayor pena.
+
+#### Artículo 134 bis
+
+Los que prevaliéndose de su posición mayoritaria en el directorio de una sociedad anónima adoptaren un acuerdo abusivo, para beneficiarse o beneficiar económicamente a otro, en perjuicio de los demás socios y sin que el acuerdo reporte un beneficio a la sociedad, serán sancionados con la pena de presidio o reclusión menores en cualquiera de sus grados.
+
+La misma pena se impondrá a los que prevaliéndose de su condición de controlador de la sociedad indujeren el acuerdo abusivo del directorio, o con su acuerdo o decisión concurrieren a su ejecución.
 
 ## Título XV
 

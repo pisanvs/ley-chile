@@ -210,7 +210,7 @@ b) El cobro de cualquier servicio al fondo, no autorizado por ley o los reglamen
 
 c) El cobro al fondo de cualquier servicio prestado por personas relacionadas con la administradora del mismo, salvo que ello esté expresamente autorizado con un límite anual por el reglamento interno del fondo y que dicho cobro se efectúe en condiciones de mercado.
 
-d) La comunicación de información relevante relativa a la adquisición, enajenación o mantención de activos por cuenta del fondo, a personas distintas de aquellas que estrictamente deban participar en las operaciones respectivas.
+d) La infracción a lo dispuesto en el Título XXI de la ley N° 18.045.
 
 e) La adquisición de activos que haga la administradora para sí, dentro de los 5 días siguientes a la enajenación de éstos, efectuada por ella por cuenta del fondo, si el precio de compra es inferior al existente antes de dicha enajenación. Tratándose de activos de baja liquidez, este plazo será de 60 días.
 
@@ -227,6 +227,8 @@ Para los efectos de las operaciones a que se refiere este artículo, se entender
 Se entenderá por activos de baja liquidez aquellos que no se transen frecuentemente y en volúmenes significativos en los mercados secundarios formales, de conformidad a lo determinado por la Superintendencia mediante norma de carácter general.
 
 No obstante las sanciones administrativas, civiles y penales que correspondan y el derecho a reclamar perjuicios, los actos o contratos realizados en contravención a las prohibiciones anteriormente señaladas no verán afectada su validez.
+
+En todo caso, la infracción señalada en la letra d) originará las responsabilidades previstas en la ley N° 18.045.
 
 #### Artículo 23
 

@@ -366,7 +366,7 @@ Del mismo modo, procederá la acumulación de causas respecto de un empleador mo
 
 Los representantes legales de las Administradoras de Fondos de Pensiones tendrán las facultades establecidas en el artículo 2° de la ley N° 17.322, con excepción de la que se señala en el número tercero de dicha disposición.
 
-Serán aplicables todas las normas contenidas en los artículos 1º, 3º, 4º, 4º bis, 5º, 5º bis, 6º, 7º, 8º, 9º, 10 bis, 11, 12, 14, 18, 19, 20 y 25 bis, de la ley Nº 17.322 al cobro de las cotizaciones, reajustes e intereses adeudados a una Administradora de Fondos de Pensiones, incluso las sanciones penales establecidas en dicho cuerpo legal para los empleadores que no consignen las cotizaciones que hubieren retenido o debido retener, las que podrán hacerse extensivas, en su caso, a las entidades pagadoras de subsidios.
+Serán aplicables todas las normas contenidas en los artículos 1º, 3º, 4º, 4º bis, 5º, 5º bis, 6º, 7º, 8º, 9º, 10 bis, 11, 12, 13, 13 bis, 14, 18, 19, 20 y 25 bis, de la ley Nº 17.322 al cobro de las cotizaciones, reajustes e intereses adeudados a una Administradora de Fondos de Pensiones, incluso las sanciones penales establecidas en dicho cuerpo legal para los empleadores que no consignen las cotizaciones que hubieren retenido o debido retener, las que podrán hacerse extensivas, en su caso, a las entidades pagadoras de subsidios.
 
 Los reajustes e intereses, incluidos los recargos a que se refieren los incisos undécimo y duodécimo, serán abonados conjuntamente con el valor de las cotizaciones en la cuenta de capitalización individual del afiliado. Serán de beneficio de la Administradora sólo las costas de cobranza.
 
@@ -375,6 +375,8 @@ La prescripción que extingue las acciones para el cobro de cotizaciones previsi
 Las cotizaciones previsionales, multas, reajustes e intereses que las Administradoras de Fondos de Pensiones tienen la obligación de cobrar, gozarán del privilegio establecido en el N° 5 del artículo 2.472 del Código Civil, conservando este privilegio por sobre los derechos de prenda y otras garantías establecidas en leyes especiales.
 
 Sin perjuicio de lo establecido en los artículos 12 y 14 de la Ley N° 17.322, se aplicarán las penas del artículo 467 del Código Penal al que en perjuicio del trabajador o de sus derechohabientes se apropiare o distrajere el dinero proveniente de las cotizaciones que se hubiere descontado de la remuneración del trabajador.
+
+Con la misma pena establecida en el inciso anterior se sancionará al empleador que, sin el consentimiento del trabajador, omita retener o enterar las cotizaciones previsionales de un trabajador o declare ante las instituciones de seguridad social, pagarle una renta imponible o bruta menor a la real, disminuyendo el monto de las cotizaciones que debe descontar y enterar. La conducta será sancionada igualmente, si el consentimiento del trabajador ha sido obtenido por el empleador con abuso grave de su situación de necesidad, inexperiencia o incapacidad de discernimiento.
 
 Los empleadores que no pagaren las cotizaciones establecidas en este Título, no podrán percibir recursos provenientes de instituciones públicas o privadas, financiados con cargo a recursos fiscales de fomento productivo, sin acreditar previamente ante las instituciones que administren los instrumentos referidos, estar al día en el pago de dichas cotizaciones. Sin embargo, podrán solicitar su acceso a tales recursos, los que sólo se cursarán acreditado que sea el pago respectivo.
 
@@ -2892,6 +2894,8 @@ Del mismo modo, les está prohibido valerse, directa o indirectamente, en benefi
 
 Los miembros de la Comisión Clasificadora, los integrantes de la Secretaría Administrativa, los funcionarios públicos o aquellas personas que tomen conocimiento de las proposiciones de aprobación de instrumentos o de las clasificaciones presentadas a la Comisión Clasificadora para su consideración, que presentaren o difundieren información falsa o tendenciosa respecto de los instrumentos que aquélla deba aprobar o rechazar, sufrirán la pena de reclusión menor en sus grados mínimo a medio e inhabilitación para ejercer cargos en la Comisión Clasificadora y en cualquier oficio público por todo el tiempo que dure la condena, sin perjuicio de las acciones civiles que correspondan.
 
+Si el hecho constitutivo de la infracción o contravención a que se refieren los incisos precedentes constituyere también delito conforme al artículo 60 de la ley N° 18.045 o al artículo 284 del Código Penal, se estará a la pena señalada en esas disposiciones.
+
 #### Artículo 104
 
 INCISOS 1º Y 2º SUPRIMIDOS
@@ -3316,7 +3320,7 @@ Las personas que participen en las decisiones sobre adquisición, enajenación o
 
 #### Artículo 152
 
-Se prohibe a las Administradoras adquirir acciones y cuotas de fondos de inversión que puedan ser adquiridas con recursos del Fondo. Asimismo, se prohibe a las Administradoras, a las personas que participan en las decisiones y operaciones de adquisición y enajenación de activos para alguno de los Fondos, y a las personas que, en razón de su cargo o posición, están informadas respecto de las transacciones de los Fondos, adquirir activos de baja liquidez, a los que se refiere el artículo 162 de la ley N° 18.045.
+Se prohibe a las Administradoras adquirir acciones y cuotas de fondos de inversión que puedan ser adquiridas con recursos del Fondo. Asimismo, se prohibe a las Administradoras, a las personas que participan en las decisiones y operaciones de adquisición y enajenación de activos para alguno de los Fondos, y a las personas que, en razón de su cargo o posición, están informadas respecto de las transacciones de los Fondos, adquirir activos de baja liquidez, a los que se refiere el artículo 22 de la ley N° 20.712.
 
 Si una Administradora hubiera invertido en los instrumentos señalados en el inciso anterior, deberá enajenarlos en un plazo máximo de un año, contado desde la fecha en que pudieran ser adquiridos por el Fondo. En tanto la Administradora los mantenga como inversiones propias, estará impedida de adquirir dichos instrumentos con recursos cualquiera de los Fondos.
 
@@ -3508,15 +3512,23 @@ El que ejecute o celebre, individual o colectivamente, cualquier acto o convenci
 
 #### Artículo 159
 
-Sufrirán las penas de presidio menor en su grado medio a presidio mayor en su grado mínimo, los directores, gerentes, apoderados, liquidadores, operadores de mesa de dinero, y trabajadores de una Administradora de Fondos de Pensiones que en razón de su cargo o posición, y valiéndose de información privilegiada de aquélla que trata el Título XXI de la ley N° 18.045:
+Sufrirán las penas de presidio menor en su grado máximo a presidio mayor en su grado mínimo, los directores, gerentes, apoderados, liquidadores y operadores de mesa de dinero de una Administradora de Fondos de Pensiones que en razón de su cargo o posición, y valiéndose de información privilegiada de aquélla que trata el Título XXI de la ley N° 18.045:
 
 a) Ejecuten un acto por sí o por intermedio de otras personas, con el objeto de obtener un beneficio pecuniario para sí o para otros, mediante cualquier operación o transacción de valores de oferta pública;
 
 b) Divulguen la información privilegiada, relativa a las decisiones de inversión de cualquiera de los Fondos a personas distintas de las encargadas de efectuar las operaciones de adquisición o enajenación de valores de oferta pública por cuenta o en representación de cualquiera de los Fondos.
 
+Si el hecho constitutivo de la infracción o contravención a que se refieren las letras a) o b) del inciso precedente constituye también delito conforme a lo dispuesto en los incisos primero o segundo del artículo 60 de la ley N° 18.045, o en el artículo 284 del Código Penal, las demás personas que lo perpetren responderán penalmente según lo dispuesto en dichos preceptos.
+
 Igual pena sufrirán los trabajadores de una Administradora de Fondos de Pensiones que, estando encargados de la administración de la cartera y, en especial, de las decisiones de adquisición, mantención o enajenación de instrumentos para cualquiera de los Fondos y la Administradora respectiva, ejerzan por sí o a través de otras personas, simultáneamente la función administración de otra cartera de inversiones, y quienes teniendo igual condición infrinjan cualquiera de las prohibiciones consignadas en las letras a), c), d) y h) del artículo 154.
 
 > **Nota.** El artículo 2º de la LEY 19641, establece normas sobre vigencia de la misma.
+
+#### Artículo 159 bis
+
+Sufrirán la pena de presidio menor en sus grados medio a máximo los directores, gerentes, apoderados, liquidadores u operadores de mesa de dinero de una Administradora de Fondos de Pensiones que, poseyendo información privilegiada de aquélla que trata el Título XXI de la ley N° 18.045 en razón de su cargo o posición, recomendaren a otro la realización de las operaciones a que se refiere la letra a) del inciso primero del artículo 159.
+
+Las demás personas que perpetren el hecho previsto en el inciso precedente responderán penalmente según lo dispuesto en el inciso tercero del artículo 60 de la ley N° 18.045.
 
 ## Título XV
 
@@ -3681,6 +3693,8 @@ e) Falta grave al cumplimiento de las obligaciones establecidas en este Título.
 Los miembros titulares y suplentes y el Secretario Técnico del Consejo deberán guardar reserva sobre los documentos y antecedentes a que tengan acceso en el ejercicio de su función, siempre que éstos no tengan carácter público. La infracción a esta obligación será sancionada con la pena de reclusión menor en sus grados mínimo a medio.
 
 Del mismo modo, a las personas indicadas en el inciso precedente les está prohibido valerse, directa o indirectamente, en beneficio propio o de terceros, de la información a que tengan acceso en el desempeño de esta función, en tanto no sea divulgada al público. La infracción a lo dispuesto en este inciso será sancionada con la pena de reclusión menor en su grado medio e inhabilitación para cargos y oficios públicos por el tiempo de la condena.
+
+Si el hecho constitutivo de la infracción o contravención a que se refieren los incisos precedentes constituye también delito conforme al artículo 60 de la ley N° 18.045 o al artículo 284 del Código Penal, se estará a la pena señalada en esas disposiciones.
 
 Los integrantes del Consejo percibirán una dieta en pesos equivalente a 17 unidades tributarias mensuales por cada sesión a que asistan, con un máximo de 34 unidades tributarias mensuales por cada mes calendario.
 

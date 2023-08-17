@@ -418,15 +418,15 @@ Toda sentencia condenatoria en materia criminal lleva envuelta la obligación de
 
 #### Artículo 24 bis
 
-Toda sentencia condenatoria en materia criminal lleva consigo el comiso de las ganancias provenientes del delito cuando las hubiere. Por el comiso de ganancias se priva a una persona de activos patrimoniales cuyo valor corresponda a la cuantía de las ganancias obtenidas a través del delito, o bien para o por perpetrarlo, y se los transfiere a la Corporación Administrativa del Poder Judicial.
+Toda sentencia condenatoria en materia criminal lleva consigo el comiso de las ganancias provenientes del delito. Por el comiso de ganancias se priva a una persona de activos patrimoniales cuyo valor corresponda a la cuantía de las ganancias obtenidas a través del delito, o bien para o por perpetrarlo. Lo obtenido en virtud de lo señalado precedentemente será transferido al Fisco.
 
-Las ganancias obtenidas comprenden los frutos y las utilidades que se han originado, cualquiera sea su naturaleza jurídica. También comprenden el equivalente a los costos evitados mediante el hecho ilícito.
+Las ganancias obtenidas comprenden los frutos y las utilidades que se hubieren originado, cualquiera sea su naturaleza jurídica. Las ganancias comprenden también el equivalente a los costos evitados mediante el hecho ilícito.
 
-En la determinación del valor de las ganancias no se descontarán los gastos que han sido necesarios para perpetrar el delito y obtenerlas.
+En la determinación del valor de las ganancias no se descontarán los gastos que hubieren sido necesarios para perpetrar el delito y obtenerlas.
 
-La acción para obtener el comiso de ganancias se sujetará a las reglas de prescripción de la acción penal respectiva.
+La acción para obtener el comiso de ganancias se sujetará a las reglas de la prescripción de la acción penal respectiva.
 
-Si un mismo bien puede ser objeto de comiso conforme a este artículo y conforme a los artículos 31, 31 bis y 31 ter, sólo se aplicará lo dispuesto en este artículo.
+Si un mismo bien pudiere ser objeto de comiso conforme a este artículo y conforme a otras disposiciones de este Código, sólo se aplicará lo dispuesto en este artículo.
 
 #### Artículo 24 ter
 
@@ -1037,6 +1037,14 @@ Cuando sea preciso elevar las inhabilitaciones absolutas o especiales perpetuas 
 #### Artículo 78
 
 Siempre que sea necesario determinar la correspondencia entre las penas de este Código y las impuestas con anterioridad a su vigencia, se hará tomando en cuenta la naturaleza de éstas y el período de su duración. Así por ejemplo, cuatro años de presidio o de penitenciaria equivalen a presidio menor en su grado máximo.
+
+#### Artículo 78 bis
+
+La circunstancia de que un hecho constitutivo de delito pueda asimismo dar lugar a una o más sanciones o medidas de las establecidas en el artículo 20 no obsta a la imposición de las penas que procedan.
+
+Con todo, el monto de la pena de multa pagada será abonado a la multa no constitutiva de pena que se imponga al condenado por el mismo hecho. Si el condenado hubiere pagado una multa no constitutiva de pena como consecuencia del mismo hecho, el monto pagado será abonado a la pena de multa impuesta.
+
+La extensión de la suspensión o inhabilitación impuesta al condenado como consecuencia adicional a la pena será deducida de la extensión de la suspensión o inhabilitación de la misma naturaleza que fuere impuesta como sanción administrativa o disciplinaria. Si el condenado hubiere sido sometido a una suspensión o inhabilitación como sanción administrativa o disciplinaria, la extensión de ésta será deducida de la suspensión o inhabilitación de la misma naturaleza que se le impusiere.
 
 ### V. De la ejecución de las penas y de su cumplimiento
 
@@ -2236,11 +2244,13 @@ En este caso se aplicará lo dispuesto en el artículo 465 de este Código.
 
 6º El que tenga a su cargo la salvaguardia o la gestión de todo o parte del patrimonio de otra persona que estuviere impedida de administrarlo, que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión en la cual hubiere de intervenir en relación con ese patrimonio, incumpliendo las condiciones establecidas en la ley.
 
-7° El director o gerente de una sociedad anónima que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión que involucre a la sociedad, incumpliendo las condiciones establecidas por la ley, así como toda persona a quien le sean aplicables las normas que en materia de deberes se establecen para los directores o gerentes de estas sociedades.
+7° El director o gerente de una sociedad anónima abierta o especial que directa o indirectamente se interesare en cualquier negociación, actuación, contrato, operación o gestión que involucre a la sociedad, incumpliendo las condiciones establecidas por la ley, así como toda persona a quien le sean aplicables las normas que en materia de deberes se establecen para los directores o gerentes de estas sociedades.
 
-Las mismas penas se impondrán a las personas enumeradas en el inciso precedente si, en las mismas circunstancias, dieren o dejaren tomar interés, debiendo impedirlo, a su cónyuge o conviviente civil, a un pariente en cualquier grado de la línea recta o hasta en el tercer grado inclusive de la línea colateral, sea por consanguinidad o afinidad.
+Las mismas penas se impondrán a las personas mencionadas en los números 1 a 6 del inciso precedente si, en las mismas circunstancias, dieren o dejaren tomar interés, debiendo impedirlo, a su cónyuge o conviviente civil, a un pariente en cualquier grado de la línea recta o hasta en el tercer grado inclusive de la línea colateral, sea por consanguinidad o afinidad.
 
-Lo mismo valdrá en caso de que alguna de las personas enumeradas en el inciso primero, en las mismas circunstancias, diere o dejare tomar interés, debiendo impedirlo, a terceros asociados con ella o con las personas indicadas en el inciso precedente, o a sociedades, asociaciones o empresas en las que ella misma, dichos terceros o esas personas ejerzan su administración en cualquier forma o tengan interés social, el cual deberá ser superior al diez por ciento si la sociedad fuere anónima.
+Lo mismo valdrá en caso de que alguna de las personas mencionadas en los números 1 a 6 del inciso primero, en las mismas circunstancias, diere o dejare tomar interés, debiendo impedirlo, a terceros asociados con ella o con las personas indicadas en el inciso precedente, o a sociedades, asociaciones o empresas en las que ella misma, dichos terceros o esas personas ejerzan su administración en cualquier forma o tengan interés social, el cual deberá ser superior al diez por ciento si la sociedad fuere anónima.
+
+Tratándose de una sociedad anónima abierta o especial, las mismas penas referidas en el inciso primero se aplicarán al director o gerente que diere o dejare tomar interés a personas consideradas por la ley como partes relacionadas.
 
 #### Artículo 240 bis
 
@@ -2307,6 +2317,8 @@ Las mismas penas se aplicarán a los que, ejerciendo alguna de las profesiones q
 #### Artículo 247 bis
 
 El empleado público que, haciendo uso de un secreto o información concreta reservada, de que tenga conocimiento en razón de su cargo, obtuviere un beneficio económico para sí o para un tercero, será castigado con la pena privativa de libertad del artículo anterior y multa del tanto al triplo del beneficio obtenido.
+
+Con las mismas penas serán castigados los que, ejerciendo alguna de las profesiones que requieren título, obtuvieren un beneficio económico para sí o para un tercero haciendo uso de los secretos que por razón de su profesión se les hubiere confiado. Tratándose de un abogado, si el hecho perjudicare a su cliente, se impondrán además las penas privativas de derechos señaladas en el artículo 231.
 
 ### IX. Cohecho
 
@@ -2706,15 +2718,57 @@ El prestamista que hiciere préstamos de la clase indicada en los artículos pre
 
 #### Artículo 284
 
-El que fraudulentamente hubiere comunicado secretos de la fábrica en que ha estado o está empleado, sufrirá la pena de reclusión menor en sus grados mínimo a medio o multa de once a veinte unidades tributarias mensuales.
+El que sin el consentimiento de su legítimo poseedor accediere a un secreto comercial mediante intromisión indebida con el propósito de revelarlo o aprovecharse económicamente de él será castigado con presidio o reclusión menor en su grado medio.
+
+Para efectos de lo dispuesto en el inciso anterior, se entenderá por intromisión:
+
+1. El ingreso a dependencias de la empresa o la captación visual o sonora mediante dispositivos técnicos de lo que tuviere lugar al interior de dependencias de la empresa, siempre que ello no fuere perceptible desde su exterior sin la utilización de dispositivos técnicos como los empleados en la captación o sin recurrir a escalamiento o a algún otro modo de vencimiento de un obstáculo a la percepción.
+
+2. La captación visual o sonora mediante dispositivos técnicos del contenido de la comunicación que dos o más personas mantuvieren de la ejecución de una acción o del desarrollo de una situación por parte de una persona cuando los involucrados tuvieren una expectativa legítima de no estar siendo vistos, escuchados, filmados o grabados, manifestada en las circunstancias de la comunicación, la acción o la situación y que ésta concerniere a la empresa.
+
+3. El acceso a un sistema informático sin autorización o excediendo la autorización que se posea y superando barreras técnicas o medidas tecnológicas de seguridad.
+
+La pena señalada en el inciso primero se impondrá también al que sin el consentimiento de su legítimo poseedor reprodujere la fijación en cualquier formato de información constitutiva de un secreto comercial con el propósito de revelarlo o aprovecharse económicamente de él.
+
+El que, habiendo perpetrado cualquiera de los hechos previstos en los incisos anteriores, sin el consentimiento de su legítimo poseedor revelare o consintiere en que otro accediere al secreto comercial será sancionado con la pena de presidio o reclusión menor en su grado máximo.
+
+#### Artículo 284 bis
+
+Será castigado con presidio o reclusión menor en su grado medio el que sin el consentimiento de su legítimo poseedor revelare o consintiere que otra persona accediere a un secreto comercial que hubiere conocido:
+
+1. Bajo un deber de confidencialidad con ocasión del ejercicio de un cargo o una función pública o de una profesión cuyo título se encontrare legalmente reconocido y siempre que el deber de confidencialidad profesional estuviere fundado en la ley o en un reglamento, o en las reglas que definen su correcto ejercicio.
+
+2. En razón o a consecuencia de una relación contractual o laboral con la empresa afectada o con otra que le haya prestado servicios.
+
+#### Artículo 284 ter
+
+El que sin el consentimiento de su legítimo poseedor se aprovechare económicamente de un secreto comercial que hubiere conocido en alguna de las circunstancias previstas en los incisos primero o segundo del artículo 284 o en el artículo 284 bis, o sabiendo que su conocimiento del secreto proviene de alguno de esos hechos, será sancionado con presidio o reclusión menor en su grado máximo.
+
+#### Artículo 284 quáter
+
+Sin perjuicio de las penas previstas en los artículos precedentes, cuando el delito se cometa con ocasión del ejercicio de una de las profesiones a que se refiere el artículo 284 bis se impondrá, además, la pena accesoria de suspensión o inhabilitación del ejercicio de su profesión.
+
+La pena y su duración serán determinadas atendiendo a la pena principal impuesta conforme a las reglas previstas por los artículos 29 y 30 para la inhabilitación o suspensión de cargo u oficio público.
+
+#### Artículo 284
+
+quinquies.-
+
+No incurre en el delito previsto en los artículos 284 bis y 284 ter quien en el ejercicio de su profesión, oficio, trabajo o actividad económica usa la experiencia y las competencias legítimamente adquiridas en conocimiento lícito de un secreto comercial.
+
+#### Artículo 284
+
+sexies.-
+
+Para efectos de lo dispuesto en los artículos precedentes, se entenderá por secreto comercial la información que reúna los requisitos exigidos por la ley de propiedad industrial.
 
 #### Artículo 285
 
-Los que por medios fraudulentos consiguieren alterar el precio natural del trabajo, de los géneros o mercaderías, acciones, rentas públicas o privadas o de cualesquiera otras cosas que fueren objetos de contratación, sufrirán las penas de reclusión menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
+El que por medios fraudulentos alterare el precio de bienes o servicios sufrirá las penas de presidio o reclusión menor en sus grados medio a máximo.
 
 #### Artículo 286
 
-Cuando el fraude expresado en el artículo anterior recayere sobre mantenimientos u otros objetos de primera necesidad, además de las penas que en él se señalan, se impondrá la de comiso de los géneros que fueren objeto del fraude.
+Se impondrá la pena de presidio o reclusión menor en su grado máximo a presidio o reclusión mayor en su grado mínimo cuando el fraude expresado en el artículo anterior recayere sobre el precio de bienes o servicios de primera necesidad o de consumo masivo.
 
 #### Artículo 287
 
@@ -2724,11 +2778,11 @@ Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los p
 
 #### Artículo 287 bis
 
-El empleado o mandatario que solicitare o aceptare recibir un beneficio económico o de otra naturaleza, para sí o un tercero, para favorecer o por haber favorecido en el ejercicio de sus labores la contratación con un oferente sobre otro será sancionado con la pena de reclusión menor en su grado medio y multa del tanto al duplo del beneficio solicitado o aceptado. Si el beneficio fuere de naturaleza distinta de la económica, la multa será de cincuenta a quinientas unidades tributarias mensuales.
+El director, administrador, mandatario o empleado de una empresa que solicitare o aceptare recibir un beneficio económico o de otra naturaleza, para sí o un tercero, para favorecer o por haber favorecido en el ejercicio de sus labores la contratación con un oferente sobre otro será sancionado con la pena de reclusión menor en su grado medio y multa del tanto al duplo del beneficio solicitado o aceptado. Si el beneficio fuere de naturaleza distinta de la económica, la multa será de cincuenta a quinientas unidades tributarias mensuales.
 
 #### Artículo 287 ter
 
-El que diere, ofreciere o consintiere en dar a un empleado o mandatario un beneficio económico o de otra naturaleza, para sí o un tercero, para que favorezca o por haber favorecido la contratación con un oferente por sobre otro será castigado con la pena de reclusión menor en su grado medio, en el caso del beneficio dado u ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido. Además, se le sancionará con las penas de multa señaladas en el artículo precedente.
+El que diere, ofreciere o consintiere en dar a un director, administrador, mandatario o empleado de una empresa un beneficio económico o de otra naturaleza, para sí o un tercero, para que favorezca o por haber favorecido la contratación con un oferente por sobre otro será castigado con la pena de reclusión menor en su grado medio, en el caso del beneficio dado u ofrecido, o de reclusión menor en su grado mínimo, en el caso del beneficio consentido. Además, se le sancionará con las penas de multa señaladas en el artículo precedente.
 
 ### VIII. De las infracciones de las leyes y reglamentos relativos a las armas prohibidas
 
@@ -2922,39 +2976,137 @@ Si las conductas a que se refiere el inciso anterior fueren perpetradas por un a
 
 Si la conducta descrita en el inciso primero fuere cometida por el empleado público para facilitar la perpetración de alguno de los crímenes o simples delitos previstos en el artículo 27 letra a) de la ley N° 19.913, artículos 1, 2, 3 y 4 de la ley N° 20.000, y en los artículos 141, 142, 268 ter, 391, 438, 467 y 468 del presente Código, se aumentará la pena del inciso primero en un grado y además conllevará la inhabilitación absoluta perpetua para cargos u oficios públicos.
 
-XIII. De la vagancia y mendicidad. Derogado.-
+### 13. Atentados contra el medio ambiente
 
 #### Artículo 305
 
-Derogado.
+Será sancionado con presidio o reclusión menor en sus grados mínimo a medio el que sin haber sometido su actividad a una evaluación de impacto ambiental a sabiendas de estar obligado a ello:
+
+1. Vierta sustancias contaminantes en aguas marítimas o continentales.
+
+2. Extraiga aguas continentales, sean superficiales o subterráneas, o aguas marítimas.
+
+3. Vierta o deposite sustancias contaminantes en el suelo o subsuelo, continental o marítimo.
+
+4. Vierta tierras u otros sólidos en humedales.
+
+5. Extraiga componentes del suelo o subsuelo.
+
+6. Libere sustancias contaminantes al aire.
+
+La pena será de presidio o reclusión menor en sus grados medio a máximo si el infractor perpetra el hecho estando obligado a someter su actividad a un estudio de impacto ambiental.
 
 #### Artículo 306
 
-Derogado.
+Las penas señaladas en el inciso primero del artículo anterior serán aplicables al que, contando con autorización para verter, liberar o extraer cualquiera de las sustancias o elementos mencionados en los números 1 a 6 del artículo 305, incurra en cualquiera de los hechos allí previstos, contraviniendo una norma de emisión o de calidad ambiental, incumpliendo las medidas establecidas en un plan de prevención, de descontaminación o de manejo ambiental, incumpliendo una resolución de calificación ambiental, o cualquier condición asociada al otorgamiento de la autorización, y siempre que el infractor hubiere sido sancionado administrativamente en, al menos, dos procedimientos sancionatorios distintos, por infracciones graves o gravísimas, dentro de los diez años anteriores al hecho punible y cometidas en relación con una misma unidad sometida a control de la autoridad.
 
 #### Artículo 307
 
-Derogado.
+Las penas señaladas en el inciso primero del artículo 305 serán también aplicables al que, contando con autorización para extraer aguas continentales, superficiales o subterráneas, las extraiga infringiendo las reglas de su distribución y aprovechamiento en cualquiera de las siguientes circunstancias:
+
+1. Habiéndose establecido por la autoridad la reducción temporal del ejercicio de esos derechos de aprovechamiento.
+
+2. En una zona que haya sido declarada zona de prohibición para nuevas explotaciones acuíferas, haya sido decretada área de restricción del sector hidrogeológico, que se haya declarado a su respecto el agotamiento de las fuentes naturales de aguas o se la haya declarado zona de escasez hídrica.
 
 #### Artículo 308
 
-Derogado.
+El que, vertiendo, depositando o liberando sustancias contaminantes, o extrayendo aguas o componentes del suelo o subsuelo, afectare gravemente las aguas marítimas o continentales, superficiales o subterráneas, el suelo o el subsuelo, fuere continental o marítimo, o el aire, o bien la salud animal o vegetal, la existencia de recursos hídricos o el abastecimiento de agua potable, o que afectare gravemente humedales vertiendo en ellos tierras u otros sólidos, será sancionado:
+
+1. Con la pena de presidio o reclusión mayor en su grado mínimo, si la afectación grave fuere perpetrada concurriendo las circunstancias previstas en los artículos 305, 306 o 307.
+
+2. Con la pena de presidio o reclusión menor en su grado máximo a presidio mayor en su grado mínimo en los casos no comprendidos en el número precedente, y siempre que no estuviere autorizado para ello.
 
 #### Artículo 309
 
-Derogado.
+El que por imprudencia temeraria o por mera imprudencia o negligencia con infracción de los reglamentos incurriere en los hechos señalados en el artículo anterior, será sancionado:
+
+1. Con la pena de presidio o reclusión menor en su grado máximo, si la afectación grave fuere perpetrada concurriendo las circunstancias previstas en los artículos 305, 306 o 307.
+
+2. Con la pena de presidio o reclusión menor en cualquiera de sus grados en los casos no comprendidos en el número precedente.
 
 #### Artículo 310
 
-Derogado.
+El que afectare gravemente uno o más de los componentes ambientales de una reserva de región virgen, un parque nacional, un monumento natural, una reserva nacional o un humedal de importancia internacional, será sancionado con presidio o reclusión mayor en su grado mínimo.
+
+La misma pena se impondrá al que, infringiendo una resolución de calificación ambiental o sin haber sometido su actividad a una evaluación de impacto ambiental estando obligado a ello, afectare gravemente un glaciar.
+
+La pena será de presidio o reclusión menor en su grado máximo si cualquiera de los hechos señalados en los incisos anteriores fuere perpetrado por imprudencia temeraria o por mera imprudencia o negligencia con infracción de los reglamentos.
+
+#### Artículo 310 bis
+
+Para los efectos de los tres artículos precedentes se entenderá por afectación grave de uno o más componentes ambientales el cambio adverso producido en alguno de ellos, siempre que concurra alguna de las siguientes circunstancias:
+
+1. Tener una extensión espacial de relevancia, según las características ecológicas o geográficas de la zona afectada.
+
+2. Tener efectos prolongados en el tiempo.
+
+3. Ser irreparable o difícilmente reparable.
+
+4. Alcanzar a un conjunto significativo de especies, según las características de la zona afectada.
+
+5. Incidir en especies categorizadas como extintas, extintas en grado silvestre, en peligro crítico o en peligro o vulnerables.
+
+6. Poner en serio riesgo de grave daño la salud de una o más personas.
+
+7. Afectar significativamente los servicios o funciones ecosistémicas del elemento o componente ambiental.
+
+Tratándose de los hechos previstos en el número 1 del artículo 308 y en los incisos primero y segundo del artículo 310, si la afectación grave causa un daño irreversible a un ecosistema, se impondrá el máximum de las penas a ellos señaladas.
+
+#### Artículo 310 ter
+
+Además de las penas señaladas en las disposiciones de este Párrafo, el tribunal impondrá la pena de multa:
+
+1. De ciento veinte a sesenta mil unidades tributarias mensuales, si la pena máxima señalada fuere inferior a la de presidio o reclusión menor en su grado máximo.
+
+2. De doce mil a noventa mil unidades tributarias mensuales, si la pena mínima señalada fuere inferior a la de presidio o reclusión menor en su grado máximo.
+
+3. De veinticuatro mil a ciento veinte mil unidades tributarias mensuales, si la pena mínima señalada fuere igual o superior a la de presidio o reclusión menor en su grado máximo.
+
+El monto de la pena de multa pagada será abonado a la sanción de multa no constitutiva de pena que le fuere impuesta por el mismo hecho. Si el condenado hubiere pagado una multa no constitutiva de pena por el mismo hecho, el monto pagado será abonado a la pena de multa impuesta.
 
 #### Artículo 311
 
-Derogado.
+Tratándose de los hechos previstos en los artículos 305, 306 o 307, la pena sólo será la multa de ciento veinte a doce mil unidades tributarias mensuales cuando:
+
+1. La cantidad vertida, liberada o extraída en exceso no supere en forma significativa el límite permitido o autorizado, atendidas las características de la sustancia y la condición del medio ambiente que pudieren verse afectadas por el exceso y, además,
+
+2. El infractor hubiere obrado con diligencia para restablecer las emisiones o extracciones al valor permitido o autorizado y para evitar las consecuencias dañinas del hecho.
+
+El tribunal podrá imponer una multa inferior a la señalada, desde una unidad tributaria mensual, cuando el hecho fuere perpetrado extrayendo aguas continentales, superficiales o subterráneas, se cumpliere la condición señalada en el número 1 y la extracción hubiere estado destinada a las bebidas y usos domésticos de subsistencia.
+
+#### Artículo 311 bis
+
+Tratándose de los hechos previstos en el artículo 310, el tribunal impondrá al condenado como pena accesoria la prohibición perpetua de ingresar al área afectada, y podrá extenderla mediante resolución fundada a otras áreas de las señaladas en dicho artículo que exhiban características ecosistémicas similares.
+
+El tribunal podrá autorizar el ingreso al área con el único objeto de recorrer un trayecto entre dos lugares ubicados fuera de ella, cuando no hubiere vías alternativas disponibles.
+
+#### Artículo 311 ter
+
+Fuera de los casos señalados en el artículo 310, el tribunal podrá apreciar la concurrencia de una atenuante muy calificada conforme al artículo 68 bis cuando el hechor repare el daño ambiental causado por el hecho.
+
+#### Artículo 311 quáter
+
+Las penas previstas en las disposiciones de este Párrafo para los atentados contra el medio ambiente perpetrados extrayendo aguas continentales, superficiales o subterráneas, serán impuestas sin perjuicio de la aplicación de las penas que correspondan por el delito de usurpación.
+
+#### Artículo 311
+
+quinquies.-
+
+Cuando la persona obligada por las normas ambientales o el infractor a que se refieren las disposiciones de este Párrafo fuere una persona jurídica, se entenderá que esa calidad concurre respecto de quienes hubieren intervenido por ella en el hecho punible.
+
+#### Artículo 311
+
+sexies.-
+
+Para efectos de lo dispuesto en este Párrafo, cuenta con la autorización correspondiente quien la tiene en el momento del hecho, aun cuando ella sea posteriormente declarada inválida.
+
+No vale como autorización la que hubiere sido obtenida mediante engaño, coacción o cohecho, ni aquella que la persona autorizada sabe que es o ha devenido manifiestamente improcedente.
+
+La declaración administrativa de no estar obligado a someter la actividad a una evaluación de impacto ambiental exime de responsabilidad conforme al artículo 305, a menos que concurran las circunstancias señaladas en el inciso precedente.
 
 #### Artículo 312
 
-Derogado.
+Si con ocasión de la investigación o el juicio por los hechos previstos en las disposiciones del presente Párrafo, el tribunal estimare procedente la imposición al imputado o condenado de condiciones destinadas a evitar o reparar el daño ambiental, consultará a los organismos técnicos competentes. Si las impusiere, oficiará a la autoridad reguladora pertinente para la fiscalización de su cumplimiento, y ésta última quedará obligada a informar al tribunal. La autoridad requerida podrá ejercer todas las competencias fiscalizadoras establecidas por la ley para tal efecto, y quedará obligada a informar al tribunal.
 
 ### XIV. Crímenes y Simples Delitos contra la Salud Pública
 
@@ -4418,7 +4570,7 @@ Cuando, en los casos del inciso primero del artículo anterior, el hecho se llev
 
 #### Artículo 459
 
-Sufrirán las penas de presidio menor en su grado mínimo a medio y multa de veinte a cinco mil unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
+Sufrirán las penas de presidio menor en sus grados medio a máximo y multa de veinte a cinco mil unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
 
 1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes, sean superficiales o subterráneas; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
 
@@ -4427,6 +4579,8 @@ Sufrirán las penas de presidio menor en su grado mínimo a medio y multa de vei
 3.° Pusieren embarazo al ejercicio de los derechos que un tercero tuviere sobre dichas aguas.
 
 4.° Usurparen un derecho cualquiera referente al curso de ellas o turbaren a alguno en su legítima posesión.
+
+Las sanciones establecidas en este artículo no se aplicarán a quienes hagan uso del agua para consumo personal o familiar en los términos señalados en el artículo 56 del Código de Aguas.
 
 #### Artículo 460
 
@@ -4448,25 +4602,39 @@ El que destruyere o alterare términos o límites de propiedades públicas o par
 
 #### Artículo 463
 
-El que dentro de los dos años anteriores a la resolución de liquidación a que se refieren los Capítulos IV y V de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas ejecutare actos o contratos que disminuyan su activo o aumenten su pasivo sin otra justificación económica o jurídica que la de perjudicar a sus acreedores, será castigado con la pena de presidio menor en su grado medio a máximo.
+Será castigado con la pena de presidio menor en cualquiera de sus grados el que, dentro de los dos años anteriores a la dictación de la resolución de liquidación a la que se refiere la ley N° 20.720, que Sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo, o durante el tiempo que medie entre la notificación de la demanda de liquidación forzosa y la dictación de la respectiva resolución, conociendo el mal estado de sus negocios:
+
+1.° Redujere considerablemente su patrimonio destruyendo, dañando, inutilizando o dilapidando, activos o valores o renunciando sin razón a créditos.
+
+2.° Dispusiere de sumas relevantes en consideración a su patrimonio aplicándolas en juegos o apuestas o en negocios inusualmente riesgosos en relación con su actividad económica normal.
+
+3.° Diere créditos sin las garantías habituales en atención a su monto, o se desprendiere de garantías sin que se hubieren satisfecho los créditos caucionados.
+
+4.° Realizare otro acto manifiestamente contrario a las exigencias de una administración racional del patrimonio.
+
+Tratándose de una empresa deudora en el sentido de la ley N° 20.720, la pena señalada en el inciso anterior se impondrá también al que hubiere actuado con ignorancia inexcusable del mal estado de sus negocios.
+
+En el caso del número 4.° del inciso primero, las penas no serán impuestas si el hecho no hubiere contribuido relevantemente a ocasionar la insolvencia del deudor.
 
 #### Artículo 463 bis
 
 Será castigado con la pena de presidio menor en su grado medio a presidio mayor en su grado mínimo, el deudor que realizare alguna de las siguientes conductas:
 
-1º Si dentro de los dos años anteriores a la resolución de reorganización o liquidación, ocultare total o parcialmente sus bienes o sus haberes.
+1.° Favorecer a uno o más acreedores en desmedro de otro pagando deudas que no fueren actualmente exigibles u otorgando garantías para deudas contraídas previamente sin garantía, dentro de los dos años anteriores a la resolución de reorganización o liquidación o durante el tiempo que medie entre la notificación de la demanda de liquidación forzosa y la dictación de la respectiva resolución.
 
-2º Si después de la resolución de liquidación percibiere y aplicare a sus propios usos o de terceros, bienes que deban ser objeto del procedimiento concursal de liquidación o de liquidación simplificada.
+2.° Percibir, apropiarse o distraer bienes que deban ser objeto de cualquier clase de procedimiento concursal de liquidación, después de dictada la resolución de liquidación.
 
-3º Si después de la resolución de liquidación, realizare actos de disposición de bienes de su patrimonio, reales o simulados, o si constituyere prenda, hipoteca u otro gravamen sobre los mismos.
+3.° Realizar actos de disposición de bienes de su patrimonio, reales o simulados, o constituir prenda, hipoteca u otro gravamen sobre ellos, después de la resolución de liquidación.
+
+4.° Ocultar total o parcialmente sus bienes o sus haberes, dentro de los dos años anteriores a la resolución de liquidación o reorganización, o con posterioridad a esa resolución.
 
 #### Artículo 463 ter
 
-Será castigado con la pena de presidio menor en su grado mínimo a medio el deudor que realizare alguna de las siguientes conductas:
+Será castigado con la pena de presidio menor en sus grados mínimo a medio el deudor que:
 
-1º Si durante el procedimiento concursal de reorganización, el procedimiento concursal de reorganización simplificada, el procedimiento concursal de liquidación o el procedimiento concursal de liquidación simplificada, proporcionare al veedor o liquidador, en su caso, o a sus acreedores, información o antecedentes falsos o incompletos, en términos que no reflejen la verdadera situación de su activo o pasivo.
+1.° Durante cualquier clase de procedimiento concursal de reorganización o de liquidación, proporcionare al veedor o liquidador, en su caso, o a sus acreedores, información o antecedentes falsos o incompletos, en términos que no reflejen la verdadera situación de su activo o pasivo.
 
-2º Si no hubiese llevado o conservado los libros de contabilidad y sus respaldos exigidos por la ley que deben ser puestos a disposición del liquidador una vez dictada la resolución de liquidación, o si hubiese ocultado, inutilizado, destruido o falseado en términos que no reflejen la situación verdadera de su activo y pasivo.
+2.° Dentro de los dos años anteriores a la dictación de la resolución de liquidación o durante el tiempo que medie entre la notificación de la demanda de liquidación forzosa y la dictación de la respectiva resolución, no hubiese llevado o conservado los libros de contabilidad y sus respaldos exigidos por la ley que deben ser puestos a disposición del liquidador una vez dictada la resolución de liquidación, o si hubiese ocultado, inutilizado, destruido o falseado la información en términos que ella no refleje la verdadera situación de su activo y pasivo.
 
 #### Artículo 463 quáter
 
@@ -4474,23 +4642,27 @@ Será castigado como autor de los delitos contemplados en los artículos 463, 46
 
 #### Artículo 464
 
-Será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y con la sanción accesoria de inhabilidad especial perpetua para ejercer el cargo, el veedor o liquidador designado en un procedimiento concursal de reorganización, en un procedimiento concursal de reorganización simplificada, en un procedimiento concursal de liquidación o en un procedimiento concursal de liquidación simplificada, que realice alguna de las siguientes conductas:
+Será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y con la sanción accesoria de inhabilidad especial perpetua para ejercer el cargo, el veedor o liquidador designado en cualquier clase de procedimiento concursal de reorganización o de liquidación que:
 
-1º Si se apropiare de bienes del deudor que deban ser objeto de un procedimiento concursal de reorganización, de un procedimiento concursal de reorganización simplificada, de un procedimiento concursal de liquidación o de un procedimiento concursal de liquidación simplificada.
+1. Proporcionare ventajas indebidas al deudor, a un acreedor o a un tercero.
 
-2º Si defraudare a los acreedores, alterando en sus cuentas de administración los valores obtenidos en el procedimiento concursal de reorganización, en el procedimiento concursal de reorganización simplificada, en el procedimiento concursal de liquidación o en el procedimiento concursal de liquidación simplificada, suponiendo gastos o exagerando los que hubiere hecho.
-
-3º Si proporcionare ventajas indebidas a un acreedor, al deudor o a un tercero.
+2. Perpetrare cualquiera de los hechos previstos en los números 1 u 11 del artículo 470.
 
 #### Artículo 464 bis
 
-El veedor o liquidador designado en un procedimiento concursal de reorganización, en un procedimiento concursal de reorganización simplificada, en un procedimiento concursal de liquidación o en un procedimiento concursal de liquidación simplificada que aplicare en beneficio propio o de un tercero bienes del deudor que sean objeto de alguno de dichos procedimientos concursales será castigado con presidio menor en su grado medio a máximo y con la pena accesoria de inhabilidad especial perpetua para ejercer el cargo.
+El deudor, veedor, liquidador, o aquellos a los que se refiere el artículo 463 quáter, que se valiere de quien no tuviere esa calidad para perpetrar cualquiera de los delitos previstos en los artículos precedentes de este Párrafo será castigado como autor del respectivo delito.
+
+El que sin tener alguna de las calidades señaladas en el inciso precedente interviniere en la perpetración del delito será castigado como inductor o cómplice según las circunstancias.
 
 #### Artículo 464 ter
 
-El que sin tener la calidad de deudor, veedor, liquidador, o de aquellos a los que se refiere el artículo 463 quáter, incurra en alguno de los delitos previstos en este Párrafo, valiéndose de un sujeto que sí tenga esa calidad, será castigado como autor del delito respectivo.
+El que mediante engaño determinare a un deudor, veedor, liquidador, o aquellos a los que se refiere el artículo 463 quáter, a incurrir en cualquiera de los hechos previstos en los artículos precedentes de este Párrafo, será castigado con las mismas penas en ellos señalada.
 
-Si sólo lo induce o coopera con él, será castigado con la pena que le correspondería si tuviera la calidad exigida por la ley, rebajada en un grado.
+#### Artículo 464 quáter
+
+Además de lo dispuesto en los artículos 27 a 31, el profesional que, con ocasión del ejercicio de su profesión, fuere penalmente responsable por haber intervenido en la perpetración de cualquiera de los delitos previstos en el presente Párrafo, será sancionado también con la pena accesoria de suspensión o inhabilitación para su ejercicio.
+
+La pena y su duración serán determinadas atendiendo a la pena principal impuesta conforme a las reglas previstas en los artículos 29 y 30 de este Código, para la inhabilitación o suspensión de cargo u oficio público.
 
 #### Artículo 465
 
@@ -4504,31 +4676,45 @@ Conocerá de los delitos concursales regulados en este Párrafo el tribunal con 
 
 #### Artículo 465 bis
 
-Las disposiciones contenidas en los artículos anteriores de este Párrafo referidas al deudor sólo se aplicarán a los señalados en el número 13) del artículo 2º de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+Derogado.
 
 #### Artículo 466
 
-La persona deudora definida en el número 25)del artículo 2º de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultación, dilapidación o enajenación maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
-
-En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, contratos simulados.
+Derogado.
 
 ### VIII. Estafas y otros engaños
 
 #### Artículo 467
 
-El que defraudare a otro en la sustancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
+El que para obtener provecho patrimonial para sí o para un tercero mediante engaño provocare un error en otro, haciéndolo incurrir en una disposición patrimonial consistente en ejecutar, omitir o tolerar alguna acción en perjuicio suyo o de un tercero será sancionado:
 
-1.º Con presidio menor en sus grados medio a máximo y multa de once a quince unidades tributarias mensuales, si la defraudación excediera de cuarenta unidades tributarias mensuales.
+1. Con presidio menor en su grado máximo y multa de veintiuna a trescientas unidades tributarias mensuales, si el perjuicio excede de cuatrocientas unidades tributarias mensuales y no pasa de cuarenta mil.
 
-2.º Con presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales, si excediere de cuatro unidades tributarias mensuales y no pasare de cuarenta unidades tributarias mensuales.
+2. Con presidio menor en sus grados medio a máximo y multa de once a quince unidades tributarias mensuales, si excede de cuarenta unidades tributarias mensuales y no pasa de cuatrocientas.
 
-3.º Con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, si excediere de una unidad tributaria mensual y no pasare de cuatro unidades tributarias mensuales.
+3. Con presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales, si excede de cuatro unidades tributarias mensuales y no pasa de cuarenta.
 
-Si el valor de la cosa defraudada excediere de cuatrocientas unidades tributarias mensuales, se aplicará la pena de presidio menor en su grado máximo y multa de veintiuna a treinta unidades tributarias mensuales.
+4. Con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, si excede de una unidad tributaria mensual y no pasa de cuatro.
+
+Si el perjuicio excede de cuarenta mil unidades tributarias mensuales, se aplicará la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa de trescientas a quinientas unidades tributarias mensuales.
 
 #### Artículo 468
 
-Incurrirá en las penas del artículo anterior el que defraudare a otro usando de nombre fingido, atribuyéndose poder, influencia o crédito supuestos, aparentando bienes, crédito, comisión, empresa o negociación imaginarios, o valiéndose de cualquier otro engaño semejante.
+Incurrirá en el delito previsto en el artículo anterior el que defraudare a otro usando de nombre fingido, atribuyéndose poder, influencia o crédito supuestos, aparentando bienes, crédito, comisión, empresa o negociación imaginarios, o valiéndose de cualquier otro engaño semejante.
+
+Las penas del artículo anterior serán aplicadas también al que para obtener un provecho para sí o para un tercero irrogue perjuicio patrimonial a otra persona:
+
+1. Manipulando los datos contenidos en un sistema informático o el resultado del procesamiento informático de datos a través de una intromisión indebida en la operación de éste.
+
+2. Utilizando sin la autorización del titular una o más claves confidenciales que habiliten el acceso u operación de un sistema informático, o
+
+3. Haciendo uso no autorizado de una tarjeta de pago ajena o de los datos codificados en una tarjeta de pago que la identifiquen y habiliten como medio de pago.
+
+Sin perjuicio de las penas que correspondan conforme al inciso anterior, sufrirá la pena de presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales el que obtenga indebidamente los datos codificados en una tarjeta de pago que la identifiquen y habiliten como medio de pago. La misma pena sufrirá el que los adquiera o ponga a disposición de otro a cualquier título.
+
+En la investigación de los delitos previstos en este artículo será aplicable lo dispuesto en el artículo 8 de la ley N° 20.009.
+
+Lo dispuesto en los incisos segundo y tercero de este artículo será aplicable si el hecho no tuviere mayor pena conforme a otra ley.
 
 #### Artículo 469
 
@@ -4580,7 +4766,7 @@ La pena se determinará de acuerdo con el monto de lo indebidamente solicitado.
 
 Si el hecho recayere sobre el patrimonio de una persona en relación con la cual el sujeto fuere guardador, tutor o curador, o de una persona incapaz que el sujeto tuviere a su cargo en alguna otra calidad, se impondrá, según sea el caso, el máximum o el grado máximo de las penas señaladas en el artículo 467.
 
-En caso de que el patrimonio encomendado fuere el de una sociedad anónima abierta o especial, el administrador que realizare alguna de las conductas descritas en el párrafo primero de este numeral, irrogando perjuicio al patrimonio social, será sancionado con las penas señaladas en el artículo 467 aumentadas en un grado. Además, se impondrá la pena de inhabilitación especial temporal en su grado mínimo para desempeñarse como gerente, director, liquidador o administrador a cualquier título de una sociedad o entidad sometida a fiscalización de una Superintendencia o de la Comisión para el Mercado Financiero.
+En caso de que el patrimonio encomendado fuere el de una sociedad anónima abierta o especial u otro patrimonio administrado por esa sociedad, el administrador que realizare alguna de las conductas descritas en el párrafo primero de este numeral, irrogando perjuicio al patrimonio social, será sancionado con las penas señaladas en el artículo 467 aumentadas en un grado. Además, se impondrá la pena de inhabilitación especial temporal en su grado mínimo para desempeñarse como gerente, director, liquidador o administrador a cualquier título de una sociedad o entidad sometida a fiscalización de una Superintendencia o de la Comisión para el Mercado Financiero.
 
 En los casos previstos en este artículo se impondrá, además, pena de multa de la mitad al tanto de la defraudación.
 
@@ -4600,11 +4786,21 @@ Los ejemplares, máquinas u objetos contrahechos, introducidos o expendidos frau
 
 El que suministre valores, de cualquiera manera que sea, a un interés que exceda del máximo que la ley permita estipular, será castigado con presidio o reclusión menores en cualquiera de sus grados.
 
+Se impondrá el grado máximo de la pena establecida en el inciso anterior cuando la conducta que allí se sanciona se realice simulando, de cualquier forma, que se suministran los valores a un interés permitido por la ley.
+
 Condenado por usura un extranjero, será expulsado del país; y condenado como reincidente en delito de usura un nacionalizado, se le cancelará su nacionalización y se le expulsará del país.
 
 En ambos casos la expulsión se hará después de cumplida la pena.
 
 En la sustanciación y fallo de los procesos instruidos para la investigación de estos delitos, los Tribunales apreciarán la prueba en conciencia.
+
+#### Artículo 472 bis
+
+El que con abuso grave de una situación de necesidad, de la inexperiencia o de la incapacidad de discernimiento de otra persona, le pagare una remuneración manifiestamente desproporcionada e inferior al ingreso mínimo mensual previsto por la ley o le diere en arrendamiento un inmueble como morada recibiendo una contraprestación manifiestamente desproporcionada, será castigado con la pena de presidio o reclusión menor en cualquiera de sus grados.
+
+#### Artículo 472 ter
+
+En los casos en que alguno de los hechos previstos en este Párrafo irrogare un perjuicio que exceda de ochenta mil unidades tributarias mensuales o afecte a un número considerable de personas, se podrá imponer la pena superior en un grado a la señalada por la ley.
 
 #### Artículo 473
 

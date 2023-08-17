@@ -54,6 +54,22 @@ b) La explotación abusiva por parte de un agente económico, o un conjunto de e
 
 c) Las prácticas predatorias, o de competencia desleal, realizadas con el objeto de alcanzar, mantener o incrementar una posición dominante.
 
+d) La participación simultánea de una persona en cargos ejecutivos relevantes o de director en dos o más empresas competidoras entre sí, siempre que el grupo empresarial al que pertenezca cada una de las referidas empresas tenga ingresos anuales por ventas, servicios y otras actividades del giro que excedan las cien mil unidades de fomento en el último año calendario. Con todo, sólo se materializará esta infracción si transcurridos noventa días corridos, contados desde el término del año calendario en que fue superado el referido umbral, se mantuviere la participación simultánea en tales cargos.
+
+#### Artículo 3° bis
+
+Podrán también aplicarse las medidas del artículo 26, así como aquellas medidas preventivas, correctivas o prohibitivas que resulten necesarias, a quienes:
+
+a) Infrinjan el deber de notificación que establece el artículo 48.
+
+b) Contravengan el deber de no perfeccionar una operación de concentración notificada a la Fiscalía Nacional Económica y que se encuentre suspendida de acuerdo con lo establecido en el artículo 49.
+
+c) Incumplan las medidas con que se haya aprobado una operación de concentración, al tenor de lo dispuesto en los artículos 31 bis, 54 o 57, según sea el caso.
+
+d) Perfeccionen una operación de concentración en contra de lo dispuesto en la resolución o sentencia que haya prohibido dicha operación, de conformidad a lo establecido en los artículos 31 bis o 57, según corresponda.
+
+e) Notifiquen una operación de concentración, de conformidad al Título IV, entregando información falsa.
+
 #### Artículo 4º
 
 No podrán otorgarse concesiones, autorizaciones, ni actos que impliquen conceder monopolios para el ejercicio de actividades económicas, salvo que la ley lo autorice.
@@ -300,7 +316,11 @@ El Tribunal de Defensa de la Libre Competencia tendrá las siguientes atribucion
 
 4) Proponer al Presidente de la República, a través del Ministro de Estado que corresponda, la modificación o derogación de los preceptos legales y reglamentarios que estime contrarios a la libre competencia, como también la dictación de preceptos legales o reglamentarios cuando sean necesarios para fomentar la competencia o regular el ejercicio de determinadas actividades económicas que se presten en condiciones no competitivas. En todo caso, el ministro receptor de la propuesta deberá manifestar su parecer sobre ésta. La respuesta será publicada en el sitio electrónico institucional del Tribunal, de la Fiscalía y del Ministerio de que se trate;
 
-5) Las demás que le señalen las leyes.
+5) Substanciar, a solicitud exclusiva del notificante de una operación de concentración, el procedimiento de revisión especial de operaciones de concentración, cuando éstas hubieren sido prohibidas por el Fiscal Nacional Económico conforme a lo establecido en el artículo 57;
+
+6) Dictar, de conformidad a la ley, los autos acordados que sean necesarios para una adecuada administración de justicia; y
+
+7) Las demás que le señalen las leyes.
 
 #### Artículo 19º
 
@@ -398,6 +418,8 @@ Para la determinación de las multas se considerarán, entre otras, las siguient
 
 d) En el caso de las conductas previstas en la letra a) del artículo 3°, podrá imponer, además, la prohibición de contratar a cualquier título con órganos de la administración centralizada o descentralizada del Estado, con organismos autónomos o con instituciones, organismos, empresas o servicios en los que el Estado efectúe aportes, con el Congreso Nacional y el Poder Judicial, así como la prohibición de adjudicarse cualquier concesión otorgada por el Estado, hasta por el plazo de cinco años contado desde que la sentencia definitiva quede ejecutoriada;
 
+e) En el caso de la conducta prevista en la letra a) del artículo 3° bis, podrá aplicar una multa a beneficio fiscal de hasta veinte unidades tributarias anuales por cada día de retardo contado desde el perfeccionamiento de la operación de concentración.
+
 La aplicación de las sanciones previstas en este artículo será compatible con aquellas de carácter penal establecidas en la presente ley y con la determinación de la indemnización de perjuicios que prevé el artículo 30.
 
 #### Artículo 27º
@@ -458,11 +480,23 @@ En caso de efectuarse la comunicación a que se refiere el número 2, el Tribuna
 
 Las resoluciones o informes que dicte o emita el Tribunal en las materias a que se refiere este artículo, podrán ser objeto del recurso de reposición. Las resoluciones de término, sea que fijen o no condiciones, sólo podrán ser objeto del recurso de reclamación a que se refiere el artículo 27. Dicho recurso deberá ser fundado y podrán interponerlo el o los consultantes, el Fiscal Nacional Económico y cualquiera de los terceros que hubieren aportado antecedentes de conformidad con lo dispuesto en el número 1.
 
+#### Artículo 31° bis
+
+El ejercicio de la atribución contemplada en el número 5) del artículo 18 se someterá al procedimiento indicado en los incisos siguientes.
+
+Interpuesto el recurso que establece el inciso final del artículo 57, el Tribunal de Defensa de la Libre Competencia ordenará al Fiscal Nacional Económico remitir el expediente en que obre la investigación en que se hubiere pronunciado la resolución recurrida, y citará a una audiencia pública en la que podrán intervenir la parte recurrente, el Fiscal Nacional Económico y quienes hubieren aportado antecedentes a la investigación en virtud de lo establecido en el inciso segundo del artículo 55. La audiencia pública se realizará dentro del plazo de sesenta días, contado desde la recepción del expediente.
+
+En base a los antecedentes que obren en el expediente de investigación, a lo que expongan los intervinientes en la audiencia de la que trata el inciso anterior y a los demás antecedentes que recabe de oficio o a petición de parte, el Tribunal dictará una sentencia confirmando o revocando la resolución recurrida. Dicha sentencia deberá ser dictada por el Tribunal dentro del plazo de sesenta días, contado desde que se haya realizado la referida audiencia.
+
+En el caso que la sentencia revoque la resolución recurrida, el Tribunal, en la misma sentencia, podrá aprobar la operación de concentración en forma pura y simple o sujeta a las últimas medidas ofrecidas por el notificante de conformidad con lo dispuesto en el inciso tercero del artículo 53. Adicionalmente, podrá el Tribunal aprobar la operación bajo la condición de que se dé cumplimiento a otras medidas que considere adecuadas y suficientes.
+
+En contra de la sentencia que pronuncie el Tribunal en virtud de lo establecido en este artículo no procederá recurso alguno, a menos que aquella hubiere condicionado la aprobación de la operación al cumplimiento de medidas distintas de las contempladas en la última propuesta realizada por las partes de conformidad a lo establecido en el inciso tercero del artículo 53. En este último caso, tanto las partes como el Fiscal Nacional Económico podrán deducir el recurso de reclamación a que se refiere el artículo 27.
+
 #### Artículo 32º
 
-Los actos o contratos ejecutados o celebrados de acuerdo con las decisiones del Tribunal de Defensa de la Libre Competencia, no acarrearán responsabilidad alguna en esta materia, sino en el caso que, posteriormente, y sobre la base de nuevos antecedentes, fueren calificados como contrarios a la libre competencia por el mismo Tribunal, y ello desde que se notifique o publique, en su caso, la resolución que haga tal calificación.
+Los actos o contratos ejecutados o celebrados de acuerdo con las decisiones del Tribunal de Defensa de la Libre Competencia, o de acuerdo con las resoluciones de la Fiscalía Nacional Económica para el caso de las operaciones de concentración no acarrearán responsabilidad alguna en esta materia, sino en el caso que, posteriormente, y sobre la base de nuevos antecedentes, fueren calificados como contrarios a la libre competencia por el mismo Tribunal, y ello desde que se notifique o publique, en su caso, la resolución que haga tal calificación.
 
-En todo caso, los Ministros que concurrieron a la decisión no se entenderán inhabilitados para el nuevo pronunciamiento.
+En todo caso, ni los ministros que concurrieren a la decisión, ni el Fiscal Nacional Económico, según correspondiere, se entenderán inhabilitados para los nuevos pronunciamientos que eventualmente tuvieren lugar.
 
 ## Título III
 
@@ -512,11 +546,11 @@ Fiscal Nacional 1 1
 
 Económico
 
-Subfiscal 3 1
+Subfiscal 2 1
 
 Nacional
 
-Jefe de 3 4
+Jefe de 3 7
 
 Departamento
 
@@ -606,17 +640,7 @@ una experiencia
 
 profesional mínima de
 
-5 años o 3 de
-
-experiencia o
-
-especialización en
-
-áreas afines a las
-
-funciones de la
-
-Fiscalía.
+5 años.
 
 Jefes de
 
@@ -842,7 +866,7 @@ Respecto de las investigaciones practicadas por los Fiscales Adjuntos y de los c
 
 c) Requerir del Tribunal de Defensa de la Libre Competencia el ejercicio de cualquiera de sus atribuciones y la adopción de medidas preventivas con ocasión de las investigaciones que la Fiscalía se encuentre ejecutando;
 
-d) Velar por el cumplimiento de los fallos, decisiones, dictámenes e instrucciones que dicten el Tribunal de Defensa de la Libre Competencia o los tribunales de justicia en las materias a que se refiere esta ley;
+d) Velar por el cumplimiento de sus propias resoluciones en las materias a que se refiere el Título IV de esta ley, así como de los fallos y decisiones que dicten el Tribunal de Defensa de la Libre Competencia o los tribunales de justicia en las materias a que se refiere esta ley;
 
 e) Emitir los informes que solicite el Tribunal de Defensa de la Libre Competencia, en los casos en que el Fiscal Nacional Económico no tenga la calidad de parte;
 
@@ -1006,6 +1030,156 @@ Si se tratare de presentaciones que deban hacerse dentro de determinado plazo, s
 
 El Intendente o Gobernador, según el caso, deberá designar a un Secretario Regional Ministerial, jefe de servicio o abogado de su dependencia, según proceda, para la recepción y emisión de dichas comunicaciones, dentro de las veinticuatro horas de recibidas, a la Fiscalía Nacional Económica.
 
+## Título IV
+
+De las Operaciones de Concentración
+
+#### Artículo 46°
+
+Se sujetarán a las normas establecidas en este Título las operaciones de concentración que le sean notificadas a la Fiscalía Nacional Económica, según lo prescrito en los artículos siguientes.
+
+#### Artículo 47°
+
+Se entenderá por operación de concentración todo hecho, acto o convención, o conjunto de ellos, que tenga por efecto que dos o más agentes económicos que no formen parte de un mismo grupo empresarial y que sean previamente independientes entre sí, cesen en su independencia en cualquier ámbito de sus actividades mediante alguna de las siguientes vías:
+
+a) Fusionándose, cualquiera que sea la forma de organización societaria de las entidades que se fusionan o de la entidad resultante de la fusión.
+
+b) Adquiriendo, uno o más de ellos, directa o indirectamente, derechos que le permitan, en forma individual o conjunta, influir decisivamente en la administración de otro.
+
+c) Asociándose bajo cualquier modalidad para conformar un agente económico independiente, distinto de ellos, que desempeñe sus funciones de forma permanente.
+
+d) Adquiriendo, uno o más de ellos, el control sobre los activos de otro a cualquier título.
+
+Para los efectos de lo dispuesto en este Título, se entenderá por agente económico toda entidad, o parte de ella, cualquiera que sea su forma de organización jurídica o aun cuando carezca de ella, que ofrezca o demande bienes o servicios. Se considerará asimismo como un agente económico el conjunto de activos tangibles o intangibles, o ambos, que permitan ofrecer o demandar bienes o servicios.
+
+#### Artículo 48°
+
+Deberán notificarse a la Fiscalía Nacional Económica, en forma previa a su perfeccionamiento, las operaciones de concentración que produzcan efectos en Chile y que cumplan con los siguientes requisitos copulativos:
+
+a) Que la suma de las ventas en Chile de los agentes económicos que proyectan concentrarse haya alcanzado, durante el ejercicio anterior a aquel en que se verifique la notificación, montos iguales o superiores al umbral establecido mediante resolución dictada por el Fiscal Nacional Económico.
+
+b) Que en Chile, por separado, al menos dos de los agentes económicos que proyectan concentrarse hayan generado ventas, durante el ejercicio anterior a aquel en que se verifique la notificación, por montos iguales o superiores al umbral establecido mediante resolución dictada por el Fiscal Nacional Económico.
+
+Para los efectos de lo dispuesto en este artículo, las ventas se calcularán de la siguiente manera:
+
+i. Tratándose de las hipótesis contempladas en las letras a) y c) del artículo 47, se sumarán las ventas en Chile de los agentes económicos que se fusionan o que se asocian, y las de sus respectivos grupos empresariales.
+
+ii. Tratándose de la hipótesis contemplada en la letra b) del artículo 47, se sumarán las ventas en Chile del agente económico que adquiere la influencia decisiva, las de todo su grupo empresarial y las del o de los agentes económicos adquiridos.
+
+iii. Tratándose de la hipótesis contemplada en la letra d) del artículo 47, se sumarán las ventas en Chile del o de los agentes económicos adquirentes, las de sus respectivos grupos empresariales, y aquellas generadas con los activos adquiridos.
+
+Para efectos de lo establecido en este artículo, se deducirán de las ventas los impuestos, las ventas que hayan tenido lugar entre agentes de un mismo grupo empresarial, aquellas que no provengan de la explotación del giro habitual del o de los agentes económicos considerados, y las demás que señale la resolución del Fiscal Nacional Económico, en la forma que en ella se determinen.
+
+Estarán obligados a practicar la notificación de la que trata este artículo, conjuntamente, los agentes económicos que hayan tomado parte en la operación de concentración. Los terceros que no hayan tomado parte en la operación de concentración no podrán practicar la notificación.
+
+A la notificación deberán acompañarse los antecedentes necesarios para identificar la operación de que se trata y a los agentes económicos que toman parte en la misma y su grupo empresarial; los antecedentes que permitan evaluar preliminarmente los eventuales riesgos que la operación notificada pudiere significar para la libre competencia; la declaración de las partes en la que indiquen que, de buena fe, pretenden llevar a cabo la operación que se notifica, y los demás antecedentes que detalle el reglamento dictado por el Ministerio de Economía, Fomento y Turismo.
+
+Quienes notifiquen la operación deberán poner en conocimiento de la Fiscalía Nacional Económica los hechos, actos o convenciones que modifiquen en cualquier forma los antecedentes, estimaciones, proyecciones o conclusiones que hubieren proporcionado, tan pronto como tales hechos, actos o convenciones lleguen a su conocimiento. En caso que la modificación que los notificantes pongan en conocimiento de la Fiscalía Nacional Económica resulte significativa, el Fiscal Nacional Económico dictará una resolución declarando lo anterior, a partir de la cual los plazos del procedimiento comenzarán a contabilizarse como si se tratare de una nueva notificación.
+
+El reglamento podrá contemplar un mecanismo de notificación simplificada, que requiera del notificante acompañar una menor cantidad de antecedentes para ciertas operaciones o categorías de operaciones de concentración.
+
+Las operaciones de concentración que no igualen o superen los umbrales referidos en las letras a) y b) de este artículo podrán ser notificadas en forma voluntaria por los agentes económicos que proyectan concentrarse. Las notificaciones voluntarias se sujetarán a las mismas reglas que las obligatorias, en la medida que la operación no se haya perfeccionado al momento de la notificación.
+
+Cuando las operaciones de concentración a que se refiere el inciso anterior no le sean notificadas voluntariamente al Fiscal Nacional Económico, éste podrá, dentro del plazo de un año, contado desde el perfeccionamiento de la operación, instruir las investigaciones que estime procedentes de conformidad con la letra a) del artículo 39.
+
+En caso que se adecuen los umbrales referidos en las letras a) y b) del presente artículo, los nuevos umbrales que se establezcan entrarán en vigencia una vez transcurridos noventa días desde la fecha de su publicación en el Diario Oficial.
+
+#### Artículo 49°
+
+Los agentes económicos que proyecten concentrarse no podrán perfeccionar las operaciones de concentración que hubieren notificado a la Fiscalía Nacional Económica, las que se entenderán suspendidas desde el acto de su notificación hasta que se encuentre firme la resolución o sentencia que ponga término definitivo al procedimiento correspondiente.
+
+#### Artículo 50°
+
+Recibida la notificación de una operación de concentración, la Fiscalía Nacional Económica tomará conocimiento de ésta y procederá a evaluarla en conformidad al siguiente procedimiento.
+
+Notificada una operación de concentración de acuerdo con lo establecido en el artículo 48, el Fiscal Nacional Económico contará con diez días para determinar si se trata de una notificación completa, entendiéndose por tal aquella que cumpla con todos los requisitos establecidos en esta ley y su reglamento.
+
+Tratándose de una notificación completa, el Fiscal Nacional Económico ordenará el inicio de la investigación y comunicará la resolución al notificante. Si el Fiscal no hubiere efectuado dicha comunicación dentro del plazo establecido en el inciso anterior, la investigación se entenderá iniciada, de pleno derecho, el día siguiente al vencimiento del plazo.
+
+Tratándose de una notificación incompleta, el Fiscal Nacional Económico comunicará dicha circunstancia al notificante dentro del plazo establecido en el inciso segundo. La comunicación identificará los errores u omisiones de la notificación. El notificante contará con diez días para subsanar los errores u omisiones identificados por el Fiscal en su comunicación. Si el notificante no subsanare los errores u omisiones dentro del plazo establecido, la notificación se tendrá por no presentada. Si los errores u omisiones fueren subsanados dentro de plazo, se considerará como una nueva notificación para los efectos de lo dispuesto en este artículo.
+
+#### Artículo 51°
+
+La resolución que ordene el inicio de la investigación será publicada resguardando la información confidencial de los notificantes.
+
+#### Artículo 52°
+
+En el curso de las investigaciones iniciadas en conformidad con el artículo anterior, el Fiscal Nacional Económico podrá ejercer las facultades que le confieren las letras f), g), h), j), k), l) y m) del artículo 39.
+
+#### Artículo 53°
+
+El notificante podrá siempre solicitar al Fiscal Nacional Económico que le suministre información respecto del curso de la investigación, y tendrá derecho a que le informe, antes de que dicte alguna de las resoluciones contempladas en los artículos 54 o 57, de los riesgos que la operación notificada pueda producir para la libre competencia basado en los antecedentes de la investigación.
+
+El notificante siempre tendrá derecho a ser oído, y podrá manifestar al Fiscal Nacional Económico su opinión respecto de la operación de concentración notificada, de los antecedentes aportados por terceros a la investigación, de la investigación misma y de la información que le hubiere sido suministrada de conformidad al inciso anterior. El notificante podrá proponer las diligencias investigativas que estime pertinentes.
+
+Asimismo, para efectos de lo establecido en la letra b) del artículo 54 y en la letra b) del artículo 57, el notificante tendrá siempre derecho a ofrecer al Fiscal Nacional Económico las medidas que estime aptas para mitigar aquellos riesgos que la operación notificada pudiere producir para la libre competencia. Las medidas deberán ser ofrecidas por escrito y no constituirán, en caso alguno, un reconocimiento de la existencia de los riesgos que a través de ellas se pretende mitigar.
+
+Con el fin de determinar si las medidas ofrecidas por los notificantes se hacen cargo de resolver los riesgos para la competencia derivados de la operación de concentración, así como sus posibles efectos sobre el mercado, el Fiscal Nacional Económico podrá ponerlas en conocimiento de terceros interesados.
+
+#### Artículo 54°
+
+Dentro de los treinta días siguientes a la fecha en que se haya iniciado la investigación a que alude el artículo 50, el Fiscal Nacional Económico deberá:
+
+a) Aprobar la operación notificada en forma pura y simple, si es que llegare a la convicción que la operación no resulta apta para reducir sustancialmente la competencia;
+
+b) Aprobar la operación notificada, a condición de que se dé cumplimiento a las medidas ofrecidas por el notificante, si es que llegare a la convicción de que, sujetándose la operación a tales medidas, no resulta apta para reducir sustancialmente la competencia, o
+
+c) Extender la investigación hasta por un máximo de noventa días adicionales, mediante resolución fundada, cuando estime que la operación notificada, de perfeccionarse en forma pura y simple o sujeta a las medidas ofrecidas por el notificante, en su caso, puede reducir sustancialmente la competencia.
+
+Cumplido el plazo establecido sin que el Fiscal Nacional Económico hubiere tomado alguna de las tres decisiones señaladas, se entenderá que ha aprobado la operación de que se trata. La autorización se considerará en los términos ofrecidos por el notificante, incluyendo las medidas que éste hubiere propuesto.
+
+#### Artículo 55°
+
+Las resoluciones dictadas en conformidad a lo establecido en el artículo anterior serán comunicadas al notificante dentro del mismo plazo establecido para su dictación. Adicionalmente, la Fiscalía Nacional Económica publicará la resolución o una versión pública de la misma en el sitio electrónico institucional.
+
+Tratándose de la resolución contemplada en la letra c) del artículo anterior, la Fiscalía Nacional Económica deberá comunicar el hecho de su dictación y acompañar su texto o la versión pública del mismo, a las autoridades directamente concernidas y a los agentes económicos que puedan tener interés en la operación. Quienes recibieren tal comunicación, así como cualquier tercero interesado en la operación de concentración, incluyendo proveedores, competidores, clientes o consumidores, podrán aportar antecedentes a la investigación dentro de los veinte días siguientes a la publicación, en el sitio electrónico institucional, de la resolución que ordene su extensión.
+
+El expediente será público a partir de la publicación a que hace referencia el inciso anterior. Ello, sin perjuicio de que el Fiscal Nacional Económico pueda disponer, de oficio o a petición del interesado, que ciertas piezas del expediente sean reservadas o confidenciales en conformidad a lo dispuesto en el párrafo tercero de la letra a) del artículo 39. Quienes soliciten la reserva o confidencialidad de los antecedentes presentados deberán acompañar versiones públicas de los mismos. Cuando el Fiscal Nacional Económico decrete de oficio la reserva o confidencialidad de los antecedentes, podrá requerir al aportante que acompañe versiones públicas de éstos.
+
+#### Artículo 56°
+
+Extendida la investigación en virtud de lo dispuesto en la letra c) del artículo 54, el Fiscal Nacional Económico podrá ejercer las facultades contempladas en el artículo 52.
+
+#### Artículo 57°
+
+Dentro del plazo establecido en la resolución que ordene extender la investigación, el Fiscal Nacional Económico deberá:
+
+a) Aprobar la operación notificada en forma pura y simple, si es que llegare a la convicción de que la operación no resulta apta para reducir sustancialmente la competencia;
+
+b) Aprobar la operación notificada, a condición de que se dé cumplimiento a las medidas ofrecidas por el notificante, si es que llegare a la convicción de que, sujetándose a tales medidas, la operación no resulta apta para reducir sustancialmente la competencia, o
+
+c) Prohibir la operación notificada, cuando concluya que la misma cuenta con aptitud para reducir sustancialmente la competencia.
+
+Cumplido el plazo establecido en la resolución que ordene extender la investigación sin que el Fiscal Nacional Económico hubiere tomado alguna de las tres decisiones señaladas, se entenderá que ha aprobado la operación de que se trata. La autorización se considerará en los términos ofrecidos por el notificante, incluyendo las medidas que éste hubiere propuesto.
+
+En contra de la resolución del Fiscal Nacional Económico que prohíba una operación, el notificante podrá promover ante el Tribunal de Defensa de la Libre Competencia, dentro del plazo de diez días, contado desde la notificación de la referida resolución, un recurso de revisión especial, que deberá ser fundado.
+
+#### Artículo 58°
+
+Mediante resolución fundada, el Fiscal Nacional Económico podrá ordenar el archivo de los antecedentes, poniendo término al procedimiento de que trata este Título, cualquiera que sea el estado en que se encuentre, cuando el notificante se hubiere desistido de su notificación o cuando la hubiere abandonado.
+
+Se entenderá desistida la notificación cuando el notificante lo comunique por escrito al Fiscal Nacional Económico.
+
+Se entenderá abandonada la notificación cuando en dos o más ocasiones, durante el curso de la investigación, el notificante no hubiere respondido en tiempo y forma a los requerimientos de información que hubiere hecho, conforme a la ley, el Fiscal Nacional Económico, o cuando en dos o más ocasiones él o sus representantes legales no hubieren concurrido a declarar, habiéndoseles citado de conformidad a la ley.
+
+#### Artículo 59°
+
+Los plazos de días establecidos en este Título serán de días hábiles, entendiéndose por tales todos aquellos que no sean sábados, domingos o festivos.
+
+#### Artículo 60°
+
+Los plazos establecidos en el inciso primero del artículo 54 y en el inciso primero del artículo 57 no se suspenderán, salvo en los casos contemplados en este artículo.
+
+De común acuerdo, el Fiscal Nacional Económico y el notificante podrán suspender hasta por una vez cada plazo referido en el inciso anterior. El primero de ellos podrá suspenderse hasta por treinta días y el segundo, hasta por sesenta días. Estos acuerdos de suspensión deberán constar por escrito.
+
+Asimismo, se suspenderán los plazos señalados en el inciso primero cuando el notificante ofrezca medidas, de acuerdo con lo establecido en el inciso tercero del artículo 53. El plazo contemplado en el inciso primero del artículo 54 o el establecido en el inciso primero del artículo 57 se suspenderá hasta por un máximo de diez o quince días, respectivamente.
+
+#### Artículo 61°
+
+Las comunicaciones, solicitudes y notificaciones efectuadas a los notificantes en el marco del procedimiento del presente Título podrán ser realizadas por correo electrónico o por cualquier otro medio electrónico idóneo.
+
+Asimismo, las comunicaciones, solicitudes y notificaciones en el marco del procedimiento del presente Título podrán realizarse por funcionarios de la Fiscalía Nacional Económica que hubieren sido designados para cumplir esta función por el Fiscal Nacional Económico en resolución dictada al efecto.
+
 ## Título V
 
 De las Sanciones Penales
@@ -1013,22 +1187,6 @@ De las Sanciones Penales
 #### Artículo 62°
 
 El que celebre u ordene celebrar, ejecute u organice un acuerdo que involucre a dos o más competidores entre sí, para fijar precios de venta o de compra de bienes o servicios en uno o más mercados; limitar su producción o provisión; dividir, asignar o repartir zonas o cuotas de mercado; o afectar el resultado de licitaciones realizadas por empresas públicas, privadas prestadoras de servicios públicos, u órganos públicos, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
-
-Asimismo, será castigado con inhabilitación absoluta temporal, en su grado máximo, para ejercer el cargo de director o gerente de una sociedad anónima abierta o sujeta a normas especiales, el cargo de director o gerente de empresas del Estado o en las que éste tenga participación, y el cargo de director o gerente de una asociación gremial o profesional.
-
-Para determinar las penas establecidas en los dos incisos anteriores, el tribunal no tomará en consideración lo dispuesto en los artículos 67 a 69 del Código Penal ni las reglas especiales de determinación de las penas establecidas en otras leyes y, en su lugar, aplicará lo siguiente:
-
-1. Si no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal podrá recorrer toda la extensión de la pena señalada por la ley al aplicarla.
-
-2. Tratándose de la pena establecida en el inciso primero, si concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado inferior. Si concurren una o más agravantes y ninguna atenuante, aplicará la pena en su grado superior.
-
-3. Tratándose de la pena establecida en el inciso segundo, si concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado mínimo. Si concurren una o más agravantes y ninguna atenuante, la impondrá en su grado máximo. Para determinar en tales casos el mínimo y máximo de la pena, se dividirá por la mitad el período de su duración: la más alta de estas partes formará el máximo y la más baja el mínimo.
-
-4. Si concurren circunstancias atenuantes y agravantes, se hará su compensación racional para la aplicación de la pena, graduando el valor de unas y otras, y también considerará la extensión del mal producido por el delito.
-
-5. El tribunal no podrá imponer una pena que sea mayor o menor al marco fijado por la ley, salvo que procedan las circunstancias establecidas en los artículos 51 a 54 del Código Penal.
-
-Será aplicable lo previsto en la ley N°18.216, conforme a las reglas generales. Sin embargo, la ejecución de la respectiva pena sustitutiva quedará en suspenso por un año, tiempo durante el cual el condenado deberá cumplir en forma efectiva la pena privativa de libertad a la que fuere sancionado.
 
 #### Artículo 63°
 
@@ -1038,9 +1196,9 @@ Las personas indicadas en el inciso anterior deberán proporcionar al Ministerio
 
 Si el testigo legalmente citado no compareciere sin justa causa o se negare a ratificar su declaración prestada ante la Fiscalía Nacional Económica, y así lo declarare el juez de garantía competente a petición del Ministerio Público, o incurriere en alguna de las conductas previstas en los artículos 206 o 269 bis del Código Penal, será privado de la exención de responsabilidad penal que establece este artículo. La sanción respectiva se acumulará materialmente a la que corresponda según lo dispuesto en el artículo 62. En contra de la resolución del juez de garantía que privare de la exención de responsabilidad penal procederá el recurso de apelación, que se concederá en ambos efectos.
 
-Se le rebajará en un grado la pena determinada, según lo que dispone el inciso tercero del artículo 62, a aquellas personas que hayan aportado a la Fiscalía Nacional Económica antecedentes adicionales de conformidad al inciso cuarto del artículo 39 bis. El requerimiento del Fiscal Nacional Económico individualizará a los beneficiarios de rebaja de la pena y dicha calidad será así declarada por el Tribunal de Defensa de la Libre Competencia.
+Se atenuará con arreglo a la ley la pena que corresponda aplicar a aquellas personas que hayan aportado antecedentes adicionales a la Fiscalía Nacional Económica, de conformidad con lo dispuesto en el inciso cuarto del artículo 39 bis. El requerimiento del Fiscal Nacional Económico individualizará a los beneficiarios de rebaja de la pena, y dicha calidad será así declarada por el Tribunal de Defensa de la Libre Competencia.
 
-Respecto de las personas consignadas en el inciso anterior no se aplicará lo dispuesto en el inciso cuarto del artículo 62 cuando comparezcan ante el Ministerio Público y el tribunal competente y ratifiquen su declaración prestada ante la Fiscalía Nacional Económica, salvo que el requerimiento de esta última involucre únicamente a dos competidores entre sí y que uno de dichos competidores tenga la calidad de acreedor del beneficio de exención de multa declarada por el Tribunal de Defensa de la Libre Competencia, en los términos del artículo 39 bis.
+Para efectos de que proceda la atenuación dispuesta en el inciso anterior, dichas personas deberán comparecer ante el Ministerio Público y el tribunal competente, ratificando su declaración prestada ante la Fiscalía Nacional Económica. La atenuación no procederá en caso de que el requerimiento de la Fiscalía Nacional Económica hubiese involucrado únicamente a dos competidores entre sí, y que uno de dichos competidores tenga la calidad de acreedor del beneficio de exención de multa declarada por el Tribunal de Defensa de la Libre Competencia, en los términos del artículo 39 bis.
 
 #### Artículo 64°
 

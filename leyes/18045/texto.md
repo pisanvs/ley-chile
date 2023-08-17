@@ -696,85 +696,69 @@ Cuando en el ejercicio de sus funciones, los funcionarios de la Comisión tomen 
 
 #### Artículo 59
 
-Sufrirán las penas de presidio menor en su grado máximo a presidio mayor en su grado mínimo:
+Con pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo será sancionado:
 
-a) Los que maliciosamente proporcionaren antecedentes falsos o certificaren hechos falsos a la Comisión, a una bolsa de valores o al público en general, para los efectos de lo dispuesto en esta ley;
+a) El que actuando por cuenta de un emisor de valores de oferta pública proporcionare información falsa al mercado sobre la situación financiera, jurídica, patrimonial o de negocios del respectivo emisor.
 
-b) Los administradores y apoderados de una bolsa de valores que den certificaciones falsas sobre las operaciones que se realicen en ella.
+b) El que a sabiendas otorgare una clasificación de riesgo que no corresponda al riesgo de los valores que clasifique.
 
-c) Los corredores de bolsa y agentes de valores que den certificaciones falsas sobre las operaciones en que hubieren intervenido.
+c) El que, siendo socio de una empresa de auditoría externa, dictaminare falsamente o entregare antecedentes falsos sobre la situación financiera o patrimonial u otras materias sobre las cuales hubieren manifestado su opinión, certificación, dictamen o informe de una entidad sujeta a la fiscalización de la Comisión para el Mercado Financiero.
 
-d) Los socios de empresas de auditoría externa que maliciosamente emitan un dictamen o entreguen antecedentes falsos sobre la situación financiera u otras materias sobre las cuales hubieren manifestado su opinión, certificación, dictamen o informe, respecto de una entidad sujeta a la fiscalización de la Comisión.
+d) El director, gerente o apoderado de una bolsa de valores que diere certificación falsa sobre las operaciones que se realicen en ella y el corredor de bolsa o agente de valores que diere certificación falsa sobre las operaciones en que haya intervenido.
 
-Sufrirán la misma pena quienes presten servicios en una empresa de auditoría externa y alteren, oculten o destruyan información de una entidad auditada, con el objeto de lograr un dictamen falso acerca de su situación financiera.
+e) El que efectuare transacciones en valores con el objeto de mantener o alterar artificialmente en el mercado el precio de uno o varios valores.
 
-e) Las personas que infrinjan las prohibiciones consignadas en los artículos 52, 53, inciso primero del artículo 85 y letras a), d), e) y h) del artículo 162 de esta ley.
+f) El que efectuare cotizaciones o transacciones ficticias, divulgare información falsa o se valiere de cualquier otra conducta engañosa semejante de un modo apto para transmitir señales falsas al mercado en cuanto a la oferta, la demanda o el precio de uno o varios valores, o que de otro modo sean idóneas para incidir en las decisiones del público inversor.
 
-f) Los directores, administradores, gerentes y ejecutivos principales de un emisor de valores de oferta pública, cuando efectuaren declaraciones maliciosamente falsas en la respectiva escritura de emisión de valores de oferta pública, en el prospecto de inscripción, en los antecedentes acompañados a la solicitud de inscripción, en las informaciones que deban proporcionar a la Comisión o a los tenedores de valores de oferta pública o en las noticias o propaganda divulgada por ellos al mercado.
-
-g) Los socios, administradores y, en general cualquier persona que en razón de su cargo o posición en las sociedades clasificadoras, se concertare con otra persona para otorgar una clasificación que no corresponda al riesgo de los títulos que clasifique.
-
-h) Los directores, administradores, gerentes y ejecutivos principales de un emisor de valores de oferta pública, de una bolsa de valores o de un intermediario de valores, que entregaren antecedentes o efectuaren declaraciones maliciosamente falsas al directorio o a los órganos de la administración de las entidades por ellos administradas, o a quienes realicen la auditoría externa o clasificación de riesgo de la misma, en su caso.
-
-> **Nota.** El artículo DECIMO de la LEY 18660, publicada el 20.10.1987, dispone que las modificaciones que ella introduce a la presente norma, entrarán en vigencia el primer día del segundo mes siguiente al de su publicación.
+g) El que, fuera de los casos previstos en las letras anteriores, proporcionare información falsa al mercado por cuenta de una persona sujeta a la fiscalización de la Comisión para el Mercado Financiero, en registros, prospectos, declaraciones o informes exigidos por ley o por la referida autoridad con carácter general, de un modo apto para incidir en las decisiones del público inversor u ocultar aspectos relevantes para conocer el patrimonio o la situación financiera o jurídica de la persona.
 
 #### Artículo 60
 
-Sufrirán las penas de presidio menor en su grado medio a presidio mayor en su grado mínimo:
+El que realizare una operación usando información privilegiada, ya sea adquiriendo o cediendo, por cuenta propia o de otro, directa o indirectamente, los valores a los que esa información se refiere, o bien cancelando o modificando una orden relativa a esos valores, será sancionado:
 
-a) Los que hicieren oferta pública de valores sin cumplir con los requisitos de inscripción en el Registro de Valores que exige esta ley o lo hicieren respecto de valores cuya inscripción hubiere sido suspendida o cancelada.
+1. Con pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo, en caso de poseer la información privilegiada en alguna de las circunstancias señaladas en el artículo 166.
 
-b) Los que actuaren directamente o en forma encubierta como corredores de bolsa, agentes de valores, empresas de auditoría externa o clasificadores de riesgo, sin estar inscritos en los Registros que exige esta ley o cuya inscripción hubiere sido suspendida o cancelada, y los que a sabiendas les facilitaren los medios para hacerlo;
+2. Con pena de presidio menor en sus grados medio a máximo en los demás casos.
 
-c) Los que sin estar legalmente autorizados utilicen las expresiones reservadas a que se refieren los artículos 37 y 71.
+Con las mismas penas será sancionado, respectivamente, el que revelare indebidamente información privilegiada.
 
-d) Los socios, administradores y, en general cualquier persona que en razón de su cargo o posición en las sociedades clasificadoras o en empresas de auditoría externa, tenga acceso a información reservada de los emisores clasificados o auditados y revele el contenido de dicha información a terceros;
-
-e) Las personas a que se refiere el artículo 166 que al efectuar transacciones u operaciones de valores de oferta pública, de cualquier naturaleza en el mercado de valores o en negociaciones privadas, para sí o para terceros, directa o indirectamente, usaren deliberadamente información privilegiada;
-
-f) Los que defraudaren a otros adquiriendo acciones de una sociedad anónima abierta, sin efectuar una oferta pública de adquisición de acciones en los casos que ordena esta ley;
-
-g) El que valiéndose de información privilegiada ejecute un acto, por sí o por intermedio de otras personas, con objeto de obtener un beneficio pecuniario o evitar una pérdida, tanto para sí como para terceros, mediante cualquier tipo de operaciones o transacciones con valores de oferta pública;
-
-h) El que revele información privilegiada, con objeto de obtener un beneficio pecuniario o evitar una pérdida, tanto para sí como para terceros, en operaciones o transacciones con valores de oferta pública;
-
-i) Los que indebidamente utilizaren en beneficio propio o de terceros valores entregados en custodia por el titular o el producto de los mismos, y
-
-j) El que deliberadamente elimine, altere, modifique, oculte o destruya registros, documentos, soportes tecnológicos o antecedentes de cualquier naturaleza, impidiendo o dificultando con ello la fiscalización de la Comisión.
-
-Para determinar las penas establecidas respecto de los delitos previstos en las letras e), g) y h) precedentes, el tribunal no tomará en consideración lo dispuesto en los artículos 67 a 69 del Código Penal ni las reglas especiales de determinación de las penas establecidas en otras leyes y, en su lugar, aplicará lo siguiente:
-
-1. Si no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal podrá recorrer toda la extensión de la pena señalada por la ley al aplicarla.
-
-2. Si concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado inferior. Si concurren una o más agravantes y ninguna atenuante, aplicará la pena en su grado superior.
-
-3. Si concurren circunstancias atenuantes y agravantes, se hará su compensación racional para la aplicación de la pena, graduando el valor de unas y otras, y también considerará la extensión del mal producido por el delito.
-
-4. El tribunal no podrá imponer una pena que sea mayor o menor al marco fijado por la ley, salvo que procedan las circunstancias establecidas en los artículos 51 a 54 del Código Penal.
-
-> **Nota.** El artículo DECIMO de la LEY 18660, publicada el 20.10.1987, dispone que las modificaciones que ella introduce a la presente norma, entrarán en vigencia el primer día del segundo mes siguiente al de su publicación.
+El que poseyendo información privilegiada en alguna de las circunstancias señaladas en el artículo 166 recomendare a otro la realización de las operaciones a que se refiere el inciso primero, será sancionado con pena de presidio menor en sus grados medio a máximo.
 
 #### Artículo 61
 
-El que con el objeto de inducir a error en el mercado de valores difunda información falsa o tendenciosa, aun cuando no persiga con ello obtener ventajas o beneficios para sí o terceros, sufrirá la pena de presidio menor en sus grados medio a máximo.
+Con pena de presidio menor en sus grados medio a máximo será sancionado:
 
-La pena señalada en el inciso precedente corresponderá a presidio menor en su grado máximo, cuando la conducta descrita la realice el que en razón de su cargo, posición, actividad o relación, en la Comisión o en una entidad fiscalizada por ella, pudiera poseer o tener acceso a información privilegiada.
+a) El que defraudare a otro adquiriendo acciones de una sociedad anónima abierta, sin efectuar una oferta pública de adquisición de acciones en los casos que ordena la ley.
+
+b) El que indebidamente utilizare en beneficio propio o de otros valores entregados en custodia o su producto.
+
+c) El que, conociendo o debiendo conocer el estado de insolvencia en que se encuentra un emisor de valores, acordare, decidiere o permitiere que éste haga oferta pública de valores, efectuare una oferta pública sobre esos valores o continuare intermediándolos, habiendo sido suspendida su transacción por la Comisión para el Mercado Financiero.
+
+d) El que, fuera del caso previsto en el inciso segundo del artículo 60, revelare indebidamente a otro la información de un emisor que hubiere conocido en razón de su cargo o posición en una sociedad clasificadora o una empresa de auditoría externa.
 
 #### Artículo 61 bis
 
-En los delitos contemplados en los artículos 59, 60 y 61, además de las penas allí previstas, se podrá imponer la pena accesoria de inhabilitación especial para el ejercicio de la profesión, si el autor ha actuado prevaleciéndose de su condición profesional; o la de inhabilitación especial de cinco a diez años para desempeñarse como gerente, director, liquidador o administrador a cualquier título de una sociedad o entidad sometida a fiscalización de la Comisión respectiva.
+DEROGADO.
 
 #### Artículo 62
 
-DEROGADO
+Con pena de presidio menor en cualquier de sus grados será sancionado:
+
+a) El que sin la correspondiente autorización o registro realizare oferta pública de valores o actuare como corredor de bolsa, agente de valores, empresa de auditoría externa o clasificadora de riesgos.
+
+b) El que sin la correspondiente autorización o registro usare las denominaciones de corredor de bolsa, agentes de valores o clasificadora de riesgos, o el que de cualquier otro modo se atribuya la calidad de aquellas entidades.
+
+c) El que eliminare, alterare, modificare, ocultare o destruyere registros, documentos, soportes tecnológicos o antecedentes de cualquier naturaleza, impidiendo o dificultando con ello las posibilidades de fiscalización de la Comisión para el Mercado Financiero.
+
+d) El director, administrador, gerente o ejecutivo principal de un emisor de valores de oferta pública, de una bolsa de valores o de un intermediario de valores, que entregare antecedentes falsos o efectuare declaraciones falsas al directorio o a los órganos de la administración de la entidad a la que pertenece, o a quienes realicen la auditoría externa o clasificación de riesgo de esa entidad.
+
+e) El que, prestando servicios en una sociedad clasificadora o empresa de auditoría externa, alterare, ocultare o destruyere información de un emisor clasificado o auditado.
+
+f) El que fuera de los casos previstos en el artículo 59 proporcionare a la Comisión para el Mercado Financiero información falsa relativa a un emisor sujeto su fiscalización.
 
 #### Artículo 63
 
 No podrá hacerse oferta pública de valores por emisores que se encuentren en estado de insolvencia. Igualmente, deberá suspenderse la emisión de valores de oferta pública desde que el emisor cayera en estado de insolvencia. Para efectos de lo dispuesto en el presente inciso, se presumirá que un emisor ha caído en estado de insolvencia cuando se hubiere iniciado un proceso concursal de liquidación en virtud de lo dispuesto en el Capítulo IV de la ley Nº 20.720, que sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la Comisión del ramo. En el caso de las empresas bancarias, se procederá de conformidad a lo dispuesto en decreto con fuerza de ley Nº 3, del Ministerio de Hacienda, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican.
-
-Los directores, administradores, y ejecutivos principales que sabiendo o debiendo saber el estado de insolvencia en que se encuentran las empresas por ellos administradas, acordaren, decidieren o permitieren que éstas incurran en hechos contrarios a lo establecido en el inciso anterior, serán sancionados con el máximo de las penas señaladas en el artículo 467 del Código Penal. Estas penas se aumentarán en un grado si las empresas consumaren su oferta y recibieren efectivamente dinero por los valores que en forma indebida hubieren ofertado públicamente.
-
-Lo dispuesto en los incisos anteriores es sin perjuicio de las responsabilidades civiles y sanciones administrativas que procedieren en conformidad a la ley.
 
 ## Título XII
 
@@ -1002,7 +986,7 @@ INCISO ELIMINADO
 
 A los socios, administradores, y en general a cualquier persona que en razón de su cargo o posición tenga acceso a información reservada de las sociedades clasificadas, se les prohíbe valerse de dicha información para obtener para sí o para otros, ventajas económicas de cualquier tipo.
 
-Las personas mencionadas que hayan actuado en contravención a lo establecido en este artículo, deberán devolver a la caja social del emisor toda utilidad que hubieren obtenido, valiéndose de la información reservada. Asimismo, toda persona que se sintiere perjudicada por infracción a lo dispuesto precedentemente tendrá derecho a demandar indemnización de perjuicios en contra de las personas indicadas en el inciso primero. Lo anterior es sin perjuicio de lo dispuesto en las letras e) del artículo 59 y d) del artículo 60.
+Las personas mencionadas que hayan actuado en contravención a lo establecido en este artículo, deberán devolver a la caja social del emisor toda utilidad que hubieren obtenido, valiéndose de la información reservada. Asimismo, toda persona que se sintiere perjudicada por infracción a lo dispuesto precedentemente tendrá derecho a demandar indemnización de perjuicios en contra de las personas indicadas en el inciso primero. Lo anterior es sin perjuicio de lo dispuesto en el artículo 60 y en la letra d) del artículo 61.
 
 #### Artículo 86
 
@@ -1888,13 +1872,15 @@ También se entenderá por información privilegiada, la que se posee sobre deci
 
 #### Artículo 165
 
-Cualquier persona que en razón de su cargo, posición, actividad o relación con el respectivo emisor de valores o con las personas señaladas en el artículo siguiente, posea información privilegiada, deberá guardar reserva y no podrá utilizarla en beneficio propio o ajeno, ni adquirir o enajenar, para sí o para terceros, directamente o a través de otras personas los valores sobre los cuales posea información privilegiada.
+Cualquier persona que en razón de su cargo, posición, actividad o relación posea información privilegiada, deberá guardar reserva y no podrá utilizarla en beneficio propio o ajeno, ni adquirir o enajenar, para sí o para terceros, directamente o a través de otras personas, los valores sobre los cuales posea información privilegiada. Asimismo, deberá velar para que tampoco ocurra a través de subordinados o terceros de su confianza lo señalado anteriormente y en el inciso siguiente.
 
-Asimismo, se les prohíbe valerse de la información privilegiada para obtener beneficios o evitar pérdidas, mediante cualquier tipo de operación con los valores a que ella se refiera o con instrumentos cuya rentabilidad esté determinada por esos valores. Igualmente, se abstendrán de comunicar dicha información a terceros o de recomendar la adquisición o enajenación de los valores citados, velando para que esto tampoco ocurra a través de subordinados o terceros de su confianza.
+A cualquiera que posea información privilegiada se le prohíbe realizar una operación utilizándola, ya sea adquiriendo o cediendo, por cuenta propia o de otro, directa o indirectamente, los valores a los que esa información se refiere, o bien cancelando o modificando una orden relativa a esos valores. Igualmente, se abstendrá de comunicar dicha información a terceros o de recomendar la adquisición o enajenación de los valores citados.
 
-No obstante lo dispuesto precedentemente, los intermediarios de valores que posean la información privilegiada a que se refiere el artículo anterior, podrán hacer operaciones respecto de los valores a que ella se refiere, por cuenta de terceros, no relacionados a ellos, siempre que la orden y las condiciones específicas de la operación provenga del cliente, sin asesoría ni recomendación del intermediario, y la operación se ajuste a su norma interna, establecida de conformidad al artículo 33.
+No obstante lo dispuesto precedentemente, los intermediarios de valores que posean información privilegiada podrán hacer operaciones respecto de los valores a que ella se refiere, por cuenta de terceros, no relacionados a ellos, siempre que la orden y las condiciones específicas de la operación provengan del cliente, sin asesoría ni recomendación del intermediario, y la operación se ajuste a su norma interna, establecida de conformidad al artículo 33.
 
-Para los efectos del inciso segundo de este artículo, las transacciones se entenderán realizadas en la fecha en que se efectúe la adquisición o enajenación, con independencia de la fecha en que se registren en el emisor.
+También podrá realizar las operaciones a que se refieren los incisos primero y segundo el que opere en cumplimiento de una orden de adquirir o ceder valores, cuando dicha orden hubiere estado contemplada en un acuerdo celebrado antes de que hubiere poseído información privilegiada la persona que la impartió.
+
+Para los efectos de este artículo, las transacciones se entenderán realizadas en la fecha en que se efectúe la adquisición o enajenación, con independencia de la fecha en que se registren en el emisor.
 
 #### Artículo 166
 
@@ -1920,7 +1906,7 @@ d) Las personas que presten servicios de asesorías permanente o temporal al emi
 
 e) Los funcionarios públicos dependientes de las instituciones que fiscalicen a emisores de valores de oferta pública o a fondos autorizados por ley.
 
-f) Los cónyuges o convivientes de las personas señaladas en la letra a) del inciso primero, así como cualquier persona que habite en su mismo domicilio.
+f) Los cónyuges, convivientes civiles o convivientes de las personas señaladas en la letra a) del inciso primero, así como cualquier persona que habite en su mismo domicilio.
 
 #### Artículo 167
 
@@ -2524,7 +2510,7 @@ No podrán ser socios de una empresa de auditoría:
 
 a) Quienes sean funcionarios o trabajadores bajo contrato de trabajo o a honorarios del Banco Central de Chile, de la Comisión y de la Superintendencia de Pensiones, así como quienes se encuentren afectos a las inhabilidades y prohibiciones establecidas en los artículos 35 y 36 de la ley Nº 18.046, exceptuando las labores docentes o académicas que puedan quedar incluidas en el N° 4 del citado artículo 35.
 
-b) Quien haya sido sancionado grave o reiteradamente por la Comisión de conformidad al decreto ley Nº 3.538, de 1980, o al decreto con fuerza de ley Nº 251, del año 1931, del Ministerio de Hacienda; o condenado de conformidad a los artículos 59 a 61 de esta ley o al artículo 134 de la ley Nº 18.046;
+b) Quien haya sido sancionado grave o reiteradamente por la Comisión de conformidad al decreto ley Nº 3.538, de 1980, o al decreto con fuerza de ley Nº 251, del año 1931, del Ministerio de Hacienda; o condenado de conformidad a los artículos 59 a 62 de esta ley o a los artículos 134 o 134 bis de la ley N° 18.046;
 
 c) Quien haya sido sancionado grave o reiteradamente por la Comisión, por infracciones al decreto con fuerza de ley Nº 3, del Ministerio de Hacienda, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, o por la Superintendencia de Pensiones.
 
