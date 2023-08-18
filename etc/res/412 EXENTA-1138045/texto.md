@@ -54,7 +54,7 @@ d. Datos a los que se requiere tener acceso para la finalidad de la investigaci�
 
 e. Metodología a utilizar.
 
-f. Identificación del jefe y de los miembros del equipo de investigación, y descripción de su trayectoria en la materia de la investigación o estudio.
+f. Identificación del jefe y de los miembros del equipo de investigación, y descripción de su trayectoria en la materia de la investigación o estudio. Asimismo, indicar a la persona de dicho equipo que será la responsable de la solicitud y del uso de los datos, la que deberá contar con clave única para completarla en la plataforma existente.
 
 g. Cronograma de trabajo.
 
@@ -64,7 +64,7 @@ h. Correo electrónico de contacto.
 
 a. Carta de solicitud dirigida a el/la Subsecretario/a de Evaluación Social, firmada por el Rector.
 
-b. Certificado de idoneidad del estudio emitido por el Comité de Ética o instancia que cumpla este rol en la respectiva Universidad.
+b. Comprobante del envío de la solicitud del certificado de idoneidad del estudio, al Comité de Ética o instancia que cumpla este rol en la respectiva Universidad. La aprobación de la idoneidad del estudio por dicho Comité, será requisito indispensable para la suscripción del Convenio con la Subsecretaría de Evaluación Social.
 
 ### III. Evaluación de las Solicitudes
 
@@ -72,7 +72,7 @@ b. Certificado de idoneidad del estudio emitido por el Comité de Ética o insta
 
 2. La evaluación de las solicitudes será realizada por una Comisión Evaluadora, la que estará integrada por tres miembros:
 
-a. El/la Jefe/a de la División de Políticas Sociales de la SES, quien la presidirá.
+a. El/La Jefe/a de la División de Políticas Sociales de la SES, o quien éste/a designe, quien la presidirá.
 
 b. El/la Jefe/a de la División de Información Social de la SES, o quien éste designe, y
 
@@ -89,6 +89,12 @@ c. Que los antecedentes exigidos se hayan acompañado al formulario de solicitud
 d. Que la investigación o estudio contribuya al desarrollo de políticas sociales que resulten de especial relevancia para el MDSF, en el marco del artículo 1º de la ley Nº 20.530 y dentro de la finalidad del inciso primero del artículo 6º de la ley Nº 19.949.
 
 e. Que los datos cuyo acceso se solicita, sean los necesarios para el desarrollo de la investigación o estudio.
+
+f. Que el plazo establecido para el desarrollo del proyecto de investigación no sea superior a 18 meses.
+
+g. Que las bases de datos solicitadas sean congruentes y tengan estricta relación con la materia objeto de la investigación o estudio.
+
+h. Que la propuesta de investigación identifique con claridad una problemática que afecta o eventualmente pudiese afectar el bienestar de una población en particular.
 
 4. La Comisión podrá solicitar antecedentes o aclaraciones, por escrito, de carácter adicional a la información entregada en el formulario.
 
@@ -108,7 +114,7 @@ c. Resguardos señalados en el inciso tercero del artículo 12º del decreto sup
 
 d. Soporte tecnológico bajo el cual el MDSF le dará acceso a los datos.
 
-e. Un cronograma, informes y su periodicidad.
+e. Un cronograma, informes, su periodicidad y la obligación de entrega de un resumen del estudio realizado, el que deberá contener, al menos, una descripción del estudio, la pregunta de investigación, los principales hallazgos y cómo estos se relacionan con las materias propias de este Ministerio. Dicho documento podrá ser publicado en la página web de RIS Investigación, una vez terminado el estudio.
 
 f. Derecho de acceso del MDSF a la investigación o estudio.
 
@@ -119,6 +125,8 @@ h. Que los datos podrán ser usados sólo para fines del estudio.
 i. La prohibición para el MDSF de utilizar las bases de datos que la universidad le entregue, para fines diversos al objeto del convenio, debiendo además destruirlas en los casos que proceda.
 
 j. La obligación para la universidad de cumplir con la Guía de Tratamiento de datos que les entregará la SES.
+
+9. La Universidad seleccionada contará con un plazo de 3 meses para la suscripción y tramitación del respectivo convenio, plazo que se computará a partir del envío del mismo por parte de la Subsecretaría de Evaluación Social. Si en dicho plazo la Universidad no remitiere a la Subsecretaría referida los documentos tramitados, se entenderá que la Universidad se desiste de su solicitud de acceso a datos que se regula en la presente resolución, lo que será formalizado mediante el correspondiente acto administrativo
 
 ### IV. Vigencia
 
