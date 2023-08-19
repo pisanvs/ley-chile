@@ -452,7 +452,7 @@ Luego de la lectura, revisión y control de calidad de las pruebas rendidas, se 
 
 Distinciones que se confieren en el proceso de admisión a la educación universitaria a postulantes de diversos contextos y trayectorias:
 
-Las distinciones serán otorgadas a los postulantes que, en el año de rendición de la prueba de admisión, egresan de la educación media, excluyendo a alumnos de exámenes libres y reconocimiento de estudios. Las referidas distinciones se otorgarán considerando los siguientes contextos y trayectorias, validados según los procedimientos que establezca la Subsecretaría de Educación Superior publicados a través de la Plataforma Electrónica Única:
+Las distinciones serán otorgadas a los postulantes que, en el año de rendición de la prueba de admisión, egresan de la educación media, obtienen un puntaje promedio entre pruebas obligatorias vigentes de 485 puntos y se encuentran habilitados para postular centralizadamente, excluyendo a alumnos de exámenes libres y reconocimiento de estudios. Las referidas distinciones se otorgarán considerando los siguientes contextos y trayectorias, validados según los procedimientos que establezca la Subsecretaría de Educación Superior publicados a través de la Plataforma Electrónica Única:
 
 i. Pueblos Originarios.
 
@@ -492,23 +492,29 @@ La universidad que utilice instrumentos de acceso específicos para la postulaci
 
 El Subsistema Universitario considera como programa especial de acceso al conjunto de acciones y/o procedimientos desarrollados por una institución de educación superior, que tienen como objetivo preparar académicamente a estudiantes secundarios para facilitar su ingreso a la educación superior. De este modo, se incentiva el acceso, entre otros, de estudiantes destacados de contextos socioeconómicamente vulnerables, en concordancia con el principio de inclusión consagrado en la ley 21.091.
 
-Los programas especiales de acceso pueden ser de carácter general, como es el caso del programa PACE, que se establece como una política pública ministerial, o pueden ser específicos de una determinada institución. En este último caso, deben ser aprobados por el Comité de Acceso.
+Los programas especiales de acceso deben respetar los principios que rigen al Sistema de Acceso, es decir, la objetividad, transparencia, accesibilidad universal y la no discriminación arbitraria.
 
-Dentro de la categoría de programas especiales de acceso de carácter específico, se encuentran los Programas de Preparación y Acceso a Pedagogía, los que son únicamente validados por el Ministerio de Educación, en los términos dispuestos en las leyes Nº 20.129 y Nº 20.903, o la normativa que las reemplace.
+Los programas especiales de acceso pueden ser de carácter general, como es el caso del programa PACE, que se establece como una política pública ministerial, o pueden ser específicos de una determinada institución. En este último caso, deben ser aprobados por el Comité Técnico de Acceso.
 
-Por su parte, los Programas Especiales de Acceso de carácter específico, es decir, ofrecidos por las mismas Universidades, deberán contemplar:
+Un programa especial de acceso de carácter específico corresponde al conjunto de acciones y/o procedimientos que desarrolla una determinada Institución de Educación Superior, con el propósito de preparar socioeducativamente a estudiantes de enseñanza media para facilitar su ingreso a la educación superior.
 
-1) Definición del Objetivo del Programa.
+Para que los programas especiales de carácter específico sean aprobados por el Comité Técnico de Acceso del subsistema universitario, además de respetar el procedimiento establecido para este efecto y los principios que rigen al Sistema de Acceso, deben contemplar, al menos, los criterios que se exponen a continuación:
 
-2) Universo/ Segmento al cual se enfocarán los esfuerzos.
+1. Definición del objetivo del Programa, el que deberá considerar, al menos, promover el acceso de su público objetivo a la universidad.
 
-3) Conjunto de actividades a desarrollar para lograr el o los objetivos planteados, con definición de objetivos por tipo de actividad a realizar, si corresponde.
+2. Universo/Segmento al cual se enfocarán los esfuerzos, indicando el (los) curso(s) o niveles de enseñanza media en el (los) que se trabajará y/o grupos en los que se enfocará. El Programa deberá considerar dentro de su público objetivo a postulantes de enseñanza media provenientes de contextos desventajados y/o grupos subrepresentados en la educación superior (establecimientos con alto índice de vulnerabilidad escolar, personas en situación de discapacidad, pueblos originarios, enseñanza media técnico profesional, mujeres en carreras masculinizadas y hombres en carreras feminizadas, entre otros).
 
-4) Duración mínima de las actividades que permita alcanzar los objetivos definidos.
+3. Conjunto de actividades que tengan como propósito preparar académicamente, o bien, desarrollar las habilidades para el siglo XXI estipuladas en las bases curriculares para tercero y cuarto medio, dirigidas a estudiantes de enseñanza media. Estas actividades deberán ser implementadas de manera periódica y gratuita.
 
-5) Determinación de exigencias para acreditar la aprobación del estudiante del programa.
+Para que los programas especiales de carácter específico sean aprobados por el Comité Técnico de Acceso del subsistema universitario, además de respetar el procedimiento establecido para este efecto y los principios que rigen al Sistema de Acceso, deben contemplar, al menos, los criterios que se exponen a continuación:
 
-6) Determinación de formas de autoevaluación permanente.
+1. Definición del objetivo del Programa, el que deberá considerar, al menos, promover el acceso de su público objetivo a la universidad.
+
+2. Universo/Segmento al cual se enfocarán los esfuerzos, indicando el (los) curso(s) o niveles de enseñanza media en el (los) que se trabajará y/o grupos en los que se enfocará. El Programa deberá considerar dentro de su público objetivo a postulantes de enseñanza media provenientes de contextos desventajados y/o grupos subrepresentados en la educación superior (establecimientos con alto índice de vulnerabilidad escolar, personas en situación de discapacidad, pueblos originarios, enseñanza media técnico profesional, mujeres en carreras masculinizadas y hombres en carreras feminizadas, entre otros).
+
+3. Conjunto de actividades que tengan como propósito preparar académicamente, o bien, desarrollar las habilidades para el siglo XXI estipuladas en las bases curriculares para tercero y cuarto medio, dirigidas a estudiantes de enseñanza media. Estas actividades deberán ser implementadas de manera periódica y gratuita.
+
+Dentro de la categoría de programas especiales de acceso de carácter específico, se encuentran los Programas de Preparación y Acceso a Pedagogía, los que son únicamente validados por el Ministerio de Educación, en los términos dispuestos en las leyes Nº 20.129 y Nº 20.903, o la normativa que las modifique o reemplace, y en el reglamento aprobado en el decreto N° 239, de 2016, y sus modificaciones, del Ministerio de Educación.
 
 4.1.3.- Criterios de habilitación
 
