@@ -6522,7 +6522,7 @@ El procedimiento contenido en este Párrafo se aplicará respecto de las cuestio
 
 También se aplicará este procedimiento para conocer de los actos discriminatorios a que se refiere el artículo 2° de este Código, con excepción de los contemplados en su inciso sexto.
 
-Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
+Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por la interposición de denuncias o por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
 
 Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
 

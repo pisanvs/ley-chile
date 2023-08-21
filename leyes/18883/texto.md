@@ -512,11 +512,13 @@ i) Observar una vida social acorde con la dignidad del cargo;
 
 j) Proporcionar con fidelidad y precisión los datos que la municipalidad le requiera relativos a situaciones personales o de familia, cuando ello sea de interés para la municipalidad, debiendo ésta guardar debida reserva de los mismos;
 
-k) Denunciar ante el Ministerio Público, o ante la policía si no hubiere fiscalía en la comuna en que tiene su sede la municipalidad, con la debida prontitud, los crímenes o simples delitos y al alcalde los hechos de carácter irregular o las faltas al principio de probidad de que tome conocimiento;
+k) Denunciar, con la debida prontitud, ante el Ministerio Público, las policías, o ante cualquier tribunal con competencia criminal, los hechos de los que tome conocimiento en el ejercicio de sus funciones y que revistan caracteres de delito;
 
-l) Rendir fianza cuando en razón de su cargo tenga la administración y custodia de fondos o bienes, de conformidad con la Ley Orgánica Constitucional de la Contraloría General de la República, y
+l) Denunciar, con la debida prontitud, ante la autoridad competente los hechos de que tome conocimiento en el ejercicio de sus funciones y que revistan el carácter de faltas administrativas o infracciones disciplinarias, especialmente aquellas que contravengan el principio de probidad administrativa;
 
-m) Justificarse ante el superior jerárquico de los cargos que se le formulen con publicidad, dentro del plazo que éste le fije, atendidas las circunstancias del caso.
+m) Rendir fianza cuando en razón de su cargo tenga la administración y custodia de fondos o bienes, de conformidad con la Ley Orgánica Constitucional de la Contraloría General de la República, y
+
+n) Justificarse ante el superior jerárquico de los cargos que se le formulen con publicidad, dentro del plazo que éste le fije, atendidas las circunstancias del caso.
 
 #### Artículo 59
 
@@ -732,13 +734,17 @@ La denuncia será hecha ante el respectivo tribunal por el alcalde de la municip
 
 #### Artículo 88
 
-A.- Los funcionarios que ejerzan las acciones a que se refiere la letra k) del artículo 58 tendrán los siguientes derechos:
+A.- Los funcionarios que ejerzan las acciones a que se refieren las letras k) y l) del artículo 58 tendrán los siguientes derechos:
 
 a) No podrán ser objeto de las medidas disciplinarias de suspensión del empleo o de destitución, desde la fecha en que el alcalde tenga por presentada la denuncia y hasta noventa días después de haber terminado la investigación sumaria o sumario, incoados a partir de la citada denuncia.
 
-b) No ser trasladados de localidad o de la función que desempeñaren, sin su autorización por escrito, durante el lapso a que se refiere la letra precedente.
+Tratándose de las personas contratadas a honorarios, regirá lo dispuesto en el inciso final del artículo 4; sin embargo, no podrá ponerse término anticipado a su contrato por el hecho de haber denunciado fundadamente, y con prueba suficiente que acredite sus afirmaciones, respecto a la existencia de algún acto o irregularidad de las previstas en las letras k) y l) del artículo 58; que hubiese presenciado o de las que hubiese tomado conocimiento en el ejercicio de sus funciones; caso en el cual la vigencia del contrato se sujetará al plazo acordado en su contratación.
+
+b) No ser trasladados de localidad o de la función que desempeñen sin su autorización por escrito, durante el lapso a que se refiere la letra precedente. Asimismo, los funcionarios tendrán derecho a solicitar su traslado de la localidad o de la función que desempeñen, especialmente cuando la denuncia se haya realizado en contra de un superior jerárquico. La resolución que deniega esta solicitud deberá fundarse exclusivamente en la imposibilidad material del servicio para organizar sus funciones de forma distinta. Esta decisión deberá ser adoptada por el jefe superior del servicio, y si éste se encuentra implicado en los hechos objeto de la denuncia, por la persona no inhabilitada que le subrogue.
 
 c) No ser objeto de precalificación anual, si el denunciado fuese su superior jerárquico, durante el mismo lapso a que se refieren las letras anteriores, salvo que expresamente la solicitare el denunciante. Si no lo hiciere, regirá su última calificación para todos los efectos legales.
+
+d) En aquellos casos en que los hechos denunciados hayan implicado un detrimento del patrimonio fiscal, la funcionaria o el funcionario público denunciante tendrá derecho a que se le otorgue una anotación de mérito en el factor que corresponda, que mejore su calificación en el año o período en que se haya acreditado ese detrimento; siempre y cuando haya aportado antecedentes precisos, fundados, comprobables y suficientes para la investigación administrativa o persecución penal.
 
 #### Artículo 88
 
@@ -763,6 +769,10 @@ Las denuncias que no cumplan con lo prescrito en los incisos primero y segundo p
 La autoridad que reciba la denuncia tendrá desde esa fecha un plazo de tres días hábiles para resolver si la tendrá por presentada.
 
 Si habiendo transcurrido el término establecido en el inciso anterior, la autoridad no se ha pronunciado sobre la procedencia de la denuncia, entonces se tendrá por presentada.
+
+#### Artículo 88
+
+C.- No serán aplicables los artículos 88 A y 88 B respecto del funcionario que realice su denuncia a través del Canal de Denuncias de la Contraloría General de la República establecido en la ley que establece un estatuto de protección en favor del denunciante. En dicho caso, serán aplicables las disposiciones contenidas en los títulos II, III y IV de dicha ley.
 
 #### Artículo 89
 
@@ -1014,6 +1024,20 @@ d) Destitución.
 
 Las medidas disciplinarias se aplicarán tomando en cuenta la gravedad de la falta cometida y las circunstancias atenuantes o agravantes que arroje el mérito de los antecedentes.
 
+Se considerará circunstancia atenuante la cooperación eficaz que conduzca al esclarecimiento de los hechos denunciados o permita la identificación de sus responsables, o sirva para prevenir o impedir la perpetración de nuevos hechos.
+
+En estos casos, el fiscal, en el dictamen, vista o informe que emita en el contexto del respectivo procedimiento disciplinario, deberá expresar en qué términos la cooperación prestada ha sido eficaz a los fines señalados en el inciso precedente.
+
+La circunstancia atenuante prevista en este artículo no se aplicará en los siguientes casos:
+
+1. Cuando solo resultare procedente la medida disciplinaria de destitución, de conformidad a lo establecido en el artículo 123.
+
+2. Tratándose de autoridades que desempeñen un cargo de elección popular o de exclusiva confianza de éstos o de la autoridad facultada para efectuar su nombramiento y respecto de cargos de Alta Dirección Pública.
+
+En caso de que la cooperación prestada por el denunciante en razón de su participación en los hechos materia de la denuncia, resultare eficaz para los fines señalados en el inciso primero, la inhabilitación para ingresar a la Administración del Estado que se imponga como consecuencia del procedimiento disciplinario relativo a los hechos denunciados, durará tres años. Dicha circunstancia deberá ser calificada por la autoridad encargada de aplicar la medida disciplinaria y deberá constar en el acto administrativo que se dicte para tales efectos.
+
+Lo señalado en el inciso anterior no tendrá aplicación en caso de auto denuncia de hechos en los que no hubiesen tenido participación terceras personas, ni tratándose de los sujetos a que refiere el numeral 2 del inciso quinto.
+
 #### Artículo 121
 
 La censura consiste en la reprensión por escrito que se hace al funcionario, de la cual se dejará constancia en su hoja de vida, mediante una anotación de demérito de dos puntos en el factor de calificación correspondiente.
@@ -1050,9 +1074,11 @@ c) Infringir lo dispuesto en la letra l) del artículo 82;
 
 d) Condena por crimen o simple delito, y
 
-e) Efectuar denuncias de irregularidades o de faltas al principio de probidad de las que haya afirmado tener conocimiento, sin fundamento y respecto de las cuales se constatare su falsedad o el ánimo deliberado de perjudicar al denunciado.
+e) Presentar denuncias falsas de infracciones disciplinarias, faltas administrativas o delitos, a sabiendas o con el ánimo deliberado de perjudicar al o a los sujetos denunciados.
 
-f) En los demás casos contemplados en este Estatuto o leyes especiales.
+f) Ejecutar acciones de hostigamiento en contra de cualquier persona que efectúe una denuncia de acuerdo a lo previsto en la ley o declare como testigo en una investigación administrativa o ante la justicia, afectando su indemnidad o estabilidad en el empleo, su vida o integridad, su libertad o su patrimonio, o que produzca la misma afectación respecto de un miembro de su familia.
+
+g) En los demás casos contemplados en este Estatuto o leyes especiales.
 
 #### Artículo 124
 
