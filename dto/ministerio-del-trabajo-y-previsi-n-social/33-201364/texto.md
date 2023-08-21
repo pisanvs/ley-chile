@@ -12,7 +12,7 @@ Del objetivo y fines del Servicio de Bienestar
 
 #### Artículo 1º
 
-El Servicio de Bienestar de la Defensoría Penal Pública, en adelante "El Bienestar", tiene por finalidad proporcionar a sus afiliados y cargas familiares legalmente reconocidas, en la medida que sus recursos lo permitan, asistencia médica, económica, social y cultural. Además propenderá al mejoramiento de las condiciones de vida y de trabajo del personal de la Institución, de acuerdo a las políticas generales de Bienestar y Recursos Humanos que dicte la Defensoría Penal Pública, de modo de lograr la utilización más completa, adecuada y racional de los recursos humanos, materiales y financieros de que disponga, orientándolos a proporcionar una atención integral a sus afiliados, todo ello dentro de las normas que se establecen en el presente reglamento.
+El Servicio de Bienestar de la Defensoría Penal Pública, en adelante "El Bienestar", tiene por finalidad proporcionar a sus afiliados y cargas familiares legalmente reconocidas, en la medida que sus recursos lo permitan, asistencia médica, económica, social y cultural. Además propenderá al mejoramiento de las condiciones de vida y de trabajo del personal de la Institución, de acuerdo a las políticas que dicte la Defensoría Penal Pública, en cuanto a Gestión de Personas y Desarrollo Organizacional y a las políticas generales de los Servicios de Bienestar, de modo de lograr la utilización más completa, adecuada y racional de los recursos humanos, materiales y financieros de que disponga, orientándolos a proporcionar una atención integral a sus afiliados, todo ello dentro de las normas que se establecen en el presente reglamento.
 
 #### Artículo 2º
 
@@ -38,7 +38,7 @@ El Bienestar será administrado por un Consejo Administrativo, que estará integ
 
 a) El Defensor Nacional, o la persona que éste designe en su reemplazo, quien lo presidirá;
 
-b) El Jefe de la Unidad Administrativa de Recursos Humanos de la Defensoría Nacional;
+b) El Jefe del Departamento de Gestión de Personas y Desarrollo Organizacional de la Defensoría Penal Pública.
 
 c) El Jefe de la Unidad de Asesoría Jurídica, y
 
@@ -124,11 +124,23 @@ El afiliado que no haga uso de vacaciones durante el año calendario no gozará 
 
 j) Alimentación de lactantes: El Bienestar podrá bonificar el valor de los alimentos preparados, especiales para lactantes, que deban suministrárseles por prescripción médica a los hijos menores de un año de los afiliados, que constituyan carga familiar.
 
-k) Actividad física y deportiva: se otorgará una ayuda anual por afiliado con el objeto de promover la salud física y mental de los
+k) Actividad física, deportiva y cultural: Se otorgará una ayuda anual por afiliado, con el objeto de promover la salud física y mental de los afiliados a Bienestar.
 
-afiliados a Bienestar.
+Dentro de las actividades físicas, se encuentran: Incorporación a gimnasios o clases particulares de alguna disciplina deportiva, arriendo de canchas para la práctica de algún deporte, inscripción en eventos deportivos. Dentro de las actividades culturales a desarrollar, se encuentran: clases de danza y/o baile, clases de música y/o canto, clases de pintura y artes, clases de manualidades y confección de textiles, clases de fotografía y clases de artes escénicas y/o de teatro, clases de literatura. No se considerarán para este fin, la asistencia a eventos masivos, tales como conciertos, cine, obras de teatro, capacitaciones y/o talleres laborales.
 
-Este bono tendrá la calidad de reembolso del gasto efectivo realizado por el afiliado, con el tope anual establecido por el consejo.
+Este bono tendrá la calidad de reembolso del gasto efectivo realizado por el afiliado, con el tope anual establecido por el Consejo.
+
+l) Acuerdo de Unión Civil: Cuando los afiliados o afiliadas al Servicio de Bienestar celebren Acuerdo de Unión Civil, en conformidad a las normas de la ley Nº 20.830, se pagará una bonificación por este concepto.
+
+Para percibir esta asignación, se deberá presentar el certificado de Acuerdo de Unión Civil correspondiente. En caso de que ambos contrayentes sean afiliados al Servicio de Bienestar, se pagará a cada uno de los contrayentes en forma independiente.
+
+Se deja constancia que, si el Acuerdo de Unión Civil termina por el matrimonio de los convivientes civiles entre sí, no se podrá solicitar la asignación por la causal de matrimonio.
+
+Este beneficio puede ser obtenido por solo una vez, teniendo en cuenta los sucesivos inicios o términos de Acuerdo de Unión Civil que pueda sostener cada afiliado o afiliada.
+
+m) Bono de Cumpleaños: Se pagará al afiliado o afiliada, un bono el día de su cumpleaños.
+
+n) Ayuda Social: Se concederá una ayuda al afiliado que acredite un estado de necesidad extraordinaria y, para lo cual, el Consejo administrativo podrá requerir previo a su otorgamiento, los informes o certificaciones que estime necesarios para ello.
 
 El monto de las ayudas y bonificaciones a que se refiere este artículo será fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Bienestar.
 
@@ -188,7 +200,7 @@ La solicitud de cualquier tipo de préstamo deberá ser suscrita, además del af
 
 #### Artículo 15º
 
-Las sumas que el afiliado deba pagar mensualmente al Bienestar, no podrán, en caso alguno, exceder del 30% de su remuneración imponible para pensiones, o de su pensión, según corresponda.
+Las sumas que el afiliado deba pagar mensualmente al Servicio de Bienestar, no podrán, en caso alguno, exceder del 15% conforme a lo dispuesto en el artículo 96º del Estatuto Administrativo.
 
 #### Artículo 16
 
@@ -196,31 +208,45 @@ El Bienestar propenderá al progreso social, cultural, educacional, deportivo y 
 
 Con este objetivo podrá, de acuerdo a su disponibilidad de recursos presupuestarios y con la aprobación del Consejo Administrativo:
 
-a) Contribuir al financiamiento de proyectos
+a) Contribuir al financiamiento de
 
-recreativo-culturales presentados por sus
+proyectos recreativo-culturales
 
-afiliados.
+presentados por sus afiliados.
 
-b) Contribuir a la celebración de Fiestas Patrias.
+b) Contribuir a celebraciones tales
 
-c) Contribuir a la celebración de Navidad de los
+como:
 
-afiliados y sus cargas familiares.
+Fiestas Patrias, Día de la Madre,
 
-d) Implementar proyectos específicos orientados a
+Día del Padre, Día del Niño,
 
-dar respuesta a requerimientos de los afiliados,
+Día de la Mujer.
 
-así como a la integración socio laboral de éstos,
+c) Contribuir a la celebración de
 
-a través de encuentros interregionales,
+Navidad de los afiliados y
 
-consejería y educación financiera, desarrollo de
+sus cargas familiares.
 
-acciones preventivas en salud y
+d) Implementar proyectos específicos
 
-sobreendeudamiento.
+orientados a dar respuesta a
+
+requerimientos de los afiliados,
+
+así como a la integración socio
+
+laboral de éstos, a través de
+
+encuentros interregionales,
+
+consejería y educación financiera,
+
+desarrollo de acciones preventivas
+
+en salud y sobreendeudamiento.
 
 #### Artículo 17º
 
