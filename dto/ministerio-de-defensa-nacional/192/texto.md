@@ -224,7 +224,7 @@ f) Departamento de Abastecimiento.
 
 CAPITULO V {N°. 26} FUNCIONES Y DEBERES DEL DIRECTOR
 
-26.- El Director del Instituto Hidrográfico será un oficial de la Armada, a lo menos del grado de Capitán de Navío de Servicios Especiales con especialidad en Hidrografía o en su defecto, Capitán de Navío Especialista en Navegación, quien además de las responsabilidades y atribuciones que las leyes, Ordenanzas de la Armada y demás reglamentos le asignan, tiene las siguientes funciones y deberes:
+26.- El Director del Servicio Hidrográfico y Oceanográfico de la Armada será un Oficial de la Armada, a lo menos del grado Capitán de Navío, especialista en Hidrografía, Navegación u otro del Escalafón de Ejecutivos e Ingenieros Navales del área de cubierta, quien además de la responsabilidad y atribuciones que las Leyes, Ordenanza de la Armada y demás reglamentos le asignan, tiene las siguientes funciones y deberes:
 
 a) Controlar y dirigir los servicios de levantamiento Hidrográfico, Cartografía, Oceanografía, Mareas, Maremotos, Navegación, Astronomía, Aerofotogrametría aplicada a la Carta Náutica y Señalización Marítima del país.
 
