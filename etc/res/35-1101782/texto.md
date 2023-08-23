@@ -122,7 +122,7 @@ Los Gastos de Operación asociados a los Ítems de Difusión y Promoción no pod
 
 ### 7. COSTOS DE ADMINISTRACIÓN
 
-La administración estará entregada a los Agentes Operadores Intermediarios, a los que CORFO pagará adicionalmente hasta un 15% del financiamiento o cofinanciamiento otorgado para la ejecución del Proyecto, según determine el Comité de Asignación de Fondos - CAF o el Comité de Asignación Zonal de Fondos - CAZ.
+La administración estará entregada a los Agentes Operadores Intermediarios, a los que Corfo pagará adicionalmente hasta un 15%, impuestos incluidos, del financiamiento o cofinanciamiento otorgado para la ejecución del Proyecto, según determine el órgano asignador de recursos correspondiente.
 
 Si un Proyecto termina anticipadamente, se resuelve su administración directa o se modifica su Agente Operador Intermediario, el Director Regional o el Gerente General, según la categoría del Proyecto, deberá determinar fundadamente el monto o porcentaje de pago que por este concepto deberá efectuarse.
 
