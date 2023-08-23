@@ -70,6 +70,8 @@ Estación Los Angeles 5.848,8 732,5
 
 Nota: (1) Basadas en el Datum Geodésico Provisorio Sudamericano de 1956 (PSAD 56)
 
+.
+
 #### Artículo tercero
 
 Los planos principales del proyecto se indican a continuación:
