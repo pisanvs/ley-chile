@@ -124,7 +124,7 @@ s) Eliminado.
 
 9. Para apoyar la implementación del Programa Oficial de Trazabilidad Animal, el Servicio podrá establecer Convenios de Colaboración con las Instituciones que éste determine. Ambas partes involucradas establecerán de manera conjunta las actividades a ejecutar en el marco del Programa.
 
-10. Todo movimiento o transporte de bovinos, equinos, porcinos, ovinos, caprinos, cérvidos, camélidos sudamericanos domésticos, jabalíes y bubalinos, debe ser acompañado durante todo el transporte por el FMA ya sea en su formato papel o emitido por el Sistema de Información Pecuaria Oficial en forma digital o impreso.
+10. Todo movimiento o transporte de bovinos, equinos, porcinos, ovinos, caprinos, cérvidos, camélidos sudamericanos domésticos, jabalíes y bubalinos, debe ser acompañado durante todo el transporte por el FMA ya sea en su formato papel o emitido por el Sistema de Información Pecuaria Oficial en forma digital o impreso. El Servicio podrá autorizar movimientos en situaciones especiales, como por ejemplo a veranadas, con un documento transitorio que posteriormente el Servicio registrará a través de un FMA en el sistema informático Oficial.
 
 10.1. Cuando en un mismo medio de transporte se efectúen movimientos de animales desde distintos establecimientos de origen y hacia distintos establecimientos de destino, se debe completar un FMA por cada uno de los movimientos.
 
@@ -172,6 +172,8 @@ xi. Individualización oficial de los animales, cuando corresponda.
 
 xii. Fecha de recepción en la Oficina del Servicio.
 
+xiii. El titular debe completar una declaración de responsabilidad respecto al movimiento de animales que puedan tener periodos de resguardo no finalizados de medicamentos aplicados, o sintomatología compatible con Enfermedades de Denuncia Obligatoria (EDO).
+
 b. El FMA formato electrónico deberá ser emitido directamente desde el Sistema de Información Pecuaria Oficial, debiendo contener la siguiente información:
 
 i. Número de identificación del formulario.
@@ -192,11 +194,13 @@ viii. Individualización oficial de los animales, cuando corresponda.
 
 ix. Fecha de recepción en la Oficina del Servicio.
 
-c. Las Ferias podrán generar e imprimir el FMA de salida de dicho recinto desde sus sistemas informáticos, si cumplen con todas las especificaciones técnicas del FMA formato electrónico, descritas en la letra b) precedente.
+x. El titular debe completar una declaración de responsabilidad respecto al movimiento de animales que puedan tener periodos de resguardo no finalizados de medicamentos aplicados, o sintomatología compatible con Enfermedades de Denuncia Obligatoria (EDO).
+
+c. Las Ferias podrán generar e imprimir el FMA de salida de dicho recinto desde sus sistemas informáticos, si cumplen con todas las especificaciones técnicas del FMA formato electrónico, descritas en la letra b) precedente. Además, en caso que ingresen animales con información de periodos de resguardo no finalizados desde el predio de origen del movimiento, esta información debe acompañar a los animales hasta su destino final.
 
 13. Sólo los titulares de establecimientos pecuarios inscritos en el programa o su mandatario, podrán solicitar el FMA en formato papel en las oficinas del Servicio o en Carabineros.
 
-13.1. El titular o su mandatario deberá presentar su cédula de identidad al momento de requerir el o los FMA y firmar las colillas de recepción del FMA.
+13.1. El titular o su mandatario deberá presentar su cédula de identidad al momento de requerir el o los FMA y firmar las colillas de recepción del FMA. El formulario debe ser utilizado sólo en el RUP informado y consignado al momento de la entrega del formulario.
 
 13.2. Sólo se entregará el FMA para establecimientos pecuarios que cuenten con la DEA vigente.
 
