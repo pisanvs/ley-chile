@@ -54,6 +54,8 @@ Deberá poseer las capacidades técnicas suficientes, de acuerdo al objeto del i
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a Ejecutor/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
+Asimismo, no podrán ser Beneficiario/a Ejecutor/a, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la Ley N° 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
+
 Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el sólo hecho de la postulación al instrumento.
 
 BENEFICIARIOS/AS ATENDIDOS/AS
@@ -69,6 +71,8 @@ No podrán ser Beneficiarios/as Atendidos/as de este instrumento las cooperativa
 3) Los emprendedores/as, que para los efectos de este instrumento, será toda persona natural que no habiendo efectuado inicio de actividades, desee desarrollar una actividad empresarial y participar del Programa.
 
 El cumplimiento de los requisitos para ser calificado como Beneficiario/a Atendido/a deberá ser realizado en forma previa a su incorporación al proyecto, por el/la Beneficiario/a Ejecutor/a, informándose dicha calificación al Agente Operador Intermediario en sus Informes de Avance y Final.
+
+No podrán ser Beneficiarios/as Atendidos/as, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la Ley N° 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos
 
 ASOCIADO/A
 
@@ -179,5 +183,7 @@ El Director Ejecutivo del Comité de Desarrollo Productivo Regional, en uso de s
 ### 10. VIGENCIA
 
 Este Reglamento entrará en vigencia una vez que se encuentre totalmente tramitada esta resolución.
+
+> **Nota.** Las letras c), d) y e) del N° 1 de la Resolución 64 Exenta, Economía, publicada el 28.08.2023, modifican los numerales 5.- "Costo de Administración", 6.- "Criterios de Evaluación" y 7.- "Asignación y Transferencia de Fondos" de la presente norma, respectivamente. No obstante, no se incorporaron en el presente texto actualizado por no coincidir los textos.
 
 Anótese y publíquese en el Diario Oficial.- Ricardo Millán Gutiérrez, Director Ejecutivo Comité de Desarrollo Productivo Regional, Región de Los Ríos.
