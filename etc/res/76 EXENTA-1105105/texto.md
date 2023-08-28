@@ -144,9 +144,7 @@ En caso que se declare un Estado de Excepción Constitucional, de emergencia o d
 
 ### 6. COSTOS DE ADMINISTRACIÓN
 
-Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de cada proyecto, un monto máximo de 15% del costo total de cofinanciamiento otorgado por éste.
-
-Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
+Por la evaluación, supervisión y administración de cada proyecto, además se pagará un monto máximo de 15% del costo total del cofinanciamiento otorgado por el Comité de Desarrollo Productivo Regional, impuestos incluidos.
 
 ### 7. CRITERIOS DE EVALUACIÓN
 
@@ -157,6 +155,12 @@ No podrán ser recomendados para su aprobación aquellos que obtengan una evalua
 Los criterios de evaluación y su ponderación para los Proyectos serán los siguientes:
 
 .
+
+De conformidad con lo señalado en el artículo séptimo transitorio de la ley N° 21.561, se otorgará un puntaje adicional, consistente en una bonificación de un 5% sobre la nota final obtenida, a aquellos proyectos cuyo beneficiario/a, cumpla con los siguientes requisitos copulativos:
+
+a) Sea una empresa de menor tamaño.
+
+b) Se le haya otorgado, por el Ministerio del Trabajo y Previsión Social, el sello que certifique que implementó de forma anticipada la reducción de jornada laboral establecida en la ley N° 21.561 y éste se encuentre vigente al momento de la decisión de adjudicación.
 
 ### 8. POSTULACIÓN, ASIGNACIÓN Y TRANSFERENCIAS DE FONDOS
 
@@ -195,5 +199,7 @@ El Director Ejecutivo del Comité de Desarrollo Productivo Regional, en uso de s
 ### 11. VIGENCIA
 
 Este reglamento entrará en vigencia una vez que se encuentre totalmente tramitada esta resolución.
+
+> **Nota.** Las letras a) y d) del N° 1 de la Resolución 62 Exenta, Economía, publicada el 28.08.2023, modifican los numerales 2.- "Beneficiarios" y 8.- "Asignación y Transferencias de Fondos" de la presente norma, respectivamente. No obstante, no se incorporaron en el presente texto actualizado por no coincidir los textos.
 
 Anótese y publíquese en el Diario Oficial.- Carla Paredes Gyllen, Directora Ejecutiva (S), Comité de Desarrollo Productivo Regional Región de Los Ríos.
