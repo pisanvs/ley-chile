@@ -56,6 +56,8 @@ Deberá poseer las capacidades técnicas suficientes, de acuerdo al objeto del i
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a Ejecutor/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
+Asimismo, no podrán ser Beneficiario/a Ejecutor/a, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la Ley N° 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
+
 Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el sólo hecho de la postulación al instrument
 
 BENEFICIARIOS/AS ATENDIDOS/AS
@@ -67,6 +69,8 @@ Podrán ser Beneficiarios/as Atendidos/as:
 2. Las cooperativas: El máximo de ventas netas de 25.000.- UF por cooperado se calcula con las ventas netas totales de la cooperativa, dividida por el número de cooperados durante los últimos 12 (doce) meses.
 
 No podrán ser Beneficiarios/as Atendidos/as de este instrumento las cooperativas de ahorro y crédito, escolares, de consumo, eléctricas, de agua potable y de vivienda.
+
+No podrán ser Beneficiarios/as Atendidos/as, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la Ley N° 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
 
 El cumplimiento de los requisitos para ser calificado como Beneficiario/a Atendido/a deberá ser realizado en forma previa a su incorporación al proyecto, por el Beneficiario Ejecutor, informándose dicha calificación al Agente Operador Intermediario en sus Informes de Avance y Final.
 
@@ -106,11 +110,9 @@ No se podrán cofinanciar a través de este Programa impuestos recuperables, gas
 
 Todo gasto deberá detallarse y guardar relación con el Plan de Trabajo y los resultados esperados.
 
-### 6. COSTO DE ADMINISTRACIÓN
+6.NOTA COSTO DE ADMINISTRACIÓN.
 
-Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración del proyecto, hasta un 15% del monto del cofinanciamiento otorgado, con un tope máximo de hasta $3.000.000.- (tres millones de pesos).
-
-Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo, hasta la suma de $4.000.000.- (cuatro millones de pesos) impuestos incluidos, por año y por proyecto.
 
 ### 7. PROCEDIMIENTO Y TRANSFERENCIA DE FONDOS
 
@@ -175,5 +177,9 @@ El Director Ejecutivo del Comité de Desarrollo Productivo Regional, en uso de s
 ### 10. VIGENCIA
 
 Este Reglamento entrará en vigencia una vez que se encuentre totalmente tramitada esta resolución.
+
+> **Nota.** Las letras a), c) y d) del numeral 1° de la Resolución 63 Exenta, Economía, publicada el 28.08.2023, modifican los numerales 3.- "Beneficiarios/as", 7.- "Criterios de Evaluación" y 8.- "Postulación, Asignación y Transferencia de Fondos" de la presente norma, respectivamente. No obstante, no se incorporaron en el presente texto actualizado por no coincidir los textos.
+
+> **Nota.** NOTA 1 Las letras c), d) y e) del N° 1 de la Resolución 65 Exenta, Economía, publicada el 28.08.2023, modifican los numerales 5.- "Costo de Administración", 6.- "Criterios de Evaluación" y 7.- "Asignación y Transferencia de Fondos" de la presente norma, respectivamente. No obstante, no se incorporaron en el presente texto actualizado por no coincidir los textos.
 
 Anótese y publíquese en el Diario Oficial.- Ricardo Millán Gutiérrez, Director Ejecutivo Comité de Desarrollo Productivo Regional Región de Los Ríos.
