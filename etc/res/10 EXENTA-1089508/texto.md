@@ -46,6 +46,8 @@ De resultar adjudicado, antes de la transferencia de los recursos, los beneficia
 
 Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
 
+Asimismo, no podrán ser beneficiarios/as de este instrumento, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la ley N° 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
+
 ### 3. ETAPAS Y PLAZOS
 
 Los Programas se ejecutarán en dos etapas sucesivas:
@@ -159,5 +161,7 @@ El Director Ejecutivo del Comité de Desarrollo Productivo Regional, en uso de s
 ### 11. VIGENCIA
 
 Este Reglamento entrará en vigencia una vez que se encuentre totalmente tramitada esta resolución.
+
+> **Nota.** La letra b, c y d del numeral 1° de la Rersolución 61 Exenta, Economía, publicada el 28.08.2023 modifican los numerales 6, 7 y 8 pero sus titulos no corresponden por lo que no se ha podido realizar su actualización.
 
 Anótese y publíquese en el Diario Oficial.- Ricardo Millán Gutiérrez, Director Ejecutivo, Comité de Desarrollo Productivo Regional, Región de Los Ríos.
