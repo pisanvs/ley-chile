@@ -22,7 +22,7 @@ Resuelvo:
 
 Fíjase el valor de cobro en $500.- (quinientos pesos) de los siguientes documentos que se proporcionan a usuarios y público en general en forma presencial en las oficinas de Atención al Usuario del Instituto Nacional de Propiedad Industrial:
 
-a) Títulos de marcas comerciales, patentes de invención, modelos de utilidad, dibujos y diseños industriales, esquemas de trazado o topografías de circuitos integrados, indicaciones geográficas y denominaciones de origen y otros títulos de protección que la ley pueda establecer.
+a) Títulos de patentes de invención, modelos de utilidad, dibujos y diseños industriales, esquemas de trazado o topografías de circuitos integrados.
 
 b) Certificados de marcas comerciales, patentes de invención, modelos de utilidad, dibujos y diseños industriales, esquemas de trazado o topografías de circuitos integrados, indicaciones geográficas y denominaciones de origen y de otros derechos de propiedad industrial que la ley pueda establecer.
 
