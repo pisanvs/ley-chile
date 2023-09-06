@@ -88,6 +88,8 @@ Del Comité de Ministros del Turismo
 
 #### Artículo 7°
 
+<!-- parte:8870293 -->
+
 Créase el Comité de Ministros del Turismo, en adelante "el Comité", cuya función será, a través del Ministro Presidente del mismo, asesorar al Presidente de la República en la fijación de los lineamientos de la política gubernamental para el desarrollo de la actividad turística.
 
 El Comité estará integrado por:
@@ -102,7 +104,7 @@ El Comité estará integrado por:
 
 5) El Ministro de Bienes Nacionales.
 
-6) El Ministro Presidente de la Comisión Nacional del Medio Ambiente.
+6) El Ministro del Medio Ambiente.
 
 7) El Presidente del Consejo Nacional de la Cultura y las Artes.
 
@@ -128,7 +130,7 @@ Corresponde al Comité de Ministros del Turismo:
 
 7) Declarar las Zonas de Interés Turístico.
 
-8) Determinar las áreas silvestres protegidas del Estado que, de acuerdo a su potencial, serán priorizadas para ser sometidas al procedimiento de desarrollo turístico.
+8) Derogado.
 
 9) Pronunciarse sobre los proyectos de ley y actos administrativos que se propongan al Presidente de la Republica, relativos a materias que estén dentro del ámbito de su competencia.
 
@@ -258,33 +260,27 @@ DEL DESARROLLO TURÍSTICO EN LAS ÁREAS SILVESTRES PROTEGIDAS DEL ESTADO
 
 <!-- parte:8870307 -->
 
-Sólo se podrán desarrollar actividades turísticas en Áreas Silvestres Protegidas de propiedad del Estado cuando sean compatibles con su objeto de protección, debiendo asegurarse la diversidad biológica, la preservación de la naturaleza y la conservación del patrimonio ambiental.
+Sólo se podrán desarrollar actividades turísticas en áreas protegidas cuando sean compatibles con su objeto y se ajusten al respectivo plan de manejo del área.
 
-El Comité de Ministros del Turismo, a proposición de la Subsecretaría de Turismo, y previo informe técnico de compatibilidad con el plan de manejo emitido por la institución encargada de la administración de las Áreas Silvestres Protegidas del Estado, determinará aquéllas que, de acuerdo a su potencial, serán priorizadas para ser sometidas al procedimiento de desarrollo turístico explicitado en los artículos siguientes.
-
-Para los efectos de este título, las decisiones adoptadas por el Comité, además de cumplir con el requisito de la mayoría absoluta, deberán contar con la aprobación del Ministro bajo cuya tutela se administran las Áreas Silvestres Protegidas del Estado y del Ministro de Bienes Nacionales, quienes en todo evento deberán pronunciarse fundadamente.
-
-El informe técnico de compatibilidad señalado en el inciso segundo de este artículo deberá ser propuesto dentro de 90 días corridos, contados desde el requerimiento que al efecto le formule el Ministro de Economía, Fomento y Turismo.
-
-Las Áreas Silvestres Protegidas del Estado no podrán ser intervenidas ni concesionadas al sector privado sin contar con los respectivos planes de manejo.
+Las concesiones de servicios turísticos en áreas protegidas se regirán por lo dispuesto en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
 
 #### Artículo 19
 
 <!-- parte:8870308 -->
 
-El Ministerio de Bienes Nacionales podrá, ajustándose a las restricciones que impongan los planes de manejo, otorgar concesiones sobre los inmuebles que formen parte de las Áreas Silvestres Protegidas del Estado, por medio del sistema establecido en los artículos 57 a 63 del decreto ley N° 1.939, de 1977. Estas concesiones podrán incluir una parte del área geográfica y,o sólo usos determinados sobre el territorio. Las concesiones sobre una misma área para usos determinados podrán ser diversas, siempre que sean compatibles entre sí.
+Derogado.
 
 #### Artículo 20
 
 <!-- parte:8870309 -->
 
-Las concesiones para usos turísticos o para la instalación de la correspondiente infraestructura en las Áreas Silvestres Protegidas del Estado podrán ser otorgadas y ejercidas, no obstante la existencia de otras concesiones adjudicadas para conservación o administración de las mismas áreas, a las entidades señaladas en el inciso segundo del artículo 57 del decreto ley N°1.939, de 1977.
+Derogado.
 
 #### Artículo 21
 
 <!-- parte:8870310 -->
 
-Un reglamento conjunto de los Ministerio de Economía, Fomento y Turismo; de Bienes Nacionales y de aquél bajo cuya tutela se administran las Áreas Silvestres Protegidas del Estado, regulará las condiciones y procedimiento de adjudicación de las concesiones y los derechos y obligaciones de los concesionarios para el desarrollo de actividades e infraestructura de turismo.
+Derogado.
 
 ## Título VI
 
