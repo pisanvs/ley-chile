@@ -34,7 +34,7 @@ e) Veda: prohibición indefinida o temporal de ejecutar acciones de caza o de ca
 
 f) Especies protegidas: todas las especies de vertebrados e invertebrados de la fauna silvestre que sean objeto de medidas de preservación.
 
-g) Especie o animal dañino: el que por sus características o hábitos, naturales o adquiridos, está ocasionando perjuicios graves a alguna actividad humana realizada en conformidad a la ley, o está causando desequilibrios de consideración en los ecosistemas en que desarrolla su existencia y, debido a esto, es calificado de tal por la autoridad competente, con referencia a marcos espaciales y temporales determinados. Ningún animal comprendido en los listados de especies declaradas en peligro de extinción, vulnerables, raras o escasamente conocidas podrá ser calificado de dañino.
+g) Especie o animal dañino: el que por sus características o hábitos, naturales o adquiridos, está ocasionando perjuicios graves a alguna actividad humana realizada en conformidad a la ley, o está causando desequilibrios de consideración en los ecosistemas en que desarrolla su existencia y, debido a esto, es calificado de tal por la autoridad competente, con referencia a marcos espaciales y temporales determinados. Ningún animal clasificado en alguna categoría de conservación en conformidad al artículo 37 de la ley Nº 19.300 podrá ser calificado de dañino.
 
 h) Ecosistema: complejo dinámico de comunidades vegetales, animales y de microorganismos y su medio no viviente, que interactúan como una unidad funcional.
 
@@ -42,15 +42,7 @@ i) Hábitat: lugar o tipo de ambiente al que se encuentra naturalmente asociada 
 
 j) Utilización sustentable: caza o captura de especímenes de la fauna silvestre efectuada de un modo y a un ritmo tales que no reduzcan o desequilibren sus poblaciones a niveles críticos ni comprometan a largo plazo la supervivencia de la especie a que pertenecen, a fin de mantener abiertas las posibilidades de éstas de contribuir a la satisfacción de las necesidades y aspiraciones de las generaciones humanas actuales y venideras.
 
-k) Especies en peligro de extinción: especies de la fauna silvestre expuestas a la amenaza de desaparecer, a corto o mediano plazo, del patrimonio fáunico nacional.
-
-l) Especies vulnerables: especies de la fauna silvestre que por ser objeto de una caza o captura intensiva, por tener una existencia asociada a determinados hábitats naturales que están siendo objeto de un progresivo proceso de destrucción o alteración, o debido a la contaminación de su medio vital, o a otras causas, están experimentando un constante retroceso numérico que puede conducirlas al peligro de extinción.
-
-m) Especies raras: especies de la fauna silvestre cuyas poblaciones, ya sea por tener una distribución geográfica muy restringida o por encontrarse en los últimos estadios de su proceso de extinción natural, son y han sido escasas desde tiempos inmemoriales.
-
-n) Especies escasamente conocidas: especies de la fauna silvestre respecto de las cuales sólo se dispone de conocimientos científicos rudimentarios e incompletos para determinar su correcto estado de conservación.
-
-ñ) Jornada de caza o captura: el período de tiempo correspondiente a todo un día.
+k) Jornada de caza o captura: el período de tiempo correspondiente a todo un día.
 
 ## Título II
 
@@ -58,7 +50,7 @@ De la Caza o Captura
 
 #### Artículo 3°
 
-Prohíbese en todo el territorio nacional la caza o captura de ejemplares de la fauna silvestre catalogados como especies en peligro de extinción, vulnerables, raras y escasamente conocidas, así como la de las especies catalogadas como beneficiosas para la actividad silvoagropecuaria, para la mantención del equilibrio de los ecosistemas naturales o que presenten densidades poblacionales reducidas.
+Prohíbese en todo el territorio nacional la caza o captura de ejemplares de la fauna silvestre catalogados como especies en peligro crítico, en peligro, vulnerable, casi amenazada o datos insuficientes, así como la de las especies catalogadas como beneficiosas para la actividad silvoagropecuaria, para la mantención del equilibrio de los ecosistemas naturales o que presenten densidades poblacionales reducidas.
 
 El reglamento señalará la nómina de las especies a que se refiere el inciso anterior. Asimismo, respecto de las demás especies, podrá establecer vedas, temporadas y zonas de caza y captura; número de ejemplares que podrán cazarse o capturarse por jornada, temporada o grupo etario y demás condiciones en que tales actividades podrán desarrollarse.
 
@@ -76,9 +68,9 @@ Prohíbese la venta de animales silvestres provenientes de faenas de caza o capt
 
 #### Artículo 7°
 
-Se prohíbe la caza o la captura en reservas de regiones vírgenes, parques nacionales, reservas nacionales, monumentos naturales, santuarios de la naturaleza, áreas prohibidas de caza, zonas urbanas, líneas de ferrocarriles, aeropuertos, en y desde caminos públicos y en lugares de interés científico y de aposentamiento de aves guaníferas.
+Se prohíbe la caza o la captura en áreas que forman parte del Sistema Nacional de Áreas Protegidas, áreas que constituyen reservas de la biósfera conforme al Programa del Hombre y la Biósfera de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, áreas prohibidas de caza, zonas urbanas, líneas de ferrocarriles, aeropuertos, en y desde caminos públicos, en lugares de interés científico y de aposentamiento de aves guaníferas o aves migratorias protegidas bajo el Convenio sobre la Conservación de Especies Migratorias de la Fauna Salvaje, en Sitios Prioritarios para la Conservación y en Corredores Biológicos.
 
-No obstante lo anterior, el Servicio Agrícola y Ganadero podrá autorizar la caza o la captura de determinados especímenes en los lugares señalados en el inciso precedente, pero sólo para fines científicos, para controlar la acción de animales que causen graves perjuicios al ecosistema, para establecer centros de reproducción o criaderos, o para permitir una utilización sustentable del recurso. En estos casos, deberá contarse, además, con el permiso de la autoridad que tenga a su cargo la administración del área silvestre protegida.
+No obstante lo anterior, el Servicio Agrícola y Ganadero podrá autorizar la caza o la captura de determinados especímenes en los lugares señalados en el inciso precedente que no sean áreas protegidas, pero sólo para fines científicos, para controlar la acción de animales que causen graves perjuicios al ecosistema, para establecer centros de reproducción o criaderos, o para permitir una utilización sustentable del recurso. En las áreas protegidas, dicha competencia será del Servicio de Biodiversidad y Áreas Protegidas.
 
 ## Título III
 
@@ -164,7 +156,7 @@ Asimismo, los dueños de criaderos deberán responder de los daños que causen a
 
 #### Artículo 22
 
-Todo tenedor de animales, vivos o muertos, pertenecientes a especies en peligro de extinción, vulnerables, raras o escasamente conocidas y protegidas deberá acreditar su legítima procedencia o su obtención en conformidad con esta ley, a requerimiento de autoridad competente.
+Todo tenedor de animales, vivos o muertos, pertenecientes a especies clasificadas en alguna categoría de conservación en conformidad al artículo 37 de la ley N° 19.300 y protegidas deberá acreditar su legítima procedencia o su obtención en conformidad con esta ley, a requerimiento de autoridad competente.
 
 Del mismo modo se deberá acreditar la procedencia u obtención de animales incluidos en los Anexos I y II del Convenio sobre la Conservación de Especies Migratorias de la Fauna Salvaje, promulgado por decreto supremo N° 868, de 1981, del Ministerio de Relaciones Exteriores.
 
@@ -186,7 +178,7 @@ Por decreto supremo, expedido por intermedio del Ministerio de Agricultura, el q
 
 #### Artículo 25
 
-La introducción en el territorio nacional de ejemplares vivos de especies exóticas de la fauna silvestre, semen, embriones, huevos para incubar y larvas que puedan perturbar el equilibrio ecológico y la conservación del patrimonio ambiental a que se refiere la letra b) del artículo 2° de la ley N° 19.300, requerirá de la autorización previa del Servicio Agrícola y Ganadero.
+La introducción en el territorio nacional de ejemplares vivos de especies exóticas de la fauna silvestre, semen, embriones, huevos para incubar y larvas que puedan perturbar el equilibrio ecológico y la conservación del patrimonio ambiental a que se refiere la letra b) del artículo 2° de la ley N° 19.300, requerirá de la autorización previa del Servicio Agrícola y Ganadero, en conjunto con el Servicio de Biodiversidad y Áreas Protegidas.
 
 Igual autorización se requerirá para introducir al medio natural especies de fauna silvestre, sea ésta del país o aclimatada, semen, embriones, huevos para incubar y larvas en regiones o áreas del territorio nacional donde no tengan presencia y puedan perturbar el equilibrio ecológico y la conservación del patrimonio ambiental.
 
@@ -236,7 +228,7 @@ Para cambiar la calificación de una especie cuya caza o captura esté prohibida
 
 #### Artículo 28
 
-Corresponderá al Servicio Agrícola y Ganadero fiscalizar el cumplimiento de esta ley y su reglamento.
+Corresponderá al Servicio Agrícola y Ganadero fiscalizar el cumplimiento de esta ley y su reglamento, sin perjuicio de las atribuciones de fiscalización del Servicio de Biodiversidad y Áreas Protegidas, en este caso de acuerdo al convenio de encomendamiento de funciones de fiscalización respectivo, en las áreas que forman parte del Sistema Nacional de Áreas Protegidas, así como en sitios prioritarios, ecosistemas amenazados y áreas degradadas.
 
 ## Título VI
 
@@ -330,9 +322,7 @@ Del Control de Caza
 
 #### Artículo 39
 
-Las funciones de control de caza serán ejercidas por Carabineros de Chile, por la autoridad marítima o por los funcionarios que para estos efectos designe el Servicio Agrícola y Ganadero, el Servicio Nacional de Pesca o la entidad que el Estado designe como administradora del Sistema Nacional de Areas Silvestres Protegidas, según corresponda. Las denuncias efectuadas por las personas antes enumeradas constituirán presunción de la existencia de los hechos denunciados. Estas funciones no comprenderán aquellas que correspondan a las autoridades fiscalizadoras a que se refiere el artículo 4° de la ley N° 17.798.
-
-Para los efectos de la presente ley, el personal de la entidad que el Estado designe como administradora del Sistema Nacional de Areas Silvestres Protegidas del Estado tendrá las responsabilidades propias de los funcionarios públicos, aun cuando perteneciere a una institución privada.
+Las funciones de control de caza serán ejercidas por Carabineros de Chile, por la autoridad marítima o por los funcionarios que para estos efectos designe el Servicio Agrícola y Ganadero, el Servicio Nacional de Pesca o la entidad que el Estado designe como administradora del Sistema Nacional de Areas Protegidas, según corresponda. Las denuncias efectuadas por las personas antes enumeradas constituirán presunción de la existencia de los hechos denunciados. Estas funciones no comprenderán aquellas que correspondan a las autoridades fiscalizadoras a que se refiere el artículo 4° de la ley N° 17.798.
 
 #### Artículo 40
 

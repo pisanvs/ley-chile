@@ -68,17 +68,15 @@ El Reglamento de esta Ley fijará las normas a que deberán someterse estas faci
 
 #### Artículo 10
 
-Con el objeto de regularizar el comercio de maderas, garantizar la vida de determinadas especies arbóreas y conservar la belleza del paisaje, el Presidente de la República podrá establecer reservas de bosques y parques nacionales de turismo en los terrenos fiscales apropiados a dichos fines y en terrenos particulares que se adquieran por compra o expropiación. La expropiación se hará en la forma indicada en el artículo 8° de esta Ley.
+Con el objeto de regularizar el comercio de maderas, garantizar la vida de determinadas especies arbóreas y conservar la belleza del paisaje, el Presidente de la República podrá establecer reservas de bosques en los terrenos fiscales apropiados a dichos fines y en terrenos particulares que se adquieran por compra o expropiación. La expropiación se hará en la forma indicada en el artículo 8° de esta Ley.
 
-Con el objeto de obtener un mejor aprovechamiento de los Parques Nacionales y Reservas Forestales, la Corporación Nacional Forestal podrá celebrar toda clase de contratos que afecten a dichos bienes y ejecutar los actos que sean necesarios para lograr esa finalidad. Asimismo, podrá establecer y cobrar derechos y tarifas por el acceso de público a los Parques Nacionales y Reservas Forestales que él determine, y por la pesca y caza en los lugares ubicados dentro de esos Parques y Reservas. Los dineros y productos que se obtengan ingresarán al patrimonio de dicho servicio.
+Con el objeto de obtener un mejor aprovechamiento de las Reservas Forestales, la Corporación Nacional Forestal podrá celebrar toda clase de contratos que afecten a dichos bienes y ejecutar los actos que sean necesarios para lograr esa finalidad. Asimismo, podrá establecer y cobrar derechos y tarifas por el acceso de público a las Reservas Forestales que él determine, y por la pesca y caza en los lugares ubicados dentro de esas Reservas. Los dineros y productos que se obtengan ingresarán al patrimonio de dicho servicio.
 
 > **Nota.** NOTA: El artículo 38 letra a) de la LEY 18362, derogó el el presente artículo. De acuerdo con lo dispuesto en el artículo 39 de la misma ley, esta regirá a partir desde la fecha en que entre en plena vigencia la ley 18348, la que a su vez, según lo dispone su artículo 19, entrará en vigencia el día en que se publique en el Diario Oficial el Decreto por el cual el Presidente de la República disuelva la Corporación Nacional Forestal o apruebe su disolución.
 
 #### Artículo 11
 
-Las reservas de bosques y los parques nacionales de turismo existentes en la actualidad y los que se establezcan de acuerdo con esta ley, no podrán ser destinados a otro objeto sino en virtud de una ley.
-
-> **Nota.** El artículo 38 letra a) de la LEY 18362, derogó el el presente artículo. De acuerdo con lo dispuesto en el artículo 39 de la misma ley, esta regirá a partir desde la fecha en que entre en plena vigencia la ley 18348, la que a su vez, según lo dispone su artículo 19, entrará en vigencia el día en que se publique en el Diario Oficial el Decreto por el cual el Presidente de la República disuelva la Corporación Nacional Forestal o apruebe su disolución.
+Las reservas de bosques existentes en la actualidad y los que se establezcan de acuerdo con esta ley, no podrán ser destinados a otro objeto sino en virtud de una ley.
 
 #### Artículo 12
 

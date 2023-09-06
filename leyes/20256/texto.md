@@ -144,6 +144,8 @@ g) Regulación de las dimensiones y características de los aparejos de pesca de
 
 Con el objeto de asegurar una protección eficaz a las especies cuyo ciclo vital se desarrolle tanto en aguas terrestres como marítimas, las medidas de administración que se adopten a su respecto deberán establecerse con la debida coordinación de las autoridades correspondientes. Si en el sector de aguas terrestres han sido declaradas una o más áreas preferenciales, de conformidad con lo dispuesto en el Título IV de esta ley, las autoridades correspondientes deberán dictar para las demás áreas, en el más breve plazo, las medidas de administración que complementen las contempladas en el plan de manejo respectivo.
 
+No serán susceptibles de pesca recreativa las especies que hayan sido clasificadas en peligro crítico, en peligro o vulnerables, de acuerdo con el artículo 37 de la ley Nº 19.300.
+
 #### Artículo 7º bis
 
 Medidas sanitarias y de bioseguridad. Con el objeto de evitar la introducción y propagación, de aislar la presencia o de propender a la erradicación de enfermedades de alto riesgo y de especies hidrobiológicas que constituyan o puedan constituir plagas de conformidad con el reglamento a que se refiere el artículo 86 de la Ley General de Pesca y Acuicultura, la Subsecretaría establecerá, cuando corresponda, la obligación de implementar una o más restricciones de uso o medidas de desinfección de aparejos de pesca recreativa, vestimenta, calzado, equipamiento y embarcaciones que se utilicen en dicha actividad o en otras actividades deportivas o recreacionales de carácter náutico que se realicen en los cuerpos y cursos de agua terrestre o en las áreas marítimas que determine mediante resolución fundada, de las previstas en el reglamento que al efecto dicte el Ministerio.
@@ -168,7 +170,7 @@ En todo caso, los participantes en campeonatos de pesca deberán dar cumplimient
 
 #### Artículo 11
 
-La repoblación y la siembra. Un reglamento del Ministerio regulará la forma y condiciones en que se podrán efectuar la siembra y repoblación de especies hidrobiológicas para fines de pesca recreativa, de modo de asegurar la debida protección del patrimonio sanitario y ambiental, en especial la biodiversidad.
+La repoblación y la siembra. Un reglamento del Ministerio, que llevará además la firma del Ministro del Medio Ambiente, regulará la forma y condiciones en que se podrán efectuar la siembra y repoblación de especies hidrobiológicas para fines de pesca recreativa, de modo de asegurar la debida protección del patrimonio sanitario y ambiental, en especial la biodiversidad.
 
 Las personas naturales o jurídicas interesadas en realizar actividades de siembra o repoblación, deberán solicitar autorización a la Subsecretaría o al Director Zonal, según corresponda, acompañando los antecedentes que establezca el reglamento.
 
@@ -190,7 +192,7 @@ Autoridad competente para declarar un área preferencial. Las áreas preferencia
 
 #### Artículo 13
 
-Procedimiento previo a la declaración de área preferencial. El intendente, previa elaboración de uno o más estudios técnicos a que se refiere el artículo siguiente y previa consulta al consejo de pesca recreativa de la región, a las autoridades públicas que, de acuerdo a sus competencias, deban emitir un pronunciamiento, y a la municipalidad de la o las comunas en que se ubique el área, identificará una o más secciones de curso o cuerpos de aguas terrestre susceptibles de ser declaradas áreas preferenciales.
+Procedimiento previo a la declaración de área preferencial. El intendente, previa elaboración de uno o más estudios técnicos a que se refiere el artículo siguiente y previa consulta al consejo de pesca recreativa de la región, a las autoridades públicas que, de acuerdo a sus competencias, deban emitir un pronunciamiento, al Servicio de Biodiversidad y Áreas Protegidas y a la municipalidad de la o las comunas en que se ubique el área, identificará una o más secciones de curso o cuerpos de aguas terrestre susceptibles de ser declaradas áreas preferenciales.
 
 Los pronunciamientos solicitados por el intendente deberán ser emitidos en el plazo de sesenta días corridos. Transcurrido dicho plazo se prescindirá del pronunciamiento respectivo.
 
@@ -404,7 +406,7 @@ El administrador deberá fiscalizar las medidas de administración previstas en 
 
 Cuando la administración recaiga en el adjudicatario, éste deberá informar a la municipalidad acerca del o los inspectores ad honorem habilitados para ejercer la función de fiscalización en el área preferencial.
 
-El adjudicatario responderá, en la forma que prescribe el artículo 28 de la presente ley, de los delitos e infracciones cometidos por el inspector ad honorem habilitado de conformidad con lo dispuesto en el inciso anterior, sin perjuicio de la responsabilidad de este último y de las facultades de fiscalización que corresponden a los funcionarios del Servicio y al personal de Armada y Carabineros.
+El adjudicatario responderá, en la forma que prescribe el artículo 28 de la presente ley, de los delitos e infracciones cometidos por el inspector ad honorem habilitado de conformidad con lo dispuesto en el inciso anterior, sin perjuicio de la responsabilidad de este último y de las facultades de fiscalización que corresponden a los funcionarios del Servicio y del Servicio de Biodiversidad y Áreas Protegidas, y al personal de Armada y Carabineros.
 
 En los casos en que los organismos fiscalizadores constaten infracciones graves a la ejecución del plan de manejo o a otras obligaciones establecidas en el convenio de ejecución, deberán comunicarlo a la o las municipalidades que corresponda a fin de que se adopten las sanciones contempladas en el convenio, cuando así proceda.
 
@@ -506,11 +508,11 @@ protección oficial
 
 #### Artículo 37
 
-Reservas marinas. En las reservas marinas declaradas en conformidad con la Ley General de Pesca y Acuicultura que se encuentren bajo la tuición del Servicio Nacional de Pesca, se podrán realizar actividades de pesca recreativa y pesca submarina en la forma que se determine en el plan de administración respectivo.
+Reservas de interés pesquero. En las reservas de interés pesquero declaradas en conformidad con la Ley General de Pesca y Acuicultura que se encuentren bajo la tuición del Servicio Nacional de Pesca, se podrán realizar actividades de pesca recreativa y pesca submarina en la forma que se determine en el plan de administración respectivo.
 
 #### Artículo 38
 
-Parques Nacionales. En los cursos de agua situados en los Parques Nacionales, cuya declaración de área preferencial de pesca no se haya decretado, no podrá realizarse pesca embarcada y sólo podrá realizarse pesca con devolución en lugares especialmente habilitados con dichos fines.
+Áreas protegidas. La pesca recreativa en las áreas protegidas deberá ser compatible con la categoría del área, su objeto específico de protección y ajustarse al respectivo plan de manejo.
 
 #### Artículo 39
 
@@ -519,8 +521,6 @@ Otras aguas bajo protección oficial. Los planes de manejo que se elaboren para 
 Para el financiamiento de la elaboración del plan de manejo de un área bajo protección oficial que comprenda actividades de pesca recreativa, el organismo encargado de su administración podrá presentar proyectos al Fondo de Investigación Pesquera, sin perjuicio del financiamiento que pueda obtener a través de otros fondos.
 
 Asimismo, y sin perjuicio de las facultades que le otorgue la normativa que rige la administración del área bajo protección oficial, el organismo encargado de su administración podrá exigir la posesión de un permiso especial de pesca recreativa, establecer el monto de los derechos para su obtención y celebrar convenios para su entrega y cobro de los derechos correspondientes.
-
-En el caso de Parques Nacionales los planes de manejo deberán privilegiar el estricto mantenimiento de los equilibrios ecológicos y la preservación de los ecosistemas naturales.
 
 ## Título V
 
@@ -564,11 +564,13 @@ b) Por el Director Regional de Turismo;
 
 c) Por el Director Regional de Pesca;
 
-d) Por un representante del gobierno regional designado por el intendente;
+d) El Director Regional del Servicio de Biodiversidad y Áreas Protegidas;
 
-e) Por cuatro representantes de los agentes del sector de pesca recreativa, entendiendo por tales las organizaciones de operadores y guías de pesca recreativa, los clubes de pesca y las organizaciones sin fines de lucro que determine el intendente. Los representantes designados en esta letra serán elegidos directamente por las organizaciones legalmente constituidas que tengan domicilio en la región, en conformidad con el procedimiento de elección que establezca un reglamento del Ministerio, y
+e) Por un representante del gobierno regional designado por el intendente;
 
-f) Por un representante de universidades de la zona, reconocidas por el Estado, vinculado a una unidad académica directamente relacionada con las ciencias del mar o limnología, el que será designado conforme lo dispuesto en el reglamento de esta ley.
+f) Por cuatro representantes de los agentes del sector de pesca recreativa, entendiendo por tales las organizaciones de operadores y guías de pesca recreativa, los clubes de pesca y las organizaciones sin fines de lucro que determine el intendente. Los representantes designados en esta letra serán elegidos directamente por las organizaciones legalmente constituidas que tengan domicilio en la región, en conformidad con el procedimiento de elección que establezca un reglamento del Ministerio, y
+
+g) Por un representante de universidades de la zona, reconocidas por el Estado, vinculado a una unidad académica directamente relacionada con las ciencias del mar o limnología, el que será designado conforme lo dispuesto en el reglamento de esta ley.
 
 Podrán ser invitados a participar en el Consejo el Secretario Regional Ministerial de Economía, cuando no lo integre, así como un representante de Carabineros de Chile, de la Armada de Chile, de las asociaciones municipales de la región y de las cámaras de turismo que tengan su domicilio en la región.
 
@@ -612,17 +614,17 @@ De la fiscalización, infracciones y sanciones
 
 #### Artículo 46
 
-Fiscalizadores de la presente ley. La fiscalización del cumplimiento de las disposiciones de la presente ley, y de las medidas de administración adoptadas conforme a ellas, será ejercida por los funcionarios del Servicio y personal de la Armada y Carabineros, según corresponda, dentro del ámbito de sus respectivas competencias.
+Fiscalizadores de la presente ley. La fiscalización del cumplimiento de las disposiciones de la presente ley, y de las medidas de administración adoptadas conforme a ellas, será ejercida por los funcionarios del Servicio, del Servicio de Biodiversidad y Áreas Protegidas, en este caso de acuerdo al convenio de encomendamiento de funciones de fiscalización respectivo, y personal de la Armada y Carabineros, según corresponda, dentro del ámbito de sus respectivas competencias.
 
 Las calidades, atribuciones y facultades para el ejercicio de su función fiscalizadora se regirán por sus respectivas leyes orgánicas y por las disposiciones contenidas en la Ley General de Pesca y Acuicultura.
 
-Tendrán también la calidad de fiscalizadores de las actividades de pesca recreativa, los inspectores ad honorem designados por el Director Nacional de Pesca en conformidad con la ley Nº 18.465, así como los inspectores municipales y los guardaparques señalados en el Sistema Nacional de Áreas Silvestres Protegidas por el Estado (SNASPE), en la forma y condiciones que se establecen en el presente Título.
+Tendrán también la calidad de fiscalizadores de las actividades de pesca recreativa, los inspectores ad honorem designados por el Director Nacional de Pesca en conformidad con la ley Nº 18.465, así como los inspectores municipales, en la forma y condiciones que se establecen en el presente Título.
 
 En la fiscalización del cumplimiento de esta ley deberá tenerse especialmente en cuenta el riesgo para la sustentabilidad de los recursos naturales y sus ecosistemas y para el cumplimiento de los principios y objetivos indicados en el artículo 2.
 
 #### Artículo 47
 
-Inspectores municipales y guardaparques. Los inspectores municipales y guardaparques señalados en el Sistema Nacional de Áreas Silvestres Protegidas por el Estado (SNASPE) deberán rendir y aprobar un examen ante el Servicio Nacional de Pesca para acreditar conocimientos especializados o experiencia en materias de pesca recreativa. Deberán ejercer labores de fiscalización en la jurisdicción de la municipalidad respectiva o en las áreas silvestres protegidas, según corresponda, y tendrán en el ejercicio de sus funciones las facultades y obligaciones establecidas en el artículo 3º letras a), b), c), d), h) e i) de la ley Nº 18.465.
+Inspectores municipales. Los inspectores municipales deberán rendir y aprobar un examen ante el Servicio Nacional de Pesca para acreditar conocimientos especializados o experiencia en materias de pesca recreativa. Deberán ejercer labores de fiscalización en la jurisdicción de la municipalidad respectiva y tendrán en el ejercicio de sus funciones las facultades y obligaciones establecidas en el artículo 3º letras a), b), c), d), h) e i) de la ley Nº 18.465.
 
 #### Artículo 48
 

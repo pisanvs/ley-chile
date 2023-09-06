@@ -234,7 +234,7 @@ n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recur
 
 o) Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de tratamiento de aguas o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos;
 
-p) Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas, humedales urbanos o en cualesquiera otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita;
+p) Ejecución de obras, programas o actividades en áreas que formen parte del Sistema Nacional de Áreas Protegidas, humedales urbanos y en otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita;
 
 q) Aplicación masiva de productos químicos en áreas urbanas o zonas rurales próximas a centros poblados, humedales, o a cursos o masas de agua que puedan ser afectadas;
 
@@ -664,17 +664,15 @@ Estos programas serán regionalizados. Respecto de la Zona Económica Exclusiva 
 
 #### Artículo 34
 
-El Estado administrará un Sistema Nacional de Areas Silvestres Protegidas, que incluirá los parques y reservas marinas, con objeto de asegurar la diversidad biológica, tutelar la preservación de la naturaleza y conservar el patrimonio ambiental. La administración y supervisión del Sistema Nacional de Áreas Silvestres Protegidas del Estado corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
+El Estado administrará un Sistema Nacional de Áreas Protegidas, con objeto de asegurar la conservación de la biodiversidad y la protección del patrimonio natural. La administración del Sistema Nacional de Áreas Protegidas corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
 
 #### Artículo 35
 
-Con el mismo propósito señalado en el artículo precedente, el Estado fomentará e incentivará la creación de áreas silvestres protegidas de propiedad privada, las que estarán afectas a igual tratamiento tributario, derechos, obligaciones y cargas que las pertenecientes al Sistema Nacional de Areas Silvestres Protegidas del Estado.
+Con el mismo propósito señalado en el artículo precedente, el Estado fomentará e incentivará la creación de áreas protegidas de propiedad privada, las que formarán parte del Sistema Nacional de Áreas Protegidas.
 
-La supervisión de estas áreas silvestres corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
+La supervisión de estas áreas corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
 
-La afectación de estas áreas será voluntaria y se perfeccionará mediante resolución dictada por el organismo señalado en el inciso anterior, que acoge la respectiva solicitud de su propietario, quien deberá reducir la resolución a escritura pública e inscribirla, para efectos de publicidad, en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces competente.
-
-La desafectación se producirá por vencimiento del plazo, por resolución de dicho organismo fundada en el incumplimiento de las obligaciones establecidas en el reglamento, o a petición anticipada del propietario. En los dos últimos casos podrá aplicar una multa, a beneficio fiscal, que no excederá del monto acumulado y actualizado de impuestos y contribuciones de los que el inmueble estuvo exento en virtud de su afectación en el período correspondiente.
+La creación, desafectación y regulación de estas áreas se regirá por lo dispuesto en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
 
 El reglamento establecerá los requisitos, plazos y limitaciones de aplicación general que se deberán cumplir para gozar de las franquicias, ejercer los derechos y dar cumplimiento a las obligaciones y cargas a que se refiere el inciso primero.
 
@@ -686,9 +684,9 @@ Sobre estas áreas protegidas mantendrán sus facultades los demás organismos p
 
 #### Artículo 37
 
-El reglamento fijará el procedimiento para clasificar las especies de plantas, algas, hongos y animales silvestres, sobre la base de antecedentes científico-técnicos, y según su estado de conservación, en las categorías recomendadas para tales efectos por la Unión Mundial para la Conservación de la Naturaleza (UICN) u otro organismo internacional que dicte pautas en estas materias.
+El Ministerio del Medio Ambiente clasificará las especies de plantas, algas, hongos y animales nativos, sobre la base de antecedentes científico-técnicos, y según su estado de conservación, en las categorías recomendadas para tales efectos por la Unión Internacional para la Conservación de la Naturaleza (UICN) u otro organismo internacional que dicte pautas en estas materias. Para tal efecto, el Servicio de Biodiversidad y Áreas Protegidas formulará una propuesta de clasificación al Ministerio del Medio Ambiente. Un reglamento dictado por el Ministerio del Medio Ambiente fijará el procedimiento de tal clasificación
 
-De conformidad a dichas clasificaciones el Ministerio del Medio Ambiente deberá aprobar planes de recuperación, conservación y gestión de dichas especies. El reglamento definirá el procedimiento de elaboración, el sistema de información pública y el contenido de cada uno de ellos.
+De conformidad a dichas clasificaciones, el Servicio de Biodiversidad y Áreas Protegidas deberá aprobar planes de recuperación, conservación y gestión de especies, de acuerdo a lo dispuesto en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
 
 #### Artículo 38
 
@@ -724,7 +722,7 @@ El uso y aprovechamiento de los recursos naturales renovables se efectuará aseg
 
 #### Artículo 42
 
-El Ministerio del Medio Ambiente conjuntamente con el organismo público encargado por la ley de regular el uso o aprovechamiento de los recursos naturales en un área determinada, exigirá, cuando corresponda, la presentación y cumplimiento de planes de manejo de los mismos, a fin de asegurar su conservación.
+El Servicio de Biodiversidad y Áreas Protegidas conjuntamente con el organismo público encargado por la ley de regular el uso o aprovechamiento de los recursos naturales en un área determinada, exigirá, cuando corresponda, el cumplimiento de planes de manejo de los mismos, a fin de asegurar su conservación.
 
 Estos incluirán, entre otras, las siguientes consideraciones ambientales:
 
@@ -734,7 +732,7 @@ b) Mantención del valor paisajístico, y
 
 c) Protección de especies clasificadas según lo dispuesto en el artículo 37.
 
-Lo dispuesto en este artículo es sin perjuicio de lo establecido en otros cuerpos legales, sobre planes de manejo de recursos naturales renovables, y no se aplicará a aquellos proyectos o actividades respecto de los cuales se hubiere aprobado un Estudio o una Declaración de Impacto Ambiental.
+Lo dispuesto en este artículo es sin perjuicio de lo establecido en otros cuerpos legales, sobre planes de manejo de recursos naturales renovables, y no se aplicará alos planes de manejo de áreas protegidas ni a aquellos proyectos o actividades respecto de los cuales se hubiere aprobado un Estudio o una Declaración de Impacto Ambiental.
 
 #### Artículo 43
 
@@ -922,7 +920,7 @@ De la Fiscalización
 
 #### Artículo 64
 
-La fiscalización del permanente cumplimiento de las normas y condiciones sobre la base de las cuales se han aprobado o aceptado los Estudios y Declaraciones de Impacto Ambiental, de las medidas e instrumentos que establezcan los Planes de Prevención y de Descontaminación, de las normas de calidad y emisión, así como de los planes de manejo establecidos en la presente ley, cuando correspondan, será efectuada por la Superintendencia del Medio Ambiente de conformidad a lo señalado por la ley.
+La fiscalización del permanente cumplimiento de las normas y condiciones sobre la base de las cuales se han aprobado o aceptado los Estudios y Declaraciones de Impacto Ambiental, de las medidas e instrumentos que establezcan los Planes de Prevención y de Descontaminación y de las normas de calidad y emisión, será efectuada por la Superintendencia del Medio Ambiente de conformidad a lo señalado por la ley.
 
 #### Artículo 65
 
@@ -974,9 +972,9 @@ Corresponderá especialmente al Ministerio:
 
 a) Proponer las políticas ambientales e informar periódicamente sobre sus avances y cumplimientos.
 
-b) Proponer las políticas, planes, programas, normas y supervigilar el Sistema Nacional de Áreas Protegidas del Estado, que incluye parques y reservas marinas, así como los santuarios de la naturaleza, y supervisar el manejo de las áreas protegidas de propiedad privada.
+b) Proponer políticas, planes, programas, normas y supervigilar el Sistema Nacional de Áreas Protegidas.
 
-c) Proponer las políticas, planes, programas, normas y supervigilar las áreas marinas costeras protegidas de múltiples usos.
+c) Derogada.
 
 d) Velar por el cumplimiento de las convenciones internacionales, en que Chile sea parte en materia ambiental, y ejercer la calidad de contraparte administrativa, científica o técnica de tales convenciones, sin perjuicio de las facultades del Ministerio de Relaciones Exteriores.
 
@@ -990,9 +988,9 @@ g) Proponer políticas y formular normas, planes y programas en materia de resid
 
 h) Proponer políticas y formular los planes, programas y planes de acción en materia de cambio climático. En ejercicio de esta competencia deberá colaborar con los diferentes órganos de la Administración del Estado a nivel nacional, regional y local con el objeto de poder determinar sus efectos, así como el establecimiento de las medidas necesarias de adaptación y mitigación.
 
-i) Proponer políticas y formular planes, programas y acciones que establezcan los criterios básicos y las medidas preventivas para favorecer la recuperación y conservación de los recursos hídricos, genéticos, la flora, la fauna, los hábitats, los paisajes, ecosistemas y espacios naturales, en especial los frágiles y degradados, contribuyendo al cumplimiento de los convenios internacionales de conservación de la biodiversidad.
+i) Proponer políticas y formular planes, programas y acciones que establezcan los criterios básicos y las medidas preventivas para favorecer la recuperación y conservación de los recursos hídricos, genéticos, las plantas, algas, hongos y animales silvestres, los hábitats, los paisajes, ecosistemas y espacios naturales, en especial los frágiles y degradados, contribuyendo al cumplimiento de los convenios internacionales de conservación de la biodiversidad.
 
-j) Elaborar y ejecutar estudios y programas de investigación, protección y conservación de la biodiversidad, así como administrar y actualizar una base de datos sobre biodiversidad.
+j) Elaborar y ejecutar estudios y programas de investigación de su competencia.
 
 k) Elaborar los estudios necesarios y recopilar toda la información disponible para determinar la línea de base ambiental del país, elaborar las cuentas ambientales, incluidos los activos y pasivos ambientales, y la capacidad de carga de las distintas cuencas ambientales del país.
 
@@ -1044,7 +1042,7 @@ Del Consejo de Ministros para la Sustentabilidad y el Cambio Climático, Natural
 
 #### Artículo 71
 
-Créase el Consejo de Ministros para la Sustentabilidad y el Cambio Climático, presidido por el Ministro del Medio Ambiente e integrado por los Ministros de Agricultura; de Hacienda; de Salud; de Economía, Fomento y Turismo; de Energía; de Obras Públicas; de Vivienda y Urbanismo; de Transportes y Telecomunicaciones; de Minería; de Desarrollo Social y Familia; de Educación, y de Ciencia, Tecnología, Conocimiento e Innovación.
+Créase el Consejo de Ministros para la Sustentabilidad y el Cambio Climático, presidido por el Ministro del Medio Ambiente e integrado por los Ministros de Agricultura; de Hacienda; de Salud; de Economía, Fomento y Turismo; de Energía; de Obras Públicas; de Vivienda y Urbanismo; de Transportes y Telecomunicaciones; de Minería; de Desarrollo Social y Familia; de Bienes Nacionales; de Educación, y de Ciencia, Tecnología, Conocimiento e Innovación.
 
 En caso de ausencia o impedimento del Presidente, éste será reemplazado por el Ministro que corresponda según el orden establecido en el inciso anterior.
 
@@ -1054,7 +1052,7 @@ a) Proponer al Presidente de la República las políticas para el manejo, uso y 
 
 b) Proponer al Presidente de la República los criterios de sustentabilidad que deben ser incorporados en la elaboración de las políticas y procesos de planificación de los ministerios, así como en la de sus servicios dependientes y relacionados.
 
-c) Proponer al Presidente de la República la creación de las Áreas Protegidas del Estado, que incluye parques y reservas marinas, así como los santuarios de la naturaleza y de las áreas marinas costeras protegidas de múltiples usos.
+c) Pronunciarse sobre las propuestas de creación de áreas protegidas del Estado que efectúe el Ministerio del Medio Ambiente.
 
 d) Proponer al Presidente de la República las políticas sectoriales que deben ser sometidas a evaluación ambiental estratégica.
 

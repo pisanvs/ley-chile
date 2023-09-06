@@ -154,9 +154,7 @@ No se aplicará este artículo a las enajenaciones de sitios fiscales que no pro
 
 #### Artículo 15
 
-Las reservas forestales, Parques Nacionales y los terrenos fiscales cuya ocupación y trabajo en cualquier forma comprometan el equilibrio ecológico, sólo podrán destinarse o concederse en uso a organismos del Estado o a personas jurídicas regidas por el Título XXXIII del Libro I del Código Civil, para finalidades de conservación y protección del medio ambiente.
-
-> **Nota.** NOTA: 1.3 De acuerdo con lo dispuesto en el artículo 39 de la ley 18.362, dicha ley regirá a partir de la fecha en que entre en plena vigencia la ley 18.348, la que a su vez, según lo dispone su artículo 19, entrará en vigencia el día en que se publique en el Diario Oficial el Decreto por el cual el Presidente de la República disuelva la Corporación Nacional Forestal o apruebe su disolución.
+Derogado.
 
 #### Artículo 16
 
@@ -198,11 +196,7 @@ El Reglamento señalará las demás modalidades de las demoliciones.
 
 #### Artículo 21
 
-El Ministerio, con consulta o a requerimiento de los Servicios y entidades que tengan a su cargo el cuidado y protección de bosques y del medio ambiente, la preservación de especies animales y vegetales y en general, la defensa del equilibrio ecológico, podrá declarar Reservas Forestales o Parques Nacionales a aquellos terrenos fiscales que sean necesarios para estos fines. Estos terrenos quedarán bajo el cuidado y tuición de los organismos competentes.
-
-Los predios que hubieren sido comprendidos en esta declaración no podrán ser destinados a otro objeto ni perderán esta calidad, sino en virtud de decreto del Ministerio, previo informe favorable del Ministerio de Agricultura o el Ministerio del Medio Ambiente, según corresponda.
-
-> **Nota.** De acuerdo con lo dispuesto en el artículo 39 de la Ley 18.362, dicha Ley regirá a partir de la fecha en que entre en plena vigencia la Ley 18.348, la que a su vez, según lo dispone su artículo 19, entrará en vigencia el día en que se publique en el Diario Oficial el Decreto por el cual el Presidente de la República disuelva la Corporación Nacional Forestal o apruebe su disolución.
+Los predios que hubieren sido declarados como áreas protegidas del Estado, conforme a la legislación respectiva, no podrán ser destinados a otro objeto ni perderán esa calidad sino en la forma establecida en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
 
 #### Artículo 22
 

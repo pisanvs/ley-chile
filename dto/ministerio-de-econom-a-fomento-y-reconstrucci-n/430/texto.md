@@ -260,7 +260,7 @@ Las capturas obtenidas mediante pesca de investigación no serán consideradas e
 
 41) Repoblamiento: conjunto de acciones que tienen por objeto incrementar o recuperar la población de una determinada especie hidrobiológica, por medios artificiales o naturales, dentro de su rango de distribución geográfica.
 
-42) Reserva marina: área de resguardo de los recursos hidrobiológicos con el objeto de proteger zonas de reproducción, caladeros de pesca y áreas de repoblamiento por manejo. Estas áreas quedarán bajo la tuición del Servicio y sólo podrá efectuarse en ellas actividades extractivas por períodos transitorios previa resolución fundada de la Subsecretaría.
+42) Reserva de interés pesquero: área de resguardo de los recursos hidrobiológicos con el objeto de proteger zonas de reproducción, caladeros de pesca y áreas de repoblamiento por manejo. Estas áreas quedarán bajo la tuición del Servicio y sólo podrá efectuarse en ellas actividades extractivas por períodos transitorios previa resolución fundada de la Subsecretaría.
 
 43) DEROGADO.
 
@@ -416,9 +416,9 @@ No obstante lo anterior, en el caso de las pesquerías de recursos bentónicos e
 
 Para el desarrollo de la actividad de pesca artesanal de jurel ejercida sólo con línea de mano a bordo de embarcaciones sin cubierta inferiores a 12 metros de eslora, la Subsecretaría reservará, antes del fraccionamiento entre sectores, un límite anual, en porcentaje o toneladas que será del 0,040% de la cuota global anual de captura.
 
-d) Declaración de áreas específicas y delimitadas que se denominan Parques Marinos, destinados a preservar unidades ecológicas de interés para la ciencia y cautelar áreas que aseguren la mantención y diversidad de especies hidrobiológicas, como también aquellas asociadas a su hábitat. Para la declaración se consultará a los Ministerios que corresponda. Los Parques Marinos quedarán bajo la tuición del Servicio y en ellos no podrá efectuarse ningún tipo de actividad, salvo aquellas que se autoricen con propósitos de observación, investigación o estudio. Las declaraciones de parques marinos, a que hacen mención esta letra, serán realizadas mediante decreto del Ministerio del Medio Ambiente.
+d) Derogada.
 
-e) Declaración de Reservas Marinas, mediante decreto del Ministerio del Medio Ambiente.
+e) Declaración de Reservas de interés pesquero.
 
 f) Establecimiento de porcentaje de desembarque de especies como fauna acompañante.
 
@@ -1566,6 +1566,8 @@ Para proveer la vacante sólo se considerará a los pescadores artesanales que c
 
 La inscripción en las listas de espera caducará en el plazo de tres años a contar de la inscripción.
 
+> **Nota.** NOTA 2 El artículo único de la ley 21588, publicada el 24.07.2023, suspende la declaración de caducidad de la inscripción en el Registro Pesquero Artesanal a que hace referencia el presente artículo, hasta el 31 de diciembre de 2024 inclusive, no obstante, tratándose de la causal contenida en su literal e), dicha declaración de caducidad se suspenderá hasta el 31 de diciembre de 2023. Sin perjuicio de lo anterior, la suspensión antes señalada no aplicará si concurre la causal contemplada en el literal b), como tampoco si concurre la causal establecida en el literal d), en la parte que se refiere a la condena por delitos sancionados en los artículos 135 o 136 de esta ley. Asimismo, dispone que lo antes señalado se aplicará sin perjuicio de lo dispuesto en la ley 20872, que establece normas permanentes para enfrentar las consecuencias de catástrofes naturales en el sector pesquero.
+
 ### Párrafo 3°
 
 Del Régimen de Áreas de Manejo y Explotación de Recursos Bentónicos
@@ -1713,6 +1715,8 @@ La infracción a la obligación señalada en
 el inciso séptimo será causal de caducidad de la inscripción en el Registro Artesanal del pescador o pescadores titulares de la asignación y de la embarcación artesanal, en su caso.
 
 > **Nota.** La letra d) del N° 49, artículo 1° de la Ley 20657, publicada el 09.02.2013, incorpora un nuevo inciso octavo, pasando el actual a ser noveno. Sin embargo, el anterior inciso octavo hacía referencia al "inciso anterior", es decir, al séptimo, por lo que para mantener la correspondencia debió modificarse dicha frase.
+
+> **Nota.** NOTA 1 El artículo único de la ley 21588, publicada el 24.07.2023, suspende la declaración de caducidad de la inscripción en el Registro Pesquero Artesanal a que hace referencia el presente artículo, hasta el 31 de diciembre de 2024 inclusive.
 
 #### Artículo 55
 
@@ -3316,6 +3320,8 @@ La fiscalización del cumplimiento de las disposiciones de la presente ley sus r
 
 En el ejercicio de la función fiscalizadora de la actividad pesquera y de acuicultura, los funcionarios del Servicio y el personal de la Armada tendrán la calidad de Ministros de Fe.
 
+Asimismo, los funcionarios del Servicio de Biodiversidad y Áreas Protegidas podrán ejecutar acciones de fiscalización del cumplimiento de la presente ley en las áreas protegidas, los sitios prioritarios, los ecosistemas amenazados y las áreas degradadas, previo convenio de encomendamiento de funciones celebrado con el Servicio Nacional de Pesca y Acuicultura. En el ejercicio de dicha atribución, tendrán la calidad de ministros de fe.
+
 En el ejercicio de la función fiscalizadora, el servicio estará facultado para:
 
 a) Inspeccionar y registrar inmuebles, establecimientos, centros de cultivo, centros de acopio, centros de faenamiento, viveros, centros de matanza, recintos, muelles, zonas primarias aduaneras, naves, artefacto naval, aeronaves, trenes, vehículos, contenedores, cajas, embalajes, envases o elementos que hayan servido para cometer las infracciones, tales como artes y aparejos de pesca donde se produzcan, cultiven, elaboren, procesen, almacenen, distribuyan y comercialicen especies hidrobiológicas y sus productos derivados. La inspección y registro se someterá a los protocolos de bioseguridad que hayan sido fijados por el Servicio mediante resolución, los que deberán ser cumplidos por quienes estén a cargo de los espacios antes señalados.
@@ -3428,7 +3434,7 @@ Corresponderá el conocimiento de estas causas al tribunal más próximo al luga
 
 A los juicios a que se refiere el artículo precedente se aplicará el procedimiento que a continuación se señala:
 
-1) Los funcionarios del Servicio y personal de la Armada y de Carabineros que sorprendan infracciones de las normas de la presente ley y sus reglamentos o de las medidas de administración pesquera adoptadas por la autoridad, deberán denunciarlas al Juzgado y citar personalmente al inculpado si estuviere presente, o por escrito si estuviere ausente, mediante nota que se dejará en lugar visible del domicilio del infractor, o en la nave o embarcación utilizada. En ella deberá señalarse la ley o el reglamento infringido y el lugar o área aproximada del mar en que la infracción hubiere sido cometida, cuando corresponda.
+1) Los funcionarios del Servicio y personal de la Armada y de Carabineros que sorprendan infracciones de las normas de la presente ley y sus reglamentos o de las medidas de administración pesquera adoptadas por la autoridad, deberán denunciarlas al Juzgado y citar personalmente al inculpado si estuviere presente, o por escrito si estuviere ausente, mediante nota que se dejará en lugar visible del domicilio del infractor, o en la nave o embarcación utilizada. En ella deberá señalarse la ley o el reglamento infringido y el lugar o área aproximada del mar en que la infracción hubiere sido cometida, cuando corresponda. Los funcionarios del Servicio de Biodiversidad y Áreas Protegidas que cuenten con facultades de fiscalización deberán denunciar las infracciones a la presente ley de que tomen conocimiento en el ejercicio de sus atribuciones.
 
 Será aplicable a estas infracciones lo dispuesto en el artículo 28 de la ley N° 18.287, sobre procedimiento ante los Juzgados de Policía Local, sin perjuicio de lo dispuesto en esta ley. La persona citada por los fiscalizadores del modo antes señalado se entenderá debidamente emplazada para efectos de la referida comparecencia.
 
@@ -4232,7 +4238,7 @@ Previa autorización de los organismos competentes, podrá permitirse el uso de 
 
 #### Artículo 159
 
-Para los efectos de la declaración de parques nacionales, monumentos naturales o reservas nacionales que hayan de extenderse a zonas lacustres, fluviales o marítimas, deberá consultarse previamente a la Subsecretaría.
+Derogado.
 
 #### Artículo 160
 

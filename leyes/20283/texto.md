@@ -22,11 +22,9 @@ Para los efectos de esta ley, se entenderá por:
 
 3) Bosque nativo: bosque formado por especies autóctonas, provenientes de generación natural, regeneración natural, o plantación bajo dosel con las mismas especies existentes en el área de distribución original, que pueden tener presencia accidental de especies exóticas distribuidas al azar.
 
-4) Bosque nativo de preservación: aquél, cualquiera sea su superficie, que presente o constituya actualmente hábitat de especies vegetales protegidas legalmente o aquéllas clasificadas en las categorías de en "peligro de extinción", "vulnerables", "raras",
+4) Bosque nativo de preservación: aquél, cualquiera sea su superficie, que presente o constituya actualmente hábitat de especies vegetales protegidas legalmente o aquéllas clasificadas en las categorías definidas en conformidad al artículo 37 de la ley N° 19.300; o que corresponda a ambientes únicos o representativos de la diversidad biológica natural del país, cuyo manejo sólo puede hacerse con el objetivo del resguardo de dicha diversidad.
 
-"insuficientemente conocidas" o "fuera de peligro"; o que corresponda a ambientes únicos o representativos de la diversidad biológica natural del país, cuyo manejo sólo puede hacerse con el objetivo del resguardo de dicha diversidad.
-
-Se considerarán, en todo caso, incluidos en esta definición, los bosques comprendidos en las categorías de manejo con fines de preservación que integran el Sistema Nacional de Áreas Silvestres Protegidas del Estado o aquel régimen legal de preservación, de adscripción voluntaria, que se establezca.
+Se considerarán, en todo caso, incluidos en esta definición, los bosques comprendidos en áreas que formen parte del Sistema Nacional de Áreas Protegidas.
 
 5) Bosque nativo de conservación y protección: aquél, cualquiera sea su superficie, que se encuentre ubicado en pendientes iguales o superiores a 45%, en suelos frágiles, o a menos de doscientos metros de manantiales, cuerpos o cursos de aguas naturales, destinados al resguardo de tales suelos y recursos hídricos.
 
@@ -184,11 +182,11 @@ De las normas de protección ambiental
 
 #### Artículo 15
 
-La corta de bosques nativos deberá ser realizada de acuerdo a las normas que se establecen en este Título, sin perjuicio de aquéllas establecidas en la ley Nº19.300, con los objetivos de resguardar la calidad de las aguas, evitar el deterioro de los suelos y la conservación de la diversidad biológica.
+La corta de bosques nativos deberá ser realizada de acuerdo a las normas que se establecen en este Título, sin perjuicio de aquéllas establecidas en la ley Nº19.300 y en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas, con los objetivos de resguardar la calidad de las aguas, evitar el deterioro de los suelos y la conservación de la diversidad biológica.
 
 #### Artículo 16
 
-El plan de manejo forestal dispuesto en el artículo 5º requerirá, además, para toda corta de bosque nativo de conservación y protección, de una fundada justificación técnica de los métodos de corta que se utilizarán, así como de las medidas que se adoptarán con los objetivos de proteger los suelos, la calidad y cantidad de los caudales de los cursos de agua y la conservación de la diversidad biológica y de las medidas de prevención y combate de incendios forestales. De igual forma, el plan de manejo respetará los corredores biológicos que el Ministerio de Agricultura hubiere definido oficialmente.
+El plan de manejo forestal dispuesto en el artículo 5º requerirá, además, para toda corta de bosque nativo de conservación y protección, de una fundada justificación técnica de los métodos de corta que se utilizarán, así como de las medidas que se adoptarán con los objetivos de proteger los suelos, la calidad y cantidad de los caudales de los cursos de agua y la conservación de la diversidad biológica y de las medidas de prevención y combate de incendios forestales. De igual forma, el plan de manejo respetará los corredores biológicos que se hubieren definido en conformidad a la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
 
 #### Artículo 17
 
@@ -208,11 +206,11 @@ Las normas señaladas en los artículos 15, 16 y 17 de este Título se aplicará
 
 #### Artículo 19
 
-Prohíbese la corta, eliminación, destrucción o descepado de individuos de las especies vegetales nativas clasificadas, de conformidad con el artículo 37 de la ley N° 19.300 y su reglamento, en las categorías de "en peligro de extinción", "vulnerables", "raras", "insuficientemente conocidas" o "fuera de peligro", que formen parte de un bosque nativo, como asimismo la alteración de su hábitat. Esta prohibición no afectará a los individuos de dichas especies plantados por el hombre, a menos que tales plantaciones se hubieren efectuado en cumplimiento de medidas de compensación, reparación o mitigación dispuestas por una resolución de calificación ambiental u otra autoridad competente.
+Prohíbese la corta, eliminación, destrucción o descepado de individuos de las especies vegetales nativas clasificadas, de conformidad con el artículo 37 de la ley N° 19.300 y su reglamento, en las categorías en peligro crítico, en peligro, vulnerable, casi amenazada y datos insuficientes, que formen parte de un bosque nativo, como asimismo la alteración de su hábitat. Esta prohibición no afectará a los individuos de dichas especies plantados por el hombre, a menos que tales plantaciones se hubieren efectuado en cumplimiento de medidas de compensación, reparación o mitigación dispuestas por una resolución de calificación ambiental u otra autoridad competente.
 
 Excepcionalmente, podrá intervenirse o alterarse el hábitat de los individuos de dichas especies, previa autorización de la Corporación, la que se otorgará por resolución fundada, siempre que tales intervenciones no amenacen la continuidad de la especie a nivel de la cuenca o, excepcionalmente, fuera de ella, que sean imprescindibles y que tengan por objeto la realización de investigaciones científicas, fines sanitarios o estén destinadas a la ejecución de obras o al desarrollo de las actividades señaladas en el inciso cuarto del artículo 7º, siempre que tales obras o actividades sean de interés nacional.
 
-Para autorizar las intervenciones a que se refiere el inciso anterior, la Corporación deberá requerir informes de expertos respecto de si la intervención afecta a la continuidad de la especie y sobre las medidas a adoptar para asegurar la continuidad de las mismas.
+Para autorizar las intervenciones a que se refiere el inciso anterior, se requerirá del informe favorable del Servicio de Biodiversidad y Áreas Protegidas, en el sentido que la intervención no amenaza la continuidad de la especie a nivel de la cuenca.
 
 Para llevar adelante la intervención, el solicitante deberá elaborar un plan de manejo de preservación, que deberá considerar, entre otras, las medidas que señale la resolución fundada a que se refiere el inciso segundo precedente.
 
@@ -324,11 +322,11 @@ d) Dos personas propuestas por organizaciones de pequeños propietarios de predi
 
 e) El Presidente del Colegio de Ingenieros Forestales de Chile A.G., o la persona que éste designe en su representación;
 
-f) Una persona propuesta por los propietarios de Áreas Silvestres Protegidas de Propiedad Privada;
+f) Una persona propuesta por los propietarios de Áreas Protegidas de Propiedad Privada;
 
 g) El Presidente de la Sociedad de Botánica de Chile, o la persona que éste designe en su representación;
 
-h) El Director Ejecutivo de la Comisión Nacional del Medio Ambiente;
+h) El Director Nacional del Servicio de Biodiversidad y Áreas Protegidas;
 
 i) El Director Ejecutivo del Instituto Forestal, y j) El Director Ejecutivo de la Corporación Nacional Forestal, quien actuará como Secretario Ejecutivo.
 
@@ -486,6 +484,8 @@ Los delitos contemplados en los artículos 40, 49 y 50 de esta ley serán de con
 
 Detectada una infracción a las disposiciones de esta ley o de su reglamento, los funcionarios de la Corporación deberán levantar un acta en que se consignarán los hechos constitutivos de la infracción, indicando el día, lugar, fecha y hora de la diligencia inspectiva, la circunstancia de encontrarse o no presente el supuesto infractor o su representante legal, así como la individualización de éste, su domicilio, si ello fuera posible, y las normas legales contravenidas.
 
+Los funcionarios del Servicio de Biodiversidad y Áreas Protegidas que cuenten con facultades de fiscalización estarán asimismo facultados para denunciar las infracciones a la presente ley de que tomen conocimiento en el ejercicio de sus atribuciones.
+
 Con el mérito del acta referida en el inciso primero, el respectivo Director Regional de la Corporación deberá efectuar la correspondiente denuncia ante el tribunal competente o al Ministerio Público, según sea el caso, acompañando copia de dicha acta.
 
 Tratándose de una primera infracción y si aparecieran antecedentes favorables, el tribunal podrá disminuir la multa aplicable hasta en 50%. Asimismo, podrá absolver al infractor en caso de ignorancia excusable o de buena fe comprobada.
@@ -494,11 +494,11 @@ Los controles podrán realizarse mediante fotografía aérea o sensores remotos,
 
 #### Artículo 47
 
-Los funcionarios designados por la Corporación para la fiscalización de esta ley y los de Carabineros tendrán el carácter de ministro de fe en todas las actuaciones que deban realizar para el cumplimiento de esa labor.
+Los funcionarios designados por la Corporación o por el Servicio de Biodiversidad y Áreas Protegidas, en este caso de acuerdo al convenio de encomendamiento de funciones de fiscalización respectivo, para la fiscalización de esta ley y los de Carabineros tendrán el carácter de ministro de fe en todas las actuaciones que deban realizar para el cumplimiento de esa labor.
 
-Los funcionarios de la Corporación sólo podrán ingresar en los predios o centros de acopio para los efectos de controlar el cumplimiento de la ley, previa autorización del encargado de la administración de los mismos.
+Los funcionarios de la Corporación o del Servicio de Biodiversidad y Áreas Protegidas, en este caso de acuerdo al convenio de encomendamiento de funciones de fiscalización respectivo, sólo podrán ingresar en los predios o centros de acopio para los efectos de controlar el cumplimiento de la ley, previa autorización del encargado de la administración de los mismos.
 
-En caso de negativa para autorizar el ingreso, la Corporación podrá solicitar al juez competente el auxilio de la fuerza pública, el cual, por resolución fundada y en mérito de los antecedentes proporcionados por la Corporación, la podrá conceder de inmediato, salvo que resolviera oír al afectado, en cuyo caso éste deberá comparecer dentro del plazo de 48 horas, contado desde su notificación.
+En caso de negativa para autorizar el ingreso, la Corporación o el Servicio de Biodiversidad y Áreas Protegidas, en este caso de acuerdo al convenio de encomendamiento de funciones de fiscalización respectivo, podrá solicitar al juez competente el auxilio de la fuerza pública, el cual, por resolución fundada y en mérito de los antecedentes proporcionados por la Corporación, la podrá conceder de inmediato, salvo que resolviera oír al afectado, en cuyo caso éste deberá comparecer dentro del plazo de 48 horas, contado desde su notificación.
 
 Para los efectos de lo indicado en el inciso anterior, se considerará que es competente el juez de policía local señalado en el artículo 45 precedente.
 

@@ -154,7 +154,7 @@ No se necesitará este permiso cuando los edificios, ferrocarriles, líneas elé
 
 Antes de otorgar el permiso para ejecutar labores mineras dentro de una ciudad o población, el gobernador deberá oír al respectivo Secretario Regional Ministerial de Vivienda y Urbanismo;
 
-2°. Del Intendente respectivo, para ejecutar labores mineras en lugares declarados parques nacionales, reservas nacionales o monumentos naturales;
+2°. Suprimido.
 
 3°. De la Dirección de Fronteras y Límites, para ejecutar labores mineras en zonas declaradas fronterizas para efectos mineros;
 
@@ -1876,7 +1876,7 @@ Serán aplicables a la administración que efectúe el acreedor, en los casos de
 
 #### Artículo 230
 
-En las quiebras de los mineros se requerirá a los acreedores para que ejerciten los derechos que, en virtud de las disposiciones anteriores, se acuerdan al ejecutante.
+En los procedimientos concursales de liquidación de los mineros se requerirá a los acreedores para que ejerciten los derechos que, en virtud de las disposiciones anteriores, se acuerden al ejecutante.
 
 Los aviadores gozarán de derecho preferente para tomar la pertenencia bajo su administración y aviarla, en el orden que corresponda.
 

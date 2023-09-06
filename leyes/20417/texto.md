@@ -964,7 +964,7 @@ Su domicilio será la ciudad de Santiago, sin perjuicio de las oficinas regional
 
 #### Artículo 2º
 
-La Superintendencia del Medio Ambiente tendrá por objeto ejecutar, organizar y coordinar el seguimiento y fiscalización de las Resoluciones de Calificación Ambiental, de las medidas de los Planes de Prevención y,o de Descontaminación Ambiental, del contenido de las Normas de Calidad Ambiental y Normas de Emisión, y de los Planes de Manejo, cuando corresponda, y de todos aquellos otros instrumentos de carácter ambiental que establezca la ley.
+La Superintendencia del Medio Ambiente tendrá por objeto ejecutar, organizar y coordinar el seguimiento y fiscalización de las Resoluciones de Calificación Ambiental, de las medidas de los Planes de Prevención y,o de Descontaminación Ambiental, del contenido de las Normas de Calidad Ambiental y Normas de Emisión, y de todos aquellos otros instrumentos de carácter ambiental que establezca la ley.
 
 Los organismos sectoriales que cumplan funciones de fiscalización ambiental, conservarán sus competencias y potestades de fiscalización, en todas aquellas materias e instrumentos que no sean de competencia de la Superintendencia.
 
@@ -978,7 +978,7 @@ a) Fiscalizar el permanente cumplimiento de las normas, condiciones y medidas es
 
 b) Velar por el cumplimiento de las medidas e instrumentos establecidos en los Planes de Prevención y,o de Descontaminación Ambiental, sobre la base de las inspecciones, controles, mediciones y análisis que se realicen de conformidad a lo establecido en esta ley.
 
-c) Contratar las labores de inspección, verificación, mediciones y análisis del cumplimiento de las normas, condiciones y medidas de las Resoluciones de Calificación Ambiental, Planes de Prevención y,o de Descontaminación Ambiental, de las Normas de Calidad Ambiental y Normas de Emisión, cuando correspondan, y de los Planes de Manejo, cuando procedan, a terceros idóneos debidamente certificados.
+c) Contratar las labores de inspección, verificación, mediciones y análisis del cumplimiento de las normas, condiciones y medidas de las Resoluciones de Calificación Ambiental, Planes de Prevención y,o de Descontaminación Ambiental, de las Normas de Calidad Ambiental y Normas de Emisión, cuando correspondan, a terceros idóneos debidamente certificados.
 
 Los requisitos y el procedimiento para la certificación, autorización y control de las entidades y sus inspectores, serán establecidos en el Reglamento, el que deberá a lo menos considerar la incompatibilidad absoluta entre el ejercicio de labores de fiscalización y las de consultoría para la elaboración de Declaraciones o Estudios de Impacto Ambiental, así como los requisitos mínimos de conocimiento, la experiencia calificada, de a lo menos 3 años, en materias relacionadas, los procedimientos de examen o verificación de antecedentes, personal idóneo e infraestructura y equipamiento suficiente para desarrollar las labores solicitadas. Las entidades e inspectores así autorizados quedarán sujetos a la permanente fiscalización y supervigilancia de la Superintendencia o de aquellas entidades públicas o privadas que ésta determine.
 
@@ -1004,7 +1004,7 @@ k) Obligar a los proponentes, previo informe del Servicio de Evaluación Ambient
 
 l) Requerir al Servicio de Evaluación Ambiental, la caducidad de una Resolución de Calificación Ambiental, cuando hubieren transcurrido más de cinco años sin que se haya iniciado la ejecución del proyecto o actividad autorizada y en los demás casos en que, atendida la magnitud, gravedad, reiteración o efectos de las infracciones comprobadas durante su ejecución o funcionamiento, resulte procedente.
 
-m) Requerir a los titulares de fuentes sujetas a un Plan de Manejo, Prevención y,o Descontaminación, así como a Normas de Emisión, bajo apercibimiento de sanción, la información necesaria para acreditar el cumplimiento de las medidas de los respectivos planes y las obligaciones contenidas en las respectivas normas.
+m) Requerir a los titulares de fuentes sujetas a un Plan de Prevención y,o Descontaminación, así como a Normas de Emisión, bajo apercibimiento de sanción, la información necesaria para acreditar el cumplimiento de las medidas de los respectivos planes y las obligaciones contenidas en las respectivas normas.
 
 n) Fiscalizar el cumplimiento de las leyes, reglamentos y demás normas relacionadas con las descargas de residuos líquidos industriales.
 
@@ -1374,7 +1374,7 @@ g) El incumplimiento de las leyes, reglamentos y demás normas relacionadas con 
 
 h) El incumplimiento de las Normas de Emisión y de las Normas de Emisión de Gases de Efecto Invernadero.
 
-i) El incumplimiento de los planes de recuperación, conservación y gestión de especies establecidos en la ley Nº 19.300.
+i) Suprimido.
 
 j) El incumplimiento de los requerimientos de información que la Superintendencia dirija a los sujetos fiscalizados, de conformidad a esta ley.
 
