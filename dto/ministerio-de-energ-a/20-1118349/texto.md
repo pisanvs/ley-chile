@@ -88,6 +88,8 @@ El plazo de inicio de los trabajos será de 6 meses, contados desde la fecha de 
 
 El desmantelamiento de las obras temporales se realizará dentro de los 6 meses desde el término de la construcción total y puesta en servicio de la Central Hidroeléctrica Rucalhue.
 
+> **Nota.** La letra A del artículo 1° del Decreto 175 Exento, Energía, publicado el 07.09.2023, modifica la presente norma en el sentido de reemplazar el guarismo "35" por "65", sin embargo, no ha podido ser reemplazado dicho guarismo por no encontrarse en su texto.
+
 #### Artículo 14°
 
 El presente decreto deberá ser reducido a escritura pública por el interesado, antes de quince días contados desde su publicación en el Diario Oficial.
