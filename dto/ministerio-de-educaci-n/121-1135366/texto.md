@@ -28,21 +28,21 @@ El "Aporte Institucional Universidades Estatales Ley Nº 21.094" tiene por objet
 
 Distribución de los recursos
 
-La distribución de los recursos contemplados para el presente Título se hará sumando los valores obtenidos en cada uno de los siguientes literales (Elemento Mixto y Elemento de Desempeño), tras aplicar la fórmula descrita en cada uno de ellos:
+La distribución de los recursos contemplados para el presente Título se hará sumando los valores obtenidos en cada uno de los siguientes literales (Elemento Mixto, Elemento de Desempeño y Elemento de compensación de brechas distributivas), tras aplicar la fórmula descrita en cada uno de ellos:
 
 a) Elemento mixto: Para determinar el monto a recibir por cada universidad estatal por el presente literal se sumarán cada uno de los siguientes componentes, según corresponda a cada institución, conforme al requisito que se señala, los que se calcularán de la manera que se indica a continuación:
 
 1.- Aporte histórico: Para cada universidad se considerará el mismo monto que le haya sido asignado a través del decreto Nº 91, de 2016, del Ministerio de Educación, reajustado en un 3,5%.
 
-2.- Universidades tutoras de nuevas universidades creadas por la ley Nº 20.842: A las universidades que hayan sido designadas mediante el acto administrativo correspondiente, como tutoras de una nueva universidad estatal creada por la ley Nº 20.842, se les asignarán M$200.000 por cada universidad tutelada.
+2.- Universidades tutoras de nuevas universidades creadas por la ley Nº 20.842: A las universidades que hayan sido designadas mediante el acto administrativo correspondiente, como tutoras de una nueva universidad estatal creada por la ley Nº 20.842, se les asignarán M$200.000 por cada universidad tutelada. La distribución de estos recursos se mantendrá hasta que la nueva universidad estatal tutelada obtenga su acreditación institucional. En relación con lo anterior, la distribución de estos recursos a la universidad tutora será proporcional hasta el mes completo anterior a aquel en que cada universidad tutelada obtuvo acreditación institucional.
 
-3.- Universidades tutoras de nuevos centros de formación técnica estatales creados por la Ley Nº 20.910 con oferta académica en el año del presente cálculo: A las universidades que hayan sido designadas, mediante el acto administrativo correspondiente, como tutoras de un centro de formación técnica estatal creado a través de la ley Nº 20.910, se les asignarán M$ 50.000 por cada institución tutelada, que tenga oferta académica en el año del presente cálculo.
+3.- Universidades tutoras de nuevos centros de formación técnica estatales creados por la Ley Nº 20.910 con oferta académica en el año del presente cálculo: A las universidades que hayan sido designadas, mediante el acto administrativo correspondiente, como tutoras de un centro de formación técnica estatal creado a través de la ley Nº 20.910, se les asignarán M$ 50.000 por cada institución tutelada, que tenga oferta académica en el año del presente cálculo. Los recursos asignados por el presente numeral deberán destinarse íntegramente a la tutoría, de acuerdo con lo dispuesto en el artículo tercero transitorio de la ley Nº 20.910, en base a lo señalado en el convenio que se suscriba para dicha finalidad o que se deriven para este propósito.
 
 4.- Complejidad Institucional: El monto total de recursos a distribuir respecto del presente numeral, será equivalente al 25% de los recursos asignados por la Ley de Presupuestos del Sector Público para la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094", y será distribuido a las universidades estatales de acuerdo con los seis parámetros siguientes:
 
 a. Publicaciones:
 
-a.1.- En primer lugar, mediante la información proporcionada por la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt), para cada universidad estatal se determinará el número de publicaciones citables en Scopus correspondientes al año que antecede al año anterior al cálculo.
+a.1.- En primer lugar, mediante la información proporcionada por la Agencia Nacional de Investigación y Desarrollo, para cada universidad estatal se determinará el número de publicaciones citables en Scopus correspondientes al año que antecede al año anterior al cálculo.
 
 a.2.- En segundo lugar, se procederá a sumar las publicaciones, determinadas de acuerdo con el numeral anterior, de todas las universidades beneficiarias, conforme al artículo 1º del presente Reglamento.
 
@@ -126,11 +126,11 @@ b) Elemento de desempeño: El monto a distribuir por el presente elemento se det
 
 1. El monto considerado por la Ley de Presupuestos correspondiente a la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094";
 
-2. La suma de los valores obtenidos por todas las instituciones estatales beneficiarias en el literal a) del presente artículo, más el monto que corresponda distribuir a las universidades del Estado cuya acreditación institucional, de acuerdo a la ley Nº 20.129, sea de tres años o menos, en los términos del Título II del presente Reglamento.
+2. La suma de los valores obtenidos por todas las instituciones estatales beneficiarias en el literal a) y c) del presente artículo, más el monto que corresponda distribuir a las universidades del Estado cuya acreditación institucional, de acuerdo a la ley Nº 20.129, sea de tres años o menos, en los términos del Título II del presente Reglamento.
 
 Después de obtenido el total a distribuir por el presente literal, el monto a entregar a cada universidad estatal se calculará de la siguiente forma:
 
-1.- En primer lugar, las universidades beneficiarias serán agrupadas en tres categorías distintas. Para ser considerada en una categoría determinada, la universidad correspondiente deberá cumplir copulativamente con los requisitos que en ella se exijan. Las categorías serán excluyentes entre sí, asignándose jerárquicamente desde la categoría I a la III, no pudiendo una institución situarse en más de una de ellas. Para efectos del presente numeral, se considerará el nivel de acreditación de programas de doctorado vigente al 1 de enero del año del cálculo y las publicaciones Scopus anuales informadas por Conicyt para el año que antecede al año anterior al cálculo. Son estas categorías las siguientes:
+1.- En primer lugar, las universidades beneficiarias serán agrupadas en tres categorías distintas. Para ser considerada en una categoría determinada, la universidad correspondiente deberá cumplir copulativamente con los requisitos que en ella se exijan. Las categorías serán excluyentes entre sí, asignándose jerárquicamente desde la categoría I a la III, no pudiendo una institución situarse en más de una de ellas. Para efectos del presente numeral, se considerará el nivel de acreditación de programas de doctorado vigente al 1 de enero del año del cálculo y las publicaciones Scopus anuales informadas por Agencia Nacional de Investigación y Desarrollo para el año que antecede al año anterior al cálculo. Son estas categorías las siguientes:
 
 Categoría I: Universidades con énfasis en la docencia, de Investigación y Doctorado. Son aquellas que cuentan con un número significativo de programas de doctorados propios acreditados por la Comisión Nacional de Acreditación, de conformidad a los términos establecidos por la Ley Nº 20.129, entendiéndose por ello un número igual o superior a 10. Para los efectos de enterar el total de doctorados exigidos se podrán considerar aquellos programas de doctorado que la Universidad tenga en calidad de asociada con otra institución, que cuenten con una acreditación de 5 o más años para dichos programas. Adicionalmente, deberán contar con un número de publicaciones Scopus anuales, igual o superior a 300.
 
@@ -148,7 +148,7 @@ b) La fracción del total de los recursos que se asignará a las universidades c
 
 c) La fracción del total de los recursos que se asignará a las universidades categoría III es igual al número de universidades en esa categoría dividido por el factor.
 
-2.- Posteriormente, se calcularán, para cada universidad, los siguientes indicadores, los que se obtendrán del SIES, de la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt) y/o del Instituto Nacional de Propiedad Industrial (Inapi), según corresponda:
+2.- Posteriormente, se calcularán, para cada universidad, los siguientes indicadores, los que se obtendrán del SIES, de la Agencia Nacional de Investigación y Desarrollo y/o del Instituto Nacional de Propiedad Industrial (Inapi), según corresponda:
 
 a) Número de académicos con dedicación completa por cada 100 matriculados que registre la institución en el año que antecede al año anterior al cálculo. Para estos efectos se entenderá por dedicación completa cuando el académico se encuentre contratado por al menos 39 horas semanales. En lo que respecta a la matrícula total, se considerará a los estudiantes de pregrado, de especialidades médicas, de magíster y doctorado.
 
@@ -162,15 +162,15 @@ e) Número de publicaciones Scopus por académicos con jornadas completas equiva
 
 f) Número promedio de citas por publicación, registrada por Scopus, en el quinquenio formado por el año que antecede al año anterior al cálculo y los cuatro años que anteceden a éste.
 
-g) Porcentaje de estudiantes de primer año en carreras de pregrado con duración de a lo menos ocho semestres, respecto del total de la matrícula correspondiente a dicho nivel, que pertenezcan al quintil 1, quintil 2 o quintil 3, que registre la institución en el año que antecede al año anterior al cálculo.
+g) Número de estudiantes de primer año en carreras de pregrado con duración de a lo menos ocho semestres, que pertenezcan al quintil 1, quintil 2 o quintil 3, dividido por el total de la matrícula de estudiantes de primer año en carreras de pregrado con duración de a lo menos ocho semestres, que registre la institución en el año que antecede al año anterior al cálculo.
 
 h) Porcentaje de alumnos que se retienen en el primer año en carreras de pregrado con duración de a lo menos ocho semestres, incluyendo aquellos que hayan realizado cambio interno de programa, que registre la institución en el año que antecede al año anterior al cálculo. En la eventualidad que una institución no cuente con los datos necesarios para evaluar el presente indicador, se le considerará para efectos del cálculo un valor igual a cero.
 
-i) Tasa de titulación u obtención del grado académico según corresponda, en carreras del Pregrado con admisión regular con duración de a lo menos ocho semestres estimada como porcentaje de estudiantes titulados de sus respectivas carreras el año que antecede al año anterior al cálculo, respecto de los mismos estudiantes que ingresaron a primer año en esa promoción. En el evento de no existir toda la información disponible para el cálculo de este indicador en los términos ya definidos, se calculará considerando los estudiantes que se encuentren en 4º año de sus respectivas carreras el año que antecede al año anterior al cálculo, respecto de los mismos estudiantes que ingresaron a primer año a la universidad tres años antes del mismo. En la eventualidad que una institución no cuente con los datos necesarios para evaluar el presente indicador, se le considerará para efectos del cálculo un valor igual a cero.
+i) Porcentaje de alumnos que se retienen al cuarto año en carreras de pregrado con duración de a lo menos ocho semestres, incluyendo aquellos que hayan realizado cambio interno de programa, que registre la institución en el año que antecede al año anterior al cálculo. En la eventualidad que una institución no cuente con los datos necesarios para evaluar el presente indicador, se le considerará para efectos del cálculo un valor igual a cero.
 
 j) Tasa de graduación en los programas de doctorado, estimada como porcentaje de estudiantes graduados al año que antecede al año anterior al cálculo, respecto de los mismos estudiantes que ingresaron cuatro años antes de éste
 
-k) Número de patentes de invención solicitadas vía el Tratado de Cooperación en Materia de Patentes (PCT), promulgado a través del decreto Nº 52, de 2009, del Ministerio de Relaciones Exteriores, multiplicadas por 1.000 y divididas por el número total de jornadas completas equivalentes, que registre la institución en el bienio formado por el año que antecede al año anterior al cálculo y el año que antecede a este último.
+k) Número de patentes de invención solicitadas vía el Tratado de Cooperación en Materia de Patentes (PCT), promulgado a través del decreto Nº 52, de 2009, del Ministerio de Relaciones Exteriores, en el bienio formado por el año que antecede al año anterior al cálculo y el año que antecede a este último, multiplicado por 1.000, y dividido por el número total de jornadas completas equivalentes que registre la institución en el año que antecede al año anterior al cálculo.
 
 Con todo, en el caso de las universidades que no registren matrícula en sus programas de doctorado en el trienio formado por el año que antecede en seis años al año del cálculo y los dos años que anteceden a este último, el indicador considerado en el literal j) no será evaluado.
 
@@ -179,6 +179,20 @@ El valor obtenido en cada indicador para cada una de las universidades perteneci
 3.- Posteriormente, se sumarán todos los promedios obtenidos por las instituciones de una misma categoría, calculadas de acuerdo con lo indicado en el párrafo final del numeral anterior.
 
 4.- Finalmente, para obtener el monto a distribuir a una institución de una determinada categoría por concepto de Elemento de Desempeño, se calculará qué porcentaje representa el promedio obtenido por ésta de acuerdo con el numeral 2, dentro de la suma obtenida conforme numeral 3, multiplicándose el porcentaje resultante por el monto total a distribuir por el presente literal para la categoría respectiva, obtenido de acuerdo a lo señalado en el párrafo primero del mismo.
+
+El monto para distribuir se determinará en miles de pesos (M$), procediendo a su aproximación al entero, en el caso que el resultado sea en decimales.
+
+c) Elemento de compensación de brechas distributivas: Del total de los recursos asignados por Ley de Presupuesto del Sector Público para la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094", se destinará un 6,5% que será distribuido entre las universidades beneficiarias según el cálculo que se describe a continuación:
+
+1.- Se establecerá la mediana entre los montos obtenidos por las universidades estatales por el fondo "Aporte Artículo 2º DFL (Ed.) Nº 4, de 1981" (AFD), del año anterior al cálculo.
+
+2.- Se calculará para cada una de las universidades beneficiarias, la diferencia entre la mediana establecida en el número 1.- precedente y el monto que por concepto de AFD del año anterior al presente cálculo correspondió a cada una de ellas. En caso de que de dicha resta resulte un valor negativo, se asignará un valor "0" (cero) a la institución respectiva.
+
+3.- Luego, para establecer el total se sumarán los resultados obtenidos en las diferencias calculadas según el número 2.- precedente para cada universidad beneficiaria.
+
+4.- Posteriormente, se calculará para cada universidad beneficiaria la fracción del valor obtenido según lo establecido en el numero 2.- anterior, dentro del total establecido en el número 3.- precedente.
+
+5.- Se obtendrá el monto correspondiente a distribuir a cada universidad multiplicando la fracción calculada según el número 4.- precedente, por el monto de recursos establecidos para el Elemento de compensación de brechas distributivas.
 
 El monto para distribuir se determinará en miles de pesos (M$), procediendo a su aproximación al entero, en el caso que el resultado sea en decimales.
 
