@@ -38,6 +38,8 @@ Carabineros de Chile deberá informar al Ministerio del Interior y Seguridad Pú
 
 La información a que se refiere el inciso primero tendrá el carácter de reservada.
 
+Adicionalmente, y en la misma oportunidad en que se dé cumplimiento al deber de informar dispuesto en el inciso primero, Carabineros de Chile deberá informar al Ministerio del Interior y Seguridad Pública la cantidad de personal en retiro que ha sido llamado al servicio, dando cuenta de su desagregación y cobertura, tanto a nivel regional como comunal, así como el cumplimiento de la finalidad respecto del aumento de la dotación de Carabineros en labores operativas a nivel de Altas Reparticiones, Reparticiones, Comisarías y Destacamentos. Además, respecto del personal llamado al servicio, se deberá dar cuenta de los funcionarios que han cesado en sus funciones y los motivos de ello.
+
 #### Artículo 2° quáter
 
 Carabineros de Chile, como institución integrante de las Fuerzas de Orden y Seguridad Pública, se encuentra autorizado para hacer uso de la fuerza, cuando sea estrictamente necesaria y en la proporción o medida requerida para el desempeño de las funciones policiales.
@@ -268,9 +270,11 @@ El cambio de Escalafón procederá sólo en casos debidamente calificados por el
 
 #### Artículo 16
 
-El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República, informando al Ministerio del Interior y Seguridad Pública, llamar al Servicio, hasta por un período de cinco años, a Oficiales Jefes y Superiores de Fila que se encuentren en situación de retiro absoluto, en la forma y condiciones que determine el Estatuto del Personal. Tratándose del Personal de Nombramiento Institucional de Fila de Orden y Seguridad, la facultad de llamamiento le corresponderá al General Director.
+El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República, previa autorización del Ministerio del Interior y Seguridad Pública, llamar al Servicio, hasta por un período de siete años, a Oficiales Jefes y Superiores de Fila o de los Servicios, en este último caso, con excepción de los funcionarios de veterinaria, banda y servicios religiosos, que se encuentren en situación de retiro absoluto o temporal con derecho a pensión, en la forma y condiciones que determine el Estatuto del Personal. En la propuesta, el General Director, deberá incluir la destinación del funcionario, su empleo y grado. Tratándose del Personal de Nombramiento Institucional de Fila, la facultad de llamamiento le corresponderá al General Director.
 
-A propuesta del General Director, el Presidente de la República, mediante decreto supremo, establecerá el número de empleos y grados del personal de nombramiento supremo e institucional que podrá ser llamado al Servicio. Dicho decreto deberá contar, además, con la firma del Ministro de Hacienda.
+El llamado al servicio tiene por finalidad, ya sea de manera directa o indirecta, el aumento de la dotación de Carabineros en labores operativas a nivel de Altas Reparticiones, Reparticiones, Comisarías y Destacamentos. Lo anterior, con el objeto de que se aumente la cantidad de funcionarios que puedan realizar los servicios extraordinarios y ordinarios en el cuartel y en la población.
+
+A propuesta del General Director, a lo menos cada cinco años, previa autorización del Ministerio del Interior y Seguridad Pública, el Presidente de la República, mediante decreto supremo, establecerá el número de empleos y grados del personal de nombramiento supremo e institucional que podrá ser llamado al Servicio. Dicho decreto deberá contar, además, con la firma del Ministro de Hacienda.
 
 Este personal no se integrará a la Planta, y mientras permanezca en servicio, estará sujeto a lo dispuesto en el artículo 2º de esta ley, y no resultarán aplicables las limitaciones previstas en la letra a) del artículo 41 y en la letra e) del artículo 43 de este cuerpo legal.
 

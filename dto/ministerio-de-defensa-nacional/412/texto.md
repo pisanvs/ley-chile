@@ -458,9 +458,11 @@ Del Llamado al Servicio
 
 #### Artículo 32º bis
 
-El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República llamar al servicio hasta por un período de cinco años a Oficiales Jefes y Superiores de Fila que se encuentren en situación de retiro absoluto, en la forma y condiciones que determina el presente Estatuto. Tratándose del Personal de Nombramiento Institucional de Fila de Orden y Seguridad, la facultad de llamamiento le corresponderá al General Director, mediante resolución. Este personal no podrá exceder de una cantidad equivalente al uno coma cinco por ciento del total de los empleos fijados en los Escalafones de Fila de la ley que fija la planta de Carabineros.
+El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República, previa autorización del Ministerio del Interior y Seguridad Pública, llamar al servicio hasta por un período de siete años a Oficiales Jefes y Superiores de Fila o de los Servicios, en este último caso, con excepción de los funcionarios de veterinaria, banda y servicios religiosos, que se encuentren en situación de retiro absoluto o temporal con derecho a pensión, en la forma y condiciones que determina el presente Estatuto. En la propuesta, el General Director, deberá incluir la destinación del funcionario, su empleo y grado. Tratándose del Personal de Nombramiento Institucional de Fila, la facultad de llamamiento le corresponderá al General Director, mediante resolución. Este personal no podrá exceder de una cantidad equivalente al tres por ciento del total de los empleos fijados en los Escalafones de Fila y de los Servicios de la ley que fija la planta de Carabineros.
 
-Los llamados al servicio deberán cumplir con los requisitos de ingreso previstos en el inciso primero del artículo 14º, y haberse encontrado a la época en que se acogió a retiro clasificado en Lista Nº 1, conforme las normas contenidas en el reglamento respectivo.
+Los llamados al servicio deberán cumplir con los requisitos de ingreso previstos en el inciso primero del artículo 14º, y haberse encontrado a la época en que se acogió a retiro clasificado en Lista Nº 1 o Lista N° 2, salvo que su inclusión en esta última lista sea por motivos disciplinarios, conforme las normas contenidas en el reglamento respectivo.
+
+El llamado al servicio tiene por finalidad, ya sea de manera directa o indirecta, el aumento de la dotación de Carabineros en labores operativas a nivel de Altas Reparticiones, Reparticiones, Comisarías y Destacamentos. Lo anterior, con el objeto de que se aumente la cantidad de funcionarios que puedan realizar los servicios extraordinarios y ordinarios en el cuartel y en la población.
 
 #### Artículo 32º ter
 
@@ -470,13 +472,13 @@ Su antigüedad respecto de oficiales y personal de nombramiento institucional, d
 
 #### Artículo 32º quáter
 
-El personal llamado al servicio gozará del sueldo asignado al grado que corresponda a su empleo de acuerdo a lo establecido en el artículo 33º, y de los beneficios y derechos previstos en el artículo 46º del presente Estatuto, con excepción de la Asignación de Casa, Asignación de Ministro de Corte, Bonificación de Permanencia en Actividad, Asignación de Alto Mando, Asignación Policial, Asignación de Permanencia, Asignación de Actividad Peligrosa o Nociva para la Salud, Asignación Académica, Bonificación de Riesgo y Bonificación Especial y la Asignación Especial no imponible. Tampoco tendrá derecho a la Bonificación Compensatoria fijada en el decreto ley Nº 1.619, de 1976.
+El personal llamado al servicio gozará del sueldo asignado al grado que corresponda a su empleo de acuerdo a lo establecido en el artículo 33º, y de los beneficios y derechos previstos en el artículo 46º del presente Estatuto, con excepción de la Asignación de Casa, Asignación de Ministro de Corte, Bonificación de Permanencia en Actividad, Asignación de Alto Mando, Asignación de Permanencia, Asignación Académica, Bonificación de Riesgo y Bonificación Especial y la Asignación Especial no imponible. Tampoco tendrá derecho a la Bonificación Compensatoria fijada en el decreto ley Nº 1.619, de 1976.
 
 Las remuneraciones que perciba este personal estarán afectas a los descuentos previstos en el artículo 4º del presente Estatuto del Personal, sobre Fondo Hospitales de Carabineros de Chile; ley Nº 15.386, sobre Fondo de Revalorización de Pensiones; decreto ley Nº 1.812, de 1977, sobre Fondo para el Hospital de la Dirección de Previsión de Carabineros de Chile, y 20 letra a) del decreto ley Nº 844, de 1975, que crea la Dirección de Previsión de Carabineros de Chile. Asimismo, estas remuneraciones serán compatibles con la pensión de retiro a que tengan derecho de acuerdo con la normativa contenida en los artículos 57 y siguientes de la ley Nº 18.961, Orgánica Constitucional de Carabineros de Chile. Una vez que el personal llamado al servicio cese en sus funciones, tendrá derecho a que se le reliquide su pensión conforme a lo dispuesto en el inciso segundo del artículo 70º del presente Estatuto.
 
 La asignación de Especialidad al Grado Efectivo, prevista en la letra r) del artículo 46º, que perciba el personal llamado al servicio, no tendrá el carácter de imponible.
 
-Además, cualquiera que sea su destinación o función, no percibirá ninguno de los sobresueldos o gratificaciones especiales previstos en los artículos 48º y 51º, respectivamente.
+Además, cuando corresponda, percibirán los sobresueldos establecidos en el artículo 48, con excepción de los literales a) y b), y las gratificaciones especiales previstas en el artículo 51.
 
 Asimismo, el tiempo que este personal permanezca llamado al servicio no se considerará para los efectos de los Bonos de Permanencia previstos en las leyes Nº 19.941 y Nº 20.104, como tampoco para los efectos del artículo 135º.
 
@@ -484,7 +486,7 @@ Asimismo, el tiempo que este personal permanezca llamado al servicio no se consi
 
 quinquies.- Los llamados al servicio cesarán en sus funciones por las siguientes causas:
 
-1) Vencimiento del plazo de su llamamiento, el que no podrá ser superior a cinco años.
+1) Vencimiento del plazo de su llamamiento, el que no podrá ser superior a siete años.
 
 2) Renuncia al empleo.
 
