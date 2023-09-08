@@ -2734,7 +2734,7 @@ La solicitud establecida en este artículo solo podrá ejercerse hasta el 31 de 
 
 #### Artículo 15
 
-Durante el año 2023 las Direcciones podrán autorizar en las Bases Administrativas, la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas de Obras Públicas. Asimismo, podrán autorizar la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra.
+Durante los años 2023 y 2024 las Direcciones podrán autorizar en las Bases Administrativas, la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas de Obras Públicas. Asimismo, podrán autorizar la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra. Para los efectos de lo dispuesto precedentemente, la tercera categoría del Registro de Obras Mayores se considerará una sola, sin la división entre 3° A y 3° B, contemplada en el artículo 9° del presente reglamento.
 
 Además, para este período, en las Bases Administrativas se podrán establecer los siguientes plazos mínimos, entre la publicación del llamado y la apertura de las propuestas, según el valor estimado de la obra:
 
@@ -2745,6 +2745,22 @@ II.- De un costo total estimado entre 1.000 y menos de 20.000 UTM: 15 días.
 III.- De un costo total estimado entre 20.000 y 80.000 UTM: 25 días.
 
 IV.- De un costo total estimado mayor a 80.000 UTM: 35 días.
+
+#### Artículo 16
+
+Durante los años 2023 y 2024, los contratistas inscritos en la categoría A superior del Registro de Obras Menores, no estarán afectos al límite establecido en el artículo 48 del presente reglamento, ni a la restricción que esa disposición prescribe para los contratistas inscritos en el referido Registro, encontrándose habilitados para ser contratados y para participar en las licitaciones destinadas a la contratación de obras correspondientes a los registros 1.O.C., 2.O.C., 3.O.C., 4.O.C., 5.O.C., 6.O.C., 7.O.C., 10.O.C., 11.O.C., 12.O.C., 13.O.C., 14.O.C., 15.O.C. y 16.O.C., del documento "Registro de Contratistas - Categorías y Especialidades", cuyo presupuesto estimativo, excluido el IVA, no exceda de las 20.
+
+- **000.-** unidades tributarias mensuales. Por su parte, tratándose de obras correspondientes a los registros 8.O.C., 9.O.C., 1.M., 2.M. y 3.M., dicho presupuesto estimativo, no podrá superar las 10.
+
+- **000.-** unidades tributarias mensuales. En tanto, para obras de los registros 17 O.C., 18 O.C., 19 O.C., y 20 O.C., el presupuesto referido no podrá exceder las 7.
+
+- **000.-** unidades tributarias mensuales.
+
+Para poder ofertar o ser contratados, según corresponda, los aludidos contratistas deberán estar inscritos en la o las especialidades del Registro de Obras Menores equivalentes a aquellas del Registro de Obras Mayores consideradas en las respectivas bases de licitación, según lo indicado en la tabla de equivalencias del documento "Registro de Contratistas - Categorías y Especialidades".
+
+Los contratistas que cumplan los requisitos establecidos en el presente artículo podrán constituir un consorcio con otros contratistas inscritos en el mismo Registro, categoría y especialidad o con contratistas inscritos en el Registro de Obras Mayores, para alcanzar la capacidad económica requerida por la obra que se contrate o licite.
+
+Con todo, la habilitación a que se refiere el inciso primero de esta disposición, no podrá ser ejercida tratándose de contrataciones o licitaciones reguladas por el decreto supremo MOP N° 255, de 2007, que aprueba las Bases Administrativas Generales para Licitaciones que Regirán los Contratos de Conservación Global Mixtos por Nivel de Servicios y por Precios Unitarios, así como, en las licitaciones regidas por el decreto supremo MOP N° 145, de 2005, que aprueba Bases Administrativas para Contratos de Conservación Global de Caminos a Serie de Precios Unitarios.
 
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 
