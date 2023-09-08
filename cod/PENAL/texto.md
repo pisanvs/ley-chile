@@ -3006,6 +3006,16 @@ Si las conductas a que se refiere el inciso anterior fueren perpetradas por un a
 
 Si la conducta descrita en el inciso primero fuere cometida por el empleado público para facilitar la perpetración de alguno de los crímenes o simples delitos previstos en el artículo 27 letra a) de la ley N° 19.913, artículos 1, 2, 3 y 4 de la ley N° 20.000, y en los artículos 141, 142, 268 ter, 391, 438, 467 y 468 del presente Código, se aumentará la pena del inciso primero en un grado y además conllevará la inhabilitación absoluta perpetua para cargos u oficios públicos.
 
+#### Artículo 304 ter
+
+El que, encontrándose privado de libertad en un establecimiento penitenciario, tuviere en su poder cualquiera de los elementos señalados en el artículo anterior, sin estar legal o reglamentariamente autorizado al efecto, será sancionado con la pena de presidio menor en su grado mínimo a medio.
+
+El funcionario público que, teniendo conocimiento de la existencia no autorizada al interior de un establecimiento penitenciario de cualquiera de los elementos señalados en el artículo anterior, omitiere denunciar el hecho a la autoridad competente, será sancionado con presidio menor en su grado mínimo y suspensión en su grado mínimo a inhabilitación absoluta temporal en cualquiera de sus grados para el ejercicio del cargo u oficio.
+
+Está exento de responsabilidad penal el abogado defensor de quien tuviere en su poder los elementos a que se refiere el artículo anterior, y que omitiere denunciar este hecho.
+
+Lo dispuesto en el presente artículo se entiende sin perjuicio de las sanciones que fueren procedentes conforme al Reglamento de Establecimientos Penitenciarios, contenido en el decreto Nº 518, promulgado y publicado el año 1998, del Ministerio de Justicia.
+
 ### 13. Atentados contra el medio ambiente
 
 #### Artículo 305
