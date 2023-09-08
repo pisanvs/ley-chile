@@ -52,4 +52,6 @@ El oferente que resulte adjudicado deberá considerar en el presupuesto de ejecu
 
 2. Déjese establecido que la resolución exenta Nº 405 de la Seremi Metropolitana de Vivienda y Urbanismo (V. y U.), de 2021, se mantendrá vigente en todo aquello que no ha sido modificado por el presente acto administrativo.
 
+> **Nota.** El numeral I de la letra a) y los numerales I y II de la letra b) del N° 1 de la Resolución 1259 Exenta, Vivienda, publicada el 08.09.2023, modifican la tabla inserta en la letra b) del N°1 de la presente norma en el sentido que indica: En el predio Rol de Avalúo del Servicio de Impuestos Internos (SII) del Lote 1-A, donde dice: 9024-76 debe decir: 9124-76. En los lotes comprendidos en el sector Sauzal III, en la comuna de Peñalolén, en la fila del lote 3, donde dice: Mar Báltico 52881 debe decir: Mar Báltico 5281; en la fila del lote 4, donde dice: Mar Báltico 8285 debe decir: Mar Báltico 5285; en la fila del lote 5, donde dice: Mar Báltico 8291 debe decir: Mar Báltico 5291. En la columna de Rol de Avalúo del Servicio de Impuestos Internos (SII) predio lote 4, donde dice: 9126-4 debe decir: 9123-4.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
