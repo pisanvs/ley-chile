@@ -590,6 +590,12 @@ La inscripción de un vehículo se efectuará al otorgarse la patente única. Lo
 
 En él se anotarán también todas las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción a solicitud del propietario. Para estos efectos su propietario estará obligado a dar cuenta del hecho de que se trate al Registro. En su caso, deberá cancelarse la inscripción y retirarse las patentes del vehículo, en la forma y condiciones que indique el reglamento referido en el artículo 46.
 
+Declarada la pérdida total de un vehículo asegurado como resultado de su destrucción o porque haya sido desarmado total o parcialmente, la compañía aseguradora deberá requerir la cancelación de la inscripción del vehículo respectivo en el Registro Nacional de Vehículos Motorizados, informará de ello al asegurado y devolverá las respectivas placas patentes.
+
+En el caso de que la pérdida total sea declarada respecto de vehículos asegurados que no estén comprendidos en el inciso anterior, y que sean susceptibles de reparación, las compañías de seguros deberán regularizar la propiedad de los vehículos siniestrados, y requerirán su inscripción en el Registro Nacional de Vehículos Motorizados a su nombre o a nombre de los compradores respectivos, en el plazo de treinta días contado desde la firma del finiquito por el asegurado o del pago de la indemnización.
+
+Mientras no se efectúen las inscripciones, anotaciones y cancelaciones ordenadas, los vehículos que se encuentren en las situaciones antes descritas quedarán bajo la responsabilidad de la aseguradora.
+
 Asimismo, deberá anotarse la denuncia por la apropiación de un vehículo motorizado, especificando si ha sido objeto de robo o hurto, a requerimiento de la autoridad policial, judicial o del Ministerio Público. Si se tratare de un robo, el registro especificará si se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439 del Código Penal.
 
 La denuncia deberá ser incorporada dentro de las cuatro horas siguientes de efectuado el requerimiento a que se refiere el inciso precedente. La referida anotación deberá constar en los certificados de inscripciones y anotaciones vigentes del vehículo respectivo.
@@ -800,7 +806,9 @@ Si la placa patente original se extravía, se inutiliza o se deteriora gravement
 
 Todo vehículo que transite sin llevar la placa patente respectiva, será retirado de la circulación por Carabineros o Inspectores Municipales, para ser puesto a disposición del Juzgado de Policía Local que corresponda. Dichos vehículos serán mantenidos en lugares especialmente habilitados por la Municipalidad para tal efecto, quedando el Juez facultado para ordenar su devolución al propietario tan pronto éste obtenga la placa patente.
 
-El mismo procedimiento se aplicará a los vehículos que transiten sin el permiso de circulación vigente o sin el certificado vigente de un seguro obligatorio de accidentes causados por vehículos motorizados.
+El mismo procedimiento se aplicará a los vehículos que transiten sin el permiso de circulación vigente, sin el certificado vigente del seguro obligatorio de accidentes personales, sin el certificado de revisión técnica al día o sin contar con el certificado de homologación individual o que circulen con placa patente oculta, en mal estado o con el número de identificación del vehículo (VIN) o de motor adulterados o borrados.
+
+Se entenderá que la placa patente se encuentra oculta o en mal estado cuando esté cubierta o mantenga cualquier elemento, fijo o móvil, que dificulte su identificación total o parcialmente o posea un deterioro considerable.
 
 #### Artículo 57
 
@@ -859,6 +867,10 @@ El remolque de vehículos motorizados deberá efectuarse en las condiciones que 
 Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas. En el caso específico de los vehículos pertenecientes a los Cuerpos de Bomberos y de aquellos utilizados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, las características técnicas y pesos máximos permitidos deberán considerar a lo menos la necesidad de su adecuada y oportuna intervención en el auxilio de incendios y otros siniestros, sus especiales características funcionales y su flujo de circulación.
 
 No podrán transitar los vehículos que excedan los pesos máximos permitidos.
+
+Los vehículos motorizados deberán contar con su placa patente única grabada, de forma permanente, en sus vidrios y espejos laterales. Un reglamento del Ministerio de Transportes y Telecomunicaciones deberá establecer las características de este grabado.
+
+> **Nota.** El artículo segundo transitorio de la ley 21601, publicada el 11.09.2023, dispone que la dictación del reglamento a que se refiere la presente norma, deberá efectuarse en el plazo de seis meses contado desde la publicación de esta ley en el Diario Oficial. Adicionalmente, establece que la obligación de grabar la placa patente única en vidrios y espejos laterales de los vehículos motorizados será aplicable conforme a lo siguiente: a) para vehículos nuevos, la obligación será exigible desde el cuarto mes de publicado el reglamento en el Diario Oficial; b) para vehículos comercializados con anterioridad a la publicación de esta ley, la obligación será exigible luego de transcurridos doce meses desde la publicación del reglamento en el Diario Oficial.
 
 #### Artículo 63
 
@@ -926,7 +938,7 @@ Los vehículos deberán contar con el o los sistemas de freno, luces y elementos
 
 #### Artículo 71
 
-Se prohíbe el uso de cualquier foco o luz que induzca a error en la conducción.
+Se prohíbe el uso, adosamiento o la conducción con luces o focos distintos o adicionales a los permitidos por la ley o sus reglamentos.
 
 Sólo los vehículos de emergencia y los demás que determine el reglamento que se dicte podrán o deberán estar provistos de dispositivos luminosos, fijos o giratorios, y su uso se sujetará a lo que el reglamento respectivo determine.
 
@@ -2116,7 +2128,7 @@ c) Presente, a sabiendas, certificados falsos para obtener licencia de conductor
 
 d) Obtenga una licencia de conductor, sin cumplir con los requisitos legales para ello, mediante soborno, dádivas, uso de influencias indebidas o amenaza;
 
-e) Conduzca, a sabiendas, un vehículo con placa patente ocultada o alterada o utilice, a sabiendas, una placa patente falsa o que corresponda a otro vehículo;
+e) Conduzca, a sabiendas, un vehículo con placa patente falsa, alterada o que corresponda a otro vehículo, cuando ésta sea exigible conforme con lo dispuesto en el artículo 51;
 
 f) Certifique, indebida o falsamente, conocimientos, habilidades, prácticas de conducción o realización de cursos de conducir que permitan obtener una licencia de conductor;
 
@@ -2125,6 +2137,10 @@ g) Otorgue un certificado de revisión técnica sin haber practicado realmente l
 h) Conduzca, a sabiendas, un vehículo motorizado con el número de chasis adulterado o borrado, e
 
 i) Adultere o borre el número de chasis de un vehículo motorizado.
+
+j) Adquiera o solicite para sí o para otro, personalmente o por interpósita persona, la inscripción de un vehículo motorizado, a sabiendas que el número de chasis o número de identificación del vehículo (VIN) esté adulterado o borrado, sea falso o no corresponda al declarado en el documento o que corresponda al de otro vehículo.
+
+k) Conduzca un vehículo motorizado, a sabiendas, con el número de identificación del vehículo (VIN) o de motor adulterado o borrado; o corresponda al de otro vehículo, y el que adultere o borre el número de identificación del vehículo (VIN) o de su motor.
 
 El que adultere un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio o utilice a sabiendas uno falsificado o adulterado, será sancionado con la pena señalada en el artículo 490, Nº 2, del Código Penal.
 
@@ -2376,9 +2392,7 @@ Son infracciones o contravenciones gravísimas, las siguientes:
 
 1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE".
 
-2.- Conducir un vehículo motorizado o a tracción animal sin haber obtenido licencia de
-
-conductor, sin perjuicio de lo dispuesto en el artículo 194.
+2.- Conducir un vehículo motorizado o a tracción animal sin haber obtenido licencia de conductor, sin perjuicio de lo dispuesto en el artículo 194.
 
 3.- Conducir un vehículo infringiendo lo dispuesto en los incisos tercero y cuarto del artículo 75.
 
@@ -2387,6 +2401,8 @@ conductor, sin perjuicio de lo dispuesto en el artículo 194.
 5.- Conducir un vehículo manipulando un dispositivo de telefonía móvil o cualquier otro artefacto electrónico o digital, que no venga incorporado de fábrica en él, excepto si la acción se realiza a través de un sistema de manos libres, conforme a las especificaciones que determine el reglamento.
 
 6.- Conducir un vehículo sin la placa patente única cuando ésta sea exigible conforme con lo dispuesto en el artículo 51.
+
+7.- Conducir un vehículo con la placa patente oculta o que utilice objetos, accesorios, luces o aditamentos que obstaculicen su plena percepción, o si la placa patente se encuentra en mal estado y dificulte la identificación del vehículo, siempre que la placa patente sea exigible conforme a lo dispuesto en el artículo 51.
 
 > **Nota.** De conformidad con el Art. transitorio de la ley 20904, publicada el 16 de marzo de 2016, las obligaciones que la citada ley introduce en el inciso 4° del artículo 75 serán exigibles transcurridos 12 meses desde su publicación.
 
@@ -2484,7 +2500,21 @@ n o de frenos en condiciones deficientes;
 
 44. Infringir lo dispuesto en los artículos 67 bis y 67 ter, en lo referente al transporte, carga y descarga de minerales y de concentrado de minerales.
 
+45. Conducir un vehículo que no cuente con la placa patente grabada de forma permanente en los vidrios y espejos laterales, cuando esto sea exigible conforme a esta ley y sus reglamentos.
+
+46. Tratándose de comercializadores de vehículos motorizados, vender un vehículo sin la placa patente grabada de forma permanente en los vidrios y espejos laterales, cuando el grabado sea exigible conforme a esta ley y sus reglamentos.
+
 En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo
+
+#### Artículo 200 bis
+
+Se prohíbe la venta y carga al público de combustible a los vehículos motorizados que no cuenten con su placa patente delantera o trasera.
+
+Las estaciones de servicio y de autoservicio deberán exhibir carteles visibles que indiquen expresamente la prohibición de venta y carga de combustible a los vehículos que no cuenten con su placa patente señalados en el inciso anterior.
+
+La contravención a lo dispuesto en este artículo será castigada con multa de 10 a 100 unidades tributarias mensuales y se aplicará al concesionario o dueño de la estación de servicio. Al que reiterare la conducta se le aplicará siempre el máximo de la multa.
+
+> **Nota.** El artículo tercero transitorio de la ley 21601, publicada el 11.09.2023, dispone que la obligación establecida en el inciso segundo de la presente norma, entrará en vigencia treinta días después de publicada la citada ley en el Diario Oficial.
 
 #### Artículo 201
 
@@ -2494,7 +2524,7 @@ Son infracciones o contravenciones menos graves, las siguientes:
 
 2. Infringir las normas del artículo 115;
 
-3. Conducir un vehículo usando indebidamente las luces, sin perjuicio de lo establecido en el número 15 del artículo anterior;
+3. Conducir un vehículo usando indebidamente las luces, con luces o focos distintos o adicionales a los permitidos en esta ley o sus reglamentos, sin perjuicio de lo establecido en el número 15 del artículo anterior;
 
 4. Infringir, los conductores, las disposiciones del artículo 142 ó 143 sobre vehículos de emergencia;
 
@@ -2518,7 +2548,7 @@ Son infracciones o contravenciones menos graves, las siguientes:
 
 imero del artículo 110;
 
-14. Conducir bicicletas, motocicletas o vehículos similares, contraviniendo la norma sobre uso obligatorio de casco protector y demás elementos de seguridad;
+14. Conducir bicicletas, motocicletas o vehículos similares, contraviniendo la norma sobre uso obligatorio de casco protector y demás elementos de seguridad. Asimismo, constituirá infracción la conducción de vehículos motorizados utilizando un casco que no cumpla con la obligación establecida en el artículo 80;
 
 15. No cumplir las obligaciones que impone el artículo 176;
 
@@ -2578,7 +2608,7 @@ Las personas que indiquen un domicilio falso o inexistente en un procedimiento d
 
 El comercializador que entregue un vehículo nuevo sin la placa patente única instalada será sancionado con multa de 10 a 50 unidades tributarias mensuales.
 
-El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 3 a 50 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
+El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 5 a 75 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
 
 La infracción de la prohibición establecida en el número 3 del artículo 160 será sancionada con multa de media unidad tributaria mensual a dos unidades tributarias mensuales. La reincidencia será sancionada con multa de dos a cuatro unidades tributarias mensuales.
 
