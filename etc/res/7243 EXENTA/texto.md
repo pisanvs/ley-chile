@@ -24,7 +24,7 @@ Considerando:
 
 Resuelvo:
 
-Establécense las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Prunus avium, Prunus amygdalus (= P. dulcis), Prunus cerasus, Prunus domestica, Prunus salicina, Prunus persica, Prunus persica var. nucipersica, Prurlus armeniaca, Malus domestica (=M.pumila), Pyrus communis, Citrus spp., Rubus idaeus, Rubus occidentalis y Vaccinium spp.; para esquejes enraizados y sin enraizar de Fragaria x ananassa, procedentes de los Estados Miembros de la Comunidad Europea:
+Establécense las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Malus domestica (=M.pumila), Pyrus communis, Citrus spp., Rubus idaeus, Rubus occidentalis y Vaccinium spp.; para esquejes enraizados y sin enraizar de Fragaria x ananassa, procedentes de los Estados Miembros de la Comunidad Europea:
 
 1. El material deberá venir amparado por un Certificado Fitosanitario oficial de la autoridad fitosanitaria del Estado Miembro de la Comunidad Europea correspondiente, en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -101,6 +101,8 @@ e. Los materiales de acondicionamiento destinados a amortiguar o conservar la hu
 > **Nota.** NOTA 2 El numeral N° 6 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios para la importación de material de reproducción de la presente norma para las siguientes especies: Para "Manzano, Malus domestica (= M. pumila)", reemplazar la primera viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico en cada caso) en el momento óptimo para la detección de las plagas, encontrándose libres de Apple proliferation phytoplasma y Erwinia amylovora". Para "Peral Europeo, Pyrus communis", reemplazar la primera viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo para la detección de las plagas, encontrándose libres de Erwinia amylovora".
 
 > **Nota.** NOTA 3 El numeral 7.2 del número 7 de la Resolución 2081 Exenta, Agricultura, publicada el 27.04.2022, elimina del numeral 1.2 de la presente norma, los subtítulos de "Vid (Vitis vinifera) Estacas sin enraizar" y "Vid (Vitis rupestris, Vitis riparia y Vitis berlandieri) Estacas sin enraizar", con todos sus incisos.
+
+> **Nota.** NOTA 4 El literal b) del N° 2 de la Resolución 4271 Exenta, Agricultura, publicada el 17.07.2023, elimina del numeral 1.2 de la parte resolutiva de la presente norma, del cuadro de declaraciones adicionales, específicas para especie y tipo de material de reproducción, las siguientes especies: Almendro (Prunus amigdalus = P. dulcis), Cerezo agrio (Prunus cerasus), Cerezo dulce (Prunus avium), Ciruelo Europeo (Prunus domestica), Ciruelo japonés (Prunus salicina), Duraznero (Prunus persica), Nectarino (Prunus persica var. nucipersica) y Damasco (Prunus armeniaca), con todos sus incisos.
 
 Disposición transitoria:
 

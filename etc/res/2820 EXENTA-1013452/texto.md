@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-Establécense los siguientes requisitos de importación para plantas, estacas o ramillas de granado (Punica granatum) y chinese wild peach (Prunus davidiana), procedentes de los estados miembros de la Comunidad Europea:
+Establécense los siguientes requisitos de importación para plantas, estacas o ramillas de granado (Punica granatum), procedentes de los estados miembros de la Comunidad Europea:
 
 1. El material deberá venir amparado por un Certificado Fitosanitario de la Organización Nacional de Protección Fitosanitaria (ONPF) del estado miembro de la Comunidad Europea correspondiente, en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -45,6 +45,8 @@ Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y G
 > **Nota.** El N° 1 de la Resolución 1510 Exenta, Agricultura, publicada el 26.03.2014, modifica la presente norma en el sentido de eliminar en su numeral 1.2, en la especie Punica granatum (granado), el primer párrafo: "El material procede de plantas madres que han sido inspeccionadas durante el último periodo de crecimiento activo y encontradas libres de Coniella granati" quedando como la citada Resolución indica.
 
 > **Nota.** NOTA 1 El 1.2 del numeral 1 de la Resolución 6753 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar para la especie Chinese wild peach (Prunus davidiana) la siguiente declaración adicional "Las plantas, proceden de un Estado Miembro (indicar país) que ha llevado a cabo inspecciones anuales para la detección de Xylella fastidiosa y se encuentra libre de esta plaga mediante análisis (especificar método de diagnóstico) a plantas madres en el momento óptimo de detección de la plaga".
+
+> **Nota.** NOTA 2 El literal b) del N° 3 de la Resolución 4271 Exenta, Agricultura, publicada el 17.07.2023, modifica la presente norma en el sentido de eliminar en su numeral 1.2. del cuadro de requisitos específicos, la especie Chinese Wild Peach ( Prunus davidiana), plantas, estacas y ramillas, con todos sus incisos.
 
 Disposición transitoria:
 
