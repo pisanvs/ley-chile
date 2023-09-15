@@ -14,7 +14,7 @@ Considerando:
 
 Resuelvo:
 
-1. Establézcanse los siguientes requisitos fitosanitarios de importación para plantas, estacas y ramillas de las siguientes especies: avellano europeo (Corylus avellana), caqui (Diospyros kaki), higuera (Ficus carica), cerezo mongol (Prunus fruticosa), cerezo japonés (Prunus serrulata) y endrino (Prunus spinosa), procedentes de los Estados Miembros de la Comunidad Europea:
+1. Establézcanse los siguientes requisitos fitosanitarios de importación para plantas, estacas y ramillas de las siguientes especies: avellano europeo (Corylus avellana), caqui (Diospyros kaki), higuera (Ficus carica), procedentes de los Estados Miembros de la Comunidad Europea:
 
 2. El envío deberá venir amparado por un Certificado Fitosanitario Oficial de la autoridad fitosanitaria del Estado Miembro de la Comunidad Europea correspondiente, en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -47,6 +47,10 @@ Los materiales de acondicionamiento destinados a amortiguar o conservar la humed
 9. Los híbridos interespecíficos entre especies señaladas en la presente resolución, deberán cumplir con todas las declaraciones adicionales establecidas para cada una de las especies que conforman el híbrido.
 
 > **Nota.** El 1.4 del numeral 1° de la Resolución 6753, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar continuación del último párrafo de las declaraciones adicionales, una nueva viñeta: "- Las plantas, proceden de un Estado Miembro (indicar país) que ha llevado a cabo inspecciones anuales para la detección de Xylella fastidiosa y se encuentra libre de esta plaga mediante análisis (especificar método de diagnóstico) a plantas madres en el momento óptimo de detección de la plaga" en las siguientes especies: . HIGUERA (Ficus carita) . CEREZO MONGOL (Prunus fruticosa) . CEREZO JAPONÉS (Prunus serrulata) . ENDRINO (Prunus spinosa)
+
+> **Nota.** NOTA 1 El numeral N° 6 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios para la importación de plantas, estacas y ramillas de Avellano europeo (Corylus avellana), Caqui (Diospyros kaki), Higuera (Ficus carica), Cerezo mongol (Prunus fruticosa), Cerezo japonés (Prunus serrulata) y Endrino (Prunus spinosa), procedentes de los Estados miembros de la Comunidad Europea, para la especie Avellano Europeo (Corylus avellana), la segunda viñeta por la siguiente frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar método de diagnóstico para cada caso) en el momento óptimo para la detección de las plagas y encontradas libres de 'Candidatus Phytoplasma mali' (=Apple proliferation phytoplasma), 'Candidatus Phytoplasma prunorum' (=Apricot chlorotic leafroll phytoplasma) y Pseudomonas syringae pv. avellanae".
+
+> **Nota.** NOTA 2 El literal b) del N° 4 de la Resolución 4271 Exenta, Agricultura, publicada el 17.07.2023, elimina del numeral 2.2 de la presente norma, del cuadro de requisitos específicos, las especies Cerezo Mongol (Prunus fruticosa), Cerezo japonés (Prunus serrulata) y Endrino (Prunus spinosa), y todos sus incisos.
 
 Disposición transitoria:
 
