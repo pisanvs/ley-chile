@@ -580,7 +580,7 @@ Para los efectos de lo dispuesto en el artículo 2º de la ley Nº 20.000, se co
 
 #### Artículo 4
 
-Califícase como sustancias a las que se refiere el artículo 5º de la Ley Nº 20.000, a las siguientes:
+Califícase como sustancias a las que se refiere el artículo 5º bis de la Ley Nº 20.000, a las siguientes:
 
 Acetato de Amilo Acetato de Butilo Acetato de Etilo Acetato de Metilo Acetato de Propilo Acetona Alcohol Amílico Alcohol Butílico Alcohol Isopropílico Alcohol Metílico Benceno Ciclohexano Ciclohexanoma Ciclohexeno Cloroformo Cloruro de Metileno Dicloruro de Etileno Dicloruro de Propileno Estireno Eter Etílico Eter Isopropílico Formiato de Etilo Metiletilcetona Metilbutilcetona Metilpropilcetona Sulfuro de Carbono Tetracloroetileno Tetracloruro de Carbono Tolueno Trementina Tricloroetano Tricloroetileno Xileno
 
