@@ -668,19 +668,27 @@ De los Documentos que debe portar la Aeronave
 
 #### Artículo 90
 
-En toda aeronave que vuele sobre territorio nacional se deben portar los siguientes documentos:
+En toda aeronave que vuele sobre territorio nacional se deberán portar los siguientes documentos:
 
-a) Certificado de matrícula;
+a) Certificado de matrícula.
 
-b) Certificado de aeronavegabilidad;
+b) Certificado de aeronavegabilidad.
 
-c) Licencias y habilitaciones de la tripulación;
+c) Licencias y habilitaciones de la tripulación.
 
-d) Bitácora, y
+d) Bitácora.
 
-e) Documentos relativos a la aeronave, a los pasajeros, a la carga y a la correspondencia, que requieran los reglamentos.
+e) Si lleva pasajeros, listado de sus nombres y lugares de embarque y destino.
+
+f) Documentos relativos a la aeronave, a la carga y a la correspondencia, que requieran los reglamentos.
 
 Lo dispuesto en este artículo no se aplicará a los vehículos ultralivianos.
+
+#### Artículo 90 bis
+
+Con el fin de dar cumplimiento a lo dispuesto en el artículo 180 del Código Procesal Penal, los servicios de transporte aéreo que operen en el territorio nacional deberán, durante el recorrido que presten y dentro del plazo de cinco años, poner a disposición del Ministerio Público y las policías que colaboren con la investigación, el listado de pasajeros referido en la letra e) del artículo 90, cuando así lo requieran.
+
+El requerimiento referido en el inciso anterior deberá contener la fecha y lugar de expedición, los antecedentes necesarios para darle cumplimiento, el plazo que se otorga para que se lleve a efecto y la identificación del organismo que lo requiere.
 
 #### Artículo 91
 
@@ -1004,7 +1012,7 @@ El transportador podrá expedir el billete de pasaje por cualquier medio, siempr
 
 El billete de pasaje hace fe de la celebración y de las condiciones del contrato de transporte. La falta, irregularidades o pérdida del billete no afectarán a la existencia ni a la validez del contrato.
 
-Con todo, el transportador estará obligado a tener a disposición de los pasajeros folletos informativos con especificación de sus derechos, en un lugar visible de sus oficinas de venta de pasajes y en los mostradores de los aeropuertos.
+El transportador, sus agentes autorizados y los explotadores de aeródromos y aeropuertos estarán obligados a informar a los pasajeros los derechos que establece este Título, en conformidad a las condiciones que establezca la Junta de Aeronáutica Civil, previa consulta al Servicio Nacional del Consumidor. Lo anterior se entenderá sin perjuicio de que el transportador estará obligado a poner a disposición de los pasajeros folletos informativos con especificación de sus derechos, en un lugar visible de las oficinas de venta de pasajes y en los mostradores de los aeropuertos.
 
 #### Artículo 131 bis
 

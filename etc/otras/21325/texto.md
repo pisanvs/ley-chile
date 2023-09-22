@@ -962,7 +962,7 @@ Esta obligación se aplicará sin perjuicio de las sanciones correspondientes de
 
 #### Artículo 100
 
-Listado de pasajeros y tripulantes. Las empresas de transporte internacional de pasajeros estarán obligadas a presentar, al momento del ingreso o salida del país de sus respectivos medios de transporte, un listado de pasajeros y tripulantes, y todos los datos necesarios para su identificación. Para estos efectos, deberá utilizarse el listado que el conductor de todo vehículo que ingresa al territorio nacional o sale de él debe presentar de conformidad con lo establecido en el artículo 34 de la Ordenanza de Aduanas.
+Listado de pasajeros y tripulantes. Las empresas de transporte internacional y nacional de pasajeros estarán obligadas a presentar, al momento del ingreso o salida del país de sus respectivos medios de transporte o en los trayectos que realicen dentro del país, un listado de pasajeros y tripulantes, y todos los datos necesarios para su identificación. Para estos efectos, deberá utilizarse el listado que el conductor de todo vehículo que ingresa al territorio nacional o sale de él debe presentar de conformidad con lo establecido en el artículo 34 de la Ordenanza de Aduanas.
 
 El Servicio Nacional de Aduanas, o la autoridad que primero reciba dicho listado, deberá entregársela a los restantes organismos que ejerzan funciones en los pasos fronterizos, que por ley se encuentren obligados a exigirla.
 
