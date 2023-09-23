@@ -2532,7 +2532,7 @@ El acto de constitución de la sociedad irá acompañado de su estatuto, el que 
 
 #### Artículo 426
 
-Dentro del plazo de un mes contado desde la fecha del acto de constitución social, un extracto del mismo, autorizado por el notario respectivo, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la sociedad y publicarse por una sola vez en el Diario Oficial.
+Dentro del plazo de sesenta días contados desde la fecha del acto de constitución social, un extracto del mismo, autorizado por el notario respectivo, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la sociedad y publicarse por una sola vez en el Diario Oficial.
 
 El extracto deberá expresar:
 
