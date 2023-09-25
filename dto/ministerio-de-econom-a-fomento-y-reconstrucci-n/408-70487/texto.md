@@ -78,9 +78,9 @@ b) Bahía de Puerto Taltal, en el área comprendida entre PuntaHueso Parado (25�
 
 L.S. - 70º 28' 31" L.W.)y Punta Taltal (25º23' 56" L.S. - 70º 30' 48" L.W.)
 
-c) Bahía de Puerto Chañaral, en el área comprendida entre Punta Achurra (26º 18' 00"
+c) Bahía de Puerto Chañaral, en el área comprendida entre Punta Achurra y Punta Las Ánimas, de acuerdo con las siguientes coordenadas:
 
-L.S.- 70º 40' 52" L.W.) y Punta Las Animas (26º 23' 25" L.S. - 70º 41' 36" L.W.)
+No obstante lo anterior, se permitirá durante todo el año calendario, el uso del arte de pesca de cerco para la captura objetivo de anchoveta, sin restricción de tamaño de malla, con redes cuya altura sea igual o inferior a 45 brazas, dentro del siguiente polígono:
 
 d) Bahía Inglesa, en el área comprendida entre Punta Oeste (27º 05' 32" L.S.- 70º 52' 44" L.W.) y Punta Morro (27º 06' 32" L.S.- 70º 56' 30" L.W.)
 
@@ -90,15 +90,11 @@ f) Bahía Salado, en el área comprendida entre Punta Salado (27º 35' 25" L.S.-
 
 g) Bahía Huasco, en el área comprendida entre Punta Negra (28º 25' 13" L.S.- 71º 12'46" L.W.) y Faro de Península Guacolda (28º 27' 56" L.S.- 71º 15' 56" L.W.).
 
-No obstante lo dispuesto en los literales c) y d) precedentes, se permitirá, entre el 15 de enero y el 31 de mayo de cada año, el uso del arte de cerco, sin restricción de tamaño de malla, con redes cuya altura sea igual o menor a 20 brazas, en las áreas definidas sobre la base de los puntos notables, que a continuación se indican:
+No obstante lo dispuesto en el literal d) precedente, se permitirá, entre el 15 de enero y el 31 de mayo de cada año, el uso del arte de cerco, sin restricción de tamaño de malla, con redes cuya altura sea igual o menor a 20 brazas, en el área definida sobre la base de los puntos notables, que a continuación se indican:
 
 (Carta SHOA Nº200; Esc. 1:500.000; 3ª Ed. 1979)
 
-a) Bahía de Puerto Chañaral: En el área comprendida entre la línea recta imaginaria que une Punta Achurra (26°17'40" L.S. - 70°40'12" L.W.) y Punta Las Animas (26°23'25" L.S. - 70°41'36" L.W.) y la línea recta imaginaria que une los puntos ubicados a una distancia de una milla mar adentro, proyectados sobre la latitud de los puntos notables de Punta Achurra y Punta Las Animas.
-
-(Carta SHOA Nº311; Esc. 1:20.000; 8ª Ed.1988)
-
-b) Bahía Inglesa: En el área comprendida entre la línea recta imaginaria que une Punta Oeste (27°05'32" L.S.
+a) Bahía Inglesa: En el área comprendida entre la línea recta imaginaria que une Punta Oeste (27°05'32" L.S.
 
 70°52'05,55" L.W.) y Punta Fernández (27°07'42,50"L.S.
 
