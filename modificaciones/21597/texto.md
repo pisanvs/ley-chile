@@ -1,16 +1,16 @@
-APRUEBA NORMAS PARA EL FOMENTO DE LA INVERSION PRIVADA EN OBRAS DE RIEGO Y DRENAJE
+LEY NÚM. 21.597
 
-La Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente
+MODIFICA Y PRORROGA LA VIGENCIA DE LA LEY Nº18.450, QUE APRUEBA NORMAS PARA EL FOMENTO DE LA INVERSIÓN PRIVADA EN OBRAS DE RIEGO Y DRENAJE
 
-Proyecto de ley
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
-> **Nota.** El artículo 2º transitorio de la ley 20401, publicada el 04.12.2009, prorrogó la vigencia de la presente norma por el plazo de 12 años a contar de la fecha de su publicación.
+Proyecto de ley:
 
-> **Nota.** NOTA 1 El artículo 72 de la ley 21405, publicada el 22.12.2021, modifica la presente norma en el sentido de renovar su vigencia por el plazo de un año, a contar de la fecha de término de la prórroga aprobada por el artículo 2º transitorio de la ley 20.401.
+#### Artículo 1
 
-> **Nota.** NOTA 2 El artículo 45 de la ley 21526, publicada el 28.12.2022, modifica la presente norma en el sentido de renovar su vigencia por el plazo de un año, a contar de la fecha de término de la prórroga a la cual se refiere el artículo 72 de la ley 21405.
+Introdúcense las siguientes modificaciones en la ley N° 18.450, que aprueba normas para el fomento de la inversión privada en obras de riego y drenaje:
 
-> **Nota.** NOTA 3 El artículo 2 de la ley 21597, publicada 26.09.2023, modifica la presente norma en el sentido de renovar su vigencia por el plazo de siete años, a contar de la fecha de término de la prórroga a la cual se refiere el artículo 45 de la ley N° 21.526.
+1. Sustitúyese el artículo 1°, por los siguientes artículos 1, 1 bis y 1 ter:
 
 #### Artículo 1
 
@@ -66,7 +66,9 @@ Los proyectos cuyo costo no supere las 40.000 unidades de fomento podrán postul
 
 Los proyectos cuyos costos superen las 20.000 unidades de fomento deberán contar previamente con recomendación favorable del Ministerio de Desarrollo Social y Familia. El plazo para pronunciarse respecto de la recomendación será de sesenta días corridos, contado desde la fecha de ingreso de la respectiva solicitud ante el mencionado ministerio. El interesado podrá invocar el silencio administrativo positivo en caso de no existir pronunciamiento de la autoridad dentro del plazo antes señalado.
 
-Los concursos para la bonificación de proyectos cuyo valor sea superior a 20.000 unidades de fomento se regirán por un procedimiento especial contemplado en el reglamento.
+Los concursos para la bonificación de proyectos cuyo valor sea superior a 20.000 unidades de fomento se regirán por un procedimiento especial contemplado en el reglamento.".
+
+2. Reemplázase el artículo 2° por el siguiente:
 
 #### Artículo 2
 
@@ -116,7 +118,9 @@ Con todo, no podrán postular a los beneficios de esta ley, las siguientes perso
 
 17. Las personas que no hayan cumplido con las medidas de mitigación o compromisos adquiridos en proyectos bonificados en postulaciones anteriores a los concursos de la presente ley.
 
-18. Las personas naturales o jurídicas que se encuentren inhabilitadas para suscribir contratos administrativos con el Estado de conformidad con lo dispuesto en la ley Nº 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.
+18. Las personas naturales o jurídicas que se encuentren inhabilitadas para suscribir contratos administrativos con el Estado de conformidad con lo dispuesto en la ley Nº 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.".
+
+3. Sustitúyese el artículo 3° por el siguiente:
 
 #### Artículo 3
 
@@ -136,7 +140,9 @@ e) Proyectos de restitución gestionada de agua a las fuentes superficiales y su
 
 Dada la naturaleza de los proyectos de las letras c), d) y e) de este artículo, la bonificación será de hasta el 95%, independiente del tipo de postulante definido en el artículo 1.
 
-En caso de situaciones excepcionales de escasez hídrica o daño a la infraestructura de riego, por las cuales se hubiere decretado estado de excepción constitucional de catástrofe por el Presidente de la República, la Comisión podrá establecer mecanismos y exigencias distintas de las señaladas en la presente ley o en su reglamento, con la finalidad de restablecer de manera oportuna los servicios o adaptar la infraestructura de riego a las nuevas condiciones de la zona. Para su validación, dichos mecanismos y exigencias deberán ser presentados ante el Consejo de Ministros de la Comisión Nacional de Riego en la sesión siguiente a su establecimiento.
+En caso de situaciones excepcionales de escasez hídrica o daño a la infraestructura de riego, por las cuales se hubiere decretado estado de excepción constitucional de catástrofe por el Presidente de la República, la Comisión podrá establecer mecanismos y exigencias distintas de las señaladas en la presente ley o en su reglamento, con la finalidad de restablecer de manera oportuna los servicios o adaptar la infraestructura de riego a las nuevas condiciones de la zona. Para su validación, dichos mecanismos y exigencias deberán ser presentados ante el Consejo de Ministros de la Comisión Nacional de Riego en la sesión siguiente a su establecimiento.".
+
+4. Agréganse, a continuación del artículo 3, los siguientes artículos 3 bis y 3 ter, nuevos:
 
 #### Artículo 3 bis
 
@@ -158,7 +164,9 @@ Tampoco podrán ser bonificados proyectos de drenaje emplazados en humedales y t
 
 No serán susceptibles de la bonificación establecida en esta ley los gastos correspondientes a la adquisición de maquinaria e implementos necesarios para construir, instalar o reparar obras de riego o de drenaje, o de equipos e implementos para fabricar, instalar o reparar elementos de riego mecánico.
 
-Asimismo, no serán objeto de bonificación los gastos habituales de operación y mantención de las obras, equipos y elementos a que se refiere el inciso anterior, existentes o que se construyan o adquieran mediante la aplicación de esta ley.
+Asimismo, no serán objeto de bonificación los gastos habituales de operación y mantención de las obras, equipos y elementos a que se refiere el inciso anterior, existentes o que se construyan o adquieran mediante la aplicación de esta ley.".
+
+5. Sustitúyese el artículo 4, por el siguiente:
 
 #### Artículo 4
 
@@ -186,25 +194,25 @@ f) Incremento de la potencialidad de los suelos que se regarán o drenarán, seg
 
 g) Superficie de riego que considere cultivos tradicionales de la canasta básica de alimentos, los que serán definidos en el reglamento.
 
-h) Inclusión de inversiones anexas que consideren objetivos ambientales, a las cuales se refiere el inciso segundo del artículo 1 bis.
+h) Inclusión de inversiones anexas que consideren objetivos ambientales, a las cuales se refiere el inciso segundo del artículo 1 bis.".
 
-#### Artículo 5°
+6. En el artículo 5°:
 
-Los factores señalados en el artículo anterior darán origen a las siguientes variables:
+a) En el inciso primero:
 
-1) Aporte: Se dividirá el monto que será de cargo del interesado, por el costo total del proyecto.
+i. Incorpórase en el número 3), a continuación de la palabra "beneficiada", la siguiente frase: ", por cada beneficiario o beneficiaria directa".
 
-2) Superficie: El total de las superficies de nuevo riego, drenadas y de sus equivalentes cuando se trate de mejoramientos, ponderadas por el incremento de la potencialidad de los suelos de acuerdo a los factores que establezca el reglamento, se dividirá por el costo total del proyecto.
+ii. Agréganse los siguientes números 4) y 5), nuevos:
 
-3) Costo: Será el costo total del proyecto por hectárea beneficiada, por cada beneficiario o beneficiaria directa.
+"4) Diversificación: El total de superficie de riego que considere cultivos tradicionales de la canasta básica de alimentos respecto del total de la superficie de riego.
 
-4) Diversificación: El total de superficie de riego que considere cultivos tradicionales de la canasta básica de alimentos respecto del total de la superficie de riego.
+5) Ambiental: Se considerará la inclusión de obras anexas con objetivos ambientales, según lo dispuesto en el inciso segundo del artículo 1 bis.".
 
-5) Ambiental: Se considerará la inclusión de obras anexas con objetivos ambientales, según lo dispuesto en el inciso segundo del artículo 1 bis.
+b) Reemplázase en el inciso segundo el vocablo "tres", las dos veces que aparece, por la palabra "cinco".
 
-Calculadas las cinco variables para cada proyecto concursante, se realizará con ellos cinco ordenamientos de acuerdo al valor que obtengan en cada variable.
+c) Sustitúyense los incisos tercero, cuarto, quinto, sexto y séptimo, por los siguientes:
 
-Al proyecto que proponga el mayor valor en la variable "Aporte" se le otorgarán doscientos cincuenta puntos en la calificación de esa variable y al que ofrezca el menor, cero puntos. En caso de que distintos proyectos postulados igualen la variable "Aporte", serán ordenados de forma decreciente de acuerdo con la superficie del proyecto.
+"Al proyecto que proponga el mayor valor en la variable "Aporte" se le otorgarán doscientos cincuenta puntos en la calificación de esa variable y al que ofrezca el menor, cero puntos. En caso de que distintos proyectos postulados igualen la variable "Aporte", serán ordenados de forma decreciente de acuerdo con la superficie del proyecto.
 
 El proyecto que obtenga el mayor valor en la variable "Superficie" recibirá por ese concepto doscientos cincuenta puntos y el que obtenga el menor, cero puntos.
 
@@ -212,19 +220,21 @@ Al proyecto de menor valor en la variable "Costo" se le adjudicarán trescientos
 
 Al proyecto de mayor valor en la variable "Diversificación" se le otorgarán cien puntos y al de menor, cero puntos.
 
-Al proyecto de mayor valor en la variable "Ambiental" se le otorgarán cien puntos y al de menor, cero puntos.
+Al proyecto de mayor valor en la variable "Ambiental" se le otorgarán cien puntos y al de menor, cero puntos.".
 
-En la evaluación de los proyectos de postulantes señalados en la letra h) del artículo 1, se considerarán las variables "Aporte", "Superficie" y "Costo" de acuerdo con los números 1), 2) y 3) del inciso primero. En dichos casos, al proyecto que proponga el mayor valor en la variable "Aporte" se le otorgarán trescientos puntos en la calificación de esa variable, y al que ofrezca el menor, cero puntos. Al proyecto que proponga el mayor valor en la variable "Superficie" se le otorgarán trescientos puntos en la calificación de esa variable, y al que ofrezca el menor, cero puntos. Al proyecto de menor valor de la variable "Costo" se le adjudicarán cuatrocientos puntos, y al de mayor, cero puntos.
+d) Incorpóranse, a continuación del inciso séptimo, los siguientes incisos octavo, noveno y décimo, nuevos, pasando los actuales incisos octavo, noveno y décimo a ser incisos undécimo, duodécimo y décimo tercero, respectivamente:
+
+"En la evaluación de los proyectos de postulantes señalados en la letra h) del artículo 1, se considerarán las variables "Aporte", "Superficie" y "Costo" de acuerdo con los números 1), 2) y 3) del inciso primero. En dichos casos, al proyecto que proponga el mayor valor en la variable "Aporte" se le otorgarán trescientos puntos en la calificación de esa variable, y al que ofrezca el menor, cero puntos. Al proyecto que proponga el mayor valor en la variable "Superficie" se le otorgarán trescientos puntos en la calificación de esa variable, y al que ofrezca el menor, cero puntos. Al proyecto de menor valor de la variable "Costo" se le adjudicarán cuatrocientos puntos, y al de mayor, cero puntos.
 
 En la evaluación de todos los proyectos cuyo costo supere las 20.000 unidades de fomento se considerarán las variables "Aporte" y "Costo" de acuerdo con los números 1) y 3) del inciso primero. En este caso, al proyecto que proponga el mayor valor en la variable "Aporte" se le otorgarán quinientos puntos en la calificación de esa variable, y al que ofrezca el menor, cero puntos; al proyecto de menor valor de la variable "Costo" se le adjudicarán quinientos puntos, y al de mayor, cero puntos.
 
-A los proyectos que consulten valores intermedios de las variables se les asignarán puntajes en proporción a las posiciones que ocupen entre los dos extremos indicados para cada una de dichas variables.
+A los proyectos que consulten valores intermedios de las variables se les asignarán puntajes en proporción a las posiciones que ocupen entre los dos extremos indicados para cada una de dichas variables.".
 
-Finalmente, se sumarán los puntajes obtenidos por cada proyecto y se ordenarán de mayor a menor puntaje.
+e) Reemplázase en el inciso noveno, que pasó a ser inciso duodécimo, la expresión "del próximo concurso" por "de algún concurso del año calendario que corresponda".
 
-Resultarán aprobados, en su orden de prelación, los proyectos que obtengan los mejores puntajes y cuyas peticiones de bonificación queden cubiertas totalmente con el fondo disponible para el concurso. Si restare un excedente, éste se acumulará para el fondo de algún concurso del año calendario que corresponda.
+f) Sustitúyese en el inciso décimo, que pasó a ser décimo tercero, la frase "y el puntaje obtenido en la variable superficie sucesivamente, y si aún se mantuviere el empate, el orden de prelación se definirá por sorteo", por el siguiente texto: ", luego por el puntaje obtenido en la variable "Superficie", seguido por el puntaje obtenido en la variable "Diversificación" y, finalmente, por el puntaje obtenido en la variable "Ambiental". Si aún se mantuviere el empate, el orden de prelación se definirá por sorteo".
 
-Si dos o más proyectos igualaren puntaje y por razones de cupo del fondo no pudieren ser todos aprobados, el orden de prelación entre ellos lo definirá el puntaje obtenido en la variable aporte; si se mantuviere el empate, el puntaje obtenido en la variable costo, luego por el puntaje obtenido en la variable "Superficie", seguido por el puntaje obtenido en la variable "Diversificación" y, finalmente, por el puntaje obtenido en la variable "Ambiental". Si aún se mantuviere el empate, el orden de prelación se definirá por sorteo.
+7. Reemplázase el artículo 6°, por el siguiente:
 
 #### Artículo 6
 
@@ -236,11 +246,9 @@ Finalizado un concurso, la Comisión Nacional de Riego deberá poner en conocimi
 
 La Comisión podrá aceptar, rechazar o proponer modificaciones a los proyectos una vez resuelto el concurso, en los términos que señale el reglamento, pero en ningún caso se aumentará el monto de la bonificación aprobada. El reglamento de esta ley deberá fijar las condiciones para la presentación y análisis de las modificaciones.
 
-Si el costo de los proyectos disminuyera como resultado de la modificación efectuada, la Comisión rebajará el porcentaje de la bonificación aprobada en igual proporción.
+Si el costo de los proyectos disminuyera como resultado de la modificación efectuada, la Comisión rebajará el porcentaje de la bonificación aprobada en igual proporción.".
 
-#### Artículo 6° bis
-
-Una vez establecidas las normas técnicas chilenas de calidad de equipos y elementos de riego mecánico por medio del Instituto Nacional de Normalización, la Comisión Nacional de Riego deberá exigir su cumplimiento en los proyectos de riego y drenaje que se presenten a los concursos de esta ley.
+8. Agrégase, a continuación del artículo 6° bis, el siguiente artículo 6 ter:
 
 #### Artículo 6 ter
 
@@ -248,11 +256,15 @@ Para proyectos extraprediales, la Comisión podrá solicitar, en los respectivos
 
 Asimismo, la Comisión podrá requerir en los respectivos concursos que los proyectos extraprediales contemplen medidas para mitigar los impactos ambientales que éstos puedan producir, tales como abrevaderos para fauna, sistemas para recarga de acuíferos, u otras de similar naturaleza, así como obras de captación para el control de incendios.
 
-Todas las medidas señaladas en este artículo formarán parte del costo del proyecto y serán susceptibles de bonificación.
+Todas las medidas señaladas en este artículo formarán parte del costo del proyecto y serán susceptibles de bonificación.".
+
+9. Intercálase el siguiente artículo 6 quáter:
 
 #### Artículo 6 quáter
 
-La Comisión podrá implementar concursos especiales para proyectos de eficiencia hídrica que consideren obras o procedimientos necesarios para dejar de extraer desde el punto de captación, o en su defecto, restituir a la respectiva fuente, un mínimo de un 25% de la ganancia en caudal y/o agua que se produzca por eficiencia. La bonificación máxima de estos concursos es del 95%, independiente del tipo de postulante definido en el artículo 1.
+La Comisión podrá implementar concursos especiales para proyectos de eficiencia hídrica que consideren obras o procedimientos necesarios para dejar de extraer desde el punto de captación, o en su defecto, restituir a la respectiva fuente, un mínimo de un 25% de la ganancia en caudal y/o agua que se produzca por eficiencia. La bonificación máxima de estos concursos es del 95%, independiente del tipo de postulante definido en el artículo 1.".
+
+10. Reemplázase el artículo 7° por el siguiente:
 
 #### Artículo 7
 
@@ -260,7 +272,9 @@ La bonificación se pagará una vez que las obras estén totalmente ejecutadas y
 
 Tratándose de equipos y elementos de riego mecánico, la bonificación se pagará en las condiciones y oportunidades que establezca el reglamento.
 
-La Comisión deberá pronunciarse sobre la recepción de las obras dentro del plazo de noventa días hábiles, a contar desde la fecha en que el interesado comunique por escrito haber concluido su ejecución. Si dicho organismo no se pronunciare o no formulare reparos dentro de ese lapso, las obras se tendrán por aprobadas.
+La Comisión deberá pronunciarse sobre la recepción de las obras dentro del plazo de noventa días hábiles, a contar desde la fecha en que el interesado comunique por escrito haber concluido su ejecución. Si dicho organismo no se pronunciare o no formulare reparos dentro de ese lapso, las obras se tendrán por aprobadas.".
+
+11. Reemplázase el artículo 7° bis por el siguiente:
 
 #### Artículo 7 bis
 
@@ -270,59 +284,55 @@ La inspección y recepción técnica de obras de proyectos de más de 30.000 uni
 
 Sin perjuicio de lo señalado precedentemente, la Comisión Nacional de Riego podrá efectuar inspecciones aleatorias de obras, en terreno, con el fin de verificar que las labores de inspección y recepción técnica se ejecuten de conformidad a los parámetros y condiciones que establezca el reglamento y la información proporcionada por la inspección privada de las obras.
 
-El consultor o constructor, según corresponda, estará obligado a responder por algún desperfecto o falla en los equipos u obras civiles que componen el proyecto de riego bonificado, hasta por el plazo de un año posterior al pago de la bonificación, siempre y cuando éstos sean atribuibles al diseño del proyecto o a su ejecución y no respondan a algún deterioro por mal uso de los equipos o a algún daño ocasionado por caso fortuito o fuerza mayor. Si, previo informe técnico de la Comisión, y posterior a los descargos que pueda tener el consultor o constructor, se concluye que no respondió debidamente a esta obligación legal, se procederá a inhabilitarlo del Registro, según corresponda, por el plazo de doce meses. Contra el acto administrativo que imponga la inhabilitación podrá recurrirse de acuerdo con lo establecido en el artículo 59 de la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado. En el acto de recepción de obras se consignará el consultor o constructor responsable de responder por lo indicado en este inciso.
+El consultor o constructor, según corresponda, estará obligado a responder por algún desperfecto o falla en los equipos u obras civiles que componen el proyecto de riego bonificado, hasta por el plazo de un año posterior al pago de la bonificación, siempre y cuando éstos sean atribuibles al diseño del proyecto o a su ejecución y no respondan a algún deterioro por mal uso de los equipos o a algún daño ocasionado por caso fortuito o fuerza mayor. Si, previo informe técnico de la Comisión, y posterior a los descargos que pueda tener el consultor o constructor, se concluye que no respondió debidamente a esta obligación legal, se procederá a inhabilitarlo del Registro, según corresponda, por el plazo de doce meses. Contra el acto administrativo que imponga la inhabilitación podrá recurrirse de acuerdo con lo establecido en el artículo 59 de la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado. En el acto de recepción de obras se consignará el consultor o constructor responsable de responder por lo indicado en este inciso.".
 
-#### Artículo 8°
+12. En el artículo 8°:
 
-Las funciones que por esta ley se encomiendan a la Comisión Nacional de Riego, deberán ser ejercidas de conformidad a lo dispuesto en la letra h) del artículo 3° del decreto con fuerza de ley N° 7, de 1983, del Ministerio de Economía, Fomento y Reconstrucción.
+a) Reemplázase en el inciso primero la palabra "podrán" por "deberán".
 
-La Comisión Nacional de Riego podrá contratar, mediante licitación pública, la realización de estudios necesarios para dimensionar la capacidad y comportamiento de fuentes superficiales y de aguas subterráneas que puedan estar disponibles para riego, a empresas u organismos especializados.
+b) Sustitúyese en el inciso segundo la frase "acuíferos de aguas subterráneas" por "fuentes superficiales y de aguas subterráneas".
 
-Los estudios contratados según el inciso precedente deberán realizarse en coordinación con la Dirección General de Aguas, de conformidad con lo dispuesto en el número 3 de la letra b) del artículo 299 del Código de Aguas. Una vez concluidos, las empresas u organismos encargados deberán remitir a la referida Dirección toda la información vinculada a dichos estudios, incluyendo todos los datos recopilados, procesados o generados en ellos.
+c) Agrégase el siguiente inciso final, nuevo:
 
-#### Artículo 9°
+"Los estudios contratados según el inciso precedente deberán realizarse en coordinación con la Dirección General de Aguas, de conformidad con lo dispuesto en el número 3 de la letra b) del artículo 299 del Código de Aguas. Una vez concluidos, las empresas u organismos encargados deberán remitir a la referida Dirección toda la información vinculada a dichos estudios, incluyendo todos los datos recopilados, procesados o generados en ellos.".
 
-Los adjudicatarios de la bonificación a que se refiere esta ley podrán ceder o constituir garantías sobre el derecho a percibir la misma, mediante el endoso del certificado que emita la Comisión Nacional de Riego, en el cual conste la adjudicación.
+13. En el artículo 12:
 
-#### Artículo 10
+a) Sustitúyese en el inciso primero la expresión "de la Ley N° 17.235" por la frase "de la ley N° 17.235, sobre impuesto territorial, cuyo texto refundido, coordinado, sistematizado y actualizado fija el decreto con fuerza de ley N° 1, de 1998, del Ministerio de Hacienda".
 
-La bonificación no constituirá renta para los beneficiarios de la misma y sus sucesores en el dominio del predio. Respecto de los cesionarios, se aplicarán las normas generales.
+b) Reemplázase en el inciso tercero la expresión "el subsidio" por "la bonificación".
 
-#### Artículo 11
+14. En el artículo 13:
 
-La bonificación a que se refiere esta ley será compatible con las establecidas en otros textos legales, pero la suma de las bonificaciones que se apliquen para una obra e inversión determinada no podrá exceder del 95% del costo de las mismas.
+a) Elimínase en el inciso primero la palabra "maliciosamente".
 
-#### Artículo 12
+b) Reemplázase en el inciso final la palabra "profesional" por la expresión "consultor y/o constructor".
 
-Los predios agrícolas beneficiados con las obras a que se refiere esta ley, gozarán de la franquicia establecida en la letra A) del artículo 1° de la ley N° 17.235, sobre impuesto territorial, cuyo texto refundido, coordinado, sistematizado y actualizado fija el decreto con fuerza de ley N° 1, de 1998, del Ministerio de Hacienda, pero reduciendo el tiempo de exención en el mismo porcentaje en que se subvencione el costo de la obra.
+c) Agrégase el siguiente inciso final, nuevo:
 
-En caso de un cambio de uso de suelo de predios beneficiados por esta ley, que hubiere sido solicitado por el propietario para otros fines, éste deberá restituir la bonificación percibida deduciendo en forma proporcional el tiempo de permanencia efectiva de las obras bonificadas, sobre el plazo total a que se refiere el artículo 14 de este cuerpo legal, restitución que se efectuará en las condiciones que determine el reglamento.
+"La Comisión llevará un registro público de los infractores a los que se refiere este artículo, los que deberán incorporarse a éste una vez que el respectivo acto se encuentre firme. La sanción referida a la no admisión en futuros concursos de proyectos preparados por el infractor afectará, además, a las personas jurídicas en las que éste sea socio, gerente, administrador, representante o director, o en las que posea una participación igual o superior al 10% del capital o tenga la capacidad de elegir a lo menos un miembro del directorio o administración, salvo que la respectiva persona jurídica acredite ante la Comisión que no ha tenido responsabilidad en la infracción. Asimismo, en caso de que el infractor sea una persona jurídica, la sanción se extenderá a los accionistas, socios, gerentes, administradores, representantes o directores, en la medida que éstos hayan participado de la infracción. Un reglamento fijará las demás normas necesarias para la creación y funcionamiento del registro público.".
 
-Igual situación se aplicará a los agricultores de predios bonificados que eliminen o cambien de cultivo para el cual se asignó la bonificación, si a consecuencia de ello se deja sin aplicación los equipos de riego bonificados.
+15. En el artículo 14:
 
-#### Artículo 13
-
-El que con el propósito de acogerse a la bonificación fijada en esta ley proporcione antecedentes falsos o adulterados, será sancionado con presidio menor en sus grados medio a máximo.
-
-Si el infractor hubiese percibido la bonificación, se le aplicará además de la pena indicada en el inciso anterior, una multa que será equivalente al triple de las unidades de fomento que hubiere percibido indebidamente por tal concepto.
-
-Será competente para aplicar las sanciones a que se refieren los incisos primero y segundo, el Juez de Garantía que corresponda de acuerdo con las normas generales.
-
-Sin perjuicio de lo dispuesto en los incisos anteriores, el consultor y/o constructor responsable del proyecto que se presentare a concurso, que incurriere en las infracciones a que se refieren los incisos primero y segundo, será sancionado por la Comisión Nacional de Riego, administrativamente, con la no admisión en futuros concursos de proyectos preparados por el infractor. De esta sanción podrá apelarse ante la Contraloría General de la República.
-
-La Comisión llevará un registro público de los infractores a los que se refiere este artículo, los que deberán incorporarse a éste una vez que el respectivo acto se encuentre firme. La sanción referida a la no admisión en futuros concursos de proyectos preparados por el infractor afectará, además, a las personas jurídicas en las que éste sea socio, gerente, administrador, representante o director, o en las que posea una participación igual o superior al 10% del capital o tenga la capacidad de elegir a lo menos un miembro del directorio o administración, salvo que la respectiva persona jurídica acredite ante la Comisión que no ha tenido responsabilidad en la infracción. Asimismo, en caso de que el infractor sea una persona jurídica, la sanción se extenderá a los accionistas, socios, gerentes, administradores, representantes o directores, en la medida que éstos hayan participado de la infracción. Un reglamento fijará las demás normas necesarias para la creación y funcionamiento del registro público.
+a) Reemplázase el inciso primero, por el siguiente:
 
 #### Artículo 14
 
-La Comisión Nacional de Riego podrá otorgar autorización para retirar o enajenar los bienes adquiridos con la bonificación, antes de que concluya el plazo fijado en el reglamento, el cual no podrá ser superior a diez años, contado desde la fecha de recepción de la obra, siempre que los bienes en cuestión hayan sido correctamente usados en el objetivo del proyecto. El que sin la autorización de la Comisión Nacional de Riego retirare del predio o enajenare bienes adquiridos con la bonificación antes que concluya el plazo que fije el reglamento, será sancionado con una multa, a beneficio fiscal, equivalente al triple de las unidades de fomento que hubiere percibido por concepto de bonificación. Dicho plazo no podrá ser superior a diez años, contado desde la fecha de recepción de la obra.
+La Comisión Nacional de Riego podrá otorgar autorización para retirar o enajenar los bienes adquiridos con la bonificación, antes de que concluya el plazo fijado en el reglamento, el cual no podrá ser superior a diez años, contado desde la fecha de recepción de la obra, siempre que los bienes en cuestión hayan sido correctamente usados en el objetivo del proyecto. El que sin la autorización de la Comisión Nacional de Riego retirare del predio o enajenare bienes adquiridos con la bonificación antes que concluya el plazo que fije el reglamento, será sancionado con una multa, a beneficio fiscal, equivalente al triple de las unidades de fomento que hubiere percibido por concepto de bonificación. Dicho plazo no podrá ser superior a diez años, contado desde la fecha de recepción de la obra.".
 
-En el caso de equipos móviles, el beneficiario deberá comunicar a la Comisión su uso en predios distintos del predio original del proyecto, siempre y cuando este predio pertenezca al titular del proyecto o sea explotado por él o sus sucesores legales en virtud de un contrato de arrendamiento, usufructo, fideicomiso, uso u otra forma legítima de explotación, en las condiciones que establezca el reglamento. En este caso, la obligación de mantener el equipo por el plazo antes señalado corresponderá al beneficiario que obtuvo la bonificación.
+b) Agrégase el siguiente inciso segundo, nuevo, pasando el actual inciso segundo a ser inciso tercero:
 
-Será competente para aplicar esta sanción, el Juez de Policía Local que sea abogado con jurisdicción en la comuna en que se hubiere cometido la infracción, en conformidad con el procedimiento establecido en la ley N° 18.287. Si éste no fuere abogado, lo será el Juez de Garantía en cuyo territorio jurisdiccional se encuentre el predio donde se cometió la infracción, aplicándose, en tal caso, el mismo procedimiento señalado.
+"En el caso de equipos móviles, el beneficiario deberá comunicar a la Comisión su uso en predios distintos del predio original del proyecto, siempre y cuando este predio pertenezca al titular del proyecto o sea explotado por él o sus sucesores legales en virtud de un contrato de arrendamiento, usufructo, fideicomiso, uso u otra forma legítima de explotación, en las condiciones que establezca el reglamento. En este caso, la obligación de mantener el equipo por el plazo antes señalado corresponderá al beneficiario que obtuvo la bonificación.".
 
-Las condiciones dispuestas en este artículo no impiden en caso alguno que la Comisión pueda llamar a concursos específicos para la renovación de equipos y elementos anexos, en el marco del mejoramiento continuo de los sistemas de riego.
+c) Agrégase el siguiente inciso cuarto, nuevo:
 
-En un reglamento se definirá el mecanismo de seguimiento y supervisión de las obras bonificadas por esta ley, además de las condiciones para los concursos de renovación de sistemas de riego.
+"Las condiciones dispuestas en este artículo no impiden en caso alguno que la Comisión pueda llamar a concursos específicos para la renovación de equipos y elementos anexos, en el marco del mejoramiento continuo de los sistemas de riego.".
+
+d) Agrégase el siguiente inciso final, nuevo:
+
+"En un reglamento se definirá el mecanismo de seguimiento y supervisión de las obras bonificadas por esta ley, además de las condiciones para los concursos de renovación de sistemas de riego.".
+
+16. Sustitúyese el artículo 15, por el siguiente:
 
 #### Artículo 15
 
@@ -330,26 +340,70 @@ La bonificación que establece esta ley se financiará con los recursos que cada
 
 Dicha Ley de Presupuestos del Sector Público incluirá los recursos necesarios para financiar el gasto anual que demande la aplicación de la presente ley. La correspondiente glosa presupuestaria deberá identificar fondos separados con los montos que anualmente podrán comprometerse en llamados a concurso, con distinción de aquellas obras cuyo costo no supere las 20.000 unidades de fomento y aquéllas que superen dicho monto.
 
-La Comisión deberá actuar coordinadamente y propender a la unidad de acción, y evitará la duplicación o interferencia de funciones con los demás servicios con competencias en la materia. Para lo anterior, la Comisión en conjunto con los gobiernos regionales y otros servicios públicos podrán celebrar convenios, mandatos o de programación, anuales o plurianuales, con el objeto de fomentar la inversión en obras de riego y drenaje, y promover la eficiencia hídrica, en los términos establecidos por la presente ley. Asimismo, la Comisión deberá propender a establecer convenios de colaboración y traspaso de información con otros organismos públicos, tales como Tesorería General de la República, Servicio de Impuestos Internos, Servicio Agrícola y Ganadero, Instituto de Desarrollo Agropecuario, Dirección General de Aguas, entre otros servicios relacionados, atendiendo la reserva y resguardo de la información que establezca la normativa vigente.
+La Comisión deberá actuar coordinadamente y propender a la unidad de acción, y evitará la duplicación o interferencia de funciones con los demás servicios con competencias en la materia. Para lo anterior, la Comisión en conjunto con los gobiernos regionales y otros servicios públicos podrán celebrar convenios, mandatos o de programación, anuales o plurianuales, con el objeto de fomentar la inversión en obras de riego y drenaje, y promover la eficiencia hídrica, en los términos establecidos por la presente ley. Asimismo, la Comisión deberá propender a establecer convenios de colaboración y traspaso de información con otros organismos públicos, tales como Tesorería General de la República, Servicio de Impuestos Internos, Servicio Agrícola y Ganadero, Instituto de Desarrollo Agropecuario, Dirección General de Aguas, entre otros servicios relacionados, atendiendo la reserva y resguardo de la información que establezca la normativa vigente.".
 
-#### Artículo 16
+#### Artículo 2
 
-Esta ley rige desde el 1° de enero de
+Prorrógase la vigencia de la ley N° 18.450, que aprueba normas para el fomento de la inversión privada en obras de riego y drenaje, por el plazo de siete años, a contar de la fecha de término de la renovación aprobada por el artículo 45 de la ley N° 21.526.
 
-1986.
+Los beneficios que otorga la ley Nº 18.450 y sus modificaciones serán sometidos a una evaluación de impacto, la que deberá contar con el marco metodológico definido en el inciso siguiente al cuarto año de la presente prórroga, y deberá estar terminada antes del sexto año de iniciada la referida prórroga.
 
-#### Artículo 17
+La evaluación deberá ser realizada por una entidad externa al Ministerio de Agricultura, y se desarrollará en base a un marco metodológico elaborado conjuntamente entre la Dirección de Presupuestos del Ministerio de Hacienda y la Comisión Nacional de Riego del Ministerio de Agricultura. Esta última deberá diseñar y poner en funcionamiento un mecanismo de información que permita contar con antecedentes necesarios para la evaluación, y podrá coordinar acciones, tanto para la elaboración de los términos de referencia como para el diseño del mecanismo de información, con el Instituto Nacional de Estadísticas, la Oficina de Estudios y Políticas Agrarias y el Servicio de Impuestos Internos.
 
-Los reglamentos de esta ley serán fijados mediante decreto supremo del Ministerio de Agricultura, previa aprobación del Consejo de Ministros de la Comisión Nacional de Riego.
+Durante el sexto año de vigencia de la ley, el Presidente de la República deberá enviar al Congreso Nacional un proyecto de ley de fomento e incentivo a la inversión privada en obras de riego y drenaje que considere la evaluación de impacto a la que se refiere este artículo.
 
-JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea, Miembro de la Junta de Gobierno.- RODOLFO STANGE OELCKERS, General Director de Carabineros, Miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ejército, Miembro de la Junta de Gobierno.
+#### Artículo 3
 
-Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en señal de promulgación.
+Transfórmase un cargo de Jefe de Departamento de la planta de personal de la Comisión Nacional de Riego, Grado 4° EUS, regido por el artículo 8º de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, en un cargo de Jefe de División, Grado 3º EUS, de segundo nivel jerárquico afecto al Sistema de Alta Dirección Pública establecido en la ley Nº 19.882. La transformación antes indicada comenzará a regir a contar del día siguiente a que el cargo de Jefe de Departamento, Grado 4º, que ejerce como Jefe de Departamento Fomento al Riego, quede vacante por cualquier causal.
 
-Llévese a efecto como Ley de la República.
+#### Artículo 4
 
-Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.
+Elimínase la frase "y curso de secretariado de 1.000 horas", en el acápite "Profesionales grado 10 y 14", letra a), del artículo único del decreto con fuerza de ley N° 3/18.834, de 1990, del Ministerio de Economía, Fomento y Reconstrucción, que adecua plantas y escalafones de la Comisión Nacional de Riego al artículo 5° de la ley N° 18.834, sobre Estatuto Administrativo.".
 
-Santiago, 22 de octubre de 1985.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Büchi Buc, Ministro de Hacienda.- Juan Carlos Délano Ortúzar, Ministro de Economía, Fomento y Reconstrucción.- Bruno Siebert Held, Brigadier General, Ministro de Obras Públicas.- Jorge Prado Aránguiz, Ministro de Agricultura.
+#### Artículo 5
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Jaime de la Sotta Benavente, Subsecretario de Agricultura.
+Introdúcense las siguientes modificaciones en el decreto ley N° 1.172, de 1975, que crea la Comisión Nacional de Riego, cuyo texto refundido fue fijado por el decreto con fuerza de ley N° 7, de 1983, del Ministerio de Economía, Fomento y Reconstrucción:
+
+a) Reemplázase en la letra a) del artículo 2° la expresión "y el Ministro de Planificación y Cooperación" por "; el Ministro de Desarrollo Social y Familia, y el Ministro del Medio Ambiente".
+
+b) Sustitúyese en la letra b) del artículo 2° las expresiones "Secretaría Ejecutiva" por "Dirección Ejecutiva" y "Secretario Ejecutivo" por "Director Ejecutivo".
+
+c) Reemplázase en la letra c) del artículo 3º la expresión "sobre estudios o proyectos integrales de riego", por el siguiente texto: "para la elaboración de estudios integrales de riego, diseño y ejecución de proyectos de riego o drenaje y sus obras anexas en beneficio de pequeños agricultores u organizaciones de usuarios de aguas con mayoría de pequeños agricultores que puedan ser postulados a los beneficios de la ley N° 18.450, que aprueba normas para el fomento de la inversión privada en obras de riego y drenaje".
+
+d) Sustitúyese en la letra h) del artículo 3° la expresión "Secretario Ejecutivo" por "Director Ejecutivo".
+
+e) En el artículo 4°:
+
+i. Sustitúyese en el encabezamiento, la expresión "Secretaría Ejecutiva" por "Dirección Ejecutiva".
+
+ii. Reemplázase en el párrafo segundo de la letra e) la expresión "Secretario Ejecutivo" por "Director Ejecutivo".
+
+f) Agrégase en el inciso final del artículo 9° la siguiente oración final: "En caso de empate, decidirá el voto del presidente del Consejo.".
+
+#### Artículo 6
+
+Intercálase en el inciso tercero del artículo 171 del Código de Aguas, entre las expresiones "Dirección de Obras Hidráulicas." y "Estos servicios", la siguiente oración: "La excepción indicada también se aplicará a los proyectos en cauces artificiales gestionados o financiados por la Comisión Nacional de Riego, los que deberán ser aprobados y recepcionados técnicamente por dicho Servicio.".
+
+Disposiciones transitorias
+
+#### Artículo primero
+
+Los reglamentos de la ley N° 18.450 deberán adecuarse a la presente ley dentro del plazo de nueve meses, contado desde su publicación en el Diario Oficial.
+
+#### Artículo segundo
+
+Para los efectos de lo señalado en el artículo 7, en lo relativo a la orden de pago del Certificado de Bonificación al Riego y Drenaje, no será exigible la inscripción en el Registro Público de Aprovechamiento de Aguas en los plazos estipulados en los artículos primero y segundo transitorios de la ley N° 21.435, que reforma el Código de Aguas, y sus modificaciones.
+
+#### Artículo tercero
+
+El mayor gasto fiscal que signifique la aplicación de esta ley en su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Ministerio de Agricultura. No obstante lo anterior, el Ministerio de Hacienda, con cargo a la partida presupuestaria Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no se pudiere financiar con tales recursos. Para los años posteriores el gasto se financiará con cargo a los recursos que se contemplen en las respectivas leyes de presupuestos del sector público.
+
+#### Artículo cuarto
+
+Los concursos especiales señalados en el artículo 6° quáter de la ley N° 18.450 podrán implementarse a contar del cuarto año desde la fecha de publicación de esta ley. Sólo podrá destinarse a estos concursos hasta un máximo del 3% de los recursos anuales disponibles para bonificaciones.".
+
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
+
+Santiago, 8 de septiembre de 2023.- GABRIEL BORIC FONT, Presidente de la República.- Esteban Valenzuela van Treek, Ministro de Agricultura.- Mario Marcel Cullell, Ministro de Hacienda.- Jéssica López Saffie, Ministra de Obras Públicas.- María Heloísa Rojas Corradi, Ministra del Medio Ambiente.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Ignacia Fernández Gatica, Subsecretaria de Agricultura.

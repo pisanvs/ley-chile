@@ -146,33 +146,71 @@ ___
 
 6
 
-Establécense los siguientes requisitos para el ingreso y promoción en las plantas y cargos que se indican:
+Establécense los siguientes requisitos para el ingreso
+
+y promoción en las plantas y cargos que se indican:
 
 Planta de Directivos
 
 Jefe de Sección
 
-Título de Técnico de una carrera con currículum inferior a seis semestres, otorgado por un establecimiento de Educación Superior del Estado o reconocido por éste.
+Título de Técnico de una carrera con currículum
+
+inferior a seis semestres, otorgado por un
+
+establecimiento de Educación Superior del Estado
+
+o reconocido por éste.
 
 Planta de Profesionales
 
 Profesionales grados 5 y 6:
 
-a) Título profesional de una carrera de a lo menos 8 semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste,
+a) Título profesional de una carrera de a lo menos 8
+
+semestres de duración, otorgado por una Universidad o
+
+Instituto Profesional del Estado o reconocido por éste,
 
 o
 
-b) Título profesional de una carrera de a lo menos 6 semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste, y desempeño de a lo menos 1 año en la Administración del Estado en cargos de la Planta de Profesionales, o en cargos que hubieren pertenecido a escalafones que han pasado a integrar esta planta. Profesionales grado 10 y 14:
+b) Título profesional de una carrera de a lo menos
 
-a) Título profesional de técnico universitario con carrera de 6 semestres a lo menos y curso de secretariado de 1.000 horas.
+6 semestres de duración, otorgado por una Universidad
+
+o Instituto Profesional del Estado o reconocido por
+
+éste, y desempeño de a lo menos 1 año en la
+
+Administración del Estado en cargos de la Planta de
+
+Profesionales, o en cargos que hubieren pertenecido
+
+a escalafones que han pasado a integrar esta planta.
+
+Profesionales grado 10 y 14:
+
+a) Título profesional de técnico universitario con
+
+carrera de 6 semestres a lo menos.
 
 Planta de Administrativos
 
-a) Licencia de educación media o equivalente, curso de secretariado de 200 horas. Experiencia: 2 años y 6 meses.
+a) Licencia de educación media o equivalente, curso de
+
+secretariado de 200 horas. Experiencia: 2 años y 6
+
+meses.
 
 Planta de Auxiliares
 
-Haber aprobado la educación básica; además, el cargo de auxiliar grado 23 y un cargo de auxiliar grado 25, requerirán estar en posesión de licencia para conducir clase A.
+Haber aprobado la educación básica; además, el cargo
+
+de auxiliar grado 23 y un cargo de auxiliar grado 25,
+
+requerirán estar en posesión de licencia para conducir
+
+clase A.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Pedro Larrondo Jara, Contralmirante, Ministro de Economía, Fomento y Reconstrucción.- Carlos Cáceres Contreras, Ministro del Interior.- Martín Costabal Llona, Ministro de Hacienda.
 

@@ -26,235 +26,361 @@ del Ministerio de Agricultura.
 
 #### Artículo 2°
 
-Artículo 2°.- La Comisión estará
+Artículo 2°.- La Comisión
 
-D.L. 1.172 de 1975 compuesta por los siguientes
+D.L. 1.172 estará compuesta por los
 
-organismos:
+de 1975 siguientes organismos:
 
-a) Un Consejo, integrado por el
+a) Un Consejo, integrado
 
-Ministro de Agricultura, quien
+por el Ministro de
 
-lo presidirá; el Ministro de
+Agricultura, quien
 
-Economía, Fomento y Reconstrucción;
+lo presidirá; el
 
-el Ministro de Hacienda; el
+Ministro de Economía,
 
-Ministro de Obras Públicas y el
+Fomento y Reconstrucción;
 
-Ministro de Planificación y
+el Ministro de Hacienda;
 
-Cooperación.
+el Ministro de Obras
 
-b) Una Secretaría Ejecutiva, a
+Públicas; el Ministro
 
-cargo de un Secretario
+de Desarrollo Social
 
-Ejecutivo designado por el
+y Familia, y el
 
-Consejo.
+Ministro del
+
+Medio Ambiente.
+
+b) Una Dirección Ejecutiva,
+
+a cargo de un Director
+
+Ejecutivo designado por
+
+el Consejo.
 
 #### Artículo 3°
 
-Artículo 3°.- El Consejo tendrá las
+Artículo 3°.- El Consejo
 
-DL. 1.172 de 1975 siguientes funciones y atribuciones:
+DL. 1.172 tendrá las siguientes
 
-a) Planificar, estudiar y elaborar
+de 1975 funciones y atribuciones:
 
-proyectos integrales de riego;
+a) Planificar, estudiar
+
+y elaborar proyectos
+
+integrales de riego;
 
 #### Artículo 21
 
-b) Evaluar los proyectos de riego
+b) Evaluar los proyectos
 
-DFL. 1.123 de que elabore o se le presenten;
+DFL. 1.123 de riego que elabore
 
-1981, del c) Celebrar convenios con
+de 1981, del o se le presenten;
 
-Ministerio de particulares o con empresas
+Ministerio c) Celebrar convenios
 
-Justicia nacionales o extranjeras sobre
+de Justicia con particulares o con
 
-estudios o proyectos integrales
+empresas nacionales o
 
-de riego;
+extranjeras
 
-d) Supervigilar, coordinar y
+para la elaboración
 
-complementar la acción de los
+de estudios integrales
 
-diversos organismos públicos y
+de riego, diseño y
 
-privados que intervienen en la
+ejecución de proyectos
 
-construcción, destinación y
+de riego o drenaje y
 
-explotación de obras de riego;
+sus obras anexas en
 
-e) Proporcionar a los organismos
+beneficio de pequeños
 
-que corresponda, los antecedentes
+agricultores u
 
-para la asignación de los
+organizaciones de
 
-recursos nacionales o
+usuarios de aguas
 
-internacionales, necesarios para
+con mayoría de pequeños
 
-la consecución de sus fines y
+agricultores que
 
-gestionar su obtención;
+puedan ser postulados a
 
-f) Representar al Estado en la
+los beneficios de la
 
-obtención de créditos externos,
+ley N° 18.450, que
 
-de acuerdo con las normas legales
+aprueba normas para el
 
-vigentes, para los fines del
+fomento de la inversión
 
-presente decreto ley;
+privada en obras de
 
-g) Adoptar los acuerdos necesarios
+riego y drenaje;
 
-para la obtención del objeto que
+d) Supervigilar,
 
-señala el presente decreto ley, y
+coordinar y complementar
 
-h) Implementar por intermedio
+la acción de los
 
-del Secretario Ejecutivo o de los
+diversos organismos
 
-servicios dependientes o que se
+públicos y privados
 
-relacionan con el Supremo
+que intervienen en la
 
-Gobierno, a través de los
+construcción,
 
-Ministerios de Economía, Fomento
+destinación y explotación
 
-y Reconstrucción, Obras Públicas
+de obras de riego;
 
-y Agricultura, las funciones que
+e) Proporcionar a los
+
+organismos que corresponda,
+
+los antecedentes para la
+
+asignación de los recursos
+
+nacionales o internacionales,
+
+necesarios parala
+
+consecución de sus fines
+
+y gestionar su obtención;
+
+f) Representar al Estado
+
+en la obtención de créditos
+
+externos, de acuerdo con
+
+las normas legales
+
+vigentes, para los fines
+
+del presente decreto ley;
+
+g) Adoptar los acuerdos
+
+necesarios para la
+
+obtención del objeto
+
+que señala el presente
+
+decreto ley, y
+
+h) Implementar por
+
+intermedio del Director
+
+Ejecutivo o de los
+
+servicios dependientes o
+
+que se relacionan con
+
+el Supremo Gobierno, a
+
+través de los Ministerios
+
+de Economía, Fomento y
+
+Reconstrucción, Obras
+
+Públicas y Agricultura,
+
+las funciones que
 
 estime convenientes.
 
 #### Artículo 4°
 
-Artículo 4°.- Corresponderá a la
+Artículo 4°.- Corresponderá
 
-D.L. 1.172 de 1975 Secretaría Ejecutiva:
+D.L. 1.172 a la Dirección Ejecutiva:
 
-a) Ejecutar los acuerdos del
+de 1975 a) Ejecutar los acuerdos
 
-Consejo;
+del consejo;
 
-b) Presentar al Consejo un programa
+b) Presentar al Consejo
 
-anual de acción;
+un programa anual de
 
-c) Solicitar en comisión de
+acción;
 
-servicios a los funcionarios
+c) Solicitar en comisión
 
-públicos, que el Consejo
+de servicios a los
 
-determine. Estas comisiones de
+funcionarios públicos,
 
-Servicios no estarán sujetas a
+que el Consejo determine.
 
-las limitaciones de plazo que
+Estas comisiones de
 
-señala el D.F.L. N° 338, de
+Servicios no estarán
 
-1960, u otras disposiciones
+sujetas a las limitaciones
+
+de plazo que señala
+
+el D.F.L. N° 338, de
+
+1960, u otras
+
+disposiciones
 
 estatutarias;
 
-d) Designar los funcionarios que
+d) Designar los
 
-el Consejo determine como
+funcionarios que el
 
-necesarios para el cumplimiento
+Consejo determine como
 
-de las funciones de la Comisión,
+necesarios para el
 
-imputando el gasto correspondiente
+cumplimiento de las
+
+funciones de la
+
+Comisión, imputando
+
+el gasto correspondiente
 
 al Presupuesto de dicha
 
-institución;
+institución; Este
 
-Este personal estará afecto a la
+personal estará afecto
 
-Escala Unica de Remuneraciones
+a la Escala Unica de
 
-establecida en el D.L. N° 249, de
+Remuneraciones
 
-1973, y se regirá por el D.F.L.
+establecida en el D.L.
 
-N° 338, de 1960;
+N° 249, de 1973, y
 
-e) Requerir información de todos
+se regirá por el
 
-los Ministerios, Servicios
+D.F.L. N° 338, de
 
-dependientes y descentralizados,
+1960;
 
-que sea necesaria para el
+e) Requerir información
 
-cumplimiento de sus funciones, los
+de todos los Ministerios,
 
-que deberán proporcionársela.
+Servicios dependientes
 
-El Secretario Ejecutivo será
+y descentralizados,
 
-el responsable del cumplimiento
+que sea necesaria para
 
-de los acuerdos ya aprobados,
+el cumplimiento de sus
 
-tendrá derecho a voz en las
+funciones, los que
 
-Sesiones del Consejo, y le
+deberán proporcionársela.
 
-corresponderá ejercer las
+El Director Ejecutivo
 
-atribuciones o funciones que le
+será el responsable
+
+del cumplimiento de
+
+los acuerdos ya
+
+aprobados, tendrá
+
+derecho a voz en
+
+las Sesiones del
+
+Consejo, y le
+
+corresponderá ejercer
+
+las atribuciones
+
+o funciones que le
 
 delegue el Consejo.
 
-f) Vender directamente informes
+f) Vender directamente
 
-definitivos o parciales de estudios
+informes definitivos
 
-integrales de riego; documentos de
+o parciales de estudios
 
-trabajo, fotografías aéreas y
+integrales de riego;
 
-diapositivas; planos topográficos,
+documentos de trabajo,
 
-hidrológicos, hidrogeológicos, de
+fotografías aéreas y
 
-suelos y de obras de ingeniería;
+diapositivas; planos
 
-gráficos; programas computacionales;
+topográficos,
 
-monografías y datos técnicos de
+hidrológicos,
 
-vértices trigonométricos, de puntos
+hidrogeológicos, de
 
-estereoscópicos y de puntos de
+suelos y de obras de
 
-nivelación y otros documentos
+ingeniería; gráficos;
 
-similares. Los recursos provenientes
+programas
 
-de estas enajenaciones ingresarán
+computacionales;
 
-a rentas generales de la Nación.
+monografías y datos
+
+técnicos de vértices
+
+trigonométricos, de
+
+puntos estereoscópicos
+
+y de puntos de
+
+nivelación y otros
+
+documentos similares.
+
+Los recursos
+
+provenientes de estas
+
+enajenaciones ingresarán
+
+a rentas generales de
+
+la Nación.
 
 #### Artículo 1°
 
@@ -330,39 +456,65 @@ a cualquier título.
 
 #### Artículo 5°
 
-Artículo 9°.- El Consejo de la
+Artículo 9°.- El Consejo
 
-DL. 1.172, de Comisión sesionará mensualmente
+DL. 1.172, de la Comisión sesionará
 
-1975 en forma ordinaria y
+de 1975 mensualmente en forma
 
-extraordinariamente, cuando sea
+ordinaria y
 
-convocado por alguno de sus
+extraordinariamente,
+
+cuando sea convocado
+
+por alguno de sus
 
 miembros.
 
-La ausencia de un Ministro deberá
+La ausencia de un
 
-subrogarse por el Subsecretario de
+Ministro deberá
 
-la misma Secretaría de Estado, pero
+subrogarse por el
 
-la presidencia del Consejo la
+Subsecretario de la
 
-ejercerá un Ministro titular, en el
+misma Secretaría de
 
-orden establecido en el artículo 2°
+Estado, pero la
 
-de este decreto ley.
+presidencia del Consejo
 
-El quórum para sesionar será de tres
+la ejercerá un Ministro
 
-miembros y los acuerdos se adoptarán
+titular, en el orden
 
-por la mayoría de los mismos en
+establecido en el
 
-ejercicio.
+#### Artículo 2°
+
+de este
+
+decreto ley.
+
+El quórum para sesionar
+
+será de tres miembros
+
+y los acuerdos se
+
+adoptarán por la
+
+mayoría de los mismos
+
+en ejercicio. En caso
+
+de empate, decidirá
+
+el voto del presidente
+
+del Consejo.
 
 #### Artículo 17°
 
