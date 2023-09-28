@@ -1736,7 +1736,7 @@ Para la determinación del valor máximo de 1.000 unidades de fomento, de las vi
 
 Se entenderá que las viviendas aludidas precedentemente cumplen con uno de los requisitos exigidos para obtener el subsidio del Estado, cuando se trata de conjuntos de viviendas en los términos que señala el artículo 6.1.2. de esta Ordenanza.
 
-4.- Para las construcciones industriales, de equipamiento, turismo y poblaciones, fuera de los límites urbanos, que no contemplen procesos de subdivisión, se solicitará la aprobación correspondiente de la Dirección de Obras Municipales, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva y del Servicio Agrícola y Ganadero.
+4.- Para las construcciones industriales, de infraestructura, de equipamiento, turismo y poblaciones, fuera de los límites urbanos, que no contemplen procesos de subdivisión, se solicitará la aprobación correspondiente de la Dirección de Obras Municipales, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva y del Servicio Agrícola y Ganadero.
 
 La solicitud ante el Director de Obras Municipales se tramitará conforme al procedimiento general que contempla esta Ordenanza, acompañando los antecedentes que señalan los artículos 5.1.5. ó 5.1.6. según se trate de anteproyecto o proyecto, respectivamente. Dicha Autoridad lo concederá si cuenta con los informes favorables respectivos antes aludidos y previa verificación del cumplimiento de las normas generales de edificación que contempla esta Ordenanza, sin perjuicio del pago de los derechos municipales que procedan.
 
@@ -1810,6 +1810,10 @@ Los destinos de salas cuna y jardines infantiles se entenderán siempre admitido
 
 Para los efectos de la elaboración del informe previo favorable que alude el artículo 58 de la Ley General de Urbanismo y Construcciones, el Director de Obras Municipales deberá corroborar que la actividad económica que se desea implementar en el respectivo predio es concordante con el uso de suelo establecido en el instrumento de planificación territorial vigente. La solicitud de este informe se resolverá en el plazo de 7 días y será remitido a la unidad de rentas y patentes del municipio.
 
+Los estacionamientos subterráneos serán considerados, para efectos de uso de suelo, como una actividad complementaria a cualquier tipo de uso, sin restricción respecto de su localización, salvo que se trate de zonas en que estén expresamente prohibidos en el Instrumento de Planificación Territorial.
+
+Las instalaciones necesarias para la generación de energía eléctrica distribuida para el autoconsumo mediante tecnología solar fotovoltaica, de manera individual o colectiva, que inyecten los excedentes de energía que de esta forma generen a la red de distribución, se entenderán siempre admitidas, como parte de las instalaciones eléctricas interiores en los predios en que se soliciten los permisos para los proyectos respectivos de cualquier destino, siempre que se declare así en la solicitud y se ajusten a la capacidad máxima instalada y demás requisitos establecidos en el artículo 149 bis del decreto con fuerza de ley Nº 4, del Ministerio de Economía, Fomento y Reconstrucción, de 2006, y decreto supremo Nº 57, del Ministerio de Energía, de 2019 que Aprueba Reglamento de Generación Distribuida para Autoconsumo, o aquel que lo reemplace. Sin perjuicio de lo dispuesto en el artículo 2.6.3. de esta Ordenanza respecto de paneles solares, las instalaciones reguladas en este inciso deberán cumplir con la norma de altura máxima de edificación aplicable al proyecto de acuerdo al Instrumento de Planificación Territorial respectivo, y cuando se localicen en terrenos con uso de suelo espacio público o área verde, regulados respectivamente en los artículos 2.1.30. y 2.1.31. de esta Ordenanza, la superficie que ocupen las mencionadas instalaciones deberán estar incluidas en los porcentajes máximos permitidos en tales artículos. La naturaleza de las instalaciones a que se refiere este inciso, así como su correcta instalación, deberán acreditarse ante la Dirección de Obras Municipales acompañando a la solicitud de recepción definitiva de los proyectos que las contemplen, copia de la respuesta a la Solicitud de Conexión emitida por la Empresa Distribuidora y copia de Comunicación de Energización, con constancia de acuso de recibo en la Superintendencia de Electricidad y Combustibles.
+
 #### Artículo 2
 
 1.25. El tipo de uso Residencial contempla preferentemente el destino vivienda, e incluye hogares de acogida, así como edificaciones y locales destinados al hospedaje, sea éste remunerado o gratuito, siempre que no presten servicios comerciales adjuntos, tales como bares, restaurantes o discotecas, en cuyo caso requerirán que en el lugar donde se emplazan esté admitido algún uso comercial.
@@ -1838,127 +1842,211 @@ Los Planos Reguladores Comunales podrán establecer porcentajes distintos para t
 
 1.28. El tipo de uso Actividades Productivas comprende a todo tipo de industrias y aquellas instalaciones de impacto similar al industrial, tales como grandes depósitos, talleres o bodegas industriales. El Instrumento de Planificación Territorial podrá establecer limitaciones a su instalación, sin perjuicio del cumplimiento de las normas ambientales y demás disposiciones pertinentes.
 
-Las actividades productivas señaladas en el inciso anterior pueden ser calificadas como inofensivas, molestas, insalubres, contaminantes o peligrosas por la Secretaría Regional Ministerial de Salud correspondiente. Sin embargo, las que cuenten con calificación de dicha Secretaría Regional Ministerial como actividad inofensiva podrán asimilarse al uso de suelo Equipamiento de clase comercio o servicios, previa autorización del Director de Obras Municipales cuando se acredite que no producirán molestias al vecindario.
+Las actividades productivas señaladas en el inciso anterior pueden ser calificadas como inofensivas, molestas, insalubres, contaminantes o peligrosas por la Secretaría Regional Ministerial de Salud correspondiente. Sin embargo, las que cuenten con calificación de dicha Secretaría Regional Ministerial como actividad inofensiva podrán asimilarse al uso de suelo Equipamiento de clase comercio o servicios.
 
-En aquellos casos en que el instrumento de planificación territorial permita la actividad de industria, estará siempre admitido el emplazamiento de las instalaciones o edificaciones destinadas a infraestructura que sean calificadas conforme al artículo 4.14.2. de esta Ordenanza, en forma idéntica o con menor riesgo al de la actividad permitida. Con todo, el instrumento de planificación territorial que corresponda podrá prohibir la aplicación de este inciso dentro de su territorio.
+En aquellos casos en que el instrumento de planificación territorial permita la actividad de industria, estará admitido el emplazamiento de las instalaciones o edificaciones destinadas a infraestructura que sean calificadas conforme al artículo 4.14.2. de esta Ordenanza, en forma idéntica o con menor riesgo al de la actividad permitida. Con todo, el instrumento de planificación territorial que corresponda podrá prohibir la aplicación de este inciso dentro de su territorio.
 
 #### Artículo 2
 
-1.29. El tipo de uso Infraestructura se
+1.29. El tipo de uso
 
-refiere a las edificaciones o instalaciones y a las
+Infraestructura se refiere a las
+
+edificaciones o instalaciones y a las
 
 redes o trazados destinadas a:
 
-- Infraestructura de transporte, tales como, vías y
+- Infraestructura de transporte,
 
-estaciones ferroviarias, terminales de transporte
+tales como, vías y estaciones
 
-terrestre, recintos marítimos o portuarios,
+ferroviarias, terminales de
 
-instalaciones o recintos aeroportuarios, etc.
+transporte terrestre, recintos
 
-- Infraestructura sanitaria, tales como, plantas de
+marítimos o portuarios,
 
-captación, distribución o tratamiento de agua
+instalaciones o recintos
 
-potable o de aguas servidas, de aguas lluvia,
+aeroportuarios, etc.
 
-rellenos sanitarios, estaciones exclusivas de
+- Infraestructura sanitaria,
 
-transferencia de residuos, etc.
+tales como, plantas de captación,
 
-- Infraestructura energética, tales como, centrales
+distribución o tratamiento de
 
-de generación o distribución de energía, de gas y
+agua potable o de aguas servidas,
 
-de telecomunicaciones, gasoductos, etc.
+de aguas lluvia, rellenos
 
-Las redes de distribución, redes de comunicaciones
+sanitarios, estaciones exclusivas
 
-y de servicios domiciliarios y en general los trazados
+de transferencia de residuos, etc.
 
-de infraestructura se entenderán siempre admitidos y
+- Infraestructura energética,
 
-se sujetarán a las disposiciones que establezcan los
+tales como, centrales
 
-organismos competentes. El instrumento de
+de generación o distribución
 
-planificación territorial deberá reconocer las fajas
+de energía, de gas y
 
-o zonas de protección determinadas por la normativa
+de telecomunicaciones, gasoductos,
 
-vigente y destinarlas a áreas verdes, vialidad o
+etc.
 
-a los usos determinados por dicha normativa.
+Las redes de distribución, redes
 
-Para estos efectos se entenderá por redes y
+de comunicaciones y de servicios
 
-trazados, todos los componentes de conducción,
+domiciliarios y en general los
 
-distribución, traslado o evacuación, asociados a
+trazados de infraestructura se
 
-los elementos de infraestructura indicados en el
+entenderán siempre admitidos y
 
-inciso anterior.
+se sujetarán a las disposiciones
 
-El Instrumento de Planificación Territorial
+que establezcan los organismos
 
-respectivo definirá en las áreas al interior del
+competentes. El instrumento de
 
-límite urbano, las normas urbanísticas que regulen
+planificación territorial deberá
 
-el emplazamiento de las instalaciones o edificaciones
+reconocer las fajas o zonas de
 
-necesarias para este tipo de uso, que no formen parte
+protección determinadas por la
 
-de la red, sin perjuicio del cumplimiento de las normas
+normativa vigente y destinarlas
 
-ambientales, de las normas de la Ley General de Urbanismo
+a áreas verdes, vialidad o
 
-y Construcciones, de esta Ordenanza y demás disposiciones
+a los usos determinados por dicha
 
-pertinentes. En el área rural de los planes reguladores
+normativa.
 
-intercomunales o metropolitanos, dichas instalaciones o
+Para estos efectos se entenderá
 
-edificaciones estarán siempre admitidas y se sujetarán
+por redes y trazados, todos los
 
-a las disposiciones que establezcan los organismos
+componentes de conducción,
 
-competentes, sin perjuicio del cumplimiento de la
+distribución, traslado o evacuación,
 
-ley 19.300 y de lo dispuesto en el artículo 55 del
+asociados a
 
-DFL N°458 (V. y U.), de 1975, Ley General de
+los elementos de infraestructura
+
+indicados en el inciso anterior.
+
+El Instrumento de Planificación
+
+Territorial respectivo definirá
+
+en las áreas al interior del
+
+límite urbano, las normas
+
+urbanísticas que regulen
+
+el emplazamiento de las
+
+instalaciones o edificaciones
+
+necesarias para este tipo de
+
+uso, que no formen parte
+
+de la red, sin perjuicio del
+
+cumplimiento de las normas
+
+ambientales, de las normas de
+
+la Ley General de Urbanismo
+
+y Construcciones, de esta
+
+Ordenanza y demás disposiciones
+
+pertinentes. En el área rural
+
+de los planes reguladores
+
+intercomunales o metropolitanos,
+
+dichas instalaciones o
+
+edificaciones estarán siempre
+
+admitidas y se sujetarán
+
+a las disposiciones que
+
+establezcan los organismos
+
+competentes, sin perjuicio
+
+del cumplimiento de la
+
+ley 19.300 y de lo dispuesto
+
+en el artículo 55 del
+
+DFL N°458 (V. y U.), de 1975,
+
+Ley General de
 
 Urbanismo y Construcciones.
 
-Las instalaciones o edificaciones de este tipo
-
-de uso que contemplen un proceso de transformación
-
-deberán ser calificadas por la Secretaría Regional
-
-Ministerial de Salud respectiva, de conformidad a
-
-lo preceptuado en el artículo 4.14.2. de esta
-
-Ordenanza.
-
 Las instalaciones o edificaciones de
 
-infraestructura en el área rural, requerirán las
+este tipo
 
-autorizaciones exigidas para las construcciones de
+de uso que contemplen un proceso
 
-equipamiento conforme al artículo 55º de la Ley
+de transformación deberán ser
 
-General de Urbanismo y Construcciones, siempre que
+calificadas por la Secretaría
 
-no contemplen procesos productivos. En caso
+Regional Ministerial de Salud
 
-contrario se considerarán como industria.
+respectiva, de conformidad a lo
+
+preceptuado en el artículo 4.14.2.
+
+de esta Ordenanza. En el caso
+
+de instalaciones o edificaciones
+
+destinadas a infraestructura
+
+energética, cuando dicha
+
+calificación corresponda
+
+a actividad inofensiva,
+
+podrán asimilarse al uso
+
+de suelo equipamiento de
+
+clase comercio o servicio.
+
+El instrumento de planificación
+
+territorial que
+
+corresponda podrá prohibir
+
+la aplicación de esta
+
+regla de asimilación dentro
+
+de la totalidad o parte o de
+
+su territorio.
 
 #### Artículo 2
 
@@ -2904,9 +2992,7 @@ Con todo, el Plan Regulador Comunal no podrá hacer exigencias de estacionamient
 
 #### Artículo 2
 
-4.2. Los estacionamientos subterráneos en predios de dominio privado serán considerados como una actividad complementaria a cualquier uso de suelo, sin restricción respecto de su localización, salvo que se trate de zonas en que estén expresamente prohibidos en el Plan Regulador Comunal o Seccional.
-
-Las exigencias de estacionamientos deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios o edificaciones que consulten estacionamientos y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio. En este último caso deberá cumplirse con las disposiciones señaladas en este artículo.
+4.2. Las exigencias de estacionamientos deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios o edificaciones que consulten estacionamientos y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio. En este último caso deberá cumplirse con las disposiciones señaladas en este artículo.
 
 Para los casos de estacionamientos ubicados en otros predios o edificaciones, la distancia entre el acceso de éstos y el acceso del edificio que genera la obligación, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 300 m tratándose de edificios de vivienda y 600 m en caso de otros usos.
 
@@ -7448,6 +7534,18 @@ La instalación de antenas adosadas a edificios existentes no requerirá del men
 
 8. La ejecución de obras de jardinería y ornato en predios privados, incluida su correspondiente solución de riego, siempre que no correspondan a las obras de urbanización señaladas en el artículo 3.2.11. de esta Ordenanza.
 
+9. Las instalaciones en una edificación existente necesarias para la generación de energía eléctrica distribuida para el autoconsumo mediante tecnología solar fotovoltaica, de manera individual o colectiva, que se ajusten a la capacidad máxima instalada y demás requisitos establecidos en el artículo 149 bis del decreto con fuerza de ley Nº 4, del Ministerio de Economía, Fomento y Reconstrucción, de 2006, y sus reglamentos.
+
+Respecto de estas instalaciones, al finalizar las respectivas obras, el propietario deberá presentar un expediente a la Dirección de Obras Municipales que contendrá los siguientes documentos y antecedentes:
+
+a) Planos de las instalaciones que se incorporan o modifican, con indicación de los distanciamientos, altura máxima y rasantes aplicables en el predio.
+
+b) Copia de la respuesta a la Solicitud de Conexión emitida por la Empresa Distribuidora de Electricidad.
+
+c) Copia de Comunicación de Energización, con constancia de acuso de recibo en la Superintendencia de Electricidad y Combustibles.
+
+Para estos efectos, la Dirección de Obras Municipales deberá dar cumplimiento al procedimiento descrito en el párrafo tercero del numeral 1. del presente artículo.
+
 En todos los casos previstos en este artículo, la ejecución de las obras que no requieren permiso del Director de Obras Municipales, no exime al propietario del cumplimento de todas y cada una de las normas legales, reglamentarias o técnicas aplicables a estas obras, así como tampoco lo exime de la obligación de contar con los profesionales competentes o técnicos responsables que señale esa misma normativa.
 
 #### Artículo 5
@@ -7882,6 +7980,8 @@ El pronunciamiento del Director de Obras Municipales deberá recaer sobre las no
 
 En los casos que se tratare de un anteproyecto de loteo con construcción simultánea, en un solo expediente se deberán acompañar los antecedentes indicados en el inciso primero de este artículo y los señalados en los números 1, 2, 4., 5. y 6. del artículo 3.1.4. de esta Ordenanza.
 
+Las solicitudes de anteproyectos ubicados fuera de los límites urbanos establecidos en los Instrumentos de Planificación Territorial, deberán dar cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, debiendo adjuntar las autorizaciones o informes que correspondan.
+
 En la etapa de anteproyecto, la contratación de un Revisor Independiente siempre será voluntaria por parte del propietario, aun cuando se trate de un edificio de uso público.
 
 #### Artículo 5
@@ -7890,47 +7990,79 @@ En la etapa de anteproyecto, la contratación de un Revisor Independiente siempr
 
 1. Solicitud firmada por el propietario y el arquitecto proyectista, indicando en ella o acompañando, según corresponda, los siguientes antecedentes:
 
-a) Lista de todos los documentos y planos
+a) Lista de todos los
 
-numerados que conforman el expediente,
+documentos y planos
 
-firmada por el arquitecto proyectista.
+numerados que conforman
 
-b) Declaración simple del propietario de ser
+el expediente, firmada
 
-titular del dominio del predio.
+por el arquitecto
 
-c) Las disposiciones especiales a que se
+proyectista.
 
-acoge el proyecto, en su caso.
+b) Declaración simple del
 
-d) Los profesionales competentes que
+propietario de ser
 
-intervienen en los proyectos.
+titular del dominio del
 
-e) Si el proyecto consulta, en todo o parte,
+predio.
+
+c) Las disposiciones especiales
+
+a que se acoge el proyecto,
+
+en su caso.
+
+d) Los profesionales
+
+competentes que
+
+intervienen en los
+
+proyectos.
+
+e) Si el proyecto consulta,
+
+en todo o parte,
 
 edificios de uso público.
 
-f) Si cuenta con informe favorable de un
+f) Si cuenta con informe
 
-Revisor Independiente y la
+favorable de un
 
-individualización de éste.
+Revisor Independiente
 
-g) Si cuenta con informe favorable de Revisor
+y la individualización
 
-de Proyecto de Cálculo Estructural y la
+de éste.
 
-individualización de éste.
+g) Si cuenta con informe
 
-h) Si cuenta con anteproyecto aprobado y
+favorable de Revisor
 
-vigente que haya servido de base para el
+de Proyecto de Cálculo
 
-desarrollo del proyecto, acompañando
+Estructural y la
 
-fotocopia de la resolución de aprobación.
+individualización de
+
+éste.
+
+h) Si cuenta con anteproyecto
+
+aprobado y vigente que
+
+haya servido de base para
+
+el desarrollo del proyecto,
+
+acompañando fotocopia de
+
+la resolución de aprobación.
 
 2. Fotocopia del Certificado de Informaciones Previas vigente o bien del que sirvió de base para desarrollar el anteproyecto vigente y de la plancheta catastral si ésta hubiere sido proporcionada .
 
@@ -7944,91 +8076,133 @@ fotocopia de la resolución de aprobación.
 
 7. Planos de arquitectura numerados, que deberán contener :
 
-a) Ubicación del predio, señalando su
+a) Ubicación del predio,
 
-posición relativa respecto de los terrenos
+señalando su posición
 
-colindantes y espacios de uso público.
+relativa respecto de
 
-Esta información gráfica podrá consultarse
+los terrenos colindantes
 
-dentro del plano de emplazamiento.
+y espacios de uso público.
 
-b) Emplazamiento de el o los edificios, en
+Esta información gráfica
 
-que aparezca su silueta en sus partes más
+podrá consultarse dentro
 
-salientes, debidamente acotada y con
+del plano de emplazamiento.
 
-indicación de sus distancias hacia los
+b) Emplazamiento de el o los
 
-deslindes respectivos o entre edificios,
+edificios, en que aparezca
 
-si correspondiera, incluyendo los puntos
+su silueta en sus partes
 
-de aplicación de rasantes y sus cotas con
+más salientes, debidamente
 
-relación al nivel de suelo natural. En
+acotada y con indicación
 
-este plano se indicarán, además, los
+de sus distancias hacia
 
-accesos peatonales y vehiculares desde la
+los deslindes respectivos
 
-vía pública.
+o entre edificios, si
 
-c) Planta de todos los pisos, debidamente
+correspondiera, incluyendo
 
-acotadas, señalando el o los
+los puntos de aplicación
 
-destinos contemplados. Las cotas
+de rasantes y sus cotas
 
-deberán ser suficientes para permitir
+con relación al nivel de
 
-calcular la superficie edificada de
+suelo natural. En este
 
-cada planta.
+plano se indicarán, además,
 
-d) Cortes y elevaciones que ilustren los
+los accesos peatonales y
 
-puntos más salientes de la edificación,
+vehiculares desde la vía
 
-sus pisos y niveles interiores, la línea
+pública.
 
-de suelo natural y la rectificada del
+c) Planta de todos los pisos,
 
-proyecto, las rasantes en sus puntos más
+debidamente acotadas, señalando
 
-críticos con indicación de sus cotas de
+el o los destinos
 
-nivel, salvo que se ilustren en plano
+contemplados. Las cotas
 
-anexo, sus distanciamientos y la altura de
+deberán ser suficientes
 
-la edificación. En caso que haya
+para permitir calcular
 
-diferencias de nivel con el terreno vecino
+la superficie edificada
 
-o con el espacio público, se indicarán las
+de cada planta.
 
-cotas de éstos y el punto de aplicación de
+d) Cortes y elevaciones que
 
-las rasantes. Si se tratare de edificación
+ilustren los puntos más
 
-continua, se acotará la altura de ésta,
+salientes de la edificación,
 
-sobre la cual se aplicarán las rasantes
+sus pisos y niveles
 
-respectivas a la edificación aislada que
+interiores, la línea de
 
-se permita sobre ella. Los cortes
+suelo natural y la
 
-incluirán las escaleras y ascensores si
+rectificada del proyecto,
 
-los hubiere, las cotas verticales
+las rasantes en sus puntos
 
-principales y la altura libre bajo las
+más críticos con indicación
 
-vigas.
+de sus cotas de nivel,
+
+salvo que se ilustren en
+
+plano anexo, sus distancia-
+
+mientos y la altura de la
+
+edificación. En caso que haya
+
+diferencias de nivel con el
+
+terreno vecino o con el
+
+espacio público, se indicarán
+
+las cotas de éstos y
+
+el punto de aplicación de
+
+las rasantes. Si se tratare
+
+de edificación continua, se
+
+acotará la altura de ésta,
+
+sobre la cual se aplicarán
+
+las rasantes respectivas a la
+
+edificación aislada que
+
+se permita sobre ella. Los
+
+cortes incluirán las escaleras
+
+y ascensores si los hubiere,
+
+las cotas verticales
+
+principales y la altura libre
+
+bajo las vigas.
 
 e) Planta de cubiertas.
 
@@ -8068,7 +8242,7 @@ En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50.
 
 Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de este artículo, se agregarán dos nuevas copias, una vez que el expediente se encuentre apto para el otorgamiento del permiso. Igualmente y cuando el proyecto contemple ascensores y otras instalaciones similares, se agregarán dos copias adicionales de la carpeta señalada en el numeral 13 de este artículo, con todos sus antecedentes.
 
-Las solicitudes de permiso de edificación de las construcciones industriales, de equipamiento, turismo y poblaciones, ubicadas fuera de los límites urbanos, deberán acompañar además de los antecedentes que señala este artículo, los informes favorables de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola Ganadero.
+Las solicitudes de permiso de edificación de las construcciones ubicadas fuera de los límites urbanos establecidos en los Instrumentos de Planificación Territorial, deberán dar cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, debiendo adjuntar las autorizaciones o informes que correspondan.
 
 Se entienden incluidos en el permiso de edificación todas las autorizaciones o los permisos necesarios para la ejecución de una obra, tales como permisos de demolición, instalación de faenas, instalación de grúas y similares, cuando se hayan adjuntado los antecedentes respectivos.
 
