@@ -20,11 +20,13 @@ Decreto:
 
 1º.- Apruébase el programa de expropiaciones de terrenos destinados al proyecto "Mejoramiento Av. Gabriela Mistral, entre Av. Andes y Pablo Neruda, Temuco", de la comuna de Temuco, Región de la Araucanía, Código B.I.P. 40027574-0, según dan cuenta los Planos de Expropiaciones Lote 01, Lote 01a, Lote 02, Lote 03, Lote 04, Lote 05, Lote 06 y Lote 07, elaborados por el Servicio de Vivienda y Urbanización de la Región de la Araucanía, referidos a los inmuebles que se singularizan a continuación:
 
-Superficie total aproximada a expropiar: 6.648,68 metros cuadrados.
+Superficie total aproximada a expropiar: 11.686,13 m².
 
 2º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Cautín, si lo hubiere.
 
 > **Nota.** Los numerales 1° y 2° del Decreto 73 Exento, Vivienda, publicado el 13.12.2022, modifica la tabla inserta en el resuelvo 1° de la presente norma en el sentido de incrementar la superficie afecta a expropiar del lote 6, Rol S.I.I. 4035-2, propietario aparente "Inmobiliaria de Supermercados S.A." de "3.265,6 m2" a "5.489,28 m2", como asimismo la superficie total aproximada a expropiar señalada en el párrafo final del mismo resuelvo, de "6.648,68 m2" a "8.872,36 m2".
+
+> **Nota.** NOTA 1 El numeral 1º del Decreto 28 Exento, Vivienda, publicado el 30.09.2023, complementa la presente norma, en el sentido de incorporar el inmueble que se especifica a continuación: Lote 08-0, Rol SII Sin rol, Dirección Av. Gabriela Mistral S/N, Superficie Aproximada a expropiar (m2) 2.813,77, Propietario aparente Constructora Socovesa S.A.
 
 Anótese y publíquese.- Por orden del Presidente de la República, Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
