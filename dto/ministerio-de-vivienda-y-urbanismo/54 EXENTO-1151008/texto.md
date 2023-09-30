@@ -22,9 +22,11 @@ Decreto:
 
 1. Apruébase el Programa de Expropiaciones en la Región de Los Lagos, para la adquisición de los lotes ubicados en la comuna de Quellón, destinados a la implementación del proyecto "Obras Complementarias Normalización Hospital de Quellón, Provincia de Chiloé", en la referida comuna de Quellón, de la Región de Los Lagos, Código BIP N° 30083335, según Plano de Expropiaciones, Láminas Nos 1 y 2, elaborado a escala 1/750, el 10 de marzo de 2020 por el Serviu de la Región de Los Lagos, que se indican a continuación:
 
-Superficie total aproximada de inmuebles a expropiar: 875,24 metros cuadrados.
+Superficie total aproximada de inmuebles a expropiar: 1.206,24 m² (mil doscientos seis coma veinticuatro metros cuadrados).
 
 2. Publíquese el presente decreto en el Diario Oficial y en un periódico de la provincia de Chiloé, si lo hubiere.
+
+> **Nota.** El numeral 1 del Decreto 30 Exento, Vivienda, publicado el 30.09.2023, complementa la presente norma en el sentido de incorporar el inmueble cuyos datos se especifican en la citada norma.
 
 Anótese, notifíquese y publíquese.- Por orden del Presidente de la República, Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
