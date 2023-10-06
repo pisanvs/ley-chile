@@ -48,13 +48,15 @@ a. La concesionaria minera deberá ingresar, en formato digital, en la Oficina d
 
 La ubicación de los afloramientos podrá ser informada a través de:
 
-a) Polígono que identifique la zona donde estos de producen.
+a. Polígono que identifique la zona donde estos de producen.
 
-b) Ubicación de las obras que permitan el desaguado.
+b. Ubicación de las obras que permitan el desaguado.
 
-c) Cualquier otra referencia válida, permanente y verificable, que permita identificar la ubicación de los afloramientos de acuerdo al contexto hidrogeológico en que estos se registren.
+c. Cualquier otra referencia válida, permanente y verificable, que permita identificar la ubicación de los afloramientos de acuerdo al contexto hidrogeológico en que estos se registren.
 
 Se deberá describir en forma detallada el manejo de las aguas provenientes de los afloramientos dentro de la faena de explotación, es decir su drenaje hasta el punto donde son colectadas o acumuladas para ser conducidas hasta el punto de medición de caudal y volumen.
+
+Esta descripción podrá ser realizada por medio de un esquema o diagrama de flujo del manejo de las aguas halladas dentro de la faena y/o proyecto minero, identificando los elementos principales, puntos de afloramiento y/o captación, conducción, estanques o piscinas recolectoras y disposición final de estas, con una resolución y tamaño adecuado para permitir una adecuada compresión. No obstante, este Servicio podrá solicitarlo en los casos que estime pertinentes.
 
 En caso que las aguas provenientes de los afloramientos se mezclen con otras aguas de distinto origen y/o naturaleza, deberán describirse los puntos o zonas de mezcla y su ubicación así como también la forma o ubicación de los puntos de medición de las aguas de distinto origen.
 
@@ -84,7 +86,11 @@ b. Al informe identificado en el punto anterior, deberán acompañarse los sigui
 
 5. Plano y layout georreferenciado de las instalaciones de la faena, identificando claramente los puntos de alumbramiento de las aguas halladas.
 
-6. Plano que identifique todas las fuentes de agua con que se abastezca la faena provengan de derechos de aprovechamiento de aguas propios, contratos de arrendamientos, camiones aljibes, agua desalada, aguas amparadas en el artículo 56 bis del Código de Aguas, entre otros.
+6. Adjuntar plano que identifique todas las fuentes de agua con que se abastezca la faena provengan de derechos de aprovechamiento de aguas propios, contratos de arrendamientos, camiones aljibes, agua desalada, aguas amparadas en el artículo 56 bis del Código de Aguas, entre otros.
+
+En el caso de que las aguas halladas sean la única fuente de consumo esto debe estar descrito claramente y los puntos de captación deben ser identificados conforme a lo establecido en el número 2 del resuelvo Nº 1 letra a) de la presente resolución.
+
+Para los planos o layout establecidos en el N°s. 5 y 6 anteriores, se podrá(n) presentar en archivo(s) tipo PDF, en un solo formato de la Serie A Normas ISO/DIN, siendo el tamaño preferente recomendado A3 y el máximo admitido A1. El tamaño de la fuente mínima utilizada en el(los) plano(s) debe ser tal que una reducción del 50% del documento permita su lectura.
 
 7. Estudio Hidrogeológico que establezca el origen y marco conceptual (modelo conceptual) del funcionamiento hidrogeológico del sector hidrogeológico de aprovechamiento común donde se hallan las aguas y la influencia que pueda tener a sectores adyacentes.
 
