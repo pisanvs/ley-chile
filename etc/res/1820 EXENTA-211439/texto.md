@@ -1004,6 +1004,10 @@ Transitorio: En el 33° Proceso de Selección de Proyectos, para determinar los 
 
 Transitorio: Las postulaciones seleccionadas en el 32° Proceso de Selección de Proyectos del Programa de Pavimentación Participativa, que realizó la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo en la comuna de Viña del Mar y en las comunas de las regiones de Ñuble, Biobío y La Araucanía podrán quedar exentas de realizar el financiamiento complementario requerido por obras anexas imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos aprobados por el correspondiente Servicio de Vivienda y Urbanización, en consideración a los decretos vigentes que señalan a dichas Comunas y Regiones como Zona Afectada por Catástrofe. Para estos efectos, el Servicio de Vivienda y Urbanización deberá considerar a las comunas realmente afectadas por estas catástrofes y solo las obras anexas que son imprescindibles para la ejecución correcta de las obras de pavimentación seleccionadas.
 
+#### Artículo 30°
+
+Transitorio: Durante el año 2023 y para participar en el 33° Proceso de Selección de Proyectos, la recepción de postulaciones municipales en el Servicio de Vivienda y Urbanismo tendrá como fecha de cierre el día lunes 30 de octubre y en la Secretaría Regional Ministerial de Vivienda y Urbanismo tendrá como fecha de cierre el día jueves 30 de noviembre, de la presente anualidad. Excepcionalmente, en las siguientes siete Secretarías Regionales Ministeriales de Vivienda y Urbanismo: Atacama, Coquimbo, Valparaíso, Biobío, La Araucanía, Los Lagos, y Aysén, y en consideración a su realidad regional, estos tendrán como fecha de cierre el día miércoles 15 de noviembre, de la presente anualidad.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
