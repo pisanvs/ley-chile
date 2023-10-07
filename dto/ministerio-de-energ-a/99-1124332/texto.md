@@ -44,9 +44,7 @@ Estos cruzamientos se ejecutarán en conformidad con las prescripciones que esta
 
 10° Esta concesión se otorga por plazo indefinido.
 
-11° El plazo total de las obras será de 12 meses, considerando el inicio de ellas después de 3 meses de la reducción a escritura pública del decreto que otorga la presente concesión eléctrica. Por su parte, los plazos para su terminación por etapas y secciones serán los siguientes:
-
-.
+11° El plazo de construcción de las obras será de 48 meses. Las obras se iniciarán dentro de los 36 meses contados desde la fecha de reducción a escritura pública del decreto que otorga la presente concesión eléctrica. Los plazos para su terminación por etapas y secciones serán las que se indican a continuación:
 
 12° El presente decreto deberá ser reducido a escritura pública por el interesado, antes de quince días contados desde su publicación en el Diario Oficial.
 
