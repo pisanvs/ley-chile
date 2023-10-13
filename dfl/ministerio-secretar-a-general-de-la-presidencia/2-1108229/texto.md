@@ -1682,9 +1682,9 @@ h) En el último informe de resultados preliminares entregado por el Servicio El
 
 i) A partir del porcentaje escrutado que determine el Servicio Electoral y siempre en el último informe de resultados preliminares entregado por éste, deberán indicarse los candidatos que pueden considerarse estimativamente electos de acuerdo a las reglas establecidas en la ley y el número de ellos en los niveles agregados.
 
-Los partidos políticos, los candidatos independientes que participan en la elección o plebiscito y los medios de comunicación que lo soliciten al Servicio Electoral podrán también acceder a esos mismos resultados en archivos magnéticos o digitales no encriptados para efectuar los procesos que estimen convenientes.
+j) En el último informe de resultados preliminares entregado por el Servicio Electoral, éste deberá publicar y permitir el acceso de todas las personas a las copias digitalizadas o escaneadas de las actas de escrutinios de cada mesa receptora de sufragios, incorporadas al sistema computacional en virtud de lo señalado en el inciso tercero del artículo 83.
 
-Los partidos políticos y los candidatos independientes que participan en la elección podrán acceder y revisar, en el sitio web del Servicio Electoral, las copias digitalizadas o escaneadas de las actas de escrutinios, incorporadas al sistema computacional en virtud de lo señalado en inciso tercero del artículo 83.
+Los partidos políticos, los candidatos independientes que participan en la elección o plebiscito y los medios de comunicación que lo soliciten al Servicio Electoral podrán también acceder a esos mismos resultados en archivos magnéticos o digitales no encriptados para efectuar los procesos que estimen convenientes.
 
 El Presidente del Consejo del Servicio Electoral deberá emitir, en forma pública y solemne, boletines parciales y final con los resultados de la elección o plebiscito. Los resultados que entregue el Servicio Electoral en virtud de este artículo tendrán carácter meramente informativo y no constituirán escrutinio para efecto legal alguno, debiendo señalar esta condición en sus informes o boletines.
 
