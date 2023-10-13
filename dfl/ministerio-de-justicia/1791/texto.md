@@ -536,65 +536,69 @@ Son requisitos generales de ingreso a Gendarmería de Chile, para los cargos que
 
 1. Aspirantes a Oficiales Penitenciarios Masculinos y Femeninos:
 
-a) Ser chileno;
+a) Ser chileno o chilena;
 
 b) Tener entre 18 y 23 años de edad;
 
-c) Ser soltero;
+c) Ser soltero o soltera;
 
-d) Haber cursado y aprobado el cuarto año de enseñanza media científico-humanista;
+d) Tener licencia de educación media.
 
 e) Haber cumplido con la ley de reclutamiento y acreditar valer militar, cuando proceda;
 
 f) Tener salud apta para desempeñar funciones en cualquier lugar del territorio de la República según lo determine la Comisión Médica de Gendarmería de Chile que para tales efectos se nomine;
 
-g) Tener la estatura que determine el reglamento y
+g) No haber sido condenado por crimen o simple delito, lo que se acreditará a través del certificado al que alude el inciso final del artículo 38 de la ley N° 18.216. El mencionado documento se requerirá nuevamente una vez finalizado el proceso de formación.
 
-h) cumplir, además, las exigencias que establezca el reglamento de la Escuela de Gendarmería y las necesidades institucionales.
+h) Haber rendido la prueba de acceso a la educación superior o cualquier otro instrumento que la reemplace, con antigüedad no superior a dos años y haber obtenido el puntaje mínimo establecido en el Reglamento Interno de Admisión de la Escuela de Gendarmería.
 
-2. Vigilantes-Alumnos Masculinos y Femeninos:
+i) Cumplir con las demás exigencias y requisitos que establezca el Reglamento Interno de Admisión de la Escuela de Gendarmería.
 
-a) Ser chileno;
+2. Gendarmes-Alumnos y Gendarmes-Alumnas:
+
+a) Ser chileno o chilena;
 
 b) Tener entre 18 y 25 años de edad;
 
-c) Ser soltero;
+c) Ser soltero o soltera;
 
-d) Haber cursado y aprobado a lo menos, el segundo año de la enseñanza media;
+d) Tener licencia de educación media.
 
 e) Haber cumplido con la ley de reclutamiento y acreditar valer militar, cuando proceda;
 
 f) Tener salud apta para desempeñar funciones en cualquier lugar del territorio de la República, según lo determine la Comisión Médica de Gendarmería de Chile que para tales efectos se nomine;
 
-g) Tener a lo menos la estatura que exige el reglamento, y
+g) No haber sido condenado por crimen o simple delito, lo que se acreditará a través del certificado al que alude el inciso final del artículo 38 de la ley N° 18.216. El mencionado documento se requerirá nuevamente una vez finalizado el proceso de formación.
 
-h) Cumplir, además, las exigencias que establezca el reglamento de la Escuela de Gendarmería y las necesidades institucionales.
+h) Cumplir con las demás exigencias y requisitos que establezca el Reglamento Interno de Admisión de la Escuela de Gendarmería.
 
 3. El resto del personal para ingresar a la institución, en todo caso, deberá acreditar la especialidad con título profesional o técnico, según corresponda, haber cumplido con la ley de reclutamiento y las demás exigencias establecidas en las leyes.
 
 #### Artículo 14°
 
-Para ingresar a las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes será indispensable haber aprobado los cursos de formación de Aspirante a Oficial o Gendarme-Alumno, según corresponda, en la Escuela de Gendarmería.
+Para ingresar a las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes será indispensable haber aprobado los cursos de formación de Aspirante a Oficial, o de Gendarme-Alumno o Gendarme-Alumna, según corresponda, en la Escuela de Gendarmería.
 
-Los Aspirantes a Oficiales y los Gendarmes-Alumnos mientras realicen cursos de formación tendrán la calidad de becarios. Su dotación será fijada anualmente por medio de un decreto supremo del Ministerio de Justicia expedido bajo la fórmula "Por orden del Presidente de la República", el que también deberá ser suscrito por el Ministro de Hacienda, previo informe técnico elaborado por Gendarmería de Chile.
+Los Aspirantes a Oficiales y los Gendarmes-Alumnos o Gendarmes-Alumnas mientras realicen cursos de formación tendrán la calidad de becarios. Su dotación será fijada anualmente por medio de un decreto supremo del Ministerio de Justicia expedido bajo la fórmula "Por orden del Presidente de la República", el que también deberá ser suscrito por el Ministro de Hacienda, previo informe técnico elaborado por Gendarmería de Chile.
 
-Los aspirantes a Oficiales y Gendarmes-Alumnos, tendrán derecho a un estipendio mensual que anualmente consultará la ley de presupuestos, el que será equivalente al sueldo base de los grado 20° y 22° de la Escala Unica, respectivamente.
+Los aspirantes a Oficiales y Gendarmes-Alumnos o Gendarmes-Alumnas, tendrán derecho a un estipendio mensual que anualmente consultará la ley de presupuestos, el que será equivalente al sueldo base de los grado 20° y 22° de la Escala Unica, respectivamente.
 
-La Escuela de Gendarmería percibirá un estipendio mensual equivalente al 75% del grado 23° y el equivalente al 50% del grado 24° por cada Aspirante a Oficial o Gendarmes-Alumnos, respectivamente, con el objeto de dotar al plantel de los bienes necesarios para la docencia e instrucción y la adecuación de su infraestructura.
+La Escuela de Gendarmería percibirá un estipendio mensual equivalente al 75% del grado 23° y el equivalente al 50% del grado 24° por cada Aspirante a Oficial o Gendarmes-Alumnos o Gendarmes-Alumnas, respectivamente, con el objeto de dotar al plantel de los bienes necesarios para la docencia e instrucción y la adecuación de su infraestructura.
 
 Los emolumentos asignados a los becarios serán administrados por la Dirección de la Escuela para dotarlos de los útiles, equipos y otros elementos que sean necesarios para la enseñanza y bienestar de los alumnos. No obstante lo anterior, la Dirección de la Escuela entregará mensualmente a los becarios el veinticinco por ciento de sus estipendios, sin deducciones, quienes podrán disponer libremente del mismo.
 
-El lapso desempeñado como Aspirante a Oficial y Gendarmes-Alumnos se computará, como tiempo servido en la institución, para todos los efectos legales.
+El lapso desempeñado como Aspirante a Oficial y Gendarmes-Alumnos o Gendarmes-Alumnas se computará, como tiempo servido en la institución, para todos los efectos legales.
 
 La Escuela de Gendarmería deducirá de los emolumentos asignados a los becarios los descuentos previsionales y de desahucio pertinentes y los ingresará a la Institución Previsional correspondiente.
 
 Los becarios deberán rendir una fianza nominal con el propósito de asegurar su permanencia en la institución de a lo menos 5 años, después de haber aprobado el curso de formación, según lo disponga el reglamento.
 
-Los Aspirantes a Oficiales y Gendarmes-Alumnos serán nombrados por el Director Nacional, a proposición del Director de la Escuela de Gendarmería y se podrá poner término a sus nombramientos en la misma forma, por razones fundadas.
+Los Aspirantes a Oficiales y Gendarmes-Alumnos o Gendarmes-Alumnas serán nombrados por el Director Nacional, a proposición del Director de la Escuela de Gendarmería y se podrá poner término a sus nombramientos en la misma forma, por razones fundadas.
+
+La jefatura superior de la Dirección Nacional establecerá mediante resolución el Reglamento Interno de Admisión de la Escuela de Gendarmería, a través del cual se regularán las etapas del proceso de admisión.
 
 #### Artículo 15
 
-El Director Nacional de Gendarmería de Chile proveerá los cargos de Subtenientes grado 16° y de Gendarmes grado 26° consultados en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, respectivamente, exclusivamente, entre aquellos Aspirantes a Oficiales y Gendarmes-Alumnos que hayan aprobado los cursos de formación correspondientes, en la Escuela de Gendarmería de Chile.
+El Director Nacional de Gendarmería de Chile proveerá los cargos de Subtenientes grado 16° y de Gendarmes grado 26° consultados en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, respectivamente, exclusivamente, entre aquellos Aspirantes a Oficiales y Gendarmes-Alumnos o Gendarmes-Alumnas que hayan aprobado los cursos de formación correspondientes, en la Escuela de Gendarmería de Chile.
 
 El nombramiento se hará considerando el promedio final de notas obtenidas en los cursos de formación señalados en el inciso anterior.
 
@@ -626,7 +630,7 @@ En caso de una segunda reprobación, dichos funcionarios serán clasificados en 
 
 II.- PARA SUBOFICIALES Y GENDARMES.
 
-a) Curso de Formación para Gendarmes-Alumnos, de un año académico de duración a lo menos, habilitante para ser nombrado Gendarme grado 26°.
+a) Curso de Formación para Gendarmes-Alumnos o Gendarmes-Alumnas, de un año académico de duración a lo menos, habilitante para ser nombrado Gendarme grado 26°.
 
 b) Curso de Perfeccionamiento en el grado de Cabo Primero para ascender a Sargento Segundo, grado 14°.
 
@@ -814,6 +818,14 @@ Una vez que se produzcan las vacantes necesarias, los funcionarios obtendrán la
 
 En el caso que los funcionarios a que se refiere este artículo, cesen en funciones por cualquier causa, sin haber obtenido la titularidad del cargo correspondiente, se entenderá que la obtuvieron para todos los efectos legales.
 
+#### Artículo 34
+
+C.- Los funcionarios titulares de cargos de la Planta de Suboficiales y Gendarmes que se encuentren ocupando un cargo entre los grados 22° y 10° de la EUS, y que hayan cumplido seis años de permanencia en el respectivo grado, recibirán las remuneraciones correspondientes al grado inmediatamente superior, en caso de no existir vacantes disponibles para materializar los ascensos correspondientes y siempre que cumplan todos los requisitos para el ascenso a dicho grado.
+
+Lo dispuesto en el inciso precedente será asimismo aplicable a los funcionarios titulares de cargos de la Planta de Oficiales Penitenciarios que se encuentren ocupando un cargo entre los grados 12° y 6° de la EUS.
+
+Con todo, los funcionarios que asciendan conforme a lo dispuesto en el artículo 35 deberán completar, además de los seis años de permanencia en el grado a que se refiere el inciso primero, el tiempo remanente a que se refieren los artículos 33 y 34, que no hubiesen alcanzado a cumplir por aplicación del referido artículo 35.
+
 #### Artículo 35°
 
 Sin perjuicio de lo dispuesto en los artículos 33 y 34, de existir vacantes disponibles para materializar los ascensos, los funcionarios del grado inmediatamente inferior podrán ascender sin haber cumplido el requisito de tiempo mínimo de permanencia en el grado establecido en los artículos antes citados. Con todo, deberán haber cumplido al menos un año en el grado en que se encuentren para poder ascender, sin perjuicio de los demás requisitos legales establecidos para dicho propósito, según corresponda, velando Gendarmería de Chile por su oportuno cumplimiento.
@@ -884,7 +896,7 @@ Existirán cuatro listas de clasificación: lista 1, de Mérito; lista 2, Buena;
 
 Sólo serán hábiles para ascender los funcionarios clasificados en listas 1 y 2, y serán eliminados del servicio los funcionarios clasificados en lista 4, o por 2 años consecutivos en lista 3, sin perjuicio de que se complete la cuota de eliminación.
 
-Anualmente el Director Nacional determinará, de acuerdo con las necesidades institucionales, el personal que debe acogerse a retiro o eliminación.
+El Ministro de Justicia y Derechos Humanos, a proposición del Director Nacional de Gendarmería de Chile y con anterioridad a la primera reunión de las Juntas Calificadoras a que se refiere el artículo 43, determinará anualmente el número de funcionarios de la Planta I de Oficiales Penitenciarios, y de la Planta II de Suboficiales y Gendarmes, que deben acogerse a retiro, de acuerdo a las necesidades de la Institución. Corresponderá al Director Nacional de Gendarmería de Chile individualizar a quienes se le aplicarán los cupos, conforme a los criterios que establezca el reglamento.
 
 La lista anual de retiros y eliminación del personal se formará con el siguiente orden de prelación:
 
