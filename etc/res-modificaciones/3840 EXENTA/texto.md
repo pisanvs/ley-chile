@@ -12,7 +12,9 @@ Considerando:
 
 Resuelvo:
 
-### I. Eliminado
+I. Modifícase la resolución Nº 3.418, de 2002, que establece requisitos de internación para estructuras subterráneas de reproducción vegetativa de especies ornamentales en lo siguiente:
+
+1. Agrégase en el resuelvo número 4, para las especies Cyclamen spp. y Dahlia spp. la siguiente excepción para la plaga Erwinia chrysanthemi: "(excepto pv. dianthicola)".
 
 ### II. Eliminado
 
