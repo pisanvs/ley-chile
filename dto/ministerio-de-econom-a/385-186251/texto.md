@@ -96,7 +96,7 @@ Los expertos sólo podrán solicitar informes de terceros o decretar otras medid
 
 #### Artículo 12º
 
-Ante los expertos, las partes no podrán alegar hechos nuevos ni aportar antecedentes o fundamentos que no hayan sido los entregados de conformidad con los artículos 7º y 22º de este Reglamento.
+Ante los expertos, las partes no podrán alegar hechos nuevos, aportar antecedentes o fundamentos que no hayan sido los entregados de conformidad con los artículos 7º, 17º y 22º de este Reglamento, ni presentar escritos o pruebas de ningún género, debiendo la Comisión rechazarlas de plano.
 
 #### Artículo 13º
 
@@ -114,9 +114,9 @@ La Comisión de Expertos se compondrá de tres miembros, uno nominado por el pre
 
 #### Artículo 15º
 
-No podrá ser designado experto de común acuerdo quien tenga vínculo contractual de dependencia o de prestación de servicios respecto de la Superintendencia o con el correspondiente prestador sanitario o quien forme parte, sea socio o accionista de la empresa sanitaria respectiva o de empresas consultoras que prestan servicios, a cualquier título, a cualquiera de las partes involucradas en el correspondiente proceso tarifario.
+No podrá ser designado experto quien tenga vínculo contractual de dependencia o de prestación de servicios respecto de la Superintendencia o con el correspondiente prestador sanitario o quien forme parte, sea socio o accionista de la empresa sanitaria respectiva o de empresas consultoras que prestan servicios, a cualquier título, a cualquiera de las partes involucradas en el correspondiente proceso tarifario.
 
-Conjuntamente con aceptar el cargo, el experto en referencia deberá entregar a la Superintendencia una declaración jurada que deje constancia de no encontrarse en alguna de las inhabilidades establecidas en el inciso anterior.
+Conjuntamente con aceptar el cargo, los expertos deberán entregar a la Superintendencia una declaración jurada que deje constancia de no encontrarse en los supuestos establecidos en el inciso anterior.
 
 #### Artículo 16º
 
@@ -126,9 +126,11 @@ El prestador deberá designar dentro del plazo de 6 días, contados desde la not
 
 La Superintendencia, en el plazo de siete días siguientes a la nominación de los expertos, dictará la correspondiente resolución señalando los expertos que constituirán la Comisión, y en ese mismo acto fijará lugar, día y hora, para celebrar la reunión de constitución de la Comisión. Esta resolución se notificará a los expertos y al prestador respectivo.
 
+La constitución de la Comisión se producirá solo una vez que ésta reciba todos los antecedentes que respaldaron los respectivos estudios de las partes, así como también el documento de observaciones a las discrepancias que presente la Superintendencia.
+
 #### Artículo 18º
 
-Los expertos deberán aceptar expresamente el cargo, antes de la constitución de la Comisión que los reúne y acompañar en su caso la declaración de no afectarle alguna de las inhabilidades establecidas en el artículo 15º de este Reglamento. En caso de falta de aceptación, el experto respectivo será designado de acuerdo con el artículo 27º de este Reglamento y dentro de los plazos que señala dicha disposición.
+Los expertos deberán aceptar expresamente el cargo antes de la constitución de la Comisión que los reúne, acompañando la declaración de no afectarle alguna de las inhabilidades establecidas en el artículo 15º de este Reglamento. En caso de falta de aceptación, el experto respectivo será designado de acuerdo con el artículo 27º de este Reglamento y dentro de los plazos que señala dicha disposición.
 
 #### Artículo 19º
 
@@ -155,6 +157,8 @@ La Comisión, en su sesión de constitución designará, a su costa, un Ministro
 #### Artículo 21º
 
 Serán obligaciones de los expertos asistir a las correspondientes sesiones, participar en sus deliberaciones, fallar, concurrir a fundar la decisión de la comisión en conformidad con el artículo 23º de este reglamento, y guardar la debida reserva de los asuntos tratados y acordados en la Comisión, rechazando de plano cualquier tipo de presión que pudiera ejercerse sobre ellos. Esta obligación de confidencialidad se mantendrá hasta el momento que se dé publicidad al dictamen definitivo.
+
+A los expertos que forman parte de la Comisión les será aplicable el principio de probidad administrativa, contemplado en el Título III del decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que Fija texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
 
 ## Título IV
 
@@ -194,7 +198,7 @@ Si por cualquier causa el plazo correspondiente venciere en día sábado o festi
 
 Si a alguno o algunos de los integrantes de la Comisión le sobreviene inhabilidad para ejercer el cargo, la parte a quien correspondió su nombramiento designará su reemplazante, a más tardar, dentro del tercer día hábil siguiente de producido el hecho. Del mismo modo, si se tratase del experto designado de la lista de común acuerdo, la Superintendencia procederá a su reemplazo, dentro del tercer día hábil siguiente, por alguno de los otros integrantes de esa misma lista.
 
-Se entenderán comprendidas dentro de este grupo de inhabilidades sobrevinientes, cualquier imposibilidad física del experto para desempeñar el cargo, así como también, respecto del experto de común acuerdo, cualquiera de las circunstancias señaladas en el inciso 1º del artículo 15º del presente reglamento, en ambos casos, debidamente calificadas por la SISS mediante resolución fundada.
+Se entenderán comprendidas dentro de este grupo de inhabilidades sobrevivientes, cualquier imposibilidad física del experto para desempeñar el cargo, así como también cualquiera de las circunstancias señaladas en el inciso primero del artículo 15º del presente Reglamento, en ambos casos, debidamente calificadas por la SISS mediante resolución fundada.
 
 #### Artículo 28º
 
