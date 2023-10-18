@@ -26,7 +26,9 @@ De la afiliación
 
 #### Artículo 3º
 
-Sin perjuicio de lo dispuesto en el artículo 7º del Reglamento General, podrán afiliarse al Servicio de Bienestar los funcionarios en servicio activo, y los que hubieren jubilado teniendo esta calidad.
+Sin perjuicio de lo dispuesto en el artículo 7º del Reglamento general, podrán afiliarse al Servicio de Bienestar los funcionarios en servicio activo, y aquellos que hayan jubilado siendo funcionarios de dicha institución. Ello por cuanto, los jubilados, aunque no hayan ejercido su derecho de mantener la continuidad de su afiliación, se pueden afiliar con posterioridad al Servicio de Bienestar.
+
+Si un funcionario en servicio activo afiliado al Servicio de Bienestar estuviere próximo a tramitar su jubilación, podrá mantener vigente su afiliación si lo solicitare mediante carta de continuidad a la persona encargada de Bienestar de su Establecimiento o al Servicio de Bienestar Central.
 
 ## Título III
 
@@ -50,21 +52,27 @@ d) Subdirector de Recursos Físicos y financieros o el profesional de su área q
 
 #### Artículo 5º
 
-Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20º del Reglamento General:
+Para ser candidato a representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20º del Reglamento General:
 
-a) Ser afiliado del Servicio con una antigüedad no inferior a dos años, y
+a) Ser afiliado del Servicio con una antigüedad no inferior a dos años;
 
-b) No ser integrante de la planta de directivos del Servicio de Salud Metropolitano Norte.
+b) No ser integrante de la planta de directivos del Servicio de Salud Metropolitano Norte;
 
-#### Artículo 6º
+c) No haber cesado en el cargo de representante de los afiliados por aplicación de la letra e) del artículo 21 del Reglamento General, y
 
-Cada afiliado votará por una sola persona y se elegirán como representantes los afiliados que obtengan las más altas mayorías. Se entenderá elegidos suplentes los afiliados que tengan las mayorías siguientes. Cuando proceda un representante titular y suplente de los afiliados serán designados por la Asociación de Funcionarios.
+d) Si algún candidato hubiese integrado con anterioridad las sesiones del Consejo Administrativo, debe haber tenido una asistencia igual o superior al 70% en dichas sesiones para ser consejero titular, e igual o superior al 50% para ser consejero suplente.
+
+#### Artículo 6
+
+Cada afiliado votará por una sola persona y se elegirán como representantes los afiliados que obtengan las más altas mayorías. Se entenderá elegidos suplentes los afiliados que tengan las mayorías siguientes.
+
+Cuando proceda un representante titular y suplente de los afiliados serán designados por la Asociación de Funcionarios, conforme a lo dispuesto en el inciso tercero del artículo 18º del Reglamento General.
 
 Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de las votaciones obtenidas por ellos.
 
-Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo durarán dos años en su funciones y podrán ser reelegidos por un período más.
+Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo durarán dos años en sus funciones y podrán ser reelectos por un período más, como máximo.
 
-Las elecciones del Consejo Administrativo se efectuarán el cuarto trimestre del año que corresponda y entrará en funciones el día 1 de enero del año siguiente
+Las elecciones del Consejo Administrativo se efectuarán el cuarto trimestre del año que corresponda y entrará en funciones el día 1 de enero del año siguiente.
 
 #### Artículo 7º
 
@@ -82,51 +90,67 @@ El Servicio de Bienestar podrá otorgar a sus afiliados y cargas familiares, los
 
 El Servicio de Bienestar dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-a) Matrimonio y Acuerdo de Unión Civil: Cuando
+a) Matrimonio y Acuerdo de
 
-el afiliado contraiga matrimonio o celebre un
+Unión Civil: Cuando el afiliado
 
-Acuerdo de Unión Civil en los términos de la
+contraiga matrimonio o celebre un
 
-ley 20.830. Si ambos contrayentes fuesen
+Acuerdo de Unión Civil en los
 
-afiliados, la ayuda se pagará a cada uno
+términos de la ley 20.830. Si ambos
+
+contrayentes fuesen afiliados, la
+
+ayuda se pagará a cada uno
 
 de ellos en forma independiente.;
 
-b) Nacimiento: Por el nacimiento de cada hijo del
+b) Nacimiento: Por el nacimiento
 
-afiliado. Si ambos padres fuesen afiliados, el beneficio
+de cada hijo del afiliado. Si ambos
 
-lo percibirá cada uno de ellos. En caso de nacimientos
+padres fuesen afiliados, el beneficio
 
-múltiples, se otorgarán tantas ayudas como hijos nazcan;
+lo percibirá cada uno de ellos.
 
-c) Fallecimiento: Se concederá una ayuda por el
+En caso de nacimientos múltiples,
 
-fallecimiento del afiliado y de sus cargas
+se otorgarán tantas ayudas como
 
-familiares reconocidas, el fallecimiento del hijo
+hijos nazcan;
 
-recién nacido que no hubiere sido aún reconocido como
+c) Fallecimiento: Se concederá
 
-carga familiar y fallecimiento de hijo en período de
+una ayuda por el fallecimiento del
 
-gestación. En caso de fallecimiento del padre y/o
+afiliado y de sus cargas familiares
 
-madre que no estén reconocidos como carga por el
+reconocidas, el fallecimiento del
 
-afiliado, se concederá una ayuda equivalente al
+hijo recién nacido que no hubiere
 
-60%. En caso de fallecimiento del afiliado esta
+sido aún reconocido como carga familiar
 
-ayuda se otorgará en el siguiente orden de
+y fallecimiento de hijo en período de
+
+gestación. En caso de fallecimiento del
+
+padre y/o madre que no estén reconocidos
+
+como carga por el afiliado, se concederá
+
+una ayuda equivalente al 60%. En caso de
+
+fallecimiento del afiliado esta ayuda
+
+se otorgará en el siguiente orden de
 
 precedencia:
 
-1. A la persona designada expresamente para
+1. A la persona designada expresamente
 
-tales efectos por el afiliado;
+para tales efectos por el afiliado;
 
 2. Al cónyuge sobreviviente;
 
@@ -134,111 +158,239 @@ tales efectos por el afiliado;
 
 4. A los padres, y
 
-5. A la persona natural que acredite haber
+5. A la persona natural que acredite
 
-efectuado los gastos del funeral.
+haber efectuado los gastos del funeral.
 
-En caso de muerte del afiliado, por accidente
+En caso de muerte del afiliado, por
 
-laboral, la ayuda será el doble.
+accidente laboral, la ayuda será el doble.
 
-Asimismo, al momento del deceso se otorgará
+Asimismo, al momento del deceso se
 
-una ayuda, si los recursos lo permiten, para la
+otorgará una ayuda, si los recursos lo
 
-adquisición de nicho-bóveda al funcionario que
+permiten, para la adquisición de nicho-bóveda
 
-careciere de él y a sus cargas familiares
+al funcionario que careciere de él y a sus
 
-reconocidas;
+cargas familiares reconocidas;
 
-d) Educación: El Servicio de Bienestar concederá
+d) Educación: El servicio de Bienestar
 
-una asignación de escolaridad, siempre que las
+concederá una asignación de escolaridad, una
 
-disponibilidades presupuestarias lo permitan, una vez
+vez al año, siempre que la disponibilidad
 
-al año al afiliado y cargas familiares que estudien
+presupuestaria lo permite, y previa
 
-regularmente en algún establecimiento educacional
+presentación del respectivo certificado
 
-del Estado o reconocido por éste y cargas familiares
+de alumno regular otorgado por el
 
-preescolares matriculadas en los jardines infantiles
+establecimiento educacional que
 
-del Servicio o reconocidos por la Junji.
+corresponda, al afiliado y cargas
 
-e) Becas de estudios: El Servicio de Bienestar
+familiares que estudien regularmente en
 
-podrá otorgar becas para cursar estudios de Enseñanza
+algún establecimiento educacional del
 
-Superior a los afiliados y a sus cargas familiares, las
+Estado o reconocido por éste, y cargas
 
-que se reglamentarán previo requisito de tipo económico
+familiares preescolares matriculadas
 
-y/o rendimiento escolar, según sea el caso;
+en los jardines infantiles del Servicio
 
-f) Ayuda médica: En caso de enfermedad grave y
+o reconocidos por la Institución Competente.
 
-tratamiento médico prolongado de alto costo, calificados
+e) Becas de estudios: El Servicio
 
-como tales por el Consejo Administrativo, se podrá
+de Bienestar podrá otorgar becas para
 
-otorgar al afiliado una ayuda complementaria de las
+cursar estudios de Enseñanza Superior
 
-prestaciones contempladas en el artículo 15º del
+a los afiliados y a sus cargas
 
-Reglamento General;
+familiares, las que se reglamentarán
 
-g) Incendio o catástrofe: Se otorgará cuando el
+previo requisito de tipo económico y/o
 
-afiliado haya sufrido un grave perjuicio en su vivienda
+rendimiento escolar, según sea el caso;
 
-o haya perdido parte importante de los enseres que le
+f) Ayuda médica: En caso de enfermedad
 
-guarnecen a causa de tales siniestros, y previo informe
+grave y tratamiento médico prolongado de
 
-del Asistente Social del Establecimiento y de Bomberos
+alto costo, calificados como tales por el
 
-en caso de incendio, y
+Consejo Administrativo, se podrá otorgar
 
-h) Desgravamen: Al fallecimiento de un afiliado se
+al afiliado una ayuda complementaria de las
 
-entenderán condonadas automáticamente las deudas que
+prestaciones contempladas en el artículo
 
-tuviere pendientes con el Servicio de Bienestar por
+15º del Reglamento General;
 
-concepto de préstamos que éste le hubiere otorgado.
+g) Incendio o catástrofe: Se otorgará
 
-El monto de las ayudas a que se refiere este artículo será fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Servicio de Bienestar, no pudiendo exceder de tres ingresos mínimos mensuales por ayuda. El Servicio de Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+cuando el afiliado haya sufrido un grave
+
+perjuicio en su vivienda o haya perdido
+
+parte importante de los enseres que le
+
+guarnecen a causa de tales siniestros,
+
+y previo informe del Asistente Social del
+
+Establecimiento y de Bomberos en caso de
+
+incendio, y
+
+h) Desgravamen: Al fallecimiento
+
+de un afiliado se entenderán condonadas
+
+automáticamente las deudas que tuviere
+
+pendientes con el Servicio de Bienestar
+
+por concepto de préstamos que éste le
+
+hubiere otorgado.
+
+El monto de las ayudas a que se refiere
+
+este artículo será fijado por el Consejo
+
+Administrativo de acuerdo a las
+
+disponibilidades presupuestarias del
+
+Servicio de Bienestar, no pudiendo
+
+exceder de tres ingresos mínimos mensuales
+
+por ayuda. El Servicio de Bienestar podrá
+
+financiar con cargo a sus propios recursos,
+
+de acuerdo con sus disponibilidades
+
+presupuestarias, y contratar seguros de
+
+vida para sus afiliados, seguros de salud
+
+para solventar los gastos de salud de sus
+
+afiliados y/o cargas familiares no
+
+cubiertos por los sistemas de salud
+
+previsional, sin perjuicio de que los
+
+propios beneficiarios puedan concurrir a
+
+sufragar dichos seguros.
+
+i) Subsidio de ayudas sociales: El
+
+Servicio de Bienestar podrá conceder un
+
+subsidio de ayudas sociales, siempre que
+
+la disponibilidad presupuestaria lo permita,
+
+una vez al año, y a solicitud expresa del
+
+afiliado ante problemas económicos graves
+
+y otras causas justificadas, calificadas
+
+por el Consejo Administrativo, al afiliado
+
+y cargas familiares.
+
+El monto máximo del subsidio antes
+
+señalado será determinado anualmente por
+
+el Consejo Administrativo.
+
+j) Suscripción de convenios: El
+
+Servicio de Bienestar podrá suscribir a
+
+través de la autoridad superior del Servicio
+
+de Salud Metropolitano Norte toda clase de
+
+convenios con empresas, instituciones del
+
+área de la salud, Universidades, y otras
+
+entidades, destinados a obtener ventas al
+
+contado o al crédito de toda clase de bienes,
+
+mercaderías, o servicios con la finalidad de
+
+satisfacer las necesidades de los afiliados.
+
+El Servicio de Bienestar podrá adscribir
+
+a convenios o rebaja arancelaria para
+
+estudios de postgrado del afiliado y cargas
+
+familiares, en virtud de los convenios que
+
+se suscriban en los términos señalados en
+
+la letra f) del artículo Nº 9 con
+
+Universidades o casas de estudios
+
+reconocidas por el Ministerio de
+
+Educación.
+
+Por lo anterior, se deja establecido
+
+que el Servicio de Bienestar deberá
+
+actualizar cada vez que sea necesario el
+
+listado de instituciones educacionales
+
+con las cuales posea convenios, sea de
+
+educación preescolar, básica, media,
+
+de pregrado y/o de postgrado de manera
+
+que los afiliados o sus cargas puedan
+
+acceder a los beneficios de excepción
+
+y/o rebaja arancelaria.
 
 #### Artículo 10º
 
-El Servicio de Bienestar podrá conceder préstamos a sus afiliados cuando sus recursos lo permitan, por las siguientes causales:
+El Servicio de Bienestar podrá conceder una vez al año un préstamo de auxilio a sus afiliados cuando sus recursos lo permitan, a solicitud expresa del afiliado, y cuyo monto no podrá exceder de tres ingresos mínimos mensuales por afiliado, cada 10 meses, ya sea como complemento de las prestaciones a que se refiere el artículo 8º del presente Reglamento; o con el objeto de propender a un mejoramiento de las condiciones familiares del afiliado; o ante problemas económicos graves y otras causas justificadas; o para completar el ahorro previo necesario para la adquisición de una vivienda, o la construcción, ampliación, reparación o término de la vivienda propia.
 
-1.- Préstamo médico: Se otorgará como complemento de las prestaciones a que se refiere el artículo 15º del Reglamento General y su monto no excederá de tres ingresos mínimos mensuales, por afiliado, cada 12 meses previa presentación por parte del afiliado de informe del médico tratante y de la Asistente Social del establecimiento al que pertenece el afiliado.
-
-2.- Préstamo de auxilio: Se otorgará a solicitud expresa del afiliado, su monto no podrá exceder de tres ingresos mínimos mensuales por afiliado, cada 10 meses;
-
-3.- Préstamo de emergencia: Se otorgará por necesidad debidamente) calificada por el Asistente Social de Personal del Establecimiento, quien propondrá su concesión al Consejo Administrativo. Su monto no podrá exceder de tres ingresos mínimos mensuales por afiliado cada 10 meses y se concederá por acuerdo unánime de dicho Consejo.
-
-No obstante lo anterior, tratándose de situaciones de emergencia derivadas de sismos, incendios u otras catástrofes similares, estos préstamos podrán otorgarse hasta por un monto máximo de cinco ingresos mínimos mensuales a descontar según el plazo que determine el Consejo Administrativo.
-
-4.- Préstamo habitacional: Se otorgará para completar el ahorro previo necesario para la adquisición de una vivienda, su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales.
-
-Este mismo beneficio y por un monto fijado por el Consejo Administrativo se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda propia del afiliado o de la madre de hijos en común.
-
-Para solicitar un nuevo préstamo habitacional, será necesario haber cancelado íntegramente el anterior.
-
-En ambos casos el plazo de cancelación será de 24 meses.
+En monto máximo del préstamo antes señalado será determinado anualmente por el Consejo Administrativo.
 
 #### Artículo 11º
 
 El interés que devengarán los préstamos, así como también el mecanismo de reajuste que se les aplicará será fijado anualmente por el Consejo Administrativo antes del inicio de cada ejercicio financiero en conformidad a lo dispuesto en la ley Nº 18.010.
 
+El interés a que se refiere el inciso anterior, no podrá ser superior al interés máximo convencional a que se refiere el artículo 6º de la ley Nº 18.010 y para su aplicación, deberá tenerse en cuenta las instrucciones impartidas por la Superintendencia de Seguridad Social mediante la Circular Nº 1.750 de 1999, modificada por las Circulares Nºs 2.565 y 3.003, de 2009 y 2014, respectivamente y la Circular Nº 3.278, de 2017.
+
 #### Artículo 12º
 
-La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado, por dos codeudores solidarios, que deberán tener a lo menos tres meses de afiliación al Servicio de Bienestar.
+La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado, por un codeudor solidario, que deberá tener a lo menos tres meses de afiliación al Servicio de Bienestar.
 
 #### Artículo 13º
 
@@ -250,13 +402,19 @@ El Servicio de Bienestar propenderá al progreso social, cultural, educacional, 
 
 Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
 
+#### Artículo 14º bis
+
+El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y cargas familiares reconocidas, utilizando al máximo los recursos propios y facilidades que otras entidades o la comunidad puedan proporcionarles.
+
+Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, clubes escolares, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+
 #### Artículo 15º
 
-El Servicio de Bienestar podrá celebrar la festividad de Navidad para sus afiliados y sus cargas familiares, de acuerdo a sus recursos financieros.
+El Servicio de Bienestar podrá celebrar la festividad de Navidad para su afiliados y sus cargas familiares, de acuerdo a sus recursos financieros.
 
 El Consejo Administrativo fijará anualmente el porcentaje del presupuesto que deberá destinarse para estos efectos.
 
-El Servicio de Bienestar otorgará a sus afiliados un regalo de Navidad en el mes de diciembre de cada año, según disponibilidad presupuestaria. Se otorgará este beneficio a los afiliados que tengan, a lo menos, 6 aportes continuos los meses inmediatamente anteriores al 1 de diciembre de cada año en que se entrega el beneficio.
+El Servicio de Bienestar otorgará a sus afiliados un regalo de Navidad y/o bono de navidad en el mes de diciembre de cada año, según disponibilidad presupuestaria. Se otorgará este beneficio a los afiliados que tengan, a lo menos, 6 aportes continuos los meses inmediatamente anteriores al 1 de diciembre de cada año en que se entrega el beneficio.
 
 #### Artículo 15 bis
 
@@ -296,15 +454,15 @@ Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria d
 
 En caso de ausencia o impedimento del Jefe del Servicio de Bienestar o de la cajera serán reemplazados, el primero por el Sr. Director de la Institución o quien éste designe, y el segundo, por el Jefe del Departamento de Recursos Humanos.
 
-El Servicio de Bienestar, representado por el Jefe de Bienestar, está facultado a invertir sus haberes en depósitos a plazo, fondos mutuos o cualquier instrumento del mercado de capitales, siempre que dicha inversión no importe una disminución en los beneficios otorgados a sus afiliados. Los giros a las resultas de dichas inversiones serán realizados por el Jefe de Bienestar y la Cajera de Bienestar, conjuntamente, previa consulta al Consejo Administrativo. En caso de ausencia o impedimento regirá la norma establecida en el inciso anterior.
-
 ## Título VI
 
 Disposiciones Generales
 
 #### Artículo 19º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva.
+
+Sin embargo, tratándose de los beneficios correspondientes a subsidios, podrán solicitarse tres meses después que el afiliado se incorpore al servicio, y regalo de navidad, seis meses después de la incorporación al servicio del respectivo afiliado.
 
 #### Artículo 20º
 
