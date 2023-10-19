@@ -404,6 +404,8 @@ Sólo podrán ser titulares de una concesión de servicio de radiodifusión tele
 
 No podrán ser titulares de una concesión las municipalidades, las corporaciones y las fundaciones municipales.
 
+Exceptúanse de lo dispuesto en el inciso anterior a la municipalidad, a las corporaciones y a las fundaciones municipales de la comuna de Rapa Nui, las que podrán ser titulares de una concesión de servicio de radiodifusión televisiva, o hacer uso de ella, en los términos a que hace referencia el inciso primero, con la expresa prohibición de realizar propaganda política.
+
 Se aplicarán a las concesionarias las normas establecidas en el artículo 46 de la ley N° 18.046 sobre Sociedades Anónimas. La infracción a estas disposiciones será sancionada por el Consejo, de acuerdo con el informe de la Superintendencia de Valores y Seguros, conforme a lo establecido en el artículo 33 de esta ley.
 
 #### Artículo 19°
