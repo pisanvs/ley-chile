@@ -8,4 +8,6 @@ Fíjase el radio urbano de la ciudad de Santiago, entendiéndose comprendidas en
 
 Quilicura, Pudahuel, Maipú, San Bernardo, Puente Alto, La Florida, Peñalolén, La Reina, Las Condes, Lo Barnechea, Huechuraba, Conchalí, Renca, Independencia, Recoleta, Cerro Navia, Quinta Normal, Lo Prado, Estación Central, Santiago, Providencia, Ñuñoa, Macul, San Joaquín, San Miguel, Pedro Aguirre Cerda, Cerrillos, Lo Espejo, La Cisterna, San Ramón, La Granja, La Pintana, El Bosque y Vitacura.
 
+Para efectos del Sistema de Transporte Público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, el radio urbano aplicable comprenderá también aquel establecido mediante resolución exenta N° 3.963, de 2023, del Ministerio de Transportes y Telecomunicaciones, que determina un radio urbano específico, según se indica, y sus modificaciones, o la resolución que en el futuro la reemplace.
+
 Anótese y publíquese.- Antonio Dourthe Castrillón, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
