@@ -52,7 +52,7 @@ Para la aplicación de los subsidios que se otorgan, regirán supletoriamente la
 
 En tal sentido, se efectuarán procesos de selección con los proyectos presentados hasta los días 25 de octubre y 15 de diciembre de 2022.
 
-2. El monto de recursos para la selección de proyectos postulantes al presente llamado alcanzará un total nacional de 21.630 Unidades de Fomento.
+2. El monto de recursos para la selección de proyectos postulantes al presente llamado alcanzará un total nacional de 12.360 Unidades de Fomento.
 
 El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, sin perjuicio de efectuarse ajustes de los recursos disponibles del programa 2022.
 
