@@ -16,7 +16,7 @@ Principios Generales
 
 El Estado reconoce que los indígenas de Chile son los descendientes de las agrupaciones humanas que existen en el territorio nacional desde tiempos precolombinos, que conservan manifestaciones étnicas y culturales propias siendo para ellos la tierra el fundamento principal de su existencia y cultura.
 
-El Estado reconoce como principales etnias indígenas de Chile a: la Mapuche, Aimara, Rapa Nui o Pascuenses, la de las comunidades Atacameñas, Quechuas, Collas, Diaguita y Chango del norte del país, las comunidades Kawashkar o Alacalufe y Yámana o Yagán de los canales australes. El Estado valora su existencia por ser parte esencial de las raíces de la Nación chilena, así como su integridad y desarrollo, de acuerdo a sus costumbres y valores.
+El Estado reconoce como principales pueblos o etnias indígenas de Chile a los Mapuche, Aimara, Rapa Nui o Pascuense; Atacameño, Quechua, Colla, Diaguita, Chango del norte del país; Kawashkar o Alacalufe y Yámana o Yagán de los canales australes; y Selk'nam. El Estado valora su existencia por ser parte esencial de las raíces de la nación chilena, así como su integridad y desarrollo, de acuerdo con sus costumbres y valores.
 
 Es deber de la sociedad en general y del Estado en particular, a través de sus instituciones respetar, proteger y promover el desarrollo de los indígenas, sus culturas, familias y comunidades, adoptando las medidas adecuadas para tales fines y proteger las tierras indígenas, velar por su adecuada explotación, por su equilibrio ecológico y propender a su ampliación.
 
