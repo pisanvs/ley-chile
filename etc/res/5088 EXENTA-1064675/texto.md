@@ -8,7 +8,7 @@ Considerando:
 
 2. Que, todas las especies del género Pissodes están calificadas como plagas cuarentenarias en la resolución Nº 3.080 de 2003 y sus modificaciones, que establece los criterios de regionalización en relación a las plagas cuarentenarias para el territorio de Chile.
 
-3. Que, en consecuencia, el Gorgojo del pino Pissodes castaneus (De Geer) (Coleoptera, Curculionidae), es una plaga cuarentenaria que afecta a las coníferas de los géneros Pinus, Picea, Abies, Larix, Pseudotsuga y Taxus, provocando la muerte de los árboles afectados.
+3. Que, en consecuencia, el Gorgojo del pino Pissodes castaneus (De Geer) (Coleoptera, Curculionidae), es una plaga cuarentenaria que afecta a las coníferas de los géneros Pinus, Picea, Abies, Larix y Taxus, provocando la muerte de los árboles afectados.
 
 4. Que, a través de las actividades de Vigilancia Forestal del Servicio Agrícola y Ganadero, se detectó la presencia de la plaga cuarentenaria Pissodes castaneus en la Región de Los Lagos, en predios de la comuna de Futaleufú.
 
@@ -30,7 +30,7 @@ Considerando:
 
 Resuelvo:
 
-1. Declárese el Control Obligatorio del Gorgojo del pino Pissodes castaneus (De Geer) (Coleoptera, Curculionidae), en todas las especies, variedades e híbridos de los géneros Pinus, Picea, Abies, Larix, Pseudotsuga y Taxus.
+1. Declárese el Control Obligatorio del Gorgojo del pino Pissodes castaneus (De Geer) (Coleoptera, Curculionidae), en todas las especies, variedades e híbridos de los géneros Pinus, Picea, Abies, Larix y Taxus.
 
 2. Toda persona que sospeche o compruebe la existencia de Pissodes castaneus, deberá dar aviso inmediato al SAG, en forma verbal o por escrito.
 
@@ -44,7 +44,7 @@ Resuelvo:
 
 6.1 En el área bajo cuarentena.
 
-6.1.1. Inmovilización de material vegetal con corteza hospedero de Pissodes castaneus, de los géneros botánicos Pinus, Abies, Picea, Larix, Psudotsuga y Taxus.
+6.1.1. Inmovilización de material vegetal con corteza hospedero de Pissodes castaneus, de los géneros botánicos Pinus, Abies, Picea, Larix y Taxus.
 
 6.1.2. Prohibición de la movilización de leña con corteza, de especies hospedantes, hacia el área en peligro.
 
@@ -92,7 +92,15 @@ f.2) En el lugar de destino, las maderas con corteza se mantengan separadas del 
 
 f.3) Se debe presentar al SAG un plan de vigilancia fitosanitaria que incluya al menos la instalación de 4 trampas de embudo y 10 parcelas de trozas cebo instaladas dentro de un radio de 2 km del lugar de destino de las maderas.
 
-f.4) En destino, las maderas deberán ser sometidas a tratamiento de descortezado antes del inicio del periodo de vuelo de la plaga. Esta corteza deberá ser destruida mediante incineración.
+f.4) En destino, las maderas deberán ser sometidas a tratamiento de descortezado antes del inicio del periodo de vuelo de la plaga. Se debe presentar un plan de tratamiento de esta corteza que asegure la eliminación de cualquier estado viable de la plaga.
+
+g) Que las trozas sean sometidas a un procesamiento mecánico que extraiga la corteza (con procesador de corta y desrame u otro sistema similar) con menos de un 50% de corteza remanente y que, además, se cumpla con las siguientes condiciones:
+
+g.1) Que los predios de origen de las maderas presenten una baja prevalencia de la plaga (menos del 1% de los árboles con infestación reciente de Pissodes castaneus).
+
+g.2) Se cumplan las medidas fitosanitarias señaladas en las letras f.1, f.2 y f.3.
+
+g.3) En destino las maderas deberán ser sometidas a tratamiento de descortezado en un plazo máximo de 30 días desde la recepción. Se debe presentar un plan de tratamiento de esta corteza que asegure la eliminación de cualquier estado viable de la plaga.
 
 9. Los medios de transporte que se utilicen en el traslado de plantas para plantar, plantas madres, setos, trozas y maderas (incluida la leña) de especies hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán cumplir con las medidas de resguardo establecidas por el SAG, lo cual deberá ser verificado por los dueños, arrendatarios o tenedores de los predios. Los propietarios, arrendatarios, tenedores o administradores de aserraderos, centros de acopio de maderas, industrias u otro tipo de recintos localizados en el área en peligro, que procesen o acopien maderas con corteza hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán verificar que éstas estén debidamente autorizadas por el SAG y dar cumplimiento a las medidas fitosanitarias establecidas para estas maderas.
 
