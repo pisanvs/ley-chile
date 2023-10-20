@@ -16,6 +16,8 @@ Resuelvo:
 
 1.- Establécense dos pistas de uso exclusivo para buses de transporte público urbano de pasajeros, una por cada sentido de tránsito, en la calzada central de Av. Las Rejas, entre calle Las Violetas y Porto Seguro, de las comunas de Estación Central y Lo Prado.
 
+Del mismo modo, entre el 20 de octubre y el 30 de noviembre de 2023, podrán circular por estas pistas de uso exclusivo los vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador
+
 2.- Excepcionalmente podrán circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa Nacional de Fiscalización de la Subsecretaría de Transportes, que se encuentren desempeñando labores de control, y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial que se encuentren debidamente identificados.
 
 3.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de Señalización de Tránsito.

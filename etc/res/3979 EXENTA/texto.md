@@ -16,9 +16,11 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécese como medida de gestión de tránsito permanente la utilización exclusiva de las calzadas centrales del "Eje Avenida Los Pajaritos-Gladys Marín Millie", para la circulaci�n de buses de transporte público urbano de pasajeros, en adelante, el "corredor exclusivo buses". Dicha exclusividad, se aplicará en los tramos del referido corredor, atendido a los sentidos de tránsito correspondientes, que se indican en el siguiente cuadro:
+1.- Establécese como medida de gestión de tránsito permanente la utilización exclusiva de las calzadas centrales del "Eje Avenida Los Pajaritos-Gladys Marín Millie", para la circulación de buses de transporte público urbano de pasajeros, en adelante, el "corredor exclusivo buses". Dicha exclusividad, se aplicará en los tramos del referido corredor, atendido a los sentidos de tránsito correspondientes, que se indican en el siguiente cuadro:
 
-Desde Hasta Sentido de calzada
+Desde Hasta Sentido de
+
+calzada
 
 exclusiva
 
@@ -39,6 +41,8 @@ de Gaulle Rey Gustavo
 Adolfo Maipú-Santiago
 
 Excepcionalmente, podrán también circular en el referido "corredor exclusivo buses" los vehículos de emergencia, los de Gendarmería de Chile, los móviles adscritos al Departamento de Fiscalización del Ministerio de Transportes y Telecomunicaciones, que se encuentren desempeñando labores de control y los vehículos municipales destinados a cumplir funciones de seguridad ciudadana, que se encuentren debidamente identificados.
+
+Del mismo modo, entre el 20 de octubre y el 30 de noviembre de 2023, podrán circular por estas pistas de uso exclusivo los vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador
 
 2.- Elimínase en el numeral 2º del resuelvo de la resolución exenta Nº 966, de 18 de marzo de 2005, de esta Secretaría Regional, la letra d) "Eje Av. Pajaritos" con su respectivo cuadro, pasando la actual letra e), correspondiente al "Eje Irarrázaval", a ser letra d).
 

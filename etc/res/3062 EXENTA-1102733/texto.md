@@ -28,6 +28,8 @@ Resuelvo:
 
 a) Vehículos de emergencia, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, de los municipios, destinados a cumplir funciones de seguridad ciudadana y de aquellos destinados para labores de mantención de la vía señalada, debidamente identificados como tales;
 
+Asimismo, entre el 20 de octubre y el 30 de noviembre de 2023, podrán circular por esta vía exclusiva vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador
+
 b) Los vehículos no contemplados en la letra precedente que deban necesariamente utilizar en parte esta vía exclusiva con el único objetivo de acceder o egresar desde la correspondiente residencia o lugar de estacionamiento, siempre y cuando acrediten dicha circunstancia. Para tal efecto, deberán ingresar y salir de la vía exclusiva prioritaria en el cruce más próximo al lugar en que se ubique la respectiva residencia o estacionamiento.
 
 3.- La señalada vía exclusiva prioritaria se encontrará debidamente señalizada, con la demarcación y señales verticales que correspondan, según lo establezca el Manual de Señalización de Tránsito.

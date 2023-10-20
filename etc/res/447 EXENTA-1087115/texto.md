@@ -34,6 +34,8 @@ de la Barra P-O
 
 a) Vehículos de emergencia, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, de los municipios, destinados a cumplir funciones de seguridad ciudadana y de aquellos destinados para labores de mantención de la vía señalada, debidamente identificados como tales; tratándose de taxis básicos, ejecutivos y de turismo, podrán también circular en dicho eje, pero solo en el tramo comprendido entre San Antonio y José Miguel de la Barra.
 
+Asimismo, entre el 20 de octubre y el 30 de noviembre de 2023, podrán circular por esta vía exclusiva vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador
+
 b) Los vehículos no contemplados en las letras precedentes y que deban necesariamente utilizar en parte esta vía exclusiva con el único objetivo de acceder o egresar desde su residencia o estacionamiento habitual, siempre y cuando acrediten dicha circunstancia, y se respete siempre la demarcación correspondiente. Para tal efecto, deberán ingresar y salir de la vía exclusiva de que se trate, en el cruce más próximo al lugar en que se ubique la respectiva residencia o estacionamiento.
 
 3.- Modifícase la resolución exenta Nº 388, de 2 de febrero de 2007, citada en el Vistos, en el sentido de eliminar en el Resuelvo 1º la letra
