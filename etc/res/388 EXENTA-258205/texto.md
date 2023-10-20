@@ -264,80 +264,130 @@ y/o extracción y transporte
 
 de residuos sólidos domiciliarios.
 
+l) vehículos destinados a prestar
+
+servicios de transporte para los
+
+XIX Juegos Panamericanos y
+
+VII Parapanamericanos Santiago 2023,
+
+debidamente identificados como tales
+
+por el Comité Organizador, entre
+
+los días 20 de octubre y 30 de
+
+noviembre de 2023.
+
 Tratándose de las letras g) e i)
 
-precedentes, el interesado deberá obtener
+precedentes, el interesado deberá
 
-autorización previa de la Secretaría Regional
+obtener autorización previa de la
 
-Ministerial Metropolitana de Transportes y
+Secretaría Regional Ministerial
 
-Telecomunicaciones, la que se otorgará
+Metropolitana de Transportes y
 
-mediante resolución, siempre que se acredite,
+Telecomunicaciones, la que se
 
-con la documentación respectiva, que el o
+otorgará mediante resolución,
 
-los vehículos presentados se comprenden en
+siempre que se acredite, con la
 
-alguna de las situaciones allí descritas. En
+documentación respectiva, que
 
-dicha resolución deberán establecerse en forma
+el o los vehículos presentados
 
-determinada los vehículos que se autoricen,
+se comprenden en alguna de las
 
-el plazo, horario, tramos y demás condiciones
+situaciones allí descritas.
 
-de circulación vial que se estimen
+En dicha resolución deberán
 
-necesarias. El documento en que conste
+establecerse en forma
 
-dicha autorización o su copia autorizada,
+determinada los vehículos que
 
-deberá portarse siempre en el vehículo.
+se autoricen, el plazo, horario,
 
-Los vehículos no contemplados en las letras
+tramos y demás condiciones
 
-precedentes y que deban necesariamente utilizar estas
+de circulación vial que se
 
-vías exclusivas con el único objetivo de ingresar o
+estimen necesarias. El documento
 
-egresar desde sus lugares de residencia o
+en que conste dicha autorización
 
-estacionamiento habitual, podrán hacerlo
+o su copia autorizada, deberá
 
-restringidamente siempre y cuando acrediten dicha
+portarse siempre en el vehículo.
 
-circunstancia. Para tal efecto, deberán ingresar y salir
+Los vehículos no contemplados
 
-de la vía exclusiva de que se trate en los cruces más
+en las letras precedentes y que
 
-próximos al lugar en que se ubique la respectiva
+deban necesariamente utilizar
 
-residencia o estacionamiento.
+estas vías exclusivas con el único
 
-3.- Carabineros de Chile, inspectores municipales e
+objetivo de ingresar o egresar
 
-inspectores del Ministerio de Transportes y
+desde sus lugares de residencia
 
-Telecomunicaciones, son los encargados de fiscalizar el
+o estacionamiento habitual,
 
-estricto cumplimiento de la medida precedentemente
+podrán hacerlo restringidamente
 
-descrita, de conformidad a lo dispuesto en la ley
+siempre y cuando acrediten
 
-N°18.290.
+dicha circunstancia. Para tal
 
-4.- La vigencia de la presente medida será
+efecto, deberán ingresar y salir
 
-reevaluada en atención a los resultados que arroje sobre
+de la vía exclusiva de que se
 
-los tiempos de viaje de los usuarios del transporte
+trate en los cruces más próximos
 
-público.
+al lugar en que se ubique la
 
-5.- El presente acto administrativo entrará en
+respectiva residencia o
 
-vigencia a contar del 10 de febrero de 2007.
+estacionamiento.
+
+3.- Carabineros de Chile,
+
+inspectores municipales e inspectores
+
+del Ministerio de Transportes
+
+y Telecomunicaciones, son
+
+los encargados de fiscalizar el
+
+estricto cumplimiento de la
+
+medida precedentemente descrita,
+
+de conformidad a lo dispuesto en
+
+la ley N°18.290.
+
+4.- La vigencia de la presente
+
+medida será reevaluada en atención a
+
+los resultados que arroje sobre los
+
+tiempos de viaje de los usuarios del
+
+transporte público.
+
+5.- El presente acto administrativo
+
+entrará en vigencia a contar del 10 de
+
+febrero de 2007.
 
 Anótese y publíquese.- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.

@@ -20,13 +20,15 @@ Resuelvo:
 
 1.- Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros en sector central de la calzada de Av. Santa Rosa, de las comunas de San Miguel y San Joaquín, en los tramos de la misma, que según sus sentidos de tránsito, se indican en el siguiente cuadro:
 
-Desde Hasta Sentido de Pistas
+Desde Hasta Sentido
 
-uso exclusivo buses
+de Pistas
 
-Carlos Silva Av. Lo Ovalle Norte - Sur
+Carlos Av. Lo Norte - Sur uso
 
-Vildósola
+Silva Ovalle exclusivo
+
+Vildósola buses
 
 Palena Pintor Cicarelli Sur- Norte
 
@@ -37,6 +39,8 @@ a) Vehículos de emergencia, de Gendarmería de Chile y del Programa de Fiscaliz
 b) Vehículos de uso municipal asignados a cumplir funciones de apoyo a la función policial, siempre que se encuentren debidamente identificados.
 
 c) Vehículos utilizados por la inspección fiscal del "contrato de Concesión Habilitación Corredor de Transporte Público Av. Santa Rosa Sector Alameda - A. Vespucio", que se encuentren debidamente identificados como tales y, aquellos vehículos del concesionario de dicha obra, destinados a labores de mantención de la misma, siempre que estos circulen con la señalética identificatoria que corresponda.
+
+Del mismo modo, entre el 20 de octubre y el 30 de noviembre de 2023, podrán circular por estas pistas de uso exclusivo los vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador
 
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de Señalización de Tránsito.
 

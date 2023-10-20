@@ -376,8 +376,6 @@ El municipio, a través de la unidad que corresponda, para acreditar lo anterior
 
 h) buses de transporte privado remunerado de pasajeros, regidos por el DS Nº 80, de 2004, del Ministerio de Transportes y Telecomunicaciones, que presten servicios continuos para alumnos de instituciones de educación superior y transporte de personal de instituciones públicas y empresas determinadas, que cuenten con una autorización especial vigente para circular en todo o parte por las pistas de uso exclusivo de las siguientes vías, en ambos sentidos de tránsito:
 
-.
-
 Para obtener la autorización especial a que alude el párrafo anterior el responsable del servicio de transporte privado remunerado de pasajeros deberá, a más tardar hasta el 30 de agosto de 2019, mediante el formulario dispuesto al efecto, presentar en la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, al menos, lo siguiente:
 
 a) La individualización de los vehículos de la flota que se incluirán en la petición. Solo podrán incorporarse buses que cuenten con autorización general otorgada por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, a la fecha de publicación de la presente resolución.
@@ -395,6 +393,8 @@ La autorización especial tendrá una vigencia de un mes, la que podrá ser pror
 Estas autorizaciones especiales podrán ser revocadas en forma total o parcial en caso que el responsable de servicio no de estricto cumplimiento a los requisitos y condiciones establecidas en las mismas.
 
 Copia de la autorización especial señalada deberá portarse en el vehículo para los efectos de fiscalización y control.
+
+i) vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador, entre los días 20 de octubre y 30 de noviembre de 2023
 
 3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley N°18.290.
 

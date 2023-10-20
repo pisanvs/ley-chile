@@ -20,15 +20,17 @@ Resuelvo:
 
 Av. Rinconada -
 
-Av. 5 de Abril Las Naciones Primera Maipú Ambos
+Av. 5 Las Naciones Primera Maipú Ambos
 
-Transversal sentidos
+de Abril Transversal sentidos
 
 En el tramo comprendido entre calle Carmen y Av. Pajaritos, correspondiente a Av. 5 de Abril, las pistas de uso exclusivo para buses de transporte público urbano de pasajeros, funcionarán en el costado derecho de la calzada, según sentido de tránsito.
 
 Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
 Asimismo, podrán circular por dichas pistas de uso exclusivo los buses de servicio de transporte público rural de pasajeros. Sin perjuicio de lo anterior, si estos buses circulan por Av. Pedro Aguirre Cerda, con dirección sur-norte, deberán hacer abandono de dichas pistas en el egreso situado entre calle Piloto Acevedo y Antonio Escobar Williams.
+
+Del mismo modo, entre el 20 de octubre y el 30 de noviembre de 2023, podrán circular por estas pistas de uso exclusivo los vehículos destinados a prestar servicios de transporte para los XIX Juegos Panamericanos y VII Parapanamericanos Santiago 2023, debidamente identificados como tales por el Comité Organizador
 
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de
 
