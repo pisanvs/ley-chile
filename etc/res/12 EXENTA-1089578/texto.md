@@ -52,6 +52,8 @@ Deberá poseer las capacidades técnicas suficientes, de acuerdo al objeto del i
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a Ejecutor/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
+Asimismo, no podrán ser beneficiarios/as de este instrumento, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la ley Nº 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
+
 Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a Ejecutor/a consiente en ello por el solo hecho de la postulación al instrumento.
 
 BENEFICIARIOS/AS ATENDIDOS/AS
@@ -68,6 +70,8 @@ No podrán ser Beneficiarios/as Atendidos/as de este instrumento las cooperativa
 
 El cumplimiento de los requisitos para ser calificado como Beneficiario/a Atendido/a deberá ser realizado en forma previa a su incorporación al proyecto, por el/la Beneficiario/a Ejecutor/a, informándose dicha calificación al Agente Operador Intermediario en sus Informes de Avance y Final.
 
+No podrán ser Beneficiarios/as Atendidos/as, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la ley Nº 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
+
 ASOCIADO/A
 
 Es una o más personas naturales o jurídicas que concurren cofinanciando el proyecto mediante la formalización de un aporte pecuniario o valorado, el que deberá constar en una carta compromiso. Su participación no es obligatoria.
@@ -82,47 +86,93 @@ Los criterios de evaluación y su ponderación serán los siguientes:
 
 Criterios de evaluación Ponderación
 
-Calidad de la formulación y coherencia del proyecto:
+Calidad de la formulación
 
-Se evaluará la congruencia y calidad en la formulación del proyecto, en 40%
+y coherencia del proyecto:
 
-relación a generar un espacio de encuentro de emprendedores/as, micro
+Se evaluará la congruencia y 40%
 
-y pequeñas empresas de la región, para la generación de redes de trabajo
+calidad en la formulación del
 
-empresarial y/o encadenamientos productivos, la difusión y
+proyecto, en relación a generar
 
-transferencia de información comercial y conocimientos relevantes para
+un espacio de encuentro de
 
-los participantes.
+emprendedores/as, micro y
 
-Cumple con el Foco Estratégico de Desarrollo Regional
+pequeñas empresas de la región,
 
-Se evaluará la justificación del proyecto y si la propuesta contribuye 20%
+para la generación de redes de
 
-territorialmente o se alinea a los sectores productivos priorizados
+trabajo empresarial y/o
+
+encadenamientos productivos,
+
+la difusión y transferencia
+
+de información comercial y
+
+conocimientos relevantes
+
+para los participantes.
+
+Cumple con el Foco Estratégico
+
+de Desarrollo Regional
+
+Se evaluará la justificación 20%
+
+del proyecto y si la propuesta
+
+contribuye territorialmente o
+
+se alinea a los sectores
+
+productivos priorizados
 
 regionalmente.
 
-Capacidades, fortalezas y experiencia del/de la Beneficiario/a
+Capacidades, fortalezas y
 
-Ejecutor/a:
+experiencia del/de la
 
-Se evaluarán las capacidades técnicas de generar espacios de encuentro 25%
+Beneficiario/a Ejecutor/a:
 
-de emprendedores/as, micro y pequeñas empresas de la región, para la
+Se evaluarán las capacidades 25%
 
-generación de redes de trabajo empresarial y/o encadenamientos
+técnicas de generar espacios
 
-productivos, la difusión y transferencia de información comercial y
+de encuentro de emprendedores/as,
 
-conocimientos relevantes para los participantes.
+micro y pequeñas empresas de la
+
+región, para la generación de
+
+redes de trabajo empresarial
+
+y/o encadenamientos productivos,
+
+la difusión y transferencia de
+
+información comercial y
+
+conocimientos relevantes para
+
+los participantes.
 
 Propuesta económica:
 
-Se evaluará la coherencia entre el presupuesto y el Plan de Actividades 15%"
+Se evaluará la coherencia entre 15%
 
-presentado.
+el presupuesto y el Plan de
+
+Actividades presentado.
+
+De conformidad con lo señalado en el artículo séptimo transitorio de la ley Nº 21.561, se otorgará un puntaje adicional, consistente en una bonificación de un 5% sobre la nota final obtenida, a aquellos proyectos cuyo beneficiario/a, cumpla con los siguientes requisitos copulativos:
+
+a) Sea una empresa de menor tamaño.
+
+b) Se le haya otorgado, por el Ministerio del Trabajo y Previsión Social, el sello que certifique que implementó de forma anticipada la reducción de jornada laboral establecida en la ley Nº 21.561 y éste se encuentre vigente al momento de la decisión de adjudicación.
 
 ### 4. MODELO DE ADMINISTRACIÓN
 
@@ -144,7 +194,7 @@ Todo gasto deberá detallarse y guardar relación con el Plan de Trabajo y los r
 
 ### 6. COSTO DE ADMINISTRACIÓN
 
-Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto del cofinanciamiento otorgado, con un tope máximo de hasta $3.000.000.- (tres millones de pesos).
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto de cofinanciamiento otorgado, con un tope máximo de hasta $3.000.000.- (tres millones de pesos), impuestos incluidos.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -198,7 +248,7 @@ Ejecución del Proyecto
 
 La Ejecución comienza con la total tramitación de la resolución antes señalada y termina con la aprobación del Agente Operador Intermediario del Informe Final que deberá presentar el/la Beneficiario/a Ejecutor/a, el que deberá contener el listado de Beneficiarios Atendidos, más la rendición técnica y financiera del proyecto.
 
-El/la Beneficiario/a Ejecutor/a, aplicando las decisiones contenidas en el proyecto sancionado por el Consejo de Desarrollo Productivo Regional, procederá a seleccionar los Beneficiarios Atendidos y a implementar sus acciones tendientes a la generación de redes de trabajo empresarial y/o encadenamientos productivos, la difusión y transferencia de información comercial y conocimientos relevantes para los participantes.
+El/la Beneficiario/a Ejecutor/a, aplicando las decisiones contenidas en el proyecto sancionado por el Consejo Directivo del Comité de Desarrollo Productivo Regional, procederá a seleccionar a los/las Beneficiarios/as Atendidos/as y a implementar sus acciones tendientes a la generación de redes de trabajo empresarial y/o encadenamientos productivos, la difusión y transferencia de información comercial y conocimientos relevantes para los participantes. El/La Beneficiario/a Ejecutor/a presentará al Comité la nómina de los/las Beneficiarios/as Atendidos/as, y el Comité deberá verificar que dichos/as Beneficiarios/as Atendidos/as, que sean personas naturales, no tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, creado por la ley Nº 21.389.
 
 El Comité de Desarrollo Productivo Regional deberá pronunciarse sobre el listado de beneficiarios/as seleccionados.
 
