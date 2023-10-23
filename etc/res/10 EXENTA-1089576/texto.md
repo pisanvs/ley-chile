@@ -52,7 +52,11 @@ Es Beneficiario/a Ejecutor/a, toda persona natural o jurídica con experiencia e
 
 Deberá poseer las capacidades técnicas suficientes, de acuerdo al objeto del instrumento y las características específicas del proyecto, así como contar con un giro u objeto idóneo, para lo cual se tendrá como antecedentes su currículum personal o institucional y aquellos datos que consten en la declaración de iniciación de actividades ante el Servicio de Impuestos Internos.
 
+No podrán ser beneficiarios/as atendidos/as, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la ley N°21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
+
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a Ejecutor/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
+
+Asimismo, no podrán ser beneficiarios/as de este instrumento, las personas naturales que tengan inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado por la ley N° 21.389, que "Crea el Registro Nacional de Deudores de Pensiones de Alimentos y Modifica Diversos Cuerpos Legales para Perfeccionar el Sistema de Pago de las Pensiones de Alimentos.
 
 Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a Ejecutor/a consiente en ello por el sólo hecho de la postulación al instrumento.
 
@@ -134,6 +138,12 @@ Se evaluará la coherencia entre el presupuesto 15%"
 
 y el Plan de Actividades presentado.
 
+De conformidad con lo señalado en el artículo séptimo transitorio de la ley N° 21.561, se otorgará un puntaje adicional, consistente en una bonificación de un 5% sobre la nota final obtenida, a aquellos proyectos cuyo beneficiario/a, cumpla con los siguientes requisitos copulativos:
+
+a) Sea una empresa de menor tamaño.
+
+b) Se le haya otorgado, por el Ministerio del Trabajo y Previsión Social, el sello que certifique que implementó de forma anticipada la reducción de jornada laboral establecida en la Ley N° 21.561 y éste se encuentre vigente al momento de la decisión de adjudicación.
+
 ### 4. MODELO DE ADMINISTRACIÓN
 
 La administración del instrumento Promoción y Canales de Comercialización será, por regla general, mediante la modalidad agenciada.
@@ -154,7 +164,7 @@ Todo gasto deberá detallarse y guardar relación con el Plan de Trabajo y los r
 
 ### 6. COSTO DE ADMINISTRACIÓN
 
-Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto del cofinanciamiento otorgado con un tope máximo de hasta $3.000.000.- (tres millones de pesos).
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto de cofinanciamiento otorgado, con un tope máximo de hasta $3.000.000.- (tres millones de pesos), impuestos incluidos.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -204,7 +214,7 @@ Ejecución del Proyecto
 
 La Ejecución comienza con la total tramitación de la resolución antes señalada y termina con la aprobación del Agente Operador Intermediario del Informe Final que deberá presentar el/la Beneficiario/a Ejecutor/a, el que deberá contener el listado de Beneficiarios Atendidos, más la rendición técnica y financiera del proyecto.
 
-El/La Beneficiario/a Ejecutor/a, aplicando las decisiones contenidas en el proyecto sancionado por el Consejo de Desarrollo Productivo Regional, procederá a seleccionar los Beneficiarios Atendidos y a implementar las ferias y/o eventos que apoyen la promoción, difusión y/o comercialización de los productos o servicios de los Beneficiarios/as Atendidos/as.
+"El/La Beneficiario/a Ejecutor/a, aplicando las decisiones contenidas en el proyecto sancionado por el Consejo Directivo del Comité de Desarrollo Productivo Regional, procederá a seleccionar a los/as Beneficiarios/as Atendidos/as y a implementar las ferias y/o eventos que apoyen la promoción, difusión y/o comercialización de los productos o servicios de los/las Beneficiarios/as Atendidos/as. El Comité deberá verificar que los/as Beneficiarios/as Atendidos/as personas naturales, no tengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, creado por la ley N° 21.389.
 
 El Comité de Desarrollo Productivo Regional deberá pronunciarse sobre el listado de beneficiarios/as seleccionados.
 
