@@ -504,6 +504,28 @@ El ámbito de competencia territorial del Servicio Local de Puelche comprenderá
 
 El Servicio Local de Puelche iniciará sus funciones el día 1° de marzo de 2024.
 
+## Título XI
+
+Del Servicio Local de Educación Pública de Chiloé
+
+#### Artículo 60 bis (art. segundo)
+
+<!-- parte:10465810 -->
+
+Se denominará Servicio Local de Educación Pública de Chiloé (en adelante también "Servicio Local de Chiloé") al Servicio Local de Educación Pública de la Región de Los Lagos señalado en el numeral 1. del artículo 9 del decreto N° 73, de 2018, del Ministerio de Educación.
+
+#### Artículo 60 ter (art. segundo)
+
+<!-- parte:10465811 -->
+
+El ámbito de competencia territorial del Servicio Local de Chiloé comprenderá las comunas de Castro, Ancud, Chonchi, Curaco de Vélez, Dalcahue, Puqueldón, Queilén, Quellón, Quemchi y Quinchao, y tendrá su domicilio en la comuna de Castro.
+
+#### Artículo 60 quáter (art. segundo)
+
+<!-- parte:10465812 -->
+
+El Servicio Local de Chiloé iniciará sus funciones el día 30 de junio de 2024.
+
 ## Capítulo III
 
 Servicios Locales de Educación Pública que entrarán en funcionamiento en el año 2025
@@ -730,25 +752,25 @@ El Servicio Local del Reloncaví iniciará sus funciones el día 1° de marzo de
 
 ## Título XI
 
-Del Servicio Local de Educación Pública de Chiloé
+Suprimido.
 
 #### Artículo 91 (art. segundo)
 
 <!-- parte:10379554 -->
 
-Se denominará Servicio Local de Educación Pública de Chiloé (en adelante también "Servicio Local de Chiloé") al Servicio Local de Educación Pública de la Región de Los Lagos señalado en el numeral 1. del artículo 9 del decreto N° 73, de 2018, del Ministerio de Educación.
+Suprimido.
 
 #### Artículo 92 (art. segundo)
 
 <!-- parte:10379555 -->
 
-El ámbito de competencia territorial del Servicio Local de Chiloé comprenderá las comunas de Castro, Ancud, Chonchi, Curaco de Vélez, Dalcahue, Puqueldón, Queilén, Quellón, Quemchi y Quinchao, y tendrá su domicilio en la comuna de Castro.
+Suprimido.
 
 #### Artículo 93 (art. segundo)
 
 <!-- parte:10379556 -->
 
-El Servicio Local de Chiloé iniciará sus funciones el día 1° de marzo de 2025.
+Suprimido.
 
 ## Capítulo IV
 
