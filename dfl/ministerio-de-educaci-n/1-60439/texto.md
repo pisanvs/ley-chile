@@ -76,7 +76,7 @@ Las atribuciones señaladas podrán ser delegadas dentro del equipo directivo de
 
 Los Directores del sector municipal, para cumplir con las funciones complementarias que les otorga el artículo anterior, contarán con las siguientes atribuciones:
 
-a) En el ámbito administrativo: Organizar, supervisar y evaluar el trabajo de los docentes y del personal regido por la ley Nº 19.464. En el ejercicio de estas facultades podrá proponer anualmente al sostenedor el término de la relación laboral de hasta un 5% de los docentes del respectivo establecimiento, siempre que hubieren resultado mal evaluados según lo establecido en el artículo 70 de esta ley; proponer al sostenedor el personal a contrata y de reemplazo, tanto docente como regido por la ley Nº 19.464; designar y remover a quienes ejerzan los cargos de Subdirector, Inspector General y Jefe Técnico del establecimiento de acuerdo a lo establecido en el artículo 34 C de esta ley; ser consultado en la selección de los profesores cuando vayan a ser destinados a ese establecimiento; proponer al sostenedor los incrementos de las asignaciones contempladas en el inciso primero del artículo 47 y las asignaciones especiales de acuerdo a lo establecido en el inciso segundo del mismo artículo; y promover una adecuada convivencia en el establecimiento.
+a) En el ámbito administrativo: Organizar, supervisar y evaluar el trabajo de los docentes y del personal asistente de la educación. En el ejercicio de estas facultades podrá proponer anualmente al sostenedor el término de la relación laboral de hasta un 5% de los docentes del respectivo establecimiento, siempre que se encuentren en el tramo inicial y no hayan progresado en el último proceso de reconocimiento en que les correspondió participar y, además, no hayan postulado al proceso de inducción regulado en los artículos 18 G y siguientes o, habiendo postulado, lo reprobaron; proponer al sostenedor el personal a contrata y de reemplazo, tanto docente como asistente de la educación; designar y remover a quienes ejerzan los cargos de Subdirector, Inspector General y Jefe Técnico del establecimiento de acuerdo a lo establecido en el artículo 34 C de esta ley; ser consultado en la selección de los profesores cuando vayan a ser destinados a ese establecimiento; proponer al sostenedor los incrementos de las asignaciones contempladas en el inciso primero del artículo 47 y las asignaciones especiales de acuerdo a lo establecido en el inciso segundo del mismo artículo; y promover una adecuada convivencia en el establecimiento.
 
 b) En el ámbito financiero: asignar, administrar y controlar los recursos que le fueren delegados en conformidad a la ley.
 
@@ -168,13 +168,13 @@ El Ministerio de Educación, a través de su Centro de Perfeccionamiento, Experi
 
 Los programas, cursos o actividades de formación indicados en el inciso anterior, no comprenden aquellos programas conducentes a una formación de postgrado.
 
-El diseño e implementación de estos programas, cursos o actividades deberá considerar tanto las necesidades de los equipos docentes de los establecimientos educacionales, como aquellos requerimientos que proporcione el Sistema de Desarrollo Profesional Docente establecido en el Título III y los resultados del sistema de evaluación establecido en el artículo 70. Además, deberá favorecer la progresión en los tramos del sistema, propendiendo a que los docentes alcancen al menos el tramo profesional avanzado, reconociendo con ello el carácter formativo de las evaluaciones del sistema de reconocimiento del desarrollo profesional.
+El diseño e implementación de estos programas, cursos o actividades deberá considerar tanto las necesidades de los equipos docentes de los establecimientos educacionales, como aquellos requerimientos que proporcione el Sistema de Desarrollo Profesional Docente establecido en el Título III. Además, deberá favorecer la progresión en los tramos del sistema, reconociendo con ello el carácter formativo de las evaluaciones del sistema de reconocimiento del desarrollo profesional.
 
 El Centro deberá realizar, de manera directa o mediante la colaboración de universidades acreditadas o instituciones sin fines de lucro certificadas por este de acuerdo al artículo 12 quáter, programas, cursos y actividades específicas para los siguientes grupos de profesionales de la educación:
 
 1. Docentes que se estén desempeñando dentro de los primeros cuatro años de ejercicio profesional, a quienes se ofrecerá acompañamiento pedagógico a través de talleres, cursos o tutorías, sin perjuicio de la inducción a que se refiere el artículo 18 G.
 
-2. Docentes que no han logrado avanzar, a lo menos, al tramo profesional temprano en su primer proceso de reconocimiento profesional, a quienes se ofrecerá apoyo para su desarrollo profesional.
+2. Docentes que se encuentren en los tramos inicial o temprano y que no han logrado avanzar en su proceso de reconocimiento profesional. A ellos se ofrecerá apoyo para su desarrollo profesional y para mejorar su desempeño, velando para que alcancen al menos el tramo profesional avanzado.
 
 Asimismo, el Centro ejecutará acciones de formación continua para los docentes, conforme a las necesidades de estos formuladas por las comunidades educativas a través de sus directores o sostenedores, y ofrecerá orientaciones y apoyo al trabajo de aprendizaje profesional colaborativo que se desarrolle en los establecimientos educacionales.
 
@@ -352,7 +352,7 @@ Del Proceso de Inducción al ejercicio profesional docente.
 
 G.- La inducción consiste en el proceso formativo que tiene por objeto acompañar y apoyar al docente principiante en su primer año de ejercicio profesional para un aprendizaje, práctica y responsabilidad profesional efectivo; facilitando su inserción en el desempeño profesional y en la comunidad educativa a la cual se integra.
 
-La inducción es un derecho que tendrán todos los docentes que ingresan al ejercicio profesional en un establecimiento educacional subvencionado de conformidad al decreto con fuerza de ley N°2, de 1998, del Ministerio de Educación, o regido por el decreto ley N°3.166, de 1980, siempre y cuando en su respectivo contrato se estipule una jornada semanal de un máximo de 38 horas, por el periodo en que se desarrolle el respectivo proceso de inducción.
+La inducción es un derecho que tendrán todos los docentes que ingresan al ejercicio profesional en un establecimiento educacional subvencionado de conformidad al decreto con fuerza de ley N°2, de 1998, del Ministerio de Educación, o regido por el decreto ley N°3.166, de 1980, con nombramiento o contratado, por el periodo en que se desarrolle el respectivo proceso de inducción.
 
 Se entenderá por "docente principiante" aquel profesional de la educación que, contando con un título profesional de profesor(a) o educador(a), no haya ejercido la función docente de conformidad al artículo 6° de la presente ley o la haya desempeñado por un lapso inferior a un año o a dos años en caso que no haya realizado la inducción durante el primer año en que se incorporó a un establecimiento educacional. Asimismo, para efectos de lo dispuesto en este título, el docente deberá estar contratado para desarrollar funciones de aquellas señaladas en el artículo 6º de esta ley, y no encontrarse inhabilitado para ejercer como docente de acuerdo al artículo 4°.
 
@@ -392,7 +392,7 @@ En todo caso, los planes de inducción deberán formar parte de la rendición de
 
 #### Artículo 18
 
-L.- Sin perjuicio de lo dispuesto en el artículo 18 H, al Centro le corresponderá la administración e implementación de los procesos de inducción de aquellos establecimientos educacionales que no se rijan por lo dispuesto en dicho artículo, correspondiéndole elaborar el plan de inducción, designar a los docentes mentores, coordinar con los sostenedores o administradores la ejecución de los mismos y supervigilar la labor de los docentes mentores.
+L.- Sin perjuicio de lo dispuesto en el artículo 18 H, al Centro le corresponderá la administración e implementación de los procesos de inducción de aquellos establecimientos educacionales que no realicen los propios, correspondiéndole elaborar el plan de inducción, designar a los docentes mentores, coordinar con los sostenedores o administradores la ejecución de los mismos y supervigilar la labor de los docentes mentores.
 
 Con todo, los directores, en conjunto con el equipo directivo, podrán establecer planes de inducción propios para efectos de su implementación en el establecimiento educacional, de modo que estos tengan relación con el desarrollo de su comunidad educativa y sean coherentes con el proyecto educativo institucional y el programa de mejoramiento de éste. Asimismo, en el plan de mentoría señalado en el artículo 18 P, podrán establecerse objetivos específicos de la inducción, que sean complementarios a los definidos por el establecimiento educacional.
 
@@ -504,13 +504,13 @@ c) La evaluación del director del establecimiento en que se haya desarrollado e
 
 V.- En el caso de procesos de inducción administrados por el Centro, previa audiencia del interesado, la Subsecretaría de Educación, mediante resolución fundada del Centro, dispondrá el término del proceso de inducción y, asimismo, la pérdida del derecho a percibir las cuotas de los honorarios de mentoría. Son causales de incumplimiento:
 
-a) Incumplir gravemente a sus obligaciones establecidas en el convenio señalado en el artículo 18 S, de acuerdo a lo que en éste se señale.
+a) Incumplir gravemente a sus obligaciones establecidas en la resolución señalada en el artículo 18 S, de acuerdo a lo que en éste se señale.
 
 b) Ser evaluados insatisfactoriamente en su función, por el Centro o por el director y equipo directivo, según corresponda.
 
-c) Ser evaluados en un nivel insatisfactorio o básico, de conformidad a lo establecido en el artículo 70 de esta ley.
+c) Eliminada.
 
-Asimismo, se excluirá del registro público de mentores a los profesionales que incurran en alguna de las circunstancias establecidas en las letras a), b) o c), por segunda vez. El docente excluido podrá solicitar su reinscripción una vez transcurrido el plazo de tres años de notificada la resolución respectiva, siempre que cumpla con los requisitos legales para ello.
+Asimismo, se excluirá del registro público de mentores a los profesionales que incurran en alguna de las circunstancias establecidas en las letras precedentes, por segunda vez. El docente excluido podrá solicitar su reinscripción una vez transcurrido el plazo de tres años de notificada la resolución respectiva, siempre que cumpla con los requisitos legales para ello.
 
 De aplicarse dicha medida, el Centro deberá asignar un nuevo docente mentor al docente principiante respectivo, por el tiempo que falte para el término de su proceso de inducción, a quien le corresponderán las restantes cuotas de los honorarios de mentoría.
 
@@ -632,11 +632,25 @@ Asimismo, la Subsecretaría de Educación, a través del Centro, dictará la res
 
 F.- Los profesionales de la educación que hayan accedido a los tramos profesionales temprano y avanzado, y a los tramos experto I y II, no retrocederán a tramos anteriores de su desarrollo profesional docente, independientemente del tipo de establecimiento educacional donde se desempeñen o la actividad que desarrollen.
 
-Sin perjuicio de lo establecido en el inciso anterior, los profesionales de la educación que, habiendo accedido a un tramo, sean posteriormente contratados por un empleador cuyos docentes no se rijan por las disposiciones del presente Título, quedarán sujetos a las normas laborales que regulen a dichos profesionales.
+Los profesionales de la educación que hayan accedido a los tramos señalados en el inciso anterior deberán propender a la mejora continua para el desarrollo profesional, a través del acceso a formación pertinente a sus funciones. Para ello deberán participar en los programas, cursos y acciones de acompañamiento entre pares desarrollados o certificados por el Centro, y aprobar a lo menos uno de ellos a lo largo de un ciclo de profundización didáctico disciplinar y/o pedagógico, cuya duración es de cuatro años.
+
+Aquellos profesionales de la educación que se encuentren en los tramos avanzado, experto I y experto II que no den cumplimiento a la obligación establecida en el inciso anterior no podrán percibir el componente fijo de la asignación de tramo, establecido en el literal c) del artículo 49, una vez cumplido el plazo de cuatro años desde que accedieron al tramo y hasta que aprueben alguna de las acciones indicadas, y percibirán en su lugar el componente fijo de la asignación del tramo inmediatamente anterior a aquel que tienen, únicamente si existe un componente fijo asociado a dicho tramo inferior. Sin embargo, si al cumplimiento del plazo se encuentran desarrollando acciones formativas, el derecho a percibir este componente de la asignación se extenderá hasta su finalización, y permanecerá este derecho durante todo el ciclo de profundización, si son aprobadas.
+
+También percibirán el componente fijo de la asignación de tramo correspondiente al tramo que pertenecen, si dentro del respectivo ciclo de profundización cumplen alguna de las siguientes condiciones:
+
+i. Haber rendido y aprobado alguno de los instrumentos señalados en el artículo 19 K, a su elección.
+
+ii. Haber participado por medio de un Programa de Participación Activa en una actividad de la Red de Maestros.
+
+iii. Haber sido mentor de uno o más docentes principiantes en el marco de los procesos de inducción y mentoría reconocidos por el Centro.
+
+Será responsabilidad del Centro monitorear el cumplimiento de este proceso.
+
+Sin perjuicio de lo establecido previamente en este artículo, los profesionales de la educación que, habiendo accedido a un tramo, sean posteriormente contratados por un empleador cuyos docentes no se rijan por las disposiciones del presente Título, quedarán sujetos a las normas laborales que regulen a dichos profesionales.
 
 No obstante lo señalado en el inciso primero, los profesionales de la educación que, teniendo cuatro o más años de ejercicio docente, se incorporen a un establecimiento educacional cuyos docentes se rijan por lo prescrito en este Título, y no puedan ser asignados a ningún tramo de acuerdo a lo establecido en el Párrafo II, ingresarán a un tramo profesional transitorio denominado "de acceso" al Sistema de Desarrollo Docente, y percibirán la remuneración que corresponde a un docente asignado al tramo inicial.
 
-Dichos profesionales accederán al tramo que corresponda de acuerdo a sus resultados y la experiencia acreditada, una vez rendidos los instrumentos para el proceso de reconocimiento profesional respectivo, en los plazos que corresponda de conformidad a lo establecido en el Título III de la presente ley.
+Dichos profesionales deberán evaluarse de acuerdo a los plazos establecidos en el artículo 19 Ñ y accederán al tramo que corresponda de acuerdo a sus resultados y la experiencia acreditada, una vez rendidos los instrumentos para el proceso de reconocimiento profesional respectivo, en los plazos que corresponda de conformidad a lo establecido en el Título III de la presente ley.
 
 ### Párrafo II
 
@@ -702,9 +716,11 @@ En el caso de los tramos Experto I y Experto II se considerará especialmente un
 
 En el caso de aquellos profesionales de la educación y otros que se desempeñen en modalidades educativas que requieren de una metodología especial de evaluación para el reconocimiento de sus competencias pedagógicas, tales como las diversas formas de la educación especial, aulas hospitalarias, escuelas cárceles y especialidades de educación media técnica profesional, el Centro deberá adecuar el instrumento portafolio profesional señalado en el inciso precedente a dichos requerimientos.
 
+Los instrumentos indicados en las letras a) y b) del inciso primero deberán construirse diferenciadamente para cada uno de los niveles y modalidades de educación, y considerarán el derecho de los y las docentes y educadoras de rendir instrumentos atingentes a la función que desempeñan.
+
 #### Artículo 19
 
-L.- El instrumento portafolio señalado en el artículo anterior se aplicará por el Centro respecto del profesional de la educación cada cuatro años, en la misma oportunidad que el sistema de evaluación establecido en el artículo 70. Se utilizará el mismo instrumento portafolio en ambos sistemas de evaluación.
+L.- El instrumento portafolio señalado en el artículo anterior se aplicará por el Centro respecto del profesional de la educación cada cuatro años.
 
 El instrumento de evaluación de conocimientos específicos y pedagógicos será aplicado por la Agencia de Calidad de la Educación y sus resultados serán entregados al Centro en la forma y plazos que determine el reglamento a que se refiere el artículo 19 U.
 
@@ -746,11 +762,13 @@ N.- Podrán rendir los instrumentos señalados en el artículo 19 K aquellos pro
 
 #### Artículo 19
 
-Ñ.- Deberán rendir los instrumentos del Sistema Nacional de Reconocimiento del Desarrollo Profesional Docente los profesionales de la educación que se encuentren en los tramos profesionales inicial y temprano del desarrollo profesional docente.
+Ñ.- Deberán rendir los instrumentos del Sistema Nacional de Reconocimiento del Desarrollo Profesional Docente los profesionales de la educación que se encuentren en los tramos profesionales acceso, inicial y temprano del desarrollo profesional docente.
 
 Con todo, aquellos que se encuentren en los tramos profesional avanzado y experto I y II podrán rendir dichos instrumentos.
 
 Para efectos de lo señalado en los incisos primero y segundo, los profesionales de la educación que obtengan en una oportunidad categoría de logro A, o en dos oportunidades consecutivas categoría de logro B, en el instrumento portafolio, no estarán obligados a rendir este instrumento, en el siguiente proceso de reconocimiento. Asimismo, si el último resultado obtenido por el profesional en el instrumento de evaluación de conocimientos específicos y pedagógicos fue de nivel de logro A o B, no estarán obligados a rendir este instrumento en los procesos de reconocimiento siguientes.
+
+Los docentes que se encuentren en el tramo de acceso y que en un plazo máximo de cuatro años contado desde su ingreso al Sistema de Desarrollo Profesional Docente no rindan los instrumentos que se encuentren disponibles serán asignados al tramo inicial.
 
 Aquellos profesionales de la educación que hayan accedido al tramo avanzado, obteniendo un logro de A en ambos instrumentos de evaluación, podrán acceder al tramo experto I en el plazo de dos años.
 
@@ -798,9 +816,9 @@ S.- El profesional de la educación que, perteneciendo al tramo inicial del desa
 
 Asimismo, aquel docente que perteneciendo al tramo profesional temprano obtenga resultados de logro profesional que no le permitan acceder al tramo avanzado en dos procesos consecutivos de reconocimiento profesional, deberá ser desvinculado y perderá, para todos los efectos legales, su reconocimiento de tramo en el Sistema de Desarrollo Profesional Docente y su antigüedad.
 
-Sin perjuicio de lo señalado en el inciso anterior, transcurrido el plazo de dos años contado desde la fecha de desvinculación, dicho profesional podrá ser contratado nuevamente, debiendo ingresar al tramo inicial del Sistema de Desarrollo Profesional Docente, y rendir los instrumentos de dicho Sistema dentro de los cuatro años siguientes a su contratación.
+Sin perjuicio de lo señalado en los incisos anteriores, transcurrido el plazo de dos años contado desde la fecha de desvinculación, dicho profesional podrá ser contratado nuevamente, debiendo ingresar al tramo inicial del Sistema de Desarrollo Profesional Docente, y rendir los instrumentos de dicho Sistema dentro de los cuatro años siguientes a su contratación. En esta oportunidad, si el docente no obtiene resultados que le permitan avanzar de tramo deberá ser desvinculado y no podrá ser contratado en el mismo establecimiento educacional ni en ningún otro dependiente del mismo sostenedor en el cual desempeña sus funciones. Si al evaluarse por segunda vez desde su reingreso al Sistema no obtiene resultados que le permitan avanzar de tramo, deberá ser desvinculado y no podrá ser contratado en el mismo ni en otro establecimiento educacional donde se desempeñen profesionales de la educación que se rijan por lo dispuesto en este Título.
 
-En caso que aquél no obtenga resultados que le permitan acceder al tramo avanzado, deberá ser desvinculado y no podrá ser contratado en el mismo ni en otro establecimiento educacional en que se desempeñen profesionales de la educación que se rijan por lo dispuesto en este Título.
+Sin perjuicio de los efectos señalados en los incisos anteriores, los resultados de los instrumentos de evaluación servirán para la creación, en cada establecimiento educacional, de un plan de formación para el desarrollo profesional docente, cuya orientación se determinará a partir de los resultados obtenidos en aquellos, durante el periodo de vigencia del Plan de Mejora inmediatamente anterior. El plan de formación deberá constar en la rendición de cuentas del artículo 18 E y deberá ser publicado en su página web. Junto a éste, se publicará el porcentaje de progresión en el Sistema de la totalidad de docentes evaluados en los últimos cuatro años.
 
 #### Artículo 19
 
@@ -820,13 +838,23 @@ Sin perjuicio de lo anterior, los establecimientos educacionales del sector part
 
 #### Artículo 19
 
-W.- El Sistema de Desarrollo Profesional Docente, la Evaluación de Desempeño Docente y la aplicación de los programas, cursos y actividades de formación señaladas en el párrafo II del Título I deberán ser evaluados cada seis años, para lo cual el Ministerio de Educación encargará dicha evaluación a una organización internacional de reconocida experiencia en la materia cuyos resultados serán públicos.
+W.- El Sistema de Desarrollo Profesional Docente y la aplicación de los programas, cursos y actividades de formación señaladas en el párrafo II del Título I deberán ser evaluados cada seis años, para lo cual el Ministerio de Educación encargará dicha evaluación a una organización internacional de reconocida experiencia en la materia cuyos resultados serán públicos.
 
 Asimismo, esta revisión deberá considerar la información que entregue la Agencia de la Calidad de la Educación de acuerdo a lo dispuesto en el artículo 18 Z bis y el artículo siguiente.
 
 #### Artículo 19
 
 X.- La Agencia de la Calidad de la Educación, de conformidad a lo previsto en las letras d) y e) del artículo 10 de la ley N° 20.529, entregará al Ministerio de Educación, a través del Centro, los resultados de las evaluaciones que realice respecto de la implementación de acciones de promoción del desarrollo profesional docente, realizadas en los establecimientos educacionales.
+
+#### Artículo 19
+
+X bis.- En los procesos de evaluación y revisión de los instrumentos que tienen como finalidad medir el cumplimiento de los estándares de desempeño profesional y el conocimiento de las bases curriculares, consistentes en la evaluación de conocimientos específicos y pedagógicos y en el portafolio profesional de competencias pedagógicas, se deberán respetar los principios de transparencia y oportunidad.
+
+Para velar por el principio de transparencia el Centro podrá determinar la información que deberá publicarse respecto de los instrumentos establecidos en el artículo 19 K, a fin de que los profesionales de la educación dispongan de los datos necesarios para enfrentar los procesos de evaluación determinados en el referido artículo.
+
+A la vez, se deberá velar por la idoneidad de los correctores, y garantizar una corrección imparcial y eficiente. Los informes de resultados a los profesionales de la educación contendrán un reporte de los aciertos y errores y ofrecerán una retroalimentación que contribuya al desarrollo profesional docente.
+
+La resolución de los recursos de reposición interpuestos por los profesionales de la educación ante el Ministerio de Educación será fundada y oportuna, y deberá ser notificada debidamente por éste. Además, de acogerse la reposición, los efectos del cambio de tramo que se deriven regirán desde la fecha en que ellos debieron aplicarse.
 
 ## Título IV
 
@@ -1414,7 +1442,9 @@ Tratándose de docentes que cumplan funciones en jornada nocturna, su horario no
 
 En la distribución de la jornada de trabajo se deberá procurar que las horas no lectivas sean asignadas en bloques de tiempo suficiente para que los profesionales de la educación puedan desarrollar la totalidad de sus labores y tareas asociadas al proceso de enseñanza y aprendizaje dentro de aquella.
 
-Un porcentaje de a lo menos el 40% de las horas no lectivas estará destinado a las actividades de preparación de clases y de evaluación de aprendizajes, así como también a otras actividades profesionales relevantes para el establecimiento que sean determinadas por el director, previa consulta al Consejo de Profesores.
+Un porcentaje de a lo menos el 50% de las horas no lectivas estará destinado a las actividades de preparación de clases y de evaluación de aprendizajes, así como también a otras actividades profesionales relevantes para el establecimiento que sean determinadas por el director, previa consulta al Consejo de Profesores. Los profesionales de la educación que se encuentren en el proceso de evaluación de desarrollo profesional docente tendrán un tercio del tiempo señalado en el presente inciso para preparar los instrumentos regulados en el artículo 19 K. En virtud de lo anterior, los directores no podrán encargar a los docentes responsabilidades distintas a las señaladas que les ocupen, en total, más de la mitad de las horas no lectivas por las que se encuentren contratados.
+
+Respecto de los instrumentos de evaluación de desarrollo profesional docente regulados en el artículo 19 K, los directores, a solicitud del Consejo de Profesores, deberán establecer jornadas comunes dentro de la jornada laboral, entre todos o algunos de los docentes a los que se les esté aplicando, a fin de propender a una elaboración colectiva y cooperativa.
 
 Corresponderá a la Superintendencia de Educación la fiscalización del cumplimiento de lo señalado en el inciso anterior, de conformidad al procedimiento establecido en los artículos 51 y siguientes de la ley N°20.529.
 
@@ -1430,41 +1460,25 @@ Deberes y obligaciones funcionarias de los profesionales de la educación
 
 #### Artículo 70
 
-Establécese un sistema de evaluación de los profesionales de la educación que se desempeñen en funciones de docencia de aula, de carácter formativo.
-
-Corresponderá al Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP), la coordinación técnica para la adecuada aplicación de los procesos de evaluación.
-
-La evaluación del desempeño profesional se realizará tomando en consideración los dominios, criterios e instrumentos establecidos por el Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP). Además, existirán Comisiones Comunales de Evaluación Docente con la responsabilidad de aplicar localmente el sistema de evaluación.
-
-La evaluación estará a cargo de evaluadores pares, es decir, profesores de aula que se desempeñen en el mismo nivel escolar, sector del currículo y modalidad del docente evaluado, aunque en distintos establecimientos educacionales que los docentes evaluados. Excepcionalmente, cuando no existan docentes del mismo sector del currículo para desempeñarse como evaluadores pares, podrá ejercer tal función un docente que reúna los otros requisitos anteriores.El reglamento determinará la forma de selección y nombramiento, los requisitos, inhabilidades, incompatibilidades y obligaciones a que estarán sujetos los evaluadores pares en el ejercicio de esa función.
-
-La evaluación de cada docente se realizará cada cuatro años y su resultado final corresponderá a uno de los siguientes niveles de desempeño: destacado, competente, básico o insatisfactorio.
-
-Los resultados finales de la evaluación de cada profesional de la educación se considerarán como antecedente para los concursos públicos estipulados en este Título. Del mismo modo, se considerarán para optar a cupos o becas en actividades de perfeccionamiento o estudios de post- grado, para financiar proyectos individuales de innovación y, en general, en todas las decisiones que se tomen para seleccionar profesionales.
-
-Cada vez que un profesional de la educación resulte evaluado con desempeño insatisfactorio, deberá ser sometido al año siguiente a una nueva evaluación, pudiendo el sostenedor exigirle que deje la responsabilidad de curso para trabajar durante el año en su plan de superación profesional, debiendo el empleador asumir el gasto que representa el reemplazo del docente en aula. Si el desempeño en el nivel insatisfactorio se mantuviera en la segunda evaluación consecutiva, el profesional de la educación dejará de pertenecer a la dotación docente. Los profesionales de la educación que resulten evaluados con desempeño básico deberán evaluarse al año subsiguiente, pudiendo el sostenedor exigirle que deje la responsabilidad de curso para trabajar durante el año en su plan de superación profesional, debiendo el empleador asumir el gasto que representa el reemplazo del docente en aula. En caso de que resulten calificados con desempeño básico en tres evaluaciones consecutivas o en forma alternada con desempeño básico o insatisfactorio durante tres evaluaciones consecutivas, dejará de pertenecer a la dotación docente.
-
-Para los efectos de lo dispuesto en el inciso segundo letra a) del artículo 7° bis de esta ley, se entenderá por mal evaluado a quienes resulten evaluados con desempeño insatisfactorio o básico.
-
-Un reglamento, que deberá dictarse en el plazo de 120 días contados desde la fecha de publicación de esta ley en el Diario Oficial, establecerá la composición y funciones de las Comisiones Comunales de Evaluación Docente, las que estarán integradas, a lo menos, por el Jefe del Departamento de Administración Municipal de Educación o el Director de la Corporación Municipal respectivo y los evaluadores pares de la comuna correspondiente; fijará los procedimientos, la periodicidad, los plazos y los demás aspectos técnicos del sistema de evaluación docente y los planes de superación profesional a los que deberán someterse los profesionales de la educación con resultados básicos e insatisfactorios; y las normas objetivas que permitan a los profesionales de la educación, a los municipios respectivos y a los equipos de gestión de los establecimientos educacionales tomar conocimiento pormenorizado de la evaluación.
-
-Asimismo el reglamento establecerá los procedimientos para interponer los recursos contemplados en la ley, que les permitan a los profesionales de la educación ejercer su derecho a recurrir respecto de los resultados de su evaluación.
-
-Podrán eximirse del proceso de evaluación docente establecido en los incisos anteriores, los profesionales de la educación a quienes les falten tres años o menos para cumplir la edad legal para jubilar. Con todo, estos profesionales quedarán sujetos a lo prescrito en los artículos 73, 73 bis y 74 o en la ley de incentivo al retiro que se encuentre vigente. No podrá eximirse del proceso de evaluación docente el profesional de la educación que continúe en funciones, una vez cumplida la edad legal para jubilar.
-
-Aquellos profesionales de la educación que se encuentren reconocidos en los tramos experto I o II, en el Sistema de Desarrollo Profesional Docente, estarán exceptuados de la evaluación de desempeño docente a que se refiere este artículo.
+Derogado.
 
 #### Artículo 70 bis
 
-Sin perjuicio de la evaluación docente establecida en el artículo 70, los sostenedores podrán crear y administrar sistemas de evaluación que complementen a los mecanismos establecidos en esta ley para los docentes que se desempeñen en funciones de docencia de aula.
+Los sostenedores podrán crear y administrar sistemas de evaluación propios del desempeño profesional que complementen a los mecanismos establecidos en esta ley. Podrán incluir tanto las funciones de aula como las directivas y técnico pedagógicas, promover el fortalecimiento de competencias de los docentes y la evaluación para el aprendizaje y la mejora.
 
-Asimismo, podrán evaluarse mediante estos sistemas quienes no ejerzan funciones de docencia de aula y quienes se desempeñen en funciones en los Departamentos de Administración de Educación Municipal.
+El Ministerio de Educación, a través del Centro, pondrá a disposición de los sostenedores instrumentos evaluativos destinados a equipos docentes, técnico pedagógicos y directivos, tales como informes de referencia, autoevaluación y evaluación del par, así como sus rúbricas, fortaleciendo la evaluación formativa y el juicio profesional docente para el monitoreo de aprendizajes, en los establecimientos educacionales.
 
-Los mecanismos, instrumentos y la forma de ponderar los resultados de la evaluación deberán ser transparentes. Estos contemplarán la medición de factores tales como habilidades personales, conductas de trabajo, conocimientos disciplinarios y nivel de aprendizaje de los alumnos, debiendo garantizar la objetividad en las calificaciones. Estas evaluaciones podrán ser llevadas a cabo directamente o a través de terceros.
+Los sistemas de evaluación de desempeño profesional desarrollados por los sostenedores deberán ser validados por la Agencia de Calidad de la Educación.
+
+Los mecanismos, instrumentos y la forma de ponderar los resultados de la evaluación deberán ser objetivos y transparentes y garantizar la objetividad en las calificaciones. Estas evaluaciones podrán ser llevadas a cabo directamente o a través de terceros.
+
+La implementación de los procesos de evaluación propios será considerada por la Agencia en las visitas evaluativas que efectúe a los establecimientos educacionales.
+
+En todo caso, cada sostenedor deberá informar a la Agencia los procesos de evaluación propios que implemente, siendo éste uno de sus requisitos de validez. La Agencia, a su vez, deberá mantener actualizada en su sitio web la nómina de establecimientos educacionales en que se aplican procesos de evaluación propios que ya se encuentran validados.
 
 #### Artículo 70 ter
 
-Los profesionales de la educación que en el proceso de evaluación docente establecido en el artículo 70 obtengan en una oportunidad un nivel de desempeño destacado o en dos oportunidades consecutivas un nivel de desempeño competente en el instrumento portafolio, no estarán obligados a rendirlo en el siguiente proceso, considerándose dichos resultados para la ponderación de este instrumento en esta nueva evaluación.
+Derogado.
 
 #### Artículo 71
 
@@ -1494,7 +1508,7 @@ e) Por obtención de jubilación, pensión o renta vitalicia de un régimen prev
 
 f) Por fallecimiento;
 
-g) Por aplicación del inciso séptimo del artículo 70.
+g) Eliminado.
 
 h) Por salud irrecuperable o incompatible con el desempeño de su función en conformidad a lo dispuesto en los artículos 72 bis y 72 ter.
 
@@ -1504,15 +1518,13 @@ j) Por supresión de las horas que sirvan, en conformidad con lo dispuesto en el
 
 k) Derogada.
 
-l) Por disposición del sostenedor, a proposición del director del establecimiento en el ejercicio de la facultad contemplada en el inciso tercero letra a) del artículo 7° bis de esta ley, tratándose de los docentes mal evaluados en virtud de lo dispuesto en el artículo 70 de esta ley. Para estos efectos, los establecimientos que contaren con menos de 20 docentes podrán poner término anualmente a la relación laboral de un docente.
+l) Por disposición del sostenedor, a proposición del director del establecimiento en el ejercicio de la facultad contemplada en el inciso tercero letra a) del artículo 7° bis de esta ley. Para estos efectos, los establecimientos que contaren con menos de 20 docentes podrán poner término anualmente a la relación laboral de un docente.
 
 m) Por aplicación de lo dispuesto en el artículo 19 S.
 
-A los profesionales de la educación que terminen una relación laboral por las causales de las letras a), c), d), g) y j), se les considerará su experiencia y su perfeccionamiento en posteriores concursos para incorporarse a otra dotación, o para reincorporarse a la misma.
+A los profesionales de la educación que terminen una relación laboral por las causales de las letras a), c), d), y j), se les considerará su experiencia y su perfeccionamiento en posteriores concursos para incorporarse a otra dotación, o para reincorporarse a la misma.
 
 Tratándose de los casos establecidos en las letras b) y c) precedentes, se aplicará lo establecido en el artículo 134 de la ley N° 18.883.
-
-> **Nota.** El artículo 1º transitorio de la LEY 19961, publicada el 14.08.2004, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
 
 #### Artículo 72 bis
 
@@ -1534,7 +1546,7 @@ A contar de la fecha de la notificación y durante el referido plazo de seis mes
 
 El Alcalde de una Municipalidad o el representante de una Corporación que aplique la causal de término de la relación laboral contemplada en la letra j) del artículo anterior, deberá basarse obligatoriamente en la dotación aprobada en conformidad al artículo 22 de esta ley, fundamentada en el Plan Anual de Desarrollo Educativo Municipal, mediante el cual se haya resuelto la supresión total de un número determinado de horas que puedan afectar a uno o más docentes.
 
-Para determinar al profesional de la educación que, desempeñando horas de una misma asignatura o de igual nivel y especialidad de enseñanza, al que en virtud de lo establecido en el inciso anterior deba ponérsele término a su relación laboral, se deberá proceder, en primer lugar, con quienes tengan sesenta o más años si son mujeres o sesenta y cinco o más años si son hombres, y no se encuentren calificados como destacados o competentes; en segundo lugar, con los profesionales que se encuentren en edad de jubilar, independiente de su calificación. Se proseguirá con los profesionales que, no encontrándose en edad de jubilar, sean calificados como insatisfactorios o básicos; en seguida, con quienes tengan salud incompatible para el desempeño de la función, en los términos señalados en la letra h) del artículo 72; finalmente, se ofrecerá la renuncia voluntaria a quienes se desempeñan en la misma asignatura, nivel o especialidad de enseñanza en que se requiere disminuir horas, si lo anterior no fuere suficiente. Lo anterior será independiente de la calidad de titulares o contratados de los docentes.
+Para determinar al profesional de la educación que, desempeñando horas de una misma asignatura o de igual nivel y especialidad de enseñanza, al que en virtud de lo establecido en el inciso anterior deba ponérsele término a su relación laboral, se deberá proceder, en primer lugar, con quienes no se encuentren en los tramos profesionales avanzados, experto I o experto II, conforme a las normas del Título III, prefiriéndose aquellos que se encuentran en el tramo inicial, sin perjuicio de lo establecido en el artículo 19 S; en seguida, con quienes tengan salud incompatible para el desempeño de la función, en los términos señalados en la letra h) del artículo 72; finalmente, se ofrecerá la renuncia voluntaria a quienes se desempeñan en la misma asignatura, nivel o especialidad de enseñanza en que se requiere disminuir horas, si lo anterior no fuere suficiente. Lo anterior será independiente de la calidad de titulares o contratados de los docentes.
 
 SUPRIMIDO.
 
@@ -1542,13 +1554,7 @@ El decreto alcaldicio o la resolución de la Corporación deberán ser fundados 
 
 #### Artículo 73 bis
 
-Los docentes que dejen de pertenecer a la dotación docente como consecuencia de la causal establecida en la letra
-
-- **g)** del artículo 72 de la presente ley, tendrán derecho a una bonificación de cargo del Ministerio de Educación. Los docentes que dejen de pertenecer a la dotación docente como consecuencia de las causales establecidas en la letras
-
-- **l)** y
-
-- **m)** del artículo 72 de la presente ley, tendrán derecho a una bonificación de cargo del empleador. En ambos casos, esta bonificación se calculará de la siguiente forma:
+Los docentes que dejen de pertenecer a la dotación docente como consecuencia de las causales establecidas en la letras l) y m) del artículo 72 de la presente ley, tendrán derecho a una bonificación de cargo del empleador. Esta bonificación se calculará de la siguiente forma:
 
 a) Si el promedio mensual de las 12 últimas remuneraciones anteriores al mes en que el profesional de la educación dejó de pertenecer a la dotación docente del sector municipal es inferior a 14,32 unidades tributarias mensuales, el bono será de 79,58 unidades tributarias mensuales.
 
@@ -1560,9 +1566,7 @@ d) Si el promedio de remuneraciones antes señalado es igual o superior a 23,87 
 
 Sin perjuicio de lo anterior, si el profesional hubiese pactado con su empleador una indemnización a todo evento conforme al Código del Trabajo, tendrá derecho a la indemnización pactada si ésta fuese mayor. Asimismo, quienes sean desvinculados de conformidad a la letra m) del artículo 72 podrán optar a la indemnización por años de servicio señalada en el inciso final del artículo anterior, si procede, en el caso que fuere mayor.
 
-Los profesionales de la educación que deban ser evaluados de conformidad al artículo 70 de esta ley, y se negaren a ello sin causa justificada, se presumirán evaluados en el nivel de desempeño insatisfactorio, no tendrán derecho a los planes de superación profesional, mantendrán su responsabilidad de curso y la obligación de evaluarse al año siguiente.
-
-Quienes se hayan negado a ser evaluados de acuerdo al mecanismo establecido en el artículo 70 de la presente ley no tendrán derecho a bonificación o indemnización alguna.
+Quienes se hayan negado a ser evaluados no tendrán derecho a bonificación o indemnización alguna.
 
 Este bono se pagará por una sola vez a los profesionales de la educación señalados en este artículo, en el mes subsiguiente a aquel en que dejen de pertenecer a la dotación docente del sector municipal, no será imponible ni tributable, será incompatible con cualquier otro beneficio homologable que se origine en una causal de similar otorgamiento.
 
@@ -1634,7 +1638,9 @@ Asimismo, si durante el año laboral docente termina el contrato de un profesion
 
 #### Artículo 80
 
-La jornada semanal de trabajo de quienes ejerzan actividades docentes, no podrá exceder de 44 horas cronológicas para un mismo empleador. La docencia de aula semanal de estos profesionales de la educación no podrá exceder de 28 horas con 30 minutoscronológicas, excluidos los recreos. El horario restante será destinado a labores curriculares no lectivas. Cuando la jornada de trabajo contratada fuere inferior a 44 horas semanales, el máximo de clases quedará determinado por la proporción respectiva.
+La jornada semanal de trabajo de quienes ejerzan actividades docentes, no podrá exceder de 44 horas cronológicas para un mismo empleador. La docencia de aula semanal de estos profesionales de la educación no podrá exceder de 28 horas con 30 minutoscronológicas, excluidos los recreos. El horario restante será destinado a labores curriculares no lectivas.
+
+Cuando la jornada de trabajo contratada fuere inferior a 44 horas semanales, el máximo de clases quedará determinado por la proporción respectiva.
 
 La hora docente de aula tendrá una duración máxima de 45 minutos.
 
@@ -1648,7 +1654,9 @@ Trátandose de docentes que cumplan funciones en jornada nocturna su horario no 
 
 En la distribución de la jornada de trabajo se deberá procurar que las horas no lectivas sean asignadas en bloques de tiempo suficiente para que los profesionales de la educación puedan desarrollar la totalidad de sus labores y tareas asociadas al proceso de enseñanza y aprendizaje dentro de aquella.
 
-Al menos el 40% de las horas no lectivas estará destinado a las actividades de preparación de clases y de evaluación de aprendizajes, así como también a otras actividades profesionales relevantes para el establecimiento que sean determinadas por el director, previa consulta al Consejo de Profesores.
+Al menos el 50% de las horas no lectivas estará destinado a las actividades de preparación de clases y de evaluación de aprendizajes, a las relacionadas con el proceso de inducción regulado en el Párrafo II del Título II; a la preparación de los instrumentos de evaluación de desarrollo profesional docente regulados en el artículo 19 K, así como también a otras actividades profesionales relevantes para el establecimiento que sean determinadas por el director, previa consulta al Consejo de Profesores. En virtud de lo anterior, los directores no podrán encargar a los docentes responsabilidades distintas a las señaladas que les ocupen, en total, más de la mitad de las horas no lectivas por las que se encuentren contratados.
+
+Respecto de los instrumentos de evaluación de desarrollo profesional docente regulados en el artículo 19 K, los directores, a solicitud del Consejo de Profesores, deberán establecer jornadas comunes entre todos o algunos de los docentes a los que se les esté aplicando, a fin de propender a una elaboración colectiva y cooperativa.
 
 Corresponderá a la Superintendencia de Educación la fiscalización del cumplimiento de lo señalado en el inciso anterior, de conformidad al procedimiento establecido en los artículos 51 y siguientes de la ley N° 20.529.
 

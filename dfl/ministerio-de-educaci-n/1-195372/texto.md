@@ -292,6 +292,8 @@ De la suma adicional por participación activa en la Red Maestros de Maestros
 
 Sólo los miembros de la Red Maestros de Maestros podrán postular y ser seleccionados para llevar a cabo proyectos de participación activa, conforme a las disposiciones contenidas en este título, en cuyo caso, tendrán derecho a la percepción de la suma adicional prevenida en el artículo 17º de la ley Nº 19.715.
 
+Los proyectos de participación activa tendrán por objeto el desarrollo de capacidades y el avance en el desarrollo profesional regulado por el Estatuto Docente a través del acompañamiento y trabajo colaborativo entre docentes.
+
 #### Artículo 38º
 
 Anualmente se fijarán en la Ley de Presupuestos del Sector Público los recursos para el pago de la suma adicional a que se refiere el artículo 17º de la ley Nº 19.715, y el número máximo de docentes con derecho a percibirla por su participación activa en la Red Maestros de Maestros.
@@ -318,7 +320,11 @@ Concurso de proyectos de participación activa
 
 El Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en su calidad de administrador de la Red Maestros de Maestros, identificará los ámbitos de acción prioritarios para el fortalecimiento de la profesión docente, en los cuales se solicitará la participación activa de sus miembros.
 
+Sin perjuicio de lo señalado en el inciso anterior y de los ámbitos prioritarios que defina el Ministerio de Educación, se considerará como ámbito de acción prioritario el acompañamiento a todos los docentes en su primer o segundo año de ejercicio y a aquellos que no logren progresar en el sistema de reconocimiento profesional docente, el que se realizará a través de acciones específicas tendientes a mejorar su desempeño docente. Ello incluye el acceso al acompañamiento a nivel provincial por medio de la coordinación en el desarrollo de planes de mejora en el marco del proceso de acompañamiento profesional local, y asegurar las condiciones adecuadas que permitan a las y los docentes progresar en el sistema de evaluación y desarrollo de carrera docente.
+
 Para ello, considerará las necesidades planteadas por los docentes de aula, sostenedores, comunidades educativas, en general, y las iniciativas propuestas por los propios miembros de la Red.
+
+Las acciones y planes de mejora del inciso segundo deberán dar retroalimentación activa sobre las causas que impiden el progreso en el sistema de desarrollo profesional docente, que garantice la mejora continua y perfeccionamiento docente.
 
 #### Artículo 43º
 
@@ -380,11 +386,7 @@ De las obligaciones de los (las) miembros de la Red Maestros de Maestros para ma
 
 #### Artículo 49º
 
-Los miembros de la Red Maestros de Maestros, que hayan convenido la ejecución de proyectos de participación activa deberán cumplir con los siguientes requisitos para percibir la correspondiente suma adicional durante la vigencia de sus respectivos contratos:
-
-1. Conservar su derecho a percibir la asignación de excelencia pedagógica, en conformidad a lo estipulado en el presente decreto con fuerza de ley.
-
-2. Dar cumplimiento oportuno y satisfactorio a las obligaciones contenidas en sus respectivos contratos.
+Los miembros de la Red Maestros de Maestros que hayan convenido la ejecución de proyectos de participación activa para percibir la correspondiente suma adicional durante la vigencia de sus respectivos contratos, deberán dar cumplimiento oportuno y satisfactorio a las obligaciones contenidas en ellos.
 
 ## Título IX
 
