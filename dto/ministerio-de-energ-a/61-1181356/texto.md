@@ -78,7 +78,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11º
 
-Los trabajos se iniciarán dentro de un plazo de 180 días contados desde la reducción a escritura pública del presente decreto, y por su parte, la terminación total de las obras se estima en 5 (cinco) meses contados desde su iniciación. Sin perjuicio de lo anterior, se podrán iniciar los trabajos en el evento que el Proyecto obtenga todas las autorizaciones y derechos que lo habiliten para ello. El plazo por etapas y secciones se detalla a continuación:
+Los trabajos se iniciarán dentro de un plazo de 28 meses contados desde la reducción a escritura pública del presente decreto, y por su parte, la terminación total de las obras se estima en 5 meses contados desde su iniciación. Sin perjuicio de lo anterior, se podrán iniciar los trabajos en el evento que el Proyecto obtenga todas las autorizaciones y derechos que lo habiliten para ello. El plazo por etapas y secciones se detalla a continuación:
 
 #### Artículo 12º
 
