@@ -34,7 +34,9 @@ En el presente Llamado sólo podrán participar personas jurídicas de derecho p
 
 Para la aplicación de los subsidios que se otorgan, regirán supletoriamente las disposiciones del DS Nº 1, en todo aquello que no se contraponga con lo dispuesto por la presente resolución.
 
-2. El monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS Nº 1, será de 270.000 Unidades de Fomento (UF), de acuerdo a la siguiente distribución regional, la que podrá modificarse en atención a la oferta presentada:
+2. El monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS Nº 1, será de 236.684 Unidades de Fomento (UF), de acuerdo a la siguiente distribución regional, la que podrá modificarse en atención a la oferta presentada:
+
+.
 
 ### 3. Tipologías de intervención:
 
