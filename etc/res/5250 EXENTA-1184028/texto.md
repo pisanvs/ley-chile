@@ -536,7 +536,7 @@ Las vacantes representan la capacidad total para recibir alumnos nuevos en cada 
 
 Los sobrecupos representan una cantidad adicional de vacantes, que institucionalmente no puede ser superior al 33% de los cupos regulares y que, para efectos del proceso de selección, son llenadas por postulantes una vez que han sido completados los cupos regulares.
 
-Los cupos supernumerarios son vacantes extraordinarias utilizadas para fines determinados por el Comité de Acceso anualmente, que no deben considerarse para el cálculo de vacantes oficiales. Los estudiantes seleccionados bajo esta modalidad, no se consideran para informar el puntaje de corte de cada carrera.
+Los cupos supernumerarios son vacantes que pueden ser utilizadas de manera exclusiva por postulantes provenientes de grupos para los cuales se busca promover el acceso a la educación superior, esto es, aquellos postulantes elegibles para obtener la Beca de Excelencia Académica (BEA), aquellos pertenecientes al Programa de Acceso a la Educación Superior (PACE), y aquellos que puedan acceder a cuotas de equidad de género en carreras que determine el Comité Técnico de Acceso. Las referidas cuotas de equidad de género no pueden ser mayores al número equivalente al 20% de cupos regulares para cada carrera.
 
 Cada universidad deberá informar a la Subsecretaría de Educación Superior las vacantes, sobrecupos y cupos supernumerarios de cada uno de los programas que conforman su oferta académica de pregrado.
 
