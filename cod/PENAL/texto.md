@@ -2828,6 +2828,10 @@ El que portare armas cortantes o punzantes en recintos de expendio de bebidas al
 
 Igual sanción se aplicará al que en espectáculos públicos, en establecimientos de enseñanza o en vías o espacios públicos en áreas urbanas portare dichas armas, cuando no pueda justificar razonablemente su porte.
 
+#### Artículo 288 ter
+
+El que, en el contexto de reuniones en lugares de uso público, porte injustificadamente combustible apto para cometer atentados contra las personas o para ocasionar daño en las cosas, será sancionado con presidio menor en su grado mínimo.
+
 ### IX. Delitos relativos a la salud animal y vegetal
 
 #### Artículo 289°
