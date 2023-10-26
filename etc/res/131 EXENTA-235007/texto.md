@@ -16,64 +16,22 @@ a) EL REGISTRO DE SERVICIOS URBANOS DE TRANSPORTE PÚBLICO DE PASAJEROS DE LA RE
 
 Este comprenderá a los servicios cuyos trazados contemplen vías ubicadas sólo al interior de la Provincia de Santiago, más las comunas de San Bernardo y Puente Alto de las Provincias de Maipo y Cordillera, respectivamente, en adelante el Radio Urbano de la ciudad de Santiago.
 
+Para efectos del Sistema de Transporte Público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, este Registro comprenderá también los servicios de dicho Sistema cuyos trazados contemplen vías establecidas al interior del radio urbano específico determinado por resolución exenta Nº 3.963, de 2023, del Ministerio de Transportes y Telecomunicaciones y sus modificaciones, o la resolución que en el futuro la reemplace
+
 b) EL REGISTRO DE SERVICIOS RURALES DE TRANSPORTE PÚBLICO DE PASAJEROS DE LA REGIÓN METROPOLITANA.
 
 Este Registro comprenderá los servicios que, sin superar los 200 Km. de recorrido, exceden el radio urbano de la ciudad de Santiago, en tanto no se encuentren en la situación señalada en la letra c) de la presente resolución, entre los que pueden distinguirse los siguientes tipos:
 
-b1) RURAL: Este comprenderá a los servicios que
+b1) RURAL: Este comprenderá a los servicios que teniendo por origen o destino alguna localidad ubicada fuera del Radio Urbano de la ciudad de Santiago, ingresan a algunas vías contenidas al interior de éste, en parte de sus itinerarios o trazados.
 
-teniendo por origen o destino alguna localidad
+b2) RURAL PERIFÉRICO: Este comprenderá a los servicios cuyos trazados o itinerarios se prestan desde vías o localidades ubicadas fuera del Radio Urbano de la ciudad de Santiago hasta ciudades y localidades situadas, tanto en la Región Metropolitana, como fuera del ámbito geográfico de la misma. Asimismo, comprenderá a todos aquellos servicios rurales de transporte público de pasajeros que, sin contar con las señaladas condiciones, tengan flotas conformadas únicamente por buses y siempre que dichos servicios y los buses asociados a éstos, sean o hayan sido parte de un proyecto experimental.
 
-ubicada fuera del Radio Urbano de la ciudad de
-
-Santiago, ingresan a algunas vías contenidas
-
-al interior de éste, en parte de sus
-
-itinerarios o trazados.
-
-b2) RURAL PERIFÉRICO: Este comprenderá a los
-
-servicios cuyos trazados o itinerarios se
-
-prestan desde vías o localidades ubicadas
-
-fuera del Radio Urbano de la ciudad de
-
-Santiago hasta ciudades y localidades
-
-situadas, tanto en la Región Metropolitana,
-
-como fuera del ámbito geográfico de la
-
-misma. Asimismo, comprenderá a todos
-
-aquellos servicios rurales de transporte
-
-público de pasajeros que, sin contar con
-
-las señaladas condiciones, tengan flotas
-
-conformadas únicamente por buses y
-
-siempre que dichos servicios y los
-
-buses asociados a éstos, sean o hayan
-
-sido parte de un proyecto experimental.
-
-c) El Registro de Servicios Interurbanos de Transporte
-
-Público de Pasajeros de la Región Metropolitana.
-
-Este comprenderá a todos los servicios inscritos
-
-en el Registro Nacional de Servicios de Transporte
-
-Público de Pasajeros de la Región Metropolitana que superen los 200 km. de recorrido y aquellos que sin excederlos unen la ciudad de Santiago con localidades o ciudades costeras ubicadas en la V Región o, con cualquier otra ciudad o localidad situada fuera del límite de la Región Metropolitana.
+c) El Registro de Servicios Interurbanos de Transporte Público de Pasajeros de la Región Metropolitana. Este comprenderá a todos los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana que superen los 200 km. de recorrido y aquellos que sin excederlos unen la ciudad de Santiago con localidades o ciudades costeras ubicadas en la V Región o, con cualquier otra ciudad o localidad situada fuera del límite de la Región Metropolitana.
 
 Los Servicios señalados en las letras a) y b1) anteriores estarán contenidos dentro del Registro de Servicios de Transporte de Pasajeros de Santiago, al que aluden los artículos 11 y 12 de la ley 19.040.
 
-A los vehículos de los servicios señalados en las letras b2) y c) anteriores no les será aplicable lo dispuesto en los artículos 11 y 12 de la ley 19.040 2.- Derógase la Resolución Exenta Nº 730 de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
+A los vehículos de los servicios señalados en las letras b2) y c) anteriores no les será aplicable lo dispuesto en los artículos 11 y 12 de la ley 19.040
+
+2.- Derógase la Resolución Exenta Nº 730 de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
 
 Anótese y publíquese.- Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana (S).
