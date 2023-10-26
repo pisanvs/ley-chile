@@ -108,21 +108,25 @@ El monto de los recursos disponibles para este Programa será determinado anualm
 
 3.1. Monto máximo anual por IFI
 
-Desde que el IFI empiece a operar en el Programa, y cada año calendario mientras siga operando en el mismo, la Corporación establecerá el monto máximo de recursos al que podrá acceder. Las solicitudes de refinanciamiento se restarán del monto anual disponible para cada IFI. Esta resta se hará desde el ingreso de una solicitud de préstamo, independientemente de si el IFI desembolsa o no los recursos en el año calendario de ingreso de la solicitud.
+Desde que el IFI empiece a operar en el Programa, la Corporación establecerá el monto máximo de recursos al que podrá acceder, pudiendo incorporar la exigencia de constitución de covenants, garantías reales u otra condición adicional en favor de la Corporación establecidas en el numeral 5.5 de estas Normas, si se determinara como necesario, los cuales se harán exigibles en caso de que existan préstamos otorgados al IFI. Las solicitudes de refinanciamiento se restarán del monto disponible para cada IFI. Esta resta se hará desde la aprobación de una solicitud de préstamo, independientemente de si el IFI desembolsa o no los recursos en el año calendario de ingreso de la solicitud.
 
-Sin perjuicio de lo anterior, aquellas solicitudes que no se desembolsen en el año calendario que fueron presentadas, por ejemplo, y sin que la enumeración sea taxativa, (1) por haberse copado el monto anual de recursos disponibles del Programa para ese año, (2) porque el IFI utilizó el monto máximo de recursos que tenía autorizado, o (3) porque la solicitud se encuentra en proceso de evaluación en CORFO, mantendrán su prioridad de acuerdo a la fecha de ingreso de la solicitud.
+Sin perjuicio de lo anterior, aquellas solicitudes de refinanciamiento que no se desembolsen en el año calendario en el que fueron presentadas, por ejemplo, porque la solicitud se encuentra en proceso de evaluación en Corfo, mantendrán su prioridad de acuerdo a la fecha de ingreso de la solicitud.
 
-Para estos efectos, dentro de la primera quincena del mes de enero de cada año, los IFI deberán manifestar su voluntad de continuar con la solicitud mediante comunicación formal a CORFO. Las solicitudes que se confirmen oportunamente, serán evaluadas de forma normal en el nuevo año calendario. Las solicitudes que no se confirmen oportunamente, serán consideradas como desistidas.
+Para estos efectos, dentro de la primera quincena del mes de enero de cada año, los IFI deberán manifestar su voluntad de continuar con la solicitud mediante comunicación formal a Corfo. Las solicitudes de refinanciamiento que se confirmen oportunamente por los IFI, serán evaluadas de forma normal en el nuevo año calendario. Las solicitudes que no se confirmen oportunamente, serán consideradas como desistidas.
+
+Tanto el monto máximo de recursos como eventualmente la constitución de covenants, garantías reales u otras condiciones adicionales en favor de Corfo que se hubieran definido, podrán ser ajustados en función del análisis periódico de la información financiera que el IFI debe entregar a Corfo, según la obligación establecida en el numeral 14 de estas Normas y de cualquier otra información de que disponga Corfo.
 
 3.2. Forma de distribución de los recursos
 
-Los recursos destinados al Programa son un fondo común. El desembolso de recursos se realizará a los IFI de acuerdo al orden de ingreso en CORFO de las solicitudes de refinanciamiento, siempre que los IFI tengan recursos disponibles en sus montos máximos anuales.
+Los recursos destinados al Programa son un fondo común. El desembolso de recursos se realizará a los IFI de acuerdo al orden de ingreso en Corfo de las solicitudes de refinanciamiento, siempre que los IFI tengan recursos disponibles en sus montos máximos.
+
+La suma de todos los montos máximos de los IFI podrá ser mayor al presupuesto total definido para el Programa para un año. No obstante, el desembolso de los Préstamos a los IFI estará condicionado a la disponibilidad presupuestaria vigente de la Corporación. Consecuentemente, los IFI que primero presenten solicitudes de refinanciamiento conforme, podrán agotar los recursos anuales del Programa, antes que los demás IFI logren llegar a su monto máximo.
+
+En caso de que queden fondos por girar en un financiamiento aprobado por el CEC en un año calendario dentro de los plazos de desembolso establecidos en el numeral 4.7, estos recursos podrán ser desembolsados en el año calendario siguiente, siempre que existan recursos disponibles en el presupuesto de Corfo y se encuentren dentro del monto máximo definido al IFI.
 
 ____________
 
 2 Para mayor información ver el siguiente link del Ministerio de Medioambiente: https://mma.gob.cl/ economia-circular/.
-
-La suma de todos los montos máximos anuales de los IFI podrá ser mayor al presupuesto total definido para el Programa para ese mismo año. No obstante, el desembolso de los Préstamos a los IFI estará condicionado a la disponibilidad presupuestaria vigente de la Corporación. Consecuentemente, los IFI que primero presenten solicitudes de refinanciamiento conforme, podrán agotar los recursos anuales del Programa, antes que los demás IFI logren llegar a su monto máximo anual.
 
 4. PRÉSTAMOS DE REFINANCIAMIENTO OTORGADOS A LOS INTERMEDIARIOS FINANCIEROS
 
@@ -192,13 +196,13 @@ Las operaciones que superen el costo total máximo determinado por el CEC, vigen
 
 4.5. Solicitudes de refinanciamiento a la Corporación
 
-Con cargo al cupo anual asignado por el CEC, los IFI deberán efectuar sus solicitudes de refinanciamiento, a través de Oficina de Partes de la Corporación, o por el medio electrónico dispuesto para tal efecto. La solicitud deberá presentarse según formato disponible en ANEXO 2 de estas Normas, y se deberá adjuntar la información y antecedentes de cada proyecto a ser refinanciado de las empresas beneficiarias, según ANEXO 2 A, ANEXO 2 B y/o ANEXO 2 C de estas Normas.
+Con cargo al monto máximo asignado por el CEC, los IFI deberán efectuar sus solicitudes de refinanciamiento, a través de la Oficina de Partes de la Corporación, o por el medio electrónico dispuesto para tal efecto. La solicitud deberá presentarse según formato disponible en Anexo 2 de estas Normas, y se deberá adjuntar la información y antecedentes de cada proyecto a ser refinanciado de las empresas beneficiarias, según Anexo 2 A, Anexo 2 B y/o Anexo 2 C de este Programa, con excepción de los refinanciamientos por anticipo en los que el IFI no cuenta con la información y antecedentes de los proyectos y de las empresas beneficiarias. En este último caso, a modo referencial, junto al Anexo 2 los IFI deberán informar la cantidad de proyectos, el monto y tipo de financiamiento a ser entregado, el tipo de proyectos que esperan financiar y la ubicación de estos.
 
-En el caso de un anticipo de recursos, si la solicitud de refinanciamiento fuere aprobada por el CEC, el IFI tendrá un plazo de 30 días corridos, contados desde el desembolso realizado por CORFO, para cursar el o los financiamientos a la o las empresas. Dentro del plazo de 60 días corridos, contados desde el desembolso efectuado por la Corporación, el IFI deberá acreditar a CORFO el curse efectivo del o los créditos, mediante copia del título ejecutivo o escritura pública o de la protocolización del contrato respectivo de la o las operaciones. En este caso, las condiciones del curse de cada operación deberán coincidir con la informada por el IFI en la solicitud de refinanciamiento (ANEXO 2).
+En el caso de un anticipo de recursos, si la solicitud de refinanciamiento fuere aprobada por el CEC, el IFI tendrá un plazo de 90 días corridos, contados desde cada desembolso realizado por Corfo, para cursar el o los financiamientos a la o las Empresas beneficiarias. Dentro del plazo de 30 días corridos, contados desde el curse de cada operación, el IFI deberá acreditar a Corfo el curse efectivo del o los créditos, mediante copia del título ejecutivo o escritura pública o de la protocolización del contrato respectivo de la o las operaciones. En este caso, las condiciones del curse de cada operación deberán tener relación con la informada por el IFI en la solicitud de refinanciamiento (Anexo 2), para lo cual deberán considerar, según corresponda, el Anexo 2 A, Anexo 2 B o Anexo 2 C, señalados anteriormente.
 
 4.5.1. Antecedentes a acompañar en las Solicitudes de Refinanciamiento o Financiamiento a la Corporación
 
-Las solicitudes de refinanciamiento deberán contener, al menos, la siguiente información de cada operación y deberán acompañarse a éstas los documentos que se señalan a continuación:
+Con excepción de los refinanciamientos por anticipo, las solicitudes de refinanciamiento deberán contener, al menos, la siguiente información de cada operación y deberán acompañarse a éstas los documentos que se señalan a continuación:
 
 1) N° Operación IFI o identificador de la operación.
 
@@ -314,17 +318,15 @@ A partir de la evaluación de los antecedentes recibidos, el CEC resolverá la S
 
 4.7. Solicitudes de desembolso
 
-La Solicitud de Desembolso deberá ser presentada por el IFI a la Corporación dentro de los 5 días hábiles siguientes a partir de la comunicación de la total tramitación de la resolución correspondiente que aprueba el desembolso, utilizando el formato que se incluye como ANEXO 5 de estas Normas, dando cumplimiento a los requisitos establecidos en la preceptiva y, si corresponde, de cualquiera de los requisitos establecidos por el CEC de CORFO, a través de su Oficina de Partes, o mediante los medios electrónicos que CORFO ponga a disposición para este efecto.
+La Solicitud de Desembolso deberá ser presentada por el IFI a la Corporación a partir de la comunicación de la total tramitación de la resolución correspondiente que aprueba el préstamo, utilizando el formato que se incluye como Anexo 5 de estas Normas, dando cumplimiento a los requisitos establecidos en la preceptiva y, si corresponde, de cualquiera de los requisitos establecidos por el CEC de Corfo, a través de su Oficina de Partes, o mediante los medios electrónicos que Corfo ponga a disposición para este efecto.
 
-Los préstamos aprobados serán desembolsados por la Corporación a los IFI en un solo giro, previa total tramitación de la resolución que aprueba el desembolso, siempre que CORFO cuente con la disponibilidad de recursos para hacerlo.4
+Los préstamos aprobados serán desembolsados por la Corporación a los IFI en uno o más giros, previa total tramitación de la resolución que aprueba el préstamo, siempre que Corfo cuente con la disponibilidad de recursos para hacerlo. Los préstamos otorgados por la Corporación a los IFI deberán ser solicitados íntegramente dentro del plazo de 90 días, contado desde la fecha de la comunicación de la Corporación de la total tramitación de la resolución que aprueba el préstamo correspondiente, debiendo efectuarse la primera solicitud de desembolso dentro del plazo de 30 días corridos, contado desde dicha fecha.
 
-Los desembolsos serán efectuados por la Corporación contra la suscripción, por un representante del IFI autorizado y registrado en la Corporación y entrega, de un pagaré que será redactado por CORFO. El pagaré que se suscriba se encuentra exento del impuesto establecido en la Ley de Timbres y Estampillas, según lo dispuesto en el artículo 33 de la Ley N°18.899.
+Los desembolsos serán efectuados por la Corporación contra la suscripción, por un representante del IFI autorizado y registrado en la Corporación y entrega de un pagaré que será redactado por Corfo. El pagaré que se suscriba se encuentra exento del impuesto establecido en la Ley de Timbres y Estampillas, según lo dispuesto en el artículo 33 de la ley Nº 18.899.
 
 ____________
 
 3 Contrato EPC: Contratos de ingeniería, adquisición y construcción. En inglés Engineering, Procurement and Construction.
-
-4 La Resolución N° 7, de 2019, de la Contraloría General de la República, fija normas sobre exención de trámite de toma de razón y la Resolución N° 8, de 2019, de ese mismo órgano determina los montos en UTM a partir de los cuales los actos quedarán sujetos a toma de razón y a controles de reemplazo cuando corresponda, por lo que, en algunos casos, el acto administrativo que aprueba el desembolso deberá cumplir con dicho trámite, antes de la entrega de los recursos.
 
 4.8. Opciones de prepago de los préstamos de refinanciamiento
 
@@ -426,25 +428,25 @@ CORFO se reserva el derecho de solicitar al IFI antecedentes adicionales, antes 
 
 5.4. Monto máximo por intermediario financiero
 
-La participación de un IFI como operador del Programa será autorizada por el CEC. Simultáneamente, junto a esta autorización, tal y como se establece en el numeral Nº3 de estas Normas, el CEC establecerá el monto máximo de recursos a la que podrá acceder el IFI con los recursos del Programa. Asimismo, anualmente, el CEC deberá definir el monto máximo al que podrá acceder un IFI en este Programa, mientras siga operando en él.
+La participación de un IFI como operador del Programa será autorizada por el CEC. Simultáneamente, junto a esta autorización, tal y como se establece en el numeral Nº 3 de estas Normas, el CEC fijará el monto máximo de recursos a los que podrá acceder el IFI con cargo a los recursos del Programa y, si se requiere, exigirá la constitución de covenants, garantías reales u otra condición adicional en favor de la Corporación establecidas en el numeral 5.5 de estas Normas. Asimismo, el CEC ajustará el monto máximo al que podrá acceder un IFI en este Programa y las demás exigencias que se hayan establecido a este efecto, mientras siga operando en él, teniendo en consideración la información que le entregue la GIF.
 
-Si al término del año no se ha comunicado modificación a la exposición del IFI, ésta se entenderá automáticamente renovada por un año, en las mismas condiciones vigentes.
+Tanto el monto máximo del IFI como las demás exigencias que se pudieran haber establecido en favor de Corfo, se mantendrán vigentes hasta que sean modificadas explícitamente por la Corporación.
 
 El monto máximo por IFI será determinado conforme metodología aprobada por el CEC.
 
 5.5. Covenants, garantías y condiciones adicionales
 
-El CEC podrá exigir a los IFI la constitución de covenants, garantías reales u otra condición adicional en favor de la Corporación como condición para acceder a recursos del Programa, si así lo estimare necesario.
+El CEC podrá exigir a los IFI la constitución de covenants, garantías reales u otra condición adicional en favor de la Corporación como condición para acceder a recursos del Programa, si así lo estimare necesario, de acuerdo con lo establecido en los numerales 3.1 y 5.4 de estas Normas. La constitución de cualquier condición adicional en favor de la Corfo que establezca el CEC: i) se irá ajustando en el tiempo; ii) aplicará de manera consolidada a todos los préstamos vigentes del IFI, y iii) se mantendrá activa mientras el IFI mantenga deuda vigente con la Corporación con recursos del Crédito Verde.
 
 El IFI deberá proporcionar, en tiempo, forma y calidad los antecedentes que la Corporación establezca para verificar el cumplimiento de los covenants y/o la constitución de las garantías reales exigidas por la Corporación en el plazo definido por el CEC.
 
 Independiente de los potenciales incumplimientos asociados a la especificidad de cada covenant, se considerarán también como incumplimientos de covenants los siguientes casos:
 
-1) Cuando la información requerida por la Corporación para la verificación de su cumplimiento no sea proporcionada en tiempo y forma por parte del IFI.
+1) Cuando la información requerida por la Corporación para la verificación de su cumplimiento no sea proporcionada, sin una justificación válida, en tiempo y forma por parte del IFI.
 
 2) Cuando la información proporcionada por el IFI para la validación del covenant difiera de la que éste presente en otras instancias supervisoras, como, por ejemplo, de la información de Ficha Estadística Codificada Uniforme - FECU, estados financieros, entre otros.
 
-En caso de que el IFI incumpliere un covenant, la constitución de las garantías reales u otras condiciones adicionales, exigidas por el CEC, CORFO podrá aplicar las sanciones establecidas en el Contrato de Participación.
+En caso de que el IFI incumpliere un covenant, la constitución de las garantías reales u otras condiciones adicionales, exigidas por el CEC, Corfo podrá aplicar las sanciones establecidas en estas Normas y en el Contrato de Participación.
 
 5.6. Formalización de ingreso al programa de intermediarios financieros
 
@@ -956,7 +958,31 @@ Para que se produzca la reducción de gravedad del incumplimiento antes indicado
 
 ANEXO 1
 
-CARTA DE SOLICITUD DE MONTO MÁXIMO ANUAL PROGRAMA CRÉDITO VERDE
+CARTA DE SOLICITUD DE MONTO MÁXIMO PROGRAMA CRÉDITO VERDE
+
+Fecha:
+
+REF. Solicitud de Monto Máximo - Programa "Crédito Verde".
+
+Señores
+
+Corporación de Fomento de la Producción
+
+Gerencia de Inversión y Financiamiento
+
+Presente
+
+Con cargo al Programa "Crédito Verde", solicitamos que Corfo defina el Monto Máximo disponible para el Intermediario (nombre del intermediario), para financiar operaciones de crédito o de leasing para proyectos elegibles, de empresas beneficiarias, según lo establecido en las Normas del Programa.
+
+Se adjuntan los antecedentes requeridos en numeral 4 de las Normas para la utilización del Programa en referencia.
+
+.............................................
+
+Nombre del Intermediario Financiero
+
+y nombre(s) y firma(s) de(los)
+
+representante(s) autorizado(s)
 
 ANEXO 2
 
@@ -966,13 +992,49 @@ ANEXO 2 A
 
 Formato de Antecedentes de operaciones y proyectos de generación y/o almacenamiento de energías, mediante ERNC
 
+La información reportada dependerá del tipo de financiamiento del que se trate. A modo de ejemplo: i) para financiamientos de proyectos de electromovilidad, deberá corresponder a la información agregada del total de vehículos del mismo tipo que se esté financiando; ii) para financiamientos de proyectos de instalación de paneles fotovoltaicos, deberá corresponder a la información agregada de paneles por cada recinto industrial o comercial en que se instalen.
+
+El Intermediario Financiero valida que la información entregada a Corfo es fidedigna y cuenta con los antecedentes de respaldo.
+
+.....................................
+
+(Nombre y firma representante de intermediario financiero)
+
+Nota: Si la presentación de la Solicitud corresponde a una Operación No Cursada, una vez aprobada por Corfo, el IFI deberá efectuar el curse de la operación dentro de los 90 días siguientes al desembolso de la Corporación.
+
+El IFI dispondrá de 30 días, desde el curse de cada operación, para demostrar la operación; la que deberá tener relación con la información entregada para su evaluación y con lo que el CEC podría haber establecido para su aprobación.
+
 ANEXO 2 B
 
 Formato de Antecedentes de operaciones y proyectos para proyectos de Eficiencia Energética (EE)
 
+La información reportada dependerá del tipo de financiamiento del que se trate. A modo de ejemplo: i) para financiamientos de proyectos de electromovilidad, deberá corresponder a la información agregada del total de vehículos del mismo tipo que se esté financiando; ii) para financiamientos de proyectos de instalación de paneles fotovoltaicos, deberá corresponder a la información agregada de paneles por cada recinto industrial o comercial en que se instalen.
+
+El Intermediario Financiero valida que la información entregada a Corfo es fidedigna y cuenta con los antecedentes de respaldo.
+
+.......................................
+
+(Nombre y firma representante de intermediario financiero)
+
+Nota: Si la presentación de la Solicitud corresponde a una Operación No Cursada, una vez aprobada por Corfo, el IFI deberá efectuar el curse de la operación dentro de los 90 días siguientes al desembolso de la Corporación.
+
+El IFI dispondrá de 30 días, desde el curse de cada operación, para demostrar la operación; la que deberá tener relación con la información entregada para su evaluación y con lo que el CEC podría haber establecido para su aprobación.
+
 ANEXO 2 C
 
-Formato de Antecedentes de operaciones y proyectos para Proyectos de Mejora medioambiental
+Formato de Antecedentes de operaciones y proyectos para Proyectos de Mejora Medio Ambiental
+
+La información reportada dependerá del tipo de financiamiento del que se trate. A modo de ejemplo: i) para financiamientos de proyectos de electromovilidad, deberá corresponder a la información agregada del total de vehículos del mismo tipo que se esté financiando; ii) para financiamientos de proyectos de instalación de paneles fotovoltaicos, deberá corresponder a la información agregada de paneles por cada recinto industrial o comercial en que se instalen.
+
+El Intermediario Financiero valida que la información entregada a Corfo es fidedigna y cuenta con los antecedentes de respaldo.
+
+......................................
+
+(Nombre y firma representante de intermediario financiero)
+
+Nota: Si la presentación de la Solicitud corresponde a una Operación No Cursada, una vez aprobada por Corfo, el IFI deberá efectuar el curse de la operación dentro de los 90 días siguientes al desembolso de la Corporación.
+
+El IFI dispondrá de 30 días, desde el curse de cada operación, para demostrar la operación; la que deberá tener relación con la información entregada para su evaluación y con lo que el CEC podría haber establecido para su aprobación.
 
 ANEXO 3
 
@@ -982,11 +1044,11 @@ DECLARACIÓN JURADA SIMPLE
 
 Conforme a lo establecido en las normas para la utilización del Programa "Crédito Verde", el(los) abajo firmante(s), actuando (por sí) / (en la representación que inviste(n)), declara(n) bajo juramento que cuenta(n) con las aprobaciones exigidas por la normativa ambiental vigente para efectuar inversiones a ser financiadas con cargo al Programa citado anteriormente, y que estas inversiones cumplen plenamente con dicha normativa. Las aprobaciones antes referidas constan en certificados vigentes emitidos por los organismos técnicos públicos competentes, los que fueron entregados al Intermediario Financiero.
 
-......................................................................................
+.....................................................
 
 (lugar) (fecha) (nombre de la empresa)
 
-.........................................................................
+...........................................
 
 (Nombre y firma representante de la empresa)
 
@@ -998,11 +1060,11 @@ DECLARACIÓN JURADA SIMPLE
 
 Conforme a lo establecido en las normas para la utilización del Programa "Crédito Verde", el(los) abajo firmante(s), actuando (por sí) / (en la representación que inviste(n)), declara(n) bajo juramento que cumple(n) con exigencias normativas sociales vigentes (normas laborales, tributarias y previsionales) del país y que estas inversiones, además, cumplen plenamente con dichas normativas. Los cumplimientos antes referidos constan en certificados vigentes emitidos por los organismos técnicos públicos competentes, los que fueron entregados al Intermediario Financiero.
 
-...................................................................................
+.....................................................
 
 (lugar) (fecha) (nombre de la empresa)
 
-.........................................................................
+...........................................
 
 (Nombre y firma representante de la empresa)
 
@@ -1026,11 +1088,11 @@ Declaramos, asimismo, que nosotros no figuramos, ni en la lista de sanciones de 
 
 Aceptamos que, en caso de que fuéramos incluidos en una lista de sanciones legalmente vinculante con CORFO, ésta tendrá derecho a excluirnos del proceso de otorgamiento de recursos y tendrá derecho a resolver el Contrato de Participación de forma inmediata, si la información entregada era objetivamente falsa o si la causa de exclusión se produce en un momento posterior, después de la entrega de la firma de los contratos de préstamo o de leasing con el intermediario financiero, según corresponda.
 
-.....................................................................................
+.....................................................
 
 (lugar) (fecha) (nombre de la empresa)
 
-..............................................................
+...........................................
 
 (Nombre y firma representante de la empresa)
 
@@ -1082,11 +1144,11 @@ DECLARACIÓN JURADA SIMPLE
 
 Conforme a lo establecido en la normativa del Programa "Crédito Verde", el(los) abajo firmante(s), actuando (por sí) / (en la representación que inviste(n)), declara(n) bajo juramento que el proyecto y la empresa asociada al mismo, no cuentan o no tienen ninguna relación con las actividades estipuladas en el Listado de Exclusión de la Cooperación Financiera Internacional a que se hace mención en la normativa del Programa citado.
 
-...................................................................................
+.....................................................
 
 (lugar) (fecha) (nombre de la empresa)
 
-........................................................................
+...........................................
 
 (Nombre y firma representante de la empresa)
 
