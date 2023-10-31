@@ -26,6 +26,8 @@ Segundo: Delégase en el Jefe de la División Política Regulatoria y Estudios, 
 
 3. Los Fax dirigidos al Ministerio de Relaciones Exteriores por asignación de frecuencias temporales a las autoridades de otros países que visitan Chile.
 
+4. Oficios dirigidos a empresas, entidades o personas naturales que certifican la falta de garantía de una conexión que le permita acceder a la prestación del Servicio Público de Transmisión de Datos en la zona consultada, para realizar trámites en línea como facturación electrónica, emisión de guías de despacho u otros documentos tributarios, conforme a lo requerido por el Servicio de Impuestos Internos.
+
 Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
 1. Oficios conductores y extractos de solicitudes de concesiones de servicios públicos e intermedios de telecomunicaciones, para las publicaciones correspondientes.
@@ -58,7 +60,7 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 15. Oficios que formulen reparos, observaciones, soliciten antecedentes adicionales, a peticionarios, concesionarios y permisionarios de servicios de telecomunicaciones, salvo en el contexto de procedimientos concursales establecidos en el artículo 13 c) de la Ley General de Telecomunicaciones.
 
-16. Oficios que den respuesta a la solicitud de información pública que se presenten en el marco de la ley Nº 20.285, sobre transparencia y acceso a la información de la Administración del Estado, que digan relación a materias de su competencia.
+### 16. Eliminado
 
 ### 17. Eliminado
 
@@ -146,9 +148,9 @@ Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de 
 
 ### 1. Eliminado
 
-2. Oficios de respuestas a requerimientos de informes y demás documentos de la Contraloría General de la República, en aquellos casos que tenga interés esta Subsecretaría, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
+2. Oficios de respuestas a requerimientos de informes y demás documentos de la Contraloría General de la República, así como aquellos oficios de retiro y reingreso en dicho Órgano de Control, en aquellos casos que tenga interés esta Subsecretaría, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios".
 
-3. Oficios de respuesta a los requerimientos de los Tribunales Ordinarios y Especiales del Poder Judicial, Fiscalía del Ministerio Público, Carabineros de Chile y Policía de Investigaciones relativos a información asociada a numeración telefónica, a autorizaciones de telecomunicaciones otorgadas a personas naturales y/o jurídicas y sus características, a procesos infraccionales regulados en el Título VII de la Ley Nº 18.168, General de Telecomunicaciones, en su calidad de Ministro de fe, y cualquier otro en materias propias del Servicio, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
+3. Oficios de respuesta a los requerimientos de los Tribunales Ordinarios y Especiales del Poder Judicial, Juzgados de Policía Local, Fiscalía del Ministerio Público, Carabineros de Chile y Policía de Investigaciones relativos a información asociada a numeración telefónica, a autorizaciones de telecomunicaciones otorgadas a personas naturales y/o jurídicas y sus características, a procesos infraccionales regulados en el Título VII de la Ley Nº 18.168, General de Telecomunicaciones, en su calidad de Ministro de fe, y cualquier otro en materias propias del Servicio, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
 
 4. Oficios, resoluciones de mero trámite y resoluciones que resuelvan en definitiva, en el marco de procedimientos de reclamos que se formulen por, entre o en contra de las concesionarias y los ISP, y particulares que no tengan la calidad de usuarios, en virtud de lo dispuesto en el Título III del Reglamento sobre Tramitación y resolución de Reclamos de Servicios de Telecomunicaciones.
 
@@ -170,7 +172,7 @@ Décimo segundo: Delégase en el Jefe de la División Gerencia del Fondo de Desa
 
 3. Oficios que aprueben la pertinencia técnica de las rendiciones por transferencias efectuadas en el marco del Fondo de Desarrollo de las Telecomunicaciones.
 
-4. 4. Certificados de pago de subsidios asociados a concursos públicos realizados al amparo del Fondo de Desarrollo de las Telecomunicaciones, cuyo monto de subsidio no supere los $160.000.000.- (ciento sesenta millones de pesos)".
+4. Certificados de pago de subsidios asociados a concursos públicos realizados al amparo del Fondo de Desarrollo de las Telecomunicaciones, cuyo monto de subsidio no supere los $550.000.000.- (quinientos cincuenta millones de pesos).
 
 5. Oficios conductores de los certificados de pago de subsidio asociados a concursos públicos o licitaciones realizadas al amparo del Fondo de Desarrollo de las Telecomunicaciones.
 
@@ -196,9 +198,9 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 10. Oficios de tramitación y/o término de fianzas de fidelidad funcionaria, respecto de los funcionarios de la Subsecretaría que hayan sido requeridos por la División respectiva.
 
-11. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales; aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y Resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las Resoluciones exentas que modifiquen a las anteriores.
+11. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 100 unidades tributarias mensuales y con un tope de 1000 unidades tributarias mensuales; aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y Resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las Resoluciones exentas que modifiquen a las anteriores.
 
-12. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Términos de Referencia, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales y las resoluciones que modifiquen a las anteriores.
+12. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Requerimientos, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea igual o superior a 100 unidades tributarias mensuales y con un tope de 1000 unidades tributarias mensuales y las resoluciones que modifiquen a las anteriores.
 
 13. Resoluciones que verifican los requisitos para acceder a los beneficios establecidos en la ley Nº 20.948, las que disponen el pago de la bonificación por retiro contemplada en el Título II de la ley Nº 19.882, de la bonificación adicional prevista en la ley Nº 20.948 y del bono post laboral establecido en la ley Nº 20.305, y las que las modifique o dejen sin efecto.
 
@@ -220,7 +222,7 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 22. Oficios de retiro y reingreso a la Contraloría General de la República de aquellos actos administrativos y demás documentos relativos a materias de personal y contratación administrativa de suministro de bienes y prestación de servicios, en los que tenga interés la Subsecretaría.
 
-23. Aprobar las solicitudes del personal del Gabinete de la Subsecretaría de Telecomunicaciones, sean planta, contratas u honorarios, derivadas a través del Sistema de Personal y Remuneraciones, consistentes en Solicitud de Feriados; Solicitud de Permisos Administrativos Con Goce; Solicitud de Justificación Horaria; Solicitud de Uso de Horas a Compensar; Solicitud de Comisión de Servicio Nacional; Solicitud de Trabajo Extraordinario; Solicitud Informe Mensual Honorarios; Solicitud de Permiso Interferiado; Solicitud de Permiso Fallecimiento Hijos o Cónyuges; Solicitud de Permiso Fallecimiento Hijos en Gestación o Padres; Solicitud de Permiso Por Nacimiento Hijo(a).
+### 23. Eliminado
 
 24. Resoluciones que aprueben, modifiquen o deje sin efecto cobertura de Jardines Infantiles para funcionarias/os de la Subsecretaría.
 
@@ -256,7 +258,7 @@ Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la f
 
 13. Resoluciones que autoricen permisos de día hábil entre dos feriados que hayan sido debidamente autorizados por la jefatura pertinente en el sistema de personal, y las que las modifiquen o dejen sin efecto.
 
-14. Resoluciones que autoricen permisos laborales por fallecimiento de un hijo, aún en período de gestación, del cónyuge, del padre o la madre del trabajador, y permiso paternal por nacimiento o adopción de un hijo, y las que las modifiquen o dejen sin efecto.
+14. Resoluciones que autoricen permisos laborales por fallecimiento de un hijo, aun en período de gestación, del cónyuge, del hermano(a), del padre o la madre del trabajador, y permiso paternal por nacimiento o adopción de un hijo, y las que las modifiquen o dejen sin efecto.
 
 15. Notificación al personal a contrata, a través de cualquier medio de comunicación escrito, sobre la prórroga de la contratación, conforme al artículo 10 DFL (H) Nº 29 de 2004.
 
@@ -268,6 +270,16 @@ Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la f
 
 19. Cartas de notificación de término anticipado de convenios a honorarios de personas naturales, que no sean asimilados a grados, y bajo cualquier otra modalidad de pago y monto.
 
+20. Resoluciones exentas que autorizan pago por concepto de aguinaldo a personas contratadas a honorarios.
+
+21. Oficios dirigidos al Banco del Estado relacionados con las cuentas corrientes de la Subsecretaría de Telecomunicaciones, para efectuar trámites que digan relación con la administración de dichas cuentas.
+
+22. Autorizar los formularios de solicitud de descuentos voluntarios presentados por los funcionarios, cuando sea procedente.
+
+23. Resoluciones que autorizan descuento y/o reintegro por reducción o rechazo de licencias médicas de funcionarios de la Subsecretaría y servidores a honorarios, y las que modifiquen o dejen sin efecto.
+
+24. Resoluciones que autoriza a efectuar labores de docencia a funcionario, y las que modifiquen o dejen sin efecto.
+
 Décimo quinto: Deléganse en el Jefe del Departamento Gestión de Personas, las siguientes facultades:
 
 1. Denunciar y suscribir, a nombre del Servicio, el Formulario de Declaración Individual de Accidentes del Trabajo, cuando corresponda.
@@ -276,19 +288,23 @@ Décimo quinto: Deléganse en el Jefe del Departamento Gestión de Personas, las
 
 3. Transcribir las resoluciones emanadas del Jefe de la División de Administración y Finanzas.
 
+### 4. Otorgar los certificados para el Servicio de Bienestar
+
+5. Informar sobre cotizaciones y remuneraciones en los formularios de licencia médica.
+
 Décimo sexto: Delégase en el Jefe del Departamento de Finanzas, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-1. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea inferior a 50 unidades tributarias mensuales; Resoluciones exentas que aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos inferiores a 50 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y resoluciones exentas que modifiquen a las mismas.".
+1. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea inferior a 100 unidades tributarias mensuales; Resoluciones exentas que aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos inferiores a 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y resoluciones exentas que modifiquen a las mismas.
 
-2. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Términos de Referencia, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea inferior a 50 unidades tributarias mensuales y Resoluciones que modifiquen a las mismas.
+2. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Requerimientos, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea inferior a 100 unidades tributarias mensuales y Resoluciones que modifiquen a las mismas.
 
 ### 3. Eliminado
 
 4. Resoluciones que autorizan el pago de facturas producto de la compra de pasajes aéreos por viajes no realizados.
 
-5. Resoluciones exentas que autorizan pago por concepto de aguinaldo a personas contratadas a honorarios.
+### 5. Eliminado
 
-6. Oficios dirigidos al Banco del Estado relacionados con las cuentas corrientes de la Subsecretaría de Telecomunicaciones, para efectuar trámites que digan relación con la administración de dichas cuentas.
+### 6. Eliminado
 
 7. Oficios conductores que remiten cheques a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones, por concepto de pagos de remuneraciones y pagos a proveedores.
 
@@ -296,7 +312,7 @@ Décimo sexto: Delégase en el Jefe del Departamento de Finanzas, la facultad de
 
 9. Formularios de la Caja de Ahorro de Empleados Públicos que presenten los funcionarios para solicitar créditos.
 
-10. Autorizar los formularios de solicitud de descuentos voluntarios presentados por los funcionarios, cuando sea procedente.
+### 10. Eliminado
 
 11. Oficios a instituciones de salud, solicitando el reembolso por subsidio de licencias médicas.
 
@@ -304,7 +320,7 @@ Décimo sexto: Delégase en el Jefe del Departamento de Finanzas, la facultad de
 
 13. Resoluciones exentas que autorizan pago por concepto de servicios prestados por receptores judiciales requeridos para el cumplimiento de las funciones del Servicio.
 
-14. Oficios dirigidos a las Cajas de Compensación solicitando bonificación a retiro.
+### 14. Eliminado
 
 15. Oficios que den respuesta a requerimientos de información en materia de SIGFE.
 
@@ -316,7 +332,7 @@ Décimo séptimo: Deléganse en el Jefe del Departamento de Finanzas, las siguie
 
 3. Firmar documentos bancarios (cheques) y transferencias electrónicas por giros de las cuentas corrientes de la Subsecretaría de Telecomunicaciones.
 
-### 4. Otorgar los certificados para el Servicio de Bienestar
+### 4. Eliminado
 
 5. Visar, suscribir o autorizar las planillas o formularios de las AFP, Isapres, INP, Compañías de Seguros y Tesorería General de la República.
 
@@ -324,7 +340,7 @@ Décimo séptimo: Deléganse en el Jefe del Departamento de Finanzas, las siguie
 
 7. Otorgar certificados de renta a solicitud de los funcionarios y personas contratadas a honorarios.
 
-8. Informar sobre cotizaciones y remuneraciones en los formularios de licencia médica.
+### 8. Eliminado
 
 ### 9. Visar, suscribir o autorizar las planillas por concepto de viáticos
 
@@ -332,11 +348,11 @@ Décimo séptimo: Deléganse en el Jefe del Departamento de Finanzas, las siguie
 
 Décimo octavo: Deléganse en el Jefe de la Oficina de Partes las siguientes facultades:
 
-1. Suscribir y autorizar las guías de despacho fechadas, numeradas y correlativas de la correspondencia certificada que se entrega a la Oficina de Correos de Chile, según convenio de conducción de correspondencia.
+1. Suscribir y autorizar la Guía de Entrega Empresas (Formulario CL-04) fechadas, numeradas y correlativas de la correspondencia certificada que se entrega a la Oficina de Correos de Chile, según convenio de conducción de correspondencia.
 
 2. Suscribir los oficios conductores que notifiquen, por carta certificada o por el medio que corresponda, los decretos y resoluciones ministeriales y los oficios conductores que notifiquen resoluciones de las Divisiones.
 
-### 3. Transcribir las resoluciones originales de las Divisiones
+### 3. Eliminado
 
 Décimo noveno: La presente resolución entrará en vigencia el décimo día hábil desde su total tramitación, quedando sin efecto, a contar de la misma fecha, la resolución exenta Nº 1.850, de 2012, modificada por resolución Nº 4.259, de 22 de agosto de 2012, ambas de la Subsecretaría de Telecomunicaciones, y cualquier otro acto de delegación de facultades que se contraponga al presente acto.
 
