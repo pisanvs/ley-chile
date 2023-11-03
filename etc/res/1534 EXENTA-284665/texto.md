@@ -2760,4 +2760,130 @@ ciudadana, que ocurran
 
 en la comuna.
 
+1523 Fono La recepción de llamadas
+
+Emergencia por parte la Dirección de
+
+San Seguridad Pública de la
+
+Bernardo Ilustre Municipalidad de
+
+San Bernardo, ante
+
+situaciones de seguridad
+
+y/o emergencias
+
+ciudadana, que ocurran en
+
+la comuna. El personal
+
+de dicha unidad recibirá
+
+la llamada y efectuará
+
+las siguientes acciones:
+
+Coordinación con
+
+Carabineros, Bomberos y/o
+
+Ambulancias, según
+
+requerimiento; acudir con
+
+los vehículos de la
+
+Dirección de Seguridad
+
+Pública al lugar de los
+
+hechos, para prestar
+
+atención a las víctimas
+
+y coordinaciones
+
+necesarias, cierre de
+
+calles o perímetro
+
+del lugar donde
+
+se produjeron los hechos
+
+y el apoyo y contención
+
+telefónica de la persona
+
+que está siendo
+
+afectada por un delito o
+
+accidente.
+
+1524 Fono La recepción de llamadas
+
+Emergencia por parte la Dirección de
+
+Quinta Seguridad Pública de la
+
+Normal Ilustre Municipalidad de
+
+Quinta Normal, ante
+
+situaciones de seguridad
+
+y/o emergencias
+
+ciudadana, que ocurran en
+
+la comuna. El personal
+
+de dicha unidad recibirá
+
+la llamada y efectuará
+
+las siguientes acciones:
+
+Coordinación con
+
+Carabineros, Bomberos y/o
+
+Ambulancias, según
+
+requerimiento; acudir con
+
+los vehículos de la
+
+Dirección de Seguridad
+
+Pública al lugar de los
+
+hechos, para prestar
+
+atención a las víctimas
+
+y coordinaciones
+
+necesarias, cierre de
+
+calle o perímetro
+
+del lugar donde
+
+se produjeron los
+
+hechos y el apoyo
+
+y contención telefónica
+
+de la persona que
+
+está siendo afectada
+
+por un delito o
+
+accidente.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
