@@ -138,7 +138,7 @@ e) En estos casos, la vivienda quedará gravada con hipoteca en favor del Serviu
 
 10.2. Los pagos se harán en conformidad con lo señalado en el artículo 5° de la resolución exenta N° 1.875 (V. y U.), de 2015, salvo lo que se indica a continuación:
 
-10.2.1. Por la prestación de los servicios de asistencia técnica, el Serviu pagará un honorario base de 20 UF por operación terminada de adquisición de vivienda construida usada.
+10.2.1. Por la prestación de los servicios de asistencia técnica, el Serviu pagará un honorario base de 24 UF por operación terminada de adquisición de vivienda construida usada.
 
 10.2.2. Dado que no se contempla el Subsidio de Factibilización, tampoco corresponderá pagar Servicios de Asistencia Técnica por ese concepto.
 
@@ -147,6 +147,8 @@ e) En estos casos, la vivienda quedará gravada con hipoteca en favor del Serviu
 10.2.4. En el caso de operaciones de adquisición de vivienda construida, nueva o usada, se podrán adicionar hasta 7 UF por concepto de Gastos Operacionales. De estos gastos, hasta 5 UF podrán destinarse a pagos de aranceles notariales y otros derivados de cobros comerciales asociados a la operación de compraventa, los que podrán ser reembolsados contra las boletas y/o facturas que acrediten los gastos realizados. Asimismo, hasta 2 UF podrán destinarse al pago del arancel por inscripción de la vivienda en el Conservador de Bienes Raíces correspondiente, aquello conforme a lo dispuesto en el artículo 7° de la resolución citada en el visto e) precedente. Dichos documentos podrán ser presentados directamente por las familias o por las entidades de Asesoría Técnica Legal que prestan el servicio en las operaciones de compraventa.
 
 10.2.5. Se adicionarán 2 Unidades de Fomento para el financiamiento de los gastos que irrogue la formalización y protocolización del contrato mutuo a que alude el Resuelvo 8. de esta resolución, la que se efectuará de acuerdo al artículo 61 de la ley N° 16.391.
+
+10.2.6. Tratándose de una operación de adquisición de vivienda construida, en la cual se aplique el Subsidio de Localización, el Serviu adicionará 3 UF al pago final de la asistencia técnica concluida
 
 10.3. En los casos en que Serviu ejerza la función de Asistencia Técnica Legal, éste podrá subcontratar algunos de los servicios señalados en el numeral 1 del artículo 5°, letra d), como la tasación del inmueble o el estudio de títulos del mismo, entre otros. Para aquello, Serviu podrá destinar parte de los recursos de asistencia técnica asignados para cada operación, cuyo monto específico deberá ser determinado por el propio Servicio.
 
