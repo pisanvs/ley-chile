@@ -32,19 +32,21 @@ A. Sexto Juzgado Militar (VI D.E.)
 
 2) Asiento del Juzgado: Ciudad de Iquique.
 
-3) Fiscalías Militares Letradas Dependientes:
+3) Fiscalías Militares Letradas
+
+Dependientes:
 
 a. Fiscalía Militar Letrada de Arica
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional:
 
-Arica y Parinacota.
+Provincias de Arica y Parinacota.
 
 b. Fiscalía Militar Letrada de Iquique
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional:
 
-Iquique y Tamarugal.
+Provincias de Iquique y Tamarugal.
 
 B. Primer Juzgado Militar (I D.E.)
 
@@ -56,31 +58,35 @@ Región.
 
 Antofagasta.
 
-3) Fiscalías Militares Letradas Dependientes:
+3) Fiscalías Militares Letradas
+
+Dependientes:
 
 a. Fiscalía Militar Letrada de Calama
 
-- Territorio Jurisdiccional: Provincia de El
+- Territorio Jurisdiccional: Provincia
 
-Loa.
+de El Loa.
 
 b. Fiscalía Militar Letrada de Antofagasta
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional: Provincias
 
-Antofagasta y Tocopilla.
+de Antofagasta y Tocopilla.
 
 c. Fiscalía Militar Letrada de Copiapó
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional: Provincias
 
-Chañaral, Copiapó y Huasco.
+de Chañaral, Copiapó y Huasco.
 
 C. Segundo Juzgado Militar (II D.E.)
 
-1) Territorio Jurisdiccional: IV, V, VI y VII
+1) Territorio Jurisdiccional: IV, V,
 
-Regiones y Región Metropolitana
+VI y VII Regiones y Región
+
+Metropolitana
 
 2) Asiento del Juzgado: Ciudad de Santiago
 
@@ -88,131 +94,161 @@ Regiones y Región Metropolitana
 
 a. Fiscalía Militar Letrada de La Serena
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional:
 
-Elqui, Limarí y Choapa.
+Provincias de Elqui, Limarí y Choapa.
 
-b. Fiscalía Militar Letrada de Los Andes
-
-- Territorio Jurisdiccional: Provincias de
-
-San Felipe de Aconcagua y Los Andes.
+b. Suprimida.
 
 c. Fiscalía Militar Letrada de Valparaíso
 
-- Territorio Jurisdiccional: provincias de
+- Territorio Jurisdiccional:
 
-Valparaíso, San Antonio, Petorca, Marga Marga, Quillota e Isla de Pascua.
+provincias de Valparaíso,
+
+San Antonio, Petorca,
+
+Marga Marga, Quillota e Isla
+
+de Pascua, San Felipe de Aconcagua
+
+y Los Andes.
 
 d. Suprimida.
 
-e. Primera, Segunda y Tercera, Fiscalías
+e. Primera, Segunda y Tercera,
 
-Militares Letradas de Santiago
+Fiscalías Militares Letradas
 
-- Territorio Jurisdiccional: Provincias de
+de Santiago
 
-Santiago, Chacabuco, Cordillera, Maipo,
+- Territorio Jurisdiccional:
+
+Provincias de Santiago,
+
+Chacabuco, Cordillera, Maipo,
 
 Melipilla y Talagante.
 
-f. Fiscalía Militar Letrada de Rancagua
-
-- Territorio Jurisdiccional: Provincias de
-
-Cachapoal, Cardenal Caro, Colchagua y Curicó.
+f. Suprimida.
 
 g. Suprimida.
 
 h. Fiscalía Militar Letrada de Talca
 
-- Territorio Jurisdiccional: Provincia de
+- Territorio Jurisdiccional: Provincia
 
-Talca, Cauquenes y Linares.
+de Talca, Cauquenes y Linares,
+
+Cachapoal, Cardenal Caro, Colchagua
+
+y Curicó.
 
 i. Suprimida.
 
 D. Tercer Juzgado Militar (III D.E.).
 
-1) Territorio Jurisdiccional: VIII, IX, XIV, XVI y X
+1) Territorio Jurisdiccional:
 
-Regiones (excepto Provincia de Palena)
+VIII, IX, XIV, XVI y X
 
-2) Asiento del Juzgado: Ciudad de Valdivia
+Regiones (excepto Provincia
 
-3) Fiscalías Militares Letradas Dependientes:
+de Palena)
+
+2) Asiento del Juzgado: Ciudad de
+
+Valdivia
+
+3) Fiscalías Militares Letradas
+
+Dependientes:
 
 a. Suprimida.
 
 b. Fiscalía Militar Letrada de Concepción
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional:
 
-Concepción y Arauco.
+Provincias de Concepción, Arauco,
+
+Diguillín, Punilla e Itata.
 
 c. Suprimida.
 
-d. Fiscalía Militar Letrada de Angol
+d. Suprimida.
 
-- Territorio Jurisdiccional: Provincias de
+e. Fiscalía Militar Letrada de
 
-Bío-Bío y Malleco.
+Temuco
 
-e. Fiscalía Militar Letrada de Temuco
+- Territorio Jurisdiccional: Provincia
 
-- Territorio Jurisdiccional: Provincia de
-
-Cautín.
+de Cautín, Bío-Bío y Malleco.
 
 f. Fiscalía Militar Letrada de Valdivia
 
-- Territorio Jurisdiccional: Provincias de
+- Territorio Jurisdiccional: Provincias
 
-Valdivia y Ranco.
+de Valdivia y Ranco, Osorno,
+
+Llanquihue y Chiloé.
 
 g. Suprimida.
 
-h. Fiscalía Militar Letrada de Puerto Varas
-
-- Territorio Jurisdiccional: Provincias de
-
-Osorno, Llanquihue y Chiloé.
+h. Suprimida.
 
 E. Cuarto Juzgado Militar (IV D.E.).
 
-1) Territorio Jurisdiccional: XI Región y
+1) Territorio Jurisdiccional: XI Región
 
-Provincia de Palena.
+y Provincia de Palena.
 
-2) Asiento del Juzgado: Ciudad de Coyhaique.
+2) Asiento del Juzgado: Ciudad de
 
-3) Fiscalías Militares Letradas Dependientes:
+Coyhaique.
 
-a. Fiscalía Militar Letrada de Coyhaique
+3) Fiscalías Militares Letradas
 
-- Territorio Jurisdiccional: Provincias de
+Dependientes:
 
-Palena, Coyhaique, Aysén, General Carrera y
+a. Fiscalía Militar Letrada de
+
+Coyhaique
+
+- Territorio Jurisdiccional:
+
+Provincias de Palena, Coyhaique,
+
+Aysén, General Carrera y
 
 Capitán Prat.
 
 F. Quinto Juzgado Militar (V D.E.).
 
-1) Territorio Jurisdiccional: XII Región.
+1) Territorio Jurisdiccional:
 
-2) Asiento del Juzgado: Ciudad de Punta
+XII Región.
 
-Arenas.
+2) Asiento del Juzgado: Ciudad de
 
-3) Fiscalías Militares Letradas Dependientes:
+Punta Arenas.
 
-a. Fiscalía Militar Letrada de Punta Arenas
+3) Fiscalías Militares Letradas
 
-- Territorio Jurisdiccional: Provincias de
+Dependientes:
 
-Ultima Esperanza, Magallanes, Tierra del
+a. Fiscalía Militar Letrada de
 
-Fuego y Antártica Chilena.
+Punta Arenas
+
+- Territorio Jurisdiccional:
+
+Provincias de Ultima Esperanza,
+
+Magallanes, Tierra del Fuego
+
+y Antártica Chilena.
 
 4. Facúltase a los Jueces Militares para que dentro de su jurisdicción, y en cumplimiento del artículo 27 del Código de Justicia Militar, establezcan territorios jurisdiccionales distintos a los señalados, para los Fiscales Letrados, en este decreto, a fin de asignar territorios jurisdiccionales a Fiscales no Letrados. De los nombramientos y asignación de territorios jurisdiccionales a Fiscales no Letrados que realicen las autoridades señaladas en el inciso anterior, se deberán remitir copias del respectivo decreto económico a la Corte Marcial del Ejército, Fuerza Aérea y Carabineros, a las Auditorías Generales del Ejército, Fuerza Aérea y Carabineros y, en general, a todas aquellas autoridades y entidades que, por la naturaleza de sus funciones, deban tener conocimiento de dicho decreto y deberán publicarse en el Boletín Oficial del Ejército, Armada, Fuerza Aérea y Carabineros e Investigaciones de Chile.
 
