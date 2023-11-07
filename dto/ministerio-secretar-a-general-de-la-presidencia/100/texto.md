@@ -2654,6 +2654,8 @@ La nueva Constitución deberá difundirse y repartirse gratuitamente a todos los
 
 Sólo para efectos de ejecutar las acciones en materia de padrones y propaganda electoral establecidas en las leyes aplicables al plebiscito constitucional, el Servicio Electoral deberá considerar como fecha de celebración del plebiscito el día 17 de diciembre de 2023.
 
+Al plebiscito constitucional le será aplicable lo dispuesto en el párrafo final del número 3 del inciso quinto del artículo 144.
+
 #### Artículo 160
 
 <!-- parte:10399041 -->
