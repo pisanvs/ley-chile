@@ -862,9 +862,11 @@ c) Ejercer contra el imputado acciones tendientes a perseguir las responsabilida
 
 d) Ser oída, si lo solicitare, por el fiscal antes de que éste pidiere o se resolviere la suspensión del procedimiento o su terminación anticipada;
 
-e) Ser oída, si lo solicitare, por el tribunal antes de pronunciarse acerca del sobreseimiento temporal o definitivo u otra resolución que pusiere término a la causa, y
+e) Ser oída, si lo solicitare, por el tribunal antes de pronunciarse acerca del sobreseimiento temporal o definitivo u otra resolución que pusiere término a la causa.
 
 f) Impugnar el sobreseimiento temporal o definitivo o la sentencia absolutoria, aun cuando no hubiere intervenido en el procedimiento.
+
+g) Ser informada acerca de las postulaciones a la libertad condicional y de la concesión de permisos de salida ordinarios de la persona condenada. Para tales efectos, el tribunal que dicte la sentencia condenatoria deberá consultar a la víctima si desea mantenerse informada de esta materia, en cuyo caso ésta fijará un domicilio y establecerá un medio de notificación. Recibida por el tribunal la comunicación por parte de Gendarmería de Chile de que una persona ha solicitado la libertad condicional, o que se le ha concedido algún permiso de salida ordinario, deberá notificar dichas circunstancias a la víctima dentro del plazo de cinco días.
 
 Tratándose de los delitos previstos en el Código Penal, en los artículos 141, inciso final; 142, inciso final; 150 A; 150 D; 361; 362; 363; 365 bis; 366, incisos primero y segundo; 366 bis; 366 quáter; 367; 367 ter; 372 bis; 411 quáter, cuando se cometan con fines de explotación sexual, y 433, número 1, en relación con la violación, así como también cualquier delito sobre violencia en contra de las mujeres, las víctimas tendrán además derecho a:
 
@@ -887,6 +889,8 @@ h) Que se adopten medidas para prevenir la victimización secundaria, esto es, e
 Asimismo, tendrá derecho a que su declaración sea recibida en el tiempo más próximo desde la denuncia, por personal capacitado de Carabineros de Chile, de la Policía de Investigaciones de Chile o del Ministerio Público y cuente con el soporte necesario para evitar que vuelva a realizarse durante la etapa de investigación, a menos que ello sea indispensable para el esclarecimiento de los hechos o que la propia víctima lo requiera. La declaración judicial deberá ser recibida por jueces capacitados, y se garantizará en los casos referidos, el respeto por la seguridad, privacidad y dignidad de la víctima.
 
 Los derechos precedentemente señalados no podrán ser ejercidos por quien fuere imputado del delito respectivo, sin perjuicio de los derechos que le correspondieren en esa calidad.
+
+> **Nota.** El artículo tercero transitorio de la ley 21627, publicada el 09.11.2023, dispone que para los efectos del ejercicio del derecho previsto en el literal g) del inciso primero del presente artículo, agregado por el Nº 2 del artículo 3 de la citada norma, en los casos en que la sentencia haya sido dictada con anterioridad a la entrada en vigor de dicha ley, dentro del plazo de dos años de su vigencia, las víctimas podrán manifestar al tribunal que dictó la sentencia su intención de ejercer dicho derecho, e indicarán para ello un domicilio o una forma de notificación electrónica.
 
 #### Artículo 109 bis
 

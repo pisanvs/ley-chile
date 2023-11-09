@@ -418,6 +418,12 @@ Con todo, la referida información deberá ser entregada siempre a requerimiento
 
 En el caso a que se refiere el inciso precedente, la información entregada mantendrá su carácter reservado para los funcionarios que accedan a ella con ocasión de los referidos requerimientos.
 
+#### Artículo 28
+
+La concesión de permisos de salida ordinarios deberá ser comunicada por escrito al tribunal a cargo de la ejecución de la pena, dentro de los cinco días siguientes contados desde la notificación del permiso a la persona condenada, con indicación del tipo de permiso otorgado y su extensión.
+
+Los permisos solicitados por personas condenadas a presidio perpetuo deberán ser comunicados al tribunal a cargo de la ejecución de la pena, desde su postulación.
+
 ## Artículos transitorios
 
 #### Artículo 1°

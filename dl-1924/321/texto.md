@@ -18,7 +18,9 @@ Toda persona condenada a una pena privativa de libertad de más de un año de du
 
 2) Haber observado conducta intachable durante el cumplimiento de la condena. Será calificado con esta conducta la persona condenada que tenga nota "muy buena", de conformidad al reglamento de este decreto ley, en los cuatro bimestres anteriores a su postulación. En caso que la condena impuesta no excediere de quinientos cuarenta y un días, se considerará como conducta intachable haber obtenido nota "muy buena" durante los tres bimestres anteriores a su postulación.
 
-3) Contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia, con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad. Dicho informe contendrá, además, los antecedentes sociales y las características de personalidad de la persona condenada, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos.
+3) Contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia, con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad. Dicho informe será un antecedente calificado al momento de resolver la respectiva solicitud, y contendrá, además, los antecedentes sociales y las características de personalidad de la persona condenada, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos. Asimismo, deberá contener información sobre eventuales beneficios intrapenitenciarios que la persona postulante hubiese obtenido, especialmente si éstos hubiesen sido revocados y las razones para ello.
+
+Sin perjuicio de lo señalado en el inciso anterior, la persona condenada a presidio perpetuo, a quien le fuere negada la libertad condicional, no podrá postular nuevamente sino hasta la primera quincena de abril u octubre del año siguiente, cuando la postulación rechazada se hubiere solicitado durante los meses de abril u octubre, respectivamente.
 
 #### Artículo 3°
 
@@ -26,7 +28,7 @@ Las personas condenadas a presidio perpetuo calificado sólo podrán postular a 
 
 Las personas condenadas a presidio perpetuo sólo podrán postular al beneficio de la libertad condicional una vez cumplidos veinte años de privación de libertad.
 
-Asimismo, las personas condenadas por los delitos de parricidio, femicidio, homicidio simple, homicidio calificado, robo con homicidio, violación con homicidio, violación, infanticidio, y por los delitos contemplados en el número 2° del artículo 365 bis y en los artículos 363, 365 bis, 366 incisos primero y segundo, 366 bis, 367, 367 ter, 367 quáter, 367 septies, 411 quáter, 436 y 440, todos del Código Penal, en los artículos 281 bis, 281 ter, 281 quáter, 416, 416 bis N° 1 y 2, y 416 ter del Código de Justicia Militar; en los artículos 17, 17 bis N° 1 y 2, y 17 ter de la ley orgánica de la Policía de Investigaciones de Chile; en los artículos 15 A, 15 B N° 1 y 2, y 15 C de la ley orgánica de Gendarmería de Chile, y homicidio de integrantes del Cuerpo de Bomberos de Chile, de integrantes de las Fuerzas Armadas y servicios bajo su dependencia, en el ejercicio de sus funciones, y el de elaboración o tráfico de estupefacientes, sólo podrán postular a este beneficio cuando hubieren cumplido dos tercios de la pena.
+Asimismo, las personas condenadas por los delitos de parricidio, femicidio, homicidio simple, homicidio calificado, robo con homicidio, robo con violación, violación con homicidio, violación, infanticidio, y por los delitos contemplados en el número 2° del artículo 365 bis, en los incisos tercero, cuarto y quinto del artículo 141, en el número 1 del inciso primero y en el inciso segundo del artículo 142 y en los artículos 363, 365 bis, 366 incisos primero y segundo, 366 bis, 367, 367 ter, 367 quáter, 367 septies, 411 quáter, 436, 440 y 474, todos del Código Penal, en los artículos 281 bis, 281 ter, 281 quáter, 416, 416 bis N° 1 y 2, y 416 ter del Código de Justicia Militar; en los artículos 17, 17 bis N° 1 y 2, y 17 ter de la ley orgánica de la Policía de Investigaciones de Chile; en los artículos 15 A, 15 B N° 1 y 2, y 15 C de la ley orgánica de Gendarmería de Chile, y homicidio de integrantes del Cuerpo de Bomberos de Chile, de integrantes de las Fuerzas Armadas y servicios bajo su dependencia, en el ejercicio de sus funciones, y el de elaboración o tráfico de estupefacientes, sólo podrán postular a este beneficio cuando hubieren cumplido dos tercios de la pena. Para los casos establecidos en el presente inciso y en los incisos primero y segundo de este artículo, se considerará como conducta intachable haber obtenido nota "muy buena" durante los seis bimestres anteriores a su postulación.
 
 Las personas condenadas a dos o más penas, cuya suma alcance o supere los cuarenta años de privación de libertad, sólo podrán postular al beneficio de libertad condicional una vez que hayan cumplido veinte años de reclusión. En caso de concederse, el período de supervisión a que se refiere el artículo 8° se extenderá hasta cumplir cuarenta años contados desde el inicio de la condena.
 
@@ -60,6 +62,10 @@ Para los efectos de lo dispuesto en este artículo, el informe de Gendarmería d
 
 La postulación al beneficio de libertad condicional será conocida por una Comisión de Libertad Condicional, que funcionará en la Corte de Apelaciones respectiva, durante los primeros quince días de los meses de abril y octubre de cada año, previo informe de Gendarmería de Chile. Este informe deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, en la forma que determine el reglamento respectivo.
 
+Para efectos de lo dispuesto en el literal g) del inciso primero del artículo 109 del Código Procesal Penal, a lo menos quince días antes de las fechas señaladas en el inciso anterior, Gendarmería de Chile deberá comunicar al tribunal a cargo de la ejecución de la pena respectiva las postulaciones a la libertad condicional presentadas por los condenados. El tribunal deberá notificar a la víctima dentro del plazo de cinco días de recibida la comunicación de Gendarmería de Chile.
+
+La víctima, personalmente o a través de su representante, podrá dar a conocer sus alegaciones, por escrito, ante la Comisión de Libertad Condicional respectiva, durante los primeros cinco días de los meses de abril y octubre, según corresponda. La Comisión podrá además oír en audiencia a la víctima o a sus representantes, si ésta así lo solicita, por fundamentos especialmente calificados, ya sea en atención a la gravedad de los hechos por los que la persona postulante fue condenada o por su calidad de reincidente.
+
 Cada Comisión de Libertad Condicional estará integrada por:
 
 a) Un Ministro de Corte de Apelaciones, quien será su presidente. Dicho Ministro será elegido por el Pleno de la respectiva Corte.
@@ -78,6 +84,10 @@ Será facultad de la Comisión de Libertad Condicional conceder, rechazar y revo
 
 La Comisión deberá constatar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, para lo cual se tendrán a la vista los antecedentes emanados de Gendarmería de Chile, y todos los demás que la Comisión considere necesarios para mejor resolver.
 
+Tratándose de una postulación en que la persona estuviese condenada por alguno de los delitos señalados en los artículos 3º o 3º bis, y cuando dicha postulación hubiese sido rechazada previamente, la respectiva Comisión de Libertad Condicional deberá fundamentar de manera expresa, en caso de su concesión, el cambio de circunstancias por el cual amerita el otorgamiento del beneficio.
+
+La Comisión deberá comunicar al tribunal a cargo de la ejecución de la pena el resultado de la postulación de la libertad condicional, dentro del plazo de cinco días hábiles contado desde la resolución correspondiente. Recibida dicha comunicación, el tribunal deberá notificar a la víctima, dentro del plazo de cinco días hábiles contado desde su recepción.
+
 #### Artículo 6º
 
 Las personas en libertad condicional quedarán sujetas a la supervisión de un delegado de Libertad Condicional de Gendarmería de Chile.
@@ -85,6 +95,10 @@ Las personas en libertad condicional quedarán sujetas a la supervisión de un d
 El delegado que hubiere sido designado para el control de la libertad condicional, dentro de los siguientes 45 días, deberá elaborar un plan de intervención individual, el que deberá comprender reuniones periódicas, las que durante el primer año de supervisión deberán ser a lo menos mensuales, la realización de actividades tendientes a la rehabilitación y reinserción social del condenado, tales como la nivelación escolar, la participación en actividades de capacitación o inserción laboral, o de intervención especializada de acuerdo a su perfil.
 
 El plan deberá considerar el acceso efectivo del condenado a los servicios y recursos de la red intersectorial, e indicar con claridad los objetivos perseguidos con las actividades programadas y los resultados esperados.
+
+Los planes de seguimiento e intervención individual a los que se refieren los incisos precedentes propenderán a prevenir la victimización secundaria de la persona ofendida por el delito.
+
+La persona condenada deberá firmar un compromiso de no realizar acciones de amedrentamiento u hostigamiento en contra de la víctima. En caso de que la víctima considere que se ha incumplido dicho compromiso, podrá comunicar al tribunal a cargo de la ejecución de la pena las acciones que ha realizado la persona condenada.
 
 Asimismo, la persona condenada deberá firmar un compromiso de dar cumplimiento a las condiciones de su plan, las que se deberán expresar en el citado documento.
 
