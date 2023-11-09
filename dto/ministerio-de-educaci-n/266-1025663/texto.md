@@ -430,15 +430,7 @@ Dicha garantía cubrirá hasta el noventa por ciento del capital más intereses 
 
 Anualmente, por decreto supremo expedido por el Ministerio de Educación y suscrito además por el Ministro de Hacienda, se señalará, para cada carrera, un monto máximo que podrá ser garantizado por el Fisco.
 
-Dicho monto se determinará considerando, además de un arancel referencial, los siguientes elementos:
-
-a) Aranceles por carrera efectivamente cobrados por cada institución de educación superior;
-
-b) Indicadores de solvencia financiera de las instituciones de educación superior;
-
-c) Indicadores de eficiencia docente de cada institución de educación superior, tales como: tasa de titulación, tasa de retención y duración promedio, por carreras, de cada institución de educación superior;
-
-d) Resultados de los procesos de acreditación.
+Dicho monto se determinará considerando el arancel de referencia correspondiente a cada carrera e institución de educación superior y el porcentaje máximo que podrá ser garantizado por el Estado, de conformidad a lo establecido en el artículo 3º de la ley Nº 20.027.
 
 #### Artículo 34º
 
