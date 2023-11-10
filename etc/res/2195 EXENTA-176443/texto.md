@@ -62,7 +62,7 @@ A.12.- Leyenda de Advertencia (en mayúscula):
 
 ANTES DE USAR EL PRODUCTO".
 
-B.- Area de Recomendaciones de Uso.
+B.- Área de Instrucciones de Uso.
 
 B.1.- Breve descripción de las características y forma de acción del producto.
 
@@ -83,6 +83,8 @@ B.2.6.- Incompatibilidades y fitotoxicidad.
 B.2.7.- Tiempo que debe mediar entre la aplicación y la cosecha, uso o consumo (período de carencia) para cada interrelación cultivo/producto, y entre la aplicación y la reentrada al cultivo tratado (tiempo de reingreso).
 
 B.2.8.- Otras informaciones que se consideren necesarias.
+
+- Se deberá incluir información relevante, como manejo y consideraciones para prevenir resistencia, alguna recomendación particular respecto al equipo de aplicación u otra información indicada por el Servicio. - Para plaguicidas que quedan exentos de Límites Máximos de Residuos de plaguicidas (LMR) en conformidad a la Norma CODEX CXG 97-2002, podrán incorporar la siguiente frase: "Este plaguicida está exento de límites máximos de residuos (LMR).
 
 C.- Area de Precauciones y Advertencias.
 

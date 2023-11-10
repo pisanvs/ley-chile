@@ -96,11 +96,13 @@ En caso que la documentación señalada se encuentre en poder del Subdepartament
 
 Los antecedentes que se solicitan en el presente numeral, deben proporcionarse de acuerdo a las características inherentes del plaguicida motivo de evaluación. No obstante, la no presentación de cualquier información establecida en este numeral, deberá estar acompañada de una justificación técnica.
 
-En el caso que los siguientes tipos de documento se emitan en el extranjero, deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
+En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
 
-. Documentos emitidos por las autoridades competentes: Certificado de Inscripción, Certificado de Inscripción y Libre Venta, Certificado de Exportación.
+a. Documentos emitidos por las autoridades competentes: Certificados que demuestren la dirección del fabricante o productor y que en dicha planta se fabrica la sustancia activa grado técnico, se produce la sustancia natural o se produce o fabrica el producto formulado.
 
-. Documentos emitidos por el fabricante de la sustancia activa, o un tercero por contrato en el extranjero: Certificado de Composición cualicuantitativo, Certificado de Fabricación.
+b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificados de Composición cualicuantitativo, Certificado de Fabricación/Formulación/Producción de la sustancia activa grado técnico, sustancia natural o producto formulado.
+
+c. Documentos emitidos por la Cámara de Comercio del país de origen: Certificados que demuestren la dirección del fabricante o productor y que en dicha planta se fabrica la sustancia activa grado técnico, se produce la sustancia natural o se produce o fabrica el producto formulado.
 
 En el caso de los certificados de composición cuali-cuantitativo emitidos en el país, estos deberán ser autorizados ante notario.
 
@@ -114,7 +116,19 @@ ii. Copia simple del certificado de composición cuali-cuantitativa emitido por 
 
 b) Si la solicitud corresponde a un plaguicida de la categoría descrita en la letra b) del numeral 3 de la presente resolución, se deberán presentar los siguientes antecedentes:
 
-i. Origen: nombre, dirección y país del fabricante de la sustancia activa grado técnico. Esta información deberá respaldarse con el certificado de inscripción y libre venta, o de exportación de la autoridad competente del país de origen, o en su defecto, certificado de quien lo fabrica.
+i. Origen: nombre, dirección de la planta y país del fabricante de la sustancia activa grado técnico. Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente
+
+i) Indicar la dirección de la planta donde se fabrica la sustancia activa grado técnico o se produce la sustancia natural,
+
+ii) Indicación explícitamente que en dicha planta se fabrica la sustancia activa grado técnico o se produce la sustancia natural en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 ii. Nombre común, aceptado o propuesto por ISO, o cualquier otro nombre común o sinónimo (si tiene).
 
@@ -156,7 +170,19 @@ La información relativa de los literales xiii y xiv podrá respaldarse con Hoja
 
 El solicitante deberá presentar la siguiente información:
 
-i. Nombre y dirección del fabricante del producto formulado.
+i. Nombre, dirección de la planta del fabricante del producto formulado. Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica o se produce el producto formulado,
+
+ii) Indicación explícitamente que en dicha planta se fabrica o se produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 ii. Nombre comercial propuesto para el producto formulado.
 
