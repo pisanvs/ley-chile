@@ -1,4 +1,4 @@
-PROHIBE LA IMPORTACION, FABRICACION, VENTA, DISTRIBUCION Y APLICACION DE PLAGUICIDAS DE USO AGRICOLA QUE CONTENGAN HEXACLOROBENCENO
+PROHIBE LA IMPORTACION, FABRICACION, VENTA, DISTRIBUCION Y APLICACION DE PLAGUICIDAS DE USO AGRICOLA DE SUSTANCIA ACTIVA HEXACLOROBENCENO
 
 Núm. 90 exenta.- Santiago, 15 de enero de 2002.- Vistos: El decreto ley Nº3.557 de 1980 sobre Protección Agrícola, la ley Nº18.755 de 1989 modificada por la ley Nº19.283 de 1994, y lo informado en la publicación UNEP Chemicals Newsletter Vol. 5, Nº1, May. 2001 "Conference of Plenipotentiaries for the Adoption and Signing of the Stockholm Convention on Persistent Organic Pollutants", y
 
@@ -12,7 +12,7 @@ Considerando:
 
 R e s u e l v o:
 
-1. Prohíbese a contar de esta fecha, la importación, fabricación, distribución, venta y aplicación de todas las formulaciones de plaguicidas de uso agrícola que contengan Hexaclorobenceno.
+1. Prohíbese a contar de esta fecha, la importación, fabricación, distribución, venta y aplicación de todas las formulaciones de plaguicidas de uso agrícola de sustancia activa Hexaclorobenceno.
 
 2. Las infracciones a esta resolución se sancionarán en la forma prevista en el decreto ley Nº3.557 y en la ley Nº18.755.
 
