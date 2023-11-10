@@ -108,11 +108,13 @@ La solicitud de autorización y los documentos que la acompañen podrán present
 
 Toda la documentación que se adjunte como antecedente para la autorización de un semioquímico, debe estar escrita en idioma español, inglés o portugués, en este último caso acompañado de su traducción al español. Con todo, es responsabilidad del solicitante la veracidad de los antecedentes que proporcione.
 
-En el caso que los siguientes tipos de documento se emitan en el extranjero, deberán cumplir con las formalidades establecidas en la legislación vigente del país emisor para que tengan validez en Chile:
+En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
 
-a. Documentos: Certificados de Composición cualicuantitativo; Certificados de Inscripción, Inscripción y Libre Venta o Exportación legalizados o apostillados por las autoridades competentes.
+a. Documentos emitidos por las autoridades competentes: Certificados que demuestren la dirección del productor o fabricante y que en dicha planta se produce la sustancia natural o se produce o fabrica el producto formulado.
 
-b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificado de Fabricación/Formulación/Producción de la sustancia activa, Certificados de Producto Libre de OGM emitido de la sustancia activa, Certificados de Confirmación de Compatibilidad para Uso en Agricultura Orgánica.
+b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificados de Composición cualicuantitativo, Certificado de Fabricación/Formulación/Producción de la sustancia natural o producto formulado, Certificados de Producto Libre de organismos genéticamente modificados (OGM) de la emitido por el productor de la sustancia natural o producto formulado, Certificados de Confirmación de Compatibilidad para Uso en Agricultura Orgánica.
+
+c. Documentos emitidos por la Cámara de Comercio del país de origen: Certificados que demuestren la dirección del productor o fabricante y que en dicha planta se produce la sustancia natural o se produce o fabrica el producto formulado.
 
 En el caso de los certificados de composición cualicuantitativo sean emitidos en Chile, estos deberán ser autorizados ante notario.
 
@@ -178,9 +180,21 @@ En el caso que la documentación señalada se encuentre en poder del Subdepartam
 
 10.1.1.1 Nombre
 
-10.1.1.2 Dirección
+10.1.1.2 Dirección de la planta
 
-Estos antecedentes deben venir respaldados por el certificado de inscripción o de exportación, donde se produce o fabrica la sustancia activa grado técnico o donde se produce el aleloquímico, emitido por la autoridad competente del país de origen. En el caso de no poder cumplir con lo anterior, excepcionalmente, y previa evaluación de parte del Servicio, se podrá presentar el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se produce la sustancia natural,
+
+ii) Indicación explícita que en dicha planta se produce la sustancia natural en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 10.1.2. Nombre común:
 
@@ -404,9 +418,21 @@ Sin perjuicio de lo anterior, el Servicio podrá solicitar información compleme
 
 a. Nombre (y RUT si es nacional)
 
-b. Dirección
+b. Dirección de la planta
 
-Deberá respaldarse con el certificado de inscripción y libre venta, o de exportación de la autoridad competente del país de origen. En el caso de no poder cumplir con lo anterior, excepcionalmente, y previa evaluación de parte del Servicio, se podrá presentar el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica o produce el producto formulado,
+
+ii) Indicación explícita que en dicha planta se fabrica o produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 11.1.2. Productor o Fabricante de la(s) sustancia(s) activa(s)
 
@@ -676,9 +702,21 @@ Los requisitos se refieren a feromonas de artrópodos aplicadas para el control 
 
 12.1.1.1. Nombre
 
-12.1.1.2. Dirección
+12.1.1.2. Dirección de la planta
 
-Estos antecedentes deben venir respaldados por el certificado de inscripción o de exportación, donde se produce o fabrica la sustancia activa grado técnico o donde se produce la feromona, emitido por la autoridad competente del país de origen. En el caso de no poder cumplir con lo anterior, excepcionalmente, y previa evaluación de parte del Servicio, se podrá presentar el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se produce la sustancia natural,
+
+ii) Indicación explícita que en dicha planta se produce la sustancia natural en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 12.1.2. Nombre común:
 
@@ -780,7 +818,7 @@ b. Degradación fotoquímica (p).
 
 c. Constante de disociación en medio neutro y, cuando es ionizable, en medios ácidos y alcalinos en rango de pH 4 a 10 (p).
 
-12.2.11. Inflamabilidad (t), para l�quidos inflamables o combustibles, y para sólidos gases o sustancias que desprendan gases inflamables.
+12.2.11. Inflamabilidad (t), para líquidos inflamables o combustibles, y para sólidos gases o sustancias que desprendan gases inflamables.
 
 12.2.12. Corrosividad (t)
 
@@ -900,9 +938,21 @@ Se deberán presentar los siguientes antecedentes:
 
 a. Nombre (y RUT si es nacional)
 
-b. Dirección
+b. Dirección de la planta
 
-Deberá respaldarse con el certificado de inscripción y libre venta, o de exportación de la autoridad competente del país de origen. En el caso de no poder cumplir con lo anterior, excepcionalmente, y previa evaluación de parte del Servicio, se podrá presentar el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica o produce el producto formulado,
+
+ii) Indicación explícita que en dicha planta se fabrica o produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 13.1.2. Productos o Fabricante de la(s) sustancia(s) activa(s)
 
@@ -1150,9 +1200,21 @@ Se deberán presentar los siguientes antecedentes:
 
 14.1.1.1. Nombre
 
-14.1.1.2. Dirección
+14.1.1.2. Dirección de la planta
 
-Estos antecedentes deben venir respaldados por el certificado de inscripción o de exportación, donde se produce o fabrica la sustancia activa grado técnico o donde se produce la feromona, emitido por la autoridad competente del país de origen. En el caso de no poder cumplir con lo anterior, excepcionalmente, y previa evaluación de parte del Servicio, se podrá presentar el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se produce la sustancia natural,
+
+ii) Indicación explícita que en dicha planta se produce la sustancia natural en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 14.1.2. Nombre común:
 
@@ -1314,9 +1376,21 @@ Los requisitos especifican si se refieren a feromonas sexuales de lepidópteros 
 
 a. Nombre (y RUT si es nacional)
 
-b. Dirección
+b. Dirección de la planta
 
-Deberá respaldarse con el certificado de inscripción y libre venta, o de exportación de la autoridad competente del país de origen. En el caso de no poder cumplir con lo anterior, excepcionalmente, y previa evaluación de parte del Servicio, se podrá presentar el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica o produce el producto formulado,
+
+ii) Indicación explícita que en dicha planta se fabrica o produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 15.1.2. Productor o Fabricante de la(s) sustancia(s) activa(s)
 

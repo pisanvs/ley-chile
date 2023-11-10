@@ -62,11 +62,13 @@ Los documentos que se acompañen a la solicitud de autorización, deberán prese
 
 Toda la documentación que se adjunte como antecedente para la autorización de un plaguicida microbiano, debe estar escrita en idioma español, inglés o portugués, en este último caso acompañado de su traducción al español. Con todo, es responsabilidad del solicitante la veracidad de los antecedentes que proporcione.
 
-En el caso que los siguientes tipos de documento se emitan en el extranjero, deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
+En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
 
-a. Documentos emitidos por las autoridades competentes: certificado de inscripción, certificado de inscripción y libre venta, certificado de exportación.
+a. Documentos emitidos por las autoridades competentes: Certificados que demuestren la dirección del productor o fabricante y que en dicha planta se produce la sustancia natural o se produce o fabrica el producto formulado.
 
-b. Documentos emitidos por el productor, o un tercero por contrato en el extranjero: certificado de composición cualicuantitativo, certificado de manufactura.
+b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificados de Composición cualicuantitativo, Certificado de Fabricación/Formulación/Producción de la sustancia natural o producto formulado, Certificados de Producto Libre de organismos genéticamente modificados (OGM) de la emitido por el productor de la sustancia natural o producto formulado, Certificados de Confirmación de Compatibilidad para Uso en Agricultura Orgánica.
+
+c. Documentos emitidos por la Cámara de Comercio del país de origen: Certificados que demuestren la dirección del productor o fabricante y que en dicha planta se produce la sustancia natural o se produce o fabrica el producto formulado.
 
 En el caso de los certificados de composición cualicuantitativo emitidos en el país, estos deberán ser autorizados ante notario.
 
@@ -134,9 +136,21 @@ REQUISITOS TÉCNICOS Y DOCUMENTACIÓN REQUERIDA PARA LA AUTORIZACIÓN
 
 10.1.1.1. Nombre
 
-10.1.1.2 Dirección
+10.1.1.2 Dirección de la planta
 
-Estos antecedentes deben venir respaldados por el certificado de inscripción o de exportación, donde se produce el microorganismo, emitido por la autoridad competente del país de origen, o en su defecto, el certificado de manufactura emitido por quien lo produce.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se produce la sustancia natural,
+
+ii) Indicación explícita que en dicha planta se produce la sustancia natural en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 10.1.2 Nombre y descripción de la especie y caracterización de la cepa.
 
@@ -352,9 +366,21 @@ Informar sobre la toxicidad, infecciosidad y patogenicidad para:
 
 11.1.1.1 Nombre (y RUT si es nacional).
 
-11.1.1.2 Dirección.
+11.1.1.2 Dirección de la planta.
 
-Deberá respaldarse con el certificado de inscripción y libre venta, o de exportación de la autoridad competente del país de origen, o en su defecto certificado de manufactura de quien lo formula.
+Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica o produce el producto formulado,
+
+ii) Indicación explícita que en dicha planta se fabrica o produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 11.1.2 Nombre comercial.
 

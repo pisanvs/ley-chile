@@ -134,11 +134,13 @@ Los documentos que se acompañen a la solicitud de autorización especial, sea c
 
 Toda la documentación que se adjunte como antecedente para la autorización de un plaguicida, debe estar escrita en idioma español, inglés o portugués, en este último caso acompañado de su traducción al español. Con todo, es responsabilidad del solicitante la veracidad de los antecedentes que proporcione.
 
-En el caso que los siguientes tipos de documento se emitan en el extranjero, deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
+En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
 
-a. Documentos emitidos por las autoridades competentes: certificado de inscripción, certificado de inscripción y libre venta, certificado de exportación.
+a. Documentos emitidos por las autoridades competentes: Certificados que demuestren la dirección del fabricante o productor y que en dicha planta se fabrica la sustancia activa grado técnico, se produce la sustancia natural o se produce o fabrica el producto formulado.
 
-b. Documentos emitidos por el productor, o un tercero por contrato en el extranjero: certificado de composición cualicuantitativo, certificado de manufactura.
+b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificados de Composición cualicuantitativo, Certificado de Fabricación/Formulación/Producción de la sustancia activa grado técnico, sustancia natural o producto formulado.
+
+c. Documentos emitidos por la Cámara de Comercio del país de origen: Certificados que demuestren la dirección del fabricante o productor y que en dicha planta se fabrica la sustancia activa grado técnico, se produce la sustancia natural o se produce o fabrica el producto formulado.
 
 En el caso de los certificados de composición cualicuantitativo emitidos en el país, estos deberán ser autorizados ante notario.
 

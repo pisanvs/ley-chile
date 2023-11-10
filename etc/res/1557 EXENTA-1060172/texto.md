@@ -60,15 +60,15 @@ m. Plaguicida: Compuesto químico, orgánico o inorgánico, o sustancia natural 
 
 n. Plaguicida Natural: Son los plaguicidas basados en sustancias naturales pudiendo utilizarse por sí solos o en una formulación. Dentro de ellos podemos encontrar:
 
-i. Plaguicidas biológicos, basados en agentes de control de biológico (microorganismos y macroorganismos) nativos o exóticos, y extractos de fermentación microbiológica;
+i. Plaguicidas biológicos, basados en agentes de control biológico (microorganismos y macroorganismos) nativos o exóticos, y basados en microorganismos acompañados de sus toxinas y metabolitos con acción plaguicida;
 
-ii. Plaguicidas naturales químicos, basados en extractos de origen vegetal, animal o mineral;
+ii. Plaguicidas naturales químicos, basados en extractos de origen vegetal, animal, mineral y extractos de fermentación microbiológica por sí solos;
 
 iii. Plaguicidas semioquímicos, basados en feromonas que actúan entre miembros de una especie, y en aleloquímicos tales como cairomonas, alomonas, sinomonas y antimonas, que actúan entre miembros de diferentes especies, que pueden actuar como atrayentes o repelentes, las que pueden ser de origen natural o en algunos casos sintetizadas.
 
-n. bis. Producción: Fabricación de sustancias activas de un plaguicida natural.
+n bis. Producción: Fabricación de sustancias naturales o de productos formulados, cuando se trate de plaguicidas naturales
 
-ñ. Productor: Fabricante de sustancias activas de un plaguicida natural.
+ñ. Productor: Fabricante de sustancias naturales o de productos formulados, cuando se trate de plaguicidas naturales
 
 o. Resumen Ejecutivo: Informe impreso o en formato digital con una síntesis de la información requerida en los Antecedentes del Titular, los Requisitos Técnicos para la Evaluación de Plaguicidas y en los Documentos solicitados en esta norma, correspondiente al plaguicida objeto de la solicitud de autorización.
 
@@ -80,7 +80,13 @@ r. Sustancia Activa Grado Técnico: Sustancia activa tal cual se obtiene de la s
 
 s. Sustancia Activa Nueva: Aquella entidad química nueva que cumple con las condiciones sobre Ley de Propiedad Industrial y goza de los beneficios que ésta indica.
 
-t. ELIMINADO.
+t. Sustancia natural: Son las sustancias activas que pueden corresponder a:
+
+i. extractos naturales de origen vegetal, animal, mineral o extractos de fermentación microbiológica por sí solos;
+
+ii. aleloquímicos (cairomonas, alomonas, sinomonas o antimonas), o feromonas (tales como feromonas de artrópodos o feromonas de lepidópteros), los que pueden ser de origen natural o en algunos casos sintetizados; o
+
+iii. agentes de control biológico (microorganismos y macroorganismos) nativos o exóticos, o microorganismos acompañados de sus toxinas y metabolitos con acción plaguicida.
 
 Para los efectos de esta Resolución se utilizarán los siguientes acrónimos:
 
@@ -140,7 +146,13 @@ El Resumen ejecutivo debe estar en idioma español.
 
 Los documentos que se acompañen a la solicitud de autorización, deberán presentarse en original impreso, debidamente foliado y una copia digital.
 
-En el caso de haberse emitido en el extranjero, los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país: Certificados de Composición cualicuantitativo; Certificados de Inscripción, Inscripción y Libre Venta o Exportación emitidos por autoridades competentes; Certificado de Fabricación/Formulación/Producción emitido por el fabricante de sustancia activa/fabricante de producto formulado/productor, o un tercero por contrato en el extranjero; Certificados de Producto Libre de OGM emitido por el fabricante de sustancia activa/fabricante de producto formulado/productor en el extranjero; y Certificados de Confirmación de Compatibilidad para Uso en Agricultura Orgánica emitidos por organismos competentes .
+En el caso de haberse emitido en el extranjero los siguientes documentos deberán cumplir con las formalidades establecidas en la legislación vigente para que tengan validez en el país:
+
+a. Documentos emitidos por las autoridades competentes: Certificados que demuestren la dirección del fabricante o productor y que en dicha planta se fabrica la sustancia activa grado técnico, se produce la sustancia natural o se produce o fabrica el producto formulado.
+
+b. Documentos emitidos por el productor o fabricante, o un tercero por contrato en el extranjero: Certificados de Composición cualicuantitativo, Certificado de Fabricación/Formulación/Producción de la sustancia activa grado técnico, sustancia natural o producto formulado, Certificados de Producto Libre de organismos genéticamente modificados (OGM) de la emitido por el productor de la sustancia natural o producto formulado, Certificados de Confirmación de Compatibilidad para Uso en Agricultura Orgánica.
+
+c. Documentos emitidos por la Cámara de Comercio del país de origen: Certificados que demuestren la dirección del fabricante o el productor y que en dicha planta se fabrica la sustancia activa grado técnico, se produce la sustancia natural o se produce o fabrica el producto formulado.
 
 En el caso de los Certificados de Composición cualicuantitativo emitidos en el país, estos deberán ser autorizados ante notario.
 
@@ -252,9 +264,19 @@ Se deberán presentar los siguientes antecedentes:
 
 8.1.1.1. Nombre.
 
-8.1.1.2. Dirección.
+8.1.1.2. Dirección de la planta. Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
 
-Estos antecedentes deben venir respaldados por el Certificado de inscripción o de exportación, donde se fabrica la sustancia activa grado técnico, o se produce el extracto natural, microorganismo o macroorganismo, emitido por la autoridad competente del país de origen, o en su defecto, por quien lo fabrica o produce .
+i) indicar la dirección de la planta donde se fabrica la sustancia activa grado técnico o se produce la sustancia natural,
+
+ii) indicación explícitamente que en dicha planta se fabrica la sustancia activa grado técnico o se produce la sustancia natural en cuestión, y
+
+iii) este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 8.1.2. Nombre común:
 
@@ -714,9 +736,19 @@ Se deberán presentar los siguientes antecedentes:
 
 a. Nombre (y RUT si es nacional).
 
-b. Dirección.
+b. Dirección de la planta. Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
 
-Deberá respaldarse con el Certificado de inscripción y libre venta, o de exportación de la autoridad competente del país de origen del producto, o en su defecto certificado de quien lo formula.
+i) Indicar la dirección de la planta donde se fabrica o produce el producto formulado,
+
+ii) Indicación explícitamente que en dicha planta se fabrica o produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 9.1.2. Fabricante de la(s) sustancia(s) activa(s).
 
@@ -1156,9 +1188,19 @@ a. Fabricante de la sustancia activa.
 
 a.1. Nombre.
 
-a.2. Dirección.
+a.2. Dirección de la planta. Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
 
-Estos antecedentes deben venir respaldado por el Certificado de inscripción o de exportación, donde se fabrica la sustancia activa grado técnico, emitido por la autoridad competente del país de origen o en su defecto por quien lo fabrica.
+i) Indicar la dirección de la planta donde se fabrica la sustancia activa grado técnico,
+
+ii) Indicación explícitamente que en dicha planta se fabrica la sustancia activa grado técnico en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 b. Nombre común.
 
@@ -1862,7 +1904,19 @@ El solicitante deberá presentar los siguientes documentos:
 
 i) Certificado de composición cualicuantitativo de la sustancia activa grado técnico del nuevo origen de ésta, emitido por el fabricante de ésta.
 
-ii) Certificado de inscripción o de exportación donde se fabrica la sustancia activa grado técnico del nuevo origen, emitido por la autoridad competente o en su defecto por quien lo fabrica en el nuevo origen.
+ii) Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica la sustancia activa grado técnico o se produce la sustancia natural,
+
+ii) Indicación explícita que en dicha planta se fabrica la sustancia activa grado técnico o produce la sustancia natural en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 iii) Actualización del Resumen ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición de la sustancia activa grado técnico.
 
@@ -1874,7 +1928,19 @@ El solicitante deberá presentar los siguientes documentos:
 
 i) Certificado de composición cualicuantitativo del nuevo origen del producto formulado emitido por el fabricante de este.
 
-ii) Certificado de inscripción y libre venta, o de exportación de la autoridad competente del nuevo origen del producto, o en su defecto certificado de quien lo formula en el nuevo origen.
+ii) Se establece la siguiente secuencia de criterios priorizados, en donde el documento a presentar debe contener, al menos, lo siguiente:
+
+i) Indicar la dirección de la planta donde se fabrica o produce el producto formulado,
+
+ii) Indicación explícita que en dicha planta se fabrica o produce el producto formulado en cuestión, y
+
+iii) Este documento deberá presentarse con la apostilla del país de dicha planta. La prioridad es la siguiente:
+
+1º Certificado emitido por la Autoridad Competente del país de origen,
+
+2º Certificado emitido por la Cámara de Comercio del país de origen,
+
+3º Certificado emitido por el fabricante. Cuando se presente un documento prioridad 2 o 3, se deberá justificar debidamente la no presentación del documento de mayor prioridad.
 
 iii) Actualización del Resumen ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición del producto formulado.
 
@@ -1944,7 +2010,7 @@ Se procederá a una modificación de destino o inclusión de un nuevo destino, c
 
 27.5.3.1. Modificación o inclusión de nuevo destino para la sustancia activa grado técnico. El solicitante deberá presentar los siguientes documentos:
 
-i) Certificado de inscripción de la sustancia activa grado técnico del nuevo destino, emitido por la autoridad competente, o un documento en que conste que se encuentra en proceso de autorización.
+i) Certificado emitido por la autoridad competente del país del nuevo destino, en el cual se demuestre que esa sustancia activa grado técnico o sustancia natural está autorizada en ese país con la apostilla correspondiente, o un documento en que conste que se encuentra en proceso de autorización.
 
 ii) Actualización del Resumen Ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición de la sustancia activa grado técnico.
 
@@ -1952,7 +2018,7 @@ ii) Actualización del Resumen Ejecutivo en sus numerales correspondientes, en c
 
 El solicitante deberá presentar los siguientes documentos:
 
-i) Certificado de inscripción y libre venta, de la autoridad competente del nuevo destino del producto, o un documento en que conste que se encuentra en proceso de autorización en el nuevo destino.
+i) Certificado emitido por la autoridad competente del país del nuevo destino, en el cual se demuestre que ese producto formulado está autorizado en ese país con la apostilla correspondiente, o un documento en que conste que se encuentra en proceso de autorización.
 
 ii) Actualización del Resumen Ejecutivo en sus numerales correspondientes, en cuanto al certificado de composición del producto formulado.
 
