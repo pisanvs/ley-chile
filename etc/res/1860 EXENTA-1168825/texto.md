@@ -40,7 +40,9 @@ Resolución:
 
 1. Apruébase la formalización de la siguiente nómina de Planes Urbanos Habitacionales (PUH):
 
-2. Instrúyese la actualización y envío, de manera semestral, de la programación establecida mediante Carta Gantt para cada uno de los Planes Urbanos Habitacionales formalizados en la nómina anterior. Dicha actualización deberá remitirse mediante oficio del Director de Serviu y/o Seremi de V. y U. de la región que corresponda, dirigido al Jefe de División de Política Habitacional y al Jefe de División de Desarrollo Urbano de este Ministerio, con el fin de poder apoyar la concreción y seguimiento del Plan Operativo de la cartera de PUH.
+.
+
+2. Instrúyase la actualización y envío, de manera semestral, de la programación establecida mediante la Carta Gantt, para cada uno de los Planes Urbanos Habitacionales formalizados en la nómina anterior. Dicha actualización deberá remitirse mediante oficio de los Secretarios o las Secretarias Regionales Ministeriales de Vivienda y Urbanismo en conjunto con las Directoras o los Directores de los Servicios de Vivienda y Urbanización, dirigido al Jefe de División de Política Habitacional y al Jefe de División de Desarrollo Urbano de este Ministerio, según formato de Carta Gantt adjunto a este acto administrativo. Asimismo, se instruye, que las referidas autoridades regionales, con el objeto de apoyar la concreción y seguimiento del plan operativo de la Cartera de Planes Urbanos Habitacionales, envíen una copia del referido oficio, al correo electrónico del Equipo Técnico Nacional.
 
 Anótese, publíquese y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
