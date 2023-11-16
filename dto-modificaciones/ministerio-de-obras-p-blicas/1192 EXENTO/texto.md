@@ -34,7 +34,7 @@ Decreto:
 
 TOMÉ
 
-. El sistema vial que interconecta la Ruta O-274 con las rutas O-14 y O-250, a través de Enrique Molina, Vicente Palacios, Daniel Vera, Bilbao, Juan Antonio Ríos, Daniel Vera y Camino de Vegas de Itata.
+. El sistema vial que interconecta la Ruta O-274 con las rutas O-14 y 250, a través de Camino a Colchogue, Werner, Enrique Molina, Vicente Palacios, Daniel Vera, Bilbao, Juan Antonio Ríos, Daniel Vera y Ruta Vegas de Itata.
 
 2. Téngase presente que las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza y de los Planes Reguladores, como lo ha declarado la Contraloría General de la República en el Dictamen N° 5.207 de 2001, entre otros.
 

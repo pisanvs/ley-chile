@@ -94,6 +94,12 @@ Ruta Q-351, Cruce Q-105 (Los Ángeles) - Cruce
 
 N-589-Q (Cerro Colorado).
 
+. N-14-O, Cruce Ruta 126 S
+
+(Coelemu) - Cruce
+
+O-274 (Tomé).
+
 3º Declárase Caminos Públicos en las áreas urbanas de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Metrópoli de Concepción:
@@ -127,6 +133,8 @@ Metrópoli de Concepción:
 . La vialidad que conecta el Acceso Sur IV Puente y la Ruta 160 By Pass Coronel; a través de: Ruta Pie de Monte (E-8).
 
 . El sistema vial que interconecta la Ruta 152 y la Ruta 146, a través de vía proyectada en Plan Regulador: Ruta 442 - Chaimavida y sus enlaces.
+
+. El sistema vial que interconecta la Ruta O-274 con las rutas O-14 y 250, a través de Camino a Colchogue, Werner, Enrique Molina, Vicente Palacios, Daniel Vera, Bilbao, Juan Antonio Ríos, Daniel Vera y Ruta Vegas de Itata.
 
 4º Declárase Caminos Públicos en las áreas urbanas de las siguientes Capitales de Provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
