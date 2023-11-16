@@ -28,7 +28,7 @@ Créase el Consejo de Política Forestal, en adelante e indistintamente "el Cons
 
 El Consejo de Política Forestal, en adelante el Consejo, contará con un Presidente y una Secretaría Técnica.
 
-El Consejo estará integrado por 16 consejeros, que serán representativos del ámbito del que provienen:
+El Consejo estará integrado por 20 consejeros, que serán representativos del ámbito del que provienen:
 
 a) El(la) Director(a) Ejecutivo de CONAF;
 
@@ -40,7 +40,7 @@ d) Un(una) consejero(a) en representación de CORFO;
 
 e) Dos consejeros(as) en representación del sector académico universitario;
 
-f) Un(una) consejero(a) en representación de las sociedades científicas relacionadas;
+f) Dos consejeros(as) en representación de las sociedades científicas relacionadas; correspondiéndole a la Sociedad de Ciencias Forestales uno de los cupos determinados en el presente literal;
 
 g) Un(una) consejero(a) en representación del sector empresarial forestal-industrial;
 
@@ -52,11 +52,13 @@ j) Un(una) consejero(a) en representación del Colegio de Ingenieros Forestales 
 
 k) Un(una) consejero(a) en representación de las organizaciones sindicales del sector forestal;
 
-I) Un(una) consejero(a) en representación de los pueblos originarios;
+I) Dos consejeros(as) en representación de los pueblos originarios, uno de la zona norte y otro de la zona sur;
 
-m) Un(una) consejero(a) en representación de los campesinos, y
+m) Dos consejeros(as) en representación de los campesinos;
 
-n) Dos consejeros(as) en representación de organizaciones no gubernamentales (ONG) del sector ambiental.
+n) Dos consejeros(as) en representación de organizaciones no gubernamentales (ONG) del sector ambienta, y
+
+ñ) Un(una) consejero(a) en representación del Ministro de Vivienda y Urbanismo.
 
 En caso de impedimento o ausencia de un consejero titular, éste podrá ser reemplazado por subrogante designado para tal efecto.
 
@@ -66,13 +68,15 @@ La designación del consejero titular y del subrogante a que se refiere la letra
 
 La designación de los consejeros titulares y subrogantes a que se refieren las letras e), f), g), h), i), j), k), l), m) y n) precedentes, se realizará por el Ministro de Agricultura, previa propuesta de las organizaciones a las que aquellos representan.
 
-El cargo de consejero será ad-honorem. Los Consejeros permanecerán tres años en sus cargos, a menos que el Ministro de Agricultura proponga su reemplazo.
+La designación del consejero titular y del subrogante a que se refiere la letra ñ), se realizará por el Ministro de Vivienda y Urbanismo y será comunicada por escrito al Ministro de Agricultura.
+
+El cargo de consejero será ad-honorem. Los Consejeros permanecerán tres años en sus cargos, a menos que el Ministro de Agricultura determine su reemplazo.
 
 #### Artículo 4º
 
 En su función de asesorar al Sr. Ministro de Agricultura en materia forestal, corresponderá al Consejo:
 
-i. Proponer al Ministro de Agricultura una política forestal chilena para el período 2015-2035.
+i. Proponer al Ministro de Agricultura una política forestal chilena para el período 2015-2035, proponer su actualización y la política forestal para nuevos períodos.
 
 ii. Elaborar al Ministro de Agricultura una propuesta referida a instrumentos de política forestal y sus eventuales modificaciones.
 
@@ -94,11 +98,13 @@ iii. Informar al Consejo del funcionamiento y resultado de las comisiones o grup
 
 iv. Convocar a los integrantes del Consejo a las sesiones ordinarias y extraordinarias y elaborar la tabla de la respectiva sesión.
 
+v. Convocar a grupos de trabajo temáticos regionales o macrozonales o interregionales que contribuyan con sus propuestas a la labor del Consejo de Política Forestal, y para delinear las políticas forestales públicas desde los territorios
+
 #### Artículo 6º
 
 Corresponderá a la Secretaría Técnica:
 
-i. Proveer al Consejo de soporte logístico, administrativo y financiero.
+i. Proveer al Consejo y a sus grupos de trabajo temáticos de soporte logístico, administrativo y financiero.
 
 ii. Participar con derecho a voz en las sesiones del Consejo, y confeccionar el acta con los acuerdos adoptados por el Consejo.
 
@@ -116,7 +122,7 @@ El Consejo sesionará ordinariamente dos veces al año en el lugar, día y hora 
 
 De las sesiones del Consejo se levantará un acta en la que se consignarán los acuerdos adoptados en la sesión, cuya elaboración y distribución a los consejeros será responsabilidad de la Secretaría Técnica.
 
-El quórum mínimo para sesionar, tanto en reuniones ordinarias como extraordinarias, será de nueve consejeros. De no reunirse dicho quórum, se dejará constancia de este hecho en el acta y se fijará fecha para una nueva sesión. En caso de que en la nueva sesión no se alcance el quórum requerido, la sesión se llevará a cabo con los consejeros que asistan.
+El quórum mínimo para sesionar, tanto en reuniones ordinarias como extraordinarias, será de diez consejeros. De no reunirse dicho quórum, se dejará constancia de este hecho en el acta y se fijará fecha para una nueva sesión. En caso de que en la nueva sesión no se alcance el quórum requerido, la sesión se llevará a cabo con los consejeros que asistan.
 
 Los acuerdos del Consejo serán adoptados por el voto de la mayoría de los consejeros presentes en la sesión. Para tal efecto, cada consejero tendrá un voto y el Presidente tendrá voto dirimente.
 
