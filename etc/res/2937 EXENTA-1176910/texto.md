@@ -76,7 +76,7 @@ Se realizará inspecciones adicionales en el caso de verificación de eliminaci�
 
 El productor deberá cumplir con las siguientes exigencias previo a las inspecciones:
 
-a) Identificar cada uno de los potreros del semillero mediante un letrero fácilmente visible y localizable, en el que deberá consignar al menos el número de solicitud de certificación, superficie, denominación de cada uno de los potreros y aplicaciones de plaguicidas.
+a) Informar al SAG, a través del Sistema Informático de Semillas, la fecha del estado de inicio de floración, el cual corresponde al 5% de plantas del parental femenino o receptor de polen con sedas visibles con al menos 24 horas de anticipación.
 
 b) Informar al SAG, a través del Sistema Informático de Semillas, la fecha del estado fenológico de prefloración de la hembra, en 2 a 3 hojas envolviendo completamente la panoja y antes de la aparición de la seda, con al menos 48 horas de anticipación.
 
