@@ -52,7 +52,7 @@ nombres y apellidos, domicilios, su Cédula Nacional de Identidad, y firma de ca
 
 b) Identificación de la comuna, centro poblado (ciudad, pueblo o villorrio), calle, pasaje o acera y el tramo respectivo. En el caso de aceras, el nombre del proyecto deberá indicar si contempla ambos costados de la vía o sólo uno, identificándolo mediante el punto cardinal correspondiente (norte, sur, oriente o poniente). Se deberá señalar si el proyecto postula a pavimentación o a repavimentación.
 
-c) Oficio del SERVIU correspondiente a la Región en que se ubica la obra de pavimentación, en que conste la aprobación del proyecto respectivo. El proyecto de pavimentación deberá contener, a lo menos, los siguientes antecedentes: Memoria explicativa y de cálculos; informe de mecánica de suelos; topografía, catastro y levantamiento de obras y servicios que interfieren con las obras de pavimentación; especificaciones técnicas generales y específicas; cubicación y presupuesto; planos del proyecto; plano del loteo y/o perfiles tipos de las vías, aprobados por la respectiva Dirección de Obras Municipales; otros antecedentes técnicos que requiera el SERVIU para el correcto diseño de las obras de pavimentación.
+c) Oficio del Serviu correspondiente a la Región en que se ubica la obra de pavimentación, en que conste la aprobación del proyecto respectivo y su elaboración. La elaboración del proyecto de pavimentación o repavimentación es requisito de postulación. El proyecto de pavimentación deberá contener, a lo menos, los siguientes antecedentes: Memoria explicativa y de cálculos; informe de mecánica de suelos; topografía, catastro y levantamiento de obras y servicios que interfieren con las obras de pavimentación; especificaciones técnicas generales y específicas; cubicación y presupuesto; planos del proyecto; plano del loteo y/o perfiles tipos de las vías, aprobados por la respectiva Dirección de Obras Municipales; otros antecedentes técnicos que requiera el Serviu para el correcto diseño de las obras de pavimentación. A la plataforma informática de este Programa, SPP, se deben subir al menos los siguientes antecedentes del proyecto de pavimentación elaborado que se postula: Memoria explicativa y de cálculos; cubicación y presupuesto; planos del proyecto.
 
 Tratándose de obras de repavimentación, se deberá incluir adicionalmente lo siguiente: monografía de los pavimentos existentes (materialidad; ubicación, tipo y magnitud de deterioros;espesores de capas estructurales; otro que requiera el SERVIU); obras de pavimentación que se mantienen; materiales que se reciclan (localización; tipo; cantidad; costo). El respectivo SERVIU deberá verificar en terreno los antecedentes técnicos de estos proyectos.
 
@@ -528,75 +528,77 @@ El valor límite ($/m2) de los pavimentos y/o repavimentos para la comuna de Gra
 
 .
 
-Para las aceras en adocreto de la comuna de Arica, su valor límite en pavimentos es de $47.100/m2 y en repavimentos es de $52.000/m2.
+Para las aceras en adocreto de la comuna de Arica, su valor límite en pavimentos es de $53.100/m2 y en repavimentos es de $58.600/m2.
 
-(2) Para la comuna de Colchane, los valores límites de pavimentos y repavimentos en adocretos es $105.000/m2 y $107.000/m2, respectivamente, tanto para calles como pasajes. Los valores límites de pavimentos y repavimentos en adoquín de piedra canteada es $110.000/m2 y $114.000/m2, respectivamente, tanto para calles como pasajes.
+(2) Para la comuna de Colchane, los valores límites de pavimentos y repavimentos en adocretos es $105.000/m2 y $107.000/m2, respectivamente, tanto para calles como pasajes. Los valores límites de pavimentos y repavimentos en adoquín de piedra canteada es $123.200/m2 y $128.100/m2, respectivamente, tanto para calles como pasajes.
 
-El valor límite de aceras para la comuna de Colchane es de $60.500/m2 en pavimentos y $64.000/m2 en repavimentos.
+El valor límite de aceras para la comuna de Colchane es de $68.100/m2 en pavimentos y $72.200/m2 en repavimentos.
 
-Para la comuna de Camiña, el valor límite de pavimentos de adocretos en calles y pasajes es $95.500/m2 y en repavimentos es $101.200/m2, y en pavimentos de calles y pasajes de adoquín canteado es $98.700/m2, y en repavimentos es $104.600/m2.
+Para la comuna de Camiña, el valor límite de pavimentos de adocretos en calles y pasajes es $104.800/m2 y en repavimentos es $106.700/m2, y en pavimentos de calles y pasajes de adoquín canteado es $111.300/m2, y en repavimentos es $118.000/m2.
 
-El valor límite de aceras para la comuna de Camiña es $59.500/m2 en pavimentos y $63.000/m2 en repavimentos.
+El valor límite de aceras para la comuna de Camiña es $67.100/m2 en pavimentos y $71.100/m2 en repavimentos.
 
-El valor límite para centros poblados localizados en quebradas al interior de Huara, para pavimentos de adocretos en calles y pasajes es $98.700/m2.
+El valor límite para centros poblados localizados en quebradas al interior de Huara, para pavimentos de adocretos en calles y pasajes es $98.700/m2 y para repavimentos de adocretos en calles y pasajes es $109.000/m2.
 
-En el caso de pavimentos en adocretos prefabricados para las restantes comunas de la provincia del Tamarugal, el valor límite de pavimentación es $78.000/m2, y de $84.000/m2 en repavimentos. En pavimentos de adoquín canteado es $88.600/m2 y $91.600/m2 en repavimentos, tanto para calles como pasajes.
+El valor límite en Pisagua para pavimentos de adocretos prefabricados en calles y pasajes es $91.800/m2, y para repavimentos de adocretos en calles y pasajes es $101.400/m2.
 
-(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados de calzadas, el valor límite para la comuna de San Pedro de Atacama y localidades de Alto del Loa es $155.100/m2, y para las localidades de Socaire y Toconao es de $167.100/m2, tanto para calles como para pasajes. Para solo veredas de adocretos prefabricados, el valor límite de pavimentos y repavimentos para la comuna de San Pedro de Atacama y localidades de Alto del Loa es $74.000/m2, y para las localidades de Socaire y Toconao es de $76.500/m2.
+En el caso de pavimentos en adocretos prefabricados para las restantes comunas de la Provincia del Tamarugal, el valor límite de pavimentación es $81.600/m2, y de $84.000/m2 en repavimentos. En pavimentos de adoquín canteado es $99.900/m2 y $103.300/m2 en repavimentos, tanto para calles como pasajes.
 
-En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama y localidades de Alto del Loa es $195.000/m2 y para las localidades de Socaire y Toconao es $205.000/m2.
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados de calzadas, el valor límite para la comuna de San Pedro de Atacama y localidades de Alto del Loa es $187.200/m2, y para las localidades de Socaire y Toconao es de $201.600/m2, tanto para calles como para pasajes. Para solo veredas de adocretos prefabricados, el valor límite de pavimentos y repavimentos para la comuna de San Pedro de Atacama y localidades de Alto del Loa es $89.500/m2, y para las localidades de Socaire y Toconao es de $92.200/m2.
 
-(4) En las comunas de la provincia de Cardenal Caro y comunas de Lolol y Pumanque, los valores límites de pavimentación y de repavimentación son:
+En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama y localidades de Alto del Loa es $235.200/m2 y para las localidades de Socaire y Toconao es $247.400/m2.
 
-.
-
-(5) En la comuna de Corral, los valores límites de pavimentación y de repavimentación son:
+(4) En las comunas de la Provincia de Cardenal Caro y comunas de Lolol y Pumanque, los valores límites de pavimentación y de repavimentación son:
 
 .
 
-(6) En las comunas de la provincia de Palena, los valores límites de pavimentación son $98.400/m2 en calles, $88.500/m2 en pasajes y $47.700/m2 en aceras, y de repavimentación son $100.400/m2 en calles, $90.500/m2 en pasajes y $49.700/m2 en aceras.
+(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $118.100/m2 en calles, $106.200/m2 en pasajes y $57.300/m2 en aceras, y de repavimentación son $120.500/m2 en calles, $108.600/m2 en pasajes y $59.700/m2 en aceras.
 
-(7) En las soluciones peatonales en madera calificadas por la respectiva Seremi el correspondiente valor límite de pavimentación para Caleta Tortel es $181.000/m2 en calles y pasajes y para Grupo Gala de $165.000/m2 en calles y pasajes.
+(7) En las soluciones peatonales en madera calificadas por la respectiva Seremi el correspondiente valor límite de pavimentación para Caleta Tortel es $235.100/m2 en calles y pasajes y para Grupo Gala de $213.700/m2 en calles y pasajes.
 
-En repavimentación las soluciones en madera su valor límite para Caleta Tortel es $201.000/m2 en calles y pasajes y para el Grupo Gala $187.000/m2 en calles y pasajes.
+En repavimentación las soluciones en madera su valor límite para Caleta Tortel es $261.100/m2 en calles y pasajes y para el Grupo Gala $242.000/m2 en calles y pasajes.
 
-En el caso de las islas que forman parte de la comuna de Guaitecas, el valor límite de pavimentación en adocreto es $123.600/m2 para calles y pasajes y el valor límite de repavimentación en adocreto es $150.500/m2 para calles y pasajes. Para las aceras en HCV, el valor límite de los pavimentos es $35.500/m2 y en repavimentos es $45.100/m2.
+En el caso de las islas que forman parte de la comuna de Guaitecas, el valor límite de pavimentación en adocreto es $160.700/m2 para calles y pasajes y el valor límite de repavimentación en adocreto es $195.500/m2 para calles y pasajes. Para las aceras en HCV, el valor límite de los pavimentos es $45.900/m2 y en repavimentos es $58.600/m2.
 
-En las islas que forman parte de la comuna de Aysén, el valor límite de pavimentación en adocreto para calles y pasajes es $151.500/m2, y el valor límite de repavimentación en adocreto para calles y pasajes es $184.000/m2.
+En las islas que forman parte de la comuna de Aysén, el valor límite de pavimentación en adocreto para calles y pasajes es 196.500/m2., y el valor límite de repavimentación en adocreto para calles y pasajes es $238.800/m2.
 
-Para la comuna de O'Higgins, el valor límite de pavimentación en adocreto es $143.600/m2 en calles y $168.100 en pasajes y para repavimentos en adocreto es $204.200/m2 en calles y pasajes.
+Para la comuna de O'Higgins, el valor límite de pavimentación en adocreto es $218.500/m2 en calles y pasajes y para repavimentos en adocreto es $265.400/m2 en calles y pasajes.
 
-Para la localidad de Raúl Marín de comuna Cisnes, el valor límite en adocreto para pavimentación en calles es $151.500/m2 y en pasajes es $143.600/m2 y para repavimentos es $191.500/m2, tanto para calles y pasajes.
+Para la localidad de Raúl Marín de comuna Cisnes, el valor límite en adocreto para pavimentación en calles y en pasajes es $186.600/m2 y para repavimentos es $248.600/m2, tanto para calles y pasajes.
 
-Para la localidad de Puyuhuapi de comuna de Cisnes el valor límite en adocreto para pavimentos en calles es $80.500/m2 y en pasajes es $71.500/m2 y para repavimentos es $79.500/m2, respectivamente, tanto para pasajes y calles.
+Para la localidad de Puyuhuapi de comuna de Cisnes el valor límite en adocreto para pavimentos en calles y en pasajes es $92.400/m2 y para repavimentos es $102.800/m2 respectivamente, tanto para pasajes y calles.
 
-Para la localidad de La Junta de comuna de Cisnes el valor límite en adocreto para pavimentos en calles es $104.500/m2 y en pasajes es $92.500/m2 y para repavimentos es $103.000/m2, respectivamente, tanto para pasajes y calles.
+Para la localidad de La Junta de comuna de Cisnes el valor límite en adocreto para pavimentos en calles y en pasajes es $120.100/m2 y para repavimentos es $133.700/m2 respectivamente, tanto para pasajes y calles.
 
-En localidad de Nirehuao, comuna de Coyhaique, en adocreto el valor límite de los pavimentos es $90.000/m2, tanto para calles como pasajes y en repavimentos es $109.100/m2, tanto para calles como pasajes.
+En localidad de Ñirehuao, comuna de Coyhaique, en adocreto el valor límite de los pavimentos es $116.800/m2, tanto para calles como pasajes y en repavimentos es $141.900/m2, tanto para calles como pasajes.
 
-En localidad de La Tapera, comuna de Lago Verde, en adocreto el valor límite de los pavimentos es $107.000/m2, tanto para calles como pasajes.
+En localidad de La Tapera, comuna de Lago Verde, en adocreto el valor límite de los pavimentos es $138.700/m2, tanto para calles como pasajes.
 
-Para las localidades de Chile Chico, en adocreto el valor límite de pavimentación es $115.000 y de repavimentación es $139.500/m2.
+Para las localidades de Chile Chico, en adocreto el valor límite de pavimentación es $149.100 y de repavimentación es $181.200/m2.
 
-En las localidades Puyuhuapi y La Junta de comuna de Cisnes el valor límite para pavimentos en hormigón de cemento vibrado, respectivamente, es $87.500/m2 y $94.000/m2 en calles y $82.200/m2 y $89.000/m2 en pasajes. El valor límite para repavimentos en hormigón de cemento vibrado en las localidades Puyuhuapi y La Junta de comuna de Cisnes, respectivamente, es $98.000/m2 y $106.000/m2 en calles y $91.000/m2 y $98.300/m2 en pasajes.
+En las localidades Puyuhuapi y La Junta de comuna de Cisnes el valor límite para pavimentos en hormigón de cemento vibrado respectivamente es $113.500/m2 y $122.100/m2 en calles y $106.800/m2 y $115.700/m2 en pasajes. El valor límite para repavimentos en hormigón de cemento vibrado en las localidades Puyuhuapi y La Junta de comuna de Cisnes respectivamente es $127.200/m2 y $137.800/m2 en calles y $118.000/m2 y $127.800/m2 en pasajes.
 
-En la comuna de O'Higgins el valor límite para pavimentos en Hormigón de Cemento Vibrado (HCV) es $124.000/m2 en calles y $115.500/m2 para pasajes. Para aceras en la comuna de O'Higgins el valor límite de los pavimentos es $48.200/m2 y de repavimentos $65.500/m2.
+En la comuna de O'Higgins el valor límite para pavimentos en Hormigón de Cemento Vibrado (HCV) es $160.700/m2 en calles y $150.000/m2 para pasajes. Para aceras en la comuna de O'Higgins el valor límite de los pavimentos es $63.000/m2 y de repavimentos $85.500/m2.
 
-En el caso de las comunas Lago Verde para aceras de HCV el valor límite de los pavimentos es $40.500/m2 y en repavimentos, respectivamente, es $44.200/m2.
+En el caso de las comunas Lago Verde para aceras de HCV el valor límite de los pavimentos es $52.600/m2 y en repavimentos respectivamente es $57.500/m2.
 
 (8) En la comuna de Cabo de Hornos, los valores límites en $/m2 son:
 
 .
 
-(9) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo municipal es $54.000/m2.
+(9) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo municipal es $64.200/m2.
 
 (10) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo colonial es $76.800/m2.
 
-(11) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo HCV micro vibrada es $57.000/m2.
+(11) El valor límite tanto para la acción pavimentación como repavimentación para solución de aceras en baldosas tipo HCV micro vibrada es $70.000/m2.
 
-(12) Para la comuna de Cobquecura, los valores límites en veredas solas es $41.100/m2 en pavimentos y $46.000/m2 en repavimentos. En pasajes es $55.600/m2 en pavimentos y $66.500/m2 en repavimentos. Para el valor límite de calles aplica el ponderador por distancia al valor límite del cuadro principal.
+(12) Para la comuna de Cobquecura, los valores límites en veredas solas es $46.400/m2 en pavimentos y $51.800/m2 en repavimentos. En pasajes es $69.000/m2 en pavimentos y $82.500/m2 en repavimentos. Para el valor límite de calles es $73.500/m2 en pavimentos y $88.500/m2 en repavimentos.
 
-(13) Para solo aceras de baldosas el valor límite en pavimentos es $33.000/m2 y en repavimentos es $38.000/m2.
+(13) Para solo aceras de baldosas el valor límite en pavimentos es $39.000/m2 y en repavimentos es $43.000/m2.
+
+(14) Valores Límites para la comuna de El Carmen en adocretos, en $/m2:
+
+.
 
 j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
@@ -607,6 +609,10 @@ Los montos de los aportes definidos en las letras d) y e) anteriores serán calc
 En casos calificados por el Municipio se podrá aplicar combinaciones de aportes entre el Comité y el Municipio, diferentes a las referidas en las letras d) y e), siempre que sumados ambos alcancen el aporte mínimo requerido por el programa.
 
 Si el diseño del proyecto de ingeniería de pavimentación o de repavimentación ha sido financiado por el Comité o por la Municipalidad, éste será considerado como parte del aporte mínimo requerido por el Programa o podrá incrementar dicho aporte mínimo, según corresponda. Para estos efectos, el costo del diseño del proyecto de ingeniería se considerará equivalente al 3% del costo total de las obras de pavimentación, calculadas en base al valor referencial del m2.
+
+Las obras anexas imprescindibles que se requieran para la correcta ejecución de las obras de pavimentación deberán ser incluidas en el proyecto de pavimentación, en los planos, cubicadas y presupuestadas. Entre estas obras se pueden identificar: traslado de postes localizados en la calzada; reubicación de redes de servicios que interfieren con la calzada; corte y reposición de árboles que interfieran con la calzada; infraestructura para aguas lluvias superficiales, con colector o solución técnica alternativa, para puntos bajos o evacuación de aguas lluvias del tramo vial que se postula; muros de contención localizado en Bien Nacional de Uso Público, para conformar la plataforma vial que se postula a pavimentación; mejoramiento, refuerzo o construcción de obras de arte como canales, acequias, cruces bajo calzadas, sifones invertidos, sumideros, badenes, cámaras, que interfieran con la obra de pavimentación que se postula; señalización y/o demarcación vial; barandas peatonales para seguridad de tránsito en la vía y tramo que se postula. Estas obras podrán tener financiamiento compartido según lo establecido en la reglamentación de este Programa.
+
+El costo de las obras anexas imprescindibles, sumadas a las de pavimentación o repavimentación, que superen el costo total límite y no puedan tener financiamiento compartido, deberán ser financiadas por los interesados que postulan. Asimismo, las obras adicionales (mobiliario urbano, iluminación, césped, jardines, obras de contención de laderas, otras) que se incluyan en el proyecto de pavimentación, deberán tener financiamiento de los interesados que postulan. También podrán concurrir a su financiamiento otros organismos o instituciones como: Gobierno Regional; Subsecretaría de Desarrollo Regional; Ministerio de Obras Públicas; Organizaciones de Canalistas; Empresas Sanitarias; Empresas Eléctricas; Ferrocarriles; u otra; según corresponda, lo que deberá quedar acreditado en la postulación y formar parte del respectivo Convenio que suscriba la Municipalidad y el Serviu para su ejecución.
 
 Las SEREMI MINVU, en materia de postulación, y los Servicios de Vivienda y Urbanización en relación al diseño de los proyectos de pavimentación, en la medida que sus recursos lo permitan, brindarán Asistencia Técnica a las Municipalidades y a los Comités de Pavimentación de sectores y comunas de más escasos recursos, que aún no se han integrado al Programa.
 
@@ -630,7 +636,7 @@ Respecto de Comités de Pavimentación y Municipalidades beneficiados con cero p
 
 6º.- El proceso de selección de proyectos será efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, y su fecha de cierre será el 30 de octubre de cada año. Si el Gobierno Regional no fijare la distribución comunal de los recursos asignados a la región, hasta 30 días antes de la fecha de cierre anteriormente señalada, la Secretaría Regional Ministerial de Vivienda y Urbanismo podrá distribuir esos recursos en la forma propuesta por ella al Gobierno Regional.
 
-Será requisito para la participación en el proceso de selección de los proyectos correspondientes de una comuna, el haber entregado previamente en la Secretaría Regional Ministerial de Vivienda y Urbanismo, el documento en que conste el compromiso del Alcalde, con aprobación del Concejo Municipal, de suscribir el Convenio señalado en el número 10 de la presente resolución e ingresar oportunamente al Serviu los aportes correspondientes al Comité y al Municipio.".
+Será requisito para la participación en el proceso de selección de los proyectos correspondientes de una comuna, el haber entregado previamente en la Secretaría Regional Ministerial de Vivienda y Urbanismo, el documento en que conste el compromiso del Alcalde, con aprobación del Concejo Municipal, de suscribir el Convenio señalado en el número 10 de la presente resolución e ingresar oportunamente al Serviu los aportes correspondientes al Comité y al Municipio. Se deberá adjuntar el Acta de la Sesión del Concejo Municipal mediante la cual se comprometen los respectivos aportes Municipales y el financiamiento complementario que se requiera y consigne.
 
 Los Comités de Pavimentación que deseen participar en el Proceso de Selección de Proyectos, al menos 30 días antes del cierre de recepción de postulaciones en la Secretaría Regional Ministerial de Vivienda y Urbanismo deberán ingresar su postulación al correspondiente Serviu, para los efectos que dicho Servicio efectúe la necesaria revisión técnica, entre cuyas verificaciones de cumplimiento se encuentra el requisito de que el proyecto de pavimentación o de repavimentación esté previamente aprobado por dicho Servicio.
 
@@ -864,6 +870,8 @@ La Seremi, considerando las postulaciones válidas, realizará mediante el siste
 
 > **Nota.** Por inconvenientes técnicos no se pudo realizar el texto actualizado de los numerales 2 y 3 de la Resolución 7102 Exenta, Vivienda, publicada el 22.09.2015.
 
+> **Nota.** El numeral 1.4 del numeral 1 de la Resolución 1900 Exenta, Vivienda, publicada el 17.11.2023, modifica la presente norma en el sentido de agregar una nueva letra d) en el antepenúltimo inciso de la letra i) del número 3° de la presente resolución, sin embargo no has sido posible realizar su texto actualizada en la citada letra.
+
 #### Artículo 1º
 
 transitorio: Durante el año 2004 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo tendrá como fecha de cierre el día 31 de Julio de 2004.
@@ -1007,6 +1015,22 @@ Transitorio: Las postulaciones seleccionadas en el 32° Proceso de Selección de
 #### Artículo 30°
 
 Transitorio: Durante el año 2023 y para participar en el 33° Proceso de Selección de Proyectos, la recepción de postulaciones municipales en el Servicio de Vivienda y Urbanismo tendrá como fecha de cierre el día lunes 30 de octubre y en la Secretaría Regional Ministerial de Vivienda y Urbanismo tendrá como fecha de cierre el día jueves 30 de noviembre, de la presente anualidad. Excepcionalmente, en las siguientes siete Secretarías Regionales Ministeriales de Vivienda y Urbanismo: Atacama, Coquimbo, Valparaíso, Biobío, La Araucanía, Los Lagos, y Aysén, y en consideración a su realidad regional, estos tendrán como fecha de cierre el día miércoles 15 de noviembre, de la presente anualidad.
+
+#### Artículo 31°
+
+Transitorio: Durante el año 2023 y para postulaciones al 33° Llamado del Programa de Pavimentación Participativa quedarán exentas de realizar el porcentaje de aporte especificado en la letra e) del número 3° de esta resolución las municipalidades (comunas) localizadas en las áreas fronterizas delimitadas a resguardar por parte de las fuerzas armadas y de orden y seguridad públicas, pertenecientes a las regiones de Arica y Parinacota, de Tarapacá y de Antofagasta, denominada macro zona norte, y priorizada en el Plan Nuestro Norte, declaradas en el decreto supremo N° 78, del Ministerio del Interior y Seguridad Pública y del Ministerio de Defensa Nacional, de fecha 21 de febrero de 2023, y sus modificaciones.
+
+#### Artículo 32°
+
+Transitorio: En el 33° Proceso de Selección de Proyectos, se ha dispuesto la implementación de las siguientes medidas que deberán contemplar y aplicar las Seremi y Serviu, en coordinación con las Municipalidades del país, según corresponda:
+
+a) En la gestión de postulaciones al 33° Proceso de Selección de Proyectos y en vista de la necesaria documentación de respaldo que requiere la participación de los vecinos integrantes de los Comités de Pavimentación, con gestiones presenciales, firmas, reuniones, tales como: constituir el Comité de Pavimentación; gestión de los proyectos de pavimentación; actividades para reunir el ahorro requerido; firma de Certificados y de Actas; y teniendo en consideración la necesidad de evitar o minimizar la exposición de los vecinos a virus respiratorios por el estado sanitario que afecta al país y las dificultades logísticas y de recursos existentes en las regiones declaradas Zonas Afectadas por Catástrofes, estas gestiones y actividades podrán ser realizadas y firmadas por el representante legal del Comité de Pavimentación o de la Organización Vecinal con personalidad jurídica mandatada para estos efectos.
+
+b) Asimismo, y mientras dure el estado sanitario que afecta al país por virus respiratorios y las dificultades logísticas y de recursos existentes en las regiones declaradas Zonas Afectadas por Catástrofes, las actividades de participación ciudadana contempladas realizar durante la ejecución de las obras de pavimentación correspondientes a los proyectos seleccionados, como reuniones de inicio y término de las obras, reuniones de información y coordinación durante su ejecución, responder encuesta de satisfacción, podrán ser asumidas por el representante legal del Comité de Pavimentación o de la Organización Vecinal con personalidad jurídica mandatada para estos efectos, o por la directiva del Comité de Pavimentación.
+
+c) Las solicitudes de inscripción para postular conforme al Programa de Pavimentación Participativa deberán ser ingresadas al sistema informático existente para estos efectos, como también la documentación requerida o de respaldo, especificadas en el inciso primero y en el inciso final del resuelvo 3° de la resolución exenta N° 1.820 (V. y U.), del 2003, no siendo imprescindible en este llamado el ingreso a la oficina de partes de la Secretaría Regional Ministerial de la postulación y respectiva carpeta con la documentación de respaldo en original.
+
+d) Las postulaciones con la documentación de respaldo en original, deberá ser resguardada por la Municipalidad y con posterioridad a este Llamado ingresada a la Secretaría Regional Ministerial de Vivienda y Urbanismo, apenas sea posible, según coordinación regional. La Municipalidad deberá ingresar a la oficina de partes o a la oficina de partes electrónica (o dirección electrónica) de la Secretaría Regional Ministerial de Vivienda y Urbanismo, a más tardar en la fecha de cierre de recepción de postulaciones, el oficio conductor del Alcalde al Secretario Regional Ministerial con su postulación, para los efectos de contabilizar la fecha de ingreso para efectos de su validación y determinación del puntaje por este factor.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
