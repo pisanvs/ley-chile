@@ -48,7 +48,7 @@ e) capacidad de transporte; y
 
 f) tratándose de vehículos adscritos a servicios de recorrido fijo, la descripción del trazado que se obliga a atender.
 
-Este documento, cuya vigencia será la de la autorización de la administración del aeródromo o aeropuerto a que se refiere la letra b) del artículo 3° anterior o aquella determinada por las normas sobre antigüedad máxima de los vehículos en este tipo de servicios, deberá mantenerse en el vehículo y en caso de extravío, deberá solicitarse un duplicado, para lo cual se adjuntará declaración jurada ante notario que dé constancia del hecho.
+Este documento, cuya vigencia será la de la autorización de la administración del aeródromo o aeropuerto a que se refiere la letra b) del artículo 3° anterior o aquella determinada por las normas sobre antigüedad máxima de los vehículos en este tipo de servicios, deberá mantenerse en el vehículo y en caso de extravío, deberá solicitarse un duplicado, para lo cual se adjuntará declaración jurada simple que dé constancia del hecho.
 
 #### Artículo 6°
 
