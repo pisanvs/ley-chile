@@ -1670,7 +1670,7 @@ De las infracciones a la Ordenanza
 
 Las infracciones a las disposiciones de la presente Ordenanza o de otras de orden tributario cuyo cumplimiento y fiscalización corresponde al Servicio de Aduanas, pueden ser de carácter reglamentario o constitutivas de delito.
 
-Incurrirá en el delito de contrabando el que introduzca al territorio nacional, o extraiga de él, mercancías cuya importación o exportación, respectivamente, se encuentren prohibidas.
+Incurrirá en el delito de contrabando el que introduzca al territorio nacional, o extraiga de él, mercancías cuya importación o exportación, respectivamente, se encuentren prohibidas. Será siempre mercancía de importación o exportación prohibida aquella de procedencia ilícita, ya sea porque fue obtenida o generada a través de la perpetración de un delito, o porque fue utilizada como instrumento en su perpetración, siempre que los hechos sean constitutivos de delito en Chile, independientemente de haber sido cometido el delito en territorio nacional o en el extranjero.
 
 Comete también el delito de contrabando el que, al introducir al territorio de la República, o al extraer de él, mercancías de lícito comercio, defraude la hacienda pública mediante la evasión del pago de los tributos que pudieren corresponderle o mediante la no presentación de las mismas a la Aduana.
 
@@ -1678,17 +1678,33 @@ Incurre también en el delito de contrabando el que extraiga mercancías del pa�
 
 Asimismo, incurre en el delito de contrabando el que introduzca mercancías extranjeras desde un territorio de régimen tributario especial a otro de mayores gravámenes, o al resto del país, en alguna de las formas indicadas en los incisos precedentes.
 
+#### Artículo 168 bis
+
+Incurre también en el delito de contrabando el que introduzca en el territorio nacional o extraiga de él dinero de cualquier denominación, en efectivo o en instrumentos negociables al portador, por cualquier lugar o paso no habilitado; o sin informar de ello, o falseando dicha información, al Servicio de Aduanas, de conformidad a lo dispuesto en el artículo 4° de la ley N° 19.913, por un monto que exceda los 10.000 dólares de Estados Unidos de América o su equivalente en otras monedas.
+
+A la conducta señalada en el inciso anterior se aplicará la pena en su grado máximo, si el dinero, de cualquier denominación, en efectivo o en instrumentos negociables al portador, fue obtenido o generado a través de la perpetración de un delito.
+
+Al momento de la detección del delito, el Servicio Nacional de Aduanas deberá retener la totalidad del dinero en efectivo o los instrumentos negociables al portador, debiendo ejercer la acción penal de inmediato. El dinero incautado deberá ser puesto a disposición del Ministerio Público, mediante su entrega material a las policías, quien lo conservará bajo su custodia.
+
+En estos casos, el Ministerio Público podrá ejercer excepcionalmente el principio de oportunidad previsto en el artículo 170 del Código Procesal Penal, en las siguientes circunstancias:
+
+a) Que el infractor haya desconocido la ilicitud del hecho, siempre que el error haya sido invencible.
+
+b) Cuando el dinero en efectivo o instrumentos negociables al portador no exceda en 1.000 dólares de Estados Unidos de América o su equivalente, al valor consignado en el inciso primero.
+
 #### Artículo 169
 
-La declaración maliciosamente falsa del origen, peso, cantidad o contenido de las mercancías de exportación, será castigada con la pena de presidio menor en su grado mínimo a medio y multa de hasta cinco veces el valor aduanero de las mercancías.
+La declaración maliciosamente falsa del origen, peso, cantidad o contenido de las mercancías de exportación, será castigada con la pena de presidio menor en su grado medio a máximo y multa de dos a cinco veces el valor aduanero de las mercancías. La pena será de presidio menor en su grado máximo a presidio mayor en su grado mínimo cuando el valor aduanero de las mercancías supere las 150 unidades tributarias mensuales.
 
-Con la misma pena señalada en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación.
+Con las mismas penas señaladas en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación.
 
-Se castigará, asimismo, con la misma pena indicada en los incisos anteriores, a aquellos consignantes de mercancías que salen del país, que presenten documentos falsos, adulterados o parcializados, para servir de base a la confección de las declaraciones, determinándose a través de ellos la clasificación o valor de las mercancías.
+Se castigará, asimismo, con las mismas penas indicadas en los incisos anteriores, a aquellos consignantes de mercancías que salen del país, que presenten documentos falsos, adulterados o parcializados, para servir de base a la confección de las declaraciones, determinándose a través de ellos la clasificación o valor de las mercancías.
 
 #### Artículo 170
 
-La responsabilidad por los actos u omisiones penados por esta Ordenanza, prescribe en el plazo de tres años, con excepción de la de los funcionarios o empleados de Aduana que prescribirá en cinco años.
+La responsabilidad por los actos u omisiones infraccionales sancionados con multa por esta Ordenanza, prescribe en el plazo de tres años.
+
+La responsabilidad penal por los delitos sancionados en esta Ordenanza prescribe según las normas del Código Penal.
 
 #### Artículo 171
 
@@ -1700,11 +1716,13 @@ La aplicación de las multas a los capitanes de buques se hará por intermedio d
 
 Cuando deba aplicarse multas con relación al valor de la mercancía, a falta de ésta se tomarán como referencia para determinarlo, la factura comercial, el conocimiento de embarque, el manifiesto, carta de porte, guía aérea o cualquier otro documento original que acepte el tribunal para acreditar dicho valor de una manera exacta y fidedigna.
 
-Cuando no pueda acreditarse el valor de una mercancía en forma fehaciente, se tomará el valor que corresponda o pudiera corresponder a otras análogas. Este valor se calculará, considerando el precio o costos medios, incluyendo el flete, seguro y otros gastos hasta el puerto de destino, teniendo presente todos los elementos de dicho valor en un mercado normal. Si ni aún así pudiere determinarse el valor, se aplicará una multa de hasta 206 Unidades Tributarias Mensuales, destinándose, el producido de ellas, al fin dispuesto en el inciso final del artículo 174.
+Cuando no pueda acreditarse el valor de una mercancía en forma fehaciente, se tomará el valor que corresponda o pudiera corresponder a otras análogas. Este valor se calculará, considerando el precio o costos medios, incluyendo el flete, seguro y otros gastos hasta el puerto de destino, teniendo presente todos los elementos de dicho valor en un mercado normal.
 
 Sin perjuicio de lo anterior, en los delitos de contrabando y fraude, cuando se trate de mercancía afecta a tributación especial o adicional, para efectos de determinar la cuantía del contrabando y la multa correspondiente, el valor de la mercancía objeto del delito estará compuesto por el valor aduanero más los impuestos, derechos, tasas y gravámenes que corresponda pagar conforme al régimen general de importación, a excepción del Impuesto al Valor Agregado establecido en el decreto ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios.
 
 De la misma forma, respecto de los convenios a que se refiere el inciso cuarto del artículo 189, tratándose de mercancía afecta a tributación especial o adicional, el monto máximo a convenir entre el Servicio y quien haya tenido participación en un contrabando será el valor aduanero, al que se agregarán los derechos, impuestos, tasas y gravámenes que corresponda pagar conforme al régimen general de importación, a excepción del Impuesto al Valor Agregado establecido en el decreto ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios.
+
+Cuando se trate del contrabando previsto en el artículo 168 bis, se tendrá por valor de la mercancía objeto del ilícito el valor nominal del dinero o de los instrumentos, o su equivalente en moneda de curso legal a la fecha de la comisión del delito, en todo lo que exceda del valor equivalente a 10.000 dólares de los Estados Unidos de América.
 
 2.- De las contravenciones aduaneras y sus sanciones
 
@@ -1780,19 +1798,19 @@ La Aduana no formulará denuncia a quien incurriere en una contravención aduane
 
 Las personas que resulten responsables de los delitos de contrabando o fraude serán castigadas:
 
-1) Con una multa de una a cinco veces el valor de la mercancía objeto del ilícito, si ese valor no excede las 10 unidades tributarias mensuales.
+1) Con una multa de dos a cinco veces el valor de la mercancía objeto del ilícito, si ese valor no excede las 20 unidades tributarias mensuales.
 
-En caso de reincidencia del contrabando de tabaco y sus derivados y del contrabando de bebidas alcohólicas, fuegos artificiales, productos farmacéuticos y juguetes, se aplicará, además, la pena de presidio menor en su grado mínimo.
+En caso de reincidencia del contrabando previsto en el artículo 168 bis, del contrabando de tabaco y sus derivados y del contrabando de bebidas alcohólicas, fuegos artificiales, productos farmacéuticos y juguetes, se aplicará, además, la pena de presidio menor en su grado medio.
 
-2) Con multa de una a cinco veces el valor de la mercancía objeto del delito y presidio menor en su grado medio, si ese valor fuere superior a las 10 unidades tributarias mensuales y no excediere las 25 unidades tributarias mensuales.
+2) Con multa de dos a cinco veces el valor de la mercancía objeto del delito y presidio menor en su grado máximo, si ese valor fuere superior a las 20 unidades tributarias mensuales y no excediere las 125 unidades tributarias mensuales.
 
-3) Con multa de una a cinco veces el valor de la mercancía objeto del delito y presidio menor en sus grados medio a máximo, si ese valor excediere de 25 unidades tributarias mensuales.
+3) Con multa de dos a cinco veces el valor de la mercancía objeto del delito y presidio menor en su grado máximo a presidio mayor en su grado mínimo, si ese valor excediere de 125 unidades tributarias mensuales.
 
-En todos los casos se condenará al comiso de la mercancía, sin perjuicio de su inmediata incautación. En caso de mercancía afecta a tributación especial o adicional, el Ministerio Público podrá solicitar, por el período que dure la investigación, la incautación de los vehículos que hubiesen sido utilizados para perpetrar el ilícito. Asimismo, en caso de resultar condenado, se aplicará como pena accesoria el comiso de los vehículos utilizados para perpetrar el ilícito de conformidad al artículo 31 del Código Penal.
+Procederá el comiso de acuerdo a las normas generales. En caso de mercancía afecta a tributación especial o adicional, el Ministerio Público podrá solicitar, por el período que dure la investigación, la incautación de los vehículos que hubiesen sido utilizados para perpetrar el ilícito. Asimismo, en caso de resultar condenado, se aplicará como pena accesoria el comiso de los vehículos utilizados para perpetrar el ilícito de conformidad al artículo 31 del Código Penal.
 
-En los casos previstos en los numerales 2) y 3) del inciso primero, si la mercancía objeto del delito se encontrare afecta a tributación especial o adicional, o cuando existiere reincidencia, el responsable será castigado con la pena de presidio establecida en los respectivos numerales, aumentada en un grado, y multa de una a cinco veces el valor de la mercancía objeto del delito.
+En los casos previstos en los numerales 2) y 3) del inciso primero, si la mercancía objeto del delito se encontrare afecta a tributación especial o adicional, o cuando existiere reincidencia, el responsable será castigado con la pena de presidio establecida en los respectivos numerales, aumentada en un grado, y multa de dos a cinco veces el valor de la mercancía objeto del delito.
 
-Asimismo, en caso de reincidencia, cualquiera que sea el tipo de tributación al que se encuentre afecta la mercancía, la multa mínima será de dos veces el valor de la mercancía para el que hubiere reincidido una vez; de tres para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
+Asimismo, en caso de reincidencia, cualquiera que sea el tipo de tributación al que se encuentre afecta la mercancía, la multa mínima será de tres veces el valor de la mercancía para el que hubiere reincidido una vez; de cuatro para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
 
 Lo anterior es sin perjuicio de la responsabilidad que pueda caber a los funcionarios aduaneros, de acuerdo con lo dispuesto en el artículo 239 del Código Penal y de la que corresponda a otros que hayan tenido participación con ellos.
 
@@ -1932,11 +1950,39 @@ Las investigaciones de hechos constitutivos del delito de contrabando sólo podr
 
 Con todo, la querella podrá también ser interpuesta por el Consejo de Defensa del Estado, a requerimiento del Director Nacional.
 
-La representación y defensa del Fisco en las investigaciones penales relativas a ese delito y en los procesos que se incoen corresponderán sólo al Director Nacional, por sí o por medio de mandatario, cuando la denuncia o querella fuere presentada por el Servicio, o sólo al Consejo de Defensa del Estado, en su caso.
+La representación y defensa del Fisco en las investigaciones penales relativas a ese delito y en los procesos que se incoen corresponderá sólo al Director Nacional, por sí o por medio de mandatario, cuando la denuncia o querella fuere presentada por el Servicio, o sólo al Consejo de Defensa del Estado, en su caso.
 
-El Servicio Nacional de Aduanas podrá no formular denuncia ni interponer querella respecto de quien haya tenido participación en un contrabando, pero ofreciere pagar una suma no superior a una vez el valor aduanero de las mercancías involucradas. Si aceptare esa oferta alguna de las autoridades a que se refiere el inciso primero, el interesado deberá enterar la suma correspondiente en arcas fiscales y, con el comprobante de ese depósito, se convendrá la renuncia al ejercicio de la acción penal, que tendrá como efecto la extinción de la misma.
+En los casos en que el Ministerio Público tome conocimiento de hechos que revistan carácter del delito de contrabando lo comunicará sin más trámite al Servicio Nacional de Aduanas, para que éste último presente denuncia o querella o manifieste fundadamente su decisión en contrario, dentro del plazo de 30 días corridos, contado desde la recepción de la comunicación. El Ministerio Público podrá reducir el plazo a 5 días hábiles cuando considere que la demora pone en riesgo el éxito de la investigación. Sin perjuicio de lo anterior, el Ministerio Público siempre podrá realizar los actos urgentes de investigación o los absolutamente necesarios para impedir o interrumpir la comisión del delito a los que se refiere el artículo 166 del Código Procesal Penal.
 
-La facultad de Aduanas de celebrar los convenios a que se refiere el inciso anterior no procederá tratándose de contrabando de mercancía afecta a tributación especial o adicional si su valor excede de 25 unidades tributarias mensuales, y se extinguirá una vez que el Ministerio Público formalice la investigación de conformidad al Párrafo 5º, del Título I, del Libro Segundo del Código Procesal Penal. Todo lo cual se entiende sin perjuicio de la procedencia de los acuerdos reparatorios a que se refiere el artículo 241 del mismo Código.
+Ante la negativa o silencio por parte del referido Servicio, el Ministerio Público podrá iniciar de oficio la investigación penal. Lo anterior, sin perjuicio de la comparecencia posterior de Aduanas ejerciendo los derechos que le correspondan como querellante.
+
+Siempre que se trate del delito establecido en el artículo 168 bis de esta Ordenanza, el Servicio Nacional de Aduanas deberá ejercer la acción penal de inmediato luego de tomar conocimiento de los hechos. Excepcionalmente, para este último caso, la acción penal podrá ser ejercida por cualquier funcionario.
+
+El Servicio Nacional de Aduanas podrá no formular denuncia ni interponer querella respecto de quien haya tenido participación en un contrabando, pero ofreciere pagar una suma no superior a una vez el valor aduanero de las mercancías involucradas. Si aceptare esa oferta alguna de las autoridades a que se refiere el inciso primero, el interesado deberá enterar la suma correspondiente en arcas fiscales y, con el comprobante de ese depósito, se convendrá la renuncia al ejercicio de la acción penal, que tendrá como efecto la extinción de la misma. Esta facultad se extinguirá cuando el Ministerio Público formalice la investigación, de conformidad al Párrafo 5° del Título I del Libro II del Código Procesal Penal, sin perjuicio de la procedencia de los acuerdos reparatorios a que se refiere el artículo 241 del mismo Código.
+
+La facultad de Aduanas de celebrar los convenios a que se refiere el inciso anterior no procederá tratándose de los siguientes casos:
+
+1. Contrabando de mercancía afecta a tributación especial o adicional, si su valor excede de 25 unidades tributarias mensuales.
+
+2. Cuando el Ministerio Público haya puesto en conocimiento de los hechos, según el inciso cuarto, a menos que medie una autorización expresa de dicho organismo.
+
+3. Respecto de los delitos en contra de la propiedad intelectual e industrial, cuando el titular del derecho ejerza acciones penales.
+
+4. Contrabando de armas, cuando se trate de cualquiera de los artefactos señalados por los artículos 2, 3 y 3 A de la ley N° 17.798, sobre control de armas, cuando su importación se realice en contravención a lo señalado en las disposiciones pertinentes.
+
+5. Cuando se trate del delito de contrabando, como delito base de lavado de activos.
+
+6. Cuando se trate del delito establecido en el artículo 168 bis de esta Ordenanza.
+
+7. Cuando un funcionario público hubiere tenido participación en el delito de contrabando.
+
+8. Cuando por la entidad de los hechos, sus características y/o la reincidencia del infractor se estime pertinente o conveniente iniciar la persecución penal o persistir en la ya iniciada, o cuando el Ministerio Público así lo requiera.
+
+Se entenderá especialmente que se trata de hechos cuya entidad requiere la persecución penal, cuando se trate de delitos de contrabando que atenten contra la salud pública, la seguridad pública y/o el medioambiente.
+
+Se entenderá especialmente que se trata de hechos cuyas características requieren la persecución penal, cuando se ejecute el hecho formando parte de una agrupación u organización de dos o más personas destinada a cometer crímenes o simples delitos, siempre que ésta o aquélla no constituya una asociación delictiva o criminal de las que trata el Párrafo 10 del Título Sexto del Libro Segundo del Código Penal.
+
+En el caso que opere la renuncia a la acción penal, la resolución que se dicte deberá señalar expresamente si procede o no la devolución de la mercancía al infractor o su destrucción, con cargo al solicitante u otro destino.
 
 #### Artículo 190
 

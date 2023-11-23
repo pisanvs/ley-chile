@@ -1078,6 +1078,8 @@ Los agentes policiales estarán obligados a detener a quienes sorprendieren in f
 
 No obstará a la detención la circunstancia de que la persecución penal requiriere instancia particular previa, si el delito flagrante fuere de aquellos previstos y sancionados en los artículos 361 a 366 quater del Código Penal.
 
+Tampoco impedirá la detención ni la incautación del dinero en efectivo o en instrumentos negociables al portador, por parte de agentes policiales, en caso del delito establecido en el artículo 168 bis del decreto con fuerza de ley N° 30, que aprueba la Ordenanza de Aduanas.
+
 La policía deberá, asimismo, detener al sentenciado a penas privativas de libertad que hubiere quebrantado su condena, al que se fugare estando detenido, al que tuviere orden de detención pendiente, a quien fuere sorprendido en violación flagrante de las medidas cautelares personales que se le hubieren impuesto, al que fuere sorprendido infringiendo las condiciones impuestas en virtud de las letras a), b), c) y d) del artículo 17 ter de la ley Nº 18.216 y al que violare la condición del artículo 238, letra b), que le hubiere sido impuesta para la protección de otras personas.
 
 Sin perjuicio de lo señalado en el inciso anterior, el tribunal que correspondiere deberá, en caso de quebrantamiento de condena y tan pronto tenga conocimiento del mismo, despachar la respectiva orden de detención en contra del condenado.
@@ -1508,6 +1510,12 @@ Forma y contenido de la denuncia. La denuncia podrá formularse por cualquier me
 
 En el caso de la denuncia verbal se levantará un registro en presencia del denunciante, quien lo firmará junto con el funcionario que la recibiere. La denuncia escrita será firmada por el denunciante. En ambos casos, si el denunciante no pudiere firmar, lo hará un tercero a su ruego.
 
+Con todo, si el denunciante, al tiempo de presentar la denuncia, manifiesta la intención de reservar su identidad, se le deberá garantizar el secreto de ella. El Ministerio Público deberá instruir y proveer protocolos y mecanismos necesarios a fin de brindar el adecuado secreto y reserva de que trata este inciso.
+
+Sin perjuicio de lo anterior, el imputado podrá solicitar al tribunal que ponga término a la reserva cuando con motivo de esta circunstancia se afecten sus derechos de defensa.
+
+Con todo, si el denunciante interviene de cualquier forma en el procedimiento penal, se aplicarán, desde ese instante, las normas de este Código, y sólo se mantendrá la reserva en cuanto al hecho de haber realizado la denuncia, y resultarán aplicables las normas de protección previstas en los artículos 109, letra a), y 308.
+
 #### Artículo 175
 
 Denuncia obligatoria. Estarán obligados a denunciar:
@@ -1539,6 +1547,8 @@ La pena por el delito en cuestión no será aplicable cuando apareciere que quie
 #### Artículo 178
 
 Responsabilidad y derechos del denunciante. El denunciante no contraerá otra responsabilidad que la correspondiente a los delitos que hubiere cometido por medio de la denuncia o con ocasión de ella. Tampoco adquirirá el derecho a intervenir posteriormente en el procedimiento, sin perjuicio de las facultades que pudieren corresponderle en el caso de ser víctima del delito.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, el Ministerio Público podrá disponer medidas de protección en favor del denunciante cuando la entidad o la naturaleza de los hechos, o la calidad de la persona denunciada, indiquen que existe un riesgo plausible de ser él o su familia víctima de hostigamientos, amenazas u otros atentados con motivo de la denuncia.
 
 #### Artículo 179
 
