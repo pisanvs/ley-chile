@@ -1140,7 +1140,7 @@ La policía podrá registrar las vestimentas, el equipaje o el vehículo de la p
 
 Asimismo, podrá conducir al imputado al recinto policial, para efectuar allí la citación.
 
-No obstante lo anterior, el imputado podrá ser detenido si hubiere cometido alguna de las faltas contempladas en el Código Penal, en los artículos 494, N°s. 4 y 5, y 19, exceptuando en este último caso los hechos descritos en los artículos 189 y 233; 494 bis, 495 N° 21, y 496, Nos. 3, 5 y 26.
+No obstante lo anterior, el imputado podrá ser detenido si hubiere cometido alguna de las faltas contempladas en el Código Penal, en los artículos 494, N°s. 4 y 5, y 19, exceptuando en este último caso los hechos descritos en los artículos 189 y 233; 494 bis, 495 N° 21, y 496, Nos. 3, 5 y 26. Sin perjuicio de la detención por flagrancia que podrá realizar cualquier persona dentro de las 12 horas desde el comienzo de la ocupación, de conformidad con los artículos 129 y 130, la policía siempre estará facultada para detener al imputado que estuviere cometiendo alguno de los delitos de ocupación de cosa inmueble descritos en los artículos 457, 457 bis, 458 y 458 bis del Código Penal, mientras se hallare en alguna de las hipótesis del artículo 130, para cuyos efectos se configurará el literal a) de dicha disposición mientras el imputado permanezca en el inmueble.
 
 En todos los casos señalados en el inciso anterior, el agente policial deberá informar al fiscal, de inmediato, de la detención, para los efectos de lo dispuesto en el inciso segundo del artículo 131. El fiscal comunicará su decisión al defensor en el momento que la adopte.
 
@@ -1385,6 +1385,12 @@ El Ministerio Público deberá solicitar las medidas cautelares que correspondan
 Concesión de medidas sin audiencia del afectado. Las medidas solicitadas para asegurar bienes sobre los cuales hacer efectivo el comiso de ganancias o de valor equivalente de bienes o efectos podrán ser decretadas sin audiencia del afectado.
 
 Si se procede de este modo, el juez deberá fijar un plazo no inferior a treinta días ni superior a ciento veinte días para que el Ministerio Público formalice la investigación respectiva. Transcurrido este plazo sin que se produzca la formalización, o sin que el Ministerio Público solicite la mantención de la medida con ocasión de la formalización, la medida quedará sin efecto.
+
+#### Artículo 157 ter
+
+Medida cautelar real especial. Tratándose de los delitos de usurpación de inmuebles, el Ministerio Público o la víctima, en cualquier etapa del procedimiento, haya sido formalizada o no la investigación, podrán solicitar al juez que decrete el desalojo del o los ocupantes ilegales con el auxilio de la fuerza pública, acreditando la respectiva inscripción del inmueble y antecedentes de la ocupación. Para lo anterior, citará en el más breve plazo a una audiencia que se celebrará con los que asistan.
+
+La medida cautelar descrita en el inciso anterior en caso alguno obstará al ejercicio de la facultad de detención por flagrancia conforme a lo dispuesto en los artículos 129, 130 y 134.
 
 #### Artículo 158
 
@@ -1638,7 +1644,7 @@ Los intervinientes tendrán acceso a esas especies, con el fin de reconocerlas o
 
 Reclamaciones o tercerías. Las reclamaciones o tercerías que los intervinientes o terceros entablaren durante la investigación con el fin de obtener la restitución de objetos recogidos o incautados se tramitarán ante el juez de garantía. La resolución que recayere en el artículo así tramitado se limitará a declarar el derecho del reclamante sobre dichos objetos, pero no se efectuará la devolución de éstos sino hasta después de concluido el procedimiento, a menos que el tribunal considerare innecesaria su conservación.
 
-Lo dispuesto en el inciso precedente no se extenderá a las cosas hurtadas, robadas o estafadas, las cuales se entregarán al dueño o legítimo tenedor en cualquier estado del procedimiento, una vez comprobado su dominio o tenencia por cualquier medio y establecido su valor.
+Lo dispuesto en el inciso precedente no se extenderá a las cosas hurtadas, robadas, estafadas o que hayan sido objeto de usurpación en los términos de los artículos 457, 457 bis, 458 y 458 bis del Código Penal, las cuales se entregarán al dueño o legítimo tenedor en cualquier estado del procedimiento, una vez comprobado su dominio o tenencia por cualquier medio y establecido su valor.
 
 En todo caso, se dejará constancia mediante fotografías u otros medios que resultaren convenientes de las especies restituidas o devueltas en virtud de este artículo.
 

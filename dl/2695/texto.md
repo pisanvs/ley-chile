@@ -30,9 +30,11 @@ Para estos efectos se considerará el avalúo que esté vigente en la fecha que 
 
 Para ejercitar el derecho a que se refiere el artículo anterior, el solicitante deberá reunir los siguientes requisitos:
 
-1.- Estar en posesión del inmueble, por sí o por otra persona en su nombre, en forma continua y exclusiva, sin violencia ni clandestinidad, durante cinco años, a lo menos, y
+1.- Estar en posesión del inmueble, por sí o por otra persona en su nombre, en forma continua y exclusiva, sin violencia ni clandestinidad, durante cinco años, a lo menos.
 
 2.- Acreditar que no existe juicio pendiente en su contra en que se discuta el dominio o posesión del inmueble, iniciado con anterioridad a la fecha de presentación de la solicitud.
+
+3.- Acreditar, mediante declaración jurada, que no existe juicio pendiente en su contra o sentencia condenatoria respecto al delito de usurpación regulado en los artículos 457, 457 bis, 458 y 458 bis del Código Penal.
 
 No será obstáculo para el ejercicio de este derecho la circunstancia de que existan inscripciones de dominio anteriores sobre el mismo inmueble.
 
@@ -62,7 +64,11 @@ Adicionalmente, en las áreas urbanas y rurales, deberá acompañar un certifica
 
 #### Artículo 6°
 
-El cumplimiento del requisito de no existir juicio pendiente se acreditará mediante el correspondiente certificado expedido por el Conservador de Bienes Raíces respectivo y, además, con una declaración jurada que deberá prestarse conjuntamente con la que exige el artículo anterior.
+El cumplimiento del requisito de no existir juicio pendiente dispuesto en el numeral 3 del artículo 2° se acreditará mediante el correspondiente certificado expedido por el Conservador de Bienes Raíces respectivo, con una declaración jurada que deberá prestarse conjuntamente con la que exige el artículo anterior.
+
+No procederá el reconocimiento de posesión regular sobre parte alguna del inmueble si existe juicio pendiente por el delito de usurpación, sea contra el solicitante de regularización o contra terceros.
+
+Sin perjuicio de lo anterior, quien haya obtenido sentencia absolutoria ejecutoriada por el delito de usurpación podrá solicitar que se le reconozca la calidad de poseedor regular en los términos señalados en el artículo 1°.
 
 #### Artículo 7°
 
@@ -82,11 +88,13 @@ Asimismo, el Ministerio de Bienes Nacionales, mediante resolución fundada, podr
 
 Si fuera necesario acreditar que el inmueble no se encuentra en alguno de los casos a que se refieren los incisos primero y segundo de este artículo, será suficiente prueba un certificado expedido por el Servicio o por el Ministerio de la Vivienda y Urbanismo, según corresponda.
 
+Con todo, las disposiciones de la presente ley no serán aplicables mientras exista juicio pendiente por el delito de usurpación sobre todo o parte del inmueble que se pretende por el solicitante, ya sea contra este último o contra terceros.
+
 #### Artículo 9°
 
 El que maliciosamente obtuviere el reconocimiento de la calidad de poseedor regular de acuerdo con el procedimiento establecido en la presente ley, será sancionado con las penas del artículo 473° del Código Penal.
 
-Se presumirá el dolo cuando el interesado tuviere, en la fecha de presentación de su solicitud, la calidad de arrendatario o mero tenedor o haya reconocido dominio ajeno mediante un acto o contrato escrito.
+Se presumirá el dolo cuando el interesado tuviere, en la fecha de presentación de su solicitud, la calidad de arrendatario o mero tenedor o haya reconocido dominio ajeno mediante un acto o contrato escrito. También se presumirá en caso de que obtuviere el reconocimiento de poseedor regular mientras existiere juicio pendiente o sentencia condenatoria en su contra por el delito de usurpación, si ésta tuviere por objeto el mismo inmueble o parte de él.
 
 Si como consecuencia de lo señalado en el inciso primero se interpusiere acción penal, y ésta fuere acogida, el tribunal ordenará que se cancele la inscripción de que tratan los artículos 12 y 14.
 
@@ -112,11 +120,13 @@ Las publicaciones se harán indistintamente los días primero y quince del mes o
 
 Los avisos y carteles contendrán en forma extractada la resolución del Servicio, la individualización del peticionario, la ubicación y deslindes del inmueble, su denominación, si la tuviere, su superficie aproximada y la respectiva inscripción si fuere conocida, y en ellos deberá prevenirse que, si dentro del plazo de sesenta días hábiles, contado desde la publicación del último aviso, no se dedujere oposición por terceros, se ordenará la inscripción a nombre del solicitante. No obstante, los terceros tendrán el derecho a oponerse desde el momento en que se acoja la solicitud a tramitación.".
 
-#### Artículo 12°
+#### Artículo 12
 
-Si no se dedujere oposición dentro del plazo indicado en el artículo anterior y previa certificación de este hecho y del de haberse efectuado las publicaciones y colocado los carteles, el Servicio podrá dictar resolución ordenando la inscripción del inmueble en el Registro de Propiedad del Conservador de Bienes Raíces respectivo.
+Si no se deduce oposición dentro del plazo indicado en el artículo anterior y previa certificación de este hecho y del de haberse efectuado las publicaciones y colocado los carteles, el solicitante deberá acreditar a través de una declaración jurada, dentro del plazo de diez días, que no hay juicios pendientes en los términos dispuestos en el numeral 3 del artículo 2°. Acreditada tal situación, el Servicio podrá dictar una resolución que ordene la inscripción del inmueble en el Registro de Propiedad del Conservador de Bienes Raíces respectivo.
 
-Esta resolución contendrá la individualización de el o los peticionarios, la ubicación y deslindes del predio, su denominación, si la tuviere, y su superficie aproximada; estará exenta del trámite de toma de razón y no será necesario reducirla a escritura pública.
+Si dentro del plazo señalado en el inciso anterior, el solicitante no cumple con la obligación de entregar la declaración jurada, el Servicio archivará su solicitud por el plazo máximo de tres años, período en el que, en cualquier momento, el solicitante podrá requerir su desarchivo si cumple con la obligación de acreditar que no existen juicios pendientes.
+
+La resolución que ordena la inscripción del inmueble en el Registro de Propiedad del Conservador de Bienes Raíces respectivo contendrá la individualización del o de los peticionarios, la ubicación y deslindes del predio, su denominación, si la tuviere, y su superficie aproximada; estará exenta del trámite de toma de razón y no será necesario reducirla a escritura pública.
 
 #### Artículo 13°
 

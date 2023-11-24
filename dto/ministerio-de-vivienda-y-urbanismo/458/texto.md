@@ -1532,7 +1532,7 @@ Los notarios no autorizarán las escrituras ni los Conservadores de Bienes Raíc
 
 #### Artículo 138°
 
-Será sancionado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo el propietario, loteador o urbanizador que realice cualquiera clase de actos o contratos que tengan por finalidad última o inmediata la transferencia del dominio, tales como ventas, promesas de venta, reservas de sitios, adjudicaciones en lote o constitución de comunidades o sociedades tendientes a la formación de nuevas poblaciones, en contravención a lo dispuesto en el presente párrafo.
+Será sancionado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo el ocupante, poseedor, propietario, loteador o urbanizador que realice cualquiera clase de actos o contratos que tengan por finalidad última o inmediata la transferencia del dominio, tales como ventas, promesas de venta, reservas de sitios, adjudicaciones en lote o constitución de comunidades o sociedades tendientes a la formación de nuevas poblaciones, en contravención a lo dispuesto en el presente párrafo.
 
 #### Artículo 138 bis
 
