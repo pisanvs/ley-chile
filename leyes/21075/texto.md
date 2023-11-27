@@ -146,6 +146,8 @@ El reglamento establecerá el destino que podrá darse a las aguas grises tratad
 
 5.- Ambientales. Incluye el riego de especies reforestadas, la mantención de humedales y todo otro uso que contribuya a la conservación y sustentabilidad ambiental.
 
+6. Silvoagropecuarios. Incluye el riego de cultivos agrícolas, salvo los prohibidos en el artículo 9. Considera, entre otros, el riego de especies arbóreas o arbustivas frutales, cereales, cultivos industriales, viveros, cultivos de plantas leñosas, cultivos ornamentales, cultivos de flores, praderas o empastadas y producción de semillas.
+
 #### Artículo 9
 
 Se prohíbe la reutilización de aguas grises tratadas para los siguientes usos:
