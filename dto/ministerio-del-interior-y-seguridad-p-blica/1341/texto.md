@@ -38,6 +38,8 @@ El Consejo será presidido por el Subsecretario del Interior, o quien éste desi
 
 - Ministerio de Justicia y Derechos Humanos;
 
+- Ministerio de Relaciones Exteriores;
+
 - Carabineros de Chile;
 
 - Policía de Investigaciones de Chile;
