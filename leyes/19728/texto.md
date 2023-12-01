@@ -140,9 +140,9 @@ Los afiliados tendrán derecho a una prestación por cesantía, en los términos
 
 a) Que el contrato de trabajo haya terminado por alguna de las causales señaladas en los artículos 159, 160, 161 y 163 bis, o por aplicación del inciso primero del artículo 171, todos del Código del Trabajo.
 
-b) Que el trabajador con contrato indefinido o el trabajador de casa particular con independencia de la duración de su contrato registre en la Cuenta Individual por Cesantía un mínimo de 12 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
+b) Que el trabajador con contrato indefinido o el trabajador de casa particular con independencia de la duración de su contrato registre en la Cuenta Individual por Cesantía un mínimo de 10 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
 
-c) En el caso del trabajador con contrato a plazo fijo o por obra, trabajo o servicio determinado, deberá registrar en la Cuenta Individual por Cesantía un mínimo de 6 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley, y
+c) En el caso del trabajador con contrato a plazo fijo o por obra, trabajo o servicio determinado, deberá registrar en la Cuenta Individual por Cesantía un mínimo de 5 cotizaciones mensuales continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley, y
 
 d) Encontrarse cesante al momento de la solicitud de la prestación.
 
@@ -164,29 +164,9 @@ Establécese la siguiente modalidad de retiro de fondos de la Cuenta Individual 
 
 Tratándose de trabajadores que cesan su relación laboral por alguna de las causales señaladas en los números 4, 5 y 6 del artículo 159 y en el artículo 161 del Código del Trabajo, tendrán derecho a realizar tantos giros mensuales de su Cuenta Individual por Cesantía como su saldo de dicha Cuenta les permita financiar, de acuerdo a los porcentajes expresados en la segunda columna de la tabla establecida en el inciso siguiente.
 
-El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje indicado en la segunda columna, que se refiere al promedio de las remuneraciones devengadas por el trabajador en los últimos 12 meses, en que se registren cotizaciones anteriores al término de la relación laboral para aquellos que se encuentren contratados con duración indefinida o para los trabajadores de casa particular. Tratándose de trabajadores con contrato a plazo fijo o por obra, trabajo o servicio determinado se considerará el promedio de las remuneraciones devengadas por él en los últimos 6 meses en que se registren cotizaciones anteriores al término de la relación laboral.
+El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje indicado en la segunda columna, que se refiere al promedio de las remuneraciones devengadas por el trabajador en los últimos 10 meses, en que se registren cotizaciones anteriores al término de la relación laboral para aquellos que se encuentren contratados con duración indefinida o para los trabajadores de casa particular. Tratándose de trabajadores con contrato a plazo fijo o por obra, trabajo o servicio determinado se considerará el promedio de las remuneraciones devengadas por él en los últimos 5 meses en que se registren cotizaciones anteriores al término de la relación laboral.
 
-Meses Porcentaje promedio remuneración
-
-últimos 6 o 12 meses de cotizaciones,
-
-según corresponda
-
-Primero 70%
-
-Segundo 55%
-
-Tercero 45%
-
-Cuarto 40%
-
-Quinto 35%
-
-Sexto 30%
-
-Séptimo o
-
-Superior 30%
+.
 
 El último mes de prestación a que tenga derecho el trabajador podrá ser inferior al porcentaje indicado en la tabla precedente y corresponderá al saldo pendiente de la Cuenta Individual por Cesantía. En todo caso, si el último giro a que tiene derecho el trabajador, de acuerdo a la tabla del inciso segundo, es igual o inferior al 20% del monto del giro anterior, ambos giros se pagarán conjuntamente.
 
@@ -262,7 +242,7 @@ En el caso de los trabajadores de casa particular, la restante cotización del e
 
 Tendrán derecho a recibir prestaciones del Fondo de Cesantía Solidario los trabajadores que cumplan los siguientes requisitos:
 
-a) Registrar 12 cotizaciones mensuales en el Fondo de Cesantía Solidario desde su afiliación al Seguro o desde que se devengó el último giro a que hubieren tenido derecho conforme a esta ley, en los últimos 24 meses anteriores contados al mes del término del contrato. Sin embargo, las tres últimas cotizaciones realizadas deben ser continuas y con el mismo empleador.
+a) Registrar 10 cotizaciones mensuales en el Fondo de Cesantía Solidario desde su afiliación al Seguro o desde que se devengó el último giro a que hubieren tenido derecho conforme a esta ley, en los últimos 24 meses anteriores contados al mes del término del contrato. Sin embargo, las tres últimas cotizaciones realizadas deben ser continuas y con el mismo empleador.
 
 b) Que el contrato de trabajo termine por alguna de las causales previstas en los números 4, 5 y 6 del artículo 159 o de los artículos 161 y 163 bis, todos del Código del Trabajo;
 
@@ -276,81 +256,39 @@ El derecho a percibir la prestación cesará por el solo ministerio de la ley, u
 
 #### Artículo 25
 
-El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje del promedio de las remuneraciones devengadas por el trabajador en los doce meses anteriores al del término de la relación laboral, que se indica en la segunda columna. El beneficio estará afecto a los valores superiores e inferiores para cada mes, a que aluden las columnas tercera y cuarta, respectivamente:
+El monto de la prestación por cesantía durante los meses que se indican en la primera columna, corresponderá al porcentaje del promedio de las remuneraciones devengadas por el trabajador en los diez meses anteriores al del término de la relación laboral, que se indica en la segunda columna. El beneficio estará afecto a los valores superiores e inferiores para cada mes, a que aluden las columnas tercera y cuarta, respectivamente:
 
-Meses Porcentaje Valor Valor
+.
 
-promedio Superior Inferior
+En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, la prestación por cesantía a que se refiere este artículo se extenderá hasta el quinto mes, con los porcentajes y valores superiores e inferiores señalados en la tabla siguiente:
 
-remuneración
-
-últimos 12
-
-meses
-
-Primero 70% $525.000 $157.500
-
-Segundo 55% $412.500 $123.750
-
-Tercero 45% $337.500 $101.250
-
-Cuarto 40% $300.000 $ 90.000
-
-Quinto 35% $262.500 $ 78.750
-
-En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, la prestación por cesantía a que se refiere este artículo se extenderá hasta el tercer mes, con los porcentajes y valores superiores e inferiores señalados en la tabla siguiente:
-
-Meses Porcentaje Valor Valor
-
-promedio Superior Inferior
-
-remuneración
-
-últimos 12
-
-meses
-
-Primero 50% $375.000 $112.500
-
-Segundo 40% $300.000 $ 90.000
-
-Tercero 35% $262.500 $ 78.750
+.
 
 Aquellos beneficiarios que estén percibiendo el quinto giro con cargo al Fondo de Cesantía Solidario tendrán derecho a un sexto y séptimo giro de prestación, cada vez que la tasa nacional de desempleo publicada por el Instituto Nacional de Estadísticas exceda en 1 punto porcentual el promedio de dicha tasa, correspondiente a los cuatro años anteriores publicados por ese Instituto, que se pagará de acuerdo a la siguiente tabla:
 
-MESES PORCENTAJE VALOR VALOR
+.
 
-PROMEDIO SUPERIOR INFERIOR
-
-REMUNERACIÓN
-
-ÚLTIMOS 12
-
-MESES
-
-SEXTO 30% $225.000 $67.500
-
-SÉPTIMO 30% $225.000 $67.500
-
-En el caso de los trabajadores contratados a plazo fijo, o para una obra, trabajo o servicio determinado, cuando se presenten las condiciones de desempleo señaladas en el inciso anterior y se encuentren percibiendo el tercer giro, tendrán derecho a un cuarto y quinto giro, con un beneficio igual al correspondiente al sexto y séptimo mes que señala la tabla del inciso tercero de este artículo, respectivamente.
-
-Los giros adicionales señalados en los incisos tercero y cuarto no se considerarán para el número máximo de pagos de prestaciones a que se refiere el inciso segundo del artículo 24.
+Los giros adicionales señalados en el inciso tercero no se considerarán para el número máximo de pagos de prestaciones a que se refiere el inciso segundo del artículo 24.
 
 Los valores inferiores y superiores establecidos en los incisos primero, segundo y tercero, se reajustarán el 1º de marzo de cada año, en el 100% de la variación que haya experimentado en el año calendario anterior el Indice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas o por el organismo que lo reemplace. Además, dichos valores inferiores y superiores se reajustarán en la misma oportunidad antes indicada, en el 100% de la variación que haya experimentado en el año calendario anterior, el Índice de Remuneraciones Reales determinadas por el mencionado Instituto. Dichos valores serán reajustados por el índice de remuneraciones antes indicado, siempre que su variación sea positiva.
 
-En el caso de trabajadores que, durante los últimos doce meses, hubiesen percibido una o más remuneraciones correspondientes a jornadas parciales, deberá efectuarse un ajuste de los valores superiores e inferiores a que se refiere este artículo en forma proporcional a la jornada promedio mensual de los últimos doce meses.
+En el caso de trabajadores que, durante los últimos diez meses, hubiesen percibido una o más remuneraciones correspondientes a jornadas parciales, deberá efectuarse un ajuste de los valores superiores e inferiores a que se refiere este artículo en forma proporcional a la jornada promedio mensual de los últimos diez meses.
 
-Serán aplicables a los trabajadores de casa particular las disposiciones del presente artículo, con excepción de los incisos segundo y cuarto.
+Serán aplicables a los trabajadores de casa particular las disposiciones del presente artículo, con excepción del inciso segundo.
 
 La responsabilidad del Fondo de Cesantía Solidario operará una vez agotados los recursos de la Cuenta individual por Cesantía.
 
 #### Artículo 25 bis
 
-El Fondo de Cesantía Solidario podrá financiar programas de apresto para facilitar la reinserción laboral de los cesantes que se encuentren percibiendo las prestaciones señaladas en el artículo anterior y que tengan un bajo índice de empleabilidad. El Servicio Nacional de Capacitación y Empleo administrará y fiscalizará los mencionados programas financiados con dicho Fondo, sin perjuicio de las facultades de la Superintendencia de Pensiones en relación con la fiscalización a la Sociedad Administradora respecto de la administración del Fondo de Cesantía Solidario. En el mes de enero de cada año, a través de un decreto "Por orden del Presidente de la República" expedido por el Ministerio de Hacienda y que además deberá ser suscrito por el Ministro del Trabajo y Previsión Social, se fijarán las prestaciones que se otorgarán y el monto total de recursos que el mencionado Fondo podrá destinar para financiar las prestaciones antes señaladas que se otorguen en ese año, considerando la sustentabilidad de dicho Fondo. Con todo, los recursos que se destinen a esos programas no podrán exceder, para cada año calendario, el 2% del saldo total del Fondo de Cesantía Solidario que registre el año anterior.
+El Fondo de Cesantía Solidario podrá financiar diferentes medidas para la intermediación y habilitación laboral, para facilitar la reinserción laboral de las personas cesantes que se encuentren percibiendo las prestaciones señaladas en el artículo anterior. El Servicio Nacional de Capacitación y Empleo administrará y fiscalizará las mencionadas medidas para la intermediación y habilitación laboral con dicho Fondo, sin perjuicio de las facultades de la Superintendencia de Pensiones en relación con la fiscalización a la Sociedad Administradora respecto de la administración del Fondo de Cesantía Solidario. En el mes de enero de cada año, a través de un decreto "Por orden del Presidente de la República" expedido por el Ministerio de Hacienda y que además deberá ser suscrito por el Ministro del Trabajo y Previsión Social, se fijarán las prestaciones que se otorgarán y el monto total de recursos que el mencionado Fondo podrá destinar para financiar las prestaciones antes señaladas que se otorguen en ese año, considerando la sustentabilidad de dicho Fondo. Los recursos que se destinen a esos programas no podrán exceder, para cada año calendario, el 2% del saldo total del Fondo de Cesantía Solidario que registre el año anterior.
 
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Hacienda, establecerá los requisitos que deberán cumplir los beneficiarios antes señalados para cada programa y la forma de acreditarlos; los procedimientos de concesión de los beneficios; los criterios de elegibilidad de los beneficiarios de los programas; las causales de término de los beneficios; el procedimiento de información a la Comisión de Usuarios del Seguro de Cesantía sobre la evaluación de los programas; las compatibilidades e incompatibilidades con los beneficios que contempla la ley N° 19.518; las condiciones de carácter objetivo que deberán reunir el o los instrumentos técnicos que determinarán el índice de empleabilidad, el cual considerará, entre otros, la vulnerabilidad laboral, y las demás normas que sean necesarias para la ejecución de los programas.
+Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Hacienda, establecerá los requisitos que deberán cumplir los beneficiarios antes señalados para cada programa y la forma de acreditarlos; los procedimientos de concesión de los beneficios; los criterios de elegibilidad de los beneficiarios de los programas; las causales de término de los beneficios; el procedimiento de información a las entidades señaladas en el inciso cuarto sobre la evaluación de los programas sobre la evaluación de los programas; las compatibilidades e incompatibilidades con los beneficios que contempla la ley N° 19.518; las condiciones de carácter objetivo que deberán reunir el o los instrumentos técnicos que determinarán el índice de empleabilidad, el cual considerará, entre otros, la vulnerabilidad laboral, y las demás normas que sean necesarias para la ejecución de los programas.
 
-Los programas señalados en el inciso primero serán ejecutados por las Oficinas de Información Laboral del artículo 73 de la ley N° 19.518 y por entidades privadas, que cumplan con los requisitos que establezca el reglamento.
+Los programas señalados en el inciso primero serán ejecutados por las Oficinas de Información Laboral del artículo 73 de la ley N° 19.518, por la Red de intermediación laboral, y por entidades privadas, que cumplan con los requisitos que establezca el reglamento.
+
+El Servicio Nacional de Capacitación y Empleo elaborará durante el primer trimestre de cada año un reporte de la evaluación de los programas de intermediación laboral del año inmediatamente anterior, considerando un detalle de las coberturas asociadas, recursos asignados por decreto y el presupuesto ejecutado. Adicionalmente, cada tres años este reporte deberá considerar la evaluación y funcionamiento de los programas de intermediación laboral. Este reporte será de carácter público y deberá remitirse al Ministerio de Hacienda, al Ministerio del Trabajo y Previsión Social, a la Superintendencia de Pensiones, a la Comisión de Usuarios del Seguro de Cesantía, a la Comisión de Trabajo y Previsión Social del Senado y a la Comisión de Trabajo y Seguridad Social de la Cámara de Diputados.
+
+> **Nota.** La letra b) del numeral 5° del artículo 1 de la ley 21628, publicada el 31.10.2023, dispone reemplazar en el inciso segundo del presente artículo la frase "a la Comisión de Usuarios del Seguro de Cesantía" por "a las entidades señaladas en el inciso cuarto sobre la evaluación de los programas", manteniendo la frase "sobre la evaluación de los programas" que sigue a la expresión que se reemplaza, razón por la cual esta última queda duplicada en su texto.
 
 #### Artículo 25 ter
 
@@ -361,6 +299,24 @@ El Fondo de Cesantía Solidario aportará a la cuenta de capitalización individ
 El valor total de los beneficios a pagar con cargo al Fondo de Cesantía Solidario en un mes determinado, no podrá exceder el 20% del valor acumulado en el Fondo al último día del mes anterior.
 
 Si el valor total de los beneficios a pagar, en el mes, con cargo al Fondo de Cesantía Solidario, calculados según la regla de beneficios máximos porcentuales y numéricos contenida en el artículo 25, excediere el porcentaje indicado en el inciso anterior, el beneficio a pagar a cada afiliado se disminuirá proporcionalmente conforme al valor total de beneficios que pueda financiar el Fondo de Cesantía Solidario de acuerdo al inciso primero.
+
+#### Artículo 26 bis
+
+Con el fin de contribuir a la sustentabilidad del Fondo de Cesantía Solidario regulado en el Párrafo 5° del Título I, facúltase a comprometer recursos fiscales para el financiamiento de las prestaciones por cesantía definidas en dicho párrafo y en el Título IV. El aporte solo se podrá materializar si el valor de los activos del Fondo de Cesantía Solidario al último día de un mes es inferior a diecinueve millones de unidades tributarias mensuales.
+
+Los recursos fiscales que se comprometan de acuerdo al inciso anterior serán determinados mediante resolución por la Dirección de Presupuestos, en una magnitud que en ningún caso podrá ser superior a cinco millones de unidades tributarias mensuales. De la misma forma, se determinará la oportunidad en que se efectuará el aporte de dichos recursos y el plazo en que éstos serán restituidos. Éste deberá ser abonado en su equivalente en pesos al Fondo de Cesantía Solidario.
+
+Previo a efectuar el aporte, un estudio actuarial elaborado conjuntamente por la Superintendencia de Pensiones y la Dirección de Presupuestos deberá establecer, con la debida anticipación, la sustentabilidad del Fondo de Cesantía Solidario para el pago de las prestaciones por cesantía definidas en el Párrafo 5° del Título I y en el Título IV, en base, a lo menos, a la evidencia disponible del mercado laboral, a los recursos fiscales aportados y devolución estimados, el nivel observado y el uso esperado del fondo. Si el estudio determina que el Fondo de Cesantía Solidario no es sustentable, no procederá el aporte fiscal.
+
+Los recursos fiscales aportados deberán ser reintegrados al Fisco con cargo al Fondo de Cesantía Solidario en un plazo, que no podrá exceder los diez años, contado desde la fecha del respectivo aporte. Los reintegros se efectuarán aplicando una tasa de interés equivalente a la tasa de endeudamiento del Fisco a igual plazo.
+
+Los recursos fiscales aportados no estarán afectos al cobro de comisiones por parte de la Sociedad Administradora.
+
+Mediante decreto del Ministerio de Hacienda expedido bajo la fórmula "Por orden del Presidente de la República" se establecerán los mecanismos para los aportes y reintegros definidos en este artículo, sus procedimientos y modalidades, junto a las demás normas necesarias para su realización.
+
+Una norma de carácter general emitida por la Superintendencia de Pensiones establecerá el tratamiento operacional y contable del aporte por parte de la Sociedad Administradora de Fondos de Cesantía.
+
+En caso en que el Estado aporte recursos en los términos establecidos en este artículo, y mientras el Fondo de Cesantía Solidario no haya efectuado el reintegro total de éstos, lo dispuesto en el artículo 26 se aplicará considerando el valor de los activos del Fondo de Cesantía Solidario.
 
 #### Artículo 27
 
@@ -884,6 +840,78 @@ La supervigilancia, control y fiscalización de la entidad que administre la Bol
 
 Las Oficinas de Información Laboral para el ejercicio de las funciones establecidas en el artículo 73 de la ley N° 19.518 deberán utilizar la información que otorgue la Bolsa Nacional de Empleo.
 
+## Título IV
+
+De las prestaciones en caso de estado de catástrofe por calamidad pública, zona afectada por catástrofe o alerta sanitaria
+
+#### Artículo 66
+
+En el evento que se haya declarado estado de excepción constitucional de catástrofe, por calamidad pública, según lo dispuesto en el artículo 41 de la Constitución Política de la República y en la ley N°18.415, orgánica constitucional de los Estados de Excepción, zona afectada por catástrofe, según lo dispuesto en el Título I de la ley N°16.282, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto supremo N°104, de 1977, del Ministerio del Interior, o una alerta sanitaria que implique la paralización de actividades en todo o parte del territorio del país o en todo el territorio de una respectiva zona geográfica, los trabajadores que se hayan encontrado desempeñando sus funciones dentro de dicho territorio, cuya relación laboral haya terminado antes o durante el período comprendido entre el primer día del mes calendario en que entre en vigencia el estado de excepción constitucional de catástrofe, por calamidad pública, la declaración de zona afectada por catástrofe, o aquel en que entre en vigencia la alerta sanitaria que implique la paralización de actividades y el último día del mes calendario siguiente, tendrán derecho a un máximo de dos prestaciones mejoradas por cesantía, en los términos previstos en este Título.
+
+Para el caso de alerta sanitaria o zona afectada por catástrofe, el Subsecretario de Hacienda deberá dictar una resolución fundada en la que señalará la zona o territorio afectado de conformidad a los efectos del acto o declaración de autoridad a que se refiere el inciso primero y, en su caso, las actividades o establecimientos exceptuados de la paralización de actividades. Dicha resolución deberá además ser suscrita por el Subsecretario del Trabajo, previa visación del Director de Presupuestos.
+
+La Sociedad Administradora de Fondos de Cesantía deberá adoptar las medidas de control suficientes que le permitan verificar el lugar donde el trabajador desempeñaba sus labores, y podrá para estos efectos requerir información a la Dirección del Trabajo o el respectivo contrato de trabajo al trabajador o al empleador.
+
+#### Artículo 67
+
+En el caso de los trabajadores a que se refiere el artículo anterior, contratados con duración indefinida o el trabajador de casa particular, el requisito establecido en la letra b) del artículo 12 para acceder a prestaciones financiadas con cargo a la Cuenta Individual por Cesantía será de un mínimo de ocho cotizaciones mensuales, continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
+
+Asimismo, tratándose de trabajadores con contrato a plazo fijo o por obra, trabajo o servicio determinado, el requisito de la letra c) del artículo 12 para acceder a prestaciones financiadas con cargo a la Cuenta Individual por Cesantía será de un mínimo de cuatro cotizaciones mensuales, continuas o discontinuas, desde su afiliación al Seguro o desde la fecha en que se devengó el último giro a que hubieren tenido derecho conforme a esta ley.
+
+Estos trabajadores tendrán derecho a las prestaciones definidas en el artículo siguiente en la medida que, además, reúnan los requisitos establecidos en las letras a) y d) del artículo 12.
+
+#### Artículo 68
+
+Las prestaciones mejoradas financiadas con cargo a los fondos de la Cuenta Individual por Cesantía, a que se refiere el artículo 66, en las que se devengue al menos un día durante el periodo señalado en dicho artículo, se regirán por la tabla incluida en este artículo.
+
+La prestación por cesantía que se recibirá durante los meses que se indican en la primera columna de la tabla señalada en este inciso, corresponderá al porcentaje indicado en la segunda columna, que se calculará sobre el promedio de las remuneraciones devengadas por el trabajador, en los últimos 8 o 4 meses en que se registren cotizaciones, anteriores al término del contrato de trabajo, según corresponda:
+
+.
+
+En todo lo que no sea contrario o no se encuentre previsto en este artículo y en el precedente, serán aplicables las disposiciones legales establecidas en el Párrafo 3° del Título I.
+
+#### Artículo 69
+
+El trabajador a que se refiere el artículo 66, para acceder al Fondo de Cesantía Solidario se entenderá que cumple con el requisito exigido en la letra a) del artículo 24 si registra ocho cotizaciones mensuales, continuas o discontinuas, desde su afiliación al Seguro o desde que se devengó el último giro a que haya tenido derecho, siempre que éstas se hayan registrado en los últimos 24 meses anteriores al término de la relación laboral. En todo caso, el trabajador deberá cumplir el requisito de las tres últimas cotizaciones continuas con el mismo empleador.
+
+Tendrán derecho a las prestaciones definidas en el artículo siguiente en la medida que, además, reúnan los requisitos establecidos en las letras
+
+- **b)** y
+
+- **d)** del artículo 24. Respecto del cumplimiento del requisito de la letra
+
+- **c)** de ese artículo, su aplicación se entenderá efectuada sobre la tabla del artículo 70.
+
+#### Artículo 70
+
+Las prestaciones mejoradas con cargo al Fondo de Cesantía Solidario, en las que se devengue al menos un día durante el periodo señalado en el artículo 66, se regirán por la tabla incluida en este artículo, tanto para los contratos de trabajo de duración indefinida, o de casa particular, como para los contratos a plazo fijo, o por obra, trabajo o servicio determinado.
+
+La prestación por cesantía que se pagará durante los meses que se indican en la primera columna de la tabla, corresponderá al porcentaje indicado en la segunda columna, que se calculará sobre el promedio de las remuneraciones devengadas por el trabajador, en los últimos ocho meses en que se registren cotizaciones, anteriores al término del contrato de trabajo. La prestación estará afecta a los valores superiores e inferiores para cada mes a que aluden las columnas tercera y cuarta, respectivamente:
+
+.
+
+#### Artículo 71
+
+Accederán a las prestaciones de la tabla del inciso tercero del artículo 25, exclusivamente los trabajadores que perciban el último giro con cargo al Fondo de Cesantía Solidario, dentro del período fijado inicialmente en el acto de autoridad que declaró y dio origen al estado de excepción constitucional de catástrofe, por calamidad pública, la zona afectada por catástrofe o la alerta sanitaria, en conformidad a lo establecido en el artículo 66, sin que sea necesario considerar el requisito de alto desempleo dispuesto en el citado inciso tercero. Si en dicho periodo, simultáneamente, se verifica la condición de alto desempleo, sólo se pagarán los giros correspondientes a este artículo.
+
+Los giros adicionales establecidos en este artículo no se considerarán para el número máximo de pagos de prestaciones a que se refiere el inciso segundo del artículo 24.
+
+En todo lo que no sea contrario o no se encuentre previsto en este artículo y en los artículos 69 y 70, serán aplicables las disposiciones legales y reglamentarias que regulan las prestaciones con cargo al Fondo de Cesantía Solidario, según corresponda a su singular naturaleza jurídica.
+
+#### Artículo 72
+
+Los afiliados, que mantengan su condición de desempleo, a quienes se les haya aceptado una solicitud para recibir prestaciones por cesantía presentada con anterioridad al período señalado en el artículo 66, se haya iniciado o no el pago de tales prestaciones, tendrán derecho a que un máximo de dos de sus prestaciones no pagadas sean recalculadas conforme a las disposiciones de este Título, manteniendo la fuente de financiamiento anterior y la remuneración promedio inicialmente determinada.
+
+#### Artículo 73
+
+El acceso a las prestaciones con los requisitos establecidos en este Título podrá ser solicitado por el trabajador hasta los sesenta días siguientes al término del período señalado en el artículo 66, siempre y cuando éste haya permanecido cesante.
+
+#### Artículo 74
+
+Aquel giro que devengue al menos un día dentro del período señalado en el artículo 66 se pagará conforme a las tablas señaladas en los artículos 68 o 70, según corresponda. Si el cese de la relación laboral ocurrió el último día del periodo señalado en el artículo 66, se entenderá que el trabajador devengó un día, lo que le da derecho a dos prestaciones mejoradas.
+
+Los giros posteriores a aquellas prestaciones mejoradas, de corresponder, se determinarán y pagarán de acuerdo con las tablas señaladas en los artículos 15 y 25, y se mantendrá la remuneración promedio inicialmente determinada.
+
 Disposiciones Transitorias
 
 #### Artículo primero
@@ -913,6 +941,14 @@ Durante los tres primeros años contados desde la fecha de inicio de las operaci
 #### Artículo quinto
 
 El gasto fiscal que represente la aplicación de esta ley, se financiará con cargo a los recursos que se consulten en el presupuesto del año respectivo"..
+
+#### Artículo sexto
+
+El Servicio Nacional de Capacitación y Empleo deberá elaborar el primer reporte anual a que se refiere el inciso final del artículo 25 bis, durante el primer trimestre del año 2024, y el reporte adicional que debe emitirse cada tres años, regulado en el mismo inciso, deberá ser elaborado por primera vez en el primer trimestre del año 2027.
+
+#### Artículo séptimo
+
+Respecto de los estados de excepción constitucional de catástrofe, por calamidad pública, zona afectada por catástrofe, o alerta sanitaria de acuerdo a lo dispuesto en el artículo 66, que se encuentren vigentes a la fecha de su entrada en vigencia, para los efectos de la flexibilización de requisitos y los beneficios mejorados establecidos en el Título IV, deberá entenderse que el primer mes de vigencia del respectivo acto o declaración de la autoridad competente corresponde al primer mes de su vigencia.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlgese y llévese a efecto como Ley de la República.
 
