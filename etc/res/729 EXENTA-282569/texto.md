@@ -20,7 +20,9 @@ Variantes Coincidencia Divergencia
 
 Bus 4 25 10
 
-Taxi Colectivo 1 60 10
+Taxi 1 60 10
+
+Colectivo
 
 Respecto a los servicios de locomoción colectiva urbana que se presten en las ciudades de Talca y Curicó, Fíjanse en la forma que se indica a continuación, el número máximo de variantes por línea y los porcentajes máximos de coincidencia y mínimos de divergencia del trazado de los servicios variantes.
 
