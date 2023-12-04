@@ -20,6 +20,6 @@ Considerando:
 
 Resuelvo:
 
-Establécese que la cantidad mínima de vehículos que deben integrar la Unión Temporal de Postulantes (UTP), en el contexto del programa especial de renovación de buses, minibuses, trolebuses y taxibuses establecido en el decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, es de 10 buses.
+Establécese que la cantidad mínima de vehículos que deben integrar la Unión Temporal de Postulantes (UTP), en el contexto del programa especial de renovación de buses, minibuses, trolebuses y taxibuses establecido en el decreto supremo Nº 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, es de 4 buses.
 
 Anótese, comuníquese y publíquese.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
