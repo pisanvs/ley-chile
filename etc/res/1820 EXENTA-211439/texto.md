@@ -1032,6 +1032,10 @@ c) Las solicitudes de inscripción para postular conforme al Programa de Pavimen
 
 d) Las postulaciones con la documentación de respaldo en original, deberá ser resguardada por la Municipalidad y con posterioridad a este Llamado ingresada a la Secretaría Regional Ministerial de Vivienda y Urbanismo, apenas sea posible, según coordinación regional. La Municipalidad deberá ingresar a la oficina de partes o a la oficina de partes electrónica (o dirección electrónica) de la Secretaría Regional Ministerial de Vivienda y Urbanismo, a más tardar en la fecha de cierre de recepción de postulaciones, el oficio conductor del Alcalde al Secretario Regional Ministerial con su postulación, para los efectos de contabilizar la fecha de ingreso para efectos de su validación y determinación del puntaje por este factor.
 
+#### Artículo 33º
+
+Transitorio: Durante el año 2023 y para participar en el 33º Proceso de Selección de Proyectos, la recepción de postulaciones municipales en la Secretaría Regional Ministerial de Vivienda y Urbanismo Metropolitana tendrá como fecha de cierre el día martes 5 de diciembre, de la presente anualidad.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
