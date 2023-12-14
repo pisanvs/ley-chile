@@ -218,6 +218,8 @@ a) Asesorar, controlar y coordinar las acciones relativas a la seguridad peniten
 
 b) Velar por el adecuado diseño, ejecución, desarrollo y control de los proyectos de seguridad electrónica, en los establecimientos penitenciarios.
 
+c) Asesorar, controlar y coordinar las acciones relativas a la persecución y prevención del surgimiento y operación de asociaciones delictivas o criminales.
+
 La Jefatura de esta Subdirección será asumida por el Subdirector Operativo, que será un funcionario de exclusiva confianza del Director Nacional y será nombrado de entre los Oficiales Penitenciarios titulares del cargo de Coronel que se encuentren entre las cinco primeras antigüedades de dicho grado.
 
 Si como resultado del nombramiento del Subdirector Operativo, se alterare el orden de precedencia de los coroneles que cumplen los requisitos para ser nombrados en dicho cargo, deberá llamarse a retiro a aquellos coroneles que antecedan a aquel que fue nombrado en el cargo de Subdirector Operativo.
