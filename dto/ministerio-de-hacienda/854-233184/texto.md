@@ -668,6 +668,36 @@ Bonificación por
 
 Retiro.
 
+101 Ingresos por Cobro
+
+de Pagos en
+
+Exceso - GORES
+
+102 Ingresos por Cobro
+
+de Pagos
+
+Duplicados - GORES
+
+103 Ingresos por Saldos
+
+No Utilizados de
+
+Transferencias
+
+- GORES
+
+104 Otros - GORES
+
+105 Ingresos por
+
+Recuperación de
+
+Licencias
+
+Médicas - GORES
+
 201 Ingresos por
 
 Cobro de Pagos
@@ -1557,6 +1587,42 @@ Saldos No
 Utilizados de
 
 Transferencias
+
+100 Integros por
+
+Recuperación
+
+de Licencias
+
+Médicas - GORES
+
+101 Integros por
+
+Cobro de Pagos
+
+en Exceso -
+
+GORES
+
+102 Integros por
+
+Cobro de Pagos
+
+Duplicados -
+
+GORES
+
+103 Integros por
+
+Saldos No
+
+Utilizados
+
+de Transferencias
+
+- GORES
+
+104 Otros - GORES
 
 201 Integros por
 
@@ -2570,7 +2636,43 @@ de Impuestos
 
 004 Integros Ley N° 19.030
 
-100 Administradora del Fondo para Bonificación por Retiro
+100 Administradora del
+
+Fondo para
+
+Bonificación
+
+por Retiro
+
+101 Ingresos por Cobro
+
+de Pagos en Exceso
+
+- GORES
+
+102 Ingresos por Cobro
+
+de Pagos Duplicados
+
+- GORES
+
+103 Ingresos por Saldos
+
+No Utilizados de
+
+Transferencias -
+
+GORES
+
+104 Otros - GORES
+
+105 Ingresos por
+
+Recuperación de
+
+Licencias Médicas
+
+- GORES
 
 201 Ingresos por
 
@@ -5217,6 +5319,44 @@ Licencias Médicas
 Saldos No Utilizados
 
 de Transferencias
+
+100 Integros por
+
+Recuperación
+
+de Licencias
+
+Médicas -
+
+GORES
+
+101 Integros por
+
+Cobro de Pagos
+
+en Exceso -
+
+GORES
+
+102 Integros por
+
+Cobro de Pagos
+
+Duplicados -
+
+GORES
+
+103 Integros por
+
+Saldos No
+
+Utilizados
+
+de Transferencias
+
+- GORES
+
+104 Otros - GORES
 
 201 Integros por Cobro
 
