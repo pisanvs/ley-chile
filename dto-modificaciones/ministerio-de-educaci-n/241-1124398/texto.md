@@ -82,7 +82,7 @@ Por otra parte, las modificaciones introducidas por el número 3) letras c) y d)
 
 #### Artículo tercero
 
-transitorio: Desde la fecha de publicación del presente decreto y hasta el 31 de diciembre de 2023, el literal a) del artículo 11 del decreto Nº 315, de 2010, del Ministerio de Educación, corresponderá al siguiente:
+transitorio: Desde la fecha de publicación del presente decreto y hasta el 31 de diciembre de 2026, el literal a) del artículo 11 del decreto Nº 315, de 2010, del Ministerio de Educación, corresponderá al siguiente:
 
 "a) Director, Directora: Contar con un título profesional otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido oficialmente por el Estado.".
 
