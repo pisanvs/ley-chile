@@ -130,7 +130,7 @@ i. Debe estar legalmente organizada y el nuevo punto donde se pretende la autori
 
 ii. Debe demostrar técnicamente mediante informe suscrito por el repartidor de aguas o Juez de río o por un profesional del área de las ingenierías que por razones de escasez hídrica, y con los caudales disponibles en las fuentes, no le es posible satisfacer el 100% de los caudales que constan en los derechos de aprovechamiento de todos sus miembros.
 
-iii. Debe contar con un acuerdo de redistribución de las aguas bajo su jurisdicción, en el que señale el destino de las aguas respecto a las cuales se solicita hacer extracción temporal.
+iii. Debe contar con un acuerdo de redistribución de las aguas bajo su jurisdicción, en el que señale el destino de las aguas respecto de las cuales se solicita hacer extracción temporal. Sin perjuicio de lo anterior, también podrá autorizarse en los casos en que el Servicio haya ordenado la redistribución de las aguas o la esté realizando directamente.
 
 iv. No existan captaciones de aguas subterráneas destinadas a usos de subsistencia o abastecer de agua potable a la población, ya sea un Sistema Sanitario Rural o Empresas Sanitarias en un radio igual o menor a 1 km del punto de captación de aguas subterráneas solicitado, o que no existan derechos constituidos o reconocidos en un radio igual o menor a 200 metros. Sólo se podrá autorizar la extracción temporal de aguas si se acompaña una autorización notarial expresa del titular que se encuentra dentro de los radios señalados.
 
@@ -188,7 +188,7 @@ Si la solicitud de autorización de explotación temporal se funda en un cambio 
 
 v. Una vez que la Dirección Regional de Aguas respectiva cuente con la totalidad de la información requerida resolverá la solicitud en el más breve plazo.
 
-vi. No obstante, no se tramitarán aquellas solicitudes que se ubiquen en puntos de captación y/o solicitantes hayan sido sancionados por el Servicio dentro del año anterior y en curso. Esta limitación sólo podrá dejarse sin efecto, a solicitud de la interesada, siempre que presente en ese mismo acto una resolución de la Dirección General de Aguas o una sentencia judicial que, a su vez, haya dejado sin efecto lo dispuesto en la resolución regional.
+vi. No obstante, no se tramitarán aquellas solicitudes que se ubiquen en puntos de captación y/o solicitantes que hayan sido objeto de procesos sancionatorio de fiscalización y a cuyo respecto se hayan aplicado sanciones dentro del año anterior y en curso. Esta limitación podrá dejarse sin efecto, a solicitud de la interesada, siempre que presente en ese mismo acto una resolución de la Dirección General de Aguas o una sentencia judicial que, a su vez, haya dejado sin efecto lo dispuesto en la resolución regional; o que la solicitud se funde en la necesidad de proveer agua para el consumo humano, uso doméstico de subsistencia y el saneamiento, y cuente con un pronunciamiento de la Superintendencia de Servicios Sanitarios o de la Dirección de Obras Hidráulicas, según se trate de Empresas Sanitarias o Servicios Sanitarios Rurales, que además de certificar la situación descrita, contemple las medidas que tomará la requirente para resolverla a largo plazo.
 
 No se tramitarán aquellas solicitudes, asociadas a derechos que se encuentren incumpliendo su obligación de catastrar las obras de captación y de instalar y mantener sistemas de medición y de transmisión de extracciones efectivas y su obligación de reportar las extracciones.
 
