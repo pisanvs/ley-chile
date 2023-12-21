@@ -78,7 +78,7 @@ NCh. : Norma Chilena.
 
 Quedan sometidos a este control:
 
-a) Las armas de fuego, incluyendo sus partes, repuestos, piezas, dispositivos, implementos o accesorios que puedan ser acoplados a la misma, destinados a su funcionamiento o efectividad en el disparo, y todo artefacto, ingenio o dispositivo que permita lanzar municiones, objetos explosivos, balas, balines, perdigones y otros proyectiles, aprovechando la fuerza de la expansión de los gases de la pólvora, o cualquier compuesto químico, sea cual fuere su calibre, tipo, tamaño, forma o empleo a que se destinen.
+a) Las armas de fuego, sea cual fuere su calibre, incluyendo sus partes, dispositivos y piezas. Se entenderá por arma de fuego toda aquella que tenga cañón y dispare, que esté concebida para disparar o que pueda adaptarse o transformarse para disparar municiones o cartuchos, aprovechando la fuerza de la expansión de los gases de la pólvora, o cualquier compuesto químico. Las armas de fuego se clasifican, conforme a su uso, en armas de defensa personal, de seguridad privada y protección, deportivas, de caza menor o mayor, de control de fauna dañina, de caza submarina, de uso industrial, de colección, ornato o adorno, de museo, de muestra, de señales, y veterinario.
 
 b) Los elementos lacrimógenos o de efecto fisiológico, entendiéndose por tales, todo artefacto, ingenio o dispositivo destinado a emitir, producir o lanzar gases, humo o niebla, llamas, descargas eléctricas o sustancias químicas, sean ellas deletéreas o dañinas, denominados normalmente como artificios.
 
@@ -96,11 +96,17 @@ h) Los artificios pirotécnicos y otros artefactos de similar naturaleza, incluy
 
 i) Instalaciones utilizadas o destinadas al uso de almacenes, polvorines, canchas, túneles y campos de pruebas o dispositivos de armas, explosivos, artificios pirotécnicos y otros elementos sometidos a control, sean construcciones definitivas, transitorias o móviles, estén ubicadas en la superficie o sean subterráneas, enterradas o móviles.
 
-j) Instalaciones de Prueba y Polígonos de tiro respecto de las armas, municiones y permisos otorgados en conformidad a la Ley.
+j) Polígonos de Tiro de Federaciones y Clubes para prácticas de sus socios respecto de los permisos otorgados en conformidad a la ley, en relación con las armas, municiones almacenamiento y transporte.
+
+Polígonos de Tiro de Federaciones, Clubes o personas naturales o jurídicas que cumplan la función de capacitar de forma teórica y práctica y certificar, respecto de los conocimientos, manejo y cuidado de quienes soliciten inscripción de armas de fuego.
 
 k) Las máquinas recargadoras de munición cualquiera que sea su tipo.
 
-l) Los repuestos, partes, piezas y accesorios de los elementos sujetos a control.
+l) Los dispositivos, repuestos, partes, piezas y accesorios de los elementos sujetos a control.
+
+m) Las armas de fogueo y sus municiones.
+
+n) Las armas basadas en pulsaciones eléctricas tales como bastones eléctricos o de electroshock y otras similares.
 
 1) Partes sometidas a control:
 
@@ -112,7 +118,9 @@ Son elementos componentes importantes de las partes, ya sea por su finalidad, te
 
 3) Accesorios y dispositivos sometidos a control:
 
-Son elementos complementarios y auxiliares, no componentes del elemento completo, tales como tornillos, tuercas, muelles, percutores, cantoneras y otros, que posibilitan la activación o funcionamiento del elemento.
+Accesorios sometidos a control: Son elementos complementarios y auxiliares, no componentes del elemento completo, tales como tornillos, tuercas, muelles, percutores, cantoneras y otros, que posibilitan la activación o funcionamiento del elemento.
+
+Dispositivos sometidos a control: Son mecanismos y artificios dispuestos para producir una acción prevista de mejorar los efectos o hacer más eficientes las armas, explosivos o elementos similares.
 
 Para este efecto, no se considerarán elementos controlados todos aquellos que a juicio de la Dirección General sean prescindibles en el funcionamiento de un arma, previo informe del Banco de Pruebas de Chile.
 
@@ -122,53 +130,79 @@ Se considerará también sometido a control el recubrimiento exterior, cartucho 
 
 #### Artículo 4
 
-Los siguientes elementos son considerados de posesión o tenencia prohibida:
+Ninguna persona podrá poseer o tener alguna de las siguientes armas, artefactos o municiones:
 
 a) Armas largas de fuego, cuyos cañones hayan sido recortados.
 
 b) Armas cortas de fuego de cualquier calibre, cuyo funcionamiento sea en forma totalmente automática.
 
-c) Armas de fantasía, se denominan así las que esconden su verdadera finalidad bajo una apariencia inofensiva.
+c) Armas de fantasía, se denominan así las que esconden su verdadera finalidad, bajo una apariencia inofensiva.
 
-d) Armas cuyos números de serie se encuentren adulterados o borrados.
+d) Armas de juguete, de fogueo, de balines, de postones o de aire comprimido adaptadas o transformadas para el disparo de municiones o cartuchos concebidos para armas de fuego.
 
-e) Armas, municiones o explosivos hechizas o de fabricación artesanal no autorizadas.
+e) Armas artesanales o hechizas, artefactos o dispositivos, cualquiera sea su forma de fabricación, partes o apariencia, siempre que no se trate de material de uso bélico o armas de fuego y que hayan sido creados, adaptados o transformados para el disparo de municiones o cartuchos.
 
-f) Armas transformadas respecto de su condición original, sin autorización de la Dirección General de Movilización Nacional.
+f) Armas cuyos números de serie o sistemas de individualización se encuentren adulterados, borrados o carezcan de ellos.
 
-g) Armas semiautomáticas para fines de caza.
+g) Municiones o explosivos hechizos o de fabricación artesanal.
 
-h) Ametralladoras, subametralladoras y pistolas ametralladoras de cualquier calibre.
+h) Armas transformadas respecto de su condición original, a menos que la DGMN lo autorice para fines exclusivamente deportivos y siempre que no implique una transformación estructural del arma.
 
-i) Metralletas o cualquier otra arma automática y semiautomática de mayor poder destructor o efectividad, sea por su potencia, por el tipo de sus proyectiles o por sus dispositivos de puntería que no se encuentren autorizadas y debidamente calificados como permitidas por la Dirección General de Movilización Nacional.
+i) Armas semiautomáticas largas de proyectil único. Se exceptúan de esta prohibición las armas calibre .22 pulgadas y las escopetas, de cualquier calibre, que se utilicen para fines deportivos, en ambos casos.
 
-j) Artefactos fabricados sobre la base de gases asfixiantes, paralizantes o venenosos, de sustancias corrosivas o de metales que por expansión de los gases producen esquirlas, y los implementos destinados a su lanzamiento o activación.
+j) Ametralladoras y subametralladoras, metralletas o cualquier otra arma automática o semiautomática de mayor poder destructor o efectividad, sea por su potencia, por el calibre de sus proyectiles o por sus dispositivos de puntería.
 
-k) Fabricación, importación, comercialización, distribución, venta, entrega a cualquier título y uso de artificios pirotécnicos, sus piezas y partes, comprendidos en los grupos 1 y 2 del artículo 286 del presente Reglamento.
+k) Armas o dispositivos impresos con tecnología 3D o similares capaces de disparar municiones o cartuchos, las que se encuentran reguladas en el artículo 3º letra e) de la ley.
 
-l) Bombas o artefactos incendiarios.
+l) Artificios pirotécnicos, sus piezas y partes, comprendidos en las letras a) y b) del artículo 285 y 286 del presente Reglamento.
 
-m) Los silenciadores para armas de fuego de cualquier tipo, sin autorización de la DGMN.
+m) Bombas o artefactos explosivos o incendiarios.
 
-n) Municiones que tengan una estructura distinta a las convencionales o hayan sido modificadas, para aumentar su peligrosidad, alcance o daño.
+n) Los silenciadores o supresores de sonido para armas de fuego de cualquier tipo o intercambiables para cualquier otro tipo de arma.
+
+ñ) Municiones perforantes, explosivas, incendiarias, adaptadas, de alto calibre y todas aquellas que por su naturaleza no correspondan al uso civil, lo que será determinado por la DGMN, mediante resolución fundada.
+
+o) Municiones que tengan una estructura distinta a las convencionales o hayan sido intervenidas para aumentar su peligrosidad, alcance, o daño.
+
+p) Dispositivos liberadores para automatismo, que permitan modificar los sistemas de disparo de las armas de semiautomática a automática.
+
+q) Dispositivos para armas de fuego u otros elementos, tales como mecanismos o artificios dispuestos para producir una acción prevista de mejorar los efectos o hacer más eficientes las armas, explosivos o elementos similares.
+
+r) Asimismo, ninguna persona podrá poseer, tener o portar artefactos fabricados sobre la base de gases asfixiantes, paralizantes o venenosos, de sustancias corrosivas o de metales que por la expansión de los gases producen esquirlas, bombas o artefactos explosivos o incendiarios; ni los implementos específicamente adaptados para el lanzamiento o activación de cualquiera de estos elementos.
+
+s) Armas traumáticas (armamento de baja letalidad) que utiliza pólvora para disparar un proyectil que por su composición causa un menor daño y son usadas solo por organismos profesionales que cumplen funciones de disuasión, mantención de la paz y el orden público.
+
+La posesión, tenencia o porte de los elementos numerados en este artículo es ilegal y se encuentran sometidas a las sanciones y penas que establece la ley.
+
+De acuerdo con lo dispuesto en el inciso tercero del artículo 3 de la ley, se exceptúa de estas prohibiciones a las FF.AA. y a Carabineros de Chile. La Policía de Investigaciones, Gendarmería de Chile y la Dirección General de Aeronáutica Civil estarán exceptuadas sólo respecto de la tenencia y posesión de armas automáticas livianas y semiautomáticas y de disuasivos químicos, lacrimógenos, paralizantes o explosivos y de granadas hasta la cantidad que autorice el Ministro o la Ministra de Defensa Nacional, a proposición del Director del respectivo Servicio. Estas armas y elementos podrán ser utilizados en la forma que señale el respectivo Reglamento Orgánico y de Funcionamiento Institucional.
+
+Ninguna persona podrá poseer, desarrollar, producir, almacenar, conservar o emplear armas químicas, biológicas o toxínicas. La prohibición anterior y los delitos asociados a ésta quedarán sujetos a la ley N° 21.250, que implementa la Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y sobre su Destrucción, y la Convención sobre la Prohibición del Desarrollo, la Producción y el Almacenamiento de Armas Bacteriológicas (biológicas) y Toxínicas y sobre su Destrucción.
+
+En todo caso, ninguna persona podrá poseer o tener armas nucleares.
 
 #### Artículo 5
 
 Autoridades Fiscalizadoras que ejercerán el Control de la ley N° 17.798:
 
-Para efectuar la supervigilancia y control de las Armas, Explosivos, Artificios Pirotécnicos, Productos Químicos y otros elementos que la Ley entrega al Ministerio de Defensa Nacional, actuará como Autoridad Central de Coordinación a nivel nacional, la Dirección General de Movilización Nacional y en ese carácter impartirá instrucciones a las Autoridades Fiscalizadoras y asesoras, para el adecuado cumplimiento de la Ley.
+Para efectuar la supervigilancia y control de las Armas, Explosivos, Artificios Pirotécnicos, Productos Químicos y otros elementos que la ley entrega al Ministerio de Defensa Nacional, actuará como Autoridad Central de Coordinación a nivel nacional, la Dirección General de Movilización Nacional y en ese carácter impartirá instrucciones a las Autoridades Fiscalizadoras y asesoras, para el adecuado cumplimiento de la ley.
 
-Se desempeñarán como autoridades ejecutoras y contraloras de la Ley :
+Se desempeñarán como autoridades ejecutoras y contraloras de la ley:
 
-a) Las Comandancias de Guarnición de las Fuerzas Armadas,
+a) Las Comandancias de Guarnición de las Fuerzas Armadas.
 
 b) Las Autoridades de Carabineros de Chile, de mayor jerarquía en el área jurisdiccional.
 
-Las Autoridades ejecutoras y contraloras serán designadas por el Ministro de Defensa Nacional, a proposición del Director General, de quien dependerán directamente para el cumplimiento de las funciones señaladas en la Ley, denominándose para tal efecto Autoridades Fiscalizadoras. Su nombramiento será mediante Decreto Supremo del Ministerio de Defensa Nacional - Decreto Supremo (Segpres) N° 19, de 2001.
+c) Otras autoridades militares o de Carabineros de Chile encargadas de colaborar a nivel local en el cumplimiento de la ley y del presente reglamento.
+
+Las Autoridades ejecutoras y contraloras serán designadas por el Ministro de Defensa Nacional, a proposición del Director General, de quien dependerán directamente para el cumplimiento de las funciones señaladas en la ley, denominándose para tal efecto Autoridades Fiscalizadoras. Su nombramiento será mediante decreto supremo del Ministerio de Defensa Nacional - decreto supremo (Segpres) N° 19, de 2001.
+
+De acuerdo con lo dispuesto en el inciso quinto del artículo 5° de la ley, adicionalmente, existirán organismos fiscalizadores. Se entenderán por tales, aquellos organismos, designados por la ley, que no teniendo la calidad de A.F., podrán realizar solo labores de fiscalización que esta y el reglamento les confieran.
+
+La Policía de Investigaciones de Chile se integra como organismo fiscalizador para los efectos específicos que estipula la ley N° 21.412, que modifica la Ley N° 17.798 sobre Control de Armas.
 
 Actuarán como Autoridades Asesoras en los términos previstos por la ley y por el presente Reglamento, las siguientes:
 
-El Instituto de Investigaciones y Control del Ejército, en su calidad de Banco de Pruebas de Chile, el que prestará sus servicios proporcionando asesoría técnica especializada a la Dirección General y a las Autoridades Fiscalizadoras, directamente o a través de sus Sucursales y Delegaciones en las Regiones del país.
+El Instituto de Investigaciones y Control del Ejército, en su calidad de Banco de Pruebas de Chile, el que prestará sus servicios proporcionando asesoría técnica especializada a la Dirección General y a las Autoridades Fiscalizadoras, directamente o a través de sus Sucursales y Delegaciones en las regiones del país.
 
 El Director General podrá solicitar por intermedio del Ministro de Defensa Nacional, asesoría técnica calificada a otros servicios especializados de las Fuerzas Armadas o a organismos y personal dependiente de los mismos.
 
@@ -198,6 +232,10 @@ De la Dirección General
 
 La Dirección General de Movilización Nacional como Autoridad Central de Coordinación de todas las autoridades ejecutoras y contraloras, tendrá por misión fundamental, efectuar en el ámbito nacional la supervigilancia y control de las armas, explosivos, artificios pirotécnicos y otros elementos similares a que se refiere la Ley, y ejercer las facultades administrativas que dicha norma legal le entrega.
 
+#### Artículo 9
+
+A.- La DGMN actuará como autoridad central de coordinación de todas las autoridades ejecutoras y contraloras que correspondan a las Comandancias de Guarnición de las FF.AA. y Carabineros de Chile y, asimismo, de la Policía de Investigaciones de Chile en su función de organismo fiscalizador, de las autoridades asesoras que correspondan al BPCH y de los servicios especializados de las FF.AA. en los términos previstos en la ley y este reglamento.
+
 #### Artículo 10
 
 A la Dirección General de Movilización Nacional, le corresponde cumplir las siguientes funciones:
@@ -206,13 +244,13 @@ a) Proponer al Presidente de la República a través del Ministro de Defensa Nac
 
 b) Proponer al Ministro de Defensa Nacional:
 
-1) El personal técnico de las Fuerzas Armadas y Carabineros de Chile, que integrará la Comisión de Material de Guerra, a que se refiere el artículo 23°, inciso quinto de la Ley.
+1) Proponer, en conjunto con el General Director de Carabineros y Director General de la Policía de Investigaciones de Chile, a los Ministerios de Defensa Nacional y del Interior y Seguridad Pública, el decreto supremo que designa al personal técnico de las FF.AA. y Fuerzas de Orden y Seguridad Pública, que integrarán la Comisión de Material de Guerra a que se refiere el inciso séptimo del artículo 23 de la Ley N° 17.798, sobre Control de Armas, y sus disposiciones.
 
 2) Las Comandancias de Guarnición de las FF.AA., las Autoridades de Carabineros de Chile de mayor jerarquía y otras Autoridades Militares o de Carabineros de Chile, que ejercerán las funciones de Autoridades Fiscalizadoras, con sus correspondientes áreas jurisdiccionales, como asimismo sus modificaciones, cuando sea necesario.
 
 3) Los proyectos que sean necesarios para modificar la Ley de Control de Armas y su Reglamento Complementario.
 
-4) El Decreto Supremo que fije la tasa de derechos semestral por actuaciones relacionadas con la ley.
+4) El decreto supremo semestral que fija las tasas de derechos por actuaciones relacionadas con la ley y de las actuaciones del Banco de Pruebas de Chile.
 
 5) Solicitar la asesoría técnica de personal u organismos dependientes de las instituciones de las Fuerzas Armadas, para supervisar en las fábricas de material de uso bélico autorizadas, el proceso de fabricación, producción y los inventarios.
 
@@ -266,6 +304,8 @@ s) Llevar los siguientes Registros Nacionales, conforme a las actuaciones realiz
 
 2) Personas sobre quienes se ha dictado auto de apertura de juicio oral, conforme a los antecedentes entregados por los Jueces de Garantía.
 
+Personas sujetas a medidas cautelares personales que impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, de conformidad con lo dispuesto en el artículo 155 del Código Procesal Penal o el N° 6 del artículo 92 de la ley N° 19.968, que crea los Tribunales de Familia.
+
 3) Armas extraviadas o robadas.
 
 4) Armas en custodia y decomiso.
@@ -308,6 +348,10 @@ s) Llevar los siguientes Registros Nacionales, conforme a las actuaciones realiz
 
 t) De acuerdo a lo estipulado en el artículo 26 inciso cuarto de la ley, remitir directamente a las Direcciones de Finanzas respectivas, el 50% de los fondos recaudados por las actuaciones realizadas en las Autoridades Fiscalizadoras de la Ley de 'Control de Armas y Elementos Similares', los que serán reinvertidos por las Autoridades Fiscalizadoras única y exclusivamente en bienes y servicios de consumo e inversión real, necesarios para el cumplimiento integral de las funciones que la Ley les encomienda.
 
+En el caso de las FF.AA., lo anterior se materializará a través de los correspondientes organismos de finanzas de cada institución y, en el caso de Carabineros de Chile, a través de la Zona de Seguridad Privada, Control de Armas y Explosivos, para lo cual deberá verificarse la apertura de una Cuenta Única Fiscal.
+
+Los fondos deberán ser destinados, única y exclusivamente para la adquisición de bienes y servicios necesarios para el cumplimiento integral de las funciones que la ley les encomienda.
+
 La Dirección General deberá considerar en su programa de fiscalización anual, el control de esta norma reglamentaria o solicitándolo, si fuere el caso, a las Instituciones respectivas.
 
 u) Atención de público para las siguientes actuaciones:
@@ -323,6 +367,8 @@ u) Atención de público para las siguientes actuaciones:
 5) Actualización de datos en la inscripción de las armas.
 
 6) Permisos de transporte de armas para caza y deporte.
+
+u bis) Para efectos de determinar la procedencia de las solicitudes de exportación de material de uso bélico que se le presenten, convocará a la Comisión Asesora del Ministerio de Defensa Nacional en los casos que corresponda, para que esta efectúe una proposición al Ministro o Ministra de Defensa, quien resolverá la solicitud.
 
 v) Las demás funciones que establezca la normativa vigente sobre la materia.
 
@@ -356,7 +402,7 @@ A las Autoridades Fiscalizadoras locales les corresponde:
 
 a) Inscribir las armas de fuego a nombre de las personas naturales y jurídicas, de acuerdo a los requisitos establecidos en el artículo N° 76° del presente Reglamento.
 
-b) Otorgar los permisos para porte de armas, de acuerdo a los requisitos y modalidades establecidos en el Capítulo VII del presente Reglamento.
+b) Otorgar los permisos para porte de armas, de acuerdo a los requisitos y modalidades establecidos en el Capítulo VII del Título Quinto, del presente Reglamento.
 
 c) Autorizar el transporte de armas de los cazadores y deportistas.
 
@@ -491,6 +537,32 @@ d) Las armas correspondientes a comiso y entrega voluntaria, deberán ser remiti
 e) La documentación correspondiente a los comisos ordenados por los Tribunales de Justicia, Fiscalías del Ministerio Público y Tribunales Militares, deberán permanecer archivadas en las Autoridades Fiscalizadoras por 5 años contados desde la destrucción de éstas.
 
 f) Mantener en custodia temporal las armas y municiones pertenecientes a casas comerciales debidamente inscritas, que excedan las cantidades máximas autorizadas en sus locales.
+
+#### Artículo 17
+
+A.- Las armas y los demás elementos controlados por la ley solo podrán ser custodiados:
+
+a. En el Depósito de Armas en Custodia de Arsenales de Guerra del Ejército.
+
+b. En el Depósito Central de Armas de Carabineros de Chile.
+
+c. En los Depósitos de Armas Locales existentes en las AA.FF.
+
+La DGMN dispondrá, considerando las capacidades de almacenamiento y de funcionamiento y operación de los depósitos y en resguardo de la fluidez del proceso de inutilización y destrucción de las armas de fuego y de otros elementos controlados, el o los depósitos en los cuales éstos y aquellas se custodiarán.
+
+Sin perjuicio de lo anterior, deberán custodiarse, solo en el Depósito de Armas en Custodia de Arsenales de Guerra el material de uso bélico y los explosivos de cualquier tipo cuando:
+
+a. Sean objeto o instrumento de delitos en el marco de procedimientos investigativos o judiciales;
+
+b. Sean retenidos en aduana producto de irregularidades en su importación o internación y;
+
+c. Se haya dado orden de retención o incautación, por cualquier causa.
+
+En los tres casos referenciados anteriormente, deberán custodiarse en el Depósito Central de Armas de Carabineros de Chile o en los Depósitos Locales, las armas y otros elementos controlados, que no sean considerados como material de uso bélico ni explosivos.
+
+#### Artículo 17
+
+B.- Antes de su destrucción, deberá tomarse muestras del efecto de los disparos de las armas en sus proyectiles y casquillos de balas o cartuchos. Esta toma de muestras se realizará en conformidad a las disposiciones del reglamento que para estos efectos dicte el Ministerio del Interior y Seguridad Pública en los términos expresados en la ley.
 
 ### III. TITULO TERCERO
 
@@ -682,31 +754,57 @@ Los interesados que soliciten la renovación anual antes del plazo de vencimient
 
 Si el interesado no renueva en la fecha prevista, ésta se considerará caducada, debiendo a futuro realizar todos los trámites como una nueva inscripción.
 
+Respecto de los usuarios inscritos en el rubro relacionado con la comercialización de armas de fuego, y que no renovaran en la fecha prevista, la DGMN deberá solicitar al Servicio de Impuestos Internos la información sobre el término de giro, con la finalidad de que previo a su disolución enajene las armas de fuego y elementos controlados que posea a quien cumpla con los requisitos para inscribirlos o comercializarlos.
+
 #### Artículo 44
 
 Los importadores, exportadores, fabricantes y reparadores, además de su inscripción como tales, deberán inscribirse como comerciantes o consumidores habituales, si los productos que importan o reparan son destinados a la venta en el mercado nacional, internacional o propio consumo.
 
 #### Artículo 45
 
-Las inscripciones tendrán una vigencia de un año calendario, a contar de la fecha de autorización mediante una Resolución emitida por la Dirección General. Para la renovación se cancelará la tasa de derechos vigente, por cada una de las siguientes inscripciones:
+Las inscripciones tendrán una vigencia de 1 o 3 años calendario, a contar de la fecha de la resolución que la autoriza, dependiendo de su tipo de inscripción, pagando para su renovación la tasa de derechos vigentes según el siguiente detalle:
 
-a) Comerciante de productos sometidos a control.
+1. Renovación anual:
 
-b) Comerciante de material bélico.
+a. Comerciante de productos sometidos a control.
 
-c) Importador de productos sometidos a control.
+b. Comerciante de material de uso bélico.
 
-d) Importador de material bélico.
+c. Importador de productos sometidos a control.
 
-e) Exportador de productos sometidos a control.
+d. Importador de material de uso bélico.
 
-f) Exportador de material bélico.
+e. Exportador de productos sometidos a control.
 
-g) Fabricante de productos sometidos a control.
+f. Exportador de material de uso bélico.
 
-h) Armador, reparador y transformador de productos sometidos a control.
+g. Fabricante de productos sometidos a control.
 
-i) Consumidor habitual de productos sometidos a control.
+h. Fabricante de material de uso bélico.
+
+i. Empresas Capacitadoras de Vigilantes Privados.
+
+j. Armador, reparador y transformador de productos sometidos a control.
+
+k. Consumidor habitual de productos sometidos a control.
+
+l. Capacitador de manipuladores de explosivos y sustancias químicas y artificios pirotécnicos.
+
+2. Renovación cada 3 años:
+
+a. Federaciones y clubes de tiro y caza.
+
+b. Organismo o entidad inscrita como capacitador para la inscripción de armas de fuego.
+
+c. Polígonos de tiro de federaciones, clubes y de organismos o entidades capacitadoras.
+
+d. Instructor de tiro para fines de inscripción de arma de fuego.
+
+e. Museos.
+
+f. Otras inscripciones de actividades autorizadas por la DGMN.
+
+Los comerciantes que ejerzan más de un rubro y/o tengan más de una sucursal, con vencimiento de las inscripciones en distintas fechas del año, podrán solicitar se unifiquen todos los vencimientos en una sola fecha.
 
 #### Artículo 46
 
@@ -764,13 +862,15 @@ De igual forma será responsabilidad del representante legal comunicar en un pla
 
 Las personas naturales que deseen obtener una Autorización de Compra e inscripción de armas, previamente deberán cumplir con lo siguiente:
 
-a) Selección del tipo de arma, calibre y casa comercial donde realizará la compra, antecedentes que presentará ante la Autoridad Fiscalizadora, la cual verificará el cupo disponible para inscripción, dispondrá el examen de conocimientos del interesado y controlará la documentación, conforme a lo establecido en el artículo N° 76° del presente reglamento.
+a) Manifestar su voluntad de adquirir un arma ante la A.F. competente, la que en el caso de las personas jurídicas corresponderá al lugar donde se guarden las armas y en el caso de las personas naturales a la residencia del interesado, la cual deberá verificar que este posee el cupo disponible de inscripción.
 
-b) Una vez aprobado lo anterior, la Autoridad Fiscalizadora emitirá una Solicitud de Autorización de Compra e Inscripción. Este documento tendrá una validez de 10 días corridos, y certificará que el interesado cumple con los requisitos correspondientes, a fin de continuar con el proceso para obtener la Autorización de Compra y concretar el negocio con el comerciante donde realizó la cotización.
+La A.F. deberá verificar si cumple con los requisitos señalados en el artículo 5 A de la ley. En caso contrario, denegará la inscripción mediante resolución fundada.
 
-c) El usuario o su mandatario designado mediante un poder notarial, presentará ante la Autoridad Fiscalizadora todos los antecedentes, incluyendo fotocopia del Certificado de Asistencia Técnica, y además, cancelando la tasa de derechos correspondiente a la inscripción del arma.
+El solicitante rendirá examen de conocimientos respecto de la ley N° 17.798 y su reglamento, además deberá aprobar un curso especializado que conste de instrucción de práctica de tiro y teórica sobre conservación y manejo de acuerdo al tipo de arma que desee inscribir y presentar los antecedentes dispuestos tanto en el artículo 5°A de la ley, como en el artículo 76 del presente reglamento.
 
-La Autoridad Fiscalizadora emitirá la Autorización de Compra, que tendrá una validez de 10 días corridos, inscribiendo el arma, descargando los productos de los inventarios del comerciante y entregará en este acto el Padrón de Inscripción.
+b) Una vez aprobado lo anterior el solicitante será declarado apto, y obtendrá de la DGMN una licencia de aptitud para la tenencia del arma de fuego que pretende inscribir, documento con el que se podrá solicitar la Autorización para Comprar respectiva, dentro de los seis meses siguientes.
+
+c) Al momento de solicitar la Autorización para Comprar e inscripción se deberá presentar el Certificado de Asistencia Técnica del arma que se inscribirá, que se corresponderá con el tipo de arma acreditada. La autoridad fiscalizadora entregará al usuario el padrón correspondiente a la acreditación y al de la inscripción del arma de fuego.
 
 d) El comerciante sólo entregará el arma cuando el usuario certifique la inscripción de ésta, presentando el Padrón respectivo.
 
@@ -830,9 +930,9 @@ a) Particulares para propio consumo.
 
 2.- Fotocopia de factura proforma con timbre de la empresa o del particular.
 
-3.- Certificado de Antecedentes para Fines
+3.- Certificado de Antecedentes para Fines Especiales. Para el caso de extranjeros que no cuenten con este tipo de certificado, deberán presentar un documento otorgado por la Embajada o Consulado correspondiente, en el cual certifique su honorabilidad.
 
-Especiales. Para el caso de extranjeros que no cuenten con este tipo de certificado, deberán presentar un documento otorgado por la Embajada o Consulado correspondiente, en el cual certifique su honorabilidad.
+4.- Ser mayor de edad y contar con la nacionalidad chilena o residencia definitiva, lo que deberá acreditarse adjuntando copia del correspondiente documento.
 
 Para el caso de las armas, la Dirección General deberá verificar que el interesado cuenta con cupo para inscribir las armas que desea importar.
 
@@ -982,6 +1082,8 @@ Previa coordinación con el Banco de Pruebas de Chile estas armas, municiones, u
 
 En caso que el arma o munición no cumpla con los requisitos exigidos, el propietario podrá entregarla voluntariamente para los fines del artículo 23 de la Ley, exportarla en un plazo de 30 días o en casos calificados, solicitar la autorización a la D.G.M.N para adaptarla a las condiciones permitidas, debiendo presentarla al BPCH para una nueva certificación. En caso que el arma no cumpla con los requisitos y el interesado no dé cumplimiento a los incisos anteriores, el BPCH., retendrá el arma y la pondrá a disposición de la D.G.M.N. para el denuncio judicial respectivo.
 
+En el caso de que las armas o municiones que se pretenden importar superen las cantidades establecidas en el artículo 165 B. del presente Reglamento, deberán ser escoltadas por empresas de seguridad que cuenten con vigilantes privados y vehículos blindados, acondicionados para este tipo de transporte, contratados por el comerciante. Cuando por circunstancias debidamente calificadas no se cuente con esta protección, podrá solicitarse a Carabineros de Chile con conocimiento de la A.F. de Control de Armas respectiva.
+
 g) Internación al País de Explosivos, Artificios Pirotécnicos, Productos Químicos u Otros Similares Sujetos a Control.
 
 En la internación al país de explosivos, fuegos artificiales, artículos pirotécnicos, productos químicos u otros similares sujetos a control, se deberá observar las siguientes normas:
@@ -1001,6 +1103,10 @@ En la internación al país de explosivos, fuegos artificiales, artículos pirot
 7.- En caso que algún elemento controlado no cumpla con los requisitos exigidos, el BPCH. comunicará de inmediato a la Dirección General debiendo el propietario exportarlos o destruirlos en el plazo de sesenta días a contar de la fecha que es notificado, permaneciendo almacenado durante ese tiempo en el lugar que le sea fijado.
 
 8.- El propietario de los elementos importados, solicitará a la Autoridad Fiscalizadora del lugar de almacenamiento, la destrucción de los elementos que hayan sufrido daño o deterioro que los inutilice. De esta actuación se debe levantar un acta remitiendo una copia a la Dirección General. Para el caso de productos químicos, se deberá solicitar su destrucción a los organismos especializados.
+
+#### Artículo 62
+
+A.- Para las autorizaciones de importación e internación de armas y/o municiones consignadas en los artículos 61 y 62 del presente Reglamento, el importador, sea este persona natural o jurídica, deberá indicar en las solicitudes, el origen de las armas y/o municiones, fabricante e intermediarios que hubieren tenido el arma o municiones con anterioridad al ingreso.
 
 #### Artículo 63
 
@@ -1034,6 +1140,16 @@ Para esta actuación el interesado deberá presentar la carta solicitud de expor
 
 6.- País y ciudad de destino.
 
+7.- La información de las empresas o personas encargadas del embarque, transbordo, almacenamiento y manifiestos de carga.
+
+8.- Las rutas de viaje y todo antecedente que permita conocer el tiempo y lugar por donde transiten los elementos sujetos a control, a fin de facilitar el adecuado control del estado de estas y evitar su desvío.
+
+La DGMN será la encargada de actualizar la base de datos dejando la constancia de la salida temporal o definitiva, según corresponda.
+
+La resolución de exportación definitiva o salida temporal que se emita servirá de Guía de Libre Tránsito entre el lugar autorizado donde se guarda el arma y la aduana de salida. Esta misma resolución servirá de Guía de Libre Tránsito para el regreso.
+
+En el caso de agentes diplomáticos, funcionarios consulares o internacionales acreditados en Chile y los miembros de delegaciones diplomáticas u oficiales que hayan ingresado al país, les servirá la misma resolución que autorizó el ingreso para su salida del país.
+
 b) Exportación temporal por Federaciones y clubes deportivos
 
 Este caso se produce cuando una federación o club es invitado a participar en un campeonato internacional, sacando del país por un tiempo determinado las armas y municiones que se emplearán en dicha competencia.
@@ -1056,6 +1172,14 @@ La federación o club con suficiente anticipación solicitará a la Dirección G
 
 8.- En caso que el arma no esté inscrita a nombre del deportista, se deberá presentar una autorización notarial de la institución o persona que la facilita.
 
+9.- Domicilio en el extranjero en que permanecerán las armas cuando no sean empleadas.
+
+10.- La información de las empresas o personas encargadas del embarque, transbordo, almacenamiento y manifiestos de carga.
+
+11.- Las rutas de viaje y todo antecedente que permita conocer el tiempo y lugar por donde transiten los elementos sujetos a control, a fin de facilitar el adecuado control del estado de estas y evitar su desvío.
+
+La resolución que se emita servirá de Guía de Libre Tránsito para el transporte desde el domicilio de las armas de fuego, aduana de salida y posterior ingreso hasta la dirección declarada como lugar de almacenamiento.
+
 La federación o club, deberá informar a la Dirección General, del regreso al país de la delegación deportiva, haciendo referencia al número y fecha de la Resolución de exportación temporal.
 
 c) Exportación definitiva por empresas de material de uso bélico
@@ -1064,13 +1188,23 @@ Las empresas fiscales o privadas que están debidamente inscritas como comercian
 
 1.- Carta solicitud.
 
+1 a.- Copia de la Licencia para importar otorgada por la autoridad competente en el país importador, legalizada por el Consulado de Chile en el país de destino y refrendado por el Ministerio de Relaciones Exteriores de Chile, o debidamente apostillado.
+
 2.- Certificado de Destino Final, en original, legalizado por el Consulado de Chile en el país de destino, y refrendado por el Ministerio de Relaciones Exteriores de Chile.
 
 3.- Listado detallado de las armas, con indicación del tipo, marca, N° de serie, modelo, calibre y accesorios.
 
 4.- Las empresas que exporten armas, producto de enajenaciones por parte de las FF.AA. y de Orden, deberán adjuntar además, el contrato de adquisición suscrito con la Institución, el cual debe venir legalizado ante Notario Público.
 
+5.- Indicar el medio de transporte y empresa que efectúa el mismo.
+
+6. - Permiso de paso por parte de los Estados de tránsito, en los casos que corresponda.
+
 Una vez recibidos los antecedentes, la Dirección General, los remitirá al Ministro de Defensa Nacional, para que la petición sea analizada por la Comisión Asesora de Exportación de Armas de ese Ministerio, la que propondrá su aceptación o rechazo.
+
+Una vez exista un pronunciamiento favorable de la Comisión Asesora del MDN, el Ministro o Ministra podrá emitir la resolución para exportar, la cual servirá por una sola vez y tendrá una validez de 180 días hábiles a contar de la fecha de su otorgamiento, vencido dicho plazo, deberá presentarse una nueva petición.
+
+Materializada la exportación, se remitirá a la DGMN dentro del plazo de 2 días hábiles, por parte de la empresa exportadora una copia de la Declaración Única de Salida emitida por el Servicio Nacional de Aduanas, en que consten los datos de fecha, elementos exportados y aduana de salida.
 
 d) Exportación definitiva de Armas, Explosivos, Artificios Pirotécnicos, Productos Químicos u otros Elementos Sometidos a Control.
 
@@ -1086,9 +1220,29 @@ Las empresas que están debidamente inscritas como comerciantes y exportadores, 
 
 5.- Certificado de uso final refrendado por el consulado del país destinatario.
 
+6.- La información de las empresas o personas encargadas del embarque, transbordo, almacenamiento y manifiestos de carga.
+
+7.- Las rutas de viaje y todo antecedente que permita conocer el tiempo y lugar por donde transiten los elementos sujetos a control, a fin de facilitar el adecuado control del estado de estas y evitar su desvío.
+
 La Dirección General de Movilización Nacional deberá verificar que las exportaciones no sean efectuadas a países con restricción o prohibición para exportar armas, y que no se trate de armas prohibidas en el país de destino.
 
 Si se comprobare que se trata de algún país con restricción, la Dirección General remitirá los antecedentes a la Dirección de Política Especial del Ministerio de Relaciones Exteriores, la que informará las respectivas solicitudes.
+
+Para la evaluación de exportaciones de explosivos, sustancias químicas controladas y de otros elementos sometidos a control, el Ministerio de Relaciones Exteriores creará un repositorio público de los países y personas naturales o jurídicas con las que existe prohibición o restricción de comercializar.
+
+#### Artículo 65
+
+A.- La DGMN deberá verificar que las exportaciones y salidas temporales a que hacen referencia los artículos anteriores, en todos sus numerales, no sean efectuadas a países o personas naturales o jurídicas con restricción o prohibición para exportar o recibir elementos sometidos a control y que no se trate de elementos prohibidos en el país de destino.
+
+Si en los casos de exportación de material de uso bélico, se comprobare que se trata de algún país o persona natural o jurídica con prohibición o restricción de exportación, la DGMN remitirá los antecedentes de la denegación a la Comisión Asesora del Ministerio de Defensa Nacional, para su conocimiento.
+
+Autorizada la resolución de salida temporal o definitiva, el Servicio Nacional de Aduanas remitirá a la DGMN una copia de la Declaración Única de Salida emitida por ese servicio, en la que constará la fecha de salida y los elementos que se autorizan para la salida del país, sea esta temporal o definitiva y aduana de salida del país.
+
+Autorizada la exportación por el Ministro o Ministra de Defensa Nacional, el exportador informará a la DGMN y por intermedio de ésta a la Aduana, la fecha de la exportación o salida temporal, aduana de salida y medio de transporte y empresa que efectúa el mismo.
+
+Materializada la exportación, el exportador remitirá a la DGMN una copia de la declaración única de salida emitida por el Servicio Nacional de Aduanas, en que consten los datos de la fecha, elementos exportados o que salen temporalmente y aduana de salida del país.
+
+Además, en el plazo de 120 días, el exportador deberá presentar un certificado o constancia de la importación de los materiales o armas exportadas, emitido por el Estado importador.
 
 #### Artículo 66
 
@@ -1226,6 +1380,28 @@ h) De Control de la Fauna Dañina
 
 Escopetas de carga única o repetición de cualquier calibre.
 
+i) De fogueo:
+
+i. Adiestramiento canino profesional.
+
+ii. Control de fauna dañina.
+
+iii. Espectáculos públicos.
+
+iv. Filmaciones cinematográficas y artes escénicas.
+
+v. Recreaciones históricas.
+
+vi. Actividades deportivas.
+
+vii. Pruebas acústicas.
+
+viii. Disuasión (para las personas que tengan este tipo de armas en su poder).
+
+ix. Otras debidamente calificadas por la DGMN mediante resolución fundada.
+
+En el caso de las réplicas o maquetas, que se caracterizan por ser copias de armas no aptas para el disparo, dicha condición deberá ser acreditada mediante un informe técnico del BPCH.
+
 #### Artículo 72
 
 Las personas naturales o jurídicas, que por sus actividades industriales o mineras requieran emplear armas o elementos definidos como material de uso bélico, deberán solicitar un permiso especial a la Dirección General, la que podrá autorizar su uso mediante Resolución, previo estudio de los antecedentes.
@@ -1238,7 +1414,109 @@ Se autoriza a las empresas capacitadoras de Vigilantes Privados para inscribir u
 
 ## Capítulo III
 
-De la Inscripción, Actualización, Posesión, Tenencia y Extravío de Armas de Fuego.
+De la Inscripción, Actualización, Transferencia, Posesión, Tenencia, Comodato y Extravío de Armas de fuego, fogueo y basadas en pulsaciones eléctricas.
+
+#### Artículo 73
+
+A.- Los electroshocks son elementos de fabricación industrial diseñados para incapacitar o inmovilizar temporalmente a una persona o animal mediante descargas eléctricas controladas. Al respecto:
+
+1. Solo será permitida la comercialización de armas "tipo bastón eléctrico o electroshock", excluyéndose aquellas que ocultan su función bajo otra apariencia tales como linternas o lápices, que se denominan armas de fantasía y están prohibidas.
+
+2. Estas armas deberán poseer un sistema electrónico de control del proceso de descarga en su funcionamiento y sus características técnicas no podrán exceder los parámetros indicados en el artículo 202 del presente Reglamento:
+
+La proyección de electrodos o puntas de contacto a distancia de estas armas de pulsos eléctricos para uso defensivo, así como los cartuchos desechables no podrán exceder de los 5 metros.
+
+Las dimensiones físicas del bastón o electroshock, no podrá exceder de los 20 centímetros medidos desde su lado de mayor longitud y su volumen máximo permitido será de 200 centímetros cúbicos.
+
+#### Artículo 73
+
+B.- Los comerciantes y usuarios de electroshock y bastones eléctricos deberán cumplir con las siguientes disposiciones:
+
+a. Comerciantes.
+
+- Estar inscritos en los Registros Nacionales de la DGMN, como importador y comerciante.
+
+- Previas a su comercialización deberán contar con el certificado de asistencia técnica emitido por el BPCH.
+
+- Para su venta será necesario contar con la autorización para comprar extendida por la autoridad fiscalizadora.
+
+- La venta solo podrá efectuarse en locales comerciales inscritos para estos efectos, el cupo máximo que se podrá mantener será de 300 unidades.
+
+- Los comerciantes deberán incorporar estas armas en el informe mensual de movimiento comercial, entregado en la A.F.
+
+- Los comerciantes deberán prever que este tipo de armas debe venir de fabricación con el nombre de la empresa fabricante, país y número de serie.
+
+b. Usuarios, particulares o personas jurídicas debidamente autorizadas por OS-10 de Carabineros de Chile.
+
+En su calidad de armas según la ley N° 17.798, deberán inscribirse en la A.F. de su jurisdicción conforme a las normas generales a las armas de fuego.
+
+Requisitos del usuario:
+
+- Ser mayor de edad. Este requisito será acreditado con la exhibición de la cédula de identidad y la entrega de una fotocopia de esta.
+
+- No haber sido condenado por crimen o simple delito. Para lo anterior, el interesado deberá presentar un Certificado de Antecedentes para Fines Especiales otorgado por el Servicio de Registro Civil e Identificación.
+
+- Tener un domicilio conocido. El interesado deberá completar y firmar en dependencias de la A.F. una declaración jurada simple que informe el domicilio donde permanecerá el electroshock y bastón eléctrico.
+
+- Correo electrónico.
+
+- Certificado de asistencia técnica del BPCH.
+
+- Para el caso de personas jurídicas que lo requieran para sus vigilantes privados, guardias, nocheros o rondines, deberán regirse por el decreto ley N° 3.607, de 1981, o la norma que lo reemplace.
+
+- En caso de extravío, pérdida, robo o hurto se deberá informar a la A.F., en el plazo establecido en el artículo 87 del presente reglamento.
+
+Las autoridades fiscalizadoras deberán exigir la documentación estipulada en la letra b. para realizar las inscripciones correspondientes.
+
+Estas inscripciones deberán ser efectuadas en la jurisdicción de la A.F. correspondiente a la residencia del interesado.
+
+La DGMN mantendrá al día una base de datos para la inscripción en las AA.FF. de estas armas basadas en pulsaciones eléctricas.
+
+#### Artículo 73
+
+C.- Un arma de fogueo es un elemento mecánico con partes y piezas similares a un arma de fuego convencional, con obturación en su cañón, de modo tal que no están destinadas a expulsar proyectiles, sino que, a imitar en apariencia y funcionamiento a un arma real, tanto en el sonido, como en el movimiento de sus piezas.
+
+Se prohíbe la internación, comercialización y uso de aquellas armas de fogueo que son de fácil adaptabilidad o transformación para el disparo de municiones o cartuchos, debido a la similitud de modelos de armas convencionales, calidad del material de su fabricación, calibre de sus municiones, sus mecanismos de funcionamiento y fácil cambio de partes y piezas que deben soportar mayores presiones producto del disparo, principalmente recámara y cañón.
+
+Se consideran de fácil adaptabilidad o transformación aquellas armas de fogueo que sean consideradas como tales por la DGMN mediante resolución.
+
+#### Artículo 73
+
+D.- Para proceder a la inscripción o transferencias de armas de fogueo, se requerirá:
+
+1. Ser mayor de edad y contar con la nacionalidad chilena o residencia definitiva, requisito que será acreditado con la exhibición de la cédula de identidad y la entrega de una fotocopia de ésta, estampando además en ella la impresión dígito pulgar derecha.
+
+2. Declaración jurada simple de domicilio conocido.
+
+3. Certificado de Antecedentes para Fines Especiales.
+
+4. Prueba teórica sobre conocimiento de la legislación vigente y uso del arma, rendida en la A.F.
+
+5. Correo electrónico.
+
+6. Certificado del BPCH que acredite su control de calidad.
+
+7. Certificar mediante documento que los fines para los cuales se requiere la inscripción del arma están contemplados dentro de la ley y el artículo 71 letra i) del presente Reglamento.
+
+La DGMN mantendrá al día un registro de las armas de fogueo, las que deberán inscribirse ante la A.F. correspondiente al lugar donde se autorizará la tenencia o posesión del arma.
+
+Las AA.FF. no podrán aceptar la inscripción de más de dos armas de fogueo a nombre de una misma persona natural o jurídica. En caso de requerir una cantidad mayor deberá solicitar a la A.F. respectiva una autorización especial de tenencia de más de dos armas de fogueo, la que podrá otorgarse en aquellos casos que se estimen calificados.
+
+Las personas naturales que requieran transportar armas de fogueo para alguno de los fines establecidos en el artículo 71 letra i) de este Reglamento deberán solicitar el permiso de transporte, y para aquellas personas naturales que mantenían armas de fogueo con anterioridad a la publicación de la ley N° 21.412 para su traslado, deberán solicitar una Guía de Libre Tránsito.
+
+#### Artículo 73
+
+E.- Los tenedores o poseedores de armas de fogueo que necesiten transportar este tipo de armas para los fines autorizados deberán solicitar un permiso de transporte para estos efectos y deberán presentar la siguiente documentación:
+
+1. Inscripción del arma.
+
+2. Certificado de Antecedentes para Fines Especiales.
+
+3. Solicitud en que justifique los traslados del arma.
+
+4. Foto tamaño carnet con nombre y número de identidad nacional.
+
+Este permiso tendrá una vigencia de tres años contados desde la fecha de su otorgamiento y será válido para todo el territorio nacional.
 
 #### Artículo 74
 
@@ -1246,63 +1524,175 @@ Toda arma de fuego de uso permitido, debe ser inscrita a nombre de su poseedor o
 
 #### Artículo 75
 
-Todas las armas de fuego que no se encuentren inscritas deberán someterse a control en el Banco de Pruebas de Chile o en las sucursales y delegaciones de éste en Regiones, a fin que se certifique sobre su naturaleza, calidad, condiciones de seguridad y exacta identificación. Aquellas armas que presenten anomalías o discrepancias en su funcionamiento o características, deberán ser devueltas al poseedor o tenedor para su corrección, dejándose constancia de lo obrado. Aquéllas que a raíz de este control se declaren irrecuperables y que el propietario no desee mantener en su poder, serán enviadas al Depósito General de Armas, para los fines del artículo 23 de la Ley.
-
-Las armas que se declaren irrecuperables por el Banco de Pruebas de Chile y que el propietario desee mantener en su poder, deberán ser inscritas en el registro nacional de armas como arma de colección.
+Todas las armas de fuego que no se encuentren inscritas deberán someterse a control en el BPCH o en las sucursales y delegaciones de este en regiones, a fin que se registre su huella balística de acuerdo al reglamento correspondiente y se emita un certificado de control de armas de fuego sobre su naturaleza, peligrosidad, permisividad o prohibición de ésta, condiciones de seguridad para el usuario, exacta identificación de sus características técnicas y determinar aquellas que se encuentran inhabilitadas para el disparo, certificando que su proceso no pueda ser reversible. Aquellas armas que presenten anomalías técnicas en su funcionamiento o discrepancias en sus características deberán ser devueltas al poseedor o tenedor para su reparación o corrección, dejándose constancia de lo obrado.
 
 #### Artículo 76
 
-La Dirección General y Autoridades Fiscalizadoras podrán inscribir armas de fuego, cuando su poseedor o tenedor cumpla los siguientes requisitos:
+La DGMN y las AA.FF. podrán inscribir armas de fuego, cuando su poseedor o tenedor cumpla los siguientes requisitos:
 
-a) Ser mayor de edad, acreditado con el certificado de antecedentes para fines especiales.
+a) Ser mayor de edad y contar con la nacionalidad chilena o residencia definitiva, requisito que será acreditado con la exhibición de la cédula de identidad y la entrega de una fotocopia de ésta, estampando además en ella la impresión dígito pulgar derecha.
 
-Se exceptúan de lo antes señalado, los menores de edad que acrediten con un documento otorgado por un club federado su condición de deportista y la necesidad de la inscripción solicitada. Además deberá presentar una autorización mediante declaración jurada notarial, de su representante legal.
+Se exceptúan de la edad exigida, los menores de edad que cuenten con la nacionalidad chilena o residencia definitiva y que se encuentren registrados como deportistas en un club o federación de tiro, para el solo efecto del desarrollo de dicha actividad. Para ello, deberán acreditar su condición de deportistas y la necesidad de la inscripción solicitada con un certificado de la federación de tiro. Además, deberán presentar una declaración jurada notarial de su tutor o representante legal, que lo autorice para el solo efecto del desarrollo de dichas actividades, de lo que deberá quedar constancia en el registro correspondiente de la base de datos de la DGMN. Por otra parte, en el certificado del examen psiquiátrico que presenten para la inscripción de sus armas, el facultativo deberá dejar constancia expresa que los menores cuentan con la madurez suficiente para desarrollar la actividad deportiva con armas de fuego.
 
-El uso y transporte de las armas de estos menores deberá ser supervisado por una persona mayor de edad, quien será legalmente el responsable del uso y transporte de las mismas.
+La tenencia, uso y transporte de armas de estos menores deportistas, deberá ser supervisada y vigilada permanentemente por su representante legal o un delegado mayor de edad que se designe, quien será legalmente el responsable de la tenencia, uso y transporte de las mismas, los que deberán cumplir con todos los requisitos exigidos para ser poseedor o tenedor de armas de fuego y a quienes no le serán aplicables las sanciones contenidas en el artículo 10°A de la ley, durante el transporte y práctica de tiro.
 
-b) Tener domicilio conocido. El interesado deberá llenar una declaración jurada simple, cuyo formulario estará impreso en la solicitud de compra e inscripción.
+b) Tener domicilio conocido. El interesado deberá completar y firmar en dependencias de la autoridad fiscalizadora una declaración jurada simple que informe el domicilio donde quedará guardada el arma, el que deberá ser verificado presencialmente en un plazo no superior a 15 días hábiles por personal de la A.F. o de Carabineros de Chile. Además, deberá entregar su dirección de correo electrónico y mantenerla actualizada.
 
-c) Acreditar los conocimientos necesarios sobre conservación ymanejo del arma que desea inscribir. Para ello, la Autoridad Fiscalizadora entregará un cuestionario de preguntas, el que será contestado por escrito por el interesado, quien deberá aprobar un porcentaje mínimo del 75% de respuestas correctas, revisión que se efectuará en el instante y en presencia del interesado.
+El domicilio del arma deberá corresponder a un inmueble que cuente con nombre de la calle y numeración y, en ningún caso, podrá corresponder a una casa rodante, quiosco u otro bien de similares características. En caso de un inmueble que no cuente con nombre de calle y/o número se deberá considerar cualquier dato que permita determinar su ubicación precisa o las coordenadas geográficas o UTM.
 
-d) Presentar un certificado extendido por un médico psiquiatra, en que acredite poseer aptitud física y psíquica para tenencia y uso de armas de fuego. Este certificado tendrá una vigencia de 120 días y deberá corresponder a formato establecido en el presente Reglamento.
+En el padrón deberá quedar consignado el domicilio del poseedor o tenedor del arma y el lugar donde quedará guardada esta, aun cuando corresponda al mismo.
 
-e) Certificado de Antecedentes para Fines Especiales, para acreditar que el interesado no ha sido condenado por crimen o simple delito.
+c) Acreditar que tiene los conocimientos necesarios sobre conservación, mantenimiento y manejo del arma que pretende inscribir.
 
-Para el caso de extranjeros que no cuenten con residencia definitiva en el país, deberán presentar en reemplazo del Certificado de Antecedentes para Fines Especiales, un documento oficial otorgado por la Embajada o Consulado correspondiente, en que certifique la honorabilidad del solicitante.
+Para acreditar lo anterior, el solicitante deberá aprobar un curso especializado que conste de una instrucción con práctica de tiro con el tipo de arma que desea inscribir, además de la instrucción teórica práctica sobre conservación y manejo del arma.
 
-La Policía de Investigaciones de Chile, remitirá los antecedentes a la Dirección General de Movilización Nacional, cada vez que tome conocimiento de ciudadanos chilenos o extranjeros que hayan ingresado al país y que registren antecedentes judiciales u órdenes de arresto de tribunales extranjeros.
+La instrucción teórica sobre conservación y mantenimiento del arma de fuego no podrá tener menos de cuatro horas. De estos aspectos se deberá tomar una prueba cuyo resultado deberá ser estampado junto con el resultado de la práctica de tiro en el certificado que deberán emitir las entidades autorizadas por la DGMN para impartir esta capacitación.
 
-En el caso de una persona condenada por un delito que no merezca pena aflictiva, podrá solicitar la autorización de inscripción de un arma, para lo cual, la A.F. remitirá los antecedentes a la Dirección General, la que informará al Subsecretario de Guerra para su Resolución.
+Además, el usuario deberá considerar la rendición de una prueba al momento de presentar los antecedentes en la A.F., la cual evaluará los aspectos legales y reglamentarios relacionados con la tenencia de armas de fuego.
 
-Esta Resolución deberá considerar la naturaleza y gravedad del delito cometido, la pena aplicada, el grado de participación, la condición de reincidencia, el tiempo transcurrido desde el hecho sancionado y la necesidad, uso, tipo y características del arma cuya inscripción se requiere.
+Para acreditar los conocimientos necesarios sobre conservación, mantenimiento y manejo de armas, se exigirá un porcentaje de aprobación de a lo menos el 80% en ambas evaluaciones. En caso de no alcanzar dicho porcentaje, el solicitante podrá repetir el examen por única vez, en un lapso de tiempo no superior a 30 días hábiles. De no aprobarlo, deberá esperar un año para efectuarlo nuevamente.
 
-La persona condenada con pena aflictiva, por un crimen o simple delito, no podrá inscribir armas.
+La DGMN autorizará y fiscalizará a las entidades interesadas en dictar estos cursos, como también a las personas que los impartan, los procedimientos de certificación y autorización para la realización de los cursos, las exigencias que deben cumplir las instalaciones respecto de sus elementos técnicos y de seguridad, como asimismo los requisitos para los instructores que se encuentran establecidos en los artículos 98 F. y siguientes del Reglamento.
 
-f) No haber sido sancionado en procesos relacionados con la Ley N° 19.325 sobre Violencia intrafamiliar. Esta situación será comprobada con el Certificado de Antecedentes para Fines Especiales.
+Esta acreditación tendrá una validez de cinco años, lapso de tiempo en que habilitará al requirente para inscribir armas del mismo tipo de la acreditada sin necesidad de hacer nuevamente este curso.
 
-g) No haberse dictado en su contra auto de apertura de Juicio Oral, lo que será verificado con el Certificado de Antecedentes para Fines Especiales e informes entregados mensualmente por los Jueces de Garantía a la Dirección General.
+d) Acreditar que posee una aptitud física y psíquica compatible con el uso de armas, lo que deberá ser certificado por un médico con la especialidad de psiquiatría adulto o infantil según sea el caso. Este profesional deberá encontrarse acreditado en el Registro Nacional de Prestadores Individuales de Salud, que administra la Superintendencia de Salud.
 
-h) Certificado de Asistencia Técnica, otorgado por el Banco de Pruebas de Chile el cual debe ser presentado para toda arma que se inscriba por primera vez, a que se refiere el artículo 4to. inciso 4to. de la ley.
+Las autoridades fiscalizadoras verificarán en el Registro Nacional de Prestadores Individuales de Salud, que los facultativos cumplan con el requisito establecido, debiendo imprimir el informe y archivar junto con todos los antecedentes de la inscripción del arma de fuego o acreditación correspondiente.
 
-A los miembros en servicio activo de las Fuerzas Armadas, Orden y Seguridad Pública y Gendarmería de Chile no se les aplicará las letras c) y d) del presente artículo, para lo cual deberán presentar una fotocopia de la credencial institucional o certificado que acredite su condición de miembro en servicio activo.
+Este certificado de aptitud psicofísica tendrá una vigencia de 90 días hábiles desde su emisión, debiendo presentarse ante la A.F. en el formato del anexo Nº1 de este Reglamento.
 
-Los documentos establecidos en el presente artículo para las Inscripciones y transferencias de armas de fuego, deberán ser archivados en la respectiva Autoridad Fiscalizadora por cinco años contados desde la fecha del trámite, posteriormente deben ser remitidos a la Dirección General para su archivo definitivo.
+La evaluación psicofísica se podrá realizar conforme a la guía contenida en el anexo N° 2 de este Reglamento, sin perjuicio de que el profesional médico pueda aplicar el método que estime pertinente para este tipo de evaluación. En todo caso las hojas de la evaluación solo serán conocidas por el profesional médico y el paciente. El único documento que debe entregar en la A.F. corresponde al Certificado de Aptitud Psicofísica (anexo N° 1).
+
+El certificado de la evaluación psicofísica deberá ser presentado en cada oportunidad en que se solicite la inscripción de un arma de fuego.
+
+e) Conducta personal compatible con la tenencia o posesión de armas de fuego.
+
+f) No haber sido condenado por crimen o simple delito.
+
+Para lo anterior, el interesado deberá presentar un Certificado de Antecedentes otorgado por el Servicio de Registro Civil e Identificación, estando facultada la DGMN y las AA.FF. para verificar dicha información a través de los medios institucionales de que dispongan para esos efectos.
+
+La Policía de Investigaciones remitirá los antecedentes a la DGMN, cada vez que tome conocimiento de ciudadanos chilenos y extranjeros que hayan ingresado al país y que registran antecedentes judiciales u órdenes de arresto de tribunales extranjeros.
+
+En el caso de una persona condenada por un delito que no merezca pena aflictiva, podrá solicitar la autorización de inscripción de un arma, para lo cual, la A.F. remitirá los antecedentes a la Dirección General, la que informará al Subsecretario para las Fuerzas Armadas para su resolución.
+
+La resolución del Subsecretario para las Fuerzas Armadas que conceda esta autorización excepcional de tenencia de arma de fuego deberá considerar la naturaleza y gravedad del delito cometido, la pena aplicada, el grado de participación, la condición de reincidencia, el tiempo transcurrido desde el hecho sancionado y la necesidad, uso, tipo y características del arma cuya inscripción se requiere.
+
+En todo caso la autorización prevista en el párrafo anterior no será aplicable a quien hubiere sido condenado por dos o más delitos.
+
+g) No haberse dictado en su contra auto de apertura de juicio oral o dictamen del fiscal que proponga una sanción al tenor de lo dispuesto en el inciso segundo del artículo 145 del Código de Justicia Militar, lo que será verificado con los informes que deberán entregar mensualmente los jueces de garantía y militares a la DGMN.
+
+h) No haber sido sancionado en procesos relacionados con la Ley N° 20.066 sobre Violencia Intrafamiliar.
+
+i) No encontrarse sujeto a medida de protección o cautelar que impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, por resolución de tribunales con competencia en lo penal, en materias de familia o militares, según corresponda. Lo anterior será aplicable también a quienes se les imponga como condición la prohibición de tenencia y porte de armas en el marco de una suspensión condicional del procedimiento de conformidad con lo dispuesto en el artículo 237 y siguientes del Código Procesal Penal. Para su aplicación y control se verificará por medio de los comunicados que los juzgados de garantía, militares y de familia envíen a la DGMN informando la medida cautelar dentro de las 24 horas siguientes a encontrarse firme o ejecutoriada, información que será difundida a las AA.FF. del país.
+
+j) No habérsele cancelado alguna inscripción de armas de fuego.
+
+k) Haber dado cumplimiento oportuno a las obligaciones previstas en el inciso quinto y final del artículo 5°A de la ley, cuando el solicitante tenga armas inscritas a su nombre.
+
+l) Acreditar el origen de los fondos utilizados para adquirir el arma. La acreditación podrá realizarse mediante cualquier instrumento auténtico y vigente, entre otros: liquidaciones de remuneraciones, certificado de cotizaciones previsionales, contrato de trabajo, declaraciones y pagos de impuestos, liquidaciones de pensión o boletas de honorarios.
+
+En todos los casos las AA.FF. podrán solicitar ante los organismos correspondientes la validación de la información aportada por el solicitante.
+
+No se requerirá acreditar origen de fondos cuando se solicite la trasferencia de armas de fuego a nombre de herederos, legatarios o donatarios, con ocasión de herencias, legados o donaciones.
+
+m) No haber sido sancionado previamente por abandono de armas de fuego o elementos sujetos a control en los términos del artículo 14 A de la ley N° 17.798.
+
+n) No haber sufrido la pérdida o extravío de armas de fuego o elementos sujetos a control.
+
+ñ) No haber sido víctima de robo o hurto de armas de fuego o de elementos sujetos a control, salvo exención de la DGMN para casos calificados tratándose de robos. Solo en este caso el afectado podrá solicitar por única vez se autorice la inscripción de otra arma de fuego con uso para defensa personal, para lo cual deberá presentar ante la DGMN todos los antecedentes que justifiquen esta solicitud. En caso de acceder a la solicitud en la nueva inscripción deberá quedar estampado el número y fecha de la resolución que lo autoriza.
+
+o) Para toda arma que se inscriba por primera vez, deberá presentarse el certificado de asistencia técnica del arma de fuego, otorgado por el BPCH.
+
+p) En caso de que se posea un arma de fuego no inscrita, además de los requisitos del artículo 5°A de la ley, se deberá presentar una declaración jurada notarial en que se acredite el origen del arma y la forma que la obtuvo.
+
+Para los casos en que la A.F. deniegue una solicitud de inscripción por la causal establecida en la letra e) del presente artículo, deberá remitir a la DGMN una copia de la resolución fundada que deniega la inscripción, registrándola además en los antecedentes del solicitante.
+
+Para fundar dicha resolución, la A.F. deberá considerar, entre otros, los criterios establecidos en este reglamento y, asimismo, los antecedentes policiales registrados en el Banco Unificado de Datos al que hace referencia el artículo 11° de la ley N° 20.931. La denegación se realizará en todos los casos en que conste en los antecedentes que la persona fue condenada por crimen o simple delito.
+
+Los antecedentes en base a los cuales las AA.FF. funden las resoluciones de denegación de solicitudes de inscripciones de armas de fuego deberán cumplir con los siguientes criterios:
+
+1. Estar contenidos en el Banco Unificado de Datos o en otro registro al cual la A.F. tenga legítimo acceso.
+
+2. Dar cuenta de una conducta de violencia o de daño en contra de las personas, de la propiedad o de la autoridad, ocurrida dentro de los cinco años anteriores a la solicitud de inscripción.
+
+Corresponderá a la A.F. competente efectuar una evaluación de los antecedentes policiales o judiciales del solicitante que no hayan terminado en condena, a fin de obtener convicción acerca del cumplimiento de la Ley de Control de Armas por parte de quien requiera la acreditación e inscripción respectiva. Estos antecedentes no serán considerados si han trascurrido a lo menos cinco años desde su ocurrencia.
+
+Cumplidos los requisitos establecidos en la ley y en este Reglamento, y encontrándose vigente la licencia otorgada por la DGMN, se efectuará la inscripción correspondiente y se extenderá el padrón respectivo, ante cuya previa exhibición el establecimiento comercial hará la entrega del arma inscrita a su propietario, quien podrá conducirla al domicilio registrado con la Autorización para Comprar.
+
+Al personal uniformado en servicio activo de las FF.AA., Carabineros de Chile, Policía de Investigaciones de Chile y Gendarmería de Chile no se les aplicará los literales c) y d) del presente artículo, para lo cual deberán presentar una fotocopia de la credencial institucional y certificado que acredite su condición de miembro en servicio activo. Se entenderá para este fin por miembro en servicio activo de las citadas instituciones, aquel que cuenta con la capacitación, preparación y entrenamiento en armas de fuego, lo que deberá estar indicado expresamente en el certificado que acredita su condición de servicio activo.
+
+Tampoco se aplicará los literales c) y d) del presente artículo a los coleccionistas cuyas armas estén totalmente inutilizadas para el disparo y que presenten certificado de asistencia técnica del BPCH en que señale que la inutilización es irreversible, no pudiendo las armas volver a su condición original.
+
+El requisito establecido en el literal c) de este artículo no será exigido para los deportistas calificados, con a lo menos 15 años de inscripción en el registro nacional de la DGMN como tales y seleccionados nacionales que representen al país en tiro con armas de fuego, condición acreditada ante la DGMN.
+
+Los miembros en retiro con 20 o más años de servicios, de las FF.AA., Carabineros de Chile, Policía de Investigaciones de Chile y Gendarmería de Chile, acreditarán el requisito establecido en el literal c) del presente artículo, presentando un certificado otorgado por el organismo que cada institución disponga, en que conste que, durante su permanencia en ella, tuvo instrucción en manejo y uso de armamento.
+
+Quienes cumplan con los requisitos previstos en este artículo, obtendrán una licencia de aptitud para la tenencia de arma de fuego, con la que se podrá solicitar la autorización de inscripción respectiva en el registro nacional dentro de los 6 meses siguientes.
+
+Además de la licencia de aptitud deberá presentar el Certificado de Asistencia Técnica otorgado por el Banco de Pruebas de Chile, lo que le permitirá obtener la autorización para comprar y el padrón de inscripción correspondiente, solo lo habilita para mantener el arma en el lugar declarado, sea éste o su residencia, o el lugar de trabajo o el lugar que se pretende proteger.
+
+Las armas deberán custodiarse en un lugar seguro y alejado del alcance de menores o personas inexpertas, conforme lo establecido en el presente Reglamento.
+
+Las personas que obtengan su licencia de aptitud y que cuenten con el certificado del BPCH, podrán solicitar en forma inmediata la Autorización para Comprar y padrón de inscripción.
+
+En ningún caso el padrón servirá como Permiso para Portar o Transportar el arma fuera del lugar declarado y autorizado.
+
+Los antecedentes de aquellas solicitudes tanto de inscripciones como de transferencias que sean rechazadas deberán ser archivados por un año y mantener una estadística de las causales de la denegación, remitiendo un resumen mensual a la DGMN.
 
 #### Artículo 77
 
-Las personas que inscriban armas de fuego deberán acreditar cada cinco años contados desde la fecha de inscripción, que cumplen con los requisitos establecidos en las letras c) y d) del artículo anterior, debiendo presentar además un Certificado de Antecedentes para Fines Especiales.
+Las personas que cuenten con autorizaciones vigentes de inscripción de tenencia o posesión de armas de fuego deberán acreditar cada cinco años contados desde la fecha de inscripción, que cumplen con los requisitos establecidos en los literales c) y d) del artículo anterior, debiendo presentar además un Certificado de Antecedentes para Fines Especiales.
 
-Este trámite deberá realizarse ante la Autoridad Fiscalizadora correspondiente al domicilio en que se encuentre inscrita el arma en ese momento.
+Para el cumplimiento del literal c) del artículo anterior, el requirente deberá exhibir un certificado otorgado por una entidad de capacitación inscrita en la DGMN.
 
-Las Autoridades Fiscalizadoras al momento de la acreditación, deberán entregar un nuevo padrón de inscripción, en que certifique su cumplimiento y la fecha en que deberá efectuarse nuevamente la referida acreditación.
+Para el cumplimiento del literal d) el interesado que acredita deberá presentar certificado que mantiene la aptitud física y psíquica para el uso de armas de fuego. Esta acreditación será mediante un informe de un profesional médico con la especialidad de psiquiatría adulto o infantil según corresponda, acreditado en el Registro Nacional de Prestadores Individuales de Salud que administra la Superintendencia de Salud.
+
+Este trámite deberá realizarse ante la A.F. correspondiente al domicilio del poseedor o tenedor del o las armas, independiente de la jurisdicción donde se encuentren inscritas éstas.
+
+Las AA.FF. al momento de la acreditación, deberán entregar un nuevo certificado que dé cuenta de esta y de la fecha en que deberá efectuarse nuevamente la referida acreditación. Si el interesado cuenta con más de un arma inscrita, se tomará como fecha de acreditación la primera de estas inscripciones. La acreditación será por persona y tipo de arma, no por cada arma inscrita.
+
+#### Artículo 77
+
+A.- Excepcionalmente se podrá disponer que la acreditación se efectúe en un tiempo menor si la autoridad así lo dispone mediante resolución fundada, en consideración al estado de salud general del solicitante y a la existencia de otras condiciones físicas o psíquicas que puedan afectar su capacidad para la tenencia y posesión del arma. En todo caso el plazo no podrá ser inferior a dos años.
 
 #### Artículo 78
 
-En caso que la Autoridad Fiscalizadora, tomare conocimiento, que el poseedor o tenedor de un arma inscrita, ha sido sancionado por delitos establecidos en el artículo N° 76° letras e) y f) de este reglamento o pierda las aptitudes físicas o psíquicas, deberá informarlo a la Dirección General, con el fin que se proceda a cancelar la respectiva inscripción, notificando este hecho al poseedor o tenedor mediante carta certificada enviada al domicilio registrado en la inscripción del arma por el afectado, estableciendo en dicha carta un plazo perentorio no superior a 30 días para la transferencia de la o las armas a nombre de un tercero quien a su vez deberá cumplir con los requisitos establecidos para la inscripción de armas. La Autoridad Fiscalizadora deberá verificar el cumplimiento de esta transferencia, y, en caso de incumplimiento procederá a denunciar la tenencia ilegal de armas a los órganos competentes.
+Si, por circunstancia sobreviniente, el poseedor o tenedor de un arma inscrita pierde las calidades o aptitudes previstas en los literales a), b), c) o d), o se verifica lo señalado por el literal m) del artículo 76 de este reglamento, o es condenado por crimen o simple delito, o por infracción a la ley N° 20.066, que establece Ley de Violencia Intrafamiliar, la Dirección General de Movilización Nacional deberá cancelar la respectiva inscripción.
+
+En la resolución que decrete la cancelación de la inscripción, se le informará al poseedor o tenedor de su derecho a transferirla en un plazo perentorio no superior a noventa días contado desde su notificación a nombre de un tercero, quien a su vez deberá cumplir con los requisitos establecidos para la inscripción de armas de fuego. Vencido dicho plazo sin haber sido transferida se procederá a su destrucción.
+
+En el acto de la notificación de la resolución anterior, la autoridad fiscalizadora procederá al retiro del arma para su custodia y depósito, en tanto se resuelve el destino de ella. El poseedor o tenedor estará obligado a entregarla y se presumirá que ésta no se encuentra en el lugar autorizado, en caso de negativa de aquél a su entrega. Si el arma no es entregada, se le denunciará, a fin de que se investigue la eventual comisión de alguna de las infracciones o delitos previstos en esta ley.
 
 #### Artículo 79
 
 En caso que un poseedor o tenedor de armas inscritas, no acredite las aptitudes de conocimientos, la Autoridad Fiscalizadora podrá fijar un plazo de hasta 30 días contados desde la fecha que rinde el examen para repetirlo. Si en esta segunda oportunidad no es aprobado, la Autoridad Fiscalizadora deberá informar a la Dirección General, con el fin que ésta proceda a cancelar la (s) respectiva (s) inscripciones, debiendo el usuario efectuar una transferencia a nombre de la persona que señale y que cumpla con lo establecido en el artículo 76 del presente Reglamento.
+
+#### Artículo 79
+
+A.- El poseedor o tenedor de armas inscritas deberá presentarse en la A.F. a renovar su acreditación antes del vencimiento de ésta, para lo cual deberá presentar un certificado otorgado por una entidad de capacitación que se encuentre inscrita en la DGMN, en el que conste que mantiene los conocimientos necesarios sobre conservación, mantenimiento y manejo del o las armas que tenga o posea legalmente inscritas a su nombre, además deberá presentar el certificado de aptitud psicofísica extendido por un médico con la especialidad de psiquiatría adulta y Certificado de Antecedentes para Fines Especiales.
+
+Para los miembros en servicio activo de las FF.AA., Fuerzas de Orden y Seguridad Pública y Gendarmería de Chile no se aplicarán las letras c) y d) del artículo 76 de este Reglamento. Para su acreditación deberán presentar fotocopia de la credencial institucional con la firma y huella digital, Certificado de Antecedentes para Fines Especiales y un documento otorgado por la oficina de personal o su equivalente que corresponda, en que conste que se encuentra en servicio activo y que cuenta con capacitación, preparación y entrenamiento en armas de fuego.
+
+Para la renovación de la acreditación del personal en retiro de las FF.AA., Carabineros de Chile, Policía de Investigaciones de Chile y Gendarmería de Chile, deportistas calificados y seleccionados nacionales de tiro que representen al país, deberán dar cumplimiento, cada cinco años, a lo establecido para ellos en lo relativo a la inscripción de armas.
+
+Lo indicado en el inciso anterior, no los exceptúa de la presentación del certificado de aptitud psicofísica emitido por un médico con la especialidad de psiquiatría adulta y del Certificado de Antecedentes para Fines Especiales.
+
+Los coleccionistas cuyas armas de fuego estén totalmente inutilizadas para el disparo y no cuenten con armas para otros fines, estarán exentos de cumplir con lo dispuesto en la letra c) del artículo 5°A de la ley N° 17.798 para lo cual deberán presentar un Certificado de Antecedentes para Fines Especiales, acreditar domicilio conocido y presentar fotocopia de las inscripciones de las armas en que conste que se encuentran inutilizadas.
+
+Aquellas personas que no se presenten ante la A.F. para la acreditación periódica en la fecha correspondiente quedarán sujetos al pago de una multa de 5 a 10 UTM, a beneficio fiscal, que se impondrá por la DGMN o la A.F. correspondiente, mediante un acto administrativo fundado. En caso de reiteración, la A.F. informará a la DGMN para que se proceda a la cancelación de la inscripción.
+
+#### Artículo 79
+
+B.- Si durante un procedimiento judicial se hubiere decretado alguna medida de protección o cautelar o la suspensión condicional del procedimiento penal que impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, éstos serán retenidos provisoriamente por orden del tribunal respectivo y remitidos. En el caso de la Región Metropolitana, directamente, a los depósitos estipulados en el artículo 23 de la ley N° 17.798, según corresponda, y, para otras regiones, a los almacenes de armas en custodia de la autoridad fiscalizadora correspondiente a la jurisdicción en que se encuentre el tribunal ante el que se sustancia el procedimiento.
+
+Además, el tribunal emitirá esta misma orden en la resolución que cite a audiencia de preparación de juicio oral al haberse presentado acusación y al dictarse sentencia condenatoria, en tanto ésta no se encuentre firme o ejecutoriada.
+
+Para tal efecto, el juez ordenará en la misma resolución que decrete la medida de protección o cautelar, o la suspensión condicional del procedimiento penal o cite a audiencia de preparación de juicio oral o dicte sentencia condenatoria, el retiro inmediato de dichas armas y municiones, cartuchos u otros elementos sometidos a control por parte de cualquiera de las policías, autorizándolas, en caso de negativa de entrega, a ingresar al lugar donde el arma, las municiones, los cartuchos u otros elementos sometidos a control se mantienen e incautarlos. Dicha resolución deberá comunicarse a la DGMN en el plazo de veinticuatro horas contado de su dictación.
+
+Para el retiro de las armas, municiones, cartuchos o cualquier elemento sometido a control las policías deberán entregar un acta de retiro al poseedor o tenedor del arma y municiones y éstas deberán ser ingresadas al Sistema de Armas, debiendo registrarse la medida cautelar o de protección dispuesta.
+
+Una vez que cese la medida cautelar o de protección, se decrete el sobreseimiento definitivo de la causa o se dicte sentencia absolutoria y ésta se encuentre firme y ejecutoriada, el poseedor o tenedor del arma de fuego, las municiones, los cartuchos o los otros elementos sometidos a control inscritos podrá solicitar su devolución. Se realizará la devolución previa verificación de que mantiene todos los requisitos habilitantes para ser tenedor o poseedor de armas y elementos controlados e ingresando la actualización en el registro nacional de armas de devolución a su poseedor o tenedor, quedando ésta sin novedad. Dicha resolución deberá ser comunicada a la DGMN en el plazo de veinticuatro horas contado desde su dictación.
 
 #### Artículo 80
 
@@ -1310,15 +1700,29 @@ Las personas naturales o jurídicas podrán inscribir hasta dos armas de uso per
 
 Sin embargo, excepcionalmente por resolución fundada, la Dirección General podrá otorgar autorización para inscribir una mayor cantidad de armas de fuego, a personas debidamente calificadas que no sean deportistas, cazadores o coleccionistas.
 
+#### Artículo 80
+
+A.- Las inscripciones de más de dos armas de fuego para defensa personal, a nombre de personas naturales, realizadas hasta el año 1979, mantendrán su vigencia y podrán ser transferidas a personas naturales o jurídicas que cumplan con los requisitos actuales.
+
 #### Artículo 81
 
-Las personas que deseen adquirir, tener o poseer más de dos armas, deberán inscribirse en alguno de los siguientes registros:
+Podrán inscribir más de 2 armas de fuego, únicamente las personas que lo hagan en alguno de los siguientes registros:
 
-a) Coleccionistas, quienes podrán poseer la cantidad de armas permitidas que estén en condiciones de mantener bajo adecuadas medidas de seguridad, lo que será determinado por las respectivas Autoridades Fiscalizadoras. Estas armas podrán mantenerse con sus características y estado original.
+1. Coleccionistas:
 
-b) Deportista o cazador, a quien se autoriza la inscripción de hasta seis armas para dichos fines.
+a. Podrán inscribir un máximo de 10 armas con sus características originales aptas para el disparo.
 
-c) En caso que un deportista o cazador por las disciplinas que practique, nivel de competición u otros motivos, necesite poseer una mayor cantidad de armas de fuego, o consumir una mayor cantidad de munición, deberá solicitar a través de la Autoridad Fiscalizadora a la Dirección General, la inscripción como Deportista Calificado.
+b. Podrán inscribir, con autorización especial de la DGMN, un total de 20 armas con sus características originales aptas para el disparo.
+
+c. Podrán inscribir un máximo de 50 armas inutilizadas para el disparo, incluyéndose en el cálculo total las 10 o 20 armas inscritas aptas para el disparo.
+
+2. Deportistas o cazadores
+
+a. Deportistas o cazadores podrán inscribir armas para caza o deporte, con un límite de 6 armas en total para esos usos, sin perjuicio de las que posea para defensa personal.
+
+b. Deportistas calificados podrán inscribir un límite total de 20 armas de fuego, incluidas las 6 inscritas para deporte o caza.
+
+3. En caso que un deportista o cazador por las disciplinas que practique, nivel de competición u otros motivos, necesite poseer una mayor cantidad de armas de fuego, o consumir una mayor cantidad de munición, deberá solicitar a través de la Autoridad Fiscalizadora a la Dirección General, la inscripción como Deportista Calificado.
 
 #### Artículo 82
 
@@ -1336,37 +1740,67 @@ En caso que un Padrón de Inscripción se extravíe o deteriore, el poseedor del
 
 #### Artículo 85
 
-Podrán verificar el domicilio de la inscripción de las armas exclusivamente las Autoridades Fiscalizadoras de la Ley en sus respectivas zonas jurisdiccionales, para lo cual deberán presentar una autorización firmada por el Jefe de la Autoridad Fiscalizadora, asimismo, podrá hacerlo el personal de Carabineros de Chile quienes deberán exhibir una orden escrita expedida por el Comisario a cuya jurisdicción corresponda el lugar autorizado para mantener el arma.
+Las AA.FF. jurisdiccionales, personal de Carabineros de Chile y de la Policía de Investigaciones de Chile podrán inspeccionar las armas inscritas en los domicilios correspondientes, declarados por los poseedores o tenedores de estas. En el caso de aquellas personas que tengan o posean 2 o menos armas, solo se permitirá el ingreso al domicilio o al lugar con la autorización expresa del usuario. Tratándose de lugares en que se haya declarado mantener más de dos armas, se deberá permitir el ingreso a la persona que practique la fiscalización previa identificación institucional para el solo efecto de fiscalizar el cumplimiento de las medidas de seguridad establecidas en el presente Reglamento.
 
-Esta actividad sólo podrá realizarse entre las ocho y las veintidós horas y no requerirá de aviso previo. Esta inspección no facultará a quien la practique para ingresar al domicilio del fiscalizado.
+En cualquiera de los casos se levantará un acta de inspección y se dejará una copia en poder de la persona fiscalizada.
 
-El poseedor o tenedor estará obligado sólo a exhibir el arma. En caso que exista negativa del usuario, será denunciado por la autoridad contralora conforme a lo establecido en el inciso 7 del artículo 5° de la ley a fin que se investigue la comisión de alguno de los delitos previstos en los artículos 11° o 14° A de la Ley.
+Exceptúense de estas restricciones las fiscalizaciones que realicen las Fuerzas de Orden y Seguridad Pública en el marco de actuaciones investigativas que le encomiende el Ministerio Público, o de aquellas previstas en los literales a), b) y c) del artículo 83 del Código Procesal Penal.
 
-Del resultado de las inspecciones practicadas por Carabineros de Chile, se deberá informar a la D.G.M.N, por intermedio de la A.F respectiva.
+#### Artículo 85
+
+A.- En el caso de almacenes y depósitos e instalaciones destinadas a la fabricación, armaduría, reparación o prueba; polígonos o canchas de tiro o prueba o de organizaciones deportivas tales como federaciones deportivas nacionales, asociaciones o clubes que se encuentren afiliados a estas federaciones y aquellas que, sin estar afiliadas se hayan constituido con la finalidad de impartir la práctica de tiro, se podrá fiscalizar sin previo aviso: las armas, municiones y demás elementos sujetos a control; el uso de ellas; sus permisos de transporte y padrones; las inscripciones y autorizaciones que correspondan; las nóminas de los socios, instructores y alumnos.
+
+Esta fiscalización solo podrá efectuarse en el horario de funcionamiento del recinto, así como también entre las 08.00 y las 22.00 horas, ya sea días hábiles o inhábiles.
+
+#### Artículo 85
+
+B.- El poseedor o tenedor está obligado a exhibir el arma de fuego. Si debiendo encontrarse el arma en el lugar autorizado, ésta no es exhibida, el fiscalizador ya sea funcionario de Carabineros de Chile o Policía de Investigaciones de Chile deberá comunicar por escrito y conforme al formulario dispuesto para tal efecto por la DGMN, la que procederá a la cancelación de la inscripción del o de las armas inscritas. Asimismo, el fiscalizador deberá realizar la denuncia correspondiente, a fin de que se investigue la eventual comisión de algunas de las infracciones o delitos previstos en la ley. Este mismo procedimiento se deberá adoptar si se verificare que un arma se encuentra fuera del lugar autorizado para mantenerla sin los permisos correspondientes.
+
+No se podrá exigir la exhibición del arma a otra persona que no sea el poseedor o tenedor inscrito de la misma, por lo que de no encontrarse en el lugar el inspeccionado no podrá practicarse la fiscalización quedando pendiente. En este caso, el fiscalizador dejará sus antecedentes (motivo de la visita, institución a la que pertenece, grado, nombre y apellido, correo electrónico y teléfono) para que se coordine una nueva inspección.
+
+En el evento de no ser habido el poseedor o tenedor de un arma en tres ocasiones consecutivas dentro de un lapso mínimo de cuarenta y cinco días, el fiscalizador dejará constancia en el acta de inspección de esa circunstancia y lo comunicará a la DGMN, la que iniciará un procedimiento administrativo destinado a declarar la cancelación de la inscripción, conforme a lo dispuesto en los incisos segundo y tercero del artículo 5° B de la ley N° 17.798. Además, el mismo fiscalizador deberá efectuar la denuncia que corresponda, a fin de que se investigue la eventual comisión de alguna de las infracciones o delitos.
+
+Además de fiscalizar que las armas se encuentren en el domicilio declarado, se deberá verificar las características de la misma, tales como marca, calibre, tipo, modelo, número de serie, tipo de funcionamiento y, de existir diferencias con el registro de la base de datos, se deberá informar al poseedor o tenedor del arma su deber de solicitar un nuevo certificado de asistencia técnica en la sucursal o delegación del BPCH correspondiente, entregando una copia a la A.F., la que deberá informar a la DGMN con la finalidad de actualizar el registro de armas periódicamente.
+
+Los funcionarios que realicen la fiscalización deberán actuar con la mayor reserva posible, evitando llamar la atención de los vecinos, por razones de seguridad y resguardo de la información de que en ese domicilio se mantienen armas.
 
 De la Actualización de Datos en la Inscripción de Armas
 
 #### Artículo 86
 
-El poseedor de un arma inscrita que cambie de domicilio, deberá comunicarlo a la brevedad a cualquier Autoridad Fiscalizadora. Este trámite lo realizará el poseedor o una tercera persona, autorizada notarialmente por el dueño del arma.
+El poseedor de un arma inscrita que cambie el lugar donde la mantiene deberá comunicarlo a la A.F. correspondiente dentro de los 15 días hábiles anteriores al cambio. Este trámite podrá realizarse personalmente o a través de un tercero dotado de poder suficiente por el poseedor o tenedor del arma cuya firma sea autorizada por un notario u Oficial del Servicio de Registro Civil, según corresponda. Esta actualización de datos se deberá realizar aun cuando el nuevo domicilio corresponda a la jurisdicción de la misma A.F. donde se encuentra inscrita el arma.
 
-Esta actualización de datos se debe realizar aún cuando el nuevo domicilio corresponda a la misma Autoridad Fiscalizadora.
+Esta actualización de datos se debe realizar aun cuando el nuevo domicilio corresponda a la misma Autoridad Fiscalizadora.
 
-Para lo anterior deberá llenar en la Autoridad Fiscalizadora una declaración jurada simple que acredite el nuevo domicilio donde quedará guardada el arma.
+Para lo anterior se deberá llenar en la A.F. una declaración jurada simple que acredite el nuevo lugar donde quedará guardada el arma, debiendo obtener de la A.F. una Guía de Libre Tránsito para el traslado del arma desde el domicilio de origen al de destino.
 
-Al momento de realizar el trámite la Autoridad Fiscalizadora, entregará en el acto, un padrón donde quedará establecido el nuevo domicilio donde se mantendrá el arma.
+Al momento de finalizar el trámite, la A.F. entregará en forma inmediata el padrón que consigna el nuevo domicilio donde se mantendrá el arma, momento desde el cual la A.F. a cuya jurisdicción corresponda el nuevo domicilio será la encargada de fiscalizar toda actuación relacionada con dicha arma de fuego y su poseedor o tenedor.
 
-Si no se efectúa la actualización dentro del plazo de 15 días desde el cambio de domicilio, se considerará que el arma se posee en forma ilegal.
+Cuando una persona cambie su domicilio y las armas que posee inscritas no se encuentren registradas en éste, de igual forma deberá en el plazo de 15 días hábiles, contados desde el cambio, comunicarlo ante la A.F., permitiéndose que este trámite lo realice una tercera persona autorizada notarialmente o ante otro ministro de fe, por el poseedor o tenedor del arma. Esta actualización de datos se debe realizar aun cuando el nuevo domicilio corresponda a la jurisdicción de esta A.F. donde vive el usuario.
+
+Si por disposición municipal, la avenida, calle o pasaje del domicilio declarado cambia de nombre o de numeración, será responsabilidad del usuario su actualización en el sistema de armas, siendo esta actuación obligatoria en un plazo no superior a 15 días desde el cambio oficial del nombre de la calle.
+
+El poseedor o tenedor deberá actualizar o ratificar el registro de armas de fuego anualmente, dando cuenta que la o las armas se encuentran en el inmueble declarado y que se ha realizado una tenencia responsable de ésta, procedimiento que se realizará a través de una plataforma virtual, conforme se detalla en artículo 86 A, inciso segundo, de este Reglamento.
+
+#### Artículo 86
+
+A.- La verificación de que el poseedor o tenedor de un arma de fuego no dio cumplimiento a la obligación de informar el cambio de lugar de ésta a la A.F. y no haber solicitado la Guía de Libre Tránsito para su traslado, producirá la cancelación de la inscripción del arma inscrita y la aplicación de una multa administrativa de 7 a 11 UTM.
+
+Además, deberá entregar el arma para su destrucción en el plazo de 5 días hábiles contados desde la última notificación del procedimiento administrativo. Sin perjuicio de lo anterior, la A.F. denunciará ante el Ministerio Público o Tribunales de Justicia, a fin se determine si en los hechos fueron cometidos otros delitos considerados en la ley N° 17.798 o ante la omisión del poseedor o tenedor infractor de entregar el arma en el plazo dispuesto por la ley N° 17.798, configurando en este caso el delito de posesión o tenencia ilegal de armas.
+
+El poseedor o tenedor de un arma inscrita deberá actualizar o ratificar la información del registro de armas de fuego anualmente y dará cuenta que el arma inscrita se encuentra en el inmueble declarado y que se ha realizado una tenencia responsable de ésta. Este procedimiento se realizará en forma digital, a través de la página web de la DGMN.
 
 #### Artículo 87
 
-Los robos o extravíos de armas de fuego, deben ser comunicados por escrito a la Dirección General o Autoridades Fiscalizadoras dentro de los 5 días desde que se tuvo conocimiento del hecho, presentando fotocopia del comprobante de la denuncia dejada en Carabineros o Investigaciones de Chile.
+Las pérdidas, extravíos, robos o hurtos de armas de fuego deben ser comunicados por escrito a las AA.FF. dentro de las 48 horas siguientes del hecho, o desde el momento en que se tuvo o pudo tener conocimiento de su robo, hurto, pérdida o extravío, presentando fotocopia del comprobante de la denuncia o constancia efectuada en Carabineros de Chile o Policía de Investigaciones de Chile. Además, deberá realizar la denuncia del hecho, en conformidad a lo dispuesto en el artículo 173 del Código Procesal Penal.
 
 Por este trámite no se cobrará tasa de derechos.
 
 Si en este acto, el interesado además solicita copia del padrón de inscripción, u otra actualización de datos, la Autoridad Fiscalizadora cobrará la tasa de derechos correspondientes a esta actuación.
 
-Las armas de fuego extraviadas o robadas mantendrán la inscripción a nombre de su dueño y serán consideradas como una de las armas del cupo permitido.
+Las armas de fuego extraviadas, perdidas, robadas o hurtadas mantendrán la inscripción a nombre de su poseedor o tenedor y serán consideradas como una de las armas del cupo permitido, no pudiendo inscribir una nueva arma de fuego a su nombre, salvo exención por única vez de la DGMN para casos calificados tratándose de robos.
+
+Respecto de las armas fiscales que sean extraviadas, perdidas, robadas o hurtadas, las instituciones afectadas deberán dar cuenta a los tribunales competentes para la persecución penal correspondiente y a la DGMN para el registro de arma extraviada, robada o hurtada en la base de datos del Registro Nacional de Armas, a fin de impedir su posible inscripción a nombre de terceras personas. Esta constancia será sin cobro.
 
 #### Artículo 88
 
@@ -1446,7 +1880,7 @@ De la tenencia, adquisición e Inscripción de más de dos armas
 
 #### Artículo 95
 
-La Dirección General podrá autorizar a personas naturales y jurídicas debidamente calificadas, la tenencia de más de dos armas de fuego, quienes deberán presentar una solicitud conteniendo los motivos, la cual será aprobada o rechazada por una resolución fundada. Lo anterior sin perjuicio de las normas establecidas para deportistas, cazadores o coleccionistas.
+La DGMN podrá autorizar a personas jurídicas inscritas como comerciantes autorizados para vender armas; federaciones y clubes de tiro o caza; empresas de control de fauna dañina; aquella a las que se refiere el decreto ley N° 3.607, de año 1981, y aquellas que se hayan constituido con la finalidad de impartir la práctica de tiro; la tenencia o posesión de más de 2 armas de fuego, quienes deberán presentar una solicitud con sus fundamentos. Esta solicitud deberá ser aprobada o rechazada mediante resolución fundada. Lo anterior es sin perjuicio de las normas establecidas para deportistas, deportistas calificados, cazadores, coleccionistas y museos.
 
 #### Artículo 96
 
@@ -1474,17 +1908,311 @@ c) Para el caso de los clubes, deben presentar un certificado otorgado por la Fe
 
 #### Artículo 98
 
-La Dirección General podrá autorizar mediante una Resolución a las Federaciones y Clubes de Tiro la tenencia e inscripción de hasta un máximo de 30 armas.
+Todas las personas cuyo objeto contemple el tiro o realicen tiro de armas de fuego, como práctica, capacitación o deporte o por cualquier causa, están sometidas al control de la ley N° 17.798 y este Reglamento.
 
-Además estas entidades deportivas podrán inscribirse como consumidores habituales de municiones, con un máximo de almacenamiento de:
+Se contemplan dentro de estas, las federaciones deportivas nacionales, las asociaciones, los clubes, todas las anteriores de tiro o caza, las personas jurídicas constituidas con la finalidad de impartir la práctica de tiro y toda otra cuyo objeto sea el referido precedentemente.
 
-a) Clubes de Tiro : 50.000 proyectiles incluidos todos los calibres.
+Todas estas entidades deberán inscribirse en los registros de la DGMN, a través de la A.F. competente aun cuando no requieran inscribir armas de fuego o autorización de consumidor habitual de munición.
 
-b) Federaciones de Tiro: lo que determine la DGMN. conforme a solicitud y antecedentes entregados por cada entidad.
+La solicitud de inscripción deberá contener:
 
-La Autoridad Fiscalizadora deberá exigir a estas entidades deportivas, las condiciones de seguridad establecidas en el artículo N° 112° del presente Reglamento para el almacenamiento de las armas y municiones.
+a) Copia autorizada de la constitución de la entidad y de los poderes de representación, vigentes.
 
-Autorizado el cupo de armas, la Autoridad Fiscalizadora podrá emitir la autorización de compra.
+b) Certificado de Antecedentes para Fines Especiales de los representantes de la entidad y de los integrantes del directorio, si los hubiere.
+
+c) Listado actualizado de socios o integrantes de la entidad, si los tuviere, con detalle de rol único nacional, nombre completo y domicilio registrado.
+
+d) Listado de todos los elementos controlados inscritos a nombre de la entidad o almacenados en ella, o la indicación de las cantidades cuya inscripción y almacenamiento se solicitará.
+
+e) Indicación expresa de las actividades relacionadas con el tiro que desarrollará en sus instalaciones. Las entidades que deseen impartir capacitación en la práctica de tiro deberán acompañar en esta misma oportunidad los antecedentes necesarios para la autorización e inscripción del polígono o cancha de tiro o prueba y los demás antecedentes requeridos para estos efectos en el presente Reglamento.
+
+Una vez recibida lo totalidad de los antecedentes requeridos, la A.F. verificará la información entregada y, asimismo, previa coordinación, realizará la inspección de seguridad correspondiente en las instalaciones, si correspondiere.
+
+Después de verificar la información aportada y el cumplimiento de las medidas de seguridad, de constatarse su suficiencia, la A.F. remitirá por medios electrónicos los antecedentes a la DGMN para que ésta realice las inscripciones solicitadas. En caso contrario la solicitud será rechazada y la entidad solicitante no podrá funcionar como tal.
+
+La A.F. propondrá a la DGMN, conforme a las características y seguridad del lugar, las cantidades máximas de armas que podrán inscribirse y de municiones que podrán almacenarse, no pudiendo éstas sobrepasar las cantidades indicadas en el artículo 113 de este Reglamento.
+
+#### Artículo 98
+
+A.- Las entidades inscritas, deberán enviar por medios electrónicos y en forma trimestral en los meses de enero, abril, julio y octubre a la A.F. competente una relación actualizada de sus socios.
+
+#### Artículo 98
+
+B.- La DGMN podrá autorizar solo a las entidades inscritas la tenencia o posesión de dos armas por socio si los tuviere con un máximo de 20 armas de fuego en total, en todos los casos e independientemente de los tipos de actividad desarrollada. Para su almacenamiento deberán cumplir con las medidas de seguridad establecidas en el artículo 112 de este reglamento.
+
+Para poder adquirir municiones, las entidades inscritas deberán además inscribirse como consumidores habituales de éstas. En este caso los cupos máximos de almacenamiento serán los siguientes:
+
+a. Clubes de tiro o caza: hasta un total de 70.000 unidades, para cualquier uso ya sea de proyectil único o múltiple, incluidos todos los calibres y munición recargada.
+
+b. Federaciones de tiro o caza: hasta 70.000 unidades de proyectil único y hasta 70.000 unidades de proyectil múltiple, en ambos casos para todos los calibres y munición recargada.
+
+Para el caso de la munición recargada la máquina para estos efectos deberá estar debidamente inscrita y contar con un lugar exclusivo que brinde las condiciones de seguridad apropiadas para hacer las recargas.
+
+Si alguna federación o club por motivos de competencia, necesite adquirir munición que permanecerá fuera del lugar autorizado de almacenamiento, la A.F. respectiva verificará las condiciones de seguridad del lugar donde quedarán éstas; la Autorización para Comprar podrá solicitarse en cualquier A.F. del país, aun cuando las armas de quien las adquiere no estén inscritas en esa jurisdicción. Se autorizará solo la cantidad de munición acorde con las medidas de seguridad previamente verificadas, no pudiendo superar el total autorizado de 10.000 unidades de cartuchos de proyectil único o múltiple.
+
+c. Personas Jurídicas constituidas con la finalidad de impartir la práctica de tiro: hasta un total de 25.000 unidades ya sea de proyectil único o múltiple, incluido todos los calibres y munición recargada para ser usada solo con fines de capacitación.
+
+#### Artículo 98
+
+C.- Para acreditar el conocimiento respecto del arma que se solicita se autorice inscribir deberá aprobarse un curso especializado.
+
+Estos cursos especializados y sus contenidos deberán estar autorizados previamente por la DGMN y serán fiscalizados por ésta directamente o por intermedio de las AA.FF.
+
+Solo podrán dictar estos cursos especializados aquellas entidades que se encuentran inscritas para dichos efectos en los registros de la DGMN y que mantengan vigentes todas las autorizaciones al respecto.
+
+Para estos efectos la DGMN pondrá a disposición de los interesados en realizar estos cursos especializados un listado de las entidades habilitadas para ello.
+
+En forma previa al inicio de cada curso, las entidades habilitadas deberán informar a la A.F. competente respecto de su realización.
+
+Esta información deberá considerar al menos:
+
+1. Fecha de inicio y término del curso.
+
+2. Individualización de los alumnos del curso: nombre, RUN y domicilio.
+
+3. Contenidos a impartir en el curso y los horarios de las clases correspondientes (teórico y práctico).
+
+4. Individualización de los instructores del curso y los contenidos que cada uno impartirá.
+
+5. La cantidad de munición que el curso considera por alumno para la práctica de tiro.
+
+Una vez recepcionados por la A.F. los antecedentes antes indicados se podrá realizar el curso. Los antecedentes presentados deberán ser remitidos por la A.F. a la DGMN por medios electrónicos.
+
+Si en las fiscalizaciones de la DGMN o AA.FF. se comprueban diferencias entre lo informado y la actividad que se esté realizando se podrá suspender la realización de ésta. De ser suspendida por la A.F. dicha autoridad deberá informar a la DGMN.
+
+Todas las actividades docentes realizadas durante los cursos deberán quedar registradas en un libro de clases, el cual deberá completarse por parte de los instructores y firmado antes del inicio de cada curso, y visado a lo menos semanalmente por la persona natural a cuyo nombre se encuentre inscrito el polígono de tiro, debiendo estar a disposición de los organismos fiscalizadores.
+
+En este libro de clases deberán anotarse al menos los siguientes antecedentes:
+
+1. La fecha y horario de las clases.
+
+2. Los asistentes.
+
+3. Los instructores.
+
+4. Las materias impartidas.
+
+5. Las actividades realizadas.
+
+La evaluación del curso podrá ser realizada utilizando la metodología que cada entidad autorizada estime adecuada, debiendo en todo caso dejar registro tanto de la evaluación como de sus resultados. Deberá realizarse al menos, una evaluación teórica y una evaluación práctica que permitan evidenciar que el alumno logró comprender y aplicar correctamente los contenidos impartidos en el curso.
+
+Independientemente de la metodología utilizada, cada alumno deberá alcanzar al menos un 80% de aprobación en cada una de las evaluaciones con el objeto de que se le otorgue el certificado correspondiente.
+
+El certificado otorgado por la entidad deberá dejar constancia de:
+
+1. Individualización del alumno.
+
+2. Fecha de inicio y término del curso.
+
+3. Cantidad de horas del curso y sus contenidos.
+
+4. Cantidad de munición disparada por el alumno.
+
+5. Metodología de evaluación.
+
+6. Resultados obtenidos por el alumno en la evaluación teórica y evaluación práctica.
+
+7. La Aprobación o rechazo del curso.
+
+8. Tipo de arma acreditada.
+
+9. Nombre de los Instructores.
+
+Junto con el certificado se entregarán al alumno copias de las evaluaciones realizadas y de sus resultados, las que de la misma forma que el certificado, deberán ser presentadas en la A.F. en los casos de requerir posesión o tenencia de un arma de fuego.
+
+Los certificados tendrán una vigencia de un año desde la fecha de su otorgamiento.
+
+En los cursos especializados deberán impartirse al menos los siguientes contenidos:
+
+1. Medidas de seguridad para uso de armas.
+
+2. Conocimiento y funcionamiento del tipo de arma que se desea inscribir.
+
+3. Manipulación del arma, carga, descarga, atascos.
+
+4. Fundamentos del tiro.
+
+5. Mantenimiento del arma a nivel usuario.
+
+6. Medidas de seguridad y conservación en el almacenamiento.
+
+7. Práctica de tiro.
+
+8. Primeros auxilios.
+
+Los cursos deberán impartirse, considerando un mínimo de cuatro horas cronológicas efectivas de capacitación teórica y un mínimo para práctica de tiro de 50 disparos por alumno.
+
+Para la práctica, la entidad capacitadora deberá poner a disposición de los alumnos el o las armas del tipo que se solicitará inscribir.
+
+La entidad capacitadora tendrá un sistema de registro exclusivo para la munición que sea disparada por cada alumno en la fase práctica del curso especializado, debiendo consignar como mínimo fecha, nombre, RUN, cantidad y calibre de la munición consumida y la firma del interesado. Con estos antecedentes, la entidad capacitadora justificará el consumo de la munición y estará en condiciones de reponer ésta mediante una Autorización para Comprar.
+
+En el informe mensual de movimiento comercial deberán quedar establecidos tanto los ingresos como los consumos y saldos de la munición.
+
+#### Artículo 98
+
+D.- El lugar de la instrucción teórica deberá corresponder a una sala de clase o, en su defecto, a un lugar en que cuente con todas las comodidades para este tipo de instrucción y cantidad de alumnos del curso, el que será fiscalizado por la DGMN y/o A.F. con jurisdicción en el lugar.
+
+#### Artículo 98
+
+E.- Deberá disponer de un polígono de tiro para efectuar la fase práctica del curso especializado. El polígono deberá estar inscrito y contar con certificación vigente en los términos de este reglamento.
+
+#### Artículo 98
+
+F.- Las entidades inscritas y autorizadas para impartir capacitaciones de tiro, deberán realizarlas mediante instructores autorizados por la DGMN e inscritos en el registro de instructores de ésta.
+
+Para el otorgamiento de la autorización, su inscripción y mantener su vigencia, quienes se encuentran interesados en desempeñarse como instructores de tiro deberán cumplir los siguientes requisitos:
+
+a) Ser mayor de edad, tener nacionalidad chilena o residencia definitiva, lo que se acreditará con el respectivo certificado.
+
+b) Tener domicilio conocido, el que se acreditará mediante declaración jurada simple.
+
+c) Tener los conocimientos necesarios relacionados con el o los temas que impartirá, los cuales se acreditarán por medio de certificados originales o certificados ante Notario Público, de los organismos en los cuales los adquirió.
+
+d) Tener aptitud física y psíquica para el manejo y uso de armas de fuego, acreditado por un médico psiquiatra.
+
+e) No haber sido condenado por crimen o simple delito o sancionado en procesos relacionados con la ley N° 20.066. Este requisito se acreditará con el respectivo Certificado de Antecedentes.
+
+f) No haber dictado a su respecto auto de apertura de juicio oral o dictamen del fiscal que proponga una sanción al tenor de lo dispuesto en el inciso segundo del artículo 145 del Código de Justicia Militar.
+
+g) No encontrarse sujeto a medidas de protección o cautelar que impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, por resolución de tribunales con competencia en lo penal, en materias de familia o militares.
+
+h) No habérsele impuesto como condición, la prohibición de tenencia y porte de armas en el marco de una suspensión condicional del procedimiento, de conformidad a lo establecido en los artículos 237 y siguientes del Código Procesal Penal.
+
+i) No habérsele cancelado alguna inscripción de armas de fuego. Este requisito se acreditará por medio de la consulta al Sistema de Control de Armas.
+
+j) Cuando el solicitante tenga armas de fuego inscritas a su nombre, debe haber dado cumplimiento oportuno a la obligación anual de actualizar o de ratificar la información de registro de armas y a la obligación de acreditación cada cinco años o en el plazo menor dispuesto. Este requisito se acreditará por medio de la consulta al Sistema de Control de Armas.
+
+k) No haber sido sancionado previamente por abandono de armas o elementos sujetos a control en los términos del artículo 14 A de la ley; no haber sufrido la pérdida o extravío de armas o elementos sujetos a control; no haber sido víctima de robo o hurto de armas o elementos sujetos a control, salvo exención de la Dirección General para casos calificados tratándose de robo.
+
+l) Rendir ante la DGMN una prueba para acreditar sus conocimientos o experiencia como instructor de tiro.
+
+La solicitud junto con los antecedentes requeridos deberá ser presentada por el interesado, en la A.F. correspondiente a su domicilio.
+
+Verificada la conformidad y suficiencia de la información, con los antecedentes aportados u otros que fueren requeridos o consultados, la A.F. remitirá copia de todos ellos por medios electrónicos a la DGMN, con objeto que se realice la inscripción del solicitante en el registro de instructores de tiro.
+
+La inscripción tendrá una duración de tres años calendario y para su renovación el interesado deberá acreditar que cumple con los requisitos precedentes, salvo los indicados en los literales a), c) y l).
+
+#### Artículo 98
+
+G.- Los polígonos o canchas de tiro o de prueba, destinados a la práctica del tiro con armas de fuego o al tiro como deporte, están sometidos a los controles que se establecen en la ley.
+
+Se considera polígono, cancha de tiro o de prueba, todo espacio abierto o cerrado, delimitado y señalizado como tal, dentro del cual se puede desarrollar con seguridad, la práctica del tiro de armas de fuego, su enseñanza, instrucción o capacitación o pruebas de funcionamiento de dichas armas.
+
+#### Artículo 98
+
+H.- Las personas naturales o jurídicas según corresponda, inscritas en los registros de la DGMN como federaciones, clubes, academias, reparadores o comerciantes, podrán inscribir polígonos ya sea para el uso de los socios, prueba de las armas o destinado a la enseñanza teórica y práctica para materializar el curso de acreditación relacionado con la conservación, mantenimiento y uso de armas de fuego, orientados a las personas que postulan a su inscripción.
+
+Con objeto de su fiscalización, todo polígono de tiro o cancha de tiro o prueba deberá inscribirse en el registro que para esos efectos llevará la DGMN.
+
+La inscripción de las instalaciones antes referidas se solicitará ante la A.F. con competencia jurisdiccional respecto del lugar donde la instalación a inscribir esté ubicada y podrá presentarse juntamente con la solicitud de inscripción de la entidad que se trate. La solicitud de inscripción contendrá:
+
+a) La patente municipal o certificado otorgado por la Municipalidad al polígono de tiro o cancha de tiro o prueba, según corresponda.
+
+b) La individualización de la persona natural responsable a nombre de la cual quedará inscrita la instalación, quien debe cumplir con todos los requisitos establecidos para poder inscribir a su nombre armas de fuego.
+
+c) La indicación de la o las actividades que se realizarán en el polígono: tiro deportivo, práctica de tiro, instrucción de tiro, pruebas de armas u otros que se indiquen posteriormente por resolución.
+
+d) Copia del título válido y vigente que habilite o donde se autorice la instalación del polígono de tiro, cancha de tiro o de prueba.
+
+e) Copia del reglamento interno de "organización, funcionamiento y seguridad" del polígono.
+
+f) Acreditar la existencia de elementos de primeros auxilios necesarios para este tipo de actividad.
+
+g) Contar con un vehículo que permita el traslado de personas en caso de emergencia.
+
+h) Certificado de funcionamiento otorgado por el BPCH.
+
+Además de los requisitos técnicos, de seguridad y de documentación exigidos por la DGMN se deberá dar cumplimiento a las exigencias ambientales y municipales que correspondan.
+
+En la solicitud deberá indicarse la o las actividades que se realizarán en la instalación, ya sea tiro deportivo, práctica de tiro, instrucción de tiro, pruebas de armas, u otros que se indiquen. Solo podrá realizarse en las instalaciones el tipo de tiro indicado.
+
+Las instalaciones en que se realice el tiro de prueba solo podrán inscribirse para esa sola actividad. Asimismo, se especificarán en la solicitud las medidas de seguridad adoptadas con el objeto de evitar eventuales daños o perjuicios a los inmuebles aledaños y/o a las personas que se encuentren en ellas.
+
+Para su funcionamiento los polígonos de tiro, canchas de tiro o prueba deberán acreditar, ante el BPCH, que cumplen con los siguientes requisitos:
+
+1. Para polígonos de armas cortas:
+
+a. Deberá cumplir el puesto de tiro con dimensiones no inferiores a 1,0 metro de ancho por 1,0 metro de largo. Un largo mínimo de 10 metros por cada carril de tiro.
+
+b. En los casos de polígonos cerrados, los muros laterales y superiores deben ser de material que permita absorber la mayor cantidad de energía de los disparos directos o indirectos de tal forma de evitar rebotes. La zona posterior al área de tiro debe contar con un material que no permita ser traspasada por un disparo. En caso de contar con ventanas para espectadores, estas deben ser certificadas por el fabricante para este mismo efecto.
+
+2. Para polígono de armas largas:
+
+a. La zona posterior al área de tiro debe contar con un material que no permita ser traspasada por un disparo. En caso de contar con ventanas para espectadores, estas deben ser certificadas por el fabricante para este mismo efecto.
+
+b. Para polígonos abiertos de tiro de armas largas, este deberá cumplir con un ancho total de no menos de 15 metros. Por su parte, las dimensiones del puesto de tiro no deben ser inferiores a 1,6 metros de ancho por 2,5 metros de largo.
+
+Cada carril de tiro deberá tener un largo mínimo de 300 metros. Asimismo, deberá estar ubicado en zonas aisladas de lugares poblados o de tránsito, preferentemente ubicados en faldeos de cerro, farellones u otros similares, que ofrezcan seguridad en la dirección del tiro o rebotes.
+
+Además, se requiere contar con un espaldón cuya altura, ancho, espesor y consistencia absorba con seguridad la energía de penetración de los proyectiles, fosos con accesos laterales de entrada y salida.
+
+c. Certificado de bomberos o prevencionista de riesgos en el que conste que se dispone de un servicio interno, equipado con los elementos indispensables para sofocar un principio de incendio.
+
+Al momento de solicitar al BPCH la certificación de los requisitos presentes, deberá acompañarse un plano del polígono, aprobado y timbrado por un arquitecto, constructor civil o ingeniero constructor, indicando las dimensiones; especificaciones técnicas e instalaciones de electricidad, agua; evacuación de gases producto de la combustión de la pólvora; sistema de blancos; parapetos (éstos deben ser de material que permita detener la totalidad de los proyectiles que se disparen en ese polígono); iluminación; supresores de ruido y sistema de seguridad y evacuación, idealmente que cuente con puertas independientes de entrada y salida.
+
+Sin perjuicio de los requisitos referidos en este artículo, después de revisar materialmente la instalación, el BPCH podrá requerir el cumplimiento de otros aspectos técnicos o medidas de seguridad que resulten indispensables para minimizar los riesgos inherentes a la actividad del tiro, conforme las características particulares de cada instalación.
+
+Una vez acreditados todos los requisitos referidos precedentemente, el BPCH emitirá el certificado de aprobación de funcionamiento.
+
+#### Artículo 98
+
+I.- Una vez que la A.F. verifique el cumplimiento de todos los requisitos remitirá copia de la solicitud de inscripción de polígono y sus antecedentes a la DGMN, por medios electrónicos con objeto que se inscriba en el registro pertinente.
+
+La inscripción tendrá una vigencia de 3 años contados desde la fecha de la resolución. Si la renovación se hace antes del término de su vigencia, deberá presentar ante la A.F. de la jurisdicción la patente municipal de polígono de tiro, campo de tiro o prueba vigente.
+
+En caso de solicitar modificaciones a las instalaciones deberá acreditar los requisitos indicados en el artículo 98 H. del presente Reglamento.
+
+Solo podrán funcionar como polígono, cancha de tiro o de prueba, las instalaciones inscritas como tales en la DGMN y cuya inscripción se encuentre vigente.
+
+#### Artículo 98
+
+J.- La DGMN y las AA.FF. podrán fiscalizar, sin previo aviso, los polígonos de tiro, canchas de tiro o de prueba. En las fiscalizaciones podrán controlarse:
+
+1. Las armas, municiones, máquinas recargadoras y demás elementos sujetos a control que se encuentren en la instalación, sus inscripciones, y/o autorizaciones y el uso que se esté haciendo de ellas.
+
+2. El permiso de transporte, de porte o Guía de Libre Tránsito de las armas y los padrones correspondientes.
+
+3. Las inscripciones y autorizaciones que correspondan a las actividades desarrolladas y las vigencias de las certificaciones pertinentes.
+
+4. Almacenamiento como consumidor habitual.
+
+5. El registro de tiro que deberá llevar cada instalación, el que contendrá:
+
+a. Nombres y apellidos de quien realiza la práctica, y número de rol único nacional.
+
+b. Cantidad, calibre y origen de la munición consumida.
+
+c. Nombre y número de RUN del instructor, de corresponder.
+
+d. Fecha y Firma de quien realiza la práctica.
+
+Este registro podrá llevarse en un libro foliado o mediante un sistema computacional y deberá ser independiente de acuerdo con las actividades que se desarrollen, tales como, consumo de socios, alumnos en práctica de tiro o poseedores de armas con uso de defensa personal en práctica anual y práctica de tiro de vigilantes privados, el cual deberá ser llevado al día conforme a cada práctica.
+
+#### Artículo 98
+
+K.- Serán responsables por el uso o funcionamiento indebido de las instalaciones, los representantes legales de la persona jurídica a cuyo nombre se encuentre inscrito el polígono de tiro, cancha de tiro o prueba.
+
+En caso de verificarse el uso o funcionamiento indebido del polígono por parte de la A.F., esta remitirá todos los antecedentes del caso a la DGMN, por medios electrónicos con el objeto de que se evalúe su suspensión.
+
+#### Artículo 98
+
+L.- En los polígonos, canchas de tiro o prueba solo podrá utilizarse la siguiente munición:
+
+1. En instalaciones inscritas a nombre de federaciones deportivas nacionales o de asociaciones o clubes de tiro afiliadas a ellas:
+
+a. Munición entregada por la federación, asociación o club solo en caso de contar con la inscripción de consumidor habitual de munición.
+
+b. Munición llevada a la práctica por la persona que realice ésta, que cuente con las autorizaciones correspondientes para personas naturales con armas inscritas.
+
+2. En instalaciones inscritas a nombre de personas jurídicas constituidas con la finalidad de impartir capacitación de tiro:
+
+a. Munición entregada por la referida entidad, quien deberá contar con la inscripción de consumidor habitual de munición.
+
+b. Munición llevada a la práctica por la persona que realice ésta y que cuente con las autorizaciones correspondientes para personas naturales con armas inscritas.
+
+3. En instalaciones inscritas a nombre de comerciantes o reparadores o transformadores para realizar tiro de prueba:
+
+a. Solo munición autorizada por la A.F. competente de cualquier calibre, con un máximo de 300 cartuchos por autorización. Esta cantidad de munición podrá ser repuesta mediante una Autorización para Comprar cuando se acredite el correcto consumo de los cartuchos autorizados ante la A.F. correspondiente.
 
 De las Armas de Fuego entregadas en Comodato
 
@@ -1750,57 +2478,117 @@ De la entrega de información ante consultas Judiciales y Policiales
 
 La Dirección General o las Autoridades Fiscalizadoras, en su caso, deberán dar respuesta por escrito y a la brevedad a los requerimientos del Poder Judicial y del Ministerio Público, tanto a la consulta como a su respuesta.
 
+#### Artículo 130
+
+A.- El personal de la DGMN y de los demás organismos que mencionan los artículos 1° de la ley N° 17.798 y 5 del presente Reglamento no podrán revelar los hechos, informaciones y el contenido de las solicitudes recibidas y demás antecedentes relativos a las materias que regula la ley N° 17.798. Esta misma obligación se tendrá respecto de la totalidad de las resoluciones, oficios y providencias que en materias de la ley emitan las entidades mencionadas en este artículo.
+
+Las personas que presten servicios en las instituciones interconectadas con el Registro Nacional de Armas o en las instituciones con acceso a éste, deberán guardar reserva respecto de la información obtenida como resultado de las consultas o actuaciones que realicen.
+
+En ejercicio de las facultades que le otorga la ley, la DGMN, a través del departamento que disponga su Director, estará a cargo de la supervigilancia y del control del cumplimiento de las obligaciones a que se refiere este artículo.
+
 #### Artículo 131
 
-La Dirección General de Movilización Nacional proporcionará a Carabineros de Chile y Policía de Investigaciones de Chile, acceso permanente a la base de datos, para consultas del registro nacional de armas.
+Carabineros de Chile y la Policía de Investigaciones de Chile estarán interconectados con la DGMN a través de un sistema y con perfil de acceso que ésta les asigne. Asimismo, lo estará con todo otro registro operado por dicha entidad referido a elementos controlados por la ley N° 17.798 y este Reglamento.
 
-Sólo tendrán acceso a esta información los funcionarios designados por cada Institución y que deben corresponder a los grados de Oficiales Superiores y Prefectos, que cuenten con su respectiva clave de acceso.
+A la interconexión referida precedentemente, solo tendrán acceso los funcionarios designados por Carabineros de Chile y la Policía de Investigaciones de Chile, siempre que la función que cumplan así lo exija.
+
+Las designaciones pertinentes deberán ser informadas a la DGMN por las instituciones antes referidas, indicándose específicamente las funciones de los designados que justifiquen el acceso al registro.
+
+La DGMN deberá verificar que las funciones informadas justifiquen debidamente el acceso requerido en los casos que corresponda, no pudiendo otorgarlo en caso contrario.
+
+Verificada la necesidad del acceso del funcionario de Carabineros de Chile o de la Policía de Investigaciones, éste deberá cumplir con todas las medidas de seguridad vigentes en la DGMN, con el objeto de que ésta autorice el acceso al sistema.
+
+Si por cualquier causa terminan las funciones de alguno de los funcionarios designados por las instituciones antes nombrada, estas deberán informarlo en forma inmediata a la DGMN quien procederá a eliminar sus permisos de acceso.
+
+#### Artículo 131
+
+A.- Todas las actuaciones y consultas que se realicen en el Registro Nacional de Armas deberán ser registradas. Este registro estará a cargo de la DGMN en los casos de interconexión.
+
+En este registro se encontrará la información referida a todos los elementos controlados por la ley y este Reglamento y al que tendrán acceso solo las personas autorizadas en la forma que indica la ley N° 17.798.
+
+#### Artículo 131
+
+B.- Podrán acceder al Registro Nacional de Armas los fiscales del Ministerio Público a cargo de una investigación penal en curso y los fiscales del Ministerio Público pertenecientes a una unidad del Sistema de Análisis Criminal y Focos Investigativos.
+
+Asimismo, podrán acceder al Registro Nacional de Armas los funcionarios de la Unidad de Análisis Financiero que se designen al efecto por dicha entidad.
 
 #### Artículo 132
 
 El acceso a la base de datos a través del sistema de consultas por parte de los organismos mencionados en el artículo anterior, se otorgará con fines de prevención e investigación de delitos, quedando prohibido el uso de esta información para fines distintos a los indicados.
 
+Las modalidades de acceso de las personas antes referidas serán establecidas mediante acuerdos celebrados directa e individualmente por el Ministerio Público y por la Unidad de Análisis Financiero, con la DGMN.
+
+Sin perjuicio de otros asuntos, dichos acuerdos deberán contener: el medio tecnológico a través del cual se accederá al registro, las personas que accederán a este, las obligaciones de reserva que deberán asumir las personas con acceso autorizado, la forma en que se registrarán los accesos y la forma mediante la cual se resguardará la confidencialidad de la información.
+
+El uso de la información consultada deberá utilizarse exclusivamente para contribuir a los fines de la institución que realiza la consulta.
+
+#### Artículo 132
+
+A.- Sin perjuicio de las sanciones penales dispuestas en la ley para los incumplimientos de la obligación de reserva mencionada, la infracción a ésta acarreará para el infractor las sanciones administrativas correspondientes.
+
+#### Artículo 132
+
+B.- Si la DGMN detecta hechos que eventualmente pudieren configurar incumplimientos a la obligación de reserva en cuestión, sin perjuicio de la denuncia al Ministerio Público que correspondiere, dispondrá la instrucción de una investigación administrativa con objeto de que se revisen los hechos y se propongan las sanciones administrativas pertinentes.
+
+Si el o los funcionarios investigados no dependen jerárquicamente de la DGMN, ésta comunicará el hecho al jefe del servicio correspondiente, para los fines señalados en el inciso anterior.
+
+Por su parte en los casos de funcionarios no dependiente jerárquicamente de la DGMN, las instituciones interconectadas o con acceso al registro que detectaren hechos que eventualmente pudieren configurar incumplimiento a la obligación de reserva, y sin perjuicio de la denuncia criminal que correspondiere, deberá informarlo de inmediato a la DGMN, a fin de que esta tome los resguardos correspondientes.
+
 #### Artículo 133
 
-La Dirección General autorizará el acceso de consultas de su base de datos del Registro Nacional de Armas a Carabineros de Chile y Policía de Investigaciones durante las 24 horas del día, todos los días del año. Cuando por razones técnicas o de otro tipo este enlace se vea interrumpido, las consultas y respuestas deberán ser realizadas por estas Instituciones mediante el envío de un fax u otro medio tecnológico de similares características a la DGMN.
+La DGMN mantendrá abierto el acceso de consultas de su base de datos del Registro Nacional de Armas a Carabineros de Chile, Policía de Investigaciones de Chile, Ministerio Público y Unidad de Análisis Financiero en los niveles dispuestos, durante las 24 horas del día, todos los días del año. Cuando por razones técnicas o de otro tipo este enlace se vea interrumpido, las consultas y respuestas deberán ser realizadas por estas Instituciones, por otros medios tecnológicos compatibles con la DGMN, que empleen y tengan niveles de seguridad comunicacional probados y aceptables.
 
 ## Capítulo VI
 
-De las especies Incautadas y Decomisadas
+De los Elementos Sometidos a Control Incautados, Retenidos o Decomisados
 
 #### Artículo 134
 
-El Ministerio Público o los Tribunales Militares, en su caso, mantendrán en custodia en Depósitos de las Autoridades Fiscalizadoras en Regiones, y en el Depósito General de Armas para la Región Metropolitana, los objetos o instrumentos de delito que se encuentren sometidos a control o prohibidos por la ley 17.798, hasta el término del proceso respectivo. Si como resultado de éste, se resuelve la devolución, el interesado tendrá como plazo máximo 180 días para solicitar el arma desde la A.F. o Depósito General de Armas; en caso que no sea retirada, la A.F. deberá hacer el denuncio por abandono conforme lo establece el artículo 14 A de la Ley.
+El Ministerio Público o los Tribunales de Justicia, en su caso, mantendrán en depósito en Arsenales de Guerra el material de uso bélico y explosivos, y en el Depósito Central de Armas de Carabineros de Chile los demás objetos o instrumentos de delito que se encuentren sometidos a control o prohibidos por la ley N° 17.798, hasta el término del proceso judicial respectivo.
 
-De igual forma se procederá con las armas, municiones y elementos sometidos a control, que hayan sido retenidos en las aduanas del país, por irregularidades en su importación, internación o exportación.
+Si como resultado del proceso judicial, se resuelve la devolución, el interesado tendrá un plazo de 180 días hábiles para solicitar la recuperación del objeto incautado o retenido a la A.F. o Depósito General de Armas según donde se encuentre; en caso que no sea retirado el objeto en el plazo fijado, la A.F. iniciará el procedimiento administrativo sancionatorio correspondiente por abandono conforme lo establece el artículo 14 A de la ley N° 17.798 y enviará el objeto al Depósito General de Armas que corresponda para su destrucción.
 
-Si las especies fueren decomisadas en virtud de sentencia Judicial, estos elementos no podrán ser rematados y deberán ser remitidos semestralmente por parte de las respectivas AA.FF. al Depósito General, a fin que la Comisión de Material de Guerra de las Fuerzas Armadas y Carabineros de Chile, inspeccione dicho material y proponga su destino final, al Ministro de Defensa Nacional a través de la DGMN.
+De igual forma se procederá con las armas, municiones y elementos sometidos a control que hayan sido retenidos en las aduanas del país, por irregularidades en su importación, internación, tránsito o exportación, y aquellas armas y elementos respecto de los cuales se ordene su retención o incautación por cualquier causa.
 
-Igual procedimiento se aplicará al material entregado en forma voluntaria, tanto por personas naturales como jurídicas; debiendo dejar constancia en el acta correspondiente que estos elementos pasan a disposición de la Comisión de Material de Guerra de las Fuerzas Armadas y Carabineros de Chile, para los fines establecidos en el artículo N° 23º de la Ley.
+Las armas y elementos sometidos a control que no se encuentren decomisadas y cuya situación no se encuentre expresamente regulada en los incisos precedentes, serán destruidas transcurridos 5 años contados desde su ingreso en los Depósitos Locales o Generales de Armas respectivos.
 
-Para el traslado de las armas al Depósito General, se dará cumplimiento a lo establecido en el artículo N°17° del presente Reglamento.
+Si las especies fueren decomisadas en virtud de sentencia judicial ejecutoriada, no podrán ser rematadas y deberán remitirse periódicamente por las AA.FF. al Depósito General de Armas que corresponda, a fin de que la Comisión de Material de Guerra de las FF.AA. y Fuerzas de Orden y Seguridad Pública inspeccione dicho material y proponga su destino final.
 
-Las Autoridades Fiscalizadoras y Depósito General serán responsables de los elementos controlados por la Ley 17.798 que se encuentren almacenados en custodia o comiso, por lo que deberán contar con el máximo de medidas de seguridad conforme a la ubicación, tipo de recinto y cantidad de elementos controlados que se encuentren en las instalaciones destinadas para estos fines.
+Sin perjuicio de lo anterior, estas especies podrán destinarse al uso de las Fuerzas Armadas y las Fuerzas de Orden y Seguridad Pública, si así se dispusiere mediante decreto supremo del Ministerio de Defensa Nacional y Ministerio del Interior y Seguridad Pública. Para estos efectos, una Comisión de Material de Guerra, compuesta por personal técnico de las FF.AA. y de las Fuerzas de Orden y Seguridad Pública, designada por decreto supremo suscrito por los Ministros o Ministras de Defensa Nacional y del Interior y Seguridad Pública, a proposición del Director General de Movilización Nacional, del General Director de Carabineros de Chile y del Director General de la Policía de Investigaciones de Chile, respectivamente, propondrá el armamento y demás elementos sujetos a control que se destinarán a dicho uso.
+
+Las armas de fuego y demás elementos a los que se refiere la ley N° 17.798 que se incautaren, retuvieran o fueran abandonadas, y cuyo poseedor o tenedor se desconozca, pasarán al dominio fiscal y se procederá a su destrucción inmediata, a menos que se reclamare su posesión o tenencia legal dentro del plazo de treinta días, contado desde la fecha de su retención, incautación o hallazgo.
+
+Igual procedimiento se aplicará con las entregas voluntarias de armas y municiones, debiendo levantarse actas de entrega y recepción de estos elementos que pasarán a disposición de la Comisión de Material de Guerra de las FF.AA. y Fuerzas de Orden y Seguridad Pública para los fines del artículo 23 de la ley. Por cada entrega voluntaria se emitirá o confeccionará un acta de recepción y el arma quedará con la constancia respectiva en la base de datos.
+
+Las AA.FF. y los Depósitos Generales de Armas serán responsables de los elementos controlados que se encuentren almacenados en custodia, retención o comiso, por lo que deberán contar con medidas de seguridad eficientes y cadena de custodia para estos fines.
 
 #### Artículo 135
 
-Cuando el tribunal autorice su devolución, el interesado deberá concurrir a la Autoridad Fiscalizadora solicitando una Guía de Libre Tránsito para el traslado del arma. Con este documento más la copia de la resolución judicial, la Sección Armas en Custodia de la respectiva A.F, procederá a entregar el arma a su propietario, el que deberá acreditar la identificación y propiedad con la cédula de identidad y el padrón de inscripción del arma, respectivamente.
+Cuando el Ministerio Público o el Tribunal resuelvan la devolución del arma, el interesado concurrirá a la A.F. a solicitar una Guía de Libre Tránsito para el traslado del arma o elementos sometidos a control al domicilio declarado. Con este documento más la copia de la resolución judicial o del fiscal, el depósito o la A.F. correspondiente entregará el arma o elementos a su poseedor o tenedor, el que acreditará la identificación y propiedad con su RUN y el padrón de inscripción del arma. De lo obrado se levantará un acta de entrega firmada por ambas partes, siempre y cuando el interesado no haya perdido los requisitos para la tenencia o posesión de armas.
+
+#### Artículo 135
+
+A.- En caso de que el poseedor o tenedor del arma de fuego devuelta por tribunales ya no cumpla con los requisitos para su tenencia o posesión, la A.F. enviará todos los antecedentes a la DGMN para que proceda a la cancelación de la o de las inscripciones otorgando un plazo de 90 días para proceder a su transferencia o entrega para su destrucción. Asimismo, informará a la autoridad que dispuso su devolución o la inhabilidad sobreviniente de la persona para tener armas.
 
 #### Artículo 136
 
-Las armas y municiones que fueren decomisadas por sentencia judicial ejecutoriada, serán depositadas directamente en los Depósitos de las AA.FF., las cuales las remitirán a Santiago al Depósito General de Armas junto con los decomisos y entregas voluntarias, mediante acta de entrega, quedando estos elementos a disposición de la Dirección General, a la que se le entregará una copia de este último documento, para los fines establecidos en el Artículo N° 23° de la Ley.
+Las armas y elementos sometidos a control que fueren decomisadas por sentencia judicial ejecutoriada, como también las provenientes de entregas voluntarias serán trasladadas desde los Depósitos de las AA.FF. a los Depósitos Generales de Armas respectivos, junto con las entregas voluntarias, lo que se formalizará mediante acta de entrega, quedando estos elementos a disposición de la Comisión de Material de Guerra para su inspección, a la que se le entregará una copia de las actas para los fines del artículo 23 de la ley.
 
-Igual tratamiento se dará a los elementos incautados y cuyo poseedor o tenedor se desconozca, los que pasarán por Decreto Supremo del Ministerio de Defensa Nacional al dominio fiscal afectos al servicio y control de las Fuerzas Armadas, Carabineros e Investigaciones de Chile a menos que se reclamare su posesión o tenencia dentro del plazo de treinta días, contados desde la fecha de su incautación.
+Antes del traslado a los depósitos generales respectivos, se levantará registro fotográfico digital consignando las características e identificación completa, la que quedará archivada junto a los antecedentes de cada arma en la A.F.
 
-Corresponderá a la Comisión de Material de Guerra de las Fuerzas Armadas y Carabineros de Chile, como organismo Técnico, proponer el destino final al Ministro de Defensa Nacional a través del Director General de Movilización Nacional. Estos elementos podrán ser entregados al uso de las instituciones de la Defensa Nacional, de su personal o bien destruídas.
+Igual tratamiento se dará a los elementos incautados, retenidos o hallados y cuyo poseedor o tenedor se desconozca, los que pasarán al dominio fiscal y se someterán al procedimiento de inspección fijado a la Comisión de Material de Guerra para su reasignación institucional o destrucción, según se resuelva, a menos que se reclame su posesión o tenencia en el plazo de 30 días hábiles contados de la fecha de incautación, retención o hallazgo.
 
-Las armas de interés histórico o científico policial podrán ser entregadas a museos mediante una resolución de la Dirección General.
+#### Artículo 136
 
-En caso alguno este material podrá ser comercializado o enajenado.
+A.- Para los efectos del nombramiento de los integrantes de la Comisión de Material de Guerra de las FF.AA. y Fuerzas de Orden y Seguridad Pública, en los términos establecidos en el artículo 23 inciso séptimo de la ley N° 17.798, el Director General de Movilización Nacional propondrá a los Ministros de Defensa Nacional y del Interior y Seguridad Pública, el decreto supremo biministerial que designará la comisión, correspondiendo al Oficial más antiguo de las FF.AA. desempeñar el cargo de presidente de la comisión. Los Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros de Chile y Director General de la Policía de Investigaciones de Chile, deberán proponer tres delegados de cada Institución, quienes se desempeñarán como titulares y suplentes.
+
+Las armas de interés histórico o científico policial podrán ser entregadas a museos o instituciones debidamente acreditadas, mediante una resolución de la DGMN y ser transferidas a nombre de la institución solicitante, la cual deberá cumplir con las medidas de seguridad conforme a la cantidad y estado de las armas (operacionales o inutilizadas).
+
+Para el caso del material en comiso o por entrega voluntaria que sea requerido para alguno de los fines antes mencionados, la transferencia o inscripción respectiva será sin costo para la institución solicitante.
 
 #### Artículo 137
 
-Los Depósitos de las Autoridades Fiscalizadoras y el Depósito General, remitirán a la Dirección General, con fecha 30 de abril de cada año, un informe en la forma que ésta determine, considerando la custodia temporal, entregas voluntarias y decomiso definitivo de armas y municiones y además, un informe mensual con los movimientos ocurridos tanto de salida como de entrada de estos elementos.
+Los Depósitos de las AA.FF. y los Depósitos Generales de Armas remitirán a la DGMN el primer día hábil de cada semana, un informe que considere el estado de almacenamiento de las armas de fuego, indicando en forma separada el motivo de su custodia: por concepto de medidas cautelares, enviadas por los tribunales hasta el término del proceso, entregas voluntarias, decomiso, por cancelación, por vacaciones y otras similares. Además de lo anterior se deberá incluir en el informe las armas de fogueo en custodia y asimismo si estas se encuentran inscritas.
 
 ## Capítulo VII
 
@@ -1878,9 +2666,9 @@ Este permiso podrá ser solicitado sólo para Vigilantes Privados, y en ningún 
 
 #### Artículo 146
 
-Las armas inscritas a nombre de Representaciones Diplomáticas podrán ser usadas en Seguridad y Protección, pudiendo otorgarse este tipo de permisos de porte de arma, para aquellos funcionarios que se encuentren desempeñando labores de seguridad y que por motivos de trabajo sea necesario portarlas fuera del bien raíz en que se encuentra inscrita el arma.
+Las armas inscritas a nombre de representaciones diplomáticas, oficinas consulares y organizaciones internacionales con sede en Chile, podrán ser usadas en seguridad y protección, pudiendo otorgarse el permiso de porte de arma para aquellos funcionarios que se encuentren desempeñando labores de seguridad y que por motivos protocolares de las personas de la legación sea necesario portarlas fuera del bien raíz en que se encuentra inscrita el arma.
 
-Para la renovación de los permisos de Porte de Armas de Defensa Personal y de Seguridad y Protección, se cumplirán los mismos requisitos de una solicitud por primera vez.
+Para la renovación de los permisos de porte de armas de seguridad y protección, se exigirán los mismos requisitos de una solicitud por primera vez.
 
 Transporte de Arma para Uso Deportivo y Caza
 
@@ -1932,11 +2720,17 @@ Las personas naturales o jurídicas que necesiten trasladar armas y municiones s
 
 #### Artículo 154
 
-La Guía de Libre Tránsito se otorgará para fines de: cambio de domicilio, reparaciones, inspección en el Banco de Pruebas, transferencias, arma devuelta por tribunales, armas dejadas en custodia, en consignación, exposiciones de armas, transporte a otro domicilio hasta por 60 días, prácticas de tiro de Vigilantes Privados, movimientos entre sucursales de una misma casa comercial, entregas voluntarias u otros casos debidamente calificados por la autoridad respectiva.
+La Guía de Libre Tránsito se otorgará también para autorizar el transporte del arma para práctica de tiro, para arma de defensa personal, cambio de domicilio, reparaciones, inspección en el BPCH, transferencias, arma devuelta por tribunales, armas dejadas en custodia, en consignación, exposiciones de armas, transporte a otro domicilio hasta por 60 días hábiles, traslado de armas por parte de federaciones y clubes de tiro, prácticas de tiro de vigilantes privados, movimientos entre sucursales de una misma casa comercial, entregas voluntarias, transporte de armas de fogueo u otros casos debidamente calificados por la autoridad respectiva. La Guía de Libre Tránsito deberá además establecer las municiones a trasladar cuando corresponda.
 
 #### Artículo 155
 
 Cuando el transporte se deba a un cambio de domicilio, junto con solicitar la Guía de Libre Tránsito su propietario deberá realizar la actualización de datos correspondiente, aún cuando el nuevo domicilio se encuentre en la Jurisdicción de la misma Autoridad Fiscalizadora y tendrá una vigencia de 15 días corridos.
+
+#### Artículo 155
+
+A.- El poseedor o tenedor de un arma inscrita para uso de defensa personal, previa solicitud fundada, podrá solicitar una Guía de Libre Tránsito para la práctica de tiro anual voluntaria instituida en la ley. La periodicidad de esta autorización será de hasta dos veces por año calendario. Además, la práctica deberá ser realizada en una federación o club de tiro o con una persona natural o jurídica autorizada para realizar cursos de tiro, quienes deberán contar con polígono de tiro inscrito en la DGMN.
+
+La vigencia de la Guía de Libre Tránsito será por un plazo máximo de veinticuatro horas cada vez.
 
 #### Artículo 156
 
@@ -2020,15 +2814,31 @@ La vigencia de esta Guía de Libre Tránsito será de 10 días corridos.
 
 A las personas que adquieran un arma nueva en una Casa Comercial, les servirá la autorización de compra visada por la A.F. como Guía de Libre Tránsito, para trasladar el arma hasta su domicilio, por única vez.
 
-Para las transacciones entre comerciantes, de igual forma la autorización de compra servirá como Guía de Libre Tránsito. Cuando el número de alguno de los elementos sujetos a control que se solicita trasladar sea superior a las cantidades que se señalan, se deberá contar con protección, conforme a lo establecido en el artículo 279 de este Reglamento.
+#### Artículo 165
 
-- Armas de fuego : 30
+A.- Los poseedores o tenedores de armas de fogueo que necesiten trasladarlas, ya sea por cambio de domicilio, reparaciones, certificación del banco de pruebas, vacaciones, etc., deberán solicitar una Guía de Libre Tránsito en cualquier A.F. del país.
 
-- Cartuchos de proyectil múltiple : 300.000
+#### Artículo 165
 
-- Cartuchos de proyectil único : 30.000
+B.- Para las operaciones entre comerciantes, servirá la Autorización para Comprar como Guía de Libre Tránsito, la que tendrá una validez de 15 días hábiles. En caso de que ésta caduque, el interesado deberá solicitar una Guía de Libre Tránsito para su traslado, la cual también tendrá una vigencia de 15 días hábiles.
 
-La autorización de compra autoriza el traslado, sólo a la persona a nombre de quien se encuentra ésta. Para el caso de personas jurídicas, corresponderá al representante legal o quien él autorice mediante poder notarial.
+Cuando el número de cualquiera de los elementos que se solicite trasladar sea superior a las cantidades señaladas a continuación, se deberá contar con vehículos adaptados para este tipo de transporte y protección efectuada por vigilantes privados armados pertenecientes a una empresa de seguridad autorizada por la Autoridad Fiscalizadora en materias de seguridad privada, de acuerdo con la normativa que regula esta materia. Este servicio deberá ser contratado por la casa comercial.
+
+En caso de que un importador y/o comerciante no cumpla con esta normativa, el IDIC y el Depósito de Armas de Arsenales de Guerra permitirán el ingreso a sus dependencias de las armas, informando de esta situación a la DGMN quien deberá aplicar la sanción administrativa correspondiente de acuerdo con las facultades entregadas por la ley. En el caso que se requiera retirar armas de alguno de estos dos recintos, se deberá exigir estas medidas de seguridad para el traslado, si no se cumple, no se debe autorizar la salida de las armas y/o municiones.
+
+Todo traslado de armas y elementos sujetos a control en las cantidades que más abajo se indican, deberán ser transportadas en un camión blindado con una tripulación de, a lo menos, 3 vigilantes privados, incluyendo al conductor. Cuando por circunstancias especiales calificadas por la Autoridad de Carabineros de Chile, no se cuente con protección de una empresa de seguridad privada, podrá solicitarse una escolta policial proporcionada por dicha Institución, con conocimiento de la A.F. de control de armas respectiva, lo que deberá ser comunicado a esta con al menos 24 horas de anticipación. En estos casos, se aplicará la normativa dictada por Carabineros de Chile sobre escolta de armas, municiones, explosivos y demás elementos controlados. El traslado de las armas desde Aduana a IDIC y de este a su lugar de almacenamiento deberá ser en su totalidad y no parcializado conforme a la Resolución de internación. IDIC controlará que los vehículos cumplan con las normas estipuladas cuando reciba y entregue las armas, informando a la DGMN en los casos de su incumplimiento, para que se tomen las medidas administrativas respectivas:
+
+1. Armas de fuego: 7 o más armas.
+
+2. Cartuchos de proyectil múltiple: 300.000 o más unidades.
+
+3. Cartuchos de proyectil único: 100.000 o más unidades.
+
+La Autorización para Comprar autorizará el traslado a la persona natural a nombre de quien la solicitó. Para el caso de personas jurídicas, corresponderá al representante legal o su delegado autorizado mediante poder notarial.
+
+En el evento que los productos vendidos se encuentren en depósito en Arsenales de Guerra, el vendedor podrá emplear como Guía de Libre Tránsito la misma Autorización para Comprar extendida a nombre del comprador para trasladar los productos hasta su local comercial, para lo cual la Autorización para Comprar deberá indicar que dicho documento servirá tanto para que el vendedor como el comprador puedan realizar el traslado de los elementos en ella indicados. En caso de que ésta caduque, el interesado deberá solicitar una Guía de Libre Tránsito para su traslado, la cual tendrá una vigencia de 15 días hábiles.
+
+En todo caso el Depósito Central de Armas de Carabineros de Chile solo entregará o recibirá armas y municiones por parte de los responsables de las empresas, en ningún caso por particulares.
 
 ## Capítulo VIII
 
@@ -2106,25 +2916,41 @@ e) El reparador y transformador que reciba armas para corregir las observaciones
 
 f) Las armas recibidas que no sean retiradas por los interesados en un plazo de 90 días, contados desde la fecha del término del trabajo, deberán ser entregadas por el reparador a la Autoridad Fiscalizadora, para que ésta efectué el denuncio por abandono y solicite el comiso del arma.
 
+#### Artículo 169
+
+A.- La DGMN podrá autorizar a los deportistas para hacer transformaciones, solo para fines deportivos, a sus armas inscritas para deporte y siempre que no impliquen una transformación estructural de las armas. No podrá modificarse el número de serie o sistema de individualización y el funcionamiento del arma. Para tales efectos deberán presentar una solicitud ante la A.F. competente, acompañando una carta de la Federación correspondiente que avale la transformación. Dichos antecedentes serán remitidos a la DGMN quien analizará y posteriormente podrá autorizar o rechazar.
+
 ## Capítulo IX
 
 De la Adquisición y Tenencia de las Municiones
 
 #### Artículo 170
 
-Para los efectos de la Ley y del presente Reglamento, las municiones se clasifican de la siguiente forma:
+Para efectos del reglamento las municiones se clasifican de la siguiente forma:
 
-a) Cartuchos de Proyectil único.
+1. Para armas de fuego:
 
-Empleados en armas cortas y largas de cañón estriado o liso, cuya característica principal es que al momento del disparo sale por la boca del arma un solo proyectil, y que corresponden a fusiles, carabinas, rifles, pistolas, pistoletes y revólveres.
+a. Cartuchos de proyectil único: Empleados en armas cortas y largas de cañón de ánima estriada o lisa, cuya característica principal es que al momento del disparo sale por la boca o las bocas del arma uno o más proyectiles y que corresponden, principalmente, a fusiles, carabinas, rifles, pistolas, pistoletes y revólveres.
 
-b) Cartuchos de proyectiles múltiples.
+b. Cartuchos de proyectiles múltiples: Empleados en armas cortas y largas de cañón de ánima lisa, cuya característica principal es que al momento del disparo salen por la boca del arma proyectiles conocidos como perdigones o postas y que corresponden, principalmente, a escopetas.
 
-Empleados en armas cortas y largas de cañón liso, cuya característica principal es que al momento del disparo salen por la boca del arma una determinada cantidad de proyectiles, conocidos como perdigones o postas y que corresponden principalmente a escopetas.
+Los calibres autorizados y aquellos prohibidos los propondrá el BPCH a la DGMN.
 
-c) Cartuchos de uso industrial.
+Los cargadores y tubos cargadores tendrán una cantidad máxima de cartuchos autorizados de proyectil único o múltiple conforme al uso de las armas. Estas cantidades serán dispuestas y actualizadas por la DGMN mediante resolución.
 
-Empleados en herramientas especiales de disparo con fines de uso industrial.
+2. Para otras aplicaciones:
+
+a. Cartuchos de uso industrial: Empleados en herramientas especiales de disparo utilizados, generalmente, en la construcción y minería.
+
+b. Cartuchos de fogueo: Empleados en armas de fogueo para simular el sonido de un disparo, pero no expulsan proyectil.
+
+c. Cartuchos de fogueo para entrenamiento: Empleados en armas de fuego para entrenamiento, expulsando un proyectil de pintura u otro material blando que no produce daño.
+
+d. Cartuchos para uso de sacrificio de ganado: Munición que ante el disparo acciona un dispositivo o perno cautivo que golpea al animal causándole la muerte.
+
+e. Cartuchos para cañones industriales: Cartucho de calibre mayor para uso en la industria.
+
+El IDIC en su función de Banco de Pruebas de Chile propondrá tipos y calibres prohibidos, autorizados y no controlados a la DGMN y mantendrá actualizado y vigente su listado para conocimiento de los usuarios.
 
 #### Artículo 171
 
@@ -2208,25 +3034,37 @@ De la Adquisición y Tenencia de Sistemas Especiales de Puntería
 
 #### Artículo 175
 
-Los comerciantes debidamente inscritos podrán importar, internar y comercializar miras telescópicas, holográficas o pro-point las que podrán ser usadas exclusivamente en actividades deportivas por las personas naturales y jurídicas que a continuación se indican:
+La instalación de sistemas especiales de puntería en cualquiera tipo de arma de fuego, sin la autorización de la DGMN, la constituye en un arma de fuego prohibida, en los términos de la letra g) del artículo 3 de la ley N° 17.798.
 
-a) Personas naturales que practiquen caza mayor y cuenten con su permiso del Servicio Agrícola y Ganadero (SAG.) al día.
+La DGMN otorgará la autorización en los siguientes casos:
 
-b) Personas naturales que acrediten pertenecer a un Club de Tiro debidamente Federado y practiquen alguna de las siguientes modalidades de Tiro:
+1. Personas naturales que practiquen caza mayor y cuenten con permiso del Servicio Agrícola y Ganadero y de transporte al día.
 
-1) Tiro práctico.
+2. Personas naturales que pertenezcan a clubes de tiro federados que practiquen alguna de las siguientes modalidades de tiro:
 
-2) Fusil alta precisión.
+a. Tiro práctico.
 
-3) Recorridos de tiro y caza con armas largas y cortas.
+b. Fusil de alta precisión.
 
-4) Fusil civil y militar.
+c. Recorridos de tiro y caza con armas largas y cortas.
 
-5) Tiro al blanco en movimiento a 50 mts.
+d. Tiro de fusil civil y militar.
 
-6) Otra modalidad que determine alguna Federación, con autorización de la D.G.M.N.
+e. Tiro al blanco en movimiento a 50 metros.
 
-c) Las Federaciones deportivas, o clubes deportivos, debidamente federados que las adquieran para ser utilizadas por sus socios en las modalidades deportivas antes descritas.
+f. Otra modalidad que lo requiera, determinado por la federación, informada a la DGMN y autorizada por esta.
+
+3. Las federaciones o clubes de tiro o caza federados que las adquieran para ser utilizadas por sus socios en las modalidades de tiro deportivo o caza autorizada, quienes, al momento de su inscripción, informarán las disciplinas que practican y la necesidad de la utilización de estos sistemas especiales de puntería.
+
+4. Los cotos de caza que las adquieran para ser utilizadas por los cazadores que practiquen las modalidades autorizadas en sus dependencias.
+
+En todos estos casos, para adquirirlos, el usuario deberá solicitar, ante la A.F. correspondiente a su domicilio, una orden de compra de sistema especial de puntería, indicando el uso que le dará a estos, la cual podrá ser otorgada luego de verificarse: que el solicitante cumple con todos los requisitos para ser considerado en alguna de las categorías precedentemente indicadas en este artículo y, que la adquisición se realizará a través de algún comerciante autorizado, inscrito como tal en la DGMN.
+
+Los comerciantes autorizados e inscritos deberán llevar un registro de las ventas de sistemas especiales de puntería que realicen y que tengan como fundamento la orden de compra antes referida. Deberán remitir copias de dicho registro a la DGMN con los contenidos y en los plazos que esta determine.
+
+Con esta información y con motivo de su fiscalización posterior, la DGMN confeccionará un registro de los usuarios que hayan adquirido sistemas especiales de puntería con los fines indicados en este artículo. En este registro deberán inscribirse también, a través de la A.F. de su domicilio, aquellos usuarios que cumplan con todos los requisitos precedentes y que con estos mismos fines adquirieron elementos especiales de puntería con anterioridad a la publicación de este reglamento, los que dispondrán para ello de un plazo de un año desde dicha publicación.
+
+Se considerará que el arma fiscalizada ha sufrido una transformación respecto de su condición original, si posteriormente en el marco de alguna fiscalización o control, se evidencia que los usuarios que las utilizan no mantienen vigente alguno de los requisitos que los habilitan para el uso de sistemas especiales de puntería o no se encuentran incluidos en el registro antes mencionado.
 
 ## Capítulo XI
 
@@ -2310,31 +3148,53 @@ De los Coleccionistas
 
 #### Artículo 184
 
-Toda persona natural o jurídica que requiera inscribir más de dos armas de colección, deberá estar previamente inscrita en el registro de coleccionistas de armas de fuego.
+Toda persona natural o jurídica que requiera inscribir más de dos armas de colección deberá estar previamente inscrita en el registro de coleccionistas de armas de fuego.
 
-A esta inscripción podrán optar quienes se encuentren en posesión de armas antiguas o de aquellas que por su valor histórico, diseño especial, línea secuencial de fabricación, mecanismos especiales u otros aspectos que merezcan ser calificados como tales. Las armas podrán mantener las características y estado original de fabricación.
+Las personas naturales o jurídicas autorizadas como coleccionistas antes de la publicación de la ley N° 21.412 quedan facultadas para mantener sus armas inscritas hasta esa fecha, con sus características y estado original, cumpliendo las medidas de seguridad dispuestas en el presente Reglamento de acuerdo con la cantidad de armas.
 
-No obstante lo anterior, las armas que sean inscritas para colección deberán corresponder a las permitidas por la Ley.
+Sin perjuicio de lo anterior, a partir del 25 de enero del año 2022, una persona podrá inscribir un máximo de 10 (diez) armas de colección con sus características y estado original, aptas para el disparo.
+
+De requerir una cantidad mayor por circunstancias calificadas podrá solicitar a la DGMN una autorización especial que le permita inscribir un total de 20 armas de fuego en esta condición, aptas para el disparo, la que será otorgada mediante resolución fundada que deberá ser renovada anualmente.
+
+Adicionalmente, el coleccionista que lo desee podrá tener además armas inutilizadas, las que completarán el cupo máximo de 50 armas de colección en total autorizadas para inscribir, de tal forma que si tiene inscritas 10 armas en estado original podrá inscribir hasta 40 inutilizadas.
+
+A esta inscripción podrán optar quienes se encuentren en posesión de armas permitidas, nuevas o usadas, aptas o no para el disparo que, por su estética, diseño, lugar y año de fabricación, interés histórico, características especiales, línea secuencial de fabricación, mecanismos especiales u otras características distintivas sean calificadas como tales por la DGMN.
+
+Las armas antiguas fabricadas con anterioridad al año 1900 se considerarán siempre como de colección.
+
+Quedan exceptuados de lo anterior los museos y personas jurídicas sin fines de lucro que cuenten con autorización excepcional de la DGMN, siempre que ellas tengan por objeto la protección y difusión del patrimonio.
+
+Se exceptúa de dicho límite al Servicio Nacional del Patrimonio Cultural. En todo caso todas las armas de museo deberán estar inscritas.
 
 #### Artículo 185
 
 Para obtener la inscripción, los interesados deberán acompañar los siguientes antecedentes:
 
-a) Presentar solicitud ante la Autoridad Fiscalizadora respectiva.
+a) Presentar solicitud ante la A.F. respectiva.
 
 b) Certificado de Antecedentes para Fines Especiales.
 
-c) Certificado del Banco de Pruebas de Chile, con el fin de obtener su exacta identificación, estado de uso y determinar si corresponde a un arma permitida por la Ley.
+c) Informe de inspección del lugar de almacenamiento.
+
+d) El certificado del BPCH, con el fin de obtener su exacta identificación, estado de uso y determinar si corresponde a un arma permitida por la ley.
+
+En el caso de las armas inutilizadas el BPCH deberá en su certificado de asistencia técnica establecer que la inutilización no puede ser reversible.
 
 #### Artículo 186
 
-La Inscripción como Coleccionista deberá ser renovada cada cinco años contados desde la fecha de la inscripción. Aquellas personas que ya se encuentran inscritas tendrán un plazo de 180 días para cumplir con los nuevos requisitos fijados por el presente reglamento.
+La inscripción como coleccionista deberá ser renovada cada 5 años contados desde la fecha de la inscripción, con excepción de aquellas autorizadas mediante resolución fundada de la DGMN que deberán renovarse anualmente.
 
 La Autoridad Fiscalizadora antes de entregar la tarjeta de renovación de la inscripción, deberá coordinar con el poseedor o tenedor de las armas, con el objeto de verificar en el bien raíz donde éstas se encuentran inscritas, las medidas de seguridad, almacenamiento y cantidades autorizadas.
 
+La persona que no renueve en la fecha dispuesta deberá realizar una nueva inscripción y para ésta se deberá cumplir con los requisitos legales y reglamentarios vigentes para los coleccionistas a esa fecha.
+
 #### Artículo 187
 
-Los usuarios inscritos como Coleccionistas, que tengan o soliciten tener entre 11 y 30 armas de colección, deberán cumplir con las siguientes medidas mínimas de seguridad en la instalación donde quedarán guardadas las armas:
+Para el almacenamiento de armas deberán cumplirse las siguientes medidas de seguridad:
+
+1. Custodia de 3 a 8 armas.
+
+Las personas que posean entre 3 y 8 armas de fuego inscritas sin importar su uso, deberán guardarlas al interior de una caja metálica con candado o mecanismo de seguridad similar y en un lugar que cuente con una puerta con cerrojo o chapa de seguridad, lo que deberá ser inspeccionado por parte de la A.F. competente.
 
 a) Puerta de seguridad con doble chapa y llaves.
 
@@ -2342,25 +3202,53 @@ b) En caso de existir ventanas, deben estar con protección metálica lo suficie
 
 c) Sistema de alarma sonora con respaldo energético ante corte intencional o imprevisto de electricidad.
 
-d) Si el domicilio donde se guardan las armas, permanece por períodos prolongados sin moradores, el coleccionista deberá retirar los cierres a las armas y guardarlos en forma separada.
+d) Si el domicilio donde se guardan las armas permanece por períodos prolongados sin moradores, el coleccionista deberá retirar los cierres a las armas y guardarlos en forma separada.
 
 e) Cualquier otra medida que permita dar mayor seguridad y protección a las armas de colección.
 
-Aquellos coleccionistas que deseen mantener entre 30 y 200 armas inscritas, cantidad máxima por coleccionista para estos fines, deberán contar con una dependencia como sala de armas, que cumpla con las siguientes características:
+2. Custodia de 9 a 20 armas de fuego operacionales.
+
+Los usuarios inscritos como coleccionistas, que tengan o soliciten tener entre 9 y 20 armas de colección, deberán cumplir con las siguientes medidas mínimas de seguridad en la instalación donde quedarán guardadas las armas:
+
+a) Puerta de seguridad con doble chapa y llaves.
+
+b) La dependencia debe ser de uso exclusivo para guardar las armas.
+
+c) En caso de existir ventanas, deben estar con protección metálica lo suficientemente resistentes para impedir el acceso de personas.
+
+d) Sistema de alarma sonora con respaldo energético ante corte intencional o imprevisto de electricidad.
+
+e) Si el domicilio donde se guardan las armas permanece por períodos prolongados sin moradores, el coleccionista deberá retirar los cierres de las armas y guardarlos en forma separada en otra dependencia segura.
+
+f) Cualquier otra medida que permita dar mayor seguridad y protección a las armas de colección.
+
+Estas medidas de seguridad también serán aplicables a aquellos coleccionistas que poseen hasta 50 armas no aptas para el disparo.
+
+Las personas que sean deportistas calificados y que posean entre 9 y 20 armas de fuego inscritas, deberán dar cumplimiento a las medidas de seguridad anteriormente indicadas.
+
+3. Custodia de 21 o más armas de fuego operacionales.
+
+Aquellos coleccionistas que, a la fecha de publicación de la ley N° 21.412, mantienen más de 20 armas inscritas para colección con sus características y estado original, deberán contar con una sala de armas que cumpla con las siguientes características:
 
 a) Construcción sólida de albañilería, con doble puerta de seguridad con chapa y llaves.
 
 b) La dependencia debe ser de uso exclusivo para guardar las armas.
 
-c) Ventanas protegidas con rejas de fierro y de un tamaño que no permita el ingreso de una persona.
+c) Ventanas protegidas con rejas de fierro empotradas y de un tamaño que no permita el ingreso de personas.
 
-d) Iluminación interior, y del perímetro del lugar de almacenamiento.
+d) Iluminación interior y del perímetro del lugar de almacenamiento.
 
-e) Sistema de alarma sonora del domicilio conectado a Carabineros de Chile, agregando a ésta, sensores de percusión y movimiento para el lugar específico de almacenamiento.
+e) Sistema de alarma del domicilio, cuya empresa se encuentre conectada a Carabineros de Chile.
 
-f) Si el domicilio donde se guardan las armas, permanece por períodos prolongados sin moradores, el coleccionista deberá retirar los cierres a las armas y guardarlos en forma separada.
+f) Sistema de alarma compuesto por sensores de percusión y movimiento para el lugar específico de almacenamiento.
 
-g) Cualquier otra medida que permita dar mayor seguridad y protección a las armas de colección.
+g) Si el domicilio donde se guardan las armas permanece por períodos prolongados sin moradores, el coleccionista deberá retirar los cierres a las armas y guardarlos en forma separada en otra dependencia segura.
+
+h) Circuito cerrado de televisión.
+
+i) Cualquier otra medida que permita dar mayor seguridad y protección a las armas de colección.
+
+Las personas que sean deportistas calificados y que posean más de 20 armas de fuego inscritas, deberán dar cumplimiento a las medidas de seguridad anteriormente indicadas.
 
 #### Artículo 188
 
@@ -2368,11 +3256,13 @@ Cumplido lo anterior, la Autoridad Fiscalizadora, previa coordinación con el so
 
 Posteriormente, la Autoridad Fiscalizadora emitirá una resolución, en la que deberá quedar establecido el número de armas que se autoriza inscribir con fines de colección, cantidades que no podrán sobrepasar las máximas autorizadas.
 
+#### Artículo 188
+
+A.- Los coleccionistas que mantengan armas inscritas con anterioridad a la publicación de la ley N° 21.412, por sobre los máximos establecidos en la ley N° 17.798, podrán conservarlas siempre que cumplan los requisitos para ello. En caso de transferir una o varias de ellas, no podrán inscribir otras para reemplazarlas, si con ello sobrepasan los máximos legales.
+
 #### Artículo 189
 
 Si un coleccionista mantiene almacenadas sus armas en más de un lugar, deberá cumplir con una inscripción para cada uno de ellos, cumpliendo con las medidas de seguridad dispuestas cuando se trate de almacenamientos de más de 10 o 30 armas según corresponda.
-
-En todo caso, el coleccionista no podrá sobrepasar las 200 armas en total.
 
 #### Artículo 190
 
@@ -2382,6 +3272,10 @@ La Autoridad Fiscalizadora entregará un padrón que acredite la Inscripción de
 
 Las personas que se encuentren inscritas como coleccionistas deberán dar cumplimiento a las medidas de seguridad antes indicadas, para lo cual la Autoridad Fiscalizadora al momento de la renovación de la inscripción, deberá verificar su implementación.
 
+#### Artículo 191
+
+A.- Los herederos o legatarios de causantes de armas de colección inscritas con anterioridad al 31 de julio de 2021 podrán también conservarlas. Para ello deberán cumplir los requisitos establecidos en la ley N° 17.798 y no estarán habilitados para solicitar nuevas inscripciones, si con ello excedieren el límite establecido.
+
 #### Artículo 192
 
 Las Autoridades Fiscalizadoras no otorgarán autorizaciones para comprar munición, para aquellas armas que se encuentren inscritas como de colección.
@@ -2389,6 +3283,50 @@ Las Autoridades Fiscalizadoras no otorgarán autorizaciones para comprar munici�
 Las personas naturales o jurídicas que deseen coleccionar municiones deberán inscribirse en el registro de coleccionistas de munición, para lo cual deberán presentar, un Certificado de Antecedentes para Fines Especiales y acreditar domicilio conocido.
 
 Sólo estarán autorizados para mantener en su poder y en lugar autorizado, la cantidad máxima de tres proyectiles por cada tipo de munición permitida.
+
+#### Artículo 192
+
+A.- Los coleccionistas de munición deberán cumplir con las siguientes medidas mínimas de seguridad:
+
+1. Estante metálico o de madera, adosado a la muralla.
+
+2. Si el estante cuenta con puerta transparente, estas deben estar con alarma que denuncie su ruptura.
+
+3. La puerta de seguridad de ingreso de la dependencia debe contar con doble chapa y llaves.
+
+4. En caso de que el lugar de almacenamiento esté separado de la casa deberá contar con un sistema de alarma sonora con respaldo energético ante corte intencional o imprevisto de electricidad.
+
+5. Para el caso de las casas, las ventanas deben estar con protección metálica lo suficientemente resistente para impedir el acceso de personas, para los departamentos hasta el tercer piso, la protección puede ser al interior de la dependencia.
+
+6. Cualquier otra medida que permita dar mayor seguridad y protección a la munición, podrá incrementar o reemplazar alguno de los requisitos anteriores.
+
+#### Artículo 192
+
+B.- La A.F. efectuará la verificación de la implementación de las medidas de seguridad declaradas por éste, previa coordinación con el solicitante.
+
+Posteriormente, la A.F. emitirá un informe en el cual se pronunciará sobre si el lugar de almacenamiento cumple con los requisitos y su proposición fundada para autorizar o denegar esta solicitud. Este informe debe ser enviado a la DGMN para la emisión de la resolución.
+
+Una vez recibida la resolución de acreditación de coleccionista en munición, la A.F. entregará al solicitante un padrón el cual llevará impreso el nombre del coleccionista, la fecha de vencimiento y domicilio declarado.
+
+#### Artículo 192
+
+C.- Si un coleccionista mantiene almacenadas sus municiones en más de un lugar, deberá tener una inscripción para cada uno de ellos, cumpliendo con las medidas de seguridad dispuestas y cantidades autorizadas para cada persona.
+
+#### Artículo 192
+
+D.- Estos coleccionistas deben ser incluidos en el plan anual de inspecciones de la A.F., considerando a lo menos dos veces al año esta actividad.
+
+#### Artículo 192
+
+E.- La inscripción tendrá una validez de cinco años y las renovaciones deberán ser solicitadas antes de la fecha de su vencimiento presentando un Certificado de Antecedentes para Fines Especiales. Si no se hace dentro de dicho plazo, la inscripción se considera caducada y el interesado deberá solicitar una nueva inscripción, dando un plazo máximo para esta nueva inscripción de 10 días hábiles. De no cumplirse con el plazo la A.F. deberá solicitar la entrega de la munición.
+
+En caso de que un coleccionista no desee renovar su inscripción, podrá traspasar la munición a otra persona que cumpla con los requisitos establecidos mediante una Guía de Libre Tránsito, donar a un museo inscrito en la DGMN o entregar para su destrucción.
+
+#### Artículo 192
+
+F.- Para ejercer sus actividades específicas los museos que cuenten con armas de fuego u otros elementos controlados por la ley N° 17.798, deberán estar inscritos en los Registros Nacionales de la Dirección General, inscripción que deberá realizar ante la A.F. correspondiente a su domicilio.
+
+La DGMN, conforme a las atribuciones conferidas en el presente reglamento, emitirá mediante Resoluciones las disposiciones que autoricen dichas inscripciones, indicando aspectos legales, requisitos de almacenamiento y de seguridad en las instalaciones, de acuerdo con las cantidades de armas de fuego u otros elementos controlados que posea cada Museo.
 
 ## Capítulo XIII
 
@@ -2414,43 +3352,69 @@ c) Certificado del Club que acredite la vigencia como socio y proyección como d
 
 d) Documento de la Federación de la cual depende el Club, en que certifique las disciplinas que practica en la condición de deportista, y que justifican la necesidad de contar con una mayor cantidad de armas y municiones.
 
+e) Documento de la federación correspondiente que certifique el ranking de los últimos tres años.
+
 #### Artículo 195
 
-Los Deportistas que soliciten esta inscripción, deberán además cumplir con las medidas de seguridad para el almacenamiento de las armas y municiones dispuestas en el artículo N° 187° para los coleccionistas que almacenan hasta 30 armas de fuego.
+Los deportistas que soliciten esta inscripción deberán cumplir con las medidas de seguridad para el almacenamiento de las armas y municiones dispuestas en el artículo 112 del presente Reglamento.
 
-La Autoridad Fiscalizadora previa coordinación con el solicitante, efectuará la verificación de las medidas de seguridad y certificará la cantidad de armas que puede almacenar.
+La A.F. efectuará una inspección domiciliaria para la verificación de las medidas de seguridad y propondrá la cantidad de armas que puede almacenar, previa coordinación con el solicitante.
 
-La Autoridad Fiscalizadora remitirá todos los antecedentes a la Dirección General, para su estudio y resolución, sobre la solicitud de la tenencia de una mayor cantidad de armas y municiones en la condición de deportista calificado.
+Sobre la solicitud para la inscripción de una mayor cantidad de armas y/o adquisición de una mayor cantidad de municiones, en la condición de deportista de alto rendimiento la A.F. emitirá una opinión con respecto a la solicitud enviándola junto a todos los antecedentes a la DGMN para su estudio y resolución.
 
 #### Artículo 196
 
 Los Deportistas Calificados deberán revalidar cada 3 años la Resolución que los acredita como tales, para lo cual deberán presentar la documentación establecida en el artículo N° 194°.
 
+#### Artículo 196
+
+A.- La DGMN, por resolución fundada, podrá autorizar hasta un máximo de veinte armas de fuego, incluidas las seis de deportista.
+
+#### Artículo 196
+
+B.- Los deportistas calificados que al momento de la publicación de la ley N° 21.412 mantenían inscripciones por una cantidad de armas de fuego superior a 20, las podrán mantener mientras cumplan con la normativa y medidas de seguridad dispuestas en el artículo 187 del presente Reglamento. En todo caso, estos deportistas quedarán inhabilitados para adquirir más armas de fuego en esta condición.
+
 #### Artículo 197
 
 Aquellos Deportistas Calificados que al momento de revalidar su inscripción, no se encuentren en actividad de alta competencia deportiva, deberán transferir sus armas o inscribirse como Coleccionistas y regirse bajo las condiciones que establece este tipo de inscripción.
 
+#### Artículo 197
+
+A.- Los deportistas y deportistas calificados podrán hacer transformaciones a sus armas inscritas para deporte, exceptuando el número de serie o sistema de individualización y funcionamiento.
+
+Para tales efectos deberán presentar una solicitud ante la A.F. competente, acompañando una carta de la Federación correspondiente que avale la transformación. Dichos antecedentes serán remitidos a la DGMN quien analizará y posteriormente podrá autorizar o rechazar mediante una resolución fundada.
+
+Una vez realizada dicha transformación, deberá ser certificada a través de un informe del BPCH.
+
 ## Capítulo XIV
 
-De los Elementos de Defensa Personal o Autoprotección
+De las Armas Basadas en Pulsaciones Eléctricas y de Autoprotección
+
+A. De las Armas de Pulsaciones eléctricas
 
 #### Artículo 198
 
-Los comerciantes de elementos lacrimógenos y bastones eléctricos o electroschock deberán dar cumplimiento a las siguientes disposiciones:
+Los comerciantes de armas tipo bastones eléctricos, electroshock o basados en pulsaciones eléctricas y sus cartuchos de recambio, deberán dar cumplimiento a las siguientes disposiciones:
 
-a) Estar inscritos en los Registros Nacionales de la Dirección General, como comerciante e importador, si es el caso.
+a) Estar inscritos en los registros nacionales de la DGMN, como comerciante e importador, si es el caso.
 
-b) La importación e internación de estos productos deberán contar con las respectivas Resoluciones emitidas por la Dirección General.
+b) La importación e internación de estos productos deberá contar con las respectivas autorizaciones emitidas por la DGMN.
 
-c) Previo a su comercialización, todos los elementos deberán contar con el Certificado de Control de Calidad emitido por el Banco de Pruebas de Chile.
+c) Todas las armas basadas en pulsaciones eléctricas deberán traer como marcaje mínimo de fábrica, la marca, modelo, número de serie y país de origen.
+
+d) Previo a su comercialización, todos los elementos deberán contar con el Certificado de Asistencia Técnica emitido por el BPCH.
+
+e) Estas armas de pulsaciones eléctricas deberán ser inscritas en el registro nacional de armas.
 
 #### Artículo 199
 
-Los comerciantes podrán vender estos elementos de autoprotección al público, sin la respectiva Autorización de compra, para lo cual mantendrán un libro foliado de existencias en forma separada para cada elemento, en el que consignarán los antecedentes de los compradores, referidos a nombre completo, RUN., domicilio, fecha de la venta y firma del comprador. Este libro deberá ser presentado a la A.F. cada vez que se requiera una nueva importación o cuando ésta lo solicite.
+Los comerciantes podrán vender estas armas de autoprotección y sus cartuchos de repuesto al público con la respectiva Autorización de Comprar, no requiriendo para su traslado Guía de Libre Tránsito, permiso de porte o transporte.
+
+La A.F. comprobará por medio de inspecciones en terreno la seguridad y capacidad del lugar donde quedarán almacenados estos productos, quedando prohibida su venta en la vía pública o en otro lugar no autorizado.
 
 #### Artículo 200
 
-La comercialización sólo podrá ser efectuada a mayores de 18 años y en locales comerciales legalmente inscritos. La Autoridad Fiscalizadora comprobará la seguridad y capacidad del lugar donde quedarán almacenados estos productos, quedando prohibida su venta en la vía pública o en otro lugar no autorizado.
+La comercialización solo podrá ser efectuada a mayores de edad y en locales comerciales legalmente inscritos.
 
 #### Artículo 201
 
@@ -2458,9 +3422,57 @@ Los comerciantes remitirán mensualmente, durante los cinco primeros días de ca
 
 #### Artículo 202
 
-Las características de los elementos a que se refiere este capitulo serán determinadas por el Banco de Pruebas de Chile, el que analizará las muestras proporcionadas por los comerciantes sobre la base de las tablas de muestreo de las normas chilenas.
+Las características técnicas de los elementos a que se refiere este capítulo serán verificadas por el BPCH, el que analizará las muestras proporcionadas por los comerciantes. Estas armas deberán poseer un sistema electrónico de control de proceso de descarga en su funcionamiento y sus características técnicas no podrán exceder los siguientes parámetros:
 
-Elementos Lacrimógenos
+- Fuente de alimentación ≤36 Vdc.
+
+- Energía máxima ≤36 Vdc
+
+- Duración del Pulso ≤12 µ seg
+
+- Frecuencia de los Pulsos ≤33 p.p.s
+
+- Corriente Peak ≤10 Amp. (sobre una carga de 4.000 Ohm.)
+
+- Corriente x tiempo ≤5 Amp. por µ seg.
+
+- Potencia máxima ≤10 Watts [W]
+
+- Voltaje máximo de salida ≤100.000 Volts [V]
+
+La proyección de electrodos o puntas de contacto a distancia de estas armas de pulsos eléctricos para uso defensivo, no podrán exceder de los 5 metros.
+
+Las dimensiones físicas del bastón o electroshock no podrán exceder de los 20 centímetros, medido desde su lado de mayor longitud y su volumen máximo permitido será de 200 centímetros cúbicos.
+
+El control de estas características físicas y técnicas será certificado por el IDIC, en su función de BPCH al ingresar los elementos al país.
+
+Cualquier otro ingenio de similares características menos letales o no letales que pudiesen ofrecerse en el mercado, deberán ser aprobados por el BPCH y el Ministerio de Salud, si así correspondiere.
+
+#### Artículo 202
+
+A.- El BPCH, a requerimiento de la DGMN, informará a ésta de las características técnicas de los productos que serán autorizados para su comercialización como de aquellos ingenios basados en pulsaciones eléctricas que sean presentados a futuro.
+
+En todo caso, estos elementos son de carácter defensivo y deberán corresponder solo a aquellos que permitan reducir al agresor por pérdida o disminución temporal de sus sentidos y, en ningún caso, podrán tener efectos mortales.
+
+#### Artículo 202
+
+B.- Para el caso de empresas de vigilantes privados debidamente autorizadas por el OS-10 de Carabineros de Chile, la DGMN analizará caso a caso la solicitud presentada.
+
+B. De los Elementos Lacrimógenos
+
+#### Artículo 202
+
+C.- Los comerciantes de elementos lacrimógenos defensivos deberán dar cumplimiento a las siguientes disposiciones:
+
+1. Estar inscritos en los registros nacionales de la DGMN como comerciante importador si es el caso, conforme las disposiciones del artículo 39 y siguientes del presente Reglamento.
+
+2. La importación e internación de estos productos deberá contar con las respectivas resoluciones emitidas por la DGMN que las autorizan, de acuerdo con lo dispuesto en los artículos 61 y 62 del presente Reglamento.
+
+3. Previo a su comercialización, todos los elementos deberán contar con el certificado de conformidad emitido por el BPCH.
+
+#### Artículo 202
+
+D.- Los comerciantes podrán vender estos elementos lacrimógenos sin Autorización para Comprar al público, para lo cual mantendrán un libro foliado u otro sistema tecnológico de control validado por la DGMN, que contenga las existencias en forma separada para cada elemento, en el que consignará el nombre completo del comprador, cédula de identidad, domicilio, fecha de venta, número del lote, marca, huella dactilográfica y firma del comprador. Este libro o la información que entregue el sistema deberán ser presentados a la A.F. cada vez que se requiera una nueva importación o cuando ésta lo solicite.
 
 #### Artículo 203
 
@@ -2474,15 +3486,43 @@ Queda prohibido la tenencia, uso, fabricación y comercialización e importació
 
 Los contenedores de dichos productos, deberán cumplir las siguientes normas:
 
-- Radio de acción máximo efectivo de cinco metros. - Volumen máximo del recipiente de 200 centímetros cúbicos, considerando que el largo máximo no podrá exceder los 20 centímetros.
+1. Radio de acción máximo efectivo de 5 metros.
 
-Bastones Eléctricos o Electroshock
+2. Volumen máximo del recipiente de 200 centímetros cúbicos, considerando que el largo máximo no podrá exceder los 20 centímetros.
+
+Para el caso de empresas de vigilantes privados estos deben estar autorizadas por el OS-10 de Carabineros de Chile.
+
+#### Artículo 205
+
+A.- Las instalaciones para el almacenamiento de electroshock y elementos lacrimógenos deberán cumplir con los requisitos establecidos en el artículo 112 letras a, b, c, d, e, f, y otras medidas o ingenios que el usuario pueda implementar a futuro para mayor seguridad del recinto.
+
+C. Bastones Eléctricos o Electroshock
 
 #### Artículo 206
 
 El Banco de Pruebas de Chile a requerimiento de la Dirección General, informará a ésta de las características técnicas de los productos que serán autorizados para su comercialización.
 
 En todo caso, estos elementos deberán corresponder sólo a aquellos que permitan reducir al agresor por pérdida o disminución temporal de sus sentidos, y en ningún caso podrán tener efectos mortales.
+
+## Capítulo XV
+
+Del Plan Anual de Fiscalizaciones de Armas de Fuego y Municiones
+
+#### Artículo 206
+
+A.- La DGMN como ente a cargo de la supervigilancia y control de la ley, actuará como coordinador en elaboración del Plan Anual de Fiscalizaciones de Armas de Fuego y Municiones. Para esta actividad la Jefatura de Zona de Seguridad Privada y Control de Armas, Carabineros de Chile y la Policía de Investigaciones de Chile, deberán designar personal de sus unidades quienes en conjunto deberán elaborar y proponer anualmente un plan de fiscalizaciones coordinado, el que deberá ser presentado hasta el 30 de agosto de cada año al Ministerio del Interior y Seguridad Pública y al Ministerio de Defensa Nacional para su revisión, coordinación y aprobación. Este será aplicado a partir del año inmediatamente siguiente. Este Plan será autorizado y divulgado a quienes corresponda por medio de una resolución conjunta del Ministerio de Defensa Nacional y Ministerio del Interior y Seguridad Pública, con carácter de reservado.
+
+#### Artículo 206
+
+B.- Este plan anual a nivel nacional definirá la acción de fiscalización coordinada y según la distribución territorial que se establezca en él, considerando capacidades de las instituciones participantes y con patrones o criterios de búsqueda, tales como: armas de personas fallecidas que aún continúan sin ser transferidas o entregadas en forma voluntaria para su destrucción, cambios de domicilio del arma sin informar a la A.F., armas con constancia de robo, hurto o extravío por comunas, cancelaciones de armas de fuego no materializadas por no corresponder domicilio, armas inscritas en una dirección por varias personas y de otros antecedentes entregados por los organismos de inteligencia con que se cuente al momento de coordinación y trabajo de este Plan Anual de Fiscalizaciones. En todo caso los patrones o criterio para la elaboración de este plan son dinámicos por lo cual pueden ir variando cada año.
+
+#### Artículo 206
+
+C.- El plan que se elabore deberá contar con indicadores cualitativos y cuantitativos de cumplimiento, con el propósito de poder ir realizando evaluaciones y mejoras continuas al trabajo que se está haciendo. A los 6 meses de iniciado este plan, las Fuerzas de Orden y Seguridad Pública y autoridades fiscalizadoras deberán remitir a la DGMN un informe con los resultados obtenidos a la fecha, cuyo formato y aspectos de detalle serán coordinados en las reuniones iniciales de la elaboración del plan. Posteriormente la DGMN deberá trabajar en conjunto con los delegados de las autoridades fiscalizadoras y de las Fuerzas de Orden y Seguridad Pública un informe final que deberá considerar los resultados del año.
+
+Los controles realizados por los fiscalizadores se regirán por los horarios, días y otras normas dispuestas por la ley N° 17.798 y este Reglamento en materia de fiscalizaciones en domicilio de las armas inscritas y recintos en que sean almacenadas o usadas las armas de fuego.
+
+De toda fiscalización deberá quedar constancia en el Sistema de registro de la DGMN conforme a procedimientos entregados por esta, de acuerdo con los criterios de búsqueda determinados para el periodo.
 
 ### VI. TITULO SEXTO
 
@@ -3568,6 +4608,8 @@ Los importadores inscritos como comerciantes podrán mantener existencias de Art
 
 > **Nota.** El artículo transitorio del decreto 271, Defensa, publicado el 23.12.2022, establece que las modificaciones que introduce en la presente norma se encontrarán vigentes durante los años 2022 y 2023.
 
+> **Nota.** NOTA 1 El numeral 2 del artículo segundo del Decreto 32, Defensa, publicado el 21.12.2023, modifico el articulo transitorio del Decreto 271, Defensa, publicado el 23.12.2022, en el sentido de reemplazar la expresión "2022 y 2023" por la expresión "2022, 2023, 2024, y 2025" prorrogando la vigencia de las modificaciones hasta el año 2025.
+
 #### Artículo 305
 
 Sólo se autorizará la internación de Artificios Pirotécnicos a las empresas importadoras que cuenten con un Almacén de Artificios autorizados y con inscripción vigente.
@@ -3578,6 +4620,8 @@ Los certificados de control emitidos por el Banco de Pruebas de Chile en la insp
 
 > **Nota.** El artículo transitorio del decreto 271, Defensa, publicado el 23.12.2022, establece que las modificaciones que introduce en la presente norma se encontrarán vigentes durante los años 2022 y 2023.
 
+> **Nota.** NOTA 1 El numeral 2 del artículo segundo del Decreto 32, Defensa, publicado el 21.12.2023, modifico el articulo transitorio del Decreto 271, Defensa, publicado el 23.12.2022, en el sentido de reemplazar la expresión "2022 y 2023" por la expresión "2022, 2023, 2024, y 2025" prorrogando la vigencia de las modificaciones hasta el año 2025.
+
 ## Capítulo V
 
 De los Espectáculos Pirotécnicos
@@ -3586,9 +4630,9 @@ De los Espectáculos Pirotécnicos
 
 Los Espectáculos Pirotécnicos serán autorizados por la Autoridad Fiscalizadora del lugar donde se efectuará esta actividad, la cual deberá verificar que se cuente con los seguros correspondientes, carta de garantía o resguardo e informe para su instalación, desarrollo y medidas de seguridad, firmado y aprobado por un Programador Calculista, profesional que debe estar acreditado ante la Dirección General.
 
-La persona o empresa que desee efectuar un Espectáculo Pirotécnico deberá solicitar los permisos respectivos con una anticipación de 48 horas.
+La persona o empresa que desee efectuar un Espectáculo Pirotécnico deberá solicitar los permisos respectivos con una anticipación de al menos diez días hábiles.
 
-> **Nota.** El artículo transitorio del decreto 271, Defensa, publicado el 23.12.2022, establece que las modificaciones que introduce en la presente norma se encontrarán vigentes durante los años 2022 y 2023.
+> **Nota.** El numeral 1 del artículo segundo del Decreto 32, Defensa, publicado el 21.12.2023, modifico el articulo 1° del Decreto 271, Defensa, publicado el 23.12.2022, en el sentido de eliminar la letra c del citado artículo el cual disponia reemplázase en el presente artículo la expresión "diez días" por "48 horas" con una vigencia entre el año "2022 y 2023" sin embargo la modificacion por la expresión "2022, 2023, 2024, y 2025" no es aplicable para la presente norma.
 
 #### Artículo 308
 
@@ -3872,6 +4916,14 @@ b) El Banco de Pruebas de Chile, en su función asesora será responsable de mat
 
 5) Asesoría técnica a la Dirección General o Autoridades Fiscalizadoras para dar respuesta a los requerimientos de información, por parte de autoridades, medios de comunicación social u otros que la soliciten.
 
+6) Verificará que el vehículo de transporte cumpla con la normativa vigente dispuesta para el transporte de cargas peligrosas. Además, para el caso de transporte de explosivos verificará que se cumplan la normativa vigente en materia de seguridad, compatibilidad de productos transportados y similares.
+
+7) Verificará que los bultos, embalajes y envases se encuentren debidamente marcados y etiquetados de acuerdo con las normas vigentes. De igual forma y en términos generales, verificará que los productos transportados se encuentren dentro del periodo de vigencia o vida útil, debidamente embalados o envasados de fábrica, sin deterioros, en embalajes o envases resistentes a la deformación y todo otro aspecto que incida en la seguridad del transporte de estos productos.
+
+8) Verificará que los bultos, embalajes y envases de elementos sometidos a control se encuentren debidamente estibados en el vehículo y sujetos por medios apropiados, de forma que se evite el desplazamiento riesgoso de ellos entre sí y con relación a las paredes y plataforma del vehículo.
+
+9) Prestará asesoría técnica a la DGMN o AA.FF., para dar respuesta a los requerimientos de información solicitados por otras autoridades y medios de comunicación social.
+
 c) La Autoridad Fiscalizadora correspondiente a la Aduana por donde ingresarán los productos a Chile, dará cumplimiento a las siguientes actividades:
 
 1) Definición de zonas peligrosas en la ruta nacional, por riesgos de accidentes, congestión de tránsito, influencias de las condiciones climáticas, protestas ciudadanas y otros, proponiendo las medidas de seguridad y protección más adecuadas para esta actividad, considerando el tipo de elementos, cantidad, embalaje, estiba de la carga, vehículos de transporte, experiencia de los conductores y capacitación del personal técnico que los acompaña.
@@ -3933,6 +4985,44 @@ El incumplimiento total o parcial a las obligaciones establecidas en el presente
 NOTA: VER DIARIO OFICIAL DE 13.05.2008, PAGINA 27
 
 > **Nota.** 1) El certificado deberá corresponder al original, en forma manuscrita, con letra clara y sin enmiendas en su totalidad.2) El certificado debe ir en sobre cerrado, él que será entregado por el solicitante ante la Autoridad Fiscalizadora correspondiente.3) La Ley 17.798 de control de armas y elementos similares y su Reglamento Complementario dispone dentro de los requisitos para la Inscripción de Armas de Fuego, la presentación de un Certificado Médico
+
+#### Artículo 323
+
+A.- La DGMN será el único organismo autorizado para disponer, respecto de los usuarios de la Ley de Control de Armas, medidas administrativas que podrán tener aplicación en todo el territorio nacional.
+
+#### Artículo 323
+
+B.- Ante algún pronunciamiento de la Contraloría General de la República sobre alguno de los aspectos regulados por la ley o el presente Reglamento, corresponderá a la DGMN coordinar la aplicación estricta de lo que disponga el órgano contralor.
+
+#### Artículo 323
+
+C.- La DGMN, las Comandancias de Guarnición de las Fuerzas Armadas, la autoridad de Carabineros de Chile de mayor jerarquía u otras autoridades militares o de Carabineros de Chile designadas como AA.FF. en conformidad a las disposiciones de la ley, siempre podrán, en virtud de una resolución fundada, denegar, suspender, condicionar o limitar las autorizaciones que hayan sido conferidas en conformidad a la ley y al presente Reglamento.
+
+Con el objeto de lograr uniformidad en los criterios aplicados al respecto y en cumplimiento de su obligación como Autoridad Central de Coordinación, el ejercicio de estas facultades deberá ser regulada por la DGMN, mediante resoluciones fundadas.
+
+A.- Anexo 1
+
+.
+
+NOTA:
+
+1) El certificado deberá corresponder al original, en forma manuscrita, con letra clara y sin enmiendas en su totalidad.
+
+2) El certificado debe ir en sobre cerrado, él que será entregado por el solicitante ante la Autoridad Fiscalizadora correspondiente.
+
+3) La Ley 17.798 de Control de Armas y elementos similares y su Reglamento Complementario dispone dentro de los requisitos para la Inscripción de Armas de Fuego, la presentación de un Certificado Médico
+
+4) Acreditar que posee una aptitud física y psíquica compatible con el uso de armas, lo que deberá ser certificado por un médico con la especialidad de psiquiatría adulto.
+
+5) Este profesional deberá encontrarse acreditado como médico con la especialidad de psiquiatría adulto en el Registro Nacional de Prestadores Individuales de Salud, que administra la Superintendencia de Salud.
+
+6) Las autoridades fiscalizadoras verificarán en el Registro Nacional de Prestadores Individuales de Salud, que los facultativos cumplan con el requisito establecido, debiendo imprimir el informe y archivar junto con todos los antecedentes de la inscripción del arma de fuego o acreditación correspondiente.
+
+7) Este certificado de aptitud psicofísica tendrá una vigencia de 90 días hábiles desde su emisión, esta evaluación debe ser privada entre el profesional y paciente.
+
+B.- Anexo 2
+
+.
 
 2. Derógase el D.S. (G) Nº 77, de 29 de abril de 1982, que aprobó el Reglamento Complementario de la Ley Nº 17.798, sobre Control de Armas y Elementos Similares.
 
