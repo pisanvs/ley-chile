@@ -1776,7 +1776,7 @@ f. Riego
 
 . Los pavimentos pueden ser de hormigón, asfalto, baldosas, bloques de hormigón, pastelones de hormigón lisos o texturados y ejecutados según el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación.
 
-6.3. AGUA POTABLE LOTEO
+6.3. AGUA POTABLE LOTEOS Y CONDOMINIOS
 
 6.3.1. General
 
@@ -1793,6 +1793,8 @@ b) La incorporación de un sistema de alarma para rebalse, de acuerdo a necesida
 c) Las motobombas deben quedar protegidas de las vibraciones mediante uniones elásticas, las cuales deben instalarse en las tuberías de aspiración e impulsión.
 
 d) Las llaves de paso (de corte) de las bombas deben instalarse de tal forma que permitan el retiro de las bombas sin cortar el suministro de agua potable a la edificación, como asimismo para el reemplazo de piezas (válvula de retención, uniones desmontables, uniones elásticas, etc.).
+
+e) Todos los elementos que conforman el sistema de bombas a utilizar, deberán contar con servicio técnico autorizado por la marca en el país.
 
 . Sólo se acepta grifería metálica.
 
