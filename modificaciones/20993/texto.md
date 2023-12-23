@@ -166,13 +166,13 @@ Las tasaciones a que hacen referencia los numerales i. y ii. anteriores deberán
 
 Con todo, para los casos de los números i. y ii. anteriores, el contribuyente podrá optar por considerar como valor de adquisición, el mayor entre los que se señalan a continuación, y el valor indicado en la letra A) de este número 2:
 
-a) La totalidad del valor de tasación informado, en caso que la venta se verifique antes del 31 de diciembre de 2023.
+a) La totalidad del valor de tasación informado, en caso que la venta se verifique antes del 31 de diciembre de 2024.
 
-b) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 70% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2023, pero antes del 31 de diciembre de 2024.
+b) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 70% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2024, pero antes del 31 de diciembre de 2025.
 
-c) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 40% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2024, pero antes del 31 de diciembre de 2025.
+c) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 40% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2025, pero antes del 31 de diciembre de 2026.
 
-d) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 10% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2025, pero antes del 31 de diciembre de 2026.
+d) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 10% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2026, pero antes del 31 de diciembre de 2027.
 
 iii. Reglas comunes a la venta de inmuebles donde funcionan los establecimientos educacionales.
 

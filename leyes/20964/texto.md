@@ -28,9 +28,9 @@ Los trabajadores a que se refiere este artículo también podrán acceder a los 
 
 #### Artículo 3º
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 12.000 asistentes de la educación. Para los años 2016 y 2017 se consultarán 878 para cada año. Para el año 2018 existirán 1000 cupos. Para los años 2019 al 2022, inclusive, se contemplarán 1.561 cupos para cada anualidad. Para los años 2023 al 2025, inclusive, se dispondrán 1.000 cupos para cada año. Los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+Podrán acceder a la bonificación por retiro voluntario hasta un total de 15.000 asistentes de la educación. Para los años 2016 y 2017 se consultarán 878 para cada año. Para el año 2018 existirán 1000 cupos. Para los años 2019 al 2022, inclusive, se contemplarán 1.561 cupos para cada anualidad. Para los años 2023, 2024 y 2025 se dispondrán 1.000, 2.000 y 3.000 cupos respectivamente. Los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
-Para que los trabajadores accedan a la bonificación por retiro voluntario, deberán postular en su respectiva institución empleadora, comunicando su decisión de renunciar voluntariamente en los plazos y formas que fije el reglamento. Las instituciones señaladas en el inciso primero del artículo 1° deberán remitir las postulaciones a la Subsecretaría de Educación, la cual mediante resolución fundada determinará los beneficiarios del correspondiente año.
+Para que los trabajadores accedan a la bonificación por retiro voluntario, deberán postular en su respectiva institución empleadora, comunicando su decisión de renunciar voluntariamente en los plazos y formas que fije el reglamento. Las instituciones señaladas en el inciso primero del artículo 1° deberán remitir las postulaciones a la Subsecretaría de Educación, en el plazo máximo que fije dicha Subsecretaría, la cual mediante resolución fundada determinará los beneficiarios del correspondiente año.
 
 En caso de haber un mayor número de postulantes que cupos disponibles para un año, la Subsecretaría de Educación procederá a adjudicarlos de acuerdo a los siguientes criterios de prioridad:
 
@@ -52,6 +52,8 @@ Los trabajadores que resulten beneficiarios de cupos en la bonificación por ret
 
 Sin perjuicio de lo establecido en el artículo siguiente, los trabajadores que se encuentren en la situación establecida en el literal a) de este artículo y que resulten beneficiarios de un cupo, no podrán desistirse de su renuncia voluntaria.
 
+La prioridad señalada en el inciso anterior, se aplicará a las y los Asistentes de la Educación cuyas postulaciones fueron rechazadas en los periodos 2016 al 2021 y cuyo rechazo no fue informado por el sostenedor en los plazos establecidos en la norma.
+
 #### Artículo 4º
 
 Si un trabajador beneficiario de un cupo indicado en el artículo anterior se desistiere de su renuncia voluntaria, la institución empleadora informará de manera inmediata a la Subsecretaría de Educación a fin de que ésta proceda a reasignar el cupo siguiendo estrictamente el orden del listado contenido en la resolución que determinó los beneficiarios del año respectivo. Las mujeres menores de 65 años de edad que, habiendo sido seleccionadas con un cupo se desistieran, no lo conservarán para los siguientes años, debiendo volver a postular, conforme a las normas que establezca el reglamento.
@@ -72,7 +74,7 @@ La utilización de los anticipos obtenidos en virtud de esta ley a fines diferen
 
 #### Artículo 7º
 
-Los trabajadores y las trabajadoras que, acogiéndose a la bonificación por retiro voluntario de la presente ley, tengan a la fecha del retiro una antigüedad mínima de diez años continuos de servicios efectivamente prestados en la calidad de asistentes de la educación en las entidades señaladas en el artículo 1° tendrán derecho a percibir, por una sola vez, una bonificación adicional por antigüedad de cargo fiscal. El monto de la bonificación adicional dependerá de los años de servicios de cada trabajador prestados en la calidad de asistentes de la educación en las entidades que señala el artículo 1º, adicionando, si procede, el tiempo servido en los organismos o entidades educacionales del sector público que se hayan traspasado a la Administración Municipal, de acuerdo a la tabla que se incluye a continuación:
+Los trabajadores y las trabajadoras que, acogiéndose a la bonificación por retiro voluntario de la presente ley, tengan a la fecha del retiro una antigüedad mínima de diez años continuos de servicios efectivamente prestados en la calidad de asistentes de la educación en las entidades señaladas en el artículo 1° tendrán derecho a percibir, por una sola vez, una bonificación adicional por antigüedad de cargo fiscal. Para estos efectos, se computarán como años continuos de servicio aquellos desempeñados, sin solución de continuidad, en una o más de las entidades señaladas en el artículo 1. El monto de la bonificación adicional dependerá de los años de servicios de cada trabajador prestados en la calidad de asistentes de la educación en las entidades que señala el artículo 1º, adicionando, si procede, el tiempo servido en los organismos o entidades educacionales del sector público que se hayan traspasado a la Administración Municipal, de acuerdo a la tabla que se incluye a continuación:
 
 Antigüedad Monto de la Bonificación
 

@@ -640,6 +640,8 @@ La Dirección de Presupuestos informará a la Contraloría General de la Repúbl
 
 La Dirección de Presupuestos y su personal deberán guardar absoluta reserva y secreto de los datos personales de que tomen conocimiento en virtud de la presente disposición, y abstenerse de usar dicha información en beneficio propio o de terceros. Para efectos de lo dispuesto en el inciso segundo del artículo 125 del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, se estimará que los hechos que configuren infracciones de esta disposición vulneran gravemente el principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan.
 
+La Dirección de Presupuestos publicará semestralmente en su página web institucional la información disponible y consolidada por institución del número de trabajadores informados en la nómina a que se refiere el inciso primero de este artículo. Con todo, la integridad y calidad de la información será de exclusiva responsabilidad de los organismos mencionados en dicho inciso.
+
 #### Artículo 71
 
 Durante el año 2020 no se aplicará la evaluación diagnóstica sobre formación inicial en pedagogía, establecida en el literal a) del artículo 27 bis de la ley Nº 20.129, que debe ser aplicada directamente por el Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, durante los doce meses que anteceden al último año de carrera.

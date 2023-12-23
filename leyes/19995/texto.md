@@ -368,6 +368,12 @@ El permiso de operación se otorgará por un plazo de quince años, contado desd
 
 En ningún caso se podrá otorgar un permiso de operación provisorio.
 
+#### Artículo 26 bis
+
+Si como consecuencia de una resolución que otorga un permiso de operación se produce un periodo de vacancia entre el vencimiento del plazo del permiso de operación de un casino de juego y el inicio de la operación de uno nuevo, que signifique que alguna de las regiones del país no cuente con un casino de juego en funcionamiento conforme al artículo 16, se podrá extender el permiso que está próximo a vencer hasta la fecha de inicio de operaciones del nuevo casino de juego que operará en dicha región. Durante el periodo que dure la extensión del permiso la sociedad operadora deberá dar cumplimiento a todos los requisitos y condiciones que establece esta ley.
+
+La sociedad operadora que ejerza la opción señalada en el inciso anterior deberá realizar, por cada mes que extienda sus operaciones, un pago a beneficio fiscal equivalente al 5% sobre el promedio mensual de los ingresos brutos, considerando para estos efectos los doce meses previos a la extensión. El monto antes señalado se expresará en unidades de fomento y deberá ser pagado mensualmente por la sociedad operadora ante el Servicio de Tesorerías conforme a las instrucciones que al efecto imparta la Superintendencia. Tratándose de periodos de extensión del permiso inferiores a un mes, deberá pagarse la proporción que corresponda.
+
 #### Artículo 27
 
 La resolución que otorgue o renueve un permiso de operación deberá contener, a lo menos, las siguientes menciones:

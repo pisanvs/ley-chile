@@ -466,7 +466,7 @@ Las instituciones públicas a las cuales corresponda asignar los cupos de las le
 
 #### Artículo 56
 
-Derogado.
+El personal asistente de la educación a que se refiere el inciso primero del artículo 1 de la ley N° 20.964, que habiéndose acogido al artículo 15 de la citada ley, y que hayan pasado a integrar en forma preferente el listado de seleccionados de dicho proceso conforme a lo dispuesto en el artículo 5 de dicha ley, correspondiéndoles el beneficio en los años siguientes, podrán acceder anticipadamente al cupo respectivo siempre que tengan la condición de enfermos terminales debidamente certificado por el médico tratante. El número máximo de cupos a anticipar serán 61, los cuales serán descontados de las anualidades que hubieren correspondido al respectivo beneficiario. A partir de la publicación de esta ley, la Subsecretaría de Educación podrá asignar anticipadamente los cupos antes indicados, siempre que los establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal; los establecimientos regidos por el decreto ley N° 3.166, de 1980, los Servicios Locales de Educación Pública, los Departamentos de Administración de Educación Municipal (DAEM) y las Direcciones de Educación Municipal (DEM), según corresponda, remitan a dicha Subsecretaría el certificado emitido por el médico tratante, visado por el respectivo empleador.
 
 #### Artículo 57
 

@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo único
 
-Excepcionalmente, durante el período comprendido entre el 1 de enero de 2019 y el 31 de diciembre de 2023, ambas fechas inclusive, el porcentaje a que se refiere el inciso segundo del artículo 2° de la ley Nº 19.764, que establece el reintegro parcial de los peajes pagados en vías concesionadas por vehículos pesados y establece facultades para facilitar la fiscalización sobre combustibles, será el que resulte de la aplicación de la siguiente escala, en función de los ingresos anuales del contribuyente durante el año calendario inmediatamente anterior:
+Excepcionalmente, durante el período comprendido entre el 1 de enero de 2019 y el 31 de marzo de 2025, ambas fechas inclusive, el porcentaje a que se refiere el inciso segundo del artículo 2° de la ley Nº 19.764, que establece el reintegro parcial de los peajes pagados en vías concesionadas por vehículos pesados y establece facultades para facilitar la fiscalización sobre combustibles, será el que resulte de la aplicación de la siguiente escala, en función de los ingresos anuales del contribuyente durante el año calendario inmediatamente anterior:
 
 1) 80% para los contribuyentes cuyos ingresos anuales hayan sido iguales o inferiores a 2.400 unidades de fomento.
 

@@ -2128,6 +2128,12 @@ En el procedimiento de elaboración de los reglamentos referidos en los artícul
 
 Con todo, el reglamento referido en el artículo 22 considerará en la realización de los concursos públicos de ingreso al Servicio la experiencia laboral en materias de biodiversidad.".
 
+#### Artículo décimo
+
+tercero.- El Presidente de la República, a partir de la publicación de esta ley y sin sujetarse a lo dispuesto en el título VI de la ley N° 19.882, podrá nombrar al primer director nacional del Servicio de Biodiversidad y Áreas Protegidas, quien asumirá de inmediato y desarrollará sus funciones en tanto se efectúe el proceso de selección pertinente que establece la señalada ley para los cargos del Sistema de Alta Dirección Pública.
+
+En el acto de nombramiento, el Presidente de la República fijará la remuneración y la asignación de alta dirección pública que le corresponderá al director, siempre que no se encuentre vigente la respectiva planta de personal. En tanto no entre en funcionamiento el Servicio de Biodiversidad y Áreas Protegidas, la remuneración del director nacional se financiará con cargo al presupuesto del Ministerio del Medio Ambiente.
+
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
 Santiago, 21 de agosto de 2023.- GABRIEL BORIC FONT, Presidente de la República.- María Heloísa Rojas Corradi, Ministra del Medio Ambiente.- Carolina Tohá Morales, Ministra del Interior y Seguridad Pública.- Maya Fernández Allende, Ministra de Defensa Nacional.- Mario Marcel Cullell, Ministro de Hacienda.- Nicolás Grau Veloso, Ministro de Economía, Fomento y Turismo.- Esteban Valenzuela van Treek, Ministro de Agricultura.- Marcela Sandoval Osorio, Ministra de Bienes Nacionales.

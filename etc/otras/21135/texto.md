@@ -36,9 +36,9 @@ Sin embargo, las funcionarias señaladas en el inciso primero que a la fecha de 
 
 #### Artículo 4
 
-Podrán acceder a la bonificación establecida en el inciso primero del artículo 1 y a lo dispuesto en el artículo 9 hasta un máximo de 10.600 beneficiarios, de conformidad con los cupos anuales que se indican en el inciso siguiente.
+Podrán acceder a la bonificación establecida en el inciso primero del artículo 1 y a lo dispuesto en el artículo 9 hasta un máximo de 13.100 beneficiarios, de conformidad con los cupos anuales que se indican en el inciso siguiente.
 
-Para el año 2018 se contemplarán 1.100 cupos y para el año 2019 existirán 1.000 cupos. Para los años 2020 y 2021, existirán 1.250 cupos por cada año. A partir del año 2022 y hasta el año 2025, se contemplarán 1.500 cupos para cada año. Con todo, los cupos que no hubieren sido utilizados en los años 2018 y 2019, incrementarán los cupos del año 2020. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
+Para el año 2018 se contemplarán 1.100 cupos y para el año 2019 existirán 1.000 cupos. Para los años 2020 y 2021, existirán 1.250 cupos por cada año. A partir del año 2022 y hasta el año 2023, se contemplarán 1.500 cupos para cada año. Para los años 2024 y 2025 se contemplarán 2.250 y 3.250 cupos, respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2018 y 2019, incrementarán los cupos del año 2020. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
 
 #### Artículo 5
 

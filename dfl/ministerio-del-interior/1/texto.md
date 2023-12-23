@@ -92,6 +92,10 @@ Las Municipalidades que tomen a su cargo servicios de las áreas de educación, 
 
 Autorízase a las Municipalidades que otorguen a la administración de los servicios referidos a personas jurídicas de derecho privado para entregarles en comodato los bienes inmuebles destinados a los servicios referidos, ya sean de propiedad de la Municipalidad o ésta los haya recibido, a su vez, en comodato para tales servicios.
 
+En el caso que la persona jurídica de derecho privado que tenga a su cargo la administración y operación del servicio de educación se disuelva, el municipio recuperará la administración y operación del servicio educacional, siempre que éste no se encuentre radicado en un Servicio Local de Educación Pública.
+
+En el caso que la persona jurídica de derecho privado hubiere traspasado el servicio educativo conforme a la ley N° 21.040 y posteriormente se disuelva, los derechos y las obligaciones originadas durante su administración y operación del servicio de educación se radicarán en el patrimonio del municipio. Lo establecido anteriormente se aplicará también a aquellas personas jurídicas de derecho privado que se hayan disuelto desde el 24 de noviembre de 2017 en adelante.
+
 #### Artículo 13
 
 Los recursos de origen fiscal o municipal que se destinen a las personas jurídicas de derecho privado a que se refiere el artículo anterior constituirán ingresos propios de ellas correspondientes a prestación de servicios.

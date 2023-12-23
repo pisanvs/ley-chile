@@ -10,7 +10,7 @@ Proyecto de ley:
 
 Otórgase una bonificación por retiro voluntario, por una sola vez, a los funcionarios y funcionarias del Poder Judicial que se desempeñen como titulares en cargos de los escalafones Primario, de Empleados, de la Tercera y Sexta Serie del escalafón Secundario, de la Primera Serie del escalafón Secundario que perciban sueldo fiscal correspondiente a los grados V y VI del artículo 5 del decreto ley N° 3.058, de 1979, del Ministerio de Justicia, al personal a contrata asimilado a los escalafones del Personal Superior, de los Consejos Técnicos y de Empleados, y al personal titular de planta y a contrata de la Corporación Administrativa del Poder Judicial.
 
-El personal señalado en el inciso anterior tendrá derecho a la bonificación por retiro voluntario siempre que, entre el 1 de julio de 2015 y el 31 de diciembre de 2024, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
+El personal señalado en el inciso anterior tendrá derecho a la bonificación por retiro voluntario siempre que, entre el 1 de julio de 2015 y el 31 de diciembre de 2025, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
 Tendrán también este derecho los funcionarios y funcionarias que ya hayan cumplido las edades señaladas en el inciso precedente al 30 de junio de 2015.
 
@@ -32,15 +32,15 @@ Podrán acceder a la bonificación por retiro voluntario hasta un total de 1.750
 
 Número de cupos
 
-Número de cupos beneficiarios del
+Número beneficiarios
 
-Año beneficiarios escalafón artículo 1, Total cupos
+Año de cupos del artículo 1, Total
 
-Primario excluido el anuales
+beneficiarios excluido el cupos
 
-escalafón
+escalafón escalafón anuales
 
-Primario
+Primario Primario
 
 2018 30 225 255
 
@@ -58,7 +58,7 @@ Primario
 
 Total 250 1.500 1.750
 
-En caso de que no se utilicen todos los cupos en una anualidad, los cupos remanentes del escalafón Primario serán traspasados a los cupos de los otros beneficiarios del artículo 1, en la medida que sean requeridos. Los cupos no utilizados serán traspasados para el año siguiente, según corresponda al respectivo grupo de beneficiarios establecido en el inciso anterior.
+En caso de que no se utilicen todos los cupos en una anualidad, los cupos remanentes del escalafón Primario serán traspasados a los cupos de los otros beneficiarios del artículo 1, en la medida que sean requeridos. Los cupos no utilizados serán traspasados para el año siguiente, según corresponda al respectivo grupo de beneficiarios establecido en el inciso anterior. En el año 2025 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores para el respectivo grupo de beneficiarios establecido en el inciso anterior.
 
 De haber mayor número de postulantes que cupos disponibles en un año, según se trate de escalafón Primario u otros beneficiarios del artículo 1, se seleccionarán conforme a los siguientes criterios: en primer término se atenderá a la mayor edad del funcionario de acuerdo a la fecha de nacimiento; en igualdad de edad, se recurrirá al mayor número de años, meses y días de servicio en la institución; de persistir la igualdad, se utilizará el sistema de sorteo público.
 
@@ -140,7 +140,7 @@ Los funcionarios señalados en el inciso anterior que se encuentren en la situac
 
 Con todo, las funcionarias podrán postular a la bonificación por retiro voluntario, en cualquiera de los procesos que establezca el auto acordado, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, sin perder los beneficios establecidos en esta ley. Si no postularen en este último proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley.
 
-Las mujeres que cumplan entre 60 y 65 años de edad durante el año 2024 podrán postular en el proceso correspondiente para ese año según lo fije el auto acordado, y de ser seleccionadas deberán hacer efectiva su renuncia voluntaria de acuerdo a lo dispuesto en los artículos 9 y 10.
+Las mujeres que cumplan entre 60 y 65 años de edad durante el año 2025 podrán postular en el proceso correspondiente para ese año según lo fije el auto acordado, y de ser seleccionadas deberán hacer efectiva su renuncia voluntaria de acuerdo a lo dispuesto en los artículos 9 y 10.
 
 #### Artículo 9
 
@@ -175,6 +175,8 @@ Del mismo modo, quienes sean beneficiados por esta ley no podrán utilizar los m
 Quienes cesen en sus empleos por aplicación de lo dispuesto en la presente ley, no podrán ser nombrados ni contratados asimilados a grado o sobre la base de honorarios en ninguno de los organismos señalados en el artículo 1, ni en general en cualquier institución que conforma la Administración del Estado, durante los cinco años siguientes al término de su relación laboral, salvo que previamente devuelvan la totalidad de los beneficios percibidos, debidamente reajustados por la variación del Índice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas, entre el mes del pago del beneficio respectivo y el mes anterior al de la restitución, más el interés corriente para operaciones reajustables.
 
 Sin perjuicio de lo establecido en este artículo, los consejeros técnicos que perciban los beneficios de la presente ley podrán ser contratados como mediadores familiares sólo para efectos del título V de la ley N° 19.968.
+
+Sin perjuicio de lo dispuesto en este artículo, quienes perciban los beneficios de esta ley podrán ser contratados hasta doce horas semanales para ejercer labores de docencia, siempre que al cese de sus funciones hayan estado desempeñando una jornada completa de trabajo semanal.
 
 #### Artículo 13
 

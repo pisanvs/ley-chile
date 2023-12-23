@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-Los profesionales de la educación que pertenezcan a una dotación docente del sector municipal, administrada directamente por las municipalidades o por corporaciones municipales, ya sea en calidad de titulares o contratados, o estén contratados en los establecimientos regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, promulgado y publicado el año 1980, y que entre el 1 de enero de 2016 y el 30 de junio de 2024, ambas fechas inclusive, cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, podrán acceder a la bonificación por retiro voluntario establecida en la ley Nº 20.822 (en adelante "la bonificación") hasta por un total de 20.000 beneficiarios, siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en los organismos antes señalados, en los plazos que fijan esta ley y el reglamento.
+Los profesionales de la educación que pertenezcan a una dotación docente del sector municipal, administrada directamente por las municipalidades o por corporaciones municipales, ya sea en calidad de titulares o contratados, o estén contratados en los establecimientos regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, promulgado y publicado el año 1980, y que entre el 1 de enero de 2016 y el 31 de diciembre de 2025, ambas fechas inclusive, cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, podrán acceder a la bonificación por retiro voluntario establecida en la ley Nº 20.822 (en adelante "la bonificación") hasta por un total de 24.500 beneficiarios, siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en los organismos antes señalados, en los plazos que fijan esta ley y el reglamento.
 
 Asimismo, podrán acceder a la bonificación los profesionales de la educación que pertenezcan a una dotación docente de las instituciones señaladas en el inciso anterior o estén contratados en los establecimientos regidos por el citado decreto ley Nº 3.166, de 1980, que antes del 1 de enero de 2016 hayan cumplido 60 o más años de edad si son mujeres, y 65 o más años de edad si son hombres, siempre que accedan a un cupo de los señalados en el inciso precedente, y hagan efectiva su renuncia en los plazos fijados en la presente ley y el reglamento.
 
@@ -18,7 +18,7 @@ La bonificación establecida en esta ley regirá para todos los profesionales de
 
 La bonificación se regulará por la ley Nº 20.822. Con todo, se le aplicarán las siguientes reglas especiales y las demás que fije un reglamento:
 
-1.- De acuerdo a esta ley, podrán acceder a la bonificación hasta un total de 20.000 (veinte mil) profesionales de la educación, distribuidos de acuerdo a la siguiente tabla:
+1.- De acuerdo a esta ley, podrán acceder a la bonificación hasta un total de 24.500 (veinticuatro mil quinientos) profesionales de la educación, distribuidos de acuerdo a la siguiente tabla:
 
 Año Número de beneficiarios
 
@@ -38,9 +38,11 @@ Año Número de beneficiarios
 
 2023 2.300
 
-2024 2.300
+2024 3.000
 
-Total 20.000
+2025 3.800
+
+Total 24.500
 
 Los cupos que no hubieren sido utilizados en los años 2016, 2017 y 2018 incrementarán los cupos del año 2019. A partir de dicho año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
@@ -56,13 +58,13 @@ Las instituciones empleadoras señaladas en el artículo 1° deberán remitir la
 
 5.- Las profesionales de la educación podrán postular a los cupos indicados en el numeral 1 a partir del año en que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad.
 
-6.- Las profesionales de la educación que cumplan 60 años de edad y hasta 65 años, entre el 1 de enero y el 30 de junio de 2024, podrán postular en el proceso correspondiente a dicho año según lo fije el reglamento y, de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria entre el 1 de enero y el 1 de marzo siguiente a la comunicación de que accedieron a un cupo.
+6.- Las profesionales de la educación que cumplan 60 años de edad y hasta 65 años, entre el 1 de enero y el 31 de diciembre de 2025, podrán postular en el proceso correspondiente a dicho año según lo fije el reglamento y, de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria entre el 1 de enero y el 1 de marzo siguiente a la comunicación de que accedieron a un cupo.
 
 7.- En caso de haber un mayor número de postulantes que cupos disponibles para un año, la Subsecretaría de Educación procederá a adjudicarlos de acuerdo a los siguientes criterios de prioridad:
 
 a) Aquellos con un mayor número de días por sobre la edad legal para pensionarse por vejez.
 
-b) Aquellos respecto de quienes se acredite algún diagnóstico de enfermedad terminal, resguardando la protección de datos personales, según lo establece la ley N° 19.628.
+b) Suprimida.
 
 c) Aquellos con mayor número de días de licencias médicas cursadas durante los veinticuatro meses inmediatamente anteriores al inicio del respectivo período de postulación. Para estos efectos, la institución empleadora deberá informar a la Subsecretaría de Educación el número de días de licencia.
 

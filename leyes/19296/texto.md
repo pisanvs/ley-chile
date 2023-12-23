@@ -312,7 +312,7 @@ Cada director podrá ceder, a uno o más de los restantes de la directiva, la to
 
 #### Artículo 34
 
-El tiempo durante el cual se haya hecho uso de los permisos a que se refiere esta ley se entenderá como efectivamente trabajado para todos los efectos legales.
+El tiempo durante el cual se haya hecho uso de los permisos a que se refiere esta ley se entenderá como efectivamente trabajado para todos los efectos legales, manteniendo el derecho a remuneración, así como a las asignaciones, bonificaciones, y en general cualquier derecho o emolumento otorgado en razón de su trabajo, conforme a lo dispuesto en el artículo 31 e inciso final del artículo 32.
 
 ## Capítulo V
 
@@ -516,7 +516,7 @@ El tiempo que abarcaren los permisos antes señalados se entenderá como efectiv
 
 El director de una federación o confederación tendrá derecho a que la respectiva repartición le conceda permisos para ausentarse de sus labores con el objeto de cumplir sus funciones fuera del lugar de trabajo, los que no podrán ser inferiores a 26 horas semanales, las cuales serán acumulables dentro del mes calendario. Cada director podrá ceder a uno o más de los restantes la totalidad o parte del tiempo que le correspondiere, previo aviso escrito a la jefatura superior de la repartición respectiva.
 
-El tiempo que abarcaren los permisos otorgados en virtud del inciso anterior se entenderá trabajado para todos los efectos y se mantendrá el derecho a remuneración.
+El tiempo que abarcaren los permisos otorgados en virtud del inciso anterior se entenderá trabajado para todos los efectos y se mantendrá el derecho a remuneración, así como a las asignaciones, bonificaciones y, en general, cualquier derecho o emolumento otorgado en razón de su trabajo, conforme a lo dispuesto en el artículo anterior.
 
 #### Artículo 60
 

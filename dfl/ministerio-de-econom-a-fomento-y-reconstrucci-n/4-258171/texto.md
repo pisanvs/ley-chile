@@ -4024,7 +4024,7 @@ Son costos de explotación para las empresas distribuidoras el valor de la energ
 
 Las empresas concesionarias enviarán anualmente a la Superintendencia, antes del 31 de marzo, los costos de explotación correspondientes al año anterior acompañado de un informe auditado.
 
-Se entiende por VNR de las instalaciones de distribución de una empresa concesionaria, el costo de renovar todas las obras, instalaciones y bienes físicos destinados a dar el servicio de distribución, considerando todas las instalaciones de la empresa concesionaria requeridas para la prestación del servicio público de distribución, sea que ellas se encuentren dentro o fuera de la zona de concesión, incluyendo los intereses intercalarios, los derechos, los gastos y las indemnizaciones pagadas para el establecimiento de las servidumbres utilizadas, los bienes intangibles y el capital de explotación. Entre los derechos no se podrán incluir los que haya concedido el Estado a título gratuito ni los pagos realizados en el caso de concesiones obtenidas mediante licitación.
+Se entiende por VNR de las instalaciones de distribución de una empresa concesionaria, el costo de renovar todas las obras, instalaciones y bienes físicos destinados a dar el servicio de distribución, considerando todas las instalaciones de la empresa concesionaria requeridas para la prestación del servicio público de distribución, sea que ellas se encuentren dentro o fuera de la zona de concesión, incluyendo los intereses intercalarios, los derechos, los gastos y las indemnizaciones pagadas para el establecimiento de las servidumbres utilizadas, los bienes intangibles y el capital de explotación. Entre los derechos no se podrán incluir los que haya concedido el Estado a título gratuito ni los pagos realizados en el caso de concesiones obtenidas mediante licitación. Para efectos de lo anterior, los derechos que haya concedido el Estado a título gratuito no considerarán las instalaciones de electrificación rural construidas por las empresas distribuidoras que hayan sido financiadas a través del Fondo Nacional de Desarrollo Regional.
 
 Los bienes intangibles corresponderán a los gastos de organización de la empresa y no podrán ser superiores al dos por ciento del valor de los bienes físicos.
 
@@ -5031,6 +5031,8 @@ En el plazo de 15 días a contar de la entrada en vigencia de la ley 20.18, el M
 #### Artículo 29º
 
 La elección de los directores de las direcciones a que se refiere el inciso segundo de la letra b) del artículo 225° del decreto con fuerza de ley N° 1, de 1982, del Ministerio de Minería, se efectuará una vez que éstos hayan cesado en sus funciones de acuerdo a las normas legales, reglamentarias y contractuales vigentes, conforme al mecanismo, forma y plazo que establezca el reglamento.
+
+Artículo trigésimo.- Lo dispuesto en el inciso quinto del artículo 193 se aplicará al proceso de fijación de fórmulas tarifarias aplicables a los suministros sujetos a precios regulados efectuados por las empresas concesionarias de distribución correspondientes al cuadrienio noviembre 2024 - noviembre 2028.
 
 Tómese razón, regístrese, comuníquese y publíquese.- ANDRES ZALDIVAR LARRAIN, Vicepresidente de la República.- Ana María Correa López, Ministra de Economía, Fomento y Reconstrucción (S).
 

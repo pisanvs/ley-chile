@@ -94,6 +94,8 @@ Un reglamento que al efecto se dicte a través del Ministerio de Hacienda defini
 
 BONIFICACIÓN POR RETIRO
 
+> **Nota.** La Resolución 832 Exenta, publicada el 05.09.2018, aprueba las Instrucciones para el Fondo para la Bonificación por Retiro establecido en este Título.
+
 ### Párrafo 1°
 
 Del beneficio
@@ -117,6 +119,8 @@ b) Pago en 120 mensualidades. Cada cuota mensual se expresará en unidades de fo
 Respecto de aquellos funcionarios a contrata que reúnan las exigencias del artículo siguiente, que en los tres últimos años anteriores a la dejación voluntaria de su empleo hayan cambiado la calidad jurídica de su designación, pasando en un mismo servicio desde un cargo de planta a un empleo a contrata, la bonificación se calculará considerando la remuneración imponible correspondiente al grado original de planta que poseían al momento de cambiar de calidad jurídica. Asimismo, respecto de los funcionarios a contrata que en los tres últimos años anteriores a la dejación voluntaria de su cargo hayan cambiado de grado, la bonificación se calculará considerando la remuneración imponible correspondiente al grado que tenían a la fecha del cambio, o del primero de ellos si hubo más de uno. Lo anterior, no será aplicable en los casos de cambios de calidad jurídica desde la contrata a la planta o aumentos de grados por promoción.
 
 La bonificación será incompatible con cualquier otro beneficio de naturaleza homologable que se origine en una causal similar de otorgamiento.
+
+Los funcionarios y funcionarias, para efectos del inciso segundo, podrán computar los años de servicio a que se refiere el inciso final del artículo 2 de la ley N° 20.948 en los mismos términos que establece dicha disposición.
 
 > **Nota.** La LEY 19937, publicada en el D.O. del 24.02.2004,en su Art. 7º señala que la bonificación por retiro establecida en el Título II de la presente Ley no será aplicable al personal perteneciente a los establecimientos de salud de carácter experimental. Estos personales quedarán adscritos a la normativa establecida en el artículo primero transitorio de la Ley 19937.
 
@@ -177,6 +181,8 @@ La entidad administradora tendrá derecho a una retribución.
 El Ministro de Hacienda determinará si la administración del fondo se realizará conforme a los incisos anteriores o por el Servicio de Tesorerías, en virtud de lo que disponga mediante decreto dictado bajo la fórmula "Por Orden del Presidente de la República". En caso que la administración corresponda al Servicio de Tesorerías, la inversión de los recursos financieros se realizará de acuerdo a lo señalado en el artículo 12 de la ley N° 20.128.
 
 Los costos de administración del Fondo, en que incurra el Servicio de Tesorerías, serán descontados de los recursos del mismo y no podrán, en cada año calendario, exceder de un 0,2% del monto promedio de los recursos del fondo en el año anterior. El decreto señalado en el inciso anterior, establecerá las normas para la realización de los descuentos antes indicados, como también aquellas necesarias para la administración que realice el Servicio de Tesorerías.
+
+> **Nota.** El numeral 1 del Decreto 359, publicado el 07.03.2018, modifica la presente norma en el sentido de determinar que la administración del fondo para la bonificación por retiro establecido en el Título II de la ley 19.882, será realizada por el Servicio de Tesorerías.
 
 #### Artículo DÉCIMO
 
@@ -825,6 +831,12 @@ ARTÍCULO TRIGÉSIMO QUINTO.- Establécese un Sistema de Alta Dirección Públic
 ARTÍCULO TRIGÉSIMO SEXTO.- El Sistema de Alta Dirección Pública se aplicará en servicios públicos regidos por el Título II de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, con excepción de la Presidencia de la República, subsecretarías, Consejo de Defensa del Estado, Agencia Nacional de Inteligencia, Dirección General de Relaciones Económicas Internacionales, Corporación de Fomento de la Producción, Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Dirección de Presupuestos, Consejo Nacional de la Cultura y las Artes y las instituciones de educación superior de carácter estatal. Tampoco se aplicará el Sistema de Alta Dirección Pública a los siguientes servicios, con excepción de los cargos que se señalan a continuación: en la Dirección Nacional del Servicio Civil, a los cargos de subdirectores; en la Dirección General de Obras Públicas y en la Dirección de Planeamiento del Ministerio de Obras Públicas, a los cargos del segundo nivel jerárquico; en Gendarmería de Chile, a los subdirectores técnico y de administración y finanzas; y, en el Servicio de Impuestos Internos, al cargo de Director Nacional.
 
 Lo establecido en este artículo es sin perjuicio de lo que dispongan otras leyes especiales que hagan aplicable los procesos de selección regulados por el Párrafo 3° del Título VI de esta ley o cualquier otra disposición relativa a dicho Sistema.
+
+ARTÍCULO TRIGÉSIMO SEXTO BIS.- El Presidente de la República podrá eximir de la aplicación del mecanismo de selección de los altos directivos públicos y de lo dispuesto en los incisos primero a cuarto del artículo quincuagésimo séptimo, hasta doce cargos de jefes superiores de servicio que se encuentren afectos al Sistema de Alta Dirección Pública. Para tal efecto, el o los decretos deberán dictarse dentro de los tres meses siguientes al inicio del respectivo período presidencial. La Contraloría General de la República tendrá el plazo de cinco días para cumplir el trámite de toma de razón de los decretos anteriores. Copia del referido decreto deberá enviarse al Consejo de Alta Dirección Pública.
+
+Los cargos señalados en el inciso anterior deberán ser provistos con personas que cumplan con los requisitos legales y los perfiles para desempeñarlos. Dichos perfiles deberán encontrarse aprobados por el Consejo con anterioridad al nombramiento de los respectivos altos directivos públicos y ser publicados en las páginas web institucionales.
+
+El Presidente de la República podrá ejercer por una sola vez la facultad señalada en el inciso primero respecto de cada cargo individualizado en el decreto respectivo. Los cargos a que se refiere el inciso primero que queden vacantes deberán ser provistos de acuerdo al Sistema de Alta Dirección Pública.
 
 ARTÍCULO TRIGÉSIMO SÉPTIMO.- Los cargos cuyo ejercicio se entregue a altos directivos públicos deberán corresponder a jefes superiores de servicio y al segundo nivel jerárquico del respectivo organismo.
 

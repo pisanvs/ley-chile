@@ -74,6 +74,8 @@ Asimismo, a solicitud de la Subsecretaría de Redes Asistenciales, el Servicio d
 
 Si como resultado de la aplicación del sistema de control se verificare el incumplimiento del convenio por parte del funcionario, el director del servicio de salud ordenará la devolución de la totalidad de lo recibido por concepto de la asignación durante el año calendario respectivo. Este monto será reajustado de conformidad con la variación que experimente el Índice de Precios al Consumidor, determinado por el Instituto Nacional de Estadísticas o la institución que lo reemplace, entre el mes anterior a aquel en que se percibió y el que antecede a su restitución. Además, dicho funcionario deberá pagar una multa equivalente a tres veces la asignación percibida y no podrá volver a solicitarla dentro de los cinco años siguientes.
 
+Con todo, toda infracción al Convenio producida durante la vigencia de la alerta sanitaria por COVID, no será considerada, sancionada, ni se aplicarán las multas, inhabilitaciones ni devoluciones. Déjese establecido que, si ya se inició un procedimiento sancionatorio, o de pago, éste debe quedar sin efecto desde el momento de la publicación de la presente.
+
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo primero
