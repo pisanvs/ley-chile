@@ -2240,6 +2240,18 @@ Bifenilos policlorados "mono-orto"
 
 2,3,3',4,4',5,5'-HpCB 0.00001
 
+#### Artículo 170 bis
+
+El contenido de Tetrahidrocannabinol (THC) en la semilla de cáñamo utilizada para la alimentación humana y los alimentos en base a cáñamo no deberá ser superior a:
+
+a) Aceite de cáñamo 10,0 mg/Kg
+
+b) Semilla de cáñamo entera 5,0 mg/Kg
+
+c) Semilla de cáñamo sin cáscara 2,5 mg/Kg
+
+d) Harina o proteína de cáñamo 3,5 mg/Kg
+
 ## Título V
 
 De los criterios microbiológicos
