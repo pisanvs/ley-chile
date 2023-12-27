@@ -24,7 +24,9 @@ Del Ministerio de Obras Públicas
 
 #### Artículo 1º
 
-El Ministerio de Obras Públicas es la Secretaría de Estado encargada del planeamiento, estudio, proyección, construcción, ampliación,reparación, conservación y explotación de las obras públicas fiscales y el organismo coordinador de los planes de ejecución de las obras que realicen los Servicios que lo constituyen y de las demás entidades a que se refieren los artículos 2º y 3º de esta Ley.
+El Ministerio de Obras Públicas es la Secretaría de Estado encargada del planeamiento, estudio, proyección, construcción, ampliación, reparación, conservación y explotación de las obras públicas fiscales y el organismo coordinador de los planes de ejecución de las obras que realicen los Servicios que lo constituyen y de las demás entidades a que se refieren los artículos 2º y 3º de esta Ley.
+
+Asimismo, corresponde al Ministerio velar por el adecuado cumplimiento de las funciones referidas en el inciso anterior en lo que respecta a la infraestructura hídrica, de conformidad a las funciones y atribuciones establecidas en los artículos 17 y 23, así como las demás que señale esta ley. La infraestructura hídrica comprende, entre otras, las obras, instalaciones y plantas de desalinización de aguas y embalses; otros tipos de infraestructura que tengan por finalidad la ampliación y sustentabilidad de la disponibilidad de agua para ser destinada al consumo humano, al saneamiento o al riego, lo que incluye el tratamiento, conducción y disposición final de las aguas e infraestructura para mejorar su eficiencia; y los proyectos de gestión hídrica que incorporen soluciones basadas en la naturaleza. Lo anterior, en función del interés público sobre las aguas para el resguardo del consumo humano y el saneamiento, la preservación ecosistémica, la sustentabilidad acuífera y, en general, de todas aquellas acciones destinadas a promover un equilibrio entre eficiencia y seguridad en sus usos productivos.
 
 #### Artículo 2º
 
@@ -260,15 +262,21 @@ A la Dirección de Arquitectura corresponderá la realización del estudio, cons
 
 #### Artículo 17º
 
-A la Dirección de Riego corresponderá:
+A la Dirección de Obras Hidráulicas corresponderá:
 
 a) El estudio, proyección, construcción, reparación y explotación de obras de riego que se realicen con fondos fiscales, de acuerdo a las disposiciones del DFL. Nº 1.123, de Justicia, de 1981.
 
 b) Las obras de saneamiento y recuperación de terrenos que se ejecuten con fondos fiscales;
 
-c) El estudio, proyección, construcción y reparación del abovedamiento de los canales de regadío que corren por los sectores urbanos de las poblaciones, siempre que dichos canales hayan estado en uso con anterioridad a la fecha en que la Zona por donde atraviesan haya sido declarada como comprendida dentro del radio urbano y que dichas obras se construyan con fondos fiscales o aportes de las respectivas Municipalidades. Estos aportes se convendrán entre el Ministerio de Obras Públicas y las Municipalidades, y
+c) El estudio, proyección, construcción y reparación del abovedamiento de los canales de regadío que corren por los sectores urbanos de las poblaciones, siempre que dichos canales hayan estado en uso con anterioridad a la fecha en que la Zona por donde atraviesan haya sido declarada como comprendida dentro del radio urbano y que dichas obras se construyan con fondos fiscales o aportes de las respectivas Municipalidades. Estos aportes se convendrán entre el Ministerio de Obras Públicas y las Municipalidades.
 
 d) Proponer la condonación total o parcial de las deudas por saneamiento o recuperación de terrenos de indígenas, la que deberá concederse por decreto supremo fundado.
+
+e) El estudio, diseño, construcción, ejecución, reparación, modificación, ampliación, conservación y operación de obras, instalaciones y plantas de desalinización de aguas y embalses; otro tipo de infraestructura hídrica que tenga por finalidad la ampliación y sustentabilidad de la disponibilidad de agua; y proyectos de gestión hídrica que incorporen soluciones basadas en la naturaleza, cuyo propósito sea la producción u obtención de recursos hídricos que se destinen en forma prioritaria para el cumplimiento de la función de subsistencia, que incluye el uso para el consumo humano, el saneamiento y el riego. Lo anterior, teniendo en consideración la función de preservación ecosistémica de las aguas.
+
+Para dar cumplimiento al derecho humano de acceso al agua potable y al saneamiento, la Dirección de Obras Hidráulicas podrá ofrecer las aguas resultantes y su producción a prestadores de servicios sanitarios.
+
+Complementariamente a la provisión de agua para el consumo humano, el saneamiento y el riego, las obras, instalaciones y plantas para la desalinización de agua, así como cualquier otro tipo de infraestructura que tenga por finalidad la producción u obtención de recursos hídricos, podrán, en forma residual, destinarse a otros fines de carácter multipropósito.
 
 #### Artículo 18º
 
