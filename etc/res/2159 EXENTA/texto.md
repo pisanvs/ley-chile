@@ -8,75 +8,149 @@ R e s u e l v o:
 
 2.- Incorpóranse a la nómina que por la presente resolución se establece, a los fabricantes o proveedores de taxímetros que han acreditado que el taxímetro cuyo tipo y modelo se indica, cumple con los requisitos estipulados en el artículo 1º de la resolución Nº 46 de 1993, en su texto fijado por la resolución Nº 22 de 1999, ya citada:
 
-Fabricante : Industria Electrónica
+Fabricante o proveedor : EKO MAIKO
 
-Eko-Maiko Limitada.
+Dirección : Rengo 538, Ñuñoa
 
-Dirección : Rengo 538, Ñuñoa,
+Teléfono : 2052115
 
-Santiago, Chile.
+Marca del taxímetro : EKO MAIKO
 
-Teléfono : +562-2205-2115.
+Modelo : EM-700
 
-Marca y : Eko-Maiko, modelo
+Fabricante o proveedor : Electrónica SAM.
 
-modelo del EM-800.
+Dirección : Fermín Vivaceta 467.
 
-Taxímetro
+Comuna : Santiago.
 
-Código de : 3CV-ATX-EM-EM8-2023-004.
+Teléfono : 7322422.
 
-Acreditación
+Marca del Taxímetro : SAM.
 
-Fabricante : Sociedad Comercial Freymuth
+Modelo : SC-12
 
-e Hijos Ltda.
+Fabricante o proveedor: Clinitaxi.
+
+Dirección : Los Angeles 1749.
+
+Comuna : Independencia.
+
+Teléfono : 09-2371568.
+
+Marca del taxímetro : Clinitaxi.
+
+Modelo : Metrix FR.
+
+Fabricante o proveedor: ENAC (Electrónica Nacional S.A.)
+
+Dirección : Lira 353
+
+Comuna : Santiago
+
+Teléfono : 2222222
+
+Marca del Taxímetro : ENAC
+
+Modelo : TM-1001
+
+Fabricante o proveedor : Instrumentos Coppola
+
+Dirección : Santa Rosa 399
+
+Comuna : Santiago
+
+Teléfono : 6391905-6390543
+
+Marca del Taxímetro : Coppola
+
+Modelo : LK-93P
+
+Fabricante o proveedor: Taxicom Chile
+
+Dirección : Pedro de Valdivia 5261
+
+Comuna : Ñuñoa
+
+Teléfono : 2372777
+
+Marca del taxímetro : Taxicom
+
+Modelo : TC-2000
+
+Fabricante o proveedor : Taxímetro Carca
+
+Dirección : Av. Cinco de Abril 3473
+
+Comuna : Estación Central
+
+Teléfono : 3109757
+
+Marca del Taxímetro : Carca
+
+Modelo : G-2000
+
+Fabricante o proveedor : Electrónica SAM Ltda.
+
+Rut. : 77.437.280-6
+
+Dirección : Fermín Vivaceta 467
+
+Comuna : Santiago
+
+Teléfono : 7322422
+
+Marca del taxímetro : SAM
+
+Modelo : SC-122
+
+Fabricante : Industria Electrónica Eko-Maiko Limitada.
+
+Dirección : Rengo 538, Ñuñoa, Santiago, Chile. Teléfono: 2-2205-2115.
+
+Marca y modelo del Taxímetro: Eko-Maiko, modelo EM-800.
+
+Código de Acreditación: 3CV-ATX-EM-EM8-2014-001.
+
+Fabricante : Industria Electrónica Eko-Maiko
+
+Limitada.
+
+Dirección : Rengo 538, Ñuñoa, Santiago, Chile.
+
+Teléfono: 2-2205-2115
+
+Marca y modelo del
+
+Taxímetro : Eko-Maiko, modelo EM-850.
+
+Código de Acreditación : 3CV-ATX-EM-E85-2017-002.
+
+Fabricante : Pablo Freymuth Fuentes.
 
 Dirección : Salomón Sack 914, Independencia,
 
 Santiago, Chile.
 
-Teléfono : +562-2401-5246; +569-9139-2697.
+Teléfono: +562-2401-5246.
 
-Taxímetro : Marca Clinitaxi, modelo
+Marca y modelo del
 
-Metrix F-185.
+Taxímetro : Clinitaxi, modelo Metrix F-185
 
-Código de : 3CV-ATX-CN-MF1-2024-005.
+Código de Acreditación : 3CV-ATX-CN-MF1-2018-003.
 
-Acreditación
-
-Fabricante : Industria Electrónica Eko Maiko Ltda.
+Fabricante : Industria Electrónica Eko-Maiko Limitada.
 
 Dirección : Rengo 538, Ñuñoa, Santiago, Chile.
 
 Teléfono : +562-2205-2115.
 
-Taxímetro : Marca Eko Maiko, modelo EM-900.
+Marca y modelo del
 
-Código de
+Taxímetro : Eko-Maiko, modelo EM-800.
 
-Acreditación: 3CV-ATX-EM-EM9-2024-006.
-
-Fabricante : Carlos Paulino
-
-Cabrera Reyes.
-
-Dirección : Chiloé 4032, San
-
-Miguel, Santiago,
-
-Chile.
-
-Teléfono : +562 - 2310 9757.
-
-Taxímetro : Marca Carca,
-
-modelo G-3000.
-
-Código de
-
-Acreditación: 3CV-ATX-CR-G30-2024-006.
+Código de Acreditación : 3CV-ATX-EM-EM8-2023-004.
 
 Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
