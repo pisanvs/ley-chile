@@ -204,19 +204,19 @@ i. Elimínase su inciso final.
 
 ii. Incorpóranse los siguientes incisos tercero, cuarto, quinto, sexto y final:
 
-"Al extinguirse una concesión minera de exploración o una vez transcurrido el plazo de otorgamiento, quien hubiere sido su titular deberá remitir al Servicio toda la información geológica que hubiere obtenido de los trabajos de exploración realizados en el área correspondiente a dicha concesión.
+"El concesionario minero deberá hacer entrega de un reporte con la información geológica obtenida de los trabajos de exploración efectuados en ejercicio de los derechos que confiere la concesión, de acuerdo con los plazos y condiciones que establece este artículo y el reglamento. En el caso del concesionario de exploración, dentro del plazo de treinta días, contado desde la extinción de su concesión, deberá remitir al Servicio un reporte con toda la información geológica que haya obtenido de los trabajos de exploración realizados en el área correspondiente a dicha concesión. Con todo, si el titular solicita prorrogar su concesión en los términos establecidos en el artículo 112, deberá estarse a lo dispuesto en dicha disposición.
 
-El titular de una concesión de explotación deberá remitir al Servicio, cada dos años, toda información geológica que hubiere obtenido de los trabajos de exploración geológica realizados durante dicho período.
+El titular de una concesión de explotación deberá remitir al Servicio, cada dos años, un reporte con toda la información geológica que hubiere obtenido de los trabajos de exploración realizados durante dicho período.
 
-Un reglamento expedido por el Ministerio de Minería establecerá la forma, plazos, condiciones y requisitos que deberá cumplir el concesionario minero para entregar la información geológica que trata este artículo, como también el tratamiento que se otorgará a dicha información.
+Un reglamento expedido por el Ministerio de Minería establecerá la forma, plazos, condiciones y requisitos que deberá cumplir el concesionario minero para entregar la información geológica que trata este artículo. La información geológica obtenida de trabajos de exploración avanzada será de carácter confidencial por un periodo de cuatro años contado desde su entrega al Servicio, de acuerdo con las condiciones establecidas en el citado reglamento.
 
-En caso de que el Servicio tome conocimiento de la realización de trabajos de exploración en una concesión, sea ésta de exploración o explotación, y de que la información que se hubiese obtenido de ellos, no haya sido entregada según lo señalado en los incisos anteriores de este artículo, lo habilitarán para requerir dicha información. El titular deberá entregarla dentro del plazo de treinta días corridos desde el requerimiento y en su defecto, podrá sancionarlo con una multa de hasta 100 unidades tributarias mensuales, todo ello conforme al procedimiento establecido en el reglamento.
+El concesionario que no cumpla con la entrega del reporte con la información geológica obtenida en la forma y plazos establecidos en este artículo y el reglamento o en el artículo 112, según corresponda, será sancionado con multa de hasta 100 unidades tributarias anuales. Con todo, en caso de que el concesionario no cumpla con la entrega del reporte, el Servicio podrá requerirlo, para lo cual otorgará el plazo de sesenta días. Si no cumple con dicho requerimiento, el Servicio aplicará el duplo de la sanción antes señalada, y quedará además inhabilitado para acceder al beneficio de patente rebajada regulada en el artículo 142 bis, si correspondiere, todo ello conforme al procedimiento establecido en el citado reglamento.
 
 La obligación establecida en los incisos precedentes, no se aplicará a los pequeños mineros y mineros artesanales acogidos al régimen de patente especial contemplado en los incisos segundo y siguientes del artículo 142.".
 
-2. Intercálase en el numeral 2 del artículo 43, entre las siglas "U.T.M." y la expresión "que correspondan", las palabras "referidas a datum SIRGAS".
+2. Intercálase en el numeral 2 del artículo 43, entre las siglas "U.T.M." y la expresión "que correspondan", las palabras "referidas al Datum definido en el reglamento".
 
-3. Intercálase en el inciso primero del artículo 45, entre las siglas "U.T.M." y la expresión "con precisión", las palabras "referidas a datum SIRGAS".
+3. Intercálase en el inciso primero del artículo 45, entre las siglas "U.T.M." y la expresión "con precisión", las palabras "referidas al Datum definido en el reglamento,".
 
 4. Reemplázase en el inciso primero del artículo 59 la expresión "doscientos y los doscientos veinte días," por "noventa y ciento veinte días,".
 
@@ -246,17 +246,29 @@ La operación de mensura la efectuará el ingeniero o perito mediante el levanta
 
 #### Artículo 112
 
-La concesión de exploración tendrá una duración de cuatro años, contados desde que se dicte la sentencia que la declare constituida. Expirado dicho plazo se extinguirá la concesión para todos los efectos legales.".
+La concesión de exploración tendrá una duración de cuatro años, contados desde que se dicte la sentencia que la declare constituida.
+
+No obstante, antes de su expiración, el titular podrá solicitar, por una única vez, su prórroga por otro periodo de hasta cuatro años, contado desde el término del primero. Para ejercer este derecho, dentro de los primeros seis meses del último año de su concesión, el titular deberá presentar al Servicio un reporte con toda la información geológica obtenida en los trabajos de exploración que hayan sido realizados durante la vigencia de su concesión y que acredite, por tanto, su realización. Alternativamente, el titular podrá presentar al Servicio la documentación que acredite la obtención de una Resolución de Calificación Ambiental respecto a su proyecto minero en el periodo de duración de la concesión, o bien la admisión a trámite de su proyecto de exploración en el Sistema de Evaluación de Impacto Ambiental.
+
+Cumplido lo anterior, el Servicio deberá emitir un certificado que dé cuenta de aquello, el que deberá ser remitido al juzgado de letras competente, una vez que haya sido oficiado por éste para dichos efectos.
+
+La resolución que conceda la prórroga deberá publicarse extractada, por una sola vez, dentro de treinta días contados desde la fecha de su dictación. El extracto contendrá las coordenadas U.T.M. de los vértices de la concesión. Dentro del mismo plazo la resolución deberá anotarse al margen de la inscripción respectiva.".
 
 12. Incorpórase, a continuación del artículo 112, el siguiente artículo 112 bis:
 
 #### Artículo 112 bis
 
-Extinguida la concesión de exploración por cualquier causa, quien haya sido su titular no podrá adquirir, por sí o por interpósita persona, una nueva concesión de exploración que comprenda, total o parcialmente, la superficie que hubiere abarcado la concesión de exploración que se ha extinguido.
+Desde la presentación del pedimento y hasta el plazo de un año contado desde la extinción de la concesión de exploración, cualquiera que sea su causa, quien haya sido su titular no podrá adquirir, por sí o por interpósita persona, una nueva concesión de exploración que comprenda, total o parcialmente, la superficie que hubiere abarcado dicha concesión de exploración.
 
 Para efectos de lo dispuesto en el inciso precedente, se presumirá la actuación por interpósita persona cuando la nueva concesión de exploración sea pedida o adquirida por el cónyuge, conviviente civil o un pariente hasta el tercer grado de consanguinidad o el segundo de afinidad, ambos inclusive, de quien haya sido el titular de la concesión de exploración extinguida. Asimismo, se presumirá que se actúa por interpósita persona, cuando quien pida o adquiera la nueva concesión de exploración, mantenga una relación laboral con el antiguo concesionario o sea apoderado de aquel. Si el antiguo concesionario hubiere sido una persona jurídica, se presumirá la actuación por interpósita persona, además, cuando cualquiera de las personas que se indican en el artículo 100 de la ley N° 18.045, sobre Mercado de Valores, intervenga pidiendo o adquiriendo la nueva concesión.
 
-Se concede acción pública para denunciar, ante el tribunal competente, la contravención a lo establecido en el inciso primero de este artículo. Comprobada la contravención, el tribunal deberá tener por no presentado el pedimento o por caducada la concesión de exploración constituida, según corresponda, y ordenará la cancelación de las inscripciones que se hubieren efectuado. El tribunal oficiará al Conservador de Minas respectivo e informará al Servicio.".
+Se concede acción pública para denunciar, ante el tribunal competente, la contravención a lo establecido en el inciso primero de este artículo. Comprobada la contravención, el tribunal deberá tener por no presentado el pedimento o por caducada la concesión de exploración constituida, según corresponda, y ordenará la cancelación de las inscripciones que se hubieren efectuado. El tribunal oficiará al Conservador de Minas respectivo e informará al Servicio.
+
+El concesionario cuya contravención fuese declarada por el tribunal competente perderá toda preferencia para constituir una pertenencia en la superficie que cubre la concesión de exploración referida en el inciso primero.
+
+El denunciante que haya obtenido una sentencia favorable en el proceso regulado en los incisos precedentes podrá presentar un pedimento que cubra todo o parte del terreno abarcado por el pedimento denunciado en cuyo caso le será aplicable la fecha de presentación de este último pedimento. Para hacer valer este derecho, el pedimento deberá presentarse dentro del plazo de noventa días siguientes a la fecha en que la sentencia favorable quede firme, señalará expresamente que se efectúa en ejercicio de lo establecido en el presente artículo, y deberá acompañar copia autorizada de la sentencia favorable y del certificado regulado en el artículo 47 respecto del pedimento denunciado.
+
+Por su parte, el informe que el Servicio deba remitir en el procedimiento de constitución de la concesión deberá señalar, además de lo establecido en el artículo 57, si la superficie de la concesión cumple con lo establecido en el inciso anterior.".
 
 13. Derógase el artículo 118.
 
@@ -276,11 +288,23 @@ b) Reemplázase en el inciso segundo la palabra "Por" por la siguiente expresió
 
 #### Artículo 142 bis
 
-La determinación del monto de la patente anual indicada en el inciso primero del artículo 142 se regirá por las normas que se establecen en los incisos siguientes.
+La determinación del monto de la patente anual indicada en el inciso primero del artículo 142 se regirá por las normas que se establecen en el presente artículo.
 
-En el caso de la concesión de exploración, el monto de dicha patente por cada hectárea completa será equivalente a tres quincuagésimos de unidad tributaria mensual para cada año de vigencia de la concesión.
+Para la concesión de exploración, el monto de la patente por cada hectárea completa será equivalente a tres quincuagésimos de unidad tributaria mensual para cada año de vigencia de la concesión.
 
-En el caso de la concesión de explotación, el monto de la patente por cada hectárea completa será equivalente a:
+Con respecto a las concesiones de explotación, el monto de la patente anual será de un décimo de unidad tributaria mensual por hectárea completa que ella comprenda, en consideración a que el objetivo de su otorgamiento es el desarrollo de la actividad necesaria para satisfacer el interés público que la justifica, entendiéndose por tal la realización de labores mineras. Para estos efectos, el concesionario deberá acreditar anualmente que ha iniciado trabajos, actividades u obras que de modo permanente y continuo permitan el desarrollo de operaciones mineras, entendiéndose por tales a las que se refiere la letra l) del artículo 3 de la ley N° 20.551, que Regula el Cierre de Faenas e Instalaciones Mineras, incluidas aquellas que derivan del cumplimiento de un plan de cierre de faenas mineras. La consideración a dichas operaciones se aplicará independientemente de si se ejercen en pertenencias propias o arrendadas.
+
+El mismo monto señalado en el inciso anterior se aplicará para aquellas pertenencias que se encuentren en algunas de las siguientes situaciones:
+
+a) Aquellas que sin haber iniciado operaciones mineras se encuentren comprendidas en un proyecto de desarrollo minero que haya obtenido una Resolución de Calificación Ambiental o haya sido admitido a trámite en el Sistema de Evaluación de Impacto Ambiental para su calificación, conforme a la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
+
+b) Aquellas comprendidas en un proyecto que, sin tener obligación de ingresar al sistema señalado en la letra anterior, tenga en trámite alguno de los permisos establecidos en el título XV del decreto supremo N° 132, de 2002, del Ministerio de Minería, que Aprueba Reglamento de Seguridad Minera. Solo podrá determinarse la patente por este concepto por una sola vez.
+
+Las pertenencias a las que se les aplique este monto de la patente serán aquellas incluidas en una unidad productiva minera y sus posibles expansiones, según la información que el concesionario entregue al Servicio. Bastará que una sola de las pertenencias de un mismo dueño, comprendidas en una misma acta de mensura, se encuentre en alguna de las hipótesis establecidas en los incisos anteriores, para que se presuma de derecho que todas las pertenencias se encuentran en tal condición.
+
+Los propietarios de las pertenencias serán los responsables de entregar al Servicio todos los antecedentes necesarios para acreditar el cumplimiento de los requisitos para acceder anualmente al monto de patente señalado en el inciso tercero.
+
+Respecto de aquellas concesiones de explotación que no se encuentren en las hipótesis establecidas en los incisos precedentes, el monto de la patente por cada hectárea completa será equivalente a:
 
 a) Cuatro décimos de unidad tributaria mensual para los primeros cinco años de vigencia de la concesión.
 
@@ -296,13 +320,7 @@ f) Seis unidades tributarias mensuales desde el año vigésimo sexto al año tri
 
 g) Doce unidades tributarias mensuales a partir del trigésimo primer año de vigencia de la concesión.
 
-Respecto de aquellas pertenencias que hubieren iniciado trabajos y los continúen, el monto de la patente será de un décimo de unidad tributaria mensual por hectárea completa que ella comprenda. Para estos efectos, se entenderá que una concesión minera ha iniciado trabajos cuando se realicen labores o actividades en una pertenencia o grupo de pertenencias que de modo permanente permitan el desarrollo de faenas mineras, entendiéndose por tales a las que se refiere el inciso primero del artículo 6° del Reglamento de Seguridad Minera o la norma que lo reemplace, incluyéndose el cumplimiento del respectivo plan de cierre de faenas mineras. Se considerará trabajado el tiempo en que se encuentre vigente un plan de cierre temporal ya aprobado. Las pertenencias que serán consideradas como faenas mineras, comprenderán a todas aquellas pertenencias incluidas en una unidad productiva minera y sus posibles expansiones, según la información que el concesionario haya entregado al Servicio. Bastará que una sola de las pertenencias de un mismo dueño, comprendidas en una misma acta de mensura, esté siendo trabajada conforme a lo prescrito en este inciso, para que se presuma de derecho que todas estas se encuentran en tal condición y, en consecuencia, les sea aplicable lo dispuesto en el presente inciso o el inciso siguiente, según corresponda. En este caso, el monto de la patente será de tres quincuagésimos de unidad tributaria mensual por hectárea completa para concesiones de exploración y de un décimo de unidad tributaria mensual por hectárea completa para concesiones de explotación.
-
-Respecto de aquellas pertenencias que no habiendo iniciado faenas mineras se encuentren comprendidas en un proyecto de desarrollo minero que haya obtenido una Resolución de Calificación Ambiental o que haya ingresado al sistema de evaluación ambiental para su calificación, conforme la ley N° 19.300, sobre Bases Generales del Medio Ambiente, y al Reglamento del Sistema de Evaluación de Impacto Ambiental, el monto de la patente será el equivalente de tres décimos de unidad tributaria mensual por hectárea completa.
-
-Los propietarios de las pertenencias serán los responsables de entregar al Servicio todos los antecedentes necesarios para acreditar el inicio y continuidad de faenas mineras y/o el estatus de la Resolución de Calificación Ambiental que les permitan acceder al beneficio de patente rebajada.
-
-El reglamento del Código de Minería regulará la forma, condiciones, plazos, y formalidades que deberá cumplir el titular para que el Servicio otorgue los beneficios establecidos en este artículo.".
+El reglamento regulará la forma, requisitos, condiciones, plazos y formalidades que deberá cumplir el titular para que el Servicio reconozca el cumplimiento de los requisitos para acceder al monto de la patente establecido en el inciso tercero.".
 
 17. Agréganse en el artículo 143 los siguientes incisos segundo, tercero, cuarto y quinto:
 
@@ -310,9 +328,7 @@ El reglamento del Código de Minería regulará la forma, condiciones, plazos, y
 
 El Servicio publicará la resolución que contenga la nómina de las pertenencias sujetas al pago de patentes rebajadas conforme a lo dispuesto en el artículo 142 bis, y deberá cumplir con los requisitos que para este efecto determine el reglamento del Código de Minería.
 
-Esta publicación deberá efectuarse el 15 de enero de cada año o al día hábil inmediatamente siguiente si aquél recayere en día sábado, domingo o festivo, en el sitio web del Servicio.
-
-La resolución antes señalada será susceptible de reclamación ante el Director del Servicio por quienes sean los titulares de las pertenencias por las cuales se reclama, dentro del plazo de treinta días contado desde la fecha de su publicación.".
+Esta publicación deberá efectuarse el 15 de enero de cada año o al día hábil inmediatamente siguiente si aquél recayere en día sábado, domingo o festivo, en el sitio web del Servicio.".
 
 18. Reemplázase el artículo 145 por el siguiente:
 
@@ -392,35 +408,21 @@ Las disposiciones establecidas en los artículos 7, 8 y 11 entrarán en vigencia
 
 #### Artículo décimo
 
-Las disposiciones establecidas en el artículo 10 entrarán en vigencia a partir del 1 de enero de 2024, debiendo considerarse todos los plazos establecidos en dicho artículo a contar de esta fecha.
+Las disposiciones establecidas en el artículo 10 entrarán en vigencia a partir del 1 de enero de 2024, y se deberán considerar todos los plazos establecidos en dicho artículo a contar de esta fecha. Sin embargo, las disposiciones contenidas en los numerales 5, 6, 7, 9, 13 y 14 de ese artículo entrarán en vigencia en la misma fecha que lo haga la norma reglamentaria que se dicte para efectos de modificar el Datum de referencia de las respectivas coordenadas U.T.M.
 
-Para los efectos de la obligación de entrega de información geológica básica reconocida en el artículo 21 del Código de Minería, que se modifica en el numeral 1 del artículo 10, las concesiones de exploración y explotación actualmente vigentes deberán dar cumplimiento a tal disposición transcurridos dos años, contados desde la entrada en vigencia de la presente ley.
+Para el pago de la patente minera correspondiente al primer año de vigencia de esta ley, en los términos del nuevo artículo 142 bis incorporado por el número 16 del artículo 10, los concesionarios mineros pagarán, por una única vez, el monto aplicable a la patente rebajada señalada en el inciso cuarto del citado artículo.
 
-Los procedimientos de constitución de concesiones mineras que se encontraren pendientes a la fecha de entrada en vigencia de esta ley continuarán rigiéndose por las disposiciones que hubieren estado vigentes al tiempo de su iniciación.
+Respecto de las concesiones de exploración cuya vigencia expire durante el año 2024 y cuyos titulares deseen ejercer el derecho consagrado en el artículo 112, se entenderán prorrogadas hasta el 31 de diciembre de 2024, de manera que puedan ejercer dicho derecho, para lo cual deberán presentar los antecedentes necesarios para cumplir con los requisitos exigidos en dicho artículo dentro de los primeros seis meses del año 2024.
 
-Para efectos del cómputo de los plazos que se contienen en el artículo 142 bis del Código de Minería, que se incorpora en virtud de lo dispuesto en el numeral 16 del artículo 10, se entenderá que todas las concesiones de explotación cuya obligación de amparo haya comenzado con anterioridad a la fecha indicada en el inciso primero, cumplen su primer año de vigencia el último día del mes de febrero siguiente a la fecha de la entrada en vigencia de esta ley.
+Respecto de los procedimientos de constitución de concesiones mineras que se encuentren en tramitación a la fecha de entrada en vigencia de esta ley, continuarán rigiéndose por las disposiciones vigentes al momento de su iniciación.
 
-Artículo undécimo.- Dentro de los seis meses siguientes a la entrada en vigencia del artículo 10 deberá procederse a la modificación del Reglamento del Código de Minería y de todos los demás reglamentos o normas administrativas, que fuere necesario atendido lo dispuesto en el artículo 10.
+Artículo undécimo.- Suprimido.
 
 Artículo duodécimo.- Las concesiones de exploración inscritas en el Conservador de Minas correspondiente, que se encontraren vigentes y no hubieren sido prorrogadas a la fecha de entrada en vigencia del artículo 10, se entenderán constituidas, para todos los efectos legales, por el plazo de cuatro años desde la constitución de la correspondiente concesión.
 
 #### Artículo décimo
 
-tercero.- Para efectos de la unificación del sistema de coordenadas de las concesiones mineras que se encuentren vigentes al momento de entrar en vigencia el artículo 10, se realizará el siguiente procedimiento:
-
-1. El Servicio Nacional de Geología y Minería proporcionará las coordenadas en datum SIRGAS de cada una de las concesiones mineras vigentes. Para estos efectos, el Servicio publicará en la forma y oportunidad que determine el reglamento, las concesiones con las nuevas coordenadas.
-
-2. En caso que un titular de concesión minera vigente no fuere incluido en la publicación o tenga objeciones técnicas respecto las coordenadas proporcionadas, tendrá el plazo de noventa días hábiles para presentar al Servicio objeciones técnicamente fundadas.
-
-3. Transcurrido el plazo señalado en el número precedente, se entenderán las coordenadas proporcionadas como aceptadas para todos los efectos legales.
-
-4. Las objeciones se resolverán en el plazo de sesenta días hábiles. Sin embargo, por resolución fundada del Director del Servicio, se podrá prorrogar dicho plazo por una única vez. La referida prórroga no podrá ser superior al plazo original. Contra la resolución del Servicio podrá reclamarse dentro del plazo de cinco días hábiles contado desde su notificación, la que deberá tramitarse conforme al procedimiento establecido en el artículo 235 del Código de Minería.
-
-5. Las nuevas coordenadas deberán ser inscritas en el plazo de seis meses desde que se entiendan aceptadas conforme a lo señalado en el número 3 o desde que la resolución señalada en el número 4 se encuentre firme. De incumplirse el referido plazo se producirá la caducidad de los títulos. Mientras no se realice la subinscripción de las coordenadas establecidas de acuerdo con este procedimiento, serán válidas las coordenadas prexistentes.
-
-Para el caso de las concesiones que se encuentran beneficiadas con las patentes rebajadas a pequeños mineros, según el artículo 142 del Código de Minería, el trámite señalado en el inciso precedente deberá ser realizado por los conservadores de modo gratuito.
-
-6. En el caso de concesiones mineras en trámite a la fecha de entrada en vigencia de la presente ley, deberán solicitar al Servicio la transformación de las coordenadas de su pedimento, mensura o manifestación. En cualquier caso, la concesión no podrá constituirse si no es en datum SIRGAS. El reglamento establecerá la forma y procedimiento para que esto sea efectivo.
+tercero.- Suprimido.
 
 #### Artículo décimo
 
