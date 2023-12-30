@@ -594,7 +594,9 @@ El documento emitido por el corredor de bolsa o por su oficina que acredite la l
 
 #### Artículo 48
 
-Para que una bolsa de valores pueda suspender las transacciones de un valor por más de cinco días, requerirá de la autorización previa de la Comisión.
+Con el fin de resguardar el interés público y de los inversionistas, una bolsa de valores podrá suspender la transacción de uno o más valores por un plazo máximo de cinco días hábiles bursátiles. También podrá suspender la transacción de todos los valores en simultáneo, por un plazo máximo de un día hábil bursátil. Para suspender las transacciones por un plazo mayor, requerirá de la autorización previa de la Comisión.
+
+Los criterios para determinar la suspensión de las transacciones, según lo dispuesto en los incisos previos, deben ser objetivos y estar contenidos en su reglamentación interna. La bolsa que aplique las medidas de que trata este artículo deberá informar de inmediato a la Comisión de las circunstancias que llevaron a la suspensión y de las medidas remediales.
 
 Toda suspensión o cancelación de inscripción de un valor por parte de una bolsa de valores, será reclamable por el emisor ante la Comisión en los términos previstos por el artículo 50.
 

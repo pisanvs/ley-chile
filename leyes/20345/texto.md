@@ -22,29 +22,31 @@ Para efectos de lo dispuesto en la presente ley, se entenderá por:
 
 4. Entidad de contraparte central: sociedad administradora que compensa órdenes de compensación constituyéndose en acreedora y deudora de los derechos y obligaciones que deriven de tales órdenes.
 
-5. Cámara de compensación de instrumentos financieros: sociedad administradora que compensa órdenes de compensación sin constituirse en contraparte central de las mismas.
+5. Entidad de contraparte central extranjera reconocida: sociedad o entidad administradora establecida en el extranjero, que compensa y liquida órdenes de compensación constituyéndose en acreedora y deudora de los derechos y obligaciones que deriven de tales órdenes, conforme a la regulación aplicable en el país o jurisdicción donde opera, y que ha sido reconocida por la Comisión e incorporada en la nómina de carácter público que ella mantendrá para estos efectos, de acuerdo con lo dispuesto en el Título VIII.
 
-6. Participantes: personas jurídicas autorizadas por ley o por la Superintendencia para ser miembros de un sistema.
+6. Cámara de compensación de instrumentos financieros: sociedad administradora que compensa órdenes de compensación sin constituirse en contraparte central de las mismas.
 
-7. Orden de compensación: instrucción comunicada a un sistema, de acuerdo a sus normas de funcionamiento, para la compensación de obligaciones emanadas de transacciones sobre instrumentos financieros.
+7. Participantes: personas jurídicas autorizadas por ley o por la Comisión para ser miembros de un sistema.
 
-8. Instrumentos Financieros: valores de conformidad a lo establecido en el artículo 3º de la ley Nº 18.045, sobre Mercado de Valores y, en general, cualquier título, derecho, acto, contrato, factura, producto o moneda extranjera, negociables en mercados nacionales o extranjeros. En todo caso, se excluye la moneda nacional.
+8. Orden de compensación: instrucción comunicada a un sistema, de acuerdo a sus normas de funcionamiento, para la compensación de obligaciones emanadas de transacciones sobre instrumentos financieros.
 
-9. Compensación financiera, en adelante compensación: procedimiento de cálculo, de carácter bilateral o multilateral, por el cual se determinan los saldos acreedores netos y deudores netos respecto de las órdenes de compensación aceptadas por dicho sistema dentro de un período determinado por éste, y que resulta en la extinción, hasta la concurrencia de los saldos, de las obligaciones emanadas de las transacciones sobre instrumentos financieros que dieron lugar a dichas órdenes, sin que sea necesaria la concurrencia de los requisitos de la compensación del Código Civil.
+9. Instrumentos Financieros: valores de conformidad a lo establecido en el artículo 3º de la ley Nº 18.045, sobre Mercado de Valores y, en general, cualquier título, derecho, acto, contrato, factura, producto o moneda extranjera, negociables en mercados nacionales o extranjeros. En todo caso, se excluye la moneda nacional.
 
-10. Liquidación: procedimiento por el cual se extinguen los saldos acreedores netos y deudores netos resultantes de la compensación, como consecuencia de:
+10. Compensación financiera, en adelante compensación: procedimiento de cálculo, de carácter bilateral o multilateral, por el cual se determinan los saldos acreedores netos y deudores netos respecto de las órdenes de compensación aceptadas por dicho sistema dentro de un período determinado por éste, y que resulta en la extinción, hasta la concurrencia de los saldos, de las obligaciones emanadas de las transacciones sobre instrumentos financieros que dieron lugar a dichas órdenes, sin que sea necesaria la concurrencia de los requisitos de la compensación del Código Civil.
+
+11. Liquidación: procedimiento por el cual se extinguen los saldos acreedores netos y deudores netos resultantes de la compensación, como consecuencia de:
 
 a) el pago en dinero efectuado mediante transferencias de fondos depositados en cuentas abiertas en el Banco Central de Chile o en empresas bancarias, y
 
 b) la transferencia de instrumentos financieros, cuando así lo requieran las transacciones que hubieren dado origen a las órdenes de compensación.
 
-11. Procedimiento Concursal: procedimiento judicial o administrativo incoado en virtud de una resolución de liquidación o la presentación de proposiciones de acuerdo de reorganización y, en general, cualquier procedimiento ejecutivo patrimonial de carácter universal y colectivo que regule la administración y/o liquidación de los bienes de un deudor insolvente, así como el pago a los acreedores, conforme a la prelación legal.
+12. Procedimiento Concursal: procedimiento judicial o administrativo incoado en virtud de una resolución de liquidación o la presentación de proposiciones de acuerdo de reorganización y, en general, cualquier procedimiento ejecutivo patrimonial de carácter universal y colectivo que regule la administración y/o liquidación de los bienes de un deudor insolvente, así como el pago a los acreedores, conforme a la prelación legal.
 
 #### Artículo 2º
 
 La presente ley se aplicará a los sistemas de compensación y liquidación de instrumentos financieros, a las sociedades administradoras y sus participantes, a las garantías otorgadas por estos últimos y a las órdenes de compensación comunicadas de conformidad con las normas de funcionamiento de dichos sistemas. Sin perjuicio de lo dispuesto en el artículo siguiente, no se aplicará esta ley a los sistemas de pagos autorizados o creados por el Banco Central de Chile de conformidad con el numeral 8 del artículo 35 de su ley orgánica constitucional, cuyo funcionamiento se regirá por la reglamentación que éste imparta. Tampoco se aplicará a los sistemas de pago establecidos en el extranjero que aquél reconozca de acuerdo a esa misma disposición.
 
-Corresponderá a la Superintendencia de Valores y Seguros, en adelante la Superintendencia, velar por el cumplimiento de esta ley y de las normas que la complementen, y fiscalizar a las sociedades administradoras, de acuerdo a las facultades que se le confieren en la presente ley y en el decreto ley Nº 3.538, de 1980.
+Corresponderá a la Comisión para el Mercado Financiero, en adelante la Comisión, velar por el cumplimiento de esta ley y de las normas que la complementen, y fiscalizar a las sociedades administradoras, de acuerdo a las facultades que se le confieren en la presente ley y en el decreto ley Nº 3.538, de 1980.
 
 Para efectos de esta ley, los días sábado no serán considerados hábiles.
 
@@ -62,11 +64,11 @@ La liquidación de los saldos acreedores y deudores netos de instrumentos financ
 
 Toda liquidación deberá realizarse de acuerdo a niveles de riesgo generalmente aceptados, conforme a las mejores prácticas y recomendaciones internacionales en la materia.
 
-Cuando la liquidación de sumas de dinero deba efectuarse a través de cualquier sistema de pagos regulado o autorizado por el Banco Central de Chile para esta finalidad, se sujetará a la normativa dictada por dicho organismo. Con este objeto, el Banco Central de Chile estará facultado para abrir cuentas corrientes a las sociedades administradoras de conformidad con lo establecido en el artículo 55 de su ley orgánica. Lo anterior no implicará, en ningún caso, el otorgamiento de facilidades de financiamiento o refinanciamiento, ni la garantía del Banco Central de Chile, respecto de las obligaciones a liquidar.
+Cuando la liquidación de sumas de dinero deba efectuarse a través de cualquier sistema de pagos regulado o autorizado por el Banco Central de Chile para esta finalidad, se sujetará a la normativa dictada por dicho organismo. Con este objeto, el Banco Central de Chile estará facultado para abrir cuentas corrientes a las sociedades administradoras de conformidad con lo establecido en el artículo 55 de su ley orgánica. Lo anterior no implicará, de manera alguna, el otorgamiento de la garantía del Banco Central de Chile respecto de las obligaciones a liquidar. En todo caso, el otorgamiento de facilidades de financiamiento o refinanciamiento sólo podrá ser destinado a la liquidación de sumas de dinero a través de algún sistema de pagos regulado o autorizado por el Banco para esta finalidad y deberá sujetarse a lo establecido en su ley orgánica.
 
 #### Artículo 4º
 
-La administración de sistemas de compensación y liquidación de instrumentos financieros sólo podrá ser ejercida por sociedades administradoras constituidas como entidades de contraparte central o cámaras de compensación de instrumentos financieros de conformidad a la presente ley.
+La administración de sistemas de compensación y liquidación de instrumentos financieros sólo podrá ser ejercida por sociedades administradoras constituidas como entidades de contraparte central o cámaras de compensación de instrumentos financieros de conformidad a la presente ley, o por sociedades filiales de empresas de depósito de valores regidas por la ley N° 18.876, cuyo objeto consista en actuar como alguna de las entidades antedichas.
 
 Sin perjuicio de lo anterior, las sociedades administradoras podrán además administrar otros sistemas de los definidos en esta ley, siempre que en ellos no se constituya en acreedora y deudora de los saldos netos derivados de las órdenes de compensación aceptadas por tales sistemas.
 
@@ -74,7 +76,7 @@ Las infracciones a este artículo se sancionarán con las penas contempladas en 
 
 #### Artículo 5º
 
-Las sociedades administradoras se constituirán como sociedades anónimas especiales, de conformidad a lo establecido en el artículo 126 de la ley Nº 18.046, sobre sociedades anónimas, y se regirán por las normas aplicables a las sociedades anónimas abiertas en lo que no fuere contrario a la presente ley.
+Las sociedades administradoras se constituirán como sociedades anónimas especiales, de conformidad a lo establecido en el artículo 126 de la ley Nº 18.046, sobre sociedades anónimas, y el inciso segundo del artículo 23 de la ley N° 18.876,, y se regirán por las normas aplicables a las sociedades anónimas abiertas en lo que no fuere contrario a la presente ley.
 
 Las solicitudes de autorización de existencia de las sociedades administradoras deberán acompañar los siguientes antecedentes:
 
@@ -82,7 +84,7 @@ Las solicitudes de autorización de existencia de las sociedades administradoras
 
 2. Plan general de funcionamiento, describiendo los elementos operacionales del sistema o sistemas a administrar.
 
-Para pronunciarse sobre la autorización de existencia de una sociedad administradora, la Superintendencia dispondrá del plazo de 30 días hábiles contado desde la fecha de la presentación de los documentos señalados. Dicho plazo se suspenderá si la Superintendencia solicita información adicional, realiza observaciones o instruye alguna modificación por no ajustarse los antecedentes acompañados a las disposiciones legales o administrativas aplicables, reanudándose el transcurso del plazo cuando se haya cumplido dicho trámite. Vencido el plazo de 30 días anterior sin que la Superintendencia hubiere rechazado la solicitud presentada, y subsanados los defectos o atendidas las observaciones formuladas, en su caso, se podrá requerir la aplicación del silencio administrativo positivo en la forma señalada en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+Para pronunciarse sobre la autorización de existencia de una sociedad administradora, la Comisión dispondrá del plazo de 30 días hábiles contado desde la fecha de la presentación de los documentos señalados. Dicho plazo se suspenderá si la Comisión solicita información adicional, realiza observaciones o instruye alguna modificación por no ajustarse los antecedentes acompañados a las disposiciones legales o administrativas aplicables, reanudándose el transcurso del plazo cuando se haya cumplido dicho trámite. Vencido el plazo de 30 días anterior sin que la Comisión hubiere rechazado la solicitud presentada, y subsanados los defectos o atendidas las observaciones formuladas, en su caso, se podrá requerir la aplicación del silencio administrativo positivo en la forma señalada en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
 
 #### Artículo 6º
 
@@ -118,11 +120,11 @@ vi. Que se le haya aplicado, directamente o a través de personas jurídicas, cu
 
 Tratándose de una persona jurídica, los requisitos establecidos en este artículo se considerarán respecto de sus controladores, socios o accionistas mayoritarios, directores, administradores, gerentes y ejecutivos principales, a la fecha de la solicitud.
 
-La Superintendencia verificará el cumplimiento de estos requisitos, para lo cual podrá solicitar que se le proporcionen los antecedentes que señale. En caso de rechazo, deberá justificarlo por resolución fundada.
+La Comisión verificará el cumplimiento de estos requisitos, para lo cual podrá solicitar que se le proporcionen los antecedentes que señale. En caso de rechazo, deberá justificarlo por resolución fundada.
 
 #### Artículo 7º
 
-Las sociedades administradoras deberán presentar a la Superintendencia las normas de funcionamiento y un estudio tarifario de cada uno de los sistemas que admi-nistren.
+Las sociedades administradoras deberán presentar a la Comisión las normas de funcionamiento y un estudio tarifario de cada uno de los sistemas que administren.
 
 Todo sistema deberá contar con normas de funcionamiento que contemplen, a lo menos, las siguientes materias:
 
@@ -140,7 +142,7 @@ Todo sistema deberá contar con normas de funcionamiento que contemplen, a lo me
 
 7. Los procedimientos necesarios para asegurar que la liquidación final de los resultados netos de cada ciclo de compensación, pueda llevarse a cabo de forma íntegra y oportuna.
 
-8. Las garantías que deberán ser proporcionadas por los participantes, así como la forma y casos en que se procederá a la asignación y realización de dichas garantías. La Superintendencia autorizará los bienes susceptibles de ser otorgados en garantía y la forma de valorizarlos.
+8. Las garantías que deberán ser proporcionadas por los participantes, así como la forma y casos en que se procederá a la asignación y realización de dichas garantías. La Comisión autorizará los bienes susceptibles de ser otorgados en garantía y la forma de valorizarlos.
 
 9. Las medidas que se adoptarán en caso de incumplimiento de las obligaciones por parte de los participantes, incluyendo las sanciones que serán aplicadas en caso de infracción de las normas de funcionamiento y el procedimiento para su aplicación.
 
@@ -148,9 +150,9 @@ Todo sistema deberá contar con normas de funcionamiento que contemplen, a lo me
 
 11. Las medidas que se adoptarán para resguardar la continuidad operacional del sistema.
 
-Lo anterior es sin perjuicio de la facultad de la Superintendencia para impartir las instrucciones y normas que estime necesarias para el cumplimiento de los objetivos de la presente ley.
+Lo anterior es sin perjuicio de la facultad de la Comisión para impartir las instrucciones y normas que estime necesarias para el cumplimiento de los objetivos de la presente ley.
 
-Las sociedades administradoras deberán proporcionar un estudio tarifario, el que será de conocimiento público. Las tarifas deberán fundamentarse en los ingresos y costos relevantes proyectados por la sociedad administradora y tener en consideración los principios de equilibrio financiero de la empresa y de no discriminación arbitraria. Los contenidos mínimos para la elaboración del estudio serán establecidos por la Superintendencia mediante norma de carácter general. El referido estudio deberá ser actualizado a lo menos cada dos años y cada vez que la entidad ajuste sus tarifas, o a petición fundada de la Superintendencia.
+Las sociedades administradoras deberán proporcionar un estudio tarifario, el que será de conocimiento público. Las tarifas deberán fundamentarse en los ingresos y costos relevantes proyectados por la sociedad administradora y tener en consideración los principios de equilibrio financiero de la empresa y de no discriminación arbitraria. Los contenidos mínimos para la elaboración del estudio serán establecidos por la Comisión mediante norma de carácter general. El referido estudio deberá ser actualizado a lo menos cada dos años y cada vez que la entidad ajuste sus tarifas, o a petición fundada de la Comisión.
 
 #### Artículo 8º
 
@@ -166,41 +168,39 @@ Los comités estarán integrados por un mínimo de 3 miembros y presentarán sus
 
 #### Artículo 9º
 
-La política de gestión de riesgos de cada sistema será establecida por el directorio de la sociedad administradora, considerando la propuesta del comité de riesgos señalado en el artículo anterior. Dicha política se hará pública en la forma que señale la Superintendencia mediante norma de carácter general. El directorio deberá enviar al comité de riesgos respuesta escrita a la propuesta de éste.
+La política de gestión de riesgos de cada sistema será establecida por el directorio de la sociedad administradora, considerando la propuesta del comité de riesgos señalado en el artículo anterior. Dicha política se hará pública en la forma que señale la Comisión mediante norma de carácter general. El directorio deberá enviar al comité de riesgos respuesta escrita a la propuesta de éste.
 
 #### Artículo 10
 
-La Superintendencia, previo acuerdo favorable del Consejo del Banco Central de Chile, aprobará las normas de funcionamiento y sus modificaciones. Para efectos de lo anterior, una vez recibida la solicitud de aprobación de las normas de funcionamiento o sus modificaciones, en su caso, la Superintendencia remitirá copia de tales antecedentes al Banco Central de Chile, el que se pronunciará respecto de las materias de su competencia.
+La Comisión, previo acuerdo favorable del Consejo del Banco Central de Chile, aprobará las normas de funcionamiento y sus modificaciones. Para efectos de lo anterior, una vez recibida la solicitud de aprobación de las normas de funcionamiento o sus modificaciones, en su caso, la Comisión remitirá copia de tales antecedentes al Banco Central de Chile, el que se pronunciará respecto de las materias de su competencia.
 
-Asimismo, en forma previa a la aprobación de las normas de funcionamiento o sus modificaciones, la Superintendencia consultará a la Superintendencia de Bancos e Instituciones Financieras.
+El Banco Central de Chile dispondrá de un plazo de sesenta días hábiles para manifestar sus observaciones a la Comisión. Este lapso se suspenderá y reanudará en las mismas situaciones previstas en el inciso siguiente.
 
-El Banco Central de Chile y la Superintendencia de Bancos e Instituciones Financieras dispondrán de un plazo de 60 días hábiles para manifestar sus observaciones a la Superintendencia.
+Para la aprobación a que se refiere el inciso primero, se dispondrá de un plazo de 90 días hábiles, el que se suspenderá si la Comisión solicita información adicional, realiza observaciones o instruye alguna modificación por no ajustarse a las disposiciones legales o administrativas aplicables, reanudándose el transcurso del plazo cuando se haya cumplido dicho trámite.
 
-Para la aprobación a que se refiere el inciso primero, se dispondrá de un plazo de 90 días hábiles, el que se suspenderá si la Superintendencia solicita información adicional, realiza observaciones o instruye alguna modificación por no ajustarse a las disposiciones legales o administrativas aplicables, reanudándose el transcurso del plazo cuando se haya cumplido dicho trámite.
+Vencido el plazo de 90 días anterior sin que la Comisión hubiere rechazado la solicitud presentada, y subsanados los defectos o atendidas las observaciones formuladas, en su caso, se podrá requerir la aplicación del silencio administrativo positivo en la forma señalada en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
 
-Vencido el plazo de 90 días anterior sin que la Superintendencia hubiere rechazado la solicitud presentada, y subsanados los defectos o atendidas las observaciones formuladas, en su caso, se podrá requerir la aplicación del silencio administrativo positivo en la forma señalada en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
-
-Obtenida la aprobación de las normas de funcionamiento, la Superintendencia comprobará si la sociedad administradora se encuentra preparada para iniciar sus actividades, y especialmente si cuenta con las instalaciones, los recursos profesionales y tecnológicos, y los procedimientos y controles necesarios para desempeñar adecuadamente sus funciones. La Superintendencia deberá pronunciarse sobre el cumplimiento de estas obligaciones en el plazo de 30 días hábiles siguientes a la aprobación de las normas de funcionamiento, mediante resolución fundada. A partir de esa fecha, la sociedad administradora se encontrará facultada para dar inicio a sus actividades.
+Obtenida la aprobación de las normas de funcionamiento, la Comisión comprobará si la sociedad administradora se encuentra preparada para iniciar sus actividades, y especialmente si cuenta con las instalaciones, los recursos profesionales y tecnológicos, y los procedimientos y controles necesarios para desempeñar adecuadamente sus funciones. La Comisión deberá pronunciarse sobre el cumplimiento de estas obligaciones en el plazo de 30 días hábiles siguientes a la aprobación de las normas de funcionamiento, mediante resolución fundada. A partir de esa fecha, la sociedad administradora se encontrará facultada para dar inicio a sus actividades.
 
 #### Artículo 11
 
 Las sociedades administradoras estarán sujetas a las siguientes normas:
 
-1. Serán instituciones de funcionamiento obligatorio y no podrán iniciar, suspender, en forma total o parcial, o poner término a sus operaciones sin previa autorización de la Superintendencia.
+1. Serán instituciones de funcionamiento obligatorio y no podrán iniciar, suspender, en forma total o parcial, o poner término a sus operaciones sin previa autorización de la Comisión.
 
-2. Deberán llevar separadamente su contabilidad de aquella de los fondos de garantía y fondos de reserva que administren, en la forma que determine la Superintendencia mediante norma de carácter general.
+2. Deberán llevar separadamente su contabilidad de aquella de los fondos de garantía y fondos de reserva que administren, en la forma que determine la Comisión mediante norma de carácter general.
 
-3. Deberán llevar registro de todas las operaciones realizadas por los sistemas que administren y las demás informaciones que determine la Superintendencia;
+3. Deberán llevar registro de todas las operaciones realizadas por los sistemas que administren y las demás informaciones que determine la Comisión;
 
 4. Su directorio estará integrado por un número mínimo de siete miembros.
 
-5. Deberán constituir fondos de reserva por cada sistema que administren, para responder a los participantes del cumplimiento de sus obligaciones. Los bienes que integren dichos fondos de reserva constituirán patrimonios de afectación para la garantía de tales obligaciones y no serán susceptibles de reivindicación, embargo, medida prejudicial o precautoria u otras limitaciones al dominio por causa alguna, ni podrán estar sujetos a otros gravámenes o prohibiciones que los establecidos por las normas de funcionamiento, las que determinarán, asimismo, los casos y forma en que tales bienes serán ejecutados para cumplir las obligaciones que garanticen. La Superintendencia, mediante norma de carácter general, determinará la forma de constitución y los montos de los fondos de reserva en relación a los riesgos asumidos por las sociedades administradoras, los que no podrán superar el equivalente al mayor saldo deudor neto diario de los participantes del sistema, de acuerdo a las prácticas y principios de gestión de riesgos de general aceptación.
+5. Deberán constituir fondos de reserva por cada sistema que administren, para responder a los participantes del cumplimiento de sus obligaciones. Los bienes que integren dichos fondos de reserva constituirán patrimonios de afectación para la garantía de tales obligaciones y no serán susceptibles de reivindicación, embargo, medida prejudicial o precautoria u otras limitaciones al dominio por causa alguna, ni podrán estar sujetos a otros gravámenes o prohibiciones que los establecidos por las normas de funcionamiento, las que determinarán, asimismo, los casos y forma en que tales bienes serán ejecutados para cumplir las obligaciones que garanticen. La Comisión, mediante norma de carácter general, determinará la forma de constitución y los montos de los fondos de reserva en relación a los riesgos asumidos por las sociedades administradoras, los que no podrán superar el equivalente al mayor saldo deudor neto diario de los participantes del sistema, de acuerdo a las prácticas y principios de gestión de riesgos de general aceptación.
 
 6. Deberán velar por el cumplimiento de las normas de funcionamiento.
 
-7. Deberán establecer las condiciones generales y objetivas, bajo las cuales se producirá la interconexión de los sistemas que administren, con otros sistemas o entidades, nacionales o extranjeros, e informarlas a la Superintendencia.
+7. Deberán establecer las condiciones generales y objetivas, bajo las cuales se producirá la interconexión de los sistemas que administren, con otros sistemas o entidades, nacionales o extranjeros, e informarlas a la Comisión.
 
-8. Proporcionarán a la Superintendencia toda la información que ésta solicite en ejercicio de sus funciones de supervigilancia y fiscalización.
+8. Proporcionarán a la Comisión toda la información que ésta solicite en ejercicio de sus funciones de supervigilancia y fiscalización.
 
 9. Responderán hasta de la culpa leve por los perjuicios que causaren a los participantes por incumplimiento de cualquiera de sus obligaciones.
 
@@ -212,7 +212,7 @@ De las Entidades de Contraparte Central
 
 #### Artículo 12
 
-Las entidades de contraparte central tendrán como objeto exclusivo administrar sistemas, y desarrollar las demás actividades complementarias que autorice esta ley o la Superintendencia por norma de carácter general.
+Las entidades de contraparte central tendrán como objeto exclusivo administrar sistemas, y desarrollar las demás actividades complementarias que autorice esta ley o la Comisión por norma de carácter general.
 
 Una vez producida la aceptación de las órdenes de compensación de conformidad a las normas de funcionamiento de un sistema, las contrapartes centrales se constituirán irrevocablemente en acreedoras y deudoras de los derechos y obligaciones que deriven de tales órdenes, tanto frente a terceros como respecto de las partes de las transacciones que las hubieren originado, quienes a partir de ese momento dejarán de estar jurídicamente vinculadas entre sí. Lo anterior no regirá para los efectos de la aplicación de los impuestos que graven las transacciones respectivas y las obligaciones tributarias de las partes. El Servicio de Impuestos Internos podrá solicitar información de las mencionadas transacciones.
 
@@ -230,7 +230,7 @@ Para el desarrollo de su objeto, las contrapartes centrales realizarán las sigu
 
 5. Emitir las certificaciones establecidas en esta ley y en las normas de funcionamiento.
 
-6. Establecer acuerdos con otras entidades nacionales o extranjeras, así como con otro tipo de administradores de sistemas, o adquirir participación en la propiedad de ellos. La Superintendencia podrá establecer, mediante norma de carácter general, criterios que deberán cumplir los mencionados acuerdos o las contrapartes de los mismos.
+6. Establecer acuerdos con otras entidades nacionales o extranjeras, así como con otro tipo de administradores de sistemas, o adquirir participación en la propiedad de ellos. La Comisión podrá establecer, mediante norma de carácter general, criterios que deberán cumplir los mencionados acuerdos o las contrapartes de los mismos.
 
 Los apoderados de las sociedades administradoras que den certificaciones falsas sufrirán las penas establecidas en el artículo 59 de la ley Nº 18.045, sobre Mercado de Valores.
 
@@ -240,7 +240,7 @@ Las contrapartes centrales estarán sujetas a las siguientes reglas especiales:
 
 1. En su nombre deberán incluir la expresión "Contraparte Central". Se reserva el uso de la expresión "Contraparte Central" a aquellas sociedades constituidas de conformidad a las normas del presente Capítulo.
 
-2. Deberán constituirse con un capital pagado mínimo equivalente a 150.000 unidades de fomento y mantener un patrimonio no inferior al monto mencionado. Asimismo, su endeudamiento no superará en ningún momento el doble de su patrimonio. La Superintendencia, por norma de carácter general, podrá establecer la forma de calcular el endeudamiento y el patrimonio para estos efectos.
+2. Deberán constituirse con un capital pagado mínimo equivalente a 150.000 unidades de fomento y mantener un patrimonio no inferior al monto mencionado. Asimismo, su endeudamiento no superará en ningún momento el doble de su patrimonio. La Comisión, por norma de carácter general, podrá establecer la forma de calcular el endeudamiento y el patrimonio para estos efectos.
 
 3. Deberán constituir uno o más fondos de garantía de los referidos en el Título IV de la presente ley.
 
@@ -256,27 +256,27 @@ Las decisiones adoptadas de conformidad a lo establecido en los incisos anterior
 
 #### Artículo 16
 
-Si durante su existencia el patrimonio de la contraparte central se redujere a cifras inferiores al mínimo señalado en el número 2 del artículo 14 o su endeudamiento sea superior al límite establecido en el mismo número, el gerente de la entidad, o quien haga sus veces, deberá informar a la Superintendencia tan pronto como tenga conocimiento de este hecho. Dentro de los 2 días hábiles siguientes de efectuada tal comunicación, deberá acompañar un informe de las razones que dieron lugar a la situación descrita y de las medidas dispuestas para subsanar, en un plazo no superior a 20 días hábiles desde la presentación del informe, el déficit patrimonial o el exceso de endeudamiento.
+Si durante su existencia el patrimonio de la contraparte central se redujere a cifras inferiores al mínimo señalado en el número 2 del artículo 14 o su endeudamiento sea superior al límite establecido en el mismo número, el gerente de la entidad, o quien haga sus veces, deberá informar a la Comisión tan pronto como tenga conocimiento de este hecho. Dentro de los 2 días hábiles siguientes de efectuada tal comunicación, deberá acompañar un informe de las razones que dieron lugar a la situación descrita y de las medidas dispuestas para subsanar, en un plazo no superior a 20 días hábiles desde la presentación del informe, el déficit patrimonial o el exceso de endeudamiento.
 
 Transcurrido este último plazo sin que se hubiere regularizado el déficit patrimonial o el exceso de endeudamiento, el directorio de la sociedad deberá convocar en única citación a una junta extraordinaria de accionistas para aprobar el aumento de capital necesario para cumplir el requerimiento legal. La junta, que deberá celebrarse dentro de los 50 días hábiles siguientes a la convocatoria, se constituirá con las acciones que se encuentren presentes o representadas, cualquiera sea su número, y los acuerdos se adoptarán por la mayoría absoluta de las acciones presentes o representadas con derecho a voto. El aumento de capital deberá enterarse en dinero efectivo y en un plazo no superior a 20 días hábiles contado desde la fecha del acuerdo.
 
 #### Artículo 17
 
-A partir del momento en que tome conocimiento del déficit patrimonial o del exceso de endeudamiento en que hubiere incurrido una contraparte central, la Superintendencia podrá ordenar, mediante resolución fundada, que aquélla no actúe en calidad de contraparte central sino como cámara de compensación de instrumentos financieros.
+A partir del momento en que tome conocimiento del déficit patrimonial o del exceso de endeudamiento en que hubiere incurrido una contraparte central, la Comisión podrá ordenar, mediante resolución fundada, que aquélla no actúe en calidad de contraparte central sino como cámara de compensación de instrumentos financieros.
 
-La resolución que al efecto dicte la Superintendencia será comunicada por la sociedad administradora en carácter de hecho esencial.
+La resolución que al efecto dicte la Comisión será comunicada por la sociedad administradora en carácter de hecho esencial.
 
 Mientras dicha resolución se mantenga vigente, para el desarrollo de su giro la contraparte central deberá utilizar la expresión "Contraparte Central en Regularización".
 
 #### Artículo 18
 
-Vencidos los plazos establecidos en los artículos anteriores sin que se haya subsanado el déficit patrimonial o el exceso de endeudamiento, la Superintendencia podrá autorizar, mediante resolución fundada, que la contraparte central continúe operando sólo en calidad de cámara de compensación de instrumentos financieros por un plazo no superior a un año. Mientras dicha resolución se mantenga vigente, para el desarrollo de su giro la contraparte central deberá utilizar la expresión "Contraparte Central en Intervención".
+Vencidos los plazos establecidos en los artículos anteriores sin que se haya subsanado el déficit patrimonial o el exceso de endeudamiento, la Comisión podrá autorizar, mediante resolución fundada, que la contraparte central continúe operando sólo en calidad de cámara de compensación de instrumentos financieros por un plazo no superior a un año. Mientras dicha resolución se mantenga vigente, para el desarrollo de su giro la contraparte central deberá utilizar la expresión "Contraparte Central en Intervención".
 
 Durante dicho período, la administración de la contraparte central será realizada por el Superintendente o por la persona que éste designe al efecto, quien tendrá las facultades y deberes del giro ordinario que la ley y los estatutos señalan al directorio y al gerente.
 
 #### Artículo 19
 
-En caso que la Superintendencia no otorgue la autorización establecida en el artículo anterior, o una vez vencido el plazo otorgado, ésta decretará la revocación de la autorización de existencia de la contraparte central y se procederá a su liquidación de acuerdo a lo establecido en el Título V de esta ley.
+En caso que la Comisión no otorgue la autorización establecida en el artículo anterior, o una vez vencido el plazo otorgado, ésta decretará la revocación de la autorización de existencia de la contraparte central y se procederá a su liquidación de acuerdo a lo establecido en el Título V de esta ley.
 
 ## Capítulo III
 
@@ -284,13 +284,13 @@ De las Cámaras de Compensación de Instrumentos Financieros
 
 #### Artículo 20
 
-Las cámaras de compensación de instrumentos financieros tendrán como objeto exclusivo administrar sistemas de compensación de instrumentos financieros sin constituirse en acreedoras o deudoras de los derechos y obligaciones que surjan de las órdenes de compensación de los mismos, y desarrollar las demás actividades complementarias que autorice esta ley o la Superintendencia mediante norma de carácter general.
+Las cámaras de compensación de instrumentos financieros tendrán como objeto exclusivo administrar sistemas de compensación de instrumentos financieros sin constituirse en acreedoras o deudoras de los derechos y obligaciones que surjan de las órdenes de compensación de los mismos, y desarrollar las demás actividades complementarias que autorice esta ley o la Comisión mediante norma de carácter general.
 
 A las cámaras de compensación les serán aplicables las normas establecidas en esta ley para las contrapartes centrales, con las siguientes excepciones:
 
 1. En su nombre deberán incluir la expresión "Cámara de Compensación de Instrumentos Financieros". Se reserva el uso de la expresión "Cámara de Compensación de Instrumentos Financieros" a aquellas sociedades constituidas de conformidad a las normas del presente Capítulo.
 
-2. Deberán constituirse con un capital pagado mínimo equivalente a 100.000 unidades de fomento, y mantener un patrimonio no inferior al monto mencionado. Asimismo, su endeudamiento no superará en ningún momento el doble de su patrimonio. La Superintendencia, por norma de carácter general, podrá establecer la forma de calcular el endeudamiento y el patrimonio para estos efectos.
+2. Deberán constituirse con un capital pagado mínimo equivalente a 100.000 unidades de fomento, y mantener un patrimonio no inferior al monto mencionado. Asimismo, su endeudamiento no superará en ningún momento el doble de su patrimonio. La Comisión, por norma de carácter general, podrá establecer la forma de calcular el endeudamiento y el patrimonio para estos efectos.
 
 3. Podrán constituir fondos de garantía de los referidos en el Título IV de la presente ley.
 
@@ -302,9 +302,9 @@ De los participantes
 
 #### Artículo 21
 
-Podrán ser participantes de estos sistemas los agentes de valores, corredores de bolsas de valores, corredores de bolsas de productos, bancos y demás personas que autorice la Superintendencia a través de normas de carácter general.
+Podrán ser participantes de estos sistemas los agentes de valores, corredores de bolsas de valores, corredores de bolsas de productos, bancos y demás personas que autorice la Comisión a través de normas de carácter general.
 
-Una norma de carácter general adoptada conjuntamente por la Superintendencia y la Superintendencia de Bancos e Instituciones Financieras establecerá los requisitos patrimoniales, financieros, tecnológicos o de recursos humanos que deberán cumplir los participantes en relación a los volúmenes transados y a los riesgos que asuman en el sistema.
+Una norma de carácter general adoptada por la Comisión establecerá los requisitos patrimoniales, financieros, tecnológicos o de recursos humanos que deberán cumplir los participantes en relación a los volúmenes transados y a los riesgos que asuman en el sistema.
 
 #### Artículo 22
 
@@ -322,7 +322,7 @@ Del Principio de Firmeza
 
 #### Artículo 24
 
-El ingreso de una orden de compensación a un sistema implicará su sujeción a las normas de la presente ley, a las de carácter general que al efecto imparta la Superintendencia y a las de funcionamiento del mismo.
+El ingreso de una orden de compensación a un sistema implicará su sujeción a las normas de la presente ley, a las de carácter general que al efecto imparta la Comisión y a las de funcionamiento del mismo.
 
 A partir del momento en que sean aceptadas por un sistema, las órdenes de compensación serán irrevocables, y no podrán ser dejadas sin efecto o modificadas por las partes de las transacciones que las hubieren originado, sino en los casos calificados y en la forma que señalen las normas de funcionamiento.
 
@@ -336,7 +336,7 @@ Las resoluciones judiciales, arbitrales o actos administrativos que tengan por f
 
 Asimismo, las resoluciones judiciales, arbitrales o actos administrativos que tengan por finalidad o efecto declarar el desasimiento de un participante o la prohibición para éste de celebrar actos y contratos, deberán ser notificadas en la misma forma señalada en el inciso anterior, y sólo serán oponibles al sistema y sus participantes a partir del día hábil siguiente. Sin perjuicio de lo anterior, una vez efectuada la notificación a que se refiere este inciso, el sistema quedará impedido de aceptar cualquier orden de compensación impartida por el participante afectado por dicha notificación así como cualquier constitución, modificación o retiro de garantías por el mismo.
 
-La sociedad administradora deberá informar inmediatamente a la Superintendencia y a los participantes del sistema, por los medios previstos en las normas de funcionamiento, acerca de las notificaciones que reciba de conformidad a lo señalado en este artículo.
+La sociedad administradora deberá informar inmediatamente a la Comisión y a los participantes del sistema, por los medios previstos en las normas de funcionamiento, acerca de las notificaciones que reciba de conformidad a lo señalado en este artículo.
 
 La sociedad administradora será responsable civilmente de los perjuicios causados a terceros por el incumplimiento de lo establecido en este artículo, sin perjuicio de las responsabilidades administrativas y penales que correspondan.
 
@@ -388,7 +388,7 @@ Los fondos de garantía tendrán por finalidad cubrir las obligaciones de los pa
 
 Los fondos de garantía serán patrimonios integrados por los aportes que, de conformidad a las normas de funcionamiento, efectúen los participantes o la sociedad administradora, por el producto de la rentabilidad que genere la inversión de los recursos de los fondos y por los demás bienes que determinen dichas normas.
 
-Las normas de funcionamiento deberán establecer un nivel mínimo que los fondos de garantía mantendrán permanentemente y la forma en que se efectuarán los aportes a los fondos que fueren necesarios para restituir dicho nivel cuando éste se redujere por debajo del mínimo. En caso de producirse un déficit en el nivel de los fondos de garantía, las sociedades administradoras informarán a la Superintendencia tan pronto como tengan conocimiento de este hecho.
+Las normas de funcionamiento deberán establecer un nivel mínimo que los fondos de garantía mantendrán permanentemente y la forma en que se efectuarán los aportes a los fondos que fueren necesarios para restituir dicho nivel cuando éste se redujere por debajo del mínimo. En caso de producirse un déficit en el nivel de los fondos de garantía, las sociedades administradoras informarán a la Comisión tan pronto como tengan conocimiento de este hecho.
 
 #### Artículo 31
 
@@ -416,11 +416,11 @@ Para tales efectos, el Superintendente, o la persona que éste designe, contará
 
 Los gastos de liquidación serán de cuenta de la sociedad administradora en liquidación.
 
-Sin embargo, la Superintendencia podrá autorizar a la sociedad administradora a practicar o continuar la liquidación de acuerdo a las reglas generales.
+Sin embargo, la Comisión podrá autorizar a la sociedad administradora a practicar o continuar la liquidación de acuerdo a las reglas generales.
 
 #### Artículo 34
 
-En caso que un acreedor solicitare la liquidación forzosa de una sociedad administradora, el juez competente deberá dar aviso a la Superintendencia, a fin que ésta informe acerca de la solvencia de aquélla dentro de los diez días hábiles siguientes. Dicho plazo podrá ser prorrogado por el juez una sola vez y por el mismo lapso. Si la Superintendencia comprobare que la sociedad administradora no es solvente, así lo informará al tribunal. En caso contrario, podrá proponer las medidas conducentes para que prosiga sus operaciones. Si transcurrido este plazo la Superintendencia no hubiere informado al tribunal, éste continuará con el procedimiento de acuerdo a las normas generales.
+En caso que un acreedor solicitare la liquidación forzosa de una sociedad administradora, el juez competente deberá dar aviso a la Comisión, a fin que ésta informe acerca de la solvencia de aquélla dentro de los diez días hábiles siguientes. Dicho plazo podrá ser prorrogado por el juez una sola vez y por el mismo lapso. Si la Comisión comprobare que la sociedad administradora no es solvente, así lo informará al tribunal. En caso contrario, podrá proponer las medidas conducentes para que prosiga sus operaciones. Si transcurrido este plazo la Comisión no hubiere informado al tribunal, éste continuará con el procedimiento de acuerdo a las normas generales.
 
 Si el tribunal que conociere de la solicitud de liquidación forzosa resolviere que la sociedad administradora se encuentra en condiciones de continuar con sus operaciones, durante los 180 días siguientes a la resolución que así lo determinare, quedará suspendida toda ejecución forzada de las obligaciones de la sociedad administradora, sea ante el mismo tribunal o cualquier otro, como asimismo todas las tramitaciones de la liquidación forzosa. Vencido el plazo anterior, el tribunal declarará la liquidación forzosa o la rechazará.
 
@@ -428,9 +428,9 @@ Si el tribunal que conociere de la solicitud de liquidación forzosa resolviere 
 
 Toda proposición de acuerdo de reorganización se sujetará a las normas del Capítulo III de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
-Sin embargo, en la junta de acreedores respectiva podrá hacerse representar la Superintendencia. El acuerdo de reorganización se considerará acordado si cuenta con la aprobación de la Superintendencia, del deudor y de la mayoría de los acreedores concurrentes que representen a lo menos el sesenta por ciento del pasivo total. El acuerdo de reorganización así acordado será obligatorio para todos los acreedores.
+Sin embargo, en la junta de acreedores respectiva podrá hacerse representar la Comisión. El acuerdo de reorganización se considerará acordado si cuenta con la aprobación de la Comisión, del deudor y de la mayoría de los acreedores concurrentes que representen a lo menos el sesenta por ciento del pasivo total. El acuerdo de reorganización así acordado será obligatorio para todos los acreedores.
 
-Propuesto un acuerdo de reorganización y hasta su aprobación o la resolución de liquidación, el Superintendente, o la persona que éste designe, actuará en calidad de administrador con todas las facultades y deberes que le confiera la mencionada Ley de Reorganización y Liquidación de Activos de Empresas y Personas, en todo lo que no fueren incompatibles con las disposiciones de la presente ley. Sin embargo, la Superintendencia podrá autorizar que la sociedad continúe su administración de acuerdo a las reglas generales.
+Propuesto un acuerdo de reorganización y hasta su aprobación o la resolución de liquidación, el Superintendente, o la persona que éste designe, actuará en calidad de administrador con todas las facultades y deberes que le confiera la mencionada Ley de Reorganización y Liquidación de Activos de Empresas y Personas, en todo lo que no fueren incompatibles con las disposiciones de la presente ley. Sin embargo, la Comisión podrá autorizar que la sociedad continúe su administración de acuerdo a las reglas generales.
 
 El acuerdo de reorganización podrá establecer que la sociedad administradora quede sujeta a intervención, la que podrá ser ejercida por el Superintendente o la persona que éste designe. El administrador tendrá las facultades y deberes que le confiera el convenio, en todo lo que no fueren incompatibles con las disposiciones de la presente ley.
 
@@ -438,7 +438,7 @@ El acuerdo de reorganización podrá establecer que la sociedad administradora q
 
 Dictada la resolución de liquidación, el Superintendente, o la persona que éste designe, actuará en calidad de liquidador, pudiendo citar a junta de acreedores, cuando lo estime necesario, para informar sobre el estado de los negocios de la sociedad administradora deudora, sobre sus activos y pasivos, sobre la marcha del Procedimiento Concursal de Liquidación, y, en general, para proponer a la junta cualquier acuerdo que estime necesario para el más adecuado cumplimiento de las funciones que le competen.
 
-En cualquier momento, la Superintendencia podrá determinar que la liquidación de los bienes de la deudora pase a un liquidador de la nómina de liquidadores, lo que comunicará al tribunal del procedimiento concursal de liquidación para que se proceda a su designación en conformidad a las reglas generales.
+En cualquier momento, la Comisión podrá determinar que la liquidación de los bienes de la deudora pase a un liquidador de la nómina de liquidadores, lo que comunicará al tribunal del procedimiento concursal de liquidación para que se proceda a su designación en conformidad a las reglas generales.
 
 En la realización del activo del procedimiento concursal de liquidación, el liquidador dispondrá de las facultades previstas en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, cualquiera que sea el monto de los activos comprometidos, para la realización sumaria de los activos que sean necesarios para el pago oportuno de las obligaciones de la sociedad cuya demora o impago pudiere causar un grave efecto en el sistema de pagos o en el funcionamiento del mercado de valores. Para el resto de los activos, el liquidador propondrá al juez la forma de realización de los bienes de la masa y las modalidades de la misma. De la proposición se dará traslado por 10 días a la deudora y a los acreedores. Con lo que éstos expongan, o en su silencio, el juez resolverá aprobando, rechazando o modificando la proposición. En contra de la resolución que se pronuncie no procederá recurso alguno.
 
@@ -482,9 +482,9 @@ Disposiciones varias
 
 #### Artículo 41
 
-La Superintendencia podrá suspender el funcionamiento de un sistema cuando la sociedad administradora no cumpla con las disposiciones de esta ley, la normativa o las normas de funcionamiento o cuando el funcionamiento del sistema ponga en riesgo el correcto funcionamiento del mercado de valores. Sin embargo, la Superintendencia podrá determinar que las funciones de la sociedad administradora queden limitadas a aquellas que no se vean afectadas por la falta de cumplimiento.
+La Comisión podrá suspender el funcionamiento de un sistema cuando la sociedad administradora no cumpla con las disposiciones de esta ley, la normativa o las normas de funcionamiento o cuando el funcionamiento del sistema ponga en riesgo el correcto funcionamiento del mercado de valores. Sin embargo, la Comisión podrá determinar que las funciones de la sociedad administradora queden limitadas a aquellas que no se vean afectadas por la falta de cumplimiento.
 
-La Superintendencia podrá revocar la autorización de existencia de una sociedad administradora cuando incurra en graves violaciones a las obligaciones que le imponen esta ley, sus normas complementarias y otras disposiciones que las rijan. En este caso, la interposición del recurso de ilegalidad a que se refiere el artículo 46 del decreto ley Nº 3.538, de 1980, suspenderá los efectos del acto reclamado.
+La Comisión podrá revocar la autorización de existencia de una sociedad administradora cuando incurra en graves violaciones a las obligaciones que le imponen esta ley, sus normas complementarias y otras disposiciones que las rijan. En este caso, la interposición del recurso de ilegalidad a que se refiere el artículo 46 del decreto ley Nº 3.538, de 1980, suspenderá los efectos del acto reclamado.
 
 #### Artículo 42
 
@@ -502,7 +502,7 @@ Derógase el Título IV, de la cámara de compensación, de la ley Nº 19.220, q
 
 Agrégase, en el artículo 23 del decreto ley Nº 3.500, de 1980, sobre el sistema de pensiones, en su inciso vigésimo, después del punto aparte (.) que pasa a ser seguido (.), el siguiente texto:
 
-"Asimismo, cada Administradora podrá adquirir directa o indirectamente hasta un siete por ciento de las acciones suscritas de una sociedad anónima que tenga como giro la liquidación y compensación de instrumentos financieros, y que cumpla con los requisitos que establezca la Superintendencia mediante una norma de carácter general.".
+"Asimismo, cada Administradora podrá adquirir directa o indirectamente hasta un siete por ciento de las acciones suscritas de una sociedad anónima que tenga como giro la liquidación y compensación de instrumentos financieros, y que cumpla con los requisitos que establezca la Comisión mediante una norma de carácter general.".
 
 #### Artículo 46
 
@@ -539,6 +539,34 @@ Agrégase en la letra c) del inciso primero del artículo 14 del decreto ley Nº
 Esta ley entrará en vigencia a contar de su publicación en el Diario Oficial.
 
 Sin embargo, las entidades que a la fecha de entrada en vigencia efectúen la compensación y liquidación de instrumentos financieros, tendrán un plazo de quince meses contados desde tal fecha para adecuarse a las disposiciones de esta ley. Asimismo, lo dispuesto en los artículos 43 y 44 entrará en vigencia después de quince meses contados desde la fecha de publicación de la presente ley en el Diario Oficial.
+
+## Título VIII
+
+Reconocimiento de entidades de contraparte central extranjeras
+
+#### Artículo 49
+
+La Comisión podrá reconocer en el país a entidades de contraparte central extranjeras, para fines de permitir la participación en ellas de las instituciones y personas a que se refiere el artículo 21.
+
+El otorgamiento del reconocimiento antedicho estará sujeto a los siguientes requisitos y condiciones:
+
+a) Que la respectiva entidad extranjera se encuentre autorizada para actuar como entidad de contraparte central de acuerdo con la legislación aplicable en el país o jurisdicción en que esté establecida, y sujeta a un régimen de supervisión y vigilancia especial respecto de sus actividades y del riesgo de sus operaciones.
+
+b) Que el marco jurídico regulatorio y de supervisión que rija a la entidad de contraparte central extranjera sea calificado por la Comisión como equivalente en cuanto a las exigencias contempladas en esta ley para las entidades de contraparte central.
+
+c) Que la Comisión haya celebrado un convenio de cooperación o memorándum de entendimiento con las autoridades que regulen y supervisen a la entidad de contraparte central extranjera en el país o jurisdicción en que se encuentre establecida. De todas formas, la Comisión podrá eximir fundadamente el cumplimiento de este requisito para el solo efecto del proceso de reconocimiento, y velará igualmente por su cumplimiento posterior.
+
+Para efectos de lo dispuesto en el artículo 25, la notificación podrá ser practicada mediante aviso por escrito o comunicación electrónica a la respectiva entidad de contraparte central extranjera reconocida. Con todo, no aplicarán las sanciones por incumplimientos contenidas en el inciso final de dicho artículo.
+
+La Comisión deberá pronunciarse sobre el otorgamiento o rechazo del reconocimiento respectivo dentro del plazo de noventa días hábiles, contado desde la fecha en que se solicite su reconocimiento. Dicho plazo se suspenderá si la Comisión requiere información adicional, y se reanudará cuando se acompañe dicha información. En todo caso, para ser acogida a tramitación, la solicitud deberá incluir, a lo menos, los antecedentes que permitan tener por acreditado el cumplimiento de los requisitos y condiciones precedentemente señalados, así como las demás exigencias que determine la Comisión mediante norma de carácter general.
+
+La Comisión podrá revocar el reconocimiento otorgado a una entidad de contraparte central extranjera para los fines referidos, en caso que ésta deje de cumplir alguno de los requisitos o condiciones exigidos en virtud de este artículo, mediante resolución fundada que deberá dictarse observando el mismo procedimiento antes descrito. Esta revocación sólo producirá efectos a partir del término del día hábil bancario siguiente en que sea notificada a las entidades participantes mediante la recepción de un aviso por escrito o comunicación electrónica.
+
+La resolución acerca del rechazo u otorgamiento del reconocimiento respectivo, o en su defecto la resolución de revocación de este último, será adoptada por la Comisión previo informe del Banco Central de Chile, el que será otorgado en lo referido a las implicancias de dicha decisión para el normal funcionamiento de los pagos internos y externos. El Banco Central dispondrá del plazo de diez días hábiles bancarios para comunicar su opinión, desde que ésta le sea solicitada.
+
+La Comisión para el Mercado Financiero deberá mantener una nómina pública disponible en su sitio en Internet con las entidades de contraparte central extranjeras reconocidas, en virtud de este artículo.
+
+El reconocimiento que la Comisión otorgue a las entidades de contraparte central extranjeras en los términos de este artículo podrá llevarse a cabo a solicitud de la institución del exterior interesada o de cualquier participante o bien, por iniciativa de la propia Comisión basada en la información que recabe al efecto.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

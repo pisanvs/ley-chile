@@ -500,7 +500,7 @@ Para los efectos de este artículo y de las demás disposiciones de esta ley o s
 
 Límites en las inversiones. Los fondos mutuos que no estén dirigidos a inversionistas calificados, en ningún caso podrán:
 
-a) Invertir más del 50% de su activo en valores que no tengan los requisitos de liquidez y profundidad que requiera la Superintendencia mediante norma de carácter general.
+a) Invertir los recursos del fondo en un porcentaje mayor a lo que determine o autorice la Comisión, en activos que tengan determinadas características de liquidez y profundidad a definir por aquella, todo lo anterior mediante norma de carácter general. Para fijar estos porcentajes la Comisión observará las relaciones entre posiciones activas y pasivas de los fondos, así como los plazos y propensión de liquidación de sus cuotas, entre otros factores.
 
 b) Poseer más del 25% del capital suscrito y pagado o del activo de un emisor.
 

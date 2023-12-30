@@ -108,7 +108,7 @@ La calidad de consejero será incompatible con todo cargo o servicio, sea o no r
 
 También el cargo de consejero será incompatible con todo empleo o servicio retribuido con fondos fiscales o municipales y con las funciones, remuneradas o no, de consejero, director o trabajador de instituciones fiscales, semifiscales, organismos autónomos, empresas del Estado y, en general, de todo servicio público creado por ley, como, asimismo, de empresas, sociedades o entidades públicas o privadas en que el Estado, sus empresas, sociedades o instituciones centralizadas o descentralizadas, tengan aportes de capital mayoritario o en igual proporción o, en las mismas condiciones, representación o participación.
 
-Asimismo, dicho cargo será incompatible con la participación en la propiedad de empresas bancarias y sociedades financieras. Para los efectos de esta incompatibilidad, si el consejero estuviere casado bajo el régimen de sociedad conyugal, se considerarán también las participaciones del cónyuge, salvo las que adquiera en el marco de su patrimonio reservado de acuerdo a lo dispuesto en el artículo 150 del Código Civil; las de los hijos menores bajo patria potestad de tales personas y las de sociedades en que cualquiera de ellos tenga participación en carácter de controlador. Si el consejero, su cónyuge o sus hijos menores bajo patria potestad de alguno de ellos, adquiriesen tales participaciones por sucesión por causa de muerte o por otro modo de adquirir a título gratuito, deberán enajenarse esas acciones dentro del plazo de 30 días contado desde que pueda disponerse de ellas.
+Asimismo, dicho cargo será incompatible con la participación en la propiedad de empresas bancarias. Para los efectos de esta incompatibilidad, si el consejero estuviere casado bajo el régimen de sociedad conyugal, se considerarán también las participaciones del cónyuge, salvo las que adquiera en el marco de su patrimonio reservado de acuerdo a lo dispuesto en el artículo 150 del Código Civil; las de los hijos menores bajo patria potestad de tales personas y las de sociedades en que cualquiera de ellos tenga participación en carácter de controlador. Si el consejero, su cónyuge o sus hijos menores bajo patria potestad de alguno de ellos, adquiriesen tales participaciones por sucesión por causa de muerte o por otro modo de adquirir a título gratuito, deberán enajenarse esas acciones dentro del plazo de 30 días contado desde que pueda disponerse de ellas.
 
 Las incompatibilidades previstas en este artículo no regirán para las labores docentes o académicas. Tampoco regirán cuando las leyes dispongan que un miembro del Consejo deba integrar un determinado consejo o directorio, en cuyo caso no percibirán remuneración por estas otras funciones.
 
@@ -276,11 +276,13 @@ De las normas Generales
 
 #### Artículo 27
 
-El Banco podrá otorgar financiamiento o refinanciamiento sólo a las empresas bancarias y sociedades financieras. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
+El Banco podrá otorgar financiamiento o refinanciamiento sólo a las empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto de este artículo, en los términos y condiciones previstos en esta ley. De manera alguna podrá el Banco otorgar su garantía a cualquiera de las entidades señaladas, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
 
 Sin perjuicio de lo anterior, el Banco, en situaciones excepcionales y transitorias determinadas por el Consejo mediante acuerdo fundado, adoptado con el voto favorable de al menos cuatro consejeros, podrá, cuando así lo requiera la preservación del normal funcionamiento de los pagos internos y externos, comprar durante un período determinado en el mercado secundario abierto, para fines de provisión de liquidez, instrumentos de deuda emitidos por el Fisco. Además, para estos efectos, se citará especialmente al Ministro de Hacienda a la sesión respectiva, quien podrá ejercer las facultades establecidas en el artículo 19 de esta ley.
 
 Los instrumentos a que se refiere el inciso precedente serán enajenados por el Banco en el mercado abierto, en la oportunidad y de acuerdo a los términos y condiciones que el Consejo determine.
+
+Además de las empresas bancarias, el Banco podrá otorgar financiamiento y refinanciamiento a las sociedades administradoras constituidas como Entidades de Contraparte Central a que se refiere la ley N° 20.345, para los fines previstos en el inciso final del artículo 3° del mismo cuerpo legal; y a las cooperativas de ahorro y crédito que cumplan con los requisitos dispuestos para este efecto en el inciso séptimo del artículo 87 de la Ley General de Cooperativas, cuyo texto refundido, concordado y sistematizado fue fijado por el decreto con fuerza de ley N° 5, de 2003, del Ministerio de Economía, Fomento y Reconstrucción.
 
 Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco.
 
@@ -320,6 +322,16 @@ Los billetes o monedas retirados definitivamente serán inutilizados en la forma
 
 El Gerente General velará por que la inutilización sea uniforme, y adoptará las medidas de control y de seguridad que estime necesarias para resguardar debidamente la corrección de dicho proceso.
 
+#### Artículo 33 bis
+
+Sin perjuicio de lo dispuesto en los artículos precedentes, el Banco podrá retirar de circulación aquellas series o denominaciones de billetes o monedas que se hayan emitido bajo determinadas características, ya sea de composición, diseño, medidas de seguridad u otras especificaciones técnicas.
+
+Esta facultad sólo podrá ser ejercida mediante acuerdo adoptado por la mayoría del total de los miembros del Consejo, el que deberá publicarse en el Diario Oficial.
+
+Los billetes y monedas que correspondan a las referidas series o denominaciones solo mantendrán su poder liberatorio hasta por el plazo que determine el Consejo, el que no podrá ser inferior a seis meses, contado desde la publicación a que se refiere el inciso anterior.
+
+En todo caso, el Banco estará obligado a canjear por su valor nominal los billetes y monedas que dejen de tener poder liberatorio en virtud de este artículo, para cuyo efecto deberá adoptar las medidas que permitan asegurar el ejercicio de este derecho por todos los habitantes en todas las regiones del país. Tratándose de billetes o monedas en mal estado, deberá cumplirse lo dispuesto en el artículo 32.
+
 Párrafo Tercero
 
 De la Regulación de la Cantidad de Dinero en Circulación y de Crédito
@@ -328,17 +340,17 @@ De la Regulación de la Cantidad de Dinero en Circulación y de Crédito
 
 Con el objeto de regular la cantidad de dinero en circulación y de crédito, el Banco estará facultado para:
 
-1.- Abrir líneas de crédito a las empresas bancarias y sociedades financieras y celebrar los contratos correspondientes; otorgarles refinanciamiento; y descontarles y redescontarles letras de cambio, pagarés y otros documentos negociables en moneda nacional o extranjera.
+1.- Abrir líneas de crédito a las empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto del artículo 27, y celebrar los contratos correspondientes; otorgarles refinanciamiento; y descontarles y redescontarles letras de cambio, pagarés y otros documentos negociables en moneda nacional o extranjera.
 
 Las operaciones de descuento y redescuento deberán ser efectuadas siempre con la responsabilidad de la institución cedente.
 
-Tratándose de créditos otorgados al Banco por organismos financieros extranjeros o internacionales, éste podrá transferirlos a las empresas bancarias o sociedades financieras, fijando las condiciones para que dichos recursos sean traspasados a terceros;
+Tratándose de créditos otorgados al Banco por organismos financieros extranjeros o internacionales, éste podrá transferirlos a las empresas bancarias o a las instituciones financieras a que se refiere el inciso cuarto del artículo 27, fijando las condiciones para que dichos recursos sean traspasados a terceros;
 
-2.- Fijar tasas de encaje que, en proporción a sus depósitos y obligaciones deban mantener las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito, en las condiciones que éste determine.
+2.- Fijar tasas de encaje que, en proporción a sus depósitos y obligaciones deban mantener las empresas bancarias y cooperativas de ahorro y crédito, en las condiciones que éste determine.
 
 Para el ejercicio de esta facultad se requerirá acuerdo de la mayoría del total de los miembros del Consejo.
 
-El encaje deberá estar constituido por billetes y monedas de curso legal en el país, que estén disponibles en caja o depositados a la vista en el Banco o, en su caso, en divisas de general aceptación en los mercados internacionales de cambios. Se considerará como parte del encaje el depósito de garantía a que se refiere el artículo 36 de la Ley General de Bancos.
+El encaje deberá estar constituido por billetes y monedas de curso legal en el país, que estén disponibles en caja o depositados a la vista en el Banco o, en su caso, en divisas de general aceptación en los mercados internacionales de cambios.
 
 Sin perjuicio de lo dispuesto precedentemente, el Banco podrá autorizar que parte del encaje se constituya en títulos o valores emitidos por éste.
 
@@ -348,17 +360,17 @@ En ningún caso las tasas de encaje que se establezcan podrán exceder, en prome
 
 Sin perjuicio de lo señalado precedentemente, el Banco podrá, en casos calificados, fijar tasas de encaje adicionales para los depósitos que efectúe el Fisco en las empresas bancarias o sociedades financieras.
 
-Lo señalado en este número se entenderá sin perjuicio de lo dispuesto en el artículo 80 bis de la Ley General de Bancos;
+Lo señalado en este número se entenderá sin perjuicio de lo dispuesto en el artículo 65 de la Ley General de Bancos;
 
-3.- Ceder documentos de su cartera de colocaciones o de inversiones a las empresas bancarias y sociedades financieras y adquirir de estas entidades, con responsabilidad de las mismas, documentos de carteras de colocaciones o de inversiones, en las condiciones que determine el Consejo;
+3.- Ceder documentos de su cartera de colocaciones o de inversiones a las empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto del artículo 27 y adquirir de estas entidades, con responsabilidad de las mismas, documentos de carteras de colocaciones o de inversiones, en las condiciones que determine el Consejo;
 
-4.- Recibir y efectuar depósitos en moneda nacional o extranjera de o en las empresas bancarias y sociedades financieras.
+4.- Recibir y efectuar depósitos en moneda nacional o extranjera de o en las empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto del artículo 27.
 
 Por acuerdo de la mayoría del total de los miembros del Consejo, el Banco podrá recibir depósitos del Fisco o de otras instituciones, organismos o empresas del Estado. En el evento de que tales depósitos devenguen intereses, éstos no podrán exceder de las tasas normales del mercado.
 
 5.- Emitir títulos, que deberán contener las condiciones de la respectiva emisión, como, asimismo, colocarlos y adquirirlos en el mercado abierto.
 
-6.- Comprar y vender en el mercado abierto, valores mobiliarios y efectos de comercio, emitidos por empresas bancarias y sociedades financieras. No obstante en el ejercicio de esta atribución, el Banco no podrá adquirir acciones de las referidas entidades, sin perjuicio de lo dispuesto en los números 2.- y 3.- del artículo 36, y
+6.- Comprar y vender en el mercado abierto, valores mobiliarios y efectos de comercio, emitidos por empresas bancarias y sociedades financieras. No obstante en el ejercicio de esta atribución, el Banco no podrá adquirir acciones de las referidas entidades, sin perjuicio de lo dispuesto en el número 2 del artículo 36. Se excluirán también los bonos sin plazo fijo de vencimiento y los bonos subordinados emitidos conforme a la Ley General de Bancos, y
 
 7.- Fijar las tasas de interés, comisiones, sistemas de reajuste y demás condiciones aplicables a las operaciones que efectúe el Banco.
 
@@ -370,23 +382,23 @@ De la Regulación del Sistema Financiero y del Mercado de Capitales
 
 En materia de regulación del sistema financiero y del mercado de capitales, son atribuciones del Banco;
 
-1.- Dictar las normas y condiciones a que se sujetarán las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito en la captación de fondos del público, ya sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma;
+1.- Dictar las normas y condiciones a que se sujetarán las empresas bancarias y cooperativas de ahorro y crédito en la captación de fondos del público, ya sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma;
 
 2.- Autorizar a las empresas bancarias para pagar intereses en las cuentas corrientes bancarias, en las condiciones que señale el Consejo;
 
 3.- Autorizar a las empresas bancarias para otorgar créditos en relación con las cuentas corrientes bancarias y para consentir sobregiros en las mismas;
 
-4.- Fijar los intereses máximos que puedan pagar las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito sobre depósitos a la vista;
+4.- Fijar los intereses máximos que puedan pagar las empresas bancarias y cooperativas de ahorro y crédito sobre depósitos a la vista;
 
-5.- Dictar las normas y limitaciones a que se sujetarán las empresas bancarias y sociedades financieras en materia de avales y fianzas, ambos en moneda extranjera;
+5.- Dictar las normas y limitaciones a que se sujetarán las empresas bancarias en materia de avales y fianzas, ambos en moneda extranjera;
 
-6.- Dictar las normas y limitaciones referentes a las relaciones que deben existir entre las operaciones activas y pasivas de las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito;
+6.- Dictar las normas y limitaciones referentes a las relaciones que deben existir entre las operaciones activas y pasivas de las empresas bancarias y cooperativas de ahorro y crédito;
 
-7.- Dictar las normas a que deberán sujetarse las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito o de cualquier otro sistema similar y que se encuentren bajo la fiscalización de la Superintendencia de Bancos e Instituciones Financieras;
+7.- Dictar las normas a que deberán sujetarse las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito o de cualquier otro sistema similar y que se encuentren bajo la fiscalización de la Comisión para el Mercado Financiero;
 
-8.- Autorizar la creación y reglamentar el funcionamiento de los sistemas de pagos establecidos en Chile, en que participen las empresas bancarias u otras instituciones financieras fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras, para la aceptación, compensación y liquidación de órdenes de pago correspondientes a obligaciones de dinero, ya sea en moneda nacional o extranjera. Estos sistemas podrán ser creados y administrados por las entidades participantes, o bien, por sociedades de apoyo al giro o sociedades anónimas especiales que estarán igualmente sujetas a la regulación del Banco y la fiscalización de la Superintendencia mencionada. Lo indicado es sin perjuicio de los sistemas de pagos creados, regulados y administrados por el Banco en relación a las cuentas corrientes que se encuentra facultado para abrir.
+8.- Autorizar la creación y reglamentar el funcionamiento de los sistemas de pagos establecidos en Chile, en que participen las empresas bancarias u otras instituciones financieras fiscalizadas por la Comisión para el Mercado Financiero, para la aceptación, compensación y liquidación de órdenes de pago correspondientes a obligaciones de dinero, ya sea en moneda nacional o extranjera. Estos sistemas podrán ser creados y administrados por las entidades participantes, o bien, por sociedades de apoyo al giro o sociedades anónimas especiales que estarán igualmente sujetas a la regulación del Banco y la fiscalización de la Comisión señalada. Lo indicado es sin perjuicio de los sistemas de pagos creados, regulados y administrados por el Banco en relación a las cuentas corrientes que se encuentra facultado para abrir.
 
-Asimismo, el Banco podrá reconocer sistemas de pagos establecidos en el extranjero, a fin de permitir la participación en éstos de empresas bancarias u otras instituciones financieras fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras.
+Asimismo, el Banco podrá reconocer sistemas de pagos establecidos en el extranjero, a fin de permitir la participación en éstos de empresas bancarias u otras instituciones financieras fiscalizadas por la Comisión para el Mercado Financiero.
 
 El Banco podrá revocar la autorización o el reconocimiento precitado, pero esta revocación sólo producirá efectos a partir del término del día hábil bancario siguiente en que sea notificada al operador del respectivo sistema de pagos mediante la recepción de un aviso por escrito o comunicación electrónica.
 
@@ -400,7 +412,7 @@ Las obligaciones a que dieren origen las operaciones que las entidades aludidas 
 
 Las órdenes de pago a que se refiere este numeral comprenden a las recaídas en representaciones digitales, electrónicas o informáticas, registradas mediante sistemas que utilicen tecnologías de registros distribuidos u otras análogas, de unidades cuyo valor sea directamente determinable y respaldado en función de dinero, ya sea que se trate de moneda nacional o extranjera, o bien, de documentos en que consten obligaciones pagaderas en cualquiera de esas monedas, y sujeto a que tales representaciones y sistemas cumplan con los estándares y condiciones mínimas en materias de seguridad, fiabilidad, aceptabilidad, uso, masividad, entre otras, que el Banco Central de Chile establezca por norma general.
 
-9.- Autorizar los sistemas de reajuste que utilicen en sus operaciones de crédito de dinero en moneda nacional las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito. La estipulación de un sistema de reajuste no autorizado se tendrá por no escrita.
+9.- Autorizar los sistemas de reajuste que utilicen en sus operaciones de crédito de dinero en moneda nacional las empresas bancarias y cooperativas de ahorro y crédito. La estipulación de un sistema de reajuste no autorizado se tendrá por no escrita.
 
 Las modificaciones a un sistema de reajuste autorizado por el Banco o la supresión del mismo, no afectarán a las operaciones de crédito de dinero en que sea parte una empresa bancaria, sociedad financiera o cooperativa de ahorro y crédito, las cuales continuarán rigiéndose por el sistema de reajuste estipulado, en las mismas condiciones que estaban vigentes con anterioridad a su modificación o supresión.
 
@@ -420,13 +432,25 @@ De las Facultades para Cautelar la Estabilidad del Sistema Financiero
 
 Con el objeto de cautelar la estabilidad del sistema financiero, el Banco estará facultado para:
 
-1.- Conceder a las empresas bancarias y sociedades financieras créditos en caso de urgencia por un plazo no superior a 90 días, cuando éstas presentaren problemas derivados de una falta transitoria de liquidez. Para renovar estos créditos, se requerirá acuerdo del Consejo adoptado por la mayoría del total de sus miembros, previo informe de la Superintendencia de Bancos e Instituciones Financieras. El Banco podrá condicionar el otorgamiento de los créditos al cumplimiento por parte del solicitante de determinadas normas de administración financiera.
+1.- Conceder a las empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto del artículo 27, créditos en caso de urgencia por un plazo no superior a noventa días, cuando éstas presenten problemas derivados de una falta transitoria de liquidez; sujeto en todo caso a que se encuentren cumpliendo los requerimientos patrimoniales mínimos que le sean aplicables de acuerdo con lo establecido en el decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos, en la Ley General de Cooperativas, cuyo texto refundido, concordado y sistematizado fue fijado por el decreto con fuerza de ley N° 5, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, o en la ley N° 20.345, según corresponda.
 
-En la situación prevista en este número, el Banco podrá, asimismo, adquirir de las mencionadas entidades documentos de su cartera de colocaciones o inversiones;
+No obstante, tratándose de empresas bancarias o de cooperativas de ahorro y crédito acogidas al artículo 87, inciso séptimo, de la Ley General de Cooperativas, el Banco podrá concederles los referidos créditos, aun cuando hubiesen dejado de cumplir transitoriamente esos respectivos requerimientos patrimoniales, en la medida que la institución correspondiente haya presentado a la Comisión para el Mercado Financiero un plan que incluya un aumento de capital u otras medidas de regularización que tengan por objeto restablecer el pleno cumplimiento de los requerimientos antedichos dentro de un plazo prudencial.
 
-2.- Conceder créditos o adquirir activos a las empresas bancarias y sociedades financieras, en cumplimiento de lo dispuesto en los artículos 120, inciso cuarto, y 129, inciso segundo, de la Ley General de Bancos, y
+Para otorgar y renovar estos créditos, se requerirá acuerdo del Consejo adoptado por la mayoría del total de sus miembros, previo informe de la Comisión para el Mercado Financiero, el que deberá ser emitido en el plazo que señale el Consejo del Banco, el que no deberá ser superior a siete días hábiles. El Banco podrá condicionar el otorgamiento de los créditos al cumplimiento por parte del solicitante de determinadas normas de administración financiera.
 
-3.- Participar en las proposiciones de convenio a que se refiere el párrafo segundo del Titulo XV de la Ley General de Bancos y suscribir, con amplias facultades las estipulaciones del convenio, estando habilitada, incluso, para remitir parte de las deudas.
+En la situación prevista en este número, el Banco podrá, asimismo, adquirir de las mencionadas entidades documentos de su cartera de colocaciones o inversiones. Con todo, en los casos que señala el párrafo segundo de este numeral, la entrega y desembolso de los recursos correspondientes al financiamiento de urgencia quedarán condicionados a la aprobación por la Comisión para el Mercado Financiero del plan a que se refiere el mismo párrafo;
+
+2.- Conceder créditos o adquirir activos a las empresas bancarias, en cumplimiento de lo dispuesto en el inciso segundo del artículo 132 de la Ley General de Bancos.
+
+3.- Derogado.
+
+#### Artículo 36 bis
+
+Sin perjuicio de lo dispuesto en los artículos 27, 34 y 36, el Banco por motivos fundados en el resguardo de la estabilidad del sistema financiero podrá, excepcionalmente, comprar y vender en el mercado abierto, a otras instituciones financieras fiscalizadas por la Comisión para el Mercado Financiero distintas de las señaladas en el inciso cuarto del artículo 27, y/o a los Fondos fiscalizados por la Superintendencia de Pensiones que actúen representados por una Administradora de Fondos de Pensiones o Sociedad Administradora de Fondos de Cesantía, entidades, valores mobiliarios y efectos de comercio emitidos por empresas bancarias. Lo indicado, con exclusión de las acciones, y de los bonos sin plazo fijo de vencimiento y bonos subordinados emitidos por éstos conforme a la Ley General de Bancos. Estas operaciones de compra y venta en el mercado abierto podrán efectuarse de manera pura y simple, o bien sujetas a un pacto de retroventa o retrocompra, bajo las condiciones financieras que establezca el Banco, incluyendo el cumplimiento de los requisitos para operar en el mercado abierto, así como las garantías y demás resguardos que determine exigir.
+
+En estos casos el Banco podrá aprobar la realización de programas relativos a las operaciones descritas en este artículo, siempre que sean ofrecidos a uno o más grupos de instituciones correspondientes a segmentos del mercado que requieran provisión de liquidez y que sean relevantes para el normal desenvolvimiento del sistema financiero, en las condiciones y por el plazo que al efecto establezca. Por lo tanto, dichos programas no podrán ser ofrecidos a una sola institución específica.
+
+Los acuerdos que adopte el Banco en virtud de este artículo requerirán informe previo de la Comisión para el Mercado Financiero y/o, en su caso, de la Superintendencia de Pensiones, el que deberá ser emitido en el plazo que señale el Consejo del Banco, el cual no podrá ser inferior a tres días hábiles bancarios. El informe respectivo se referirá a las materias de competencia del organismo correspondiente y, en especial, contendrá una visión general y sistémica del mercado, la situación financiera de alguna industria o grupo de entidades en particular, y los riesgos para la estabilidad financiera que ello pueda representar.
 
 Párrafo Sexto
 
@@ -620,7 +644,7 @@ Tratándose de la liquidación de divisas que correspondan a inversiones, aporte
 
 2.- Establecer que los créditos, depósitos o inversiones en moneda extranjera que provengan o se destinen al exterior queden sometidos a la obligación de mantener un encaje. Sólo estarán afectas a dicha obligación las operaciones cuya remesa se efectúe con posterioridad a la imposición de esta restricción.
 
-El encaje, que en ningún caso excederá del 40% de la respectiva operación, podrá ser exigido en moneda extranjera o nacional y deberá efectuarse en el Banco o, según éste lo determine, en empresas bancarias o en sociedades financieras.
+El encaje, que en ningún caso excederá del 40% de la respectiva operación, podrá ser exigido en moneda extranjera o nacional y deberá efectuarse en el Banco o, según éste lo determine, en empresas bancarias.
 
 En el ejercicio de la atribución contemplada en este número, el Banco estará facultado para dictar normas diferentes, atendiendo a las distintas especies de operaciones.
 
@@ -684,11 +708,13 @@ Para el cumplimiento, el Banco estará facultado para exigir a los diversos serv
 
 #### Artículo 54
 
-El Banco podrá, a petición de las entidades interesadas y por acuerdo adoptado por la mayoría del total de los miembros del Consejo, prestar a empresas bancarias, sociedades financieras y a organismos financieros extranjeros o internacionales, servicios bancarios que no impliquen financiamiento. En tales casos, el Banco estará facultado para cobrar la retribución que acuerde con éstos.
+El Banco podrá, a petición de las entidades interesadas y por acuerdo adoptado por la mayoría del total de los miembros del Consejo, prestar servicios bancarios que no impliquen financiamiento a empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto del artículo 27; a las sociedades administradoras de los sistemas de pago establecidos en Chile de que trata el número 8 del artículo 35 que correspondan a sociedades de apoyo al giro o a sociedades anónimas especiales; a empresas de depósito y custodia de valores regidas por la ley N° 18.876; y a organismos financieros extranjeros o internacionales. En tales casos, el Banco estará facultado para cobrar la retribución que acuerde con aquellos.
+
+Además, con sujeción al mismo procedimiento, el Banco podrá prestar dicha clase de servicios a otras instituciones financieras que correspondan a participantes no bancarios de los sistemas de pago regulados por el Banco de conformidad con el número 8 del artículo 35. Lo indicado, en la medida que tales servicios sean necesarios para permitir, cautelar o facilitar la liquidación de saldos netos resultantes de la compensación de obligaciones de dinero provenientes de órdenes de pago, efectuadas a través de la participación de estas instituciones en los referidos sistemas.
 
 #### Artículo 55
 
-El Banco podrá abrir cuentas corrientes bancarias a las empresas bancarias y sociedades financieras, a la Tesorería General de la República y a otras instituciones, organismos o empresas del Estado cuando ello sea necesario para la realización de sus operaciones con el Banco, según calificación efectuada por mayoría del total de los miembros del Consejo.
+El Banco podrá abrir cuentas corrientes bancarias a las empresas bancarias y demás instituciones financieras a que se refiere el inciso cuarto del artículo 27; a las sociedades de apoyo al giro, sociedades anónimas especiales o instituciones financieras fiscalizadas por la Comisión para el Mercado Financiero que correspondan a sociedades administradoras de los sistemas de pago establecidos en Chile de que trata el número 8 del artículo 35; a empresas de depósito y custodia de valores regidas por la ley N° 18.876; a la Tesorería General de la República y a otras instituciones, organismos o empresas del Estado; cuando ello sea necesario para la realización de sus operaciones con el banco, según calificación efectuada por mayoría del total de los miembros del Consejo. Asimismo, podrá abrir cuentas corrientes bancarias especiales a instituciones financieras fiscalizadas por la Comisión para el Mercado Financiero que correspondan a participantes no bancarios de los sistemas de pago regulados por el Banco en virtud del número 8 del artículo 35, para el solo efecto que éstos puedan liquidar los saldos netos resultantes de la compensación de obligaciones de dinero provenientes de órdenes de pago efectuadas a través de su participación en estos sistemas.
 
 Corresponderá al Banco, en forma exclusiva, dictar las condiciones generales aplicables a las cuentas corrientes bancarias a que se refiere el inciso anterior.
 
@@ -744,7 +770,15 @@ Las multas no pagadas dentro del plazo que fije el Banco, que no podrá ser infe
 
 #### Artículo 64
 
-El que fabricare o hiciere circular objetos cuya forma se asemeje a billetes de curso legal, de manera que sea fácil su aceptación en lugar de los verdaderos, será sancionado con la pena de presidio menor en sus grados medio a máximo.
+El que fabrique, adquiera, ingrese, o saque del país, almacene, distribuya o haga circular objetos cuya forma o apariencia los asemeje a monedas o billetes de curso legal, de manera que fuere fácil su aceptación como auténticos, será sancionado con presidio menor en su grado mínimo a medio y con una multa de 21 a 30 unidades tributarias mensuales.
+
+El que fabrique, adquiera, ingrese o saque del país, almacene, distribuya o comercialice máquinas, cuños o cualquier otra clase de instrumentos, insumos o elementos que sirvan para falsificar dinero, será sancionado con presidio mayor en su grado mínimo y con una multa de 21 a 30 unidades tributarias mensuales.
+
+El que habiendo recibido de buena fe dinero falso, lo circula después de constarle su falsedad, será sancionado con presidio menor en sus grados mínimos a medio y con una multa de 11 a 20 unidades tributarias mensuales.
+
+Las utilidades o ganancias que hubieren sido obtenidas con la ejecución de la conducta punible deberán ser decomisadas conforme a las reglas sobre comiso de ganancias establecidas en el Código Penal, el Código Procesal Penal y el Código Orgánico de Tribunales.
+
+Para los efectos de este artículo se entienden por monedas y billetes los de curso legal en Chile y en el extranjero.
 
 #### Artículo 65
 
@@ -766,11 +800,11 @@ Del Procedimiento de Publicidad y Reclamo
 
 #### Artículo 66
 
-Además, el Banco deberá guardar reserva respecto de los antecedentes relativos a las operaciones de crédito de dinero que celebre o las inversiones que efectúe en conformidad a los artículos 34, 36, 37, 38, 54, 55 y 56; de los que provengan de la información que requiera en conformidad a los artículos 40, 42 y 49 en materia de operaciones de cambios internacionales o de atribuciones que le otorgan en esa misma materia otras leyes; y de la información que recabe para el cumplimiento de la función contemplada en el artículo 53; y, no podrá proporcionar información sobre ellos sino a la persona que haya sido parte de las mismas, o a su mandatario o representante legal.
+Además, el Banco deberá guardar reserva respecto de los antecedentes relativos a las operaciones de crédito de dinero que celebre o las inversiones que efectúe en conformidad a los artículos 27, 34, 36, 36 bis, 37, 38, 54, 55 y 56; de los que provengan de la información que requiera en conformidad a los artículos 40, 42 y 49 en materia de operaciones de cambios internacionales o de atribuciones que le otorgan en esa misma materia otras leyes; y de la información que recabe para el cumplimiento de la función contemplada en el artículo 53; y, no podrá proporcionar información sobre ellos sino a la persona que haya sido parte de las mismas, o a su mandatario o representante legal.
 
-No regirá lo dispuesto en el inciso enterior en el caso en que los respectivos antecedentes le sean solicitados por la Superintendencia de Bancos e Intituciones Financieras con ocasión de fiscalizaciones que ésta realice a las entidades sujetas a su control o por el Servicio Nacional de Aduanas, si se trata de los documentos previstos en el artículo 45 o por este Servicio, el de Impuestos Internos o el de Tesorerías, en el caso de fiscalizaciones relacionadas con solicitudes de franquicias aduaneras, tributarias o de fomento a las exportaciones o de la Fiscalía Nacional Económica del decreto ley Nº 211, de 1973, cuando se trate de asuntos de su competencia y previa aprobación de la Comisión Resolutiva. Tampoco regirá la obligación de guardar reserva respecto de los antecedentes que le soliciten la Unidad de Análisis Financiero o el Ministerio Público, tratándose de las operaciones sospechosas o de los delitos contemplados en la ley que crea la referida Unidad.
+No regirá lo dispuesto en el inciso enterior en el caso en que los respectivos antecedentes le sean solicitados por la Comisión para el Mercado Financiero o la Superintendencia de Pensiones, con el objeto de velar por el cumplimiento de sus respectivas funciones; o por el Servicio Nacional de Aduanas, si se trata de los documentos previstos en el artículo 45 o por este Servicio, el de Impuestos Internos o el de Tesorerías, en el caso de fiscalizaciones relacionadas con solicitudes de franquicias aduaneras, tributarias o de fomento a las exportaciones o de la Fiscalía Nacional Económica del decreto ley Nº 211, de 1973, cuando se trate de asuntos de su competencia y previa aprobación del Tribunal de Defensa de la Libre Competencia. Tampoco regirá la obligación de guardar reserva respecto de los antecedentes que le soliciten la Unidad de Análisis Financiero o el Ministerio Público, tratándose de las operaciones sospechosas o de los delitos contemplados en la ley que crea la referida Unidad.
 
-Asimismo, la mencionada reserva no será aplicable cuando algún antecedente específico fuere requerido por la justicia ordinaria o militar o por las Comisiones Preventiva o Resolutiva del decreto ley Nº 211, de 1973. Por su parte, la citada reserva no se aplicará en caso que el Consejo de Estabilidad Financiera, con el solo objeto de prevenir situaciones que puedan importar riesgo sistémico para la estabilidad del sistema financiero, solicite al Banco contar con antecedentes específicos que requiera para el desempeño de sus competencias legales.
+Asimismo, la mencionada reserva no será aplicable cuando algún antecedente específico fuere requerido por la justicia ordinaria o militar o por el Tribunal de Defensa de la Libre Competencia del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973. Por su parte, la citada reserva no se aplicará en caso que el Consejo de Estabilidad Financiera, con el solo objeto de prevenir situaciones que puedan importar riesgo sistémico para la estabilidad del sistema financiero, solicite al Banco contar con antecedentes específicos que requiera para el desempeño de sus competencias legales.
 
 Con todo, el Banco podrá dar a conocer las operaciones en términos globales, no personalizados y sólo para fines estadísticos o de información general.
 
@@ -792,7 +826,7 @@ En todo caso, la omisión de la comunicación a que alude el inciso precedente n
 
 #### Artículo 69
 
-De los acuerdos, reglamentos, resoluciones, órdenes o instrucciones que el Banco dicte en el ejercicio de las facultades establecidas en los artículos 34, 35, 36, 58 y 61 y, en el párrafo octavo del Título III, que se estimen ilegales, podrá reclamarse por el interesado ante la Corte de Apelaciones de Santiago, la que conocerá en sala, en la forma y condiciones que se señalan en el presente Título.
+De los acuerdos, reglamentos, resoluciones, órdenes o instrucciones que el Banco dicte en el ejercicio de las facultades establecidas en los artículos 27, 34, 35, 36, 36 bis, 58 y 61 y, en el párrafo octavo del Título III, que se estimen ilegales, podrá reclamarse por el interesado ante la Corte de Apelaciones de Santiago, la que conocerá en sala, en la forma y condiciones que se señalan en el presente Título.
 
 El plazo para interponer la reclamación será de quince días hábiles contado desde la fecha de notificación del acuerdo, reglamento, resolución, orden o instrucción que se reclama.
 
@@ -822,7 +856,7 @@ El que hubiere obtenido sentencia favorable en la reclamación, una vez ejecutor
 
 #### Artículo 74°
 
-En aquellos casos en que la ley que se estima infringida sea el decreto ley N° 211, de 1973, el afectado podrá reclamar ante las Comisiones que dicho cuerpo legal contempla y conforme al procedimiento que el mismo establece, sólo en el plazo señalado en el inciso segundo del artículo 69.
+En aquellos casos en que la ley que se estima infringida sea el decreto ley N° 211, de 1973, el afectado podrá reclamar ante el Tribunal de Defensa de la Libre Competencia que dicho cuerpo legal contempla y conforme al procedimiento que el mismo establece, sólo en el plazo señalado en el inciso segundo del artículo 69.
 
 ## Título VI
 
@@ -830,7 +864,7 @@ De los Estados Financieros y de los Excedentes del Banco.
 
 #### Artículo 75
 
-Corresponderá al Consejo, previo informe favorable de la Superintendencia de Bancos e Instituciones Financieras, dictar las normas relativas a los requisitos y condiciones generales que deberán cumplir los estados financieros del Banco, los que se confeccionarán, por períodos anuales, al 31 de diciembre de cada año.
+Corresponderá al Consejo, previo informe favorable de la Comisión para el Mercado Financiero, dictar las normas relativas a los requisitos y condiciones generales que deberán cumplir los estados financieros del Banco, los que se confeccionarán, por períodos anuales, al 31 de diciembre de cada año.
 
 Los aludidos estados financieros, con sus respectivas notas y la opinión indicada en el inciso segundo del artículo 76, deberán publicarse, antes del 30 de abril de cada año, en el Diario Oficial y en un periódico de circulación nacional. Asimismo, el Banco estará obligado a publicar mensualmente un estado de situación.
 
@@ -838,7 +872,7 @@ Los aludidos estados financieros, con sus respectivas notas y la opinión indica
 
 El Gerente general deberá presentar al Consejo, antes del 31 de enero de cada año, para que éste se pronuncie, los estados financieros correspondientes al último ejercicio, auditados conforme a lo dispuesto en el inciso siguiente.
 
-Los estados financieros deberán contar con la opinión de auditores externos, designados por el Consejo de entre aquellos que figuren registrados en la Superintendencia de Bancos e instituciones Financieras.
+Los estados financieros deberán contar con la opinión de auditores externos, designados por el Consejo de entre aquellos que figuren registrados en la Comisión para el Mercado Financiero.
 
 #### Artículo 77
 

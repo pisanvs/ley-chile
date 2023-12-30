@@ -12,9 +12,9 @@ Del Contrato de Depósito y de las Disposiciones
 
 Las empresas de depósito de valores que esta ley regula (en adelante "las empresas" o "la empresa") se constituirán como sociedades anónimas especiales y tendrán como objeto exclusivo recibir en depósito valores y facilitar las operaciones de transferencia de los mismos, de acuerdo a los procedimientos contemplados en esta ley.
 
-Podrán ser siempre objeto del depósito a que se refiere esta ley, los valores de oferta pública inscritos en el Registro de Valores que lleva la Superintendencia de Valores y Seguros (en adelante "la Superintendencia"), los emitidos por los bancos o por el Banco Central de Chile y los emitidos o garantizados por el Estado. Asimismo, las empresas de depósito podrán recibir en depósito otros bienes, documentos y contratos que autorice la Superintendencia, de acuerdo a normas de carácter general.
+Podrán ser siempre objeto del depósito a que se refiere esta ley, los valores de oferta pública inscritos en el Registro de Valores que lleva la Comisión para el Mercado Financiero (en adelante "la Comisión"), los emitidos por los bancos o por el Banco Central de Chile y los emitidos o garantizados por el Estado. Asimismo, las empresas de depósito podrán recibir en depósito otros bienes, documentos y contratos que autorice la Comisión, de acuerdo a normas de carácter general.
 
-Corresponde a la Superintendencia velar por el cumplimiento de la presente ley y de las normas que la complementen, y supervigilar el funcionamiento de las empresas, de acuerdo a las facultades que le confiere su ley orgánica y las señaladas en el presente cuerpo legal.
+Corresponde a la Comisión velar por el cumplimiento de la presente ley y de las normas que la complementen, y supervigilar el funcionamiento de las empresas, de acuerdo a las facultades que le confiere su ley orgánica y las señaladas en el presente cuerpo legal.
 
 #### Artículo 2°
 
@@ -104,7 +104,7 @@ La empresa y el respectivo emisor podrán acordar, respecto de valores en depós
 
 Adoptado el acuerdo antes referido entre la empresa y un emisor banco o sociedad financiera, se entenderá satisfecha la necesidad de emisión y entrega material de las letras de crédito hipotecario que se originen con motivo de la celebración de los contratos de mutuos hipotecarios a que se refiere el Título XIII de la Ley General de Bancos.
 
-Mediante norma de carácter general, la Superintendencia establecerá los requisitos mínimos que deberá cumplir el sistema de anotaciones en cuenta y establecerá los casos y condiciones en que procederá la emisión de los títulos representativos de los valores, a petición de los interesados y siempre que con ello no se cause perjuicio al depositario o a sus mandantes, en su caso.
+Mediante norma de carácter general, la Comisión establecerá los requisitos mínimos que deberá cumplir el sistema de anotaciones en cuenta y establecerá los casos y condiciones en que procederá la emisión de los títulos representativos de los valores, a petición de los interesados y siempre que con ello no se cause perjuicio al depositario o a sus mandantes, en su caso.
 
 #### Artículo 12
 
@@ -186,7 +186,7 @@ La responsabilidad de la empresa será objetiva y la indemnización, salvo que s
 
 Lo dicho en los incisos anteriores no obsta a lo dispuesto en el inciso segundo del artículo 6° ni a que el adquirente convenga en que los gravámenes, prohibiciones o embargos subsistan y en ese caso, deberá proceder a registrarlos del modo que se indica en el inciso final del artículo 4°.
 
-Las cuestiones sobre responsabilidad civil a que se refiere este artículo se sometarán al juicio sumario, sin que sea aplicable, en este caso, lo dispuesto en el artículo 681 del Código de Procedimiento Civil. No obstante las indemnizaciones que se reclamen, la Superintendencia siempre podrá aplicar a las personas y empresas que hubieren incurrido en las infracciones a que se refiere este artículo, las sanciones que se establecen en su Ley Orgánica.
+Las cuestiones sobre responsabilidad civil a que se refiere este artículo se sometarán al juicio sumario, sin que sea aplicable, en este caso, lo dispuesto en el artículo 681 del Código de Procedimiento Civil. No obstante las indemnizaciones que se reclamen, la Comisión siempre podrá aplicar a las personas y empresas que hubieren incurrido en las infracciones a que se refiere este artículo, las sanciones que se establecen en su Ley Orgánica.
 
 #### Artículo 16°
 
@@ -234,11 +234,13 @@ e.- Constituir las garantías y contratar los seguros necesarios para responder 
 
 f.- Establecer las normas y procedimientos generales relativos a la aceptación o rechazo de los valores objeto de custodia en el sistema.
 
-g.- Contemplar en su reglamento interno, normas y procedimientos justos y uniformes por los cuales los depositantes del sistema pueden ser sancionados o suspendidos en caso de infracción a la presente ley, a sus normas complementarias, estatutos o normas internas de la empresa y las causales de término del contrato de depósito, por infracción a las mismas normas.
+g.- Cumplir con las exigencias de gobierno corporativo y gestión de riesgos que determine la Comisión mediante norma de carácter general.
 
-h) Proporcionar un estudio tarifario, el cual será de conocimiento público, respaldando la estructura de remuneraciones a ser aplicadas por los servicios prestados. El estudio debe fundamentarse en la estructura de ingresos y costos relevantes proyectados por la empresa para su normal funcionamiento. Para ello, se deberá tener en consideración los principios de equilibrio financiero de la empresa y de equidad entre los usuarios. Los contenidos mínimos para la elaboración del estudio serán establecidos por la Superintendencia a través de una norma de carácter general. Con todo, el referido estudio deberá ser actualizado a lo menos cada dos años o con ocasión de ajustes a las tarifas de la empresa. Sin perjuicio de lo anterior, la Superintendencia podrá requerir en cualquier oportunidad una actualización del referido estudio.
+h.- Contemplar en su reglamento interno, normas y procedimientos justos y uniformes por los cuales los depositantes del sistema pueden ser sancionados o suspendidos en caso de infracción a la presente ley, a sus normas complementarias, estatutos o normas internas de la empresa y las causales de término del contrato de depósito, por infracción a las mismas normas.
 
-i) Cumplir con las exigencias de gobierno corporativo y gestión de riesgos que determine la Comisión mediante norma de carácter general.
+i.- Proporcionar un estudio tarifario, el cual será de conocimiento público, respaldando la estructura de remuneraciones a ser aplicadas por los servicios prestados. El estudio debe fundamentarse en la estructura de ingresos y costos relevantes proyectados por la empresa para su normal funcionamiento. Para ello, se deberá tener en consideración los principios de equilibrio financiero de la empresa y de equidad entre los usuarios. Los contenidos mínimos para la elaboración del estudio serán establecidos por la Comisión a través de una norma de carácter general. Con todo, el referido estudio deberá ser actualizado a lo menos cada dos años o con ocasión de ajustes a las tarifas de la empresa. Sin perjuicio de lo anterior, la Comisión podrá requerir en cualquier oportunidad una actualización del referido estudio.
+
+j.- Cumplir con las exigencias de gobierno corporativo y gestión de riesgos que determine la Comisión mediante norma de carácter general.
 
 #### Artículo 21°
 
@@ -256,13 +258,15 @@ c.- Ajuste formal de cuentas entre los depositantes.
 
 #### Artículo 22°
 
-La Superintendencia aprobará el reglamento interno, las normas y procedimientos generales de la empresa, así como sus modificaciones posteriores, en forma previa a su aplicación. La Superintendencia dispondrá de un plazo de 30 días contado desde la fecha de la presentación de estos documentos para pronunciarse sobre ellos. Dicho plazo se suspenderá si la Superintendencia, mediante comunicación escrita pide información adicional al peticionario o le solicita modifique la petición o que rectifique sus antecedentes por no ajustarse a las disposiciones legales, reglamentarias o normas de carácter general, reanudándose tan solo cuando se haya cumplido dicho trámite.
+La Comisión aprobará el reglamento interno, las normas y procedimientos generales de la empresa, así como sus modificaciones posteriores, en forma previa a su aplicación. La Comisión dispondrá de un plazo de 30 días contado desde la fecha de la presentación de estos documentos para pronunciarse sobre ellos. Dicho plazo se suspenderá si la Comisión, mediante comunicación escrita pide información adicional al peticionario o le solicita modifique la petición o que rectifique sus antecedentes por no ajustarse a las disposiciones legales, reglamentarias o normas de carácter general, reanudándose tan solo cuando se haya cumplido dicho trámite.
 
-Subsanados los defectos o atendidas las observaciones formuladas, en su caso, y vencido el plazo a que se refiere el inciso precedente, sin que haya habido rechazo de la Superintendencia, la aprobación se entenderá otorgada.
+Subsanados los defectos o atendidas las observaciones formuladas, en su caso, y vencido el plazo a que se refiere el inciso precedente, sin que haya habido rechazo de la Comisión, la aprobación se entenderá otorgada.
 
 #### Artículo 23
 
-Sin perjuicio de lo establecido en el artículo 1°, las empresas podrán constituir o participar en la propiedad de filiales que se constituyan conforme al artículo 126 de la ley Nº 18.046 y cuyo giro principal sea realizar actividades relacionadas, complementarias o afines al giro exclusivo de la empresa. Para efectos de fiscalizar a la empresa, la Superintendencia de Valores y Seguros tendrá, respecto de dichas filiales, las mismas facultades que le confiere su ley orgánica respecto de la empresa que las constituyó.
+Sin perjuicio de lo establecido en el artículo 1°, las empresas podrán constituir o participar en la propiedad de filiales que se constituyan conforme al artículo 126 de la ley Nº 18.046 y cuyo giro principal sea realizar actividades relacionadas, complementarias o afines al giro exclusivo de la empresa. Para efectos de fiscalizar a la empresa, la Comisión para el Mercado Financiero tendrá, respecto de dichas filiales, las mismas facultades que le confiere su ley orgánica respecto de la matriz.
+
+Para efectos de este artículo se entenderá que quedan comprendidas dentro de las actividades complementarias al giro, la administración de sistemas de compensación y liquidación de instrumentos financieros, conforme a la ley N° 20.345, ya sea como cámara de compensación o entidad de contraparte central.
 
 #### Artículo 24
 
@@ -274,11 +278,11 @@ Tal delegación se regirá por las normas que al efecto establezca la empresa en
 
 Las empresas sólo podrán proporcionar información sobre los valores recibidos en depósito:
 
-a.- A los depositantes o sus mandantes, en su caso, respecto de los valores entregados en custodia por éstos y demás operaciones que cada uno de ellos realice; tratándose de mandantes con cuenta individual a los que se refiere el artículo 179 de la ley N° 18.045, la empresa estará obligada a poner a disposición de éstos un listado de todas las operaciones realizadas con los valores depositados, al menos en forma trimestral y de acuerdo a las normas que determine la Superintendencia mediante norma de carácter general.
+a.- A los depositantes o sus mandantes, en su caso, respecto de los valores entregados en custodia por éstos y demás operaciones que cada uno de ellos realice; tratándose de mandantes con cuenta individual a los que se refiere el artículo 179 de la ley N° 18.045, la empresa estará obligada a poner a disposición de éstos un listado de todas las operaciones realizadas con los valores depositados, al menos en forma trimestral y de acuerdo a las normas que determine la Comisión mediante norma de carácter general.
 
 b.- A los fiscales del Ministerio Público, previa autorización del juez de garantía, cuando soliciten la remisión de antecedentes relativos a operaciones específicas directamente ligadas con las investigaciones criminales que estén a su cargo, y a los tribunales de justicia, cuando soliciten la remisión de antecedentes relativos a operaciones específicas directamente ligadas con las causas civiles de que conocieren;
 
-c.- A la Superintendencia, toda información que ésta solicite en ejercicio de sus funciones de supervigilancia y fiscalización. Respecto de esta información regirá la obligación de reserva a que se refiere el artículo 23 de la Ley Orgánica de la Superintendencia, y
+c.- A la Comisión, toda información que ésta solicite en ejercicio de sus funciones de supervigilancia y fiscalización. Respecto de esta información regirá la obligación de reserva a que se refiere el artículo 23 de la Ley Orgánica de la Superintendencia, y
 
 d.- A los auditores externos del depósito y al comité de vigilancia, en el ejercicio de sus respectivas funciones, siéndoles aplicable el artículo 23 de la Ley Orgánica de la Superintendencia.
 
@@ -288,7 +292,7 @@ Con todo, las empresas podrán dar a conocer información sobre las operaciones 
 
 La empresa deberá comunicar diariamente a la respectiva sociedad anónima las operaciones que sus depositantes y los mandantes de éstos, en su caso, hubieran realizado con acciones por ella emitidas. Con esta información, las sociedades anónimas deberán conformar y mantener un listado de los depositantes de acciones registradas a nombre de las empresas de depósito, con indicación de las cantidades que cada uno de los depositantes y sus mandantes mantenga en depósito. La lista estará a disposición del público, a lo menos, en la sede principal de la sociedad emisora.
 
-La misma obligación de comunicación a que se refiere el inciso precedente, se aplicará respecto de las operaciones con cuotas de fondos de inversión u otros que determine la Superintendencia, debiendo en este caso las administradoras de estos fondos conformar y mantener un listado de los depositantes de las cuotas registradas a nombre de la empresa, conforme a lo que la Superintendencia determine mediante norma de general aplicación.
+La misma obligación de comunicación a que se refiere el inciso precedente, se aplicará respecto de las operaciones con cuotas de fondos de inversión u otros que determine la Comisión, debiendo en este caso las administradoras de estos fondos conformar y mantener un listado de los depositantes de las cuotas registradas a nombre de la empresa, conforme a lo que la Comisión determine mediante norma de general aplicación.
 
 #### Artículo 27°
 
@@ -302,7 +306,7 @@ Las operaciones de depósito serán continuas e ininterrumpidas, no se suspender
 
 Si se detectare un superávit o sobrante de algún valor en depósito, las operaciones continuarán efectuándose, sin considerar ese excedente. Si se detectare un déficit o falta de valores en custodia, que no sea posible determinar a qué depositante afecta o que no pudiere ser cubierto por la empresa, los depositantes también podrán seguir haciendo operaciones, pero en este último caso, disminuidas proporcionalmente en relación a la pérdida no cubierta. Para estos efectos, la empresa de depósito deberá comunicar de inmediato esta circunstancia a los depositantes de ese tipo, especie, clase o serie de valores determinados. Igual comunicación hará de inmediato cuando se produjere una recuperación parcial o total del déficit, que permita en su caso, aumentar la proporción en las operaciones o la operación por el total de esos valores determinados.
 
-Las empresas deberán velar porque las situaciones de diferencia expuestas en el inciso anterior no sucedan y en todo caso, determinar dentro de las cuarenta y ocho horas siguientes a la detección, el monto de la diferencia y sus causas, los valores y depositantes afectados y las medidas adoptadas para superar las diferencias; pudiendo hacerse en todo caso, efectiva la responsabilidad de la empresa por los perjuicios que estas situaciones hubieren ocasionado a los depositantes. En el mismo plazo deberá comunicar los hechos al comité de vigilancia y a la Superintendencia.
+Las empresas deberán velar porque las situaciones de diferencia expuestas en el inciso anterior no sucedan y en todo caso, determinar dentro de las cuarenta y ocho horas siguientes a la detección, el monto de la diferencia y sus causas, los valores y depositantes afectados y las medidas adoptadas para superar las diferencias; pudiendo hacerse en todo caso, efectiva la responsabilidad de la empresa por los perjuicios que estas situaciones hubieren ocasionado a los depositantes. En el mismo plazo deberá comunicar los hechos al comité de vigilancia y a la Comisión.
 
 ## Título III
 
@@ -312,13 +316,13 @@ Fiscalización Interna de las Empresas
 
 Sin perjuicio de los mecanismos internos de control que deberá establecer la empresa, los depositantes se reunirán en asambleas ordinarias o extraordinarias y la citación la efectuará la empresa en la forma y condiciones que señale el reglamento. Las primeras se celebrarán una vez al año, dentro de los primeros 15 días del mes de marzo, para decidir respecto de materias que sean propias de su conocimiento.
 
-Las segundas podrán celebrarse en cualquier tiempo, cuando así lo determine la empresa o se la soliciten el comité de vigilancia, los depositantes que representen a lo menos el 10% del monto total que se mantenga en depósito, o el 10% de los depositantes usuarios del sistema, o la Superintendencia, sin perjuicio de la facultad de esta última, para convocarlas directamente.
+Las segundas podrán celebrarse en cualquier tiempo, cuando así lo determine la empresa o se la soliciten el comité de vigilancia, los depositantes que representen a lo menos el 10% del monto total que se mantenga en depósito, o el 10% de los depositantes usuarios del sistema, o la Comisión, sin perjuicio de la facultad de esta última, para convocarlas directamente.
 
 #### Artículo 30
 
-La empresa deberá comunicar a la Superintendencia la celebración de toda asamblea de depositantes, con no menos de 15 días de anticipación a la fecha para la cual esté convocada. Lo mismo se hará en caso de segunda citación.
+La empresa deberá comunicar a la Comisión la celebración de toda asamblea de depositantes, con no menos de 15 días de anticipación a la fecha para la cual esté convocada. Lo mismo se hará en caso de segunda citación.
 
-La Superintendencia podrá hacerse representar en toda asamblea de depositantes, con derecho a voz y en ella su representante resolverá administrativamente cualquiera cuestión que se suscite, sea con relación a la calificación de poderes o a cualquier otra que pueda afectar la legitimidad de la reunión o la validez de sus acuerdos.
+La Comisión podrá hacerse representar en toda asamblea de depositantes, con derecho a voz y en ella su representante resolverá administrativamente cualquiera cuestión que se suscite, sea con relación a la calificación de poderes o a cualquier otra que pueda afectar la legitimidad de la reunión o la validez de sus acuerdos.
 
 #### Artículo 31
 
@@ -372,7 +376,7 @@ d.- Verificar si los depositantes cumplen oportuna y satisfactoriamente sus obli
 
 e.- Verificar la calidad de las instalaciones y de los sistemas de seguridad; como asimismo, la calidad y monto de las garantías y seguros vigentes;
 
-f.- Poner en conocimiento de la Superintendencia las deficiencias, diferencias e irregularidades que encontraren, sugiriendo las medidas que estimare pertinentes y adecuadas para superarlas o para evitar su repetición,
+f.- Poner en conocimiento de la Comisión las deficiencias, diferencias e irregularidades que encontraren, sugiriendo las medidas que estimare pertinentes y adecuadas para superarlas o para evitar su repetición,
 
 g.- Poner en conocimiento de la asamblea de depositantes, cualquier situación que pueda afectar los intereses de ellos, y
 
@@ -382,7 +386,7 @@ h.- Cualquier otra que sea necesaria para la adecuada fiscalización de las oper
 
 Para los efectos de lo dispuesto en los artículos anteriores, la empresa deberá porporcionar al comité de vigilancia, las facilidades de acceso a los locales, bodegas, sistemas de informática, libros, cuentas y registros de depositantes en la medida que fueren compatibles con su normal funcionamiento.
 
-El comité o quien lo represente estará obligado a guardar absoluta reserva sobre la información de que tome conocimiento salvo para los efectos de lo previsto en las letras f) y g) del artículo anterior. Las diferencias que se susciten con ocasión de las actividades de vigilancia mencionadas en el artículo anterior, entre la asamblea o el comité con la empresa, serán resueltas previa audiencia de éstos, administrativamente, sin forma de juicio, por la Superintendencia.
+El comité o quien lo represente estará obligado a guardar absoluta reserva sobre la información de que tome conocimiento salvo para los efectos de lo previsto en las letras f) y g) del artículo anterior. Las diferencias que se susciten con ocasión de las actividades de vigilancia mencionadas en el artículo anterior, entre la asamblea o el comité con la empresa, serán resueltas previa audiencia de éstos, administrativamente, sin forma de juicio, por la Comisión.
 
 ## Título IV
 
@@ -394,25 +398,25 @@ de las Empresas.
 
 #### Artículo 37
 
-Si el patrimonio de una empresa se redujere bajo el mínimo señalado en el artículo 18, letra c), deberá informar tal circunstancia a la Superintendencia dentro de los dos días hábiles siguientes de constatado el hecho, con una explicación sobre las razones del déficit. Además, dentro de los cuatro días hábiles siguientes a esa comunicación presentará a la Superintendencia y al comité de vigilancia un detalle de las medidas que hubiere adoptado o adoptará para solucionarlo.
+Si el patrimonio de una empresa se redujere bajo el mínimo señalado en el artículo 18, letra c), deberá informar tal circunstancia a la Comisión dentro de los dos días hábiles siguientes de constatado el hecho, con una explicación sobre las razones del déficit. Además, dentro de los cuatro días hábiles siguientes a esa comunicación presentará a la Comisión y al comité de vigilancia un detalle de las medidas que hubiere adoptado o adoptará para solucionarlo.
 
-Transcurridos 30 días hábiles desde que se hubiere producido el déficit sin haberlo superado, el directorio de la empresa o la Superintendencia a solicitud del comité de vigilancia, dentro de los tres días hábiles siguientes al vencimiento del plazo anterior mencionado en este inciso, deberá convocar única citación a una junta extraordinaria de accionistas para aprobar el aumento de capital necesario para cumplir el requerimiento legal, la que deberá celebrarse dentro de los 60 días hábiles siguientes de producido el déficit.
+Transcurridos 30 días hábiles desde que se hubiere producido el déficit sin haberlo superado, el directorio de la empresa o la Comisión a solicitud del comité de vigilancia, dentro de los tres días hábiles siguientes al vencimiento del plazo anterior mencionado en este inciso, deberá convocar única citación a una junta extraordinaria de accionistas para aprobar el aumento de capital necesario para cumplir el requerimiento legal, la que deberá celebrarse dentro de los 60 días hábiles siguientes de producido el déficit.
 
 La junta se constituirá con las acciones que se encuentren o presentes representadas, cualquiera que sea su número, y los acuerdos se adoptarán por la mayoría absoluta de las acciones presentes o representadas con derecho a voto.
 
 En caso de aprobarse el aumento de capital, éste deberá enterarse en dinero efectivo y en un plazo no superior a 30 días hábiles contado desde la fecha del acuerdo.
 
-Si transcurrido el plazo anterior, el patrimonio de la custodia no igualare al menos el patrimonio legal, la Superintendencia revocará su autorización de existencia. Igual se aplicará, en caso que la junta no se constituya o no acordare aumentar el capital social.
+Si transcurrido el plazo anterior, el patrimonio de la custodia no igualare al menos el patrimonio legal, la Comisión revocará su autorización de existencia. Igual se aplicará, en caso que la junta no se constituya o no acordare aumentar el capital social.
 
 #### Artículo 38
 
-Si las pólizas de seguros o las garantías constituidas conforme al artículo 20, letra e), por cualquier causa fueren insuficientes, la empresa deberá rehabilitarlas, reemplazarlas, completarlas o restablecerlas, dentro de los 20 días hábiles siguientes de haber tomado conocimiento del déficit. La empresa informará a la Superintendencia dentro de las 24 horas siguientes de haber tomado dicho conocimiento, explicando las razones del déficit.
+Si las pólizas de seguros o las garantías constituidas conforme al artículo 20, letra e), por cualquier causa fueren insuficientes, la empresa deberá rehabilitarlas, reemplazarlas, completarlas o restablecerlas, dentro de los 20 días hábiles siguientes de haber tomado conocimiento del déficit. La empresa informará a la Comisión dentro de las 24 horas siguientes de haber tomado dicho conocimiento, explicando las razones del déficit.
 
-Transcurrido el plazo sin que se hubieren rehabilitado, reemplazando, completado o restablecido convenientemente las pólizas de seguros o las garantías, la Superintendencia revocará la autorización de existencia de la empresa.
+Transcurrido el plazo sin que se hubieren rehabilitado, reemplazando, completado o restablecido convenientemente las pólizas de seguros o las garantías, la Comisión revocará la autorización de existencia de la empresa.
 
 #### Artículo 39
 
-Sin perjuicio de lo dispuesto en los artículos precedentes, la Superintendencia, previa aprobación de la asamblea de depositantes, sea o no con ocasión de la disolución de la empresa, estará facultada para traspasar la administración de la cartera de valores depositados y de los servicios complementarios a otra de igual giro, si la hubiere, en las condiciones que determine.
+Sin perjuicio de lo dispuesto en los artículos precedentes, la Comisión, previa aprobación de la asamblea de depositantes, sea o no con ocasión de la disolución de la empresa, estará facultada para traspasar la administración de la cartera de valores depositados y de los servicios complementarios a otra de igual giro, si la hubiere, en las condiciones que determine.
 
 2° DISOLUCION
 
@@ -428,7 +432,7 @@ Mientras dure la administración provisoria del comité de vigilancia, la empres
 
 #### Artículo 41
 
-En caso que algún acreedor pida la liquidación forzosa de la empresa, el juzgado deberá dar aviso a la Superintendencia la que investigará la solvencia de aquélla. Si la Superintendencia comprobare que puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga sus operaciones; si no lo estimare posible, informará en tal sentido. La Superintendencia deberá dar su resolución dentro del plazo de veinte días hábiles, contado desde la fecha en que sea requerida por el tribunal y si no se diere, el tribunal procederá sin ella. Durante los 180 días siguientes a la fecha en que se resolviere por el tribunal la prosecución de sus operaciones, nadie podrá entablar contra la empresa acción ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales del procedimiento concursal de liquidación. Vencido el plazo seguirá adelante el procedimiento.
+En caso que algún acreedor pida la liquidación forzosa de la empresa, el juzgado deberá dar aviso a la Comisión la que investigará la solvencia de aquélla. Si la Comisión comprobare que puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga sus operaciones; si no lo estimare posible, informará en tal sentido. La Comisión deberá dar su resolución dentro del plazo de veinte días hábiles, contado desde la fecha en que sea requerida por el tribunal y si no se diere, el tribunal procederá sin ella. Durante los 180 días siguientes a la fecha en que se resolviere por el tribunal la prosecución de sus operaciones, nadie podrá entablar contra la empresa acción ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales del procedimiento concursal de liquidación. Vencido el plazo seguirá adelante el procedimiento.
 
 #### Artículo 42
 
@@ -468,7 +472,7 @@ Lo dispuesto en la presente ley no alterará la facultad concedida a los bancos 
 
 #### Artículo 48
 
-La Superintendencia establecerá, mediante normas de carácter general, las reglas mínimas obligatorias de estandarización a que deberán sujetarse los valores de oferta pública, para poder ser objeto del depósito a que se refiere la presente ley.
+La Comisión establecerá, mediante normas de carácter general, las reglas mínimas obligatorias de estandarización a que deberán sujetarse los valores de oferta pública, para poder ser objeto del depósito a que se refiere la presente ley.
 
 #### Artículo 49
 
@@ -484,9 +488,9 @@ Se faculta a las entidades definidas en las letras c) a l), ambas incluidas, del
 
 #### Artículo 52
 
-Mientras no haya entrado en funcionamiento la asamblea de depositantes y el comité de vigilancia a que se refiere esta ley, sus atribuciones y funciones serán desempeñadas provisionalmente por la Superintendencia hasta por seis meses.
+Mientras no haya entrado en funcionamiento la asamblea de depositantes y el comité de vigilancia a que se refiere esta ley, sus atribuciones y funciones serán desempeñadas provisionalmente por la Comisión hasta por seis meses.
 
-Las normas a que se refiere el artículo 33 letra a), serán propuestas por la empresa a la Superintendencia, la cual deberá aprobarlas antes que ésta inicie sus operaciones. Dentro de los 6 meses siguientes a la fecha de la resolución que autorice la existencia de la empresa, la asamblea de depositantes deberá aprobar las normas definitivas de funcionamiento.
+Las normas a que se refiere el artículo 33 letra a), serán propuestas por la empresa a la Comisión, la cual deberá aprobarlas antes que ésta inicie sus operaciones. Dentro de los 6 meses siguientes a la fecha de la resolución que autorice la existencia de la empresa, la asamblea de depositantes deberá aprobar las normas definitivas de funcionamiento.
 
 #### Artículo 53
 
@@ -496,31 +500,31 @@ Agrégase el siguiente Titulo V al decreto ley N° 3.538, de 1980. Ley Orgánica
 
 #### Artículo 44
 
-Las personas o entidades que estimen que los actos administrativos que realice la Superintendencia o sus emisiones no se ajustan a la ley, reglamentos o normas que le compete aplicar, podrán impugnarlos mediante los recursos que señala este título.
+Las personas o entidades que estimen que los actos administrativos que realice la Comisión o sus emisiones no se ajustan a la ley, reglamentos o normas que le compete aplicar, podrán impugnarlos mediante los recursos que señala este título.
 
 #### Artículo 45
 
-Se podrá recurrir de reposición ante el Superintendente cuando a consecuencia de un acto administrativo de la Superintendencia, se resuelva una petición y siempre que en la interposición del recurso se aporten nuevos antecedentes que no se conocieron al momento de dictarse la respectiva resolución.
+Se podrá recurrir de reposición ante el Superintendente cuando a consecuencia de un acto administrativo de la Comisión, se resuelva una petición y siempre que en la interposición del recurso se aporten nuevos antecedentes que no se conocieron al momento de dictarse la respectiva resolución.
 
 La petición se formulará por escrito y contendrá en forma clara y precisa los hechos y el derecho en que se fundamenta.
 
-El plazo para su interposición será de cinco días hábiles contado desde la notificación de la respectiva resolución y la Superintendencia dispondrá de otros cinco días hábiles para resolver al respecto, transcurridos los cuales, sin que la Superintendencia se hubiere pronunciado, se entenderá que rechaza el recurso para los efectos del inciso siguiente.
+El plazo para su interposición será de cinco días hábiles contado desde la notificación de la respectiva resolución y la Comisión dispondrá de otros cinco días hábiles para resolver al respecto, transcurridos los cuales, sin que la Comisión se hubiere pronunciado, se entenderá que rechaza el recurso para los efectos del inciso siguiente.
 
 La interposición de este recurso, suspenderá el plazo para reclamar de ilegalidad cuando se trate de las materias por las cuales procede dicho recurso.
 
 #### Artículo 46
 
-Las personas que estimen que una norma de carácter general, instrucción, comunicación, resolución o una omisión de la Superintendencia es ilegal y les causa perjuicio, podrán reclamar de ella ante la Corte de Apelaciones de Santiago, la que previamente deberá pronunciarse sobre la admisibilidad del recurso, para lo cual el reclamante señalará en su escrito, con precisión, la disposición que supone infringida, la forma en que se ha producido la infracción y las razones por las cuales ésta lo perjudica.
+Las personas que estimen que una norma de carácter general, instrucción, comunicación, resolución o una omisión de la Comisión es ilegal y les causa perjuicio, podrán reclamar de ella ante la Corte de Apelaciones de Santiago, la que previamente deberá pronunciarse sobre la admisibilidad del recurso, para lo cual el reclamante señalará en su escrito, con precisión, la disposición que supone infringida, la forma en que se ha producido la infracción y las razones por las cuales ésta lo perjudica.
 
 El tribunal rechazará de plano el recurso si la presentación no cumple con las condiciones señaladas en el inciso precedente.
 
-La reclamación deberá interponerse dentro del plazo de 10 días hábiles contado desde la notificación del acto de la Superintendencia reclamado o desde que se tuvo conocimiento de la omisión.
+La reclamación deberá interponerse dentro del plazo de 10 días hábiles contado desde la notificación del acto de la Comisión reclamado o desde que se tuvo conocimiento de la omisión.
 
 La interposición del recurso de ilegalidad no suspenderá los efectos del acto reclamado, a menos que se refiera a los casos establecidos en los artículos 15, 36, 51 y 87 de la Ley N° 18.045 de Mercado de Valores; en los números 3, 4 ó 5 del artículo 44, del decreto con fuerza de ley N° 251, de Hacienda, de 1931, Ley de Seguros; en el inciso tercero del artículo 12 y en el inciso cuarto del artículo 126 de la Ley N° 18.046, de Sociedades Anónima, en el inciso final del artículo 3° del decreto ley N° 1.328 de 1976, sobre Administración de Fondos Mutuos; o en el inciso final de la letra e) del artículo 4° y en los números 3 de los artículos 27 y 28, respectivamente, de esta ley.
 
-Si la Corte de Apelaciones declarare admisible la reclamación, dará traslado de ella por 6 días hábiles a la Superintendencia, notificándole esta resolución por oficio.
+Si la Corte de Apelaciones declarare admisible la reclamación, dará traslado de ella por 6 días hábiles a la Comisión, notificándole esta resolución por oficio.
 
-Evacuado el traslado por la Superintendencia, o acusada la rebeldía, la Corte dictará sentencia en el término de 15 días, contra la cual no procederá recurso alguno.
+Evacuado el traslado por la Comisión, o acusada la rebeldía, la Corte dictará sentencia en el término de 15 días, contra la cual no procederá recurso alguno.
 
 #### Artículo 47
 
