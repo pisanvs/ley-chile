@@ -52,7 +52,7 @@ l) DEROGADA -
 
 m) Fiscalizar, en la forma que ella determine, las condiciones de la producción, manufactura y comercio del cobre o de sus subproductos producidos por las empresas productoras del Estado o en que el Estado tenga participación mayoritaria y sus filiales o agencias en Chile o en el exterior, tanto en lo referente a sus niveles y volúmenes, fletes, consumo, precios, modalidades de comercialización y distribución, ventas, costos y utilidades;
 
-n) Asesorar técnicamente al Servicio de Impuestos Internos en el control de los costos, del producto de las ventas y utilidades, en el análisis de los antecedentes necesarios para fijar la renta afecta a impuesto de las empresas productoras, y en lo relativo al impuesto específico a la actividad minera, a que se refiere el artículo 64 bis de la ley sobre Impuesto a la Renta.
+n) Asesorar técnicamente al Servicio de Impuestos Internos en el control de los costos, del producto de las ventas y utilidades, en el análisis de los antecedentes necesarios para fijar la renta afecta a impuesto de las empresas productoras, y en lo relativo al impuesto que establece la Ley sobre Royalty a la Minería.
 
 ñ) Asesorar al Ministro de Minería y al de Hacienda sobre los presupuestos de entradas, gastos y adquisiciones que presenten las sociedades colectivas del Estado o la o las empresas que sean sus continuadoras legales, para los efectos de su aprobación por decreto supremo exento de ambos Ministerios sin perjuicio de su control posterior;
 

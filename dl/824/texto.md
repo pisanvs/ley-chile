@@ -1028,7 +1028,7 @@ Establécese un impuesto de 25% que podrá ser imputado a los impuestos finales 
 
 a) Tratándose de contribuyentes que posean o exploten a cualquier título bienes raíces se gravará la renta efectiva de dichos bienes.
 
-En el caso de los bienes raíces agrícolas, del monto del impuesto de esta categoría podrá rebajarse el impuesto territorial pagado por el período al cual corresponde la declaración de renta. Sólo tendrá derecho a esta rebaja el propietario o usufructuario. Si el monto de la rebaja contemplada en este párrafo excediere del impuesto aplicable a las rentas de esta categoría, dicho excedente no podrá imputarse a otro impuesto ni solicitarse su devolución. Tampoco dará derecho a devolución conforme a lo dispuesto en los artículos 31, número 3; 56, número 3 y 63, ni a ninguna otra disposición legal, el impuesto de primera categoría en aquella parte que se haya deducido de dicho tributo el crédito por el impuesto territorial. El Servicio, mediante resolución, impartirá las instrucciones para el control de lo dispuesto en este párrafo.
+En el caso de los bienes raíces agrícolas, del monto del impuesto de esta categoría podrá rebajarse el impuesto territorial pagado por el período al cual corresponde la declaración de renta. Sólo tendrá derecho a esta rebaja el propietario o usufructuario. Si el monto de la rebaja contemplada en este párrafo excediere del impuesto aplicable a las rentas de esta categoría, dicho excedente no podrá imputarse a otro impuesto ni solicitarse su devolución. Tampoco dará derecho a devolución conforme a lo dispuesto en los artículos 56, número 3 y 63, ni a ninguna otra disposición legal, el impuesto de primera categoría en aquella parte que se haya deducido de dicho tributo el crédito por el impuesto territorial. El Servicio, mediante resolución, impartirá las instrucciones para el control de lo dispuesto en este párrafo.
 
 La cantidad cuya deducción se autoriza en el párrafo anterior se reajustará de acuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el período comprendido entre el mes anterior a la fecha de pago de la contribución y el mes anterior al de cierre del ejercicio respectivo.
 
@@ -1067,8 +1067,6 @@ No obstante las rentas de este número, percibidas o devengadas por contribuyent
 > **Nota.** NOTA: 7 El Artículo 1° Transitorio de la LEY 19388, publicada el 30.05.1995, dispuso su vigencia un mes después de su publicación. No obstante, hasta la entrada en vigencia de la primera tasación de los bienes raíces agrícolas y no agrícolas, que se efectúe con posterioridad a la promulgación de esta ley, no se aplicará lo dispuesto en el número 3 del artículo 3°.
 
 > **Nota.** NOTA: 9 El Nº 4 del artículo 1º transitorio de la LEY 19738, dispone que la modificación que introduce a este artículo regirá a contar del 1º de enero del año 2002.
-
-> **Nota.** NOTA 10 El artículo 1° de la ley 21256, publicada el 02.09.2020, modifica la presente norma en el sentido de disminuir transitoriamente la tasa establecida en el presente artículo, para las empresas acogidas al Régimen Pro Pyme, a 10 por ciento para las rentas que se perciban o devenguen durante los ejercicios 2020, 2021 y 2022. Asimismo, establece reglas para los contribuyentes que se beneficien con la referida disminución en materia de pagos provisionales mensuales que les corresponde pagar en los ejercicios 2020, 2021 y 2022.
 
 #### Artículo 20° bis
 
@@ -1268,7 +1266,7 @@ Procederá la deducción de los siguientes gastos especiales, siempre que, adem�
 
 Con todo, los intereses y demás gastos financieros que conforme a las disposiciones de este artículo cumplan con los requisitos para ser deducidos como gastos, que provengan de créditos destinados a la adquisición de derechos sociales, acciones, bonos y, en general, cualquier tipo de capital mobiliario, podrán ser deducidos como tales.
 
-2°.- Los impuestos establecidos por leyes chilenas, en cuanto se relacionen con el giro de la empresa y siempre que no sean los de esta ley, con excepción del impuesto establecido en el artículo 64 bis en el ejercicio en que se devengue, ni de bienes raíces, a menos que en este último caso no proceda su utilización como crédito y que no constituyan contribuciones especiales de fomento o mejoramiento. No procederá esta rebaja en los casos en que el impuesto haya sido sustituido por una inversión en beneficio del contribuyente.
+2°.- Los impuestos establecidos por leyes chilenas, en cuanto se relacionen con el giro de la empresa y siempre que no sean los de esta ley, con excepción del impuesto territorial, a menos que en este último caso no proceda su utilización como crédito y que no constituyan contribuciones especiales de fomento o mejoramiento. No procederá esta rebaja en los casos en que el impuesto haya sido sustituido por una inversión en beneficio del contribuyente.
 
 3°.- Las pérdidas sufridas por el negocio o empresa durante el año comercial a que se refiere el impuesto, comprendiendo las que provengan de delitos contra la propiedad.
 
@@ -1278,13 +1276,9 @@ Del mismo modo, se procederá en la entrega gratuita de especialidades farmacéu
 
 En conformidad con lo dispuesto en la ley número 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, no se aceptará como gasto y se afectará con el impuesto único establecido en el inciso primero del artículo 21, la destrucción voluntaria de materias primas, insumos o bienes procesados o terminados que puedan ser entregados gratuitamente en los términos de los párrafos anteriores.
 
-Podrán, asimismo, deducirse las pérdidas de ejercicios anteriores, siempre que concurran los requisitos del inciso precedente.
+Podrán, asimismo, deducirse las pérdidas de ejercicios anteriores, siempre que concurran los requisitos del inciso primero, las cuales deberán imputarse al ejercicio inmediatamente siguiente y así sucesivamente.
 
-Las pérdidas deberán imputarse a las rentas o cantidades que perciban, a título de retiros o dividendos afectos a los impuestos global complementario o adicional, de otras empresas o sociedades, sumas que para estos efectos deberán previamente incrementarse en la forma señalada en el inciso final del número 1º del artículo 54 y en los artículos 58 número 2) y 62.
-
-Si las rentas referidas en el párrafo precedente no fueren suficientes para absorberlas, la diferencia deberá imputarse al ejercicio inmediatamente siguiente conforme a lo señalado y así sucesivamente.
-
-En el caso que las pérdidas absorban total o parcialmente las utilidades percibidas en el ejercicio, el impuesto de primera categoría pagado sobre dichas utilidades incrementadas, se considerará como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida, y se aplicarán las normas de reajustabilidad, imputación o devolución que señalan los artículos 93 a 97.
+Las rentas o cantidades que se perciban a título de retiros o dividendos provenientes de otras empresas no se imputarán a las pérdidas de la empresa receptora. Por su parte, el monto del impuesto de primera categoría asociado a los retiros o dividendos que se perciban de otras empresas, se controlará en el registro SAC de la empresa receptora, establecido en el artículo 14 letra A N° 2 letra d).
 
 Las pérdidas se determinarán aplicando a los resultados del balance las normas relativas a la determinación de la renta líquida imponible contenidas en este párrafo y su monto se reajustará, cuando deba imputarse a los años siguientes, de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior al del cierre del ejercicio comercial en que se generaron las pérdidas y el último día del mes anterior al del cierre del ejercicio en que proceda su deducción.
 
@@ -1411,8 +1405,6 @@ También constituyen gasto los desembolsos acordados entre partes no relacionada
 > **Nota.** NOTA : 14 El Art. transitorio de la LEY 19721, dispuso que la modificación introducida al presente artículo rige desde el 1º de enero de 2000, por los gastos relativos a las becas de estudio que se paguen o adeuden a partir de esa fecha.
 
 > **Nota.** NOTA : 15 El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la presente modificación regirá desde el 1º de enero del año 2003 por los bienes que se adquieran o se construyan desde dicha fecha o desde la fecha de publicación de esta ley, si ésta fuere anterior, al igual que la nueva vida útil que fije el Servicio de Impuestos Internos para estos bienes.
-
-> **Nota.** NOTA : 16 El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
 
 #### Artículo 32°
 
@@ -2996,103 +2988,15 @@ Facúltase al Presidente de la República para dictar normas que en conformidad 
 
 ## Título IV — BIS
 
-Impuesto específico a la actividad minera
+Impuesto específico a la actividad minera Derogado.
 
-#### Artículo 64° bis
+#### Artículo 64 bis
 
-Establécese un impuesto específico a la renta operacional de la actividad minera obtenida por un explotador minero.
+Derogado.
 
-Para los efectos de lo dispuesto en el presente título se entenderá por:
+#### Artículo 64 ter
 
-1. Explotador minero, toda persona natural o jurídica que extraiga sustancias minerales de carácter concesible y las venda en cualquier estado productivo en que se encuentren.
-
-2. Producto minero, la sustancia mineral de carácter concesible ya extraída, haya o no sido objeto de beneficio, en cualquier estado productivo en que se encuentre.
-
-3. Venta, todo acto jurídico celebrado por el explotador minero que tenga por finalidad o pueda producir el efecto de transferir la propiedad de un producto minero.
-
-4. Ingresos operacionales mineros, todos los ingresos determinados de conformidad a lo establecido en el artículo 29 de la presente ley, deducidos todos aquellos ingresos que no provengan directamente de la venta de productos mineros, con excepción de los conceptos señalados en la letra e) del número 3) del artículo 64 ter, de esta misma ley.
-
-5. Renta imponible operacional minera, corresponde a la renta líquida imponible del contribuyente con los ajustes contemplados en el artículo 64 ter de la presente ley.
-
-6. Margen operacional minero, el cociente, multiplicado por cien, que resulte de dividir la renta imponible operacional minera por los ingresos operacionales mineros del contribuyente.
-
-El impuesto a que se refiere este artículo se aplicará a la renta imponible operacional minera del explotador minero de acuerdo a lo siguiente:
-
-a) Aquellos explotadores mineros cuyas ventas anuales determinadas de acuerdo a la letra d) de este artículo, sean iguales o inferiores al valor equivalente a 12.000 toneladas métricas de cobre fino, no estarán afectos al impuesto.
-
-b) A aquellos explotadores mineros cuyas ventas anuales determinadas de acuerdo con la letra d), sean iguales o inferiores al valor equivalente a 50.000 toneladas métricas de cobre fino y superiores al valor equivalente a 12.000 toneladas métricas de cobre fino, se les aplicará una tasa equivalente al promedio por tonelada de lo que resulte de aplicar lo siguiente:
-
-i) Sobre la parte que exceda al valor equivalente a 12.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 15.000 toneladas métricas de cobre fino, 0,5%;
-
-ii) Sobre la parte que exceda al valor equivalente a 15.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 20.000 toneladas métricas de cobre fino, 1%;
-
-iii) Sobre la parte que exceda al valor equivalente a 20.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 25.000 toneladas métricas de cobre fino, 1,5%;
-
-iv) Sobre la parte que exceda al valor equivalente a 25.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 30.000 toneladas métricas de cobre fino, 2%;
-
-v) Sobre la parte que exceda al valor equivalente a 30.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 35.000 toneladas métricas de cobre fino, 2,5%;
-
-vi) Sobre la parte que exceda al valor equivalente a 35.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 40.000 toneladas métricas de cobre fino, 3%, y
-
-vii) Sobre la parte que exceda al valor equivalente a 40.000 toneladas métricas de cobre fino, 4,5%.
-
-c) A aquellos explotadores mineros cuyas ventas anuales determinadas de acuerdo con la letra d) de este artículo, excedan al valor equivalente a 50.000 toneladas métricas de cobre fino, se les aplicará la tasa correspondiente al margen operacional minero del respectivo ejercicio, de acuerdo a la siguiente tabla:
-
-i) Si el margen operacional minero es igual o inferior a 35, la tasa aplicable ascenderá a 5%;
-
-ii) Sobre la parte del margen operacional minero que exceda de 35 y no sobrepase de 40 la tasa aplicable ascenderá a 8%;
-
-iii) Sobre la parte del margen operacional minero que exceda de 40 y no sobrepase de 45 la tasa aplicable ascenderá a 10,5%;
-
-iv) Sobre la parte del margen operacional minero que exceda de 45 y no sobrepase de 50 la tasa aplicable ascenderá a 13%;
-
-v) Sobre la parte del margen operacional minero que exceda de 50 y no sobrepase de 55 la tasa aplicable ascenderá a 15,5%;
-
-vi) Sobre la parte del margen operacional minero que exceda de 55 y no sobrepase de 60 la tasa aplicable ascenderá a 18%;
-
-vii) Sobre la parte del margen operacional minero que exceda de 60 y no sobrepase de 65 la tasa aplicable ascenderá a 21%;
-
-viii) Sobre la parte del margen operacional minero que exceda de 65 y no sobrepase de 70 la tasa aplicable ascenderá a 24%;
-
-ix) Sobre la parte del margen operacional minero que exceda de 70 y no sobrepase de 75 la tasa aplicable ascenderá a 27,5%;
-
-x) Sobre la parte del margen operacional minero que exceda de 75 y no sobrepase de 80 la tasa aplicable ascenderá a 31%;
-
-xi) Sobre la parte del margen operacional minero que exceda de 80 y no sobrepase de 85 la tasa aplicable ascenderá a 34,5%, y
-
-xii) Si el margen operacional minero excede de 85 la tasa aplicable será de 14%.
-
-d) Para los efectos de determinar el régimen tributario aplicable, se deberá considerar el valor total de venta de los productos mineros del conjunto de personas relacionadas con el explotador minero, que puedan ser considerados explotadores mineros de acuerdo al numeral 1), del inciso segundo, del presente artículo y que realicen dichas ventas.
-
-Se entenderá por personas relacionadas aquéllas a que se refiere el número 17 del artículo 8° del Código Tributario. Para estos efectos, lo dispuesto en el inciso cuarto de dicha norma se aplicará incluso en el caso que la persona relacionada sea un establecimiento permanente, un fondo y, en general, cualquier contribuyente.
-
-El valor de una tonelada métrica de cobre fino se determinará de acuerdo al valor promedio del precio contado que el cobre Grado A, haya presentado durante el ejercicio respectivo en la Bolsa de Metales de Londres, el cual será publicado, en moneda nacional, por la Comisión Chilena del Cobre dentro de los primeros 30 días de cada año.
-
-#### Artículo 64° ter
-
-De la renta imponible operacional minera.
-
-Se entenderá por renta imponible operacional minera, para los efectos de este artículo, la que resulte de efectuar los siguientes ajustes a la renta líquida imponible determinada en los artículos 29 a 33 de la presente ley:
-
-1. Deducir todos aquellos ingresos que no provengan directamente de la venta de productos mineros.
-
-2. Agregar los gastos y costos necesarios para producir los ingresos a que se refiere el número 1 precedente. Deberán, asimismo, agregarse los gastos de imputación común del explotador minero que no sean asignables exclusivamente a un determinado tipo de ingresos, en la misma proporción que representen los ingresos a que se refiere el numeral precedente respecto del total de los ingresos brutos del explotador minero.
-
-3. Agregar, en caso que se hayan deducido, las siguientes partidas contenidas en el artículo 31 de la presente ley:
-
-a) Los intereses referidos en el número 1°, de dicho artículo;
-
-b) Las pérdidas de ejercicios anteriores a que hace referencia el número 3° del referido artículo;
-
-c) El cargo por depreciación acelerada;
-
-d) La diferencia, de existir, que se produzca entre la deducción de gastos de organización y puesta en marcha, a que se refiere el número 9° del artículo 31, amortizados en un plazo inferior a seis años y la proporción que hubiese correspondido deducir por la amortización de dichos gastos en partes iguales, en el plazo de seis años. La diferencia que resulte de aplicar lo dispuesto en esta letra, se amortizará en el tiempo que reste para completar, en cada caso, los seis ejercicios, y
-
-e) La contraprestación que se pague en virtud de un contrato de avío, compraventa de minerales, arrendamiento o usufructo de una pertenencia minera, o cualquier otro que tenga su origen en la entrega de la explotación de un yacimiento minero a un tercero. También deberá agregarse aquella parte del precio de la compraventa de una pertenencia minera que haya sido pactado como un porcentaje de las ventas de productos mineros o de las utilidades del comprador.
-
-4. Deducir la cuota anual de depreciación por los bienes físicos del activo inmovilizado que hubiere correspondido de no aplicarse el régimen de depreciación acelerada.
-
-5. En conformidad a lo establecido en los artículos 64 del Código Tributario y 41 E de la presente ley, en caso de existir ventas de productos mineros del explotador minero a personas relacionadas residentes o domiciliadas en Chile, para los efectos de determinar el régimen tributario, la tasa, exención y la base del impuesto a que se refiere este artículo, el Servicio de Impuestos Internos, en uso de sus facultades, podrá impugnar los precios utilizados en dichas ventas. En este caso, el Servicio de Impuestos Internos deberá fundamentar su decisión considerando los precios de referencia de productos mineros que determine la Comisión Chilena del Cobre de acuerdo a sus facultades legales.
+Derogado.
 
 ## Título V
 
@@ -3108,7 +3012,7 @@ Están obligados a presentar anualmente una declaración jurada de sus rentas, e
 
 1°.- Los contribuyentes gravados en la primera categoría del Titulo II o en el número 1° del artículo 58°, por las rentas devengadas o percibidas en el año calendario o comercial anterior, sin perjuicio de las normas especiales del artículo 69°. No estarán obligados a presentar esta declaración los contribuyentes que exclusivamente desarrollan actividades gravadas en los artículos 23° y 25°; en cuanto a los contribuyentes gravados en los artículos 24° y 26°, tampoco estarán obligados a presentar dicha declaración si el Presidente de la República ha hecho uso de la facultad que le confiere el inciso 1° del artículo 28. Asimismo el Director podrá liberar de la obligación establecida en este artículo a los contribuyentes no domiciliados ni residentes en Chile que solamente obtengan rentas de capitales mobiliarios, sea que éstas se originen en la tenencia o en la enajenación de dichos títulos, o rentas de aquellas que establezca el Servicio de Impuestos Internos mediante resolución, aun cuando estos contribuyentes hayan designado un representante a cargo de dichas inversiones en el país. En este caso se entenderá, para los efectos de esta ley, que el inversionista no tiene un establecimiento permanente de aquellos a que se refiere el artículo 58° número 1°).
 
-2°.- Los contribuyentes gravados con el impuesto específico establecido en el artículo 64 bis.
+2. Los contribuyentes gravados con el impuesto contenido en la Ley sobre Royalty a la Minería.
 
 3°.- Los contribuyentes del impuesto global complementario establecido en el Título III, por las rentas a que se refiere el artículo 54°, obtenidas en el año calendario anterior, siempre que éstas, antes de efectuar cualquiera rebaja, excedan, en conjunto, del límite exento que establece el artículo 52.
 
@@ -3394,9 +3298,7 @@ f) Eliminada.
 
 g) Eliminada.
 
-h) Los contribuyentes obligados al pago del impuesto establecido en el artículo 64 bis, deberán efectuar un pago provisional mensual sobre los ingresos brutos que provengan de las ventas de productos mineros, con la tasa que se determine en los términos señalados en los incisos segundo y tercero de la letra a), de este artículo, pero el incremento o disminución de la diferencia porcentual, a que se refiere el inciso segundo, se determinará considerando el impuesto específico de dicho número que debió pagarse en el ejercicio anterior, sin el reajuste del artículo 72, en vez del impuesto de primera categoría.
-
-En los casos en que el porcentaje aludido en el párrafo anterior de esta letra no pueda ser determinable, por no haberse producido renta imponible operacional en el ejercicio anterior o por tratarse del primer ejercicio comercial que se afecte al impuesto del artículo 64 bis, o por otra circunstancia, la tasa de este pago provisional será de 0,3%.
+h) Eliminada.
 
 i) Suprimida.
 
@@ -3454,11 +3356,7 @@ Los contribuyentes que se encuentren en situación de suspender los pagos provis
 
 La confección de un estado de pérdidas y ganancias maliciosamente incompleto o falso, dará lugar a la aplicación del máximo de las sanciones contempladas en el artículo 97, número 4°, del Código Tributario, sin perjuicio de los intereses penales y reajustes que procedan por los pagos provisionales no efectuados.
 
-Lo dispuesto en este artículo será también aplicable a los contribuyentes señalados en la letra h) del artículo 84, pero la suspensión de los pagos provisionales sólo procederá en el caso que la renta imponible operacional, anual o trimestral según corresponda, a que se refiere el artículo 64 bis, no exista o resulte negativo el cálculo que allí se establece.
-
 > **Nota.** El artículo octavo transitorio de la LEY 18985, publicada el 28.06.1990, dispone que la modificación introducida a este artículo, rigen a contar del día primero del mes siguiente al de su publicación.
-
-> **Nota.** NOTA: 1 El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
 
 #### Artículo 91°
 
@@ -3482,7 +3380,7 @@ El impuesto provisional pagado en conformidad con los artículos anteriores por 
 
 1°.- Impuesto a la renta de Categoría, que debe declararse en el mes de abril, (24-a-b) por las rentas del año calendario anterior o en otra fecha, señalada por la Ley de la Renta.
 
-2. Impuesto establecido en el artículo 64 bis.
+2. Impuesto establecido en la Ley sobre Royalty a la Minería.
 
 3°.- SUPRIMIDO.
 
@@ -3494,15 +3392,13 @@ El impuesto provisional pagado en conformidad con los artículos anteriores por 
 
 > **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
 
-> **Nota.** NOTA: 2 El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
-
 #### Artículo 94°
 
 El impuesto provisional pagado por sociedades de personas deberá ser imputado en orden sucesivo a las siguientes obligaciones tributarias:
 
 1°.- Impuesto a la renta de Categoría, que debe declararse en el mes de abril, por las rentas del año calendario anterior o en otra fecha, señalada por la Ley de la Renta.
 
-2. Impuesto establecido en el artículo 64 bis.
+2. Impuesto establecido en la Ley sobre Royalty a la Minería.
 
 3°.- Impuesto Global Complementario o Adicional que deban declarar los socios de sociedades de personas. En este caso, aquella parte de los pagos provisionales que se imputen por los socios se considerará para todos los efectos de esta ley, como retiro efectuado en el mes en que se realice la imputación.
 
@@ -3513,8 +3409,6 @@ El impuesto provisional pagado por sociedades de personas deberá ser imputado e
 > **Nota.** El Nº 1 del artículo 9 del DL 1362, Hacienda, publicado el 06.03.1976, dispone que la modificación que introduce a esta norma, regirá a contar del año tributario 1976.
 
 > **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
-
-> **Nota.** NOTA: 2 El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
 
 #### Artículo 95°
 
@@ -3547,8 +3441,6 @@ El Servicio de Tesorerías podrá efectuar la devolución a que se refieren los 
 El contribuyente que perciba una cantidad mayor a la que le corresponda deberá restituir la parte indebidamente percibida, reajustada ésta, previamente, según el porcentaje de variación del Indice de Precios al Consumidor experimentado entre el último día del mes anterior al de devolución y el último día del mes anterior al reintegro efectivo; más un interés del 1,5% mensual por cada mes o fracción del mes, sin perjuicio de aplicar las sanciones que establece el Código Tributario en su artículo 97, N° 4 cuando la devolución tenga su origen en una declaración o solicitud de devolución, maliciosamente falsa o incompleta.
 
 Sin embargo, no se devengará interés sobre la restitución de la parte indebidamente percibida, cuando dicha circunstancia se haya debido a una causa imputable al Servicio de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Regional o Provincial en su caso.
-
-El Servicio dispondrá de un plazo de doce meses, contados desde la fecha de la solicitud, para resolver la devolución del saldo a favor del contribuyente cuyo fundamento sea la absorción de utilidades conforme a lo dispuesto en el artículo 31, número 3. Con todo, el Servicio podrá revisar las respectivas devoluciones de acuerdo a lo dispuesto en los artículos 59 y 200 del Código Tributario.
 
 > **Nota.** El artículo 3º inciso 4º del DL 3454, Hacienda, publicado el 25.07.1980, señala que lo dispuesto en el presente artículo, regirá a contar del 1º de enero de 1979, a excepción del inciso 4° que regirá respecto de los ejercicios terminados con posterioridad a la fecha de su publicación.NOTA 1: El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
 
