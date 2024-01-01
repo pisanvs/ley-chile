@@ -286,6 +286,60 @@ La Red Asistencial de cada Servicio de Salud estará constituida por el conjunto
 
 La Red Asistencial de cada Servicio de Salud deberá colaborar y complementarse con la de los otros Servicios de Salud, a fin de resolver adecuadamente las necesidades de salud de la población.
 
+#### Artículo 17 bis
+
+El Hospital Clínico de la Universidad de Chile es un establecimiento que forma parte del Sistema Nacional de Servicios de Salud para el efecto de otorgar atenciones de salud a los beneficiarios del Régimen de Prestaciones de Salud contenido en el Libro II, en la modalidad de atención establecida en el inciso primero del artículo 141, y formará parte de la Red Asistencial de uno o más Servicios de Salud, en virtud del o los convenios que suscribirán la Universidad de Chile, el Fondo Nacional de Salud y el Servicio de Salud respectivo, en el marco de la autonomía, proyecto académico y rol formador de dicha institución de educación superior del Estado, conforme lo establecido en su estatuto institucional y en la ley N° 21.094.
+
+Lo anterior, sin perjuicio de la facultad del Subsecretario de Redes Asistenciales de suscribir el o los referidos convenios en representación de dos o más Servicios de Salud a efectos de integrar al Hospital Clínico de la Universidad de Chile a las redes asistenciales de aquellos servicios, conforme a lo dispuesto en la letra c) del artículo 8.
+
+El o los convenios que integren al Hospital Clínico de la Universidad de Chile a la Red Asistencial tendrán por objeto que el establecimiento tome a su cargo, por cuenta del Servicio de Salud respectivo, conforme a los mismos mecanismos de pagos y aranceles, una parte de la población beneficiaria de su territorio, especialmente, a los habitantes de las comunas de Recoleta, Independencia, Conchalí, Huechuraba, Quilicura, Lampa, Til Til, Colina y Renca. Asimismo, las prestaciones de alta complejidad que se le asignen para la ejecución de las acciones de fomento, protección y recuperación de la salud o rehabilitación de enfermos.
+
+El Fondo Nacional de Salud, la Universidad de Chile, el Servicio de Salud respectivo, o el Subsecretario de Redes Asistenciales cuando suscriba el convenio, podrán solicitar su suspensión temporal en caso de incumplimiento grave de las obligaciones estipuladas, según el procedimiento establecido en el mismo instrumento.
+
+Con todo, los convenios que suscriba el Ministerio de Salud con el Hospital Clínico de la Universidad de Chile deberán propender a ampliar, entre otros, los cupos de formación de la especialidad de geriatría para ser destinados a las regiones con mayor proporción de adultos mayores del país.
+
+#### Artículo 17 ter
+
+Las personas que no sean beneficiarias del convenio señalado en el artículo anterior podrán requerir y obtener del Hospital Clínico de la Universidad de Chile el otorgamiento de prestaciones de salud, conforme lo autoriza el artículo 99 de la ley N° 18.681, y la letra a) del artículo 39 de la ley N° 21.094.
+
+Con todo, la atención de las personas a que se refiere el inciso anterior no podrá significar postergación o menoscabo de la atención que el Hospital Clínico de la Universidad de Chile deberá prestar a los beneficiarios del convenio referido en el artículo anterior. En consecuencia, con la sola excepción de urgencias debidamente calificadas, dichos beneficiarios se preferirán por sobre las personas señaladas en el inciso anterior.
+
+#### Artículo 17 quáter
+
+El o los convenios que integren al Hospital Clínico de la Universidad de Chile a la Red Asistencial deberán contemplar, al menos, el siguiente contenido mínimo, según corresponda:
+
+1. Los objetivos y metas sanitarias.
+
+2. El marco presupuestario asignado, el que deberá ser pagado en duodécimos, siempre que el o los convenios aseguren la debida rendición de cuentas, la eficiencia en el uso de recursos y métodos de reliquidación. Este marco presupuestario no podrá ser superior a lo autorizado por la ley de Presupuestos para el Sector Público de cada año. Con todo, deberá tener como referencia un promedio de las prestaciones otorgadas por el hospital a los beneficiarios del Sistema Nacional de Servicios de Salud durante a lo menos los últimos tres años.
+
+3. Los niveles de actividad y el monitoreo por egreso, por cirugía mayor ambulatoria o por cualquier tipo de labor.
+
+4. Los procedimientos de control, evaluación y rendición de cuentas.
+
+5. La población beneficiaria del Servicio de Salud Metropolitano Norte que estará a cargo del Hospital Clínico de la Universidad de Chile, la que deberá incluir, especialmente, a los habitantes de las comunas de Recoleta, Independencia, Conchalí, Huechuraba, Quilicura, Lampa, Til Til, Colina y Renca, así como los lineamientos para resolver las necesidades de salud de dicha población de acuerdo con la cartera de servicios, la que deberá incluirse en el convenio.
+
+6. Los establecimientos de atención primaria de la red del Servicio de Salud Metropolitano Norte cuyos usuarios serán atendidos por el Hospital Clínico de la Universidad de Chile en todo tipo de prestaciones sanitarias, previa derivación de sus profesionales, delegándose en el referido hospital las funciones para proporcionar las prestaciones de salud correspondientes.
+
+7. Las prestaciones de alta complejidad que el Hospital Clínico de la Universidad de Chile brindará a los beneficiarios del Sistema Nacional de Servicios de Salud que sean derivados por los profesionales respectivos en el marco de la modalidad de atención institucional, delegándose en el recinto las funciones para otorgar dichas prestaciones.
+
+8. Los lineamientos para realizar las prestaciones de alta complejidad como referente de la Red del Sistema Nacional de Servicios de Salud.
+
+9. El o los mecanismos de pago del Fondo Nacional de Salud corresponderán a los mismos mecanismos utilizados para el pago a los demás establecimientos de la Red Asistencial de los Servicios de Salud, según el tipo de prestaciones y las condiciones en que éstas se otorguen. Sin perjuicio de lo anterior, los valores de las prestaciones se fijarán con el Fondo Nacional de Salud de común acuerdo, en atención a la naturaleza universitaria y estatal del hospital clínico reconocida en el siguiente numeral.
+
+10. Un aporte anual por ser "Hospital Universitario Público", en consideración a la naturaleza universitaria y estatal del hospital clínico, cuando las acciones que realice vayan en beneficio del sistema de salud, según los lineamientos y las definiciones del Ministerio de Salud. Dicho aporte se determinará anualmente mediante la aplicación de los criterios e indicadores fijados en un decreto dictado bajo la fórmula "Por orden del Presidente de la República", firmado por el Ministro de Salud y suscrito además por el Ministro de Hacienda. Tales criterios e indicadores deberán considerar, al menos, los profesionales en formación de especialistas y sub-especialistas, publicaciones académicas, proyectos de investigación, vinculación con el medio y el impacto de las actividades del hospital clínico en regiones. El aporte se determinará previo requerimiento que realizará la Rectoría de la Universidad de Chile al Ministerio de Salud durante el proceso de formulación presupuestaria.
+
+11. La obligación del Hospital Clínico de la Universidad de Chile de mantener sistemas de información compatibles e interoperables con los de la Red Asistencial correspondiente, los que serán determinados por la Subsecretaría de Redes Asistenciales y el Fondo Nacional de Salud. Tanto el referido Fondo como la mencionada subsecretaría deberán colaborar con el hospital clínico en el cumplimiento de esta obligación.
+
+12. La obligación del hospital clínico de entregar la información estadística y de atención de pacientes que le sea solicitada, de acuerdo con sus competencias legales, por el Ministerio de Salud, el Fondo Nacional de Salud, el Servicio de Salud respectivo, la Superintendencia de Salud, los establecimientos de la Red Asistencial correspondiente u otra institución con atribuciones para requerirla.
+
+13. El aporte que el Estado entregará anualmente a la Universidad de Chile para la adquisición de equipos, equipamientos médicos y renovación de infraestructura del hospital clínico, mediante programas presupuestarios y/o su incorporación al plan de inversiones de la red pública de salud.
+
+14. Las causales de incumplimiento grave del convenio, así como el procedimiento para suspenderlo temporalmente por medio de resolución fundada en la ocurrencia de alguna de estas causales.
+
+La determinación de las prestaciones que otorgará el Hospital Clínico de la Universidad de Chile deberá considerar toda su capacidad disponible y las necesidades del Sistema Nacional de Servicios de Salud, además de los requerimientos docentes del establecimiento en el marco de su rol formador y proyecto académico, lo que será acordado al menos una vez al año en el o los respectivos convenios o en un anexo a dichos instrumentos.
+
+En todo lo no regulado por este artículo, se aplicarán supletoriamente las disposiciones contenidas en el decreto con fuerza de ley N° 36, de 1980, del Ministerio de Salud Pública.
+
 #### Artículo 18
 
 La Red Asistencial de cada Servicio de Salud se organizará con un primer nivel de atención primaria, compuesto por establecimientos que ejercerán funciones asistenciales en un determinado territorio con población a cargo y otros niveles de mayor complejidad que sólo recibirán derivaciones desde el primer nivel de atención, salvo en los casos de urgencia y otros que señalen la ley y los reglamentos.
@@ -1118,6 +1172,12 @@ La Central proveerá de medicamentos, instrumental y demás elementos o insumos 
 
 Estas funciones son sin perjuicio de la facultad de los Servicios de Salud y de otros organismos o entidades del Sistema para adquirir dichos elementos de otros proveedores.
 
+#### Artículo 68 bis
+
+La Central de Abastecimiento del Sistema Nacional de Servicios de Salud proveerá al Hospital Clínico de la Universidad de Chile, según los precios que se acuerden, de medicamentos, instrumental y otros elementos o insumos que pueda requerir, en los mismos términos, condiciones y disponibilidad que los demás órganos y establecimientos que forman parte del Sistema Nacional de Servicios de Salud, para cuyos efectos se requerirá únicamente el respaldo presupuestario correspondiente.
+
+Lo establecido precedentemente no obstará a que la Universidad de Chile celebre convenios adicionales con la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, o a la facultad de esa institución de educación superior para adquirir los referidos elementos de otros proveedores en conformidad a la ley.
+
 #### Artículo 69
 
 La Central será la continuadora legal, con los mismos derechos y obligaciones, del Servicio Nacional de Salud en lo referente a la Central de Abastecimiento de dicho Servicio, para los efectos patrimoniales.
@@ -1552,7 +1612,7 @@ funcionaria
 
 #### Artículo 102
 
-La promoción de los funcionarios de las plantas de técnicos, administrativos y auxiliares de las Subsecretarías del Ministerio de Salud; del Instituto de Salud Pública de Chile; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud y de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y el decreto ley Nº 249, de 1974, se efectuará mediante un procedimiento de acreditación de competencias, en el cual se evaluará la capacitación, la experiencia calificada y la calificación obtenida por el personal en el período objeto de acreditación, con una ponderación de 30%, 40% y 30%, respectivamente.
+La promoción de los funcionarios de las plantas de técnicos, administrativos y auxiliares de las Subsecretarías del Ministerio de Salud; del Instituto de Salud Pública de Chile; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud y de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y el decreto ley Nº 249, de 1974, y del señalado en el artículo 17 bis, se efectuará mediante un procedimiento de acreditación de competencias, en el cual se evaluará la capacitación, la experiencia calificada y la calificación obtenida por el personal en el período objeto de acreditación, con una ponderación de 30%, 40% y 30%, respectivamente.
 
 Los funcionarios deberán someterse anualmente al sistema de acreditación de competencias en el cargo que sirvan.
 
@@ -3054,6 +3114,8 @@ Igual plazo tendrá la Institución de Salud Previsional para informar del no pa
 
 El incumplimiento de la obligación señalada en los dos incisos precedentes, será sancionado por la Superintendencia con multa, en los términos del artículo 220 de esta Ley. En el caso de trabajadores independientes, cotizantes voluntarios o trabajadores que, habiendo sido dependientes, se encuentren en situación de cesantía, la falta de notificación oportuna, además, impedirá a la Institución de Salud Previsional poner término al contrato por no pago de la cotización ni cobrar intereses, reajustes y multas.
 
+> **Nota.** El artículo 95 de la ley 21647, publicada el 23.12.2023, dispone que, excepcionalmente, el proceso de adecuación de los precios base de los planes de salud a que se refieren los artículos 197 y 198 del presente decreto con fuerza de ley, estará sujeto a dichas normas con las modificaciones que incorpora la citada disposición.
+
 #### Artículo 198
 
 Las modificaciones a los precios base de los planes de salud se sujetarán a las siguientes reglas:
@@ -3079,6 +3141,8 @@ e) En el plazo de quince días corridos, contado desde la publicación del indic
 En el evento de que el indicador sea negativo, las Isapres no podrán subir el precio.
 
 Los nuevos precios entrarán en vigencia a partir del mes de junio de cada año, con excepción de aquellos planes que a dicha fecha tengan menos de un año, de aquellos expresados en la cotización legal obligatoria y de aquellos que se rigen de acuerdo a lo dispuesto en el artículo 200 de este cuerpo legal.
+
+> **Nota.** NOTA 1 El artículo 95 de la ley 21647, publicada el 23.12.2023, dispone que, excepcionalmente, el proceso de adecuación de los precios base de los planes de salud a que se refieren los artículos 197 y 198 del presente decreto con fuerza de ley, estará sujeto a dichas normas con las modificaciones que incorpora la citada disposición.
 
 #### Artículo 198 bis
 
