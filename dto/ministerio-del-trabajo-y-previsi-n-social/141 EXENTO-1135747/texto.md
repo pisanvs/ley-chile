@@ -108,15 +108,13 @@ Segundo: Déjese establecido que esta subrogación regirá para todas las region
 
 ### VII. Región de Ñuble, cuyo orden de subrogación será el siguiente:
 
-1) Director(a) Regional Instituto de Previsión Social, IPS.
+1) Director(a) Regional del Servicio de Nacional de Capacitación y Empleo, Sence.
 
-2) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, Sence.
+2) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
 
-3) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
+3) Director(a) Regional Instituto de Previsión Social, IPS.
 
 4) Director(a) Regional del Trabajo.
-
-5) Administrador(a) Regional de la Dirección General de Crédito Prendario, Dicrep.
 
 ### VIII. Región de Tarapacá, cuyo orden de subrogación será el siguiente:
 
@@ -127,6 +125,18 @@ Segundo: Déjese establecido que esta subrogación regirá para todas las region
 3. Director/a Regional del Servicio Nacional de Capacitación y Empleo.
 
 4. Director/a Regional del Instituto de Previsión Social.
+
+### VIII. Región de Atacama, cuyo orden de subrogación será el siguiente:
+
+1) Director(a) Regional Instituto de Previsión Social, IPS.
+
+2) Director(a) Regional del Servicio de Nacional de Capacitación y Empleo, Sence.
+
+3) Director(a) Regional del Trabajo.
+
+4) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
+
+5) Director(a) Regional de la Dirección General del Crédito Prendario, Dicrep.
 
 #### Artículo tercero
 
