@@ -68,7 +68,7 @@ d. Tratándose de anticipos contra acreditación de avance de obras, corresponde
 
 Las Asignaciones Directas que se otorguen en virtud de esta resolución a través del DS N° 10 (V. y U.), de 2005 y DS N° 27 (V. y U.), de 2016, deberán contar con la calificación de los proyectos a más tardar al día 29 de septiembre de 2023 y tendrán 90 días corridos desde la fecha de calificación para iniciar obras y en los casos que se requiera licitar para contratar obras este plazo será de 120 días corridos. Si el último día para iniciar obras fuera día inhábil, éste se entenderá prorrogado al primer día hábil siguiente. La vigencia de los subsidios se iniciará desde la fecha de calificación de los proyectos. En casos justificados por las Seremi, el Ministro podrá establecer mediante resolución fundada plazos distintos.
 
-Los proyectos señalados en los oficios citados en los vistos i), j), k), l) y m), de la presente resolución exenta, que se detallan en el siguente cuadro, tendrán hasta 75 días corridos para calificar, desde la fecha señalada en el párrafo precedente.
+Los proyectos señalados en los oficios citados en los vistos i), j), k), l) y m), de la presente resolución exenta, que se detallan en el siguente cuadro, tendrán hasta 124 días corridos para calificar, desde la fecha señalada en el párrafo precedente.
 
 4. Los montos involucrados en las resoluciones que los Seremi dicten en el ejercido de las delegaciones conferidas por la presente resolución deberán imputarse a los recursos del Programa Habitacional vigente que corresponda, y ser informadas a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo, en un plazo que no podrá exceder de 10 días corridos, contados desde su dictación.
 
