@@ -20,6 +20,8 @@ Decreto:
 
 Apruébase el programa de expropiación referente a los inmuebles, ubicado en la comuna de Copiapó, Región de Atacama, de una superficie total de 3.445,86 metros cuadrados, el que se destinará al proyecto Parque Diagonal Entre Puentes, de la comuna de Copiapó, los que se singularizan en el siguiente cuadro:
 
+.
+
 2. El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Copiapó, Región de Atacama, si lo hubiere.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
