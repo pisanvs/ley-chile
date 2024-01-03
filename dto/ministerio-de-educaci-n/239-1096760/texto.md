@@ -46,9 +46,9 @@ i. Carreras y Programas de Pedagogía: Carreras y programas de estudio regulares
 
 ii. Estándares Pedagógicos y Disciplinarios: Pautas que explicitan y definen el conjunto de habilidades, conocimientos y disposiciones que debe tener un profesor o educador una vez finalizada su formación inicial, que el Ministerio de Educación entrega, para que las universidades los desarrollen a través de sus carreras y programas de pedagogía, y que comprenden los distintos sectores de aprendizaje, niveles y modalidades de enseñanza.
 
-iii. Prueba de Selección Universitaria: Aquella que se aplique como mecanismo de admisión de estudiantes, por la mayor cantidad de universidades del Consejo de Rectores de las Universidades Chilenas. También se entenderá por tal, el instrumento equivalente al que haya sustituido o el que lo reemplace.
+iii. Prueba de Acceso a la Educación Superior o el instrumento equivalente que la sustituya o reemplace: Aquel instrumento que se aplique como mecanismo de admisión de estudiantes a la educación superior, en particular a la educación universitaria, definido por el comité técnico de acceso del subsistema universitario dispuesto en el párrafo 3º del Título I de la Ley Nº 21.091, sobre Educación Superior.
 
-iv. Pruebas Obligatorias de Selección Universitaria: Pruebas de selección universitaria correspondientes a Matemáticas, y a Lenguaje y Comunicación, o aquellas que en el futuro se adopten o las reemplacen.
+iv. Pruebas Obligatorias de Acceso a la Educación Superior: Pruebas de Acceso a la Educación Superior correspondientes a competencia matemática y competencia lectora, o aquellas que en el futuro se adopten o las reemplacen.
 
 #### Artículo 3º
 
@@ -122,23 +122,15 @@ DE LAS CONDICIONES DE ADMISIÓN UNIVERSITARIA
 
 #### Artículo 10
 
-Condiciones de admisión universitaria. Las universidades sólo podrán admitir y matricular en carreras y programas de pedagogía, a alumnos que cumplan, a lo menos, con alguna de las siguientes condiciones:
-
-i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 70 o superior, teniendo en cuenta el promedio de las pruebas obligatorias de selección universitaria.
-
-ii. Tener un promedio de notas de la educación media dentro del 10% superior de su establecimiento educacional.
-
-iii. Tener un promedio de notas de la educación media dentro del 30% superior de su establecimiento educacional, y haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias de selección universitaria.
-
-iv. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior, reconocido por el Ministerio de Educación y rendir la prueba de selección universitaria o el instrumento que lo reemplace. Para ingresar a estos programas se deberá tener un promedio de notas de los años cursados de la educación media dentro del 15% superior de su establecimiento educacional. En el caso de no existir registro del establecimiento educacional se considerará a nivel nacional.
+Condiciones de admisión universitaria. Las universidades sólo podrán admitir y matricular en carreras y programas de pedagogía a alumnos que cumplan, a lo menos, con alguna de las condiciones previstas en la letra b) del artículo 27 bis de la Ley Nº 20.129 y del artículo trigésimo sexto transitorio de la ley Nº 20.903, o la norma que las modifique o reemplace.
 
 #### Artículo 11
 
 Sobre los requerimientos de datos a las universidades. Anualmente, el Ministerio de Educación, a través del Sistema de Información de Educación Superior "SIES", requerirá datos a las universidades, relativos a la o las condiciones enumeradas en el artículo anterior que el estudiante cumplió para ingresar a la carrera o programa de estudio de pedagogía, debiendo indicar ésta además, y según corresponda:
 
-i. Puntaje obtenido en la prueba de selección universitaria, o el instrumento que la reemplace;
+i. Puntaje obtenido en la prueba de acceso a la educación superior, o el instrumento que la reemplace;
 
-ii. Percentil de ubicación en las pruebas obligatorias de selección universitaria, o el instrumento que la reemplace;
+ii. Percentil de ubicación en las pruebas obligatorias de acceso a la educación superior, o el instrumento que la reemplace;
 
 iii. Promedio de notas de la enseñanza media;
 
@@ -154,11 +146,11 @@ Respecto de los estudiantes que hayan realizado la educación media en el extran
 
 Incumplimiento de las condiciones de admisión. El Ministerio de Educación informará a la Comisión Nacional de Acreditación, cualquier incumplimiento que detecte por parte de las universidades, respecto a las condiciones establecidas en el artículo 10 de este reglamento para admitir y matricular a los estudiantes en las carreras y programas de pedagogía, a efectos de que sea considerada por la Comisión, en los procesos de acreditación de dichas instituciones.
 
-§ 2. De la Prueba de Selección Universitaria y de los Promedios de Notas de la Educación Media
+§ 2. De la Prueba de Acceso a la Educación Superior y de los Promedios de Notas de la Educación Media
 
 #### Artículo 13
 
-Sobre la prueba de selección universitaria. Para cada estudiante, el cálculo del percentil del promedio de puntaje de las pruebas obligatorias de selección universitaria, que determinará su ubicación en los mismos, se realizará en base a los resultados de todos los estudiantes que rindieron la prueba de selección universitaria, en ese mismo año.
+Sobre la Prueba de Acceso a la Educación Superior. Para cada estudiante, el cálculo del percentil del promedio de puntaje de las pruebas obligatorias de acceso a la educación superior, que determinará su ubicación en los mismos, se realizará en base a los resultados obtenidos por todos los estudiantes que rindieron dichas pruebas obligatorias en la última aplicación del proceso de admisión inmediatamente anterior.
 
 #### Artículo 14
 
@@ -172,15 +164,15 @@ Para efectos del cumplimiento de las condiciones a que se refiere el artículo 1
 
 En caso que las personas no cuenten con datos de las notas de la cohorte de egreso del establecimiento educacional en el cual cursaron la educación media, el cálculo de su porcentaje del promedio de notas, se efectuará estimando un valor promedio para las notas observadas de los últimos 5 años, de acuerdo al tipo de modalidad educativa del establecimiento de egreso. Sobre la base de este valor promedio, se estimará la posición de su promedio de notas.
 
-§ 3. Sobre los programas de preparación y acceso de estudiantes de educación media para continuar estudios de pedagogía en la educación superior
+§ 3. Sobre los programas de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior, que para efectos de este reglamento se denominan Programas de Atracción de Talento Pedagógico
 
 #### Artículo 15
 
-Ingreso. Los estudiantes cuyos promedios de notas, cursados durante la educación media, se encuentren dentro del 15% superior de su establecimiento educacional, o nivel nacional según corresponda, podrán ingresar a un "programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior", en adelante "el Programa".
+Ingreso. Los estudiantes que se encuentren cursando educación media, en cualquier modalidad, podrán ingresar a un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior, que para efectos de este reglamento se denomina "Programa de Atracción de Talento Pedagógico", en adelante "el Programa" o "los Programas". Estos Programas habilitarán para la admisión y matrícula en carreras y programas de pedagogía, para el periodo de admisión inmediatamente siguiente a la aprobación del Programa y para el subsiguiente, tanto de aquellas carreras y programas de pedagogía que se encuentren acreditados como de los que se encuentren en proceso de supervisión del Consejo Nacional de Educación en los términos dispuestos en el artículo 27 quinquies de la ley Nº 20.129.
 
 #### Artículo 16
 
-Reconocimiento por el Ministerio de Educación. Las universidades que realicen alguno de los Programas regulados en el presente párrafo, deberán solicitar su reconocimiento al Ministerio de Educación, para ser considerado como una condición válida de admisión para el cumplimiento del requisito señalado en el numeral iv) del artículo 10 de este reglamento.
+Reconocimiento por el Ministerio de Educación. Las universidades que realicen alguno de los Programas regulados en el presente párrafo, deberán solicitar su reconocimiento al Ministerio de Educación, para ser considerado como una condición válida de admisión para el cumplimiento de los requisitos señalados en los numerales iv) y v) de la letra b) del inciso primero del artículo 27 bis de la ley Nº 20.129 y en los numerales iii y iv del inciso segundo del artículo trigésimo sexto transitorio de la Ley Nº 20.903, o la norma que las modifique o reemplace.
 
 Cada universidad, al 30 de abril de cada año, podrá presentar al Ministerio de Educación, un único Programa de preparación y admisión a las carreras y programas de pedagogía, el cual deberá contener y describir todas las estrategias implementadas para preparar el ingreso de estudiantes a las mismas por esta vía. De esta forma, el Programa podrá contener estrategias generales para todas las carreras y programas de pedagogía de la institución y estrategias diferenciadas por sedes o disciplinas, si la universidad lo estima pertinente.
 
@@ -190,17 +182,21 @@ Los Programas para su reconocimiento, deberán ser presentados por las universid
 
 Requisitos generales. Para solicitar su reconocimiento, el Programa presentado por la universidad deberá tener, al menos, los siguientes requisitos:
 
-a) Contener mecanismos de admisión de estudiantes al Programa. Estos mecanismos podrán establecer requisitos respecto a condiciones académicas y/o vocacionales.
+a) Contener mecanismos de admisión de estudiantes al Programa. Estos mecanismos deben resguardar especialmente, en el ingreso de estudiantes, la equidad y los principios señalados en el inciso primero del artículo 14 de la ley Nº 21.091, sobre Educación Superior. Asimismo, los mecanismos deberán establecer requisitos de admisión respecto a condiciones académicas y de disposición o talento pedagógico de los postulantes.
 
-b) Contener mecanismos de diagnóstico de entrada para los estudiantes. Estos mecanismos deben permitir identificar la brecha entre el perfil de ingreso real y el perfil de ingreso esperado por la carrera y programa de pedagogía.
+b) Contener mecanismos de diagnóstico de entrada para los estudiantes. Estos mecanismos deberán reflejar coherencia entre el perfil de ingreso de estudiantes al Programa, el perfil de egreso de éste y el perfil de ingreso a la carrera o programa de pedagogía de la universidad. Asimismo, los mecanismos deben reflejar coherencia entre los objetivos del Programa, las actividades a cursar en él y el perfil de egreso de éste.
 
 c) Describir las estrategias de acompañamiento y nivelación para los estudiantes que se matriculen en las carreras y programas de pedagogía y que requieran de estos apoyos.
 
-d) La propuesta deberá incluir indicadores con metas estimativas, que incluya al menos lo siguiente: número aproximado de estudiantes que ingresarán por esta vía a la carrera y programa de pedagogía; porcentaje de retención al primer año; porcentaje de aprobación de créditos académicos; porcentaje de retención al segundo año y; porcentaje estimativo de titulados.
+d) La propuesta deberá incluir los siguientes indicadores con metas estimativas:
 
-e) Establecer, describir claramente y comunicar los procedimientos de matrícula para sus estudiantes seleccionados en las carreras y programas de pedagogía.
+i) Respecto del Programa: Proyecciones del porcentaje de estudiantes que aprobarán el Programa, del porcentaje de retención de estudiantes del Programa y del porcentaje de estudiantes matriculados en carrera o programa de pedagogía.
 
-f) En el caso de contemplar alianzas en red con otras universidades para que estudiantes del programa participen en los procesos de admisión a las carreras de pedagogía de estas instituciones, se deberá describir y comunicar el carácter y las condiciones de estas alianzas.
+ii) Respecto del ingreso a la universidad: Proyecciones del porcentaje de retención al primer año de los estudiantes del Programa, del porcentaje de aprobación de créditos al primer año de los estudiantes del Programa, del porcentaje de retención de segundo año de los estudiantes del Programa y del porcentaje de titulación de los estudiantes del Programa.
+
+e) Establecer, describir claramente y comunicar los procedimientos de matrícula para sus estudiantes seleccionados en las carreras y programas de pedagogía, como asimismo incluir el número de cupos que tendrá el Programa y los cupos que dispondrá cada universidad para admitir estudiantes en carreras y programas de pedagogía.
+
+f) En el caso de contemplar alianzas en red con otras universidades para que estudiantes del programa participen en los procesos de admisión a las carreras de pedagogía de estas instituciones, se deberá describir y comunicar el carácter y las condiciones de estas alianzas, que deberán materializarse en convenios entre las universidades participantes.
 
 g) En el caso que el Programa se realice en convenio con establecimientos educacionales, deberá:
 
@@ -212,61 +208,61 @@ iii. Establecer y describir las estrategias de trabajo entre la universidad y lo
 
 h) Opcionalmente, la universidad podrá vincularse con otras instituciones que colaboren técnicamente a la implementación del Programa. Los alcances de estos vínculos deberán consignarse claramente en la presentación del mismo.
 
-i) El Programa deberá dirigirse a estudiantes de educación media cuyo promedio de notas de los años de educación media ya cursados se encuentre en el 15% superior de su establecimiento, o a nivel nacional según corresponda. Para cada estudiante el cálculo del porcentaje superior del promedio de notas se realizará sobre la base de los promedios de notas de todos los estudiantes que estén cursando el mismo nivel en dicho año académico.
+i) El Programa deberá dirigirse a estudiantes que se encuentren cursando educación media en cualquier modalidad y que cumplan los requisitos de admisión en los términos dispuestos en la letra a) del presente artículo.
+
+j) El Programa deberá tener una duración mínima de un semestre académico.
 
 #### Artículo 18
 
-Criterios generales para el reconocimiento. Una vez que las instituciones hayan presentado su respectivo Programa, el Ministerio de Educación revisará la propuesta y evaluará si corresponde su reconocimiento, en base a los siguientes aspectos:
+Criterios generales para el reconocimiento. Una vez que las instituciones hayan presentado su respectivo Programa, el Ministerio de Educación, a través de la Subsecretaría de Educación Superior, revisará la propuesta y evaluará si corresponde su reconocimiento, en base a los siguientes aspectos:
 
 a) La potencialidad de la iniciativa para captar tempranamente estudiantes con interés y condiciones para ejercer las funciones de los profesionales de la educación en establecimientos educacionales.
 
-b) La potencialidad de la iniciativa para fortalecer la equidad en el ingreso a las carreras y programas de pedagogía.
+b) La potencialidad de la iniciativa para fortalecer la equidad en el ingreso a las carreras y programas de pedagogía. En consistencia con lo anterior, el Programa deberá tener una duración mínima de un semestre académico.
 
-c) Mecanismos de seguimiento propuestos para monitorear el rendimiento académico y retención de los estudiantes, entre otros indicadores.
+c) Mecanismos de seguimiento propuestos para monitorear el rendimiento y retención de los estudiantes que se encuentren cursando el Programa y posteriormente se matriculan en la universidad en una carrera o programa de pedagogía, entre otros indicadores.
 
-d) Mecanismos de apoyo para subsanar la brecha entre el perfil de ingreso esperado y el perfil de ingreso real de los estudiantes.
+d) La coherencia entre el perfil de ingreso de estudiantes al Programa, el perfil de egreso de éste y el perfil de ingreso a la carrera o programa de pedagogía. Asimismo, coherencia entre los objetivos del Programa, las actividades a cursar en él y el perfil de egreso de éste.
 
-e) La congruencia entre las vacantes ofertadas para esta vía de ingreso y la cantidad esperada de estudiantes que aprueben el Programa.
+e) La congruencia entre las vacantes ofertadas para esta vía de ingreso y la cantidad esperada de estudiantes que ingresan a cursar el Programa y que lo aprueban. En este sentido, se considerará congruente cuando la diferencia entre las vacantes ofertadas y la cantidad esperada de estudiantes que ingresan a cursarlo no supere el porcentaje que se indique en el formulario de presentación del Programa, dispuesto por la Subsecretaría de Educación Superior; y cuando la diferencia entre la cantidad esperada de estudiantes que ingresen y la cantidad esperada de estudiantes que lo aprueben tampoco sea superior al porcentaje que se indique en el mencionado formulario de presentación.
 
-f) En caso de presentar alianzas en red con otras universidades, se evaluará la conveniencia de estas alianzas para incorporar estudiantes del Programa en los procesos de admisión a las carreras y programas de pedagogía de dichas instituciones.
+f) En caso de presentar alianzas en red con otras universidades, se evaluará la conveniencia de estas alianzas para incorporar estudiantes del Programa en los procesos de admisión a las carreras y programas de pedagogía de dichas instituciones. En esta evaluación, se considerará especialmente el hecho que las alianzas se desarrollen con universidades que cuentan con carreras o programas de pedagogía que no son ofrecidas en la universidad donde los estudiantes cursaron el Programa.
 
 g) En caso de indicar que el Programa se vinculará con otras instituciones que colaboren técnicamente en su implementación, se evaluará la pertinencia y los alcances de su contribución.
 
 h) En caso que el Programa se realice en convenio con establecimientos educacionales, se evaluará:
 
-i) El nivel de formalización de la vinculación entre la universidad y los establecimientos educacionales.
+i) El nivel de formalización de la vinculación entre la universidad y los establecimientos educacionales. Se considerará una de las herramientas idóneas en este sentido, la suscripción de convenios.
 
 ii) La pertinencia de las estrategias de trabajo entre la universidad y los colegios durante la implementación del Programa.
 
 #### Artículo 19
 
-Procedimientos para determinar el reconocimiento. Mediante resolución de la Subsecretaría de Educación, a través de la División de Educación Superior, se podrá reconocer, solicitar modificaciones o rechazar el reconocimiento del Programa, en un plazo máximo de 30 días hábiles desde la presentación de las propuestas. En caso que se solicite modificaciones, la universidad tendrá un plazo máximo de 20 días hábiles para presentarlas, ante esto, la Subsecretaría otorgará el reconocimiento o rechazo definitivo, en un plazo máximo de 30 días hábiles de acuerdo al mérito de cada caso.
+Procedimientos para determinar el reconocimiento. Mediante resolución de la Subsecretaría de Educación Superior, en base a la evaluación efectuada por el Comité de Evaluación, se podrá reconocer, realizar observaciones o rechazar el reconocimiento del Programa, en un plazo máximo de 30 días hábiles desde la presentación de las propuestas. En caso que se realicen observaciones a la propuesta, la universidad tendrá un plazo máximo de 20 días hábiles para subsanarlas. Recibida la subsanación y revisada por la Subsecretaría de Educación Superior, o transcurrido el plazo sin que se hubieran recibido ésta, la mencionada Subsecretaría dictará la resolución de aprobación o rechazo, según corresponda, en un plazo máximo de 30 días hábiles.
 
 La evaluación de los Programas presentados por las universidades, será realizada por un Comité de Evaluación, cuya integración se establece en el artículo siguiente.
 
+Las modificaciones a los Programas que cuenten con reconocimiento deberán someterse al mismo procedimiento dispuesto en el presente artículo, siempre que consistan en lo siguiente: objetivos del Programa; perfiles de ingreso y/o egreso; duración del Programa; y, tipo de actividades del Programa y/o cantidad de horas destinadas para realizar dichas actividades. Toda otra modificación que la universidad solicite será revisada, autorizada o rechazada directamente por la Subsecretaría de Educación Superior, sin intervención del Comité.
+
 #### Artículo 20
 
-Comités de Evaluación. El Comité de Evaluación propondrá a la Subsecretaría de Educación, los Programas que deben ser reconocidos como mecanismo de acceso a las carreras y programas de pedagogía, debiendo constar en la resolución que acepte o rechace el reconocimiento, la opinión que al respecto haya dado el Comité.
+Comité de Evaluación. El Comité de Evaluación propondrá a la Subsecretaría de Educación Superior, los Programas que deben ser reconocidos o modificados como mecanismo de acceso a las carreras y programas de pedagogía, de acuerdo con lo establecido en el artículo 19, debiendo constar en la resolución que acepte, realice observaciones o rechace el reconocimiento del Programa o su modificación, la opinión que al respecto haya dado el Comité.
 
-Para el cumplimiento de sus fines, el Comité tendrá apoyo y asistencia de la División de Educación Superior, desde la convocatoria al proceso de reconocimiento de programas, hasta el seguimiento de los mismos.
+Para el cumplimiento de sus fines, el Comité tendrá apoyo y asistencia de la División de Educación Universitaria de la Subsecretaría de Educación Superior, desde la convocatoria al proceso de reconocimiento de programas, hasta el seguimiento de los mismos.
 
-Este Comité será presidido por el Subsecretario de Educación o por la persona a quien designe, e integrado además por:
+Este Comité será presidido por el/la Subsecretario/a de Educación Superior o por la persona a quien designe, quien además designará a quien haga las veces de Secretario del Comité, e integrado además por:
 
-a) El Jefe de la División de Educación Superior, quien hará las veces de Secretario de la Comisión;
+a) El Jefe de la División de Educación Universitaria de la Subsecretaría de Educación Superior;
 
-b) El Jefe de la División de Educación General;
+b) El Jefe de la División de información y Acceso de la Subsecretaría de Educación Superior;
 
-c) El Jefe de la Unidad de Currículum y Evaluación;
+c) El Jefe de la Unidad de Currículum y Evaluación de la Subsecretaría de Educación;
 
-d) El Jefe del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP);
+d) El Jefe del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP)de la Subsecretaría de Educación;
 
-e) El Coordinador del Programa de Acompañamiento y Acceso Efectivo a la educación superior (PACE);
+e) El Presidente de la Comisión Nacional de Acreditación (CNA);
 
-f) El Presidente de la Comisión Nacional de Acreditación (CNA);
-
-g) El Coordinador de Formación Inicial Docente, de la División de Educación Superior;
-
-h) Dos académicos expertos externos al Ministerio de Educación.
+f) Dos académicos expertos externos al Ministerio de Educación.
 
 En caso de ausencia o impedimento de algunos de los integrantes de dicho Comité, podrán ser representados por las personas que ellos designen.
 
@@ -274,7 +270,7 @@ Los acuerdos del Comité se adoptarán por mayoría de sus miembros. En caso de 
 
 #### Artículo 21
 
-Duración del reconocimiento. El Ministerio de Educación, otorgará por resolución fundada de la Subsecretaría de Educación, el reconocimiento hasta el vencimiento de la acreditación institucional, y podrá comenzar a implementarse, a partir del proceso de admisión del año siguiente al de su reconocimiento. Durante el año de vencimiento de la acreditación institucional de la universidad de que se trate, se deberá solicitar la renovación del reconocimiento del Programa. El reconocimiento del Programa o su renovación, quedarán siempre sujetas a evaluación anual.
+Duración del reconocimiento. El Ministerio de Educación, otorgará por resolución fundada de la Subsecretaría de Educación Superior, el reconocimiento del Programa por tres años, y podrá comenzar a implementarse a partir del proceso de admisión del año siguiente al de su reconocimiento. Durante el último año de vigencia del reconocimiento del Programa, la universidad deberá solicitar la renovación de dicho reconocimiento, en caso que corresponda.
 
 Si la universidad no obtuvo la acreditación institucional o ésta le es revocada, el reconocimiento del Programa se suspenderá automáticamente para nuevas cohortes de ingreso. Sin embargo, el Programa deberá seguir impartiéndose hasta la licenciatura de educación media de los estudiantes que lo cursan. Se procederá de igual forma, si el Programa no se implementa según los requisitos y criterios indicados en los artículos 17 y 18 del presente reglamento.
 
@@ -282,17 +278,17 @@ Asimismo, si el reconocimiento del Programa no fuere renovado, no podrá admitir
 
 #### Artículo 22
 
-Seguimiento. Las universidades que cuenten con un Programa reconocido, deberán informar a la División de Educación Superior, anualmente al 30 de abril de cada año, la nómina de estudiantes que se encuentran cursando el mismo, y la nómina de estudiantes que han ingresado a las carreras y programas de pedagogía por esta vía. Además, en los casos que corresponda, las universidades deberán informar la nómina de establecimientos educacionales donde el Programa se esté implementando, la nómina de universidades con alianza en red y las instituciones vinculadas.
+Seguimiento. Las universidades que cuenten con un Programa reconocido, deberán informar a la Subsecretaría de Educación Superior, anualmente al 30 de abril de cada año, una nómina que indique tanto a los estudiantes que se hayan matriculado en una carrera o programa de pedagogía por la vía de haber cursado un Programa, como también a los estudiantes que, habiendo cursado el referido Programa, se hayan matriculado por vía regular a una carrera o programa de pedagogía. Además, en los casos que corresponda, las universidades deberán informar la nómina de establecimientos educacionales donde el Programa se esté implementando, la nómina de universidades con alianza en red y las instituciones vinculadas.
 
-La División de Educación Superior, anualmente, solicitará a las universidades, un informe de gestión académica que incluya los resultados de la implementación del programa.
+La Subsecretaría de Educación Superior, anualmente, solicitará a las universidades, un informe de gestión académica que incluya los resultados de la implementación del Programa.
 
-La División de Educación Superior, realizará el seguimiento a la implementación de los Programas reconocidos, entregando, en caso de ser necesario, recomendaciones de mejoramiento y observaciones a las universidades, las que deberán ser subsanadas a la fecha del próximo seguimiento.
+La Subsecretaría de Educación Superior, realizará el seguimiento a la implementación de los Programas reconocidos, entregando, en caso de ser necesario, recomendaciones de mejoramiento y observaciones a las universidades, las que deberán ser subsanadas a la fecha del próximo seguimiento.
 
-El Ministerio de Educación, podrá revocar el reconocimiento otorgado si los Programas no se implementan según los requerimientos y criterios establecidos en este reglamento.
+El Ministerio de Educación, a través de la Subsecretaría de Educación Superior, podrá revocar el reconocimiento otorgado si los Programas no se implementan según los requerimientos y criterios establecidos en este reglamento o si, en dicha implementación, no se respetan las siguientes características del Programa que fueron aprobadas por el Comité: sus objetivos; sus perfiles de ingreso y/o egreso; su duración; y, tipo de actividades y/o cantidad de horas destinadas para realizar dichas actividades.
 
 #### Artículo 23
 
-Sobre el PACE. El Programa de Acompañamiento y Acceso Efectivo a la Educación Superior (PACE) podrá ser considerado como uno de aquellos a que se refiere el presente párrafo, sin someterse al procedimiento regulado en éste, cuando sus respectivos convenios cumplan con los requisitos establecidos en los artículos 10 numeral IV, 15 y 17 de este reglamento, y satisfaga los criterios generales para el reconocimiento fijados en su artículo 18, lo que será certificado por el Ministerio, mediante el acto administrativo correspondiente. Sin embargo, la universidad que esté implementando el PACE y que presente un programa de acceso incluyendo otras estrategias, para ser reconocido por el Ministerio de Educación, deberá contener mecanismos de coordinación con el PACE.
+Sobre el PACE. El Programa de Acceso a la Educación Superior PACE se entiende reconocido por el Ministerio de Educación para los efectos de lo dispuesto en el presente párrafo. Esto implica que los estudiantes que podrán ingresar a las carreras y programas de pedagogía, por esta vía, son aquellos que cursaron tercero y cuarto medio en un establecimiento educacional que participe en el Programa PACE, y que hayan egresado de cuarto año de educación media de un establecimiento que cumpla esa misma condición. Para este efecto, los respectivos convenios para la implementación del PACE, deberán incluir, en sus programaciones operativas o el instrumento que las reemplace, actividades específicas para quienes presenten interés pedagógico.
 
 ### 4. Situaciones Especiales
 
@@ -379,6 +375,20 @@ Los Programas de Acompañamiento y Acceso Efectivo a la Educación Superior (PAC
 Las universidades que al 1º de abril de 2016, fueren autónomas y deseen impartir carreras o programas de pedagogía, deberán cumplir con los requisitos señalados en el artículo 10 del presente reglamento, y tendrán un plazo de tres años, para obtener tanto la acreditación institucional como la de la carrera o programa de pedagogía, contado desde el inicio de las actividades académicas de la respectiva carrera o programa.
 
 Con todo, a dichas universidades les serán aplicables los plazos y requisitos establecidos en el artículo tercero transitorio del presente reglamento.
+
+#### Artículo octavo
+
+Se considerará vigente la Prueba de Aptitud Académica ("PAA"), la Prueba de Selección Universitaria ("PSU") o la Prueba de Transición ("PDT") para efectos del cumplimiento del requisito establecido en el numeral
+
+- **i)** de la letra
+
+- **b)** del inciso primero del artículo 27 bis de la ley Nº 20.129 y en el numeral
+
+- **i)** del inciso segundo del artículo trigésimo sexto transitorio de la ley Nº 20.903, o la norma que las modifique o reemplace.
+
+#### Artículo noveno
+
+Respecto a lo dispuesto en el artículo 13, para los estudiantes que hayan rendido las pruebas de admisión en un año anterior a 2022, el cálculo del percentil se realizará en base a los resultados obtenidos por todos los estudiantes que rindieron las pruebas obligatorias en ese mismo año. Por su parte, para los procesos de admisión y matrícula correspondientes a los años 2024 y 2025, el cálculo del percentil del promedio de puntaje de las pruebas obligatorias de acceso a la educación superior, que determinará su ubicación en los mismos, se realizará en base a los resultados obtenidos por todos los estudiantes que rindieron dichas pruebas obligatorias en diciembre del año 2021.
 
 #### Artículo segundo
 
