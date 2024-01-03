@@ -38,6 +38,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por agrupación de provincias, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región, provincia o comuna alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución. Tratándose de proyectos en que postulen familias que fueron beneficiadas anteriormente con un subsidio, y que no recibieron recursos para las labores de Fiscalización Técnica de Obras, y/o cuando se consideren viviendas en nómina de oferta, se asignarán al proyecto los recursos totales que correspondan para todas las viviendas del proyecto, de manera de permitir la fiscalización técnica de las obras del proyecto en su totalidad, a objeto de factibilizar su ejecución.
 
 4. Dispónese que, atendidas las circunstancias sanitarias que afectan al país actualmente, los antecedentes de postulación de los proyectos podrán ser presentados en formato digital, debiendo cumplir con los requisitos y plazos establecidos en el presente llamado, los que serán validados por el Serviu en la forma que se dispondrá especialmente para ello y que será informada oportunamente a través de Resolución de su Director. Con todo, para proceder a la calificación del proyecto, el Serviu podrá solicitar la entrega en un solo acto de los antecedentes físicos del proyecto, con posterioridad a la selección, y en forma previa al inicio de obras.
@@ -195,6 +197,8 @@ c. Este anticipo será caucionado a través del instrumento de garantía para la
 d. El saldo restante podrá ser girado al fabricante una vez recepcionadas en obra a conformidad del Serviu, los insumos y materiales correspondientes a las partidas industrializadas, pudiendo además devolverse las garantías señaladas.
 
 26. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
+
+> **Nota.** El numeral 1 de la Resolución 2230 Exenta, Vivienda, publicada el 03.01.2024, dispone modificar la tabla inserta en el numeral 1 de la presente norma, sin embargo, la referida tabla se reemplaza en el número 2 atendido su contenido.
 
 Anótese, publíquese y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
