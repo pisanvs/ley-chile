@@ -40,10 +40,14 @@ Dichos montos fueron calculados conforme a la resolución exenta N° 1.875 (V. y
 
 Mediante resolución del Director del Serviu respectivo, se determinarán los montos definitivos de Asistencia Técnica, cuando corresponda otorgar los incrementos que la resolución exenta N° 1.875 (V. y U.), de 2015, establece en las letras e), g), h), i), j) y k) del número 3 de su artículo 3°.
 
-3. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 1.684.081,54 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2022, para el Programa Fondo Solidario de Elección de Vivienda de las regiones de Tarapacá, Atacama y Magallanes, según el siguiente detalle:
+3. Los montos de subsidios asignados mediante la presente resolución, ascendentes a 1.744.293,54 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2022, para el Programa Fondo Solidario de Elección de Vivienda de las regiones de Tarapacá, Atacama y Magallanes, según el siguiente detalle:
+
+> **Nota.** La letras a) y b) del numeral 1° de la Resolución 2279 Exenta, Vivienda, publicada el 05.01.2024, modifican la presente norma en el sentido de reemplazar en la tabla del Resuelvo 1., las filas correspondientes a los proyectos Lomas del Bosque 1, 4 y 6, y asimismo, reemplazar en el resuelvo 3 las filas correspondientes a la Región de Magallanes y "Total" por las que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo (S).
 
 Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario de Vivienda y Urbanismo (S).
 
 .
+
+> **Nota.** NOTA 1 La letra c) del numeral 1° de la Resolución 2279 Exenta, Vivienda, publicada el 05.01.2024, modifica el cuadro inserto en el presente ANEXO las filas correspondientes a los proyectos Lomas del Bosque 1, 4 y 6, según se indica en la citada norma.
