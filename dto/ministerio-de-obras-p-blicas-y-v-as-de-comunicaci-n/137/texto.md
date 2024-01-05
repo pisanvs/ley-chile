@@ -18,7 +18,7 @@ Inditecnor 2.30-32, Pruebas de indeformabilidad de los cementos;
 
 Inditecnor 2.30-33, Determinación del peso específico de los cementos;
 
-Inditecnor 2.61-10, Grava y arena para filtros de agua potable;
+Inditecnor 2.61-10 Derogada.
 
 Inditecnor 2.68-3, Protecciones de uso personal;
 
