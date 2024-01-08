@@ -52,75 +52,135 @@ El establecimiento educacional deberá contar, como mínimo, con los elementos d
 
 Educación Parvularia
 
-1. Recursos para el aprendizaje del alumno.
+1. El establecimiento deberá contar con material didáctico fungible tales como papeles, pinturas, tizas, lanas, hilos, lápices; material reutilizable o de desecho, como envases de botellas plásticas, tubos de cartón, corchos, cajas, bidones, entre otros, considerando criterios como cantidad, variedad y seguridad, y disponerlo en contenedores para que los niños y niñas puedan utilizarlo para los procesos educativos.
 
-1.1 Biblioteca de aula.
+2. Los materiales didácticos y elementos responden a determinados aprendizajes, conocimientos, habilidades y actitudes considerando los objetivos generales de la educación parvularia establecidos en el artículo 28 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, ya sea de manera individual, grupal o colectiva, según nivel y/o cantidad de niños y niñas por grupo o curso.
 
-Los establecimientos deberán contar con una biblioteca de aula con libros en cantidad y variedad -en cuanto a títulos, tamaños y formatos- suficiente (al menos 1 por cada alumno/a) en buen estado. La colección deberá incluir libros narrativos e informativos, sólo con imágenes o con imágenes y texto, en relación a temáticas y géneros adecuados para cada nivel educativo. Ejemplo de algunos de ellos son:
+3. El material didáctico para apoyar las experiencias de aprendizaje, actividades y juegos debe contar con algunas consideraciones importantes para su utilización, exploración, manipulación, seguridad, entre otros. Estas son:
 
-Biblioteca de aula con textos de material resistente, de diversos tipos y tamaños, en cantidad suficiente (al menos 1 por niño/a y distribuidos de manera que estén siempre al alcance de ellos/as), tales como:
+3.1 Consideraciones Generales del material didáctico
 
-- Sala cuna y nivel medio menor: cuentos, poesías, retahílas y adivinanzas, leyendas tradicionales, con diferentes temáticas, en que predominen las imágenes por sobre el texto, imágenes sin estereotipos y de material adecuado para ser manipulados por lactantes (por ejemplo plástico, género, entre otros).
+El material didáctico deberá cumplir con las siguientes condiciones generales:
 
-- Nivel medio mayor y niveles de transición: cuentos, poesías, retahílas y adivinanzas, leyendas tradicionales, fábulas, teatro, referidos a distintas temáticas (autonomía, identidad, convivencia, arte, ciencias, flora y fauna, el espacio o universo, grupos humanos y formas de vida, entre otros) con imágenes sin estereotipos.
+a. Debe ser diverso permitiendo el desarrollo de juegos y experiencias. Además, debe responder a la cantidad de niños y niñas que se atienden por nivel o grupo, respetando la pertinencia cultural y territorial, la perspectiva de género e inclusión.
 
-1.2 Material didáctico para apoyar las experiencias pedagógicas
+b. Debe ubicarse de manera disponible y al alcance de todos los niños y niñas, con objeto de utilizarlo cuando lo requiera.
 
-El establecimiento deberá contar con materiales didácticos en buen estado para desarrollar todos los ámbitos de aprendizaje:
+c. Debe contribuir a la promoción de ambientes educativos libres de estereotipos y sesgos de género.
 
-Niveles: Sala Cuna - Medio Menor
+d. Debe ser multifuncional para promover diferentes aprendizajes, juegos, movimiento, curiosidad, asombro, interacción, exploración, confianza y creatividad, propiciando que niños y niñas sean protagonistas y descubran sus posibilidades, fortalezas y talentos; por tanto, un mismo recurso o material puede utilizarse para potenciar diferentes aprendizajes.
+
+e. Deben promover la participación de todos los niños y niñas favoreciendo la igualdad de acceso y oportunidades, evitando cualquier tipo de discriminación y/o exclusión.
+
+f. Debe responder al ideario del Proyecto Educativo Institucional, modalidad curricular y contexto sociocultural, respetando la pertinencia y significado de los niños, niñas y sus familias.
+
+g. Debe contar con materialidades diversas, entre las cuales considerar aquellos recursos naturales propios y auténticos del territorio y contextos de las comunidades educativas (como por ejemplo madera, metal, piedras, conchas, etc.); manufacturado; reciclable o reutilizable (sustentable) y audiovisual.
+
+h. Debe contar con material fungible, el cual debe ser repuesto en función de su uso y consumo, de acuerdo con los requerimientos del establecimiento y del proceso educativo.
+
+i. Debe ser concreto, resistente y duradero, que resguarde la seguridad de niños y niñas respondiendo a sus necesidades de desarrollo, bienestar integral (físico y psicológico) y aprendizaje, considerando las siguientes características:
+
+. Material en buen estado, con piezas completas y que aseguren su operatividad, para que promuevan juegos individuales, grupales y colectivos.
+
+. Superficies lisas, sin astillas o grietas pronunciadas.
+
+. Puntas redondeadas que eviten cortes al ser manipulados.
+
+. Piezas de materiales con tamaño mínimo superior a 3,5 cm. de diámetro; en el caso de aquellos destinados a niñas y niños menores de 3 años que cuenten con accesorios y componentes separables, deberán ser de dimensiones suficientes para que no puedan ser inhalados o tragados.
+
+. Materiales con pinturas no tóxicas.
+
+. Sellados de manera segura especialmente si el material contiene en su interior elementos sólidos o líquidos.
+
+. Materiales no inflamables.
+
+. Aquel que, bajo condiciones normales y razonablemente previstas de uso -teniendo en consideración el comportamiento habitual de los niños y niñas-, cumple los requerimientos sobre seguridad, higiene, protección de la salud y el medio ambiente.
+
+4. Recursos educativos para el aprendizaje y desarrollo integral de niñas y niños
+
+4.1 Biblioteca de aula
+
+Los establecimientos educacionales con el nivel de educación parvularia, deberán contar con una biblioteca de aula (librero o carro de arrastre) al alcance de niños y niñas en cada sala de actividades, con libros en cantidad y variedad, en cuanto a títulos, tamaños y formatos suficientes (al menos 1 por cada niña y niño) y en buen estado. La colección deberá incluir libros narrativos e informativos, con imágenes, con o sin texto, referidos a temáticas y géneros literarios adecuados para cada nivel educativo, de material resistente, de diversos tipos, tamaños y texturas. Ejemplo de algunos de ellos son:
+
+- Sala cuna: Textos tales como libro álbum, libro mudo, libros de conceptos, libros con sonido, libros con solapa, libros con textura, cuentos, poesías, retahílas y adivinanzas, leyendas tradicionales, con diferentes temáticas (con imágenes y textos sin estereotipo ni sesgos de género), en que predominen las imágenes reales, con o sin textos, y de material adecuado para ser manipulados por lactantes (por ejemplo: plástico, género, cartón; de tamaño que facilite la exploración autónoma de las niñas y niños, entre otros).
+
+- Nivel medio: Textos tales como libros de escenas, libros con pictogramas, fábulas, comics, cuentos, poesías, retahílas y adivinanzas, leyendas tradicionales, con diferentes temáticas (con imágenes y textos sin estereotipo ni sesgos de género), en que predominen las imágenes por sobre el texto, y de material adecuado para ser manipulados (por ejemplo, papel, plástico, cartón, entre otro), textos no literarios tales como: enciclopedias, revistas, recetarios, afiches, otros.
+
+- Nivel Transición: Textos literarios tales como libros gigantes para lecturas compartidas, libros con pictogramas, cuentos, poesías, retahílas y adivinanzas, leyendas tradicionales, fábulas, teatro, referidos a distintas temáticas (con imágenes y textos sin estereotipo ni sesgos de género). Textos no literarios como enciclopedias, revistas, recetarios, afiches, otros.
+
+4.2 Material didáctico para apoyar las experiencias de aprendizaje, actividades y juegos
+
+El establecimiento deberá contar con materiales didácticos en buen estado para desarrollar todos los ámbitos de aprendizaje y núcleos de aprendizaje, tomando en cuenta las consideraciones generales presentes en el 3.1 de este artículo.
+
+Tramo Curricular: Sala Cuna
+
+Ámbito: Desarrollo Personal y Social
 
 .
 
-Niveles: Medio Mayor - Segundo Nivel de Transición
+Ámbito: Comunicación Integral
 
 .
 
-Todos los materiales antes mencionados deben contar con los criterios de seguridad:
-
-El material debe ser concreto, resistente y duradero, que resguarde la seguridad de niños/as, respondiendo a sus necesidades de desarrollo y aprendizaje, a las condiciones de higiene y funcionalidad necesaria.
-
-Se debe contemplar cuando sea pertinente:
-
-. Materiales de superficies lisas, en las que se eliminen astillas o grietas pronunciadas.
-
-. Materiales con puntas redondas que eviten cortes al ser manipulados.
-
-. Materiales en los que cada pieza posea un tamaño mínimo superior a 3,5 cm de diámetro.
-
-. Materiales de telas y texturas y colores diversos.
-
-. Materiales que utilicen pinturas y lacas atóxicas.
-
-. Materiales con sellado seguro en caso de contener elementos en su interior.
-
-Los materiales anteriormente señalados deberán cumplir con las exigencias establecidas por el Ministerio de Salud.
-
-2. Recursos para el docente
-
-2.1 Apoyo para el desarrollo profesional del docente
-
-El establecimiento deberá contar con libros para los docentes y educadores sobre pedagogía y desarrollo infantil.
+Ámbito: Interacción y Comprensión del Entorno
 
 .
 
-2.2 Textos para apoyar la preparación de experiencias pedagógicas
+Tramo Curricular: Nivel Medio
 
-El establecimiento deberá contar con al menos 5 textos por nivel de transición para el apoyo del desarrollo del lenguaje verbal, la literatura infantil, el razonamiento matemático, el lenguaje artístico y el conocimiento del medio natural y social.
+.
 
-2.3 Material audiovisual
+Ámbito: Comunicación Integral
+
+.
+
+Ámbito: Interacción y Comprensión del Entorno
+
+.
+
+Tramo Curricular: Transición
+
+Ámbito: Desarrollo Personal y Social
+
+.
+
+Ámbito: Comunicación Integral
+
+.
+
+Ámbito: Interacción y Comprensión del Entorno
+
+.
+
+5. Recursos para el equipo pedagógico
+
+5.1 Apoyo para el desarrollo profesional de la o el educador/a.
+
+El establecimiento deberá contar con libros para educadores y educadoras sobre pedagogía, neurociencias, inclusión, género, desarrollo infantil, innovación educativa, entre otros (en formato físico).
+
+.
+
+5.2 Textos para apoyar la preparación de experiencias pedagógicas.
+
+El establecimiento deberá contar con al menos 5 textos (diferentes a los de la biblioteca de aula) por nivel de transición para el apoyo del ámbito de comunicación integral, el razonamiento matemático, los lenguajes artísticos y la exploración y comprensión del entorno natural, social y cultural.
+
+5.3 Material audiovisual.
 
 El establecimiento deberá contar con al menos un equipo portátil reproductor de música y un aparato operativo que permita la reproducción de material audiovisual.
 
-2.4 Material de reproducción
+5.4 Material de reproducción.
 
-El establecimiento deberá poseer un método de multicopiado que permita a los profesores reproducir material escrito, como por ejemplo: fotocopiadora, impresora, sistema externalizado de fotocopias, entre otros.
+El establecimiento deberá poseer un método de multicopiado que permita al equipo pedagógico reproducir material escrito, como: fotocopiadora, impresora, sistema externalizado de fotocopias, entre otros.
 
-2.5 Material tecnológico
+5.5 Material tecnológico.
 
-Los alumnos en el nivel de transición de Educación Parvularia deberán tener acceso a los siguientes recursos tecnológicos:
+Los niños y niñas en el nivel de transición de Educación Parvularia deberán tener acceso a los siguientes recursos tecnológicos:
 
 .
+
+6. El reglamento interno exigido en el artículo 8º del decreto supremo Nº 315, de 2010, del Ministerio de Educación, deberá contener también, a lo menos, la forma en que se procederá respecto al requerimiento de materiales, resguardando no exigir marcas específicas y que los elementos solicitados sean pertinentes a la edad de los párvulos y al proyecto educativo.
+
+Por otro lado, en las medidas orientadas a garantizar la higiene del establecimiento de educación parvularia, deberá incluir al menos, las medidas de desinfección del material didáctico de niños y niñas.
 
 Nivel Educación Básica
 
@@ -129,8 +189,6 @@ Nivel Educación Básica
 1.1 Colección básica de recursos y libros
 
 El establecimiento deberá contar con una colección de libros de consulta en buen estado, con variedad de títulos y nivel de complejidad de acuerdo a la edad de los alumnos, en el recinto destinado a la biblioteca escolar CRA, o en otro adecuado para el mantenimiento de libros y otros materiales de lectura. La cantidad de libros deberá ser acorde a la matrícula del establecimiento:
-
-.
 
 Esta colección de recursos y libros se deberá componer de:
 
@@ -149,8 +207,6 @@ La biblioteca de aula deberá contar con libros en cantidad suficiente (al menos
 1.3 Material didáctico para apoyar las clases
 
 El establecimiento deberá contar con materiales didácticos en buen estado, para lograr todos los objetivos de aprendizaje propuestos para cada asignatura:
-
-.
 
 * En establecimientos con alto porcentaje de alumnos de una determinada etnia o pueblo originario, se deberá contar con el material pertinente a la enseñanza del sector lengua indígena, semejante en lo posible a lo solicitado como material didáctico del idioma extranjero.
 
@@ -182,8 +238,6 @@ El establecimiento deberá contar con material de apoyo al docente para realizar
 
 El establecimiento deberá contar con libros para docentes sobre pedagogía y desarrollo evolutivo de los alumnos.
 
-.
-
 2.2 Textos para apoyar la preparación de clases
 
 En la biblioteca escolar CRA o en el lugar que se destine a conservar la colección básica de libros y recursos, el establecimiento deberá contar al menos con un texto de carácter avanzado por docente para cada asignatura: por ejemplo, libros especializados en Biología, en Geometría, en Historia de Chile, en Historia Universal, en Gramática y Ortografía, antologías de cuentos y poesía, y otras obras generales para la consulta de los docentes.
@@ -204,13 +258,9 @@ El establecimiento deberá poseer un método de multicopiado que permita a los p
 
 Los alumnos de nivel de Educación Básica deberán tener acceso, dentro del Centro de Recursos de Aprendizaje, a los siguientes recursos tecnológicos:
 
-.
-
 2.7 Material tecnológico: Computación
 
 Además del material tecnológico para uso dentro del CRA, el establecimiento deberá contar con equipamiento tecnológico en buen estado y con acceso a internet en el recinto, el cual podrá ser utilizado por los distintos niveles de educación que imparta el establecimiento de acuerdo a sus necesidades educativas. La cantidad de computadores deberá ser acorde a la matrícula del establecimiento:
-
-.
 
 Nivel Educación Media Científico - Humanista, Artística y Técnico Profesional (Asignaturas de la Formación General)
 
@@ -219,8 +269,6 @@ Nivel Educación Media Científico - Humanista, Artística y Técnico Profesiona
 1.1 Colección básica de recursos y libros
 
 El establecimiento deberá contar con una colección de libros en buen estado, con variedad de títulos y nivel de complejidad de acuerdo a la edad de los alumnos, en el recinto destinado a la biblioteca escolar CRA o en el lugar que se destine a conservar la colección básica de libros y recursos. La cantidad de libros deberá ser acorde a la matrícula del establecimiento:
-
-.
 
 Esta colección de recursos y libros se deberá componer de:
 
@@ -234,8 +282,6 @@ Esta colección de recursos y libros se deberá componer de:
 
 El establecimiento deberá contar con materiales didácticos para apoyar la realización de las clases como los siguientes:
 
-.
-
 * En establecimientos con alto porcentaje de alumnos de una determinada etnia o pueblo originario se deberá contar con el material pertinente a la enseñanza del sector lengua indígena, semejante en lo posible a lo solicitado como material didáctico del idioma extranjero.
 
 2. Recursos para el docente
@@ -243,8 +289,6 @@ El establecimiento deberá contar con materiales didácticos para apoyar la real
 2.1 Apoyo para el desarrollo profesional
 
 El establecimiento deberá contar con libros para docentes sobre pedagogía y desarrollo juvenil.
-
-.
 
 2.2 Textos para apoyar la preparación de clases
 
@@ -270,13 +314,11 @@ La sala de profesores deberá contar con un computador cada 6 cursos que tenga e
 
 Los alumnos de nivel de Educación Media deberán tener acceso, dentro del Centro de Recursos de Aprendizaje, a los siguientes recursos tecnológicos:
 
-.
-
 2.8 Material tecnológico: Computación
 
 Además del material tecnológico para uso dentro del CRA, el establecimiento deberá contar con equipamiento tecnológico en buen estado y con acceso a internet en el recinto, el cual podrá ser utilizado por los distintos niveles de educación que imparta el establecimiento de acuerdo a sus necesidades educativas. La cantidad de computadores deberá ser acorde a la matrícula del establecimiento:
 
-.
+> **Nota.** Las modificaciones introducidas a la presente norma por el artículo 1° del Decreto N° 124, Educación, publicado el 08.01.2024, entrará en vigencia de acuerdo a las reglas establecidas en su artículo transitorio.
 
 #### Artículo 5º
 
