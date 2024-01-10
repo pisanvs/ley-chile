@@ -76,6 +76,8 @@ El indicador de sequía IPE se analizará respecto de las precipitaciones mensua
 
 e) Las condiciones de caudales o precipitaciones que se señalan para cada zona o región, para que se verifiquen las condiciones de sequía, pueden presentarse simultánea o separadamente.
 
+f) Para determinar si una zona se encuentra bajo una condición de severa sequía, no será necesario que todas las estaciones hidrometeorológicas asociadas a ella registren los valores establecidos en las letras a, b, c y d; pues basta con que tan solo un punto de control al menos, registre las condiciones descritas, para decretar severa sequía.
+
 5. Establécese, en las cuencas en que se cuente con embalses de regulación interanual, si el volumen almacenado es inferior al 60% del promedio del mes, las situaciones que revistan el carácter de severa sequía serán calificadas como tal, cuando el indicador de sequía de los últimos 6 meses en la estación que registra caudales entrantes (ICE-6) sea igual o menor a -0.84.
 
 6. Establécese, que para el caso del estado de las aguas subterráneas, las condiciones de severa sequía se verificarán si la capacidad de extracción de la o las captaciones para abastecimiento de agua, cumple alguna de las siguientes condiciones:
