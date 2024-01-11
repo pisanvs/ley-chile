@@ -46,6 +46,12 @@ f. Convenio: Acuerdo de voluntades suscrito por el Ministerio de Desarrollo Soci
 
 g. Reglamento: Corresponde a este cuerpo normativo.
 
+h. Plataforma para la gestión social local: Sistema informático o interfaz del Registro de Información Social que pone a disposición de los organismos participantes la información necesaria para el registro y gestión de casos sociales por parte del respectivo organismo, así como para la asignación de las prestaciones sociales, cuando corresponda por la normativa vigente.
+
+i. Sistema de Información de Protección Integral: Ecosistema de datos personales e información de niños, niñas y adolescentes, integrante del Registro de Información Social, administrado por la Subsecretaría de Evaluación Social, destinado especialmente a la gestión e interoperabilidad de la información para la protección integral de derechos de los niños, niñas y adolescentes, así como el ejercicio efectivo y el goce pleno de aquellos, acorde a lo previsto en la ley Nº 21.430.
+
+Son elementos constitutivos de este Sistema, el Sistema integrado de información, seguimiento y monitoreo del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, a que alude el artículo 31 de la ley Nº 21.302, el cual se encuentra regulado en el decreto supremo Nº 5, de 2022, del Ministerio de Desarrollo Social y Familia, Subsecretaría de la Niñez, o la normativa que lo reemplace; el Registro único de medidas de protección a que refiere la letra h) del artículo 66 de la ley Nº 21.430; el instrumento de focalización a que refiere la letra c) del artículo 66 de la ley Nº 21.430, regulado en el decreto supremo Nº 8, de 2022, del Ministerio de Desarrollo Social y Familia, Subsecretaría de la Niñez, o instrumento que lo reemplace; el Sistema de Registro, Derivación y Monitoreo del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", regulado en el decreto supremo Nº 14, de 2017, del entonces Ministerio de Desarrollo Social y; la Plataforma para la gestión social local para la prevención y protección de la niñez. Mediante una resolución de la Subsecretaría de Evaluación Social y previa coordinación con la Subsecretaría de la Niñez, se regularán los aspectos técnicos y de funcionamiento del referido Sistema.
+
 ## Título II
 
 Disposiciones generales
@@ -162,7 +168,7 @@ c) Lugar y fecha.
 
 d) Firma del solicitante o acreditación de la autenticidad de su voluntad expresada por cualquier medio habilitado.
 
-La solicitud de eliminación o modificación respectiva deberá ser efectuada por el titular de los datos afectado, a la Secretaría o a la Secretaría Regional Ministerial de Planificación y Coordinación respectiva, por escrito y con los respaldos y verificaciones que sean pertinentes o señalando la fuente en que pueden ser encontrados.
+La solicitud de eliminación o modificación respectiva deberá ser efectuada por el titular de los datos afectado, a la Secretaría o a la Secretaría Regional Ministerial de Desarrollo Social y Familia respectiva, por escrito y con los respaldos y verificaciones que sean pertinentes o señalando la fuente en que pueden ser encontrados.
 
 MDS deberá corregir o eliminar los datos erróneos, inexactos, equívocos o incompletos, según corresponda, dentro de 10 días hábiles contados desde la fecha del requerimiento, de conformidad con lo dispuesto en los artículos 24 y siguientes de la ley Nº 19.880.
 
@@ -172,7 +178,7 @@ Disponibilidad e intercambio de la información
 
 #### Artículo 19º
 
-El Convenio que suscriba MDS con cada Organismo Participante especificará los datos a que dicho Organismo tendrá acceso. MDS será responsable de modelar los privilegios de acceso individualizados en el Convenio a fin de permitir el acceso remoto del Organismo Participante utilizando la red Internet. Asimismo, MDS pondrá a disposición de los Organismos Participantes la información en forma procesada.
+El Convenio que suscriba MDS con cada Organismo Participante especificará los datos a que dicho Organismo tendrá acceso. MDS será responsable de modelar los privilegios de acceso individualizados en el Convenio a fin de permitir el acceso remoto del Organismo Participante utilizando la red Internet. Asimismo, MDS pondrá a disposición de los Organismos Participantes la información en forma procesada o a través de la Plataforma para la gestión social local, a que refiere el literal h) del artículo 2º de este reglamento, dispuesta para el respectivo Organismo Participante, lo que deberá regirse por las normas de intercambio y acceso a la información a que se refiere este reglamento y en el Convenio regulado en las disposiciones del Título VII del mismo.
 
 La forma de acceder a la información, la asignación de claves de usuario, los derechos y obligaciones de los Organismos Participantes y otras disposiciones que sean pertinentes, se establecerán en el Convenio que MDS suscriba con el respectivo Organismo Participante.
 
@@ -235,6 +241,10 @@ Incumplimiento
 #### Artículo 27º
 
 En caso que un Organismo Participante incumpla las obligaciones que establezcan el Convenio o este Reglamento, o sus dependientes o funcionarios incurran en un uso irregular del Registro, MDS notificará el incumplimiento o la irregularidad al superior jerárquico del respectivo organismo para que adopte las medidas que regularicen la situación. Lo anterior sin perjuicio de la responsabilidad civil, administrativa o penal que proceda de conformidad a la ley.
+
+#### Artículo 28
+
+El tratamiento de los datos de niños, niñas y adolescentes, deberá efectuarse bajo todas las medidas técnicas, organizativas y de seguridad que garanticen su debida reserva, acorde con lo previsto en la ley Nº 19.628, en el artículo 33 de la ley Nº 21.430, artículos 32, 33 y 33 bis de la ley Nº 21.302 y demás normativa vigente que resulte aplicable.
 
 Disposiciones transitorias
 
