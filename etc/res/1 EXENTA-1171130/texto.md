@@ -32,7 +32,7 @@ Para los efectos del cálculo del AEMC, éste se efectuará de acuerdo a lo disp
 
 2. Prohíbase la inscripción de nuevos vehículos en el Registro Nacional de Servicios de Transporte de Pasajeros, en aquellos servicios de taxis colectivos urbanos que operen desde lugares ajenos a la vía pública, salvo aquellas nuevas inscripciones que procedan por la vía del reemplazo.
 
-3. Establézcase, para los servicios que se encuentran inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros en la modalidad urbana, que el plazo para el cumplimiento de la exigencia contenida en el artículo 45º del decreto supremo Nº 212, de 1992, relativa a contar con un terminal, será exigible a contar de 2 años posteriores a la publicación en el Diario Oficial de la presente resolución.
+3. Establézcase, para los servicios que se encuentran inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros en la modalidad urbana, que el plazo para el cumplimiento de la exigencia contenida en el artículo 45° del decreto supremo N° 212, de 1992, relativa a contar con un terminal, será exigible a contar de 4 años posteriores a la publicación en el Diario Oficial de la presente resolución.
 
 4. Deróganse las resoluciones exentas N°s 2.398 de 2019, 5.380 de 2018, 907 de 2018 y 851 de 2003, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso.
 
