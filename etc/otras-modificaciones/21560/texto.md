@@ -8,9 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1
 
-Agréganse en el inciso segundo del artículo 1 de la ley N° 18.216, que establece penas que indica como sustitutivas a las penas privativas o restrictivas de libertad, a continuación del punto y aparte, que ha pasado a ser punto y seguido, las siguientes oraciones: "Tampoco procederá respecto de aquellos delitos contra la vida y la integridad física de funcionarios de Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile.
-
-Asimismo, tampoco procederá respecto de los funcionarios de las Fuerzas Armadas y servicios de su dependencia, en cumplimiento del deber, exclusivamente, en el marco de funciones de resguardo del orden público, tales como las que se ejercen durante estados de excepción constitucional, en protección de la infraestructura crítica, resguardo de fronteras y funciones de policía, cuando correspondan o cuando se desempeñan en el marco de sus funciones fiscalizadoras.".
+Agréganse en el inciso segundo del artículo 1 de la ley N° 18.216, que establece penas que indica como sustitutivas a las penas privativas o restrictivas de libertad, a continuación del punto y aparte, que ha pasado a ser punto y seguido, las siguientes oraciones: "Tampoco procederá respecto de aquellos delitos contra la vida y la integridad física de funcionarios de Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile. Asimismo, tampoco procederá respecto de los funcionarios de las Fuerzas Armadas y servicios de su dependencia, en cumplimiento del deber, exclusivamente, en el marco de funciones de resguardo del orden público, tales como las que se ejercen durante estados de excepción constitucional, en protección de la infraestructura crítica, resguardo de fronteras y funciones de policía, cuando correspondan o cuando se desempeñan en el marco de sus funciones fiscalizadoras.".
 
 #### Artículo 2
 
