@@ -3118,6 +3118,14 @@ No será necesario reinscribir los derechos de aguas que estuvieren vigentes.
 
 Los solicitantes de perfeccionamiento del título de derechos de aprovechamiento de aguas que hayan presentado su requerimiento previo a la vigencia del artículo 170 bis podrán voluntariamente someterse al nuevo procedimiento dispuesto en ese artículo, y harán constar el desistimiento o renuncia en sede judicial.
 
+#### Artículo 12
+
+Aquellos titulares de derechos de aprovechamiento de aguas superficiales que, como consecuencia de los temporales acaecidos entre las regiones comprendidas entre la región del Libertador Bernardo O'Higgins hasta la región de Los Lagos, entre los meses de junio y octubre del año 2023, se han encontrado imposibilitados de ejercer sus derechos debido a daños sufridos en las obras o al cambio de trazado de los cauces, su forma o dimensiones, podrán extraer agua en un punto alternativo.
+
+Para efectos de lo dispuesto en el inciso anterior, los titulares, dentro de un plazo de treinta días contado desde la fecha de publicación de esta ley, deberán comunicar a la Dirección General de Aguas el punto alternativo de extracción, señalando las coordenadas UTM con indicación de Huso y Datum y las características principales de las obras. El punto alternativo de extracción deberá ser colindante al cauce y no afectar derechos de terceros.
+
+El titular, dentro del plazo de un año contado desde la comunicación del inciso precedente, deberá solicitar y obtener la aprobación del ajuste o traslado del ejercicio del derecho conforme a los artículos 156, inciso tercero, y 163 del Código de Aguas, o bien, acreditar que ha vuelto a utilizar el punto original autorizado para el ejercicio del derecho. Vencido dicho plazo, el titular no podrá seguir ejerciendo su derecho en el punto alternativo de extracción, quedando sujeto a las sanciones establecidas en los artículos 173 y siguientes del Código de Aguas.
+
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Mónica Madariaga Gutiérrez, Ministro de Justicia.- Rolando Ramos Muñoz, Brigadier General, Ministro de Economía, Fomento y Reconstrucción.- Patricio Torres Rojas, Brigadier General, Ministro de Obras Públicas.- Luis Simón Figueroa del Río, Ministro de Agricultura subrogante.
 
 Lo que transcribo para su conocimiento.- Le saluda atentamente.- Francisco José Folch Verdugo, Subsecretario de Justicia.
