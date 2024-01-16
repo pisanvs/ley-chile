@@ -48,29 +48,29 @@ Decreto:
 
 .
 
-2° La concesión de explotación de energía geotérmica que por este acto se otorga, tiene por objeto la explotación del recurso geotérmico denominado "Peumayén", cuyo potencial más probable, de acuerdo a estimaciones realizadas por la empresa solicitante, se estima en al menos 50 MW.
+2º El área de la concesión de explotación de energía geotérmica que por este acto se otorga, tiene por objeto la explotación de dos recursos geotérmicos distintos, denominados "proyecto geotérmico Tolhuaca", con una potencia instalada estimada de 50 MW, y "proyecto geotérmico Adobera", con una potencia instalada estimada de 18 MW, sumando ambos proyectos un total de 68 MW estimados.
 
-3° La inversión proyectada para la concesión de explotación geotérmica "Peumayén", asciende a la suma de US$ 169.600.000 (ciento sesenta y nueve millones seiscientos mil dólares de los Estados Unidos de Norteamérica). Lo anterior, de acuerdo al Cronograma Estimado de Inversión y Carta Gantt acompañados en la solicitud de concesión, que se transcriben a continuación:
+3º Que, el proyecto geotérmico Tolhuaca tiene una superficie total de 899 hectáreas de extensión, cuyas coordenadas UTM de los vértices limítrofes en metros referidas al Sistema de Referencia Geocéntrico para las Américas ("Sirgas"), Huso 19 Sur, respectivamente, son las siguientes:
 
-Carta Gantt:
+4º Los antecedentes técnicos del proyecto geotérmico Tolhuaca, presentado por la empresa Transmark Chile SpA están contenidos en la misma solicitud, mediante presentación de fecha 30 de diciembre de 2022, los cuales incluyen la identificación del solicitante, la identificación del proyecto y el terreno solicitado, los antecedentes técnicos y económicos del proyecto y el detalle de las actividades de explotación geotérmica, todos los cuales quedan archivados en el Ministerio de Energía. La carta Gantt del proyecto de explotación se indica a continuación:
 
-.
+5º Los antecedentes económicos del proyecto geotérmico Tolhuaca, presentado por la empresa Transmark Chile SpA, se encuentran explicitados en el cronograma de inversiones proyectadas para el mismo proyecto, el cual da cuenta de una inversión total que asciende a USD$ 169.600.000 (ciento sesenta y nueve millones seiscientos mil dólares de los Estados Unidos de Norteamérica), considerando el desglose que se presenta a continuación:
 
-Cronograma estimado de inversión:
+6º Que, por su parte, el proyecto geotérmico Adobera tiene una superficie total de 280 hectáreas de extensión, cuyas coordenadas UTM de los vértices limítrofes en metros referidas al Sistema de Referencia Geocéntrico para las Américas ("Sirgas"), Huso 19 Sur, respectivamente, son las siguientes:
 
-.
+7º Los antecedentes técnicos del proyecto geotérmico Adobera, presentado por la empresa Transmark Chile SpA, están contenidos en la presentación realizada con fecha 30 de diciembre de 2022, complementada mediante correo electrónico de fecha 18 de enero de 2023, los cuales incluyen la identificación del solicitante, la identificación del proyecto y el terreno solicitado, los antecedentes técnicos y económicos del proyecto y el detalle de las actividades de explotación geotérmica, quedan archivados en el Ministerio de Energía. La carta Gantt del proyecto de explotación se indica a continuación:
 
-4° De acuerdo a lo establecido en el artículo 21 de la ley N° 19.657, la concesión de energía geotérmica que se otorga en este acto, entrará en vigencia en la fecha de la publicación del presente decreto en el Diario Oficial.
+8º Los antecedentes económicos del proyecto geotérmico Adobera, presentado por la empresa Transmark Chile SpA, se encuentran explicitados en el cronograma de inversiones proyectadas para el mismo proyecto, el cual da cuenta de una inversión total que asciende a US$ 73.000.000 (setenta y tres millones de dólares de los Estados Unidos de Norteamérica), considerando el desglose que se presenta a continuación:
 
-5° De acuerdo a lo establecido en el artículo 37 de la ley N° 19.657, la concesionaria de explotación deberá informar al Ministerio de Energía, en el curso del mes de marzo de cada año, sobre las labores de explotación comercial o industrial efectuadas durante el año calendario precedente.
+9º De acuerdo a lo establecido en el artículo 37 de la ley Nº 19.657, la concesionaria de explotación deberá informar al Ministerio de Energía, en el curso del mes de marzo de cada año, sobre las labores de explotación comercial o industrial efectuadas durante el año calendario precedente.
 
-6° De acuerdo a lo establecido en los artículos 32 de la ley N° 19.657 y 37 del decreto N° 114, de 2012, que aprueba su Reglamento, la concesionaria de explotación deberá realizar el pago de una patente anual, a beneficio fiscal por un monto equivalente a un décimo de Unidad Tributaria Mensual por cada hectárea completa de extensión territorial comprendida por la concesión. Dicho pago será anticipado y se efectuará en el mes de marzo de cada año. Asimismo, el pago de la primera patente, cuyo monto será proporcional al tiempo que medie entre la fecha de otorgamiento de la concesión de explotación y el último día del mes de febrero siguiente, deberá efectuarse durante el mes de marzo siguiente a la fecha de otorgamiento de la concesión respectiva.
+10º De acuerdo a lo establecido en los artículos 32 de la ley Nº 19.657 y 37 del Reglamento de Concesiones de Energía Geotérmica, la concesionaria de explotación deberá realizar el pago de una patente anual, a beneficio fiscal por un monto equivalente a un décimo de Unidad Tributaria Mensual por cada hectárea completa de extensión territorial comprendida por la concesión. Dicho pago será anticipado y se efectuará en el mes de marzo de cada año. Asimismo, el pago de la primera patente, cuyo monto será proporcional al tiempo que medie entre la fecha de otorgamiento de la concesión de explotación y el último día del mes de febrero siguiente, deberá efectuarse durante el mes de marzo siguiente a la fecha de otorgamiento de la concesión respectiva.
 
-7° La concesión geotérmica de explotación, caducará irrevocablemente, y por el solo ministerio de la ley, si el concesionario dejare de pagar dos patentes consecutivas. Esta caducidad se producirá a las doce de la noche del 31 de marzo del año en que se incurra en la mora del segundo pago.
+11º La concesión geotérmica de explotación, caducará irrevocablemente, y por el solo ministerio de la ley, si el concesionario dejare de pagar dos patentes consecutivas. Esta caducidad se producirá a las doce de la noche del 31 de marzo del año en que se incurra en la mora del segundo pago.
 
-8° En virtud de lo dispuesto en el artículo 41 del DS 114 de 2012, el concesionario deberá informar al Ministerio cada vez que dé inicio y término a faenas de perforación, indicando la denominación del pozo y su ubicación georreferenciada.
+12º En virtud de lo dispuesto en el artículo 41 del Reglamento de Concesiones de Energía Geotérmica, el concesionario deberá informar al Ministerio cada vez que dé inicio y término a faenas de perforación, indicando la denominación del pozo y su ubicación georreferenciada.
 
-9° Lo establecido en el presente acto administrativo es sin perjuicio de las autorizaciones medioambientales que debe obtener la concesionaria en virtud de la legislación vigente.
+13º Lo establecido en el presente acto administrativo es sin perjuicio de las autorizaciones medioambientales que debe obtener la concesionaria en virtud de la legislación vigente.
 
 Anótese, tómese razón, notifíquese y publíquese.- Por orden del Presidente de la República, Ricardo Irarrázabal Sánchez, Ministro de Energía (S).
 
