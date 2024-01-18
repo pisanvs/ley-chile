@@ -4,7 +4,19 @@ Núm. 44 exenta.- Talca, 10 de Agosto de 1994.- Visto: Lo dispuesto en el artíc
 
 Resuelvo:
 
-1°.- Establécese la obligatoriedad de portar en los vehículos de locomoción colectiva urbana de la VII Región, el documento señalado en el artículo 49° bis del Decreto indicado en Visto. 2°.- Dicho documento deberá tener las siguientes características: - Su dimensión será de 22 cm. de alto y 12 cm. de ancho, de color blanco - En el anverso, deberá ir indicado el nombre del Responsable del Servicio inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros, Línea que lo identifica, nombre del Representante Legal del Servicio, Nombre y Cédula de Identidad del o los Conductores, Dirección de los Terminales y/o Paraderos de Origen y Destino, Servicio Troncal o Variante que atiende, Duración del circuito en minutos, Placa Patente del Vehículo, Fecha, Nombre y Cédula de Identidad de los Controles, Timbre Línea - En el reverso, deberá ir indicado los horarios de salida y llegada con la firma del control respectivo desde cada uno de los terminales y/o paraderos, un espacio para observaciones, donde se deberá consignar el horario, fecha y motivo por el cual el vehículo se encuentra fuera de servicio, autorizado por el Representante Legal. 3°.- El formato del documento será el que se indica en anexo adjunto. 4°.- La presente resolución entrará en vigencia 30 (treinta) días después de su publicación en el Diario Oficial.
+1°.- Establécese la obligatoriedad de portar en los vehículos de locomoción colectiva urbana de la VII Región, el documento señalado en el artículo 49° bis del Decreto indicado en Visto.
+
+2° Dicho documento deberá tener las siguientes características:
+
+- Su dimensión será de 22 cm de alto y 12 cm de ancho, de color blanco y timbrado por el responsable del servicio inscrito en el Registro Nacional de Transporte de Pasajeros.
+
+- En el anverso deberá ir indicado el nombre del responsable del servicio inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros, línea que lo identifica, nombre del representante legal del servicio, nombre y cédula de identidad del o los conductores, dirección de los terminales y/o paraderos de origen y destino, servicio troncal o variante que atiende, duración del circuito en minutos, placa patente única del vehículo, fecha, nombre y cédula de identidad de los controles, comuna de origen y comuna de destino del recorrido. Timbre de la Línea.
+
+- En el reverso, deberá ir indicado horario de salida y llegada con la firma del control respectivo desde cada uno de los terminales y/o paraderos, consignar el horario, fecha y motivo por el cual el vehículo se encuentra fuera de servicio, autorizado por el representante legal.
+
+3° El formato del documento será el que se indica en anexo adjunto.
+
+4°.- La presente resolución entrará en vigencia 30 (treinta) días después de su publicación en el Diario Oficial.
 
 Anótese y publíquese.- Rafael Mejías Parada, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región del Maule.
 
