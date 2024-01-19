@@ -448,6 +448,22 @@ En caso que el cargo de Director Ejecutivo quede vacante, podrá ser provisto de
 
 Un reglamento del Ministerio de Educación, que será firmado, además, por el Ministro de Hacienda, regulará las materias previstas en el presente artículo, especialmente el procedimiento de remoción, de conformidad a las normas del Título V del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y, en lo que corresponda, las de la ley N° 19.880.
 
+#### Artículo 24 bis
+
+En el caso de que el cargo de Director Ejecutivo se encuentre vacante o que, por cualquier circunstancia, no esté siendo ejercido por su titular por al menos veinte días corridos, el Director de Educación Pública, excepcionalmente, podrá solicitar al Presidente de la República que nombre a un Director Ejecutivo suplente, sin sujeción a las normas del Sistema de Alta Dirección Pública.
+
+Este nombramiento procederá cuando se verifique alguna de las siguientes causales:
+
+a) Que exista riesgo de afectar gravemente la continuidad del servicio educativo. Lo anterior deberá ser calificado, mediante informe previo, por la Superintendencia de Educación, que deberá ponderar elementos tales como número de establecimientos educacionales, matrícula, continuidad en la prestación del servicio, entre otros.
+
+b) Que se hayan emitido por la Contraloría General de la República uno o más informes de auditoría respecto del Servicio Local de Educación, en los tres años previos a la solicitud de designación de un suplente en el cargo, que contengan observaciones que requieran ser subsanadas en breve plazo. Asimismo, concurrirá esta causal cuando existan informes emitidos por la Dirección de Educación Pública o por el Ministerio de Educación que impliquen la remisión de los antecedentes al Ministerio Público, al Consejo de Defensa del Estado o a la Contraloría General de la República.
+
+c) Que menos de la mitad de los cargos afectos al Sistema de Alta Dirección Pública del Servicio Local estén ejercidos por sus titulares.
+
+La persona que ejerza la suplencia deberá cumplir con los requisitos legales y el perfil para el ejercicio del cargo según el informe de la Dirección Nacional del Servicio Civil.
+
+El Director Ejecutivo suplente durará, como máximo, un año en el cargo. Su permanencia podrá extenderse por más tiempo sólo en el caso que exista un proceso de remoción en curso o se encuentre en trámite el proceso de selección regular. En estas circunstancias, su período se extenderá hasta que reasuma sus funciones el Director titular o asuma un nuevo Director Ejecutivo, según corresponda.
+
 #### Artículo 25
 
 Organización interna del Servicio Local. El Director Ejecutivo, con sujeción a la planta de personal y la dotación máxima de éste, de conformidad a lo dispuesto en el artículo 31 del decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, que Fija texto refundido, coordinado y sistematizado de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, determinará las denominaciones y funciones específicas que correspondan a los niveles y unidades que se establezcan en la organización interna del servicio para el cumplimiento de sus fines, como asimismo el personal adscrito a tales niveles y unidades.
