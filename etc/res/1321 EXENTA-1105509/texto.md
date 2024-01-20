@@ -1,4 +1,4 @@
-FIJA NORMA TÉCNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 380 - 395 MHz y 2.300 - 2.325 MHz POR SERVICIOS LIMITADOS DE TELECOMUNICACIONES
+FIJA NORMA TÉCNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 380 - 395 MHz y 2.300 - 2.340 MHz POR SERVICIOS LIMITADOS DE TELECOMUNICACIONES
 
 Santiago, 10 de julio de 2017.- Con esta fecha se ha resuelto lo que sigue:
 
@@ -43,6 +43,8 @@ La canalización a emplear en la banda 2.300 - 2.325 MHz será la siguiente:
 .
 
 El modo de operación será dúplex por división del tiempo (TDD).
+
+Se asignarán hasta dos canales en la banda 380 - 395 MHz y cuatro canales en la banda 2.300 - 2.340 MHz, es decir 10 MHz y 20 MHz, respectivamente, en la primera solicitud de servicio limitado. No obstante, ante cualquier modificación del permiso, en el sentido de una ampliación posterior de canales, el permisionario deberá demostrar la necesidad de aumento de espectro con datos de tráfico y/o proyecciones. Dichos datos y/o proyecciones podrán ser fiscalizados en base a comparaciones con datos de tráfico y sometida la asignación correspondiente a ajustes posteriores, mediante una resolución fundada que así lo determine, con el fin de dar un uso efectivo y eficiente al espectro radioeléctrico.
 
 #### Artículo 4°
 
