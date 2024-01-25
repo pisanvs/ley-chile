@@ -64,29 +64,41 @@ Los principios que deben guiar la planificación, diseño, implementación y man
 
 El diseño y las características técnicas de las ciclovías deberán cumplir con los siguientes requisitos:
 
-1. Emplazamiento: Localizarse en la calzada de una vía. Excepcionalmente, por razones de seguridad y/o continuidad, podrán ubicarse en la mediana, en un bandejón, o en la parte no pavimentada de la acera.
+1. Emplazamiento: Localizarse en la calzada de una vía. Excepcionalmente, si por razones de seguridad y/o continuidad, derivadas de situaciones tales como el angostamiento del perfil vial, presencia de paraderos de transporte público, presencia de canales, puentes, o infraestructura energética o sanitaria que afecte a la calzada, entre otras, esto no fuere posible, podrán ubicarse fuera de la misma, en aquellos tramos en los que se identifiquen dichas razones de seguridad y/o continuidad, debidamente justificadas.
+
+Sin perjuicio de lo anterior, las ciclovías no podrán formar parte de la vereda ni afectar la ruta accesible a que se refiere el artículo 2.2.8. del artículo primero del decreto supremo Nº 47, de 1992, del Ministerio de Vivienda y Urbanismo, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, en adelante "Ordenanza General de Urbanismo y Construcciones.
 
 2. Espacio de desplazamiento: Considerar dimensiones que permitan generar un espacio de circulación segura para el usuario del ciclo, tanto vertical como horizontalmente, considerando el tipo de ciclovía de acuerdo al siguiente cuadro:
 
-(*) Singularidades: Son aquellas situaciones de excepción en las que no existe otra alternativa que reducir eventualmente el ancho de la ciclovía para salvar una situación existente, tales como: paraderos de transporte público, estacionamientos vehiculares, variaciones en la faja disponible, elementos edificados, elementos patrimoniales, arborización, entre otros. En ningún caso el ancho podrá ser inferior a 1.2 metros en caso de ciclovías unidireccionales y 2.0 metros en caso de ciclovías bidireccionales.
+(*) Singularidades: Son aquellas situaciones de excepción en las que no existe otra alternativa que reducir eventualmente el ancho de la ciclovía para salvar una situación existente, tales como: paraderos de transporte público, estacionamientos vehiculares, variaciones en la faja disponible, elementos edificados, elementos patrimoniales, arborización, entre otros. Sólo se podrá reducir el ancho cuando las pistas vehiculares hayan sido disminuidas, al menos, al ancho mínimo recomendado, según se establece en el Manual denominado "Recomendaciones para el diseño de elementos de infraestructura vial urbana", aprobado por el decreto exento Nº 827, de 2008, del Ministerio de Vivienda y Urbanismo, o el que en el futuro lo reemplace, o de acuerdo a lo dispuesto en el Manual de Carreteras de la Dirección de Vialidad del Ministerio de Obras Públicas, según corresponda. Tratándose de ciclovías bidireccionales el ancho no podrá ser inferior a 2.0 metros, mientras que en ciclovías unidireccionales, el ancho no podrá ser inferior a 1.0 metro, con excepción de aquellas que incorporen segregación física, en que el ancho no podrá ser inferior a 1.2 metros. Cada singularidad deberá ser debidamente justificada, verificándose que no sea posible emplazar la ciclovía sin reducir el ancho cuando una o más de ellas se presenten.
 
-3. Superficie de desplazamiento: Utilizar carpetas de rodado que ofrezcan comodidad, adherencia, durabilidad y regularidad superficial, entre otras características, tales como el asfalto o el hormigón. Respecto de los sistemas de evacuación de aguas lluvia, las rejillas de sumideros y sistema de canalización deben considerar aberturas perpendiculares o diagonales al sentido de la rueda. En cualquier caso, se debe tener en consideración que el uso de estos dispositivos no debe afectar ni obstaculizar el desplazamiento de personas con discapacidad.
+3. Superficie de desplazamiento: Utilizar carpetas de rodado que ofrezcan comodidad, adherencia, durabilidad y regularidad superficial, entre otras características, tales como el asfalto o el hormigón. Respecto de los sistemas de evacuación de aguas lluvia, las rejillas de sumideros y sistema de canalización deben considerar aberturas perpendiculares o diagonales al sentido de la rueda. En cualquier caso, se debe tener en consideración que el uso de estos dispositivos no debe afectar ni obstaculizar el desplazamiento de personas con discapacidad. Asimismo, cuando la calzada considere dispositivos o elementos reductores de velocidad, distintos a aceras continuas o plataformas, según se define en el decreto supremo Nº 200, de 2011, del Ministerio de Transportes y Telecomunicaciones, o el que en el futuro lo reemplace, se deberá resguardar que éstos no afecten aquella parte de la calzada correspondiente a la ciclovía, cuando ello sea posible.
+
+Las ciclovías que se emplacen al interior de parques, plazas o áreas verdes públicas o privadas de uso público, riberas de ríos, de lagos o en platabandas de bordes costeros, deberán considerar una pendiente transversal mínima de un 2% para asegurar el escurrimiento de las aguas lluvias.
 
 4. Segregación: Incorporar segregación respecto al tráfico motorizado por medio de elementos físicos o visuales, cuyas características dependerán de la velocidad de operación de la vía en la cual se emplaza. En relación a dicha velocidad las características de la segregación deberán ser las siguientes:
 
+.
+
 Los segregadores visuales son básicamente demarcaciones de líneas longitudinales continuas que delimitan la zona de la calzada cuyo uso está destinado sólo a ciclos.
 
-Para las velocidades indicadas en el rango 30≤ V ≤ 40 km/h, la segregación podrá ser una combinación de demarcación longitudinal de 2 líneas paralelas de 0.10 metros, guardando entre sí una separación de 0.15 metros, complementada con tachas retrorreflectantes, las que deberán cumplir con las especificaciones establecidas en el Capítulo 3 del Apéndice del Manual de Señalización de Tránsito, contenido en el decreto supremo Nº 78, de 2012, del Ministerio de Transportes y Telecomunicaciones, en adelante "el Manual".
+Para velocidades en el rango 30≤ V ≤ 40 km/h, la segregación podrá ser una combinación de demarcación longitudinal de 2 líneas paralelas de 0.10 metros, guardando entre sí una separación complementada con tachas retrorreflectantes, las que deberán cumplir con las especificaciones establecidas en el Capítulo 3 del Apéndice del Manual de Señalización de Tránsito, del Ministerio de Transportes y Telecomunicaciones, en adelante "el Manual".
 
-Para las velocidades indicadas en el rango 40≤ V ≤ 50 km/h, la segregación visual podrá ser complementada con tachas retrorreflectantes; o bien, pueden ser 2 líneas paralelas de 0.15 metros de ancho, guardando entre sí una separación de 0.20 metros, en la que debe instalarse alguno de los elementos segregadores físicos establecidos en el Capítulo Nº 7 del Manual.
+Para velocidades en el rango 40≤ V ≤ 50 km/h, la segregación visual podrá ser complementada con tachas retrorreflectantes; o bien, pueden ser 2 líneas paralelas, guardando entre sí una separación tal que permita instalar alguno de los elementos segregadores físicos establecidos en el Capítulo Nº 7 del Manual. En el caso de ubicarse la ciclovía en vías en las que exista circulación de buses o camiones en tránsito hacia terminales o depósitos de buses, zonas portuarias o industriales, bodegas, terminales agropecuarios, u otros recintos generadores o receptores de carga, se deberá implementar una segregación física, con el fin de proteger a los ciclistas de la circulación de vehículos pesados.
 
-Para las velocidades sobre 50 km/h, los elementos de segregación física deberán ser algunos de los establecidos en el referido Capítulo Nº 7 del Manual.
+Para velocidades sobre 50 km/h, los elementos de segregación física deberán ser algunos de los establecidos en el referido Capítulo Nº 7 del Manual.
 
-Para las velocidades que superen los 70 km/h, la segregación podrá corresponder a una barrera de contención o bien alejar la ciclovía del espacio de circulación de los vehículos motorizados de acuerdo a los Tópicos 6.605.3 y 6.605.4 del Manual de Carreteras de la Dirección de Vialidad del Ministerio de Obras Públicas.
+Para velocidades que superen los 70 km/h, la segregación consistirá en alejar la ciclovía del espacio de circulación de los vehículos motorizados, de acuerdo a la Sección 6.605 del Manual de Carreteras de la Dirección de Vialidad del Ministerio de Obras Públicas, debiendo aplicarse lo dispuesto en los Tópicos 6.605.3 y 6.605.4.
+
+En el caso que la ciclovía se encuentre separada del tráfico motorizado por estacionamientos, no se exigirá segregación. Sin perjuicio de lo anterior, si los estacionamientos de vehículos se encuentran ubicados en el mismo sentido de tránsito de la ciclovía, se deberá cumplir con una separación mínima de 0,7 metros.
+
+En el caso que la ciclovía se encuentre separada del tráfico motorizado mediante la elevación de ésta, con una distancia vertical mínima de 5 centímetros, no se exigirá segregación adicional a la solera.
+
+En las ciclovías que se emplacen al interior de parques, plazas o áreas verdes públicas o privadas de uso público, riberas de ríos, de lagos o en platabandas de bordes costeros, deberá existir una segregación respecto a cualquier circulación peatonal, de una distancia mínima de 0.4 metros y/o una diferencia en altura de al menos 5 centímetros. Dicho espacio estará conformado por vegetación u otros elementos de carácter paisajístico que contribuyan a resguardar la seguridad y el distanciamiento entre peatones y ciclistas.
 
 5. Señalización y demarcación: Utilizar las demarcaciones y señalizaciones según lo dispuesto en el Manual de Señalización de Tránsito.
 
-6. Seguridad de tránsito: Evitar o minimizar los conflictos de tránsito, para lo cual deberán incorporarse medidas que prevengan la ocurrencia de accidentes, tales como: fases diferenciadas en semáforos, líneas de detención adelantadas, elementos de canalización, separación de movimientos, reasignaciones de flujos, medidas reductoras de velocidad, entre otros. Especial atención se requiere a la forma en que se resuelven los movimientos en las intersecciones, y en aquellas vías en que se observen velocidades operacionales elevadas o una alta proporción de vehículos pesados, se debe crear una separación física entre éstos y los ciclos.
+6. Seguridad de tránsito: Evitar o minimizar los conflictos de tránsito, para lo cual deberán incorporarse medidas que prevengan la ocurrencia de siniestros de tránsito, tales como: fases diferenciadas en semáforos, líneas de detención adelantadas, elementos de canalización, separación de movimientos, reasignaciones de flujos, medidas reductoras de velocidad, entre otros. Especial atención se requiere a la forma en que se resuelven los movimientos en las intersecciones, y en aquellas vías en que se observen velocidades operacionales elevadas o una alta proporción de vehículos pesados, se debe crear una separación física entre éstos y los ciclos.
 
 ## Título III
 
@@ -98,25 +110,35 @@ La Secretaría Regional Ministerial de Transportes y Telecomunicaciones, en adel
 
 #### Artículo 5º
 
-En el procedimiento se distinguirán dos fases de pronunciamiento por parte de la Secretaría Regional: en la etapa de anteproyecto y en la etapa de proyecto.
+En el procedimiento se distinguirán dos etapas, cada una de las cuales terminará con un pronunciamiento por parte de la Secretaría Regional:
 
-Se entenderá la etapa de anteproyecto como aquella en la que se adoptan las decisiones vinculadas con el perfil de la ciclovía, su emplazamiento en la faja vial y la identificación de potenciales conflictos.
+a) Etapa de anteproyecto: Se entenderá por etapa de anteproyecto aquella en la que se adoptan las decisiones vinculadas con el trazado y el perfil de la ciclovía, su emplazamiento en la faja vial y la identificación y análisis de potenciales conflictos.
 
-Se entenderá la etapa de proyecto, como aquella donde se desarrolla el diseño definitivo de la ciclovía, otorgando solución a los conflictos identificados en la etapa de anteproyecto.
+b) Etapa de proyecto: Se entenderá la etapa de proyecto, como aquella en la que se desarrolla el diseño definitivo de la ciclovía, otorgando solución a los conflictos identificados en la etapa de anteproyecto.
 
 #### Artículo 6º
 
-Para efectos del presente reglamento se entenderá por interesado a la persona natural o jurídica que presente en la Secretaría Regional Ministerial correspondiente la solicitud de autorización para la operación de un proyecto de ciclovía, junto con los antecedentes requeridos para cada una de las etapas señaladas en el artículo anterior.
+Para efectos del presente reglamento se entenderá por interesado a la persona natural o jurídica que presente en la Secretaría Regional Ministerial correspondiente la solicitud de autorización para la operación de una ciclovía, junto con los antecedentes requeridos.
 
 #### Artículo 7º
 
 En la etapa de anteproyecto, el interesado deberá presentar en la Secretaría Regional correspondiente lo siguiente:
 
-1. Ficha de presentación que contenga los siguientes datos generales: nombre del anteproyecto, nombre de la(s) vía(s) en que se ubicará, los tramos que ocupará y el emplazamiento con sus accesos y sentido del tránsito que tendrá la ciclovía. Además, debe presentar un oficio de conformidad con la iniciativa, de parte del o los municipios donde se localizará la ciclovía. Lo anterior no será necesario en el caso de que la ciclovía se encuentre emplazada en una sola comuna y su interesado sea el mismo municipio.
+1. Ficha de presentación que contenga los siguientes datos generales: nombre del proyecto, nombre de la(s) vía(s) en que se ubicará, los tramos que ocupará y el emplazamiento con sus accesos y sentido del tránsito que tendrá la ciclovía. Además, debe presentar un oficio de conformidad con la iniciativa, de parte del o los municipios donde se localizará la ciclovía. Lo anterior no será necesario en el caso de que la ciclovía se encuentre emplazada en una sola comuna y el interesado sea el mismo municipio.
 
-2. Memoria explicativa que contenga al menos: la relación del proyecto con algún plan estratégico de la(s) comuna(s) en que se emplazará la ciclovía, como por ejemplo con el Plan de desarrollo comunal, Plan regulador, Plan de ciclorutas, entre otros; la caracterización de los tramos que lo componen; el número de singularidades que presenta, la superficie de desplazamiento y la segregación de la misma, la identificación de potenciales conflictos y un análisis de alternativas de emplazamiento que permita justificar la decisión finalmente adoptada.
+2. Memoria explicativa que contenga, al menos:
 
-3. Esquema de emplazamiento que indique, al menos: su inserción en la red vial, su conexión con otras ciclovías de la red y el contexto urbano en el que se inserta, considerando el equipamiento de escala local, comunal y/o metropolitana que se considere más relevante, como, por ejemplo, centros educacionales, lugares de culto o centros deportivos.
+a) La definición del trazado y la caracterización de los tramos que lo componen, resaltando los beneficios del emplazamiento adoptado.
+
+b) Perfiles transversales entre líneas oficiales de cada uno de los tramos que constituyen el trazado de la ciclovía, de la situación actual y con proyecto, indicando el tipo de segregación de la ciclovía.
+
+c) Un catastro de las singularidades presentes en el proyecto, que contenga, al menos, el tipo de singularidad, la ubicación, la longitud, el perfil asociado y el ancho de la ciclovía.
+
+d) Un análisis de las intersecciones de inicio y fin de la ciclovía y, además, todas aquellas que se consideren complejas, atendiendo para su determinación criterios como el tipo de intersección, la tasa de siniestralidad y los movimientos conflictivos.
+
+e) Un análisis de interacciones complejas entre ciclistas y el entorno del trazado de la ciclovía, considerando para su determinación, entre otros, la existencia de infraestructura destinada al transporte público en el trazado, otras ciclovías, estaciones de transporte masivo, hitos urbanos relevantes, estacionamientos, presencia de establecimientos de salud o educacionales, ferias libres y angostamientos de pista; indicando cómo estas interacciones son resueltas por el proyecto.
+
+3. Esquema del trazado de la ciclovía en formato kmz que indique, al menos: Su inserción en la red vial, su conexión con otras ciclovías de la red y el contexto urbano en el que se inserta, considerando el equipamiento de escala local, comunal y/o metropolitana tales como centros educacionales, centros comerciales, lugares de culto, centros deportivos u otros.
 
 4. En caso de que la ciclovía requiera utilizar faja vial que actualmente esté destinada a otros usos (por ejemplo estacionamientos), el anteproyecto debe incluir la aprobación del o los Departamentos Municipales y/o de la Dirección de Vialidad, que corresponda.
 
@@ -124,75 +146,65 @@ En la etapa de anteproyecto, el interesado deberá presentar en la Secretaría R
 
 Los plazos para la etapa del anteproyecto son los siguientes:
 
-1. La Secretaría Regional verificará la completitud de los antecedentes señalados en los numerales 1., 2., 3., y del numeral 4. cuando corresponda, del artículo anterior, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado a través de oficio para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tenerlo por desistido de su solicitud.
+1. La Secretaría Regional verificará la completitud de los antecedentes señalados en el artículo anterior, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado a través de oficio para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tenerlo por desistido de su solicitud.
 
-2. Las presentaciones que contengan toda la información y antecedentes a que se refiere el artículo precedente deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de quince (15) días hábiles contados desde la recepción conforme de los antecedentes. La Secretaría Regional, como consecuencia de la revisión del anteproyecto, podrá aprobar, observar o rechazar el mismo, mediante resolución fundada.
+2. Las presentaciones que contengan toda la información y antecedentes a que se refiere el artículo precedente deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de veinte (20) días hábiles contados desde la recepción conforme de los antecedentes. La Secretaría Regional, como consecuencia de la revisión del anteproyecto, podrá aprobarlo o rechazarlo, mediante una resolución o emitir un oficio indicando las observaciones a la presentación.
 
-3. En el evento que el anteproyecto sea observado por la Secretaría Regional, el interesado tendrá un plazo máximo de quince días (15) hábiles para presentar el anteproyecto corregido, contados desde la notificación de la respectiva resolución.
+3. En el evento que el anteproyecto sea observado por la Secretaría Regional, el interesado tendrá un plazo máximo de quince días (15) hábiles para presentar el anteproyecto corregido, contados desde la notificación del respectivo oficio. En caso de que no sean subsanadas las observaciones dentro de plazo, la Secretaría Regional dictará una resolución rechazando el anteproyecto original.
 
-4. Una vez presentado el anteproyecto corregido en el plazo referido en el numeral 3 del presente artículo, la Secretaría Regional tendrá un plazo máximo de diez (10) días hábiles para pronunciarse mediante resolución fundada, aprobando o rechazando el anteproyecto.
-
-5. En caso de no presentar el anteproyecto corregido en el plazo referido en el numeral 3, la Secretaría Regional emitirá una nueva resolución rechazando el anteproyecto original por no haber subsanado las observaciones dentro del plazo establecido.
-
-6. La Secretaría Regional podrá autorizar prórrogas de todos los plazos señalados en los literales anteriores de este artículo, por una sola vez y sin que la prórroga exceda la mitad del plazo otorgado originalmente. Tales prórrogas podrán ser decretadas de oficio y en forma fundada por la Secretaría Regional o solicitadas por el interesado. Las solicitudes deberán realizarse antes del vencimiento del plazo que se requiere prorrogar.
+4. Una vez presentado el anteproyecto corregido, la Secretaría Regional tendrá un plazo máximo de diez (10) días hábiles para pronunciarse mediante resolución fundada, aprobando o rechazando el anteproyecto.
 
 #### Artículo 9º
 
-La Secretaría Regional deberá revisar el anteproyecto, analizar los requisitos establecidos en el artículo 3º y pronunciarse especialmente sobre los siguientes aspectos de la ciclovía:
+La Secretaría Regional deberá revisar el anteproyecto, verificando el cumplimiento de los requisitos establecidos en el artículo 3º y pronunciarse especialmente sobre los siguientes aspectos de la ciclovía:
 
-1. Si presenta cambios de vía, o cambios de emplazamiento dentro de la vía.
+1. Si el trazado es conexo, coherente y directo, de acuerdo con los principios enumerados en el artículo 2º de este reglamento, o si presenta cambios en la vía, o cambios de emplazamiento dentro de la vía.
 
-2. Si presenta las singularidades indicadas en el número 2 del artículo 3º y en qué porcentaje respecto del total de la ciclovía.
+2. Si presenta las singularidades indicadas en el número 2 del artículo 3º, si éstas se encuentran debidamente justificadas, y en qué porcentaje respecto del total de la ciclovía.
 
-3. Si cumple con los requerimientos de la superficie de desplazamiento establecidas en el número 3 del artículo 3º y en qué porcentaje respecto del total de la ciclovía.
+3. Si la segregación de la ciclovía cumple con lo establecido en el número 4 del artículo 3º en cuanto a la velocidad máxima permitida.
 
-4. Si la segregación de la ciclovía cumple con lo establecido en el número 4 del artículo 3º en cuanto a la velocidad operacional.
+4. Si el emplazamiento y la composición del perfil elegido por el interesado es aquel que minimiza el número de potenciales conflictos, priorizando en la operación a peatones y ciclistas.
 
-5. Si se encuentra vinculada a algún plan estratégico de la(s) comuna(s).
+5. Si fueron analizadas todas las intersecciones complejas del trazado de la ciclovía, de acuerdo a los criterios establecidos en la letra d) del numeral 2. del artículo 7º.
 
-6. Si el emplazamiento y la composición del perfil elegido por el interesado es aquel que minimiza el número de potenciales conflictos a los que se verá enfrentado el usuario entre diversas alternativas posibles.
+6. Si fueron analizadas todas las interacciones complejas, de acuerdo a los criterios establecidos en la letra e) del numeral 2. del artículo 7º.
 
 La Secretaría Regional deberá basar su decisión en los criterios dispuestos en el presente decreto.
 
-La aprobación del anteproyecto se hará por resolución de la Secretaría Regional y tendrá una vigencia de un (1) año, contado desde la fecha de la notificación. En el caso en que el anteproyecto de ciclovía forme parte de otro proyecto de infraestructura vial urbana o interurbana, tales como, autopistas, corredores de transporte público, entre otros este tendrá una vigencia de cinco (5) años contados desde la fecha de la notificación.
+La aprobación del anteproyecto se hará por resolución de la Secretaría Regional y tendrá una vigencia de un (1) año, contado desde la fecha de la notificación. En el caso en que el anteproyecto de ciclovía forme parte de otro proyecto de infraestructura vial urbana o interurbana, tales como, autopistas, corredores de transporte público, entre otros este tendrá una vigencia de cinco (5) años contados desde la fecha de la notificación de la resolución aprobatoria.
 
 #### Artículo 10º
 
-En la etapa de proyecto, el interesado deberá presentar lo siguiente:
+En la etapa de proyecto, el interesado deberá presentar los siguientes antecedentes:
 
-1. La resolución que aprueba el anteproyecto con la vigencia establecida en el artículo anterior.
+1. La resolución aprobatoria del anteproyecto, la que deberá estar vigente.
 
-2. Un plano de diseño operativo que indique señalización y demarcación, incluyendo semaforización en caso de ser aplicable, y cualquier otra medida de gestión relacionada con la operación de la vía.
+2. Un plano de diseño operativo que indique señalización y demarcación, incluyendo semaforización en caso de ser aplicable, y cualquier otra medida de gestión relacionada con la operación de la vía que sea necesaria para que la ciclovía pueda funcionar.
 
-3. Memoria explicativa que contenga una descripción detallada del diseño operativo, indicando claramente cómo se solucionan los movimientos de los ciclistas, en especial los siguientes aspectos:
+3. La memoria explicativa del artículo 7º actualizada y complementada con una descripción detallada del diseño operativo, indicando claramente cómo se solucionan los movimientos de los ciclistas, para minimizar conflictos con vehículos motorizados, en especial en las siguientes situaciones:
 
-a) Puntos de inicio y fin de la ciclovía.
+a. Inicio y fin de ciclovías.
 
-b) Intersecciones con otras ciclovías.
+b. Conexiones con otras ciclovías.
 
-c) Intersecciones con vías relevantes (independiente de que tengan o no ciclovías).
+c. Cruces para ingresar y salir de la ciclovía en vías relevantes.
 
-d) Paraderos de transporte público.
+d. Zonas de espera para realizar virajes de dos tiempos en intersecciones semaforizadas.
 
-e) Conexión con estaciones de transporte masivo o hitos urbanos relevantes.
-
-4. El interesado de manera opcional, podrá presentar además información complementaria relacionada con los requisitos del artículo 3º del presente reglamento. Entre otros antecedentes podrá acompañar: figuras esquemáticas, fotografías y otros planos tales como: plano de diseño geométrico, plantas de demolición y pavimentación, perfil longitudinal, perfiles transversales de la ciclovía, detallando singularidades y condiciones geométricas en general.
+4. Además, deberá indicar que cumple con los requerimientos de la superficie de desplazamiento establecidas en el numeral 3. del artículo 3º y en qué porcentaje respecto del total de la ciclovía.
 
 #### Artículo 11º
 
 Los plazos para la etapa del proyecto son los siguientes:
 
-1. La Secretaría Regional verificará la completitud de los antecedentes señalados en los numerales 1, 2 y 3 del artículo precedente, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tenerlo por desistido de su solicitud.
+1. La Secretaría Regional verificará la completitud de los antecedentes señalados en los numerales del artículo precedente, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado, a través de oficio, para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tenerlo por desistido de su solicitud.
 
-2. Las presentaciones que contengan toda la información y antecedentes a que se refiere el número precedente deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de treinta (30) días hábiles contados desde la recepción conforme de los antecedentes. La Secretaría Regional, como consecuencia de la revisión del proyecto, podrá aprobar, observar o rechazar el mismo, mediante resolución fundada.
+2. Las presentaciones que contengan toda la información y antecedentes a que se refiere el número precedente deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de treinta (30) días hábiles contados desde la recepción conforme de los antecedentes. La Secretaría Regional, como consecuencia de la revisión del proyecto, podrá autorizar o rechazar el mismo, mediante resolución, o emitir un oficio indicando las observaciones a la presentación.
 
-3. En el evento que el proyecto sea observado por la Secretaría Regional, el interesado tendrá un plazo máximo de treinta (30) días hábiles para presentar el proyecto corregido, contados desde la notificación de la respectiva resolución.
+3. En el evento que el proyecto sea observado por la Secretaría Regional, el interesado tendrá un plazo máximo de treinta (30) días hábiles para presentar el proyecto corregido, contados desde la notificación del respectivo oficio. En caso de que no sean subsanadas las observaciones dentro de plazo, la Secretaría Regional dictará una resolución rechazando el proyecto original.
 
-4. Una vez presentado el proyecto corregido en el plazo referido en el numeral 3 del presente artículo, la Secretaría Regional tendrá un plazo máximo de quince (15) días hábiles para pronunciarse mediante resolución fundada, aprobando o rechazando el proyecto.
-
-5. En caso de no presentar el proyecto corregido en el plazo referido en el numeral 3 del presente artículo, la Secretaría Regional emitirá una nueva resolución rechazando el proyecto original por no haber subsanado las observaciones dentro del plazo establecido.
-
-6. La Secretaría Regional podrá autorizar prórrogas de todos los plazos señalados en los numerales anteriores de este artículo, por una sola vez y sin que la prórroga exceda la mitad del plazo otorgado originalmente. Tales prórrogas podrán ser decretadas de oficio y en forma fundada por la Secretaría Regional o solicitadas por el interesado. Las solicitudes deberán realizarse antes del vencimiento del plazo que se requiere prorrogar.
+4. Una vez presentado el proyecto corregido en el plazo referido en el numeral 3 del presente artículo, la Secretaría Regional tendrá un plazo máximo de veinte (20) días hábiles para pronunciarse mediante resolución fundada, aprobando o rechazando el proyecto.
 
 #### Artículo 12º
 
@@ -202,19 +214,19 @@ La Secretaría Regional deberá revisar el proyecto, analizarlo y pronunciarse, 
 
 La Secretaría Regional deberá verificar además lo siguiente:
 
-a) En caso de que las soluciones de los conflictos en las intersecciones, exijan semaforización y/o nuevas fases especiales de semáforo, el proyecto deberá indicar la forma en la que se implementarán estas soluciones.
+a) En caso de que las soluciones de los conflictos en las intersecciones, exijan semaforización y/o nuevas fases especiales de semáforo, el proyecto de semaforización tendrá que indicar la forma en la que se implementarán estas soluciones, las que deberán haber sido previamente validadas por la Subsecretaría de Transportes, a través de la Unidad Operativa de Control de Tránsito o el organismo que la reemplace, lo cual deberá ser realizado dentro del plazo dispuesto para la evaluación del proyecto.
 
-b) En caso de que una singularidad en la ciclovía implique un comportamiento inesperado por parte de los ciclistas o del resto de los usuarios de la vía, esta debe estar debidamente demarcada y/o señalizada.
+b) En caso de que una singularidad o interacción compleja en la ciclovía implique un comportamiento inesperado por parte de los ciclistas o del resto de los usuarios de la vía, esta debe estar debidamente demarcada y/o señalizada.
 
 #### Artículo 13º
 
 De la resolución aprobatoria del proyecto:
 
-La resolución que aprueba el proyecto deberá incorporar, como mínimo, la siguiente información: el nombre de la o las vías en que se ubicará la ciclovía, los tramos que ocupará, su emplazamiento, accesos, el sentido del tránsito que tendrá y el listado completo de medidas de gestión y obras habilitantes para la correcta operación de la ciclovía, tales como cambios de sentido de tránsito, señalización y demarcación, programación de nuevas fases de semáforo, entre otras. Además, deberá incluir expresamente el deber de mantención que le asiste a los gobiernos regionales, a los municipios o a la Dirección de Vialidad del Ministerio de Obras Públicas conforme el emplazamiento de la ciclovía, y anexar la memoria explicativa y los planos debidamente firmados por la correspondiente Secretaría Regional.
+La resolución que aprueba el proyecto deberá incorporar, como mínimo, la siguiente información: el nombre de la o las vías en que se ubicará la ciclovía, los tramos que ocupará, su emplazamiento, accesos, el sentido del tránsito que tendrá, la existencia de paraderos de transporte público y el listado completo de medidas de gestión y obras habilitantes para la correcta operación de la ciclovía, tales como cambios de sentido de tránsito, señalización y demarcación, requerimientos de semaforización o modificación de semáforos, soluciones que resuelvan interacción con paraderos, si corresponde, entre otras. Además, deberá señalar expresamente el deber de mantención que le asiste a los gobiernos regionales, a los municipios o a la Dirección de Vialidad del Ministerio de Obras Públicas conforme el emplazamiento de la ciclovía, y anexar la memoria explicativa y los planos debidamente firmados por la correspondiente Secretaría Regional.
 
-La resolución que aprueba la operación del proyecto de ciclovía tendrá una vigencia de tres (3) años, contados desde la fecha de su notificación.
+La resolución que autorice la operación del proyecto de ciclovía tendrá una vigencia de tres (3) años, contados desde la fecha de su notificación.
 
-En contra de la resolución que se pronuncie sobre la operación del proyecto de ciclovía, podrán deducirse los recursos generales contemplados en la Ley Nº 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+En contra de la resolución que se pronuncie sobre la operación de un proyecto de ciclovía, podrán deducirse los recursos generales contemplados en la Ley Nº 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
 
 ## Título IV
 
@@ -258,23 +270,19 @@ La memoria explicativa podrá ser complementada con figuras esquemáticas, fotos
 
 Los plazos para la revisión de la solicitud de autorización son los siguientes:
 
-1. La Secretaría Regional verificará la completitud de los antecedentes del artículo precedente, según corresponda, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al solicitante para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tenerlo por desistido de su solicitud.
+1. La Secretaría Regional verificará la completitud de los antecedentes del artículo precedente, según corresponda, en un plazo de cinco (5) días hábiles contados desde su recepción. Las presentaciones incompletas serán devueltas al interesado a través de oficio para que, en un plazo de cinco (5) días hábiles, acompañe los antecedentes que falten, bajo apercibimiento de tenerlo por desistido de su solicitud.
 
-2. Las presentaciones que contengan toda la información y antecedentes a que se refiere el número precedente deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de treinta (30) días hábiles contados desde la recepción conforme de los antecedentes. La Secretaría Regional, como consecuencia de la revisión de la solicitud, podrá aprobar, observar o rechazar la adecuación, mediante resolución fundada.
+2. Las presentaciones que contengan toda la información y antecedentes a que se refiere el artículo precedente deberán ser evaluadas por la Secretaría Regional respectiva dentro del plazo máximo de treinta (30) días hábiles contados desde la recepción conforme de los antecedentes. La Secretaría Regional, como consecuencia de la revisión de la solicitud, podrá autorizar o rechazar la misma, mediante resolución, o emitir un oficio indicando las observaciones a la presentación.
 
-3. En el evento que la solicitud sea observada por la Secretaría Regional, el solicitante tendrá un plazo máximo de treinta (30) días hábiles para presentar la solicitud corregida, contados desde la notificación de la respectiva resolución.
+3. En el evento que la solicitud sea observada por la Secretaría Regional, el interesado tendrá un plazo máximo de treinta (30) días hábiles para presentar la solicitud corregida, contados desde la notificación del respectivo oficio. En caso de que no sean subsanadas las observaciones dentro de plazo, la Secretaría Regional dictará una resolución rechazando la solicitud de adecuación..
 
-4. Una vez presentada la solicitud corregida en el plazo referido en el numeral 3 del presente artículo, la Secretaría Regional tendrá un plazo máximo de quince (15) días hábiles para pronunciarse mediante resolución fundada, aprobando o rechazando la solicitud.
-
-5. En caso de no presentar la solicitud corregida en el plazo referido en el numeral 3 del presente artículo, la Secretaría Regional emitirá una nueva resolución rechazando la solicitud de adecuación por no haber subsanado las observaciones dentro del plazo establecido.
-
-6. La Secretaría Regional podrá autorizar prórrogas de todos los plazos señalados en los numerales anteriores de este artículo, por una sola vez y sin que la prórroga exceda la mitad del plazo otorgado originalmente hasta por igual período. Tales prórrogas podrán ser decretadas de oficio y en forma fundada por la Secretaría Regional o solicitadas por el solicitante. Las solicitudes deberán realizarse antes del vencimiento del plazo que se requiere prorrogar.
+4. Una vez presentada la solicitud corregida, la Secretaría Regional tendrá un plazo máximo de veinte (20) días hábiles para pronunciarse mediante resolución fundada, aprobando o rechazando la solicitud.
 
 #### Artículo 17º
 
 De la revisión:
 
-La revisión de la Secretaría Regional deberá centrarse en los aspectos mencionados en los numerales 1 al 5 del artículo 9º, además de los siguientes:
+La revisión de la Secretaría Regional deberá centrarse en los aspectos mencionados en los numerales 1 al 6 del artículo 9º, además de los siguientes:
 
 1. Presencia de zonas mixtas con peatones.
 
@@ -288,9 +296,7 @@ Además, deberá pronunciarse respecto si las medidas planteadas en la memoria e
 
 De la resolución operacional:
 
-La Secretaría Regional, como consecuencia de la revisión de la memoria explicativa, podrá aprobar o rechazar la operación de la ciclovía existente mediante resolución fundada.
-
-La resolución que aprueba la operación de una ciclovía existente deberá incorporar, como mínimo, la información contenida en la ficha de presentación de la ciclovía, el nombre de la o las vías en que se ubicará la ciclovía, los tramos que ocupará, su emplazamiento, accesos y el sentido del tránsito que tendrá. Además, deberá incluir expresamente el deber de mantención que le asiste a los gobiernos regionales, a los municipios o a la Dirección de Vialidad del Ministerio de Obras Públicas, conforme el emplazamiento de la ciclovía y anexar la memoria explicativa y los planos debidamente firmados por la correspondiente Secretaría Regional.
+La resolución que autoriza la operación de una ciclovía existente deberá contener, como mínimo, el nombre de la o las vías en que se ubicará la ciclovía, los tramos que ocupará, su emplazamiento, accesos y el sentido del tránsito que tendrá. Además, deberá incluir expresamente el deber de mantención que le asiste a los gobiernos regionales, a los municipios o a la Dirección de Vialidad del Ministerio de Obras Públicas, conforme el emplazamiento de la ciclovía y anexar la memoria explicativa y los planos debidamente firmados por la correspondiente Secretaría Regional.
 
 En caso de rechazar la operación de la ciclovía, se deberá ingresar nuevamente la solicitud de autorización, en conformidad con el procedimiento establecido en el presente título.
 
@@ -310,7 +316,7 @@ Los ciclos definidos por la Ley de Tránsito deberán contar con los siguientes 
 
 2. Un foco en la parte delantera que permita proyectar un haz de luz frontal continua de color blanco o amarillo, y una luz roja en la parte trasera, la que podrá ser continua o intermitente. Ambas luces deberán mantenerse encendidas desde media hora después de la puesta de sol, hasta media hora antes de su salida y cada vez que las condiciones de visibilidad lo requieran.
 
-3. Huinchas o placas retrorreflectantes de color blanco en la parte delantera y de color rojo en la parte posterior. En ciclos que cuenten con horquillas, estos elementos deberán ubicarse sobre las mismas. Los ciclos deberán contar, además, con huinchas o placas retrorreflectantes laterales, las que deberán ubicarse sobre las ruedas o sobre la estructura del ciclo, cuando el diámetro de las mismas no permita su instalación.
+3. Huinchas o placas retrorreflectantes de color blanco en la parte delantera y de color rojo en la parte posterior. Los ciclos deberán contar, además, con huinchas o placas retrorreflectantes laterales, las que deberán ubicarse sobre las ruedas o sobre la estructura del ciclo, cuando el diámetro de las mismas no permita su instalación.
 
 4. Un aparato sonoro que pueda emitir sonido de intensidad moderada.
 
@@ -332,7 +338,7 @@ El casco protector deberá cumplir con alguna de las normas internacionales señ
 
 a) EN 1078: "Helmets for Pedal Cyclists and for Users of Skateboards and Roller Skates", del Comité Europeo de Normalización.
 
-b) CPSC 16 CFR 1203: "Safety Standard for Bicycle Helmets", de los Estados Unidos de Norteamérica.
+b) CPSC 16 CFR 1203: "Safety Standard for Bicycle Helmets", de los Estados Unidos de América.
 
 #### Artículo 21º
 
@@ -364,7 +370,7 @@ Asimismo, estos asientos deberán cumplir con alguna de las siguientes normas in
 
 i) EN 14344: "Child use and care articles – Child seats for cycles – Safety requirements and test methods", del Comité Europeo de Normalización.
 
-ii) ASTM F1625: "Standard specification and test method for rear-mounted bicycle child carriers", de los Estados Unidos de Norteamérica.
+ii) ASTM F1625: "Standard specification and test method for rear-mounted bicycle child carriers", de los Estados Unidos de América.
 
 2. En remolques. Los remolques para el traslado de infantes en ciclos deberán contar a lo menos, con los siguientes elementos:
 
@@ -378,9 +384,11 @@ Asimismo, estos remolques deberán cumplir con alguna de las siguientes normas i
 
 i) EN 15918: "Cycles – Cycle trailers – Safety requirements and test methods", del Comité Europeo de Normalización.
 
-ii) ASTM F1975: "Standard specification for nonpowered biclycle trailers designed for human passengers", de los Estados Unidos de Norteamérica.
+ii) ASTM F1975: "Standard specification for nonpowered bicycle trailers designed for human passengers", de los Estados Unidos de América.
 
 Los dispositivos para el traslado de infantes deberán cumplir como mínimo con los requisitos de seguridad y especificaciones técnicas señaladas en el presente artículo, los cuales deberán ser acreditados ante el Ministerio de Transportes y Telecomunicaciones, de la forma señalada en el artículo 24º del presente reglamento.
+
+Se exceptúan, tanto del elemento mencionado en la letra c) del número 2., precedente, como de la obligación referida al cumplimiento de las normas internacionales contenidas en este artículo, a los remolques que estén diseñados para que el ocupante se traslade sobre un sillín y cuente con pedales y manubrio, en donde este último elemento puede ser fijo o móvil.
 
 #### Artículo 24º
 
