@@ -116,7 +116,7 @@ e) Para el caso de nematodos, se deberá realizar un solo análisis a partir de 
 
 6. El punto de ingreso autorizado para el ingreso de los envíos de plantas de nogal provenientes del Centro Reconocido Micro Paradox Inc., será el Aeropuerto Internacional Arturo Merino Benítez. El ingreso del material por un punto de ingreso diferente al indicado, deberá ser previamente solicitado al Servicio por el interesado, y su autorización quedará sujeta a las condiciones de infraestructura, equipamiento y personal con que cuente dicho punto de ingreso.
 
-7. El período de vigencia del reconocimiento del Centro de Producción Micro Paradox Inc., tendrá una validez de dos años a partir de la entrada en vigencia de la presente resolución y será prorrogado automáticamente en la medida que no se produzcan cambios a nivel operativo en los procedimientos autorizados por este Servicio o a nivel territorial, que pudieran afectar el estatus fitosanitario del material que será exportado a Chile.
+7. El período de vigencia del reconocimiento del Centro de Producción Micro Paradox Inc., será hasta el 31 de julio de 2024, y podrá ser prorrogado automáticamente en la medida que no se produzcan cambios a nivel operativo en los procedimientos autorizados por este Servicio o a nivel territorial, que pudieran afectar el estatus fitosanitario del material que será exportado a Chile.
 
 8. Cualquier cambio en el estatus fitosanitario de las plagas de interés para Chile o en el sistema de producción de las plantas en el Centro de Producción Reconocido, deberá ser informado oficialmente al SAG por USDA/APHIS y por el Centro de Reproducción Reconocido, respectivamente, en forma inmediata, para su evaluación y la adopción de las medidas que sean necesarias, cuando corresponda.
 
