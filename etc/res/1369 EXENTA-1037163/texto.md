@@ -12,7 +12,9 @@ Considerando:
 
 Resuelvo:
 
-1° Autorízase a los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros efectuados con taxis colectivos urbanos en la ciudad de Curicó, para desviarse de sus trazados habituales, utilizando las vías alternativas que se indican:
+1° Autorízase a los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros efectuados con taxis colectivos urbanos en la ciudad de Curicó, para desviarse de sus trazados habituales, utilizando las alternativas viales que se indican:
+
+Las alternativas descritas podrán utilizarse únicamente en el caso que los vehículos mencionados hubieran completado su capacidad, y siempre que ningún pasajero se oponga.
 
 2° Téngase presente que corresponde a Carabineros de Chile, Inspectores Fiscales y Municipales la fiscalización del cumplimiento de la presente resolución exenta.
 
