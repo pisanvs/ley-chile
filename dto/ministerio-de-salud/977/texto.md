@@ -2930,13 +2930,11 @@ Leche saborizada es el producto obtenido a partir de la leche entera, parcialmen
 
 Leches concentradas son aquellas que han sido privadas parcialmente de su contenido de agua, se clasifican en:
 
-a) leche evaporada es el producto líquido obtenido por eliminación parcial del agua de la leche;
+a) Leche evaporada es el producto líquido obtenido por eliminación parcial del agua de la leche.
 
-b) leche condensada azucarada es el producto proveniente de la leche obtenido por evaporación parcial del agua y adición de azúcar y/o dextrosa;
+b) Leche condensada es el producto proveniente de la leche obtenido por evaporación parcial del agua, de consistencia espesa que usualmente es de sabor dulce, pudiendo tener adición de azúcares, edulcorantes, polioles, fibras u otros ingredientes permitidos.
 
-La acidez de las leches concentradas no excederán de 50 ml de hidróxido de sodio 0,1 N/100 g y la prueba de fosfatasa deberá ser negativa.
-
-> **Nota.** El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
+La acidez de las leches concentradas no excederá de 50 ml de hidróxido de sodio 0,1 N/100 g y la prueba de fosfatasa deberá ser negativa.
 
 #### Artículo 215
 
@@ -2970,9 +2968,7 @@ Eliminado.
 
 #### Artículo 219
 
-Manjar o dulce de leche es el producto obtenido a partir de leches adicionadas de azúcar que por efecto del calor adquiere su color característico. El contenido de sólidos totales de leche será 25,5% como mínimo y no contendrá más de 35% de agua. Se le podrá adicionar sustancias amiláceas, sólo al producto destinado a repostería.
-
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
+Manjar o dulce de leche es el producto obtenido a partir de leches cocidas adicionadas o no de azúcares, edulcorantes, polioles, fibras u otros ingredientes permitidos que, por efecto del calor, adquiere su color característico. El contenido de sólidos totales de leche será 25,5% como mínimo y no contendrá más de 35% de agua. Se le podrá adicionar sustancias amiláceas sólo al producto destinado a repostería. Esta condición deberá declararse en el envase, con una frase como "manjar de repostería" u otra similar.
 
 #### Artículo 220
 
