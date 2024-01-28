@@ -2176,6 +2176,22 @@ Los titulares de autorizaciones de acuicultura tendrán, para los efectos de con
 
 La mantención de la limpieza y del equilibrio ecológico de la zona concedida, cuya alteración tenga como causa la actividad acuícola será de responsabilidad del concesionario, de conformidad con los reglamentos que se dicten.
 
+#### Artículo 74 bis
+
+El titular de la concesión de acuicultura o quien tenga un derecho sobre dicha concesión para el ejercicio de la actividad en ella deberá adoptar las medidas para evitar el depósito de desechos inorgánicos en el fondo de la concesión.
+
+Constatada la existencia de desechos inorgánicos en el fondo de la concesión, deberán realizar en el plazo de seis meses los trabajos de limpieza, sin perjuicio de las sanciones que sean procedentes.
+
+Los desechos inorgánicos se deberán transportar y disponer con los medios y en los lugares autorizados por la normativa vigente.
+
+#### Artículo 74 ter
+
+El titular de la concesión de acuicultura o quien tenga un derecho sobre dicha concesión para el ejercicio de la actividad en ella deberá adoptar las medidas para evitar o reducir, según corresponda, conforme lo disponga el reglamento, el depósito de desechos orgánicos en el fondo de la concesión. Para tales efectos, deberá presentar un plan de recuperación y un plan de investigación del fondo marino en el área de la concesión ante el Servicio Nacional de Pesca y Acuicultura, acreditado por un certificador a que se refiere el artículo 122, letra k), los que deberán cumplir con lo establecido en el reglamento.
+
+El plan de recuperación tendrá por objeto establecer el uso de mecanismos físicos, químicos o biológicos tendientes a mejorar las condiciones del área de sedimentación y permitir que se acelere la incorporación de la materia orgánica al ambiente.
+
+El plan de investigación tendrá por objeto el estudio y desarrollo de métodos y tecnologías para la recuperación de los fondos marinos, cuyos resultados deberán ser entregados al Servicio Nacional de Pesca y Acuicultura, para mejorar los planes de recuperación. En el plan de investigación se podrá autorizar el empleo de las tecnologías que utilizarán los titulares de las concesiones de acuicultura para recuperar los fondos marinos y también aquellos fondos que se encuentren en los parámetros que defina la autoridad, de conformidad con el reglamento.
+
 #### Artículo 75
 
 Las concesiones o autorizaciones de acuicultura otorgadas de conformidad con este título lo serán sin perjuicio de los derechos válidamente establecidos de terceros, quienes sólo podrán hacerlos valer contra el concesionario o el titular de una autorización de acuerdo con las normas generales de derecho.
@@ -3198,6 +3214,8 @@ f) No dar cumplimiento a los tratamientos terapéuticos establecidos por el Serv
 
 g) No entregar la información sobre la condición sanitaria del centro de cultivo referida a las enfermedades de alto riesgo exigida en virtud del reglamento a que se refiere el artículo 86 o en los programas sanitarios dictados conforme a dicho reglamento o entregarla fuera de plazo.
 
+h) Infringir lo dispuesto en los artículos 74 bis o 74 ter.
+
 En el caso de las letras
 
 - **a)** y
@@ -3209,6 +3227,8 @@ En el caso de las letras
 - **e)** anteriores, el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con multa entre 2.000 unidades tributarias mensuales y hasta el equivalente al valor de cosecha de los ejemplares que exceden el número fijado para dar cumplimiento a la densidad de cultivo o de los ejemplares que permanecieron en el centro de cultivo excediendo el período de descanso o que hayan debido ser objeto de las vacunaciones o de los tratamientos terapéuticos respectivos. En todos estos casos, se podrá sancionar con la suspensión de las operaciones del centro de cultivo por hasta los cuatro años consecutivos siguientes al de la infracción.
 
 En los casos de las letras f) y g) anteriores, el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con multa entre 2.000 y 3.000 unidades tributarias mensuales, equivalentes al valor en pesos que corresponda a la fecha del pago.
+
+En el caso de la letra h), el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con la suspensión de operaciones por el plazo de dos años contado desde la fecha de la resolución que la impone, o del vencimiento de los plazos para interponer recursos administrativos contra ella, o una vez rechazados estos recursos, según corresponda. En caso de que el infractor no hubiese retirado en el plazo de seis meses los desechos inorgánicos conforme lo señalado en el artículo 74 bis, la sanción se duplicará.
 
 El valor de la multa deberá enterarse en la Tesorería comunal correspondiente, dentro del plazo de diez días contado desde la fecha de notificación de la resolución sancionatoria o la sentencia firme que pone término a la reclamación judicial.
 
@@ -3805,6 +3825,8 @@ l) Haber sido sancionado el titular tres veces en dos años en virtud de lo disp
 m) Haber sido clasificado el centro de cultivo con bioseguridad baja de acuerdo con el reglamento a que se refiere el artículo 86, inmediatamente después de la suspensión de operaciones aplicada de conformidad con el artículo 118 quinquies.
 
 n) En los casos en que se trate de concesiones de peces que se encuentren ubicadas en franjas de distancia obligatoria entre macro zonas y que no hayan solicitado relocalizarse, existiendo áreas apropiadas al efecto, incurrir por dos veces, al término del descanso sanitario correspondiente a la concesión, en una clasificación de bioseguridad baja, conforme a la metodología establecida en el reglamento a que se refiere el artículo 86.
+
+ñ) Haber sido sancionado, por segunda vez, el titular de la concesión o quien tenga un derecho sobre ella para el ejercicio de la actividad, por infringir lo dispuesto en los artículos 74 bis o 74 ter.
 
 El tribunal que haya conocido de una infracción a esta ley y cuya reiteración pueda dar lugar a la configuración de causales de caducidad de conformidad con este artículo, deberá comunicar la sentencia que impone la sanción al acreedor hipotecario inscrito en el Registro de Concesiones de Acuicultura que lleva la Subsecretaría de Marina, en el plazo de un mes contado desde la fecha de la resolución respectiva. Dentro del mismo plazo, la Subsecretaría deberá comunicar al acreedor hipotecario las sanciones impuestas de conformidad con el artículo 118 ter.
 
