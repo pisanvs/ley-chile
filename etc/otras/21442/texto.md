@@ -1088,7 +1088,7 @@ Lo anterior, también será aplicable en zonas decretadas como "zonas afectadas 
 
 Los condominios de densificación predial no requerirán comité de administración ni administrador, y aquellos de hasta cuatro viviendas, además, no necesitarán contar con fondo de reserva, estacionamientos, seguros ni planes de emergencia. Las normas urbanísticas aplicables serán solo las establecidas en el Reglamento Especial de Viviendas Económicas.
 
-A falta de reglamento de copropiedad, los condominios de densificación predial se regirán por el que se establezca en el reglamento de esta ley como reglamento tipo, sin necesidad de que éste se encuentre inscrito en el conservador de bienes raíces respectivo.
+A falta de reglamento de copropiedad, los condominios de densificación predial se regirán por el reglamento tipo, sin necesidad de que éste se encuentre inscrito en el conservador de bienes raíces respectivo.
 
 #### Artículo 81
 
@@ -1306,7 +1306,9 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo 1°
 
-Deberán dotarse de un reglamento de copropiedad aquellos condominios que hubiesen sido creados antes de la entrada en vigencia de esta ley, o que, habiendo surgido con posterioridad, se originen en una comunidad que no signifique copropiedad en los términos de la ley. Si éste no hubiese sido dictado al cabo de un año de la publicación de la presente ley, se entenderá aplicable al condominio el reglamento tipo que deberá sancionar el reglamento de esta ley.
+Deberán dotarse de un reglamento de copropiedad aquellos condominios que hubiesen sido creados antes de la entrada en vigencia de esta ley, o que, habiendo surgido con posterioridad, se originen en una comunidad que no signifique copropiedad en los términos de la ley. Si éste no hubiese sido dictado al cabo de un año de la publicación de la presente ley, se entenderá aplicable al condominio el reglamento tipo que deberá aprobar el Ministerio de Vivienda y Urbanismo, mediante resolución exenta.
+
+> **Nota.** El artículo 2° de la ley 21650, publicada el 30.01.2024, dispone que la modificación introducida en el presente artículo por el numeral 2 del artículo 1° de la citada ley, producirá efectos en forma retroactiva a partir del 13 de abril de 2022.
 
 #### Artículo 2°
 
