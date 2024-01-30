@@ -24,9 +24,13 @@ Segundos Secretarios : 18 m³ o su equivalente en kilos.
 
 Terceros Secretarios : 16 m³ o su equivalente en kilos.
 
+Terceros Secretarios : 14 m3 o su
+
+de Segunda Clase equivalente en kilos.
+
 #### Artículo 2º
 
-El metraje anterior (o su equivalente en kilos) será incrementado en 1 m³ por el cónyuge, en 0,25 m³ por cada hijo u otras cargas familiares y en 1 m³ por cada quinquenio reconocido, siempre que con ello no se sobrepase el máximo de 25 m³, señalado en el artículo que se reglamenta.
+El metraje anterior (o su equivalente en kilos), será incrementado en 1 m3 por el/la cónyuge o conviviente civil, en 0,25 m3 por cada hijo/a u otras cargas familiares acreditadas y en 1 m3 por cada quinquenio reconocido, siempre que con ello no se sobrepase el máximo de 25 m3, señalado en el artículo que se reglamenta.
 
 #### Artículo 3º
 
