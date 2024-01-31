@@ -32,8 +32,6 @@ Resuelvo:
 
 Asígnanse los tramos de desarrollo profesional docente establecidos en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2019, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "20231220_Reconocimiento 2020_CD.pdf firmada 2", almacenado en pendrive adjunto, caratulado "2020 ESCOLAR", el que se entiende formar parte integrante del presente acto administrativo.
 
-> **Nota.** El artículo primero de la Resolución 10619 Exenta, Educación, publicada el 24.09.2025, actualiza el listado a que se refiere el presente artículo por la nómina contenida en el archivo con firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Reconocimiento2020CD_20250808", almacenado en el pendrive o memoria USB portátil adjunto a dicha resolución, caratulado "Base 2020", el que se entiende formar parte integrante del citado acto administrativo.
-
 #### Artículo segundo
 
 Téngase presente que el tramo de desarrollo profesional docente asignado por este acto surtirá todos sus efectos legales a partir del mes de julio de 2021, en virtud de lo dispuesto en el artículo 19 Q del Estatuto Docente.
