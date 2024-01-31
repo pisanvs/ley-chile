@@ -24,7 +24,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos de desarrollo profesional docente establecidos en el Título III del DFL N° 1, de 1996, del Ministerio de Educación, Estatuto Docente, señalándose los bienios que correspondan, a los profesionales de la educación que rindieron el año 2016, los instrumentos correspondientes y que se encuentran individualizados en la nómina contenida en el disco compacto denominado "Actualización Rex. N° 3263 - 2017, abril de 2019", número de serie LH3110JH0311830D6, refrendado mediante la firma electrónica de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, el que forma parte de la presente resolución.
+Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2016, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Reconocimiento2016_Sept2023.pdf FIRMADA 1409", almacenado en pendrive, caratulado "2016", inserto en caja de plástico con el nombre "REX N° 3263/2017 Reconocimiento 2016" el que se entiende formar parte integrante del presente acto administrativo.
 
 #### Artículo segundo
 
