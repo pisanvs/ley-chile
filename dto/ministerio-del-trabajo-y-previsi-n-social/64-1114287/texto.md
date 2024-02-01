@@ -106,7 +106,7 @@ Si el promedio de personas trabajadoras, calculado conforme al inciso precedente
 
 Si durante el año en que la empresa debe cumplir su obligación de inclusión laboral, se produce el término del contrato de alguna de las personas trabajadoras con discapacidad o asignatarias de una pensión de invalidez informada, el empleador deberá publicar la oferta de trabajo respectiva dentro del mes siguiente de producida la vacante.
 
-Si de aquella oferta de trabajo no se recibieran postulaciones, conforme lo establecido en el inciso segundo del artículo 7º del presente reglamento, el empleador deberá dar cumplimiento a su obligación a través de alguna de las medidas alternativas contenidas en los literales a) y b) del artículo 157 ter del Código del Trabajo, considerando el tiempo en que no pudo contratar o mantener contratado a una persona trabajadora con discapacidad o asignatario de pensión de invalidez. Si se opta por hacer una donación, esta deberá realizarse en el mes de enero del año siguiente.
+Si de aquella oferta de trabajo no se recibieran postulaciones, conforme lo establecido en el inciso segundo del artículo 7º del presente reglamento, el empleador deberá dar cumplimiento a su obligación a través de alguna de las medidas alternativas contenidas en los literales a) y b) del artículo 157 ter del Código del Trabajo, considerando el tiempo en que no pudo contratar o mantener contratado a una persona trabajadora con discapacidad o asignatario de pensión de invalidez, informando a la Dirección del Trabajo dentro del plazo de 30 días, a través de la página web de dicho órgano fiscalizador.
 
 ## Título III
 
@@ -241,6 +241,10 @@ Durante el primer año contado desde la entrada en vigencia de la obligación de
 #### Artículo sexto
 
 Para cumplir con lo dispuesto en el artículo 157 ter, letra b) numeral 2, y en concordancia con la ley Nº 19.885 en lo que resulte pertinente, las corporaciones y fundaciones actualmente inscritas en el Registro de Donatarios, a que se refiere el artículo 5º de la ley Nº 19.885 y su Reglamento, deberán al momento de presentar un proyecto para personas con discapacidad que reciba la donación señalada en artículo 9 de este reglamento, presentar sus estatutos donde conste que su objeto social es la capacitación, rehabilitación, promoción y fomento para la creación de empleos, contratación o inserción laboral de las personas con discapacidad.
+
+#### Artículo séptimo
+
+Para el año 2024, las empresas que se encuentren habilitadas a cumplir en forma subsidiaria con su obligación, a través de la medida alternativa de donación de conformidad a lo dispuesto en el literal b) del artículo 8º del presente reglamento, podrán realizar su pago hasta el 30 de junio de dicha anualidad, informando de ello a la Dirección del Trabajo.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- MICHELLE BACHELET JERIA, Presidenta de la República.- Alejandra Krauss Valle, Ministra del Trabajo y Previsión Social.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Marcos Barraza Gómez, Ministro de Desarrollo Social.
 
