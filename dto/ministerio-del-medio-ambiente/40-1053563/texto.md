@@ -50,75 +50,19 @@ f) Ley: Ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
 
 g) Modificación de proyecto o actividad: Realización de obras, acciones o medidas tendientes a intervenir o complementar un proyecto o actividad, de modo tal que éste sufra cambios de consideración. Se entenderá que un proyecto o actividad sufre cambios de consideración cuando:
 
-g.1. Las partes, obras o acciones tendientes a
+g.1. Las partes, obras o acciones tendientes a intervenir o complementar el proyecto o actividad constituyen un proyecto o actividad listado en el artículo 3 del presente Reglamento;
 
-intervenir o complementar el proyecto o actividad
+g.2. Para los proyectos que se iniciaron de manera previa a la entrada en vigencia del sistema de evaluación de impacto ambiental, si la suma de las partes, obras o acciones tendientes a intervenir o complementar el proyecto o actividad de manera posterior a la entrada en vigencia de dicho sistema que no han sido calificados ambientalmente, constituye un proyecto o actividad listado en el artículo 3 del presente Reglamento. Para los proyectos que se iniciaron de manera posterior a la entrada en vigencia del sistema de evaluación de impacto ambiental, si la suma de las partes, obras y acciones que no han sido calificadas ambientalmente y las partes, obras o acciones tendientes a intervenirlo o complementarlo, constituyen un proyecto o actividad listado en el artículo 3 del presente Reglamento;
 
-constituyen un proyecto o actividad listado en el
+g.3. Las obras o acciones tendientes a intervenir o complementar el proyecto o actividad modifican sustantivamente la extensión, magnitud o duración de los impactos ambientales del proyecto o actividad; o
 
-#### Artículo 3
-
-del presente Reglamento;
-
-g.2. Para los proyectos que se iniciaron de manera
-
-previa a la entrada en vigencia del sistema de
-
-evaluación de impacto ambiental, si la suma de
-
-las partes, obras o acciones tendientes a
-
-intervenir o complementar el proyecto o actividad
-
-de manera posterior a la entrada en vigencia de
-
-dicho sistema que no han sido calificados
-
-ambientalmente, constituye un proyecto o
-
-actividad listado en el artículo 3 del presente
-
-Reglamento.
-
-Para los proyectos que se iniciaron de manera
-
-posterior a la entrada en vigencia del sistema de
-
-evaluación de impacto ambiental, si la suma de
-
-las partes, obras y acciones que no han sido
-
-calificadas ambientalmente y las partes, obras o
-
-acciones tendientes a intervenirlo o
-
-complementarlo, constituyen un proyecto o
-
-actividad listado en el artículo 3 del presente
-
-Reglamento;
-
-g.3. Las obras o acciones tendientes a intervenir o
-
-complementar el proyecto o actividad modifican
-
-sustantivamente la extensión, magnitud o duración
-
-de los impactos ambientales del proyecto o
-
-actividad; o
-
-g.4. Las medidas de mitigación, reparación y
-
-compensación para hacerse cargo de los impactos
-
-significativos de un proyecto o actividad
-
-calificado ambientalmente, se ven modificadas
-
-sustantivamente.
+g.4. Las medidas de mitigación, reparación y compensación para hacerse cargo de los impactos significativos de un proyecto o actividad calificado ambientalmente, se ven modificadas sustantivamente.
 
 Para efectos de los casos anteriores, se considerarán los cambios sucesivos que haya sufrido el proyecto o actividad desde la entrada en vigencia del sistema de evaluación de impacto ambiental.
+
+g bis) Monitoreo participativo: Proceso mediante el cual el titular incorpora a la comunidad en el seguimiento de las fases del desarrollo de un proyecto mediante la entrega de información, reportes, mediciones, realización de capacitaciones, coordinación de visitas de terreno u otras que den cuenta del desarrollo del proyecto o actividad, en cualquiera de sus fases.
+
+g ter) Observación ciudadana: Toda opinión, comentario, pregunta, preocupación y/o solicitud de una persona natural o jurídica que verse sobre los aspectos ambientales y climáticos de un proyecto o actividad, que conste por escrito en el marco de un proceso de participación ciudadana en el Sistema de Evaluación de Impacto Ambiental.
 
 h) Pueblos Indígenas: Para efectos de este reglamento, se consideran pueblos indígenas, aquellos que define el artículo N°1, literal b) del Convenio 169 de la OIT, reconocidos en el artículo primero inciso segundo de la ley 19.253.
 
@@ -498,7 +442,7 @@ Efecto adverso significativo sobre recursos naturales renovables.
 
 El titular deberá presentar un Estudio de Impacto Ambiental si su proyecto o actividad genera o presenta efectos adversos significativos sobre la cantidad y calidad de los recursos naturales renovables, incluidos el suelo, agua y aire.
 
-Se entenderá que el proyecto o actividad genera un efecto adverso significativo sobre la cantidad y calidad de los recursos naturales renovables, incluidos el suelo, agua y aire si, como consecuencia de la extracción de estos recursos; el emplazamiento de sus partes, obras o acciones; o sus emisiones, efluentes o residuos, se afecta la permanencia del recurso, asociada a su disponibilidad, utilización y aprovechamiento racional futuro; se altera la capacidad de regeneración o renovación del recurso; o bien, se alteran las condiciones que hacen posible la presencia y desarrollo de las especies y ecosistemas. Deberá ponerse especial énfasis en aquellos recursos propios del país que sean escasos, únicos o representativos.
+Se entenderá que el proyecto o actividad genera un efecto adverso significativo sobre la cantidad y calidad de los recursos naturales renovables, incluidos el suelo, agua y aire si, como consecuencia de la extracción de estos recursos; el emplazamiento de sus partes, obras o acciones; o sus emisiones, efluentes o residuos, se afecta la permanencia del recurso, asociada a su disponibilidad, utilización y aprovechamiento racional futuro; se altera la capacidad de regeneración o renovación del recurso; o bien, se alteran las condiciones que hacen posible la presencia y desarrollo de las especies y ecosistemas. Deberá ponerse especial énfasis en aquellos recursos propios del país que sean escasos, únicos, representativos o que tengan el carácter de sumidero de origen natural de conformidad con lo dispuesto en el artículo 3 letra u) de la Ley N° 21.455, Marco de Cambio Climático.
 
 A objeto de evaluar si se presenta la situación a que se refiere el inciso anterior, se considerará:
 
@@ -518,41 +462,29 @@ g) El impacto generado por el volumen o caudal de recursos hídricos a interveni
 
 La evaluación de dicho impacto deberá considerar siempre la magnitud de la alteración en:
 
-g.1. Cuerpos de aguas subterráneas que contienen aguas
+g.1. Cuerpos de aguas subterráneas que contienen aguas fósiles.
 
-fósiles.
+g.2. Cuerpos o cursos de aguas en que se generen fluctuaciones de niveles.
 
-g.2. Cuerpos o cursos de aguas en que se generen
+g.3. Vegas y/o bofedales que pudieren ser afectadas por el ascenso o descenso de los niveles de aguas.
 
-fluctuaciones de niveles.
+g.4. Áreas o zonas de humedales, estuarios y turberas que pudieren ser afectadas por el ascenso o descenso de los niveles de aguas subterráneas o superficiales.
 
-g.3. Vegas y/o bofedales que pudieren ser afectadas
-
-por el ascenso o descenso de los niveles de
-
-aguas.
-
-g.4. Áreas o zonas de humedales, estuarios y turberas
-
-que pudieren ser afectadas por el ascenso o
-
-descenso de los niveles de aguas subterráneas o
-
-superficiales.
-
-g.5. La superficie o volumen de un glaciar susceptible
-
-de modificarse.
+g.5. La superficie o volumen de un glaciar susceptible de modificarse.
 
 h) Los impactos que pueda generar la introducción de especies exóticas al territorio nacional o en áreas, zonas o ecosistemas determinados.
+
+i) Los impactos generados por pérdida de resiliencia climática de los ecosistemas.
 
 Las normas de emisión vigentes serán consideradas para efectos de predecir los impactos sobre los recursos naturales renovables, incluidos el suelo, agua y aire de acuerdo a los límites establecidos en ellas. A falta de tales normas, se utilizarán como referencia las vigentes en los Estados que se señalan en el artículo 11 del presente Reglamento.
 
 Para lo anterior, se deberá considerar la cantidad, composición, concentración, peligrosidad, frecuencia y duración de las emisiones y efluentes del proyecto o actividad, así como la cantidad, composición, concentración, peligrosidad, frecuencia, duración y lugar de manejo de productos químicos, residuos u otras sustancias que puedan afectar los recursos naturales renovables.
 
-La evaluación de los efectos sobre los recursos naturales renovables deberá considerar la capacidad de dilución, dispersión, autodepuración, asimilación y regeneración de dichos recursos en el área de influencia del proyecto o actividad, así como los efectos que genere la combinación y/o interacción conocida de los contaminantes del proyecto o actividad.
+La evaluación de los efectos sobre los recursos naturales renovables deberá considerar la capacidad de dilución, dispersión, autodepuración, asimilación y regeneración de dichos recursos en el área de influencia del proyecto o actividad, así como los efectos que genere la combinación y/o interacción conocida de los contaminantes del proyecto o actividad, la resiliencia climática y la vulnerabilidad al cambio climático.
 
 En caso que el proyecto o actividad genere o presente efectos adversos significativos sobre la cantidad y calidad de los recursos naturales renovables, incluidos el suelo, agua y aire, en lugares con presencia de grupos humanos pertenecientes a pueblos indígenas se entenderá que el proyecto o actividad es susceptible de afectarlos, en los términos del artículo 8 del presente Reglamento y deberá ser especialmente analizada la posible afectación a sus sistemas de vida de acuerdo a lo señalado en la letra a) del artículo 7.
+
+Para efectos de lo dispuesto en el presente artículo, se deberán considerar los antecedentes contenidos en los sistemas o subsistemas de información del artículo 27 de la Ley N° 21.455, Marco de Cambio Climático.
 
 #### Artículo 7
 
@@ -566,7 +498,7 @@ A objeto de evaluar si el proyecto o actividad genera reasentamiento de comunida
 
 Cuando excepcionalmente el traslado y la reubicación de grupos humanos pertenecientes a pueblos indígenas se consideren necesarios, sólo deberán efectuarse con su consentimiento, dado libremente y con pleno conocimiento de causa. Cuando no pueda obtenerse su consentimiento y existan causas establecidas en la legislación vigente, el traslado y la reubicación sólo deberá tener lugar al término de procedimientos adecuados, incluidas encuestas públicas, cuando haya lugar, en que dichos grupos tengan la posibilidad de estar efectivamente representados.
 
-A objeto de evaluar la alteración significativa a los sistemas de vida y costumbres de los grupos humanos, se considerará la generación de efectos adversos significativos sobre la calidad de vida de éstos, en consideración a la duración o magnitud de cualquiera de las siguientes circunstancias:
+A objeto de evaluar la alteración significativa a los sistemas de vida y costumbres de los grupos humanos, se considerará la generación de efectos adversos significativos sobre la calidad de vida de éstos, en consideración a la duración o magnitud de cualquiera de las circunstancias que se mencionan a continuación, respecto de las cuales se deberá analizar la vulnerabilidad a los efectos del cambio climático, en la medida que sea pertinente:
 
 a) La intervención, uso o restricción al acceso de los recursos naturales utilizados como sustento económico del grupo o para cualquier otro uso tradicional, tales como uso medicinal, espiritual o cultural.
 
@@ -658,13 +590,23 @@ El titular deberá indicar si el proyecto o actividad sometido a evaluación mod
 
 En caso de modificarse un proyecto o actividad, la calificación ambiental deberá recaer sobre dicha modificación y no sobre el proyecto o actividad existente, aunque la evaluación de impacto ambiental considerará la suma de los impactos provocados por la modificación y el proyecto o actividad existente para todos los fines legales pertinentes.
 
+#### Artículo 12 bis
+
+El Estudio o Declaración de Impacto Ambiental deberá considerar los efectos adversos del cambio climático en los distintos componentes del medio ambiente, especialmente en los ecosistemas, en la salud y el bienestar humano; y las acciones, medidas o procesos orientados a la adaptación y resiliencia a ellos.
+
+Adicionalmente, si corresponde, deberán considerar la mitigación de sus emisiones de gases de efecto invernadero y los forzantes climáticos, en concordancia con la definición de mitigación establecida ley N° 21.455 de marco de cambio climático y las normas de emisión respectivas.
+
+Cuando corresponda, se deberán considerar indicadores de monitoreo, reporte y verificación de las acciones o medidas que adopten durante toda la vida útil del proyecto, para hacerse cargo del comportamiento de la variable cambio climático en el tiempo.
+
 #### Artículo 13
 
 Relación con las políticas, planes y programas de desarrollo.
 
-Los proponentes de los proyectos o actividades, en sus Estudios o Declaraciones de Impacto Ambiental, deberán describir la forma en que sus proyectos o actividades se relacionan con las políticas, planes y programas de desarrollo regional, así como con los planes de desarrollo comunal del área de influencia del proyecto.
+Los proponentes de los proyectos o actividades, en sus Estudios o Declaraciones de Impacto Ambiental, deberán describir la forma en que sus proyectos o actividades se relacionan con las políticas, planes y programas de desarrollo regional, así como con los planes de desarrollo comunal, la estrategia climática de largo plazo, los planes sectoriales de mitigación y adaptación, los planes de acción regionales y comunales de cambio climático, los planes estratégicos de recursos hídricos en cuenca, y los planes sectoriales para la gestión del riesgo de desastres, del área de influencia del proyecto, que hayan sido previamente aprobados y que se encuentren vigentes, según corresponda.
 
-Para evaluar la forma en que el proyecto o actividad se relaciona con las políticas, planes y programas de desarrollo regional y comunal, el titular deberá indicar si la tipología del proyecto o actividad se encuentra reconocida en alguna de las definiciones estratégicas, objetivos generales u objetivos específicos de dichos instrumentos. Del mismo modo, deberá indicar cuáles de dichas definiciones y objetivos se ven favorecidos o perjudicados por el proyecto.
+Para evaluar la forma en que el proyecto o actividad se relaciona con los instrumentos señalados en el inciso anterior, el titular deberá indicar si la tipología del proyecto o actividad se encuentra reconocida en alguna de las definiciones estratégicas, objetivos generales u objetivos específicos de dichos instrumentos. Del mismo modo, deberá indicar cuáles de dichas definiciones y objetivos se ven favorecidos o perjudicados por el proyecto.
+
+El titular deberá señalar si el diseño del proyecto o actividad, sus medidas y compromisos ambientales voluntarios son compatibles con las medidas establecidas en dichos instrumentos.
 
 #### Artículo 14
 
@@ -710,7 +652,7 @@ Contenido mínimo de los Estudios.
 
 Además de lo señalado en el Párrafo 1º del Título III del presente Reglamento, los contenidos mínimos detallados para la elaboración de los Estudios de Impacto Ambiental considerarán las siguientes materias:
 
-a) Un índice que enumerará los capítulos, tablas, figuras, planos, cartografía y anexos del Estudio de Impacto Ambiental.
+a) Un índice que enumerará los capítulos, tablas, figuras, planos, cartografía y anexos del Estudio de Impacto Ambiental, cuya denominación deberá reflejar su contenido de manera simple y clara. El uso de anexos y sus contenidos esenciales deberán estar siempre debidamente referidos en los capítulos respectivos del Estudio.
 
 b) Un resumen del Estudio de Impacto Ambiental que no exceda de treinta páginas y que contenga los antecedentes básicos de las letras c), d), e), f), g),
 
@@ -720,249 +662,95 @@ b) Un resumen del Estudio de Impacto Ambiental que no exceda de treinta páginas
 
 - **m)** del presente artículo.
 
-El resumen del Estudio de Impacto Ambiental deberá ser autosuficiente, estar redactado de manera comprensible para personas no expertas en materias técnicas, señalar claramente los impactos ambientales y estar en concordancia con las materias indicadas en las letras siguientes que correspondan.
+El resumen del Estudio de Impacto Ambiental deberá ser autosuficiente y estar redactado en un lenguaje sencillo, directo y de fácil comprensión para el público, señalar claramente los impactos ambientales y estar en concordancia con las materias indicadas en las letras siguientes que correspondan.
 
 c) Una descripción del proyecto o actividad que deberá contener, cuando corresponda, lo siguiente:
 
-c.1. Identificación del titular y su sociedad matriz,
-
-si la hubiere, así como su representante legal,
-
-si corresponde, indicando su domicilio.
+c.1. Identificación del titular y su sociedad matriz, si la hubiere, así como su representante legal, si corresponde, indicando su domicilio.
 
 c.2. Los antecedentes generales, indicando:
 
-- El nombre del proyecto o actividad;
+- El nombre del proyecto o actividad, el cual debe reflejar claramente el tipo de proyecto que se pretende ejecutar, en un lenguaje sencillo, directo y de fácil comprensión para el público;
 
-- Una descripción breve del proyecto o
-
-actividad;
+- Una descripción breve del proyecto o actividad;
 
 - El objetivo general del proyecto o actividad;
 
-- La tipología del proyecto o actividad, así
-
-como las aplicables a sus partes, obras o
-
-acciones, de acuerdo al artículo 3 de este
-
-Reglamento;
+- La tipología del proyecto o actividad, así como las aplicables a sus partes, obras o acciones, de acuerdo al artículo 3 de este Reglamento;
 
 - El monto estimado de la inversión; y
 
-- La vida útil del proyecto o actividad y de
+- La vida útil del proyecto o actividad y de sus partes u obras, si corresponde.
 
-sus partes u obras, si corresponde.
+- Si la presentación del proyecto o actividad deriva de un requerimiento de ingreso al Sistema de Evaluación de Impacto Ambiental o un programa de cumplimiento aprobado por la Superintendencia del Medio Ambiente, o de una sentencia judicial.
 
 c.3. La localización, indicando:
 
-- División político-administrativa a nivel
-
-regional, provincial y comunal;
+- División político-administrativa a nivel regional, provincial y comunal;
 
 - Representación cartográfica en Datum WGS84;
 
 - La superficie total que comprenderá; y
 
-- Los caminos de acceso a los sitios en los que
-
-se desarrollará el proyecto o actividad.
+- Los caminos de acceso a los sitios en los que se desarrollará el proyecto o actividad.
 
 - La justificación de la misma.
 
-c.4. La descripción de las partes, acciones y obras
+- La condición de riesgo climático de la zona.
 
-físicas que lo componen.
+c.4. La descripción de las partes, acciones y obras físicas que lo componen.
 
-c.5. La descripción de la fase de construcción, si la
+c.5. La descripción de la fase de construcción, si la hubiere, señalando a lo menos lo siguiente:
 
-hubiere, señalando a lo menos lo siguiente:
+- La indicación de las partes, obras y acciones asociadas a esta fase, así como la descripción de las acciones y requerimientos necesarios para la materialización de las obras físicas del proyecto o actividad;
 
-- La indicación de las partes, obras y acciones
+- La fecha estimada e indicación de la parte, obra o acción que establezca el inicio y término de la fase;
 
-asociadas a esta fase, así como la
+- Cronograma de las principales partes, obras y acciones asociadas a esta fase, utilizando cualquier herramienta de representación gráfica del progreso del proyecto o actividad;
 
-descripción de las acciones y requerimientos
+- La mano de obra requerida durante la ejecución de esta fase;
 
-necesarios para la materialización de las
+- Una descripción de cómo se proveerá durante esta fase de los suministros básicos, tales como energía, agua, servicios higiénicos, alimentación, alojamiento, transporte u otros semejantes;
 
-obras físicas del proyecto o actividad;
+- En caso de corresponder, la ubicación y cantidad de recursos naturales renovables a extraer o explotar por el proyecto o actividad para satisfacer sus necesidades;
 
-- La fecha estimada e indicación de la parte,
+- Las emisiones, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta, del proyecto o actividad y las formas de abatimiento y control contempladas; y
 
-obra o acción que establezca el inicio y
+- La cantidad y manejo de residuos, productos químicos y otras sustancias que puedan afectar el medio ambiente.
 
-término de la fase;
+c.6. La descripción de la fase de operación, si la hubiere, señalando a lo menos lo siguiente:
 
-- Cronograma de las principales partes, obras y
+- La indicación de las partes, obras y acciones asociadas a esta fase, incluyendo los períodos de prueba y de puesta en marcha, si correspondiere;
 
-acciones asociadas a esta fase, utilizando
+- La fecha estimada e indicación de la parte, obra o acción que establezca el inicio y término de la fase;
 
-cualquier herramienta de representación
+- Cronograma de las principales partes, obras y acciones asociadas a esta fase, utilizando cualquier herramienta de representación gráfica del progreso del proyecto o actividad;
 
-gráfica del progreso del proyecto o
+- La mano de obra requerida durante su ejecución;
 
-actividad;
+- En caso que el proyecto contemple actividades de mantención y conservación se deberán indicar aquellos aspectos considerados para las actividades generales;
 
-- La mano de obra requerida durante la
+- Una descripción de cómo se proveerá durante esta fase de los suministros básicos, tales como energía, agua, servicios higiénicos, alimentación, alojamiento, transporte u otros semejantes;
 
-ejecución de esta fase;
+- La cuantificación y la forma de manejo de los productos generados, así como el transporte considerado para su entrega o despacho;
 
-- Una descripción de cómo se proveerá durante
+- En caso de corresponder, la ubicación y cantidad de recursos naturales renovables a extraer o explotar por el proyecto o actividad para satisfacer sus necesidades;
 
-esta fase de los suministros básicos, tales
+- Las emisiones, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta, del proyecto o actividad y las formas de abatimiento y control contempladas; y
 
-como energía, agua, servicios higiénicos,
+- La cantidad y manejo de residuos, productos químicos y otras sustancias que puedan afectar el medio ambiente.
 
-alimentación, alojamiento, transporte u otros
+c.7. La descripción de la fase de cierre, si la hubiere, indicando las partes, obras y acciones asociadas a esta fase. En caso de corresponder, deberá escribir las actividades, obras y acciones para:
 
-semejantes;
+- Desmantelar o asegurar la estabilidad de la infraestructura utilizada por el proyecto o actividad;
 
-- En caso de corresponder, la ubicación y
+- Restaurar la geoforma o morfología, vegetación y cualquier otro componente ambiental que haya sido afectado durante la ejecución del proyecto o actividad;
 
-cantidad de recursos naturales renovables a
+- Prevenir futuras emisiones, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta, desde la ubicación del proyecto o actividad, para evitar la afectación del ecosistema incluido el aire, suelo y agua; y
 
-extraer o explotar por el proyecto o
+- La mantención, conservación y supervisión que sean necesarias.
 
-actividad para satisfacer sus necesidades;
-
-- Las emisiones del proyecto o actividad y las
-
-formas de abatimiento y control contempladas;
-
-y
-
-- La cantidad y manejo de residuos, productos
-
-químicos y otras sustancias que puedan
-
-afectar el medio ambiente.
-
-c.6. La descripción de la fase de operación, si la
-
-hubiere, señalando a lo menos lo siguiente:
-
-- La indicación de las partes, obras y acciones
-
-asociadas a esta fase, incluyendo los
-
-períodos de prueba y de puesta en marcha, si
-
-correspondiere;
-
-- La fecha estimada e indicación de la parte,
-
-obra o acción que establezca el inicio y
-
-término de la fase;
-
-- Cronograma de las principales partes, obras y
-
-acciones asociadas a esta fase, utilizando
-
-cualquier herramienta de representación
-
-gráfica del progreso del proyecto o
-
-actividad;
-
-- La mano de obra requerida durante su
-
-ejecución;
-
-- En caso que el proyecto contemple actividades
-
-de mantención y conservación se deberán
-
-indicar aquellos aspectos considerados para
-
-las actividades generales;
-
-- Una descripción de cómo se proveerá durante
-
-esta fase de los suministros básicos, tales
-
-como energía, agua, servicios higiénicos,
-
-alimentación, alojamiento, transporte u otros
-
-semejantes;
-
-- La cuantificación y la forma de manejo de los
-
-productos generados, así como el transporte
-
-considerado para su entrega o despacho;
-
-- En caso de corresponder, la ubicación y
-
-cantidad de recursos naturales renovables a
-
-extraer o explotar por el proyecto o
-
-actividad para satisfacer sus necesidades;
-
-- Las emisiones del proyecto o actividad y las
-
-formas de abatimiento y control contempladas;
-
-y
-
-- La cantidad y manejo de residuos, productos
-
-químicos y otras sustancias que puedan
-
-afectar el medio ambiente.
-
-c.7. La descripción de la fase de cierre, si la
-
-hubiere, indicando las partes, obras y acciones
-
-asociadas a esta fase. En caso de corresponder,
-
-deberá describir las actividades, obras y
-
-acciones para:
-
-- Desmantelar o asegurar la estabilidad de la
-
-infraestructura utilizada por el proyecto o
-
-actividad;
-
-- Restaurar la geoforma o morfología,
-
-vegetación y cualquier otro componente
-
-ambiental que haya sido afectado durante la
-
-ejecución del proyecto o actividad;
-
-- Prevenir futuras emisiones desde la ubicación
-
-del proyecto o actividad, para evitar la
-
-afectación del ecosistema incluido el aire,
-
-suelo y agua; y
-
-- La mantención, conservación y supervisión que
-
-sean necesarias.
-
-Para efectos de lo señalado en los literales
-
-precedentes, las acciones y obras se deberán
-
-describir en consideración a la posibilidad de
-
-generar o presentar los efectos, características
-
-o circunstancias establecidos en el artículo 11
-
-de la Ley y en concordancia con lo requerido en
-
-la letra g) de este artículo.
+Para efectos de lo señalado en los literales precedentes, las acciones y obras se deberán describir en consideración a la posibilidad de generar o presentar los efectos, características o circunstancias establecidos en el artículo 11 de la Ley y en concordancia con lo requerido en la letra g) de este artículo.
 
 d) La determinación y justificación del área de influencia del proyecto o actividad, incluyendo una descripción general de la misma. El área de influencia se definirá y justificará para cada elemento afectado del medio ambiente, tomando en consideración los impactos ambientales potencialmente significativos sobre ellos, así como el espacio geográfico en el cual se emplazan las partes, obras y/o acciones del proyecto o actividad.
 
@@ -970,291 +758,59 @@ e) La línea de base, que deberá describir detalladamente el área de influenci
 
 Deberán describirse aquellos elementos del medio ambiente que se encuentren en el área de influencia del proyecto o actividad y que dan origen a la necesidad de presentar un Estudio de Impacto Ambiental, en consideración a los efectos, características o circunstancias a que se refiere el artículo 11 de la Ley.
 
+La descripción, caracterización y análisis de los elementos del medio ambiente, deberán incorporar los efectos adversos del cambio climático y sus proyecciones, considerando el escenario más desfavorable.
+
 Asimismo, se deberán considerar los atributos relevantes de la misma, su situación actual y, si es procedente, su posible evolución sin considerar la ejecución o modificación del proyecto o actividad. Esta descripción incluirá, cuando corresponda, los siguientes contenidos:
 
-e.1. Medio físico, que incluirá, la caracterización y
+e.1. Medio físico, que incluirá, la caracterización y análisis de los aspectos asociados a:
 
-análisis de los aspectos asociados a:
+- La atmósfera, como el clima y meteorología, la calidad del aire, los niveles de ruido, la luminosidad, la intensidad de los campos electromagnéticos y de radiación;
 
-- La atmósfera, como el clima y meteorología,
+- La litósfera, como la geología, geomorfología, las áreas de riesgos geológicos y geomorfológicos, la caracterización físico química del suelo y el nivel de vibraciones existentes;
 
-la calidad del aire, los niveles de ruido, la
+- La hidrósfera, incluyendo los asociados a los recursos hídricos continentales, como la hidrología, hidrogeología y la calidad de las aguas superficiales y subterráneas; y los asociados a los recursos hídricos marinos como la batimetría, corrientes, mareas, oleaje y de calidad de agua y sedimentos;
 
-luminosidad, la intensidad de los campos
+- Los glaciares, ubicación geográfica, área superficial, espesor, topografía superficial, características superficiales como reflectancia y cobertura detrítica, caracterización a través de un testigo de hielo, estimación de las variaciones geométricas (área y longitud)a través del tiempo usando imágenes de alta resolución, y cálculo de caudales y de aportes hídricos.
 
-electromagnéticos y de radiación;
+Dichos aspectos deberán incorporar las áreas de riesgo con ocasión de la ocurrencia de fenómenos naturales.
 
-- La litósfera, como la geología,
+e.2. Ecosistemas terrestres, que incluirán, tanto una descripción y análisis del suelo, plantas, algas, hongos y animales silvestres, como de otros elementos bióticos. Esta descripción comprenderá, entre otros, la identificación, ubicación, distribución, diversidad y abundancia de las especies que componen los ecosistemas existentes, identificando aquellas especies que se encuentren en alguna categoría de conservación de conformidad a lo señalado en el artículo 37 de la Ley. Asimismo, se incluirán las relaciones existentes con el medio físico y con los ecosistemas acuáticos continentales y marinos.
 
-geomorfología, las áreas de riesgos
+e.3. Ecosistemas acuáticos continentales, que incluirán la calidad de las aguas y sedimentos, y la biota que pertenece a dicho ecosistema. Esta descripción comprenderá, entre otros, la identificación, ubicación, distribución, diversidad y abundancia de las especies que componen los ecosistemas existentes, identificando aquellas especies que se encuentren en alguna categoría de conservación de conformidad a lo señalado en el artículo 37 de la Ley. Asimismo, se incluirán las relaciones existentes con el medio físico y con los ecosistemas terrestres y marinos.
 
-geológicos y geomorfológicos, la
+e.4. Ecosistemas marinos que incluirán la calidad de aguas, sedimentos marinos y la biota que pertenece a dicho ecosistema. Esta descripción comprenderá, entre otros, la identificación, ubicación, distribución, diversidad y abundancia de las especies que componen los ecosistemas existentes, identificando aquellas especies que se encuentren en alguna categoría de conservación de conformidad a lo señalado en el artículo 37 de la Ley. Asimismo, se incluirán las relaciones existentes con el medio físico y con los ecosistemas terrestres y acuáticos continentales.
 
-caracterización físico química del suelo y el
+e.5. Elementos naturales y artificiales que componen el patrimonio histórico, arqueológico, paleontológico, religioso y en general, los que componen el patrimonio cultural, incluyendo la caracterización de los Monumentos Nacionales.
 
-nivel de vibraciones existentes;
+e.6. El paisaje que incluirá, entre otros, la caracterización de su tipo, visibilidad y calidad.
 
-- La hidrósfera, incluyendo los asociados a los
+e.7. Las áreas protegidas y sitios prioritarios para la conservación.
 
-recursos hídricos continentales, como la
+e.8. Los atractivos naturales o culturales y sus interrelaciones, que atraen flujos de visitantes o turistas.
 
-hidrología, hidrogeología y la calidad de las
+e.9. El uso del territorio y su relación con la planificación territorial que incluirá, entre otros:
 
-aguas superficiales y subterráneas; y los
+- Descripción del uso de suelo y de la capacidad de uso de suelo;
 
-asociados a los recursos hídricos marinos
+- Los instrumentos de planificación territorial vigentes, así como otros instrumentos de ordenamiento territorial relevantes;
 
-como la batimetría, corrientes, mareas,
+- Las actividades económicas y productivas relevantes incluyendo las actividades primarias (agricultura, ganadería, caza, silvicultura, pesca, explotación de minas y canteras), secundarias (industrias, manufacturas y construcción), terciarias (servicios, comercio, transporte, administración pública y defensa, enseñanza y turismo) y cualquier otra actividad relevante existente o planificada; y
 
-oleaje y de calidad de agua y sedimentos;
+- Las construcciones relevantes de infraestructura, vivienda, equipamiento, espacio público y de actividades económicas y productivas relevantes, así como de cualquier otra obra relevante.
 
-- Los glaciares, ubicación geográfica, área
+e.10 El medio humano, que incluirá información y análisis de las siguientes dimensiones:
 
-superficial, espesor, topografía superficial,
+- Dimensión geográfica: distribución de los grupos humanos en el territorio y la estructura espacial de sus relaciones, considerando la densidad y distribución espacial de la población; el tamaño de los predios y tenencia de la tierra; y los flujos de comunicación y transporte;
 
-características superficiales como
+- Dimensión demográfica: la estructura de la población local por edades, sexo, rama de actividad, categoría ocupacional y estatus migratorio, considerando la estructura urbano rural; la estructura según rama de actividad económica y categoría ocupacional; la población económicamente activa; la escolaridad y nivel de instrucción; y las migraciones;
 
-reflectancia y cobertura detrítica,
+- Dimensión antropológica: características étnicas de la población y las manifestaciones de la cultura, tales como ceremonias religiosas, peregrinaciones, procesiones, celebraciones, festivales, torneos, ferias y mercados;
 
-caracterización a través de un testigo de
+- Dimensión socioeconómica: empleo y desempleo y la presencia de actividades productivas dependientes de la extracción y/o uso de recursos naturales por parte de los grupos humanos presentes, en forma individual o asociativa; y
 
-hielo, estimación de las variaciones
+- Dimensión de bienestar social básico: acceso de los grupos humanos a bienes, equipamiento y servicios, tales como vivienda, transporte, energía, salud, educación, servicios sanitarios y de recreación.
 
-geométricas (área y longitud) a través del
-
-tiempo usando imágenes de alta resolución, y
-
-cálculo de caudales y de aportes hídricos.
-
-Dichos aspectos deberán incorporar las áreas de
-
-riesgo con ocasión de la ocurrencia de fenómenos
-
-naturales.
-
-e.2. Ecosistemas terrestres, que incluirán, tanto una
-
-descripción y análisis del suelo, plantas, algas,
-
-hongos y animales silvestres, como de otros
-
-elementos bióticos. Esta descripción comprenderá,
-
-entre otros, la identificación, ubicación,
-
-distribución, diversidad y abundancia de las
-
-especies que componen los ecosistemas existentes,
-
-identificando aquellas especies que se encuentren
-
-en alguna categoría de conservación de
-
-conformidad a lo señalado en el artículo 37 de la
-
-Ley. Asimismo, se incluirán las relaciones
-
-existentes con el medio físico y con los
-
-ecosistemas acuáticos continentales y marinos.
-
-e.3. Ecosistemas acuáticos continentales, que
-
-incluirán la calidad de las aguas y sedimentos, y
-
-la biota que pertenece a dicho ecosistema. Esta
-
-descripción comprenderá, entre otros, la
-
-identificación, ubicación, distribución,
-
-diversidad y abundancia de las especies que
-
-componen los ecosistemas existentes,
-
-identificando aquellas especies que se encuentren
-
-en alguna categoría de conservación de
-
-conformidad a lo señalado en el artículo 37 de la
-
-Ley. Asimismo, se incluirán las relaciones
-
-existentes con el medio físico y con los
-
-ecosistemas terrestres y marinos.
-
-e.4. Ecosistemas marinos que incluirán la calidad de
-
-aguas, sedimentos marinos y la biota que
-
-pertenece a dicho ecosistema. Esta descripción
-
-comprenderá, entre otros, la identificación,
-
-ubicación, distribución, diversidad y abundancia
-
-de las especies que componen los ecosistemas
-
-existentes, identificando aquellas especies que
-
-se encuentren en alguna categoría de conservación
-
-de conformidad a lo señalado en el artículo 37 de
-
-la Ley. Asimismo, se incluirán las relaciones
-
-existentes con el medio físico y con los
-
-ecosistemas terrestres y acuáticos continentales.
-
-e.5. Elementos naturales y artificiales que componen
-
-el patrimonio histórico, arqueológico,
-
-paleontológico, religioso y en general, los que
-
-componen el patrimonio cultural, incluyendo la
-
-caracterización de los Monumentos Nacionales.
-
-e.6. El paisaje que incluirá, entre otros, la
-
-caracterización de su tipo, visibilidad y
-
-calidad.
-
-e.7. Las áreas protegidas y sitios prioritarios para
-
-la conservación.
-
-e.8. Los atractivos naturales o culturales y sus
-
-interrelaciones, que atraen flujos de visitantes
-
-o turistas.
-
-e.9. El uso del territorio y su relación con la
-
-planificación territorial que incluirá, entre
-
-otros:
-
-- Descripción del uso de suelo y de la
-
-capacidad de uso de suelo;
-
-- Los instrumentos de planificación territorial
-
-vigentes, así como otros instrumentos de
-
-ordenamiento territorial relevantes;
-
-- Las actividades económicas y productivas
-
-relevantes incluyendo las actividades
-
-primarias (agricultura, ganadería, caza,
-
-silvicultura, pesca, explotación de minas y
-
-canteras), secundarias (industrias,
-
-manufacturas y construcción), terciarias
-
-(servicios, comercio, transporte,
-
-administración pública y defensa, enseñanza y
-
-turismo) y cualquier otra actividad relevante
-
-existente o planificada; y
-
-- Las construcciones relevantes de
-
-infraestructura, vivienda, equipamiento,
-
-espacio público y de actividades económicas y
-
-productivas relevantes, así como de cualquier
-
-otra obra relevante.
-
-e.10 El medio humano, que incluirá información y
-
-análisis de las siguientes dimensiones:
-
-- Dimensión geográfica: distribución de los
-
-grupos humanos en el territorio y la
-
-estructura espacial de sus relaciones,
-
-considerando la densidad y distribución
-
-espacial de la población; el tamaño de los
-
-predios y tenencia de la tierra; y los flujos
-
-de comunicación y transporte;
-
-- Dimensión demográfica: la estructura de la
-
-población local por edades, sexo, rama de
-
-actividad, categoría ocupacional y estatus
-
-migratorio, considerando la estructura urbano
-
-rural; la estructura según rama de actividad
-
-económica y categoría ocupacional; la
-
-población económicamente activa; la
-
-escolaridad y nivel de instrucción; y las
-
-migraciones;
-
-- Dimensión antropológica: características
-
-étnicas de la población y las manifestaciones
-
-de la cultura, tales como ceremonias
-
-religiosas, peregrinaciones, procesiones,
-
-celebraciones, festivales, torneos, ferias y
-
-mercados;
-
-- Dimensión socioeconómica: empleo y desempleo
-
-y la presencia de actividades productivas
-
-dependientes de la extracción y/o uso de
-
-recursos naturales por parte de los grupos
-
-humanos presentes, en forma individual o
-
-asociativa; y
-
-- Dimensión de bienestar social básico: acceso
-
-de los grupos humanos a bienes, equipamiento
-
-y servicios, tales como vivienda, transporte,
-
-energía, salud, educación, servicios
-
-sanitarios y de recreación.
-
-Para los grupos humanos pertenecientes a pueblos
-
-indígenas se describirán con particular énfasis
-
-los siguientes elementos:
+Para los grupos humanos pertenecientes a pueblos indígenas se describirán con particular énfasis los siguientes elementos:
 
 - Uso y valorización de los recursos naturales;
 
@@ -1262,59 +818,19 @@ los siguientes elementos:
 
 - Estructura organizacional;
 
-- Apropiación del medio ambiente (uso
+- Apropiación del medio ambiente (uso medicinal, preparación de alimentos, entre otros);
 
-medicinal, preparación de alimentos, entre
+- Patrimonio cultural indígena, incluyendo los lugares o sitios en que se lleven a cabo manifestaciones propias de su cultura o folklore;
 
-otros);
-
-- Patrimonio cultural indígena, incluyendo los
-
-lugares o sitios en que se lleven a cabo
-
-manifestaciones propias de su cultura o
-
-folklore;
-
-- Identidad grupal a través de los elementos
-
-culturales;
+- Identidad grupal a través de los elementos culturales;
 
 - Sistema de valores;
 
-- Ritos comunitarios (significancia social del
-
-rito); y
+- Ritos comunitarios (significancia social del rito); y
 
 - Símbolos de pertenencia grupal.
 
-e.11 Los proyectos o actividades que cuenten con
-
-Resolución de Calificación Ambiental vigente, aun
-
-cuando no se encuentren operando. Para estos
-
-efectos, se considerarán todos los proyectos o
-
-actividades que se relacionen con los impactos
-
-ambientales del proyecto en evaluación,
-
-contemplando los términos en que fueron aprobados
-
-dichos proyectos o actividades, especialmente en
-
-lo relativo a su ubicación, emisiones, efluentes
-
-y residuos, la extracción, explotación o uso de
-
-recursos naturales renovables autorizados
-
-ambientalmente y cualquier otra información
-
-relevante para definir la línea de base del
-
-Estudio de Impacto Ambiental.
+e.11 Los proyectos o actividades que cuenten con Resolución de Calificación Ambiental vigente, aun cuando no se encuentren operando. Para estos efectos, se considerarán todos los proyectos o actividades que se relacionen con los impactos ambientales del proyecto en evaluación, contemplando los términos en que fueron aprobados dichos proyectos o actividades, especialmente en lo relativo a su ubicación, emisiones, efluentes y residuos, la extracción, explotación o uso de recursos naturales renovables autorizados ambientalmente y cualquier otra información relevante para definir la línea de base del Estudio de Impacto Ambiental.
 
 El uso de procedimientos y metodologías necesarios para describir, caracterizar y analizar la línea de base, deberá estar debidamente justificado. En caso que el Servicio uniforme los criterios o las exigencias técnicas, de conformidad a lo señalado en el artículo 81 letra d) de la Ley, éstos deberán ser observados.
 
@@ -1332,7 +848,7 @@ Para estos efectos los impactos sobre el suelo, agua, aire o los recursos natura
 
 La evaluación del impacto ambiental consistirá en la determinación de si los impactos predichos constituyen impactos significativos en base a los criterios del artículo 11 de la Ley y detallados en el Título II de este Reglamento.
 
-Cuando corresponda, la predicción y evaluación de los impactos ambientales se efectuará considerando el estado de los elementos del medio ambiente y la ejecución del proyecto o actividad en su condición más desfavorable. Asimismo, en caso que el Servicio uniforme los criterios o las exigencias técnicas, de conformidad a lo señalado en el artículo 81 letra d) de la Ley, éstos deberán ser observados.
+Cuando corresponda, la predicción y evaluación de los impactos ambientales se efectuará considerando el estado de los elementos del medio ambiente, su variabilidad producto del cambio climático y la ejecución del proyecto o actividad en su condición más desfavorable. Asimismo, en caso que el Servicio uniforme los criterios o las exigencias técnicas, de conformidad a lo señalado en el artículo 81 letra d) de la Ley, éstos deberán ser observados.
 
 Para la evaluación de impactos sinérgicos se deberán considerar los proyectos o actividades que cuenten con calificación ambiental vigente de acuerdo a lo indicado en el literal e.11 anterior.
 
@@ -1348,87 +864,21 @@ Estudio de Impacto Ambiental por generar riesgo para la salud de la población a
 
 Este capítulo deberá contener, al menos, lo siguiente:
 
-- Indicación de cuáles emisiones, efluentes o
+- Indicación de cuáles emisiones, efluentes o residuos del proyecto o actividad generan el efecto señalado en la letra a) del artículo 11 de la Ley, indicando su cuantificación y caracterización, incluyendo su información toxicológica que comprenderá, entre otros, la naturaleza de los efectos sobre la salud que pueden producirse por dicha exposición y las dosis de referencia (RfD) y/o concentraciones de referencia (RfC) para contaminantes no cancerígenos, o bien, los factores de pendiente para contaminantes cancerígenos (CSF);
 
-residuos del proyecto o actividad generan el
+- Descripción de los medios y mecanismos de transporte y transformación de dichas emisiones, efluentes o residuos, así como su destino final;
 
-efecto señalado en la letra a) del artículo 11 de
+- Identificación de la población potencialmente expuesta, incluyendo la población de mayor exposición y de mayor susceptibilidad a la exposición, su tamaño, ubicación y las características sociodemográficas;
 
-la Ley, indicando su cuantificación y
+- Identificación de las rutas de exposición potenciales y completas de la población a los contaminantes, a través de la elaboración de un modelo conceptual que incorpore fuentes, vías y población potencialmente expuesta;
 
-caracterización, incluyendo su información
+- Estimación del nivel de exposición para cada vía de exposición identificada que deberá considerar la predicción de los impactos sobre los componentes físicos asociados a dichas vías, así como la frecuencia, duración y tasa de contacto de la exposición de la población;
 
-toxicológica que comprenderá, entre otros, la
+- Para agentes cancerígenos, la estimación del riesgo incremental de desarrollar cáncer en base al factor de pendiente, o equivalente, y la dosis diaria de exposición crónica;
 
-naturaleza de los efectos sobre la salud que
+- Para agentes no cancerígenos, la comparación del nivel de exposición con la dosis y/o concentración de referencia, o equivalente; y
 
-pueden producirse por dicha exposición y las dosis
-
-de referencia (RfD) y/o concentraciones de
-
-referencia (RfC) para contaminantes no
-
-cancerígenos, o bien, los factores de pendiente
-
-para contaminantes cancerígenos (CSF);
-
-- Descripción de los medios y mecanismos de
-
-transporte y transformación de dichas emisiones,
-
-efluentes o residuos, así como su destino final;
-
-- Identificación de la población potencialmente
-
-expuesta, incluyendo la población de mayor
-
-exposición y de mayor susceptibilidad a la
-
-exposición, su tamaño, ubicación y las
-
-características sociodemográficas;
-
-- Identificación de las rutas de exposición
-
-potenciales y completas de la población a los
-
-contaminantes, a través de la elaboración de un
-
-modelo conceptual que incorpore fuentes, vías y
-
-población potencialmente expuesta;
-
-- Estimación del nivel de exposición para cada vía
-
-de exposición identificada que deberá considerar
-
-la predicción de los impactos sobre los
-
-componentes físicos asociados a dichas vías, así
-
-como la frecuencia, duración y tasa de contacto de
-
-la exposición de la población;
-
-- Para agentes cancerígenos, la estimación del
-
-riesgo incremental de desarrollar cáncer en base
-
-al factor de pendiente, o equivalente, y la dosis
-
-diaria de exposición crónica;
-
-- Para agentes no cancerígenos, la comparación del
-
-nivel de exposición con la dosis y/o concentración
-
-de referencia, o equivalente; y
-
-- Análisis de incertidumbre de los resultados, así
-
-como el detalle de los supuestos considerados para
-
-el cálculo.
+- Análisis de incertidumbre de los resultados, así como el detalle de los supuestos considerados para el cálculo.
 
 i) Un Plan de Medidas de Mitigación, Reparación y Compensación que describirá y justificará las medidas que se adoptarán para eliminar, minimizar, reparar, restaurar o compensar los efectos ambientales adversos del proyecto o actividad descritos en la letra g) del presente artículo. El Plan deberá cumplir con lo establecido en el Párrafo 1º del Título VI de este Reglamento.
 
@@ -1438,37 +888,17 @@ k) Un Plan de Seguimiento de las Variables Ambientales relevantes, de conformida
 
 l) El plan de cumplimiento de la legislación ambiental aplicable, el que deberá incluir:
 
-- La identificación de las normas ambientales
+- La identificación de las normas ambientales aplicables al proyecto o actividad;
 
-aplicables al proyecto o actividad;
+- La descripción de la forma y fases en las que se dará cumplimiento a las obligaciones contenidas en la normativa ambiental, incluyendo indicadores de cumplimiento;
 
-- La descripción de la forma y fases en las que se
+- El listado de los permisos y pronunciamientos ambientales sectoriales aplicables al proyecto o actividad;
 
-dará cumplimiento a las obligaciones contenidas en
+- Los contenidos técnicos y formales que acrediten el cumplimiento de los requisitos de otorgamiento de los respectivos permisos y pronunciamientos ambientales sectoriales, según lo dispuesto en el Título VII de este Reglamento, incluyendo indicadores de cumplimiento, si corresponde.
 
-la normativa ambiental, incluyendo indicadores de
+m) La descripción del contenido de aquellos compromisos ambientales voluntarios, no exigidos por la legislación vigente, que el titular del proyecto o actividad contemple realizar, con la indicación precisa del lugar y momento en que se verificarán, así como los indicadores de cumplimiento, si corresponde. Entre dichos compromisos, se podrá considerar los que se hacen cargo de los impactos no significativos, los relacionados a las emisiones de gases de efecto invernadero y los forzantes climáticos y los asociados a verificar que no se generan impactos significativos.
 
-cumplimiento;
-
-- El listado de los permisos y pronunciamientos
-
-ambientales sectoriales aplicables al proyecto o
-
-actividad;
-
-- Los contenidos técnicos y formales que acrediten
-
-el cumplimiento de los requisitos de otorgamiento
-
-de los respectivos permisos y pronunciamientos
-
-ambientales sectoriales, según lo dispuesto en el
-
-## Título VII — de este Reglamento, incluyendo
-
-indicadores de cumplimiento, si corresponde.
-
-m) La descripción del contenido de aquellos compromisos ambientales voluntarios, no exigidos por la legislación vigente, que el titular del proyecto o actividad contemple realizar, con la indicación precisa del lugar y momento en que se verificarán, así como los indicadores de cumplimiento, si corresponde. Entre dichos compromisos, se podrá considerar los que se hacen cargo de los impactos no significativos y los asociados a verificar que no se generan impactos significativos.
+m bis) La descripción de los monitoreos participativos que incorpore el proyecto o actividad para el seguimiento de las fases de su desarrollo. Se deberá indicar el lugar y momento en que se verificarán, así como los indicadores de cumplimiento.
 
 n) Una ficha en la cual se resuman, para cada fase del proyecto o actividad, los contenidos a que se refieren las letras c), f), g), i), j), k), l) y m) del presente artículo, a fin de facilitar la fiscalización a que alude el artículo 64 de la Ley.
 
@@ -1480,31 +910,11 @@ El titular podrá presentar, además, un programa de acciones destinadas a asegu
 
 p) Un apéndice del Estudio de Impacto Ambiental que incluirá, según corresponda, toda la información documentada que sirva de apoyo para la comprensión del Estudio, ordenada en forma de anexos, tales como:
 
-p.1. Informes de laboratorio, legislación detallada
+p.1. Informes de laboratorio, legislación detallada atingente, estudios específicos, desarrollo de cálculos matemáticos, figuras, mapas, planos, tablas, fotografías u otros.
 
-atingente, estudios específicos, desarrollo de
+p.2. Listado de los nombres de las personas que participaron en la elaboración del Estudio de Impacto Ambiental, incluyendo sus profesiones e indicando las funciones y tareas específicas que desarrollaron. El apéndice siempre deberá contar con esta información.
 
-cálculos matemáticos, figuras, mapas, planos,
-
-tablas, fotografías u otros.
-
-p.2. Listado de los nombres de las personas que
-
-participaron en la elaboración del Estudio de
-
-Impacto Ambiental, incluyendo sus profesiones e
-
-indicando las funciones y tareas específicas que
-
-desarrollaron. El apéndice siempre deberá contar
-
-con esta información.
-
-p.3. Estudios, normas y otros antecedentes técnicos
-
-citados o utilizados como referencia en la
-
-elaboración del Estudio de Impacto Ambiental.
+p.3. Estudios, normas y otros antecedentes técnicos citados o utilizados como referencia en la elaboración del Estudio de Impacto Ambiental.
 
 Los planes señalados en las letras i), j), k) y l) del presente artículo deben estar descritos con claridad y precisión, indicando las obras o acciones que contempla ejecutar; la descripción de la medida correspondiente; sus finalidades específicas; la forma, plazos, lugar en que se implementarán y alcanzarán sus objetivos, si correspondiere; así como indicadores que permitan acreditar el cumplimiento de las medidas.
 
@@ -1530,359 +940,125 @@ Además de lo señalado en el Párrafo 1º del Título III del presente Reglamen
 
 a) Una descripción del proyecto o actividad que deberá contener lo siguiente:
 
-a.1. Identificación del titular y su sociedad
-
-matriz, si la hubiere, así como su
-
-representante legal, si corresponde,
-
-indicando su domicilio.
+a.1. Identificación del titular y su sociedad matriz, si la hubiere, así como su representante legal, si corresponde, indicando su domicilio.
 
 a.2. Los antecedentes generales, indicando:
 
-- El nombre del proyecto o actividad;
+- El nombre del proyecto o actividad, el cual debe reflejar claramente el tipo de proyecto que se pretende ejecutar, en un lenguaje sencillo, directo y de fácil comprensión para el público;
 
-- Una descripción breve del proyecto o
+- Una descripción breve del proyecto o actividad;
 
-actividad;
+- El objetivo general del proyecto o actividad;
 
-- El objetivo general del proyecto o
-
-actividad;
-
-- La tipología del proyecto o actividad,
-
-así como las aplicables a sus partes,
-
-obras o acciones, de acuerdo al artículo
-
-3 de este Reglamento;
+- La tipología del proyecto o actividad, así como las aplicables a sus partes, obras o acciones, de acuerdo al artículo 3 de este Reglamento;
 
 - El monto estimado de la inversión; y
 
-- La vida útil del proyecto o actividad y
+- La vida útil del proyecto o actividad y de sus partes u obras, si corresponde.
 
-de sus partes u obras, si corresponde.
+- Si la presentación del proyecto o actividad deriva de un requerimiento de ingreso al Sistema de Evaluación de Impacto Ambiental o un programa de cumplimiento aprobado por la Superintendencia del Medio Ambiente, o de una sentencia judicial.
 
 a.3. La localización, indicando:
 
-- División político-administrativa a nivel
+- División político-administrativa a nivel regional, provincial y comunal;
 
-regional, provincial y comunal;
-
-- Representación cartográfica en Datum
-
-WGS84;
+- Representación cartográfica en Datum WGS84;
 
 - La superficie total que comprenderá;
 
-- Los caminos de acceso a los sitios en
-
-los que se desarrollará el proyecto o
-
-actividad; y
+- Los caminos de acceso a los sitios en los que se desarrollará el proyecto o actividad; y
 
 - La justificación de la misma.
 
-a.4. La descripción de las partes, acciones y
+- La condición de riesgo climático de la zona.
 
-obras físicas que lo componen.
+a.4. La descripción de las partes, acciones y obras físicas que lo componen.
 
-a.5. La descripción de la fase de construcción,
+a.5. La descripción de la fase de construcción, si la hubiere, señalando a lo menos lo siguiente:
 
-si la hubiere, señalando a lo menos lo
+- La indicación de las partes, obras y acciones asociadas a esta fase, así como la descripción de las acciones y requerimientos necesarios para la materialización de las obras físicas del proyecto o actividad;
 
-siguiente:
+- La fecha estimada e indicación de la parte, obra o acción que establezca el inicio y término de la fase;
 
-- La indicación de las partes, obras y
+- Cronograma de las principales partes, obras y acciones asociadas a esta fase, utilizando cualquier herramienta de representación gráfica del progreso del proyecto o actividad;
 
-acciones asociadas a esta fase, así como
+- La mano de obra requerida durante la ejecución de esta fase;
 
-la descripción de las acciones y
+- Una descripción de cómo se proveerá durante esta fase de los suministros básicos, tales como energía, agua, servicios higiénicos, alimentación, alojamiento, transporte u otros semejantes;
 
-requerimientos necesarios para la
+- En caso de corresponder, la ubicación y cantidad de recursos naturales renovables a extraer o explotar por el proyecto o actividad para satisfacer sus necesidades;
 
-materialización de las obras físicas del
+- Las emisiones, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta, del proyecto o actividad y las formas de abatimiento y control contempladas; y
 
-proyecto o actividad;
+- La cantidad y manejo de residuos, productos químicos y otras sustancias que puedan afectar el medio ambiente.
 
-- La fecha estimada e indicación de la
+a.6. La descripción de la fase de operación, si la hubiere, señalando a lo menos lo siguiente:
 
-parte, obra o acción que establezca el
+- La indicación de las partes, obras y acciones asociadas a esta fase, incluyendo los períodos de pruebas y de puesta en marcha, si correspondiese;
 
-inicio y término de la fase;
+- La fecha estimada e indicación de la parte, obra o acción que establezca el inicio y término de la fase;
 
-- Cronograma de las principales partes,
+- Cronograma de las principales partes, obras y acciones asociadas a esta fase, utilizando cualquier herramienta de representación gráfica del progreso del proyecto o actividad;
 
-obras y acciones asociadas a esta fase,
+- La mano de obra requerida durante su ejecución;
 
-utilizando cualquier herramienta de
+- En caso que el proyecto contemple actividades de mantención y conservación se deberán indicar aquellos aspectos considerados para las actividades generales;
 
-representación gráfica del progreso del
+- Una descripción de cómo se proveerá durante esta fase de los suministros básicos, tales como energía, agua, servicios higiénicos, alimentación, u otros semejantes;
 
-proyecto o actividad;
+- La cuantificación y la forma de manejo de los productos generados, así como el transporte considerado para su entrega o despacho;
 
-- La mano de obra requerida durante la
+- En caso de corresponder, la ubicación y cantidad de recursos naturales renovables a extraer o explotar por el proyecto o actividad para satisfacer sus necesidades;
 
-ejecución de esta fase;
+- Las emisiones, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta, del proyecto o actividad y las formas de abatimiento y control contempladas; y
 
-- Una descripción de cómo se proveerá
+- La cantidad y manejo de residuos, productos químicos y otras sustancias que puedan afectar el medio ambiente.
 
-durante esta fase de los suministros
+a.7. La descripción de la fase de cierre, si la hubiere, indicando las partes, obras y acciones asociadas a esta fase. En caso de corresponder, deberá describir las actividades, obras y acciones para:
 
-básicos, tales como energía, agua,
+- Desmantelar o asegurar la estabilidad de la infraestructura utilizada por el proyecto o actividad;
 
-servicios higiénicos, alimentación,
+- Restaurar la geoforma o morfología, vegetación y cualquier otro componente ambiental que haya sido afectado durante la ejecución del proyecto o actividad;
 
-alojamiento, transporte u otros
+- Prevenir futuras emisiones, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta, desde la ubicación del proyecto o actividad, para evitar la afectación del ecosistema incluido el aire, suelo y agua; y
 
-semejantes;
+- La mantención, conservación y supervisión que sean necesarias.
 
-- En caso de corresponder, la ubicación y
+a.8. Se deberá incluir, cuando corresponda, un Plan de Prevención de Contingencias y Emergencias asociado a las eventuales situaciones de riesgo o contingencia identificadas, según lo establecido en el Párrafo 2º del Título VI de este Reglamento.
 
-cantidad de recursos naturales
-
-renovables a extraer o explotar por el
-
-proyecto o actividad para satisfacer sus
-
-necesidades;
-
-- Las emisiones del proyecto o actividad y
-
-las formas de abatimiento y control
-
-contempladas; y
-
-- La cantidad y manejo de residuos,
-
-productos químicos y otras sustancias
-
-que puedan afectar el medio ambiente.
-
-a.6. La descripción de la fase de operación, si
-
-la hubiere, señalando a lo menos lo
-
-siguiente:
-
-- La indicación de las partes, obras y
-
-acciones asociadas a esta fase,
-
-incluyendo los períodos de pruebas y de
-
-puesta en marcha, si correspondiese;
-
-- La fecha estimada e indicación de la
-
-parte, obra o acción que establezca el
-
-inicio y término de la fase;
-
-- Cronograma de las principales partes,
-
-obras y acciones asociadas a esta fase,
-
-utilizando cualquier herramienta de
-
-representación gráfica del progreso del
-
-proyecto o actividad;
-
-- La mano de obra requerida durante su
-
-ejecución;
-
-- En caso que el proyecto contemple
-
-actividades de mantención y conservación
-
-se deberán indicar aquellos aspectos
-
-considerados para las actividades
-
-generales;
-
-- Una descripción de cómo se proveerá
-
-durante esta fase de los suministros
-
-básicos, tales como energía, agua,
-
-servicios higiénicos, alimentación,
-
-alojamiento, transporte u otros
-
-semejantes;
-
-- La cuantificación y la forma de manejo
-
-de los productos generados, así como el
-
-transporte considerado para su entrega o
-
-despacho;
-
-- En caso de corresponder, la ubicación y
-
-cantidad de recursos naturales
-
-renovables a extraer o explotar por el
-
-proyecto o actividad para satisfacer sus
-
-necesidades;
-
-- Las emisiones del proyecto o actividad y
-
-las formas de abatimiento y control
-
-contempladas; y
-
-- La cantidad y manejo de residuos,
-
-productos químicos y otras sustancias
-
-que puedan afectar el medio ambiente.
-
-a.7. La descripción de la fase de cierre, si la
-
-hubiere, indicando las partes, obras y
-
-acciones asociadas a esta fase. En caso de
-
-corresponder, deberá describir las
-
-actividades, obras y acciones para:
-
-- Desmantelar o asegurar la estabilidad de
-
-la infraestructura utilizada por el
-
-proyecto o actividad;
-
-- Restaurar la geoforma o morfología,
-
-vegetación y cualquier otro componente
-
-ambiental que haya sido afectado durante
-
-la ejecución del proyecto o actividad;
-
-- Prevenir futuras emisiones desde la
-
-ubicación del proyecto o actividad, para
-
-evitar la afectación del ecosistema
-
-incluido el aire, suelo y agua; y
-
-- La mantención, conservación y
-
-supervisión que sean necesarias.
-
-a.8. Se deberá incluir, cuando corresponda, un
-
-Plan de Prevención de Contingencias y
-
-Emergencias asociado a las eventuales
-
-situaciones de riesgo o contingencia
-
-identificadas, según lo establecido en el
-
-### Párrafo 2º — del Título VI de este Reglamento.
+a.9. Un índice que enumerará los capítulos, tablas, figuras, planos, cartografía y anexos de la Declaración Impacto Ambiental, cuya denominación deberá reflejar su contenido de manera simple y clara. El uso de anexos y sus contenidos esenciales deberán estar siempre debidamente referidos en los capítulos respectivos de la Declaración de Impacto Ambiental.
 
 Para efectos de lo señalado en los literales precedentes, la descripción se deberá realizar en consideración a la posibilidad de generar o presentar los efectos, características o circunstancias establecidos en el artículo 11 de la Ley, y en concordancia con lo requerido en la letra siguiente de este artículo.
 
-b) Los antecedentes necesarios que justifiquen la inexistencia de aquellos efectos, características o circunstancias del artículo 11 de la Ley que pueden dar origen a la necesidad de efectuar un Estudio de Impacto Ambiental. Serán parte de estos antecedentes:
+b) Los antecedentes necesarios que justifiquen la inexistencia de aquellos efectos, características o circunstancias del artículo 11 de la Ley que pueden dar origen a la necesidad de efectuar un Estudio de Impacto Ambiental, considerando para ello el escenario más desfavorable y el cambio climático. Serán parte de estos antecedentes:
 
-b.1. La determinación y justificación del área de
+b.1. La determinación y justificación del área de influencia del proyecto o actividad, incluyendo una descripción general de la misma, conforme a lo señalado en el artículo 18 letra d) de este Reglamento.
 
-influencia del proyecto o actividad, incluyendo
+b.2. La ubicación del proyecto o actividad y, en caso de corresponder, de sus principales partes, obras o acciones.
 
-una descripción general de la misma, conforme a
+b.3. En caso de corresponder, la ubicación y cuantificación de los recursos naturales renovables a extraer o explotar por el proyecto o actividad para satisfacer sus necesidades.
 
-lo señalado en el artículo 18 letra d) de este
+b.4. Las emisiones del proyecto o actividad, incluyendo las de gases de efecto invernadero y forzantes climáticos de vida corta.
 
-Reglamento.
+b.5. La cantidad y manejo de residuos, productos químicos y otras sustancias que puedan afectar el medio ambiente.
 
-b.2. La ubicación del proyecto o actividad y, en caso
+b.6. En caso que el proyecto o actividad se emplace en, o en las cercanías de tierras indígenas, áreas de desarrollo indígena o pueblos indígenas, la Declaración de Impacto Ambiental deberá contener los antecedentes que justifiquen la inexistencia de susceptibilidad de afectación a dichos pueblos localizados en el área en que se desarrollará el proyecto o actividad.
 
-de corresponder, de sus principales partes, obras
+b.7. Un Plan de Seguimiento de las Variables Ambientales, de conformidad a lo establecido en el Párrafo 3º del Título VI de este Reglamento. Asimismo, se deberán describir los monitoreos participativos que incorpore el proyecto o actividad para el seguimiento de las fases de su desarrollo, incluyendo el lugar y momento en que se verificarán, así como los indicadores de cumplimiento.
 
-o acciones.
-
-b.3. En caso de corresponder, la ubicación y
-
-cuantificación de los recursos naturales
-
-renovables a extraer o explotar por el proyecto o
-
-actividad para satisfacer sus necesidades.
-
-b.4. Las emisiones del proyecto o actividad.
-
-b.5. La cantidad y manejo de residuos, productos
-
-químicos y otras sustancias que puedan afectar el
-
-medio ambiente.
-
-b.6. En caso que el proyecto o actividad se emplace
-
-en, o en las cercanías de tierras indígenas,
-
-áreas de desarrollo indígena o pueblos indígenas,
-
-la Declaración de Impacto Ambiental deberá
-
-contener los antecedentes que justifiquen la
-
-inexistencia de susceptibilidad de afectación a
-
-dichos pueblos localizados en el área en que se
-
-desarrollará el proyecto o actividad.
-
-b.7. Cualquier otra información ambiental que el
-
-titular estime pertinente.
+b.8. Cualquier otra información ambiental que el titular estime pertinente.
 
 c) El plan de cumplimiento de la legislación ambiental aplicable, el que deberá incluir:
 
-- La identificación de las normas ambientales
+- La identificación de las normas ambientales aplicables al proyecto o actividad;
 
-aplicables al proyecto o actividad;
+- La descripción de la forma y fases en las que se dará cumplimiento a las obligaciones contenidas en la normativa ambiental, incluyendo indicadores de cumplimiento;
 
-- La descripción de la forma y fases en las que se
+- El listado de los permisos y pronunciamientos ambientales sectoriales aplicables al proyecto o actividad;
 
-dará cumplimiento a las obligaciones contenidas en
+- Los contenidos técnicos y formales que acrediten el cumplimiento de los requisitos de otorgamiento de los respectivos permisos y pronunciamientos ambientales sectoriales, según lo dispuesto en el Título VII de este Reglamento, incluyendo indicadores de cumplimiento, si corresponde.
 
-la normativa ambiental, incluyendo indicadores de
-
-cumplimiento;
-
-- El listado de los permisos y pronunciamientos
-
-ambientales sectoriales aplicables al proyecto o
-
-actividad;
-
-- Los contenidos técnicos y formales que acrediten
-
-el cumplimiento de los requisitos de otorgamiento
-
-de los respectivos permisos y pronunciamientos
-
-ambientales sectoriales, según lo dispuesto en el
-
-## Título VII — de este Reglamento, incluyendo
-
-indicadores de cumplimiento, si corresponde.
-
-d) La descripción del contenido de aquellos compromisos ambientales voluntarios, no exigidos por la legislación vigente, que el titular del proyecto o actividad contemple realizar, con la indicación precisa del lugar y momento en que se verificarán, así como los indicadores de cumplimiento, si corresponde. Entre dichos compromisos, se podrá considerar los que se hacen cargo de los impactos no significativos y los asociados a verificar que no se generan impactos significativos.
+d) La descripción del contenido de aquellos compromisos ambientales voluntarios, no exigidos por la legislación vigente, que el titular del proyecto o actividad contemple realizar, con la indicación precisa del lugar y momento en que se verificarán, así como los indicadores de cumplimiento, si corresponde. Entre dichos compromisos, se podrá considerar los que se hacen cargo de los impactos no significativos, los relacionados a las emisiones de gases de efecto invernadero y los forzantes climáticos y los asociados a verificar que no se generan impactos significativos.
 
 e) El compromiso de someterse a un proceso de evaluación y certificación de conformidad de la Resolución de Calificación Ambiental, en el caso de los artículos 18 ter y 18 quáter de la Ley. Una entidad certificadora de conformidad deberá suscribir la Declaración, sólo en lo relativo a lo señalado en las letras
 
@@ -1899,6 +1075,8 @@ f) Una ficha en la cual se resumen, para cada fase del proyecto o actividad, los
 Cada vez que, como consecuencia de la presentación de la Adenda, se aclare, rectifique o amplíe el contenido de la Declaración de Impacto Ambiental, se deberá anexar a dicha Adenda la actualización de las fichas que corresponda.
 
 g) El listado de los nombres de las personas que participaron en la elaboración de la Declaración de Impacto Ambiental, incluyendo sus profesiones e indicando las funciones y tareas específicas que desarrollaron.
+
+h) Un resumen de la Declaración de Impacto Ambiental que no exceda de veinte páginas y que contenga los antecedentes básicos de las letras a), b), c), d) y e) del presente artículo. El resumen de la Declaración de Impacto Ambiental deberá ser autosuficiente y estar redactado en un lenguaje sencillo, directo y de fácil compresión para el público.
 
 Tratándose de una modificación a un proyecto o actividad en ejecución, los antecedentes presentados que se señalan en los literales del presente artículo, deberán considerar la situación del proyecto o actividad, y su medio ambiente, previa a su modificación.
 
@@ -1924,11 +1102,11 @@ El procedimiento de evaluación de impacto ambiental y los actos administrativos
 
 Sin perjuicio de lo anterior, no se considerarán faltas u omisiones del titular aquellas actuaciones que por fallas del medio electrónico no puedan ejecutarse o acreditarse oportunamente dentro del procedimiento, debiendo adoptarse las medidas necesarias por el Servicio para solucionar prontamente dichas fallas sin perjuicio para el titular.
 
-Se entenderá que el titular de un proyecto o actividad acepta la utilización de técnicas y medios electrónicos en todas las actuaciones del procedimiento que le afecten, desde que ingrese su Estudio o Declaración de Impacto Ambiental, salvo que expresamente solicite lo contrario y así lo indique en la presentación de dicho Estudio o Declaración.
+Se entenderá que el titular de un proyecto o actividad acepta la utilización de técnicas y medios electrónicos en todas las actuaciones del procedimiento que le afecten, desde que ingrese su Estudio o Declaración de Impacto Ambiental, incluyendo los recursos administrativos correspondientes, salvo que expresamente solicite lo contrario y así lo indique en la presentación de dicho Estudio o Declaración.
 
 Si la presentación no se efectúa por medios electrónicos y el titular no solicita expresamente que la tramitación no sea electrónica, se le requerirá para que dentro de cinco días suscriba su presentación mediante firma electrónica. En caso que no lo efectúe, el respectivo Estudio o Declaración se entenderá como no ingresado.
 
-Las observaciones que formularen las organizaciones ciudadanas y personas naturales a que se refieren los artículos 29 y 30 bis de la Ley, podrán expresarse a través de medios electrónicos, conforme a las normas generales. Para tales efectos, en la presentación que realicen las personas naturales o jurídicas, de conformidad a las normas precitadas, deberán indicar expresamente una dirección de correo electrónico para efectos de su notificación.
+Las observaciones que formularen las organizaciones ciudadanas y personas naturales a que se refieren los artículos 29 y 30 bis de la Ley, podrán expresarse a través de medios electrónicos, conforme a las normas generales. Para tales efectos, en la presentación que realicen las personas naturales o jurídicas, de conformidad a las normas precitadas, deberán indicar expresamente una dirección de correo electrónico, el que se considerará para efectos de su notificación en el procedimiento de evaluación y recursos administrativos si es que hubiese.
 
 Los proponentes sujetos al procedimiento electrónico deberán operar íntegramente sobre la base de firma electrónica, de conformidad a lo señalado en la Ley Nº 19.799 y su Reglamento. Asimismo, el titular deberá indicar en su presentación, expresamente, una dirección de correo electrónico para efectos de su notificación.
 
@@ -1938,7 +1116,9 @@ El expediente de evaluación ambiental.
 
 La evaluación de impacto ambiental del proyecto o actividad dará origen a un expediente físico o electrónico, de acuerdo a lo señalado en el artículo anterior, que contendrá todos los documentos o piezas que guarden relación directa con la evaluación de impacto ambiental del proyecto o actividad.
 
-Los documentos o piezas antes señalados, debidamente foliados, se agregarán al expediente con expresión de la fecha y hora de su recepción, respetando su orden de ingreso. Las actuaciones y documentos que la Comisión de Evaluación, el Director Ejecutivo u otra autoridad o funcionario del Servicio remitan a los interesados, a terceros o a otros órganos públicos y las notificaciones y comunicaciones a que éstas den lugar con expresión de la fecha y hora de su envío, se agregarán en estricto orden de ocurrencia o egreso.
+Cuando el procedimiento sea electrónico, y con la finalidad de mantener un correcto orden del expediente, los documentos o piezas antes señalados, serán foliados en forma electrónica, numerando cada documento, pieza o archivo, según corresponda. Cada pieza o documento se agregará al expediente con expresión de la fecha, respetando su orden de ingreso.
+
+Cuando exista un expediente electrónico, y corresponda remitir los antecedentes a otro organismo público o privado, el Servicio deberá remitirle los antecedentes haciendo referencia a la plataforma electrónica de acceso público en la cual se encuentra el expediente respectivo, sin necesidad de remitir copia física o nueva copia electrónica del mismo, entendiéndose que éste corresponde al expediente original.
 
 Quedarán exceptuados de ingresar al expediente aquellos documentos o piezas que por su naturaleza no puedan agregarse, o aquellos que tengan el carácter de reservados en conformidad al artículo siguiente, los que deberán archivarse en forma separada en las oficinas del Director Regional o Director Ejecutivo del Servicio, según corresponda. De dicho archivo deberá quedar constancia en el expediente.
 
@@ -2028,7 +1208,7 @@ En caso que el titular del proyecto o actividad haya solicitado expresamente que
 
 En tal caso, el titular deberá asimismo acompañar un número suficiente de ejemplares del Estudio o de la Declaración de Impacto Ambiental, según sea el caso, para su distribución a los órganos de la Administración del Estado con competencia ambiental que participarán de la evaluación, el Gobierno Regional, el Municipio, la autoridad marítima competente, y para los requerimientos de la participación de la comunidad, cuando corresponda.
 
-En caso de tramitación electrónica, el titular sólo deberá acompañar el número de copias necesarias para los requerimientos de la participación ciudadana cuando corresponda realizarla, el que equivaldrá al total de Municipalidades y Gobiernos Regionales en cuyos territorios se realizarán las obras materiales que contemple el proyecto o actividad, así como de Direcciones Regionales y Dirección Ejecutiva del Servicio, según corresponda.
+En caso de tramitación electrónica, el titular sólo deberá acompañar, a través de los medios más idóneos y efectivos para la comunidad, el número de copias necesarias, sean estas físicas o digitales, para los requerimientos de la participación ciudadana cuando corresponda realizarla, el que equivaldrá al total de Municipalidades y Gobiernos Regionales en cuyos territorios se realizarán las obras materiales que contemple el proyecto o actividad, así como de Direcciones Regionales y Dirección Ejecutiva del Servicio, según corresponda.
 
 #### Artículo 30
 
@@ -2076,15 +1256,19 @@ Pronunciamientos sobre compatibilidad territorial.
 
 Dentro del plazo señalado en los artículos 35 y 47 de este Reglamento, según corresponda, el Gobierno Regional, las Municipalidades respectivas y la autoridad marítima competente, según corresponda, deberán emitir un informe fundado sobre la compatibilidad territorial del proyecto o actividad presentado.
 
-Los órganos señalados deberán emitir su informe sólo sobre la base de instrumentos de ordenación del territorio que se encuentren vigentes y respecto de los cuales sean competentes.
+Los órganos señalados deberán emitir su informe sólo sobre la base de instrumentos de planificación y ordenamiento territorial que se encuentren vigentes y respecto de los cuales sean competentes.
 
 #### Artículo 34
 
-Pronunciamientos sobre políticas, planes y programas de desarrollo regional y planes de desarrollo comunal
+Pronunciamientos sobre políticas, planes y programas de desarrollo regional y planes de desarrollo comunal e instrumentos de gestión del cambio climático.
 
 Dentro del plazo señalado en los artículos 35 y 47 de este Reglamento, según corresponda, el Gobierno Regional y las Municipalidades respectivas deberán informar fundadamente si el proyecto o actividad se relaciona con las políticas, planes y programas de desarrollo regional, elaborados en conformidad a lo dispuesto en la Ley Orgánica Constitucional de Gobierno y Administración Regional, y con los planes de desarrollo comunal, elaborados de acuerdo a lo dispuesto en Ley Orgánica Constitucional de Municipalidades, respectivamente, que hayan sido previamente aprobados y que se encuentren vigentes.
 
+En la misma oportunidad establecida en el inciso anterior, los órganos de la administración del Estado competentes deberán informar fundadamente si el proyecto o actividad se relaciona con los instrumentos de gestión del cambio climático para el área de influencia definida; en particular, los planes sectoriales de mitigación y adaptación, los planes de acción regionales y comunales de cambio climático, los planes estratégicos de recursos hídricos en cuenca, y los planes sectoriales para la gestión del riesgo de desastres, que se encuentren vigentes.
+
 Para tal efecto, se deberá considerar si la tipología del proyecto o actividad se encuentra establecida en alguna de las definiciones estratégicas, objetivos generales u objetivos específicos de los referidos instrumentos. Asimismo, se deberá considerar si dichas definiciones y objetivos se ven favorecidos o perjudicados por el proyecto.
+
+Adicionalmente, respecto a los instrumentos de gestión del cambio climático, se deberá revisar si el diseño del proyecto o actividad, y sus medidas y compromisos ambientales voluntarios, son compatibles con los objetivos, metas y medidas establecidas en dichos instrumentos.
 
 ### Párrafo 3º
 
@@ -2656,13 +1840,15 @@ El titular deberá informar a la Superintendencia la realización de la gestión
 
 #### Artículo 74
 
-Revisión de la Resolución de Calificación Ambiental.
+La Resolución de Calificación Ambiental de una Declaración o Estudio de Impacto Ambiental, podrá ser revisada por el Servicio, excepcionalmente, de oficio o a petición del titular, del directamente afectado o de la Superintendencia del Medio Ambiente. Lo anterior procederá cuando, ejecutándose el proyecto, las variables evaluadas y contempladas en el plan de seguimiento o monitoreo, de cualquier clase, sobre las cuales fueron establecidas las condiciones, medidas, exigencias, acciones de control o compromisos ambientales voluntarios, hayan variado sustantivamente en relación a lo proyectado, no se hayan verificado o verificándose algún impacto calificado como no significativo se haya vuelto significativo, todo ello con el objeto de adoptar las medidas necesarias para corregir dichas situaciones. La revisión a la que se refiere este inciso también procederá cuando la variación sustantiva se verifique con ocasión del cambio climático.
 
-La Resolución de Calificación Ambiental podrá ser revisada, excepcionalmente, de oficio o a petición del titular o del directamente afectado, cuando ejecutándose el proyecto o actividad, las variables evaluadas y contempladas en el plan de seguimiento sobre las cuales fueron establecidas las condiciones o medidas, hayan variado sustantivamente en relación a lo proyectado o no se hayan verificado, todo ello con el objeto de adoptar las medidas necesarias para corregir dichas situaciones.
+Cuando el procedimiento se inicie a petición del titular o del directamente afectado en cualquiera de los supuestos que habilitan su procedencia, se deberán observar los requisitos formales del inicio del procedimiento a solicitud de parte, conforme al artículo 30 de la ley N° 19.880.
 
-Con tal finalidad se deberá instruir un procedimiento administrativo que se inicie con la notificación al titular de la concurrencia de los requisitos y considere la audiencia del interesado, la solicitud de informe a los órganos de la Administración del Estado que participaron de la evaluación y la información pública del proceso, de conformidad a lo señalado en el artículo 39 de la Ley Nº 19.880.
+Con tal finalidad, se deberá instruir un procedimiento administrativo que se inicie con la notificación al titular de la concurrencia de los requisitos formales y considere la audiencia del interesado, la solicitud de informe a los órganos de la Administración del Estado que participaron de la evaluación y la información pública del proceso, de conformidad a lo señalado en el artículo 39 de la Ley Nº 19.880. El procedimiento se tramitará conforme a las normas del procedimiento administrativo electrónico. Corresponderá al Servicio de Evaluación Ambiental dictar todos los actos de mero trámite asociados a este procedimiento.
 
 El acto administrativo que realice la revisión podrá ser reclamado de conformidad a lo señalado en el artículo 20 de la Ley.
+
+> **Nota.** El artículo segundo del Decreto 30, Medio Ambiente, publicado el 01.02.2024 indica que las disposiciones contenidas en el numeral 13 del artículo primero de la citada norma, que modifican este artículo, serán aplicables solo a las Declaraciones de Impacto Ambiental cuya fecha de ingreso al Sistema de Evaluación de Impacto Ambiental sea posterior a la publicación de la norma referenciada.
 
 #### Artículo 75
 
@@ -2758,27 +1944,35 @@ Objetivos de la participación.
 
 La participación ciudadana comprende los derechos a acceder y conocer el expediente físico o electrónico de la evaluación, formular observaciones y obtener respuesta fundada de ellas.
 
+Para garantizar tales derechos el Servicio podrá instruir o adoptar las medidas de gestión y coordinación necesarias en el marco de la participación ciudadana, en concordancia con los principios, derechos y disposiciones establecidos en el Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe.
+
 #### Artículo 83
 
-Obligaciones del Servicio.
+Obligaciones y facultades del Servicio.
 
 Corresponderá a las Comisiones de Evaluación o al Director Ejecutivo, según sea el caso, establecer los mecanismos que aseguren la participación informada de la comunidad en el proceso de calificación de los Estudios de Impacto Ambiental y de las Declaraciones, cuando corresponda.
 
-Para la implementación de los mecanismos a que se refiere este Título, el Servicio podrá solicitar la colaboración de los órganos de la administración del Estado con competencia ambiental o con competencia en materia de desarrollo comunitario, social o indígena y/o de participación ciudadana.
+Para la implementación de los mecanismos a que se refiere este Título, el Servicio, en cumplimiento de su deber de fomentar y facilitar la participación ciudadana, podrá solicitar la colaboración de los órganos de la administración del Estado con competencia ambiental o con competencia en materia de desarrollo comunitario, social o indígena y/o de participación ciudadana.
 
-Una vez acogido a trámite un Estudio o Declaración, según corresponda, y en los casos de los artículos 92 y 96, el Servicio deberá realizar actividades de información a la comunidad, adecuando las estrategias de participación ciudadana a las características sociales, económicas, culturales y geográficas de la población del área de influencia del proyecto en evaluación, con la finalidad de que ésta conozca el procedimiento de evaluación ambiental, los derechos de los cuales disponen durante él, el tipo de proyecto o actividad en evaluación que genera la participación y los principales efectos de dicha tipología. Asimismo, el Servicio propiciará la instancia de encuentro entre el titular y la comunidad, con el objeto que ésta se informe sobre las particularidades del proyecto o actividad. Estas actividades deberán realizarse oportunamente en un lenguaje sencillo, directo y de fácil comprensión para la comunidad. De estas actividades deberá quedar constancia en el expediente.
+Adicionalmente, el Servicio podrá requerir a los titulares de proyectos o actividades sometidos a evaluación, la forma de presentar y distribuir la información necesaria para la realización del proceso de participación ciudadana, así como realizar cualquier otra acción necesaria para este fin.
+
+Una vez acogido a trámite un Estudio o Declaración, según corresponda, y en los casos de los artículos 92 y 96, el Servicio deberá realizar actividades de información a la comunidad, adecuando las estrategias de participación ciudadana a las características de género, sociales, económicas, culturales y geográficas de la población del área de influencia del proyecto en evaluación, con la finalidad de que ésta conozca el procedimiento de evaluación ambiental, los derechos de los cuales disponen durante él, el tipo de proyecto o actividad en evaluación que genera la participación y los principales efectos de dicha tipología. Asimismo, el Servicio deberá implementar la instancia de encuentro entre el titular y la comunidad, con el objeto que ésta se informe sobre las particularidades del proyecto o actividad. Estas actividades deberán realizarse oportunamente en un lenguaje sencillo, directo y de fácil comprensión para la comunidad. De estas actividades deberá quedar constancia en el expediente.
 
 Todas las observaciones ciudadanas que sean admisibles deberán ser consideradas como parte del proceso de calificación ambiental y el Servicio deberá hacerse cargo de ellas, pronunciándose fundadamente en su resolución. Dicho pronunciamiento se incorporará en el Informe Consolidado de Evaluación, a fin de dar cumplimiento a lo dispuesto en el inciso 3° del artículo 29 de la Ley.
 
 En el caso de las personas naturales, serán admisibles aquellas observaciones en que esté debidamente señalado el nombre, RUT y domicilio o correo electrónico, según corresponda, de quien la formula. Para la admisibilidad de las observaciones de las personas jurídicas, se requerirá además que estas sean realizadas por su representante legal, lo que deberá acreditarse debidamente.
 
+Además, el Servicio deberá notificar, mediante correo electrónico, a organizaciones de la sociedad civil, considerando a las juntas de vecinos y organizaciones territoriales registradas en la Municipalidad o Municipalidades respectivas y al Gobierno o Gobiernos Regionales correspondientes, de la realización de la actividad; entregar la información presentada sobre el proyecto por medios idóneos y efectivos para la comunidad, sean estos escritos o electrónicos; y facilitar la realización de observaciones ciudadanas en caso que el proceso de participación ciudadana se encuentre en curso en el procedimiento de evaluación.
+
 #### Artículo 84
 
 Obligaciones de los titulares.
 
-La Comisión de Evaluación o el Director Ejecutivo, en su caso, para asegurar la participación informada de la comunidad en el proceso de evaluación ambiental, una vez realizadas las actividades mencionadas en el inciso tercero del artículo anterior, podrá solicitar al titular informar a la comunidad sobre las características del proyecto o actividad, sus impactos, las medidas propuestas para mitigarlos, repararlos y compensarlos, cuando corresponda, así como cualquiera otra medida de carácter ambiental que se proponga.
+La Comisión de Evaluación o el Director Ejecutivo, en su caso, para asegurar la participación informada de la comunidad en el proceso de evaluación ambiental, una vez realizadas las actividades mencionadas en el inciso cuarto del artículo anterior, solicitará al titular informar a la comunidad sobre las características del proyecto o actividad, sus impactos, las medidas propuestas para mitigarlos, repararlos y compensarlos, cuando corresponda, así como cualquiera otra medida de carácter ambiental que se proponga.
 
-Estas actividades deberán realizarse oportunamente en un lenguaje sencillo, directo y de fácil comprensión para la comunidad. En ellas la información a entregar debe considerar las características sociales, económicas, culturales y geográficas de la población del área de influencia del proyecto en evaluación. De éstas deberá quedar constancia en el expediente respectivo.
+Estas actividades deberán realizarse oportunamente en un lenguaje sencillo, directo y de fácil comprensión para la comunidad. En ellas la información a entregar debe considerar las características de género, sociales, económicas, culturales y geográficas de la población del área de influencia del proyecto en evaluación. Además, el titular deberá entregar la información presentada sobre el proyecto por medios idóneos y efectivos para la comunidad, ya sea de forma escrita, visual, sonora, electrónica o registrada en cualquier otro formato. De estas reuniones deberá quedar constancia en el expediente respectivo.
+
+Adicionalmente, el titular deberá acompañar y distribuir las copias necesarias referidas en el artículo 29 para los requerimientos de la participación ciudadana, incluyendo los supuestos de los artículos 92 y 96 del presente Reglamento.
 
 En el evento de existir acuerdos entre el proponente y la comunidad durante el proceso de evaluación, éstos deberán ser informados en los términos del artículo 17 inciso segundo de este Reglamento.
 
@@ -2852,9 +2046,11 @@ f) Indicación de las instituciones o lugares, incluyendo dirección y horarios 
 
 g) Indicación de las materias sobre las cuales se solicita la reserva de información a que se refiere el artículo 27 de la Ley, en el caso que dicha solicitud se hubiere presentado.
 
+Dentro del mismo plazo y con los antecedentes señalados en el inciso anterior, el titular deberá instalar uno o más carteles informativos, dependiendo de la cantidad de obras y faenas, en el sitio donde se ubicará el proyecto o actividad. Dichos carteles deberán estar ubicados en lugares visibles para la comunidad y en un tamaño y formato que facilite su lectura. El titular será responsable de que el o los carteles informativos contemplados en este inciso se conserven durante toda la evaluación del proyecto o actividad.
+
 Dicho extracto debe señalar expresamente que ha sido visado.
 
-Una vez publicado el extracto a que se refiere este artículo, el titular del proyecto o actividad remitirá un ejemplar o copia autorizada del diario o periódico de la capital de la región o de circulación nacional donde se hubiere realizado la publicación, para que sea incorporado al expediente.
+Una vez publicado el extracto a que se refiere este artículo, el titular del proyecto o actividad remitirá un ejemplar o copia autorizada del diario o periódico de la capital de la región o de circulación nacional donde se hubiere realizado la publicación y fotografías correspondientes a la instalación de carteles en la ubicación del proyecto, para que sean incorporados al expediente.
 
 #### Artículo 89
 
@@ -2924,6 +2120,8 @@ Una copia del listado a que se refiere este artículo se remitirá a las municip
 
 Para su adecuada publicidad, una copia de dicho listado se exhibirá en un lugar de acceso público, tanto en la Dirección Regional respectiva o del Director Ejecutivo del Servicio, según sea el caso, como en las municipalidades que corresponda.
 
+Asimismo, el titular deberá instalar uno o más carteles informativos en el sitio donde se ubicará el proyecto o actividad. Los contenidos, oportunidad y requisitos de esta obligación serán los establecidos en el artículo 88 inciso segundo, señalando la fecha hasta la cual se podrá solicitar la apertura de un proceso de participación ciudadana, conforme lo establecido en el artículo 94 inciso tercero.
+
 #### Artículo 94
 
 Derecho a la participación.
@@ -2932,17 +2130,15 @@ Las personas podrán conocer el contenido de la Declaración de Impacto Ambienta
 
 Los interesados en acceder al contenido de la Declaración de Impacto Ambiental podrán solicitar, a su costa, reproducciones parciales o totales, la que podrá ser entregada en medios magnéticos o electrónicos.
 
-Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos o actividades que generen cargas ambientales para las comunidades próximas, entendiendo por éstas, aquellas ubicadas en el área donde se manifiestan los impactos ambientales del proyecto. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de diez días, contado desde la publicación en el Diario Oficial del proyecto o actividad sometido a Declaración de Impacto Ambiental de que se trate.
+Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos o actividades que generen cargas ambientales para las comunidades próximas, entendiendo por éstas, aquellas que se ubican o hacen uso del área donde se manifiestan los impactos. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de treinta días, contado desde la publicación en el Diario Oficial del proyecto o actividad sometido a Declaración de Impacto Ambiental de que se trate.
 
-La resolución que decrete la realización del proceso indicado en el inciso anterior se notificará mediante la publicación de un aviso en el Diario Oficial y en un diario o periódico de la capital de la región o de circulación nacional, según corresponda.
+La resolución que decrete la realización del proceso indicado en el inciso anterior se notificará mediante la publicación de un aviso en el Diario Oficial y en un diario o periódico de la capital de la región o de circulación nacional, según corresponda, a costa del titular.
 
 Tratándose de los proyectos o actividades sometidos a evaluación de conformidad de acuerdo a lo establecido en el artículo 18 ter de la ley y del artículo 68 del Reglamento, el plazo para la realización del proceso de participación ciudadana será de diez días.
 
-Se entenderá que provocan cargas ambientales aquellos proyectos o actividades que generan beneficios sociales y que ocasionan externalidades ambientales negativas en localidades próximas durante su construcción u operación.
+Se entenderá que provocan cargas ambientales aquellos proyectos o actividades que generan beneficios sociales y que ocasionan externalidades ambientales negativas para las comunidades próximas durante su construcción, operación o cierre.
 
-Se considera que generan cargas ambientales los proyectos o actividades cuyas tipologías correspondan a las letras a.1, b), c), d), e), f), j) y o) del artículo 3 de este Reglamento o que contengan partes, obras o acciones a las que apliquen dichas tipologías, así como cualquier otro proyecto o actividad cuyo objetivo consista en satisfacer necesidades básicas de la comunidad, tales como proyectos de saneamiento, agua potable, energía, entre otros.
-
-Las Declaraciones de Impacto Ambiental para los proyectos o actividades señalados en el inciso anterior deberán ser ingresadas hasta el día dieciocho (18) de cada mes. Si se ingresaren antes, se entenderán ingresadas el día dieciocho (18) del mes correspondiente, o el día hábil anterior. Si se ingresaren con posterioridad, se entenderán ingresadas el día dieciocho (18) o el día hábil anterior del mes posterior al de su presentación.
+Se considera que generan beneficios sociales aquellos proyectos o actividades o sus modificaciones que, como consecuencia de su construcción, operación o cierre, satisfacen alguna necesidad de la comunidad o reportan utilidad o provecho para las personas. Por su parte, se considera que generan externalidades negativas aquellos proyectos o actividades que generan impactos, afectaciones o alteraciones ambientales que afectan el bienestar social, las condiciones de vida de las comunidades próximas o a los ecosistemas.
 
 #### Artículo 95
 
@@ -2954,7 +2150,7 @@ Si se realiza un procedimiento de participación ciudadana, decretado de conform
 
 Derecho a participar cuando existan modificaciones sustantivas a la Declaración.
 
-Si durante el procedimiento de evaluación de la Declaración de Impacto Ambiental, que ha tenido participación ciudadana de conformidad a lo señalado en el artículo 94, ésta hubiese sido objeto de aclaraciones, rectificaciones o ampliaciones de conformidad a lo señalado en los artículos 50 y 51 de este Reglamento, y estas modifican sustantivamente el proyecto o actividad o los impactos ambientales que esta genera o presenta, la Comisión de Evaluación o el Director Ejecutivo , según corresponda, deberá abrir de oficio una nueva etapa de participación ciudadana, esta vez por diez días, período en el cual se suspenderá de pleno derecho el plazo de tramitación de la Declaración de Impacto Ambiental.
+Si durante el procedimiento de evaluación de la Declaración de Impacto Ambiental, que ha tenido participación ciudadana de conformidad a lo señalado en el artículo 94, ésta hubiese sido objeto de aclaraciones, rectificaciones o ampliaciones de conformidad a lo señalado en los artículos 50 y 51 de este Reglamento, y estas modifican sustantivamente el proyecto o actividad o los impactos ambientales que esta genera o presenta, la Comisión de Evaluación o el Director Ejecutivo , según corresponda, deberá abrir de oficio una nueva etapa de participación ciudadana, esta vez por diez días, período en el cual se suspenderá de pleno derecho el plazo de tramitación de la Declaración de Impacto Ambiental. Este plazo de diez días podrá ser ampliado por el Servicio por un máximo de cinco días, previa solicitud fundada, por escrito, de uno o más observantes de participación ciudadana.
 
 En tal caso el proponente deberá publicar los contenidos señalados en el artículo 93 del presente Reglamento, sólo con fines de publicidad, debiendo individualizarse claramente el contenido de las aclaraciones, rectificaciones y ampliaciones.
 
@@ -2982,7 +2178,7 @@ b) Plan de Medidas de Reparación Ambiental.
 
 c) Plan de Medidas de Compensación Ambiental.
 
-El Plan deberá contener para cada fase del proyecto o actividad la indicación del componente ambiental; el impacto ambiental asociado; el tipo de medida; nombre, objetivo, descripción y justificación de la medida correspondiente; lugar, forma y oportunidad de implementación; y el indicador de cumplimiento.
+El Plan deberá contener para cada fase del proyecto o actividad la indicación del componente ambiental; el impacto ambiental asociado; el tipo de medida; nombre, objetivo, descripción y justificación de la medida correspondiente, considerando la adaptación al cambio climático; lugar, forma y oportunidad de implementación; y el indicador de cumplimiento.
 
 El solo cumplimiento de la normativa ambiental aplicable no constituirá necesariamente una medida de mitigación, reparación o compensación.
 
@@ -3028,7 +2224,7 @@ Del Plan de Prevención de Contingencias y del Plan de Emergencias.
 
 Procedencia de estos planes.
 
-Si de la descripción del proyecto o actividad o de las características de su lugar de emplazamiento, se deducen eventuales situaciones de riesgo al medio ambiente, el titular deberá proponer un plan de prevención de contingencias y un plan de emergencias.
+Si de la descripción del proyecto o actividad o de las características de su lugar de emplazamiento, se deducen eventuales situaciones de riesgo al medio ambiente o al proyecto o actividad, el titular deberá proponer un plan de prevención de contingencias y un plan de emergencias, considerando los efectos adversos del cambio climático y especialmente su efecto en el aumento de la vulnerabilidad y exposición de los ecosistemas y las comunidades humanas.
 
 #### Artículo 103
 
@@ -3048,11 +2244,13 @@ Del Plan de Seguimiento de las variables ambientales.
 
 #### Artículo 105
 
-Plan de seguimiento de las variables ambientales.
+Plan de seguimiento de las variables ambientales de las declaraciones y estudios.
 
-El Plan de Seguimiento de las Variables Ambientales tiene por finalidad asegurar que las variables ambientales relevantes que fueron objeto de evaluación ambiental, evolucionan según lo proyectado.
+El Plan de Seguimiento de las Variables Ambientales tiene por finalidad asegurar que las variables ambientales relevantes que fueron objeto de evaluación ambiental, evolucionan según lo proyectado, considerando el cambio climático.
 
 Dicho plan deberá ser elaborado de conformidad a las instrucciones generales que dicte la Superintendencia y deberá contener, cuando sea procedente, para cada fase del proyecto o actividad, el componente del medio ambiente que será objeto de medición y control; el impacto ambiental y la medida asociada; la ubicación de los puntos de control; los parámetros que serán utilizados para caracterizar el estado y evolución de dicho componente; los límites permitidos o comprometidos; la duración y frecuencia del plan de seguimiento para cada parámetro; el método o procedimiento de medición de cada parámetro; el plazo y frecuencia de entrega de los informes con la evaluación de los resultados y cualquier otro aspecto relevante.
+
+En caso de corresponder, el proponente deberá incorporar en el plan las medidas, condiciones, exigencias, y/o acciones de control que se adoptarán para verificar que no se generen impactos significativos.
 
 ### Párrafo 4º
 
@@ -4540,7 +3738,7 @@ TITULO FINAL
 
 Notificaciones.
 
-Las notificaciones que se practiquen por carta certificada serán dirigidas al domicilio indicado en la primera presentación o solicitud que haya efectuado el interesado, dejándose constancia de su despacho mediante la agregación en el expediente del correspondiente recibo de correos.
+Las notificaciones que se realicen durante el procedimiento de evaluación ambiental, y hasta que se resuelvan los recursos administrativos pertinentes, que se practiquen por carta certificada serán dirigidas al domicilio indicado en la primera presentación o solicitud que haya efectuado el interesado, dejándose constancia de su despacho mediante la agregación en el expediente del correspondiente recibo de correos.
 
 En el caso de los proponentes que no hubiesen expresado voluntad de excluirse del procedimiento electrónico, así como de las personas naturales o jurídicas que hubieren formulado observaciones ciudadanas por medios electrónicos, de conformidad a lo señalado en los artículo 29 y 30 bis de la ley, serán notificadas en la dirección de correo electrónico que hubieren indicado al momento de realizar su presentación, entendiéndose notificados al día siguiente del envío. El registro de las notificaciones deberá sujetarse a lo dispuesto en el decreto supremo Nº 14, de 2014, del Ministerio de Economía, Fomento y Turismo, o la norma que lo reemplace.
 
