@@ -88,15 +88,15 @@ Segundo: Déjese establecido que esta subrogación regirá para todas las region
 
 ### VI. Región del Biobío, cuyo orden de subrogación será el siguiente:
 
-1) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
+1) Director(a) Regional del Trabajo.
 
-2) Administrador(a) Regional de la Dirección General de Crédito Prendario, Dicrep.
+2) Director(a) Regional del Instituto de Seguridad Laboral, ISL.
 
-3) Director(a) Regional del Trabajo.
+3) Director(a) Regional Instituto de Previsión Social, IPS.
 
-4) Director(a) Regional Instituto de Previsión Social, IPS.
+4) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, Sence.
 
-5) Director(a) Regional del Servicio Nacional de Capacitación y Empleo, Sence.
+5) Administrador(a) Regional de la Dirección General de Crédito Prendario, Dicrep.
 
 ### VII. Región de Ñuble, cuyo orden de subrogación será el siguiente:
 
