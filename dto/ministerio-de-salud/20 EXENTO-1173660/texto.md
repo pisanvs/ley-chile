@@ -398,9 +398,13 @@ Etapa de definición del ICSA
 
 #### Artículo 18
 
-Definición del indicador. Como resultado de las etapas previas, el Indicador de la variación del Costo de la Salud (ICSA) se obtendrá del promedio ponderado de la variación porcentual del costo en prestaciones de salud MLE de las Isapres, ajustado por la variación porcentual del costo en prestaciones de salud MLE de Fonasa, y la variación porcentual promedio del gasto en SIL en Isapres.
+Como resultado de las etapas previas, el Indicador de la variación del Costo de la Salud (ICSA) se obtendrá del promedio ponderado de la variación porcentual del costo en prestaciones de salud MLE de las Isapres y la variación porcentual promedio del gasto en SIL en Isapres.
 
-Los ponderadores se estimarán con base en la representación que tengan el costo en prestaciones y el gasto en SIL sobre el total del costo operacional de Isapres. Es decir:
+Los ponderadores se estimarán con base en la representación que tengan el costo en prestaciones y el gasto en SIL sobre el total del costo operacional de las Isapres. Es decir:
+
+.
+
+En donde:
 
 .
 
