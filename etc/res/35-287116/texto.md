@@ -126,11 +126,11 @@ La Tarifa Metro Pensionado corresponderá a la Tarifa Escolar Superior y Media M
 
 d) Tarifa Integrada Adulto Mayor de 65 años o más:
 
-La Tarifa Integrada Adulto Mayor de 65 años o más corresponderá a la mitad de la Tarifa Buses Adulto vigente al 1° de noviembre de 2019. Esta Tarifa regirá para las personas de 65 años o más, y se aplicará en Buses, Metro y Tren Alameda-Nos, en período Valle, Baja y Punta, o en los períodos que los sustituyan, en forma ilimitada. El valor del trasbordo corresponderá a $0 (cero pesos), siempre y cuando no se hayan realizado más de dos trasbordos y que el tiempo entre la primera y la última validación no supere los 120 minutos.
+La Tarifa Integrada Adulto Mayor de 65 años o más corresponderá a la mitad de la Tarifa Buses Adulto. Esta Tarifa regirá para las personas de 65 años o más, y se aplicará en Buses, Metro y Tren Alameda-Nos, en período Valle, Baja y Punta, o en los períodos que los sustituyan, en forma ilimitada. El valor del trasbordo corresponderá a $0 (cero pesos), siempre y cuando no se hayan realizado más de dos trasbordos y que el tiempo entre la primera y la última validación no supere los 120 minutos.
 
 e) Tarifa Inteligente:
 
-La Tarifa Inteligente corresponde a las Tarifas Buses Adulto; Metro período Punta, Valle y Baja; y las tarifas Trenes período, Punta, Valle y Baja, pagadas exclusivamente con cuentas de transporte ABT (Código C2D o QR), las que tendrán un límite de cobro equivalente a $38.000 (treinta y ocho mil pesos) por mes calendario, el que será reajustado acorde al porcentaje que se establezca según lo dispuesto en el artículo 14 de la ley Nº 20.378. Los cobros por los viajes que se realicen una vez superado dicho monto corresponderán a $0 (cero pesos) hasta el último día del mes calendario.
+La Tarifa Inteligente corresponde a las Tarifas Buses Adulto; Metro período Punta, Valle y Baja; y las tarifas Trenes período, Punta, Valle y Baja, pagadas exclusivamente con cuentas de transporte ABT (Código C2D o QR), las que tendrán un límite de cobro equivalente a $39.000 (treinta y nueve mil pesos) por mes calendario, el que será reajustado acorde al porcentaje que se establezca según lo dispuesto en el artículo 14 de la ley Nº 20.378. Los cobros por los viajes que se realicen una vez superado dicho monto corresponderán a $0 (cero pesos) hasta el último día del mes calendario.
 
 Una cuenta ABT (Account Based Ticketing) corresponde al saldo de cuotas de transporte de una cuenta virtual enlazado a una cuenta de transporte ABT, la que tiene asociada a su vez, un usuario debidamente identificado y cuyo saldo se aloja en los Sistemas Centrales administrados por el Proveedor de Servicios Tecnológicos del Sistema de Transporte Público Metropolitano.
 
