@@ -10,45 +10,21 @@ Decreto:
 
 a) De alta complejidad, aquellos que realicen una o más de las siguientes prestaciones:
 
-1) Cultivo de tuberculosis (TBC), estudio de líquidos estériles, estudio de anaerobios;
+1) Cultivo tuberculosis (TBC) y estudios de anaerobios;
 
-2) Técnicas de biología molecular, tales como las técnicas de electroforesis o reacción de polimerasa en cadena (PCR);
+2) Determinaciones o estudios que se realicen a través de biología molecular instrumental y convencional, incluyendo las etapas de extracción y amplificación;
 
-3) Técnicas con inmunofluorescencia;
+3) Determinaciones de estudios genéticos;
 
-4) Estudios genéticos;
+4) Determinaciones realizadas a través de citometría de flujo exceptuando las utilizadas en autoanalizadores o contadores hematológicos;
 
-5) Técnicas con citometría de flujo;
+5) Determinación confirmatoria de drogas terapéuticas, estupefacientes y sustancias psicotrópicas;
 
-6) Estudios de factores de la coagulación específicos, tales como factor VII y VIII;
+6) Estudios Toxicológicos;
 
-7) Determinación de drogas terapéuticas, estupefacientes y sustancias sicotrópicas;
+7) Otras prestaciones especializadas tales como determinaciones asociadas a inmunoensayos con radioisótopos, cultivos celulares, espectrometría de masa, fluorometría, espectrometría de masas en tandem MS/MS, Delfia, entre otras.
 
-8) Estudios toxicológicos;
-
-9) Marcadores tumorales, tales como tropinas I, II, antígeno prostático libre (PSA libre), y
-
-10) Otras prestaciones especializadas, tales como la ejecución de técnicas de inmunohistoquímica o la criopreservación de la médula ósea.
-
-b) De mediana complejidad, aquellos que no realicen ninguna de las prestaciones señaladas en la letra a) anterior y que ejecuten una o más de las siguientes prestaciones:
-
-1) Estudios microbiológicos corrientes de todo tipo de muestras y baciloscopía;
-
-2) Determinaciones de química clínica, tales como perfil bioquímico, lipídico y hepático, enzimas cardíacas, electrolitos plasmáticos; gases sanguíneos;
-
-3) Estudio de coagulación completo con la excepción de factor VII y VIII, determinación de fibrinógeno; y productos de degradación de éste (PDF);
-
-4) Serología de VDRL, VIH (ELISA) y determinación de hepatitis A y B;
-
-5) Estudio con técnica de inmunofluorescencia para la detección de virus respiratorios y coqueluche;
-
-6) Estudio de hormonas tiroídeas, sexuales e insulina;
-
-7) Marcadores tumorales, tales como antígeno prostático específico (PSA), gonadotrofina coriónica, y
-
-8) Estudios de inmunología básica, tales como Factor Reumatoide y Proteína C Reactiva, determinación de inmunoglobulinas.
-
-c) De baja complejidad, aquellos que no se encuentren en alguna de las categorías anteriores.
+b) De baja complejidad, aquellos que no se encuentren en la categoría anterior.
 
 2º.- Para efectos de la determinación del arancel que corresponde pagar por sus procesos de acreditación a los servicios de imagenología, éstos se clasificarán en la siguiente forma:
 
