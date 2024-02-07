@@ -96,13 +96,13 @@ Reglamento. Un reglamento dictado por el Ministerio y suscrito por el Ministro d
 
 2. Los requisitos, criterios y procedimientos que deberán cumplir los pescadores artesanales y los acuicultores de pequeña escala cuando postulen de forma individual o como integrantes de una organización o persona jurídica a los programas o beneficios del Indespa.
 
-3. Los parámetros objetivos para identificar a los distintos segmentos de beneficiarios conforme a los cuales se establecerán los tipos de beneficios a los que accederán, pudiendo considerar, entre otros, el tipo de proyecto y sus características, el tipo de beneficiarios y su impacto en la actividad.
+3. Los parámetros objetivos para identificar a los distintos segmentos o género de los beneficiarios o las beneficiarias conforme a los cuales se establecerán los tipos de beneficios a los que accederán, pudiendo considerar, entre otros, el tipo de proyecto y sus características, el género de beneficiarios o beneficiarias y su impacto en la actividad.
 
 4. Los sistemas de control y evaluación que utilizará para excluir a los beneficiarios que no cumplan con sus obligaciones, de conformidad a lo señalado en el artículo 13.
 
 5. Los parámetros necesarios para considerar la diversidad local o regional de los beneficios y beneficiarios de las acciones del Instituto.
 
-Las bases de los programas o concursos deberán, de conformidad a esta ley y su reglamento, establecer las normas y reglas de la evaluación, selección y asignación de dichos programas. Asimismo, deberán contener las normas y criterios que permitan que dicha asignación se realice de manera imparcial, transparente y objetiva.
+Las bases de los programas o concursos deberán, de conformidad a esta ley y su reglamento, establecer las normas y reglas de la evaluación, selección y asignación de dichos programas. Asimismo, deberán contener las normas y criterios que permitan que dicha asignación se realice de manera imparcial, transparente y objetiva. Sin perjuicio de lo anterior, a fin de promover la inclusión y la equidad de género en las distintas etapas productivas del sector artesanal, las bases podrán contemplar un puntaje adicional en razón del género de las y los postulantes.
 
 #### Artículo 6
 
@@ -211,6 +211,8 @@ b) Los acuicultores de pequeña escala que, de conformidad a la ley, cuenten con
 c) Las organizaciones o personas jurídicas conformadas exclusivamente por pescadores artesanales o acuicultores de pequeña escala, legalmente constituidas. Los pescadores artesanales y los acuicultores de pequeña escala integrantes de organizaciones o personas jurídicas, deberán encontrarse inscritos en el registro pesquero artesanal o de acuicultura de pequeña escala, según corresponda.
 
 Para acceder al otorgamiento de beneficios por parte del Indespa, los pescadores artesanales y los acuicultores de pequeña escala, sea que postulen individualmente o como integrantes de una organización o persona jurídica, deberán cumplir con los requisitos, criterios y procedimientos que fije el reglamento señalado en el artículo 5 de esta ley.
+
+> **Nota.** El artículo único de la ley 21486, publicada el 17.09.2022, interpreta la letra c) del presente artículo, en el sentido de incluir dentro de las referidas organizaciones de pescadores artesanales, a las organizaciones de primer, segundo y tercer nivel, es decir, organizaciones de base, federaciones y confederaciones.
 
 #### Artículo 12
 

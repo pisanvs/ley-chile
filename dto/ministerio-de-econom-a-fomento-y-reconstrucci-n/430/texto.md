@@ -32,9 +32,9 @@ Lo dispuesto en los dos incisos anteriores se entenderá sin perjuicio de las di
 
 A.- Los recursos hidrobiológicos y sus ecosistemas están sometidos a la soberanía del Estado de Chile en las aguas terrestres, aguas interiores y mar territorial, así como a sus derechos de soberanía y jurisdicción en la Zona Económica Exclusiva y en la Plataforma Continental, de acuerdo a las normas de derecho internacional y a las de la presente ley.
 
-En conformidad a la soberanía, a los derechos de soberanía y a su jurisdicción a que se alude en el inciso anterior, el Estado de Chile tiene el derecho de regular la exploración, explotación, conservación y administración de los recursos hidrobiológicos y sus ecosistemas existentes en todos los espacios marítimos antes mencionados.
+En conformidad a la soberanía, a los derechos y el deber de soberanía y a su jurisdicción a que se alude en el inciso anterior, el Estado de Chile tiene el derecho de regular la exploración, explotación, conservación y administración de los recursos hidrobiológicos y sus ecosistemas existentes en todos los espacios marítimos antes mencionados.
 
-De acuerdo con lo dispuesto en los incisos anteriores, el Estado de Chile podrá autorizar la exploración y explotación de los antes mencionados recursos hidrobiológicos existentes en los espacios referidos, sujeto a las disposiciones de esta ley.
+De acuerdo con lo dispuesto en los incisos anteriores, el Estado de Chile podrá autorizar la exploración, explotación y conservación de los antes mencionados recursos hidrobiológicos existentes en los espacios referidos, sujeto a las disposiciones de esta ley.
 
 #### Artículo 1°
 
@@ -58,7 +58,7 @@ d) administrar los recursos pesqueros en forma transparente, responsable e inclu
 
 e) recopilar, verificar, informar y compartir en forma sistemática, oportuna, correcta y pública los datos sobre los recursos hidrobiológicos y sus ecosistemas.
 
-f) considerar el impacto de la pesca en las especies asociadas o dependientes y la preservación del medio ambiente acuático.
+f) considerar el impacto de la pesca en las especies asociadas o dependientes y la preservación del medio ambiente acuático y la afectación de los ecosistemas de recursos bentónicos.
 
 g) procurar evitar o eliminar la sobreexplotación y la capacidad de pesca excesiva.
 
@@ -69,6 +69,8 @@ i) minimizar el descarte tanto de la especie objetivo como de la fauna acompaña
 incidental.
 
 j) considerar la perspectiva de género y los efectos que de ella se generen respecto de los objetivos señalados en el artículo 1° D.
+
+k) procurar que exista la debida coordinación entre los diferentes órganos de la Administración del Estado con competencias en materias de seguridad y salud de la vida humana y laboral en el mar. Lo anterior, a fin de que su actividad se oriente permanentemente a velar por que el desempeño del personal embarcado y de las y los buzos se realice teniendo en consideración las normas de higiene y seguridad contempladas en la legislación vigente, a fin de disminuir la ocurrencia de accidentes del trabajo y enfermedades profesionales, y mejorar la pesquisa y reporte de estos siniestros y el acceso oportuno a las prestaciones de seguridad social respectivas.
 
 Cada cinco años se evaluará la eficacia e implementación de las medidas de conservación y administración.
 
@@ -86,7 +88,7 @@ Las autoridades, en especial las involucradas en la conformación de las instanc
 
 Para los efectos de esta ley se dará a las palabras que en seguida se definen, el significado que se expresa:
 
-1) Actividad pesquera extractiva: actividad pesquera que tiene por objeto capturar, cazar, segar o recolectar recursos hidrobiológicos. En este concepto no quedarán incluidas la acuicultura, la pesca de investigación y la deportiva.
+1) Actividad pesquera extractiva: actividad pesquera que tiene por objeto capturar, cazar, extraer, segar o recolectar recursos hidrobiológicos. En este concepto no quedarán incluidas la acuicultura, la pesca de investigación y la deportiva.
 
 2) Actividad pesquera de transformación: actividad pesquera que tiene por objeto la elaboración de productos provenientes de cualquier especie hidrobiológica, mediante el procesamiento total o parcial de capturas propias o ajenas obtenidas en la fase extractiva.
 
@@ -174,11 +176,11 @@ Un reglamento dictado por el Ministerio de Defensa Nacional, suscrito además po
 
 25) "Ministerio": el Ministerio de Economía, Fomento y Turismo, "Ministro": el titular de dicho Ministerio; "Subsecretaría": la de Pesca; "Subsecretario": el de Pesca; "Servicio": el Servicio Nacional de Pesca.
 
-25 bis) Organización de pescadores artesanales: persona jurídica, en los términos establecidos en el inciso segundo del número 28, inscrita en el Registro Artesanal, para los efectos establecidos en la presente ley.
+25 bis) Organización de pescadores y/o pescadoras artesanales: persona jurídica, en los términos establecidos en el inciso segundo del número 28, inscrita en el Registro Artesanal, para los efectos establecidos en la presente ley.
 
 26) Pequeño armador pesquero industrial: persona inscrita en el Registro Nacional Pesquero Industrial, que ejecuta una actividad pesquera extractiva utilizando hasta tres naves, de hasta 22,5 metros de eslora máxima y de hasta 100 toneladas de registro grueso cada una.
 
-26 bis) Observador científico: persona natural designada por la Subsecretaría de Pesca encargada de la observación y recopilación de datos a bordo de naves pesqueras, puntos de desembarque o en plantas de proceso, exclusivamente para la investigación con fines de conservación y administración de los recursos hidrobiológicos.
+26 bis) Observador científico: persona natural designada por la Subsecretaría de Pesca encargada de la observación y recopilación de datos a bordo de naves pesqueras, embarcaciones de transporte, puntos de desembarque o en plantas de proceso, exclusivamente para la investigación con fines de conservación y administración de los recursos hidrobiológicos.
 
 La recopilación de datos en ningún caso incluirá la individualización de las naves ni de los armadores, los cuales deberán ser codificados para estos efectos. En relación a los tratados internacionales pesqueros de los cuales Chile sea parte, la información del área regulada por ellos que corresponda a alta mar se entregará de conformidad con las disposiciones del respectivo instrumento internacional.
 
@@ -192,21 +194,23 @@ El observador científico no tendrá bajo ningún respecto el carácter de inspe
 
 28) Pesca artesanal: actividad pesquera extractiva realizada por personas naturales que, en forma personal, directa y habitual, trabajan como pescadores artesanales inscritos en el Registro Pesquero Artesanal, con o sin el empleo de una embarcación artesanal.
 
-Sin perjuicio de lo anterior, se considerará también como pesca artesanal la actividad pesquera extractiva realizada por personas jurídicas que estén compuestas exclusivamente por personas naturales inscritas como pescadores artesanales en los términos establecidos en esta ley. Esta excepción será aplicable sólo a armadores y a organizaciones de pescadores artesanales.
+Sin perjuicio de lo anterior, se considerará también como pesca artesanal la actividad pesquera extractiva realizada por personas jurídicas que estén compuestas exclusivamente por personas naturales inscritas como pescadores y/o pescadoras artesanales en los términos establecidos en esta ley. Esta excepción será aplicable sólo a armadores y a organizaciones de pescadores y/o pescadoras artesanales.
 
 Para los efectos de esta ley, la actividad pesquera artesanal se ejerce a través de una o más de las siguientes categorías: armador artesanal, pescador artesanal propiamente tal, buzo, recolector de orilla, alguero o buzo apnea:
 
-a) Armador artesanal: es el pescador artesanal, la persona jurídica constituida en los términos establecidos en el inciso segundo de este numeral o la comunidad en los términos que establece el Código Civil, propietarios de hasta dos embarcaciones artesanales.
+a) Armador artesanal: es el pescador o la pescadora artesanal, la persona jurídica constituida en los términos establecidos en el inciso segundo de este numeral o la comunidad en los términos que establece el Código Civil, propietarios de hasta dos embarcaciones artesanales.
 
-Para efectos de determinar la limitación de titularidad de embarcaciones artesanales, se considerará la calidad de socio que revista la persona natural en cualquier persona jurídica o comunidad que, a su vez, tenga la calidad de armador artesanal. Sin perjuicio de lo anterior, no se considerará para efectos de establecer la limitación antes señalada, hasta una embarcación que sea de titularidad de una organización de pescadores artesanales, respecto de la cual el armador artesanal cuando sea persona natural, tenga la calidad de socio o comunero. Lo antes señalado sólo será posible en la medida que el recurso hidrobiológico como especie objetivo lo permita.
+Para efectos de determinar la limitación de titularidad de embarcaciones artesanales, se considerará la calidad de socio que revista la persona natural en cualquier persona jurídica o comunidad que, a su vez, tenga la calidad de armador artesanal. Sin perjuicio de lo anterior, no se considerará para efectos de establecer la limitación antes señalada, hasta una embarcación que sea de titularidad de una organización de pescadores y/o pescadoras artesanales, respecto de la cual el armador artesanal cuando sea persona natural, tenga la calidad de socio o comunero. Lo antes señalado sólo será posible en la medida que el recurso hidrobiológico como especie objetivo lo permita.
 
-En el caso que el armador sea una comunidad, deberá estar integrada sólo por pescadores artesanales, existiendo siempre responsabilidad solidaria entre todos ellos para el pago de las patentes y de las multas que se deriven de las sanciones pecuniarias impuestas de acuerdo con esta ley, según corresponda.
+En el caso que el armador sea una comunidad, deberá estar integrada sólo por pescadores y/o pescadoras artesanales, existiendo siempre responsabilidad solidaria entre todos ellos para el pago de las patentes y de las multas que se deriven de las sanciones pecuniarias impuestas de acuerdo con esta ley, según corresponda.
 
-Sólo podrán inscribirse en esta categoría los pescadores artesanales propiamente tales y los buzos.
+Sólo podrán inscribirse en esta categoría los pescadores artesanales que hayan obtenido de la Autoridad Marítima el título matrícula correspondiente.
 
-b) Pescador artesanal propiamente tal: es aquel que se desempeña como patrón o tripulante en una embarcación artesanal, cualquiera que sea su régimen de retribución.
+b) Pescador artesanal propiamente tal: es aquel que se desempeña como patrón o patrona, tripulante o asistente o asistenta de buzo en una embarcación artesanal, cualquiera que sea su régimen de retribución.
 
 c) Buzo: es la persona que realiza actividad extractiva de recursos hidrobiológicos mediante buceo con aire, abastecido desde superficie o en forma autónoma.
+
+El ejercicio de esta actividad considerará los riesgos en la seguridad ocupacional de los buzos. El Estado podrá generar acciones para supervisar, mediante las instituciones competentes, las condiciones de trabajo y salud de las personas que se dedican al trabajo del buceo.
 
 d) Recolector de orilla, alguero o buzo apnea: es la persona que realiza actividades de extracción, recolección o segado de recursos hibrobiológicos.
 
@@ -270,13 +274,15 @@ Las capturas obtenidas mediante pesca de investigación no serán consideradas e
 
 46) Valor de sanción: monto en dinero expresado en unidades tributarias mensuales y en toneladas de peso físico de la especie hidrobiológica de que se trate, en estado natural, que servirá de unidad de cuenta para la aplicación de las sanciones que establece esta ley. El valor de sanción por especie será fijado anualmente por decreto supremo del Ministerio, previo informe técnico de la Subsecretaría. Un reglamento establecerá los procedimientos, metodología y criterios que se considerarán en su determinación, los que deberán lograr estimaciones de alta calidad estadística.
 
-47) Veda: acto administrativo establecido por autoridad competente en que está prohibido capturar o extraer un recurso hidrobiológico en un área determinada por un espacio de tiempo.
+47) Veda: acto administrativo establecido por la autoridad competente en virtud del cual se prohíbe capturar, cazar, extraer, segar o recolectar una o más especies hidrobiológicas en un área y por un período determinado, de conformidad con los siguientes fines:
 
-- Veda biológica: prohibición de capturar o extraer con el fin de resguardar los procesos de reproducción y reclutamiento de una especie hidrobiológica. Se entenderá por reclutamiento la incorporación de individuos juveniles al stock.
+- Veda biológica: prohibición establecida con el fin de resguardar los procesos de reproducción, crianza y/o reclutamiento. Se entenderá por reclutamiento la incorporación de individuos juveniles al stock.
 
-- Veda extractiva: prohibición de captura o extracción en un área específica por motivos de conservación.
+- Veda extractiva: prohibición establecida por motivos de conservación u ordenamiento.
 
-- Veda extraordinaria: prohibición de captura o extracción, cuando fenómenos oceanográficos afecten negativamente una pesquería.
+- Veda extraordinaria: prohibición establecida cuando fenómenos oceanográficos afecten negativamente una pesquería.
+
+La veda podrá contemplar la prohibición de comercialización, transporte, procesamiento, apozamiento, elaboración, transformación o almacenamiento de la o las especies vedadas y los productos que se deriven de ellas.
 
 48) Centro de acopio: establecimiento que tiene por objeto la mantención temporal de recursos hidrobiológicos provenientes de centros de cultivo o actividades extractivas autorizados, para su posterior comercialización o transformación.
 
@@ -362,6 +368,24 @@ biológicos de referencia la biomasa al nivel del máximo rendimiento sostenible
 
 72) Mitilicultura: Actividad de cultivo, cría, extracción o recolección de semillas de moluscos del grupo mitílidos, para su explotación económica. Que cuenten con título y/o autorización para su extracción y comercialización. A las personas que realizan esta actividad se les denomina mitilicultores.
 
+73) Recurso bentónico: recurso hidrobiológico que realiza parte preponderante del ciclo vital con asociación directa a un sustrato o fondo marino, que pertenece a grupos de urocordados, invertebrados o algas.
+
+74) Embarcación bentónica: embarcación pesquera inscrita en el Registro Pesquero Artesanal, que dispone del equipamiento necesario para servir de plataforma de operación a buzos autorizados a ejercer actividades pesqueras extractivas sobre recursos bentónicos.
+
+75) Unidad extractiva de recursos bentónicos: corresponde a la unidad productiva conformada por la embarcación bentónica y al menos un buzo y su correspondiente asistente, sin perjuicio del apoyo necesario de pescadores y/o pescadoras artesanales que se requiera, de acuerdo a la realidad regional y a la dotación mínima de seguridad establecida por la normativa vigente.
+
+76) Técnicas de extracción: procedimientos de extracción de recursos bentónicos ejecutados directamente por un buzo, recolector o recolectora de orilla, alguero o alguera y/o buzo apnea, que pueden implicar el uso de utensilios específicos para facilitar la captura. Serán establecidas de acuerdo a la especie, región y categoría de pescador y/o pescadora mediante resolución de la Subsecretaría.
+
+77) Utensilios de extracción: implementos o herramientas utilizados en la extracción de recursos bentónicos.
+
+78) Acción de manejo: intervención dirigida a generar, incrementar y/o mantener directa o indirectamente la productividad de las especies principales del plan de manejo. Cada acción de manejo deberá ser justificada técnicamente y procurará la sustentabilidad de las especies hidrobiológicas presentes en el área y del ecosistema. Su ejecución no debe presentar conflictos con las disposiciones vigentes, y deberá ser autorizada mediante resolución fundada, cuando corresponda.
+
+79) Banco natural: agrupación de individuos que naturalmente habita un espacio delimitable, forma parte de la población de una especie hidrobiológica bentónica y posee atributos diferenciables de otras agrupaciones de la misma especie en el rango de su distribución natural, en términos de abundancia, expresada como densidad o cobertura, dentro de dicho espacio.
+
+80) Pradera de algas: agrupación de algas que naturalmente habita un espacio delimitable, forma parte de la población de una especie de alga y posee atributos diferenciables de otras agrupaciones de la misma especie en el rango de su distribución natural, en términos de abundancia, expresada como densidad o cobertura, dentro de dicho espacio.
+
+81) Barreteo: extracción de ejemplares completos de algas mediante la remoción de sus discos de fijación desde el sustrato con utensilios especiales.
+
 > **Nota.** La ley 19713, publicada el 25.01.2001, intercaló en el presente artículo el Nº 14 bis "Descarte", a continuación del Nº 14, referido a la "Conservación". Con posterioridad, la ley 20434, publicada el 08.04.2010, dispuso la supresión del Nº 10, con lo que pasaron los numerales 11 a 51 a ser 10 a 50 respectivamente, sin disponer acerca de reenumerar el referido 14 bis. No obstante lo anterior, se ha ubicado el citado Número después del 14 a fin de mantener una numeración correlativa.
 
 ## Título II
@@ -376,9 +400,11 @@ FACULTADES DE CONSERVACION DE LOS RECURSOS HIDROBIOLOGICOS
 
 En cada área de pesca, independientemente del régimen de acceso a que se encuentre sometida, el Ministerio, mediante decreto supremo fundado, con informe técnico de la Subsecretaría y comunicación previa al Comité Científico Técnico, correspondiente y demás informes que se requieran de acuerdo a las disposiciones de la presente ley, para cada uno de los casos señalados en este inciso, podrá establecer una o más de las siguientes prohibiciones o medidas de administración de recursos hidrobiológicos:
 
-a) Veda biológica por especie en un área determinada, cuya duración se fijará en el decreto que la establezca, facultándose al Ministerio para exceptuar de esta prohibición la captura de especies pelágicas pequeñas destinadas a la elaboración de productos de consumo humano directo y a carnada. Las vedas se aplicarán procurando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes. Sin perjuicio de lo anterior, el decreto que establezca la veda podrá señalar un periodo referencial respecto de su duración, quedando condicionado su inicio y término a la verificación de determinados indicadores biológicos que serán determinados por el respectivo Comité Científico Técnico. La verificación de los indicadores deberá comunicarse por la página de dominio electrónico de la Subsecretaría.
+a) Veda biológica para una o más especies en un área determinada, cuya duración se fijará en el decreto que la establezca, facultándose al Ministerio para exceptuar de esta prohibición la captura de especies pelágicas pequeñas destinadas a la elaboración de productos de consumo humano directo y a carnada. Las vedas se aplicarán procurando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes. Sin perjuicio de lo anterior, el decreto que establezca la veda podrá señalar un periodo referencial respecto de su duración, quedando condicionado su inicio y término a la verificación de determinados indicadores biológicos que serán determinados por el respectivo Comité Científico Técnico. La verificación de los indicadores deberá comunicarse por la página de dominio electrónico de la Subsecretaría.
 
-Veda extractiva por especie o por sexo en un área determinada. Esta veda sólo se podrá establecer inicialmente por un período de hasta dos años y deberá contar con un informe técnico del Comité Científico correspondiente. En caso de renovación de la misma, se establecerá por el período que determine el Comité Científico respectivo.
+Veda extractiva para una o más especies o por sexo en un área determinada. Esta veda sólo se podrá establecer inicialmente por un período de hasta dos años y deberá contar con un informe técnico del Comité Científico correspondiente. En caso de renovación de la misma, se establecerá por el período que determine el Comité Científico respectivo.
+
+Respecto de recursos bentónicos, durante períodos de veda, el decreto respectivo podrá autorizar la extracción exclusivamente con fines de consumo humano en estado fresco, la que no podrá ser objeto de transformación en plantas de proceso, debiendo indicar las cantidades a extraer, las que no podrán sobrepasar el 0,5% de la cuota global de captura o el 0,25% del desembarque regional del año calendario anterior, para aquellas pesquerías que no cuenten con dicha cuota.
 
 b) Prohibición de captura temporal o permanente de especies protegidas por convenios internacionales de los cuales Chile es parte.
 
@@ -410,7 +436,7 @@ En la determinación de la cuota global de captura se deberá:
 
 2. Fijar su monto dentro del rango determinado por el Comité Científico Técnico en su informe técnico, que será publicado a través de la página de dominio electrónico del propio Comité o de la Subsecretaría.
 
-No obstante lo anterior, en el caso de las pesquerías de recursos bentónicos el Comité Científico Técnico establecerá criterios para la determinación de la cuota global, cuando corresponda, considerando la información disponible y las particularidades de los recursos de que se trate.
+Con todo, tratándose de las pesquerías de recursos bentónicos, cuando el rendimiento máximo sostenible no resulte técnicamente aplicable o no sea factible su estimación, el Comité Científico Técnico respectivo deberá suplir su uso por otros puntos biológicos de referencia o indicadores biológicos o pesqueros de escala local o regional, fundado en la información disponible y en las particularidades de los recursos de que se trate.
 
 3. Cualquier modificación de la cuota global de captura que implique un aumento o disminución de la misma, deberá sustentarse en nuevos antecedentes científicos, debiendo someterse al mismo procedimiento establecido para su determinación.
 
@@ -436,9 +462,7 @@ En toda área de pesca, independientemente del régimen de acceso a que se encue
 
 a) Fijación de tamaños o pesos mínimos de extracción por especie en un área determinada y sus márgenes de tolerancia. En ningún caso la talla mínima podrá ser inferior al valor menor entre la talla de primera madurez sexual o la talla crítica de la especie respectiva.
 
-b) Fijación de las dimensiones y características de las artes y los aparejos de pesca.
-
-Prohíbese realizar actividades pesqueras extractivas en contravención a lo dispuesto en este artículo.
+b) Fijación de las dimensiones o características de las artes de pesca, aparejos de pesca, técnicas y utensilios de extracción.
 
 c) Establecimiento de uso y porte en las embarcaciones de dispositivos o utensilios para minimizar la captura de fauna acompañante o para evitar o minimizar la captura incidental, propendiendo a que la pesca sea más selectiva.
 
@@ -483,6 +507,10 @@ Prohíbese la mutilación de las aletas de cualquier especie de tiburón, acció
 Será obligatorio realizar el desembarque de las especies antes señaladas con sus aletas total o parcialmente adheridas a su cuerpo en forma natural.
 
 Si se encontrare una aleta de tiburón en una nave pesquera, sin que esté completa y naturalmente adosada al tronco correspondiente, se presumirá que se ha contravenido lo dispuesto en este artículo.
+
+#### Artículo 5º ter
+
+La Subsecretaría mediante resolución establecerá una nómina de algas cuya extracción estará prohibida a través del barreteo.
 
 #### Artículo 6°
 
@@ -682,9 +710,9 @@ Derogado.
 
 #### Artículo 9º bis
 
-Para la administración y manejo de una o más pesquerías de recursos bentónicos de invertebrados y algas, la Subsecretaría podrá establecer un plan de manejo aplicable a todo o parte de una región o regiones, el que deberá contener las menciones y se implementará de conformidad a las reglas establecidas en el artículo 8º.
+Para la administración y manejo de una o más pesquerías de recursos bentónicos, la Subsecretaría podrá establecer un plan de manejo aplicable a todo o parte de una región o regiones, el que deberá contener las menciones del artículo 8º y considerar un número máximo de pescadores y/o pescadoras que admite la o las pesquerías respectivas, según el estado de situación de los recursos y los niveles de esfuerzo de pesca que propendan a la sostenibilidad biológica, económica y social, pudiendo incluir criterios geográficos de distribución, entre otros. Además de las menciones indicadas, dichos planes podrán contemplar estrategias para la vigilancia, detección, control o erradicación de plagas, las que deberán ser consideradas en la elaboración de los programas respectivos.
 
-No obstante lo anterior, en la formulación de estos planes de manejo se deberá determinar los pescadores artesanales involucrados en la o las pesquerías que lo integren. En los casos en que éste sea aplicable sólo a una parte de la región o regiones, participarán los pescadores artesanales inscritos en la pesquería que cumplan con los criterios de participación establecidos en el plan, entre los cuales deberá considerarse el haber efectuado operaciones extractivas en el área de aplicación del plan. Sólo podrán continuar operando en el área quienes cumplan con los requisitos de participación y operación establecidos en el plan. Al menos cada tres años se evaluará el esfuerzo pesquero aplicado al área, pudiendo la Subsecretaría, mediante resolución fundada, determinar el ingreso de nuevos pescadores artesanales, siempre que ello no afecte la sustentabilidad de la pesquería.
+No obstante lo anterior, en la formulación de estos planes de manejo se deberá determinar los pescadores artesanales involucrados en la o las pesquerías que lo integren, las embarcaciones, incluidas las transportadoras, las plantas de proceso y las comercializadoras y todos aquellos agentes que reconoce el plan de manejo como actores directos y relevantes de la pesquería. En los casos en que éste sea aplicable sólo a una parte de la región o regiones, participarán los pescadores artesanales inscritos en la pesquería que cumplan con los criterios de participación establecidos en el plan, entre los cuales deberá considerarse el haber efectuado operaciones extractivas en el área de aplicación del plan. Sólo podrán continuar operando en el área quienes cumplan con los requisitos de participación y operación establecidos en el plan. Al menos cada tres años se evaluará el esfuerzo pesquero aplicado al área, pudiendo la Subsecretaría, mediante resolución fundada, determinar el ingreso de nuevos pescadores artesanales, siempre que ello no afecte la sustentabilidad de la pesquería.
 
 Además de las medidas de conservación y administración contempladas en esta ley, en los planes de manejo a que se refiere este artículo se podrán establecer por resolución del Subsecretario las siguientes medidas:
 
@@ -702,17 +730,27 @@ f) Buenas prácticas, sustentabilidad y recuperación de ecosistemas.
 
 g) Programas de educación y capacitación.
 
-En el plan de manejo se podrá considerar un procedimiento de certificación de la información de desembarque a que se refiere el artículo 63 de esta ley, el cual será efectuado conforme al artículo 64 E. La certificación de desembarques será obligatoria para todos los pescadores artesanales que participen en el plan de manejo. Los requisitos para la certificación serán establecidos por el Servicio.
+h) Establecimiento de zonas de resguardo temporales en las cuales se restringirá la actividad pesquera extractiva sobre recursos bentónicos de acuerdo a los fines establecidos en el o los respectivos planes de manejo, donde se podrá realizar investigación, monitoreo y acciones de manejo debidamente justificadas.
 
-Para la elaboración de la propuesta, implementación, evaluación y adecuación si correspondiere del plan de manejo, la Subsecretaría constituirá un Comité de Manejo que tendrá el carácter de asesora y será presidida por el funcionario que el Subsecretario designe al efecto. Dicho Comité deberá estar integrado por no menos de dos ni más de siete representantes de los pescadores artesanales inscritos en la o las pesquerías de que se trate, así como un representante de las plantas de proceso, un representante de la Dirección General del Territorio Marítimo y Marina Mercante Nacional y un representante del Servicio.
+En el plan de manejo se podrá considerar un procedimiento de certificación de la información de desembarque a que se refiere el artículo 63 de esta ley, el cual será efectuado conforme al artículo 64 E. La certificación de desembarques será obligatoria para todos los pescadores artesanales que participen en el plan de manejo. Los requisitos para la certificación serán establecidos por el Servicio. El plan podrá contemplar, también, la obligatoriedad de la implementación y uso de dispositivos de posicionamiento satelital en el mar, para aquellas categorías de embarcaciones participantes definidas en el plan de manejo, incluidas las de transporte. De la misma forma, se podrá establecer la presencia obligatoria de observadores científicos en embarcaciones, puntos de desembarque y plantas de proceso involucradas en el plan de manejo.
+
+Para la elaboración de la propuesta, implementación, evaluación y adecuación del plan de manejo si correspondiere, la Subsecretaría constituirá un Comité de Manejo que tendrá el carácter de asesor y será presidido por el funcionario que el Subsecretario designe al efecto. Dicho Comité estará integrado por (a) un representante de la Dirección General del Territorio Marítimo y de Marina Mercante Nacional; (b) un representante del Servicio; (c) un representante de la Secretaría Regional Ministerial de Economía, Fomento y Turismo; (d) no menos de 2 ni más de 7 representantes de los pescadores y/o pescadoras artesanales inscritos en la o las pesquerías de que se trate; (e) dos representantes de las plantas de proceso y/o comercializadoras asociadas, y (f) un representante de agentes privados directamente vinculados a la cadena productiva de los recursos, que no pertenezcan a los grupos antedichos, como, por ejemplo, representantes de centros de cultivo de abalones o transportistas, entre otros.
+
+En el caso de planes de manejo multiespecíficos, se deberá contemplar la representación rotativa para los representantes del sector privado correspondiente a plantas de proceso, comercializadoras y de aquellos agentes privados directamente vinculados a la cadena productiva de los recursos.
+
+El reglamento determinará la forma de designación de los integrantes de dicho Comité, causales de cesación y su funcionamiento.
 
 La propuesta de plan de manejo será sometida a consulta pública a través del sitio de dominio electrónico de la Subsecretaría, mediante mensaje radial y publicación en extracto en un diario de circulación regional. Se podrán formular observaciones dentro del plazo de un mes contado de la fecha de publicación en el sitio de dominio electrónico. Recibidas las observaciones, la Subsecretaría evaluará la pertinencia de reformular la propuesta y dará pública respuesta a las observaciones planteadas, aprobando el plan de manejo mediante resolución.
 
-Una vez aprobado el plan de manejo será obligatorio para todos los pescadores artesanales, así como las embarcaciones, incluidas las transportadoras y las plantas de proceso.
+Una vez aprobado el plan de manejo será obligatorio para todos los pescadores y/o pescadoras artesanales, así como las embarcaciones, incluidas las transportadoras y las plantas de proceso, y todos aquellos agentes que reconoce el plan de manejo como actores directos y relevantes de la pesquería.
 
-#### Artículo 9°
+#### Artículo 9º ter
 
-A.- En los casos en que una pesquería, de conformidad con los puntos biológicos de referencia determinados, se encuentre en estado de sobreexplotación o agotada, se deberá establecer dentro del plan de manejo, previo acuerdo del Comité de Manejo, un programa de recuperación que deberá considerar, a lo menos, lo siguiente:
+Sin perjuicio de las facultades de los Comités de Manejo respecto de la elaboración de los respectivos planes, podrán ser consultados sobre cualquier otra materia respecto de la cual la Subsecretaría estime pertinente conocer su opinión. Asimismo, los Comités de Manejo, a través de los Consejos Consultivos Regionales del Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala, podrán hacer llegar propuestas e información para la formulación de programas asociados al desarrollo, fortalecimiento y diversificación del sector vinculado a las pesquerías respectivas.
+
+#### Artículo 9º
+
+A.- En los casos en que una pesquería se encuentre en estado de sobreexplotación o agotada, de conformidad con los puntos biológicos de referencia determinados o, tratándose de recursos bentónicos, de los indicadores biológicos o pesqueros de escala local o regional respectivos, se deberá establecer dentro del plan de manejo, previo acuerdo del Comité de Manejo, un programa de recuperación que deberá considerar, a lo menos, lo siguiente:
 
 a) Evaluar y establecer los objetivos y metas para la recuperación de la pesquería en el largo plazo y de forma transparente; y establecer un sistema de evaluación del cumplimiento de tales metas y objetivos;
 
@@ -1316,13 +1354,13 @@ En el área de reserva para la pesca artesanal indicada en el artículo anterior
 
 a)Autorización de las actividades pesqueras extractivas sobre determinados recursos en los estuarios, entendiendo por tal, aquella parte del río que se ve afectado por las mareas.
 
-b)Instalación de arrecifes artificiales en un área determinada de conformidad con los requisitos y características establecidas por reglamento.
+b) Derogado.
 
 c) Medidas para la instalación de colectores u otras formas de captación de semillas en bancos naturales de recursos hidrobiológicos, quedando igualmente prohibido efectuar actividades pesqueras extractivas en contravención a ellas.
 
 d) DEROGADA.
 
-e) Podrá aplicarse a las unidades de pesquería de recursos bentónicos que alcancen el estado de plena explotación un sistema denominado "Régimen Bentónico de Extracción". Este régimen consistirá en la fijación de una cuota total de extracción y en la asignación de cuotas individuales de extracción.
+e) Derogado.
 
 Las cuotas individuales de extracción se asignarán a los pescadores artesanales debidamente inscritos en el registro respectivo y que cumplan con los demás requisitos establecidos en esta ley para operar sobre el recurso específico que se trate.
 
@@ -1344,7 +1382,19 @@ b) limitar el número de viajes de pesca por día.
 
 c) Distribuir la fracción artesanal de la cuota global de captura por región, flota o tamaño de embarcación y áreas, según corresponda. Asimismo, se deberá considerar la disponibilidad de los recursos hidrobiológicos, sin que en ningún caso se afecte la sustentabilidad de los mismos. En este caso el Subsecretario deberá consultar al Consejo Zonal y al Comité de Manejo, que corresponda.
 
-d) En el caso que la fracción artesanal de la cuota global de captura sea distribuida en dos o más épocas en el año calendario y comprenda a más de una región o a más de una unidad de pesquería, la Subsecretaría mediante resolución, podrá redistribuir el 50% de los saldos no capturados al término de cada período, asignando dichos saldos a otra región o unidad de pesquería que se encuentre comprendida en la respectiva cuota global de captura. En el evento en que existan acuerdos de esta naturaleza en el Comité de Manejo del Plan de Manejo de una pesquería respectiva éstos deberán ser aprobados por el Subsecretario.
+d) Disponer la obligatoriedad del uso de un sistema de posicionamiento satelital y la presencia de observadores científicos, en el marco de aquellos planes de manejo de recursos bentónicos que definan tal requisito con fines de manejo pesquero.
+
+e) En el caso que la fracción artesanal de la cuota global de captura sea distribuida en dos o más épocas en el año calendario y comprenda a más de una región o a más de una unidad de pesquería, la Subsecretaría mediante resolución, podrá redistribuir el 50% de los saldos no capturados al término de cada período, asignando dichos saldos a otra región o unidad de pesquería que se encuentre comprendida en la respectiva cuota global de captura. En el evento en que existan acuerdos de esta naturaleza en el Comité de Manejo del Plan de Manejo de una pesquería respectiva éstos deberán ser aprobados por el Subsecretario.
+
+f) Autorizar la instalación de arrecifes artificiales, en conformidad al reglamento a que hace referencia la letra e) del inciso tercero del artículo 9º bis de esta ley, el que llevará las firmas de los Ministros de Defensa Nacional y de Economía, Fomento y Turismo, y exigir en su caso, las cauciones que el reglamento disponga, en aquellos lugares donde se pueda proveer un sustrato apto para recursos hidrobiológicos que son objeto de esta acción de manejo, previo informe de la autoridad marítima competente.
+
+Se podrá otorgar esta autorización dentro del área de reserva para la pesca artesanal definida en el artículo 47, pero antes de su instalación se deberá acreditar ser titular de una concesión marítima de acuerdo a la normativa que habilite a usar el sector autorizado. Tratándose de áreas de manejo y explotación de recursos bentónicos, y de espacios costeros marinos para pueblos originarios, la instalación de arrecifes se someterá a su normativa respectiva y a las disposiciones del reglamento.
+
+Al extinguirse la concesión, los arrecifes instalados pasarán a ser una mejora fiscal, sin perjuicio de que se pueda solicitar su retiro, en conformidad al reglamento.
+
+g) Suspender transitoriamente la actividad extractiva que se realice mediante alguna de las técnicas y utensilios definidos en los numerales 76) y 77), del artículo 2º, respectivamente.
+
+h) Establecer criterios y límites de extracción, por períodos determinados.
 
 #### Artículo 48
 
@@ -1368,7 +1418,7 @@ Con todo, las disposiciones de los incisos segundo y tercero de este artículo n
 
 #### Artículo 50
 
-El régimen de acceso a la explotación de los recursos hidrobiológicos para la pesca artesanal es el de libertad de pesca. No obstante, para ejercer actividades pesqueras extractivas, los pescadores artesanales y sus embarcaciones deberán previamente inscribirse en el registro artesanal que llevará el Servicio, salvo que se configure alguna de las causales denegatorias del artículo 50 A.
+El régimen de acceso a la explotación de los recursos hidrobiológicos para la pesca artesanal es el de libertad de pesca. No obstante, para ejercer actividades pesqueras extractivas, los pescadores y/o las pescadoras artesanales y sus embarcaciones deberán previamente inscribirse en el registro artesanal que llevará el Servicio, salvo que se configure alguna de las causales denegatorias del artículo 50 A.
 
 No obstante, con el fin de cautelar la preservación de los recursos hidrobiológicos, cuando una o más especies hayan alcanzado un estado de plena explotación, la Subsecretaría, mediante resolución, previo informe técnico debidamente fundamentado del Consejo Zonal de Pesca que corresponda, podrá suspender transitoriamente por categoría de pescador artesanal y por pesquería, la inscripción en el registro artesanal en una o más regiones. En este caso, no se admitirán nuevas inscripciones de embarcaciones ni de personas para esa categoría y pesquería en la región respectiva. Mediante igual procedimiento se podrá dejar sin efecto la medida de suspensión establecida.
 
@@ -1376,13 +1426,15 @@ En el caso en que se suspenda transitoriamente la inscripción en el Registro Ar
 
 En los casos en que se suspenda transitoriamente la inscripción en el Registro Artesanal, conforme a lo señalado en los incisos anteriores, se paralizará, también, mientras dure tal medida, la recepción de solicitudes y el otorgamiento de autorizaciones industriales. Las naves industriales autorizadas para operar en estas pesquerías quedarán afectas a lo establecido en el régimen de pesquerías declaradas en estado de plena explotación.
 
-Podrá extenderse el área de operaciones de los pescadores artesanales a la región contigua, cuando éstos realicen actividades pesqueras en las otras regiones. Para establecer esta excepción, se deberá efectuar a través del procedimiento contemplado en los planes de manejo, con el acuerdo de los pescadores artesanales involucrados en la pesquería respectiva y que registren desembarques en los últimos tres años.
+Podrá extenderse el área de operaciones de los pescadores y/o las pescadoras artesanales a la región contigua, cuando éstos realicen actividades pesqueras en las otras regiones. Para establecer esta excepción, se deberá efectuar a través del procedimiento contemplado en los planes de manejo, con el acuerdo de los pescadores y/o las pescadoras artesanales involucrados en la pesquería respectiva y que registren desembarques en los últimos tres años.
 
-En cualquier caso que se autorice, se deberá establecer la obligatoriedad del uso del sistema de posicionamiento satelital, con excepción de las embarcaciones inscritas en recursos bentónicos, y de certificación de capturas de las embarcaciones que operen. Además, se podrán establecer restricciones de áreas de operación, número o tamaño de las embarcaciones.
+Podrán establecerse operaciones de las flotas bentónicas en dos o más regiones, las que se sujetarán en su ejercicio a la forma y condiciones que se establezcan en el Comité de Manejo conformado por las regiones en que se desarrollan las operaciones. Con todo, las operaciones sólo tendrán efecto si existe informe del Comité Científico de Recursos Bentónicos que acredite que se cumplirán las condiciones de sustentabilidad y mantención del esfuerzo pesquero. Para el cumplimiento de las operaciones, la Subsecretaría podrá adoptar, por resolución, las medidas del inciso tercero del artículo 9º bis.
+
+En cualquier caso que se autorice, se deberá establecer la obligatoriedad del uso del sistema de posicionamiento satelital, con excepción de las embarcaciones inscritas en recursos bentónicos, cuyo uso quedará condicionado a lo que se determine para estos casos en el respectivo plan de manejo, y de certificación de capturas de las embarcaciones que operen. Además, se podrán establecer restricciones de áreas de operación, número o tamaño de las embarcaciones.
 
 Mediante igual procedimiento al señalado en el inciso anterior se podrá extender el área de operación de los pescadores artesanales a más de una región, tratándose de pesquerías de especies altamente migratorias y demersales de gran profundidad.
 
-El reglamento determinará el procedimiento de sustitución de embarcaciones artesanales, como asimismo el procedimiento de reemplazo en los casos que se produzcan vacantes en el número de pescadores inscritos, durante el período de suspensión de inscripciones en el registro artesanal. La Subsecretaría determinará, por resolución fundada, el número de inscripciones vacantes que podrán ser reemplazadas, de modo que el esfuerzo de pesca ejercido en cada pesquería no afecte la sustentabilidad del recurso. Asimismo, deberán considerarse criterios que permitan disminuir las brechas de participación de las mujeres en la conformación del registro.
+El reglamento determinará el procedimiento de sustitución de embarcaciones artesanales, como asimismo el procedimiento de reemplazo, y los criterios de prelación, en los casos que se produzcan vacantes en el número de pescadores inscritos, durante el período de suspensión de inscripciones en el registro artesanal. La Subsecretaría determinará, por resolución fundada, el número de inscripciones vacantes que podrán ser reemplazadas, de modo que el esfuerzo de pesca ejercido en cada pesquería no afecte la sustentabilidad del recurso. Asimismo, deberán considerarse criterios que permitan disminuir las brechas de participación de las mujeres en la conformación del registro. La determinación de inscripciones vacantes para las pesquerías bentónicas, cuando fuere procedente, podrá considerar las recomendaciones del respectivo Comité de Manejo o la consulta a las organizaciones de pescadores y/o pescadoras legalmente constituidas y cuyos integrantes cuenten con inscripción en pesquerías bentónicas, de conformidad con lo dispuesto en el artículo 9º bis. Para estos efectos, tanto los criterios como el procedimiento serán establecidos mediante resolución.
 
 Las modificaciones de las embarcaciones artesanales inscritas en pesquerías con acceso cerrado o suspendido, de conformidad con los artículos 24 y 50, que importen un aumento de sus características principales, se someterán al procedimiento de sustitución de esta ley. En caso de que las modificaciones antes referidas correspondan a embarcaciones inscritas sólo en pesquerías con acceso abierto, se entenderán aquéllas como modificación a la inscripción en el Registro Artesanal, de conformidad al reglamento correspondiente.
 
@@ -1392,7 +1444,13 @@ Con todo, ninguna modificación ni sustitución de una embarcación artesanal in
 
 A.- Se inscribirán en el Registro Artesanal las solicitudes de inscripción que recaigan sobre las pesquerías que se encuentran incorporadas en una nómina que determinará la Subsecretaría por región.
 
-La Subsecretaría establecerá, mediante resolución, la nómina de pesquerías y las especies que la constituyen por región, el respectivo arte o aparejo de pesca y categoría de pescador artesanal que la puede extraer, y que conformarán el Registro Artesanal. En caso de la Isla de Pascua, el Registro Artesanal será independiente del de la V Región de Valparaíso. Dicha nómina se deberá actualizar, a lo menos, cada dos años.
+La Subsecretaría establecerá, mediante resolución, la nómina de pesquerías y las especies que la constituyen por región, el respectivo arte o aparejo de pesca y categoría de pescador artesanal que la puede extraer, y que conformarán el Registro Artesanal. Dicha nómina se deberá actualizar, a lo menos, cada dos años. Para las pesquerías artesanales de pequeña escala la Subsecretaría podrá delimitar la nómina regional a una unidad territorial específica.
+
+En forma independiente, considerando el enfoque ecosistémico y multiespecies, la Subsecretaría establecerá mediante resolución fundada una nómina de pesquerías bentónicas por región, que deberá considerar las técnicas o utensilios de pesca en su caso, las especies hidrobiológicas que constituyen recursos y la categoría de pescador y/o pescadora artesanal que las podrá extraer.
+
+En el caso de Rapa Nui, el Archipiélago de Juan Fernández e Islas Desventuradas, el Registro Pesquero Artesanal de todas las pesquerías será independiente del de la Región de Valparaíso.
+
+En las pesquerías artesanales de pequeña escala existentes en la nómina nacional de pesquerías indicada en el inciso segundo, se deberá contemplar la pesquería demersal costera de peces de roca. Mediante resolución fundada de la Subsecretaría, se determinará las especies que, de conformidad con su estado de conservación, podrán ser habilitadas para las categorías de buzo y de recolector o recolectora de orilla, alguero o alguera y buzo apnea inscritos en el Registro Pesquero Artesanal. El número de vacantes de la pesquería demersal costera de peces de roca, y los criterios de prelación para su asignación, serán determinados por la Subsecretaría, según el estado de conservación, criterios de recurrencia en la operación y niveles de esfuerzo de pesca que propendan al cumplimiento de los objetivos de la ley.
 
 La solicitud de inscripción será denegada cuando concurra alguna de las siguientes causales:
 
@@ -1410,9 +1468,9 @@ b) Cuando la actividad solicitada sea contraria a la normativa pesquera vigente.
 
 #### Artículo 50
 
-B.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 24 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
+B.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 24 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador o pescadora artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
 
-El reemplazo operará en forma indivisible respecto de todas las categorías, y en todas las pesquerías cerradas y vigentes que el reemplazado tenga inscritas en el Registro, quedando sin efecto la inscripción respecto de las pesquerías con acceso abierto, por el solo ministerio de la ley. Los armadores que cuenten con dos embarcaciones inscritas en el Registro Pesquero Artesanal podrán efectuar el reemplazo de una o de ambas, manteniendo en el primer caso su inscripción respecto de la embarcación no reemplazada con las pesquerías que tuviere inscritas, conservando, asimismo, el resto de sus categorías.
+El reemplazo operará en forma indivisible respecto de todas las categorías, a excepción de las de buzo y de recolector o recolectora de orilla, alguero o alguera, o buzo apnea, y en todas las pesquerías cerradas y vigentes que el reemplazado tenga inscritas en el Registro, quedando sin efecto la inscripción respecto de las pesquerías con acceso abierto, por el solo ministerio de la ley. Los armadores que cuenten con dos embarcaciones inscritas en el Registro Pesquero Artesanal podrán efectuar el reemplazo de una o de ambas, manteniendo en el primer caso su inscripción respecto de la embarcación no reemplazada con las pesquerías que tuviere inscritas, conservando, asimismo, el resto de sus categorías.
 
 Para estos efectos, el Servicio otorgará, a petición del titular de la inscripción, un certificado que acredite la individualización del titular de aquélla, las características básicas de la nave, en su caso, y la individualización de la o las pesqueras inscritas que mantiene vigentes.
 
@@ -1420,25 +1478,23 @@ Este certificado tendrá una duración indefinida, mientras se mantenga la vigen
 
 Para estos efectos, se deberá presentar una solicitud ante el Servicio, en que conste la manifestación de voluntad de ambas partes de ejercer la facultad establecida en el inciso primero. El Servicio efectuará el reemplazo en aquellas pesquerías que se encuentren vigentes.
 
-El reemplazante deberá ser pescador artesanal inscrito en el Registro Artesanal en cualquiera de sus categorías y cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
+El reemplazante deberá ser pescador o pescadora artesanal inscrito en el Registro Artesanal en cualquiera de sus categorías y cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
 
 El armador reemplazante deberá, además, acreditar el título de dominio sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 28.
 
 El Servicio deberá llevar un Registro Público de las solicitudes y reemplazos autorizados, por región.
 
-El reemplazante deberá ser pescador artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes.
+El reemplazante deberá ser pescador o pescadora artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes o mediante las declaraciones de desembarque de las organizaciones titulares de un área de manejo de la que sea integrante. En el caso de los recolectores de orilla que no sean integrantes de una organización titular de un área de manejo, se acreditará la habitualidad mediante las declaraciones de desembarque artesanal respectivas.
 
 Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en, a lo menos, dos años, consecutivos o no, en los últimos cuatro años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
 
-Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo 63, y que den cuenta de capturas efectuadas en la pesquería respectiva. En el caso de los buzos y de los pescadores propiamente tales, se acreditará la habitualidad mediante la información de los zarpes de embarcaciones en cuya tripulación hubiere participado el reemplazante, que consten ante la autoridad marítima.
+Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo 63, y que den cuenta de capturas efectuadas en la pesquería respectiva. En el caso de las y los buzos y de las pescadoras y los pescadores propiamente tales, se acreditará la habitualidad mediante la información de los zarpes de embarcaciones en cuya tripulación hubiere participado el reemplazante, que consten ante la autoridad marítima.
 
 En el caso que se modifique parcialmente la integración de una comunidad o persona jurídica, el o los nuevos integrantes o socios deberán cumplir con el requisito de habitualidad antes señalado. En el evento que la modificación de la integración sea total, la inscripción se someterá a las normas del reemplazo.
 
-El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta, ni los ascendientes del reemplazado, ni a los colaterales hasta el tercer grado de consanguinidad o afinidad, inclusive.
+El requisito de habitualidad no será exigible en los casos en que el reemplazante sea cónyuge, conviviente civil o descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta, ni los ascendientes del reemplazado, ni a los colaterales hasta el tercer grado de consanguinidad o afinidad, inclusive.
 
-Con todo, para los efectos de lo dispuesto en el inciso séptimo del presente artículo, se considerará acreditada la habitualidad durante el lapso en que la mujer se encuentre en estado de gravidez, así como aquel en que esté gozando del descanso de maternidad a que se refiere el artículo 195, inciso primero, del Código del Trabajo.
-
-El reemplazo no operará respecto de la categoría de recolector de orilla, alguero y buzo apnea, ni podrá ser invocada por el reemplazante.
+Se considerará acreditada la habitualidad de la mujer por el plazo de dos años contado desde el embarazo, para lo que deberá presentar ante el Servicio el certificado médico correspondiente. Asimismo, se podrá acreditar lo anterior, con un certificado de nacimiento del hijo o hija.
 
 > **Nota.** El artículo único de la LEY 19922, publicada el 23.12.2003, suspende, por el periodo de 18 meses, la vigencia del presente artículo.
 
@@ -1528,25 +1584,35 @@ La inscripción en el registro artesanal no podrá ser denegada sino por falta d
 
 Cualquier modificación en la información proporcionada al registro artesanal para practicar las inscripciones solicitadas, deberá ser informada al Servicio por medio de comunicación escrita, que deberá presentarse dentro de los 30 días siguientes a aquél en que se haya producido legalmente esa modificación.
 
+Será obligación de las organizaciones de pescadores y/o pescadoras artesanales actualizar ante el Servicio, hasta el 30 de junio de cada año, la nómina de socios o el nombre de quienes conforman la directiva. Dicha obligación se entenderá cumplida con el envío al Servicio de la nómina respectiva, el certificado de vigencia de la organización y un certificado que acredite quienes conforman la directiva vigente.
+
 El incumplimiento en la comunicación antes mencionada se sancionará conforme a las normas del título IX.
 
 #### Artículo 55
 
 El Servicio Nacional de Pesca deberá, en el mes de junio de cada año, caducar la inscripción en el Registro Artesanal en los siguientes casos:
 
-a) Si el pescador artesanal o su embarcación no realizan actividades pesqueras extractivas por tres años sucesivos, salvo caso fortuito o fuerza mayor debidamente acreditados.
+a) Si el pescador o pescadora artesanal o su embarcación no realizan actividades pesqueras extractivas por tres años sucesivos, salvo caso fortuito o fuerza mayor debidamente acreditados, o que posea antigüedad por el mismo lapso como socio de una organización titular de área de manejo con plan de manejo vigente.
 
 En el evento que se configure una causal de caso fortuito o fuerza mayor, ésta deberá ser invocada ante el Servicio antes del vencimiento del plazo establecido en el inciso anterior, en cuyo caso el Servicio podrá autorizar la ampliación del plazo en hasta un año, contado desde el vencimiento del plazo de tres años antes indicado.
+
+Respecto de los pescadores y/o las pescadoras artesanales propiamente tales, buzos o recolectores o recolectoras de orilla, algueros o algueras y buzos apnea, se exceptuará la aplicación de esta causal a aquel que por enfermedad o accidente debidamente acreditado, se encuentre temporalmente incapacitado para ejercer actividades extractivas o de recolección, de conformidad a las condiciones y por el mismo plazo señalado en el párrafo anterior.
+
+Se considerará acreditada la operación de la mujer por el plazo de dos años contado desde el embarazo, para lo que deberá presentar ante el Servicio el certificado médico correspondiente.
 
 Sin perjuicio de lo anterior, se considerarán caso fortuito o fuerza mayor las marejadas que hayan impedido la actividad extractiva, lo que se acreditará con un certificado de la Autoridad Marítima que dé cuenta del cierre de los puertos de la región por ese motivo, por el plazo que dicha circunstancia se haya producido.
 
 Se entenderá por captura lo informado en el formulario de desembarque, debidamente recepcionado por el Servicio, conforme al artículo 63 de esta ley.
 
-b) Si el pescador artesanal fuere reincidente en las infracciones a que se refieren las letras b) y f) del artículo 110.
+Aquellas embarcaciones que operen exclusivamente en recursos bentónicos, se exceptuarán de esta causal de caducidad, acreditando tal situación mediante declaración de desembarque en que conste la unidad extractiva de recursos bentónicos que realizó la actividad extractiva.
 
-c) Si al pescador artesanal se le cancelare su matrícula por la autoridad marítima.
+b) Si el pescador artesanal fuere reincidente en las infracciones a que se refieren las letras b) y f) del artículo 110, o del delito contemplado en el artículo 139 bis.
+
+c) Si al pescador artesanal se le cancelare su matrícula por la autoridad marítima, salvo que se encontrare en la situación prevista en el inciso primero del artículo 55 bis.
 
 d) Si el pescador artesanal fuere condenado por alguno de los delitos que sancionan los artículos 135 ó 136, o no mantiene los requisitos de inscripción establecidos en los artículos 51 ó 52.
+
+No obstante lo anterior, en caso de buzos que no mantengan el requisito de inscripción a que alude la letra b) del artículo 51 de la presente ley y que hayan optado por el régimen establecido en el artículo 55 bis, mantendrán vigentes sus otras categorías, sin perjuicio de la aplicación de las demás causales que señala el presente artículo.
 
 e) Si el armador artesanal no paga la patente pesquera a que se refiere el artículo 50 D por dos años consecutivos.
 
@@ -1562,11 +1628,15 @@ Con todo, si un pescador artesanal desaparece como consecuencia de un accidente 
 
 En el plazo de dos meses a contar de la resolución del Servicio a que se refiere el inciso primero, la Subsecretaría deberá dictar la resolución estableciendo el número de vacantes, si procede de conformidad al inciso noveno del artículo 50 de esta ley.
 
-Para proveer la vacante sólo se considerará a los pescadores artesanales que cumplan las reglas de habitualidad establecidas en el artículo 50 B.
+Para proveer la vacante sólo se considerará a los pescadores y las pescadoras artesanales que cumplan las reglas de habitualidad establecidas en el artículo 50 B.
 
 La inscripción en las listas de espera caducará en el plazo de tres años a contar de la inscripción.
 
 > **Nota.** NOTA 2 El artículo único de la ley 21588, publicada el 24.07.2023, suspende la declaración de caducidad de la inscripción en el Registro Pesquero Artesanal a que hace referencia el presente artículo, hasta el 31 de diciembre de 2024 inclusive, no obstante, tratándose de la causal contenida en su literal e), dicha declaración de caducidad se suspenderá hasta el 31 de diciembre de 2023. Sin perjuicio de lo anterior, la suspensión antes señalada no aplicará si concurre la causal contemplada en el literal b), como tampoco si concurre la causal establecida en el literal d), en la parte que se refiere a la condena por delitos sancionados en los artículos 135 o 136 de esta ley. Asimismo, dispone que lo antes señalado se aplicará sin perjuicio de lo dispuesto en la ley 20872, que establece normas permanentes para enfrentar las consecuencias de catástrofes naturales en el sector pesquero.
+
+#### Artículo 55 bis
+
+Los pescadores y/o pescadoras artesanales inscritos en la categoría de buzo, que no obtengan la renovación de la matrícula ante la Autoridad Marítima de conformidad a lo dispuesto en el decreto Nº 752, de 1982, del Ministerio de Defensa Nacional, o la normativa que la reemplace, podrán, dentro del plazo de doce meses contado desde el vencimiento de la última matrícula, efectuar el reemplazo de su inscripción de acuerdo a lo establecido en el inciso primero del artículo 50 B. Al término de este período, la inscripción del titular de la categoría de buzo que no haya sido reemplazada, caducará por el solo ministerio de la ley.
 
 ### Párrafo 3°
 
@@ -1574,7 +1644,11 @@ Del Régimen de Áreas de Manejo y Explotación de Recursos Bentónicos
 
 #### Artículo 55
 
-A.- En las áreas señaladas en el inciso primero del artículo 48, podrá establecerse por decreto del Ministerio, previos informes técnicos de la Subsecretaría y del Consejo Zonal correspondiente, un régimen denominado Áreas de Manejo y Explotación de Recursos Bentónicos, al que podrán optar las organizaciones de pescadores artesanales inscritas en el Registro Pesquero Artesanal. Una vez establecida el área, el Servicio deberá solicitar su destinación al Ministerio de Defensa Nacional, debiendo ésta encontrarse vigente, a la fecha de tramitación de la solicitud de asignación de la respectiva área de manejo, por parte de la o las organizaciones de pescadores artesanales.
+A.- En el área de reserva para la pesca artesanal, así como en las aguas terrestres, podrá establecerse por decreto del Ministerio, previos informes técnicos de la Subsecretaría y del Consejo Zonal correspondiente, un régimen denominado Áreas de Manejo y Explotación de Recursos Bentónicos, cuyo objetivo será la ejecución de un plan de manejo y explotación de los recursos bentónicos presentes en el sector, al que podrán optar las organizaciones de pescadores artesanales inscritas en el Registro Pesquero Artesanal. Una vez establecida el área, el Servicio deberá solicitar su destinación al Ministerio de Defensa Nacional, debiendo ésta encontrarse vigente, a la fecha de tramitación de la solicitud de asignación de la respectiva área de manejo, por parte de la o las organizaciones de pescadores artesanales.
+
+Sin perjuicio de lo indicado en el inciso anterior, se podrá suspender transitoriamente, por resolución fundada de la Subsecretaría, el ingreso de nuevas propuestas de establecimiento y/o ampliación de nuevas áreas de manejo y explotación, para toda o parte de una región o regiones, previo informe técnico del Consejo Zonal de Pesca respectivo, en base a criterios de zonificación del borde costero, estrategias locales y ordenamiento pesquero.
+
+El acceso terrestre para los titulares de las áreas de manejo se someterá a lo establecido en el artículo 13 del decreto ley Nº 1.939, de 1977, del Ministerio de Tierra y Colonización, sobre adquisición, administración y disposición de bienes del Estado.
 
 #### Artículo 55
 
@@ -1582,27 +1656,39 @@ B.- Las áreas de manejo serán entregadas mediante resolución del Servicio, pr
 
 El citado convenio deberá incorporar, dentro de sus causales de caducidad, lo establecido, al respecto, en el decreto con fuerza de ley N°340, de 1960, del Ministerio de Defensa Nacional, y aquella normativa que la complemente o reemplace.
 
-Los derechos emanados de la resolución que habilita a la organización para el uso de esta área de manejo no podrán enajenarse, arrendarse ni constituirse, a su respecto, otros derechos en beneficio de terceros.
+Los derechos emanados de la resolución que habilita a la organización para el uso de esta área de manejo no podrán enajenarse, arrendarse ni constituirse, a su respecto, otros derechos en beneficio de terceros. No constituirán derechos en beneficio de terceros aquellos acuerdos suscritos por organizaciones titulares de áreas de manejo con autorización exclusiva de explotación de la playa de mar, ni los casos en que es necesario contratar a un tercero para realizar la extracción desde el área de manejo, ni aquellos acuerdos adoptados para financiar los costos derivados del establecimiento de zonas voluntarias de protección u otras iniciativas para mejorar la sostenibilidad del área que hayan sido aprobadas en el plan de manejo respectivo.
 
 #### Artículo 55
 
 C.- Las áreas de manejo y explotación quedarán sujetas a las medidas de administración de los recursos hidrobiológicos consignados en el párrafo 1º del Título II, como también a las que señala este párrafo. No obstante, se podrá exceptuar del cumplimiento de tales medidas, mediante decretos del Ministerio o resoluciones de la Subsecretaría.
 
-Los pescadores artesanales que pertenezcan a la organización titular del área de manejo podrán extraer los recursos hidrobiológicos comprendidos en el plan de manejo con independencia de su inscripción en el Registro Artesanal, dentro de su área de manejo, debiendo cumplir, en todo caso, con las exigencias que establezcan para el otorgamiento del título o matrícula a que se refiere el artículo 51.
+Los pescadores y/o las pescadoras artesanales que pertenezcan a la organización titular del área de manejo podrán extraer los recursos hidrobiológicos comprendidos en el plan de manejo con independencia de su inscripción en el Registro Artesanal, dentro de su área de manejo, debiendo cumplir, en todo caso, con las exigencias que establezcan para el otorgamiento del título o matrícula a que se refiere el artículo 51.
 
 #### Artículo 55
 
-D.- El funcionamiento de este régimen será establecido por un reglamento, el cual además determinará las condiciones y modalidades de los términos técnicos de referencia de los planes de manejo y explotación, los informes de seguimiento que deben entregar las organizaciones de pescadores artesanales titulares del área, el cual tendrá una periodicidad de no menos de un año ni más de tres y dará cuenta de la evaluación del desempeño biológico pesquero, económico y social del área, las acciones de manejo señaladas que puedan realizarse en el área respectiva, de conformidad con el plan aprobado las instituciones que los efectuarán y los antecedentes que deben proporcionarse en la solicitud. Dicha determinación se efectuará mediante decreto que llevará las firmas de los Ministros de Medio Ambiente y de Economía, Fomento y Turismo.
+D.- El funcionamiento de este régimen será establecido por un reglamento expedido por el Ministerio de Economía, Fomento y Turismo, suscrito además por los Ministros de Defensa Nacional y del Medio Ambiente, el cual determinará, entre otras, las siguientes materias:
+
+a) Los requisitos y procedimientos para proponer, establecer, modificar, reubicar, asignar y caducar áreas de manejo y explotación de recursos bentónicos.
+
+b) Los contenidos y requisitos para el funcionamiento de los planes de manejo y explotación de recursos bentónicos y sus seguimientos, así como los requisitos y procedimientos de caducidades de dichos planes.
+
+c) Las acciones de manejo que puedan realizarse en el marco de los planes de manejo aprobados.
+
+d) Los requisitos y condiciones de zonas voluntarias de protección, destinadas al monitoreo e investigación científica implementada por la organización.
+
+e) Requisitos para el funcionamiento de planes de manejo conjuntos.
+
+f) Los procedimientos de autorización para la explotación exclusiva de aquellos recursos que hayan sido incorporados en el plan de manejo y que se encuentren en el espacio de la playa de mar colindante con el área, según lo indicado en el inciso final del presente artículo.
 
 El plan de manejo y explotación podrá comprender actividades de acuicultura y captación de semillas, siempre que ellas no afecten las especies naturales del área y cumplan con las normas establecidas, al efecto, en los reglamentos respectivos. En estos casos y en el área que se autorice, la destinación deberá comprender la porción de agua y fondo de mar para la instalación de las estructuras necesarias para el ejercicio de estas actividades, siempre que ellas se encuentren aprobadas en el plan de manejo y explotación.
 
 Sin perjuicio de lo anterior, el porcentaje total del área de manejo destinada a estas actividades, en conjunto, no podrá exceder el 40% de la superficie decretada.
 
-Las organizaciones titulares de áreas de manejo, podrán solicitar, en aquellos casos que la superficie del área no incluya la playa de mar, la explotación exclusiva de aquellos recursos que hayan sido incorporadas en su plan de manejo y que se encuentren en el espacio de la playa de mar colindante con el área. Dicha autorización se establecerá por resolución de la Subsecretaría previa consulta al Consejo Zonal de Pesca que corresponda.
+Las organizaciones titulares de áreas de manejo, podrán solicitar, en aquellos casos que la superficie del área no incluya la playa de mar, la explotación exclusiva de aquellos recursos que hayan sido incorporadas en su plan de manejo y que se encuentren en el espacio de la playa de mar colindante con el área. Dicha autorización se establecerá por resolución de la Subsecretaría previa consulta al Consejo Zonal de Pesca que corresponda, y deberá ser informada a la Autoridad Marítima y al Ministerio de Defensa Nacional.
 
 #### Artículo 55
 
-E.- En el evento que dos o más organizaciones de pescadores artesanales soliciten acceder a una misma área de manejo, y, a lo menos, dos de ellas cumplan con los requisitos exigidos por esta ley y el reglamento, podrá asignarse en forma conjunta, previo acuerdo voluntario de estas organizaciones, el cual deberá constar por escrito y debidamente autorizado por notario público o suscrito mediante firma electrónica avanzada por los representantes de todas las organizaciones de pescadores involucradas. En caso de no existir tal acuerdo, se preferirá a aquella organización que no sea titular de un área de manejo.
+E.- En el evento que dos o más organizaciones de pescadores y/o pescadoras artesanales soliciten acceder a una misma área de manejo, y, a lo menos, dos de ellas cumplan con los requisitos exigidos por esta ley y el reglamento, podrá asignarse en forma conjunta, previo acuerdo voluntario de estas organizaciones, el cual deberá constar por escrito y debidamente autorizado por notario público o suscrito mediante firma electrónica avanzada por los representantes de todas las organizaciones de pescadores involucradas. En caso de no existir tal acuerdo, se preferirá a aquella organización que no sea titular de un área de manejo y cumpla con los demás requisitos establecidos en el reglamento.
 
 No pudiendo asignarse el área de manejo conforme a lo dispuesto en el inciso anterior, se preferirá a la organización que obtenga el mayor puntaje ponderado, de acuerdo a los siguientes criterios:
 
@@ -1614,6 +1700,8 @@ c) Número de socios inscritos en el Registro Pesquero Artesanal, que posean una
 
 d) Antigüedad de la organización de pescadores artesanales legalmente constituida y de su inscripción en el Registro Pesquero Artesanal.
 
+e) Número de pescadores y/o pescadoras inscritos en la categoría de buzos y recolectores o recolectoras de orilla, algueros o algueras y buzos apnea.
+
 El reglamento determinará la ponderación y la fórmula de cálculo para el puntaje asociado a cada uno de los criterios señalados.
 
 #### Artículo 55
@@ -1622,21 +1710,21 @@ F.-Derogado.
 
 #### Artículo 55
 
-G.- Las organizaciones de pescadores
+G.- Las organizaciones de pescadores y/o pescadoras artesanales titulares de un área de manejo que modifiquen su personalidad jurídica, podrán mantener la titularidad del área y continuar las actividades del plan de manejo a partir de la etapa en que éstas se encuentren autorizadas, de conformidad con lo dispuesto en el artículo 55 A.
 
-artesanales titulares de un área de manejo podrán renunciar a ella en favor de otras organizaciones de pescadores artesanales inscritas de conformidad con el artículo 55 A.
+Para estos efectos, el instrumento en el que se efectúe el reemplazo de titularidad deberá ser suscrito en asamblea ante un ministro de fe, con acuerdo de la mayoría absoluta de los socios inscritos a la fecha.
 
-Para estos efectos, en el instrumento en el cual se efectúe la renuncia y cesión del área de manejo deberá constar la manifestación de voluntad de la mayoría absoluta de los integrantes de la respectiva organización de pescadores artesanales, debiendo, en todo caso, ser suscrito ante notario público.
+La organización de pescadores y/o pescadoras artesanales reemplazante que continúe explotando el área de manejo deberá estar constituida por, a lo menos, el 80% de los integrantes de la organización de pescadores y/o pescadoras artesanales reemplazada.
 
-Asimismo la organización de pescadores artesanales que continúe explotando el área de manejo deberá estar constituida por, a lo menos, el 80% de los integrantes de la organización de pescadores artesanales renunciante.
+El reemplazo de la titularidad del área de manejo deberá ser aprobado por resolución de la Subsecretaría, e incorporado por el Servicio al respectivo Convenio de Uso.
 
 #### Artículo 55
 
-H.- En caso de renuncia o caducidad de un plan de manejo y explotación, de conformidad con el artículo 144, la organización de pescadores artesanales, que era titular de la misma, no podrá solicitarla nuevamente sino transcurridos tres años, contados desde la fecha de la notificación de la resolución que declaró la caducidad, según corresponda.
+H.- En caso de renuncia o caducidad de un plan de manejo y explotación, de conformidad con el artículo 144, la organización de pescadores y/o pescadoras artesanales, que era titular de la misma, no podrá solicitarla nuevamente sino transcurridos tres años, contados desde la fecha de la notificación de la resolución que declaró la caducidad, según corresponda.
 
-Para estos efectos, se considerará como una misma organización aquélla en que participen más del 20% de los pescadores artesanales asociados a otra. Se considerará como referencia, la organización que tenga el menor número de asociados.
+Para estos efectos, se considerará como una misma organización aquélla en que participen más del 20% de los pescadores y/o las pescadoras artesanales asociados a otra. Se considerará como referencia, la organización que tenga el menor número de asociados.
 
-Asimismo, en caso de caducidad del área de manejo y explotación de recursos bentónicos por alguna de las causales previstas en el artículo 144 bis, dicho sector no podrá volver a ser propuesto para su establecimiento de acuerdo al artículo 55 A, por un plazo de 5 años, contado desde la fecha de la resolución que declare la caducidad.
+Asimismo, en caso de caducidad del área de manejo y explotación de recursos bentónicos por alguna de las causales previstas en el artículo 144 A, dicho sector no podrá volver a ser propuesto para su establecimiento de acuerdo al artículo 55 A, por un plazo de 5 años, contado desde la fecha de la resolución que declare la caducidad.
 
 ### Párrafo 4°
 
@@ -1838,11 +1926,11 @@ c) En caso que existan diferencias entre la información de captura y desembarqu
 
 Las lanchas transportadoras deberán llevar a bordo una bitácora electrónica y dar cumplimiento a la obligación señalada en la letra b) del inciso anterior, de conformidad a las condiciones y oportunidad que señale el reglamento.
 
-La misma obligación de la letra b) deberán cumplir los recolectores de orilla, buzos, buzos apnea y organizaciones de pescadores artesanales asignatarias de áreas de manejo, en las condiciones y oportunidad que determine el reglamento.
+La misma obligación de la letra b) deberán cumplir los recolectores de orilla, buzos, buzos apnea y organizaciones de pescadores y/o pescadoras artesanales asignatarias de áreas de manejo, en las condiciones y oportunidad que determine el reglamento.
 
 Los titulares de Plantas de Proceso o de transformación y las personas que realicen actividades de comercialización de recursos hidrobiológicos, deberán informar al Servicio el abastecimiento de recursos hidrobiológicos y de los productos finales derivados de ellos, en las condiciones y oportunidad que determine el reglamento.
 
-Los que realicen cualquier tipo de actividad de acuicultura y a cualquier título, así como quienes realicen colecta de semillas en virtud de los artículos 75 quáter y 75 quinquies, deberán informar conforme al reglamento, sobre las estructuras utilizadas en el cultivo, el abastecimiento, existencia, cosecha, situación sanitaria, origen y destino de los ejemplares.
+Los que realicen cualquier tipo de actividad de acuicultura y a cualquier título, así como quienes realicen colecta de semillas en virtud de los artículos 75 quáter y 75 quinquies, deberán informar, conforme al reglamento, sobre las estructuras utilizadas en el cultivo, el abastecimiento, incluido el alimento para ejemplares en cultivo, existencia, cosecha, situación sanitaria, origen y destino de los ejemplares. Con todo, aquellos centros de cultivo que se abastezcan de alimento consistente en recursos hidrobiológicos procedentes de bancos o praderas naturales, deberán individualizar el agente extractivo, su procedencia y las cantidades que son adquiridas mensualmente por especie.
 
 Toda captura, desembarque, abastecimiento y comercialización de recursos hidrobiológicos, a que se refieren los incisos anteriores deberá tener origen legal, entendiendo por tal, aquellos capturados o adquiridos, procesados o comercializados cumpliendo con la normativa pesquera nacional y los tratados internacionales vigentes en Chile. El procedimiento, condiciones y requisitos de la acreditación del origen legal de los recursos hidrobiológicos, serán establecidos mediante resolución del Servicio.
 
@@ -1888,7 +1976,7 @@ A.- Habrá un sistema de posicionamiento automático de naves pesqueras y de inv
 
 #### Artículo 64
 
-B.- Los armadores de naves pesqueras industriales; de embarcaciones artesanales de una eslora total igual o superior a 15 metros y embarcaciones transportadoras, así como para las embarcaciones artesanales de una eslora total igual o superior a doce metros e inferior a quince metros inscritas en pesquerías pelágicas con el arte de cerco matriculadas en Chile, que desarrollen actividades pesqueras extractivas en aguas de jurisdicción nacional, deberán instalar a bordo y mantener en funcionamiento un dispositivo de posicionamiento automático en el mar. Con excepción de las embarcaciones que efectúan operaciones extractivas inscritas en recursos bentónicos.
+B.- Los armadores de naves pesqueras industriales; de embarcaciones artesanales de una eslora total igual o superior a 15 metros y embarcaciones transportadoras, así como para las embarcaciones artesanales de una eslora total igual o superior a doce metros e inferior a quince metros inscritas en pesquerías pelágicas con el arte de cerco matriculadas en Chile, que desarrollen actividades pesqueras extractivas en aguas de jurisdicción nacional, deberán instalar a bordo y mantener en funcionamiento un dispositivo de posicionamiento automático en el mar. En el caso de las pesquerías de recursos bentónicos se estará a lo dispuesto en la letra d) del artículo 48 A.
 
 La misma obligación deberán cumplir los armadores de naves matriculadas en Chile que operen en aguas no jurisdiccionales; los armadores de naves que, estando o no estando matriculadas en Chile, realicen pesca de investigación dentro o fuera de las aguas jurisdiccionales; y los armadores de buques fábricas que operen en aguas jurisdiccionales o en la alta mar. Asimismo, esta obligación será aplicable a los armadores de naves pesqueras o buques fábricas de pabellón extranjero que sean autorizados a recalar en los puertos de la República.
 
@@ -1899,8 +1987,6 @@ La forma, requisitos y condiciones de aplicación de la exigencia establecida en
 Asimismo, se deberá instalar un posicionador geográfico automático en los casos en que el juez competente sancione como reincidente a alguna nave pesquera mayor por actuar ilegalmente en un área reservada a los pescadores artesanales o cayese en las infracciones que señala el Título IX de esta ley.
 
 La instalación y mantención del dispositivo de posicionamiento y transmisión automática, así como la transmisión de la señal al satélite y desde éste hasta la primera estación receptora, serán de cargo del armador. La transmisión desde dicha estación a las estaciones de fiscalización será de cargo del Estado.
-
-> **Nota.** El Art. Único de la Ley 20814, publicada el 07.02.2015, prorroga, por única vez, el plazo para hacer exigible la obligación establecida en el presente artículo, para las embarcaciones artesanales, hasta el 9 de agosto de 2015, inclusive.
 
 #### Artículo 64
 
@@ -1974,7 +2060,7 @@ H.- El Servicio a objeto de efectuar el control de cuota global de captura de un
 
 #### Artículo 64
 
-I.- Los armadores de naves pesqueras a que se refiere el artículo 64 B y los armadores artesanales respecto de sus embarcaciones que tengan una eslora igual o superior a 15 metros deberán instalar a bordo y mantener en funcionamiento, durante todo el viaje de pesca, un dispositivo de registro de imágenes que permita detectar y registrar toda acción de descarte y toda acción que constituya pesca ilegal, conforme lo establece el número 72 del artículo 2, que pueda ocurrir a bordo. A la misma obligación quedará sometida la persona natural o jurídica propietaria de un artefacto naval o quien lo explote a cualquier título, que sea utilizado para la descarga de recursos hidrobiológicos, tales como pontones, plataformas fijas o flotantes. Para estos efectos, el propietario o quien explote el artefacto naval deberá inscribirlo ante el Servicio.
+I.- Los armadores de naves pesqueras a que se refiere el artículo 64 B y los armadores artesanales respecto de sus embarcaciones que tengan una eslora igual o superior a 15 metros deberán instalar a bordo y mantener en funcionamiento, durante todo el viaje de pesca, un dispositivo de registro de imágenes que permita detectar y registrar toda acción de descarte y toda acción que constituya pesca ilegal que pueda ocurrir a bordo. A la misma obligación quedará sometida la persona natural o jurídica propietaria de un artefacto naval o quien lo explote a cualquier título, que sea utilizado para la descarga de recursos hidrobiológicos, tales como pontones, plataformas fijas o flotantes. Para estos efectos, el propietario o quien explote el artefacto naval deberá inscribirlo ante el Servicio.
 
 El Servicio Nacional de Pesca deberá requerir la entrega de la información registrada desde las naves pesqueras y desde los artefactos navales, en ejercicio de su función fiscalizadora.
 
@@ -3044,9 +3130,9 @@ e) Con artes o aparejos de pesca prohibidos. Si no se usaren naves o embarcacion
 
 #### Artículo 110 quáter
 
-Será sancionado con multa de 30 a 100 unidades tributarias mensuales el capitán o patrón de una nave industrial o artesanal que entorpezca, por sí o por terceros, las labores de los observadores científicos a bordo de las mismas, o que no otorgue las facilidades necesarias para que éstos desempeñen sus funciones.
+Será sancionado con multa de 30 a 100 unidades tributarias mensuales el capitán o patrón de una embarcación industrial, artesanal o de transporte que entorpezca, por sí o por terceros, las labores de los observadores científicos a bordo de las mismas, o que no otorgue las facilidades necesarias para que éstos desempeñen sus funciones.
 
-Igual sanción se aplicará al capitán o patrón de una nave industrial o artesanal que no dé cumplimiento a la obligación establecida en el inciso cuarto del artículo 6º B.
+Igual sanción se aplicará al capitán o patrón de una embarcación industrial, artesanal o de transporte que no dé cumplimiento a la obligación establecida en el inciso cuarto del artículo 6º B.
 
 #### Artículo 111
 
@@ -3302,7 +3388,11 @@ Derogado
 
 #### Artículo 120
 
-A.- La extracción de recursos hidrobiológicos desde un área de manejo y explotación de recursos bentónicos,por los asignatarios de dicha área, en trasgresión a la normativa que rige tal medida de administración pesquera, será sancionada con multa de 30 a 100 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
+A.- La extracción de recursos bentónicos desde un área de manejo por pescadores y/o pescadoras artesanales pertenecientes a la organización titular de dicha área en contravención a lo autorizado por el plan de manejo, será sancionada con multa equivalente al resultado de la multiplicación del valor de sanción vigente de la especie afectada por el peso físico de los recursos bentónicos objeto de la infracción. En caso de reincidencia, la sanción se duplicará.
+
+Toda otra acción desarrollada por los integrantes de la organización titular del área en contravención al plan de manejo, que no implique extracción y no esté comprendida en el artículo 120 B, será sancionada con multa de 10 a 100 unidades tributarias mensuales.
+
+En los casos en que se constate que se ha contravenido la cuota autorizada del período para el área de manejo respectiva, se sancionará con una multa equivalente a dos veces el resultado de la multiplicación del valor sanción vigente de la especie afectada por el peso físico de los recursos bentónicos objeto de la infracción. En el caso de reincidencia la multa se duplicará. En el evento que la infracción de este inciso se produzca más de dos veces en el plazo de tres años, se aplicará la caducidad del plan de manejo de conformidad con la letra a) del inciso primero del artículo 144.
 
 #### Artículo 120
 
@@ -3558,7 +3648,7 @@ Procederá de igual forma el Ministerio Público cuando se le denuncie la perpet
 
 #### Artículo 129
 
-Las especies hidrobiológicas, en su estado natural o procesadas, y los materiales biológicos o patológicos, objeto de la infracción, como también las artes y aparejos de pesca, equipo y traje de buceo, según corresponda, y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, los cuales podrán quedar en poder del denunciado en calidad de depositario provisional, bajo la responsabilidad legal del artículo 470, Nº 1, del Código Penal, mientras el juez competente determine su destino, o bien ser puestos en forma inmediata a disposición del tribunal conforme las facultades establecidas en el presente artículo, con excepción de los materiales biológicos o patológicos, respecto de los cuales, salvo los casos en que se haya procedido de conformidad con el artículo 122 letra n) de esta ley, el Servicio podrá inactivar o destruir estos productos, previa autorización judicial.
+Las especies hidrobiológicas, en su estado natural o procesadas, y los materiales biológicos o patológicos, objeto de la infracción, como también las artes y aparejos de pesca, equipo y traje de buceo, según corresponda, y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, los cuales podrán quedar en poder del denunciado en calidad de depositario provisional, bajo la responsabilidad legal del artículo 470, Nº 1, del Código Penal, mientras el juez competente determine su destino, o bien ser puestos en forma inmediata a disposición del tribunal conforme las facultades establecidas en el presente artículo, con excepción de los materiales biológicos o patológicos, respecto de los cuales, salvo los casos en que se haya procedido de conformidad con el artículo 122 letra n) de esta ley, el Servicio podrá inactivar o destruir estos productos, previa autorización judicial. En el caso de incautación de especies hidrobiológicas bentónicas en su estado natural, éstas deberán ser devueltas al medio con cargo al infractor, siempre y cuando esto no implique daño al medio ambiente.
 
 Podrá el juez de la causa, tratándose de especies hidrobiológicas incautadas, procesadas, y actuando como representante legal de su propietario, ordenar a un almacén general de depósito u otro establecimiento similar el bodegaje de ellas y su inmediata subasta por intermedio de un martillero público que designe al efecto. El producto de la subasta, luego de descontarse el valor de los servicios de bodegaje, martillo y otros proporcionados, deberá depositarse en la cuenta corriente del tribunal en garantía del pago de las multas que pudieren ser aplicadas.
 
@@ -3874,19 +3964,23 @@ Las infracciones que dan lugar a las caducidades respecto de los permisos, autor
 
 Son causales de caducidad de los planes de manejo y explotación de las áreas de manejo las siguientes:
 
-a) Explotar el área en contravención al plan de manejo y explotación aprobado por la Subsecretaría.
+a) Que la organización asignataria haya sido sancionada en tres ocasiones por las infracciones contempladas en el artículo 120 A.
 
-b) No cumplir con la entrega de los informes de seguimiento de conformidad con el artículo 55 D, por un período de 2 años desde que éste sea exigible.
+b) No cumplir con la entrega de los informes de seguimiento de conformidad con el artículo 55 D, dentro de un plazo mínimo de 2 años hasta un plazo máximo de 5 años desde que éste sea exigible.
 
 c) No haber declarado actividad extractiva o no realizar ningún tipo de acciones de manejo en su interior, por un plazo de 3 años consecutivos.
 
+d) Por haber infringido la prohibición de constituir derechos en beneficio de terceros a que hace referencia el artículo 55 B.
+
 Sin perjuicio de lo anterior, los plazos indicados en los literales b) y c), se suspenderán de pleno derecho en el evento que la autoridad declare zona de catástrofe en aquellos sectores en que se encuentren situadas las áreas de manejo y explotación de recursos bentónicos.
 
-La caducidad será declarada, previa audiencia de la organización titular, por resolución del Subsecretario y notificada a la organización de pescadores artesanales respectiva, de conformidad con lo dispuesto en la ley Nº 19.880.
+La caducidad será declarada por resolución del Subsecretario y deberá ser notificada a la organización mediante carta certificada. Las notificaciones se entenderán practicadas a contar del décimo día de su recepción en la oficina de correos que corresponda.
 
-La organización de pescadores artesanales tendrá el plazo de 30 días contado desde la notificación para presentar recurso jerárquico al Ministro.
+De esta resolución se podrá reclamar ante el Ministro dentro del plazo de treinta días hábiles contado desde la notificación.
 
-Una vez ejecutoriada la resolución que declara la caducidad, quedará sin efecto, por el solo ministerio de la ley el convenio de uso celebrado con la organización de pescadores artesanales respectiva.
+El procedimiento para declarar la caducidad deberá considerar la audiencia previa del titular a fin de que efectúe sus descargos.
+
+Una vez ejecutoriada la resolución que declara la caducidad, quedará sin efecto, por el solo ministerio de la ley el convenio de uso celebrado con la organización de pescadores y/o pescadoras artesanales respectiva.
 
 #### Artículo 144
 
@@ -3894,7 +3988,7 @@ A.- Son causales de caducidad de un área de manejo y explotación de recursos b
 
 a) Que el estudio de situación base del área de manejo no dé cuenta de la existencia de un banco natural que presente las condiciones para el desarrollo de un plan de manejo y explotación de recursos bentónicos, y
 
-b) En caso que no se asigne el área a una organización de pescadores artesanales dentro de un plazo de 2 años desde la fecha del decreto de destinación marítima a que se refiere el artículo 55 A, o de la fecha de término del último convenio de uso vigente.
+b) En caso que no se asigne el área a una organización de pescadores artesanales dentro de un plazo de 5 años desde la fecha del decreto de destinación marítima a que se refiere el artículo 55 A, o de la fecha de término del último convenio de uso vigente.
 
 La caducidad será declarada por decreto del Ministro, suscrito "por orden del Presidente de la República", previo informe de la Subsecretaría, y publicado de conformidad con el artículo 174 de esta ley. Caducada el área, se comunicará al Ministerio de Defensa Nacional y quedará sin efecto por el solo ministerio de la ley la destinación que se haya otorgado.
 
