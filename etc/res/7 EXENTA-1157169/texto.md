@@ -128,7 +128,7 @@ Intervinientes y funciones. Los/Las siguientes funcionarios(as), o quienes les s
 
 a. Aplicar o modificar la propuesta sugerida por la Comisión de Sanciones, dictando el acto administrativo terminal respectivo, en todos aquellos casos en que no ha delegado expresamente tal facultad, como, asimismo, ordenar los reintegros que correspondan asociados a los casos que le toque resolver.
 
-### II. Jefe(a) de la División Contraloría
+### II. Jefe(a) de la División Fiscalización y Contraloría
 
 a. Presidir la Comisión de Sanción del Nivel Central, convocando a reuniones ordinarias y/o extraordinarias para la relatoría de procesos administrativos a prestadores.
 
@@ -140,33 +140,43 @@ d. Supervisar permanentemente la realización de las fiscalizaciones y velar por
 
 ### III. Director(a) Zonal
 
-a. Velar por la correcta aplicación y ejecución de las instrucciones generales impartidas por el/la Jefe(a) de la División Contraloría.
+a. Velar por la correcta aplicación y ejecución de las instrucciones generales impartidas por el/la Jefe(a) de la División Fiscalización y Contraloría.
 
 b. Aplicar o modificar la propuesta sugerida por la Comisión de Sanciones Zonal, dictando el acto administrativo terminal respectivo, como asimismo, ordenar los reintegros que correspondan asociados a estos casos.
 
-### IV. Jefe(a) del Departamento Contraloría MLE
+c. Resolver sobre procesos administrativos a prestadores de la MLE, de acuerdo con el procedimiento que lo regula y a lo contemplado en el Libro II del decreto con fuerza de ley N° 1 de 2005, del Ministerio de Salud, de acuerdo con la resolución que establece la estructura y organización interna del Fonasa.
 
-a. Solicitar los antecedentes necesarios para efectuar el análisis del comportamiento de los prestadores a fiscalizar.
+IV. Del proceso de fiscalización que se desarrolle en Nivel Central y en la VI Región, recaen las siguientes funciones en los jefes de Departamento de la División de Fiscalización y Contraloría.
 
-b. Asignar los casos al equipo de fiscalizadores que tenga a su cargo, de acuerdo al monitoreo y gestionando la apertura del Expediente del prestador a investigar.
+En el jefe(a) del Departamento de Monitoreo.
 
-c) Instruir el inicio de la fiscalización mediante Oficio Ordinario.
+a. Llevar a cabo el monitoreo de los prestadores inscritos en el rol de la Modalidad de Libre Elección de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins.
 
-d. Dictar el acto administrativo fundado que aplica las medidas provisionales, en los casos que se ha delegado la facultad.
+En el jefe(a) del Departamento de Fiscalización.
 
-e. Dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización, solicitando el reintegro de las prestaciones objetadas, si procediere, en los casos en que se le ha delegado la facultad.
+a. Asignar los casos al equipo de fiscalizadores mediante Nota Interna, gestionando la apertura del expediente del prestador a investigar.
 
-f. Dictar el acto administrativo mediante el cual se le formulan cargos al prestador, en los casos en que se le ha delegado la facultad.
+b. Instruir el inicio de la fiscalización mediante el acto administrativo respectivo para las personas naturales o jurídicas inscritas en la Base de Prestadores de la Modalidad Libre Elección y que registren domicilio en la Región Metropolitana de Santiago o en la Región del Libertador General Bernardo O'Higgins.
 
-g. Supervisar que se realice el cambio de estado de las personas naturales o jurídicas, inscritas en la Base de Prestadores y que registren domicilio en la Región Metropolitana y/o en la VI Región, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
+En el jefe(a) del Departamento de Regulación.
 
-h. Informar a la División de Gestión Financiera del Fonasa los reintegros o devoluciones ordenadas a los prestadores que registren domicilio en la Región Metropolitana y/o en la VI Región, con el fin que ese Departamento adopte las medidas necesarias para su cobro.
+a. Dictar el acto administrativo mediante el cual se cierra la etapa de fiscalización.
 
-i. Informar a la División de Gestión Financiera del Fonasa las multas a beneficio fiscal que se encuentren ejecutoriadas de prestadores que registren domicilio en la Región Metropolitana y/o en la VI Región, para que dicha División informe a la Tesorería General de la República, con el fin de que sea ese Servicio quien efectúe las gestiones de cobranza correspondientes.
+b. Dictar el acto administrativo fundado que aplica las medidas provisionales, en los casos en los que se ha delegado la facultad.
 
-### V. Jefe(a) del Departamento de Contraloría a Nivel Zonal
+c. Dictar el acto administrativo mediante el cual se le formulan cargos al prestador, en los casos en que se le ha delegado la facultad.
 
-a. Solicitar, a quien tenga delegada esta función, los antecedentes necesarios para efectuar el análisis del comportamiento de los prestadores a fiscalizar.
+d. Dictar el acto administrativo que conceda término probatorio en los casos que regula el Art. 26 bis de la presente resolución.
+
+e. Supervisar que se realice el cambio de estado de las personas naturales o jurídicas, inscritas en la Base de Prestadores de la Modalidad Libre Elección que registren domicilio en la Región Metropolitana de Santiago y/o en la VI Región, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
+
+f. Informar a la División de Gestión Financiera y Presupuestaria los reintegros o devoluciones ordenadas a los prestadores que registren domicilio en la Región Metropolitana de Santiago y/o en la VI Región, con el fin que ese Departamento adopte las medidas necesarias para su cobro.
+
+g. Informar a la División de Gestión Financiera y Presupuestaria las multas a beneficio fiscal que se encuentren ejecutoriadas de prestadores que registren domicilio en la Región Metropolitana de Santiago y/o en la VI Región, para que dicha División informe a la Tesorería General de la República, con el fin de que sea ese Servicio quien efectúe las gestiones de cobranza correspondientes.
+
+### V. Jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones de las Direcciones Zonales
+
+a. Llevar a cabo el monitoreo de los prestadores inscritos en el rol de la Modalidad de Libre Elección correspondientes a su Dirección Zonal, mediante las herramientas dispuestas para ello.
 
 b. Asignar los casos al equipo de fiscalizadores que tenga a su cargo, de acuerdo al monitoreo y gestionando la apertura del Expediente del prestador a investigar.
 
@@ -184,19 +194,21 @@ h. Supervisar que se realice el cambio de estado de las personas naturales o jur
 
 i. Informar a la División de Gestión Financiera de Fonasa y al Departamento de Administración y Finanzas de la Dirección Zonal respectiva, los reintegros o devoluciones ordenadas a los prestadores, con el fin que se adopten las medidas necesarias para su cobro.
 
-j. Informar a el/la Jefe(a) del Departamento Contraloría MLE, las multas a beneficio fiscal que se encuentren ejecutoriadas, para fines pertinentes.
+j. Informar a el/la Jefe(a) Departamento de Regulación, las multas a beneficio fiscal que se encuentren ejecutoriadas, para fines pertinentes.
+
+k. Dictar el acto administrativo que conceda término probatorio en los casos que regula el Art. 26 bis de la presente resolución.
 
 ### VI. Asesor(a) Jurídico(a)
 
-a. Apoyar en temas jurídicos a los fiscalizadores y jefes del Depto. Contraloría MLE del Nivel Central y Dptos. Contraloría MLE de las Direcciones Zonales.
+a. Apoyar en temas jurídicos a los fiscalizadores y jefe(a) del Departamento de Regulación y jefes de los Departamentos de Fiscalización y Contraloría de las Prestaciones de las Direcciones Zonales.
 
 b. Integrar la Comisión de Sanciones Zonal o del Nivel Central, según sea el caso.
 
-### VII. Jefe(a) de la División Gestión Financiera del Seguro
+### VII. Jefe(a) de la División Gestión Financiera y Presupuestaria
 
 a. Integrar la Comisión de Sanciones del Nivel Central, o designar a un funcionario de su dependencia al efecto.
 
-### VIII. Jefe(a) del Departamento Comercialización y Gestión Financiera del Seguro de la Dirección Zonal
+### VIII. Jefe(a) del Departamento de Gestión Comercial de las Direcciones Zonales
 
 a. Integrar la Comisión de Sanciones Zonal respectiva.
 
@@ -204,37 +216,37 @@ a. Integrar la Comisión de Sanciones Zonal respectiva.
 
 a. Sustanciar los procedimientos de fiscalización y aplicación de sanciones a prestadores dentro de los plazos definidos, recopilando y analizando los antecedentes, documentación y cualquier otra información necesaria que sustente los mismos.
 
-b. Firmar el Oficio Ordinario de Solicitud de Antecedentes al prestador.
+b. Mantener permanentemente actualizado el expediente del prestador fiscalizado, desde el inicio de la fiscalización hasta el acto terminal respectivo, según sea el caso.
 
-c. Mantener permanentemente actualizado el expediente del prestador fiscalizado, desde el inicio de la fiscalización hasta el acto terminal respectivo, según sea el caso.
+c. Confeccionar Informes Profesionales con los resultados obtenidos en el proceso.
 
-d. Confeccionar Informes Profesionales con los resultados obtenidos en el proceso.
+d. Proponer a el/la Jefe(a) del Departamento de Fiscalización, en el caso del Nivel Central, o Departamento de Fiscalización y Contraloría de las prestaciones, en el caso de las Direcciones Zonales, mediante la elaboración de un informe, el inicio de la fiscalización, en atención a la información que logre recabar en la etapa de análisis preliminar, o bien, el cierre de la investigación por no haber encontrado evidencias que justifiquen iniciar un procedimiento.
 
-e. Proponer a el/la Jefe(a) de Depto. Contraloría MLE, en el caso del Nivel Central, o Departamento Contraloría, en el caso de las Direcciones Zonales, mediante la elaboración de un informe, el inicio de la fiscalización, en atención a la información que logre recabar en la etapa de análisis preliminar, o bien, el cierre de la investigación por no haber encontrado evidencias que justifiquen iniciar un procedimiento.
+e. Proponer a el/la Jefe(a) del Departamento de Regulación, en el caso del Nivel Central, o Departamento de Fiscalización y Contraloría de las prestaciones, en el caso de las Direcciones Zonales, la aplicación de medidas provisionales.
 
-f. Proponer a el/la Jefe(a) de Depto. Contraloría MLE, en el caso del Nivel Central, o Departamento Contraloría, en el caso de las Direcciones Zonales, la aplicación de medidas provisionales.
+f. Evacuar al jefe(a) del Departamento de Fiscalización, un informe en atención a los hallazgos que hayan sido pesquisados en la etapa de fiscalización, dichos antecedentes serán derivados al jefe(a) del Departamento de Regulación, en donde el fiscalizador a cargo del caso del Departamento de Regulación, con el informe ya señalado, analizará los hallazgos y propondrá la formulación de cargos al prestador a su jefatura, lo anterior, en el caso de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins. En el caso de las Direcciones Zonales evacuar al jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones, un informe en atención a los hallazgos que hayan sido pesquisados durante el proceso de fiscalización y proponer la formulación de cargos al prestador.
 
-g. Proponer a el/la Jefe(a) de Depto. Contraloría MLE, en el caso del Nivel Central, o del Departamento Contraloría, en el caso de las Direcciones Zonales, mediante la elaboración de un informe, la formulación de cargos al prestador, en atención a los hallazgos que pesquise durante el proceso de fiscalización.
+g. En el caso de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins, el fiscalizador del Departamento de Fiscalización a quien se le asigne el caso realizará la visita inspectiva en los casos que lo ameriten, levantando el acta respectiva.
 
-h. Relatar el caso a la respectiva Comisión de Sanción y elaborar acta.
+h. En el caso de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins el fiscalizador del Departamento de Regulación a quien se le asigne el caso relatará el caso a la respectiva comisión de Sanción y elaborará el acta respectiva.
 
-i. Realizar el seguimiento de las notificaciones, medidas provisionales y ejecutoriedad de las sanciones.
+i. En el caso de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins el fiscalizador del Departamento de Regulación a quien se le asigne el caso realizará el seguimiento de las notificaciones, medidas provisionales y ejecutoriedad de las sanciones.
 
-j. Solicitar, al funcionario designado, el cambio de estado de las personas naturales o jurídicas inscritas en la Base de Prestadores, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
+j. En el caso de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins el fiscalizador del Departamento de Regulación a quien se le asigne el caso solicitará al funcionario designado, el cambio de estado de las personas naturales o jurídicas inscritas en la Base de Prestadores, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
 
-k. Realizar la visita inspectiva, en los casos que lo ameriten, levantando el acta respectiva.
+k. En el caso de las Direcciones Zonales, el fiscalizador designado por el jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones realizará la visita inspectiva en los casos que lo ameriten, levantando el acta respectiva, relatará el caso a la respectiva comisión de Sanción y elaborará el acta, realizará el seguimiento de las notificaciones, medidas provisionales y ejecutoriedad de las sanciones y solicitará al funcionario designado, el cambio de estado de las personas naturales o jurídicas inscritas en la Base de Prestadores, que estén afectas a medidas provisionales o que hayan sido sancionados con la suspensión o cancelación de su convenio MLE.
 
 #### Artículo 15
 
 Comisión de Sanción Zonal. Será convocada según demanda y será la encargada de revisar los procedimientos de fiscalización y aplicación de sanciones de las Direcciones Zonales del Fonasa, acordando proponer a la autoridad la absolución o sanción de los prestadores, como también podrá proponer la orden de reintegrar fondos, según el mérito de los antecedentes.
 
-Esta Comisión, que debe sesionar con al menos un titular, estará integrada por el/la Jefe(a) del Departamento de Contraloría Zonal, quien la preside, un(a) Asesor(a) Jurídico(a) y el/la Jefe(a) del Departamento Comercialización y Gestión Financiera del Seguro de la Dirección Zonal respectiva. En la sesión de la comisión estará presente el/la fiscalizador(a) que haya participado en el proceso, a fin de relatar los hechos y levantar el acta del caso que relate.
+Esta Comisión, que debe sesionar con al menos un titular, estará integrada por el/la Jefe(a) del Departamento de Fiscalización y Contraloría de las prestaciones de las Direcciones Zonales, quien la preside, un(a) Asesor(a) Jurídico(a) y el/la Jefe(a) del Departamento de Gestión Comercial de la Dirección Zonal respectiva. En la sesión de la comisión estará presente el/la fiscalizador(a) que haya participado en el proceso, u otro funcionario que la Jefatura del Departamento de Regulación designe al efecto, a fin de relatar los hechos, presentar los antecedentes que se hayan reunido en la fiscalización y levantar el acta del caso que relate.
 
 #### Artículo 16
 
 Comisión de Sanción del Nivel Central. Será convocada según demanda y será la encargada de revisar los procedimientos de fiscalización y aplicación de sanciones del Nivel Central del Fonasa, acordando proponer a la autoridad la absolución o sanción de los prestadores, como también podrá proponer la orden de reintegrar fondos, según el mérito de los antecedentes.
 
-Esta Comisión, que debe sesionar con al menos un titular, estará integrada por el/la Jefe(a) de la División Contraloría, quien la preside, un(a) Asesor(a) Jurídico(a) y el/la Jefe(a) de la División Gestión Financiera del Seguro o quien éste designe. En la sesión de la comisión estará presente el/la fiscalizador(a) que haya participado en el proceso, a fin de relatar los hechos y levantar el acta del caso que relate.
+Esta Comisión, que debe sesionar con al menos un titular, estará integrada por el/la Jefe(a) de la División de Fiscalización y Contraloría, quien la preside, un(a) Asesor(a) Jurídico(a) y el/la Jefe(a) de la División Gestión Financiera y Presupuestaria del Seguro o quien éste designe. En la sesión de la comisión estará presente el/la fiscalizador(a) que haya participado en el proceso, u otro funcionario que la Jefatura respectiva designe al efecto, a fin de relatar los hechos, presentar los antecedentes que se hayan reunido en la fiscalización y levantar el acta del caso que relate.
 
 ### IV. Procedimiento de fiscalización y aplicación de sanciones a los prestadores inscritos en el rol de la Modalidad de Libre Elección
 
@@ -244,15 +256,15 @@ Origen de la Fiscalización. La fiscalización podrá originarse como resultado 
 
 También podrá originarse por la denuncia formal interpuesta por terceros, o de oficio, ante requerimiento de alguna otra instancia que presente algún fundamento que la justifique.
 
-Asimismo, podrá iniciarse un procedimiento de fiscalización ágil en contra de prestadores, sean personas naturales o jurídicas, que no presenten ex ante de su selección una Solicitud Ciudadana Escalable, alertas de sistema emanadas de la División de Contraloría o del Departamento de Programación Financiera o que posean alerta informada por otras unidades del negocio en la emisión y/o pago de bonos de atención de salud (BAS).
+Asimismo, podrá iniciarse un procedimiento de fiscalización ágil en contra de prestadores, sean personas naturales o jurídicas, que no presenten ex ante de su selección una Solicitud Ciudadana Escalable, alertas de sistema emanadas de la División de Fiscalización y Contraloría o del Departamento de Programación Financiera o que posean alerta informada por otras unidades del negocio en la emisión y/o pago de bonos de atención de salud (BAS).
 
 #### Artículo 18
 
-Competencia para fiscalizar. En el caso de los prestadores que registren lugar de atención en la Región Metropolitana y/o en la VI Región, el procedimiento de fiscalización será competencia de el/la Jefe(a) del Departamento de Contraloría MLE.
+Competencia para fiscalizar. En el caso de los prestadores que registren lugar de atención en la Región Metropolitana y/o en la VI Región, el procedimiento de fiscalización será competencia de el/la Jefe(a) Departamento de Fiscalización y Jefe(a) Departamento de Regulación.
 
-Cuando el prestador registre lugar de atención en otras regiones, será competencia del Departamento de Contraloría Zonal que corresponda.
+Cuando el prestador registre lugar de atención en otras regiones, será competencia del Departamento de Fiscalización y Contraloría de las prestaciones que corresponda.
 
-Cuando el prestador sólo registre prestaciones a domicilio, la fiscalización será competencia del Departamento de Contraloría correspondiente al domicilio particular del prestador.
+Cuando el prestador sólo registre prestaciones a domicilio, la fiscalización será competencia del Dirección Zonal o Nivel Central correspondiente al domicilio particular del prestador. Quedando facultado el fiscalizador a cargo del caso, para oficiar a los Departamentos de Fiscalización y Contraloría de las prestaciones de las Direcciones Zonales o al Departamento de Fiscalización, para solicitar diligencias probatorias respecto de los lugares de atención que se encuentren fuera de su jurisdicción.
 
 Cuando el prestador registre varias direcciones, la fiscalización será realizada por el órgano competente de acuerdo al lugar donde se cometió la supuesta infracción que motivó la misma.
 
@@ -274,7 +286,7 @@ b. Etapa de fiscalización.
 
 #### Artículo 21
 
-Etapa de fiscalización. La fiscalización se iniciará mediante la notificación formal al prestador del Oficio Ordinario que así lo disponga, dictada por el/la Jefe(a) del Departamento Contraloría MLE o por el/la Jefe(a) del Departamento Contraloría Zonal, según sea el caso.
+Etapa de fiscalización. La fiscalización se iniciará mediante la notificación formal al prestador del Oficio Ordinario que así lo disponga, dictada por el/la Jefe(a) del Departamento de Fiscalización o por el/la Jefe(a) del Departamento de Fiscalización y Contraloría de las prestaciones de las Direcciones Zonales, según sea el caso.
 
 Mediante el mismo acto, se podrán solicitar antecedentes clínicos al prestador, el cual tendrá un plazo de tres días, contados desde la notificación del Oficio Ordinario, para hacer llegar lo requerido por el Fonasa.
 
@@ -290,11 +302,11 @@ Toda visita inspectiva deberá ser registrada en un "acta de visita", donde se r
 
 #### Artículo 23
 
-Informe de fiscalización y fin de la etapa. Una vez analizados los antecedentes clínicos previamente solicitados y los hallazgos de la visita inspectiva, si se hubiere verificado, el/la fiscalizador(a) a cargo del caso evacuará un "Informe de Fiscalización", mediante el cual propondrá a el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda, continuar o no con la siguiente etapa del procedimiento.
+Informe de fiscalización y fin de la etapa. Una vez analizados los antecedentes clínicos previamente solicitados y los hallazgos de la visita inspectiva, si se hubiere verificado, el/la fiscalizador(a) a cargo del caso evacuará un "Informe de Fiscalización", mediante el cual propondrá a el/la Jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones (Direcciones Zonales), continuar o no con la siguiente etapa del procedimiento; en los casos de la Región Metropolitana de Santiago y la Región del Libertador General Bernardo O'Higgins, evacuará un "Informe de Fiscalización" al Jefe(a) del Departamento de Fiscalización, describiendo los hallazgos detectados en esta etapa.
 
-En el evento de encontrarse hallazgos que no ameriten la formulación de cargos, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de un acto administrativo de el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda, informando claramente las irregularidades encontradas para que sean subsanadas, y solicitando el reintegro de las prestaciones objetadas, si procediere. En el evento de ordenarse reintegros, el acto administrativo respectivo deberá ser una resolución.
+En el evento de encontrarse hallazgos que no ameriten la formulación de cargos, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de un acto administrativo evacuado por el/la Jefe(a) del Departamento de Regulación (Región Metropolitana de Santiago y Región del Libertador General Bernardo O'Higgins) o el/la Jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones (Direcciones Zonales), según corresponda, informando claramente las irregularidades encontradas para que sean subsanadas.
 
-En el caso de no constatarse irregularidad alguna, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de un acto administrativo de el/la Jefe(a) del Departamento Contraloría MLE (Nivel Central) o el/la Jefe(a) del Departamento Contraloría Zonal, según corresponda.
+En el caso de no constatarse irregularidad alguna, se deberá notificar formalmente el cierre de la fiscalización al prestador, a través de un acto administrativo evacuado por el/la Jefe(a) del Departamento de Regulación (Región Metropolitana de Santiago y Región del Libertador General Bernardo O'Higgins) o el/la Jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones (Direcciones Zonales), según corresponda.
 
 En el caso de fiscalizaciones ágiles, en el evento que se detecten hechos que constituyen una eventual infracción a la normativa que rige la Modalidad de Libre Elección, se podrá ampliar la muestra a fiscalizar, solicitando antecedentes adicionales y continuando con el procedimiento de fiscalización.
 
@@ -316,7 +328,7 @@ c. Etapa de formulación de cargos.
 
 #### Artículo 25
 
-Inicio de la etapa de formulación de cargos. Esta etapa comenzará con la notificación del Oficio de formulación de cargos al prestador. El oficio, que emanará de el/la Jefe(a) de Departamento MLE o el/la Jefe(a) del Departamento de Contraloría Zonal, según corresponda, deberá contener el detalle de los hechos constitutivos de la o las infracciones que se le imputan al prestador, además de la forma cómo éste habría vulnerado las normas que se invoquen, de modo que se le permita asumir adecuadamente su defensa.
+Inicio de la etapa de formulación de cargos. Esta etapa comenzará con la notificación del Oficio de formulación de cargos al prestador. El oficio, que emanará de el/la Jefe(a) del Departamento de Regulación o el/la Jefe(a) del Departamento de Fiscalización y Contraloría de las Prestaciones de las Direcciones Zonales, según corresponda, deberá contener el detalle de los hechos constitutivos de la o las infracciones que se le imputan al prestador, además de la forma cómo éste habría vulnerado las normas que se invoquen, de modo que se le permita asumir adecuadamente su defensa.
 
 Solo las infracciones que hayan sido objeto de formulación de cargos podrán ser objeto de una eventual sanción por parte del Fonasa.
 
@@ -326,33 +338,41 @@ Descargos por el prestador. El prestador tendrá un plazo de cinco días hábile
 
 Una vez que se verifique que el prestador no presentó descargos dentro de plazo, o bien, una vez que se hayan analizado los descargos presentados por el prestador, el/la fiscalizador(a) deberá efectuar la presentación del caso a la Comisión de Sanciones que corresponda.
 
+#### Artículo 26 bis
+
+Prueba. Cuando a la Administración no le consten los hechos alegados por los interesados, el instructor del mismo ordenará la apertura de un período de prueba, por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes.
+
+El instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada.
+
 La Art. 27. Presentación del fiscalizador a la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central. El/ fiscalizador(a) actuará como relator(a) en la Comisión.
 
-Una vez efectuada la relación de los hechos, la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central, según sea el caso, deberá acordar una propuesta de absolución o sanción a la autoridad competente, como también podrá acordar proponer a la Autoridad el ordenar reintegros, si el caso lo ameritare. Deberá levantarse acta con el acuerdo respectivo.
+Una vez efectuada la relación de los hechos, y la presentación de los antecedentes probatorios del caso, la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central, según sea el caso, deberá acordar una propuesta de absolución o sanción a la autoridad competente, como también podrá acordar proponer a la Autoridad el ordenar reintegros, si el caso lo ameritare. Deberá levantarse acta con el acuerdo respectivo.
 
 Asimismo, en el caso que la Comisión respectiva detectare alguna irregularidad o vicio en el procedimiento, podrá acordar retrotraer el mismo a una etapa anterior, a fin de subsanar defectos de forma o de fondo. En este evento, igualmente deberá levantarse acta del acuerdo, y el caso deberá ser presentado nuevamente a la Comisión respectiva, una vez enmendado el vicio.
 
+En caso de existir una segunda Comisión por el mismo caso, deberá privilegiarse que el caso sea conocido por los mismos integrantes de la Comisión anterior.
+
 #### Artículo 28
 
-Criterios para determinar la propuesta de la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central. Para efectos de proponer a la autoridad una sanción proporcionada y racional en relación a las infracciones acreditadas durante el procedimiento, la Comisión respectiva seguirá los siguientes criterios:
+Criterios para determinar la propuesta de la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central. Para efectos de proponer a la autoridad una sanción proporcionada y racional en relación con las infracciones acreditadas durante el procedimiento, la Comisión respectiva seguirá los siguientes criterios:
 
-a. Para la propuesta de aplicación de multas y reintegros. En caso de producirse más de una infracción, se propondrá una multa que ascenderá a la suma de los montos que correspondan a cada una de ellas, considerándose el monto bruto asociado a las prestaciones para las que se emitió un BAS, más aquellas infracciones a las normativas que no tengan un BAS asociado, respetando el tope máximo legal de 500 Unidades de Fomento.
+a. Para la propuesta de aplicación de multas y reintegros. En caso de producirse más de una infracción, se propondrá una multa que ascenderá a la suma de los montos que correspondan a cada una de ellas, considerándose el monto Fondo de Ayuda Médica (FAM) asociado a las prestaciones para las que se emitió un BAS, más aquellas infracciones a las normativas que no tengan un BAS asociado, respetando el tope máximo legal de 500 Unidades de Fomento.
 
-- Multa para infracción con BAS asociado. Se propondrá aplicar multa en relación al monto bruto de las prestaciones que presenten infracción, más la propuesta de ordenar el reintegro al Fonasa de los montos asociados al Fondo de Ayuda Médica (FAM) de las prestaciones no otorgadas.
+- Multa para infracción con BAS asociado. Se propondrá aplicar multa en relación con el monto bruto de las prestaciones que presenten infracción, más la propuesta de ordenar el reintegro al Fonasa de los montos asociados al Fondo de Ayuda Médica (FAM) de las prestaciones no otorgadas.
 
 - Multa para infracción sin BAS asociado. Se propondrá una multa de 10 Unidades de Fomento por cada infracción detectada. En estos casos no se propondrá ordenar el reintegro de fondos al Fonasa.
 
-- Multa para la infracción de "cobro particular". Cuando exista denuncia y se identifique a los beneficiarios afectados, se solicitará la devolución de los montos al beneficiario y la confección del programa o emisión del BAS respectivo. Sumado a lo anterior, se propondrá la aplicación de multa, a beneficio fiscal, en relación al monto bruto de las prestaciones con irregularidad. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa.
+- Multa para la infracción de "cobro particular". Cuando exista denuncia y se identifique a los beneficiarios afectados, se solicitará la devolución de los montos al beneficiario y la confección del programa o emisión del BAS respectivo. Sumado a lo anterior, se propondrá la aplicación de multa, a beneficio fiscal, en relación con el monto bruto de las prestaciones con irregularidad. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa.
 
 - Multa para la infracción de "Honorarios adicionales por sobre el valor establecido". Se propondrá la aplicación de multa a beneficio fiscal, acorde al monto bruto de las prestaciones que presenten infracción, además de solicitar la devolución al beneficiario de los honorarios cobrados en forma adicional. En este caso, no se propondrá ordenar el reintegro de fondos al Fonasa si las prestaciones fueron debidamente otorgadas.
 
-b. Para la propuesta de aplicación de cancelación, suspensión y amonestación. La Comisión definirá la gravedad de la sanción propuesta de acuerdo al mérito de cada caso e infracciones cometidas, teniendo en consideración los siguientes criterios agravantes y/o atenuantes:
+b. Para la propuesta de aplicación de cancelación, suspensión y amonestación. La Comisión definirá la gravedad de la sanción propuesta de acuerdo con el mérito de cada caso e infracciones cometidas, teniendo en consideración los siguientes criterios:
+
+b.1. Sólo podrán invocarse como agravantes:
 
 - La existencia, o no, de resoluciones administrativas firmes derivadas de procedimientos sancionatorios previos, por infracción a la normativa que regula la Modalidad de Libre Elección del Fonasa.
 
 - Relación del infractor, ya sea mediante representación legal o participación en sociedad, con otros prestadores que hayan sido previamente sancionados.
-
-- Colaboración sustancial del prestador con la Administración durante los procedimientos de fiscalización y aplicación de sanción.
 
 - Cantidad de infracciones detectadas y su reiteración.
 
@@ -360,15 +380,25 @@ b. Para la propuesta de aplicación de cancelación, suspensión y amonestación
 
 - La existencia o no de intencionalidad en la conducta del infractor.
 
-- Capacidad económica del infractor.
-
 - Perjuicio a los beneficiarios del Seguro Público.
 
 - Perjuicio fiscal.
 
-- Oferta geográfica de prestadores disponibles para la entrega de prestaciones con dificultad de acceso para una población determinada (por ejemplo: oncólogos, neurocirujanos, radioterapia, etc.).
+b.2. Sólo podrán invocarse como atenuantes:
 
-Sin perjuicio de lo anterior, los criterios enumerados en la letra b) precedente también podrán ser utilizados para agravar o atenuar la entidad de la sanción o medida propuesta si esta se refiere a la aplicación de multas y/o la orden de reintegros".
+- La existencia, o no, de resoluciones administrativas firmes derivadas de procedimientos sancionatorios previos, por infracción a la normativa que regula la Modalidad de Libre Elección del Fonasa.
+
+- Colaboración sustancial del prestador con la Administración durante los procedimientos de fiscalización y aplicación de sanción.
+
+- Oferta geográfica de prestadores disponibles para la entrega de prestaciones con dificultad de acceso para una población determinada (por ejemplo: oncólogos. neurocirujanos, radioterapia, etc.).
+
+Sin perjuicio de lo anterior, los criterios enumerados en los puntos b.1 y b.2 precedentes también podrán ser utilizados para agravar o atenuar la entidad de la sanción o medida propuesta si esta se refiere a la aplicación de multas y/o la orden de reintegros.
+
+Los fiscalizadores relatores deberán dar cuenta de la existencia de elementos atenuantes o agravantes que se hubieren detectado durante la indagatoria, poniéndolos en conocimiento de la comisión para su ponderación.
+
+#### Artículo 28 bis
+
+Elementos probatorios y apreciación de la prueba. Los hechos relevantes para la decisión del procedimiento podrán acreditarse por cualquier medio de prueba admisible en derecho, apreciándose en conciencia.
 
 #### Artículo 29
 
@@ -416,9 +446,9 @@ b. Desde que se notifique la resolución que se pronuncia sobre el último recur
 
 #### Artículo 34
 
-Publicación de sanción de cancelación. Toda vez que se aplique la sanción de cancelación, y una vez que las resoluciones respectivas se encuentren firmes, es obligación de Fonasa, y de responsabilidad de la División de Contraloría, que se cumpla con la publicación del extracto de la resolución en un diario de circulación nacional.
+Publicación de sanción de cancelación. Toda vez que se aplique la sanción de cancelación, y una vez que las resoluciones respectivas se encuentren firmes, es obligación de Fonasa, y de responsabilidad de la División de Fiscalización y Contraloría, que se cumpla con la publicación del extracto de la resolución en un diario de circulación nacional.
 
-Para verificar que la resolución se encuentra firme, la División de Contraloría requerirá una certificación de tal hecho a la División Jurídica del Ministerio de Salud y al Departamento de Marco Regulatorio del Fonasa, por si se hubiere interpuesto un recurso extraordinario.
+Para verificar que la resolución se encuentra firme, la División de Fiscalización y Contraloría requerirá una certificación de tal hecho a la División Jurídica del Ministerio de Salud.
 
 #### Artículo 35
 
