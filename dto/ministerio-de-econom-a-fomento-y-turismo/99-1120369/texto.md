@@ -24,33 +24,13 @@ Considerando:
 
 Decreto:
 
-#### Artículo 1°
+#### Artículo 1
 
-Créase el "Comité Asesor de Proyectos Sustentables", en adelante el "Comité", que tendrá por objeto asesorar al Comité de Ministros para el Área Económica en el seguimiento y coordinación de la tramitación de las iniciativas de inversión en el país, sean privadas o públicas.
+Créase el "Comité Asesor de Grandes Proyectos Sustentables", en adelante el "Comité", el cual será un órgano consultivo que tendrá como objeto, asesorar e informar al Presidente de la República acerca del seguimiento y coordinación de la tramitación de iniciativas de proyectos de inversión públicas o privadas.
 
-#### Artículo 2°
+#### Artículo 2
 
-Para el cumplimiento de su objeto, corresponderán al Comité desarrollar las siguientes tareas:
-
-a. Servir de instancia de coordinación entre los distintos órganos de la Administración del Estado vinculados al otorgamiento de autorizaciones y permisos de proyectos de inversión, así como también entre dichos órganos de la Administración del Estado y los titulares de proyectos de inversión, facilitando el diálogo durante las distintas instancias de formulación y autorización del proyecto, en especial, en lo relativo a los diversos trámites que éste requiera para su materialización;
-
-b. Servir de contacto para los titulares de proyectos de inversión que pretendan materializarse en el país;
-
-c. Mantener un listado actualizado de los proyectos de inversión que se encuentren en alguna etapa de tramitación y que incluya el seguimiento de dicho proceso;
-
-d. Efectuar presentaciones acerca de los proyectos de inversión a todas las instituciones involucradas en el proceso de tramitación; así como monitorear el proceso de autorización de los proyectos de inversión, y recibir para estos efectos, información pública de los organismos competentes;
-
-e. Proponer modificaciones normativas, o de procesos de gestión, necesarias para incrementar la eficiencia del proceso de otorgamiento de permisos;
-
-f. Recibir la información y las asesorías especializadas a organismos públicos y privados, necesarias para el correcto desarrollo de las labores anteriormente descritas, y
-
-g. Asesorar en la promoción del cumplimiento de la normativa vigente en la tramitación de permisos de los proyectos de inversión, tanto en el ámbito medioambiental como social.
-
-Las tareas que se asignan al Comité no podrán afectar ni interferir en modo alguno las funciones que correspondan a otros órganos del Estado.
-
-#### Artículo 3°
-
-El Comité estará integrado por los siguientes Subsecretarios:
+El Comité estará integrado por los siguientes Subsecretarios(as):
 
 a. Economía y Empresas de Menor Tamaño, quien lo presidirá;
 
@@ -66,49 +46,125 @@ f. Minería;
 
 g. Bienes Nacionales;
 
-h. Energía;
+h. Energía
 
 i. Medio Ambiente; y
 
-j. Patrimonio Cultural.
+j. Del Patrimonio Cultural.
 
-Para sesionar, el Comité requerirá de la asistencia de, a lo menos, 5 de sus integrantes.
+En caso de ausencia o impedimento para asistir a una sesión o realizar alguna tarea encomendada serán reemplazados en sus funciones por el/la funcionario/a que, para tal efecto, se designe.
 
-Sin perjuicio de lo anterior, el Comité podrá invitar a otros Subsecretarios, funcionarios de la Administración del Estado, así como a personas de reconocida competencia en el ámbito económico, si lo estimare conveniente, para su buen funcionamiento.
+Para sesionar, el Comité requerirá de la asistencia de, a lo menos, cinco de sus integrantes. El Comité sesionará de forma ordinaria dos veces al año, de conformidad con lo dispuesto en la letra b) del artículo 3.
 
-Los integrantes del Comité ejercerán sus funciones ad-honorem y su desempeño no implicará la creación de cargo público.
+Sin perjuicio de lo anterior, el Comité podrá invitar a otros Subsecretarios(as), funcionarios(as) de la Administración del Estado, así como a personas de reconocida competencia en el ámbito económico, si así lo estimare conveniente, para su buen funcionamiento. En caso de que se invite a personas del ámbito privado, estas ejercerán sus funciones ad-honórem y su desempeño no implicará la creación de ningún cargo público.
 
-#### Artículo 4°
+Los Subsecretarios(as) del Comité y demás funcionarios públicos que sean invitados, participarán del mismo en el ejercicio de sus respectivas funciones.
 
-Cada Subsecretaría deberá generar la coordinación necesaria para responder a los requerimientos del Comité, designando para estos efectos a un funcionario, quien por la labor que desempeñe dentro del servicio y dentro del ámbito de sus competencias, pueda prestar apoyo al Subsecretario, en las respuestas a los requerimientos de información efectuados por el Comité.
+Los miembros del Comité podrán participar de las sesiones físicamente o a través de medios tecnológicos que les permitan intervenir de forma simultánea. En estos casos, su asistencia y participación será certificada por el Jefe(a) de la División de Fomento, Inversión e Industria de la Subsecretaría de Economía y Empresas de Menor Tamaño.
 
-#### Artículo 5°
+El Presidente(a) del Comité propenderá a que los acuerdos se adopten por consenso de sus integrantes. En caso de que éste no pueda lograrse en una materia determinada, las decisiones se adoptarán por la mayoría absoluta de los miembros que asistan a las sesiones, en cuyo caso se deberán dejar reflejadas todas las opiniones en el acta correspondiente.
 
-La Secretaría Ejecutiva del Comité estará radicada en la Subsecretaría de Economía y Empresas de Menor Tamaño. El Subsecretario de Economía y Empresas de Menor Tamaño designará un Secretario Ejecutivo, quien desarrollará las siguientes tareas:
+#### Artículo 3
 
-a. Gestionar el cumplimiento de los acuerdos y compromisos que el Comité adopte;
+Corresponderá al Comité:
 
-b. Informar al Comité de Ministros para el Área Económica, una vez al mes o las veces que dicho Comité de Ministros lo estime adecuado, sobre el estado de avance de la labor del Comité; y
+a. Proponer al Presidente de la República medidas legales y administrativas que favorezcan la inversión y agilicen la tramitación de permisos sectoriales con el objetivo de proponer mejoras sustanciales en eficiencia, previsibilidad y estabilidad.
 
-c. Las demás funciones que el Comité le encomiende.
+b. Reunirse semestralmente con la División de Fomento, Inversión e Industria de la Subsecretaría de Economía y Empresas de Menor Tamaño, del Ministerio de Economía, Fomento y Turismo, para analizar y coordinar medidas administrativas, dentro del ámbito de sus competencias, que favorezcan la inversión y reduzcan los tiempos de tramitación de los permisos sectoriales.
 
-La Secretaría Ejecutiva podrá utilizar el nombre de "Oficina de Gestión de Proyectos Sustentables".
+#### Artículo 4
 
-#### Artículo 6°
+La "Oficina de Grandes Proyectos", estará radicada en la División de Fomento, Inversión e Industria de la Subsecretaría de Economía y Empresas de Menor Tamaño, del Ministerio de Economía, Fomento y Turismo, será dirigida por el Jefe de dicha División, y tendrá por objeto realizar el seguimiento y coordinación de la tramitación de las iniciativas públicas y privadas de inversión en el país.
 
-La evaluación y posterior aprobación o rechazo de los proyectos de inversión a que se refiere el artículo 1º, como asimismo el otorgamiento o denegación de cualesquiera autorizaciones o permisos, corresponde exclusivamente a los órganos y Servicios competentes, en conformidad a la ley.
+#### Artículo 5
 
-Para el cumplimiento de los objetivos indicados en el artículo 2º, las autoridades y funcionarios de los órganos de la Administración del Estado prestarán al Comité toda la colaboración que éste le solicite, dentro del ámbito de sus funciones.
+Para el cumplimiento de su objeto, corresponderá a la Oficina de Grandes Proyectos desarrollar las siguientes funciones:
 
-#### Artículo 7°
+a. Servir de instancia de coordinación entre los distintos órganos de la Administración del Estado vinculados al otorgamiento de autorizaciones y permisos de proyectos de inversión.
 
-Para el buen funcionamiento del Comité, la Subsecretaría de Economía y Empresas de Menor Tamaño proporcionará los recursos, así como el apoyo técnico, administrativo y la contratación de estudios que sean necesarios para el correcto y eficiente funcionamiento del Comité.
+b. Servir de instancia de coordinación entre los órganos de la Administración del Estado y los titulares de los proyectos de inversión, facilitando el seguimiento de la tramitación necesaria para la materialización de dichos proyectos.
 
-Con dicho objeto deberá, dentro de sus posibilidades presupuestarias, contratar a los profesionales y personal que sean necesarios para ello.
+c. Recomendar al Ministro(a) de Economía, Fomento y Turismo iniciativas para la generación de procesos de tramitación de proyectos y permisos de inversión más cortos y predecibles.
 
-#### Artículo 8°
+d. Mantener un catastro actualizado de los proyectos de inversión que se encuentren en alguna etapa de tramitación y que incluya el seguimiento de dicho proceso.
 
-Deróguese el decreto supremo Nº 202, de 24 de diciembre de 2015, del Ministerio de Economía, Fomento y Turismo.
+e. Monitorear el proceso de tramitación de los proyectos de inversión y recibir, dentro de sus competencias, información de los organismos que otorgan autorizaciones y permisos sectoriales.
+
+f. Informar al Comité acerca del seguimiento y coordinación de la tramitación de iniciativas de proyectos de inversión públicas o privadas.
+
+En el ejercicio de estas funciones no se podrá afectar, ni interferir en modo alguno en las atribuciones que correspondan a otros órganos del Estado.
+
+#### Artículo 6
+
+En el cumplimiento de sus funciones, la Oficina de Grandes Proyectos deberá regirse por los manuales de operaciones, procesos y protocolos que apruebe la Subsecretaría de Economía y Empresas de Menor Tamaño, los cuales deberán contar con mecanismos de control que contengan, a lo menos:
+
+a. Procedimientos y/o actividades de control de la gestión de los proyectos, incluyendo los procesos de monitoreo, seguimiento y coordinación de la tramitación;
+
+b. Procedimientos y/o actividades de control de priorización de los proyectos de inversión, para lo cual deberá considerar especialmente los principios de igualdad ante la ley y no discriminación arbitraria;
+
+c. Procedimientos y/o actividades de control de la trazabilidad para efectuar el seguimiento e identificación de las comunicaciones realizadas, así como de las materias consultadas en las reuniones sostenidas con los servicios donde se estén tramitando las autorizaciones o permisos para un determinado proyecto; y
+
+d. Procedimientos y/o actividades de control sobre los mecanismos de comunicación entre entidades públicas y privadas.
+
+#### Artículo 7
+
+La Oficina de Grandes Proyectos se organizará en las siguientes tres áreas:
+
+a. Seguimiento de proyectos.
+
+b. Políticas Públicas.
+
+c. Sistema Unificado de Permisos ("Super").
+
+#### Artículo 8
+
+El Área de Seguimiento de proyectos realizará las siguientes tareas:
+
+a. Servir de punto de contacto para los titulares de proyectos de inversión.
+
+b. Servir de instancia de coordinación entre órganos de la Administración del Estado y los titulares de los proyectos de inversión.
+
+c. Mantención de un catastro de proyectos de inversión.
+
+d. Monitorear el proceso de tramitación de los proyectos de inversión.
+
+e. Servir de instancia de coordinación entre distintos órganos de la Administración del Estado.
+
+#### Artículo 9
+
+El Área de Políticas Públicas realizará entre otras tareas:
+
+a. Recomendar al Ministro(a) de Economía, Fomento y Turismo modificaciones normativas o de procesos de gestión, necesarias para incrementar la eficiencia del proceso de otorgamiento de permisos.
+
+b. Recomendar la implementación de políticas públicas que promuevan la eficiencia del proceso de otorgamiento de permisos.
+
+#### Artículo 10
+
+El Área "Sistema Unificado de Permisos", Super realizará las siguientes tareas:
+
+a. Desarrollar e implementar proyectos que permitan mejorar el uso de la información y la trazabilidad de los proyectos de inversión a través de su proceso de tramitación.
+
+b. Apoyar a la Subsecretaría de Economía y Empresas de Menor Tamaño en la implementación de soluciones tecnológicas que permitan modernizar el sistema de otorgamiento de permisos, en coordinación con otros órganos del Estado.
+
+#### Artículo 11
+
+El catastro de proyectos de inversión confeccionado regularmente por la Oficina considerará los proyectos que involucren inversión pública o privada igual o superior a US$100 MM, o bien aquel proyecto o grupo de proyectos que el Comité considere necesario incluir considerando sus características y relevancia social y/o estratégica.
+
+#### Artículo 12
+
+La evaluación y posterior aprobación o rechazo de los proyectos de inversión, como asimismo el otorgamiento o denegación de cualesquiera autorizaciones o permisos, corresponde exclusivamente a los órganos y servicios competentes, en conformidad a la normativa sectorial.
+
+#### Artículo 13
+
+Para el cumplimiento de los objetivos de la Oficina, las autoridades y funcionarios de los órganos de la Administración del Estado prestarán toda la colaboración que ésta les solicite, dentro del ámbito de sus respectivas competencias.
+
+#### Artículo 14
+
+La Subsecretaría de Economía y Empresas de Menor Tamaño proporcionará los recursos, así como el apoyo técnico, administrativo y la contratación de estudios que sean necesarios para el correcto y eficiente funcionamiento de la Oficina.
+
+#### Artículo 15
+
+Para el adecuado funcionamiento de la Oficina, la relación y comunicaciones de ésta con instituciones públicas y privadas estarán regidas por un Protocolo dictado por la/el Subsecretaria/o, de Economía y Empresas de Menor Tamaño.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- José Ramón Valente Vias, Ministro de Economía, Fomento y Turismo.- Alberto Espina Otero, Ministro de Defensa Nacional.- Juan Andrés Fontaine Talavera, Ministro de Obras Públicas.- Emilio Santelices Cuevas, Ministro de Salud.- Antonio Walker Prieto, Ministro de Agricultura.- Baldo Prokurica Prokurica, Ministro de Minería.- Felipe Ward Edwards, Ministro de Bienes Nacionales.- Susana Jiménez Schuster, Ministra de Energía.- Marcela Cubillos Sigall, Ministra del Medio Ambiente.- Alejandra Pérez Lecaros, Ministra de las Culturas, las Artes y el Patrimonio.
 
