@@ -78,6 +78,14 @@ La Subsecretaría de Redes Asistenciales desarrollará el Registro Nacional de C
 
 Sin perjuicio de lo dispuesto precedentemente, el tratamiento de los datos sobre los cuales trata este artículo deberá hacerse con pleno respeto a las disposiciones de las leyes Nº 19.628 y Nº 20.584.
 
+#### Artículo 8° bis
+
+Derecho al olvido oncológico. Serán nulas aquellas cláusulas, estipulaciones, condiciones más onerosas, exclusiones, restricciones o discriminaciones de cualquier otro tipo destinadas a quien haya sufrido una patología oncológica antes de la fecha de suscripción del contrato o negocio jurídico, cuando hayan transcurrido cinco años desde la finalización del tratamiento radical sin recaída posterior.
+
+Asimismo, se prohíbe la solicitud de información oncológica o la obligación de declarar haber padecido una patología oncológica a la fecha de suscripción del contrato o negocio jurídico, cuando hayan transcurrido cinco años desde la finalización del tratamiento radical sin recaída posterior. Por su parte, una vez transcurrido el plazo de cinco años señalado en el inciso anterior, ningún asegurador podrá considerar la existencia de antecedentes oncológicos para efectos de la contratación del seguro.
+
+Serán nulas las cláusulas de renuncia a lo establecido en el presente artículo y su incumplimiento dará lugar a las denuncias o acciones correspondientes, destinadas a sancionar a quien incurra en esta infracción, a anular las cláusulas abusivas incorporadas en los contratos de adhesión, a obtener la prestación de la obligación incumplida, a hacer cesar el acto que afecte el ejercicio de los derechos de la persona afectada, o a obtener la debida indemnización de perjuicios o la reparación que corresponda, sujetándose para estos efectos al procedimiento establecido en la ley N° 19.496, sobre protección de los derechos de los consumidores.
+
 ## Título II
 
 DE LA COMISIÓN NACIONAL DEL CÁNCER
