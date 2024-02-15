@@ -48,6 +48,8 @@ Sensibilidad 99% / Especificidad ≥98%.
 
 > **Nota.** La letra B del artículo primero del Decreto 96 Exento, Salud, publicado el 22.12.2022, que incorpora el artículo segundo transitorio a este decreto, dispone que en el caso de los productos sanitarios indicados en los literales A. y B. del presente artículo primero, las disposiciones de esta norma comenzarán a regir a partir del 31 de diciembre de 2023.
 
+> **Nota.** NOTA 1 El artículo primero del Decreto 41 Exento, Salud, publicado el 15.02.2024, que modifica el artículo segundo transitorio de este decreto, dispone que en el caso de los productos sanitarios indicados en los literales A. y B. del presente artículo primero, las disposiciones de esta norma comenzarán a regir a partir del 30 de septiembre de 2024.
+
 #### Artículo segundo
 
 <!-- parte:10342311 -->
@@ -68,15 +70,13 @@ De forma adicional, los dispositivos señalados en los literales A y B del artí
 
 <!-- parte:10342313 -->
 
-Los ensayos visuales/rápidos para autotest de VIH deberán incorporar en su rotulado, mediante impresión o uso de etiquetas adhesivas de seguridad, la siguiente leyenda:
+Los ensayos visuales/rápidos para autotest de VIH deberán incorporar en su rotulado, mediante impresión o uso de etiquetas adhesivas de seguridad, las siguientes leyendas, códigos e imágenes:
 
-"Dispositivo médico para autoevaluación.
+El "Código QR" que se incluirá en los rotulados de los dispositivos médicos antes indicados, será aquel que se determine mediante resolución de la Subsecretaría de Salud Pública y se publique en el sitio oficial del Ministerio de Salud antes del 31 de diciembre de 2022.
 
-El resultado de este examen no constituye diagnóstico.
+El "Código Único" que se debe incluir en el rotulado de los ensayos visuales/rápidos para autotest de VIH, será una combinación alfanumérica doble, conteniendo una parte principal y una verificadora, la que deberá ser única y asignada a cada unidad de dispositivo médico de autoevaluación que se pretenda distribuir, comercializar o entregar.
 
-Ante un resultado reactivo se requiere realizar un proceso de diagnóstico en un establecimiento de salud.
-
-Para mayor información comuníquese al FONOSIDA - 800 378 800 / SALUD RESPONDE 600 360 7777 o visite www.minsal.cl".
+Previo a la distribución de un lote o serie de ensayos visuales/rápidos para autotest de VIH, se deberá informar a la Subsecretaría de Salud Pública el listado de "Códigos Únicos" asociados a cada unidad de autoevaluación, en la forma, formato y condiciones que se establezcan en la resolución aludida en el inciso segundo del presente artículo".
 
 #### Artículo quinto
 
@@ -106,7 +106,7 @@ El presente decreto comenzará a regir después de 6 meses de su publicación en
 
 <!-- parte:10390297 -->
 
-En el caso de los productos sanitarios indicados en los literales A. y B. del artículo primero, las disposiciones del presente decreto comenzarán a regir a partir del 31 de diciembre de 2023.
+En el caso de los productos sanitarios indicados en los literales A. y B. del artículo primero, las disposiciones del presente decreto comenzarán a regir a partir del 30 de septiembre de 2024.
 
 #### Artículo tercero transitorio
 
