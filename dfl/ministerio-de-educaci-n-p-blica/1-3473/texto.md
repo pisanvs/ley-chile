@@ -100,21 +100,27 @@ Las facultades a que se refieren las letras, b), c), f), g), h), j) y k), se eje
 
 Las facultades a que se refieren las letras d), i), l) y n) se ejercerán a proposición del Consejo Universitario, y la referida en la letra ñ), previo informe de dicho organismo.
 
-#### Artículo 6°
+#### Artículo 6º
 
-El Consejo Superior estará integrado por nueve miembros con derecho a voto. Además, participarán con derecho a voz un representante de los estudiantes y un representante de los funcionarios no académicos.
+El Consejo Superior estará integrado por once miembros con derecho a voto.
 
-Los miembros con derecho a voto serán:
+Los miembros serán:
 
 a) Tres consejeros designados por el Presidente de la República;
 
-b) Cinco consejeros académicos, elegidos conforme al reglamento que dicte el propio Consejo Superior, y c) El Rector.
+b) Cinco consejeros académicos, elegidos conforme al reglamento que dicte el propio Consejo Superior;
+
+c) El Rector;
+
+d) Un consejero de los funcionarios no académicos; y
+
+e) Un consejero de los estudiantes.
 
 Los consejeros designados por el Presidente de la República no podrán tener vínculo laboral o contractual con la Universidad y permanecerán en dichos cargos mientras cuenten con su confianza.
 
 Los consejeros académicos durarán dos años en sus funciones, o el período que falte en caso de vacante, y podrán ser reelegidos. Dichos cargos serán incompatibles con cualquier otra función directiva de la Universidad. Podrán ser removidos, mediante acuerdo fundado, adoptado por los dos tercios de los consejeros en ejercicio.
 
-El reglamento del Consejo señalará los requisitos que deben cumplir los consejeros con derecho a voz, quienes durarán un año en sus funciones.
+El reglamento del Consejo señalará los requisitos que deben cumplir los consejeros señalados en las letras d) y e), quienes serán elegidos por sus pares. El consejero estudiantil durará un año en sus funciones y el de los funcionarios no académicos durará dos años en sus funciones, pudiendo ambos ser reelegidos por una sola vez.
 
 El consejo será presidido por el Rector o, en su ausencia, por el consejero más antiguo de los señalados en las letras a) y b).
 
@@ -124,17 +130,17 @@ El Consejo Superior tendrá a lo menos una sesión ordinaria cada dos meses, en 
 
 El Consejo Superior podrá celebrar sesiones extraordinarias a petición del Presidente del Consejo, o de la mayoría de sus miembros en ejercicio. La convocatoria a sesión extraordinaria se efectuará conforme al reglamento, debiendo siempre expresar las materias a tratar en la misma.
 
-#### Artículo 8°
+#### Artículo 8º
 
-El quórum para sesionar será la mayoría de los consejeros en ejercicio con derecho a voto.
+El quórum para sesionar será la mayoría de los consejeros en ejercicio.
 
 Los acuerdos se adoptarán con el voto de la mayoría de los consejeros asistentes.
 
-Sin perjuicio de lo anterior, se requerirá el voto afirmativo de la mayoría de los consejeros en ejercicio, para aprobar las materias relativas a las atribuciones señaladas en las letras c), d), g), h), i), j) y l) del artículo 5° del presente Estatuto.
+Sin perjuicio de lo anterior, se requerirá el voto afirmativo de la mayoría de los consejeros en ejercicio, para aprobar las materias relativas a las atribuciones señaladas en las letras c), d), g), h), i), j) y l) del artículo 5º del presente Estatuto.
 
-Asimismo, se requerirá el voto afirmativo de, a lo menos, los dos tercios de los consejeros en ejercicio, para:
+Asimismo, se requerirá el voto afirmativo de, a lo menos, dos tercios de los consejeros en ejercicio, para:
 
-1.- Nombrar y remover al Contralor;
+1.- Nombrar y remover al Contralor.
 
 2.- Proponer al Presidente de la República la remoción del Rector.
 
@@ -192,7 +198,7 @@ Este funcionario dirigirá la Secretaría Ejecutiva.
 
 k) Cualquiera otra función que le asigne el presente estatuto.
 
-#### Artículo 11°
+#### Artículo 11º
 
 El Consejo Universitario estará integrado por:
 
@@ -206,9 +212,9 @@ d) Dos representantes de los estudiantes, y
 
 e) Dos representantes del personal no académico.
 
-El reglamento del Consejo Universitario establecerá los requisitos que deben cumplir los representes estudiantiles y los del personal no académico, quienes sólo tendrán derecho a voz y durarán un año en sus funciones.
+El reglamento del Consejo Universitario establecerá los requisitos que deben cumplir los representes estudiantiles y los del personal no académico, quienes durarán un año en sus funciones.
 
-Para sesionar el Consejo Universitario requerirá la asistencia de, a lo menos, la mayoría de los miembros en ejercicio. Sus acuerdos se adoptarán por la mayoría de los miembros presentes con derecho a voto, salvo que el reglamento interno del Consejo señale un quórum mayor para determinados asuntos.
+Para sesionar el Consejo Universitario requerirá la asistencia de, a lo menos, la mayoría de los miembros en ejercicio. Sus acuerdos se adoptarán por la mayoría de los miembros presentes, salvo que el reglamento interno del Consejo señale un quórum mayor para determinados asuntos.
 
 ### Párrafo II
 
