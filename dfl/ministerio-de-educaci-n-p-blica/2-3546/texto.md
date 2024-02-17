@@ -114,23 +114,29 @@ Las facultades a que se refieren las letras, b), c), d),
 
 #### Artículo 6°
 
-El Consejo Superior estará integrado por nueve miembros con derecho a voto. Además, participarán con derecho a voz dos representantes de los estudiantes y un representante de los funcionarios no académicos.
+El Consejo Superior estará integrado por once miembros con derecho a voto.
 
-Los miembros con derecho a voto serán:
+Los miembros serán:
 
 a) Tres consejeros designados por el Presidente de la República;
 
-b) Cinco consejeros elegidos por el cuerpo académico, conforme al reglamento que dicte el propio Consejo Superior, y
+b) Cinco consejeros elegidos por el cuerpo académico, conforme al reglamento que dicte el propio Consejo Superior;
 
-c) El Rector.
+c) El Rector;
+
+d) Un representante de los funcionarios no académicos, y
+
+e) Un representante de los estudiantes.
 
 Los consejeros designados por el Presidente de la República no podrán tener vínculo laboral o contractual con la Universidad y permanecerán en dichos cargos mientras cuenten con su confianza.
 
 Los consejeros elegidos por el cuerpo académico durarán dos años en sus funciones, o el período que falte en caso de vacante, y podrán ser reelegidos. Serán académicos de jornada completa y pertenecientes a las dos más altas jerarquías académicas de la Corporación. Estos cargos serán incompatibles con cualquier otra función directiva de la Universidad. Podrán ser removidos, mediante acuerdo fundado, adoptado por los dos tercios de los consejeros en ejercicio.
 
-El reglamento del Consejo señalará los requisitos que deben cumplir los consejeros con derecho a voz, quienes durarán un año en sus funciones.
+El reglamento del Consejo señalará los requisitos que deben cumplir los consejeros señalados en las letras d) y e), quienes durarán dos años en sus funciones. Estos cargos serán incompatibles con cualquier otra función directiva.
 
 El Consejo será presidido por el Rector o, en su ausencia, por el consejero más antiguo de los señalados en las letras a) y b).
+
+El reglamento del Consejo Superior deberá contener normas que promuevan la igualdad y paridad de género en las elecciones respectivas, respetando el principio de no discriminación.
 
 #### Artículo 7°
 
@@ -140,7 +146,7 @@ El Consejo Superior podrá celebrar sesiones extraordinarias a petición del Pre
 
 #### Artículo 8°
 
-El quórum para sesionar será la mayoría de los consejeros en ejercicio con derecho a voto.
+El quórum para sesionar será la mayoría de los consejeros en ejercicio.
 
 Los acuerdos se adoptarán con el voto de la mayoría de los consejeros asistentes.
 
@@ -150,7 +156,7 @@ Asimismo, se requerirá el voto afirmativo de, a lo menos, los dos tercios de lo
 
 1.- Nombrar y remover al Contralor;
 
-2.- Proponer al Presidente de la República la remoción del Rector.
+2.- Proponer al Presidente de la República la remoción del Rector;
 
 3.- Proponer al Presidente de la República la reforma de este Estatuto.
 
@@ -264,7 +270,7 @@ Del Consejo Académico
 
 El Consejo Académico es un organismo colegiado, asesor del Rector en materias académicas.
 
-Este Consejo lo presidirá el Rector y estará integrado, además, por el Vicerrector Académico y el de Transferencia Tecnológica y Extensión, los Decanos y Directores de Institutos y un representante de los estudiantes.
+Este Consejo lo presidirá el Rector y estará integrado, además, por el Vicerrector Académico, Vicerrector de Investigación y Postgrado y el de Transferencia Tecnológica y Extensión, los Decanos y Directores de institutos, un representante de los estudiantes y un representante de los funcionarios no académicos.
 
 El Secretario General de la Universidad actuará como Secretario del Consejo Académico.
 
