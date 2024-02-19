@@ -4002,6 +4002,12 @@ Sin perjuicio de lo anterior, en el conjunto de los sistemas eléctricos con cap
 
 Los ajustes y recargos a que dé origen el mecanismo señalado serán fijados en el decreto que dicte el Ministerio de Energía con ocasión de la fijación de precios semestral a que se refiere el artículo 158, previo informe técnico de la Comisión. A su vez, las transferencias entre empresas distribuidoras a que den origen las diferencias de facturación producto de la aplicación del mecanismo antes mencionado serán calculadas por los CDEC respectivos, de manera coordinada. El mecanismo de reliquidación de las diferencias de facturación entre empresas concesionarias de distribución será establecido por la Comisión mediante Resolución Exenta. Para estos efectos, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por los CDEC y la Comisión. La entrega de información errónea, incompleta o elaborada a partir de antecedentes no fidedignos dará lugar a las sanciones establecidas en el Título IV de la ley N° 18.410, que crea la Superintendencia de Electricidad y Combustibles.
 
+#### Artículo 191 bis
+
+En el caso de los operadores de servicios sanitarios rurales que cumplan con los requisitos para ser licenciatarios conforme al artículo 13 de la ley N° 20.998, que regula los Servicios Sanitarios Rurales, se les aplicará un descuento equivalente al monto a facturar por concepto de precio nudo de la potencia de punta al que hace referencia el numeral 1 del artículo 155. Dicho descuento se verá reflejado en la respectiva facturación, de acuerdo con el artículo 198.
+
+Los referidos descuentos deberán ser contabilizados por la Comisión Nacional de Energía, a efectos de incorporar dichos montos en la fijación de precios a que se refiere el artículo 158, los que luego serán traspasados a las empresas concesionarias de distribución. La Comisión, mediante resolución exenta, establecerá las reglas necesarias para la implementación y operación de lo dispuesto en este inciso.
+
 #### Artículo 192º
 
 Una vez vencido el período de vigencia de las fórmulas tarifarias, éstas continuarán vigentes, incluidas sus cláusulas de indexación, mientras no sean fijadas las nuevas fórmulas de acuerdo al artículo 190°.
