@@ -34,6 +34,8 @@ Concepto de Refugiado. Tendrán derecho a que se les reconozca la condición de 
 
 4. Los que, si bien al momento de abandonar su país de nacionalidad o residencia habitual no poseían la condición de refugiado, satisfacen plenamente las condiciones de inclusión como consecuencia de acontecimientos ocurridos con posterioridad a su salida.
 
+Solo tendrán derecho a que se les reconozca la calidad de refugiado de conformidad con los numerales 1 y 2 quienes lleguen directamente desde el territorio en que su vida o libertad esté amenazada. Se entenderá que llegan directamente quienes lo hacen en un viaje con escalas siempre que la estadía en un tercer país no se haya extendido por más de sesenta días. En casos calificados, el Subsecretario del Interior podrá ampliar este plazo.
+
 ## Capítulo III
 
 Principios Fundamentales de la Protección
@@ -41,6 +43,8 @@ Principios Fundamentales de la Protección
 #### Artículo 3°
 
 Enunciación de Principios. La protección de los solicitantes de la condición de refugiado y los refugiados se regirá por los principios de no devolución, incluida la prohibición de rechazo en frontera; de no sanción por ingreso ilegal; de confidencialidad; de no discriminación; de trato más favorable posible; y de unidad de la familia.
+
+Se entenderá por refugiado la persona a quien se haya reconocido dicha calidad por la autoridad administrativa competente.
 
 #### Artículo 4°
 
@@ -60,9 +64,7 @@ En cualquier caso, el refugiado tendrá derecho a presentar todo tipo de pruebas
 
 #### Artículo 6°
 
-No Sanción por Ingreso Clandestino y Residencia Irregular. No se impondrán a los refugiados sanciones penales ni administrativas con motivo de su ingreso o residencia irregular, siempre que se presenten, dentro de los diez días siguientes a la infracción a la legislación que establece normas sobre extranjeros en Chile, ante las autoridades, alegando una razón justificada.
-
-Respecto de los solicitantes de reconocimiento de la condición de refugiados que hayan ingresado o que residan irregularmente en el territorio nacional, no se aplicarán las restricciones de circulación establecidas por las normas generales sobre extranjeros, cuando aquellos se hayan visto forzados a recurrir a redes de tráfico ilícito de migrantes como forma de asegurar su ingreso al territorio y obtener protección.
+Refugio y Residencia Irregular. No se impondrán a los refugiados sanciones penales ni administrativas con motivo de su ingreso o residencia irregular, siempre que se presenten, dentro de los diez días siguientes a la infracción a la legislación que establece normas sobre extranjeros en Chile, ante las autoridades, alegando una razón justificada.
 
 #### Artículo 7°
 
@@ -244,11 +246,29 @@ Ingreso al Territorio y Presentación de la Solicitud
 
 #### Artículo 26
 
-Presentación de la Solicitud. Podrá solicitar el reconocimiento de la condición de refugiado toda persona que se encuentre dentro del territorio de la República de Chile, sea que su residencia fuere regular o irregular.
+Presentación de la Solicitud. Podrá solicitar el reconocimiento de la condición de refugiado toda persona que se encuentre dentro del territorio de la República de Chile, sea que su residencia fuere regular o irregular. De tal modo, deberá quedar a disposición del Servicio Nacional de Migraciones hasta que se dicte la resolución que le reconozca tal condición; sin embargo, en caso de rechazo, el solicitante deberá hacer abandono voluntario del territorio nacional, si es que no le ampara alguna causal legal para su permanencia.
 
-La solicitud podrá presentarse en cualquier oficina de Extranjería. Al ingresar a territorio nacional, los extranjeros también podrán hacerlo ante la autoridad migratoria que se encuentre en un paso habilitado de la frontera, quien le proporcionará la información necesaria sobre el procedimiento.
+Para conceder el reconocimiento a que se refiere el inciso anterior, se deberán considerar, a lo menos, los siguientes antecedentes:
+
+1. Inminente peligro en el país de origen o persecución política del solicitante que ponga en riesgo su vida, libertad o integridad física.
+
+2. Que no mantenga una solicitud similar ante otro Estado ni haya sido reconocido como refugiado en otro Estado.
+
+3. Estados por los cuales el requirente ha transitado o en los que ha residido previo a su solicitud en el territorio nacional y las razones por las que, si pudo solicitar refugio, no lo hizo.
+
+4. Medios utilizados para salir del país de origen y pertinencia de acceder a Chile por medio de otros Estados.
+
+5. En caso de ingreso irregular, además deberá cumplir los requisitos y plazos fijados en esta ley.
+
+6. Aquellos que el Servicio Nacional de Migraciones establezca mediante resolución de la Subsecretaría del Interior.
+
+La solicitud deberá presentarse en cualquier oficina del Servicio Nacional de Migraciones. Al ingresar al territorio nacional, los extranjeros deberán informar a la autoridad contralora de frontera sobre su intención de solicitar refugio en Chile, en cuyo caso serán trasladados a la dependencia más cercana de la Policía de Investigaciones para llevar a cabo un registro biométrico o cualquier otra tecnología que permita la identificación de datos que se encuentre vigente, y se les informará sobre los requisitos y plazos que contempla el procedimiento conducente al reconocimiento de la condición de refugiado. En el caso que se manifieste por el solicitante la intención de que se le reconozca la condición de refugiado, la autoridad contralora de frontera procederá a dejar constancia por escrito de la solicitud y entregará una copia escrita de dicha constancia al solicitante y al Servicio Nacional de Migraciones.
 
 La señalada autoridad requerirá al interesado declarar las razones que lo forzaron a dejar su país de origen. Las personas deberán informar acerca de su verdadera identidad, en caso de no contar con documentos para acreditarla, o manifestar si el documento de identidad o pasaporte que presenten es auténtico.
+
+La solicitud de reconocimiento deberá ser presentada en el plazo de siete días hábiles, contado desde el ingreso del solicitante al territorio nacional.
+
+De manera excepcional, se podrá dar curso a la solicitud cuando existan antecedentes suficientes que den cuenta de cambios en las situaciones descritas en el artículo 2º, posteriores a su ingreso a Chile, que pongan en riesgo la vida, la libertad o la integridad física del solicitante. En este caso, la solicitud de reconocimiento deberá presentarse en el mismo plazo del inciso precedente, contado desde que ocurrió el hecho que funda la solicitud.
 
 #### Artículo 27
 
@@ -258,13 +278,39 @@ Recepción de la Solicitud. Los funcionarios de la Administración del Estado qu
 
 Información de la Solicitud. La solicitud deberá contener los datos completos del solicitante, los motivos por los que interpone el pedido y ofrecer las pruebas documentales o de otro tipo que pudiera aportar en apoyo de su petición, de acuerdo con lo establecido en el reglamento de la presente ley.
 
+#### Artículo 28 bis
+
+Una vez presentada la solicitud, se evaluará si ésta cumple con los requisitos formales estipulados en los artículos 26 y 28 y en el artículo 37 del reglamento de esta ley y si, de conformidad con el artículo 2º, es manifiestamente infundada.
+
+En caso de cumplirse con aquellos requisitos, el Director del Servicio Nacional de Migraciones deberá dictar una resolución, la que será notificada al solicitante en el plazo máximo de tres días hábiles desde su dictación. El procedimiento para el reconocimiento de su condición de refugiado continuará, y se otorgará al solicitante y a los miembros de su familia que lo acompañen la visa de residente temporal. Se notificará esta circunstancia a los organismos correspondientes, de conformidad con lo establecido en el artículo 32. Para estos efectos, se entenderá por familia del solicitante de refugio los señalados en el inciso primero del artículo 9º. Durante esta etapa inicial se dará cumplimiento al principio de no devolución, de conformidad con lo dispuesto en el artículo 4º.
+
+En caso de que no se cumplan los requisitos formales establecidos en los artículos 26 y 28 y en el artículo 37 del reglamento de esta ley, el Servicio Nacional de Migraciones deberá notificar al solicitante de la resolución. Ella especificará los requisitos formales que fueron incumplidos y la forma y el plazo en que deben cumplirse o subsanarse. Asimismo, la resolución advertirá al solicitante que, en caso de no cumplir con la subsanación dentro de plazo, su solicitud se tendrá por desistida y se entenderá que su estadía pasa a ser ilegal o irregular, según corresponda, y procederá por tanto el Servicio Nacional de Migraciones a ordenar y notificar la expulsión del territorio nacional del extranjero solicitante de refugio, cuando corresponda.
+
+El solicitante contará con el plazo de quince días hábiles para subsanar las observaciones, contado desde la fecha de la notificación, de conformidad con lo dispuesto en el artículo 146 de la ley Nº 21.325, de Migración y Extranjería.
+
+Cumplidos los requisitos formales de la solicitud, la Secretaría Técnica de la Comisión de Reconocimiento de la Condición de Refugiado deberá emitir un informe técnico acerca de si la solicitud, de conformidad con lo dispuesto en el artículo 2º, es manifiestamente infundada.
+
+El informe técnico indicado en el inciso anterior se elaborará tras llevar a cabo una entrevista personal con el solicitante, durante la cual podrá exponer todos los antecedentes que respalden su solicitud. Esta entrevista deberá tener lugar en el plazo de veinte días hábiles a partir de la presentación de la solicitud o su subsanación. Si el solicitante no se presenta a la entrevista se archivará la solicitud por abandono del procedimiento, de conformidad con lo dispuesto en el artículo 52 del reglamento de esta ley, y se entenderá que su estadía pasa a ser ilegal o irregular, según corresponda y, por tanto, el Servicio Nacional de Migraciones procederá a ordenar y notificar la expulsión del territorio nacional del extranjero solicitante de refugio, cuando corresponda. Lo anterior será advertido en la citación a la entrevista.
+
+En el evento que la solicitud aparezca manifiestamente infundada por no guardar relación con los motivos establecidos en el artículo 2º, el Director del Servicio Nacional de Migraciones resolverá, mediante una resolución fundada, la inadmisibilidad de la solicitud, de acuerdo a lo dispuesto en el artículo 41 de la ley Nº 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado. Esta resolución podrá ser objeto de los recursos de reposición y jerárquico, en los términos dispuestos en el artículo 43 de la presente ley.
+
+Durante esta etapa se dará cumplimiento al principio de no devolución en conformidad a lo dispuesto en el artículo 4º. Además, la constancia de haberse presentado la solicitud deberá ser considerada como documento válido para acreditar la situación migratoria regular sólo para los efectos del artículo 12 bis de la ley Nº 20.931.
+
+La etapa inicial regulada en este artículo no podrá tener una extensión superior a noventa días hábiles.
+
+Una vez que la resolución por la que se declara la inadmisibilidad de la solicitud de refugio, por ser ésta manifiestamente infundada, se encuentre firme, se considerarán inadmisibles futuras solicitudes de refugio que sean planteadas por el mismo peticionario durante un período de cinco años. Lo anterior, a menos que se presenten ante el Servicio, en el momento de ser formulada la nueva solicitud, antecedentes que permitan a este último presumir fundadamente la existencia de circunstancias en el país de procedencia que pudieran comprometer la vida, la integridad física o la libertad personal del solicitante. No se considerarán antecedentes que permitan presumir fundadamente lo anterior la simple ocurrencia de circunstancias políticas o sociales en dicho país, de las que no se pueda inferir una afectación directa de los bienes jurídicos antes mencionados en la persona del solicitante.
+
+#### Artículo 28 ter
+
+Durante la evaluación de la solicitud contemplada en el artículo anterior, y sin perjuicio de lo dispuesto en el inciso segundo de ese artículo, el solicitante estará sujeto a las obligaciones a que se refiere el artículo 33. El incumplimiento de estas obligaciones dará lugar a la declaración de inadmisibilidad de la solicitud por parte de la autoridad, en los mismos términos señalados en el artículo anterior.
+
 ## Capítulo III
 
 De los Procedimientos
 
 #### Artículo 29
 
-Presentación en la Secretaría Técnica. Una vez presentada la solicitud, se le informará al peticionario respecto del procedimiento para la determinación de la condición de refugiado, sus derechos y obligaciones, en su propio idioma o en otro que pueda entender. Asimismo, se le informará acerca de la posibilidad de contactarse con un representante del Alto Comisionado de Naciones Unidas para los Refugiados.
+Una vez que el solicitante haya sido notificado de la resolución que indica que su solicitud se encuentra dentro de alguna de las causales establecidas en el artículo 2º de esta ley, y cumpla con los requisitos formales contemplados en sus artículos 26 y 28 y en el artículo 37 de su reglamento, se le proporcionará información detallada acerca de las etapas siguientes del procedimiento para determinar su condición de refugiado, así como de sus derechos y obligaciones. Dicha información se le entregará en su propio idioma o en otro que pueda comprender. Además, se le informará sobre la posibilidad de contactar a un representante del Alto Comisionado de las Naciones Unidas para los Refugiados.
 
 Al solicitante que así lo requiera o necesite, se le facilitarán los servicios de un intérprete calificado para asistirle en las entrevistas y en la presentación por escrito de los hechos en los que fundamenta su petición.
 
@@ -278,7 +324,7 @@ Recopilación de Información del País de Origen. La Secretaría Técnica de la
 
 #### Artículo 32
 
-Documentación e intervención de otros organismos. Una vez presentada la solicitud, la autoridad competente extenderá al peticionario y a los miembros de su familia que lo acompañen, una visación de residente temporario, por el plazo de ocho meses, prorrogables por períodos iguales, en la forma que determine el reglamento de la presente ley.
+Documentación e intervención de otros organismos. Una vez acogida a trámite la solicitud, la autoridad competente extenderá al peticionario y a los miembros de su familia que lo acompañen, una visación de residente temporario, por el plazo de ocho meses, prorrogables por períodos iguales, en la forma que determine el reglamento de la presente ley.
 
 Asimismo, notificará a los organismos correspondientes, con el fin que se provean al solicitante y su familia la asistencia humanitaria básica que pudieran requerir en virtud de su situación de vulnerabilidad, especialmente en lo referido a alojamiento, acceso a ayuda alimenticia, salud y trabajo.
 
@@ -296,7 +342,7 @@ Obligaciones del Solicitante. Durante el procedimiento, el solicitante tendrá l
 
 5. Contestar todas las preguntas que le sean formuladas.
 
-6. Fijar domicilio e informar, oportunamente, a la autoridad competente, cualquier cambio que éste sufra, en un plazo de quince días.
+6. Fijar domicilio y algún correo electrónico u otro medio de contacto remoto, e informar oportunamente a la autoridad competente cualquier cambio que éste sufra, en el plazo de quince días.
 
 #### Artículo 34
 
