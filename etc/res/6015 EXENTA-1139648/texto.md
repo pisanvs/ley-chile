@@ -30,9 +30,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que se desempeñan como director de establecimientos educacionales que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "241105_DirectoresLey21152_202410 FIRMADA" almacenado en pendrive, caratulado "Directores 2019", inserto en caja de plástico con el nombre "Asimilación Directores 2019", el que se entiende formar parte integrante del presente acto administrativo.
-
-> **Nota.** El artículo primero de la Resolución 13796 Exenta, Educación, publicada el 23.12.2025, actualiza el listado a que se refiere el presente artículo por la nómina contenida en el archivo con firma electrónica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, bajo el nombre del archivo PDF "241105_DirectoresLey21152_202410 FIRMADA", almacenado en el pendrive adjunto a la citada resolución, caratulado "Modificación Rex 6.015/2019 Asimilación Directores", el que se entiende formar parte integrante del mencionado acto administrativo.
+Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que se desempeñan como director de establecimientos educacionales que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "DirectoresLey21152_REX6015_2019.pdf FIRMADA" almacenado en pendrive, caratulado "Directores 2019", inserto en caja de plástico con el nombre "Asimilación Directores 2019", el que se entiende formar parte integrante del presente acto administrativo.
 
 #### Artículo segundo
 
