@@ -28,13 +28,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos del desarrollo profesional docente, establecidos en el Título III del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación y señálense los bienios correspondientes, a los profesionales de la educación que se encuentran individualizados en el listado contenido en el disco compacto denominado "Actualización Rex 3724 - 2016 abril 2019", serie B3117JH0216234LH, refrendado mediante la firma electrónica del Jefe/a del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, el que forma parte de la presente resolución.
-
-> **Nota.** El artículo segundo de la Resolución 6778 Exenta, Educación, publicada el 25.01.2018, modifica la presente norma en el sentido de incorporar al listado de los profesionales de la educación, aquellos que se encuentran individualizados en la citada norma.
-
-> **Nota.** NOTA 1 Los numerales 1, 2, 3 del artículo primero de la Resolución 6481 Exenta, Educación, publicada el 21.12.2018, modifican la presente norma en el sentido de incorporar al listado de profesionales de la educación , aquellos que se encuentran individualizados en el documento de formato portátil, bajo el título "Rex3724_modificaciones.Incorpora", "Rex3724_modificaciones.Directores", "Rex3724_modificaciones.Bienios"
-
-> **Nota.** NOTA 2 El artículo primero de la Resolución 6529 Exenta, Educación, publicada el 22.12.2018, modifica el presente artículo en el sentido de incorporar al listado de los profesionales de la educación que indica, y con los bienios que corresponda, al profesional de la educación individualizado en el documento de formato portátil bajo el título "NicanorBurgos".
+Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, y señálense los bienios correspondientes, a los profesionales de la educación que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Asimilación 2016.pdf Firmada", almacenado en el pendrive o memoria USB portátil de color gris y negro, caratulado "Proceso asimilación rex 3724-2016", el que para todos los efectos legales forma parte integrante de la presente resolución.
 
 #### Artículo segundo
 
