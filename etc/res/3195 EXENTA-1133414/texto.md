@@ -34,10 +34,6 @@ Resuelvo:
 
 Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2018, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Reconocimiento2018_Ene2023 (1).pdf firmado", almacenado en pendrive adjunto, caratulado "10152", el que se entiende formar parte integrante del presente acto administrativo.
 
-> **Nota.** El artículo primero de la Resolución 10618 Exenta, Educación, publicada el 25.09.2025, actualiza el listado a que se refiere el presente artículo por la nómina contenida en el archivo con firma electrónica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, bajo el nombre del archivo PDF "Reconocimiento2018_20240423 FIRMADA", almacenado en el pendrive adjunto a la citada resolución, caratulado "Modificación Rex 3195/2019 (PR2018)", el que se entiende formar parte integrante del mencionado acto administrativo.
-
-> **Nota.** NOTA 1 El artículo primero de la Resolución 585 Exenta, Educación, publicada el 17.02.2026, actualiza el listado a que se refiere el presente artículo por la nómina contenida en el archivo con firma electrónica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, bajo el nombre del archivo PDF "Modificar05_Reconocimiento2018_20251118", almacenado en el pendrive o memoria USB portátil adjunto, caratulado adjunto a la citada resolución, caratulado " Modificar05_Reconocimiento2018_20251118", el que se entiende formar parte integrante del presente acto administrativo.
-
 #### Artículo segundo
 
 Téngase presente que el tramo de desarrollo profesional docente asignado por este acto surtirá todos sus efectos legales a partir del mes de julio de 2019, en virtud de lo dispuesto en el artículo 19 Q del Estatuto Docente.
