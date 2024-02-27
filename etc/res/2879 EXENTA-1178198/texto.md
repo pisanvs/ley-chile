@@ -34,8 +34,6 @@ Resuelvo:
 
 Asígnanse los tramos del Desarrollo Profesional Docente que corresponda, conforme a la experiencia profesional y a los resultados de los instrumentos de evaluación a que hace referencia el artículo 19 K del Estatuto Docente, a los profesionales de la educación regidos por el Título VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N° 24, de 2017, del Ministerio de Educación, que durante el año 2021 participaron del Sistema de Reconocimiento regulado en el Título III del Estatuto Docente, y que se encuentran individualizados en el archivo de formato portátil de nombre "Reconocimiento2021EP_Oct2023.pdfFIRMADA", con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, almacenado en el pendrive adjunto, denominado "46751", que forma parte integrante de la presente resolución.
 
-> **Nota.** El artículo primero de la Resolución 154 Exenta, Educación, publicada el 03.02.2026, actualiza el listado contenido en la presente resolución por la nómina contenida en el archivo con firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Modificar_Reconocimiento2021EP_20251115_firmada" almacenado en el pendrive o memoria USB portátil adjunto, caratulado "Modificación 2879/2022 (Proceso de Reconocimiento EP 2021)", el que se entiende formar parte integrante del citado acto administrativo.
-
 #### Artículo segundo
 
 Téngase presente que el tramo de desarrollo profesional docente asignado por este acto surtirá todos sus efectos legales a partir del mes de julio de 2022, en virtud de lo dispuesto en el artículo 19 Q del Estatuto Docente.
