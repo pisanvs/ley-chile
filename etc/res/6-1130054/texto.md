@@ -164,7 +164,9 @@ Están afectos al trámite de toma de razón los decretos y resoluciones que se 
 
 7. Términos de contratos de trabajo, por las causales establecidas en el artículo 160 del Código del Trabajo.
 
-8. Otorgamiento de desahucios y de beneficios previsionales a funcionarios públicos y sus causahabientes adscritos a sistemas previsionales de régimen público.
+8. Otorgamiento de desahucios y beneficios previsionales a funcionarios públicos y sus causahabientes adscritos a sistemas previsionales de régimen público, cuya pensión mensual inicial sea igual o superior a 25 unidades tributarias mensuales.
+
+Asimismo, se encontrarán afectos al control preventivo de legalidad los actos que dispongan la reliquidación de un beneficio previamente otorgado, cuando el monto mensual reliquidado supere el mencionado límite de 25 unidades tributarias mensuales.
 
 9. Creación, modificación y supresión de plantas de personal y fijación de remuneraciones.
 
@@ -289,6 +291,8 @@ Decretos y resoluciones en materias de personal sometidos a registro
 48. Los actos que deleguen facultades en materias de personal.
 
 49. Resoluciones que apliquen multas o dispongan el sobreseimiento en los procedimientos sancionatorios instruidos de conformidad con las leyes N°s. 20.730 y 20.880.
+
+50. Otorgamiento de desahucios y beneficios previsionales a funcionarios públicos y sus causahabientes adscritos a sistemas previsionales de régimen público, cuya pensión mensual inicial sea inferior a 25 unidades tributarias mensuales; la reliquidación de un beneficio previamente otorgado, cuando su monto mensual reliquidado no supere el mencionado límite de 25 unidades tributarias mensuales; así como la concesión de desahucios no asociados a algún beneficio previsional, menor al señalado monto mensual.
 
 #### Artículo 12 bis
 
