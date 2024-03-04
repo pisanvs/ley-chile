@@ -108,13 +108,7 @@ Requisitos y Obligaciones de los Laboratorios Propios, de Tercera Parte y Entida
 
 Los laboratorios de CL, que a la fecha de la entrada en vigencia de la presente resolución desarrollen la actividad de análisis o de muestreo y su correspondiente análisis, deberán obtener la acreditación ISO/IEC 17025:2017 para todos los ensayos indicados en la Tabla I. Respecto de los laboratorios de CL y entidades de muestreo que realicen solo la actividad de muestreo, deberán obtener la acreditación ISO/IEC 17020:2012. Las acreditaciones anteriormente mencionadas se deberán obtener antes del 1 de julio de 2023.
 
-A partir del 1 de enero de 2024, deberán contar con autorización de SEC, de acuerdo con los requisitos establecidos por ésta, las empresas que realicen las siguientes actividades:
-
-- Los laboratorios de CL que realicen solo análisis.
-
-- Los laboratorios de CL que realicen muestreo y su correspondiente análisis.
-
-- Los laboratorios de CL y entidades de muestreo que realicen solo muestreo.
+Los laboratorios de CL que realicen sólo análisis; los laboratorios de CL que realicen muestreo y su correspondiente análisis; y los laboratorios de CL y entidades de muestreo que realicen sólo muestreo; deberán contar con autorización otorgada por esta Superintendencia. Esta autorización será exigible a contar de los 90 días hábiles posteriores a la publicación en el Diario Oficial del procedimiento correspondiente para efectuar dichas actividades.
 
 Los laboratorios y las entidades de muestreo que no den cumplimiento a los requisitos indicados en los párrafos anteriores no podrán realizar las actividades establecidas en la presente resolución.
 
