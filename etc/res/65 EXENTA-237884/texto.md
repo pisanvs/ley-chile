@@ -22,47 +22,7 @@ Resuelvo:
 
 .
 
-### V. TERMINAL DE BUSES CONSTITUCIÓN - BRASIL
-
-### 1. Servicio con destino al Norte (Ruta 5 Sur)
-
-SALIDA Terminal- Av. Brasil-
-
-Av. Ecuador-Ruta 5 Sur
-
-REGRESO Ruta 5 Sur -Av. O'Higgins-
-
-Constitución-Terminal.
-
-### 2. Servicio con destino al Sur (Ruta 5 Sur)
-
-SALIDA Terminal-Av. Brasil-
-
-Av. Libertad- Av. O'Higgins-
-
-Ruta 5 Sur
-
-REGRESO Ruta 5 Sur-Av. O'Higgins-
-
-Constitución-Terminal
-
-### 3. Servicio Pinto-Recinto-Termas (Ruta N-55)
-
-SALIDA Terminal - Av. Brasil-
-
-Av. Libertad -Av. Argentina-
-
-Barros Arana-Río Viejo-
-
-Ruta N-55 (Camino a Pinto).
-
-REGRESO Ruta N-55 (Camino a Pinto)-
-
-Río Viejo-Barros Arana-
-
-Av. Collín-Av. O'Higgins-
-
-Constitución-Terminal.
+V. TERMINAL DE BUSES DEL CENTRO. (Av. Brasil Nº 540).
 
 ### VI. Asociación Gremial de Dueños de Taxis Colectivos Andinos (Maipón Nº 918)
 
