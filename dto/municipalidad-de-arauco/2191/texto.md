@@ -1304,7 +1304,15 @@ El Alcalde puede eximir total o parcialmente, o rebajar el o los pagos de derech
 
 #### Artículo 49
 
-Se exceptúan del beneficio establecido en el artículo anterior, los derechos fijados por ley, sobre permisos de edificación, subdivisión, loteo y demás derechos establecidos en el artículo 25 de la presente Ordenanza, sin perjuicio de lo dispuesto en la ley 19.418, relativo a Juntas de Vecinos y demás Organizaciones Comunitarias.
+Respecto a los permisos de edificación, subdivisión, loteo y demás derechos establecidos en el artículo 25 de la presente ordenanza, el Alcalde podrá rebajarlos de acuerdo a los siguientes criterios:
+
+a) Si el destino corresponde a vivienda de autoconstrucción, sin subsidio habitacional y de hasta 70 metros cuadrados, se deberá hacer solicitud en forma escrita, indicando la condición socioeconómica del solicitante, adjuntando documento que acredite el porcentaje asignado en el Registro Social de Hogares, y además un informe elaborado por un asistente social de la Municipalidad. En este caso, si es que el solicitante presenta un puntaje equivalente al 40%, y el informe determina su necesidad, se podrán rebajar los derechos hasta en un 50%.
+
+b) En los derechos municipales indicados, y cuyo destino corresponda a equipamiento social, cultural, deportivo o de culto, el solicitante deberá presentar solicitud en forma escrita al Alcalde, adjuntando todos los antecedentes relativos al proyecto, en cuyo caso se aplicará el siguiente criterio:
+
+c) Cuando se trate de donaciones de inmuebles realizadas a la Municipalidad, para efectos de construcción de equipamiento social, cultural, deportivo u otro relacionado con los fines municipales establecidos en la ley 18.695, los derechos de subdivisión se podrán rebajar hasta en un 90%, previa solicitud del interesado, ya sea una persona natural o jurídica.
+
+d) Cuando se trate de obras que ejecute el municipio o de alguna de sus Corporaciones Municipales, o de la Entidad Patrocinante Municipal, por sí o por terceros, los derechos municipales indicados serán rebajados en forma automática en un 99%.
 
 #### Artículo 50
 
