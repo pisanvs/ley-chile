@@ -178,7 +178,11 @@ f.3) Las emisiones espúreas de estos equipos, deberán estar 50 dB bajo el nive
 
 f.4) Alternativamente, a los requisitos señalados en los puntos f.1) a f.3), se aceptarán radioalarmas que operen en cualquier frecuencia, sujetos al requerimiento de que la intensidad de campo en la frecuencia fundamental, no exceda de 15 µV/m a una distancia de λ/2π
 
-g) Sistemas de Comunicaciones de Implantación Médica (MICS) que operen en la banda de frecuencias de 401 a 406 MHz con una potencia máxima radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
+g) Sistemas de Comunicaciones de Implantación Médica (MICS), que cumplan los siguientes requisitos, según corresponda:
+
+g.1) Que operen en la banda de frecuencias de 401 a 406 MHz con una potencia máxima radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
+
+g.2) Que operen en la banda de frecuencias de 2.400-2.483,5 MHz con una potencia máxima radiada de 2,5 mW y que empleen tecnología de saltos de frecuencia.
 
 h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
