@@ -978,13 +978,11 @@ e) Programa de fiscalización, entendido como el conjunto de acciones orientadas
 
 La Gestión de Episodios Críticos se implementará en los siguientes casos:
 
-a) Cuando el Delegado Presidencial Regional declare la condición de episodio crítico, cuando existan malas condiciones de ventilación, en base al pronóstico meteorológico informado por la SEREMI del Medio Ambiente. Lo anterior, en el periodo comprendido entre el 1 de abril al 30 de septiembre de cada año, entre las 00:00 y 08:00 horas. Este horario podrá ser extendido en caso que las malas condiciones de ventilación persistan más allá del horario señalado.
+a) Cuando el Delegado Presidencial Regional declara la condición de episodio crítico, en virtud de las malas condiciones de ventilación, en base al pronóstico meteorológico informado por la Seremi del Medio Ambiente. Lo anterior, en el periodo comprendido entre el 1 de enero al 31 de diciembre de cada año, ambos días inclusive, entre las 00:00 y 08:00 horas. Este horario podrá ser extendido en caso de que las malas condiciones de ventilación persistan más allá del horario señalado.
 
-b) Cuando el Delegado Presidencial Regional declare la condición de episodio crítico, cuando existan malas condiciones de ventilación, en base al pronóstico meteorológico informado por la SEREMI del Medio Ambiente. Lo anterior, en el periodo comprendido entre el 1 de enero y 31 de marzo, ambos días inclusive, y el 1 de octubre y el 31 de diciembre, ambos días inclusive, entre las 00:00 y 08:00 horas. Este horario podrá ser extendido en caso que las malas condiciones de ventilación persistan más allá del horario señalado.
+b) Cuando el Delegado Presidencial Regional lo determine, en caso de producirse un aumento en el número de atenciones en centros de salud que pudieran estar asociadas con emisiones atmosféricas, previo informe de la Seremi de Salud.
 
-Las atribuciones señaladas en el presente literal sólo podrán ejercerse dentro de los 3 primeros años contados desde la publicación del presente decreto.
-
-c) Cuando el Delegado Presidencial Regional lo determine, en caso de producirse un aumento en el número de atenciones en centros de salud que pudieran estar asociados con emisiones atmosféricas, previo informe de la Seremi de Salud.
+c) Eliminada.
 
 #### Artículo 48
 
