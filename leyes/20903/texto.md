@@ -1500,7 +1500,7 @@ Sin perjuicio de lo dispuesto en el artículo 10 del decreto con fuerza de ley N
 
 Artículo trigésimo sexto.- Los requisitos para la admisión universitaria establecidos en la letra b) del artículo 27 bis de la ley N°20.129, entrarán en vigencia desde el proceso de admisión universitaria y matrícula del año 2025.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, para el proceso de admisión universitaria y matrícula del año 2023 y 2024, en las carreras y programas de pedagogía implementados con anterioridad al año 2019 que cuenten con una acreditación mínima de tres años, deberá cumplirse con alguna de las siguientes exigencias:
+Sin perjuicio de lo dispuesto en el inciso anterior, para el proceso de admisión universitaria y matrícula del año 2023 y 2024, en las carreras y programas de pedagogía, deberá cumplirse con alguna de las siguientes exigencias:
 
 i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
 
