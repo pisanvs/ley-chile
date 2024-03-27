@@ -484,7 +484,41 @@ Competerá a dicho organismo impulsar y coordinar los procesos de evaluación, c
 
 Lo integrarán cinco académicos de la jerarquía de profesor titular, nombrados por el Senado Universitario a propuesta del Rector. El Reglamento del Consejo de Evaluación establecerá la duración y requisitos de sus integrantes, sus atribuciones y las normas de funcionamiento.
 
-## Título VII — Disposiciones Varias
+## Título VII
+
+De la Defensoría de la Comunidad Universitaria
+
+#### Artículo 53º bis
+
+La Defensoría de la Comunidad Universitaria es el órgano encargado de velar por el respeto a los principios y derechos consagrados en la normativa aplicable a la Universidad de Chile, especialmente en su Estatuto Institucional y en la ley Nº 21.094, sobre Universidades Estatales, contribuyendo con su actuación al mejoramiento continuo de la convivencia, al buen funcionamiento de la actividad universitaria y con ella, a la calidad de la educación.
+
+Podrán requerir su intervención, ante actuaciones de las autoridades y demás integrantes de la comunidad universitaria en caso de vulneración a los derechos y principios establecidos en la normativa aplicable a la Universidad de Chile, especialmente en su Estatuto Institucional y en la mencionada ley Nº 21.094, las siguientes personas:
+
+- **a)** académicos;
+
+- **b)** estudiantes;
+
+- **c)** personal de colaboración; y
+
+- **d)** servidores/as a honorarios, conforme a la normativa que corresponda.
+
+Los/as interesados podrán presentar consultas, quejas, solicitudes de mediación o de defensa en su caso.
+
+El órgano será dirigido por el/la Defensor/a Universitario/a de la Comunidad Universitaria, quien deberá ser Profesor/a Titular de la Universidad y desempeñará su cargo con autonomía e imparcialidad, pudiendo obrar de oficio. Habrá un reglamento que regulará el funcionamiento de la Defensoría y asegurará el cumplimiento de sus tareas.
+
+La Defensoría estará compuesta, al menos, por una unidad de mediación y una unidad de defensoría propiamente tal, las cuales tendrán funcionamiento separado e independiente entre ellas.
+
+En el mes de marzo de cada año, presentará al Senado Universitario un balance de su gestión, así como propuestas para lograr un cumplimiento eficaz y eficiente de sus funciones, en aras de excelencia y la calidad.
+
+El/la Defensor/a Universitario/a será nombrado/a por el/la Rector/a, previo concurso público y aprobación por el Consejo Universitario y el Senado Universitario. Durará cuatro años en sus funciones, pudiendo optar sólo a otro período consecutivo.
+
+La Defensoría será dotada de los elementos para su funcionamiento salvaguardando su autonomía para el correcto cumplimiento de su tarea.
+
+El presupuesto universitario deberá considerar una asignación que asegure el cumplimiento adecuado de su tarea.
+
+El Senado Universitario, previa opinión del Consejo Universitario, aprobará el reglamento de la Defensoría de la Comunidad Universitaria, estableciendo sus atribuciones, deberes y normas de funcionamiento, sin que tales disposiciones reglamentarias puedan afectar las atribuciones de otros órganos o autoridades de la Universidad de Chile.
+
+## Título VIII — Disposiciones Varias
 
 #### Artículo 54º
 
@@ -569,6 +603,14 @@ TRANSITORIO.- Las unidades académicas existentes a la fecha de publicación del
 #### Artículo SEGUNDO
 
 TRANSITORIO.- Dentro de los 120 días siguientes a la publicación del presente cuerpo legal, la Universidad deberá elegir, de acuerdo a las normas permanentes de este Estatuto, a sus autoridades y constituir el Senado Universitario y el Consejo de Evaluación. Para tal efecto, el Rector con acuerdo del Consejo Universitario estará facultado para dictar las normas que permitan la constitución de los órganos contemplados en este Estatuto. Una vez constituidos éstos, la Universidad dispondrá del plazo de un año para dictar los reglamentos necesarios para el adecuado funcionamiento de la Universidad de acuerdo con las disposiciones que establece este decreto con fuerza de ley.
+
+#### Artículo tercero
+
+transitorio.- Las normas sobre la Defensoría de la Comunidad Universitaria entrarán en vigencia una vez se encuentre aprobado su Reglamento por parte del Senado Universitario y dictado el respectivo decreto por parte del/la Rector/a.
+
+#### Artículo cuarto
+
+transitorio.- La puesta en marcha de la Defensoría de la Comunidad Universitaria deberá realizarse en un plazo no superior a un año desde la completa tramitación de la modificación estatutaria y la promulgación de su reglamento.
 
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Marigen Hornkohl Venegas, Ministra de Educación.
 
