@@ -144,119 +144,7 @@ Se considerará buena práctica que los órganos de la Administración del Estad
 
 En esta etapa los órganos públicos deberán verificar su competencia para dar respuesta a la solicitud de acceso a la información, el cumplimiento de los requisitos de la solicitud de acceso a la información señalados como obligatorios en el artículo 12 de la Ley de Transparencia y en el numeral 1.2. de la presente Instrucción General, la subsanación de la solicitud en caso que corresponda, la búsqueda de la información y la eventual afectación de derechos de terceros.
 
-2.1. Análisis competencial del órgano requerido y eventual derivación
-
-En función de la información solicitada al órgano, éste deberá verificar si lo requerido se encuentra dentro de la esfera de sus competencias y atribuciones. Se entenderá que un servicio es competente para resolver la solicitud cuando, en ejercicio de sus funciones y/o atribuciones, generó o debió generar la referida información, ésta hubiese sido elaborada por un tercero por encargo de aquél o, en cualquier caso, aquélla obrase en su poder.
-
-Lo anterior tendrá aplicación, salvo que la información solicitada hubiere sido generada por un órgano público diferente al requerido, en la medida que:
-
-a) Esté facultado legalmente para cobrar por ella un valor distinto a los costos directos de reproducción;
-
-b) Pudiere ver afectado, con su entrega, el debido cumplimiento de sus funciones, o
-
-c) Tenga competencias o atribuciones preferentes para evaluar la afectación de la seguridad de la Nación o el interés nacional.
-
-De verificarse alguna de estas circunstancias, será competente para conocer de ella el órgano referido, debiendo efectuarse la derivación correspondiente y justificar debidamente la concurrencia de alguna de estas circunstancias en el acto administrativo respectivo.
-
-Si no es posible definir la competencia del órgano, por ser la identificación de la información solicitada poco clara, el órgano deberá, previa verificación de los restantes requisitos y en un solo acto, requerir la subsanación de acuerdo al plazo y en la forma señalados en el numeral siguiente, indicando que ello es sin perjuicio de la determinación final de su competencia para resolver, en definitiva, lo solicitado.
-
-Recibida la solicitud o efectuada la subsanación referida, el órgano público deberá definir:
-
-a) Si es incompetente para resolver la solicitud, caso en el que procederá del siguiente modo:
-
-. Cuando sea posible individualizar al órgano
-
-competente, por existir una autoridad que deba
-
-conocer la solicitud de información según el
-
-ordenamiento jurídico, ya sea porque se desprende
-
-claramente de ella o de la subsanación
-
-correspondiente, en su caso, el sujeto requerido
-
-deberá derivar la solicitud de inmediato, e informar
-
-al peticionario de todo lo anterior, mediante
-
-notificación efectuada de acuerdo a lo indicado en
-
-su solicitud. De esta forma, el órgano dará por
-
-terminado el procedimiento administrativo de acceso
-
-iniciado ante él. La notificación al solicitante
-
-incluirá una copia del acto administrativo en virtud
-
-del cual se efectuó la derivación y la indicación de
-
-su fecha de envío al órgano competente.
-
-Se considerará, como buena práctica, indicar el
-
-nombre del encargado del procedimiento
-
-administrativo de acceso a la información del órgano
-
-al que se derivó la solicitud, a que se refiere el
-
-numeral 8 de la presente Instrucción General.
-
-El servicio público al cual se le derivó un
-
-requerimiento de acceso a la información pública
-
-deberá otorgar el recibo a que se refiere el numeral
-
-1.4., como si se tratase de una nueva presentación,
-
-aun cuando el órgano que se declaró incompetente ya
-
-lo hubiese otorgado.
-
-No podrá utilizarse el procedimiento de derivación,
-
-a que se refiere el artículo 13 de la Ley de
-
-Transparencia, cuando se trate de unidades u órganos
-
-internos de un mismo servicio público, aunque éstos
-
-ejerzan facultades desconcentradas. Así, por
-
-ejemplo, una Dirección Regional o una Secretaría
-
-Regional Ministerial no podrá derivar una solicitud
-
-a la Dirección Nacional o a la Subsecretaría
-
-respectiva, ni viceversa. Sin perjuicio de lo
-
-anterior, procederá la derivación entre los
-
-Establecimientos de Autogestión de Red y el
-
-correspondiente Servicio de Salud.
-
-. Cuando no sea posible individualizar al órgano
-
-competente o cuando la información requerida
-
-pertenezca a diversos organismos, deberá comunicarse
-
-de inmediato al solicitante dicha circunstancia,
-
-mediante notificación efectuada de acuerdo a lo
-
-indicado en su petición de información. De esta
-
-forma, el órgano dará por terminado el procedimiento
-
-administrativo de acceso iniciado ante él.
-
-b) Si es competente para resolver la solicitud, caso en el que procederá a revisar la completitud de la misma, efectuar la búsqueda de la información y, en caso que corresponda, verificar la eventual afectación de derechos de terceros, dando curso progresivo al procedimiento.
+2.1. Derogado.
 
 2.2. Análisis del cumplimiento de los requisitos de la solicitud y eventual subsanación
 
@@ -498,21 +386,7 @@ Por regla general, la autoridad o jefatura o jefe superior del servicio deberá 
 
 El plazo señalado en el párrafo anterior comenzará a correr para el órgano público que reciba una derivación de una solicitud de acceso por incompetencia desde otro servicio, en la misma fecha que reciba la derivación o desde que se subsanen las omisiones de que adolezca la presentación correspondiente, como si se tratare de una nueva presentación.
 
-6.2. Prórroga del plazo
-
-Excepcionalmente, los órganos públicos podrán disponer, por una sola vez, la prórroga del plazo de 20 días hábiles del procedimiento administrativo de acceso por otros 10 días hábiles, cuando existan circunstancias que hagan difícil reunir la información solicitada. El plazo señalado constituirá un límite máximo, por lo que se podrá disponer la prórroga por plazos más breves.
-
-Definida la necesidad de prorrogar el plazo, el órgano requerido deberá comunicar al solicitante, antes del vencimiento de aquél, los días de extensión y los fundamentos que justifiquen la concurrencia de circunstancias que hagan difícil reunir la información. Se considerará buena práctica que, además, se le informe la fecha en que se cumple dicho plazo y de la posibilidad de recurrir al Consejo en caso de vencer sin obtener respuesta o de ser denegada la petición.
-
-Se entenderá que existen circunstancias que hacen difícil reunir la información solicitada, por ejemplo, en los siguientes casos:
-
-a) Cuando la información tenga una larga data y deba ser ubicada y recuperada desde archivos físicos no informatizados.
-
-b) Cuando el volumen o cantidad de documentos o formatos solicitados exija invertir varios días en la recopilación de la misma.
-
-c) Cuando se trate de una gran cantidad de documentos, respecto de los cuales deba aplicarse el principio de divisibilidad, en conformidad a lo dispuesto en el numeral 4.3. de la presente Instrucción General.
-
-d) Cuando la información solicitada deba ser recabada desde diversas oficinas del órgano, desde lugares de difícil acceso y/o reordenada en función de los criterios definidos por el solicitante.
+6.2. Derogado.
 
 7. Delegación de firma del Jefe Superior del Servicio para dictar actos en el procedimiento de acceso a la información
 
