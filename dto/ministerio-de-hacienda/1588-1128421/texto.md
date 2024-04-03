@@ -1,4 +1,4 @@
-APRUEBA REGLAMENTO PARA EL OTORGAMIENTO DE LA BONIFICACIÓN ADICIONAL Y OTROS BENEFICIOS DE INCENTIVO AL RETIRO PARA LOS FUNCIONARIOS Y FUNCIONARIAS DE LOS SERVICIOS PÚBLICOS QUE SE INDICAN EN LA LEY N° 20.948 PARA LOS AÑOS 2019 A 2024
+APRUEBA REGLAMENTO PARA EL OTORGAMIENTO DE LA BONIFICACIÓN ADICIONAL Y OTROS BENEFICIOS DE INCENTIVO AL RETIRO PARA LOS FUNCIONARIOS Y FUNCIONARIAS DE LOS SERVICIOS PÚBLICOS QUE SE INDICAN EN LA LEY N° 20.948 PARA LOS AÑOS 2019 A 2025
 
 Núm. 1.588.- Santiago, 20 de noviembre de 2018.
 
@@ -26,7 +26,7 @@ Disposiciones Generales
 
 <!-- parte:9996678 -->
 
-El presente reglamento regula el otorgamiento de la bonificación adicional, del bono por antigüedad, y del bono por trabajo pesado establecidos en la ley N° 20.948, para los funcionarios y funcionarias que en cada caso se indican, durante los años 2019 a 2024.
+El presente reglamento regula el otorgamiento de la bonificación adicional, del bono por antigüedad, y del bono por trabajo pesado establecidos en la ley N° 20.948, para los funcionarios y funcionarias que en cada caso se indican, durante los años 2019 a 2025.
 
 Para los efectos de este reglamento se entenderá por:
 
@@ -44,7 +44,7 @@ d) Bono por Trabajo Pesado: Beneficio a que se refiere el artículo 10 de la Ley
 
 Serán beneficiarios de la bonificación adicional, por una sola vez, los funcionarios de carrera y a contrata que perciban la bonificación por retiro del Título II de la ley N° 19.882, siempre que se encuentren afiliados al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, según lo dispuesto en su artículo 17, que a la fecha de postulación tengan veinte o más años de servicios, continuos o discontinuos, en la Administración Central del Estado o en sus antecesores legales, y cumplan los demás requisitos que establece la Ley.
 
-Además, para tener derecho a la bonificación adicional, los funcionarios deberán haber cumplido o cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de julio de 2014 y el 31 de diciembre de 2024.
+Además, para tener derecho a la bonificación adicional, los funcionarios deberán haber cumplido o cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de julio de 2014 y el 31 de diciembre de 2025.
 
 También podrán acceder a la bonificación adicional los funcionarios que, cumpliendo los demás requisitos a que se refiere este artículo tengan a la fecha de postulación entre 18 años y menos de 20 años de servicios, continuos o discontinuos, en la Administración Central del Estado o sus antecesores legales.
 
@@ -72,7 +72,7 @@ Los funcionarios afectos al inciso final del artículo séptimo transitorio de l
 
 <!-- parte:9996682 -->
 
-Podrán acceder sólo a la bonificación adicional los funcionarios de las instituciones a que se refieren los artículos 2 y 3 del presente reglamento que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de diciembre de 2024; que cumplan los requisitos legales, según lo dispuesto en el artículo 12 del presente reglamento.
+Podrán acceder sólo a la bonificación adicional los funcionarios de las instituciones a que se refieren los artículos 2 y 3 del presente reglamento que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de diciembre de 2025; que cumplan los requisitos legales, según lo dispuesto en el artículo 12 del presente reglamento.
 
 ### Párrafo 2°
 
@@ -90,7 +90,7 @@ El departamento de gestión y desarrollo de personas o quien cumpla dicha funci�
 
 <!-- parte:9996685 -->
 
-Desde el año 2019 y hasta el año 2024, los funcionarios podrán comunicar su decisión de renunciar en los períodos de postulación siguientes:
+Desde el año 2019 y hasta el año 2025, los funcionarios podrán comunicar su decisión de renunciar en los períodos de postulación siguientes:
 
 a) Período comprendido entre el 1° de enero y el 31 de marzo de cada año antes indicado: podrán postular los funcionarios y funcionarias señalados en el artículo 8° del presente reglamento.
 
@@ -170,11 +170,11 @@ Funcionarios que hayan obtenido u obtengan pensión de invalidez. Los funcionari
 
 Para acceder a la bonificación adicional deberán reunir los siguientes requisitos copulativos:
 
-i. Haber obtenido u obtener pensión de invalidez regulada en el decreto ley N° 3.500 de 1980, entre el 1 de julio de 2014 y el 31 de diciembre de 2024;
+i. Haber obtenido u obtener pensión de invalidez regulada en el decreto ley N° 3.500 de 1980, entre el 1 de julio de 2014 y el 31 de diciembre de 2025;
 
 ii. Cumplir 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese en su cargo por obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del mismo o por renuncia voluntaria en el caso de los regidos por el Código del Trabajo;
 
-En ningún caso las edades señaladas podrán cumplirse más allá del 31 de diciembre de 2024;
+En ningún caso las edades señaladas podrán cumplirse más allá del 31 de diciembre de 2025;
 
 iii. Contar con los años de antigüedad que a continuación se indican:
 
