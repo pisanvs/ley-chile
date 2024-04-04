@@ -58,15 +58,15 @@ f) El/La Ministro/a de la Mujer y la Equidad de Género.
 
 En caso de ausencia o impedimento de alguno de los miembros de la Comisión, asistirá a la sesión el subrogante legal, o el representante que designe el respectivo Ministro, de lo que deberá informarse a la Comisión o la Secretaría Técnica. Asimismo, los miembros de la Comisión podrán asistir acompañados por asesores o funcionarios, en la forma que indique el reglamento interno de funcionamiento referido en el artículo 6º.
 
-De los acuerdos adoptados por los miembros de la Comisión, de lo planteado por el Presidente del Banco Central y los demás invitados permanentes y, en general, de lo expresado por todos los invitados a la Comisión, se dejará constancia en el acta que se levante de cada sesión.
+De los acuerdos adoptados por los miembros de la Comisión, de lo planteado por los asesores permanentes, y los demás invitados permanentes y, en general, de lo expresado por todos los invitados a la Comisión, se dejará constancia en el acta que se levante de cada sesión.
 
 #### Artículo 4º
 
 La Comisión podrá invitar a participar a otros funcionarios de la Administración del Estado, así como a personalidades de reconocida competencia de los ámbitos político, social, científico, empresarial o académico pertenecientes al sector privado, si lo estimare conveniente para el cumplimiento de su cometido.
 
-Asimismo, serán invitados permanentes de la Comisión, el presidente de la Comisión para el Mercado Financiero, los Superintendentes de Pensiones, de Seguridad Social, y de Insolvencia y Reemprendimiento, el Director del Servicio Nacional del Consumidor, el Director del Instituto de Previsión Social, el Director del Fondo de Solidaridad e Inversión Social y el Director Nacional del Instituto Nacional de la Juventud, quienes podrán asistir acompañados por asesores o funcionarios, en la forma que indique el reglamento interno de funcionamiento referido en el artículo 6°.
+Asimismo, serán invitados permanentes de la Comisión, los Superintendentes de Pensiones, de Seguridad Social, y de Insolvencia y Reemprendimiento, el Director del Instituto de Previsión Social, el Director del Fondo de Solidaridad e Inversión Social y el Director Nacional del Instituto Nacional de la Juventud, quienes podrán asistir acompañados por asesores o funcionarios, en la forma que indique el reglamento interno de funcionamiento referido en el artículo 6º.
 
-Por su parte, en conformidad a lo previsto por el artículo 4º del Artículo Primero de la ley 18.840 Orgánica Constitucional del Banco Central de Chile, con ocasión de las sesiones que celebre la Comisión, se solicitará contar con la asesoría permanente del Banco Central en todas las materias que digan relación con sus funciones, para lo cual se invitará a asistir a dichas sesiones al Presidente del Banco, quien en caso de impedimento podrá designar un representante.
+Por su parte, con ocasión de las sesiones que celebre la Comisión, se solicitará contar con la asesoría permanente del Banco Central, la Comisión para el Mercado Financiero y el Servicio Nacional del Consumidor en todas las materias que digan relación con sus funciones. Para ello, se invitará a asistir a dichas sesiones al Presidente o Presidenta del Banco Central, el Presidente o Presidenta de la Comisión para el Mercado Financiero, y al Director o Directora del Servicio Nacional del Consumidor, respectivamente, quienes, en caso de impedimento, podrán designar un representante.
 
 El Presidente de la Comisión, a través de su Secretaría Técnica, deberá remitir con la debida anticipación, la invitación correspondiente, incluyendo la tabla de materias a tratar y los antecedentes relevantes respecto de la misma.
 
@@ -84,7 +84,7 @@ En su sesión constitutiva, la Comisión determinará las normas para su funcion
 
 Para el cumplimiento de su cometido, la Comisión podrá constituir Grupos de Trabajo y Comités de Expertos, cuya integración y funciones serán definidas por acuerdo de la Comisión.
 
-Los Grupos y Comités que constituyan la Comisión en virtud de lo establecido en el presente artículo, podrán contar con la participación de expertos y profesionales provenientes del sector público y privado. Para estos efectos, la Comisión podrá solicitar también al Banco Central de Chile y a los demás invitados permanentes, la participación de sus funcionarios en los referidos Grupos y Comités, de acuerdo a lo establecido en el artículo 4º.
+Los Grupos y Comités que constituyan la Comisión en virtud de lo establecido en el presente artículo, podrán contar con la participación de expertos y profesionales provenientes del sector público y privado. Para estos efectos, la Comisión podrá solicitar también a los asesores permanentes, y a los demás invitados permanentes, la participación de sus funcionarios en los referidos Grupos y Comités, de acuerdo a lo establecido en el artículo 4°.
 
 Los integrantes de la Comisión, de los Grupos de Trabajo y Comités de Expertos que aquella constituyera, desempeñarán sus funciones ad honórem.
 
