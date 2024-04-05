@@ -14,7 +14,7 @@ Decreto:
 
 .
 
-Superficie aproximada inmuebles a expropiar: 14.012 metros cuadrados.
+Superficie aproximada inmuebles a expropiar: 12.128,21 metros cuadrados.
 
 2º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Concepción, si lo hubiere.
 
