@@ -46,7 +46,7 @@ b) Control fronterizo: Corresponde a establecimientos ubicados en áreas del esp
 
 c) Dispositivo de Identificación Individual Oficial (DIIO): Corresponde a un dispositivo con un número oficial único e irrepetible, con un sistema con radiofrecuencia (RFID) incorporado, el cual debe cumplir con las especificaciones técnicas que determine el Servicio según la especie. El DIIO solo es oficial una vez que se encuentra aplicado en el animal y registrado en el Sistema de Información Pecuaria Oficial.
 
-d) Establecimiento Pecuario o establecimiento: Corresponde a todo lugar donde existan animales vivos, en forma temporal o permanente, destinados a reproducción, crianza, producción, enajenación o transacción, actividades cuyo fin sea la comercialización de sus productos o subproductos, autoconsumo, faena o sacrificio, exhibición, actividades deportivas o de recuperación y rehabilitación.
+d) Establecimiento Pecuario o establecimiento: Corresponde a todo lugar donde existan animales vivos, en forma temporal o permanente.
 
 e) Eventos deportivos o recreacionales: Corresponden a todos aquellos eventos tales como: carreras, domas, polos, exposiciones, exhibiciones, muestras, rodeos, entre otros.
 
@@ -96,7 +96,7 @@ s) Eliminado.
 
 5. Todo titular de establecimiento pecuario registrado con RUP debe realizar la declaración de existencia de animales (DEA) del establecimiento, mediante el Formulario de Declaración de Existencia de Animales (FDEA) disponible en cualquier oficina del Servicio o mediante funcionalidad electrónica del Sistema de Información Pecuaria oficial.
 
-5.1. Para todo establecimiento, el titular debe realizar la DEA anualmente, en el período comprendido entre el 1° de agosto y el 30 de noviembre, ambos inclusive.
+5.1. Para todo establecimiento, el titular debe realizar la DEA, como mínimo, una (1) vez al año, pudiendo presentar actualizaciones cuantas veces lo requiera. La fecha de registro de la declaración no debe tener más de 365 días (1 año) de antigüedad desde su última declaración registrada en el Sistema de Información Pecuaria Oficial. El Servicio podrá, por razones sanitarias, programas específicos o convenios debidamente suscritos entre el Servicio y terceros, solicitar actualizaciones de la DEA diferentes a las ya mencionadas.
 
 5.2. Los datos contenidos en la DEA deben corresponder a la dotación de los animales presentes en el establecimiento y en el Sistema de Información Pecuaria Oficial al momento de realizar la declaración.
 
@@ -113,6 +113,8 @@ s) Eliminado.
 7.2. El DIIO deberá permanecer en el animal durante toda su vida, independiente del destino que éste tenga.
 
 7.3. El DIIO no deberá ser reutilizado, alterado, adulterado, copiado, falsificado ni retirado durante toda la vida del animal. Cualquiera de los hechos anteriores hará perder la condición de trazable del animal, sin perjuicio de las sanciones correspondientes.
+
+7.4 El Servicio, por razones sanitarias o en casos de emergencias, desastres u otras eventualidades, podrá aplicar el DIIO a todo animal que requiera ser identificado.
 
 8. Los mataderos y CFA no podrán recibir ni beneficiar ganado, sin que previamente hayan recepcionado el o los Formularios de Movimiento Animal (FMA), ya sea en su formato papel o en su funcionalidad electrónica, que comprueben la procedencia del ganado que será beneficiado.
 
