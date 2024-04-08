@@ -84,6 +84,8 @@ b) Apoyar en el diseño de iniciativas, proyectos y políticas que el Director e
 
 c) Apoyar al Jefe de Gabinete en las demás tareas que le encomiende.
 
+d) Asesorar a la Dirección en las relaciones con organismos internacionales o extranjeros.
+
 2.2.1 Se delega también en los funcionarios de la Unidad de Asesoría Jurídica que ejerzan la labor de fiscalía en sumarios sanitarios, la facultad de suscribir los memorandos y oficios destinados a recabar información relacionada con la investigación que tienen a su cargo. Del mismo modo, estos funcionarios podrán dictar resoluciones que abran términos probatorios, resuelvan solicitudes de ampliaciones de plazos sobre los mismos y, en general, aquellas que sean necesarias para dar curso progresivo a los autos.
 
 2.2.2 Le corresponderán a la Unidad de Asesoría Jurídica, las siguientes funciones:
@@ -140,7 +142,7 @@ g) Coordinar y entregar información que permita dar cuenta pública de la gesti
 
 h) Velar por el cumplimiento de la estrategia institucional, incorporando los planes particulares de cada departamento, en vías de lograr los objetivos y metas propuestas por la Dirección.
 
-2.5 La Unidad de Gestión de la Calidad, cuya jefatura tendrá delegada la facultad de aprobar por resolución los listados maestros que correspondan, y a la que corresponderán las funciones que a continuación se indican:
+2.5 La Unidad de Gestión de Calidad y Riesgos Institucionales, cuya jefatura tendrá delegada la facultad de aprobar por resolución los listados maestros que correspondan, y a la que corresponderán las funciones que a continuación se indican:
 
 a) Coordinar, controlar y apoyar los procesos de implementación, mantención y ampliación de certificaciones y acreditaciones del Sistema de Gestión de la Calidad institucional y la gestión de riesgo.
 
@@ -276,7 +278,7 @@ f) Recibir, registrar, almacenar y gestionar la eliminación de los residuos tan
 
 5.3 UNIDAD DE MANTENCIÓN DE EQUIPOS DE LABORATORIO, cuya función es diseñar y ejecutar programas de mantención con énfasis en lo preventivo y reparación de los equipos médicos y de laboratorio, de refrigeración y climatización del Instituto, ejerciendo además seguimiento de los servicios contratados.
 
-5.4 OFICINA DE PARTES, cuyos funcionarios tendrán delegada la facultad de firmar las copias de actos y expedientes administrativos, que les sean requeridos para ser presentados ante tribunales de justicia, dando fe de que son copia fidedigna de su original. Esta oficina tendrá como función recibir, foliar, registrar, custodiar y despachar toda la documentación oficial que ingrese o salga del Instituto.
+5.4 Eliminado.
 
 5.5 SUBDEPARTAMENTO ABASTECIMIENTO, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
 
@@ -566,11 +568,7 @@ e) Proporcionar al Subdepartamento de Gestión Financiera los cierres diarios, m
 
 f) Notificar a los usuarios los oficios, resoluciones, certificados y otros documentos oficiales que son el resultado del trámite realizado por el Instituto.
 
-5.9.3 Gestión Documental:
-
-a) Centralizar, formalizar, registrar, custodiar y actuar como ministro de fe, respecto de toda la documentación resultante de una prestación.
-
-b) Gestionar la plataforma de contact center.
+5.9.3 Oficina de Partes, cuyos funcionarios tendrán delegada la facultad de firmar las copias de actos y expedientes administrativos que les sean requeridos para ser presentados ante tribunales de justicia, dando fe de que son copia fidedigna de su original, y que tendrá las funciones de recibir, registrar, foliar, custodiar, actuar como ministro de fe y despachar toda la documentación oficial que ingrese o salga del Instituto, como también aquella resultante de una prestación.
 
 5.9.4 Cámara y Despacho:
 
@@ -1020,11 +1018,7 @@ e) Evaluar las solicitudes de inscripción o registro de dispositivos médicos s
 
 f) Evaluar las solicitudes de autorización de fabricación, importación y uso de dispositivos médicos en ensayos clínicos, ya sea con dispositivos médicos sin registro sanitario o con registro sanitario nacional, pero usado en una finalidad diferente a la autorizada y sus modificaciones.
 
-7.2.2 Registro de dispositivos médicos de diagnóstico in vitro:
-
-a) Evaluar las solicitudes de registros sanitarios y trámites asociados para dispositivos médicos de diagnóstico in vitro.
-
-b) Evaluar y resolver las solicitudes de autorización de fabricación, importación y uso de dispositivos médicos de diagnóstico in vitro en ensayos clínicos, ya sea con dispositivos médicos sin registro sanitario o con registro sanitario nacional, pero usado en una finalidad diferente a la autorizada y sus modificaciones.
+7.2.2 Eliminado.
 
 7.2.3 Autorización de establecimientos:
 
@@ -1052,7 +1046,21 @@ a) Fiscalizar a las entidades que realizan la verificación de la conformidad y 
 
 7.4 SUBDEPARTAMENTO SALUD RADIOLÓGICA, que tendrá como función ejercer el rol de laboratorio nacional y de referencia, normalizador y supervisor en los campos de imagenología y radioterapia, estableciendo directrices para el control de los dispositivos médicos asociados a los equipos y fuentes emisoras de radiaciones empleadas en las prácticas radiológicas.
 
-7.5 SUBDEPARTAMENTO INNOVACIÓN, DESARROLLO, TRANSFERENCIA TECNOLÓGICA (I+D+T) Y ETESA, que estará compuesto por las siguientes Secciones que tendrán las funciones que se definen a continuación:
+7.5 Subdepartamento Innovación y Desarrollo, que tendrá las funciones que se definen a continuación:
+
+a) Apoyar, impulsar y desarrollar en la institución estudios de investigación científica aplicada respecto de los principales problemas de salud de la población del país.
+
+b) Generar base de datos actualizadas con fondos concursables para investigación científica en el área de salud pública.
+
+c) Generar alianzas estratégicas con instituciones científicas nacionales e internacionales.
+
+d) Apoyar el desarrollo y edición de la Revista del Instituto de Salud Pública de Chile y promover publicación científica en revistas científicas de alto impacto.
+
+e) Apoyar la organización y desarrollo de las jornadas científicas de la institución.
+
+f) A través de la biblioteca, mediar en los procesos de adquisición de información y conocimiento de los funcionarios del Instituto, resguardando como patrimonio de la institución la ubicación, tratamiento, preservación y visualización de la información científico/documental; facilitando la actualización de contenidos de referencia, reduciendo tiempos de búsqueda y obtención de material asertivo.
+
+g) Desarrollar investigación aplicada y desarrollo tecnológico con impacto en la salud pública, aplicable al ámbito de las competencias del ISP"
 
 7.5.1 Estudios y ETESA:
 
@@ -1508,7 +1516,7 @@ a) Oficios que sean requeridos por los tribunales de justicia, Ministerio Públi
 
 b) Resoluciones que denieguen parcial o totalmente el acceso a la información pública, en el marco de la ley N° 20.285.
 
-c) En materia de sumarios sanitarios, firmará las resoluciones que dicten sentencia en dichos sumarios, aquellas que se pronuncien sobre la solicitud de suspensión de los efectos de aquellas sentencias, así como resolver los recursos de reposición y cualquier otro tipo de impugnación, presentación o solicitud, a propósito del sumario, en general.
+c) En materia de sumarios sanitarios, firmará las resoluciones que dicten sentencia en dichos sumarios y aquellas que se pronuncien sobre la solicitud de suspensión de los efectos de aquellas sentencias, así como también resolver los recursos de reposición.
 
 d) Resolver los recursos de reposición y otras impugnaciones de todo tipo que se presenten contra actos emanados de este Instituto, así como las solicitudes de suspensión contenidas en dichas presentaciones. Lo anterior, con excepción de la revisión cuya facultad se delega en las letras c) y d) del número 6.10 de la presente resolución y de aquellas decisiones suscritas por el Director del Instituto, las que serán resueltas por esa autoridad.
 
@@ -1518,7 +1526,7 @@ f) Suscribir los oficios que se envíen a Contraloría General de la República,
 
 11.1 El Departamento Jurídico estará conformado por los siguientes Subdepartamentos y Oficina, con las funciones y delegaciones que se describen:
 
-11.2 Oficina Judicial:
+11.2 Oficina Judicial y Gestión de Convenios:
 
 a) Asumir la defensa del Instituto en los juicios en que sea parte o en los asuntos en que tenga interés ante los tribunales de justicia o el Ministerio Público, con excepción de las facultades que tenga en esta materia el Subdepartamento Gestión Financiera.
 
@@ -1532,25 +1540,17 @@ b) Redactar o revisar la legalidad, según corresponda, de las resoluciones y co
 
 c) Elaborar los actos administrativos tendientes a dar inicio a procedimientos disciplinarios, así como también aquel que prorroga los mismos, resuelve la solicitud de recusación del fiscal, las que declaran el sobreseimiento o la absolución, dictan la sentencia, resuelve recursos y aprueba dichos procesos. Además, se encargará de la formación y asesoría a los investigadores y fiscales de estos procedimientos, sin perjuicio del control que ha sido asignado en esta materia a la Unidad de Auditoría Interna.
 
-d) Evaluar e informar en relación de propuestas normativas en el ámbito administrativo, redactando los oficios que las envíen a la autoridad competente.
+d) Eliminado.
 
-e) Intervenir en la elaboración de las resoluciones, pronunciamientos e instrucciones que deba aprobar la Dirección del Instituto, a requerimiento de ésta, en el ámbito de su competencia.
+e) Eliminado.
 
-f) Preparar los informes y las consultas a la Contraloría General de la República sobre la interpretación de normas legales y reglamentarias, en el ámbito administrativo.
+f) Eliminado.
 
 11.4 Subdepartamento Asuntos Regulatorios: cuya jefatura tendrá delegada la facultad de firmar la resolución que instruye un sumario sanitario, pudiendo también dictar el acto administrativo que designa al fiscal de ese proceso y su modificación, así como también aquella en que se cita a audiencia. Dicho Subdepartamento tendrá las siguientes funciones:
 
-a) Conocer los recursos presentados ante decisiones de cualquier jefatura del Instituto, relacionadas con las facultades que le confiere a este Servicio el Código Sanitario y sus reglamentos.
+a) Conocer los recursos presentados ante decisiones de cualquier jefatura del Instituto, relacionadas con las facultades que le confiere a este Servicio el Código Sanitario y sus reglamentos, así como también le corresponderá emitir los actos administrativos que correspondan, a estas materias.
 
-b) Confeccionar los informes jurídicos solicitados en el ámbito de los procedimientos de registro de productos sujetos a control sanitario, así como también aquellos requeridos para las transferencias, cambios y autorizaciones de establecimientos y productos que este Instituto concede.
-
-c) Evaluar e informar en relación de propuestas normativas en el ámbito regulatorio, redactando los oficios que las envíen a la autoridad competente.
-
-d) Conocer de las presentaciones relacionadas con materias regulatorias, elaborando los documentos internos que se requieran.
-
-e) Intervenir en la elaboración de las resoluciones, pronunciamientos e instrucciones que deba aprobar la Dirección del Instituto, a requerimiento de ésta, en el ámbito de su competencia.
-
-f) Preparar los informes y las consultas a la Contraloría General de la República sobre la interpretación de normas legales y reglamentarias, en el ámbito administrativo.
+b) Evaluar e informar en relación de propuestas normativas en el ámbito regulatorio, redactando los oficios que las envíen a la autoridad competente.
 
 11.4.1 Se delega también en los funcionarios del Subdepartamento Asuntos Regulatorios que ejerzan la labor de fiscalía en sumarios sanitarios, la facultad de suscribir los memorandos y oficios destinados a recabar información relacionada con la investigación que tienen a su cargo. Del mismo modo, estos funcionarios podrán dictar resoluciones que abran términos probatorios, resuelvan solicitudes de ampliaciones de plazos sobre los mismos y, en general, aquellas que sean necesarias para dar curso progresivo a los autos.
 
