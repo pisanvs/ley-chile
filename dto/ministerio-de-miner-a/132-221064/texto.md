@@ -9410,355 +9410,289 @@ A las faenas mineras cuya capacidad de extracción subterránea o a rajo abierto
 
 Capítulo segundo
 
-Del proyecto minero y del inicio de la actividad minera
+De los permisos y la iniciación de actividades mineras
 
 #### Artículo 595
 
-Las empresas o productores mineros cuya capacidad de extracción y/o tratamiento sea igual o inferior a cinco mil toneladas de mineral por mes, deberán solicitar al Servicio alguno de los siguientes permisos, los que se aplicarán de acuerdo al tamaño y características de su proyecto:
+Las empresas o productores mineros cuya capacidad de extracción y/o tratamiento sea igual o inferior a cinco mil (5.000) toneladas de mineral por mes, deberán obtener la aprobación por parte del Servicio de alguno de los siguientes permisos, de acuerdo con el tamaño y características de su proyecto minero:
 
-a. Proyecto de Explotación Artesanal (PEA), cuyo rango de producción será de hasta quinientas toneladas de mineral por mes. Las secciones autorizadas para este permiso no podrán exceder los 3 x 3 metros en caso de minería subterránea, sin perjuicios de situaciones excepcionales como desquinches, estocadas, entre otros. Para el caso de minería rajo abierto o canteras, se autorizan por este permiso bancos de hasta 5 metros de altura.
+a. Declaración Minera (DM), para proyectos cuya capacidad de extracción sea inferior o igual a las mil (1.000) toneladas de mineral por mes, que mensualmente no exceda el 25% de producción y que anualmente no supere las doce mil (12.000) toneladas, sin perjuicio de las excepciones establecidas en el artículo 597.
 
-b. Proyecto de Explotación Simplificado (PES), cuyo rango de producción será de hasta dos mil toneladas de mineral por mes.
+b. Proyecto Minero (PM), para proyectos cuya capacidad de extracción y/o producción sea superior a las mil (1.000) toneladas de mineral por mes e igual o inferior a cinco mil (5.000) toneladas de mineral por mes en el caso de la explotación minera. Las plantas de tratamiento de minerales cuya capacidad de alimentación no supere las cinco mil toneladas de material por mes deberán tramitar un Proyecto Minero (PM).
 
-c. Proyecto de Explotación y/o Tratamiento (PET), cuyo rango de producción será de hasta cinco mil toneladas de mineral por mes.
+Los proyectos mineros asociados a estos permisos deberán ser presentados al Servicio y comprender las operaciones necesarias para la extracción de minerales, su acopio, y/o el beneficio y disposición de residuos mineros, excluyendo a los relaves, cuya regulación está comprendida en el decreto supremo N° 248, de 2006, del Ministerio de Minería.
 
-Los proyectos asociados a estos permisos deberán ser presentados al Servicio y deberán comprender las operaciones necesarias para la extracción de minerales, su acopio, y/o el beneficio y disposición de residuos mineros, excluyendo a los relaves, cuya regulación está comprendida en el decreto supremo N° 248, de 2006, del Ministerio de Minería. El titular del respectivo proyecto no podrá comenzar las operaciones mineras sin un permiso aprobado y vigente.
-
-Lo anterior, es sin perjuicio de lo dispuesto en el artículo 21 del presente Reglamento.
+El titular de la faena minera no podrá comenzar las operaciones mineras sin un permiso aprobado y vigente. No se otorgarán los permisos de este Título en terrenos donde no se encuentre constituida una concesión minera de explotación.
 
 #### Artículo 596
 
-Los permisos enunciados en el artículo anterior tendrán una duración máxima de 3 años, pudiendo ser renovados por períodos máximos de 3 años, cuya duración se determinará sobre la base de la vigencia del título de la empresa o productor minero sobre la pertenencia minera que ampara al proyecto, salvo que el titular del proyecto sea al mismo tiempo dueño de la concesión minera, en cuyo caso el permiso podrá tener la duración que se defina en el proyecto.
+Los permisos enunciados en el artículo anterior tendrán una duración según su tipología:
 
-El proyecto minero de tratamiento de minerales, cualquiera sea su magnitud, tendrá la duración que se defina en el proyecto, sobre la base de plan de negocio, título de ocupación del suelo y sobre la base de los antecedentes que resulten ser pertinentes para definir su extensión, sin perjuicio de lo dispuesto en el artículo 597 literal c).
+a. En el caso de la Declaración Minera (DM), el permiso tendrá una duración en función de la estimación de las operaciones mineras que se realizarán, con un tope máximo de 60 meses. Lo anterior, sin perjuicio que la vigencia de este permiso estará condicionada en función del título que ampara la explotación de las pertenencias mineras.
 
-En cualquier caso, la duración del proyecto comprenderá la totalidad del tiempo que abarcan las etapas de preparación, construcción, desarrollo o beneficio y cierre de faena.
+b. En el caso del Proyecto Minero (PM), el permiso tendrá la duración que se defina en el proyecto, sobre la base de las operaciones mineras que se realizarán. Lo anterior, sin perjuicio que la vigencia de este permiso estará condicionada en función del título que ampara la explotación de las pertenencias mineras. Para las plantas de tratamiento de minerales, la duración se definirá sobre la base del título de ocupación del suelo.
 
-La actualización de la duración del permiso requerirá acreditar la vigencia del título sobre la pertenencia que ampara al proyecto y se deberá acompañar croquis o planos, dependiendo del tipo de permiso, que muestre las dimensiones y secciones de la mina en su estado actual. El Servicio, por fundamentos técnicos, podrá solicitar antecedentes o informes técnicos que den cuenta de la estabilidad estructural de la mina para dar lugar a la actualización solicitada.
-
-La actualización deberá ser solicitada a lo menos con tres meses de anticipación del vencimiento del respectivo período. Su aprobación se tramitará conforme el procedimiento abreviado señalado en el artículo 605 del presente Reglamento.
-
-Los permisos asociados a plantas de tratamiento de minerales no requerirán ser actualizados, sin perjuicio de la obligación de informar modificaciones mayores para su evaluación y aprobación. Lo mismo ocurrirá en el caso que el titular del proyecto de explotación sea al mismo tiempo titular de la pertenencia minera que ampara al proyecto.
+En cualquier caso, la duración del proyecto comprenderá la totalidad del tiempo que abarcan las etapas de preparación, construcción, desarrollo y cierre de faenas e instalaciones mineras.
 
 #### Artículo 597
 
-La modificación mayor de un Proyecto de Explotación deberá ser informada al Servicio para su aprobación.
+Independientemente de la capacidad de extracción o producción, se deberá presentar un Proyecto Minero (PM) en los siguientes casos:
 
-Se entiende por modificación mayor, para estos efectos, a lo siguiente:
+a. Una explotación minera que contempla el adelgazamiento, reducción de sección o recuperación de pilares.
 
-a. Aumentos importantes de ritmos de explotación o tratamiento de minerales, entendiendo por tales, para el Proyecto de Explotación Artesanal, un exceso en su rango de producción de hasta 500 toneladas de mineral por mes y en un 50% del rango en más de dos meses durante un año corrido o natural, y una extracción acumulada anual de hasta 6.500 toneladas.
+b. Una explotación en minas subterráneas que considere el ingreso a caserones explotados y donde no exista control de techos o cajas.
 
-b. Para el caso del Proyecto de Explotación Simplificado, se entenderá por modificación mayor a aumentos importantes en ritmos de producción un exceso en su rango de producción máximo en un 25% de lo aprobado, mientras no exceda el límite de 2.000 toneladas mensuales de mineral establecido para este tipo de proyecto.
+c. Una explotación a rajo abierto que considere el ingreso o explotación próxima a sectores con taludes verticales naturales o bancos de gran altura sin control para evitar su desmoronamiento.
 
-c. Para el caso del Proyecto de Explotación y/o Tratamiento, se entenderá por modificación mayor a aumentos importantes en ritmos de producción o tratamiento un exceso en su rango de producción máximo en un 25% de lo aprobado, mientras no exceda el límite de 5.000 toneladas mensuales de mineral establecido para este permiso.
+d. Aquellas explotaciones mineras que correspondan a lavaderos o que contemplen intervención de cauces de ríos, esteros, embalses o acumulaciones de agua en general.
 
-d. Cambios tecnológicos que incidan considerablemente en las condiciones de seguridad y salubridad del proceso minero, por ejemplo, la inclusión de sistemas de electrificación; cambio de ventilación natural a forzada; la dimensión de los equipos, entre otros.
+e. Aquellas explotaciones mineras que consideren métodos de extracción con hundimiento de bloques o micro-bloques, y que su proyección en superficie sea susceptible de generar subsidencias.
 
-e. Cambios de diseño y/o de métodos de explotación o tratamiento o secciones de labores mineras aprobadas por el Servicio, cambios en los volúmenes y diseños de los acopios de minerales y estériles.
+f. Los proyectos de retiro o explotación de desmontes, relaves antiguos o preexistentes, disfrutes o depósitos de baja ley o estériles preexistentes.
 
-f. Extensión de las labores de explotación fuera del ámbito de la concesión que ampara originalmente al proyecto, y
+g. Una explotación minera que contempla su desarrollo al interior de una ciudad o centro urbano, o cuya proximidad sea inferior a quinientos (500) metros de zonas pobladas.
 
-g. Nuevos lugares de ubicación de acopios y/o nuevos puntos de extracción mientras no se extienda el rango máximo de producción de acuerdo al tipo de permiso.
+h. Proyectos subterráneos que involucren secciones de socavones que excedan los cuatro (4) metros de altura y/o cuatro (4) metros de ancho.
 
-Las modificaciones mayores deberán ser informadas al Servicio para su aprobación, en cuyo caso se deberán presentar todos aquellos antecedentes que tengan directa relación con lo que se modifica o incorpora al proyecto. La letra g) de este artículo se tramitará y aprobará conforme el procedimiento abreviado del artículo 605 de este Reglamento.
+i. Proyectos de minería a rajo abierto o canteras que involucren bancos por sobre los cinco (5) metros de altura.
 
 #### Artículo 598
 
-Para los efectos de la aprobación de cualquiera de los permisos señalados en el artículo 595 de este Reglamento, la empresa o productor minero deberá presentar al Servicio los siguientes antecedentes generales:
+Las modificaciones significativas de proyectos deberán contar con la autorización del Servicio previo a su implementación.
 
-1. Identificación del titular del proyecto, indicando nombre o razón social, representante legal, si aplica; número de cédula nacional de identidad, de pasaporte o rol único tributario, según corresponda; domicilio comercial dentro de un radio urbano; correo electrónico y número de teléfono de contacto. Para las notificaciones deberá señalar el medio de notificación, pudiendo ser electrónico o por carta certificada, de acuerdo a lo dispuesto en la ley N° 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+Para el caso de la Declaración Minera (DM), se entenderá por modificación significativa:
 
-2. Identificación del responsable de la faena, indicando nombre, profesión u oficio, número de cédula nacional de identidad, domicilio y correo electrónico.
+a. La incorporación de nuevas instalaciones o puntos de explotación.
 
-3. Identificación del Ingeniero elaborador del proyecto (ingeniero proyectista), cuya profesión debe ser Ingeniero Civil en Minas, Ingeniero de Ejecución en Minas o Ingeniero en Minas para faenas de extracción o Ingeniero Civil Metalúrgico, Ingeniero de Ejecución Metalúrgico o Ingeniero Civil o de Ejecución Químico para tratamiento de minerales, cuyo título haya sido reconocido o convalidado en Chile; número de cédula nacional de identidad; copia autorizada ante notario del certificado de título; domicilio; y correo electrónico.
+b. Cualquier modificación en los antecedentes de la propiedad minera, ya sea en sus títulos o incorporación de nuevas pertenencias.
 
-El Servicio mantendrá, en carácter informativo y de publicidad, un catastro de ingenieros proyectistas para efectos de la presentación de proyectos.
+c. Modificaciones en los antecedentes productivos, ya sea cambios en la dotación, régimen de trabajo, producción, duración, equipos, uso de explosivos, entre otros autorizados en la declaración.
 
-4. Identificación del nombre del proyecto o permiso minero, indicando:
+d. Cualquier modificación en los antecedentes relevantes de seguridad, tales como la existencia de labores subterráneas preexistentes, y/o la interacción con otras faenas mineras.
 
-4.1.- Ubicación de la Faena Minera, indicando región, provincia, comuna y sector. Se deberán indicar las coordenadas U.T.M. de acuerdo al datum de referencia determinado en la propiedad minera respectiva, del polígono del proyecto, e indicar altura en relación al nivel del mar.
+Para el caso del Proyecto Minero (PM), se entenderá por modificación significativa:
 
-4.2.- Descripción del acceso, indicando si los caminos son de uso públicos o privados para acceder a la faena y sus instalaciones. En este último caso, se debe informar también si el camino es propio o de un tercero, señalando las coordenadas U.T.M., en el datum señalado, de la ubicación de los controles de acceso. Incluir un plano ubicación, para lo cual se podrá utilizar una imagen de archivo KMZ.
+a. Los aumentos en ritmos de producción o tratamiento que excedan el rango de producción máximo en un 25% de lo aprobado, mientras no exceda el límite de 5.000 toneladas mensuales de mineral establecido para este permiso.
 
-4.3.- Descripción general de la faena minera y de cada una de sus instalaciones distinguiendo la infraestructura principal y auxiliar, incluyendo las instalaciones y lugares de almacenamiento de elementos combustibles tales como petróleo, lubricantes o zonas de suministros, conforme a las guías que se elaborarán para tales efectos.
+b. Los cambios tecnológicos que incidan considerablemente en las condiciones de seguridad y salubridad del proceso minero, tales como la inclusión de sistemas de electrificación, cambio de ventilación natural a forzada, entre otros.
 
-En este punto se debe realizar una descripción de las instalaciones mineras con los elementos geográficos relevantes, tales como quebradas, pendientes, cuerpos y cursos de agua, líneas de alta tensión, entre otros. Para estos efectos, se deben incorporar planos o imagen en formato KMZ que den cuenta de elementos geográficos.
+c. Los cambios de diseño y/o de métodos de explotación, cambios de tratamiento o dimensiones de las unidades de explotación minera aprobadas por el Servicio, además de cambios en los volúmenes, dimensiones y diseños de los acopios de minerales y estériles.
 
-4.4.- Si el yacimiento ha sido explotado con anterioridad, descripción de los desarrollos mineros existentes, señalando lo que sea necesario para su individualización, denominación de la faena, si se tiene el antecedente, su ubicación con coordenadas, tipo de labor (chimeneas, rajos, socavones antiguos, entre otros), estimación de metros de avance existente mediante un croquis, si están las condiciones de seguridad para elaborarlo; definición de barreras, señalética, sus características, entre otros, para evitar el acceso a zonas peligrosas e identificación de zonas o sectores que no sean parte del permiso sectorial o proyecto de explotación y con prohibición de explotación.
+d. La incorporación de nuevos lugares de disposición de acopios y/o nuevos puntos de extracción.
 
-4.5.- Para el caso de proyectos de extracción, se debe individualizar la pertenencia minera que ampara al proyecto mina, indicando nombre, rol único nacional, relación jurídica con la pertenencia o concesión minera constituida. Se debe acompañar copia autorizada de la inscripción del Registro de Propiedad del Conservador de Minas respectivo, con certificado de vigencia emitido dentro de los tres meses anteriores a su presentación.
+e. Los cambios en los ritmos de capacidad de tratamiento que excedan el 25% de lo aprobado, los cambios en los tipos de procesamiento y la generación de nuevos depósitos de residuos, en el caso de las plantas de tratamiento.
 
-En caso de que el productor o empresa minera no sea al mismo tiempo titular de la pertenencia, deberá acompañar el contrato que le da derecho a aprovecharse de ella. Si el título dado en arrendamiento pertenece a una sociedad regida por el Código de Minería, se deberá, además, acompañar un certificado del Registro de Accionistas del Conservador de Minas respectivo, emitido dentro de los tres meses anteriores a su presentación.
+Las solicitudes de aprobación de modificaciones significativas deberán presentar todos aquellos antecedentes que tengan directa relación con lo que se modifica o incorpora al proyecto.
 
-4.6.- Para el caso que el productor o empresa sea dueña de la pertenencia minera, se deberá presentar un informe básico sobre la estimación de la duración del proyecto minero sobre la base de estimación de recursos mineros, dividido por la capacidad de extracción y/o procesamiento de mineral, el cual podrá ser suscrito por el propio ingeniero proyectista.
-
-4.7. Indicar las resoluciones aprobatorias del Servicio relacionadas.
-
-5.- Descripción de los cargos, dotación, y turnos de trabajo de la faena.
+No serán consideradas modificaciones significativas los aumentos de sección menores al 25% de lo aprobado, ni los aumentos puntuales en la sección con objeto de mejorar la operatividad, tales como desquinches en rampas o cruces para maniobrabilidad de los equipos.
 
 #### Artículo 599
 
-Para los efectos de la evaluación de un Proyecto de Explotación Artesanal (PEA), se requiere de la presentación de los siguientes antecedentes técnicos, adicionales a los señalados en el artículo 598:
+Las empresas y productores mineros no podrán fraccionar sus proyectos o actividades con el objeto de eludir la presentación de un Proyecto Minero (PM) de una explotación minera.
 
-1.- Descripción del método de explotación en términos de estabilidad de la estructura, considerando la seguridad y salubridad de los trabajadores, tanto para mina subterránea como para rajo abierto, conforme lo dispuesto en el artículo 595 y lo siguiente:
-
-1.1.- En caso de minería a rajo abierto se debe anexar un esquema del tipo geometría y dimensión de los bancos y bermas, ángulo de talud, considerando la competencia de la roca y dimensión de los equipos.
-
-1.2.- En caso de minería subterránea se debe describir la labor principal de comunicación y extracción y las secundarias. El método de explotación debe ser descrito, definido y justificado en términos de competencia de la roca, producción, ventilación y equipamiento.
-
-1.3.- Se debe describir el sistema de extracción de mineral. El transporte de material deberá estar desarrollado de acuerdo con las características de los vehículos y equipos de manera que sean consistentes con el ancho y pendiente de pistas, labores y rampas, bermas y pretiles de contención, si corresponde.
-
-2.- Descripción del estado del macizo rocoso en donde se realizarán los trabajos mineros, considerando el nivel de fracturamiento, presencia de agua, presencia de fallas o diques. En casos que el Servicio lo estime necesario, de acuerdo a los antecedentes previos que el Servicio tenga del distrito minero o de la faena minera en particular, se podrá requerir un informe de estabilidad, el cual deberá ser elaborado por el ingeniero proyectista de la empresa o productor minero o por una empresa asesora en geomecánica.
-
-Se debe señalar la definición del mineral principal, metálico o no metálico, tales como: Cobre, Oro, Plata, Carbonato de Calcio, u otros.
-
-3.- Descripción de los tipos de sostenimientos o fortificaciones a utilizar y de las secciones que requieran uno u otro tipo.
-
-4.- Describir sistema de ventilación de la mina subterránea, si corresponde, indicando si es natural o forzada.
-
-5.- Sistema de electrificación de la faena, que deberá cumplir con las normas conforme a las guías que se elaborarán para tales efectos por el Servicio, las que se aprobarán por medio de resolución, de forma de garantizar las condiciones de seguridad y controlar los riesgos eléctricos.
-
-6.- Listado de equipos, maquinarias e instalaciones que va a utilizar.
-
-7.- Descripción de las Operaciones Unitarias a realizar: perforación, tronadura, carguío y transporte de minerales y estériles.
-
-8.- Evaluación de los riesgos operacionales para aplicar las medidas de control definidos en las Operaciones Unitarias. Se deberán aplicar los criterios establecidos en las guías establecidas por el Servicio.
-
-9.- Evaluación de riesgo e identificación de peligros. Para estos efectos se deberá presentar:
-
-9.1.- Declaración de procedimientos sobre la base de las actividades críticas y Operaciones Unitarias. Para estos efectos el Servicio dispondrá de guías o formatos que orientarán la confección de dichos procedimientos, los que podrán ser utilizados directamente o deberán adaptarse a las características de la faena, si corresponde.
-
-9.2.- Programa de capacitación de seguridad al personal de los procedimientos internos de operaciones críticas. Para estos efectos, deberá indicarse si se realizará por personal interno o externo de la empresa o productor minero.
-
-9.3.- Indicar los elementos de protección personal (EPP) a utilizar por el personal.
-
-10.- Descripción del Polvorín, tipo y ubicación en coordenadas U.T.M., según el Código de Minería, el cual deberá cumplir con el decreto N° 400, de 1977, del Ministerio de Defensa Nacional, que fija el texto refundido, coordinado y sistematizado de la ley N° 17.798 sobre control de armas y señalar si es propio o comunitario.
-
-Cabe señalar que, al momento de presentar el Inicio de actividades, el titular deberá acompañar certificados de Consumidor Habitual de Explosivos y copia de Licencias de Manipuladores de Explosivos de los trabajadores.
-
-11.- Acumulación de mineral, botadero o depósito de ripios. Deberá presentarse la información requerida en los numerales 25 y 26 del artículo 601 del presente Reglamento.
-
-12.- Agregar todo otro antecedente técnico que sea necesario para la seguridad de la faena, que complementen lo anterior o lo ajusten a la naturaleza de los proyectos.
-
-Todo lo anterior es sin perjuicio de la facultad del Servicio para solicitarle a la empresa o productor minero antecedentes adicionales en relación a la evaluación del Proyecto de Explotación Artesanal (PEA).
+Corresponderá al Servicio determinar la infracción a esta obligación y requerir a las empresas y productores mineros la presentación que corresponda de acuerdo con la normativa.
 
 #### Artículo 600
 
-Para los efectos de la evaluación de un Proyecto de Explotación Simplificado (PES) se requiere de la presentación de los siguientes antecedentes técnicos, adicionales a los señalados en el artículo 598:
+Para los efectos de la Declaración Minera (DM), la empresa o productor minero deberá presentar al Servicio los siguientes antecedentes:
 
-1.- Descripción del método de explotación en términos de estabilidad de la estructura, considerando la seguridad y salubridad de los trabajadores, tanto para mina subterránea como para rajo abierto, conforme se desarrolla a continuación:
+1. Identificación del titular del permiso de explotación. Se deberá indicar nombre o razón social, representante legal, si corresponde, número de cédula nacional de identidad, de pasaporte o rol único tributario, según corresponda; domicilio comercial dentro de un radio urbano; correo electrónico y número de teléfono de contacto, adjuntando la documentación que acredite la personería para actuar en nombre de la empresa, si ello correspondiese.
 
-1.1.- En caso de minería a rajo abierto se debe anexar un esquema del tipo geometría y dimensión de los bancos y bermas, ángulo de talud, considerando la competencia de la roca y dimensión de los equipos.
+2. Antecedentes de la faena minera. Se deberá indicar la comuna, provincia y región donde se encontrará emplazada la faena, detallando sus instalaciones y sus respectivas coordenadas UTM.
 
-1.2.- En caso de minería subterránea se debe describir y justificar la sección de la labor principal de comunicación y las secundarias de extracción. El método de explotación debe ser descrito, definido y justificado en términos de competencia de la roca, producción, ventilación y equipamiento.
+3. Títulos y antecedentes de la concesión minera. Para el caso de proyectos de extracción, se debe individualizar la pertenencia minera de explotación que ampara la Declaración Minera (DM), indicando nombre y rol nacional. Además, se debe acompañar copia autorizada de la inscripción efectuada en el Registro de Propiedad del Conservador de Minas respectivo, con certificado de vigencia emitido dentro de los tres (3) meses anteriores a su presentación.
 
-1.3.- Se debe describir el sistema de extracción de mineral. El transporte de material deberá estar desarrollado de acuerdo con las características de los vehículos y equipos de manera que sean consistentes con el ancho y pendiente de pistas, labores, rampas, bermas y pretiles de contención, si corresponde.
+En caso de que la empresa minera o el productor minero no sea el titular de la pertenencia, se deberá además acompañar el título que le da derecho a explotarla. Si dicho título pertenece a una sociedad regida por el Código de Minería, se deberá, asimismo, acompañar un certificado del Registro de Accionistas del Conservador de Minas respectivo, emitido dentro de los tres meses anteriores a su presentación.
 
-2.- Descripción del estado del macizo rocoso en donde se realizarán los trabajos mineros, considerando el nivel de fracturamiento, presencia de agua, presencia de fallas o diques. En casos que el Servicio lo estime necesario, de acuerdo a los antecedentes previos que el Servicio tenga del distrito minero o de la faena minera en particular, se podrá requerir un informe de estabilidad, el cual deberá ser elaborado por el ingeniero proyectista de la empresa o productor minero o por una empresa asesora en geomecánica.
+4. Antecedentes productivos. Se deberá indicar la dotación y el sistema de turnos de trabajo de la faena, señalando el tipo y cantidad de equipos que serán utilizados para la explotación del proyecto. Asimismo, se deberán acompañar los antecedentes de producción mensual máxima estimada, tipo de mineral (tales como cobre, oro, plata, carbonato de calcio u otros) y la duración estimada de las operaciones mineras. Además, se deberá informar si las operaciones consideran la utilización de sustancias explosivas.
 
-Se debe señalar la definición del mineral principal, metálico o no metálico y la relación estéril mineral (REM) y el plan de Producción señalando la extracción y/o beneficio de mineral mensual por frente de trabajo o instalación.
+Adicionalmente, deberá indicarse el tipo de explotación, tales como rajo abierto, caserones y pilares (room and pilar), explotación por subniveles (sub level stopping), realce sobre saca (shrinkage), o labores mineras en retroceso, indicando las dimensiones correspondientes.
 
-3.- Descripción de los tipos de sostenimientos o fortificaciones a utilizar y de las secciones que requieran uno u otro tipo.
+5. Antecedentes del botadero. Se deberá describir la cantidad y la disposición de estéril (en terraza o volteo directo), como también las dimensiones del depósito en cuanto a su ancho, largo y alto.
 
-4.- El sistema de ventilación de la mina subterránea, si corresponde, deberá incluir el circuito o diagrama de flujos. Para estos efectos se requerirá de un cálculo simplificado de caudal requerido en función de producción, equipos y personal que asegure las condiciones de ventilación interior mina.
+6. Plan y medidas de seguridad. Se deberá declarar la aceptación de las medidas de seguridad descritas en el presente reglamento y aquellas definidas por el Servicio en el formulario de Declaración Minera, las que comprenderán elementos tales como plan de prevención de riesgos operacionales, evaluación de riesgo e identificación de peligros, programa de capacitación de seguridad al personal de los procedimientos internos de operaciones críticas y/o los manuales de fabricante de los equipos y elementos de protección personal (EPP) a utilizar por el personal, todos los cuales estarán expresamente descritos en dicho formulario.
 
-5.- Sistema de electrificación de la faena, que deberá cumplir con las normas conforme a las guías que se elaborarán para tales efectos, de forma de garantizar las condiciones de seguridad y controlar los riesgos eléctricos.
+7. Antecedentes y descripción del polvorín. Se deberá incluir una descripción del tipo de polvorín y su ubicación, en coordenadas UTM, la que deberá cumplir con el decreto supremo N° 400, de 1977, del Ministerio de Defensa Nacional, que fija el texto refundido, coordinado y sistematizado de la Ley N° 17.798, sobre Control de Armas, su reglamento complementario, aprobado por el decreto supremo N° 83, de 2007, y el decreto supremo N° 73, de 1991, reglamento especial de explosivos para las faenas mineras, ambos del Ministerio de Defensa Nacional, o las normas que los reemplacen.
 
-6.- Junto con señalar el listado de equipos, maquinarias e instalaciones, se debe informar la dimensión de los mismos.
+Previo a sus operaciones, la empresa o el productor minero deberá declarar que cuenta con los certificados de Consumidor Habitual de Explosivos y Licencias de Manipuladores de Explosivos del personal responsable.
 
-7.- Descripción de las Operaciones Unitarias a realizar: perforación, tronadura, carguío y transporte de minerales y estériles.
+8. Plazo de inicio de actividades. Se deberá informar el plazo estimado de iniciación de las actividades mineras.
 
-8.- Evaluación de los riesgos operacionales para aplicar las medidas de control definidos en las Operaciones Unitarias. Se deberán aplicar los criterios establecidos en las guías establecidas por el Servicio.
+9. Instalaciones compartidas. Se deberá adjuntar, en los casos que aplique, copia del acuerdo entre los productores mineros, para efectos de utilizar instalaciones de una faena operativa vecina para brindar seguridad y salubridad a la propia, de conformidad al artículo 602.
 
-9.- Evaluación de riesgo e identificación de peligros, debiendo presentar:
+El solicitante podrá presentar conjuntamente su plan de cierre simplificado, regulado en la ley N° 20.551, para lo cual podrá manifestar su aceptación de las medidas de cierre que estarán descritas en el formulario de Declaración Minera (DM) y definir el cronograma de ejecución de dichas medidas y actividades.
 
-9.1.- Declaración de procedimientos sobre la base de las actividades críticas y Operaciones Unitarias, debiendo incluirse procedimientos de emergencias, de tránsito y transporte de personas. Para estos efectos el Servicio dispondrá de guías o formatos que orientarán la confección de dichos procedimientos, los que podrán ser utilizados directamente o deberán adaptarse a las características de la faena, si corresponde.
-
-9.2.- Programa de capacitación al personal sobre los procedimientos internos de operaciones críticas y/o los manuales de fabricante de los equipos. Se debe indicar si las capacitaciones serán realizadas por personal interno o externo de la empresa o productor minero.
-
-9.3.- Los elementos de protección personal (EPP) que deberán ser utilizados por el personal.
-
-10.- Antecedentes y descripción del polvorín, tipo y ubicación, en coordenadas U.T.M., según el Código de Minería, medidas de seguridad con las que deberá contar el polvorín, conforme a los artículos 640 y 641 del presente Título. Asimismo, se deberá señalar si el polvorín es propio o comunitario.
-
-Cabe señalar que, al momento de presentar el Inicio de actividades, el titular deberá acompañar certificados de Consumidor Habitual de Explosivos y copia de Licencias de Manipuladores de Explosivos de trabajadores.
-
-11.- Se deberá describir una propuesta del diagrama de disparo estándar, que será utilizado en labores de avance.
-
-12.- Acumulación de mineral, botadero o depósito de ripios. Deberá presentarse la información requerida en los numerales 25 y 26 del artículo 601 del presente Reglamento.
-
-13.- Agregar todo otro antecedente técnico que sea necesario para la seguridad de la faena, que complementen lo anterior o lo ajusten a la naturaleza de los proyectos.
-
-Todo lo anterior es sin perjuicio de la facultad del Servicio para solicitarle a la empresa o productor minero antecedentes adicionales en relación a la evaluación del Proyecto de Explotación Simplificado (PES).
+Solo podrá realizarse una declaración por faena, la cual podrá ser actualizada según lo establecido en el artículo 598.
 
 #### Artículo 601
 
-Para los efectos de la evaluación de un Proyecto de Explotación y/o Tratamiento (PET), se requiere de la presentación de los siguientes antecedentes técnicos, adicionales a los señalados en el artículo 598:
+Para los efectos de la evaluación de un Proyecto Minero (PM), se requiere de la presentación de los siguientes antecedentes técnicos:
 
-### I. Antecedentes generales
+1. Identificación del titular del proyecto, indicando nombre o razón social; representante legal, si aplica; número de cédula nacional de identidad, de pasaporte o rol único tributario, según corresponda; domicilio comercial dentro de un radio urbano; correo electrónico y número de teléfono de contacto.
 
-1.- En relación al requisito señalado en el punto 4.1, del artículo 598, se debe incorporar, además, planos que den cuenta de elementos geográficos relevantes, tales como quebradas, pendientes, cuerpos y cursos de agua, líneas de alta tensión.
+2. Identificación del responsable de la faena, indicando nombre, profesión u oficio, número de cédula nacional de identidad, domicilio y correo electrónico.
 
-2.- La descripción solicitada en el punto 4.3. del artículo 598, debe acompañarse a través de un plano en planta.
+3. Identificación del ingeniero elaborador del proyecto (ingeniero proyectista), cuya profesión debe ser Ingeniero Civil en Minas, Ingeniero de Ejecución en Minas o Ingeniero en Minas para faenas de extracción o Ingeniero Civil Metalúrgico, Ingeniero de Ejecución Metalúrgico o Ingeniero Civil o de Ejecución Químico para tratamiento de minerales, cuyo título haya sido reconocido o convalidado en Chile; número de cédula nacional de identidad; copia autorizada ante notario del certificado de título; domicilio y correo electrónico. El Servicio mantendrá, con fines informativos y de publicidad, un catastro de ingenieros proyectistas para efectos de la presentación de proyectos.
 
-3.- En relación al punto 5 del artículo 598, se debe agregar el organigrama general y las respectivas dotaciones de las distintas unidades productivas y de servicio.
+4 Antecedentes generales del proyecto minero:
 
-### II. Antecedentes técnicos del método de explotación
+a. Ubicación de la faena minera, indicando región, provincia, comuna y sector. Se deberán indicar las coordenadas UTM de la propiedad minera respectiva, del polígono del proyecto, y la altura en relación al nivel del mar.
 
-4.- Descripción del método de explotación en términos de estabilidad. Para estos efectos, se debe considerar:
+b. Descripción del acceso, indicando si los caminos son de uso público o privado para acceder a la faena y sus instalaciones. En este último caso, se debe informar también si el camino es propio o de un tercero, señalando las coordenadas UTM de la ubicación de los controles de acceso.
 
-4.1.- Justificación de la selección del método de explotación. Describir la justificación del método de explotación seleccionado.
+c. Descripción general de la faena minera y de cada una de sus instalaciones distinguiendo la infraestructura principal y auxiliar, incluyendo las instalaciones y lugares de almacenamiento de elementos combustibles tales como petróleo, lubricantes o zonas de suministros, conforme a las guías que se elaborarán para tales efectos. En este punto se debe realizar una descripción de las instalaciones mineras con los elementos geográficos relevantes, tales como quebradas, pendientes, cuerpos y cursos de agua, líneas de alta tensión, entre otros. Para estos efectos, se deben incorporar planos o imagen en formato KMZ que den cuenta de elementos geográficos.
 
-4.2.- Diseño de los desarrollos. Describir las características de los desarrollos, su ubicación, sus dimensiones, su diseño, entre otros. Para las labores inclinadas, se deben indicar las medidas de seguridad para su construcción, utilizando planos como apoyo.
+d. Si el yacimiento ha sido explotado con anterioridad, se deberá incorporar una descripción de los desarrollos mineros existentes, señalando lo que sea necesario para su individualización, denominación de la faena si se tiene el antecedente, su ubicación con coordenadas UTM, tipo de labor (chimeneas, rajos, socavones antiguos, entre otros), estimación de metros de avance existente mediante un croquis, si están las condiciones de seguridad para desarrollarlo, definición de barreras, señalética, sus características, entre otros, para evitar el acceso a zonas peligrosas e identificación de zonas o sectores que no sean parte del permiso sectorial o proyecto de explotación y con prohibición de explotación.
 
-4.3.- Secuencia de construcción de los desarrollos. Se debe indicar la secuencia de construcción de cada uno de los desarrollos. Se puede apoyar con una gráfica tipo Gantt, señalando la extensión en el tiempo.
+e. Para el caso de proyectos de extracción, se deberá individualizar la pertenencia minera que ampara al proyecto, indicando nombre y rol nacional. Además, se deberá acompañar copia autorizada de la inscripción del Registro de Propiedad del Conservador de Minas respectivo, con certificado de vigencia emitido dentro de los tres meses anteriores a su presentación.
 
-4.4.- Diseño de las labores de preparación. Se debe describir las características de las labores de preparación, tales como embudos, zanjas, chimeneas, entre otros, indicando cantidad de cada una, ubicación, dimensiones, y diseño, apoyándose con figuras o planos. Para las labores inclinadas se deben indicar las medidas de seguridad para su construcción.
+En caso de que la empresa minera, o productor minero no sea el titular de la pertenencia, deberá acompañar el contrato que le da derecho a aprovecharse de ella. Si la concesión pertenece a una sociedad regida por el Código de Minería, se deberá, además, acompañar un certificado del Registro de Accionistas del Conservador de Minas respectivo, emitido dentro de los tres meses anteriores a su presentación.
 
-4.5.- Diseño de las unidades de explotación. Se deben describir las características de la unidad de explotación, indicando su ubicación, dimensiones, diseño, y dimensiones de las losas, pilares, puentes, entre otros, además de los ingresos y las salidas a ellas. Se deben apoyar con figuras o planos.
+Para el caso de que la empresa minera o productor minero sea dueño de la pertenencia minera, se deberá presentar un informe básico sobre la estimación de la duración del proyecto minero sobre la base de estimación de recursos mineros, dividido por la capacidad de extracción y/o procesamiento de mineral, el cual podrá ser suscrito por el propio ingeniero proyectista.
 
-4.6.- Arranque de mineral. Se debe describir la secuencia de arranque de mineral de la unidad de explotación, para lograr el diseño proyectado.
+f. Indicación de las resoluciones aprobatorias del Servicio relacionadas.
 
-4.7.- Secuencia de explotación. Se debe indicar la secuencia de toda la explotación de la mina, que permita extraer el mineral de los distintos niveles o sectores, sin afectar la estabilidad de la mina. Para ello se deberán apoyar con figuras o planos.
+5. Descripción de los cargos, dotación, y turnos de trabajo de la faena.
 
-4.8.- Diseño final de la explotación y su emplazamiento respecto a las labores actuales. Se debe describir cual es el diseño final de la explotación, indicar la cantidad de unidades de explotación consideradas que permitan el agotamiento de los recursos identificados en la duración del proyecto determinado. Se debe presentar su emplazamiento respecto a las labores actuales si las hubiese. Para todo lo anterior se deberá apoyar con figuras o planos.
+6. Antecedentes técnicos del método de explotación, en términos de estabilidad. Para estos efectos, se debe considerar:
 
-4.9.- Describir las medidas de seguridad apropiadas al método de explotación que se utilizará. Para estos efectos el Servicio, a través de su sitio web institucional, pondrá a disposición de la empresa o productor minero guías, aprobadas previamente por resolución, que permitan dar cumplimiento a lo anterior.
+a. Justificación de la selección del método de explotación.
 
-4.10.- Salidas de Emergencias. Se debe describir e identificar en una figura o plano las salidas de emergencia conforme al diseño de la explotación. Se debe indicar la secuencia de construcción, apoyándose con una gráfica tipo Gantt, si así fuese necesario, y los elementos necesarios para su funcionalidad.
+b. Descripción de las características de los desarrollos, su ubicación, sus dimensiones, su diseño, entre otros. Para las labores inclinadas, se deben indicar las medidas de seguridad para su construcción, utilizando planos como apoyo.
 
-4.11.- Análisis de Estabilidad de las labores. Se debe describir el análisis de los diferentes sectores de la mina y labores que se desarrollarán, principalmente de la unidad de explotación en condición más crítica, usando algún modelo establecido para cálculo de estabilidad.
+c. Secuencia de construcción de los desarrollos. Se puede apoyar con una gráfica tipo Carta Gantt, señalando la extensión en el tiempo.
 
-5.- Descripción del estado del macizo rocoso en donde se realizarán los trabajos mineros, considerando nivel fractura, presencia de agua, presencia de fallas o diques. También se deberá describir el tipo de yacimiento y sus características geomorfológicas, tales como potencia, manteo, rumbo, profundidad de ubicación, entre otros. Sin perjuicio de lo anterior, el Servicio podrá requerir a la empresa o productor minero un informe de estabilidad, cuando de los antecedentes previos que tenga del distrito minero o de la faena minera en particular, así aparezca necesario.
+d. Descripción de las características de las labores de preparación, tales como embudos, zanjas, chimeneas, entre otros, indicando cantidad de cada una, ubicación, dimensiones, y diseño, apoyándose con figuras o planos. Para las labores inclinadas se deberán indicar las medidas de seguridad para su construcción.
 
-6.- Recursos minerales y estériles. Indicar los recursos del yacimiento, generalmente en calidad de "potenciales" con su respectiva Ley media, así como también la estimación de la cantidad de material estéril a extraer. Se debe señalar la definición del mineral principal, metálico o no metálico y la relación estéril mineral (REM) y el Plan de Producción señalando la extracción y/o beneficio de mineral mensual por frente de trabajo o instalación.
+e. Descripción de las características de la unidad de explotación, indicando su ubicación, dimensiones, diseño, y dimensiones de las losas, pilares, puentes, entre otros, además de los ingresos y las salidas a ellas. Para ello se deberán apoyar con figuras o planos.
 
-Se deben señalar los minerales a explotar, sean metálicos o no metálicos. También se deben indicar los minerales primarios, secundarios e impurezas que serán extraídos.
+f. Descripción de la secuencia de arranque de mineral de la unidad de explotación, para lograr el diseño proyectado.
 
-7.- Plan de Producción, señalando la extracción y/o beneficio de mineral mensual.
+g. Descripción de la secuencia de toda la explotación de la mina, que permita extraer el mineral de los distintos niveles o sectores, sin afectar la estabilidad de la mina. Para ello se deberán apoyar con figuras o planos.
 
-8.- Descripción de los tipos de sostenimientos o fortificaciones a utilizar. Se deben indicar los sistemas de fortificación a usar en cada tipo de roca y labor y su justificación.
+h. Descripción del diseño final de la explotación, indicando la cantidad de unidades de explotación consideradas que permitan el agotamiento de los recursos identificados en la duración del proyecto determinado. Se deberá presentar su emplazamiento respecto a las labores actuales si las hubiese. Para todo lo anterior se deberá apoyar con figuras o planos.
 
-9.- Sistema de ventilación de la mina subterránea. Se debe indicar la cantidad necesaria de aire en base al personal que trabaja simultáneamente en interior mina, la cantidad y potencia de los equipos diésel que trabajan simultáneamente, y la cantidad de explosivos por tronadura.
+i. Descripción de las medidas de seguridad apropiadas al método de explotación que se utilizará. Para estos efectos, el Servicio, a través de su sitio web institucional, pondrá a disposición de la empresa o productor minero guías, aprobadas previamente por resolución, que permitan dar cumplimiento a lo anterior.
 
-Se debe indicar el tiempo necesario para ventilar el disparo que permita la evacuación de los gases de la tronadura y dejar el ambiente en condiciones de trabajo.
+j. Descripción e identificación en una figura o plano de las salidas de emergencia conforme al diseño de la explotación. Se deberá indicar la secuencia de construcción y los elementos necesarios para su funcionalidad.
 
-Se debe indicar las secciones y rugosidad de las galerías y chimeneas del circuito de ventilación. En caso de ventilación forzada, se debe indicar el cálculo de la potencia de los ventiladores, y la velocidad del aire en las galerías donde circula el personal. De utilizarse ventilación natural, se debe indicar el cálculo de ella, con el objeto de evaluar el requerimiento de aire necesario. Se debe mostrar en un esquema o plano el circuito de ventilación. En caso de ventilación forzada indicar, además, la ubicación de los ventiladores y de las puertas de control de flujo, si hubiese.
+k. Análisis de los diferentes sectores de la mina y labores que se desarrollarán, principalmente de la unidad de explotación en condición más crítica, usando algún modelo establecido para cálculo de estabilidad.
 
-10.- Sistema de electrificación y/o iluminación de la faena, que deberá cumplir con las normas conforme a las guías que se elaborarán para tales efectos, de forma de garantizar las condiciones de seguridad y controlar los riesgos eléctricos. Se debe adjuntar diagrama de sistema de electrificación e iluminación utilizados en la faena.
+7. Descripción del estado del macizo rocoso en donde se realizarán los trabajos mineros considerando nivel fractura, presencia de agua, presencia de fallas o diques. También se deberá describir el tipo de yacimiento y sus características geomorfológicas, tales como potencia, manteo, rumbo, profundidad de ubicación, entre otros. Sin perjuicio de lo anterior, el Servicio podrá requerir a la empresa o productor minero un informe de estabilidad, cuando de los antecedentes previos que tenga del distrito minero o de la faena minera en particular, así aparezca necesario.
 
-11.- Listado de equipos y maquinarias, señalando la dimensión de los mismos y un plan de mantención:
+8. Recursos minerales y estériles. Se deberán indicar los recursos del yacimiento, generalmente en calidad de potenciales con su respectiva ley media, así como también la estimación de la cantidad de material estéril a extraer. Asimismo, se deberá señalar la definición del mineral principal, metálico o no metálico y la relación estéril mineral (REM) y el Plan de Producción señalando la extracción y/o beneficio de mineral mensual por frente de trabajo o instalación.
 
-11.1 Equipos o maquinarias para la perforación. Se deben describir los equipos de perforación y sus características. A su vez, se deben indicar las medidas de seguridad para las mangueras de aire comprimido.
+9. Indicación de los minerales a explotar, sean metálicos o no metálicos. También se deberán indicar los minerales primarios, secundarios e impurezas que serán extraídos.
 
-Se debe señalar el tipo y la capacidad de los compresores. También se deben indicar su ubicación y distancias a bocas de mina y chimeneas. En caso de ubicarse en interior mina, describir los sistemas de evacuación de gases y las medidas de control y extinción de incendios.
+10. Descripción de los tipos de sostenimientos o fortificaciones a utilizar. Se deberán indicar los sistemas de fortificación a usar en cada tipo de roca y labor y su justificación.
 
-11.2 Equipos o maquinarias para el carguío y transporte. Se debe indicar las características de los equipos de carguío y transporte, sus medidas de seguridad y sus sistemas de control y extinción de incendios.
+Descripción del sistema de ventilación de la mina subterránea. Se deberá indicar la cantidad necesaria de aire en base al personal que trabaja simultáneamente en interior mina, la cantidad y potencia de los equipos diésel que trabajan simultáneamente, y la cantidad de explosivos por tronadura.
 
-Se deben señalar las dimensiones de éstos y en un perfil su relación respecto de la labor más estrecha por la cual circulan.
+También se deberá indicar el tiempo necesario para ventilar el disparo que permita la evacuación de los gases de la tronadura y dejar el ambiente en condiciones de trabajo.
 
-En caso de utilizarse transporte vertical, se debe describir completamente el sistema, sus factores de seguridad y las medidas de seguridad de este.
+Además, se deberán indicar las secciones y rugosidad de las galerías y chimeneas del circuito de ventilación. En caso de ventilación forzada, se deberá indicar el cálculo de la potencia de los ventiladores, y la velocidad del aire en las galerías donde circula el personal. De utilizarse ventilación natural, se deberá indicar el cálculo de ella, con el objeto de evaluar el requerimiento de aire necesario. Se deberá mostrar en un esquema o plano el circuito de ventilación. En caso de ventilación forzada, se deberá indicar, además, la ubicación de los ventiladores y de las puertas de control de flujo, si hubiese.
 
-12.- Operaciones Unitarias: perforación, tronadura, carguío y transporte de minerales y estériles.
+11. Descripción del sistema de electrificación y/o iluminación de la faena, para lo que se deberá adjuntar diagrama del sistema utilizado en la faena.
 
-12.1 Perforación. Describir, apoyándose con figuras o planos, el diagrama de disparo para cada una de las labores o tipo de sección, así como el diagrama de disparo utilizado para el arranque. Se debe señalar el diámetro de la perforación y profundidad de esta para cada una de las labores.
+12. Listado de equipos y maquinarias, señalando la dimensión de los mismos y un plan de mantención:
 
-12.2 Tronadura
+a. Equipos o maquinarias para la perforación. Se deberán describir los equipos de perforación y sus características. A su vez, se deberán indicar las medidas de seguridad para las mangueras de aire comprimido.
 
-a. Describir los distintos explosivos, agentes de tronadura y accesorios que se utilizarán. Indicar las cantidades por tiro y por disparo.
+b. Tipo y capacidad de los compresores. Se deberán indicar su ubicación y distancias a bocas de mina y chimeneas. En caso de ubicarse en interior mina, se deberán describir los sistemas de evacuación de gases y las medidas de control y extinción de incendios.
 
-b. Indicar el tipo de conexión, si lo hubiere, y la secuencia de iniciación por cada tipo de disparo diferente que hubiese.
+c. Equipos o maquinarias para el carguío y transporte. Se deberán indicar las características de los equipos de carguío y transporte, sus medidas de seguridad y sus sistemas de control y extinción de incendios.
 
-c. Indicar el sistema de encendido o activación del disparo, describiendo las medidas de seguridad y los respaldos en caso que falle.
+d. Se deberán señalar las dimensiones de los equipos y en un perfil su relación respecto de la labor más estrecha por la cual circulan.
 
-d. Indicar el factor de carga para cada tipo de labor (chimeneas, frentes de avance, arranque, etc.)
+e. En caso de utilizarse transporte vertical, se deberá describir completamente el sistema, sus factores de seguridad y las medidas de seguridad de este.
 
-e. Indicar el avance esperado por disparo para cada una de las labores.
+13. Operaciones Unitarias: perforación, tronadura, carguío y transporte de minerales y estériles:
 
-f. Para los métodos de explotación que corresponda, se deben indicar los parámetros de perforaciones a tronar por cada disparo y las corridas de perforaciones que se deben dejar sin tronar. Para estas últimas, se deben indicar las medidas de seguridad para efectuar el carguío de explosivo.
+a. Perforación. Describir, apoyándose con figuras o planos, el diagrama de disparo para cada una de las labores o tipo de sección, así como el diagrama de disparo utilizado para el arranque. Se deberá señalar el diámetro de la perforación y profundidad de esta para cada una de las labores.
 
-g. Indicar los métodos de revisión y eliminación de tiros quedados.
+b. Tronadura. Describir los distintos explosivos, agentes de tronadura y accesorios que se utilizarán. Además, se deberá indicar:
 
-h. Indicar el sistema de aviso, alarma o ubicación de loros, para comunicar al resto del personal la realización de una tronadura y su ubicación, junto con el método para evitar la entrada de personas extrañas a la cercanía de un lugar donde se va a efectuar un disparo.
+b.1. Las cantidades de explosivos por tiro y por disparo.
 
-12.3. Carguío y transporte
+b.2. El tipo de conexión, si lo hubiere, y la secuencia de iniciación por cada tipo de disparo diferente que hubiese.
 
-a. Describir el sistema de carguío y transporte de mineral y de material estéril en las distintas etapas del proyecto: Desarrollos, preparación y arranque, desde la frente hasta su destino.
+b.3. El sistema de encendido o activación del disparo, describiendo las medidas de seguridad y los respaldos en caso de que falle, así como el factor de carga para cada tipo de labor (chimeneas, frentes de avance, arranque, etc.).
 
-b. Indicar la cantidad máxima de equipos que circulen en un mismo momento al interior mina. Se deben describir las consideraciones previas antes de efectuar el carguío de mineral.
+b.4. El avance esperado por disparo para cada una de las labores. Para los métodos de explotación que corresponda, se deberán indicar los parámetros de perforaciones a tronar por cada disparo y las corridas de perforaciones que se deben dejar sin tronar. Para estas últimas, se deberán indicar las medidas de seguridad para efectuar el carguío de explosivo.
 
-c. Describir, además, si lo hubiere, el carguío de mineral de la cancha de acopio al camión de transporte de minerales y sus respectivas medidas de seguridad.
+b.5. Los métodos de revisión y eliminación de tiros quedados, describiendo el sistema de aviso, alarma o ubicación de loros, para comunicar al resto del personal la realización de una tronadura y su ubicación, junto con el método para evitar la entrada de personas extrañas a la cercanía de un lugar donde se va a efectuar un disparo.
 
-12.4 Acuñadura. Describir en forma general el procedimiento de acuñadura, las herramientas y las medidas de seguridad para realizar esta tarea.
+c. Carguío y transporte. Describir el sistema de carguío y transporte de mineral y de material estéril en las distintas etapas del proyecto: desarrollos, preparación y arranque, desde la frente hasta su destino.
 
-13.- Plan de Prevención de Riesgos Operacionales.
+Además, se deberá indicar la cantidad máxima de equipos que circulen en un mismo momento al interior de la mina.
 
-13.1.- Evaluación de riesgo e identificación de peligros.
+Asimismo, se deberá describir, si lo hubiere, el carguío de mineral de la cancha de acopio al camión de transporte de minerales y sus respectivas medidas de seguridad.
 
-13.2.- Declaración de procedimientos que se elaborarán sobre la base de las actividades críticas. Para estos efectos el Servicio dispondrá de guías o formatos que orientarán la confección de dichos procedimientos, los que podrán ser utilizados directamente o deberán adaptarse a las características de la faena si corresponde.
+d. Acuñadura. Describir en forma general el procedimiento de acuñadura, las herramientas y las medidas de seguridad para realizar esta tarea.
 
-14.- Programa de capacitación de seguridad al personal de los procedimientos internos de operaciones críticas y/o los manuales de fabricante de los equipos.
+14. Plan de Prevención de Riesgos Operacionales, el que deberá incluir:
 
-15.- Elementos de protección personal (EPP) a utilizar por el personal.
+a. Evaluación de riesgo e identificación de peligros.
 
-16.- Antecedentes y descripción del Polvorín, tipo y ubicación, en coordenadas U.T.M., según el Código de Minería, el cual deberá cumplir con el decreto N° 400, de 1977, del Ministerio de Defensa Nacional, que fija el texto refundido, coordinado y sistematizado de la ley N° 17.798, sobre Control de Armas, su Reglamento Complementario, aprobado por el decreto supremo N°83, de 2007, y el decreto supremo N° 73, de 1991, ambos del Ministerio de Defensa Nacional. Se debe indicar la cantidad de explosivos a utilizar y el diagrama de disparo a utilizar.
+b. Señalización de los procedimientos de las actividades críticas.
 
-Al informar el inicio de actividades la empresa o productor minero deberá acompañar los certificados de Consumidor Habitual de Explosivos y copia de Licencias de Manipuladores de Explosivos del personal responsable.
+c. Programa de capacitación de seguridad al personal sobre los procedimientos internos de operaciones críticas y/o los manuales de fabricante de los equipos.
 
-17.- Se deberá describir una propuesta del diagrama de disparo estándar, que será utilizado en labores de avance.
+d. Elementos de protección personal (EPP) a utilizar por el personal.
 
-18.- Indicar el sistema de transporte de explosivos.
+15. Antecedentes y descripción del Polvorín, tipo y ubicación, en coordenadas UTM, el cual deberá cumplir con el decreto supremo N° 400, de 1977, del Ministerio de Defensa Nacional, que fija el texto refundido, coordinado y sistematizado de la Ley N° 17.798, sobre Control de Armas, su Reglamento Complementario, aprobado por el decreto supremo N°83, de 2007, y el decreto supremo N° 73, de 1991, ambos del Ministerio de Defensa Nacional.
 
-19.- Instalaciones Auxiliares. Describir las instalaciones auxiliares necesarias para el desarrollo del proyecto, su ubicación y las distancias a bocas de mina y chimeneas, las medidas de control y extinción de incendio.
+Se deberá describir una propuesta del diagrama de disparo estándar, que será utilizado en labores de avance, y el sistema de transporte de explosivos.
 
-20.- Diseño y medidas de seguridad de los caminos.
+16. Instalaciones auxiliares. Describir las instalaciones auxiliares necesarias para el desarrollo del proyecto, su ubicación y las distancias a bocas de mina y chimeneas, las medidas de control y extinción de incendio.
 
-Se deben describir las medidas de seguridad de los caminos de la faena, salidas de emergencia, dimensiones de pretiles, señalizaciones, y otros elementos de seguridad.
+17. Diseño y medidas de seguridad de los caminos. Se deberán describir las medidas de seguridad de los caminos de la faena, salidas de emergencia, dimensiones de pretiles, señalizaciones, y otros elementos de seguridad.
 
-### III. Antecedentes técnicos del proyecto de tratamiento de minerales
+18. Antecedentes técnicos del proyecto de tratamiento de minerales:
 
-21.- Sistema de tratamiento de minerales. Debe contener descripción del proceso con apoyo de diagrama de flujo, especificando las cantidades mensual y la ley estimada que se procesará y los productos que se obtendrán. Se debe señalar el tipo de mineral, la procedencia de los minerales a tratar y los insumos requeridos en el proceso.
+a. Sistema de tratamiento de minerales, que debe contener una descripción del proceso con apoyo de diagrama de flujo, especificando las cantidades mensual y la ley estimada que se procesará y los productos que se obtendrán. Además, se deberá señalar el tipo de mineral, la procedencia de los minerales a tratar y los insumos requeridos en el proceso.
 
-22.- Identificación, ubicación y descripción de los equipos móviles, fijos, principales y auxiliares que requerirá la operación. Debe contener especificación de la superficie de intervención en metros cuadrados o hectáreas de las plantas de chancado, de beneficio y los depósitos.
+b. Identificación, ubicación y descripción de los equipos móviles, fijos, principales y auxiliares que requerirá la operación, especificando la superficie de intervención en metros cuadrados o hectáreas de las plantas de chancado, de beneficio y los depósitos.
 
-Tanto en el diseño, como en la construcción de cualquier edificio o instalación de una planta de beneficio de minerales donde exista riesgo de incendio, se deberá disponer de los medios y sistemas para controlarlos, considerándose para este efecto, todas las medidas que sean pertinentes, considerando evacuación y disposición de reservas de agua y elementos de combate de incendios, de acuerdo a la situación de más alto potencial de riesgo presente en las instalaciones.
+c. Descripción de los medios y sistemas para controlar los incendios, considerando evacuación y disposición de reservas de agua y elementos de combate de incendios, de acuerdo a la situación de más alto potencial de riesgo presente en las instalaciones.
 
-23.- Protecciones en los sistemas de transmisión de movimientos para evitar el contacto accidental con personas.
+d. Descripción de las protecciones en los sistemas de transmisión de movimientos para evitar el contacto accidental con personas.
 
-24.- Evaluación de los riesgos operacionales para aplicar las medidas de control definidos en las Operaciones Unitarias.
+e. Evaluación de los riesgos operacionales para aplicar las medidas de control definidos en las Operaciones Unitarias.
 
-24.1.- Evaluación de riesgo e identificación de peligros.
+19. Evaluación de riesgo e identificación de peligros:
 
-24.2.- Procedimientos que se elaborarán sobre la base de las actividades críticas y emergencias.
+a. Procedimientos que se elaborarán sobre la base de las actividades críticas y emergencias.
 
-24.3.- Programa de capacitación de seguridad al personal de los procedimientos internos de operaciones críticas y/o los manuales de fabricante de los equipos. Deberá indicar si se realizará por personal interno o externo de la empresa o productor minero.
+b. Programa de capacitación de seguridad al personal de los procedimientos internos de operaciones críticas y/o los manuales de fabricante de los equipos. Deberá indicar si se realizará por personal interno o externo de la empresa o productor minero.
 
-### IV. Antecedentes del botadero
+20. Antecedentes del botadero:
 
-25.- Describir la cantidad y la disposición de estéril, botaderos, acumulación de mineral y depósito de ripios. Asimismo, se debe señalar el sistema de disposición.
+a. Descripción de la cantidad y la disposición de estéril, botaderos, acumulación de mineral y depósito de ripios. Asimismo, se deberá señalar el sistema de disposición.
 
-Se deben indicar las dimensiones del depósito en cuanto a su ancho, largo, alto, pendiente, número de terrazas, entre otros, y la ubicación en coordenadas U.T.M. del polígono superficial del botadero.
+b. Indicación de las dimensiones del depósito en cuanto a su ancho, largo, alto, pendiente, número de terrazas, entre otros, y la ubicación en coordenadas UTM del polígono superficial del botadero.
 
-26.- En los depósitos de estériles o botaderos, se deberá describir los tipos de zanjas interceptoras y/o canales evacuadores de aguas lluvias, la construcción y ritmo del pretil al pie del talud, el procedimiento de compactación y definición de superficie de los botaderos.
+c. Descripción de los tipos de zanjas interceptoras y/o canales evacuadores de aguas lluvia, la construcción y ritmo del pretil al pie del talud, el procedimiento de compactación y definición de superficie de los botaderos.
 
-26.1.- De las capacidades y diseño. Indicar la cubicación, el ángulo de talud y dimensiones principales del depósito.
+d. Indicación de la cubicación, el ángulo de talud y las dimensiones principales del depósito.
 
-Se debe mostrar en planos de planta y perfil, la configuración de las sucesivas fases, si las hubiere, y el diseño final.
+e. Configuración de las sucesivas fases, si las hubiere, y el diseño final, lo que deberá mostrarse en planos y perfil.
 
-26.2.- De la construcción del depósito. Se debe describir la forma de llenado, secuencia de llenado y precauciones.
+f. Describir de la forma de llenado, secuencia de llenado y precauciones.
 
-26.3.- Manejo de las aguas lluvias o cursos de agua. Se deben describir los sistemas de manejo de aguas lluvias ubicadas aguas arriba del botadero.
+g. En caso de que corresponda a un depósito de gran envergadura, se deberá detallar el estudio de estabilidad considerando la resistencia del terreno basal, y los posibles movimientos sísmicos en el área.
 
-26.4.- Estabilidad del depósito. En caso que corresponda a un depósito de gran envergadura, se deberá detallar el estudio de estabilidad considerando la resistencia del terreno basal, y los posibles movimientos sísmicos en el área.
+21. Depósitos de ripios de lixiviación. Se deberá describir la construcción de zanjas interceptores y canales evacuadores de aguas lluvia, lavado de ripios, estabilización de taludes, cobertura superficial, compactación y nivelación de superficie superior y cierres perimetrales para evitar el paso de vehículos, personas y animales.
 
-26.5.- Depósitos de ripios de lixiviación. Se debe describir la construcción de zanjas interceptores y canales evacuadores de aguas lluvia, lavado de ripios, estabilización de taludes, cobertura superficial, compactación y nivelación de superficie superior y cierres perimetrales para evitar el paso de vehículos, personas y animales.
-
-27.- Se debe incorporar todo otro antecedente técnico que sea necesario para la seguridad de la faena.
-
-Todo lo anterior es sin perjuicio de la facultad del Servicio para solicitarle a la empresa o productor minero antecedentes adicionales en relación a la evaluación del Proyecto de Explotación y/o Tratamiento (PET).
+22. Se deberá incorporar todo otro antecedente técnico que sea necesario para la seguridad de la faena.
 
 #### Artículo 602
 
-Se podrán aprobar dos o más proyectos de explotación de diferentes productores, en una misma pertenencia o colindantes, en la medida en que sean compatibles desde el punto de vista de la seguridad minera y se encuentren debidamente amparados en un título o contrato sobre la propiedad minera. En caso que exista o pueda existir incompatibilidad, el Servicio podrá requerir acuerdos entre productores para la debida coordinación y compatibilidad de las operaciones mineras que cada uno realiza, los que deberán ser previamente aprobados por el Servicio.
+Se podrán otorgar dos o más permisos de explotación de diferentes productores, en una misma pertenencia o en pertenencias colindantes, en la medida en que sean compatibles desde el punto de vista de la seguridad minera y se encuentren debidamente amparados en un título o contrato sobre la concesión.
+
+En caso de que exista o pueda existir incompatibilidad, el Servicio podrá requerir acuerdos entre los productores para la determinación de medidas de coordinación de las operaciones mineras de modo de que sean compatibles.
+
+Lo anterior no será aplicable a una explotación minera que contemple dos o más declaraciones que generen fraccionamiento de las obras mineras a fin de evitar o eludir la presentación de un Proyecto Minero (PM).
 
 #### Artículo 603
 
@@ -9768,51 +9702,57 @@ Si existen instalaciones comunes o compartidas, todos los productores se hacen s
 
 #### Artículo 604
 
-El procedimiento aplicable para evaluar los proyectos mineros contemplados en el artículo 595 será el siguiente:
+El procedimiento aplicable para evaluar Declaraciones Mineras (DM) contempladas en el artículo 600 será el siguiente:
 
-1. Ingresada la solicitud de aprobación del proyecto, el Servicio realizará un examen de admisibilidad en relación a sus aspectos formales, dentro del plazo de cinco días hábiles computados desde su ingreso. Este examen consistirá en una revisión respecto a si constan en la solicitud los antecedentes señalados en los artículos precedentes y si está debidamente suscrito por el productor minero o su representante legal, y por el ingeniero proyectista. En caso que existan observaciones de forma, se requerirá al interesado para que, en un plazo de cinco días hábiles desde la comunicación de las observaciones, subsane la falta o acompañe los documentos respectivos, con indicación de que, si así no lo hiciere, se tendrá por desistido de su petición.
+1. El titular, de manera previa a la Declaración Minera (DM), deberá registrarse en la plataforma que el Servicio dispondrá para estos efectos, debiendo indicar sus datos de individualización, los antecedentes básicos de la empresa y del representante legal, si correspondiese, como también los datos de la faena que sea objeto de la declaración.
 
-2. Cumplido lo anterior, o no existiendo observaciones de forma, el Servicio podrá solicitar aclaraciones, rectificaciones u observaciones de fondo dentro del plazo de treinta días hábiles, por oficio. Las observaciones de fondo respecto al contenido del proyecto deberán estar vinculadas al cumplimiento de los requisitos legales establecidos en el presente Reglamento para realizar actividades y operaciones mineras y/o estar orientadas a las condiciones de seguridad del proyecto, conforme lo establecido en este Título. Lo no observado se entiende aprobado por el Servicio, salvo que, de manera excepcional, a través de resolución fundada se retrotraiga el proceso. La empresa o productor minero tendrá treinta días hábiles para responder las observaciones formuladas por el Servicio.
+2. Una vez registrado, deberá darse ingreso al formulario de Declaración Minera (DM), el que deberá cumplir con todos los antecedentes señalados en el artículo 600, acompañando toda la documentación pertinente. Para efectos del correcto curso de la Declaración Minera, el titular deberá declarar que ha cumplido fielmente con todos los requisitos precedentemente indicados, debiendo manifestarlo expresamente al cierre de dicho instrumento.
 
-3. Presentadas las respuestas de las observaciones por parte de la empresa o productor minero, el Servicio podrá realizar excepcionalmente, y dentro del plazo máximo de treinta días hábiles contados desde la presentación de las respectivas respuestas, una segunda y última solicitud de aclaraciones, rectificaciones o ampliaciones, por oficio, las cuales deberán remitirse exclusivamente a lo ya observado en el requerimiento señalado en el numeral 2 precedente. Lo no observado se tendrá por aprobado por el Servicio, salvo que, de manera excepcional, a través de resolución fundada, se retrotraiga el proceso. La empresa o productor minero, tendrá igual tiempo para dar respuesta a las observaciones formuladas.
-
-4. Recibida la respuesta por parte de la empresa o productor minero, el Servicio emitirá la Resolución Final de aprobación o rechazo del proyecto minero, dentro del plazo para emitir observaciones o quince días hábiles después de la última respuesta, para el caso que se haya emitido el oficio señalado en el numeral 3 precedente. Esta resolución es susceptible a ser recurrida conforme a los recursos contenidos en la ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado, que correspondan.
-
-5. Los plazos señalados precedentemente, que le empecen tanto al interesado como al Servicio, podrán ampliarse por una vez por resolución fundada. Los plazos ampliados no podrán exceder el período de tiempo establecido como plazo original.
+3. Cumplido lo anterior, el Servicio tendrá un plazo de 10 días hábiles para revisar el formulario y la documentación que lo acompaña a fin de verificar su completitud, veracidad y consistencia. Si la solicitud cumple con dichos estándares, el Servicio deberá dictar una resolución que apruebe la Declaración Minera (DM). En caso contrario, el Servicio requerirá al interesado para que, en un plazo de cinco días hábiles, desde la comunicación que realice el Servicio al efecto, subsane la falta o acompañe los documentos respectivos, con indicación de que, si así no lo hiciere, se tendrá por desistido de su petición.
 
 #### Artículo 605
 
-Las solicitudes de actualizaciones y cambios de punto de extracción en una misma concesión minera, y todos aquellos trámites que expresamente señale el presente Reglamento se tramitarán por un procedimiento abreviado, que se sustanciará conforme a las siguientes reglas:
+El procedimiento aplicable para evaluar los Proyectos Mineros (PM) contemplados en el artículo 601 será el siguiente:
 
-1. El Servicio, a través de su oficina de partes, realizará un examen de admisibilidad del proyecto en relación a sus aspectos formales, previo a su ingreso a la oficina de parte.
+1. Ingresada la solicitud de aprobación del proyecto, el Servicio realizará un examen de admisibilidad en relación a sus aspectos formales, dentro del plazo de cinco días hábiles computados desde su ingreso. Este examen consistirá en una revisión respecto a si constan en la solicitud los antecedentes señalados en los artículos precedentes y si está debidamente suscrito por el productor minero o su representante legal, y por el ingeniero proyectista.
 
-2. Ingresado el proyecto, y dentro del plazo de treinta días hábiles, el Servicio podrá solicitar rectificaciones o aclaraciones a la empresa o productor minero de los requisitos generales, legales, técnicos y de organización, información geológica y minera estén acorde a lo establecido en el presente Reglamento.
+En caso de que existan observaciones de forma, se requerirá al interesado para que, en un plazo de cinco días hábiles desde la comunicación de las observaciones, subsane la falta o acompañe los documentos respectivos, con indicación de que, si así no lo hiciere, se tendrá por desistido de su petición.
 
-3. La empresa o productor minero tendrá un plazo de treinta días hábiles para responder los requerimientos del Servicio desde que están notificados, quien podrá solicitar al Servicio una ampliación en dicho plazo por no más de quince días adicionales, a solicitud de la empresa o productor minero.
+2. Cumplido lo anterior, o no existiendo observaciones de forma, el Servicio podrá solicitar aclaraciones, rectificaciones u observaciones de fondo dentro del plazo de treinta días hábiles, por oficio. Las observaciones de fondo respecto al contenido del proyecto deberán estar vinculadas al cumplimiento de los requisitos legales establecidos en el presente reglamento para realizar actividades y operaciones mineras y/o estar orientadas a las condiciones de seguridad del proyecto, conforme lo establecido en este Título. Lo no observado se entiende aprobado por el Servicio, salvo que, de manera excepcional, a través de resolución fundada se retrotraiga el proceso. La empresa o productor minero tendrá treinta días hábiles para responder las observaciones formuladas por el Servicio.
 
-4. Recibida la respuesta por la empresa o productor minero, el Servicio emitirá la resolución de aprobación o rechazo del Proyecto de Explotación Artesanal dentro del plazo de quince días hábiles. Excepcionalmente, por motivos justificados en caso de retrotraer el procedimiento al punto 2, se dispondrá de treinta días hábiles.
+3. Presentadas las respuestas de las observaciones por parte de la empresa o productor minero, el Servicio podrá realizar excepcionalmente, y dentro del plazo máximo de treinta días hábiles contados desde la presentación de las respectivas respuestas, una segunda y última solicitud de aclaraciones, rectificaciones o ampliaciones, por oficio, las cuales deberán remitirse exclusivamente a lo ya observado en el requerimiento señalado en el numeral 2 precedente.
+
+Lo no observado se tendrá por aprobado por el Servicio, salvo que, de manera excepcional, a través de resolución fundada, se retrotraiga el proceso. La empresa o productor minero tendrá igual tiempo para dar respuesta a las observaciones formuladas.
+
+4. Recibida la respuesta por parte de la empresa o productor minero, el Servicio emitirá la resolución final de aprobación o rechazo del proyecto minero, dentro del plazo para emitir observaciones o quince días hábiles después de la última respuesta, para el caso que se haya emitido el oficio señalado en el numeral 3 precedente.
+
+Los plazos señalados precedentemente, que le empecen tanto al interesado como al Servicio, podrán ampliarse por una vez por resolución fundada. Los plazos ampliados no podrán exceder el período de tiempo establecido como plazo original.
+
+El procedimiento descrito en los párrafos anteriores se tramitará preferentemente a través de las plataformas que el Servicio disponga al efecto.
 
 #### Artículo 606
 
-Toda empresa y productor minero que inicie o reinicie actividades, deberá informarlo previamente al Servicio, por escrito, mediante el formulario de Inicio de actividades. El Servicio, mediante resolución, determinará los requisitos que deberá contener el formulario de Inicio de actividades, debiendo contener por lo menos la ubicación del proyecto, coordenadas U.T.M., según datum que corresponda de acuerdo al Reglamento del Código de Minería, el nombre de la empresa minera y su representante legal, si procediese, al menos con quince días de anticipación al inicio de los trabajos. El formulario de Inicio de actividades será publicado en la página web del Servicio. Al presentar el inicio de actividades en el Servicio, se deberá adjuntar el Certificado de Consumidor Habitual de Explosivos, la resolución aprobatoria del polvorín por la autoridad fiscalizadora y copia de Licencias de Manipuladores de Explosivos del personal responsable.
+Toda empresa y productor minero que inicie o reinicie actividades, deberá informarlo previamente al Servicio.
 
-En todo caso, el productor minero deberá iniciar la ejecución del proyecto en un plazo no superior a seis meses desde la fecha de aprobación del mismo. En caso que se inicien actividades sin dar el respectivo aviso, la duración del proyecto se contabilizará desde la fecha de aprobación de este. Si se iniciaren actividades luego de los seis meses, se deberá informar al Servicio, el cual podrá verificar si las condiciones del lugar no han sufrido variaciones respecto al proyecto aprobado. La infracción a esta norma no puede en ningún caso ser sancionada con la caducidad del permiso.
+Para las faenas mineras cuya producción sea inferior o igual a mil (1.000) toneladas por mes, junto a la Declaración Minera (DM), deberá informar una fecha estimada de iniciación de las actividades. En caso de que se modifique esa fecha luego de presentada la Declaración Minera (DM), la empresa o productor deberá informarlo a través del formulario establecido por el Servicio para estos efectos. En todo caso, el titular de una Declaración Minera (DM) deberá iniciar actividades en un plazo no superior a cuatro meses desde la fecha de aprobación de la misma.
+
+Para las faenas mineras cuya producción supere las mil (1.000) toneladas y no exceda las cinco mil (5.000) toneladas de mineral por mes, deberá informarse con al menos quince días hábiles (15) previo a cualquier operación minera, a través del formulario establecido por el Servicio para estos efectos.
+
+En todo caso, el titular de un Proyecto Minero (PM) deberá iniciar actividades en un plazo no superior a seis meses desde la fecha de aprobación del mismo. En caso de que se inicien actividades sin dar el respectivo aviso, la duración del proyecto se contabilizará desde la fecha de aprobación de este. Si se iniciaren actividades luego de los seis meses, se deberá informar al Servicio, el cual podrá verificar si las condiciones del lugar no han sufrido variaciones respecto al proyecto aprobado.
 
 #### Artículo 607
 
-Las empresas o productores mineros deberán informar al Servicio los cambios de razón social y de titularidad de los proyectos mineros una vez que se produzcan, acompañando los antecedentes que acrediten fehacientemente dicha modificación, dentro del plazo de treinta días de verificado el traspaso o cambio de razón social. Los antecedentes acompañados no podrán tener una antigüedad mayor a seis meses desde su presentación al Servicio.
-
-El Servicio podrá autorizar el traspaso o cambio de titularidad conforme al procedimiento abreviado del artículo 605, en la medida que el nuevo titular acredite un título dominio, usufructo, u otro de mera tenencia respecto de la concesión minera y en la medida que lo observado por el Servicio no requiera de una modificación mayor de proyecto. En caso que se requiera tramitar una modificación mayor de proyecto o un nuevo proyecto, el Servicio podrá autorizar de todas formas el cambio de titularidad del proyecto, pero este no podrá ser operado sino hasta que la modificación o nuevo proyecto sea aprobado. Para estos efectos, funcionarios del Servicio inspeccionarán la faena y levantarán un acta donde dejarán constancia de las condiciones de la faena, o de la parte de ella que corresponda.
-
-En cualquier caso, aprobado el cambio de titularidad, el tradente se eximirá desde ese momento de las obligaciones establecidas en el presente reglamento relativas al proyecto traspasado.
+Las empresas o productores mineros deberán informar al Servicio los cambios de razón social y de titularidad de los proyectos mineros una vez que se produzcan, acompañando los antecedentes que acrediten fehacientemente dicha modificación, dentro del plazo de treinta (30) días hábiles de verificado el traspaso o cambio de razón social. Los antecedentes acompañados no podrán tener una antigüedad mayor a seis (6) meses desde su presentación al Servicio.
 
 #### Artículo 608
 
-Si estando vigente el proyecto de explotación y/o tratamiento de minerales aprobado por el Servicio, el arrendatario u otro mero tenedor de la faena minera la abandona, un tercero podrá solicitar un nuevo proyecto minero, el cual deberá hacerse cargo de los riesgos operacionales de la faena y de las medidas correctivas pendientes que hayan sido dispuestas por el Servicio, si ello así correspondiere.
+Si estando vigente una Declaración Minera o un Proyecto Minero (PM) aprobado por el Servicio, y su titular abandonare la faena minera, ésta podrá ser objeto de un nuevo proyecto minero, el cual deberá hacerse cargo de los riesgos operacionales de la faena, de las obligaciones de seguridad y de las medidas correctivas pendientes que hayan sido dispuestas por el Servicio, si ello así correspondiere.
 
-En este caso el Servicio oficiará al titular de la faena abandonada para que manifieste su interés en la faena y acredite que conserva un título válido para realizar las operaciones mineras respectivas, y los motivos de la paralización o abandono, lo que deberá realizar dentro de un plazo de treinta días hábiles. En caso de que no se manifieste ni acredite su titularidad o amparo, el Servicio deberá declarar la extinción del acto administrativo que aprueba el proyecto aprobado y abandonado, sin perjuicio de las responsabilidades administrativas por eventuales incumplimientos a la normativa de seguridad minera y de cierre de faenas mineras. La resolución que declare la extinción podrá ser recurrible administrativamente de acuerdo a la ley N° 19.880.
+Con todo, si se tratare de una Declaración Minera, se deberá realizar el registro previo descrito en el artículo 604 del presente reglamento, presentando los títulos válidos y vigentes que lo facultan para poder explotar las pertenencias mineras. En dicho caso, el Servicio oficiará al titular de la faena abandonada para que manifieste su interés en la faena y acredite que conserva un título válido para realizar las operaciones mineras respectivas, y los motivos de la paralización o abandono, lo que deberá realizar dentro de un plazo de diez (10) días hábiles. En caso de que no se manifieste ni acredite su titularidad, el Servicio autorizará al tercero a generar su Declaración Minera, traspasando la faena y sus instalaciones y dejando sin efecto la Declaración anterior.
 
-Por su parte, estando vigente el proyecto de explotación y/o tratamiento de minerales, el Servicio fuere informado por el titular de la concesión minera o del predio superficial, del término anticipado del contrato que lo ampara, el Servicio deberá oficiar a la parte arrendataria, para que se manifieste dentro del plazo de treinta días hábiles computados desde que sea notificado. Concluida esta instancia, y existiendo dudas respecto de la vigencia del contrato de arriendo, el proyecto de explotación y/o tratamiento de minerales no podrá ser dejado sin efecto si no existe una resolución judicial que la precediere. En caso contrario, el Servicio podrá dejar sin efecto anticipadamente el proyecto de explotación y/o tratamiento de minerales. La resolución que declare la extinción podrá ser recurrible administrativamente de acuerdo a la ley N° 19.880.
+Para el caso de Proyectos Mineros (PM), mientras la duración del proyecto no haya caducado, y el Servicio fuere informado por el titular de la concesión minera o del predio superficial del término anticipado del contrato que lo ampara, se deberá oficiar a la parte arrendataria o mero tenedor, para que se manifieste dentro del plazo de diez (10) días hábiles contados desde su notificación. Concluida esta instancia, y existiendo dudas respecto de la vigencia del contrato de arriendo o título de mera tenencia, el Proyecto Minero (PM) no podrá ser dejado sin efecto si no existe una resolución judicial que la precediere. En caso contrario, el Servicio podrá dejar sin efecto anticipadamente el Proyecto Minero (PM).
+
+En este caso el Servicio oficiará al titular de la faena abandonada para que manifieste su interés en la faena y acredite que conserva un título válido para realizar las operaciones mineras respectivas, y los motivos de la paralización o abandono, lo que deberá realizar dentro de un plazo de diez (10) días hábiles. En caso de que no se manifieste ni acredite su titularidad o amparo, el Servicio deberá declarar la extinción del acto administrativo que aprueba el proyecto aprobado y abandonado, sin perjuicio de las responsabilidades por eventuales incumplimientos a la normativa de seguridad minera y de cierre de faenas mineras.
 
 Capítulo tercero
 
@@ -9824,11 +9764,11 @@ Obligaciones de las empresas
 
 #### Artículo 609
 
-Las empresas mineras o productores mineros deben cumplir con las medidas, requisitos y condiciones de seguridad dispuestas en el presente Reglamento que le sean aplicables, y deberán velar permanentemente por la seguridad e integridad física de las personas, equipos e instalaciones. Para dicho efecto, las empresas y/o productores mineros deberán cumplir con las siguientes obligaciones generales:
+Las empresas mineras o productores mineros deberán cumplir con las medidas, requisitos y condiciones de seguridad dispuestas en el presente reglamento que les sean aplicables, y deberán velar permanentemente por la seguridad e integridad física de las personas, equipos e instalaciones. Para dicho efecto, las empresas o productores mineros deberán cumplir con las siguientes obligaciones generales:
 
-a) Informar al personal sobre las medidas de control de los riesgos de seguridad e integridad que se apliquen en la faena, y mantener un registro diario escrito de las personas que ingresan y egresan de ella.
+a. Informar al personal sobre las medidas de control de los riesgos de seguridad e integridad que se apliquen en la faena, y mantener un registro diario escrito de las personas que ingresan y egresan de ella.
 
-b) Disponer de los procedimientos de trabajo declarados en el proyecto, los que, dependiendo de la naturaleza y riesgos operacionales de éste, deberán considerar, si aplican, los siguientes procedimientos internos de operaciones críticas:
+b. Disponer de los procedimientos de trabajo declarados en el proyecto, los que, dependiendo de la naturaleza y riesgos operacionales de éste, deberán considerar, si aplican, los siguientes procedimientos internos de operaciones críticas:
 
 i. Acuñadura y fortificación.
 
@@ -9846,65 +9786,65 @@ vii. De tiros quedados.
 
 viii. Perforación.
 
-ix. Manejo de Insumos Industriales peligrosos.
+ix. Manejo de insumos industriales peligrosos.
 
-x. Manejo de Residuos Peligrosos.
+x. Manejo de residuos peligrosos.
 
 xi. Procedimiento o protocolo de emergencia.
 
 xii. Otros procedimientos internos de operaciones críticas que correspondan o que exija el Servicio en caso de ser procedente, conforme los riesgos operacionales.
 
-Dichos procedimientos deberán cumplir la función y finalidad de resguardar la seguridad de las personas, equipos e instalaciones de la faena, pudiendo utilizar los modelos y formatos que el Servicio aprobará por resolución y publicará en su página web, en conformidad al artículo 612 del presente Reglamento, o adecuarlos a su realidad operacional.
+Dichos procedimientos deberán cumplir la función y finalidad de resguardar la seguridad de las personas, equipos e instalaciones de la faena.
 
-c) Capacitar a los trabajadores sobre los procedimientos de emergencia y de operación para ejecutar su trabajo de forma correcta y segura; en primeros auxilios y conforme al número de trabajadores, con el objeto de asegurar que en caso de accidente se brinde una atención eficiente y oportuna de los afectados. Además, capacitar sobre el método de explotación aprobado por el Servicio, en la medida que corresponda, debiendo cumplir el programa de capacitación propuesto en el proyecto de explotación. Para estos efectos se deberán implementar registros de asistencia y asignaturas que podrán ser requeridos por el Servicio.
+c. Capacitar a los trabajadores sobre los procedimientos de emergencia y de operación para ejecutar su trabajo de forma correcta y segura, así como también disponer de trabajadores instruidos en primeros auxilios, cuyo número será determinado de acuerdo con la extensión de la faena y el número de trabajadores, con el objeto de asegurar que en caso de accidente se brinde una atención eficiente y oportuna de los afectados. Para estos efectos, se deberán implementar registros de asistencia y asignaturas que podrán ser requeridos por el Servicio.
 
-d) Proporcionar a sus trabajadores, en forma gratuita, los elementos de protección personal (EPP) certificados y adecuados a la función que cada uno de ellos desempeñe.
+d. Mantener en la faena registros de las siguientes materias:
 
-e) Implementar protecciones y señaléticas de advertencias de seguridad en instalaciones y equipos, de tal manera que impidan el acceso o contacto de los trabajadores a lugares o a elementos peligrosos, tales como sectores con riesgo de caída a distinto nivel, lugares energizados, entre otros.
+i. Mantención de equipos e instalaciones, que permitan realizar un seguimiento con el objeto de minimizar los riesgos a la seguridad y salubridad.
 
-f) Suspender las operaciones en las áreas que presenten riesgos no controlados a la seguridad e integridad de los trabajadores, señalizar e instalar barreras duras para impedir el acceso a ellas.
+ii. Diagrama de disparo utilizado.
 
-g) Disponer de medios expeditos y seguros para el acceso y salida del personal hacia y desde cualquier parte de la faena minera y sus instalaciones. Para estos efectos, los caminos deberán mantenerse en buenas condiciones e incorporar señalización mínima de seguridad vial.
+iii. Existencia de sectores con filtraciones o presencia de agua, labores antiguas no identificadas, fallas u otras condiciones estructurales que afecten la seguridad.
 
-h) Conservar en la faena el "Libro de Faena", distinto e independiente a los libros requeridos en el artículo 17 del presente Reglamento, y artículo 86 del Reglamento de la Ley de Cierre de Faenas e Instalaciones Mineras. En este libro se dejará registro de los hechos o actos que señala este Reglamento y, además, de lo siguiente:
+iv. Modificaciones en el diagrama de disparo de acuerdo a lo señalado en el artículo 648 de este reglamento.
 
-i) Registro de la mantención de equipos e instalaciones, que permita realizar un seguimiento con el objeto de minimizar los riesgos a la seguridad y salubridad.
+v. Extracción de material de caserones o similares, de acuerdo a lo señalado en el artículo 657 de este reglamento.
 
-ii) Registro del diagrama de disparo utilizado.
+Estos registros deberán estar en la faena y disponibles para el Servicio, debiendo actualizarse permanentemente.
 
-iii) Registro actualizado de existencia de sectores con filtraciones o presencia de agua, labores antiguas no identificadas, fallas u otras condiciones estructurales que afecten la seguridad.
+e. Proporcionar a sus trabajadores, en forma gratuita, los elementos de protección personal (EPP) certificados y adecuados a la función que cada uno de ellos desempeñe.
 
-iv) Modificaciones en el diagrama de disparo de acuerdo a lo señalado en el artículo 648 de este Reglamento.
+f. Implementar protecciones y señaléticas de advertencias de seguridad en instalaciones y equipos, de tal manera que impidan el acceso o contacto de los trabajadores a lugares o a elementos peligrosos, tales como sectores con riesgo de caída a distinto nivel, lugares energizados, entre otros.
 
-v) Extracción de material de caserones o similares, de acuerdo a lo señalado en el artículo 657 de este Reglamento.
+g. Suspender las operaciones en las áreas que presenten riesgos no controlados a la seguridad e integridad de los trabajadores, señalizar e instalar barreras duras para impedir el acceso a ellas.
 
-El libro quedará en faena y deberá escribirlo el responsable de la faena o por el experto en prevención de riesgos, debiendo actualizarse permanentemente.
+h. Disponer de medios expeditos y seguros para el acceso y salida del personal hacia y desde cualquier parte de la faena minera y sus instalaciones. Para estos efectos, los caminos deberán mantenerse en buenas condiciones e incorporar señalización mínima de seguridad vial.
 
-Este libro es sin perjuicio del libro de tiros quedados a que trata el artículo 646 y 651 de este Reglamento.
+i. Mantener y actualizar los planos de la mina, los cuales no deben tener una vigencia que exceda de seis meses desde la última actualización. Las empresas o productores que tengan una Declaración Minera (DM) deberán mantener croquis o planos del avance de sus minas.
 
-j) Mantener y actualizar los planos de la mina, los cuales no deben tener una vigencia que exceda de seis meses desde la última actualización. Las empresas o productores que tengan un Permiso de Explotación Artesanal, deberán mantener croquis o planos del avance de sus minas.
+j. Contar con asesoría, mínimo una vez cada seis meses, prestada por un Experto en Prevención de Riesgos de Categoría C, a lo menos, certificado por el Servicio, quien deberá emitir un informe técnico y entregarlo al responsable de la faena con los peligros identificados. El productor minero o empresa deberá implementar las medidas correctivas y de control señaladas en dicho informe.
 
-k) Toda empresa o productor minero deberá definir el punto o barrera que indique claramente el acceso y salida de ella, que contenga la totalidad de sus instalaciones. Estas deberán ser indicadas en coordenadas U.T.M.
+k. Facilitar el ingreso de funcionarios del Servicio que realizan labores de fiscalización, proporcionar la información requerida y cumplir las medidas correctivas dispuestas por los fiscalizadores.
 
-l) Contar con asesoría, mínimo una vez cada seis meses, prestada por un Experto en Prevención de Riesgos de Categoría C, a lo menos, certificado por el Servicio, quien deberá emitir un informe técnico y entregarlo al responsable de la Faena con los peligros identificados. El productor minero o empresa, deberá implementar las medidas correctivas y de control señaladas en dicho informe, debiendo todo lo anterior quedar registrado en el "libro de faena".
+l. Facilitar la información para los procesos de investigación de accidentes, realizados en conformidad al artículo 13 letra b) del presente reglamento.
 
-m) Facilitar el ingreso de funcionarios del Servicio que realizan labores de fiscalización y proporcionar la información requerida por los fiscalizadores y cumplir las medidas correctivas. Facilitar información para los procesos de investigación de accidentes, realizados en conformidad al artículo 13 letra b) del presente Reglamento.
+m. Contar con un medio de transporte y/o vehículo motorizado para el caso de emergencia, dentro de un radio no superior a cinco kilómetros de la faena.
 
-n) Contar con un medio de transporte y/o vehículo motorizado para el caso de emergencia, dentro de un radio no superior a cinco kilómetros de la faena.
-
-o) Mantener un registro de contactos y un sistema expedito de comunicación con los servicios públicos de emergencia más cercanos, tales como, centros médicos hospitalarios, ambulancias, Carabineros, bomberos, el Servicio, entre otros.
+n. Mantener un registro de contactos y un sistema expedito de comunicación con los servicios públicos de emergencia más cercanos, tales como centros médicos hospitalarios, ambulancias, Carabineros de Chile, bomberos, el Servicio, entre otros.
 
 #### Artículo 610
 
 Sin perjuicio de otras disposiciones, las empresas y/o productores mineros estarán obligados a informar al Servicio lo siguiente:
 
-a. Enviar al Servicio el aviso de inicio de actividades del artículo 606 del presente Reglamento, las estadísticas mensuales de accidentes, producción, mano de obra utilizada y material acumulado en los depósitos de residuos masivos mineros de cada faena minera, proveedores en caso de plantas de tratamiento de minerales, todo lo cual deberá realizarse por medio de los formularios, aprobados por resolución del Servicio, que para estos efectos el Servicio mantendrá en su página web.
+a. En forma trimestral, las estadísticas mensuales de mano de obra utilizada y accidentes ocurridos en el periodo anterior, en las plataformas establecidas por el Servicio, sin perjuicio que estas podrán ser informadas en cada proceso de fiscalización, o requeridas por oficio.
 
-b. Informar al Servicio los cambios de representante legal, datos de identificación y domicilio dentro del área urbana, lo cual se tramitará conforme al procedimiento abreviado del artículo 605 del presente Reglamento.
+Todo titular de planta de tratamiento o poder de compra deberá informar al Servicio de las estadísticas mensuales de compras de minerales y sus proveedores, lo cual deberá realizarse por medio de los formularios y plataformas que el Servicio disponga para tal efecto.
+
+b. Cualquier modificación en los antecedentes de la empresa o productor minero para efectos de la correcta identificación y comunicación con el Servicio, tales como nombre del titular, representantes legales, dirección, teléfono de contacto, correo electrónico, entre otros.
 
 c. Informar de inmediato al Servicio, dentro de las 24 horas siguientes, de la ocurrencia de todo accidente que haya causado la muerte de una o más personas y los que de acuerdo con la normativa de la Superintendencia de Seguridad Social y este reglamento deban calificarse como graves. También deberán informarse los hechos que, aun cuando no hubieren ocasionado lesiones a los trabajadores, revistan un alto potencial de daños personales o materiales, tales como incendios, explosión, derrumbes, estallidos masivos de rocas, colapso de acopios, fallas operacionales y otras emergencias que hayan requerido la evacuación parcial o total de la mina u otra instalación.
 
-d. Para productores sobre las 500 toneladas mensuales deberá enviar al Servicio un informe técnico de investigación de los incidentes y accidentes mencionados en el literal anterior, que indique claramente las causas y consecuencias del accidente y las medidas correctivas derivadas del mismo. Dicho informe deberá ser enviado dentro de los quince días siguientes desde ocurrido el accidente. Este plazo podrá ser ampliado, a petición justificada del interesado, por hasta seis meses por medio de resolución fundada del Servicio.
+d. Las empresas o productores cuya capacidad de producción sea superior a 1.000 toneladas mensuales deberán remitir al Servicio un informe técnico de investigación de los incidentes y accidentes mencionados en el literal anterior, que indique claramente las causas y consecuencias del accidente y las medidas correctivas derivadas del mismo. Dicho informe deberá ser enviado dentro de los quince días siguientes desde ocurrido el accidente. Este plazo podrá ser ampliado a petición justificada del interesado, por hasta seis meses por medio de resolución fundada del Servicio.
 
 #### Artículo 611
 
@@ -9924,9 +9864,7 @@ f. No ingresar al trabajo bajo la influencia del alcohol o drogas ilícitas, ni 
 
 #### Artículo 612
 
-El Servicio pondrá a disposición de las empresas y productores mineros en la página web del Servicio y en sus direcciones regionales, guías que orienten la elaboración de métodos de explotación conforme lo exige este Título y también modelos o formatos de los procedimientos señalados en el artículo 609 letra b) del presente Reglamento y otros que el Servicio estime necesario. También pondrá a disposición de las empresas, productores mineros y trabajadores formatos de análisis de riesgo de la tarea.
-
-Las guías, modelos y formatos referidos en el inciso anterior deberán ser aprobados previamente por resolución del Servicio.
+Derogado.
 
 Capítulo cuarto
 
@@ -9938,15 +9876,15 @@ Los sistemas para el trabajo minero
 
 #### Artículo 613
 
-Sin perjuicio de los límites establecidos para cada permiso de acuerdo a los artículos 595, 599, 600 y 601 de este Reglamento, se deberá cumplir por la empresa o productor minero con las siguientes condiciones:
+Sin perjuicio de los límites y las obligaciones establecidos en la Declaración Minera (DM) y el Proyecto Minero (PM), la empresa o productor minero deberá cumplir con las siguientes condiciones:
 
-a. Solo se podrá realizar el adelgazamiento de la sección de los pilares, losas de soporte, o alguna otra estructura de soporte del método aprobado, si cuenta con un proyecto específico aprobado por el Servicio que así lo permita.
+a. Solo se podrá realizar el adelgazamiento de la sección de los pilares, losas de soporte, o alguna otra estructura de soporte del método aprobado, si cuenta con un Proyecto Minero (PM) específico aprobado por el Servicio que así lo permita.
 
 b. El ancho útil de la labor por la que transiten vehículos mecanizados, tales como cargadores, equipos LHD, entre otros, deberá dejar un espacio mínimo de 50 centímetros a cada costado del equipo, considerando el vehículo más ancho que transite o pueda transitar por esa labor y desde la parte más elevada de la cabina hasta el techo de la labor.
 
 c. Deberán existir estocadas de paso ubicadas cada 50 metros, cuyas dimensiones mínimas serán de un metro por un metro.
 
-d. Para minas de una producción superior a las 2.000 toneladas mensuales por mineral se deberá considerar estaciones de paso para vehículos y equipos en circulación interior mina.
+d. Para minas de una producción superior a las 1.000 toneladas mensuales por mineral se deberán considerar estaciones de paso para vehículos y equipos en circulación interior mina.
 
 e. La pendiente máxima admitida para los caminos de la faena minera será la recomendada por el fabricante del equipo de transporte que se utilizará. Si hay más de uno, la especificación del fabricante que primará será aquella que exija un menor ángulo de pendiente. En caso de que no se disponga de esta información, la pendiente no podrá ser mayor a 10%.
 
@@ -9970,13 +9908,13 @@ En toda mina subterránea deberán existir, al menos, dos labores de comunicaci�
 
 Para estos efectos, se podrán considerar las siguientes situaciones especiales:
 
-a. Habiendo labores preexistentes y/o contiguas, se podrán habilitar éstas como labores de comunicación a la superficie, previa evaluación por profesional especialista, el cual podrá ser elaborado por el ingeniero proyectista, y/o fortificación que garantice la evacuación expedita y segura de los trabajadores, de acuerdo a lo prescrito en el artículo 603.
+a. Habiendo labores preexistentes y/o contiguas, se podrán habilitar éstas como labores de comunicación a la superficie, previa evaluación de un profesional especialista y con la fortificación necesaria que garantice la evacuación expedita y segura de los trabajadores, de acuerdo a lo prescrito en los artículos 602 y 603.
 
-b. En labores ciegas, ya sean socavones y chiflones, se aceptará la habilitación de estocadas como refugios de seguridad cuando estas tengan una distancia inferior a los 100 metros, los que deberán cumplir con lo señalado en el artículo 616.
+b. En labores ciegas, ya sean socavones y/o chiflones, se aceptará la habilitación de estocadas como refugios de seguridad cuando estas tengan una distancia inferior a los 100 metros, los que deberán cumplir con lo señalado en el artículo 616.
 
-c. En el caso de socavones horizontales sin la existencia de niveles en la vertical, el Servicio podrá autorizar distancias mayores a los 100 metros, previo informe emitido por profesional especialista el cual podrá ser elaborado por el ingeniero proyectista, los que deberán garantizar el sostenimiento, e instalación de refugios cercanos a las frentes de trabajo y medidas que resguarden la seguridad de los trabajadores. Esta autorización se tramitará conforme el procedimiento abreviado.
+c. En el caso de socavones horizontales sin la existencia de niveles en la vertical, el Servicio podrá autorizar distancias mayores a los 100 metros, previo informe emitido por profesional especialista, los que deberán garantizar el sostenimiento, e instalación de refugios cercanos a los frentes de trabajo y medidas que resguarden la seguridad de los trabajadores. Esta autorización se tramitará conforme al procedimiento aplicable a los Proyectos Mineros (PM).
 
-d. Para empresas y productores mineros con capacidad de producción menor o igual a 500 toneladas de mineral por mes, en caso de socavones sin la viabilidad técnica de conexión adicional a la superficie, el Servicio podrá autorizar dentro del permiso, una única labor de comunicación con la superficie, la que en ningún caso podrá exceder los ciento treinta metros. Lo anterior es sin perjuicio de la implementación de refugios cercanos a las frentes de trabajo y a medidas de seguridad y estabilidad que resguarde la seguridad de los trabajadores.
+d. Para empresas y productores mineros con capacidad de producción menor o igual a 1.000 toneladas de mineral por mes, en caso de socavones sin la viabilidad técnica de conexión adicional a la superficie, el Servicio podrá autorizar, una única labor de comunicación con la superficie, la que en ningún caso podrá exceder los ciento treinta metros. Lo anterior es sin perjuicio de la implementación de refugios cercanos a las frentes de trabajo y medidas de seguridad y estabilidad que resguarde la seguridad de los trabajadores. Esta autorización se tramitará conforme al procedimiento aplicable a los Proyectos Mineros (PM).
 
 Con todo, dichas labores deberán contar con los elementos necesarios para la circulación segura de las personas y ser funcionales en caso de emergencia.
 
@@ -10038,11 +9976,11 @@ Las chimeneas o piques usados para tránsito de personal deben ser debidamente h
 
 La distancia máxima entre plataformas de descanso en el compartimento de escalas en piques verticales o de fuerte inclinación mayor a 75°, será de cinco metros, y el piso de cada plataforma deberá estar entablado con madera de un grueso mínimo de cinco centímetros o dos pulgadas, o con otro material de resistencia equivalente o superior e instalarse alternadamente a lo largo del tramo total que cubre la escala.
 
-Para empresas o productores mineros con una producción menor o igual a 500 toneladas mensuales de mineral, las chimeneas o piques usados para tránsito de personal deben ser debidamente habilitados con los accesorios necesarios para permitir una evacuación segura, tales como patas mineras, cuerdas, escaleras, arnés de seguridad con cuerdas de vida, entre otros.
+Para empresas o productores mineros con una producción menor o igual a 1.000 toneladas mensuales de mineral, las chimeneas o piques usados para tránsito de personal deben ser debidamente habilitados con los accesorios necesarios para permitir una evacuación segura, tales como patas mineras, cuerdas, escaleras, arnés de seguridad con cuerdas de vida, entre otros.
 
 #### Artículo 625
 
-En aquellas labores cuya operación haya sido descontinuada y sus actividades de mantención, extracción u observación fuesen interrumpidas por algún tiempo que permita presumir que las condiciones de seguridad y estabilidad han cambiado, se dispondrá una exhaustiva inspección antes de reanudar los trabajos para cerciorarse y corregir las condiciones de riesgos. Por ejemplo: estado de la fortificación, falta de acuñadura, presencia de agua, sistemas de desagüe, superficies de tránsito, gases nocivos o deficiencias de oxígeno, u otros riesgos que pongan en peligro la vida o salud de las personas. El personal encargado de realizar este trabajo debe realizar un análisis previo de riesgo de la tarea, considerando los peligros, riesgos y las medidas de control y resguardo para que este trabajo se haga de modo seguro. De lo anterior, se deberá dejar registro o constancia en el libro de faena.
+En aquellas labores cuya operación haya sido descontinuada y sus actividades de mantención, extracción u observación fuesen interrumpidas por algún tiempo que permita presumir que las condiciones de seguridad y estabilidad han cambiado, se dispondrá una exhaustiva inspección antes de reanudar los trabajos para cerciorarse y corregir las condiciones de riesgos. Por ejemplo: estado de la fortificación, falta de acuñadura, presencia de agua, sistemas de desagüe, superficies de tránsito, gases nocivos o deficiencias de oxígeno, u otros riesgos que pongan en peligro la vida o salud de las personas. El personal encargado de realizar este trabajo debe realizar un análisis previo de riesgo de la tarea, considerando los peligros, riesgos y las medidas de control y resguardo para que este trabajo se haga de modo seguro. De lo anterior, se deberá dejar registro o constancia a fin de mantener evidencia acerca de su materialización.
 
 ### Párrafo 2 — .
 
@@ -10060,11 +9998,9 @@ El caudal de aire que circule por la mina dependerá del número de trabajadores
 
 En las minas subterráneas, se deberá mantener un ambiente de trabajo libre de gases nocivos productos de tronaduras o descomposición de materiales orgánicos. No se permitirá la ejecución de trabajos en el interior de las minas subterráneas cuya concentración de oxígeno en el aire, en cuanto a peso, sea inferior a diecinueve coma cinco por ciento (19,5%) y concentraciones de gases nocivos superiores a los valores máximos permisibles determinados por la legislación. Si las concentraciones ambientales fueren superiores, será obligatorio retirar al trabajador del área contaminada hasta que las condiciones ambientales retornen a la normalidad.
 
-Para productores cuya de extracción de mineral sea igual o inferior a las 500 toneladas por mes, con objeto de respetar las condiciones ambientales seguras de trabajo, se deberá velar por mantener las labores libre de personal, ventilar y esperar el tiempo necesario para garantizar la existencia de oxígeno que permita trabajar de manera segura, lo que deberá ser considerado en el proyecto que se someta a aprobación por el Servicio.
+En el caso de los productores cuya capacidad de extracción de mineral sea igual o inferior a las 1.000 toneladas por mes, con objeto de respetar las condiciones ambientales seguras de trabajo, se deberá velar por mantener las labores libres de personal, ventilar y esperar el tiempo necesario para garantizar la existencia de oxígeno que permita trabajar de manera segura.
 
-En las minas subterráneas cuya capacidad de producción sea mayor a quinientas 500 toneladas de mineral por mes, e inferior o igual a las 2.000 toneladas de mineral por mes, se deberán realizar mediciones mensuales de concentración de oxígeno, monóxido de carbono y humos nitrosos, siendo estos registrados en el libro de faena. No se permitirá la ejecución de trabajos en el interior de las minas subterráneas cuya concentración de oxígeno en el aire, en cuanto a volumen, sea inferior a diecinueve coma cinco por ciento de oxígeno (19,5%). Se deberá realizar en forma trimestral un aforo de ventilación en las entradas y salidas principales y, anualmente un control general de ventilación de toda la mina. Los resultados obtenidos a estos aforos deberán registrarse en el libro de faena y mantenerse disponible para el Servicio.
-
-En las minas subterráneas cuya capacidad de producción sea mayor a dos mil 2.000 toneladas de mineral por mes, se deberán realizar mediciones diarias de concentración de oxígeno, monóxido de carbono y humos nitrosos, siendo estos registrados en el libro de faena. No se permitirá la ejecución de trabajos en el interior de las minas subterráneas cuya concentración de oxígeno en el aire, en cuanto a volumen, sea inferior a diecinueve coma cinco por ciento de oxígeno (19,5%). Se deberá realizar en forma mensual un aforo de ventilación en las entradas y salidas principales y, anualmente un control general de ventilación de toda la mina. Los resultados obtenidos a estos aforos deberán registrarse en el libro de faena y mantenerse disponible para el Servicio.
+En las minas subterráneas cuya capacidad de producción sea mayor a mil toneladas 1.000 toneladas de mineral por mes, se deberán realizar mediciones mensuales de concentración de oxígeno, monóxido de carbono y humos nitrosos, manteniéndose registros de ello en la faena, los cuales deberán estar a disposición del Servicio. No se permitirá la ejecución de trabajos en el interior de las minas subterráneas cuya concentración de oxígeno en el aire, en cuanto a volumen, sea inferior a diecinueve coma cinco por ciento de oxígeno (19,5%). Se deberá realizar en forma trimestral un aforo de ventilación en las entradas y salidas principales y anualmente un control general de ventilación de toda la mina. Los resultados obtenidos a estos aforos deberán registrarse, manteniendo en la faena una copia disponible para el Servicio.
 
 Los medidores de gases deben encontrarse debidamente calibrados según patrones correspondientes.
 
@@ -10078,7 +10014,7 @@ Los operadores y/o conductores de vehículos y equipos en las faenas mineras deb
 
 #### Artículo 630
 
-Todos los vehículos y equipos que se utilicen en la faena minera deberán ser mantenidos según el plan de mantenciones, en relación con sus funciones, componentes mecánicos y eléctricos, según los requerimientos del fabricante. Dichas mantenciones deberán ser registradas y mantenerse en el libro de faena.
+Todos los vehículos y equipos que se utilicen en la faena minera deberán ser mantenidos según el plan de mantenciones, en relación con sus funciones, componentes mecánicos y eléctricos, según los requerimientos del fabricante. El titular deberá dejar constancia de dichas mantenciones para que el Servicio pueda revisarlas en caso de requerirlo.
 
 #### Artículo 631
 
@@ -10090,7 +10026,7 @@ Los equipos que se usan en minería subterránea deben contar con una cabina o t
 
 #### Artículo 633
 
-Las personas y equipos que trabajen o transiten en las labores deberán hacerlo provistas de distintivos reflectantes de alta visibilidad dispuestos de tal forma que puedan ser fácilmente identificados. Ninguna persona podrá ingresar al interior de la mina, sin contar con un sistema de iluminación personal, sin perjuicio de los demás elementos de protección personal que corresponde a acuerdo al artículo 609, letra d) de este Reglamento.
+Las personas y equipos que trabajen o transiten en las labores deberán hacerlo provistas de distintivos reflectantes de alta visibilidad dispuestos de tal forma que puedan ser fácilmente identificados. Ninguna persona podrá ingresar al interior de la mina, sin contar con un sistema de iluminación personal, sin perjuicio de los demás elementos de protección personal que corresponde de acuerdo al artículo 609, letra e de este Reglamento.
 
 #### Artículo 634
 
@@ -10154,11 +10090,11 @@ La empresa o el productor minero debe tener a disposición del Servicio y sus in
 
 #### Artículo 645
 
-Se deberá suspender cualquier operación que implique el manejo de explosivos ante la presencia o proximidad de tormentas eléctricas, nevazones, ventiscas y vientos fuertes. De esta circunstancia se deberá dejar registro en el libro de faena.
+Se deberá suspender cualquier operación que implique el manejo de explosivos ante la presencia o proximidad de tormentas eléctricas, nevazones, ventiscas y vientos fuertes, debiendo dejarse constancia de dicho hecho, a fin de acreditarlo al Servicio en caso de que así fuere requerido.
 
 #### Artículo 646
 
-La empresa o el productor minero deberá contar con un libro de "Tiros Quedados", el cual debe mantenerse actualizado, contener la presencia del tiro quedado y su eliminación. Este libro estará bajo la custodia de la empresa o el productor minero, debiendo dejarse también a disposición de los trabajadores involucrados en las operaciones respectivas y del Servicio.
+La empresa y/o el productor minero deberán contar con un registro de "Tiros Quedados", el cual debe mantenerse actualizado, contener la presencia del tiro quedado y su eliminación. Este registro estará bajo la custodia de la empresa o el productor minero, debiendo dejarse también a disposición de los trabajadores involucrados en las operaciones respectivas y del Servicio. Dicho registro deberá anexarse al libro indicado en el artículo 17 del presente reglamento.
 
 #### Artículo 647
 
@@ -10180,7 +10116,7 @@ Perforación y tronadura
 
 #### Artículo 648
 
-La perforación se debe realizar según el diagrama de disparo aprobado en el proyecto, sin perjuicio de las modificaciones al diagrama que quedarán registrados en el libro de faena conforme se dispone en el literal h) del artículo 609 del Reglamento. Se prohíbe iniciar una perforación a menos de 20 centímetros de los restos de la perforación del disparo anterior. Las labores, galerías y bancos deberán ser perforadas según los requerimientos del procedimiento de perforación.
+Artículo 648.- La perforación se deberá realizar conforme al diagrama de disparo establecido por la empresa o productor minero para tales efectos. Lo anterior es sin perjuicio de la obligación de registrar las modificaciones al diagrama de disparo que deba realizar. Estará prohibido iniciar una perforación a menos de 20 centímetros de los restos de la perforación del disparo anterior. Las labores, galerías y bancos deberán ser perforadas según los requerimientos del procedimiento de perforación que cada empresa o Productor Minero deba establecer al efecto.
 
 #### Artículo 649
 
@@ -10196,7 +10132,7 @@ La tronadura en la minería a rajo abierto se deberá llevar a cabo con luz natu
 
 #### Artículo 651
 
-El tiro quedado debe ser eliminado en el turno que se detecte. Si por alguna razón no es posible hacerlo, la persona encargada de la tronadura debe permanecer en el lugar, para informar personalmente al turno siguiente. Lo anterior debe quedar registrado en el libro de Tiros Quedados referido en el artículo 646 del Reglamento.
+El tiro quedado debe ser eliminado en el turno que se detecte. Si por alguna razón no es posible hacerlo, la persona encargada de la tronadura debe permanecer en el lugar, para informar personalmente al turno siguiente. De todo lo anterior se deberá dejar registro en los términos indicados en el artículo 646 del reglamento.
 
 #### Artículo 652
 
@@ -10218,19 +10154,19 @@ En minas a rajo abierto se deberá mantener un control del desmoronamiento y des
 
 Se debe impedir mediante barreras duras y señalizaciones el acceso a sectores de la mina donde la altura de los techos haga riesgosa la acuñadura y/o construcción de algún tipo de fortificación. Se debe proceder del mismo modo ante la presencia de sectores inestables.
 
-Con todo, la empresa o productor minero podrá presentar al Servicio un informe elaborado por un profesional especialista en estabilidad, que evidencie que la calidad del macizo rocoso sea autosoportante. El Servicio deberá pronunciarse conforme el procedimiento abreviado.
+Con todo, la empresa o productor minero podrá presentar al Servicio un informe elaborado por un profesional especialista en estabilidad, que evidencie que la calidad del macizo rocoso sea autosoportante. El Servicio deberá pronunciarse dentro de los 30 días siguientes a la presentación de dicho informe.
 
-La fortificación deberá ser desarrollada conforme lo aprobado en el proyecto y según el procedimiento interno establecido para estos mismos efectos.
+La fortificación deberá ser desarrollada conforme lo autorizado por el Servicio y según el procedimiento interno establecido para estos mismos efectos.
 
-El portal de acceso deberá siempre fortificarse, salvo que se demuestre su calidad autosoportante en el proyecto.
+El portal de acceso deberá siempre fortificarse, salvo que se demuestre su calidad de autosoportante al Servicio..
 
 #### Artículo 656
 
-Se deberá impedir el acceso mediante barreras duras y señalización a sectores que se encuentren abandonados. Del mismo modo deberá procederse con respecto a los sectores o labores que no fueron considerados al momento de aprobarse el proyecto de explotación.
+Se deberá impedir el acceso mediante barreras duras y señalización a sectores que se encuentren abandonados. Del mismo modo deberá procederse con respecto a los sectores o labores que no fueron considerados al momento de autorizarse la explotación.
 
 #### Artículo 657
 
-La extracción de material de caserones o similares solo se deberá realizar con un análisis de riesgo de la tarea y medidas de control implementadas, tales como evaluación geomecánica, procedimientos, operadores con competencias validadas por el productor o empresa minera, y equipos idóneos para la tarea. Todo lo anterior deberá ser registrado en el Libro de Faena.
+La extracción de material de caserones o similares solo se deberá realizar con un análisis de riesgo de la tarea y medidas de control implementadas, tales como evaluación geomecánica, procedimientos, operadores con competencias validadas por el productor o empresa minera, y equipos idóneos para la tarea. Será deber del productor o empresa minera mantener registro de dichas actividades o medidas.
 
 #### Artículo 658
 
@@ -10242,7 +10178,7 @@ Manejo de mineral
 
 #### Artículo 659
 
-El botadero de estéril o de ripios deberá crecer de manera planificada, conforme al proyecto aprobado, para asegurar su estabilidad física. No se puede ubicar el depósito en un área que intervenga el normal escurrimiento de las aguas, a no ser que se realicen obras de encauzamiento aguas arriba y contorno perimetral.
+El botadero de estéril o de ripios deberá crecer de manera planificada, conforme a lo autorizado por el Servicio, para asegurar su estabilidad física. No se puede ubicar el depósito en un área que intervenga el normal escurrimiento de las aguas, a no ser que se realicen obras de encauzamiento aguas arriba y contorno perimetral.
 
 #### Artículo 660
 
@@ -10296,7 +10232,7 @@ Mantención
 
 #### Artículo 668
 
-La empresa minera deberá mantener registros en el Libro de Faena, tanto de las inspecciones de la empresa o productor minero, como del control y mantenimiento de todos los equipos e instalaciones eléctricas y mecánicas del proceso minero. El productor o empresa minera deberá verificar, a lo menos una vez al año, el estado mecánico y eléctrico de las instalaciones y equipos.
+La empresa minera deberá mantener registros, tanto de las inspecciones de la empresa o productor minero, como del control y mantenimiento de todos los equipos e instalaciones eléctricas y mecánicas del proceso minero. El productor o empresa minera deberá verificar, a lo menos una vez al año, el estado mecánico y eléctrico de las instalaciones y equipos.
 
 #### Artículo 669
 
@@ -10306,7 +10242,7 @@ Para efectos de realizar mantenciones y/o reparaciones, todo equipo o instalaci�
 
 #### Artículo 670
 
-Los huinches usados para el transporte de materiales, y también para el desplazamiento del personal, deberán ser inspeccionados una vez al mes por personal capacitado, considerando especialmente los cables para evitar el corte de estos, el deterioro del balde o apertura, el deslizamiento del tambor, y la operación del sistema. Lo anterior, para evitar atrapamiento con el cable y transmisiones y prevención de incendios, entre otros riesgos posibles. Los resultados de dicha inspección deberán quedar registrados en el Libro de Faena.
+Los huinches usados para el transporte de materiales, y también para el desplazamiento del personal, deberán ser inspeccionados una vez al mes por personal capacitado, considerando especialmente los cables para evitar el corte de estos, el deterioro del balde o apertura, el deslizamiento del tambor, y la operación del sistema. Lo anterior, para evitar atrapamiento con el cable y transmisiones y prevención de incendios, entre otros riesgos posibles. Los resultados de dicha inspección deberán mantenerse registrados en la respectiva faena y a disposición del Servicio.
 
 #### Artículo 671
 
