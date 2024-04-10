@@ -218,7 +218,7 @@ g) Proyectos de desarrollo urbano o turístico, en zonas no comprendidas en algu
 
 h) Proyectos industriales o inmobiliarios que se ejecuten en zonas declaradas latentes o saturadas;
 
-i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos, turba o greda;
+i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos o greda;
 
 j) Oleoductos, gasoductos, ductos mineros u otros análogos;
 
@@ -280,7 +280,7 @@ b) La descripción de la línea de base, que deberá considerar todos los proyec
 
 c) Una descripción pormenorizada de aquellos efectos, características o circunstancias del artículo 11 que dan origen a la necesidad de efectuar un Estudio de Impacto Ambiental.
 
-d) Una predicción y evaluación del impacto ambiental del proyecto o actividad, incluidas las eventuales situaciones de riesgo. Cuando el proyecto deba presentar un Estudio de Impacto Ambiental por generar alguno de los efectos, características o circunstancias señaladas en la letra a) del artículo 11, y no existiera Norma Primaria de Calidad o de Emisión en Chile o en los Estados de referencia que señale el Reglamento, el proponente deberá considerar un capítulo específico relativo a los potenciales riesgos que el proyecto podría generar en la salud de las personas.
+d) Una predicción y evaluación del impacto ambiental del proyecto o actividad, incluidas las eventuales situaciones de riesgo y los efectos adversos del cambio climático sobre los elementos del medio ambiente, cuando corresponda. Cuando el proyecto deba presentar un Estudio de Impacto Ambiental por generar alguno de los efectos, características o circunstancias señaladas en la letra a) del artículo 11, y no existiera Norma Primaria de Calidad o de Emisión en Chile o en los Estados de referencia que señale el Reglamento, el proponente deberá considerar un capítulo específico relativo a los potenciales riesgos que el proyecto podría generar en la salud de las personas.
 
 e) Las medidas que se adoptarán para eliminar o minimizar los efectos adversos del proyecto o actividad y las acciones de reparación que se realizarán, cuando ello sea procedente;
 
