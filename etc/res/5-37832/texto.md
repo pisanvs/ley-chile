@@ -10,6 +10,6 @@ Establece que, a contar de las fechas que a continuación se indican, se harán 
 
 2.- A contar del 1 de Marzo de 1994, los taxis colectivos Rurales e Interurbanos y los de servicios de Turismo, deberán estar pintados con los respectivos colores reglamentarios, a que se refiere el inciso segundo del artículo N° 76° del D.S. N° 212/92, ya citado.
 
-3.- La obligación establecida en el numeral 1.- de la presente resolución, esto es, llevar pintado en el exterior de sus puertas delanteras, las letras y números de la placa patente única del vehículo no será aplicable a los taxis colectivos urbanos de la ciudad de Talca.
+3.- La obligación establecida en el numeral 1.- de la presente resolución, esto es, llevar pintado en el exterior de sus puertas delanteras, las letras y números de la placa patente única del vehículo no será aplicable a los taxis colectivos urbanos de las comunas de Curicó, Talca, Constitución, Linares, San Javier, Parral y Cauquenes.
 
 Anótese y publíquese.- Carlos Pérez Molina, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
