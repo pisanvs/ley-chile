@@ -56,19 +56,21 @@ Durante los tres años siguientes a la entrada en vigencia de la ley N° 20.940 
 
 De la integración del Consejo
 
-#### Artículo 5°
+#### Artículo 5º
 
 El Consejo estará integrado por nueve miembros que serán designados de la siguiente manera:
 
-a) Un(a) consejero(a) designado por el Ministro del Trabajo y Previsión Social.
+a) Un(a) consejero(a) designado(a) por el (la) Ministro(a) del Trabajo y Previsión Social.
 
-b) Un(a) consejero(a) designado por el Ministro de Hacienda.
+b) Un(a) consejero(a) designado(a) por el (la) Ministro(a) de Hacienda.
 
-c) Un(a) consejero(a) designado por el Ministro de Economía, Fomento y Turismo.
+c) Un(a) consejero(a) designado(a) por el (la) Ministro(a) de Economía, Fomento y Turismo.
 
-d) Tres consejeros(as) designados por las organizaciones de empleadores de mayor representatividad del país, incluyendo al menos un representante de las organizaciones de empresas de menor tamaño.
+d) Un(a) consejero(a) designado(a) por el Consejo Nacional Consultivo de la Empresa de Menor Tamaño, contemplado en la ley Nº 20.416, entre los representantes de las distintas entidades gremiales que lo integran.
 
-e) Tres consejeros(as) designados por las centrales sindicales de mayor representatividad del país.
+e) Dos consejeros(as) designados(as) por las organizaciones de empleadores de mayor representatividad del país.
+
+f) Tres consejeros(as) designados(as) por las centrales sindicales de mayor representatividad del país.
 
 #### Artículo 6°
 
@@ -84,13 +86,19 @@ El Subsecretario del Trabajo solicitará a los Ministros de Hacienda, de Econom�
 
 En caso de no contar con a lo menos una consejera representante de los ministerios indicados para la primera integración del Consejo, será el Ministro del Trabajo y Previsión Social quien la designará. Si esta situación se produjere en las renovaciones posteriores, corresponderá al Ministro de Hacienda su designación y luego al Ministro de Economía, Fomento y Turismo, y así consecutivamente.
 
+#### Artículo 7º bis
+
+El Subsecretario del Trabajo solicitará al Presidente del Consejo Nacional Consultivo de la Empresa de Menor Tamaño, creado por la ley Nº 20.416, la designación de su representante ante el Consejo Superior Laboral, conforme se establece en el literal d) del artículo 5º del presente reglamento, con a lo menos 60 días corridos de anticipación al inicio de funciones del Consejo o a la fecha de su renovación, según sea el caso.
+
+Recibida la solicitud, el Presidente del Consejo Nacional Consultivo deberá proceder conforme a lo dispuesto en el reglamento que rige esa instancia, con el fin de establecer la persona que se designará, la cual deberá ser comunicada formalmente a la Secretaría Técnica del Consejo Superior Laboral con a lo menos 15 días corridos de anticipación al inicio de funciones o fecha de renovación del Consejo Superior Laboral
+
 #### Artículo 8°
 
-Para determinar la mayor representatividad a las que aluden las letras d) y e) del artículo 5° de este reglamento, el Subsecretario del Trabajo requerirá informes a la Subsecretaría de Economía y Empresas de Menor Tamaño y a la Dirección del Trabajo, respectivamente, instituciones que deberán emitir dichos informes dentro del plazo de 10 días hábiles.
+Para determinar la mayor representatividad a las que aluden las letras e) y f) del artículo 5° de este reglamento, el Subsecretario del Trabajo requerirá informes a la Subsecretaría de Economía y Empresas de Menor Tamaño y a la Dirección del Trabajo, respectivamente, instituciones que deberán emitir dichos informes dentro del plazo de 10 días hábiles.
 
 Dentro de los 60 días corridos de anticipación al inicio de funciones del Consejo, o a la fecha de su renovación, según corresponda, el Subsecretario del Trabajo solicitará a las organizaciones empresariales y centrales sindicales más representativas del país, que procedan a designar a los consejeros que les corresponde nombrar.
 
-Las organizaciones empresariales y sindicales designarán a sus consejeros dentro del plazo de 30 días corridos posteriores a la fecha de recepción del oficio del Subsecretario del Trabajo. Deberán incluir dentro de sus designaciones a lo menos una mujer. Las organizaciones empresariales deberán incluir dentro de sus designados a un(a) representante de las organizaciones de empresas de menor tamaño.
+Las organizaciones empresariales y sindicales designarán a sus consejeros dentro del plazo de 30 días corridos posteriores a la fecha de recepción del oficio del Subsecretario del Trabajo. Deberán incluir dentro de sus designaciones a lo menos una mujer.
 
 En caso de no recibir la designación respectiva en el plazo establecido y el Consejo cuente con el quórum mínimo exigido en el artículo 8° de la ley N° 20.940, éste sesionará con los integrantes que ya hubieren sido designados.
 
@@ -124,6 +132,8 @@ d) Por falta grave al cumplimiento de sus funciones, considerándose como tal la
 
 3. Incumplimiento de las obligaciones de probidad y confidencialidad que les son aplicables en razón de su cargo.
 
+e) En el caso de que el (la) consejero(a) designado(a) conforme lo dispuesto en la letra d) del artículo 5º de este reglamento, cesara sus funciones, además de las causales precedentes, por remoción acordada por el Consejo Nacional Consultivo de la Empresa de Menor Tamaño, o por cesar su cargo de consejero(a) ante dicha instancia.
+
 El miembro del Consejo que estimare estar afecto a alguna causal de cesación en el ejercicio de su cargo, deberá comunicarlo de inmediato al Presidente del Consejo, quien dará cuenta de ello en la siguiente sesión que éste celebre, dejando constancia en el acta respectiva. De igual modo, si a quien afecta la o las causales de cesación fuere al Presidente, éste deberá comunicarlo al Vicepresidente.
 
 #### Artículo 12
@@ -136,11 +146,11 @@ Los consejeros podrán ser designados por un periodo adicional, solo por una vez
 
 Para la renovación de los consejeros, el Presidente informará al Subsecretario del Trabajo los miembros que deban renovarse con a lo menos tres meses de antelación a la fecha en que deban cesar en sus cargos.
 
-Recibida la comunicación antes señalada, el Subsecretario procederá conforme lo disponen los artículos 7° y 8° del presente reglamento, según corresponda.
+Recibida la comunicación antes señalada, el Subsecretario procederá conforme lo disponen los artículos 7º, 7º bis y 8º del presente reglamento, según corresponda.
 
 #### Artículo 14
 
-En caso de vacancia, el Presidente del Consejo deberá dentro de los tres días hábiles siguientes a que tomó conocimiento, informar de dicha situación al Subsecretario del Trabajo, quien dará inicio al procedimiento de designación del reemplazante conforme lo indicado en los artículos 7° y 8° del presente reglamento, con excepción de los plazos señalados en ellos, los cuales se reducirán a la mitad, según corresponda.
+En caso de vacancia, el Presidente del Consejo deberá dentro de los tres días hábiles siguientes a que tomó conocimiento, informar de dicha situación al Subsecretario del Trabajo, quien dará inicio al procedimiento de designación del reemplazante conforme lo indicado en los artículos 7º, 7º bis y 8º del presente reglamento, con excepción de los plazos señalados en ellos, los cuales se reducirán a la mitad, según corresponda.
 
 El reemplazante durará en sus funciones por el tiempo que reste para complementar el periodo del consejero que reemplaza.
 
@@ -182,9 +192,7 @@ Las sesiones ordinarias se efectuarán una vez al mes, en el día y hora que par
 
 #### Artículo 19
 
-El Consejo sesionará con al menos cinco miembros y sus acuerdos se adoptarán por mayoría absoluta de los presentes. Su Presidente dirimirá los empates que pudieren producirse. Los acuerdos del Consejo deberán adoptarse con la concurrencia de, a lo menos, un consejero que represente al sector gubernamental, a las organizaciones de empleadores y a las organizaciones sindicales, respectivamente.
-
-El Subsecretario del Trabajo podrá asistir con derecho a voz a todas las sesiones del Consejo.
+El Consejo sesionará con al menos cinco miembros y sus acuerdos se adoptarán por mayoría absoluta de los presentes. Su presidente(a) dirimirá los empates que pudieren producirse. Los acuerdos del Consejo deberán adoptarse con la concurrencia de, a lo menos, tres consejeros(as) que representen al sector gubernamental, a las organizaciones sindicales y a las organizaciones de empleadores, considerando dentro de este último sector al (a la) representante del Consejo Nacional Consultivo de la Empresa de Menor Tamaño.
 
 Excepcionalmente, el Presidente del Consejo podrá autorizar la realización de las sesiones por videoconferencia u otro medio electrónico.
 
