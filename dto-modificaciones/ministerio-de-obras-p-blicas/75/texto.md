@@ -42,215 +42,295 @@ Para la correcta interpretación del Reglamento, se entiende por:
 
 1) Ministerio:
 
-El Ministerio de Obras Públicas, las empresas e
+El Ministerio de Obras Públicas, las
 
-instituciones que se relacionan con el Estado
+empresas e instituciones que se
 
-por su intermedio, o las autoridades de dichas
+relacionan con el Estado por su
+
+intermedio, o las autoridades de dichas
 
 reparticiones a quienes les corresponda
 
-intervenir y resolver en su representación.
+intervenir y resolver en su
+
+representación.
 
 2) Ministro:
 
-La persona que desempeña el cargo de Ministro
+La persona que desempeña el cargo
 
-de Obras Públicas.
+de Ministro de Obras Públicas.
 
 3) Director General:
 
-La persona que desempeña este cargo en la
+La persona que desempeña este cargo
 
-Dirección General que concierna.
+en la Dirección General que
+
+concierna.
 
 4) Director Nacional:
 
-La persona que desempeña el cargo de jefe
+La persona que desempeña el cargo
 
-superior en algunos de los servicios
+de jefe superior en algunos de los
 
-dependientes del Ministerio de Obras Públicas o
+servicios dependientes del
 
-de las instituciones que se relacionan con el
+Ministerio de Obras Públicas o
+
+de las instituciones que se
+
+relacionan con el
 
 Estado por su intermedio.
 
 5) Dirección:
 
-El Servicio, empresa o institución que tiene a
+El Servicio, empresa o
+
+institución que tiene a
 
 su cargo la ejecución de la obra.
 
 6) Secretario Regional:
 
-La persona que desempeña el cargo de Secretario
+La persona que desempeña el cargo
 
-Regional del Ministerio de Obras Públicas en la
+de Secretario Regional del
+
+Ministerio de Obras Públicas en la
 
 Región donde se ejecuta la obra.
 
 7) Director Regional:
 
-El funcionario de la Dirección que desempeña
+El funcionario de la Dirección
 
-ese cargo en la Región donde se ejecutan los
+que desempeña ese cargo en la
+
+Región donde se ejecutan los
 
 trabajos.
 
 8) Director:
 
-El Director Nacional o el Director Regional,
+El Director Nacional o el
 
-según quien tenga a su cargo la ejecución de la
+Director Regional, según quien
 
-obra.
+tenga a su cargo la ejecución
+
+de la obra.
 
 9) Inspector Fiscal:
 
-El funcionario profesional que, nombrado en
+El funcionario profesional que,
 
-forma competente, asume el derecho y la
+nombrado en forma competente,
 
-obligación de fiscalizar la correcta ejecución
+asume el derecho y la
 
-de las obras y el fiel cumplimiento de un
+obligación de fiscalizar la
+
+correcta ejecución
+
+de las obras y el fiel
+
+cumplimiento de un
 
 contrato de construcción.
 
 10) Inspección Fiscal de obra:
 
-Conjunto de funcionarios profesionales,
+Conjunto de funcionarios
 
-técnicos y administrativos, dependientes del
+profesionales, técnicos y
 
-inspector fiscal, a cargo de la fiscalización
+administrativos, dependientes
+
+del inspector fiscal, a cargo
+
+de la fiscalización
 
 de un contrato.
 
 11) Asesoría de Inspección:
 
-Persona natural o jurídica especialmente
+Persona natural o jurídica
 
-contratada, que bajo la dirección del inspector
+especialmente contratada, que
 
-fiscal, colabora con éste en la fiscalización
+bajo la dirección del inspector
+
+fiscal, colabora con éste en
+
+la fiscalización
 
 de un contrato de construcción.
 
 12) Contratista:
 
-Persona natural o jurídica que, en virtud del
+Persona natural o jurídica que,
 
-contrato, contrae la obligación de ejecutar una
+en virtud del contrato, contrae
+
+la obligación de ejecutar una
 
 obra material, por algunos de los
 
-procedimientos contemplados en el presente
+procedimientos contemplados en
 
-Reglamento.
+el presente Reglamento.
 
 13) Equipo Gestor del Contratista:
 
-Equipo gerencial del contratista, pudiendo
+Equipo gerencial del contratista,
 
-incluir a sus socios y directores que cumplan
+pudiendo incluir a sus socios y
 
-un rol activo en la gestión de dicha empresa.
+directores que cumplan
+
+un rol activo en la gestión de
+
+dicha empresa.
 
 14) Obra Pública:
 
-Cualquier inmueble, propiedad del Estado,
+Cualquier inmueble, propiedad del
 
-construido, reparado o conservado por éste, en
+Estado, construido, reparado o
 
-forma directa o por encargo a un tercero, cuya
+conservado por éste, en
 
-finalidad es propender al bien público.
+forma directa o por encargo a
+
+un tercero, cuya finalidad es
+
+propender al bien público.
 
 15) Contrato de Obra Pública:
 
-Es un acto por el cual el Ministerio encarga a
+Es un acto por el cual el
 
-un tercero la ejecución, reparación o
+Ministerio encarga a
 
-conservación de una obra pública, la cual debe
+un tercero la ejecución,
 
-efectuarse conforme a lo que determinan los
+reparación o conservación de
 
-antecedentes de la adjudicación, incluyendo la
+una obra pública, la cual debe
 
-restauración de edificios patrimoniales.
+efectuarse conforme a lo que
+
+determinan los antecedentes
+
+de la adjudicación, incluyendo
+
+la restauración de edificios
+
+patrimoniales.
 
 16) Registro General de Contratistas:
 
-Nómina de contratistas inscritos en el Registro
+Nómina de contratistas inscritos
 
-General establecido en el Título II de este
+en el Registro General establecido
 
-Reglamento, que están facultados para optar a
+en el Título II de este
 
-la construcción de las obras que realiza el
+Reglamento, que están facultados
+
+para optar a la construcción de
+
+las obras que realiza el
 
 Ministerio.
 
-17) Comisión del Registro General de Contratistas:
+17) Comisión del Registro General de
 
-Comisión presidida por el Director General de
+Contratistas:
 
-Obras Públicas y, a lo menos, por tres Jefes de
+Comisión presidida por el Director
+
+General de Obras Públicas y, a lo
+
+menos, por tres Jefes de
 
 Servicio.
 
 18) Bases Administrativas:
 
-Conjunto de normas que regulan la licitación y
+Conjunto de normas que regulan
 
-el contrato de ejecución de obra, a las que
+la licitación y el contrato de
 
-deben ceñirse las partes interesadas.
+ejecución de obra, a las que
+
+deben ceñirse las partes
+
+interesadas.
 
 19) Especificaciones Técnicas:
 
-El pliego de características técnicas
+El pliego de características
 
-particulares que deberá cumplir la obra motivo
+técnicas particulares que
+
+deberá cumplir la obra motivo
 
 de un contrato de obra pública.
 
 20) Planos Generales:
 
-Los diseños que a una escala adecuada indican
+Los diseños que a una escala
 
-ubicación, formas y medidas que permiten
+adecuada indican ubicación,
+
+formas y medidas que permiten
 
 definir la obra a realizar.
 
 21) Planos de detalle:
 
-Los diseños a escala adecuada para realizar la
+Los diseños a escala adecuada
 
-construcción, las piezas o las partes del
+para realizar la construcción,
 
-proyecto, contenido en los planos generales.
+las piezas o las partes del
 
-22) Proyecto, o Documentos de licitación:
+proyecto, contenido en los
 
-Conjunto de antecedentes que permite definir en
+planos generales.
 
-forma suficiente la obra por realizar, que
+22) Proyecto, o Documentos de
 
-incluye bases administrativas, planos
+licitación:
 
-generales, planos de detalle, especificaciones
+Conjunto de antecedentes que
 
-técnicas y todos los demás documentos de la
+permite definir en forma
 
-licitación.
+suficiente la obra por
+
+realizar, que incluye bases
+
+administrativas, planos
+
+generales, planos de detalle,
+
+especificaciones técnicas y
+
+todos los demás documentos
+
+de la licitación.
 
 23) Presupuesto estimativo:
 
-El costo preliminar aproximado previsto por el
+El costo preliminar aproximado
+
+previsto por el
 
 Ministerio para una obra, excluido el
 
@@ -258,337 +338,617 @@ Impuesto al Valor Agregado.
 
 24) Presupuesto Oficial:
 
-El estudio detallado, efectuado por el
+El estudio detallado, efectuado
 
-Ministerio, de las cantidades, precios
+por el Ministerio, de las
 
-unitarios y precio total previsto para una obra
+cantidades, precios unitarios
 
-y que representa su opinión sobre su valor,
+y precio total previsto para
 
-excluido el Impuesto al Valor Agregado.
+una obra y que representa su
+
+opinión sobre su valor,
+
+excluido el Impuesto al
+
+Valor Agregado.
 
 25) Licitación:
 
-Procedimiento mediante el cual se solicitan a
+Procedimiento mediante el cual se
 
-proponentes inscritos en el Registro de
+solicitan a proponentes inscritos
 
-Contratistas del MOP, o precalificados si es el
+en el Registro de Contratistas
 
-caso, cotizaciones para la ejecución de una
+del MOP, o precalificados si es el
+
+caso, cotizaciones para la
+
+ejecución de una
 
 obra pública.
 
 26) Propuesta:
 
-La cotización ofrecida por un proponente en una
+La cotización ofrecida por un
 
-licitación, la que deberá ajustarse a los
+proponente en una licitación,
 
-requisitos establecidos en los documentos de
+la que deberá ajustarse a los
 
-licitación.
+requisitos establecidos en los
+
+documentos de licitación.
 
 27) Propuesta privada:
 
-La oferta efectuada por un proponente a
+La oferta efectuada por un
 
-petición del Ministerio, en una licitación
+proponente a petición del
 
-privada, solicitada por escrito a tres o más
+Ministerio, en una licitación
+
+privada, solicitada por
+
+escrito a tres o más
 
 contratistas de la especialidad.
 
 28) Trato Directo:
 
-Forma de contratar la realización de una obra
+Forma de contratar la
 
-sin llamar a licitación, conviniéndose con un
+realización de una obra
 
-contratista inscrito en el registro respectivo,
+sin llamar a licitación,
 
-los precios, plazos y normas que regirán el
+conviniéndose con un
 
-contrato, el cual debe ceñirse a este
+contratista inscrito en el
+
+registro respectivo,
+
+los precios, plazos y normas
+
+que regirán el contrato, el
+
+cual debe ceñirse a este
 
 reglamento.
 
 29) Administración Delegada:
 
-Forma de contratar en virtud de la cual un
+Forma de contratar en virtud
 
-contratista toma a su cargo la ejecución de una
+de la cual un contratista toma
 
-obra, reintegrándosele, previa comprobación, el
+a su cargo la ejecución de una
 
-desembolso en que incurrió en su realización,
+obra, reintegrándosele, previa
 
-más el honorario pactado por sus servicios.
+comprobación, el desembolso en
+
+que incurrió en su realización,
+
+más el honorario pactado por
+
+sus servicios.
 
 30) Propuesta a Suma Alzada:
 
-La oferta a precio fijo, en la que las
+La oferta a precio fijo, en la
 
-cantidades de obras se entienden inamovibles,
+que las cantidades de obras se
 
-salvo aquellas partidas especificadas en los
+entienden inamovibles, salvo
 
-documentos de licitación cuya cubicación se
+aquellas partidas especificadas
 
-establezca a serie de precios unitarios, y cuyo
+en los documentos de licitación
 
-valor total corresponde a la suma de las
+cuya cubicación se establezca
 
-partidas fijas y a la de precios unitarios, si
+a serie de precios unitarios,
 
-los hubiere. El valor total del contrato podrá
+y cuyo valor total corresponde
 
-estar afecto a algún sistema de reajuste, de
+a la suma de las partidas
 
-acuerdo a lo estipulado en el artículo 108.
+fijas y a la de precios
 
-31) Propuesta a Serie de Precios Unitarios:
+unitarios, si los hubiere. El
 
-La oferta de precios unitarios fijos aplicados
+valor total del contrato podrá
 
-a cubicaciones provisionales de obras
+estar afecto a algún sistema
 
-establecidas por el Ministerio, y cuyo valor
+de reajuste, de acuerdo a lo
 
-total corresponde a la suma de los productos de
+estipulado en el artículo 108.
 
-los referidos precios por dichas cubicaciones.
+31) Propuesta a Serie de Precios
 
-Los precios unitarios se entenderán inamovibles
+Unitarios:
 
-y las cubicaciones se ajustarán a las obras
+La oferta de precios unitarios
 
-efectivamente realizadas, verificadas por la
+fijos aplicados a cubicaciones
 
-Dirección, de acuerdo a los documentos de
+provisionales de obras
 
-licitación. Estos precios podrán estar afectos
+establecidas por el Ministerio, y
 
-a algún sistema de reajuste, conforme a lo
+cuyo valor total corresponde a
+
+la suma de los productos de
+
+los referidos precios por dichas
+
+cubicaciones.
+
+Los precios unitarios se
+
+entenderán inamovibles y las
+
+cubicaciones se ajustarán a
+
+las obras efectivamente
+
+realizadas, verificadas por la
+
+Dirección, de acuerdo a
+
+los documentos de licitación.
+
+Estos precios podrán estar
+
+afectos a algún sistema de
+
+reajuste, conforme a lo
 
 estipulado en el artículo 108.
 
 32) Presupuesto Compensado:
 
-La adecuación de los precios unitarios o de las
+La adecuación de los precios
 
-partidas ofrecidos por el contratista para el
+unitarios o de las partidas
 
-contrato, y que se obtiene al aplicar a cada
+ofrecidos por el contratista para el
 
-precio unitario o partida del presupuesto
+contrato, y que se obtiene al
 
-oficial, la razón entre el valor total de la
+aplicar a cada precio unitario o
 
-oferta del proponente y el valor del
+partida del presupuesto
 
-presupuesto oficial.
+oficial, la razón entre el valor
+
+total de la oferta del proponente
+
+y el valor del presupuesto oficial.
 
 33) Aumento o disminución de Obras:
 
-La modificación de las cantidades de obras
+La modificación de las
 
-indicadas por el Ministerio en los documentos
+cantidades de obras
+
+indicadas por el Ministerio
+
+en los documentos
 
 de la licitación.
 
 34) Obras nuevas o extraordinarias:
 
-En contratos a serie de precios unitarios:
+En contratos a serie de precios
 
-Las obras que se incorporen o agreguen al
+unitarios:
 
-proyecto para llevar a mejor término la obra
+Las obras que se incorporen o
 
-contratada, pero cuyas características sean
+agreguen al proyecto para llevar
 
-diferentes a las especificadas o contenidas en
+a mejor término la obra
 
-los antecedentes que sirven de base al
+contratada, pero cuyas
+
+características sean
+
+diferentes a las especificadas
+
+o contenidas en los antecedentes
+
+que sirven de base al
 
 contrato.
 
 En contrato a suma alzada:
 
-Las obras que se incorporen o agreguen al
+Las obras que se incorporen o
 
-proyecto para llevar a un mejor término la obra
+agreguen al proyecto para
+
+llevar a un mejor término la obra
 
 contratada.
 
 35) Modificación de obras:
 
-El reemplazo de parte de las obras contenidas
+El reemplazo de parte de las
 
-en el proyecto del Ministerio por obras nuevas
+obras contenidas
+
+en el proyecto del Ministerio
+
+por obras nuevas
 
 o extraordinarias.
 
 36) Patrimonio:
 
-Corresponde al total de activos menos los
+Corresponde al total de activos
 
-pasivos circulantes y largo plazo e interés
+menos los pasivos circulantes y
+
+largo plazo e interés
 
 minoritario.
 
 37) Capacidad Económica Mínima:
 
-El capital que, a lo menos, debe acreditar el
+El capital que, a lo menos, debe
 
-contratista para su inscripción en el Registro;
+acreditar el contratista para su
 
-corresponde al patrimonio disminuido en los
+inscripción en el Registro;
 
-valores del activo que no representan
+corresponde al patrimonio disminuido
 
-inversiones reales, y a las reservas
+en los valores del activo que no
 
-susceptibles de retiro, aumentadas en las
+representan inversiones reales, y
 
-cantidades expresadas en declaración jurada de
+a las reservas susceptibles de
 
-no retiro (opcional), conforme al procedimiento
+retiro, aumentadas en las
 
-establecido en los artículos 29 y 58, según se
+cantidades expresadas en
 
-trate del Registro de Obras Mayores o el de
+declaración jurada de
 
-Obras Menores.
+no retiro (opcional), conforme
+
+al procedimiento
+
+establecido en los artículos 29 y 58,
+
+según se
+
+trate del Registro de Obras Mayores
+
+o el de Obras Menores.
 
 38) Capacidad Económica Disponible:
 
-El capital que debe comprobar el contratista
+El capital que debe comprobar
 
-para participar en una licitación y que se
+el contratista para participar en
 
-comprobará sobre la base de la capacidad
+una licitación y que se comprobará
 
-económica acreditada ante el Registro, según lo
+sobre la base de la capacidad
 
-establezcan las bases administrativas,
+económica acreditada ante el Registro,
 
-disminuido en los saldos de obras por ejecutar,
+según lo establezcan las bases
 
-de acuerdo con los porcentajes y normas
+administrativas, disminuido en los
 
-estipuladas en los artículos 29, 59 o 73, según
+saldos de obras por ejecutar,
 
-se trate del Registro de Obras Mayores, de
+de acuerdo con los porcentajes y
 
-Obras Menores o Especial.
+normas estipuladas en los artículos
+
+29, 59 o 73, según
+
+se trate del Registro de Obras
+
+Mayores, de Obras Menores o Especial.
 
 39) Programa de Trabajo:
 
-La ordenación dentro del plazo del contrato,
+La ordenación dentro del plazo
 
-del desarrollo de las diversas etapas, partidas
+del contrato, del desarrollo de
 
-o ítem de la obra, sea que ellas deban ser
+las diversas etapas, partidas
 
-ejecutadas en forma simultánea o sucesiva.
+o ítem de la obra, sea que ellas
 
-40) Valor Pro forma:
+deban ser ejecutadas en forma
 
-Rubros que resultan esenciales para el correcto
+simultánea o sucesiva.
 
-y oportuno desarrollo de los trabajos
+40) Valor Pro forma: Rubros que resultan
 
-encomendados, por lo que debe tratarse de
+esenciales para el correcto y
 
-labores que sean el necesario complemento de
+oportuno desarrollo de los
 
-dichos trabajos, que no estén suficientemente
+trabajos encomendados,
 
-definidas para permitir al Contratista
+que no estén suficientemente
 
-valorarlas, en términos que su realización
+definidos para permitir al
 
-aparezca indispensable para la completa
+contratista valorarlos y que
 
-conclusión y posterior utilización de la obra y
+deben ser ejecutados por un
 
-que deben ser autorizados al menos por el
+tercero, cuya contratación se
 
-inspector fiscal y el Director correspondiente.
+encomienda al contratista, la que
 
-Estas partidas se señalan en el presupuesto
+debe ser autorizada previamente
 
-oficial y el proponente debe reproducirlas en
+por el inspector fiscal y
 
-su propuesta a título meramente informativo,
+el Director correspondiente. La
 
-porque los montos reales no se conocen con
+oportunidad de las gestiones que
 
-anterioridad a la licitación, teniendo el
+realice el contratista deberá
 
-contratista derecho a que el Ministerio le
+considerarse en el programa
 
-reembolse las cantidades efectivas que acredite
+oficial del contrato, debiendo
 
-haber pagado por su ejecución, más el
+ser éste concordante con el normal
 
-porcentaje que fijen las bases administrativas
+avance del contrato y el plazo de
 
-o sin ningún recargo si éstas nada dicen.
+finalización de la obra.
 
-Corresponden a trabajos o servicios que debe
+Estas partidas se señalan en el
 
-ejecutar un tercero, necesarios para la obra,
+presupuesto oficial y el proponente
 
-cuya gestión se encomienda al contratista.
+debe reproducirlas en su propuesta a
 
-41) Obras de Mantenimiento, conservación y
+título meramente informativo, porque
 
-explotación de obras existentes.
+los montos reales no se conocen con
 
-Estas obras corresponden, entre otras, a
+anterioridad a la licitación.
 
-mantenimiento, revisión y eventual reparación
+El contratista tendrá derecho a
 
-de obras existentes, operación de las mismas
+que el Ministerio le reembolse las
 
-cuando proceda. Estas actividades incluyen
+cantidades efectivas que acredite
 
-entre otras, la operación de obras de riego, la
+haber pagado por su ejecución, más
 
-extracción de derrumbes, la limpieza de canales
+el porcentaje que fijen las bases
 
-y acequias, mantención de caminos, de oficinas
+administrativas o sin ningún recargo
 
-y bodegas, mantención de obras de mitigación
+si éstas nada dicen, ello sin
 
-ambiental y de seguridad.
+perjuicio de lo dispuesto en el
+
+#### Artículo 157 bis
+
+del presente
+
+reglamento.
+
+41) Obras de Mantenimiento, conservación
+
+y explotación de obras existentes.
+
+Estas obras corresponden, entre
+
+otras, a mantenimiento, revisión y
+
+eventual reparación de obras
+
+existentes, operación de las mismas
+
+cuando proceda. Estas actividades
+
+incluyen entre otras, la operación
+
+de obras de riego, la
+
+extracción de derrumbes, la limpieza
+
+de canales y acequias,
+
+mantención de caminos, de oficinas
+
+y bodegas, mantención de obras de
+
+mitigación ambiental y de seguridad.
 
 42) Plazo en Días
 
-Cuando en el presente Reglamento se establezcan
+Cuando en el presente Reglamento
 
-plazos en días, se entenderá que se refieren a
+se establezcan plazos en días,
 
-días corridos, salvo que se señale expresamente
+se entenderá que se refieren a
+
+días corridos, salvo que se
+
+señale expresamente
 
 que se trata de días hábiles.
 
 43) Precios Unitarios Convenidos
 
-Los precios unitarios convenidos son los
+Los precios unitarios convenidos
 
-precios ofrecidos en la propuesta del licitante
+son los precios ofrecidos en la
 
-adjudicataria, los que eventualmente podrían
+propuesta del licitante
 
-ser corregidos en el caso que se aplicara el
+adjudicataria, los que
+
+eventualmente podrían
+
+ser corregidos en el caso que
+
+se aplicara el
 
 criterio de Presupuesto Compensado.
 
-44) Libro de Obras: Libro que contiene toda comunicación que el inspector fiscal dirija al contratista en relación al cumplimiento del contrato, además de las anotaciones relativas al desarrollo de un contrato de obras, tales como la resolución de adjudicación del contrato, identificación del inspector fiscal, del profesional residente, subcontratistas que participaron en la obra con sus correspondientes autorizaciones, especialistas que participaron en el contrato de obra, prevencionista de riesgos, etc. Este Libro puede sustentarse en soporte de papel o digital, según lo establezcan las Bases Administrativas del contrato.
+44) Libro de Obras:
+
+Libro que contiene toda comunicación
+
+que el inspector fiscal dirija al
+
+contratista en relación al
+
+cumplimiento del contrato,
+
+además de las anotaciones
+
+relativas al desarrollo de un
+
+contrato de obras,
+
+tales como la resolución de
+
+adjudicación del contrato,
+
+identificación del inspector
+
+fiscal, del profesional residente,
+
+subcontratistas que participaron
+
+en la obra con sus correspondientes
+
+autorizaciones, especialistas que
+
+participaron en el contrato
+
+de obra, prevencionista de riesgos,
+
+etc.
+
+Este Libro puede sustentarse en
+
+soporte de papel o digital,
+
+según lo establezcan las
+
+Bases Administrativas del contrato.
+
+45) Contratistas relacionados:
+
+Tratándose de un contratista persona
+
+natural, se entenderá relacionado con
+
+las personas jurídicas de las cuales
+
+dicha persona forme parte, sea en
+
+calidad de socio de sociedad colectiva
+
+o responsabilidad limitada, como
+
+accionista poseedor de acciones que
+
+representen un 10% o más de su capital,
+
+director, administrador o representante
+
+de sociedad anónima o de otro tipo de
+
+persona jurídica, como socio gestor de
+
+sociedad en comandita simple, como
+
+gerente de sociedad en comandita
+
+por acciones o como agente o
+
+representante de empresa extranjera,
+
+del contratista persona natural
+
+que sea su cónyuge, conviviente
+
+civil y los parientes, ascendientes
+
+o descendientes, hasta el segundo
+
+grado de consanguinidad o afinidad,
+
+o del contratista persona jurídica,
+
+en que alguno de éstos tengan
+
+las calidades antes señaladas.
+
+Igualmente se entenderá que existe
+
+relación, entre las personas jurídicas
+
+y las sociedades que sean socias o
+
+accionistas de aquéllas, y entre las
+
+personas jurídicas en que una o más
+
+de las personas naturales o jurídicas,
+
+que las integren, en cualquiera de
+
+las calidades señaladas en el inciso
+
+anterior, formen a su vez parte de
+
+la otra, además, en los casos de
+
+sociedades filiales y coligadas
+
+según lo previsto en los artículos
+
+86 y 87 de la ley Nº 18.046, Ley
+
+sobre Sociedades Anónimas. Asimismo,
+
+se considerarán contratistas
+
+relacionados, las personas jurídicas
+
+distintas, en las que existan cónyuges,
+
+convivientes civiles y parientes,
+
+ascendientes o descendientes, hasta
+
+el segundo grado de consanguinidad o
+
+afinidad, que tengan en éstas las
+
+calidades indicadas en el presente
+
+numeral, relativas a la participación
+
+social o accionaria, administración,
+
+gestión o representación.
 
 ## Título II
 
@@ -636,9 +996,11 @@ organización, con indicación de la información correspondiente a las letras a
 
 k) Copia o fotocopia legalizada de la declaración de impuesto anual a la Renta, correspondiente al año tributario respectivo;
 
-l) Autorización del contratista para que el El Jefe del Departamento de Registros pueda solicitar al SII una certificación de su declaración de renta, y
+l) Autorización del contratista para que el El Jefe del Departamento de Registros pueda solicitar al SII una certificación de su declaración de renta;
 
-m) Cualquier otra información que pueda exigir el Ministerio para precisar, aclarar o verificar la idoneidad del contratista en relación a lo establecido en las letras anteriores.
+m) Declaración jurada mediante la cual se deje constancia de la singularización de los contratistas con que se encuentra relacionado, según lo definido en el Nº 45 del artículo 4º de este reglamento, o de que no se halla en esa circunstancia, y
+
+n) Cualquier otra información que pueda exigir el Ministerio para precisar, aclarar o verificar la idoneidad del contratista en relación a lo establecido en las letras anteriores.
 
 #### Artículo 8
 
@@ -672,9 +1034,11 @@ l) Capacidad económica;
 
 m) Copia o fotocopia legalizada de la declaración de impuesto anual a la Renta, correspondiente al año tributario respectivo;
 
-n) Autorización del contratista para que el Jefe del Departamento de Registros pueda solicitar al SII una certificación de su declaración de renta, y
+n) Autorización del contratista para que el Jefe del Departamento de Registros pueda solicitar al SII una certificación de su declaración de renta;
 
-ñ) Cualquiera otra información que pueda exigir el Ministerio para precisar, aclarar o verificar la idoneidad del contratista en relación a lo establecido en las letras anteriores.
+ñ) Declaración jurada mediante la cual se deje constancia de la singularización de los contratistas con que se encuentra relacionado, según lo definido en el Nº 45 del artículo 4º de este reglamento, o de que no se halla en esa circunstancia, y
+
+o) Cualquiera otra información que pueda exigir el Ministerio para precisar, aclarar o verificar la idoneidad del contratista en relación a lo establecido en las letras anteriores.
 
 #### Artículo 9
 
@@ -694,11 +1058,11 @@ En los llamados a licitación efectuados por la Dirección de Arquitectura del M
 
 #### Artículo 11
 
-Las obras se podrán ejecutar por Consorcio formado por dos o más contratistas inscritos en el Registro, que complementen especialidades, siempre que una vez que se adjudique el contrato formen una sociedad, dentro del plazo de 60 días a contar de la fecha de ingreso del respectivo acto administrativo totalmente tramitado, a la oficina de partes del Servicio correspondiente. El objeto de esta sociedad será la ejecución de la obra pública, y en su constitución deberá establecerse que los contratistas serán fiadores y codeudores solidarios de todas y cada una de las obligaciones que contraiga la nueva sociedad.
+Las obras se podrán ejecutar por Consorcio formado por dos o más contratistas para complementar especialidades y/o capacidad económica, siempre que todos sus integrantes estén inscritos en el Registro y especialidades exigidas en las Bases de Licitación, y que una vez que se adjudique el contrato formen una sociedad, dentro del plazo de 60 días a contar de la fecha de ingreso del respectivo acto administrativo totalmente tramitado, a la oficina de partes del Servicio correspondiente. El objeto de esta sociedad será la ejecución de la obra pública, y en su constitución deberá establecerse que los contratistas serán fiadores y codeudores solidarios de todas y cada una de las obligaciones que contraiga la nueva sociedad. Los contratistas relacionados, según lo establecido en el numeral 45) del artículo 4 del presente reglamento, no podrán conformar un consorcio entre sí.
 
-Los integrantes de un Consorcio así constituido podrán siempre complementar los registros y categorías exigidos, debiendo cada integrante del consorcio desarrollar la parte de la obra correspondiente a su especialidad de acuerdo a lo que se establezca en el Proyecto.
+Los integrantes de un Consorcio así constituido podrán siempre complementar los registros, categorías y/o capacidad económica exigida. Si el Consorcio tiene solo por objeto complementar capacidad económica, sus integrantes deberán estar inscritos en el o los registros exigidos en las Bases de Licitación, de conformidad a lo previsto en el artículo 69 del presente reglamento.
 
-Aquellos contratistas con nota menor a 5,5 en cualquier contrato con el MOP en los últimos 2 años, cuyo desarrollo involucró trabajos pertenecientes a un determinado registro, no podrán formar parte de un Consorcio en ese registro.
+Aquellos contratistas con nota menor a 5,5 en cualquier contrato con el Ministerio de Obras Públicas en los últimos 2 años, no podrán formar parte de un Consorcio.
 
 Los Servicios del Ministerio de Obra Públicas deberán informar al Registro General de Contratistas, indicando el nombre de la obra, nombre de los contratistas que formaron el consorcio y porcentaje de participación que tuvo cada uno de los contratistas que formaron el consorcio en los trabajos pertenecientes a los registros involucrados mediante los cuales se realizó el llamado a licitación para el desarrollo de la obra.
 
@@ -768,7 +1132,7 @@ b) Aporte de experiencia: experiencia acreditada por las personas que integran s
 
 Todo lo anterior, siempre y cuando los integrantes del equipo gestor posean un título profesional relacionado con alguna de las especialidades de este Registro, y que puedan acreditar la calidad profesional requerida para cada registro al cual, o a los cuales, desee inscribirse. No se considerará como experiencia propia ni como aporte de experiencia aquella acreditada con fecha anterior a la de la titulación de un profesional.
 
-En el caso de un contratista constituido únicamente por personas jurídicas, podrá también reconocerse como experiencia propia, además de la del equipo gestor que la constituye, aquella experiencia propia que le proporcionan las sociedades que la integran como socios directos.
+En el caso de un contratista constituido únicamente por personas jurídicas, podrá también reconocerse como experiencia propia, además de la del equipo gestor que la constituye, aquella experiencia propia que le proporcionan las sociedades que la integran como socios directos, salvo que se trate de experiencia de contratistas relacionados que se encuentren inscritos en el Registro.
 
 Cuando el profesional que aporte su experiencia personal al contratista haya permanecido fuera de la práctica profesional por un período igual o superior a 5 años ininterrumpidos, para el cómputo de su experiencia se considerará la acumulada a partir de la fecha en que retomó su práctica profesional, más un porcentaje de la acumulada antes de su alejamiento de la práctica profesional; este porcentaje será igual a 90% si el alejamiento fue de 5 años, y decrecerá en 10% por cada año adicional, de modo que luego de 14 años, se llega a 0%.
 
@@ -1008,8 +1372,6 @@ Para los diversos registros, se considerarán como obras de primera, segunda y t
 
 El contratista al momento de su inscripción en el Registro de Obras Mayores, deberá acreditar tener una capacidad económica mínima equivalente al 15% de los límites superiores señalados en el artículo 28 para cada categoría de obra.
 
-El Ministerio de Obras Públicas podrá llamar a licitación como obras de primera categoría -sin recurrir a Registros Especiales- para la contratación de obras cuyo presupuesto estimativo no exceda de 480.000 Unidades Tributarias Mensuales; pudiendo las empresas, con registro vigente en dicha categoría, constituir un consorcio regido por el artículo 11 de este Reglamento, permitiendo complementar sus capacidades económicas, para participar en el proceso de licitación.
-
 Para acreditar la capacidad económica mínima exigida, el contratista deberá presentar estados financieros preparados conforme a principios contables generalmente aceptados, con revisión efectuada por auditores externos con inscripción vigente en la Superintendencia de Valores y Seguros.
 
 Los contratistas que soliciten su inscripción o presenten actualización de su capacidad económica en el Registro de Obras Mayores, deberán entregar estados financieros con auditorías completas al 31 de diciembre del año inmediatamente anterior.
@@ -1108,13 +1470,17 @@ Cuando la solicitud de modificación sea reparada por el MOP debido a incumplimi
 
 #### Artículo 41
 
-Un contratista no podrá inscribirse en más de una categoría de un mismo registro, sea como persona natural o como integrante del equipo gestor de una sociedad constructora. Igualmente, no podrán inscribirse en un mismo registro, contratistas con uno o más socios, directores, o profesionales comunes. Igual prohibición regirá para las sociedades que sean socios o accionistas de otras sociedades, para aquellas sociedades cuyo uso de la razón social corresponda a una misma persona y para aquellas personas que tengan el uso de la razón social.
+Un contratista no podrá inscribirse en más de una categoría de un mismo registro, sea como persona natural o como integrante del equipo gestor de una sociedad constructora.
 
-No obstante lo anterior, un Contratista que postula a inscripción o está inscrito en el Registro podrá poseer acciones de una sociedad anónima abierta e inscrita en el Registro, siempre y cuando su posesión accionaria sea inferior al 10 % y cuando ésta en definitiva no se constituya en "Inversiones Permanentes en Otras Empresas". Las Inversiones Permanentes en Otras Empresas son aquellas referentes a acciones o derechos en sociedades, que se mantienen con el objeto de ejercer control o influencia significativa en la empresa en que se invierte, según lo definido en los Boletines Técnicos pertinentes del Colegio de Contadores.
+No obstante lo consignado en el inciso primero de este artículo, los expertos, profesionales o técnicos en prevención de riesgos podrán suscribir contratos a jornada parcial hasta con un total de tres (3) empresas inscritas en 2da. y/o 3era. (A o B) categorías de un mismo registro.
 
-No obstante lo consignado en el inciso primero de este artículo, los expertos, profesionales o técnicos en prevención de riesgos podrán suscribir contratos a jornada parcial hasta con un total de tres (3) empresas inscritas en 2da. y/o 3era. (A o B) categorías de un mismo registro. Las personas que hayan sido condenadas por crimen o delito que merezcan pena aflictiva, sólo podrán inscribirse o modificar su inscripción una vez transcurridos 2 años del término del cumplimiento de la pena. Podrá rechazarse la solicitud de inscripción, o modificación de una persona que hubiere sido condenada por delito de menor gravedad que los que merecen pena aflictiva, siempre que por su naturaleza, o el bien jurídico protegido, se estimare que afectan la idoneidad profesional del contratista, o la aptitud y responsabilidad de la empresa considerada como ente económico. Los mismos criterios se aplicarán a personas que estando inscritas en uno o más registros, cometieren un delito en las condiciones descritas.
+Las personas que hayan sido condenadas por crimen o delito que merezcan pena aflictiva, sólo podrán inscribirse o modificar su inscripción una vez transcurridos 2 años del término del cumplimiento de la pena. Podrá rechazarse la solicitud de inscripción, o modificación de una persona que hubiere sido condenada por delito de menor gravedad que los que merecen pena aflictiva, siempre que por su naturaleza, o el bien jurídico protegido, se estimare que afectan la idoneidad profesional del contratista, o la aptitud y responsabilidad de la empresa considerada como ente económico. Los mismos criterios se aplicarán a personas que estando inscritas en uno o más registros, cometieren un delito en las condiciones descritas.
 
 Las normas de los incisos precedentes serán aplicables a las personas jurídicas cuando alguno de sus socios, directores o profesionales integrantes de su equipo gestor estuviere afectado por las causales de inhabilidad indicadas.
+
+Sin perjuicio de lo dispuesto en el artículo 42 de este reglamento, las personas naturales o jurídicas inscritas en el Registro General de Contratistas deberán comunicarle al Jefe/a del Registro, dentro de los treinta días siguientes a su perfeccionamiento, la incorporación o participación en otra empresa contratista o cualquier cambio en su estructura, conformación o administración que configuren alguna de las figuras previstas en la definición de contratistas relacionados.
+
+En caso que la comunicación señalada en el inciso anterior, no se realice, o se efectúe con posterioridad al plazo establecido, los contratistas afectados serán suspendidos automáticamente del Registro por un plazo de 6 meses, contados desde la verificación de dicha circunstancia por el Jefe/a del Registro.
 
 #### Artículo 42
 
@@ -1146,21 +1512,29 @@ Sin perjuicio de las sanciones mencionadas en otros Artículos de este Reglament
 
 1) Sanciones por mala calificación en la gestión del contratista, en relación a la obra ejecutada:
 
-a) El contratista inscrito en el Registro de Obras
+a) El contratista inscrito en el
 
-Mayores, o en el de Obras Menores, que en un
+Registro de Obras Mayores, o en el
 
-contrato obtenga una calificación con nota
+de Obras Menores, que en un
 
-inferior a 4,5 será rebajado automáticamente en
+contrato obtenga una calificación
 
-una categoría, en los registros que hubieren
+con nota inferior a 4,5 será
 
-sido exigidos para el contrato en que obtuvo
+rebajado automáticamente en
 
-tal calificación, o será suspendido por un
+una categoría, en los registros
 
-año si está inscrito en la última categoría de
+que hubieren sido exigidos para
+
+el contrato en que obtuvo tal
+
+calificación, o será suspendido
+
+por unaño si está inscrito
+
+en la última categoría de
 
 un registro;
 
@@ -1168,11 +1542,15 @@ b) El contratista que obtenga dos
 
 calificaciones dentro de un período
 
-cualquiera de 5 años, con notas inferiores a
+cualquiera de 5 años, con
 
-4,5 en contratos que incluyan un mismo
+notas inferiores a 4,5 en
 
-registro, será suspendido por dos años de ese
+contratos que incluyan un mismo
+
+registro, será suspendido
+
+por dos años de ese
 
 registro;
 
@@ -1180,195 +1558,351 @@ c) El contratista que obtenga tres
 
 calificaciones dentro de un período
 
-cualquiera de 5 años, con nota inferior a 4,5
+cualquiera de 5 años, con nota
 
-será suspendido por dos años del Registro de
+inferior a 4,5 será suspendido
 
-Obras Mayores o Menores, según sea el caso.
+por dos años del Registro de
+
+Obras Mayores o Menores,
+
+según sea el caso.
 
 Sin perjuicio de lo anterior, si el
 
-contratista al momento de caer en una sanción
+contratista al momento de caer
 
-de suspensión mantiene en ejecución contratos
+en una sanción de suspensión
 
-con el Ministerio, éstos deberán ser
+mantiene en ejecución contratos
 
-ejecutados hasta su total terminación,
+con el Ministerio, éstos
+
+deberán ser ejecutados hasta
+
+su total terminación,
 
 conforme a lo convenido;
 
-d) El contratista que tenga un promedio de nota
+d) El contratista que tenga un
 
-inferior a 5,5 no podrá inscribirse en
+promedio de nota inferior a 5,5
 
-Registros Especiales ni conformar consorcios.
+no podrá inscribirse en
 
-El promedio se obtendrá entre todas las notas
+Registros Especiales ni
 
-asignadas en los dos años anteriores a la
+conformar consorcios.
 
-fecha del llamado a inscripción de ese
+El promedio se obtendrá entre
 
-Registro o de la formación del consorcio.
+todas las notas asignadas en los
 
-Tampoco podrá inscribirse en este Registro ni
+dos años anteriores a la
 
-formar consorcios, el contratista que esté
+fecha del llamado a inscripción
 
-afecto a algunas de las sanciones definidas
+de ese Registro o de la
 
-en la letra b) o c) de este numeral.
+formación del consorcio.
 
-2) Sanciones por no cumplimiento oportuno de
+Tampoco podrá inscribirse en
 
-suscripción o protocolización de
+este Registro ni formar consorcios,
 
-transcripciones del decreto o resolución que
+el contratista que esté
+
+afecto a algunas de las sanciones
+
+definidas en la letra b) o c)
+
+de este numeral.
+
+2) Sanciones por no cumplimiento
+
+oportuno de suscripción o
+
+protocolización de
+
+transcripciones del decreto o
+
+resolución que
 
 aprueba el contrato:
 
-Si el contratista no suscribe ni protocoliza
+Si el contratista no suscribe
 
-las transcripciones del contrato, tal como lo
+ni protocoliza las transcripciones
 
-señalan los artículos 90 y 95, dentro de los
+del contrato, tal como lo
 
-plazos que en ellos se indican, y sin
+señalan los artículos 90 y 95,
 
-perjuicio de lo allí señalado, será
+dentro de los plazos que en
 
-suspendido del Registro General de
+ellos se indican, y sin
 
-Contratistas, hasta por un período de un año,
+perjuicio de lo allí señalado,
 
-y a solicitud del Servicio correspondiente.
+será suspendido del Registro
 
-3) Sanciones por no presentación o renovación de
+General de Contratistas, hasta
 
-la boleta bancaria o póliza de seguro:
+por un período de un año,
 
-Si el contratista - cuyo contrato se aceptó -
+y a solicitud del Servicio
 
-no presenta o renueva la boleta bancaria o
+correspondiente.
 
-póliza de seguro, según se establece en los
+3) Sanciones por no presentación o
 
-artículos 96 o 158 respectivamente, el
+renovación de la boleta bancaria
 
-contratista será suspendido del Registro,
+o póliza de seguro:
 
-hasta por un período de un año, previa
+Si el contratista - cuyo contrato
 
-solicitud del Servicio correspondiente.
+se aceptó - no presenta o renueva
+
+la boleta bancaria o póliza de
+
+seguro, según se establece en los
+
+artículos 96 o 158
+
+respectivamente, el
+
+contratista será suspendido
+
+del Registro, hasta por un
+
+período de un año, previa
+
+solicitud del Servicio
+
+correspondiente.
 
 4) Sanciones por no cumplimiento de las siguientes
 
 obligaciones:
 
-4.1) Ante un cambio en su constitución legal, no
+4.1) Ante un cambio en su
 
-informado por el contratista, en el plazo
+constitución legal, no
 
-que se establece en el artículo 42° del
+informado por el
 
-Reglamento, el Registro aplicará al
+contratista, en el plazo
 
-contratista la medida de suspensión
+que se establece en el
 
-automática de tres meses, en todos sus
+#### Artículo 42°
 
-registros, salvo que al contratista se le
+del
 
-hubiere adjudicado un contrato, en cuyo
+Reglamento, el Registro
 
-caso la suspensión podrá ampliarse hasta
+aplicará al contratista
 
-seis meses. No se aplicará la sanción
+la medida de suspensión
 
-señalada cuando las modificaciones legales
+automática de tres meses,
 
-recaigan en cláusulas no esenciales del
+en todos sus registros, salvo
 
-contrato de sociedad y no afecten la
+que al contratista se le
 
-inscripción del contratista en el Registro.
+hubiere adjudicado un
 
-4.2) Ante un cambio producido en su staff
+contrato, en cuyo
 
-profesional que incluye los profesionales
+caso la suspensión podrá
 
-del equipo gestor del contratista, no
+ampliarse hasta seis meses. No
 
-informado por el contratista en el plazo que
+se aplicará la sanción
 
-se establece en el artículo 42° del
+señalada cuando las
 
-Reglamento, el Registro procederá de acuerdo
+modificaciones legales
 
-a una de las siguientes maneras:
+recaigan en cláusulas no
 
-a) Si la persona que se alejó de la planta
+esenciales del contrato de
 
-profesional del contratista permitía la
+sociedad y no afecten la
 
-calificación de éste en determinado
+inscripción del contratista
 
-registro y/o en determinada
+en el Registro.
 
-categoría, al contratista se le aplicará
+4.2) Ante un cambio producido
 
-la suspensión automática en los registros
+en su staff profesional que
 
-correspondientes, por un período de tres
+incluye los profesionales
 
-meses. Sin embargo, si el contratista
+del equipo gestor del
 
-demuestra con documentos fehacientes que
+contratista, no
 
-en reemplazo del profesional que se alejó
+informado por el contratista
 
-contrató desde el inicio de la falta un
+en el plazo que
 
-profesional que cumpla con todas las
+se establece en el artículo
 
-características profesionales y de
+42° del Reglamento, el Registro
 
-ejercicio de la profesión exigidas en
+procederá de acuerdo
 
-el Reglamento, en este caso el
+a una de las siguientes
 
-contratista permanecerá suspendido sólo
+maneras:
 
-por el período necesario para que el
+a) Si la persona que se alejó
 
-Registro pueda certificar en forma
+de la planta profesional del
+
+contratista permitía la
+
+calificación de éste en
+
+determinado registro y/o en
+
+determinada categoría, al
+
+contratista se le aplicará
+
+la suspensión automática en
+
+los registros
+
+correspondientes,
+
+por un período de tres
+
+meses. Sin embargo, si el
+
+contratista demuestra con
+
+documentos fehacientes que
+
+en reemplazo del profesional
+
+que se alejó contrató desde
+
+el inicio de la falta un
+
+profesional que cumpla con
+
+todas las características
+
+profesionales y de
+
+ejercicio de la profesión
+
+exigidas en el Reglamento,
+
+en este caso el contratista
+
+permanecerá suspendido sólo
+
+por el período necesario
+
+para que el Registro pueda
+
+certificar en forma
 
 satisfactoria dicho cambio.
 
-b) Si el contratista adicionalmente se
+b) Si el contratista
 
-adjudicó algún contrato en el período
+adicionalmente se
 
-de la falta, la medida de suspensión
+adjudicó algún contrato
 
-podrá ampliarse hasta seis meses, a
+en el período de la falta,
 
-menos que el contratista justifique en
+la medida de suspensión
 
-dicho período la contratación de algún
+podrá ampliarse hasta seis
 
-profesional de reemplazo que
+meses, a menos que el
 
-cumpla con todas las características
+contratista justifique en
 
-profesionales y de ejercicio de la
+dicho período la contratación
 
-profesión exigidas en el Reglamento;
+de algún profesional de
 
-en este caso, la suspensión será sólo
+reemplazo que
+
+cumpla con todas las
+
+características
+
+profesionales y de
+
+ejercicio de la
+
+profesión exigidas en el
+
+Reglamento; en este caso,
+
+la suspensión será sólo
 
 de tres meses.
+
+4.3) Si el contratista no realiza
+
+o efectúa con posterioridad
+
+al plazo dispuesto en el
+
+#### Artículo 41
+
+de este reglamento,
+
+la comunicación que dicho
+
+precepto establece, será
+
+suspendido automáticamente
+
+del Registro por un plazo
+
+de 6 meses, contados desde
+
+la verificación de dicha
+
+circunstancia por el Jefe/a
+
+del Registro.
+
+4.4) Si el contratista participa
+
+o se le adjudica una licitación
+
+en contravención a lo previsto
+
+en el artículo 68 de este
+
+reglamento, se le suspenderá
+
+del Registro por un plazo de
+
+5 años. En estos casos, la
+
+sanción de suspensión será
+
+aplicada por la Comisión del
+
+Registro, previo estudio de
+
+los antecedentes presentados
+
+por el contratista.
 
 5) Sanciones por presentación de documentación falsificada:
 
@@ -1528,6 +2062,14 @@ DE LAS LICITACIONES
 
 La licitación será autorizada por la autoridad que corresponda, en relación al monto del presupuesto estimativo u oficial de la obra, de acuerdo al Reglamento de Montos dictado en conformidad a lo dispuesto en el artículo 85 del D.F.L. MOP. Nº 850, de 1997. El llamado a licitación lo hará el Director General o el Secretario Regional, según proceda, siempre que haya autorización de fondos y se disponga de los antecedentes establecidos en el artículo 2º.
 
+No podrán participar en una misma licitación contratistas relacionados, ya sea individualmente o formando parte de un consorcio entre sí o con otro contratista.
+
+La infracción de lo dispuesto en el inciso anterior dará lugar a que la respectiva Comisión de Evaluación excluya a los contratistas afectados de la respectiva licitación. Adicionalmente, se les suspenderá del Registro por un plazo de 5 años. En estos casos, la sanción de suspensión será aplicada por la Comisión del Registro, previo estudio de los antecedentes presentados por el contratista.
+
+En caso que se tome conocimiento de la infracción con posterioridad a la adjudicación, se aplicará una multa equivalente al 25% del valor de la boleta o póliza de garantía que caucione su cumplimiento, quedando la Dirección facultada para poner término anticipado al contrato. La indicada multa se descontará del estado de pago siguiente al de su aplicación. Todo lo anterior sin perjuicio de la suspensión en el Registro indicada en el inciso anterior.
+
+De contemplarse un procedimiento previo de cotización, destinado a la contratación por trato directo, cuando dicha forma de contratación proceda conforme la normativa vigente, la Dirección deberá velar por que las empresas convocadas no se encuentren relacionadas, consultando para estos efectos al Registro de Contratistas.
+
 #### Artículo 69
 
 Para participar en una licitación y para la adjudicación de un contrato, el contratista deberá encontrarse con su inscripción vigente en el registro o en los registros de Obras Mayores o de Obras Menores del Registro General de Contratistas que se determine en las bases administrativas, o haber sido aceptado en el Registro Especial indicado en el artículo 10 si es el caso.
@@ -1539,8 +2081,6 @@ Los contratistas inscritos en una categoría del registro, superior a la indicad
 Los contratistas inscritos en el Registro de Obras Mayores quedarán habilitados para desempeñarse como contratistas de Obras Menores en los registros equivalentes definidos en la tabla de equivalencias entre registros de contratistas, que se menciona en el artículo 63 de este Reglamento.
 
 Los contratistas de cada categoría en que se divide el registro de obras mayores, que no sea la primera, y de cada categoría en que se divide el registro de obras menores, podrán postular a licitaciones y a contratos cuyo presupuesto estimativo corresponda hasta un máximo de un 30% del rango que conforma la categoría inmediatamente superior a aquella en que se encontraren registrados.
-
-Para ejercer la facultad establecida en el inciso anterior, dos o más contratistas inscritos en una misma categoría podrán constituir un consorcio para alcanzar la capacidad económica requerida por la obra correspondiente.
 
 #### Artículo 70
 
@@ -1594,7 +2134,7 @@ Las propuestas deberán presentarse en idioma español, las medidas en unidades 
 
 En el sobre Propuesta Técnica el proponente incluirá los antecedentes siguientes:
 
-a) Nómina de la totalidad de las obras ya iniciadas o por iniciarse, que tenga contratadas para ser ejecutadas durante los 12 meses siguientes a la fecha de apertura de la licitación, incluidas aquellas en que intervenga en calidad de socio de un consorcio.
+a) Nómina de la totalidad de las obras ya iniciadas o por iniciarse, que tenga contratadas para ser ejecutadas durante los 12 meses siguientes a la fecha de apertura de la licitación, incluidas aquellas en que intervenga en calidad de socio de un consorcio, u otra forma de asociación, tal como la unión temporal de proveedores contemplada en el decreto supremo Nº 250, de 2004, del Ministerio de Hacienda, que aprueba el reglamento de la Ley 19.886 de Bases sobre Contratos Administrativos y Prestación de Servicios.
 
 Estos contratos podrán ser con particulares o con el Fisco, servicios, organismos, instituciones o empresas del Estado, fiscales, semifiscales, municipales o autónomas, y sociedades en que el Estado tenga representación o aporte mayoritario. Deberán indicarse sus montos iniciales, obra ejecutada y saldo por ejecutar actualizado, de acuerdo al último índice conocido que afecte al reajuste de dichos contratos.
 
@@ -1608,6 +2148,8 @@ b) Declaración que consigne lo siguiente:
 
 3) Estar conforme con las condiciones generales del proyecto.
 
+4) La intención del contratista, que del total del personal ocupado en la obra, un porcentaje no inferior al 10% o el que se defina en los documentos de la licitación, será femenino, compuesto por mujeres profesionales, técnicas o trabajadoras con o sin calificación.
+
 c) Programa de Trabajo, en forma de carta Gantt con relación de precedencia, o en el formato especial que se entregue con el Proyecto para este objeto, en el que se indicarán las fechas de inicio y término de las diversas secciones o etapas de la obra, y el que deberá incluir todos los distintos ítem de la licitación. Si el Proyecto así lo requiere, en esta etapa deberá entregarse un programa detallado, aplicando un método de programación del tipo "ruta crítica", incluyendo todos los ítem, cantidades de obras, el camino crítico, las holguras principales y toda la información pertinente a este tipo de métodos de programación.
 
 d) Si se solicita en las bases administrativas: lista de los elementos, maquinarias y equipos con que contará para ejecutar las obras, sean propios o arrendados, según requerimiento del Proyecto.
@@ -1618,13 +2160,17 @@ Respecto a los profesionales descritos en el inciso anterior, una vez adjudicado
 
 f) Programa Mensual de Inversiones o necesidades de fondos para el normal desarrollo de la obra, de acuerdo con el programa de trabajo, expresada en porcentajes del valor de la propuesta.
 
-g) Otros antecedentes que puedan requerirse en las bases de licitación.
+g) Declaración jurada que acredite tener actualizada la información indicada en el inciso quinto del artículo 41 del presente reglamento.
 
-h) Podrá exigirse en las bases administrativas de la licitación, si la Dirección lo estima conveniente, que los proponentes entreguen una boleta bancaria, para garantizar la seriedad de sus ofertas, la que deberá tener una vigencia de seis meses contados desde la fecha del acto de apertura, salvo que las bases establezcan una vigencia distinta. Las bases administrativas determinarán el monto de dicha garantía y, a falta de determinación, corresponderá al 2% del monto del presupuesto oficial o estimado, y se devolverá a los proponentes cuando la propuesta se haya adjudicado. Sin embargo, al contratista favorecido con la propuesta se le devolverá una vez constituida la garantía definitiva del contrato.
+h) Otros antecedentes que puedan requerirse en las bases de licitación.
+
+i) Podrá exigirse en las bases administrativas de la licitación, si la Dirección lo estima conveniente, que los proponentes entreguen una boleta bancaria, para garantizar la seriedad de sus ofertas, la que deberá tener una vigencia de seis meses contados desde la fecha del acto de apertura, salvo que las bases establezcan una vigencia distinta. Las bases administrativas determinarán el monto de dicha garantía y, a falta de determinación, corresponderá al 2% del monto del presupuesto oficial o estimado, y se devolverá a los proponentes cuando la propuesta se haya adjudicado. Sin embargo, al contratista favorecido con la propuesta se le devolverá una vez constituida la garantía definitiva del contrato.
 
 La falta de presentación de cualquiera de los antecedentes antes mencionados, lo excluirá de la licitación.
 
 La omisión de cualquier obra que el proponente esté ejecutando o en vías de iniciar, en la nómina a la que se refiere la letra a) de este artículo, será causal suficiente para no considerar o rechazar una propuesta.
+
+Las medidas previstas en el inciso anterior, no procederán cuando la o las obras omitidas de la mencionada nómina hayan sido contratadas por el MOP, caso en el que la información referida a los montos iniciales, obra ejecutada y saldo por ejecutar actualizado, de el o los contratos preteridos, se deberá recabar, por la Comisión de Evaluación, directamente desde los sistemas informáticos de que dispone el MOP o en su defecto, requiriéndola a las demás direcciones que de él dependen, adicionando esos antecedentes, a los demás que haya proporcionado el contratista para la determinación de la capacidad económica mínima disponible, defínida en el artículo 73 del presente reglamento.
 
 2. Propuesta Económica
 
@@ -1880,11 +2426,13 @@ En los contratos a serie de precios unitarios, el Ministerio podrá disminuir la
 
 Esta disminución podrá también efectuarse en los contratos a suma alzada, en las condiciones indicadas, siempre que se trate de modificaciones del proyecto contratado y que la disminución comprenda partidas o porcentajes de ellas perfectamente determinadas y valorizadas. En ambos casos se rebajará el valor del contrato, en la proporción que concierna o de acuerdo al procedimiento que indiquen las bases administrativas.
 
-El Ministerio podrá, además, aumentar en los contratos a serie de precios unitarios las cantidades de obras hasta en un 30% de cada partida del presupuesto, en cuyo caso el contratista tendrá derecho a su pago, a los precios unitarios convenidos en el contrato, según se definen en el número 43º del artículo 4, y a un aumento del plazo proporcional al aumento que haya tenido el contrato inicial. Sin embargo, podrá disponer de un plazo diferente al señalado, por resolución fundada de la autoridad pertinente. Este aumento de hasta 30% se aplicará asimismo, a los montos de cada partida de los Valores pro forma señalados en el presupuesto oficial.
+El Ministerio podrá, además, aumentar en los contratos a serie de precios unitarios las cantidades de obras hasta en un 30% de cada partida del presupuesto, en cuyo caso el contratista tendrá derecho a su pago, a los precios unitarios convenidos en el contrato, según se definen en el número 43º del artículo 4, y a un aumento del plazo proporcional al aumento que haya tenido el contrato inicial. Sin embargo, podrá disponer de un plazo diferente al señalado, por resolución fundada de la autoridad pertinente. El límite de aumento hasta el 30% no se aplicará a las partidas contratadas como valores pro forma, sin perjuicio de lo cual, para la incorporación de nuevas partidas que tengan esta naturaleza, no contempladas en el presupuesto oficial, se requerirá aprobación previa de la Dirección General de Obras Públicas, debiendo el acto administrativo que apruebe dichas modificaciones ser resuelto por la autoridad que corresponda, de acuerdo al Reglamento de Montos, aprobado por el decreto supremo Nº 1.093, de 2003, del Ministerio de Obras Públicas.
 
 #### Artículo 103
 
 En caso de urgencia, a solicitud escrita del inspector fiscal, y con aprobación previa de la autoridad que corresponda, como Orden de Ejecución Inmediata según el Reglamento de Montos del MOP, letra A, número 2.5, podrá acordarse con el contratista, de acuerdo a lo contemplado en los artículos 102 y 104, la ejecución de aumentos en las cantidades de obras del contrato, sin esperar la dictación y tramitación de la resolución respectiva, y la emisión de las garantías establecidas en el inciso 4 del artículo 96 de este Reglamento.
+
+Si la ejecución del aumento de obras resulta indispensable para la continuidad de los trabajos o en el evento que los trámites y gestiones necesarios para la dictación de la resolución que apruebe la modificación provoque la paralización temporal, total o parcial, de éstos y a fin de evitar que ello ocurra, podrá, de igual forma a la señalada precedentemente, acordarse con el contratista su materialización inmediata.
 
 El Ministerio podrá autorizar el pago a cuenta hasta del 80% de las obras realizadas, imputándolo provisoriamente al contrato, mientras se dicta la resolución y se suscribe y protocoliza dicho instrumento, en el entendido que ese pago, para todos los efectos se considera como anticipo, sirviendo las retenciones y garantía para responder o restituir este anticipo.
 
@@ -2240,9 +2788,9 @@ Si alguno de los mencionados defectos proviene de errores en los diseños sumini
 
 La Dirección podrá poner término administrativamente y en forma anticipada a uno o más contratos en los siguientes casos:
 
-a) Si el contratista o alguno de los socios de la empresa contratista fuera condenado por delito que merezca pena aflictiva, o tratándose de una sociedad anónima, lo fuese alguno de los directores o el gerente;
+a) Si el contratista o alguno de los socios de la empresa contratista fuera condenado por delito que merezca pena aflictiva, o tratándose de una sociedad anónima, lo fuese alguno de los directores o el gerente, o el contratista persona jurídica, fuera condenado por alguno de los delitos previstos en la ley Nº 20.393, que establece la responsabilidad penal de las personas jurídicas en los delitos que indica. Asimismo, esta determinación se adoptará en el caso que al contratista, sea persona natural o jurídica, se le imponga la inhabilitación dispuesta en el artículo 33 de la Ley Nº 21.595, de Delitos Económicos;
 
-b) Si el contratista fuere declarado en quiebra, o le fueren protestados documentos comerciales, que se mantuvieren impagos durante más de 60 días o no fueren debidamente aclarados dentro de dicho plazo;
+b) Si el contratista fuere declarado en liquidación forzosa o voluntaria, de conformidad a lo dispuesto en la ley Nº 20.720, que sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la Superintendencia del ramo, o le fueren protestados documentos comerciales, que se mantuvieren impagos durante más de 60 días o no fueren debidamente aclarados dentro de dicho plazo;
 
 c) Si el contratista no concurriere, dentro del plazo establecido en el artículo 137, a la entrega del terreno y trazado de la obra;
 
@@ -2258,9 +2806,11 @@ g) Si por error en la ejecución de los trabajos la obra quedara con defectos gr
 
 h) Cuando la Dirección de común acuerdo con el contratista, resuelve liquidar anticipadamente el contrato;
 
-i) Si el contratista empleare subcontratistas en la ejecución de las obras sin haber obtenido la autorización correspondiente, y
+i) Si el contratista empleare subcontratistas en la ejecución de las obras sin haber obtenido la autorización correspondiente;
 
-j) Si el contratista se hubiere adjudicado el contrato estando en situación de incumplimiento con los requisitos establecidos por este Reglamento para mantener vigente su clasificación en el Registro de Contratistas.
+j) Si el contratista se hubiere adjudicado el contrato estando en situación de incumplimiento con los requisitos establecidos por este Reglamento para mantener vigente su clasificación en el Registro de Contratistas, y
+
+k) Si se toma conocimiento, con posterioridad a la adjudicación, que en la licitación respectiva participó un contratista relacionado con el que se adjudicó el contrato, de conformidad a lo previsto en el artículo 68 del presente reglamento. En este caso, de haberse aplicado la multa prevista en dicha disposición, no se impondrá la sanción señalada en el inciso segundo del artículo 152 del presente reglamento.
 
 #### Artículo 152
 
@@ -2288,7 +2838,9 @@ También será requisito para cursar un estado de pago, que el contratista entre
 
 Los estados de pago en contratos a suma alzada o a precios unitarios serán informados por el contratista cuando se hayan ejecutado por lo menos las cantidades de obras que se establezcan en las bases y que consten en un avance de obra firmado y fechado por el inspector fiscal. Los estados de pago deberán llevar las firmas del inspector fiscal y del Jefe del Departamento Nacional correspondiente o del Director Regional, así como del contratista o un representante oficial de éste.
 
-El estado de pago será fechado el día que firme el Jefe de Departamento Nacional o el Director Regional.
+El estado de pago será fechado el día que firme el Jefe de Departamento Nacional o el Director Regional, quedando el contratista, a partir de esa fecha, habilitado para emitir la factura correspondiente, la que, sin perjuicio de lo anterior, podrá, de resultar procedente, ser reclamada por el MOP en los términos dispuesto en el artículo 3º de la ley Nº 19.983, que regula la transferencia y otorga mérito ejecutivo a copia de la factura.
+
+El contratista que emita la factura previo a que el estado de pago se encuentre fechado, será sancionado con una multa ascendente al 10% del valor, excluido el impuesto al valor agregado, de la factura que se emita en contravención a lo dispuesto en el inciso anterior.
 
 Los estados de pago en los contratos a serie de precios unitarios se formularán por las cantidades de obras efectivamente ejecutadas y a los precios del presupuesto convenido en el contrato.
 
@@ -2308,17 +2860,37 @@ Todos los pagos efectuados al contratista, en exceso, deberán ser devueltos por
 
 #### Artículo 156
 
-Los estados de pago que no sean pagados dentro de los 30 días siguientes a su fecha, devengarán, a contar del término de dicho plazo y hasta la fecha efectiva de pago, como único interés, el interés corriente que para operaciones reajustables en moneda nacional determina la Superintendencia de Bancos e Instituciones Financieras, sobre la suma a pagar. Se considerará como fecha del estado de pago la que fija el inciso 2° del artículo 154 y como fecha de pago la del cheque correspondiente.
+La factura que no se pague dentro de los 30 días contados desde su recepción por parte del Servicio correspondiente, devengará, a contar del término de dicho plazo y hasta la fecha efectiva de pago, el interés que se prevé en el artículo 2º bis de la mencionada ley Nº 19.983, y asimismo, el MOP deberá pagar la comisión fija que dicha ley establece en el artículo 2º ter.
+
+Lo precedentemente dispuesto no procederá, de haberse reclamado la factura por el MOP de conformidad a la ley.
 
 #### Artículo 157
 
-Se podrá incluir en las bases administrativas una cláusula mediante la cual se autorice la concesión de anticipo a cuenta del precio de la obra y se establezca el sistema de su devolución. El anticipo no podrá ser de un monto superior al 50 % del valor del contrato primitivo y se otorgará siempre que el contratista lo caucione con boleta bancaria, o una póliza de seguro cuando las bases administrativas lo autoricen, por un valor equivalente expresado en unidades de fomento, cuyo plazo de vigencia será el del contrato, más seis meses. Este anticipo se deberá devolver reajustado de acuerdo con el sistema de reajuste del contrato, considerando para este efecto el mes anterior a su devolución, salvo que las bases administrativas fijen uno distinto.
+Se podrá incluir en las bases administrativas una cláusula mediante la cual se autorice la concesión de anticipo a cuenta del precio de la obra y se establezca el sistema de su devolución. El anticipo no podrá ser de un monto superior al 50 % del valor del contrato primitivo y se otorgará siempre que el contratista lo caucione con boleta bancaria, o una póliza de seguro cuando las bases administrativas lo autoricen, por un valor equivalente expresado en unidades de fomento, cuyo plazo de vigencia será el del contrato, más seis meses. Dicha garantía podrá reducirse a solicitud del contratista hasta el monto pendiente de amortizar, debiendo serle reintegrada una vez devuelta en su totalidad la suma anticipada. Este anticipo se deberá devolver reajustado de acuerdo con el sistema de reajuste del contrato, considerando para este efecto el mes anterior a su devolución, salvo que las bases administrativas fijen uno distinto.
 
 Las bases administrativas establecerán el procedimiento de devolución del anticipo. Si ellas nada expresan, éste se devolverá reajustado en cuotas iguales y sucesivas, a partir del segundo estado de pago, debiendo quedar totalmente amortizado en el penúltimo dentro del plazo contractual.
 
 Dentro del plazo de 30 días, contados desde la fecha que indica el artículo 89, el contratista tendrá derecho a requerir a la Dirección el anticipo. Para esto se deberá suscribir un convenio aprobado por resolución, en el que se establecerá el monto del anticipo, la forma de devolución y reajustabilidad, si la hubiere. Esta resolución no será dictada mientras el contratista no haya recepcionado el terreno y el trazado.
 
+En el referido convenio se podrá establecer, a solicitud del contratista, que el monto del anticipo se divida en un máximo de dos giros, en cuyo caso la caución que garantice su devolución ascenderá al monto efectivamente anticipado en el primero. Previo a que se otorgue el segundo, deberá actualizarse el valor de esta caución hasta el monto total del anticipo no amortizado, considerando ambos giros.
+
+Con todo, el segundo giro no podrá concederse si la obra presenta un avance igual o superior al 50% respecto al programa oficial.
+
 El simple retardo en la devolución del anticipo quedará afecto a una multa diaria del 1º/oo, sobre la cantidad adeudada, debidamente reajustada conforme a lo establecido en el Artículo 108 de este Reglamento, quedando la autoridad facultada para hacer efectiva la garantía que lo caucione.
+
+> **Nota.** La letra c) del Nº 17 del Decreto 156, Obras Públicas, publicado el 16.04.2024, modifica el inciso primero del presente artículo en el sentido de insertar, luego de la coma antecedida de las expresiones "valor del contrato primitivo", la siguiente frase: "descontados los valores proforma". No obstante lo anterior, no se puede realizar el texto actualizado debido a que no coinciden los textos.
+
+#### Artículo 157 bis
+
+Autorizada por el inspector fiscal y el Director correspondiente la contratación de los valores pro forma estipulados en el contrato, se podrá, cuando éstos se traten de cambios de servicios de utilidad pública, tales como postaciones, ductos o tuberías, sin necesidad que las bases administrativas lo establezcan, sujeto a la disponibilidad de recursos y previo requerimiento del contratista, conceder un anticipo cuyo valor no exceda el monto que represente la contratación de dichos rubros, el que deberá ser garantizado por el contratista de conformidad a lo dispuesto en el artículo anterior.
+
+Este anticipo se considerará devuelto cuando el contratista presente el instrumento tributario correspondiente, emitido, a nombre de la respectiva Dirección, por el tercero que ejecutó el valor pro forma. En dicho instrumento deberá constar que los trabajos o servicios que tengan la referida condición han sido completamente pagados por el contratista.
+
+En caso que el monto anticipado no resulte suficiente, el contratista deberá solventar las diferencias, las que serán debidamente reembolsadas, en su totalidad, en la oportunidad señalada en el inciso precedente. En tanto, de registrarse saldos del monto anticipado no utilizados, éstos se devolverán por el contratista, descontándose la suma a restituir de los estados de pago pendientes. Si éstos no son suficientes se utilizará la caución que garantiza el anticipo.
+
+Devuelto el anticipo íntegramente, deberá ser reintegrada al contratista la garantía que lo caucionaba.
+
+Si el Servicio correspondiente no concede el anticipo a que se refiere este artículo, el contratista no se liberará de la obligación de contratar oportunamente los valores pro forma contemplados en éste.
 
 #### Artículo 158
 
@@ -2467,6 +3039,8 @@ Si durante el plazo de garantía el contratista no subsanare, dentro del plazo q
 La obra ejecutada en un contrato que se liquida anticipadamente, será recibida a través de una recepción única por la comisión que corresponda, de acuerdo a lo establecido en el artículo 166.
 
 Sólo una vez que la obra ejecutada se haya recibido, se podrá contratar la continuación de ella.
+
+Sin perjuicio de lo anterior, previo a la recepción, la Dirección respectiva podrá adoptar las medidas y ejecutar las obras provisionales que se requieran por razones de seguridad, indispensables para evitar trastornos a la comunidad o el deterioro de lo construido.
 
 El término de la obra no podrá volver a contratarse con el primitivo contratista, salvo que medie una licitación pública y la liquidación no se haya debido a razones imputables a él.
 
