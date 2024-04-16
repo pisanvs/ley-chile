@@ -2970,6 +2970,10 @@ Salvo que el respectivo instrumento de planificación territorial lo prohíba, l
 
 Los proyectos de ampliación deberán cumplir con la dotación de estacionamientos que corresponda a la superficie que se amplía. Los proyectos de alteración o de reconstrucción sólo deberán cumplir cuota de estacionamientos cuando contemplen un destino distinto.
 
+Tratándose de instalaciones para la recepción y almacenamiento de residuos de productos prioritarios, sujetos a la ley Nº 20.920, que contemplen edificaciones, aquellas que reciban residuos de productos prioritarios directamente de la población, deberán contar, como mínimo, con un estacionamiento ubicado en un radio no superior a 25 metros, medido desde la boca o tapa del contenedor de recepción más cercano. En caso de dotar a las instalaciones con más de un estacionamiento, éstos se colocarán contiguos al estacionamiento obligatorio.
+
+Respecto de las instalaciones de recepción y almacenamiento ubicadas en un predio que ya disponga de dotación de estacionamientos, no se requerirá de estacionamientos adicionales, siempre que cumplan la distancia antes señalada y no sean utilizados para estos fines los estacionamientos para personas con discapacidad. Estarán exentas de contar con estacionamientos las instalaciones cuya superficie edificada sea inferior a 50 m², que se emplacen en zonas que admitan el uso de suelo residencial y la superficie total del predio en que se emplaza esa instalación sea inferior a 100 m².
+
 #### Artículo 2
 
 4.1. bis Asimismo, todo edificio que se construya deberá proyectarse con una dotación mínima de estacionamientos para bicicletas, de acuerdo a lo que fije el Plan Regulador Comunal en función de la carga de ocupación o de la cantidad de estacionamientos para automóviles del proyecto. Esta exigencia podrá cumplirse descontando parte de los estacionamientos requeridos para automóviles según la proporción que determine el mismo instrumento de planificación.
@@ -7546,6 +7550,8 @@ c) Copia de Comunicación de Energización, con constancia de acuso de recibo en
 
 Para estos efectos, la Dirección de Obras Municipales deberá dar cumplimiento al procedimiento descrito en el párrafo tercero del numeral 1. del presente artículo.
 
+10. Instalaciones de contenedores para la recepción y almacenamiento de residuos de productos prioritarios sujetos a la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje. Estas instalaciones podrán estar cubiertas con un techo protector, siempre que la altura de su cubierta no exceda los 3,5 m. en cualquier punto de ésta. En caso de exceder dicha altura, estas instalaciones deberán obtener permiso de edificación.
+
 En todos los casos previstos en este artículo, la ejecución de las obras que no requieren permiso del Director de Obras Municipales, no exime al propietario del cumplimento de todas y cada una de las normas legales, reglamentarias o técnicas aplicables a estas obras, así como tampoco lo exime de la obligación de contar con los profesionales competentes o técnicos responsables que señale esa misma normativa.
 
 #### Artículo 5
@@ -7941,6 +7947,60 @@ f) Informe de un profesional competente que acredite que se realizaron, de maner
 La Dirección de Obras Municipales deberá pronunciarse, dentro de los 30 días siguientes a la presentación de la solicitud, con el sólo mérito de la presentación de los documentos a que se refiere este artículo y acreditado el pago de derechos municipales, si correspondiere, procederá a otorgar el permiso y recepción definitiva simultáneamente.
 
 Los derechos municipales corresponden a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, con excepción de los que están exentos del pago de derechos municipales conforme al inciso final del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
+
+8. Permisos para instalaciones de recepción y almacenamiento de residuos de productos prioritarios que contemplen edificaciones sujetas a la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento del reciclaje.
+
+Las instalaciones para la recepción y almacenamiento de residuos de productos prioritarios que contemplen edificaciones requerirán permiso de edificación de acuerdo a los requisitos y procedimientos simplificados indicados en el presente numeral. Dichas instalaciones se entenderán complementarias a cualquier uso de suelo, con las restricciones que se indican para cada caso en los siguientes numerales:
+
+1. Instalaciones con una superficie edificada inferior a 50 m².
+
+Las instalaciones de recepción y almacenamiento de residuos de productos prioritarios con una superficie edificada inferior a 50 m², estarán exentas del cumplimiento de las normas urbanísticas establecidas en el respectivo Instrumento de Planificación Territorial, salvo las referidas a distanciamiento, altura máxima, antejardín, rasantes, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y zonas no edificables y áreas de protección; pudiendo emplazarse en cualquier zona establecida por dicho Instrumento. En caso de emplazarse en zonas que admitan el uso de suelo espacio público o área verde, la superficie de las instalaciones referidas en este numeral deberá incluirse dentro del porcentaje indicado en los artículos 2.1.30. y 2.1.31. de esta Ordenanza.
+
+2. Instalaciones con superficie edificada entre 50 m² y 200 m².
+
+Las instalaciones de recepción y almacenamiento de residuos de productos prioritarios con una superficie edificada entre 50 y 200 m², estarán exentas del cumplimiento de las normas urbanísticas establecidas en el respectivo Instrumento de Planificación Territorial, salvo las referidas a sistema de agrupamiento de las edificaciones, distanciamiento, altura máxima, antejardín, rasantes, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y zonas no edificables y áreas de protección; pudiendo emplazarse solo en zonas que admitan el uso de suelo equipamiento, actividades productivas, infraestructura y área verde. En este último caso, la superficie de las instalaciones referidas en este numeral deberá incluirse dentro del porcentaje indicado en el artículo 2.1.31. de esta Ordenanza.
+
+3. Instalaciones con superficie edificada superior a 200 m².
+
+Las instalaciones de recepción y almacenamiento de residuos de productos prioritarios con una superficie edificada superior a 200 m², estarán exentas del cumplimiento de las normas urbanísticas establecidas en el respectivo Instrumento de Planificación Territorial, salvo las referidas a sistema de agrupamiento de las edificaciones, distanciamiento, altura máxima, antejardín, rasantes, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y zonas no edificables y áreas de protección; pudiendo emplazarse solo en zonas que admitan el uso de suelo equipamiento, actividades productivas e infraestructura.
+
+Las instalaciones antes descritas cumplirán con las normas aplicables a las instalaciones interiores de agua potable y alcantarillado, electricidad, gas u otras que correspondan; además de las normas de habitabilidad, condiciones generales de seguridad, seguridad contra incendios y estabilidad establecidas en esta Ordenanza y aquellas sobre estándares técnicos de diseño y construcción que deriven de la Ley General de Urbanismo y Construcciones y de esta misma Ordenanza.
+
+Solo para efectos de la aplicación de la ley Nº 20.920, se entenderá por establecimiento industrial todo tipo de edificio industrial y aquellas instalaciones de impacto similar al industrial de acuerdo a lo dispuesto en el artículo 2.1.28. de esta Ordenanza, así como los edificios de equipamiento de la clase comercio, destinados a centros comerciales cerrados, grandes tiendas y supermercados, conforme a lo establecido en el artículo 2.1.33. de la misma Ordenanza.
+
+Para los efectos de la aplicación de este numeral, se entenderá que las instalaciones de recepción y almacenamiento de residuos de productos prioritarios comprenden tanto las edificaciones necesarias para su funcionamiento como la superficie del predio destinada exclusivamente al manejo de dichos residuos.
+
+Todas las instalaciones cuya superficie edificada sea superior a 50 m² deberán contar con cierros perimetrales hacia los predios colindantes, cuya altura no deberá ser inferior a 2 m, en tanto que el cierro que enfrente al espacio público deberá tener una altura no inferior a 2,5 m, salvo que el respectivo Instrumento de Planificación Territorial disponga otra altura mayor.
+
+Las disposiciones del artículo 55 de la Ley General de Urbanismo y Construcciones, serán igualmente aplicables a todas las instalaciones referidas en este numeral, cuando se emplacen en el área rural.
+
+En materia de dotación de estacionamientos regirá lo dispuesto en el inciso final del artículo 2.4.1. de esta Ordenanza.
+
+Para la obtención del permiso de edificación contemplado en este numeral, la respectiva solicitud deberá acompañarse con los siguientes antecedentes:
+
+1. Solicitud firmada por el propietario y el arquitecto autor del proyecto, con declaración simple del propietario de ser titular del dominio del predio, utilizando para ello el Formulario Único Nacional respectivo.
+
+2. Certificado de Informaciones Previas.
+
+3. En los casos que correspondan, cuando la norma urbanística de cesión se cumpla directamente, deberá graficarse la superficie cedida en el plano de emplazamiento. Cuando se cumpla a través de un aporte se deberá adjuntar el certificado de avalúo detallado del Servicio de Impuestos Internos.
+
+4. Informe del arquitecto que señala la forma en que la instalación cumple con las normas de este numeral, según corresponda.
+
+5. Planos de estructuras y memoria de cálculo firmados por el profesional que elabore el cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza, e informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda de acuerdo al artículo 5.1.25. El proyecto de cálculo estructural deberá incluir un estudio de mecánica de suelos.
+
+6. Plano de emplazamiento, a una escala adecuada que permita graficar todas las superficies destinadas a la recepción y almacenamiento de residuos de productos prioritarios, las instalaciones y edificaciones. Asimismo, se deberán graficar las vías de evacuación determinadas para la instalación.
+
+7. Planos de arquitectura a escala 1:50, suscritos por el arquitecto del proyecto, en que se grafique la planta general y elevaciones de la o las edificaciones, con las cotas mínimas indispensables, que permitan definir los aspectos formales, dimensionales y funcionales de la obra con singularización de los recintos y cuadro de superficies. El cálculo de superficies se hará según lo señalado en el artículo 5.1.11. de esta Ordenanza.
+
+8. Especificaciones técnicas resumidas, suscritas por el propietario y el arquitecto, señalando las partidas más relevantes de la obra.
+
+9. Listado de los residuos de los productos prioritarios que se recibirán y almacenarán en las instalaciones de recepción y almacenamiento, y las operaciones que serán realizadas tales como separación, compactación, empaque u otras.
+
+Todos los antecedentes que se acompañen a la solicitud de permiso de edificación simplificado al que refiere este numeral deberán ser presentados en dos copias.
+
+La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo, dentro del plazo de 15 días. En el caso de existir observaciones, se estará al procedimiento indicado en el artículo 1.4.9. de esta Ordenanza.
+
+El Director de Obras Municipales otorgará el permiso a que se refiere este numeral, previo pago de los derechos municipales que correspondan, considerando para ello el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, y se calcularán conforme al procedimiento establecido en el artículo 5.1.14. de esta Ordenanza.
 
 El plazo para acogerse a los procedimientos simplificados a que se refieren los numerales 6 y 7 del inciso primero de este artículo, será de 6 años, contados desde la fecha del decreto que declaró la zona afectada por catástrofe, aún cuando éste no se encuentre vigente.
 
@@ -8751,6 +8811,14 @@ Será requisito para cursar la recepción definitiva de los proyectos que genere
 A la solicitud de recepción definitiva parcial o total de las obras a que se refiere el inciso anterior, se deberá adjuntar los certificados de recepción de las instalaciones de electricidad, agua potable, alcantarillado y gas, cuando corresponda, emitidos por la autoridad competente, y un informe del arquitecto proyectista, si procediere, que señale que fue construida de conformidad al permiso otorgado, incluidas sus modificaciones, y a las normas señaladas en el numeral 6 del artículo 5.1.4. de esta Ordenanza.
 
 En caso de existir modificaciones o cambios al proyecto aprobado, deberán acompañarse junto a la solicitud de recepción definitiva, los permisos que incidan en tales modificaciones o cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural, si procediere.
+
+#### Artículo 5
+
+2.6. ter. Terminadas las obras para las edificaciones destinadas a la recepción y almacenamiento de residuos de productos prioritarios señalados en la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, y cuyo permiso se otorgó conforme al numeral 8 del artículo 5.1.4. de esta Ordenanza, el propietario y el profesional competente solicitarán su recepción definitiva a la Dirección de Obras Municipales.
+
+Junto a la solicitud de recepción definitiva de las obras a que se refiere el inciso anterior, se deberán acompañar los certificados de recepción de las instalaciones de agua potable y alcantarillado, electricidad, gas u otras, cuando corresponda, emitidos por la autoridad competente; además de un informe del arquitecto, si procediere, que señale que la obra fue construida de conformidad al permiso otorgado, incluidas sus modificaciones, y a las normas señaladas en el numeral 8 del artículo 5.1.4. de esta Ordenanza.
+
+De existir modificaciones o cambios al proyecto aprobado, deberán acompañarse, junto a la solicitud de recepción definitiva, los permisos que incidan en tales modificaciones o cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. de esta Ordenanza. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Cálculo Estructural, si procediere.
 
 #### Artículo 5
 
