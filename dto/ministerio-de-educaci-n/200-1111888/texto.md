@@ -42,7 +42,7 @@ Requisitos.- Podrá acceder a la bonificación adicional por retiro, el personal
 
 a) Perciban el beneficio compensatorio del artículo 9 de la ley Nº 20.374.
 
-b) Entre el 1 de enero de 2015 y el 31 de diciembre de 2024, hayan cumplido o cumplan 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres.
+b) Entre el 1 de enero de 2015 y el 31 de diciembre de 2025, hayan cumplido o cumplan 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres.
 
 c) Hayan servido sus cargos en las universidades del Estado en calidad de planta o a contrata por un período no inferior a diez años, continuos o discontinuos, a la fecha del inicio del respectivo período de postulación.
 
@@ -56,13 +56,13 @@ f) Hagan efectiva su renuncia en los plazos indicados en este reglamento.
 
 2. Los funcionarios y funcionarias del numeral 1 del artículo anterior que, al 31 de diciembre de 2014 hayan cumplido 65 años de edad, en el caso de los hombres y 60 años de edad, tratándose de las mujeres, o más, y que además reúnan los requisitos señalados en las letras a), c), d), e) y f) del numeral anterior.
 
-3. Los funcionarios y funcionarias señalados en el número 2 del artículo anterior que, entre el 1 de abril de 2015 y el 31 de diciembre de 2024, obtengan o hayan obtenido una pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, o que cesen o hayan cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, y que cumplan los siguientes requisitos:
+3. Los funcionarios y funcionarias señalados en el número 2 del artículo anterior que, entre el 1 de abril de 2015 y el 31 de diciembre de 2025, obtengan o hayan obtenido una pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, o que cesen o hayan cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, y que cumplan los siguientes requisitos:
 
 a) Se encuentren afiliados al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema.
 
 b) Hayan servido sus cargos en calidad de planta o a contrata en las universidades del Estado, a lo menos por un período de diez años, continuos o discontinuos, a la fecha del cese de funciones, ya sea por obtención de pensión de invalidez o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo.
 
-c) Dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia según las causales señaladas, cumplan entre el 1 de abril de 2015 y el 31 de diciembre de 2024, 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
+c) Dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia según las causales señaladas, cumplan entre el 1 de abril de 2015 y el 31 de diciembre de 2025, 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
 
 El personal señalado en este numeral que no cumpla con el requisito de edad establecido en su literal c), podrá acceder de igual forma a la bonificación adicional, si tiene treinta o más años de servicio a la fecha del cese de funciones, en cualquier calidad jurídica, sea de planta o a contrata, y siempre que al 31 de diciembre del año anterior al cese de funciones por las causales precedentes haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata.
 
@@ -72,7 +72,7 @@ Rebaja de las edades.- El personal señalado en los numerales 1 y 2 del artícul
 
 #### Artículo 4
 
-Cupos.- La bonificación adicional se otorgará hasta un máximo de 2.870 beneficiados durante la vigencia del plan de incentivo al retiro. Para el año 2017 se contemplarán 200 cupos. Para el año 2018, 400 cupos. Para los años 2019 y 2020, existirán 435 cupos por cada anualidad. A partir del año 2021 y hasta el año 2024, se contemplarán 350 cupos para cada año.
+Cupos.- La bonificación adicional se otorgará hasta un máximo de 3.420 beneficiados durante la vigencia del plan de incentivo al retiro. Para el año 2017 se contemplarán 200 cupos. Para el año 2018, 400 cupos. Para los años 2019 y 2020, existirán 435 cupos por cada anualidad. A partir del año 2021 y hasta el año 2023, se contemplarán 350 cupos para cada año. Para los años 2024 y 2025 se contemplarán 400 y 500 cupos, respectivamente.
 
 Con todo, los cupos que no hubieren sido utilizados en los años 2017 y 2018, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
@@ -92,7 +92,7 @@ Dentro de los 10 días hábiles siguientes a la publicación de este reglamento,
 
 #### Artículo 7
 
-De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente reglamento y hasta el 31 de diciembre de 2024, se abrirán ocho procesos de postulación de asignación de cupos dispuestos en el artículo 4, a las personas que cumplan con las condiciones y requisitos señalados en los artículos 1, 2 y 3.
+De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente reglamento y hasta el 31 de diciembre de 2025, se abrirán nueve procesos de postulación de asignación de cupos dispuestos en el artículo 4, a las personas que cumplan con las condiciones y requisitos señalados en los artículos 1, 2 y 3.
 
 En los procesos de postulación referidos en el inciso primero, podrán postular los funcionarios y las funcionarias que se indican, dentro de los siguientes plazos:
 
@@ -174,19 +174,37 @@ iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 
 
 4. Los funcionarios y funcionarias que, a partir del primer día hábil de marzo de 2018 y con anterioridad al inicio del quinto proceso de postulación, hayan reunido los requisitos señalados en los numerales 1 y 3 precedentes, podrán postular al quinto proceso, correspondiente al año 2021, siempre que cumplan con el requisito señalado en el numeral 2 anterior. En este caso, las edades señaladas en el numeral 2.1 deberán haberse cumplido entre el primer día hábil de marzo de 2018 y antes del primer día hábil de marzo de 2021.
 
-e) Octavo proceso de postulación, se asignarán 350 cupos junto con los adicionales que existan disponibles conforme al inciso segundo del artículo 4. Podrá postular a este proceso, el personal que a continuación se indica, a partir del primer día hábil de noviembre de 2024 y hasta el 10 de enero de 2025:
+e) Octavo proceso de postulación, se asignarán 400 cupos junto con los adicionales que existan disponibles conforme al inciso segundo del artículo 4. Podrá postular a estos procesos, el personal que a continuación se indica, a partir del primer día hábil de mayo del año 2024 y hasta el último día hábil de agosto de dicho año:
 
 i) Los funcionarios y funcionarias señalados en el número 1 del artículo 2, que hayan cumplido o cumplan 65 años de edad entre el 1 de enero y el 31 de diciembre de 2024.
 
 ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este reglamento, que hayan cumplido o cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre de 2024.
 
-iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
+iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en este proceso siempre que reúnan los siguientes requisitos:
 
-1. Que entre el 1 de abril de 2015 y hasta el 31 de diciembre de 2024, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+1. Que entre el 1 de abril de 2015 y con anterioridad al inicio de este proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
 
 2. Alternativamente:
 
-2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, entre el inicio del anterior proceso de postulación y hasta el 31 de diciembre de 2024. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas y no más allá del 31 de diciembre de 2024, o
+2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, entre el 1 de marzo de 2023 y antes del inicio de este proceso de postulación. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
+
+2.2.- Al cesar sus funciones tenían 30 o más años de servicios y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata, según lo señalado en el numeral 3 del artículo 2.
+
+3. Reunir los demás requisitos que establece el numeral 3 del artículo 2 de este reglamento.
+
+f) Noveno proceso de postulación, se asignarán 500 cupos junto con los adicionales que existan disponibles conforme al inciso segundo del artículo 4. Podrá postular a este proceso, el personal que a continuación se indica, a partir del primer día hábil de noviembre de 2025 y hasta el 10 de enero de 2026:
+
+i) Los funcionarios y funcionarias señalados en el número 1 del artículo 2, que hayan cumplido o cumplan 65 años de edad entre el 1 de enero y el 31 de diciembre de 2025.
+
+ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este reglamento, que hayan cumplido o cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre de 2025.
+
+iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
+
+1. Que entre el 1 de abril de 2015 y hasta el 31 de diciembre de 2025, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+
+2. Alternativamente:
+
+2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, entre el primer día hábil de mayo de 2024 y hasta el 31 de diciembre de 2025. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas y no más allá del 31 de diciembre de 2025, o
 
 2.2.- Al cesar sus funciones tenían 30 o más años de servicios y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata, según lo señalado en el numeral 3 del artículo 2.
 
@@ -362,11 +380,11 @@ e) Las universidades del Estado dictarán la resolución a que se refiere el inc
 
 #### Artículo tercero
 
-Al octavo proceso de postulación le serán aplicables los plazos siguientes:
+Al noveno proceso de postulación le serán aplicables los plazos siguientes:
 
-a) Las universidades del Estado enviarán a la Subsecretaría de Educación copia de la resolución que contenga la nómina de todos los postulantes que cumplen con los requisitos legales para acceder a la bonificación adicional, señalada en el inciso segundo del artículo 9, a más tardar, el 10 de marzo de 2025, y
+a) Las universidades del Estado enviarán a la Subsecretaría de Educación Superior copia de la resolución que contenga la nómina de todos los postulantes que cumplen con los requisitos legales para acceder a la bonificación adicional, señalada en el inciso segundo del artículo 9, a más tardar, el 10 de marzo de 2026, y
 
-b) La Subsecretaría de Educación dictará la resolución que establecerá la distribución de cupos señalada en el inciso primero del artículo 10, a más tardar, el 17 de abril de 2025.
+b) La Subsecretaría de Educación Superior dictará la resolución que establecerá la distribución de cupos señalada en el inciso primero del artículo 10, a más tardar, el 17 de abril de 2026.
 
 #### Artículo cuarto
 
