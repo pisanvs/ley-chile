@@ -44,7 +44,7 @@ Requisitos.- Podrá acceder a la bonificación adicional por retiro, el personal
 
 a) Perciba el beneficio compensatorio del artículo 9 de la ley Nº 20.374.
 
-b) Entre el 1 de enero de 2012 y el 31 de diciembre de 2024, haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres.
+b) Entre el 1 de enero de 2012 y el 31 de diciembre de 2025, haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres.
 
 c) Haya servido sus cargos en las universidades del Estado, en calidad de planta o a contrata, por un período no inferior a diez años, continuos o discontinuos, a la fecha del inicio del respectivo período de postulación.
 
@@ -58,23 +58,23 @@ f) Haga efectiva su renuncia, esto es, cese en sus funciones, en los plazos expr
 
 2. El personal académico y directivo señalado en el número 1 del artículo anterior que, al 31 de diciembre de 2011 haya cumplido 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y que además reúna los requisitos señalados en las letras a), c), d), e) y f) del numeral anterior.
 
-3. El personal profesional no académico señalado en el número 1 del artículo anterior que, entre el 1 de enero de 2015 y hasta el 31 de diciembre de 2024, haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y que además reúna los requisitos señalados en las letras a), c), d), e) y f) del numeral 1.
+3. El personal profesional no académico señalado en el número 1 del artículo anterior que, entre el 1 de enero de 2015 y hasta el 31 de diciembre de 2025, haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y que además reúna los requisitos señalados en las letras a), c), d), e) y f) del numeral 1.
 
 4. El personal profesional no académico señalado en el número 1 del artículo anterior que, al 31 de diciembre de 2014, haya cumplido 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y que, además, reúna los requisitos señalados en las letras a), c), d), e) y f) del numeral 1.
 
-5. El personal señalado en el número 2 del artículo anterior que, entre el 8 de noviembre de 2017 y el 31 de diciembre de 2024, obtenga o haya obtenido una pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, o que cese o haya cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, y que cumpla los siguientes requisitos:
+5. El personal señalado en el número 2 del artículo anterior que, entre el 8 de noviembre de 2017 y el 31 de diciembre de 2025, obtenga o haya obtenido una pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, o que cese o haya cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, y que cumpla los siguientes requisitos:
 
 a) Se encuentre afiliado al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema.
 
 b) Haya servido su cargo en calidad de planta o a contrata en las universidades del Estado, por un período no inferior a diez años, continuos o discontinuos, a la fecha del cese de funciones, ya sea por obtención de pensión de invalidez o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo.
 
-c) Dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia, según las causales señaladas, cumplan entre el 8 de noviembre de 2017 y el 31 de diciembre de 2024, 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
+c) Dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia, según las causales señaladas, cumplan entre el 8 de noviembre de 2017 y el 31 de diciembre de 2025, 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
 
 El personal señalado en este numeral que no cumpla con el requisito de edad establecido en su literal c), podrá acceder de igual forma a la bonificación adicional, si tiene treinta o más años de servicio, continuo o discontinuo, a la fecha del cese de funciones, en cualquier calidad jurídica, sea de planta o a contrata, en las universidades del Estado, y siempre que al 31 de diciembre del año anterior al cese de funciones por las causales indicadas, haya tenido un mínimo de diez años de desempeño continuo o discontinuo en cargos de planta o a contrata en dichas universidades.
 
 #### Artículo 3
 
-Cupos.- La bonificación adicional establecida por la ley Nº 21.043 se otorgará hasta un total de 3.800 beneficiarios académicos y directivos, cupos que se distribuirán de la siguiente manera:
+Cupos.- La bonificación adicional establecida por la ley Nº 21.043 se otorgará hasta un total de 4.150 beneficiarios académicos y directivos, cupos que se distribuirán de la siguiente manera:
 
 a) 300 cupos para el año 2017.
 
@@ -82,11 +82,11 @@ b) 600 cupos anuales para los años 2018, 2019, 2020 y 2021.
 
 c) 400 cupos para el año 2022.
 
-d) 350 cupos anuales para los años 2023 y 2024.
+d) 350 cupos anuales para los años 2023, 2024 y 2025.
 
 Aquellos cupos correspondientes al personal académico y directivo que no hubieren sido utilizados en los años 2017 y 2018, incrementarán los cupos correspondientes al año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
-Respecto de los profesionales no académicos, la bonificación adicional se otorgará hasta un total de 900 beneficiarios, cupos que se distribuirán de la siguiente manera:
+Respecto de los profesionales no académicos, la bonificación adicional se otorgará hasta un total de 990 beneficiarios, cupos que se distribuirán de la siguiente manera:
 
 a) 120 cupos para el año 2017.
 
@@ -94,7 +94,7 @@ b) 150 cupos anuales para los años 2018 y 2019.
 
 c) 100 cupos anuales para los años 2020, 2021 y 2022.
 
-d) 90 cupos anuales para los años 2023 y 2024.
+d) 90 cupos anuales para los años 2023, 2024 y 2025.
 
 Con todo, los cupos disponibles para el personal profesional no académico que no hubieren sido utilizados en los años 2017 y 2018, incrementarán los cupos correspondientes al año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
@@ -114,7 +114,7 @@ Dentro de los diez días hábiles siguientes a la publicación de este reglament
 
 #### Artículo 6
 
-De los procesos de postulación de asignación de cupos correspondientes a los años 2018 a 2024.- Desde la fecha de publicación del presente reglamento y hasta el 31 de diciembre de 2024, se abrirán siete procesos de postulación de asignación de los cupos indicados en el artículo 3 del presente reglamento, destinados a asignar la bonificación adicional de la ley Nº 21.043 al personal académico, directivo y profesional no académico.
+De los procesos de postulación de asignación de cupos correspondientes a los años 2018 a 2025.- Desde la fecha de publicación del presente reglamento y hasta el 31 de diciembre de 2025, se abrirán ocho procesos de postulación de asignación de los cupos indicados en el artículo 3 del presente reglamento, destinados a asignar la bonificación adicional de la ley N°21.043 al personal académico, directivo y profesional no académico.
 
 A los procesos de postulación referidos en el inciso primero, podrán postular los funcionarios y las funcionarias que se indican, dentro de los siguientes plazos:
 
@@ -218,23 +218,43 @@ ii. Al cesar sus funciones tenían 30 o más años de servicios, continuos o dis
 
 ### III. Reunir los demás requisitos que establece el numeral 5 del artículo 2 de este reglamento
 
-6. Proceso de postulación año 2024, se asignarán 350 cupos para el personal académico y directivo, y 90 cupos para el personal profesional no académico, junto con los adicionales que puedan existir disponibles conforme a los incisos segundo y cuarto del artículo 3 de este reglamento. A este proceso podrá postular el personal que a continuación se indica, a partir del primer día hábil de noviembre de 2024 y hasta 10 de enero de 2025:
+6. Proceso de postulación año 2024, se asignarán 350 cupos para el personal académico y directivo, y 90 cupos para el personal profesional no académico, junto con los adicionales que puedan existir disponibles conforme a los incisos segundo y cuarto del artículo 3 de este reglamento. A este proceso podrá postular el personal que a continuación se indica, a partir del primer día hábil de mayo de 2024 y hasta el último día hábil de agosto de dicho año:
 
 a) Personal académico y directivo indicado en el número 1 del artículo 2 de este reglamento que, entre el 1 de enero y el 31 de diciembre de 2024, haya cumplido o cumpla 65 años de edad.
 
 b) Personal profesional no académico indicado en el número 3 del artículo 2 de este reglamento que, entre el 1 de enero y el 31 de diciembre de 2024, haya cumplido o cumpla 65 años de edad.
 
-c) Las funcionarias, sea que formen parte del personal académico, directivo o profesional no académico, a que se refiere el inciso segundo del artículo 2 de la ley Nº 21.043, que hayan cumplido o cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre de 2024.
+c) Las funcionarias, sea que formen parte del personal académico, directivo o profesional no académico, a que se refiere el inciso segundo del artículo 2 de la ley N°21.043, que hayan cumplido o cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre de 2024.
 
 d) Los funcionarios y funcionarias señalados en el número 5 del artículo 2 del presente reglamento, podrán postular en este proceso siempre que reúnan los siguientes requisitos:
 
-I. Que entre el 8 de noviembre de 2017 y hasta el 31 de diciembre de 2024, hayan obtenido una pensión de invalidez del decreto ley Nº 3.500, de 1980 o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+I. Que entre el 8 de noviembre de 2017 y con anterioridad al inicio de este proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley N°3.500, de 1980 o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
 
 ### II. Alternativamente:
 
-i. Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, a partir del inicio del anterior proceso de postulación y hasta 31 de diciembre de 2024. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
+i. Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, entre el primer día hábil de marzo de 2023 y antes del inicio de este proceso de postulación. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
 
-ii. Al cesar sus funciones tenían 30 o más años de servicios, continuos o discontinuos, y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de diez años de desempeño continuo o discontinuo, en cargos de planta o a contrata, según lo señalado en el numeral 5 del artículo 2 del presente reglamento.
+ii. Al cesar sus funciones tenían 30 o más años de servicio, continuos o discontinuos, y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de diez años de desempeño continuo o discontinuo, en cargos de planta o a contrata, según lo señalado en el numeral 5 del artículo 2 del presente reglamento.
+
+### III. Reunir los demás requisitos que establece el numeral 5 del artículo 2 de este Reglamento
+
+7. Proceso de postulación año 2025, se asignarán 350 cupos para el personal académico y directivo, y 90 cupos para el personal profesional no académico, junto con los adicionales que puedan existir disponibles conforme a los incisos segundo y cuarto del artículo 3 de este reglamento. A este proceso podrá postular el personal que a continuación se indica, a partir del primer día hábil de noviembre de 2025 y hasta el 10 de enero de 2026:
+
+a) Personal académico y directivo indicado en el número 1 del artículo 2 de este reglamento que, entre el 1 de enero y el 31 de diciembre de 2025, haya cumplido o cumpla 65 años de edad.
+
+b) Personal profesional no académico indicado en el número 3 del artículo 2 de este reglamento que, entre el 1 de enero y el 31 de diciembre de 2025, haya cumplido o cumpla 65 años de edad.
+
+c) Las funcionarias, sea que formen parte del personal académico, directivo o profesional no académico, a que se refiere el inciso segundo del artículo 2 de la ley N°21.043, que hayan cumplido o cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre de 2025.
+
+d) Los funcionarios y funcionarias señalados en el número 5 del artículo 2 del presente reglamento, podrán postular en este proceso siempre que reúnan los siguientes requisitos:
+
+I. Que entre el 8 de noviembre de 2017 y hasta el 31 de diciembre de 2025, hayan obtenido una pensión de invalidez del decreto ley N°3.500, de 1980 o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+
+### II. Alternativamente:
+
+i. Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, a partir del inicio del anterior proceso de postulación y hasta el 31 de diciembre de 2025. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
+
+ii. Al cesar sus funciones tenían 30 o más años de servicio, continuos o discontinuos, y siempre que, al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de diez años de desempeño continuo o discontinuo, en cargos de planta o a contrata, según lo señalado en el numeral 5 del artículo 2 del presente reglamento.
 
 ### III. Reunir los demás requisitos que establece el numeral 5 del artículo 2 de este reglamento
 
@@ -358,7 +378,7 @@ Respecto al personal al que se aplique lo dispuesto en el artículo 12 de este r
 
 El pago de la bonificación adicional por retiro al personal académico, directivo y profesional no académico de las universidades del Estado contemplado en el número 5 del artículo 2 de este reglamento, se realizará por parte de la universidad empleadora, en una sola vez, al mes siguiente de tramitado totalmente el acto administrativo que la concede, siempre que el Ministerio de Educación haya traspasado los recursos a la respectiva universidad. El valor de la unidad de fomento que se considerará para el cálculo de este beneficio será el que corresponda al último día del mes anterior a su pago.
 
-Con todo, respecto a los funcionarios y funcionarias que hagan efectiva su renuncia voluntaria conforme al inciso cuarto del artículo 11 de este reglamento, las universidades podrán adelantar el pago de la bonificación adicional con recursos propios, a partir de la asignación del cupo o desde que el funcionario o funcionaria se encuentre en la situación que regula el artículo 12 de este reglamento, sin perjuicio del posterior traspaso de recursos que a su respecto realice el Ministerio de Educación. Dichos pagos anticipados no podrán realizarse durante el año 2024.
+Con todo, respecto a los funcionarios y funcionarias que hagan efectiva su renuncia voluntaria conforme al inciso cuarto del artículo 11 de este reglamento, las universidades podrán adelantar el pago de la bonificación adicional con recursos propios, a partir de la asignación del cupo o desde que el funcionario o funcionaria se encuentre en la situación que regula el artículo 12 de este reglamento, sin perjuicio del posterior traspaso de recursos que a su respecto realice el Ministerio de Educación. Dichos pagos anticipados no podrán realizarse durante el año 2025.
 
 ## Título III
 
@@ -462,11 +482,11 @@ El procedimiento para asignar los cupos de la bonificación adicional del año 2
 
 #### Artículo segundo
 
-Al proceso de postulación año 2024 le serán aplicables los plazos siguientes:
+Al proceso de postulación año 2025 le serán aplicables los plazos siguientes:
 
-a) Las universidades del Estado enviarán a la Subsecretaría de Educación, a través de la División de Educación Superior, copia de la resolución que contenga la nómina de todos los postulantes que cumplen con los requisitos legales para acceder a la bonificación adicional, señalada en el inciso segundo del artículo 8 del presente reglamento, a más tardar, el 10 de marzo de 2025, y
+a) Las universidades del Estado enviarán a la Subsecretaría de Educación Superior, copia de la resolución que contenga la nómina de todos los postulantes que cumplen con los requisitos legales para acceder a la bonificación adicional, señalada en el inciso segundo del artículo 8 del presente reglamento, a más tardar, el 10 de marzo de 2026, y
 
-b) La Subsecretaría de Educación dictará, a través de la División de Educación Superior, la resolución que establecerá la distribución de cupos señalada en el inciso primero del artículo 9 del presente reglamento, a más tardar, el 17 de abril de 2025.
+b) La Subsecretaría de Educación dictará la resolución que establecerá la distribución de cupos señalada en el inciso primero del artículo 9 del presente reglamento, a más tardar, el 17 de abril de 2026.
 
 #### Artículo tercero
 
