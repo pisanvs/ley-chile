@@ -432,7 +432,7 @@ El personal de la Superintendencia deberá guardar absoluta reserva y secreto de
 
 #### Artículo 34
 
-B.- Las Subsecretarías de Hacienda, de Servicios Sociales, de Evaluación Social, del Trabajo y de Previsión Social, la Superintendencia de Seguridad Social, el Banco Central y la Dirección de Presupuestos, estarán facultados para exigir los datos personales contenidos en la Base de Datos a que se refiere el artículo 34 y la información que fuere necesaria para el ejercicio de sus funciones a la Sociedad Administradora de Fondos de Cesantía. En tal caso, el tratamiento y uso de los datos personales que efectúen los organismos antes mencionados quedarán dentro del ámbito de control y fiscalización de dichos servicios.
+B.- Las Subsecretarías de Hacienda, de Servicios Sociales, de Evaluación Social, del Trabajo y de Previsión Social, la Superintendencia de Seguridad Social, el Banco Central, la Comisión del Sistema de Competencias Laborales de la ley Nº 20.267 y la Dirección de Presupuestos, estarán facultados para exigir los datos personales contenidos en la Base de Datos a que se refiere el artículo 34 y la información que fuere necesaria para el ejercicio de sus funciones a la Sociedad Administradora de Fondos de Cesantía. En tal caso, el tratamiento y uso de los datos personales que efectúen los organismos antes mencionados quedarán dentro del ámbito de control y fiscalización de dichos servicios.
 
 Los organismos públicos antes señalados y su personal deberán guardar absoluta reserva y secreto de la información de que tomen conocimiento y abstenerse de usar dicha información en beneficio propio o de terceros. Para efectos de lo dispuesto en el inciso segundo del artículo 125 de la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, se estimará que los hechos que configuren infracciones a esta disposición vulneran gravemente el principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan. Asimismo, le serán aplicadas las sanciones establecidas en el inciso sexto del artículo 34 de la presente ley.
 
@@ -820,7 +820,7 @@ El administrador de la Bolsa Nacional de Empleo deberá comunicar a los cesantes
 
 Igualmente, deberá mantener una base de datos de los trabajadores inscritos, con información del trabajador y su índice de empleabilidad, como asimismo de aquellos empleadores que ofrezcan vacantes de trabajo y los demás registros que determine la Subsecretaría del Trabajo, de acuerdo a lo establecido en las bases de licitación.
 
-La Subsecretaría del Trabajo, el Servicio Nacional de Capacitación y Empleo, las Oficinas de Información Laboral del artículo 73 de la ley Nº 19.518, otros servicios públicos y las entidades privadas que ejecuten los programas señalados en el artículo 25 bis, podrán acceder a las bases de datos del administrador de la Bolsa Nacional de Empleo para el ejercicio de sus funciones.
+La Subsecretaría del Trabajo, el Servicio Nacional de Capacitación y Empleo, las Oficinas de Información Laboral del artículo 73 de la ley Nº 19.518, la Superintendencia de Pensiones, la Comisión del Sistema de Competencias Laborales de la ley Nº 20.267, otros servicios públicos y las entidades privadas que ejecuten los programas señalados en el artículo 25 bis, podrán acceder a las bases de datos del administrador de la Bolsa Nacional de Empleo para el ejercicio de sus funciones.
 
 #### Artículo 64
 

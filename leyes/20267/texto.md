@@ -84,7 +84,7 @@ k) Proporcionar la información financiera, contable, u otra, que requieran o so
 
 l) Poner a disposición de los usuarios del Sistema, información relativa a los registros que mantiene la Comisión.
 
-m) Celebrar los actos o contratos con organismos públicos, personas jurídicas de derecho público o privado, nacionales, internacionales o extranjeras, conducentes al cumplimiento de los fines del Sistema, entre ellos los tendientes a la homologación y reconocimiento recíproco de las certificaciones otorgadas.
+m) Celebrar los actos o contratos con organismos públicos, personas jurídicas de derecho público o privado, nacionales, internacionales o extranjeras, conducentes al cumplimiento de los fines del Sistema.
 
 n) Diseñar los Planes Formativos y Rutas formativo-laborales, asociados a las Unidades de Competencias Laborales acreditadas conforme a lo establecido en la letra d) de este artículo, y de acuerdo a los Niveles del Marco Nacional de Cualificaciones para la formación técnico profesional.
 
@@ -196,7 +196,9 @@ LABORALES
 
 El patrimonio de la Comisión estará integrado por:
 
-a) presupuesto que anualmente le asigne la Ley de Presupuestos del Sector Público.
+a) Recursos asignados, para estos fines, en la Ley de Presupuestos del Sector Público para el Ministerio del Trabajo y Previsión Social, transferidos por dicho Ministerio a la Comisión en virtud de convenios de desempeño visados por la Dirección de Presupuestos, los que no podrán superar el 49% del gasto total de la Comisión. Con todo, para destinar recursos, sean estos públicos o provenientes de sus ingresos propios, al cofinanciamiento de la generación, adquisición y actualización de unidades de competencias laborales, el sector productivo deberá contribuir a lo menos con un 10% del gasto de cada una de ellas.
+
+Para los efectos de esta ley, se entenderá por gasto total todos los gastos efectuados por la Comisión, sean éstos en dinero o especies, incluidos los financiados con los aportes a que se refiere la letra b). Las especies aportadas deberán valorarse a precios de mercado según la forma que determine el reglamento, el que definirá asimismo la forma en que se contabilizarán.
 
 b) Aportes de los sectores productivos participantes efectuados a la Comisión en dinero o en especies preferentemente para comprar, generar, actualizar o validar unidades de competencias laborales, mediante convenios de colaboración o de cooperación. Con todo, para destinar recursos, sean estos públicos o provenientes de sus ingresos propios, al cofinanciamiento de la generación, adquisición y actualización de Unidades de Competencias Laborales, el sector productivo deberá contribuir a lo menos con el 10% del gasto de cada una de ellas.
 
@@ -206,7 +208,19 @@ d) Los bienes muebles e inmuebles, corporales e incorporales que se le transfier
 
 #### Artículo 11
 
-Derogado.
+La Comisión celebrará anualmente un Convenio de Desempeño con el Ministerio del Trabajo y Previsión Social, mecanismo a través del cual este Ministerio le transferirá los recursos indicados en la letra a) del artículo anterior.
+
+El Convenio de Desempeño contendrá, a lo menos, las siguientes menciones:
+
+a) La proporción del presupuesto anual de la Comisión que se financiará con recursos públicos;
+
+b) La forma, plazos y procedimientos de entrega de los recursos públicos a la Comisión por parte del Ministerio del Trabajo y Previsión Social;
+
+c) Los resultados o las acciones comprometidas en el Plan Anual de Trabajo de la Comisión;
+
+d) Los mecanismos o procedimientos de rendición de cuenta de la administración de los recursos públicos recibidos y del cumplimiento de los resultados o de las acciones comprometidas en el Convenio de Desempeño, y
+
+e) Los mecanismos de fiscalización del cumplimiento de este convenio.
 
 #### Artículo 12
 
@@ -420,7 +434,7 @@ a) A través de recursos propios de la persona que solicita el servicio.
 
 b) Con recursos provenientes de la empresa en la que el trabajador se desempeña, los que podrán gozar de la franquicia tributaria señalada en el inciso primero del artículo 36 de la ley N° 19.518, para aquellos beneficiarios que esta norma contempla.
 
-c) Con los recursos asignados a la Comisión en la Ley de Presupuestos del Sector Público, para acciones de evaluación y certificación de competencias laborales.
+c) Con recursos contemplados en el Fondo Nacional de Capacitación señalado en el artículo 44 de la ley N° 19.518, los que serán aplicados, preferentemente, a los trabajadores cesantes.
 
 d) A través de los respectivos presupuestos destinados a capacitación en las entidades pertenecientes al sector público.
 
@@ -444,7 +458,15 @@ En caso en que el trabajador concurriera al financiamiento de su proceso de eval
 
 #### Artículo 29
 
-Las empresas que utilicen la franquicia tributaria establecida en el inciso primero del artículo 36 de la ley Nº 19.518, que Fija Nuevo Estatuto de Capacitación y Empleo, para financiar el servicio de evaluación y certificación de competencias de uno o más de sus trabajadores, deberán contribuir con los gastos de dichos procesos, en los mismos porcentajes y condiciones establecidos en el artículo 37 de dicha ley.
+Con todo, las empresas que utilicen la franquicia tributaria establecida en el inciso primero del artículo 36 de la ley N° 19.518, para financiar el servicio de evaluación y certificación de competencias laborales de uno o más de sus trabajadores, deberán financiar directamente, sin derecho a descontar de la franquicia tributaria:
+
+a) El 10% del costo del servicio de evaluación y de certificación de competencias laborales, cuando éste fuere prestado a trabajadores cuyas remuneraciones individuales mensuales no superen las 10 unidades tributarias mensuales;
+
+b) El 30% del costo del servicio de evaluación y de certificación de competencias laborales, cuando éste fuere prestado a trabajadores cuyas remuneraciones individuales mensuales excedan de las 10 unidades tributarias mensuales y no superen las 25;
+
+c) El 50% del costo del servicio de evaluación y de certificación de competencias laborales, cuando éste fuere prestado a trabajadores cuyas remuneraciones individuales mensuales excedan de las 25 unidades tributarias mensuales y no superen las 50, y
+
+d) El 100% del costo del servicio de evaluación y de certificación, cuando éste fuere prestado a trabajadores cuyas remuneraciones individuales mensuales superen las 50 unidades tributarias mensuales.
 
 #### Artículo 30
 
@@ -462,17 +484,19 @@ Las acciones contempladas en las modalidades descritas en los incisos tercero y 
 
 #### Artículo 33
 
-Los organismos intermedios para capacitación servirán de nexo entre las empresas y los Centros. Se aplicarán a la intermediación de los servicios de evaluación y certificación de competencias laborales las mismas condiciones establecidas para la intermediación de capacitación en la ley Nº 19.518 y sus reglamentos.
+Los organismos técnicos intermedios para capacitación servirán de nexo entre las empresas y los Centros. Con el propósito de evitar la integración vertical entre los Centros y las OTIC, estas últimas no podrán destinar más del 15% de los fondos que administran a un solo Centro. Además los distintos Centros en que se distribuyan los fondos no podrán estar relacionados entre sí, de conformidad con lo establecido en el artículo 100 de la ley Nº 18.045, de Mercado de Valores. El límite de cobro por parte de las OTIC por la intermediación en la certificación de competencias laborales no podrá exceder el 5% del costo de dicha certificación.
 
 Los remanentes de las cuentas de capacitación y de reparto, que los organismos técnicos intermedios para capacitación mantienen por cada empresa, que se produjeren al final del ejercicio sí podrán ser usados para las actividades de evaluación y certificación de competencias laborales contempladas en esta ley.
 
 #### Artículo 34
 
-Derogado.
+El Servicio Nacional de Capacitación y Empleo podrá establecer con cargo al Fondo Nacional de Capacitación, acciones de evaluación y certificación de competencias laborales en las letras a), b), d) y e) del artículo 46 de la ley N° 19.518.
+
+Además, el Servicio Nacional de Capacitación y Empleo podrá desarrollar con cargo al Fondo, programas tendientes a ejecutar acciones de evaluación y certificación de competencias laborales para beneficiarios de escasos recursos. Dichos programas deberán ser licitados y ejecutados por los Centros acreditados por la Comisión que crea la presente ley.
 
 #### Artículo 35
 
-Derogado.
+Para el financiamiento descrito en la letra b) del artículo 26 de la presente ley, se aplicará lo dispuesto en el Párrafo 4º .De la Capacitación y su Financiamiento. de la ley Nº 19.518, salvo los artículos 31; 32; el inciso final del artículo 33; 34; 35; los incisos segundo, tercero y cuarto del artículo 36; 37; 38; los incisos primero y cuarto del artículo 39, y el inciso segundo del 43.
 
 ## Título Octavo
 
