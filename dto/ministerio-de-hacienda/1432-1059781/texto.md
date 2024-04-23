@@ -12,13 +12,13 @@ Lista de Países Menos Adelantados y Condiciones para ser incluido o excluido de
 
 #### Artículo 1
 
-Los países que serán considerados como Países Menos Adelantados corresponden a la lista de países calificados como tales por la Organización de Naciones Unidas y para los efectos de este decreto son los siguientes:
+Los países que serán considerados como Países Menos Adelantados corresponden a lo lista de países calificados como tales por la Organización de Naciones Unidas y para los efectos de este decreto son los siguientes:
 
-(a) en África: Angola, Benín, Burkina Faso, Burundi, República Centroafricana, Chad, Comoras, República Democrática del Congo, Djibouti, Guinea Ecuatorial, Eritrea, Etiopía, Gambia, Guinea, Guinea-Bissau, Lesoto, Liberia, Madagascar, Malawi, Malí, Mauritania, Mozambique, Níger, Ruanda, Santo Tomé y Príncipe, Senegal, Sierra Leona, Somalía, Sudán, Sudán del Sur, Togo, Uganda, República Unida de Tanzania y Zambia;
+(a) en África: Angola, Benín, Burkina Faso, Burundi, República Centroafricana, Chad, Comoras, República Democrática del Congo, Djibouti, Eritrea, Etiopía, Gambia, Guinea, Guinea-Bissau, Lesoto, Liberia, Madagascar, Malawi, Malí, Mauritania, Mozambique, Níger, Ruanda, Santo Tomé y Príncipe, Senegal, Sierra Leona, Somalía, Sudán, Sudán del Sur, Togo, Uganda, República Unida de Tanzania y Zambia;
 
-(b) en Asia y el Pacífico: Afganistán, Bangladesh, Bután, Camboya, Kiribati, República Democrática Popular Lao, Myanmar, Nepal, Islas Salomón, Timor-Leste, Tuvalu, Vanuatu y Yemen;
+(b) en Asia y el Pacífico: Afganistán, Bangladesh, Bután, Camboya, Kiribati, República Democrática Popular Lao, Myanmar, Nepal, Islas Salomón, Timor- Leste, Tuvalu y Yemen;
 
-(c) en América Latina y el Caribe: Haití
+(c) en América Latina y el Caribe: Haití.
 
 #### Artículo 2
 
@@ -51,6 +51,8 @@ Para acogerse al beneficio que establece la ley Nº 20.690, las mercancías prov
 (b) la mercancía sea producida enteramente en territorio de un País Menos Adelantado, a partir exclusivamente de materiales originarios; o
 
 (c) la mercancía sea producida en el territorio de un País Menos Adelantado, a partir de materiales no originarios que cumplan con un valor de contenido regional no menor al 50% o un cambio en la partida arancelaria como se define en los artículos 5 y 6, respectivamente.
+
+Los materiales originarios de Chile, incorporados en una mercancía en el territorio del País Menos Adelantado, serán considerados originarios del País Menos Adelantado, siempre que cumplan con las disposiciones aplicables del presente decreto. Una mercancía será considerada originaria de un País Menos Adelantado, cuando sea producida en Chile y en el País Menos Adelantado, por uno o más productores, siempre que cumplan con las disposiciones aplicables del presente Artículo.
 
 #### Artículo 5
 
@@ -100,33 +102,15 @@ B.- PROCEDIMIENTOS OPERACIONALES
 
 #### Artículo 10
 
-Las mercancías no perderán su carácter originario en la medida que no sean objeto de algún proceso u otra operación fuera del territorio del País Menos Adelantado, excepto la descarga, recarga, fraccionamiento o cualquier otra operación necesaria para mantener la mercancía en buenas condiciones o para transportarla a Chile y permanezca bajo el control de las autoridades aduaneras en un tercer territorio.
+Las mercancías declaradas originarias para las que se solicita trato arancelario preferencial ante el Servicio Nacional de Aduanas, serán las mismas que las exportadas desde el País Menos Adelantado. No deberán haber sido alteradas, transformadas de ninguna manera ni sometidas a operaciones que no sean para preservar su condición, agregar o colocar marcas, etiquetas, sellos o cualquier otra documentación o información para garantizar el cumplimiento de los requisitos del presente decreto y de la regulación aduanera aplicable.
 
-El cumplimiento de las condiciones contempladas en el inciso anterior se podrá acreditar mediante la presentación al Servicio Nacional de Aduanas de:
+El tránsito, almacenamiento o fraccionamiento podrá llevarse a cabo en un país distinto del de origen, siempre que permanezcan bajo supervisión aduanera en dicho país.
 
-(a) un documento único de transporte al amparo del cual se haya efectuado el transporte desde el país exportador a través del país de tránsito, o
-
-(b) un certificado expedido por las autoridades aduaneras del país de tránsito que contenga:
-
-(i) una descripción exacta de los productos,
-
-(ii) la fecha de descarga y carga de los productos y,
-
-cuando corresponda, los nombres de los buques u
-
-otros medios de transporte utilizados, y
-
-(iii) la certificación de las condiciones en las que
-
-permanecieron las mercancías en el país de
-
-tránsito; o
-
-(c) en ausencia de ello, cualesquiera documentos de prueba que permitan concluir al Servicio Nacional de Aduanas que las mercancías no han perdido su carácter originario durante el tránsito por un tercer país.
+En caso de dudas sobre si se cumplen las condiciones previstas en los párrafos anteriores, el Servicio Nacional de Aduanas podrá solicitar al importador que proporcione evidencia de su cumplimiento, mediante la presentación de cualquier documento que sea calificado como aceptable por el Servicio, tales como documentos de transporte contractuales, los conocimientos de embarque, los certificados de supervisión aduanera del país de tránsito u otra evidencia objetivo y concreta.
 
 #### Artículo 11°
 
-Para que las mercancías originarias califiquen al tratamiento arancelario preferencial, el importador deberá presentar ante el Servicio Nacional de Aduanas un certificado de origen, el cual deberá contener al menos el contenido definido en el anexo del presente decreto. Éste certificado de origen podrá ser emitido por:
+Para que las mercancías originarias califiquen al tratamiento arancelario preferencial, el importador deberá presentar ante el Servicio Nacional de Aduanas un certificado de origen o una copia simple y legible de éste ya sea en impresión o fotocopia, el cual deberá contener al menos el contenido definido en el anexo del presente decreto. Este certificado de origen podrá ser emitido por:
 
 a) la Autoridad Competente del país exportador designada conforme a lo señalado en el artículo 14; o
 
@@ -152,11 +136,9 @@ El certificado de origen será válido por el plazo de un (1) año contado a par
 
 Cuando un importador en Chile no hubiera solicitado un tratamiento arancelario preferencial para las mercancías importadas, éste podrá, dentro del plazo de un (1) año contado desde la fecha de importación, solicitar ante el Servicio Nacional de Aduanas la devolución de los aranceles aduaneros pagados en exceso por no haber solicitado tratamiento arancelario preferencial para esa mercancía, siempre que la solicitud vaya acompañada de:
 
-(a) una declaración escrita indicando que la mercancía calificaba como originaria al momento de la importación;
+(a) una copia del certificado de origen, y
 
-(b) una copia del certificado de origen, y
-
-(c) cualquier otra documentación que pueda requerir el Servicio Nacional de Aduanas relacionada con la importación de la mercancía.
+(b) cualquier otra documentación o requisito procedimental que pueda requerir el Servicio Nacional de Aduanas relacionada con lo importación de la mercancía y con la normativa que regula el procedimiento de devolución de derechos.
 
 #### Artículo 13
 
@@ -167,6 +149,24 @@ El Servicio Nacional de Aduanas, conforme a lo dispuesto en el decreto con fuerz
 #### Artículo 14
 
 El Ministerio de Relaciones Exteriores informará a los Países Menos Adelantados sobre el beneficio establecido en la ley N° 20.690. Para los efectos de formalizar la Autoridad Competente, aquellos países informarán al Ministerio de Relaciones Exteriores las respectivas entidades habilitadas para la emisión de los certificados de origen y los funcionarios habilitados para estos efectos, información que será comunicada por dicho Ministerio al Servicio Nacional de Aduanas.
+
+#### Artículo 15
+
+Para efectos de este decreto, se entenderá por bienes fungibles, a los bienes que son intercambiables para fines comerciales y cuyas propiedades son esencialmente idénticas y no es posible diferenciarlas unas de otras por simple examen visual.
+
+Para establecer si una mercancía es originaria, cuando en su producción se utilicen materiales fungibles originarios y no originarios que se encuentren mezclados o combinados físicamente, el origen de los materiales podrá determinarse mediante:
+
+(a) la segregación física de cada uno de los materiales, o
+
+(b) el uso de un método de manejo de inventarios reconocido en los Principios de Contabilidad Generalmente Aceptados del País Menos Adelantado en el cual la producción es realizada. Se entenderá por Principios de Contabilidad Generalmente Aceptados, el consenso reconocido o apoyo sustancial autorizado en el territorio del país productor, con respecto a los registros de ingreso, gastos, costos, activos y pasivos; la divulgación de información, y la preparación de estados financieros. Estos principios pueden abarcar guías amplias de aplicación general, así como también estándares, prácticas y procedimientos detallados.
+
+Cuando mercancías fungibles originarias y no originarias se mezclen o combinen físicamente y, antes de su exportación, no sufran ningún proceso productivo ni cualquier otra operación en el territorio del país en que fueron mezcladas o combinadas físicamente, diferente de la descarga, recarga o cualquier otro movimiento necesario para mantener las mercancías en buena condición o transportarlas a Chile, el origen de las mercancías podrá ser determinado conforme a los literales (a) y (b) del párrafo anterior.
+
+Una vez seleccionado uno de los métodos de control de inventarios, éste deberá ser utilizado durante el año fiscal del País Menos Adelantado en el cual la producción es realizada.
+
+El Servicio Nacional de Aduanas podrá requerir al importador cualquier documentación, incluida aquella contable, de carácter productivo, comercial, de transporte u otra, que permita acreditar el carácter originario de las mercancías de acuerdo a lo regulado en el presente artículo.
+
+Respecto a las operaciones de alije de mercancías originarias de un País Menos Adelantado, deberán dar cumplimiento a la normativa que el Servicio Nacional de Aduanas dicte a tal efecto, para poder acceder al beneficio establecido en la Ley Nº 20.690.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
