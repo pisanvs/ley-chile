@@ -88,6 +88,8 @@ iii. Que el deportista se ubique dentro de los tres primeros lugares en una de l
 
 8. Listado de Modalidades Priorizadas, reconocidas por el Ministerio del Deporte, y los fundamentos que justifican su incorporación al Sistema.
 
+9. Requisitos y condiciones para que, tanto los deportistas profesionales como aquellos que reciban algún tipo de retribución económica por su actividad deportiva puedan acceder al Sistema de Becas.
+
 La Resolución Complementaria vigente al momento en que el deportista obtiene el logro, regirá la totalidad del periodo de permanencia del Deportista Becario en el Sistema, en todas aquellas materias correspondientes a su ámbito regulatorio. Se exceptúa de la regla anteriormente señalada, el caso de los logros obtenidos en Mega Eventos del Ciclo Olímpico y Paralímpico, cuando una nueva Resolución Complementaria, dictada con posterioridad a la fecha de ingreso del deportista, modifica el tratamiento de las categorizaciones y/o montos de las subvenciones asignadas a esos logros, en cuyo caso se aplicará al Deportista Becario el régimen más beneficioso.
 
 f. Rendimiento Deportivo: a efectos de este Reglamento, se entiende por rendimiento deportivo, aquella condición fundamental para la permanencia de los Deportistas Becarios en el Sistema, lo que se cumple por la obtención de los logros que se encuentran proyectados periódicamente en la planificación de cada atleta, y la ejecución de las tareas planificadas para el mejoramiento de sus capacidades deportivas, lo cual quedará sujeto a la evaluación anual del Sistema, de conformidad a la normativa establecida en el presente Reglamento y su Resolución Complementaria.
@@ -146,6 +148,8 @@ q. Mega Eventos Deportivos: son aquellas competiciones multideportivas internaci
 
 11. Juegos Bolivarianos, organizados por la Organización Deportiva Bolivariana u Odebo, respecto a aquellas pruebas convocadas en cualquiera de los Mega Eventos en categoría todo competidor señalados precedentemente.
 
+r. Guía Paralímpico: Deportista que asiste a un deportista paralímpico en aquellas pruebas en las que se requiere que se le acompañe en la competición, de manera que dicha labor incide directamente en la posibilidad del deportista paralímpico de realizar su actuación competitiva. Para efectos del otorgamiento de la Beca, se considerará guía paralímpico a la persona que el deportista indique en su postulación. No se considerarán en esta definición a aquellas personas que cumplen la función de asistentes de vida y que colaboran con los deportistas paralímpicos asistiéndoles para su participación en competencia.
+
 ## Capítulo I
 
 Del ingreso de deportistas al Sistema
@@ -155,8 +159,6 @@ Del ingreso de deportistas al Sistema
 El único habilitado para postular a la Beca es el Deportista de Alto Rendimiento que haya obtenido alguno de los logros establecidos en la Resolución Complementaria. La postulación se deberá efectuar exclusivamente a través de la plataforma electrónica, dispuesta especialmente a estos efectos por el Instituto, la cual solo aceptará postulaciones completas de acuerdo a lo requerido en el artículo 5° del presente Reglamento.
 
 La plataforma electrónica del Sistema se compone del software, hardware e infraestructura de comunicaciones y soporte, a través de la cual se ejecutarán los procesos automatizados asociados a la Beca y se efectuarán todas las notificaciones a que se refiere el presente Reglamento, mediante comunicaciones que se dirigirán al correo electrónico que el Deportista Becario registre en ésta al momento de su postulación.
-
-Solo en caso de indisponibilidad técnica de la plataforma electrónica del Sistema, acreditada por la Unidad, el Deportista de Alto Rendimiento podrá ingresar cualquier documentación requerida por este Reglamento, en formato físico a través de la Oficina de Partes del Instituto.
 
 #### Artículo 4
 
@@ -248,6 +250,8 @@ Asimismo, el Deportista Becario deberá someterse a una evaluación de Perfil de
 
 El Deportista Becario tendrá derecho a recibir el pago de la Beca de manera retroactiva desde la fecha de la obtención del logro que le sirve de fundamento para su ingreso al Sistema. Para el caso de logros obtenidos por decisiones deportivas posteriores a la fecha de la competencia, se entenderá que éste se obtuvo en la fecha de la competición.
 
+Queda prohibido cualquier tipo de práctica indebida mediante la cual una persona natural o jurídica, relacionada con la actividad deportiva, le solicite, sugiera, condicione u obligue, en cualquier forma, a la persona becaria, a la entrega de todo o parte de los montos que percibe como beneficiario de la Beca. El Comité Nacional de Arbitraje Deportivo, en el conocimiento de denuncias por la infracción anteriormente señalada, podrá sancionar a los infractores con la imposibilidad de recibir fondos públicos provenientes de cualquier línea presupuestaria del Alto Rendimiento, por un periodo de entre tres meses a un año.
+
 #### Artículo 13
 
 Los términos y condiciones de ingreso al Sistema deberán referirse, al menos, a las siguientes materias:
@@ -271,6 +275,8 @@ h. Seguro de accidentes personales.
 i. Causales de pérdida de la Beca de acuerdo a lo señalado en este Reglamento.
 
 j. Régimen sancionatorio para la documentación falsa o fraudulenta presentada por el deportista ante la Unidad.
+
+k. Obligación del deportista becario de denunciar ante el Comité Nacional de Arbitraje Deportivo, las prácticas indebidas establecidas en el inciso final del artículo 12 del presente Reglamento.
 
 #### Artículo 14
 
@@ -355,6 +361,8 @@ Conforme a lo establecido en el artículo 19 de este Reglamento, los Deportistas
 Sin perjuicio de lo anterior, la Unidad, en el caso de que el Deportista Becario no obtenga el logro planificado para el último año de vigencia de la Beca, o bien no obtenga ninguno de los otros logros indicados en la resolución complementaria, deberá considerar la obtención de un logro en un mega evento del Ciclo Olímpico o Ciclo Paralímpico, en el año inmediatamente anterior a la finalización de la Beca, debiendo proceder, en tal caso, a la recategorización del Deportista Becario de conformidad a dicho logro. La vigencia de la Beca en este caso se contabilizará desde la obtención de tal logro.
 
 En el caso de que la vigencia de la Beca sea de un (1) año, se aplicará lo señalado en el primer inciso de este artículo, sin embargo, de obtener durante ese año otro logro de aquellos incluidos en la Resolución Complementaria, podrá ser recategorizado desde la obtención de ese nuevo logro.
+
+Los deportistas que se encuentren en el último año de vigencia de sus becas, y en proceso de preparación y clasificación a Juegos Panamericanos, Juegos Parapanamericanos, Juegos Olímpicos y Juegos Paralímpicos, podrán mantenerse en el Sistema de Becas, hasta su evaluación en el megaevento validado por la Unidad, cuando la programación de éste fuese posterior al término de la vigencia de su Beca. La extensión de la Beca en la forma señalada precedentemente deberá cumplir siempre con los criterios técnicos establecidos conjuntamente por la Unidad y la Asesoría Técnica del Alto Rendimiento, lo que deberá consignarse en un informe técnico fundado. Los criterios técnicos y las condiciones de mantención aplicables a estos casos, deberán ser establecidos en la Resolución Complementaria. Lo señalado en este inciso, podrá aplicarse también a deportistas que se encuentren en proceso de exclusión del Sistema de Becas, por la causal establecida en el literal n) del artículo 32 del presente reglamento.
 
 #### Artículo 22
 
@@ -530,6 +538,8 @@ l. Ser condenado por sentencia firme y ejecutoriada, por crimen o simple delito 
 
 m. Ser condenado por sentencia firme y ejecutoriada dictada en procedimiento seguido en su contra por violencia intrafamiliar, abuso o acoso sexual o laboral.
 
+n. Término de vigencia de la beca, sin logros que permitan su categorización y continuidad en el Sistema.
+
 #### Artículo 33
 
 Corresponderá a la Unidad la tramitación del procedimiento de exclusión del Deportista Becario del Sistema por el incumplimiento de una o más de las obligaciones que le impone el presente Reglamento.
@@ -647,6 +657,10 @@ Clasificación Funcional.
 Los deportistas paralímpicos, que en las competiciones en las cuales participan, sean sujetos de cambios en su clasificación funcional, conforme a lo establecido en el artículo 2º literal m) de este Reglamento, no serán excluidos del Sistema ni tampoco serán recategorizados, con motivo de dichos cambios de clasificación.
 
 Las Federaciones o el COPACHI, según corresponda, deberán informar a la Unidad, la reclasificación funcional de un paratleta o la declaración de deportista no elegible, en el plazo de veinte (20) días hábiles desde que toman conocimiento de tal hecho.
+
+#### Artículo 50
+
+Los Guías Paralímpicos podrán ingresar en calidad de becarios al Sistema de Becas. En cualquier caso, la subvención que perciban será equivalente al cincuenta por ciento del monto correspondiente al deportista paralímpico que obtuvo el logro que fundamenta su ingreso al Sistema. La Resolución Complementaria establecerá las pruebas que consideran la participación de guía paralímpico, sus requisitos generales y específicos, los montos asignados, vigencia y cualquier otra materia necesaria para el establecimiento de este tipo de becas.
 
 Disposiciones transitorias:
 
