@@ -64,7 +64,7 @@ El encargado de la Unidad de Bienes Nacionales de la región, actuará como Secr
 
 El quórum mínimo para sesionar será la mayoría absoluta de los miembros de la Comisión. Los acuerdos se tomarán por mayoría simple de votos de los asistentes. En caso de empate, decidirá el Presidente.
 
-La Comisión sesionará con los miembros titulares, subrogantes legales o suplentes, cuando corresponda. Con todo, cualquiera de los asistentes deberá abstenerse de ejercer su derecho a voz y voto en caso de verse afectado por lo dispuesto en el artículo 12º de la ley 19.880. También deberá abstenerse en el caso de que el Servicio que representa tenga interés en el inmueble sometido al conocimiento de la Comisión.
+La Comisión sesionará con los miembros titulares, subrogantes legales o suplentes, cuando corresponda. Con todo, cualquiera de los asistentes deberá abstenerse de ejercer su derecho a voz y voto en caso de verse afectado por lo dispuesto en el artículo 12º de la ley 19.880. También deberá abstenerse en el caso de que el Servicio que representa tenga interés en el inmueble sometido al conocimiento de la Comisión. No obstante lo anterior, los miembros de la Comisión Especial de Enajenaciones, deberán dar cumplimiento, además, al deber de abstención establecido en el artículo 62, Nº 6º, el DFL Nº 1/19.653 de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
 
 A las sesiones de la Comisión podrán asistir invitados u otros funcionarios que no sean miembros titulares, pero sólo con derecho a voz, con el propósito que éstos presten asesoría en materias que se estimen relevantes y que tengan directa incidencia en las decisiones que deba adoptar la Comisión y, sin que se tomen en cuenta para efectos del quórum de sesión o de mayoría para los acuerdos.
 
@@ -101,6 +101,8 @@ Las disposiciones anteriores se aplicarán, además, según corresponda, a la pr
 En el evento de pactarse la venta con modalidad de plazo, el saldo se reajustará en el 100% de la variación que experimente el IPC entre el mes calendario anterior a la fecha del contrato y el mes calendario anterior al del pago efectivo de la cuota respectiva, devengando intereses que se pacten.
 
 No obstante, el saldo de precio y sus cuotas, también podrá reajustarse conforme a la Unidad de Fomento o cualquier otro sistema de reajustabilidad de general aplicación, que se reducirá a su equivalente en moneda nacional a la fecha del pago efectivo de la cuota respectiva, devengando los intereses que se pacten.
+
+No será aplicable la letra c) del párrafo tercero del presente artículo, como así tampoco será aplicable la limitación de vigencia de la tasación comercial a que hace referencia la letra b) del mismo párrafo, en la determinación del valor comercial de las transferencias gratuitas de inmuebles fiscales requeridas por los Servicios de Vivienda y Urbanización, que conozca la Comisión.
 
 #### Artículo 6º
 
