@@ -8,7 +8,7 @@ I.- CREACION DE LA UNIVERSIDAD DEL BIO-BIO {ARTS. 1-8}
 
 #### Artículo 1°
 
-Créase la Universidad del Bío-Bío, institución de educación superior del Estado, como organismo autónomo, con personalidad jurídica y patrimonio propios. Sus estatutos fijarán su domicilio el que, en todo caso, deberá estar dentro de la Octava Región.
+Créase la Universidad del Bío-Bío, institución de educación superior del Estado, como organismo autónomo, con personalidad jurídica y patrimonio propios. Sus estatutos fijarán los domicilios de sus respectivas sedes, las que deberán estar dentro de la Región del Biobío y en alguna región contigua, atendiendo al carácter birregional de la universidad, de conformidad con lo señalado en el artículo 1 de la ley N° 21.094, sobre Universidades Estatales.
 
 La representación legal de la Universidad que se crea corresponderá al Rector.
 
