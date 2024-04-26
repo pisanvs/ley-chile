@@ -348,6 +348,8 @@ Hurtado Santiago Thompson
 
 No obstante lo anterior, en el eje Gran Avenida José Miguel Carrera, entre calle Riquelme y Goycolea, se establecerá adicionalmente una pista de uso exclusivo para buses de transporte público, en el costado izquierdo de la calzada, con sentido sur-norte
 
+Adicionalmente a lo anterior, establécese también como pista de uso exclusivo para buses de transporte público urbano de pasajeros, la pista del costado derecho de la calzada, en ambos sentidos de tránsito, de calle Gabriela entre Av. Santa Rosa y Acceso Sur, comuna de La Pintana. Dicha pista solo bus funcionará solamente de lunes a viernes, excepto festivos, en horario punta mañana, de 7:30 a 10:00 hrs y en horario punta tarde, entre las 17:00 y las 21:00 horas.
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
