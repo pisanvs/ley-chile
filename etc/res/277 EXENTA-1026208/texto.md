@@ -10,307 +10,587 @@ I. Apruébense las siguientes Normas Técnico Administrativas para la aplicació
 
 Para efectos de la presente Resolución los términos que a continuación se indican tendrán el sentido que se señala, y los plazos de días en los que se hace mención en la presente norma se entenderán en días hábiles, salvo disposiciones expresas en contrario, sin perjuicio de las demás definiciones contenidas para materias específicas en las presentes Normas:
 
-a) "Libro II": Libro II del Decreto con Fuerza de
+a) "Libro II": Libro II del
 
-Ley Nº 1 del 2005, del Ministerio de Salud,
+Decreto con Fuerza de
 
-que fija texto refundido, coordinado y
+Ley Nº 1 del 2005, del
 
-sistematizado de la Ley Nº 18.469, que crea
+Ministerio de Salud,
 
-el Régimen de Prestaciones de Salud.
+que fija texto
 
-b) "Reglamento": El Decreto Supremo Nº 369 de
+refundido, coordinado
 
-1985, del Ministerio de Salud, que aprobó
+y sistematizado de la
 
-el Reglamento del Régimen de Prestaciones
+Ley Nº 18.469, que crea
+
+el Régimen de
+
+Prestaciones de Salud.
+
+b) "Reglamento": El Decreto
+
+Supremo Nº 369 de
+
+1985, del Ministerio
+
+de Salud, que aprobó
+
+el Reglamento del
+
+Régimen de Prestaciones
 
 de Salud.
 
-c) "El Fondo" o "FONASA": el Fondo Nacional de
+c) "El Fondo" o "FONASA":
+
+el Fondo Nacional de
 
 Salud.
 
-d) "Modalidad Libre Elección" o M.L.E.: Una de las
+d) "Modalidad Libre
 
-dos Modalidades de Atención que establece el
+Elección" o M.L.E.:
+
+Una de las dos
+
+Modalidades de Atención
+
+que establece el
 
 # Libro II
 
-, bajo la tuición y fiscalización del
+, bajo la
 
-Fondo Nacional de Salud, en la cual el
+tuición y fiscalización
 
-beneficiario elige libremente al profesional
+del Fondo Nacional de
 
-y/o entidad, del sector público o privado, que
+Salud, en la cual el
 
-se encuentre inscrito en el Rol de FONASA,
+beneficiario elige
 
-haya celebrado convenio con éste y
+libremente al profesional
 
-otorgue las prestaciones que se requieran.
+y/o entidad, del sector
 
-e) "Rol": La nómina de Profesionales y entidades
+público o privado, que
 
-o establecimientos inscritos a que se refiere
+se encuentre inscrito
 
-el artículo 143 del Libro II.
+en el Rol de FONASA,
 
-f) "Profesional": Persona natural con título
+haya celebrado convenio
 
-emitido por una universidad reconocida por el
+con éste y otorgue las
 
-Estado o por una universidad extranjera, que de
+prestaciones que se
 
-acuerdo a la normativa jurídica vigente la
+requieran.
 
-habilita legalmente para otorgar prestaciones
+e) "Rol": La nómina de
 
-de salud del arancel a que se refiere el
+Profesionales y entidades
 
-#### Artículo 159
+o establecimientos
 
-del Libro II del DFL
+inscritos a que se refiere
 
-Nº 1/2005, del Ministerio de Salud.
+el artículo 143 del
 
-g) "Entidad o Establecimiento": Institución
+# Libro II
 
-asistencial de salud constituida por persona
+f) "Profesional": Persona
 
-jurídica, privada o pública, que se encuentre
+natural con título
 
-inscrita en el Rol de FONASA, y que haya
+emitido por una
 
-celebrado convenio con éste, para otorgar
+universidad reconocida
 
-prestaciones de salud mediante la Modalidad de
+por el Estado o por una
 
-libre elección.
+universidad extranjera,
 
-Deberá contar con infraestructura, equipamiento
+que de acuerdo a la
 
-y personal, cumpliendo con los requisitos
+normativa jurídica
 
-establecidos en la resolución sobre
+vigente la habilita
 
-procedimiento de celebración de convenios que
+legalmente para otorgar
 
-para estos efectos dicta el Fondo Nacional de
+prestaciones de salud
 
-Salud.
+del arancel a que se
 
-h) "Arancel": El conjunto formado por el catálogo
+refiere el artículo
 
-de prestaciones y conjunto de prestaciones de
+159 del Libro II del
 
-salud, del Libro II del D.F.L. Nº 01 de 2005,
+DFL Nº 1/2005, del
 
-su clasificación, codificación y valores
+Ministerio de Salud.
 
-establecidos en la resolución exenta N°176/99
+g) "Entidad o Establecimiento":
 
-de los Ministerios de Salud y de Hacienda y
+Institución asistencial
 
-sus modificaciones posteriores.
+de salud constituida
 
-El Arancel se divide en títulos y en ellos
+por persona jurídica,
 
-cada prestación o conjunto de prestaciones, se
+privada o pública,
 
-identifica con un código de siete dígitos que
+que se encuentre
 
-representa lo siguiente:
+inscrita en el Rol
 
-- El primer y segundo dígito del código de la
+de FONASA, y que haya
 
-prestación identifican el grupo.
+celebrado convenio con
 
-- El tercer y cuarto dígito del código de la
+éste, para otorgar
 
-prestación identifican el subgrupo.
+prestaciones de salud
 
-- El quinto, sexto y séptimo dígito
+mediante la Modalidad
 
-identifican dentro de cada subgrupo, el
+delibre elección.
 
-código específico de la prestación.
+Deberá contar con
 
-En general, los grupos del Arancel se han
+infraestructura,
 
-estructurado en una forma que puedan identificar
+equipamiento
 
-y agrupar las prestaciones y el conjunto de
+y personal, cumpliendo
 
-prestaciones de salud correspondientes a
+con los requisitos
 
-diferentes áreas, tales como, atención abierta,
+establecidos en la
 
-atención cerrada, laboratorio clínico,
+resolución sobre
 
-imagenología, profesiones, especialidades
+procedimiento de
+
+celebración de
+
+convenios que
+
+para estos efectos
+
+dicta el Fondo Nacional
+
+de Salud.
+
+h) "Arancel": El conjunto
+
+formado por el catálogo
+
+de prestaciones y
+
+conjunto de prestaciones
+
+de salud, del Libro
+
+II del D.F.L. Nº 01 de
+
+2005, su clasificación,
+
+codificación y valores
+
+establecidos en la
+
+resolución exenta N°176/99
+
+de los Ministerios
+
+de Salud y de Hacienda y
+
+sus modificaciones
+
+posteriores.
+
+El Arancel se divide
+
+en títulos y en ellos
+
+cada prestación o
+
+conjunto de prestaciones,
+
+se identifica con un
+
+código de siete dígitos
+
+que representa lo
+
+siguiente:
+
+- El primer y segundo
+
+dígito del código
+
+de la prestación
+
+identifican el grupo.
+
+- El tercer y cuarto
+
+dígito del código
+
+de la prestación
+
+identifican el
+
+subgrupo.
+
+- El quinto, sexto y
+
+séptimo dígito
+
+identifican dentro
+
+de cada subgrupo,
+
+el código específico
+
+de la prestación.
+
+En general, los grupos
+
+del Arancel se han
+
+estructurado en una
+
+forma que puedan identificar
+
+y agrupar las prestaciones
+
+y el conjunto de
+
+prestaciones de salud
+
+correspondientes a
+
+diferentes áreas, tales
+
+como, atención abierta,
+
+atención cerrada, laboratorio
+
+clínico, imagenología,
+
+profesiones, especialidades
 
 médicas, etc.
 
-i) "Atención Electiva o Programada": Es aquella
+i) "Atención Electiva o
 
-atención de salud que se realiza en la fecha
+Programada": Es aquella
 
-y hora que el profesional o entidad acuerde
+atención de salud
 
-con el beneficiario, y que puede ser postergada,
+que se realiza en la
 
-sin afectar la evolución o estado de un
+fecha y hora que el
 
-paciente. Las prestaciones electivas o
+profesional o entidad
 
-programadas, no recibirán recargo, aunque se
+acuerde con el beneficiario,
 
-efectúen fuera de horario hábil.
+y que puede ser
 
-j) "Atenciones con recargo arancelario":
+postergada, sin afectar
 
-Corresponden a aquellas atenciones realizadas
+la evolución o estado
 
-en días festivos o fuera de horario hábil, y que
+de un paciente. Las
 
-por las condiciones clínicas del paciente, y que
+prestaciones electivas o
 
-por expresa indicación y calificación médica,
+programadas, no recibirán
 
-deben efectuarse de inmediato sin sufrir
+recargo, aunque se
 
-postergaciones y que no constituyan una
+efectúen fuera de
 
-emergencia-urgencia en los términos
+horario hábil.
 
-definidos a continuación, y en el punto 28
+j) "Atenciones con recargo
+
+arancelario":
+
+Corresponden a
+
+aquellas atenciones
+
+realizadas en días festivos
+
+o fuera de horario hábil,
+
+y que por las condiciones
+
+clínicas del paciente,
+
+y que por expresa indicación
+
+y calificación médica,
+
+deben efectuarse de
+
+inmediato sin sufrir
+
+postergaciones y que
+
+no constituyan una
+
+emergencia-urgencia
+
+en los términos
+
+definidos a continuación,
+
+y en el punto 28
 
 de estas normas.
 
-k) "Horario hábil": Es aquel período de tiempo
+k) "Horario hábil": Es
 
-que se extiende desde las 8:00 a las 20 horas
+aquel período de tiempo
 
-en días no festivos y sábados de 8:00 a 13
+que se extiende desde
 
-horas, salvo las excepciones que contempla
+las 8:00 a las 20 horas
+
+en días no festivos y
+
+sábados de 8:00 a 13
+
+horas, salvo las
+
+excepciones que contempla
 
 el Arancel.
 
-l) "Fiscalización de la M.L.E.": Atribución
+l) "Fiscalización de la
 
-del Fondo Nacional de Salud establecida en
+M.L.E.": Atribución
 
-el art. 143 del DFL1 /2005 en su Libro II,
+del Fondo Nacional de
 
-que fija texto refundido, coordinado y
+Salud establecida en
 
-sistematizado del Decreto Ley N°2.763/79,
+el art. 143 del DFL1
 
-de la Ley N°18.933 y de la Ley N°18.469.
+/2005 en su Libro II,
 
-m) "Secreto Profesional": Es el deber que
+que fija texto refundido,
 
-tienen los profesionales de mantener en
+coordinado y
 
-absoluta reserva las informaciones, hechos
+sistematizado del
 
-y datos revelados por la persona que ha
+Decreto Ley N°2.763/79,
 
-sido atendida, o que obtengan con
+de la Ley N°18.933 y
 
-ocasión de la atención prestada a un
+de la Ley N°18.469.
+
+m) "Secreto Profesional": Es
+
+el deber que
+
+tienen los profesionales
+
+de mantener en
+
+absoluta reserva las
+
+informaciones, hechos
+
+y datos revelados por
+
+la persona que ha
+
+sido atendida, o que
+
+obtengan con
+
+ocasión de la atención
+
+prestada a un
 
 paciente.
 
-El secreto profesional es un derecho objetivo
+El secreto profesional
 
-del paciente, que el profesional está obligado
+es un derecho objetivo
 
-a respetar en forma absoluta, por ser un derecho
+del paciente, que el
 
-natural, no prometido ni pactado.
+profesional está obligado
 
-El profesional sólo podrá informar, cuando así
+a respetar en forma
 
-lo establezcan las leyes, o sea imprescindible
+absoluta, por ser un derecho
 
-para salvar la vida del paciente, de sus
+natural, no prometido
 
-familiares y contactos, o cuando los datos
+ni pactado.
 
-sean necesarios para la determinación u
+El profesional sólo podrá
 
-otorgamiento de beneficios de salud que
+informar, cuando así
 
-correspondan a sus titulares conforme
+lo establezcan las leyes,
 
-preceptúa el art. 10 de la Ley 19.628.
+o sea imprescindible
 
-También podrá tener acceso a información
+para salvar la vida del
 
-reservada o confidencial, el profesional
+paciente, de sus
 
-que actúe en cumplimiento de funciones
+familiares y contactos,
 
-administrativas, legales o judiciales,
+o cuando los datos
 
-quedando sujeto por ello al secreto
+sean necesarios para
+
+la determinación u
+
+otorgamiento de beneficios
+
+salud que
+
+correspondan a sus
+
+titulares conforme
+
+preceptúa el art. 10
+
+de la Ley 19.628.
+
+También podrá tener
+
+acceso a información
+
+reservada o confidencial,
+
+el profesional
+
+que actúe en cumplimiento
+
+de funciones
+
+administrativas, legales
+
+o judiciales,
+
+quedando sujeto por
+
+ello al secreto
 
 profesional.
 
-n) "Recién Nacido, Lactante, Niño": Se considerará
+n) "Recién Nacido, Lactante,
 
-como recién nacido (R.N.) hasta los 28 días de
+Niño": Se considerará
 
-vida, Lactante al menor de 2 años y Niño al
+como recién nacido (R.N.)
+
+hasta los 28 días de
+
+vida, Lactante al menor
+
+de 2 años y Niño al
 
 menor de 15 años.
 
-ñ) Las órdenes de atención o bonos, son documentos
+ñ) Las órdenes de
 
-nominados con nombre y RUT del beneficiario
+atención o bonos, son
 
-y del prestador, que contiene código de
+documentos nominados con
 
-prestaciones y valores, que constituyen el
+nombre y RUT del beneficiario
 
-único medio de pago para las prestaciones
+y del prestador, que
 
-que se otorguen a través de la modalidad de
+contiene código de
 
-libre elección, son emitidas en sucursal de
+prestaciones y valores,
 
-Fonasa, sitio web habilitado o por convenio
+que constituyen el
 
-con tercero (entidad delegada o prestador
+único medio de pago para
 
-de libre elección), mediante soporte de
+las prestaciones
 
-papel o digitalmente, y también permiten
+que se otorguen a través
 
-al Fondo requerir al prestador la devolución
+de la modalidad de
 
-del dinero pagado por ellas, en caso de
+libre elección, son
+
+emitidas en sucursal de
+
+Fonasa, sitio web
+
+habilitado o por convenio
+
+con tercero (entidad
+
+delegada o prestador
+
+de libre elección),
+
+mediante soporte de
+
+papel o digitalmente, y
+
+también permiten
+
+al Fondo requerir al
+
+prestador la devolución
+
+del dinero pagado
+
+por ellas, en caso de
 
 prestaciones no realizadas
 
-o) "Programa de Atención de Salud": Es un documento
+o) "Programa de Atención de
 
-emitido y valorizado por el Fondo Nacional de
+Salud": Es un documento
 
-Salud o por un tercero en convenio (entidad
+emitido y valorizado por
 
-delegada o prestador de libre elección), que
+el Fondo Nacional de
 
-registra el total de las prestaciones de salud
+Salud o por un tercero
 
-del arancel de la modalidad de libre elección,
+en convenio (entidad
 
-otorgadas a un beneficiario, en un tiempo
+delegada o prestador de
+
+libre elección), que
+
+registra el total de
+
+las prestaciones de salud
+
+del arancel de la modalidad
+
+de libre elección,
+
+otorgadas a un beneficiario,
+
+en un tiempo
 
 determinado.
 
@@ -318,171 +598,317 @@ determinado.
 
 2.1. Normas Generales.
 
-a) Para que los profesionales y entidades puedan
+a) Para que los profesionales
 
-atender en Modalidad Libre Elección, deberán
+y entidades puedan
 
-suscribir previamente un convenio con el Fondo,
+atender en Modalidad
 
-el que estará sometido a las disposiciones
+Libre Elección, deberán
 
-contenidas en los artículos 142 y 143 del
+suscribir previamente
 
-# Libro II
+un convenio con el Fondo,
 
-, al Reglamento del Régimen de
+el que estará sometido
 
-Prestaciones de salud y a las exigencias técnicas
+a las disposiciones
 
-y administrativas presentes y futuras
+contenidas en los
+
+artículos 142 y 143
+
+del Libro II, al
+
+Reglamento del Régimen
+
+de Prestaciones de salud y a las
+
+exigencias técnicas
+
+y administrativas
+
+presentes y futuras
 
 fijadas por el Fondo.
 
-b) El convenio es un acuerdo de voluntades
+b) El convenio es un
 
-destinado a crear derechos y obligaciones,
+acuerdo de voluntades
 
-acuerdo que debe ser de interés y beneficio
+destinado a crear
 
-para ambos contratantes y cuya suscripción no
+derechos y obligaciones,
 
-es obligatoria para el Fondo.
+acuerdo que debe ser
 
-De acuerdo a ello, la ponderación de los
+de interés y beneficio
 
-antecedentes para la aceptación o rechazo
+para ambos contratantes
 
-de las solicitudes de inscripción, se efectuará
+y cuya suscripción no
 
-conforme a los mecanismos establecidos por el
+es obligatoria
 
-Fondo, otorgando un trato igualitario a los
+para el Fondo.
 
-solicitantes, tanto respecto de los aspectos
+De acuerdo a ello,
 
-legales como técnicos, y resguardando en todo
+la ponderación de los
 
-caso, que no se burlen los mecanismos de
+antecedentes para la
 
-fiscalización y sanciones que utiliza
+aceptación o rechazo
 
-el Fondo con sus prestadores como por ejemplo,
+de las solicitudes
 
-cambiando razón social, pero manteniendo a
+de inscripción, se
 
-similares socios, profesionales y/o
+efectuará conforme a
+
+los mecanismos
+
+establecidos por el
+
+Fondo, otorgando un
+
+trato igualitario a los
+
+solicitantes, tanto
+
+respecto de los aspectos
+
+legales como técnicos,
+
+y resguardando en todo
+
+caso, que no se burlen
+
+los mecanismos de
+
+fiscalización y
+
+sanciones que utiliza
+
+el Fondo con sus
+
+prestadores como por
+
+ejemplo, cambiando
+
+razón social, pero
+
+manteniendo a
+
+similares socios,
+
+profesionales y/o
 
 responsables del convenio.
 
-c) Los profesionales, establecimientos y
+c) Los profesionales,
 
-entidades asistenciales inscritos
+establecimientos y
 
-quedan obligados, por la sola inscripción,
+entidades asistenciales
 
-a aceptar como máxima retribución por
+inscritos quedan obligados,
 
-sus servicios, los valores del arancel
+por la sola inscripción,
 
-correspondiente al respectivo grupo,
+a aceptar como máxima
 
-salvo que, para determinadas prestaciones,
+retribución por sus
 
-el Ministerio de Salud, mediante decreto
+servicios, los valores del
 
-supremo, autorice, respecto de ellas,
+arancel correspondiente
 
-una retribución mayor a la del arancel.
+al respectivo grupo,
 
-d) Los prestadores (profesionales y entidades) que
+salvo que, para
 
-tengan convenio de inscripción en el rol del
+determinadas prestaciones,
 
-Fondo, deberán cumplir con las instrucciones
+el Ministerio de Salud,
 
-impartidas por la Superintendencia de Salud
+mediante decreto
 
-informando a los beneficiarios del Libro II,
+supremo, autorice,
 
-que se les ha confirmado el diagnóstico de
+respecto de ellas,
 
-alguno de los problemas de salud contenidos en
+una retribución mayor
 
-las garantías explícitas de salud. A contar de
+a la del arancel.
 
-esta confirmación, tendrán derecho a tales
+d) Los prestadores
 
-garantías y para lo cual, deberán ingresar a
+(profesionales y entidades)
 
-través de un consultorio de atención primaria
+que tengan convenio
 
-y continuar la atención en la red asistencial
+de inscripción en el
 
-pública de salud de prestadores que le
+rol del Fondo, deberán
+
+cumplir con las instrucciones
+
+impartidas por la
+
+Superintendencia de Salud
+
+informando a los
+
+beneficiarios del Libro II,
+
+que se les ha confirmado
+
+el diagnóstico de
+
+alguno de los problemas
+
+de salud contenidos en
+
+las garantías explícitas
+
+de salud. A contar de
+
+esta confirmación, tendrán
+
+derecho a tales
+
+garantías y para lo
+
+cual, deberán ingresar a
+
+través de un consultorio
+
+de atención primaria
+
+y continuar la atención
+
+en la red asistencial
+
+pública de salud de
+
+prestadores que le
 
 corresponda.
 
-El Fondo Nacional de Salud informará a la
+El Fondo Nacional de
 
-Superintendencia el incumplimiento de dichas
+Salud informará a la
 
-instrucciones cada vez que tome conocimiento
+Superintendencia el
+
+incumplimiento de dichas
+
+instrucciones cada vez
+
+que tome conocimiento
 
 de ello.
 
-e) En el caso de prestadores que no presenten
+e) En el caso de prestadores
 
-cobranza de órdenes o bonos de atención de
+que no presenten
 
-Salud, en un plazo de doce meses, se entenderá
+cobranza de órdenes
 
-que el convenio suscrito para atención en la
+o bonos de atención de
 
-Modalidad de Libre Elección, se encuentra en
+Salud, en un plazo de
 
-condición de "inactivo", pudiendo el prestador
+doce meses, se entenderá
 
-reactivar los cobros de prestaciones en
+que el convenio suscrito
 
-cualquier momento, en la medida que se
+para atención en la
 
-mantengan las condiciones técnicas iniciales
+Modalidad de Libre
 
-del convenio, y no existan sanciones o medidas
+Elección, se encuentra en
 
-administrativas pendientes de cumplimiento.
+condición de "inactivo",
 
-En caso que la condición de inactivo supere 5
+pudiendo el prestador
 
-años, el Fondo determinará previa evaluación
+reactivar los cobros
 
-de las competencias, infraestructura e
+de prestaciones en
 
-instalaciones, del prestador, si para la
+cualquier momento, en
 
-reactivación se requerirá la celebración de
+la medida que se
 
-un nuevo convenio de inscripción.
+mantengan las condiciones
 
-2.2 Inscripción de Profesionales y Convenios.
+técnicas iniciales
 
-a) Los profesionales al momento de
+del convenio, y no existan
 
-solicitar la inscripción en el rol
+sanciones o medidas
 
-que lleva el Fondo, deberán indicar el
+administrativas pendientes
 
-o los grupos o niveles 1, 2 o 3, en
+de cumplimiento.
 
-que efectuarán las prestaciones de
+En caso que la condición
 
-salud; completarán los formularios
+de inactivo supere 5
 
-dispuestos para el efecto y adjuntarán
+años, el Fondo determinará
 
-la documentación que exija la resolución
+previa evaluación
 
-de convenios dictada por el Fondo. En
+de las competencias,
+
+infraestructura e
+
+instalaciones, del
+
+prestador, si para la
+
+reactivación se requerirá
+
+la celebración de
+
+un nuevo convenio de
+
+inscripción.
+
+2.2 Inscripción de Profesionales
+
+y Convenios.
+
+a) Los profesionales
+
+al momento de
+
+solicitar la inscripción
+
+en el rol que lleva el Fondo,
+
+deberán indicar el o los grupos
+
+o niveles 1, 2 o 3, en
+
+que efectuarán las
+
+prestaciones de
+
+salud; completarán los
+
+formularios dispuestos para
+
+el efecto y adjuntarán
+
+la documentación que exija
+
+la resolución de convenios
+
+dictada por el Fondo. En
 
 los formularios, se indicará:
 
@@ -780,7 +1206,7 @@ establecidos para ese efecto.
 
 Atendida la entrada en vigencia del D.S. Nº15 de 2007, publicado en el D.O. del 03.07.07 que dictó el Ministerio de Salud "Reglamento del sistema de acreditación para los prestadores institucionales", respecto de la evaluación del cumplimiento de los estándares fijados para velar porque las prestaciones que otorgan revistan la calidad necesaria para resguardar la seguridad de sus usuarios, por parte de los prestadores de salud públicos y privados que se sometan a dicho proceso, el Fondo emitirá las instrucciones que correspondan, una vez que se dicten los estándares de calidad, las condiciones y los plazos a partir de los cuales será exigible la aplicación del sistema de acreditación para dichos estándares.
 
-3. EMISIÓN DE ÓRDENES DE ATENCIÓN O BONOS Y PROGRAMAS DE ATENCIÓN.
+### 3. EMISIÓN DE ÓRDENES DE ATENCIÓN O BONOS Y PROGRAMAS DE ATENCIÓN
 
 Los beneficiarios de FONASA que eligen atenderse con profesionales o entidades asistenciales inscritas en el rol de la modalidad, deberán adquirir la correspondiente orden o bono para el pago de las atenciones, el que se emite nominativamente al beneficiario y al prestador, y codifica las prestaciones a otorgar.
 
@@ -948,7 +1374,7 @@ prestaciones específicas del arancel, así lo
 
 determine.
 
-4. REGISTROS DE RESPALDO DE PRESTACIONES
+### 4. REGISTROS DE RESPALDO DE PRESTACIONES
 
 a) Se entenderán, como tal, los datos específicos que respaldan la ejecución de una prestación de salud efectuada y presentada a cobro por un prestador inscrito en el rol de la Modalidad de libre elección.
 
@@ -956,7 +1382,7 @@ b) Respaldos en ficha del paciente: La ficha clínica es un documento único, or
 
 En ese sentido, el registro pertinente en ficha es el único instrumento con que el Fondo puede verificar la realización de las prestaciones efectuadas en cumplimiento a las normas que regulan la modalidad y la procedencia o no, del pago por prestaciones cobradas. Este documento en ningún caso podrá ser adulterado, quedará en poder del prestador y debe estar permanentemente a disposición del Fondo cuando le sea requerido.
 
-c) Los profesionales deberán registrar, en la ficha clínica, todas las atenciones que realizan al paciente, en estricto orden cronológico, y conservarán las diferencias generales propias del tipo de atención de que se trate, y según las consideraciones siguientes:
+c) Los profesionales deberán registrar, en la ficha clínica, todas las atenciones que realizan al paciente, en estricto orden cronológico, y de efectuarse prestaciones con distinto código el mismo día, deberán consignar el registro de respaldo de cada una de ellas y su hora de realización. En el caso de efectuarse prestaciones domiciliarias siempre que se encuentren suscritas en el convenio del prestador, se deberá indicar la dirección en la cual se otorgó dicha prestación, asimismo, deberán conservar las diferencias generales propias del tipo de atención de que se trate, y según las consideraciones siguientes:
 
 c.1 Fichas de atención cerrada (hospitalizada), que permitirán registrar a lo menos los datos de identificación del beneficiario, la información del ingreso del enfermo al establecimiento asistencial, las atenciones otorgadas, la identificación completa de los profesionales tratantes, los medicamentos administrados, los procedimientos y cirugías practicadas, los resultados de exámenes de laboratorio, imagenología, anatomía patológica. En caso de no disponerse de este registro, las prestaciones se tendrán por no efectuadas, salvo que el prestador acredite fehacientemente que las prestaciones fueron realizadas.
 
@@ -988,9 +1414,9 @@ El Fondo Nacional de Salud, para ejercer su facultad fiscalizadora, podrá solic
 
 Los profesionales o directores de las entidades asistenciales, estarán obligados a enviar la documentación antes mencionada y que sea requerida por el Fondo para su revisión, en un plazo no superior a cinco días hábiles contados de la fecha de solicitud. Para todos los efectos legales, los antecedentes clínicos tendrán el carácter de reservados.
 
-f) En la eventualidad de que un beneficiario, por su propia voluntad decida renunciar a su derecho de hacer uso de la modalidad de libre elección, con un determinado prestador inscrito en dicha modalidad, deberá manifestarlo por escrito y el prestador deberá disponer de este documento, cuando le sea requerido por el Fondo.
+f) En la eventualidad de que un beneficiario, por su propia voluntad decida renunciar a su derecho de hacer uso de la modalidad de libre elección, con un determinado prestador inscrito en dicha modalidad, deberá manifestarlo por escrito y el prestador deberá disponer de este documento, cuando le sea requerido por el Fondo. Esta regla aplica a todo evento.
 
-5. PRÉSTAMOS MÉDICOS
+### 5. PRÉSTAMOS MÉDICOS
 
 Los afiliados al Régimen de Prestaciones de Salud de acuerdo a lo señalado en el Libro II, tendrán derecho a solicitar al Fondo el otorgamiento de préstamos, de conformidad al D. S. N° 369 de 1985, de Salud, destinados a financiar total o parcialmente, aquella parte del valor de las prestaciones que les corresponda pagar, y que requieran para sí o para los beneficiarios que de ellos dependan, en las condiciones que se establecen a continuación:
 
@@ -1038,7 +1464,7 @@ Para pacientes sometidos a estos tratamientos, el afiliado cursará la respectiv
 
 f) Tratándose de las prestaciones otorgadas en situaciones de emergencia o urgencia, del Grupo 28 Pago Asociado Atención de Emergencia, debidamente certificadas por un médico cirujano, se entenderá que el Fondo ha otorgado un préstamo a sus afiliados por la parte del valor de las prestaciones que sea de cargo de éstos, si una vez transcurridos treinta días desde que el Fondo ha pagado al prestador el valor de las atenciones otorgadas durante una situación de urgencia o emergencia, el afiliado no ha enterado directamente al Fondo dicho monto.
 
-6. COBRO DE PRESTACIONES DE SALUD.
+### 6. COBRO DE PRESTACIONES DE SALUD
 
 6.1 Generalidades.
 
@@ -1090,7 +1516,7 @@ j) Las entidades y establecimientos, en ningún caso podrán cobrar por prestaci
 
 k) El Fondo Nacional de Salud, no autorizará la inscripción de ningún prestador que no tenga capacidad para realizar con sus propios medios las prestaciones que desea inscribir.
 
-7. GRUPO 01 CONSULTAS, VISITAS MÉDICAS, TELECONSULTA Y TELEREHABILITACIÓN
+### 7. GRUPO 01 CONSULTAS, VISITAS MÉDICAS, TELECONSULTA Y TELEREHABILITACIÓN
 
 7.1 Prestaciones del Grupo 01 Atención Abierta.
 
@@ -1298,7 +1724,7 @@ A continuación de los 31 días, el número máximo de prestaciones será de tre
 
 Las prestaciones códigos 01-01-008 y 01-01-010 podrán ser cobradas con un límite máximo de 1 semanal, en enfermos hospitalizados en Clínicas de Recuperación.
 
-8. DÍAS CAMA DE HOSPITALIZACIÓN INTEGRAL (GRUPO 02)
+### 8. DÍAS CAMA DE HOSPITALIZACIÓN INTEGRAL (GRUPO 02)
 
 Es la prestación de salud efectuada en atención cerrada, referida a la ocupación de una cama de un Establecimiento Asistencial, por parte de un beneficiario que estando, en etapa diagnóstica, tratamiento o seguimiento de un problema de salud, requiera hacer uso de instalaciones hospitalarias. Se entenderá que la definición de día cama de hospitalización integra, es aplicable a los diferentes tipos de días de hospitalización según niveles de cuidado, tales como cuidados básicos, medios y críticos.
 
@@ -1380,7 +1806,7 @@ m) Por concepto de Días - Cama, las entidades con convenio vigente, además de 
 
 De acuerdo a lo señalado en el artículo 53 del D.S. N° 369/85, de Salud y sus modificaciones, estos valores deberán ser informados al Fondo antes de su aplicación, pudiendo variarse como máximo tres veces en el año calendario, debiendo, además, mantenerse a disposición de los beneficiarios del Régimen de Prestaciones de Salud del Libro II.
 
-9. Laboratorio (GRUPO 03).
+### 9. Laboratorio (GRUPO 03)
 
 Este grupo contempla todos los exámenes o análisis de apoyo clínico y diagnóstico, así como los procedimientos y materiales utilizados para ello.
 
@@ -1502,13 +1928,13 @@ Deberán contar con sistemas de información, manuales o computacionales, de sol
 
 1. Fecha y hora de recepción de la muestra o de su rechazo fundado, si fuere el caso.
 
-2. Nombre del paciente, RUN, fecha de nacimiento, sexo y procedencia.
+### 2. Nombre del paciente, RUN, fecha de nacimiento, sexo y procedencia
 
 3. Nombre del profesional que solicitó el análisis y/o persona que lo requirió, si fuere necesario.
 
-4. Tipo de muestra y examen solicitado.
+### 4. Tipo de muestra y examen solicitado
 
-5. Resultado del examen.
+### 5. Resultado del examen
 
 9.3.1.- Consideraciones específicas:
 
@@ -1524,7 +1950,7 @@ Los controles citológicos ginecológicos, tendrán un límite financiero máxim
 
 Para los laboratorios de Necropsias, códigos 08-01-009 y 08-01-010, son prestaciones que por su complejidad corresponde que sean inscritas y cobradas sólo por instituciones, las que deberán contar con Autorización Sanitaria vigente, infraestructura y planta profesional.
 
-10. IMAGENOLOGÍA (GRUPO 04)
+### 10. IMAGENOLOGÍA (GRUPO 04)
 
 a) Las prestaciones del grupo 04 sólo podrán ser realizadas por Entidades de Salud, las que requerirán autorización sanitaria vigente emitida por la Secretaría Regional Ministerial de Salud, con excepción de las prestaciones de los códigos 04-04-002, 04-04-005, 04-04-006, 04-04-007 y 04-04-122, que podrán ser realizadas por médicos cirujanos con especialidad acreditada de Obstetricia y Ginecología, Ginecología Pediátrica y de la Adolescencia; código 04-04-005 en la especialidad de Urología y código 04-04-013 en la especialidad de Oftalmología, quienes deberán contar con el equipamiento y la respectiva autorización sanitaria vigente.
 
@@ -1590,34 +2016,6 @@ segmentos y/o articulaciones de una
 
 misma extremidad.
 
-. El Fondo podrá autorizar la
-
-valorización en forma conjunta
-
-de las prestaciones códigos
-
-0405001 y 0405008, para los
-
-casos especiales que se
-
-justifiquen técnicamente.
-
-y se pagará la primera
-
-prestación al 100% y la
-
-segunda al 50%.
-
-. No corresponde el cobro de
-
-Angioresonancia venosa y
-
-arterial por separado. El
-
-código 0405008, incluye
-
-ambas fases.
-
 g) La prestación código 0403007, TAC Orbitas
 
 Maxilofacial", incluye cavidades perinasales.
@@ -1626,7 +2024,7 @@ h) La prestación Videofluoroscopia para estudio de deglución código 04-01-073
 
 i) La prestación Elastografía hepática código 04-04-218, deberá ser efectuada por Médico Radiólogo o Gastroenterólogo.
 
-11. MEDICINA NUCLEAR (GRUPO 05)
+### 11. MEDICINA NUCLEAR (GRUPO 05)
 
 a.1) Para efecto de prescripción, respaldo y
 
@@ -1638,7 +2036,7 @@ ajustarse a lo establecido en los puntos
 
 A. PROCEDIMIENTOS TERAPÉUTICOS
 
-1. Radioisótopos 05-02-001 al 05-02-005
+### 1. Radioisótopos 05-02-001 al 05-02-005
 
 b) En cuanto a normativa específica para algunas
 
@@ -1714,7 +2112,7 @@ casos especiales que sean técnicamente
 
 justificados por el profesional medico tratante.
 
-12. KINESIOLOGÍA Y TERAPIA OCUPACIONAL (GRUPO 06)
+### 12. KINESIOLOGÍA Y TERAPIA OCUPACIONAL (GRUPO 06)
 
 12.1 Generalidades
 
@@ -1740,15 +2138,13 @@ g) El código arancelario, 06-01-101, Evaluación Kinesiológica Integral, en at
 
 h) Eventualmente, si un paciente requiere prolongar un tratamiento kinesiológico ambulatorio, el médico tratante deberá extender una nueva orden médica, excepto para los beneficiarios inscritos en el Registro Nacional de Discapacidad y que pertenezcan a FONASA, quienes podrán acceder a estas prestaciones sin tope de atenciones.
 
-i) Sólo cuando se trate de prestaciones diferentes incluidas en un mismo código, se acepta el cobro de códigos repetidos en un mismo Bono de Atención de Salud (BAS).
-
 12.1.1.- Definiciones.
 
 Las prestaciones integrales incluyen todas las terapias y procedimientos de kinesiterapia que deba realizar el profesional a un beneficiario en una sesión o prestación, entiéndase en este caso, sesión igual a prestación. Las 4 prestaciones del grupo 06 subgrupo 01, consideran evaluación y atención kinésica, todas integrales, que adquieren el nombre dependiendo del lugar donde se efectúa, pudiendo ser ambulatoria (box de atención, sala de rehabilitación o domicilio), hospitalizada en servicios de menor complejidad y hospitalizada en Unidad de Paciente Crítico (UPC).
 
 a) Evaluación Kinesiológica Integral código 06-01-101. Atención destinada a realizar pesquisa, evaluación y valoración funcional, que permita, de acuerdo al razonamiento clínico, realizar un diagnóstico kinesiológico y de esta forma programar la intervención terapéutica y sus objetivos de tratamiento. Incluye mediciones kineantropométricas y otras valoraciones estáticas o funcionales del ser humano, en paciente ambulatorio y hospitalizado.
 
-Esta prestación deberá, ser efectuada de forma independiente, asimismo, deberá ser efectuada en días distintos al inicio de las sesiones de tratamiento. Se considera una evaluación inicial para programar las terapias o procedimientos y el cobro de una segunda evaluación, para finalizar tratamiento. La continuación del tratamiento no podrá incluir cobro de nuevas evaluaciones.
+Esta prestación deberá ser efectuada en forma independiente. Se considera una evaluación inicial, en la que además se programarán las terapias y/o procedimientos a realizar y el cobro de una segunda evaluación para finalizar tratamiento. La continuación del tratamiento no podrá incluir cobro de nuevas evaluaciones.
 
 b) Atención Kinesiológica Integral Ambulatoria código 06-01-105 y Atención Kinesiológica Integral Domiciliaria código 06-01-106, esta última a efectuar en el domicilio del paciente. Atenciones destinadas a desarrollar, mantener, mejorar o recuperar el movimiento y la función de una persona en cualquier condición de salud a lo largo del curso de la vida, así como, la prevención de disfunciones a través de la prescripción, supervisión, autocuidado y facilitación de ejercicio terapéutico, entrenamiento funcional de ayudas técnicas y prótesis, más aplicación de terapias manuales, instrumentales o agentes físicos y otras estrategias terapéuticas que el avance de la ciencia y tecnología lo permita, siempre que estas cuenten con estudios clínicos que avalen su ejecución en concordancia con los lineamientos ministeriales vigentes. El uso de las diferentes estrategias terapéuticas estará en relación con el diagnóstico médico de derivación y las necesidades de cada beneficiario. Estas prestaciones no incluyen la evaluación integral del profesional. Estos códigos arancelarios requieren de derivación del médico profesional tratante. Ambas prestaciones incluyen los insumos y equipamiento necesarios para entregar la atención integral al beneficiario.
 
@@ -1996,7 +2392,7 @@ h) Sesión de terapia electroconvulsivante código 09-01-003. La prestación del
 
 i) Podrán inscribir y acceder al cobro de las prestaciones contenidas en este punto, los médicos que cumplan las condiciones y requisitos que considera el numeral 2.3 de esta normativa.
 
-15. PSICOLOGÍA (GRUPO 09 SUB GRUPO 02)
+### 15. PSICOLOGÍA (GRUPO 09 SUB GRUPO 02)
 
 15.1 Generalidades.
 
@@ -2074,13 +2470,13 @@ Las prestaciones de este Subgrupo, tendrán los siguientes máximos financieros:
 
 . La prestación consulta psicólogo código 09-02-001, tendrá un límite de dos al año por beneficiario.
 
-. Las prestaciones de psicoterapia códigos 09-02-002 y 09-02-003, tendrán un máximo de veinticuatro al año por beneficiario.
+. Las prestaciones de psicoterapia códigos 09-02-002 y 09-02-003, tendrán un máximo de veinticuatro al año por beneficiario, debiendo emitirse una prestación diaria, por código, por beneficiario.
 
 . La emisión de Bono de Atención de Salud código 09-02-003 será por cada miembro de la pareja, quienes deberán asistir en forma conjunta a cada sesión.
 
 . Para los códigos desde 09-02-010 hasta el 09-02-020, se incluirán un máximo de 3 prestaciones por Bono de Atención de Salud, y un máximo de 2 Bonos de Atención de Salud por año, por beneficiario.
 
-16. FONOAUDIOLOGÍA (GRUPO 13 SUB-GRUPO 03).
+### 16. FONOAUDIOLOGÍA (GRUPO 13 SUB-GRUPO 03)
 
 16.1 Generalidades.
 
@@ -2164,7 +2560,7 @@ c) Si el beneficiario es apto para este tipo de atención, el profesional, deber
 
 d) Los profesionales que otorguen atenciones de telerehabilitación deberán entregar al beneficiario pautas de ejercicios y material de apoyo, en concordancia con el diagnóstico y el plan terapéutico, asimismo, deberá existir un medio de comunicación establecido entre el beneficiario y el profesional.
 
-17. PROCEDIMIENTOS DIAGNÓSTICO TERAPÉUTICOS
+### 17. PROCEDIMIENTOS DIAGNÓSTICO TERAPÉUTICOS
 
 17.1 Procedimiento Autónomo
 
@@ -2210,6 +2606,30 @@ Gastroenteroanastomosis (proc. aut.)
 
 a) En caso de efectuarse en un solo acto un procedimiento diagnóstico o terapéutico asociado a una intervención quirúrgica, o dos procedimientos diferentes, corresponderá valorizar en un 100% la prestación de mayor valor y en un 50% la prestación de menor valor, tanto para los honorarios profesionales como para el Derecho de Pabellón.
 
+En los casos en los que se requiera efectuar procedimientos diagnósticos terapéuticos endoscópicos en el sistema digestivo con vías de acceso diferentes (alta y baja), y en un mismo procedimiento, corresponderá que ambos códigos del arancel sean cobrados al 100%, por lo que se deberán valorizar en programas distintos.
+
+Para las reglas de los honorarios profesionales y de derecho a pabellón, se aplicará lo señalado en el primer párrafo de esta letra.
+
+Ejemplo:
+
+Prestaciones requeridas a un mismo beneficiario en un mismo procedimiento.
+
+Códigos:
+
+1801001 Gastroduodenoscopía (incluye esofagoscopía).
+
+1801006 Colonoscopía larga (incluye sigmoidoscopía y colonoscopía izquierda).
+
+1801045 Polipectomía o Mucosectomía endoscópica baja
+
+En este caso procede la presentación a cobro como se detalla a continuación:
+
+1801045 Polipectomía o Mucosectomía endoscópica baja, corresponde efectuar su valorización al 100%.
+
+1801006 Colonoscopía larga (incluye sigmoidoscopía y colonoscopía izquierda), corresponde efectuar su valorización al 50%.
+
+1801001 Gastroduodenoscopía (incluye esofagoscopía), corresponde efectuar su valorización al 100%.
+
 b) En los procedimientos diagnósticos y terapéuticos, que no tengan contemplado los honorarios de anestesia y en los cuales se requiera anestesia general o regional, el uso de ésta deberá ser fundamentado por el médico tratante en el Programa respectivo, de acuerdo a lo señalado en la letra a) del punto 20 y en letra a.1) del punto 3.3.
 
 c) El médico tratante deberá llevar registros, ya sea en una ficha clínica y/o en un protocolo operatorio de los procedimientos diagnósticos o terapéuticos que realice.
@@ -2230,13 +2650,15 @@ i) Prestaciones 2004007 (Aspiración manual endouterina (AMEU) y 1901035 (Biopsi
 
 j) La prestación código 2001023, Biopsia estereotáxica digital de mama, corresponde a un procedimiento diagnóstico-terapéutico invasivo (por la punción). Se realiza en sala de rayos, por médico especialista en Radiología y se cobra por cada mama independiente de la cantidad de focos existentes. Incluye: Anestesia, imágenes, además del informe radiológico, insumos (aguja de biopsia mamaria y otros), toma de muestras: incluidas, a través de la punción correspondiente.
 
+k) Las prestaciones códigos 1703066 Instalación de catéter venoso de larga duración tunelizado (incluye catéter), 1703074 Retiro de catéter venoso de larga duración tunelizado, 1703075 Fístula Arteriovenosa Protésica, 1703076 Transposición de vena basílica para hemodiálisis (prestación incluye catéter) y 1703080 Implante y retiro de implante venoso (filtro de vena cava) por vía endovascular requieren de orden médica y deben ser efectuadas por Cirujano vascular periférico/médico cirujano con especialidad en cirugía, incluyen insumos, dispositivos y los equipos necesarios. Cuentan con un límite financiero de 1 prestación por año por beneficiario.
+
+l) El código 1701078 Instalación de reservorio subcutáneo (catéter de quimioterapia), incluye catéter, equipos e insumos, su instalación debe ser efectuada por médico Cirujano vascular periférico/médico cirujano con especialidad en cirugía.
+
+m) Las prestaciones códigos 1703081 Ablación troncos venosos con técnica térmica (láser, radiofrecuencia u otras) y 1703082 Ablación troncos venosos con técnica no térmica no tumescente (cianocrilato, fármaco, mecánico u otras), incluyen los insumos para el procedimiento, requieren orden de prescripción médica, deben ser efectuadas por médico cirujano con especialidad en cirugía/Cirujano vascular periférico. Límite financiero establecido para cada uno de los códigos señalados corresponde a 2 prestaciones por año por beneficiario.
+
 17.3 Hemodiálisis y Peritoneodiálisis.
 
 a) De acuerdo a lo establecido en la letra b) del punto 3.3, deberán cobrarse a través de Programa de Atención de Salud, los siguientes códigos:
-
-. Hemodiálisis con insumos incluidos 19-01-023
-
-. Hemodiálisis sin insumos 19-01-024
 
 . Peritoneodiálisis (incluye insumos) 19-01-025
 
@@ -2346,9 +2768,9 @@ c) El 19-01-029 "Hemodiálisis con Bicarbonato con insumos, tratamiento mensual"
 
 Cuando por diversas circunstancias se realicen menos de trece hemodiálisis o ultrafiltraciones, deberá confeccionarse (o rehacerse) el programa de atención de salud con el número exacto de ellas con un máximo de 12 en un mes, usando el cód. 19-01-023, o el cód. 19-01-028.
 
-Excepcionalmente y sólo en casos de tratamientos trisemanales completos, en los cuales resulten 12 hemodiálisis mensuales por el número de días del mes, corresponderá el cobro del cód. 19-01-027, o el cód. 19-01-029.
+Excepcionalmente y sólo en casos de tratamientos trisemanales completos, en los cuales resulten 12 hemodiálisis mensuales por el número de días del mes, corresponderá el cobro del cód. 19-01-029.
 
-Los valores del cód. 19-01-027 y cód. 19-01-029, han sido calculados con 13,5 hemodiálisis a fin de cubrir los meses de 14 hemodiálisis y aquellas extras que deban efectuarse.
+Los valores del cód. 19-01-029, han sido calculados con 13,5 hemodiálisis a fin de cubrir los meses de 14 hemodiálisis y aquellas extras que deban efectuarse.
 
 d) Los Centros de Diálisis con autorización de instalación y funcionamiento otorgada por la autoridad sanitaria respectiva, cumplirán las disposiciones normativas fijadas en el Decreto Supremo N° 2.357/de 1994 del Ministerio de Salud y sus modificaciones, que aprobó el Reglamento sobre Centros de Diálisis. Asimismo, los Centros acreditados y que opten por inscripción en el Fondo, se regirán, para efectos de convenios y cobranzas de prestaciones de Diálisis, por las normas e instrucciones emitidas por el Fondo.
 
@@ -2422,7 +2844,9 @@ c) Las prestaciones "Monitoreo Basal" (código 20-01-009) y "Monitoreo fetal est
 
 d) En infiltraciones de nervios y/o raíces nerviosas se pagará el valor unitario por sesión, sin considerar el número de infiltraciones.
 
-e) La Polisomnografía (cód. 11-01-045) comprende a lo menos los siguientes exámenes: electroencefalograma, electrocardiograma, electronistagmografía y monitoreo de apnea.
+e) Los códigos 11-01-050 Polisomnografía basal hospitalizado; 11-01-051 Polisomnografía noche dividida; 11-01-052 Polisomnografía basal ambulatoria y 11-01-053 Polisomnografía con titulación de CPAP y/o VMNI noche completa, deberán ser efectuados por profesionales médicos especialistas (neurólogo, especialista en enfermedades respiratorias, otorrinolaringólogo, psiquiatra, adultos o pediátricos). Estos códigos arancelarios consisten en procedimientos no invasivos y consideran en su valor el registro en forma simultánea de variables neurológicas y cardiorrespiratorias: electroencefalograma, electrooculograma, flujo aéreo oronasal (PTAF y NAF), movimientos respiratorios toracoabdominales, frecuencia cardiaca, saturación de oxígeno, electromiografía de mentón y tibiales anteriores, micrófono para ronquidos, registro videográfico, consideran una duración de 12 horas. No incluyen en su valor el día cama de observación.
+
+El código 11-01-051 Polisomnografía noche dividida, además considera en su valor la ejecución de polisomnografía basal la primera mitad de la noche y titulación con dispositivo de presión positiva continua (CPAP) la segunda mitad de la noche. Esta prestación debe efectuarse en modalidad hospitalizado. La prestación código 11 01 053 Polisomnografía con titulación de CPAP y/o VMNI noche completa, debe ser efectuada en modalidad hospitalizado.
 
 f) Las prestaciones del Grupo 05 Medicina Nuclear y Radioterapia, no estarán afectas a recargo horario. De acuerdo a lo señalado en el punto 3 letra a.1), para la emisión de las respectivas órdenes, se requiere la confección de un Programa de Atención de Salud, con excepción del Subgrupo 01.
 
@@ -2438,27 +2862,29 @@ médico tratante de especialidad.
 
 . La emisión de la orden de atención se hará a
 
-partir del formulario de confección de programa
+partir del formulario de confección de
 
-médico que adjuntará la prescripción del médico
+programa médico que adjuntará la
 
-tratante.
+prescripción del médico tratante.
 
-. El código 11-01-140, no tiene recargos, por nivel
+. El código 11-01-140, no tiene recargos, por
 
-del prestador ni horario de atención.
+nivel del prestador ni horario de atención.
 
-. El máximo de prestaciones 11-01-140, será una por
+. El máximo de prestaciones 11-01-140, será
 
-año, por beneficiario.
+una por año, por beneficiario.
 
-. El valor de la prestación incluye: evaluaciones y
+. El valor de la prestación incluye:
 
-controles médicos, entrega y otorgamiento de
+evaluaciones y controles médicos, entrega
 
-inmunomoduladores, resonancia nuclear magnética
+y otorgamiento de inmunomoduladores,
 
-cuando corresponda.
+resonancia nuclear magnética cuando
+
+corresponda.
 
 Las prestaciones 11-01-141 y 11-01-142, tendrán los mismos conceptos y fundamentos precedentes, excepto la restricción de frecuencias máximas.
 
@@ -2480,7 +2906,7 @@ jeringas desechables, antisépticos y desinfectantes.
 
 j) La Poligrafía cardiorrespiratoria del sueño código 17-07-038, corresponde ser realizado en modalidad hospitalizado, incluye el registro durante 12 horas en forma simultánea del flujo aéreo, movimientos respiratorios, frecuencia cardiaca, saturación de oxígeno. Debe ser efectuado por un médico especialista (neurólogo, broncopulmonar, otorrinolaringólogo, psiquiatra adultos o pediátricos, con subespecialidad en sueño) o por un profesional de la salud capacitado, solo podrá ser efectuado en Establecimientos de salud y Sociedades de Profesionales. Este examen incorpora su respectivo informe, el que deberá ser efectuado solo por el médico de las especialidades enunciadas anteriormente.
 
-La Poligrafía cardiorrespiratoria del sueño ambulatoria código 17-07-063, incluye el registro ambulatorio de 12 horas, en forma simultánea del flujo aéreo, movimientos respiratorios, frecuencia cardiaca, saturación de oxígeno. Debe ser efectuado por un médico especialista (neurólogo, broncopulmonar, otorrinolaringólogo, psiquiatra adultos o pediátricos, con subespecialidad en sueño) o por un profesional de la salud capacitado, solo podrá ser efectuado por Establecimientos de salud y Sociedades de Profesionales. Este examen incorpora su respectivo informe, el que deberá ser efectuado solo por el médico de las especialidades enunciadas anteriormente. Las prestaciones código 1707052 Monitorización saturación de O2 durante el sueño y 1707053 Estudio polisomnográfico de apneas del sueño con titulación de CPAP son excluyentes entre sí, ya que, corresponden a saturación nocturna y a titulación autónoma de CPAP respectivamente. La prestación código 1707053 Estudio polisomnográfico de apneas del sueño con titulación de CPAP, posee un límite financiero de dos prestaciones por año por beneficiario.
+La Poligrafía cardiorrespiratoria del sueño ambulatoria código 17-07-063, incluye el registro ambulatorio de 12 horas, en forma simultánea del flujo aéreo, movimientos respiratorios, frecuencia cardiaca, saturación de oxígeno. Debe ser efectuado por un médico especialista (neurólogo, broncopulmonar, otorrinolaringólogo, psiquiatra adultos o pediátricos, con subespecialidad en sueño) o por un profesional de la salud capacitado, solo podrá ser efectuado por Establecimientos de salud y Sociedades de Profesionales. Este examen incorpora su respectivo informe, el que deberá ser efectuado solo por el médico de las especialidades enunciadas anteriormente. Las prestaciones código 1707052 Saturometría nocturna del sueño y 1707053 Titulación Automática de CPAP son excluyentes entre sí, ya que, corresponden a saturación nocturna y a titulación autónoma de CPAP respectivamente. La prestación código 1707053 Estudio polisomnográfico de apneas del sueño con titulación de CPAP, posee un límite financiero de dos prestaciones por año por beneficiario.
 
 17.5 "Neumología Endosonografía Bronquial (EBUS) Código 1707056":
 
@@ -2532,7 +2958,7 @@ Ambas prestaciones son excluyentes con la prestación PAD PARTO (2501009), por l
 
 El convenio para estas prestaciones, sólo considera la inscripción de prestadores institucionales o entidades.
 
-18. OFTALMOLOGÍA (GRUPO 12)
+### 18. OFTALMOLOGÍA (GRUPO 12)
 
 a) El Fondo pagará la consulta oftalmológica con la prestación 01-01-204 Consulta Médica de Especialidad en Oftalmología, según grupo de inscripción del profesional. La consulta oftalmológica incluye procedimientos habituales, tales como tonometría, refracción, gonioscopía, fondo de ojo, etc.
 
@@ -2582,7 +3008,7 @@ d.4) Las entidades y profesionales que cobren la prestación 12-01-027, deberán
 
 e) Paquimetría código 12-01-045, prestación realizada por profesional Tecnólogo Médico con mención en oftalmología y optometría, deberá contar con el equipamiento e infraestructura necesaria para el desarrollo de la prestación, incluye el uso de anestesia tópica en colirio. El procedimiento bilateral contempla la entrega del informe y requiere de orden médica del profesional tratante.
 
-19. CIRUGÍA (GRUPOS 11 AL 21)
+### 19. CIRUGÍA (GRUPOS 11 AL 21)
 
 A) NORMAS GENERALES
 
@@ -2621,6 +3047,34 @@ En el caso que el primer cirujano fundamente la decisión de no cobrar ningún h
 No obstante, todas las demás prestaciones que requiera el paciente podrán ser pagadas mediante Órdenes de Atención.
 
 i) Cuando un mismo equipo y en un mismo acto quirúrgico practique dos o más intervenciones de distinto código, ya sea por la misma u otra incisión o por diferentes vías de acceso, deberán cobrar el 100% de aquella de mayor valor y el 50% de la de segundo mayor valor.
+
+Para los códigos 1103069 y 1103049, se podrá efectuar el cobro dos veces de cada uno de estos códigos, en el mismo acto quirúrgico, de acuerdo con los segmentos vertebrales que se requieran intervenir. El cobro se realizará para el primero al 100% y los siguientes que actúan como un segundo o tercer procedimiento al 50%. La presentación a cobro asociado a pabellón corresponderá valorizarlo solo por una vez.
+
+Ejemplo:
+
+Prestaciones requeridas:
+
+1103069 Fijación de columna (cervical-dorsal-lumbar) cualquier vía abordaje, c/s osteosíntesis.
+
+1103049 Hernia núcleo pulposo, estenorraquis, aracnoiditis, fibrosis perirradicular cervical, dorsal o lumbar, trat. quir.
+
+Para intervención de dos segmentos vertebrales, por degeneración severa del disco intervertebral, que requiere dos fijaciones de columna, en un mismo acto quirúrgico.
+
+Corresponderá su valorización como a continuación se detalla:
+
+Primer código (intervención primaria) 1103049 Hernia núcleo pulposo, estenorraquis, aracnoiditis, fibrosis perirradicular cervical, dorsal o lumbar, trat. quir., valorizar al 100%.
+
+Primer código (intervención secundaria) 1103069 Fijación de columna (cervical-dorsal-lumbar) cualquier vía abordaje, c/s osteosíntesis, valorizar al 50%.
+
+Segundo código (intervención primaria) 1103049 Hernia núcleo pulposo, estenorraquis, aracnoiditis, fibrosis perirradicular cervical, dorsal o lumbar, trat. quir, valorizar al 50%.
+
+Segundo código (intervención secundaria) 1103069 Fijación de columna (cervical-dorsal-lumbar) cualquier vía abordaje, c/s osteosíntesis, valorizar al 50%.
+
+En estos casos particulares corresponderá la valorización de pabellón solamente para:
+
+Primer código (intervención primaria) 1103049 Hernia núcleo pulposo, estenorraquis, aracnoiditis, fibrosis perirradicular cervical, dorsal o lumbar, trat. quir., valorizando pabellón al 100%.
+
+Primer código (intervención secundaria) 1103069 Fijación de columna (cervical-dorsal-lumbar) cualquier vía abordaje, c/s osteosíntesis, valorizando pabellón al 50%.
 
 Para efecto del cálculo de la prestación de mayor valor, se considerará la suma del total de los honorarios del equipo quirúrgico (No incluye honorarios de anestesista, para cuyo cálculo debe aplicarse lo establecido en el punto 20 letra d) de estas Normas.
 
@@ -2700,7 +3154,13 @@ h) El código 1703053 incluye la Implantación de cualquier tipo de Marcapaso.
 
 i) La Intervención quirúrgica implante coclear código 13-02-074, incluye la hospitalización e intervención quirúrgica para implantar el dispositivo. No incluye el dispositivo.
 
-20. PRESTACIONES DE ANESTESIA
+j) Prestación código 1802153 Hernia sin malla por vía anterior, con acceso abierto, corresponde a la reparación de una hernia inguinal, umbilical, epigástrica, Spiegel, incisional, traumática, con abordaje abierto.
+
+El código 1802154 Hernia con malla preperitoneal, acceso mininvasivo. Corresponde a la reparación de una hernia inguinal, umbilical, epigástrica, Spiegel, incisional, traumática, con abordaje mininvasivo con la utilización de una malla en el plano preperitoneal. Prestación, no incluye la prótesis, solo considera dentro del valor la instalación de esta.
+
+El código 1802155 Hernia con malla retromuscular, hernia diafragmática por vía abdominal, hernia hiatal, acceso mininvasivo, corresponde a la reparación de una hernia umbilical, incisional, epigástrica, traumática, con abordaje mininvasivo con la utilización de una malla en el plano retromuscular, hernias diafragmáticas y hiatales con abordaje mininvasivo. Prestación, no incluye la prótesis, solo considera dentro del valor la instalación de esta.
+
+### 20. PRESTACIONES DE ANESTESIA
 
 a) En las prestaciones que no tengan contemplado valor de anestesia y en las cuales se requiera anestesia general o regional, el uso de ésta, se deberá fundamentar en el Programa respectivo.
 
@@ -2722,7 +3182,7 @@ g) En operaciones simultáneas realizadas por distintos equipos quirúrgicos, lo
 
 h) La anestesia local tópica, se entiende como preparación a procedimientos e intervenciones menores, por lo que no corresponde su cobro separado de la prestación principal.
 
-21. Prestaciones otorgadas por Cirujanos Dentistas.
+### 21. Prestaciones otorgadas por Cirujanos Dentistas
 
 Los establecimientos de salud, que deseen otorgar prestaciones de salud en la MLE, deberán inscribirse en el Rol que lleva el Fondo, suscribiendo el respectivo convenio y presentando la documentación que corresponda según lo dispuesto por el Fondo para este grupo arancelario. Asimismo, deberán regirse por lo establecido en los puntos 2, 3 y 4 de esta normativa.
 
@@ -2756,7 +3216,7 @@ d) Cuando se trate de pacientes que presentan Trastornos Temporomandibulares de 
 
 En caso de requerirse la indicación de exámenes, el especialista en Cirugía y Traumatología Bucomaxilofacial, se ajustará a lo señalado en el número 3.1 de estas normas, pudiendo prescribir los exámenes siguientes:
 
-22. PRESTACIONES EFECTUADAS POR MATRONAS
+### 22. PRESTACIONES EFECTUADAS POR MATRONAS
 
 a) En caso de control de embarazo normal efectuado por matrona, esta profesional podrá solicitar los exámenes de laboratorio que se detallan en la letra c) del punto 9.2 de estas normas.
 
@@ -2772,7 +3232,7 @@ c) La prestación correspondiente a honorario de Matrona por atención integral 
 
 d) Tendrán derecho a realizar y cobrar la prestación código 20-01-015 Colocación o extracción de dispositivo intrauterino (no incluye el valor del dispositivo), siempre que se disponga de convenio suscrito con el Fondo. Para efectos de emisión, se requerirá de la solicitud escrita y firmada por matrona o médico.
 
-23. PRÓTESIS, ÓRTESIS Y DISPOSITIVOS MÉDICOS
+### 23. PRÓTESIS, ÓRTESIS Y DISPOSITIVOS MÉDICOS
 
 23.1 Emisión de órdenes de atención.
 
@@ -2780,9 +3240,9 @@ Requisitos para la bonificación en base al arancel vigente:
 
 a) El beneficiario deberá presentar Factura, boleta o voucher (con certificado de compra) original o fotocopia de la prótesis adquirida. A la falta de los documentos anteriormente señalados, también será válida la Cuenta médica o factura Hospitalaria pagada del paciente, que incluya la prótesis implantada.
 
-b) La codificación de la prótesis deberá regirse estrictamente a la prescripción efectuada por el médico especialista.
+b) La codificación de la prótesis deberá regirse estrictamente a la prescripción efectuada por el médico tratante.
 
-c) Se deberá acompañar la prescripción médica, que deberá señalar los datos del beneficiario, la prótesis a bonificar e indicar, el nombre, RUT, firma y especialidad del profesional que la emite. El profesional médico que prescriba estos códigos arancelarios deberá estar registrado en la Superintendencia de Salud.
+c) Se deberá acompañar la prescripción médica, que deberá señalar los datos del beneficiario, la prótesis a bonificar e indicar, el nombre, RUT, firma del profesional que la emite. El profesional médico que prescriba estos códigos arancelarios deberá estar registrado en la Superintendencia de Salud.
 
 d) La fecha de la prescripción médica no deberá ser superior a 1 año.
 
@@ -2834,9 +3294,9 @@ gancho, mano y guante 1
 
 gancho, mano y guante 1
 
-23-01-063 Prótesis sobre rodilla, con rodilla de
+23-01-063 Prótesis sobre rodilla, con rodilla
 
-seguridad 1
+de seguridad 1
 
 23-01-071 Lentes ópticos o de contacto 2
 
@@ -2848,13 +3308,15 @@ seguridad 1
 
 CODIGO GLOSA MAX. ANUAL
 
-2301073 Monitor de glicemia 1
+2301073 Dispositivo para monitoreo
 
-2301074 Sensor (Monitoreo Continuo Glucosa) 24
+continuo de glucosa 1
+
+2301074 Sensor (para monitoreo de glucosa). 24
 
 b) El Fondo Nacional de Salud, podrá establecer otros límites financieros máximos, de acuerdo a lo establecido en el punto 6.1 letra i) de estas normas.
 
-24. TRASLADOS (Grupo 24).
+### 24. TRASLADOS (Grupo 24)
 
 24.1 De la inscripción de los prestadores: para el cobro de las prestaciones del Grupo 24 los prestadores deberán estar inscritos en el Rol que para estos efectos lleva el Fondo Nacional de Salud, debiendo cumplirse las siguientes exigencias:
 
@@ -2938,7 +3400,7 @@ d) Traslados Grupo 24 desde código 24-01-001 al 24-01-060, 24-01-070.
 
 24.4 El Fondo Nacional de Salud, podrá establecer otros límites financieros máximos, de acuerdo a lo establecido en el punto 6.1 letra i) de estas normas.
 
-25. SALAS DE PROCEDIMIENTOS.
+### 25. SALAS DE PROCEDIMIENTOS
 
 a) Definición: Se entiende por Salas de Procedimientos, a aquellos recintos que permiten a un médico efectuar procedimientos diagnósticos y terapéuticos especiales. Deberá cumplir con los requisitos que establece el Fondo sobre convenios y sus modificaciones. En el Arancel, los códigos adicionales del 1 al 4 corresponden a salas de procedimientos.
 
@@ -2950,7 +3412,7 @@ Lo anterior, según lo señalado en el artículo N° 53 del D.S. N° 369/85, de 
 
 d) En lo que sea aplicable, las salas de procedimiento consideran incluido en su valor, los conceptos, definiciones y elementos, señalados en el punto número 26 de estas Normas.
 
-26. QUIRÓFANO Y DERECHO DE PABELLÓN.
+### 26. QUIRÓFANO Y DERECHO DE PABELLÓN
 
 a) Definición: Se entiende por Quirófano, a aquel recinto de acceso restringido, que cuenta con instalaciones, anexos, equipamiento, instrumental y elementos de uso quirúrgico necesario y suficiente, que en condiciones de asepsia y seguridad permiten efectuar intervenciones quirúrgicas.
 
@@ -3219,6 +3681,8 @@ a) En aquellas prestaciones PAD, cuyas cirugías trazadoras son susceptibles de 
 b) En este caso, tampoco proceden cobros de diferencias por ningún concepto al beneficiario, ni por día cama, derecho de pabellón, arsenalera, medicamentos o insumos.
 
 c) Si el mismo equipo y en el mismo acto quirúrgico, realiza simultáneamente otra intervención que no corresponda a la cirugía trazadora del PAD, esta última intervención deberá cobrarse en forma individual en un Programa Complementario que será visado por el Fondo, aun cuando exista un PAD específico para su tratamiento.
+
+La resolución de las complicaciones asociadas a los eventos quirúrgicos, del párrafo anterior, serán resueltas de acuerdo con la definición de integralidad del PAD definida en el numeral 27.3.
 
 La segunda cirugía, se valorizará en el nivel de inscripción de la entidad prestadora, correspondiendo un 50% por los honorarios profesionales y un 50% por el derecho de pabellón.
 
@@ -3646,6 +4110,8 @@ D) Prestaciones trazadoras
 
 Las prestaciones identificadas como trazadoras para los PAD corresponden a las que se detallan a continuación:
 
+.
+
 27.6 Normas Específicas
 
 a) El PAD Parto considera la atención profesional del equipo completo incluyendo médico obstetra, matrona, anestesista, pediatra o neonatólogo.
@@ -3848,6 +4314,8 @@ El PAD código 25-02-010 no cubre las complicaciones que se puedan presentar en 
 
 La frecuencia máxima para el tratamiento de baja complejidad, en el año calendario, es de 3 prestaciones para hombre y tres prestaciones para mujer.
 
+Para el acceso de aquellas personas con capacidad de gestar, Fonasa establecerá protocolo.
+
 i) PAD Fertilización Asistida de Alta Complejidad (FAAC).
 
 DEFINICIONES:
@@ -3902,7 +4370,7 @@ En caso de abandonar el tratamiento, por alguna causa de tipo médica o de fuerz
 
 ACCESO:
 
-. Para acceder a la cobertura financiera, la mujer debe ser beneficiaria de Fonasa (tramo B, C, D), y cumplir alguna de estas dos condiciones:
+. Para acceder a la cobertura financiera, existirán dos vías de ingreso, la primera vía será por el diagnóstico de infertilidad, en la cual la mujer debe ser beneficiaria del Fonasa (tramo B, C, D), y cumplir alguna de estas dos condiciones:
 
 1.- Contar con diagnóstico previo de infertilidad.
 
@@ -3921,6 +4389,8 @@ ACCESO:
 . Las Mujeres deben encontrarse libres de patologías concomitantes que impidan comenzar el tratamiento. Si cursa alguna patología crónica, ésta debe estar compensada para su derivación y posterior inicio de tratamiento de infertilidad de alta complejidad.
 
 . No podrán optar a este tratamiento, las parejas en que uno o ambos miembros de ella padezca(n) alguna Infección de Transmisión Sexual (ITS) activa, especialmente Chlamydia Trachomatis y Gonorrea; y VIH (+) con carga viral detectable.
+
+. La segunda vía de acceso será para personas con capacidad de gestar de acuerdo con protocolo establecido por el Fonasa.
 
 INCLUYE:
 
@@ -4060,6 +4530,20 @@ El PAD código 2505456 Trombólisis de Urgencia Infarto Cerebral tiene como lím
 
 Los PAD de los códigos 2504103 Angiografía Diagnóstica Cerebral, 2505936 Angioplastía y Colocación de Stent en la Arteria Carótida, 2505937 Endarterectomía Carotidea, no presentan límite financiero establecido.
 
+27.8 Pago Asociado A Diagnóstico (PAD) Grupo 25 Subgrupo 05
+
+. PAD código 2505942 Reconstrucción Mamaria Inmediata con Implante (1º tiempo quirúrgico, colocación expansor). Intervención quirúrgica que reconstruye la mama o seno a quien ha tenido mastectomía (extirpación de la mama por prevención o cáncer de seno). La intervención quirúrgica se hace al momento de la mastectomía (inmediata).
+
+. PAD código 2505943 Reconstrucción Mamaria Diferida con Implante (1º tiempo quirúrgico, colocación expansor). Intervención quirúrgica que reconstruye la mama o seno a quien ha tenido mastectomía (extirpación de la mama por prevención o cáncer de seno). La intervención quirúrgica se puede hacer después que las incisiones de la mastectomía hayan cicatrizado y la terapia del cáncer de seno se haya completado.
+
+. PAD código 2505944 Reconstrucción Mamaria sólo con Implante (2º tiempo quirúrgico) y PAD código 2505945 Reconstrucción Mamaria Diferida con Implante (2º tiempo quirúrgico, cambio expansor a prótesis definitiva), corresponden a la intervención quirúrgica en segunda etapa, una vez extraído el expansor, este se reemplaza por un implante o prótesis.
+
+. PAD código 2505946 Reconstrucción Mamaria con Colgajo TRAM (colgajo musculocutáneo de recto abdominal transverso) o Colgajo Microquirúrgico DIEP (tipo de colgajo sin afectación de músculo) o sus variantes, esta prestación incluye colgajo, el cual puede extirparse de sitios diferentes del cuerpo para la reconstrucción del seno. Incluye intervención quirúrgica para toma de colgajo.
+
+. PAD código 2505947 Reconstrucción Mamaria Complejo Aréola y/o Pezón (Procedimientos autónomos), prestación para reconstrucción del pezón y la aréola, posterior a la cirugía de reconstrucción mamaria.
+
+Estas prestaciones deben ser efectuadas por médico cirujano con especialidad en cirugía/ cirujano con especialidad en obstetricia y ginecología o médico cirujano con especialidad en cirugía plástica y reparadora, ambos PAD incluyen fármacos, dispositivos, insumos, expansor/implante/prótesis. Límite financiero 2 prestaciones vida a excepción del PAD 2505947, el cual tiene un límite financiero de 1 prestación año beneficiario. Solo podrán acceder a los PAD del grupo 25 subgrupo 05 beneficiarios con diagnóstico de cáncer de mama en etapa diagnóstica, terapéutica o recidiva, la orden médica para la emisión del PAD debe ser suscrita por médico especialista en oncología, indicando el diagnóstico del beneficiario.
+
 28. PAGO ASOCIADO ATENCIÓN EMERGENCIA (P.A.E.).
 
 28.1 Definiciones:
@@ -4166,7 +4650,7 @@ d) Una vez efectuada la emisión de las respectivas órdenes de atención, el co
 
 e) El Fondo fiscalizará las atenciones de emergencia con riesgo vital y/o secuela funcional grave, de acuerdo a lo señalado en el punto 4 letra e) de esta normativa.
 
-29. ATENCIONES INTEGRALES OTROS PROFESIONALES
+### 29. ATENCIONES INTEGRALES OTROS PROFESIONALES
 
 29.1 PRESTACIONES DE ENFERMERÍA (Grupo 26, Subgrupo 01)
 
@@ -4582,7 +5066,7 @@ Ambas prestaciones requieren orden médica del profesional tratante y solo se po
 
 Si un profesional en convenio requiere realizar sesiones de acupuntura y además alguna de las prestaciones ya inscritas de su profesión, sólo podrá realizarlas en sesiones diferentes, debidamente registradas en la ficha clínica y con la correspondiente prescripción médica cuando corresponda.
 
-30. INFRACCIONES.
+### 30. INFRACCIONES
 
 30.1 Para los efectos del ejercicio de la Modalidad de Libre Elección, de la aplicación del Arancel y de las Normas Técnico Administrativas, constituyen infracciones las siguientes:
 
@@ -4636,11 +5120,13 @@ m) Maltrato o discriminación a los beneficiarios de FONASA, por esta calidad, t
 
 n) No contar con autorización sanitaria, cuando la norma la exija, sin perjuicio de la cancelación administrativa inmediata en virtud de lo dispuesto por el artículo 52 del decreto supremo N° 369 de 1985, del Ministerio de Salud.
 
-o) Incumplimiento de la obligación de informar contenida en el Art.24 de la Ley 19.966/2004: El Prestador deberá informar a los beneficiarios del Libro II en todos los casos en que se efectúe el diagnóstico de un problema de salud garantizado. Deberá dejar constancia escrita en el Formulario de Constancia de Información Pacientes GES, dispuesto por la Superintendencia de Salud para tales efectos, acerca de los derechos de los beneficiarios a las garantías establecidas en la Ley 19.966, en los establecimientos de salud públicos de la red asistencial y privados en convenio para tales efectos, que dispone FONASA.
+o) Incumplimiento de la obligación de informar contenida en el Art.24 de la Ley 19.966/2004: El Prestador deberá informar a los beneficiarios del Libro II en todos los casos en que se efectúe la sospecha de un problema de salud garantizado. Deberá dejar constancia escrita en el Formulario de Constancia de Información Pacientes GES, dispuesto por la Superintendencia de Salud para tales efectos, acerca de los derechos de los beneficiarios a las garantías establecidas en la Ley 19.966, en los establecimientos de salud públicos de la red asistencial y privados en convenio para tales efectos, que dispone FONASA.
 
 p) No se aceptará la renuncia al rol de prestadores, cuando éste se encuentre en un proceso administrativo de fiscalización, el que continuará hasta su término. Durante el período que dure el procedimiento de fiscalización, y cuando el prestador haya manifestado su intención de renunciar al rol, se le considerará no vigente para estos efectos.
 
 31.- "Tratamientos integrales de Braquiterapia, Radioterapia y Quimioterapia (grupo 29)"
+
+Las prestaciones del arancel que conforman el grupo 29 están destinadas exclusivamente al tratamiento de beneficiarios que presenten un diagnóstico de Cáncer.
 
 a) Tratamientos integrales de Braquiterapia y Radioterapia.
 
@@ -4745,5 +5231,9 @@ II. La presente Resolución entrará en vigencia a contar del primer día hábil
 > **Nota.** NOTA 7 El numeral 33° del artículo primero de la Resolución 436, Salud, publicada el 11.05.2021, dispone incorporar las letras j) y k) nuevas, a continuación de la letra i), en el numeral 17.4 "Otros Procedimientos" de la presente norma. No obstante, la citada norma únicamente incluye el texto de la letra j) omitiéndose la letra k).
 
 > **Nota.** NOTA 8 El numeral 4 de la Resolución 208 Exenta, Salud, publicada el 26.02.2022, dispone modificar la glosa en la tabla del numeral 7.1.1 de la presente norma donde señala código 0101001 glosa "Consulta médica electiva" por "Consulta Medicina General".
+
+> **Nota.** NOTA 9 El numeral 22 de la Resolución 527 Exenta, Salud, publicada el 26.04.2024, modifica las prestaciones trazadoras señaladas en la tabla contenida en este literal de los códigos 2501004, 2501005, 2502003, 2501051 y 2502008 por las que la citada norma indica.
+
+> **Nota.** NOTA 10 El numeral 25 de la Resolución 527 Exenta, Salud, publicada el 26.04.2024, modifica la presente norma en el sentido de eliminar de la tabla de los Tratamientos Integrales de Braquiterapia, Radioterapia y Quimioterapia (grupo 29) los códigos 2904012 y 2904018.
 
 Anótese, archívese y publíquese.- Jaime Mañalich Muxi, Ministro de Salud.
