@@ -104,9 +104,13 @@ a) Tipo de servicio que se prestará: urbano, rural, interurbano o de turismo.
 
 b) Tipo de solicitud presentada.
 
+En caso que la solicitud sea para renovar una autorización, ésta deberá presentarse antes del vencimiento del plazo otorgado para la prestación del servicio y sólo se deberán acompañar aquellos antecedentes que hayan variado, en relación a los que obran en poder de la Secretaría Regional.
+
+Asimismo, cuando se presente una solicitud de renovación de autorización de prestación de servicios de Station wagons o vehículos que cuenten con tracción en las cuatro ruedas, el requisito de la antigüedad máxima establecida en la letra a) del artículo 16º del presente reglamento, no será exigible.
+
 #### Artículo 10º
 
-Una vez presentada la solicitud y verificado el cumplimiento de los requisitos señalados en el artículo anterior, el Secretario Regional respectivo procederá a dictar una resolución por medio de la cual autorizará la prestación del servicio. Una copia de esta resolución deberá entregarse a la persona o entidad que solicite la autorización, la que será para todos los efectos legales y administrativos la responsable del servicio.
+Una vez presentada la solicitud y verificado el cumplimiento de los requisitos señalados en el artículo anterior, el Secretario Regional respectivo procederá a dictar una resolución por medio de la cual autorizará la prestación del servicio estableciendo expresamente su plazo de vigencia, el que no podrá exceder de treinta y seis meses. Una copia de esta resolución deberá entregarse a la persona o entidad que solicite la autorización, la que será para todos los efectos legales y administrativos la responsable del servicio.
 
 Sin perjuicio de lo anterior, y no obstante cumplirse las disposiciones de los artículos anteriores, el Secretario Regional podrá rechazar la solicitud de autorización del servicio, mediante resolución fundada, en atención a antecedentes técnicos, de seguridad vial y medioambientales.
 
@@ -124,7 +128,7 @@ Una vez dictada la resolución de autorización a que se refieren los artículos
 
 5. Fecha de otorgamiento de la autorización.
 
-En caso de extravío, robo o hurto de la constancia antes referida, deberá solicitarse un duplicado, previa declaración jurada ante Notario de este hecho.
+En caso de extravío, robo o hurto de la constancia antes referida, deberá solicitarse un duplicado, previa declaración jurada simple de este hecho.
 
 #### Artículo 12º
 
