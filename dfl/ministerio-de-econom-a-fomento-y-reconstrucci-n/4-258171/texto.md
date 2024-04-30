@@ -4414,13 +4414,13 @@ Los bienes del coordinador destinados al cumplimiento de su objeto y funciones s
 
 Este cargo se calculará considerando la suma de los presupuestos anuales del Coordinador, el Panel de Expertos y el estudio de franja, dividido por la suma de la energía proyectada total a facturar a los suministros finales para el año calendario siguiente.
 
-El monto a pagar por los usuarios finales corresponderá al cargo por servicio público multiplicado por la energía facturada en el mes correspondiente. En el caso de los clientes sujetos a fijación de precios, este valor será incluido en las cuentas respectivas que deben pagar a la empresa distribuidora, las que a su vez deberán efectuar el pago de los montos recaudados mensualmente al Coordinador. Asimismo, en el caso de los clientes libres, este cargo deberá ser incorporado explícitamente en las boletas o facturas entre dichos clientes y su suministrador, los que deberán a su vez traspasar mensualmente los montos recibidos de parte de los clientes al Coordinador.
+El monto a pagar por los usuarios finales corresponderá al cargo por servicio público multiplicado por la energía facturada en el mes correspondiente. En el caso de los clientes sujetos a fijación de precios, este valor será incluido en las cuentas respectivas que deben pagar a la empresa distribuidora, las que a su vez deberán efectuar el pago de los montos recaudados mensualmente al Coordinador. Asimismo, en el caso de los clientes libres, este cargo deberá ser incorporado explícitamente en las boletas o facturas generadas entre dichos clientes y su suministrador, los que deberán a su vez traspasar mensualmente los montos recibidos de parte de los clientes al Coordinador.
 
 El Coordinador deberá repartir los ingresos recaudados a prorrata de los respectivos presupuestos anuales de dicho organismo, del Panel de Expertos y el elaborado por la Subsecretaría de Energía para el estudio de franja, según corresponda.
 
 Los saldos a favor o en contra que se registren deberán imputarse al ejercicio de cálculo del presupuesto correspondiente del año siguiente.
 
-Dentro del cargo por servicio público, se considerará un pago adicional máximo, que tendrá por objeto financiar el Fondo de Estabilización de Tarifas a que se refiere el artículo 212-14, y que será diferenciado por tramos de consumo de acuerdo con los siguientes parámetros:
+Dentro del cargo por servicio público, se considerará un pago adicional máximo, cuya duración no podrá extenderse más allá del año 2032, que tendrá por objeto financiar el Fondo de Estabilización de Tarifas a que se refiere el artículo 212-14, y que será diferenciado por tramos de consumo de acuerdo con los siguientes parámetros:
 
 a) Usuarios que registren un consumo mensual menor o igual a 350 kWh: exento del cargo.
 
@@ -4432,7 +4432,7 @@ d) Usuarios que registren un consumo mensual superior a 1.000 y menor o igual a 
 
 e) Usuarios que registren un consumo mensual superior a 5.000 kWh: hasta 2,8 pesos por kWh.
 
-Los montos máximos de cargos indicados en el inciso anterior serán ajustados por la variación del Índice de Precios al Consumidor con ocasión de la fijación anual a la que se refiere este artículo. Para determinar su cuantía, la Comisión deberá considerar las proyecciones que realiza semestralmente para la fijación tarifaria a la que se refiere el artículo 158, teniendo en cuenta que los recursos a los que se refiere el inciso anterior solo podrán ser utilizados para estabilizar las tarifas de los clientes regulados, en los términos que señale el reglamento a que se refiere el inciso cuarto del artículo 212-14. Con todo, si el Fondo de Estabilización de Tarifas al que se refiere el artículo 212-14 alcanzara el monto equivalente en pesos de 500 millones de dólares de los Estados Unidos de América, se suspenderá el cobro adicional al que se refiere el presente artículo y se reanudará una vez que el fondo disminuya del monto antedicho. Ambas situaciones serán consideradas para efectos de la determinación anual que se realiza para fijar el cargo por servicio público al que se refiere este artículo.
+Los montos máximos de cargos indicados en el inciso anterior serán ajustados por la variación que experimente el Índice de Precios al Consumidor con ocasión de la fijación anual a la que se refiere este artículo. Para determinar su cuantía, la Comisión deberá considerar las proyecciones que realiza semestralmente para la fijación tarifaria a la que se refiere el artículo 158. Con todo, si el Fondo de Estabilización de Tarifas al que se refiere el artículo 212-14 alcanzara el monto equivalente en pesos de 500 millones de dólares de los Estados Unidos de América, se suspenderá el cobro adicional al que se refiere el presente artículo y se reanudará una vez que el fondo disminuya del monto antedicho. Ambas situaciones serán consideradas para efectos de la determinación anual que se realiza para fijar el cargo por servicio público al que se refiere este artículo.
 
 Las empresas distribuidoras deberán informar en las cuentas físicas y digitales la aplicación del pago adicional a que hace referencia el inciso sexto de este artículo, y señalarán expresamente y de forma legible el cargo por servicio, según los tramos de consumo que estarán afectos a dicho pago.
 
@@ -4440,15 +4440,19 @@ El procedimiento para la fijación y la recaudación del cargo por servicio púb
 
 #### Artículo 212
 
-14.- Fondo de Estabilización de Tarifas. Créase un Fondo de Estabilización de Tarifas, el cual será administrado por la Tesorería General de la República, y cuyo objeto será la estabilización de las tarifas eléctricas para clientes regulados.
+14.- Fondo de Estabilización de Tarifas. Créase un Fondo de Estabilización de Tarifas, el cual será administrado por la Tesorería General de la República, y cuyo objeto será la estabilización de las tarifas eléctricas para clientes regulados y el pago de los saldos originados por la aplicación de las leyes N° 21.185 y N° 21.472.
+
+La Tesorería General de la República deberá emitir reportes mensuales respecto de los saldos y movimientos del Fondo de Estabilización de Tarifas. Adicionalmente, de manera anual, el Fondo será objeto de una auditoría externa. Tanto los informes mensuales como el resultado de la auditoría externa, serán publicados en el sitio web de la Tesorería.
 
 La inversión de los recursos financieros de este fondo se realizará de conformidad a lo dispuesto en el artículo 12 de la ley N° 20.128.
 
 Los aportes al fondo estarán constituidos por los señalados en el artículo 212-13, y los demás aportes que contemple la ley.
 
-Las normas que regulan la operación del Fondo de Estabilización de Tarifas serán establecidas en un reglamento que para dichos efectos dicte el Ministerio de Hacienda, suscrito además por el Ministro de Energía.
+Las demás normas que regulan la operación, administración y gobernanza del Fondo de Estabilización de Tarifas serán establecidas en un reglamento que para dichos efectos dicte el Ministerio de Hacienda, suscrito además por el Ministro de Energía.
 
-El Fondo de Estabilización de Tarifas, así como los cargos que lo financian, tendrán una vigencia única que no podrá exceder del 31 de diciembre de 2032, y no podrá prorrogarse su funcionamiento más allá de ese periodo.
+El Fondo de Estabilización de Tarifas, así como los cargos que lo financian, tendrán una vigencia que no podrá exceder del 31 de diciembre de 2035.
+
+Si las auditorías externas a que se refiere el inciso segundo arrojan que, al 31 de diciembre del año respectivo, el fondo cuenta con excedentes, ellos deberán ser destinados a la extinción de los saldos originados por la implementación de la ley N° 21.185. Una vez extintos dichos saldos, los excedentes podrán destinarse a la extinción de aquellos saldos originados por la implementación de la ley N° 21.472. Si, luego de aplicar estas reglas, aún existen excedentes del fondo, éstos podrán ser destinados a aumentar los recursos para el otorgamiento del subsidio a que se refiere el artículo 151.
 
 ## Título VII — Disposiciones Penales
 
