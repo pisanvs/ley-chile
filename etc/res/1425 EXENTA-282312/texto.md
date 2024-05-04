@@ -26,7 +26,7 @@ Fíjese la siguiente norma técnica para el Servicio Limitado de Radiocomunicaci
 
 #### Artículo 1°
 
-Destínense las bandas de frecuencias 413,4875 . 414,9875 MHz y 423,4875 . 424,9875 MHz para la instalación, operación y explotación del Servicio Limitado de Radiocomunicaciones Multi-Frecuencias en la banda de 400 MHz, en adelante el servicio.
+Destínense las bandas de frecuencias 413,4875 - 414,9875 MHz; 418,1375 - 419,3625 MHz; 423,4875 - 424,9875 MHz y 428,1375 - 429,3625 MHz para la instalación, operación y explotación del Servicio Limitado de Radiocomunicaciones Multi-Frecuencias en la banda de 400 MHz, en adelante el servicio.
 
 #### Artículo 2°
 
@@ -36,9 +36,11 @@ El servicio será operado mediante el empleo de un sistema de radiocomunicacione
 
 La canalización en las bandas destinadas al servicio será a 25 kHz según se indica a continuación. Las frecuencias están asociadas a la estación base de la red, y corresponden a la frecuencia central del canal cuando ocupa todo el ancho de banda, sin embargo, el permisionario podrá implementar canales con canalización menor, dentro del mismo ancho de banda, en la medida que las emisiones no interfieran a los canales adyacentes.
 
-N° del Recepción Transmisión N° del Recepción Transmisión
+N° Recepción Trans- N° Recep- Trans-
 
-canal (MHz) (MHz) canal (MHz) (MHz)
+del (MHz) misión del ción misión
+
+canal (MHz) canal (MHz) (MHz)
 
 1 413,500 423,500 31 414,250 424,250
 
@@ -124,13 +126,29 @@ Grupos Canales
 
 10 10 20 30 40 50 60
 
+11 61 69 77 85 93
+
+12 62 70 78 86 94
+
+13 63 71 79 87 95
+
+14 64 72 80 88 96
+
+15 65 73 81 89 97
+
+16 66 74 82 90 98
+
+17 67 75 83 91 99
+
+18 68 76 84 92 100
+
 #### Artículo 4°
 
 Los permisos serán asignados mediante concurso público.
 
 #### Artículo 5°
 
-El método de asignación de canales será establecido en las bases de los respectivos concursos públicos. La zona de servicio de cada permiso podrá abarcar todo el territorio de una o varias regiones.
+Las respectivas bases concursales señalarán la cantidad de asignaciones disponibles, sus plazos de inicio de servicio, y el área que podrá abarcar la zona de servicio, entre otros aspectos relevantes.
 
 #### Artículo 6°
 
