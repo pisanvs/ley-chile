@@ -44,7 +44,7 @@ c) En el Resuelvo 10., reemplázase el guarismo 200 por el guarismo 272.
 
 2.- En lo no modificado rija la resolución exenta N° 111, de fecha 25 de marzo de 2021, de esta Seremi.
 
-3.- Asígnense los recursos disponibles para la selección del Llamado Extraordinario dispuesto por la resolución exenta N° 111, de fecha 25 de marzo de 2021 y sus modificaciones, de esta Seremi, según la distribución señalada en el siguiente cuadro:
+3.- Asígnese los recursos disponibles para la selección del Llamado Extraordinario dispuesto por la resolución exenta Nº 111, de fecha 25 de marzo de 2021 y sus modificaciones de esta Seremi, según la distribución señalada en el siguiente cuadro:
 
 4.- Fíjese el número de postulantes seleccionados en la Región de Tarapacá para los proyectos que se financiarán conforme lo dispone el resuelvo 8° de la resolución N° 111/2021, y sus modificaciones, todas de esta Secretaría Regional Ministerial y según se indica en la tabla que a continuación se inserta:
 
