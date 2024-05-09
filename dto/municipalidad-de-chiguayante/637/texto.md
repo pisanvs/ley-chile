@@ -282,7 +282,7 @@ Culto y Cultura:
 
 Cines, teatro, auditorios y
 
-salas de espectáculos, : 1 cada 15 m²
+salas de espectáculos, : 1 cada 20 m²
 
 salas multiuso y eventos construidos.
 
@@ -380,11 +380,11 @@ Clínicas y hospitales : 3 cada 5 camas
 
 con un mínimo de 5.
 
-Consultorios y policlínicos : 2 cada 60 m²
+Consultorios y policlínicos : 2 cada 80 m²
 
 construidos, con
 
-un mínimo de 5
+un mínimo de 5.
 
 Centros de tratamiento : 2 cada 30 m²
 
@@ -400,7 +400,7 @@ Seguridad:
 
 Cuarteles, bomberos y
 
-unidades policiales : 1 cada 30 m²
+unidades policiales : 1 cada 40 m²
 
 construidos.
 
@@ -410,11 +410,11 @@ Servicios profesionales
 
 públicos y privados, como centros y consultas médicas y dentales, oficinas en general, bancos, financieras,
 
-centros de pago. : 2 cada 50 m2
+centros de pago. : 2 cada 70 m2
 
 construidos.
 
-Servicios artesanales : 1 cada 30 m2, con
+Servicios artesanales : 1 cada 40 m2, con
 
 un mínimo de 2.
 
@@ -430,21 +430,25 @@ Cuando se establezcan destinos mixtos, se atenderá la condición más restricti
 
 Todo edificio público y todo edificio sobre los 50 m² sin importar su carga de ocupación, que preste un servicio a la comunidad, deberá contemplar un área destinada al aparcamiento de bicicletas a razón de uno por cada 50 m² construidos, con un mínimo de 2 y un máximo de 50
 
+#### Artículo 6
+
+> **Nota.** El Nº 7 del Decreto 898, Municipalidad de Chiguayante, publicado el 09.05.2024, incorpora al Capítulo III, Definiciones y Normas Generales, a continuación del actual artículo 5, un nuevo artículo 6, pasando los actuales artículos 6, 7 y 8 del Capítulo IV Definiciones de la Zonificación de Suelo y Normas Especiales, a ser los artículos: 7, 8 y 9 respectivamente. No obstante lo anterior, dicha modificación al artículo 6 no fue posible incorporarla en el presente texto actualizado debido a que el texto del nuevo artículo 6 no fue incluido en la publicación del Diario Oficial que contiene la citada norma.
+
 ## Capítulo IV
 
 Definición de la Zonificación
 
 Usos de Suelo y Normas Específicas
 
-#### Artículo 6
+#### Artículo 7
 
 Para los efectos de la aplicación de la presente Ordenanza, el territorio urbano comunal de Chiguayante se dividirá en zonas, según se grafica en el (los) plano(s) respectivo(s) que forma parte de Plan Regulador Comunal.
 
-#### Artículo 7
+#### Artículo 8
 
 Cuando el límite de una zona considere una franja que enfrenta una vía, se entenderá que ella se conforma por los predios que enfrentan dicha vía, hasta sus respectivos fondos de sitio, con un máximo de 50,00 metros de profundidad.
 
-#### Artículo 8
+#### Artículo 9
 
 Los Usos de Suelo Permitidos, junto con la determinación de las Condicionantes de Subdivisión, Urbanización y Edificación aplicables a cada una de las zonas definidas por el Plan, son las que a continuación de señalan.
 
@@ -3722,13 +3726,13 @@ Residencial : 5.000 m2
 
 Otros usos : 10.000 m2
 
-2. Densidad Bruta Máxima : 12 hab/há
+2. Densidad Bruta Máxima : 10 hab/há
 
 3. Coeficiente Máximo
 
 de Ocupación de Suelo
 
-Residencial : 0,05
+Residencial : 0,035
 
 Otros usos : 0,1
 
@@ -3736,7 +3740,7 @@ Otros usos : 0,1
 
 de Constructibilidad
 
-Residencial : 0,2
+Residencial : 0,14
 
 Otros usos : 0,3
 
