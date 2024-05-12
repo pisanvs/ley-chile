@@ -4784,9 +4784,13 @@ La sal comestible con menor contenido de sodio deberá ceñirse a las especifica
 
 #### Artículo 438
 
-Toda sal comestible, deberá contener yodo adicionado en forma de yodatos o de yoduros de sodio o de potasio, en una concentración entre 0,02 y 0,06 gramos de yodo por kilogramo del producto.
+Toda sal comestible deberá contener yodo adicionado, en forma de yodatos o de yoduros de sodio o de potasio, en una concentración entre 0,015 y 0,025 gramos de yodo por kilogramo de sal.
 
-Cuando se utilicen sucedáneos de la sal comestible o sal baja en sodio, ella deberá ser yodada según lo dispuesto en el inciso anterior
+Cuando se utilicen sucedáneos de la sal comestible o sal baja en sodio, ella deberá ser yodada según lo dispuesto en el inciso anterior.
+
+Se exceptuarán de la utilización de sal yodada los quesos en general, frescos, semimaduros y maduros.
+
+> **Nota.** El artículo segundo transitorio del Decreto 70, Salud, publicado el 11.11.2022, dispone que el rango de concentración de yodo en la sal señalado en la presente norma, entrará en vigencia en forma progresiva conforme a lo señalado en el cuadro contenido en la referida disposición.
 
 #### Artículo 439
 
