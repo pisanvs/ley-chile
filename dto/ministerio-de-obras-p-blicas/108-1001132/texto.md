@@ -502,9 +502,9 @@ El reajuste quedará congelado al vencimiento del plazo total de la obra, o de l
 
 ART.25 ANTICIPO
 
-En las Bases Administrativas Especiales se podrá incluir una cláusula para otorgar anticipo por una sola vez, por un monto que no exceda el 20% del valor del contrato en las condiciones estipuladas en el Art. 157º del Reglamento para Contratos de Obras Públicas. Sólo en casos especiales, previo Visto Bueno de la D.G.O.P. o de la Institución Mandante, se podrá en dichas Bases Administrativas, aumentar este porcentaje hasta el 50% del valor del contrato.
+En las Bases Administrativas Especiales se podrá incluir una cláusula para otorgar anticipo, por un monto que no exceda el 50% del valor del contrato primitivo, descontados los valores proforma, en las condiciones estipuladas en el artículo 157 del Reglamento para Contratos de Obras Públicas.
 
-El Contratista deberá presentar una Boleta de Garantía Bancaria por el monto total del anticipo que se otorga, fijándose dicho valor, se expresará en unidades de fomento y tendrá un plazo igual al del contrato más 6 meses se devolverá una vez recibida la última etapa.
+El contratista deberá presentar una boleta de garantía bancaria o una póliza de seguro cuando las Bases Administrativas Especiales lo autoricen, por un valor equivalente al monto total anticipado expresado en unidades de fomento y tendrá un plazo igual al del contrato más seis meses. Dicha garantía podrá reducirse a solicitud del contratista hasta el monto pendiente de amortizar, debiendo serle reintegrada una vez devuelta en su totalidad la suma anticipada.
 
 ART.26 RECEPCIÓN PROVISIONAL DE ETAPAS Y DEL TOTAL DE LA OBRA
 
