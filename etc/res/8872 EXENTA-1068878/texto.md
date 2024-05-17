@@ -12,7 +12,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de vehículos destinados a la carga cuyo peso bruto vehicular sea igual o superior a 20 toneladas o que tengan más de 2 ejes, en la Ruta G-46, desde Ingreso Puente La Puntilla hasta conexión con Ruta 5 Sur (Km. 43.91), comuna de Buin.
+1.- Prohíbase la circulación de vehículos destinados a la carga cuyo peso bruto vehicular sea igual o superior a 20 toneladas o que tengan más de 2 ejes, en la Ruta G-46, desde Ingreso Puente La Puntilla hasta ruta G-526 (Camino Santa Victoria), comuna de Buin.
 
 La señalada prohibición se extenderá todos los días de la semana, en horario de 06:00 a 9:00 horas y entre 16:00 y las 21:00 horas.
 
