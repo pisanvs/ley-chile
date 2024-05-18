@@ -90,6 +90,10 @@ Asimismo podrá celebrar convenios de intermediación con personas naturales o j
 
 d) Visar los certificados de competencia laboral de las personas que postulan por primera vez al cargo de asistente de educación, con el fin de acreditar la idoneidad psicológica de conformidad a la ley 20.244 (art. 1º Nº 3 letra c).
 
+e) Autorización de trabajos en horas extraordinarias, involucradas y no involucradas en los sistemas de turnos del establecimiento, sean éstas diurnas, nocturnas, en días sábados, domingos y/o días festivos, incluida la resolución fundada contemplada en el artículo 95 del DFL N° 1/2005 que fija texto refundido, coordinado y sistematizado del DL N° 2.763, sean compensados con descanso complementario o en dinero, todo lo anterior dentro del marco presupuestario autorizado al establecimiento.
+
+f) Autorización de trabajos en horas extraordinarias, sean éstas diurnas, nocturnas, en días sábado, domingo y/o días festivos, a los profesionales funcionarios regidos por la ley 19.664, sean compensados con descanso complementario o en dinero, todo lo anterior dentro de las normas comprendidas en el artículo 43 de la ley 19.664 y del marco presupuestario autorizado al establecimiento, ello a través del Departamento de Control Presupuestario y Gestión de Procesos.
+
 6.- EN EL JEFE DEL SERVICIO DE BIENESTAR DEL PERSONAL DE LA DIRECCIÓN DE SERVICIO:
 
 a) Autorizar beneficios, pagos de beneficios y préstamos a los afiliados al Servicio de Bienestar, dentro del marco de la aprobación realizada por el Consejo Administrativo de Bienestar (CAB).
@@ -171,5 +175,7 @@ II.- Todas las resoluciones que dicte el delegado en virtud de la facultad que p
 III.- La presente resolución tendrá vigencia a contar de su publicación en el Diario Oficial.
 
 IV.- Pónese término a las resoluciones exentas 1C Nº 2417, de 6 de agosto de 2010, Nº 356, de 4 de febrero de 2011, Nº 3.166, de 3 de octubre de 2014, Nº 1.302, de 24 de marzo de 2017, Nº 3.554, de 27 de junio de 2018, y N° 2.190, de 12 de abril de 2019, todas referidas a la misma materia de la presente resolución.
+
+> **Nota.** El Nº I de la Resolución 2294 Exenta, Salud, publicada el 18.05.2024, dispone eliminar las facultades delegadas en el Subdirector(a) del Departamento Subdirección de Recursos Físicos y Financieros referidas en el Punto 2, letras g) y h) de la presente norma.
 
 Anótese, regístrese y publíquese.- Ricardo Sánchez Opazo, Director (S), Servicio de Salud Ñuble.
