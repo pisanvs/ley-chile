@@ -68,6 +68,10 @@ Resuelvo:
 
 2. Déjase constancia que, por razones de buen servicio, las personas designadas asumirán sus funciones desde la fecha en que se designan, sin esperar la total tramitación de la presente resolución exenta.
 
+3. Nómbrase a don Gonzalo Arriaza Guíñez, Asesor de la Coordinación Mercado de Capitales del Ministerio de Hacienda, en calidad de Secretario Ejecutivo del Consejo Consultivo del Mercado de Capitales, dejándose sin efecto los nombramientos de secretarios ejecutivos anteriores, especialmente aquel contenido en la resolución exenta N° 120, de 2018, del Ministerio de Hacienda.
+
+4. Establézcase como fecha de inicio de funciones de don Gonzalo Arriaza Guíñez en calidad de Secretario Ejecutivo del Consejo Consultivo del Mercado de Capitales el 9 de noviembre de 2022, de conformidad a lo dispuesto en el resuelvo 2 de la resolución exenta N° 655, de 2022, del Ministerio de Hacienda. Lo anterior, en especial consideración a lo dispuesto en el artículo 52 de la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado.
+
 Anótese, publíquese y archívese.- Mario Marcel Cullell, Ministro de Hacienda.
 
 Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Claudia Sanhueza Riveros, Subsecretaria de Hacienda.
