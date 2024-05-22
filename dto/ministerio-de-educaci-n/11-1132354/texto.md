@@ -84,17 +84,23 @@ b) Informes del estado de avance a la Dirección de Educación Pública de los c
 
 c) Obligación de mantener una cuenta corriente específica para la administración de los recursos asignados, con excepción de los Servicios Locales de Educación Pública.
 
-d) Procedimiento de rendición de cuentas, el que deberá ajustarse a la resolución N° 30, de 2015, de la Contraloría General de la República o a aquella que en el futuro la reemplace.
+d) Procedimiento de rendición de cuentas, el que deberá ajustarse a la resolución N° 30, de 2015, de la Contraloría General de la República o a aquella que en el futuro la reemplace. Las rendiciones de cuentas se deberán realizar a través del Sistema de Rendición Electrónica de Cuentas de la Contraloría General de la República, que actualmente se encuentra regulado en la resolución exenta Nº 1.858, de 2023, de ese origen. La incorporación al sistema, y las modalidades de uso se deberán realizar de acuerdo a las instrucciones que la Contraloría General de la República emita al efecto.
 
 e) Un plan de fortalecimiento, que deberá considerar, a lo menos, los componentes, actividades e indicadores comprometidos por el sostenedor y acordados con la Dirección de Educación Pública.
 
 f) Programa de transferencia de recursos, de suspensión y de término anticipado.
 
-g) Obligación de devolución de los recursos observados, no ejecutados y/o no rendidos, al término del plazo de ejecución del convenio de desempeño respectivo.
+g) Obligación de restituir los recursos transferidos en caso de que estos sean destinados a una finalidad distinta para la que fueron asignados, o bien, no hayan sido utilizados o rendidos o hayan sido observados en el proceso de revisión de la rendición de cuentas, conforme a las normas legales vigentes al momento de producirse tales saldos.
 
 h) Las garantías que se otorgan en el caso de las Corporaciones Municipales, para la ejecución del convenio de desempeño y la facultad de la Dirección de Educación Pública de hacerlas efectivas.
 
 i) Indicación del monto del aporte que se obliga a transferir la Dirección de Educación Pública.
+
+j) Indicación del objeto social o fines que establecen los estatutos o el acta de constitución de la institución privada con la cual se suscriba el convenio.
+
+k) Para el caso de convenios de transferencias a municipalidades o corporaciones municipales, deberá incorporarse la información de las contrataciones de personal que se vayan a celebrar para el cumplimiento del objeto del convenio, así como su calidad jurídica.
+
+Los contenidos del convenio de desempeño previamente indicados deberán considerar, además, los requisitos y condiciones que para la celebración de convenios de transferencia establezca la normativa vigente.
 
 #### Artículo 6°
 
@@ -116,7 +122,7 @@ DEL FONDO DE APOYO A LA EDUCACIÓN PÚBLICA
 
 #### Artículo 8°
 
-Objeto. La asignación presupuestaria: 09.17.02.24.03.051 "Fortalecimiento de la Educación Pública", regulado en la Glosa 03, contempla $116.404.354.000, para el "Fondo de Apoyo a la Educación Pública", cuyos destinatarios serán las municipalidades, ya sea en forma directa a través de sus departamentos de educación o de corporaciones municipales, para ser usados en los fines generales señalados en el artículo 3° como también en los usos específicos a que se refiere el artículo siguiente.
+Objeto. La asignación presupuestaria: 09.17.02.24.03.051 "Fortalecimiento de la Educación Pública", regulado en la Glosa 03, contempla $116.119.118.000, para el "Fondo de Apoyo a la Educación Pública", cuyos destinatarios serán las municipalidades, ya sea en forma directa a través de sus departamentos de educación o de corporaciones municipales, para ser usados en los fines generales señalados en el artículo 3° como también en los usos específicos a que se refiere el artículo siguiente.
 
 #### Artículo 9°
 
@@ -166,9 +172,9 @@ Acciones e iniciativas que complementen los instrumentos de gestión educativa, 
 
 8. Saneamiento Financiero:
 
-a) Aquellos compromisos adquiridos hasta el 31 de diciembre de 2019, en relación con la deuda previsional y de cotizaciones de salud respecto del personal docente y asistente de la educación que se desempeñe en los establecimientos educacionales del respectivo sostenedor.
+a) Aquellos compromisos adquiridos hasta el 31 de diciembre de 2020, en relación con la deuda previsional y de cotizaciones de salud respecto del personal docente y asistente de la educación que se desempeñe en los establecimientos educacionales del respectivo sostenedor.
 
-b) Aquellos compromisos contraídos hasta el 31 de diciembre de 2019, incluyendo pagos por descuentos voluntarios asociados al personal docente y asistente de la educación que se desempeñe o haya desempeñado en los establecimientos educacionales, y deuda a proveedores de bienes y servicios directamente necesarios para la prestación del servicio educacional en los establecimientos educacionales de su dependencia.
+b) Aquellos compromisos contraídos hasta el 31 de diciembre de 2020, incluyendo pagos por descuentos voluntarios asociados al personal docente y asistente de la educación que se desempeñe o haya desempeñado en los establecimientos educacionales, y deuda a proveedores de bienes y servicios directamente necesarios para la prestación del servicio educacional en los establecimientos educacionales de su dependencia.
 
 9. Los Municipios y/o Corporaciones que se encuentran en el último o penúltimo año de la prestación del Servicio Educacional previo a su traspaso al respectivo Servicio Local, deberán financiar con cargo a los recursos que les correspondan de esta asignación, el Informe Financiero establecido en el artículo trigésimo cuarto transitorio de la ley N° 21.040 y la actualización de los inventarios de los bienes muebles.
 
@@ -176,21 +182,17 @@ b) Aquellos compromisos contraídos hasta el 31 de diciembre de 2019, incluyendo
 
 Mecanismo de Distribución de los Recursos del Fondo. El mecanismo de distribución de estos recursos entre los sostenedores que se indican se realizará de la siguiente manera:
 
-Los recursos considerados en la Glosa 03, de la Asignación Presupuestaria 09.17.02.24.03.051, de la Ley de Presupuestos del Sector Público correspondiente al año 2023, serán distribuidos de la siguiente forma:
+Los recursos considerados en la Glosa 03, de la Asignación Presupuestaria 09.17.02.24.03.051, de la Ley de Presupuestos del Sector Público correspondiente al año 2024, serán distribuidos de la siguiente forma:
 
-a) $17.164.306.000, en partes iguales por cada comuna cuyo servicio educacional, administren Departamentos de Educación Municipal o Corporaciones Municipales. La Dirección de Educación Pública, mediante el acto administrativo correspondiente, determinará los montos individuales por cada comuna.
+a) $18.430.415.000, en partes iguales por cada comuna cuyo servicio educacional, administren Departamentos de Educación Municipal o Corporaciones Municipales. La Dirección de Educación Pública, mediante el acto administrativo correspondiente, determinará los montos individuales por cada comuna.
 
-b) $19.827.733.000, entre los sostenedores municipales, en función de la proporción de la matrícula de cada uno, respecto del total de la matrícula de los establecimientos educacionales de los sostenedores municipales del país, del año escolar 2022.
+b) $21.389.844.000, entre los sostenedores municipales, en función de la proporción de la matrícula de cada uno, respecto del total de la matrícula de los establecimientos educacionales de los sostenedores municipales del país, del año escolar 2023.
 
-La Dirección de Educación Pública, mediante el acto administrativo correspondiente, determinará los montos individuales con el promedio de la matrícula que resulte de los meses de marzo y diciembre de 2022, según la información entregada por la Subsecretaría de Educación.
+La Dirección de Educación Pública, mediante el acto administrativo correspondiente, determinará los montos individuales con el promedio de la matrícula que resulte de los meses de marzo y diciembre de 2023, según la información entregada por la Subsecretaría de Educación.
 
-c) $58.681.555.000, serán distribuidos entre todos los sostenedores del Sector Municipal, en la forma que señala el artículo siguiente.
+c) $64.744.368.000, serán distribuidos entre todos los sostenedores del Sector Municipal, en la forma que señala el artículo siguiente.
 
-d) Hasta $11.163.760.000 estarán afectos al uso exclusivo de transferencias a municipalidades o corporaciones municipales que, conforme a los artículos vigésimo cuarto transitorio y siguientes de la ley N° 21.040, hayan suscrito planes de transición y convenios de ejecución con el Ministerio de Educación, y soliciten formalmente financiamiento para contribuir al cumplimiento de los objetivos financieros de su plan de transición que deberán estar estipulados en los convenios de ejecución respectivos. La determinación de dichos gastos se realizará por el Ministerio de Educación, a través de acto administrativo, conforme a lo señalado en el artículo vigésimo sexto transitorio de la misma ley, y las transferencias serán visadas por el Ministerio de Hacienda.
-
-e) Hasta $9.567.000.000 para la creación de un Fondo para la Reactivación Educativa en los establecimientos educacionales, dependientes de municipalidades, corporaciones municipales y de servicios locales de educación pública o aquellos regidos por el decreto ley N° 3.166, de 1980, que contemple recursos destinados a la reactivación de aprendizajes, articulando el plan curricular con espacios para el desarrollo integral y el bienestar de las y los estudiantes, docentes, asistentes de la educación y equipos directivos. Adicionalmente, con cargo a estos recursos se podrán financiar acciones pedagógicas tendientes a disminuir brechas de aprendizaje, deserción escolar y ausentismo escolar provocadas por la pandemia que sean parte del Plan de Recuperación Educativa.
-
-Su distribución, usos específicos en que se emplearán recursos de este literal, así como también la forma y procedimiento de entrega y rendición de cuentas se regirá por una resolución del Ministerio de Educación, distinta a la presente, la que deberá ser visada por la Dirección de Presupuestos.
+d) Hasta $11.554.491.000 estarán afectos al uso exclusivo de transferencias a municipalidades o corporaciones municipales que, conforme a los artículos vigésimo cuarto transitorio y siguientes de la ley N° 21.040, hayan suscrito planes de transición y convenios de ejecución con el Ministerio de Educación, y soliciten formalmente financiamiento para contribuir al cumplimiento de los objetivos financieros de su plan de transición que deberán estar estipulados en los convenios de ejecución respectivos. La determinación de dichos gastos se realizará por el Ministerio de Educación, a través de acto administrativo, conforme a lo señalado en el artículo vigésimo sexto transitorio de la misma ley, y las transferencias serán visadas por el Ministerio de Hacienda.
 
 #### Artículo 11
 
@@ -236,7 +238,7 @@ La dependencia del Fondo Común Municipal se calculará de la siguiente forma:
 
 b. Por estudiantes: Por cada estudiante matriculado al año anterior al cálculo, se transferirá al sostenedor municipal respectivo la cantidad de $106.150. Por su parte, por cada estudiante preferente y prioritario de acuerdo con la ley N° 20.248, se efectuará una transferencia extra de $53.075 y de $106.150, respectivamente.
 
-No obstante el cálculo de los montos a distribuir de acuerdo con lo establecido en los literales precedentes, la suma de los recursos así distribuidos a cada sostenedor de acuerdo con los literales a), b) y c) del artículo 10, no podrá aumentar en más de un 20% ni menos del 15% respecto del monto percibido durante el año anterior.
+No obstante el cálculo de los montos a distribuir de acuerdo con lo establecido en los literales precedentes, la suma de los recursos así distribuidos a cada sostenedor de acuerdo con los literales a), b) y c) del artículo 10, no podrá aumentar en más de un 18% ni menos del 12% respecto del monto percibido durante el año anterior.
 
 Si en virtud de la distribución y los límites señalados, la suma de los montos asignados a cada sostenedor fuese superior a los recursos contemplados, la distribución se verá reducida proporcionalmente al monto resultante de la distribución y los límites señalados anteriormente. Si en virtud de la distribución y los límites señalados, la suma de los montos asignados a cada sostenedor fuese inferior a los recursos contemplados, la distribución se verá incrementada proporcionalmente al monto resultante de la distribución y los límites señalados anteriormente.
 
@@ -280,7 +282,7 @@ La fecha tope para solicitar los excedentes y acompañar los antecedentes que lo
 
 #### Artículo 15
 
-Continuidad de los convenios. Las municipalidades y corporaciones municipales que hayan celebrado convenios con el Ministerio de Educación o con la Dirección de Educación Pública sobre las materias del presente Título en años anteriores al 2023 y referidos a establecimientos educacionales traspasados a Servicios Locales de Educación entre los años 2018 y 2023, podrán seguir cumpliendo dichos convenios y ejecutando los proyectos. En todo caso, los bienes que se adquieran o construyan serán de propiedad del respectivo Servicio Local de Educación Pública. Para estos efectos la Dirección deberá complementar las resoluciones a que se refiere el artículo vigésimo segundo transitorio de la ley N° 21.040, con los bienes que correspondan.
+Continuidad de los convenios. Las municipalidades y corporaciones municipales que hayan celebrado convenios con el Ministerio de Educación o con la Dirección de Educación Pública sobre las materias del presente Título en años anteriores al 2024 y referidos a establecimientos educacionales traspasados a Servicios Locales de Educación entre los años 2018 y 2024, podrán seguir cumpliendo dichos convenios y ejecutando los proyectos. En todo caso, los bienes que se adquieran o construyan serán de propiedad del respectivo Servicio Local de Educación Pública. Para estos efectos la Dirección deberá complementar las resoluciones a que se refiere el artículo vigésimo segundo transitorio de la ley N° 21.040, con los bienes que correspondan.
 
 ## Título III
 
@@ -288,7 +290,7 @@ DEL FONDO DE APOYO A LA EDUCACIÓN PÚBLICA - SERVICIOS LOCALES
 
 #### Artículo 16
 
-Recursos y Destinatarios del Fondo. La Asignación Presupuestaria: 09.17.02.24.02.051 "Fortalecimiento de la Educación Pública" regulado en la Glosa 02, contempla $33.415.648.000 para el "Fondo de Apoyo a la Educación Pública - Servicios Locales", cuyos destinatarios serán los Servicios Locales de Educación Pública que tengan a cargo el servicio educacional de los establecimientos educacionales comprendidos en su respectivo territorio.
+Recursos y Destinatarios del Fondo. La Asignación Presupuestaria: 09.17.02.24.02.051 "Fortalecimiento de la Educación Pública" regulado en la Glosa 02, contempla $43.681.776.000 para el "Fondo de Apoyo a la Educación Pública - Servicios Locales", cuyos destinatarios serán los Servicios Locales de Educación Pública que tengan a cargo el servicio educacional de los establecimientos educacionales comprendidos en su respectivo territorio.
 
 #### Artículo 17
 
@@ -297,10 +299,6 @@ Uso y Destino de los Recursos del Fondo. Sin perjuicio de los usos generales se�
 Con todo, estos recursos también podrán destinarse al equipamiento, mejoramiento y mantención de infraestructura, en los establecimientos de educación parvularia en su modalidad Vía Transferencia de Fondos (VTF), de acuerdo con los criterios de focalización establecidos en el artículo 13.
 
 Estos recursos podrán también ser destinados al financiamiento de proyectos e iniciativas de trabajo en red de los establecimientos educacionales y las comunidades educativas de los respectivos servicios locales.
-
-Con cargo a estos recursos se podrán financiar acciones pedagógicas tendientes a disminuir brechas de aprendizaje, deserción escolar y ausentismo escolar provocadas por la pandemia que sean parte del Plan de Recuperación Educativa.
-
-Los usos específicos en que se emplearán estos recursos, las formas y procedimientos de entrega y rendición de los mismos son los establecidos en el presente instrumento y en la resolución del Ministerio de Educación, distinta a la presente, que se dicte a propósito de la ejecución del Fondo para la Reactivación Educativa, la que deberá ser visada por la Dirección de Presupuestos.
 
 #### Artículo 18
 
