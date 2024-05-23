@@ -64,13 +64,21 @@ Resuelvo:
 
 .
 
+2.2.1.1 Granos de las especies que indica:
+
+2.2.1.2. Especies autorizadas solo si están contenidas en mezclas para alimentación animal (mascotas):
+
 2.2.2. Eliminado.
 
-3. Se aceptará para cada especie especificada en el Resuelvo N° 3 de la presente resolución, como Declaración Adicional alternativa, que:
+3. Se aceptará para cada especie especificada en el Resuelvo N°2 de la presente resolución, como Declaración Adicional alternativa, que:
 
-3.1. La/s plaga/s no está(n) presentes en el país de origen, o
+3.1. La/s plaga/s no está(n) presentes en el país de origen.
 
-3.2. El envío proviene de área libre de la plaga, reconocida oficialmente por el Servicio.
+Para dar cumplimiento a esta Declaración Adicional, el país de origen deberá mantener información de respaldo y los registros de plagas, en la que se basan para determinar la condición de país libre, teniendo en cuenta que estos registros podrán ser solicitados por el Servicio.
+
+o
+
+3.2. El envío proviene de área libre de la(s) plaga(s), reconocida oficialmente por el Servicio a través de una resolución exenta.
 
 4. Las especies clasificadas como granos, en el punto 2.2.1., no podrán ser importadas en otras estructuras no reguladas en la presente resolución, como por ejemplo vainas o bayas.
 
@@ -110,7 +118,7 @@ PRODUCTO: FOSFAMINA (presión atmosférica normal)
 
 FAO, Manual de fumigación para control de insectos
 
-5.4. Contra Tribolium madens (Coleoptera: Tenebrionidae) y Corcyra cephalonica (Lep., Tortricidae):
+5.4. Contra Tribolium madens (Coleoptera: Tenebrionidae), Corcyra cephalonica (Lep., Tortricidae) y Amyelois transitella (Lep. Pyralidae).:
 
 PRODUCTO: BROMURO DE METILO (presión atmosférica normal)
 
@@ -118,13 +126,23 @@ PRODUCTO: BROMURO DE METILO (presión atmosférica normal)
 
 USDA/APHIS/PPQ. Manual de Tratamiento. T302-e-1-MB
 
+5.5. Contra semillas de malezas en mezclas de granos:
+
+. Tratamiento de calor seco a 120 °C por 15 minutos.
+
+El tiempo de exposición debe comenzar a contabilizarse una vez que toda la masa alcance la temperatura requerida.
+
+Debe realizarse en instalaciones aptas para tratamiento térmico y contar con al menos dos sensores de temperatura, que aseguren que la temperatura mínima exigida se mantenga por el tiempo de exposición establecido.
+
+Fuente: Manual de tratamientos USDA/APHIS. T412-a
+
 6. En aquellos casos en que se soliciten tratamientos contra Trogoderma granarium e insectos de la Familia Bruchidae, será válido el tratamiento que se exige contra Trogoderma granarium.
 
 7. Para el ingreso de granos provenientes de orígenes distintos a los señalados expresamente o no regulados en la presente resolución, el Servicio, a petición del interesado, fijará los requisitos fitosanitarios de importación de acuerdo al resultado del Análisis del Riesgo de Plagas.
 
 8. Cada partida será inspeccionada por el Servicio, en el punto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos para su importación. Ante la detección de plagas cuarentenarias listada en resolución N° 3.080 de 2003 y sus modificaciones, o no listadas que sean potencialmente cuarentenarias de acuerdo con la Evaluación de Riesgo, que no corresponda a semillas de malezas, se podrá determinar la aplicación de medidas fitosanitarias de manejo del riesgo, acorde con el riesgo identificado, tales como el tratamiento cuarentenario, la destrucción o la reexportación, si la evaluación del riesgo así lo amerita. Dichas medidas dependerán de la plaga cuarentenaria detectada, del grano o producto a importar, el procesamiento al que será sometido y su destino final.
 
-En caso que se detecte en el envío la presencia de semillas de malezas cuarentenarias para Chile, el Servicio autorizará su ingreso, siempre que se adopten las normas de resguardo señaladas en el numeral 10 de la presente resolución; y el Jefe de Oficina del PI avise al Jefe de la Oficina Sectorial de destino para acciones de vigilancia.
+En caso que se detecte en el envío la presencia de semillas de malezas cuarentenarias para Chile, el Servicio autorizará su ingreso, siempre que se adopten las normas de resguardo señaladas en el numeral 10 de la presente resolución, y el Jefe de Oficina del PI avise al jefe de la Oficina Sectorial y al Encargado Regional de Protección Agrícola Forestal y Semillas de destino, para acciones de vigilancia.
 
 9. Previo al arribo de la partida de granos el importador o su representante, deberá informar por escrito al Jefe de Oficina del Servicio Agrícola y Ganadero, bajo cuya jurisdicción se encuentre el puerto de ingreso, sobre el o los lugares de acopio, molienda, industrialización o de venta de los granos importados a los que se destinará la partida, indicando claramente el nombre y ubicación.
 
@@ -139,5 +157,7 @@ En caso que se detecte en el envío la presencia de semillas de malezas cuarente
 14. La presente resolución entrará en vigencia desde su publicación en el Diario Oficial.
 
 > **Nota.** El numeral 1 de la Resolución 396 Exenta, Agricultura, publicada el 28.01.2021, modifica la presente norma en el sentido de reemplazar en el resuelvo número 2.2.1, los requisitos para la especie arveja (Pisum sativum), de los orígenes que indica, quedando como lo señala la citada norma.
+
+> **Nota.** NOTA 1 El numeral 1.1 del numero 1 de la Resolución 2539 Exenta, Agricultura, publicado el 23.04.2024, modifica la presente norma en el sentido de eliminar del cuadro Granos del resuelvo N°2.2.1, los siguientes granos: cilantro (Coriandrum sativum); mijo (Pennisetum glaucum = P. americanum = P. typhoides, Panicum miliaceum = P. americanum, Setaria italica); nuez moscada (Myristica fragans) y pimienta (Piper nigrum) con su correspondiente origen y requisito /declaración adicional.
 
 Anótese y comuníquese.- Domingo Rojas Philippi, Director Nacional (S), Servicio Agrícola y Ganadero.
