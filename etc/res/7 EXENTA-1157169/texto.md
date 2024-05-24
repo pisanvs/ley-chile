@@ -356,7 +356,7 @@ En caso de existir una segunda Comisión por el mismo caso, deberá privilegiars
 
 Criterios para determinar la propuesta de la Comisión de Sanción Zonal o Comisión de Sanción del Nivel Central. Para efectos de proponer a la autoridad una sanción proporcionada y racional en relación con las infracciones acreditadas durante el procedimiento, la Comisión respectiva seguirá los siguientes criterios:
 
-a. Para la propuesta de aplicación de multas y reintegros. En caso de producirse más de una infracción, se propondrá una multa que ascenderá a la suma de los montos que correspondan a cada una de ellas, considerándose el monto Fondo de Ayuda Médica (FAM) asociado a las prestaciones para las que se emitió un BAS, más aquellas infracciones a las normativas que no tengan un BAS asociado, respetando el tope máximo legal de 500 Unidades de Fomento.
+a) Para la propuesta de aplicación de multas y reintegros. En caso de producirse más de una infracción, se propondrá una multa que ascenderá a la suma de los montos que correspondan a cada una de ellas, considerándose el monto bruto asociado a las prestaciones para las que se emitió un BAS, más aquellas infracciones a las normativas que no tengan un BAS asociado, respetando el tope máximo legal de 500 Unidades de Fomento.
 
 - Multa para infracción con BAS asociado. Se propondrá aplicar multa en relación con el monto bruto de las prestaciones que presenten infracción, más la propuesta de ordenar el reintegro al Fonasa de los montos asociados al Fondo de Ayuda Médica (FAM) de las prestaciones no otorgadas.
 
