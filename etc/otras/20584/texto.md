@@ -224,13 +224,15 @@ De la reserva de la información contenida en la ficha clínica
 
 #### Artículo 12
 
-La ficha clínica es el instrumento obligatorio en el que se registra el conjunto de antecedentes relativos a las diferentes áreas relacionadas con la salud de las personas, que tiene como finalidad la integración de la información necesaria en el proceso asistencial de cada paciente. Podrá configurarse de manera electrónica, en papel o en cualquier otro soporte, siempre que los registros sean completos y se asegure el oportuno acceso, conservación y confidencialidad de los datos, así como la autenticidad de su contenido y de los cambios efectuados en ella.
+La ficha clínica es el instrumento obligatorio en el que se registra el conjunto de antecedentes relativos a las diferentes áreas relacionadas con la salud de las personas, custodiada por uno o más prestadores de salud, en la medida que realizaron las atenciones registradas, que tiene como finalidad integrar la información necesaria en el proceso asistencial de cada persona, y permitir una atención continua, coordinada y centrada en las personas y sus necesidades clínicas.
+
+La ficha clínica podrá configurarse de manera electrónica, en papel o en cualquier otro soporte, siempre que los registros sean completos y se asegure el oportuno acceso, conservación y confidencialidad de los datos, así como la autenticidad de su contenido y de los cambios efectuados en ella. En el caso de las fichas clínicas en soporte de papel se deberá considerar el registro y disponibilidad de un conjunto mínimo de datos en la forma, procedimiento y plazo definidos por el Ministerio de Salud en una resolución.
 
 Toda la información que surja, tanto de la ficha clínica como de los estudios y demás documentos donde se registren procedimientos y tratamientos a los que fueron sometidas las personas, será considerada como dato sensible, de conformidad con lo dispuesto en la letra g) del artículo 2º de la ley Nº 19.628.
 
 #### Artículo 13
 
-La ficha clínica deberá conservarse por los prestadores por un período de al menos quince años, y serán los responsables de la reserva de su contenido. Un reglamento expedido a través del Ministerio de Salud establecerá la forma y las condiciones bajo las cuales los prestadores almacenarán las fichas, así como las normas necesarias para su administración, adecuada protección y eliminación.
+Los prestadores deberán conservar la ficha clínica por un período de al menos quince años. Asimismo, serán responsables del cumplimiento de lo dispuesto en la ley N° 19.628, sobre protección de la vida privada, de adoptar las medidas que permitan su interoperabilidad con otros prestadores de salud, y del acceso oportuno a la información contenida en la ficha que sea necesaria para garantizar la continuidad del cuidado del paciente, cuando ésta sea requerida por un profesional de la salud que participe directamente en la atención del titular de los datos contenidos en ella. Un reglamento expedido a través del Ministerio de Salud establecerá la forma y las condiciones bajo las cuales los prestadores almacenarán las fichas, así como las normas necesarias para su administración, adecuada protección, eliminación e interoperabilidad.
 
 La ficha clínica electrónica y los sistemas que la soporten deberán estar diseñados para interoperar con otros sistemas necesarios para el otorgamiento de acciones y prestaciones de salud. Un reglamento del Ministerio de Salud, suscrito por el Ministerio de Hacienda, establecerá los estándares técnicos y administrativos que deberán cumplir para su certificación.
 
@@ -248,7 +250,11 @@ c) A los tribunales de justicia, siempre que la información contenida en la fic
 
 d) A los fiscales del Ministerio Público y a los abogados, previa autorización del juez competente, cuando la información se vincule directamente con las investigaciones o defensas que tengan a su cargo.
 
-e) Al Instituto de Salud Pública, en el ejercicio de sus facultades.
+e) Al Instituto de Salud Pública y al Ministerio de Salud, en el ejercicio de sus facultades.
+
+f) A la Superintendencia de Salud, para dar cumplimiento a las facultades fiscalizadoras y sancionatorias que las leyes le otorgan respecto de los prestadores de salud.
+
+g) Al prestador individual y a los profesionales de la salud que participen directamente en la atención de salud del paciente, para proporcionarles los datos que sean esenciales para garantizar la continuidad de su cuidado.
 
 Las instituciones y personas indicadas precedentemente adoptarán las providencias necesarias para asegurar la reserva de la identidad del titular las fichas clínicas a las que accedan, de los datos médicos, genéticos u otros de carácter sensible contenidos en ellas y para que toda esta información sea utilizada exclusivamente para los fines para los cuales fue requerida.
 
@@ -557,6 +563,10 @@ Los reglamentos complementarios de la presente ley se dictarán dentro del mes s
 #### Artículo segundo
 
 El Ministerio de Salud deberá elaborar la normativa técnica a que hace referencia la letra b) del inciso segundo del artículo 5°, en un plazo de seis meses desde la publicación de la ley que lo establece.
+
+#### Artículo tercero
+
+El Ministerio de Salud deberá actualizar el reglamento contemplado en el artículo 13, en el plazo de dieciocho meses contado desde la entrada en vigencia de la modificación a dicho artículo, la que establece el deber de adoptar medidas tendientes a la interoperabilidad de las fichas clínicas.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
