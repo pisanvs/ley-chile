@@ -432,7 +432,7 @@ Todo edificio público y todo edificio sobre los 50 m² sin importar su carga de
 
 #### Artículo 6
 
-> **Nota.** El Nº 7 del Decreto 898, Municipalidad de Chiguayante, publicado el 09.05.2024, incorpora al Capítulo III, Definiciones y Normas Generales, a continuación del actual artículo 5, un nuevo artículo 6, pasando los actuales artículos 6, 7 y 8 del Capítulo IV Definiciones de la Zonificación de Suelo y Normas Especiales, a ser los artículos: 7, 8 y 9 respectivamente. No obstante lo anterior, dicha modificación al artículo 6 no fue posible incorporarla en el presente texto actualizado debido a que el texto del nuevo artículo 6 no fue incluido en la publicación del Diario Oficial que contiene la citada norma.
+Cuerpos salientes de la línea de edificación sobre antejardines: Desde el segundo piso de la edificación, se permitirán cuerpos salientes sobre el antejardín hasta 1,20 metros de extensión medidos desde el plano vertical de la línea de edificación y respetando los distanciamientos hacia deslindes laterales que se definen para la edificación aislada en la OGUC.
 
 ## Capítulo IV
 
