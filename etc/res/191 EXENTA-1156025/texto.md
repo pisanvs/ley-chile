@@ -86,19 +86,9 @@ c) Apoyar al Jefe de Gabinete en las demás tareas que le encomiende.
 
 d) Asesorar a la Dirección en las relaciones con organismos internacionales o extranjeros.
 
-2.2.1 Se delega también en los funcionarios de la Unidad de Asesoría Jurídica que ejerzan la labor de fiscalía en sumarios sanitarios, la facultad de suscribir los memorandos y oficios destinados a recabar información relacionada con la investigación que tienen a su cargo. Del mismo modo, estos funcionarios podrán dictar resoluciones que abran términos probatorios, resuelvan solicitudes de ampliaciones de plazos sobre los mismos y, en general, aquellas que sean necesarias para dar curso progresivo a los autos.
+2.2.1 Eliminado.
 
-2.2.2 Le corresponderán a la Unidad de Asesoría Jurídica, las siguientes funciones:
-
-a) Asesorar a la Dirección y a otras Jefaturas del Instituto en la aplicación de las normas legales, reglamentarias y otras disposiciones, emitiendo los informes que le sean requeridos.
-
-b) Redactar y revisar los proyectos de formalización de actos, contratos y convenios con personas naturales o jurídicas nacionales en que participe el Instituto y realizar las gestiones tendientes a materializarlos.
-
-c) Intervenir en la elaboración de las resoluciones e instrucciones que deba aprobar la Dirección del Instituto, a requerimiento de ésta.
-
-d) Preparar los informes y las consultas a la Contraloría General de la República sobre la interpretación de normas legales y reglamentarias.
-
-e) Asumir la defensa del Instituto en los juicios en que sea parte o en los asuntos en que tenga interés ante los tribunales de justicia o el Ministerio Público, con excepción de las facultades que en esta materia tenga el Subdepto. Gestión Financiera.
+2.2.2 Eliminado.
 
 2.3 La UNIDAD DE COMUNICACIONES E IMAGEN INSTITUCIONAL, que tendrá las siguientes funciones:
 
@@ -366,15 +356,7 @@ ii. A Compin e Isapres, solicitando información sobre estado de licencias médi
 
 5.6.1 El Subdepartamento Gestión y Desarrollo de Personas estará compuesto por la sala cuna y el jardín infantil, además de las siguientes Secciones y Unidades, que tendrán las funciones y delegación de firma, que a continuación se indican:
 
-5.6.2 Unidad de Proyectos, Control y Apoyo a la Gestión:
-
-a) Coordinar, controlar, hacer seguimiento y ejecución de metas, reportes, indicadores y planes del Subdepartamento Gestión y Desarrollo de Personas.
-
-b) Liderar, coordinar y apoyar, según corresponda, el desarrollo de proyectos originados en el Subdepartamento GDP, que tengan impacto transversal en la institución.
-
-c) Coordinar las acciones tendientes a representar a la institución, en todas las instancias participativas que promueva la Dirección Nacional del Servicio Civil u otras entidades de la Administración del Estado, en materia de Gestión y Desarrollo de Personas.
-
-d) Gestionar las acciones que conlleven el cumplimiento de las leyes Nº 20.422 y Nº 21.015.
+5.6.2 Suprimido.
 
 5.6.3 Servicio de Bienestar:
 
@@ -546,13 +528,7 @@ b) Determinar la depreciación mensual y anual de los bienes sujetos a la normat
 
 5.9 SUBDEPARTAMENTO ATENCIÓN A CLIENTES Y USUARIOS, cuya jefatura tendrá delegada las facultades de resolver las solicitudes de exención de arancel, previa instrucción emitida por la Dirección del Instituto y de suscribir la carta que comunica sobre la necesidad de formalizar la venta de las prestaciones relacionadas con exámenes de histocompatibilidad. Asimismo, podrá suscribir el acto administrativo que resuelva las solicitudes de devoluciones de arancel, cuando estas sean de montos iguales e inferiores a los $500.000.- (quinientos mil pesos), así como también aquellas que se funden en diferencias entre el arancel y el monto efectivamente pagado por el usuario, con independencia del monto. Dicho Subdepartamento estará compuesto de las siguientes Secciones y Oficinas, que tendrán las funciones y delegaciones que se indican a continuación:
 
-5.9.1 Unidad de control de gestión:
-
-a) Coordinar, controlar, hacer seguimiento y ejecución de las Metas de Desempeño Colectivo, Plan Operativo, BGI y PMG, por Sección, del Subdepartamento.
-
-b) Organización de la información, elaboración de reportes, planes y programas de los distintos procesos asociados al Subdepartamento.
-
-c) Administrar encuestas y mediciones sobre la satisfacción de los usuarios respecto a la calidad de la atención y las expectativas de éstos.
+5.9.1 Suprimido.
 
 5.9.2 Gestión de Productos y Servicios:
 
@@ -1062,25 +1038,9 @@ f) A través de la biblioteca, mediar en los procesos de adquisición de informa
 
 g) Desarrollar investigación aplicada y desarrollo tecnológico con impacto en la salud pública, aplicable al ámbito de las competencias del ISP"
 
-7.5.1 Estudios y ETESA:
+7.5.1 Eliminado.
 
-a) Apoyar, impulsar y desarrollar en la institución estudios de investigación científica aplicada respecto de los principales problemas de salud de la población del país.
-
-b) Generar base de datos actualizadas con fondos concursables para investigación científica en el área de salud pública.
-
-c) Generar alianzas estratégicas con instituciones científicas nacionales e internacionales.
-
-d) Apoyar el desarrollo y edición de la Revista del Instituto de Salud Pública de Chile y promover publicación científica en revistas científicas de alto impacto.
-
-e) Apoyar la organización y desarrollo de las jornadas científicas de la institución.
-
-f) A través de la biblioteca, mediar en los procesos de adquisición de información y conocimiento de los funcionarios del Instituto, resguardando como patrimonio de la institución la ubicación, tratamiento, preservación y visualización de la información científico/documental; facilitando la actualización de contenidos de referencia, reduciendo tiempos de búsqueda y obtención de material asertivo.
-
-g) Promover la evaluación de nuevas y existentes tecnologías en salud en el ámbito de acción del Instituto de Salud Pública de Chile; incluyendo la evaluación de medicamentos, vacunas o inmunógenos, biopreparados, kits de diagnóstico, reactivos, equipos de laboratorios, dispositivos médicos y elementos de protección personal.
-
-7.5.2 Biotecnología:
-
-a) Desarrollar investigación aplicada y desarrollo tecnológico con impacto en la salud pública, aplicable al ámbito de las competencias del ISP.
+7.5.2 Eliminado.
 
 8. DEPARTAMENTO LABORATORIO BIOMÉDICO NACIONAL Y DE REFERENCIA, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
 
@@ -1092,7 +1052,7 @@ b) Firmar certificado anual de participación en PEEC por cada participante.
 
 8.2 SUBDEPARTAMENTO GENÓMICA Y GENÉTICA MOLECULAR, el que estará formado por las Secciones que se señalan a continuación, las que tendrán las siguientes funciones:
 
-8.1.1 Genética de agentes infecciosos:
+8.2.1 Genética de agentes infecciosos:
 
 a) Actuar como laboratorio nacional de referencia en el área de la vigilancia genómica de agentes infecciosos, de acuerdo a la normativa y estrategias del Ministerio de Salud.
 
@@ -1102,7 +1062,7 @@ c) Implementar nuevos sistemas de secuenciación genómica para la caracterizaci
 
 d) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional.
 
-8.1.2 Genética humana:
+8.2.2 Genética humana:
 
 a) Actuar como laboratorio nacional de referencia en la caracterización genética de algunas enfermedades humanas, de acuerdo a la normativa y estrategias del Ministerio de Salud.
 
@@ -1110,7 +1070,7 @@ b) Realizar, mediante sistemas de secuenciación genómica, la identificación d
 
 c) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional.
 
-8.1.3 Bioinformática y modelamiento molecular:
+8.2.3 Bioinformática y modelamiento molecular:
 
 a) Actuar como laboratorio nacional de referencia en los análisis bioinformáticos genómicos, de acuerdo a la normativa y estrategias del Ministerio de Salud.
 
@@ -1120,7 +1080,7 @@ c) Organizar una plataforma que permita disponer de los datos genéticos de agen
 
 d) Realizar investigación aplicada en el ámbito de su competencia y de acuerdo a las necesidades que exija la salud pública nacional.
 
-8.1.4 Entomología y genética de vectores:
+8.2.4 Entomología y genética de vectores:
 
 a) Actuar como laboratorio nacional de referencia en el campo de la entomología, de acuerdo a la normativa y estrategias del Ministerio de Salud.
 
@@ -1512,15 +1472,15 @@ c) Realizar prestaciones analíticas, según demanda, para la medición de conta
 
 11. Departamento Jurídico, que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
 
-a) Oficios que sean requeridos por los tribunales de justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, fiscalías militares y jefaturas jurídicas de otros órganos de la Administración del Estado, salvo aquellos que estén especialmente delegados en otras áreas técnicas. Asimismo, podrá suscribir el oficio por el cual se derive un requerimiento de cualquier autoridad a la entidad competente, en aplicación del inciso segundo del artículo 14 de la ley N° 19.880, siempre que este no sea relativo a la ley N° 20.285.
+a) Oficios que sean requeridos por los tribunales de justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, fiscalías militares y jefaturas jurídicas de otros órganos de la Administración del Estado, con excepción de la Contraloría General de la República y aquellos que estén especialmente delegados en otras áreas técnicas. Asimismo, podrá suscribir el oficio por el cual se derive un requerimiento de cualquier autoridad a la entidad competente, en aplicación del inciso segundo del artículo 14 de la ley N° 19.880, siempre que este no sea relativo a la ley N° 20.285.
 
 b) Resoluciones que denieguen parcial o totalmente el acceso a la información pública, en el marco de la ley N° 20.285.
 
 c) En materia de sumarios sanitarios, firmará las resoluciones que dicten sentencia en dichos sumarios y aquellas que se pronuncien sobre la solicitud de suspensión de los efectos de aquellas sentencias, así como también resolver los recursos de reposición.
 
-d) Resolver los recursos de reposición y otras impugnaciones de todo tipo que se presenten contra actos emanados de este Instituto, así como las solicitudes de suspensión contenidas en dichas presentaciones. Lo anterior, con excepción de la revisión cuya facultad se delega en las letras c) y d) del número 6.10 de la presente resolución y de aquellas decisiones suscritas por el Director del Instituto, las que serán resueltas por esa autoridad.
+d) Resolver los recursos de reposición que se presenten contra actos emanados de este Instituto, así como las solicitudes de suspensión. Lo anterior, con excepción de la revisión cuya facultad se delega en las letras c) y d) del número 6.10 de la presente resolución y de aquellas decisiones suscritas por el Director del Instituto, las que serán resueltas por esa autoridad.
 
-e) En el ámbito de compras públicas, firmar los oficios que deban ser enviados a Contraloría General de la República para solicitar el retiro de actos administrativos relacionados con procesos de adquisición de bienes o servicios que hayan sido enviadas a dicho ente de control para el trámite de toma de razón.
+e) Firmar los oficios que deban ser enviados a Contraloría General de la República para solicitar el retiro de actos administrativos que hayan sido enviadas a dicho ente de control para el trámite de toma de razón.
 
 f) Suscribir los oficios que se envíen a Contraloría General de la República, en que se solicite prórroga para dar respuesta a un requerimiento desde dicha entidad.
 
