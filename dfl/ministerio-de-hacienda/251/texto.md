@@ -4,6 +4,10 @@ Decreto:
 
 El texto definitivo del Decreto con fuerza de Ley número 135 de 30 de Abril último, modificado por el presente, será el siguiente:
 
+> **Nota.** El inciso segundo del artículo 67 de la Ley 21000, publicada el 27.02.2017, dispone que las referencias que se hagan a la Superintendencia de Valores y Seguros, al Superintendente de Valores y Seguros, a la Superintendencia de Bancos e Instituciones Financieras y al Superintendente de Bancos e Instituciones Financieras, a la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio o al Superintendente de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, contenidas en leyes, decretos, reglamentos, resoluciones, estatutos o cualquier otro cuerpo normativo, se entenderán hechas, respectivamente, a la Comisión para el Mercado Financiero, al Consejo o a su presidente, según corresponda.
+
+> **Nota.** NOTA 1 El Nº 1 del artículo 2 de la Ley 21.673, publicada el 30.05.2024, dispone reemplazar en su articulado, todas las veces que aparecen, las expresiones "Superintendencia de Bancos e Instituciones Financieras" y "Superintendencia", por las siguientes: "Comisión para el Mercado Financiero" y "Comisión", respectivamente. Sin embargo, dichas expresiones no se encuentran en la la citada norma, por lo que no es posible incorporarlas en el presente texto actualizado.
+
 ## Título Preliminar
 
 Definiciones
@@ -266,11 +270,13 @@ DEROGADO.
 
 El límite máximo de endeudamiento total en relación al patrimonio de las compañías del primer grupo no podrá ser superior a 5 veces. Asimismo, para las compañías del segundo grupo, dicho límite será igual a 15 veces.
 
-Sin embargo, la Comisión para el Mercado Financiero mediante normas de aplicación general sólo podrá establecer límites de endeudamiento total en relación al patrimonio, superiores a los del inciso anterior para las compañías del segundo grupo, cuando exista razón fundada para ello, condicionado a que cada modificación esté vigente durante al menos un año y que dicho cambio no sea superior a una vez el patrimonio. Con todo, la relación máxima de endeudamiento total para las compañías del segundo grupo no podrá exceder de 20 veces el patrimonio.
+Sin embargo, la Superintendencia mediante normas de aplicación general sólo podrá establecer límites de endeudamiento total en relación al patrimonio, superiores a los del inciso anterior para las compañías del segundo grupo, cuando exista razón fundada para ello, condicionado a que cada modificación esté vigente durante al menos un año y que dicho cambio no sea superior a una vez el patrimonio. Con todo, la relación máxima de endeudamiento total para las compañías del segundo grupo no podrá exceder de 20 veces el patrimonio.
 
-Para las compañías de uno u otro grupo, el total de las deudas contraídas con terceros, que no generen reservas técnicas de seguros, en ningún caso podrá exceder de 1,5 veces el patrimonio. El rango de posibles valores que podrá tomar dicho endeudamiento será fijado por la Comisión para el Mercado Financiero, mediante norma de carácter general. En todo caso, el límite que se fije no podrá ser inferior a una vez el patrimonio. La mencionada norma establecerá las bases técnicas para la medición del endeudamiento en las aseguradoras, para efectos de la aplicación de este límite. En tanto no se emita la norma, el límite será de 1 vez el patrimonio.
+Para las compañías de uno u otro grupo, el total de las deudas contraídas con terceros, que no generen reservas técnicas de seguros, en ningún caso podrá exceder de una vez el patrimonio.
 
 La reserva de valor del fondo, señalada en el Nº 6. del artículo 20, estará sujeta a un límite de endeudamiento total equivalente a siete veces el límite referido en el inciso primero.
+
+> **Nota.** La referencia a la "Superintendencia" debe entenderse hecha a la "Comisión para el Mercado Financiero", en conformidad con lo dispuesto en el artículo 67 de la ley 21000 publicada el 23.02.2017.
 
 #### Artículo 16
 
@@ -460,7 +466,7 @@ g) Crédito no vencido por prima devengada otorgado a las compañías cedentes d
 
 Las inversiones señaladas precedentemente, para ser representativas de reservas técnicas y patrimonio de riesgo, deberán cumplir los siguientes requisitos:
 
-1. Los instrumentos de la letra b) del Nº 1 deberán encontrarse clasificados, de conformidad a lo dispuesto en la ley Nº 18.045, según lo establezca la Comisión para el Mercado Financiero, de acuerdo a norma de carácter general;
+1. Los instrumentos de la letra b) del Nº 1 deberán encontrarse clasificados, de conformidad a lo dispuesto en la ley Nº 18.045, en al menos categoría de riesgo BBB o N-3, según corresponda a instrumentos de largo o corto plazo, respectivamente;
 
 2. Los instrumentos de las letras
 
@@ -636,7 +642,7 @@ Tratándose de seguros con cuenta de inversión, la Superintendencia podrá ampl
 
 #### Artículo 24 bis
 
-Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas y patrimonio de riesgo. Sin embargo, si el exceso por sobre alguno de los límites de diversificación o la pérdida de representatividad, se produjeren por causas no imputables a la compañía, el exceso o las inversiones afectadas, podrán seguir respaldando las reservas técnicas y el patrimonio de riesgo, por un plazo no superior a seis meses, a contar de la fecha en que se produjo el exceso o el cambio en la clasificación de riesgo, según corresponda. Dicho plazo podrá prorrogarse una sola vez, por un plazo máximo de seis meses, por resolución fundada de la Comisión para el Mercado Financiero. Transcurrido el plazo original o la prórroga, según sea el caso, el exceso o las inversiones afectadas no serán aceptadas como respaldo de reservas técnicas ni de patrimonio de riesgo. Si el exceso de inversión es imputable a la compañía, dicho exceso no será aceptado como respaldo de reservas técnicas ni de patrimonio de riesgo. De igual manera, en caso de adquirir la compañía nuevos instrumentos que no cumplan con el requisito de clasificación de riesgo durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo. Lo anterior, es sin perjuicio de las sanciones que por dichos incumplimientos la Comisión para el Mercado Financiero pudiere aplicar.
+Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas. Sin embargo, si tal hecho se produjere exclusivamente por un cambio de clasificación de riesgo, las inversiones afectadas podrán seguir respaldando reservas técnicas y patrimonio de riesgo por un plazo no superior a seis meses a contar de la fecha del cambio. Sin embargo, el 50% de ellas podrá seguir sirviendo de respaldo por un período adicional de seis meses. en caso de adquirir nuevos instrumentos de éstos durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo.
 
 #### Artículo 25
 
@@ -1288,7 +1294,7 @@ Los mutuos se otorgarán a personas naturales o jurídicas para fines de adquisi
 
 Las compañías de seguros podrán, también, adquirir mutuos hipotecarios endosables, a que se refiere el artículo 69 número 7) de la Ley General de Bancos, y mutuos hipotecarios endosables otorgados en conformidad a la ley Nº 16.807 u otras leyes, siempre que dicha inversión cumpla con los fines, modalidades y limitaciones que establece este Título.
 
-Se podrán otorgar mutuos hasta por el valor de tasación del inmueble dado en garantía hipotecaria. No obstante lo anterior, sólo se considerarán para efectos de respaldar reservas técnicas y patrimonio de riesgo, según corresponda, mutuos hipotecarios cuyo monto otorgado no exceda del 80% del valor de tasación señalado, salvo en cuanto existan seguros que garanticen el pago de la cantidad que exceda dicho porcentaje y que cumplan las condiciones que determine la Superintendencia.
+Se podrán otorgar mutuos hasta por el valor de tasación del inmueble dado en garantía hipotecaria. No obstante lo anterior, sólo se considerarán para efectos de respaldar reservas técnicas y patrimonio de riesgo, según corresponda, mutuos hipotecarios cuyo monto otorgado no exceda del 80% del valor de tasación señalado, salvo en cuanto existan seguros o garantías estatales que garanticen el pago de la cantidad que exceda dicho porcentaje y que cumplan las condiciones que determine la Superintendencia.
 
 El mutuo deberá quedar garantizado con primera hipoteca, constituida sobre el bien raíz dado en garantía, o con hipoteca de segundo grado, siempre que la primera hipoteca se haya constituido para garantizar una obligación perfectamente determinada y que, sumado su monto al mutuo amparado por la segunda hipoteca, no exceda el límite del 80% señalado.
 

@@ -138,7 +138,7 @@ El Ministerio de Hacienda emitirá el reglamento del Programa de Garantías Apoy
 
 El Programa consagrado en este artículo estará vigente hasta el 31 de diciembre del año 2035, o hasta 12 años después de que se otorgue el último crédito garantizado bajo este Programa, lo que ocurra último. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este artículo. El cumplimiento de estos plazos no afectará la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantías Especiales respecto de las garantías que se hayan otorgado en virtud el presente artículo y los referidos decretos supremos.
 
-Sólo se podrán otorgar financiamientos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre del año 2025.
+Sólo se podrán otorgar financiamientos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre del año 2024.
 
 El administrador del Fondo podrá facilitar a las instituciones que otorguen financiamientos un mecanismo de consulta respecto a las empresas que cumplan con los requisitos de elegibilidad para optar a la garantía del Fondo. Para ello, podrá requerir al Servicio de Impuestos Internos que proporcione la información que permita la habilitación del mecanismo y la adecuada implementación del Programa, y al Ministerio de Vivienda y Urbanismo, al Ministerio de Obras Públicas, al Ministerio de Salud u otra institución pública que mandate proyectos inmobiliarios y/o de construcción, que proporcionen la información que fuere necesaria para los fines de la presente ley. La información será remitida al administrador del Fondo de conformidad con el procedimiento que determine el reglamento.
 
@@ -209,72 +209,6 @@ El Ministerio de Hacienda emitirá el reglamento del Programa de Garantías Apoy
 El programa consagrado en este artículo estará vigente hasta el 31 de diciembre del año 2027, o hasta 4 años después de que se otorgue el último crédito garantizado bajo este Programa, lo último que ocurra. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este artículo. El cumplimiento de estos plazos no afectará la regulación y facultades, incluyendo las facultades de cobro del Fondo de Garantías Especiales respecto de las garantías que se hayan otorgado en virtud el presente artículo y los referidos decretos supremos.
 
 Sólo se podrán otorgar financiamientos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre de 2024.
-
-#### Artículo sexto
-
-Créase el Programa de Garantías Apoyo a la Vivienda Nueva, el cual se regirá por las reglas que se señalan a continuación.
-
-Para efectos de las Bases del Programa Garantías Apoyo a la Vivienda Nueva, podrán optar a las garantías del Fondo, denominadas "Garantías Apoyo a la Vivienda Nueva", las personas naturales que cumplan copulativamente con los siguientes criterios de elegibilidad:
-
-i. Que se trate de créditos para el financiamiento de viviendas nuevas.
-
-ii. Que el valor de la vivienda no supere las 4.000 unidades de fomento.
-
-iii. Que cumpla con los demás requisitos establecidos en el o los decretos a que se refiere el inciso noveno.
-
-Con todo, el Fondo no podrá garantizar más del 60% del valor de la vivienda. El Ministerio de Hacienda podrá determinar una o más fórmulas para el cálculo del valor de la vivienda.
-
-El Fondo tampoco podrá garantizar créditos para compraventa de viviendas cuya promesa sea anterior al 31 de diciembre de 2024.
-
-El plazo de la garantía del Fondo no podrá ser mayor a la mitad del plazo del financiamiento por el cual se otorgue, que, en todo caso, no podrá ser superior a quince años ni inferior a cinco años.
-
-Los financiamientos garantizados por el Fondo deberán destinarse exclusivamente al pago de viviendas que cumplan los requisitos indicados. Sin perjuicio de lo anterior, se podrán repactar o renegociar las condiciones del crédito, sin perder la garantía del Fondo, dentro del período de hasta quince años, en los términos establecidos en el inciso anterior. Se podrán también refinanciar créditos otorgados en virtud de este Programa en la forma que establezca el o los decretos a que se refiere el inciso noveno.
-
-Las infracciones a lo establecido en el inciso anterior serán sancionadas de conformidad con el artículo 4°.
-
-El otorgamiento de Garantías de Apoyo a la Vivienda Nueva se regirá por las reglas del presente artículo, por el o los decretos a que se refiere el inciso noveno del presente artículo y, en subsidio, por lo establecido en los demás artículos de la presente ley.
-
-El Ministerio de Hacienda, a través de uno o más decretos supremos dictados bajo la fórmula "Por orden del Presidente de la República", establecerá los requisitos y condiciones mínimas que deberán cumplir las bases de licitación del Programa de Garantías Apoyo a la Vivienda Nueva. Estos decretos podrán establecer distintos tipos o regímenes de licitación y sus respectivos requisitos, condiciones y criterios específicos. Asimismo, dichos decretos regularán el funcionamiento del Fondo y todos los demás aspectos necesarios para la mejor aplicación de este artículo, sin perjuicio de las normas cuya dictación pueda corresponder a la Comisión para el Mercado Financiero.
-
-El Programa de Garantías Apoyo a la Vivienda Nueva estará vigente hasta el 31 de diciembre del año 2030, o hasta quince años después de que se otorgue el último crédito garantizado bajo este programa, lo que ocurra último. Los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este programa. El cumplimiento de estos plazos no afectará la regulación y facultades, incluidas las de cobro, del administrador del Fondo de Garantías Especiales respecto de las garantías que se hayan otorgado en virtud del presente artículo y de los referidos decretos supremos.
-
-Sólo se podrán solicitar financiamientos con las condiciones señaladas hasta veinticuatro meses después de la fecha de publicación de esta ley.
-
-El administrador del Fondo podrá facilitar a las instituciones que otorguen financiamientos un mecanismo de consulta respecto de las personas naturales que cumplan con los requisitos de elegibilidad para optar a la garantía del Fondo. Para ello podrá requerir al Servicio de Impuestos Internos que proporcione la información que permita la habilitación del mecanismo y la adecuada implementación del programa. La información será remitida al administrador del Fondo de conformidad con el procedimiento que determine el Ministerio de Hacienda mediante decreto.
-
-La información que se entregue según lo dispuesto en el inciso precedente se limitará estrictamente a aquella que sea necesaria para la correcta identificación de las personas naturales elegibles para acceder al Programa de Garantías Apoyo a la Vivienda Nueva creado por este artículo, en cumplimiento de lo dispuesto por la ley N° 19.628, sobre Protección de la Vida Privada.
-
-#### Artículo séptimo
-
-Créase el Programa de Garantías para la Recuperación Productiva Regional, el que se regirá por las reglas que se señalan a continuación.
-
-Para efectos de las Bases del Programa de Garantías para la Recuperación Productiva Regional, podrán optar a las garantías del Fondo, denominadas "Garantías para la Recuperación Productiva Regional", las empresas que cumplan copulativamente con los siguientes criterios de elegibilidad:
-
-i. Que sus ventas netas anuales superen las 25.000 unidades de fomento y no excedan de 1.000.000 de unidades de fomento.
-
-ii. Que realice actividades económicas con una clara identificación regional o local, excluida la Región Metropolitana.
-
-Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor, ni garantizar financiamientos que excedan el total de 250.000 unidades de fomento, de conformidad con lo estipulado en el reglamento respectivo.
-
-La garantía del Fondo no podrá tener un plazo mayor a doce años, sin perjuicio del plazo del financiamiento por el cual se otorgue.
-
-Los deudores de financiamientos garantizados por el Fondo deberán destinar estos recursos a inversiones, refinanciamientos o capital de trabajo, incluidos la constitución o aportes en sociedades que tengan por objeto la explotación de la misma actividad del deudor o conexa con ésta.
-
-Las infracciones a lo establecido en el inciso anterior serán sancionadas de conformidad al artículo 4°.
-
-El otorgamiento de las Garantías para la Recuperación Productiva Regional se regirá por las reglas del presente artículo, por el o los decretos a que hace referencia el inciso siguiente y, en subsidio, por lo establecido en los demás artículos de la presente ley.
-
-El Ministerio de Hacienda, mediante uno o más decretos emitidos bajo la fórmula "Por orden del Presidente de la República", establecerá las condiciones para aplicar el Programa de Garantías para la Recuperación Productiva Regional a una o más regiones, y los requisitos y condiciones mínimas que deben cumplir las bases de licitación respectivas. Estos decretos podrán establecer distintos tipos o regímenes de licitación y sus respectivos requisitos, condiciones y criterios específicos. Asimismo, dichos decretos regularán el funcionamiento del Fondo y todos los demás aspectos necesarios para la mejor aplicación de esta ley en virtud del Programa de Garantías para la Recuperación Productiva Regional, sin perjuicio de las normas cuya dictación pueda corresponder a la Comisión para el Mercado Financiero.
-
-Para efectos de lo establecido en el inciso anterior, los Ministerios de Hacienda y de Economía, Fomento y Turismo deberán revisar anualmente, durante la vigencia establecida en el inciso undécimo, si hay alguna región que requiera una reactivación productiva considerando, entre otros, factores como empleo, ingresos e inversión, o la ocurrencia de desastres naturales, y podrán determinar fundadamente activar este programa para una o más regiones, o mantener la o las regiones vigentes, si las hubiera. Los referidos ministerios enviarán un informe que dé cuenta de la revisión realizada a las comisiones de Hacienda de la Cámara de Diputados y del Senado durante el mes de enero de cada año.
-
-El Programa consagrado en este artículo estará vigente hasta doce años después de que se otorgue el último crédito garantizado bajo este Programa. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este programa. El cumplimiento de estos plazos no afectará la regulación y facultades, incluidas las de cobro, del administrador del Fondo de Garantías Especiales respecto de las garantías que se hayan otorgado en virtud del presente artículo y de los referidos decretos supremos.
-
-Sólo se podrán otorgar financiamientos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre del año 2028, siempre que haya uno o más decretos vigentes, de conformidad con el inciso anterior.
-
-El administrador del Fondo podrá facilitar a las instituciones que otorguen financiamientos un mecanismo de consulta respecto de las empresas que cumplan con los requisitos de elegibilidad para optar a la garantía del Fondo. Para ello, podrá requerir al Servicio de Impuestos Internos que proporcione la información que permita la habilitación del mecanismo y la adecuada implementación del programa. La información será remitida al administrador del Fondo de conformidad con el procedimiento que determine el Ministerio de Hacienda mediante el o los decretos supremos a que hace referencia este artículo.
-
-La información que se entregue según lo dispuesto en el inciso precedente se limitará estrictamente a aquella que sea necesaria para la correcta identificación de las empresas elegibles para acceder al Programa de Garantías para la Recuperación Productiva Regional creado por este artículo, en cumplimiento de lo dispuesto por la ley N° 19.628, sobre Protección de la Vida Privada.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 

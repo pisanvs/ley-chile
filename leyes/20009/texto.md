@@ -40,7 +40,11 @@ Las cláusulas de los contratos que impongan el deber de prueba sobre el usuario
 
 Tratándose de operaciones anteriores al aviso a que se refiere el artículo 2 de esta ley, el usuario deberá reclamar al emisor aquellas operaciones respecto de las cuales desconoce haber otorgado su autorización o consentimiento, en el plazo de treinta días hábiles siguientes al aviso.
 
-El reclamo podrá incluir operaciones realizadas en los ciento veinte días corridos anteriores a la fecha del aviso efectuado por el usuario.
+El reclamo podrá incluir operaciones realizadas en los sesenta días corridos anteriores a la fecha del aviso efectuado por el usuario.
+
+Para hacer efectiva la reclamación, el emisor podrá exigir al usuario la suscripción de una declaración jurada simple que indique el monto reclamado, la fecha de la operación, así como el producto y el medio a través del cual se realizó el fraude. El emisor deberá habilitar canales físicos y/o digitales para la suscripción de la mencionada declaración jurada.
+
+Con todo, para la cancelación de los cargos o la restitución de los fondos correspondientes a las operaciones reclamadas, el usuario deberá realizar una denuncia por los hechos constitutivos del delito de fraude ante al menos uno de los siguientes organismos: el Ministerio Público, funcionarios de Carabineros de Chile, de la Policía de Investigaciones, o ante cualquier tribunal con competencia criminal, en los términos establecidos por el artículo 173 del Código Procesal Penal, y deberá entregar un respaldo al emisor antes del plazo dispuesto en el artículo 5 para la referida cancelación o restitución. Si vencido el plazo para la cancelación de los cargos o la restitución de los fondos el usuario no hubiere presentado respaldo de haber realizado la denuncia correspondiente, el emisor retendrá los fondos hasta la presentación del referido respaldo por parte del usuario, y dispondrá de veinticuatro horas desde su presentación para la cancelación de los cargos o la restitución de los fondos. Si transcurridos treinta días corridos desde el reclamo del usuario este no hubiere presentado respaldo de haber realizado la denuncia correspondiente, se entenderá que se retracta del reclamo y no procederá la cancelación de los cargos o la restitución de los fondos.
 
 En relación con las operaciones no autorizadas incluidas en el reclamo, se considerará especialmente la circunstancia de que el emisor haya enviado una alerta de fraude al usuario, identificando las operaciones sospechosas, y que exista constancia de su recepción por parte del usuario, conforme al contrato de prestación de servicios financieros correspondiente.
 
@@ -50,27 +54,89 @@ En los casos en que el usuario desconozca haber autorizado una operación, corre
 
 El solo registro de las operaciones no bastará, necesariamente, para demostrar que esta fue autorizada por el usuario, ni que el usuario actuó con culpa o descuido que le sean imputables, sin perjuicio de la acción contra el autor del delito.
 
+La Comisión para el Mercado Financiero, mediante norma de carácter general, establecerá estándares mínimos de seguridad, registro y autenticación. A través de la referida norma de carácter general, la Comisión determinará los supuestos de uso y transacciones en que resulte obligatorio por parte del emisor el uso de autenticación reforzada.
+
+Para estos efectos, se entenderá por autenticación el procedimiento que permita al emisor comprobar la identidad del usuario o la validez de la utilización de un medio de pago, incluida la utilización de credenciales de seguridad personalizadas del usuario, y por autenticación reforzada, la utilización de al menos dos factores de autenticación, sea de conocimiento, posesión o inherencia, diferentes e independientes entre sí, para el acceso o utilización de los medios de pago, cuentas o sistemas similares que permitan efectuar pagos o transacciones electrónicas.
+
+El emisor será responsable de los perjuicios que se deriven por el incumplimiento de los estándares mínimos de seguridad, registro y autenticación que determine la Comisión.
+
+> **Nota.** El inciso primero del artículo tercero transitorio de la Ley 21673, publicada el 30.05.2024, dispone que lo dispuesto en los incisos noveno, décimo y final, nuevos, del presente artículo, comenzará a regir al momento de la publicación de las referidas normas de carácter general por parte de la Comisión para el Mercado Financiero, las que deberán ser dictadas dentro de los doce meses siguientes a la publicación de la presente ley.
+
+#### Artículo 4 bis
+
+Los usuarios deberán informarse y adoptar todas las medidas necesarias para prevenir el uso indebido, el fraude u otros riesgos afines a la utilización de los medios de pago a que se refiere esta ley y los mecanismos de autenticación asociados.
+
+Para estos efectos, las entidades reguladas por esta ley deberán proporcionar, de manera periódica, clara, accesible y actualizada, toda la información necesaria sobre las medidas de seguridad y las instrucciones de uso seguro a sus usuarios, promoviendo las prácticas responsables en el manejo de los medios de pago.
+
 ## Título II
 
 De la cancelación de cargos o restitución de fondos
 
 #### Artículo 5
 
-El emisor deberá proceder a la cancelación de los cargos o a la restitución de los fondos correspondientes a las operaciones reclamadas en virtud del artículo 4, dentro de cinco días hábiles contados desde la fecha del reclamo, cuando el monto total reclamado sea igual o inferior a 35 unidades de fomento.
+Siempre que el monto reclamado sea igual o inferior al umbral establecido de conformidad con el inciso final de este artículo, el emisor deberá proceder a la cancelación de los cargos o a la restitución de los fondos correspondientes a las operaciones reclamadas en virtud del artículo 4, dentro de diez días hábiles contados desde la fecha del reclamo o desde que se hubiere producido el daño patrimonial. Si la operación reclamada consistiere en giros en avances en efectivo o cajeros automáticos, el plazo para la cancelación de los cargos o a la restitución de los fondos será de quince días hábiles.
 
-Si el monto reclamado fuere superior a 35 unidades de fomento, el emisor deberá proceder a la cancelación de los cargos o la restitución de los fondos, según corresponda, por un valor de 35 unidades de fomento en igual plazo que el inciso precedente. Respecto del monto superior a dicha cifra el emisor tendrá siete días adicionales para cancelarlos, restituirlos al usuario o ejercer las acciones del inciso siguiente, debiendo notificar al usuario la decisión que adopte de la manera indicada en el inciso tercero del artículo 2.
+Si el monto reclamado fuere superior al referido umbral, el emisor deberá proceder a la cancelación de los cargos o la restitución de los fondos, según corresponda, hasta el equivalente al monto de dicho umbral, en igual plazo que el inciso precedente. Respecto del monto superior a dicha cifra el emisor tendrá siete días adicionales para cancelarlos, restituirlos al usuario o ejercer las acciones del inciso siguiente, debiendo notificar al usuario la decisión que adopte de la manera indicada en el inciso tercero del artículo 2 de esta ley.
 
-Si en el plazo anterior, el emisor recopilare antecedentes que acrediten la existencia de dolo o culpa grave por parte del usuario, podrá ejercer ante el juez de policía local todas las acciones que emanan de esta ley, siendo competente aquel que corresponda a la comuna del domicilio del usuario.
+Si en el plazo anterior, el emisor recopilare antecedentes que acrediten la existencia de dolo o culpa grave por parte del usuario, podrá ejercer ante el juez de policía local todas las acciones que emanan de esta ley, siendo competente aquel que corresponda a la comuna del domicilio del usuario. Cuando estas acciones recaigan sobre el mismo usuario se acumularán los autos.
 
-Si el juez declarare por sentencia firme o ejecutoriada que no existen antecedentes suficientes que acrediten la existencia de dolo o culpa grave del usuario, el emisor quedará obligado a restituir al usuario el saldo retenido, debidamente reajustado aplicando para ello la tasa de interés máxima convencional calculada desde la fecha del aviso y al pago de las costas personales o judiciales.
+Si el juez declarare por sentencia firme o ejecutoriada que no existen antecedentes suficientes que acrediten la existencia de dolo o culpa grave del usuario, el emisor quedará obligado a restituir al usuario el saldo retenido, debidamente reajustado, aplicando para ello la tasa de interés máxima convencional calculada desde la fecha del aviso, y al pago de las costas personales o judiciales.
 
 Si se acreditare por sentencia firme o ejecutoriada que el usuario ha participado en la comisión del delito, que obtuvo un provecho ilícito o que actuó con dolo o culpa grave facilitando su comisión, se procederá a dejar sin efecto la cancelación de los cargos o la restitución de fondos, sin perjuicio de las indemnizaciones que correspondan según la normativa aplicable.
 
-El procedimiento para ejercer esta acción será el establecido en el Párrafo 1º del Título IV de la ley Nº 19.496, sobre protección de los derechos de los consumidores.
+El procedimiento para ejercer esta acción será el establecido en los Párrafos 1° y 2° del Título IV de la ley N° 19.496, sobre protección de los derechos de los consumidores.
 
 Tratándose de un pago o transferencia electrónica iniciada a través de un proveedor de servicios de iniciación de pagos, si el responsable de la operación no autorizada es el proveedor de servicios de iniciación de pagos, éste deberá resarcir al emisor por las pérdidas sufridas o las sumas abonadas para efectuar la devolución al usuario, incluido el monto de la operación no autorizada.
 
 El emisor estará impedido de ofrecer a los usuarios la contratación de seguros cuya cobertura corresponda a riesgos o siniestros que el emisor deba asumir en conformidad a esta ley.
+
+Un reglamento emitido por el Ministerio de Hacienda, suscrito además por el Ministerio de Economía, Fomento y Turismo, a través de uno o más decretos supremos, bajo la fórmula "Por orden del Presidente de la República", previa consulta a la Comisión para el Mercado Financiero, definirá uno o más umbrales de restitución de acuerdo con lo establecido en este artículo. El o los umbrales podrán ser diferenciados para distintos medios de pago y productos, y podrán considerar los montos promedios de las operaciones reclamadas, así como otros criterios que permitan ponderar el buen funcionamiento del mercado financiero, y los intereses y protección de los usuarios. Con todo, el o los umbrales establecidos no podrán ser inferiores a 15 unidades de fomento, ni superiores a 35 unidades de fomento. El o los umbrales deberán ser revisados por los Ministerios de Hacienda y de Economía, Fomento y Turismo al menos anualmente, y podrá determinarse fundadamente la mantención del o los umbrales vigentes o el cambio de uno o más de ellos.
+
+#### Artículo 5 bis
+
+Sin perjuicio de lo establecido en el artículo anterior, si hubiere antecedentes suficientes de la existencia de dolo o culpa grave por parte del usuario, el emisor podrá suspender la cancelación de cargos y/o la restitución de los fondos, cualquiera sea el monto reclamado. La suspensión será informada al usuario en el mismo plazo previsto en el mencionado artículo, dando cuenta de los fundamentos que la justifican.
+
+El emisor deberá solicitar al juez de policía local competente, dentro de los tres días hábiles siguientes al vencimiento del plazo previsto en el inciso segundo del artículo anterior, una autorización para mantener la suspensión de la cancelación de cargos y/o restitución de fondos, la que será otorgada por el juez de policía local respectivo cuando el emisor acompañe comprobantes que constituyan una presunción grave de que hubo dolo o culpa grave por parte del usuario, o concurra alguna de las circunstancias previstas en el artículo 5 ter. Esta solicitud se tramitará de acuerdo con los artículos 273 y siguientes del Código de Procedimiento Civil, dentro de un plazo de diez días hábiles.
+
+Si el juez de policía local rechaza la solicitud, el emisor deberá restituir y/o cancelar los cargos que queden bajo el umbral de restitución a que se refiere el inciso primero del artículo 5 de esta ley, dentro de los tres días hábiles siguientes a la notificación de la resolución del tribunal, aplicando el interés máximo convencional, salvo que el juez ordenare la restitución o cancelación completa de los cargos reclamados. Respecto del monto que exceda dicha cantidad, el emisor podrá continuar con la demanda de conformidad con el procedimiento establecido en el artículo 5 anterior, o restituir y/o cancelar los cargos correspondientes.
+
+Si el juez de policía local acoge la solicitud de suspensión, el emisor deberá, dentro de los diez días siguientes a la notificación de la resolución del tribunal, presentar su demanda y pedir, en el mismo acto, que se mantenga la suspensión hasta la notificación de la sentencia definitiva. Este plazo podrá ampliarse hasta diez días adicionales por motivos fundados. Admitida a tramitación la demanda, el emisor deberá notificar judicialmente al usuario dentro de los cinco días hábiles desde la notificación de dicha resolución, de lo que deberá dejar constancia en el expediente. Cuando la suspensión recaiga sobre la cancelación de cargos, el emisor también suspenderá el cobro de comisiones, intereses y otros cargos asociados a dichas operaciones, durante la tramitación del procedimiento ante el juez de policía local. Si los referidos cargos hubieren sido pagados por el usuario, estos deberán ser cancelados o restituidos por el emisor hasta el pronunciamiento de la sentencia definitiva.
+
+Para efectos de este procedimiento, se entenderá abandonado el procedimiento cuando las partes hayan cesado en su prosecución durante tres meses, contados desde la fecha de la última resolución recaída en alguna gestión útil para dar curso progresivo a los autos. El juez de policía local podrá declarar esta circunstancia de oficio.
+
+Si el juez declarare por sentencia firme que no existen antecedentes suficientes que acrediten la existencia de dolo o culpa grave del usuario, o si el procedimiento termina anticipadamente por otra causa, el emisor deberá restituir y/o cancelar los cargos al usuario dentro de los tres días hábiles siguientes a la notificación de la sentencia, debidamente reajustados, aplicando para ello la tasa de interés máxima convencional, con costas. El usuario podrá solicitar la indemnización de perjuicios dentro del mismo procedimiento.
+
+Si el juez declarare por sentencia firme que se acreditó la existencia de dolo o culpa grave del usuario, quedará firme la suspensión de la cancelación de los cargos o la restitución de los fondos, debiendo el usuario cancelar el monto de las comisiones, intereses, y otros cargos asociados a los cargos suspendidos durante el procedimiento, debidamente reajustados y los fondos que le hubieren sido restituidos y/o cancelados, de conformidad con el inciso tercero de este artículo, si la suspensión no hubiere sido concedida.
+
+Con todo, procederá siempre la suspensión de la cancelación de cargos y/o restitución de los fondos cuando el usuario tuviere uno o más procedimientos en curso, de conformidad con lo establecido en el artículo 5 de esta ley, en cuyo caso el emisor deberá informar al usuario de dichas circunstancias y presentar los antecedentes al juez de policía local respectivo debiendo acumularse los autos y resolverse en una misma sentencia por el juez respectivo. Asimismo, procederá siempre la referida suspensión cuando, ante una citación del juez de policía local dentro del procedimiento, el usuario se encontrare en rebeldía.
+
+#### Artículo 5 ter
+
+Se presumirá el dolo o la culpa grave del usuario cuando ocurra alguna de las siguientes hipótesis, para efectos de los procedimientos ante el juez de policía local a que se refieren los artículos 5 y 5 bis:
+
+a) Que la operación desconocida haya sido realizada exclusivamente entre cuentas que sean de su titularidad, contratadas con anterioridad.
+
+b) Que la operación desconocida haya sido realizada exclusivamente entre cuentas de su titularidad y de su cónyuge o conviviente civil, o de parientes por consanguinidad en toda la línea recta y la colateral hasta el cuarto grado inclusive, o bien por afinidad en toda la línea recta y la colateral hasta el segundo grado inclusive.
+
+c) Que los fondos transferidos hayan sido enviados a una o más cuentas registradas con al menos cuarenta y ocho horas de anticipación al desconocimiento de la operación por el usuario, o se hubiere realizado transferencias a la o las cuentas de destino dos o más veces antes de las cuarenta y ocho horas previas al desconocimiento de la operación.
+
+d) Que el usuario haya reconocido expresamente haber entregado sus claves voluntariamente a terceros, a sabiendas de que podrán ser usadas para giros o transacciones.
+
+e) Que el usuario tenga una o más sentencias firmes en el período de cinco años, en que se reconozca la existencia de dolo o culpa grave, en los términos del artículo 5.
+
+f) Si el emisor tuviere indicios suficientes de coordinación maliciosa entre los usuarios para reclamar una o más operaciones en una misma oportunidad.
+
+g) Si el emisor tuviere indicios suficientes de que fue el mismo usuario quien realizó la operación reclamada en canales físicos previo a la solicitud de restitución y/o cancelación de cargos.
+
+h) Si la operación desconocida hubiere sido realizada con autenticación reforzada, en los términos del artículo 4 de esta ley, siendo al menos uno de los factores de autenticación de inherencia. Sin perjuicio de lo anterior, si la operación desconocida hubiere sido realizada con autenticación reforzada, en los términos del referido artículo, considerando sólo factores de posesión o conocimiento, podrá servir como base de presunción judicial.
+
+#### Artículo 5 quáter
+
+El emisor deberá reportar a la Comisión para el Mercado Financiero, en el tiempo y forma que ésta determine a través de norma de carácter general, aquellos casos en que solicite al tribunal la suspensión de la cancelación de los cargos o a la restitución de los fondos, adjuntando copia de la solicitud respectiva, y posteriormente la respectiva sentencia definitiva.
+
+Conforme a lo anterior, los emisores deberán remitir a la Comisión copia autorizada de las resoluciones judiciales ejecutoriadas que pongan término a los procedimientos judiciales referidos en el inciso anterior. Dichas resoluciones judiciales quedarán a disposición del público, especialmente para permitir verificar las hipótesis de reincidencia, de conformidad con lo establecido en el artículo 5 ter.
+
+> **Nota.** El inciso segundo del artículo tercero transitorio de la Ley 21673, publicada el 30.05.2024, dispone que la obligación de los emisores de informar a la Comisión para el Mercado Financiero los casos en que solicite judicialmente la suspensión de la cancelación de los cargos o la restitución de los fondos así como la remisión de las resoluciones judiciales ejecutoriadas que pongan término a dichos procedimientos judiciales, contemplada en el inciso primero del presente artículo, comenzará a regir el primer día del séptimo mes posterior a la emisión de la norma de carácter general referida en el mismo artículo, por parte de la Comisión para el Mercado Financiero, la que deberá ser dictada dentro de los seis meses siguientes a la publicación de la presente ley. En tanto, lo dispuesto en el inciso segundo del mismo artículo, entrará en vigencia transcurrido un año contado desde la publicación de esta ley en el Diario Oficial.
 
 #### Artículo 6
 
@@ -86,7 +152,7 @@ En el caso de los emisores u operadores, según corresponda, dichas medidas de s
 
 - **d)** Establecer límites y controles en los diversos canales de atención que permitan mitigar las pérdidas por fraude. Los referidos límites y controles deberán basarse en consideraciones de riesgo objetivas, generales y no discriminatorias, en relación con la naturaleza del medio de pago y la clase de operaciones que permita efectuar.
 
-La Comisión para el Mercado Financiero definirá a través de la normativa que dicte, las exigencias que deberán cumplir los emisores y operadores de tarjetas de pago sujetos a su supervisión de conformidad a lo dispuesto en el artículo 2 de la Ley General de Bancos, así como las medidas de seguridad que deberán adoptar los proveedores de servicios de iniciación de pagos regulados en el artículo 30 de la Ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec.
+La Comisión para el Mercado Financiero, a través de norma de carácter general, podrá establecer los requisitos y condiciones que deberán observar los emisores para cumplir con los deberes de seguridad y cuidado, especialmente, lo señalado en las letras a), b), c) y d) del inciso precedente, pudiendo sancionar los incumplimientos conforme al procedimiento establecido en el decreto ley N° 3.538, de 1980, que crea la Comisión para el Mercado Financiero. Para ello, la Comisión podrá requerir de los emisores toda la información y antecedentes que estime necesarios para determinar el cumplimiento de las obligaciones.
 
 La falta o deficiencia de tales medidas será considerada para la determinación de las responsabilidades correspondientes a cada uno de ellos, que pudiere perseguir en su contra el usuario u otro afectado.
 
@@ -98,25 +164,11 @@ De la responsabilidad por fraude en tarjetas de pago y transacciones electrónic
 
 #### Artículo 7
 
-Las conductas que a continuación se señalan constituyen delito de uso fraudulento de tarjetas de pago y transacciones electrónicas y se sancionarán con la pena de presidio menor en su grado medio a máximo y multa correspondiente al triple del monto defraudado:
+Las conductas que a continuación se señalan constituyen delito de uso fraudulento de tarjetas de pago y transacciones electrónicas, y se sancionarán con la pena de presidio menor en su grado medio a máximo y multa correspondiente al triple del monto defraudado:
 
-a) Falsificar tarjetas de pago.
+a) Usar maliciosamente una tarjeta de pago o clave y demás credenciales de seguridad o autenticación, bloqueadas para realizar pagos, transacciones electrónicas, giros en cajeros automáticos, o cualquier otra operación que corresponda exclusivamente al titular o usuario de ellas.
 
-b) Usar, vender, exportar, importar o distribuir tarjetas de pago falsificadas o sustraídas.
-
-c) Negociar, en cualquier forma, tarjetas de pago falsificadas o sustraídas.
-
-d) Usar, vender, exportar, importar o distribuir los datos o el número de tarjetas de pago, haciendo posible que terceros realicen pagos, transacciones electrónicas o cualquier otra operación que corresponda exclusivamente al titular o usuario de las mismas.
-
-e) Negociar, en cualquier forma, con los datos, el número de tarjetas de pago y claves o demás credenciales de seguridad o autenticación para efectuar pagos o transacciones electrónicas, con el fin de realizar las operaciones señaladas en el literal anterior.
-
-f) Usar maliciosamente una tarjeta de pago o clave y demás credenciales de seguridad o autenticación, bloqueadas, en cualquiera de las formas señaladas en las letras precedentes.
-
-g) Suplantar la identidad del titular o usuario frente al emisor, operador o comercio afiliado, según corresponda, para obtener la autorización que sea requerida para realizar transacciones.
-
-h) Obtener maliciosamente, para sí o para un tercero, el pago total o parcial indebido, sea simulando la existencia de operaciones no autorizadas, provocándolo intencionalmente, o presentándolo ante el emisor como ocurrido por causas o en circunstancias distintas a las verdaderas.
-
-Asimismo, incurrirá en el delito y sanciones que establece este artículo el que mediante cualquier engaño o simulación obtenga o vulnere la información y medidas de seguridad de una cuenta corriente bancaria, de una cuenta de depósito a la vista, de una cuenta de provisión de fondos, de una tarjeta de pago o de cualquier otro sistema similar, para fines de suplantar al titular o usuario y efectuar pagos o transacciones electrónicas.
+b) Obtener maliciosamente, para sí o para un tercero, la cancelación indebida de los cargos o la restitución indebida de fondos a que se refiere el artículo 5 de esta ley, sea proporcionando datos o antecedentes falsos en la declaración jurada a que se refiere el artículo 4 de esta ley, desconociendo falsamente una o más operaciones con medios de pago de su titularidad, simulando la existencia de operaciones no autorizadas, provocándolas intencionalmente, o presentándolas ante el emisor como ocurridas por causas o en circunstancias distintas a las verdaderas.
 
 ## Título IV
 

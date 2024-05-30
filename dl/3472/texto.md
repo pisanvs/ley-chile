@@ -216,13 +216,11 @@ c) Garantizar más del 85% del saldo deudor de cada financiamiento, ni garantiza
 
 La garantía del Fondo no podrá tener un plazo superior a doce años, sin perjuicio del plazo del financiamiento por el cual se otorgue.
 
-En las bases de licitación el Administrador establecerá el porcentaje del total de garantías a licitar a empresas cuyas ventas anuales superen las 25.000 unidades de fomento, el que no podrá ser mayor al 30% del monto licitado, y a empresas cuyas ventas anuales superen las 2.400 unidades de fomento, el que no podrá ser mayor al 70% del monto licitado.
-
 FOGAPE Chile Apoya se regirá por las reglas del presente artículo y, subsidiariamente, por lo establecido en los demás artículos de la presente ley.
 
 El Ministerio de Hacienda emitirá el reglamento de FOGAPE Chile Apoya, en el plazo máximo de un mes desde la publicación de esta ley, de conformidad con lo indicado en el artículo quinto transitorio.
 
-Sólo se podrán otorgar créditos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre de 2023.
+Sólo se podrán otorgar créditos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre de 2024.
 
 Una vez que entre en vigencia la presente ley, el Ministerio de Hacienda entregará a la Comisión de Hacienda de la Cámara de Diputados y a la Comisión de Hacienda del Senado, mensualmente, junto a la Comisión para el Mercado Financiero, la información que reciba de parte del Fondo de Garantía para Pequeños y Medianos Empresarios, respecto de su ejecución. Del mismo modo, mensualmente, elaborará un reporte con la información consolidada del período, la que será enviada a las señaladas comisiones.
 
