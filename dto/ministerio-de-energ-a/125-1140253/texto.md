@@ -44,11 +44,11 @@ Para los efectos de la aplicación de las disposiciones establecidas en el prese
 
 a. Autodespacho: Régimen de operación de una instalación de generación interconectada al sistema eléctrico que no se encuentra sujeto al resultado de la optimización de la operación del sistema efectuada por el Coordinador en los términos establecidos en el Decreto Supremo Nº 244, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, que Aprueba Reglamento para Medios de Generación No Convencionales y Pequeños Medios de Generación Establecidos en la Ley General de Servicios Eléctricos, o aquel que lo reemplace, y que puede ser aplicado en tanto se dé cumplimiento al principio de preservar la seguridad del servicio en el sistema eléctrico.
 
-b. Autoproductor: Todo propietario, arrendatario, usufructuario o quien explote a cualquier título centrales generadoras, cuya generación de energía eléctrica ocurra como resultado o con el objetivo de abastecer los consumos asociados a procesos productivos propios, en el mismo punto de conexión a la red, y que puedan presentar excedentes de energía a ser inyectados al sistema eléctrico.
+b. Autoproductor: Todo propietario, arrendatario, usufructuario o quien explote a cualquier título centrales generadoras o sistemas de almacenamiento de energía, cuya generación o almacenamiento de energía eléctrica ocurra como resultado o con el objetivo de abastecer los consumos asociados a procesos productivos propios, en el mismo punto de conexión a la red, y que puedan presentar excedentes de energía a ser inyectados al sistema eléctrico.
 
 c. Central con Almacenamiento por Bombeo: Central de generación eléctrica formada por unidades hidráulicas que operan con dos reservorios de acumulación de agua, localizados de manera tal que exista una diferencia de altura entre ellos para permitir el bombeo de agua para su almacenamiento y posterior generación de electricidad, y que disponga de afluentes que representen anualmente un porcentaje de la capacidad de acumulación mayor a las pérdidas que se produzcan durante el proceso de almacenamiento en igual período.
 
-d. Central Renovable con Capacidad de Almacenamiento: Central de generación renovable que utiliza recursos primarios variables, compuesta por una componente de generación y una componente de almacenamiento, ambas con el mismo punto de conexión al sistema eléctrico. La componente de generación corresponde al equipamiento tecnológico para transformar energía primaria en energía eléctrica, en tanto la componente de almacenamiento es aquel equipamiento capaz de transformar la energía eléctrica producida por la componente de generación, en otro tipo de energía y almacenarla con el objetivo de, mediante una transformación inversa, inyectarla al sistema eléctrico.
+d. Central Renovable con Capacidad de Almacenamiento: Central de generación renovable que utiliza recursos primarios variables, compuesta por una componente de generación y una componente de almacenamiento, ambas con el mismo punto de conexión al sistema eléctrico. La componente de generación corresponde al equipamiento tecnológico para transformar energía primaria en energía eléctrica, en tanto la componente de almacenamiento es aquel equipamiento capaz de transformar la energía eléctrica retirada desde el sistema eléctrico o producida por la componente de generación, en otro tipo de energía y almacenarla con el objetivo de, mediante una transformación inversa, inyectarla al sistema eléctrico.
 
 e. Central Renovable con Capacidad de Regulación: Central de generación renovable que utiliza recursos primarios variables, con la capacidad de gestionar temporalmente su recurso energético primario, en forma de energía mecánica, térmica, electromagnética, entre otras, de forma previa a su transformación en energía eléctrica para la inyección al sistema eléctrico.
 
@@ -292,7 +292,7 @@ Concluida la etapa de puesta en servicio, el Coordinado de la respectiva instala
 
 #### Artículo 30
 
-Sólo las instalaciones de generación que se encuentren en operación, tendrán derecho a participar en las transferencias de potencia. Las inyecciones de energía en la etapa de puesta en servicio, se remunerarán por las normas generales de transferencias. Sin perjuicio de lo anterior, las unidades de generación que se encuentren en etapa de puesta en servicio no determinarán el costo marginal del sistema, ni deberán considerarse para la repartición de ingresos por potencia.
+Sólo las instalaciones de generación y Sistemas de Almacenamiento de Energía que se encuentren en operación tendrán derecho a participar en las transferencias de potencia. Las inyecciones de energía en la etapa de puesta en servicio se remunerarán por las normas generales de transferencias. Sin perjuicio de lo anterior, las instalaciones de generación o Sistemas de Almacenamiento de Energía que se encuentren en etapa de puesta en servicio no determinarán el costo marginal del sistema, ni deberán considerarse para la repartición de ingresos por potencia.
 
 ## Capítulo 2
 
@@ -790,7 +790,7 @@ Los Sistemas de Almacenamiento de Energía interconectados al sistema eléctrico
 
 #### Artículo 91
 
-Los Coordinados de Sistemas de Almacenamiento de Energía y de Centrales con Almacenamiento por Bombeo estarán habilitados para efectuar retiros desde el sistema eléctrico para el proceso de almacenamiento, de acuerdo a lo establecido en el presente reglamento y demás normativa vigente. Asimismo, las inyecciones de estas instalaciones serán determinadas por el Coordinador en cumplimiento de lo señalado en el artículo 72º-1 de la Ley.
+Los Coordinados de Sistemas de Almacenamiento de Energía, de Centrales Renovables con Capacidad de Almacenamiento y de Centrales con Almacenamiento por Bombeo estarán habilitados para efectuar retiros desde el sistema eléctrico para el proceso de almacenamiento, de acuerdo a lo establecido en el presente reglamento y demás normativa vigente. Asimismo, las inyecciones de estas instalaciones serán determinadas por el Coordinador en cumplimiento de lo señalado en el artículo 72º-1 de la Ley.
 
 #### Artículo 92
 
@@ -802,7 +802,7 @@ Los retiros de energía desde el sistema eléctrico efectuados para el proceso d
 
 #### Artículo 94
 
-Las inyecciones y retiros de energía realizados para el proceso de almacenamiento y destinados al arbitraje de precios de energía, deberán ser asignados al Coordinado del respectivo Sistema de Almacenamiento de Energía o Centrales con Almacenamiento por Bombeo, al costo marginal de las respectivas barras de inyección y retiro, para los efectos del mercado de corto plazo.
+Las inyecciones y retiros de energía realizados para el proceso de almacenamiento y destinados al arbitraje de precios de energía, deberán ser asignados al Coordinado del respectivo Sistema de Almacenamiento de Energía, Central Renovable con Capacidad de Almacenamiento o Central con Almacenamiento por Bombeo, al costo marginal de las respectivas barras de inyección y retiro, para los efectos del mercado de corto plazo.
 
 #### Artículo 95
 
@@ -828,15 +828,11 @@ e. El pago asociado a clientes finales por concepto de Servicios Complementarios
 
 #### Artículo 98
 
-Los Coordinados titulares de Sistemas de Almacenamiento de Energía destinados al arbitraje de precios de energía o de Centrales con Almacenamiento por Bombeo, deberán comunicar al Coordinador un programa de retiros, en la forma, periodicidad y oportunidad de acuerdo a la respectiva norma técnica. El programa de retiros deberá especificar el nivel estimado de retiro de energía eléctrica, con una resolución al menos horaria, para todas las horas en un determinado horizonte de tiempo, que deberá ser determinado por el Coordinador de acuerdo con las características técnicas y el impacto sistémico de la operación esperada de la respectiva instalación.
+Los Coordinados titulares de Sistemas de Almacenamiento de Energía destinados al arbitraje de precios de energía, de Centrales Renovables con Capacidad de Almacenamiento o de Centrales con Almacenamiento por Bombeo, deberán comunicar al Coordinador un programa de retiros, en la forma, periodicidad y oportunidad de acuerdo a la respectiva norma técnica. El programa de retiros deberá especificar el nivel de retiro de energía eléctrica, con una resolución al menos horaria, para todas las horas en un determinado horizonte de tiempo, que deberá ser determinado por el Coordinador de acuerdo con las características técnicas y el impacto sistémico de la operación esperada de la respectiva instalación.
 
 #### Artículo 99
 
-El Coordinador deberá determinar un programa eficiente con los niveles óptimos de inyecciones y retiros para el Sistema de Almacenamiento de Energía o Central con Almacenamiento por Bombeo que, preservando la seguridad de servicio del sistema eléctrico, minimice el costo total actualizado de abastecimiento. El Coordinador deberá comparar los niveles de retiro del programa eficiente de inyecciones y retiros determinado previamente, con los indicados en el programa de retiros presentado por el Coordinado respectivo. Del resultado de esta comparación, deberán ser calificadas por el Coordinador como horas que no contribuyen a la operación económica y segura del sistema, aquellas horas del programa de retiros presentado por el titular, que tengan niveles de retiro superiores a las del programa eficiente de inyecciones y retiros.
-
-A partir de lo anterior, el Coordinador entregará al Coordinado el programa eficiente de inyecciones y retiros, la calificación de las horas de acuerdo a lo dispuesto en el inciso anterior y una propuesta de modificación del programa de retiros entregado inicialmente por el Coordinado.
-
-Una vez conocida la propuesta elaborada por el Coordinador, el Coordinado deberá informar a éste un programa definitivo de retiros que especifique el nivel de retiro de energía, con una resolución al menos horaria, para todas las horas en el horizonte de tiempo determinado por el Coordinador. Este programa definitivo de retiros será incorporado en la programación de la operación.
+El Coordinador deberá incorporar en la programación de la operación el programa de retiros comunicado por los Coordinados titulares de Sistemas de Almacenamiento de Energía destinados al arbitraje de precios de energía, de Centrales Renovables con Capacidad de Almacenamiento o de Centrales con Almacenamiento por Bombeo, conforme se establece en el artículo precedente.
 
 #### Artículo 100
 
@@ -848,7 +844,7 @@ La oportunidad y forma en que se deberá realizar los procesos señalados en los
 
 #### Artículo 102
 
-El Coordinador deberá comparar la operación en tiempo real del Sistema de Almacenamiento de Energía o Central con Almacenamiento por Bombeo, con el programa eficiente de inyecciones y retiros, y, del resultado de esta comparación, deberá calificar como horas que no contribuyen a la operación económica y segura del sistema, aquellas horas en que la operación real de la instalación respectiva haya implicado un mayor nivel de retiro horario de potencia desde el sistema eléctrico que el definido en el señalado programa para dicha hora.
+El Coordinador deberá comparar la operación en tiempo real de la Central con Almacenamiento por Bombeo, con la programación de la operación, y, del resultado de esta comparación, deberá calificar como horas que no contribuyen a la operación económica y segura del sistema, aquellas horas en que la operación real de la instalación respectiva haya implicado un mayor nivel de retiro horario de potencia desde el sistema eléctrico que el definido en la señalada programación para dicha hora.
 
 #### Artículo 103
 
@@ -910,9 +906,9 @@ Los Coordinados titulares de dichos Sistemas de Almacenamiento de Energía, no p
 
 #### Artículo 110
 
-En las Centrales Renovables con Capacidad de Almacenamiento se distinguen tres modos de operación. El Modo Carga, es aquel en el cual se transforma parte de la energía eléctrica producida en su componente de generación en otro tipo de energía para su almacenamiento; el Modo Descarga, mediante el cual se transforma la energía previamente almacenada en la componente de almacenamiento, en energía eléctrica para su inyección al sistema eléctrico; y el Modo Generación Directa, en el que se inyecta energía al sistema eléctrico desde su componente de generación, sin haber pasado previamente por un proceso de almacenamiento.
+En las Centrales Renovables con Capacidad de Almacenamiento se distinguen tres modos de operación. El Modo Carga es aquel en el cual se transforma parte de la energía eléctrica producida en su componente de generación o retirada desde el sistema eléctrico en otro tipo de energía para su almacenamiento; el Modo Descarga, mediante el cual se transforma la energía previamente almacenada en la componente de almacenamiento, en energía eléctrica para su inyección al sistema eléctrico; y el Modo Generación Directa, en el que se inyecta energía al sistema eléctrico desde su componente de generación, sin haber pasado previamente por un proceso de almacenamiento.
 
-Se entenderá que la energía almacenada proviene exclusivamente de lo producido por la componente de generación. Sin perjuicio de lo anterior, excepcionalmente el Coordinador podrá instruir retiros desde el sistema eléctrico en virtud de la obligación de preservar la seguridad y calidad de servicio, en caso de existir factibilidad técnica para ello.
+Se entenderá que la energía almacenada en la componente de almacenamiento puede provenir de la energía producida por la componente de generación o de la energía retirada del sistema, debiéndose priorizar lo proveniente de la componente de generación. En el caso de que la energía provenga del sistema, la Central Renovable con Capacidad de Almacenamiento deberá ser considerada como un Sistema de Almacenamiento de Energía para todos los efectos del presente reglamento. Adicionalmente, y de manera excepcional el Coordinador podrá instruir retiros desde el sistema eléctrico en virtud de la obligación de preservar la seguridad y calidad de servicio, en caso de existir factibilidad técnica para ello.
 
 #### Artículo 111
 
