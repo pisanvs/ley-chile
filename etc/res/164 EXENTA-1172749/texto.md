@@ -52,6 +52,4 @@ Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario
 
 NÓMINA DE PROYECTOS PARA CONSTRUCCIÓN EN SITIO PROPIO SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXENTA Nº 446 (V. Y U.), DE 2021 - CIERRE DEL 15 DE DICIEMBRE DE 2021
 
-Construcción en Sitio Propio
-
 Pequeños Condominios
