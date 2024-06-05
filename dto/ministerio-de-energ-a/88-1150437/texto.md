@@ -1042,6 +1042,8 @@ Todo PMGD operará con Autodespacho. Lo anterior implica que el propietario u op
 
 Para los efectos de la programación de la operación global del sistema eléctrico así como de la determinación de las correspondientes transferencias entre generadores, el propietario u operador de un PMGD deberá coordinar dicha operación tanto con la Empresa Distribuidora como con el Coordinador, de acuerdo a lo señalado en el presente capítulo y demás normativa vigente.
 
+El Coordinador podrá instruir la operación de las Unidades Generadoras térmicas, que operan bajo el régimen de Autodespacho, a fin de preservar la seguridad y calidad de servicio, siempre y cuando exista factibilidad técnica para ello, de acuerdo a lo establecido en la normativa vigente.
+
 #### Artículo 94º (art. primero)
 
 <!-- parte:10165985 -->
