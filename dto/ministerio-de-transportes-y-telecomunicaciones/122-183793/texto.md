@@ -20,25 +20,23 @@ Los permisos de circulación provisionales que se concedan deberán incluir con 
 
 Conjuntamente con el permiso de circulación, se otorgará al solicitante que cumpla con los requisitos señalados en el artículo primero, las placas destinadas a ser llevadas en los vehículos que se exhiban en la vía pública. Deberá otorgarse un permiso de circulación provisional individual para cada placa que se entregue, el cual deberá portarse en el vehículo, debiendo existir la debida correspondencia entre la placa asignada y el permiso.
 
-#### Artículo 5º
+#### Artículo 5°
 
-Las placas provisorias serán proporcionadas por las Municipalidades y tendrán las siguientes características:
+Las placas serán proporcionadas por las Municipalidades a costa de los interesados y tendrán las siguientes características:
 
-. Material metálico.
+- Material metálico;
 
-. Forma rectangular, con puntas redondeadas, de 360 milímetros de largo por 130 milímetros de alto, para vehículos motorizados de cuatro o más ruedas, y de 145 milímetros de largo por 120 milímetros de alto, para vehículos motorizados de dos o tres ruedas.
+- Fondo de color naranja;
 
-. Fondo de color naranja.
+- Letras PR. 4 dígitos y orla perimetral de color negro;
 
-. Estarán compuestas por la combinación de las letras PR y 4 dígitos en vehículos motorizados de cuatro o más ruedas y de las letras PR y 3 dígitos, tratándose de vehículos motorizados de dos o tres ruedas, dispuestos de izquierda a derecha con orla perimetral, todo en color negro.
+- En el costado derecho inferior el año en que se otorga, y
 
-. Entre las letras y dígitos irá un símbolo que representará una estrella, salvo en los vehículos de 2 o 3 ruedas que llevarán un punto en la misma ubicación, ambos también en color negro.
+- En la parte interior central la palabra Provisoria, también en color negro.
 
-. Las letras, números y símbolo serán del tipo y dimensiones establecidas en las letras A o B del artículo 7º del decreto supremo Nº 53, de 1984, del Ministerio de Transportes y Telecomunicaciones, según corresponda al tipo vehículo.
+La placa deberá portarse en el vehículo en el mismo lugar correspondiente a las placas patente única.
 
-. En la parte inferior central deberá incluir el nombre o abreviación de la comuna, el año en que se otorga, seguido de un guión y el número 1 o 2 según corresponda al primer o segundo semestre entregado, también en color negro. Las letras serán del tipo indicado en el artículo 7º del decreto supremo Nº 53, de 1984, del Ministerio de Transportes y Telecomunicaciones; de un alto de 15 o 10 milímetros, según corresponda al tipo de vehículo y un ancho del trazo de acuerdo con el tipo de letra.
-
-Las placas provisorias deberán instalarse en el vehículo en los mismos lugares correspondientes a la placa patente única, esto es, en la parte delantera y posterior de sus carrocerías o en la parte posterior, según se trate de vehículos motorizados de cuatro o más ruedas o de vehículos de dos o tres ruedas, remolques y semirremolques, respectivamente; sin objetos, accesorios o aditamentos que obstaculicen su plena percepción. Deberán fijarse a la carrocería del vehículo de modo tal que no se distorsione o dificulte la correcta identificación de la combinación de letras y dígitos asignados.
+Asimismo, deberá portarse en el vehículo el permiso de circulación provisional respectivo, debiendo existir la debida correspondencia entre las placas y el permiso.
 
 #### Artículo 6°
 
