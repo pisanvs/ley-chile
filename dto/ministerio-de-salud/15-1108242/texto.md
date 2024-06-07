@@ -46,11 +46,11 @@ Beneficiarios.- Podrán acceder a la bonificación por retiro voluntario, siempr
 
 Podrán acceder a la bonificación por retiro voluntario:
 
-1. Los profesionales funcionarios señalados en el artículo anterior, que entre el 1 de julio de 2014 y el 30 de junio de 2024, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, que tengan a lo menos once años de servicios contados hacia atrás desde la fecha de su postulación en cargos con jornadas de horas semanales de la ley N° 15.076 y/o de la ley N° 19.664, o en los establecimientos de salud de carácter experimental y que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, haciendo efectiva su renuncia a todos los cargos y al total de horas que sirven o que estén sirviendo en el conjunto de los organismos señalados en el artículo anterior, a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
+1. Los profesionales funcionarios señalados en el artículo anterior, que entre el 1 de julio de 2014 y el 31 de diciembre de 2025, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, que tengan a lo menos once años de servicios contados hacia atrás desde la fecha de su postulación en cargos con jornadas de horas semanales de la ley N° 15.076 y/o de la ley N° 19.664, o en los establecimientos de salud de carácter experimental y que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, haciendo efectiva su renuncia a todos los cargos y al total de horas que sirven o que estén sirviendo en el conjunto de los organismos señalados en el artículo anterior, a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
 
 2. Los profesionales funcionarios señalados en el artículo anterior, que al 30 de junio de 2014, hayan cumplido 60 o más años de edad, en el caso de las mujeres, y 65 o más años de edad, tratándose de los hombres, que tengan a lo menos once años de servicios contados hacia atrás desde la fecha de su postulación en cargos con jornadas de horas semanales de la ley N° 15.076 y/o de la ley N° 19.664, o en los establecimientos de salud de carácter experimental, y que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, haciendo efectiva su renuncia a todos los cargos y al total de horas que sirven o que estén sirviendo en el conjunto de los organismos señalados en el artículo anterior, a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
 
-3. Los profesionales funcionarios señalados en el artículo anterior que, entre el 1 de julio de 2014 y el 30 de junio de 2024, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, siempre que, dentro de los tres años siguientes a la obtención de la referida pensión, cumplan 60 años de edad las mujeres y 65 años de edad los hombres, en ningún caso dichas edades podrán cumplirse más allá del 30 de junio de 2024, teniendo a la fecha del cese de funciones por la obtención de la referida pensión a lo menos once años de servicios en las instituciones señaladas en el artículo anterior.
+3. Los profesionales funcionarios señalados en el artículo anterior que, entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, siempre que, dentro de los tres años siguientes a la obtención de la referida pensión, cumplan 60 años de edad las mujeres y 65 años de edad los hombres, en ningún caso dichas edades podrán cumplirse más allá del 31 de diciembre de 2025, teniendo a la fecha del cese de funciones por la obtención de la referida pensión a lo menos once años de servicios en las instituciones señaladas en el artículo anterior.
 
 Para efectos de contabilizar los once años de servicios o más a que se refiere el presente artículo, se considerará todo año o fracción igual o superior a seis meses servidos en forma continua o discontinua en las instituciones señaladas en el artículo 2 de este reglamento, cumplidos a la fecha de su postulación o al cese de funciones, según corresponda.
 
@@ -74,9 +74,7 @@ Cupos.- La bonificación por retiro voluntario y a la bonificación adicional, s
 
 4. Los años 2021, 2022, 2023 y 2024 contemplarán 500 cupos por cada anualidad.
 
-Los cupos que no hubieren sido utilizados en los años 2016 al 2018, ambos incluidos, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
-
-Si al 30 de junio de 2024 quedaren cupos disponibles, se abrirá por única vez un plazo especial de postulación de tres meses, el que se regirá de acuerdo al procedimiento que establezca el presente reglamento.
+Los cupos que no hubieren sido utilizados en los años 2016 al 2018, ambos incluidos, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente. En el año 2025 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores.
 
 #### Artículo 6°
 
@@ -92,7 +90,7 @@ Previo al inicio del proceso de postulación de asignación de cupos establecido
 
 #### Artículo 8°
 
-De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente reglamento y hasta el 30 de junio de 2024 se abrirán nueve procesos de postulación de asignación de cupos dispuestos en el artículo 5° a las personas que cumplan con las condiciones y requisitos señalados en los artículos 2° y 3° de este reglamento.
+De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente reglamento y hasta el 31 de diciembre de 2025 se abrirán diez procesos de postulación de asignación de cupos dispuestos en el artículo 5° a las personas que cumplan con las condiciones y requisitos señalados en los artículos 2° y 3° de este reglamento.
 
 A los procesos de postulación referidos en el inciso primero, podrán postular, comunicando su decisión de renunciar voluntariamente, los profesionales funcionarios que se indican dentro de los siguientes plazos:
 
@@ -120,19 +118,21 @@ i) Los profesionales funcionarios señalados en el artículo 2° que cumplan ent
 
 ii) Los profesionales funcionarios señalados en el artículo 2° que hayan obtenido la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de agosto del año de postulación y que dentro de los 3 años siguientes a la obtención de la pensión de invalidez, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
-(e) Noveno proceso de postulación se asignarán 500 cupos y los adicionales que puedan existir disponibles conforme al inciso segundo del artículo 5°, se deberá postular entre el primer día hábil del mes de agosto y el último día hábil del mes de septiembre de 2024:
+(e) Noveno proceso de postulación se asignarán 500 cupos y los adicionales que puedan existir disponibles conforme al inciso segundo del artículo 5º, se deberá postular entre el primer día hábil del mes de agosto y el último día hábil del mes de septiembre de 2024:
 
-i) Los profesionales funcionarios señalados en el artículo 2° que entre el 1 de enero y el 30 de junio de 2024 cumplan entre 60 y 69 años de edad si son mujeres, y entre 65 y 69 años de edad si son hombres.
+i) Los profesionales funcionarios señalados en el artículo 2º que entre el 1 de enero y el 31 de diciembre de 2024 cumplan entre 60 y 69 años de edad si son mujeres, y entre 65 y 69 años de edad si son hombres.
 
-ii) Los profesionales funcionarios señalados en el artículo 2° que entre el 1 de julio de 2014 y el 30 de junio de 2024 hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, siempre que dentro de los 3 años siguientes a la obtención de la pensión de invalidez, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
+ii) Los profesionales funcionarios señalados en el artículo 2º que entre el 1 de julio de 2014 y el 31 de agosto de 2024 hayan obtenido la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, siempre que, dentro de los 3 años siguientes a la obtención de la pensión de invalidez, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
+
+(f) Décimo proceso de postulación se asignarán los cupos adicionales que puedan existir disponibles conforme al inciso segundo del artículo 5º, se deberá postular entre el primer día hábil del mes de noviembre y el último día hábil del mes de diciembre de 2025:
+
+i) Los profesionales funcionarios señalados en el artículo 2º que entre el 1 de enero y el 31 de diciembre de 2025 cumplan entre 60 y 69 años de edad si son mujeres, y entre 65 y 69 años de edad si son hombres.
+
+ii) Los profesionales funcionarios señalados en el artículo 2º que entre el 1 de julio de 2014 y el 31 de diciembre de 2025 hayan obtenido la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, siempre que, dentro de los 3 años siguientes a la obtención de la pensión de invalidez, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres. En ningún caso dichas edades podrán cumplirse más allá del 31 de diciembre de 2025.
 
 #### Artículo 9°
 
-Plazo de postulación extraordinario.- Si al 30 de junio de 2024 quedaren cupos disponibles, se abrirá por única vez un plazo especial de postulación de tres meses, contados desde el primer día hábil del mes de noviembre de 2024, en el cual deberán postular:
-
-i) Los profesionales funcionarios señalados en el artículo 2° que al 30 de junio de 2024 tengan entre 60 y 69 años de edad si son mujeres, y entre 65 y 69 años de edad si son hombres.
-
-ii) Los profesionales funcionarios señalados en el artículo 2° que entre el 1 de julio de 2014 y el 30 de junio de 2024 hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, y que entre el 1 de septiembre del año 2023 y el 30 de junio de 2024 hubiesen cumplido 60 años de edad, en el caso de las mujeres y 65 años de edad, en el caso de los hombres.
+Suprimido.
 
 #### Artículo 10
 
@@ -329,6 +329,12 @@ DISPOSICIONES FINALES
 #### Artículo 29
 
 Incompatibilidad de beneficios. Los beneficios de esta ley serán incompatibles con cualquier otro beneficio de naturaleza homologable que se origine por una causal similar de otorgamiento y cualquier otro beneficio por retiro que hubiere percibido el profesional funcionario con anterioridad.
+
+#### Artículo 30
+
+Transmisión por causa de muerte.- La bonificación por retiro voluntario y la bonificación adicional, establecidos en la ley, serán transmisibles por causa de muerte, si el funcionario o funcionaria fallece entre la fecha de su postulación y antes de percibirlos; siempre que cumpla con los demás requisitos establecidos en la ley para acceder a los mismos.
+
+Los herederos podrán percibir el o los beneficios señalados en el inciso anterior, una vez que el causante sea seleccionado como beneficiario de un cupo en la resolución a que se refiere el artículo 14 de este reglamento, para lo que deberán presentar en la Institución empleadora correspondiente, el certificado de posesión efectiva.
 
 Disposiciones Transitorias
 
