@@ -30,7 +30,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2021, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Reconocimiento2021CD_20250808", almacenado en pendrive, caratulado "Modificación Rex 2880/2022 (PR2021)", el que se entiende formar parte integrante del presente acto administrativo.
+Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2021, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Reconocimiento_2021_CD", almacenado en pendrive, caratulado "2880", el que se entiende formar parte integrante del presente acto administrativo.
 
 #### Artículo segundo
 
