@@ -1,4 +1,4 @@
-ESTABLECE REQUISITOS TÉCNICOS, CONSTRUCTIVOS Y DE SEGURIDAD PARA VEHÍCULOS ELÉCTRICOS QUE INDICA
+ESTABLECE REQUISITOS TÉCNICOS, CONSTRUCTIVOS Y DE SEGURIDAD PARA VEHÍCULOS ELÉCTRICOS E HÍBRIDOS QUE INDICA
 
 Núm. 145.- Santiago, 29 de diciembre de 2017.
 
@@ -64,17 +64,17 @@ Los elementos y sistemas que a continuación se indican, deberán cumplir las no
 
 1. Sistema de Acumulación de Energía Recargable: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; o GB 18384 - 2020 Electric vehicles safety requirements.
 
-2. Sistema de Acoplamiento de Carga: SAE J1772 (Society of Automotive Engineers) Electric Vehicle and Plug-in Hybrid Electric Vehicle conductive charge coupler; IEC 62196 (ISO/International Electrotechnical Commission) Plugs, socket-outlets, vehicle connectors and vehicle inlets - conductive charging of electric vehicles; Japan Electric Vehicle Standard G105-1993, CHAdeMO cargador rápido de corriente continua; o GB/T 20234 - 2015 Connection set for conductive charging of electric vehicles y con la aprobación de Proyecto Especial que dispone el numeral 5.8 del Pliego Técnico Normativo RIC Nº 15 Infraestructura para la recarga de vehículos eléctricos de la Superintendencia de Electricidad y Combustibles.
+2. Sistema de Acoplamiento de Carga: SAE J1772 (Society of Automotive Engineers) Electric Vehicle and Plug-in Hybrid Electric Vehicle conductive charge coupler; IEC 62196 (ISO/International Electrotechnical Commission) Plugs, socket-outlets, vehicle connectors and vehicle inlets - conductive charging of electric vehicles; Japan Electric Vehicle Standard G105-1993, CHAdeMO cargador rápido de corriente continua; o GB/T 20234 - 2015 Connection set for conductive charging of electric vehicles y GB/T 34657-2 - 2017 Interoperability test specifications of electric vehicle conductive charging - Part 2: Vehicle". Para normas distintas a las precedentes, se debe contar con la aprobación del Proyecto Especial que dispone el Pliego Técnico Normativo RIC Nº 15 "Infraestructura para la recarga de vehículos eléctricos", aprobado por la resolución exenta Nº 33.374, de 30 de septiembre de 2020, de la Superintendencia de Electricidad y Combustibles, o la que lo reemplace.
 
 3. Protección contra descargas eléctricas: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; o GB 18384 - 2020 Electric vehicles safety requirements.
 
 4. Señalética de Seguridad: Reglamento 100 CEPE/ONU; 571.305 CFR 49-571; S.R.R.V. Attachment 101 y 111; o K.M.V.S.S. Arts. 2, 18-3, 91; GB 18384 - 2020 Electric vehicles safety requirements;
 
-5. Sistema Acústico de Alerta de Vehículo: 571.141 CFR 49-571; Reglamento (UE) 540/2014; o GB/T 37153 - 2018 Acoustic vehicle alerting system of electric vehicles running at low speed;
+5. Sistema Acústico de Alerta de Vehículo: 571.141 CFR 49-571; Reglamento (UE) 540/2014; Reglamento Nº 138/2017 (CEPE); o GB/T 37153 - 2018 Acoustic vehicle alerting system of electric vehicles running at low speed;
 
 6. Cable de Carga de Viaje: Deberá cumplir con el Pliego Técnico Normativo RIC Nº 15 "Infraestructura para la recarga de vehículos eléctricos", aprobado por la resolución exenta Nº 33.374 de 30 de septiembre de 2020, de la Superintendencia de Electricidad y Combustibles y ser autorizado por la citada Superintendencia. Deberá considerar al menos una tensión nominal (monofásica) de 220/230 V, frecuencia de 50 Hz y corriente máxima de 10 Amperes. Este elemento será obligatorio excepto para los vehículos definidos en la letra b del artículo 1; y".
 
-7. Adaptador del cable de carga: Este accesorio se considerará opcional. No obstante lo anterior, si el vehículo dispone de él, deberá estar autorizado por el fabricante del vehículo y deberá disponer de un conector compatible con los conectores Tipo 2 sin cable o Configuración AA o Configuración FF, definidos en el Pliego Técnico Normativo RIC Nº 15 "Infraestructura para la recarga de vehículos eléctricos", aprobado por la resolución exenta Nº 33.374 de 30 de septiembre de 2020, de la Superintendencia de Electricidad y Combustibles. Asimismo, este adaptador deberá ser autorizado por la citada Superintendencia para ser utilizado en la red de carga pública.
+7. Adaptador del cable de carga: Este accesorio será obligatorio para vehículos que cuenten con sistemas de acoplamiento de carga de corriente alterna que cumplan con la norma GB/T 20234 - 2015 Connection set for conductive charging of electric vehicles. El adaptador del cable de carga deberá estar autorizado por el fabricante del vehículo y deberá disponer de un conector compatible con los conectores Tipo 2 sin cable, definidos en el Pliego Técnico Normativo RIC N° 15 "Infraestructura para la recarga de vehículos eléctricos", aprobado por la resolución exenta N° 33.374, de 30 de septiembre de 2020, de la Superintendencia de Electricidad y Combustibles, o la que lo reemplace. Asimismo, este adaptador y todo otro usado en vehículos de propulsión eléctrica, deberá ser autorizado por la citada Superintendencia para ser utilizado en la red de carga pública.
 
 Las normas a las que se hace referencia en el presente decreto se mantendrán a disposición permanente del público en el sitio web del Ministerio de Transportes y Telecomunicaciones (www.mtt.gob.cl).
 
@@ -96,7 +96,7 @@ En lo que respecta al Diagrama Sistema de Alto Voltaje del Vehículo deberá pre
 
 4. La información contenida en la Etiqueta de Advertencia y en el Informativo de Seguridad deberá formar parte de las instrucciones de uso del vehículo, incorporada al manual de uso y/o a las especificaciones técnicas que se entreguen junto con cada vehículo que se comercialice, o bien adjunta a dichos documentos.
 
-5. Una etiqueta de forma circular, de 83 mm de diámetro, impresa en un material resistente a las condiciones medioambientales, la que se adherirá en la luneta trasera del vehículo en su superficie interna derecha (respecto del observador), de modo que sea fácilmente visible desde el exterior del vehículo.
+5. Una etiqueta de forma circular, de 83 mm de diámetro, impresa en un material resistente a las condiciones medioambientales, la que se adherirá en el parabrisas y la luneta trasera del vehículo en su superficie interna derecha (respecto del observador), de modo que sea fácilmente visible desde el exterior del vehículo. Además, la misma etiqueta debe ser adherida en la tapa del conector de carga de energía eléctrica del vehículo y al costado derecho de la placa patente trasera del vehículo.
 
 6. En un plazo no mayor a 10 días corridos, contados desde la acreditación señalada en el artículo 5, los solicitantes de la misma deberán poner a disposición del Cuerpo de Bomberos de Chile, de Carabineros de Chile y de la Superintendencia de Electricidad y Combustibles en formato físico y digital, el informativo de seguridad establecido en el numeral 3, del presente artículo, acompañado de toda otra información o documentación que sea de utilidad a los servicios de emergencia.
 
