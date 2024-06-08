@@ -122,7 +122,7 @@ Además, en todos los casos en que ello proceda, deberá acompañarse el comprob
 
 #### Artículo 10
 
-Tratándose de vehículos nuevos, armados o fabricados en el territorio nacional por las empresas autorizadas, o internados al país por representantes o distribuidores de los fabricantes, deberá acompañarse a la solicitud de inscripción, la respectiva factura electrónica.
+Tratándose de vehículos nuevos, armados o fabricados en el territorio nacional por las empresas autorizadas, o internados al país por representantes o distribuidores de los fabricantes, deberá acompañarse a la solicitud de inscripción, la respectiva factura electrónica, emitida por alguna de las empresas incluidas en la nómina de habilitados a que se refiere el párrafo 2º bis.
 
 Para el caso de vehículos nuevos o usados, que se importen directamente, deberán presentarse, conjuntamente con la respectiva solicitud, los documentos aduaneros en los que consten su internación legal y el pago de los derechos o impuestos respectivos, o la franquicia a que se acogen.
 
@@ -159,6 +159,98 @@ Una vez verificada la inscripción, en todos los certificados que se emitan para
 #### Artículo 15
 
 En los documentos referidos en los artículos anteriores deberán constar las características del vehículo; las identidades del nuevo y anterior propietario y el código de la patente única del vehículo, en caso de que éste tuviere una previamente asignada.
+
+### Párrafo 2º — bis
+
+De la nómina de habilitados para emitir factura de primera venta
+
+#### Artículo 15 bis
+
+De conformidad con lo dispuesto en el artículo 39 bis de la Ley de Tránsito, el Servicio de Registro Civil e Identificación llevará una nómina de empresas habilitadas para emitir factura de primera venta, la que formará parte del Registro de Vehículos Motorizados.
+
+Esta nómina contendrá el nombre, razón social y el Rol Único Nacional o Rol Único Tributario del emisor de la factura, según corresponda.
+
+Toda empresa, ya sea persona natural o jurídica, que tenga dentro de su giro comercial la venta de vehículos y emita facturas de primera venta, deberá formar parte de la mencionada nómina para efectos de proceder a la respectiva inscripción del vehículo. Si el vendedor o emisor de la factura no se encuentra incluido en la nómina mencionada en el inciso anterior, el Servicio de Registro Civil e Identificación no procederá a la inscripción del vehículo y no podrá hacer entrega de las placas patentes respectivas.
+
+#### Artículo 15 ter
+
+Las solicitudes de inclusión en la nómina de habilitados se realizarán a través del sistema electrónico del Servicio de Registro Civil e Identificación. En la respectiva solicitud, las empresas indicarán su nombre, razón social, su número de Rol Único Tributario o Rol Único Nacional, según corresponda, su domicilio tributario y su correo electrónico.
+
+Asimismo, deberán adjuntar la siguiente documentación:
+
+Para Personas Jurídicas:
+
+1. Aquella que dé cuenta de su constitución legal, según corresponda:
+
+a) Para Personas Jurídicas inscritas en el Registro de Comercio dependiente del respectivo Conservador de Bienes Raíces, conforme al Código de Comercio:
+
+i) Copia de la escritura de Constitución de la Sociedad.
+
+ii) Certificado de inscripción de la Sociedad en el Registro de Comercio y sus anotaciones marginales, si las hubiere.
+
+iii) Certificado de Vigencia de la Sociedad del Registro de Comercio.
+
+b) Para Personas Jurídicas inscritas en el Registro de Empresas y Sociedades a que se refiere el Título IV de la ley Nº 20.659, que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales, administrado por el Ministerio de Economía, Fomento y Turismo:
+
+i) Certificado de Estatuto Actualizado del Registro de Empresas y Sociedades.
+
+ii) Certificado de Vigencia del Registro de Empresas y Sociedades.
+
+iii) Certificado de Anotaciones del Registro de Empresas y Sociedades.
+
+2. Copia de la carpeta tributaria electrónica personalizada, que contenga la siguiente información:
+
+a) Nombre o razón social.
+
+b) Rol Único Tributario o Rol Único Nacional, según corresponda.
+
+c) Actividades económicas o giro.
+
+d) Domicilio.
+
+e) Nombre o razón social del o de los representantes legales.
+
+f) Rol Único Tributario o Rol Único Nacional del o de los representantes legales, según corresponda.
+
+3. Certificado de inicio de actividades y giro ante el Servicio de Impuestos Internos.
+
+4. El certificado de incorporación oficial a la red de concesionarios de la respectiva marca en Chile, cuando corresponda.
+
+Para Personas Naturales:
+
+1. Copia de la carpeta tributaria electrónica personalizada, que contenga la siguiente información:
+
+a) Nombre.
+
+b) Rol Único Nacional.
+
+c) Actividades económicas o giro.
+
+d) Domicilio.
+
+2. Certificado de inicio de actividades y giro ante el Servicio de Impuestos Internos.
+
+En el caso de la documentación solicitada para personas jurídicas a que se refieren los numerales 1, letra a), Nºs. ii) y iii) y b), Nºs. i), ii) y iii), 2 y 4 esta deberá tener una fecha de emisión no superior a 30 días corridos. Tratándose de la documentación exigida para el ingreso a la nómina de una persona natural, la misma vigencia se exigirá respecto de la carpeta tributaria electrónica personalizada.
+
+Excepcionalmente, se podrá efectuar la solicitud de incorporación a la nómina directamente en las oficinas que determine la Dirección Nacional del Servicio de Registro Civil e Identificación por resolución cuando se genere indisponibilidad técnica del sistema electrónico, circunstancia que deberá ser ratificada por el Servicio de Registro Civil e Identificación.
+
+#### Artículo 15 quáter
+
+Una vez ingresada la solicitud respectiva, se generará un comprobante electrónico en el que conste el hecho de haberse requerido la inclusión de la empresa en la nómina.
+
+Si durante la tramitación de una solicitud se hiciera necesario complementar o rectificar antecedentes, el Servicio de Registro Civil e Identificación emitirá una comunicación electrónica al solicitante, y suspenderá la tramitación, fijándole un plazo para que se acompañen, el que no podrá ser superior a 20 días hábiles.
+
+El Servicio de Registro Civil e Identificación dentro de los 20 días hábiles, contados desde el ingreso de la solicitud o desde la recepción de los antecedentes requeridos para complementarla o rectificarla, informará al requirente de su aceptación o rechazo mediante una comunicación electrónica.
+
+#### Artículo 15
+
+quinquies. En el caso de que una empresa, ya sea persona natural o jurídica, registrada en la nómina elimine dentro de su giro comercial la venta de vehículos nuevos o se disuelva y/o termine su giro de acuerdo con la ley, deberá informar de esta circunstancia al Servicio de Registro Civil e Identificación, el que procederá a su eliminación mediante resolución fundada del Director Nacional. De igual forma, si el Servicio toma conocimiento por otros medios de alguna de estas circunstancias, podrá de oficio eliminar a la empresa de la nómina. En ambos supuestos, la referida resolución fundada será notificada a la empresa respectiva.
+
+No obstante lo señalado en el inciso precedente, la empresa podrá solicitar su reincorporación en la nómina dando cumplimiento a los requisitos indicados en el artículo 15 ter.
+
+#### Artículo 15
+
+sexies. El Servicio de Registro Civil e Identificación mantendrá en forma permanente a disposición de los usuarios la nómina de empresas habilitadas, a la cual se accederá mediante el Rol Único Nacional o Rol Único Tributario de la empresa, según corresponda. El tratamiento de los datos personales que contenga la nómina, se efectuará en conformidad a lo establecido en la ley Nº 19.628, sobre protección de la vida privada.
 
 ### Párrafo 3º
 
