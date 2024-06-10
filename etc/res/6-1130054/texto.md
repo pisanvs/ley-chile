@@ -160,9 +160,9 @@ Están afectos al trámite de toma de razón los decretos y resoluciones que se 
 
 5. Sobreseimientos, absoluciones y aplicación de medidas disciplinarias, en investigaciones sumarias y sumarios administrativos instruidos u ordenados instruir por la Contraloría General, en los servicios sometidos a su fiscalización. Se entenderán, asimismo, ordenados instruir por la Contraloría General, aquellos sumarios incoados de oficio por el servicio de que se trate, cuya instrucción haya sido confirmada o dispuesta en un informe de auditoría o en un pronunciamiento jurídico.
 
-6. Aplicación de medidas disciplinarias expulsivas.
+6. Eliminado.
 
-7. Términos de contratos de trabajo, por las causales establecidas en el artículo 160 del Código del Trabajo.
+7. Eliminado.
 
 8. Otorgamiento de desahucios y beneficios previsionales a funcionarios públicos y sus causahabientes adscritos a sistemas previsionales de régimen público, cuya pensión mensual inicial sea igual o superior a 25 unidades tributarias mensuales.
 
@@ -172,7 +172,7 @@ Asimismo, se encontrarán afectos al control preventivo de legalidad los actos q
 
 10. Actos aprobatorios de bases de concursos para el ingreso o promoción, en calidad de titular, incluyendo aquellos correspondientes al artículo 8º del Estatuto Administrativo, salvo que se ajusten a un formato tipo aprobado previamente por esta Contraloría General.
 
-Se exceptúan de lo señalado en este numeral los actos aprobatorios de bases de concursos referidos a cargos de Alta Dirección Pública.
+Se exceptúan de lo señalado en este numeral los actos aprobatorios de bases de concursos referidos a cargos de Alta Dirección Pública, y en los Servicios Locales de Educación Pública, los relativos a cargos titulares de docentes y de directores de establecimientos de la ley Nº 19.070 y cargos de asistentes de la educación de la ley Nº 21.109.
 
 11. Liberaciones de guardias de profesionales funcionarios.
 
@@ -234,7 +234,7 @@ Decretos y resoluciones en materias de personal sometidos a registro
 
 20. Contratos de personal a jornal y obreros a trato.
 
-21. Aplicación de medidas disciplinarias no expulsivas, que no deriven de investigaciones sumarias y sumarios administrativos instruidos u ordenados instruir por la Contraloría General, en los términos señalados en el numeral 5 del artículo precedente.
+21. Aplicación de medidas disciplinarias que no deriven de investigaciones sumarias y sumarios administrativos instruidos u ordenados instruir por la Contraloría General, en los términos señalados en el numeral 5 del artículo precedente.
 
 22. Sobreseimientos, absoluciones y medidas disciplinarias no expulsivas que afecten a funcionarios de la Contraloría General.
 
@@ -254,7 +254,7 @@ Decretos y resoluciones en materias de personal sometidos a registro
 
 30. Decisión de no renovar o prorrogar contratas, en aquellos casos en que se haya generado la confianza legítima de la renovación o prórroga del vínculo.
 
-31. Términos de contratos de trabajo, por las causales estipuladas en el artículo 159 y 161 del Código del Trabajo.
+31. Términos de contratos de trabajo, por las causales estipuladas en los artículos 159, 160 y 161 del Código del Trabajo.
 
 32. Otorgamiento de permisos, feriados, licencias y respaldos médicos.
 
@@ -294,9 +294,21 @@ Decretos y resoluciones en materias de personal sometidos a registro
 
 50. Otorgamiento de desahucios y beneficios previsionales a funcionarios públicos y sus causahabientes adscritos a sistemas previsionales de régimen público, cuya pensión mensual inicial sea inferior a 25 unidades tributarias mensuales; la reliquidación de un beneficio previamente otorgado, cuando su monto mensual reliquidado no supere el mencionado límite de 25 unidades tributarias mensuales; así como la concesión de desahucios no asociados a algún beneficio previsional, menor al señalado monto mensual.
 
+51. Nombramientos en los Servicios Locales de Educación Pública en calidad de titular en cargos docentes y de directores de establecimientos de la ley Nº 19.070 y en cargos de asistentes de la educación de la ley Nº 21.109.
+
+52. Otorgamiento de bono compensatorio de sala cuna en modalidad excepcional.
+
 #### Artículo 12 bis
 
-Derogado.
+Para efectos de un correcto cumplimiento de la obligación que el artículo 38, letra f), de la ley Nº 10.336, le impone a esta Contraloría General de llevar una nómina al día de los funcionarios separados o destituidos administrativamente de cualquier empleo o cargo público, sin que pueda darse curso a ningún nombramiento recaído en alguna persona afectada con tal medida, se estima necesario fijar el procedimiento para el registro de los actos administrativos que apliquen una medida disciplinaria expulsiva o pongan término al contrato de trabajo por alguna causal contemplada en el artículo 160 del Código del Trabajo:
+
+a) Una vez dictada la correspondiente resolución por medio de la cual se pone término al pertinente procedimiento disciplinario, aplicando una medida de carácter expulsiva o que ponga término al contrato de trabajo, deberá ser notificada al afectado en la forma prescrita en los artículos 45 y 46 de la ley Nº 19.880 y 131 de la ley Nº 18.834.
+
+b) Efectuada dicha notificación, el servicio deberá remitir para registro a esta Contraloría General, en un plazo no superior a 15 días hábiles, la pertinente resolución exenta y el acta de notificación al afectado, sea que se hubiese practicado de manera personal o a través de la remisión de una carta certificada.
+
+c) La remisión de la documentación indicada en el número anterior deberá realizarse por los canales electrónicos que esta Contraloría General establezca para ello, salvo excepciones debidamente fundadas.
+
+d) Recibida la resolución exenta y su acta de notificación, se procederá a generar en el Sistema de Información y Control de Personal de la Administración del Estado (SIAPER) que mantiene esta Contraloría General, la pertinente constancia de inhabilidad de ingreso a la administración por el plazo de 5 años.
 
 ### Párrafo II
 
