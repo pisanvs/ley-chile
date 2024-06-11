@@ -224,6 +224,28 @@ El detalle de los módulos que conforman este sitio específico, incluyendo el p
 
 24.3. Para el caso de los nuevos proyectos, éstos deberán cumplir con las disposiciones de la presente resolución, sin mediar plazos para su ejecución. No obstante lo anterior y considerando aquellos proyectos que estén en su fase final de desarrollo, el Servicio podrá evaluar caso a caso cada una de estas situaciones.
 
-25. Artículo 25.- Los incumplimientos a las disposiciones de la presente resolución serán tramitados y sancionados de acuerdo a lo establecido en la ley N° 18.755, el DL N° 3.557 o decreto RRA N° 16, según corresponda.
+25. Artículo 25. Para todas aquellas empresas o instituciones administradoras de los Puertos Habilitados de Ingreso y almacenes portuarios o extraportuarios que estén en funcionamiento para la importación de mercancías de competencia del SAG, y que no cuenten con la resolución de funcionamiento establecida en la resolución N° 4.261/2019, el SAG extenderá el plazo de implementación hasta el 31 de diciembre de 2025, siempre que el interesado haya presentado antes del 24 de junio de 2024 una carta al SAG, firmada por el Representante Legal o Gerente General, manifestando que se acoge a la extensión planteada en el presente artículo y que, además, ingrese en un plazo no mayor a 90 días corridos desde el término del plazo para su completa implementación establecido en la resolución N° 4.261 de 2019, el proyecto de SI/CDI en forma oficial al SAG, de acuerdo a lo establecido en el Artículo 7 de la mencionada resolución. Se entenderá que, durante el plazo de 90 días otorgados para la presentación de proyectos sujetos a la solicitud de extensión planteada en el presente artículo, todos aquellos que hayan presentado la respectiva solicitud destinada a acogerse a la extensión de plazo planteada, podrán seguir operando. De lo contrario, y al no verificarse la presentación del proyecto dentro del plazo estipulado, el solicitante de la extensión no podrá seguir operando al término de este plazo, no pudiendo acogerse a nuevas extensiones.
+
+Formalizado lo anterior, aquellas empresas o instituciones administradoras de los Puertos Habilitados de Ingreso y almacenes portuarios o extraportuarios deberán cumplir con las siguientes obligaciones para seguir operando:
+
+a. Posterior a la presentación oficial, y previo a la ejecución de las obras de construcción o modificación del recinto, el interesado deberá disponer de la resolución del SAG que autoriza el proyecto. En caso de omitir este paso, el Servicio no autorizará el recinto ni su funcionamiento si no cumple con los requisitos exigidos en la resolución exenta N° 4.261/2019, del Servicio Agrícola y Ganadero.
+
+b. La construcción o modificación del Sitio de Inspección (SI) o Centros de Inspección (CDI) acogidos a esta extensión de plazo, deberá estar finalizada y contar con resolución de autorización de funcionamiento, emitida por el SAG, a más tardar el 31 de diciembre de 2025. De no contar con esta autorización a la fecha antes señalada no podrá seguir operando.
+
+25.1. Los recintos que actualmente se encuentren desarrollando actividades de importación y que no cuenten con una resolución que autorice su funcionamiento o que no se hayan acogido a la extensión establecida en el artículo 25 de la presente resolución, a partir del 24 de junio de 2024 no podrán seguir operando en el proceso de importación de mercancías de ámbito SAG.
+
+25.2 Durante el período de extensión del plazo de implementación de la resolución N° 4.261/2019 (desde el 24 de junio de 2024 hasta el 31 de diciembre de 2025), el SAG priorizará la atención de los SI/CDI de importación que dispongan de resolución de autorización de funcionamiento emitida por el Servicio.
+
+#### Artículo 26
+
+Se establece que, a partir del 24 de junio de 2024, el Servicio no realizará inspecciones/identificaciones de mercancías de ámbito SAG en Zona Franca, cuando se disponga de SI/CDI autorizados por resolución para su funcionamiento y vinculados al mismo PHI del cual recibe mercancías.
+
+#### Artículo 27
+
+Se establece que, a partir del 1 de enero de 2026, el SAG solo ejecutará el proceso de importación de las mercancías de su competencia en SI/CDI ubicados en zonas primarias vinculadas a los PHI y autorizados por resolución para su funcionamiento.
+
+#### Artículo 28
+
+Los incumplimientos a las disposiciones de la presente resolución serán tramitados y sancionados de acuerdo a lo establecido en la ley N° 18.755, el DL N° 3.557 o decreto RRA N° 16, según corresponda.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
