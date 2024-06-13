@@ -112,6 +112,8 @@ Las Fuerzas Armadas, Carabineros de Chile y la Policía de Investigaciones de Ch
 
 La Dirección General de Movilización Nacional y las autoridades indicadas en el inciso tercero podrán, en virtud de una resolución fundada, denegar, suspender, condicionar o limitar las autorizaciones que exige esta ley.
 
+Las personas naturales o jurídicas, de derecho público o privado, que dicten cursos, capacitaciones, certificaciones u otorguen títulos técnicos o profesionales de armero o similares, deberán informar a la Dirección General de Movilización Nacional, conforme lo determine el reglamento, de las personas que asistan a ellos, se certifiquen u obtengan dichos títulos.
+
 > **Nota.** El artículo 9° transitorio de la LEY 19047, publicada el 14.02.1991, dispuso que para los efectos del presente inciso, el Ministerio de Defensa Nacional deberá proceder a la dictación del reglamento especial de explosivos para las faenas mineras, en un plazo máximo de noventa días.
 
 #### Artículo 4
@@ -123,6 +125,14 @@ Toda arma de fuego o munición que ingrese al país y que no cuente con el certi
 La Dirección General de Movilización Nacional, previo a autorizar la inscripción de un arma en el Registro Nacional de Inscripciones de Armas, deberá proceder a tomar muestras del efecto del disparo en los proyectiles y casquillos de balas o cartuchos, e incorporar la información a un sistema de identificación balística automatizada.
 
 El reglamento podrá establecer un sistema de trazabilidad complementario para todas las armas de fuego y municiones que sean fabricadas en el país o importadas.
+
+#### Artículo 4
+
+B.- Los sistemas de identificación balística automatizada señalados en esta ley deberán ser interoperables, con el objeto de que las policías, con ocasión o motivo de investigaciones penales en curso, puedan acceder a la información recopilada en ellos.
+
+Los proyectiles y casquillos de balas o cartuchos obtenidos en el sitio del suceso deberán ser sometidos a un procedimiento de toma de muestras del efecto del disparo en ellos, e incorporar dicha información a los sistemas de identificación balística automatizada de las Fuerzas de Orden y Seguridad Pública, la que deberá ser compartida para fines de análisis criminal o investigaciones penales.
+
+Un reglamento dictado por el Ministerio del Interior y Seguridad Pública y suscrito además por el Ministro de Defensa Nacional, establecerá los estándares mínimos con que deberán contar los sistemas de identificación balística automatizada a que se refiere esta ley, asegurando la adecuada interoperabilidad entre ellos.
 
 #### Artículo 5
 
@@ -166,43 +176,53 @@ Toda persona jurídica, previo a su disolución, deberá ceder o transferir las 
 
 > **Nota.** NOTA 1 El artículo segundo transitorio de la ley 21412, publicada el 25.01.2022, dispone que el nuevo inciso primero del presente artículo entrará en vigencia en la fecha de publicación del reglamento a que se refiere el artículo tercero transitorio de la citada ley.
 
-#### Artículo 5º
+#### Artículo 5
 
-A.- Las autoridades señaladas en el artículo 4º sólo permitirán la inscripción de una o más armas cuando su poseedor o tenedor cumpla con los siguientes requisitos:
+A.- Las autoridades señaladas en el artículo 4 sólo permitirán la inscripción de una o más armas cuando su poseedor o tenedor cumpla con los siguientes requisitos:
 
-a) Ser mayor de edad. Se exceptúan de este requisito los menores de edad que se encuentren registrados como deportistas, debidamente autorizados por sus representantes legales, para el solo efecto del desarrollo de dichas actividades. En este caso, el uso y transporte de las armas deberá ser supervisado por una persona mayor de edad, quien será legalmente responsable del uso y transporte de las mismas;
+a) Ser mayor de edad y contar con la nacionalidad chilena o residencia definitiva.
 
-b) Tener domicilio conocido;
+No obstante, podrán inscribir a su nombre armas de fuego los menores de edad, debidamente autorizados por sus representantes legales, que cuenten con la nacionalidad chilena o residencia definitiva, y que se encuentren registrados como deportistas, para el solo efecto del desarrollo de dichas actividades. En este caso, el uso y transporte de las armas deberá ser supervisado por una persona mayor de edad, quien será legalmente responsable de su uso y transporte.
+
+b) Tener domicilio conocido.
 
 c) Acreditar que tiene los conocimientos necesarios sobre conservación, mantenimiento y manejo del arma que pretende inscribir, y que posee una aptitud física y psíquica compatible con el uso de armas.
 
-El reglamento determinará el estándar de conocimientos mínimos sobre conservación, mantenimiento y manejo del arma de fuego que deberá tener el solicitante, así como la forma en que podrá acreditarse dicho conocimiento.
+Para acreditar el conocimiento sobre conservación, mantenimiento y manejo de armas de fuego, el solicitante deberá aprobar un curso especializado. La Dirección General de Movilización Nacional deberá autorizar y fiscalizar a las entidades que soliciten dictar tales cursos y a las personas que los impartirán, de conformidad a los requisitos que señale el reglamento. Éste determinará el procedimiento de certificación y autorización para la realización de los cursos, los que contarán con un mínimo de cuatro horas de contenido teórico, su contenido esencial; y los requisitos que deberán cumplir las instalaciones de las entidades respecto de sus elementos técnicos y de seguridad.
 
-El reglamento determinará, además, la manera de acreditar la aptitud física y psíquica del solicitante, exigiéndose, al menos, una evaluación completa y razonada del mismo, efectuada por un profesional idóneo.
+La aptitud física y psíquica del solicitante para el uso del arma de fuego será certificada por un médico psiquiatra, acreditado como tal, según el Registro Nacional de Prestadores Individuales de Salud que administra la Superintendencia de Salud.
 
-Para todos los efectos legales y reglamentarios, el solicitante podrá comprobar sus conocimientos acompañando un certificado que acredite la aprobación, por parte del mismo, de uno o más cursos de tiro, manejo y cuidado sobre el tipo de arma y calibre que pretende inscribir, emitidos por un club o federación de tiro reconocido por las autoridades fiscalizadoras, o bien que posee instrucción militar previa en un nivel suficiente para acreditar dichos conocimientos, según determine el reglamento, antecedentes que serán evaluados y ponderados fundadamente por la autoridad fiscalizadora;
+d) Conducta personal compatible con la tenencia o posesión de armas de fuego, lo que se declarará mediante resolución fundada, de conformidad a los criterios que el reglamento determine, y se considerarán para ello los antecedentes policiales registrados en el Banco Unificado de Datos, al que hace referencia el artículo 11 de la ley Nº 20.931, que facilita la aplicación efectiva de las penas establecidas para los delitos de robo, hurto y receptación y mejora la persecución penal en dichos delitos.
 
-d) No haber sido condenado por crimen o simple delito, lo que se acreditará con el respectivo certificado de antecedentes. Sin embargo, en el caso de personas que no hayan sido condenadas por delitos que merezcan pena aflictiva, el Subsecretario para las Fuerzas Armadas, previo informe del Director General de Movilización Nacional, podrá autorizar se practique la inscripción del arma por resolución fundada, la que deberá considerar la naturaleza y gravedad del delito cometido, la pena aplicada, el grado de participación, la condición de reincidencia, el tiempo transcurrido desde el hecho sancionado y la necesidad, uso, tipo y características del arma cuya inscripción se requiere;
+e) No haber sido condenado por crimen o simple delito, lo que se acreditará con el respectivo certificado de antecedentes. Sin embargo, en el caso de personas que no hayan sido condenadas por delitos que merezcan pena aflictiva, el Subsecretario para las Fuerzas Armadas, previo informe del Director General de Movilización Nacional, podrá autorizar se practique la inscripción del arma por resolución fundada, la que deberá considerar la naturaleza y gravedad del delito cometido, la pena aplicada, el grado de participación, la condición de reincidencia, el tiempo transcurrido desde el hecho sancionado y la necesidad, uso, tipo y características del arma cuya inscripción se requiere.
 
-e) No haberse dictado a su respecto auto de apertura del juicio oral o dictamen del fiscal que proponga una sanción al tenor de lo dispuesto en el inciso segundo del artículo 145 del Código de Justicia Militar. Para estos efectos, los jueces de garantía o los jueces militares, en su caso, deberán comunicar mensualmente a la Dirección General de Movilización Nacional la nómina de personas respecto de las cuales se hubieren dictado dichas resoluciones;
+En todo caso, la autorización prevista en este literal no será aplicable a quien hubiere sido condenado por dos o más delitos.
 
-f) No haber sido sancionado en procesos relacionados con la ley sobre violencia intrafamiliar;
+f) No haberse dictado a su respecto auto de apertura del juicio oral o dictamen del fiscal que proponga una sanción al tenor de lo dispuesto en el inciso segundo del artículo 145 del Código de Justicia Militar. Para estos efectos, los jueces de garantía o los jueces militares, en su caso, deberán comunicar mensualmente a la Dirección General de Movilización Nacional la nómina de personas respecto de las cuales se hubieren dictado dichas resoluciones.
 
-g) No encontrarse sujeto a medida cautelar personal que le impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, de conformidad con lo dispuesto en el artículo 155 del Código Procesal Penal o el número 6 del artículo 92 de la ley Nº19.968, que crea los Tribunales de Familia.
+g) No haber sido sancionado en procesos relacionados con la ley N° 20.066, que establece ley de violencia intrafamiliar.
 
-Para el control de este requisito, los juzgados de garantía, militares o de familia deberán comunicar a la Dirección General de Movilización Nacional la medida cautelar de impedimento de posesión o tenencia de armas de fuego dentro de las 24 horas siguientes a que la hubieren decretado, y
+h) No encontrarse sujeto a medida de protección o cautelar que impida la tenencia, posesión o porte de armas de fuego, municiones o cartuchos, por resolución de tribunales con competencia en lo penal, en materias de familia o militares, según corresponda. Lo anterior será aplicable también a quienes se les imponga como condición la prohibición de tenencia y porte de armas en el marco de una suspensión condicional del procedimiento de conformidad a lo establecido en los artículos 237 y siguientes del Código Procesal Penal.
 
-h) No habérsele cancelado alguna inscripción de armas de fuego en los cinco años anteriores a la solicitud.
+Para el control de este requisito, los tribunales con competencia en lo penal, en materias de familia o militares, según corresponda, deberán comunicar a la autoridad fiscalizadora la resolución que contenga la prohibición, o la medida de protección o cautelar de impedimento de posesión o tenencia de armas de fuego, dentro de las veinticuatro horas siguientes a que se encuentre firme o ejecutoriada.
 
-La letra c) del inciso primero no se aplicará a los miembros en servicio activo de las Fuerzas Armadas, de Orden y Seguridad Pública y de Gendarmería de Chile.
+i) No habérsele cancelado alguna inscripción de armas de fuego.
 
-El cumplimiento del requisito establecido en la letra f) se acreditará con el respectivo certificado de antecedentes emitido por el Servicio de Registro Civil e Identificación.
+j) Haber dado cumplimiento oportuno a las obligaciones previstas en los incisos quinto y final, cuando el solicitante tenga armas de fuego inscritas a su nombre.
 
-El poseedor o tenedor de un arma inscrita deberá acreditar, cada cinco años, contados desde la fecha de la inscripción, que cumple con el requisito contemplado en la letra c) del inciso primero de este artículo, salvo que la autoridad disponga, de manera fundada, atendido el estado de salud general del solicitante y la existencia de otras condiciones físicas o síquicas que puedan afectar su capacidad para manejar o poseer armas, que dicha acreditación se efectúe en un plazo menor, el que no podrá ser inferior a dos años.
+k) Acreditar el origen de los fondos utilizados para adquirir el arma.
 
-Si, por circunstancia sobreviniente, el poseedor o tenedor de un arma inscrita pierde las aptitudes consignadas en la letra c) o es condenado en conformidad con la letra d), o bien sancionado en los procesos a que se refiere la letra f), la Dirección General de Movilización Nacional deberá proceder a cancelar la respectiva inscripción, reemplazándola por una nueva a nombre de la persona que el poseedor o tenedor original señale y que cuente con autorización para la posesión o tenencia de armas.
+l) No haber sido sancionado previamente por abandono de armas o elementos sujetos a control en los términos del artículo 14 A; no haber sufrido la pérdida o extravío de armas o elementos sujetos a control, o no haber sido víctima de robo o hurto de armas o elementos sujetos a control, salvo exención de la Dirección General de Movilización Nacional para casos calificados, tratándose de robo.
 
-Las armas de fuego que se encuentren inscritas a nombre de la persona respecto de la cual se hubiere decretado alguna de las medidas cautelares señaladas en la letra g) de este artículo y sus respectivas municiones o cartuchos serán retenidas provisoriamente por orden del tribunal respectivo y remitidas directamente al Depósito Central de Armas de Carabineros de Chile hasta el alzamiento de la medida cautelar correspondiente. Una vez que cese dicha medida, el poseedor o tenedor del arma de fuego inscrita podrá solicitar su devolución, conjuntamente con sus municiones o cartuchos, previo pago de los derechos que correspondan.
+La letra c) del inciso primero no se aplicará a los miembros en servicio activo de las Fuerzas Armadas, de Orden y Seguridad Pública y de Gendarmería de Chile, ni respecto de coleccionistas cuyas armas estén totalmente inutilizadas para el disparo según constate la autoridad, de conformidad al artículo 7.
+
+El cumplimiento del requisito establecido en la letra g) se acreditará con el respectivo certificado de antecedentes emitido por el Servicio de Registro Civil e Identificación.
+
+Quienes cumplan los requisitos previstos en este artículo, obtendrán de la Dirección General de Movilización Nacional una licencia de aptitud para la tenencia de armas de fuego, con la que se podrá solicitar la inscripción respectiva en el Registro Nacional a que alude el artículo precedente, dentro de los seis meses siguientes.
+
+El poseedor o tenedor de un arma inscrita deberá actualizar o ratificar la información del registro de armas de fuego anualmente, y dará cuenta que el arma inscrita se encuentra en el inmueble declarado y que se ha realizado una tenencia responsable de ésta, para lo cual la Dirección General de Movilización Nacional dispondrá de una plataforma virtual. El reglamento establecerá el procedimiento de actualización o ratificación y los contenidos mínimos de la plataforma virtual.
+
+El poseedor o tenedor de un arma inscrita deberá acreditar cada cinco años, contados desde la fecha de la inscripción, que cumple con los requisitos contemplados en la letra c) del inciso primero de este artículo, salvo que la autoridad disponga, de manera fundada, que dicha acreditación se efectúe en un plazo menor, según los criterios que determine el reglamento, atendida la edad, el estado de salud general del solicitante y la existencia de otras condiciones físicas o psíquicas que puedan afectar su capacidad para manejar o poseer armas.
 
 #### Artículo 5
 
@@ -234,7 +254,11 @@ Ninguna persona podrá portar armas de fuego fuera de los lugares indicados en e
 
 El permiso durará un año como máximo y sólo autorizará al beneficiario para portar un arma. Estas autorizaciones se inscribirán en el Registro Nacional de Armas.
 
-No requerirá este permiso el personal señalado en el inciso tercero del artículo 3º, sin perjuicio de lo que disponga la reglamentación institucional respectiva. Asimismo, no requerirán este permiso, los aspirantes a oficiales de Carabineros ni los aspirantes a oficiales de la Policía de Investigaciones, que cursen tercer año en las Escuelas de Carabineros y de Investigaciones Policiales, durante la realización de las respectivas prácticas policiales.
+No requerirá este permiso el personal señalado en el inciso tercero del artículo 3º, sin perjuicio de lo que disponga la reglamentación institucional respectiva. Asimismo, no requerirán este permiso los aspirantes a oficiales de la Policía de Investigaciones, que cursen tercer año en la Escuela de Investigaciones Policiales, durante la realización de las respectivas prácticas policiales.
+
+Tampoco requerirán este permiso los aspirantes a oficiales de Carabineros que cursen tercer y cuarto año en la Escuela de Carabineros de Chile, ni los carabineros alumnos que cursen segundo año en la Escuela de Formación de Carabineros y sus grupos de formación a nivel nacional, mientras realicen los periodos de práctica que determinen las respectivas mallas curriculares. Para que dichos aspirantes a oficiales y carabineros alumnos se encuentren exentos del permiso de porte de armas a que se refiere este artículo deberán haber aprobado todos los cursos de tiro policial correspondientes a sus semestres anteriores. Estas prácticas profesionales tendrán únicamente la finalidad de contribuir a las labores de prevención y mantención del orden público.
+
+Los aspirantes a oficiales de la Policía de Investigaciones a los que se refiere el inciso tercero y los aspirantes a oficiales de Carabineros y los carabineros alumnos a los que se refiere el inciso cuarto tendrán la calidad de funcionarios de la Policía de Investigaciones o de Carabineros de Chile, respectivamente, en cualquier actuación en la que participen durante los periodos de práctica que determinen las respectivas mallas curriculares.
 
 Los deportistas, cazadores y vigilantes privados que sean autorizados por la autoridad contralora y que cumplan con los requisitos señalados en el reglamento, podrán transportar y utilizar las armas en las actividades indicadas en la respectiva autorización, lo que no constituirá permiso de porte. Serán cazadores quienes cuenten con permiso de caza al día otorgado por el Servicio Agrícola y Ganadero, y deportistas, quienes se encuentren debidamente inscritos en las organizaciones deportivas señaladas en el inciso primero del artículo 5, y cumplan los demás requisitos que establezca el reglamento complementario de esta ley.
 
