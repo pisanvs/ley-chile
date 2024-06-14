@@ -90,6 +90,16 @@ Cada afiliado deberá acreditar ante la respectiva Administradora, la existencia
 
 > **Nota.** El Art. vigésimo octavo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación, y se aplicará sólo para aquellas personas que se pensionen con posterioridad a esa fecha.
 
+#### Artículo 5 bis
+
+No obstante lo señalado en el artículo anterior, no podrá ser beneficiario de pensión de sobrevivencia quien por sentencia ejecutoriada haya sido condenado en calidad de autor, cómplice o encubridor de los delitos contemplados en el Código Penal, en los párrafos 5 y 6 del Título VII del Libro II, y en los artículos 141, 390, 390 bis y 411 quáter, y, asimismo, de los contenidos en el artículo 391 y los contemplados en el párrafo 3 del Título VIII del Libro II, cuando se cometan en el contexto de violencia intrafamiliar como lo señala el artículo 400, además del delito del artículo 14 de la ley N°20.066, que establece ley de Violencia Intrafamiliar, siempre y cuando la víctima sea la causante de la pensión.
+
+El derecho a pensión de sobrevivencia del beneficiario que se encontrare formalizado o requerido, en las calidades y por alguno de los delitos indicados en el inciso anterior contra la persona del causante, se mantendrá en suspenso hasta que el procedimiento termine sin condenar a dicho beneficiario.
+
+En caso de que el solicitante fuere condenado, deberán reliquidarse las pensiones concedidas a los demás beneficiarios.
+
+Un reglamento expedido por el Ministerio del Trabajo y Previsión Social regulará la forma y los medios en que las administradoras tomarán conocimiento del inicio de la investigación de un hecho que revista caracteres de alguno de los delitos indicados, para los efectos de suspender la concesión de la pensión de sobreviven cia que corresponda al beneficiario.
+
 #### Artículo 6°
 
 El o la cónyuge sobreviviente, para ser beneficiario o beneficiaria de pensión de sobrevivencia, debe haber contraído matrimonio con el o la causante a lo menos con seis meses de anterioridad a la fecha de su fallecimiento o tres años, si el matrimonio se verificó siendo el o la causante pensionada de vejez o invalidez.
@@ -2092,7 +2102,7 @@ Respecto del saldo retenido y para los efectos de la opción y asignación a un 
 
 #### Artículo 66
 
-Los beneficiarios de pensión de sobrevivencia causadas durante la afiliación activa podrán hacerlas efectivas en alguna de las modalidades señaladas en el artículo 61. En todo caso, para optar por las modalidades de renta vitalicia inmediata, renta vitalicia inmediata con retiro programado o renta temporal con renta vitalicia diferida, deberá existir acuerdo de la totalidad de los beneficiarios. Mientras no se haya ejercido la opción, los beneficiarios quedarán afectos a la modalidad de retiros programados. La Administradora enterará en la cuenta de capitalización individual del afiliado causante el aporte adicional a que se refiere el artículo 60, cuando el afiliado causante se hubiere encontrado en alguna de las situaciones de las letras a) o b) del artículo 54.
+Los beneficiarios de pensión de sobrevivencia causadas durante la afiliación activa podrán hacerlas efectivas en alguna de las modalidades señaladas en el artículo 61. En todo caso, para optar por las modalidades de renta vitalicia inmediata, renta vitalicia inmediata con retiro programado o renta temporal con renta vitalicia diferida, deberá existir acuerdo de la totalidad de los beneficiarios, excluido el beneficiario condenado por sentencia ejecutoriada, en su caso, por los delitos contemplados en el Código Penal, en los párrafos 5 y 6 del Título VII del Libro II, y en los artículos 141, 390, 390 bis y 411 quáter, y, asimismo, de los contenidos en el artículo 391 y los contemplados en el párrafo 3 del Título VIII del Libro II, cuando se cometan en el contexto de violencia intrafamiliar como lo señala el artículo 400, además del delito del artículo 14 de la ley N°20.066, que establece ley de Violencia Intrafamiliar, siempre y cuando la víctima sea la causante de la pensión. Mientras no se haya ejercido la opción, los beneficiarios quedarán afectos a la modalidad de retiros programados. La Administradora enterará en la cuenta de capitalización individual del afiliado causante el aporte adicional a que se refiere el artículo 60, cuando el afiliado causante se hubiere encontrado en alguna de las situaciones de las letras a) o b) del artículo 54.
 
 Si se optare por la modalidad de renta vitalicia inmediata, las pensiones que resulten deberán guardar entre ellas las mismas proporciones que establece el artículo 58. El contrato de renta vitalicia se regirá por las disposiciones señaladas en el artículo 62, no siéndole aplicable lo dispuesto en el inciso sexto de dicho artículo.
 
@@ -2102,23 +2112,15 @@ Si se optare por la modalidad de retiro programado, cada uno de los beneficiario
 
 Si no quedaren beneficiarios de pensión de sobrevivencia, el saldo remanente en la cuenta de capitalización individual del afiliado incrementará la masa de bienes del difunto.
 
-> **Nota.** El artículo 5º de la LEY 18.646, publicada el 29.08.1987, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia el día primero del mes siguiente a aquel en que se cumplan ciento veinte días de publicada.
-
-> **Nota.** NOTA 1: El inciso 1º del artículo segundo de la LEY 18.964, publicada el 10.03.1990, dispuso que la modificación introducida al presente artículo entrará en vigencia el día primero del quinto mes siguiente a aquel en que se publique en el Diario Oficial.
-
-> **Nota.** NOTA 2: El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
-
-> **Nota.** NOTA 3: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
-
 #### Artículo 67
 
 Producido el fallecimiento de un afiliado pensionado por vejez o por invalidez que hubiere estado percibiendo pensiones de acuerdo a un segundo o único dictamen, sus beneficiarios, señalados en el artículo 5°, devengarán el derecho a pensión de sobrevivencia.
 
-Si el afiliado hubiere estado pensionado de acuerdo con la modalidad de renta vitalicia, los beneficiarios deberán comunicar el fallecimiento a la Compañía de Seguros que estuviere pagando la respectiva pensión, con el fin de que ésta pague las pensiones de sobrevivencia que corresponda.
+Si el afiliado hubiere estado pensionado de acuerdo con la modalidad de renta vitalicia, los beneficiarios deberán comunicar el fallecimiento a la Compañía de Seguros que estuviere pagando la respectiva pensión, con el fin de que ésta pague las pensiones de sobrevivencia que corresponda. Las reservas que mantengan las compañías de seguros correspondientes al beneficiario que ha sido condenado como autor, cómplice o encubridor de los delitos contemplados en el Código Penal, en los párrafos 5 y 6 del Título VII del Libro II, y en los artículos 141, 390, 390 bis y 411 quáter y, asimismo, de los contenidos en el artículo 391 y los contemplados en el párrafo 3 del Título VIII del Libro II, cuando se cometan en el contexto de violencia intrafamiliar como lo señala el artículo 400, además del delito del artículo 14 de la ley N°20.066, que establece ley de Violencia Intrafamiliar, en la persona del causante, se destinarán para el recálculo de las pensiones de los restantes beneficiarios. En caso de que no queden beneficiarios de sobrevivencia, dichas reservas se sumarán a la masa hereditaria del difunto.
 
 Si el causante hubiere estado pensionado de acuerdo con la modalidad de renta temporal con renta vitalicia diferida, se procederá de la siguiente manera, según sea el caso:
 
-a) Si el afiliado hubiere estado recibiendo renta temporal, los beneficiarios deberán comunicar a la administradora el fallecimiento, con el fin de que ésta ponga el saldo de la cuenta a su disposición para que opten, previo acuerdo de todos ellos, por anticipar la renta vitalicia diferida o distribuir la renta temporal del causante según se señala en el inciso cuarto del artículo precedente. Si no hubiera acuerdo entre los beneficiarios seguirá distribuyéndose la renta temporal del causante.
+a) Si el afiliado hubiere estado recibiendo renta temporal, los beneficiarios deberán comunicar a la administradora el fallecimiento, con el fin de que ésta ponga el saldo de la cuenta a su disposición para que opten, previo acuerdo de todos ellos, por anticipar la renta vitalicia diferida o distribuir la renta temporal del causante según se señala en el inciso cuarto del artículo precedente. Si no hubiera acuerdo entre los beneficiarios seguirá distribuyéndose la renta temporal del causante. Se excluirá del referido acuerdo al beneficiario condenado por sentencia ejecutoriada, en su caso, como autor, cómplice o encubridor de los delitos contemplados en el Código Penal, en los párrafos 5 y 6 del Título VII del Libro II, y en los artículos 141, 390, 390 bis y 411 quáter y, asimismo, de los contenidos en el artículo 391 y los contemplados en el párrafo 3 del Título VIII del Libro II, cuando se cometan en el contexto de violencia intrafamiliar como lo señala el artículo 400, además del delito del artículo 14 de la ley N°20.066, que establece ley de Violencia Intrafamiliar, en la persona del causante.
 
 Si una vez extinguido el derecho a pensión de los beneficiarios aún quedare saldo en la cuenta de capitalización individual del causante, este remanente incrementará la masa de bienes del difunto.
 
@@ -2143,10 +2145,6 @@ Producido el fallecimiento de un afiliado pensionado por invalidez parcial confo
 - **a)** o
 
 - **b)** del artículo 54, la Administradora pondrá a disposición de los beneficiarios el saldo de la cuenta de capitalización individual y se procederá de acuerdo a lo dispuesto en el artículo 66.
-
-> **Nota.** El inciso 1º del artículo segundo de la LEY 18.964, publicada el 10.03.1990, dispuso que la modificación introducida al presente artículo entrará en vigencia el día primero del quinto mes siguiente a aquel en que se publique en el Diario Oficial.
-
-> **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
 
 ### Párrafo 6º
 

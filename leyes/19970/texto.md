@@ -148,7 +148,7 @@ Eliminación de huellas genéticas contenidas en el Sistema. Las huellas genéti
 
 El Servicio de Registro Civil e Identificación deberá proceder a la eliminación o reingreso a que se refiere el inciso precedente en un plazo no superior a tres días, contado desde que le fuere comunicado el término del procedimiento por el fiscal. Dicha comunicación se efectuará por cualquier medio idóneo que permita dejar constancia fehaciente de su despacho y recepción. Igualmente procederá el Servicio de Registro Civil e Identificación a solicitud de la víctima o del imputado, cuando éstos acreditaren el término del procedimiento, mediante certificación expedida por el fiscal o el tribunal respectivo.
 
-En cualquier caso, las huellas genéticas contenidas en los Registros de Imputados, de Víctimas y de Evidencias y Antecedentes, serán eliminadas una vez transcurridos treinta años desde la fecha de su incorporación a éstos.
+En cualquier caso, las huellas genéticas contenidas en los Registros de Imputados, de Víctimas, y de Evidencias y Antecedentes, previa autorización del Ministerio Público, podrán ser eliminadas una vez transcurridos treinta años desde su incorporación en ellos.
 
 De la eliminación y reingreso de los antecedentes de que trata este artículo se dejará constancia escrita por el funcionario encargado. Dicha constancia deberá contener los datos que permitan identificar las huellas genéticas de que se trate, así como la comunicación de término del procedimiento, si fuere el caso.
 

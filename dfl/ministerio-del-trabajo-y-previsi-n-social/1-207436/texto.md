@@ -34,7 +34,7 @@ Las relaciones laborales deberán siempre fundarse en un trato compatible con la
 
 Son contrarios a los principios de las leyes laborales los actos de discriminación.
 
-Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, maternidad, lactancia materna, amamantamiento, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional, situación socioeconómica, idioma, creencias, participación en organizaciones gremiales, orientación sexual, identidad de género, filiación, apariencia personal, enfermedad o discapacidad u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
+Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, género, maternidad, lactancia materna, amamantamiento, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional, situación socioeconómica, idioma, creencias, participación en organizaciones gremiales, orientación sexual, identidad de género, filiación, apariencia personal, enfermedad o discapacidad u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
 
 Con todo, las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
 
@@ -142,7 +142,7 @@ La autorización de centralización podrá extenderse a toda la documentación l
 
 En conformidad a lo dispuesto en el artículo 515, el empleador deberá registrar en el sitio electrónico de la Dirección del Trabajo los contratos de trabajo, dentro de los quince días siguientes a su celebración. Asimismo, deberá registrar las terminaciones de contrato, dentro de los plazos establecidos en los artículos 162 y 163 bis para el envío de las copias de las comunicaciones de terminación de contrato a la Inspección del Trabajo, y dentro de los diez días hábiles siguientes a la separación del trabajador en los casos de los números 1, 2 y 3 del artículo 159.
 
-En el momento del registro del contrato de trabajo el empleador deberá indicar las estipulaciones pactadas, y al término de los servicios deberá informar la fecha de éste y la causal invocada.
+En el momento del registro del contrato de trabajo el empleador deberá indicar las estipulaciones pactadas, y al término de los servicios deberá informar la fecha de éste y la causal invocada. Asimismo, deberá registrar la información relativa a la imputación de saldos a que se refiere el artículo 13 de la ley N°19.728, dentro de los cinco días posteriores a la suscripción del respectivo finiquito.
 
 Esta información será utilizada para el ejercicio de las facultades legales propias de la Dirección del Trabajo, tales como fiscalizaciones, conciliaciones, mediaciones y ratificación de finiquitos. También podrá ser utilizada para fines estadísticos, de estudios y difusión que efectúe el Servicio sobre el cumplimiento de la normativa laboral y de salud y seguridad en el trabajo, sin perjuicio de lo dispuesto en la ley Nº 19.628, sobre protección de la vida privada. Además, la Dirección del Trabajo deberá proporcionar esta información a los tribunales de justicia, previo requerimiento.
 
@@ -362,7 +362,7 @@ Jornada ordinaria de trabajo
 
 La duración de la jornada ordinaria de trabajo no excederá de cuarenta horas semanales y su distribución se podrá efectuar en cada semana calendario o sobre la base de promedios semanales en lapsos de hasta cuatro semanas, con los límites y requisitos señalados en este capítulo.
 
-Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios a distintos empleadores; los gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata; los contratados de acuerdo con este Código para prestar servicios en su domicilio o en un lugar libremente elegido por ellos; los agentes comisionistas y de seguros, vendedores viajantes, cobradores y demás similares que no ejerzan sus funciones en el local del establecimiento.
+Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios como gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata en razón de la naturaleza de las labores desempeñadas. En caso de controversia y a petición de cualquiera de las partes, el Inspector del Trabajo respectivo resolverá si esa determinada labor se encuentra en alguna de las situaciones descritas. De su resolución podrá recurrirse ante el juez competente dentro de quinto día de notificada, quien resolverá en única instancia, sin forma de juicio, oyendo a las partes.
 
 También quedarán excluidos de la limitación de jornada de trabajo los trabajadores que se desempeñen a bordo de naves pesqueras.
 
@@ -440,7 +440,7 @@ El bus deberá contar con una litera adecuada para el descanso, siempre que ést
 
 #### Artículo 25 bis
 
-La jornada ordinaria de trabajo de choferes de vehículos de carga terrestre interurbana, no excederá de ciento ochenta horas mensuales, la que no podrá distribuirse en menos de veintiún días. El tiempo de los descansos a bordo o en tierra y de las esperas a bordo o en el lugar de trabajo que les corresponda no será imputable a la jornada, y su retribución o compensación se ajustará al acuerdo de las partes. La base de cálculo para el pago de los tiempos de espera, no podrá ser inferior a la proporción respectiva de 1,5 ingresos mínimos mensuales. Con todo, los tiempos de espera no podrán exceder de un límite máximo de ochenta y ocho horas mensuales.
+La jornada ordinaria de trabajo de choferes de vehículos de carga terrestre interurbana, no excederá de cuarenta horas semanales promedio en cómputo mensual; o ciento ochenta horas mensuales con un descanso anual adicional de seis días, la que no podrá distribuirse en menos de veintiún días. El tiempo de los descansos a bordo o en tierra y de las esperas a bordo o en el lugar de trabajo que les corresponda no será imputable a la jornada, y su retribución o compensación se ajustará al acuerdo de las partes. La base de cálculo para el pago de los tiempos de espera, no podrá ser inferior a la proporción respectiva de 1,5 ingresos mínimos mensuales, en base a un denominador correspondiente a la jornada respectiva. Con todo, los tiempos de espera no podrán exceder de un límite máximo de ochenta y ocho horas mensuales.
 
 El trabajador deberá tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.
 
@@ -460,7 +460,7 @@ En el caso de que circunstancias tales como el tiempo de cruzamiento de trenes, 
 
 4.- Finalizada la jornada ordinaria diaria el trabajador tendrá derecho a un descanso mínimo de diez horas continuas, al que se agregará el tiempo necesario para traslado del trabajador al lugar en que pernocte o descanse.
 
-5.- Las partes podrán programar turnos de espera o llamado de hasta siete horas treinta minutos continuas dentro de un lapso de veinticuatro horas para la realización de un servicio; con todo, luego de transcurridas las horas del referido turno, el trabajador tendrá derecho a un descanso mínimo igual al indicado en el número 4. Las horas correspondientes a los turnos de llamado no serán imputables a la jornada mensual y deberán remunerarse de común acuerdo entre las partes. Esta retribución no podrá ser inferior al valor de la hora correspondiente a uno y medio ingreso mínimo mensual.
+5.- Las partes podrán programar turnos de espera o llamado de hasta siete horas treinta minutos continuas dentro de un lapso de veinticuatro horas para la realización de un servicio; con todo, luego de transcurridas las horas del referido turno, el trabajador tendrá derecho a un descanso mínimo igual al indicado en el número 4. Las horas correspondientes a los turnos de llamado no serán imputables a la jornada mensual y deberán remunerarse de común acuerdo entre las partes. Esta retribución no podrá ser inferior al valor de la hora correspondiente a uno y medio ingreso mínimo mensual, en base a un denominador correspondiente a la jornada respectiva.
 
 6.- Las reglas anteriores se aplicarán sin perjuicio de lo dispuesto en el inciso séptimo del artículo 38.
 
@@ -476,13 +476,13 @@ Se entenderá como servicios de transporte rural colectivo de pasajeros, aquello
 
 #### Artículo 27
 
-Lo dispuesto en el inciso primero del artículo 22 no es aplicable al personal que trabaje en hoteles, restaurantes o clubes - exceptuado el personal administrativo, el de lavandería, lencería y cocina-, cuando, en todos estos casos, el movimiento diario sea notoriamente escaso, y los trabajadores deban mantenerse constantemente a disposición del público.
+Los trabajadores madres y padres de niños y niñas de hasta doce años, y las personas que tengan el cuidado personal de éstos, tendrán derecho a una banda de dos horas en total, dentro de la que podrán anticipar o retrasar hasta en una hora el comienzo de sus labores, lo que determinará también el horario de salida al final de la jornada.
 
-El desempeño de la jornada que establece este artículo sólo se podrá distribuir hasta por un máximo de cinco días a la semana.
+Para ejercer este derecho el trabajador deberá entregar al empleador el respectivo certificado de nacimiento o la sentencia que le otorgue el cuidado personal de un niño o niña. El empleador no podrá negarse sino cuando la empresa funcione en un horario que no permita anticipar o postergar la jornada de trabajo, o por la naturaleza de los servicios prestados por el trabajador, como en el caso de funciones o labores de atención de público, o que sean necesarias para la realización de los servicios de otros trabajadores, o de atención de servicios de urgencia, trabajo por turnos, guardias, o similares, en tanto requieran que el trabajador efectivamente se encuentre en su puesto a la hora específica señalada en el contrato de trabajo o en el reglamento interno.
 
-Con todo, los trabajadores a que se refiere este artículo no podrán permanecer más de 12 horas diarias en el lugar de trabajo y tendrán, dentro de esta jornada, un descanso no inferior a una hora, imputable a dicha jornada.
+Si ambos padres son trabajadores, cualquiera de ellos, a elección de la madre, podrá hacer uso de este derecho.
 
-En caso de duda y a petición del interesado, el Director del Trabajo resolverá si una determinada labor o actividad se encuentra en alguna de las situaciones descritas en este artículo. De su resolución podrá recurrirse ante el juez competente dentro de quinto día de notificada, quien resolverá en única instancia, sin forma de juicio, oyendo a las partes.
+En caso de controversia, y a petición de cualquiera de las partes, el inspector del trabajo respectivo resolverá si esa determinada labor se encuentra en alguna de las situaciones descritas.
 
 #### Artículo 28
 
@@ -520,13 +520,17 @@ No obstante la falta de pacto escrito, se considerarán extraordinarias las que 
 
 Las horas extraordinarias se pagarán con un recargo del cincuenta por ciento sobre el sueldo convenido para la jornada ordinaria y deberán liquidarse y pagarse conjuntamente con las remuneraciones ordinarias del respectivo período. En caso de que no exista sueldo convenido, o éste sea inferior al ingreso mínimo mensual que determina la ley, éste constituirá la base de cálculo para el respectivo recargo.
 
+Con todo, las partes podrán acordar por escrito que las horas extraordinarias se compensen por días adicionales de feriado. En tal caso, podrán pactarse hasta cinco días hábiles de descanso adicional al año, los cuales deberán ser utilizados por el trabajador dentro de los seis meses siguientes al ciclo en que se originaron las horas extraordinarias, para lo cual el trabajador deberá dar aviso al empleador con cuarenta y ocho horas de anticipación. Si no los solicita en la oportunidad indicada corresponderá su pago dentro de la remuneración del respectivo periodo. La compensación de horas extraordinarias por días adicionales de feriado se regirá por el mismo recargo que corresponde a su pago, es decir, por cada hora extraordinaria corresponderá una hora y media de feriado. En caso de que existan días pendientes de utilizar al término de la relación laboral, éstos se compensarán en conformidad a lo establecido en el artículo 73.
+
 No serán horas extraordinarias las trabajadas en compensación de un permiso, siempre que dicha compensación haya sido solicitada por escrito por el trabajador y autorizada por el empleador.
 
 #### Artículo 33
 
-Para los efectos de controlar la asistencia y determinar las horas de trabajo, sean ordinarias o extraordinarias, el empleador llevará un registro que consistirá en un libro de asistencia del personal o en un reloj control con tarjetas de registro.
+El empleador tiene el deber de controlar la asistencia y determinar las horas de trabajo, sean ordinarias o extraordinarias. Estará obligado a llevar un libro de asistencia del personal, un reloj control con tarjetas de registro o un sistema electrónico de registro.
 
-Cuando no fuere posible aplicar las normas previstas en el inciso precedente, o cuando su aplicación importare una difícil fiscalización, la Dirección del Trabajo, de oficio o a petición de parte, podrá establecer y regular, mediante resolución fundada, un sistema especial de control de las horas de trabajo y de la determinación de las remuneraciones correspondientes al servicio prestado. Este sistema será uniforme para una misma actividad.
+Una resolución del Director del Trabajo, que se publicará en el Diario Oficial, establecerá y regulará las condiciones y requisitos que deberán cumplir los sistemas electrónicos de registro y control de asistencia y horas de trabajo correspondientes al servicio prestado, el que será uniforme para una misma actividad.
+
+La Dirección del Trabajo, a petición de parte, se pronunciará respecto de si un determinado sistema electrónico se ajusta a las condiciones establecidas en la referida resolución, lo que habilitará su utilización.
 
 ### Párrafo 3º
 
@@ -540,7 +544,7 @@ Se exceptúan de lo dispuesto en el inciso anterior los trabajos de proceso cont
 
 #### Artículo 34 bis
 
-Sin perjuicio de lo dispuesto en el artículo precedente, los trabajadores de restaurantes que atiendan directamente al público podrán pactar la interrupción de la jornada diaria por más de media y hasta por cuatro horas, en tanto la suma de las horas efectivamente trabajadas no sobrepase los límites semanales y diarios señalados en los artículos 22 y 28. Cada trabajador podrá optar por permanecer en el lugar de trabajo, pero el empleador no podrá requerir de su parte, en este lapso, la prestación de servicios de ninguna naturaleza; la infracción de esta obligación será sancionada con una multa de 60 unidades tributarias mensuales.
+Sin perjuicio de lo dispuesto en el artículo precedente, los trabajadores de restaurantes, hoteles o clubes que atiendan directamente al público podrán pactar la interrupción de la jornada diaria por más de media y hasta por cuatro horas, en tanto la suma de las horas efectivamente trabajadas no sobrepase los límites semanales y diarios señalados en los artículos 22 y 28. Cada trabajador podrá optar por permanecer en el lugar de trabajo, pero el empleador no podrá requerir de su parte, en este lapso, la prestación de servicios de ninguna naturaleza; la infracción de esta obligación será sancionada con una multa de 60 unidades tributarias mensuales.
 
 Las referidas horas de interrupción no serán imputables a la jornada diaria, pero su exceso sobre media hora deberá remunerarse de común acuerdo entre las partes en el pacto referido, sin que pueda acordarse un monto inferior al valor por hora correspondiente a uno y medio ingreso mínimo mensual en base a una jornada de cuarenta horas semanales. En caso que el período de colación fuere imputable a la jornada de trabajo, no corresponderá remunerar conforme a esta disposición el tiempo que ya estuviese imputado a la jornada. El empleador deberá costear el transporte de ida y regreso del trabajador a otro lugar, dentro del radio urbano respectivo, durante las horas de interrupción.
 
@@ -618,11 +622,11 @@ Las empresas exceptuadas del descanso dominical deberán otorgar un día de desc
 
 No obstante, en los casos a que se refieren los números 2 y 7 del inciso primero, al menos dos de los días de descanso en el respectivo mes calendario deberán necesariamente otorgarse en día domingo. Esta norma no se aplicará respecto de los trabajadores que se contraten por un plazo de treinta días o menos, y de aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos. Tampoco se aplicará a las trabajadoras y a los trabajadores contratados en los servicios de transporte público urbano o rural durante los meses en que se desarrollen elecciones populares o plebiscitos. En estos casos, las empresas deberán otorgarles descansos compensatorios en uno o más domingos del mes calendario anterior o siguiente a aquél en que se verifiquen las referidas elecciones o plebiscitos.
 
-En el caso de los trabajadores de casinos de juego, hoteles, pubs, discotecas, restaurantes, clubes, bares y similares, y de los operadores de turismo, la distribución de la jornada ordinaria semanal deberá sujetarse a lo dispuesto en los incisos tercero y cuarto, salvo que las partes acuerden distribuir la jornada semanal de tal forma que el trabajador cuente con, a lo menos, veintinueve domingos de descanso en el lapso de un año o, alternativamente, con quince domingos de descanso en el lapso de seis meses. La distribución de los días domingos deberá ser acordada por escrito en el contrato de trabajo o en un anexo del mismo y no podrá considerar la prestación de servicios por más de tres domingos en forma consecutiva. Si a la fecha de terminación del contrato, el trabajador no hubiere hecho uso de los descansos en día domingo a que tiene derecho conforme la proporción que establece este inciso, el empleador deberá pagar dichos días en el respectivo finiquito. Este pago deberá efectuarse con el recargo contemplado en el inciso tercero del artículo 32 y no podrá ser imputado al pago del feriado proporcional, en su caso.
+En el caso de los trabajadores de casinos de juego, hoteles, pubs, discotecas, restaurantes, clubes, bares y similares, y de los operadores de turismo, la distribución de la jornada ordinaria semanal deberá sujetarse a lo dispuesto en los incisos tercero y cuarto, salvo que las partes acuerden distribuir la jornada semanal de tal forma que el trabajador cuente con, a lo menos, veintinueve domingos de descanso en el lapso de un año o, alternativamente, con quince domingos de descanso en el lapso de seis meses. La distribución de los días domingos deberá ser acordada por escrito en el contrato de trabajo o en un anexo del mismo y no podrá considerar la prestación de servicios por más de tres domingos en forma consecutiva. Con todo, en el caso de pacto anual, las partes podrán acordar alternativamente que, una vez al año, ocho domingos o, en tres oportunidades discontinuas al año, cuatro domingos, puedan ser considerados en forma consecutiva. Si a la fecha de terminación del contrato, el trabajador no hubiere hecho uso de los descansos en día domingo a que tiene derecho conforme la proporción que establece este inciso, el empleador deberá pagar dichos días en el respectivo finiquito. Este pago deberá efectuarse con el recargo contemplado en el inciso tercero del artículo 32 y no podrá ser imputado al pago del feriado proporcional, en su caso.
 
 Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero, cuarto y quinto las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
 
-Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de higiene y seguridad son compatibles con el referido sistema.
+Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada que deberá emitirse dentro de los treinta días hábiles siguientes a la solicitud, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de seguridad y salud en el trabajo son compatibles con el referido sistema.
 
 La vigencia de la resolución será por el plazo de hasta tres años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de hasta tres años.
 
@@ -656,7 +660,7 @@ Jornada Parcial
 
 #### Artículo 40 bis
 
-Se podrán pactar contratos de trabajo con jornada a tiempo parcial, considerándose afectos a la normativa del presente párrafo, aquéllos en que se ha convenido una jornada de trabajo no superior a dos tercios de la jornada ordinaria, a que se refiere el artículo 22.
+Se podrán pactar contratos de trabajo con jornada a tiempo parcial, considerándose afectos a la normativa del presente párrafo, aquéllos en que se ha convenido una jornada de trabajo no superior a treinta horas semanales.
 
 #### Artículo 40 bis
 
@@ -1332,7 +1336,7 @@ Tampoco se aplicará dicha disposición al ingeniero jefe, al comisario, al méd
 
 #### Artículo 109
 
-No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas.
+No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas, la que se calculará de forma proporcional por los días en que la nave esté fondeada en puerto.
 
 Sin perjuicio de lo señalado precedentemente y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
 
@@ -1728,9 +1732,7 @@ b) Se podrá distribuir hasta en un máximo de seis días.
 
 c) Le será aplicable lo dispuesto en el inciso primero del artículo 34.
 
-d) Las partes podrán acordar por escrito hasta un máximo de quince horas semanales adicionales de trabajo, no acumulables a otras semanas, las que serán pagadas con un recargo no inferior al señalado en el inciso tercero del artículo 32.
-
-En caso de que el acuerdo no conste por escrito, se imputarán al máximo de quince horas semanales indicadas en esta letra, las horas trabajadas en exceso de la jornada pactada, con conocimiento del empleador.
+d) Si la jornada semanal se extiende hasta por treinta horas, las partes podrán acordar por escrito hasta un máximo de doce horas semanales adicionales de trabajo, no acumulables a otras semanas, las que serán pagadas con un recargo no inferior al señalado en el inciso tercero del artículo 32.
 
 e) El período que medie entre el inicio y el término de las labores en ningún caso podrá exceder de doce horas continuas, considerando tanto la jornada como el descanso dentro de ella.
 
@@ -1749,6 +1751,8 @@ a) Tendrán derecho a descanso semanal los días domingo.
 b) Tendrán derecho a descanso los días sábado, los cuales, de común acuerdo, podrán acumularse, fraccionarse o intercambiarse por otros días de la semana. En caso de acumularse, dichos días deberán ser otorgados por el empleador dentro del respectivo mes calendario. Estos descansos no podrán ser compensados en dinero mientras la relación laboral se encuentre vigente.
 
 c) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
+
+d) Tendrán derecho a dos días de libre disposición en cada mes calendario, los que serán remunerados, les permitirán ausentarse de sus labores y no podrán compensarse en dinero. De común acuerdo estos días libres podrán acumularse dentro de un periodo de tres meses. Al término de la relación laboral, en caso de existir días pendientes de utilizar en el respectivo mes, se compensarán en conformidad a lo establecido en el artículo 73.
 
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
 
@@ -2270,27 +2274,17 @@ Si la relación laboral se inició conforme a las normas de este Capítulo, ser�
 
 #### Artículo 152 quáter
 
-J.- La modalidad de trabajo a distancia o teletrabajo podrá abarcar todo o parte de la jornada laboral, combinando tiempos de trabajo de forma presencial en establecimientos,
-
-instalaciones o faenas de la empresa con tiempos de trabajo fuera de ella.
+J.- La modalidad de trabajo a distancia o teletrabajo podrá abarcar todo o parte de la jornada laboral, combinando tiempos de trabajo de forma presencial en establecimientos, instalaciones o faenas de la empresa con tiempos de trabajo fuera de ella.
 
 El trabajo a distancia estará sujeto a las reglas generales de jornada de trabajo contenidas en el Capítulo IV del Libro I, con las excepciones y modalidades establecidas en el presente artículo. El empleador, cuando corresponda, deberá implementar a su costo un mecanismo fidedigno de registro de cumplimiento de jornada de trabajo a distancia, conforme a lo prescrito en el artículo 33.
 
-Si la naturaleza de las funciones del trabajador a distancia lo permite, las partes podrán pactar que el trabajador distribuya libremente su jornada en los horarios que mejor se adapten a sus necesidades, respetando siempre los límites máximos de la jornada diaria y semanal, sujetándose a las normas sobre duración de la jornada de los artículos 22 y 28 y las relativas al descanso semanal del
+Si la naturaleza de las funciones del trabajador a distancia lo permite, las partes podrán pactar que el trabajador distribuya libremente su jornada en los horarios que mejor se adapten a sus necesidades, respetando siempre los límites máximos de la jornada diaria y semanal, sujetándose a las normas sobre duración de la jornada de los artículos 22 y 28 y las relativas al descanso semanal del Párrafo 4° del Capítulo IV del Libro Primero.
 
-### Párrafo 4° — del Capítulo IV del Libro Primero.
+Con todo, en el caso del teletrabajo las partes podrán acordar que el trabajador quede excluido de la limitación de jornada de trabajo en tanto se ajuste a lo dispuesto en el inciso segundo del artículo 22. Sin embargo, se presumirá que el trabajador está afecto a la jornada ordinaria cuando el empleador ejerciere una supervisión o control funcional sobre la forma y oportunidad en que se desarrollen las labores.
 
-Con todo, en el caso del teletrabajo las partes podrán acordar que el trabajador quede excluido de la limitación de jornada de trabajo de conformidad con lo señalado en el inciso cuarto del artículo
+En aquellos casos en que se pacte la combinación de tiempos de trabajo de forma presencial en establecimientos, instalaciones o faenas de la empresa con tiempos de trabajo fuera de ella, podrán acordarse alternativas de combinación de dichos tiempos por los que podrá optar el trabajador, quien deberá comunicar la alternativa escogida con a lo menos una semana de anticipación.
 
-22. Sin embargo, se presumirá que el trabajador está afecto a la jornada ordinaria cuando el empleador ejerciere una supervisión o control funcional sobre la forma y oportunidad en que se desarrollen las labores.
-
-En aquellos casos en que se pacte la combinación de tiempos de trabajo de forma presencial en establecimientos, instalaciones o faenas de la empresa con tiempos de trabajo fuera de ella, podrán
-
-acordarse alternativas de combinación de dichos tiempos por los que podrá optar el trabajador, quien deberá comunicar la alternativa escogida con a lo menos una semana de anticipación.
-
-Tratándose de trabajadores a distancia que distribuyan libremente su horario o de teletrabajadores excluidos de la limitación de jornada de trabajo, el empleador deberá respetar su derecho a desconexión, garantizando el tiempo en el cual ellos no estarán obligados a responder sus comunicaciones, órdenes u otros requerimientos. El tiempo de desconexión deberá ser de, al menos,
-
-doce horas continuas en un periodo de veinticuatro horas. Igualmente, en ningún caso el empleador podrá establecer comunicaciones ni formular órdenes u otros requerimientos en días de descanso, permisos o feriado anual de los trabajadores.
+Tratándose de trabajadores a distancia que distribuyan libremente su horario o de teletrabajadores excluidos de la limitación de jornada de trabajo, el empleador deberá respetar su derecho a desconexión, garantizando el tiempo en el cual ellos no estarán obligados a responder sus comunicaciones, órdenes u otros requerimientos. El tiempo de desconexión deberá ser de, al menos, doce horas continuas en un periodo de veinticuatro horas. Igualmente, en ningún caso el empleador podrá establecer comunicaciones ni formular órdenes u otros requerimientos en días de descanso, permisos o feriado anual de los trabajadores.
 
 #### Artículo 152 quáter
 
@@ -5368,7 +5362,7 @@ Para aplicar estos pactos a los trabajadores de la empresa sin afiliación sindi
 
 #### Artículo 375
 
-Pactos sobre distribución de jornada de trabajo semanal. Las partes podrán acordar que la jornada ordinaria semanal de trabajo se distribuya en cuatro días. En cualquier caso, la jornada no podrá exceder de doce horas diarias de trabajo efectivo, incluidas la jornada ordinaria, extraordinaria y los descansos. Si la jornada de trabajo supera las diez horas, deberá acordarse una hora de descanso imputable a ella.
+Derogado.
 
 #### Artículo 376
 

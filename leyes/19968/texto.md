@@ -438,7 +438,7 @@ Abandono del procedimiento. Si llegado el día de la celebración de las audienc
 
 No obstante, en los asuntos a que se refieren los números 7), 8), 9), 11) y 12) del artículo 8º, el juez citará a las partes, en forma inmediata, a una nueva audiencia bajo apercibimiento de continuar el procedimiento y resolver de oficio.
 
-En las causas sobre violencia intrafamiliar, de verificarse las circunstancias previstas en el inciso primero, el juez ordenará el archivo provisional de los antecedentes, pudiendo el denunciante o demandante solicitar, en cualquier momento, la reapertura del procedimiento. Transcurridos un año desde que se decrete el archivo provisional sin haberse requerido la reanudación del procedimiento, se declarará, de oficio o a petición de parte, el abandono del procedimiento, debiendo el juez dejar sin efecto las medidas cautelares que haya fijado.
+En las causas sobre violencia intrafamiliar, de verificarse las circunstancias previstas en el inciso primero, el juez citará a las partes en forma inmediata a una nueva audiencia. Si a ésta no concurre ninguna de las partes, el juez ordenará el archivo provisional de los antecedentes, pudiendo el denunciante o demandante solicitar, en cualquier momento, la reapertura del procedimiento. Transcurridos un año desde que se decrete el archivo provisional sin haberse requerido la reanudación del procedimiento, se declarará, de oficio o a petición de parte, el abandono del procedimiento, debiendo el juez dejar sin efecto las medidas cautelares que haya fijado.
 
 #### Artículo 22
 
@@ -1106,11 +1106,11 @@ Solicitud de extracto de filiación del denunciado o demandado. El juez requerir
 
 #### Artículo 90
 
-Remisión de antecedentes si el hecho denunciado reviste caracteres de delito. En caso que los hechos en que se fundamenta la denuncia o la demanda sean constitutivos de delito, el juez deberá enviar de inmediato los antecedentes al Ministerio Público.
+Remisión de antecedentes si el hecho denunciado reviste caracteres de delito. En caso que los hechos en que se fundamenta la denuncia o la demanda sean constitutivos de delito, el juez deberá enviar de inmediato los antecedentes al Ministerio Público. En ningún caso podrá transcurrir más de tres días sin que se efectúe el envío de dichos antecedentes.
 
 Si de los antecedentes examinados en la audiencia preparatoria o en la del juicio aparece que el denunciado o demandado ha ejercido violencia en los términos establecidos en el artículo 14 de la Ley sobre Violencia Intrafamiliar, el tribunal los remitirá al Ministerio Público.
 
-Previo a remitir una causa al Ministerio Público, el juez de familia adoptará las medidas cautelares que correspondan, las que se mantendrán vigentes en tanto el fiscal no solicite su modificación o cese.
+Previo a remitir una causa al Ministerio Público, el juez de familia adoptará las medidas cautelares que correspondan, las que se mantendrán vigentes en tanto el juez de garantía no decrete su modificación o cese.
 
 Si se plantea una contienda de competencia relacionada a un asunto de violencia intrafamiliar entre un juez de familia y el Ministerio Público o un juez de garantía, el juez de familia involucrado podrá adoptar las medidas cautelares que sean procedentes, las que se mantendrán vigentes hasta que la contienda de competencia sea resuelta.
 
@@ -1182,7 +1182,15 @@ Audiencia de seguimiento de la medida cautelar del numeral 1 del artículo 92, s
 
 Comunicación y ejecución de las medidas cautelares. El juez, en la forma y por los medios más expeditos posibles, pondrá en conocimiento de la víctima las medidas cautelares decretadas, otorgándole la certificación correspondiente.
 
-Asimismo, el juez podrá requerir el auxilio de la fuerza pública, disponer su intervención con facultades de allanamiento y descerrajamiento y ejercer, sin más trámite, los demás medios de acción conducentes para el cumplimiento de las medidas cautelares decretadas.
+Además, el juez deberá comunicar de inmediato, a Carabineros o a la Policía de Investigaciones, según el caso, las medidas cautelares decretadas, en la forma y por los medios más expeditos posibles.
+
+Asimismo, el juez podrá requerir el auxilio de la fuerza pública, disponer su intervención con facultades de allanamiento y descerrajamiento y ejercer, sin más trámite, los demás medios de acción conducentes para el cumplimiento de las medidas cautelares decretadas y para resguardar la seguridad de la víctima.
+
+#### Artículo 93 bis
+
+Notificación de las medidas cautelares. Junto con lo dispuesto en el artículo anterior, al decretar las medidas cautelares el tribunal ordenará de la manera más expedita posible su notificación a la persona en contra de quien se ha decretado la medida y cautelará especialmente que se resguarde la seguridad de la víctima, para lo cual podrá requerir el auxilio de la fuerza pública. De las medidas que se adopten para cautelar la seguridad de la víctima y de su seguimiento se dejará registro expreso en la causa.
+
+Una vez practicada la notificación se deberá comunicar de inmediato esta circunstancia en la forma y por los medios más expeditos posibles al tribunal que haya decretado la medida, a Carabineros o a la Policía de Investigaciones y a la fiscalía local que corresponda.
 
 #### Artículo 94
 
@@ -1198,13 +1206,15 @@ En todo caso, el denunciado o demandado deberá comparecer personalmente, debien
 
 #### Artículo 96
 
-Suspensión condicional de la dictación de la sentencia. Si el denunciado o demandado reconoce ante el tribunal los hechos sobre los que versa la demanda o denuncia y existen antecedentes que permiten presumir fundadamente que no ejecutará actos similares en lo sucesivo, el juez podrá suspender condicionalmente la dictación de la sentencia, siempre y cuando se cumpla cualquiera de las siguientes condiciones:
+Suspensión condicional de la dictación de la sentencia. Cuando existan antecedentes que permitan presumir fundadamente que el denunciado o demandado no ejecutará actos similares a los denunciados o demandados en lo sucesivo, el juez podrá suspender condicionalmente la dictación de la sentencia, siempre y cuando se cumpla cualquiera de las siguientes condiciones:
 
 a) Que se hayan establecido y aceptado por las partes obligaciones específicas y determinadas respecto de sus relaciones de familia y aquellas de carácter reparatorio a satisfacción de la víctima;
 
 b) Que se haya adquirido por el demandado o denunciado, con el acuerdo de la víctima, el compromiso de observancia de una o más de las medidas cautelares previstas en esta ley por un lapso no inferior a seis meses ni superior a un año.
 
 En todo caso, el tribunal, previo acuerdo de las partes y en conformidad a lo dispuesto en el inciso primero, podrá someter a mediación el conflicto para los efectos de la letra a). Aprobada el acta de mediación, el juez suspenderá condicionalmente la dictación de la sentencia. Para efectos de lo dispuesto en este artículo, el juez deberá ser asesorado por uno o más miembros del consejo técnico, asegurándose que las partes estén en capacidad para negociar libremente y en un plano de igualdad.
+
+El sometimiento de las partes a mediación no se aplicará en aquellos casos en que la violencia haya sido ejercida en contra de una persona con quien se tenga hijos o hijas, o haya tenido una relación de pareja con o sin convivencia. En tales casos, el tribunal deberá cautelar personalmente que las obligaciones que se establezcan en virtud de la letra a) del inciso primero ofrezcan una satisfacción efectiva a la víctima, sus hijos e hijas, u otros niños, niñas o adolescentes que tenga a su cuidado en caso de que corresponda, y resguarden su bienestar. Para ello, el tribunal deberá citar a una audiencia para efectos de acordar las condiciones de la suspensión de la dictación de la sentencia, para cuya realización la víctima deberá comparecer con su abogado.
 
 La resolución que apruebe la suspensión de la sentencia será inscrita en el registro especial que para estos procesos mantiene el Servicio de Registro Civil e Identificación, en los mismos términos que la sentencia.
 
@@ -1388,9 +1398,7 @@ Las restantes materias de competencia de los juzgados de familia, exceptuadas la
 
 No se someterán a mediación los asuntos relativos al estado civil de las personas, salvo en los casos contemplados por la Ley de Matrimonio Civil; la declaración de interdicción; las causas sobre maltrato de niños, niñas o adolescentes, y los procedimientos regulados en la ley N° 19.620, sobre adopción.
 
-En los asuntos a que dé lugar la aplicación de la ley N°20.066, sobre Violencia Intrafamiliar, la mediación procederá en los términos y condiciones establecidos en los artículos 96 y 97 de esta ley.
-
-> **Nota.** El artículo 7º de la LEY 20286, publicada el 15.09.2008, dispone que las modificaciones introducidas por el numeral 44) del artículo 1º regirán transcurridos noventa días desde su publicación.
+Tampoco se someterán a mediación los asuntos, incluidos aquellos mencionados en el inciso primero, en que una de las partes haya sido condenada por delitos constitutivos de violencia intrafamiliar o tenga anotaciones en el Registro Especial establecido en el artículo 12 de la ley N°20.066, por agredir a la otra, ni aquellos en que exista una medida cautelar, de protección vigente entre las partes o una suspensión condicional de la dictación de la sentencia o del procedimiento, según corresponda.
 
 #### Artículo 107
 

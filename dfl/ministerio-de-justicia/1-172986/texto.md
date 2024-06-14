@@ -2032,7 +2032,7 @@ Las reglas generales, a que está sujeta la prestación de alimentos, son las si
 
 #### Artículo 323
 
-Los alimentos deben habilitar al alimentado para subsistir modestamente de un modo correspondiente a su posición social.
+Los alimentos deben habilitar al alimentado para subsistir adecuadamente, resguardando el interés superior, la autonomía progresiva y el desarrollo integral del niño, niña y adolescente.
 
 Comprenden la obligación de proporcionar al alimentario menor de veintiún años la enseñanza básica y media, y la de alguna profesión u oficio. Los alimentos que se concedan según el artículo 332 al descendiente o hermano mayor de veintiún años comprenderán también la obligación de proporcionar la enseñanza de alguna profesión u oficio.
 
@@ -2042,7 +2042,7 @@ En el caso de injuria atroz cesará la obligación de prestar alimentos. Pero si
 
 Sólo constituyen injuria atroz las conductas descritas en el artículo 968.
 
-Quedarán privados del derecho a pedir alimentos al hijo el padre o la madre que le haya abandonado en su infancia, cuando la filiación haya debido ser establecida por medio de sentencia judicial contra su oposición.
+Quedarán privados del derecho a pedir alimentos al hijo el padre o la madre que no haya pagado pensión de alimentos judicialmente decretada, o que le haya abandonado en su infancia cuando la filiación haya debido ser establecida por medio de sentencia judicial contra su oposición.
 
 #### Artículo 325
 
@@ -5972,7 +5972,7 @@ El incapaz no adquiere la herencia o legado, mientras no prescriban las acciones
 
 Son indignos de suceder al difunto como herederos o legatarios:
 
-1º. El que ha cometido el crimen de homicidio en la persona del difunto, o ha intervenido en este crimen por obra o consejo, o la dejó perecer pudiendo salvarla;
+1°. El que ha cometido el crimen de homicidio, femicidio, parricidio o infanticidio en la persona del difunto, o ha intervenido en este crimen por obra o consejo, o la dejó perecer pudiendo salvarla;
 
 2º. El que cometió atentado grave contra la vida, el honor o los bienes de la persona de cuya sucesión se trata, o de su cónyuge, o de cualquiera de sus ascendientes o descendientes, con tal que dicho atentado se pruebe por sentencia ejecutoriada;
 
@@ -5984,11 +5984,11 @@ Son indignos de suceder al difunto como herederos o legatarios:
 
 #### Artículo 969
 
-6º Es indigno de suceder el que siendo mayor de edad, no hubiere acusado a la justicia el homicidio cometido en la persona del difunto, tan presto como le hubiere sido posible.
+6º Es indigno de suceder el que siendo mayor de edad, no hubiere acusado a la justicia el homicidio, femicidio, parricidio, infanticidio o cualquier otro delito que atente en contra de la vida de la persona del difunto, tan presto como le hubiere sido posible.
 
 Cesará esta indignidad, si la justicia hubiere empezado a proceder sobre el caso.
 
-Pero esta causa de indignidad no podrá alegarse, sino cuando constare que el heredero o legatario no es cónyuge de la persona por cuya obra o consejo se ejecutó el homicidio, ni es del número de sus ascendientes y descendientes, ni hay entre ellos deudo de consanguinidad o afinidad hasta el tercer grado inclusive.
+Pero esta causa de indignidad no podrá alegarse, sino cuando constare que el heredero o legatario no es cónyuge de la persona por cuya obra o consejo se ejecutó el homicidio, femicidio, parricidio, infanticidio, ni es del número de sus ascendientes y descendientes, ni hay entre ellos deudo de consanguinidad o afinidad hasta el tercer grado inclusive.
 
 #### Artículo 970
 
@@ -16700,7 +16700,7 @@ De los juicios de alimentos, conocerá el juez de familia del domicilio del alim
 
 Será competente para conocer de las demandas de aumento de la pensión alimenticia el mismo tribunal que decretó la pensión o el del nuevo domicilio del alimentario, a elección de éste.
 
-De las demandas de rebaja o cese de la pensión conocerá el tribunal del domicilio del alimentario.
+De las demandas de rebaja o cese de la pensión conocerá el tribunal del domicilio del alimentario. El tribunal deberá declarar inadmisible la demanda de rebaja o cese de pensión en el caso que la persona se encontrare con inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, salvo que se presentaren antecedentes calificados para ello, en concordancia con lo dispuesto en el inciso cuarto del artículo 3°.
 
 La madre, cualquiera sea su edad, podrá solicitar alimentos para el hijo ya nacido o que está por nacer. Si aquélla es menor, el juez deberá ejercer la facultad que le otorga el artículo 19 de la ley Nº 19.968, en interés de la madre.
 
@@ -16724,7 +16724,7 @@ Todo lo anterior es sin perjuicio de lo dispuesto en el inciso primero del artí
 
 Si el alimentante justificare ante el tribunal que carece de los medios para pagar el monto mínimo establecido en el inciso anterior, el juez podrá rebajarlo prudencialmente.
 
-Cuando los alimentos decretados no fueren pagados o no fueren suficientes para solventar las necesidades del hijo, el alimentario podrá demandar a los abuelos, de conformidad con lo que establece el artículo 232 del Código Civil.
+Cuando los alimentos decretados no fueren pagados o no fueren suficientes para solventar las necesidades del hijo, el alimentario podrá demandar a los abuelos, de conformidad con lo que establece el artículo 232 del Código Civil, salvo que la única fuente de ingreso de éstos corresponda a una pensión de vejez, invalidez o sobrevivencia.
 
 #### Artículo 4º
 
@@ -16776,7 +16776,7 @@ En cuanto a los contratos onerosos, podrán rescindirse probándose la mala fe d
 
 Las medidas precautorias en estos juicios podrán decretarse por el monto y en la forma que el tribunal determine de acuerdo con las circunstancias del caso.
 
-Toda resolución que fije una pensión de alimentos deberá disponer el pago mensual y anticipado de un monto expresado en unidades tributarias mensuales, y señalar el período del mes en que ha de realizarse el pago, y ordenará la apertura de una cuenta de ahorro u otro instrumento equivalente exclusivo para el cumplimiento de la obligación. Lo anterior es sin perjuicio de lo dispuesto en el artículo 9. Asimismo, deberá especificar las circunstancias consideradas para determinar la capacidad económica del alimentante y las necesidades del alimentario, e indicar la proporción en la que los padres deberán contribuir, conforme a sus capacidades económicas, a solucionar los gastos extraordinarios del hijo en común, entendiéndose por tales aquellas necesidades que surgen con posterioridad y cuya existencia no era posible prever, tales como el caso de hospitalizaciones y gastos médicos de urgencia.
+Toda resolución que fije una pensión de alimentos deberá disponer el pago mensual y anticipado de un monto expresado en unidades tributarias mensuales, y señalar el período del mes en que ha de realizarse el pago, y ordenará la apertura de una cuenta de ahorro u otro instrumento equivalente exclusivo para el cumplimiento de la obligación. Lo anterior es sin perjuicio de lo dispuesto en el artículo 9. Asimismo, deberá especificar las circunstancias consideradas para determinar la capacidad económica del alimentante y las necesidades del alimentario, considerando en ello, además de lo dispuesto en el Código Civil, la distribución y tasación económica del trabajo de cuidados para la sobrevivencia del alimentario e indicar la proporción en la que los padres deberán contribuir, conforme a sus capacidades económicas, a solucionar los gastos extraordinarios del hijo en común, entendiéndose por tales aquellas necesidades que surgen con posterioridad y cuya existencia no era posible prever, tales como el caso de hospitalizaciones y gastos médicos de urgencia.
 
 #### Artículo 7º
 
@@ -16806,7 +16806,7 @@ El no pago de la pensión así decretada o acordada hará incurrir al alimentant
 
 #### Artículo 10
 
-El juez podrá también ordenar que el deudor garantice el cumplimiento de la obligación alimenticia con una hipoteca o prenda sobre bienes del alimentante o con otra forma de caución.
+El juez deberá ordenar que el deudor garantice el cumplimiento de la obligación alimenticia con una hipoteca o prenda sobre bienes del alimentante o con otra forma de caución.
 
 Lo ordenará especialmente si hubiere motivo fundado para estimar que el alimentante se ausentará del país. Mientras no rinda la caución ordenada, que deberá considerar el periodo estimado de ausencia, el juez decretará el arraigo del alimentante, el que quedará sin efecto por la constitución de la caución, debiendo el juez comunicar este hecho de inmediato a la misma autoridad policial a quien impartió la orden, sin más trámite.
 
@@ -16918,6 +16918,10 @@ La Tesorería deberá comunicar al tribunal respectivo el hecho de la retención
 
 En el evento de que la licencia de conducir sea necesaria para el ejercicio de la actividad o empleo que genera ingresos al alimentante, éste podrá solicitar la interrupción de este apremio, siempre que garantice el pago de lo adeudado y se obligue a solucionar, dentro de un plazo que no podrá exceder de quince días corridos, la cantidad que fije el juez, en relación con los ingresos mensuales ordinarios y extraordinarios que perciba el alimentante.
 
+3. Ordenará la retención de los fondos que el alimentante tenga en sus cuentas bancarias u otros instrumentos financieros o de inversión, para lo cual resolverá en un plazo de cinco días hábiles.
+
+En el caso que no se tuviere conocimiento de las cuentas bancarias o de los instrumentos financieros o de inversión, se aplicará el procedimiento especial de cobro de deudas de pensiones de alimentos establecido en los artículos 19 quáter y siguientes.
+
 Las medidas establecidas en este artículo procederán también respecto del alimentante que se encuentre en la situación prevista en el artículo anterior.
 
 #### Artículo 17
@@ -16948,13 +16952,61 @@ b) La emancipación judicial por abandono del hijo a que se refiere el artículo
 
 #### Artículo 19 bis
 
-El plazo de prescripción para las acciones ejecutivas de cobro por deudas de pensión alimenticia será de tres años y se convertirá en ordinaria por dos años más, y se comenzará a computar desde el momento en que el alimentario o alimentaria cumpla 18 años.
+El plazo de prescripción para las acciones ejecutivas de cobro por deudas de pensión alimenticia será de tres años y se convertirá en ordinaria por dos años más, y se comenzará a computar desde el momento en que el alimentario o alimentaria cumpla 21 años.
 
 #### Artículo 19 ter
 
 Por el no pago de la deuda alimentaria, el tercero que ha debido contribuir económicamente a satisfacer las necesidades del alimentario, sin estar legalmente obligado o en exceso de lo que era su obligación, tendrá acción de reembolso en contra del alimentante, por el enriquecimiento sin causa de éste a expensas suya. Esta acción se tramitará ante el tribunal con competencia en asuntos de familia que hubiere decretado o aprobado la pensión alimenticia.
 
 Ante la solicitud de condonación de la deuda alimenticia presentada por el alimentario, el tribunal que estimare que a otros sujetos que no han comparecido al proceso pudiera corresponderles el ejercicio esta acción, deberá ordenar poner el proceso en su conocimiento, para que dentro del término de emplazamiento presente su demanda. Si no la presentare, caducará su derecho.
+
+#### Artículo 19 quáter
+
+Procedimiento especial para el cobro de deudas de pensiones de alimentos. Si decretados los alimentos por resolución que cause ejecutoria en favor de las personas señaladas en los números 1°, 2° y 3° del artículo 321 del Código Civil, estando la deuda de alimentos liquidada y verificado el supuesto del número 3 del artículo 16 de esta ley, el tribunal competente deberá iniciar una investigación del patrimonio activo del deudor bajo reserva, para lo cual deberá revisar, dentro del plazo de tres días hábiles desde que se inició la investigación, en los sistemas de interconexión que mantiene con la Comisión para el Mercado Financiero, el Servicio de Impuestos Internos y otros servicios del Estado que estime pertinente, las cuentas bancarias, las cuentas de ahorro previsional voluntario y los instrumentos financieros o de inversión que el alimentante mantenga en las instituciones bancarias y financieras. En caso de encontrar cuentas bancarias, cuentas de ahorro previsional voluntario y/o instrumentos financieros o de inversión a nombre del alimentante, el tribunal tendrá un plazo de cinco días hábiles, desde que se inició la investigación, para dictar una resolución por medio de la cual se ordena oficiar a dichas instituciones bancarias y/o financieras a fin de que informen dentro de un plazo de diez días hábiles los saldos, movimientos y toda la información que se considere relevante para el pago efectivo de la deuda de alimentos. Una vez recibidos dichos oficios, el tribunal tendrá un plazo de tres días hábiles para dictar la resolución que ordena el pago de la deuda liquidada con dichos fondos.
+
+Con el objeto de cautelar los derechos derivados de la pensión de alimentos, la resolución que oficia a las instituciones bancarias y/o financieras, también deberá decretar una medida cautelar de retención de los fondos del deudor en las cuentas bancarias y/o instrumentos financieros o de inversión cuando aquellos sean habidos, hasta un monto equivalente al total de la deuda actualmente exigible, el que deberá ser expresado en la resolución. Esta medida surtirá efectos desde la notificación de la resolución a la respectiva entidad bancaria o financiera y antes de notificarse a la persona en contra de quien se dicte. Para estos efectos, el tribunal ordenará que la respectiva resolución sea primero notificada a la institución en que se encuentran los fondos e inmediatamente después a la persona en contra de quien se dictó. La entidad, tan pronto fuera notificada de la resolución, deberá comunicarla al titular de los fondos a través de los medios que establece el inciso segundo del artículo 12 bis de esta ley. Si se hubiere procedido a retener una suma que excede el total de la deuda, el alimentante una vez liquidada íntegramente la deuda podrá requerir la liberación de los fondos restantes. En dicho caso, para efectos de determinar sobre qué fondos ha de mantenerse la retención, se preferirá en primer lugar los dineros depositados en cuentas bancarias y cuentas de ahorro previsional voluntario y, en lo que faltare, aquellos instrumentos financieros o de inversión cuya liquidación resulte más sencilla o expedita.
+
+La resolución que ordena el pago de la deuda deberá individualizar las cuentas bancarias, las cuentas de ahorro previsional voluntario, los instrumentos financieros y/o de inversión del alimentante, según sea el caso, que se utilizarán para el pago total de la deuda, el monto específico y porcentaje de la deuda que se ordena pagar respecto de cada una de ellas y la individualización de la cuenta bancaria en que se debe realizar el pago.
+
+Notificada la resolución señalada en el inciso anterior, la respectiva institución tendrá un plazo de quince días hábiles para realizar la transferencia ordenada por el tribunal, bajo sanción de que, en caso de no hacerlo, se le aplique lo dispuesto en el artículo 18 de esta ley.
+
+Una vez iniciada la investigación regulada en este artículo, el tribunal revisará dentro del plazo de tres días hábiles dispuesto en el inciso primero de este artículo, por medio del sistema de interconexión, si existen otros alimentarios y/o alimentarias respecto del mismo alimentante, y en el evento de que ello así ocurra, dicha circunstancia será conocida conjuntamente y en un solo proceso por el tribunal competente que conozca de la causa vigente más antigua, el que deberá para efectos del pago prorratear los fondos habidos del alimentante entre cada una de las deudas alimentarias. A las alimentarias y/o alimentarios que no son solicitantes, se le efectuará el pago prorrateado por medio del presente procedimiento si, al menos, tienen una mensualidad de alimentos adeudada por parte del alimentante. Con todo, efectuado el prorrateo de la deuda por el tribunal competente, el plazo para el pago íntegro a los alimentarios y/o alimentarias no podrá exceder de veinticinco días hábiles desde el inicio de la investigación.
+
+En caso de que durante el procedimiento se haya dictado la medida cautelar de retención de fondos dispuesta en el artículo 12 bis de esta ley y que los fondos retenidos sean suficientes para el pago de la deuda de alimentos, el tribunal procederá directamente a ordenar el pago con estos fondos, de conformidad a lo señalado en el inciso segundo de este artículo. En caso de que los fondos retenidos sean insuficientes para el pago íntegro de la deuda, las actuaciones dispuestas en este artículo sólo tendrán por objeto buscar los fondos suficientes para pagar el saldo de la deuda.
+
+#### Artículo 19
+
+quinquies.- Extraordinariamente, siempre que hubiere tres pensiones adeudadas continuas o discontinuas y el alimentante no mantenga fondos en cuentas bancarias o instrumentos financieros o de inversión, o que habiendo fondos éstos sean insuficientes para el pago de la deuda, la parte alimentaria podrá solicitar al tribunal que consulte, por vía de interconexión con la institución administradora de fondos de pensiones en la que se encuentra afiliado el alimentante, de los saldos que éste mantiene en su cuenta de capitalización individual de cotizaciones obligatorias, comunicando a dicha entidad la prohibición de que el deudor cambie de institución de administración de fondos de pensiones. La obtención de la información señalada en este inciso y la dictación de la resolución que ordena el pago de la deuda liquidada se realizará dentro de un plazo de tres días hábiles contados desde la presentación de la solicitud que regula este artículo.
+
+Los recursos destinados al pago de deudas de pensiones alimenticias se regularán de la siguiente manera:
+
+1. En el caso de que, al momento de presentar la solicitud de inicio de este procedimiento, el alimentante se encuentre a 15 años o menos de cumplir con la edad legal para ser beneficiario de la pensión de vejez, según lo dispuesto en el inciso primero del artículo 3° del decreto ley N° 3.500, de 1980, el pago que se efectúe con cargo a la cuenta de capitalización individual de cotizaciones obligatorias del deudor, no podrá exceder de un 50% de los recursos acumulados en ésta.
+
+2. En el caso de que, al momento de presentar la solicitud de inicio de este procedimiento, el alimentante se encuentre a más de 15 años y menos de 30 años de cumplir con la edad para ser beneficiario de la pensión de vejez, según lo dispuesto en el inciso primero del artículo 3° del decreto ley N° 3.500, de 1980, el pago que se efectúe con cargo a la cuenta de capitalización individual de cotizaciones obligatorias del deudor, no podrá exceder de un 80% de los recursos acumulados en ésta.
+
+3. En el caso de que, al momento de presentar la solicitud de inicio de este procedimiento, el alimentante se encuentre a más de 30 años de cumplir con la edad para ser beneficiario de la pensión de vejez, según lo dispuesto en el inciso primero del artículo 3° del decreto ley N° 3.500, de 1980, el pago que se efectúe con cargo a la cuenta de capitalización individual de cotizaciones obligatorias del deudor, no podrá exceder de un 90% de los recursos acumulados en ésta.
+
+La resolución que ordena el pago de la deuda deberá individualizar la cuenta de capitalización individual de cotizaciones obligatorias del afiliado al sistema privado de pensiones regido por el decreto ley N° 3.500, de 1980, que se utilizará para el pago de la deuda, el monto específico y porcentaje de la deuda que se ordena pagar respecto de aquella y la individualización de la cuenta bancaria en que se debe realizar el pago. El valor cuota del fondo de capitalización obligatoria, corresponderá al día en que la administradora previsional sea notificada de la resolución que ordena el pago de la deuda.
+
+El tribunal ordenará que la resolución por la que se dispone el pago sea notificada a la administradora de fondos de pensiones respectiva en el más breve plazo y por medios electrónicos.
+
+#### Artículo 19
+
+sexies.- Para efectos de realizar el pago de la deuda con cargo a los fondos acumulados en la cuenta de capitalización individual de cotizaciones obligatorias del deudor de alimentos referido en el artículo 19 quinquies, la administradora de fondos de pensiones deberá liquidar la cantidad de cuotas necesarias para obtener el monto en dinero correspondiente a la deuda ordenada pagar por el tribunal.
+
+El pago deberá efectuarlo la administradora de fondos de pensiones en la cuenta bancaria individualizada en la correspondiente resolución del tribunal, en un plazo de cinco días hábiles desde que le fuere notificada la resolución que ordena el pago de la deuda liquidada conforme lo dispuesto en el inciso final del artículo 19 quinquies, bajo sanción de que, en caso de no hacerlo, sea solidariamente responsable del pago de la obligación alimenticia conforme a las limitaciones establecidas en el inciso segundo del referido artículo.
+
+Los fondos con los que se pagará la deuda de alimentos, a los cuales hace referencia el artículo 19 quinquies, no constituirán renta o remuneración para ningún efecto legal y, en consecuencia, serán pagados en forma íntegra y no estarán afectos a comisiones o descuento alguno por parte de las administradoras de fondos de pensiones.
+
+Sin perjuicio de lo señalado en este artículo y en el artículo 19 quinquies, si el alimentante se encuentra percibiendo una pensión por vejez o invalidez de conformidad con el decreto ley N° 3.500, de 1980, no podrán pagarse las deudas de pensiones de alimentos con los recursos de su cuenta de capitalización individual de cotizaciones obligatorias, si los hubiere.
+
+#### Artículo 19
+
+septies.- Dentro del plazo de tres días hábiles contados desde la presentación de la solicitud regulada en el artículo 19 quinquies, el tribunal revisará por medio del sistema de interconexión, si existen otros alimentarios y/o alimentarias a quienes se les adeude alimentos por el mismo alimentante. En el evento de que ello así ocurra, la solicitud será conocida conjuntamente y en un solo proceso por el tribunal competente que conozca de la causa vigente más antigua. Para efectos del pago de las deudas, el tribunal deberá prorratear los fondos disponibles del alimentante según las restricciones establecidas en el inciso segundo del artículo 19 quinquies entre cada una de las deudas alimentarias. A las alimentarias y/o alimentarios que no son solicitantes, se le efectuará el pago por medio del presente procedimiento si, al menos, tienen una mensualidad de alimentos adeudada por parte del alimentante. Además de las menciones señaladas en el inciso tercero del artículo 19 quinquies, la resolución que el tribunal dicte en el caso tratado en este inciso deberá consignar el monto y porcentaje de los fondos con que se pagará cada una de las deudas.
+
+#### Artículo 19
+
+octies.- En contra de las resoluciones que ordenan el pago, señaladas en los artículos 19 quáter, 19 quinquies, 19 sexies y 19 septies de esta ley, no procederá recurso alguno.
 
 TÍTULO FINAL
 
@@ -17012,7 +17064,7 @@ Una vez practicada la inscripción en el Registro, el tribunal competente, mensu
 
 #### Artículo 25
 
-Cancelación de la inscripción en el Registro. La cancelación de la inscripción en el Registro será dispuesta de oficio por orden judicial y comunicada al Servicio, tan pronto se acredite por el alimentante el pago íntegro de los alimentos adeudados o se adopte un acuerdo de pago, serio y suficiente, que sea aprobado por el tribunal por resolución firme o ejecutoriada, según lo dispuesto en el artículo 26.
+Cancelación de la inscripción en el Registro. La cancelación de la inscripción en el Registro será dispuesta de oficio por orden judicial y comunicada al Servicio, tan pronto se constate el pago íntegro de los alimentos adeudados o se adopte un acuerdo de pago, serio y suficiente, que sea aprobado por el tribunal por resolución firme o ejecutoriada, según lo dispuesto en el artículo 26.
 
 #### Artículo 26
 
@@ -17045,6 +17097,14 @@ Los mismos deberes serán aplicables respecto del Servicio, tratándose de la in
 Será aplicable lo dispuesto en el artículo 31 cuando la operación de crédito de dinero tenga por objeto financiar la compraventa de inmuebles o vehículos motorizados. En consecuencia, en tales casos, no será aplicable lo señalado en los incisos tercero y cuarto.
 
 El proveedor de servicios financieros que celebre una operación de crédito de dinero señalada en este artículo y omitiera consultar si el solicitante de la operación se encuentra inscrito en el Registro en calidad de deudor de alimentos o bien omitiera los deberes de retención y pago, incurrirá en multa, a beneficio fiscal, equivalente al doble de la cantidad que debió retener y pagar al alimentario. La misma sanción recaerá respecto del Conservador de Bienes Raíces que no cumpla con las obligaciones contenidas en el inciso tercero. En caso de incumplimiento de las obligaciones a su cargo por parte de personal del Servicio, éste incurrirá en responsabilidad disciplinaria, la que será sancionada con multa, a beneficio fiscal, de diez a cincuenta por ciento de su remuneración.
+
+A la Comisión para el Mercado Financiero le corresponderá supervisar el cumplimiento de las obligaciones contenidas en los incisos primero y segundo, cuando la entidad con la cual se celebre la respectiva operación de crédito de dinero sea de aquellas fiscalizadas por la Comisión en virtud del decreto con fuerza de ley Nº3, del Ministerio de Hacienda, de 1997, que fija texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican; del decreto con fuerza de ley Nº5, del Ministerio de Economía, de 2003, que fija texto refundido, concordado y sistematizado de la Ley General de Cooperativas; o del decreto con fuerza de ley Nº251, del Ministerio de Hacienda, de 1931, de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio. En caso de que fuere procedente, también le corresponderá aplicar las multas hasta los montos señalados en el inciso anterior, previa tramitación del procedimiento simplificado establecido en el párrafo 3 del Título IV del decreto ley Nº3.538, que crea la Comisión para el Mercado Financiero.
+
+Para efectos de lo establecido en el inciso anterior, la Comisión para el Mercado Financiero dispondrá de todas las facultades que le confiere el artículo 5 del decreto ley Nº3.538. Especialmente, podrá establecer los términos de las obligaciones de consulta y retención a los que se refiere el inciso primero y segundo de este artículo mediante el ejercicio de las facultades consagradas en los numerales 1 y 2 del referido artículo 5 del decreto ley Nº3.538.
+
+Respecto de las decisiones que adopte la Comisión para el Mercado Financiero en ejercicio de estas atribuciones sólo procederán los recursos administrativos y judiciales contemplados en el Título V del decreto ley Nº3.538. Asimismo, las decisiones que la Comisión para el Mercado Financiero adopte en esta materia deberán ser tenidas en cuenta por los Tribunales de Familia al aplicar la presente ley.
+
+Para el cumplimiento de lo señalado en los incisos séptimo, octavo y noveno anteriores, el Servicio de Registro Civil e Identificación deberá dar acceso permanente a la Comisión para el Mercado Financiero de toda la información del Registro Nacional de Deudores de Pensiones de Alimentos.
 
 #### Artículo 29
 
@@ -17117,6 +17177,8 @@ Para efectos del presente artículo, en ningún caso se considerarán dentro de 
 #### Artículo 36
 
 Autoridades y personal de organismos públicos. Toda persona, para ingresar a las dotaciones de la Administración del Estado, del Poder Judicial, del Congreso Nacional o de otro organismo público, o ser nombrado o contratado en alguna de estas instituciones, o promovido o ascendido y que tenga una inscripción vigente en el Registro en calidad de deudor de alimentos, deberá autorizar, como condición habilitante para su contratación, nombramiento, promoción o ascenso, que la institución respectiva proceda a retener y pagar directamente al alimentario el monto de las futuras pensiones de alimentos, más un recargo de un diez por ciento, que será imputado a la deuda de alimentos hasta extinguirla íntegramente. Tratándose del nombramiento, contratación, promoción o ascenso en cargos directivos de exclusiva confianza de la autoridad facultada para efectuar el nombramiento, en cargos de alta dirección pública del primer y segundo nivel jerárquico de acuerdo al Título VI de la ley N° 19.882, y en cargos con remuneración bruta mensualizada igual o superior a 80 unidades tributarias mensuales, el recargo será de un veinte por ciento. Para estos efectos, no será aplicable el límite previsto en el inciso primero del artículo 7, al monto que resulte de adicionar a la pensión de alimentos el respectivo recargo del diez o veinte por ciento.
+
+No podrán ser candidatos a gobernadores regionales, consejeros regionales, alcaldes o concejales, quienes tengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos.
 
 Tratándose de quienes resulten electos senadores, diputados, gobernadores regionales, consejeros regionales, alcaldes, concejales y cualquiera otra persona que resulte electa para ejercer un cargo de elección popular, que tengan una inscripción vigente en el Registro en calidad de deudores de alimentos, deberán autorizar, en forma previa a la asunción de su cargo, que la institución respectiva proceda a retener y pagar directamente al alimentario en los términos expresados en el inciso precedente, con recargo de un veinte por ciento.
 
