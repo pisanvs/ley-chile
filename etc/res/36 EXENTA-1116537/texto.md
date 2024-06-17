@@ -166,8 +166,14 @@ f. Las que tienen por finalidad corregir errores de transcripción de los datos 
 
 4. Elaborar, implementar y evaluar el programa de Cédulas de Identidad y emisión de Certificados en Atenciones en Terreno.
 
+5.- Emitir y firmar Informes de No matrimonio, requeridos presencialmente o por correos electrónicos dirigidos a oficinas y direcciones regionales, por parte de usuarios o entidades públicas o privadas. Estos informes serán elaborados por las Unidades Jurídicas Regionales (UJRs), como también por asesores abogados con los que cuente cada dirección regional, de acuerdo a las directrices técnicas que establezca el Subdepartamento de Registro Civil.
+
+6.- Emitir y firmar informes de Redes Familiares requeridas por Seremis de Bienes Nacionales y Servicio de Mejor Niñez de cada Región. Dichos informes serán elaborados por las Unidades Jurídicas Regionales (UJRs), como también por asesores abogados con los que cuente cada dirección regional, de acuerdo a las directrices técnicas que establezca el Subdepartamento de Registro Civil.
+
 2. Derógase a contar de esta fecha la facultad delegada en el numeral 2 del punto II De Personal, que se refiere a "Llamar a concurso para proveer cargos de Oficiales Civiles de la Región respectiva, presentando una terna al Director Nacional para su designación previo procedimiento de selección desarrollado con sujeción a la legislación vigente", por necesidad del Servicio.
 
 3. Déjese sin efecto a contar de esta fecha, la resolución exenta Nº 342, de fecha 6 de noviembre de 2017.
+
+> **Nota.** La Resolución 218 Exenta, Justicia, publicado el 17.06.2024, exclúye de las delegaciones incorporadas por el numeral I de la citada norma a la Dirección Regional Metropolitana, atendido a lo que indica su numeral II.
 
 Anótese y publíquese.- Juvenal Osorio Soto, Director Nacional (S).
