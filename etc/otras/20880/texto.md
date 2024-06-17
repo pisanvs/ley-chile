@@ -46,7 +46,7 @@ Además de los sujetos señalados en el Capítulo 3° de este Título, se encont
 
 1. El Presidente de la República, los ministros de Estado, los subsecretarios, los delegados presidenciales regionales, los delegados presidenciales provinciales, los gobernadores regionales, los secretarios regionales ministeriales, los jefes superiores de servicio, los embajadores, los ministros consejeros y los cónsules.
 
-2. Los consejeros del Consejo de Defensa del Estado, del Consejo Directivo del Servicio Electoral, del Consejo para la Transparencia, del Consejo de Alta Dirección Pública, del Instituto Nacional de Derechos Humanos y del Consejo Nacional de Televisión.
+2. Los consejeros del Consejo de Defensa del Estado, del Consejo Directivo del Servicio Electoral, del Consejo para la Transparencia, del Consejo de Alta Dirección Pública, del Consejo de Monumentos Nacionales, del Instituto Nacional de Derechos Humanos y del Consejo Nacional de Televisión.
 
 3. Los integrantes de los Paneles de Expertos o Técnicos creados por las leyes N°19.940, N°20.378 y N°20.410.
 

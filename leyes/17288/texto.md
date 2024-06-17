@@ -74,6 +74,8 @@ Los consejeros que no sean funcionarios públicos tendrán derecho a percibir un
 
 °- El Consejo tendrá un Secretario encargado de extender las Actas, tramitar sus acuerdos y desempeñar las comisiones que se le encomienden y cuya remuneración se consultará anualmente en el Presupuesto del Servicio Nacional del Patrimonio Cultural. El Secretario tendrá el carácter de ministro de fe para todos los efectos legales.
 
+El Secretario deberá publicar las actas de las sesiones plenarias y de las comisiones técnicas en la plataforma o sitio web del Consejo de Monumentos Nacionales en el plazo de cinco días hábiles desde su aprobación en la sesión más próxima a la de su celebración.
+
 #### Artículo 4
 
 °- El Consejo designará anualmente de su seno un Visitador General, sin perjuicio de los Visitadores Especiales que pueda nombrar para casos determinados.
@@ -81,6 +83,10 @@ Los consejeros que no sean funcionarios públicos tendrán derecho a percibir un
 #### Artículo 5
 
 °- El Consejo de Monumentos Nacionales podrá sesionar en primera citación con ocho de sus miembros y en segunda con un mínimo de cinco, y sus acuerdos se adoptarán por simple mayoría de votos.
+
+Las sesiones plenarias del Consejo deberán ser grabadas y transmitidas en directo por el medio más idóneo y, además, publicadas íntegramente en un plazo máximo de tres días hábiles desde su celebración, en la plataforma que se disponga para dicho efecto en el sitio oficial del Consejo de Monumentos Nacionales. El Consejo deberá sesionar, al menos, dos veces al mes.
+
+Con todo, podrá declararse la reserva o el secreto de la sesión, cuando las temáticas a tratar correspondan a alguna de las causales establecidas en el artículo 21 del artículo primero de la ley N° 20.285, sobre acceso a la información pública, lo que deberá ser acordado de manera fundada por los dos tercios de los miembros presentes en la sesión.
 
 El Consejo podrá hacerse asesorar por otros especialistas cuando lo estime conveniente.
 
