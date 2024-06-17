@@ -38,21 +38,23 @@ Sin perjuicio de lo anterior, el Comité podrá invitar a participar en sus reun
 
 #### Artículo tercero
 
-La Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores actuará como Secretaría Técnica del Comité. Dicha Secretaría Técnica estará integrada por el Director o Directora General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores o por quien designen, y por todas aquellas personas a quienes se solicite su participación por parte del Comité, de conformidad a la normativa legal y administrativa vigente.
+La Subsecretaría de Relaciones Exteriores del Ministerio de Relaciones Exteriores actuará como Secretaría Técnica del Comité. Dicha Secretaría Técnica estará integrada por el Subsecretario o la Subsecretaria de Relaciones Exteriores del Ministerio de Relaciones Exteriores o por quien se designe de esa Secretaría de Estado, y por todas aquellas personas a quienes se solicite su participación por parte del Comité, de conformidad a la normativa legal y administrativa vigente.
 
-Corresponderá a la Dirección General de Relaciones Económicas Internacionales, como Secretaría Técnica y en uso de sus facultades legales, realizar las siguientes funciones:
+Corresponderá a la Subsecretaría de Relaciones Exteriores, como Secretaría Técnica y en uso de sus facultades legales, con el apoyo de la Unidad de Defensa en Controversias Internacionales, realizar las siguientes funciones:
 
 a) Citar a sesión, proponiendo los asuntos que se incluirán en la tabla de trabajo de cada una de ellas.
 
-b) Proponer los procedimientos de coordinación para cada controversia, informando las etapas y plazos correspondientes a cada una de ellas.
+b) Proponer al Comité los procedimientos de coordinación, que cumplirá la Unidad de Defensa en Controversias Internacionales, para cada controversia, informando de manera oportuna de las etapas y plazos más relevantes correspondientes a cada una de ellas.
 
 c) Reunir, centralizar y analizar la información y antecedentes relevantes sobre la controversia, manteniendo constantemente informado al Comité.
 
-d) Hacer seguimiento de los casos que puedan resultar en potenciales controversias y proponer un mecanismo de alerta.
+d) Hacer seguimiento de los casos que puedan resultar en potenciales controversias y proponer al Comité un mecanismo de alerta.
 
-e) Identificar e informar los posibles elementos de la controversia a negociarse en los procedimientos de consultas amistosas o en negociaciones.
+e) Identificar e informar los posibles elementos de la controversia a negociarse en los procedimientos de consultas amistosas o en negociaciones, y conducir dichos procesos bajo los lineamientos otorgados por el Comité.
 
 f) Cumplir con las demás funciones que el Comité le encomiende.
+
+Para el cumplimiento de estas funciones, la Secretaría Técnica se coordinará de forma regular con uno o más representantes del Ministerio de Hacienda.
 
 #### Artículo cuarto
 
@@ -64,23 +66,23 @@ La Secretaría Técnica citará a la primera sesión del Comité dentro de los d
 
 #### Artículo sexto
 
-Las autoridades y directivos de los órganos de la Administración del Estado deberán otorgar al Comité y a su Secretaría Ejecutiva, dentro del ámbito de sus competencias, toda la información, estudios y demás antecedentes para el adecuado cumplimiento de sus funciones.
+Las autoridades y directivos de los órganos de la Administración del Estado deberán otorgar al Comité y a su Secretaría Técnica, dentro del ámbito de sus competencias, toda la información, estudios y demás antecedentes para el adecuado cumplimiento de sus funciones.
 
 #### Artículo séptimo
 
-La Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores, de conformidad con sus facultades y atribuciones, será el encargado de la coordinación de los procedimientos de solución de controversias internacionales, emanados de los Capítulos de Inversiones de los Tratados de Libre Comercio o de Tratados Internacionales de Protección de Inversiones.
+La Subsecretaría de Relaciones Exteriores deberá mantener informado al Comité sobre el debido cumplimiento de las directrices y lineamientos fijados por el Presidente o Presidenta de la República en base a la asesoría otorgada por dicho Comité, debiendo informarle previamente y de manera oportuna toda gestión, suscripción o generación de documentos o cualquier actuación que pudiera afectar la responsabilidad del Estado.
 
-En el ejercicio de esta labor, la Dirección General de Relaciones Económicas Internacionales deberá mantener informado al Comité sobre el debido cumplimiento de las directrices y lineamientos fijados por el Presidente o Presidenta de la República en base a la asesoría otorgada por dicho Comité, debiendo informarle previamente y de manera oportuna toda gestión, suscripción o generación de documentos o cualquier actuación que pudiera afectar la responsabilidad del Estado.
+Para efectos de implementar los lineamientos y directrices del Comité, le corresponderá a la Subsecretaría de Relaciones Exteriores, específicamente:
 
-Asimismo, en el ejercicio de esta actividad le corresponderá específicamente:
+a) Coordinar, con el apoyo de la Unidad de Defensa en Controversias Internacionales, las consultas amistosas y negociaciones emanadas de los mecanismos de solución de controversias internacionales. En esta labor podrá requerir el apoyo y la asesoría de representantes de cada Ministro o Ministra que integre el Comité y con los o las representantes de otros órganos de la Administración del Estado que recomiende el Comité;
 
-a) Coordinar las consultas amistosas y negociaciones emanadas de los mecanismos de solución de controversias internacionales. En esta labor podrá requerir el apoyo y la asesoría de representantes de cada Ministro o Ministra que integre el Comité y con los o las representantes de otros órganos de la Administración del Estado que recomiende el Comité;
+b) Proceder a la contratación de asesorías jurídicas o de otra índole, tanto nacional como internacional, necesarias para la defensa del Estado, con cargo a los recursos que para dicho objeto contemplen las respectivas leyes de Presupuestos del Sector Público;
 
-b) Proceder a la contratación de asesorías jurídicas o de otra índole, tanto nacional como internacional, necesarias para la defensa del Estado, con cargo a los recursos que para dicho objeto contemplen las respectivas leyes de Presupuestos del Sector Público, y
+c) Atender a las solicitudes que realice el Comité para el cumplimiento de su cometido, e
 
-c) Atender a las solicitudes que realice el Comité para el cumplimiento de su cometido.
+d) Informar y solicitar la opinión, cuando corresponda, de la Subsecretaría de Relaciones Económicas Internacionales respecto de la interpretación de los Capítulos de Inversiones de los Tratados de Libre Comercio o de Tratados Internacionales de Protección de Inversiones de los cuales surge la controversia.
 
-Cualquier decisión o propuesta que involucre o pueda involucrar un compromiso presupuestario no contemplado en la Ley de Presupuestos vigente al momento de su adopción, deberá contar con la conformidad escrita previa del Ministerio de Hacienda.
+Cualquier decisión o propuesta que involucre o pueda involucrar un compromiso presupuestario no contemplado en la Ley de Presupuestos vigente al momento de su adopción, deberá contar con la conformidad escrita previa del Ministerio de Hacienda, siempre que a la época en que se concreten dichas decisiones o propuestas se cuente con los recursos presupuestarios respectivos.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la Republica.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores.- Rodrigo Valdés Pulido, Ministro de Hacienda.
 
