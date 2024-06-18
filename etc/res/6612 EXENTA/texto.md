@@ -192,6 +192,18 @@ transporte de alimentos para animales, siempre que éstos sean de primer uso.
 
 Asimismo, no deberán ser utilizados aquellos ingredientes enunciados en la presente resolución, si estuviese restringido su uso en determinada especie animal, según la normativa vigente.
 
+9.- La nómina de ingredientes autorizados por la presente resolución podrá ser modificada como consecuencia del progreso tecnológico o del avance científico, mediante el acto administrativo correspondiente.
+
+10.- Los ingredientes autorizados en el listado, deben presentar monografía de proceso o ser habilitados por el Servicio a excepción de aquellos ingredientes de origen vegetal y mineral, que no se encuentren mezclados con otros aditivos o ingredientes, esto previa autorización del Servicio.
+
+11.- Se considerarán como autorizados para efectos de la presente resolución, los ingredientes aprobados por el Reglamento (UE) 2017/1017 y sus modificaciones y los ingredientes enlistados en el capítulo 6 de "The Association Of American Feed Control Officials" (AAFCO). Cualquier otro ingrediente que no esté contemplado en el Reglamento, o en la lista antes señalada, deberá ser evaluado por el Servicio para su aprobación.
+
+12.- Ingredientes de origen animal destinados a consumo humano, podrán utilizarse en alimentación animal cuando demuestren que no afectan la salud de los animales de destino y que son inocuos. Para estos casos, los ingredientes deberán cumplir con los requisitos sanitarios específicos establecidos para el consumo humano según la legislación que corresponda. Para su uso en la elaboración de alimentos para perros y/o gatos y en base al análisis de peligros de cada fabricante, se podrá considerar el proceso de elaboración del producto como método de mitigación de riesgos microbiológicos.
+
+13.- El nombre de cada ingrediente o término colectivo para agrupar ingredientes, cuando sea necesario declararlo o rotularlo, será el nombre definido en la presente nómina o la que el Servicio determine aprobada por resolución.
+
 9.- Deróganse las resoluciones N° 557 de 1980, que Establece Nómina y Garantía de ingredientes alimentarios a ser usados en la fabricación de alimentos o suplementos para animales y la N° 4.808 de 2008 que la complementa.
+
+> **Nota.** El Nº 3 de la Resolución 3860 Exenta, Agricultura, publicada el 18.06.2024, dispone incorporar los resuelvos Nºs 9, 10, 11, 12 y 13, nuevos, posterior al resuelvo Nº 8 de la presente norma. No obstante, esta resolución contiene un resuelvo Nº 9 desde su texto original, motivo por el cual dicho número se reitera en el presente texto actualizado.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
