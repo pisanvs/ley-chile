@@ -40,7 +40,7 @@ Apruébase el "Reglamento de Administración del Fondo de Garantía para Pequeñ
 
 Objeto del Reglamento.
 
-El presente "Reglamento de Administración del Fondo de Garantía para Pequeños y Medianos Empresarios, aplicable a Fogape Chile Apoya" (en adelante, el "Reglamento"), tiene como objeto establecer los requisitos y las condiciones mínimas para las bases de licitación (en adelante, "Bases Fogape Chile Apoya") relativas al otorgamiento de garantías (en adelante, "Garantías Chile Apoya") del Fondo de Garantía para Pequeños y Medianos Empresarios (en adelante también el "Fondo" o "Fogape") enfocadas principalmente en la reactivación y recuperación de la economía (en adelante, "Fogape Chile Apoya").
+El presente "Reglamento de Administración del Fondo de Garantía para Pequeños y Medianos Empresarios, aplicable a Fogape Chile Apoya" (en adelante, el "Reglamento"), tiene como objeto establecer los requisitos y las condiciones mínimas para las bases de licitación (en adelante, "Bases Fogape Chile Apoya") relativas al otorgamiento de garantías (en adelante, "Garantías Chile Apoya") del Fondo de Garantía para Pequeños y Medianos Empresarios (en adelante también el "Fondo" o "Fogape") enfocadas principalmente en la reactivación y recuperación de la economía en las actividades de los rubros priorizados (en adelante, "Fogape Chile Apoya").
 
 Salvo que se señale expresamente lo contrario, las licitaciones que lleve a cabo el Administrador del Fondo que no correspondan a Garantías Chile Apoya, se regirán por lo dispuesto en el Reglamento de Administración del Fondo de Garantía para Pequeños y Medianos Empresarios, emitido por la Comisión para el Mercado Financiero (en adelante, "CMF").
 
@@ -54,11 +54,15 @@ BENEFICIARIOS
 
 Personas Elegibles.
 
-Podrán optar a financiamientos con Garantías Chile Apoya las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 100.000 Unidades de Fomento (en adelante, "UF").
+Podrán optar a financiamientos con Garantías Chile Apoya las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 100.000 Unidades de Fomento (en adelante, "UF"), y que cumplan con alguna de las siguientes condiciones:
+
+a) Que registren al menos uno de los giros del listado de actividades económicas señaladas en el artículo 4 del presente reglamento, o;
+
+b) Que hayan sido afectadas por emergencias o catástrofes durante el año 2024 y que se encuentren incorporadas en los catastros a los que se refiere el artículo 4 bis del presente Reglamento.
 
 Tratándose de personas naturales y siempre que la operación de crédito de dinero sea por una suma igual o superior a 50 UF, no podrán optar a financiamientos con Garantías Chile Apoya aquellas personas que, al momento de efectuarse la consulta según lo dispuesto en el artículo 17, tengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos que regula la Ley Nº 21.389.
 
-Asimismo, para efectos de este Reglamento, se entenderán por empresas elegibles a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía Chile Apoya, de acuerdo con lo que se establece en el artículo 3 (en adelante, la(s) "Empresa(s) Elegible(s)-").
+Asimismo, para efectos de este Reglamento, se entenderán por empresas elegibles a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía Chile Apoya, de acuerdo con lo que se establece en los artículos 3, 4 y 4 bis (en adelante, la(s) "Empresa(s) Elegible(s)-").
 
 #### Artículo 3
 
@@ -68,13 +72,17 @@ Las ventas anuales a que se refiere el inciso primero del artículo 2, correspon
 
 i) En el año calendario 2021; o,
 
-ii) Entre el 1 de octubre de 2021 y el 30 de septiembre de 2022; o
+ii) En el año calendario 2022; o
 
-iii) En los doce meses inmediatamente anteriores a la fecha en que se otorgue el financiamiento.
+iii) En el año calendario 2023.
+
+iv) En los doce meses inmediatamente anteriores a la fecha en que se otorgue el financiamiento.
 
 La estimación de ventas, y su calificación como empresa o persona elegible, independiente de su naturaleza jurídica, deberá ser realizada por la institución financiera que otorga los financiamientos.
 
-El Administrador del Fogape podrá facilitar un mecanismo de consulta de elegibilidad, pudiendo para ello requerir al Servicio de Impuestos Internos ("SII") que proporcione información sobre los contribuyentes que permita la habilitación del mecanismo. La información proporcionada por el SII para los períodos i) y ii) señalados en el inciso primero de este artículo, será la información disponible a la fecha de publicación de este Reglamento. La información del período iii) del inciso primero de este artículo será proporcionada por el SII al Administrador Fogape con información disponible a la fecha de cada entrega, con una periodicidad no mayor a 3 meses, a contar de la fecha de publicación de este reglamento y durante todo el periodo dentro del cual pueden otorgarse financiamientos con Garantías Chile Apoya.
+El Administrador del Fogape podrá facilitar un mecanismo de consulta de elegibilidad, pudiendo para ello requerir al Servicio de Impuestos Internos ("SII") que proporcione información sobre los contribuyentes que permita la habilitación del mecanismo. El SII proporcionará la información disponible a la fecha de publicación del presente Reglamento para los años calendario 2021, 2022 y 2023.
+
+Para acceder a dicho mecanismo, la institución financiera deberá ingresar al sistema de información del Fondo, el cual informará el cumplimiento de los requisitos de elegibilidad definidos en el artículo 2 del presente reglamento. El resultado positivo de esta consulta bastará como acreditación suficiente de la elegibilidad de la empresa, la que tendrá una vigencia de un mes desde la fecha en que se realizó la consulta.
 
 Para acceder a dicho mecanismo, la institución financiera deberá ingresar al sistema de información del Fondo, el cual informará el tramo de ventas según datos del SII para los períodos de medición de ventas. El resultado positivo de esta consulta bastará como acreditación suficiente de la elegibilidad de la empresa, la que tendrá una vigencia de un mes desde la fecha en que se realizó la consulta.
 
@@ -82,7 +90,17 @@ Respecto de las empresas cuyas ventas netas anuales no excedan de 2.400 UF que n
 
 #### Artículo 4
 
-Eliminado.
+Actividades Económicas.
+
+Para efectos del cumplimiento del requisito establecidos en la letra a) del artículo 2 del presente reglamento, las personas naturales o jurídicas elegibles deberán tener registrado ante el Servicio de Impuestos Internos al 31 de diciembre de 2023 alguna de las siguientes actividades económicas:
+
+#### Artículo 4 bis
+
+Empresas afectadas por emergencias o catástrofes.
+
+Para efectos del cumplimiento del requisito establecido en la letra b) del artículo 2 del presente reglamento, las personas naturales o jurídicas elegibles deberán encontrarse incorporadas en alguno de los catastros de emergencia elaborados por el Ministerio de Economía, Fomento y Turismo o el Ministerio de Agricultura.
+
+Los Ministerios a los que se refiere el inciso anterior remitirán mensualmente al Administrador el listado de empresas afectadas por emergencias o catástrofes durante el 2024, para efectos de ser incorporadas en el mecanismo de consulta de elegibilidad al que se refiere el artículo 3 de este Reglamento.
 
 #### Artículo 5
 
@@ -126,13 +144,11 @@ El Administrador del Fondo deberá especificar en las Bases Fogape Chile Apoya d
 
 Asimismo, el Administrador del Fondo especificará el mecanismo de selección de las ofertas recibidas. En particular, el Administrador del Fondo podrá seleccionar las ofertas sobre la base de la tasa de utilización global de la garantía, ofrecida por las instituciones financieras participantes, o podrá dejar fija dicha tasa. Se entenderá por la tasa de utilización global de garantía, el porcentaje máximo del total de la cartera que cubrirá la Garantía Chile Apoya.
 
-Con todo, en las Bases Fogape Chile Apoya el Administrador del Fondo establecerá que el porcentaje del total de garantías a licitar para empresas cuyas ventas netas anuales no excedan 25.000 UF, no podrá ser menor al 70% del monto licitado, y para empresas cuyas ventas netas anuales no excedan de 2.400 UF, no podrá ser menor al 30% del monto licitado. El Administrador del Fondo deberá reportar semestralmente a la CMF los porcentajes asignados.
-
 #### Artículo 9
 
 Instituciones Financieras Elegibles.
 
-Podrán concurrir a estas Garantías Chile Apoya los bancos, incluyendo sus filiales, y las cooperativas de ahorro y crédito a que se refiere el inciso primero del artículo 87 de la Ley General de Cooperativas. También podrán participar las sociedades de garantía recíproca registradas y clasificadas en categoría "A", de conformidad con lo señalado en el artículo 18 de la ley 20.179.
+Podrán concurrir a estas Garantías Chile Apoya los bancos, incluyendo sus filiales, y las cooperativas de ahorro y crédito a que se refiere el inciso primero del artículo 87 de la Ley General de Cooperativas. También podrán participar las sociedades de garantía recíproca registradas y clasificadas en categoría "A", de conformidad con lo señalado en el artículo 18 de la ley 20.179, aunque estas últimas sólo para efectos de otorgar fianzas técnicas.
 
 #### Artículo 10
 
@@ -196,6 +212,8 @@ Las tasas de interés de los financiamientos con garantía Chile Apoya no podrá
 
 A mayor abundamiento, la Tasa de Política Monetaria (TPM) se encuentra disponible en la página web del Banco Central de Chile:
 
+La inflación esperada a 2 años plazo (23 meses) corresponde a la mediana según la última Encuesta de Expectativas Económicas disponible a la fecha de otorgamiento del crédito, disponible en la página web del Banco Central de Chile:
+
 Sin perjuicio de lo anterior, las tasas máximas antes mencionadas no se aplicarán para las operaciones de leasing ni para certificados de fianza. Tampoco aplicarán para los financiamientos otorgados por las cooperativas de ahorro y crédito a que se refiere el inciso primero del artículo 87 de la Ley General de Cooperativas.
 
 #### Artículo 17
@@ -208,7 +226,7 @@ Para hacer uso de los financiamientos con Garantía Chile Apoya, cada empresa de
 
 Cada institución financiera será responsable por la decisión de otorgar financiamientos garantizados, de acuerdo a los criterios establecidos en sus políticas internas de riesgo de crédito. Sin perjuicio de lo anterior, en caso resolver negativamente a una solicitud de financiamiento garantizado, la institución financiera deberá indicar al solicitante al menos una causal, dentro de las siguientes opciones:
 
-a) No cumplir con el criterio de elegibilidad por ventas establecido en el artículo 3.
+a) No cumplir con los criterios de elegibilidad establecidos en el artículo 2 del presente Reglamento.
 
 b) No cumplir con otros requisitos establecidos en el Reglamento. En este caso, se deberá indicar específicamente al solicitante el requisito que no cumple.
 
