@@ -58,7 +58,7 @@ Para los efectos del presente reglamento, se entiende por:
 
 - **m)** Permiso de Embarco: Documento que extiende la Dirección General a la persona que no tiene título profesional de oficial de Marina Mercante y que en forma ocasional debe desempeñar a bordo una función profesional, bajo las condiciones y circunstancias que determine este reglamento.
 
-- **n)** Tonelada: Debe entenderse referida al arqueo bruto, o al tonelaje de registro grueso, a falta del anterior. ñ) Potencia Propulsora: La potencia de B.H.P. de la máquina consignada en la certificación del registro o en otro documento oficial de la nave.
+- **n)** Arqueo bruto: Es la expresión del tamaño total de una nave; que se determina en base al volumen total de todos sus espacios cerrados. ñ) Potencia propulsora: La potencia en kilovatios consignada en la certificación del registro o en otro documento oficial, siendo esta la máxima que en conjunto tienen todas las máquinas propulsoras principales de la nave, en un servicio de régimen continuo.
 
 - **o)** Capacidad de tracción de remolcador: Es el equivalente a una tonelada de tracción por cada 100 B.H.P. de potencia.
 
@@ -69,6 +69,12 @@ Para los efectos del presente reglamento, se entiende por:
 - **r)** DEROGADA.-
 
 - **s)** DEROGADA.-
+
+- **t)** Nave especial: Aquella que se emplea en servicios, faenas o finalidades específicas, con características propias para la función a que está destinada.
+
+- **u)** Nave pesquera: Aquella nave especial utilizada exclusivamente para la actividad pesquera.
+
+- **v)** Buque fábrica o factoría: Es la nave que realiza faenas de pesca y efectúa a bordo procesos de transformación a las capturas, incluyendo en ellos la congelación de las mismas, en los términos definidos en el numeral 11) del artículo 2º de la Ley General de Pesca y Acuicultura.
 
 #### Artículo 3°
 
@@ -220,17 +226,13 @@ Los oficiales que quisieren extender su desempeño a otra región, deberán rend
 
 Asimismo, cuando el oficial haya permanecido más de 5 años fuera de una región para la cual tenía autorización, y deseare desempeñarse nuevamente en ella, deberá solicitar renovación de dicha autorización. En este caso, la Autoridad Marítima correspondiente le hará rendir nuevamente examen de conocimiento acerca de la región a la cual repostula.
 
-## Título II — (ARTS. 25-28)
+## Título II — (Arts. 25-28) De los oficiales de naves pesqueras o buques factorías. Clasificación de los oficiales.
 
-De los Oficiales de Naves Especiales. Clasificación
+#### Artículo 25º
 
-de los Oficiales
+Los oficiales de naves pesqueras o buques factorías se clasifican en:
 
-#### Artículo 25°
-
-Los oficiales de naves especiales se clasifican en:
-
-a) Oficiales de Pesca.
+a) Oficiales de Cubierta de Naves Pesqueras o buques factorías.
 
 1.- Patrón de Pesca de Alta Mar de Primera Clase, que se denominará Capitán de Pesca.
 
@@ -240,93 +242,129 @@ a) Oficiales de Pesca.
 
 4.- Patrón de Pesca Costero de Segunda Clase.
 
-b) Oficiales de Navegación Interior, Fluvial y Lacustre.
-
-1.- Patrón de Bahía.
-
-2.- Patrón Lacustre.
-
-3.- Patrón Fluvial.
-
-c) Oficiales de Máquinas.
+b) Oficiales de Máquinas de Naves Pesqueras o buques factorías.
 
 1.- Motorista Primero.
 
 2.- Motorista Segundo.
 
-De los Oficiales de Pesca. ARTICULO 26° Los requisitos para la obtención de títulos y las atribuciones de los oficiales de pesca son:
+#### Artículo 26º
 
-- **a)** Patrón de Pesca de Alta Mar de Primera Clase. Requisitos: 1.- Comprobar 48 meses de embarco en posesión y ejercicio del título de Patrón de Pesca de Alta Mar de Segunda Clase. 2.- Aprobar la Memoria Profesional, de conformidad con las normas establecidas en el presente reglamento. 3.- Aprobar las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales. Atribuciones: 1.- Mando de naves dedicadas a la pesca y de buques factorías, de cualquier tonelaje. 2.- Primer Oficial en nave de la Marina Mercante, previa aprobación de las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales.
+Los requisitos para la obtención de títulos y las atribuciones de los oficiales de naves pesqueras o buques factorías son:
 
-- **b)** Patrón de Pesca de Alta Mar de Segunda Clase. Requisitos: 1.- Comprobar 48 meses de embarco en posesión y ejercicio del título de Patrón de Pesca Costero de Primera Clase. 2.- Aprobar las asignaturas que fije el Reglamento de Exámenes para los Oficiales de la Marina Mercante Nacional y de Naves Especiales. Atribuciones: 1.- Mando de naves pesqueras de hasta 1.600 toneladas. 2.- Desempeño como Primer Oficial en buque factoría o nave pesquera de alta mar. Segundo Oficial en nave de la Marina Mercante Nacional, previa aprobación de las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales.
+a) Patrón de Pesca de Alta Mar de Primera Clase.
 
-- **c)** Patrón de Pesca Costero de Primera Clase. Requisitos: 1.- Comprobar 36 meses de embarco en posesión y ejercicio del título de Patrón de Pesca Costero de Segunda Clase. 2.- Aprobar las asignaturas que fije el Reglamento de Exámenes para los Oficiales de la Marina Mercante Nacional y de Naves Especiales. Atribuciones: 1.- Mando de naves pesqueras de hasta 800 toneladas, en navegación costera hasta una distancia máxima de 60 millas. 2.- Desempeño como Segundo Oficial en buques factorías o de pesca.
+Requisitos:
 
-- **d)** Patrón de Pesca Costero de Segunda Clase. Requisitos: 1.- Ser mayor de 18 años. 2.- Cumplir con uno de los siguientes requisitos: 2.1) Haber egresado de la especialidad de pesca, en universidades, escuelas o institutos con planes y programas de estudio reconocidos por la Dirección General, o 2.2) Estar en posesión del título de Patrón Regional, o 2.3) Comprobar 36 meses de embarco efectivo como Primer Pescador. 3.- Acreditar, en los casos 2.1) y 2.2) una práctica de seis meses de embarco en nave pesquera. 4.- Aprobar las asignaturas que fije el Reglamento de Exámenes para los Oficiales de la Marina Mercante Nacional y de Naves Especiales. Atribuciones: 1.- Mando de naves pesqueras de hasta 400 toneladas, en navegación costera hasta una distancia máxima de 60 millas. 2.- Desempeño como Oficial Guardiero en naves dedicadas a la pesca costera, de cualquier tonelaje. 3.- Como Patrón Regional, previa aprobación de las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales.
+1.- Acreditar 24 meses de embarco efectivo en posesión y ejercicio del título de Patrón de Pesca de Alta Mar de Segunda Clase.
+
+2.- Aprobar la memoria profesional, de conformidad con las normas establecidas en el presente Reglamento.
+
+3.- Aprobar las evaluaciones de competencia que establezca la Dirección General.
+
+Atribuciones:
+
+1.- Mando de naves pesqueras o buques factorías, sin restricciones de arqueo bruto y en cualquier tipo de navegación;
+
+2.- Desempeño hasta Primer Oficial en naves pesqueras o buques factorías, sin restricción de arqueo bruto y en cualquier tipo de navegación.
+
+b) Patrón de Pesca de Alta Mar de Segunda Clase.
+
+Requisitos:
+
+1.- Acreditar 24 meses de embarco efectivo en posesión y ejercicio del título de Patrón de Pesca Costero de Primera Clase.
+
+2.- Aprobar las evaluaciones de competencia que establezca la Dirección General.
+
+Atribuciones:
+
+1.- Mando de naves pesqueras o de buques factorías hasta 2.000 arqueo bruto y en cualquier tipo de navegación;
+
+2.- Desempeño hasta Primer Oficial en naves pesqueras o buques factorías sin restricción de arqueo bruto y en cualquier tipo de navegación.
+
+c) Patrón de Pesca Costero de Primera Clase:
+
+Requisitos:
+
+1.- Acreditar 24 meses de embarco efectivo en posesión y ejercicio del título de Patrón de Pesca Costero de Segunda Clase.
+
+2.- Aprobar las evaluaciones de competencia que establezca la Dirección General.
+
+Atribuciones:
+
+1.- Mando de naves pesqueras o buques factorías hasta 1.600 arqueo bruto, en navegación costera hasta una distancia máxima de 60 millas;
+
+2.- Desempeño hasta Segundo Oficial en naves pesqueras o buques factorías sin restricción de arqueo bruto, en navegación costera hasta una distancia máxima de 60 millas.
+
+d) Patrón de Pesca Costero de Segunda Clase.
+
+Requisitos:
+
+1.- Ser mayor de 18 años.
+
+2.- Cumplir con uno de los siguientes requisitos:
+
+2.1) Haber egresado de la especialidad de pesca, en universidades, escuelas o institutos con planes y programas de estudio reconocidos por la Dirección General, y acreditar una práctica de tres meses de embarco en naves pesqueras y/o buques factorías.
+
+2.2) Acreditar 36 meses de embarco efectivo como tripulante de cubierta de naves pesqueras y/o buques factorías.
+
+3.- Aprobar las evaluaciones de competencia que establezca la Dirección General.
+
+Atribuciones:
+
+1.- Mando de naves pesqueras o buques factorías hasta 1.000 arqueo bruto en navegación costera hasta una distancia máxima de 60 millas.
+
+2.- Desempeño como Segundo y Tercer Oficial en naves pesqueras o buques factorías, sin restricción de arqueo bruto, en navegación costera hasta una distancia máxima de 60 millas.
 
 #### Artículo 26 bis
 
 Facúltase al Director General para DS 823,DEF. autorizar a los Patrones de Pesca Costero de Primera Clase y Patrones de Pesca Costero de Segunda Clase, a que se refieren las letras c) y d) del artículo precedente, a extender la distancia de navegación más allá de las sesenta millas, previa aprobación de los cursos y exámenes que por resolución fundada de conformidad con la legislación nacional y los convenios internacionales vigentes en el país, determine la Dirección General del Territorio Marítimo y de Marina Mercante. Los Patrones de Pesca Costero de Segunda Clase deberán acreditar además dos años de embarco en dicha calidad.
 
-De los Oficiales de Navegación Interior, Fluvial y
-
-Lacustre.
-
 #### Artículo 27°
 
-Los requisitos para la obtención del título profesional y las atribuciones de los Oficiales de navegación Interior, Fluvial y Lacustre, son:
+Derogado.-
 
-a) Patrón de Bahía.
+De los Oficiales de Máquinas de Naves Pesqueras o Buques Factorías.
+
+#### Artículo 28º
+
+Los requisitos para la obtención de títulos y las atribuciones de los Oficiales de Máquinas de naves pesqueras o buques factorías son:
+
+a) Motorista Primero.
+
+Requisitos:
+
+1.- Acreditar 24 meses de embarco efectivo en posesión y ejercicio del título de Motorista Segundo.
+
+2.- Aprobar las evaluaciones que establezca la Dirección General.
+
+Atribuciones:
+
+1.- Desempeño a cargo de máquinas en naves pesqueras o buques factorías con potencia propulsora hasta 5.000 kilovatios.
+
+2.- Desempeño hasta Primer Oficial de máquinas de naves pesqueras o buques factorías sin limitación de kilovatios de potencia propulsora.
+
+b) Motorista Segundo.
 
 Requisitos:
 
 1.- Ser mayor de 18 años.
 
-2.- Comprobar a lo menos 36 meses de embarco como Contramaestre o 24 meses de embarco como Patrón Lacustre, Patrón Fluvial o Guardiero Regional, en posesión del respectivo título o matrícula, según sea el caso.
+2.- Haber aprobado el ciclo de enseñanza básica o estudios equivalentes, en establecimientos educacionales del Estado o reconocidos por este.
 
-3.- Aprobar las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales.
+3.- Poseer alternativamente algunos de los siguientes requisitos:
 
-Atribuciones:
+3.1) Haber efectuado satisfactoriamente un curso de mecánica en algún establecimiento especializado del Estado o reconocido por este y acreditar una práctica profesional de 3 meses de embarco.
 
-1.- Mando de remolcadores hasta una capacidad de 20 toneladas de tracción y de naves especiales hasta de 400 toneladas, ambas sólo en servicio de bahías.
+3.2) Ser tripulante general de máquinas de la Marina Mercante Nacional o de Naves Especiales y acreditar haber estado embarcado, a lo menos, 24 meses en esta plaza.
 
-2.- Desempeño como Guardiero Regional, sin ejercer mando de nave, siempre que compruebe 12 meses de embarco, a lo menos, como Patrón de Bahía.
-
-b) Patrón Fluvial o Lacustre.
-
-Requisitos:
-
-1.- Ser mayor de 18 años.
-
-2.- Comprobar a lo menos 24 meses de embarco como tripulante de cubierta en naves fluviales o lacustres.
-
-3.- Aprobar las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales.
+4.- Aprobar las evaluaciones de competencia que establezca la Dirección General.
 
 Atribuciones:
 
-Mando de Naves en los ríos o lagos para los cuales haya rendido examen.
+1.- Desempeño a cargo de máquinas en naves pesqueras o buques factorías con potencia propulsora de hasta 1.500 kilovatios.
 
-De los Oficiales de Máquinas de Naves Especiales. ARTICULO 28° Los requisitos para obtener el título y las atribuciones de los Oficiales de Máquinas de Naves Especiales son: a) Motorista Primero. Requisitos:
-
-- **1.-** Comprobar a lo menos 36 meses de embarco en posesión y ejercicio del título de motorista segundo.
-
-- **2.-** Aprobar las asignaturas que fije el Reglamento de Exámenes para los Oficiales de la Marina Mercante Nacional y de Naves Especiales. Atribuciones:
-
-- **1.-** Desempeño a cargo de máquinas en naves especiales con potencia propulsora de hasta 5.000 B.H.P. ART 1° n),
-
-- **2.-** Desempeño como oficial de guardia de máquinas de naves regionales de cabotaje con potencia propulsora de hasta 1.500 B.H.P. b) Motorista Segundo. Requisitos:
-
-- **1.-** Ser mayor de 18 años.
-
-- **2.-** Haber aprobado el ciclo de enseñanza básica o estudios equivalentes, en establecimientos educacionales del Estado o reconocidos por éste.
-
-- **3.-** Poseer algunos de los requisitos siguientes: 3.1) Haber efectuado satisfactoriamente un curso de mecánica en algún establecimiento especializado del Estado o reconocido por éste y acreditar una práctica profesional de 6 meses de embarco, o 3.2) Ser tripulante general de máquinas de la Marina Mercante Nacional o de Naves Especiales y acreditar haber estado embarcado, a lo menos, 24 meses en esta plaza.
-
-- **4.-** Aprobar las asignaturas que fije el Reglamento de Exámenes para Oficiales de la Marina Mercante Nacional y de Naves Especiales. Atribuciones:
-
-- **1.-** Desempeño a cargo de máquinas en naves especiales con potencia propulsora de hasta 1.500 B.H.P.
-
-- **2.-** Desempeño como oficial de guardia de máquinas de naves regionales de cabotaje con potencia propulsora de hasta 1.000 B.H.P.
+2.- Desempeño hasta Primer Oficial de máquinas de naves pesqueras o buques factorías con potencia propulsora hasta 5.000 kilovatios.
 
 ## Título III — (ARTS. 29-46)
 
@@ -378,15 +416,9 @@ Los abonos a que se refiere el artículo anterior serán otorgados por resoluci�
 
 De la Memoria Profesional.
 
-#### Artículo 33°
+#### Artículo 33º
 
-La Memoria Profesional deberá versar sobre un tema aprobado por la Dirección General y ella es requisito previo para obtener título de Capitán, de Ingeniero Jefe de Máquinas, de Operador General de Radiocomunicaciones y de Patrón de Pesca de Alta Mar de Primera Clase, según corresponda.
-
-Deberá presentarse a la Dirección General con, a lo menos, tres meses de anticipación a la fecha en que el postulante rinda examen.
-
-La memoria será escrita a máquina, con doble espacio, en papel oficio y con una extensión no inferior a 50 páginas.
-
-Contendrá un índice de materias y bibliografía, indicando asimismo si es traducción, síntesis, trabajo original o de otra naturaleza. Los términos técnicos se emplearán en castellano.
+La memoria profesional deberá versar sobre un tema aprobado por la Dirección General y ella es requisito previo para obtener título de Patrón de Pesca de Alta Mar de Primera Clase. Deberá presentarse a la Dirección General con, a lo menos, tres meses de anticipación a la fecha en que el postulante rinda examen. El Director General fijará por resolución las formalidades que deberá cumplir la memoria.
 
 #### Artículo 34°
 
@@ -458,47 +490,25 @@ Estos postulantes, excepto al título profesional de Patrón de Pesca de Alta Ma
 
 Los títulos de Oficiales de Pesca obtenidos en el exterior, podrán ser reconocidos como válidos, previo examen y cumplimiento de los requisitos que establezca la Dirección General. El reconocimiento se otorgará solo en casos de insuficiencia de Oficiales de Pesca debidamente calificada por el Director General.
 
-#### Artículo 41°
+#### Artículo 41º
 
-Las Comisiones Examinadoras para Oficiales de Naves Regionales y de Naves Especiales serán presididas por el Gobernador Marítimo respectivo y estarán integradas, además, de la siguiente manera:
+Las Comisiones Examinadoras serán presididas por el Gobernador Marítimo respectivo y estarán integradas por:
 
-a) Para Oficiales de Cubierta de Naves Regionales:
+a) Para Oficiales de Cubierta de Naves Pesqueras o Buques Factorías:
 
-1.- Un Inspector de Navegación y Maniobras de la Dirección General.
+1.- Un Inspector de Navegación y Maniobras.
 
-2.- Un oficial con el grado de Teniente 1°, a lo menos, y de la especialidad del Litoral.
+2.- Un Oficial con el grado de Teniente 1º, a lo menos, y de la especialidad del Litoral.
 
-3.- Un Patrón Regional.
+b) Para Oficiales de Máquinas de Naves Pesqueras o Buques Factorías:
 
-b) Para Oficiales de Navegación Interior, Fluvial o Lacustres:
+1.- Un Inspector de Máquinas.
 
-1.- Un Inspector de Navegación y Maniobras de la Dirección General.
-
-2.- Un Oficial de la especialidad del Litoral.
-
-3.- Un Oficial de naves de navegación interior, fluvial o lacustre, según sea el caso.
-
-c) Para Oficiales de Cubierta de Naves de Pesca:
-
-1.- Un Inspector de Navegación y Maniobras de la Dirección General.
-
-2.- Un Oficial con el grado de Teniente 1°, a lo menos, y de la especialidad del Litoral.
-
-3.- Un Oficial de naves de pesca, de mayor categoría que los postulantes.
-
-d) Para Oficiales de Máquinas de Naves Especiales:
-
-1.- Un Inspector de Máquinas de la Dirección General.
-
-2.- Un Oficial del Litoral, en la especialidad de Ingeniero Naval Mecánico.
-
-3.- Un Oficial de Máquinas de Naves Especiales, de mayor categoría que los postulantes.
+2.- Un Oficial especialista del área de ingeniería.
 
 #### Artículo 42°
 
 Para ser aprobado, el postulante deberá obtener en la escala de 1 a 10, una nota mínima de 5 en cada ramo del examen.
-
-Las materias que consulten examen "escrito y oral" la nota final será el promedio de ellas, pero el postulante que obtenga en el examen escrito una nota 2 o menos, se le considerará reprobado en dicha materia y no podrá rendir el examen oral.
 
 #### Artículo 43°
 
@@ -506,9 +516,9 @@ El postulante que reprobare en uno o dos ramos podrá repetir los exámenes pert
 
 Asimismo, el postulante que fuere reprobado en tres oportunidades, no podrá volver a presentarse a examen, quedando limitada su carrera al título profesional que detente.
 
-#### Artículo 44°
+#### Artículo 44º
 
-Los postulantes que deban rendir examen de repetición para oficiales de naves regionales y de naves especiales, lo harán en el mismo lugar de asiento de la Comisión Examinadora que los reprobó, con excepción de aquéllos que hayan legalizado su cambio de domicilio, quienes lo harán en la sede que corresponda a su nuevo domicilio.
+Los postulantes que deban rendir examen de repetición para oficiales de naves pesqueras, o buques factorías, lo harán en cualquier Gobernación Marítima autorizada del país.
 
 #### Artículo 45°
 
