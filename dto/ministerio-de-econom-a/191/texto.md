@@ -66,6 +66,8 @@ e) Almacenamientos de cilindros de gas licuado con capacidad igual o inferior a 
 
 4.- Instalaciones de Gas tipo 4.- Corresponden a las instalaciones donde se desarrollan, indistintamente, las actividades de recepción, preparación y almacenamiento de sustrato, producción, almacenamiento, tratamiento, transferencia, suministro y uso o consumo de biogás.
 
+5.- Instalaciones de Gas tipo 5.- Corresponden a las instalaciones donde se desarrollan, indistintamente, las actividades de producción, acondicionamiento, almacenamiento, transferencia, suministro, abastecimiento y consumo de hidrógeno.
+
 ## Título II
 
 DE LAS LICENCIAS
@@ -85,6 +87,8 @@ Las licencias de instaladores de gas se clasificarán de acuerdo al campo de acc
 1.3 Licencias Clase 3.- Los poseedores de estas licencias podrán diseñar, proyectar, ejecutar y/o mantener las instalaciones de gas tipo 3.
 
 1.4 Licencia Clase 4.- Los poseedores de estas licencias podrán diseñar, proyectar, ejecutar y/o mantener las instalaciones de gas tipo 4.
+
+1.5 Licencia Clase 5.- Los poseedores de estas licencias podrán diseñar, proyectar, ejecutar y/o mantener las instalaciones de gas tipo 5.
 
 2.- Requisitos para optar a las licencias de instaladores de gas
 
@@ -120,6 +124,12 @@ b) Certificado de aprobación de curso relacionado con el diseño y construcció
 
 c) Haber aprobado un examen de competencia ante la Superintendencia de Electricidad y Combustibles en materias de diseño y construcción u operación de instalaciones de biogás, de acuerdo al procedimiento técnico de competencias y de control que defina la Superintendencia. Este organismo podrá suscribir, de conformidad a la ley, un convenio en virtud del que una persona jurídica, de derecho público o privado, tomará el mencionado examen.
 
+2.5 Licencia Clase 5.
+
+a) Poseer el título de ingeniero civil o ingeniero de ejecución, conforme a lo indicado en el punto 2.1;
+
+b) Certificado de aprobación de curso relacionado con el diseño y construcción de instalaciones de hidrógeno o instalaciones equivalentes, entendiéndose por tales para estos efectos, instalaciones que almacenen y/o procesen gases inflamables a presión y/o líquidos criogénicos inflamables, con un mínimo de 27 horas cronológicas, impartido por una universidad, instituto profesional, centro de formación técnica, empresa de ingeniería u otro organismo o entidad que en su giro se encuentre la capacitación técnica, o bien, un certificado de experiencia laboral en materias de diseño y construcción u operación de instalaciones de hidrógeno o instalaciones equivalentes, emitido por empresas relacionadas con el diseño y construcción u operación de instalaciones de hidrógeno o instalaciones equivalentes, que respalden su experiencia de al menos un año en dichas materias.
+
 #### Artículo 5°
 
 Los postulantes a obtener la licencia clase 2, en los casos señalados en las letras a), c) y d) del número 2.2., deberán acreditar a la Superintendencia que sus estudios tendientes a obtener el título de instalador de gas, incluyen a lo menos las siguientes materias: Una formación teórica y práctica. En la parte teórica, ello comprenderá, a lo menos, las propiedades de los gases, así como los conceptos y leyes fundamentales relativos a la materia; los factores de conversión de unidades empleadas en instalaciones de gas al sistema internacional de medidas; aspectos fundamentales de la combustión; concepto y principios en lo relativo a la energía, al flujo de gas y presión, a la transferencia de calor, a la electricidad básica y a los materiales y procesos; conocimiento de los quemadores, de los reguladores de presión, medidores de gas, dispositivos de control de gas, herramientas y dispositivos de medición. Los estudios incluirán asimismo las disposiciones vigentes contenidas en leyes, reglamentos, normas técnicas y resoluciones de la Superintendencia, relativas a instalaciones de gas; los aspectos fundamentales de la prevención de riesgos y el proyecto y cálculo de centrales, redes de distribución de gas licuado en media presión para conjuntos habitacionales y edificios de más de 4 pisos, y de instalaciones interiores de gas en baja presión.
@@ -147,6 +157,8 @@ Los ingenieros civiles o ingenieros de ejecución, en especialidades diferentes 
 Los postulantes a obtener la licencia clase 2, en los casos señalados en las letras c) y d) del número 2.2. del artículo 4°, deberán asimismo acompañar documentos que acrediten el contenido de las materias incluidas en sus estudios.
 
 Los postulantes a obtener la licencia clase 4, deberán asimismo acompañar uno de los certificados indicados en la letra b) del punto 2.4 del artículo 4°.
+
+Los postulantes a obtener la licencia Clase 5, deberán asimismo acompañar uno de los certificados indicados en la letra b) del punto 2.5 del artículo 4º.
 
 Duración de las licencias
 
