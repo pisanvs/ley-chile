@@ -172,7 +172,7 @@ b. La empresa constructora en conjunto con la EP, deberán informar a copropieta
 
 s. Dando cumplimiento a lo establecido en el artículo 38, del DS Nº 27 (V. y U.), de 2016, al inicio de las obras, se deberá contar con una Fiscalización Técnica de Obras (FTO). Los profesionales encargados de realizar estas actividades, así como aquellos encargados de realizar las actividades correspondientes a las labores de Asistencia Técnica de "Gestión Legal y Social de proyectos", no podrán atender simultáneamente a un número mayor a 350 familias.
 
-Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el Representante Legal del grupo postulante o el presidente del Comité de Administración del Condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu Metropolitano. Para el último pago de las obras, se exigirá un Acta de Conformidad de Término de Obras emitida por esta Seremi.
+Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el Representante Legal del grupo postulante o el presidente del Comité de Administración del Condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el SERVIU Metropolitano.
 
 En el caso de Proyectos de Ampliación de la Vivienda, dicho pago se verificará una vez acompañado el certificado de recepción municipal. Además, se entenderán por terminadas las labores de Asistencia Técnica referidas a "Gestión Legal y Asesoría para la Recepción de Obras" y "Gestión Técnica y Social de Proyectos", cuando se inscriban en el Conservador de Bienes Raíces:
 
@@ -186,7 +186,7 @@ Excepcionalmente, mediante resolución fundada, el Serviu Metropolitano, podrá 
 
 t. Los anticipos sin avance de obras y contra avance de obras serán de acuerdo a lo establecido en el artículo 54 del DS Nº 27 (V. y U.), de 2016.
 
-u. Los productos de asistencia técnica y social asociada a la Ley de Copropiedad Inmobiliaria corresponderán a los señalados en el numeral 7, del literal c) "Gestión Técnica Social y Legal de Proyectos", que forma parte del cuadro Nº 1, inserto en el apartado "Capítulo Tercero: Proyectos para Condominios de Vivienda" en la resolución exenta Nº 1.237, singularizada en el Visto 6 de la presente resolución exenta. Se establece diferenciación en los productos de asistencia técnica y social asociada a la Ley de Copropiedad Inmobiliaria, para los condominios con segunda selección o posterior. Para los pagos de asistencia técnica asociados a la Ley de Copropiedad Inmobiliaria, se exigirá un Acta de Conformidad emitida por esta Seremi.
+u. Los productos de asistencia técnica y social asociada a la Ley de Copropiedad Inmobiliaria corresponderán a los señalados en el numeral 7, del literal c) "Gestión Técnica Social y Legal de Proyectos", que forma parte del cuadro N°1, inserto en el apartado "Capítulo Tercero: Proyectos para Condominios de Vivienda" en la Resolución Exenta N°1.237, singularizada en el Visto 6 de la presente Resolución Exenta. Se establece diferenciación en los productos de asistencia técnica y social asociada a la Ley de Copropiedad Inmobiliaria, para los condominios con segunda selección o posterior.
 
 El detalle de estos productos se adjunta en Anexo 2 de la presente resolución exenta de llamado.
 
@@ -195,5 +195,7 @@ v. Los montos de Asistencia Técnica, procedimientos e hitos de pago, serán aqu
 w. La Seremi, en coordinación con el Serviu Metropolitano, tendrán la facultad de conocer y verificar todos los procedimientos realizados por las EP en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
 
 2°. Establecer, que en todo aquello no indicado expresamente por la presente resolución exenta del llamado, deberá aplicar lo dispuesto en la resolución exenta Nº 380 (V. y U.), de 2022, singularizada en el Visto 14, de la presente resolución exenta, y el DS Nº 27 (V. y U.), de 2016.
+
+> **Nota.** El Nº 2 de la Resolución 799 Exenta, Vivienda, publicada el 27.06.2024, modifica el inciso segundo de la letra u. del Nº 1 de la presente norma en el sentido de reemplazar su texto por el que indica. Sin embargo, los textos no coinciden con el citado inciso segundo, sino con los del inciso primero, razón por la cual se ha reemplazado dicha parte.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rocío Andrade Castro, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo.

@@ -200,7 +200,7 @@ En caso de que las Entidades Patrocinantes estimen una aplicación errónea de l
 
 21. Dando cumplimiento a lo establecido en el Artículo 38 del DS Nº 27 (V. y U.), de 2016, al inicio de las obras, deberá contar con una FTO. Los profesionales encargados de realizar estas actividades, así como aquellos encargados de realizar las actividades correspondientes a las labores de Asistencia Técnica de "Gestión Legal y Social de Proyectos", no podrán atender simultáneamente a un número mayor a 350 familias.
 
-Los pagos de asistencia técnica y ejecución de obras serán realizados contra Actas de Conformidad firmadas por el Presidente del Comité de Administración del condominio, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu. Para el último pago de las obras, se exigirá un Acta de Conformidad emitida por esta Secretaría Regional de Vivienda y Urbanismo.
+Los Pagos de Asistencia técnica y ejecución de obras serán realizadas contra Acta de conformidad firmadas por el presidente del Comité de Administración del condominio, junto a los informes de pagos y antecedentes requeridos y aprobados por el SERVIU.
 
 En el caso de proyectos de Proyectos de Ampliación de la vivienda, dicho pago se verificará una vez acompañado el certificado de recepción municipal. Además, se entenderán por terminadas las labores de Asistencia Técnica referidas a "Gestión Legal y Asesoría para la Recepción de Obras" y "Gestión Técnica y Social de Proyectos", cuando se inscriban en el Conservador de Bienes Raíces:
 
@@ -230,7 +230,7 @@ d) El pago final se efectuará una vez sea acreditado el término de los servici
 
 .
 
-Los honorarios correspondientes a la tabla precedente se pagarán según lo establecido resolución Nº 1.237 (V. y U.), de 2019, una vez que Serviu verifique la realización y cumplimiento de la totalidad de los servicios que establezca el llamado a postulación, previo de Oficio de la Seremi que exprese la conformidad de cumplimiento de la totalidad de componentes descritos en este resuelvo.
+Los honorarios correspondientes a la tabla precedente se pagarán según lo establecido en la Resolución N° 1237 (V. y U.), de 2019, una vez que SERVIU verifique la realización y cumplimiento de la totalidad de los servicios que establezca el llamado a postulación.
 
 24. Los montos de Asistencia Técnica, procedimientos e hitos de pago, serán aquellos establecidos en la resolución Nº 1.237 (V. y U.), de 2019.
 
