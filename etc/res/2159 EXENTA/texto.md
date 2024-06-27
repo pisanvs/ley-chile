@@ -8,39 +8,61 @@ R e s u e l v o:
 
 2.- Incorpóranse a la nómina que por la presente resolución se establece, a los fabricantes o proveedores de taxímetros que han acreditado que el taxímetro cuyo tipo y modelo se indica, cumple con los requisitos estipulados en el artículo 1º de la resolución Nº 46 de 1993, en su texto fijado por la resolución Nº 22 de 1999, ya citada:
 
-Fabricante : Industria Electrónica Eko-Maiko Limitada.
+Fabricante : Industria Electrónica
 
-Dirección : Rengo 538, Ñuñoa, Santiago, Chile. Teléfono: 2-2205-2115.
+Eko-Maiko Limitada.
 
-Marca y modelo del Taxímetro: Eko-Maiko, modelo EM-800.
+Dirección : Rengo 538, Ñuñoa, Santiago,
 
-Código de Acreditación: 3CV-ATX-EM-EM8-2014-001.
+Chile. Teléfono: 2-2205-2115.
 
-Fabricante : Pablo Freymuth Fuentes.
+Marca y : Eko-Maiko, modelo EM-800.
+
+modelo del
+
+Taxímetro
+
+Código de : 3CV-ATX-EM-EM8-2014-001.
+
+Acreditación
+
+Fabricante : Industria Electrónica
+
+Eko-Maiko Limitada.
+
+Dirección : Rengo 538, Ñuñoa,
+
+Santiago, Chile.
+
+Teléfono : +562-2205-2115.
+
+Marca y : Eko-Maiko, modelo
+
+modelo del EM-800.
+
+Taxímetro
+
+Código de : 3CV-ATX-EM-EM8-2023-004.
+
+Acreditación
+
+Fabricante : Sociedad Comercial Freymuth
+
+e Hijos Ltda.
 
 Dirección : Salomón Sack 914, Independencia,
 
 Santiago, Chile.
 
-Teléfono: +562-2401-5246.
+Teléfono : +562-2401-5246; +569-9139-2697.
 
-Marca y modelo del
+Taxímetro : Marca Clinitaxi, modelo
 
-Taxímetro : Clinitaxi, modelo Metrix F-185
+Metrix F-185.
 
-Código de Acreditación : 3CV-ATX-CN-MF1-2018-003.
+Código de : 3CV-ATX-CN-MF1-2024-005.
 
-Fabricante : Industria Electrónica Eko-Maiko Limitada.
-
-Dirección : Rengo 538, Ñuñoa, Santiago, Chile.
-
-Teléfono : +562-2205-2115.
-
-Marca y modelo del
-
-Taxímetro : Eko-Maiko, modelo EM-800.
-
-Código de Acreditación : 3CV-ATX-EM-EM8-2023-004.
+Acreditación
 
 Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
