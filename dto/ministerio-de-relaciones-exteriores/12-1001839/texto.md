@@ -144,109 +144,133 @@ PREÁMBULO
 
 El Gobierno de la República de Chile y el
 
-Gobierno de la República del Perú, en adelante "las
+Gobierno de la República del Perú, en adelante
 
-Partes", considerando:
+"las Partes", considerando:
 
-La voluntad de estrechar los lazos especiales de
+La voluntad de estrechar los lazos
 
-amistad, solidaridad y cooperación entre sus pueblos;
+especiales de amistad, solidaridad y
+
+cooperación entre sus pueblos;
 
 El desarrollo de sus respectivos derechos y
 
-obligaciones derivados del Acuerdo de Marrakech por
+obligaciones derivados del Acuerdo de Marrakech
 
-el que se establece la Organización Mundial del
+por el que se establece la Organización Mundial
 
-Comercio y del Tratado de Montevideo 1980, así como
+del Comercio y del Tratado de Montevideo 1980,
 
-de otros instrumentos bilaterales y multilaterales de
+así como de otros instrumentos bilaterales y
 
-integración y cooperación de los que sean Parte;
+multilaterales de integración y cooperación
 
-La necesidad de fortalecer el proceso de
+de los que sean Parte;
 
-integración de América Latina, a fin de alcanzar los
+La necesidad de fortalecer el proceso
 
-objetivos previstos en el Tratado de Montevideo 1980,
+de integración de América Latina, a fin de
 
-mediante la concertación de acuerdos bilaterales y
+alcanzar los objetivos previstos en el
+
+Tratado de Montevideo 1980, mediante
+
+la concertación de acuerdos bilaterales y
 
 multilaterales lo más amplios posibles;
 
-La participación activa de Chile y el Perú en la
+La participación activa de Chile
 
-Asociación Latinoamericana de Integración (ALADI),
+y el Perú en la Asociación Latinoamericana
 
-así como en el Foro de Cooperación Económica Asia-
+de Integración (ALADI), así como en el
+
+Foro de Cooperación Económica Asia-
 
 Pacífico (APEC);
 
-La participación del Perú en el Acuerdo de
+La participación del Perú en el
 
-Cartagena y los compromisos que de él se derivan para
+Acuerdo de Cartagena y los compromisos
 
-este país;
+que de él se derivan para este país;
 
-Los diferentes esfuerzos de revitalización de la
+Los diferentes esfuerzos de
 
-integración en el continente americano, que muestran
+revitalización de la integración
 
-la necesidad de la complementación económica-
+en el continente americano, que muestran
 
-comercial orientada a cimentar un regionalismo
+la necesidad de la complementación
 
-abierto, que se inserte eficientemente en un mundo
+económica- comercial orientada a
 
-globalizado y con iniciativas de regionalización en
+cimentar un regionalismo abierto,
 
-otras latitudes;
+que se inserte eficientemente en un mundo
 
-La necesidad de alcanzar un mejor equilibrio en
+globalizado y con iniciativas de
 
-sus relaciones comerciales;
+regionalización en otras latitudes;
 
-Las coincidencias de la apertura económica y
+La necesidad de alcanzar un
 
-comercial de ambos países, tanto en materia
+mejor equilibrio en sus relaciones
 
-arancelaria como en la eliminación de restricciones
+comerciales;
 
-no-arancelarias y en las orientaciones básicas de sus
+Las coincidencias de la apertura
 
-políticas económicas;
+económica y comercial de ambos países,
 
-Las ventajas de ofrecer a los agentes económicos
+tanto en materia arancelaria como en
 
-reglas claras y predecibles para el desarrollo del
+la eliminación de restricciones
 
-comercio de mercancías y servicios, como para el
+no-arancelarias y en las orientaciones
 
-flujo de las inversiones;
+básicas de sus políticas económicas;
 
-La trascendencia que para el desarrollo
+Las ventajas de ofrecer a los
 
-económico de ambas Partes tiene una adecuada
+agentes económicos reglas claras y
 
-cooperación en las áreas productivas de mercancías y
+predecibles para el desarrollo del
+
+comercio de mercancías y servicios,
+
+como para el flujo de las inversiones;
+
+La trascendencia que para el
+
+desarrollo económico de ambas Partes
+
+tiene una adecuada cooperación en
+
+las áreas productivas de mercancías y
 
 servicios;
 
-La conveniencia de lograr una participación más
+La conveniencia de lograr una
 
-activa de los agentes económicos de ambos países;
+participación más activa de los agentes
 
-La creación de nuevas oportunidades de empleo, la
+económicos de ambos países;
 
-mejora de las condiciones laborales y de los niveles
+La creación de nuevas oportunidades
+
+de empleo, la mejora de las condiciones
+
+laborales y de los niveles
 
 de vida en sus respectivos territorios;
 
-Emprender todo lo anterior de manera congruente
+Emprender todo lo anterior de manera
 
-con la protección y la conservación del
+congruente con la protección y la
 
-medioambiente;
+conservación del medioambiente;
 
 Convienen en celebrar el siguiente Acuerdo,
 
@@ -1630,87 +1654,139 @@ Requisitos Específicos de Origen.
 
 #### Artículo 4
 
-7: De la Expedición, Transporte y
+7: De la Expedición, Transporte
 
-Tránsito de las Mercancías
+y Tránsito de las Mercancías
 
-1. Para que las mercancías se beneficien de los
+1. Para que las mercancías originarias
 
-tratamientos preferenciales, éstas deberán
+se beneficien del trato arancelario
 
-haber sido expedidas directamente de la Parte
+preferencial, estas deberán haber
 
-exportadora a la Parte importadora. A tal fin,
+sido expedidas directamente de
 
-se considera expedición directa:
+la Parte exportadora a la Parte
 
-(a) las mercancías transportadas sin pasar por
+importadora. A tal fin, se
 
-territorio de algún país no Parte;
+considera expedición directa:
 
-(b) las mercancías en tránsito, a través de
+(a) las mercancías transportadas
 
-uno o más países no Parte, con o sin
+sin pasar por el territorio
 
-transbordo o almacenamiento temporal,
+de algún país no Parte;
 
-bajo la vigilancia de la autoridad
+(b) las mercancías en tránsito,
 
-aduanera del país transitado, siempre
+a través de uno o más
 
-que
+países no Parte, con o
 
-(i) el tránsito estuviera justificado
+sin transbordo o almacenamiento
 
-por razones geográficas o
+temporal, bajo el control de
 
-consideraciones relativas a
+la autoridad aduanera del
 
-requerimientos de transporte,
+país o de los países no Parte,
 
-(ii) no estuvieran destinadas al
+siempre que no sufran durante
 
-comercio, uso o empleo en el país
+su transporte o almacenamiento
 
-de tránsito, y
+ninguna operación distinta a
 
-(iii)no sufran, durante su transporte o
+la carga, descarga,
 
-depósito, ninguna operación
+fraccionamiento o manipuleo
 
-distinta a la carga, descarga o
+para mantenerlas en buenas
 
-manipuleo para mantenerlas en
-
-buenas condiciones o asegurar su
+condiciones o asegurar su
 
 conservación.
 
-En caso que las mercancías sean depositadas,
+2. Para los efectos de lo
 
-podrán permanecer almacenadas por un plazo
+dispuesto en el párrafo 1(b),
 
-máximo de 6 meses, contado desde el ingreso de
+la autoridad aduanera de la
 
-las mercancías al país de tránsito no Parte.
+Parte importadora podrá
 
-2. Para los efectos de lo dispuesto en el párrafo
+solicitar los siguientes
 
-1(b), el importador de las mercancías, a
+documentos, que deberán
 
-solicitud de la autoridad aduanera de la Parte
+ser presentados por el
 
-importadora, deberá entregar una copia de
+importador:
 
-cualquier documento de control aduanero que, a
+(a) documentos de transporte,
 
-satisfacción de dicha autoridad aduanera,
+tales como la guía aérea,
 
-indique que la mercancía permaneció bajo la
+el conocimiento de
 
-supervisión aduanera del país transitado, en el
+embarque o la carta de
 
-territorio del país no Parte.
+porte, según sea el caso,
+
+cuando las mercancías
+
+realicen tránsito, con
+
+o sin transbordo, pero
+
+sin almacenamiento
+
+temporal por el
+
+territorio de uno o
+
+más países no Parte.
+
+(b) documentos de transporte,
+
+tales como la guía aérea,
+
+el conocimiento de
+
+embarque o la carta de
+
+porte, según sea el caso,
+
+y documentos emitidos
+
+por la autoridad aduanera
+
+u otra entidad competente
+
+que de conformidad con
+
+la legislación del país
+
+o de los países no Parte
+
+acrediten el almacenamiento
+
+de las mercancías, cuando
+
+las mercancías realicen
+
+tránsito, con o sin
+
+transbordo, por el
+
+territorio de uno o
+
+más países no Parte,
+
+con almacenamiento
+
+temporal.
 
 #### Artículo 4
 
@@ -1890,13 +1966,15 @@ registrados en la Secretaría General de la
 
 ALADI.
 
-8. Las modificaciones que se operen en dichos
+8. Las modificaciones que se operen en
 
-registros entrarán en vigor en el plazo de 30
+dichos registros entrarán en vigor
 
-días, contados desde la fecha de comunicación a
+en el plazo de 15 días, contados
 
-la Secretaría General de la ALADI.
+desde la fecha de comunicación a
+
+la Secretaria General de la ALADI
 
 9. El certificado de origen deberá ser emitido
 
