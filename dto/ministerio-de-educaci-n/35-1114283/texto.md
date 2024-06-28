@@ -32,7 +32,7 @@ NORMAS GENERALES
 
 #### Artículo 1°
 
-El presente reglamento, regula los procedimientos, plazos y todas las demás normas necesarias para la implementación de la ley N° 20.976, que Permite a los Profesionales de la Educación que Indica, entre los años 2016 y 2024, Acceder a la Bonificación por Retiro Voluntario Establecida en la ley N° 20.822.
+El presente reglamento, regula los procedimientos, plazos y todas las demás normas necesarias para la implementación de la ley N° 20.976.
 
 #### Artículo 2°
 
@@ -42,9 +42,9 @@ Podrán acceder a la bonificación por retiro voluntario establecida en la ley N
 
 Para efectos de este reglamento se entenderá por:
 
-a) Ley: Ley N° 20.976, que Permite a los Profesionales de la Educación que Indica, entre los años 2016 y 2024, Acceder a la Bonificación por Retiro Voluntario Establecida en la ley N° 20.822.
+a) Ley: Ley Nº 20.976.
 
-b) Leyes: Referencia conjunta a la Ley N° 20.976, que Permite a los Profesionales de la Educación que Indica, entre los años 2016 y 2024, Acceder a la Bonificación por Retiro Voluntario Establecida en la Ley N° 20.822, y a la ley N° 20.822, que Otorga a los Profesionales de la Educación que Indica, una Bonificación por Retiro Voluntario.
+b) Leyes: Referencia conjunta a la ley Nº 20.976 y a la ley Nº 20.822.
 
 c) Entidades empleadoras o "empleador": Municipalidades, corporaciones sin fines de lucro creadas por éstas para administrar la educación municipal, también denominadas corporaciones municipales, y administradores de establecimientos educacionales, cuya administración fue delegada en virtud del decreto ley N° 3.166, de 1980.
 
@@ -72,7 +72,7 @@ Para acceder a esta bonificación, los profesionales de la educación que se des
 
 1) Haber cumplido 60 o más años de edad, si son mujeres, y 65 o más años de edad, si son hombres antes del 1° de enero de 2016, o
 
-2) Cumplir 60 años de edad si son mujeres, y 65 años de edad si son hombres entre el 1° de enero de 2016 y el 30 de junio de 2024, ambas fechas inclusive.
+2) Cumplir 60 años de edad si son mujeres, y 65 años de edad si son hombres entre el 1° de enero de 2016 y el 31 de diciembre de 2025, ambas fechas inclusive.
 
 #### Artículo 6°
 
@@ -84,7 +84,7 @@ En ambos casos, los años de servicio o fracción superior a seis meses se consi
 
 #### Artículo 7°
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 20.000 profesionales de la educación, distribuidos de acuerdo con la siguiente tabla de cupos anuales:
+Podrán acceder a la bonificación por retiro voluntario hasta un total de 24.500 profesionales de la educación, distribuidos de acuerdo con la siguiente tabla de cupos anuales:
 
 Año Cupos
 
@@ -104,9 +104,11 @@ Año Cupos
 
 2023 2.300
 
-2024 2.300
+2024 3.000
 
-Total 20.000
+2025 3.800
+
+Total 24.500
 
 Los cupos que no hubieren sido utilizados entre los años 2016 al 2018, ambos incluidos, incrementarán los del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
 
@@ -118,9 +120,9 @@ Los profesionales de la educación que presten servicios en las instituciones se
 
 #### Artículo 9°
 
-Para la asignación de los cupos dispuestos en el artículo 7°, correspondientes a los años 2016 a 2024, se abrirán nueve procesos de postulación, uno por cada año. El procedimiento para la asignación de cupos del año 2016 se regirá por lo dispuesto en el artículo segundo transitorio del reglamento.
+Para la asignación de los cupos dispuestos en el artículo 7°, correspondientes a los años 2016 a 2025, se abrirán diez procesos de postulación, uno por cada año. El procedimiento para la asignación de cupos del año 2016 se regirá por lo dispuesto en el artículo segundo transitorio del reglamento.
 
-Las postulaciones correspondientes al segundo proceso, se efectuarán entre el 1° de diciembre de 2017 y el 1° de julio de 2018. Por su parte, las postulaciones correspondientes a los siete procesos siguientes, se realizarán entre el 1° de diciembre de cada año y el 1° de julio del año siguiente.
+Las postulaciones correspondientes al segundo proceso, se efectuarán entre el 1° de diciembre de 2017 y el 1° de julio de 2018. Por su parte, las postulaciones correspondientes a los ocho procesos siguientes, se realizarán entre el 1° de diciembre de cada año y el 1° de julio del año siguiente.
 
 En enero de cada año, la Subsecretaría de Educación fijará por resolución, los plazos de tramitación del proceso que corresponda a dicho año, estableciendo entre otros:
 
@@ -142,7 +144,7 @@ a) Los hombres profesionales de la educación deberán postular en el proceso co
 
 b) Las mujeres profesionales de la educación deberán postular a partir del año en que cumplan 60 años de edad y hasta el proceso correspondiente al año en que cumplan los 65 años de edad.
 
-Con todo, deberán postular para el último proceso, las mujeres profesionales de la educación que cumplan 60 y hasta 65 años de edad entre el 1° de enero y el 30 de junio de 2024, las que, en caso de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria entre el 1° de enero y el 1° de marzo siguiente a la comunicación de que accedieron a un cupo.
+Con todo, deberán postular para el último proceso, las mujeres profesionales de la educación que cumplan 60 y hasta 65 años de edad entre el 1° de enero y el 31 de diciembre de 2025, las que, en caso de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria entre el 1° de enero y el 1° de marzo siguiente a la comunicación de que accedieron a un cupo.
 
 #### Artículo 11
 
@@ -184,7 +186,7 @@ El empleador deberá remitir la postulación entregada por el profesional de la 
 
 a) Decretos de nombramiento y de designaciones; contratos de trabajo y anexos de contrato de trabajo, y demás documentos que den cuenta de la continuidad y vigencia de la relación laboral, jornada laboral y cargo;
 
-b) Copia de certificado de diagnóstico médico de enfermedad terminal, de una institución de salud, si lo hubiere, y;
+b) Suprimido.
 
 c) Certificado que señale el número de días de licencias médicas cursadas en los 24 meses inmediatamente anteriores al inicio del respectivo periodo de postulación, si las tuviere.
 
@@ -206,9 +208,9 @@ En el caso de haber un mayor número de postulantes que cupos disponibles en un 
 
 a) Aquellos con un mayor número de días por sobre la edad legal para pensionarse por vejez al 31 de diciembre del año del respectivo proceso de postulación;
 
-b) En caso de igualdad, aquellos respecto de quienes se acredite algún diagnóstico de enfermedad terminal, resguardando la protección de datos personales, según lo establece la ley N° 19.628;
+b) Suprimido.
 
-c) De persistir la igualdad, se priorizará, según el mayor número de días de licencias médicas cursadas durante los veinticuatro meses inmediatamente anteriores al inicio del respectivo período de postulación, y;
+c) En caso de igualdad, se priorizará, según el mayor número de días de licencias médicas cursadas durante los veinticuatro meses inmediatamente anteriores al inicio del respectivo período de postulación, y;
 
 d) Finalmente, aquellos con mayor número de años de servicio en la institución empleadora a la fecha de inicio de las postulaciones al respectivo proceso de postulación.
 
@@ -283,6 +285,8 @@ Desde la asignación del cupo y durante el tiempo que media hasta el pago total 
 - **m)** del artículo 72 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, o aquellas del artículo 160 del Código del Trabajo según corresponda, la que deberá ser debidamente acreditada. Respecto de la causal del literal
 
 - **f)** del artículo 72 referido, se estará a lo dispuesto en el Título IV de este reglamento.
+
+Con todo, el trabajador podrá solicitar que se ponga término a la relación laboral por causa justificada, aprobada por el empleador, desde el momento en que se le notifique la resolución que le asigna el cupo. En este caso, el empleador deberá informar dicha situación al Ministerio de Educación, el que determinará la fecha en que se pagarán los beneficios correspondientes a la bonificación por retiro voluntario. Durante el período entre que se pone término a la relación laboral y el pago efectivo de la bonificación, el trabajador no percibirá remuneración alguna.
 
 #### Artículo 26
 
