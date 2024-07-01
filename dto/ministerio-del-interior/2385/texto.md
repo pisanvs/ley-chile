@@ -26,6 +26,24 @@ El pago así efectuado, extinguirá la obligación pertinente hasta el monto de 
 
 Para los efectos del presente artículo, las municipalidades podrán percibir, mediante medios electrónicos, directamente o mediante convenios celebrados con terceros, el pago de los ingresos o rentas municipales que les corresponda cobrar por sí mismas.
 
+#### Artículo 2 bis
+
+Las municipalidades estarán facultadas para celebrar convenios de colaboración con el Servicio de Tesorerías para que éste recaude y cobre administrativa y judicialmente los ingresos o rentas municipales respectivas.
+
+La celebración del convenio de colaboración permitirá al Tesorero General de la República realizar las siguientes acciones:
+
+a) Declarar incobrables los ingresos o rentas municipales morosas de la municipalidad respectiva que se hubieren girado, que correspondan a deudas semestrales de monto no superior al diez por ciento de una unidad tributaria mensual, siempre que hubiere transcurrido más de un semestre desde la fecha en que se hicieron exigibles.
+
+El Tesorero General de la República declarará la incobrabilidad de los ingresos o rentas municipales morosas a que se refiere el párrafo anterior, de acuerdo con los antecedentes proporcionados por la unidad encargada de la administración y finanzas de la municipalidad respectiva, y procederá a la eliminación de los giros u órdenes respectivos. La nómina de deudores incobrables se remitirá a la Contraloría General de la República.
+
+b) Condonar total o parcialmente los intereses y sanciones por la mora en el pago de los ingresos o rentas municipales morosas sujetas a la cobranza administrativa y judicial de dicho servicio, mediante normas o criterios objetivos y de general aplicación, con estricta sujeción a las políticas de condonación fijadas conforme al artículo 207 del Código Tributario.
+
+c) Realizar el cobro judicial de los derechos de aseo en conformidad a las normas contenidas en el Título V del Libro III del Código Tributario, sin perjuicio de lo señalado en el inciso primero del artículo 47 de esta ley.
+
+En el evento que las municipalidades celebren con el Servicio de Tesorerías el convenio de colaboración indicado en el inciso primero, no podrán percibir ni cobrar los ingresos y rentas municipales en conformidad a lo dispuesto en el artículo 2. Tampoco podrán celebrar convenios destinados al pago de los indicados ingresos y rentas municipales ni condonar las multas e intereses producidos por el no pago de aquellos.
+
+La Subsecretaría de Desarrollo Regional y Administrativo deberá prestar su colaboración al Servicio de Tesorerías con el objetivo de coordinar con las municipalidades el adecuado funcionamiento de los convenios celebrados en conformidad a este artículo.
+
 ## Título II
 
 Del producto de los bienes municipales
@@ -67,6 +85,8 @@ Las municipalidades podrán, a su cargo, rebajar una proporción de la tarifa o 
 Con todo, quedarán exentos automáticamente de dicho pago aquellos usuarios cuya vivienda o unidad habitacional a la que se otorga el servicio tenga un avalúo fiscal igual o inferior a 225 unidades tributarias mensuales.
 
 El monto real de la tarifa de aseo se calculará en unidades tributarias mensuales al 31 de octubre del año anterior a su entrada en vigencia y regirá por un período de tres años. Sin embargo, podrá ser recalculada, conforme a las variaciones objetivas en los ítem de costos, y según se establezca en las ordenanzas a que se refiere el inciso segundo, antes de finalizar dicho plazo, pero no más de una vez en el lapso de doce meses.
+
+En el evento que una municipalidad celebre el convenio de colaboración señalado en el inciso segundo del artículo 2, estará obligada a remitir al Servicio de Tesorerías y a la Subsecretaría de Desarrollo Regional y Administrativo, antes del 30 de noviembre de cada año, una actualización de la información establecida en el presente artículo.
 
 #### Artículo 8º
 
@@ -489,6 +509,8 @@ Llámanse derechos municipales las prestaciones que están obligadas a pagar a l
 Entre otros servicios, concesiones o permisos por los cuales están facultadas las municipalidades para cobrar derechos, se contemplan especialmente los siguientes:
 
 1.- Los que se prestan u otorgan a través de la unidad a cargo de obras municipales, relativos a urbanización y construcción y que se regulan, en cuanto a su naturaleza y monto de las prestaciones exigibles, por la ley general del ramo, su ordenanza general y las ordenanzas locales. Las tasas de los derechos establecidas en el primero de los textos citados son las máximas que pueden cobrarse pudiendo las municipalidades rebajarlas.
+
+Las municipalidades, a través de su alcalde o alcaldesa, y con acuerdo del concejo municipal, adoptado de conformidad con lo dispuesto en el artículo 86 de la ley Nº 18.695, orgánica constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fija el decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Interior, podrán rebajar o, excepcionalmente, eximir del pago de los derechos municipales a que se refiere el párrafo anterior a las subdivisiones de terrenos fiscales que se requieran para ejecutar los proyectos del Plan de Emergencia Habitacional, incluyendo aquellos proyectos destinados a la reposición y construcción de viviendas, equipamiento, proyectos de urbanización y otros relacionados con la reconstrucción de las zonas afectadas por los incendios que afectaron la Región de Valparaíso durante el mes de febrero del año 2024.
 
 2.- Ocupaciones de la vía pública, con mantención de escombros, materiales de construcción, andamios y cierres, etc.
 
