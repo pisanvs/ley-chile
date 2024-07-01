@@ -1,4 +1,4 @@
-DISPONE MEDIDAS APLICABLES A VEHICULOS DE SERVICIOS DE LOCOMOCION COLECTIVA URBANA EN CIUDADES QUE INDICA Y MODIFICA DECRETO N° 168, DE 1993
+DISPONE MEDIDAS APLICABLES A VEHICULOS DE SERVICIOS DE LOCOMOCION COLECTIVA URBANA, RURAL E INTERURBANO EN CIUDADES QUE INDICA Y MODIFICA DECRETO N° 168, DE 1993
 
 Núm. 1.- Santiago, 3 de Enero de 1994.- Visto: Lo dispuesto por los artículos 1° y 19° números 8, 21 y 24 de la Constitución Política de la República de Chile; 56°, 88°, 89° y 98° de la ley N°18.290; la resolución N°157, de 1990, del Ministerio de Transportes y Telecomunicaciones; el artículo 3° de la ley N° 18.696,
 
@@ -18,153 +18,19 @@ Decreto:
 
 Los buses que se incorporen a servicios de locomoción colectiva urbana en Arica, Antofagasta, Concepción - Talcahuano - Penco - Chiguayante - Hualqui - San Pedro de la Paz y Temuco., no podrán tener una antigüedad superior a 6 años; en tanto los que se incorporen a dichos servicios en Iquique, Rancagua, Chillán, Los Angeles y Puerto Montt, no podrán tener una antigüedad superior a 10 años. Tratándose de buses que se incorporen a dichos servicios en la ciudad de Osorno, no podrán tener una antigüedad superior a 8 años; y en la ciudad de Talca, esta antigüedad no podrá ser superior a 1 año.
 
-En el resto de las ciudades del país, con excepción de lo dispuesto en el artículo 12 de la Ley N° 19.040 y en el Decreto Supremo N°168/93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones, por resolución, considerando la realidad de cada región y procurando la participación de los sectores involucrados, podrán establecer la antigüedad máxima de los buses para prestar servicios de locomoción colectiva urbana y la antigüedad máxima para incorporarse a tales servicios, no pudiendo esta última, en ningún caso, ser inferior a 10 años, sin perjuicio de lo dispuesto por la Resolución N° 157-90 MITT. Los buses que se incorporen a servicios de locomoción colectiva urbana en La Serena-Coquimbo, Copiapó y Valdivia, no podrán tener una antigüedad superior a 12 años.
+En el resto de las ciudades del país, con excepción de lo dispuesto en el artículo 12 de la Ley N° 19.040 y en el Decreto Supremo N°168/93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones, por resolución, considerando la realidad de cada región y procurando la participación de los sectores involucrados, podrán establecer la antigüedad máxima de los buses para incorporarse a los servicios de locomoción colectiva urbana, no pudiendo, en ningún caso, ser inferior a 10 años. . Los buses que se incorporen a servicios de locomoción colectiva urbana en La Serena-Coquimbo, Copiapó y Valdivia, no podrán tener una antigüedad superior a 12 años.
 
 #### Artículo 2°
 
-) En el conglomerado urbano conformado por las ciudades de Concepción, Talcahuano, Penco, Chiguayante, Hualqui y San Pedro de la Paz los buses de locomoción colectiva urbana podrán operar hasta que cumplan 18 años. En otras ciudades, los buses urbanos podrán operar según se indica:
+) Los buses y taxibuses que presten servicios urbanos, interurbanos y rurales de transporte público remunerado de pasajeros podrán operar hasta que cumplan una antigüedad máxima de veintidós (22) años, exceptuados los que operen en las ciudades, provincias o comunas reguladas en un perímetro de exclusión o condiciones de operación u otra modalidad equivalente, los buses y taxibuses que presten servicios de transporte público de pasajeros de carácter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, los buses que presten servicios interurbanos de transporte público con origen/destino en la Región Metropolitana o cuyo itinerario comprenda cualquier ciudad de dicha región y aquellos a que se refiere el decreto supremo N° 168, de 1993, del Ministerio de Transportes y Telecomunicaciones, los que se regirán por la antigüedad máxima indicada en cada una de las disposiciones que los regulan.
 
-Año del modelo Fecha de retiro
+#### Artículo 2° bis
 
-1971 o anteriores Desde 1 de abril de 1994
-
-1972 – 1973 Desde 1 de enero de 1995
-
-1974 – 1976 Desde 1 de enero de 1996
-
-1977 – 1978 Desde 1 de enero de 1997
-
-1979 – 1980 Desde 1 de enero de 1998
-
-1981 y siguientes Al 31 de mayo del año en que
-
-cumpla 18 años de antigüedad
-
-En las otras ciudades mencionadas en el inciso primero del artículo precedente, los buses de locomoción colectiva urbana cuyo año de modelo se indica a continuación, a contar de las fechas en que cada año se señala, no podrán utilizarse para realizar este tipo de servicios, conforme a los siguientes calendarios:
-
-a) Calendario aplicable a la ciudad de Rancagua:
-
-Año del modelo Fecha de retiro
-
-1993 y siguientes Al 31 de mayo del año en que el
-
-Bus cumpla 18 años de antigüedad
-
-b) Calendario aplicable a las ciudades de Iquique y Antofagasta:
-
-Año del modelo Fecha de retiro
-
-1993 31 – 12 - 2011
-
-1994 y siguientes Al 31 de mayo del año en que
-
-cumpla 18 años de antigüedad
-
-c) Calendario aplicable en la ciudad de Talca:
-
-Año del modelo Fecha de retiro
-
-1995 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-d) Calendario aplicable a la ciudad de Arica:
-
-Año del modelo Fecha de retiro
-
-1995 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-e) Calendario aplicable a la ciudad de Temuco:
-
-Año del modelo Fecha de retiro
-
-1993 31 – 12 - 2013
-
-1994 31 – 12 - 2014
-
-1995 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-f) Calendario aplicable a la ciudad de Copiapó:
-
-Año del modelo Fecha de retiro
-
-1993 31 - 12 - 2014
-
-1994 – 1995 31 – 12 - 2015
-
-1996 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-g) ELIMINADO.
-
-h) Calendario aplicable a la ciudad de Puerto Montt:
-
-Año del modelo Fecha de retiro
-
-1993 31 – 12 - 2013
-
-1994 y siguientes El 31 de mayo del año en que el
-
-bus cumpla 20 años de antigüedad
-
-i) Calendario aplicable a la ciudad de Osorno:
-
-Año del modelo Fecha de retiro
-
-1991, 1992, 1993 31 – 05 - 2014
-
-1994 y 1995 31 – 12 - 2015
-
-1996 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-j) Calendario aplicable a la ciudad de Valdivia:
-
-Año del modelo Fecha de retiro
-
-1992 y 1993 31 – 12 - 2014
-
-1994 y 1995 31 – 12 - 2015
-
-1996 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-k) Calendario aplicable a las ciudades de Chillán y Los Ángeles:
-
-Año del modelo Fecha de retiro
-
-1993 y 1994 31 – 05 - 2014
-
-1995 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-l) Calendario aplicable a las ciudades de La Serena y Coquimbo:
-
-Año del modelo Fecha de retiro
-
-1993 31 – 12 - 2014
-
-1994 y 1995 31 – 12 - 2015
-
-1996 y siguientes El 31 de diciembre del año en que el
-
-bus cumpla 20 años de antigüedad
-
-> **Nota.** El Decreto 15, Transportes, publicado en el D.O.28.03.1998, complementó y aclaró el presente artículo estableciendo que el período inicial termina el 31 de mayo del año correspondiente.
-
-> **Nota.** NOTA 1: El Decreto 146, Transportes, publicado el 30.11.1999, modificó la presente letra en el sentido de señalar que los buses del año de modelo 1980, deberán retirarse el 31 de mayo del año 2001.
+) Los buses y taxibuses, que presten servicios de transporte público de pasajeros de carácter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deberán tener una antigüedad que no sea superior a 15 años. Se exceptúan de esta norma los buses que posean características de Pullman, los que para prestar los señalados servicios en la provincia y comunas mencionadas no podrán tener una antigüedad superior a 18 años.
 
 #### Artículo 3°
 
-) Las Plantas Revisoras, sin perjuicio de otorgar el respectivo certificado de revisión técnica, cuando procediere, deberán dejar constancia en el mismo documento y en forma claramente visible, que los vehículos que se encuentren en la situación del artículo anterior no son aptos para efectuar locomoción colectiva en las ciudades o conglomerado de ciudades mencionadas en el artículo primero, a contar de las fechas señaladas en el respectivo calendario.
+) Las plantas de revisión técnica, sin perjuicio de otorgar el respectivo certificado de revisión técnica, cuando procediere, deberán dejar constancia en el mismo documento y en forma claramente visible, que los vehículos cuya antigüedad sea superior a veintidós (22) años no son aptos para realizar transporte público remunerado de pasajeros.
 
 #### Artículo 4°
 

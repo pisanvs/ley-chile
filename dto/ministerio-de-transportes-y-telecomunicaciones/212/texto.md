@@ -1600,6 +1600,14 @@ Para los efectos de dar cumplimiento a la exigencia a la que se refiere el artí
 
 En los casos en que el servicio cuente con un terminal, para los efectos de lo previsto en el citado artículo 8º letra D del presente decreto deberá además acreditar que este cumple con las funcionalidades y requerimientos asociados a un Centro de Carga exigidos por la normativa sectorial correspondiente.
 
+#### Artículo 19°
+
+Los taxis, en todas sus modalidades, deberán cancelar su inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros, por cumplimiento de su antigüedad máxima, al 31 de diciembre del año que corresponda, según las tablas siguientes:
+
+Aquellos taxis que extiendan su antigüedad, deberán realizar y aprobar la revisión técnica cada cuatro (4) meses, independiente de la región en que presten servicios y modalidad en la cual estén inscritos, a contar del año trece (13) de antigüedad.
+
+Las municipalidades no podrán renovar el permiso de circulación de los taxis una vez cumplida la fecha máxima de retiro antes señalada.
+
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento. Saluda a Ud.- Patricia Muñoz Villela, Jefe Depto. Administrativo.
