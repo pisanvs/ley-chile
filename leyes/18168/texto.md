@@ -34,9 +34,11 @@ a) Servicios de telecomunicaciones de libre recepción o de radiodifusión, cuya
 
 Dentro de estos servicios, constituyen una subcategoría los servicios de radiodifusión de mínima cobertura. Son éstos los constituidos por una estación de radiodifusión cuya potencia radiada no exceda de 1 watt como máximo, dentro de la banda de los 88 a 108 MHz. Esto es, la potencia del transmisor y la que se irradia por antena no podrá exceder de 1 watt y su cobertura, como resultado de ello, no deberá sobrepasar los límites territoriales de la respectiva Comuna. Excepcionalmente y sólo tratándose de localidades fronterizas o apartadas y con población dispersa, lo que será calificado por la Subsecretaría, la potencia radiada podrá ser hasta 20 watts.
 
-b) Servicios públicos de telecomunicaciones, destinados a satisfacer las necesidades de telecomunicaciones de la comunidad en general. Estos deberán estar diseñados para interconectarse con otros servicios públicos de telecomunicaciones.
+b) Servicios públicos de telecomunicaciones, destinados a satisfacer las necesidades de telecomunicaciones de la comunidad en general. Estos deberán estar diseñados para interconectarse con otros servicios públicos de telecomunicaciones. Dentro de estos servicios se incluye el acceso a Internet.
 
-c) Servicios limitados de telecomunicaciones, cuyo objeto es satisfacer necesidades específicas de telcomunicaciones de determinadas empresas, entidades o personas previamente convenidas con éstas. Estos servicios pueden comprender los mismos tipos de emisiones mencionadas en la letra a) de este artículo y su prestación no podrá dar acceso a tráfico desde o hacia los usuarios de las redes públicas de telecomunicaciones.
+c) Servicios limitados de telecomunicaciones, cuyo objeto es satisfacer necesidades específicas de telecomunicaciones de determinadas empresas, entidades o personas previamente convenidas con éstas. Estos servicios pueden comprender los mismos tipos de emisiones mencionadas en la letra a) de este artículo y su prestación no podrá dar acceso a tráfico desde o hacia los usuarios de las redes públicas de telecomunicaciones.
+
+No obstante lo dispuesto en el párrafo anterior, en el caso de que el permisionario de este tipo de servicios sea una comunidad de telecomunicaciones, constituida en conformidad al reglamento a que hace referencia el inciso final del artículo 24 B de la presente ley, se permitirá que las mismas presten sus servicios directamente a sus usuarios finales, sólo para el caso de la provisión de acceso a Internet.
 
 d) Servicios de aficionados a las radiocomunicaciones, cuya finalidad es la intercomunicación radial y la experimentación técnica y científica, llevadas a cabo a título personal y sin fines de lucro.
 
@@ -51,6 +53,40 @@ La instalación, operación y explotación de los servicios de telecomunicacione
 Se regirán también por esta ley, en lo que les sea aplicable los sistemas e instalaciones que utilicen ondas electromagnéticas con fines distintos a los de las telecomunicaciones.
 
 No será aplicable lo establecido en los incisos anteriores a los servicios de televisión de libre recepción y a los servicios limitados de televisión, los que estarán sujetos a las disposiciones de la ley especial que los rija, sin perjuicio de las normas técnicas que establece esta ley.
+
+Los servicios públicos de telecomunicaciones serán regidos por principios que aseguren la adaptabilidad y sustentabilidad del sector, destacando:
+
+1.- Neutralidad tecnológica. Consistente en la libertad de los concesionarios de servicios de telecomunicaciones para elegir cualquier tipo de tecnología que sea apta para la prestación del servicio, sujeta a las disposiciones legales y reglamentarias pertinentes.
+
+2.- Universalidad. Se impulsará el acceso universal a los servicios de telecomunicaciones, con especial énfasis en la conectividad a Internet, para asegurar la inclusión digital de toda la población, sin importar su ubicación geográfica.
+
+3.- Continuidad. Los servicios deberán ofrecerse de forma regular e ininterrumpida, cuya infracción acarrea las sanciones legales previstas para ello.
+
+4.- Convergencia tecnológica. Se entenderá como la integración funcional de múltiples servicios sobre una misma plataforma tecnológica, espectro asignado y redes de telecomunicaciones que permitan un uso más eficiente de la infraestructura existente.
+
+5.- Uso compartido de infraestructura física. Referente a que el despliegue de las redes de telecomunicaciones se haga de forma eficiente, aprovechando adecuadamente el uso de infraestructura ya habilitada y resiliente, fomentando así su uso compartido, independiente de su propiedad o destinación original.
+
+Lo anterior, no obstará a la promoción del despliegue de nuevas redes e infraestructura de telecomunicaciones.
+
+6.- Transparencia, igualdad y eficiencia en la asignación de recursos. Los procedimientos y criterios de asignación de recursos, incluido el espectro radioeléctrico, serán transparentes y accesibles al público, buscando la eficiencia en su asignación y uso y evitando discriminaciones arbitrarias.
+
+La aplicación y desarrollo de los principios antes mencionados se establecerá en un instrumento denominado Plan Nacional Digital, a cargo del Ministerio de Transportes y Telecomunicaciones, el que deberá contener, a lo menos, el desarrollo de los siguientes aspectos:
+
+a) Política de uso del espectro radioeléctrico, velando por su uso eficiente.
+
+b) Política nacional de inversiones, fomentando, en alianzas público-privadas, la cobertura de los servicios a nivel nacional.
+
+c) Política de conectividad, velando por promover la conectividad digital progresiva, en condiciones de calidad, a todos los habitantes del territorio nacional.
+
+d) Política de ciberseguridad en el ámbito de las telecomunicaciones.
+
+e) Política de accesibilidad universal, estableciendo mecanismos de promoción o subsidios, a fin de proveer progresivamente a todos los habitantes del territorio los servicios de telecomunicaciones.
+
+f) Política de calidad de servicios, fijando estándares de calidad para la prestación de los servicios para todo el territorio nacional.
+
+g) Política de promoción e investigación, fomentando en el sector la investigación, innovación y la formación de capital humano especializado.
+
+Los principios establecidos en este artículo serán aplicados de manera que fomenten la innovación y el desarrollo equitativo de las telecomunicaciones en todo el territorio nacional.
 
 > **Nota.** El artículo 52 de la LEY 18838, publicada el 30.09.1989, dispone que las modificaciones introducidas a la presente norma, entrarán en vigencia treinta días después de su publicación.
 
@@ -252,27 +288,35 @@ Son elementos de la esencia de una concesión y, por consiguiente, inmodificable
 
 a) En los servicios de telecomunicaciones de libre recepción o de radiodifusión: el tipo de servicio, la zona de servicio, el período de la concesión, el plazo para iniciar la construcción de las obras y para su terminación, el plazo para el inicio de las transmisiones, la potencia y la frecuencia, y
 
-b) En los servicios públicos o intermedios de telecomunicaciones: el tipo de servicio y el período de la concesión.
+b) En los servicios públicos o intermedios de telecomunicaciones: el tipo de servicio conforme a lo definido en el artículo 3° de la presente ley y el período de la concesión.
 
 En todo decreto supremo que otorgue una concesión deberá dejarse constancia expresa de los elementos de la esencia y además de los siguientes elementos:
 
 1.- En los servicios de telecomunicaciones de libre recepción o de radiodifusión, su titular, la ubicación de los estudios, la ubicación de la planta transmisora, la ubicación y características técnicas del sistema radiante y el radioenlace estudio-planta, y
 
-2.- En los servicios públicos e intermedios de telecomunicaciones: su titular, la zona de servicio, las características técnicas de las instalaciones que se especifiquen en los planes técnicos fundamentales correspondientes al tipo de servicio, el plazo para iniciar la construcción de las obras y para su terminación, el plazo para el inicio del servicio, la ubicación de las radioestaciones, excluidas las móviles y portátiles, su potencia, la frecuencia y las carecterísticas técnicas de los sistemas radiantes.
+2.- En los servicios públicos e intermedios de telecomunicaciones: su titular, las prestaciones específicas conforme a la normativa técnica y al tipo de servicio de que se trate y que se pretenda prestar, la zona de servicio, las características técnicas de las instalaciones que se especifiquen en los planes técnicos fundamentales correspondientes al tipo de servicio, el plazo para iniciar la construcción de las obras y para su terminación, el plazo para el inicio del servicio, la ubicación de las radio-estaciones, excluidas las móviles y portátiles, su potencia, la frecuencia y las características técnicas de los sistemas radiantes.
 
 Los elementos indicados en los números 1 y 2 precedentes, serán modificables por decreto supremo a solicitud de parte interesada.
 
-En las concesiones de servicios de telecomunicaciones de libre recepción o de radiodifusión, las solicitudes que digan relación con la modificación de la ubicación de la planta transmisora y la ubicación y características técnicas del sistema radiante, se regirán por las normas establecidas en los artículos 15 y 16 de esta ley, con excepción de aquellas modificaciones que consistan en la instalación, operación y explotación de un sistema radiante y equipos asociados sin previo emplazamiento de una torre, utilizando como soporte edificaciones preexistentes, postes de alumbrado público o eléctrico, elementos publicitarios, señalética, o mobiliario urbano; y sin modificar la zona de servicio, frecuencias, ancho de banda y potencias ya autorizadas, casos en los cuales la autorización se otorgará mediante resolución de la Subsecretaría o el organismo que la reemplace y sólo serán aceptadas en la medida que no modifiquen o alteren la zona de servicio. Las publicaciones previstas en las citadas disposiciones se harán en el sitio web de la Subsecretaría, conforme a lo dispuesto en el artículo 13 A.
+En las concesiones de servicios públicos e intermedios de telecomunicaciones, las solicitudes que digan relación con las zonas de servicios, potencia, frecuencia y características técnicas de los sistemas radiantes se regirán por las normas establecidas en los artículos 15 y 16 de esta ley, con excepción de: i) la adición de prestaciones específicas según el tipo de servicio que se pretenda prestar y ii) aquellas modificaciones que, sin importar una alteración de la zona de servicio, de las frecuencias, del ancho de banda o de las potencias máximas ya autorizadas, se instalen sobre infraestructuras ya autorizadas. En los casos individualizados en los ordinales i) y ii), la autorización se otorgará mediante resolución de la Subsecretaría o el organismo que la reemplace. Todo lo anterior, en base a los principios establecidos en el artículo 4° de esta ley.
 
-En las concesiones de servicios públicos e intermedios de telecomunicaciones, las solicitudes que digan relación con las zonas de servicios, potencia, frecuencia y características técnicas de los sistemas radiantes se regirán por las normas establecidas en los artículos 15 y 16 de esta ley, con excepción de aquellas modificaciones que, no importando una alteración de la zona de servicio, de las frecuencias, del ancho de banda o de las potencias máximas ya autorizadas, se instalen sobre infraestructuras ya autorizadas, en cuyo caso la autorización se otorgará mediante resolución de la Subsecretaría.
+En las concesiones de servicio público de telecomunicaciones para la provisión de acceso a Internet que empleen bandas de uso compartido, así como en las concesiones que no conlleven asignación de espectro radioeléctrico, las solicitudes de otorgamiento o modificación correspondientes se regirán por las normas establecidas en los artículos 15 y 16, con excepción del trámite concerniente a la emisión del extracto y su publicación. Esto último, salvo que la solicitud suponga la instalación o cambio de ubicación de una torre soporte de antenas de aquellas que requieran permiso según la Ley General de Urbanismo y Construcciones. Las publicaciones previstas en las citadas disposiciones se harán en el sitio web de la Subsecretaría, conforme a lo dispuesto en el artículo 13 A.
 
 El Ministerio, en casos graves y urgentes y por resolución fundada, podrá acceder provisoriamente a las modificaciones solicitadas, sin perjuicio de lo que se pueda resolver en definitiva. Rechazada la solicitud, deberá dejarse sin efecto todo lo hecho en virtud de la autorización provisoria, sin derecho a indemnización o pago alguno.
 
 Las demás peticiones que signifiquen modificación a otros elementos de la concesión, distintos a los señalados precedentemente, deberán ser informados a la Subsecretaría, en forma previa a su ejecución. No obstante, requerirán aprobación aquéllas respecto de las cuales así lo disponga la normativa técnica, en cuyo caso la autorización se otorgará por simple resolución.
 
-No se admitirá a trámite la solicitud de otorgamiento o modificación de concesión que considere la ubicación de sistemas radiantes dentro de una zona declarada como saturada, de conformidad con el artículo 7º, o que de instalarse implicaría la declaración de una zona como tal, mientras que respecto de aquellas que se pretenda instalar en áreas de protección a que se refiere la ley Nº 19.300 podrá admitirse tal solicitud, previa aprobación del sistema de evaluación de impacto ambiental.
+No se admitirá a trámite la solicitud de otorgamiento o modificación de concesión que considere la ubicación de sistemas radiantes dentro de una zona declarada como saturada, de conformidad con el artículo 7°, o que de instalarse implicaría la declaración de una zona como tal, mientras que respecto de aquellas que se pretenda instalar en áreas de protección a que se refiere la ley Nº 19.300 podrá admitirse tal solicitud, en este último caso, previo a la instalación se requerirá de aprobación del sistema de evaluación de impacto ambiental.
 
-Las solicitudes a que se refiere el inciso cuarto del presente artículo que digan relación con la instalación, operación y explotación de un sistema radiante deberán ser acompañadas de un diagrama de radiación de las antenas correspondientes.
+Las solicitudes a que se refiere el presente artículo que digan relación con la instalación, operación y explotación de un sistema radiante deberán ser acompañadas de un diagrama de radiación de las antenas correspondientes.
+
+La autorización de adición de prestaciones específicas para las concesiones vigentes no podrá afectar la calidad del tipo de servicio de la solicitante ni de la o las prestaciones específicas originalmente autorizadas, debiendo condicionarse dicha autorización al cumplimiento de los siguientes requisitos, según sea el caso:
+
+a) La exigencia de contraprestaciones, en el sentido de implementar un proyecto técnico de similares características técnicas, cobertura y calidad de servicio al exigido en el último concurso público en que se haya adjudicado espectro en la misma macro banda de frecuencias. Para estos efectos, la Subsecretaría, mediante resolución, tomará en consideración la proporcionalidad del plazo de duración que le reste a la concesión respecto de la cual se le adicionan dichas prestaciones específicas.
+
+b) En caso que el último concurso público de espectro radioeléctrico cuya macro banda solicita adición de servicios se haya resuelto mediante licitación en los términos del artículo 13 C de esta ley, se exigirá, a beneficio fiscal, el pago de un precio equivalente al promedio recaudado por MHz o su equivalente en contraprestaciones debidamente definidas por la Subsecretaría. Para el cálculo del valor, la Subsecretaría, mediante resolución, deberá considerar la proporcionalidad del plazo de duración que le reste a la concesión respecto de la cual se le adicionan dichas contraprestaciones específicas.
+
+c) Contar con un informe favorable de la autoridad competente en resguardo de la libre competencia en los mercados, solicitado por la Subsecretaría correspondiente. Dicho informe deberá indicar que las exigencias señaladas en las letras a) y b) precedentes no implican otorgar ventajas competitivas en favor de los interesados que solicitan la incorporación de tales prestaciones específicas.
 
 #### Artículo 15
 
@@ -280,7 +324,7 @@ Las solicitudes de concesión y de modificación de servicios públicos e interm
 
 La Subsecretaría, dentro de los 30 días siguientes a la fecha de recepción de la solicitud de concesión o de modificación, deberá emitir un informe respecto de ésta, considerando el cumplimiento de los requisitos formales y técnicos de carácter legal y reglamentario.
 
-En caso que el informe no tenga reparos y estime viable la concesión o modificación, lo declarará así y dispondrá la publicación de un extracto de la solicitud en el Diario Oficial y en un diario o períodico de la capital de la provincia o de la región en que se ubicarán las instalaciones. Este informe será notificado al interesado para que en el plazo de 30 días proceda a efectuar las publicaciones indicadas, bajo sanción de tenérsele por desistido de solicitud, por el solo ministerio de la ley y sin ncecesidad de resolución adicional alguna. La notificación del informe deberá adjuntar el extracto que debe publicarse.
+En caso que el informe no tenga reparos y estime viable la concesión o modificación, lo declarará así y dispondrá la publicación de un extracto de la solicitud en el Diario Oficial y en la página web de la Subsecretaría. Este informe será notificado al interesado para que en el plazo de 30 días proceda a efectuar la publicación indicada, bajo sanción de tenérsele por desistido de solicitud, por el solo ministerio de la ley y sin necesidad de resolución adicional alguna. La notificación del informe deberá adjuntar el extracto que debe publicarse.
 
 El que tenga interés en ello podrá oponerse al otorgamiento de la concesión o modificación de la concesión, dentro del plazo de 30 días contados desde la publicación del extracto. La oposición deberá presentarse por escrito ante el Ministro, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago. El Ministro dará traslado de ella al interesado, por el plazo de 10 días. Simultáneamente, solicitará de la Subsecretaría un informe acerca de los hechos y opiniones de carácter técnico en que se funde el reclamo. La Subsecretaría deberá evacuar el informe dentro de los 60 días siguientes a la recepción del oficio en que éste se le haya solicitado.
 
@@ -312,13 +356,15 @@ a) Los plazos son fatales y de días hábiles. Tratándose de plazos que deba cu
 
 Sin embargo, los plazos que se establecen en el Título V de esta ley son de días corridos.
 
-b) Las notificaciones que dispone la presente ley se harán personalmente o por carta certificada enviada al domicilio que el interesado haya señalado en su respectiva presentación. Se entenderá perfeccionada la notificación transcurrido que sean 5 días desde la fecha de entrega de la carta a la oficina de Correos.
+b) Las notificaciones que dispone la presente ley se harán personalmente, por medios electrónicos o por carta certificada enviada al domicilio que el interesado haya señalado en su respectiva presentación. Se entenderá perfeccionada la notificación transcurrido que sean 5 días desde la fecha de entrega de la carta a la oficina de Correos.
 
 Sin perjuicio de lo anterior, las notificaciones que deban realizarse en el marco del procedimiento de otorgamiento de permisos o concesiones o de sus modificaciones se podrán realizar por medios electrónicos. Una norma técnica dictada por la Subsecretaría establecerá los requisitos y medios de validación de las notificaciones electrónicas. En caso de no verificarse la notificación electrónica, procederá la notificación postal, rigiendo los plazos y formas señalados en el párrafo anterior.
 
-No obstante, el Ministro podrá disponer que determinadas resoluciones se notifiquen por cédula hecha por notario público o receptor judicial. La notificación de cargos, y la notificación de las resoluciones que reciban la causa a prueba, acojan oposiciones, rechacen solicitudes o impongan sanciones, deberán notificarse personalmente o por cédula.
+No obstante, el Ministro podrá disponer que determinadas resoluciones se notifiquen por cédula hecha por notario público o receptor judicial. La notificación de cargos, y la notificación de las resoluciones que reciban la causa a prueba, acojan oposiciones, rechacen solicitudes o impongan sanciones, deberán notificarse personalmente, por medios electrónicos o por cédula.
 
 Las disposiciones contenidas en esta letra no se aplicarán a la notificación de las resoluciones dictadas por los Tribunales Superiores de Justicia.
+
+La notificación realizada por medios electrónicos se entenderá practicada a partir del momento del envío. La Subsecretaría deberá publicitar en su sitio web la cuenta de correo electrónico u otras cuentas o dominios específicos de medios tecnológicos de los que se valdrán para practicar las notificaciones electrónicas, además de individualizarlos en las resoluciones que se pronuncien sobre las propuestas que se le formulen.
 
 c) La prueba se regirá por las normas del artículo 90 del Código de Procedimiento Civil, con la salvedad que el término probatorio, en ningún caso, podrá exceder de 15 días.
 
@@ -340,15 +386,27 @@ Si dicho informe no fuere recibido en el plazo indicado, se procederá sin él.
 
 #### Artículo 18
 
-Los titulares de servicios de telecomunicaciones tendrán derecho a tender o cruzar líneas aéreas o subterráneas en calles, plazas, parques, caminos y otros bienes nacionales de uso público, sólo para los fines específicos del servicio respectivo.
+Los titulares de servicios de telecomunicaciones tendrán derecho a tender o cruzar líneas aéreas o subterráneas y, asimismo, a desplegar sistemas radiantes para la prestación de servicios públicos o intermedios de telecomunicaciones sobre la infraestructura autorizada al efecto, de acuerdo con la normativa aplicable, en calles, plazas, parques, caminos y otros bienes nacionales de uso público, sólo para los fines específicos del servicio respectivo. El mismo derecho asistirá a los titulares de servicios intermedios de telecomunicaciones y a los de servicios públicos de telecomunicaciones, respecto de bienes fiscales, de aquellas infraestructuras que estén asociadas o sirvan a la explotación de una concesión de servicio público, o de una concesión de obra pública, pudiendo en estos casos incluir el emplazamiento de infraestructura de soporte si fuese necesario.
 
-Tales derechos se ejercerán de modo que no se perjudique el uso principal de los bienes a que se refiere el inciso anterior y se cumplan las normas técnicas y reglamentarias, como también las ordenanzas que correspondan.
+El derecho a que se hace referencia en el inciso primero se ejercerá de modo tal que no se perjudique el uso principal de dichos bienes, ajustándose, además, al cumplimiento de las normas legales, reglamentarias, técnicas y ordenanzas que sean aplicables, y respetando los demás derechos otorgados por el Estado sobre tales bienes. El acceso a dichos bienes e infraestructuras deberá facilitarse en condiciones de igualdad, transparencia y no discriminación.
+
+En caso de que el derecho en cuestión recaiga sobre la infraestructura asociada o que sirva a la explotación de una concesión de servicio público, de una concesión de obra pública, o sobre bienes fiscales, se entenderá constituida una servidumbre legal, la que en este último caso será formalizada por el Ministerio de Bienes Nacionales o el organismo público titular del bien, debiendo el primero consultar las condiciones específicas para su constitución con el órgano del Estado que tenga el bien actualmente destinado. El Ministerio u órgano correspondiente deberá pronunciarse en el plazo máximo de ciento veinte días contado desde la recepción de la solicitud respectiva, de no hacerlo, se aplicará lo dispuesto en el artículo 64 de la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado. El acto administrativo que certifique dicha omisión servirá de título para inscribir el gravamen en cuestión. Efectuadas estas últimas actuaciones, el concesionario de servicios intermedios o públicos de telecomunicaciones se entenderá autorizado para el despliegue de la infraestructura.
+
+Los términos, condiciones y compensaciones periódicas de la servidumbre legal serán convenidos por las partes con arreglo a las normas generales del derecho común; o determinadas en el acto administrativo que otorga la servidumbre por parte del órgano público respectivo. De suscitarse controversias al respecto, se seguirá el procedimiento jurisdiccional señalado en el artículo 19 de la presente ley.
+
+Respecto de los bienes nacionales de uso público y bienes fiscales antes señalados, el ejercicio del derecho en cuestión, o la constitución del mismo, deberá cumplir con la tramitación de los actos administrativos pertinentes.
+
+La autoridad competente o el titular de la infraestructura sólo podrá denegar fundadamente la autorización si la constitución de la servidumbre o el ejercicio del derecho señalado en el inciso primero afecta el uso principal del bien, o por contravenir ello la normativa legal, reglamentaria, local o técnica aplicable.
+
+Quien tenga la administración de los bienes señalados en el inciso primero, en caso de existir por parte de los titulares de servicios de telecomunicaciones incumplimiento de las obligaciones dispuestas en el inciso segundo, o cuando por su inobservancia se hayan afectado gravemente los bienes sobre los cuales recae dicha servidumbre o el servicio prestado a través de ellos, podrá poner término a la servidumbre legal, pudiendo el afectado iniciar las acciones correspondientes, según el procedimiento jurisdiccional señalado en el artículo 19 de la presente ley. Lo anterior es sin perjuicio de las indemnizaciones que procedan por los daños ocasionados y la obligación de restaurar el bien afectado a su estado anterior.
+
+En caso de constituirse las servidumbres de que trata el presente artículo sobre instalaciones cuya valoración forme parte de procesos de tarificación regulados, como los contenidos en la Ley General de Servicios Eléctricos, en la Ley de Servicios de Gas, o en otras leyes sectoriales semejantes, los órganos encargados de dichos procesos deberán velar en todo momento por evitar que se generen dobles pagos por parte de los clientes finales de dichas instalaciones utilizadas para el otorgamiento de los distintos servicios regulados.
+
+Con todo, los interesados podrán pactar la constitución de servidumbres convencionales de acuerdo a las reglas comunes.
 
 Las concesionarias y permisionarias que, conforme a esta ley, cuenten con líneas aéreas o subterráneas de servicios de telecomunicaciones, tales como líneas, cables, ductos, poliductos, microductos, crucetas, anclajes, tirantes, cajas de control, acometidas, gabinetes, armarios, mufas, cámaras y todo otro elemento perteneciente a la red, serán responsables de su adecuada instalación, identificación, modificación, mantención, ordenación, traslado y retiro de conformidad a la normativa de la letra b) del artículo 24 de la presente ley. La regla anterior se extenderá, en todo caso, a las instalaciones de tales artefactos, incluidos los adosados exteriormente a los edificios, en los condominios de viviendas sociales.
 
 En caso de que tales elementos hayan dejado de ser utilizados para los fines del o de los servicios autorizados, serán calificados como desechos y deberán ser retirados por la respectiva concesionaria o permisionaria a su costa, en el lapso y de acuerdo a los criterios, procedimiento y mecanismos de resolución de discrepancias establecidos en la citada normativa técnica. Ésta podrá contemplar planes de retiro y ordenación programados y coordinados con las autoridades comunales y regionales. La misma norma definirá en qué casos se entenderá que dichos elementos han dejado de ser utilizados para los fines del o de los servicios autorizados y a partir de qué momento se entenderá efectuada tal calificación, pudiendo establecer diferencias según la tecnología de que se trate, la zona afectada, el estado en que se encuentren o el lapso que lleven en tal situación, entre otros. El plazo para proceder a su ordenación o retiro no podrá superar los cinco meses desde la calificación de desecho, salvo en aquellos casos justificados que se señalen en la citada normativa. Cualquier daño o perjuicio que se genere producto de estos trabajos será de exclusiva responsabilidad de la concesionaria o permisionaria. El incumplimiento de esta obligación será sancionado de conformidad a las disposiciones de la ley N° 18.287, que establece procedimiento ante los Juzgados de Policía Local, con una multa a beneficio municipal de cien a mil unidades tributarias mensuales. Para proceder a dicho retiro, así como a la instalación, identificación, modificación, mantención, ordenación o traslado de los elementos de red que corresponda, la empresa de energía eléctrica, de telecomunicaciones o entidad propietaria del poste o ducto donde se encuentre instalado el elemento en desuso o que requiera ser intervenido brindará a la concesionaria o permisionaria el apoyo técnico y operacional necesario, dentro de los plazos que se establezcan en cada caso, conforme al procedimiento contemplado en los contratos o convenios de apoyo en postes, los que deberán ajustarse a las normas reglamentarias o técnicas de telecomunicaciones y eléctricas.
-
-Sin perjuicio de lo anterior, en caso de no proceder la concesionaria o permisionaria al retiro requerido dentro de plazo, los municipios podrán retirar estos elementos a costa de aquéllas, de acuerdo al procedimiento que se establezca conforme a la normativa de la letra b) del artículo 24 de la presente ley y a la normativa eléctrica dictada al efecto, exigiendo el reembolso de todos los costos asociados al mismo. Para ello se seguirá el procedimiento establecido en el artículo 47 del decreto supremo N° 2.385, del Ministerio del Interior, de 1996, que fija el texto refundido y sistematizado del decreto ley N° 3.063, de 1979, sobre Rentas Municipales, sirviendo como título ejecutivo, para estos efectos, el respectivo certificado emitido por el secretario municipal que acredite el monto del aludido retiro. La municipalidad no será responsable por la afectación de los servicios en que pudiera incurrirse en la acción de retiro realizada conforme a esta disposición, que será de responsabilidad de la concesionaria o permisionaria obligada. Para proceder a dicho retiro, así como a la mantención u ordenación de los elementos de red que correspondan, la empresa o entidad responsable propietaria del poste o ducto brindará a la municipalidad el apoyo técnico y operacional necesario, conforme a las normas reglamentarias o técnicas de telecomunicaciones y eléctricas.
 
 Las concesionarias y permisionarias de telecomunicaciones, así como las de energía eléctrica, deberán cumplir con los estándares de respuesta ante las emergencias que establezca la normativa técnica de telecomunicaciones y eléctrica a que se refiere la presente disposición, la que considerará plazos máximos de respuesta para distintos tipos de eventos.
 
@@ -358,9 +416,13 @@ Las servidumbres que recaigan en propiedades privadas deberán ser convenidas po
 
 #### Artículo 19
 
-Tratándose de servicios públicos de telecomunicaciones y siempre que los interesados no lleguen a un acuerdo directo en la forma prevista en el inciso final del artículo precedente, se entenderá constituida de pleno derecho una servidumbre legal para el efecto indicado en dicho artículo siempre que el Subsecretario de Telecomunicaciones por resolución fundada, declare imprescindible el servicio. En este caso la indemnización que corresponda será fijada por los Tribunales de Justicia conforme al procedimiento sumario.
+Tratándose de servicios públicos o intermedios de telecomunicaciones y siempre que los interesados no lleguen a un acuerdo directo en la forma prevista en el inciso final del artículo precedente, se entenderá constituida de pleno derecho una servidumbre legal para el efecto indicado en dicho artículo siempre que el Subsecretario de Telecomunicaciones por resolución fundada, declare imprescindible el servicio, estableciendo la zona geográfica pertinente a dicha declaración y las condiciones aplicables para su ejecución. Cualquiera de los interesados podrá solicitar la declaración de imprescindibilidad del servicio.
 
-Podrá ejercerse el derecho a que se refiere el artículo anterior, aun antes de haberse dictado sentencia en juicio, siempre que el servicio público interesado pague o asegure el pago de la cantidad que el tribunal fije provisionalmente oyendo a las partes y a un perito.
+El Subsecretario de Telecomunicaciones, al ejercer la facultad de declarar la imprescindibilidad de un servicio, tomará en cuenta factores, tales como la prestación de servicios en localidades, rutas o zonas aisladas; áreas de baja densidad poblacional o de vulnerabilidad socioeconómica; zonas beneficiadas por proyectos financiados por el Fondo de Desarrollo de las Telecomunicaciones; áreas de servicio obligatorio; o zonas atendidas por un único operador.
+
+En situaciones donde se declare un servicio como imprescindible, la indemnización correspondiente será determinada por los tribunales de justicia mediante procedimiento sumario, sin perjuicio de que las partes puedan acordar someter la cuestión a arbitraje.
+
+Podrá ejercerse el derecho a que se refiere el artículo anterior, aun antes de haberse dictado sentencia en juicio, siempre que el servicio público o intermedio interesado pague o asegure el pago de la cantidad que el tribunal fije provisionalmente oyendo a las partes y a un perito.
 
 #### Artículo 19 bis
 
@@ -444,29 +506,15 @@ Estos planes deberán ser aprobados y modificados por decreto supremo y no podr�
 
 #### Artículo 24 bis
 
-El concesionario de servicio público telefónico deberá establecer un sistema de multiportador discado que permita al suscriptor o usuario del servicio público telefónico seleccionar los servicios de larga distancia internacional, del concesionario de servicios intermedios de su preferencia. Este sistema deberá permitir la selección del servicio intermedio en cada llamada de larga distancia internacional, tanto automática como por vía de operadora, marcando el mismo número de dígitos para identificar a cualquier concesionario de servicios intermedios. Los dígitos de identificación de cada concesionario de servicios intermedios serán asignados mediante sorteos efectuados por la Subsecretaría de Telecomunicaciones.
+El concesionario de servicio público que presta el servicio telefónico a través del sistema de multiportador deberá ofrecer y proporcionar a todo concesionario de servicios intermedios que preste el servicio de larga distancia, igual clase de accesos o conexiones a su red respecto de la calidad, extensión, plazo, valor o cualquier otra característica de los servicios que les preste con motivo o en razón del acceso o uso.
 
-El concesionario de servicio público telefónico deberá ofrecer, dar y proporcionar a todo concesionario de servicios intermedios que prevea servicios de larga distancia internacional, igual clase de accesos o conexiones a la red telefónica. Asimismo, no podrá discriminar entre otros, en modo alguno, especialmente, respecto de la calidad, extensión, plazo, valor y precio de los servicios que les preste con motivo o en razón del acceso o uso del sistema multiportador.
+Las tarifas que podrá cobrar el concesionario de servicio público telefónico a los de servicios intermedios que presten el servicio de larga distancia a través del sistema de multiportador deberán ser aprobadas o fijadas por los Ministerios de Transportes y Telecomunicaciones y de Economía, Fomento y Turismo, siempre que concurra la calificación del Tribunal de Defensa de la Libre Competencia prevista en el inciso segundo del artículo 29.
 
-Los concesionarios de servicios intermedios podrán establecer un sistema de multiportador contratado, opcional, que permita al suscriptor elegir los servicios de larga distancia internacional, del concesionario de servicios intermedios de su preferencia, mediante convenio, por un período dado.
+Las disposiciones de este artículo serán reglamentadas mediante decreto supremo, que deberá llevar la firma de los Ministros de Transportes y Telecomunicaciones y de Economía, Fomento y Turismo.
 
-El concesionario de servicio público telefónico deberá ofrecer, dar y proporcionar a todos los concesionarios de servicios intermedios que presten servicios de larga distancia internacional, en igualdad de condiciones económicas, comerciales, técnicas y de información, las facilidades que sean necesarias para establecer y operar el sistema de multiportador contratado.
+#### Artículo 24 ter
 
-Las funciones de medición, tasación, facturación y cobranza de los servicios de larga distancia internacional las efectuarán las empresas prestadoras de dichos servicios, sin perjuicio de que éstas puedan realizarlas contratando el todo o parte de tales funciones con el concesionario de servicio público telefónico, quien estará obligado a prestar dicho servicio una vez requerido, según tarifas fijadas de acuerdo con lo establecido en los artículo 30 a 30 J, por los Ministerios de Transportes y Telecomunicaciones y de Economía, Fomento y Reconstrucción, en adelante "los Ministerios", los cuales también deberán aprobar o fijar el formato, dimensiones y demás detalles de la cuenta única que recibirá el suscriptor.
-
-El concesionario de servicio público telefónico deberá efectuar, a su costa, las modificaciones que sean necesarias para conectar a los concesionarios de servicios intermedios de larga distancia internacional que lo soliciten. Las tarifas que podrá cobrar el concesionario de servicio público telefónico a los concesionarios de servicios intermedios para recuperar estos costos, como asimismo las condiciones y los plazos en que deberán efectuarse las modificaciones referidas, deberán ser aprobadas o fijadas por los Ministerios.
-
-Los concesionarios de servicio público telefónico no podrán dar información alguna respecto de los concesionarios de servicios intermedios, estando facultados solamente, en igualdad de condiciones y formato, para incluir, en las guías telefónicas y demás publicaciones de circulación entre sus suscriptores, los dígitos de identificación, según lo establece el Plan Técnico Fundamental de Numeración Telefónica, como también los países y códigos de acceso para servicios de larga distancia internacional.
-
-Toda modificación de las redes telefónicas deberá ser informada, con la debida anticipación, por el concesionario de servicio público telefónico, a todos los concesionarios de servicios intermedios que presten servicios de larga distancia internacional, en términos no discriminatorios.
-
-El concesionario de servicio público telefónico deberá poner a disposición de los concesionarios de servicios intermedios que provean servicios de larga distancia internacional, en términos no discriminatorios, toda la información relevante relativa a los suscriptores y usuarios y a los tráficos cursados. La especificación de esta información, de los medios para suministrarla y de las tarifas aplicables por este concepto, serán aprobados o fijados por los Ministerios.
-
-El concesionario de servicios intermedios que provea servicios de larga distancia internacional afectos a fijación tarifaria, según lo establecido en el artículo 29, estará obligado a proveer estos servicios a otros concesionarios de servicios intermedios que presten también servicios de larga distancia internacional, en condiciones no discriminatorias.
-
-Todo convenio suscrito por concesionarios de servicio público telefónico o concesionario de servicios intermedios, que diga relación a las disposiciones de este artículo y a su reglamento, deberá ser remitido a la Subsecretaría de Telecomunicaciones, dentro de los veinte días siguientes a la fecha de su celebración.
-
-Las disposiciones de este artículo serán reglamentadas mediante decreto supremo, que deberá llevar la firma de los Ministros de Transportes y Telecomunicaciones y de Economía, Fomento y Reconstrucción.
+Con el fin de resguardar la calidad de los servicios proporcionados a los usuarios, las empresas concesionarias están obligadas a reportar semestralmente al Ministerio de Transportes y Telecomunicaciones una lista clasificada de reclamos formulados por éstos. Dicho informe especificará el tipo de incidente, la región y comuna correspondiente, y el sector donde se produjo el incidente.
 
 #### Artículo 24°
 
@@ -480,23 +528,29 @@ Si no se procede a la recepción de las obras en el plazo indicado en el inciso 
 
 Lo dispuesto en los incisos anteriores no procederá respecto de aquellas modificaciones a la concesión o permiso que no requieran aprobación, según lo dispuesto en el inciso 3° del Artículo 14°.
 
-#### Artículo 24°
+#### Artículo 24
 
-B. Las empresas concesionarias de servicio público telefónico estarán obligadas a dar servicio a los interesados que lo soliciten dentro de su zona de servicio y a los que estando fuera de ella y de la de otro concesionario, costeen las extensiones o refuerzos necesarios para llegar hasta ella.
+B.- Las empresas concesionarias de servicio público de telecomunicaciones estarán obligadas a dar servicio a los interesados que lo soliciten dentro de su zona de servicio establecida en los decretos de concesiones y sus modificaciones, y a los que, estando fuera de ella y/o de la de otro concesionario, costeen las extensiones o refuerzos necesarios para llegar hasta ella.
 
-Para ejecutar las obras de extensión o refuerzos los interesados podrán hacerlo por sí mismos o a través de terceros, debiendo en estos casos ser aprobadas tales obras por la Subsecretaría de Telecomunicaciones, o bien encargar su ejecución a la concesionaria que le proporcionará el servicio.
+En el caso de las concesionarias del servicio público que provean acceso a Internet fijo, la unidad mínima geográfica de su zona de servicio será en áreas urbanas a nivel de zona censal y en áreas rurales a nivel de entidad, según lo definido por el Instituto Nacional de Estadísticas. La Subsecretaría podrá, fundadamente, eximir de esta obligación a los operadores que cuenten con menos del 2% de participación del mercado de acceso fijo nacional. Los operadores que hayan sido eximidos de cumplir con la unidad mínima geográfica de la manera antes indicada, cuando superen el 2% de participación de mercado deberán cumplir en adelante con la unidad mínima geográfica establecida precedentemente respecto de las futuras solicitudes de modificaciones de concesión.
 
-Las citadas obras darán derecho a usar los bienes nacionales de uso público en la forma prevista en el Artículo 18°. Las extensiones o refuerzos serán de propiedad del interesado. Lo anterior es sin perjuicio de lo que acuerden las partes en esta materia.
+En el caso de los servicios móviles, la obligatoriedad señalada en el inciso primero recae sobre la zona geográfica que cumpla las condiciones consideradas en el cálculo de zona de servicio que señale el concesionario en su proyecto técnico.
 
-Las empresas concesionarias para atender solicitudes de interesados ubicados fuera de su zona de servicios y de la zona de servicio de otros concesionarios, podrán convenir el suministro del servicio público telefónico con comunidades telefónicas para facilitar a un mayor número de usuarios el acceso a este medio de comunicación.
+Los interesados podrán ejecutar las obras de extensión o refuerzos por sí mismos, a través de concesionarios de infraestructura u otros terceros, o bien encargar su ejecución a la concesionaria que le proporcionará el servicio. Las obras deberán ser aprobadas por la Subsecretaría de Telecomunicaciones.
 
-Los servicios públicos telefónicos a las comunidades telefónicas podrán prestarse asimismo como una derivación de un teléfono público de larga distancia existente.
+Las señaladas obras darán derecho a usar los bienes señalados en el artículo 18, de la forma prevista en dicha disposición. Las extensiones o refuerzos serán de propiedad del interesado. Lo anterior, sin perjuicio de lo que acuerden las partes en esta materia.
 
-Un reglamento establecerá las normas técnicas para el funcionamiento de estas comunidades telefónicas.
+Para atender solicitudes de interesados ubicados fuera de su zona de servicio y de la zona de servicio de otros concesionarios, las empresas concesionarias de servicios públicos de telecomunicaciones podrán convenir el suministro del servicio público de telecomunicaciones con comunidades de usuarios u otros permisionarios o concesionarios, con el objeto de facilitar el acceso al servicio a un mayor número de personas.
 
-#### Artículo 24°
+En el caso de los servicios limitados de telecomunicaciones a los que se refiere el párrafo segundo de la letra c) del artículo 3º, una norma técnica establecerá su funcionamiento y las interconexiones con las redes preexistentes.
 
-C. El servicio deberá otorgarse tratándose de concesionario de servicio público telefónico, en el plazo de 2 años, a contar desde la fecha de la solicitud que el interesado presente a la empresa, salvo que se produjere un caso fortuito o de fuerza mayor que impida al concesionario atender la petición que se le formula.
+#### Artículo 24
+
+C. Tratándose de concesionarios de servicios públicos de telecomunicaciones, las prestaciones deberán otorgarse, dentro de su zona de servicio, en el plazo de seis meses contado desde la fecha de la solicitud que el interesado presente al concesionario. En los casos en que no exista infraestructura, este plazo será de doce meses contado desde la fecha de solicitud del interesado. En este último caso, el concesionario tendrá un plazo de noventa días contado desde la fecha de requerimiento de servicio por parte del interesado para solicitar a la Subsecretaría la autorización para ampliación de su red, los cuales serán no renovables.
+
+Con todo, el proveedor deberá desplegar todos los medios necesarios para la provisión del servicio requerido, especialmente cuando se trate de territorios en donde existan municipalidades, establecimientos de salud o de educación que requieran de servicios de telecomunicaciones para su adecuado funcionamiento, con especial énfasis en los establecimientos que se encuentren emplazados en zonas rurales y urbanas de bajos ingresos.
+
+Durante la vigencia de los estados de excepción, estados de catástrofe y emergencias sanitarias que sean declaradas por el Ministerio de Salud y por el Servicio Nacional de Prevención y Respuesta ante Desastres, en los que se requiera garantizar el acceso a Internet de los habitantes del territorio nacional como parte de la atención y mitigación de la emergencia y de sus efectos, las autoridades competentes, esto es, la Subsecretaría de Telecomunicaciones, las municipalidades, el Ministerio de Vivienda y Urbanismo, el Ministerio de Obras Públicas, u otro ministerio, adoptarán medidas excepcionales y provisorias para garantizar de manera inmediata que los operadores de infraestructura y los proveedores del servicio público de telecomunicaciones puedan iniciar el despliegue y la provisión del servicio a la comunidad.
 
 #### Artículo 24
 
@@ -568,7 +622,7 @@ d) Deberán publicar en su sitio web, toda la información relativa a las caract
 
 El usuario podrá solicitar al proveedor, según lo estime, que le entregue dicha información a su costo, por escrito y dentro de un plazo de 30 días contado desde la solicitud.
 
-Para los efectos de la sujeción y control del cumplimiento de las obligaciones establecidas en el presente artículo y en los siguientes, los proveedores de acceso a Internet requerirán de concesión de servicio público de telecomunicaciones o de servicios intermedios de telecomunicaciones, según corresponda.
+Para los efectos de la sujeción y control del cumplimiento de las obligaciones establecidas en el presente artículo y en los siguientes, los proveedores de acceso a Internet requerirán de concesión de servicio público de telecomunicaciones o de servicios intermedios de telecomunicaciones, según corresponda. Lo anterior, sin perjuicio de lo dispuesto en el párrafo segundo de la letra c) del artículo 3° de la presente ley.
 
 #### Artículo 24
 
@@ -600,13 +654,13 @@ Con todo, ningún proveedor de acceso a Internet ni el grupo empresarial del cua
 
 #### Artículo 25
 
-Será obligación de los concesionarios de servicios públicos de telecomunicaciones y de los concesionarios de servicios intermedios que presten servicio telefónico de larga distancia, establecer y aceptar interconexiones, según las normas técnicas, procedimientos y plazos que establezca la Subsecretaría de Telecomunicaciones, con objeto de que los suscriptores y usuarios de servicios públicos de un mismo tipo puedan comunicarse entre sí, dentro y fuera del territorio nacional.
+Será obligación de los concesionarios de servicios públicos de telecomunicaciones y de los concesionarios de servicios intermedios establecer y aceptar interconexiones, según las normas técnicas, procedimientos y plazos que establezca la Subsecretaría de Telecomunicaciones, con objeto de que los suscriptores y usuarios de servicios públicos de un mismo tipo puedan comunicarse entre sí, dentro y fuera del territorio nacional.
 
-En el caso de interconexiones entre redes de servicio público telefónico y redes de servicios intermedios de telecomunicaciones, para cursar comunicaciones de larga distancia, será de la exclusiva responsabilidad del concesionario de servicios intermedios de telecomunicaciones acceder a la red local de cada zona primaria en el o los puntos de terminación de red fijados por la Subsecretaría de Telecomunicaciones. Asimismo, será obligación del concesionario de servicio público telefónico establecer las interconexiones con redes de servicios intermedios que le sean solicitadas en dichos puntos, según las disposiciones del artículo 24 bis y su reglamento.
+En el caso de interconexiones entre redes de servicio público telefónico y redes de servicios intermedios de telecomunicaciones, será de la exclusiva responsabilidad del concesionario de servicios intermedios de telecomunicaciones acceder a la red local en el o los puntos de terminación de red fijados por la Subsecretaría de Telecomunicaciones. Asimismo, será obligación del concesionario de servicio público telefónico establecer las interconexiones con redes de servicios intermedios que le sean solicitadas en dichos puntos.
 
-El concesionario de servicios intermedios que deba proveer servicios de larga distancia a otros concesionarios del mismo tipo, según lo dispuesto en el inciso décimo del artículo 24 bis, estará obligado a aceptar y establecer las interconexiones que le sean solicitadas con ese propósito. En este caso será de exclusiva responsabilidad del concesionario que solicite la interconexion acceder a la red preexistente, en los puntos de interconexión fijados por la Subsecretaría de Telecomunicaciones.
+El concesionario de servicios intermedios que deba proveer servicios a otros concesionarios del mismo tipo, según lo dispuesto en el artículo 24 bis, estará obligado a aceptar y establecer las interconexiones que le sean solicitadas con ese propósito. En este caso será de exclusiva responsabilidad del concesionario que solicite la interconexion acceder a la red preexistente, en los puntos de interconexión fijados por la Subsecretaría de Telecomunicaciones.
 
-En el caso de interconexiones entre redes de servicio público telefónico de distintos concesionarios, en una misma zona primaria, para cursar comunicaciones locales, será de la exclusiva responsabilidad del nuevo concesionario acceder a la red preexistente en los puntos de terminación de red fijados por la Subsecretaría de Telecomunicaciones.
+En el caso de interconexiones entre redes de servicio público telefónico de distintos concesionarios, para cursar comunicaciones locales, será de la exclusiva responsabilidad del nuevo concesionario acceder a la red preexistente en los puntos de terminación de red fijados por la Subsecretaría de Telecomunicaciones.
 
 Los precios o tarifas aplicados entre los concesionarios por los servicios prestados a través de las interconexiones, serán fijados de acuerdo a lo establecido en los artículos 30 a 30 J de esta ley.
 
@@ -662,6 +716,10 @@ Sin perjuicio de lo previsto en el artículo 28 bis, en caso de desacuerdo entre
 
 El árbitro deberá resolver en favor de una de las proposiciones de las partes, en un plazo máximo de tres meses, contado desde que el árbitro acepte el encargo, prorrogable de forma justificada por única vez, por tres meses más, y podrá, en su caso, establecer condiciones para ejecutar su fallo. Sus honorarios serán de cargo de aquel proveedor cuya alegación sea totalmente desestimada. En caso de establecerse condiciones, podrá el árbitro disponer un reparto de la carga de pagar sus honorarios entre los intervinientes en consistencia a su decisión. Sin perjuicio de lo anterior, el reglamento a que hace referencia el presente artículo podrá establecer la existencia de comisiones técnicas integradas por representantes de ambas partes, a través de las cuales éstas harán sus mejores esfuerzos por resolver previamente y de mutuo acuerdo las diferencias que surjan entre ellas.
 
+#### Artículo 26 ter
+
+Los concesionarios de servicios públicos de telecomunicaciones estarán obligados a proporcionar a la Subsecretaría de Telecomunicaciones acceso seguro a través de una interfaz web con perfiles de usuario específicos para lectura y exportación de datos, permitiendo el monitoreo en tiempo real de la información de los centros de control de red. Esta interfaz propenderá a garantizar la ciberseguridad tanto de los datos de los concesionarios como de la Subsecretaría. Adicionalmente, los concesionarios entregarán datos relevantes sobre la calidad del servicio y la gestión de incidentes, incluyendo alertas y resolución de fallas que sean críticos para el ejercicio de las facultades de la Subsecretaría. Un reglamento especificará los protocolos de seguridad y los requisitos técnicos necesarios para implementar estas medidas.
+
 #### Artículo 27
 
 Los concesionarios de servicios públicos de telecomunicaciones podrán efectuar cobros por la instalación del servicio e iniciar el cobro por el suministro de servicios al público usuario, con la autorización previa de la Subsecretaría de Telecomunicaciones.
@@ -706,7 +764,7 @@ Del Fondo de Desarrollo de las Telecomunicaciones
 
 #### Artículo 28
 
-A.- Créase el Fondo de Desarrollo de las Telecomunicaciones, dependiente del Ministerio de Transportes y Telecomunicaciones, en adelante "el Fondo", con el objeto de promover el aumento de la cobertura de los servicios de telecomunicaciones preferentemente en áreas rurales, y urbanas de bajos ingresos.
+A.- Créase el Fondo de Desarrollo de las Telecomunicaciones, dependiente del Ministerio de Transportes y Telecomunicaciones, en adelante "el Fondo", con el objeto de promover el aumento de la cobertura y el acceso a usuarios finales de los servicios de telecomunicaciones preferentemente en áreas rurales, y urbanas de bajos ingresos.
 
 El Fondo estará constituido por los aportes que se le asignen anualmente en la Ley de Presupuestos del Sector Público, sin perjuicio de que pueda recibir otros aportes.
 
@@ -750,9 +808,13 @@ Todo subsidio o financiamiento previsto en el presente artículo deberá conside
 
 #### Artículo 28
 
+D bis.- Sin perjuicio de lo dispuesto en el artículo anterior, anualmente, el Presidente de la República, durante la discusión del proyecto de ley de Presupuestos del Sector Público, y a través de la presentación de la respectiva glosa presupuestaria, podrá habilitar a que, con cargo a los recursos del Fondo de Desarrollo de las Telecomunicaciones, se disponga de un subsidio para el pago de las cuentas de servicios de Internet de un determinado porcentaje de los usuarios más vulnerables del país, de acuerdo a lo consignado en el Registro Social de Hogares u otro instrumento idóneo que al efecto establezca.
+
+#### Artículo 28
+
 E.- El Consejo tendrá las siguientes funciones:
 
-1) Definir anualmente los criterios o pautas que se deberán considerar por la Subsecretaría de Telecomunicaciones al evaluar los proyectos.
+1) Definir anualmente los criterios o pautas que se deberán considerar por la Subsecretaría de Telecomunicaciones al evaluar los proyectos. Estos criterios deberán considerar elementos objetivos que permitan focalizar y establecer un orden de prelación de los proyectos en la población con menor acceso a servicios de telecomunicaciones, de conformidad con lo establecido en el artículo 28 A.
 
 2) Establecer el programa anual de proyectos subsidiables o licitables, sus prioridades y los subsidios para su ejecución, oyendo previamente a las asociaciones de municipalidades.
 
@@ -782,7 +844,7 @@ Estos subsidios no constituirán renta para sus beneficiarios.
 
 #### Artículo 28
 
-I.- El reglamento de este Título será aprobado por decreto supremo emanado del Ministerio de Transportes y Telecomunicaciones y suscrito, además, por los Ministros de Economía, Fomento y Turismo y de Hacienda. Establecerá las normas de funcionamiento del Consejo; la forma de designación y requisitos que deberán reunir los consejeros designados por el Presidente de la República; el mecanismo de nominación de los representantes de los ministros ante el Consejo; las normas a que se someterá la Subsecretaría de Telecomunicaciones en la elaboración del programa anual de proyectos subsidiables y en la evaluación técnico-económica de las proposiciones presentadas; las normas que regularán los concursos, en especial sus bases; la forma de pagar los subsidios, y toda otra norma necesaria para la adecuada operación del Fondo.
+I.- El reglamento de este Título será aprobado por decreto supremo emanado del Ministerio de Transportes y Telecomunicaciones y suscrito, además, por los Ministros de Economía, Fomento y Turismo, de Hacienda y de Desarrollo Social y Familia. Establecerá las normas de funcionamiento del Consejo; la forma de designación y requisitos que deberán reunir los consejeros designados por el Presidente de la República; el mecanismo de nominación de los representantes de los ministros ante el Consejo; las normas a que se someterá la Subsecretaría de Telecomunicaciones en la elaboración del programa anual de proyectos subsidiables y en la evaluación técnico-económica de las proposiciones presentadas; las normas que regularán los concursos, en especial sus bases; la forma de pagar los subsidios, y toda otra norma necesaria para la adecuada operación del Fondo.
 
 ## Título V
 
@@ -924,7 +986,7 @@ Los concesionarios, permisionarios y titulares de licencia de Servicios de Telec
 
 #### Artículo 31 bis
 
-La Subsecretaría de Telecomunicaciones podrá requerir de los concesionarios y permisionarios de servicios de telecomunicaciones los antecedentes e informes que sean necesarios para el cumplimiento de sus funciones, los que estarán obligados a proporcionarlos. La negativa de entregar la información o antecedentes solicitados o la entrega de información falseada, serán sancionadas con multas no inferiores a 5 ni superiores a 500 unidades tributarias, según su valor vigente al momento de su aplicación.
+La Subsecretaría de Telecomunicaciones tendrá la facultad de solicitar a los concesionarios y permisionarios de servicios de telecomunicaciones los informes técnicos y comerciales que requiera para el desempeño de sus competencias reguladoras establecidas en el decreto ley N° 1.762, de 1977, y en la legislación vigente. Dicha información deberá ser proporcionada de manera oportuna y veraz y será protegida bajo las normas de la ley N° 20.285, sobre acceso a la información pública. La negativa o retardo en la entrega de la información o antecedentes solicitados o la entrega de información falseada, serán sancionadas según lo dispuesto en el Título VII de la presente ley.
 
 #### Artículo 32
 
@@ -1032,7 +1094,7 @@ Las infracciones a las normas de la presente ley, a sus reglamentos, planes téc
 
 1.- Amonestación.
 
-2.- Multa no inferior a 5 ni superior a 100 unidades tributarias mensuales, tratándose de concesiones de radiodifusión de libre recepción. En los demás casos, la multa fluctuará entre 5 y 1.000 unidades tributarias mensuales. En caso de reincidencia en un mismo tipo de infracción, se podrá triplicar el máximo de la multa.
+2.- Multa no inferior a 5 ni superior a 500 unidades tributarias mensuales, tratándose de concesiones de radiodifusión de libre recepción. En los demás casos, la multa fluctuará entre 5 y 5.000 unidades tributarias mensuales. En caso de reincidencia en un mismo tipo de infracción, se podrá triplicar el máximo de la multa.
 
 Las multas deberán pagarse dentro del 5° día hábil siguiente a la fecha en que quede ejecutoriada la resolución condenatoria.
 
@@ -1084,7 +1146,7 @@ El concesionario de servicio intermedio que preste servicios de larga distancia 
 
 #### Artículo 36
 
-A.- Antes de aplicarse sanción alguna, se deberá notificar previamente al infractor del o de los cargos que se formulan en su contra. El afectado, dentro de los 10 días siguientes a la fecha de la notificación, deberá formular sus descargos y, de estimarlo necesario, solicitar un término de prueba para los efectos de acreditar los hechos en que basa su defensa. Los descargos deberán formularse por escrito ante el Ministro, señalan los medios de prueba con que se acreditarán los hechos que los fundamentan, adjuntar los documentos probatorios que estuvieren en poder del imputado, y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+A.- Antes de aplicarse sanción alguna, se deberá notificar previamente al infractor del o de los cargos que se formulan en su contra. El afectado, dentro de los 10 días siguientes a la fecha de la notificación, deberá formular sus descargos y, de estimarlo necesario, solicitar un término de prueba para los efectos de acreditar los hechos en que basa su defensa. Los descargos deberán formularse por escrito ante el Ministro, señalan los medios de prueba con que se acreditarán los hechos que los fundamentan, adjuntar los documentos probatorios que estuvieren en poder del imputado, y señalar una casilla de correo electrónico para efectos de las notificaciones por medios electrónicos, además de fijar domicilio dentro del territorio nacional.
 
 Vencido el plazo para el traslado, con o sin la respuesta del afectado o, si existiendo descargos, no hay hechos sustanciales, pertinentes y controvertidos, el Ministro resolverá derechamente. En caso de existir descargos y haber hechos sustanciales, pertinentes y controvertidos, el Ministro recibirá la causa o prueba, la que se rendirá conforme a lo establecido en la letra c) del artículo 16 bis. Expirado el término probatorio, se haya rendido prueba o no, el Ministro resolverá sin más trámites.
 
@@ -1100,7 +1162,7 @@ B.- Comete delito de acción pública:
 
 a) El que opere o explote servicios o instalaciones de telecomunicaciones de libre recepción o de radiodifusión sin autorización de la autoridad correspondiente, y el que permita que en su domicilio, residencia, morada o medio de transporte, operen tales servicios o instalaciones. La pena será la de presidio meno en sus grados mínimo a medio, multa de cinco a trescientas unidades tributarias mensuales y comiso de los equipos e instalaciones, y
 
-b) El que maliciosamente interfiera, intercepte o interrumpa un servicio de telecomunicaciones, sufrirá la pena de presidio menor en cualquiera de sus grados y el comiso de los equipos e instalaciones.
+b) El que maliciosamente interfiera, intercepte o interrumpa un servicio de telecomunicaciones, sufrirá la pena de presidio menor en su grado máximo y el comiso de los equipos e instalaciones.
 
 c) El que intercepte o capte maliciosamente o grabe sin la debida autorización, cualquier tipo de señal que se emita a través de un servicio público de telecomunicaciones, será sancionado con la pena de presidio menor en su grado medio y multa de 50 a 5.000 UTM.
 
@@ -1121,6 +1183,8 @@ iii) La conducta anterior del infractor, salvo en caso de reincidencia.
 Se considerará, para estos efectos, que la señal satelital se encuentra adecuadamente protegida si es que el permisionario del servicio ha adoptado, oportunamente, medidas tecnológicas suficientes para el resguardo de sus servicios.
 
 f) Los que vulneren el deber de reserva o secreto previsto en los artículos 218 bis, 219 y 222 del Código Procesal Penal, mediante el acceso, almacenamiento o difusión de los antecedentes o la información señalados en dichas normas, serán sancionados con la pena de presidio menor en su grado máximo.
+
+g) El que maliciosamente destruya, dañe o inutilice la infraestructura de telecomunicaciones, e interrumpa su servicio, sufrirá la pena de presidio menor en sus grados medio a máximo.
 
 #### Artículo 37
 
