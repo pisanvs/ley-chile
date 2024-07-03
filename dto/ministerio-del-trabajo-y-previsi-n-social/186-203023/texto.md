@@ -166,6 +166,8 @@ al afiliado y por cada una de sus cargas familiares que
 
 acrediten seguir cursos regulares de enseñanza
 
+parvularia del 1° o 2° nivel de transición
+
 diferencial, básica, media, técnica especializada o
 
 superior y prácticas de estudios de a lo menos seis
@@ -200,7 +202,7 @@ e) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren
 
 <!-- parte:8535835 -->
 
-El Bienestar podrá destinar un porcentaje de dinero fijado por el Consejo Administrativo, mientras su presupuesto lo permita, para la adquisición a precio mayorista de bienes de consumo de primera necesidad, beneficiando así a los afiliados y su grupo familiar, especialmente a los de regiones extremas del país con costos inferiores a los de mercado.
+El Bienestar podrá destinar un porcentaje de dinero fijado por el Consejo Administrativo, mientras su presupuesto lo permita, para la adquisición a precio mayorista de bienes de consumo de primera necesidad, beneficiando así a los afiliados y su grupo familiar, especialmente a los de regiones extremas del país con costos inferiores a los de mercado. Asimismo, el Bienestar podrá gestionar actos, convenios y acuerdos de colaboración con entidades públicas y/o privadas, para mejorar el acceso de los afiliados/as servicios y/o bienes.
 
 #### Artículo 11 bis
 
@@ -224,7 +226,9 @@ El Bienestar podrá patrocinar, asesorar y financiar, en beneficio de los afilia
 
 <!-- parte:8535838 -->
 
-El Bienestar podrá, cuando sus recursos financieros lo permitan, organizar y financiar la celebración de la Navidad, Año Nuevo y Fiestas Patrias de sus afiliados.
+El Bienestar podrá, cuando sus recursos financieros lo permitan, organizar, financiar o entregar un bono de libre disposición para la celebración de la Navidad, Año Nuevo y Fiestas Patrias de sus afiliados/as.
+
+Asimismo, si sus recursos lo permiten, podrá organizar, financiar o entregar un bono para las siguientes celebraciones: Día del Padre, Día de la Madre, Día del Niño, Día Internacional de la Mujer, Aniversario del Servicio de Bienestar, cumpleaños de sus afiliados/as y otras celebraciones o festividades.
 
 #### Artículo 15
 
@@ -248,27 +252,9 @@ De los Préstamos
 
 El Bienestar podrá otorgar a sus afiliados, cuando sus recursos lo permitan, préstamos no reajustables en dinero para los fines que se indican:
 
-a) Préstamo médico: Se otorgará como complemento para ayudar a cancelar la parte no cubierta por el sistema de salud y el propio Bienestar.
+a) Préstamos personales: Se otorgarán de acuerdo a la capacidad crediticia del afiliado, a fin de contribuir a mejorar las condiciones familiares y/o de trabajo de los afiliados.
 
-Estos préstamos serán cancelados directamente a los profesionales o a las instituciones que prestaron la atención;
-
-b) Préstamos personales: Se otorgarán de acuerdo a la capacidad crediticia del afiliado, a fin de contribuir a mejorar las condiciones familiares y/o de trabajo de los afiliados".
-
-c) Préstamo de emergencia: Se otorgará ante problemas económicos graves, imprevistos y otras causas justificadas, previo Informe de una Asistente Social del Bienestar;
-
-d) Préstamo de vacaciones: Se otorgará anualmente a aquellos afiliados que vacacionen en recintos administrados por el Bienestar;
-
-e) Préstamo habitacional: El Bienestar otorgará préstamos habitacionales a sus afiliados, siempre que sus disponibilidades presupuestarias lo permitan y exclusivamente para los siguientes fines:
-
-- postular a convenios con los servicios del sector vivienda y cooperativas habitacionales;
-
-- completar ahorro para la vivienda o en la construcción de una vivienda económica;
-
-- para gastos de notaría e impuestos y otros gastos de transferencia; y
-
-- ampliaciones o reparaciones de vivienda ocupadas por los afiliados, siempre que sean de su propiedad;
-
-éste podrá ser otorgado las veces que se justifique su necesidad.
+b) Préstamo de emergencia: Se otorgará ante problemas económicos graves, imprevistos y otras causas justificadas, previo Informe de una Asistente Social del Bienestar.
 
 #### Artículo 18
 
@@ -280,7 +266,7 @@ El monto de estos préstamos, su tasa de interés y el plazo de amortización se
 
 <!-- parte:8535844 -->
 
-Para conceder un préstamo, el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Será requisito para su otorgamiento la garantía de dos codeudores solidarios, afiliados activos al Bienestar al menos durante un año, cuya solvencia será calificada por el Jefe del Bienestar.
+Para conceder un préstamo, el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Será requisito para su otorgamiento la garantía de mínimo un codeudor solidario y máximo dos codeudores solidarios, afiliados activos al Bienestar al menos durante un año, cuya solvencia será calificada por el Jefe del Bienestar.
 
 Este requisito no se aplica a los afiliados jubilados pertenecientes al I.N.P.
 
