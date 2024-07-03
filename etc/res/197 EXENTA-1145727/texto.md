@@ -156,7 +156,7 @@ En atención a las obras de reemplazo de las redes de alcantarillado y/o agua po
 
 En los casos que los integrantes del grupo familiar presenten alguna condición de salud que les impida habitar el lugar durante la ejecución de las obras, el PSAT deberá presentar un Informe Socio-Habitacional que justifique la necesidad de trasladar al grupo familiar a otro lugar por el tiempo que dura la obra.
 
-15. Para el presente llamado no se requerirá la emisión de certificados de subsidio. Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el representante legal del grupo postulante o el Presidente del Comité de Administración del condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu. Para el último pago de las obras, se exigirá un Acta de Conformidad de parte de la Seremi respectiva.
+15. Para el presente llamado no se requerirá la emisión de certificados de subsidio. Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el representante legal del grupo postulante o el Presidente del Comité de Administración del condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu.
 
 Adicionalmente, cuando se trate de obras destinadas a atender deficiencias en redes de servicio, se requerirá un Acta de Conformidad suscrita por cada uno de los propietarios o residentes de las unidades de viviendas intervenidas.
 
