@@ -150,7 +150,7 @@ a) El monto que anualmente apruebe el Estado como aporte institucional, que entr
 
 b) El aporte individual mensual, equivalente al 1% del sueldo base que perciba el afiliado en su calidad de funcionario de planta y contrata regidos por la ley Nº 19.464, por la ley Nº 21.109, el código laboral o estatuto administrativo.
 
-c) El aporte individual de los afiliados jubilados será establecido por el Consejo Administrativo del Servicio de Bienestar, el cual no podrá superar el 1% de su jubilación, más que el aporte institucional que será de su cargo.
+c) El aporte individual de los afiliados jubilados será establecido por el Consejo Administrativo del Servicio de Bienestar, el cual no podrá superar el 1% de su jubilación.
 
 d) Intereses que genere la mantención de fondos mutuos, depósitos a plazo y otros instrumentos financieros lo anterior conforme a lo dispuesto en el DL Nº 1.056, de 1975, artículo 3º inciso segundo, y en el DL Nº 1.263, de 1975, artículo 2º sobre administración financiera del Estado.
 
@@ -294,11 +294,9 @@ Los niveles considerados para el pago de esta asignación serán los siguientes:
 
 Si ambos padres fueren afiliados, se pagará solo una asignación por hijo, al afiliado que lo tenga reconocido como carga.
 
-e) Beneficio Asistente de la Educación: Anualmente el Consejo Administrativo del Servicio de Bienestar, determinará según su disponibilidad presupuestaria un aporte para los funcionarios afiliados, frente a la presentación de proyecto presentado por cada asociación gremial incluyendo las cotizaciones necesarias para realizar dicho proyecto. El cual será cancelado en la primera quincena del mes de septiembre de cada año.
+e) Beneficio Asistente de la Educación. Anualmente el Consejo Administrativo determinará según su disponibilidad presupuestaria un aporte en dinero o especie por afiliado el cual será entregado en la segunda quincena del mes de septiembre de cada año.
 
-f) Beneficios Septiembre y Diciembre: Anualmente el Consejo Administrativo del Servicio de Bienestar dispondrá la entrega de una tarjeta Gifcard en el mes de septiembre y diciembre respectivamente, su valor estará determinado por la disponibilidad presupuestaria.
-
-Durante el mes de diciembre, el Consejo Administrativo del Servicio de Bienestar determinará y coordinará una celebración navideña para las cargas familiares de los afiliados.
+f) Beneficios septiembre y diciembre: anualmente el Consejo Administrativo del Servicio de Bienestar dispondrá la entrega de un aporte en dinero o especie por afiliado en el mes de septiembre y diciembre respectivamente, su valor estará determinado por la disponibilidad presupuestaria.
 
 g) Beneficio de Desgravamen: Al fallecimiento del afiliado operará este beneficio en los términos señalados en el artículo 49º.
 
