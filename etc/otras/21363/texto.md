@@ -160,7 +160,9 @@ El artículo 40 ter de la ley N° 19.925 entrará en vigencia treinta y seis mes
 
 El reglamento al que alude el inciso final del artículo 40 bis y el inciso segundo del artículo 40 ter de la ley N° 19.925 deberá dictarse dentro del plazo de un año, contado desde la publicación de esta ley.
 
-El inciso noveno del artículo 40 bis de la ley N° 19.925 entrará en vigencia a partir de veinticuatro meses desde la publicación de la presente ley.".
+El inciso noveno del artículo 40 bis de la ley N° 19.925 entrará en vigencia a partir de veinticuatro meses desde la publicación de la presente ley.
+
+Las disposiciones del artículo 40 bis de la ley Nº 19.925 no se aplicarán a aquellos productos que hayan sido comercializados antes de las fechas de entrada en vigencia señaladas precedentemente, los que podrán comercializarse hasta agotar sus existencias.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
