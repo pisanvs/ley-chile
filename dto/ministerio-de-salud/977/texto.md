@@ -2908,6 +2908,12 @@ Inmediatamente después de pasteurizada las leches, deberán ser enfriadas a una
 
 Las leches pasteurizadas deberá dar la prueba de fosfatasa negativa.
 
+Toda la leche líquida, después de haber sido sometida a los procesos térmicos señalados, que sea usada como materia prima o para consumo directo, deberá ser fortificada con vitamina D3 (colecalciferol) de la siguiente manera:
+
+- Leche líquida/fluida: Una dosis única de 1 µg/100ml, la que podrá excederse hasta en un 40%, llegando a 1,4 µg/100ml.
+
+La verificación de la fortificación de la leche líquida se realizará en la leche fluida usada como materia prima en otros alimentos, o bien, utilizada para el consumo directo. En consecuencia, se excluirá la verificación de fortificación a aquellos productos elaborados a partir de la leche líquida o de sus subproductos.
+
 > **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
 
 #### Artículo 212
@@ -2957,6 +2963,14 @@ La crema o nata en polvo deberá contener, como mínimo, un 42% m/m de materia g
 El contenido de grasa y/o proteínas podrá ajustarse, únicamente, para cumplir con los requisitos de composición estipulados en este artículo, mediante incorporación y/o extracción de los constituyentes de la leche, de manera que no se modifique la proporción entre la proteína del suero y la caseína de la leche utilizada como materia prima.
 
 Podrá agregársele fluoruro bajo los límites que señale la norma técnica que, para estos efectos, dicte el Ministerio de Salud.
+
+Toda la leche en polvo, que sea usada como materia prima o para consumo directo, deberá ser fortificada con vitamina D3 (colecalciferol) de la siguiente manera:
+
+- Leche en polvo: Una dosis única de 10 µg/100g, la que podrá excederse hasta en un 40%, llegando a 14 µg/100g.
+
+La leche en polvo que provenga de otros países podrá venir fortificada desde el origen, o ser fortificada en Chile, previo a su comercialización.
+
+La verificación de la fortificación de la leche en polvo se realizará en las plantas que elaboran o reenvasan dicho producto, sea ésta para ser usada como materia prima para otros alimentos, o bien, para el consumo directo. En consecuencia, se excluirá la verificación de fortificación a aquellos productos elaborados a partir de la leche en polvo o de sus subproductos.
 
 #### Artículo 217
 
@@ -4033,6 +4047,14 @@ Hierro 30,0 mg/kg
 El hierro debe agregarse en forma de sulfato ferroso, en el evento de no ser esto posible podrá usarse fumarato ferroso siempre que se mantenga la equivalencia con el sulfato ferroso.
 
 Asimismo, la harina debe contener 1,8 mg/kg de ácido fólico, sin embargo éste se aceptará que esté presente en un rango de 1,0 a 2,6 mg/kg.
+
+La harina deberá ser fortificada con vitamina D3, en la cual deberá usarse preferentemente vitamina D 3 vegetal. Cuando se utilice vitamina D 3 animal, el producto necesariamente deberá comercializarse envasado de manera que se advierta al consumidor respecto al origen animal de la vitamina D empleada.
+
+La harina deberá ser fortificada con vitamina D3, colecalciferol, de origen vegetal o animal, en una cantidad mínima de 2,25 µg/100g, pudiendo excederse hasta en un 40%, alcanzando el nivel de 3,15 µg/100g.
+
+El origen vegetal o animal de la vitamina D3 utilizada, deberá declararse, de acuerdo a lo establecido en el artículo 107 letra h) del presente reglamento, como: "vitamina D 3 vegetal" o "vitamina D3 animal", según corresponda.
+
+La verificación de la fortificación se realizará en la harina como materia prima, para ser utilizada en otros alimentos o comercializada a público. En consecuencia, se excluirá la verificación de fortificación a aquellos productos elaborados a partir de la harina o de sus subproductos.
 
 #### Artículo 351
 
