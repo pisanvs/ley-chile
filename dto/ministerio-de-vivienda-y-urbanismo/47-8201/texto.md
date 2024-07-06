@@ -2864,7 +2864,7 @@ m) ELIMINADA.
 
 Tratándose de obras de adecuación en vías urbanas existentes, tales como proyectos viales de pavimentación o repavimentación, reposición, mejoramiento, conservación, adecuación de los perfiles existentes, redistribución del espacio de veredas y platabandas en aceras, o de redistribución del espacio entre aceras y calzadas, implementación de medidas de gestión de velocidad o de ciclovías, no será requisito dar cumplimiento a los criterios, condiciones y estándares de diseño establecidos en el inciso primero de este artículo, en tanto se dé cumplimiento, como mínimo, a los siguientes requisitos:
 
-a) Deberán contemplarse aceras a ambos costados de la vía, con un ancho mínimo de 2,00 m., las que deberán considerar la respectiva ruta accesible en los términos previstos en el artículo 2.2.8. de la presente Ordenanza.
+a) Deberán contemplarse aceras a ambos costados de la vía, con un ancho mínimo de 2,00 m., las que deberán considerar la respectiva ruta accesible en los términos previstos en el artículo 2.2.8. de la presente Ordenanza. Excepcionalmente, el Servicio de Vivienda y Urbanización respectivo podrá autorizar la disminución de este ancho cuando se trate de proyectos de obras de adecuación en vías urbanas existentes cuyas aceras no cumplan dicho requisito, debiendo en todo caso, darse cumplimiento a las exigencias de accesibilidad antes descritas.
 
 b) Las ciclovías deberán dar cumplimiento a lo dispuesto en el artículo 2.3.2. bis de esta Ordenanza.
 
