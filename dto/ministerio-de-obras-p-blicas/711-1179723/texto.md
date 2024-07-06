@@ -8,11 +8,11 @@ Decreto:
 
 NCh 1366. Of 79
 
-Agua potable - Plantas de tratamiento - Generalidades.
+Derogada.
 
 NCh 1367. Of 79
 
-Agua potable - Plantas de tratamiento - Desarenadores y sedimentadores simples (sin coagulación previa).
+Derogada.
 
 NCh 1593/I. Of 79
 
