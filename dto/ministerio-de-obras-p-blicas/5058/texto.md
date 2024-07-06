@@ -12,19 +12,21 @@ NCh777/1.Of2000 ANULADA Y REEMPLAZADA.
 
 NCh777/2.Of2000 Agua potable - Fuentes de
 
-abastecimiento y obras de captación -
+abastecimiento y obras
 
-Parte 2: Captación de aguas
+de captación - Parte 2:
+
+Captación de aguas
 
 subterráneas.
 
-NCh2472.Of2000 Aguas residuales - Planta elevadora,
+NCh2472.Of2000 Derogada.
 
-Especificaciones generales.
+NCh2485.Of2000 Instalaciones domiciliarias
 
-NCh2485.Of2000 Instalaciones domiciliarias de agua
+de agua potable - diseño,
 
-potable - diseño, cálculo y requisitos
+cálculo y requisitos
 
 de las redes interiores.
 

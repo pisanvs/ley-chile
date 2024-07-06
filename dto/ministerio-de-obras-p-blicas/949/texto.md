@@ -32,13 +32,7 @@ El presente decreto se publicará en el Diario Oficial. El texto íntegro de las
 
 A contar de la fecha de publicación de este Decreto en el Diario Oficial, las normas individualizadas en el Artículo 1º, se denominarán como sigue:
 
-NCh2313/7.Of97 Aguas residuales-Métodos
-
-de análisis-Parte 7:
-
-Determinación de
-
-hidrocarburos totales.
+NCh2313/7.Of97 Derogada.
 
 NCh2313/14.Of97 Aguas residuales-Métodos
 

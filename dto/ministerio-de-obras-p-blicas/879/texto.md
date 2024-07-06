@@ -52,47 +52,55 @@ El presente Decreto se publicará en el Diario Oficial. El texto íntegro de las
 
 A contar de la fecha de publicación de este Decreto en el Diario Oficial, las normas individualizadas en el Artículo 1°, se denominarán como sigue:
 
-NCh 2313/9 Of96 Aguas residuales - Métodos de
+NCh 2313/9 Of96 Aguas residuales -
 
-análisis - Parte 9: Determinación de
+Métodos de análisis -
 
-arsénico - Método de
+Parte 9: Determinación
 
-espectrofotometría de absorción
+de arsénico - Método
 
-atómica con generación continua de
+de espectrofotometría
 
-hidruros.
+de absorción atómica
 
-NCh 2313/10 Of96 Aguas residuales - Métodos de
+con generación continua
 
-análisis - Parte 10: Determinación
+de hidruros.
 
-de metales pesados - Método de
+NCh 2313/10 Of96 Derogada.
 
-espectrofotometría de absorción
+NCh 2313/11 Of96 Aguas residuales -
 
-atómica con llama.
+Métodos de análisis -
 
-NCh 2313/11 Of96 Aguas residuales - Métodos de
+Parte 11: Determinación
 
-análisis - Parte 11: Determinación de
+de cromo hexavalente -
 
-cromo hexavalente - Método de
+Método de
 
-espectrofotometría de absorción
+espectrofotometría
 
-atómica.
+de absorción atómica.
 
-NCh 2313/12 Of96 Aguas residuales de análisis -
+NCh 2313/12 Of96 Aguas residuales de
 
-Métodos de análisis - Parte 12:
+análisis - Métodos
 
-Determinación de mercurio - Método de
+de análisis - Parte 12:
 
-espectrofotometría de absorción
+Determinación de
 
-atómica con generación de vapor frío.
+mercurio - Método de
+
+espectrofotometría
+
+de absorción atómica
+
+con generación de
+
+vapor frío.
 
 #### Artículo 3°
 

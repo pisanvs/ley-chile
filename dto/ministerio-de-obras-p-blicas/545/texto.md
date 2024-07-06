@@ -24,7 +24,7 @@ El presente Decreto se publicará en el Diario Oficial. El texto íntegro de las
 
 A contar de la fecha de publicación de este Decreto en el Diario Oficial, las normas individualizadas en el Artículo 1°, se denominarán como sigue:
 
-NCh 2313/1. Of 95 Aguas Residuales - Métodos de Análisis Parte 1: Determinación de pH.
+NCh 2313/1. Of 95 Derogada.
 
 NCh 2313/2. Of95 Aguas Residuales - Métodos de Análisis - Parte 2: Determinación de la temperatura.
 
