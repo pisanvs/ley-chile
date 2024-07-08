@@ -36,7 +36,7 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1º
 
-Banco Unificado de Datos. El Banco Unificado de Datos establecido en el artículo 11 de la ley Nº 20.931, en adelante indistintamente BUD o BUD Operativo, es un banco de datos personales de imputados y condenados, orientado al intercambio de dichos datos por parte de las instituciones señaladas en el Título III del presente Reglamento y cuyo objeto es servir de elemento de apoyo a la labor investigativa en las diversas etapas del proceso penal y de colaboración para una eficaz y eficiente toma de decisiones de los tribunales de justicia y de sustento a las políticas de reinserción. Este banco de datos permitirá que las Instituciones participantes intercambien, por medios electrónicos y automatizadamente, de manera interconectada y centralizada, dentro de sus respectivas competencias, los datos personales de imputados y condenados.
+Banco Unificado de Datos. El Banco Unificado de Datos establecido en el artículo 11 de la ley Nº 20.931, en adelante indistintamente BUD o BUD Operativo, es un banco de datos personales de imputados y condenados, orientado al intercambio de dichos datos por parte de las instituciones señaladas en el Título III del presente Reglamento y cuyo objeto es servir de elemento de apoyo a la labor investigativa en las diversas etapas del proceso penal y de colaboración para una eficaz y eficiente toma de decisiones de los tribunales de justicia, de sustento a las políticas de reinserción y en la atención, custodia y asistencia de detenidos, sujetos a prisión preventiva y condenados en recintos penitenciarios. Este banco de datos permitirá que las Instituciones participantes intercambien, por medios electrónicos y automatizadamente, de manera interconectada y centralizada, dentro de sus respectivas competencias, los datos personales de imputados y condenados.
 
 #### Artículo 2º
 
@@ -74,7 +74,7 @@ l) Imputados: Personas a quienes se le atribuyere participación en un hecho pun
 
 m) Condenados: Personas respecto de las cuales se ha dictado sentencia condenatoria firme por cualquier Tribunal con competencia en lo penal.
 
-n) Administrador: Institución que administra el banco de datos referida en el artículo 14 del presente Reglamento.
+n) Administrador: Institución que administra el banco de datos referida en el artículo 12 del presente Reglamento.
 
 o) Perfiles de acceso: Privilegios o niveles de permiso que determinan las acciones que se pueden realizar o el tipo de datos a que se puede acceder, los que son asignados por cada Institución participante a los funcionarios que defina para que operen en el BUD Operativo dependiendo de sus roles.
 
@@ -90,7 +90,7 @@ DE LOS DATOS PERSONALES QUE SERÁN INTERCAMBIADOS EN EL BUD OPERATIVO
 
 #### Artículo 4º
 
-De los datos personales del BUD Operativo. En la plataforma informática, cuyo funcionamiento se regula en el presente reglamento, se inyectarán e intercambiarán aquellos datos personales de imputados y condenados que estuvieren vinculados con los ámbitos de prevención, control, persecución, administración de justicia o reinserción en el ámbito penal.
+De los datos personales del BUD Operativo. En la plataforma informática, cuyo funcionamiento se regula en el presente reglamento, se inyectarán e intercambiarán aquellos datos personales de imputados y condenados que estuvieren vinculados con los ámbitos de prevención, control, persecución, administración de justicia, reinserción o atención y custodia en el ámbito penitenciario.
 
 Considerando estrictamente las competencias de cada una de las Instituciones participantes y conforme a las mismas, se determinarán, según lo dispuesto en el artículo 18 letra b) del presente Reglamento, los privilegios de los perfiles de acceso de supervisor y usuario en un protocolo que, al efecto, dictará el Ministerio Público en su calidad de Administrador, de acuerdo a los criterios que hayan sido revisados previamente con el Comité, el que deberá, además, ser suscrito por cada uno de sus integrantes. Por otro lado, dicho protocolo regulará los lineamientos técnicos de la plataforma, tales como el sistema de carga de datos y periodicidad de inyección, y aplicativos del BUD Operativo, conforme lo establecido en el artículo 18 letra a) de este Reglamento.
 
@@ -142,7 +142,7 @@ DE LAS INSTITUCIONES PARTICIPANTES DEL BUD OPERATIVO
 
 Órganos o Instituciones participantes. Integrarán esta plataforma, por el solo ministerio de la ley, el Ministerio Público, Carabineros de Chile, la Policía de Investigaciones de Chile, Gendarmería de Chile y el Poder Judicial.
 
-Asimismo, conforme a su normativa orgánica y de acuerdo a lo dispuesto en el artículo 11 de la ley Nº 20.931, integrarán también el BUD Operativo: el Departamento de Extranjería y Migración dependiente de la Subsecretaría del Interior del Ministerio del Interior y Seguridad Pública; el Ministerio de Justicia y Derechos Humanos; el Servicio de Registro Civil e Identificación y el Servicio Nacional de Menores.
+Asimismo, conforme a su normativa orgánica y de acuerdo a lo dispuesto en el artículo 11 de la ley Nº 20.931, integrarán también el BUD Operativo: el Servicio Nacional de Migraciones; el Ministerio de Justicia y Derechos Humanos; el Servicio de Registro Civil e Identificación; el Servicio Nacional de Menores; la Dirección General de Movilización Nacional y la Dirección General del Territorio Marítimo. La integración de estas instituciones aplicará a sus continuadores legales.
 
 Las instituciones participantes deberán regir su actuar conforme el principio de coordinación, en virtud del cual, el Administrador y las instituciones participantes deberán cumplir sus funciones coordinadamente, de manera colaborativa y propender a la unidad de acción.
 
@@ -278,7 +278,7 @@ Registro de operaciones. El Administrador deberá mantener registros de: usuario
 
 La información a que se refiere el inciso anterior se utilizará únicamente a efectos de verificar la legalidad del tratamiento, autocontrol, garantizar la integridad y la seguridad de los datos personales.
 
-El Administrador podrá elaborar un reporte de los hechos relevantes detectados en las operaciones, con objeto de darlo a conocer en la reunión trimestral del Comité o cada vez que ello resulte necesario para el correcto funcionamiento del BUD.
+El Administrador podrá elaborar un reporte de los hechos relevantes detectados en las operaciones, con objeto de darlo a conocer cuando se reúna el Comité o cada vez que ello resulte necesario para el correcto funcionamiento del BUD.
 
 ## Título V
 
@@ -298,7 +298,7 @@ La designación para participar del Comité, tanto en calidad de titular como su
 
 #### Artículo 17
 
-Del funcionamiento del Comité. El Comité se reunirá trimestralmente, sin perjuicio que el Administrador o al menos tres de los integrantes del Comité convoquen a sesiones extraordinarias, cuando lo estimen pertinente. En cada reunión se tratarán las materias que hayan sido señaladas previamente en su respectiva citación, la que deberá hacerse por medios electrónicos o por la vía que resultare más eficiente y eficaz al efecto.
+Del funcionamiento del Comité. El Comité se reunirá semestralmente, sin perjuicio que el Administrador o al menos tres de los integrantes del Comité convoquen a sesiones extraordinarias, cuando lo estimen pertinente. En cada reunión se tratarán las materias que hayan sido señaladas previamente en su respectiva citación, la que deberá hacerse por medios electrónicos o por la vía que resultare más eficiente y eficaz al efecto.
 
 Un representante del Administrador coordinará el Comité y dirigirá el debate de las sesiones, debiendo enviar a los designados como representantes de las Instituciones participantes y a los respectivos jefes de servicio o autoridad correspondiente, en forma previa a cada sesión, una citación que contenga, al menos, un temario con los puntos a tratar.
 
