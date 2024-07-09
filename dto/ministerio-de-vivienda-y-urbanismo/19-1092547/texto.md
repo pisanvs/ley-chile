@@ -824,6 +824,16 @@ Los efectos en caso de infracciones que sean imputables a la Entidad Desarrollad
 
 Las medidas antes señaladas se aplicarán mediante resoluciones del Secretario Regional Ministerial de Vivienda y Urbanismo, en base el procedimiento establecido en la ley N° 19.880.
 
+#### Artículo primero
+
+transitorio. Siempre que el subsidio sea presentado a cobro hasta el 31 de diciembre de 2025, las familias de sectores medios que apliquen el subsidio a una vivienda de un proyecto seleccionado a través de este reglamento y que haya obtenido la recepción municipal del total de las viviendas del proyecto hasta el 31 de marzo de 2024 obtendrán un subsidio adicional de 100 Unidades de Fomento respecto del monto de subsidio determinado de acuerdo con las reglas establecidas en la tabla inserta en el literal b) del artículo 3° de este reglamento. En dichos casos el precio de la vivienda no podrá exceder de lo establecido en el convenio suscrito por la entidad desarrolladora con el Serviu respectivo para cada proyecto.
+
+Para lo anterior, el beneficiario deberá acreditar un ahorro adicional al establecido en el artículo 3° letra b), de a lo menos 50 Unidades de Fomento.
+
+El beneficiario del subsidio podrá solicitar un crédito hipotecario complementario conforme a lo establecido en el Párrafo VI de este reglamento, "Del Crédito Hipotecario" debiendo cumplir con el aporte al contado mínimo requerido de acuerdo con las normas que regulan el crédito respectivo determinadas en el Párrafo VII de este reglamento.
+
+Mediante resoluciones del Ministro de Vivienda y Urbanismo, se podrán fijar las condiciones, operaciones y actos requeridos para efectos de la implementación de un sistema informático en el que se publique la oferta de viviendas, se establezcan requisitos de ingreso al sistema, cantidad de viviendas a ingresar y la cantidad de operaciones disponibles.
+
 #### Artículo segundo
 
 Modifícase el DS N° 1 (V. y U.), de 2011, Reglamento del Sistema Integrado de Subsidio Habitacional, en el siguiente sentido:

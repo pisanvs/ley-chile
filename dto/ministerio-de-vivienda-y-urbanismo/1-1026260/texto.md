@@ -1324,6 +1324,16 @@ c) En los llamados que se efectúen a partir del año 2024, regirán los montos 
 
 Para aquellos beneficiarios que apliquen el subsidio a la adquisición de una vivienda cuyo precio exceda al del tramo en que resultaron seleccionados, regirán los montos de ahorro vigentes para cada tramo del llamado en que postuló.
 
+#### Artículo 7°
+
+transitorio. Siempre que el subsidio sea presentado a cobro hasta el 31 de diciembre de 2025, los beneficiarios de subsidio en la modalidad de adquisición regulados por el tramo 2 y tramo 3 de este reglamento podrán aplicar el subsidio a la adquisición de viviendas nuevas de un precio de hasta 3.000 Unidades de Fomento, sin perjuicio de lo establecido en los artículos 64 y 67 del presente reglamento. En dichos casos se considerará un subsidio adicional de 150 Unidades de Fomento a los montos de subsidio determinados el literal a2) del artículo 64 y en el literal a) del artículo 67. Para obtener este subsidio adicional, el beneficiario deberá acreditar un ahorro adicional de un monto equivalente a lo menos al doble del ahorro mínimo exigido en el tramo del llamado en que resultó seleccionado.
+
+Las viviendas a las que se aplicará el subsidio regulado en el presente artículo transitorio serán calificadas por el Serviu y deberán cumplir con lo establecido en el número 2. del artículo 42 de este reglamento. Asimismo, mediante resoluciones del Ministro de Vivienda y Urbanismo, se podrán fijar las condiciones, operaciones y actos requeridos para efectos de la implementación de un sistema informático en el que se publique la oferta de viviendas, se establezcan requisitos de ingreso al sistema, cantidad de viviendas a ingresar y la cantidad de operaciones disponibles.
+
+El beneficiario del subsidio que lo haya aplicado a la adquisición de una vivienda nueva conforme a lo establecido en el presente artículo transitorio podrá solicitar un crédito hipotecario complementario de acuerdo a lo establecido en el Título III del Capítulo III de este reglamento, "De los créditos hipotecarios complementarios para el financiamiento del precio de adquisición o de construcción de la vivienda", debiendo cumplir con el aporte al contado mínimo requerido de acuerdo a las normas que regulan el crédito respectivo.
+
+En el caso de que el beneficiario de subsidio que adquiera una vivienda nueva calificada por el Serviu conforme a lo establecido en este artículo transitorio y en el marco de las resoluciones que se dicten al efecto, cuyo crédito hipotecario sea de un monto de más de 1.200 y hasta 1.600 Unidades de Fomento obtendrá por un plazo de 5 años una subvención equivalente al 10% de cada dividendo devengado, que sea pagado al día, para lo que deberá cumplir con los requisitos y condiciones a que se refiere el artículo 74 bis) de este reglamento, que le sean aplicables.
+
 Anótese, tómese razón y publíquese. SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli Del Río, Subsecretario de Vivienda y Urbanismo.
