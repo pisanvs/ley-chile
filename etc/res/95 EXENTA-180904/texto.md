@@ -128,7 +128,7 @@ c) Estación repetidora comunitaria: Estación repetidora cuya utilización es c
 
 Dichas sub-bandas también podrán ser asignadas a sistemas digitales del servicio móvil de radiocomunicaciones especializado.
 
-La canalización de frecuencias en las referidas sub-bandas será de modo uniforme a 25 kHz, lo que corresponderá a la separación mínima entre dos frecuencias portadoras adyacentes.
+La canalización de frecuencias en las referidas sub-bandas será de modo uniforme a 25 kHz, lo que corresponderá a la separación mínima entre dos frecuencias portadoras adyacentes. No obstante, el permisionario, concesionario o Institución del artículo 11º de la Ley, según corresponda, podrá implementar canales con canalización menor a 25 kHz dentro del mismo ancho de banda, en la medida que dichas emisiones no interfieran a los canales adyacentes.
 
 5.2 El empleo de las sub-bandas de frecuencias de la banda 806-861 MHz, distintas a las especificadas en esta norma, será destinado para otros fines, en la forma que lo determine la Subsecretaría.
 
@@ -154,7 +154,7 @@ Sólo en casos debidamente justificados la Subsecretaría podrá autorizar a una
 
 - Transmisión: 861,00 MHz a 864,00 MHz
 
-5.9 La canalización de frecuencias en las sub-bandas 816-819 MHz y 861-864 MHz será uniforme a 25 kHz, lo que corresponde a la separación mínima entre dos frecuencias portadoras adyacentes. Los 120 canales que utilizarán dichas sub-bandas se dividirán en 3 bloques según se detalla en el Apéndice N° 3 de esta norma.
+5.9 La canalización de frecuencias en las sub-bandas 816-819 MHz y 861-864 MHz será uniforme a 25 kHz, lo que corresponde a la separación mínima entre dos frecuencias portadoras adyacentes. No obstante, los concesionarios podrán implementar canales con canalización menor a 25 kHz, dentro del mismo ancho de banda, en la medida que dichas emisiones no interfieran a los canales adyacentes. Los 120 canales que utilizarán dichas sub-bandas se dividirán en 3 bloques según se detalla en el Apéndice Nº 3 de esta norma.
 
 5.10 En una misma área geográfica el Servicio Público Móvil de Radiocomunicaciones Especializado en las sub-bandas 816 - 819 MHz y 861 - 864 MHz, podrá ser suministrado hasta por tres concesionarias. La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
 
