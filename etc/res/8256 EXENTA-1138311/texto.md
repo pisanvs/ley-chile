@@ -68,7 +68,7 @@ Segundo: Deléguese en el Jefe del Departamento de Acción Sanitaria, la faculta
 
 24. Resolver las solicitudes de desistimiento, el abandono del procedimiento y la imposibilidad material de continuarlo por causas sobrevinientes, que se presenten o configuren en los procedimientos administrativos individualizados en este numeral;
 
-25. Emisión de resoluciones de cambio de razón social, respecto de las solicitudes de autorización señaladas en este numeral y de aquellas delegadas a los jefes de oficina en el numeral cuarto del presente acto administrativo;
+25. Resolver la calificación administrativa de especies caninas potencialmente peligrosas, de conformidad con lo dispuesto en el decreto supremo N° 1.007/18, del Ministerio del Interior y de Seguridad Pública, que aprueba el Reglamento de la ley N° 21.020, sobre Tenencia Responsable de Mascotas y Animales de Compañía;
 
 26. Resolver las solicitudes de dejar sin efecto toda resolución que se relacione con los procedimientos administrativos individualizados en este numeral.
 
@@ -105,6 +105,14 @@ que no sean consideradas plantas de tratamiento de aguas servidas (sistemas fosa
 14. Resolver las solicitudes de desistimiento, el abandono del procedimiento y la imposibilidad material de continuarlo por causas sobrevinientes, que se presenten o configuren en los procedimientos administrativos individualizados en este numeral.
 
 15. Resolver las solicitudes de dejar sin efecto toda resolución que se relacione con los procedimientos administrativos individualizados en este numeral.
+
+Tercero bis: Delégase en el Jefe del Departamento Jurídico de la Secretaría Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins la facultad de suscribir bajo la fórmula "Por orden de la Secretaria Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins" los siguientes instrumentos:
+
+a) Respuestas a solicitudes de información requeridas por los Tribunales Superiores de Justicia, Juzgados ordinarios de primera instancia, de Policía Local, en aquellos casos en que la Seremi de Salud sea requerida como tercero en los procedimientos judiciales a que haya lugar.
+
+b) Ordinarios de Respuesta al Ministerio Público, Policía de Investigaciones o Carabineros de Chile.
+
+c) Oficios y ordinarios al Consejo de Defensa del Estado.
 
 Cuarto: Déjase establecido que en caso de ausencia o impedimento de las delegadas y delegados indicados en los numerales segundo y tercero precedentes, las facultades serán ejercidas por sus subrogantes, quienes obrarán con todas y cada una de las facultades otorgadas al delegado o delegada.
 
