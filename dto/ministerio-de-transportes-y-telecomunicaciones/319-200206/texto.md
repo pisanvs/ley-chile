@@ -46,23 +46,41 @@ D e c r e t o:
 
 Elementos de la esencia de la concesión:
 
-- Tipo de servicio : Radiodifusión sonora
+- Tipo de servicio : Radiodifusión
 
-en frecuencia modulada.
+sonora en
 
-- Zona de servicio : Localidad de Cañete.
+frecuencia
 
-Superficie delimitada
+modulada.
 
-por una intensidad de
+- Zona de servicio : Localidad de
 
-campo mayor o igual
+Cañete.
 
-que 54 dB (uV/m),
+Superficie
 
-referida al punto de
+delimitada
 
-emisión de la señal.
+por una
+
+intensidad de
+
+campo mayor
+
+o igual
+
+que 54 dB
+
+(uV/m),
+
+referida al
+
+punto de
+
+emisión
+
+de la señal.
 
 - Período de la concesión : 25 años.
 
@@ -86,11 +104,17 @@ Características técnicas de las instalaciones:
 
 - Diagrama de radiación : Direccional.
 
-- Ganancia : 4,44 dBd de ganancia
+- Ganancia : 4,44 dBd de
 
-máxima, con un asimut
+ganancia
 
-de radiación máxima en 90°.
+máxima,
+
+con un asimut
+
+de radiación
+
+máxima en 90°.
 
 - Polarización : Circular.
 
@@ -124,15 +148,23 @@ Ubicación de las instalaciones:
 
 planta transmisora y
 
-sistema radiante : Calle Francisco Villagrán
+sistema radiante : Calle Francisco
 
-Nº 1165, Cañete, VIII
+Villagrán Nº
 
-Región.
+1165, Cañete,
 
-- Coordenadas geográficas : 37°47'40" Latitud Sur
+VIII Región.
 
-72°23'30" Longitud Oeste.
+- Coordenadas geográficas : 37°47'40"
+
+Latitud Sur
+
+73°23'30"
+
+Longitud
+
+Oeste.
 
 4.- Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
