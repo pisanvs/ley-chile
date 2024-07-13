@@ -70,6 +70,8 @@ Facúltase al Ministro de Hacienda para incrementar, mediante decreto expedido b
 
 Facúltase al Ministro de Hacienda para incrementar, mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República", el Fondo en 40 millones de dólares de los Estados Unidos de América, mediante una o más transferencias de recursos disponibles en activos financieros del Tesoro Público. Dicha facultad podrá ser ejercida hasta el 31 de diciembre del año 2022.
 
+Facúltase al Ministro de Hacienda para incrementar, mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República", el Fondo en 25 millones de dólares de los Estados Unidos de América, mediante una o más transferencias de recursos disponibles en activos financieros del Tesoro Público. Dicha facultad podrá ser ejercida hasta el 31 de diciembre del año 2024.
+
 #### Artículo 6°
 
 <!-- parte:8036806 -->
