@@ -1,4 +1,4 @@
-DISPONE REQUISITOS QUE DEBEN CUMPLIR LOS SISTEMAS DE FRENOS, LUCES, SEÑALIZADORES, APARATOS SONOROS, VIDRIOS, DISPOSITIVOS DE EMERGENCIA Y RUEDA DE REPUESTO CON QUE DEBERAN CONTAR LOS VEHICULOS MOTORIZADOS; FIJA CARACTERÍSTICAS A CASCO PARA CICLISTAS Y REGLAMENTA USO DE TELEFONO CELULAR EN VEHICULOS MOTORIZADOS
+DISPONE REQUISITOS QUE DEBEN CUMPLIR LOS SISTEMAS DE FRENOS, LUCES, SEÑALIZADORES, APARATOS SONOROS, VIDRIOS, DISPOSITIVOS DE EMERGENCIA Y RUEDA DE REPUESTO CON QUE DEBERAN CONTAR LOS VEHICULOS MOTORIZADOS Y REGLAMENTA USO DE TELEFONO CELULAR EN VEHICULOS MOTORIZADOS
 
 Núm. 22.- Santiago, 21 de febrero de 2006.- Visto: Lo dispuesto en el artículo 32º número 6º, de la Constitución Política de la República de Chile; la ley Nº 18.059; el artículo 3º de la ley Nº 18.696; la ley Nº 18.290, de Tránsito; la ley Nº 20.068 que modifica la ley Nº 18.290, de Tránsito, y demás normas pertinentes.
 
@@ -20,7 +20,7 @@ Decreto:
 
 Los vehículos motorizados deben tener, a lo menos, dos sistemas de frenos de acción independientes uno del otro, y por lo menos uno de éstos deberá accionar sobre todas las ruedas del vehículo, salvo aquellos tipos de vehículos que determine el Ministerio de Transportes y Telecomunicaciones.
 
-Los vehículos motorizados de dos o tres ruedas, deberán contar como mínimo con dos sistemas de frenos, uno que actúe sobre la rueda o ruedas delanteras y otro que actúe sobre la rueda o ruedas traseras, y las bicicletas y triciclos irán provistos, a lo menos, de un sistema de frenos, ya sea de pie o de mano, que accione sobre la rueda trasera o delantera.
+Los vehículos motorizados de dos o tres ruedas, deberán contar como mínimo con dos sistemas de frenos, uno que actúe sobre la rueda o ruedas delanteras y otro que actúe sobre la rueda o ruedas traseras.
 
 #### Artículo 2º
 
@@ -48,6 +48,12 @@ Los vehículos según su tipo o clase deberán estar provistos de los siguientes
 
 Parte delantera: dos focos que permitan proyectar las luces bajas y altas, dos luces de estacionamiento, y dos destellantes de viraje, y Parte trasera: dos luces de estacionamiento, dos destellantes de viraje, dos de frenos, dos de retroceso, dos luces rojas fijas y una que ilumine la placa patente. Con todo, los vehículos motorizados livianos de pasajeros definidos en el decreto supremo N° 211, de 1991, del Ministerio de Transportes y Telecomunicaciones, podrán estar provistos con una o dos luces de retroceso, cuando respecto de ellos se acredite que sus luces cumplen las disposiciones que establece el decreto supremo N° 2, de 17 de enero de 2017, del Ministerio de Transportes y Telecomunicaciones.
 
+Con todo, los vehículos motorizados de cuatro o más ruedas, podrán estar provistos en su parte delantera de dos luces antiniebla de color blanco o amarillo y en su parte trasera con una o dos luces antiniebla de color rojo; las que sólo deberán llevarse encendidas, cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables para la visión, tales como, niebla espesa, lluvia intensa o fuerte nevada.
+
+Las luces antiniebla delanteras deberán posicionarse en el ancho del vehículo, separadas una de otra de forma simétrica, con respecto al plano longitudinal medio del vehículo, y su borde externo deberá encontrarse como máximo a 400 mm del borde externo del vehículo. Deberán estar ubicadas en el parachoques, o a una altura que no supere la altura de los focos que proyectan las luces bajas. Además, su superficie de iluminación no deberá sobresalir de la cara frontal del parachoques en el punto de instalación de las referidas luces antiniebla.
+
+Para los mismos vehículos, cuando se instale una luz antiniebla trasera, ésta deberá ubicarse en el ancho del vehículo, a la izquierda del plano longitudinal medio del vehículo, según el sentido de marcha del mismo o al centro; en caso de instalarse dos luces antiniebla, deberán ubicarse de forma simétrica respecto del plano longitudinal medio del vehículo. En ambos casos, la distancia entre la luz antiniebla trasera y cada luz de freno será igual o superior a 100m.
+
 * Remolques y semirremolques:
 
 Las mismas luces definidas para la parte trasera de los vehículos motorizados de cuatro o más ruedas;
@@ -56,13 +62,9 @@ Las mismas luces definidas para la parte trasera de los vehículos motorizados d
 
 Parte delantera: un foco que permita proyectar las luces bajas y altas, y
 
-Parte trasera: luz roja fija, luz de freno y dos luces destellantes de viraje;
+Parte trasera: luz roja fija, luz de freno y dos luces destellantes de viraje.
 
-* Triciclos y bicicletas:
-
-Parte delantera: un foco que permita proyectar luz frontal, y
-
-Parte trasera: luz roja fija;
+Optativamente, podrán estar provistos de dos luces destellantes de viraje delanteras, de color amarillo, ubicadas de forma simétrica respecto al plano longitudinal medio del vehículo, con una distancia mínima de 240 mm entre las superficies iluminantes y a una altura sobre el suelo comprendida entre 350 mm y 1.200 mm. Estas luces, podrán moverse con el ángulo de giro de la dirección;
 
 * Vehículos a tracción animal y carretones de mano:
 
@@ -84,11 +86,13 @@ Para vehículos distintos de buses y camiones, la exigencia anterior comenzará 
 
 #### Artículo 8º
 
+Salvo el caso de las excepciones que más adelante se indican, se prohíbe la conducción de un vehículo, usando indebidamente las luces, con luces o focos distintos o adicionales a los permitidos en la normativa legal y reglamentaria aplicable.
+
 Podrán utilizar dispositivos luminosos, fijos o giratorios, de luces intermitentes o continuas, y sólo cuando estén cumpliendo labores propias de la función que en cada caso se indica, los siguientes vehículos:
 
 * Vehículos utilizados por las Municipalidades en labores de apoyo a la función policial;
 
-* Vehículos habilitados para cumplir funciones de auxilio a vehículos detenidos o accidentados en calles y caminos;
+* Vehículos habilitados para cumplir funciones de auxilio a vehículos detenidos o accidentados en calles y caminos, así como a la gestión y normalización de la circulación de vehículos en caminos públicos;
 
 * Vehículos construidos y destinados a apagar incendios forestales; y
 
@@ -238,7 +242,7 @@ El chaleco deberá encontrarse siempre en un lugar del vehículo que sea accsesi
 
 #### Artículo 18º
 
-El casco protector exigible a los conductores de bicicletas y sus acompañantes que transiten en las zonas urbanas, deberá cubrir al menos la parte superior de la cabeza y permanecer fijo a ella mediante una cinta o correa que lo sujete por debajo de la barbilla, asegurado mediante hebillas, trabas u otro dispositivo similar.
+Eliminado.
 
 #### Artículo 19º
 
