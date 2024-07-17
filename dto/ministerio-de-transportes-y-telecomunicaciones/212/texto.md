@@ -92,7 +92,7 @@ d) tipo de vehículo(s) que utilizará;
 
 e) constancia de la existencia de un título que lo habilita a destinar los vehículos al servicio, firmada por el responsable del servicio y el o los propietarios de los vehículos salvo lo dispuesto en el inciso 3º del artículo 15.
 
-f) Declaración jurada suscrita por quien solicita la inscripción, en el sentido de conocer la obligación de constituir garantías de correcta y fiel prestación del servicio y de contar con patrimonio suficiente para ello, de conformidad a las normas del presente reglamento, cuando éstas sean exigibles.
+f) Declaración jurada simple suscrita por quien solicita la inscripción, en el sentido de conocer la obligación de constituir garantías de correcta y fiel prestación del servicio y de contar con patrimonio suficiente para ello, de conformidad a las normas del presente reglamento, cuando éstas sean exigibles.
 
 g) nombre o razón social, según corresponda, nombre de fantasía o de uso comercial, en caso de tenerlo, domicilio y dirección de correo electrónico del interesado en prestar el servicio.
 
@@ -378,7 +378,7 @@ a) nombre del responsable del servicio;
 
 - **e)** tratándose de vehículos inscritos en servicios de locomoción colectiva urbana y rural, la(s) ciudad(es) en la(s) que operará(n) y la descripción de los trazados que se obliga atender.
 
-Este documento deberá mantenerse en el vehículo y, en caso de extravío, deberá solicitarse un duplicado, para lo cual se adjuntará una declaración jurada ante Notario que dé constancia del hecho. Cuando la solicitud de duplicado sea realizada por medios electrónicos, la referida declaración jurada podrá ser efectuada sólo mediante firma electrónica del interesado.
+Este documento deberá mantenerse en el vehículo y, en caso de extravío, deberá solicitarse un duplicado, para lo cual se deberá adjuntar una declaración jurada simple que dé constancia del hecho. La misma exigencia se requerirá cuando la solicitud de duplicado sea realizada por medios electrónicos.
 
 ### 3. De las modificaciones a las inscripciones en el
 
@@ -617,6 +617,8 @@ Servicio corriente es aquél que no cumple con los requisitos del servicio expre
 #### Artículo 40°
 
 Podrá llevarse pasajeros de pie en buses y trolebuses de servicio corriente que cumplan los requisitos técnicos determinados por el Ministerio de Transportes y Telecomunicaciones.
+
+Sin perjuicio de lo anterior, no se podrá trasladar pasajeros de pie en el segundo piso de los buses clase D, definidos en el decreto supremo Nº 122, de 1991, del Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 41°
 
@@ -978,7 +980,7 @@ En los servicios rurales cuando se transporte carga sobre el techo, ésta deber�
 
 #### Artículo 70°
 
-El transporte de valijas, bultos y paquetes será de responsabilidad de las empresas cuando se lleven en la parrilla o en las cámaras portaequipajes, las que deberán entregar al pasajero un comprobante por cada bulto. Ello ocurrirá en todo caso respecto al transporte de cartas y encomiendas en cuanto se haga conforme a la ley. Las especies primeramente citadas serán de cuidado de los pasajeros cuando se lleven en las parrillas portaequipajes interiores.
+El transporte de valijas, bultos y paquetes será de responsabilidad de las empresas cuando se lleven en la parrilla o en las cámaras portaequipajes, las que deberán entregar al pasajero un comprobante por cada bulto, en el caso de los servicios interurbanos, dicho comprobante deberá consignar el nombre del pasajero y el número de asiento en el que se traslada; del mismo modo las empresas incorporarán al listado señalado en el art. 59 bis el (los) número(s) de comprobante(s) de cada bulto. Ello ocurrirá en todo caso respecto al transporte de cartas y encomiendas en cuanto se haga conforme a la ley. Las especies primeramente citadas serán de cuidado de los pasajeros cuando se lleven en las parrillas portaequipajes interiores.
 
 Cuando un pasajero lo desee podrá hacer declaración escrita a la empresa de las especies que transporte o remita. Esto será obligatorio cuando, a juicio del pasajero o remitente, el valor de los objetos exceda de 5 Unidades Tributarias Mensuales. Al efecto, las empresas pondrán a disposición del público en sus terminales los formularios adecuados para hacer la declaración y podrán verificar la autenticidad de ellas.
 
@@ -1022,13 +1024,11 @@ Para prestar servicios de taxi, los automóviles deberán cumplir con los siguie
 
 a) Ser vehículos de una antiguedad no superior a un año, al solicitar su incorporación al Registro Nacional por primera vez. La antiguedad se calculará como la diferencia entre el año en que se solicita la inscripción y el año de fabricación o modelo de del vehículo anotado en el Registro de Vehículos Motorizados.
 
-b) contar con un motor de 1,5 litros de cilindrada o superior, o contar con motor eléctrico puro, entendiendo como tal aquel vehículo impulsado exclusivamente por energía eléctrica o vehículo híbrido, entendiendo como tal aquel vehículo impulsado por una cadena de tracción híbrida con al menos dos convertidores de energía distintos y dos sistemas diferentes de almacenamiento de energía (situados en el propio vehículo) para propulsar el vehículo para prestar servicio de taxis, en cualquiera de sus modalidades.
-
-Contar con un motor 1,4 litros de cilindrada y cuya homologación del modelo lo tipifique como sedán.
+b) contar con un motor decilindrada mínima de 1,4 litros o su equivalente. Para los efectos del presente reglamento, se entenderá que un vehículo cuenta con un motor de cilindrada equivalente, cuando, a pesar de tener una cilindrada menor, la tecnología con la que cuenta, permite un desempeño en torque y potencia igual o superior a la que se obtiene de un motor de 1,4 litros, o contar con motor eléctrico puro, entendiendo como tal aquel vehículo impulsado exclusivamente por energía eléctrica o vehículo híbrido, entendiendo como tal aquel vehículo impulsado por una cadena de tracción híbrida con al menos dos convertidores de energía distintos y dos sistemas diferentes de almacenamiento de energía (situados en el propio vehículo) para propulsar el vehículo para prestar servicio de taxis, en cualquiera de sus modalidades.
 
 Tratándose de vehículos que se incorporen conforme lo dispuesto en la ley 20.474, el requisito de antigüedad señalado en la letra a) del inciso precedente, será de cinco (5) años como máximo.
 
-Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc y en la categoría de motor de 1,4 litros, aquellos cuya cilindrada sea superior a 1.350 cc e inferior a 1.451 cc.
+Para efectos del presente decreto, en la categoría de motor de 1,4 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.350 cc. e inferior a 1.451 cc.
 
 Tratándose de vehículos eléctrico puro o híbrido la potencia para su propulsión deberá ser igual o superior a 70 kw.
 
