@@ -62,7 +62,7 @@ b) Entidades empleadoras o "empleador": Municipalidades, corporaciones privadas 
 
 c) Bonificación por Retiro Voluntario: Beneficio pecuniario de cargo del empleador, a la que tienen derecho los trabajadores que indica la ley, que hayan manifestado su decisión de renunciar voluntariamente y que cumplan con los demás requisitos establecidos en ella.
 
-d) Bonificación Adicional por Antigüedad: Beneficio pecuniario de cargo fiscal, al que tienen derecho los trabajadores que, acogiéndose a la bonificación por retiro voluntario, tengan a la fecha de retiro, diez o más años continuos de servicios efectivamente prestados, en la calidad de asistentes en las instituciones que señala el artículo 1º de la ley.
+d) Bonificación Adicional por Antigüedad: Beneficio pecuniario de cargo fiscal, al que tienen derecho los trabajadores que, acogiéndose a la bonificación por retiro voluntario, tengan a la fecha de retiro, diez o más años continuos de servicios efectivamente prestados, en la calidad de asistentes en las instituciones que señala el artículo 1º de la ley. Para estos efectos, se computarán como años continuos de servicio aquellos desempeñados, sin solución de continuidad, en una o más de las entidades señaladas en el artículo 1º de la ley Nº 20.964.
 
 ## Título II
 
@@ -96,7 +96,7 @@ La remuneración que servirá de base para el cálculo de la bonificación por r
 
 #### Artículo 7º
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 12.000 beneficiarios, distribuidos de acuerdo a la siguiente tabla de cupos anuales:
+Podrán acceder a la bonificación por retiro voluntario hasta un total de 15.000 beneficiarios, distribuidos de acuerdo a la siguiente tabla de cupos anuales:
 
 Año Cupos
 
@@ -116,11 +116,11 @@ Año Cupos
 
 2023 1.000
 
-2024 1.000
+2024 2.000
 
-2025 1.000
+2025 3.000
 
-TOTAL 12.000
+TOTAL 15.000
 
 Los cupos que no hubieren sido utilizados entre los años 2016 al 2018, ambos incluidos, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
@@ -156,7 +156,7 @@ En este primer proceso de postulación, también se considerarán las postulacio
 
 #### Artículo 11
 
-En el segundo, tercero, cuarto, quinto, sexto, séptimo, octavo y noveno proceso de postulación se asignarán 878, 1.000, 1.561, 1.561, 1.561, 1.561, 1.000 y 1.000 cupos, respectivamente, más aquellos adicionales que se encuentren disponibles conforme al artículo 7° de este reglamento, en caso de haberlos.
+En el segundo, tercero, cuarto, quinto, sexto, séptimo, octavo y noveno proceso de postulación se asignarán 878, 1.000, 1.561, 1.561, 1.561, 1.561, 1.000 y 2.000 cupos, respectivamente, más aquellos adicionales que se encuentren disponibles conforme al artículo 7° de este reglamento, en caso de haberlos.
 
 Las postulaciones correspondientes al segundo proceso se efectuarán a contar del 60° día hábil posterior a la publicación de este reglamento y durante los 30 días hábiles siguiente a dicha data.
 
@@ -182,7 +182,7 @@ d) A su vez, las mujeres y los hombres asistentes de la educación del artículo
 
 #### Artículo 13
 
-En el décimo proceso de postulación se asignarán 1.000 cupos y los adicionales que existan disponibles conforme al artículo 7° de este reglamento, en caso de haberlos. A los cupos antedichos, se podrá postular entre el 2 de enero y el 31 de julio del año 2025. En dicho proceso podrán postular:
+En el décimo proceso de postulación se asignarán 3.000 cupos y los adicionales que existan disponibles conforme al artículo 7° de este reglamento, en caso de haberlos. A los cupos antedichos, se podrá postular entre el 2 de enero y el 31 de julio del año 2025. En dicho proceso podrán postular:
 
 a) En el caso de las mujeres, aquellas que entre el 1° de enero y el 31 de diciembre de 2025 cumplan entre 60 y 65 años de edad.
 
@@ -256,7 +256,7 @@ En caso de no existir antecedentes suficientes para acreditar la continuidad y v
 
 #### Artículo 19
 
-Las entidades empleadoras remitirán las postulaciones recibidas a la Subsecretaría de Educación, para su resolución. Para estos efectos, deberán enviar la documentación suficiente, completa e íntegra, de modo tal que si dichos antecedentes no son suficientes, completos e íntegros, para respaldar las bonificaciones solicitadas, la Subsecretaría de Educación deberá devolver todos los antecedentes a fin de que éstos sean completados dentro de los 10 días hábiles siguientes a la recepción de la solicitud.
+Las entidades empleadoras remitirán las postulaciones recibidas a la Subsecretaría de Educación en el plazo máximo que fije dicha Subsecretaría mediante acto administrativo, el cual no podrá ser superior a un mes, contado desde la fecha de término del período de postulación. Para estos efectos, deberán enviar la documentación suficiente, completa e íntegra, de modo tal que si dichos antecedentes no son suficientes, completos e íntegros, para respaldar las bonificaciones solicitadas, la Subsecretaría de Educación deberá devolver todos los antecedentes a fin de que éstos sean completados dentro de los 10 días hábiles siguientes a la recepción de la solicitud.
 
 ### 3. De la Asignación de Cupos
 
@@ -272,13 +272,27 @@ a) En primer término, los trabajadores regidos por el Código del Trabajo que s
 
 b) En segundo lugar, aquellos de mayor edad.
 
-c) En igualdad de condiciones de edad, se priorizarán según el mayor número de años de servicio contados desde el ingreso a la primera entidad empleadora, en caso de ser más de una, y;
+c) En igualdad de condiciones de edad, se priorizarán aquellos que hayan tenido un mayor número de días de licencias médicas cursadas durante los trescientos sesenta y cinco días inmediatamente anteriores al inicio del período de postulación. Para estos efectos, la institución empleadora deberá informar a la Subsecretaría de Educación el número de días de licencias médicas.
 
-d) De persistir la igualdad, se priorizará, según el mayor número de días de licencias médicas cursadas, correspondientes a los 365 días anteriores al proceso de postulación.
+d) De persistir la igualdad, se priorizarán aquellos con mayor número de años de servicio en la institución empleadora.
 
 La Subsecretaría de Educación procederá a la priorización de los postulantes que cumplen los requisitos para acceder a la bonificación por retiro voluntario, ordenados de acuerdo a los criterios precedentemente indicados.
 
 Sin perjuicio de lo establecido en el artículo 26 de este Reglamento, los trabajadores que se encuentren en la situación establecida en el literal a) de este artículo y que resulten beneficiarios de un cupo, no podrán desistirse de su renuncia voluntaria.
+
+Gozarán de la misma prioridad que las personas indicadas en el literal a) las y los Asistentes de la Educación a los que se les hubiera rechazado sus postulaciones en los procesos correspondientes a los periodos 2016 a 2021 por un error del empleador no imputable al trabajador o trabajadora, o bien si el trabajador o trabajadora no fue informado por el sostenedor del rechazo de su postulación en los plazos establecidos en la norma.
+
+Los trabajadores o trabajadoras que deseen acogerse a lo dispuesto en el inciso precedente deberán solicitarlo al sostenedor a más tardar el 25 de octubre de 2024. El sostenedor deberá remitir los antecedentes correspondientes a la Subsecretaría de Educación a más tardar el 31 de diciembre de 2024.
+
+Para efectos de acreditar lo señalado en el inciso cuarto de este artículo, junto con la solicitud del trabajador o trabajadora, el actual sostenedor deberá enviar un certificado que dé cuenta de lo siguiente:
+
+1) La fecha en que el trabajador o trabajadora postuló a los procesos de los años 2016 a 2021 al incentivo al retiro;
+
+2) Si se informó al trabajador o trabajadora del rechazo de su postulación, o bien, los hechos que sustenten un error del empleador.
+
+El certificado deberá ser suscrito por el sostenedor o por la persona encargada de certificar sus actuaciones como ministro de fe. En caso de que el o la asistente de la educación hubiere cambiado de sostenedor, el actual deberá solicitar la emisión del certificado indicado en el inciso anterior a aquel sostenedor que corresponda y remitirlo a la Subsecretaría de Educación, para lo cual deberán actuar coordinadamente.
+
+Adicionalmente, en la comunicación en que se remitan los antecedentes, el sostenedor deberá señalar si se interpusieron recursos de aquellos contemplados en la ley Nº 19.880 en contra de la resolución que rechazó la postulación. La omisión de este requisito no significará el rechazo de la solicitud.
 
 #### Artículo 22
 
@@ -380,7 +394,7 @@ BONIFICACIÓN ADICIONAL POR ANTIGÜEDAD
 
 #### Artículo 33
 
-La bonificación adicional por antigüedad será de cargo fiscal, y tendrán derecho a percibirla, por una sola vez, los trabajadores que, acogiéndose a la bonificación por retiro voluntario establecida en el artículo 4º de este reglamento, tengan a la fecha del retiro, una antigüedad mínima de diez años continuos de servicios efectivamente prestados en la calidad de asistentes de la educación en las entidades señaladas en el artículo 2º del reglamento.
+La bonificación adicional por antigüedad será de cargo fiscal, y tendrán derecho a percibirla, por una sola vez, los trabajadores que, acogiéndose a la bonificación por retiro voluntario establecida en el artículo 4º de este reglamento, tengan a la fecha del retiro, una antigüedad mínima de diez años continuos de servicios efectivamente prestados en la calidad de asistentes de la educación en las entidades señaladas en el artículo 2º del reglamento. Para estos efectos, se computarán como años continuos de servicio aquellos desempeñados, sin solución de continuidad, en una o más de las entidades señaladas en el artículo 1º de la ley Nº 20.964.
 
 Esta bonificación no es imponible ni constituye renta para ningún efecto legal y, en consecuencia, no está afecta a descuento alguno.
 
@@ -404,7 +418,7 @@ Para el cálculo de esta bonificación, se considerará el valor de la unidad de
 
 El período que se debe considerar para el cálculo de esta bonificación, corresponde a los servicios prestados en calidad de asistente de la educación, comprendido entre la fecha de inicio de la relación laboral y la fecha de presentación de la carta de renuncia voluntaria.
 
-Además, se considerarán los años servidos como asistente de la educación en las entidades señaladas en el artículo 2º de este reglamento, adicionando, si procede, el tiempo servido en los organismos o entidades educacionales del sector público que se hayan traspasado a la administración municipal.
+Además, se considerarán como años continuos de servicio aquellos desempeñados como asistente de la educación, sin solución de continuidad, en una o más de las entidades señaladas en el artículo 2º de este reglamento, adicionando, si procede, el tiempo servido en los organismos o entidades educacionales del sector público que se hayan traspasado a la administración municipal.
 
 #### Artículo 36
 
