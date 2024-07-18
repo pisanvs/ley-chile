@@ -56,23 +56,29 @@ II.- DE LA CONVALIDACIÓN DE ESTUDIOS.
 
 #### Artículo 5º
 
-Podrán convalidar las personas que hubieren realizado estudios en el extranjero, equivalentes a la Educación General Básica o a la Educación Media, según lo estipulado en los Tratados o Convenios vigentes suscritos por Chile.
+Podrán convalidar las personas que hubieren realizado estudios en el extranjero, equivalentes a la Educación General Básica o a la Educación Media, según lo estipulado en los Tratados o Convenios vigentes suscritos por Chile. También podrán convalidar sus estudios en los niveles de educación básica y educación media, los chilenos y chilenas o hijos e hijas de madre o padre chileno, así como los hijos e hijas de funcionarias y funcionarios diplomáticos y consulares, además de las agregadas y agregados militares, policiales y civiles extranjeros acreditados en Chile, que hayan realizado estudios en el extranjero, en países sin convenio vigente con Chile.
 
 Para ello, los y las solicitantes deberán presentar los documentos que a continuación se indican:
 
 a) Cédula de identidad o pasaporte original.
 
-b) Certificados de estudios en original de los cursos de educación básica o media y diplomas, cuando corresponda, aprobados en el extranjero. El certificado o diploma del último curso aprobado deberá presentarse debidamente legalizado por:
+b) Certificados de estudios en original de los cursos de educación básica o media y diplomas, cuando corresponda, aprobados en el extranjero. El certificado y/o diploma del último curso aprobado deberá presentarse debidamente apostillado, respecto de todos los países pertenecientes al Convenio de la Haya, o legalizado en el caso que corresponda, respecto de aquellos países que no pertenezcan a este convenio. En este último caso, los documentos deben haber sido legalizados por:
 
-- El Ministerio de Educación o la autoridad
+- El Ministerio de Educación o
 
-competente del país donde se realizaron
+la autoridad competente del
+
+país donde se realizaron
 
 los estudios;
 
-- El Ministerio de Relaciones Exteriores, y
+- El Ministerio de Relaciones}
 
-- La Embajada o Consulado de Chile en el
+Exteriores, y
+
+- La Embajada o Consulado
+
+de Chile en el
 
 respectivo país.
 
@@ -80,7 +86,7 @@ Tratándose de los hijos de chilenos y de funcionarios internacionales debidamen
 
 c) Si se trata de certificados de estudios, extendidos en lengua extranjera, se solicitará al peticionario la traducción oficial.
 
-d) En el caso de hijos de chilenos, la nacionalidad de los padres deberá acreditarse con cédula de identidad o certificado de nacimiento.
+d) En el caso de hijos e hijas de madre o padre chileno, la nacionalidad de los padres deberá acreditarse con cédula de identidad, pasaporte o certificado de nacimiento.
 
 #### Artículo 6º
 
