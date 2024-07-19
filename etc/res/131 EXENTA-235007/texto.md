@@ -28,9 +28,9 @@ b2) RURAL PERIFÉRICO: Este comprenderá a los servicios cuyos trazados o itiner
 
 c) El Registro de Servicios Interurbanos de Transporte Público de Pasajeros de la Región Metropolitana. Este comprenderá a todos los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana que superen los 200 km. de recorrido y aquellos que sin excederlos unen la ciudad de Santiago con localidades o ciudades costeras ubicadas en la V Región o, con cualquier otra ciudad o localidad situada fuera del límite de la Región Metropolitana.
 
-Los Servicios señalados en las letras a) y b1) anteriores estarán contenidos dentro del Registro de Servicios de Transporte de Pasajeros de Santiago, al que aluden los artículos 11 y 12 de la ley 19.040.
+Los servicios urbanos de transporte público de pasajeros de la Región Metropolitana, señalados en la letra a) anterior, estarán comprendidos dentro del Registro de Servicios de Transporte de Pasajeros de Santiago, al que aluden los artículos 11 y 12 de la ley 19.040.
 
-A los vehículos de los servicios señalados en las letras b2) y c) anteriores no les será aplicable lo dispuesto en los artículos 11 y 12 de la ley 19.040
+A los vehículos de los servicios rurales e interurbanos de transporte público de pasajeros de la Región Metropolitana, señalados en las letras b) y c) anteriores, no les será aplicable lo dispuesto en los artículos 11 y 12 de la ley 19.040
 
 2.- Derógase la Resolución Exenta Nº 730 de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
 
