@@ -18,65 +18,11 @@ Autorízase la circulación en horario inhábil y en días sábados en la tarde,
 
 I.- FISCALÍA REGIONAL DEL MAULE:
 
-1.- Fiscalía Local de Constitución:
+1.- Derogado.
 
-Vehículo Camioneta
+2.- Derogado.
 
-Marca Chevrolet
-
-Modelo D MAX E5 DCAB 4X4 2.5
-
-Año 2022
-
-Motor WK4253
-
-Chasis MPATFS86JNT000146
-
-Color Blanco
-
-INRVM RKHV.96-3
-
-Patente RKHV.96.
-
-2.- Fiscalía Local de Cauquenes:
-
-Vehículo Camioneta
-
-Marca Chevrolet
-
-Modelo D MAX E5 DCAB 4X4 2.5
-
-Año 2022
-
-Motor WK4245
-
-Chasis MPATFS86JNT000154
-
-Color Blanco
-
-INRVM RKHV.98-K
-
-Patente RKHV.98.
-
-3.- Fiscalía Local de Licantén:
-
-Vehículo Camioneta
-
-Marca Chevrolet
-
-Modelo D MAX E5 DCAB 4X4 2.5
-
-Año 2022
-
-Motor WK9944
-
-Chasis MPATFS86JNT000161
-
-Color Blanco
-
-INRVM RKHV.99-8
-
-Patente RKHV.99.
+3.- Derogado.
 
 ### II. FISCALÍA REGIONAL DE LOS LAGOS:
 

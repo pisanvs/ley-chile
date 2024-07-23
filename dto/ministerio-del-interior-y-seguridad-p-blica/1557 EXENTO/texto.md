@@ -16,65 +16,11 @@ Decreto:
 
 Autorízase la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos a los vehículos tomados en arriendo para uso de la Fiscalía Regional del Maule, que se individualizan a continuación:
 
-1.- Fiscalía Regional del Maule
+1.- Derogado.
 
-Vehículo Camioneta
+2.- Derogado.
 
-Marca Nissan
-
-Modelo Navara D Cab 2.3
-
-Año 2021
-
-Motor YS23B266C049800
-
-Chasis 3N6BD33AXMK811254
-
-Color Blanco
-
-I.N.R.V.M. PPPL.10-5
-
-Placa Única PPPL.10
-
-2.- Fiscalía Local de Talca
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo Navara D Cab 2.3
-
-Año 2021
-
-Motor YS23B266C049489
-
-Chasis 3N6BD33A0MK810596
-
-Color Blanco
-
-I.N.R.V.M. PPPP.65-5
-
-Placa Única PPPP.65
-
-3.- Fiscalía Local de Curicó
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo Navara D Cab 2.3
-
-Año 2021
-
-Motor YS23B266C048184
-
-Chasis 3N6BD33A1MK804175
-
-Color Blanco
-
-I.N.R.V.M. PPPL.48-2
-
-Placa Única PPPL.48
+3.- Derogado.
 
 4.- Fiscalía Local de Linares
 
