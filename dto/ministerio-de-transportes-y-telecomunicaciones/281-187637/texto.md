@@ -162,11 +162,27 @@ Sonora 88 - 0,000418333 180
 
 Televisiva VHF 0,000378419 6.000
 
-Televisiva UHF 0,000535116 6.000
+Televisiva UHF
 
-El valor de K1 para las estaciones de radiodifusión televisiva en la banda UHF financiadas por el Fondo de Desarrollo de las Telecomunicaciones, será igual a 0,000189210.
+0,000378419 6.000
+
+año 2024
+
+0,000244613
+
+año 2025
+
+0,00018921
+
+año 2026
+
+en adelante
+
+El valor de K1 para las estaciones de radiodifusión televisiva en la banda UHF financiadas por el Fondo de Desarrollo de las Telecomunicaciones, será igual a 0,000189210,y será igual a 0,000122307 a partir del año 2025.
 
 Para efectos de determinar los derechos en el servicio de radiodifusión sonora, se considerará para el cálculo una potencia máxima de 50.000 W.
+
+> **Nota.** La disposición Única transitoria del Decreto 160, Transportes, publicada el 24.07.2024, dispone que la modificación prevista en el presente artículo por el numeral 1.1. de la citada norma será aplicable a aquellos derechos que se devenguen a contar del 1 de enero de 2024.
 
 #### Artículo 12
 
@@ -344,6 +360,8 @@ Para los efectos del cobro de los derechos, cuando una estación terrena dispong
 
 Este derecho no podrá exceder el valor de 10 UTM al año por cada transmisor o receptor.
 
+Para efectos del presente Reglamento, no se considerarán como Estaciones Terrenas del Servicio Fijo por Satélite o Móvil por Satélite a los dispositivos terminales de posicionamiento geográfico global por satélite, terminales móviles celulares que operen en la redes de concesionarios terrestres y dispositivos IoT
+
 ## Capítulo III
 
 Del Cobro y Pago de los Derechos
@@ -358,13 +376,19 @@ Los peticionarios de los servicios indicados en los artículos 5º, 6º, 7º y 8
 
 #### Artículo 29
 
-A los concesionarios o permisionarios a que aluden las letras d), e), f), g) y h) del artículo 32º de la Ley, se les expedirá a través de la Subsecretaría una orden de ingreso fiscal, la que se notificará por carta certificada enviada a su domicilio. Para estos efectos se tendrá por domicilio aquel que conste en el respectivo decreto o resolución, o el que conste en la última comunicación oficial que haya dirigido a la Subsecretaría con tal objeto.
+A los concesionarios o permisionarios a que aluden las letras d), e), f),
+
+- **g)** y
+
+- **h)** del artículo 32º de la Ley, se les expedirá a través de la Subsecretaría una orden de ingreso fiscal. A través del medio electrónico que resulte aplicable de conformidad a lo dispuesto en la norma técnica a que se refiere el párrafo segundo de la letra
+
+- **b)** del artículo 16 bis de la ley N° 18.168, General de Telecomunicaciones, se remitirá a la concesionaria o permisionaria un Aviso señalando que se encuentra disponible para el pago un monto adeudado por concepto de derechos de uso del espectro radioeléctrico en la Tesorería General de la República. Asimismo, se dispondrá en el sitio web de la Subsecretaría el link de acceso a la página web de pagos en línea de la Tesorería General de la República.
 
 #### Artículo 30
 
 Los derechos anuales por utilización del espectro radioeléctrico, cuyo procedimiento de cálculo para su cobro se establece en el presente Reglamento, se devengarán desde el 1 de enero de cada año, y deberán ser pagados durante el segundo semestre del mismo.
 
-En su caso, se devengarán a contar de la fecha en que se le notifique por carta certificada, emitida por la Subsecretaría, que se encuentra totalmente tramitado por parte de la Contraloría el respectivo acto de autorización. Su monto será proporcional al número de meses que falten por completar el año calendario, incluyendo el mes en que se efectuó la expedición de la carta certificada.
+En su caso, se devengarán a contar de la fecha en que se le notifique por el medio electrónico enviado por la Subsecretaría, que se encuentra totalmente tramitado por parte de la Contraloría el respectivo acto de autorización. Su monto será proporcional al número de meses que falten por completar el año calendario, incluyendo el mes en que se efectuó la comunicación por el medio electrónico.
 
 #### Artículo 31
 
@@ -376,7 +400,7 @@ La excepción de que trata el inciso anterior será declarada en cada caso por l
 
 Los concesionarios o permisionarios cuyas autorizaciones señalen estaciones multiacceso o estaciones terrenas, sin indicar su cantidad, para los servicios señalados en los artículos 22º, 23º, 24º o 26º, deberán informar dentro de los primeros 5 días hábiles de los meses de febrero, junio y octubre de cada año, el número de estaciones en el sistema hasta el último día hábil del mes inmediatamente anterior a la presentación.
 
-En el caso del párrafo anterior, el derecho se calculará tomando como base el informe del mes de junio del año de emisión de la boleta.
+En el caso del párrafo anterior, el derecho se calculará tomando como base el informe del mes de junio del año de emisión del Aviso.
 
 En caso de que el concesionario o permisionario no remita alguno de los informes a que hace referencia este artículo, sin perjuicio de proceder de conformidad con lo dispuesto en el Título VII de la ley, la Subsecretaría procederá de acuerdo a los procedimientos de cálculo para el cobro de los derechos establecidos en el presente Reglamento, y sobre la base de los antecedentes de que disponga u obtenga.
 
