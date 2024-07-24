@@ -782,6 +782,14 @@ c) la salida de fin de semana, y
 
 d) la salida controlada al medio libre.
 
+Los permisos señalados en la letra
+
+- **a)** se considerarán permisos extraordinarios, en tanto que los de los literales b),
+
+- **c)** y
+
+- **d)** se considerarán permisos ordinarios.
+
 Los permisos mencionados, ordenados según la extensión de la salida, se inspiran en el carácter progresivo del proceso de reinserción social y se concederán de modo que sólo el cumplimiento satisfactorio de las obligaciones que impone el uso provechoso del que se conceda, permitirá postular al siguiente.
 
 El cumplimiento de los requisitos formales sólo da derecho al interno a solicitar el permiso de salida correspondiente, en tanto que su concesión dependerá, fundamentalmente, de las necesidades de reinserción social del interno y de la evaluación que se efectúe respecto de su participación en las actividades para la reinserción social que, con su colaboración, se hayan determinado según los requerimientos específicos de atención, de modo que pueda presumirse que respetará las normas que regulan el beneficio y no continuará su actividad delictiva.
@@ -794,6 +802,8 @@ Para estos efectos será fundamental el informe psicológico que dé cuenta de l
 
 Por su parte, el informe social deberá referirse expresamente a las posibilidades del interno de contar con medios o recursos de apoyo o asistencia en los términos previstos en la letra d) del artículo 110 de este Reglamento.
 
+Si la persona postulante estuviese condenada a presidio perpetuo, la jefatura del establecimiento penitenciario respectivo deberá comunicar dicha postulación al tribunal a cargo de la ejecución de la pena el mismo día de la recepción de la solicitud o al día siguiente hábil.
+
 #### Artículo 98
 
 La concesión, suspensión o revocación de los permisos señalados en el artículo 96 será una facultad privativa del Jefe de Establecimiento; sin embargo, sólo podrá concederlos a los internos que gocen de informe favorable del Consejo Técnico.
@@ -802,9 +812,19 @@ Para estos efectos se entenderá que existe informe favorable cuando el Consejo 
 
 Las deliberaciones y acuerdos de las sesiones de los Consejos Técnicos constarán en el acta respectiva.
 
+La concesión de cualquiera de los permisos ordinarios señalados en el artículo 96 deberá ser comunicada por escrito al tribunal encargado de la ejecución de la pena, dentro de los cinco días siguientes contados desde la notificación del permiso a la persona condenada. Dicha comunicación deberá contener tanto el tipo de permiso otorgado como su extensión.
+
+Con todo, los permisos de salida que se concedan a las personas condenadas a presidio perpetuo deberán ser autorizados por el juez de garantía de la comuna de asiento del respectivo establecimiento penitenciario. Para tales efectos, en aquellos casos en que la jefatura del establecimiento penitenciario considere procedente la concesión de un permiso de salida, deberá remitir todos los antecedentes, en un plazo de tres días posteriores a la realización del acta del Consejo Técnico en que conste el pronunciamiento positivo para su concesión, al juez, quien deberá autorizar o denegar dicho permiso.
+
+> **Nota.** El artículo transitorio del Decreto 64, Justicia, publicado el 24.07.2024, dispone que la modificación contenida en el nuevo inciso quinto del numeral 3 del presente artículo, entrará en vigencia conjuntamente con el nuevo artículo 16 bis, incorporado al decreto ley Nº 2.859, de 1979, del Ministerio de Justicia, que fija la ley orgánica de Gendarmería de Chile, por la ley Nº 21.627, que modifica diversos cuerpos legales para establecer mayores exigencias para la obtención de la libertad condicional, esto es dieciocho meses contado desde la publicación de la citada ley, en conformidad con lo dispuesto en el artículo cuarto transitorio de esta última.
+
 #### Artículo 98 bis
 
-Sin perjuicio de lo dispuesto en el artículo anterior, para la concesión de permisos a las personas señaladas en el artículo 109 bis, se requerirá, además del informe favorable del Consejo Técnico y de la aprobación de la solicitud por parte del Jefe del Establecimiento, la ratificación de esta última por el Director Regional respectivo.
+Sin perjuicio de lo dispuesto en el artículo anterior, para la concesión de permisos a las personas que se encuentren cumpliendo condena por los delitos señalados en el artículo 109 bis, se requerirá, además del informe favorable del Consejo Técnico y de la aprobación de la solicitud por parte del Jefe del Establecimiento, la ratificación de esta última por el Director Regional respectivo.
+
+Si las personas a que se refiere el presente artículo hubiesen sido condenadas a presidio perpetuo, el mencionado Director Regional deberá remitir los antecedentes al juez de garantía de la comuna de asiento del respectivo establecimiento penitenciario, dentro de los cinco días siguientes a la correspondiente ratificación otorgada, con el objeto de dar cumplimiento a lo señalado en el inciso quinto del artículo 98.
+
+> **Nota.** NOTA 1 El artículo transitorio del Decreto 64, Justicia, publicado el 24.07.2024, dispone que la modificación contenida en el nuevo inciso segundo del presente artículo, entrará en vigencia conjuntamente con el nuevo artículo 16 bis, incorporado al decreto ley Nº 2.859, de 1979, del Ministerio de Justicia, que fija la ley orgánica de Gendarmería de Chile, por la ley Nº 21.627, que modifica diversos cuerpos legales para establecer mayores exigencias para la obtención de la libertad condicional, esto es dieciocho meses contado desde la publicación de la citada ley, en conformidad con lo dispuesto en el artículo cuarto transitorio de esta última.
 
 #### Artículo 99
 

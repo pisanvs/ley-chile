@@ -1,4 +1,4 @@
-APRUEBA EL REGLAMENTO DEL DECRETO LEY Nº 321, DE 1925, QUE ESTABLECE LA LIBERTAD CONDICIONAL PARA LAS PERSONAS CONDENADAS A PENAS PRIVATIVAS DE LIBERTAD Y MODIFICA EL DECRETO SUPREMO Nº 518, DE 1998, DEL MINISTERIO DE JUSTICIA, QUE APRUEBA REGLAMENTO DE ESTABLECIMIENTOS PENITENCIARIOS
+APRUEBA EL REGLAMENTO DEL DECRETO LEY Nº 321, DE 1925, QUE ESTABLECE LA LIBERTAD CONDICIONAL PARA LAS PERSONAS CONDENADAS A PENAS PRIVATIVAS DE LIBERTAD
 
 Núm. 338.- Santiago, 17 de mayo de 2019.
 
@@ -42,9 +42,9 @@ Requisitos para postular a la libertad condicional. Tiene derecho a postular par
 
 a) Haber cumplido la mitad de la condena que se le impuso por sentencia ejecutoriada, o los tiempos establecidos en los artículos 3º, 3º bis y 3º ter del decreto ley Nº 321, de 1925;
 
-b) Haber observado conducta intachable durante el cumplimiento de su condena, mediante la calificación de su conducta como "muy buena", durante los últimos cuatro bimestres anteriores a su postulación, o los últimos tres bimestres, si la condena impuesta no excediere de quinientos cuarenta y un días;
+b) Haber observado conducta intachable durante el cumplimiento de su condena, mediante la calificación de su conducta como "muy buena", durante los últimos cuatro bimestres anteriores a su postulación, los últimos seis bimestres, tratándose de las personas que se encuentran en las hipótesis previstas en los incisos primero, segundo y tercero del artículo 3º del decreto ley Nº 321, de 1925, o los últimos tres bimestres, si la condena impuesta no excediere de quinientos cuarenta y un días;
 
-c) Contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica local de Gendarmería de Chile, que contenga un análisis de los factores de riesgo de reincidencia de la persona condenada, con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad, además de sus antecedentes sociales y características de personalidad, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa, y de su rechazo explícito a tales delitos.
+c) Contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica local de Gendarmería de Chile, que contenga un análisis de los factores de riesgo de reincidencia de la persona condenada, con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad, además de sus antecedentes sociales y características de personalidad, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa, y de su rechazo explícito a tales delitos. Asimismo, si correspondiere, el informe deberá contener la información relacionada con los beneficios intrapenitenciarios que la persona hubiese obtenido.
 
 d) En el caso de las personas contempladas en los artículos 3º y 3º bis del decreto ley Nº 321, de 1925, presentar a Gendarmería de Chile la documentación idónea para acreditar el cumplimiento de los requisitos adicionales que en los artículos citados se establecen.
 
@@ -142,6 +142,8 @@ Si la persona condenada estuviere privada de libertad cumpliendo dos o más pena
 
 Las personas que estuvieren condenadas a presidio perpetuo y además a otra u otras penas privativas de libertad, sólo podrán postular a la libertad condicional una vez que hubieren cumplido con la totalidad de los tiempos establecidos por presidio perpetuo y los tiempos establecidos por la otra u otras penas privativas de libertad que correspondan.
 
+Con todo, las personas condenadas a presidio perpetuo a quienes se les hubiese denegado la libertad condicional, no podrán volver a postular a la misma sino hasta la primera quincena de abril u octubre del año siguiente, cuando la postulación rechazada se hubiere solicitado durante los meses de abril u octubre, respectivamente.
+
 #### Artículo 11
 
 Acreditación de haber observado conducta intachable. El informe referido en el artículo 9º dará cuenta del hecho que la persona postulante haya observado una conducta intachable, en el caso que ésta haya obtenido una calificación de conducta de "muy buena" en los bimestres requeridos anteriores al primero de abril o primero de octubre de cada año, respectivamente.
@@ -152,7 +154,11 @@ Informe de postulación psicosocial. Se adjuntará al informe referido en el art
 
 El análisis de los factores de riesgo de reincidencia delictual evaluados deberá hacer especial referencia a aquellos antecedentes sociales y características de personalidad asociados a la conducta delictiva, dando cuenta además de la conciencia de la gravedad del delito y del mal que éste causa e informar de su rechazo explícito a tales delitos.
 
+Si corresponde, el informe también deberá dar cuenta de eventuales beneficios intrapenitenciarios que la persona hubiese obtenido y el cumplimiento que hubiese dado a los mismos. Si una persona hubiese obtenido un beneficio y este fue revocado, se deberá mencionar expresamente dicha circunstancia, dando cuenta de las razones que se tomaron en consideración para la revocación.
+
 Asimismo, cuando la persona postulante se encuentre en la situación del artículo 3º ter del decreto ley Nº 321, de 1925 y para efectos de indicar el estado de embarazo o maternidad de un hijo o de una hija menor de tres años, se deberá adjuntar al informe de postulación psicosocial el certificado del médico o de la jefatura del área de salud del establecimiento penitenciario, que acredite el embarazo, o el certificado de nacimiento que acredite la maternidad de un hijo o de una hija menor de tres años.
+
+El informe al que se refiere este artículo será un antecedente calificado para la Comisión de Libertad Condicional al momento de resolver la respectiva solicitud.
 
 #### Artículo 13
 
@@ -188,11 +194,17 @@ Nómina de personas postulantes al beneficio. Los Tribunales de Conducta confecc
 
 Asimismo, se incluirán en la nómina aquellas personas condenadas que, satisfaciendo los demás requisitos establecidos en el decreto ley Nº 321, de 1925, cumplan el tiempo mínimo que los habilite para postular durante los meses de abril, mayo y junio, o durante octubre, noviembre y diciembre, respectivamente. En caso que la Comisión de Libertad Condicional conceda dicho beneficio, éste se hará efectivo el día que cumplan el tiempo mínimo requerido y siempre que a esa fecha reúnan todavía el requisito exigido por el número 2 del artículo 2º del decreto ley Nº 321, de 1925.
 
+Quince días antes del día señalado en el inciso primero del artículo 16 del presente reglamento, la jefatura del respectivo establecimiento penitenciario deberá comunicar al tribunal a cargo de la ejecución de la pena correspondiente las postulaciones a la libertad condicional presentadas por las personas condenadas. En conformidad con lo establecido en el artículo 4º del decreto ley Nº 321, de 1925, el tribunal deberá notificar a la víctima dentro del plazo de cinco días contados desde que reciba la comunicación de Gendarmería de Chile, para efectos de lo dispuesto en el artículo 16 bis del presente reglamento.
+
 #### Artículo 16
 
 Informe de Gendarmería de Chile. La nómina a que se refiere el artículo anterior y los antecedentes señalados en el artículo 9º que acreditan el cumplimiento de los requisitos de las personas condenadas que figuren en ellas, conformarán el informe referido en el artículo 4º del decreto ley Nº 321, de 1925. Dicho informe deberá ser remitido por la jefatura del respectivo establecimiento penitenciario a la Comisión de Libertad Condicional correspondiente, el primer día hábil de los meses de abril y octubre. En el caso de las personas que se encuentren en la situación señalada en el artículo 3º bis del decreto ley Nº 321, este informe será remitido previamente a la jefatura superior de la Dirección Regional respectiva, quien previa revisión de los requisitos, lo remitirá a la Comisión de Libertad Condicional correspondiente. Además, dicho informe deberá indicar la existencia de una resolución que haya decretado la medida cautelar de prisión preventiva respecto de una persona postulante.
 
 En el tiempo que transcurre entre que se ha entregado el referido informe y hasta que la Comisión de Libertad Condicional no hubiese resuelto las postulaciones, Gendarmería de Chile dará aviso inmediato respecto de cualquier hecho o circunstancia que hubiese ocurrido y que pudiese ser de relevancia para que la Comisión pueda evaluar aquellos factores que inciden en el proceso de reinserción social de la persona postulante.
+
+#### Artículo 16 bis
+
+Participación de la víctima. La víctima, personalmente o a través de su representante, podrá dar a conocer sus alegaciones, por escrito, ante la Comisión de Libertad Condicional respectiva, durante los primeros cinco días de los meses de abril u octubre, según corresponda. La Comisión podrá, además, oír en audiencia a la víctima o a sus representantes, si ésta así lo solicitare junto con sus alegaciones, por fundamentos especialmente calificados, ya sea en atención a la gravedad de los hechos por los que la persona postulante fue condenada o por su calidad de reincidente.
 
 #### Artículo 17
 
@@ -200,9 +212,13 @@ Resolución de la postulación al beneficio. La Comisión de Libertad Condiciona
 
 Si la Comisión estimare improcedente conceder la libertad condicional, fundamentará su rechazo en la respectiva resolución.
 
+Tratándose de la postulación de una persona que estuviese cumpliendo condena por alguno de los delitos señalados en los artículos 3º o 3º bis del decreto ley Nº 321, de 1925, y en caso de que dicha postulación hubiese sido rechazada previamente, la respectiva Comisión de Libertad Condicional deberá fundamentar de manera expresa, en caso de su concesión, el cambio de circunstancias que amerita el otorgamiento del beneficio.
+
+La Comisión deberá comunicar al tribunal a cargo de la ejecución de la pena el resultado de la postulación a la libertad condicional dentro del plazo de cinco días hábiles contados desde la resolución correspondiente. Recibida dicha comunicación, el tribunal deberá notificar a la víctima dentro del plazo de cinco días hábiles contados desde su recepción, en conformidad con lo dispuesto en el artículo 5º del decreto ley Nº 321, de 1925.
+
 Las resoluciones indicadas en el presente artículo, así como también aquellas que revoquen el beneficio, serán remitidas por la Comisión de Libertad Condicional respectiva a la jefatura del establecimiento penitenciario de origen, a la Dirección Nacional de Gendarmería de Chile, a la Dirección General de Carabineros, a la Dirección General de Investigaciones y demás organismos pertinentes.
 
-La jefatura del establecimiento, a quien ésta designe, notificará personalmente lo resuelto por la Comisión de Libertad Condicional a las personas postulantes. En el caso de las personas a quienes se les concedió el beneficio, deberá informarles las obligaciones a que quedan sujetos y el Centro de Apoyo para la integración social o unidad de control en que deben presentarse dentro de los cinco días corridos siguientes a su egreso del establecimiento penitenciario.
+La jefatura del establecimiento, o quien ésta designe, notificará personalmente lo resuelto por la Comisión de Libertad Condicional a las personas postulantes. En el caso de las personas a quienes se les concedió el beneficio, deberá informarles las obligaciones a que quedan sujetos y el Centro de Apoyo para la integración social o unidad de control en que deben presentarse dentro de los cinco días corridos siguientes a su egreso del establecimiento penitenciario.
 
 ## Título V
 
@@ -222,7 +238,7 @@ Excepcionalmente, la operación del sistema de supervisión de libertad condicio
 
 #### Artículo 20
 
-Funciones del Consejo Técnico. Los Consejos Técnicos de los establecimientos en lo que se supervise las condiciones de la libertad condicional de las personas beneficiadas, tendrán, entre otras, las siguientes funciones:
+Funciones del Consejo Técnico. Los Consejos Técnicos de los establecimientos en los que se supervise las condiciones de la libertad condicional de las personas beneficiadas, tendrán, entre otras, las siguientes funciones:
 
 a) Informar a la Comisión de Libertad Condicional correspondiente el cumplimiento de las condiciones establecidas en el plan de intervención individual de las personas condenadas, cuando éstas cumplan la mitad del periodo de goce del beneficio de la libertad condicional, a fin de solicitar a la respectiva Comisión su libertad completa, con excepción de los que gocen de ella conforme a lo dispuesto en el artículo 3º bis del decreto ley Nº 321, de 1925.
 
@@ -236,9 +252,9 @@ d) Asesorar en la resolución de cualquier otra situación de las personas en li
 
 Designación del delegado de libertad condicional. Notificada la resolución de la Comisión de Libertad Condicional a la persona condenada y obteniendo el beneficio, ésta dispondrá de un plazo de hasta cinco días corridos, a contar de su liberación, para presentarse en el respectivo Centro de Apoyo para la Integración Social u otra unidad de control perteneciente a Gendarmería de Chile, de acuerdo a la residencia que hubiere fijado, para realizar el registro administrativo del beneficio de Libertad Condicional del que goza.
 
-Una vez presentada en la unidad de control y realizado el registro administrativo del beneficio, la persona condenada será citada a una reunión de ingreso con la jefatura de la unidad o quien ésta designe, dentro de un plazo máximo de tres días hábiles. En esta reunión de ingreso le será designado el delegado de libertad condicional a cargo de la supervisión del beneficio.
+Una vez presentada en la unidad de control y realizado el registro administrativo del beneficio, la persona condenada será citada a una reunión de ingreso con la jefatura de la unidad o con quien ésta designe, dentro de un plazo máximo de tres días hábiles. En esta reunión de ingreso le será designado el delegado de libertad condicional a cargo de la supervisión del beneficio. Asimismo, en esa reunión la persona condenada deberá firmar un compromiso de no realizar acciones de amedrentamiento u hostigamiento en contra de la víctima.
 
-En caso de no concretarse la presentación de la persona beneficiada con la libertad condicional en los plazos señalados, se informará su no presentación a la Comisión de Libertad Condicional correspondiente, dentro del plazo de tres días hábiles, para que ésta se pronuncie dentro del plazo de quince días hábiles, respecto de la continuidad o revocación del beneficio.
+En caso de no concretarse la presentación de la persona beneficiada con la libertad condicional en los plazos señalados o cuando no se firme el compromiso al que hace referencia el inciso anterior, se informará dicha circunstancia a la Comisión de Libertad Condicional correspondiente, dentro del plazo de tres días hábiles, para que ésta se pronuncie dentro del plazo de quince días hábiles, respecto de la continuidad o revocación del beneficio.
 
 #### Artículo 22
 
@@ -246,7 +262,7 @@ Elaboración del plan de intervención individual. El profesional que hubiese si
 
 En el proceso de evaluación, el delegado deberá incorporar el análisis de los factores de riesgo de reincidencia, los factores protectores y la motivación al cambio de la persona beneficiada, así como todas aquellas circunstancias sociales y comunitarias que puedan incidir en su proceso de reinserción social. Además, deberá considerar todos aquellos antecedentes relevantes que den cuenta del proceso de reinserción de la persona durante el cumplimiento de su condena en reclusión, consignados en el informe de postulación y otros antecedentes proporcionados por el Sistema Cerrado.
 
-A partir de esta evaluación, el plan de intervención individual deberá integrar la realización de actividades tendientes a la reinserción social de la persona condenada, priorizándose actividades que fortalezcan la vinculación con la red social y comunitaria, y que operen como facilitadores para una eficaz reinserción social. Junto a ello, dicho plan deberá contener además, y en caso de ser pertinente, actividades de intervención especializada, nivelación escolar, capacitación o inserción laboral, entre otras.
+A partir de esta evaluación, el plan de intervención individual deberá integrar la realización de actividades tendientes a la reinserción social de la persona condenada, priorizándose actividades que fortalezcan la vinculación con la red social y comunitaria, y que operen como facilitadores para una eficaz reinserción social. Junto a ello, dicho plan deberá contener además, y en caso de ser pertinente, actividades de intervención especializada, nivelación escolar, capacitación o inserción laboral, entre otras. El plan propenderá a prevenir la victimización secundaria de la persona ofendida por el delito.
 
 Además, este plan deberá ser firmado por la persona condenada como prueba de su compromiso a dar cumplimiento a las actividades y condiciones ahí establecidas.
 
@@ -326,7 +342,7 @@ DE LA REVOCACIÓN DE LA LIBERTAD CONDICIONAL
 
 #### Artículo 30
 
-Revocación del beneficio. En aquellos casos en que una persona beneficiada sea condenada par cualquier delito o cuando haya incumplido las condiciones establecidas en su plan de intervención individual sin justificación suficiente, o cuando no se hubiere presentado al establecimiento correspondiente dentro del plazo establecido en el artículo 21 del presente Reglamento, en Gendarmería de Chile informará de ello a la respectiva Comisión de Libertad Condicional en un plazo máximo de tres días.
+Revocación del beneficio. En aquellos casos en que una persona beneficiada sea condenada por cualquier delito o cuando haya incumplido las condiciones establecidas en su plan de intervención individual sin justificación suficiente, o cuando no se hubiere presentado al establecimiento correspondiente dentro del plazo establecido en el artículo 21 del presente Reglamento, Gendarmería de Chile informará de ello a la respectiva Comisión de Libertad Condicional en un plazo máximo de tres días.
 
 Habiendo tomado conocimiento de dicha información, la Comisión de Libertad Condicional determinará si procede la revocación del beneficio.
 
