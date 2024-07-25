@@ -10,15 +10,15 @@ Decreto
 
 #### Artículo 1°
 
-Créase en la Comuna de Santiago, Provincia de Santiago de la Región Metropolitana, una Unidad Penal que se denominará Unidad Especial de Alta Seguridad, cuya dirección y administración corresponderá al Servicio de Gendarmería de Chile en conformidad a la normativa legal vigente.
+Créase en la Comuna de Santiago, Provincia de Santiago de la Región Metropolitana, un establecimiento penitenciario especial, que se denominará Recinto Especial Penitenciario de Alta Seguridad, cuya dirección y administración corresponderá al Servicio de Gendarmería de Chile en conformidad a la normativa legal vigente.
 
-#### Artículo 2°
+#### Artículo 2º
 
-La Unidad Penal que se crea, será destinada preferentemente a los internos señalados en el artículo 27 del Decreto Supremo N° 1.771, de 1992, del Ministerio de Justicia que aprobó el Reglamento de Establecimientos Penitenciarios.
+El Recinto Especial Penitenciario de Alta Seguridad, será destinado preferentemente a las personas privadas de libertad cuyas causas estén asociadas a su participación dentro de bandas delictuales identificadas con el crimen organizado de carácter nacional o internacional, y otros casos que requieren la aplicación de un régimen interno con mayores condiciones de seguridad.
 
-#### Artículo 3°
+#### Artículo 3º
 
-Mediante Resolución fundada del Director Nacional de Gendarmería de Chile, se dispondrá el traslado a la Unidad referida en el artículo 1° del presente Decreto, de las personas que tengan la calificación de peligrosidad extrema y que se encuentren actualmente privadas de la libertad en otras Unidades Penales del país, recabando la autorización del Juez de la causa que corresponda.
+Mediante resolución fundada del Director Nacional de Gendarmería de Chile, se dispondrá el ingreso o traslado al establecimiento referido en el artículo 1º del presente decreto, de las personas consignadas en el artículo 2º, recabando la autorización del tribunal competente, cuando corresponda.
 
 #### Artículo 4°
 
