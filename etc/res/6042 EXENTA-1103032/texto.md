@@ -80,9 +80,15 @@ En estos casos, el Seremi podrá eximir al proyecto de alguno o algunos de los r
 
 De aplicarse en estos casos el procedimiento de Autoconstrucción Asistida, el Seremi ejercerá la facultad contenida en el artículo 31 del DS Nº 49 (V. y U.), de 2011, de aprobar mediante resolución fundada el listado de materiales, herramientas, insumos y servicios que podrán ser adquiridos, arrendados y/o contratados por los beneficiarios que apliquen el subsidio habitacional mediante este procedimiento.
 
-El aumento de monto de subsidio y exenciones señalado en los incisos anteriores podrá incluso disponerse para aquellos subsidios otorgados directamente con anterioridad.
+El aumento de monto de subsidio y exenciones señalado en los incisos anteriores podrá incluso disponerse para aquellos subsidios otorgados con anterioridad.
+
+Para asignar un monto que exceda al del llamado a concurso vigente, el Secretario Regional Ministerial deberá contar con la visación previa del Jefe de la División Técnica de Estudio y Fomento Habitacional.
 
 c) Para disponer el aumento del monto del subsidio a que alude el inciso primero del artículo 27 del DS Nº 49 (V. y U.), de 2011, cuando se requiera la aplicación del subsidio complementario para personas con discapacidad señalado en la letra f) del artículo 35 del DS Nº 49 (V. y U.), de 2011, en las condiciones que allí se disponen, y ante causa sobreviviente, generada con posterioridad a la asignación del subsidio original.
+
+Podrán considerarse en este subsidio complementario aquellas condiciones o situaciones de discapacidad diferentes a las de origen físico, tales como las de origen sensorial, intelectual y/o psíquico. También se considerarán aquellas situaciones relativas a neurodivergencia o neurodiversidad, como por ejemplo trastornos del espectro autista. Para estos efectos, el Serviu respectivo podrá presentar ante la Secretaría Regional Ministerial los informes o diagnósticos médicos certificados por instituciones de salud distintas a la Comisión de Medicina Preventiva e Invalidez de la Secretaría Regional Ministerial de Salud correspondiente.
+
+El monto del subsidio complementario de discapacidad al que se refiere el inciso precedente, podrá alcanzar los montos señalados en el Llamado a Postulación Individual o Colectiva, de construcción, que incorpore estas materias, que se encuentre vigente o, en caso de no existir alguno vigente, la referencia será el último llamado nacional, considerando obras como las descritas en el Cuadro Normativo Abreviado que sea o haya sido parte del Llamado en consideración u otros instrumentos afines que se hayan emitido por el Ministro de Vivienda y Urbanismo.
 
 d) Para asignar directamente subsidios adicionales a que se refiere el inciso segundo del artículo 27 del DS Nº 49 (V. y U.), de 2011, a proyectos habitacionales de postulación colectiva, por un monto de hasta 15.000 Unidades de Fomento, por una sola vez por cada proyecto, cuando por razones de fuerza mayor o imposibles de prever al momento de su calificación, que estén claramente fundamentadas, el subsidio otorgado sea insuficiente para su correcta ejecución, o bien, cuando se requiera de mayores recursos para la recontratación de obras, luego de un término anticipado del contrato original.
 
@@ -92,11 +98,9 @@ En los casos en que las solicitudes de subsidios adicionales superen las 5.000 U
 
 Todos los proyectos a los que se les asignen subsidios adicionales conforme a este literal, el Serviu deberá iniciar las acciones administrativas, civiles y/o penales que resulten procedentes a fin de determinar eventuales responsabilidades respecto a los mayores recursos que se deben adicionar a dichos proyectos, informando a la Subsecretaría de lo realizado en un plazo no superior a 60 días corridos, contados desde la fecha de emisión de la respectiva resolución de asignación de recursos.
 
-e) Para asignar directamente subsidios adicionales para atender los gastos que pudiere irrogar tanto el traslado como el albergue transitorio, a que se refiere el inciso tercero del artículo 27 del DS Nº 49 (V. y. U.), de 2011, por un monto total de hasta 156 Unidades de Fomento, a utilizar en mensualidades cuyo valor máximo no podrá exceder de 13 Unidades de Fomento, a personas beneficiadas por un subsidio habitacional del Programa, hasta por el período máximo de un año, siempre que se configure alguna de las situaciones de hecho que exige la misma norma, estableciendo en las resoluciones respectivas los montos y formas de pago correspondientes. Esta facultad podrá ser ejercida nuevamente por el Seremi respecto de un mismo beneficiario, hasta por 2 nuevos períodos, ya sea que el subsidio adicional haya sido otorgado mediante la facultad delegada por la presente resolución, o por resolución del Ministro de Vivienda y Urbanismo.
+e) Para asignar directamente subsidios adicionales para atender los gastos que pudiere irrogar tanto el traslado como el albergue transitorio, a que se refiere el inciso tercero del artículo 27 del DS Nº 49 (V. y. U.), de 2011, por un monto total de hasta 156 Unidades de Fomento, a utilizar en mensualidades cuyo valor máximo no podrá exceder de 13 Unidades de Fomento, a personas beneficiadas por un subsidio habitacional del Programa, hasta por el período máximo de un año, siempre que se configure alguna de las situaciones de hecho que exige la misma norma, estableciendo en las resoluciones respectivas los montos y formas de pago correspondientes. Esta facultad podrá ser ejercida nuevamente por el Seremi respecto de un mismo beneficiario, por nuevos periodos, siempre y cuando se mantenga el cumplimiento de los requisitos para ello, ya sea que el subsidio adicional haya sido otorgado mediante la facultad delegada por la presente resolución, o por resolución del Ministro de Vivienda y Urbanismo.
 
 Tratándose de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena, de las comunas de Arica y Camarones de la Región de Arica y Parinacota, de las comunas de Iquique y Alto Hospicio de la Región de Tarapacá, de las comunas de Antofagasta y Calama de la Región de Antofagasta, de la comuna de Copiapó de la Región de Atacama y de las comunas de Juan Fernández e Isla de Pascua de la Región de Valparaíso, el monto total máximo del subsidio cuya delegación se establece en el inciso anterior podrá ser de hasta 180 Unidades de Fomento, a utilizar en mensualidades cuyo valor no podrá exceder de 15 Unidades de Fomento.
-
-Establécese que, en forma mensual, la Seremi y el Serviu de la región respectiva, deberán remitir a la Subsecretaría, con copia a la División de Política Habitacional del Ministerio, un informe que dé cuenta de la asignación y de la aplicación de los subsidios por este concepto entregados.
 
 f) En el caso de asignarse subsidios para proyectos de Construcción en Sitio Propio y Densificación Predial que se emplacen en zonas donde se encuentren vigentes Planes de Descontaminación Atmosférica, podrán incrementar su subsidio base cuando requieran un mayor financiamiento para la implementación de las medidas del referido plan o, en su defecto, cuando apliquen las normas que dicte este Ministerio en materia de estándar de acondicionamiento térmico para viviendas nuevas. Para el cálculo de los montos se deberá tomar como referencia los indicados en los llamados DS Nº 49 (V. y U.), de 2011, vigentes a la fecha de la asignación.
 
@@ -105,6 +109,8 @@ g) La facultad de disponer el aumento del monto del subsidio a que alude el inci
 h) Para disponer el aumento de los montos que resulten producto de la homologación del subsidio individual conforme a lo dispuesto en la resolución exenta N° 1.440 (V. y U.), de fecha 26 de octubre de 2022, o las disposiciones que se incluyan en los llamados vigentes y circulares correspondientes. En caso de no existir alguno vigente, la referencia será el último llamado nacional individual realizado.
 
 Las facultades que se delegan en los literales a) y e) precedentes, no serán aplicables en los casos en que se requiera otorgar conjuntamente los subsidios para la adquisición o construcción de una vivienda, y el subsidio adicional para atender gastos de traslado y/o albergue transitorio, cuando alguno de dichos subsidios se solicite bajo condiciones distintas a las delegadas por esta resolución.
+
+i) Podrá disponer, a solicitud del Serviu, el aumento en los montos de subsidios a que se refiere el inciso primero del artículo 27 del DS Nº 49 (V. y U.), de 2011, cuando se trate de proyectos con familias seleccionadas, cuya Entidad Patrocinante sea municipal y se requiera de licitación pública para contratar las obras, y se ha evaluado la necesidad de realizarla conforme a los montos del Llamado que incorpore la tipología de construcción correspondiente, que se encuentre vigente o, en caso de no existir alguno vigente, la referencia será el último llamado nacional realizado, siempre que resulte más favorable respecto de las condiciones originales del beneficio. Este aumento en los montos de subsidio podrá ser otorgado, a solicitud del Serviu respectivo, el que deberá identificar el detalle de los mayores montos a otorgar, con el análisis de los montos de subsidios que dispone actualmente el proyecto.
 
 5. Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y Urbanismo las facultades del DS N° 52 (V. y U.), de 2013, que reglamenta el Programa de Subsidio de Arriendo de Vivienda, que se señalan:
 
@@ -158,7 +164,7 @@ e) Para rectificar errores de digitación en la resolución de selección de un 
 
 La Seremi deberá informar de dicha rectificación a la División de Política Habitacional de este Ministerio dentro del plazo de 30 días corridos desde su tramitación.
 
-8. Para el ejercicio de las facultades que se delegan por el presente instrumento el Seremi requerirá petición del Director del Serviu respectivo, fundada en la correspondiente evaluación técnica, social y jurídica, y deberá verificar previamente que existe disponibilidad de recursos en el programa y la región correspondiente, lo que será confirmado por el Jefe de la División de Política Habitacional.
+8. Para el ejercicio de las facultades que se delegan por el presente instrumento la Secretaría Regional Ministerial de Vivienda y Urbanismo requerirá petición del Director del Serviu respectivo, fundada en la correspondiente evaluación técnica, social y jurídica, y deberá verificar previamente que existe disponibilidad de recursos en el programa y la Región correspondiente. El Jefe de la División de Política Habitacional, durante el primer trimestre del año calendario, informará los montos en Unidades de Fomento, equivalentes a los porcentajes que se indican en el siguiente inciso, para cada Región, sin perjuicio de los ajustes que se puedan informar durante el transcurso del año.
 
 Los porcentajes máximos de los recursos correspondientes a cada programa habitacional, dispuestos anualmente en la región para la asignación de subsidios que podrán imputarse en el ejercicio de las facultades delegadas por la presente resolución, son los que se indican a continuación:
 
@@ -170,11 +176,33 @@ Los porcentajes máximos de los recursos correspondientes a cada programa habita
 
 - Respecto de las facultades delegadas en el resuelvo 1., para el DS Nº 255 (V. y U.), de 2006; las establecidas en el resuelvo 7., para el DS Nº 27 (V. y U.), de 2016; y las otorgadas conforme al resuelvo 6., para el DS Nº 10 (V. y U.), de 2015, el porcentaje máximo será de un 10% de los recursos regionales de cada uno de estos programas. En caso de situaciones de Catástrofes establecidas por decreto del Ministerio del Interior y Seguridad Pública, el porcentaje máximo será de un 20% de los recursos regionales de cada uno de estos programas, previa aprobación del gasto por el Jefe de la División de Política Habitacional en la que se confirme la disponibilidad de recursos.
 
-No procederán estas delegaciones tratándose de personas o grupo de personas que se encuentren afectadas por las mismas circunstancias, derivadas de un mismo hecho, aunque el subsidio que se les asigna sea en la alternativa individual, salvo tratándose de las delegaciones dispuestas en el resuelvo 1, para el DS Nº 255 (V. y U.), de 2006; en las letras b), d), e), f) y g) del resuelvo 4, para el DS Nº 49 (V. y U.), de 2011; en el resuelvo 6., para el DS Nº 10 (V. y U.), de 2015; y en el resuelvo 7., para el DS Nº 27 (V. y U.), de 2016.
+No procederán estas delegaciones tratándose de personas o grupo de personas que se encuentren afectadas por las mismas circunstancias, derivadas de un mismo hecho, aunque el subsidio que se les asigna sea en la alternativa individual, salvo tratándose de las delegaciones dispuestas en los siguientes resuelvos y literales:
+
+- En el resuelvo 1, para el DS Nº 255 (V. y U.), de 2006;
+
+- En las letras b), d), e), f), g), h) e i), del resuelvo 4 y en la letra a) del resuelvo 4., respecto de las personas damnificadas en zonas con decreto de catástrofe, para el DS Nº 49 (V. y U.), de 2011;
+
+- En el resuelvo 6., para el DS Nº10 (V. y U.), de 2015;
+
+- En el resuelvo 7., para el DS Nº27 (V. y U.), de 2016;
+
+- En el resuelvo 2, para el DS Nº1 (V. y U.), de 2011, cuando se trate de un máximo de 30 personas afectadas como consecuencia de incendios, sismos o inundaciones, y
+
+- En el resuelvo 5, para el DS Nº52 (V. y U.), de 2013, cuando se trate de un máximo de 30 personas afectadas como consecuencia de incendios, sismos, inundaciones o de personas afectadas por socavones con daño irreparable en sus viviendas, que cuenten con certificado de inhabitabilidad o decreto de demolición por parte de la respectiva Municipalidad.
+
+Tampoco aplicará la limitación establecida en el inciso tercero precedente, en las asignaciones de subsidios destinadas a personas afectadas por socavones con daño irreparable en sus viviendas, que cuenten con decreto de demolición por parte de la respectiva Municipalidad, y que lo apliquen en la tipología de construcción en sitio propio o densificación predial del programa regulado por el DS Nº 49 (V. y U.), de 2011.
+
+Tratándose de personas atendidas en su condición de damnificadas, en zonas con decreto de catástrofe, si el subsidio otorgado no se puede aplicar porque el proyecto habitacional no es factible de llevar a cabo por inviabilidad del terreno, o bien por decisión voluntaria de la familia damnificada de abandonar su terreno y cederlo al Serviu, podrán aplicar el subsidio a la adquisición de una vivienda construida, nueva o usada.
+
+Establécese que en el ejercicio de las facultades que se delegan por la presente resolución, en ningún caso se podrá diferir la nómina de las personas beneficiadas.
 
 9. Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad a que se refiere el inciso tercero del artículo 74 del DS N° 174 (V. y U.), de 2005.
 
-10. Las resoluciones que los respectivos Secretarios Regionales Ministeriales dicten en ejercicio de las delegaciones conferidas por la presente resolución, deberán ser informadas a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo en un plazo que no podrá exceder de 10 días, corridos desde su dictación.
+10. En forma mensual, el Secretario o la Secretaria Regional Ministerial de Vivienda y Urbanismo respectivo, deberá remitir a la División de Política Habitacional del Ministerio las resoluciones que dicten en el ejercicio de las delegaciones conferidas en la presente resolución.
+
+Las Secretarías Regionales Ministeriales de Vivienda y Urbanismo deberán designar un funcionario o funcionaria que actuará como contraparte para el seguimiento de los procedimientos que por esta resolución se delegan, informando mediante correo electrónico al Jefe de la División de Política Habitacional. Los funcionarios designados deberán enviar cada mes las planillas con los campos de información que se les requiera para efectuar el debido seguimiento a los recursos anuales de cada uno de los diferentes programas.
+
+La División de Política Habitacional elaborará un informe bimensual, dirigido al Ministro y a la Subsecretaria de Vivienda y Urbanismo, que dé cuenta del seguimiento de cada programa habitacional en el respectivo período, debiendo incorporar información respecto de las asignaciones directas otorgadas en virtud de las delegaciones dispuestas en la presente resolución. Los informes emitidos servirán de antecedente para las auditorías que se realicen conforme al Plan Anual de Auditoría Interna.
 
 11. Deróguese, a contar de la fecha de publicación del presente acto administrativo, el decreto exento N° 673 (V. y U.), de 2010, y la resolución exenta N° 593 (V. y U.), modificada por resolución exenta N° 1.882 (V. y U.), ambas de 2016, en un plazo de 5 días, contados desde la fecha de su dictación.
 
@@ -184,7 +212,7 @@ transitorio: Durante el año 2021, el porcentaje máximo de los recursos regiona
 
 #### Artículo segundo
 
-transitorio: Tratándose de Proyectos del DS Nº 10 (V. y U.) de 2015, que reglamenta el Programa Habitabilidad Rural, y durante el año calendario 2024, las regiones que presenten proyectos bajo las condiciones señaladas en los párrafos tercero y cuarto, del literal a) del Resuelvo 6. de la resolución exenta Nº 6.042, podrán asignar subsidios por sobre el porcentaje que el Resuelvo 8. de la misma, siempre que la solicitud de recursos haya sido autorizada previamente por el Jefe de la División de Política Habitacional.
+transitorio: Tratándose de Proyectos del DS Nº 10 (V. y U.) de 2015, que reglamenta el Programa Habitabilidad Rural, durante el año calendario 2024 y 2025, las asignaciones que se otorguen conforme al Resuelvo 6., de la resolución exenta Nº 6.042 (V. y U), de 2017, podrán superar el porcentaje señalado en el Resuelvo 8. de la misma, siempre que la solicitud de recursos haya sido autorizada previamente por el Jefe de la División de Política Habitacional.
 
 Anótese y publíquese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
