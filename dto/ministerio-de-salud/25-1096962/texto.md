@@ -56,11 +56,11 @@ Beneficiarios.- Podrán acceder a la bonificación por retiro voluntario, siempr
 
 Requisitos.- Podrán acceder a la bonificación por retiro voluntario:
 
-1. Los funcionarios señalados en los números 1, 2 y 3 del artículo anterior que entre el 1 de julio de 2014 y el 30 de junio de 2024, hayan cumplido o cumplan 60 de edad, si son mujeres, y 65 años de edad si son hombres, que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
+1. Los funcionarios señalados en los números 1, 2 y 3 del artículo anterior que entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan cumplido o cumplan 60 de edad, si son mujeres, y 65 años de edad si son hombres, que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
 
 2. Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo anterior que al 30 de junio de 2014 hayan cumplido 60 o más años de edad si son mujeres, y 65 o más años de edad si son hombres y que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
 
-3. Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo anterior que, entre el 1 de julio de 2014 y el 30 de junio de 2024, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, y que en dicho período, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
+3. Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo anterior que, entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, y que en dicho período, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
 #### Artículo 4º
 
@@ -70,7 +70,7 @@ La remuneración que servirá de base para el cálculo de la bonificación por r
 
 #### Artículo 5º
 
-Cupos.- La bonificación por retiro voluntario se otorgará hasta un total de 22.000 beneficiarios y beneficiarias durante la vigencia del plan de incentivo al retiro. Para el año 2016 existirán 4.000 cupos y para los años 2017 al 2024, se contemplarán 2.250 cupos por cada anualidad.
+Cupos.- La bonificación por retiro voluntario se otorgará hasta un total de 24.250 beneficiarios y beneficiarias durante la vigencia del plan de incentivo al retiro. Para el año 2016 existirán 4.000 cupos y para los años 2017 al 2025, se contemplarán 2.250 cupos por cada anualidad.
 
 Los cupos que no hubieren sido utilizados en los años 2016 al 2018, ambos incluidos, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
@@ -88,7 +88,7 @@ Previo al inicio del proceso de postulación de asignación de cupos establecido
 
 #### Artículo 8º
 
-De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente Reglamento y hasta el 30 de junio de 2024 se abrirán nueve procesos de postulación de asignación de cupos dispuestos en el artículo 5º a las personas que cumplan con las condiciones y requisitos señalados en los artículos 2º y 3º de este Reglamento.
+De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente Reglamento y hasta el 31 de diciembre de 2025 se abrirán diez procesos de postulación de asignación de cupos dispuestos en el artículo 5º a las personas que cumplan con las condiciones y requisitos señalados en los artículos 2º y 3º de este Reglamento.
 
 En los procesos de postulación referidos en el inciso primero, podrán postular comunicando su decisión de renunciar voluntariamente los funcionarios y las funcionarias que se indican dentro de los siguientes plazos:
 
@@ -110,11 +110,17 @@ i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artí
 
 ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que hayan obtenido la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de octubre del año de postulación y que entre el inicio del proceso de postulación del año anterior y el 31 de octubre del año en que postula a un cupo, hayan cumplido 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
-(d) Noveno proceso de postulación de asignación de cupos. A los 2.250 cupos correspondientes al año 2024 y a los adicionales que existan disponible conforme al inciso segundo del artículo 5º, se deberá postular en el mes de junio de 2024:
+(d) Noveno proceso de postulación de asignación de cupos. A los 2.250 cupos correspondientes al año 2024 y a los adicionales que existan disponibles conforme al inciso segundo del artículo 5°, se deberá postular en el mes de noviembre de 2024, pudiendo participar de cada proceso:
 
-i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que entre el 1 de enero y el 30 de junio de 2024 cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres.
+i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2° que entre el 1 de enero y el 31 de diciembre de 2024 cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres.
 
-ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que entre el 1 de julio de 2014 y el 30 de junio de 2024 hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, y que entre el 1 de noviembre del año 2022 y el 30 de junio de 2024 hubiesen cumplido 60 años de edad, en el caso de las mujeres y 65 años de edad, en el caso de los hombres.
+ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2° que hayan obtenido la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y 31 de octubre de 2024 y que entre el 1 de noviembre de 2022 y el 31 de octubre de 2024, hayan cumplido 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
+
+(e) Décimo proceso de postulación de asignación de cupos. A los 2.250 cupos correspondientes al año 2025 y a los adicionales que existan disponibles conforme al inciso segundo del artículo 5°, se deberá postular en el mes de diciembre de 2025:
+
+i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2° que entre el 1 de enero y el 31 de diciembre de 2025 cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres.
+
+ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2° que entre el 1 de julio de 2014 y el 31 de diciembre de 2025 hayan obtenido la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, y que entre el 1 de noviembre del año 2024 y el 31 de diciembre de 2025 hubiesen cumplido 60 años de edad, en el caso de las mujeres y 65 años de edad, en el caso de los hombres.
 
 #### Artículo 9º
 
@@ -198,7 +204,7 @@ Comunicación de fecha renuncia efectiva.- Los funcionarios y funcionarias seña
 
 La renuncia deberá hacerse efectiva una vez que el beneficiario cumpla el requisito de edad dispuesto en el artículo 3º y a más tardar el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva; o hasta el día primero del quinto mes en que cumpla 65 años de edad, si esta fecha es posterior a aquella. Tratándose de las funcionarias que sean beneficiarias de algún cupo para hacerlo efectivo antes de cumplir los 65 años de edad, se aplicará lo dispuesto en el inciso tercero del artículo 18, cuando corresponda.
 
-Sin perjuicio de lo anterior, las funcionarias que cumplan entre 60 años y 65 años de edad, entre el 1 de enero y el 30 de junio de 2024, y que postulen en el proceso correspondiente al año 2024, de ser seleccionadas deberán hacer efectiva su renuncia voluntaria, a más tardar, hasta el primer día del quinto mes siguiente al que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
+Sin perjuicio de lo anterior, las funcionarias que cumplan entre 60 años y 65 años de edad, entre el 1 de enero y el 31 de diciembre de 2025, y que postulen en el proceso correspondiente al año 2025, de ser seleccionadas deberán hacer efectiva su renuncia voluntaria, a más tardar, hasta el primer día del quinto mes siguiente al que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
 
 El personal que se acoja a los beneficios de esta ley deberá renunciar a todos los cargos y al total de horas que sirva; y si se desempeñase en más de un establecimiento de los mencionados en el artículo 2º, deberá renunciar a la totalidad de las horas y a los nombramientos o contratos que tenga en ellos.
 
