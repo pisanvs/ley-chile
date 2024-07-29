@@ -18,29 +18,37 @@ d) Firma del representante legal del servicio, ya sea línea de taxis colectivos
 
 e) Firma del Conductor;
 
-f) Número de Folio y Timbre de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XV Región de Arica y Parinacota;
+f) En el caso de servicios de radio taxis, se deberá indicar la frecuencia autorizada y el Nº de resolución de la Subsecretaría de Telecomunicaciones;
 
-g) En el caso de servicios de radio taxis, se deberá indicar la frecuencia autorizada y el Nº de resolución de la Subsecretaría de Telecomunicaciones;
-
-h) Deberá encontrarse plastificada por sistema de termolaminado.
+g) Deberá encontrarse plastificada por sistema de termolaminado.
 
 2.- La credencial deberá estar ubicada en el interior del vehículo en un lugar visible para los pasajeros.
 
 3.- Para que esta credencial sea autorizada por la Secretaría Regional deberá acreditarse que el conductor cumple con los requisitos para desempeñarse como tal. La presentación de los antecedentes será responsabilidad de los siguientes actores según modalidad:
 
-• Taxis Colectivos: Representante legal.
+. Taxis Colectivos: Representante
 
-• Empresas de Radio Taxis: Representante legal o
+legal.
 
-propietario de la
+. Empresas de Radio Taxis: Representante
 
-frecuencia autorizada
+legal o
 
-por la Subsecretaría
+propietario
+
+de la
+
+frecuencia
+
+autorizada
+
+por la
+
+Subsecretaría
 
 de Telecomunicaciones.
 
-• Taxis Básicos y de Turismo: Dueño del vehículo.
+. Taxis Básicos y de Turismo: Dueño del vehículo.
 
 Los antecedentes que se deberán presentar para obtener la autorización, serán comunicados oportunamente por la Secretaría Regional.
 
@@ -50,9 +58,7 @@ ANEXO
 
 Formato de identificación del conductor en taxis
 
-El formato de la cara anterior del documento será el siguiente:
-
-VER DIARIO OFICIAL DE 02.04.2009 PAGINA 12
+El formato de la cara anterior del documento será el siguiente, eliminando lo señalado en el párrafo anterior, letra c):
 
 En la parte posterior de la tarjeta se deberá imprimir:
 
@@ -62,8 +68,10 @@ b) En el extremo inferior derecho, se estampará la fecha de autorización del S
 
 c) En la parte superior se podrá estampar el nombre o logotipo del servicio o línea a que pertenece dicho vehículo.
 
-El formato de la cara posterior del documento será el siguiente:
+El formato de la cara posterior del documento será el siguiente, eliminando lo señalado en el párrafo anterior, letra c):
 
-VER DIARIO OFICIAL DE 02.04.2009 PAGINA 12
+> **Nota.** La letra b) del numeral 1° de la resolución 484 Exenta, publicada el 29.07.2024, modifica la presente norma en el sentido de indicar solamente en lo que respecta a que los representantes legales serán los encargados de otorgar la credencial del conductor del vehículo, a aquellos conductores que cumplan con todos los requisitos legales como conductor. Pero mantendrá la facultad de revisión de antecedentes que se deberán presentar para obtener la autorización respectiva.
+
+> **Nota.** NOTA 1 La letra c) del numeral 1° de la resolución 484 Exenta, publicada el 29.07.2024, elimina en el "Anexo" de la presente norma, que contiene el formato de identificación del conductor en taxis, en la cara anterior de la credencial, el número de folio y timbre de la Secretaría Regional Ministerial de la Región de Arica y Parinacota. A su vez, en la cara posterior de la misma credencial, la fecha de autorización de la referida Secretaría.
 
 Anótese y publíquese.- Gregorio Paz Segura, Secretario Regional Ministerial Transportes y Telecomunicaciones XV Región de Arica y Parinacota.
