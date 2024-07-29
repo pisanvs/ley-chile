@@ -2134,71 +2134,67 @@ graneles gaseosos
 
 y líquidos.
 
-30 Paso Cóndor II
+30. Paso Permanente Paso de
 
-52°13'24,80" S
+Cóndor II personas y
 
-68°56'54" W Permanente Paso de personas y
+52°13'24,80" S herramientas
 
-herramientas
+68°56'54" W pertenecientes
 
-pertenecientes al
+al personal
 
-personal técnico de la
+técnico de la
 
-empresa Gas del Sur,
+empresa Gas
 
-TGS S.A., encargado
+del Sur,
 
-del mantenimiento de
+TGS S.A.,
 
-la infraestructura del
+encargado del
 
-gasoducto que conecta
+mantenimiento
 
-las localidades de
+de la
 
-Posesión en Chile y el
+infraestructura
 
-Cóndor en Argentina
+del gasoducto
 
-31. Puerto Otway
+que conecta
 
-52º56,5'S
+las
 
-71º43,5'W
+localidades
 
-Permanente
+de Posesión
 
-Paso de personas y
+en Chile y el
 
-todo tipo de
+Cóndor en
 
-operaciones
+Argentina
+
+31. Puerto Otway Permanente Paso de personas
+
+52º56,5'S y todo tipo
+
+71º43,5'W de operaciones
 
 aduaneras
 
-32. Terminal
+32. Terminal Permanente Paso de personas
 
-Marítimo
+Marítimo y todo tipo de
 
-Patagonia
+Patagonia operaciones
 
-Sur Ltda.
+Sur Ltda. aduaneras
 
 51º41'51" S
 
 72º31'32" W
-
-Permanente
-
-Paso de personas y
-
-todo tipo de
-
-operaciones
-
-aduaneras
 
 33. Terminal Permanente Paso de personas
 
@@ -2215,6 +2211,20 @@ Marítimo y todo tipo de
 Bahía Azul operaciones
 
 aduaneras.
+
+35. Aeródromo Permanente Paso de
+
+Teniente personas y
+
+Julio todo tipo de
+
+Gallardo operaciones
+
+51°40'15" S aduaneras.
+
+y
+
+72°31'43" O
 
 > **Nota.** El DTO 29 EXENTO, Hacienda, publicado el12.02.1999 agregó un nuevo punto habilitado con el Nº 23. Con anterioridad el DTO 377 Exento, Hacienda, publicado el 23.12.1998, agregó un punto habilitado con el mismo numeral.
 
