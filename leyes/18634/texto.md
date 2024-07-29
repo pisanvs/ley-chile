@@ -60,11 +60,11 @@ II.- PAGO DIFERIDO DE TRIBUTOS ADUANEROS
 
 El pago de los derechos e impuestos de carácter aduanero, causados en la importación de bienes de capital, adquiridos o arrendados, podrá ser diferido en un plazo máximo de siete años, contado desde la legalización de la respectiva declaración de importación. Este beneficio no comprende las sobretasas y derechos compensatorios que se establecieren de conformidad con el artículo 10 de la ley N° 18.525 y al recargo establecido en la Regla N° 3 de las Reglas Generales Complementarias, a que se refiere el inciso segundo del artículo 2° de la citada ley respecto de los barcos para pesca y barcos factoría, que se clasifican en las subpartidas 89-01-03-00 y 89-01-89-00, respectivamente, del Arancel Aduanero.
 
-El beneficio señalado en el inciso anterior y sus modalidades de aplicación, se harán extensivos al impuesto que contempla el artículo 43 bis del decreto ley N° 825, de 1974, que se devengue en la importación de automóviles para el transporte público de pasajeros que se destinen a taxis, cuyo valor CIF no exceda de US$ 13.593,85.- cantidad que se reactualizará anualmente de la misma manera y oportunidad señaladas en el inciso segundo del artículo 7°.
+El beneficio señalado en el inciso anterior y sus modalidades de aplicación, se harán extensivos al impuesto que contempla el artículo 43 bis del decreto ley N° 825, de 1974, que se devengue en la importación de automóviles para el transporte público de pasajeros que se destinen a taxis, cuyo valor CIF no exceda de US$ 13.607,44.- cantidad que se reactualizará anualmente de la misma manera y oportunidad señaladas en el inciso segundo del artículo 7°.
 
 #### Artículo 7°
 
-Para la procedencia de este sistema de pago, los bienes de capital importados deberán tener un valor CIF mínimo de US$ 6.796,85.- de los Estados Unidos de América o su equivalente en otras monedas, salvo los bienes de capital a que se refiere el artículo 9° letra b), los cuales deberán tener un valor CIF superior a US$ 8.609,36.- de los Estados Unidos de América o su equivalente en otras monedas.
+Para la procedencia de este sistema de pago, los bienes de capital importados deberán tener un valor CIF mínimo de US$ 6.803,64.- de los Estados Unidos de América o su equivalente en otras monedas, salvo los bienes de capital a que se refiere el artículo 9° letra b), los cuales deberán tener un valor CIF superior a US$ 8.617,96.- de los Estados Unidos de América o su equivalente en otras monedas.
 
 Las cantidades en dólares establecidas en este artículo se reactualizarán anualmente, a contar del 1° de julio de 1988, mediante decreto supremo expedido por medio del Ministerio de Hacienda, de acuerdo con la variación experimentada por el Indice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1° de mayo del año anterior al de las reactualizaciones y el 30 de abril del año en que se las practique.
 
@@ -130,7 +130,7 @@ Para el ejercicio de la atribución que le confiere el inciso precedente, el Ser
 
 El beneficio de crédito fiscal será procedente siempre que concurran los siguientes requisitos:
 
-a) El bien de capital deberá tener un valor mínimo en moneda nacional, excluyendo el impuesto al valor agregado, equivalente a US$ 6.796,85.- de los Estados Unidos de América, al tipo de cambio vigente a la fecha de factura, cantidad que se reactualizará anualmente en la forma dispuesta por el artículo 7° inciso segundo de esta ley.
+a) El bien de capital deberá tener un valor mínimo en moneda nacional, excluyendo el impuesto al valor agregado, equivalente a US$ 6. 803,64.- de los Estados Unidos de América, al tipo de cambio vigente a la fecha de factura, cantidad que se reactualizará anualmente en la forma dispuesta por el artículo 7° inciso segundo de esta ley.
 
 b) El bien de capital deberá estar incluido en el giro habitual de la empresa que lo hubiere fabricado, según calificación que efectuará el Servicio de Aduanas.
 
