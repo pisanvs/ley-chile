@@ -102,11 +102,9 @@ Cancélase la personalidad jurídica a la Universidad de Arte y Ciencias Sociale
 
 #### Artículo 3°
 
-El cierre definitivo de la institución regirá a partir del 31 de enero de 2021, sin perjuicio que el Ministerio de Educación podrá, mediante resolución fundada, antes del vencimiento de dicha fecha, extender el plazo por un máximo de cuarenta y dos meses, a efectos de finalizar los procesos académicos y de titulación vigentes.
+El cierre definitivo de la institución regirá a partir del día 31 de diciembre de 2025, sin perjuicio que el Ministerio de Educación podrá, mediante acto administrativo fundado, antes del vencimiento de dicha fecha, extender el plazo a aquellas sedes, carreras o programas que, por razones fundadas, requieran seguir funcionando.
 
 Con todo, la Universidad no podrá admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, desde la suscripción de este acto.
-
-> **Nota.** El artículo 2 del Decreto 706 Exento, Educación, publicado el 13.10.2020, prorroga el plazo de cierre definitivo de la Universidad de Artes y Ciencias Sociales-Arcis hasta el 31 de julio de 2024.
 
 #### Artículo 4°
 
