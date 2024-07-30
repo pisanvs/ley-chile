@@ -52,7 +52,7 @@ Con todo, los vehículos motorizados de cuatro o más ruedas, podrán estar prov
 
 Las luces antiniebla delanteras deberán posicionarse en el ancho del vehículo, separadas una de otra de forma simétrica, con respecto al plano longitudinal medio del vehículo, y su borde externo deberá encontrarse como máximo a 400 mm del borde externo del vehículo. Deberán estar ubicadas en el parachoques, o a una altura que no supere la altura de los focos que proyectan las luces bajas. Además, su superficie de iluminación no deberá sobresalir de la cara frontal del parachoques en el punto de instalación de las referidas luces antiniebla.
 
-Para los mismos vehículos, cuando se instale una luz antiniebla trasera, ésta deberá ubicarse en el ancho del vehículo, a la izquierda del plano longitudinal medio del vehículo, según el sentido de marcha del mismo o al centro; en caso de instalarse dos luces antiniebla, deberán ubicarse de forma simétrica respecto del plano longitudinal medio del vehículo. En ambos casos, la distancia entre la luz antiniebla trasera y cada luz de freno será igual o superior a 100m.
+Para los mismos vehículos, cuando se instale una luz antiniebla trasera, ésta deberá ubicarse en el ancho del vehículo, a la izquierda del plano longitudinal medio del vehículo, según el sentido de marcha del mismo o al centro; en caso de instalarse dos luces antiniebla, deberán ubicarse de forma simétrica respecto del plano longitudinal medio del vehículo. En ambos casos, la distancia entre la luz antiniebla trasera y cada luz de freno será igual o superior a 100mm.
 
 * Remolques y semirremolques:
 
