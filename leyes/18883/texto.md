@@ -1084,6 +1084,8 @@ g) En los demás casos contemplados en este Estatuto o leyes especiales.
 
 Si el alcalde estimare que los hechos son susceptibles de ser sancionados con una medida disciplinaria o en el caso de disponerlo expresamente la ley, decretará la instrucción de una investigación sumaria, la cual tendrá por objeto verificar la existencia de los hechos, y la individualización de los responsables y su participación, si los hubiere, designando para tal efecto a un funcionario que actuará como investigador.
 
+Con todo, ante una denuncia de hechos que pudiesen vulnerar lo dispuesto en el artículo 82 letras l) o m), la autoridad solo podrá desestimarla mediante una resolución fundada y deberá notificar dicho acto dentro del plazo de cinco días a la persona denunciante, la que podrá ejercer el derecho establecido en el artículo 156.
+
 Las notificaciones que se realicen durante la investigación sumaria deberán hacerse personalmente. Si el funcionario no fuere habido por dos días consecutivos en su domicilio o en su lugar de trabajo, se lo notificará por carta certificada, de lo cual deberá dejarse constancia. En ambos casos se deberá dejar copia íntegra de la resolución respectiva. En esta última circunstancia, el funcionario se entenderá notificado cumplidos tres días desde que la carta haya sido despachada.
 
 El procedimiento será fundamentalmente verbal y de lo actuado se levantará un acta general que firmarán los que hayan declarado, sin perjuicio de agregar los documentos probatorios que corresponda, no pudiendo exceder la investigación el plazo de cinco días. Al término del señalado plazo se formularán cargos, si procedieren, debiendo el afectado responder los mismos en un plazo de dos días, a contar de la fecha de notificación de éstos.
@@ -1110,9 +1112,17 @@ Si la naturaleza de los hechos denunciados o su gravedad así lo exigiere, el al
 
 El sumario administrativo se ordenará por el alcalde mediante decreto, en el cual designará al fiscal que estará a cargo del mismo.
 
+En caso de que el sumario se ordene por hechos que vulneren lo dispuesto en el artículo 82 letras l) o m), deberá designarse preferentemente fiscal a un funcionario o funcionaria que cuente con formación en materias de prevención, investigación y sanción de acoso, género o derechos fundamentales.
+
+En los procedimientos instruidos para determinar la responsabilidad administrativa en este tipo de casos, las víctimas y personas afectadas por las eventuales infracciones tendrán derecho a aportar antecedentes a la investigación, a conocer su contenido desde la formulación de cargos, a ser notificadas e interponer recursos en contra de los actos administrativos, en los mismos términos que el funcionario inculpado.
+
+Lo anterior aplicará también para las reclamaciones establecidas en los artículos 135 y 138.
+
+Si designado el fiscal, apareciere involucrado en los hechos investigados un funcionario de mayor grado o jerarquía o de dependencia directa en su caso, continuará aquél sustanciando el procedimiento hasta que disponga el cierre de la investigación.
+
 El fiscal deberá tener igual o mayor grado o jerarquía que el funcionario que aparezca involucrado en los hechos. Si no fuera posible aplicar esta norma, bastará que no exista relación de dependencia directa.
 
-Si designado el fiscal, apareciere involucrado en lo hechos investigados un funcionario de mayor grado o jerarquía o de dependencia directa en su caso, continuará aquél sustanciando el procedimiento hasta que disponga el cierre de la investigación.
+> **Nota.** La letra b) del N° 8 del artículo 4 de la ley 21643, publicada el 15.01.2024, ordena sustituir en el inciso sexto del presente artículo la expresión "lo" por "los, no obstante, estar ubicado en su texto en el inciso quinto actual, ello tras la incorporación de los incisos tercero, cuarto y quinto nuevos, conforme lo dispone el literal a) N° 8 de la citada disposición, que posiciona como inciso sexto el preliminar inciso segundo.
 
 #### Artículo 128
 
