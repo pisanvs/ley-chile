@@ -82,15 +82,27 @@ Los funcionarios de la Administración del Estado deberán observar el principio
 
 La función pública se ejercerá con transparencia, de manera que permita y promueva el conocimiento de los procedimientos, contenidos y fundamentos de las decisiones que se adopten en ejercicio de ella.
 
-INCISOS DEROGADOS.
-
-> **Nota.** El artículo transitorio de la LEY 20285, publicada el 20.08.2008, dispone que la modificación de la presente norma, entrará en vigencia ocho meses después de su publicación.
+Asimismo la función pública se ejercerá propendiendo al respeto del derecho de toda persona, con ocasión del trabajo, a disfrutar de un espacio libre de violencia, acoso laboral y sexual. Los órganos de la Administración del Estado deberán tomar todas las medidas necesarias para su prevención, investigación y sanción.
 
 #### Artículo 14
 
-Derogado.
+Los órganos de la Administración del Estado deberán contar con un protocolo de prevención de la violencia en el trabajo, el acoso laboral y sexual para promover el buen trato, ambientes laborales saludables y respeto a la dignidad de las personas, el que considerará acciones de difusión, sensibilización, formación y monitoreo. Podrá contar con la asistencia de los organismos administradores de la ley N°16.744, en los casos que correspondan.
 
-> **Nota.** El artículo transitorio de la LEY 20285, publicada el 20.08.2008, dispone que la modificación de la presente norma, entrará en vigencia ocho meses después de su publicación.
+El protocolo de prevención incorporará, a lo menos, lo siguiente:
+
+a) La identificación de los peligros y la evaluación de los riesgos psicosociales asociados al acoso sexual, laboral y a la violencia en el trabajo, con un enfoque inclusivo e integrado con perspectiva de género.
+
+b) Las medidas para prevenir y controlar los riesgos señalados en literal anterior, con objetivos medibles, para evaluar su eficacia y velar por su mejoramiento y corrección continua.
+
+c) Las medidas para informar y capacitar adecuadamente a las personas funcionarias sobre los riesgos identificados y evaluados, las medidas de prevención y protección que deban adoptarse, y los derechos y responsabilidades de los funcionarios y las funcionarias y los de la propia institución.
+
+d) Las medidas que fueren necesarias en atención a la naturaleza de los servicios prestados para dar una oportuna aplicación en la protección eficaz de la vida y salud de los funcionarios en materia de acoso sexual, laboral y violencia en el trabajo.
+
+e) Las medidas de resguardo de la privacidad y la honra de todos los involucrados en los procedimientos de investigación de acoso sexual o laboral, y las medidas frente a denuncias inconsistentes en estas materias. Asimismo, deberá contener mecanismos de prevención, formación, educación y protección destinada a resguardar la debida actuación de las trabajadoras y de los trabajadores, independiente del resultado de la investigación en estos procedimientos.
+
+En los procedimientos de investigación de acoso sexual o laboral, será aplicable lo dispuesto en los artículos 90 A y 90 B de la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda.
+
+Con todo, los jefes de servicio tendrán el deber de informar semestralmente los canales que mantiene dicho organismo y el Estado para la recepción de denuncias sobre incumplimientos relativos a la prevención, investigación y sanción del acoso sexual y laboral, y de cualquier incumplimiento a la normativa que rige a las personas funcionarias del sector público. Adicionalmente, deberá informar los mecanismos para acceder a las prestaciones en materia de seguridad social.
 
 #### Artículo 15
 
@@ -300,7 +312,7 @@ Las promociones deberán efectuarse, según lo disponga el estatuto, por concurs
 
 Asimismo, este personal gozará de estabilidad en el empleo y sólo podrá cesar en él por renuncia voluntaria debidamente aceptada; por jubilación o por otra causal legal, basada en su desempeño deficiente, en el incumplimiento de sus obligaciones, en la pérdida de requisitos para ejercer la función, en el término del período legal por el cual se es designado o en la supresión del empleo. Lo anterior es sin perjuicio de la facultad que tiene el Presidente de la República o la autoridad llamada a hacer el nombramiento en relación con los cargos de su exclusiva confianza.
 
-El desempeño deficiente y el incumplimiento de obligaciones deberá acreditarse en las calificaciones correspondientes o mediante investigación o sumario administrativo.
+El desempeño deficiente y el incumplimiento de obligaciones deberá acreditarse en las calificaciones correspondientes o mediante investigación o sumario administrativo, cuyos procedimientos deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
 
 Los funcionarios públicos sólo podrán ser destinados a funciones propias del empleo para el cual han sido designados, dentro del órgano o servicio público correspondiente.
 
@@ -476,9 +488,11 @@ Las autoridades y funcionarios deberán abstenerse de participar en estos asunto
 
 7. Omitir o eludir la propuesta pública en los casos que la ley la disponga;
 
-8. Contravenir los deberes de eficiencia, eficacia y legalidad que rigen el desempeño de los cargos públicos, con grave entorpecimiento del servicio o del ejercicio de los derechos ciudadanos ante la Administración, y
+8. Contravenir los deberes de eficiencia, eficacia y legalidad que rigen el desempeño de los cargos públicos, con grave entorpecimiento del servicio o del ejercicio de los derechos ciudadanos ante la Administración.
 
 9. Efectuar denuncias de irregularidades o de faltas al principio de probidad de las que haya afirmado tener conocimiento, sin fundamento y respecto de las cuales se constatare su falsedad o el ánimo deliberado de perjudicar al denunciado.
+
+10. Ejercer conductas de acoso sexual, laboral o de violencia en el trabajo, que sufran las funcionarias y los funcionarios en los términos del artículo 2 del Código del Trabajo.
 
 #### Artículo 63
 

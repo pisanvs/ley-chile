@@ -140,7 +140,7 @@ c) Tener salud compatible con el desempeño del cargo;
 
 d) Haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo exija la ley;
 
-e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones, y
+e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones. Con todo, conforme lo establecido en el artículo 121 de este Estatuto, no será necesario el cumplimiento de dicho plazo cuando así lo determine el respectivo fiscal.
 
 f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por delito que tenga asignada pena de crimen o simple delito. Sin perjuicio de lo anterior, tratándose del acceso a cargos de auxiliares y administrativos, no será impedimento para el ingreso encontrarse condenado por ilícito que tenga asignada pena de simple delito, siempre que no sea de aquellos contemplados en el Título V, Libro II, del Código Penal.
 
@@ -844,6 +844,8 @@ Los funcionarios tendrán derecho, además, a ser defendidos y a exigir que la i
 
 La denuncia será hecha ante el respectivo Tribunal por el jefe superior de la institución, a solicitud escrita del funcionario, y cuando el afectado fuere dicho jefe superior, la denuncia la hará el Ministro de Estado que corresponda.
 
+Con todo, cuando se atente contra la vida o integridad física de los funcionarios y las funcionarias, la autoridad deberá resolver fundadamente acerca de la necesidad de iniciar de oficio el procedimiento de investigación sumaria o sumario administrativo para determinar las responsabilidades administrativas en caso de que correspondan.
+
 #### Artículo 90
 
 A.- Los funcionarios que ejerzan las acciones a que se refieren las letras k) y l) del artículo 61 tendrán los siguientes derechos:
@@ -1102,7 +1104,7 @@ De la responsabilidad administrativa
 
 El empleado que infringiere sus obligaciones o deberes funcionarios podrá ser objeto de anotaciones de demérito en su hoja de vida o de medidas disciplinarias.
 
-Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo.
+Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo, cuyos procedimientos deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
 
 > **Nota.** El artículo 2º de la LEY 20005, publicada el 18.03.2005, ordena modificar el Art. 119 de la ley 18834. Sin embargo, al momento de su publicación ya se encontraba vigente el presente texto refundido, donde se re-enumeran los artículos, por lo que no fue posible aplicar la modificación al artículo que lleva ese número. Para mayor información consultar la nota al pie del artículo 125.
 
@@ -1142,6 +1144,8 @@ En caso de que la cooperación prestada por el denunciante en razón de su parti
 
 Lo señalado en el inciso anterior no tendrá aplicación en caso de auto denuncia de hechos en los que no hubiesen tenido participación terceras personas y tratándose de los sujetos a que refiere el numeral 2 del inciso quinto.
 
+En el caso que se aplique la medida disciplinaria de destitución, como consecuencia de la inobservancia de lo dispuesto en el artículo 84 letra m), el fiscal podrá determinar, considerando lo señalado en el inciso anterior, que el funcionario o funcionaria se encuentra eximido de cumplir el plazo establecido en el artículo 12 letra e), decisión que no será aplicable respecto de la institución que aplica la medida.
+
 #### Artículo 122
 
 La censura consiste en la reprensión por escrito que se hace al funcionario, de la cual se dejará constancia en su hoja de vida, mediante una anotación de demérito de dos puntos en el factor de calificación correspondiente.
@@ -1172,7 +1176,7 @@ La medida disciplinaria de destitución procederá sólo cuando los hechos const
 
 a) Ausentarse de la institución por más de tres días consecutivos, sin causa justificada;
 
-b) Infringir las disposiciones de las letras i), j), k) y l) del artículo 84 de este Estatuto;
+b) Infringir las disposiciones de las letras i), j), k), l) y m) del artículo 84;
 
 c) Condena por crimen o simple delito, y
 
@@ -1187,6 +1191,8 @@ f) En los demás casos contemplados en este Estatuto o leyes especiales.
 #### Artículo 126
 
 Si el jefe superior de la institución, el Secretario Regional Ministerial o el Director Regional de servicios nacionales desconcentrados, según corresponda, estimare que los hechos son susceptibles de ser sancionados con una medida disciplinaria o en el caso de disponerlo expresamente la ley, ordenará mediante resolución la instrucción de una investigación sumaria, la cual tendrá por objeto verificar la existencia de los hechos, y la individualización de los responsables y su participación, si los hubiere, designando para tal efecto a un funcionario que actuará como investigador.
+
+Con todo, ante una denuncia de hechos que puedan vulnerar lo dispuesto en el artículo 84 letras l) o m), la autoridad solo podrá desestimarla mediante una resolución fundada y deberá notificar dicho acto dentro del plazo de cinco días a la persona denunciante, la que podrá ejercer el derecho establecido en el artículo 160.
 
 Las notificaciones que se realicen durante la investigación sumaria deberán hacerse personalmente. Si el funcionario no fuere habido por dos días consecutivos en su domicilio o en su lugar de trabajo, se lo notificará por carta certificada, de lo cual deberá dejarse constancia. En ambos casos se deberá dejar copia íntegra de la resolución respectiva. En esta última circunstancia, el funcionario se entenderá notificado cumplidos tres días desde que la carta haya sido despachada.
 
@@ -1213,6 +1219,12 @@ Si la naturaleza de los hechos denunciados o su gravedad así lo exigiere, a jui
 #### Artículo 129
 
 El sumario administrativo se ordenará por el jefe superior de la institución, el Secretario Regional Ministerial o el Director Regional de servicios nacionales desconcentrados, según corresponda, mediante resolución, en la cual designará al fiscal que estará a cargo del mismo. El fiscal deberá tener igual o mayor grado o jerarquía que el funcionario que aparezca involucrado en los hechos.
+
+En caso de que el sumario se ordene por hechos que vulneren lo dispuesto en el artículo 84 letras l) o m), deberá preferentemente designarse fiscal a un funcionario o funcionaria que cuente con formación en materias de prevención, investigación y sanción de acoso, género o derechos fundamentales.
+
+En los procedimientos instruidos para determinar la responsabilidad administrativa en este tipo de casos, las víctimas y personas afectadas por las eventuales infracciones tendrán derecho a aportar antecedentes a la investigación, a conocer su contenido desde la formulación de cargos, a ser notificadas e interponer recursos en contra de los actos administrativos, en los mismos términos que el funcionario inculpado.
+
+Lo anterior se aplicará también para las reclamaciones establecidas en los artículos 137 y 140.
 
 Si designado el fiscal, apareciere involucrado en los hechos investigados un funcionario de mayor grado o jerarquía, continuará aquél sustanciando el procedimiento hasta que disponga el cierre de la investigación.
 
@@ -1268,6 +1280,8 @@ En casos calificados, al existir diligencias pendientes decretadas oportunamente
 
 En el curso de un sumario administrativo el fiscal podrá suspender de sus funciones o destinar transitoriamente a otro cargo dentro de la misma institución y ciudad, al o a los inculpados como medida preventiva.
 
+En caso de que el sumario se adopte por hechos que vulneren lo dispuesto en el artículo 84 letras l) o m), el o la fiscal deberá adoptar las medidas de resguardo necesarias respecto de las personas involucradas. Para ello deberá considerar la gravedad de los hechos imputados, la seguridad de la persona denunciante y las posibles derivadas de las condiciones de trabajo, entre las que se encuentran la separación de los espacios físicos y el otorgamiento a la persona denunciante de atención psicológica temprana, a través de los programas que disponga el organismo administrador respectivo de la ley N°16.744. Las medidas adoptadas se encontrarán vigentes por el tiempo que dure el procedimiento disciplinario y hasta que éste se encuentre afinado.
+
 La medida adoptada terminará al dictarse el sobreseimiento, que será notificado personalmente y por escrito por el actuario, o al emitirse el dictamen del fiscal, según corresponda.
 
 En caso de que el fiscal proponga en su dictamen la medida de destitución, podrá decretar que se mantenga la suspensión preventiva o la destinación transitoria, las que cesarán automáticamente si la resolución recaída en el sumario, o en alguno de los recursos que se interponga conforme al artículo 141, absuelve al inculpado o le aplica una medida disciplinaria distinta de la destitución. Cuando la medida prorrogada sea la suspensión preventiva, el inculpado quedará privado del cincuenta por ciento de sus remuneraciones, que tendrá derecho a percibir retroactivamente si en definitiva fuere absuelto o se le aplicara una sanción inferior a la destitución.
@@ -1277,6 +1291,8 @@ En caso de que el fiscal proponga en su dictamen la medida de destitución, podr
 En el evento de proponer el fiscal el sobreseimiento se enviarán los antecedentes al jefe superior de la institución, el Secretario Regional Ministerial o el Director Regional de servicios nacionales desconcentrados, en su caso, quien estará facultado para aprobar o rechazar tal proposición. En el caso de rechazarla, dispondrá que se complete la investigación dentro del plazo de cinco días.
 
 El sumario será secreto hasta la fecha de formulación de cargos, oportunidad en la cual dejará de serlo para el inculpado y para el abogado que asumiere su defensa.
+
+Cuando el o la fiscal proponga el sobreseimiento, y éste sea aprobado por la autoridad, deberá notificarse la resolución que afina el procedimiento a la persona denunciante de los hechos referidos en el artículo 84 letras l) o m), dentro del plazo de cinco días, quien podrá reclamar de ella ante la Contraloría General de la República en el plazo de veinte días contado desde que tomó conocimiento de aquella, sin perjuicio de lo establecido en el inciso tercero del artículo 131.
 
 #### Artículo 138
 
@@ -1300,7 +1316,9 @@ No obstante, la autoridad correspondiente podrá ordenar la realización de nuev
 
 Ningún funcionario podrá ser sancionado por hechos que no han sido materia de cargos.
 
-La aplicación de toda medida disciplinaria deberá ser notificada al afectado.
+La aplicación de toda medida disciplinaria deberá ser notificada al afectado. Con todo, cuando la autoridad determine la absolución o aplique cualquier medida disciplinaria respecto de los hechos referidos en el artículo 84 letras l) o m), deberá notificar la resolución que afina el procedimiento a la persona denunciante dentro del plazo de cinco días, quien podrá reclamar de ella ante la Contraloría General de la República, en el plazo de veinte días contado desde que tomó conocimiento de aquella, sin perjuicio de lo establecido en el inciso tercero del artículo 131.
+
+El acto que sobresee, absuelve o aplique la medida disciplinaria en contra de personas funcionarias del primer nivel jerárquico de la institución o servicio, respecto a hechos referidos en el artículo 84 letras l) o m) estará afecto al trámite de toma de razón por la Contraloría General de la República, el que no podrá realizarse antes del vencimiento del plazo de reclamación señalado en el inciso quinto de este artículo.
 
 #### Artículo 141
 
@@ -1320,7 +1338,7 @@ Acogida la apelación o propuesta la aplicación de una medida disciplinaria dis
 
 #### Artículo 143
 
-Vencidos los plazos de instrucción de un sumario y no estando éste afinado, la autoridad que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal.
+Vencidos los plazos de instrucción de un sumario y no estando éste afinado, la autoridad que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal. En los casos referidos al incumplimiento de las prohibiciones consagradas en el artículo 84 letras l) o m), tales medidas deberán ser adoptadas en el plazo de veinte días contado desde el vencimiento de los plazos de instrucción.
 
 #### Artículo 144
 

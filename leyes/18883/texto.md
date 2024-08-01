@@ -152,7 +152,7 @@ c) Tener salud compatible con el desempeño del cargo;
 
 d) Haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo exija la ley;
 
-e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones, y
+e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones. Con todo, conforme a lo establecido en el artículo 120, no será necesario el cumplimiento de dicho plazo cuando así lo determine el respectivo fiscal.
 
 f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por delito que tenga asignada pena de crimen o simple delito. Sin perjuicio de lo anterior, tratándose del acceso a cargos de auxiliares y administrativos, no será impedimento para el ingreso encontrarse condenado por ilícito que tenga asignada pena de simple delito, siempre que no sea de aquellos contemplados en el Título V, Libro II, del Código Penal.
 
@@ -732,6 +732,8 @@ Los funcionarios tendrán derecho, además, a ser defendidos y a exigir que la m
 
 La denuncia será hecha ante el respectivo tribunal por el alcalde de la municipalidad, tanto si el afectado es él, como si lo fuere cualquier funcionario. En este último caso se requerirá siempre una solicitud escrita del afectado.
 
+Con todo, cuando se atente contra la vida o integridad física de los funcionarios y las funcionarias, la autoridad deberá resolver fundadamente acerca de la necesidad de iniciar de oficio el procedimiento de investigación sumaria o sumario para determinar las responsabilidades administrativas en caso de que correspondan.
+
 #### Artículo 88
 
 A.- Los funcionarios que ejerzan las acciones a que se refieren las letras k) y l) del artículo 58 tendrán los siguientes derechos:
@@ -998,7 +1000,7 @@ De la Responsabilidad Administrativa
 
 El empleado que infringiere sus obligaciones o deberes funcionarios podrá ser objeto de anotaciones de demérito en su hoja de vida o de medidas disciplinarias.
 
-Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo.
+Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo, cuyos procedimientos deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
 
 Tratándose del alcalde su responsabilidad administrativa se hara efectiva en conformidad al artículo 60 de la ley N.° 18.695.
 
@@ -1038,6 +1040,8 @@ En caso de que la cooperación prestada por el denunciante en razón de su parti
 
 Lo señalado en el inciso anterior no tendrá aplicación en caso de auto denuncia de hechos en los que no hubiesen tenido participación terceras personas, ni tratándose de los sujetos a que refiere el numeral 2 del inciso quinto.
 
+En el caso que se aplique la medida disciplinaria de destitución como consecuencia de la inobservancia de lo dispuesto en el artículo 82 letra m), el fiscal podrá determinar, considerando lo señalado en el inciso anterior, que el funcionario o funcionaria se encuentre eximido de cumplir el plazo establecido en el artículo 10 letra e), decisión que no será aplicable respecto de la municipalidad que aplica la medida.
+
 #### Artículo 121
 
 La censura consiste en la reprensión por escrito que se hace al funcionario, de la cual se dejará constancia en su hoja de vida, mediante una anotación de demérito de dos puntos en el factor de calificación correspondiente.
@@ -1070,7 +1074,7 @@ a) Ausentarse de la municipalidad por más de tres días consecutivos, sin causa
 
 b) Infringir las disposiciones de las letras i), j) y k) del artículo 82;
 
-c) Infringir lo dispuesto en la letra l) del artículo 82;
+c) Infringir lo dispuesto en las letras l) y m) del artículo 82.
 
 d) Condena por crimen o simple delito, y
 
@@ -1107,6 +1111,10 @@ Si en el transcurso de la investigación se constata que los hechos revisten una
 #### Artículo 126
 
 Si la naturaleza de los hechos denunciados o su gravedad así lo exigiere, el alcalde dispondrá la instrucción de un sumario administrativo.
+
+En caso que la persona denunciada, o la persona denunciante por las prohibiciones establecidas en el artículo 82 letras l) y m) sea el alcalde o la alcaldesa, un concejal o concejala o funcionarios o funcionarias que se desempeñen como jefaturas que jerárquicamente dependan de forma directa del alcalde o alcaldesa, se deberá poner en conocimiento de la Contraloría General de la República dicha situación, en un plazo de tres días hábiles, entidad que sustanciará el sumario respectivo conforme a las reglas del presente Estatuto, en cuanto sean compatibles.
+
+Si se determina la responsabilidad del alcalde o alcaldesa en los hechos, se indicará en la resolución respectiva. Los concejales y concejalas deberán observar lo dispuesto en el artículo 60, letra c) de la ley N° 18.695, orgánica constitucional de Municipalidades.
 
 #### Artículo 127
 
@@ -1166,6 +1174,8 @@ Cada vez que se nombre un nuevo fiscal o actuario se notificará al sumariado pa
 
 El fiscal tendrá amplias facultades para realizar la investigación y los funcionarios estarán obligados a prestar la colaboración que se les solicite.
 
+En el caso de hechos referidos a las prohibiciones establecidas en el artículo 82 letras l) o m), el o la fiscal deberá adoptar las medidas de resguardo necesarias respecto de las personas involucradas, entre las que se encuentran la separación de los espacios físicos, la redistribución de la jornada de trabajo y el proporcionar a la persona denunciante atención psicológica temprana, a través de los programas que disponga el organismo administrador respectivo de la ley Nº16.744. Las medidas adoptadas subsistirán por el tiempo que dure el procedimiento disciplinario y hasta que éste se encuentre afinado.
+
 La investigación de los hechos deberá realizarse en el plazo de veinte días al término de los cuales se declarará cerrada la investigación y se formularán cargos al o los afectados o se solicitará el sobreseimiento, para lo cual habrá un plazo de tres días.
 
 En casos calificados, al existir diligencias pendientes decretadas oportunamente y no cumplidas por fuerza mayor, se podrá prorrogar el plazo de instrucción del sumario hasta completar sesenta días, resolviendo sobre ello el alcalde.
@@ -1181,6 +1191,8 @@ En caso de que el fiscal proponga en su dictamen la medida de destitución, podr
 #### Artículo 135
 
 En el evento de proponer el fiscal el sobreseimiento se enviarán los antecedentes al alcalde, quien estará facultado para aprobar o rechazar tal proposición. En el caso de rechazarla, dispondrá que se complete la investigación dentro del plazo de cinco días.
+
+Cuando el o la fiscal proponga el sobreseimiento y éste sea aprobado por el alcalde o alcaldesa, deberá notificarse esa resolución a la persona denunciante de los hechos referidos en el artículo 82 letras l) o m), dentro del plazo de cinco días, quien podrá reclamar de ella ante la Contraloría General de la República, en el plazo de veinte días contado desde que tomó conocimiento de ello, sin perjuicio de lo establecido en el inciso tercero del artículo 129.
 
 El sumario será secreto hasta la fecha de formulación de cargos, oportunidad en la cual dejará de serlo para el inculpado y para el abogado que asumiere su defensa.
 
@@ -1206,7 +1218,7 @@ No obstante, el alcalde podrá ordenar la realización de nuevas diligencias o l
 
 Ningún funcionario podrá ser sancionado por hechos que no han sido materia de cargos.
 
-La aplicación de toda medida disciplinaria deberá ser notificada al afectado.
+La aplicación de toda medida disciplinaria deberá ser notificada al afectado. Con todo, cuando el alcalde o alcaldesa apruebe la absolución o aplique cualquier medida disciplinaria respecto de los hechos referidos en el artículo 82 letras l) o m), deberá notificar la resolución que afina el procedimiento disciplinario a la persona denunciante, dentro del plazo de cinco días. Ésta podrá reclamar de la referida resolución ante la Contraloría General de la República, en el plazo de veinte días contado desde que tomó conocimiento de aquella, sin perjuicio de lo establecido en el inciso tercero del artículo 129.
 
 #### Artículo 139
 
@@ -1220,7 +1232,7 @@ Acogida la reposición el alcalde dictará el decreto correspondiente en el plaz
 
 #### Artículo 141
 
-Vencidos los plazos de instrucción de un sumario y no estando éste afinado, el alcalde que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal.
+Vencidos los plazos de instrucción de un sumario y no estando éste afinado, el alcalde que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal. En los casos referidos al incumplimiento de las prohibiciones consagradas en el artículo 82 letras l) o m), tales medidas deberán ser adoptadas dentro del plazo de veinte días contado desde el vencimiento de los plazos de instrucción.
 
 #### Artículo 142
 

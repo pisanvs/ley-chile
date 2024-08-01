@@ -30,11 +30,17 @@ Los trabajadores que presten servicios en los oficios de notarías, archiveros o
 
 Art.2.o Reconócese la función social que cumple el trabajo y la libertad de las personas para contratar y dedicar su esfuerzo a la labor lícita que elijan.
 
-Las relaciones laborales deberán siempre fundarse en un trato compatible con la dignidad de la persona. Es contrario a ella, entre otras conductas, el acoso sexual, entendiéndose por tal el que una persona realice en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo. Asimismo, es contrario a la dignidad de la persona el acoso laboral, entendiéndose por tal toda conducta que constituya agresión u hostigamiento reiterados, ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo.
+Las relaciones laborales deberán siempre fundarse en un trato libre de violencia, compatible con la dignidad de la persona y con perspectiva de género, lo que, para efectos de este Código, implica la adopción de medidas tendientes a promover la igualdad y a erradicar la discriminación basada en dicho motivo. Son contrarias a lo anterior, entre otras conductas, las siguientes:
+
+a) El acoso sexual, entendiéndose por tal el que una persona realice, en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
+
+b) El acoso laboral, entendiéndose por tal toda conducta que constituya agresión u hostigamiento ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, ya sea que se manifieste una sola vez o de manera reiterada, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo.
+
+c) La violencia en el trabajo ejercida por terceros ajenos a la relación laboral, entendiéndose por tal aquellas conductas que afecten a las trabajadoras y a los trabajadores, con ocasión de la prestación de servicios, por parte de clientes, proveedores o usuarios, entre otros.
 
 Son contrarios a los principios de las leyes laborales los actos de discriminación.
 
-Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, género, maternidad, lactancia materna, amamantamiento, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional, situación socioeconómica, idioma, creencias, participación en organizaciones gremiales, orientación sexual, identidad de género, filiación, apariencia personal, enfermedad o discapacidad u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
+Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, género, maternidad, lactancia materna, amamantamiento, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional, situación socioeconómica, idioma, creencias, participación en organizaciones gremiales, orientación sexual, identidad de género, filiación, apariencia personal, enfermedad o discapacidad, origen social o cualquier otro motivo, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
 
 Con todo, las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
 
@@ -2630,15 +2636,19 @@ El reglamento interno deberá contener, a lo menos, las siguientes disposiciones
 
 11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior;
 
-12.- El procedimiento al que se someterán y las medidas de resguardo y sanciones que se aplicarán en caso de denuncias por acoso sexual.
+12.- El protocolo de prevención respecto del acoso sexual, laboral y la violencia en el trabajo, y el procedimiento al que se someterán las trabajadoras y los trabajadores, en conformidad a lo dispuesto en el Título IV del Libro II, el que considerará las medidas de resguardo que se adopten respecto de los involucrados y las sanciones que se aplicarán.
 
-En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168, y
+En el caso de las denuncias sobre acoso sexual, laboral o violencia en el trabajo, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168, y
 
 13.- El procedimiento a que se someterán los reclamos que se deduzcan por infracción al artículo 62 bis. En todo caso, el reclamo y la respuesta del empleador deberán constar por escrito y estar debidamente fundados. La respuesta del empleador deberá ser entregada dentro de un plazo no mayor a treinta días de efectuado el reclamo por parte del trabajador.
 
 Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.
 
 #### Artículo 154 bis
+
+El empleador que no se encuentre obligado a confeccionar el Reglamento Interno al que se refiere el presente Capítulo deberá poner en conocimiento de las trabajadoras y de los trabajadores el protocolo de prevención respecto del acoso sexual, laboral y la violencia en el trabajo y el procedimiento de investigación y sanción al que se someterán dichas conductas, al momento de la suscripción del contrato de trabajo, en conformidad a lo dispuesto en el Título IV del Libro II, el que considerará las medidas de resguardo que se adopten respecto de los involucrados y las sanciones que se aplicarán. Lo anterior deberá constar por escrito y se incorporará en el Reglamento a que se refiere el artículo 67 de la ley N° 16.744. Para efectos de la elaboración del procedimiento de investigación y sanción, el empleador podrá contar con la asistencia técnica del organismo administrador de la ley referida al que se encuentre afiliado.
+
+#### Artículo 154 ter
 
 El empleador deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
 
@@ -2707,44 +2717,6 @@ Al menos uno de los trabajadores que se desempeñe en funciones relacionadas con
 Las empresas señaladas en el inciso anterior deberán promover en su interior políticas en materias de inclusión, las que serán informadas anualmente a la Dirección del Trabajo, de conformidad al reglamento a que se refiere el inciso final del artículo 157 bis. También deberán elaborar y ejecutar anualmente programas de capacitación de su personal, con el objeto de otorgarles herramientas para una efectiva inclusión laboral dentro de la empresa.
 
 Las actividades realizadas durante la jornada de trabajo o fuera de ella deberán considerar las normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad a que se refiere la ley N° 20.422, como también los principios generales contenidos en las demás normas vigentes sobre la materia.
-
-#### Artículo 154
-
-El reglamento interno deberá contener, a lo menos, las siguientes disposiciones:
-
-1.- las horas en que empieza y termina el trabajo y las de cada turno, si aquél se efectúa por equipos;
-
-2.- los descansos;
-
-3.- los diversos tipos de remuneraciones;
-
-4.- el lugar, día y hora de pago;
-
-5.- las obligaciones y prohibiciones a que estén sujetos los trabajadores;
-
-6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
-
-7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores, y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado;
-
-8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
-
-9.- las normas e instrucciones de prevención, higiene y seguridad que deban observarse en la empresa o establecimiento;
-
-10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria;
-
-11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior;
-
-12.- El procedimiento al que se someterán y las medidas de resguardo y sanciones que se aplicarán en caso de denuncias por acoso sexual.
-
-En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168, y
-
-13.- El procedimiento a que se someterán los reclamos que se deduzcan por infracción al artículo 62 bis. En todo caso, el reclamo y la respuesta del empleador deberán constar por escrito y estar debidamente fundados. La respuesta del empleador deberá ser entregada dentro de un plazo no mayor a treinta días de efectuado el reclamo por parte del trabajador.
-
-Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.
-
-#### Artículo 154 bis
-
-El empleador deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
 
 ## Título IV
 
@@ -3806,33 +3778,89 @@ Las empresas o entidades a que se refiere la ley N° 16.744, están obligadas a 
 
 El seguro de accidentes del trabajo y enfermedades profesionales se financia, en la forma que prescribe la ley N° 16.744, con una cotización básica general y una cotización adicional diferenciada en función de la actividad y riesgo de la empresa o entidad empleadora, ambas de cargo del empleador; y con el producto de las multas que apliquen los organismos administradores, las utilidades o rentas que produzcan la inversión de los fondos de reserva y con las cantidades que estos organismos obtengan por el ejercicio del derecho a repetir contra el empleador.
 
-## Título IV — DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL
+## Título IV
+
+DE LA PREVENCIÓN, INVESTIGACIÓN Y SANCIÓN DEL ACOSO SEXUAL, LABORAL Y LA VIOLENCIA EN EL TRABAJO
+
+### Párrafo 1°
+
+De la prevención del acoso sexual, laboral y la violencia en el trabajo
 
 #### Artículo 211
 
-A.- En caso de acoso sexual, la persona afectada deberá hacer llegar su reclamo por escrito a la dirección de la empresa, establecimiento o servicio o a la respectiva Inspección del Trabajo.
+A.- Las trabajadoras y los trabajadores tienen derecho a que el empleador adopte e implemente las medidas destinadas a prevenir, investigar y sancionar las conductas de acoso sexual, laboral y la violencia en el lugar de trabajo.
+
+Los empleadores deberán elaborar y poner a disposición de las trabajadoras y de los trabajadores un protocolo de prevención del acoso sexual, laboral y violencia en el trabajo, a través de los organismos administradores de la ley N° 16.744.
+
+El protocolo al que hace referencia el inciso anterior incorporará, a lo menos, lo siguiente:
+
+a) La identificación de los peligros y la evaluación de los riesgos psicosociales asociados con el acoso sexual, laboral y violencia en el trabajo, con perspectiva de género.
+
+b) Las medidas para prevenir y controlar tales riesgos, con objetivos medibles, para controlar la eficacia de dichas medidas y velar por su mejoramiento y corrección continua.
+
+c) Las medidas para informar y capacitar adecuadamente a los trabajadores y a las trabajadoras sobre los riesgos identificados y evaluados, así como de las medidas de prevención y protección que deban adoptarse, con inclusión de los derechos y responsabilidades de los trabajadores y las trabajadoras y los de la propia empresa.
+
+d) Las medidas para prevenir el acoso sexual, laboral y violencia en el trabajo, conforme a la naturaleza de los servicios prestados y al funcionamiento del establecimiento o empresa.
+
+e) Las medidas de resguardo de la privacidad y la honra de todos los involucrados en los procedimientos de investigación de acoso sexual o laboral, y las medidas frente a denuncias inconsistentes en estas materias. Asimismo, deberá contener mecanismos de prevención, formación, educación y protección destinados a resguardar la debida actuación de las trabajadoras y de los trabajadores, independiente del resultado de la investigación en estos procedimientos.
+
+Con todo, las empleadoras y los empleadores tendrán el deber de informar semestralmente los canales que mantiene la empresa para la recepción de denuncias sobre incumplimientos relativos a la prevención, investigación y sanción del acoso sexual, laboral y la violencia en el trabajo, así como las instancias estatales para denunciar cualquier incumplimiento a la normativa laboral y para acceder a las prestaciones en materia de seguridad social.
+
+La Superintendencia de Seguridad Social, mediante una norma de carácter general, entregará las directrices que deberán contemplarse por parte de las entidades administradoras de la ley N° 16.744 en el ejercicio de la asistencia técnica a los empleadores en todas las materias contempladas en este artículo.
+
+### Párrafo 2°
+
+De la investigación y sanción del acoso sexual, laboral y la violencia en el trabajo
 
 #### Artículo 211
 
-B.- Recibida la denuncia, el empleador deberá adoptar las medidas de resguardo necesarias respecto de los involucrados, tales como la separación de los espacios físicos o la redistribución del tiempo de jornada, considerando la gravedad de los hechos imputados y las posibilidades derivadas de las condiciones de trabajo.
+B.- Los procedimientos de investigación regulados en este párrafo deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
 
-En caso que la denuncia sea realizada ante la Inspección del Trabajo, ésta sugerirá a la brevedad la adopción de aquellas medidas al empleador.
+Un Reglamento dictado por el Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, establecerá las directrices a las que deberán ajustarse las investigaciones.
 
 #### Artículo 211
 
-C.- El empleador dispondrá la realización de una investigación interna de los hechos o, en el plazo de cinco días, remitirá los antecedentes a la Inspección del Trabajo respectiva.
+B bis.- En caso de acoso sexual, laboral o violencia en el trabajo, la persona afectada deberá hacer llegar su denuncia por escrito o de manera verbal a la empresa, establecimiento o servicio, o a la respectiva Inspección del Trabajo. Si la denuncia es realizada verbalmente, la persona que la reciba deberá levantar un acta, la que será firmada por la persona denunciante. Una copia de ella deberá entregarse a la persona denunciante.
 
-En cualquier caso la investigación deberá concluirse en el plazo de treinta días.
+Recibida la denuncia, el empleador deberá adoptar de manera inmediata las medidas de resguardo necesarias respecto de los involucrados. Para ello deberá considerar la gravedad de los hechos imputados, la seguridad de la persona denunciante y las posibilidades derivadas de las condiciones de trabajo. Entre otras, las medidas a adoptar considerarán la separación de los espacios físicos, la redistribución del tiempo de la jornada y proporcionar a la persona denunciante atención psicológica temprana, a través de los programas que dispone el organismo administrador respectivo de la ley N° 16.744.
 
-Si se optare por una investigación interna, ésta deberá constar por escrito, ser llevada en estricta reserva, garantizando que ambas partes sean oídas y puedan fundamentar sus dichos, y las conclusiones deberán enviarse a la Inspección del Trabajo respectiva.
+Si la denuncia es realizada ante la Inspección del Trabajo, ésta solicitará al empleador la adopción de una o más medidas de resguardo de las señaladas en el inciso anterior, en el plazo máximo de dos días hábiles, las que se deberán adoptar de manera inmediata, una vez que se notifiquen de conformidad con el artículo 508.
+
+#### Artículo 211
+
+C.- Si la denuncia es presentada en la empresa, establecimiento o servicio, el empleador dispondrá la realización de una investigación interna de los hechos o, en el plazo de tres días, remitirá los antecedentes a la Inspección del Trabajo respectiva.
+
+En cualquier caso, la investigación deberá concluirse en el plazo de treinta días.
+
+Si se opta por una investigación interna, ésta deberá constar por escrito, ser llevada en estricta reserva y garantizar que ambas partes sean oídas y puedan fundamentar sus dichos. Una vez finalizada será remitida junto a las conclusiones a la Inspección del Trabajo respectiva, la cual tendrá un plazo de treinta días para pronunciarse sobre ésta. En caso de cumplirse el plazo referido y de no existir tal pronunciamiento, se considerarán válidas las conclusiones del informe, especialmente para efectos de adoptar medidas respecto de las personas afectadas.
+
+En el caso de las conductas establecidas en la letra c) del inciso segundo del artículo 2, las conclusiones contendrán las medidas correctivas que adoptará el empleador en relación con la causa que generó la denuncia.
+
+Las investigaciones a las que hace referencia el presente artículo deberán ajustarse siempre a las directrices establecidas en el Reglamento al que alude el artículo 211-B. Cuando éstas se realicen por el empleador deberá designar preferentemente a un trabajador o trabajadora que cuente con formación en materias de acoso, género o derechos fundamentales.
 
 #### Artículo 211
 
 D.- Las conclusiones de la investigación realizada por la Inspección del Trabajo o las observaciones de ésta a aquélla practicada en forma interna, serán puestas en conocimiento del empleador, el denunciante y el denunciado.
 
+Con todo, si la Inspección del Trabajo competente en el ejercicio de sus facultades toma conocimiento de una vulneración de derechos fundamentales deberá dar cumplimiento a lo dispuesto en el artículo 486, con excepción de lo consagrado en el inciso sexto respecto a las conductas establecidas en la letra a) del artículo 2.
+
 #### Artículo 211
 
-E.- En conformidad al mérito del informe, el empleador deberá, dentro de los siguientes quince días, contados desde la recepción del mismo, disponer y aplicar las medidas o sanciones que correspondan.
+E.- En conformidad al mérito del informe de investigación en los casos de acoso sexual y laboral, el empleador deberá disponer y aplicar las medidas o sanciones que correspondan, dentro de los siguientes quince días contados desde su recepción.
+
+Las medidas o sanciones adoptadas serán informadas dentro del plazo anteriormente referido, tanto a la persona denunciante como a la denunciada.
+
+El empleador deberá, en los casos que corresponda, aplicar las sanciones conforme a lo establecido en las letras
+
+- **b)** o
+
+- **f)** del N° 1 del artículo 160. Con todo, en el caso de lo dispuesto en la letra
+
+- **f)** del N° 1 deberá evaluar la gravedad de los hechos investigados, lo que consignará en las conclusiones del informe.
+
+El trabajador despedido o la trabajadora despedida podrá impugnar dicha decisión ante el tribunal competente. Para ello deberá rendir en juicio las pruebas necesarias para desvirtuar los hechos o antecedentes contenidos en el informe del empleador o de la Inspección del Trabajo que motivaron el despido.
+
+Adicionalmente, el empleador estará obligado a entregar información a la persona denunciante respecto de los canales de denuncias de hechos que puedan constituir eventuales delitos en el contexto del acoso sexual, laboral o la violencia en el trabajo.
 
 ## Título V
 

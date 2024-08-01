@@ -1084,7 +1084,13 @@ La causal establecida en la letra a) será declarada por el tribunal electoral r
 
 La causal establecida en la letra b) será declarada por el mismo tribunal, a requerimiento de a lo menos dos concejales de la correspondiente municipalidad. El alcalde que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer al concejo tan pronto tenga conocimiento de su existencia.
 
-La causal establecida en la letra c) será declarada por el tribunal electoral regional respectivo, a requerimiento de, a lo menos, un tercio de los concejales en ejercicio, observándose el procedimiento establecido en los artículos 17 y siguientes de la ley Nº 18.593, de los Tribunales Electorales Regionales, para lo cual no se requerirá patrocinio de abogado.
+La causal establecida en la letra
+
+- **c)** será declarada por el tribunal electoral regional respectivo, a requerimiento de, a lo menos, un tercio de los concejales en ejercicio, o por un concejal o concejala cuando el alcalde o la alcaldesa haya sido el denunciado o denunciada y se haya verificado en procedimiento de sumario administrativo instruido por la Contraloría General de la República, la concurrencia de las prohibiciones establecidas en el artículo 82 letras
+
+- **l)** y
+
+- **m)** de la Ley N°18.883, en relación al artículo 126 del mismo cuerpo legal, caso en el cual se entenderá contravención de carácter grave a las normas sobre probidad administrativa, observándose el procedimiento establecido en los artículos 17 y siguientes de la ley Nº 18.593, de los Tribunales Electorales Regionales, para lo cual no se requerirá patrocinio de abogado.
 
 En el requerimiento, los concejales podrán pedir al tribunal electoral regional respectivo la cesación en el cargo o, en subsidio, la aplicación de alguna de las medidas disciplinarias dispuestas en las letras a), b) y c) del artículo 120 de la ley Nº 18.883, que aprueba el Estatuto Administrativo para Funcionarios Municipales.
 
@@ -1412,13 +1418,15 @@ c) Inasistencia injustificada a más del veinticinco por ciento de las sesiones 
 
 d) Inhabilidad sobreviniente, por alguna de las causales previstas en las letras a) y b) del artículo anterior;
 
-e) Pérdida de alguno de los requisitos exigidos para ser elegido concejal. Sin embargo, la suspensión del derecho de sufragio sólo dará lugar a la incapacitación temporal para el desempeño del cargo, y
+e) Pérdida de alguno de los requisitos exigidos para ser elegido concejal. Sin embargo, la suspensión del derecho de sufragio sólo dará lugar a la incapacitación temporal para el desempeño del cargo.
 
 f) Incurrir en una contravención grave al principio de la probidad administrativa, en notable abandono de deberes o en alguna de las incompatibilidades previstas en el inciso primero del artículo anterior.
 
+g) Determinación de su responsabilidad en procedimiento de sumario administrativo instruido por la Contraloría General de la República, respecto de la concurrencia de las prohibiciones establecidas en el artículo 82 letras l) y m) de la Ley N° 18.883. En estos casos se entenderá que existe contravención de carácter grave a las normas sobre probidad administrativa.
+
 #### Artículo 77
 
-Las causales establecidas en las letras a), c), d), e) y f) del artículo anterior serán declaradas por el tribunal electoral regional respectivo, a requerimiento, según corresponda, del alcalde o de cualquier concejal de la respectiva municipalidad, conforme al procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593. El concejal que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer apenas tenga conocimiento de su existencia. La cesación en el cargo, tratándose de estas causales, operará una vez ejecutoriada la sentencia que declare su existencia.
+Las causales establecidas en los literales a), c), d), e), f) y g) del artículo anterior serán declaradas por el tribunal electoral regional respectivo. El requerimiento lo podrán realizar, según corresponda, el alcalde o la alcaldesa o cualquier concejal o concejala de la respectiva municipalidad, conforme al procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593. El concejal que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer apenas tenga conocimiento de su existencia. La cesación en el cargo, tratándose de estas causales, operará una vez ejecutoriada la sentencia que declare su existencia.
 
 Al concejal que fuere removido de su cargo, por la causal prevista en la letra f) del artículo precedente, le será aplicable la inhabilidad establecida en el artículo 60.
 
@@ -1584,7 +1592,7 @@ Con todo, cuando un concejal se encuentre en el desempeño de cometidos en repre
 
 #### Artículo 89
 
-A los concejales no les serán aplicables las normas que rigen a los funcionarios municipales, salvo en materia de responsabilidad civil y penal.
+A los concejales no les serán aplicables las normas que rigen a los funcionarios municipales, salvo en materia de responsabilidad civil y penal, y lo dispuesto en artículo 82 letras l) y m) de la Ley N° 18.883.
 
 Ningún concejal de la municipalidad podrá tomar parte en la discusión y votación de asuntos en que él o sus parientes, hasta el cuarto grado de consanguinidad o segundo de afinidad, estén interesados, salvo que se trate de nombramientos o designaciones que deban recaer en los propios concejales.
 
