@@ -78,7 +78,7 @@ De la División Física de las Concesiones
 
 Sólo la concesión minera ya constituida es susceptible de la división física a que se refieren los incisos primero a quinto del artículo 29 del Código; y siempre que, con arreglo a dicho inciso primero, todas y cada una de las partes resultantes de la división cumplan con los requisitos indicados en el artículo 28 del Código y, por lo tanto, subsistan como concesiones.
 
-Si dentro de los primeros dos años de la vigencia de una concesión de exploración constituida conforme al Código, su titular desea prorrogar su duración por otro período de hasta dos años y quisiere dividirla físicamente, deberá, previamente, cumplir con las obligaciones establecidas en los incisos segundo a quinto del artículo 112 del Código.
+Si durante la vigencia de una concesión de exploración constituida conforme al Código, su titular desea prorrogar su duración por otro período de hasta cuatro años, deberá cumplir con las obligaciones establecidas en los incisos segundo a cuarto del artículo 112 del Código.
 
 La pertenencia que se haya constituido o llegue a constituirse conforme a normas legales anteriores al Código, será susceptible de división física sólo una vez inscrita en el Registro Nacional de Concesiones Mineras con arreglo al inciso noveno del artículo 6° transitorio del Código; y siempre que todas y cada una de las partes resultantes de la división cumplan con los requisitos señalados en el artículo 28 del mismo cuerpo legal y, por lo tanto, subsistan como pertenencias. En el caso a que se refiere el presente inciso, la anotación ordenada en el inciso cuarto del artículo 29 del Código se practicará al margen de la respectiva inscripción del acto de mensura.
 
@@ -142,7 +142,7 @@ En el caso del número 5° del artículo 44 del Código, el manifestante deberá
 
 #### Artículo 19
 
-Si, en el caso del inciso segundo del artículo 45 del Código, el manifestante señalare, además, las coordenadas del punto de interés, se estará sólo a éstas para todos los efectos de la ubicación de dicho punto.
+Derogado.
 
 #### Artículo 20
 
@@ -182,13 +182,11 @@ El plano indicará, además:
 
 6º) La fecha en que se presentó el pedimento y los datos de su inscripción;
 
-7º) La correspondiente carta del Instituto Geográfico Militar escala 1:50.000 en donde se ubica el punto medio del pedimento;
+7º) La escala gráfica del plano;
 
-8º) La escala gráfica del plano;
+8º) El juzgado y rol del expediente, y
 
-9º) El juzgado y rol del expediente, y
-
-10º) El nombre y la firma del ingeniero o perito de aquellos a los que se refiere el inciso segundo del artículo 71 del Código.
+9º) El nombre y la firma del ingeniero o perito de aquellos a los que se refiere el inciso segundo del artículo 71 del Código.
 
 El plano, con los requisitos y menciones establecidos en el presente artículo, se entregará al Juzgado en original y dos copias.
 
@@ -198,7 +196,7 @@ De la Solicitud de Mensura
 
 #### Artículo 23
 
-Conforme a lo dispuesto en el inciso primero del artículo 59 del Código, el plazo de veinte días dentro del cual debe solicitarse mensura corre desde el día doscientos uno al día doscientos veinte, ambos inclusive y contados desde la fecha en que la manifestación haya sido presentada al juzgado.
+Conforme a lo dispuesto en el inciso primero del artículo 59 del Código, el plazo de treinta días dentro del cual debe solicitarse mensura se considerará desde el día noventa y uno al día ciento veinte, ambos inclusive y contados desde la fecha en que la manifestación haya sido presentada al juzgado.
 
 Para los efectos de la publicación de la solicitud de mensura, será aplicable lo dispuesto en el artículo 93 de este Reglamento.
 
@@ -208,7 +206,7 @@ En la solicitud de mensura se podrá abarcar todo o parte del terreno manifestad
 
 Además de las indicaciones que prescribe el inciso segundo del artículo 59 del Código, la solicitud señalará el número de pertenencias que se desea mensurar y la superficie total abarcada por la solicitud, expresada en hectáreas y calculada en la proyección U.T.M. Al indicar el largo y ancho de cada una de las pertenencias, la solicitud los referirá a la proyección U.T.M.
 
-Cuando la manifestación haya descrito la ubicación del punto de interés en la forma señalada en el inciso segundo del artículo 45 del Código y no sea aplicable lo dispuesto en el artículo 19 de este Reglamento, la solicitud de mensura deberá indicar las coordenadas U.T.M. que correspondan a esa ubicación, y con precisión de centímetros. En este mismo caso, y también cuando la manifestación haya ubicado el punto de interés en coordenadas geográficas, a las coordenadas U.T.M. que exige el inciso segundo del artículo 59 del Código se aplicará lo dispuesto en el inciso segundo del artículo 16 de este Reglamento.
+Cuando la manifestación haya ubicado el punto de interés en coordenadas geográficas, a las coordenadas U.T.M. que exige el inciso segundo del artículo 59 del Código se aplicará lo dispuesto en el inciso segundo del artículo 16 de este Reglamento.
 
 La distancia a que se refiere el inciso segundo del artículo 59 del Código se calculará en la proyección U.T.M., entre cualquiera de los vértices del perímetro de la cara superior de la pertenencia o grupo de pertenencias y el punto de interés, considerando para el cálculo las coordenadas que se hayan asignado a éste en la manifestación o, en su caso, en la misma solicitud de mensura, según lo previsto en el inciso anterior; y la distancia se indicará con precisión de centímetros. La relación que exige el mismo inciso segundo se hará expresando el rumbo o el azimut al segundo centesimal y refiriéndolo a orientación U.T.M.
 
@@ -480,11 +478,15 @@ De la Prórroga de la Concesión de Exploración
 
 #### Artículo 45
 
-La prórroga de la concesión de exploración, a que se refiere el inciso segundo del artículo 112 del Código, procederá sólo si, excluyendo el abandono de a lo menos la mitad de la superficie total concedida, la superficie restante cumple con aquellos requisitos del artículo 28 del mismo Código que son aplicables a la concesión de exploración.
+La prórroga de la concesión de exploración, a que se refiere el inciso segundo del artículo 112 del Código, procederá si el titular, dentro de los primeros seis meses del último año de vigencia de su concesión, presenta al Servicio un reporte con toda la información geológica obtenida en los trabajos de exploración que hayan sido realizados durante la vigencia de su concesión y que acrediten, por tanto, su realización. Para estos efectos, el titular deberá cumplir con lo dispuesto en el decreto supremo N°9, de 2024, del Ministerio de Minería, o la norma que lo reemplace.
 
-La solicitud de prórroga se presentará en el expediente de constitución de la respectiva concesión de exploración, antes de expirar el período de dos años.
+Alternativamente, el titular podrá presentar al Servicio la documentación que acredite la obtención de una Resolución de Calificación Ambiental respecto a su proyecto minero en el periodo de duración de la concesión, que se encuentre vigente al momento del requerimiento, o bien la resolución emitida por el Servicio de Evaluación Ambiental en que se dé cuenta que su proyecto ha sido admitido a trámite en el Sistema de Evaluación de Impacto Ambiental.
 
-La anotación que prescribe el inciso tercero del mencionado artículo 112 se practicará al margen de la inscripción de la sentencia constitutiva de la concesión.
+Cumplido lo señalado en los incisos precedentes, el Servicio deberá emitir un certificado que dé cuenta de aquello, el cual deberá ser remitido al juzgado de letras competente, una vez que haya sido oficiado por éste para dichos efectos.
+
+La resolución que conceda la prórroga deberá publicarse extractada, por una sola vez, dentro de treinta días contados desde la fecha de su dictación. El extracto contendrá las coordenadas U.T.M. de los vértices de la concesión. Dentro del mismo plazo la resolución deberá anotarse al margen de la inscripción respectiva.
+
+La solicitud de prórroga se presentará en el expediente de constitución de la respectiva concesión de exploración, antes de expirar el período de cuatro años.
 
 ## Título VII
 
@@ -542,43 +544,131 @@ De las Patentes Rebajadas
 
 #### Artículo 53
 
-Los titulares de pertenencias cuyo interés económico principal resida en las sustancias no metálicas o en los placeres metalíferos que existan en ellas y los titulares de pertenencias sobre sustancias existentes en solares, que hayan acreditado los hechos que los hagan acreedores al beneficio contemplado en el artículo 142 del Código, en la forma establecida en el presente reglamento, pagarán una patente anual equivalente a un trigésimo de unidad tributaria mensual por cada hectárea completa que comprenda la pertenencia.
+Los titulares de pertenencias podrán optar a la patente de un décimo de unidad tributaria mensual por hectárea establecida en el artículo 142 bis del Código, siempre y cuando logren acreditar que se encuentran en alguna de las siguientes hipótesis:
+
+a) Trabajo efectivo de la concesión: Aquellas concesiones en las que se realicen actividades, trabajos u obras que de modo permanente y continuo permitan el desarrollo de operaciones mineras, entendiéndose por tales a las que se refiere la letra l) del artículo 3 de la ley N° 20.551, que Regula el Cierre de Faenas e Instalaciones Mineras, incluidas aquellas que derivan del cumplimiento de un plan de cierre de faenas mineras.
+
+b) Proyecto minero que cuente con Resolución de Calificación Ambiental favorable o en trámite: Aquellas concesiones que, sin estar en la hipótesis precedente, se encuentren contenidas en un proyecto de desarrollo minero con Resolución de Calificación Ambiental favorable o que haya sido admitido a tramitación en el Sistema de Evaluación de Impacto Ambiental.
+
+c) Proyectos asociados al Título XV del Reglamento de Seguridad Minera: Aquellas concesiones que, sin estar en alguna de las hipótesis precedentemente expuestas, se encuentren tramitando alguno de los permisos establecidos en el Título XV del Reglamento de Seguridad Minera.
+
+Para efectos de acreditar que las pertenencias se encuentran en alguna de las hipótesis señaladas anteriormente, el solicitante deberá acompañar los antecedentes que a continuación se indican, según corresponda:
+
+i. Documentos mínimos para cada solicitud:
+
+- Formulario dispuesto en el sitio web institucional del Servicio, el que será aprobado mediante resolución del Servicio.
+
+- Certificado de dominio vigente de la(s) concesión(es) de una antigüedad no mayor a tres meses.
+
+- Comprobante de pago de patente minera correspondiente al año de la postulación, emitido por Tesorería General de la República.
+
+- Declaración Jurada simple sobre la veracidad de la información que se entrega. El Servicio dispondrá en su sitio web de un formato de ésta.
+
+- Personería o representación jurídica, si correspondiere.
+
+- Copia del contrato de arrendamiento, si corresponde, el cual deberá ser otorgado ante ministro de fe e identificar claramente las pertenencias que abarca.
+
+- Croquis o plano legible en el cual se indiquen su escala gráfica; las concesiones cubiertas por la solicitud, individualizadas con su rol; la ubicación de las instalaciones y lugares de trabajo que forman parte del proyecto; y un cuadro resumen con las coordenadas de las instalaciones indicadas anteriormente.
+
+ii. Para acreditar la hipótesis del literal a) de este artículo, el solicitante deberá presentar una(s) resolución(es) vigente(s) dictada(s) por el Servicio que apruebe(n) el proyecto minero, la declaración minera, el método de explotación y/o tratamiento de minerales, la disposición de residuos masivos mineros y/o el plan de cierre.
+
+iii. Para acreditar la hipótesis de la literal b) de este artículo, el solicitante deberá presentar la Resolución de Calificación Ambiental vigente del proyecto minero o, en su defecto, la Resolución de Admisibilidad dictada por el Servicio de Evaluación Ambiental, que acredite que la evaluación ambiental del proyecto está en tramitación.
+
+iv. Para acreditar la hipótesis del literal c) de este artículo, el titular deberá señalar el número de referencia del expediente de evaluación del proyecto presentado al Servicio.
 
 #### Artículo 54
 
-Con anterioridad al 31 de Enero del año en que se impetre el citado beneficio, los titulares de las pertenencias mencionadas en el inciso primero del artículo precedente deberán acreditar ante el Servicio los hechos, referidos en el mismo inciso, que los hacen acreedores a ese beneficio, mediante documentos fidedignos tales como liquidaciones o facturas de ventas de las sustancias minerales extraídas, informes de producción, documentos de embarque, informes geológicos o técnicos y cualquier otro medio de prueba útil al efecto.
+Para efectos de determinar las pertenencias a las que se les aplicará la patente señalada en el artículo precedente, deberá considerarse a aquellas incluidas en una unidad productiva minera y sus posibles expansiones.
 
-No obstante lo anterior, el Servicio podrá dar por acreditada, mediante visita al terreno, la efectividad del hecho en que se funda en cada caso el beneficio que se impetra.
+Se entenderá como unidad productiva minera al conjunto de instalaciones y lugares de trabajo que se organizan para asegurar el funcionamiento de operaciones mineras, entendiendo por tales a las instalaciones y lugares de trabajo señalados en la letra i) del artículo 3 de la ley N°20.551, sobre Cierre de Faenas e Instalaciones Mineras. Serán parte de dicho conjunto, las pertenencias en cuya superficie se encuentre o proyecte una o más instalaciones o lugares de trabajo de la faena minera.
+
+Los permisos, proyectos en tramitación o estudios mencionados en el artículo anterior servirán para acreditar que una instalación o lugar de trabajo se encuentra o proyecta en una pertenencia.
+
+Por su parte, las posibles expansiones de una unidad productiva comprenderán las áreas que abarquen los proyectos o planes de crecimiento, desarrollo o expansión de la operación minera, los que deberán estar vinculados directamente a la unidad productiva minera. Dichas características o condiciones deberán acreditarse a través de antecedentes que permitan fundadamente al Servicio determinar la aplicabilidad del beneficio solicitado.
+
+Para efectos de acreditar la existencia de posibles expansiones, será necesario acompañar alguno de los siguientes antecedentes:
+
+- Informe técnico de Persona Competente en Recursos y Reservas Mineras, la que deberá estar registrada en la Comisión Calificadora establecida en la ley N°20.235.
+
+- Estudios o informes de pre-inversión, prefactibilidad o factibilidad.
+
+- Documentos que acrediten la constitución de servidumbres a su favor.
+
+- Declaraciones o estudios de impacto ambiental que se encuentren en tramitación o hayan obtenido una Resolución de Calificación Ambiental favorable.
+
+- Proyectos de métodos de explotación, tratamiento de minerales o disposición de residuos masivos mineros que se encuentren en tramitación ante el Servicio.
+
+Adicionalmente, el solicitante deberá acompañar un reporte técnico que acredite que la posible expansión se encuentra vinculada directamente a la unidad productiva minera.
 
 #### Artículo 55
 
-El Servicio comunicará a la Tesorería General de la República, antes del 1° de Marzo de cada año, la nómina de las pertenencias mineras que gozan de este beneficio, con especificación de su nombre y ubicación y del dueño que figura en el rol correspondiente. Si el interesado lo pide, el Servicio le extenderá, además, un certicado que acredite el beneficio y en el que consten las menciones referidas.
+En caso de que existan instalaciones o lugares de trabajo en una o más pertenencias ubicadas total o parcialmente en un salar, se entenderá que toda otra pertenencia del mismo titular ubicada total o parcialmente en el mismo salar constituye una posible expansión de su unidad productiva minera, por lo que se le aplicará la misma patente que a las pertenencias donde se ubica ésta.
+
+Para estos efectos, se entiende por salar, el depósito salino superficial constituido por una costra salina de espesor variable, con soluciones salinas o salmueras ocluidas, que descansa sobre rocas y/o material detrítico, como arcilla, limo, arena u otros similares, en una cuenca cerrada o con escaso drenaje, que constituye su basamento.
 
 #### Artículo 56
 
-Sin perjuicio de lo dispuesto en el artículo siguiente, las pertenencias ya constituidas de conformidad con la legislación anterior a la vigente sobre sustancias no metálicas o sobre sustancias existentes en salares, y las que se constituyan de acuerdo a dicha legislación sobre las mencionadas sustancias, pagarán la patente a que se refiere el inciso primero del artículo 53 de este Reglamento, sin necesidad de cumplir la exigencia contenida en el artículo 54 del mismo Reglamento.
+A partir del 1 de abril y hasta el 31 de julio del año anterior al que corresponda pagar la patente, los titulares de las pertenencias mencionadas en los artículos precedentes, deberán solicitar al Servicio que se les aplique la patente de un décimo de unidad tributaria mensual por hectárea, para lo cual deberán presentar todos los antecedentes que acrediten el cumplimiento de los requisitos para acceder a ello.
 
-El Servicio enviará a la Tesorería General de la República la nómina o nóminas de las pertenencias mineras a que alude el inciso anterior.
+A más tardar el primer día hábil de diciembre del año anterior al que corresponde pagar la patente, el Servicio publicará la resolución que contenga la nómina de las pertenencias mineras que gozarán de este beneficio, con especificación de su nombre, ubicación, rol y dueño, así como las pertenencias cuya solicitud de patente rebajada fue rechazada, con expresa indicación del fundamento de ello.
+
+El Servicio, antes del 1° de marzo de cada año, deberá comunicar a la Tesorería General de la República, la nómina de las pertenencias mineras que gozarán de este beneficio.
+
+A través de la plataforma que el Servicio dispondrá para estos efectos, el interesado podrá obtener los certificados que acrediten el beneficio precedentemente aludido.
 
 #### Artículo 57
 
-Los titulares de las pertenencias mineras que gocen del beneficio de la patente rebajada, están obligados a comunicar por escrito al Servicio el cambio en el interés económico principal que se produzca durante la explotación de las pertenencias y que los haga perder el referido beneficio.
+Dentro del plazo de treinta días contados desde la publicación de la nómina señalada en el inciso segundo del artículo precedente, el solicitante a quien se le haya denegado el beneficio podrá reclamar fundadamente ante el Servicio.
+
+Las reclamaciones serán resueltas por el Servicio previo a la remisión de la nómina a Tesorería General de la República, señalada en el artículo anterior.
+
+Las reclamaciones deberán ser presentadas a través de la plataforma que el Servicio disponga para ello, la cual dará cuenta de su recepción y posterior resolución.
 
 #### Artículo 58
 
-Las pertenencias que no figuren en alguna de las nóminas a que se refieren los artículos 55 y 56 de este Reglamento deberán pagar, por concepto de patente, un décimo de unidad tributaria mensual por cada hectárea completa que comprendan.
+Para acceder al beneficio contemplado en el artículo 142 ter del Código, el solicitante deberá acompañar los antecedentes que a continuación se indican:
+
+- Formulario dispuesto en el sitio web institucional del Servicio, el que será aprobado mediante resolución del Servicio.
+
+- Certificado dominio vigente de la(s) concesión(es) minera(s) de una antigüedad no mayor a tres meses.
+
+- Comprobante de pago de patente minera, correspondiente al año de la solicitud, emitido por Tesorería General de la República.
+
+- Declaración Jurada simple sobre la veracidad de la información que se entrega y que indique que se cumplen los requisitos establecidos en el artículo 142 ter del Código.
+
+- Personería o representación Jurídica, si correspondiere.
+
+- Copia del contrato de arrendamiento, si corresponde, el cual deberá ser otorgado ante ministro de fe e identificar claramente las pertenencias que abarca.
+
+- Resolución(es) vigente(s) dictada(s) por el Servicio que apruebe(n) el proyecto minero, la declaración minera, el método de explotación y/o tratamiento de minerales, la disposición de residuos masivos mineros y/o el plan de cierre.".
+
+El solicitante deberá postular a este beneficio en los plazos y conforme al procedimiento establecido en los artículos 53 y siguientes de este Reglamento. El Servicio deberá informar a la Tesorería General de la República, en el mismo plazo señalado en el artículo 56 y en una nómina distinta, las pertenencias que gozan de este beneficio.
 
 #### Artículo 59
 
-Se entenderá que el interés económico principal de una pertenencia reside en las sustancias no metálicas o en los placeres metalíferos, cuando aquéllas o éstos sean el objeto principal de la explotación del yacimiento o cuando se demuestre que éste los contiene en una proporción y calidad tales que constituirían el objeto principal de la explotación del yacimiento, si ella se realizare.
+Será de exclusiva responsabilidad del titular presentar las solicitudes dentro de plazo y acreditar el cumplimiento de los requisitos correspondientes al beneficio que postula, sea este el establecido en el artículo 142 bis o el artículo 142 ter del Código
 
 #### Artículo 60
 
-Para los efectos a que se refiere el inciso primero del aludido artículo 53, se considerarán sustancias no metálicas las siguientes: azufre, nitratos, sulfatos, boratos, carbones, carbonatos, cloruros, silicatos, sílices, guano e hidrocarburos en estado sólido.
+Respecto de las pertenencias que no figuren en alguna de las nóminas a que se refieren los artículos 56 y 58 de este Reglamento y que no les aplique la patente de un diezmilésimo de unidad tributaria mensual por hectárea establecida en el artículo 142 del Código, el monto de la patente por cada hectárea completa será equivalente a:
 
-Para los mismos efectos, constituyen placeres metalíferos los depósitos naturales de ripio, grava, arena, limo, arcilla, o materiales similares, no consolidados, que contienen concentraciones de partículas o trozos de metal nativo o combinado que provienen de la destrucción mecánica, desintegración o erosión de rocas sólidas o vetas y que han sido transportados hasta el lugar de su acumulación. No se consideran placeres metalíferos los rodados de hierro ni los llamados "papeos" del mismo metal, es decir, los fragmentos de dicha sustancia mineral situados en los alrededores de cuerpos de hierro en la superficie o mezclados en profundidad, consolidados o no provenientes de afloramientos en esos cuerpos, de los cuales se han separado por procesos de meteorización o erosión.
+a) Cuatro décimos de unidad tributaria mensual para los primeros cinco años de vigencia de la concesión.
 
-También para los efectos mencionados en el inciso primero del mencionado artículo 53, se entiende por salar el depósito salino superficial, constituido por una costra salina de espesor variable, con soluciones salinas ocluidas, que descansa generalmente sobre material detrítico, como arcilla, limo, arena u otros similares, en una cuenca cerrada o con escaso drenaje, que constituye su basamento.
+b) Ocho décimos de unidad tributaria mensual desde el año sexto al décimo de vigencia de la concesión.
+
+c) Nueve décimos de unidad tributaria mensual desde el año undécimo al año décimo quinto de vigencia de la concesión.
+
+d) Uno coma dos unidades tributarias mensuales desde el año décimo sexto al año vigésimo de vigencia de la concesión.
+
+e) Tres unidades tributarias mensuales desde el año vigésimo primero al año vigésimo quinto de vigencia de la concesión.
+
+f) Seis unidades tributarias mensuales desde el año vigésimo sexto al año trigésimo de vigencia de la concesión.
+
+g) Doce unidades tributarias mensuales a partir del trigésimo primer año de vigencia de la concesión
+
+Para efectos del cómputo de estos plazos, se entenderá que todas las concesiones de explotación cuya obligación de amparo haya comenzado con anterioridad al primero de enero del año dos mil veinticuatro, cumplen su primer año de vigencia el último día del mes de febrero del año dos mil veinticinco. Con todo, no se contarán los años en los que el monto de la patente fue de un décimo o un diezmilésimo de unidad tributaria mensual por hectárea por aplicación de los artículos 142, 142 bis o 142 ter, según corresponda.
+
+El Servicio deberá comunicar a la Tesorería General de la República, en el mismo plazo establecido en el artículo 56, la nómina de pertenencias sujetas a cada uno de los tramos señalados en el inciso primero de este artículo.
 
 ## Título IX
 
