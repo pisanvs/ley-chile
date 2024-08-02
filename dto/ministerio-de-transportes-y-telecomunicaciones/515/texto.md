@@ -44,29 +44,45 @@ D e c r e t o:
 
 Elementos de la esencia de la concesión
 
-- Tipo de servicio : Radiodifusión Sonora en Frecuencia
+- Tipo de servicio : Radiodifusión
+
+Sonora
+
+en Frecuencia
 
 Modulada
 
-- Zona de servicio : Localidad de Ovalle.
+- Zona de servicio : Localidad de
 
-Superficie delimitada por una intensidad
+Ovalle.
 
-de campo mayor o igual que 54 dB (uV/m),
+Superficie
 
-referida al punto de emisión de la
+delimitada por
+
+una intensidad de
+
+campo mayor o igual
+
+que 54 dB (uV/m),
+
+referida al punto
+
+de emisión de la
 
 señal.
 
-- Período de la concesión : 25 años.
+- Período de la concesión: 25 años.
 
 - Plazo inicio de obras : 60 días.
 
 - Plazo término de obras : 260 días.
 
-- Plazo inicio de transmisiones : 300 días.
+- Plazo inicio de
 
-- Potencia máxima radiada : 250 Watts.
+transmisiones : 300 días.
+
+- Potencia máxima radiada: 250 Watts.
 
 - Frecuencia : 105,3 MHz.
 
@@ -82,39 +98,59 @@ Características técnicas del sistema radiante
 
 - Polarización : Circular.
 
-- Tipo de antena : Conjunto de 4 anillos.
+- Tipo de antena : Conjunto de 4
+
+anillos.
 
 - Nº de elementos : 4.
 
-- Altura máxima centro de
+- Altura máxima centro
 
-radiación : 25,5 metros.
+de radiación : 25,5 metros.
 
 - Altura torre : 30 metros.
 
 Ubicación de la radioemisora
 
-- Dirección de los estudios : Calle Luis Videla Herrera
+- Dirección de los
 
-Nº 2328, Providencia,
+estudios : Calle Luis Videla
 
-Región Metropolitana.
+Herrera
 
-- Coordenadas geográficas : 33º26'26" Latitud Sur.
+Nº 2328,
 
-70º36'09" Longitud Oeste.
+Providencia,
+
+Región
+
+Metropolitana.
+
+- Coordenadas geográficas: 33º26'26" Latitud
+
+Sur.
+
+70º36'09" Longitud
+
+Oeste.
 
 - Dirección de la planta
 
 transmisora y sistema
 
-radiante : Cumbre Cerro La Montura,
+radiante : Cumbre Cerro
+
+La Montura,
 
 Ovalle, IV Región.
 
-- Coordenadas geográficas : 30º37'25" Latitud Sur.
+- Coordenadas geográficas: 30°37'50" Latitud
 
-71º11'26" Longitud Oeste.
+Sur;
+
+71°11'27" Longitud
+
+Oeste, Datum WGS 84
 
 4.- Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones de la ley, reglamentos, normas técnicas y sus modificaciones, en lo que le sean aplicables.
 
