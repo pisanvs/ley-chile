@@ -30,7 +30,7 @@ Temperatura Dosis Registro mínimos de
 
 concentración (g/m3) para:
 
-( g/m3) 2h 4h 12h 24h
+(g/m3) 2h 4h 12h 24h
 
 21° C o mayor 48 36 31 28 24
 
@@ -43,6 +43,8 @@ La temperatura mínima de la cámara de fumigación no deberá ser inferior a 10
 1.3 Tratamiento térmico mediante calentamiento dieléctrico, en adelante DH: La norma mínima para el tratamiento aplicado a embalajes de madera es la siguiente:
 
 Cuando se utiliza calentamiento dieléctrico (por ejemplo, microondas) el embalaje de madera compuesto de piezas que no excedan de 20 cm, medidos a través de la dimensión más pequeña de la pieza o de la pila, debe calentarse hasta alcanzar una temperatura mínima de 60ºC durante 1 minuto continuo en todo el perfil de la madera (incluida su superficie). La temperatura prescrita debe alcanzarse dentro de los 30 minutos a partir del comienzo del tratamiento.
+
+1.4 Tratamiento con fluoruro de sulfurilo, en adelante SF: El embalaje de madera deberá fumigarse según lo establecido en la NIMF 15
 
 2. Todo embalaje de madera que ingrese al país deberá presentar la siguiente Marca para certificar que ha sido sometido a alguno de los tratamientos fitosanitarios aprobados, señalados precedentemente.
 
@@ -58,7 +60,7 @@ La Marca deberá incluir:
 
 - YY: Representa la abreviatura que identifica la medida de tratamiento fitosanitario que se ha utilizado (ej. HT o MB). Podrá complementarse esta simbología con las acronimias KD para maderas con tratamiento de secado al horno y DB para maderas descortezadas.
 
-La Marca deberá ser legible, permanente y no transferible, de color negro, azul o café oscuro.
+La marca deberá ser legible, duradera, no transferible, debiéndose evitar los colores rojo y naranja, puesto que se utilizan para identificar las mercaderías peligrosas.
 
 3. Esta marca deberá venir estampada en a lo menos dos caras externas visibles de cada unidad de embalaje procedente del extranjero y en cada unidad de madera de estiba de carga.
 
