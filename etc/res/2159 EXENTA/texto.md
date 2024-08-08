@@ -12,24 +12,6 @@ Fabricante : Industria Electrónica
 
 Eko-Maiko Limitada.
 
-Dirección : Rengo 538, Ñuñoa, Santiago,
-
-Chile. Teléfono: 2-2205-2115.
-
-Marca y : Eko-Maiko, modelo EM-800.
-
-modelo del
-
-Taxímetro
-
-Código de : 3CV-ATX-EM-EM8-2014-001.
-
-Acreditación
-
-Fabricante : Industria Electrónica
-
-Eko-Maiko Limitada.
-
 Dirección : Rengo 538, Ñuñoa,
 
 Santiago, Chile.
@@ -63,6 +45,18 @@ Metrix F-185.
 Código de : 3CV-ATX-CN-MF1-2024-005.
 
 Acreditación
+
+Fabricante : Industria Electrónica Eko Maiko Ltda.
+
+Dirección : Rengo 538, Ñuñoa, Santiago, Chile.
+
+Teléfono : +562-2205-2115.
+
+Taxímetro : Marca Eko Maiko, modelo EM-900.
+
+Código de
+
+Acreditación: 3CV-ATX-EM-EM9-2024-006.
 
 Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
