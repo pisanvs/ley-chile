@@ -94,7 +94,7 @@ iii. Permitir el ingreso de los Inspectores del Servicio Agrícola y Ganadero a 
 
 7. Toda persona que sospeche o compruebe la presencia de sintomatología asociada a la plaga Aphelenchoides fragariae deberá dar aviso al Servicio, en forma verbal o por escrito, para que éste adopte las acciones que correspondan en virtud de los hechos denunciados.
 
-8. Esta resolución entrará en vigor el día de su publicación en el Diario Oficial y tendrá vigencia de dos años a contar de la misma. Las medidas establecidas en esta resolución estarán sujetas a evaluación de acuerdo con los resultados de las prospecciones realizadas por el Servicio.
+8. Esta resolución entrará en vigor el día de su publicación en el Diario Oficial y tendrá vigencia de 3 años a contar de la misma. Las medidas establecidas en esta resolución estarán sujetas a evaluación de acuerdo con los resultados de las prospecciones realizadas por el Servicio.
 
 9. Los incumplimientos de las medidas que sean dispuestas serán sancionadas de acuerdo con lo indicado en el decreto ley Nº 3.557, de 1980, sobre Protección Agrícola y a la Ley Nº 18.755 Orgánica del Servicio Agrícola y Ganadero.
 
