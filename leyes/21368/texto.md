@@ -36,8 +36,6 @@ g) Consumo dentro del establecimiento de expendio de alimentos: Consumo de comid
 
 h) Consumo fuera del establecimiento de expendio de alimentos: Consumo de comida preparada que no se realiza dentro del establecimiento de expendio de alimentos, conforme al literal f). Lo anterior, independientemente si el consumidor retiró los alimentos del establecimiento o los recibió tras un despacho a domicilio.
 
-Asimismo, será considerado consumo fuera del establecimiento de expendio de alimentos cuando tenga lugar en espacios habilitados para eventos que no son permanentes, tales como fiestas costumbristas o eventos musicales, siempre y cuando se asegure la valorización de los residuos de sus productos desechables.
-
 i) Establecimiento de expendio de alimentos: Local de expendio de alimentos para su consumo en el mismo lugar o fuera de éste, como restaurantes, casinos, clubes sociales, cocinerías, fuentes de soda, cafeterías, salones de té, panaderías, bares u otros locales similares que comercialicen comida preparada.
 
 j) Plástico: Material sintético elaborado a partir de polímeros que tiene la propiedad de ser fácilmente moldeable y de conservar una forma rígida o parcialmente elástica.
@@ -62,7 +60,7 @@ Limitaciones a la entrega de productos de un solo uso
 
 #### Artículo 3°
 
-Prohibición de entrega para consumo dentro del establecimiento. Cuando se trate de consumo dentro del establecimiento, se prohíbe la entrega, a cualquier título, por parte de los establecimientos, de productos de un solo uso, salvo que dichos productos estén compuestos de madera, papel y/o cartón certificados que tengan el carácter de biodegradables.
+Prohibición de entrega para consumo dentro del establecimiento. Cuando se trate de consumo dentro del establecimiento, se prohíbe la entrega, a cualquier título, por parte de los establecimientos, de productos de un solo uso, cualquiera sea el material del que estén compuestos.
 
 > **Nota.** El inciso primero del artículo primero transitorio de la presente ley, establece reglas especiales de entrada en vigencia para esta disposición.
 
@@ -76,9 +74,13 @@ Los establecimientos que entreguen productos de un solo uso deberán informar a 
 
 Sin perjuicio de lo establecido en el inciso primero, las bombillas, los revolvedores, cubiertos (tenedor, cuchara y cuchillo) y palillos, todos de plásticos de un solo uso, se encontrarán prohibidos.
 
+> **Nota.** NOTA 4 El inciso primero y segundo del artículo primero transitorio de la presente ley, establece reglas especiales de entrada en vigencia para esta disposición.
+
 #### Artículo 5°
 
 Expendio de comida preparada en las dependencias de los organismos públicos. Las prohibiciones establecidas en los artículos 3º y 4º también serán aplicables al expendio de comida preparada dentro de las dependencias de los organismos públicos, a menos que por razones sanitarias, higiénicas, de emergencia o seguridad, sea necesaria la entrega de productos de un solo uso.
+
+> **Nota.** NOTA 5 El inciso primero del artículo primero transitorio de la presente ley, establece reglas especiales de entrada en vigencia para esta disposición.
 
 #### Artículo 6°
 
@@ -214,9 +216,9 @@ El porcentaje establecido en el inciso segundo del artículo 8º no podrá ser i
 
 #### Artículo segundo
 
-El Ministerio del Medio Ambiente deberá dictar el reglamento a que se refiere esta ley en el plazo de 40 meses contado desde la publicación de ésta. Este reglamento entrará en vigencia en el plazo de seis meses, contado desde su publicación en el Diario Oficial.
+El Ministerio del Medio Ambiente deberá dictar el reglamento a que se refiere esta ley en el plazo de 40 meses contado desde la publicación de ésta.
 
-Sin perjuicio de lo establecido en el artículo 7º, el porcentaje de plástico recolectado y reciclado en el país que deberán incorporar las botellas plásticas desechables será del 70 por ciento al año 2060. Asimismo, ese porcentaje no podrá ser inferior al 15 por ciento al año 2025; al 25 por ciento al año 2030; al 50 por ciento al año 2040, y al 60 por ciento al año 2050. Tanto esos porcentajes como el porcentaje señalado en la letra k) del artículo 2º deberán ser revisados y actualizados cada cinco años, desde la entrada en vigencia del reglamento de esta ley, considerando criterios ambientales y de costo-efectividad.
+Sin perjuicio de lo establecido en el artículo 7º, el porcentaje de plástico recolectado y reciclado en el país que deberán incorporar las botellas plásticas desechables será del 70 por ciento al año 2060. Asimismo, ese porcentaje no podrá ser inferior al 15 por ciento al año 2025; al 25 por ciento al año 2030; al 50 por ciento al año 2040, y al 60 por ciento al año 2050. Tanto esos porcentajes como el porcentaje señalado en la letra k) del artículo 2º deberán ser revisados y actualizados cada cinco años, desde la entrada en vigencia del reglamento de esta ley, considerando criterios ambientales y de costo-efectividad.".
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
