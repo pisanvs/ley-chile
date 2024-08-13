@@ -110,7 +110,7 @@ Los titulares de las licencias aeronáuticas dejarán de ejercer las atribucione
 
 65.19 Convalidación de licencias
 
-(a) La persona que haya obtenido una licencia o habilitación para ejercer funciones técnicas propias de la aeronáutica de una autoridad aeronáutica extranjera podrá ejercer sus atribuciones en Chile sólo si su licencia y habilitaciones son convalidadas por resolución del Director de la DGAC.
+(a) La persona que haya obtenido una licencia o habilitación para ejercer funciones técnicas propias de la aeronáutica de una autoridad aeronáutica extranjera podrá ejercer sus atribuciones sólo si su licencia y habilitaciones son convalidadas por resolución del Director de la DGAC.
 
 (b) Requisitos para la convalidación:
 
@@ -121,6 +121,8 @@ Los titulares de las licencias aeronáuticas dejarán de ejercer las atribucione
 (3) La licencia, habilitación y las certificaciones médicas aeronáuticas vigentes otorgadas por la Autoridad Aeronáutica pertinente deberán estar impresas en idioma español o inglés; y
 
 (4) Dar cumplimiento a las normas de extranjería vigentes.
+
+c) Para la renovación de la convalidación de una licencia extranjera por vencimiento del plazo de vigencia, el titular deberá exhibir ésta debidamente renovada por el país emisor, sin perjuicio de la posibilidad de la DGAC de ejercer la facultad establecida en el inciso 2° del numeral (4) del literal (b) precedente.
 
 Sin perjuicio de lo establecido en los puntos precedentes, la DGAC podrá exigir al titular de una licencia y habilitaciones convalidadas que demuestre alguno o todos los requisitos que dieron lugar al otorgamiento en el país de origen.
 

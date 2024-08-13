@@ -108,7 +108,7 @@ Los instructores, los Centros de Instrucción - Entrenamiento Aeronáutico Civil
 
 63.21 Convalidación de Licencias
 
-(a) El personal aeronáutico procedente de otros Estados podrá ejercer sus atribuciones en Chile, en aeronaves de matrícula chilena sólo si su licencia y habilitaciones son convalidadas por la resolución del Director de la DGAC o por quien tenga la delegación de esta función.
+(a) El personal aeronáutico procedente de otros Estados podrá ejercer sus atribuciones, en aeronaves de matrícula chilena sólo si su licencia y habilitaciones son convalidadas por la resolución del Director de la DGAC o por quien tenga la delegación de esta función.
 
 (b) Requisitos para la convalidación:
 
@@ -123,6 +123,8 @@ Los instructores, los Centros de Instrucción - Entrenamiento Aeronáutico Civil
 (c) La vigencia de la convalidación no podrá exceder el plazo de vigencia de la licencia extranjera, lo cual debe constar en el documento pertinente.
 
 (d) Dar cumplimiento a las normas de extranjería vigentes.
+
+e) Para la renovación de la convalidación de una licencia extranjera por vencimiento del plazo de vigencia, el titular deberá exhibir ésta debidamente renovada por el país emisor, sin perjuicio de la posibilidad de la DGAC de ejercer facultad establecida en el numeral (4) del literal (b) precedente.
 
 63.23 Licencias provisionales
 
