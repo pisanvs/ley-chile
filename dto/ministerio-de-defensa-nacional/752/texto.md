@@ -130,7 +130,7 @@ Sobre Proceso de Obtención de Matrículas
 
 #### Artículo 301
 
-Podrán postular a la obtención de las diferentes matrículas de buceo, los chilenos que cumplan con los requisitos indicados en el artículo 303 del presente Reglamento.
+Podrá postular a la obtención de las diferentes matrículas de buceo, quien cumpla con los requisitos indicados en el artículo 303 del presente Reglamento.
 
 #### Artículo 302
 
@@ -170,15 +170,13 @@ c) Certificados de Estudios
 
 Los postulantes a las matrículas de Asistente de Buzo y Buzo Mariscador Básico, que no cumplan con la escolaridad mínima exigida, podrán postular a la obtención de tales matrículas, mientras se dé cumplimiento al resto de los requisitos reglamentarios y acrediten haber realizado un curso básico de seguridad de buceo bajo condiciones que establezca la Dirección General.
 
-d) Certificado que acredite haber cumplido con la Ley de Reclutamiento.
+d) Declaración Notarial en que conste que no ha sido eliminado de los registros de matrículas en ninguna sede de la Autoridad Marítima.
 
-e) Declaración Notarial en que conste que no ha sido eliminado de los registros de matrículas en ninguna sede de la Autoridad Marítima.
+e) Certificado Médico, que acredite estar apto para desempeñarse en la actividad de buceo profesional conforme a lo indicado en la Ficha Médica que figura como Anexo "A" del presente Reglamento.
 
-f) Certificado Médico, que acredite estar apto para desempeñarse en la actividad de buceo profesional conforme a lo indicado en la Ficha Médica que figura como Anexo "A" del presente Reglamento.
+f) Para los postulantes a Supervisor de Buceo y Contratista de Buceo, el certificado médico debe acreditar una salud compatible con la actividad marítima.
 
-g) Para los postulantes a Supervisor de Buceo y Contratista de Buceo, el certificado médico debe acreditar una salud compatible con la actividad marítima.
-
-h) Las edades límites para postular a las diferentes categorías de matrícula son las siguientes:
+g) Las edades límites para postular a las diferentes categorías de matrícula son las siguientes:
 
 Asistente de Buzo Min. 16 años
 
@@ -194,7 +192,7 @@ Contratista de Buzo Min. 18 años
 
 Supervisor de Buceo: Min. 21 años
 
-i) Los postulantes a las matrículas de Buzo Instructor deberán tener como mínimo 5 años de experiencia, lo que se acreditará mediante la matrícula de Buzo Comercial o de Buzo Especialista, la que tendrá que haber estado vigente sin interrupción en este lapso.
+h) Los postulantes a las matrículas de Buzo Instructor deberán tener como mínimo 5 años de experiencia, lo que se acreditará mediante la matrícula de Buzo Comercial o de Buzo Especialista, la que tendrá que haber estado vigente sin interrupción en este lapso.
 
 #### Artículo 304
 
