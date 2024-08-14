@@ -18,305 +18,35 @@ Autorízase la circulación en horario inhábil y en días sábados en la tarde,
 
 A. Región de Valparaíso:
 
-1.- Fiscalía Regional de Valparaíso:
+1.- Derogado.
 
-Vehículo Camioneta
+2.- Derogado.
 
-Marca Nissan
+3.- Derogado.
 
-Modelo NP300 DCab 2.3
+4.- Derogado.
 
-Año 2018
+5.- Derogado.
 
-Motor YS23A26C021043
+6.- Derogado.
 
-Chasis 3N6BD33A5JK835179
+7.- Derogado.
 
-Color Blanco
+8.- Derogado.
 
-I.N.R.V.M. JYLH.52-2
+9.- Derogado.
 
-Patente JYLH.52.
+10.- Derogado.
 
-2.- Fiscalía Regional de Valparaíso
+11.- Derogado.
 
-Vehículo Camioneta
+12.- Derogado.
 
-Marca Mitsubishi
+13.- Derogado.
 
-Modelo L200 Katana CR 2.4
+14.- Derogado.
 
-Año 2017
-
-Motor 4N15 UBJ4960
-
-Chasis MMBJJKK10HH013534
-
-Color Rojo
-
-I.N.R.V.M. JSCF.87-1
-
-Patente JSCF.87.
-
-3.- Fiscalía Local de Valparaíso
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 2.3
-
-Año 2017
-
-Motor YS23019897C
-
-Chasis 3N6BD33A9JK818191
-
-Color Blanco
-
-I.N.R.V.M. JTWR.64-6
-
-Patente JTWR.64.
-
-4.- Fiscalía Local de Viña del Mar
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 2.3
-
-Año 2017
-
-Motor YS23018913C
-
-Chasis 3N6BD33A2JK818095
-
-Color Blanco
-
-I.N.R.V.M. JTWR.65-4
-
-Patente JTWR.65.
-
-5.- Fiscalía Local de San Antonio
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 2.3
-
-Año 2017
-
-Motor YS23018827C
-
-Chasis 3N6BD33A2JK816315
-
-Color Blanco
-
-I.N.R.V.M. JTWR.66-2
-
-Patente JTWR.66.
-
-6.- Fiscalía Local de Quilpué
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 2.3
-
-Año 2017
-
-Motor YS23019915C
-
-Chasis 3N6BD33A2JK819070
-
-Color Blanco
-
-I.N.R.V.M. JXDW.57-6
-
-Patente JXDW.57.
-
-7.- Fiscalía Local de Villa Alemana
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 2.3
-
-Año 2017
-
-Motor YS23-019203C
-
-Chasis 3N6BD33A0JK818774
-
-Color Blanco
-
-I.N.R.V.M. JXDV.50-2
-
-Patente JXDV.50.
-
-8.- Fiscalía Local de Quillota
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 2.3
-
-Año 2017
-
-Motor YS23-018178C
-
-Chasis 3N6BD33A5JK808533
-
-Color Blanco
-
-I.N.R.V.M. JXSS.20-8
-
-Patente JXSS.20.
-
-9.- Fiscalía Local de La Calera
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 2.3
-
-Año 2017
-
-Motor YS23018240C
-
-Chasis 3N6BD33A0JK808472
-
-Color Blanco
-
-I.N.R.V.M. JTWR.67-0
-
-Patente JTWR.67.
-
-10.- Fiscalía Local de Limache
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 2.3
-
-Año 2017
-
-Motor YS23019245C
-
-Chasis 3N6BD33A2JK816184
-
-Color Blanco
-
-I.N.R.V.M. JXDW.55-K
-
-Patente JXDW-55.
-
-11.- Fiscalía Local de San Felipe
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 4WD 2.3
-
-Año 2018
-
-Motor YS23018703C
-
-Chasis 3N6BD33B8JK809572
-
-Color Blanco
-
-I.N.R.V.M. JXRS.54-7
-
-Patente JXRS.54.
-
-12.- Fiscalía Local de Los Andes
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 4WD 2.3
-
-Año 2018
-
-Motor YS23018771C
-
-Chasis 3N6BD33B3JK810158
-
-Color Blanco
-
-I.N.R.V.M. JXRS.82-2
-
-Patente JXRS.82.
-
-13.- Fiscalía Local de Quintero
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 2.3
-
-Año 2018
-
-Motor YS23 A26C019666
-
-Chasis 3N6BD33A6JK835921
-
-Color Blanco
-
-I.N.R.V.M. JYLD.96-5
-
-Patente JYLD.96.
-
-14.- Fiscalía Local de Casablanca
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 2.3
-
-Año 2018
-
-Motor YS23A26C021453
-
-Chasis 3N6BD33A8JK845690
-
-Color Blanco
-
-I.N.R.V.M. JYLH.54-9
-
-Patente JYLH.54.
-
-15.- Fiscalía Local de La Ligua
-
-Vehículo Camioneta
-
-Marca Nissan
-
-Modelo NP300 DCab 4WD 2.3
-
-Año 2018
-
-Motor YS23018884C
-
-Chasis 3N6BD33B4JK810153
-
-Color Blanco
-
-I.N.R.V.M. JXRS.83-0
-
-Patente JXRS.83.
+15.- Derogado.
 
 B. Región del Libertador Bernardo O'Higgins:
 
