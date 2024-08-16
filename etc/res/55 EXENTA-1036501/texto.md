@@ -922,19 +922,13 @@ Mod. atención : Intermitente
 
 XI REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
 
-Inspección Provincial del Trabajo de Coyhaique
+Inspección Provincial del Trabajo de Coyhaique.
 
-Ciudad : Coyhaique
+Ciudad : Coyhaique.
 
-Jurisdicción : Coyhaique, Chile Chico,
+Jurisdicción : Coyhaique, Río Ibáñez.
 
-Río Ibáñez,
-
-Cochrane, Villa O'Higgins,
-
-Tortel
-
-Mod. atención : Permanente
+Mod. atención : Permanente.
 
 Inspección Provincial del Trabajo de Aysén
 
@@ -954,13 +948,15 @@ Guaitecas(Melinka)
 
 Mod. atención : Permanente
 
-Inspección Provincial del Trabajo de General Carrera
+Inspección Provincial del Trabajo de General Carrera.
 
-Ciudad : Chile Chico
+Ciudad : Chile Chico.
 
-Jurisdicción : Chile Chico
+Jurisdicción : Chile Chico, Cochrane,
 
-Mod. atención : Intermitente
+O'Higgins, Tortel.
+
+Mod. atención : Permanente.
 
 Inspección Provincial del Trabajo de Capitán Prat
 
