@@ -30,7 +30,9 @@ a) Sistema de certificación: conjunto de reglas o principios que establecen la 
 
 b) Certificación: proceso en virtud del cual se reconoce que un prestador individual domina un cuerpo de conocimientos y/o experiencias relevantes en un determinado ámbito del trabajo asistencial, para el otorgamiento del correspondiente certificado.
 
-c) Especialidad: rama de las ciencias de la salud cuyo objeto es una parte limitada de las mismas, sobre la cual quienes la cultivan o ejercen poseen conocimientos, habilidades y destrezas definidas. Existen especialidades y subespecialidades, las que serán certificadas conforme a los requisitos establecidos en los programas de formación y en las normas técnicas operativas indicadas en el inciso final del artículo 2º.
+c) Especialidad: Para los efectos de la incorporación, modificación o eliminación del sistema de certificación de especialidades y subespecialidades, se entiende como el área delimitada de competencias de una profesión de la salud, caracterizada por conocimientos profundizados, habilidades y destrezas de amplio rango, y en que el conocimiento acumulado es de tal cantidad que es objeto de estudio específico y sistemático a través de un programa de formación, que permiten el logro de competencias avanzadas. Cada especialidad abarca un campo de acción que la diferencia de otras, y su desarrollo es de relevancia para la salud pública del país.
+
+Existen especialidades y subespecialidades, las que serán certificadas conforme a los requisitos establecidos en los programas de formación y en las normas técnicas operativas indicadas en el inciso final del artículo 2º. Siempre que este reglamento se refiere a las especialidades, se entenderá que comprende a las subespecialidades, a menos que se excluya a estas últimas expresamente.
 
 d) Prestadores individuales de salud: las personas naturales que, de manera autónoma, dependiente de un prestador institucional o a través de un convenio con éste, se encuentran habilitadas legalmente para otorgar acciones de salud.
 
@@ -60,115 +62,135 @@ A. Especialidades y Subespecialidades Médicas
 
 7. Cirugía de tórax.
 
-8. Cirugía plástica y reparadora.
+8. Cirugía digestiva.
 
-9. Cirugía pediátrica.
+9. Cirugía plástica y reparadora.
 
-10. Cirugía vascular periférica.
+10. Cirugía pediátrica.
 
-11. Coloproctología.
+11. Cirugía vascular periférica.
 
-12. Dermatología.
+12. Coloproctología.
 
-13. Diabetología.
+13. Dermatología.
 
-14. Endocrinología adulto.
+14. Diabetología.
 
-15. Endocrinología pediátrica.
+15. Endocrinología adulto.
 
-16. Enfermedades respiratorias adulto.
+16. Endocrinología pediátrica.
 
-17. Enfermedades respiratorias pediátricas.
+17. Enfermedades respiratorias adulto.
 
-18. Gastroenterología adulto.
+18. Enfermedades respiratorias pediátricas.
 
-19. Gastroenterología pediátrica.
+19. Gastroenterología adulto.
 
-20. Genética clínica.
+20. Gastroenterología pediátrica.
 
-21. Geriatría.
+21. Genética clínica.
 
-22. Ginecología Pediátrica.
+22. Geriatría.
+
+23. Ginecología Oncológica.
+
+24. Ginecología Pediátrica.
 
 y de la Adolescencia
 
-23. Hematología.
+25. Hematología.
 
-24. Imagenología.
+26. Imagenología.
 
-25. Infectología.
+27. Infectología.
 
-26. Inmunología.
+28. Inmunología.
 
-27. Laboratorio clínico.
+29. Laboratorio clínico.
 
-28. Medicina familiar.
+30. Mastología (Cirugía de mamas).
 
-29. Medicina física y rehabilitación.
+31. Medicina familiar.
 
-30. Medicina interna.
+32. Medicina física y rehabilitación.
 
-31. Medicina intensiva adulto.
+33. Medicina interna.
 
-32. Medicina intensiva pediátrica.
+34. Medicina intensiva adulto.
 
-33. Medicina legal.
+35. Medicina intensiva pediátrica.
 
-34. Medicina Materno Fetal.
+36. Medicina legal.
 
-35. Medicina nuclear.
+37. Medicina Materno Fetal.
 
-36. Medicina de urgencia.
+38. Medicina nuclear.
 
-37. Nefrología adulto.
+39. Medicina paliativa y de manejo del dolor.
 
-38. Nefrología pediátrica.
+40. Medicina reproductiva e infertilidad.
 
-39. Neonatología.
+41. Medicina de urgencia.
 
-40. Neurocirugía.
+42. Medicina del adolescente.
 
-41. Neurología adulto.
+43. Medicina del deporte.
 
-42. Neurología pediátrica.
+44. Microbiología
 
-43. Obstetricia y ginecología.
+45. Nefrología adulto.
 
-44. Oftalmología.
+46. Nefrología pediátrica.
 
-45. Oncología médica.
+47. Neonatología.
 
-46. Otorrinolaringología.
+48. Neurocirugía.
 
-47. Pediatría.
+49. Neurología adulto.
 
-48. Psiquiatría adulto.
+50. Neurología pediátrica.
 
-49. Psiquiatría pediátrica y de la adolescencia.
+51. Neurorradiología.
 
-50. Radioterapia oncológica.
+52. Nutrición clínica.
 
-51. Reumatología.
+53. Obstetricia y ginecología.
 
-52. Salud pública.
+54. Oftalmología.
 
-53. Traumatología y ortopedia.
+55. Oncología médica.
 
-54. Urología.
+56. Otorrinolaringología.
+
+57. Pediatría.
+
+58. Psiquiatría adulto.
+
+59. Psiquiatría pediátrica y de la adolescencia.
+
+60. Radioterapia oncológica.
+
+61. Reumatología.
+
+62. Salud pública.
+
+63. Traumatología y ortopedia.
+
+64. Urología.
 
 B. Especialidades y Subespecialidades Odontológicas
 
 1. Cirugía y traumatología buco maxilofacial.
 
-2. Cirugía Bucal.
+2. Endodoncia.
 
-3. Endodoncia.
+3. Imagenología oral y maxilofacial.
 
-4. Imagenología oral y maxilofacial.
+4. Implantología buco maxilofacial.
 
-5. Implantología buco maxilofacial.
+5. Odontología legal.
 
-6. Odontología legal.
+6. Odontogeriatría.
 
 7. Odontopediatría.
 
@@ -176,7 +198,7 @@ B. Especialidades y Subespecialidades Odontológicas
 
 9. Patología oral maxilofacial.
 
-1O. Periodoncia.
+10. Periodoncia.
 
 11. Rehabilitación oral.
 
@@ -205,6 +227,10 @@ D. Especialidades y Subespecialidades Bioquímicas
 2. Laboratorio Forense
 
 3. Salud Pública
+
+E. Especialidades y Subespecialidades de Enfermería
+
+1. Enfermería oncológica.
 
 Dentro del marco reglamentario que el presente decreto establece, corresponderá al Ministerio de Salud dictar las normas técnicas operativas necesarias para uniformar y homologar los mecanismos y procedimientos que, de acuerdo a lo establecido en el Nº 13 del artículo 4°, del DFL Nº 1, de 2005, del Ministerio de Salud, deberán dar a conocer las entidades certificadoras autorizadas por el Ministerio de Salud para otorgar la certificación de las especialidades que este Reglamento dispone, normas que incluirán las siguientes materias:
 
@@ -451,6 +477,18 @@ Las certificaciones de especialidades y subespecialidades otorgadas en virtud de
 Entre el 1 de enero de 2015 y el 31 de diciembre de 2025, quienes posean un título o grado académico de magíster o doctorado universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
 
 Para que los profesionales indicados se acojan a lo establecido en el inciso anterior, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades, presentando el original o copia autorizada del título o grado académico obtenido, o autorizándole a solicitar dicha información a la Universidad que corresponda. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este.
+
+#### Artículo quinto
+
+Se reconocerán como certificadas por el plazo de siete años las especialidades y subespecialidades que se incorporen al reglamento, respecto de aquellos profesionales que a la fecha de publicación del decreto supremo que las incorporare, posean un certificado de reconocimiento sobre las mismas, extendido por las Universidades reconocidas por el Estado, y por las corporaciones de derecho privado denominadas Corporación Nacional Autónoma de Certificación de Especialidades Médicas (Conacem), Corporación Nacional Autónoma de Certificación de Especialidades Odontológicas (Conaceo) y de la Corporación Nacional Autónoma de Certificación de Especialidades Farmacéuticas (Conacef).
+
+La vigencia de la certificación se contará a partir de la fecha de emisión del certificado respectivo, y deberá renovarse según las normas y criterios que se dispongan, de acuerdo a lo establecido en el inciso final del artículo 6º de este reglamento.
+
+Para acceder a este reconocimiento, los profesionales deberán solicitar a la Superintendencia de Salud su incorporación en el Registro de Especialidades, presentando el original o copia autorizada del certificado o título que corresponda. La Superintendencia dejará constancia en el mencionado registro del origen de este.
+
+#### Artículo sexto
+
+Las certificaciones de especialidades y subespecialidades otorgadas respecto de aquellas que se suprimen mantendrán su validez y vigencia hasta los dos años siguientes contados desde la fecha de publicación del reglamento que las suprime, o bien, por los plazos que originalmente se le hubieren otorgado, si estos fueran mayores. Asimismo, las solicitudes de inscripción que se encontraren pendientes en la Superintendencia de Salud, respecto de las especialidades y subespecialidades que se suprimen, continuarán su tramitación y serán incorporadas al registro de acuerdo a las normas generales, y mantendrán su vigencia en la forma señalada en este artículo. En cualquier caso, tales certificaciones no podrán ser renovadas.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.- Harald Beyer Burgos, Ministro de Educación.
 
