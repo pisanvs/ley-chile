@@ -74,13 +74,9 @@ Informe escrito elaborado por la entidad examinadora en el cual se evidencian la
 
 CONTROL INTERNO
 
-Conjunto de actividades de verificación que desarrollan el o los proveedores de servicios del sistema nacional de seguridad de la aviación civil, con el objeto de medir la eficacia y el cumplimiento de las obligaciones en materias de seguridad de la aviación bajo su responsabilidad.
+Conjunto de actividades de verificación que desarrollan el o los proveedores de servicios del sistema nacional de seguridad de la aviación civil, con el objeto de medir la eficacia y el cumplimiento de las obligaciones en materias de seguridad de la aviación bajo su responsabilidad
 
-CONTROL JERÁRQUICO
-
-Es aquel que ejerce una persona con autoridad sobre el o los funcionarios de menor jerarquía, con el fin de garantizar el cumplimiento de las obligaciones en materias de seguridad aeroportuaria bajo su responsabilidad.
-
-CUMPLIMIENTO
+CUMPLIMIENTO.
 
 La condición de satisfacer los requisitos de una norma.
 
@@ -156,11 +152,11 @@ i) Empresas de aprovisionamiento de a bordo.
 
 j) Servicios públicos que cuenten con un programa de seguridad aprobado por la DGAC.
 
-k) Fabricantes de embalajes para el transporte de mercancías peligrosas.
+k) Instructores externos certificados por la DGAC.
 
-l) Instructores externos certificados por la DGAC.
+l) Centros de instrucción o entrenamiento que cuenten con un programa de instrucción aprobado por la DGAC.
 
-m) Centros de instrucción o entrenamiento que cuenten con un programa de instrucción aprobado por la DGAC.
+m) Empresas de Transporte de Valores (ETV)
 
 n) Otras entidades que de acuerdo a una evaluación de riesgo podrían ser sometidas a actividades de control de calidad.
 
@@ -178,7 +174,7 @@ e) Escuela Técnica Aeronáutica.
 
 f) Aeropuertos y aeródromos.
 
-2.4 La DGAC coordinará, a través del Departamento Planificación, los aspectos relativos a la facilitación del transporte aéreo y la seguridad de la aviación civil, considerando las siguientes organizaciones gubernamentales:
+2.4 La DGAC coordinará, a través del Departamento Planificación y, con la entidad que se determine, los aspectos relativos a la facilitación del transporte aéreo y la seguridad de la aviación civil, considerando las siguientes organizaciones gubernamentales:
 
 a) Junta Aeronáutica Civil.
 
@@ -214,15 +210,9 @@ RESPONSABILIDADES
 
 3.1 Organizaciones internas de la DGAC
 
-Las organizaciones internas de la DGAC tendrán las siguientes responsabilidades:
+3.1.1 El Departamento Planificación (DPL), a través del Subdepartamento Normativa Aeronáutica, tiene la responsabilidad de elaborar y mantener actualizado el Programa Nacional del Control de la Calidad en la Seguridad de la Aviación Civil (PNCCSAC).
 
-3.1.1 Departamento Planificación:
-
-a) Elaborar y mantener actualizado el Programa Nacional del Control de la Calidad en la Seguridad de la Aviación Civil (PNCCSAC).
-
-b) Evaluar el cumplimiento y eficacia del presente programa para adoptar las acciones de mejora necesarias en materias de seguridad de la aviación civil.
-
-3.1.2 Departamento Auditoría Interna (DAI), a través de la Sección Vigilancia Continua Seguridad de la Aviación Civil:
+3.1.2 El Departamento Auditoría Interna (DAI), a través de la Sección Vigilancia Continua Seguridad de la Aviación Civil, tiene la responsabilidad de:
 
 a) Implementar y ejecutar el sistema nacional de vigilancia de la seguridad de la aviación civil, de conformidad a los criterios definidos por la Organización de Aviación Civil Internacional (OACI), con alcance en el sistema nacional de seguridad de la aviación civil.
 
@@ -230,7 +220,7 @@ b) Fiscalizar, evaluar y determinar el nivel de cumplimiento del sistema naciona
 
 c) Elaborar anualmente un Plan de vigilancia continua de seguridad de la aviación civil, estableciendo las prioridades y frecuencia, en función de una evaluación de riesgo.
 
-d) Ejecutar auditorías, inspecciones, pruebas e investigaciones de seguridad, de acuerdo a lo establecido en el Plan de vigilancia continua de seguridad de la aviación civil y a lo dispuesto por el Director General.
+(d) Ejecutar auditorías de seguridad, inspecciones de seguridad, pruebas de seguridad e investigaciones de seguridad, de acuerdo a lo establecido en el Plan de vigilancia continua de seguridad de la aviación civil y a lo dispuesto por el Director General.
 
 e) Efectuar el seguimiento de las medidas preventivas, emanadas de los informes de Auditoría Interna y verificar la implementación de los planes de acción correctivas.
 
@@ -246,11 +236,11 @@ j) Coordinar las actividades de instrucción y certificación de los Inspectores
 
 k) Implementar y dirigir el Comité de Aseguramiento de la Vigilancia del Sistema Nacional de Seguridad de Aviación (CAVNSAC).
 
-3.1.3 Departamento Aeródromos y Servicios Aeronáuticos (DASA), a través de la Oficina de Control de Calidad AVSEC de la Sección Seguridad de Aviación:
+3.1.3 El Departamento Aeródromos y Servicios Aeronáuticos (DASA), a través de la Oficina de Control de Calidad AVSEC de la Sección Seguridad de Aviación, tiene la responsabilidad de:
 
-a) Disponer la ejecución de auditorías, inspecciones y pruebas de seguridad a las entidades indicadas en el párrafo 2.2 del presente programa.
+(a) Disponer la ejecución de auditorías de seguridad, inspecciones de seguridad y pruebas de seguridad a las entidades indicadas en el párrafo 2.2 del presente programa.
 
-b) Disponer la ejecución de estudios y ejercicios de seguridad, a las organizaciones internas de la DGAC.
+(b) Disponer la ejecución del estudio de seguridad y ejercicios de seguridad, a las organizaciones internas de la DGAC.
 
 c) Elaborar un Plan anual de actividades de control de calidad que considere las entidades indicadas en el párrafo 2.2 del presente programa, en coordinación con el Plan de vigilancia continua de seguridad de la aviación civil establecido por el DAI.
 
@@ -264,7 +254,7 @@ g) Disponer el seguimiento a los Planes de acciones de medidas correctivas de la
 
 h) Informar al Departamento Planificación las actividades de control de calidad que se ejecutan anualmente, así como los resultados de las mismas.
 
-i) Disponer los mecanismos de control jerárquico y control interno que deben aplicar las unidades aeroportuarias a las actividades de seguridad aeroportuaria bajo su responsabilidad.
+(i) Disponer los mecanismos de control interno que deben aplicar las unidades aeroportuarias a las actividades de seguridad aeroportuaria bajo su responsabilidad.
 
 j) Examinar, aprobar y fiscalizar los programas internos de control de calidad a nivel aeroportuario.
 
@@ -272,7 +262,7 @@ k) Participar del Comité de Aseguramiento de la Vigilancia del Sistema Nacional
 
 l) Informar al Departamento Jurídico - Sección Infraccional y al DAI los incumplimientos a la normativa emanadas de los informes del control de calidad.
 
-3.1.4 Sección u Oficina Seguridad Aeroportuaria de los aeródromos que presten servicios a la aviación:
+3.1.4 La Sección u Oficina Seguridad Aeroportuaria de los aeródromos que presten servicios a la aviación, tiene la responsabilidad de:
 
 a) Velar para que los programas de seguridad de los aeródromos establezcan un programa interno de control de calidad (PICC) a nivel aeroportuario.
 
@@ -286,11 +276,11 @@ e) Velar por el cumplimiento de los programas de seguridad aprobados por la DGAC
 
 f) Implementar y ejecutar el programa interno de control de calidad a nivel aeroportuario.
 
-g) Ejecutar control jerárquico y control interno de las actividades de seguridad aeroportuaria bajo su responsabilidad.
+(g) Ejecutar control interno de las actividades de seguridad aeroportuaria bajo su responsabilidad.
 
 h) Participar del Comité de Aseguramiento de la Vigilancia del Sistema Nacional de Seguridad de Aviación (CAVNSAC) cuando sea requerido por el DASA.
 
-i) Informar al DASA, DAI y Sección Infraccional los incumplimientos a la normativa emanadas de los informes del control de calidad.
+(i) Informar al DASA, los incumplimientos a la normativa emanadas de los informes del control de calidad.
 
 3.1.5 Responsabilidades comunes de las organizaciones internas de la DGAC:
 
@@ -300,9 +290,9 @@ b) Elaborar un Plan de acciones correctivas, para dar solución a los hallazgos 
 
 3.2 Responsabilidad de las entidades examinadas externas a la DGAC
 
-Las entidades examinadas externas a la DGAC indicadas en el párrafo 2.2 del presente programa, tendrán las siguientes responsabilidades:
+3.2.1 Las entidades examinadas externas a la DGAC indicadas en el párrafo 2.2 del presente programa, tendrán las siguientes responsabilidades:
 
-a) Presentar un programa interno de control de calidad el que podrá ser incluido como parte del programa de seguridad o como un documento separado.
+(a) Presentar un programa interno de control de calidad como un documento separado.
 
 b) Nombrar un coordinador para el proceso de auditoría o inspección, quien actuará como contraparte con el equipo de inspectores de la DGAC.
 
@@ -327,6 +317,8 @@ f) Coordinar con la autoridad aeroportuaria la ejecución de pruebas de segurida
 g) Establecer un proceso de análisis y presentación de informes respecto a las deficiencias identificadas.
 
 h) Elaborar un informe anual sobre actividades de control de calidad que realizaron durante el año.
+
+3.2.2 Se exceptúan de lo solicitado en el párrafo precedente a los Instructores externos certificados por la DGAC y a los centros de instrucción o entrenamiento que cuenten con un programa de instrucción.
 
 ## Capítulo 4
 
@@ -364,9 +356,11 @@ Adicionalmente, como instrumento de verificación para ejecutar las actividades 
 
 4.2.1 El Departamento Auditoría Interna elaborará una planificación anual de auditorías, inspecciones y pruebas de seguridad, estableciendo las prioridades y frecuencia, en función de una evaluación de riesgo.
 
-4.2.2 El Departamento Aeródromos y Servicios Aeronáuticos elaborará una planificación anual de auditorías, inspecciones y pruebas de seguridad que considere las entidades reguladas por el párrafo 2.2 del presente Programa. Asimismo, elaborará una Planificación anual de estudios de seguridad para los aeródromos e instalaciones aeronáuticas y de ejercicios de seguridad para los aeródromos de la red primaria.
+4.2.2 El Departamento Aeródromos y Servicios Aeronáuticos elaborará una planificación anual de auditorías, inspecciones y pruebas de seguridad que considere las entidades reguladas por el párrafo 2.2 del presente Programa. Se exceptúan de ello, a los Instructores externos certificados por la DGAC y a los centros de instrucción o entrenamiento que cuenten con un programa de instrucción.
 
-4.2.3 Las planificaciones indicadas en los párrafos anteriores deberán ser coordinadas entre ambos departamentos debiendo proponer al Director General una resolución anual de aprobación del Plan de vigilancia continua de seguridad de la aviación civil.
+Asimismo, elaborará una Planificación anual de estudios de seguridad para los aeródromos e instalaciones aeronáuticas y de ejercicios de seguridad para los aeródromos de la red primaria.
+
+4.2.3 Las planificaciones de auditorías de seguridad, inspecciones de seguridad y pruebas de seguridad deberán ser coordinadas entre ambos departamentos debiendo proponer al Director General una resolución anual de aprobación del Plan de vigilancia continua de seguridad de la aviación civil.
 
 4.2.4 La planificación anual podrá adecuarse o complementarse, cuando la Autoridad Aeronáutica así lo disponga, teniendo en cuenta:
 
@@ -418,7 +412,7 @@ e) Categoría 5
 
 No se cumple la norma, se evidencia la ausencia de procedimientos o medidas de seguridad en las operaciones, asimismo las acciones inmediatas realizadas por la entidad auditada no son suficientes para corregir y dar continuidad a las operaciones de forma segura, poniendo en riesgo el sistema de la aviación civil la regularidad de las operaciones. Una clasificación Categoría 5 representa una preocupación significativa de la seguridad (SSeC) temporal. La entidad examinada deberá asignar alta prioridad a las medidas definitivas, remitiendo un Plan de acciones correctivas a la entidad examinadora para asegurar el cumplimiento de la norma.
 
-El procedimiento de detalle para el tratamiento de esta categoría será definido en el Manual de referencias de actividades de vigilancia y de control de calidad (MTA 17 02).
+El ||conte categoria 5 como inciso 1 detalle para el tratamiento de esta categoría será definido en el Manual de referencias de actividades de vigilancia y de control de calidad (MTA 17 02).
 
 f) NA (No aplica)
 
@@ -436,7 +430,7 @@ Cuando un procedimiento o medida no ha sido verificada u observada.
 
 4.6.3 El DASA informará al DAI las actividades de control de calidad que realice, considerando:
 
-a) Planificación anual de actividades, incluyendo auditorías, inspecciones, pruebas, estudios y ejercicios de seguridad.
+(a) Planificación anual de actividades, incluyendo auditorías de seguridad, inspecciones de seguridad, pruebas de seguridad, estudios de seguridad y ejercicios de seguridad.
 
 b) Resultados de las actividades de control de calidad.
 
@@ -446,7 +440,7 @@ d) Informe anual del resultado de las actividades de control de calidad.
 
 4.7 Plan de Acciones Correctivas (PAC)
 
-4.7.1 Toda entidad que sea sometida a las actividades de vigilancia y de control de calidad que describe el presente programa, una vez informada de los resultados de las mismas, deberá elaborar un Plan de acciones correctivas y remitirlo a la entidad examinadora, dentro del plazo de veinte (20) días corridos, contado desde la recepción del informe final.
+4.7.1 Toda entidad que sea sometida a las actividades de vigilancia y de control de calidad que describe el presente programa, una vez informada de los resultados de las mismas, deberá elaborar un Plan de acciones correctivas y remitirlo a la entidad examinadora, dentro del plazo de veinte (20) días hábiles, contado desde la recepción del informe final.
 
 4.7.2 Lo anterior es sin perjuicio de las medidas correctivas de aplicación inmediata que disponga la DGAC, ante la identificación de deficiencias graves a la seguridad, calificadas en categoría 4 o 5, y que deben ser atendidas con premura.
 
@@ -456,15 +450,15 @@ d) Informe anual del resultado de las actividades de control de calidad.
 
 a) Aplicación de medidas inmediatas para dar solución a errores operacionales.
 
-b) Quince (15) días corridos para dar solución a los aspectos administrativos.
+b) Quince (15) días hábiles para dar solución a los aspectos administrativos.
 
-c) Veinte (20) días corridos para dar solución a los aspectos procedimentales.
+c) Veinte (20) días hábiles para dar solución a los aspectos procedimentales.
 
-d) Sesenta (60) días corridos para implementar medidas de seguridad cuando éstas no existan.
+d) Sesenta (60) días hábiles para implementar medidas de seguridad cuando éstas no existan.
 
 4.7.5 Dichos plazos podrán ser renovables por un mismo periodo, mediante petición por escrito a la entidad examinadora, siempre y cuando las medidas de mitigación transitorias aseguren el correcto cumplimiento de la normativa, de no ser así no se prorroga el plazo.
 
-4.7.6 Si las medidas propuestas en el PAC no satisfacen los requisitos normativos, la empresa o entidad examinada tendrá un plazo de cinco (5) días corridos para corregir la propuesta, de no mediar cumplimiento, se entenderá por rechazado el PAC, quedando sujeto a actividades de seguimiento inmediatas, lo que podrá incluir la notificación al Departamento Jurídico-Sección Infraccional para evaluar los aspectos administrativos que correspondan.
+4.7.6 Si las medidas propuestas en el PAC no satisfacen los requisitos normativos, la empresa o entidad examinada tendrá un plazo de cinco (5) días hábiles para corregir la propuesta, de no mediar cumplimiento, se entenderá por rechazado el PAC, quedando sujeto a actividades de seguimiento inmediatas, lo que podrá incluir la notificación al Departamento Jurídico-Sección Infraccional para evaluar los aspectos administrativos que correspondan.
 
 4.8 Reporte anual de calidad
 
@@ -506,9 +500,9 @@ f) Otros motivos que justifiquen su actualización.
 
 4.10 Revisión de controles y procedimientos una vez ocurrido un acto de interferencia ilícita
 
-4.10.1 Si ocurre un acto de interferencia ilícita la Autoridad Aeronáutica dispondrá reevaluar los controles y procedimientos de seguridad y adoptará las medidas necesarias para subsanar los puntos débiles, a fin de evitar la repetición de los hechos. Dicha evaluación será realizada por el Departamento Planificación en conjunto con el Departamento Auditoría Interna.
+4.10.1 Si ocurre un acto de interferencia ilícita la Autoridad Aeronáutica dispondrá reevaluar los controles y procedimientos de seguridad y adoptará las medidas necesarias para subsanar los puntos débiles, a fin de evitar la repetición de los hechos. Dicha evaluación será realizada por el Departamento Planificación en conjunto con el Departamento Aeródromos y Servicios Aeronáuticos (DASA).
 
-4.10.2 El Departamento Planificación, lo antes posible, consolidará la información e informará a la OACI acerca de tales medidas. Del mismo modo, una vez resuelto el caso, informará por medio de los modelos de informes oficiales establecidos por la OACI en el Manual de Seguridad de la Aviación (Doc. 8973), todos los aspectos de seguridad del acto de interferencia ilícita.
+4.10.2 El Departamento Planificación, Sección Relaciones Aeronáuticas Internacionales (RAI), lo antes posible, consolidará la información e informará a la OACI acerca de tales medidas. Del mismo modo, una vez resuelto el caso, informará por medio de los modelos de informes oficiales establecidos por la OACI en el Manual de Seguridad de la Aviación (Doc. 8973), todos los aspectos de seguridad del acto de interferencia ilícita.
 
 4.10.3 El Director DGAC, de acuerdo a sus atribuciones, podrá disponer un sumario administrativo para investigar el hecho, establecer las responsabilidades administrativas y adoptar las medidas necesarias para subsanar las deficiencias, a fin de evitar la repetición de los hechos.
 
@@ -518,13 +512,13 @@ ACTIVIDADES DE SEGUIMIENTO
 
 5.1 Las actividades de seguimiento consisten en la recepción de evidencias documentales y físicas que permitan, a la entidad examinadora, tener la certeza del cumplimiento de la normativa aeronáutica, para ello el personal responsable podrá desarrollar:
 
-a) Visitas de terreno
+a) Visitas presenciales y/o remotas
 
 b) Análisis y verificación documental
 
 c) Entrevistas.
 
-5.2 Las entidades examinadoras podrán ejecutar las actividades de seguimiento que consideren necesarias para verificar que la entidad examinada corrigió las deficiencias detectadas. De corregirse las deficiencias, la entidad examinadora, identificará el hallazgo como cerrado.
+5.2 Las entidades examinadoras podrán ejecutar una actividad de seguimiento y en caso que se considere necesario, conforme al riesgo detectado por los inspectores, una segunda verificación para comprobar que la entidad examinada corrigió las deficiencias detectadas. De corregirse las deficiencias, la entidad examinadora, identificará el hallazgo como cerrado.
 
 5.3 Las entidades examinadoras darán prioridad al seguimiento de las preocupaciones significativas de seguridad calificadas en categoría 5, siendo la entidad examinada responsable de dar solución en el menor tiempo para continuar con las operaciones.
 
@@ -572,7 +566,7 @@ e) El nivel de cumplimientos de las organizaciones y entidades.
 
 MANUAL DE REFERENCIAS DE ACTIVIDADES DE VIGILANCIA Y DE CONTROL DE CALIDAD
 
-6.1 La Autoridad Aeronáutica dictará un Manual de referencia de actividades de vigilancia y de control de calidad, que contendrá los procedimientos de actuación normalizados, entre otros regulará:
+6.1 La Autoridad Aeronáutica establecerá un Manual de referencia de actividades de vigilancia y de control de calidad, que contendrá los procedimientos de actuación el que regulará:
 
 a) Código de conducta para el personal responsable de las actividades de control de la calidad.
 
@@ -580,7 +574,7 @@ b) Confidencialidad de los informes y resultados de las actividades de control d
 
 c) Categorías de cumplimiento y/o incumplimiento de las constataciones de control de la calidad.
 
-d) Metodología de las actividades de control de la calidad: planificación y programación, auditorías, inspecciones, pruebas, estudios, e investigaciones.
+(d) Metodología de las actividades de control de la calidad: planificación y programación, auditorías de seguridad, inspecciones de seguridad, pruebas de seguridad, estudios de seguridad, e investigaciones de seguridad.
 
 e) Informes administrativos: entrega de informes de las actividades de control de la calidad y proceso de aprobación; listas de chequeo y formularios.
 
@@ -626,7 +620,7 @@ Funcionarios dependientes del DASA, responsables de ejecutar actividades de cont
 
 7.3.1 La Autoridad Aeronáutica impartirá la instrucción inicial y en el puesto de trabajo para entregarles las competencias necesarias para desarrollar sus funciones.
 
-7.3.2 Cada tres años se les impartirá instrucción recurrente y especializada, cuando corresponda, para mantener, actualizar y reforzar las competencias adquiridas inicialmente y entregarles nuevos conocimientos.
+7.3.2 Se les impartirá instrucción recurrente y especializada, cuando corresponda, para mantener, actualizar y reforzar las competencias adquiridas inicialmente y entregarles nuevos conocimientos. La periodicidad de las instrucciones señaladas, serán cada tres (3) años acorde a lo establecido en el PNISAC.
 
 7.3.3 Los criterios específicos de instrucción se encuentran definidos en el PNISAC.
 
@@ -654,23 +648,29 @@ La DGAC, a través del Departamento Recursos Humanos (DRH), en cualquier tiempo 
 
 7.8 Acreditación
 
-En cumplimiento a lo establecido en el Reglamento DAR 17, la Autoridad Aeronáutica acreditará al Inspector mediante una credencial institucional (Anexo A), que será emitida por el Departamento Recursos Humanos, a consecuencia de la resolución de nombramiento de los mismos, con vigencia por tres años.
+En cumplimiento a lo establecido en el Reglamento DAR 17, la Autoridad Aeronáutica acreditará al Inspector mediante una credencial institucional (Apéndice 1), que será emitida por el Departamento Recursos Humanos, a consecuencia de la resolución de nombramiento de los mismos, con vigencia por tres años.
 
 ## Capítulo 8
 
 PROGRAMA INTERNO DE CONTROL DE CALIDAD
 
-8.1 Las entidades indicadas en el párrafo 2.2 del presente programa, y el servicio AVSEC de los Aeropuertos y Aeródromos deberán contar con un programa interno de control de calidad, de acuerdo al modelo definido en el anexo B del presente documento.
+8.1 Las entidades externas indicadas en el párrafo 2.2 del presente programa, y el servicio AVSEC de los Aeropuertos y Aeródromos deberán contar con un programa interno de control de calidad.
+
+8.1.1 En el Apéndice 2 del presente programa se encuentra establecido el modelo del Programa Interno de Control de Calidad para Entidades Externas a la DGAC.
+
+8.1.2 El modelo de Programa Interno del Control de la Calidad para las Unidades Aeroportuarias, en donde se encuentre establecido el servicio AVSEC/DGAC, será de responsabilidad del DASA, y, asimismo su distribución.
+
+8.1.3 Se exime de lo señalado en el párrafo 8.1 del presente programa, a los Centros de Instrucción que cuenten con un PICC aprobado por la DGAC, a los Instructores Externos Certificados por la DGAC, a las Empresas de Seguridad en Recursos Técnicos autorizadas por la DGAC, y, aquellas que la Autoridad Aeronáutica considere que no tienen responsabilidad en el PNSAC.
 
 8.2 El resultado de la aplicación, incluyendo las medidas correctivas adoptadas, serán reportados a la DGAC, a través del DASA.
 
 8.3 Todas las organizaciones incluirán en su programa interno de control de calidad un proceso formal para la resolución de problemas de seguridad detectados durante la ejecución de actividades de vigilancia y de control de calidad.
 
-8.4 Del control interno y control jerárquico
+8.4 Del control interno
 
-8.4.1 El DASA dispondrá que en los aeródromos de la red primaria se ejecuten mecanismos de control jerárquico y control interno a las actividades de seguridad aeroportuaria de responsabilidad de la DGAC y que son desarrolladas por el personal de seguridad aeroportuaria.
+8.4.1 El DASA dispondrá que en los aeródromos de la red primaria se ejecuten mecanismos de y control interno a las actividades de seguridad aeroportuaria de responsabilidad de la DGAC y que son desarrolladas por el personal de seguridad aeroportuaria.
 
-8.4.2 El modelo de programa interno de control de calidad incorporará un capítulo sobre el control jerárquico y control interno que deben realizar las unidades aeroportuarias, estos controles buscan determinar:
+8.4.2 El modelo de programa interno de control de calidad incorporará un capítulo sobre el y control interno que deben realizar las unidades aeroportuarias, estos controles buscan determinar:
 
 a) La efectividad y eficiencia de la seguridad aeroportuaria.
 
@@ -680,7 +680,7 @@ c) El cumplimiento de las regulaciones y procedimientos de seguridad aeroportuar
 
 d) El cumplimiento de los indicadores.
 
-8.4.3 Dentro de las actividades que el aeródromo debería realizar para el control jerárquico y control interno:
+8.4.3 Dentro de las actividades que el aeródromo debería realizar para el y control interno:
 
 a) Designar niveles de supervisión de procesos.
 
@@ -712,7 +712,7 @@ IV.- VIGENCIA
 
 El presente Programa Nacional del Control de Calidad en la Seguridad de Aviación Civil, entrará en vigencia a contar de la fecha de su publicación.
 
-ANEXO A
+APÉNDICE 1
 
 FORMATO DE CREDENCIAL PARA INSPECTORES
 
@@ -724,356 +724,634 @@ INSPECTOR FISCALIZADOR AVSEC
 
 .
 
-ANEXO B
+APÉNDICE 2
 
-MODELO DEL PROGRAMA INTERNO DE CONTROL DE CALIDAD
+MODELO DEL PROGRAMA INTERNO DE CONTROL DE CALIDAD PARA ENTIDADES EXTERNAS A LA DGAC
 
-Ítem I Generalidades
+MODELO DE PROGRAMA INTERNO DE CONTROL DE CALIDAD 2023
 
-1.1 Este anexo establece un diseño estándar obligatorio para la elaboración del programa interno de control de calidad, el que deberá cumplir con los requisitos que establece el PNCCSAC, y que será obligatorio para las siguientes entidades:
+HOJA DE VIDA
 
-a) Servicio de seguridad aeroportuaria, emplazado en un aeródromo, dependiente de la DGAC.
+DEJADA EN BLANCO PARA LA RESOLUCIÓN DE APROBACIÓN DEL PICC
 
-b) Explotadores de terminales de pasajeros.
+ÍNDICE
 
-c) Explotadores de transporte aéreo comercial.
+### I. PROPÓSITO
 
-d) Empresas de servicios que operan en los aeródromos.
+### II. ANTECEDENTES
 
-e) Bases Fijas de Mantenimiento FBO (Operador de Base Fija o Fixed Base Operator).
+CAPÍTULO 1 Objetivos del Programa
 
-f) Explotador del terminal aéreo de carga.
+CAPÍTULO 2 Responsabilidades dentro de la organización
 
-g) Clubes aéreos.
+CAPÍTULO 3 Comunicación y Coordinación con la DGAC
 
-h) Hangares privados o corporativos.
+CAPÍTULO 4 Tipos de actividades de control de calidad autorizadas a Ejecutar
 
-i) Agencias de carga acreditadas por la DGAC.
+CAPÍTULO 5 Criterios para la programación de las prioridades y Frecuencias
 
-j) Expedidores de carga aceptados por la DGAC.
+CAPÍTULO 6 Gestión operacional de las actividades de control de calidad
 
-k) Transportistas de carga aceptados por la DGAC.
+CAPÍTULO 7 Categorización de cumplimiento
 
-l) Entidades reconocidas por la DGAC en una cadena de suministro.
+CAPÍTULO 8 Resolución de problemas
 
-m) Operadores postales designados.
+CAPÍTULO 9 Plan de acciones correctivas
 
-n) Empresas de aprovisionamiento de a bordo.
+CAPÍTULO 10 Actividades de seguimiento
 
-1.2 El programa interno de control de calidad deberá ser elaborado en idioma español y presentado al DASA para su aprobación de acuerdo a lo establecido en el presente anexo.
+CAPÍTULO 11 Tratamiento de posibles Preocupaciones Significativas de Seguridad
 
-1.3 El programa interno de control de calidad podrá ser incluido como parte del programa de seguridad o como un documento separado.
+### III. INSTRUCTIVO APLICACIÓN DE PRUEBAS DE SEGURIDAD
 
-1.4 El DASA deberá elaborar y aprobar las listas de verificación para el análisis y aprobación de los programas internos de control de calidad.
+### IV. ANEXOS
 
-Ítem II Proceso de aprobación del programa y sus enmiendas
+### V. APROBACIÓN Y VIGENCIA
 
-2.1 El programa interno de control de calidad, así como sus enmiendas, ajustes y modificaciones deberán ser remitidas a la DGAC quien dispondrá su análisis y revisión.
+### I. Propósito
 
-2.2 Será sometido a evaluaciones en terreno, por parte de representantes de la autoridad aeroportuaria o del DASA, según corresponda, esto sin perjuicio de las actividades de vigilancia que ejecute el DAI.
+Verificar a través de la aplicación del presente Programa, el cumplimiento de las disposiciones establecidas en la normativa aeronáutica nacional en materias de seguridad de aviación y la efectividad de las medidas dispuestas en el programa de seguridad y plan de contingencia de nuestra empresa, con la finalidad de medir y evaluar el cumplimiento de los requisitos establecidos, declarando los mecanismos para la detección de posibles incumplimientos, desviaciones y/o fallos que deban ser solucionados en beneficio de mantener un sistema de seguridad óptimo, lo cual permitirá determinar el grado de cumplimiento por parte de nuestra entidad, además de disponer la aplicación de las medidas correctivas necesarias.
 
-2.3 La DGAC, en un plazo de treinta días hábiles, resolverá sobre el contenido del programa interno de control de calidad que éste cumpla los requerimientos de la presente regulación y será aceptado mediante resolución aprobatoria.
+### II. Antecedentes
 
-2.4 El programa interno de control de calidad rechazado por no cumplir con las exigencias normativas, será devuelto al solicitante, quien, dentro del plazo de treinta (30) días hábiles, deberá presentar el programa corregido, de persistir las observaciones del programa, se asignará un nuevo plazo para su presentación, el que considerará la cantidad de mejoras que requiera el programa.
+a) Ley N° 18.916, de 1990, que aprueba el Código Aeronáutico y sus posteriores modificaciones.
 
-2.5 Una vez aprobado el programa, las entidades indicadas en el párrafo 1.1 del presente anexo, deberán dar difusión a las dependencias internas que correspondan y mantendrán registros de la divulgación.
+b) Decreto Supremo N° 49, de 2008, del Ministerio de Defensa Nacional, que aprueba Reglamento Transporte sin Riesgo de Mercancías Peligrosas por Vía Aérea (DAR 18) y sus posteriores modificaciones.
 
-2.6 Cada dos (2) años, posteriores a su aprobación inicial, las entidades indicadas en el párrafo 1.1 del presente anexo, deberán presentar para su aprobación una nueva edición del programa interno de control de calidad.
+c) Decreto Supremo N° 63, de 2008, del Ministerio de Defensa Nacional, que aprueba Reglamento Seguridad, Protección de la Aviación contra los Actos de Interferencia Ilícita (DAR 17) y sus posteriores modificaciones.
 
-2.7 Sin perjuicio de lo indicado en el párrafo anterior, las entidades deberán enmendar su programa interno de control de calidad cada vez que:
+d) Resolución Exenta N° 04/3/0106/1272, de 2021, de la Dirección General de Aeronáutica Civil, que aprueba Primera Enmienda a la Sexta Edición del Programa Nacional de Seguridad de Aviación Civil (PNSAC).
 
-a) Se haya comprometido la seguridad, ante la ocurrencia de un acto de interferencia ilícita.
+e) Resolución Exenta N° 04/3/0041/0646, de 2022, de la Dirección General de Aeronáutica Civil, que aprueba la Primera Enmienda de la Cuarta Edición del Programa Nacional de Instrucción de Seguridad de la Aviación Civil (PNISAC).
 
-b) Producto de actividades de vigilancia y control de calidad ejecutados por la DGAC.
+f) Resolución Exenta N° 0893, de 2019, de la Dirección General de Aeronáutica Civil, que aprueba Cuarta Edición del Programa Nacional de Seguridad de la Carga Aérea (PNSCA).
 
-c) Por cambios normativos de la DGAC.
+g) Resolución Exenta N° 0999, de 2019, de la Dirección General de Aeronáutica Civil, que aprueba Sexta Edición del Programa Nacional de Control de la Calidad de Seguridad de la Aviación Civil (PNCCSAC).
 
-d) Por cambios en la estructura orgánica en la empresa, operaciones, empresas contratistas, subcontratistas, entre otras.
+h) Resolución Exenta N° 0257, de 2017, de la Dirección General de Aeronáutica Civil, que aprueba Primera Edición de la Norma Transporte sin Riesgo de Mercancías Peligrosas por Vía Aérea (DAN 18).
 
-e) Por aplicación de nuevos procedimientos de la empresa.
+i) Resolución Exenta N° 0839, de 2018, de la Dirección General de Aeronáutica Civil, que aprueba Segunda Edición de la Norma Transporte de Valores en Aeródromos (DAN 17 05).
 
-2.8 Una vez aprobado el programa interno de control de calidad el DASA remitirá copia del ejemplar, físicos o electrónicos, al Departamento Planificación, Departamento Auditoría Interna y al aeródromo que corresponda.
+j) Resolución Exenta N° 0586, de 2019, de la Dirección General de Aeronáutica Civil, que aprueba Cuarta Edición de la Norma Credenciales y Permisos Aeroportuarios (DAN 17 03).
 
-Ítem III Estructura del programa interno de control de calidad (PICC)
+k) Resolución Exenta N° 0639, de 2019, de la Dirección General de Aeronáutica Civil, que aprueba Cuarta Edición de la Norma Servicios de Seguridad Privada en los Recintos Aeronáuticos (DAN 17 02).
 
-3.1 Las entidades indicadas en el párrafo 1.1 deberán presentar a la DASA un programa interno de control de calidad con la siguiente estructura:
+l) Resolución Exenta N° 0710, de 2018, de la Dirección General de Aeronáutica civil, que aprueba Tercera Edición del Manual de Diseño e Infraestructura para la Protección de Instalaciones Aeroportuarias (MTA 17 03).
 
-a) Objetivos del programa.
+m) Resolución Exenta N° 0311, de 2019, de la Dirección General de Aeronáutica Civil, que aprueba Segunda Edición del Manual de Mantenimiento y Pruebas de Calibración para Equipos Electrónicos de Inspección en Aeropuertos y Aeródromos (MTA 17 04).
 
-b) Responsabilidades dentro de la organización.
+n) Resolución Exenta N° 0481, de 2019, de la Dirección General de Aeronáutica Civil, que aprueba Primera Edición del Manual de Orientaciones Técnicas de Mantenimiento y Pruebas de Rendimiento para Equipos Utilizados en Inspección de Seguridad por Entidades Externas a la DGAC (MTA 17 05).
 
-c) Comunicación y coordinación con la DGAC.
+o) Resolución Exenta N° XXXX, que aprueba la XXX Edición del Programa de Seguridad de XXXXX (nombre de la empresa).
 
-d) Tipos de actividades de control de calidad autorizadas a ejecutar.
+p) Resolución Exenta N° XXXX, que aprueba la XXX Edición del Plan de Contingencia de XXXXX (nombre de la empresa).
 
-e) Criterios para la programación de las prioridades y frecuencias.
+## Capítulo 1
 
-f) Gestión operacional de las actividades de control de calidad.
+OBJETIVOS DEL PROGRAMA
 
-g) Categorización y reporte de resultados de las actividades.
+1.1 Política de Control de Calidad
 
-h) Resolución de problemas.
+Nuestra empresa cuenta con una política permanente en beneficio de la seguridad de aviación, adoptando las medidas pertinentes en materias de control de calidad a fin de asegurar el cumplimiento permanente de los procedimientos preventivos de seguridad señalados en nuestro programa de seguridad.
 
-i) Plan de acciones correctivas.
+1.2 Objetivo General
 
-j) Actividades de seguimiento.
+Establecer un Programa Interno de Control de Calidad en la Seguridad de la Aviación Civil para verificar el cumplimiento y eficacia del Programa de Seguridad de nuestra empresa, así como también el Programa Nacional Seguridad de la Aviación.
 
-k) Tratamiento de posibles Preocupaciones Significativas de Seguridad.
+1.3 Objetivos Específicos
 
-l) Registros.
+Realizar auditorías, inspecciones de seguridad, Pruebas de Seguridad y Ejercicios de Seguridad, a fin de verificar el cumplimiento de la normativa vigente por parte del personal de nuestra empresa.
 
-3.2 Para el desarrollo de los contenidos indicados en el párrafo anterior, las organizaciones o entidades deberán considerar el formato, estructura y criterios definidos en el Ítem IV, Modelo general del programa.
+Dar cumplimiento a los requisitos establecidos en la normativa vigente en materias de control de calidad, conforme a las actividades realizadas por nuestra empresa.
 
-Ítem IV Modelo general del programa
+Comprometer nuestros esfuerzos en materias de control de calidad, sobre nuestros procesos, conforme lo establece la normativa vigente.
 
-4.1 Objetivos del programa
+## Capítulo 2
 
-En esta sección deberá incluir el objetivo del programa interno de control de calidad.
+RESPONSABILIDADES DENTRO DEL PROGRAMA
 
-4.2 Responsabilidades dentro de la organización
+2.1 Del Representante en el Aeródromo o Coordinador de Seguridad de la empresa
 
-En esta sección deberá incluir las responsabilidades internas de la organización en cuanto a la aplicación del programa interno de control de calidad.
+(a) Presentar para revisión y aprobación por parte de la Autoridad Aeronáutica un Programa Interno de Control de Calidad.
 
-4.3 Comunicación y coordinación con la DGAC
+(b) Disponer la elaboración y actualización del Programa Interno de Control de Calidad cuando corresponda.
 
-En esta sección la entidad deberá incluir la comunicación y coordinación que deberá realizar para la aplicación del programa interno de control de calidad, teniendo en cuenta:
+(c) Disponer la aplicación e implementación del Programa Interno de Control de Calidad dentro de la organización.
 
-a) A nivel aeroportuario: considerará la comunicación y coordinación para la puesta en servicio y entrega de resultados del programa interno de control de calidad.
+(d) Designar un encargado propio o de la entidad proveedora de servicio, para la aplicación e implementación del presente programa, incluyendo la difusión y control de los registros al interior de la organización y las entidades que mantenga contratadas.
 
-b) A nivel DASA: considerará la comunicación y coordinación para la elaboración, puesta en servicio y mantenimiento del programa interno de control de calidad.
+(e) Disponer que se realicen mecanismos internos de control de calidad, tales como: auditorías, inspecciones, pruebas y ejercicios de seguridad.
 
-c) A nivel DAI: considerará el envío de resultados de las actividades. Esto solo aplica al Servicio AVSEC de los aeropuertos y aeródromos.
+(f) Disponer los recursos humanos y técnicos cuando sea requerido para la implementación del Programa Interno de Control de Calidad.
 
-4.4 Tipos de actividades de control de calidad internas autorizadas a ejecutar
+(g) Nombrar un coordinador para el proceso de auditoría o inspección, efectuados por la DGAC, quien actuará como contraparte con el equipo de auditores - inspectores de seguridad de esta institución.
 
-En esta sección la entidad deberá indicar el tipo de actividades de control de calidad que está obligado a realizar, para ello deberá tener presente la siguiente información:
+(h) Prestar colaboración a las solicitudes del jefe de equipo, cuando la entidad se encuentre sometida a procesos de control de calidad por parte de la DGAC, brindando las siguientes facilidades:
 
-.
+(1) Dependencia de trabajo que reúna condiciones de privacidad.
 
-Nota: Se debe tener en cuenta que DASA podrá a otras entidades no señaladas en el presente listado la ejecución de actividades de control de calidad.
+(2) Acceso irrestricto a las instalaciones, zonas restringidas y aeronaves.
 
-4.5 Criterios para la programación de las prioridades y frecuencias
+(3) Acceso irrestricto a registros y documentos.
 
-En esta sección la entidad deberá incluir las prioridades y frecuencias que utilizará para determinar las actividades de control de calidad internas que ejecutará, considerando los siguientes criterios:
+(4) Observación de las actividades operacionales.
 
-a) La magnitud de las operaciones que realizan.
+(5) Acceso al personal para entrevistas.
 
-b) La frecuencia y volumen de las operaciones que realizan.
+(i) Dar respuesta priorizada a los hallazgos detectados en las actividades de vigilancia y de control de calidad efectuados por la DGAC y a aquellos detectados en la aplicación del Programa Interno de Control de Calidad.
 
-c) La probabilidad de un acto de interferencia ilícita, o la presencia de explotadores de aeronaves o vuelos de alto riesgo.
+(j) Elaborar y presentar a la DGAC un Plan de acciones correctivas, para solucionar los hallazgos de resultados de actividades de vigilancia y de control de calidad, efectuados por esta entidad y la DGAC.
 
-d) Resultados de las actividades de seguimiento y control realizadas anteriormente por la Autoridad competente.
+(k) Coordinar con la autoridad aeroportuaria la ejecución de pruebas de seguridad y ejercicios de seguridad internos para determinar la eficiencia de sus controles y medidas de seguridad.
 
-e) Constataciones de las medidas de control de la calidad interno, cuando sean necesarias.
+(l) Participar de las actividades de control de calidad que disponga la DGAC.
 
-f) Informes de incidentes o fallos de seguridad ocurridos.
+2.1.1 Alcance
 
-g) Otros requisitos que la autoridad aeronáutica disponga.
+El alcance de las actividades de control de calidad del presente programa, considera nuestro personal propio y las entendidas que mantienen servicios contratados con esta entidad (genérico).
 
-4.6 Gestión operacional de las actividades de control de calidad
+(ENTIDADES QUE MANTIENEN SERVICIOS CONTRATADOS CON ESTA ENTIDAD).
 
-En esta sección la entidad deberá desarrollar la gestión operacional de las actividades bajo su responsabilidad, incluyendo:
+## Capítulo 3
 
-a) Planificación y programación: Incluir aspectos relacionados con la planificación, personas responsables de la actividad, tipo de actividad a ejecutar, plan de trabajo y programación anual.
+COMUNICACIÓN Y COORDINACIÓN CON LA DGAC
 
-b) Alcances internos: Identificar las organizaciones internas donde se aplicará el programa.
+Para dar cumplimiento a la ejecución del Programa Interno de control de calidad, se ha establecido el presente canal de comunicación y coordinación con la Autoridad Aeronáutica:
 
-c) Actividades previas: Identificar todas las actividades que se requieren previamente para ejecutar las actividades de control de calidad, identificación de las listas de verificación.
+3.1 A Nivel Interno Empresa:
 
-d) Etapa de ejecución: considerando reuniones de apertura, metodología de trabajo, entrevistas con el personal, análisis de documentos, observación de terreno, identificación y categorización de hallazgos, reunión de clausura si fuera el caso, informes o consensos preliminares.
+. Representante legal:
 
-e) Etapa posterior a la actividad de control de calidad: elaboración de informes, revisión y validación de calidad de los hallazgos, elaboración y aprobación del plan de acciones correctivas, tratamiento de preocupaciones significativas de seguridad (si fuera el caso), solución de problemas, actividades de seguimiento.
+Nombre:
 
-f) Reporte y Mantenimiento de registros: incluye la obligación de reportar los resultados al DASA y DAI, según corresponda, así como mantener los registros de las actividades por un plazo de cinco (5) años en formato digital o impreso.
+Fono:
 
-4.7 Categorización de cumplimiento
+Correo Electrónico:
 
-Al aplicar una actividad de control de calidad deberá identificar todos los alcances, identificando cada uno de ellos con el nivel de cumplimiento, debiendo identificar el porcentaje de cumplimiento final de toda la actividad.
+Dirección:
 
-a) Categoría 1
+. Jefe y/o Coordinador de seguridad Local:
 
-Se cumple la norma, procedimiento o medida de seguridad.
+Nombre:
 
-b) Categoría 2
+Fono:
 
-Se cumple en forma deficiente con la norma, procedimiento o medida de seguridad.
+Correo Electrónico:
 
-c) Categoría 3
+Dirección:
 
-No se cumple la norma, procedimiento o medida de seguridad.
+. Encargado del Control de Calidad:
+
+Nombre:
+
+Fono:
+
+Correo Electrónico:
+
+Dirección:
+
+3.2 A Nivel Aeroportuario:
+
+. Jefe Oficina AVSEC
+
+Nombre:
+
+Fono:
+
+Correo Electrónico:
+
+Dirección:
+
+. Jefe Subrogante Oficina AVSEC
+
+Nombre:
+
+Fono:
+
+Correo Electrónico:
+
+Dirección:
+
+. Encargado Área de Control de Calidad Externo de la Oficina AVSEC
+
+Nombre:
+
+Fono:
+
+Correo Electrónico:
+
+Dirección:
+
+3.3 A Nivel DASA:
+
+. Jefe Sección AVSEC
+
+Nombre:
+
+Fono:
+
+Correo Electrónico:
+
+Dirección:
+
+## Capítulo 4
+
+TIPOS DE ACTIVIDADES DE CONTROL DE CALIDAD AUTORIZADAS A EJECUTAR
+
+4.1 Tipos de Actividades de Control de Calidad
+
+Conforme lo establece la normativa vigente, la empresa para dar cumplimiento a las actividades de control de calidad, deberá realizar las siguientes actividades de control de calidad interno:
+
+(a) Auditoría de Seguridad:
+
+Consiste en un examen profundo del cumplimiento de cada aspecto de la normativa y procedimientos de los integrantes del sistema de seguridad de la aviación, con el objeto de establecer si están siendo aplicados correctamente.
+
+(b) Inspección de Seguridad:
+
+Comprende exámenes de la aplicación de uno o más aspectos específicos de la normativa y procedimientos a los integrantes del sistema de seguridad de la aviación, para establecer si están siendo aplicados correctamente, o se debe efectuar un diagnóstico de seguridad inicial.
+
+(c) Prueba de Seguridad:
+
+Comprende actividades para evaluar aleatoriamente al personal y los equipos de seguridad durante las actividades normales de operación en un Aeródromo, para determinar la aplicación de la normativa, eficacia de las medidas de seguridad declaradas en el programa de seguridad, rendimiento de una persona o equipo.
+
+Esta actividad de control interno deberá ser coordinada y autorizada por la autoridad aeroportuaria antes de su ejecución.
+
+(d) Ejercicios de Seguridad:
+
+Consiste en poner a prueba el Plan de contingencia evaluando las medidas de respuesta, a los involucrados, sus responsabilidades y funciones.
+
+Los ejercicios comprenden los siguientes elementos:
+
+(1) La respuesta de todo el personal involucrado.
+
+(2) El Plan, sus procedimientos y cartillas operacionales.
+
+(3) El equipo y las comunicaciones de emergencia.
+
+NOTA: LOS EJERCICIOS DE SEGURIDAD, SÓLO SERÁN APLICABLES A LAS ENTIDADES QUE CUENTEN CON PLAN DE CONTINGENCIA LOS QUE DEBERÁN SER COORDINADOS Y AUTORIZADOS POR LA AUTORIDAD AEROPORTUARIA ANTES DE SU EJECUCIÓN.
+
+(e) Adicionalmente, la empresa será sometida a actividades de control de calidad por Parte de la Autoridad Aeronáutica.
+
+## Capítulo 5
+
+CRITERIOS PARA LA PROGRAMACIÓN DE PRIORIDADES Y FRECUENCIAS
+
+5.1 Las prioridades y frecuencia que hemos establecido para realizar las actividades de control interno, incluidos los respectivos seguimientos de las observaciones detectadas en la aplicación del presente programa serán definidas en conformidad a los siguientes criterios:
+
+(a) La magnitud de las operaciones aeroportuarias.
+
+(b) La frecuencia y volumen de las operaciones realizadas
+
+(c) La probabilidad de un acto de interferencia ilícita o de vuelos de alto riesgo.
+
+(d) Resultados de las actividades de seguimiento y control realizadas anteriormente por la Autoridad Aeronáutica.
+
+(e) Constataciones de las medidas de control de la calidad internas, cuando sean necesarias.
+
+(f) Informes de incidentes o fallos de seguridad ocurridos.
+
+(La empresa puede establecer estas actividades a través de Anexo "A").
+
+## Capítulo 6
+
+GESTIÓN OPERACIONAL DE LAS ACTIVIDADES DE CONTROL DE CALIDAD
+
+6.1 Para desarrollar las actividades de control de calidad interno, la empresa ha definido las siguientes etapas para su ejecución, las que será responsabilidad del coordinador de seguridad y/o encargado del control interno de la empresa su realización:
+
+(a) Planificación y programación: la empresa definirá una planificación de las actividades que desarrollará (iniciales y seguimientos), en atención a los antecedentes y criterios establecidos en el punto 4.1 del presente programa.
+
+La planificación incluirá aspectos como responsable de efectuar las actividades, tipo de actividades que se ejecutarán, plan de trabajo, entre otras.
+
+El responsable de la aplicación del Programa de Control Interno, establecerá y detallará la programación de las actividades en el Anexo A "Planificación y Programación de las actividades de control interno".
+
+(b) Alcances internos: Las actividades dispuestas en la planificación anual, contemplará aspectos relacionados a nuestro Programa de Seguridad, medidas de respuesta dispuestas en el Plan de Contingencia, procedimientos internos con alcance en seguridad de aviación para lo cual se considerará como alcance a nuestro personal propio y las entidades que mantienen servicios contratados con esta entidad.
+
+(c) Actividades previas: Para la ejecución de las actividades de control de calidad, nuestra empresa elaborará una lista de verificación para cada proceso o actividad que será sometido a control interno, para lo cual se utilizará el Anexo C "Lista de verificación", esta permitirá verificar el cumplimiento de los requisitos establecidos en el Programa de Seguridad, Plan de Contingencia y normativa vigente.
+
+Para el caso de los ejercicios de seguridad nuestra empresa efectuará la planificación respectiva, considerando los instrumentos de evaluación necesarios, tales como listas de verificación y la periodicidad en atención a lo detallado en el Plan de Contingencia de nuestra empresa.
+
+Se desarrollará un plan de auditoría o inspección en el cual se detallarán los alcances de la actividad de control interno (Anexo B).
+
+Respecto a la ejecución de las pruebas de seguridad, el encargado de control interno, deberá ejecutar la actividad conforme al Instructivo específico para esta actividad detallado en el Ítem III.
+
+(d) Etapa de ejecución: La ejecución de las actividades de control de calidad, contemplará una reunión de apertura para lo cual se utilizará el Anexo D "Reunión de apertura y clausura", en la cual se dará a conocer el alcance del proceso. Por otra parte, durante la ejecución se aplicarán las siguientes metodologías de trabajo: entrevistas con el personal, análisis de documentos, observación de terreno, identificación y categorización de hallazgos y finalmente una reunión de clausura si fuera el caso.
+
+(e) Etapa posterior a la actividad de control de calidad: En esta etapa se considera la elaboración de informes finales, para lo cual se utilizará el Anexo E "Informe final", en el cual se realice la revisión y validación de los hallazgos, elaboración y aprobación del plan de acciones correctivas, tratamiento de preocupaciones significativas de seguridad (si fuera el caso), solución de problemas, actividades de seguimiento.
+
+(f) Reporte y Mantenimiento de registros: La empresa reportará los resultados de las actividades de control de calidad internas al Departamento de Aeródromos y Servicios Aeronáuticos, al igual que las medidas correctivas producto de las desviaciones internas detectadas.
+
+Los registros de las actividades desarrolladas se mantendrán almacenados por un plazo de cinco (05) años en formato digital o impreso.
+
+## Capítulo 7
+
+CATEGORIZACIÓN DE CUMPLIMIENTO
+
+7.1 Al aplicar las actividades de control de calidad, estos podrán derivar con observaciones o hallazgos, por tanto, la empresa ha definido los siguientes criterios para categorizar cada uno de los hallazgos mediante la verificación del cumplimiento de la normativa:
+
+(a) Categoría 1: Se cumple la norma, procedimiento o medida de seguridad.
+
+(b) Categoría 2: Se cumple en forma deficiente con la norma, procedimiento o medida de seguridad.
+
+(c) Categoría 3: No se cumple la norma, procedimiento o medida de seguridad.
 
 Una clasificación Categoría 3 representa un incumplimiento, de orden administrativo o documental, que es necesario que la entidad examinada corrija. La entidad deberá asignar prioridad a las medidas correctivas y establecer un plazo específico para dar solución al hallazgo, a través del Plan de acciones correctivas.
 
-d) Categoría 4
+(d) Categoría 4: No se cumple la norma, afectando procedimientos o medidas de seguridad durante las operaciones; no obstante, la empresa aplicará medidas de mitigación inmediata que permiten dar continuidad a las operaciones de forma segura. La empresa asignará prioridad a las medidas correctivas definitivas y remitirá a la entidad examinadora un Plan de acciones correctivas para validar y aprobar la propuesta.
 
-No se cumple la norma, afectando procedimientos o medidas de seguridad durante las operaciones; no obstante, la entidad examinada deberá aplicar medidas de mitigación inmediata que permiten dar continuidad a las operaciones de forma segura. La entidad auditada deberá asignar prioridad a las medidas correctivas definitivas y remitirá a la entidad examinadora un Plan de acciones correctivas para validar y aprobar la propuesta.
+(e) Categoría 5: No se cumple la norma, se evidencia la ausencia de procedimientos o medidas de seguridad en las operaciones, asimismo las acciones inmediatas realizadas por la entidad auditada no son suficientes para dar continuidad a las operaciones de forma segura, poniendo en riesgo el sistema de la aviación civil la regularidad de las operaciones.
 
-d) Categoría 5
+Una clasificación Categoría 5 representa una preocupación significativa de la seguridad temporal. Nuestra empresa asignará alta prioridad a las medidas definitivas, remitiendo un Plan de acciones correctivas para asegurar el cumplimiento de la norma.
 
-No se cumple la norma, se evidencia la ausencia de procedimientos o medidas de seguridad en las operaciones, asimismo las acciones inmediatas realizadas por la entidad auditada no son suficientes para dar continuidad a las operaciones de forma segura, poniendo en riesgo el sistema de la aviación civil la regularidad de las operaciones.
+(f) NA (No aplica): Medidas o procedimientos no existentes en un aeródromo o entidad examinada, o que no se ejecutan por no corresponder a la materia tratada.
 
-Una clasificación Categoría 5 representa una preocupación significativa de la seguridad (SSeC) temporal. La entidad examinada deberá asignar alta prioridad a las medidas definitivas, remitiendo un Plan de acciones correctivas para asegurar el cumplimiento de la norma.
+(g) NOB (No observado): Cuando un procedimiento o medida no ha sido verificada u observada.
 
-El procedimiento de detalle para el tratamiento de esta categoría será definido en el Manual de referencias de actividades de vigilancia y control de calidad de la DGAC (MTA 17 02).
+## Capítulo 8
 
-e) NA (No aplica)
+RESOLUCIÓN DE PROBLEMAS
 
-Medidas o procedimientos no existentes en un aeródromo o entidad examinada, o que no se ejecutan por no corresponder a la materia tratada.
+8.1 De acuerdo con lo establecido en el Programa Nacional de Seguridad de la Aviación Civil y el Programa Nacional de Control de la Calidad, nuestra empresa ha establecido un proceso formal para dar solución a los problemas de seguridad detectados en las actividades de control de calidad y vigilancia desarrolladas por la Autoridad Aeronáutica, así como también aquellos detectados en las actividades internas desarrolladas por nuestra empresa.
 
-f) NOB (No observado)
+8.2 El proceso de resolución de problemas de seguridad de nuestra empresa considera, medidas para corregir deficiencias u observaciones conforme a nuestro rubro, relacionadas con algunos de los siguientes procesos de seguridad:
 
-Cuando un procedimiento o medida no ha sido verificada u observada.
+(a) El control del acceso a la parte aeronáutica.
 
-4.8 Resolución de problemas
+(b) Los controles de seguridad para controlar el ingreso a las ZSR.
 
-Todas las organizaciones incluirán en su programa interno de control de calidad un proceso formal para la resolución de problemas de seguridad detectados durante la ejecución de actividades de vigilancia y de control de calidad.
+(c) Los procedimientos para los sistemas de pases de identificación del personal de aeropuerto y pases vehiculares.
 
-El proceso de resolución de problemas de seguridad deberá considerar, pero no limitarse a, establecer medidas para corregir deficiencias u observaciones relacionadas con:
+(d) Las verificaciones de antecedentes de las personas que aplican controles de seguridad.
 
-### 1. El control del acceso a la parte aeronáutica
+(e) Las pruebas de mantenimiento y rendimiento del equipo de seguridad utilizado en la inspección de las personas que no son pasajeros, así como de los artículos que transportan, antes de ingresar a las ZSR de los aeropuertos que prestan servicios a la aviación civil internacional.
 
-### 2. Los controles de seguridad para controlar el ingreso a las ZSR
+(f) La inspección y los controles de seguridad para las personas que no son pasajeros, así como de los artículos que transportan, antes de ingresar a las ZSR de los aeropuertos que prestan servicios a la aviación civil internacional.
 
-3. Los procedimientos para los sistemas de pases de identificación del personal de aeropuerto y pases vehiculares.
+(g) La inspección u otros controles de seguridad apropiados a los vehículos a los que se haya concedido acceso a las ZSR, junto con los artículos contenidos en los mismos.
 
-4. Las verificaciones de antecedentes de las personas que aplican controles de seguridad.
+(h) Los controles de seguridad para las mercancías y suministros que son introducidas en las ZSR.
 
-5. Las pruebas de mantenimiento y rendimiento del equipo de seguridad utilizado en la inspección de las personas que no son pasajeros, así como de los artículos que transportan, antes de ingresar a las ZSR de los aeropuertos que prestan servicios a la aviación civil internacional.
+(i) Las medidas de seguridad para las áreas de la parte pública de forma sistemática y eficaz de conformidad con las evaluaciones de riesgos y los procedimientos establecidos.
 
-6. La inspección y los controles de seguridad para las personas que no son pasajeros, así como de los artículos que transportan, antes de ingresar a las ZSR de los aeropuertos que prestan servicios a la aviación civil internacional.
+(j) Las medidas para supervisar la circulación de personas y vehículos en las ZSR desde y hacia las aeronaves para impedir el acceso no autorizado a las mismas.
 
-7. La inspección u otros controles de seguridad apropiados a los vehículos a los que se haya concedido acceso a las ZSR, junto con los artículos contenidos en los mismos.
+(k) Los procedimientos para las verificaciones e inspecciones de seguridad de las aeronaves.
 
-8. Los controles de seguridad para las mercancías y suministros que son introducidas en las ZSR.
+(l) Las medidas para asegurarse de que una aeronave que esté siendo objeto de una verificación o inspección de seguridad esté protegida contra interferencias no autorizadas, desde el momento en que comienza la verificación o inspección de la misma hasta su salida.
 
-9. Las medidas de seguridad para las áreas de la parte pública de forma sistemática y eficaz de conformidad con las evaluaciones de riesgos y los procedimientos establecidos.
+(m) Las medidas para garantizar que cualquier artículo dejado a bordo por pasajeros que desembarcan de un vuelo en tránsito sea retirado de la aeronave o manejado de manera apropiada antes de la salida de la aeronave.
 
-10. Las medidas para supervisar la circulación de personas y vehículos en las ZSR desde y hacia las aeronaves para impedir el acceso no autorizado a las mismas.
+(n) Medidas para garantizar que, durante el vuelo, se evite que personas no autorizadas ingresen al compartimento de la tripulación de vuelo.
 
-11. Los procedimientos para las verificaciones e inspecciones de seguridad de las aeronaves.
+(o) Medidas y procedimientos para garantizar la seguridad a bordo de las aeronaves cuando viajen pasajeros bajo coacción por haber sido sometidos a procedimientos judiciales o administrativos.
 
-12. Las medidas para asegurarse de que una aeronave que esté siendo objeto de una verificación o inspección de seguridad esté protegida contra interferencias no autorizadas, desde el momento en que comienza la verificación o inspección de la misma hasta su salida.
+(p) Medidas para garantizar que el explotador de aeronave y el PIC sean informados cuando pasajeros viajen bajo coacción por haber sido sometidos a procedimientos judiciales o administrativos.
 
-13. Las medidas para garantizar que cualquier artículo dejado a bordo por pasajeros que desembarcan de un vuelo en tránsito sea retirado de la aeronave o manejado de manera apropiada antes de la salida de la aeronave.
+(q) Los procedimientos para el porte de armas a bordo de aeronaves por los IFSO que actúen en el desempeño de sus funciones.
 
-14. Medidas para garantizar que, durante el vuelo, se evite que personas no autorizadas ingresen al compartimento de la tripulación de vuelo.
+(r) Los procedimientos para el transporte de armas en un lugar de la aeronave que sea inaccesible a cualquier persona durante el tiempo de vuelo.
 
-15. Medidas y procedimientos para garantizar la seguridad a bordo de las aeronaves cuando viajen pasajeros bajo coacción por haber sido sometidos a procedimientos judiciales o administrativos.
+(s) Los procedimientos para asegurarse de que el PIC sea notificado acerca del número de personas armadas y la ubicación de sus asientos.
 
-16. Medidas para garantizar que el explotador de aeronave y el PIC sean informados cuando pasajeros viajen bajo coacción por haber sido sometidos a procedimientos judiciales o administrativos.
+(t) El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección de pasajeros de origen y su equipaje de mano.
 
-17. Los procedimientos para el porte de armas a bordo de aeronaves por los IFSO que actúen en el desempeño de sus funciones.
+(u) La inspección de pasajeros de origen y su equipaje de mano.
 
-18. Los procedimientos para el transporte de armas en un lugar de la aeronave que sea inaccesible a cualquier persona durante el tiempo de vuelo.
+(v) La inspección de cualquier pasajero de transbordo y su equipaje de mano.
 
-19. Los procedimientos para asegurarse de que el PIC sea notificado acerca del número de personas armadas y la ubicación de sus asientos.
+(w) El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección de los pasajeros de transbordo y su equipaje de mano.
 
-20. El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección de pasajeros de origen y su equipaje de mano.
+(x) La inspección de cualquier pasajero de transbordo y su equipaje de mano.
 
-### 21. La inspección de pasajeros de origen y su equipaje de mano
+(y) Las medidas de protección a los pasajeros inspeccionados y su equipaje de mano contra interferencias no autorizadas desde el punto de inspección hasta que embarcan en la aeronave.
 
-### 22. La inspección de cualquier pasajero de transbordo y su equipaje de mano
+(z) Las medidas para las operaciones de tránsito a fin de proteger a los pasajeros en tránsito y su equipaje de mano contra interferencias no autorizadas, así como la integridad de la seguridad del aeropuerto de tránsito.
 
-23. El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección de los pasajeros de transbordo y su equipaje de mano.
+(aa) El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad que se utilizan para la inspección del equipaje de bodega de origen.
 
-### 24. La inspección de cualquier pasajero de transbordo y su equipaje de mano
+(bb) La inspección del equipaje de bodega de origen.
 
-25. Las medidas de protección a los pasajeros inspeccionados y su equipaje de mano contra interferencias no autorizadas desde el punto de inspección hasta que embarcan en la aeronave.
+(cc) La inspección de cualquier equipaje de bodega destinado al transbordo.
 
-26. Las medidas para las operaciones de tránsito a fin de proteger a los pasajeros en tránsito y su equipaje de mano contra interferencias no autorizadas, así como la integridad de la seguridad del aeropuerto de tránsito.
+(dd) El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección del equipaje de bodega destinado al transbordo.
 
-27. El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad que se utilizan para la inspección del equipaje de bodega de origen.
+(ee) Las medidas para la protección del equipaje de bodega contra interferencias no autorizadas, desde el punto en que es inspeccionado o aceptado a cargo del explotador de aeronave, lo que suceda primero, hasta la salida de la aeronave en que será transportado.
 
-### 28. La inspección del equipaje de bodega de origen
+(ff) Los procedimientos para el cotejo del equipaje de bodega.
 
-### 29. La inspección de cualquier equipaje de bodega destinado al transbordo
+(gg) Los procedimientos para la autorización del transporte de equipaje de bodega en una aeronave.
 
-30. El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección del equipaje de bodega destinado al transbordo.
+(hh) Los controles de seguridad, incluyendo la inspección, cuando sea factible, de la carga y el correo antes de ser cargados en la aeronave.
 
-31. Las medidas para la protección del equipaje de bodega contra interferencias no autorizadas, desde el punto en que es inspeccionado o aceptado a cargo del explotador de aeronave, lo que suceda primero, hasta la salida de la aeronave en que será transportado.
+(ii) La carga y el correo utilizando un(os) método(s) apropiado(s) que tome(n) en consideración la naturaleza del envío.
 
-### 32. Los procedimientos para el cotejo del equipaje de bodega
+(jj) El proceso de seguridad de la cadena de suministro que incluye las operaciones de los agentes acreditados o expedidores reconocidos, en el caso de que dichas entidades participen en la aplicación de la inspección u otros controles de seguridad de la carga y el correo.
 
-33. Los procedimientos para la autorización del transporte de equipaje de bodega en una aeronave.
+(kk) Medidas para garantizar que los explotadores de aeronaves no acepten carga o correo para transporte en una aeronave, a menos que se haya confirmado y verificado la aplicación de la inspección u otros controles de seguridad por parte de un agente acreditado o una entidad que haya sido aprobada por la autoridad competente o que dicha carga o correo haya sido inspeccionada.
 
-34. Los controles de seguridad, incluyendo la inspección cuando sea factible, de la carga y el correo antes de ser cargados en la aeronave.
+(ll) Las medidas para la protección de la carga y el correo contra interferencias no autorizadas desde el punto donde se aplica la inspección u otros controles de seguridad hasta la salida de la aeronave.
 
-35. La carga y el correo utilizando un método(s) apropiado(s) que tome(n) en consideración la naturaleza del envío.
+(mm) La aplicación de mayores medidas de seguridad para mitigar las amenazas relacionadas con la carga y el correo de riesgo elevado.
 
-36. El proceso de seguridad de la cadena de suministro que incluye las operaciones de los agentes acreditados o expedidores reconocidos, en el caso de que dichas entidades participen en la aplicación de la inspección u otros controles de seguridad de la carga y el correo.
+(nn) Las medidas para garantizar que se emita una declaración de seguridad para la carga y el correo que han sido confirmados y verificados, ya sea en formato electrónico o por escrito, a fin de que acompañe a la carga y el correo a lo largo de toda la cadena de suministro segura.
 
-37. Medidas para garantizar que los explotadores de aeronaves no acepten carga o correo para transporte en una aeronave, a menos que se haya confirmado y verificado la aplicación de la inspección u otros controles de seguridad por parte de un agente acreditado o una entidad que haya sido aprobada por la autoridad competente o que dicha carga o correo haya sido inspeccionada.
+(oo) La inspección de cualquier carga y correo de transbordo.
 
-38. Las medidas para la protección de la carga y el correo contra interferencias no autorizadas desde el punto donde se aplica la inspección u otros controles de seguridad hasta la salida de la aeronave.
+(pp) Las pruebas de mantenimiento y rendimiento del equipo de inspección de seguridad utilizado en la inspección de dicha carga y correo.
 
-39. La aplicación de mayores medidas de seguridad para mitigar las amenazas relacionadas con la carga y el correo de riesgo elevado.
+(qq) Las medidas para garantizar que el aprovisionamiento de a bordo y los suministros y piezas de repuesto en una aeronave de pasajeros estén sujetos a controles de seguridad apropiados y, de ahí en adelante, protegidos hasta ser cargados en la aeronave.
 
-40. Las medidas para garantizar que se emita una declaración de seguridad para la carga y el correo que han sido confirmados y verificados, ya sea en formato electrónico o por escrito, a fin de que acompañe a la carga y el correo a lo largo de toda la cadena de suministro segura.
+(rr) El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección de la carga y correo de transbordo.
 
-### 41. La inspección cualquier carga y correo de trasbordo
+8.3 Conforme a lo anterior, nuestra empresa para corregir deficiencias u observaciones derivadas de las actividades de control de calidad internas, considerará algunas medidas como:
 
-42. Las pruebas de mantenimiento y rendimiento del equipo de inspección de seguridad utilizado en la inspección de dicha carga y correo.
+Las observaciones que deriven a hallazgos de categorías 4 o 5, la entidad deberá reflejar en su informe final las medidas correctivas inmediatas adoptadas y aunque estas medidas sean suficientes para solucionar el hallazgo, se mantendrá la categoría evidenciada en primera instancia. Si como resultado de la aplicación de las distintas actividades de control interno o aquellas efectuadas por la DGAC, se detectan incumplimientos, desviaciones y/o fallos, nuestra empresa podrá aplicar las siguientes medidas como resolución del problema:
 
-43. Las medidas para garantizar que el aprovisionamiento de a bordo y los suministros y piezas de repuesto en una aeronave de pasajeros estén sujetos a controles de seguridad apropiados y, de ahí en adelante, protegidos hasta ser cargados en la aeronave.
+(a) Instrucción específica.
 
-44. El mantenimiento y las pruebas de rendimiento de los equipos de inspección de seguridad utilizados en la inspección de la carga y correo de transbordo.
+(b) Entrevistas o charlas de familiarización.
 
-Nota: La entidad u organización solo considerará la solución de problemas para las actividades indicadas anteriormente que tienen relación con su rubro. En el caso del Servicio AVSEC debe incluir la solución de problemas como resultado de las actividades de fiscalización que debe realizar a los externos a la DGAC.
+(c) Asignación de otras funciones hasta ser instruido en la desviación
 
-4.9 Plan de acciones correctivas
+(d) Elaboración y/o modificación de los procedimientos, si corresponde, pudiendo incluso considerar cambios en el Programa de Seguridad.
 
-En esta sección se deberá incluir las políticas para definir el plan de acciones correctivas, dentro de las que se considera: entidad responsable de la ejecución, entidad responsable del seguimiento, entidad responsable de validar y autorizar el plan. El modelo de Plan de acción se encuentra definido al final del presente anexo.
+(e) Otras que se estimen pertinentes, conforme a la naturaleza de la desviación, incumplimiento o fallo y al impacto en la seguridad de las operaciones.
 
-El Plan de acciones correctivas debe ser elaborado y remitirlo a la entidad examinadora, dentro del plazo de veinte (20) días corridos, contado desde la recepción del informe final.
+(f) Otras que la autoridad aeronáutica considere necesarias.
 
-Las medidas correctivas propuestas en el PAC tendrán un plazo de aplicación, considerado:
+8.4 Cabe señalar que las medidas de resolución aplicadas deberán quedar descritas en el Informe final de la actividad.
 
-a) Aplicación de medidas inmediatas para dar solución a errores operacionales.
+## Capítulo 9
 
-b) Quince (15) días corridos para dar solución a los aspectos administrativos.
+PLAN DE ACCIONES CORREC TIVAS
 
-c) Veinte (20) días corridos para dar solución a los aspectos procedimentales.
+9.1 Un plan de acciones correctivas se puede definir como un documento elaborado por la entidad examinada, que indica las acciones implementadas o por implementar para corregir los hallazgos evidenciados en una auditoría, inspección, prueba de seguridad y/o ejercicio de seguridad, ya sea por las actividades de control de calidad o vigilancia desarrolladas por la Autoridad Aeronáutica, así como las actividades de control de calidad internas realizadas por la misma empresa.
 
-d) Sesenta (60) días corridos para la implementar medidas de seguridad cuando éstas no existan.
+9.2 Consecuente con lo anterior, nuestra empresa cuenta con una política para subsanar los hallazgos emanados de las actividades de control de calidad, mediante la elaboración del Plan de Acciones Correctivas, el cual incluye al responsable de implementar las medidas, organización de la empresa responsable del seguimiento, así como el responsable de su validación Anexo F "Plan de Acciones Correctivas".
 
-4.10 Actividades de seguimiento
+9.3 Los planes de acciones correctivas derivados de las actividades de control de calidad desarrollados por Inspectores AVSEC, serán presentados a la Autoridad Aeronáutica dentro de los veinte (20) días hábiles, contados desde la recepción del informe final para su aprobación.
 
-En esta sección se deberán incluir las actividades de seguimiento definidas para cumplir y cerrar los hallazgos.
+9.4 Los planes de acciones correctivas de las actividades internas de control de calidad desarrolladas por la empresa, serán remitidos dentro de los plazos al Representante de la Empresa en el Aeródromo u a otra entidad superior de la empresa para su aprobación. Adicionalmente, las medidas correctivas aplicadas a las actividades internas, estarán dispuestas para consulta por parte de la Autoridad Aeronáutica.
 
-Las actividades de seguimiento consisten en la recepción de evidencias documentales y físicas que permitan tener la certeza del cumplimiento de la normativa aeronáutica, para ello el personal responsable podrá desarrollar:
+9.5 Los plazos definidos para dar solución priorizada a las observaciones, serán conforme a su criticidad de la constatación, definiendo los siguientes plazos para dar solución:
 
-a) Visitas de terreno.
+(a) Aplicación de medidas inmediatas para dar solución a errores operacionales.
 
-b) Análisis y verificación documental.
+(b) Quince (15) días hábiles para dar solución a los aspectos administrativos.
 
-c) Entrevistas.
+(c) Veinte (20) días hábiles para dar solución a los aspectos procedimentales.
 
-Las actividades de seguimiento deberán dar prioridad a las preocupaciones significativas de seguridad calificadas en categoría 5, siendo la entidad examinada responsables de dar solución en el menor tiempo para continuar con las operaciones.
+(d) Sesenta (60) días hábiles para implementar medidas de seguridad cuando éstas no existan.
 
-4.11 Tratamiento de posibles Preocupaciones Significativas de Seguridad
+## Capítulo 10
 
-Los controles críticos de la seguridad de la aviación que considera una SSeC son:
+ACTIVIDADES DE SEGUIMIENTO
 
-a) La inspección y protección contra interferencias no autorizadas a los pasajeros, el equipaje de mano y el equipaje de bodega;
+10.1 Las actividades de vigilancia se definen como el control activo de cumplimiento de las obligaciones en materias de seguridad de la aviación civil por parte de los proveedores de servicios, y su alcance en la industria aeronáutica, con la finalidad de garantizar la eficacia de las normas de seguridad de la aviación civil y del programa de seguridad de nuestra empresa.
 
-b) La seguridad de la carga y el suministro de a bordo;
+10.2 En este sentido, las actividades de seguimiento son realizadas desde el punto de vista externo por la Autoridad Aeronáutica y desde el punto de vista interno por la empresa, las cuales consisten en la recepción y verificación de evidencias documentales y físicas que permitan tener la certeza del cumplimiento de la normativa aeronáutica y de los planes de acciones correctivas; para ello el personal responsable podrá desarrollar las siguientes actividades:
 
-c) El control de acceso a las zonas restringidas y las zonas de seguridad restringida del aeródromo, y
+(a) Visitas de terreno;
 
-d) La seguridad de las aeronaves de salida.
+(b) Análisis y verificación documental; y
 
-La entidad examinada deberá aplicar acciones correctivas inmediatas de solución para continuar con la operación de forma segura, pudiendo consideran, según sea el caso:
+(c) Entrevistas.
 
-### 1. Corrección de las deficiencias
+10.3 Las actividades de seguimiento deberán dar prioridad a las preocupaciones significativas de seguridad calificadas en categoría 5, siendo la Autoridad Aeronáutica y el responsable del presente programa interno de control de calidad, de dar solución en el menor tiempo y asegurar que no ocurra nuevamente la desviación, lo anterior a fin de continuar con las operaciones.
 
-2. Implementación de medidas de seguridad adicionales o complementarias, según corresponda.
+10.4 El registro utilizado para efectuar las actividades de seguimiento se encuentra en el Anexo G "Registro de seguimiento y control".
 
-### 3. Reforzamiento de las medidas de seguridad iniciales
+## Capítulo 11
 
-4. Reinspección de procesos de seguridad aeroportuaria (carga, equipaje, personas, etc.) según corresponda.
+TRATAMIENTO DE POSIBLES PREOCUPACIONES SIGNIFICATIVAS DE SEGURIDAD
 
-### 5. Entre otros
+11.1 Una preocupación significativa de seguridad, es aquella acción que se encuentra ejecutando la empresa, que pone en riesgo inmediato la operación aérea, existiendo una falta de aplicación efectiva de los requisitos mínimos de seguridad definidos o autorizados por la DGAC.
 
-4.12 De los registros
+11.2 Una preocupación significativa de seguridad es un hallazgo categoría 5, sobre el cual la empresa adoptará acciones inmediatas. Por tanto, nuestra empresa deberá asignar alta prioridad a las medidas definitivas, remitiendo un Plan de acciones correctivas a la Autoridad para asegurar el cumplimiento de la norma.
 
-Las entidades que cuentan con un PICC aprobado deberán mantener registros de todas las actividades ejecutadas, incluyendo registro de soluciones, informes a la DGAC, instrucción correctiva, planificación de actividades, entre otros.
+11.3 De igual forma, las preocupaciones significativas detectadas en las actividades de control interno, serán tratadas de forma inmediata con los medios disponibles, sin perjuicio de la gestión de otras medidas adicionales.
+
+11.4 En este sentido, los controles críticos de la seguridad de la aviación que pueden considerar como una preocupación significativa de seguridad, entre los que se consideran los siguientes procesos:
+
+(a) Seguridad a los pasajeros al momento de realizar operación de carguío;
+
+(b) La protección contra interferencias no autorizadas;
+
+(c) La seguridad de la carga y el suministro de a bordo;
+
+(d) El control de acceso a las zonas restringidas y las zonas de seguridad restringida del aeropuerto; y
+
+(e) La seguridad de las aeronaves de salida.
+
+11.5 La empresa aplicará acciones correctivas inmediatas de solución para continuar con la operación de forma segura, pudiendo considerar, según sea el caso, las siguientes acciones, entre otras:
+
+(a) Corrección de las deficiencias.
+
+(b) Implementación de medidas de seguridad adicionales o complementarias, según corresponda.
+
+(c) Reforzamiento de las medidas de seguridad iniciales.
+
+(d) Reinspección de procesos de seguridad aeroportuaria según corresponda.
+
+(e) Elaboración de procedimientos o aumento en el nivel de detalle de los mismos.
+
+(f) Otras que el representante o coordinador de seguridad estime pertinentes.
+
+### III. INSTRUCTIVO APLICACIÓN DE PRUEBAS DE SEGURIDAD
+
+Las entidades externas interesadas en desarrollar ejercicios y pruebas de seguridad establecidos en sus Programas Internos de Control de Calidad, deberán proceder de la siguiente forma:
+
+### 1. Etapa de Planificación
+
+Las Pruebas de Seguridad y Ejercicios de Seguridad deberán ser coordinados y autorizados por la autoridad aeroportuaria antes de su ejecución, para lo cual, el encargado de la entidad de la aplicación de la actividad de control de calidad tomará contacto con el Jefe de seguridad de la Unidad, informará la fecha y el alcance que se pretende dar, el que debe ser concordante con la planificación establecida en el Anexo "A" de su PICC; cabe señalar que esta evaluación debe considerar la vulneración de uno o varios procedimientos de seguridad, establecidos en su PSE o PCA o en la Normativa aeronáutica.
+
+Considerar el escenario y protocolo de la actividad, que consiste en una prueba no anunciada, provista de elementos o artículos Prohibidos/Restringidos. Cabe señalar que la empresa deberá establecer la modalidad de resguardo de sus elementos de prueba, posterior a la actividad.
+
+Deberá presentar los requisitos a evaluar en el Anexo "C" Lista de Verificación, establecido en su PICC, lo anterior, para ser utilizada como instrumento de apoyo y guía durante el proceso, a fin de ajustar y orientar respecto de lo planificado y entregar un muestreo del nivel de eficacia de los procedimientos de seguridad que desarrolle la entidad conforme al rubro.
+
+### 2. Etapa de Ejecución
+
+El encargado de la entidad evaluadora ya habiendo alertado de manera previa a la jefatura de su empresa, dará inicio a la actividad.
+
+Además, durante la ejecución de la actividad de control de calidad, supervisará la prueba, a fin de mantener los lineamientos establecidos y aprobados para su ejecución.
+
+Conforme los resultados, entregará al personal evaluado las observaciones resultantes de la actividad, puede darse la instancia que el resultado requiera medidas de resolución inmediata, conforme a lo descrito en el Capítulo 8 de su PICC, para lo cual deberá aplicar medidas correctivas correspondientes.
+
+### 3. Etapa de Finalización
+
+Posterior al término de la actividad, el encargado de la actividad de control de calidad de la entidad informará de esto al Jefe de seguridad de la Unidad, informando del resultado de esta, procederá a formalizar el resultado a través del Anexo "E" Informe Final, el que deberá incluir todos los antecedentes y la mayor cantidad de evidencia de la actividad (fotos, registros, documentos, etc.).
+
+Ante un resultado insatisfactorio de la actividad, la entidad debe establecer las medidas correctivas que deben implantarse a través de un Plan de Acciones Correctivas, el que puede considerar, instrucción del personal de seguridad involucrado en fallo, revisión de los procedimientos operacionales aplicados u otros aspectos detectados en la evaluación.
+
+. Realizar las medidas de seguimiento correspondientes para garantizar la aplicación eficaz de las medidas correctivas, conforme a la metodología establecida en su PICC.
+
+. Finalmente, la empresa deberá remitir el expediente completo de la actividad de control de calidad realizada al DASA, a fin de evidenciar la aplicación de su PICC, dejando respaldo de esto para futuras actividades de control de calidad a realizar por la DGAC.
+
+### IV. ANEXOS
+
+A. Programa Anual de Actividades de Control de Calidad.
+
+B. Plan de Inspección o Control de Calidad.
+
+C. Lista de Verificación.
+
+D. Registros de reunión de apertura y clausura.
+
+E. Informe Final.
+
+F. Plan de Acciones Correctivas.
+
+G. Registro de Seguimiento y Control.
+
+H. Otros registros que la empresa determine necesarios.
+
+REGISTROS DE LAS ACTIVIDADES DE CONTROL DE CALIDAD
+
+De acuerdo a lo establecido en el programa nacional de control de calidad de la seguridad de aviación civil, nuestra empresa mantendrá los registros relacionados a las actividades de control de calidad realizadas por la autoridad aeronáutica, así como de aquellas actividades internas realizadas por la empresa.
+
+Los registros que la empresa conservará para ser evidenciados ante inspectores fiscalizadores AVSEC o inspectores gubernamentales contempla los registros de solución de problemas, informes a la autoridad aeronáutica, plan de acciones correctivas, planificación de actividades, entre otros.
+
+Los registros y evidencias serán mantenidos por nuestra empresa por un período de 5 años.
+
+### V. APROBACIÓN Y VIGENCIA
+
+El presente programa es aprobado por la Autoridad Aeronáutica y tendrá una vigencia de dos años, fecha en la cual se efectuarán los ajustes y correcciones pertinentes.
+
+Sin perjuicio de lo anterior, podrá sufrir modificaciones derivadas de los procesos de control de calidad que ejecutan Inspectores Fiscalizadores AVSEC o Inspectores Gubernamentales o conforme a los cambios normativos dispuestos por la DGAC.
+
+Las modificaciones y/o enmiendas serán sometidas a revisión y aprobación por parte de la Autoridad Aeronáutica.
+
+ANEXO A
+
+PLANIFICACIÓN ANUAL DE ACTIVIDADES DE CONTROL DE CALIDAD
+
+ANEXO B
+
+PLAN DE INSPECCIÓN O AUDITORÍA
+
+ANEXO C
+
+LISTA DE VERIFICACIÓN
+
+ANEXO D
+
+REUNIÓN DE APERTURA Y CLAUSURA
+
+ANEXO E
+
+INFORME FINAL
+
+ANEXO F
+
+PLAN DE ACCIONES CORRECTIVAS
+
+ANEXO G
+
+REGISTRO DE SEGUIMIENTO Y CONTROL
+
+El numeral 25 de la Resolución 114, Defensa, publicado el 20.08.2024, modifica la presente norma en el sentido de eliminar en los numerales 8.4.1, 8.4.2 y 8.4.3 la expresión "control jerárquico", sin embargo, mantiene en su texto la letra "y" posterior a la frase que ordena eliminar, quedando con error de redacción los citados numerales.
+
+> **Nota.** El numeral 2 de la Resolución 114, Defensa, publicada el 20.08.2024, modifica la presente norma en el sentido de incorporar en el literal e) de la sección 2.2, el texto "componente de", posterior a la preposición "del", sin embargo, no se encuentra disponible en su texto la palabra "del", por esta razón que no se genera el texto actualizado en el citado literal.
+
+> **Nota.** NOTA 1 El numeral 6 de la Resolución 114, Defensa, publicado el 20.08.2024, dispone incorporar nuevos literales g) y h) en la sección 2.3 del capitulo 2 Generalidades, sin embargo, no indica su texto, es por esta razón que no se genera el texto actualizado de los mencionados literales.
+
+> **Nota.** NOTA 2 El numeral 25 de la Resolución 114, Defensa, publicado el 20.08.2024, modifica la presente norma en el sentido de eliminar en los numerales 8.4.1, 8.4.2 y 8.4.3 la expresión "control jerárquico", sin embargo, mantiene en su texto la letra "y" posterior a la frase que ordena eliminar, quedando con error de redacción los citados numerales.
