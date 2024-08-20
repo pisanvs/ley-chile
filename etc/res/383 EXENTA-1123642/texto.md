@@ -34,15 +34,7 @@ a) Camila Javiera Johanna Lagos López, cédula de identidad 19.684.759-6, grado
 
 b) Felipe Maximiliano López Berríos, cédula de identidad 18.367.622-9, grado 22 de la EUS, Administrativo.
 
-a) Teresa del Pilar Ibarra Mellado, cédula de identidad Nº 10.845.919-0, Oficial Civil Adjunto 1, grado 14º de la EUS, Administrativo.
-
-b) Christian Andrés Figueroa López, cédula de identidad Nº 13.349.965-2, Oficial Civil Adjunto 2, grado 20º de la EUS, Administrativo.
-
-c) Bárbara Constanza Fuenzalida Berenguela, cédula de identidad Nº 19.743.456-2, Oficial Civil Adjunto 3, grado 22º, Administrativo.
-
 2.- Déjase sin efecto la resolución exenta Nº 311 "Delega facultad de apostillar, en los funcionarios que indica", de fecha 30 de agosto de 2016.
-
-> **Nota.** La Resolución 292 Exenta, Justicia, publicada el 20.08.2024 en su numeral 1 ordena la incorporación de dos nuevos funcionarios en ella individualizados, en la presente norma. Sin embargo, el numeral 1 de la Resolución 323 publicada el 02.09.2024 dispone incorporar 3 nuevos funcionarios a la presente norma y el numeral 4 deja sin efecto la mencionada Resolución 292, es por esta razón que se mantienen en su texto las dos designaciones efectuadas por esta última.
 
 Anótese, publíquese.- Jorge Álvarez Vásquez, Director Nacional.
 
