@@ -66,7 +66,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11º
 
-El plazo de construcción de las obras, desde el inicio de los trabajos hasta la terminación total de las obras será de 8 meses. El plazo de 8 meses comenzará a transcurrir cumplidos 90 días hábiles desde la reducción a escritura pública del presente decreto, sin perjuicio que los trabajos podrán iniciarse con anterioridad a dicha fecha, en el evento de contar con todas las autorizaciones y derechos que habiliten para ello. Los plazos para la iniciación de los trabajos y su terminación por etapas y secciones son los siguientes:
+El plazo de construcción de las obras, desde el inicio de los trabajos hasta la terminación total de las obras será de 35 meses. El plazo de 35 meses comenzará a transcurrir cumplidos 90 días hábiles desde la reducción a escritura pública del presente decreto, sin perjuicio que los trabajos podrían iniciarse con anterioridad a dicha fecha, en el evento de contar con todas las autorizaciones y derechos que habiliten para ello. Los plazos para la iniciación de los trabajos y su terminación por etapas y secciones son los siguientes:
 
 #### Artículo 12º
 
