@@ -184,8 +184,6 @@ CAPÍTULO 1 Zonificación, Usos de Suelo y Normas Específicas
 
 Las normas específicas para el tratamiento de las zonas contenidas en el Cuadro 2 se establecen en los artículos siguientes:
 
-.
-
 #### Artículo 21
 
 ZU-RÍO-6: ZONA DE RESTRICCIÓN POR INUNDACIÓN
