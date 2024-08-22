@@ -1,4 +1,4 @@
-APRUEBA NORMA TÉCNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 3,30 - 3,40 GHz Y 3,60 - 3,65 GHz
+APRUEBA NORMA TÉCNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 3,30 - 3,65 GHz
 
 Núm. 547 exenta.- Santiago, 26 de marzo de 2020.
 
@@ -22,15 +22,15 @@ a) Que la Subsecretaría de Telecomunicaciones tiene la atribución de promover 
 
 b) Que con motivo de la Conferencia Mundial de Radiocomunicaciones del año 2019 (CMR-19) se modificó la nota al cuadro de atribuciones de frecuencias, agregando a Chile en la lista de países que atribuyó la banda 3.300-3.400 MHz a título primario para el servicio móvil, excluido el móvil aeronáutico.
 
-c) Que los desarrollos tecnológicos actuales permiten que los usuarios finales accedan a servicios de telecomunicaciones de gran calidad y disponibilidad a través de redes inalámbricas implementadas mediante técnicas de uso altamente eficiente del espectro radioeléctrico. Así ocurre con las bandas de frecuencias 3,30 - 3,40 GHz y 3,60 - 3,65 GHz, por lo que existe la necesidad de regular el uso de estos segmentos de frecuencias radioeléctricas por parte de los servicios públicos o intermedios de telecomunicaciones.
+c) Que los desarrollos tecnológicos actuales permiten que los usuarios finales accedan a servicios de telecomunicaciones de gran calidad y disponibilidad a través de redes inalámbricas implementadas mediante técnicas de uso altamente eficiente del espectro radioeléctrico. Así ocurre con las bandas de frecuencias 3,30 - 3,65 GHz, por lo que existe la necesidad de regular el uso de estos segmentos de frecuencias radioeléctricas por parte de los servicios públicos o intermedios de telecomunicaciones.
 
 Resuelvo:
 
-Apruébase la norma técnica para el uso de las bandas de frecuencias 3,30 - 3,40 GHz y 3,60 - 3,65 GHz por los servicios públicos o intermedios de telecomunicaciones en la forma que se indica.
+Apruébase la norma técnica para el uso de las bandas de frecuencias 3,30 - 3,65 GHz por los servicios públicos o intermedios de telecomunicaciones en la forma que se indica.
 
 #### Artículo 1º
 
-Las autorizaciones para el uso y goce de las frecuencias de las bandas de frecuencias 3,30 - 3,40 GHz y 3,60 - 3,65 GHz se hará por medio de concesiones de servicios públicos o intermedios de telecomunicaciones que otorgue el Ministerio de Transportes y Telecomunicaciones, en adelante "el Ministerio", a través de uno o más concursos públicos llevados a cabo para dicho efecto.
+Las autorizaciones para el uso y goce de las frecuencias de las bandas de frecuencias 3,30 - 3,65 GHz se hará por medio de concesiones de servicios públicos o intermedios de telecomunicaciones que otorgue el Ministerio de Transportes y Telecomunicaciones, en adelante "el Ministerio", a través de uno o más concursos públicos llevados a cabo para dicho efecto.
 
 Las concesiones que utilicen estas bandas deberán brindar servicio conforme a la atribución efectuada por el Plan General de Uso del Espectro Radioeléctrico, aprobado mediante el acto citado en el literal c) de los vistos.
 
@@ -48,9 +48,9 @@ La operación y explotación de estas redes se efectuará en modo TDD (Time Divi
 
 #### Artículo 5º
 
-Las emisiones de radio que efectúen los concesionarios deberán estar contenidas en las bandas de frecuencias que se autoricen, con exclusión de los límites de ellas.
+Las emisiones de radio que efectúen las concesionarias deberán estar contenidas en la respectiva banda de frecuencias autorizada, con exclusión de los límites de dicha banda, siendo obligación de las concesionarias tomar las medidas del caso para no causar interferencias.
 
-Los futuros asignatarios de frecuencias en las bandas de frecuencias 3,30 - 3,40 GHz y 3,60 - 3,65 GHz deberán coordinarse con otros usuarios preexistentes en bandas adyacentes para efectos de eliminar las eventuales interferencias que se produzcan en sus emisiones. A falta de acuerdo, la Subsecretaría resolverá la controversia mediante el uso de la plenitud de las facultades legales que le asisten.
+En caso de eventuales interferencias, las respectivas concesionarias deberán coordinarse, en primera instancia directamente entre ellas, para efectos de eliminarlas.
 
 #### Artículo 6º
 
