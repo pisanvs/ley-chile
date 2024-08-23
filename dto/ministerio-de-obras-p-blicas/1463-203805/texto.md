@@ -50,6 +50,12 @@ Límite Regional (Río Loa), desde el límite urbano Norte hasta el límite urba
 
 Av. Matta y Bilbao.
 
+MEJILLONES:
+
+* El circuito vial urbano Acceso Norte y Sur a Mejillones; a través de: Vía 272 (Acceso Ruta 1 CH), Avenida Fertilizantes, Primera Industrial, Costanera Oriente, Quinta Industrial, calle Puerto 1 y calle Sin Nombre 2.
+
+* Acceso al Puerto de Mejillones, desde el Puerto hasta límite urbano oriente; a través de: calle Ruta B-262 y calle Vía B-262.
+
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Obras Públicas y Transportes y Telecomunica-ciones.
