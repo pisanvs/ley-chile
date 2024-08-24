@@ -64,15 +64,15 @@ e) Audiencia o reunión: Acto de oír en el cual un sujeto pasivo de lobby recib
 
 Sujetos pasivos de lobby y gestión de intereses particulares. Son sujetos pasivos de lobby conforme a la ley Nº 20.730 y a este reglamento quienes se desempeñen, ya sea como titulares, suplentes, subrogantes o transitorios provisionales, en los siguientes cargos:
 
-a. Ministros, Subsecretarios, Jefes de servicios, Directores regionales de los servicios públicos, Intendentes y Gobernadores, Secretarios Regionales Ministeriales y Embajadores. Asimismo cualquiera sea su forma de contratación, los jefes de gabinete de las personas individualizadas en este literal, si los tuvieren.
+a. Ministros, Subsecretarios, Jefes de servicios, Directores regionales de los servicios públicos, los delegados presidenciales regionales, los delegados presidenciales provinciales, los gobernadores regionales, Secretarios Regionales Ministeriales y Embajadores. Asimismo cualquiera sea su forma de contratación, los jefes de gabinete de las personas individualizadas en este literal, si los tuvieren.
 
 b. Consejeros regionales, Alcaldes, Concejales, Secretarios ejecutivos de los Consejos regionales, Directores de obras municipales y Secretarios municipales.
 
-c. Comandantes en Jefe de las Fuerzas Armadas, Director General de la Policía de Investigaciones de Chile, General Director de Carabineros de Chile, Jefe y Subjefe del Estado Mayor Conjunto y los encargados de las adquisiciones de las Fuerzas Armadas y de Orden y Seguridad Pública. En el caso de los encargados de adquisiciones, anualmente y mediante resolución del jefe superior de la institución respectiva, se individualizarán los funcionarios que ocupen dicho cargo.
+c. En la Fuerzas Armadas y de Orden y Seguridad Pública, los Oficiales Generales, Jefe y Subjefe del Estado Mayor Conjunto y los encargados de las adquisiciones de las Fuerzas Armadas y de Orden y Seguridad Pública. En el caso de los encargados de adquisiciones, anualmente y mediante resolución del jefe superior de la institución respectiva, se individualizarán los funcionarios que ocupen dicho cargo.
 
 d. Consejeros del Consejo de Defensa del Estado, del Consejo Directivo del Servicio Electoral, del Consejo para la Transparencia, del Consejo de Alta Dirección Pública, del Consejo Nacional de Televisión, y del Instituto Nacional de Derechos Humanos.
 
-e. Integrantes de los Paneles de Expertos creados en la ley Nº 19.940 y en la ley Nº 20.378, del Panel Técnico creado por la ley Nº 20.410 y de las Comisiones Evaluadoras formadas en el marco de la ley Nº 19.886, sólo en lo que respecta al ejercicio de sus funciones y mientras integren esas Comisiones.
+e. Integrantes de los Paneles de Expertos creados en la ley Nº 19.940 y en la ley Nº 20.378, del Panel Técnico creado por la ley Nº 20.410 y de las Comisiones Evaluadoras formadas en el marco de la ley Nº 19.886, sólo en lo que respecta al ejercicio de sus funciones y mientras integren esas Comisiones, así como también los integrantes del Consejo del Fondo Plurianual para las Capacidades Estratégicas de la Defensa, sólo en lo concerniente al ejercicio de sus funciones.
 
 #### Artículo 5º
 
