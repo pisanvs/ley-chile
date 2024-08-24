@@ -2594,7 +2594,7 @@ quinquies I.- La Dirección del Trabajo fiscalizará, dentro del ámbito de su c
 
 ## Título III
 
-Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad
+Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
 
 ## Capítulo I
 
@@ -2626,7 +2626,7 @@ El reglamento interno deberá contener, a lo menos, las siguientes disposiciones
 
 6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
 
-7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores, y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado;
+7.- las normas especiales que correspondan a las diversas clases de faenas o actividades, de acuerdo con la edad, sexo, género o ubicación geográfica de los trabajadores y trabajadoras; y las medidas de accesibilidad, realización de ajustes necesarios y prevención de conductas de acoso hacia los trabajadores o trabajadoras con discapacidad y/o asignatarios de una pensión de invalidez;
 
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 
@@ -2670,7 +2670,7 @@ Las multas serán destinadas a incrementar los fondos de bienestar que la empres
 
 ## Capítulo II
 
-De la Inclusión Laboral de Personas con Discapacidad
+De la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
 
 #### Artículo 157 bis
 
@@ -2686,13 +2686,19 @@ Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscri
 
 #### Artículo 157 ter
 
-Las empresas que, por razones fundadas, no puedan cumplir total o parcialmente la obligación establecida en el inciso primero del artículo anterior, deberán darle cumplimiento en forma alternativa, ejecutando alguna de las siguientes medidas:
+Las empresas que, por razones fundadas, no puedan cumplir total o parcialmente la obligación establecida en el inciso primero del artículo anterior, deberán darle cumplimiento en forma subsidiaria, ejecutando alguna de las siguientes medidas:
 
-a) Celebrar contratos de prestación de servicios con empresas que tengan contratadas personas con discapacidad.
+a) Celebrar contratos de prestación de servicios con empresas que tengan contratadas personas con discapacidad y/o asignatarios de una pensión de invalidez.
+
+Para cumplir la obligación legal de contratación se requiere que las personas con discapacidad y/o asignatarios de una pensión de invalidez contratadas, de cualquier régimen previsional, presten servicios de manera efectiva para la empresa principal. De esta forma, para determinar el cumplimiento de la obligación de contratación que tiene la empresa principal se deberá sumar el número de personas con discapacidad y/o asignatarios de una pensión de invalidez, que presten servicios de forma efectiva, a través de esta alternativa, y las contratadas de forma directa.
+
+Las empresas que presten servicios a las empresas obligadas deberán registrar los contratos de las personas con discapacidad y/o asignatarias de una pensión de invalidez, en el registro establecido en el artículo 157 bis.
+
+Las personas con discapacidad y/o asignatarias de una pensión de invalidez, de cualquier régimen previsional, contratadas por empresas que presten servicios y que sean, a su vez, empresas obligadas al cumplimiento de la reserva establecida en el artículo 157 bis, sólo podrán ser consideradas para el cumplimiento subsidiario de otras empresas obligadas por los contratos que excedan del número de trabajadores exigido para su propio cumplimiento.
 
 b) Efectuar donaciones en dinero a proyectos o programas de asociaciones, corporaciones o fundaciones a las que se refiere el artículo 2 de la ley N° 19.885.
 
-Sólo se considerarán razones fundadas aquellas derivadas de la naturaleza de las funciones que desarrolla la empresa o la falta de personas interesadas en las ofertas de trabajo que se hayan formulado.
+Sólo se considerarán razones fundadas aquellas derivadas de la naturaleza de las funciones que desarrolla la empresa o la falta de personas interesadas en las ofertas de trabajo que se hayan formulado. No se considerará que existe razón fundada derivada de la naturaleza de las funciones que desarrolla la empresa, la sola invocación de su giro.
 
 El monto anual de los contratos celebrados de conformidad a la letra a) de este artículo no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales respecto de cada trabajador que debía ser contratado por la empresa.
 
@@ -2700,23 +2706,35 @@ Las donaciones establecidas en la letra b) de este artículo deberán sujetarse 
 
 1.- Estas donaciones no darán derecho a los créditos y beneficios tributarios establecidos en los artículos 1 y 1 bis. Sin embargo, para efectos de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1 del decreto ley N° 824, de 1974, tendrán la calidad de gasto necesario para producir la renta de acuerdo a lo establecido en el artículo 31 del referido cuerpo legal.
 
-2.- Las donaciones deberán dirigirse a proyectos o programas de asociaciones, corporaciones o fundaciones cuyo objeto social incluya la capacitación, rehabilitación, promoción y fomento para la creación de empleos, contratación o inserción laboral de las personas con discapacidad.
+2.- Las donaciones deberán dirigirse a proyectos o programas que tengan por objeto la inclusión laboral, la intermediación laboral, la capacitación, rehabilitación, promoción y fomento para la creación de empleos, la contratación o inserción laboral de las personas con discapacidad, presentados por asociaciones, corporaciones o fundaciones que establezcan uno o más de dichos fines en su objeto social. Asimismo, las donaciones podrán dirigirse a proyectos o programas presentados por iguales organizaciones, que tengan por objeto alguno de los señalados anteriormente y busquen mejorar la calidad u oportunidades de vida de personas con discapacidad, con inclusión de aquellas con discapacidad severa o profunda, así como el apoyo para mejorar las condiciones de empleabilidad, el desarrollo de ocupaciones u oficios o el ejercicio de actividades como trabajadores independientes.
 
-3.- Las donaciones no podrán efectuarse a instituciones en cuyo directorio participe el donante, su cónyuge, su conviviente civil o sus parientes ascendientes o descendientes hasta el tercer grado de consanguinidad. En caso que el donante sea una persona jurídica, no podrá efectuar donaciones a instituciones en cuyo directorio participen sus socios o directores o los accionistas que posean el 10% o más del capital social, o los cónyuges, convivientes civiles o parientes ascendientes o descendientes hasta el tercer grado de consanguinidad de dichos socios, directores o accionistas.
+3.- Las donaciones no podrán efectuarse a instituciones en cuyo directorio participe el donante, su cónyuge, su conviviente civil o sus parientes ascendientes o descendientes hasta el tercer grado de consanguinidad o afinidad. En caso de que el donante sea una persona jurídica, no podrá efectuar donaciones a instituciones en cuyo directorio participen sus socios, directores, administradores, gerentes, ejecutivos principales o los accionistas que posean el 10% o más del capital social, o los cónyuges, convivientes civiles o parientes ascendientes o descendientes hasta el tercer grado de consanguinidad o afinidad de dichos socios, directores administradores, gerentes, ejecutivos principales o accionistas.
 
 4.- El monto anual de las donaciones efectuadas no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales ni superior a doce veces el límite máximo imponible establecido en el artículo 16 del decreto ley Nº 3.500, de 1980, respecto de cada trabajador que debía ser contratado por la empresa.
 
 5.- No se aplicará a las donaciones a que se refiere esta ley el límite global absoluto establecido en el artículo 10.
 
-Las empresas que ejecuten alguna de las medidas señaladas en las letras a) y b) de este artículo deberán remitir una comunicación electrónica a la Dirección del Trabajo, con copia a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social, al Servicio Nacional de la Discapacidad y al Servicio de Impuestos Internos. La empresa deberá indicar en esta comunicación la razón invocada y la medida adoptada. Esta comunicación deberá ser efectuada durante el mes de enero de cada año y tendrá una vigencia de doce meses.
+6.- Las empresas obligadas no podrán destinar más del 50% de los recursos que deban donar a una única organización de aquellas inscritas en el Registro de Donatarios a las que se refiere el artículo 2° de la ley N° 19.885. Adicionalmente, los recursos que donen deberán destinarse, al menos, a un proyecto o programa a ejecutar en una región distinta de la Región Metropolitana, en la cual, la institución ejecutora deberá tener domicilio acreditable.
+
+A efectos de acreditar el cumplimiento de dicha última obligación, las instituciones donatarias que reciban recursos para ejecutar proyectos o programas fuera de la Región Metropolitana, deberán extender el certificado N° 60 dispuesto por el Servicio de Impuestos Internos o el documento que lo reemplace, y entregarlo al empleador donante, precisando en este documento el nombre del proyecto o programa al que se destinarán los recursos, región y plazo en que se ejecutará y domicilio de la donataria en dicha región. En todo caso, el domicilio consignado por la institución donataria en el certificado N° 60 o el documento que lo reemplace, deberá concordar con el que figura inscrito en el Registro de Donatarios de la ley N° 19.885.
+
+Las empresas obligadas que utilicen esta medida subsidiaria deberán adjuntar el certificado N° 60 o el documento que lo reemplace a la comunicación electrónica referida en el inciso final de este artículo.
+
+Las empresas que ejecuten alguna de las medidas de cumplimiento subsidiario señaladas en las letras a) y b) de este artículo deberán remitir una comunicación electrónica a la Dirección del Trabajo, con copia a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social, al Servicio Nacional de la Discapacidad y al Servicio de Impuestos Internos. La empresa deberá indicar en esta comunicación la razón invocada y la medida adoptada. Esta comunicación deberá ser efectuada durante el mes de enero de cada año y tendrá una vigencia de doce meses.
+
+El reglamento a que hace referencia el inciso final del artículo 157 bis determinará el contenido de la comunicación electrónica que deberán remitir las empresas de conformidad al inciso anterior. Asimismo, establecerá los objetivos, requisitos y características que deberán cumplir los proyectos y programas de asociaciones, corporaciones o fundaciones para percibir las donaciones conforme a lo establecido en el literal b) del inciso primero.
 
 #### Artículo 157 quáter
 
 Al menos uno de los trabajadores que se desempeñe en funciones relacionadas con recursos humanos dentro de las empresas contempladas en el supuesto del artículo 157 bis deberá contar con conocimientos específicos en materias que fomenten la inclusión laboral de las personas con discapacidad. Se entenderá que tienen estos conocimientos los trabajadores que cuenten con una certificación al respecto, otorgada por el Sistema Nacional de Certificación de Competencias Laborales establecido en la ley N° 20.267.
 
-Las empresas señaladas en el inciso anterior deberán promover en su interior políticas en materias de inclusión, las que serán informadas anualmente a la Dirección del Trabajo, de conformidad al reglamento a que se refiere el inciso final del artículo 157 bis. También deberán elaborar y ejecutar anualmente programas de capacitación de su personal, con el objeto de otorgarles herramientas para una efectiva inclusión laboral dentro de la empresa.
+Las empresas señaladas en el inciso anterior deberán promover en su interior políticas en materias de inclusión, las que serán informadas anualmente a la Dirección del Trabajo, de conformidad al reglamento a que se refiere el inciso final del artículo 157 bis. También deberán elaborar y ejecutar anualmente programas de capacitación de su personal, con el objeto de otorgarles herramientas para una efectiva inclusión laboral dentro de la empresa, y proporcionar un protocolo de ambientes laborales acordes a los parámetros establecidos en la ley N° 20.422, el que deberá ser entregado anualmente a las personas trabajadoras.
 
 Las actividades realizadas durante la jornada de trabajo o fuera de ella deberán considerar las normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad a que se refiere la ley N° 20.422, como también los principios generales contenidos en las demás normas vigentes sobre la materia.
+
+#### Artículo 157
+
+quinquies.- Las empresas sujetas a la obligación establecida en el artículo 157 bis deberán realizar los ajustes necesarios para adecuar sus mecanismos, procedimientos y prácticas de reclutamiento y selección de personal, en todo cuanto se requiera, para resguardar la igualdad de oportunidades de las personas con discapacidad que participen en ellos, de conformidad a lo dispuesto en el artículo 24 de la ley N° 20.422.
 
 ## Título IV
 

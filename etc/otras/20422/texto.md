@@ -140,7 +140,7 @@ Calificación y certificación de la discapacidad
 
 Corresponderá a las Comisiones de Medicina Preventiva e Invalidez (COMPIN), dependientes del Ministerio de Salud y a las instituciones públicas o privadas, reconocidas para estos efectos por ese Ministerio, calificar la discapacidad.
 
-El proceso de calificación de la discapacidad asegurará una atención interdisciplinaria a cada persona que requiera ser calificada.
+El proceso de calificación de la discapacidad asegurará una atención interdisciplinaria a cada persona que requiera ser calificada, centrando su análisis en los obstáculos, dificultades o barreras que el entorno le generen para participar en forma plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
 
 Para los efectos de esta ley, las comisiones de medicina preventiva e invalidez se integrarán, además, por un sicólogo, un fonoaudiólogo, un asistente social, y un educador especial o diferencial, un kinesiólogo o un terapeuta ocupacional, según el caso. Asimismo, cuando fuere pertinente, se integrarán uno o más especialistas, de acuerdo a la naturaleza de la discapacidad y a las circunstancias particulares de las personas sometidas a ellas.
 
@@ -404,9 +404,19 @@ En las instituciones a que se refiere el inciso anterior, que tengan una dotaci�
 
 En el caso de las Fuerzas Armadas, de las Fuerzas de Orden y Seguridad Pública y de Gendarmería de Chile, la obligación establecida en el inciso anterior considerará sólo a su personal civil.
 
-El jefe superior o jefatura máxima del órgano, servicio o institución correspondiente deberá adoptar las medidas necesarias para el cumplimiento de la obligación a que se refiere el inciso segundo. En caso que no sea posible su cumplimiento total o parcial, las entidades antes señaladas deberán remitir un informe fundado a la Dirección Nacional del Servicio Civil y al Servicio Nacional de la Discapacidad, explicando las razones para ello. Sólo se considerarán razones fundadas aquellas relativas a la naturaleza de las funciones que desarrolla el órgano, servicio o institución, no contar con cupos disponibles en la dotación de personal y la falta de postulantes que cumplan con los requisitos respectivos.
+El jefe superior o jefatura máxima del órgano, servicio o institución correspondiente deberá adoptar las medidas necesarias para el cumplimiento de las obligaciones a que se refiere el inciso primero y segundo. Asimismo, deberá:
 
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por los ministros de Hacienda y de Desarrollo Social, establecerá para los órganos de la Administración del Estado indicados en el inciso primero, los parámetros, procedimientos y demás elementos necesarios para dar cumplimiento a las obligaciones consignadas en este artículo o para justificar su excusa.
+a) Disponer que al menos uno de los funcionarios o funcionarias que desempeñen labores relacionadas a la gestión y desarrollo del personal, cuente con conocimientos específicos sobre inclusión laboral de personas con discapacidad. Se entenderá que tienen estos conocimientos los funcionarios y las funcionarias que cuenten con una certificación otorgada en conformidad a la ley N° 20.267, que crea el Sistema Nacional de Certificación de Competencias Laborales y perfecciona el Estatuto de Capacitación y Empleo.
+
+b) Considerar, en la política de personal del respectivo órgano, servicio o institución, lineamientos para la inclusión laboral de personas con discapacidad, las que serán informadas anualmente a la Dirección Nacional del Servicio Civil, según lo establecido en el reglamento a que se refiere el inciso quinto de este artículo.
+
+c) Informar a la Dirección Nacional del Servicio Civil y al Servicio Nacional de la Discapacidad sobre el cumplimiento de la ley N° 21.015, que incentiva la inclusión de personas con discapacidad al mundo laboral, especialmente de las obligaciones de selección preferente y de reserva legal establecidas en los incisos primero y segundo, respectivamente. Tratándose de esta última obligación, y en caso de que no sea posible su cumplimiento total o parcial, deberá remitir un informe fundado a la Dirección Nacional del Servicio Civil y al Servicio Nacional de la Discapacidad, explicando las razones para ello.
+
+Sólo se considerarán razones fundadas aquellas relativas a la naturaleza de las funciones que desarrolla el órgano, servicio o institución; no contar con cupos disponibles en la dotación de personal y la falta de postulantes que cumplan con los requisitos respectivos. No se considerará que existe razón fundada derivada de la naturaleza de las funciones que desarrolla el órgano, servicio o institución la sola invocación del cumplimiento de sus labores habituales por las que fuere creado.
+
+d) Velar por la publicación en las páginas web institucionales del respectivo órgano, servicio o institución el o los informes previstos en el literal c), según corresponda, en los términos que establecen las normas sobre transparencia activa contenidas en el reglamento a que se refiere el inciso final de este artículo.
+
+Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por los ministros de Hacienda y de Desarrollo Social y Familia, establecerá para los órganos de la Administración del Estado indicados en el inciso primero, los parámetros, procedimientos y demás elementos necesarios para dar cumplimiento a las obligaciones consignadas en este artículo o para justificar su excusa.
 
 En el caso del Congreso Nacional, el Poder Judicial, el Ministerio Público, la Contraloría General de la República, el Banco Central, el Tribunal Constitucional, las Fuerzas Armadas, las Fuerzas de Orden y Seguridad Pública, el Servicio Electoral, la Justicia Electoral y demás tribunales especiales creados por ley, serán sus propios órganos quienes deberán dictar las normas necesarias para dar cumplimiento a las disposiciones de este artículo. En estas instituciones, cuando la dotación máxima de personal se consulte en la Ley de Presupuestos del Sector Público o en alguna otra norma en particular, se estará a la dotación máxima fijada en ella.
 
@@ -424,11 +434,11 @@ De las exenciones arancelarias
 
 #### Artículo 48
 
-Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº17.238.
+Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº 17.238.
 
-Los vehículos a que serefiere el inciso primero no podrán tener un valor FOB superior a US$ 30.903,93.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 36.524,32.- Dichas cantidades se actualizarán anualmente.
+Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 41.722,53.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 49.310,45.- Dichas cantidades se actualizarán anualmente.
 
-Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 53.381,63.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
+Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 72.069,3.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
 
 Los vehículos que se importen mediante la franquicia establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
 
@@ -436,7 +446,7 @@ Las cantidades en dólares establecidas en el presente artículo se actualizará
 
 Las personas jurídicas sin fines de lucro, que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad podrán impetrar los beneficios establecidos en este artículo, para importar vehículos destinados exclusivamente al transporte de personas con discapacidad que ellas atiendan en el cumplimiento de sus fines.
 
-> **Nota.** El Decreto N° 298, Hacienda, publicado el 07.07.2020, dispone mantener, a contar del 1 de enero de 2020, las cantidades en dólares señaladas en el presente artículo, de acuerdo a lo establecido en el decreto supremo Nº 1.741, de 2017, del Ministerio de Hacienda.
+> **Nota.** El Decreto N° 101, Hacienda, publicado el 11.04.2024, dispone mantener, a contar del 1 de enero de 2024, las cantidades en dólares a que se refieren los incisos segundo y tercero del presente artículo, de acuerdo a lo establecido en el decreto supremo Nº 2271, de 15 de diciembre de 2022, del Ministerio de Hacienda.
 
 #### Artículo 49
 

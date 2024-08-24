@@ -96,7 +96,7 @@ Las empresas que ejecuten alguna de las medidas señaladas en las letras a) y b)
 
 #### Artículo 4
 
-Los ministerios del Trabajo y Previsión Social y de Desarrollo Social deberán evaluar conjuntamente los resultados de la implementación de esta ley cada cuatro años, y deberán informar de ello a la Comisión de Trabajo y Previsión Social del Senado y a la Comisión de Desarrollo Social, Superación de la Pobreza y Planificación de la Cámara de Diputados.
+Los ministerios del Trabajo y Previsión Social y de Desarrollo Social y Familia deberán evaluar conjuntamente los resultados de la implementación de esta ley cada tres años contados desde su entrada en vigencia, y deberán informar de ello a la Comisión de Trabajo y Previsión Social del Senado y a la Comisión de Desarrollo Social, Superación de la Pobreza y Planificación y a la Comisión de Personas Mayores y Discapacidad, ambas de la Cámara de Diputados. En su informe deberá indicar, a lo menos, la cantidad de empresas e instituciones públicas obligadas a dar cumplimiento a la ley, datos estadísticos sobre el cumplimiento de las disposiciones de esta ley, las características de los contratos de trabajo que se hubieren celebrado en conformidad a ella, su duración promedio y las causas de término de la relación laboral de personas con discapacidad y/o asignatarias de una pensión de invalidez de cualquier régimen previsional.
 
 #### Artículo 5
 
