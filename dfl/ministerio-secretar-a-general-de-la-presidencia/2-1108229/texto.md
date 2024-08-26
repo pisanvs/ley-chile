@@ -36,17 +36,17 @@ Sólo serán consideradas en las elecciones las candidaturas que se presenten me
 
 #### Artículo 3
 
-Las declaraciones de candidaturas deberán efectuarse por escrito, para cada acto eleccionario, ante el Servicio Electoral quien les pondrá cargo y otorgará recibo. La presentación de las referidas declaraciones podrá realizarse en forma electrónica, para lo cual el Servicio Electoral establecerá el sistema a aplicar.
+Las declaraciones de candidaturas deberán efectuarse por escrito para cada acto eleccionario ante el Servicio Electoral, en la plataforma electrónica que disponga dicho Servicio para tales fines.
 
-Las declaraciones deberán efectuarse por el presidente y el secretario del órgano ejecutivo de cada partido político o de los partidos que hubieren acordado un pacto electoral o por, a lo menos, cinco de los ciudadanos que patrocinen una candidatura independiente, acompañando la nómina a que se refiere el artículo 14. En todo caso, serán acompañadas por una declaración jurada del candidato, o de un mandatario designado especialmente al efecto por escritura pública, en la cual señalará cumplir los requisitos constitucionales y legales para ser candidato y no estar afecto a inhabilidades. La declaración jurada deberá ser acompañada por los antecedentes que acrediten el cumplimiento de los requisitos constitucionales y legales para ser candidato, salvo que se trate de documentos que emanen de cualquier órgano de la Administración del Estado y se encuentren en poder de éstos, en los términos señalados en el artículo 17, letra d), de la ley Nº19.880. Esta declaración jurada será hecha ante notario público o ante el oficial del Registro Civil correspondiente a la comuna donde resida el candidato.
+En el plazo establecido en el inciso final del artículo 7, se deberá acompañar una declaración jurada del candidato, o de un mandatario designado especialmente al efecto por escritura pública, en la cual señalará cumplir los requisitos constitucionales y legales para ser candidato y no estar afecto a inhabilidades. La declaración jurada deberá ser acompañada por los antecedentes que acrediten el cumplimiento de los requisitos constitucionales y legales para ser candidato, salvo que se trate de documentos que emanen de cualquier órgano de la Administración del Estado y se encuentren en poder de éstos, en los términos señalados en el artículo 17, letra d), de la ley Nº19.880. Esta declaración jurada será hecha ante notario público, ante el oficial del Registro Civil correspondiente a la comuna donde resida el candidato o a través de una plataforma electrónica dispuesta por el Servicio Electoral, a la que se accederá previa autentificación de identidad.
 
-La declaración de candidatura podrá presentarse en un acto separado por cada candidato.
+Sin perjuicio de las candidaturas independientes que serán declaradas conforme a las reglas contenidas en el Párrafo 2° de este Título, las declaraciones de candidaturas deberán ser presentadas por los partidos políticos o pactos electorales en un solo acto respecto de cada territorio electoral.
 
 Ningún candidato podrá figurar en más de una declaración en elecciones que se celebren simultáneamente.
 
-Respecto de cada candidato se deberá acompañar la autorización al Director del Servicio Electoral para abrir la cuenta bancaria a que alude el artículo 19 de la ley Nº19.884.
+Dentro del plazo señalado en el inciso final del artículo 7, además, se deberá acompañar la autorización al Director del Servicio Electoral para abrir la cuenta bancaria que alude el artículo 19 de la ley Nº 19.884, respecto de cada candidato declarado.
 
-El Servicio Electoral verificará el cumplimiento de los requisitos constitucionales y legales para ser candidato, en los términos señalados en el inciso segundo, para lo cual podrá requerir la información que corresponda, que emane de cualquier órgano de la Administración del Estado y se encuentre en poder de éstos.
+El Servicio Electoral verificará el cumplimiento de los requisitos constitucionales y legales para ser candidato, para lo cual podrá requerir la información que corresponda, que emane de cualquier órgano de la Administración del Estado y se encuentre en poder de éstos.
 
 #### Artículo 4
 
@@ -60,7 +60,7 @@ Las declaraciones de candidaturas que presente el pacto electoral, sólo podrán
 
 De la totalidad de declaraciones de candidaturas a diputado o senador declaradas por los partidos políticos, hayan o no pactado, ni los candidatos hombres ni las candidatas mujeres podrán superar el sesenta por ciento del total respectivo. Este porcentaje será obligatorio y se calculará con independencia de la forma de nominación de las candidaturas. La infracción de lo señalado precedentemente acarreará el rechazo de todas las candidaturas declaradas a diputados o a senadores, según corresponda, del partido que no haya cumplido con este requisito.
 
-El pacto electoral deberá formalizarse ante el Servicio Electoral, en forma previa al vencimiento del plazo y a las declaraciones de candidaturas, mediante la presentación de una declaración suscrita por los Presidentes y Secretarios de los partidos políticos integrantes del pacto, que deberá indicar la decisión de concurrir en lista conjunta en una elección de Parlamentarios y que existe afinidad entre sus declaraciones programáticas.
+El pacto electoral deberá formalizarse ante el Servicio Electoral, hasta las cuarenta y ocho horas anteriores al vencimiento del plazo para declarar candidaturas señalado en el inciso primero del artículo 7, mediante la presentación de una declaración suscrita por los Presidentes y Secretarios de los partidos políticos integrantes del pacto, que deberá indicar la decisión de concurrir en lista conjunta en una elección de Parlamentarios y que existe afinidad entre sus declaraciones programáticas.
 
 El pacto electoral se entenderá constituido a contar de la fecha de su formalización. Los partidos políticos que hubieren constituido un pacto o una asociación con candidaturas independientes no podrán acordar otro a menos que aquél fuere dejado sin efecto. Se podrá dejar sin efecto un pacto electoral o una asociación con candidaturas independientes cuando los partidos que lo integren hayan dado cumplimiento a lo dispuesto en el artículo 35, inciso primero, de la ley N°18.603, y exista acuerdo unánime entre ellos. Este acuerdo deberá ser comunicado al Servicio Electoral, mediante una declaración suscrita por los Presidentes y Secretarios de los partidos políticos de que se trate, antes del vencimiento del plazo para presentar candidaturas.
 
@@ -92,25 +92,53 @@ Las declaraciones de candidaturas a senadores y diputados sólo podrán hacerse 
 
 Tratándose de las declaraciones de candidaturas a Presidente de la República, éstas sólo podrán hacerse hasta las veinticuatro horas del nonagésimo día anterior a aquel en que deba realizarse la primera o única votación, o hasta los treinta días siguientes a la convocatoria que se realice para una repetición de la elección presidencial, en virtud de ocurrir alguna de las circunstancias contempladas en los incisos cuarto del artículo 26 o segundo del artículo 28 de la Constitución Política de la República.
 
+Las declaraciones se efectuarán por escrito en la plataforma electrónica que disponga el Servicio Electoral y, en éstas, se deberá presentar una nómina que contenga los siguientes datos de cada candidato:
+
+a) Nombre completo y número de cédula nacional de identidad.
+
+b) Cargo y territorio electoral al que se presenta.
+
+c) Partido político o la condición de independiente asociado a un determinado partido, si es que procediera.
+
+d) Correo electrónico.
+
+e) Número de orden dentro de la lista, en caso de que sea procedente.
+
+Las declaraciones deberán efectuarse por el presidente y el secretario del órgano ejecutivo de cada partido político o de todos los partidos que hubieren acordado un pacto electoral. En el caso de una candidatura independiente, además de los datos anteriores, la declaración deberá ser presentada por cinco de los ciudadanos que patrocinen la candidatura independiente, acompañando en tal caso la nómina a que se refieren los artículos 14 y 16.
+
+Hasta las setenta y dos horas siguientes al vencimiento del plazo señalado en el inciso primero o segundo de este artículo, según corresponda, los partidos políticos, los pactos electorales, los propios candidatos o los cinco ciudadanos patrocinantes de una candidatura independiente deberán presentar al Servicio Electoral, en la plataforma electrónica, la siguiente documentación o antecedentes, únicamente respecto de los candidatos contenidos en la nómina señalada en el inciso tercero, cuya candidatura continuará estando vigente:
+
+a) La declaración jurada del candidato que se señala en el inciso segundo del artículo 3.
+
+b) Licencia de enseñanza media u otro documento que acredite el cumplimiento de dicho requisito, cuando corresponda.
+
+c) La autorización al Director del Servicio Electoral para abrir la cuenta bancaria que se señala en el inciso quinto del artículo 3.
+
+d) La declaración de patrimonio e intereses que se señala en el inciso primero del artículo 8.
+
+e) El programa que se señala en el artículo 9 o en el inciso sexto del artículo 84 de la ley N° 19.175.
+
+f) Los nombres y los números de las cédulas nacionales de identidad de hasta tres personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados que se señalan en el inciso primero del artículo 10.
+
+g) Los nombres, el número de la cédula de identidad y domicilio del administrador electoral y del administrador general electoral que se señala en el inciso segundo del artículo 10.
+
 #### Artículo 8
 
-En la fecha que corresponda efectuar la declaración de las candidaturas, todos los candidatos deberán realizar una declaración de patrimonio e intereses, en los términos que señala la ley Nº20.880, sobre Probidad en la función pública y prevención de los conflictos de intereses. Asimismo, deberán cumplir con dicha obligación quienes realicen una declaración de precandidatura, según lo dispuesto en el artículo 3 de la ley Nº19.884.
+Dentro del plazo señalado en el inciso final del artículo 7, todos los candidatos declarados deberán realizar y presentar una declaración de patrimonio e intereses, en los términos que señala la ley Nº20.880, sobre Probidad en la función pública y prevención de los conflictos de intereses. Asimismo, deberán cumplir con dicha obligación quienes realicen una declaración de precandidatura, según lo dispuesto en el artículo 3 de la ley Nº19.884.
 
-El Servicio Electoral dispondrá de formularios en su página web para facilitar la presentación de la declaración de patrimonio e intereses.
-
-No serán admitidas por el Servicio Electoral las declaraciones de precandidaturas e inscripciones a candidaturas de quienes no hayan efectuado la declaración de patrimonio e intereses en el plazo previsto, debiendo este organismo establecer un plazo para subsanar eventuales errores. Vencido dicho plazo, se entenderán como no presentadas las declaraciones de precandidaturas e inscripciones a candidaturas de aquellos precandidatos y candidatos que no hubieren subsanado errores o imprecisiones de la declaración de patrimonio e intereses.
+No serán admitidas por el Servicio Electoral las declaraciones de precandidaturas y candidaturas de quienes no hayan efectuado y presentado la declaración de patrimonio e intereses en el plazo previsto, debiendo este organismo establecer un plazo para subsanar eventuales errores. Vencido dicho plazo, se entenderán como no presentadas las declaraciones de precandidaturas e inscripciones a candidaturas de aquellos precandidatos y candidatos que no hubieren subsanado errores o imprecisiones de la declaración de patrimonio e intereses.
 
 El Servicio Electoral remitirá, dentro de los diez días hábiles siguientes, copia de estas declaraciones al Servicio de Impuestos Internos y a la Unidad de Análisis Financiero dependiente del Ministerio de Hacienda, sin perjuicio de publicarlas en su página web.
 
 #### Artículo 9
 
-En el caso de las candidaturas a Presidente de la República, sea que se trate de elecciones primarias o generales según corresponda, junto con la declaración de ellas, los candidatos deberán presentar un programa en el cual se indicarán las principales acciones, iniciativas y proyectos que se pretenden desarrollar durante su gestión. De no hacerlo, el Servicio Electoral establecerá un plazo para que se acompañe, bajo apercibimiento de tener por no presentada la candidatura según lo señalado en el inciso segundo del artículo anterior.
+En el caso de las candidaturas a Presidente de la República, sea que se trate de elecciones primarias o generales según corresponda, además de su declaración y en el plazo señalado en el inciso final del artículo 7, los candidatos deberán presentar un programa en el cual se indicarán las principales acciones, iniciativas y proyectos que se pretenden desarrollar durante su gestión. De no hacerlo, el Servicio Electoral establecerá un plazo para que se acompañe, bajo apercibimiento de tener por no presentada la candidatura según lo señalado en el inciso segundo del artículo anterior.
 
 #### Artículo 10
 
-En las declaraciones se indicarán los nombres y las cédulas nacionales de identidad de hasta tres personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados, por cada distrito y circunscripción senatorial. Esta designación podrá ser modificada hasta doce días antes de la elección. El Servicio Electoral comunicará la designación a las juntas electorales respectivas dentro del quinto día de efectuadas o modificadas.
+En las declaraciones y dentro del plazo señalado en el inciso final del artículo 7, se indicarán y acompañarán los nombres y los números de las cédulas nacionales de identidad de hasta tres personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados, por cada distrito y circunscripción senatorial. Esta designación podrá ser modificada hasta doce días antes de la elección. El Servicio Electoral comunicará la designación a las juntas electorales respectivas dentro del quinto día de efectuadas o modificadas.
 
-Asimismo, en las declaraciones se indicarán los nombres, la cédula de identidad y domicilio del administrador electoral y del administrador general electoral, en su caso.
+Dentro del mismo plazo señalado en el inciso anterior, en las declaraciones se indicarán y acompañarán los nombres y el número de la cédula de identidad y domicilio del administrador electoral y del administrador general electoral, en su caso.
 
 #### Artículo 11
 
@@ -176,7 +204,7 @@ De la Inscripción de Candidaturas
 
 #### Artículo 19
 
-El Consejo del Servicio Electoral, dentro de los diez días siguientes a aquel en que venza el plazo para efectuar la declaración de candidaturas, deberá dictar una resolución que se notificará al correo electrónico que los partidos políticos y candidatos independientes deberán informar en el momento de la declaración, la que se pronunciará sobre:
+El Consejo del Servicio Electoral, dentro de los diez días siguientes a aquel en que venza el plazo señalado en el inciso final del artículo 7, deberá dictar una resolución que se notificará al correo electrónico que los partidos políticos y candidatos independientes deberán informar en el momento de la declaración, la que se pronunciará sobre:
 
 a) La aceptación o rechazo de cada una de las declaraciones de candidaturas a diputado o senador, declaradas por cada partido político, pacto electoral o candidatura independiente. El Consejo del Servicio Electoral deberá rechazar las declaraciones de candidaturas que no cumplan con los requisitos establecidos en los artículos 25, 48 y 50 de la Constitución Política de la República, o que se encuentren en alguna de las situaciones previstas en su artículo 57. Asimismo, deberá rechazar las declaraciones de candidaturas que no cumplan con los requisitos establecidos en los párrafos 1º a 3º de este título.
 
@@ -270,7 +298,7 @@ Habrá plantillas disponibles en la oficina electoral de cada recinto en que fun
 
 #### Artículo 30
 
-El Servicio Electoral hará publicar en diarios de circulación en cada circunscripción senatorial o distrito, en su caso, los facsímiles de las cédulas con las cuales se sufragará. La publicación se hará el quinto día anterior a la fecha en que se realice el acto eleccionario o plebiscitario. En estas publicaciones el Servicio señalará las características materiales con que se han confeccionado las plantillas a que se refiere el artículo anterior, indicando con toda precisión su espesor, la dimensión de las ranuras y los demás datos que permitan conocerlas.
+El Servicio Electoral hará publicar en diarios de circulación en cada circunscripción senatorial o distrito, en su caso, los facsímiles de las cédulas con las cuales se sufragará. La publicación se hará hasta el quinto día anterior a la fecha en que se realice el acto eleccionario o plebiscitario. En estas publicaciones el Servicio señalará las características materiales con que se han confeccionado las plantillas a que se refiere el artículo anterior, indicando con toda precisión su espesor, la dimensión de las ranuras y los demás datos que permitan conocerlas.
 
 Sin perjuicio de lo anterior, podrán difundirse por otros medios de comunicación social avisos con los facsímiles de las cédulas con las cuales se sufragará, cuando las circunstancias lo requieran.
 
@@ -282,7 +310,7 @@ De la Propaganda y Publicidad
 
 #### Artículo 31
 
-Se entenderá por propaganda electoral, para los efectos de esta ley, todo evento o manifestación pública y la publicidad radial, escrita, en imágenes, en soportes audiovisuales u otros medios análogos, siempre que promueva a una o más personas o partidos políticos constituidos o en formación, con fines electorales. En el caso de los plebiscitos, se entenderá por propaganda aquella que induzca a apoyar alguna de las proposiciones sometidas a consideración de la ciudadanía. Dicha propaganda sólo podrá efectuarse en la oportunidad y la forma prescritas en esta ley.
+Se entenderá por propaganda electoral, para los efectos de esta ley, todo evento o manifestación pública y la publicidad radial, escrita, en imágenes, en soportes audiovisuales, por redes sociales, cuando exista una contratación y un respectivo pago, u otros medios análogos, siempre que promueva a una o más personas o partidos políticos constituidos o en formación, con fines electorales. En el caso de los plebiscitos, se entenderá por propaganda aquella que induzca a apoyar alguna de las proposiciones sometidas a consideración de la ciudadanía. Dicha propaganda sólo podrá efectuarse en la oportunidad y la forma prescritas en esta ley.
 
 No se entenderá como propaganda electoral la difusión de ideas o de información sobre actos políticos realizados por personas naturales. Tampoco lo serán aquellas actividades que las autoridades públicas realicen en el ejercicio de su cargo, ni aquellas actividades habituales no electorales propias del funcionamiento de los partidos políticos constituidos o en formación.
 
@@ -290,9 +318,9 @@ Para los plebiscitos comunales la propaganda solo podrá comprender las materias
 
 Las autoridades públicas que realicen inauguraciones de obras u otros eventos o ceremonias de carácter público, desde el sexagésimo día anterior a la elección, deberán cursar invitación por escrito a tales eventos a todos los candidatos del respectivo territorio electoral. El incumplimiento de esta obligación será considerado una contravención al principio de probidad contemplado en la ley orgánica constitucional de Bases Generales de la Administración del Estado.
 
-Las empresas periodísticas de prensa escrita y las radioemisoras podrán publicar o emitir la propaganda electoral que libremente contraten, pero no podrán discriminar en el cobro de las tarifas entre las distintas candidaturas o proposiciones, según se trate de elecciones o plebiscitos. La contratación de este tipo de propaganda sólo podrá suscribirse por el candidato, el partido político respectivo o los administradores electorales de unos y otros.
+Las empresas periodísticas de prensa escrita y las radioemisoras, así como también las redes sociales y plataformas digitales, podrán publicar o emitir la propaganda electoral que libremente contraten, pero no podrán discriminar en el cobro de las tarifas o en el acceso a sus sistemas de contratación en el caso de redes sociales y plataformas digitales, entre las distintas candidaturas o proposiciones, según se trate de elecciones o plebiscitos. La contratación de este tipo de propaganda sólo podrá suscribirse por el candidato, el partido político respectivo o los administradores electorales de unos y otros.
 
-La propaganda electoral por medio de la prensa y radioemisoras solo podrá desarrollarse desde el sexagésimo hasta el tercer día anterior al de la elección o plebiscito, ambos días inclusive. Sólo se podrá efectuar propaganda electoral en lNOTAos medios de prensa o radioemisoras que, a más tardar diez días antes del inicio del período de propaganda, informen al Servicio Electoral de sus tarifas, en la forma establecida por éste, debiendo ser publicadas en la página web del respectivo medio y del Servicio Electoral. Los medios de prensa o radioemisoras podrán adecuar oportunamente y con la debida antelación dichas tarifas, debiendo informar de ello al Servicio Electoral.
+La propaganda electoral por medio de la prensa, radioemisoras, redes sociales y plataformas digitales solo podrá desarrollarse desde el sexagésimo hasta el tercer día anterior al de la elección o plebiscito, ambos días inclusive. Sólo se podrá efectuar propaganda electoral en lNOTAos medios de prensa, radioemisoras, redes sociales y plataformas digitales que, a más tardar diez días antes del inicio del período de propaganda, informen al Servicio Electoral de sus tarifas o sus sistemas de contratación digital, en la forma establecida por éste, debiendo ser publicadas en la página web del respectivo medio y del Servicio Electoral. Los medios de prensa, radioemisoras, redes sociales y plataformas digitales podrán adecuar oportunamente y con la debida antelación dichas tarifas o sistemas de contratación digital, debiendo informar de ello al Servicio Electoral.
 
 Con todo, tratándose de los casos previstos en el inciso segundo del artículo 26 y en el inciso quinto del artículo 111 de la Constitución Política, la propaganda electoral sólo podrá efectuarse desde el decimocuarto y hasta el tercer día anterior al de la votación, ambos días inclusive.
 
@@ -314,7 +342,9 @@ La propaganda señalada en los incisos anteriores deberá ser transmitida desde 
 
 Los canales de televisión de libre recepción sólo podrán transmitir propaganda electoral en los términos previstos en este artículo. Los servicios limitados de televisión no podrán, en caso alguno, transmitir propaganda electoral.
 
-Las empresas periodísticas de prensa escrita y las radioemisoras podrán publicar o emitir la propaganda electoral que libremente contraten, pero no podrán discriminar en el cobro de las tarifas entre las distintas candidaturas o proposiciones, según se trate de elecciones o plebiscitos.
+Las empresas periodísticas de prensa escrita y las radioemisoras, así como también las redes sociales y plataformas digitales, podrán publicar o emitir la propaganda electoral que libremente contraten, pero no podrán discriminar en el cobro de las tarifas o en el acceso a sus sistemas de contratación digital entre las distintas candidaturas o proposiciones, según se trate de elecciones o plebiscitos.
+
+Los medios de prensa, radioemisoras, redes sociales y plataformas digitales deberán remitir o poner a disposición del Servicio Electoral, en el plazo y forma que éste determine mediante una instrucción, la identidad y los montos involucrados de todo aquél que contrate propaganda electoral con dichos medios. La información será publicada en la página web de dicho Servicio, en conformidad con lo dispuesto en la ley N° 19.628, sobre protección de la vida privada.
 
 Se prohíbe la propaganda electoral en cinematógrafos y salas de exhibición de videos.
 
@@ -416,19 +446,19 @@ No podrán ser vocales de mesas las personas que sean candidatos en la elección
 
 #### Artículo 46
 
-Para proceder a la designación de vocales, el Servicio Electoral pondrá a disposición de la junta electoral una nómina por mesa receptora de sufragios de los padrones electorales por mesa con carácter de definitivo, señalados en el artículo 37 bis de la ley Nº 18.556. Dichas nóminas deberán indicar expresamente a los electores que hubieren ejercido la función de vocal en cualquier lugar durante los cuatros años anteriores. Asimismo, deberán indicar expresamente a los electores que deban continuar ejerciendo la función de vocal de mesa, por no haber expirado el plazo señalado en el artículo 52. En este último caso, dichos electores serán designados como vocales en un determinado local de votación, ya sea en su mesa o en otra del mismo local, aunque provengan de otros locales de votación o circunscripciones electorales por cambio de domicilio electoral, y sin participar en el sorteo a que se refiere el inciso final.
+Para proceder a la designación de vocales, el Servicio Electoral pondrá a disposición de cada junta electoral una nómina que individualizará a los electores contenidos en cada uno de los padrones de mesa receptora de sufragios determinados conforme al artículo 37 bis de la ley N° 18.556.
 
-Sobre la base de las nóminas señaladas en el inciso anterior, cada uno de los miembros de la junta electoral escogerá diez nombres, que deberán corresponder a diez ciudadanos con derecho a sufragio. Si la junta funcionare con dos miembros, cada uno elegirá quince nombres. Al efectuar esta selección, cada miembro de la junta electoral deberá preferir a aquellas personas que puedan presumirse más aptas para desempeñar las funciones de vocales de mesa. No podrán ser seleccionados aquellos electores que hubieren ejercido la función de vocal, en cualquier lugar, durante los cuatros años anteriores.
+La nómina a la que alude el inciso anterior deberá individualizar a los electores que hayan sido designados, por primera vez, para ejercer la función de vocal de mesa en el anterior proceso electoral a los que se refiere el artículo 52. Estos electores serán nuevamente designados como vocales titulares o reemplazantes en el local de votación que les corresponda, aun cuando en el proceso electoral anterior hayan ejercido sus funciones en una mesa o local distinto. Para efectos de este nombramiento, estos electores podrán desempeñar la función de vocal en la mesa que les corresponde o en una distinta dentro del mismo local de votación.
 
-Se designarán tres vocales de las mesas receptoras de sufragios con ocasión de la elección de diputados y senadores, y dos con ocasión de la elección de alcaldes y concejales. Podrá designarse un número superior de vocales si se trata de mesas donde faltaren los vocales anteriormente designados que deban continuar ejerciendo esta función, de tal forma de completar los cinco vocales por mesa receptora de sufragios. Los vocales designados deberán estar asignados para sufragar en una mesa del mismo local de votación donde ejercerán su función.
+Además, la nómina a la que alude el inciso primero deberá individualizar a los electores que no pueden ser designados vocales de mesa, como titulares o reemplazantes, por haber cumplido dicha función en dos procesos electorales generales, conforme a lo señalado en el inciso segundo del artículo 52.
 
-Escogidos los nombres, y determinado el número de vocales faltantes a designar para cada mesa hasta completar cinco vocales y los reemplazantes, la junta electoral procederá en sesión pública a seleccionar por sorteo a los electores que ejercerán la función de vocal y los reemplazantes, mediante el sistema computacional que ponga a su disposición el Servicio Electoral y de acuerdo al procedimiento que éste instruya a través del respectivo acto administrativo. Dicha sesión se realizará en la oficina del secretario, a las catorce horas del trigésimo día anterior a la fecha de la elección.
+Sobre la base de los electores incluidos en las nóminas, excepto de los mencionados en el inciso anterior, cada uno de los miembros de la junta electoral seleccionará a diez electores para ser designados como vocales. Si la junta funcionare con dos miembros, cada uno elegirá quince electores.
+
+Seleccionados los electores de la nómina que ejercerán las funciones de vocal de mesa y determinado el número de vocales faltantes a designar para cada mesa hasta completar cinco vocales titulares y cinco reemplazantes, en una sesión pública, la junta electoral procederá a designar por sorteo a los electores que ejercerán la función de vocal y sus reemplazantes, mediante el sistema computacional que el Servicio Electoral pondrá a su disposición y de acuerdo con el procedimiento que aquel instruya. Dicha sesión se realizará en la oficina del secretario, a las catorce horas del trigésimo día anterior a la fecha de la elección. El resultado de la designación que arroje el sistema computacional formará parte del acta de sesión de la junta, la que será pública.
 
 #### Artículo 47
 
-Para los efectos señalados en el artículo anterior, la junta electoral formará un libro con las nóminas alfabéticas firmadas por todos sus miembros, foliadas y ordenadas según la numeración de las mesas, el que se entenderá como parte integrante del acta del sorteo. Este libro será público y se mantendrá bajo la custodia del secretario de la junta electoral.
-
-En todo caso, las nóminas deberán encontrarse en el local donde se efectúe el sorteo respectivo.
+Eliminado.
 
 #### Artículo 48
 
@@ -454,7 +484,7 @@ Dentro del plazo de tres días hábiles, contado desde la fecha de publicación 
 
 7) Tratarse de personas gestantes durante todo el período de embarazo, acreditado mediante documento extendido por el establecimiento de salud donde se realice el control del mismo o un certificado médico. También se considerará dentro de esta causal al padre o madre de un hijo o hija menor de dos años al día en que funcionen las mesas receptoras, acreditado con el correspondiente certificado de nacimiento del o la menor. Si ninguno de ellos tuviera el cuidado personal, quien lo tenga podrá excusarse acreditándolo debidamente.
 
-8) Estar al cuidado de un adulto mayor en situación de dependencia o de una persona en situación de discapacidad en los mismos días en que funcionen las mesas receptoras, circunstancia que deberá ser acreditada a través de una declaración jurada notarial que deberá ser otorgada gratuitamente, mediante constancia en Carabineros de Chile, o por un certificado en que conste la calidad de receptor del estipendio en el caso de cuidadores de personas con discapacidad.
+8) Estar al cuidado de un adulto mayor en situación de dependencia o de una persona en situación de discapacidad en los mismos días en que funcionen las mesas receptoras, circunstancia que deberá ser acreditada a través de una declaración jurada notarial que deberá ser otorgada gratuitamente, mediante constancia en Carabineros de Chile, o por un certificado en que conste la calidad de receptor del estipendio en el caso de cuidadores de personas con discapacidad. Asimismo, la calidad de persona cuidadora podrá ser acreditada mediante la presentación de la credencial de persona cuidadora o el documento que acredite la inscripción como tal en el registro dispuesto en el artículo 10 del decreto N° 22, de 2015, del Ministerio de Desarrollo Social, que aprueba reglamento del artículo 5º de la ley Nº 20.379 y del artículo 3º letra f) de la ley N° 20.530.
 
 En el mismo plazo, cualquier persona podrá solicitar la exclusión del o de los vocales que estuvieren afectados por alguna de las causales de inhabilidad señaladas en el artículo 45.
 
@@ -472,7 +502,11 @@ El secretario publicará el acta dos días después, o, si ese día no circulare
 
 #### Artículo 52
 
-Los vocales designados por las juntas electorales para las mesas receptoras ejercerán dicha función durante cuatro años, actuando en todos los actos eleccionarios o plebiscitarios que se verifiquen hasta antes de la próxima elección ordinaria para la cual fueron designados. Con todo, los vocales designados por las juntas electorales a quienes corresponda actuar en la elección de Presidente de la República se entenderán convocados, por el solo ministerio de la ley, para cumplir iguales funciones en el caso previsto en el inciso segundo del artículo 26 de la Constitución Política de la República, y en estos casos no se requerirá de la publicación y comunicación de que trata el artículo 48 de la presente ley.
+Los vocales designados por las juntas electorales para las mesas receptoras ejercerán dicha función en dos procesos electorales generales consecutivos, sea que se trate de las elecciones presidenciales, parlamentarias, municipales y/o regionales, o de plebiscitos. Con todo, los vocales designados por las juntas electorales a quienes corresponda actuar en la elección de Presidente de la República o de Gobernador Regional se entenderán convocados, por el solo ministerio de la ley, para cumplir iguales funciones en el caso de segunda votación, y en estos casos no se requerirá de la publicación y comunicación de que trata el artículo 48 de la presente ley.
+
+Los electores que cumplan las funciones de vocal de mesa en las condiciones señaladas en el inciso anterior, no podrán ser designados como vocales por las Juntas Electorales durante el plazo de ocho años contados desde la realización del segundo proceso electoral general en que hubieran ejercido como vocal.
+
+Lo señalado en el presente artículo no aplicará a los electores que hubieran sido designados como vocales, de conformidad a lo señalado en el artículo 63.
 
 #### Artículo 53
 
@@ -526,7 +560,7 @@ Con, a lo menos, sesenta días de anticipación a la elección o plebiscito, el 
 
 El director regional respectivo del Servicio Electoral requerirá de la comandancia de guarnición, a lo menos con sesenta días de anticipación a la determinación de los locales de votación, un informe sobre los locales o recintos, estatales o privados, que sean más adecuados para el expedito funcionamiento de las mesas, la instalación de cámaras secretas y la mantención del orden público.
 
-El Servicio Electoral deberá preferir aquellos locales de carácter público en la medida que existan establecimientos suficientes para atender las necesidades para la instalación de las mesas de la circunscripción electoral que corresponda, considerando criterios de facilidad de acceso para los electores. A falta de éstos, podrá también determinar el uso de establecimientos de propiedad privada como locales de votación, siempre que correspondan a establecimientos educacionales y deportivos. También, si fuere necesario, el Servicio Electoral podrá disponer que bienes nacionales de uso público sean destinados como locales de votación, restringiéndose su acceso durante el tiempo en que se utilicen como tales, siempre que correspondan a parques de grandes dimensiones, que permitan ubicar en ellos un número significativo de mesas receptoras de sufragios.
+El Servicio Electoral determinará como locales de votación a los establecimientos de carácter público, así como también a los establecimientos de propiedad privada, siempre que los últimos correspondan a establecimientos educacionales o deportivos, en número suficiente para atender las necesidades de la instalación de las mesas de la circunscripción electoral que corresponda. Si fuere necesario, el Servicio Electoral podrá disponer que bienes nacionales de uso público sean destinados como locales de votación, restringiéndose su acceso durante el tiempo en que se utilicen como tales, siempre que correspondan a parques de grandes dimensiones, que permitan ubicar en ellos un número significativo de mesas receptoras de sufragios.
 
 Determinados los locales de votación, estos no podrán reconsiderarse ni alterarse, salvo por causas debidamente calificadas por el Servicio Electoral. Subsistirá la designación, tratándose del caso establecido en el inciso segundo del artículo 26 de la Constitución Política.
 
@@ -544,9 +578,7 @@ La mesa será de una dimensión suficiente para permitir el trabajo expedito de 
 
 La cámara secreta será una pieza sin otra comunicación con el exterior que la que permita su acceso desde el lugar en que estuviere instalada la mesa. Si tuviere ventanas u otras puertas, se procederá a cerrarlas y asegurar su inviolabilidad.
 
-Si el recinto no permitiere usar salas especiales como cámaras, éstas serán construidas de un material no transparente que contará con puerta o cortina, de modo que se asegure la total privacidad del elector. Corresponderá al Servicio Electoral determinar la forma y dimensiones de la cámara.
-
-Podrá haber dos cámaras por cada mesa receptora.
+Si el recinto no permitiere usar salas especiales como cámaras, éstas serán construidas de un material no transparente que contará con puerta o cortina, de modo que se asegure la total privacidad del elector. Corresponderá al Servicio Electoral determinar la forma, número y dimensiones de las cámaras, las que en caso alguno serán menos de dos.
 
 #### Artículo 60
 
@@ -590,7 +622,7 @@ Para cada mesa receptora deberá considerarse el siguiente material:
 
 3) Las cédulas para la emisión de los sufragios. Su número será determinado por el Servicio Electoral para cada mesa receptora, en función de la experiencia de abstención en elecciones similares anteriores.
 
-4) Cuatro lápices de grafito de color negro y dos lápices pasta de color azul.
+4) Seis lápices pasta de color azul.
 
 5) Un tampón para huella dactilar.
 
@@ -698,13 +730,13 @@ Mientras llega el experto, se procederá a recibir los sufragios de otros electo
 
 #### Artículo 70
 
-Admitido el elector a sufragar se le entregará la cédula electoral y se anotará el número de serie en el padrón de la mesa a continuación de la firma o huella digital. Además, se le proporcionará un lápiz de grafito color negro, un sello adhesivo para la cédula y, si fuere no vidente, la plantilla especial a que se refiere el artículo 29. Si se realizare simultáneamente más de una elección, se entregarán todas las cédulas. La mesa podrá entregar a los no videntes en forma separada las cédulas dentro de las plantillas respectivas, de modo que una vez que el no vidente devuelva la primera plantilla se le entregará la cédula siguiente, y así sucesivamente.
+Admitido el elector a sufragar se le entregará la cédula electoral y se anotará el número de serie en el padrón de la mesa a continuación de la firma o huella digital. Además, se le proporcionará un lápiz de pasta azul si el votante no dispusiera de uno, un sello adhesivo para la cédula y, si fuere no vidente, la plantilla especial a que se refiere el artículo 29. Si se realizare simultáneamente más de una elección, se entregarán todas las cédulas. La mesa podrá entregar a los no videntes en forma separada las cédulas dentro de las plantillas respectivas, de modo que una vez que el no vidente devuelva la primera plantilla se le entregará la cédula siguiente, y así sucesivamente.
 
 El elector entrará en la cámara secreta y no podrá permanecer en ella más de un minuto, salvo las personas con discapacidad, quienes podrán emplear un tiempo razonable. Tanto los miembros de la mesa como los apoderados cuidarán de que el elector entre realmente a la cámara, y de que mientras permanezca en ella se mantenga su reserva, para lo cual la puerta o cortina será cerrada. Sólo en casos de personas con discapacidad que no puedan ingresar a la cámara, la mesa podrá aceptar que sufraguen fuera de ella, pero adoptando todas las medidas que fueren conducentes a mantener el secreto de su votación.
 
 #### Artículo 71
 
-En el interior de la cámara el votante podrá marcar su preferencia en la cédula, sólo con el lápiz de grafito negro, haciendo una raya vertical que cruce la línea horizontal impresa al lado izquierdo del número del candidato o sobre la opción de su preferencia en caso de plebiscito. A continuación procederá a doblar la cédula de acuerdo con la indicación de sus pliegues y a cerrarla con el sello adhesivo.
+En el interior de la cámara el votante podrá marcar su preferencia en la cédula, sólo con el lápiz pasta azul, haciendo una raya vertical que cruce la línea horizontal impresa al lado izquierdo del número del candidato o sobre la opción de su preferencia en caso de plebiscito. A continuación procederá a doblar la cédula de acuerdo con la indicación de sus pliegues y a cerrarla con el sello adhesivo.
 
 Sólo después de haber cerrado la cédula, el elector saldrá de la cámara y hará devolución de ella al presidente a fin de que la mesa compruebe que es la misma cédula que se le entregó. Luego de verificar que la cédula no contiene marcas externas, el presidente cortará el talón y devolverá la cédula al votante quien deberá depositarla en la urna.
 
@@ -1256,8 +1288,6 @@ Cualquier local público o privado en el cual se realicen actividades de propaga
 
 El día de una elección o plebiscito, hasta dos horas después del cierre de la votación, no podrán realizarse espectáculos o eventos deportivos, artísticos o culturales de carácter masivo, cuando la fuerza encargada del orden público estime que éstos podrían afectar el normal desarrollo del proceso electoral.
 
-El día de la elección o plebiscito, entre las cinco horas de la mañana y dos horas después del cierre de la votación, los establecimientos comerciales no podrán expender bebidas alcohólicas para su consumo en el local o fuera de él, exceptuándose sólo a los hoteles respecto de los pasajeros que pernocten en ellos.
-
 La fuerza encargada del orden público dispondrá la clausura de los recintos en que se infringiere esta disposición.
 
 #### Artículo 129
@@ -1508,7 +1538,7 @@ Las juntas electorales, las mesas receptoras y los colegios escrutadores obrará
 
 Ninguna autoridad o empleador podrá exigir servicio o trabajo alguno que impida votar a los electores.
 
-En aquellas actividades que deban necesariamente realizarse el día en que se celebrare una elección o plebiscito, los trabajadores podrán ausentarse durante dos horas, a fin de que puedan sufragar, sin descuento de sus remuneraciones.
+En aquellas actividades que deban necesariamente realizarse el día en que se celebrare una elección o plebiscito, los trabajadores podrán ausentarse durante tres horas, a fin de que puedan sufragar o excusarse, según corresponda, sin descuento de sus remuneraciones.
 
 #### Artículo 166
 
@@ -1629,6 +1659,10 @@ Disposiciones Generales
 El día que se fije para la realización de las elecciones y plebiscitos será feriado legal.
 
 Los plebiscitos comunales se efectuarán en día domingo.
+
+#### Artículo 180 bis
+
+El transporte público mayor, asignatario de los fondos establecidos en la Ley N° 20.378, que crea un subsidio nacional para el transporte público remunerado de pasajeros, efectuado mediante buses, minibuses, trolebuses, tranvías, tren u otros, ya sea a nivel urbano, interurbano o rural, deberá disponer del funcionamiento de su flota, con el objeto de asegurar el desplazamiento de las y los votantes durante el proceso electoral. La autoridad de transporte deberá fiscalizar el cumplimiento de lo dispuesto anteriormente y podrá cursar las multas correspondientes si verifica obstrucción al funcionamiento de dicha flota.
 
 #### Artículo 181
 

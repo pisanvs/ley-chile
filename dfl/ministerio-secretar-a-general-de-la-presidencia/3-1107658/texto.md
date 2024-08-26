@@ -502,6 +502,10 @@ vi) Candidatos a concejales: multa de 5 a 14 unidades tributarias mensuales.
 
 La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta su reiteración y la cantidad de electores habilitados del territorio electoral correspondiente.
 
+#### Artículo 44 bis
+
+Los administradores electorales y los administradores generales electorales deberán presentar al Subdirector de Control del Gasto y Financiamiento Electoral del Servicio Electoral, hasta antes del día de la elección, los informes que detallen los gastos contratados por concepto de las letras c) y d) del artículo 2, que sobrepasen las treinta unidades de fomento por proveedor único en toda la campaña, señalando para cada uno de ellos la persona jurídica o natural contratada, su rol único tributario, el monto del gasto y el motivo que dio origen al gasto.
+
 #### Artículo 45
 
 Serán aplicables a los administradores electorales y a los administradores generales electorales, en su caso, las prohibiciones establecidas en el artículo 31 del Código de Comercio.
@@ -523,6 +527,8 @@ Asimismo, y conjuntamente, deberán presentar una cuenta general de los ingresos
 La cuenta general de ingresos y gastos electorales deberá, además, precisar el origen de la totalidad de los ingresos y el destino de todos los gastos del partido político y candidatos respectivos, de conformidad con las anotaciones consignadas, cualquiera sea la fecha de contratación o pago efectivo de dichos gastos, y aun cuando se encuentren pendientes de pago.
 
 Cuando resulte inaplicable lo establecido en el inciso primero por tratarse de candidatos independientes, corresponderá a sus administradores electorales presentar la cuenta general de ingresos y gastos electorales.
+
+Respecto de los gastos señalados en el artículo 44 bis, la cuenta general de ingresos y gastos sólo podrá contener como gastos aquellos que fueron informados a la Subdirección de Control del Gasto y Financiamiento Electoral en los términos señalados en el artículo 44 bis, antes del día de la elección. Cualquier gasto no informado dentro de la fecha señalada producirá su rechazo y no podrá ser considerado en la cuenta.
 
 La presentación de cuentas referidas en los incisos precedentes, podrá realizarse en forma electrónica, vía internet, para lo cual el Servicio Electoral oportunamente establecerá el sistema a aplicar.
 

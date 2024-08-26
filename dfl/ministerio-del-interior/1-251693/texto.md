@@ -1386,7 +1386,7 @@ c) Las personas que a la fecha de inscripción de sus candidaturas tengan vigent
 
 Igual prohibición regirá respecto de los directores, administradores, representantes y socios titulares del diez por ciento o más de los derechos de cualquier clase de sociedad, cuando ésta tenga contratos o cauciones vigentes ascendentes a doscientas unidades tributarias mensuales o más, o litigios pendientes, con la municipalidad.
 
-Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva.
+Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva, ni las personas que mantengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado en la ley N° 14.908, sobre abandono de familia y pago de pensiones alimenticias, cuyo texto refundido, coordinado y sistematizado fue fijado por el artículo 7° del decreto con fuerza de ley N° 1, de 2000, del Ministerio de Justicia.
 
 Las inhabilidades establecidas en las letras a) y b) serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección municipal.
 
@@ -1982,7 +1982,7 @@ Los pactos para la elección de concejales a que alude el inciso anterior sólo 
 
 #### Artículo 110
 
-Las declaraciones de pactos electorales, de los subpactos que se acuerden, así como la o las comunas excluidas de los subpactos, deberán constar en un único instrumento y su entrega se formalizará en un solo acto ante el Director del Servicio Electoral, dentro del mismo plazo establecido en el artículo 107 y en forma previa a las declaraciones de candidaturas.
+Las declaraciones de pactos electorales, de los subpactos que se acuerden, así como la o las comunas excluidas de los subpactos, deberán constar en un único instrumento y su entrega se formalizará en un solo acto ante el Director del Servicio Electoral, hasta las cuarenta y ocho horas antes de que comience a correr el plazo para declarar candidaturas señalado en el inciso primero del artículo 107.
 
 #### Artículo 111
 
@@ -2022,7 +2022,7 @@ De las inscripciones de candidatos
 
 #### Artículo 115
 
-El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquél en que venza el plazo para la declaración de candidaturas, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región o provincia respectiva, aceptar o rechazar las que hubieren sido declaradas.
+El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquél en que venza el plazo señalado en el inciso final del artículo 7 de la ley N° 18.700, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región o provincia respectiva, aceptar o rechazar las que hubieren sido declaradas.
 
 Los partidos políticos y los candidatos independientes podrán, dentro de los cinco días siguientes a la publicación de la referida resolución, reclamar de ella ante el tribunal electoral regional respectivo, el que deberá pronunciarse dentro de quinto día.
 
