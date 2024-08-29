@@ -64,9 +64,9 @@ Resuelvo:
 
 2. Los materiales vegetales autorizados para ser exportados a Chile desde el Centro de Producción Micro Paradox Inc., deben corresponder a alguno de los siguientes tipos:
 
-3. Para su ingreso al país, los envíos de plantas de pistacho provenientes del Centro de Producción Micro Paradox Inc., deberán estar amparados por un Certificado Fitosanitario Oficial, presentado en original, emitido por la autoridad fitosanitaria de Estados Unidos de Norteamérica, indicando la siguiente declaración adicional:
+3. Para su ingreso al país, los envíos de plantas de pistacho provenientes del centro de producción Micro Paradox Inc., deberán estar amparados por un certificado fitosanitario oficial, presentado en original, emitido por la autoridad fitosanitaria de Estados Unidos de Norteamérica, indicando la siguiente declaración adicional:
 
-"Las plantas provienen del Centro de Producción Micro Paradox Inc., cuyo proceso productivo fue reconocido oficialmente por SAG Chile, y cumplen con las medidas de manejo del riesgo establecidas para: Brevipalpus lewisi, Tetranychus pacificus, Choristoneura rosaceana, Ferrisia gilli, Parlatoria oleae, Parthenolecanium pruinosum, Pseudococcus maritimus, Phymatotrichopsis omnivora, Rhodococcus fascians, Xylella fastidiosa, Xiphinema americanum sensu lato (excepto poblaciones chilenas) y Xiphinema americanum sensu stricto".
+Las plantas provienen del centro de producción Micro Paradox Inc., cuyo proceso productivo fue reconocido oficialmente por SAG y cumplen con las medidas de manejo del riesgo establecidas para: Brevipalpus lewisi, Tetranychus pacificus, Choristoneura rosaceana, Ferrisia gilli, Parlatoria oleae, Parthenolecanium pruinosum, Pseudococcus maritimus, Phymatotrichopsis omnivora, Xylella fastidiosa, Xiphinema americanum sensu lato (excepto poblaciones chilenas) y Xiphinema americanum sensu stricto.
 
 4. Los envíos deberán cumplir con los siguientes requisitos fitosanitarios:
 
@@ -92,7 +92,7 @@ a) La unidad a muestrear corresponderá a una planta completa.
 
 b) El muestreo deberá ser representativo del total del lote, dirigido a plantas con síntomas asociados a fitopatógenos, y de no observarse síntomas, éste deberá ser aleatorio.
 
-c) El total de las plantas a muestrear establecido por la tabla, deberá ser enviado al laboratorio Oficial (CDFA), para análisis de bacterias (Rhodococcus fascians y Xylella fastidiosa) mediante metodologías y protocolos de diagnóstico sensibles y específicos, vigentes y validados internacionalmente.
+c) El total de las plantas a muestrear establecido por la tabla, deberá ser enviado al laboratorio oficial (CDFA), para análisis de la bacteria Xylella fastidiosa mediante metodologías y protocolos de diagnóstico sensibles y específicos, vigentes y validados internacionalmente
 
 d) Luego de tomada la muestra, el resto de las plantas que conforman el lote, deberá quedar bajo resguardo hasta su despacho a Chile,
 
@@ -109,5 +109,7 @@ e) Para el caso de nematodos, se deberá realizar un solo análisis a partir de 
 10. El restablecimiento de la condición de Centro de Producción Reconocido deberá ser evaluada por el SAG mediante informe oficial de USDA/APHIS, que explique las razones de lo ocurrido y las medidas correctivas adoptadas, y conforme a lo anterior, se evaluará la necesidad de realizar una verificación in situ por parte del SAG.
 
 11. El SAG podrá efectuar auditorías al Centro de Producción si se estima pertinente, las que serán comunicadas con al menos 30 días de anticipación al USDA/APHIS.
+
+> **Nota.** El numeral 2 de la Resolución 5555 Exenta, Agricultura, publicado 29.08.2024., modifica la presente norma en el sentido de prorrogar su vigencia por dos años a partir del 22 de septiembre de 2024.
 
 Anótese, comuníquese y publíquese.- Andrea Collao Véliz, Directora Nacional (S), Servicio Agrícola y Ganadero.
