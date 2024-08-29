@@ -48,21 +48,37 @@ D e c r e t o:
 
 Elementos de la esencia de la concesión
 
-- Tipo de servicio : Radiodifusión Sonora en
+- Tipo de servicio : Radiodifusión
 
-Frecuencia Modulada.
+Sonora en
 
-- Zona de Servicio : Localidad de Antofagasta.
+Frecuencia
 
-Superficie delimitada por
+Modulada.
 
-una intensidad de campo
+- Zona de Servicio : Localidad de
 
-mayor o igual que 54 Db
+Antofagasta.
 
-(uV/m), referida al punto
+Superficie
 
-de emisión de la señal.
+delimitada por
+
+una intensidad
+
+de campo
+
+mayor o igual
+
+que 54 Db
+
+uV/m), referida
+
+al punto DE
+
+emisión de la
+
+señal.
 
 - Período de la concesión : 25 años.
 
@@ -70,7 +86,9 @@ de emisión de la señal.
 
 - Plazo término de obras : 150 días.
 
-- Plano inicio de transmisiones : 180 días.
+- Plano inicio de
+
+transmisiones : 180 días.
 
 - Potencia máxima radiada : 1.000 Watt.
 
@@ -100,25 +118,45 @@ radiación : 25 metros.
 
 Ubicación de la radioemisora
 
-- Dirección de los estudios : Calle Phillips Nº 40,
+- Dirección de los estudios : Calle Phillips
 
-piso Nº 2, Santiago,
+Nº 40, piso
 
-Región Metropolitana.
+Nº 2, Santiago,
 
-- Coordenadas geográficas : 33°26'00" Latitud Sur.
+Región
 
-70°38'49" Longitud Oeste.
+Metropolitana.
+
+- Coordenadas geográficas : 33°26'00"
+
+Latitud Sur.
+
+70°38'49"
+
+Longitud Oeste.
 
 - Dirección de la planta
 
-transmisora y sistema radiante : Cerro Los Morros,
+transmisora y sistema
 
-Antofagasta, II Región.
+radiante : Cerro Los
 
-- Coordenadas geográficas : 23°34'44" Latitud Sur.
+Morros,
 
-70°20'04" Longitud Oeste.
+Antofagasta,
+
+II Región.
+
+- Coordenadas geográficas : 23°35'10"
+
+Latitud Sur.
+
+70°19'48"
+
+Longitud Oeste.
+
+Datum WGS 84.
 
 4. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones de la ley, reglamentos, normas técnicas y sus modificaciones, en lo que le sean aplicables.
 
