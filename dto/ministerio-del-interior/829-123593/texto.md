@@ -84,133 +84,33 @@ c) Podrá contemplarse la ejecución de obras complementarias a la urbanización
 
 #### Artículo 8º
 
-Los proyectos que se consideren en el Programa deberán reunir, a lo menos, los siguientes requisitos: a) Que al menos el 90% de las familias susceptibles
+Los proyectos que se consideren en el Programa deberán reunir, a lo menos, los siguientes requisitos: a) Que al menos el 90% de las familias susceptibles de beneficiar sean consideradas como de bajos ingresos clasificados hasta en 600 puntos en los índices de los Comités de Asistencia Social -CAS-, de acuerdo con los antecedentes de estratificación socioeconómica obtenidos por la respectiva Municipalidad. No podrán ser asignatarios de soluciones sanitarias aquellas personas o su cónyuge o conviviente que sean dueños o beneficiarios de alguna solución sanitaria o de una solución habitacional dotada de infraestructura sanitaria;
 
-de beneficiar sean consideradas como de bajos ingresos
-
-clasificados hasta en 600 puntos en los índices de los
-
-Comités de Asistencia Social -CAS-, de acuerdo con los
-
-antecedentes de estratificación socioeconómica obtenidos
-
-por la respectiva Municipalidad. No podrán ser asignatarios
-
-de soluciones sanitarias aquellas personas o su cónyuge
-
-o conviviente que sean dueños o beneficiarios de alguna
-
-solución sanitaria o de una solución habitacional dotada
-
-de infraestructura sanitaria;
-
-b) Que los proyectos se enmarquen dentro de los
-
-lineamientos de los planes de desarrollo comunal,
-
-regulador comunal y demás instrumentos de planificación
+b) Que los proyectos se enmarquen dentro de loslineamientos de los planes de desarrollo comunal, regulador comunal y demás instrumentos de planificación
 
 territorial;
 
-c) Demostrar, por conducto de los organismos
+c) Demostrar, por conducto de los organismos encargados de la prestación de los servicios públicos correspondientes, la factibilidad de los mismos;
 
-encargados de la prestación de los servicios
+d) Que el costo total de solución a proporcionar no supere las 110 unidades de fomento, el que podrá incrementarse en los casos excepcionales que se indican a continuación:
 
-públicos correspondientes, la factibilidad de
+i) En aquellos Proyectos que únicamente contemplen infraestructura sanitaria, el costo total máximo podrá ascender hasta 400 unidades de fomento.
 
-los mismos;
+ii) En aquellos proyectos que contemplen infraestructura sanitaria con conexión a redes existentes de agua potable, alcantarillado y energía eléctrica, el costo total podrá ascender hasta 600 unidades de fomento.
 
-d) Que el costo total de la solución a proporcionar
+iii) En aquellos proyectos que contemplen infraestructura sanitaria que requiera soluciones individuales de agua potable, evacuación de aguas servidas y generación de energía eléctrica, el costo total máximo podrá ascender hasta 1.000 unidades de fomento.
 
-no sea superior a 110 unidades de fomento, guarismo
+Asimismo, los costos totales máximos de las soluciones a proporcionar reguladas con anterioridad podrán aumentarse, en cada caso, hasta en un 35% respecto de aquellos proyectos postulados y ejecutados en territorios definidos como Zonas Extremas, según lo establecido por el decreto supremo N° 43, de 2023, del Ministerio del Interior y Seguridad Pública, que aprueba el reglamento que fija la Política Nacional de Zonas Extremas. Del mismo modo, los costos totales máximos podrán ser aumentados hasta en un 20% en aquellos proyectos postulados y ejecutados en zonas rurales, de conformidad con lo establecido en el instrumento de planificación territorial que corresponda. Los aumentos regulados en el presente inciso podrán aplicarse conjuntamente y se aplicarán sobre los máximos que resulten de los incrementos a los que se refiere el inciso primero.
 
-que podrá ser incrementado en casos calificados por
+Los incrementos y aumentos excepcionales establecidos precedentemente deberán estar debidamente fundados por las entidades postulantes para esta línea de acción, pudiendo considerar los siguientes factores, a saber, modificaciones en la normativa aplicable; modificaciones en los requisitos de calidad que influyan en los estándares de las infraestructuras sanitarias; costo de los materiales de construcción, de la mano de obra, de transporte, logístico u otros insumos; necesidad de realizar conexiones a redes de servicios básicos, especialmente si la infraestructura es insuficiente o inexistente; ubicación geográfica; presencia de terrenos en condiciones adversas, que pueden requerir obras adicionales de preparación y estabilización; adopción de nuevas tecnologías y métodos de construcción más eficientes; uso de alternativas de solución sanitaria particulares, áreas afectadas por catástrofes naturales, entre otros que se estimen pertinentes para tal propósito.
 
-resolución fundada del Ministerio del Interior; en un
+e) Que la Municipalidad respectiva se comprometa a adoptar las medidas adecuadas para proveer los servicios de equipamiento urbano básico cuando éste no existiere total o parcialmente, tales como guarderías infantiles, educación primaria, salud y acceso vial, durante un lapso razonable, que no podrá exceder de 2 años contados desde la fecha de la recepción de las obras. Para estos efectos se requerirá de la evaluación de las características particulares de emplazamiento y accesibilidad de los conjuntos;
 
-50%, y si el proyecto contempla obras complementarias
+f) Que las inversiones en infraestructura tales como soluciones sanitarias, sistemas de agua potable, alcantarillado y electricidad, tengan la tasa interna de retorno -TIR- indicada por el Ministerio de Planificación y Cooperación;
 
-y/u obras de arte, éste podrá ser incrementado en
+g) Que exista un aporte previo mínimo de cada beneficiario por un monto de 3 u 8 Unidades de Fomento según sea el caso, homologables a los aportes de otros programas análogos y sus variaciones. Dicho aporte deberá enterarse en dos etapas, 1 Unidad de Fomento previo a la recomendación técnica sin condiciones de la Serplac respectiva y la diferencia de unidades de fomento previo a la asignación de recursos y autorización de licitación por parte de la Subsecretaría de Desarrollo Regional y Administrativo, sin perjuicio que este aporte sea enterado por completo en la primera etapa, y
 
-un 40% respecto del costo máximo de las infraestructuras
-
-sanitarias, incluido el incremento de costo en
-
-su caso. Asimismo, en el caso de proyectos emplazados
-
-en sectores rurales semiconcentrados y dispersos,
-
-el costo por solución podrá exceder en un 50% el
-
-máximo que resulte aplicados el o los incrementos
-
-señalados precedentemente.
-
-e) Que la Municipalidad respectiva se comprometa a
-
-adoptar las medidas adecuadas para proveer los servicios de
-
-equipamiento urbano básico cuando éste no existiere total o
-
-parcialmente, tales como guarderías infantiles, educación
-
-primaria, salud y acceso vial, durante un lapso razonable,
-
-que no podrá exceder de 2 años contados desde la fecha de la
-
-recepción de las obras. Para estos efectos se requerirá de
-
-la evaluación de las características particulares de
-
-emplazamiento y accesibilidad de los conjuntos;
-
-f) Que las inversiones en infraestructura
-
-tales como soluciones sanitarias, sistemas de agua
-
-potable, alcantarillado y electricidad, tengan la
-
-tasa interna de retorno -TIR- indicada por el
-
-Ministerio de Planificación y Cooperación;
-
-g) Que exista un aporte previo mínimo de cada
-
-beneficiario por un monto de 3 u 8 Unidades de Fomento
-
-según sea el caso, homologables a los aportes de otros
-
-programas análogos y sus variaciones. Dicho aporte deberá
-
-enterarse en dos etapas, 1 Unidad de Fomento previo a
-
-la recomendación técnica sin condiciones de la Serplac
-
-respectiva y la diferencia de unidades de fomento previo
-
-a la asignación de recursos y autorización de licitación
-
-por parte de la Subsecretaría de Desarrollo Regional y
-
-Administrativo, sin perjuicio que este aporte sea enterado
-
-por completo en la primera etapa, y
-
-h) Que por regla general, las obras de pavimentación
-
-se regirán por la Ley General de Urbanismo y
-
-Construcciones y su Ordenanza. Sólo excepcionalmente
-
-y por motivos calificados certificados por el Servicio
-
-de Vivienda y Urbanismo, se podrá contemplar una
-
-pavimentación mínima en los términos fijados en el
-
-decreto supremo Nº804, de 1982, del Ministerio del
-
-Interior y sus modificaciones.
+h) Que por regla general, las obras de pavimentación se regirán por la Ley General de Urbanismo y Construcciones y su Ordenanza. Sólo excepcionalmente y por motivos calificados certificados por el Servicio de Vivienda y Urbanismo, se podrá contemplar una pavimentación mínima en los términos fijados en el decreto supremo Nº804, de 1982, del Ministerio del Interior y sus modificaciones.
 
 #### Artículo 9º
 
