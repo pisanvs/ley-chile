@@ -16,147 +16,165 @@ De la Comisión
 
 #### Artículo 1º
 
-Créase una Comisión asesora del Presidente de la República, denominada Comisión Nacional para el Desarrollo Logístico, de carácter interministerial, en adelante la Comisión, cuyos objetivos, composición, organización y funciones se especifican en los artículos siguientes.
+Créase una Comisión asesora del/de la Presidente/a de la República, denominada Comisión Nacional para el Desarrollo Logístico, de carácter interministerial, en adelante la Comisión, cuyos objetivos, composición, organización y funciones se especifican en los artículos siguientes.
 
 #### Artículo 2º
 
-La Comisión tendrá por objeto principal proponer al Presidente de la República una política de desarrollo logístico que propenda a una eficiente ordenación y prestación de los diversos elementos que componen dichas actividades, así como lo relacionado con la optimización y racionalización de procesos, disminución de tiempos, minimización de trámites para la exportación e importación, potenciamiento de modos y multimodalidad eficientes, uso de tecnologías, generación de estadísticas y otras materias relacionadas, abarcando al sector público y privado. Asesorará en este contexto en la formulación de planes, proyectos y programas en el ámbito logístico nacional propuestas por ella y tendientes a optimizar los sistemas logísticos del país, aprovechando para ello las capacidades existentes y las facultades que las respectivas normas legales le confieren a cada miembro de la Comisión.
+La Comisión tendrá por objeto principal proponer al/a la Presidente/a de la República una política de desarrollo logístico que propenda a una eficiente ordenación y prestación de los diversos elementos que componen dichas actividades, así como lo relacionado con la optimización y racionalización de procesos, disminución de tiempos, minimización de trámites para la exportación e importación, potenciamiento de modos y multimodalidad eficientes, uso de tecnologías, generación de estadísticas y otras materias relacionadas, abarcando al sector público y privado. Asesorará en este contexto en la formulación de planes, proyectos y programas en el ámbito logístico nacional propuestas por ella y tendientes a optimizar los sistemas logísticos del país, aprovechando para ello las capacidades existentes y las facultades que las respectivas normas legales le confieren a cada miembro de la Comisión.
 
-La Comisión informará del cumplimiento de dicha política de desarrollo logístico, aprobada por el Presidente de la República, informando a éste de los avances y dificultades que se registren en su aplicación. Asimismo, propondrá, cuando se estime necesario, modificaciones a dicha política, en función de sus avances y de los cambios que se manifiesten en la disciplina.
+La Comisión informará del cumplimiento de dicha política de desarrollo logístico, aprobada por el/la Presidente/a de la República, informando a éste/a de los avances y dificultades que se registren en su aplicación. Asimismo, propondrá, cuando se estime necesario, modificaciones a dicha política, en función de sus avances y de los cambios que se manifiesten en la disciplina.
 
 #### Artículo 3º
 
 La Comisión estará formada por:
 
-a) Un Comité de Ministros, que será la instancia formal para tomar los acuerdos que la Comisión adopte en relación con las funciones de asesoría asignadas a ella;
+a) Un Comité de Ministros y Ministras, que será la instancia formal para tomar los acuerdos que la Comisión adopte en relación con las funciones de asesoría asignadas a ella;
 
-b) Un Consejo Consultivo, que será la instancia representativa del sector privado respecto de las materias que desarrolle la Comisión, y
+b) Una Mesa Técnica, que será el organismo técnico asesor del Comité de Ministros y Ministras para llevar a cabo las tareas que éste le encomienda; y
 
-c) Una Secretaría Ejecutiva, que será el organismo asesor técnico del Comité de Ministros para llevar a cabo las tareas que éste le encomiende, a cargo de un Secretario Ejecutivo.
+c) Una Secretaría Ejecutiva, que será el organismo coordinador del Comité de Ministros y Ministras, la Mesa Técnica y los Grupos de Trabajo, a cargo de un/una Secretario/a Ejecutivo/a.
 
 #### Artículo 4º
 
 Las funciones de la Comisión serán:
 
-a) Prestar asesoría, proponiendo al Presidente de la República planes, proyectos y programas de desarrollo logístico.
+a) Prestar asesoría, proponiendo al/a la Presidente/a de la República políticas, planes, proyectos y programas de desarrollo del sector logístico de carga.
 
-b) Proponer un plan de inversiones en infraestructura para el desarrollo logístico, teniendo en cuenta los escenarios futuros de crecimiento y sustentabilidad del comercio exterior chileno.
+b) Proponer al/a la Presidente/a de la República un plan de inversiones en infraestructura para el desarrollo logístico, teniendo en cuenta los escenarios futuros de crecimiento y sustentabilidad del comercio exterior chileno, en los plazos que establezca el Comité de Ministros y Ministras de la Comisión.
 
-c) Recomendar la formulación de un programa de estudios para la revisión periódica y análisis comparativo del estado de situación del desarrollo logístico nacional.
+c) Recomendar al/a la Presidente/a de la República la formulación de un programa de estudios para la revisión periódica y análisis comparativo del estado de situación del desarrollo logístico nacional.
 
-d) Prestar asesoría proponiendo planes de inversión y de incentivo para la introducción de nuevas tecnologías en la explotación de los servicios logísticos.
+d) Prestar asesoría al/a la Presidente/a de la República proponiendo planes de inversión y de incentivo para la introducción de nuevas tecnologías en la explotación de los servicios logísticos.
 
-e) Proponer cambios de legislación y reglamentos, así como las normas técnicas que sean necesarias para un mayor desarrollo en logística.
+e) Proponer al/a la Presidente/a de la República cambios de legislación y reglamentos, así como las normas técnicas que sean necesarias para un mayor desarrollo en logística.
 
 f) Asesorar, en el ámbito internacional, respecto a las políticas y programas en materias de logística y relacionadas con éstas.
 
-g) Sugerir las labores de capacitación de profesionales y técnicos en materias logísticas y otras relacionadas con éstas, tanto dentro como fuera del país.
+g) Sugerir al/a la Presidente/a de la República las labores de capacitación de profesionales y técnicos en materias logísticas y otras relacionadas con éstas, tanto dentro como fuera del país.
 
-h) Prestar asesoría, proponiendo acciones conjuntas con otros organismos, públicos y/o privados, destinadas a potenciar la eficiencia, capacidad y competitividad del sistema logístico.
+h) Prestar asesoría al/a la Presidente/a de la República, proponiendo acciones conjuntas con otros organismos, públicos y/o privados, destinadas a potenciar la eficiencia, capacidad y competitividad del sistema logístico.
 
-i) Informar anualmente al Presidente de la República de los resultados de la Comisión y de la evolución de la situación en el país.
+i) Informar anualmente al/a la Presidente/a de la República de los resultados de la Comisión y de la evolución de la situación en el país.
 
-j) Las demás funciones de asesoría que le encomiende el Presidente de la República.
+j) Las demás funciones de asesoría que le encomiende el/la Presidente/a de la República.
 
 ## Título II
 
-Del Comité de Ministros
+Del Comité de Ministros y Ministras
 
-#### Artículo 5º
+#### Artículo 5°
 
-El Comité de Ministros estará integrado por:
+El Comité de Ministros y Ministras estará integrado por:
 
-. El Ministro de Transportes y Telecomunicaciones, quien lo presidirá
+. El/la Ministro/a de Transportes y Telecomunicaciones, quien lo presidirá.
 
-. El Ministro de Economía, Fomento y Turismo
+. El/la Ministro/a de Economía, Fomento y Turismo.
 
-. El Ministro de Hacienda
+. El/la Ministro/a de Hacienda.
 
-. El Ministro de Obras Públicas
+. El/la Ministro/a de Obras Públicas.
+
+. El/la Ministro/a de Defensa Nacional.
 
 Adicionalmente, participarán como invitados permanentes:
 
-. El Presidente del Comité Sistema de Empresas (SEP)
+. El/la Subsecretario/a General de la Presidencia.
 
-. El Presidente del Consejo Nacional de Innovación para la Competitividad (CNIC)
+. El/la Presidente/a del Comité Sistema de Empresas (SEP).
 
-Los integrantes del Comité podrán participar por sí mismos o mediante representantes, los cuales deberán ser informados mediante oficio.
+. El/la Secretario/a Ejecutivo/a de la Comisión.
 
-#### Artículo 6º
+En aquellas sesiones en que se aborden materias específicas vinculadas a su ámbito de competencias, participarán, como invitados especiales:
 
-El Comité de Ministros sesionará cuando lo convoque su Presidente por propia iniciativa o a petición de al menos tres de sus miembros, la cual para tales efectos deberá ser presentada al Secretario Ejecutivo. Participarán en las reuniones, además de los integrantes del Comité, el Secretario Ejecutivo de la Comisión, en calidad de invitado permanente. Asimismo, podrán asistir las personas que invite el Presidente del Comité.
+. El/la Secretario/a de la Comisión Nacional de Facilitación del Transporte Aéreo Internacional, para temáticas vinculadas al sector logístico aéreo.
+
+. El/la Jefe/a de la División de Evaluación Social de Inversiones, del Ministerio de Desarrollo Social y Familia, para materias relacionadas con proyectos de inversión cuya responsabilidad corresponda a organismos de la administración del Estado o empresas públicas.
+
+Será la Secretaría Ejecutiva quien convoque a los invitados especiales según requerimiento del Comité de Ministros y Ministras.
+
+Los integrantes del Comité y los invitados permanentes podrán participar en las sesiones por sí mismos o mediante representantes, los cuales deberán ser informados mediante oficio a la Secretaría Ejecutiva. Sin perjuicio de lo anterior, en caso de ausencia del Presidente/a del Comité de Ministros y Ministras, éste podrá designar un representante, mas el cargo de Presidente deberá ejercerlo otro de los miembros del Comité, designado de común acuerdo por ellos.
+
+El quórum necesario para sesionar será de, al menos, la mayoría absoluta de sus miembros e invitados permanentes, sin contar al/a la Secretario/a Ejecutivo/a.
+
+#### Artículo 6°
+
+El Comité de Ministros y Ministras sesionará cuando lo convoque el/la Presidente/a del Comité por propia iniciativa o a petición escrita de al menos tres de sus miembros o invitados permanentes, la cual para tales efectos deberá ser presentada al/a la Secretario/a Ejecutivo/a.
+
+Asimismo, podrán asistir personas adicionales no contempladas en el artículo 5° anterior que sean expresamente invitadas por el/la Presidente/a del Comité o por el/la Secretario/a Ejecutivo/a, en este último caso, a solicitud de, al menos, tres de los miembros de la Comisión.
+
+#### Artículo 7°
+
+El Comité de Ministros y Ministras podrá realizar consultas al sector privado en relación con las materias que aborde la Comisión cuando lo solicite su Presidente/a o a petición de, al menos, tres de sus miembros o invitados permanentes. Para tales efectos, la Secretaría Ejecutiva se encargará de llevarlas a cabo, en base a los procedimientos que defina la Mesa Técnica. Estos procedimientos deberán contemplar, entre otros, el régimen de protección o confidencialidad de la información que sea entregada por el sector privado en el marco de las respuestas solicitadas.
 
 ## Título III
 
-Del Consejo Consultivo
+## Título III — De la Mesa Técnica
 
-#### Artículo 7º
+#### Artículo 8°
 
-El Consejo Consultivo será la instancia representativa del sector privado, respecto de las materias que desarrolle la Comisión, pudiendo también presentar al Comité iniciativas de motivación propia.
+La Mesa Técnica elaborará propuestas de acciones interministeriales para el desarrollo del sector logístico, las cuales serán elevadas para sanción del Comité de Ministros y Ministras.
 
-El Consejo estará conformado por:
+La Mesa Técnica estará integrada por un/una representante de cada uno de los miembros del Comité de Ministros y Ministras y de los invitados permanentes, quienes serán designados/as en consideración a sus conocimientos técnicos, debiendo ser informada mediante oficio a la Secretaría Ejecutiva. La designación como miembro de la Mesa Técnica será por plazo indefinido, mientras la persona designada mantenga sus funciones, pudiendo modificarse por quien la efectúa en cualquier momento y sin necesidad de expresar causa.
 
-. Un representante de la Asociación de Exportadores de Chile A.G. (ASOEX)
+#### Artículo 9°
 
-. Un representante de la Asociación de Transporte Expreso de Chile A.G. (ATREX)
+La Mesa Técnica sesionará según los procedimientos y en la periodicidad que defina el Comité de Ministros y Ministras. Su coordinación recaerá en el/la Secretario/a Ejecutivo/a de la Comisión.
 
-. Un representante de la Asociación Logística de Chile A.G. (ALOG)
+Asimismo, podrán asistir las personas que defina el Comité de Ministros y Ministras o las que acuerde la Mesa Técnica por mayoría absoluta de sus integrantes, quienes deberán ser invitados de manera previa y escrita por la Secretaría Ejecutiva de la Comisión.
 
-. Un representante de la Asociación Nacional de Agentes de Aduanas A.G. (ANAGENA)
+#### Artículo 10°
 
-. Un representante de la Asociación Nacional de Agentes de Naves de Chile A.G. (ASONAVE)
+La Mesa Técnica definirá los procedimientos por medio de los cuales el Comité de Ministros y Ministras efectuará consultas al sector privado, de acuerdo con lo establecido en el artículo 7° anterior, incluyendo, pero no limitado a, los destinatarios de las consultas, los formatos de aplicación y los plazos asociados. El/la Secretario/a Ejecutivo/a será el/la encargado/a de coordinar la ejecución de la consulta.
 
-. Un representante de la Asociación Nacional de Armadores A.G. (ANA)
+En las consultas, los privados podrán presentar propuestas que serán discutidas en la Mesa Técnica y, si corresponde, en el Comité de Ministros y Ministras.
 
-. Un representante de la Cámara Aduanera de Chile A.G.
+#### Artículo 11°
 
-. Un representante de la Cámara Marítima y Portuaria de Chile A.G.
+La Mesa Técnica llevará a cabo sus funciones por medio de sesiones en las que participarán todos los miembros, las que serán sostenidas con la periodicidad que determine el Comité de Ministros y Ministras.
 
-. Un representante del Foro Logístico de Puerto Valparaíso (FOLOVAP)
+Sin perjuicio de ello, la Mesa Técnica podrá crear Grupos de Trabajo, que serán instancias técnicas de discusión para materias específicas de desarrollo logístico que requieran la coordinación entre los organismos públicos participantes en la Comisión.
 
-. Representantes de universidades y centros de estudios
+#### Artículo 12°
 
-El Consejo podrá invitar a sus sesiones, o solicitar la opinión, de otras instituciones y/o personas que no sean miembros de éste. Para ello, se hará la solicitud respectiva al Secretario Ejecutivo, quien a su vez invitará formalmente, de acuerdo a la solicitud anterior, a la institución o persona indicada.
+Los Grupos de Trabajo se compondrán por miembros de la Mesa Técnica, sobre la base de las características particulares de la materia de análisis.
 
-#### Artículo 8º
+Adicionalmente, podrán formar parte de los Grupos de Trabajo representantes de servicios públicos, empresas públicas y otros organismos de la administración del Estado, entre otros, a sugerencia de la Mesa Técnica o el Comité de Ministros y Ministras.
 
-Los miembros del Consejo escogerán un delegado, quien estará a cargo de llevar la comunicación formal con el Comité y la Secretaría Ejecutiva. Dicha designación, para que tenga efecto, deberá ser informada formalmente al Secretario Ejecutivo.
+#### Artículo 13°
 
-#### Artículo 9º
-
-En forma previa al envío formal al Presidente de la República o a cualquier otra autoridad competente de una iniciativa a nombre de la Comisión, el Comité solicitará al Consejo su opinión, la cual deberá ser informada junto con dicha iniciativa.
-
-Por su parte, el Consejo podrá también presentar al Comité iniciativas de motivación propia, las cuales formarán parte del informe señalado en el literal i) del artículo 4º del presente decreto. Éstas deberán ser presentadas por el Presidente del Consejo al Secretario Ejecutivo, quien informará de ello al Comité.
+Los Grupos de Trabajo sesionarán conforme a lo que disponga el/la Secretario/a Ejecutivo/a, con el propósito de cumplir los objetivos definidos por la Mesa Técnica.
 
 ## Título IV
 
 De la Secretaría Ejecutiva
 
-#### Artículo 10º
+#### Artículo 14º
 
 La Secretaría Ejecutiva de la Comisión será el soporte técnico de ésta, y tendrá las siguientes funciones, además de las indicadas en los demás artículos del presente decreto:
 
-a) Convocar las reuniones del Comité, por instrucciones de su Presidente o tras la solicitud indicada en el artículo 6º del presente decreto.
+a) Convocar las reuniones del Comité de Ministros y Ministras, por instrucciones de su Presidente/a o tras la solicitud indicada en el artículo 6º del presente decreto.
 
-b) Preparar y distribuir la agenda y el acta correspondiente a cada reunión.
+b) Preparar y distribuir la agenda de manera previa a cada reunión.
 
-c) Encargarse de la preparación de los documentos de base necesarios para informar al Comité.
+c) Tomar acta de las sesiones del Comité de Ministros y Ministras y de la Mesa Técnica, y presentarlas para su aprobación a éstos.
 
-d) Solicitar y distribuir minutas de los temas tratados por el Comité.
+d) Encargarse de la preparación de los documentos de base necesarios para informar al Comité de Ministros y Ministras.
 
-e) Mantener un registro de quienes sean designados representantes de los miembros del Comité y de las organizaciones que conforman el Consejo Consultivo, así como de quien sea designado Presidente de éste.
+e) Solicitar y distribuir minutas de los temas tratados por el Comité de Ministros y Ministras.
 
-f) Solicitar al Consejo Consultivo su opinión respecto de aquellas iniciativas emanadas del Comité, registrar dichas opiniones e informarlas a éste.
+f) Mantener un registro de quienes sean designados representantes de los miembros del Comité de Ministros y Ministras, de la Mesa Técnica y de los Grupos de Trabajo.
 
-g) Recibir, de parte del delegado del Consejo, las iniciativas que emanen de éste, e informarlas al Comité.
+g) Realizar consultas al sector privado respecto de aquellas iniciativas emanadas del Comité de Ministros y Ministras, registrar dichas opiniones e informarlas a éste, en base a los procedimientos establecidos por la Mesa Técnica.
 
-h) Desempeñar las otras funciones que el Comité le encomiende.
+h) Preparar los informes que deban ser enviados al/a la Presidente/a de la República sobre la base de las instrucciones que reciba de parte del Comité de Ministros y Ministras, para la aprobación de éste.
 
-#### Artículo 11º
+i) Desempeñar las otras funciones que el Comité de Ministros y Ministras le encomiende.
 
-La Secretaría Ejecutiva estará radicada administrativamente en el Ministerio de Transportes y Telecomunicaciones, y su Secretario Ejecutivo será designado por resolución de dicho Ministerio.
+#### Artículo 15º
 
-#### Artículo 12º
+La Secretaría Ejecutiva estará radicada administrativamente en el Ministerio de Transportes y Telecomunicaciones, y su Secretario/a Ejecutivo/a será designado/a por resolución de dicho Ministerio.
+
+#### Artículo 16º
 
 El presente decreto comenzará a regir a contar de su publicación en el Diario Oficial de la República.
 
