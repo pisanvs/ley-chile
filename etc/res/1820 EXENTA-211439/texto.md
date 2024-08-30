@@ -1102,6 +1102,18 @@ Durante el año 2023 y para participar en el 33º Proceso de Selección de Proye
 
 Durante el año 2024 y para proyectos seleccionados en el 33º Llamado del Programa de Pavimentación Participativa quedarán exentos de realizar el financiamiento complementario especificado en la letra e) del número 3º de esta resolución las municipalidades de Viña del Mar, Quilpué y Villa Alemana, de la Región de Valparaíso, comunas decretadas zona de catástrofe por incendios.
 
+#### Artículo 35° transitorio
+
+<!-- parte:10514659 -->
+
+En el 34° Proceso de Selección de Proyectos, para determinar los valores referenciales del m² de pavimentación y de repavimentación, según el procedimiento establecido en el Resuelvo 7° de la resolución exenta N° 1.820 (V. y U.), de 2003, se podrán considerar aquellos contratos cuyos costos reales no superen en más de un 50% su presupuesto original.
+
+#### Artículo 36° transitorio
+
+<!-- parte:10514660 -->
+
+Durante el año 2024 en la Región Metropolitana se suspende de manera excepcional la realización del 34° Proceso de Selección de Proyectos del Programa de Pavimentación Participativa.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
