@@ -44,4 +44,4 @@ Anótese, comuníquese y publíquese en el Diario Oficial para fines informativo
 
 ANEXO
 
-Tabla 1. Estaciones con representatividad poblacional y/o representatividad de recursos naturales
+Tabla 1. Estaciones con representatividad poblacional, representatividad de recursos naturales y/o representatividad poblacional de gases
