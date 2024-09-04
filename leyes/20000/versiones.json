@@ -50,7 +50,7 @@
   },
   {
     "fecha": "2024-09-04",
-    "committed": false,
+    "committed": true,
     "modificadaPor": {
       "numero": "21694",
       "idNorma": 1206373,
