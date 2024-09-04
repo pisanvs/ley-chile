@@ -26,22 +26,6 @@ Si el acceso fuere realizado con el ánimo de apoderarse o usar la información 
 
 En caso de ser una misma persona la que hubiere obtenido y divulgado la información, se aplicará la pena de presidio menor en sus grados medio a máximo.
 
-No será objeto de sanción penal por haber incurrido en los hechos tipificados en el inciso primero, el que habiendo accedido a un sistema informático cuyo responsable tenga domicilio en Chile, lo hiciera cumpliendo con las siguientes condiciones:
-
-1. Que se encuentre inscrito en el registro que al efecto lleve la Agencia Nacional de Ciberseguridad.
-
-2. Que el acceso se haya realizado habiendo informado previamente de ello a la Agencia.
-
-3. Que el acceso y las vulnerabilidades de seguridad detectadas hayan sido reportadas al responsable del sistema informático y a la Agencia, tan pronto se hubiere realizado.
-
-4. Que el acceso no haya sido realizado con el ánimo de apoderarse o de usar la información contenida en el sistema informático, ni con intención fraudulenta. Tampoco podrá haber actuado más allá de lo que era necesario para comprobar la existencia de una vulnerabilidad, ni habrá utilizado métodos que pudieran conducir a denegación de servicio, a pruebas físicas, utilización de código malicioso, ingeniería social y alteración, eliminación, exfiltración o destrucción de datos.
-
-5. Que no haya divulgado públicamente la información relativa a la potencial vulnerabilidad.
-
-6. Que se trate de un acceso a un sistema informático de los organismos de la Administración del Estado. En el resto de los casos, requerirá del consentimiento del responsable del sistema informático.
-
-7. Que haya dado cumplimiento a las demás condiciones sobre comunicación responsable de vulnerabilidades que al efecto hubiere dictado la Agencia.
-
 #### Artículo 3°
 
 <!-- parte:10343817 -->
@@ -118,7 +102,7 @@ DEL PROCEDIMIENTO
 
 <!-- parte:10343826 -->
 
-Sin perjuicio de las reglas contenidas en el Código Procesal Penal, las investigaciones a que dieren lugar los delitos previstos en esta ley también podrán iniciarse por querella del Ministro de Seguridad Pública o de los secretarios o secretarias regionales ministeriales de seguridad pública, cuando las conductas señaladas en esta ley interrumpieren el normal funcionamiento de un servicio de utilidad pública.
+Sin perjuicio de las reglas contenidas en el Código Procesal Penal, las investigaciones a que dieren lugar los delitos previstos en esta ley también podrán iniciarse por querella del Ministro del Interior y Seguridad Pública, de los delegados presidenciales regionales y de los delegados presidenciales provinciales, cuando las conductas señaladas en esta ley interrumpieren el normal funcionamiento de un servicio de utilidad pública.
 
 #### Artículo 12
 
@@ -164,7 +148,7 @@ c) Prestadores de servicios: Toda entidad pública o privada que ofrezca a los u
 
 <!-- parte:10343832 -->
 
-Derogado.
+Autorización e Investigación Académica. Para efectos de lo previsto en el artículo 2° se entenderá que cuenta con autorización para el acceso a un sistema informático, el que en el marco de investigaciones de vulnerabilidad o para mejorar la seguridad informática, acceda a un sistema informático mediando la autorización expresa del titular del mismo.
 
 #### Artículo 17
 
