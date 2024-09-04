@@ -454,15 +454,7 @@ Si los delitos de porte de armas o artefactos descritos en el inciso primero del
 
 #### Artículo 17
 
-C.- Será circunstancia atenuante especial de responsabilidad penal, y permitirá rebajar la pena hasta en dos grados, la cooperación eficaz que conduzca al esclarecimiento de hechos investigados que sean constitutivos de alguno de los delitos previstos en esta ley o permita la identificación de sus responsables; o sirva para prevenir o impedir la perpetración o consumación de otros delitos de igual o mayor gravedad contemplados en esta ley.
-
-Tratándose del delito contemplado en el artículo 8, la reducción de la pena podrá comprender hasta tres grados.
-
-Se entiende por cooperación eficaz el suministro de datos o informaciones precisas, verídicas y comprobables, que contribuyan necesariamente a los fines señalados en el inciso primero.
-
-El Ministerio Público deberá expresar, en la formalización de la investigación o en su escrito de acusación, si la cooperación prestada por el imputado ha sido eficaz a los fines señalados en el inciso primero.
-
-La reducción de pena se determinará con posterioridad a la individualización de la sanción según las reglas de los artículos 12, 14 B y 17 B, y se practicará a todas las penas impuestas en aplicación de dichas disposiciones.
+C.- Derogado.
 
 ## Título III
 

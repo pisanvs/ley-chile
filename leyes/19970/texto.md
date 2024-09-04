@@ -50,6 +50,8 @@ Las huellas genéticas incluidas en este Registro deberán ser integradas adicio
 
 Registro de Imputados. El Registro de Imputados contendrá las huellas genéticas de quienes hubieren sido imputados de un delito, determinadas sobre la base de muestras biológicas obtenidas en conformidad con lo dispuesto en el Código Procesal Penal y en el artículo 17 de esta ley.
 
+En todo caso, si se tratare de un imputado que se encuentra en situación migratoria irregular, a cuyo respecto se haya formalizado investigación por un crimen o simple delito, el tribunal podrá disponer, previa solicitud del Ministerio Público, la incorporación de su huella genética en el registro de imputados del Sistema.
+
 #### Artículo 7º
 
 Registro de Evidencias y Antecedentes. En el Registro de Evidencias y Antecedentes se conservarán las huellas genéticas que hubieren sido obtenidas en el curso de una investigación criminal y que correspondieren a personas no identificadas.
@@ -134,11 +136,11 @@ Incorporación de huellas genéticas de imputados al Registro de Condenados. Cua
 
 Si no se hubiere determinado la huella genética del imputado durante el procedimiento criminal, en la sentencia condenatoria el tribunal ordenará que se determine, previa toma de muestras biológicas si fuere necesario, y se incluya en el Registro de Condenados. Lo anterior sólo tendrá lugar cuando se condenare al imputado por alguno de los siguientes delitos:
 
-a) los previstos en los artículos 141, 142, 150 A, 150 B, 296 Nºs. 1 y 2, 313 d, 315, 316, 348, 352, 395, 396, 397 Nº 1, 401, 403 bis, 433, 436 inciso primero, 440, 443, 443 bis, 448 bis, 474, 475, 476, y 480 del Código Penal;
+a) los previstos en los artículos 141, 142, 150 A, 150 B, 292, 293, 296 Nºs. 1 y 2, 313 d, 315, 316, 348, 352, 395, 396, 397 Nº 1, 401, 403 bis, 411 bis, 411 ter y 411 quáter, 433, 436 inciso primero, 438, 440, 443, 443 bis, 448 bis, 474, 475, 476, y 480 del Código Penal;
 
 b) los previstos en los Párrafos 1º, 5º, 6º, 6° bis y 7º del Título VII y 1º y 2º del Título VIII del Libro Segundo del Código Penal, y
 
-c) elaboración o tráfico ilícitos de estupefacientes o delito terrorista.
+c) elaboración o tráfico ilícitos de estupefacientes o delito terrorista, o los delitos contemplados en la Ley sobre Control de Armas.
 
 En todo caso, el tribunal competente, de oficio o a petición del fiscal, y en consideración a los antecedentes personales del condenado, así como a la naturaleza, modalidades y móviles determinantes del delito, podrá ordenar en la sentencia la práctica de las mismas diligencias de toma de muestras biológicas y determinación y registro de huellas genéticas respecto de un condenado a pena de crimen que no se encontrare en las situaciones previstas en el inciso precedente.
 

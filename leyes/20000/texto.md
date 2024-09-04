@@ -184,17 +184,7 @@ De la cooperación eficaz
 
 #### Artículo 22
 
-Será circunstancia atenuante de responsabilidad penal la cooperación eficaz que conduzca al esclarecimiento de los hechos investigados o permita la identificación de sus responsables; o sirva para prevenir o impedir la perpetración o consumación de otros delitos de igual o mayor gravedad contemplados en esta ley. En estos casos, el tribunal podrá reducir la pena hasta en dos grados.
-
-Sin embargo, tratándose del delito contemplado en el artículo 16, la reducción de la pena podrá comprender hasta tres grados.
-
-Se entiende por cooperación eficaz el suministro de datos o informaciones precisos, verídicos y comprobables, que contribuyan necesariamente a los fines señalados en el inciso primero.
-
-El Ministerio Público deberá expresar, en la formalización de la investigación o en su escrito de acusación, si la cooperación prestada por el imputado ha sido eficaz a los fines señalados en el inciso primero.
-
-Si con ocasión de la investigación de otro hecho constitutivo de delito, el fiscal correspondiente necesita tomar conocimiento de los antecedentes proporcionados por el cooperador eficaz, deberá solicitarlos fundadamente. El fiscal requirente, para los efectos de efectuar la diligencia, deberá realizarla en presencia del fiscal ante quien se prestó la cooperación, debiendo este último previamente calificar su conveniencia. El superior jerárquico común dirimirá cualquier dificultad que surja con ocasión de dicha petición y de su cumplimiento.
-
-La reducción de pena se determinará con posterioridad a la individualización de la sanción penal según las circunstancias atenuantes o agravantes comunes que concurran; o de su compensación, de acuerdo con las reglas generales.
+Derogado.
 
 ## Título II
 
@@ -442,7 +432,7 @@ Una vez decretado el comiso de un inmueble que haya sido destinado provisionalme
 
 El producto de la enajenación de los bienes y valores decomisados y los dineros en tal situación, el producto de la enajenación temprana a que se refiere el artículo 40 bis, así como los dineros incautados no decomisados y no reclamados por sus dueños, ingresarán a un fondo especial del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol, con el objetivo de ser utilizados en programas de prevención del consumo de drogas y alcohol, tratamiento y rehabilitación de las personas afectadas por la drogadicción y alcoholismo. Asimismo, podrá ser utilizado en proyectos, estudios e investigaciones, infraestructura y capacitaciones, que permitan apoyar directamente el efectivo cumplimiento de la labor del Servicio. Un reglamento establecerá la forma de distribución de los fondos, así como los mecanismos que garanticen la transparencia de los actos tendientes a su traspaso.
 
-No obstante lo anterior, parte de dichos recursos podrán ser destinados a las unidades del Ministerio Público que cumplan funciones de análisis, investigación o persecución del crimen organizado dedicado a la comisión de los delitos sancionados en la presente ley, así como también a las unidades de Carabineros de Chile y de la Policía de Investigaciones de Chile que tengan como objeto la desarticulación de organizaciones criminales dedicadas a la perpetración de dichos delitos, en la forma que establezca el reglamento señalado en el inciso anterior.
+No obstante lo anterior, parte de dichos recursos podrán ser destinados a las unidades del Ministerio Público que cumplan funciones de análisis, investigación o persecución del crimen organizado dedicado a la comisión de los delitos sancionados en la presente ley, así como también a las unidades de Carabineros de Chile, Gendarmería de Chile, Dirección General del Territorio Marítimo y de Marina Mercante y de la Policía de Investigaciones de Chile que tengan como objeto la desarticulación de organizaciones criminales dedicadas a la perpetración de dichos delitos, en la forma que establezca el reglamento señalado en el inciso anterior.
 
 Igual aplicación se dará al monto de las multas impuestas en esta ley y al precio de la subasta de las especies de que hace mención el artículo 470 del Código Procesal Penal. Se exceptúan de esta disposición las armas de fuego y demás elementos a que se refiere la ley Nº 17.798, sobre Control de Armas.
 
@@ -606,7 +596,7 @@ Para efectos de lo dispuesto en este artículo, el juez de garantía o el Minist
 
 #### Artículo 62
 
-No se aplicará ninguna de las penas sustitutivas contempladas en la ley Nº 18.216 a la persona que haya sido condenada con anterioridad por alguno de los crímenes o simples delitos contemplados en esta ley o en la ley Nº 19.366, en virtud de sentencia ejecutoriada, haya cumplido, o no, efectivamente la condena, a menos que le sea reconocida la circunstancia atenuante establecida en el artículo 22.
+No se aplicará ninguna de las penas sustitutivas contempladas en la ley Nº 18.216 a la persona que haya sido condenada con anterioridad por alguno de los crímenes o simples delitos contemplados en esta ley o en la ley Nº 19.366, en virtud de sentencia ejecutoriada, haya cumplido, o no, efectivamente la condena, a menos que le sea reconocida la circunstancia atenuante de cooperación eficaz.
 
 #### Artículo 63
 

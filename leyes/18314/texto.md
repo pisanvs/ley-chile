@@ -50,9 +50,9 @@ Para efectuar el aumento de penas contemplado en el artículo precedente, el tri
 
 INCISO DEROGADO.
 
-#### Artículo 4°
+#### Artículo 4
 
-Podrá disminuirse la pena hasta en dos grados respecto de quienes llevaren a cabo acciones tendientes directamente a evitar o aminorar las consecuencias del hecho incriminado, o dieren informaciones o proporcionaren antecedentes que sirvieren efectivamente para impedir o prevenir la perpetración de otros delitos terroristas, o bien, para detener o individualizar a responsables de esta clase de delitos.
+Derogado.
 
 #### Artículo 5°
 
@@ -124,7 +124,7 @@ En ningún caso las medidas a que se refiere este artículo podrán adoptarse en
 
 #### Artículo 15
 
-Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, si en la etapa de investigación el Ministerio Público estimare, por las circunstancias del caso, que existe un riesgo cierto para la vida o la integridad física de un testigo o de un perito, como asimismo de su cónyuge, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
+Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, si en la etapa de investigación el Ministerio Público estimare, por las circunstancias del caso, que existe un riesgo cierto para la vida o la integridad física de un testigo o de un perito, como asimismo de su cónyuge, o conviviente civil, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
 
 Para proteger la identidad de los que intervengan en el procedimiento, su domicilio, profesión y lugar de trabajo, el fiscal podrá aplicar todas o alguna de las siguientes medidas:
 

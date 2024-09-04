@@ -168,7 +168,7 @@ Son circunstancias atenuantes:
 
 8.° Si pudiendo eludir la acción de la justicia por medio de la fuga u ocultándose, se ha denunciado y confesado el delito.
 
-9ª. Si se ha colaborado sustancialmente al esclarecimiento de los hechos.
+9ª. Si se ha colaborado sustancialmente al esclarecimiento de los hechos, sin que la colaboración sea asimismo constitutiva de cooperación eficaz de conformidad con la ley.
 
 10.° El haber obrado por celo de la justicia.
 
@@ -978,13 +978,25 @@ Concurriendo circunstancias atenuantes y agravantes, se observará lo prescrito 
 
 Sin perjuicio de lo dispuesto en los cuatro artículos anteriores, cuando sólo concurra una atenuante muy calificada el Tribunal podrá imponer la pena inferior en un grado al mínimo de la señalada al delito.
 
+#### Artículo 68 ter
+
+Si concurre una de las circunstancias agravantes previstas en el artículo 12, numerales 14º, 15º o 16º, el tribunal excluirá el grado mínimo si es compuesta o el mínimum si consta de un solo grado, salvo que reconozca la circunstancia prevista en el artículo 11, numeral 1° o numeral 9º, en cuyo caso podrá recorrer la pena en toda su extensión.
+
+La pena será determinada del mismo modo cuando, tratándose de delitos contra las personas, concurra la circunstancia prevista en el numeral 22º del artículo 12, siempre que no concurriere alguna de las atenuantes indicadas en el inciso primero.
+
+En el caso del inciso primero, a partir de la segunda condena en la que se reconozca al autor alguna de las agravantes previstas en el artículo 12, numerales 14º, 15º o 16º, la pena se aumentará en un grado, a menos que concurriere alguna de las atenuantes indicadas en el inciso primero.
+
+En los casos previstos en el inciso tercero, cuando la ley señalare al delito pena alternativa de multa, el tribunal aplicará la pena privativa de libertad determinada conforme a lo que en él se dispone.
+
+Sin perjuicio de lo dispuesto en este artículo, en caso de concurrir una cooperación eficaz, simple o calificada, la pena a imponerse al condenado podrá rebajarse conforme se dispone para ese tipo de colaboración.
+
 #### Artículo 69
 
 Dentro de los límites de cada grado el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes y a la mayor o menor extensión del mal producido por el delito, teniendo en especial consideración la circunstancia de ser la víctima un menor de 18 años, un adulto mayor, según lo dispuesto por la ley Nº 19.828, o una persona con discapacidad en los términos de la ley Nº 20.422.
 
 #### Artículo 69 bis
 
-Sin perjuicio de lo dispuesto en el artículo anterior, en los delitos contra las personas, en el caso que concurra alguna de las circunstancias agravantes del número 22º del artículo 12, la pena se determinará excluyendo el grado mínimo si es compuesta, o el mínimum si consta de un solo grado.
+Derogado.
 
 #### Artículo 70
 
@@ -2536,15 +2548,7 @@ Será circunstancia agravante de los delitos contemplados en los Párrafos 5, 6,
 
 #### Artículo 260 quáter
 
-Será circunstancia atenuante de responsabilidad penal de los delitos contemplados en los Párrafos 5, 6, 9 y 9 bis la cooperación eficaz que conduzca al esclarecimiento de los hechos investigados o permita la identificación de sus responsables, o sirva para prevenir o impedir la perpetración o consumación de estos delitos, o facilite el comiso de los bienes, instrumentos, efectos o productos del delito. En estos casos, el tribunal podrá reducir la pena hasta en dos grados.
-
-Se entiende por cooperación eficaz el suministro de datos o informaciones precisos, verídicos y comprobables, que contribuyan necesariamente a los fines señalados en el inciso anterior.
-
-El Ministerio Público deberá expresar, en la formalización de la investigación o en su escrito de acusación, si la cooperación prestada por el imputado ha sido eficaz a los fines señalados en el inciso primero.
-
-La reducción de pena se determinará con posterioridad a la individualización de la sanción penal según las circunstancias atenuantes o agravantes comunes que concurran; o de su compensación, de acuerdo con las reglas generales.
-
-La circunstancia atenuante prevista en este artículo no se aplicará a los empleados públicos que desempeñen un cargo de elección popular o de exclusiva confianza de éstos, o de alta dirección pública del primer nivel jerárquico; a los que sean fiscales del Ministerio Público; ni a aquellos que, perteneciendo o no al orden judicial, ejerzan jurisdicción.
+Derogado.
 
 ## Título Sexto
 
@@ -4142,15 +4146,7 @@ Los que se asociaren u organizaren con el objeto de cometer alguno de los delito
 
 #### Artículo 411
 
-sexies.-
-
-El tribunal podrá reducir la pena en dos grados al imputado o acusado que prestare cooperación eficaz que conduzca al esclarecimiento de los hechos investigados o permita la identificación de sus responsables, o que sirva para prevenir o impedir la perpetración o consumación de igual o mayor gravedad.
-
-Se entiende por cooperación eficaz el suministro de datos o informaciones precisas, verídicas y comprobables, que contribuyan necesariamente a los fines señalados en el inciso primero.
-
-Si con ocasión de la investigación de otro hecho constitutivo de delito, el fiscal correspondiente necesita tomar conocimiento de los antecedentes proporcionados por el cooperador eficaz, deberá solicitarlos fundadamente. El fiscal requirente, para los efectos de efectuar la diligencia, deberá realizarla en presencia del fiscal ante quien se prestó la cooperación, debiendo este último previamente calificar su conveniencia. El superior jerárquico común dirimirá cualquier dificultad que surja con ocasión de dicha petición y de su cumplimiento.
-
-La reducción de pena se determinará con posterioridad a la individualización de la sanción penal según las circunstancias atenuantes o agravantes comunes que concurran; o de su compensación, de acuerdo con las reglas generales.
+sexies.- Derogado.
 
 #### Artículo 411
 
@@ -4508,11 +4504,11 @@ Asimismo, será sancionado con la pena de presidio menor en sus grados medio a m
 
 #### Artículo 449
 
-Para determinar la pena de los delitos comprendidos en los Párrafos 1 a 4 ter, con excepción de aquellos contemplados en los artículos 448, inciso primero, y 448 quinquies, y del artículo 456 bis A, no se considerará lo establecido en los artículos 65 a 69 y se aplicarán las reglas que a continuación se señalan:
+Para determinar la pena de los delitos comprendidos en los Párrafos 1 a 4 ter, con excepción de aquellos contemplados en los artículos 448, inciso primero, y 448 quinquies, y del artículo 456 bis A, no se considerará lo establecido en los artículos 65 a 69, con excepción del artículo 68 ter, y se aplicará la siguiente regla:
 
 1ª. Dentro del límite del grado o grados señalados por la ley como pena al delito, el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes concurrentes, así como a la mayor o menor extensión del mal causado, fundamentándolo en su sentencia.
 
-2ª. Tratándose de condenados reincidentes en los términos de las circunstancias agravantes de los numerales 15 y 16 del artículo 12, el tribunal deberá, para los efectos de lo señalado en la regla anterior, excluir el grado mínimo de la pena si ésta es compuesta, o el mínimum si consta de un solo grado.
+2ª. Derogada.
 
 #### Artículo 449 bis
 

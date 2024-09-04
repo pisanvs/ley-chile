@@ -388,7 +388,7 @@ b) Inhabilidades de abogados, sólo cuando la investigación por lavado de diner
 
 c) Medidas cautelares e incautaciones: posibilidad de disponer medidas cautelares sin comunicación previa al afectado, objetos susceptibles de incautación y comiso y destino de los bienes incautados o del producto de los mismos, y
 
-d) Juzgamiento y cumplimiento de la sentencia: circunstancias modificatorias de la responsabilidad penal, como agravantes especiales, improcedencia de la atenuante del artículo 11, Nº 7, del Código Penal, procedencia de la cooperación eficaz como atenuante; reglas sobre consumación del delito y punibilidad de la conspiración; improcedencia de la reclusión nocturna y libertad vigilada; sustitución de la pena de multa por una privativa de libertad; determinación de la reincidencia; procedencia del comiso, alcance de éste y destino de los bienes decomisados; extradición en ausencia de reciprocidad o tratado y cumplimiento de condena en el país de nacionalidad del condenado.
+d) Juzgamiento y cumplimiento de la sentencia: circunstancias modificatorias de la responsabilidad penal, como agravantes especiales, improcedencia de la atenuante del artículo 11, Nº 7, del Código Penal; reglas sobre consumación del delito y punibilidad de la conspiración; improcedencia de la reclusión nocturna y libertad vigilada; sustitución de la pena de multa por una privativa de libertad; determinación de la reincidencia; procedencia del comiso, alcance de éste y destino de los bienes decomisados; extradición en ausencia de reciprocidad o tratado y cumplimiento de condena en el país de nacionalidad del condenado.
 
 #### Artículo 33 bis
 
