@@ -1,6 +1,4 @@
-DETERMINA MODELO DE NOMINA DE PASAJEROS PARA LOS EFECTOS DEL ART. 59 BIS DEL DECRETO Nº 212, DE 1992
-
-(Resolución)
+DETERMINA MODELO DE NOMINA DE PASAJEROS PARA LOS EFECTOS DE LOS ARTÍCULOS 59 BIS Y 70 DEL DECRETO Nº 212, DE 1992
 
 Núm. 24.- Santiago, 2 de julio de 1999.- Visto: Lo dispuesto en el artículo 59 bis del D.S. Nº 212/92, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, y lo dispuesto en los D.S.
 
@@ -14,15 +12,13 @@ Cualquiera sea la modalidad en la que se confeccione la Nómina de Pasajeros, la
 
 2.- El servicio deberá requerir a cada pasajero todos los datos que considera la referida nómina. Si el pasajero se niega a proporcionar uno o más de los datos solicitados el servicio se limitará a consignar en la nómina esta situación.
 
-3.- La presente resolución entrará en vigencia treinta días después de su publicación en el Diario Oficial.
+3.- Cualquier pasajero que se incorpore a bordo, en algún punto intermedio entre la ciudad de inicio y la de destino del servicio, deberá ser incluido en la Nómina de Pasajeros, independiente del tiempo de duración de su recorrido, asimismo se deberá incluir en dicha nómina el número de comprobante del (los) bulto(s) y su número de asiento.
+
+4.- La presente resolución entrará en vigencia treinta días después de su publicación en el Diario Oficial.
 
 Anótese, tómese razón y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
-
-.
-
-..
 
 Devuelve resolución Nº 24, de 1999, del Ministerio de Transportes y Telecomunicaciones
 
