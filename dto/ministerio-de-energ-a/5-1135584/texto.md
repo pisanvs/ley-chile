@@ -1720,7 +1720,7 @@ Los equipos de protección, control, comunicaciones deben instalarse en casetas 
 
 La disposición y capacidad de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
 
-### 25. S/E NUEVA METRENCO 220/66 KV
+### 25. S/E Quepe 2x66 kV
 
 25.1 Descripción General de la Obra
 
@@ -1870,7 +1870,7 @@ Los conjuntos de aislación utilizados en subestaciones deberán ser de vidrio o
 
 La disposición y capacidad de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
 
-### 27. LÍNEA 2X66 KV NUEVA METRENCO – ENLACE IMPERIAL
+### 27. Línea 2x66 kV Quepe - Enlace Imperial
 
 27.1 Descripción General de la Obra
 
@@ -1886,7 +1886,7 @@ Asimismo, respecto a la coordinación de las obras, será responsabilidad de los
 
 27.2 Ubicación de la Obra
 
-La Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial se encuentra ubicada en su totalidad en la Región de la Araucanía y comienza su recorrido en la comuna de Freire para terminar su trazado en la comuna de Nueva Imperial. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor opción de trazado que satisfaga los requerimientos del proyecto.
+La Nueva Línea 2x66 kV Quepe - Enlace Imperial se encuentra ubicada en su totalidad en la Región de la Araucanía y comienza su recorrido en la comuna de Freire para terminar su trazado en la comuna de Nueva Imperial. El Adjudicatario será el responsable de realizar los estudios correspondientes y establecer la mejor opción de trazado que satisfaga los requerimientos del proyecto.
 
 27.3 Características Técnicas Mínimas de la Línea
 
@@ -1916,13 +1916,13 @@ viento de 0,61 m/s
 
 La nueva línea de transmisión debe incluir la construcción del paño en 66 kV para la llegada de línea en la nueva S/E Nueva Metrenco, la construcción del paño en 66 kV para la llegada de la línea en la S/E Enlace Imperial y las obras comunes asociadas a estos paños.
 
-27.4.1 S/E Nueva Metrenco 220/66 kV.
+27.4.1 S/E Quepe 2x66 kV.
 
-Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
+Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Quepe - Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
 
 27.4.2 S/E Enlace Imperial 66/23 kV
 
-Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Nueva Metrenco – Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
+Se dispondrá de la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos paños de línea destinadas a la conexión de la Nueva Línea 2x66 kV Quepe - Enlace Imperial. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión y sus respectivos paños.
 
 28. NUEVA LÍNEA 2X66 KV NUEVA VALDIVIA – PICARTE, TENDIDO DEL PRIMER CIRCUITO
 
