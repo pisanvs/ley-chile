@@ -72,13 +72,25 @@ La solicitud de retención a la Tesorería General de la República, se efectuar
 
 En el caso de los actuales deudores de crédito, que no suscribieron en el convenio de crédito solidario los mandatos señalados en los incisos tercero y cuarto de este artículo, podrán otorgarlos al efectuar la siguiente acreditación anual de ingresos establecida en el inciso primero del artículo 9º de la ley Nº19.287.
 
-#### Artículo 5°
+#### Artículo 5º
 
-Si un deudor no acreditare sus ingresos, en la forma y plazo establecidos en la ley N° 19.287 y este reglamento, el administrador general del fondo respectivo le fijará una cuota equivalente al mayor valor entre el doble del pago anual anterior y el 20% del saldo deudor.
+Si un deudor no acreditare sus ingresos, en la forma y plazo establecidos en la ley Nº 19.287 y este reglamento, el administrador general del fondo respectivo le determinará una cuota fija, anual y sucesiva, que se calculará en función del saldo deudor debidamente actualizado, dividiendo el monto de la deuda por el número de años de cobro, de acuerdo a la siguiente tabla:
 
-Las cuotas fijadas con arreglo a lo establecido en el inciso anterior serán comunicadas al deudor a más tardar el último día hábil del mes de junio, en el último domicilio que el deudor hubiere registrado en la respectiva institución acreedora. Tendrán mérito ejecutivo y se harán exigibles al 31 de diciembre del año respectivo.
+Saldo deudor deuda (UTM) Años de cobro
 
-Determinado el monto de la cuota anual el deudor podrá solicitar efectuar el pago en dos o más parcialidades dentro del plazo de vencimiento respectivo.
+Desde 0 a 50 6
+
+Desde 51 a 100 9
+
+Desde 101 a 200 12
+
+201 o más 15
+
+Para el cálculo de las cuotas anuales, la tasa de interés a utilizar ascenderá a un 2% anual.
+
+La cuota fijada con arreglo a los incisos precedentes tendrá mérito ejecutivo y se hará exigible al 31 de diciembre del año respectivo.
+
+Sin perjuicio de lo anterior, en caso de fuerza mayor debidamente calificado como tal por el administrador general del fondo, éste podrá ampliar el plazo a que se refiere el inciso primero hasta en noventa días.
 
 #### Artículo 6°
 
