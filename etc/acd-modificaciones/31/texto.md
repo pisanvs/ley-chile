@@ -40,7 +40,9 @@ Una vez aprobadas las cuotas del Fondo, su Administradora deberá proporcionar a
 
 El Reglamento deberá establecer en forma clara y precisa los objetivos del Fondo. Como política de inversión el Reglamento debe contemplar que al menos el 70% de sus activos estará invertido, sea directa o indirectamente, en instrumentos que son objeto de inversión. Para efectos de este Acuerdo, se entenderá por inversión indirecta a la inversión en los subyacentes finales del Fondo.
 
-En todo caso, la Comisión podrá aceptar que en el Reglamento se definan las circunstancias excepcionales en las cuales, transitoriamente, el Fondo no se encuentre en condiciones de dar cumplimiento al límite mínimo antes indicado.
+La política de inversión del fondo de inversión deberá estar redactada en términos tales que permita concluir que no más de un 5% de su cartera estará compuesta, directa o indirectamente, por activos alternativos extranjeros cuyos gestores de inversiones no cuenten con la aprobación de esta Comisión.
+
+En todo caso, la Comisión podrá aceptar que en el Reglamento se definan las circunstancias excepcionales en las cuales, transitoriamente, el Fondo no se encuentre en condiciones de dar cumplimiento a los límites antes indicados.
 
 #### Artículo 4
 
@@ -184,8 +186,6 @@ Disposiciones Transitorias
 
 #### Artículo 1
 
-Los Fondos cuyas cuotas se encuentren aprobadas por la Comisión a la fecha de publicación de este Acuerdo, y que requieran modificar su Reglamento o contratar las clasificaciones de riesgo de solvencia requeridas, tendrán plazo hasta el 31 de mayo de 2020 para ajustarse al nuevo procedimiento de aprobación de cuotas establecido mediante el presente Acuerdo.
-
-En caso que transcurra este plazo y el Fondo no cumpla con las exigencias anteriormente señaladas, las cuotas serán desaprobadas.
+Los fondos de inversión cuyas cuotas se encuentren aprobadas por la Comisión a la fecha de publicación del Acuerdo N° 62, y que requieran modificar su Reglamento para cumplir con los cambios introducidos al artículo 3 por dicho Acuerdo, tendrán plazo para ello hasta el 30 de mayo de 2025.
 
 Santiago, 29 de octubre de 2008.- Raúl Arismendi González, Secretario.
