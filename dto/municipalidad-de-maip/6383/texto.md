@@ -560,6 +560,8 @@ NOTA: VER D.O. 13.11.2004, PAGINAS 8 A 12
 
 > **Nota.** El artículo único del numeral 2º del Decreto 6971, Municipalidad de Maipú, publicado el 10-11-2012, modifica cuadro de condiciones de edificación y subdivisión de las Zonas ZI Zonas Industriales ZI-1, ZI-2 y ZI-4, de la manera que la citada norma indica.
 
+> **Nota.** NOTA 1 Los literales a), b), c) y d) de los numerales 2 y 3 del N° 2 del Decreto 5664, Municipalidad de Maipú, publicado el 13.09.2024, modifican respectivamente el presente artículo en el cuadro de “condiciones de edificación y subdivisión” en las zonas “ZC 3 Mixta Comercio y servicios”, “ZC 4 Mixta Equipamiento y Vivienda (Ex FISA)”, “ZH 8 Habitacional 8” y “ZH 10 Habitacional 10” en las condiciones que señala, y el cuadro de usos de suelo, en la columna “condiciones especiales en uso residencial" en las zonas “ZC 3 Mixta Comercio y servicios”, “ZC 4 Mixta Equipamiento y Vivienda (Ex FISA)”, “ZH 8 Habitacional 8” y “ZH 10 Habitacional 10” en uso residencial, clase 1.2 Hospedaje, de la manera que la citada norma indica.
+
 #### Artículo 35º
 
 Para la instalación de establecimientos de venta minorista de combustibles líquidos y centros de servicio automotriz, se deberá dar cumplimiento a lo señalado en los artículos 7.1.3 del Plan Regulador Metropolitano de Santiago.
@@ -1156,11 +1158,49 @@ Instalaciones de telecomunicaciones
 
 Las instalaciones destinadas a telecomunicaciones, tales como antenas, parabólicas, radares y otros similares, se atendrán a lo establecido en los artículo 2.6.3 y 5.1.2 de la OGUC y la ordenanza local que exista o entre en vigencia y sus modificaciones posteriores. Se exceptúan de la aplicación de las normas anteriores los radioaficionados.
 
+Incentivos Normativos
+
+De conformidad con lo señalado en el artículo 184 de la Ley General de Urbanismo y Construcciones se establecen incentivos en las normas urbanísticas, en correspondencia con los requisitos que se indican a continuación:
+
+a. Incentivo a proyectos de viviendas de interés público
+
+Todo proyecto de edificación o urbanización que contemple en una proporción de viviendas destinadas a personas beneficiadas de programas habitacionales del Ministerio de Vivienda y Urbanismo, podrán acogerse al beneficio de incrementar la altura máxima de edificación definidas en el artículo 51° de la presente ordenanza.
+
+b. Incentivo a equipamiento de clase comercio, deporte, cultura, servicios y esparcimiento:
+
+Todo proyecto que contemple equipamiento de clase comercio, deporte, cultura, servicios y esparcimiento en su primer piso, con acceso a público y con frente hacia un bien nacional de uso público, que induzcan y colaboren en el mejoramiento de los niveles de integración social, al encuentro de las personas, a la activación del espacio público y sustentabilidad urbana, podrán acogerse al beneficio de incrementar la altura máxima de edificación definidas en el artículo 51° de la presente ordenanza.
+
+c. Incentivo al mejoramiento de espacio público, espacio público libre tránsito y áreas verdes:
+
+Para la zona "ZC 2 Centro Comercial", en cuadro de "condiciones de edificación y subdivisión", en la condición "Altura de edificación máxima (m)" en "Edificación continua y aislada sobre continua" modifíquese lo existente por "4 pisos o 12 metros".
+
+Los proyectos que aporten a la materialización, mejoramiento o recuperación de áreas verdes y espacio público, o cedan espacio privado a uso público y/o circulación libre tránsito, de manera adicional a las cesiones gratuitas y obligatorias establecidas en la LGUC y su Ordenanza, podrán acogerse al beneficio de incrementar la altura máxima de edificación definidas en el artículo 51° de la presente ordenanza.
+
+En el caso de cesión de espacio privado a libre tránsito se considera un mínimo del 15% de la superficie a intervenir. Como estrategias de diseño se considera la construcción de paseos peatonales, instalación de iluminación peatonal, instalación de mobiliario, paisajismo, entre otras. Debiendo contar con un proyecto de diseño aprobado por Asesoría Urbana.
+
+En el caso de la materialización, mejoramiento o recuperación de áreas verdes, la superficie intervenida será equivalente a un estándar mínimo de 4,5m2/hab. calculado en relación con la densidad bruta máxima contemplada en el proyecto.
+
+En el caso de materialización, mejoramiento o recuperación de espacio público se considera una superficie mínima de 250m2. Debiendo contar con un proyecto de diseño aprobado por Asesoría Urbana.
+
+El cumplimiento de los requisitos establecidos en los incentivos señalados precedentemente será condición para la obtención de la recepción definitiva de los proyectos, de conformidad con lo establecido en el artículo 173 de la LGUC.
+
+Los proyectos que se acogen al incentivo a) deberán cumplir con lo indicado en el artículo 184 bis de la LGUC para la obtención de la recepción definitiva.
+
+Las zonas donde se contempla la aplicación de los presentes incentivos normativos corresponden a las zonas afectas en la modificación N° 4: ZC 2 Centro Comercial, ZC 3 Mixta Comercio y servicios, ZC 4 Mixta Equipamiento y Vivienda (Ex FISA) y ZH 8 Habitacional 8, donde queda sin efecto la aplicación de los artículos 63, 107, 108 y 109 de la Ley General de Urbanismo y Construcciones.
+
+El cálculo de los beneficios normativo se realizará según lo indicado en las tablas a continuación:
+
+Tabla 1 Cálculo de Incentivos
+
+Incremento de altura máxima según puntaje:
+
+Tabla 2 Puntajes
+
 ## Capítulo V
 
 ÁREAS DE RIESGOS, RESTRICCIÓN Y PROTECCIÓN
 
-#### Artículo 51º
+#### Artículo 52º
 
 Áreas de Restricción: Las áreas de restricción son las definidas por el Plan Regulador Metropolitano de Santiago y las incorporadas en virtud de los resultados del Estudio de Riesgos Naturales y Protección Ambiental realizado para el Plan Regulador Comunal. En general se regirán de acuerdo a lo indicado en la ordenanza del Plan Regulador Metropolitano de Santiago. Se encuentran graficadas en el Plano PRCM-3 y su definición y regulaciones son las siguientes:
 
@@ -1274,19 +1314,19 @@ protección (m)
 
 VIALIDAD
 
-#### Artículo 52º
+#### Artículo 53º
 
 La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras, de servicio y locales graficadas en los planos PRCM-2A, PRCM-2B y PRCM-2C y cuya identificación, ancho entre líneas oficiales y demás características, se señalan más adelante.
 
 Sin perjuicio de lo anterior, en la zona excluida al desarrollo urbano la vialidad estructurante de la comuna será la que define el Plan Regulador Metropolitano de Santiago.
 
-#### Artículo 53º
+#### Artículo 54º
 
 Todas las vías públicas existentes en la comuna se reconocen como bienes nacionales de uso público destinados a vialidad.
 
 Estas vías mantienen sus anchos existentes entre líneas oficiales, salvo aquellos casos en que expresamente se dispongan modificaciones como ensanches, ya sea en el presente Plan, en los loteos y en las subdivisiones incorporadas a éstos.
 
-#### Artículo 54º
+#### Artículo 55º
 
 En las vías que se indica a continuación se consulta la habilitación de ciclovías. El proyecto correspondiente deberá ser realizado según exigencias contenidas en el REDEVU año 1984, y contar con un informe favorable del SERVIU, Asesoría Urbana y de la Dirección de Tránsito y Transporte.
 
@@ -1321,6 +1361,8 @@ oriente hasta Camino La Farfana.
 Costanera Norte FFCC San Antonio.
 
 . Av. Segunda Transversal desde Av. Américo Vespucio hasta Av. 5 de Abril.
+
+> **Nota.** El literal d) del numeral 4 del N° 2, Municipalidad de Maipú, publicado el 13.09.2024, reemplaza el numeral del “Artículo 54” por “55”. No obstante lo anterior, se deja constancia de que la presente norma ya contiene un artículo 55.
 
 #### Artículo 55º
 
