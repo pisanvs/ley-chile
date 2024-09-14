@@ -16,13 +16,13 @@ Autorízase el funcionamiento del Centro de Formación Técnica que se indica, o
 
 Nombre de la institución : Centro de Formación
 
-Técnica Juan Bohon
+Técnica Juan Bohon.
 
-Domicilio : La Serena
+Organizador : Corporación de Educación
 
-Organizador : Sociedad Educacional
+Juan Bohon.
 
-Juan Bohon S.A.
+Representante Legal : Presidente del Directorio.
 
 Anótese, publíquese en el Diario Oficial con cargo al interesado, e inscríbase en el Registro de Centros de Formación Técnica del Ministerio de Educación Pública.- Juan Enrique Froemel Andrade, Ministro de Educación Pública subrogante.
 
