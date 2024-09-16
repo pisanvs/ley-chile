@@ -14,9 +14,9 @@ Decreto:
 
 a) De los impuestos a la Renta y de las Contribuciones Territoriales que afecten a los bienes raíces de su propiedad.
 
-b) Del impuesto establecido en el Título II del decreto ley No. 825, de 1974, por la adquisición de bienes o utilización de servicios destinados a la construcción, equipamiento y alhajamiento de sus oficinas y dependencias en general, como también por las adquisiciones de bienes o utilización de servicios necesarios para la operación de sus observatorios.
+b) Del impuesto establecido en el Título II del decreto ley No. 825, de 1974, por la adquisición de bienes o utilización de servicios destinados a la construcción, equipamiento y alhajamiento de sus oficinas y dependencias en general, como también por las adquisiciones de bienes o utilización de servicios necesarios para la operación de sus observatorios. De igual beneficio gozará la Institución respecto del Impuesto establecido por la letra b) del artículo 6° de la ley N° 18.502, que grava las compras de petróleo diésel y que destine a la operación de sus observatorios.
 
-Con todo, la Institución podrá solicitar la devolución del impuesto referido en aquellos casos en que no haga valer la exención concedida en este número.
+Con todo, la Institución podrá solicitar la devolución de los impuestos referidos en aquellos casos en que no haga valer la exención concedida en este número.
 
 El gasto fiscal que represente la devolución señalada precedentemente se imputará al ítem 50-01-01-03-92.003 "Devolución de IVA" de la Ley de Presupuestos.
 
