@@ -1034,11 +1034,11 @@ Derógase la ley N° 14.134.
 
 #### Artículo 56
 
-Créase a partir de 1988, un programa especial de becas destinado a estudiantes de escasos recursos, residentes en los territorios determinados en el inciso siguiente, para contribuir a que continúen estudios en establecimientos educacionales reconocidos por el Estado, de educación superior, de enseñanza media, de educación especial o diferencial; como también en Institutos y Centros Formadores de personal de las Fuerzas Armadas, de Orden y Seguridad Pública. Lo establecido en este inciso tendrá aplicación siempre y cuando en las localidades respectivas no existan los niveles, modalidades y especialidades educacionales a que alude esta disposición.
+Créase a partir de 1988, un programa especial de becas destinado a estudiantes de escasos recursos, residentes en los territorios determinados en el inciso siguiente, para contribuir a que continúen estudios en establecimientos educacionales reconocidos por el Estado, de educación superior, de enseñanza media, de educación especial o diferencial; como también en Institutos y Centros Formadores de personal de las Fuerzas Armadas, de Orden y Seguridad Pública. Lo establecido en este inciso tendrá aplicación siempre y cuando en las localidades respectivas no existan, o resulten insuficientes, los niveles, modalidades y especialidades educacionales a que alude esta disposición.
 
 Las becas instituidas en el inciso anterior que podrán otorgarse conjunta o separadamente y en forma diferenciada por alumno, comprenderán asignaciones de libre disposición consistentes en una asignación mensual por alumno no superior a 1,87 Unidades Tributarias Mensuales (U.T.M) por un máximo de diez meses al año, y una asignación anual por alumno según lugar de residencia no superior a:
 
-a) 5,79 U.T.M. para los estudiantes de las provincias de Coyhaique, Aysén, General Carrera y Capitán Prat.
+a) 5,79 U.T.M. para los estudiantes de las provincias de Coyhaique, Aysén, General Carrera, Capitán Prat y Chiloé.
 
 b) 18,65 U.T.M. para los estudiantes de la provincia de Isla de Pascua.
 
@@ -1046,7 +1046,7 @@ c) 3,73 U.T.M. para los estudiantes de la comuna de Juan Fernández.
 
 d) 5,79 U.T.M. para los estudiantes de educación superior de la región y comuna señaladas en las letras a) y c) precedentes, de la Provincia de Palena y de las Provincias de Última Esperanza, Magallanes, Tierra del Fuego y Antártica Chilena.
 
-La comisión otorgante estará conformada en cada Región por un representante del Presidente de la República, un representante del Intendente Regional y el Director Regional de la Junta Nacional de Auxilio Escolar y Becas.
+La comisión otorgante estará conformada en cada Región por un representante del Presidente de la República, un representante del Secretario Regional Ministerial de Educación y el Director Regional de la Junta Nacional de Auxilio Escolar y Becas.
 
 La Comisión a que se refiere el inciso anterior deberá ponderar, al momento de discernir el otorgamiento de las becas, la circunstancia de encontrarse el postulante que cumple con los requisitos que exige este artículo, en posesión de una de ellas, o bien, el hecho de haberla obtenido con anterioridad, para los efectos de asegurar el término de su programa de estudios.
 
