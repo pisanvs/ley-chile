@@ -784,6 +784,10 @@ a La Paz
 
 a La Paz
 
+7.735 Lucas Martínez FCALP
+
+Vegazo
+
 2º.- Modifícase el Nº 2 del Decreto Supremo Nº 500 en el sentido que en los cruces públicos a nivel ubicados en la red ferroviaria y ramales que se indican, la Empresa de los Ferrocarriles del Estado sólo estará obligada a mantener en funciones un servicio práctico de señales, que permita a los que transitan por ellos percibir a la distancia la proximidad de un cruzamiento:
 
 Km. Nombre Lugar

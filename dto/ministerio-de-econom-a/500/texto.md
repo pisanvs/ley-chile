@@ -1650,9 +1650,7 @@ Km. 74,980, lado oriente estación Los Muermos.
 
 Km. 75,720, lado poniente estación Los Muermos.
 
-<NOTAQA id="8984315"></NOTAQA
-
->
+Km. 7.735, Lucas Martínez Vegazo FCALP
 
 > **Nota.** El N° 1 de la RES 752, Transportes, publicada el 05.10.1972, incorporó en el listado del ramal de Temuco a Carahue el cruce ubicado en el kilómetro 3.790.
 
