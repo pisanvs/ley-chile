@@ -11184,6 +11184,10 @@ En caso que el EISTU que estaba en trámite sea aprobado y, producto de ello, se
 
 Lo señalado en este numeral será aplicable a toda solicitud de permiso en que se acompañe el certificado de admisibilidad a trámite del EISTU, incluidas aquellas solicitudes respecto de las cuales la Dirección de Obras Municipales deba pronunciarse antes de la entrada en vigencia del SEIM.
 
+#### Artículo transitorio
+
+Se entenderán prorrogados por dieciocho meses adicionales, aquellos permisos de construcción que, encontrándose vigentes a la fecha de entrada en vigencia de esta norma, no han iniciado las obras correspondientes.
+
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Joan Mac Donald Maier, Subsecretaria de Vivienda y Urbanismo.
