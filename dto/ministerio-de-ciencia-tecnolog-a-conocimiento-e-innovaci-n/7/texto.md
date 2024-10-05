@@ -24,17 +24,39 @@ Decreto:
 
 #### Artículo único
 
-Establécense, de conformidad a lo dispuesto en el artículo sexto transitorio de la ley N° 21.105, las regiones que le corresponderán a cada una de las cinco secretarías regionales ministeriales en las que el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación se desconcentró territorialmente a la fecha de su entrada en funcionamiento, así como la ciudad en que tendrá su asiento cada secretario o secretaria regional ministerial de las secretarías regionales antes referidas, conforme lo que se indica a continuación:
+Establécense las regiones que corresponderán a cada una de las secretarías regionales ministeriales en las que el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación se desconcentrará territorialmente, así como la ciudad en que tendrá su asiento cada secretario o secretaria regional ministerial. Lo anterior, de conformidad con lo dispuesto en el artículo sexto transitorio de la ley Nº 21.105 y el calendario establecido en la normativa pertinente, conforme se indica a continuación:
 
-1. Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Antofagasta, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Antofagasta. Esta Secretaría Regional Ministerial tendrá a su cargo, además de la Región de Antofagasta, a las regiones de Arica y Parinacota, de Tarapacá y de Atacama.
+1. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Arica y Parinacota, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Arica, la cual además tendrá a su cargo la Región de Tarapacá hasta la fecha de instalación de ésta última Secretaría Regional.
 
-2. Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Valparaíso, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Valparaíso. Esta Secretaría Regional Ministerial tendrá a su cargo, además de la Región de Valparaíso, a la Región de Coquimbo.
+2. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Tarapacá, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Iquique.
 
-3. Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región del Biobío, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Concepción. Esta Secretaría Regional Ministerial tendrá a su cargo, además de la Región del Biobío, a las regiones del Libertador General Bernardo O'Higgins, del Maule y de Ñuble.
+3. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Antofagasta, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Antofagasta, la cual, tendrá además a su cargo la Región de Atacama hasta la fecha de instalación de esta última Secretaría Regional.
 
-4. Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Los Ríos, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Valdivia. Esta Secretaría Regional Ministerial tendrá a su cargo, además de la Región de Los Ríos, a las regiones de la Araucanía y de Los Lagos.
+4. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Atacama, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Copiapó.
 
-5. Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Magallanes y de la Antártica Chilena, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Punta Arenas. Esta Secretaría Regional Ministerial tendrá a su cargo, además de la Región de Magallanes y de la Antártica Chilena, a la Región de Aysén del General Carlos Ibáñez del Campo.
+5. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Coquimbo, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de La Serena.
+
+6. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Valparaíso, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Valparaíso, la cual, tendrá además a su cargo la Región de Coquimbo hasta la fecha de instalación de esta última Secretaría Regional.
+
+7. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región Metropolitana, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Santiago.
+
+8. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región del Libertador General Bernardo O'Higgins, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Rancagua.
+
+9. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región del Maule, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Talca, la cual, tendrá además a su cargo la del Libertador General Bernardo O'Higgins hasta la fecha de instalación de esta última Secretaría Regional.
+
+10. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Ñuble, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Chillán.
+
+11. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de Región de Biobío, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Concepción, la cual, tendrá además a su cargo la Región de Ñuble hasta la fecha de instalación de esta última Secretaría Regional.
+
+12. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de la Araucanía, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Temuco.
+
+13. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Los Ríos, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Valdivia, la cual, tendrá además a su cargo la Región de Los Lagos hasta la fecha de instalación de esta última Secretaría Regional.
+
+14. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Los Lagos, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Puerto Montt.
+
+15. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de la Región de Aysén del General Carlos Ibáñez del Campo, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Coyhaique.
+
+16. La Secretaría Regional Ministerial de Ciencia, Tecnología, Conocimiento e Innovación de Región de Magallanes y la Antártica chilena, cuyo Secretario o Secretaria Regional Ministerial tendrá su asiento en la ciudad de Punta Arenas, la cual tendrá a su cargo la Región de Aysén del General Carlos Ibáñez del Campo hasta la época de instalación de esta última Secretaría Regional.
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Torrealba Ruiz-Tagle, Ministra de Ciencia, Tecnología, Conocimiento e Innovación (S).- Ignacio Briones Rojas, Ministro de Hacienda.
 
