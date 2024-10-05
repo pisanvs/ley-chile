@@ -1114,6 +1114,14 @@ En el 34° Proceso de Selección de Proyectos, para determinar los valores refer
 
 Durante el año 2024 en la Región Metropolitana se suspende de manera excepcional la realización del 34° Proceso de Selección de Proyectos del Programa de Pavimentación Participativa.
 
+#### Artículo 37° transitorio
+
+<!-- parte:10519045 -->
+
+Durante el año 2024 y para participar en el 34° Proceso de Selección de Proyectos, la recepción de postulaciones Municipales en los Servicios de Vivienda y Urbanización de las regiones de Arica y Parinacota, de Valparaíso y de Ñuble, tendrá como fecha de cierre el miércoles 30 de octubre, y en las Secretarías Regionales Ministeriales de Vivienda y Urbanismo de las regiones de Arica y Parinacota, de Valparaíso y de Ñuble, tendrá como fecha de cierre el viernes 15 de noviembre.
+
+En el caso que alguna otra región requiera sumarse a las fechas de cierre anteriormente señaladas, la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo deberá solicitarlo formalmente al Ministerio de Vivienda y Urbanismo antes del cumplimiento de la fecha de cierre establecida.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
