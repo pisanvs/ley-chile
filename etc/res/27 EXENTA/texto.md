@@ -6,33 +6,31 @@ Teniendo presente.- El Of. Ord. N° 1323/7/91 del Sr. Alcalde de la I. Municipal
 
 Resuelvo:
 
-1°.- Prohíbese el tránsito de camiones con carga superior a 10 toneladas, en la comuna de Constitución, en el perímetro urbano comprendido por las siguientes vías, excluidas las indicadas a continuación:
+1.- Prohíbase la circulación de vehículos de carga de más de dos ejes y/o peso bruto vehicular superior a 10.000 kilos, con o sin carga, de la comuna de Constitución, en el perímetro urbano comprendido por las siguientes vías, excluidas las indicadas a continuación:
 
-Por el Oriente
+Por el Oriente:
 
 - Avda. La Variante entre Santa María y Zañartu.
 
-- Rosas entre Zañartu y El Dique
+- Rosas entre Zañartu y El Dique.
 
-Por el Norte
+Por el Norte:
 
-- El Dique en toda su extensión
+- El Dique en toda su extensión.
 
 - Echeverría en toda su extensión.
 
-Por el Sur
+Por el Sur:
 
-- Avda. Enrique Mac Iver en toda su extensión
+- Avda. Enrique Mac Iver en toda su extensión.
 
 - Santa María en toda su extensión.
 
-Por el Poniente
+Por el Poniente:
 
 - Costanera del Mar en toda su extensión.
 
 - Avda. Mac Iver entre Santa María y Freire.
-
-- Rengifo entre Freire y Echeverría.
 
 2°.- La Dirección de Vialidad y la Municipalidad, según corresponda, serán las encargadas de señalizar debidamente la restricción anterior.
 
