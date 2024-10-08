@@ -52,59 +52,53 @@ Resuelvo:
 
 7. Chrysobothris spp. (Coleoptera; Buprestidae)
 
-### 8. Diaspidiotus (=Quadraspidiotus) ostreaeformis (Hem; Diaspididae)
+8. Diaspidiotus ostreaeformis (=Quadraspidiotus ostreaeformis) (Hem; Diaspididae)
 
-### 9. Enarmonia formosana (Lepidoptera; Tortricidae)
+### 9. Enarmonia formosana (Lepidoptera: Tortricidae)
 
 ### 10. Eotetranychus carpini (Tetranychidae)
 
-### 11. Euzophera semifuneralis (Lepidoptera; Pyralidae)
+### 11. Epiphyas postvittana (Lepidoptera; Tortricidae)
 
-12. Hedya spp. (Lepidoptera; Tortricidae)
+### 12. Euzophera semifuneralis (Lepidoptera; Pyralidae)
 
-### 13. Metcalfa pruinosa (Hemiptera; Flatidae)
+13. Hedya spp. (Lepidoptera; Tortricidae)
 
-### 14. Operophtera brumata (Lepidoptera; Geometridae)
+### 14. Metcalfa pruinosa (Hemiptera; Flatidae)
 
-### 15. Parlatoria oleae (Hemiptera; Diaspididae)
+### 15. Operophtera brumata (Lepidoptera; Geometridae)
 
-### 16. Phenacoccus aceris (Hemiptera; Pseudococcidae)
+### 16. Parlatoria oleae (Hemiptera; Diaspididae)
 
-### 17. Pseudaulacaspis pentagona (Hemiptera, Diaspididae)
+### 17. Phenacoccus aceris (Hemiptera; Pseudococcidae)
 
-### 18. Pulvinaria vitis (Hemiptera; Coccidae)
+### 18. Pseudaulacaspis pentagona (Hemiptera, Diaspididae)
 
-### 19. Recurvaria nanella (Lepidoptera; Gelechiidae)
+### 19. Pulvinaria vitis (Hemiptera; Coccidae)
 
-### 20. Sphaerolecanium prunastri (Hemiptera; Coccidae)
+### 20. Recurvaria nanella (Lepidoptera; Gelechiidae)
 
-### 21. Spilonota ocellana (Lepidoptera; Tortricidae)
+### 21. Sphaerolecanium prunastri (Hemiptera; Coccidae)
 
-### 22. Synanthedon pictipes (Lepidoptera; Sesiidae)
+### 22. Spilonota ocellana (Lepidoptera; Tortricidae)
 
-### 23. Synanthedon exitiosa (Lepidoptera; Sesiidae)
+### 23. Synanthedon pictipes (Lepidoptera; Sesiidae)
 
-### 24. Taeniothrips inconsequens (Thysanoptera; Thripidae)
+### 24. Synanthedon exitiosa (Lepidoptera; Sesiidae)
 
-### 25. Tetranychus mcdanieli (Tetranychidae)
+### 25. Taeniothrips inconsequens (Thysanoptera; Thripidae)
 
-### 26. Xylosandrus crassiusculus (Coleoptera; Scolytidae)
+### 26. Tetranychus mcdanieli (Tetranychidae)
 
-### 27. Zeuzera pyrina (Lepidoptera; Cossidae)
+### 27. Xylosandrus crassiusculus (Coleoptera; Scolytidae)
+
+### 28. Zeuzera pyrina (Lepidoptera; Cossidae)
 
 1.1.3. Además, se debe indicar en el Certificado Fitosanitario las Declaraciones Adicionales específicas que a continuación se señalan, para cada una de las especies de carozo:
 
-1.1.4 Si el material vegetal procede de un lugar de producción y empaque que se encuentra dentro de áreas no reglamentadas por USDA/APHIS para Epiphyas postvittana (Lep. Tortricidae), en los Estados de California o Hawaii, el Certificado Fitosanitario deberá indicar como declaración adicional:
+1.1.4 Para la certificación de las declaraciones adicionales de las plagas Eriophyes insidiosos, Phytoptus emarginatae y Acalitus phloeocoptes (Ac. Eriophyidae), se debe utilizar como técnica de diagnóstico la disección de yemas bajo microscopio binocular con contraste de fase.
 
-a. El envío proviene de un lugar de producción y empaque ubicado en el Condado de (indicar Condado) del Estado de (indicar Estado) que se encuentran dentro de un área no reglamentada para Epiphyas postvittana (Lep. Tortricidae).
-
-1.1.5. Si el material vegetal procede de un lugar de producción y empaque que se encuentra dentro de un área reglamentada por USDA/APHIS para Epiphyas postvittana (Lep. Tortricidae), en los Estados de California o Hawaii, el Certificado Fitosanitario deberá indicar como declaración adicional:
-
-b. El envío fue inspeccionado previo al embarque y encontrado libre de Epiphyas postvittana (Lep.Tortricidae) indicando el condado y estado en que se encuentra el lugar de producción y emapaque.
-
-1.1.6 Para la certificación de las declaraciones adicionales de las plagas Eriophyes insidiosos, Phytoptus emarginatae y Acalitus phloeocoptes (Ac. Eriophyidae), se debe utilizar como técnica de diagnóstico la disección de yemas bajo microscopio binocular con contraste de fase.
-
-1.1.7 La certificación de nematodos se debe basar en una de las siguientes alternativas:
+1.1.5 La certificación de nematodos se debe basar en una de las siguientes alternativas:
 
 a) Análisis Nematológico del sustrato, que certifique que las plantas se han producido en un sustrato libre de los nematodos señalados en el numeral 2.3.
 
@@ -143,5 +137,7 @@ c) Se ha usado un sustrato esterilizado para el enraizamiento.
 11. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial.
 
 12. Con la entrada en vigencia de la presente resolución, deróguese la resolución N° 3.435, de 2004, que establece regulaciones para la importación de plantas, estacas y ramillas de las siguientes especies de carozo: Prunus Dulcis, P. Mahaleb, P. Cerasus, P. Avium, P. Domestica, P. Salicina, P. Cerasifera, P. Armeniaca, P. Persica y P. Persica Var. Nucipersica, procedentes de Estados Unidos de Norteamérica.
+
+> **Nota.** El Número 1.2 de la Resolución 5561 Exenta, Agricultura, publicada el 08.10.2024, dispone eliminar de la columna "Declaración Adicional" del cuadro del numeral 1.1.3 de la presente resolución, para las especies, Cerezo Agrio (Prunus cerasus), Cerezo dulce (Prunus avium), Ciruelo europeo (Prunus domestica) Ciruelo japonés (Prunus salicina), Damasco (Prunus armeniaca), Duraznero (Prunus persica) y Nectarino (Prunus persica var. nucupersica), la frase "Pseudomonas syringae pv. morsprunorum,".
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
