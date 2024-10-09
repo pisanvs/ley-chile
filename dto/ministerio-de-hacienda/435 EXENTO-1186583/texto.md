@@ -54,15 +54,11 @@ BENEFICIARIOS
 
 Personas Elegibles.
 
-Podrán optar a financiamientos con Garantías Chile Apoya las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 100.000 Unidades de Fomento (en adelante, "UF"), y que cumplan con alguna de las siguientes condiciones:
+Podrán optar a financiamientos con Garantías Chile Apoya las personas, naturales o jurídicas, que sean empresarios o empresas y cuyas ventas netas anuales no excedan de 100.000 Unidades de Fomento (en adelante, "UF").
 
-a) Que registren al menos uno de los giros del listado de actividades económicas señaladas en el artículo 4 del presente reglamento, o;
+Tratándose de personas naturales y siempre que la operación de crédito de dinero sea por una suma igual o superior a 50 UF, no podrán optar a financiamientos con Garantías Chile Apoya aquellas personas que, al momento de efectuarse la consulta según lo dispuesto en el artículo 17, tengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos que regula la ley N° 21.389.
 
-b) Que hayan sido afectadas por emergencias o catástrofes durante el año 2024 y que se encuentren incorporadas en los catastros a los que se refiere el artículo 4 bis del presente Reglamento.
-
-Tratándose de personas naturales y siempre que la operación de crédito de dinero sea por una suma igual o superior a 50 UF, no podrán optar a financiamientos con Garantías Chile Apoya aquellas personas que, al momento de efectuarse la consulta según lo dispuesto en el artículo 17, tengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos que regula la Ley Nº 21.389.
-
-Asimismo, para efectos de este Reglamento, se entenderán por empresas elegibles a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía Chile Apoya, de acuerdo con lo que se establece en los artículos 3, 4 y 4 bis (en adelante, la(s) "Empresa(s) Elegible(s)-").
+Para efectos de este Reglamento, se entenderán por empresas elegibles a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con Garantía Chile Apoya, de acuerdo con lo que se establece en el artículo siguiente (en adelante, la(s) "Empresa(s) Elegible(s).
 
 #### Artículo 3
 
@@ -90,20 +86,6 @@ Respecto de las empresas cuyas ventas netas anuales no excedan de 2.400 UF que n
 
 #### Artículo 4
 
-Actividades Económicas.
-
-Para efectos del cumplimiento del requisito establecidos en la letra a) del artículo 2 del presente reglamento, las personas naturales o jurídicas elegibles deberán tener registrado ante el Servicio de Impuestos Internos al 31 de diciembre de 2023 alguna de las siguientes actividades económicas:
-
-#### Artículo 4 bis
-
-Empresas afectadas por emergencias o catástrofes.
-
-Para efectos del cumplimiento del requisito establecido en la letra b) del artículo 2 del presente reglamento, las personas naturales o jurídicas elegibles deberán encontrarse incorporadas en alguno de los catastros de emergencia elaborados por el Ministerio de Economía, Fomento y Turismo o el Ministerio de Agricultura.
-
-Los Ministerios a los que se refiere el inciso anterior remitirán mensualmente al Administrador el listado de empresas afectadas por emergencias o catástrofes durante el 2024, para efectos de ser incorporadas en el mecanismo de consulta de elegibilidad al que se refiere el artículo 3 de este Reglamento.
-
-#### Artículo 5
-
 Clasificación de las Empresas Elegibles.
 
 El tamaño de las Empresas Elegibles se define según sus ventas netas anuales, de acuerdo con lo señalado en el artículo 3 del presente Reglamento y a los siguientes criterios y rangos:
@@ -114,7 +96,7 @@ b. Pequeñas Empresas: Empresas cuyas ventas netas anuales superen las 2.400 UF 
 
 c. Medianas Empresas: Empresas cuyas ventas netas anuales superen las 25.000 UF y no excedan de 100.000 UF.
 
-#### Artículo 6
+#### Artículo 5
 
 Destino de los Financiamientos.
 
@@ -124,7 +106,7 @@ El uso de los mencionados fondos deberá constar expresamente, de conformidad a 
 
 El incumplimiento de la obligación indicada en el inciso primero de este artículo será causal de aceleración y de pago anticipado del respectivo financiamiento. La empresa que haya incumplido esta obligación no podrá acceder nuevamente a financiamientos caucionados con Garantía Chile Apoya.
 
-#### Artículo 7
+#### Artículo 6
 
 Restricciones de refinanciamientos.
 
@@ -134,7 +116,7 @@ Los recursos provenientes de los financiamientos con Garantías Chile Apoya podr
 
 PROCEDIMIENTO DE LICITACIÓN O ASIGNACIÓN Y UTILIZACIÓN DE LA GARANTÍA CHILE APOYA
 
-#### Artículo 8
+#### Artículo 7
 
 Mecanismo de Asignación de las Garantías a las Instituciones Financieras Elegibles.
 
@@ -144,19 +126,19 @@ El Administrador del Fondo deberá especificar en las Bases Fogape Chile Apoya d
 
 Asimismo, el Administrador del Fondo especificará el mecanismo de selección de las ofertas recibidas. En particular, el Administrador del Fondo podrá seleccionar las ofertas sobre la base de la tasa de utilización global de la garantía, ofrecida por las instituciones financieras participantes, o podrá dejar fija dicha tasa. Se entenderá por la tasa de utilización global de garantía, el porcentaje máximo del total de la cartera que cubrirá la Garantía Chile Apoya.
 
-#### Artículo 9
+#### Artículo 8
 
 Instituciones Financieras Elegibles.
 
 Podrán concurrir a estas Garantías Chile Apoya los bancos, incluyendo sus filiales, y las cooperativas de ahorro y crédito a que se refiere el inciso primero del artículo 87 de la Ley General de Cooperativas. También podrán participar las sociedades de garantía recíproca registradas y clasificadas en categoría "A", de conformidad con lo señalado en el artículo 18 de la ley 20.179, aunque estas últimas sólo para efectos de otorgar fianzas técnicas.
 
-#### Artículo 10
+#### Artículo 9
 
 Información al Fondo sobre Financiamientos Otorgados.
 
 Las instituciones financieras que se hubieren adjudicado Garantías Chile Apoya, deberán comunicar al Administrador del Fondo los financiamientos otorgados y garantizados con las mencionadas garantías, en los sistemas dispuestos por el Fondo para ello (Sistema SAFIO). La exigibilidad de la Garantías Chile Apoya estará condicionada a que se hubieren cumplido todos los requisitos establecidos en el decreto ley N° 3.472, de 1980, del Ministerio de Hacienda, en este Reglamento y en las Bases Fogape Chile Apoya de la respectiva Garantía Chile Apoya.
 
-#### Artículo 11
+#### Artículo 10
 
 Liberación de las Garantías Chile Apoya.
 
@@ -168,13 +150,13 @@ La Garantía Chile Apoya se libera al momento del pago del financiamiento que ga
 
 El Administrador del Fondo podrá entregar nuevas Garantías Chile Apoya producto de las liberaciones de garantía a que se refieren los incisos precedentes.
 
-#### Artículo 12
+#### Artículo 11
 
 Limitaciones y/o Exclusiones.
 
 El Administrador del Fondo podrá marginar de futuras Garantías Chile Apoya o limitar su participación en ellas, a las instituciones financieras que no hubieren otorgado y desembolsado los financiamientos en el plazo indicado por el referido Administrador, o que no cumplan con las condiciones que se establezcan en las respectivas Bases Fogape Chile Apoya.
 
-#### Artículo 13
+#### Artículo 12
 
 Contratos de Garantía Chile Apoya.
 
@@ -184,7 +166,7 @@ El Administrador del Fondo deberá celebrar contratos de Garantía Chile Apoya c
 
 FINANCIAMIENTOS GARANTIZADOS POR EL FONDO
 
-#### Artículo 14
+#### Artículo 13
 
 Límites de Financiamiento según Empresa.
 
@@ -192,7 +174,7 @@ Atendiendo a la finalidad de las Garantías Chile Apoya, el total de los financi
 
 Para efectos de cumplir con los límites de este artículo, el Administrador del Fogape podrá facilitar un mecanismo de consulta respecto del tramo de ventas de la empresa solicitante, en los mismos términos del inciso tercero del artículo 3 del presente Reglamento.
 
-#### Artículo 15
+#### Artículo 14
 
 Límites de Cobertura de Garantía Chile Apoya por Segmento.
 
@@ -204,7 +186,7 @@ b. Pequeñas Empresas: 90% del saldo adeudado de cada financiamiento de hasta 6.
 
 c. Medianas Empresas: 85% del saldo adeudado de cada financiamiento de hasta 25.000 UF.
 
-#### Artículo 16
+#### Artículo 15
 
 Tasa de interés de los Financiamientos con Garantías Chile Apoya.
 
@@ -216,7 +198,9 @@ La inflación esperada a 2 años plazo (23 meses) corresponde a la mediana segú
 
 Sin perjuicio de lo anterior, las tasas máximas antes mencionadas no se aplicarán para las operaciones de leasing ni para certificados de fianza. Tampoco aplicarán para los financiamientos otorgados por las cooperativas de ahorro y crédito a que se refiere el inciso primero del artículo 87 de la Ley General de Cooperativas.
 
-#### Artículo 17
+> **Nota.** El numeral 2 del N° 1 del Decreto 253 Exento, Hacienda, publicado el 03.07.2024, dispone reemplazar en la tabla inserta en el presente artículo las tasas de interés de los financiamientos con garantía Chile Apoya, en la columna Tasa de interés máxima en dólares, el porcentaje "78,2%" por "8,2%" y en la columna Tasa de interés máxima en euros, el porcentaje "77,4%" por "7,4%".
+
+#### Artículo 16
 
 Otras Condiciones de los Financiamientos con Garantías Chile Apoya.
 
@@ -246,7 +230,7 @@ c) No podrán ser otorgados a empresas que estén sujetas a alguno de los proced
 
 d) En el caso de que se trate de operaciones de crédito de dinero por una suma igual o superior a 50 unidades de fomento, no podrán ser otorgados a personas naturales que se encuentren inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos creado por la Ley Nº 21.389. La inscripción en el Registro deberá ser verificada por la institución financiera dentro de los tres días hábiles previos al desembolso del dinero.
 
-#### Artículo 18
+#### Artículo 17
 
 Plazo de las Garantías Chile Apoya por cada Financiamiento con Garantías de Garantía Chile Apoya.
 
@@ -254,13 +238,13 @@ La vigencia de la Garantía Chile Apoya no podrá extenderse por un plazo mayor 
 
 La renegociación de financiamientos cuya Garantía Chile Apoya haya sido pagada por el Fondo sólo podrá efectuarse en condiciones equitativas previamente acordadas con el Administrador del Fondo y con arreglo a las condiciones generales o especiales que éste determine, las cuales, en su caso, deberán ser informadas a las entidades participantes.
 
-#### Artículo 19
+#### Artículo 18
 
 Intereses de los Créditos.
 
 La Garantía Chile Apoya no cubrirá intereses de los créditos, los que, en caso de ser capitalizados, serán descontados en los casos eventuales en que dichas garantías sean requeridas de pago al Administrador del Fondo. Lo anterior, sin perjuicio de la posibilidad de utilizar los fondos para refinanciar créditos vigentes conforme a lo indicado en el artículo 7 del presente Reglamento.
 
-#### Artículo 20
+#### Artículo 19
 
 Verificación de Destino de los Recursos a Otorgar.
 
@@ -268,13 +252,13 @@ Las instituciones financieras participantes que otorguen financiamiento con Gara
 
 La mencionada declaración podrá ser efectuada en forma digital, por grabación de voz o video u otro medio identificatorio, debiendo ser almacenada en un soporte idóneo por la institución financiera y presentada al momento de un requerimiento de pago. En el caso que la declaración no conste por escrito, además del soporte en el que consta, al momento del requerimiento de pago deberá acompañarse una versión transcrita de ésta.
 
-#### Artículo 21
+#### Artículo 20
 
 Constitución de las Garantías Chile Apoya.
 
 Las Garantías Chile Apoya se entenderán constituidas al extenderse el título representativo del finciamiento con Garantía Chile Apoya, donde además se deberán señalar, a lo menos, las condiciones del financiamiento, la tasa de interés anual aplicable, el porcentaje sujeto a la Garantía Chile Apoya y el plazo de vigencia de la Garantía Chile Apoya, cuando éste sea inferior al plazo del financiamiento. En el mismo instrumento se podrán incluir las declaraciones de la empresa de uso o destino de los recursos y cualquier otra necesaria. Para que la Garantía Chile Apoya tenga validez, además de lo establecido precedentemente, deberá estar registrada o formalizada en los sistemas de Fogape (sistema SAFIO).
 
-#### Artículo 22
+#### Artículo 21
 
 Requerimiento de Pago de la Garantía Chile Apoya.
 
@@ -296,7 +280,7 @@ Respecto de las Pequeñas Empresas y Medianas Empresas, el señalado requisito s
 
 Con independencia del tamaño de la empresa, también se entenderá por cumplido tal requisito acreditando la institución acreedora la debida presentación de la demanda dentro de los plazos legales establecidos para estos efectos a través del sistema de tramitación electrónica del Poder Judicial, lo que deberá acreditarse mediante el correspondiente certificado de envío al Poder Judicial.
 
-#### Artículo 23
+#### Artículo 22
 
 Plazo de Pago de la Garantía Chile Apoya.
 
@@ -308,7 +292,7 @@ La negativa del Administrador del Fondo a efectuar el pago de la Garantía Chile
 
 DEDUCIBLES, COMISIONES Y GASTOS DE OPERACIÓN
 
-#### Artículo 24
+#### Artículo 23
 
 Deducibles de Pago de Garantías Chile Apoya.
 
@@ -316,7 +300,7 @@ Las instituciones financieras no deberán soportar deducible alguno para el pago
 
 Este deducible cero se aplicará a todos los créditos que hayan sido cubiertos por las licitaciones de Garantías Chile Apoya.
 
-#### Artículo 25
+#### Artículo 24
 
 Recuperación de Garantías Chile Apoya Pagadas.
 
@@ -330,7 +314,7 @@ c) Los intereses compensatorios y moratorios a que tenga derecho la institución
 
 d) Las comisiones y cualquier otra suma a que tenga derecho el Fondo.
 
-#### Artículo 26
+#### Artículo 25
 
 Comisión de uso de las Garantías Chile Apoya.
 
@@ -338,7 +322,7 @@ El Administrador del Fondo fijará la comisión que pagarán las instituciones a
 
 El monto que se cobre anualmente por ese concepto no podrá exceder, en ningún caso, cualquiera que sea la forma que se determine para su pago o recaudación, de aquel que resulte de aplicar la tasa indicada en este artículo, en forma anticipada, sobre el saldo del financiamiento al comienzo del respectivo período anual. Asimismo, el Administrador del Fondo determinará la forma y plazo en que los pagos de la comisión serán traspasados de la institución otorgante del financiamiento al Fondo.
 
-#### Artículo 27
+#### Artículo 26
 
 Reportes a la CMF.
 
@@ -348,7 +332,7 @@ Las instituciones financieras participantes y el Administrador del Fondo deberá
 
 OTRAS DISPOSICIONES
 
-#### Artículo 28
+#### Artículo 27
 
 Tramitación digital.
 
@@ -356,23 +340,23 @@ La tramitación de las solicitudes de financiamiento ante las instituciones fina
 
 Lo anterior es sin perjuicio de aquellos requisitos y solemnidades que se requieran para determinado tipo de contratos o instrumentos, de conformidad a lo dispuesto en ordenamiento jurídico general, en lo que fuere aplicable.
 
-#### Artículo 29
+#### Artículo 28
 
 Información.
 
 Para efectos de cumplir con las obligaciones de información contenidas en los incisos finales del artículo primero, número 5 de la Ley Nº 21.514, las instituciones financieras que se hubieren adjudicado las Garantías Chile Apoya entregarán al Administrador de Fogape, de manera semanal, información respecto al destino de los recursos y los criterios de asignación a las empresas, clasificadas por tamaño en base a ventas anuales en UF, así como los montos, plazos y tasas promedio de los créditos garantizados.
 
-#### Artículo 30
+#### Artículo 29
 
 Eliminado.
 
-#### Artículo 31
+#### Artículo 30
 
 Regulación supletoria.
 
 En todo lo no previsto en el presente Reglamento, regirán las disposiciones del Reglamento de Administración del Fondo de Garantía para Pequeños Empresarios, dictado por la CMF.
 
-#### Artículo 32
+#### Artículo 31
 
 Vigencia.
 
