@@ -296,6 +296,24 @@ Una vez perfeccionado el contrato, el proveedor estará obligado a enviar confir
 
 B.- Los proveedores de servicios de telecomunicaciones que realicen ofertas conjuntas deberán ofrecer individualmente cada uno de los servicios y planes que componen las mismas. De esta forma, no podrán atar, ligar o supeditar, bajo ningún modo o condición, la contratación de un servicio cualquiera a la contratación de otro.
 
+#### Artículo 12
+
+C.- Los proveedores de dispositivos móviles de información y telecomunicaciones deberán garantizar la interoperabilidad común entre los equipos y sus dispositivos de carga, a través de una interfaz de carga y protocolo de comunicación de carga compatibles.
+
+Los comercializadores de dispositivos móviles de información y telecomunicaciones deberán ofrecer a los consumidores la posibilidad de adquirir dichos productos con sus dispositivos de carga, o cada uno de ellos por separado, y no podrán atar, ligar o supeditar bajo modo o condición alguna la adquisición de uno de ellos a la del otro. Asimismo, deberán informar adecuada y oportunamente a los consumidores si el dispositivo de carga está o no incluido y sobre otras especificaciones relativas a los dispositivos de carga compatibles.
+
+Un reglamento dictado por el Ministerio de Economía, Fomento y Turismo establecerá las categorías o clases de dispositivos a los que se aplicará este artículo, las especificaciones técnicas para cada uno, la forma en que deberán cumplirse las obligaciones de información y demás obligaciones. Dentro de las clases o categorías de productos, el reglamento deberá al menos incluir a los dispositivos de telefonía móvil y ordenadores portátiles.
+
+El incumplimiento de lo dispuesto en los incisos primero y segundo será sancionado de conformidad a lo dispuesto en el artículo 24.
+
+#### Artículo 12
+
+D.- Los proveedores de vehículos motorizados nuevos deberán informar al consumidor, de manera clara e inequívoca, antes del perfeccionamiento del contrato de compraventa o de arrendamiento con opción de compra, aquellas exigencias obligatorias justificadas para mantener vigente la garantía voluntaria del vehículo. En el caso de que se exijan mantenciones obligatorias, se deberá informar el listado de todas éstas, incluyendo sus valores estimados, así como también una nómina de todos los talleres o establecimientos de servicio técnico autorizados donde se podrán realizar dichas mantenciones.
+
+Los fabricantes, importadores y proveedores de vehículos motorizados nuevos no podrán limitar la libre elección de servicios técnicos destinados a la mantención del bien, salvo que se trate de mantenciones que, por sus características técnicas específicas justificadas, deban ser realizadas por talleres o establecimientos de servicio técnico expresamente autorizados.
+
+El proveedor deberá proporcionar al consumidor otro vehículo de similares características mientras dure la reparación de un vehículo motorizado, cuando el ejercicio de la garantía legal o voluntaria conlleve privarlo de su uso por un término superior a cinco días hábiles.
+
 #### Artículo 13
 
 Los proveedores no podrán negar injustificadamente la venta de bienes o la prestación de servicios comprendidos en sus respectivos giros en las condiciones ofrecidas.
@@ -566,9 +584,9 @@ Para los efectos del presente artículo se considerará que es un solo bien aque
 
 #### Artículo 21
 
-El ejercicio de los derechos que contemplan los artículos 19 y 20 deberá hacerse efectivo ante el vendedor dentro de los tres meses siguientes a la fecha en que se haya recibido el producto, siempre que éste no se hubiere deteriorado por hecho imputable al consumidor. Si el producto se hubiere vendido con determinada garantía, prevalecerá el plazo por el cual ésta se extendió, si fuere mayor.
+El ejercicio de los derechos que contemplan los artículos 19 y 20 deberá hacerse efectivo ante el vendedor dentro de los seis meses siguientes a la fecha en que se haya recibido el producto, siempre que éste no se hubiere deteriorado por hecho imputable al consumidor. Si el producto se hubiere vendido con determinada garantía, prevalecerá el plazo por el cual ésta se extendió, si fuere mayor.
 
-El consumidor que, en el ejercicio de los derechos que contempla el artículo 20, opte por la reparación, podrá dirigirse, indistinta o conjuntamente, al vendedor, al fabricante o al importador. Hecha la opción, el requerido no podrá derivar el reclamo. En caso de que, prestado el servicio de reparación, subsistieren las deficiencias que hagan al bien inapto para el uso o consumo a que se refiere la letra c) del señalado artículo, el consumidor podrá optar entre su reposición o la devolución de la cantidad pagada.
+El consumidor que, en el ejercicio de los derechos que contempla el artículo 20, opte por la reparación, podrá dirigirse, indistinta o conjuntamente, al vendedor, al fabricante o al importador. En caso de que, prestado el servicio de reparación, subsistieren las deficiencias que hagan al bien inapto para el uso o consumo a que se refiere la letra c) del señalado artículo, el consumidor podrá optar entre su reposición o la devolución de la cantidad pagada. Hecha la opción, el requerido no podrá derivar el reclamo.
 
 Serán solidariamente responsables por los perjuicios ocasionados al consumidor, el proveedor que haya comercializado el bien o producto y el importador que lo haya vendido o suministrado.
 
