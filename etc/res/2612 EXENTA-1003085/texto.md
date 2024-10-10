@@ -20,7 +20,7 @@ Fíjese la siguiente norma técnica para el uso de frecuencias que indica en la 
 
 #### Artículo 1°
 
-Destínense las frecuencias 173,025; 173,075 y 173,425 MHz para la operación de equipos de radiocomunicación del servicio móvil con fines de radiolocalización de vehículos robados e intercambio de información con los mismos, que se autorice mediante el correspondiente permiso de servicio limitado de telecomunicaciones. Sin perjuicio de la utilización de estas frecuencias, además, para ofrecer prestaciones de otra naturaleza, concernientes al resguardo y/o seguridad de las personas y bienes.
+Destínense las frecuencias 173,025 y 173,130 MHz para la operación de equipos de radiocomunicación del servicio móvil con fines de radiolocalización de vehículos robados e intercambio de información con los mismos, que se autorice mediante el correspondiente permiso de servicio limitado de telecomunicaciones. Sin perjuicio de la utilización de estas frecuencias, además, para ofrecer prestaciones de otra naturaleza, concernientes al resguardo y/o seguridad de las personas y bienes.
 
 #### Artículo 2°
 
@@ -28,7 +28,7 @@ Estos permisos serán asignados mediante concurso público.
 
 #### Artículo 3°
 
-En una misma zona geográfica el servicio podrá ser suministrado hasta por 3 permisionarias. La zona de servicio de cada permiso podrá abarcar todo el territorio nacional.
+En una misma zona geográfica el servicio podrá ser suministrado hasta por 2 permisionarias. La zona de servicio y demás características técnicas serán definidas por las respectivas bases concursales.
 
 #### Artículo 4°
 
@@ -36,7 +36,7 @@ La tecnología será digital y de libre elección.
 
 #### Artículo 5°
 
-Las emisiones deberán estar contenidas dentro del ancho de banda máximo autorizado, 11 kHz, siendo obligación de la permisionaria tomar las medidas que corresponda para no causar interferencias.
+Las emisiones deberán estar contenidas dentro del ancho de banda máximo autorizado, siendo obligación de la permisionaria tomar las medidas que corresponda para no causar interferencias.
 
 En caso de eventuales interferencias -entre equipos de radiocomunicaciones cuya operación se regula al amparo de la presente resolución- ocasionadas en los contornos de las zonas de servicio, las respectivas permisionarias deberán coordinarse, directamente entre ellas, para efectos de eliminarlas, informando de dicho resultado a la Subsecretaría de Telecomunicaciones.
 
