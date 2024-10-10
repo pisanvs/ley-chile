@@ -24,7 +24,7 @@ En el anverso del documento, en un primer recuadro, se indicará el título "Cer
 
 .
 
-En el reverso del documento, en una primera línea se indicará por separado en dos recuadros el nombre y RUT del propietario del vehículo; en una segunda fila en recuadros separados, el tipo de vehículo y el año de fabricación; en una tercera fila en 2 recuadros por separados, la marca y color del vehículo; en una cuarta fila en dos recuadros separados, el modelo del vehículo y el sello; mientras que en las últimas 2 filas el Nº de chasis o VIN y el Nº de motor. En un segundo plano el documento deberá contener la marca gráfica PRT, en color, según se señala en la siguiente figura:
+En el reverso del documento, en una primera línea se indicará por separado en dos recuadros el nombre y RUT del propietario del vehículo; en una segunda fila en recuadros separados, el tipo de vehículo y el año de fabricación; en una tercera fila en 2 recuadros por separados, la marca y color del vehículo; en una cuarta fila en dos recuadros separados, el modelo del vehículo y la norma de emisión; mientras que en las últimas 2 filas el Nº de chasis o VIN y el Nº de motor. En un segundo plano el documento deberá contener la marca gráfica PRT, en color, según se señala en la siguiente figura:
 
 .
 
@@ -65,5 +65,7 @@ La fuente tipográfica para el texto será Arial mayúscula tamaño 10, con exce
 9°.- Los distintivos a que se refiere el artículo 13° del decreto supremo N° 156, de 1990, del Ministerio de Transportes y Telecomunicaciones, para los vehículos motorizados que emplean gas natural comprimido o gas licuado de petróleo como combustible, tendrán las mismas características y formato que las señaladas en el resuelvo N° 6, salvo por la primera y última fila, que tendrán de fondo el color naranjo y deberán indicar en la primera fila el título "Revisión Técnica GNC" o "Revisión Técnica GLP", según se trate de vehículos que emplean gas natural comprimido o gas licuado de petróleo, respectivamente.
 
 > **Nota.** La letra b del artículo único de la Resolución 2283 Exenta, Transportes, publicada el 03.09.2019, modifican la presente norma en el sentido de reemplazar en la figura correspondiente al anverso del documento cuyas imágenes se muestran en el resuelvo 2º, y en las de los documentos cuyas imágenes aparecen en los resuelvos 4º y 5º, la expresión "Firmado Digitalmente por" por "Firma Electrónica Avanzada".
+
+> **Nota.** NOTA 1 La letra b del número 1 del numeral 1° de la Resolución 3481 Exenta, Transportes, publicada el 10.10.2024, modifica la presente norma en el sentido de reemplazar en la figura inserta la palabra "SELLO" por la frase: "NORMA DE EMISIÓN".
 
 Anótese y publíquese.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones. Lo que transcribo para su conocimiento.- Saluda a Ud., Mónica Wityk Peluchonneau, Jefe División Administración y Finanzas.
