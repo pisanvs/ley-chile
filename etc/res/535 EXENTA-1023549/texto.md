@@ -12,21 +12,7 @@ Considerando:
 
 Resuelvo:
 
-1º A efecto de cumplir con eficiencia y eficacia las facultades que la ley y el reglamento otorga al Jefe Superior de la Institución en lo relativo a fiscalizar y sancionar el cumplimiento de disposiciones legales, reglamentarias y técnicas, y en aras de una mayor celeridad resolutiva, delégase en el Jefe de División de Ingeniería de Combustibles o en su subrogante legal, dichas facultades, las cuales serán ejercidas específicamente mediante los siguientes actos:
-
-1. Oficios o resoluciones contra empresas, entidades, personas naturales o jurídicas por las que se formulen cargos, se las absuelva, o se les apliquen sanciones consistentes en amonestaciones o multas iguales o inferiores a 120 UTM, cuando éstas hayan infringido las leyes, reglamentos o normas relacionadas con gas o combustibles líquidos o cuando incurran en incumplimiento de las instrucciones y órdenes impartidas por esta Superintendencia en estas materias, como asimismo, todos aquellos otros oficios o resoluciones provenientes del mismo proceso sancionatorio. Se exceptúan de esta delegación, los actos mediante los cuales se formulen cargos generados de manera sistematizada.
-
-2. Oficios o resoluciones mediante los cuales se ordene normalizar instalaciones, y en los que se tramiten reclamos de instaladores, de personas naturales o jurídicas.
-
-3. Oficios o resoluciones en los que se impartan a empresas de gas o combustibles líquidos, instrucciones de suspensión provisoria del suministro respectivo ante situaciones de manifiesto nivel de riesgo para las personas o cosas.
-
-4. Oficios o resoluciones en los que se ordene la clausura temporal de instalaciones, de gas o combustibles líquidos, en casos de manifiesto nivel de riesgo para las personas o cosas.
-
-5. Los oficios o cartas que comuniquen las suspensiones transitorias de autorizaciones o licencias que se hayan otorgado conforme a los números 14, 15 y 26 del artículo 3 de la ley 18.410. Para estos efectos, previo a la firma deberá comprobar que no se cumplen las exigencias técnicas de cumplimiento obligatorio para detentar o ejercer tales autorizaciones o licencias, según lo dispuesto en el número 19 del mismo artículo. La suspensión regirá hasta que se acredite el cumplimiento de las referidas exigencias.
-
-6. Resoluciones u oficios por los cuales se soliciten, toda clase de información y/o antecedentes a empresas, personas naturales o jurídicas o comunidades de hecho que la Superintendencia requiera en ejercicio de sus facultades legales y que correspondan a materias de gas o combustibles líquidos, lo anterior, sin perjuicio de las facultades delegadas en materia de información, a jefaturas de la misma División.
-
-7. Resoluciones u oficios por los cuales se ordena a las empresas de gas, abstenerse de facturar los cargos motivos de un reclamo o no efectuar corte de suministro por estos efectos, en tanto esta Superintendencia no resuelva y/o informe sobre el particular.
+1º Derogado.
 
 2º Del mismo modo, delégase en los Jefes de Departamentos Técnicos de Combustibles o en sus subrogantes legales, dichas facultades, las cuales serán ejercidas específicamente mediante los siguientes actos:
 
