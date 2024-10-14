@@ -44,9 +44,11 @@ Para efectos de la presente resolución, los términos que a continuación se in
 
 - Convertidor digital con salida de video estándar (SD): Dispositivo Full-seg, también conocido como Down Converter, diseñado para recibir y decodificar señales de televisión digital de alta definición (HD) y definición estándar (SD) y entregar a su salida señales de definición estándar (SD). No estarán permitidos dispositivos que no decodifiquen señales de alta definición (HD).
 
+- Antena receptora: dispositivo físico que permite transformar el campo eléctrico de la señal propagada en el aire en corriente y voltaje útil para que los elementos electrónicos del receptor funcionen correctamente y puedan decodificarse las señales digitales. En términos generales, para su adaptación se requerirá que tenga una impedancia de 75 ohms
+
 #### Artículo 2°
 
-Los receptores de televisión digital terrestre deberán cumplir con las especificaciones técnicas mínimas que se señalan a continuación. En cuanto a las demás características técnicas de los receptores, no especificadas en esta norma técnica, o para las especificaciones definidas como opcionales, se deberá recurrir a la normativa señalada en la letra f) de los Considerandos.
+Los receptores de televisión digital terrestre deberán incluir una antena receptora que permita su correcto funcionamiento y cumplir con las especificaciones técnicas mínimas que se señalan a continuación. En cuanto a las demás características técnicas de los receptores, no especificadas en esta norma técnica, o para las especificaciones definidas como opcionales, se deberá recurrir a la normativa señalada en la letra f) de los Considerandos.
 
 ESPECIFICACIONES TÉCNICAS MÍNIMAS PARA LOS RECEPTORES DE TELEVISIÓN DIGITAL TERRESTRE
 
@@ -55,6 +57,10 @@ ESPECIFICACIONES TÉCNICAS MÍNIMAS PARA LOS RECEPTORES DE TELEVISIÓN DIGITAL T
 > **Nota.** El Artículo Único de la Resolución 474 Exenta, Transportes, publicada el 30.01.2010, modifica la presente norma en el sentido de agregar en la tabla de especificaciones técnicas, antes de la fila Otras, lo siguiente:Reproducción de múltiples Obligatorio sólo para Full-seg servicios.
 
 > **Nota.** NOTA 1 El Artículo Único de la Resolución 7316 Exenta, Transportes, publicada el 04.01.2011, modifica la presente norma en el sentido de agregar en la tabla de especificaciones técnicas, antes de la fila Otras, lo siguiente:Interactividad Opcional. En caso de implementarse, se deberá cumplir las especificaciones establecidas en las normas ABNT NBR 15606 de Brasil, referidas al middleware Ginga.
+
+#### Artículo transitorio
+
+El deber de incluir junto a los receptores de televisión digital terrestre una antena que permita su correcto funcionamiento, establecido en el artículo 2° de la presente Norma Técnica, será exigible a contar del 17 de marzo de 2025.
 
 Anótese y publíquese en el Diario Oficial.- Pablo Bello Arellano, Subsecretario de Telecomunicaciones.
 
