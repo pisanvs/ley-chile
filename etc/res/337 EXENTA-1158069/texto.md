@@ -124,7 +124,7 @@ En caso de que las Entidades Patrocinantes estimen una aplicación errónea de l
 
 22. Dando cumplimiento a lo establecido en el artículo 38 del DS Nº 27 (V. y U.), de 2016, al inicio de las obras, deberá contar con una FTO. Los profesionales encargados de realizar estas actividades, así como aquellos encargados de realizar las actividades correspondientes a las labores de Asistencia Técnica de "Gestión Legal y Social de proyectos", no podrán atender simultáneamente a un número mayor a 350 familias.
 
-Los pagos de asistencia técnica y ejecución de obras serán realizados contra Actas de Conformidad firmadas por el Presidente del Comité de Administración del condominio, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu Metropolitano. Para el último pago de las obras, se exigirá un Acta de Conformidad emitida por esta Secretaría Regional de Vivienda y Urbanismo.
+Los pagos de asistencia técnica y ejecución de obras serán realizados contra Actas de Conformidad firmadas por el Presidente del Comité de Administración del condominio, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu Metropolitano.
 
 En el caso de proyectos de Proyectos de Ampliación de la Vivienda, dicho pago se verificará una vez acompañado el certificado de recepción municipal. Además, se entenderán por terminadas las labores de Asistencia Técnica referidas a "Gestión Legal y Asesoría para la Recepción de Obras" y "Gestión Técnica y Social de Proyectos", cuando se inscriban en el Conservador de Bienes Raíces respectivo:
 
@@ -154,12 +154,16 @@ d. El pago final se efectuará una vez sea acreditado el término de los servici
 
 24. Establézcase a lo menos, los siguientes productos para Copropiedad Inmobiliaria de acuerdo a la resolución Nº 1.237 (V. y U.), de fecha 24 de mayo de 2019, según cada modalidad de postulación y selección:
 
-Los honorarios correspondientes a la tabla precedente se pagarán según lo establecido en la resolución Nº 1.237 (V. y U.), de 2019, una vez que el Serviu Metropolitano verifique la realización y cumplimiento de la totalidad de los servicios que establezca el llamado a postulación, previo oficio de la Seremi que exprese la conformidad en el cumplimiento de la totalidad de componentes descritos en este resuelvo.
+Los honorarios correspondientes a la tabla precedente se pagarán según lo establecido en la resolución N°1.237 (V. y U.), de 2019, una vez que el Serviu Metropolitano verifique la realización y cumplimiento de la totalidad de los servicios que establezca el llamado a postulación.
 
 25. Los montos de Asistencia Técnica, procedimientos e hitos de pago, serán aquellos establecidos en la resolución Nº 1.237 (V. y U.), de 2019.
 
 26. La Seremi, en coordinación con el Serviu Metropolitano, tendrá la facultad de conocer y verificar todos los procedimientos realizados por los PSAT, en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
 
 27. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo N° 27 (V. y U.), de 2016.
+
+> **Nota.** El número 1º de la Resolución 283 Exenta, Vivienda, publicada el 16.03.2022, modifica la presente norma en el sentido de disminuir los recursos disponibles para efectuar la selección de proyectos, establecidos en el Resuelvo 13 de la presente resolución, en la forma que indica el cuadro inserto de la citada norma.
+
+> **Nota.** NOTA 1 La letra A) de la Resolución 368 Exenta, Vivienda, publicada el 08.04.2022, modifica la presente norma en el sentido de disminuir los recursos disponibles para efectuar la selección de proyectos, establecidos en el Resuelvo 13 de la presente resolución, en la forma que indica el cuadro inserto de la citada norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
