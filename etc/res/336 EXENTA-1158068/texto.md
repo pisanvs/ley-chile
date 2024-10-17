@@ -192,7 +192,7 @@ En caso de que las Entidades Patrocinantes estimen una aplicación errónea de l
 
 24. Dando cumplimiento a lo establecido en el Artículo 38 del DS Nº 27 (V. y U.), de 2016, al inicio de las obras, deberá contar con una FTO. Los profesionales encargados de realizar estas actividades, así como aquellos encargados de realizar las actividades correspondientes a las labores de Asistencia Técnica de "Gestión Legal y Social de Proyectos", no podrán atender simultáneamente a un número mayor a 350 familias.
 
-Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el Representante Legal del grupo postulante o el presidente del Comité de Administración del condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu Metropolitano. Para el último pago de las obras, se exigirá un Acta de Conformidad de Término de Obras emitida por esta Secretaría Regional de Vivienda y Urbanismo.
+Los pagos de asistencia técnica y ejecución de obras serán realizados contra actas de conformidad firmadas por el Representante Legal del grupo postulante o el presidente del Comité de Administración del condominio, según la modalidad de postulación correspondiente, junto a los informes de pagos y antecedentes requeridos y aprobados por el Serviu Metropolitano.
 
 En el caso de Proyectos de Ampliación de la vivienda, dicho pago se verificará una vez acompañado el certificado de recepción municipal. Además, se entenderán por terminadas las labores de Asistencia Técnica referidas a "Gestión Legal y Asesoría para la Recepción de Obras" y "Gestión Técnica y Social de Proyectos", cuando se inscriban en el Conservador de Bienes Raíces:
 
@@ -227,5 +227,7 @@ Los honorarios correspondientes a la tabla precedente se pagarán según lo esta
 28. La Seremi, en coordinación con el Serviu Metropolitano, tendrán la facultad de conocer y verificar todos los procedimientos realizados por las EP en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
 
 29. En todo aquello no regulado por el presente llamado, se aplicarán las disposiciones contenidas en el decreto supremo Nº 27 (V. y U.), de 2016.
+
+> **Nota.** El numeral 2 de la Resolución 1682 Exenta, publicada el 17.10.2024, ordena modificar en el inciso final del resuelvo 25 de la presente norma una frase, sin embargo, el texto que debe ser reemplazado se encuentra en el inciso final del numeral 26, es por esta razón que no se elabora el texto actualizado.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
