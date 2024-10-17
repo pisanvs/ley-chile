@@ -248,6 +248,8 @@ Toda persona o institución, pública o privada, que ofrezca servicios educacion
 
 Los postulantes que presenten alguna discapacidad que les produzca impedimento o dificultad en la aplicación de los instrumentos de selección que se administren para el efecto, deberán informarlo en su postulación, para su adaptación.
 
+Asimismo, toda institución pública o privada que se encuentre habilitada para promover actividad física o deportiva procurará realizar los ajustes necesarios para adecuar los mecanismos destinados a propiciar la accesibilidad universal a los recintos en que se practique, resguardando la igualdad de oportunidades de las personas con discapacidad para asistir, participar o competir en ellos.
+
 #### Artículo 25
 
 Los concesionarios de servicios de radiodifusión televisiva de libre recepción y los permisionarios de servicios limitados de televisión deberán aplicar mecanismos de comunicación audiovisual que posibiliten a las personas en situación de discapacidad auditiva el acceso a su programación en los casos que corresponda, según lo determine el reglamento que al efecto se dictará a través de los Ministerios de Desarrollo Social, de Transportes y Telecomunicaciones y Secretaría General de Gobierno.
