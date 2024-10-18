@@ -44,9 +44,9 @@ Resuelvo:
 
 . Eotetranychus willamettei (Ac. Tetranychidae)
 
-. Erythroneura spp. (Hem. Cicadellidae)
+. Epiphyas postvittana (Lep. Tortricidae)
 
-. Eulecanium tiliae (Hem. Coccidae)
+. Erythroneura spp. (Hem. Cicadellidae)
 
 . Ferrisia gilli (Hem. Pseudococcidae)
 
@@ -93,14 +93,6 @@ Resuelvo:
 1.1.4 Las estacas sin enraizar derivan de plantas madres que fueron inspeccionadas en el momento óptimo y encontradas libres de Guignardia bidwellii.
 
 1.1.5 El lugar de producción fue inspeccionado durante la última temporada de crecimiento activo y las muestras extraídas fueron sometidas a análisis oficial de laboratorio, encontrándose libres de Viteus (=Daktulosphaira) vitifoliae (Hem. Phylloxeridae).
-
-1.1.6 Si el material vegetal procede de un lugar de producción y empaque que se encuentra dentro de áreas no reglamentadas por USDA/APHIS para Epiphyas postvittana (Lep. Tortricidae), en los Estados de California o Hawaii, el Certificado Fitosanitario deberá indicar como declaración adicional:
-
-. El envío proviene de un lugar de producción y empaque ubicado en el Condado de (indicar Condado) del Estado de (indicar Estado) que se encuentran dentro de un área no reglamentada para Epiphyas postvittana (Lep. Tortricidae).
-
-1.1.7 Si el material vegetal procede de un lugar de producción y empaque que se encuentra dentro de un área reglamentada por USDA/APHIS para Epiphyas postvittana (Lep. Tortricidae), en los Estados de California o Hawaii, el Certificado Fitosanitario deberá indicar como declaración adicional:
-
-. El envío fue inspeccionado previo al embarque y encontrado libre de Epiphyas postvittana (Lep. Tortricidae).
 
 2. El material debe haber sido sometido a un tratamiento de desinfestación contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, el tipo de aplicación y la dosis utilizada.
 
