@@ -20,11 +20,11 @@ Con el fin de potenciar el desarrollo integral y armónico de las caletas artesa
 
 Con el mismo objeto, el Servicio podrá solicitar al Ministerio de Bienes Nacionales la destinación de bienes fiscales colindantes con los señalados en el inciso primero. Dicha destinación será gratuita y durará mientras se encuentre vigente la destinación otorgada por el Ministerio de Defensa Nacional a que se refiere el inciso anterior.
 
-Sin perjuicio de lo anterior, la o las organizaciones de pescadores artesanales o usuarios podrán requerir al Servicio que efectúe las solicitudes de destinación señaladas en los incisos precedentes.
+Sin perjuicio de lo anterior, la o las organizaciones de la pesca artesanal o las usuarias o los usuarios podrán requerir al Servicio que efectúe las solicitudes de destinación señaladas en los incisos precedentes.
 
 #### Artículo 3
 
-Las caletas artesanales que sean otorgadas en destinación al Servicio, ya sea por el Ministerio de Defensa Nacional o por el Ministerio de Bienes Nacionales, deberán ser asignadas a las organizaciones de pescadores artesanales que se encuentren operativas y en funcionamiento, además de estar inscritas en el Registro Artesanal regulado en la Ley General de Pesca y Acuicultura, y tengan declarada como caleta base el espacio objeto de la destinación. Asimismo a la o las organizaciones de pescadores artesanales no contempladas en la hipótesis anterior, que se encuentren operativas y en funcionamiento a la fecha de entrada en vigencia de esta ley, se les asignará de igual forma las caletas artesanales. Todas las asignaciones a que se refiere el presente artículo se realizarán a través de la suscripción de un convenio de uso.
+Las caletas artesanales que sean otorgadas en destinación al Servicio, ya sea por el Ministerio de Defensa Nacional o por el Ministerio de Bienes Nacionales, deberán ser asignadas a las organizaciones de la pesca artesanal que se encuentren operativas y en funcionamiento, además de estar inscritas en el Registro Artesanal regulado en la Ley General de Pesca y Acuicultura, y tengan declarada como caleta base el espacio objeto de la destinación. Asimismo a la o las organizaciones de la pesca artesanal de segundo grado, con arraigo territorial a la caleta respectiva no contempladas en la hipótesis anterior, que se encuentren operativas y en funcionamiento a la fecha de entrada en vigencia de esta ley, se les asignará de igual forma las caletas artesanales. Todas las asignaciones a que se refiere el presente artículo se realizarán a través de la suscripción de un convenio de uso.
 
 Asimismo, se asignará para su uso y goce, la infraestructura portuaria construida en apoyo a la pesca artesanal.
 
@@ -34,13 +34,13 @@ Lo dispuesto en los incisos anteriores es sin perjuicio de los derechos que les 
 
 #### Artículo 4
 
-En las caletas asignadas de conformidad con el artículo anterior se podrán realizar todas aquellas labores vinculadas con el desarrollo de las actividades pesqueras extractivas y de transformación, de pesca recreativa y de acuicultura de pequeña escala, de acuerdo con la normativa vigente, y otras actividades productivas, comerciales, culturales o de apoyo, relacionadas directa o indirectamente con las antes señaladas, como turismo, puestos de venta de recursos hidrobiológicos y artesanía local, gastronomía y estacionamientos, o similares espacios necesarios para el desarrollo de las actividades antes indicadas, las que deberán estar contenidas en el Plan de Administración, aprobado en los términos del artículo 10. También se podrán desarrollar actividades relacionadas con el abastecimiento de combustible, las que serán administradas por los asignatarios.
+En las caletas asignadas de conformidad con el artículo anterior se podrán realizar todas aquellas labores vinculadas con el desarrollo de las actividades pesqueras extractivas y de transformación, de pesca recreativa y de acuicultura de pequeña escala, de acuerdo con la normativa vigente, y otras actividades productivas, comerciales, culturales, educacionales, de capacitación o de apoyo, relacionadas directa o indirectamente con las antes señaladas, como actividades conexas a la pesca artesanal, turismo, puestos de venta de recursos hidrobiológicos y artesanía local, gastronomía y estacionamientos, o similares espacios necesarios para el desarrollo de las actividades antes indicadas, las que deberán estar contenidas en el Plan de Administración, aprobado en los términos del artículo 10. También se podrán desarrollar actividades relacionadas con el abastecimiento de combustible, las que serán administradas por los asignatarios.
 
 Dichas actividades deberán efectuarse dando estricto cumplimiento a las normas sectoriales respectivas.
 
 #### Artículo 5
 
-Una vez efectuada la entrega material de la destinación por parte de la Autoridad Marítima al Servicio, éste deberá notificar válidamente a la o las organizaciones de pescadores artesanales, en forma copulativa, de las siguientes maneras:
+Una vez efectuada la entrega material de la destinación por parte de la Autoridad Marítima al Servicio, éste deberá notificar válidamente a la o las organizaciones de la pesca artesanal, en forma copulativa, de las siguientes maneras:
 
 1.- Envío de carta registrada nacional o similar, al domicilio señalado en el Registro Pesquero Artesanal.
 
@@ -50,17 +50,17 @@ Una vez efectuada la entrega material de la destinación por parte de la Autorid
 
 4.- Notificación personal a través de la autoridad marítima en aquellas zonas más remotas y aisladas.
 
-La notificación contendrá información precisa y detallada, enviada a la o las organizaciones de pescadores artesanales que cumplan con los requisitos indicados en el inciso primero del artículo 3, con el fin de que manifiesten dentro del plazo de sesenta días corridos de recibida la notificación, su intención de acceder a la administración de la caleta respectiva.
+La notificación contendrá información precisa y detallada, enviada a la o las organizaciones de la pesca artesanal que cumplan con los requisitos indicados en el inciso primero del artículo 3, con el fin de que manifiesten dentro del plazo de sesenta días corridos de recibida la notificación, su intención de acceder a la administración de la caleta respectiva.
 
 Inmediatamente vencido el plazo anterior, el Servicio convocará a las organizaciones interesadas con el fin de obtener el acuerdo por parte de las mismas en torno a solicitar la asignación de forma conjunta. La convocatoria deberá realizarse de la misma manera indicada para efectuar las notificaciones.
 
 Si ninguna organización manifiesta interés en participar en la convocatoria, el Servicio deberá repetir el procedimiento en un plazo máximo de noventa días.
 
-De mediar acuerdo, las organizaciones interesadas en la asignación de la caleta deberán presentar, de manera conjunta, una solicitud dirigida al Director del Servicio, de acuerdo al formato que estará a disposición en las Direcciones Regionales del Servicio, la que deberá designar un apoderado para efectos de la tramitación del procedimiento de asignación y contener, a lo menos, los siguientes antecedentes:
+De mediar acuerdo, las organizaciones interesadas en la asignación de la caleta deberán presentar, de manera conjunta, una solicitud dirigida a la Directora o al Director del Servicio, de acuerdo al formato que estará a disposición en las Direcciones Regionales del Servicio, la que deberá designar un apoderado para efectos de la tramitación del procedimiento de asignación y contener, a lo menos, los siguientes antecedentes:
 
-a) Individualización de las organizaciones de pescadores artesanales solicitantes, adjuntando copia de los estatutos respectivos, con certificado de vigencia que posea una antigüedad no superior a tres meses, y un listado de los pescadores artesanales que la conforman.
+a) Individualización de las organizaciones de la pesca artesanal solicitantes, adjuntando copia de los estatutos respectivos, con certificado de vigencia que posea una antigüedad no superior a tres meses, y un listado de las pescadoras y de los pescadores artesanales que la conforman.
 
-b) Nombre y domicilio del apoderado para efectos de notificación.
+b) Nombre y domicilio de la apoderada o del apoderado para efectos de notificación.
 
 c) Individualización de la caleta solicitada.
 
@@ -74,25 +74,33 @@ La propuesta de Plan de Administración contendrá, al menos, los siguientes asp
 
 a) Fundamento y objetivos del Plan de Administración.
 
-b) Usos y actividades a desarrollar en la caleta, las que deberán ser preferentemente pesqueras extractivas artesanales.
+b) Usos y actividades a desarrollar en la caleta, las que deberán ser preferentemente pesqueras extractivas artesanales y actividades conexas señaladas en el artículo 4.
 
 c) Identificación de la infraestructura existente en la caleta y un anteproyecto de obras que se desean ejecutar en los bienes que se solicitan, indicando los plazos, capital que se invertirá en las mismas y su fuente de financiamiento.
 
 d) Identificación de la organización que ejercerá la representación.
 
-e) Individualización de los mecanismos de administración y solución de conflictos, los que deberán contemplar un comité de administración en el que se encuentren representadas todas las organizaciones solicitantes.
+e) Individualización de los mecanismos de administración y solución de conflictos, los que deberán contemplar un comité de administración en el que se encuentren representadas todas las organizaciones solicitantes. En la integración del Comité se asegurará una conformación de género de acuerdo con lo señalado en los incisos segundo y tercero del artículo 1° D de la ley N° 18.892, General de Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
 
-f) Derechos de los usuarios que no sean integrantes de las organizaciones solicitantes.
+f) Derechos de las usuarias y de los usuarios que no sean integrantes de las organizaciones solicitantes.
 
-Las organizaciones de pescadores artesanales podrán acogerse a un Plan de Administración tipo, cuyo formato y contenido será aprobado por el Servicio mediante resolución.
+g) Plan de igualdad y no discriminación. Dicho plan deberá establecer, a lo menos, medidas y verificadores con enfoque de género que aseguren los criterios de equidad, no discriminación, participación y promoción de igualdad de derechos y oportunidades entre todas las personas. Asimismo, deberá establecer un protocolo de actuación que establezca sanciones internas en caso de realización de actos de discriminación, amenazas, agresiones u otros actos de violencia contra las mujeres. Estas sanciones deberán diferenciar entre las conductas realizadas, y considerará los grados de graves, menos graves y leves.
+
+El Servicio Nacional de Pesca y Acuicultura, conjuntamente con el Ministerio de la Mujer y la Equidad de Género podrán poner a disposición de las organizaciones un plan y protocolo modelo que se encuentre en armonía con el Plan Nacional de Acción contra la Violencia de Género.
+
+h) Identificación de los principales riesgos de emergencias naturales y de la acción humana que pueden producirse en la caleta, y de las medidas de prevención y acción en caso de producirse. Para ello se deberá tomar en consideración los planes, estudios y recomendaciones que elabore el Servicio Nacional de Prevención y Respuesta ante Desastres para la actividad y localidad.
+
+Las organizaciones de la pesca artesanal podrán acogerse a un Plan de Administración tipo, cuyo formato y contenido será aprobado por el Servicio mediante resolución.
 
 Sin perjuicio de lo establecido en los incisos anteriores, el Plan de Administración no podrá establecer limitaciones, restricciones o prohibiciones que impidan a cualquier persona el tránsito y/o acceso a los espacios comunes de la caleta definidos en el Plan, ni impedir la libre navegación al interior de la misma, y deberá asegurar el libre acceso a la playa cuando corresponda.
 
-Del mismo modo, el Plan deberá garantizar el acceso igualitario de los usuarios y la fijación de tarifas públicas en condiciones no discriminatorias, las cuales deberán ser publicadas en lugares visibles y de libre acceso a los usuarios, y ponerlas a disposición del Servicio, de conformidad al reglamento.
+Del mismo modo, el Plan deberá garantizar el acceso igualitario de las usuarias y de los usuarios y la fijación de tarifas públicas en condiciones no discriminatorias, las cuales deberán ser publicadas en lugares visibles y de libre acceso a los usuarios, y ponerlas a disposición del Servicio, de conformidad al reglamento.
+
+La organización que ejercerá la representación de conformidad a la letra d) del inciso primero, deberá incluir al menos una representante de las actividades conexas.
 
 #### Artículo 7
 
-En caso que la solicitud considere el desarrollo de infraestructura portuaria fiscal de apoyo a la pesca artesanal, las organizaciones de pescadores artesanales solicitantes deberán cumplir con el correcto uso de las referidas instalaciones, de acuerdo a lo indicado en el manual de operación que entregue la Dirección de Obras Portuarias, así como ejecutar las actividades de conservación menor que se indiquen como de su responsabilidad en dicho manual.
+En caso que la solicitud considere el desarrollo de infraestructura portuaria fiscal de apoyo a la pesca artesanal, las organizaciones de la pesca artesanal solicitantes deberán cumplir con el correcto uso de las referidas instalaciones, garantizar espacios especiales de higiene, almacenaje y protección para las personas que desempeñen labores en ellas, con especial énfasis en espacios destinados a las actividades conexas a la pesca artesanal, señaladas en el numeral 28 bis del artículo 2° de la ley N° 18.892, General de Pesca y Acuicultura, y a aquellas labores realizadas por personas del género femenino en general, de acuerdo a lo indicado en el manual de operación que entregue la Dirección de Obras Portuarias, así como ejecutar las actividades de conservación menor que se indiquen como de su responsabilidad en dicho manual.
 
 #### Artículo 8
 
@@ -102,23 +110,45 @@ Recibida la solicitud, el Servicio verificará, en un plazo no superior a diez d
 
 En caso de no existir acuerdo entre las organizaciones interesadas en la asignación de la caleta, ésta se entregará a la o las organizaciones que obtengan el mayor puntaje ponderado, de conformidad con los siguientes criterios:
 
-a) Organización de pescadores que hayan presentado la solicitud de manera conjunta.
+a) Organizaciones de la pesca artesanal que hayan presentado la solicitud de manera conjunta.
 
 b) Número de miembros inscritos en el Registro Artesanal.
 
 c) Antigüedad igual o superior a un año de los integrantes afiliados a la respectiva organización.
 
-d) Antigüedad de la organización de pescadores artesanales legalmente constituida, considerándose para estos efectos los antecedentes históricos relativos al funcionamiento pesquero artesanal de la misma, incluidos los anteriores a la fecha de su constitución legal.
+d) Antigüedad de la organización de la pesca artesanal legalmente constituida, considerándose para estos efectos los antecedentes históricos relativos al funcionamiento pesquero artesanal de la misma, incluidos los anteriores a la fecha de su constitución legal.
 
-e) Número de miembros inscritos en el Registro Artesanal, que tengan declarada como caleta base el espacio solicitado, con una antigüedad de a lo menos un año.
+e) Número de personas inscritas en el Registro Artesanal, que tengan declarada como caleta base el espacio solicitado, con una antigüedad de a lo menos un año.
 
-El reglamento determinará la ponderación, los factores y forma de cálculo para el puntaje asociado a cada uno de los criterios antes señalados, como los demás aspectos necesarios para el adecuado funcionamiento del procedimiento de asignación respectivo.
+f) Organizaciones de la pesca artesanal que cuenten con el Plan de igualdad y no discriminación contemplado en la letra g) del artículo 6.
+
+g) Organizaciones de la pesca artesanal que cuenten con paridad en sus correspondientes directivas. En el caso de las organizaciones compuestas sólo por mujeres que realicen actividades conexas o pesca artesanal no se exigirá este criterio.
+
+h) Organizaciones de la pesca artesanal que cuenten con beneficios para madres trabajadoras y para mujeres que desarrollen labores de cuidado que propendan a una mayor participación de mujeres en sus correspondientes directivas y toma de decisiones.
+
+El reglamento determinará la ponderación, los factores y forma de cálculo para el puntaje asociado a cada uno de los criterios antes señalados, y deberá considerar el enfoque de género, así como los demás aspectos necesarios para el adecuado funcionamiento del procedimiento de asignación respectivo.
 
 #### Artículo 10
 
 Una vez concluidos los trámites a que aluden los artículos anteriores, una Comisión deberá aprobar o rechazar el Plan de Administración en el plazo que determine el reglamento. La aprobación o rechazo será sancionada mediante resolución del Servicio.
 
-Esta Comisión estará integrada por el Director Regional de Pesca y Acuicultura, quien la presidirá; el Director Zonal de Pesca; un representante de la Secretaría Regional Ministerial de Economía, Fomento y Turismo, y un representante de la Dirección de Obras Portuarias respectiva. Podrá integrar esta Comisión, con derecho a voz, el Capitán de Puerto respectivo o a quien éste designe.
+Esta Comisión estará integrada de la siguiente manera:
+
+a) Por la Directora o el Director Regional de Pesca y Acuicultura, quien la presidirá. La Directora o el Director podrá designar a un representante.
+
+b) Por la Directora o el Director Zonal correspondiente, o quien designe para su representación.
+
+c) Una o un representante de la Secretaría Regional Ministerial de Economía, Fomento y Turismo.
+
+d) Una o un representante de la Dirección de Obras Portuarias respectiva.
+
+e) Una o un representante del Ministerio de la Mujer y la Equidad de Género.
+
+Los integrantes señalados en las letras precedentes tendrán derecho a voz y voto.
+
+Podrá integrar esta Comisión, con derecho a voz, la Capitana o el Capitán de Puerto respectivos o quien ésta o éste designe.
+
+La participación en la Comisión será ad honorem.
 
 La Comisión aprobará el plan con el voto favorable de la mayoría de sus miembros y, en caso de empate, resolverá su presidente.
 
@@ -134,9 +164,9 @@ El convenio de uso no podrá exceder la duración de la destinación marítima a
 
 #### Artículo 12
 
-Para efectos de garantizar el efectivo cumplimiento del Plan de Administración, las organizaciones de pescadores artesanales asignatarias deberán remitir al Servicio un informe de seguimiento del plan antes señalado.
+Para efectos de garantizar el efectivo cumplimiento del Plan de Administración, las organizaciones de la pesca artesanal asignatarias deberán remitir al Servicio un informe de seguimiento del plan antes señalado.
 
-Asimismo, anualmente las organizaciones asignatarias deberán dar cuenta a sus miembros de la gestión y administración de la caleta durante el período. Esta cuenta será pública y deberá ser sancionada por los miembros.
+Asimismo, anualmente las organizaciones asignatarias deberán dar cuenta a sus miembros de la gestión y administración de la caleta durante el período. Esta cuenta será pública y deberá ser sancionada por los miembros. Sin perjuicio de lo señalado precedentemente, los informes y la cuenta establecidos en este artículo deberán indicar los avances, los niveles de cumplimiento y de ejecución del plan de igualdad y no discriminación señalado en la letra g) del artículo 6.
 
 El reglamento establecerá la periodicidad, publicidad y contenido de los informes y de la cuenta.
 
@@ -150,19 +180,21 @@ Corresponderá asimismo a la Comisión Intersectorial velar por el cumplimiento 
 
 Los derechos emanados del convenio de uso suscrito entre el Servicio y la o las organizaciones asignatarias no podrán enajenarse ni cederse. Igualmente, no podrán constituirse a su respecto otros derechos en beneficio de terceros. No obstante lo anterior, podrán ser objeto de arrendamiento o comodato de una superficie que no exceda del 40 por ciento del total asignado, por un plazo no superior al del convenio o al que reste para su término o renovación, siempre que no corresponda a los espacios en los que haya infraestructura portuaria fiscal o se desarrollen actividades propias de la pesca artesanal.
 
-Para efectos de celebrar contrato de arriendo o comodato, la o las organizaciones deberán solicitar a la Comisión a que se refiere el artículo 10, la aprobación del contrato respectivo en el marco del Plan de Administración presentado. A dicho efecto deberá acompañarse acta de la asamblea de la o las organizaciones de pescadores artesanales asignatarias, en que conste que ha sido aprobado por la mayoría absoluta de los miembros de las mismas. En caso contrario se entenderá que existe incumplimiento grave de las obligaciones derivadas del Plan de Administración.
+Asimismo, la o las organizaciones asignatarias podrán suscribir convenios a título gratuito con sindicatos u organizaciones que desarrollen actividades conexas a la pesca artesanal, que cuenten con participación activa de mujeres en su dirección y desarrollo, y garanticen un espacio adecuado para el desarrollo de sus actividades productivas.
+
+Para efectos de celebrar contrato de arriendo o comodato, la o las organizaciones deberán solicitar a la Comisión a que se refiere el artículo 10, la aprobación del contrato respectivo en el marco del Plan de Administración presentado. A dicho efecto deberá acompañarse acta de la asamblea de la o las organizaciones de la pesca artesanal asignatarias, en que conste que ha sido aprobado por la mayoría absoluta de los miembros de las mismas. En caso contrario se entenderá que existe incumplimiento grave de las obligaciones derivadas del Plan de Administración.
 
 #### Artículo 15
 
-La o las organizaciones de pescadores artesanales asignatarias serán consideradas propietarias en caso que la normativa lo requiera, para el solo efecto de acceder a toda clase de autorizaciones y permisos que establezcan las leyes, así como a instrumentos de fomento productivo, beneficios de saneamiento sanitario, subsidios de agua potable, electricidad y otros, siempre que den cumplimiento a los requisitos correspondientes.
+La o las organizaciones de la pesca artesanal asignatarias serán consideradas propietarias en caso que la normativa lo requiera, para el solo efecto de acceder a toda clase de autorizaciones y permisos que establezcan las leyes, así como a instrumentos de fomento productivo, beneficios de saneamiento sanitario, subsidios de agua potable, electricidad y otros, siempre que den cumplimiento a los requisitos correspondientes.
 
 #### Artículo 16
 
-Son obligaciones de la o las organizaciones de pescadores artesanales asignatarias de la caleta, las siguientes:
+Son obligaciones de la o las organizaciones de la pesca artesanal asignatarias de la caleta, las siguientes:
 
-a) Velar por el cumplimiento de las disposiciones de esta ley y de su reglamento, así como del Plan de Administración de conformidad al respectivo convenio de uso.
+a) Velar por el cumplimento de las disposiciones de esta ley y de su reglamento, así como del Plan de Administración de conformidad al respectivo convenio de uso, con especial énfasis en lo que disponga el correspondiente Plan de igualdad y no discriminación contemplado en la letra g) del artículo 6.
 
-b) Garantizar las condiciones de acceso igualitario de los usuarios a los servicios otorgados al interior de la caleta, sean o no miembros de la o las organizaciones asignatarias.
+b) Garantizar las condiciones de acceso igualitario de las usuarias y de los usuarios a los servicios otorgados al interior de la caleta, sean o no miembros de la o las organizaciones asignatarias.
 
 c) Fijar tarifas públicas en condiciones no discriminatorias por los bienes y servicios que presten.
 
@@ -170,19 +202,25 @@ d) Velar porque sus integrantes den cabal cumplimiento a la normativa pesquera y
 
 e) Permitir el libre acceso del personal de los órganos de la Administración del Estado que ejerzan labores de control y fiscalización. Para estos efectos se les deberá proporcionar un espacio adecuado para la realización de sus labores y velar por su seguridad personal.
 
+Las obligaciones consignadas en el inciso anterior se aplicarán con especial énfasis en la protección y resguardo de las trabajadoras de la pesca artesanal y actividades conexas, que desarrollen sus labores al interior de la caleta.
+
 #### Artículo 17
 
 Procederá el término anticipado del convenio de uso en los siguientes casos:
 
-a) Por renuncia total de las organizaciones de pescadores artesanales asignatarias.
+a) Por renuncia total de las organizaciones de la pesca artesanal asignatarias.
 
-b) Por cancelación o extinción de la personalidad jurídica de la o las organizaciones de pescadores artesanales titulares del área. Con todo, no se aplicará la presente causal en el evento que los miembros de una organización asignataria decidan constituir una nueva persona jurídica para efectos de sustituir a la asignataria original, debiendo para ello contar con, a lo menos, el 90 por ciento de los miembros de aquella que se sustituye. En caso de materializarse la referida sustitución, ésta deberá ser previamente aprobada por el Servicio mediante resolución, procediendo en virtud de ella las modificaciones respectivas al convenio de uso.
+b) Por cancelación o extinción de la personalidad jurídica de la o las organizaciones de la pesca artesanal titulares del área. Con todo, no se aplicará la presente causal en el evento que los miembros de una organización asignataria decidan constituir una nueva persona jurídica para efectos de sustituir a la asignataria original, debiendo para ello contar con, a lo menos, el 90 por ciento de los miembros de aquella que se sustituye. En caso de materializarse la referida sustitución, ésta deberá ser previamente aprobada por el Servicio mediante resolución, procediendo en virtud de ella las modificaciones respectivas al convenio de uso.
 
 c) Por incumplimiento grave y reiterado de las obligaciones derivadas del Plan de Administración. Para estos efectos, se considerará que existe incumplimiento grave en todos aquellos casos en que se vulneren las obligaciones establecidas en el artículo anterior.
 
+Si existe un incumplimiento del plan de igualdad y no discriminación contemplado en la letra g) del artículo 6 e informada de esto la comisión intersectorial referida en el artículo 10, ésta se reunirá de manera extraordinaria en un plazo no superior a diez días hábiles y aplicará el procedimiento determinado en el reglamento. Si la comisión intersectorial constata que los hechos informados configuran alguna de las conductas contempladas como graves en el protocolo, se entenderá como incumplimiento grave y dará lugar a la sanción establecida en este artículo.
+
 d) No cumplir con la entrega de los informes de seguimiento o la realización de la respectiva cuenta pública por un período de dos años consecutivos.
 
-En los casos señalados en los literales anteriores, el Servicio, a recomendación de la Comisión, procederá a resolver la procedencia del término anticipado, previa audiencia de la organización asignataria de conformidad con lo dispuesto en la ley N° 19.880. Las organizaciones de pescadores artesanales tendrán el plazo de un mes contado desde la notificación para presentar un recurso de reclamación ante el Ministerio de Economía, Fomento y Turismo.
+e) Por incumplimiento grave a la normativa pesquera o a las medidas de administración, conservación y fiscalización.
+
+En los casos señalados en los literales anteriores, el Servicio, a recomendación de la Comisión, procederá a resolver la procedencia del término anticipado, previa audiencia de la organización asignataria de conformidad con lo dispuesto en la ley N° 19.880. Las organizaciones de la pesca artesanal tendrán el plazo de un mes contado desde la notificación para presentar un recurso de reclamación ante el Ministerio de Economía, Fomento y Turismo.
 
 Tratándose de infracciones a las letras b) y c) del artículo anterior, el Servicio podrá disponer el reemplazo de los administradores, bajo apercibimiento de ponerse término al convenio de uso conforme al procedimiento indicado en el inciso anterior.
 
@@ -252,7 +290,7 @@ Decláranse de utilidad pública los terrenos privados en los que se sitúen cal
 
 #### Artículo 30
 
-Respecto de los bienes nacionales de uso público colindantes con las caletas objeto de destinación marítima al Servicio y que se encuentren bajo la administración del Ministerio de Bienes Nacionales, en que puedan situarse obras y/o estructuras necesarias para el desarrollo armónico de las actividades de la citada caleta, el Presidente de la República podrá desafectar dichos espacios y transferirlos gratuitamente al Ministerio de Bienes Nacionales, a los Servicios de Vivienda y Urbanización, o al Ministerio de Obras Públicas, según corresponda, con el objeto de que en ellos se desarrollen las obras y/o infraestructura antes señaladas. Igualmente, dichos terrenos podrán entregarse en destinación al Servicio con el fin de que sean asignados a la o las organizaciones de pescadores artesanales, todo ello de conformidad con el procedimiento establecido en los artículos anteriores.
+Respecto de los bienes nacionales de uso público colindantes con las caletas objeto de destinación marítima al Servicio y que se encuentren bajo la administración del Ministerio de Bienes Nacionales, en que puedan situarse obras y/o estructuras necesarias para el desarrollo armónico de las actividades de la citada caleta, el Presidente de la República podrá desafectar dichos espacios y transferirlos gratuitamente al Ministerio de Bienes Nacionales, a los Servicios de Vivienda y Urbanización, o al Ministerio de Obras Públicas, según corresponda, con el objeto de que en ellos se desarrollen las obras y/o infraestructura antes señaladas. Igualmente, dichos terrenos podrán entregarse en destinación al Servicio con el fin de que sean asignados a la o las organizaciones de la pesca artesanal, todo ello de conformidad con el procedimiento establecido en los artículos anteriores.
 
 #### Artículo 31
 
