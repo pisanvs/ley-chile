@@ -52,7 +52,7 @@ La presente norma de emisión se aplicará en todo el territorio nacional.
 
 Para efectos de lo dispuesto en la presente norma, se entenderá por:
 
-a) Maquinaria móvil: maquinaria no destinada al transporte de pasajeros o mercancías por carretera, apta para desplazarse sobre el suelo, con o sin carrocería, y que funciona en base a motores de combustión interna, de encendido por compresión, con una potencia neta instalada, igual o superior a 19 kW e inferior o igual a 560 kW. Se excluyen los motores destinados a la propulsión de automotores, locomotoras u otros elementos y equipos ferroviarios que se desplacen sobre rieles, barcos, aeronaves y vehículos de recreación.
+a) Maquinaria móvil: maquinaria no destinada al transporte de pasajeros o mercancías por carretera, apta para desplazarse sobre el suelo, con o sin carrocería, y que funciona en base a motores de combustión interna, de encendido por compresión, con una potencia neta instalada, igual o superior a 19 kW e inferior o igual a 560 kW. Se excluyen los motores destinados a la propulsión de automotores, locomotoras u otros elementos y equipos ferroviarios que se desplacen sobre rieles, barcos, aeronaves; vehículos de recreación y maquinaria agrícola distinta a tractores.
 
 b) Tipo o familia de motor: agrupación de tipos de motores realizada por el fabricante que, por su diseño, tienen características similares de emisiones de escape y cumplen los valores límite de emisiones aplicables.
 
@@ -62,7 +62,7 @@ LÍMITES DE EMISIÓN PARA MAQUINARIA MÓVIL
 
 #### Artículo 3°
 
-La maquinaria móvil, cuya importación se realiza a contar de 24 meses desde la entrada en vigencia del presente decreto, deberá cumplir los niveles de emisión señalados en la Tabla 1 o Tabla 2. En el caso de los tractores, se aplicará a aquellos cuya importación se realiza a contar de 36 meses desde la entrada en vigencia del presente decreto.
+La maquinaria móvil, cuya importación se realiza a contar de 24 meses desde la entrada en vigencia del presente decreto, deberá cumplir los niveles de emisión señalados en la Tabla 1 o Tabla 2. En el caso de tractores, se aplicará a aquellos cuya importación se realice a contar del 1 de enero de 2030.
 
 Tabla 1: Límites máximos de emisión provenientes del sistema de escape en gramos por kilowatt hora (g/kWh) y en gramos por caballos de fuerza al freno hora (g/bhp-h).
 
