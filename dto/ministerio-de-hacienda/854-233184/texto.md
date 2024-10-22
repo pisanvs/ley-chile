@@ -1558,6 +1558,18 @@ a la normativa
 
 vigente.
 
+08 A Instituciones
+
+Privadas Ejecutoras
+
+de Políticas Públicas
+
+09 A Unidades o
+
+Programas
+
+del Servicio
+
 25 INTEGROS AL FISCO
 
 01 Impuestos
@@ -5283,6 +5295,54 @@ efectuar a organismos e instituciones
 internacionales en los que se participe
 
 en condiciones de afiliado.
+
+08 A INSTITUCIONES PRIVADAS EJECUTORAS
+
+DE POLÍTICAS PÚBLICAS
+
+Son los gastos por concepto de
+
+transferencias realizadas a
+
+instituciones del sector privado,
+
+a las que se les haya asignado recursos
+
+para el cumplimiento de una función
+
+propia de la entidad respectiva,
+
+de acuerdo a las condiciones
+
+fijadas en los convenios que
+
+se suscriban al efecto.
+
+09 A UNIDADES O PROGRAMAS DEL SERVICIO
+
+Son los gastos por concepto de
+
+transferencias consistentes en
+
+asignaciones globales a unidades
+
+del propio Servicio, o a programas
+
+ejecutados total o parcialmente
+
+por éste. Deben ser desglosadas
+
+en los distintos conceptos de gasto,
+
+en forma previa a su ejecución
+
+presupuestaria, de acuerdo
+
+con lo que disponga anualmente
+
+la ley de presupuestos del
+
+Sector Público.
 
 25 INTEGROS AL FISCO
 
