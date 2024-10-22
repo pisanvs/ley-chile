@@ -18,165 +18,21 @@ Autorízase la circulación en horario inhábil y en días sábado en la tarde, 
 
 A. Región de Antofagasta:
 
-1.- Fiscalía Regional de Antofagasta:
+1.- Derogado.
 
-Vehículo : Automóvil
+2.- Derogado.
 
-Marca : Mazda
+3.- Derogado.
 
-Modelo : All New Mazda 6 SDN V 2.5L CA
+4.- Derogado.
 
-Año : 2020
+5.- Derogado.
 
-Motor : PY21398579
+6.- Derogado.
 
-Chasis : JM7GL4S36L1408673
+7.- Derogado.
 
-Color : Gris metálico
-
-I.N.R.V.M. : LVLT.92-2
-
-Placa Única : LVLT.92.
-
-2.- Unidad Regional de Atención a Víctimas y Testigos de Antofagasta
-
-Vehículo : Station Wagon
-
-Marca : Kia Motors
-
-Modelo : Sorento EX 2.4 AUT
-
-Año : 2020
-
-Motor : G4KEJH621260
-
-Chasis : KNAPH812BK5533344
-
-Color : Gris platinado
-
-I.N.R.V.M. : LVLT.17-5
-
-Placa Única : LVLT.17.
-
-3.- Fiscalía Local de Antofagasta
-
-Vehículo : Camioneta
-
-Marca : Mitsubishi
-
-Modelo : L200 Katana CR 2.4
-
-Año : 2020
-
-Motor : 4N15UGB5249
-
-Chasis : MMBJJKK10LH003420
-
-Color : Rojo
-
-I.N.R.V.M. : LVLS.83-7
-
-Placa Única : LVLS.83.
-
-4.- Fiscalía Local de Calama
-
-Vehículo : Camioneta
-
-Marca : Mitsubishi
-
-Modelo : L200 Katana CR 2.4
-
-Año : 2020
-
-Motor : 4N15UGA0919
-
-Chasis : MMBJJKK10KH049246
-
-Color : Rojo
-
-I.N.R.V.M. : LVLS.47-0
-
-Placa Única : LVLS.47.
-
-5.- Unidad de Atención a Víctimas y Testigos de Calama
-
-Vehículo : Camioneta
-
-Marca : Mitsubishi
-
-Modelo : L200 Katana CR 2.4
-
-Año : 2020
-
-Motor : 4N15UGB5219
-
-Chasis : MMBJJKK10LH003413
-
-Color : Rojo
-
-I.N.R.V.M. : LVLT.45-0
-
-Placa Única : LVLT.45.
-
-6.- Fiscalía Local de Tocopilla
-
-Vehículo : Camioneta
-
-Marca : Mitsubishi
-
-Modelo : L200 Katana CR 2.4
-
-Año : 2020
-
-Motor : 4N15UGB5333
-
-Chasis : MMBJJKK10LH003441
-
-Color : Rojo
-
-I.N.R.V.M. : LVLS.81-0
-
-Placa Única : LVLS.81.
-
-7.- Fiscalía Local de Taltal
-
-Vehículo : Camioneta
-
-Marca : Mitsubishi
-
-Modelo : L200 Katana CR 2.4
-
-Año : 2020
-
-Motor : 4N15UGB5936
-
-Chasis : MMBJJKK10LH003433
-
-Color : Rojo
-
-I.N.R.V.M. : LVLS.80-2
-
-Placa Única : LVLS.80.
-
-8.- Fiscalía Local de Mejillones
-
-Vehículo : Camioneta
-
-Marca : Mitsubishi
-
-Modelo : L200 Katana CR 2.4
-
-Año : 2020
-
-Motor : 4N15UGB5203
-
-Chasis : MMBJJKK10LH003402
-
-Color : Rojo
-
-I.N.R.V.M. : LVLS.84-5
-
-Placa Única : LVLS.84.
+8.- Derogado.
 
 B. Región de Atacama:
 
