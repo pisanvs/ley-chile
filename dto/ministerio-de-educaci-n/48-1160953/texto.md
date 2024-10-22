@@ -188,8 +188,6 @@ Contar con información recogida a través de marcos internacionales favorece la
 
 A continuación, se señalan los estudios en los que participará Chile durante el periodo 2021-2026:
 
-. PIRLS: Estudio Internacional del Progreso en Competencia Lectora.
-
 . TIMSS: Estudio Internacional de Tendencias en Matemática y Ciencias.
 
 . ICILS: Estudio Internacional de Alfabetización Computacional y Manejo de Información.
@@ -198,7 +196,11 @@ A continuación, se señalan los estudios en los que participará Chile durante 
 
 . OCDE: Estudio de Competencias Socioemocionales.
 
-Cada uno de estos estudios tiene un ciclo de aplicación: PIRLS, 5 años; TIMSS, 4 años; ICILS, 5 años ; PISA, 3 años y OCDE, 4 años. Cada uno requiere de una aplicación experimental y una aplicación definitiva, las que son presentadas en la siguiente tabla:
+. ERCE: Estudio Regional Comparativo y Explicativo.
+
+. ICCS: Estudio internacional sobre Educación Cívica y Ciudadana.
+
+Cada uno de estos estudios tiene un ciclo de aplicación: TIMSS, 4 años; ICILS, 5 años ; PISA, 4 años; OCDE, 4 años; ERCE, el año 2025 e ICCS el año 2027. Cada uno requiere de una aplicación experimental y una aplicación definitiva, las que son presentadas en la siguiente tabla:
 
 Tabla 3. Plan de estudios internacionales 2021-2030ª
 
@@ -212,7 +214,13 @@ a El calendario es de diez años dada la extensión de los ciclos establecidos p
 
 b Módulos opcionales.
 
-### VI. DESAGREGACIONES Y MODOS DE INFORMAR LOS RESULTADOS
+### VI. PRUEBA EXPLORATORIA DE PRECURSORES DE LA LECTURA
+
+Se contempla la realización de una medición estandarizada de lectura para 2º básico, de carácter censal y no obligatoria, de modo de reportar los logros en habilidades precursoras de la lectura y niveles de desarrollo de la capacidad lectora en este curso, sin consecuencias para los establecimientos y, por tanto, sin incidencia en la ordenación. La prueba se pondrá a disposición de todos los establecimientos que impartan el nivel y los resultados serán entregados por curso y para exclusivo uso pedagógico al interior de los establecimientos educacionales.
+
+Para estos efectos, durante el año 2024 se desarrollará un estudio exploratorio para testear las preguntas, diseño y modalidad de aplicación, contando con una aplicación experimental el 2025 que permita tener información para ajustar el instrumento. Para el 2026, se escala esta evaluación a una de carácter censal. Se contempla que este instrumento sea adecuado a la edad, conforme a su formato, extensión y modalidad de aplicación.
+
+### VII. DESAGREGACIONES Y MODOS DE INFORMAR LOS RESULTADOS
 
 1. Desagregaciones
 
