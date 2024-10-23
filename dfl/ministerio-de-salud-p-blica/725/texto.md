@@ -1816,6 +1816,8 @@ Sin embargo, el Director General de Salud podrá autorizar la inhumación tempor
 
 Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
 
+Los establecimientos señalados en el inciso precedente deberán disponer en sus reglamentos internos un horario de funcionamiento extraordinario para atender las ceremonias y las romerías nocturnas de integrantes de los Cuerpos de Bomberos de Chile o de otras instituciones que así lo requieran, previa autorización de la autoridad sanitaria.
+
 #### Artículo 137°
 
 <!-- parte:8655905 -->
