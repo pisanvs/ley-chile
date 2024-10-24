@@ -1906,17 +1906,11 @@ De lo obrado se levantará acta en la que se hará constar el allanamiento, la m
 
 #### Artículo 186
 
-Si el citado no concurriere a la referida audiencia o en ella rechazare la existencia de la infracción o su responsabilidad en la misma, se resolverá discrecionalmente si se aplicará la multa, con el mérito de los antecedentes que existan. En caso de aplicarse la multa, no podrá imponerse un monto inferior al 10% de la máxima legal.
+Si el citado no concurriere a la referida audiencia o en ella rechazare la existencia de la infracción o su responsabilidad en la misma, se resolverá discrecionalmente si se aplicará la multa, con el mérito de los antecedentes que existan. En caso de aplicarse la multa, no podrá imponerse un monto inferior al 20% de la máxima legal.
 
 En el acta se dejará constancia de la falta de comparecencia o, en su caso, del rechazo formulado por la persona citada, de lo resuelto, de los hechos fundantes de tal decisión, y de la circunstancia de haberse informado al infractor que haya concurrido sobre su derecho a reclamar de la multa de conformidad a los incisos siguientes.
 
-El afectado por la multa que se hubiere aplicado podrá reclamar, fundadamente, dentro de los quince días hábiles siguientes a la fecha de realización de la audiencia respectiva, ante el Tribunal Tributario y
-
-Aduanero, el que conocerá de acuerdo
-
-al procedimiento contenido en el
-
-artículo siguiente.
+El afectado por la multa que se hubiere aplicado podrá reclamar, fundadamente, dentro de los quince días hábiles siguientes a la fecha de realización de la audiencia respectiva, ante el Tribunal Tributario y Aduanero, el que conocerá de acuerdo al procedimiento contenido en el artículo siguiente. Si se hubiere reclamado de la clasificación u origen de conformidad con el procedimiento de reclamación general no podrá discutirse nuevamente acerca de lo resuelto.
 
 Transcurrido el plazo a que se refiere el inciso anterior sin que se reclame, se procederá a emitir el giro comprobante de pago correspondiente.
 
