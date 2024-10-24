@@ -106,13 +106,23 @@ Regreso (Llegada): Autopista Central (Vía Expresa Ruta 5 Sur) - Autopista Centr
 
 Ida (Salida): Tucapel Jiménez - Moneda - Av. Manuel Rodríguez Calzada Oriente - Ingreso Altura Rosas Autopista Central (Vía Expresa Ruta 5 Norte) - Autopista Central (Vía Expresa Ruta 5 Norte).
 
-Regreso (Llegada): Autopista Central (Vía Expresa Ruta 5 Norte) - Salida 1N Alameda Autopista Central (Vía Expresa Ruta 5 Norte) - Av. Manuel Rodríguez Calzada Poniente - Sazié - Padre Miguel de Olivares - Dieciocho - Tucapel Jiménez.
+Regreso (Llegada): Autopista Central (vía expresa) - Autopista Central (vía expresa salida Agustinas 1N) - Av. Manuel Rodríguez - Av. Libertador Bernardo O'Higgins (calzada norte) - Av. Ejército Libertador - Av. Libertador Bernardo O'Higgins (calzada sur) -Tucapel Jiménez.
 
 – Servicio al Sur (Autopista Central):
 
 Ida (Salida): Tucapel Jiménez - Moneda - Av. Manuel Rodríguez Calzada Poniente - Ingreso Altura Alameda Autopista Central (Vía Expresa Ruta 5 Sur) - Autopista Central (Vía Expresa Ruta 5 Sur).
 
 Regreso (Llegada): Autopista Central (Vía Expresa Ruta 5 Sur) - Salida 2S Av. Matta Autopista Central (Vía Expresa Ruta 5 Sur) - Av. Viel - Av. Manuel Rodríguez Calzada Oriente - Copiapó - Dieciocho - Tucapel Jiménez.
+
+5) Parada auxiliar para transporte interurbano de Av. Concha y Toro N° 1820, comuna de Puente Alto
+
+Salida (Ida):
+
+Av. Concha y Toro N°1820 - Av. Concha y Toro - Domingo Tocornal - Acceso Sur
+
+Llegada (Regreso):
+
+Acceso Sur - Av. Gabriela - Av. Concha y Toro - Av. Concha y Toro N°1820.
 
 2°.- Derógase la resolución exenta N° 82, de 22 de marzo de 2001, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
 
