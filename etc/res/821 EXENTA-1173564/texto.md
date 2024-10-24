@@ -42,6 +42,8 @@ c) Vehículos destinados o autorizados exclusivamente por el municipio para real
 
 d) Camiones tipo aljibe.
 
+e) Vehículos de responsabilidad de residentes.
+
 3.- La Dirección Regional de Vialidad del Ministerio de Obras Públicas dispondrá de las señalizaciones informativas y de tránsito respectivas.
 
 4.- La presente medida será monitoreada en forma periódica para evaluar, en conjunto con la antes referida Dirección Regional y el municipio respectivo, su continuidad y/o mejora.
