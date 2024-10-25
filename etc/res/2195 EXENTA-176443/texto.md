@@ -96,6 +96,14 @@ C.3.- Síntomas de intoxicación, primeros auxilios, antídotos (cuando existan)
 
 C.4.- Advertencias sobre protección del medio ambiente y peligrosidad a organismos acuáticos y peces, aves y abejas, cuando corresponda.
 
+Para plaguicidas clasificados como moderadamente tóxico o muy tóxico para abejas, se deberá usar el siguiente pictograma.
+
+Todo plaguicida deberá indicar su clasificación ecotoxicológica para abejas en la etiqueta, agregando las frases: "Muy Tóxico para Abejas", "Moderadamente Tóxico para Abejas", "Ligeramente Tóxico para Abejas", o, "Virtualmente No Tóxicos para Abejas", según corresponda.
+
+C.4.1.- Debe dar aviso a los apicultores que se encuentren dentro del área de aplicación y zona de influencia al menos 48 horas antes de la fecha y hora de la aplicación.
+
+C.4.2.- Aplicar en horarios de baja actividad de las abejas, como temprano en la mañana o al atardecer.
+
 C.5.- Leyendas de advertencia en forma destacada:
 
 C.5.1.- ''MANTENER FUERA DEL ALCANCE DE LOS NIÑOS Y DE PERSONAS INEXPERTAS'',
