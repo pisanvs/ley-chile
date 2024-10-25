@@ -60,27 +60,7 @@ De los Derechos Relacionados por Ejercicio Transitorio de Actividades Lucrativas
 
 #### Artículo 6
 
-El otorgamiento de permisos para el ejercicio transitorio de actividades lucrativas, pagarán los siguientes derechos:
-
-a) Comerciantes ambulantes a domicilio:
-
-Diario 50% UTM.
-
-b) Actividades comerciales ejercidas en la vía pública y excepcionalmente las ejercidas en casas particulares hasta regularizar Patente Comercial respectiva:
-
-Mensual 1 UTM.
-
-c) Fondas, Ramadas y Cocinerías para Fiestas Patrias con ventas de bebidas alcohólicas:
-
-Diario 1 UTM.
-
-d) Beneficios bailables, torneos y otros sin venta de bebidas alcohólicas:
-
-Diario 50% UTM.
-
-e) Beneficios bailables, y otros sin venta de bebidas alcohólicas:
-
-Diario 35% UTM.
+El otorgamiento de permisos para el ejercicio transitorio de actividades lucrativas, pagarán los siguientes derechos municipales:
 
 ## Título V
 
