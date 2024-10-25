@@ -950,6 +950,22 @@ social o accionaria, administración,
 
 gestión o representación.
 
+Con todo, no se considerarán
+
+relacionados los contratistas que,
+
+sin tener previamente una de las
+
+vinculaciones señaladas,
+
+conformen un consorcio en los
+
+términos previstos en el
+
+#### Artículo 11
+
+de este reglamento.
+
 ## Título II
 
 Del Registro General de Contratistas
@@ -2866,7 +2882,7 @@ Lo precedentemente dispuesto no procederá, de haberse reclamado la factura por 
 
 #### Artículo 157
 
-Se podrá incluir en las bases administrativas una cláusula mediante la cual se autorice la concesión de anticipo a cuenta del precio de la obra y se establezca el sistema de su devolución. El anticipo no podrá ser de un monto superior al 50 % del valor del contrato primitivo y se otorgará siempre que el contratista lo caucione con boleta bancaria, o una póliza de seguro cuando las bases administrativas lo autoricen, por un valor equivalente expresado en unidades de fomento, cuyo plazo de vigencia será el del contrato, más seis meses. Dicha garantía podrá reducirse a solicitud del contratista hasta el monto pendiente de amortizar, debiendo serle reintegrada una vez devuelta en su totalidad la suma anticipada. Este anticipo se deberá devolver reajustado de acuerdo con el sistema de reajuste del contrato, considerando para este efecto el mes anterior a su devolución, salvo que las bases administrativas fijen uno distinto.
+Se podrá incluir en las bases administrativas una cláusula mediante la cual se autorice la concesión de anticipo a cuenta del precio de la obra y se establezca el sistema de su devolución. El anticipo no podrá ser de un monto superior al 50% del valor del contrato primitivo, descontados los valores proforma y se otorgará siempre que el contratista lo caucione con boleta bancaria, o una póliza de seguro cuando las bases administrativas lo autoricen, por un valor equivalente expresado en unidades de fomento, cuyo plazo de vigencia será el del contrato, más seis meses. Dicha garantía podrá reducirse a solicitud del contratista hasta el monto pendiente de amortizar, debiendo serle reintegrada una vez devuelta en su totalidad la suma anticipada. Este anticipo se deberá devolver reajustado de acuerdo con el sistema de reajuste del contrato, considerando para este efecto el mes anterior a su devolución, salvo que las bases administrativas fijen uno distinto.
 
 Las bases administrativas establecerán el procedimiento de devolución del anticipo. Si ellas nada expresan, éste se devolverá reajustado en cuotas iguales y sucesivas, a partir del segundo estado de pago, debiendo quedar totalmente amortizado en el penúltimo dentro del plazo contractual.
 
@@ -2877,8 +2893,6 @@ En el referido convenio se podrá establecer, a solicitud del contratista, que e
 Con todo, el segundo giro no podrá concederse si la obra presenta un avance igual o superior al 50% respecto al programa oficial.
 
 El simple retardo en la devolución del anticipo quedará afecto a una multa diaria del 1º/oo, sobre la cantidad adeudada, debidamente reajustada conforme a lo establecido en el Artículo 108 de este Reglamento, quedando la autoridad facultada para hacer efectiva la garantía que lo caucione.
-
-> **Nota.** La letra c) del Nº 17 del Decreto 156, Obras Públicas, publicado el 16.04.2024, modifica el inciso primero del presente artículo en el sentido de insertar, luego de la coma antecedida de las expresiones "valor del contrato primitivo", la siguiente frase: "descontados los valores proforma". No obstante lo anterior, no se puede realizar el texto actualizado debido a que no coinciden los textos.
 
 #### Artículo 157 bis
 
@@ -3308,7 +3322,7 @@ La solicitud establecida en este artículo solo podrá ejercerse hasta el 31 de 
 
 #### Artículo 15
 
-Durante los años 2023 y 2024 las Direcciones podrán autorizar en las Bases Administrativas, la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas de Obras Públicas. Asimismo, podrán autorizar la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra. Para los efectos de lo dispuesto precedentemente, la tercera categoría del Registro de Obras Mayores se considerará una sola, sin la división entre 3° A y 3° B, contemplada en el artículo 9° del presente reglamento.
+Durante los años 2023 al 2026 las Direcciones podrán autorizar en las Bases Administrativas, la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas de Obras Públicas. Asimismo, podrán autorizar la participación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra. Para los efectos de lo dispuesto precedentemente, la tercera categoría del Registro de Obras Mayores se considerará una sola, sin la división entre 3° A y 3° B, contemplada en el artículo 9° del presente reglamento.
 
 Además, para este período, en las Bases Administrativas se podrán establecer los siguientes plazos mínimos, entre la publicación del llamado y la apertura de las propuestas, según el valor estimado de la obra:
 
@@ -3322,7 +3336,7 @@ IV.- De un costo total estimado mayor a 80.000 UTM: 35 días.
 
 #### Artículo 16
 
-Durante los años 2023 y 2024, los contratistas inscritos en la categoría A superior del Registro de Obras Menores, no estarán afectos al límite establecido en el artículo 48 del presente reglamento, ni a la restricción que esa disposición prescribe para los contratistas inscritos en el referido Registro, encontrándose habilitados para ser contratados y para participar en las licitaciones destinadas a la contratación de obras correspondientes a los registros 1.O.C., 2.O.C., 3.O.C., 4.O.C., 5.O.C., 6.O.C., 7.O.C., 10.O.C., 11.O.C., 12.O.C., 13.O.C., 14.O.C., 15.O.C. y 16.O.C., del documento "Registro de Contratistas - Categorías y Especialidades", cuyo presupuesto estimativo, excluido el IVA, no exceda de las 20.
+Durante los años 2023 al 2026, los contratistas inscritos en la categoría A superior del Registro de Obras Menores, no estarán afectos al límite establecido en el artículo 48 del presente reglamento, ni a la restricción que esa disposición prescribe para los contratistas inscritos en el referido Registro, encontrándose habilitados para ser contratados y para participar en las licitaciones destinadas a la contratación de obras correspondientes a los registros 1.O.C., 2.O.C., 3.O.C., 4.O.C., 5.O.C., 6.O.C., 7.O.C., 10.O.C., 11.O.C., 12.O.C., 13.O.C., 14.O.C., 15.O.C. y 16.O.C., del documento "Registro de Contratistas - Categorías y Especialidades", cuyo presupuesto estimativo, excluido el IVA, no exceda de las 20.
 
 - **000.-** unidades tributarias mensuales. Por su parte, tratándose de obras correspondientes a los registros 8.O.C., 9.O.C., 1.M., 2.M. y 3.M., dicho presupuesto estimativo, no podrá superar las 10.
 
