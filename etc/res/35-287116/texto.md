@@ -106,6 +106,22 @@ Tarifa de Trenes Plebiscito $0
 
 todo contrato y etapa de viaje
 
+Tarifa de Metro Elecciones $0
+
+de 26 y 27 de octubre de
+
+2024, para todo contrato y
+
+etapa de viaje.
+
+Tarifa de Trenes Elecciones $0
+
+de 26 y 27 de octubre de
+
+2024, para todo contrato y
+
+etapa de viaje.
+
 Los valores contenidos en la presente tabla serán los que sirvan de base para la aplicación del procedimiento de ajuste de tarifas, contenido en el Artículo 14 literal a) de la ley N° 20.378 y el decreto supremo N° 140, de 2009, del Ministerio de Transportes y Telecomunicaciones, y del procedimiento de determinación de nivel de tarifas establecido en el artículo 14 literal c) y artículo 15 de la ley N° 20.378.
 
 La Tarifa Metro Baja comprende el período entre las 6:00:00 y las 6:59:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La Tarifa Metro Período Punta comprende el período entre las 7:00:00 y las 8:59:59 horas y entre las 18:00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la Tarifa Metro Valle.
