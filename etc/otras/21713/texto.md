@@ -30,9 +30,13 @@ Cuando respecto de un acto o negocio jurídico se hubiere aplicado una norma esp
 
 La facultad de revisar los actos o negocios jurídicos por aplicación de los artículos 4° ter y 4° quáter y la interposición del requerimiento señalado en el artículo 4° quinquies prescribirá en el plazo de seis años, desde la expiración del plazo legal en que debió efectuarse el pago.".
 
-3. En el artículo 4 ter:
+3. En el artículo 4 ter
 
-a) Reemplázase la frase "Se entenderá que existe abuso en materia tributaria cuando se evite la realización del hecho gravado, o se disminuya la base imponible o la obligación tributaria, o se postergue o difiera el nacimiento de dicha obligación, se obtengan devoluciones, o se acceda a un beneficio tributario o régimen tributario especial, mediante actos o negocios jurídicos" por la siguiente: "Hay abuso en materia tributaria cuando se evita la realización del hecho gravado, se disminuye la base imponible o la obligación tributaria, y cuando se posterga o difiere el nacimiento de dicha obligación, mediante hechos, actos o negocios jurídicos o una serie de ellos".
+a) En su inciso primero:
+
+i. Elimínase la frase "total o parcialmente".
+
+ii. Intercálase entre la expresión "obligación," y la palabra "mediante" la frase "se obtengan devoluciones, o se acceda a un beneficio tributario o régimen tributario especial,".
 
 b) Intercálase en el inciso final, entre la expresión "en la ley" y el punto y aparte la frase "además de la multa establecida en el artículo 100 bis".
 
@@ -2218,7 +2222,7 @@ Las modificaciones incorporadas por el artículo 9 de esta ley en el decreto con
 
 Las modificaciones incorporadas por el artículo 10 de esta ley en el decreto con fuerza de ley N° 7, de 1980, que fija texto de la ley N° 20.322 que Fortalece y perfecciona la jurisdicción tributaria y aduanera, entrarán en vigencia según lo dispuesto en el artículo transitorio final.
 
-Artículo undécimo.- Establécese a partir del 1 día del mes siguiente al de la publicación de la presente ley hasta el 30 de noviembre del mismo año, el siguiente sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el extranjero:
+Artículo undécimo.- Establécese a partir del 1 día del mes siguiente al de la publicación de la presente ley hasta el 31 de diciembre del mismo año, el siguiente sistema voluntario y extraordinario de declaración de bienes o rentas que se encuentren en el extranjero:
 
 ### 1. Contribuyentes que pueden acogerse
 
@@ -2364,7 +2368,7 @@ Los documentos o declaraciones emitidas por las autoridades competentes en el ma
 
 Los contribuyentes que ingresen activos conforme al presente sistema sólo podrán hacerlo en caso de que ellos provengan de países que cuenten con normativa antilavado que aplique las Recomendaciones del GAFI y cuyas Unidades de Inteligencia Financiera pertenezcan al Grupo Egmont.
 
-Artículo duodécimo.- Los contribuyentes que a la entrada en vigencia de la presente ley mantengan gestiones judiciales pendientes por reclamos de giros o liquidaciones de tributos ante Tribunales Tributarios y Aduaneros, Cortes de Apelaciones o Corte Suprema, por una única vez entre el primer día del mes siguiente al de publicación de la presente ley y el 30 de noviembre de 2024, podrán poner término a dichas gestiones judiciales siempre que se hayan iniciado antes del 1 de enero de 2024, sobre la base que, reconociendo la deuda tributaria debidamente reajustada, se les conceda una condonación total de intereses y multas por parte del Servicio de Impuestos Internos.
+Artículo duodécimo.- Los contribuyentes que a la entrada en vigencia de la presente ley mantengan gestiones judiciales pendientes por reclamos de giros o liquidaciones de tributos ante Tribunales Tributarios y Aduaneros, Cortes de Apelaciones o Corte Suprema, por una única vez entre el primer día del mes siguiente al de publicación de la presente ley y el 31 de diciembre de 2024, podrán poner término a dichas gestiones judiciales siempre que se hayan iniciado antes del 1 de enero de 2024, sobre la base que, reconociendo la deuda tributaria debidamente reajustada, se les conceda una condonación total de intereses y multas por parte del Servicio de Impuestos Internos.
 
 Para tal efecto, los contribuyentes se sujetarán a las siguientes reglas:
 
@@ -2386,7 +2390,7 @@ Lo dispuesto en los números anteriores no será aplicable respecto de hechos en
 
 #### Artículo decimo
 
-tercero.- Desde la fecha de publicación de esta ley en el Diario Oficial y hasta el 31 de octubre de 2024, excepcionalmente el Servicio de Tesorerías deberá otorgar facilidades de hasta cuarenta y ocho meses, para el pago en cuotas periódicas, mensuales y sucesivas, de los impuestos adeudados o multas por incumplimientos administrativos, vencidos hasta el 31 de diciembre de 2023, conforme a lo establecido en el artículo 192 del Código Tributario. A la fecha de suscripción del respectivo convenio el Servicio de Tesorerías condonará la totalidad de los intereses y sanciones por la mora en el pago de los impuestos respectivos, beneficio al que también podrán acceder aquellos contribuyentes que paguen al contado. Asimismo, dichos convenios no generarán intereses y multas mientras el deudor se encuentre cumpliendo y mantenga vigente su convenio de pago. En el caso de aquellos contribuyentes que suscriban un convenio que contemple al menos un impuesto vencido entre el 31 de octubre de 2019 y el 30 de junio de 2022, no se exigirá pago mínimo inicial.
+tercero.- Desde la fecha de publicación de esta ley en el Diario Oficial y hasta noventa días desde la publicación de la ley que modifica la ley N° 21.713, en relación al concepto de abuso en materia tributaria y a la vigencia de algunas de sus disposiciones, excepcionalmente el Servicio de Tesorerías deberá otorgar facilidades de hasta cuarenta y ocho meses, para el pago en cuotas periódicas, mensuales y sucesivas, de los impuestos adeudados o multas por incumplimientos administrativos, vencidos hasta el 31 de diciembre de 2023, conforme a lo establecido en el artículo 192 del Código Tributario. A la fecha de suscripción del respectivo convenio el Servicio de Tesorerías condonará la totalidad de los intereses y sanciones por la mora en el pago de los impuestos respectivos, beneficio al que también podrán acceder aquellos contribuyentes que paguen al contado. Asimismo, dichos convenios no generarán intereses y multas mientras el deudor se encuentre cumpliendo y mantenga vigente su convenio de pago. En el caso de aquellos contribuyentes que suscriban un convenio que contemple al menos un impuesto vencido entre el 31 de octubre de 2019 y el 30 de junio de 2022, no se exigirá pago mínimo inicial.
 
 El Servicio de Tesorerías regulará, mediante instrucciones internas, las reglas generales y uniformes para la aplicación de los beneficios establecidos en este artículo, y las situaciones excepcionales en que éstas no procederán por razones fundadas.
 
@@ -2487,6 +2491,8 @@ Artículo vigesimotercero.- El Servicio de Impuestos Internos informará, a más
 El monto informado será del año precedente y se informará desagregado por número total de contribuyentes, la tasa promedio de condonación y según se trate de micro empresas, pymes y grandes empresas.
 
 Artículo vigesimocuarto.- Durante los años 2025 y 2026, el Servicio de Impuestos Internos podrá implementar programas de apoyo a la formalización de pequeños contribuyentes.
+
+Artículo vigesimoquinto.- Las modificaciones incorporadas por el artículo 16 comenzarán a regir doce meses después de la publicación de la presente ley.
 
 #### Artículo final
 
