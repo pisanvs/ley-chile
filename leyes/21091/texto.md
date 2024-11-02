@@ -656,7 +656,7 @@ c) Negarse a efectuar o entorpecer la auditoría externa de sus estados financie
 
 d) Modificar arbitrariamente los términos, condiciones y modalidades conforme a las cuales la institución de educación superior hubiere convenido con el estudiante la prestación de los servicios educativos o en forma tal que implique una prolongación de éstos.
 
-e) Condicionar la rendición de exámenes u otras evaluaciones o el otorgamiento de títulos, diplomas o certificaciones a exigencias pecuniarias, distintas al pago de aranceles previamente establecidos por la institución de educación superior en su reglamentación e informados a los estudiantes al momento de suscribir el contrato respectivo.
+e) Condicionar la rendición de exámenes de grado o de titulación, o el otorgamiento de títulos, diplomas y certificaciones a exigencias pecuniarias por deudas de arancel, aun cuando estén establecidas por la institución de educación superior en su reglamentación e informadas a los estudiantes al momento de suscribir el contrato respectivo.
 
 f) Incurrir en cualquier otra infracción que sea expresamente calificada como tal por la ley.
 
