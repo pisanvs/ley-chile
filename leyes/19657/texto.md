@@ -34,7 +34,11 @@ El ámbito de aplicación de esta ley abarcará el territorio continental, insul
 
 #### Artículo 3º
 
-Se entenderá por energía geotérmica aquella que se obtenga del calor natural de la tierra, que puede ser extraída del vapor, agua, gases, excluidos los hidrocarburos, o a través de fluidos inyectados artificialmente para este fin.
+Se entenderá por energía geotérmica aquella que se obtenga del calor natural de la tierra, que puede ser extraída del vapor, agua, fluidos geotérmicos, gases, excluidos los hidrocarburos, o a través de fluidos inyectados artificialmente para este fin.
+
+Se entenderá por aprovechamiento somero de energía geotérmica a aquel destinado a utilizar el calor natural de la tierra en cualquiera de sus manifestaciones y que se encuentre entre la superficie del suelo y los 400 metros de profundidad, con una temperatura promedio del recurso geotérmico de hasta un máximo de 90 grados celsius.
+
+El uso directo de la energía geotérmica es aquel que hace una utilización final de la energía térmica contenida en el recurso geotérmico, sin una transformación a energía eléctrica.
 
 #### Artículo 4º
 
@@ -56,15 +60,15 @@ La concesión de energía geotérmica puede ser de exploración o de explotació
 
 La exploración consiste en el conjunto de operaciones que tienen el objetivo de determinar la potencialidad de la energía geotérmica, considerando entre ellas la perforación y medición de pozos de gradiente y los pozos exploratorios profundos. En consecuencia, la concesión de exploración confiere el derecho a realizar los estudios, mediciones y demás investigaciones tendientes a determinar la existencia de fuentes de recursos geotérmicos, sus características físicas y químicas, su extensión geográfica y sus aptitudes y condiciones para su aprovechamiento.
 
-La explotación consiste en el conjunto de actividades de perforación, construcción, puesta en marcha y operación de un sistema de extracción, producción y transformación de fluidos geotérmicos en energía térmica o eléctrica. En consecuencia, la concesión de explotación confiere el derecho a utilizar y aprovechar la energía geotérmica que exista dentro de sus límites.
+La explotación consiste en el conjunto de actividades de perforación, construcción, puesta en marcha y operación de un sistema de aprovechamiento de energía geotérmica para usos directos o de generación de electricidad. En consecuencia, la concesión de explotación confiere el derecho a utilizar y aprovechar la energía geotérmica que exista dentro de sus límites.
 
 #### Artículo 7º
 
-La extensión territorial de la concesión de energía geotérmica configura un sólido cuya cara superior es, en el plano horizontal, un paralelogramo de ángulos rectos, en el que dos de sus lados tienen orientación U.T.M. norte sur, y cuya profundidad es indefinida dentro de los planos verticales que lo limitan.
+La extensión territorial de la concesión de energía geotérmica configura un sólido cuya cara superior es, en el plano horizontal, un polígono de ángulos rectos, en el que dos de sus lados tienen orientación U.T.M. norte sur, y cuya profundidad es indefinida dentro de los planos verticales que lo limitan.
 
-Las dimensiones del largo y del ancho del paralelogramo deberán ser, para una concesión de exploración, múltiplos enteros de mil metros y, para una concesión de explotación, múltiplos enteros de cien metros.
+Las dimensiones de cada lado del polígono deberán ser, para una concesión de exploración, múltiplos enteros de mil metros y, para una concesión de explotación, múltiplos enteros de cien metros.
 
-En todo caso, entre el largo y el ancho del paralelogramo deberá existir una relación no superior de diez a uno.
+En todo caso, entre el largo y el ancho del menor rectángulo que contenga al polígono en su interior deberá existir una relación no superior de diez a uno.
 
 La cara superior de cada concesión de exploración no podrá exceder de cien mil hectáreas, ni de veinte mil hectáreas en el caso de tratarse de una concesión de explotación.
 
@@ -74,9 +78,11 @@ La concesión de energía geotérmica tiene por objeto la totalidad de dicha ene
 
 #### Artículo 8º
 
-Corresponderá al Ministerio de Energía la aplicación, control y cumplimiento de esta ley y sus reglamentos, sin perjuicio de las atribuciones conferidas a los demás organismos señalados específicamente en sus disposiciones.
+Corresponderá al Ministerio de Energía la aplicación de esta ley y sus reglamentos, sin perjuicio de las atribuciones conferidas a los demás organismos señalados específicamente en sus disposiciones.
 
-El Ministerio de Energía fiscalizará y supervisará el cumplimiento de las normas de esta ley y de los reglamentos que se dicten, y las obligaciones de los concesionarios que se estipulen en el decreto de concesión.
+La Superintendencia de Electricidad y Combustibles fiscalizará y supervisará el cumplimiento de las normas de esta ley, de los reglamentos y de las normas técnicas que se dicten, y las obligaciones de los concesionarios que se estipulen en el decreto de concesión.
+
+Para el cumplimiento de la fiscalización y supervisión, la Superintendencia tendrá acceso al registro indicado en el artículo 46, y a los documentos fundantes que hayan aportado los solicitantes.
 
 #### Artículo 9º
 
@@ -192,7 +198,7 @@ El decreto de concesión de explotación deberá contener, como menciones esenci
 
 - **c)** las inversiones proyectadas.
 
-Copia de los decretos deberá ser remitida al Servicio Nacional de Geología y Minería de Chile, el que deberá llevar un catastro de las concesiones otorgadas y sus ubicaciones geográficas determinadas en coordenadas U.T.M.
+El Ministerio de Energía llevará un catástro público de las concesiones otorgadas y sus ubicaciones geográficas determinadas en coordenadas U.T.M.
 
 En casos calificados, y a solicitud del concesionario de exploración o de explotación, el Ministerio de Energía podrá modificar las condiciones de la concesión, dictando, al efecto, un nuevo decreto.
 
@@ -208,19 +214,11 @@ De los derechos del concesionario
 
 Sólo el concesionario de exploración o de explotación, según el caso, tendrá la facultad de desarrollar actividades de exploración o de explotación, respectivamente, de la energía geotérmica que se encuentre dentro del área de la concesión respectiva.
 
-No podrá otorgarse una concesión de energía geotérmica respecto de terrenos que se encuentren comprendidos en otra concesión de energía geotérmica, sobre cuya existencia deberá, previamente, pedirse informe al Servicio Nacional de Geología y Minería.
+No podrá otorgarse una concesión de energía geotérmica respecto de terrenos que se encuentren comprendidos en otra concesión de energía geotérmica.
 
 #### Artículo 23
 
-Sin perjuicio de los recursos y acciones que les franquee la ley, el solicitante de una concesión de energía geotérmica y los proponentes de una licitación convocada para la adjudicación de una de dichas concesiones, podrán reclamar, ante el Ministro de Energía, de cualquier acto o hecho que afectare sus derechos y que se produzca durante la tramitación de la solicitud o licitación. Asimismo, podrán impugnar ante la referida autoridad, el rechazo de la solicitud de concesión o la decisión recaída en la licitación. El plazo para deducir el reclamo será de quince días corridos, a contar de la fecha en que se tuvo conocimiento del acto o hecho que motiva el reclamo.
-
-El Ministro resolverá, previo informe fundado de una Comisión. Dicha Comisión estará integrada por el Subsecretario de la Cartera, el Jefe de la División Jurídica del Ministerio de Energía y el Director Nacional de Geología y Minería.
-
-Dicho informe fundado, deberá evacuarse en un plazo máximo de diez días corridos, salvo que se requieran informes adicionales para resolver, de lo cual deberá dejarse constancia en el expediente de reclamo. En este caso, el plazo se ampliará hasta por el máximo de diez días adicionales.
-
-La interposición del reclamo, en su caso, suspenderá los plazos a que se refiere el artículo 19 para resolver sobre la solicitud de concesión o sobre la licitación a que se haya convocado para otorgarla.
-
-Los reclamos a que se refiere este artículo, presentados con posterioridad a la fecha de total tramitación del decreto supremo que otorga la concesión, serán rechazados de plano.
+Derogado.
 
 #### Artículo 24
 
@@ -254,15 +252,15 @@ Dichas servidumbres no podrán aprovecharse para fines distintos de aquellos pro
 
 #### Artículo 27
 
-El titular de la concesión de energía geotérmica tiene, por el solo ministerio de la ley, y en la medida necesaria para el ejercicio de la concesión, el derecho de aprovechamiento, consuntivo y de ejercicio continuo, de las aguas subterráneas alumbradas en los trabajos de exploración o de explotación. Este derecho de aprovechamiento es inherente a la concesión de energía geotérmica y se extinguirá con ésta.
+El titular de la concesión de energía geotérmica tiene, por el solo ministerio de la ley, y en la medida necesaria para el ejercicio de la concesión, el derecho de aprovechamiento consuntivo y de ejercicio continuo de las aguas subterráneas alumbradas en los trabajos de exploración o de explotación, en la medida en que tales aguas sean necesarias para los trabajos de exploración y explotación. De conformidad con el artículo 62 del Código de Aguas, cuando la explotación de aguas subterráneas por algunos usuarios afecte la sustentabilidad del acuífero y ocasione perjuicios a los otros titulares de derechos, la Dirección General de Aguas podrá establecer la suspensión y/o reducción temporal del ejercicio de los derechos de aprovechamiento, a prorrata de ellos, mediante resolución fundada. Este derecho de aprovechamiento es inherente a la concesión de energía geotérmica y se extinguirá con ésta.
 
-Dentro del plazo de seis meses, contado desde el alumbramiento de las aguas subterráneas, el concesionario de energía geotérmica deberá informar a la Dirección General de Aguas, respecto de la ubicación del punto de captación, de las características técnicas de la extracción y de los caudales extraídos.
+Dentro del plazo de noventa días corridos, contado desde el alumbramiento de las aguas subterráneas, el concesionario de energía geotérmica deberá informar este hecho a la Dirección General de Aguas y a la Superintendencia de Electricidad y Combustibles. Esa información deberá contener la ubicación del punto de captación, las características técnicas de la extracción, los caudales extraídos, las actividades que justifiquen dicho aprovechamiento y los caudales sobrantes que no sean empleados, de haberlos. El incumplimiento de la obligación de informar el alumbramiento hará caducar el derecho otorgado en el inciso precedente, por el solo ministerio de la ley.
 
-Una vez terminada la utilización geotérmica de las aguas referidas en el inciso primero de este artículo, el titular de la concesión de energía geotérmica será dueño del respectivo derecho de aprovechamiento y podrá disponer de las aguas, mientras la concesión de energía geotérmica se mantenga vigente. La misma disposición se aplicará a los demás fluidos geotérmicos.
+De conformidad con lo dispuesto en el artículo 68 del Código de Aguas, la Dirección General de Aguas podrá exigir la transmisión de la información que se obtenga desde los puntos de captación y restitución, en la forma, plazos y condiciones técnicas establecidas en la resolución fundada que se dicte al efecto.
 
-Las aguas que provengan del ejercicio de la concesión de energía geotérmica, a que se refieren los incisos primero y tercero, una vez abandonadas a un cauce natural, estarán sujetas a las disposiciones del Código de Aguas y, en su caso, a las normas que regulan el vertimiento de materias contaminantes a dichos cauces.
+Las aguas que provengan del ejercicio de la concesión de energía geotérmica, a que se refiere el inciso primero, en caso de que no sean reinyectadas en la misma fuente de la cual se extrajeron, sino que sean abandonadas a un cauce natural, estarán sujetas a las disposiciones del Código de Aguas y, en su caso, a las normas que regulan el vertimiento de materias contaminantes a dichos cauces.
 
-Para la utilización de aguas distintas a las referidas en el inciso primero de este artículo, se estará a lo dispuesto en el Código de Aguas y demás normativa aplicable.
+En todo aquello que no sea incompatible con este artículo regirán las disposiciones del Código de Aguas que sean pertinentes, en particular, lo dispuesto en el artículo 56 bis y en el Párrafo 3 del Título VI del Libro I, relativas a las aguas subterráneas, y los artículos 129 bis 2 y 129 bis 3. Asimismo, para la utilización de aguas distintas de las referidas en el inciso primero de este artículo, se estará a lo dispuesto en el Código de Aguas y demás normativa aplicable.
 
 #### Artículo 28
 
@@ -280,7 +278,9 @@ La misma norma se aplicará, en lo pertinente, al Estado respecto de las sustanc
 
 #### Artículo 30
 
-Las dificultades que se susciten entre dos o más titulares con ocasión de lo dispuesto en los artículos 27 y 28 o con motivo de sus respectivas labores, serán sometidas a la decisión de un árbitro de los mencionados en el artículo 223, inciso final, del Código Orgánico de Tribunales.
+Las dificultades que se susciten entre dos o más titulares con ocasión de lo dispuesto en los artículos 27 y 28 o con motivo de sus respectivas labores, serán sometidas a la decisión de un árbitro de los mencionados en el artículo 223, inciso final, del Código Orgánico de Tribunales. En la determinación de las costas a que el juicio dé lugar, el juez árbitro considerará como criterios para determinar si ha existido motivo plausible para litigar, entre otros, la existencia de proyectos u obras en ejecución en el área objeto de la concesión, derechos y/o permisos, o la realización o desarrollo de actividades relacionadas directamente con las concesiones o los derechos o permisos otorgados, que son objeto del litigio.
+
+En todo caso, no constituirá un obstáculo para el otorgamiento y ejercicio de concesiones o servidumbres eléctricas la existencia de otros derechos, permisos o concesiones constituidos en el o los predios por terceros.
 
 #### Artículo 31
 
@@ -312,13 +312,13 @@ a) El 70% de dicha cantidad se incorporará proporcionalmente en la cuota del Fo
 
 b) El 30% restante corresponderá a las municipalidades de las comunas en que estén situadas las concesiones de explotación de energía geotérmica.
 
-En el caso de que una concesión de energía geotérmica se encuentre situada en el territorio de dos o más regiones o de dos o más comunas, el Servicio Nacional de Geología y Minería determinará la proporción que le corresponderá a cada una de ellas, dividiendo su monto a prorrata de la superficie de cada región o comuna comprendida en la concesión.
+En el caso de que una concesión de energía geotérmica se encuentre situada en el territorio de dos o más regiones o de dos o más comunas, el Ministerio de Energía determinará la proporción que le corresponderá a cada una de ellas, dividiendo su monto a prorrata de la superficie de cada región o comuna comprendida en la concesión.
 
 El Servicio de Tesorerías pondrá a disposición de las regiones y municipalidades que correspondan los recursos a que se refiere este artículo, dentro del mes subsiguiente al de su recaudación.
 
 #### Artículo 34
 
-La Tesorería General de la República informará, en el mes de abril de cada año, al Ministerio de Energía respecto de las patentes de explotación geotérmica que se encuentren impagas, para los efectos de lo dispuesto en el artículo 39.
+La Tesorería General de la República informará, en el mes de abril de cada año, al Ministerio de Energía y a la Superintendencia de Electricidad y Combustibles respecto de las patentes de explotación geotérmica que se encuentren impagas, para los efectos de lo dispuesto en el artículo 39.
 
 T I T U L O V
 
@@ -326,13 +326,13 @@ De la exploración y explotación por los concesionarios de la energía geotérm
 
 #### Artículo 35
 
-El concesionario de exploración, anualmente, en el mes de marzo, y durante toda la vigencia de la concesión, deberá informar al Ministerio de Energía el avance verificado durante el año calendario precedente en la ejecución del proyecto presentado conforme al artículo 11.
+El concesionario de exploración, anualmente, en el mes de marzo, y durante toda la vigencia de la concesión, deberá informar al Ministerio de Energía y a la Superintendencia de Electricidad y Combustibles el avance verificado durante el año calendario precedente en la ejecución del proyecto presentado conforme al artículo 11.
 
 #### Artículo 36
 
 El período de vigencia de la concesión de exploración de energía geotérmica tendrá una duración de dos años, contado desde la fecha en que haya entrado en vigencia el decreto de concesión.
 
-No obstante, el concesionario, antes de los últimos seis meses del período establecido en el inciso anterior, podrá solicitar del Ministerio de Energía, por una sola vez, su prórroga por un período de dos años, contado desde el término del primero, acreditando un avance no inferior al 25% en la materialización de las inversiones indicadas en la letra c) del artículo 11. El Ministerio de Energía otorgará la prórroga o la denegará fundadamente, lo que pondrá en conocimiento del concesionario mediante comunicación escrita y fundada, dirigida a éste dentro de un plazo que no podrá exceder de tres meses, contado desde la fecha de la solicitud de prórroga. Esta misma comunicación deberá ser enviada al Servicio Nacional de Geología y Minería.
+No obstante, el concesionario, antes de los últimos seis meses del período establecido en el inciso anterior, podrá solicitar del Ministerio de Energía, por una sola vez, su prórroga por un período de dos años, contado desde el término del primero, acreditando un avance no inferior al 25% en la materialización de las inversiones indicadas en la letra c) del artículo 11. El Ministerio de Energía otorgará la prórroga o la denegará fundadamente, lo que pondrá en conocimiento del concesionario mediante comunicación escrita y fundada, dirigida a éste dentro de un plazo que no podrá exceder de tres meses, contado desde la fecha de la solicitud de prórroga. Esta misma comunicación deberá ser enviada a la Superintendencia de Electricidad y Combustibles.
 
 #### Artículo 37
 
@@ -350,7 +350,7 @@ De la extinción de las concesiones de energía geotérmica
 
 La concesión geotérmica de explotación caducará irrevocablemente, y por el solo ministerio de la ley, si el concesionario dejare de pagar dos patentes consecutivas. Esta caducidad se producirá a las doce de la noche del 31 de marzo del año en que se incurra en la mora del segundo pago.
 
-El Ministerio de Energía comunicará esta circunstancia al Servicio Nacional de Geología y Minería.
+El Ministerio de Energía comunicará esta circunstancia a la Superintendencia de Electricidad y Combustibles.
 
 #### Artículo 40
 
@@ -378,9 +378,7 @@ Disposiciones finales
 
 #### Artículo 43
 
-Toda infracción de las disposiciones de esta ley que no esté expresamente sancionada, será castigada con una multa, a beneficio fiscal, de entre cinco y cien unidades tributarias mensuales. El Ministerio de Energía aplicará administrativamente la multa, y su resolución tendrá mérito ejecutivo.
-
-El afectado podrá reclamar ante la justicia ordinaria en contra de las multas que le imponga el Ministerio. El reclamo deberá interponerse dentro del plazo de treinta días, contado desde la fecha de remisión de la carta certificada en la cual se le notifique su aplicación. La justicia conocerá del reclamo breve y sumariamente.
+Toda infracción de las disposiciones de esta ley, sus reglamentos y normas técnicas será sancionada por la Superintendencia de Electricidad y Combustibles de conformidad a lo establecido en la ley Nº 18.410, especialmente en su Título IV, relativo a sanciones, en lo que fuere pertinente.
 
 #### Artículo 44
 
