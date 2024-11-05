@@ -112,7 +112,7 @@ f) Posteriormente, se procederá a obtener el puntaje total, sumando los puntaje
 
 g) Luego, se calculará para cada universidad beneficiaria, la fracción del valor obtenido de acuerdo a la letra e) dentro de la suma de la letra f).
 
-h) Finalmente, el monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el punto anterior y el 20% del presupuesto destinado a este fondo.
+h) Finalmente, el monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el punto anterior y el 25% del presupuesto destinado a este fondo.
 
 ### II. Doctorados Acreditados
 
@@ -126,7 +126,7 @@ d) Posteriormente, se procederá a sumar los valores obtenidos en el literal c),
 
 e) Finalmente, se calculará para cada universidad beneficiaria, la fracción del valor obtenido, poniendo en el numerador la cifra obtenida en el literal c) y en el denominador la suma del literal d).
 
-f) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 20% del presupuesto del fondo.
+f) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 25% del presupuesto del fondo.
 
 ### III. Planta Académica
 
@@ -138,7 +138,7 @@ b) En segundo lugar, se sumarán los valores obtenidos en el literal a), para ca
 
 c) En tercer lugar, se calculará para cada universidad beneficiaria, la fracción del valor obtenido, utilizando como numerador la cifra obtenida en el literal a), y como denominador la suma del literal b).
 
-d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo, ponderándolo por 0,7.
+d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo, ponderándolo por 0,8.
 
 Segunda Parte
 
@@ -152,7 +152,7 @@ h) A continuación, se sumarán los valores obtenidos en el literal g), para cad
 
 i) Posteriormente, se calculará para cada universidad beneficiaria, la fracción del valor obtenido, utilizando como numerador la cifra obtenida en el literal g), y como denominador la suma del literal h).
 
-j) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo, ponderándolo por 0,3.
+j) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo, ponderándolo por 0,2.
 
 Finalmente, el monto correspondiente a cada universidad beneficiaria por el presente numeral se obtendrá mediante la suma del monto obtenido en los literales d) y j)."
 
@@ -174,11 +174,11 @@ b) En segundo lugar, se sumarán los valores obtenidos en el literal a), para ca
 
 c) En tercer lugar, se calculará para cada universidad beneficiaria, la fracción del valor obtenido, utilizando como numerador la cifra obtenida en el literal a), y como denominador la suma del literal b).
 
-d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 15% del presupuesto del fondo.
+d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo.
 
 ### VI. Proyectos
 
-a) En primer lugar, mediante la información proporcionada por la Agencia Nacional de Investigación y Desarrollo (ANID), para cada universidad se determinará el número de proyectos adjudicados financiados por Fondo Nacional de Desarrollo Científico y Tecnológico (Fondecyt) u otros similares, en el año anterior al cálculo. Para estos efectos se considerarán los siguientes proyectos: Fondecyt Regular, Post Doctorado, Iniciación a la Investigación, Fondo de Financiamiento de Centros de Investigación en Áreas Prioritarias (Fondap), Fondo de Fomento al Desarrollo Científico y Tecnológico (Fondef), Milenio, Proyectos de Astronomía, Fondo Nacional de Investigación y Desarrollo en Salud (Fonis), Programa de Investigación Asociativa (PIA) y Proyectos de Investigación Conjunta (PCI).
+a) En primer lugar, mediante la información proporcionada por la Agencia Nacional de Investigación y Desarrollo (ANID), para cada universidad se determinará el número de proyectos adjudicados financiados por Fondo Nacional de Desarrollo Científico y Tecnológico (Fondecyt) u otros similares, en el año anterior al cálculo. Para estos efectos se considerarán los siguientes proyectos: Fondecyt Regular, Post Doctorado, Iniciación a la Investigación, Fondo de Financiamiento de Centros de Investigación en Áreas Prioritarias (Fondap), Fondo de Fomento al Desarrollo Científico y Tecnológico (Fondef), Milenio, Proyectos de Astronomía, Fondo Nacional de Investigación y Desarrollo en Salud (Fonis), Programa de Investigación Asociativa (PIA) y Proyectos de Investigación Conjunta (PCI), entre otros.
 
 b) En segundo lugar, se sumarán los valores obtenidos en el literal a), para cada una de las instituciones beneficiarias.
 
@@ -196,7 +196,7 @@ b) En segundo lugar, se sumarán los valores de todas las instituciones benefici
 
 c) En tercer lugar, se calculará para cada universidad beneficiaria, la fracción del valor obtenido, poniendo en el numerador la cifra del literal a) y en el denominador la suma del literal b).
 
-d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 15% del presupuesto del fondo, ponderándolo por 0,7.
+d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo, ponderándolo por 0,8.
 
 Segunda Parte:
 
@@ -212,7 +212,7 @@ i) A continuación, se sumarán los valores de todas las instituciones beneficia
 
 j) Posteriormente, se calculará para cada universidad beneficiaria, la fracción del valor obtenido, utilizando como numerador la cifra obtenida en el literal h), y como denominador la suma del literal i).
 
-k) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 15% del presupuesto del fondo, ponderándolo por 0,3.
+k) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por el 10% del presupuesto del fondo, ponderándolo por 0,2.
 
 Finalmente, el monto correspondiente a cada universidad beneficiaria por el presente numeral se obtendrá mediante la suma del monto obtenido en los literales d) y k).
 
