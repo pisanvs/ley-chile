@@ -28,7 +28,7 @@ El "Aporte Institucional Universidades Estatales Ley Nº 21.094" tiene por objet
 
 Distribución de los recursos
 
-La distribución de los recursos contemplados para el presente Título se hará sumando los valores obtenidos en cada uno de los siguientes literales (Elemento Mixto, Elemento de Desempeño y Elemento de compensación de brechas distributivas), tras aplicar la fórmula descrita en cada uno de ellos:
+La distribución de los recursos contemplados para el presente Título se hará sumando los valores obtenidos en cada uno de los siguientes literales (Elemento Mixto, Elemento de Desempeño y Elemento de Refuerzo), tras aplicar la fórmula descrita en cada uno de ellos:
 
 a) Elemento mixto: Para determinar el monto a recibir por cada universidad estatal por el presente literal se sumarán cada uno de los siguientes componentes, según corresponda a cada institución, conforme al requisito que se señala, los que se calcularán de la manera que se indica a continuación:
 
@@ -38,7 +38,7 @@ a) Elemento mixto: Para determinar el monto a recibir por cada universidad estat
 
 3.- Universidades tutoras de nuevos centros de formación técnica estatales creados por la Ley Nº 20.910 con oferta académica en el año del presente cálculo: A las universidades que hayan sido designadas, mediante el acto administrativo correspondiente, como tutoras de un centro de formación técnica estatal creado a través de la ley Nº 20.910, se les asignarán M$ 50.000 por cada institución tutelada, que tenga oferta académica en el año del presente cálculo. Los recursos asignados por el presente numeral deberán destinarse íntegramente a la tutoría, de acuerdo con lo dispuesto en el artículo tercero transitorio de la ley Nº 20.910, en base a lo señalado en el convenio que se suscriba para dicha finalidad o que se deriven para este propósito.
 
-4.- Complejidad Institucional: El monto total de recursos a distribuir respecto del presente numeral, será equivalente al 25% de los recursos asignados por la Ley de Presupuestos del Sector Público para la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094", y será distribuido a las universidades estatales de acuerdo con los seis parámetros siguientes:
+4.- Complejidad Institucional: El monto total de recursos a distribuir respecto del presente numeral, será de M$22.650.000 (veintidós mil seiscientos cincuenta millones de pesos), reajustados anualmente a partir del año 2025, de conformidad al inflactor que informe la Dirección de Presupuestos del Ministerio de Hacienda" para la Ley de Presupuestos del Sector Público del año respectivo, y será distribuido a las universidades estatales de acuerdo con los seis parámetros siguientes:
 
 a. Publicaciones:
 
@@ -122,13 +122,9 @@ f.4.- El monto correspondiente a cada universidad beneficiaria se obtendrá medi
 
 El monto total que a cada universidad beneficiaria le corresponderá por concepto de "Complejidad Institucional", se determinará mediante la suma de los montos obtenidos por ésta en los literales a, b, c, d, e y f del presente numeral.
 
-b) Elemento de desempeño: El monto a distribuir por el presente elemento se determinará mediante la diferencia entre los siguientes numerales:
+b) Elemento de desempeño: El monto a distribuir por el presente elemento será de M$49.350.000 (cuarenta y nueve mil trescientos cincuenta millones de pesos), reajustados anualmente a partir del año 2025, de conformidad al inflactor que informe la Dirección de Presupuestos del Ministerio de Hacienda para la Ley de Presupuestos del Sector Público del año respectivo.
 
-1. El monto considerado por la Ley de Presupuestos correspondiente a la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094";
-
-2. La suma de los valores obtenidos por todas las instituciones estatales beneficiarias en el literal a) y c) del presente artículo, más el monto que corresponda distribuir a las universidades del Estado cuya acreditación institucional, de acuerdo a la ley Nº 20.129, sea de tres años o menos, en los términos del Título II del presente Reglamento.
-
-Después de obtenido el total a distribuir por el presente literal, el monto a entregar a cada universidad estatal se calculará de la siguiente forma:
+El monto a entregar a cada universidad estatal se calculará de la siguiente forma:
 
 1.- En primer lugar, las universidades beneficiarias serán agrupadas en tres categorías distintas. Para ser considerada en una categoría determinada, la universidad correspondiente deberá cumplir copulativamente con los requisitos que en ella se exijan. Las categorías serán excluyentes entre sí, asignándose jerárquicamente desde la categoría I a la III, no pudiendo una institución situarse en más de una de ellas. Para efectos del presente numeral, se considerará el nivel de acreditación de programas de doctorado vigente al 1 de enero del año del cálculo y las publicaciones Scopus anuales informadas por Agencia Nacional de Investigación y Desarrollo para el año que antecede al año anterior al cálculo. Son estas categorías las siguientes:
 
@@ -182,17 +178,147 @@ El valor obtenido en cada indicador para cada una de las universidades perteneci
 
 El monto para distribuir se determinará en miles de pesos (M$), procediendo a su aproximación al entero, en el caso que el resultado sea en decimales.
 
-c) Elemento de compensación de brechas distributivas: Del total de los recursos asignados por Ley de Presupuesto del Sector Público para la asignación "Aporte Institucional Universidades Estatales Ley Nº 21.094", se destinará un 6,5% que será distribuido entre las universidades beneficiarias según el cálculo que se describe a continuación:
+c) Elemento de refuerzo: El monto total a distribuir por el presente elemento se determinará mediante la diferencia entre los siguientes numerales:
 
-1.- Se establecerá la mediana entre los montos obtenidos por las universidades estatales por el fondo "Aporte Artículo 2º DFL (Ed.) Nº 4, de 1981" (AFD), del año anterior al cálculo.
+I) El monto considerado por la Ley de Presupuestos correspondiente a la asignación "Aporte Institucional Universidades Estatales Ley N° 21.094".
 
-2.- Se calculará para cada una de las universidades beneficiarias, la diferencia entre la mediana establecida en el número 1.- precedente y el monto que por concepto de AFD del año anterior al presente cálculo correspondió a cada una de ellas. En caso de que de dicha resta resulte un valor negativo, se asignará un valor "0" (cero) a la institución respectiva.
+II) La suma de los valores obtenidos por todas las instituciones estatales beneficiarias en los literales a) y b) del presente artículo, más el monto que corresponda distribuir a las universidades del Estado cuya acreditación institucional, de acuerdo con la ley N° 20.129, sea de tres años o menos, en los términos del Título II del presente reglamento.
 
-3.- Luego, para establecer el total se sumarán los resultados obtenidos en las diferencias calculadas según el número 2.- precedente para cada universidad beneficiaria.
+Después de obtenido el total a distribuir por el presente elemento, el monto a entregar a cada universidad estatal (en adelante "institución" o "universidad") se obtendrá mediante la suma de los montos obtenidos según los siguientes numerales 1. Monto Base, 2. Compensación per cápita AIUE, 3. Mejoramiento de las Pedagogías y 4. Índices brecha de género:
 
-4.- Posteriormente, se calculará para cada universidad beneficiaria la fracción del valor obtenido según lo establecido en el numero 2.- anterior, dentro del total establecido en el número 3.- precedente.
+1. Monto Base: Se calculará el monto del denominado "Monto Base", equivalente al 40% de los recursos del presente elemento, que se distribuirá en partes iguales entre todas las universidades estatales.
 
-5.- Se obtendrá el monto correspondiente a distribuir a cada universidad multiplicando la fracción calculada según el número 4.- precedente, por el monto de recursos establecidos para el Elemento de compensación de brechas distributivas.
+2. Compensación per cápita AIUE: Se calculará el monto de la denominada "Compensación per cápita AIUE", equivalente al 40% de los recursos del presente elemento, que se distribuirá a cada universidad de la manera que se indica a continuación:
+
+2.a. Para cada universidad se identificará el monto recibido en el año anterior al cálculo, respecto del Título I del presente reglamento.
+
+2.b. Se sumarán los montos de cada universidad obtenidos en 2.a.
+
+2.c. Para cada universidad se dividirá el monto obtenido en 2.a. por el total identificado en 2.b.
+
+2.d. Para cada universidad se identificará la matrícula de pregrado en el año anterior al cálculo, de acuerdo con la información proporcionada por el SIES.
+
+2.e. Para cada universidad se dividirá el monto obtenido en 2.a. por 2.d. de la respectiva universidad.
+
+2.f. Se identificará el valor máximo entre los valores obtenidos en 2.e.
+
+2.g. Se calculará la brecha para cada universidad, restando el valor identificado en 2.f. y el valor calculado en 2.e. para cada universidad.
+
+2.h. Se calculará el valor de la brecha para cada universidad multiplicando el valor calculado en 2.g. por la matrícula de pregrado de 2.d.
+
+2.i. Se determinará la brecha total, sumando los montos de brechas de todas las universidades calculados en 2.h.
+
+2.j. Para cada universidad se dividirá 2.h. por el valor obtenido en 2.i.
+
+2.k. Para cada universidad se promediará el resultado obtenido en 2.c. con 2.j. de la universidad respectiva.
+
+2.l. El monto correspondiente a cada universidad se obtendrá multiplicando el valor calculado en 2.k. de cada universidad, por el monto total de la Compensación per cápita AIUE obtenida en el presente numeral 2.
+
+3. Mejoramiento de las Pedagogías: Se calculará el monto del denominado "Mejoramiento de las Pedagogías" equivalente al 5% de los recursos del presente elemento, que se destinará solo a las universidades cuya matrícula en programas de pregrado de pedagogía, que cuenten con ingreso a primer año, sea igual o mayor al 10% del total de la matrícula de pregrado para la misma institución, ambas del año anterior al cálculo. Estos recursos se distribuirán a cada universidad beneficiaria de la manera que se indica a continuación y aplicando los siguientes indicadores:
+
+3.a. Porcentaje de matrícula de programas de pregrado de pedagogía, respecto del total de matrícula de pregrado en las universidades beneficiarias:
+
+3.a.1. Para cada universidad beneficiaria que cuente con programas de pregrado de pedagogía, se identificará la matrícula de aquellos programas de pregrado de pedagogía que cuenten con ingreso a primer año en el año anterior al cálculo, según la base de datos de matrícula del SIES.
+
+3.a.2. Para cada universidad beneficiaria se identificará su matrícula total en el año anterior al cálculo, correspondiente a alumnos de pregrado de carreras regulares, técnicas y profesionales, según la base de datos de matrícula del SIES.
+
+3.a.3. Para cada universidad beneficiaria se dividirá la matrícula obtenida en 3.a.1. por su matrícula obtenida en 3.a.2., multiplicándose el resultado por 100, para determinar el porcentaje de matrícula de pregrado de pedagogía respecto al total de matrícula de programas regulares de cada institución, a lo que se denomina "Porcentaje Matrícula Pregrado Pedagogía de la Matrícula Pregrado de cada Institución" o "PMPPMPI".
+
+3.a.4. De acuerdo con los datos obtenidos en el punto 3.a.3., se asignarán puntajes a las universidades beneficiarias conforme a lo siguiente:
+
+3.a.4.1. Si la universidad cuenta con un PMPPMPI mayor a 0% y menor a 10%, se le asignará 0 puntos.
+
+3.a.4.2. Si la universidad cuenta con un PMPPMPI igual o mayor a un 10% y menor a un 30%, se le asignarán 40 puntos.
+
+3.a.4.3. Si la universidad cuenta con un PMPPMPI igual o mayor a un 30% y menor a un 50%, se le asignarán 60 puntos.
+
+3.a.4.4. Si la universidad cuenta con un PMPPMPI igual o mayor a un 50% y menor a un 75%, se le asignarán 80 puntos.
+
+3.a.4.5. Si la universidad cuenta con un PMPPMPI igual o mayor a 75%, se le asignarán 100 puntos.
+
+3.a.5. Para cada universidad beneficiaria se determinará el puntaje final del presente indicador multiplicando por 0,45 el puntaje obtenido por cada una de ellas en 3.a.4.
+
+3.b. Porcentaje de oferta de disciplinas de pregrado de pedagogía en las universidades beneficiarias:
+
+3.b.1. Dentro de los programas de pregrado regular de pedagogía que imparte cada institución beneficiaria, se identificará el número de disciplinas de pedagogía que cuenten con oferta académica en el año anterior al año de cálculo, de acuerdo con la base de datos de oferta académica de SIES. Para estos efectos, se considera como disciplina cada una de las denominadas "Áreas Carrera Genérica", categorización desarrollada por SIES que estandariza los nombres de las carreras del sistema de educación superior chileno para fines analíticos.
+
+3.b.2. Para cada universidad beneficiaria se dividirá el número identificado en 3.b.1. por el total de disciplinas para los programas de pedagogía, en el año anterior al año de cálculo, de acuerdo con la base de datos de oferta académica de SIES. El valor obtenido se multiplicará por 100, para obtener lo que se denomina "Porcentaje de Disciplinas de Pedagogía de Pregrado de cada Institución Beneficiaria" o "PDPPIB". Cabe señalar que el total de disciplinas que se contabilizará corresponde a las denominadas "Áreas Carrera Genérica", que estén en el área de conocimiento "Educación" y que sean denominadas como "Pedagogía en...".
+
+3.b.3. De acuerdo con los datos obtenidos en 3.b.2, se asignarán puntajes a las universidades beneficiarias conforme a lo siguiente:
+
+3.b.3.1. Si la universidad cuenta con un PDPPIB mayor a un 0% y menor a un 20%, se le asignarán 20 puntos.
+
+3.b.3.2. Si la universidad cuenta con un PDPPIB igual o mayor a un 20% y menor a un 40%, se le asignarán 40 puntos.
+
+3.b.3.3. Si la universidad cuenta con un PDPPIB igual o mayor a un 40% y menor a un 65%, se le asignarán 60 puntos.
+
+3.b.3.4. Si la universidad cuenta con un PDPPIB igual o mayor a 65% y menor a un 80%, se le asignarán 80 puntos.
+
+3.b.3.5. Si la universidad cuenta con un PDPPIB igual o mayor a un 80%, se le asignarán 100 puntos.
+
+3.b.4. Para cada universidad beneficiaria se determinará el puntaje final del presente indicador multiplicando por 0,30 el puntaje obtenido por cada una de ellas en 3.b.3.
+
+3.c. Promedio de años de acreditación de programas de pregrado de pedagogía de las universidades beneficiarias:
+
+3.c.1. Para cada universidad beneficiaria, se identificarán aquellos programas de pregrado regulares de pedagogía que cuenten con ingreso a primer año y se encuentren acreditados al 31 de diciembre, ambos en el año anterior al año de cálculo, de acuerdo con la base de matrícula del SIES y a la información proporcionada por la Comisión Nacional de Acreditación, respectivamente. Para estos efectos, se excluirán los programas de bachillerato y los programas de formación pedagógica.
+
+3.c.2. Para cada universidad beneficiaria se sumarán los años de acreditación de los programas identificados en el punto anterior.
+
+3.c.3. Para cada universidad beneficiaria se dividirán los valores obtenidos en el punto anterior por el número total de sus programas de pedagogía acreditados, obteniéndose el denominado "promedio de años de acreditación para programas de pedagogía" o "PACP".
+
+3.c.4. De acuerdo con los datos obtenidos en 3.c.3. se asignarán puntajes a las universidades beneficiarias conforme a lo siguiente:
+
+3.c.4.1. Si la universidad cuenta con 0 años de PACP, se le asignarán 0 puntos.
+
+3.c.4.2. Si la universidad cuenta con más de 0 años y menos de 3 años de PACP, se le asignarán 20 puntos.
+
+3.c.4.3. Si la universidad cuenta con al menos 3 y menos de 4 años de PACP, se le asignarán 40 puntos.
+
+3.c.4.4. Si la universidad cuenta con al menos 4 y menos de 5 años de PACP, se le asignarán 60 puntos.
+
+3.c.4.5. Si la universidad cuenta con al menos 5 y menos de 6 años de PACP, se le asignarán 80 puntos.
+
+3.c.4.6. Si la universidad cuenta con 6 o más años de PACP, se le asignarán 100 puntos.
+
+3.c.5. Para cada universidad beneficiaria se determinará el puntaje final del presente indicador multiplicando por 0,25 el puntaje obtenido por cada una de ellas en 3.c.4.
+
+Los puntajes obtenidos por cada universidad en los literales 3.a., 3.b. y 3.c. se sumarán, obteniéndose los puntajes totales para cada universidad.
+
+Posteriormente, se sumarán los referidos puntajes totales de cada universidad, obteniéndose el puntaje de la totalidad de las instituciones beneficiarias.
+
+Enseguida, los mencionados puntajes totales para cada universidad beneficiaria se dividirán por el puntaje de la totalidad de las instituciones beneficiarias, multiplicándose el resultado por 100.
+
+Finalmente, el monto a distribuir para cada universidad beneficiaria por el presente numeral se obtendrá multiplicando el monto destinado al Mejoramiento de Pedagogías, señalado en el párrafo primero del presente numeral, por la proporción que corresponde a cada universidad determinada según el párrafo anterior.
+
+4.- Índices brecha de género: Se calculará el monto del denominado "índices brecha de género" (corresponde al parámetro que busca retribuir la existencia de paridad entre el número de mujeres y hombres, medido en valores absolutos), equivalente al 15% de los recursos del presente elemento, que se distribuirá para cada universidad en base a los siguientes indicadores, según se señala a continuación:
+
+4.a. Índice brecha de género primer año pregrado carreras STEM y pedagogías afines:
+
+4.a.1. Para cada universidad beneficiaria se identificarán los valores del índice brecha de género primer año pregrado para carreras STEM y pedagogías afines, por año, para el trienio formado por el año anterior al cálculo, el año anterior a éste y el año que antecede a este último, según lo reportado por SIES.
+
+4.a.2. Para cada universidad se obtendrá el promedio de los tres años de los índices obtenidos en 4.a.1.
+
+4.a.3. Se sumarán los promedios de todas las universidades calculados en 4.a.2.
+
+4.a.4. Para cada universidad se dividirán los valores obtenidos en 4.a.2. por 4.a.3.
+
+4.a.5. Para cada universidad se determinará un puntaje multiplicando por 0,5 el resultado obtenido en 4.a.4.
+
+4.b. Índice brecha de género de académicos jornada completa equivalente (JCE) con grado académico de doctor:
+
+4.b.1. Para cada universidad beneficiaria se identificarán los valores del índice brecha de género de académicos JCE con grado académico de doctor, por año, para el trienio formado por el año anterior al calculo, el año anterior a éste y el año que antecede a este último, reportado por SIES.
+
+4.b.2. Para cada universidad se determinará el promedio de los tres años de los índices obtenidos en 4.b.1.
+
+4.b.3. Se sumarán los resultados determinados en 4.b.2.
+
+4.b.4. Se dividirá 4.b.2. de cada universidad por 4.b.3.
+
+4.b.5. Se multiplicará 4.b.4. de cada universidad por 0,5.
+
+Los valores obtenidos por cada universidad en los literales 4.a. y 4.b. se sumarán, obteniéndose el puntaje total de cada universidad.
+
+A continuación, el monto a distribuir para cada universidad beneficiaria por el presente numeral se obtendrá mediante la multiplicación del monto destinado a índices brecha de género, indicado en el párrafo primero del presente numeral, por el puntaje total de cada universidad determinado de acuerdo con el párrafo anterior.
 
 El monto para distribuir se determinará en miles de pesos (M$), procediendo a su aproximación al entero, en el caso que el resultado sea en decimales.
 
