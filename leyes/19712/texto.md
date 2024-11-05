@@ -146,29 +146,31 @@ i) SUPRIMIDA;
 
 j) Administrar los recintos e instalaciones que formen parte de su patrimonio, pudiendo encargar la gestión del todo o parte de ellos a las municipalidades o a personas naturales o a personas jurídicas de derecho público o privado a través de convenios o concesiones en los que deberá establecerse y asegurarse el cumplimiento de los fines de la institución y el debido resguardo de su patrimonio;
 
-k) Transferir recursos en dinero, bienes o servicios para la realización de proyectos relativos a la difusión, fomento y desarrollo de las modalidades deportivas que establece esta ley;
+k) Determinar el nombre que recibirá cada uno de los recintos e instalaciones que formen parte de su patrimonio y que se encuentren bajo su administración, considerando para su designación el nombre de chilenas y chilenos que se hayan desempeñado como deportistas, exdeportistas, entrenadores, periodistas deportivos y dirigentes deportivos, los que en el nivel regional corresponderán preferentemente a representantes deportivos locales, que hayan hecho una destacada contribución en el ámbito deportivo regional o nacional.
 
-l) Financiar o contribuir al financiamiento de becas a deportistas, profesionales de la educación física y del deporte, tanto convencional como adaptado, y dirigentes de organizaciones deportivas, para su capacitación, perfeccionamiento y especialización, en la forma que determine el Reglamento.
+l) Transferir recursos en dinero, bienes o servicios para la realización de proyectos relativos a la difusión, fomento y desarrollo de las modalidades deportivas que establece esta ley;
+
+m) Financiar o contribuir al financiamiento de becas a deportistas, profesionales de la educación física y del deporte, tanto convencional como adaptado, y dirigentes de organizaciones deportivas, para su capacitación, perfeccionamiento y especialización, en la forma que determine el Reglamento.
 
 Estas becas no constituyen renta para ningún efecto legal;
 
-m) Vincularse con organismos nacionales y, en general, con toda institución o persona cuyos objetivos se relacionen con los asuntos de su competencia y celebrar con ellos convenios para ejecutar proyectos o acciones de interés común;
+n) Vincularse con organismos nacionales y, en general, con toda institución o persona cuyos objetivos se relacionen con los asuntos de su competencia y celebrar con ellos convenios para ejecutar proyectos o acciones de interés común;
 
-n) Instituir, en favor de deportistas o ex deportistas y de dirigentes o ex dirigentes deportivos nacionales, que tengan o hayan tenido destacada participación regional, nacional o internacional, según determine el reglamento respectivo, premios que podrán consistir en estímulos en dinero, con cargo al presupuesto del Instituto;
+ñ) Instituir, en favor de deportistas o ex deportistas y de dirigentes o ex dirigentes deportivos nacionales, que tengan o hayan tenido destacada participación regional, nacional o internacional, según determine el reglamento respectivo, premios que podrán consistir en estímulos en dinero, con cargo al presupuesto del Instituto;
 
-ñ) Financiar o contribuir a financiar, de acuerdo a sus disponibilidades presupuestarias, los gastos de traslado y mantención de delegaciones del Comité Paralímpico de Chile, del Comité Olímpico de Chile y las federaciones vinculadas a cualquiera de estos comités que deban concurrir a participar, en representación del país, en competencias deportivas internacionales realizadas dentro y fuera del país;
+o) Financiar o contribuir a financiar, de acuerdo a sus disponibilidades presupuestarias, los gastos de traslado y mantención de delegaciones del Comité Paralímpico de Chile, del Comité Olímpico de Chile y las federaciones vinculadas a cualquiera de estos comités que deban concurrir a participar, en representación del país, en competencias deportivas internacionales realizadas dentro y fuera del país;
 
-o) Ejecutar las acciones y ejercer las facultades que sean necesarias para el cumplimiento de los fines que la ley le asigna, pudiendo al efecto celebrar convenios con personas naturales o jurídicas, nacionales o extranjeras, de derecho público o privado;
-
-p) SUPRIMIDA;
+p) Ejecutar las acciones y ejercer las facultades que sean necesarias para el cumplimiento de los fines que la ley le asigna, pudiendo al efecto celebrar convenios con personas naturales o jurídicas, nacionales o extranjeras, de derecho público o privado;
 
 q) SUPRIMIDA;
 
-r) Participar, a través de acciones deportivas, en la realización de programas de seguridad ciudadana desarrollados por los organismos de la Administración del Estado;
+r) SUPRIMIDA;
 
-s) Calificar los fines deportivos de los proyectos a que se refiere el artículo 62, y
+s) Participar, a través de acciones deportivas, en la realización de programas de seguridad ciudadana desarrollados por los organismos de la Administración del Estado;
 
-t) Asesorar a las organizaciones deportivas de menores recursos, en la elaboración de los proyectos que se postulen al Fondo Nacional para el Fomento del Deporte.
+t) Calificar los fines deportivos de los proyectos a que se refiere el artículo 62, y
+
+u) Asesorar a las organizaciones deportivas de menores recursos, en la elaboración de los proyectos que se postulen al Fondo Nacional para el Fomento del Deporte.
 
 El Instituto podrá, asimismo, destinar recursos para financiar seguros por riesgos de accidentes, sufridos con motivo de la práctica deportiva no profesional.
 
