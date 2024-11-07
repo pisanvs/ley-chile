@@ -44,7 +44,7 @@ Considerando:
 
 Decreto:
 
-1.- Prorrógase el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Essbio S.A., fijadas en el DS Minecon Nº 144/2016, por otro período de cinco años contados a partir del 14 de septiembre de 2021.
+1.- Prorrógase el período de vigencia de las fórmulas tarifarias para calcular los precios máximos aplicables a los usuarios de los servicios de producción y distribución de agua potable y recolección y disposición de aguas servidas para la empresa Essbio S.A., fijadas en el DS Minecon N° 144/2016, por otro período de cinco años, contados a partir del 14 de septiembre de 2021, con la salvedad de la localidad de Lomas Coloradas, perteneciente al Grupo 1 VIII Región, en que el quinquenio se contará a partir del 8 de septiembre del año 2020.
 
 2.- Déjase constancia que, conforme a la renuncia manifestada en su carta GG Nº 62/20, la empresa Essbio S.A. aplicará una rebaja de un 1,3% respecto de las fórmulas tarifarias de los servicios públicos de agua potable y alcantarillado que se prorrogan, la que regirá por todo el período de vigencia del presente decreto de prórroga.
 
