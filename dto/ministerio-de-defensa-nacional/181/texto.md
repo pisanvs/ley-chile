@@ -78,6 +78,10 @@ iii. Todo aquel que constituya carga familiar, debidamente reconocida, de las pe
 
 En el caso que el o la cónyuge o conviviente civil del personal tenga derecho a traslado otorgado por la misma Institución o por otro organismo público, el funcionario deberá informarlo a las autoridades señaladas en el artículo 3 del presente reglamento al momento que se le notifique del decreto o resolución que dispone el traslado.
 
+e.- Aquellas personas que hayan formado parte de la familia del funcionario al momento de su destinación o comisión al extranjero y que hayan perdido tal condición durante aquella, y para el sólo efecto de solicitar su regreso al país.
+
+El ejercicio de este derecho deberá solicitarse dentro de los treinta días hábiles siguientes a la pérdida de la calidad de cónyuge o conviviente civil, de la emancipación del hijo menor de edad, del término de la custodia o curaduría, o de la pérdida del carácter de carga familiar.
+
 #### Artículo 5
 
 Derecho del personal y sus familias. El personal a que se refiere el artículo 4, letra a) del presente reglamento, tendrá derecho a pasajes para sí mismo y sus familiares, y fletes para el mobiliario, menaje de casa y efectos personales, por los motivos que se indican a continuación:
@@ -106,7 +110,7 @@ b) Por comisiones de servicio a las que se refiere el artículo 151 del DFL Nº 
 
 c) Por ser llamado al país mientras se encontraba en comisión de servicios, conforme lo dispuesto en el artículo 201 del DFL Nº 1 (G), de 1997, del Ministerio de Defensa Nacional.
 
-d) Por ser comisionado temporalmente, estando en comisión en una ciudad en Chile, a otra ciudad distinta. También tendrá derecho a pasajes el personal comisionado en el extranjero cuando, para cumplirla, deba trasladarse temporalmente a otra ciudad.
+d) Por cumplimiento de comisiones de servicio, en todos los casos en que esta suponga el traslado a una ciudad o localidad distinta de la cual presta servicios habitualmente, ya sea dentro del país o en el extranjero.
 
 e) Por accidente en acto de servicio o padecimiento de alguna enfermedad profesional para ser trasladado desde el lugar en que se encuentra hasta el centro asistencial en que será atendido, examinado o controlado y de vuelta. Este personal tendrá derecho a pasajes en el transporte que sea más acorde a las condiciones de su estado de salud y a ser acompañado, con cargo fiscal, por la persona que designe, siempre que así lo dispongan las autoridades que establece el artículo 3 del presente reglamento.
 
@@ -142,7 +146,7 @@ Embalaje de enseres. El derecho a fletes del mobiliario incluye el de embalaje d
 
 #### Artículo 14
 
-Derecho a flete de automóvil particular. Se otorgará transporte del automóvil particular del funcionario sólo cuando, para asumir un cargo o cumplir una destinación, deba mudarse a un lugar en las provincias de Palena, Magallanes, Tierra del Fuego o Última Esperanza desde otro lugar de Chile, excepto el Territorio Chileno Antártico, o viceversa.
+Derecho a flete de automóvil particular. Se otorgará transporte del automóvil particular del funcionario sólo cuando, para asumir un cargo o cumplir una destinación, deba mudarse a un lugar en las provincias de Palena, Coyhaique, Magallanes, Tierra del Fuego o Última Esperanza desde otro lugar de Chile, excepto el Territorio Chileno Antártico, o viceversa.
 
 El mismo derecho se le otorgará al personal que sea destinado a Isla de Pascua o desde ésta a Chile continental o al extranjero, en cuyo caso el flete se realizará a la nueva destinación o a Valparaíso, respectivamente. Tratándose de destinaciones entre otros lugares de los señalados en el inciso precedente, las autoridades establecidas en el artículo 3 de este reglamento podrán autorizar el flete de vehículos particulares del personal o de su familia de acuerdo a la disponibilidad presupuestaria.
 
