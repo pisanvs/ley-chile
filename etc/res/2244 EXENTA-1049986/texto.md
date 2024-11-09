@@ -50,47 +50,11 @@ El presente documento fija el procedimiento para la inscripción, modificación,
 
 I.- DE LA SOLICITUD DE INSCRIPCIÓN, MODIFICACIÓN, RENOVACIÓN O ELIMINACIÓN DE SOLUCIONES CONSTRUCTIVAS.
 
-a. Las solicitudes de inscripción de Soluciones
+a. Las solicitudes de inscripción de Soluciones Constructivas a los Listados Oficiales ya singularizados, como las de modificación, renovación o eliminación de éstas, se deberán efectuar por las personas naturales o jurídicas interesadas en ello, mediante la correspondiente Ficha, la que éstos podrán obtener directamente en el MINVU o a través de la página web www.minvu.cl, u otra que se determine al efecto.
 
-Constructivas a los Listados Oficiales ya
+b. Las solicitudes precedentemente indicadas, conjuntamente con los antecedentes que las respalden, deberán ser ingresadas, en formato físico y/o digital, en la Oficina de Partes del MINVU, o por cualquier otra vía que éste determine.
 
-singularizados, como las de modificación,
-
-renovación o eliminación de éstas, se deberán
-
-efectuar por las personas naturales o jurídicas
-
-interesadas en ello, mediante la correspondiente
-
-Ficha, la que éstos podrán obtener directamente
-
-en el MINVU o a través de la página web
-
-www.minvu.cl, u otra que se determine al efecto.
-
-b. Las solicitudes precedentemente indicadas,
-
-conjuntamente con los antecedentes que las
-
-respalden, deberán ser ingresadas, en formato
-
-físico y/o digital, en la Oficina de Partes del
-
-MINVU, o por cualquier otra vía que éste
-
-determine.
-
-c. Permanentemente, la División Técnica de Estudio
-
-y Fomento Habitacional del MINVU, en adelante
-
-DITEC, recepcionará solicitudes de inscripción,
-
-modificación, renovación o eliminación de
-
-Soluciones Constructivas a los Listados
-
-Oficiales.
+c. Permanentemente, la División Técnica de Estudio y Fomento Habitacional del MINVU, en adelante DITEC, recepcionará solicitudes de inscripción, modificación, renovación o eliminación de Soluciones Constructivas a los Listados Oficiales.
 
 ### II. DE LOS REQUISITOS Y ANTECEDENTES
 
@@ -98,577 +62,151 @@ Los requisitos y antecedentes que deberán cumplirse y acompañarse respectivame
 
 ### 1. Listado Oficial de Soluciones Constructivas para Aislamiento Acústico
 
-a. Ficha de inscripción completada y firmada por el
+a. Ficha de inscripción completada y firmada por el solicitante o, en el caso de personas jurídicas, por su representante legal, incluyendo la fecha de la solicitud.
 
-solicitante o, en el caso de personas jurídicas,
+b. Tipo de Inscripción, donde se indicará si es una solución constructiva de marca o genérica.
 
-por su representante legal, incluyendo la fecha
+c. Los elementos constructivos verticales o inclinados deberán presentar ensayo aéreo, y los elementos constructivos horizontales deberán presentar ensayo aéreo y de impacto.
 
-de la solicitud.
+d. Individualización completa del profesional responsable que presenta el elemento constructivo ensayado, indicando nombre, dirección, comuna, RUT, fono, correo electrónico y firma.
 
-b. Tipo de Inscripción, donde se indicará si es una
+e. Institución, empresa o persona, indicando nombre o razón social, dirección, comuna, RUT, fono, correo electrónico y firma.
 
-solución constructiva de marca o genérica.
+f. Documentos adjuntos a la solicitud como folletos, planos, diagramas u otros de la Solución Constructiva.
 
-c. Los elementos constructivos verticales o
+g. Elemento constructivo, indicando nombre comercial (opcional) y número de registro de marca (opcional).
 
-inclinados deberán presentar ensayo aéreo, y los
+. Esquemas Planta, Corte y Detalle, acotados e indicando su escala.
 
-elementos constructivos horizontales deberán
+. Descripción del elemento constructivo, que debe contemplar a lo menos con: Espesor, Superficie, Relación largo - ancho, descripción estructura (materialidad y diseño), aislación o relleno interior, revestimiento o terminación, fijaciones y otras
 
-presentar ensayo aéreo y de impacto.
+características.
 
-d. Individualización completa del profesional
+h. Tipo de elemento y ensayo realizado:
 
-responsable que presenta el elemento
+. Elementos divisorios de unidades de vivienda verticales y horizontales presentarán un informe de ensayo o de inspección realizado conforme a las normas y entidades descritas en el artículo 4.1.6 de la Ordenanza General de Urbanismo y Construcciones, en adelante al ruido aéreo se ponderarán según ISO 717-1 y los resultados de ensayos al ruido impacto se ponderarán según ISO 717-2.
 
-constructivo ensayado, indicando nombre,
+. Elementos de fachada, elementos divisorios interiores y otros elementos constructivos podrán ser presentados de manera voluntaria y serán incorporados como anexo informativo. Dichos elementos presentarán informes de ensayo conforme a la serie NCh-ISO 10140.
 
-dirección, comuna, RUT, fono, correo electrónico
+i. Instrumentos o equipos utilizados:
 
-y firma.
+. Se deben adjuntar los certificados de calibración del sonómetro o equipo medidor del nivel de presión sonora conforme a los requerimientos para clase 1 según IEC 61672-1, de sus filtros de frecuencia conforme a los requisitos para clase 1 o superior según IEC 61260 y de su calibrador conforme a requisitos para clase 1 según IEC 60942, emitidos por un laboratorio competente.
 
-e. Institución, empresa o persona, indicando nombre
+. Para las fuentes de ruido aéreo y de impacto se debe adjuntar un documento que acredite que se cumple con los requisitos de directividad, masa, frecuencia y/o altura de caída, según se indica en las normas de ensayo respectivas.
 
-o razón social, dirección, comuna, RUT, fono,
+. Los certificados y documentos deben contar con una antigüedad no mayor a 2 años previos a la fecha de los ensayos.
 
-correo electrónico y firma.
+j. La descripción de los recintos se deberá llenar sólo para informes de inspección en terreno, nombrando los volúmenes y si éstos no son regulares, recinto emisor, recinto receptor, distanciamiento del elemento constructivo a vanos en recinto emisor y recinto receptor y existencia de cajas de distribución eléctrica u otras.
 
-f. Documentos adjuntos a la solicitud como
+k. El nivel de presión sonora de ruido de fondo, se debe indicar el valor en dB(A) entregado en el ensayo o en el informe de
 
-folletos, planos, diagramas u otros de la
+medición en terreno.
 
-Solución Constructiva.
+l. El valor único obtenido para el elemento ensayado mediante ruido aéreo y/o de impacto en los elementos verticales u horizontales, donde al aumentar el o los espesores de los elementos constructivos, manteniendo la misma configuración de la Solución Constructiva ensayada, y detallada en la Ficha, se estaría dando cumplimiento con los valores normativos.
 
-g. Elemento constructivo, indicando nombre
+m. Los resultados de los ensayos deberán ser declarados en bandas de frecuencia de tercio de octava.
 
-comercial (opcional) y número de registro de
+n. Individualización del profesional responsable que realizó el ensayo, señalando su nombre, laboratorio, dirección, comuna, RUT, fono, correo electrónico, firma y número de inscripción en registro nacional de laboratorios de control de calidad de la
 
-marca (opcional).
+construcción.
 
-. Esquemas Planta, Corte y Detalle, acotados
+o. Número y procedencia del informe de medición en terreno indicando su número, quién lo emitió y fecha.
 
-e indicando su escala.
-
-. Descripción del elemento constructivo, que
-
-debe contemplar a lo menos con: Espesor,
-
-Superficie, Relación largo - ancho,
-
-descripción estructura (materialidad y
-
-diseño), aislación o relleno interior,
-
-revestimiento o terminación, fijaciones y
-
-otras características.
-
-h. Tipo de ensayo realizado, aéreo y/o de impacto:
-
-. En Laboratorio de Control Técnico de
-
-Calidad de Construcción Según NCh 2864 (ISO
-
-140-1:97) índice de reducción acústica
-
-según NCh 2786 ponderado según ISO 717-1 y
-
-nivel de presión acústica de impacto
-
-normalizado según ISO 140-6, ponderado
-
-según ISO 717-2.
-
-. Informe de Inspección de Probeta índice
-
-de reducción acústica aparente según NCh
-
-2785 ponderado según ISO 717-1 y nivel de
-
-presión acústica de impacto normalizado
-
-según ISO 140-7, ponderado según ISO 717-2.
-
-. Informe de inspección en terreno
-
-índice de reducción acústica aparente según
-
-NCh 2785 ponderado según ISO 717-1 y nivel
-
-de presión acústica de impacto normalizado
-
-según ISO 140-7, ponderado según ISO 717-2.
-
-i. Instrumentos o equipos utilizados, se deberá
-
-indicar en el ensayo o en el informe de medición
-
-en terreno los instrumentos o equipos
-
-utilizados, junto con su marca, modelo,
-
-sonómetro señalando si es clase 0 o 1, número de
-
-serie y su certificado de última calibración.
-
-. El equipo generador de ruido deberá cumplir
-
-con los requisitos establecidos en la NCh
-
-2785 y/o en la NCh 2786, señalando marca o
-
-modelo del equipo y si se utilizó software
-
-para la generación de ruido.
-
-. Caja acústica, indicando si se trata de una
-
-caja hecha por autoconstrucción y señalando
-
-si está integrada al amplificador, marca o
-
-modelo del equipo y su potencia.
-
-. La máquina de impacto normalizada indicando
-
-su tipo o característica, y otros
-
-instrumentos.
-
-j. La descripción de los recintos se deberá llenar
-
-sólo para informes de inspección en terreno,
-
-nombrando los volúmenes y si éstos no son
-
-regulares, recinto emisor, recinto receptor,
-
-distanciamiento del elemento constructivo a
-
-vanos en recinto emisor y recinto receptor y
-
-existencia de cajas de distribución eléctrica u
-
-otras.
-
-k. El nivel de presión sonora de ruido de fondo, se
-
-debe indicar el valor en dB(A) entregado en el
-
-ensayo o en el informe de medición en terreno.
-
-l. El valor único obtenido para el elemento
-
-ensayado mediante ruido aéreo y/o de impacto en
-
-los elementos verticales u horizontales, donde
-
-al aumentar el o los espesores de los elementos
-
-constructivos, manteniendo la misma
-
-configuración de la Solución Constructiva
-
-ensayada, y detallada en la Ficha, se estaría
-
-dando cumplimiento con los valores normativos.
-
-m. Tanto el índice de reducción acústica (R'w + C),
-
-como el nivel de presión acústica de impacto
-
-normalizado (L'n), deberá ser declarado
-
-según el tipo de ensayo realizado, sea éste
-
-bandas de frecuencia de tercios de octava o en
-
-bandas de octavo.
-
-n. Individualización del profesional responsable
-
-que realizó el ensayo, señalando su nombre,
-
-laboratorio, dirección, comuna, RUT, fono,
-
-correo electrónico, firma y número de
-
-inscripción en registro nacional de laboratorios
-
-de control de calidad de la construcción.
-
-o. Número y procedencia del informe de medición en
-
-terreno indicando su número, quién lo emitió y
-
-fecha.
-
-p. Declaración del profesional responsable y/o del
-
-representante legal indicando su nombre y firma.
+p. Declaración del profesional responsable y/o del representante legal indicando su nombre y firma.
 
 2. Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico.
 
-a. Ficha de inscripción completada y firmada por el
+a. Ficha de inscripción completada y firmada por el solicitante o, en el caso de personas jurídicas, por su representante legal.
 
-solicitante o, en el caso de personas jurídicas,
+b. Tipo de solicitud referido si es una Inscripción o una renovación, de materiales aislantes - mediante su R100 o soluciones constructivas.
 
-por su representante legal.
+c. Individualización completa del solicitante que presenta el elemento constructivo ensayado, indicando nombre, dirección, comuna, RUT, región, fono y correo electrónico.
 
-b. Tipo de solicitud referido si es una Inscripción
+d. Institución o empresa que representa, indicando nombre empresa, nombre representante legal, dirección, comuna, RUT, región, fono y correo electrónico.
 
-o una renovación, de materiales aislantes -
+e. Referencias, donde se indique la ubicación de la fábrica. En el caso de ser un producto importado se debe señalar nombre del fabricante y dirección de bodega de almacenaje.
 
-mediante su R100 o soluciones constructivas.
+f. Producto, se debe señalar nombre del producto y su número de registro de marca.
 
-c. Individualización completa del solicitante que
+g. Comercialización del producto, donde se informe las empresas que comercializan el producto.
 
-presenta el elemento constructivo ensayado,
+h. Características del material, en que se debe señalar su densidad, su rotulado, la descripción de éste y su formato de presentación.
 
-indicando nombre, dirección, comuna, RUT,
+i. Documentos adjuntos a la solicitud como folletos, planos, diagramas u otros de la Solución Constructiva.
 
-región, fono y correo electrónico.
+j. En los casos en que se acrediten los valores de conductividad térmica y transmitancia térmica a través de ensaye, se deberán presentar a lo menos tres informes de ensaye realizados a tres muestras al azar, en un Laboratorio de Control Técnico de Calidad de Construcción inscrito en el registro del Minvu y en base a la normativa vigente.
 
-d. Institución o empresa que representa, indicando
+k. El valor que se informará en la ficha del Listado corresponderá al más desfavorable.
 
-nombre empresa, nombre representante legal,
+l. Las soluciones constructivas que se inscriban o que renueven su inscripción en el Listado, podrán informar de manera voluntaria el cumplimiento de las exigencias de comportamiento al fuego establecidas en el Capítulo 3 del Título 4º de la Ordenanza General de Urbanismo y Construcciones, OGUC. Dichas soluciones podrán adjuntar acreditación de resistencia al fuego, la que no podrá ser inferior a F15, determinada según lo indicado en el artículo 4.3.3 de la OGUC.
 
-dirección, comuna, RUT, región, fono y correo
+m. Todos los productos inscritos en el Listado deberán estar disponibles en el mercado nacional y se deberá entregar la información que respalde las alternativas de comercialización de éstos.
 
-electrónico.
+n. Tipo de Inscripción que pueden ser materiales aislantes - R100 o soluciones constructivas, según emplazamiento conforme a los artículos 4.1.10 y 4.1.10 bis de la OGUC.
 
-e. Referencias, donde se indique la ubicación de la
+o. Respecto a la inscripción de materiales aislantes y sus respectivos R100 según emplazamiento conforme a los artículos 4.1.10 y 4.1.10 bis de la OGUC.
 
-fábrica. En el caso de ser un producto importado
+- Tabla de espesores y R100 (según NCh 2251) del producto aplicado, donde se deberá adjuntar el nombre del producto, conductividad térmica del material aislante, de acuerdo con el número del ensayo, su institución emisora y fecha.
 
-se debe señalar nombre del fabricante y
+- Indicar en qué complejo constructivo es posible utilizar el producto, esto es, en piso ventilado, muro y/o techumbre, indicando el espesor comercial mínimo y R100 según emplazamiento conforme a los artículos 4.1.10 y 4.1.10 bis de la OGUC.
 
-dirección de bodega de almacenaje.
+p. Respecto a la inscripción de soluciones constructivas según emplazamiento conformea los artículos 4.1.10 y 4.1.10 bis de la OGUC.
 
-f. Producto, se debe señalar nombre del producto y
+. Declaración del profesionalresponsable, con su firma, donde indique el número de certificado de cálculo o ensayo presentado, fecha, institución emisora, fono y nombre del profesional que certificó.
 
-su número de registro de marca.
+. Indicar si la solución corresponde a piso ventilado, muro y/o techumbre.
 
-g. Comercialización del producto, donde se informe
+Descripción de la solución constructiva, especificando claramente la posición y tipos de materiales que componen la solución: espesor, marca, densidad, formato, señalando el tipo y disposición de puentes térmicos, además debe contemplar un corte obligatorio y un detalle opcional.
 
-las empresas que comercializan el producto.
+q. Tipo de cálculo, valores normativos, se debe indicar:
 
-h. Características del material, en que se debe
+a. Mediante certificado de ensaye otorgado por un Laboratorio de Control Técnico de Calidad de Construcción (se deberá adjuntar Informe de ensayo), y/o
 
-señalar su densidad, su rotulado, la descripción
+b. Mediante cálculo, el que deberá ser realizado de acuerdo a lo señalado en la norma NCh 853 (se deberá adjuntar la memoria de cálculo y copia del título profesional competente según OGUC).
 
-de éste y su formato de presentación.
+r. Se debe llenar una de las dos opciones de valores normativos:
 
-i. Documentos adjuntos a la solicitud como
+a. Único valor de Resistencia (Rt) y Transmitancia (U) térmica de la solución.
 
-folletos, planos, diagramas u otros de la
+b. En caso que se modifique el espesor del material aislante manteniendo el resto de la configuración constructiva, se deberá indicar su Resistencia (Rt), Transmitancia (U) térmica y espesor en mm. por cada emplazamiento conforme a los artículos 4.1.10 y 4.1.10 bis de la OGUC. Para esto se presentará certificado o memoria de cálculo, por cada espesor de material aislante distinto.
 
-Solución Constructiva.
+s. Acreditación comportamiento al fuego, cuando corresponda, mediante ensayo entregado por un Laboratorio de Control Técnico de Calidad de Construcción, mediante código del Listado Oficial de Comportamiento al Fuego o mediante informe de asimilación entregada por un Profesional Especialista. Para ambos casos deberán indicar número del ensayo o de asimilación, institución que lo realizó y código en el caso del Listado Oficial de Comportamiento al Fuego.
 
-j. En los casos en que se acrediten los valores de
-
-conductividad térmica y transmitancia térmica a
-
-través de ensaye, se deberán presentar a lo
-
-menos tres informes de ensaye realizados a tres
-
-muestras gemelas, en un Laboratorio de Control
-
-Técnico de Calidad de Construcción inscrito en
-
-el registro del MINVU y en base a la normativa
-
-vigente.
-
-k. El valor que se informará en la ficha del
-
-Listado corresponderá al más desfavorable.
-
-l. Las soluciones constructivas que se inscriban o
-
-renueven su inscripción en el Listado deben dar
-
-cumplimiento a las exigencias de comportamiento
-
-al fuego establecidas en el Capítulo 3 del
-
-## Título 4 — de la Ordenanza General de Urbanismo y
-
-Construcciones, y deberán adjuntar acreditación
-
-de resistencia al fuego, la que no podrá ser
-
-inferior a F15, determinada según lo indicado en
-
-el artículo 4.3.3 de la OGUC.
-
-m. Todos los productos inscritos en el Listado
-
-deberán estar disponibles en el mercado nacional
-
-y se deberá entregar la información que respalde
-
-las alternativas de comercialización de éstos.
-
-n. Tipo de Inscripción que pueden ser materiales
-
-aislantes - R100 o soluciones constructivas,
-
-según zona térmica.
-
-o. Respecto a la inscripción de materiales
-
-aislantes y sus respectivos R100 según zona
-
-térmica.
-
-. Tabla de espesores y R100 (según NCh 2251)
-
-del producto aplicado, donde se deberá
-
-adjuntar el nombre del producto,
-
-conductividad térmica del material
-
-aislante, de acuerdo al número del ensayo,
-
-su institución emisora y fecha.
-
-. Indicar en qué complejo constructivo es
-
-posible utilizar el producto piso
-
-ventilado, muro y/o techumbre, indicando el
-
-espesor comercial mínimo y R100 por zona
-
-térmica.
-
-p. Respecto a la inscripción de soluciones
-
-constructivas según zona térmica.
-
-. Declaración del profesional responsable,
-
-con su firma, donde indique el número de
-
-certificado de cálculo o ensayo presentado,
-
-fecha, institución emisora, fono y nombre
-
-del profesional que certificó.
-
-. Indicar si la solución corresponde a piso
-
-ventilado, muro y/o techumbre.
-
-. Descripción de la solución constructiva,
-
-especificando claramente la posición y
-
-tipos de materiales que componen la
-
-solución: Espesor, marca, densidad,
-
-formato, señalando el tipo y disposición de
-
-puentes térmicos, además debe contemplar un
-
-corte obligatorio y un detalle opcional.
-
-q. Tipo de cálculo, valores normativos, se debe
-
-indicar:
-
-a. Mediante certificado de ensaye otorgado por
-
-un Laboratorio de Control Técnico de
-
-Calidad de Construcción (se deberá adjuntar
-
-Informe de ensayo), y/o
-
-b. Mediante cálculo, el que deberá ser
-
-realizado de acuerdo a lo señalado en la
-
-norma NCh 853 (se deberá adjuntar la
-
-memoria de cálculo y copia del título
-
-profesional competente según OGUC).
-
-r. Se debe llenar una de las dos opciones de
-
-valores normativos:
-
-a. único valor de Resistencia (Rt) y
-
-Transmitancia (U) térmica de la solución.
-
-b. En caso que se modifique el espesor del
-
-material aislante manteniendo el resto de
-
-la configuración constructiva, se deberá
-
-indicar su Resistencia (Rt), Transmitancia
-
-(U) térmica y espesor en mm. por cada una
-
-de las 7 zonas. Para esto se presentará
-
-certificado o memoria de cálculo, por cada
-
-espesor de material aislante distinto.
-
-s. Acreditación comportamiento al fuego, mediante
-
-ensayo entregado por un Laboratorio de Control
-
-Técnico de Calidad de Construcción o mediante
-
-código del Listado Oficial de Comportamiento al
-
-Fuego, para ambos casos deberán indicar número
-
-del ensayo, institución que lo realizó y código
-
-en el caso del Listado Oficial de Comportamiento
-
-al Fuego.
-
-t. Declaración del profesional responsable, con su
-
-firma, donde indique el número de certificado de
-
-cálculo o ensayo presentado, fecha, institución
-
-emisora, fono y nombre del profesional que
-
-certificó el elemento constructivo detallados en
-
-la Ficha de inscripción para el cumplimiento de
-
-la Reglamentación Térmica, son el fiel reflejo
-
-de los resultados obtenidos, de acuerdo a las
-
-disposiciones de las normas técnicas señaladas
-
-en la OGUC.
+t. Declaración del profesional responsable, con su firma, donde indique el número de certificado de cálculo o ensayo presentado, fecha, institución emisora, fono y nombre del profesional qulos resultados obtenidos, de acuerdo a las disposiciones de las normas técnicas señaladas en la OGUC.
 
 ### 3. Listado Oficial de Comportamiento al Fuego
 
-a. Ficha de inscripción completada y firmada por el
+a. Ficha de inscripción completada y firmada por el solicitante o, en el caso de personas jurídicas, por su representante legal.
 
-solicitante o, en el caso de personas jurídicas,
+b. Individualización completa del profesional responsable que presenta el elemento constructivo ensayado o asimilado, indicando nombre, dirección, comuna, RUT y región.
 
-por su representante legal.
+c. Institución o empresa que representa, indicando nombre empresa, dirección, comuna, RUT y región.
 
-b. Individualización completa del profesional
+d. Nombre del elemento componente que se desea inscribir en el Listado.
 
-responsable que presenta el elemento
+e. Registro de marca, si corresponde, indicando el número de registro.
 
-constructivo ensayado, indicando nombre,
+f. Características de la solución que se acredita indicando su resistencia al fuego de acuerdo a la NCh 935-1.
 
-dirección, comuna, RUT y región.
+g. Referencias, donde se indique la ubicación de la fábrica. En el caso de ser un producto importado se debe señalar nombre del fabricante y dirección de bodega de almacenaje.
 
-c. Institución o empresa que representa, indicando
+h. Ubicación de edificios donde se pueda observar el producto, conjuntos habitacionales.
 
-nombre empresa, dirección, comuna, RUT y región.
+i. Documentos adjuntos a la solicitud como folletos, planos, diagramas u otros de la Solución presentada.
 
-d. Nombre del elemento componente que se desea
+j. Informe de ensayo, indicando Laboratorio de Control Técnico de Calidad de la Construcción inscrito en el Minvu, número del ensayo y fecha.
 
-inscribir en el Listado.
+k. Informe de asimilación, indicando el Profesional Especialista, número de asimilación y fecha. El informe de asimilación debe adjuntar los informes de ensayos de la solución base según NCh935/1, NCh935/2 o código en el caso de estar inscrito en el Listado Oficial de Comportamiento al Fuego.
 
-e. Registro de marca, si corresponde, indicando el
+l. Las soluciones constructivas incorporadas al Listado se realiza en base a la NCh935/1 Prevención de incendios en edificios - Ensayo de resistencia al fuego - Parte 1: Elementos de construcción en general, a la NCh935/2 Prevención de incendios en edificios - Ensayo de resistencia al fuego - Parte 2: Puertas y otros elementos de cierre, NCh935/3 Prevención de incendio en edificios - Ensayo de resistencia al fuego - Parte 3: Sistemas de sello de penetraciones y a la NCh935/4 Prevención de incendio en edificios - Ensayo de resistencia al fuego - Parte 4: Conductos de ventilación.
 
-número de registro.
+4.- Validez de Informes de Ensayos.
 
-f. Características de la solución que se acredita
+a. Los informes de ensayos que se presenten conjuntamente con las solicitudes de inscripción, modificación y/o renovación de Soluciones Constructivas, no podrán tener una antigüedad mayor a 5 años contados desde la fecha de su emisión. Asimismo, esto será exigible para los ensayos que se utilicen como base y respaldo para el desarrollo de asimilaciones y su solicitud de inscripción en el Listado de Comportamiento al Fuego.
 
-indicando su resistencia al fuego de acuerdo a
+b. Tratándose de solicitudes de renovación, siempre se deberán acompañar todos los antecedentes indicados precedentemente, según el tipo de solución que corresponda, los que deberán tener como máximo la antigüedad señalada en el literal anterior.
 
-la NCh 935-1.
-
-g. Referencias, donde se indique la ubicación de la
-
-fábrica. En el caso de ser un producto importado
-
-se debe señalar nombre del fabricante y
-
-dirección de bodega de almacenaje.
-
-h. Ubicación de edificios donde se pueda observar
-
-el producto, conjuntos habitacionales.
-
-i. Documentos adjuntos a la solicitud como
-
-folletos, planos, diagramas u otros de la
-
-Solución presentada.
-
-j. Certificado de Ensayo, indicando Laboratorio de
-
-Control Técnico de Calidad de Construcción
-
-inscrito en el MINVU, número del ensayo y fecha.
-
-k. Las soluciones constructivas incorporadas o
-
-Listado lo hacen en base a la NCh 935/1
-
-Prevención de incendio en edificios - Ensayo de
-
-resistencia al fuego - Parte 1: Elementos de
-
-construcción en general, y a la NCh 935/2
-
-Prevención de incendio en edificios - Ensayo de
-
-resistencia al fuego - Parte 2: Puertas y otros
-
-elementos de cierre.
-
-4.- Validez de Certificados y Ensayos de Laboratorio
-
-a. Los informes de ensayos de Laboratorio,
-
-certificados y demás antecedentes que se
-
-presenten conjuntamente con las solicitudes de
-
-Inscripción, modificación y/o renovación de
-
-Soluciones Constructivas, no podrán tener una
-
-antigüedad mayor a 3 años contados desde la
-
-fecha de su emisión.
-
-b. Tratándose de solicitudes de renovación, siempre
-
-se deberán acompañar todos los antecedentes
-
-indicados precedentemente, según el tipo de
-
-solución que corresponda, los que deberán tener
-
-como máximo la antigüedad señalada en el literal
-
-anterior.
-
-c. Con todo, el MINVU siempre estará facultado para
-
-solicitar la realización de nuevos ensayos,
-
-certificados o requerir cualquier otro
-
-antecedente.
+c. Con todo, el MINVU siempre estará facultado para solicitar la realización de nuevos ensayos, certificados o requerir cualquier otro antecedente.
 
 5.- Solicitudes de Eliminación
 
@@ -676,216 +214,34 @@ Tratándose de la eliminación de una Solución Constructiva incorporada a algun
 
 ### III. EVALUACIÓN DE LAS SOLICITUDES DE INSCRIPCIÓN, MODIFICACIÓN, RENOVACIÓN O ELIMINACIÓN DE SOLUCIONES CONSTRUCTIVAS
 
-a. Las solicitudes ingresadas de conformidad a lo
+a. Las solicitudes ingresadas de conformidad a lo establecido en el punto anterior, serán evaluadas por la DITEC.
 
-establecido en el punto anterior, serán
+b. Producto de la evaluación, dicha División podrá aprobar o rechazar la respectiva solicitud, o formular observaciones a ésta o a cualquiera de los antecedentes que se acompañen, pudiendo requerir la complementación o la corrección de éstos, o nuevos antecedentes. La DITEC devolverá a la persona natural o jurídica que los hubiere presentado, todos los antecedentes de las solicitudes rechazadas, las que podrán ser reingresadas para su evaluación.
 
-evaluadas por la DITEC.
+c. La DITEC dirigirá las observaciones que formule al correo electrónico que la persona natural o jurídica hubiere señalado en su solicitud, la que tendrá un plazo de 15 días hábiles para subsanar los reparos efectuados o acompañar los nuevos antecedentes que se requieran, plazo que se computará desde la fecha de despacho del correo electrónico antes señalado.
 
-b. Producto de la evaluación, dicha División podrá
+d. En el caso que, a juicio de la DITEC, las respuestas a las observaciones o los nuevos antecedentes aportados, no subsanen los reparos efectuados o éstos no sean suficientes para superar las observaciones realizadas, se otorgará a la persona interesada un nuevo plazo de 5 días hábiles para dar respuesta a las observaciones pendientes.
 
-aprobar o rechazar la respectiva solicitud, o
+e. En el evento que no se dé respuesta a las observaciones dentro del plazo dispuesto en la letra c precedente o no habiéndose dado por superada las observaciones y reparos formulados por la DITEC, se tendrá por desistida la solicitud, devolviéndose todos los antecedentes a la persona natural o jurídica que los hubiere presentado.
 
-formular observaciones a ésta o a cualquiera de
+f. Una vez aprobada la solicitud de que se trate o superadas las observaciones que se hubieren formulado, cuando corresponda, la DITEC comunicará al solicitante dicha circunstancia, oportunidad en la que le remitirá un borrador o maqueta de la solución que se incorporará, modificará o renovará, a fin que el solicitante, dentro del plazo que se indique, la revise y comunique a la DITEC su conformidad o eventuales observaciones.
 
-los antecedentes que se acompañen, pudiendo
+g. Una vez recepcionada la conformidad del solicitante o transcurrido el plazo que se hubiere dispuesto para ello, la DITEC emitirá la resolución que sancione la inscripción, modificación y/o renovación de la Solución Constructiva en el Listado Oficial que corresponda.
 
-requerir la complementación o la corrección de
+h. Las resoluciones indicadas en la letra anterior, como las solicitudes de inscripción, modificación, renovación o eliminación de Soluciones Constructivas y sus antecedentes, se encontrarán disponibles para consulta pública en la DITEC.
 
-éstos, o nuevos antecedentes.
-
-La DITEC devolverá a la persona natural o
-
-jurídica que los hubiere presentado, todos los
-
-antecedentes de las solicitudes rechazadas, las
-
-que podrán ser reingresadas para su evaluación.
-
-c. La DITEC dirigirá las observaciones que formule
-
-al correo electrónico que la persona natural o
-
-jurídica hubiere señalado en su solicitud, la
-
-que tendrá un plazo de 15 días hábiles para
-
-subsanar los reparos efectuados o acompañar los
-
-nuevos antecedentes que se requieran, plazo que
-
-se computará desde la fecha de despacho del
-
-correo electrónico antes señalado.
-
-d. En el caso que, a juicio de la DITEC, las
-
-respuestas a las observaciones o los nuevos
-
-antecedentes aportados, no subsanen los reparos
-
-efectuados o éstos no sean suficientes para
-
-superar las observaciones realizadas, se
-
-otorgará a la persona interesada un nuevo plazo
-
-de 5 días hábiles para dar respuesta a las
-
-observaciones pendientes.
-
-e. En el evento que no se dé respuesta a las
-
-observaciones dentro del plazo dispuesto en la
-
-letra c precedente o no habiéndose dado por
-
-superada las observaciones y reparos formulados
-
-por la DITEC, se tendrá por desistida la
-
-solicitud, devolviéndose todos los antecedentes
-
-a la persona natural o jurídica que los hubiere
-
-presentado.
-
-f. Una vez aprobada la solicitud de que se trate o
-
-superadas las observaciones que se hubieren
-
-formulado, cuando corresponda, la DITEC
-
-comunicará al solicitante dicha circunstancia,
-
-oportunidad en la que le remitirá un borrador o
-
-maqueta de la solución que se incorporará,
-
-modificará o renovará, a fin que el solicitante,
-
-dentro del plazo que se indique, la revise y
-
-comunique a la DITEC su conformidad o eventuales
-
-observaciones.
-
-g. Una vez recepcionada la conformidad del
-
-solicitante o transcurrido el plazo que se
-
-hubiere dispuesto para ello, la DITEC emitirá la
-
-resolución que sancione la inscripción,
-
-modificación y/o renovación de la Solución
-
-Constructiva en el Listado Oficial que
-
-corresponda.
-
-h. Las resoluciones indicadas en la letra anterior,
-
-como las solicitudes de inscripción,
-
-modificación, renovación o eliminación de
-
-Soluciones Constructivas y sus antecedentes, se
-
-encontrarán disponibles para consulta pública en
-
-la DITEC.
-
-i. La DITEC permanentemente actualizará cada uno de
-
-los listados de Soluciones Constructivas, los
-
-que serán publicados en la página web del MINVU
-
-o en otro medio que se determine al efecto.
+i. La DITEC permanentemente actualizará cada uno de los listados de Soluciones Constructivas, los que serán publicados en la página web del MINVU o en otro medio que se determine al efecto.
 
 IV.- DE LA VIGENCIA DE LAS SOLUCIONES CONSTRUCTIVAS.
 
-a. Las Soluciones Constructivas tendrán una
+a. Las Soluciones Constructivas tendrán una vigencia de 5 años, contados desde la fecha de la resolución que sancione su inscripción al listado respectivo, ello sin perjuicio de las facultades de la DITEC, que se indican en el punto siguiente.
 
-vigencia de 5 años, contados desde la fecha de
-
-la resolución que sancione su inscripción al
-
-listado respectivo, ello sin perjuicio de las
-
-facultades de la DITEC, que se indican en el
-
-punto siguiente.
-
-b. Transcurrido el plazo de vigencia señalado en la
-
-letra anterior, la inscripción de la solución,
-
-caducará automáticamente, siendo eliminada del
-
-listado respectivo, salvo que se hubiere
-
-solicitado su renovación de conformidad a lo
-
-dispuesto en el presente documento.
+b. Transcurrido el plazo de vigencia señalado en la letra anterior, la inscripción de la solución, caducará automáticamente, siendo eliminada del listado respectivo, salvo que se hubiere solicitado su renovación de conformidad a lo dispuesto en el presente documento.
 
 V.- DE LAS FACULTADES DE LA DITEC
 
-a. La DITEC, en el evento que detecte la presencia
+a. La DITEC, en el evento que detecte la presencia de antecedentes, certificados de ensayos de laboratorio o cualquier otra información falsa o adulterada, rechazará toda solicitud de inscripción, renovación o modificación y dispondrá, en el caso de soluciones inscritas, la eliminación de la o las Soluciones Constructivas del Listado en que hubiere sido incorporada.
 
-de antecedentes, certificados de ensayos de
+b. Si a juicio de la DITEC existen dudas razonables respecto de todos o algunos de los antecedentes que respaldaron la inscripción de una Solución Constructiva a alguno de los Listados Oficiales, el titular de ésta deberá acreditar que cumple con los requisitos y características que permitieron su inscripción al listado respectivo, para lo cual la DITEC podrá exigir, entre otros antecedentes, informes de ensayes emitidos por Laboratorios de Control Técnico de Calidad de Construcción.
 
-laboratorio o cualquier otra información falsa o
-
-adulterada, rechazará toda solicitud de
-
-inscripción, renovación o modificación y
-
-dispondrá, en el caso de soluciones inscritas,
-
-la eliminación de la o las Soluciones
-
-Constructivas del Listado en que hubiere sido
-
-incorporada.
-
-b. Si a juicio de la DITEC existen dudas razonables
-
-respecto de todos o algunos de los antecedentes
-
-que respaldaron la inscripción de una Solución
-
-Constructiva a alguno de los Listados Oficiales,
-
-el titular de ésta deberá acreditar que cumple
-
-con los requisitos y características que
-
-permitieron su inscripción al listado
-
-respectivo, para lo cual la DITEC podrá exigir,
-
-entre otros antecedentes, informes de ensayes
-
-emitidos por Laboratorios de Control Técnico de
-
-Calidad de Construcción.
-
-c. Así mismo, en caso de que, con posterioridad a
-
-la fecha que se aprobare una determinada
-
-Solución Constructiva, se modificaren y/o se
-
-dictaren nuevas normas legales, reglamentarias o
-
-técnicas que la afecten, el titular de ésta
-
-deberá, dentro de los 120 días hábiles
-
-siguientes, actualizar todos los antecedentes
-
-que permitieron su inclusión en el listado
-
-correspondiente.
+c. Así mismo, en caso de que, con posterioridad a la fecha que se aprobare una determinada Solución Constructiva, se modificaren y/o se dictaren nuevas normas legales, reglamentarias o técnicas que la afecten, el titular de ésta deberá, dentro de los 120 días hábiles siguientes, actualizar todos los antecedentes que permitieron su inclusión en el listado correspondiente.
