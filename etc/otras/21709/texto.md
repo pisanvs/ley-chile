@@ -1,0 +1,19 @@
+LEY NÚM. 21.709
+
+ESTABLECE REGLAS DE IGUALDAD DE GÉNERO PARA LA DESIGNACIÓN DE REPRESENTANTES DEL SECTOR PESQUERO ARTESANAL EN LOS COMITÉS DE MANEJO ESTABLECIDOS EN LA LEY GENERAL DE PESCA Y ACUICULTURA
+
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley que tuvo su origen en una moción de las diputadas Ana María Bravo Castro, María Candelaria Acevedo Sáez, Danisa Astudillo Peiretti, Daniella Cicardini Milla, Karen Medina Vásquez, Carla Morales Maldonado, Natalia Romero Talguia, Carolina Tello Rojas y de los diputados Tomás De Rementería Venegas y Daniel Manouchehri Lobos,
+
+Proyecto de ley:
+
+#### Artículo único
+
+Sustitúyese el inciso segundo del artículo 8 de la ley Nº 18.892, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por el siguiente:
+
+"Para la elaboración de la propuesta, implementación, evaluación y adecuación, si corresponde, del plan de manejo, la Subsecretaría constituirá un Comité de Manejo, que tendrá el carácter de asesor y será presidido por el funcionario que el Subsecretario designe al efecto. Dicho Comité estará integrado por no menos de dos ni más de ocho representantes de los pescadores artesanales, a quienes sólo se les exigirá estar inscritos en el Registro Pesquero Artesanal, al menos uno de los cuales deberá ser un representante de las actividades conexas de la pesca artesanal inscrito en el Registro de Actividades Conexas. Deberán provenir de regiones distintas en caso de que haya más de una involucrada. Sin perjuicio de lo dispuesto en el artículo 1° D, y con la finalidad de garantizar el equilibrio de género, ni los integrantes hombres ni las integrantes mujeres electas que representen al sector pesquero artesanal podrán superar los dos tercios del total respectivo. Con todo, si por aplicación de la proporción antedicha la representación de hombres respecto de mujeres, o viceversa, resulta un número decimal menor a uno, se asegurará la participación de al menos un representante de los pescadores artesanales hombre o mujer en la instancia respectiva, y primará en todo caso, la proporción mínima de un tercio. En el proceso de nominación de los representantes antes referidos sólo podrán participar los pescadores artesanales inscritos en la pesquería objeto del respectivo plan de manejo. El mencionado Comité estará integrado, además, por tres representantes del sector pesquero industrial que cuenten con algún título regulado en la ley sobre dicha pesquería, quienes deberán provenir de regiones o unidades de pesquería distintas en caso de que haya más de una involucrada; por un representante de las plantas de proceso de dicho recurso, y por un representante del Servicio. Un reglamento determinará la forma de designación de los integrantes de dicho Comité, el cual deberá considerar criterios que permitan disminuir las brechas de participación de las mujeres en su conformación. Se informará en el mes de septiembre de cada año, a la Comisión de Mujeres y Equidad de Género de la Cámara de Diputados y a la Comisión de la Mujer y Equidad de Género del Senado, respecto de la aplicación del equilibrio de género en la integración del Comité de Manejo.".".
+
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+
+Santiago, 6 de noviembre de 2024.- GABRIEL BORIC FONT, Presidente de la República.- Nicolás Grau Veloso, Ministro de Economía, Fomento y Turismo.- Antonia Orellana Guarello, Ministra de la Mujer y la Equidad de Género.
+
+Lo que transcribe para su conocimiento.- Saluda atentamente a Usted, Julio Salas Gutiérrez, Subsecretario de Pesca y Acuicultura.
