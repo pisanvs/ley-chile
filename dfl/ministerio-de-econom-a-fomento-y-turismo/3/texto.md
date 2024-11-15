@@ -758,11 +758,19 @@ El precio deberá indicarse de un modo claramente visible que permita al consumi
 
 Igualmente se enunciarán las tarifas de los establecimientos de prestación de servicios.
 
-Cuando se exhiban los bienes en vitrinas, anaqueles o estanterías, se deberá indicar allí sus respectivos precios. La misma información, además de las características y prestaciones esenciales de los productos o servicios, deberá ser indicada en los sitios de Internet en que los proveedores exhiban los bienes o servicios que ofrezcan y que cumplan con las condiciones que determine el reglamento.
+Cuando se exhiban los bienes en vitrinas, anaqueles o estanterías, se deberá indicar allí sus respectivos precios. La misma información, además de las características y prestaciones esenciales de los productos o servicios, deberá ser indicada en los sitios de Internet y aplicaciones en que los proveedores exhiban los bienes o servicios que ofrezcan y que cumplan con las condiciones que determine el reglamento.
 
 El monto del precio deberá comprender el valor total del bien o servicio, incluidos los impuestos correspondientes.
 
 Cuando el consumidor no pueda conocer por sí mismo el precio de los productos que desea adquirir, los establecimientos comerciales deberán mantener una lista de sus precios a disposición del público, de manera permanente y visible.
+
+Sin perjuicio de lo establecido precedentemente, los proveedores de servicios de telecomunicaciones deberán informar, a su costo, la existencia de planes que sean objetivamente mejores para el usuario, esto es, uno o más servicios al mismo precio o a un precio inferior, o los mismos servicios a un precio inferior.
+
+Esta comunicación se deberá efectuar en la boleta una vez que el plan haya entrado en servicio. También podrá realizarse de forma complementaria a través de correo electrónico al titular, previo consentimiento de este último, sin perjuicio de aquellos usuarios que han ejercido respecto de los proveedores de servicios de telecomunicaciones el derecho de suspensión de comunicación publicitaria.
+
+Los proveedores de servicios de telecomunicaciones deberán mantener actualizada la información sobre planes y precios en su página web y aplicaciones.
+
+Los referidos proveedores deberán promover todas las condiciones para que el usuario pueda ejercer su derecho de cambio de plan, y no podrán cobrar multa o recargo por ello.
 
 #### Artículo 31
 
