@@ -18,9 +18,11 @@ A.- SUBDIRECTOR DE RECURSOS FÍSICOS Y FINANCIEROS:
 
 1.- Aprobar, mediante resolución exenta el presupuesto, traspasos y modificaciones a nivel de ítemes, asignaciones y subasignaciones de los subtítulos aprobados por el Servicio de Salud al Establecimiento.
 
-2.- A partir de operaciones que involucren montos parciales y/o totales menores a 300 UTM, comprar, vender y permutar toda clase de servicios asistenciales, servicios no asistenciales y bienes muebles; ceder y adquirir derechos sobre los mismos, incluyendo los valores mobiliarios, fijando precios, formas de pago y de entrega y toda clase de condiciones y modalidades, percibir o pagar precio, recibir o entregar la cosa adquirida y ejecutar todos los derechos que al comprador y al vendedor otorgan las leyes; convenir pactos accesorios, como el de retroventa y otros similares.
+2.- A partir de operaciones que involucren montos parciales y/o totales iguales o mayores a 100 UTM e inferiores a 300 UTM comprar, vender y permutar toda clase de servicios asistenciales, servicios no asistenciales y bienes muebles; ceder y adquirir derechos sobre los mismos, incluyendo los valores mobiliarios, fijando precios, formas de pago y de entrega y toda clase de condiciones y modalidades: percibir o pagar precio, recibir o entregar la cosa adquirida y ejecutar todos los derechos que al comprador y al vendedor otorgan las leyes; convenir pactos accesorios, como el de retroventa y otros similares.
 
-Se incluye en esta facultad el calificar, mediante resolución fundada, casos de emergencia, urgencia o imprevisto que autoricen el trato o contratación directa, de conformidad a la ley Nº 19.886 y su Reglamento.
+Se incluye en esta facultad el calificar, mediante resolución fundada, casos de emergencia, urgencia o imprevisto que autoricen el trato o contratación directa, de conformidad a la ley Nº 19.886 y su Reglamento, en montos parciales y/o totales inferiores a 300 UTM.
+
+Asimismo, se incluye en esta facultad la suscripción de todo trato o contratación directa, cualquiera sea su monto o causal invocada (incluso montos parciales y/o totales inferiores a 100 UTM).
 
 3.- A partir de operaciones que involucren montos parciales y/o totales menores de 300 UTM, tomar en arrendamiento toda clase de bienes muebles e inmuebles y de servicios materiales e inmateriales, cumpliendo las exigencias legales a que estén sometidos estos contratos, pudiendo pactar rentas, precios y honorarios, plazos de cualquier extensión, condiciones y otras modalidades.
 
