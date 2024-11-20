@@ -18,7 +18,7 @@ Del Servicio de Bienestar
 
 #### Artículo 1º
 
-El Servicio de Bienestar del Servicio de Tesorerías, en adelante "El Servicio", tiene como objeto contribuir al bienestar del afiliado y sus cargas legales y aportar a su calidad de vida.
+El Servicio de Bienestar del Servicio de Tesorerías, en adelante "El Servicio", tiene como objeto contribuir al bienestar del afiliado y sus cargas legales y aportar a su calidad de vida. Excepcionalmente podrá contemplar como beneficiarios/as a la madre, padre o conviviente civil, de acuerdo con las disponibilidades presupuestarias y solo para los beneficios indicados en los artículos 11 y 14 del Reglamento de Bienestar.
 
 El referido Servicio se regirá por el artículo 134 de la ley Nº 11.764, la ley Nº 17.538, el artículo 24 de la ley Nº 16.395, el DS Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante "El Reglamento General" y por el presente Reglamento.
 
@@ -42,11 +42,7 @@ El/La Jefe/a del Servicio de Bienestar actuará como secretario/a del Consejo, t
 
 #### Artículo 3º
 
-Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20 del Reglamento General:
-
-a) Ser afiliado del Servicio con una antigüedad no inferior a dos años, y
-
-b) Tener su residencia en Santiago.
+Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20 del reglamento general, ser afiliado del Servicio con una antigüedad no inferior a seis meses.
 
 #### Artículo 4º
 
@@ -87,6 +83,10 @@ g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones vo
 h) Con los demás bienes o recursos que el Servicio obtenga a cualquier título.
 
 i) Con el producto de la inversión de los excedentes estacionales de caja, del Servicio, en conformidad a lo dispuesto en los incisos segundo y tercero del artículo 3 del DL Nº 1.056, de 1975, y artículo 32 de la ley Nº 18.267.
+
+j) El Servicio de Bienestar podrá asumir la administración de todas aquellas instalaciones destinadas al uso de sus afiliados para cumplir los fines indicados en los artículos precedentes, tales como centros vacacionales, casinos, jardín infantil/sala cuna y servicios dependientes, quedando excluida de tal administración la facultad de contratar personal, la que corresponde al jefe superior de la institución; como también la responsabilidad de proveer los bienes y servicios necesarios para su funcionamiento, la que corresponde a la Tesorería General de la República.
+
+Las utilidades obtenidas en estas administraciones podrán ser utilizadas directamente, en el mejoramiento de los servicios otorgados a los funcionarios de la Tesorería General de la República, como también en la realización de actividades de carácter recreativo, cultural y social. Así también, el Servicio de Bienestar tendrá la facultad de disponer de las utilidades que se obtuvieren en las administraciones señaladas en el párrafo anterior, para ser utilizadas y distribuidas en el otorgamiento de beneficios médicos, subsidios y beneficios facultativos.
 
 #### Artículo 8º
 
@@ -194,6 +194,10 @@ o) Premio a la permanencia en Bienestar: Se concederá una asignación como reco
 
 p) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiese otorgado. No obstante lo anterior, el Servicio de Bienestar podrá contratar un instrumento o implementar un mecanismo como seguro de desgravamen en beneficio de sus afiliados, con cargo al solicitante del préstamo.
 
+q) Ayuda social: El Servicio de Bienestar podrá otorgar una asignación en dinero o especies al afiliado/a que cuente con una condición de salud que requiera tratamiento médico o terapia especializada, adquisición de insumos médicos sin cobertura de sistema de salud, casos de violencia intrafamiliar u otro tipo de violencia, internación por adicciones, estos casos deben ser debidamente calificados por una asistente social.
+
+Se considerará como requisito la comprobación y calificación de los hechos por parte de la jefatura del Servicio de Bienestar.
+
 El monto de estas ayudas será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29 del decreto Nº 28, del Ministerio del Trabajo y Previsión Social, que aprueba el Reglamento General para los Servicios de Bienestar fiscalizados por la Superintendencia de Seguridad Social.
 
 #### Artículo 12º
@@ -219,6 +223,8 @@ b) Préstamos de auxilio: Se otorgarán ante problemas económicos graves y otra
 c) Préstamos escolares: Se otorgarán una vez al año y estarán orientados a solventar gastos de matrícula, útiles escolares y vestuario escolar de los hijos estudiantes que sean causantes de asignación familiar o bien para los propios afiliados.
 
 d) Préstamos habitacionales: Se podrán otorgar por una sola vez por la misma causal, con el objeto de completar ahorro previo, cuota al contado de saldo de operaciones de propiedades y/o pagar gastos notariales, de inscripción, impuestos de transferencias, comisiones u otros, por adquisición de un bien inmueble para el afiliado. Además, se otorgarán para obras de reparación, ampliación o terminación de una vivienda que ocupe habitualmente el afiliado o su grupo familiar, así como para la cancelación de dividendos que el afiliado demuestre mantiene con pagos atrasados.
+
+e) Préstamos de Vacaciones: Anualmente el afiliado podrá solicitar este préstamo cuando haga uso de sus vacaciones (Período de 10 días o más). Los montos y plazos serán definidos anualmente por el Consejo de Administración.
 
 El monto máximo de los préstamos antes señalados será determinado anualmente por el Consejo Administrativo y su reintegro deberá efectuarse en un plazo de hasta 36 meses respecto de las letras
 
@@ -254,7 +260,7 @@ a) Financiar eventos culturales, deportivos, recreativos, festividades navideña
 
 b) Asesorar y otorgar ayuda a las organizaciones que con tales fines se formen en la institución, y que sean de carácter social, deportivo, recreativo y/o cultural, que beneficien directamente a sus afiliados.
 
-c) El Servicio podrá celebrar y financiar el día de la mujer, el día de la madre, del padre, del niño, de fiestas patrias y de la secretaria, para los afiliados y/o sus cargas legales, siempre que sus disponibilidades presupuestarias lo permitan.
+c) El Servicio podrá celebrar y financiar el día de la mujer, el día de la madre, del padre, del niño, de fiestas patrias, día de la secretaría, aniversario institucional, aniversario Servicio de Bienestar, celebración año nuevo, celebración día de las profesiones (día del administrador público, asistente social, otros), para los afiliados y/o sus cargas legales, siempre que sus disponibilidades presupuestarias lo permitan.
 
 ## Título V
 
@@ -262,7 +268,7 @@ Disposiciones generales
 
 #### Artículo 18º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar del primer día del cuarto mes contado desde la fecha de la respectiva afiliación y a partir del primer día del séptimo mes en casos de reafiliaciones. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar del primer día del mes de afiliación y a partir del primer día del segundo mes en casos de reafiliaciones; y en caso de tercera o más veces de reafiliación, a partir del primer día del séptimo mes. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente reglamento. En caso de uso de convenios podrá utilizar desde el primer día del mes de afiliación siempre y cuando sea descuento directo o pago con transferencia, en caso de descuento por planilla podrán solicitarse tres meses después que el afiliado se incorpore al Servicio.
 
 #### Artículo 19º
 
