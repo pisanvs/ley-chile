@@ -56,9 +56,11 @@ Los representantes titulares y suplentes de los afiliados en el Consejo Administ
 
 #### Artículo 5°
 
-El Consejo Administrativo sesionará ordinariamente, a lo menos, una vez al mes, en el día y hora que fijen sus miembros en la primera sesión del año. Las extraordinarias, cada vez que las convoque el Presidente, de oficio o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo o por acuerdo de éste.
+El Consejo Administrativo sesionará ordinariamente, a lo menos una vez al mes, durante los últimos quince días del mes. Las asambleas extraordinarias, cada vez que las convoque el/la Presidente/a, de oficio o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo o por acuerdo de éste.
 
-Las citaciones a las sesiones serán cursadas por el Jefe del Servicio, en su calidad de secretario, por escrito y con tres (3) días de antelación a lo menos, excepto para las sesiones extraordinarias, las que podrán ser avisadas, incluso telefónicamente, el día anterior a su realización, a lo menos con 24 horas de anticipación.
+Las citaciones a las sesiones serán cursadas por la Jefatura del Servicio de Bienestar, en su calidad de Secretario/a por escrito y con tres (3) días de antelación a lo menos, excepto para las sesiones extraordinarias, las que podrán ser avisadas incluso telefónicamente, considerando cualquier medio que permitan su adecuado registro, el día anterior a su realización, a lo menos con 24 horas de anticipación.
+
+Las sesiones, tanto ordinarias como extraordinarias, podrán realizarse de manera presencial y telemática, a fin de que las y los Consejeros representantes de afiliadas y afiliados de regiones puedan participar de las mismas.
 
 ## Título Tercero
 
@@ -150,23 +152,13 @@ Otras Prestaciones
 
 El Servicio podrá otorgar las siguientes ayudas, en dinero o especies, no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Matrimonio: Se concederá una ayuda al afiliado que acredite haber contraído matrimonio. Si ambos contrayentes estuvieren afiliados al Servicio de Bienestar, se otorgará este beneficio a cada uno de ellos.
+a) Matrimonio o Acuerdo Unión Civil: se concederá una ayuda al/a la afiliado/a que acredite haber contraído Matrimonio o Acuerdo de Unión Civil. Si ambos contrayentes estuvieran afiliados/as al Servicio de Bienestar, se otorgará a cada uno/una de ellos/ellas.
 
-b) Natalidad: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieran afiliados al Servicio de Bienestar, el beneficio corresponderá sólo a la madre. En caso de nacimientos múltiples, el beneficio se otorgará por cada hijo nacido.
+b) Natalidad: se concederá una ayuda por el nacimiento o adopción de cada hijo/a, si ambos padres o progenitores estuvieran afiliados/as al Servicio de Bienestar, el beneficio corresponderá sólo a la madre o uno/una de los progenitores. En caso de nacimientos o adopciones múltiples, el beneficio se otorgará para cada uno/una de los hijos/as.
 
-c) Lactancia: Se concederá una ayuda por alimentos para los hijos lactantes del afiliado hasta los dos (2) años de edad, consistente en una bonificación por la compra de leche hasta 2 kilos mensuales, para lo cual el afiliado deberá presentar la correspondiente boleta de compraventa.
+c) Lactancia: se concederá una ayuda por alimentos para las y los hijos lactantes de la y el afiliado hasta los dos (2) años de edad, consistente en una bonificación por la compra de leche hasta dos (2) kilos mensuales, para lo cual, la o el afiliado, deberá presentar la correspondiente boleta de compraventa. El monto a bonificar será definido según la disponibilidad presupuestaria y previo acuerdo del Consejo Administrativo del Servicio de Bienestar
 
-d) Mortuoria: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
-
-En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
-
-1º A la persona designada expresamente para tales efectos;
-
-2º Al cónyuge sobreviviente;
-
-3º A los hijos;
-
-4º A la persona que acredite haber efectuado los gastos del funeral.
+d) Cuota Mortuoria: se concederá una ayuda económica a la o el afiliado por el fallecimiento de padre, madre o hijas e hijos, incluido el mortinato a partir del quinto mes de gestación.
 
 e) Social: Se concederá una ayuda al afiliado que acredite un estado de necesidad extraordinaria y, para lo cual, el Consejo Administrativo podrá requerir, previo a su otorgamiento, los informes o certificaciones que estime necesarios para ello;
 
@@ -238,9 +230,7 @@ Los plazos indicados en el inciso anterior podrán ser reducidos a solicitud del
 
 #### Artículo 15º
 
-Para conceder un préstamo, el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de un codeudor solidario que sea funcionario de planta del Ministerio y se encuentre afiliado al Servicio de Bienestar, no pudiendo tratarse de un directivo de exclusiva confianza. La solvencia de dicho codeudor será calificada por el Consejo Administrativo.
-
-Para solicitar cualquier tipo de préstamo, el afiliado deberá tener por los menos seis (6) meses de afiliación ininterrumpida al Servicio.
+Para conceder un préstamo, el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de garantía de, un/una codeudor/a solidario/a que sea de planta del Ministerio o en su defecto 2 codeudores/as solidarios/as en calidad contrata, que posean contrato anual, en ambos casos deben estar afiliados/as al Servicio de Bienestar. El periodo de devolución del préstamo, debe ser dentro del periodo del contrato de los/as codeudores/as, no puede tratarse de un directivo de exclusiva confianza, la solvencia de dicho/a codeudor/a, será calificada por el Consejo Administrativo. Para solicitar cualquier tipo de préstamo, el/la afiliado/a deberá tener, por lo menos, seis (6) meses de afiliación ininterrumpida al Servicio de Bienestar.
 
 #### Artículo 16°
 
@@ -252,7 +242,7 @@ Para solicitar un nuevo préstamo de aquellos señalados por las letras a), b), 
 
 #### Artículo 17°
 
-Las cuotas que el afiliado adeude al Servicio por préstamos o por concepto de crédito de casas comerciales, no podrán en ningún caso exceder del 30% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que la o el afiliado adeude al Servicio de Bienestar por préstamo o por concepto de créditos de casas comerciales, no podrá exceder en ningún caso al 15% de la remuneración promedio en base a las últimas tres (3) rentas imponibles para pensiones del/de la afiliado/a o de la pensión, según corresponda.
 
 ## Título Quinto
 
@@ -271,6 +261,18 @@ Corresponderá al Consejo Administrativo determinar los procedimientos o documen
 El derecho a solicitar los beneficios que concede el Servicio caducará luego de transcurrido el plazo de ocho (8) meses, contado desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de funciones.
+
+#### Artículo 21°
+
+El Servicio de Bienestar del Ministerio de Bienes Nacionales, a través de la autoridad superior de la Institución, podrá celebrar acuerdos o convenios de colaboración con instituciones públicas y/o privadas, con el fin de contar con mayores beneficios para sus afiliadas y afiliados, siempre y cuando se cuente con la aprobación y previa evaluación del Consejo Administrativo del Servicio de Bienestar.
+
+El documento que resulte de los acuerdos y/o convenios deberá ser firmado por el Jefe Superior de la Institución, asimismo, la Jefatura del Servicio de Bienestar deberá asegurar el registro y la actualización de los mismos.
+
+En la eventualidad de que cambien las condiciones, o bien, de que una de las partes no dé cumplimiento de lo establecido en los acuerdos o convenios de colaboración, la Jefatura del Servicio de Bienestar deberá informar a sus afiliadas y afiliados y al Consejo Administrativo, con el objetivo de definir las acciones a seguir, o bien, de evaluar su continuidad.
+
+#### Artículo 22°
+
+La Jefatura del Servicio de Bienestar deberá comunicar, mediante una cuenta pública anual, los estados financieros, datos y descripciones de lo que se ha realizado durante el año, los factores que han determinado los logros alcanzados y aquellos que han incidido en un menor cumplimiento de los objetivos y compromisos definidos para la gestión.
 
 #### Artículo Transitorio
 
