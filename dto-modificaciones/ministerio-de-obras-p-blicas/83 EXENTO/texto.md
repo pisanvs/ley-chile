@@ -24,9 +24,7 @@ Decreto:
 
 1.2 Elimínase el acápite 9° del numeral 3°, Coquimbo, que declara camino público el sistema vial urbano que interconecta la Ruta 41CH en La Serena con la Ruta 43, desde el límite urbano oriente hasta la Ruta 43, a través de camino San Ramón.
 
-1.3 Reemplázase el acápite 2° del numeral 3°, Coquimbo, por lo siguiente:
-
-El tramo urbano de la Ruta 43, desde calle Mirador Norte hasta límite urbano sur, a través de camino a Ovalle.
+1.3 Eliminado.
 
 2.- Modifícase el decreto N° 2.214, del 25 de octubre de 2010, del Ministro de Obras Públicas, en el siguiente sentido:
 

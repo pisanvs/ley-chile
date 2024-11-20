@@ -72,7 +72,7 @@ Coquimbo:
 
 * El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite urbano Sur; a través de Carretera Panamericana.
 
-* El tramo urbano de la Ruta 43, desde calle Mirador Norte hasta límite urbano sur, a través de camino a Ovalle.
+* El tramo urbano de la Ruta D-409, desde avenida La Cantera hasta límite urbano sur; a través de: Ovalle - Serena Ruta 43.
 
 * El tramo urbano de la Ruta D-35, desde Ruta 5 hasta Ruta 43; a través de Av. La Cantera.
 
