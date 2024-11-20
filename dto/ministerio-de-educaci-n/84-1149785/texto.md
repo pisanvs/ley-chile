@@ -60,7 +60,7 @@ Dicha evaluación, se efectuará con base en los estándares indicativos de dese
 
 El Sistema, será ejecutado por la Agencia de Calidad de la Educación, en adelante, "la Agencia de Calidad", en uso de sus atribuciones y en coordinación con el Ministerio de Educación, que ejercerá su función de órgano rector, especialmente a través de la Subsecretaría de Educación Parvularia.
 
-El Sistema se aplicará a los establecimientos de educación parvularia subvencionados o que reciben aportes regulares del Estado.
+El Sistema se aplicará a los establecimientos de educación parvularia subvencionados o que reciben aportes regulares del Estado, que se encuentren reconocidos oficialmente de conformidad a lo dispuesto en el artículo 46 del decreto con fuerza de ley N° 2 de 2009 del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1 de 2005.
 
 ## Título II
 
