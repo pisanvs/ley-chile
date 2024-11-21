@@ -554,7 +554,7 @@ f) Federación deportiva, formada por clubes, asociaciones locales o asociacione
 
 g) Federación Deportiva Nacional: Es aquella Federación Deportiva que cumple con los siguientes requisitos:
 
-1.- Estar afiliada a una Federación Deportiva Internacional reconocida por el Comité Olímpico Internacional, o bien, estar reconocida como tal por resolución fundada de la Dirección Nacional del Instituto, de acuerdo al interés público comprometido y al grado de implantación de la disciplina respectiva en el país.
+1.- Estar afiliada a una Federación Deportiva Internacional reconocida por el Comité Olímpico Internacional o por el Comité Paralímpico Internacional, o bien, estar reconocida como tal por resolución fundada de la Dirección Nacional del Instituto, de acuerdo al interés público comprometido y al grado de implantación de la disciplina respectiva en el país.
 
 2.- Estar integrada por clubes o asociaciones que tengan asiento en más de cinco regiones del país.
 
@@ -565,6 +565,8 @@ g) Federación Deportiva Nacional: Es aquella Federación Deportiva que cumple c
 El Director Nacional del Instituto podrá, mediante resolución fundada, eximir del cumplimiento de los requisitos establecidos en los números 2 y 3 a aquellas Federaciones cuyos deportes tengan un marcado acento local. Dicha resolución determinará el número de regiones o provincias en que deberán estar constituidas tales Federaciones y la cantidad mínima de clubes que deberán integrarlas.
 
 Estas federaciones estarán obligadas a incluir en su nombre la abreviatura "FDN".
+
+Si se trata de federaciones de deporte paralímpico, el Director Nacional del Instituto podrá, mediante resolución fundada, eximirlas del cumplimiento de los requisitos establecidos en los números 2, 3 y 4 de esta letra. En dicha resolución determinará el número de regiones o provincias en que deberán estar constituidas tales federaciones y la cantidad mínima de clubes que deberán integrarlas. Para lo anterior deberá considerar las necesidades de desarrollo de la modalidad paralímpica.
 
 h) Confederación deportiva, formada por dos o más federaciones para fines específicos, permanentes o circunstanciales;
 
@@ -577,6 +579,34 @@ Las organizaciones deportivas deberán respetar la posición religiosa y políti
 Las organizaciones deportivas, en el momento de optar a beneficios o recursos públicos de cualquier naturaleza u origen, deberán acreditar haber adoptado el protocolo elaborado por el Ministerio del Deporte para la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato.
 
 > **Nota.** Los artículos tercero y cuarto transitorios de la ley 21605, publicada el 14.10.2023, disponen que el registro de sanciones que incorpora el literal a) del numeral 2 del artículo 1 de la citada ley al inciso cuarto del presente artículo, comenzará a regir dentro del plazo de treinta días hábiles contado desde la publicación del reglamento a que hace referencia la misma disposición, el que deberá dictarse dentro de sesenta días siguientes a la publicación de la mencionada ley.
+
+#### Artículo 32 bis
+
+Las organizaciones deportivas indicadas en los literales f) y g) del inciso tercero del artículo 32, y en los artículos 33 y 33 bis, y las donatarias de la franquicia tributaria de la presente ley, que reciban anualmente transferencias de fondos públicos o donaciones con fines deportivos que asciendan a una cantidad igual o superior a doscientas cincuenta unidades tributarias mensuales, deberán mantener a disposición permanente del público a través de sus sitios web, en forma completa y actualizada, de conformidad a lo que indique el reglamento, la siguiente información:
+
+a) Individualización de las transferencias de fondos públicos recibidos, con indicación del monto y el objeto de cada transferencia.
+
+b) Copia íntegra de la resolución o decreto que aprueba la respectiva transferencia.
+
+c) Copia del informe de rendición de cuentas y sus respaldos, presentados a la autoridad administrativa correspondiente.
+
+d) Detalle de las donaciones con fines deportivos que haya recibido, con especificación del monto y el objeto de éstas, y copia del convenio suscrito entre donante y donataria.
+
+e) Copia del informe a que se refiere el inciso primero del artículo 65.
+
+#### Artículo 32 ter
+
+En el ejercicio de la facultad de supervigilancia y conforme a las normas de la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, el Instituto Nacional de Deportes sancionará a las organizaciones deportivas que no den cumplimiento a las obligaciones de transparencia señaladas en el artículo 32 bis, con multa a beneficio fiscal de cincuenta a trescientas unidades tributarias mensuales. En caso de reincidencia dentro del año calendario inmediatamente siguiente, el monto de la multa será elevado al doble.
+
+Las organizaciones deportivas sancionadas quedarán inhabilitadas para acceder a los beneficios de esta ley, ya sea para recibir nuevas transferencias de recursos públicos y/o emitir certificados de donación para exenciones tributarias, mientras no hayan pagado la multa impuesta.
+
+#### Artículo 32 quáter
+
+Las personas que integren el directorio de alguna de las organizaciones señaladas en el artículo 32 bis no podrán intervenir en asuntos en que tengan interés personal o en el que lo tengan el cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive. Asimismo, no podrán participar en decisiones en que exista cualquier circunstancia que le reste imparcialidad.
+
+Los directivos señalados deberán abstenerse de participar en estos asuntos, y pondrán en conocimiento del resto del directorio la inhabilidad que les afecta.
+
+Los directores que vulneren esta prohibición serán sancionados con la inhabilitación para desempeñar el cargo de dirigente deportivo por el plazo de diez años, sin perjuicio de responder por los perjuicios ocasionados a la Federación y a terceros.
 
 #### Artículo 33
 
@@ -716,6 +746,8 @@ Régimen Especial de las Federaciones Deportivas Nacionales
 
 A.- Las Federaciones Deportivas Nacionales, en adelante también "FDN", quedarán legalmente constituidas siempre que cumplan con los requisitos establecidos en la letra g) del artículo 32 y se haya practicado su inscripción en un Registro Especial que mantendrá la Dirección Nacional del Instituto para estos efectos. Perderán dicha calidad si dejan de cumplir los requisitos indicados, en cuyo caso se cancelará su inscripción, manteniendo sólo su condición de Federación Deportiva.
 
+Las Federaciones Deportivas Nacionales serán consideradas para todos los efectos legales como organizaciones de interés público en los términos señalados en el Título II de la ley Nº 20.500, sobre asociaciones y participación ciudadana en la gestión pública.
+
 #### Artículo 40
 
 B.- No podrá negarse la incorporación ni la permanencia en una FDN a una asociación deportiva o club que así lo requiera y que cumpla los requisitos legales, reglamentarios y estatutarios para ello.
@@ -726,7 +758,7 @@ C.- Los estatutos de las FDN deberán establecer el mecanismo por el cual los de
 
 Podrán ser miembros de esta Comisión los deportistas de la respectiva disciplina, en actividad o en situación de retiro, que hayan participado al menos en los Torneos Nacionales de su Deporte, categoría todo competidor, o en aquellos del programa olímpico, hasta ocho años después de su última participación.
 
-El Presidente de esta Comisión o, en su reemplazo, el delegado suplente que ella misma designe, tendrá derecho a voz y voto en las asambleas ordinarias y extraordinarias de la Federación y sólo a voz en las sesiones de su Directorio.
+El Presidente o cualquier otro integrante de la Comisión de Deportistas, o en su reemplazo, el delegado suplente que ella misma designe, tendrá derecho a voz y voto en las asambleas ordinarias y extraordinarias de la Federación, como asimismo en las sesiones de Directorio.
 
 #### Artículo 40
 
@@ -734,7 +766,7 @@ D.- Los estatutos de las FDN deberán contemplar una Comisión Técnica compuest
 
 Corresponderá a la Comisión Técnica proponer al Directorio de la Federación la formación de las delegaciones de deportistas que representarán al país en las competencias internacionales. Dichas proposiciones se efectuarán con criterios exclusivamente técnicos y previa realización de competencias selectivas o clasificatorias, reglamentadas e informadas oportunamente a los deportistas.
 
-El Presidente de la Federación, con la mayoría absoluta del Directorio, podrá rechazar la propuesta y conformar una delegación distinta, siempre que también se base en criterios estrictamente técnicos y se informen los fundamentos de su decisión en la asamblea ordinaria siguiente.
+El Presidente de la Federación, fundadamente y con acuerdo de la mayoría absoluta del Directorio, podrá rechazar la propuesta, en cuyo caso deberá solicitar a la Comisión Técnica una nueva propuesta de delegación distinta, la cual deberá basarse en criterios estrictamente técnicos. Dicha propuesta deberá ser aprobada por la mayoría absoluta del Directorio. De los fundamentos de la decisión adoptada se informará en la asamblea ordinaria siguiente.
 
 Dicha Comisión deberá colaborar con la Comisión Nacional de Control de Dopaje en la realización de actividades de difusión y capacitación antidopaje, así como en la coordinación de los controles preventivos a los deportistas adscritos a su Federación, especialmente a aquellos seleccionados para representar al país en competencias internacionales.
 
@@ -786,9 +818,11 @@ H.- En el ejercicio de sus funciones, los directores de las FDN responderán has
 
 I.- Las FDN no podrán realizar actos o celebrar contratos onerosos en que uno o más de sus directores tengan interés.
 
-Se entenderá que un director tiene interés en un acto o contrato cuando él, su cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive deban intervenir en su ejecución o celebración. Asimismo, cuando tal acción se realice mediante sociedades o empresas en las cuales él o alguna de las personas mencionadas sean directores o propietarios del diez por ciento o más de su capital.
+Se entenderá que un director tiene interés en un acto o contrato cuando él, su cónyuge, conviviente civil o de hecho, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive deban intervenir en su ejecución o celebración, o reciban un beneficio directo asociado. Asimismo, cuando tal acción se realice mediante sociedades o empresas en las cuales él o alguna de las personas mencionadas sean directores o propietarios del diez por ciento o más de su capital.
 
-Cuando un director de la Federación sea el único oferente de un bien o servicio indispensable para el desarrollo de las actividades de la organización, el Directorio podrá acordar, por la unanimidad de sus integrantes y con exclusión del mencionado director, que se adquiera dicho bien o se contrate el referido servicio siempre que su precio se ajuste a los valores de mercado y se dé a conocer el indicado acto o contrato en la memoria que se presentará a la asamblea ordinaria siguiente.
+Cuando un director de la Federación sea el único oferente de un bien o servicio indispensable para el desarrollo de las actividades de la organización, lo cual se corroborará de conformidad al procedimiento señalado en el inciso siguiente, el Directorio podrá acordar, por la unanimidad de sus integrantes y con exclusión del mencionado director, que se adquiera dicho bien o se contrate el referido servicio siempre que su precio se ajuste a los valores de mercado y se dé a conocer el indicado acto o contrato en la memoria que se presentará a la asamblea ordinaria siguiente.
+
+El Directorio de la Federación deberá emitir un informe que acredite el hecho de que no existe otro oferente de un bien o servicio distinto del ofrecido por el director de la Federación, el cual deberá ser informado a la asamblea de la Federación con, al menos, treinta días de anticipación al perfeccionamiento del acto o contrato respectivo.
 
 Los directores que vulneren esta prohibición serán sancionados con la inhabilitación para desempeñar el cargo de dirigente deportivo por el plazo de diez años, sin perjuicio de responder por los perjuicios ocasionados a la Federación y a terceros.
 
@@ -796,7 +830,7 @@ Los directores que vulneren esta prohibición serán sancionados con la inhabili
 
 J.- A las FDN no se les aplicará el artículo 557 del Código Civil.
 
-No obstante lo anterior, ellas deberán llevar contabilidad completa de sus operaciones. Su balance anual deberá ser auditado por una entidad inscrita en el Registro de Auditores Externos de la Superintendencia de Valores y Seguros. Dicho balance, los estados financieros y la memoria del Directorio deberán hacerse llegar a las respectivas organizaciones de base por cualquier medio apto, con a lo menos quince días de anticipación a la fecha de la asamblea que debe pronunciarse sobre ellos, debiendo además publicarse en lugares visibles en la sede de la Federación o en el sitio electrónico de ésta, con la misma anticipación.
+No obstante lo anterior, ellas deberán llevar contabilidad completa de sus operaciones. Su balance anual deberá ser auditado por una entidad inscrita en el Registro de Auditores Externos de la Comisión para el Mercado Financiero. Dicho balance, los estados financieros y la memoria del Directorio deberán hacerse llegar a las respectivas organizaciones de base por cualquier medio apto, con a lo menos quince días de anticipación a la fecha de la asamblea que debe pronunciarse sobre ellos, debiendo además publicarse en lugares visibles en la sede de la Federación o en el sitio electrónico de ésta, con la misma anticipación.
 
 Sin perjuicio de las facultades de fiscalización y supervigilancia permanentes del Instituto, las FDN deberán, en el mes de mayo de cada año, remitirle una copia del balance del año inmediatamente anterior, de los estados financieros y del informe de resultado de la auditoría externa correspondientes. Mientras no sea enviada esta información, el Instituto no transferirá nuevos fondos a la respectiva Federación Deportiva Nacional. Los estados financieros de las FDN serán publicados por el Instituto Nacional de Deportes en su sitio electrónico institucional.
 
@@ -812,7 +846,7 @@ Los honorarios de los administradores externos no podrán exceder del diez por c
 
 #### Artículo 40
 
-K.- Las FDN tendrán derecho a obtener recursos del Estado para financiar los gastos necesarios para su administración, tales como remuneraciones de personal, arriendo de oficinas, gastos comunes y expensas similares, además de los gastos de traslado para la realización de sus asambleas. Asimismo, podrán obtener recursos para financiar los gastos necesarios para adquirir toda la implementación tecnológica computacional que requieran para el desarrollo de su actividad y de sus proyectos. Estos recursos se financiarán con cargo al porcentaje asignado a las FDN de las entradas del sistema de pronósticos y apuestas establecido en el artículo 90 de la ley Nº 18.768, modificado por la ley Nº 19.135 y con los recursos que el Instituto destine a este efecto, de acuerdo a su disponibilidad presupuestaria.
+K.- Sólo las organizaciones deportivas que hayan adoptado el régimen especial de las Federaciones Deportivas Nacionales establecido en este Párrafo se encontrarán habilitadas para obtener recursos permanentes del Estado, destinados a financiar la preparación y participación de los deportistas que representen a Chile en los Juegos Olímpicos, Juegos Paralímpicos, Panamericanos, Parapanamericanos, Sudamericanos, Parasuramericanos, Panamericanos y Sudamericanos específicos, Campeonatos Mundiales y en otras competencias multideportivas internacionales patrocinadas por el Comité Olímpico Internacional o por el Comité Paralímpico Internacional, según corresponda, con cargo al porcentaje asignado a las Federaciones Deportivas Nacionales de las entradas del sistema de pronósticos y apuestas establecido en el artículo 90 de la ley Nº 18.768, sobre normas complementarias de administración financiera, de incidencia presupuestaria y de personal, o con los recursos que el Instituto destine a este efecto, de acuerdo a su disponibilidad presupuestaria. De igual forma, tendrán derecho a obtener recursos del Estado para financiar los gastos necesarios para su administración, tales como remuneraciones de personal, arriendo de oficinas, gastos comunes y expensas similares, contratación de servicios profesionales a honorarios, además de los gastos de traslado para la realización de sus asambleas; y, asimismo, para financiar los gastos necesarios para adquirir toda la implementación tecnológica computacional que requieran para el desarrollo de su actividad y de sus proyectos.
 
 Estas federaciones podrán organizar, producir y comercializar espectáculos deportivos de su respectivo deporte como también realizar actividades económicas relacionadas con sus fines e invertir sus recursos de la manera que acuerden sus órganos de administración. Los ingresos que se perciban sólo podrán destinarse a los fines de la Federación.
 
