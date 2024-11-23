@@ -26,6 +26,30 @@ Resuelvo :
 
 a) Tarifa Servicios Puros:
 
+Tarifa Buses Adulto $750 (setecientos cincuenta pesos)
+
+Tarifa Metro Valle $770 (setecientos setenta pesos)
+
+Tarifa Metro Periodo Punta $850 (ochocientos cincuenta pesos)
+
+Tarifa Metro Baja $690 (seiscientos noventa pesos)
+
+Tarifa Trenes Valle $770 (setecientos setenta pesos)
+
+Tarifa Trenes Periodo Punta $850 (ochocientos cincuenta pesos)
+
+Tarifa Trenes Baja $690 (seiscientos noventa pesos)
+
+Escolar Sup. y Media Buses $250 (doscientos cincuenta pesos)
+
+Escolar Sup. y Media Metro
+
+y Trenes Periodo Punta,
+
+Baja y Valle $250 (doscientos cincuenta pesos)
+
+Escolar Básica $0
+
 Tarifa Metro Plebiscito 25
 
 de octubre de 2020 $0
@@ -117,6 +141,22 @@ etapa de viaje.
 Tarifa de Trenes Elecciones $0
 
 de 26 y 27 de octubre de
+
+2024, para todo contrato y
+
+etapa de viaje.
+
+Tarifa de Metro Elecciones $0
+
+de 24 de noviembre de
+
+2024, para todo contrato y
+
+etapa de viaje.
+
+Tarifa de Trenes Elecciones $0
+
+de 24 de noviembre de
 
 2024, para todo contrato y
 
