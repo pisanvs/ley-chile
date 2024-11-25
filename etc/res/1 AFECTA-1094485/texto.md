@@ -186,9 +186,9 @@ La utilización del subsidio general en operaciones no elegibles dará lugar a l
 
 ### 7. NORMAS TRANSITORIAS
 
-7.1. Adicionalmente a lo contemplado en el numeral 2, letras a y c, hasta el 31 de diciembre 2021, habrá un porcentaje adicional de subsidio para aquellos beneficiarios del Instituto de Desarrollo Agropecuario, Indap, que no cuenten con el Programa Especial de Apoyo a la Contratación del Seguro Agrícola, Pacsa, de dicho Instituto.
+7.1. Adicionalmente a lo contemplado en el numeral 2, letra a y c, hasta el 31 de diciembre 2024, habrá un porcentaje adicional de subsidio para aquellos beneficiarios del Instituto de Desarrollo Agropecuario, INDAP, que no cuenten con el Programa Especial de Apoyo a la Contratación del Seguro Agrícola, PACSA, de dicho Instituto.
 
-7.2 Este porcentaje adicional para los beneficiarios de Indap, antes definidos, variará conforme el porcentaje de la Prima Neta subsidiada por los conceptos del numeral 2, letras a y c, alcanzando hasta un 50% de la Prima Neta.
+7.2 Este porcentaje adicional para los beneficiarios de INDAP antes definidos, variará conforme el porcentaje de la Prima Neta subsidiada por los conceptos del numeral 2, letra a y c, alcanzando hasta un 50% de la Prima Neta.
 
 3° Este Reglamento comenzará a regir a partir de la total tramitación de la presente Resolución y de su publicación en el Diario Oficial.
 
