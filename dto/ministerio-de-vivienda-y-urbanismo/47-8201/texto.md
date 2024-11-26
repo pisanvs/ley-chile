@@ -40,7 +40,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Acera»: parte de una vía destinada principalmente para circulación de peatones, separada de la circulación de vehículos.
 
-«Alteración»: Obras que implican cualquier supresión o adición que afecte a un elemento de la estructura o de las fachadas de una edificación existente y las obras de restauración, rehabilitación o remodelación de esas edificaciones.
+«Alteración": Obras que implican cualquier supresión o adición que afecte a un elemento de la estructura o de las fachadas de una edificación existente y las obras de restauración, rehabilitación o remodelación de esas edificaciones.
 
 «Altura de edificación»: la distancia vertical, expresada en metros, entre el suelo natural y un plano paralelo superior al mismo.
 
@@ -52,7 +52,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Anteproyecto»: presentación previa de un proyecto de loteo, de edificación o de urbanización, en el cual se contemplan los aspectos esenciales relacionados con la aplicación de las normas urbanísticas y que una vez aprobado mantiene vigentes todas las condiciones urbanísticas del Instrumento de Planificación respectivo y de la Ordenanza General de Urbanismo y Construcciones consideradas en aquél y con las que éste se hubiera aprobado, para los efectos de la obtención del permiso correspondiente, durante el plazo que señala esta Ordenanza.
 
-«Aportes al Espacio Público»: Cantidad equivalente al avalúo fiscal del porcentaje de terreno a ceder a la municipalidad respectiva que deba pagarse en dinero para reemplazar las cesiones que exige el artículo 70 de la Ley General de Urbanismo y Construcciones, o materializarse en la ejecución de estudios, proyectos, obras y medidas que tengan un valor equivalente al del aporte en dinero, en los términos establecidos en el artículo 179 de dicha ley.
+"Aportes al Espacio Público": Cantidad equivalente al avalúo fiscal del porcentaje de terreno a ceder a la municipalidad respectiva que deba pagarse en dinero para reemplazar las cesiones que exige el artículo 70 de la Ley General de Urbanismo y Construcciones, o materializarse en la ejecución de estudios, proyectos, obras y medidas que tengan un valor equivalente al del aporte en dinero, en los términos establecidos en el artículo 179 de dicha ley.
 
 «Arcada, Arquería»: conjunto o serie de arcos de una construcción.
 
@@ -90,7 +90,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Calzada»: parte de una vía destinada a la circulación de vehículos motorizados y no motorizados.
 
-«Cambio de destino»: cambiar el destino de una vivienda existente a otro destino o actividad permitida por el uso de suelo establecido por el respectivo instrumento de planificación territorial o, excepcionalmente, por otra normativa legal.
+«Cambio de destino": cambiar el destino de una vivienda existente a otro destino o actividad permitida por el uso de suelo establecido por el respectivo instrumento de planificación territorial o, excepcionalmente, por otra normativa legal.
 
 «Capacidad máxima de edificación»: margen volumétrico máximo construible en cada predio, resultado de la aplicación de las normas sobre línea de edificación, rasantes, distanciamientos, alturas, coeficientes de ocupación de suelo, constructibilidad, densidad y demás normas urbanísticas, con sus respectivas normas de beneficios especiales en cada caso.
 
@@ -106,7 +106,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Centro de servicio automotor»: recinto destinado a la prestación de servicios para vehículos que no signifiquen labores de taller mecánico.
 
-«Ciclovía»: Se estará a lo dispuesto en el DFL N° 1, de 2007, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, o aquel que lo modifique o reemplace.
+«Ciclovía»: Se estará a lo dispuesto en el DFL N° 1, de 2007, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, o aquel que lo modifique o reemplace..
 
 «Coeficiente de constructibilidad»: número que multiplicado por la superficie total del predio, descontadas de esta última las áreas declaradas de utilidad pública, fija el máximo de metros cuadrados posibles de construir sobre el terreno.
 
@@ -168,7 +168,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificación continua»: la emplazada a partir de los deslindes laterales opuestos o concurrente de un mismo predio y ocupando todo el frente de éste, manteniendo un mismo plano de fachada con la edificación colindante y con la altura que establece el instrumento de planificación territorial.
 
-«Edificación existente»: edificio que cuenta con permiso y recepción definitiva o aquel construido con anterioridad a la entrada en vigencia de la ley Nº 4.563.
+«Edificación existente": edificio que cuenta con permiso y recepción definitiva o aquel construido con anterioridad a la entrada en vigencia de la ley Nº 4.563.
 
 «Edificación pareada»: la que corresponde a dos edificaciones emplazadas a partir de un deslinde común, manteniendo una misma línea de fachada, altura y longitud de pareo. Las fachadas no pareadas deberán cumplir con las normas previstas para la edificación aislada.
 
@@ -226,15 +226,13 @@ a 100 personas.
 
 «Estudio de seguridad»: evaluación de las condiciones de seguridad que ofrece una construcción o un proyecto de construcción a sus posibles ocupantes, suscrito por un profesional competente.
 
-«Fachada»: cualquiera de los paramentos exteriores de un edificio.
+«Fachada»: cualquiera de los paramentos exteriores de un edificio.".
 
 «Fachada con vano»: paramento exterior de una edificación, desde el suelo natural hasta su punto más alto, que incluye entrantes y salientes, tales como puertas, ventanas, bow-windows, balcones, terrazas, azoteas, loggias, escaleras y pasillos exteriores, salvo que los vanos se ubiquen a una altura superior a 1,8 m con respecto al nivel interior del piso que sirven.
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-«Huella Podotáctil»: Recorrido conformado por pavimentos que destacan por su diferenciación de texturas y contraste cromático respecto del pavimento circundante, cuyo propósito es guiar y/o alertar de los cambios de dirección, cambios de nivel, discontinuidad espacial, peligro u otras situaciones en la ruta accesible.
-
-'Imagen Objetivo': Propuesta de desarrollo urbano del territorio a planificar, a través de la cual se pretende dar cumplimiento a los objetivos de planificación, cuyos contenidos y procedimiento de formulación se establecen en el artículo 2.1.5. de esta Ordenanza.
+«Huella podotáctil»: Recorrido conformado por pavimentos que destacan por su diferenciación de texturas y contraste cromático respecto del pavimento circundante, cuyo propósito es guiar y/o alertar de los cambios de dirección, cambios de nivel, discontinuidad espacial, peligro u otras situaciones en la ruta accesible.
 
 «Informe de riesgos»: DEROGADO.
 
@@ -246,7 +244,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Instalación de publicidad»: todo elemento publicitario ubicado en la vía pública o que pueda ser visto u oído desde la misma.
 
-«Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional cuando el anterior no exista o al Límite Urbano.
+«Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
 «Libro de Obras»: documento con páginas numeradas que forma parte del expediente oficial de la obra y que se mantiene en ésta durante su desarrollo, en el cual se consignan las instrucciones y observaciones a la obra formuladas por los profesionales competentes, los instaladores autorizados, el inspector técnico, el revisor independiente cuando corresponda, y los inspectores de la Dirección de Obras Municipales o de los Organismos que autorizan las instalaciones.
 
@@ -274,17 +272,17 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Mediana»: isla continua, realzada altimétricamente mediante soleras, que separa flujos vehiculares.
 
-«Mitigaciones directas»: Medidas u obras que conforme a lo establecido en el artículo 170 de la Ley General de Urbanismo y Construcciones, deben realizar los proyectos que conlleven crecimiento urbano por extensión o densificación y ocasionen impactos relevantes sobre la movilidad local, conforme sea definido en el respectivo Informe de Mitigación de Impacto Vial (IMIV).
+"Mitigaciones directas": Medidas u obras que conforme a lo establecido en el artículo 170 de la Ley General de Urbanismo y Construcciones, deben realizar los proyectos que conlleven crecimiento urbano por extensión o densificación y ocasionen impactos relevantes sobre la movilidad local, conforme sea definido en el respectivo Informe de Mitigación de Impacto Vial (IMIV).
 
 «Modificación de proyecto»: variantes, alteraciones o cambios que se solicite introducir a un proyecto o a una obra de construcción entre la fecha del permiso y la recepción definitiva de las obras, signifiquen o no un aumento de superficie, o cambios en la clasificación o destino de las construcciones.
 
-«Modificación del destino o actividad»: variar el destino o actividad establecida en el permiso de edificación concedido, a otro destino o actividad permitida por el uso de suelo admitido en el respectivo instrumento de planificación territorial, mediante un permiso de obra menor, reconstrucción, reparación, alteración o ampliación.
+«Modificación del destino o actividad": variar el destino o actividad establecida en el permiso de edificación concedido, a otro destino o actividad permitida por el uso de suelo admitido en el respectivo instrumento de planificación territorial, mediante un permiso de obra menor, reconstrucción, reparación, alteración o ampliación.
 
-«Montacarga»: aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
+"Montacarga": aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
 
-«Movilidad»: Conjunto de desplazamientos de personas y bienes, realizados por modos motorizados o no motorizados, para satisfacer el acceso a actividades y lugares.
+"Movilidad": Conjunto de desplazamientos de personas y bienes, realizados por modos motorizados o no motorizados, para satisfacer el acceso a actividades y lugares.
 
 «Muro cortafuego»: el que cumple con la resistencia al fuego requerida según el caso, de acuerdo con el artículo 4.3.3. de esta Ordenanza.
 
@@ -300,7 +298,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Norma oficial»: DEROGADO.
 
-«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).
+«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).".
 
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
@@ -340,9 +338,11 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Piso subterráneo»: planta o nivel de un edificio cuyos paramentos que la definen exteriormente se encuentran bajo la superficie del terreno circundante con el que están en contacto, correspondiente al suelo natural o al suelo resultante del proyecto, en caso que éste fuere más bajo que el suelo natural. Se considerará también como subterráneo aquel piso que emerge del terreno circundante en un porcentaje inferior al 50% de la superficie total de sus paramentos exteriores, aun cuando una o más de sus fachadas queden al descubierto parcial o totalmente.
 
-«Plan de inversiones en infraestructura de movilidad y espacio público»: Instrumento de nivel comunal o intercomunal, según sea el caso, que contiene una cartera de proyectos, obras y medidas incluidas en los instrumentos de planificación territorial o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbana, referidas a áreas verdes, aceras y circulaciones peatonales, pasos para peatones, calzadas, ciclovías, luminarias y alumbrado público, soterramiento de redes, paraderos de buses, señalética, áreas de juegos infantiles, baños públicos, mobiliario urbano tales como bancos o escaños, basureros o contenedores de basura, estacionamientos de bicicletas, kioscos, pérgolas, entre otros.
+Plan de inversiones en infraestructura de movilidad y espacio público": Instrumento de nivel comunal o intercomunal, según sea el caso, que contiene una cartera de proyectos, obras y medidas incluidas en los instrumentos de planificación territorial o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbana, referidas a áreas verdes, aceras y circulaciones peatonales, pasos para peatones, calzadas, ciclovías, luminarias y alumbrado público, soterramiento de redes, paraderos de buses, señalética, áreas de juegos infantiles, baños públicos, mobiliario urbano tales como bancos o escaños, basureros o contenedores de basura, estacionamientos de bicicletas, kioscos, pérgolas, entre otros.
 
-«Platabanda»: Espacio de la acera, reservado principalmente a la contención de áreas verdes y arbolado urbano, así como también a la instalación de equipamiento, redes de servicios eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano, estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones.
+«Planta de tratamiento de aguas grises": instalaciones y equipamiento destinados al proceso de depuración de estas, con el objeto de alcanzar los estándares exigidos para su reutilización.»
+
+‘Platabanda': Espacio de la acera, reservado principalmente a la contención de áreas verdes y arbolado urbano, así como también a la instalación de equipamiento, redes de servicios eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano, estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones.
 
 «Playa de mar»: la extensión de tierra que las olas bañan y desocupan alternativamente hasta donde llegan en las más altas mareas.
 
@@ -376,7 +376,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Puerta de escape»: puerta de salida que forma parte de un sistema de evacuación.
 
-«Rampa mecánica»: instalación motorizada para el trasporte de personas en que la superficie de transporte permanece paralela a la dirección del movimiento, y es ininterrumpida.
+"Rampa mecánica": instalación motorizada para el trasporte de personas en que la superficie de transporte permanece paralela a la dirección del movimiento, y es ininterrumpida.
 
 «Rasante»: recta imaginaria que, mediante un determinado ángulo de inclinación, define la envolvente teórica dentro de la cual puede desarrollarse un proyecto de edificación.
 
@@ -384,15 +384,15 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Reconstrucción»: DEROGADO.
 
-«Reconstrucción de una edificación»: Obras cuyo fin es volver a construir o reproducir total o parcialmente una edificación que contó con permiso y recepción definitiva o que fue construida con anterioridad a la entrada en vigencia de la ley Nº 4.563, y que formalmente retoma las características de la versión original.
+«Reconstrucción de una edificación": Obras cuyo fin es volver a construir o reproducir total o parcialmente una edificación que contó con permiso y recepción definitiva o que fue construida con anterioridad a la entrada en vigencia de la ley Nº 4.563, y que formalmente retoma las características de la versión original
 
 «Red vial básica»: conjunto de vías existentes, que por su especial importancia para el transporte urbano, pueden ser reconocidas como tales en los instrumentos de planificación territorial.
 
 «Red vial estructurante»: conjunto de vías existentes o proyectadas, que por su especial importancia para el desarrollo del correspondiente centro urbano, deben ser definidas por el respectivo instrumento de planificación territorial.
 
-«Registro de la Ley Nº 20.296»: el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
+"Registro de la Ley Nº 20.296": el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
 
-«Registro de Proyectos Inmobiliarios»: Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
+"Registro de Proyectos Inmobiliarios": Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
 
 «Rehabilitación de un inmueble»: recuperación o puesta en valor de una construcción, mediante obras y modificaciones que, sin desvirtuar sus condiciones originales, mejoran sus cualidades funcionales, estéticas, estructurales, de habitabilidad o de confort.
 
@@ -408,13 +408,13 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Revisor independiente»: profesional competente, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que verifica e informa al respectivo Director de Obras Municipales que los anteproyectos, proyectos y obras cumplen con todas las disposiciones legales y reglamentarias pertinentes. Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de un profesional competente.
 
-«Ruta Accesible»: Espacio libre y continuo, con las dimensiones mínimas que para cada caso establece esta Ordenanza, destinado a la circulación de personas en una vereda, en el espacio público, o al interior de una edificación; libre de obstáculos, gradas u otro tipo de barreras que dificulten el desplazamiento y la percepción del mismo, de superficie estable y homogénea, antideslizante en seco y en mojado, y apto para el desplazamiento en forma segura de todas las personas.
+«Ruta accesible»: Espacio libre y continuo, con las dimensiones mínimas que para cada caso establece esta Ordenanza, destinado a la circulación de personas en una vereda, en el espacio público, o al interior de una edificación; libre de obstáculos, gradas u otro tipo de barreras que dificulten el desplazamiento y la percepción del mismo, de superficie estable y homogénea, antideslizante en seco y en mojado, y apto para el desplazamiento en forma segura de todas las personas.
 
 «Saldo predial»: sitio cuya superficie, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión predial mínima establecida en el Instrumento de Planificación Territorial respectivo.
 
 «Sector»: DEROGADO.
 
-«Símbolo Internacional de Accesibilidad (SIA)»: Símbolo gráfico, conforme a la NCh 3180, correspondiente a la silueta de una persona sentada en una silla de ruedas, en color blanco sobre un fondo azul, Pantone 294C, orientado a identificar zonas o áreas adaptadas o reservadas a las personas con discapacidad
+«Símbolo Internacional de Accesibilidad (SIA)»: Símbolo gráfico, conforme a la NCh 3180, correspondiente a la silueta de una persona sentada en una silla de ruedas, en color blanco sobre un fondo azul, Pantone 294C, orientado a identificar zonas o áreas adaptadas o reservadas a las personas con discapacidad.
 
 «Sistema automático de extinción de incendio»: conjunto formado por dispositivos y equipos capaces de detectar y descargar, en forma automática, un agente extintor de fuego en un área de incendio.
 
@@ -426,6 +426,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Sistema de seguridad»: conjunto de elementos de prevención, inhibición o mitigación de riesgos o siniestros en los edificios, tales como sistemas pasivos y activos de seguridad contra incendio, sistemas de evacuación, control de accesos, señalizaciones de seguridad e instalaciones de emergencia.
 
+«Sistemas de reutilización de aguas grises": conjunto de instalaciones destinadas a la recolección, tratamiento, almacenamiento y conducción de las aguas grises para su uso en la alternativa de reutilización que se proyecte. Incluye, además, instalaciones para el uso del efluente tratado, el cual debe cumplir con la calidad para el uso previsto definida en la reglamentación.»
+
 «Sistema urbano»: DEROGADO.
 
 «Subdivisión de terrenos»: proceso de división del suelo que no requiere la ejecución de obras de urbanización por ser suficientes las existentes, cualquiera sea el número de sitios resultantes.
@@ -436,11 +438,11 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Superficie común»: superficie edificada de uso común calculada hasta el eje de los muros o línea que la separa de la superficie útil.
 
-«Superficie edificada»: superficie de una construcción calculada horizontalmente por pisos, sin incluir los vacíos, los ductos verticales y las escaleras de evacuación, medida hasta la cara exterior de los muros perimetrales.
+«Superficie edificada»: superficie de una construcción calculada horizontalmente por pisos, sin incluir los vacíos, los ductos verticales y las escaleras de evacuación, medida hasta la cara exterior de los muros perimetrales.".
 
-«Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.
+«Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.".
 
-«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.
+«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.".
 
 «Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
 
@@ -492,15 +494,15 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Zona»: porción de territorio regulado por un Instrumento de Planificación Territorial con iguales condiciones de uso de suelo o de edificación.
 
-«Zona central»: regiones de Valparaíso, Metropolitana de Santiago, del Libertador General Bernardo O'Higgins y del Maule.
+«Zona central»: regiones V a VII y metropolitana.
 
 «Zona de conservación histórica»: área o sector identificado como tal en un Instrumento de Planificación Territorial, conformado por uno o más conjuntos de inmuebles de valor urbanístico o cultural cuya asociación genera condiciones que se quieren preservar.
 
 «Zona de Protección Costera»: área de tierra firme de ancho variable, de una extensión mínima de 80 metros medidos desde la línea de la playa, en la que se establecen condiciones especiales para el uso del suelo, con el objeto de asegurar el ecosistema de la zona costera y de prevenir y controlar su deterioro.
 
-«Zona norte»: regiones de Arica y Parinacota, de Tarapacá, de Antofagasta, de Atacama y de Coquimbo.
+«Zona norte»: regiones I a IV y XV.
 
-«Zona sur»: regiones de Ñuble, del Biobío, de La Araucanía, de Los Ríos, de Los Lagos, de Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena.
+«Zona sur»: regiones VIII a XII y XIV.
 
 «Zona vertical de seguridad»: vía vertical de evacuación protegida de los efectos del fuego que, desde cualquier nivel hasta el de salida, permite a los usuarios evacuar el edificio sin ser afectados por el fuego, humo o gases.
 
@@ -1456,7 +1458,7 @@ h) Un informe que dé cuenta del proceso de participación y acredite el cumplim
 
 i) Los antecedentes necesarios para dar cumplimiento a la Ley sobre Bases Generales del Medio Ambiente.
 
-2. Estudio de Factibilidad, para ampliar o dotar de agua potable y alcantarillado de aguas servidas y de aguas lluvias cuando corresponda, en relación con el crecimiento urbano proyectado.
+2. Estudio de Factibilidad, para ampliar o dotar de agua potable y alcantarillado de aguas servidas y de aguas lluvias cuando corresponda, en relación con el crecimiento urbano proyectado. El Estudio podrá incluir la factibilidad de implementación de sistemas de recolección y reutilización de aguas grises. Este Estudio de Factibilidad requerirá consulta previa a la respectiva empresa concesionaria de servicios sanitarios.
 
 3. Ordenanza Local, que contendrá las disposiciones reglamentarias pertinentes a este nivel de planificación territorial.
 
@@ -1572,7 +1574,7 @@ Las modificaciones a los Planes Reguladores Comunales se sujetarán al mismo pro
 
 1.13. Las enmiendas a que se refiere el inciso segundo del artículo 45º de la Ley General de Urbanismo y Construcciones serán elaboradas por la Municipalidad y aprobadas por el Concejo respectivo conforme a las reglas de este artículo.
 
-Para los fines previstos en el número 1. del inciso segundo, del artículo 45º de la Ley General de Urbanismo y Construcciones, el Concejo podrá redefinir la localización del equipamiento vecinal en los barrios o sectores, para lo cual deberá cambiar los usos de suelo así establecidos en el Plan Regulador Comunal, ya sea suprimiendo algunos o permitiendo otros, en la misma zona o en otra nueva.
+Para los fines previstos en el número 1. del inciso segundo, del artículo 45º de la Ley General de Urbanismo y Construcciones, la municipalidad podrá redefinir la localización de un equipamiento vecinal existente en los barrios o sectores, para lo cual será necesario cambiar los usos de suelo establecidos en el Plan Regulador Comunal en su nueva ubicación, el que quedará destinado exclusivamente a equipamiento vecinal. Las normas en el terreno en que se localizaba originalmente el equipamiento vecinal podrán asimilarse a las de la zona predominante entre aquellas adyacentes al terreno, o bien, podrán mantenerse las que estaban vigentes en la zona en que este se ubicaba.
 
 Para efectos de lo dispuesto en el número 2, del inciso segundo, del citado artículo 45°, el Concejo podrá autorizar enmiendas a fin de introducir ajustes a los trazados contemplados en el Plan Regulador Comunal o en los Planes Seccionales vigentes, referidos a pasajes y vías locales o de servicio que tengan un informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
@@ -1850,11 +1852,13 @@ En aquellos casos en que el instrumento de planificación territorial permita la
 
 1.29. El tipo de uso
 
-Infraestructura se refiere a las
+Infraestructura se refiere a
 
-edificaciones o instalaciones y a las
+las edificaciones o instalaciones
 
-redes o trazados destinadas a:
+y a las redes o trazados
+
+destinadas a:
 
 - Infraestructura de transporte,
 
@@ -1876,23 +1880,23 @@ tales como, plantas de captación,
 
 distribución o tratamiento de
 
-agua potable o de aguas servidas,
+agua potable, de aguas servidas,
 
-de aguas lluvia, rellenos
+de aguas grises, de aguas lluvia,
 
-sanitarios, estaciones exclusivas
+rellenos sanitarios, estaciones
 
-de transferencia de residuos, etc.
+exclusivas de transferencia de
+
+residuos, etc.
 
 - Infraestructura energética,
 
-tales como, centrales
+tales como, centrales de generación
 
-de generación o distribución
+o distribución de energía, de gas
 
-de energía, de gas y
-
-de telecomunicaciones, gasoductos,
+y de telecomunicaciones, gasoductos,
 
 etc.
 
@@ -1914,49 +1918,65 @@ competentes. El instrumento de
 
 planificación territorial deberá
 
-reconocer las fajas o zonas de
+reconocer las fajas o zonas
 
-protección determinadas por la
+de protección determinadas por
 
-normativa vigente y destinarlas
+la normativa vigente y destinarlas
 
-a áreas verdes, vialidad o
+a áreas verdes, vialidad o a los
 
-a los usos determinados por dicha
+usos determinados por dicha
 
-normativa.
+normativa. Igualmente, las plantas
 
-Para estos efectos se entenderá
+de tratamiento de los sistemas de
 
-por redes y trazados, todos los
+reutilización de aguas grises
 
-componentes de conducción,
+se entenderán siempre admitidas
+
+y estarán sujetas a las
+
+disposiciones y aprobación del
+
+respectivo proyecto y la
+
+autorización de funcionamiento
+
+de la autoridad sanitaria
+
+regional.
+
+Para estos efectos se
+
+entenderá por redes y trazados,
+
+todos los componentes de conducción,
 
 distribución, traslado o evacuación,
 
-asociados a
+asociados a los elementos de
 
-los elementos de infraestructura
+infraestructura indicados en el
 
-indicados en el inciso anterior.
+inciso anterior.
 
 El Instrumento de Planificación
 
 Territorial respectivo definirá
 
-en las áreas al interior del
+en las áreas al interior del límite
 
-límite urbano, las normas
+urbano, las normas urbanísticas
 
-urbanísticas que regulen
+que regulen el emplazamiento
 
-el emplazamiento de las
+de las instalaciones o edificaciones
 
-instalaciones o edificaciones
+necesarias para este tipo de uso,
 
-necesarias para este tipo de
-
-uso, que no formen parte
+que no formen parte
 
 de la red, sin perjuicio del
 
@@ -1996,27 +2016,27 @@ en el artículo 55 del
 
 DFL N°458 (V. y U.), de 1975,
 
-Ley General de
+Ley General de Urbanismo y
 
-Urbanismo y Construcciones.
+Construcciones.
 
-Las instalaciones o edificaciones de
+Las instalaciones o edificacio-
 
-este tipo
+nes de este tipo de uso que
 
-de uso que contemplen un proceso
+contemplen un proceso de
 
-de transformación deberán ser
+transformación deberán ser
 
 calificadas por la Secretaría
 
 Regional Ministerial de Salud
 
-respectiva, de conformidad a lo
+respectiva, de conformidad a
 
-preceptuado en el artículo 4.14.2.
+lo preceptuado en el artículo
 
-de esta Ordenanza. En el caso
+4.14.2. de esta Ordenanza. En el caso
 
 de instalaciones o edificaciones
 
@@ -2052,11 +2072,13 @@ su territorio.
 
 1.30. El tipo de uso Espacio Público se refiere al sistema vial, a las plazas, parques y áreas verdes públicas, en su calidad de bienes nacionales de uso público.
 
-La Municipalidad podrá autorizar determinadas construcciones en las áreas verdes y parques a que se refiere el inciso anterior, entendiéndose que éstas mantienen su carácter de tales, siempre y cuando:
+La Municipalidad podrá autorizar determinadas construcciones en las áreas verdes y parques a que se refiere el inciso anterior, entendiéndose que éstas mantienen su carácter de tales, siempre y cuando se cumplan copulativamente los siguientes requisitos:
 
-1º: Se trate de edificaciones con destinos complementarios al área verde o destinadas a equipamiento,
+1º: Se trate de edificaciones con destinos complementarios al área verde o destinadas a equipamiento.
 
-2º: El área destinada a estos usos no sea superior al 5% del total del área verde o parque, y
+2º: El área destinada a estos usos no sea superior al 5% del total del área verde o parque.
+
+En el caso de incorporar plantas de tratamiento para sistemas de reutilización de aguas grises, que se emplacen en las áreas verdes y parques señalados en este inciso, se deberá respetar el porcentaje referido
 
 3º: Se ejecuten o garanticen las obras paisajísticas que establezca la respectiva Municipalidad, incluyendo la mantención de las mismas.
 
@@ -2076,7 +2098,7 @@ INCISO ELIMINADO.
 
 1.31. El tipo de uso Area Verde definida en los Instrumentos de Planificación Territorial se refiere a los parques, plazas y áreas libres destinadas a área verde, que no son Bienes Nacionales de uso público, cualquiera sea su propietario, ya sea una persona natural o jurídica, pública o privada.
 
-En las áreas verdes señaladas en el inciso anterior, que no se hubieren materializado como tales, se podrá autorizar la construcción de edificios de uso público o con destinos complementarios al área verde, siempre que el área destinada a estos usos no ocupe más del 20% de la superficie total del predio destinada a uso área verde en el Instrumento de Planificación Territorial. Se deberá incluir en dicho porcentaje la vialidad interna necesaria para estos usos, con excepción de la definida en el Instrumento de Planificación Territorial, si la hubiere; también las superficies destinadas a estacionamientos sobre el terreno y cualquier otro porcentaje admitido previamente por el Instrumento de Planificación Territorial.
+En las áreas verdes señaladas en el inciso anterior, que no se hubieren materializado como tales, se podrá autorizar la construcción de edificios de uso público o con destinos complementarios al área verde, siempre que el área destinada a estos usos no ocupe más del 20% de la superficie total del predio destinada a uso área verde en el Instrumento de Planificación Territorial. Se deberá incluir en dicho porcentaje la vialidad interna necesaria para estos usos, con excepción de la definida en el Instrumento de Planificación Territorial, si la hubiere; también las superficies destinadas a estacionamientos sobre el terreno y cualquier otro porcentaje admitido previamente por el Instrumento de Planificación Territorial. En el caso de incorporar plantas de tratamiento para sistemas de reutilización de aguas grises, que se emplacen en las áreas verdes señaladas en el inciso primero, se deberá respetar el porcentaje referido en este inciso.
 
 Dichas autorizaciones al proyecto presentado serán otorgadas por el Director de Obras Municipales, previo informe del Asesor Urbanista si lo hubiere, en el caso que las áreas verdes estén definidas en un Plan Regulador Comunal. En el caso que el área verde se encuentre definida en un Plan Regulador Metropolitano o Intercomunal, la autorización al proyecto será otorgada por la Secretaría Regional Ministerial de Vivienda y Urbanismo, previa consulta a la Municipalidad respectiva.
 
@@ -2134,7 +2156,7 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 #### Artículo 2
 
-1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial, se distinguirán cuatro escalas de equipamiento, divididas según su carga de ocupación y ubicación respecto de la categoría de la vía que enfrentan. Dichas escalas son las siguientes:
+1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial, se distinguirán cinco escalas de equipamiento, divididas según su carga de ocupación y ubicación respecto de la categoría de la vía que enfrentan. Dichas escalas son las siguientes:
 
 1. Equipamiento Mayor: El que contempla una carga de ocupación superior a 6.000 personas y sólo se podrá ubicar en predios que enfrenten vías expresas y troncales.
 
@@ -2142,11 +2164,11 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 3. Equipamiento Menor: El que contempla una carga de ocupación superior a 250 y hasta 1.000 personas y sólo se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
 
-4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y sólo se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
+4. Equipamiento Básico: El que contempla una carga de ocupación superior a 100 y hasta 250 personas y sólo se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
 
-Los Municipios podrán asimilar el equipamiento vecinal al equipamiento menor o al básico señalados en este artículo, al redefinir su localización conforme al inciso segundo del artículo 2.1.13 de esta Ordenanza.
+5. Equipamiento Vecinal: El que contempla una carga de ocupación de hasta 100 personas y que se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas. Excepcionalmente podrán enfrentar a pasajes, los equipamientos vecinales de clase social según lo dispuesto en el párrafo quinto del numeral 1. del artículo 2.3.3. de esta ordenanza.
 
-Por otra parte, las Municipalidades podrán aceptar equipamientos de mayor escala en vías de menor categoría, siempre que se indique en forma expresa en el Instrumento de Planificación Territorial y se encuentre avalado por el respectivo estudio de capacidad vial contenido en dicho instrumento de planificación.
+Por otra parte, las Municipalidades podrán aceptar equipamientos de mayor escala en vías de menor categoría, siempre que se indique en forma expresa en el Instrumento de Planificación Territorial y se encuentre avalado por el respectivo estudio de movilidad urbana contenido en dicho instrumento de planificación.
 
 #### Artículo 2
 
@@ -2224,16 +2246,6 @@ c) Que se trate de una obra arquitectónica que constituya un hito de significac
 
 Los inmuebles o zonas de conservación histórica que se declaren como tales conforme al presente artículo podrán regularse conforme a las normas urbanísticas señaladas en la letra c), del numeral 3 del artículo 2.1.10., y por las disposiciones que se establezcan en la forma contemplada en el artículo 2.7.8., ambos de la presente ordenanza.
 
-#### Artículo 2
-
-1.10. El Límite Urbano, para efectos de su aprobación y aplicación, estará conformado por los siguientes documentos:
-
-1. Memoria Explicativa, que contenga los elementos técnicos necesarios para fundamentar su proposición.
-
-2. Descripción de los puntos y tramos de la poligonal que corresponda al límite urbano.
-
-3. Plano, que contenga su graficación, que se elaborará sobre base aerofotogramétrica o similar actualizada a escala 1:10.000, 1:5.000 o a escala adecuada según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
-
 ## Capítulo 2.
 
 DE LAS NORMAS DE URBANIZACIÓN Y DE LOS APORTES AL ESPACIO PÚBLICO
@@ -2294,9 +2306,9 @@ En todos los casos señalados en las letras anteriores, la elaboración del proy
 
 #### Artículo 2
 
-2.3. La construcción, reconstrucción, reparación, alteración, ampliación o demolición de edificios, no generan, por sí solas, obligación de ejecutar obras de urbanización, sin perjuicio de las reposiciones que corresponda realizar en el espacio público por eventuales daños producidos por las faenas de construcción propias del proyecto.
+2.3. La construcción, reconstrucción, reparación, alteración, ampliación o demolición de edificios, no generan, por sí solas, obligación de ejecutar obras de urbanización en el espacio público, sin perjuicio de las reposiciones que corresponda realizar por eventuales daños producidos en los pavimentos, mobiliario urbano y otros elementos existentes en el espacio público, por las faenas de construcción propias del proyecto.
 
-Sin embargo, se deberán considerar las obras de infraestructura de agua potable, alcantarillado, electricidad y telecomunicaciones que, de acuerdo a los requerimientos del proyecto, deban ejecutar los respectivos servicios conforme a la legislación vigente.
+Sin embargo, se deberán considerar las obras de infraestructura sanitaria, tales como plantas de captación, distribución o tratamiento de agua potable, aguas servidas, aguas grises; de infraestructura energética, tales como electricidad, gas y telecomunicaciones que, de acuerdo a los requerimientos del proyecto, se deban ejecutar conforme a la legislación vigente.
 
 #### Artículo 2
 
@@ -2888,11 +2900,11 @@ Con todo, las ciclovías no podrán afectar la ruta accesible a que se refiere e
 
 Para que una vía sea considerada como pasaje, deberá tener un ancho no inferior a 8 metros ni superior a 11 metros, medidos entre líneas oficiales, debiendo cumplir con las siguientes condiciones:
 
-Los pasajes sin salida corresponden a aquellos a los cuales se accede sólo por uno de sus extremos desde una vía de circulación vehicular continua y contemplan en el otro extremo una área pavimentada que permita el giro en 180º de vehículos, incluidos los de emergencia, cuyo radio interior no sea inferior a 6 metros.
+Los pasajes sin salida corresponden a aquellos a los cuales se accede sólo por uno de sus extremos desde una vía de circulación vehicular continua y contemplan en el otro extremo un área pavimentada que permita el giro en 180º de vehículos, incluidos los de emergencia, cuyo radio interior no sea inferior a 6 metros.
 
 Los pasajes con salida corresponden a aquellos en que por ambos extremos se accede a vías de circulación vehicular continua.
 
-Con todo, los pasajes no podrán considerarse como acceso para los usos de suelo de infraestructura, actividades productivas, equipamiento y residencial, con excepción del destino de vivienda. En este último caso los pasajes no podrán servir de acceso exclusivo a viviendas que excedan los dos pisos de altura más mansarda.
+Con todo, los pasajes no podrán considerarse como acceso para los usos de suelo de infraestructura, actividades productivas, equipamiento y residencial, con excepción de los equipamientos vecinales de clase social, y del destino de vivienda. En este último caso los pasajes solo podrán servir de acceso exclusivo a viviendas unifamiliares que no excedan los dos pisos de altura más mansarda.
 
 Los pasajes peatonales exclusivos no podrán constituir el único acceso a las viviendas, salvo en los casos en que no existan vías públicas que le den acceso.
 
@@ -3704,17 +3716,11 @@ El anteproyecto aprobado mantendrá su vigencia por el plazo indicado en el art�
 
 2. Plano de loteo con las características del número 5 del artículo 3.1.4.
 
-3. Planos de los proyectos de urbanización, debidamente firmados por los profesionales competentes, incluyendo, cuando el proyecto consulte tales instalaciones, los correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias, redes de electrificación, alumbrado público, gas, pavimentación y sus obras complementarias, plantaciones y obras de ornato, y obras de defensa del terreno, todos ellos con sus respectivas especificaciones técnicas.
+3. Planos de los proyectos de urbanización, debidamente firmados por los profesionales competentes, incluyendo, cuando el proyecto consulte tales instalaciones, los correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias, aguas grises, redes de electrificación, alumbrado público, gas, pavimentación y sus obras complementarias, plantaciones y obras de ornato, y obras de defensa del terreno, todos ellos con sus respectivas especificaciones técnicas.
 
-Tratándose de Decreto 10, VIVIENDA
+Tratándose de proyectos de loteo o de loteo con construcción simultánea que deban registrarse en el Registro de Proyectos Inmobiliarios, se presentará el proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones.
 
-#### Artículo primero
-
-N° 3, 3.1 y 3.2
-
-D.O. 28.11.2018proyectos de loteo o de loteo con construcción simultánea que deban registrarse en el Registro de Proyectos Inmobiliarios, se presentará el proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones.
-
-4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
+4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, emitido por la empresa concesionaria de servicios sanitarios correspondiente. De no existir empresa concesionaria de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva. Tratándose de proyectos que incorporen sistemas de reutilización de aguas grises, en áreas donde exista una empresa concesionaria de servicios sanitarios, junto con el certificado de factibilidad se deberá presentar el comprobante de solicitud de aprobación del proyecto de reutilización de aguas grises ante la autoridad sanitaria regional. Tratándose de estos mismos proyectos, en áreas donde no exista una empresa concesionaria de servicios sanitarios, se deberá presentar copia de la resolución que aprueba el proyecto de reutilización de aguas grises emitida por la respectiva autoridad sanitaria regional.
 
 5. Memoria explicativa del loteo.
 
@@ -4018,9 +4024,11 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 
 2. Certificado de ejecución de la pavimentación y sus obras complementarias, emitido por el Servicio Regional de Vivienda y Urbanización (SERVIU) o por el Departamento de Pavimentación de la Municipalidad de Santiago, según corresponda.
 
-3. Certificado de ejecución de las redes y obras complementarias de agua potable y alcantarillado de aguas servidas y aguas lluvia cuando corresponda, emitido por la respectiva empresa de servicio público sanitario que corresponda.
+3. Certificado de ejecución de las redes y obras complementarias de agua potable y alcantarillado de aguas servidas y aguas lluvia cuando corresponda, emitido por la respectiva empresa de servicio público sanitario que corresponda. Tratándose de proyectos que incorporen sistemas de reutilización de aguas grises, se deberá presentar copia de la resolución que autoriza su funcionamiento, emitida por la respectiva autoridad sanitaria regional.
 
-4. Certificado de ejecución de las redes y obras complementarias de electrificación y alumbrado público, emitido por la empresa de servicio público de distribución de energía eléctrica que corresponda.
+4. Certificado de ejecución de las redes y obras
+
+complementarias de electrificación y alumbrado público, emitido por la empresa de servicio público de distribución de energía eléctrica que corresponda.
 
 5. Certificado de ejecución de las redes de gas y sus obras complementarias, emitido por la empresa de servicio público de gas, cuando proceda.
 
@@ -4799,6 +4807,40 @@ Se exceptúan de cumplir con las distancias mínimas establecidas en el inciso a
 #### Artículo 4
 
 1.16. En los edificios de tres o más pisos, y en todos los edificios cualquiera sea su número de pisos en que coincida la línea de edificación con la línea oficial, las aguas lluvias provenientes de las cubiertas, terrazas, patios descubiertos, y demás espacios análogos, no podrán derramarse directamente sobre el terreno adyacente y sobre espacios o vías de uso público, debiendo ser éstas debidamente canalizadas en todo su recorrido desde el lugar del cual provienen hasta el nivel del terreno en el que se vierten. El proyectista deberá proponer un sistema, aceptable para la Dirección de Obras Municipales, que demuestre fehacientemente que el derrame de las aguas lluvias sobre el terreno no ocasionará molestias al tránsito peatonal especialmente en aquel que se desarrolla en los espacios de uso público.
+
+#### Artículo 4
+
+1.17. Los proyectos que contemplen o deban contemplar un sistema de reutilización de aguas grises, deberán enmarcarse, según corresponda, en alguno de los siguientes tipos definidos en la ley N° 21.075:
+
+1) Sistema de reutilización de aguas grises domiciliario.
+
+2) Sistema de reutilización de aguas grises domiciliario colectivo.
+
+3) Sistema de reutilización de aguas grises de interés público.
+
+Deberán contar con uno de estos sistemas de reutilización de aguas grises, las edificaciones cuya superficie edificada sea igual o superior a 5.000 metros cuadrados, sin importar su destino y emplazamiento, exceptuando aquellas destinadas a vivienda, en las cuales su implementación será optativa.
+
+Asimismo, deberán contar con uno de estos sistemas de reutilización de aguas grises las siguientes edificaciones:
+
+A) Edificaciones ubicadas en el área urbana o rural y destinadas a hospedaje y servicios cuya carga de ocupación sea superior a 100 personas; educación, cuya carga de ocupación sea superior a 500 personas, y comercio, cuya carga de ocupación sea superior a 250 personas, respectivamente, emplazadas entre la Región de Arica y Parinacota y la Región de Valparaíso, ambas inclusive.
+
+B) Edificaciones ubicadas en el área urbana destinadas a hospedaje y servicios cuya carga de ocupación sea superior a 250 personas; educación, cuya carga de ocupación sea superior a 1.000 personas, y comercio, cuya carga de ocupación sea superior a 500 personas, respectivamente, emplazadas entre la Región Metropolitana de Santiago y la Región de Magallanes y de la Antártica Chilena, ambas inclusive.
+
+C) Las edificaciones destinadas a terminales de transporte de pasajeros terrestre, ferroviario, portuario y aeroportuario, cuya sala de espera tenga una carga de ocupación superior a 500 personas, sin importar su ubicación ni la región donde se emplacen.
+
+Sin perjuicio de los requisitos que señale el reglamento al que se refiere el artículo 3 de la ley N° 21.075, las plantas de tratamiento de los proyectos que incorporan sistemas de reutilización de aguas grises deberán cumplir las siguientes condiciones:
+
+1) Podrán estar ubicadas al interior del edificio, soterradas o sobre la superficie del predio del proyecto. En este último caso, se considerarán para el cálculo de superficie edificada, excepto en el caso de un sistema de reutilización de aguas grises domiciliario de una vivienda unifamiliar.
+
+2) En caso de sistemas de reutilización de aguas grises domiciliarios y domiciliarios colectivos, las plantas de tratamiento podrán emplazarse en antejardines siempre y cuando estén soterradas y no superen el 50% de la superficie de éste.
+
+Las plantas de tratamiento emplazadas en superficie, de proyectos cuyo destino no sea vivienda, deberán estar ubicadas a una distancia mínima de 3 metros de aquellos deslindes del predio que no enfrenten al espacio público. Si la planta está soterrada, deberá ubicarse a una distancia mínima de 1,5 metros de esos deslindes.
+
+3) Las plantas de tratamiento de los sistemas de reutilización de aguas grises domiciliarios colectivos o de interés público que se emplacen sobre la superficie del terreno, deberán estar delimitadas con cierros en todos sus costados.
+
+4) Las plantas de tratamiento de los sistemas de reutilización de aguas grises deberán ubicarse fuera de la ruta accesible y en ningún caso el área destinada a efectuar las labores para su mantención y/o inspección podrá interrumpir esta ruta.
+
+Los edificios existentes, parques, plazas o áreas verdes que contemplen la instalación de un sistema de reutilización de aguas grises, deberán enmarcarse, según corresponda, en alguno de los sistemas señalados en el inciso primero, y les serán aplicables las mismas exigencias del inciso cuarto de este artículo.
 
 ## Capítulo 2
 
@@ -7824,7 +7866,7 @@ f) Proyecto de cálculo estructural, cuando corresponda, de acuerdo con el artí
 
 g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
 
-h) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos en caso que la solicitud se refiera a un predio que contaba con dichos servicios y no se aumentan las instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado suscrito por un profesional competente, el que deberá estar aprobado por la autoridad respectiva antes de la recepción definitiva de la obra.
+h) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos en caso que la solicitud se refiera a un predio que contaba con dichos servicios y no se aumentan las instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado suscrito por un profesional competente, el que deberá estar aprobado por la autoridad respectiva antes de la recepción definitiva de la obra.
 
 La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo, dentro los plazos establecidos en el artículo 118 de la Ley General de Urbanismo y Construcciones.
 
@@ -7876,7 +7918,7 @@ g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando cor
 
 h) Informe favorable de un Revisor Independiente, cuando se trate de edificios de uso público.
 
-i) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos en caso que la solicitud se refiera a un predio que contaba con dichos servicios y no se aumentan las instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado suscrito por un profesional competente, el que deberá estar aprobado por la autoridad respectiva antes de la recepción final de la obra.
+i) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos en caso que la solicitud se refiera a un predio que contaba con dichos servicios y no se aumentan las instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado suscrito por un profesional competente, el que deberá estar aprobado por la autoridad respectiva antes de la recepción final de la obra.
 
 La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo dentro los plazos establecidos en el artículo 118 de la Ley General de Urbanismo y Construcciones.
 
@@ -8066,9 +8108,9 @@ b) Declaración simple del
 
 propietario de ser
 
-titular del dominio del
+titular del dominio
 
-predio.
+del predio.
 
 c) Las disposiciones especiales
 
@@ -8076,29 +8118,25 @@ a que se acoge el proyecto,
 
 en su caso.
 
-d) Los profesionales
+d) Los profesionales competentes
 
-competentes que
-
-intervienen en los
+que intervienen en los
 
 proyectos.
 
 e) Si el proyecto consulta,
 
-en todo o parte,
+en todo o parte, edificios
 
-edificios de uso público.
+de uso público.
 
 f) Si cuenta con informe
 
-favorable de un
+favorable de un Revisor
 
-Revisor Independiente
+Independiente y la
 
-y la individualización
-
-de éste.
+individualización de éste.
 
 g) Si cuenta con informe
 
@@ -8108,21 +8146,19 @@ de Proyecto de Cálculo
 
 Estructural y la
 
-individualización de
-
-éste.
+individualización de éste.
 
 h) Si cuenta con anteproyecto
 
-aprobado y vigente que
+aprobado y vigente que haya
 
-haya servido de base para
+servido de base para el
 
-el desarrollo del proyecto,
+desarrollo del proyecto,
 
-acompañando fotocopia de
+acompañando fotocopia
 
-la resolución de aprobación.
+de la resolución de aprobación.
 
 2. Fotocopia del Certificado de Informaciones Previas vigente o bien del que sirvió de base para desarrollar el anteproyecto vigente y de la plancheta catastral si ésta hubiere sido proporcionada .
 
@@ -8132,7 +8168,7 @@ la resolución de aprobación.
 
 5. Informe favorable de Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación.
 
-6. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
+6. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente. De no existir empresa concesionaria de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva. Tratándose de proyectos que incorporen sistemas de reutilización de aguas grises, en áreas donde exista una empresa concesionaria de servicios sanitarios, junto con el certificado de factibilidad se deberá presentar el comprobante de solicitud de aprobación del proyecto de reutilización de aguas grises ante la autoridad sanitaria regional. Tratándose de estos mismos proyectos, en áreas donde no exista una empresa concesionaria de servicios sanitarios, se deberá presentar copia de la resolución que aprueba el proyecto de reutilización de aguas grises emitida por la autoridad sanitaria regional.
 
 7. Planos de arquitectura numerados, que deberán contener :
 
@@ -8156,17 +8192,17 @@ b) Emplazamiento de el o los
 
 edificios, en que aparezca
 
-su silueta en sus partes
+su silueta en sus partes más
 
-más salientes, debidamente
+salientes, debidamente
 
-acotada y con indicación
+acotada y con indicación de
 
-de sus distancias hacia
+sus distancias hacia los
 
-los deslindes respectivos
+deslindes respectivos o
 
-o entre edificios, si
+entre edificios, si
 
 correspondiera, incluyendo
 
@@ -8190,17 +8226,15 @@ c) Planta de todos los pisos,
 
 debidamente acotadas, señalando
 
-el o los destinos
+el o los destinos contemplados.
 
-contemplados. Las cotas
+Las cotas deberán ser
 
-deberán ser suficientes
+suficientes para permitir
 
-para permitir calcular
+calcular la superficie
 
-la superficie edificada
-
-de cada planta.
+edificada de cada planta.
 
 d) Cortes y elevaciones que
 
@@ -8210,55 +8244,51 @@ salientes de la edificación,
 
 sus pisos y niveles
 
-interiores, la línea de
+interiores, la línea de suelo
 
-suelo natural y la
+natural y la rectificada del
 
-rectificada del proyecto,
+proyecto, las rasantes en sus
 
-las rasantes en sus puntos
+puntos más críticos con
 
-más críticos con indicación
+indicación de sus cotas de
 
-de sus cotas de nivel,
+nivel, salvo que se ilustren
 
-salvo que se ilustren en
+en plano anexo, sus
 
-plano anexo, sus distancia-
+distanciamientos y la altura
 
-mientos y la altura de la
+de la edificación. En caso
 
-edificación. En caso que haya
+que haya diferencias de nivel
 
-diferencias de nivel con el
-
-terreno vecino o con el
+con el terreno vecino o con el
 
 espacio público, se indicarán
 
-las cotas de éstos y
+las cotas de éstos y el punto
 
-el punto de aplicación de
+de aplicación de las rasantes.
 
-las rasantes. Si se tratare
+Si se tratare de edificación
 
-de edificación continua, se
+continua, se acotará la altura
 
-acotará la altura de ésta,
+de ésta, sobre la cual se
 
-sobre la cual se aplicarán
+aplicarán las rasantes
 
-las rasantes respectivas a la
+respectivas a la edificación
 
-edificación aislada que
+aislada que se permita sobre
 
-se permita sobre ella. Los
+ella. Los cortes incluirán las
 
-cortes incluirán las escaleras
+escaleras y ascensores si los
 
-y ascensores si los hubiere,
-
-las cotas verticales
+hubiere, las cotas verticales
 
 principales y la altura libre
 
@@ -8266,9 +8296,9 @@ bajo las vigas.
 
 e) Planta de cubiertas.
 
-f) Plano de cierro, cuando el proyecto lo
+f) Plano de cierro, cuando el
 
-consulte.
+proyecto lo consulte.
 
 8. Cuadro de superficies, indicando las superficies parciales necesarias según el tipo de proyecto y cálculo de carga de ocupación de acuerdo a estas superficies y a los destinos contemplados en el proyecto.
 
@@ -8294,8 +8324,6 @@ Se incorporará además una Memoria de Accesibilidad del proyecto suscrita por e
 
 15. Proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones, cuando se trate de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios.
 
-16. Comprobante de ingreso del Informe de Mitigación de Impacto Vial o del certificado que acredite que el proyecto no requiere de dicho informe, en ambos casos emitido por el sistema electrónico.
-
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
 En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado se admitirán planos a otra escala.
@@ -8305,8 +8333,6 @@ Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de
 Las solicitudes de permiso de edificación de las construcciones ubicadas fuera de los límites urbanos establecidos en los Instrumentos de Planificación Territorial, deberán dar cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, debiendo adjuntar las autorizaciones o informes que correspondan.
 
 Se entienden incluidos en el permiso de edificación todas las autorizaciones o los permisos necesarios para la ejecución de una obra, tales como permisos de demolición, instalación de faenas, instalación de grúas y similares, cuando se hayan adjuntado los antecedentes respectivos.
-
-En los casos que sea obligatorio la elaboración de un Informe de Mitigación de Impacto Vial, será requisito para otorgar el permiso que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
 
 #### Artículo 5
 
@@ -8772,7 +8798,7 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 1. Informe del constructor o de la empresa o profesional distinto del constructor, según corresponda, en que se detallen las medidas de gestión y de control de calidad adoptadas durante la obra y la certificación de su cumplimiento. En dicho informe deben incluirse las exigencias señaladas en el artículo 5.8.3. de este mismo Título.
 
-2. Certificado de instalaciones de agua potable y alcantarillado, emitido por la Empresa de Servicios Sanitarios que corresponda o por la autoridad sanitaria, según proceda.
+2. Certificado de instalaciones de agua potable y alcantarillado, emitido por la Empresa Concesionaria de Servicios Sanitarios que corresponda o por la autoridad sanitaria, según proceda. Tratándose de proyectos que incorporen o deban incorporar sistemas de reutilización de aguas grises, se deberá presentar copia de la resolución que autoriza su funcionamiento, emitida por la respectiva autoridad sanitaria regional.
 
 3. Documentos a que se refieren los artículos 5.9.2. y 5.9.3. , según se trate de instalaciones eléctricas interiores o instalaciones interiores de gas, respectivamente, cuando proceda.
 
@@ -8783,10 +8809,6 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 6. Declaración de instalaciones de calefacción, central de agua caliente y aire acondicionado, emitida por el instalador, cuando proceda.
 
 7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales, cuando proceda.
-
-8. En el caso de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, se deberá ingresar la documentación que acredite la ejecución de las medidas correspondientes o la boleta bancaria o póliza de seguro en el caso que la garantice su ejecución. Cuando se hayan considerado etapas con mitigaciones parciales, deberá acreditarse su ejecución o la existencia de la boleta bancaria o póliza de seguro que garantice la respectiva etapa, en los casos que corresponda.
-
-Lo señalado en el párrafo anterior será, también, exigible cuando se haya aprobado materializar los Aportes al Espacio Público a través de estudios, proyectos, obras y medidas conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
 
 Además, deberá acompañarse una declaración en el sentido de si ha habido o no cambios en el proyecto aprobado. Si los hubiere habido, deberán adjuntarse los documentos actualizados en los que incidan tales cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
 
@@ -8802,7 +8824,7 @@ Tratándose de la recepción definitiva de una obra menor, se adjuntarán al exp
 
 Tratándose de la recepción definitiva de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios, el Director de Obras Municipales deberá verificar previamente la correspondencia entre los antecedentes que constan en el Certificado que acredita ese registro, y en el Certificado de modificación de dicho registro cuando proceda, y los mismos antecedentes señalados en el permiso de edificación y en la solicitud de recepción definitiva. Cuando no se adjunte dicho Certificado o cuando no haya correspondencia, la solicitud de recepción será rechazada, emitiendo el respectivo comprobante de rechazo timbrado y fechado en el que se precise la causal en que se funda este rechazo.
 
-Será requisito para cursar la recepción definitiva de los proyectos que generen crecimiento urbano por densificación que se consideren las cesiones de suelo que exige esta Ordenanza o, alternativamente, el comprobante del pago por aporte o la ejecución o garantía de los estudios, proyectos, obras y medidas aprobados conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones, según sea el caso.
+> **Nota.** El numeral 12.1 del numero 12 del Decreto 10, Vivienda, publicada el 17.12.2020, modifica la presente norma en el sentido de reemplazar en el numeral 2. la frase "dotación de instalaciones" por la expresión "instalaciones domiciliarias.
 
 #### Artículo 5
 
@@ -10090,9 +10112,7 @@ Los escombros o desechos de la demolición deberán depositarse en lugares autor
 
 ## Capítulo 9
 
-INSTALACIONES Y PAVIMENTACION DE CALZADAS DE
-
-INTERIORES
+Instalaciones domiciliarias de agua potable, alcantarillado de aguas servidas e instalaciones de aguas grises.
 
 Instalaciones domiciliarias de agua potable y
 
@@ -10100,9 +10120,9 @@ desagües.
 
 #### Artículo 5
 
-9.1. Las instalaciones domiciliarias de agua potable y desagüe deberán ajustarse a las normas oficiales y a las disposiciones de los números siguientes:
+9.1. Las instalaciones domiciliarias de agua potable, alcantarillado de aguas servidas e instalaciones de aguas grises, deberán ajustarse a las normas oficiales y a las disposiciones de los números siguientes:
 
-1. La correcta ejecución de las instalaciones se acreditará con un certificado de recepción de la Empresa de Servicios Sanitarios regional que corresponda.
+1. La recepción de las obras de arranque y unión domiciliaria, se acreditará con el Certificado de instalaciones de agua potable y alcantarillado, otorgado por la empresa concesionaria de servicios sanitarios que corresponda. Tratándose de los sistemas de reutilización de aguas grises, la recepción del respectivo proyecto, incluidas la planta de tratamiento, instalaciones y equipos, se acreditará con la autorización de funcionamiento otorgada por la autoridad sanitaria regional.
 
 2. El estanque auxiliar se ubicará en subterráneo y tendrá las dimensiones necesarias para suprimir o disminuir a un mínimo las reservas de los estanques elevados.
 
@@ -10114,7 +10134,7 @@ Este estanque deberá alimentarse con bomba elevadora cuando la altura del edifi
 
 5. Los grifos para el servicio contra incendio podrán derivarse de la cañería matriz del servicio doméstico, sí ésta tiene un diámetro de 100 mm o más, o de una cañería independiente de diámetro no inferior a 100 mm.
 
-6. La instalación interna de desagües debe tener capacidad suficiente para evacuar el gasto máximo probable originado por la descarga de los artefactos sanitarios y deberá ser recibida por la Empresa de Servicios Sanitarios regional que corresponda.
+6. La instalación interna de alcantarillado de aguas servidas debe tener capacidad suficiente para evacuar el gasto máximo probable originado por la descarga de los artefactos sanitarios y deberá ser recibida por la Empresa Concesionaria de Servicios Sanitarios regional que corresponda.
 
 7. Se deberá consultar sistema automático de elevación de las aguas residuales para los pisos que, por su nivel, no alcancen a evacuar por simple gravedad al colector público. La cañería deberá estar provista de una válvula de retención que impida la circulación en sentido contrario al normal.
 
@@ -10754,7 +10774,7 @@ Podrá aceptarse la instalación de generadores en zonas que no tengan servicio 
 
 #### Artículo 6
 
-3.2. Las Empresas de Servicios Sanitarios regionales, como asimismo las empresas concesionarias de otros servicios de utilidad pública, no podrán formular mayores exigencias que las señaladas como normas mínimas de urbanización en este Título.
+3.2. Las Empresas Concesionarias de Servicios Sanitarios regionales, como asimismo las empresas concesionarias de otros servicios de utilidad pública, no podrán formular mayores exigencias que las señaladas como normas mínimas de urbanización en este Título.
 
 Sin perjuicio de lo anterior y respecto del urbanizador, loteador o propietario, regirán las obligaciones y prohibiciones establecidas en los artículos 134, 135 y 136 de la Ley General de Urbanismo y Construcciones.
 
