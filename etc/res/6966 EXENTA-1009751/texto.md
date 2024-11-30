@@ -52,11 +52,13 @@ c) 11,7 - 12,7 GHz espacio - Tierra
 
 17,3 - 17,8 GHz Tierra - espacio
 
-d) 17,8 - 21,2 GHz espacio - Tierra
+d) 17,7 - 21,2 GHz espacio - Tierra
 
-27,5 - 31,0 GHz Tierra - espacio
+27,0 - 31,0 GHz Tierra - espacio
 
-e) Eliminado.
+e) 71 - 76 GHz (espacio-Tierra)
+
+81 - 86 GHz (Tierra-espacio)
 
 Nota 1: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo, los cuales para efectos de disminuir las eventuales interferencias con el servicio fijo satelital solo serán autorizados fuera de zonas urbanas. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
 
@@ -64,7 +66,9 @@ Nota 2: De acuerdo a lo establecido en el Plan General de Uso del Espectro Radio
 
 Nota 3: Conforme a lo establecido en el Plan General de Uso del Espectro Radioeléctrico, está permitida la utilización de la banda 17,3 - 17,8 GHz para los enlaces Tierra - espacio del servicio fijo por satélite, que opera a título secundario en la banda 12,2 - 12,7 GHz (espacio - Tierra), a condición de no interferir a los enlaces de conexión del servicio de radiodifusión por satélite.
 
-Nota 4. En la banda 27,5 - 28,35 GHz (Tierra - espacio) solo se autorizará estaciones terrenas de pasarela (o Gateway) y otras estaciones terrenas de similares características, en cuanto a los tamaños de antenas y ubicación geográfica. Además, dichas estaciones terrenas deberán estar ubicadas fuera de zonas urbanas consolidadas y no deberán causar interferencias perjudiciales a los servicios fijos o móviles en zonas urbanas consolidadas o industriales, que se autoricen al amparo de la resolución exenta Nº 836, de 2020, de la Subsecretaría de Telecomunicaciones.
+Nota 4. En la banda 27,0 - 28,35 GHz (Tierra - espacio) solo se autorizará estaciones terrenas de pasarela (o Gateway) y otras estaciones terrenas de similares características, en cuanto a los tamaños de antenas y ubicación geográfica. Además, dichas estaciones terrenas deberán estar ubicadas fuera de zonas urbanas consolidadas y no deberán causar interferencias perjudiciales a los servicios fijos o móviles en zonas urbanas consolidadas o industriales, que se autoricen al amparo de la resolución exenta Nº 836, de 2020, de la Subsecretaría de Telecomunicaciones.
+
+Nota 5. En las bandas 71 - 76 GHz y 81 - 86 GHz solo se autorizarán Gateways ubicados desde la Región de Coquimbo al sur del país, independientemente de eventuales restricciones de elevación mínimas de las antenas de los Gateways, que se podrán establecer a fin de evitar interferencias al radiotelescopio ALMA, o evitar interferencias a otros servicios de telecomunicaciones.
 
 #### Artículo 3º
 
@@ -80,13 +84,11 @@ Los terminales de usuario se podrán ubicar en cualquier parte dentro de la zona
 
 #### Artículo 6°
 
-Se permitirá el uso de las bandas 19,7-20,2 GHz (espacio-Tierra) y 29,5-30,0 GHz (Tierra-espacio) por estaciones terrenas en movimiento que se comuniquen con estaciones espaciales geoestacionarias del servicio fijo por satélite, debidamente inscritas ante la UIT.
+Se permitirán las estaciones terrenas en movimiento (ESIM, Earth station In Motion, por sus siglas en inglés), que se comuniquen con estaciones espaciales del servicio fijo por satélite, debidamente inscritas ante la UIT, y empleen las bandas señaladas en los literales b), c) y d) del artículo 2°. En todo caso, las ESIM no podrán reclamar contra interferencias provenientes de enlaces fijos en la banda 10,7 - 11,7 GHz.
 
-Con el objeto de asegurar la protección de todas las redes y sistemas de otros servicios que operen en las bandas de frecuencias mencionadas, las estaciones terrenas en movimiento se mantendrán dentro del conjunto de límites de los acuerdos de coordinación de las redes de satélites a que esté asociada la estación terrena o, de no existir tales acuerdos, se deberán cumplir los niveles de densidad de p.i.r.e. fuera del eje indicados en el Anexo 1 de la resolución (CMR-15) de la UIT relativa a la "Utilización de las bandas de frecuencias de 19,7-20,2 GHz y 29,5-30,0 GHz por estaciones terrenas en movimiento que se comuniquen con estaciones espaciales geoestacionarias del servicio fijo por satélite".
+Con el objeto de asegurar la protección de todas las redes y sistemas de otros servicios que operen en las bandas de frecuencias mencionadas, las estaciones terrenas en movimiento se mantendrán dentro del conjunto de límites de potencia que fijan las respectivas resoluciones del Reglamento de Radiocomunicaciones UIT N° 121, N° 156 y N° 169, para redes de satélites geoestacionarios; y resoluciones N° 123 y N° 133, para las redes no geoestacionarias. Además, las emisiones en la banda 27,5 - 29,1 GHz de las ESIM no deberán causar interferencias al servicio móvil regulado por la resolución exenta N° 836, de 2020, de la Subsecretaría de Telecomunicaciones, citada en literal f) de los Vistos. Asimismo, el operador deberá adoptar las medidas técnicas pertinentes para impedir la emisión de las ESIM terrestres en las bandas 27,5 - 30,0 GHz en la zona de coordinación centrada en 23°01'40" Sur y 67°45'17" Oeste, con un radio de 120 km dentro del territorio nacional.
 
 Será obligación de las concesionarias o permisionarias del servicio, garantizar que cuentan con un mecanismo de vigilancia y control permanente con el fin de deshabilitar la transmisión de estaciones terrenas en movimiento en caso sospechoso de interferencia causada por tales estaciones, para lo cual deberán identificar un punto de contacto. Asimismo, las concesionarias o permisionarias del servicio deberán asegurar que las estaciones terrenas en movimiento emplean técnicas de rastreo del satélite del servicio fijo asociado y que son resistentes a la captura y seguimiento de satélites de la órbita geoestacionaria adyacentes.
-
-Las estaciones terrenas en movimiento reguladas en el presente artículo no se utilizarán para aplicaciones de seguridad de la vida humana, ni se dependerá de ellas para este fin.
 
 #### Artículo 7º
 
