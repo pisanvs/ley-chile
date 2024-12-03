@@ -90,11 +90,13 @@ Cancélase la personalidad jurídica a la Universidad Iberoamericana de Ciencias
 
 #### Artículo 3°
 
-El cierre definitivo de la institución regirá a partir del 31 de enero de 2021, sin perjuicio que el Ministerio de Educación podrá, mediante decreto fundado, antes del vencimiento de dicha fecha, extender el plazo por un máximo de cuarenta y siete meses, a efectos de finalizar los procesos académicos y de titulación vigentes.
+El cierre definitivo de la institución regirá a partir del 31 de enero de 2021, sin perjuicio que el Ministerio de Educación podrá, mediante decreto fundado, antes del vencimiento de dicha fecha, extender el plazo por un máximo de cincuenta y nueve meses a efectos de finalizar los procesos académicos y de titulación vigentes.
 
 Sin perjuicio de lo anterior, y de conformidad con lo previsto en el inciso final del artículo 20 de la ley N° 20.800, la personalidad jurídica de la institución se mantendrá para el solo efecto de la implementación de administración a que alude su artículo 23, y los artículos 50 y 52 del decreto N° 20, de 2015, del Ministerio de Educación, que reglamenta las medidas previstas en la mencionada ley.
 
 Con todo, la universidad no podrá admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, desde la suscripción del presente acto.
+
+> **Nota.** El artículo 2 del Decreto 1328 Exento, Educación, publicado el 03.12.2024, dispone prorrogar el plazo de cierre definitivo de la Universidad Iberoamericana de Ciencias y Tecnología-Unicit hasta el 31 de diciembre de 2025.
 
 #### Artículo 4°
 
