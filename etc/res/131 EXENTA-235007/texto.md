@@ -12,11 +12,15 @@ Resuelvo:
 
 1° Estructúrase el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana, de la siguiente forma:
 
-a) EL REGISTRO DE SERVICIOS URBANOS DE TRANSPORTE PÚBLICO DE PASAJEROS DE LA REGIÓN METROPOLITANA.
+a) El Registro de Servicios Urbanos de Transporte Público de Pasajeros de la Región Metropolitana.
 
-Este comprenderá a los servicios cuyos trazados contemplen vías ubicadas sólo al interior de la Provincia de Santiago, más las comunas de San Bernardo y Puente Alto de las Provincias de Maipo y Cordillera, respectivamente, en adelante el Radio Urbano de la ciudad de Santiago.
+Este Registro comprenderá los servicios que se describen a continuación, conforme la siguiente distinción entre tipos:
 
-Para efectos del Sistema de Transporte Público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, este Registro comprenderá también los servicios de dicho Sistema cuyos trazados contemplen vías establecidas al interior del radio urbano específico determinado por resolución exenta Nº 3.963, de 2023, del Ministerio de Transportes y Telecomunicaciones y sus modificaciones, o la resolución que en el futuro la reemplace
+a1) Urbano: Este comprenderá a los servicios cuyos trazados contemplen vías ubicadas sólo al interior de la Provincia de Santiago, más las comunas de San Bernardo y Puente Alto de las Provincias de Maipo y Cordillera, respectivamente, en adelante el Radio Urbano de la ciudad de Santiago.
+
+Para efectos del Sistema de Transporte Público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, este Registro comprenderá también los servicios de dicho Sistema cuyos trazados contemplen vías establecidas al interior del radio urbano específico determinado por resolución exenta Nº 3.963, de 2023, del Ministerio de Transportes y Telecomunicaciones y sus modificaciones, o la resolución que en el futuro la reemplace.
+
+a2) Urbano Experimental: Este comprenderá aquellos servicios urbanos descritos en la letra a1) en que la totalidad de su flota cuente con una autorización para ejecutar un proyecto experimental, programa piloto u otras iniciativas de similar naturaleza.
 
 b) EL REGISTRO DE SERVICIOS RURALES DE TRANSPORTE PÚBLICO DE PASAJEROS DE LA REGIÓN METROPOLITANA.
 
@@ -24,13 +28,13 @@ Este Registro comprenderá los servicios que, sin superar los 200 Km. de recorri
 
 b1) RURAL: Este comprenderá a los servicios que teniendo por origen o destino alguna localidad ubicada fuera del Radio Urbano de la ciudad de Santiago, ingresan a algunas vías contenidas al interior de éste, en parte de sus itinerarios o trazados.
 
-b2) RURAL PERIFÉRICO: Este comprenderá a los servicios cuyos trazados o itinerarios se prestan desde vías o localidades ubicadas fuera del Radio Urbano de la ciudad de Santiago hasta ciudades y localidades situadas, tanto en la Región Metropolitana, como fuera del ámbito geográfico de la misma. Asimismo, comprenderá a todos aquellos servicios rurales de transporte público de pasajeros que, sin contar con las señaladas condiciones, tengan flotas conformadas únicamente por buses y siempre que dichos servicios y los buses asociados a éstos, sean o hayan sido parte de un proyecto experimental.
+b2) RURAL PERIFÉRICO: Este comprenderá a los servicios cuyos trazados o itinerarios se prestan desde vías o localidades ubicadas fuera del Radio Urbano de la ciudad de Santiago hasta ciudades y localidades situadas, tanto en la Región Metropolitana, como fuera del ámbito geográfico de la misma.
 
 c) El Registro de Servicios Interurbanos de Transporte Público de Pasajeros de la Región Metropolitana. Este comprenderá a todos los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana que superen los 200 km. de recorrido y aquellos que sin excederlos unen la ciudad de Santiago con localidades o ciudades costeras ubicadas en la V Región o, con cualquier otra ciudad o localidad situada fuera del límite de la Región Metropolitana.
 
-Los servicios urbanos de transporte público de pasajeros de la Región Metropolitana, señalados en la letra a) anterior, estarán comprendidos dentro del Registro de Servicios de Transporte de Pasajeros de Santiago, al que aluden los artículos 11 y 12 de la ley 19.040.
+Los servicios urbanos de transporte público de pasajeros de la Región Metropolitana, señalados en la letra a1) anterior, estarán comprendidos dentro del Registro de Servicios de Transporte de Pasajeros de Santiago, al que aluden los artículos 11 y 12 de la ley 19.040.
 
-A los vehículos de los servicios rurales e interurbanos de transporte público de pasajeros de la Región Metropolitana, señalados en las letras b) y c) anteriores, no les será aplicable lo dispuesto en los artículos 11 y 12 de la ley 19.040
+A los vehículos de los servicios urbanos experimentales, rurales e interurbanos de transporte público de pasajeros de la Región Metropolitana, señalados en las letras a2), b) y c) anteriores, no les será aplicable lo dispuesto en los artículos 11 y 12 de la ley 19.040
 
 2.- Derógase la Resolución Exenta Nº 730 de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
 
