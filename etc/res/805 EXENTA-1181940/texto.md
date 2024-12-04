@@ -46,7 +46,7 @@ iii. Obras menores: aquellas construcciones que se refieran a chifloneras, techu
 
 1.1. Reparaciones y reposiciones de revestimientos, manteniendo las pendientes en las cubiertas; canalizaciones y bajadas de aguas lluvias en muros de fachadas, iluminación y/o calefacción en las techumbres, que no afecten la expresión visible de los inmuebles y desagües que no signifiquen excavaciones en el subsuelo. Todo esto que responda al principio de mínima intervención tanto en su forma, colores y materialidades.
 
-1.2. Cambio de tejuelas originales por tejuelas de maderas nativas y no nativas, planchas de fierro estampado, zinc ondulado o liso, teja asfáltica, o sobreposición de zinc sobre tejuela. Privilegiando siempre uso de tejuela hacia la fachada principal del inmueble.
+1.2. Cambio de tejuelas originales por tejuelas de maderas nativas y no nativas, planchas de zinc ondulado, teja asfáltica, o sobreposición de zinc sobre tejuela. Privilegiando siempre uso de tejuela hacia la fachada principal del inmueble.
 
 1.3. Limpieza o pinturas en cubierta, comprendida como quinta fachada, en paleta de colores existentes en cada ZT.
 
@@ -58,13 +58,13 @@ iii. Obras menores: aquellas construcciones que se refieran a chifloneras, techu
 
 2.3. Pinturas de fachadas siguiendo paleta de colores existentes en cada ZT según corresponda.
 
-2.4. Al igual que en techumbres cambio de tejuelas originales por tejuelas, abriendo la opción de maderas no nativas, tinglados de madera horizontal, planchas de zinc, o materiales que conserven atributos de texturas en los volúmenes, entre ellas: tejuelas o siding de fibrocemento y planchas de zinc estampadas o que imiten tejuelas. Se recomienda privilegiar el uso de tejuelas de madera, a lo menos en la fachada principal.
+2.4. Al igual que en techumbres cambio de tejuelas originales por tejuelas, abriendo la opción de maderas no nativas, tinglados de madera horizontal, planchas de zinc, o materiales que conserven atributos de texturas en los volúmenes, entre ellas: tejuelas o siding de fibrocemento y planchas de zinc estampadas solo cuando estas sigan el diseño preexistente. Se recomienda privilegiar el uso de tejuelas de madera, a lo menos en la fachada principal.
 
 3. Obras menores de construcción de chifloneras, techumbres corridas o aisladas:
 
 3.1. Chifloneras que mantengan la proporción, composición y materialidad de la fachada del inmueble.
 
-3.2. Techumbres corridas o aisladas que mantengan las pendientes de las aguas originales y que sus apoyos vayan a la fachada del inmueble.
+3.2. Techumbres aisladas que mantengan las pendientes de las aguas originales en el resto del volumen, y que tengan la finalidad de proteger el acceso de las condiciones climáticas y se configuren como cubierta en volado, estructurada desde el muro de fachada. Se debe resguardar que sus dimensiones se ajusten a los espacios de acceso.
 
 12. Que, para la adecuada conservación de los valores y atributos y el carácter ambiental y propio de las Zonas Típicas y Pintorescas, cualquiera de las intervenciones a ejecutar deberá considerar los siguientes criterios:
 
@@ -87,6 +87,8 @@ vi. Priorización: se deberá realizar una evaluación de los daños para defini
 15. Que, la autorización contenida en esta resolución tendrá un plazo de vigencia de dos años desde su publicación en el Diario Oficial. Toda intervención en las ZT de la Provincia de Chiloé ejecutada con posterioridad al vencimiento del término indicado, no se considerará autorizado por la presente resolución. El plazo señalado será prorrogable, previo acuerdo favorable del Consejo de Monumentos Nacionales.
 
 Resuelvo:
+
+> **Nota.** El Nº 1 de la Resolución 966 Exenta, Culturas, publicada el 04.12.2024, prorroga la vigencia de la presente norma, a contar desde la fecha de su vencimiento, de forma indefinida, sujeto a revisión por parte del Consejo de Monumentos Nacionales cuando se estime necesario.
 
 1. Autorízase la ejecución de obras de mantención, reparación en techumbres y fachadas y obras menores que indica en los inmuebles insertos en las Zonas Típicas o Pintorescas de la Provincia de Chiloé, Región de Los Lagos, en los términos indicados en los considerandos Nºs. 9, 10, 11 y 12 de la presente resolución.
 
