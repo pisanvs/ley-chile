@@ -1422,11 +1422,43 @@ j) Características y exigencias sobre tratamiento y plantaciones de los espacio
 
 k) Densidades e intensidades de usos, estándares de estacionamientos y la publicidad y propaganda en el BNUP.
 
-ART.1.1.04 Planos Seccionales de aplicación y
+ART.1.1.04 Planos de Detalle.
 
-precisión.
+Sin perjuicio de las normas y características contenidas en esta OL y en los Planos Oficiales nombrados en el Art. 1.1.01. de esta OL, las urbanizaciones, loteos, subdivisiones, fusiones, edificaciones, proyectos y obras en general deberán atenerse a lo que establezcan las Modificaciones al PRC o Planos de Detalle, según corresponda, que apruebe la Municipalidad, a fin de precisar la aplicación del Plan Regulador en aquellas áreas que fuere necesario, conforme a lo establecido en los Art. 2.1.10 bis y 2.1.14. de la OGUC.
 
-Sin perjuicio de las normas y características contenidas en esta OL y en los Planos Oficiales nombrados en el Art. 1.1.01. de esta OL, las urbanizaciones, loteos, subdivisiones, fusiones, edificaciones, proyectos y obras en general deberán atenerse a lo que establezcan las Modificaciones al PRC o Planos Seccionales, según corresponda, que apruebe la Municipalidad, a fin de precisar la aplicación del Plan Regulador en aquellas áreas que fuere necesario, conforme a lo establecido en el Art. 2.1.14. de la OGUC.
+Forman parte de este Plan Regulador los siguientes Planos de Detalle:
+
+Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile.
+
+El Plano de Detalle de la ZCH Población Salvador Legión Militar de Chile está conformado por los siguientes documentos:
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; Memoria explicativa.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L1: Objetivo general y límites del Plano de Detalle. Espacio público - Situación existente.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L2: Espacio público - Lineamientos.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L3: Espacio público Lineamientos.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L4: Espacio privado - Tipologías originales y sus alteraciones.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L5: Espacio privado - Tipologías originales y sus alteraciones.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L6 Espacio privado - Características de las tipologías originales.
+
+- Plano de Detalle 01: ZCH 04 Población Salvador Legión Militar de Chile; L7 Espacio privado - Normas para la edificación.
+
+Plano de Detalle 02: ZCH 14 Conjunto Calle Triana.
+
+El Plano de Detalle de la ZCH Conjunto Calle Triana está conformado por los siguientes documentos:
+
+- Plano de Detalle 02: ZCH 14 Conjunto Calle Triana; Memoria explicativa.
+
+- Plano de Detalle 02: ZCH 14 Conjunto Calle Triana; L1: Objetivo general y límites del Plano de Detalle. Espacio público - Situación existente y lineamientos.
+
+- Plano de Detalle 02: ZCH 14 Conjunto Calle Triana; L2: Espacio privado - Edificaciones originales y sus alteraciones.
+
+- Plano de Detalle 02: ZCH 14 Conjunto Calle Triana; L3: Espacio privado - Características de las edificaciones originales - Normas para la edificación.
 
 #### Artículo 1
 
@@ -3086,6 +3118,48 @@ Las actividades específicas permitidas o prohibidas para las ZEMoI y ZIM se con
 
 .
 
+#### Artículo 5
+
+6.05. Incentivos normativos ZEMoI de Salud.
+
+En aquellas Zonas de Equipamiento Metropolitano o Intercomunal con equipamiento de Salud, se podrán aplicar los siguientes incentivos normativos:
+
+a) Para la ZEMoI N° 2 Hospital del Salvador e Instituto Nacional del Tórax se permitirá el aumento de las normas base señaladas en el artículo 5.6.03 bajo los siguientes incentivos normativos:
+
+i) Incentivo a la generación de espacios privados de uso público al interior del predio.
+
+En aquellos nuevos proyectos que se desarrollen al interior del predio ZEMoI N° 2, se podrá superar la altura máxima permitida, hasta una altura máxima de 8 pisos (equivalente a 28 m), a condición que se habilite un área libre con las siguientes características:
+
+- Por cada área libre proyectada con una superficie equivalente a un 2% del predio, se podrá incrementar la altura máxima permitida en 5,25 m.
+
+- El área libre deberá estar ubicada a nivel de terreno natural.
+
+- Al menos un 75% del área libre no podrá tener construcciones subterráneas, y deberá contemplar áreas verdes, con especies de bajo requerimiento hídrico y adaptadas al cambio climático.
+
+- Esta área deberá ser accesible y estar abierta a todo tipo de público en horario diurno.
+
+ii) Incentivo a la sustentabilidad urbana: conservación y protección del patrimonio.
+
+Aquellos nuevos proyectos que se desarrollen al interior del predio ZEMoI N° 2 podrán aumentar su coeficiente de ocupación de suelo hasta un máximo de 0,5 a condición que se conserven edificaciones de valor patrimonial existentes en el predio, que no estén explícitamente protegidas por el PRCP y/o por el CMN.
+
+- Por cada 1 m² de edificación patrimonial que se conserve, se premiará con 2 m² adicionales de ocupación de suelo.
+
+b) Para la ZEMoI N° 4 Hospital Luis Calvo Mackenna se permitirá el aumento de las normas base señaladas en el artículo 5.6.03 bajo los siguientes incentivos normativos:
+
+i) Incentivo a la generación de espacios privados de uso público al interior del predio.
+
+En aquellos nuevos proyectos que se desarrollen al interior del predio ZEMoI N° 4, se podrá superar la altura máxima permitida, hasta una altura máxima de 8 pisos (equivalente a 28 m), y se podrá aumentar el coeficiente de constructibilidad hasta un máximo de 2,5 a condición que se habilite un área libre bajo las siguientes condiciones:
+
+- Por cada área libre proyectada con una superficie equivalente a un 2,5% del predio, se podrá incrementar la altura máxima permitida en 5,25 m.
+
+- El área libre deberá estar ubicada a nivel de terreno natural.
+
+- Al menos un 50% del área libre deberá contemplar áreas verdes, con especies de bajo requerimiento hídrico y adaptadas al cambio climático.
+
+ii) Incentivo a la sustentabilidad urbana: gestión de estacionamientos.
+
+Aquellos nuevos proyectos que se desarrollen al interior del predio ZEMoI N° 4 podrán aumentar su coeficiente de ocupación de suelo hasta un máximo de 0,5 a condición que no se construyan estacionamientos de superficie en el primer piso, con excepción de aquellos destinados a servicios de urgencia, abastecimiento y operación del establecimiento y/o a personas con discapacidad."
+
 ## Capítulo 5.7.
 
 AREAS VERDES PUBLICAS Y PRIVADAS PROTEGIDAS.
@@ -3196,6 +3270,8 @@ Además de las actividades permitidas en la zona de uso de suelo donde se encuen
 
 Las actividades productivas y la infraestructura quedan expresamente prohibidas
 
+Este artículo no será aplicable en aquellas zonas o inmuebles protegidos que tengan asignada una zona de uso de suelo patrimonial (ZUSP).
+
 #### Artículo 6
 
 1.10. DEROGADO
@@ -3232,7 +3308,9 @@ Las zonas de uso de suelo que se asigna a los predios del territorio comunal son
 
 #### Artículo 6
 
-2.03. DEROGADO.
+2.03. Zonas de uso de suelo en áreas de protección de recursos de valor patrimonial.
+
+Los proyectos de edificación nueva o refacción de la edificación existente que se proyecten en las áreas de protección de recursos de valor patrimonial cultural se regirán por las normas de las zonas de uso de suelo patrimonial (ZUSP) descritas en el cuadro a continuación.
 
 #### Artículo 6
 
@@ -3355,6 +3433,30 @@ El siguiente artículo define los usos permitidos y excluidos, en el terreno de 
 a) Usos Permitidos: Residencial, Comercio y Oficinas, Equipamiento Turístico, Recreacional y Deportivo, Industria Inofensiva y Areas Verdes.
 
 b) Usos Excluidos: Industria Molesta; black-kitchen, dark-kitchen, cocinas fantasmas, cocinas negras, restaurantes virtuales y similares; apart-hoteles.
+
+#### Artículo 6
+
+2.21. Zona de uso de suelo patrimonial residencial.
+
+Las actividades específicas permitidas o prohibidas en la zona de suelo patrimonial residencial se consignan en el cuadro a continuación.
+
+#### Artículo 6
+
+2.22. Zona de uso de suelo patrimonial residencial y de servicios.
+
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo patrimonial residencial y de servicios se consignan en el cuadro a continuación.
+
+#### Artículo 6
+
+2.23. Zona de uso de suelo patrimonial cultural mixta.
+
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo patrimonial cultural mixta se consignan en el cuadro a continuación.
+
+#### Artículo 6
+
+2.24. Zona de uso de suelo patrimonial comercial mixta.
+
+Las actividades específicas permitidas o prohibidas en la zona de uso de suelo patrimonial comercial mixta se consignan en el cuadro a continuación.
 
 ## Capítulo 6.3.
 
@@ -3592,8 +3694,10 @@ Jaime Márquez Rojas.- Arquitecto, Asesor Urbanista.
 
 > **Nota.** NOTA 4 El numeral 2.9 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de incorporar en el cuadro 32, en la fila correspondiente al tipo de equipamiento clase servicios, al final de la lista de las actividades prohibidas, un guion nuevo con la actividad «estacionamientos»
 
-> **Nota.** NOTA 5 Los numerales 2.10, 2.11, 2.12 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de eliminar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el cuarto guion de la casilla correspondiente a las actividades permitidas, la actividad «canales de televisión», incorporar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el recuadro correspondiente a las actividades prohibidas, «Edificaciones o locales destinados a: - canales de televisión»
+> **Nota.** NOTA 5 Los numerales 2.10, 2.11, 2.12 del número 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de eliminar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el cuarto guion de la casilla correspondiente a las actividades permitidas, la actividad «canales de televisión», incorporar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el recuadro correspondiente a las actividades prohibidas, «Edificaciones o locales destinados a: - canales de televisión»
 
-> **Nota.** NOTA 6 El numeral 1.1, 1.2, 1.3, 1.5, 1.7 y 1.8 del numero 1 del artículo único del Decreto 1039 Exento, Municipalidad de Providencia, publicado 27.07.2019, introduce cambios a los cuadros de los artículos 2.3.03, 5.2.02, 5.2.04, 5.6.01, 6.2.17, 6.2.18 respectivamente en el sentido de incorporar, añadir y modificar las imagenes de la manera que la citada norma indica.
+> **Nota.** NOTA 6 El numeral 1.1, 1.2, 1.3, 1.5, 1.7 y 1.8 del número 1 del artículo único del Decreto 1039 Exento, Municipalidad de Providencia, publicado 27.07.2019, introduce cambios a los cuadros de los artículos 2.3.03, 5.2.02, 5.2.04, 5.6.01, 6.2.17, 6.2.18 respectivamente en el sentido de incorporar, añadir y modificar las imagenes de la manera que la citada norma indica.
 
 > **Nota.** NOTA 7 Los numerales 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7 y 1.8 del número 1° del Decreto 1739 Exento, Municipalidad de Providencia, publicado el 23.12.2022, introducen modificaciones en la presente norma en los cuadros de los artículos siguientes: 5.6.04; cuadro 32 del artículo 6.2.12; cuadro 34 del artículo 6.2.14; cuadro 35 y 35 BIS del artículo 6.2.15; cuadro 36 del artículo 6.2.16; cuadro 37 del artículo 6.2.17 y cuadro 38 del artículo 6.2.18 del presente decreto, respectivamente, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 8 El numeral 1.3 del número 1, los numerales 2.1, 2.2 y 2.3 del número 2 y los numerales 3.1 y 3.2 del número 3, del artículo único del Decreto 1662 Exento, Municipalidad de Providencia, publicado el 05.12.2024, introducen modificaciones en la presente norma en los cuadros y/o planos de los artículos siguientes: cuadro del artículo 5.6.04; planos "L1/7 M4: Áreas, zonas e inmuebles protegidos" y "L 7/7 M4: Espacio privado: zonas de uso de suelo"; e incorpora Planos de Detalle al PRCP 2007 contenido en el presente decreto, respectivamente, de la manera que la citada norma indica.
