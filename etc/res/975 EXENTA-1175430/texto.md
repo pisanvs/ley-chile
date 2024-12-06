@@ -98,9 +98,9 @@ m. Bovino trazable: Bovino que cumple con lo establecido en la presente resoluci
 
 9.1. La venta de DIIO solo podrá efectuarse a RUT de titulares de establecimientos vigentes, en el que todos los RUP asociados a ese RUT, estén con Declaración de Existencia Animal (DEA) vigente.
 
-9.2. El máximo posible de DIIO a comprar durante un año calendario, corresponde al 5% más, sobre las existencias de terneros(as) declarados en la última DEA, según los registros en el Sistema de Información Pecuaria Oficial. Para el caso de los RUP que no declaran terneros(as) en la última DEA, el máximo posible de DIIO a comprar corresponde al 5% de la sumatoria total de bovinos declarados en dicha DEA. Esta cantidad de DIIO puede comprarse en una sola vez o fraccionada durante el año calendario. En caso que el titular del RUP necesite comprar justificadamente más que la cantidad requerida, debe solicitar la autorización por escrito o correo electrónico a la oficina del Servicio con jurisdicción sobre el RUP.
+9.2 La cantidad de DIIO a comprar para la especie bovina estará supeditada a la cantidad total de hembras (suma de vacas y vaquillas) indicadas en la declaración de existencia animal (DEA) vigente. El titular deberá presentar una fotocopia legible de la DEA entregada en la oficina SAG, o una copia impresa obtenida a través de la funcionalidad electrónica al momento de realizar la compra. Lo anterior, se debe presentar por cada RUP asociado al RUT del titular. La cantidad de DIIO declarada por el titular en DEA podrá ser vendida en una sola vez o fraccionada durante el año calendario.
 
-9.3. Cada vez que se realice la compra de DIIO, se debe entregar una declaración jurada simple al proveedor o distribuidor de DIIO firmada por el titular que señale el cumplimiento de lo dispuesto en esta resolución. El formato de declaración será establecido por el Servicio y estará disponible en su página web y en las sucursales de los proveedores y distribuidores de DIIO.
+9.3 Para realizar la compra de DIIO, el titular deberá presentar la Declaración de Existencia Animal (DEA) vigente, es decir, no superar los 365 días desde su realización. El titular podrá solicitar por escrito a la oficina del Servicio la autorización adicional de compra de DIIO, de un 5% respecto a la DEA presentada. El titular debe presentar al momento de la compra la autorización entregada por el Servicio al proveedor/distribuidor de DIIO.
 
 9.4. Los DIIO comprados por el titular son para aplicación exclusiva en bovinos de establecimientos (RUP) asociados a su RUT y no se pueden transferir a otro titular.
 
@@ -108,7 +108,7 @@ m. Bovino trazable: Bovino que cumple con lo establecido en la presente resoluci
 
 10. Las ferias y lugares de concentración de ganado que, en cumplimiento de lo dispuesto en la presente resolución, detectasen:
 
-10.1. Bovinos sin DIIO, deben restringir la transacción de dichos animales, los cuales deben ser devueltos al RUP de origen y a su vez se debe notificar inmediatamente dicha situación al Servicio quien podría determinar acciones a seguir dependiendo de la situación sanitaria que tiene el RUP de origen de ese animal, también debe notificar al titular del RUP de origen.
+10.1. Bovinos sin DIIO, deben restringir la transacción de dichos animales, los cuales deben ser devueltos al RUP de origen y notificar inmediatamente la situación al titular del RUP y al Servicio. El Servicio deberá aplicar y registrar el DIIO en SIPEC, junto con emitir un FMA que ampare dicho movimiento al RUP de procedencia.
 
 10.2. Bovinos con DIIO, pero sin registro en el Sistema de Información Pecuaria Oficial, una vez detectado se debe notificar inmediatamente al titular del RUP de origen y al Servicio.
 
