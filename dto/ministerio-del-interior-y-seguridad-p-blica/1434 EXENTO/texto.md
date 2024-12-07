@@ -332,7 +332,7 @@ Tabla N° 7: Sistema de Telecomunicaciones
 
 -----------------------------------------
 
-1 Centro Móvil de Operaciones de Emergencia (MEOC): puesto de comunicación móvil y desplegable a nivel nacional, dotadas de tecnología de telecomunicaciones (radial, telefonía e internet satelital y sistema de respaldo energético).
+(1) Centro Móvil de Operaciones de Emergencia (MEOC): puesto de comunicación móvil y desplegable a nivel nacional, dotadas de tecnología de telecomunicaciones (radial, telefonía e internet satelital y sistema de respaldo energético).
 
 5.2.2. Niveles de Conectividad
 
@@ -624,7 +624,13 @@ De manera específica, la activación y convocatoria de las mesas técnicas naci
 
 . COE (nacional, regional, provincial y comunal): establecen la coordinación táctica y enfoque integral de la toma de decisiones y su control.
 
-6.4.4. Desmovilización
+6.4.4 Sistema de Comando de Incidentes (SCI) La fase de respuesta debe considerar la implementación del Sistema de Comando de Incidentes como sistema de administración y gestión, que permite organizar las operaciones tanto a corto como a largo plazo por parte de los organismos desplegados en terreno durante la atención de un evento, incidente u operativo; permitiendo el trabajo institucional e interinstitucional integrado.
+
+La implementación del Sistema de Comando de Incidentes (SCI), tributa a las estructuras definidas para la Gestión del Riesgo de Desastres del Sistema Nacional de Prevención y Respuesta ante Desastres (Sinapred), constituyéndose como una herramienta administrativa para desarrollar las operaciones durante la fase de respuesta.
+
+Para efectos de la implementación de las normas contenidas en este artículo, el Servicio Nacional de Prevención y Respuesta ante Desastres deberá elaborar un plan de trabajo que contemplará la gradualidad de ésta. El plan de trabajo deberá ser elaborado dentro de 90 días siguientes a la publicación en el Diario Oficial del presente decreto.
+
+6.4.5. Desmovilización
 
 La desmovilización corresponde al proceso de retorno ordenado, coordinado, seguro y eficiente de los recursos (humanos, técnicos y materiales) dispuestos en un incidente o evento. Esta etapa aplica para los organismos que son movilizados para participar de la respuesta y que cuentan con un plan o procedimiento de desmovilización.
 
@@ -674,7 +680,9 @@ Para los Estados de Excepción indicados, los Jefes de la Defensa Nacional tendr
 
 7. Sistema de Evaluación de Daños y Necesidades.
 
-Una vez acaecida una emergencia, desastre o catástrofe, es necesario evaluar los daños y necesidades de la población. El objetivo del sistema de evaluación de daños y necesidades es normalizar el registro de información de emergencia en todo el país manejando documentos simples, de un formato único, que permitan dar respuesta a las interrogantes fundamentales que surgen al ocurrir un evento destructivo a nivel local y determinar el impacto de un evento destructivo en una comunidad.
+Una vez acaecida una emergencia, es necesario evaluar los daños y necesidades de la población. El objetivo del sistema de evaluación de daños y necesidades es normalizar el registro de información de emergencia en todo el país manejando documentos simples, de un formato único, que permitan dar respuesta a las interrogantes fundamentales que surgen al ocurrir un evento destructivo a nivel local y determinar el impacto de un evento destructivo en una comunidad. La evaluación de daños y necesidades se realiza a través del Informe Alfa, la Ficha Básica de Emergencia (FIBE) y la Ficha Básica de Emergencia Hídrica (FIBEH), como se expondrá más adelante.
+
+Sin perjuicio de lo expuesto, se debe tener presente que la Subsecretaría de Servicios Sociales administra el Sistema de Información Social en Emergencias (SISE), compuesto por el banco de datos que contiene la información recopilada por los instrumentos de caracterización socioeconómica utilizados en situaciones de emergencia conforme a lo dispuesto en la normativa vigente y por aquella que aporten los organismos intervinientes para efectos de la focalización de beneficios sociales asociados a la emergencia. A través del SISE, los órganos de la Administración del Estado que cuenten con competencias en una o más etapas del ciclo para la gestión de riesgo de desastres, podrán acceder a la información socioeconómica necesaria para apoyar la toma de decisiones ante situaciones de emergencia. El sistema contempla: 1) La administración de los instrumentos de calificación socioeconómica de emergencia (FIBE y FIBEH o los instrumentos que los reemplacen), los protocolos de aplicación de dichos instrumentos y el tratamiento de datos necesario para otorgar información oportuna y fidedigna que apoye la toma de decisiones; 2) La acreditación y capacitación de encuestadores habilitados para aplicar los instrumentos de calificación socioeconómica de emergencia; 3) La disponibilidad de información oportuna a los hogares afectados, relacionada a su afectación y beneficios.
 
 La evaluación de daños y necesidades se realiza a través de los siguientes instrumentos:
 
@@ -692,19 +700,29 @@ Sin perjuicio de lo expuesto en este punto, en caso que la emergencia supere el 
 
 b. Ficha Básica de Emergencia (FIBE) y Ficha Básica de Emergencia Hídrica (FIBEH):
 
-La Ficha Básica de Emergencia (FIBE) es un instrumento de catastro que se aplica en terreno en la o las áreas afectadas como consecuencia de una emergencia, para identificar a los afectados y sus grupos familiares. A su vez, la Ficha Básica de Emergencia Hídrica (FIBEH) es un instrumento de catastro que se aplica en terreno en la o las áreas afectadas como consecuencia del déficit hídrico, para identificar a los afectados y sus grupos familiares.
+La Ficha Básica de Emergencia (FIBE) es un instrumento de caracterización socioeconómica que se aplica en terreno en la o las áreas afectadas como consecuencia de una emergencia, para catastrar e identificar a los afectados y sus grupos familiares. A su vez, la Ficha Básica de Emergencia Hídrica (FIBEH) es un instrumento de caracterización socioeconómica que se aplica en terreno en la o las áreas afectadas como consecuencia del déficit hídrico, para catastrar e identificar a los afectados y sus grupos familiares.
 
-El propósito de estos instrumentos es normalizar el proceso de identificación de daños en personas, bienes y la satisfacción de necesidades mínimas que permitan superar la situación, ante la ocurrencia de una emergencia, desastre o catástrofe determinada.
+El propósito de estos instrumentos es normalizar el proceso de catastro e identificación de daños en personas, bienes y la satisfacción de necesidades mínimas que permitan superar la situación, ante la ocurrencia de una emergencia determinada.
+
+Previa validación de los datos personales del encuestado y/o su grupo familiar, con las bases de datos administrativas disponibles, la información de estos instrumentos permitirá calificar al hogar como afectados, permitiendo ordenar y priorizar la respuesta del Estado frente a situaciones de emergencia.
 
 La aplicación de estos instrumentos se da como un proceso continuo en el tiempo, permitiendo la actualización y mejoramiento de la información en un momento determinado. El uso de ellos dependerá de la afectación del evento pudiendo ser aplicado a nivel comunal, provincial y regional.
 
-Corresponde al Ministerio de Desarrollo Social y Familia, a través de la Subsecretaría de Servicios Sociales, la confección y elaboración de la FIBE y de la FIBEH, cuyos formatos y Guías de Aplicación serán confeccionados y aprobados mediante acto administrativo, los cuales deberán ser comunicados a todas las municipalidades, delegaciones presidenciales regionales y provinciales, a la Onemi o su sucesor legal, al Ministerio del Interior y Seguridad Pública, otros ministerios y a los servicios públicos relacionados.
+Corresponde al Ministerio de Desarrollo Social y Familia, a través de la Subsecretaría de Servicios Sociales, la confección y elaboración de la FIBE y de la FIBEH, cuyos formatos, manuales y guías de aplicación serán confeccionados y aprobados mediante actos administrativos de dicha Subsecretaría, los cuales deberán ser comunicados a todas las municipalidades, Delegaciones Presidenciales Regionales y Provinciales, al Servicio Nacional de Prevención de Prevención y Respuesta ante Desastres (Senapred), al Ministerio del Interior y Seguridad Pública, otros ministerios y a los servicios públicos relacionados.
 
-A nivel comunal, será la municipalidad respectiva quien deberá desplegar las acciones necesarias para el levantamiento de la información a través de la FIBE. En aquellas emergencias derivadas por déficit hídrico, el municipio deberá aplicar la FIBEH en coordinación con el Ministerio de Desarrollo Social y Familia.
+A nivel comunal, será la municipalidad respectiva quien deberá desplegar las acciones necesarias para el levantamiento de la información a través de la FIBE o la FIBEH en coordinación con el Ministerio de Desarrollo Social y Familia.
 
-Ante la ocurrencia de un evento destructivo de nivel provincial, que requiera la conformación de equipos de trabajo a nivel provincial para apoyar la gestión de evaluación de daños y necesidades en las comunas afectadas, el funcionario o funcionaria designado por el Director o Directora Regional de la Onemi velará para que estos equipos trabajen coordinadamente con las municipalidades y ocupen los formatos FIBE y FIBEH según lo dispuesto en el párrafo anterior.
+Ante la ocurrencia de un evento destructivo de nivel provincial, que requiera la conformación de equipos de trabajo a nivel provincial para apoyar la gestión de evaluación de daños y necesidades en las comunas afectadas, el funcionario o funcionaria designado por el Director o Directora Regional del Servicio Nacional de Prevención de Prevención y Respuesta ante Desastres (Senapred) o su sucesor legal velará para que estos equipos trabajen coordinadamente con las municipalidades y ocupen los formatos FIBE y FIBEH según lo dispuesto en el párrafo anterior.
 
-Ante la ocurrencia de un evento destructivo de nivel regional, que requiera la conformación de equipos de trabajo a nivel regional para apoyar la gestión de evaluación de daños y necesidades en las comunas afectadas, el Director o Directora Regional de Onemi en conjunto con el Secretario o Secretaria Regional Ministerial de Desarrollo Social y Familia velarán por que estos equipos trabajen coordinadamente con las municipalidades y apliquen la FIBE y FIBEH, según corresponda.
+Ante la ocurrencia de un evento destructivo de nivel regional, que requiera la conformación de equipos de trabajo a nivel regional para apoyar la gestión de evaluación de daños y necesidades en las comunas afectadas, el Director o Directora Regional del Servicio Nacional de Prevención de Prevención y Respuesta ante Desastres (Senapred), en conjunto con el Secretario o Secretaria Regional Ministerial de Desarrollo Social y Familia velarán por que estos equipos trabajen coordinadamente con las municipalidades y apliquen la FIBE y FIBEH, según corresponda.
+
+Ante la ocurrencia de un evento destructivo de nivel nacional, que requiera la conformación de equipos de trabajo a nivel nacional para apoyar la gestión de evaluación de daños y necesidades en las comunas afectadas, el Director o Directora Nacional del Servicio Nacional de Prevención de Prevención y Respuesta ante Desastres (Senapred), en conjunto con el o la Subsecretario o Subsecretaria de Servicios Sociales velarán por que estos equipos trabajen coordinadamente con las municipalidades y apliquen la FIBE y FIBEH, según corresponda.
+
+Los datos personales recopilados por la aplicación de FIBE y la FIBEH, serán administrados por el Ministerio de Desarrollo Social y Familia, a través de la Subsecretaría de Servicios Sociales, en calidad de responsable del registro respectivo. Dicha Subsecretaría podrá hacer tratamiento de los datos recopilados, y de las demás bases de datos a las que acceda respecto de las materias de su competencia. Los demás órganos de la Administración del Estado que cuenten con competencias podrán acceder a los datos contenidos en FIBE y en la FIBEH con la finalidad de apoyar la toma de decisiones, así como también para evaluar la entrega de bienes y servicios ante situaciones de emergencia.
+
+El tratamiento de los datos personales contenidos en ambas fichas, deberá ser realizado por los órganos de la Administración del Estado que accedan a ellos, velando por el resguardo de los derechos y garantías de los titulares de los datos personales, todo de conformidad a lo dispuesto en la ley Nº 19.628, sobre Protección de la Vida Privada, y demás normas aplicables.
+
+La información recogida a través de la FIBE y la FIBEH es parte del Sistema de Información Social en Emergencias (SISE) del Ministerio de Desarrollo Social y Familia, para apoyar así a los órganos del Estado competentes en la toma de decisiones frente a situaciones de emergencia, en cada una de las fases del ciclo de gestión del riesgo de desastres.
 
 8. Readecuación del Plan
 
