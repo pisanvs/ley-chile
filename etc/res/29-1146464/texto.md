@@ -22,13 +22,13 @@ PROGRAMA "CRÉDITO VERDE"
 
 NORMAS PARA SU UTILIZACIÓN
 
-El programa "Crédito Verde" (en adelante indistintamente el "Programa") tiene por objeto el refinanciamiento de créditos de largo plazo que otorguen los intermediarios financieros para las inversiones que realicen las empresas privadas para proyectos destinados a (i) generación y/o almacenamiento de energías renovables no convencionales (ERNC), incluyendo proyectos para autoabastecimiento de empresas; (ii) Eficiencia energética (EE) relacionados con la optimización del uso energético y la reducción de costos asociados al uso de la energía en empresas; y (iii) medidas de mejora medioambiental en procesos productivos, dentro de lo que se encuentran comprendidas las iniciativas de economía circular.
+El programa "Crédito Verde" (en adelante indistintamente el "Programa") tiene por objeto el refinanciamiento de créditos de largo plazo que otorguen los intermediarios financieros para las inversiones que realicen las empresas privadas para proyectos destinados a (i) generación y/o almacenamiento de energías renovables no convencionales (ERNC), incluyendo proyectos para autoabastecimiento de empresas; (ii) Eficiencia energética (EE) relacionados con la optimización del uso energético y la reducción de costos asociados al uso de la energía en empresas; y (iii) medidas de mejora medio ambiental en procesos productivos, dentro de lo que se encuentran comprendidas las iniciativas de economía circular; (iv) desarrollo de la industria de hidrógeno verde; y (v) inversión en plantas de fabricación y de ensamblaje de componentes, y de fabricación y ensamblaje de bienes finales, destinados a los proyectos de inversión indicados en este numeral. En el caso de los proyectos de hidrógeno verde definidos en el (iv) anterior, el objeto del refinanciamiento podrá también cubrir el costo de estudios de preinversión que hubieran efectuado los proyectos.
 
 ### 1. DEFINICIONES GENERALES
 
 Para efectos de este Programa se deberán tener en consideración las siguientes definiciones:
 
-1.1. "Beneficiarias", "Empresas Beneficiarias", o "Deudor": empresa privada beneficiaria de un refinanciamiento otorgado al amparo del Programa.
+1.1. "Beneficiarias", "Empresas Beneficiarias", o "Deudor": las empresas privadas (personas jurídicas y personas naturales, con giro), productoras de bienes o servicios, empresa privada beneficiaria de un refinanciamiento otorgado al amparo del Programa.
 
 1.2. "Costo total de una operación": suma de todos los costos asociados al otorgamiento de financiamiento a una empresa beneficiaria del Programa, es decir, considera la tasa de interés, las comisiones (asociadas a la operación y al otorgamiento de la operación), seguros (asociados al crédito o a otros productos que se requieran en la operación) y otros gastos asociados a la operación y que no se encuentren asociados a condiciones de mora.1
 
@@ -40,7 +40,7 @@ Para efectos de este Programa se deberán tener en consideración las siguientes
 
 1.6. "Intermediarios Financieros", o "IFI": toda empresa que habitualmente se dedica a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros (carta circular N° 46 (bancos) y N° 28 (financieras), de 29 de agosto de 1979 de la Superintendencia de Bancos e Instituciones Financieras).
 
-1.7. "Operaciones a Empresas Beneficiarias" u "Operaciones": operaciones de crédito de dinero o de leasing financiero de largo plazo que los IFI otorguen a empresas beneficiarias, que cumplen con los fines indicados en el numeral 2 de estas Normas, y que, verificados los requisitos de elegibilidad establecidos por CORFO, pueden ser refinanciadas con cargo a los recursos entregados en virtud de este Programa.
+1.7. Operaciones a E mpresas Beneficiarias" u "Operaciones": operaciones de crédito de dinero o de leasing financiero que los IFI otorguen a empresas beneficiarias, que cumplen con los fines indicados en el numeral 2 de estas Normas, y que, verificados los requisitos de elegibilidad establecidos por Corfo, pueden ser refinanciadas con cargo a los recursos entregados en virtud de este Programa. Estas operaciones pueden ser operaciones de Créditos de Enlace o de Financiamientos Estructurados.
 
 1.8. "Préstamos a Intermediarios Financieros" o "Préstamos": créditos que la Corporación otorga a los IFI, al amparo de este Programa.
 
@@ -78,6 +78,20 @@ i. Que una o más mujeres tengan participación en, al menos, un 50% del capital
 
 ii. Que una o más mujeres tengan participación en, al menos, un 30% del capital social, con derecho a voto, y que, además, una o más mujeres tienen facultad para representar a la sociedad, ya sea como directoras, gerentes, administradoras, o ejecutivas principales.
 
+1.16. "Operaciones mediante Créditos de Enlace": Operaciones que se cursan mediante créditos de corto plazo, que permiten financiar las inversiones de los proyectos en el periodo de construcción e implementación, que luego se consolidan en financiamientos estructurados, una vez terminado el periodo de construcción e implementación o al inicio de su operación comercial.
+
+1.17. "Operaciones mediante Financiamientos Estructurados": Operaciones que se cursan mediante créditos de dinero o leasing a largo plazo y podrán tener vencimientos de capital mensuales, trimestrales, semestrales o anuales. Se pueden utilizar para consolidar créditos de enlace o para financiar directamente necesidades de inversión para la construcción e implementación de proyectos.
+
+1.18. "Proyectos para el desarrollo de la industria de Hidrógeno Verde": proyectos que contemplen o estén presentes en:
+
+i) Producción de hidrógeno verde. Incluye: planta de electrolizadores, con equipos compresores, almacenamiento y surtidores; instalación, ingeniería, transporte y obras civiles relacionadas.
+
+ii) Proyectos de demanda de hidrógeno verde, que incluye el uso de hidrógeno verde en procesos productivos en la agroindustria, minería, transporte, entre otras industrias, tanto en el reemplazo de combustibles, como en la producción de derivados del hidrógeno verde.
+
+1.19. "Proyectos de inversión en plantas de fabricación y de ensamblaje de componentes y fabricación y ensamblaje de bienes finales": Las inversiones que realicen las empresas privadas para proyectos destinados en los objetivos del programa indicados en los números (i), (ii), (iii) y (iv) del primer párrafo de las "Normas para su Utilización" , consistente en proyectos de inversión en plantas de fabricación y de ensamblaje de componentes y de fabricación y de ensamblaje de bienes finales, denominados también "Proyectos de partes y piezas y bienes finales de Crédito Verde".
+
+1.20. "Costo de estudios de preinversión": son todos aquellos costos asociados a estudios destinados a determinar las características del proyecto y su viabilidad técnica y económico-financiera y el cumplimiento de las exigencias legales y normativas requeridas para la construcción y operación del proyecto. A modo de ejemplo, incluye estudios estructurales, legales, sociales, ambientales, geológicos, hidrológicos, de levantamiento topográfico, entre otros."
+
 3. En caso de personas jurídicas con fines de lucro que no cuenten con directorio, en cualquiera de los dos siguientes casos:
 
 i. Que una o más mujeres tengan participación en, al menos, un 50% del capital social (en otros términos, que una o más mujeres sean dueñas de la mitad o más de la sociedad).
@@ -98,7 +112,13 @@ El objetivo del Programa es el refinanciamiento de las Operaciones a Empresas Be
 
 3) Medidas de mejora medio ambiental en procesos productivos en empresas.
 
+4) Desarrollo de la industria de hidrógeno verde; y
+
+5) Inversión en plantas de fabricación y de ensamblaje de componentes y fabricación y ensamblaje de bienes finales destinados a los proyectos de inversión indicados en este numeral.
+
 Los recursos entregados en virtud de este Programa podrán destinarse a financiar la adquisición de maquinarias y equipos, la ejecución de construcciones, instalaciones y obras civiles, servicios de ingeniería y montaje o similares que requieran las empresas para implementar los proyectos, así como también para financiar el capital de trabajo asociado a dichas inversiones.
+
+Los recursos entregados en virtud de este Programa podrán destinarse a financiar la adquisición de maquinarias y equipos, la ejecución de construcciones, instalaciones y obras civiles, servicios de ingeniería y montaje o similares que requieran las empresas para implementar los proyectos, así como también para financiar el capital de trabajo asociado a dichas inversiones. En el caso de Proyectos de hidrógeno verde, los recursos también podrán destinarse para financiar el costo de los estudios de pre-inversión.
 
 ### 3. RECURSOS DEL PROGRAMA
 
@@ -122,7 +142,7 @@ Los recursos destinados al Programa son un fondo común. El desembolso de recurs
 
 La suma de todos los montos máximos de los IFI podrá ser mayor al presupuesto total definido para el Programa para un año. No obstante, el desembolso de los Préstamos a los IFI estará condicionado a la disponibilidad presupuestaria vigente de la Corporación. Consecuentemente, los IFI que primero presenten solicitudes de refinanciamiento conforme, podrán agotar los recursos anuales del Programa, antes que los demás IFI logren llegar a su monto máximo.
 
-En caso de que queden fondos por girar en un financiamiento aprobado por el CEC en un año calendario dentro de los plazos de desembolso establecidos en el numeral 4.7, estos recursos podrán ser desembolsados en el año calendario siguiente, siempre que existan recursos disponibles en el presupuesto de Corfo y se encuentren dentro del monto máximo definido al IFI.
+En caso de que queden fondos por girar en un financiamiento aprobado por el Comité Ejecutivo de Créditos de CORFO, en adelante, el "CEC", en un año calendario dentro de los plazos de desembolso establecidos en el numeral 4.7, estos recursos podrán ser desembolsados en el año calendario siguiente, siempre que existan recursos disponibles en el presupuesto de CORFO y se encuentren dentro del monto máximo definido al IFI.
 
 ____________
 
@@ -136,7 +156,7 @@ Los Préstamos a Intermediarios Financieros:
 
 1) Podrán incluir períodos de gracia para el pago de capital de hasta 36 meses.
 
-2) Podrán tener un plazo máximo de 15 años, incluyendo el período de gracia, si lo tuviere.
+2) Podrán tener un plazo máximo de 15 años, incluyendo el período de gracia, si lo tuviere. En caso de reprogramación de operaciones, si el proyecto lo requiere, el IFI podrá solicitar a CORFO una ampliación del plazo total de la operación pudiendo llegar hasta los 20 años, incluido un periodo de gracia, si lo requiriese.
 
 3) Podrán tener vencimientos de capital mensuales, trimestrales, semestrales o anuales.
 
@@ -148,11 +168,27 @@ Los Préstamos a Intermediarios Financieros:
 
 7) Para efectos de los pagos de los IFI a CORFO, por concepto de amortización e intereses de los préstamos de refinanciamiento en USD o UF, se aplicará la paridad del USD observado, o de la UF vigente a la fecha respectiva, informados por el Banco Central.
 
+En el caso de préstamos otorgados por CORFO bajo "Refinanciamiento para etapa de construcción o de implementación de proyecto", indicado en el numeral 4.4 de estas Normas, se deberá cumplir con lo siguiente:
+
+a) La estructura financiera y moneda deberá ser de las indicadas entre los números 1 y 7 de este numeral, independiente que sea una operación de financiamiento estructurado o mediante créditos de enlace.
+
+b) En los créditos de enlace:
+
+- Los intereses se devengarán por día, a partir de la fecha de cada desembolso y se pagarán mensual, trimestral, semestral o anualmente, pudiendo vencer la primera cuota, según la periodicidad definida, al mes, a los 3 meses, a los 6 meses o 1 año, hasta la fecha de la consolidación de los créditos de enlace, según quede establecido en el Acuerdo del CEC que aprueba el préstamo.
+
+- Las operaciones podrán tener uno o más vencimientos de capital hasta la fecha límite de su consolidación, establecida en Acuerdo del CEC que aprueba el préstamo.
+
+- Podrán incluir períodos de gracia para el pago de capital hasta la fecha límite de su consolidación.
+
+- Cuando se consoliden los créditos de enlace, la operación consolidada se regirá según la estructura financiera y moneda indicada en los números del 1) al 7) de este numeral, con excepción del plazo máximo que, en este caso, considerará como plazo máximo de 15 años, la suma del plazo total de la operación consolidada y el que ocurre entre la fecha del giro del primer crédito de enlace y la fecha de consolidación.
+
+c) En caso de operaciones de financiamiento estructurado, la estructura financiera y moneda de la operación se regirá según lo indicado en los números del 1) al 7) de este numeral, con excepción del periodo de gracia, que se revisará en virtud del tipo, tamaño y periodo de construcción de cada proyecto.
+
 4.2. Tasas de interés aplicable a los préstamos
 
-Los préstamos serán otorgados con tasas de interés fija, de acuerdo con una tabla de tasas establecida trimestralmente por el Comité Ejecutivo de Créditos de Corfo, en adelante, el "CEC". Dicha tabla podrá distinguir entre diferentes plazos, monedas, tipos de proyectos elegibles -según se establece en el numeral 7 de estas Normas, u otro criterio que defina el CEC. Asimismo, podrá establecer tasas preferentes cuando las empresas beneficiarias sean lideradas por mujeres (en los términos definidos en el numeral 1.15), y con el tope de monto máximo de financiamiento, indicado en el numeral 8.1.
+Los Préstamos serán otorgados con tasas de interés fija, excepto los préstamos otorgados en USD que podrán ser otorgados con tasas de interés fija o tasas de interés variable, de acuerdo con una tabla de tasas establecida trimestralmente por el CEC. Dicha tabla podrá distinguir entre diferentes plazos, monedas, tipos de proyectos elegibles según se establece en el numeral 7 de estas Normas, u otro criterio que defina el CEC. Asimismo, podrá establecer tasas preferentes cuando las empresas beneficiarias sean lideradas por mujeres, (en los términos definidos en el número 1.15.), y con el tope de monto máximo de financiamiento, indicado en el numeral 8.1.
 
-La tasa de interés aplicable corresponderá a la tasa vigente al momento que el IFI ingrese a CORFO la Solicitud de Préstamo, ya sea a través de la Oficina de Partes o por el medio electrónico dispuesto por la Corporación.
+La tasa de interés aplicable corresponderá a la tasa vigente al momento que el IFI ingrese a CORFO la Solicitud de Préstamo, ya sea a través de la Oficina de Partes o por el medio electrónico dispuesto por la Corporación. En el caso de préstamos otorgados bajo "Refinanciamiento para etapa de construcción o de implementación de proyecto", indicado en el numeral 4.4 de estas Normas, se considerará la tasa de interés del plazo respectivo de cada desembolso.
 
 La CORFO fijará trimestralmente las tasas de interés aplicables para cada una de las alternativas de plazo y moneda. Estas tasas se comunicarán a los IFI por carta o correo electrónico, y comenzarán a regir el día establecido en el acuerdo del CEC. CORFO publicará en su página web las tasas de interés aplicadas a los IFI. Las tasas fijadas se mantendrán vigentes por un período de hasta 3 meses, vencido el cual la Corporación podrá modificarlas para fijarlas por un nuevo plazo de 3 meses.
 
@@ -172,7 +208,7 @@ Para el caso de la modalidad de licitación, las condiciones a los IFI para acce
 
 4.4. Modos de refinanciamiento
 
-Los recursos del refinanciamiento aprobados con cargo a este Programa podrán ser entregados a título de reembolso o de anticipo, y el título será un préstamo, originado en operaciones individuales o en operaciones grupales.
+Los recursos de los préstamos de refinanciamiento aprobados con cargo a este Programa podrán ser entregados a título de reembolso o de anticipo, originado en operaciones individuales o en operaciones grupales y para etapa de construcción o de implementación.
 
 Para lo anterior se deberá tener en cuenta lo siguiente:
 
@@ -183,6 +219,8 @@ b) Operación grupal: corresponde a dos o más operaciones cursadas, o a ser cur
 c) Refinanciamiento de reembolso: existirá en los casos en que la solicitud de refinanciamiento sea para una o más operaciones que ya hayan sido cursadas por el IFI.
 
 d) Refinanciamiento de anticipo: existirá en los casos en que el IFI presente la solicitud de refinanciamiento para una o más operaciones que aún no haya cursado.
+
+e) Refinanciamiento para etapa de construcción o de implementación de proyecto: corresponde a un crédito que puede ser cursado a una sola empresa en más de una operación, para un proyecto en etapa de construcción o implementación. La etapa de implementación se refiere al período que se requiere para poner en funcionamiento los proyectos. Algunas operaciones, por su naturaleza, solo consideran la etapa de implementación. En esta modalidad se podrán cursar créditos de enlace que, una vez terminada la etapa de construcción o de implementación, o al inicio de su operación comercial, se deberán consolidar en financiamientos estructurados.
 
 En los préstamos de reembolso i) las operaciones no se deben encontrar en mora, al momento de ingresar la solicitud de préstamo a CORFO, y ii) la antigüedad de las operaciones no podrá ser superior a:
 
@@ -196,9 +234,9 @@ Las operaciones que superen el costo total máximo determinado por el CEC, vigen
 
 4.5. Solicitudes de refinanciamiento a la Corporación
 
-Con cargo al monto máximo asignado por el CEC, los IFI deberán efectuar sus solicitudes de refinanciamiento, a través de la Oficina de Partes de la Corporación, o por el medio electrónico dispuesto para tal efecto. La solicitud deberá presentarse según formato disponible en Anexo 2 de estas Normas, y se deberá adjuntar la información y antecedentes de cada proyecto a ser refinanciado de las empresas beneficiarias, según Anexo 2 A, Anexo 2 B y/o Anexo 2 C de este Programa, con excepción de los refinanciamientos por anticipo en los que el IFI no cuenta con la información y antecedentes de los proyectos y de las empresas beneficiarias. En este último caso, a modo referencial, junto al Anexo 2 los IFI deberán informar la cantidad de proyectos, el monto y tipo de financiamiento a ser entregado, el tipo de proyectos que esperan financiar y la ubicación de estos.
+Con cargo al monto máximo asignado por el CEC, los IFI deberán efectuar sus solicitudes de refinanciamiento, a través de la Oficina de Partes de la Corporación, o por el medio electrónico dispuesto para tal efecto. La solicitud deberá presentarse según formato disponible en Anexo 2 de estas Normas, y se deberá adjuntar la información y antecedentes de cada proyecto a ser refinanciado de las empresas beneficiarias, según Anexo 2 A, Anexo 2 B, Anexo 2 C, Anexo 2 D y/o Anexo 2 E de este Programa, con excepción de los refinanciamientos por anticipo en los que el IFI no cuenta con la información y antecedentes de los proyectos y de las empresas beneficiarias. En este último caso, a modo referencial, junto al Anexo 2 los IFI deberán informar la cantidad de proyectos, el monto y tipo de financiamiento a ser entregado, el tipo de proyectos que esperan financiar y la ubicación de estos.
 
-En el caso de un anticipo de recursos, si la solicitud de refinanciamiento fuere aprobada por el CEC, el IFI tendrá un plazo de 90 días corridos, contados desde cada desembolso realizado por Corfo, para cursar el o los financiamientos a la o las Empresas beneficiarias. Dentro del plazo de 30 días corridos, contados desde el curse de cada operación, el IFI deberá acreditar a Corfo el curse efectivo del o los créditos, mediante copia del título ejecutivo o escritura pública o de la protocolización del contrato respectivo de la o las operaciones. En este caso, las condiciones del curse de cada operación deberán tener relación con la informada por el IFI en la solicitud de refinanciamiento (Anexo 2), para lo cual deberán considerar, según corresponda, el Anexo 2 A, Anexo 2 B o Anexo 2 C, señalados anteriormente.
+En el caso de un anticipo de recursos, si la solicitud de refinanciamiento fuere aprobada por el CEC, el IFI tendrá un plazo de 90 días corridos, contados desde cada desembolso realizado por Corfo, para cursar el o los financiamientos a la o las Empresas beneficiarias. Dentro del plazo de 30 días corridos, contados desde el curse de cada operación, el IFI deberá acreditar a Corfo el curse efectivo del o los créditos, mediante copia del título ejecutivo o escritura pública o de la protocolización del contrato respectivo de la o las operaciones. En este caso, las condiciones del curse de cada operación deberán tener relación con lo informado por el IFI en la solicitud de refinanciamiento (Anexo 2), para lo cual deberán considerar, según corresponda, el Anexo 2 A, Anexo 2 B, Anexo 2 C, Anexo 2 D o An exo 2 E, señalados anteriormente.
 
 4.5.1. Antecedentes a acompañar en las Solicitudes de Refinanciamiento o Financiamiento a la Corporación
 
@@ -244,6 +282,24 @@ Con excepción de los refinanciamientos por anticipo, las solicitudes de refinan
 
 20) Sector Económico de la empresa beneficiaria.
 
+En el caso de los proyectos que se cursen en modo de Operación individual señalado en el numeral 4.4 del Programa, Corfo solicitará información relativa a:
+
+. Identificación de los dueños del proyecto: sociedades y personas naturales que forman parte de la malla societaria.
+
+. Clasificaciones de riesgo del proyecto y/o de las personas naturales o jurídicas propietarias del proyecto, si es que cuentan con una.
+
+. Experiencia de los dueños del proyecto o de la empresa que efectúa la construcción del proyecto, en la operación y/o construcción de proyectos de la naturaleza para la cual está requiriendo los recursos de Corfo, según corresponda.
+
+. En particular, en el caso de préstamos bajo "Refinanciamiento para etapa de construcción o de implementación de proyecto", indicado en el numeral 4.4, deberán presentar antecedentes de la proyección de plazos de construcción y/o implementación. A modo de ejemplo, copia de contrato EPC(3) , la Term Sheet, entre otros, que deberán señalar la fecha de inicio de la deuda senior, montos y número de operaciones previstas a ser cursadas al proyecto y si estas serán estructuradas en origen, o a través de créditos de enlace.
+
+Term Sheet, es el documento que contiene los términos y condiciones para la financiación de un proyecto, pudiendo incluir, monto, período de disponibilidad y desembolso, plazo, tasa de interés, comisiones, período de gracia, perfil de amortización, eventos de incumplimiento, condiciones para el desembolso, mitigantes de riesgo, colateral, garantías, condiciones adicionales para un cierre financiero, entre otros.
+
+En el caso de los proyectos que se cursen en modo de Operación grupal establecido en el numeral 4.4 anterior, CORFO podrá solicitar esta información a los intermediarios financieros, para efectos de determinar la elegibilidad de las operaciones.
+
+____________
+
+(3.) Contrato EPC: Contratos de ingeniería, adquisición y construcción. En inglés Engineering, Procurement and Construction (EPC).
+
 Dependiendo del tipo de proyecto, deberán acompañarse los siguientes antecedentes:
 
 1) Proyectos de generación y/o almacenamiento ERNC:
@@ -268,11 +324,47 @@ a) Informe sobre la utilización de recursos naturales, previo y post a la imple
 
 b) Reporte y licencias de cumplimiento de la normativa ambiental y social, que correspondan.
 
+4) Proyectos para el desarrollo de la industria de Hidrógeno Verde:
+
+i) Proyectos de producción de hidrógeno verde:
+
+a) Ubicación exacta y mapa de localización del proyecto de producción de hidrógeno verde y de energía renovable, si el proyecto incluye generación de energía eléctrica.
+
+b) Plano de configuración general del proyecto de hidrógeno verde.
+
+c) Reporte y licencias de cumplimiento de la normativa ambiental, social y de seguridad que correspondan.
+
+d) Potencia nominal de Electrolizadores a instalar (en MW).
+
+e) Volumen de hidrógeno verde estimado a producir con la potencia de electrolizadores instalados, en toneladas anuales.
+
+f) Energía Renovable utilizada para la producción total del volumen de hidrógeno verde, indicando fuente de energía, potencia en MW y flujo de energía en GWh/año.
+
+g) Acreditar la fuente, volúmenes y disponibilidad de agua que precisa para la operación del proyecto en m3/H.
+
+ii) Proyectos de demanda de hidrógeno verde:
+
+a) Modelo de negocio del proyecto.
+
+b) Ubicación exacta y mapa de localización o ubicación del proyecto.
+
+c) Reporte y licencias de cumplimiento de la normativa ambiental, social y de seguridad que correspondan.
+
+d) Mecanismo que garantice que el hidrógeno utilizado en sus procesos productivos siempre será hidrógeno verde.
+
+5) Proyectos de Inversión en plantas de fabricación y de ensamblaje de componentes, y fabricación y ensamblaje de bienes finales:
+
+a) Modelo de negocio del proyecto.
+
+b) Ubicación exacta y mapa de localización o ubicación del proyecto.
+
+c) Reporte y licencias de cumplimiento de la normativa ambiental, social y de seguridad que correspondan.
+
 La Corporación podrá solicitar también los siguientes documentos complementarios, según tipo de proyecto:
 
 1) Para proyectos de generación y almacenamiento ERNC:
 
-a) Copia de contratos de EPC o de suministro.3
+a) Copia de contratos de EPC o de suministro.
 
 b) Estudios de factibilidad o debida diligencia.
 
@@ -306,6 +398,42 @@ a) Estudios de factibilidad, o debida diligencia.
 
 b) Modelo financiero del proyecto.
 
+4) Proyectos para el desarrollo de la industria de Hidrógeno Verde:
+
+i) Proyectos de producción de hidrógeno verde:
+
+a) Estudios de factibilidad o debida diligencia.
+
+b) En caso de que el proyecto no considere generación de energía eléctrica, acreditación del origen renovable de esta a través de copia del contrato de compraventa de energía o carta de intención de compra de energía, especificando cantidad de energía y precios acordados o estimados.
+
+c) Planos generales de la instalación y de propiedades dentro del área del proyecto.
+
+d) Modelo financiero del proyecto.
+
+e) Acreditación del mecanismo mediante el cual comercializará o venderá el hidrógeno verde y/o sus derivados producidos por el Proyecto, a través de Acuerdo(s) de Compra(s) o Memorándum(s) de Entendimiento (MDE) firmado(s) con comprador(es) para la negociación(es) de un(os) Acuerdo(s) de Compra.
+
+ii) Proyectos de demanda de hidrógeno verde:
+
+a) Detalle del volumen de hidrógeno verde estimado a consumir en sus procesos productivos o de funcionamiento.
+
+b) Copia del contrato de compraventa de hidrógeno verde o carta de intención de compraventa de hidrógeno verde, especificando cantidad, precios, plazos y otras condiciones acordadas.
+
+5) Proyectos de Inversión en plantas de fabricación y de ensamblaje de componentes, y fabricación y ensamblaje de bienes finales:
+
+a) Copia de contratos o carta de intención de venta de componentes industriales y/o de ensamblaje de componentes y/o bienes finales, a los tipos de proyectos indicados en los números (i), (ii), (iii) y (iv) del primer párrafo de las "Normas para su Utilización".
+
+Asimismo, la Corporación solicitará también los siguientes documentos en el caso de los refinanciamientos destinados a cubrir los costos de preinversión de proyectos de hidrógeno verde:
+
+a) Copia de los antecedentes formales que acrediten que la empresa o sociedad que solicita los recursos es la misma que implementará el proyecto.
+
+b) Copia de los antecedentes que acrediten que la empresa o sociedad que solicita el refinanciamiento es la propietaria de los terrenos donde se llevará a cabo el proyecto completo o es poseedora de los derec hos legales para hacerlo, en ambos casos, por todo el período de construcción y de operación del proyecto.
+
+c) Copia de los contratos de los estudios efectuados, según cada tipo de estudio realizado en los últimos 24 meses.
+
+d) Copia de las facturas o comprobantes tributarios de pago realizado a las empresas que efectuaron cada estudio en los últimos 24 meses.
+
+Para la mejor revisión de solicitudes de recursos asociadas a solventar gastos de preinversión, el Gerente GIF aprobará, mediante instructivo, una metodología de evaluación que se deberá utilizar para este efecto.
+
 Además, la Corporación podrá solicitar otros antecedentes para resolver la solicitud de refinanciamiento presentada por el IFI, debiendo respetarse el principio de igualdad de los postulantes.
 
 Los proyectos y las empresas beneficiarias deben cumplir con las normas medioambientales y sociales según lo establecido en el numeral 9 de estas Normas.
@@ -322,11 +450,9 @@ La Solicitud de Desembolso deberá ser presentada por el IFI a la Corporación a
 
 Los préstamos aprobados serán desembolsados por la Corporación a los IFI en uno o más giros, previa total tramitación de la resolución que aprueba el préstamo, siempre que Corfo cuente con la disponibilidad de recursos para hacerlo. Los préstamos otorgados por la Corporación a los IFI deberán ser solicitados íntegramente dentro del plazo de 90 días, contado desde la fecha de la comunicación de la Corporación de la total tramitación de la resolución que aprueba el préstamo correspondiente, debiendo efectuarse la primera solicitud de desembolso dentro del plazo de 30 días corridos, contado desde dicha fecha.
 
-Los desembolsos serán efectuados por la Corporación contra la suscripción, por un representante del IFI autorizado y registrado en la Corporación y entrega de un pagaré que será redactado por Corfo. El pagaré que se suscriba se encuentra exento del impuesto establecido en la Ley de Timbres y Estampillas, según lo dispuesto en el artículo 33 de la ley Nº 18.899.
+En el caso de los "Refinanciamientos para etapa de construcción o de implementación de proyecto" indicado en el numeral 4.4 de estas Normas, los préstamos otorgados a los IFI por la Corporación serán desembolsados dentro del plazo de construcción o de implementación de cada proyecto indicado en el Acuerdo del CEC que aprueba el préstamo, al que se incluirá el plazo adicional de un año por atrasos que pueda presentar el proyecto. En caso de que el IFI no desembolse un monto mayor al 10% de los fondos aprobados bajo este modo de refinanciamiento, una vez vencido el plazo señalado en el Acuerdo CEC se deberá pagar a CORFO una comisión de reserva de fondos de 0,75% sobre el monto no desembolsado, salvo que el IFI informe a CORFO que no girará el total de fondos aprobados, al menos 6 meses antes del término del plazo total de desembolso indicado en el Acuerdo del CEC que aprueba el préstamo, caso en el cual, CORFO ajustará el préstamo al monto correspondiente.
 
-____________
-
-3 Contrato EPC: Contratos de ingeniería, adquisición y construcción. En inglés Engineering, Procurement and Construction.
+Los desembolsos serán efectuados por la Corporación contra la suscripción, por un representante del IFI autorizado y registrado en la Corporación y entrega de un pagaré que será redactado por CORFO. El pagaré que se suscriba se encuentra exento del impuesto establecido en la Ley de Timbres y Estampillas, según lo dispuesto en el numeral 13 del artículo 24 del Decreto Ley N° 3.475.
 
 4.8. Opciones de prepago de los préstamos de refinanciamiento
 
@@ -334,9 +460,9 @@ Los préstamos de refinanciamiento otorgados por la Corporación podrán ser pre
 
 4.9. Reprogramación de los préstamos a los intermediarios financieros
 
-Las modificaciones de préstamos de refinanciamiento que soliciten los IFI con posterioridad al desembolso, que obliguen a realizar cambios o canjes de pagarés o modificaciones de escrituras públicas otorgadas, estarán afectas a una comisión de gestión, que corresponderá a un 0,25% del saldo deudor de capital de la operación vigente al momento de aprobarse la modificación y tendrá un mínimo de UF10 y un máximo de UF100, cuyo equivalente se calculará según el valor de la UF informado por el Banco Central vigente a la fecha de la solicitud.
+Las modificaciones de préstamos de refinanciamiento que soliciten los IFI con posterioridad al desembolso, que obliguen a realizar cambios o canjes de pagarés o modificaciones de escrituras públicas otorgadas, estarán afectas a una comisión de gestión, que corresponderá a un 0,25% del saldo deudor de capital de la operación vigente al momento de aprobarse la modificación y tendrá un mínimo de UF10 y un máximo de UF50, cuyo equivalente se calculará según el valor de la UF informado por el Banco Central vigente a la fecha de la solicitud.
 
-Al momento de la reprogramación, la tasa de interés a aplicar por CORFO, será aquella vigente al momento de la solicitud de reprogramación del préstamo de refinanciamiento.
+Al momento de la reprogramación, la tasa de interés a aplicar por CORFO será aquella vigente al momento de la solicitud de reprogramación del préstamo de refinanciamiento, considerando el plazo residual de la operación reprogramada. No obstante, en el caso que la reprogramación del préstamo permita la continuidad del proyecto, en operaciones de financiamiento estructurado, el CEC podrá aprobar la aplicación de la tasa de interés correspondiente al plazo original de la operación, o la tasa de interés vigente al momento de la solicitud del financiamiento original.
 
 ### 5. INTERMEDIARIOS FINANCIEROS
 
@@ -458,27 +584,9 @@ Para este efecto, el IFI deberá acompañar los poderes de sus representantes de
 
 ### 6. REQUISITOS DE ELEGIBILIDAD PARA EMPRESAS BENEFICIARIAS
 
-Son elegibles como "Empresas Beneficiarias" del Programa Crédito Verde:
+Son elegibles como "Empresas Beneficiarias" del Programa Crédito Verde, empresas privadas (personas jurídicas y personas naturales, con giro), productoras de bienes o servicios.
 
-1) Empresas privadas (personas jurídicas y personas naturales, con giro), productoras de bienes o servicios, con ventas o prestaciones de servicios por hasta UF600.000 al año, excluido el IVA.
-
-2) Empresas emergentes (sin historia, pero con proyección de ventas a un año acotadas al límite señalado en el numeral anterior).
-
-Para efectos de determinar las ventas anuales de las empresas beneficiarias, el IFI debe considerar las ventas netas (sin Impuesto al Valor Agregado - IVA) de los bienes, productos o servicios, registradas (a) en el año calendario inmediatamente anterior, o (b) en los 12 meses terminados, inmediatamente anteriores a la fecha en que el IFI curse o apruebe la operación (año móvil), guardando copia de los formularios y/o declaraciones pertinentes en las respectivas carpetas de los clientes.
-
-En el caso de empresas nuevas que no cuenten con declaraciones de IVA o, si entre el comienzo de sus actividades y la presentación de la solicitud hubiere transcurrido un período inferior a los 12 meses, las ventas netas se determinarán sobre la base de una estimación efectuada por el IFI, fundada en antecedentes escritos debidamente incorporados en la carpeta de la operación respectiva. En este caso, la estimación de ventas anuales de la empresa no podrá superar las UF600.000.
-
-En el caso de empresas que desarrollen actividades exentas de IVA, siempre será necesario que el IFI realice la estimación de ventas de la empresa, considerando en la estimación las actividades afectas y exentas de IVA.
-
-La determinación de las ventas de cada empresa beneficiaria deberá estar respaldada con documentos, los que deben estar disponibles en la carpeta de antecedentes, en los que debe constar el nivel de ventas estimado, metodología para estimar y fuente de la información utilizada.
-
-Para todos los efectos, la determinación del nivel de ventas será siempre de responsabilidad del IFI.
-
-Una ESCO y/o ESMAC podrá ser beneficiaria del presente Programa si, además de cumplir con los criterios señalados en los párrafos previos de este numeral, cumple con:
-
-1) Ser el proveedor de servicios o productos (calor, energía, medioambiental, etc.) para el o los proyectos a ser refinanciados con este Programa.
-
-2) La inversión inicial requerida a sus clientes para el desarrollo de un proyecto específico (que sea financiado con los fondos del Programa) no deberá ser superior al 10% del valor de la inversión total requerida, situación que debe quedar reflejada en el contrato respectivo.
+Una ESCO y/o ESMAC podrá ser beneficiaria del presente Programa si, además, cumple con ser el proveedor de servicios o productos (calor, energía, medioambiental, etc.) para el o los proyectos a ser refinanciados con este Programa.
 
 6.1. REEMPLAZO DE EMPRESAS BENEFICIARIAS.
 
@@ -498,15 +606,15 @@ Cualquier modificación de las demás condiciones del préstamo aprobado por Cor
 
 Son elegibles las operaciones para los siguientes tipos de proyectos o iniciativas:
 
-1) Generación y/o almacenamiento de energías renovables no convencionales, ERNC, en proyectos de hasta 9MW, como, por ejemplo:6
+1) Generación y/o almacenamiento de energías renovables, ERNC(4) , por ejemplo:
 
 ____________
 
-6 Ley N° 20.257 indica que los medios de generación renovables no convencionales son aquellos cuya fuente de energía primaria es:
+(4.) Ley N°20.257 indica que los medios de generación renovables no convencionales son aquellos cuya fuente de energía primaria es:
 
 1) la energía de la biomasa, correspondiente a la obtenida de materia orgánica y biodegradable, la que puede ser usada directamente como combustible o convertida en otros biocombustibles líquidos, sólidos o gaseosos, entendiéndose incluida la fracción biodegradable de los residuos sólidos domiciliarios y no domiciliarios.
 
-2) la energía hidráulica y cuya potencia máxima sea inferior a 20.000 kilowatts o 20 megawatts.
+2) la energía hidráulica y cuya potencia máxima sea inferior a 20.000 kilowatts o 20 mega watts.
 
 3) la energía geotérmica, entendiéndose por tal la que se obtiene del calor natural del interior de la tierra.
 
@@ -526,9 +634,11 @@ d) Eólico: Sistemas conectados a la red (On Grid); sistema aislado (Off Grid); 
 
 e) Hidráulica: Centrales de pasada y/o bombeo; marinas; undimotriz o mareomotriz.
 
+f) ERNC para el autoconsumo (ERA).
+
 2) Eficiencia energética (EE). Tales como:
 
-a) ERNC para el autoconsumo (ERA).
+a) Eliminada.
 
 b) Adopción de medidas sencillas destinadas a la reducción en el consumo de energía incrementando su rendimiento. Por ejemplo:
 
@@ -578,6 +688,16 @@ h) Reducción de contaminación acústica.
 
 i) Inversiones que permitan mejorar la eficiencia en el uso de los recursos naturales, por ejemplo, proyectos destinados a reducir los efectos por escasez hídrica.
 
+4) Proyectos para el desarrollo de la industria de hidrógeno verde:
+
+a) Proyectos de producción de hidrógeno verde, que permitan contar con una planta de electrolizadores.
+
+b) Proyectos de demanda de hidrógeno verde, que incluye el uso de hidrógeno verde en procesos productivos en la agroindustria, minería, transporte, etc.
+
+5) Proyectos de partes y piezas y bienes finales de Crédito Verde:
+
+a) Proyectos de fabricación y de ensamblaje de componentes y fabricación producción y ensamblaje de bienes finales, relacionados a proyectos de generación y/o almacenamiento renovable, eficiencia energética, mejora medioambiental e hidrógeno verde.
+
 ### 8. REQUISITOS DE ELEGIBILIDAD DE OPERACIONES A EMPRESAS BENEFICIARIAS
 
 El análisis que efectúe el IFI deberá quedar documentado en la carpeta de antecedentes de la empresa beneficiaria, en poder del IFI.
@@ -592,7 +712,7 @@ Las operaciones que los IFI cursen a las empresas beneficiarias deberán cumplir
 
 1) Ser operaciones de crédito de dinero o de leasing financiero.
 
-2) La suma de los financiamientos otorgados por CORFO a cada RUT de empresa beneficiaria podrá alcanzar un máximo de USD20.000.000 (veinte millones de dólares de los Estados Unidos de América).
+2) La suma de los financiamientos otorgados por CORFO a cada RUT de empresa beneficiaria podrá alcanzar un máximo de USD30.000.000 (treinta millones de dólares de los Estados Unidos de América).
 
 3) Hasta el 30% del financiamiento puede destinarse al capital de trabajo requerido para la puesta en operación del proyecto.
 
@@ -604,7 +724,7 @@ Si la empresa beneficiaria es liderada por mujeres, el IFI podrá solicitar la a
 
 Además de lo establecido en el numeral 8.1 anterior, los IFI deberán otorgar a las empresas beneficiarias un plan de pagos en cuotas convenido, en el que:
 
-1) El plazo total de la operación puede llegar hasta los 15 años (incluido periodo de gracia, si lo tuviere).
+1) El plazo total de la operación puede llegar hasta los 15 años incluido periodo de gracia, si lo tuviere. En caso de reprogramaciones, el IFI podrá otorgar una ampliación del plazo total de la operación pudiendo llegar hasta los 20 años incluido periodo de gracia, si lo tuviere.
 
 2) La periodicidad de pago puede ser igual o distinta a las de los préstamos de refinanciamiento, pudiendo ser:
 
@@ -622,6 +742,8 @@ Las tasas de interés que los IFI podrán aplicar a las operaciones que financie
 
 Además, todos los IFI que participan en el Programa deberán informar a CORFO, tanto la tasa de interés cobrada y el total de los demás costos asociados al financiamiento.
 
+En el evento que los intermediarios financieros lleguen a un acuerdo de modificación de los plazos originalmente convenidos con las empresas beneficiarias, podrán solicitar a Corfo una extensión de plazos en iguales condiciones, siempre que estos nuevos plazos estén dentro de lo indicado en el numeral 4.1 y sin perjuicio de lo señalado en el nu meral 4.9, de estas Normas.
+
 8.3. Costo máximo total de las operaciones
 
 Al momento de fijar las tasas de interés para los préstamos a los IFI, el CEC de CORFO podrá determinar el costo máximo total a ser aplicado por los IFI a las operaciones de las empresas beneficiarias.
@@ -634,19 +756,17 @@ CORFO podrá publicar un resumen de las condiciones financieras de las operacion
 
 8.4. Reprogramación de operaciones
 
-El IFI podrá reprogramar las operaciones de empresas beneficiarias acogidas al Programa, ya sea bajo modalidad individual o modalidad grupal. En caso de que la reprogramación implique una ampliación del plazo del crédito y el IFI requiriese una ampliación del plazo del préstamo de refinanciamiento, el IFI deberá contar previamente con la autorización del CEC, para lo cual además debe seguir lo estipulado en el numeral 4.9 de estas Normas.
+El IFI podrá reprogramar las operaciones de empresas beneficiarias acogidas al Programa. En caso de que la reprogramación implique una ampliación o disminución del plazo del crédito y el IFI requiriese una ampliación o disminución del plazo del préstamo de refinanciamiento, el IFI deberá contar previamente con la autorización del CEC, para lo cual además debe seguir lo estipulado en el numeral 4.9 de estas Normas.
 
-En caso de que la reprogramación implique una ampliación del plazo del crédito y el IFI no requiriese una ampliación del plazo del préstamo de refinanciamiento, no será necesario que el IFI cuente previamente con la aprobación referida en el párrafo anterior. En dicho caso, el IFI deberá informar al Gerente GIF de CORFO el resultado de la reprogramación efectuada.
+En caso de que la reprogramación implique una ampliación o disminución del plazo del crédito y el IFI no requiriese una ampliación o disminución del plazo del préstamo de refinanciamiento aprobado por el CEC, no será necesario que el IFI cuente previamente con la aprobación referida en el párrafo anterior. En dicho caso, el IFI deberá informar al Gerente GIF de CORFO el resultado de la reprogramación efectuada en un plazo de 30 días hábiles contados desde la fecha de formalización de la reprogramación.
 
-Si la reprogramación implica una disminución del plazo del crédito, siempre deberá contar con la autorización expresa de la empresa beneficiaria y contar previamente con la aprobación del CEC.
+El spread total de la op eración de crédito, según lo indicado en las Definiciones Generales de estas Normas, sólo podrá ser mantenido o rebajado producto de una reprogramación. En este caso, el IFI deberá informar al Gerente de la GIF la reprogramación de la operación en un plazo de 30 días hábiles contados desde la fecha de formalización de la reprogramación y, posteriormente, rendir la operación según el detalle establecido en el numeral 10 de estas Normas.
 
-El spread total de la operación de crédito, según lo indicado en las Definiciones Generales de estas Normas, sólo podrá ser mantenido o rebajado producto de una reprogramación. En este caso, el IFI deberá informar al Gerente de la GIF la reprogramación de la operación y, posteriormente, rendir la operación según el detalle establecido en el numeral 10 de estas Normas.
-
-Las operaciones reprogramadas siempre deberán cumplir con las condiciones establecidas en estas Normas. Asimismo, las reprogramaciones de las operaciones de leasing podrán considerar un ajuste en el valor del bien adquirido. El intermediario financiero podrá solicitar dicho ajuste en un plazo no mayor a 180 días corridos desde el curse de la operación.
+Las operaciones reprogramadas siempre deberán cumplir con las condiciones establecidas en estas Normas, independiente de si el IFI requiriese o no una reprogramación del préstamo de refinanciamiento. Asimismo, las reprogramaciones de las operaciones de leasing podrán considerar un ajuste en el valor del bien adquirido. El intermediario financiero podrá solicitar dicho ajuste en un plazo no mayor a 180 días corridos desde el curse de la operación.
 
 Las operaciones reprogramadas:
 
-1) No pueden exceder el monto máximo definido en esta normativa de USD20.000.000 (veinte millones de dólares de los Estados Unidos de América) por RUT de empresa.
+1) No pueden exceder el monto máximo definido en esta normativa de USD30.000.000 (treinta millones de dólares de los Estados Unidos de América) por RUT de empresa.
 
 2) En las operaciones de crédito de dinero, al menos el 10% del monto total de la inversión requerida debe seguir siendo aportado por la empresa beneficiaria.
 
@@ -664,6 +784,8 @@ i) Gastos notariales.
 
 ii) Costo de las primas de seguros deducidos de la operación.
 
+6) La empresa debe seguir siendo económica, financiera y técnicamente viable.
+
 Cuando corresponda, el CEC o el Gerente de la GIF aprobarán la reprogramación. En todos los casos la operación siempre debe cumplir con las condiciones definidas en este numeral y las demás condiciones de esta normativa.
 
 Con posterioridad a la materialización de cualquier reprogramación de una operación, el IFI siempre deberá enviar a CORFO copia del pagaré, o contrato de leasing que dé cuenta de la reprogramación efectuada.
@@ -678,7 +800,7 @@ No podrán financiarse con cargo a este Programa las operaciones destinadas a/co
 
 1) Empresas, personas naturales o jurídicas, relacionadas en propiedad o gestión, en los términos establecidos en el artículo 100 de la Ley N°18.045 sobre Mercado de Valores, con el IFI, con sus sociedades filiales o coligadas o relacionadas con altos ejecutivos o apoderados legales, judiciales o convencionales de éstas o aquél.
 
-2) Empresas, personas naturales o jurídicas, relacionadas en propiedad o gestión, con empresas eléctricas que individualmente o en conjunto sean propietarias de proyectos de generación eléctrica operando en sistemas eléctricos de tamaño superior a 1.500 kilovatios o kilowatts, en los términos establecidos precedentemente en el número 1) anterior.
+2) Eliminado.
 
 3) Empresas prestadoras de servicios energéticos y/o servicios medioambientales cuando los servicios prestados sean a empresas relacionadas en propiedad o gestión, en los términos establecidos en el número 1) anterior.
 
@@ -703,6 +825,8 @@ Además de los antecedentes señalados en los numerales 4, 5, 6, 7 y 8 de estas 
 4) Para proyectos ERNC de hasta 3MW y, en el caso de centrales hidroeléctricas, que no cuenten con alguna de las obras señaladas en el artículo 294 del Código de Aguas, deben desarrollarse respetando la legislación vigente, para lo cual se deberá suscribir la Declaración Jurada disponible en ANEXO 3.
 
 Los IFI deberán mantener en sus archivos (ANEXO 3 y ANEXO 4) el original de los antecedentes establecidos en este numeral.
+
+En el caso de los refinanciami entos por anticipo, en los que el IFI no cuenta con la información y los antecedentes de los proyectos y de las empresas beneficiarias, no se deberán enviar estos antecedentes junto a la solicitud de refinanciamiento. Dichos antecedentes deberán ser enviados con posterioridad al desembolso, según lo indicado en el segundo párrafo del numeral 4.5 de estas Normas, que regula los anticipos de recursos.
 
 ### 10. RENDICIÓN DE OPERACIONES A EMPRESAS BENEFICIARIAS
 
@@ -792,7 +916,7 @@ Además de las rendiciones mensuales, los IFI que operan el Programa deberán en
 
 Los IFI que operan el Programa deben enviar anualmente a Corfo los Estados Financieros auditados y su Memoria Anual y/o Informe Anual de Gestión, dentro de los 150 días corridos desde el cierre del año anterior.
 
-Asimismo, deben enviar los pre-balances trimestrales al cierre de cada trimestre calendario, marzo, junio, septiembre y diciembre, dentro de los 60 días corridos siguientes al término de cada cierre trimestral. Respecto del envío de éstos, deberán contar con notas explicativas para las siguientes cuentas:
+Asimismo, deben enviar los pre-balances semestrales al cierre de cada semestre calendario, dentro de los 60 días corridos siguientes al término de cada cierre semestral. Respecto del envío de éstos, deberán contar con notas explicativas para las siguientes cuentas:
 
 a) Colocaciones de corto y de plazo.
 
@@ -818,11 +942,11 @@ Los IFI deberán enviar a CORFO una actualización de sus antecedentes legales, 
 
 14.3. Antecedentes medioambientales y sociales
 
-Durante el periodo de vigencia de la deuda del intermediario financiero con CORFO, éste deberá reportar semestralmente:
+Durante el periodo de vigencia de la deuda del intermediario financiero con CORFO, éste deberá reportar dentro de los 60 días corridos siguientes al término de cada cierre semestral calendario:
 
-1. Para el caso de los proyectos de ERNC: informes técnicos del avance de las obras y reportes de gestión socioambiental, de los proyectos refinanciados con recursos del Programa.
+1. Para el caso de los proyectos de ERNC: informes técnicos del avance de las obras y reportes de gestión socio ambiental, de los proyectos refinanciados con recursos del Programa. Asimismo, cua ndo los refinanciamientos sean otorgados bajo el modo etapa de construcción o de implementación de proyecto, informes o antecedentes que den cuenta de la ejecución de obras o de implementación del proyecto y su relación c on la proyección original, explicando las razones de posibles atrasos.
 
-2. Si corresponde, para los demás tipos de proyectos: informes técnicos del avance de las obras o de ejecución de los proyectos y reportes relativos al cumplimiento de normativas medioambientales y sociales, de los proyectos refinanciados con recursos del Programa.
+2. Si corresponde, para los demás tipos de proyectos: informes técnicos del avance de las obras o de ejecución de los proyectos y reportes relativos al cumplimiento de normativas medioambientales y sociales, de los proyectos refinanciados con recursos del Programa. Asimismo, cuando los refinanciamientos sean otorgados bajo el modo etapa de construcción o de implementación de proyecto, informes o antecedentes que den cuenta de la ejecución de obras o de implementación del proyecto y su relación con la proyección original, explicando las razones de posibles atrasos.
 
 14.4. Antecedentes adicionales
 
@@ -956,85 +1080,9 @@ Para que se produzca la reducción de gravedad del incumplimiento antes indicado
 
 3) El IFI debe informar todos los incumplimientos en que esté incurriendo al momento de realizar la autodenuncia.
 
-ANEXO 1
+### 16. FINANCIAMIENTO DEL PROGRAMA:
 
-CARTA DE SOLICITUD DE MONTO MÁXIMO PROGRAMA CRÉDITO VERDE
-
-Fecha:
-
-REF. Solicitud de Monto Máximo - Programa "Crédito Verde".
-
-Señores
-
-Corporación de Fomento de la Producción
-
-Gerencia de Inversión y Financiamiento
-
-Presente
-
-Con cargo al Programa "Crédito Verde", solicitamos que Corfo defina el Monto Máximo disponible para el Intermediario (nombre del intermediario), para financiar operaciones de crédito o de leasing para proyectos elegibles, de empresas beneficiarias, según lo establecido en las Normas del Programa.
-
-Se adjuntan los antecedentes requeridos en numeral 4 de las Normas para la utilización del Programa en referencia.
-
-.............................................
-
-Nombre del Intermediario Financiero
-
-y nombre(s) y firma(s) de(los)
-
-representante(s) autorizado(s)
-
-ANEXO 2
-
-CARTA DE SOLICITUD DE REFINANCIAMIENTO PROGRAMA CRÉDITO VERDE
-
-ANEXO 2 A
-
-Formato de Antecedentes de operaciones y proyectos de generación y/o almacenamiento de energías, mediante ERNC
-
-La información reportada dependerá del tipo de financiamiento del que se trate. A modo de ejemplo: i) para financiamientos de proyectos de electromovilidad, deberá corresponder a la información agregada del total de vehículos del mismo tipo que se esté financiando; ii) para financiamientos de proyectos de instalación de paneles fotovoltaicos, deberá corresponder a la información agregada de paneles por cada recinto industrial o comercial en que se instalen.
-
-El Intermediario Financiero valida que la información entregada a Corfo es fidedigna y cuenta con los antecedentes de respaldo.
-
-.....................................
-
-(Nombre y firma representante de intermediario financiero)
-
-Nota: Si la presentación de la Solicitud corresponde a una Operación No Cursada, una vez aprobada por Corfo, el IFI deberá efectuar el curse de la operación dentro de los 90 días siguientes al desembolso de la Corporación.
-
-El IFI dispondrá de 30 días, desde el curse de cada operación, para demostrar la operación; la que deberá tener relación con la información entregada para su evaluación y con lo que el CEC podría haber establecido para su aprobación.
-
-ANEXO 2 B
-
-Formato de Antecedentes de operaciones y proyectos para proyectos de Eficiencia Energética (EE)
-
-La información reportada dependerá del tipo de financiamiento del que se trate. A modo de ejemplo: i) para financiamientos de proyectos de electromovilidad, deberá corresponder a la información agregada del total de vehículos del mismo tipo que se esté financiando; ii) para financiamientos de proyectos de instalación de paneles fotovoltaicos, deberá corresponder a la información agregada de paneles por cada recinto industrial o comercial en que se instalen.
-
-El Intermediario Financiero valida que la información entregada a Corfo es fidedigna y cuenta con los antecedentes de respaldo.
-
-.......................................
-
-(Nombre y firma representante de intermediario financiero)
-
-Nota: Si la presentación de la Solicitud corresponde a una Operación No Cursada, una vez aprobada por Corfo, el IFI deberá efectuar el curse de la operación dentro de los 90 días siguientes al desembolso de la Corporación.
-
-El IFI dispondrá de 30 días, desde el curse de cada operación, para demostrar la operación; la que deberá tener relación con la información entregada para su evaluación y con lo que el CEC podría haber establecido para su aprobación.
-
-ANEXO 2 C
-
-Formato de Antecedentes de operaciones y proyectos para Proyectos de Mejora Medio Ambiental
-
-La información reportada dependerá del tipo de financiamiento del que se trate. A modo de ejemplo: i) para financiamientos de proyectos de electromovilidad, deberá corresponder a la información agregada del total de vehículos del mismo tipo que se esté financiando; ii) para financiamientos de proyectos de instalación de paneles fotovoltaicos, deberá corresponder a la información agregada de paneles por cada recinto industrial o comercial en que se instalen.
-
-El Intermediario Financiero valida que la información entregada a Corfo es fidedigna y cuenta con los antecedentes de respaldo.
-
-......................................
-
-(Nombre y firma representante de intermediario financiero)
-
-Nota: Si la presentación de la Solicitud corresponde a una Operación No Cursada, una vez aprobada por Corfo, el IFI deberá efectuar el curse de la operación dentro de los 90 días siguientes al desembolso de la Corporación.
-
-El IFI dispondrá de 30 días, desde el curse de cada operación, para demostrar la operación; la que deberá tener relación con la información entregada para su evaluación y con lo que el CEC podría haber establecido para su aprobación.
+Los recursos de este Programa están sujetos a su disponibilidad presupuestaria para cada año, incluyendo los recursos correspondientes a préstamos u otros apoyos otorgados por bancos o entidades de desarrollo internacionales en la medida que los proyectos cumplan con las exigencias que éstos establezcan, en particular, sus estándares medioambientales y sociales, dentro de los cuales están los estándares del IFC y del Banco Interamericano de Desarrollo, cuyas listas de exclusión están indicadas en el Anexo 7 de estas Normas.
 
 ANEXO 3
 
@@ -1044,7 +1092,7 @@ DECLARACIÓN JURADA SIMPLE
 
 Conforme a lo establecido en las normas para la utilización del Programa "Crédito Verde", el(los) abajo firmante(s), actuando (por sí) / (en la representación que inviste(n)), declara(n) bajo juramento que cuenta(n) con las aprobaciones exigidas por la normativa ambiental vigente para efectuar inversiones a ser financiadas con cargo al Programa citado anteriormente, y que estas inversiones cumplen plenamente con dicha normativa. Las aprobaciones antes referidas constan en certificados vigentes emitidos por los organismos técnicos públicos competentes, los que fueron entregados al Intermediario Financiero.
 
-.....................................................
+.............................................
 
 (lugar) (fecha) (nombre de la empresa)
 
@@ -1088,7 +1136,7 @@ Declaramos, asimismo, que nosotros no figuramos, ni en la lista de sanciones de 
 
 Aceptamos que, en caso de que fuéramos incluidos en una lista de sanciones legalmente vinculante con CORFO, ésta tendrá derecho a excluirnos del proceso de otorgamiento de recursos y tendrá derecho a resolver el Contrato de Participación de forma inmediata, si la información entregada era objetivamente falsa o si la causa de exclusión se produce en un momento posterior, después de la entrega de la firma de los contratos de préstamo o de leasing con el intermediario financiero, según corresponda.
 
-.....................................................
+.............................................
 
 (lugar) (fecha) (nombre de la empresa)
 
@@ -1096,45 +1144,43 @@ Aceptamos que, en caso de que fuéramos incluidos en una lista de sanciones lega
 
 (Nombre y firma representante de la empresa)
 
-ANEXO 7
+________________
 
-PROGRAMA CRÉDITO VERDE
+(5.) Esto no se aplica a los patrocinadores de proyectos que no participan sustancialmente en esas actividades. La expresión "que no participan sustancialmente" significa que la actividad de que se trata tiene carácter secundario con respecto a las operaciones principales del patrocinador del proyecto.
 
-LISTA DE EXCLUSIÓN DE LA COOPERACIÓN FINANCIERA INTERNACIONAL (IFC)
+(6.) Por "trabajo forzoso" se entiende todo trabajo o servicio no realizado en forma voluntaria, que se obliga a una persona a efectuar bajo amenaza de fuerza o castigo.
 
-El Programa Crédito Verde se rige por la siguiente Lista de Exclusión de la Cooperación Financiera Internacional (IFC, por sus siglas en inglés). Por lo tanto, las actividades estipuladas en esta lista no serán objeto de financiamiento en el contexto de dicho Programa.
+(7.) Por "trabajo perjudicial de menores" se entiende todo empleo de niños que constituya explotación económica, o que probablemente sea peligroso o interfiera en la educación del niño, o sea perjudicial para la salud de éste, o para su desarrollo físico, mental, espiritual, moral o social.
 
-La Lista de Exclusión de la IFC especifica los tipos de proyectos que no se financia:
+(8.) Documentos de referencia: Reglamento (CEE) Nº 2455/92 del Consejo, del 23 de julio de 1992, relativo a la exportación e importación de determinados productos químicos peligrosos, con sus ocasionales enmiendas; Naciones Unidas, Lista consolidada de los productos cuyo consumo y/o venta han sido prohibidos o sometidos a restricciones rigurosas, o que han sido retirados del mercado o no han sido aprobados por los gobiernos; Convenio sobre el procedimiento de consentimiento fundamentado previo aplicable a ciertos plaguicidas y productos químicos peligrosos objeto de comercio internacional (Convenio de Rotterdam); Convenio de Estocolmo sobre contaminantes orgánicos persistentes; Organización Mundial de la Salud, Clasificación recomendada de plaguicidas por riesgo; Organización Mundial de la Salud, Pharmaceuticals: Restrictions in Use and Availability.
 
-. Elaboración de cualquier producto o comercio en cualquier actividad, considerados ilegales en la legislación o los reglamentos del país receptor o en convenios o acuerdos internacionales, o sujetos a prohibiciones internacionales, como productos farmacéuticos, plaguicidas o herbicidas, sustancias que agotan la capa de ozono, productos que contengan bifenilos policlorados (PCB), productos de fauna o flora silvestres o productos reglamentados conforme a lo dispuesto en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES, por sus siglas en inglés).
+(9.) Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes, enmendado en 2009.
 
-. Producción o comercio de armas y municiones.8
+(10.) Las sustancias nocivas para la capa de ozono son compuestos químicos que reaccionan con el ozono estratosférico y lo reducen, lo que produce los tan mencionados "agujeros de la capa de ozono". En el Protocolo de Montreal se incluye un listado de estas sustancias y las fechas que se establecieron como objetivo para su reducción y retiro del mercado. Algunos de los compuestos químicos regulados por el Protocolo de Montreal son los aerosoles, los refrigerantes, los agentes espumantes, los solventes y los agentes ignífugos (https://ozone.unep.org/treaties/montreal-protocol).
 
-____________
+(11.) Convention on International Trade in Endangered Species of Wild Fauna and Flora.
 
-8 Esto no se aplica a los patrocinadores de proyectos que no participan sustancialmente en esas actividades. La expresión "que no participan sustancialmente" significa que la actividad de que se trata tiene carácter secundario con respecto a las operaciones principales del patrocinador del proyecto.
+(12.) Definidos en el Convenio de Basilea.
 
-. Producción o comercio de bebidas alcohólicas (salvo cerveza y vino).
+(13.) Pinturas o revestimientos con una concentración total de plomo que supera la menor de las siguientes dos cifras: 90 ppm o el límite de concentración establecido por el país anfitrión.
 
-. Producción o comercio de tabaco.1
+(14.) Esto no se aplica a proyectos cuyo objetivo primordial no está relacionado con la producción, el comercio o el uso de tabaco.
 
-. Juegos de azar, casinos y empresas equivalentes.1
+(15.) Esto no se aplica a proyectos cuyo objetivo primordial no está relacionado con la construcción y explotación de lugares de juego, casinos y otras empresas equivalentes.
 
-. Producción o comercio de materiales radiactivos. Esto no se aplica a la compra de equipo médico, equipos de control (medición) de la calidad o de cualquier equipo cuya fuente radiactiva sea, a juicio de la IFC, insignificante o esté suficientemente resguardada.
+(16.) Esta restricción no se aplica a la compra de equipos médicos, equipos de control de calidad (medición) y cualquier equipo para el que pueda demostrarse que la fuente de radioactividad será insignificante o se cubrirá adecuadamente.
 
-. Producción o comercio de fibras de asbestos no protegidas. Esto no se aplica a la compra y uso de paneles de fibrocemento cuyo contenido de asbestos es inferior al 20%.
+(17.) Esto se aplica únicamente a instalaciones conexas cuyo objetivo primordial esté relacionado con la producción, el comercio o el uso de carbón para la generación eléctrica o con la transmisión de la energía generada por una central de carbón (por ejemplo, una línea de transmisión dedicada solo a ese fin).
 
-. Pesca con redes de enmalle y deriva en el medio marino con redes de más de 2,5 kilómetros de largo.
+(18.) La exploración y el desarrollo de petróleo y gas se refieren a todos los pasos que tienen lugar desde la exploración preliminar hasta la extracción del recurso.
 
-Se efectuará un análisis de razonabilidad en casos en que las actividades de la entidad del proyecto pudieran tener un impacto considerable sobre el desarrollo, pero las circunstancias del país requieren una modificación de la Lista de Exclusión.
+(19.) Los impactos ambientales y sociales se refieren a todo cambio, potencial o real, en: i) el ambiente físico, natural o cultural, y ii) la comunidad de los alrededores y los trabajadores, como resultado de la actividad financiada.
 
-Todos los IFI, a excepción de los que participen en actividades especificadas abajo, tendrán que aplicar las siguientes exclusiones adicionales a la Lista de Exclusión de la IFC:
+(20.) El patrimonio cultural crítico consiste en uno de los siguientes tipos de patrimonio cultural o ambos: (i) el patrimonio internacionalmente reconocido de comunidades que usen o que tengan memoria viviente de haber usado el patrimonio cultural para fines culturales de larga data o bien (ii) áreas de patrimonio cultural legalmente protegidas, incluidas las propuestas por el gobierno para tal designación (los ejemplos incluyen sitios del patrimonio mundial y áreas nacionalmente protegidas).
 
-. Producción o actividades que impliquen alguna forma de trabajo forzoso, perjudicial, o que constituya explotación, o de trabajo perjudicial de menores9 .10
+(21.) De acuerdo con el Marco de Política Ambiental y Social del BID, los servicios ecosistémicos son los beneficios que las personas, incluidas las empresas, las comunidades y la sociedad en general, obtienen de los ecosistemas. Hay cuatro tipos de servicios ecosistémicos: (i) los servicios de aprovisionamiento, que son los productos que las personas obtienen de los ecosistemas; (ii) los servicios de regulación, que son los beneficios que obtienen las personas de la regulación de los procesos de los ecosistemas; (iii) los servicios culturales, que son los beneficios inmateriales que
 
-. Operaciones de explotación forestal en bosques tropicales primarios húmedos.
-
-. Producción o comercio de madera u otros productos forestales no provenientes de bosques gestionados de forma sostenible.
+las personas obtienen de los ecosistemas; y (iv) los servicios de apoyo, que son los procesos naturales que mantienen a los demás servicios.
 
 ANEXO 7 A
 
@@ -1144,7 +1190,7 @@ DECLARACIÓN JURADA SIMPLE
 
 Conforme a lo establecido en la normativa del Programa "Crédito Verde", el(los) abajo firmante(s), actuando (por sí) / (en la representación que inviste(n)), declara(n) bajo juramento que el proyecto y la empresa asociada al mismo, no cuentan o no tienen ninguna relación con las actividades estipuladas en el Listado de Exclusión de la Cooperación Financiera Internacional a que se hace mención en la normativa del Programa citado.
 
-.....................................................
+.............................................
 
 (lugar) (fecha) (nombre de la empresa)
 
@@ -1159,5 +1205,7 @@ ____________
 9 Por "trabajo forzoso" se entiende todo trabajo o servicio no realizado en forma voluntaria, que se obliga a una persona a efectuar bajo amenaza de fuerza o castigo.
 
 10 Por "trabajo perjudicial de menores" se entiende todo empleo de niños que constituya explotación económica, o que probablemente sea peligroso o interfiera en la educación del niño, o sea perjudicial para la salud de éste, o para su desarrollo físico, mental, espiritual, moral o social.
+
+> **Nota.** Las letras a), b), c) y d) del numeral 1 y el numeral 2 del Nº1 y las letras a) y b) del numeral 1 y el numeral 2 del Nº 2 de la Resolución 113, Economía, publicada el 09.12.2024, modifican la presente norma en el sentido de ejecutar el Acuerdo del Comité Ejecutivo de Créditos N° 29.400, de fecha 10 de julio de 2024, en el marco del Programa "Crédito Verde", en la forma que indica. No obstante lo anterior, no es posible incorporar las modificaciones en el presente texto actualizado en razón de que no coinciden los textos.
 
 Anótese, tómese razón y publíquese.- Mauricio Escobar Meza, Gerente de Inversión y Financiamiento (S).
