@@ -728,6 +728,28 @@ El Banco podrá adquirir, a cualquier título, bienes raíces o muebles, como, a
 
 El Banco podrá realizar todos los actos, contratos y operaciones bancarias y comerciales que sean necesarios para el cumplimiento de su objeto, ajustándose a las facultades y atribuciones que esta ley le otorga.
 
+#### Artículo 57 bis
+
+En lo referido a la adquisición, administración y disposición de bienes muebles, prestación de servicios y obras, el Banco deberá observar lo dispuesto en el Capítulo VII de la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios, con exclusión de los incisos segundo y quinto de su artículo 35 bis, y de sus artículos 35 septies, 35 octies y 35 decies.
+
+Las referencias contenidas en las normas del mencionado Capítulo VII a la Dirección de Compras y Contratación Pública o a las instrucciones dictadas por ésta, se entenderán efectuadas al Consejo y a las normas que éste imparta sobre la materia, para cuyo efecto podrá considerar las que dicte la referida Dirección.
+
+La divulgación de la resolución fundada a que se refiere el inciso final del artículo 35 quáter de la ley N° 19.886 se efectuará incluyéndola en el sitio electrónico institucional del Banco, con sujeción a lo previsto en los artículos 65 bis y 66, y será comunicada a las autoridades señaladas en el artículo 4.
+
+La referencia al principio de probidad indicado en el inciso primero del artículo 35 sexies de la ley N° 19.886 se entenderá efectuada al artículo 8° de la Constitución Política de la República en relación con lo dispuesto en la presente ley.
+
+El Banco deberá implementar un canal para recibir denuncias sobre irregularidades en los procesos de compras que realice.
+
+El Banco también podrá acordar con la Dirección de Compras y Contratación Pública hacer uso de los sistemas electrónicos o digitales de contratación que contempla el artículo 20 de la ley N° 19.886, en los términos y condiciones que convengan al efecto, y se regirán en todo caso los procedimientos y contratos que celebre el Banco por lo dispuesto en los artículos 2, 57 y 90. Lo mismo se aplicará en caso de que el Banco convenga el uso, acceso o participación en otros sistemas de información a que se refiere la ley N° 19.886.
+
+Las referencias que el capítulo VII haga al Sistema de Información y Gestión de Compras y Contrataciones del Estado, se entenderán hechas a el o los sistemas que el Banco utilice para sus procedimientos de compras y contrataciones.
+
+El Banco no quedará sujeto a la regulación, fiscalización o supervigilancia de la Dirección de Compras y Contratación Pública, y las eventuales controversias que surjan respecto de los procesos de contratación y contratos que el mismo celebre serán conocidas por la justicia ordinaria.
+
+Para el caso de que el Banco resuelva acogerse a las disposiciones de la ley N° 19.886 y su reglamento, las referencias hechas en dicho cuerpo legal al Reglamento o a las directrices o instrucciones emitidas por la Dirección de Compras y Contratación Pública se entenderán realizadas a la normativa interna que el Consejo dicte para estos efectos.
+
+El Banco quedará excluido de la ley sobre la economía circular en la adquisición de bienes y servicios de los organismos del Estado, sin perjuicio de lo cual podrá aplicar dicha ley en los términos previstos en los artículos 2, 57 y 90, en relación con la disposición de los bienes muebles de su propiedad, así como en la utilización de uno o más procesos de economía circular y reciclaje. El Banco podrá convenir con la Dirección de Compras y Contratación Pública los términos y condiciones conforme a los cuales ello tendrá lugar.
+
 ## Título IV
 
 De las Sanciones

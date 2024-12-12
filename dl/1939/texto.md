@@ -208,25 +208,21 @@ Todas las facultades que la presente ley le confiere al Ministro y al Director, 
 
 #### Artículo 24
 
-Los bienes muebles destinados para la administración del Estado, se podrán adquirir, sin perjuicio de las excepciones legales, a través de la Dirección de Aprovisionamiento del Estado y mediante las donaciones y herencias de que trata el Título II de esta ley.
+Los bienes muebles destinados para la administración del Estado, se podrán adquirir, sin perjuicio de las excepciones legales, a través de la ley N° 19.886 y su reglamento, y mediante las donaciones y herencias de que trata el Título II de esta ley.
 
 La administración y control directo sobre estos bienes serán ejercidos por los Jefes de los Servicios y Oficinas en que se encuentren inventariados o a los cuales se hayan adscrito, sin perjuicio de las facultades inspectivas que le corresponden a la Dirección y a la Contraloría General de la República.
 
-Los traslados de muebles dentro de una misma institución, o a otro servicio distinto centralizado o descentralizado, se efectuarán por resoluciones de la entidad a cuyo cargo se encuentre el bien, anotándose este acto en los inventarios correspondientes.
+La transferencia del dominio, uso, goce o disposición de bienes muebles en desuso a otros organismos del Estado o al público y la eliminación de éstos se hará de conformidad a la ley sobre la economía circular en la adquisición de bienes y servicios de los organismos del Estado, sin perjuicio de las atribuciones del Ministerio de Bienes Nacionales.
 
-Los bienes muebles utilizables que se deseen excluir de los servicios fiscales o de los servicios de la Administración descentralizada, deberán ponerse a disposición de la Dirección pudiendo sugerir la entidad u organismo que necesitare tales bienes. Si no hubiere interés por ellos, podrán ser dados de baja, mediante enajenación a través de la Dirección de Aprovisionamiento del Estado, de acuerdo con las disposiciones legales y reglamentarias vigentes.
+Se excluyen de las disposiciones del inciso tercero del presente artículo, los vehículos motorizados, a los cuales se les continuará aplicando las disposiciones legales vigentes.
 
-Los bienes muebles deteriorados o destruidos que no se puedan reparar y los que, ofrecidos en remate, no se hubieren enajenado por no existir interés en adquirirlos, podrán ser dados de baja sin enajenación.
-
-Las especies a que se refiere el inciso anterior, o los residuos de ellas, podrán ser donados a otras instituciones del Estado, entidades gremiales, Juntas de Vecinos, Centros de Madres, y a cualesquiera otras entidades similares que, sin ánimo de lucro, persigan fines de interés social, incluso a pobladores y campesinos, en casos calificados.
-
-Se excluyen de las disposiciones de los incisos cuarto, quinto y sexto del presente artículo, los vehículos motorizados, a los cuales se les continuará aplicando las disposiciones legales vigentes.
-
-El Reglamento señalará las demás modalidades y procedimientos en la adquisición y administración de bienes muebles, y fijará las normas conforme a las cuales se deberá enajenar dichos bienes, de acuerdo a lo dispuesto en los incisos precedentes.
+El Reglamento señalará las demás modalidades y procedimientos en la adquisición y administración de bienes muebles, de acuerdo a lo dispuesto en los incisos precedentes.
 
 #### Artículo 25
 
 La adquisición y disposición de los bienes de las Municipalidades se sujetarán a las normas del régimen de bienes contenidas en el decreto ley N° 1.289, de 1975, y a las disposiciones de esta ley que señale el Presidente de la República mediante decreto con fuerza de ley que adecuará los preceptos pertinentes a la naturaleza propia de dichas instituciones de derecho público, y que deberá dictarse dentro del plazo de un año contado desde la publicación del presente decreto ley.
+
+La transferencia del uso, goce o disposición de bienes muebles en desuso a otros organismos del Estado o al público, y su eliminación se hará de conformidad a la ley sobre la economía circular en la adquisición de bienes y servicios de los organismos del Estado.
 
 ## Título II
 

@@ -12,9 +12,7 @@ Son acciones de apoyo a todas las que no constituyan directamente las potestades
 
 #### Artículo 2°
 
-Para la adjudicación de los contratos deberá llamarse a propuesta pública o privada, requiriéndose en este último caso, la participación de, a lo menos, tres proponentes.
-
-En el reglamento respectivo se considerarán las garantías que pudieren ser necesarias para asegurar el fiel y oportuno cumplimiento de las obligaciones que contraiga el adjudicatario.
+La adjudicación de contratos para la realización de acciones de apoyo a sus funciones por parte de los servicios públicos señalados en esta ley a entidades de derecho privado se realizará siguiendo las normas establecidas en la ley Nº 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.
 
 #### Artículo 3°
 

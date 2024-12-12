@@ -554,9 +554,9 @@ Sin perjuicio de lo anterior, la dictación de los decretos o resoluciones respe
 
 Una vez fijado el código y el nombre del estudio, programa o proyectos, en la identificación referida, éstos no podrán ser modificados.
 
-La identificación presupuestaria a que se refiere este artículo, no será aplicable respecto de estudios y proyectos de inversión de las Fuerzas Armadas, que sean calificados como estratégicos o necesarios para la defensa, mediante decreto supremo del Ministerio de Defensa Nacional.
+La adjudicación de los estudios señalados en el presente artículo se realizará a través de los procedimientos establecidos en la ley Nº 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.
 
-> **Nota.** El artículo 1º transitorio de la LEY 19896, publicada el 03.09.2003, dispone que la modificación del presente artículo, regirá a contar del 1º de enero de 2004, sin perjuicio de que los reglamentos o decretos supremos que, en su caso, establecen, puedan ser dictados desde su publicación, para entrar en vigencia desde la fecha antes señalada.
+La identificación presupuestaria a que se refiere este artículo, no será aplicable respecto de estudios y proyectos de inversión de las Fuerzas Armadas, que sean calificados como estratégicos o necesarios para la defensa, mediante decreto supremo del Ministerio de Defensa Nacional.
 
 #### Artículo 20°
 

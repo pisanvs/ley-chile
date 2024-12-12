@@ -792,7 +792,7 @@ El procedimiento que se seguirá para la enajenación será el remate o la licit
 
 #### Artículo 35
 
-La disposición de los bienes muebles dados de baja se efectuará mediante remate público. No obstante, en casos calificados, las municipalidades podrán donar tales bienes a instituciones públicas o privadas de la comuna que no persigan fines de lucro.
+La disposición de los bienes muebles dados de baja se efectuará de conformidad a la ley sobre la economía circular en la adquisición de bienes y servicios de los organismos del Estado.
 
 #### Artículo 36
 
@@ -1270,13 +1270,13 @@ b) Cinco concejales en las comunas que cuenten con ocho.
 
 c) Seis concejales en las comunas que cuenten con diez de ellos.
 
+En el caso de las contrataciones reguladas por la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios, cuando el alcalde o alcaldesa requiera del acuerdo del Concejo Municipal, según los dispuesto en este artículo, las y los concejales deberán ceñirse al principio de estricta sujeción a las bases, dispuesto en el artículo 10 de dicha ley.
+
 #### Artículo 66
 
 La regulación de los procedimientos administrativos de contratación que realicen las municipalidades se ajustará a la Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y sus reglamentos.
 
 Asimismo, el procedimiento administrativo de otorgamiento de concesiones para la prestación de servicios por las municipalidades se ajustará a las normas de la citada ley y sus reglamentos, salvo lo establecido en los incisos cuarto, quinto y sexto del artículo 8° de la presente ley, disposiciones que serán aplicables en todo caso.
-
-Sin perjuicio de lo señalado en el inciso primero, tratándose de la suscripción de convenios marco, deberá estarse a lo establecido en el inciso tercero de la letra d), del artículo 30 de dicha ley.
 
 #### Artículo 67
 

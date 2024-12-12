@@ -252,11 +252,9 @@ La norma del inciso tercero regirá respecto de los nombramientos en las calidad
 
 Por decreto supremo del Ministerio de Hacienda, deberá reglamentarse, respecto de los servicios, instituciones y empresas regidos por los artículos 1° y 2° del decreto ley N° 249, de 1973, las modalidades a que deberá ajustarse la celebración de convenios que involucren la prestación de servicios personales a dichas entidades. La reglamentación establecerá los requisitos, normas de control y demás condiciones que sean necesarias.
 
-Los convenios que se celebren deberán ser aprobados
+Los convenios que se celebren deberán ser aprobados por decreto supremo del Ministerio del ramo. Esta exigencia no regirá respecto de los convenios que recaen en el estudio de proyectos de obras de desarrollo regional, financiados por el Fondo Nacional de Desarrollo Regional, los que deberán ser aprobados por resolución del Intendente respectivo.
 
-por decreto supremo del Ministerio del ramo. Esta exigencia no regirá respecto de los convenios que recaen en el estudio de proyectos de obras de desarrollo regional, financiados por el Fondo Nacional de Desarrollo Regional, los que deberán ser aprobados por resolución del Intendente respectivo.
-
-Los convenios relativos a la ejecución de trabajos técnicos y jurídicos destinados a regularizar la posesión de la pequeña propiedad raíz, de acuerdo al procedimiento establecido por el decreto ley 2.695, de 1979, serán aprobados por resolución del Ministro de Bienes Nacionales, quien podrá delegar esta facultad en los Secretarios Regionales Ministeriales correspondientes.
+Sin perjuicio de lo dispuesto en los incisos anteriores, para el suministro de bienes y la prestación de servicios requeridos por las entidades señaladas en el presente artículo se seguirá lo dispuesto en la ley N°19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.
 
 #### Artículo 17°
 
