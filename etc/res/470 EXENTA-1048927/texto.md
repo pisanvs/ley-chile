@@ -28,6 +28,12 @@ Segundo: Delégase en el Jefe de la División Política Regulatoria y Estudios, 
 
 4. Oficios dirigidos a empresas, entidades o personas naturales que certifican la falta de garantía de una conexión que le permita acceder a la prestación del Servicio Público de Transmisión de Datos en la zona consultada, para realizar trámites en línea como facturación electrónica, emisión de guías de despacho u otros documentos tributarios, conforme a lo requerido por el Servicio de Impuestos Internos.
 
+5. Resoluciones exentas que autorizan el uso de la numeración telefónica para servicios de emergencia, que impliquen la modificación de la resolución exenta N° 1.534, de 2008, de esta Subsecretaría.".
+
+"6 . Oficios dirigidos a empresas, entidades y, en general, a cualquier persona jurídica o natural a las que se les asigna numeración especial para la prestación de servicios complementarios, a que se refiere la resolución exenta N° 1.396, de 2019, de esta Subsecretaría.".
+
+"7. Resoluciones exentas de asignación de códigos identificadores de la red de origen y destino de la llamada (IDO/IDD) en ambiente de portabilidad numérica para las concesionarias.
+
 Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
 1. Oficios conductores y extractos de solicitudes de concesiones de servicios públicos e intermedios de telecomunicaciones, para las publicaciones correspondientes.
@@ -42,13 +48,13 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 6. Oficios de solicitud de informes referidos en el artículo 17 de la ley Nº 18.168, respecto de las solicitudes de servicios públicos, intermedios, de radiodifusión sonora y limitados de telecomunicaciones.
 
-7. Oficios dirigidos a los adjudicatarios de las licitaciones que se realicen en el marco de los concursos públicos de radiodifusión sonora a que se refiere el artículo 13 y 13 A de la ley Nº 18.168, informándoles del plazo dentro del cual deberá efectuar el pago de la referida licitación, de conformidad con lo dispuesto en las bases del concurso respectivo.
+### 7. Eliminado
 
 8. Resoluciones u oficios, según corresponda, de autorización de modificación por cambio de equipos de radiocomunicaciones de servicios limitados de telecomunicaciones, incluidos los servicios limitados de televisión, así como los equipos de radiodifusión sonora cuando corresponda.
 
 9. Oficios dirigidos al Consejo Nacional de Televisión, informando sobre solicitudes de modificación de una concesión de radiodifusión televisiva de libre recepción cuando ella sea de carácter técnico, según el artículo 30º de la ley Nº 18.838.
 
-10. Oficios dirigidos a la Tesorería General de la República solicitando el envío de formularios de Orden de Ingreso Fiscal (OIF); oficios solicitando a concesionarios o permisionarios la devolución de la Orden de Ingreso Fiscal (OIF) o Formulario Nº 20, relacionadas con el cobro de derechos de uso del espectro radioeléctrico; oficios dirigidos a las Secretarías Regionales Ministeriales que remiten talonarios de Órdenes de Ingreso Fiscal (OIF) o Formulario Nº 20, relacionadas con el cobro de derechos de uso del espectro radioeléctrico; y todo otro oficio dirigido a los titulares de servicios de telecomunicaciones que digan relación con el cobro y pago del uso del espectro radioeléctrico y oficios conductores que remiten resoluciones de exención del cobro y pago de derechos por el uso del espectro radioeléctrico.
+10. Oficios dirigidos a entidades públicas, concesionarios y/o permisionarios de servicios de telecomunicaciones, solicitando o proporcionando información, documentación y/o antecedentes relevantes sobre el uso, cobro y pago de los derechos por el uso del espectro radioeléctrico, así como cualquier otra gestión o trámite relacionado con dichos derechos.
 
 11. Resoluciones de otorgamiento, rechazo, modificación, renovación, certificación de la extinción y de autorización previa para transferir permisos de servicios limitados de telecomunicaciones, a excepción de los servicios limitados de televisión que ocupen espectro radioeléctrico.
 
@@ -60,7 +66,7 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 15. Oficios que formulen reparos, observaciones, soliciten antecedentes adicionales, a peticionarios, concesionarios y permisionarios de servicios de telecomunicaciones, salvo en el contexto de procedimientos concursales establecidos en el artículo 13 c) de la Ley General de Telecomunicaciones.
 
-### 16. Eliminado
+16. Oficios de requerimiento de antecedentes e informes dirigidos a concesionarios de servicios públicos e intermedios de telecomunicaciones, concesionarios de radiodifusión sonora y televisiva, y permisionarios de servicios limitados de telecomunicaciones, con el propósito de solicitar o proporcionar información, documentación y/o antecedentes pertinentes sobre el inicio del proceso de caducidad de la concesión o permiso, conforme a la causal establecida en el numeral 4, letra g), del artículo 36 de la ley N° 18.168, Ley General de Telecomunicaciones".
 
 ### 17. Eliminado
 
@@ -68,7 +74,7 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 19. Resoluciones de autorización previa de transferencia, arriendo o cesión de concesiones de servicios de radiodifusión.
 
-### 20. Eliminado
+20. Resoluciones que aprueban o modifican bases de concursos para el servicio de radiodifusión sonora
 
 21. Resoluciones que excluyen solicitudes presentadas en el marco de concursos de radiodifusión sonora.
 
@@ -102,9 +108,9 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 36. Las resoluciones que modifiquen o dejen sin efecto cualquiera de las resoluciones de los numerales anteriores del presente artículo.
 
-37. Documentos concernientes al otorgamiento de licencias de radioaficionados, de banda local y radiocomunicación personal.
+### 37. Eliminado
 
-38. Oficios de remisión de licencias de radioaficionados a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones".
+### 38. Eliminado
 
 Cuarto: Delégase en los Jefes de Departamentos de la División Concesiones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los oficios de devolución de solicitudes y antecedentes relativos a concesiones o permisos o modificación de éstos, referentes a servicios públicos, intermedios, de radiodifusión sonora y limitados de telecomunicaciones, según corresponda.
 
@@ -112,7 +118,17 @@ Quinto: Delégase en el Jefe del Departamento Servicios Públicos, la facultad d
 
 1. Oficios conductores que notifiquen resoluciones dictadas por el Jefe de la División Concesiones por carta certificada.
 
-Sexto: Delégase en el Jefe del Departamento Servicios de Radiodifusión, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los oficios conductores y extractos de resoluciones que asignan concesiones de radiodifusión sonora.
+Sexto: Delégase en el Jefe del Departamento Servicios de Radiodifusión, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
+
+1. Oficios conductores y extractos de resoluciones que asignan concesiones de radiodifusión sonora.
+
+### 2. Certificados de vigencia de concesiones de radiodifusión sonora
+
+3. Certificación técnica de zona saturada de sistemas radiantes y área de protección conforme a la ley N°19.300, concernientes a las concesiones de radiodifusión sonora.
+
+4. Documentos concernientes al otorgamiento de licencias de radioaficionados, de banda local y radiocomunicación personal.
+
+5. Oficios de remisión de licencias de radioaficionados a las Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones.
 
 Séptimo: Delégase en el Jefe de la División Fiscalización, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
@@ -148,7 +164,7 @@ Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de 
 
 ### 1. Eliminado
 
-2. Oficios de respuestas a requerimientos de informes y demás documentos de la Contraloría General de la República, así como aquellos oficios de retiro y reingreso en dicho Órgano de Control, en aquellos casos que tenga interés esta Subsecretaría, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios".
+2. Oficios de respuestas a requerimientos de informes y demás documentos de la Contraloría General de la República, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
 
 3. Oficios de respuesta a los requerimientos de los Tribunales Ordinarios y Especiales del Poder Judicial, Juzgados de Policía Local, Fiscalía del Ministerio Público, Carabineros de Chile y Policía de Investigaciones relativos a información asociada a numeración telefónica, a autorizaciones de telecomunicaciones otorgadas a personas naturales y/o jurídicas y sus características, a procesos infraccionales regulados en el Título VII de la Ley Nº 18.168, General de Telecomunicaciones, en su calidad de Ministro de fe, y cualquier otro en materias propias del Servicio, salvo respecto de los actos administrativos y toda otra documentación sobre materias de personal y contratación administrativa de suministro de bienes y prestación de servicios.
 
@@ -163,6 +179,10 @@ Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de 
 8. Oficios a otros servicios públicos, como el Servicio de Impuestos Internos, solicitando las direcciones de concesionarias, permisionarios, licenciatarios y, en general, personas naturales y jurídicas dentro del contexto de tramitación de un procedimiento de cargo.
 
 9. Oficios dirigidos a las diversas Cortes de Apelaciones y, en general, Tribunales de Justicia, solicitando la designación de un receptor ad-hoc, a fin de dar cumplimiento a las notificaciones contempladas en la letra b) del artículo 16 bis de la Ley Nº 18.168, General de Telecomunicaciones, cuando la notificación deba ser efectuada por dichos auxiliares de justicia.
+
+10. Oficios de solicitud de ampliación de plazo para responder requerimientos de la Contraloría General de la República que versen sobre cualquier materia de interés para la Subsecretaría".
+
+11. Oficios de retiro y reingreso en Contraloría General de la República, que versen sobre cualquier materia de interés para la Subsecretaría".
 
 Décimo segundo: Delégase en el Jefe de la División Gerencia del Fondo de Desarrollo de las Telecomunicaciones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
@@ -198,9 +218,9 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 10. Oficios de tramitación y/o término de fianzas de fidelidad funcionaria, respecto de los funcionarios de la Subsecretaría que hayan sido requeridos por la División respectiva.
 
-11. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 100 unidades tributarias mensuales y con un tope de 1000 unidades tributarias mensuales; aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y Resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las Resoluciones exentas que modifiquen a las anteriores.
+11. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 100 unidades tributarias mensuales y con un tope de 1000 unidades tributarias mensuales; aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; resoluciones exentas que adjudiquen o declaren desiertas las licitaciones públicas señaladas; resoluciones exentas que aprueben los contratos emanados de las referidas licitaciones; órdenes de compra y resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las resoluciones exentas que modifiquen a las anteriores".
 
-12. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Requerimientos, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea igual o superior a 100 unidades tributarias mensuales y con un tope de 1000 unidades tributarias mensuales y las resoluciones que modifiquen a las anteriores.
+12. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos requerimientos y resolución exenta que aprueba el respectivo contrato, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea igual o superior a 100 unidades tributarias mensuales y con un tope de 1000 unidades tributarias mensuales y las resoluciones que modifiquen a las anteriores
 
 13. Resoluciones que verifican los requisitos para acceder a los beneficios establecidos en la ley Nº 20.948, las que disponen el pago de la bonificación por retiro contemplada en el Título II de la ley Nº 19.882, de la bonificación adicional prevista en la ley Nº 20.948 y del bono post laboral establecido en la ley Nº 20.305, y las que las modifique o dejen sin efecto.
 
@@ -220,13 +240,17 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 21. Resolución exenta que disponga la inhabilitación de la numeración de resoluciones y decretos no utilizados de acuerdo al correlativo único de dichos actos administrativos, según sea procedente.
 
-22. Oficios de retiro y reingreso a la Contraloría General de la República de aquellos actos administrativos y demás documentos relativos a materias de personal y contratación administrativa de suministro de bienes y prestación de servicios, en los que tenga interés la Subsecretaría.
+### 22. Eliminado
 
 ### 23. Eliminado
 
 24. Resoluciones que aprueben, modifiquen o deje sin efecto cobertura de Jardines Infantiles para funcionarias/os de la Subsecretaría.
 
 25. Resoluciones que aprueben, modifiquen o dejen sin efecto descuentos por concepto de capacitación de contratados a honorarios.
+
+26. Resoluciones que autorizan descuento y/o reintegro por reducción o rechazo de licencias médicas de funcionarios de la Subsecretaría y servidores a honorarios, y las que modifiquen o dejen sin efecto.
+
+27. Resoluciones que autorizan a efectuar labores de docencia a funcionario, y las que modifiquen o dejen sin efecto.
 
 Décimo tercero bis: Delégase en el Jefe de la División Administración y Finanzas la facultad de comparecer y absolver posiciones en nombre y representación de la Subsecretaría de Telecomunicaciones en los procedimientos que se sigan ante la jurisdicción laboral.
 
@@ -275,10 +299,6 @@ Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la f
 21. Oficios dirigidos al Banco del Estado relacionados con las cuentas corrientes de la Subsecretaría de Telecomunicaciones, para efectuar trámites que digan relación con la administración de dichas cuentas.
 
 22. Autorizar los formularios de solicitud de descuentos voluntarios presentados por los funcionarios, cuando sea procedente.
-
-23. Resoluciones que autorizan descuento y/o reintegro por reducción o rechazo de licencias médicas de funcionarios de la Subsecretaría y servidores a honorarios, y las que modifiquen o dejen sin efecto.
-
-24. Resoluciones que autoriza a efectuar labores de docencia a funcionario, y las que modifiquen o dejen sin efecto.
 
 Décimo quinto: Deléganse en el Jefe del Departamento Gestión de Personas, las siguientes facultades:
 
