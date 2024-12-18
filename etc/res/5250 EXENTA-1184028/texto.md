@@ -524,9 +524,7 @@ Dentro de la categoría de programas especiales de acceso de carácter específi
 
 Tendrán derecho a postular centralizadamente aquellas personas que cuenten con pruebas de admisión universitarias vigentes, esto es, que hayan rendido las pruebas obligatorias y al menos una electiva del proceso en curso, o del proceso de admisión inmediatamente anterior, considerando el cumplimiento de lo dispuesto en el numeral 4.1.1.1, además de cumplir con alguno de los siguientes criterios de habilitación:
 
-1. Para los postulantes de los procesos de admisión 2023 y 2024, deben contar con un puntaje promedio entre la mejor combinación de resultados obtenidos en las pruebas obligatorias vigentes, igual o superior a 458 puntos.
-
-Sin perjuicio de lo anterior, para el proceso de admisión 2023, los postulantes con puntajes vigentes recuperados del proceso de admisión 2022, se encontrarán habilitados si obtuvieron 450 puntos o más en dicho proceso bajo la escala y metodología vigente hasta el proceso de admisión 2022. Asimismo, se habilitarán quienes hayan obtenido menos de 450 puntos en el proceso de admisión 2022 bajo la escala y metodología vigente hasta el proceso de admisión 2022, pero dicho puntaje sea igual o mayor a 458 al ser transformado a la escala y metodología vigente desde el proceso de admisión 2023.
+1. Los postulantes deben contar con un puntaje promedio entre la mejor combinación de resultados obtenidos en las pruebas obligatorias vigentes, igual o superior a 458 puntos.
 
 2. Quienes tengan un promedio de notas de la educación media que los ubique dentro del 10% superior de su promoción en su establecimiento educacional, sin considerar su año de egreso. Las universidades no podrán modificar ni hacer más estricto este último criterio.
 
