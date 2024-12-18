@@ -36,6 +36,8 @@ Establécese una veda biológica para el recurso Erizo (Loxechinus albus), en el
 
 Durante el período de veda biológica, prohíbese la captura, comercialización, transporte, procesamiento, elaboración y almacenamiento de la especie vedada y de los productos derivados de ella, de conformidad con lo dispuesto en los artículos 110, 119 y 139 de la Ley General de Pesca y Acuicultura.
 
+No obstante lo anterior, durante el período de veda la Subsecretaría de Pesca y Acuicultura podrá, mediante resolución fundada, autorizar la extracción exclusivamente con fines de consumo humano en estado fresco, la que no podrá ser objeto de transformación en plantas de proceso, de hasta un 0,5% de la cuota global de captura o el 0,25% del desembarque regional del año calendario anterior, en caso de que no exista dicha cuota.
+
 #### Artículo 3º
 
 <!-- parte:8572776 -->
