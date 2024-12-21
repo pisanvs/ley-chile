@@ -198,245 +198,31 @@ Placa Única : LXHW.87.
 
 C. Región del Biobío:
 
-17.- Unidad Investigativa Regional del Biobío (E.I.R.)
+17.- Derogado.
 
-Vehículo : Station Wagon
+18.- Derogado.
 
-Marca : Kia Motors
+19.- Derogado.
 
-Modelo : Sportage LX AWD 2.0
+20.- Derogado.
 
-Año : 2020
+21.- Derogado.
 
-Motor : D4HAKH376534
+22.- Derogado.
 
-Chasis : KNAPM813CK7657214
+23.- Derogado.
 
-Color : Negro metálico
+24.- Derogado.
 
-I.N.R.V.M. : LYDH.87-K
+25.- Derogado.
 
-Placa Única : LYDH.87.
+26.- Derogado.
 
-18.- Unidad Regional de Atención a Víctimas y Testigos del Biobío
+27.- Derogado.
 
-Vehículo : Station Wagon
+28.- Derogado.
 
-Marca : Kia Motors
-
-Modelo : Sportage LX AWD 2.0
-
-Año : 2020
-
-Motor : D4HAKH376535
-
-Chasis : KNAPM813CL7657733
-
-Color : Blanco invierno
-
-I.N.R.V.M. : LYDH.88-8
-
-Placa Única : LYDH.88.
-
-19.- Fiscalía Regional del Biobío
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX 2.5
-
-Año : 2020
-
-Motor : UG5554
-
-Chasis : MPATFR86JLT000763
-
-Color Blanco
-
-I.N.R.V.M. : LXDY.19-3
-
-Placa Única : LXDY.19.
-
-20.- Fiscalía Local de Arauco
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : DMAX 4WD 2.5
-
-Año : 2020
-
-Motor : UD2522
-
-Chassis : MPATFS86JLT001835
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.27-4
-
-Placa Única : LXDY.27.
-
-21.- Fiscalía Local de Cañete
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : DMAX 4WD 2.5
-
-Año : 2020
-
-Motor : UD2504
-
-Chasis : MPATFS86JLT001820
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.25-8
-
-Placa Única : LXDY.25.
-
-22.- Fiscalía Local de Concepción
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX 2.5
-
-Año : 2020
-
-Motor : UG3782
-
-Chasis : MPATFR86JLT000756
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.24-K
-
-Placa Única : LXDY.24.
-
-23.- Fiscalía Local de Coronel
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX 2.5
-
-Año : 2020
-
-Motor : UG3781
-
-Chasis : MPATFR86JLT000758
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.22-3
-
-Placa Única : LXDY.22.
-
-24.- Fiscalía Local de Lebu
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 2.5
-
-Modelo : 2020
-
-Motor : UC1743
-
-Chasis : MPATFR86JLT000372
-
-Color : Blanco
-
-I.R.N.V.M. : LTVD.97-0
-
-Placa Única : LTVD.97.
-
-25.- Fiscalía Local de Los Ángeles
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 4X4 2.5
-
-Año : 2020
-
-Motor : UC5030
-
-Chasis : MPATFS86JLT001629
-
-Color : Blanco
-
-I.R.N.V.M. : LTVP.93-9
-
-Placa Única : LTVP.93.
-
-26.- Fiscalía Local de Talcahuano
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX 2.5
-
-Año : 2020
-
-Motor : UG5552
-
-Chasis : MPATFR86JLT000762
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.20-7
-
-Placa Única : LXDY.20.
-
-27.- Fiscalía Local de Tomé
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX 4WD 2.5
-
-Año : 2020
-
-Motor : UD2513
-
-Chasis : MPATFS86JLT001829
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.26-6
-
-Placa Única : LXDY.26.
-
-28.- Fiscalía Local de Yumbel
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX 4WD 2.5
-
-Año : 2020
-
-Motor : UE0070
-
-Chasis : MPATFS86JLT002166
-
-Color : Blanco
-
-I.N.R.V.M. : LXDY.30-4
-
-Placa Única : LXDY.30.
+> **Nota.** El artículo segundo del Decreto 2827 Exento, Interior, publicado el 21.12.2024, deroga los numerales 1 al 28, identificados en la letra C del presente artículo primero. No obstante lo anterior, se indica que la letra C contenía únicamente los numerales 17 a 28.
 
 #### Artículo segundo
 
