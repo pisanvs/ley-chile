@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo único
 
-Institúyese el 10 de agosto de cada año como el "Día del Minero".
+Institúyese el 10 de agosto de cada año como el "Día del Minero y la Minera".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
