@@ -2324,7 +2324,7 @@ El pago por uso efectuado por parte de clientes regulados de este tipo de instal
 
 #### Artículo 77°
 
-Definición de Sistema de Transmisión Zonal. Cada sistema de transmisión zonal estará constituido por las líneas y subestaciones eléctricas dispuestas esencialmente para el abastecimiento actual o futuro de clientes regulados, territorialmente identificables, sin perjuicio del uso por parte de clientes libres o medios de generación conectados directamente o a través de sistemas de transmisión dedicada a dichos sistemas de transmisión.
+Definición de Sistema de Transmisión Zonal. Cada sistema de transmisión zonal estará constituido por las líneas y subestaciones eléctricas dispuestas esencialmente para el abastecimiento actual o futuro de clientes regulados, territorialmente identificables, sin perjuicio del uso por parte de clientes libres, medios de generación o sistemas de almacenamiento conectados directamente, a través de redes de distribución o a través de sistemas de transmisión dedicada a dichos sistemas de transmisión.
 
 #### Artículo 78°
 
@@ -2444,6 +2444,8 @@ Para efectos de la planificación de la transmisión deberá considerarse como t
 
 Asimismo, la planificación podrá considerar la expansión de instalaciones pertenecientes a los sistemas de transmisión dedicada para la conexión de las obras de expansión, en tanto permita dar cumplimiento con los objetivos señalados en el presente artículo. Estas expansiones no podrán degradar el desempeño de las instalaciones dedicadas existentes y deberán considerar los costos asociados y/o los eventuales daños producidos por la intervención de dichas instalaciones para el titular de las mismas. Las discrepancias que se produzcan respecto de estas materias podrán ser presentadas al Panel de Expertos en la oportunidad y de conformidad al procedimiento establecido en el artículo 91°. Las instalaciones dedicadas existentes que sean intervenidas con obras de expansión nacional, zonal o para polo de desarrollo, según corresponda, cambiarán su calificación y pasarán a integrar uno de dichos segmentos a partir de la publicación en el Diario Oficial de los decretos a que hace referencia el artículo 92°.
 
+El reglamento podrá establecer criterios diferenciados para la consideración de los objetivos señalados en el inciso segundo, para efectos de la expansión de los sistemas de transmisión zonal, según el impacto sistémico; capacidad; ubicación geográfica; presencia de clientes, medios de generación o sistemas de almacenamiento de energía que hagan uso del sistema de transmisión; entre otros criterios técnicos.
+
 #### Artículo 88°
 
 Incorporación en el Plan de Expansión de Sistemas de Transmisión para Polos de Desarrollo. Si, por problemas de coordinación entre distintos propietarios de proyectos de generación, que no sean entidades relacionadas según los términos señalados en la ley N°18.045, de Mercados de Valores, la totalidad o parte de la capacidad de producción de uno o más polos de desarrollo definidos por el Ministerio de Energía en el decreto respectivo no pudiere materializarse, la Comisión podrá considerar en el plan de expansión anual de la transmisión sistemas de transmisión para dichos polos de desarrollo.
@@ -2490,6 +2492,8 @@ La Comisión, dentro de los cinco días contados desde la recepción de la propu
 
 El reglamento establecerá los requisitos y la forma en que deberán presentarse las propuestas de expansión del Coordinador y de los promotores de proyectos.
 
+En el caso de propuestas de obras que tengan su origen en proyectos específicos de generación o sistemas de almacenamiento de energía que aún no hayan sido declarados en construcción, el reglamento establecerá los requisitos y oportunidad para el otorgamiento de garantías de ejecución de los proyectos que correspondan.
+
 En el plazo que señale el reglamento, la Comisión emitirá un informe técnico preliminar con el plan de expansión anual de la transmisión, el que deberá ser publicado en su sitio web. Dentro del plazo de diez días a contar de la recepción del informe técnico preliminar, los participantes y usuarios e instituciones interesadas podrán presentar sus observaciones a la Comisión.
 
 Dentro de los treinta días siguientes al vencimiento del plazo para presentar observaciones, la Comisión emitirá y comunicará el informe técnico final del plan de expansión anual, aceptando o rechazando fundadamente las observaciones planteadas, el que deberá ser publicado en su sitio web.
@@ -2499,6 +2503,70 @@ Dentro de los quince días siguientes a la comunicación del informe técnico fi
 Para los efectos anteriores, se entenderá que existe discrepancia susceptible de ser sometida al dictamen del Panel, si quien hubiere formulado observaciones al informe técnico preliminar, persevere en ellas, con posterioridad al rechazo de las mismas por parte de la Comisión, como también, si quien no hubiere formulado observaciones al informe técnico preliminar, considere que se debe mantener su contenido, en caso de haberse modificado en el informe técnico final.
 
 Si no se presentaren discrepancias, dentro de los tres días siguientes al vencimiento del plazo para presentarlas, la Comisión deberá remitir al Ministerio de Energía el informe técnico definitivo con el plan de expansión anual de la transmisión. En el caso que se hubiesen presentado discrepancias, la Comisión dispondrá de quince días desde la comunicación del dictamen del Panel, para remitir al Ministerio de Energía el informe técnico definitivo con el plan de expansión anual de la transmisión, incorporando lo resuelto por el Panel.
+
+#### Artículo 91° bis
+
+De las obras necesarias y urgentes que se excluyen del proceso de planificación de la transmisión. El Ministerio de Energía, mediante decreto exento expedido bajo la fórmula "por orden del Presidente de la República", podrá disponer que se ejecuten las obras de expansión a que se refiere el artículo 89°, que deban excluirse del proceso de planificación de la transmisión por ser necesarias y urgentes para el sistema, de acuerdo al procedimiento que establece el presente artículo y el reglamento.
+
+La valorización de la totalidad de las obras que deban excluirse del proceso de planificación de la transmisión que sean decretadas en un año calendario conforme a lo dispuesto en el presente artículo, no podrá superar el 10% del valor promedio de los últimos cinco procesos de Planificación de la Transmisión, considerando sus valores referenciales, decretados conforme al artículo 92°. Dentro del límite señalado precedentemente, la valorización de la totalidad de las obras nuevas que se excluyan del proceso de planificación no podrá superar el 5% del valor promedio de los últimos cinco procesos de Planificación de la Transmisión, considerando sus valores referenciales, decretados conforme al artículo 92°.
+
+De oficio o a solicitud del Coordinador o del Ministerio, la Comisión podrá dar inicio a este procedimiento elaborando una propuesta preliminar, que contendrá, entre otras materias que defina el reglamento, la descripción de la obra; la justificación de su necesidad y urgencia; las razones que sustenten su omisión o exclusión del proceso de planificación; el plazo estimado de ejecución y entrada en operación; su valorización preliminar; y la proporción de este valor respecto al límite indicado en el inciso precedente. Una vez elaborada la referida propuesta preliminar, ella deberá contar con informe técnico favorable del Coordinador, junto con la aprobación del Ministerio en cuanto a la justificación de la necesidad y urgencia de omitir o excluir la obra del proceso de planificación.
+
+Posteriormente, la propuesta a que se refiere el inciso anterior deberá ser publicada por la Comisión en su sitio web y puesta en conocimiento del propietario de la obra objeto de ampliación, si corresponde, y de los participantes y usuarios e instituciones interesadas inscritas en el registro a que se refiere el artículo 90°, para que presenten sus observaciones a la misma dentro de los cinco días siguientes a la comunicación de la propuesta.
+
+Dentro de los diez días siguientes al vencimiento del plazo para presentar observaciones, la Comisión emitirá una propuesta definitiva, aceptando o rechazando fundadamente las observaciones planteadas. La referida propuesta definitiva deberá contener, entre otras materias que defina el reglamento, las condiciones de ejecución y explotación de la obra; las características técnicas de la obra; el plazo de ejecución de la obra y su fecha de entrada en operación; su valorización; y la calificación de la obra de expansión dentro de alguno de los segmentos definidos en el artículo 73°.
+
+La propuesta definitiva a que se refiere el inciso anterior deberá ser puesta en conocimiento del propietario de la obra objeto de ampliación, si corresponde, y de los participantes y usuarios e instituciones interesadas inscritas en el registro a que se refiere el artículo 90°.
+
+Dentro de los diez días siguientes a la comunicación de la propuesta definitiva, los participantes y usuarios e instituciones interesadas podrán presentar sus discrepancias al Panel de Expertos, el que emitirá su dictamen en un plazo máximo de treinta días corridos contado desde la respectiva audiencia a que hace referencia el artículo 211°.
+
+Para los efectos anteriores, se entenderá que existe discrepancia susceptible de ser sometida al dictamen del Panel, si quien hubiere formulado observaciones a la propuesta preliminar persevere en ellas con posterioridad al rechazo de las mismas por parte de la Comisión, como también, si quien no hubiere formulado observaciones a la propuesta preliminar, considere que se debe mantener su contenido, en caso de haberse modificado en la propuesta definitiva.
+
+Si no se presentaren discrepancias, dentro de los tres días siguientes al vencimiento del plazo para presentarlas, la Comisión deberá emitir su informe técnico con la recomendación para el Ministerio de Energía de instruir la ejecución de la obra de ampliación necesaria y urgente, el que contendrá, entre otras materias que defina el reglamento, las condiciones de ejecución y explotación de la obra; las características técnicas de la obra; el plazo de ejecución de la obra y su fecha de entrada en operación; su valorización y la calificación de la obra de expansión dentro de alguno de los segmentos definidos en el artículo 73°. En el caso que se hubiesen presentado discrepancias, la Comisión dispondrá de diez días desde la comunicación del dictamen del Panel, para remitir al Ministerio de Energía el informe técnico con su recomendación, incorporando lo resuelto por el Panel.
+
+Dentro de los diez días siguientes a la recepción del informe técnico a que hace referencia el inciso anterior, el Ministerio de Energía verificará el cumplimiento de lo dispuesto en el inciso segundo del presente artículo y dispondrá, mediante decreto exento, expedido bajo la fórmula "por orden del Presidente de la República", que se ejecute la respectiva obra de expansión. Las referidas obras necesarias y urgentes deberán ser licitadas conforme a lo dispuesto en el artículo 95°, considerando un procedimiento simplificado y con los menores plazos posibles, de acuerdo con lo que disponga el reglamento.
+
+El Coordinador o la empresa propietaria de la obra que es objeto de ampliación, según corresponda, en un plazo no superior a veinte días de recibidas las propuestas, deberán resolver la licitación y adjudicarán los derechos de ejecución y explotación del proyecto de obra nueva, o la adjudicación de la construcción y ejecución de las obras de ampliación, según corresponda, en conformidad a las respectivas bases.
+
+Asimismo, comunicarán el resultado de la licitación a la respectiva empresa adjudicataria y se informará a la Comisión, a la Superintendencia y al Coordinador en el caso de obras de ampliación, respecto de la evaluación de los proyectos y de la adjudicación, conforme a los plazos y condiciones que establezca el reglamento.
+
+Dentro de los cinco días siguientes a dicho informe, la Comisión remitirá al Ministro de Energía un informe técnico con los resultados de la licitación, incluyendo en el caso de las obras de ampliación el "valor anual de la transmisión por tramo" (V.A.T.T.) a remunerar a la empresa transmisora propietaria de dicha obra, con todos los antecedentes del proceso. Sobre la base de dicho informe técnico, el Ministerio dictará un decreto exento, expedido bajo la fórmula "por orden del Presidente de la República", que fijará, tratándose de las obras nuevas:
+
+a) Los derechos y condiciones de ejecución y explotación de la obra nueva;
+
+b) La empresa adjudicataria;
+
+c) Las características técnicas del proyecto;
+
+d) La fecha de entrada en operación;
+
+e) El valor de la transmisión por tramo de la obra nueva, conforme al resultado de la licitación;
+
+f) Las fórmulas de indexación del valor señalado en la letra e) anterior, y
+
+g) La calificación de la obra nueva dentro de alguno de los segmentos definidos en el artículo 73°.
+
+En el caso de las obras de ampliación, el decreto exento señalado en el inciso anterior fijará:
+
+a) El propietario de la o las obras de ampliación;
+
+b) La empresa adjudicataria encargada de la construcción y ejecución de la obra o las obras de ampliación;
+
+c) Las características técnicas del proyecto;
+
+d) La fecha de entrada en operación;
+
+e) El V.I. adjudicado;
+
+f) El A.V.I. determinado a partir del V.I. señalado en la letra anterior;
+
+g) El C.O.M.A. que corresponderá aplicar hasta el siguiente proceso de valorización;
+
+h) Las fórmulas de indexación del valor señalado en la letra e) y g) anteriores, e
+
+i) La calificación de la o las obras de ampliación dentro de alguno de los segmentos definidos en el artículo 73°.
+
+El reglamento desarrollará las demás materias, requisitos, condiciones y procedimientos que sean necesarios para la debida y eficaz implementación de las disposiciones contenidas en este artículo.
 
 #### Artículo 92°
 
@@ -2560,21 +2628,37 @@ El gravamen establecido a través del decreto exento del Ministerio de Energía 
 
 #### Artículo 95°
 
-Bases de Licitación del Coordinador de Obras Nuevas y de Ampliación. Corresponderá al Coordinador efectuar una licitación pública internacional de los proyectos de expansión contenidos en los decretos señalados en el artículo 92°. El costo de la licitación será de cargo del Coordinador.
+Licitación de Obras Nuevas y de Ampliación. Las licitaciones de obras de expansión deberán cumplir con los principios de no discriminación arbitraria, transparencia y estricta sujeción a las bases de licitación. La información correspondiente al resultado de estas licitaciones deberá ser de dominio público a través de un medio electrónico.
 
-Las bases de licitación de las obras nuevas y de ampliación serán elaboradas por el Coordinador y, a lo menos, deberán especificar las condiciones objetivas que serán consideradas para determinar la licitación, la información técnica y comercial que deberán entregar las empresas participantes, los requisitos técnicos y financieros que deberán cumplir los oferentes, los plazos, las garantías, la descripción del desarrollo del proceso y de las condiciones de adjudicación, así como las características técnicas de las obras de transmisión. Asimismo, las bases deberán contener las garantías de ejecución y operación de los proyectos y las multas por atraso en la entrada en operación del o los proyectos.
+Las bases de licitación de las obras de expansión deberán especificar, a lo menos, las condiciones objetivas que serán consideradas para determinar la licitación, la información técnica y comercial que deberán entregar las empresas participantes, los requisitos técnicos y financieros que deberán cumplir los oferentes, los plazos, la descripción del desarrollo del proceso y de las condiciones de adjudicación, las características técnicas de las obras de transmisión, los procesos de auditoría de las obras, así como las demás materias que establezca el reglamento. Asimismo, las bases deberán contener las garantías de ejecución y operación de los proyectos y las multas por atraso en la entrada en operación del o de los proyectos.
 
-El Coordinador podrá agrupar una o más obras de ampliación y obras nuevas con el objeto de licitarlas y adjudicarlas conjuntamente.
+La Comisión podrá fijar el valor máximo de las ofertas de las licitaciones de las obras de expansión en un acto administrativo separado de carácter reservado, que permanecerá oculto hasta la apertura de las ofertas económicas respectivas, momento en el que el acto administrativo perderá el carácter reservado.
 
-Tratándose de la licitación de las obras de ampliación, la empresa propietaria deberá participar en la supervisión de la ejecución de la obra, conforme lo determine el reglamento.
+Corresponderá al Coordinador elaborar las bases y efectuar una licitación pública internacional de los proyectos de obras nuevas contenidos en los decretos señalados en el inciso segundo del artículo 92° y en el artículo 91° bis, si corresponde. El costo de la licitación será de cargo del Coordinador.
 
-La Comisión podrá fijar el valor máximo de las ofertas de las licitaciones de las obras de expansión en un acto administrativo separado de carácter reservado, que permanecerá oculto hasta la apertura de las ofertas respectivas, momento en el que el acto administrativo perderá el carácter reservado. El Coordinador deberá licitar nuevamente aquellas obras cuya licitación haya sido declarada desierta por no haberse presentado ninguna oferta económica inferior al valor máximo señalado precedentemente.
+El Coordinador podrá agrupar una o más obras nuevas con el objeto de licitarlas y adjudicarlas conjuntamente.
+
+Las obras de ampliación fijadas en los decretos a que hacen referencia el inciso primero del artículo 92° y el artículo 91° bis, si corresponde, serán licitadas y adjudicadas por el propietario de la obra que es objeto de ampliación, quien deberá elaborar las bases de licitación en concordancia con lo establecido en el presente artículo, siendo también responsable de la supervisión y correcta ejecución de la misma, hasta su entrada en operación, debiendo garantizar el debido cumplimiento de estas obligaciones conforme a lo que disponga el reglamento. En caso de pluralidad de empresas propietarias, la licitación deberá efectuarse por el conjunto de ellas, considerando las respectivas prorratas señaladas en el decreto de expansión.
+
+El propietario podrá agrupar una o más obras de ampliación con el objeto de licitarlas y adjudicarlas conjuntamente.
+
+Previo al proceso de licitación de obras de ampliación y conforme a lo que establezca el reglamento, el Coordinador podrá verificar el alcance administrativo y técnico de las bases de licitación y su concordancia con lo establecido en los decretos señalados en el artículo 92° y en el artículo 91° bis, si corresponde, pudiendo instruir modificaciones a las bases. Asimismo, el Coordinador deberá monitorear las condiciones de competencia en los procesos de licitación de las obras de ampliación, conforme lo indicado en el artículo 72°-10.
+
+El Coordinador o el propietario de la obra que es objeto de ampliación, según corresponda, deberá licitar nuevamente aquellas obras cuya licitación haya sido declarada desierta.
+
+En caso de que se licite nuevamente una obra de expansión respecto de la cual la Comisión haya fijado el valor máximo de la oferta de licitación, el Coordinador o el propietario de la obra podrá solicitar a la Comisión el ajuste de dicho valor conforme a lo dispuesto en el reglamento.
+
+En caso de que la licitación de una obra de expansión sea declarada desierta por segunda vez, el propietario de la obra que es objeto de ampliación o el Coordinador, según corresponda, deberá comunicarlo a la Comisión. La Comisión deberá resolver si es necesario persistir con la obra o sobre la necesidad de modificar las especificaciones de ésta originalmente establecidas en el proceso de planificación siguiente, según lo establecido en el reglamento.
+
+En caso de término anticipado del contrato adjudicado para la ejecución de una obra de ampliación, el propietario de la obra que es objeto de ampliación será responsable de su ejecución en tiempo y forma, de acuerdo con lo establecido en las bases de licitación y en el decreto de adjudicación a que se refiere el artículo 96°. El propietario de la obra podrá, alternativamente, tomar posesión inmediata de las obras por sí mismo o relicitar su ejecución; en este último caso, el adjudicatario original no podrá participar en la nueva licitación. Para la remuneración de dicha obra se considerará el V.I. adjudicado, sin perjuicio de que el propietario podrá solicitar la revisión de dicho valor mediante el mecanismo establecido en el artículo 99°.
 
 #### Artículo 96°
 
-Decreto que fija los derechos y condiciones de ejecución y explotación de obras nuevas y Decreto de adjudicación de construcción de obras de ampliación. El Coordinador en un plazo no superior a sesenta días de recibidas las propuestas, deberá resolver la licitación y adjudicará los derechos de ejecución y explotación del proyecto de obra nueva, o la adjudicación de la construcción y ejecución de las obras de ampliación, según corresponda, en conformidad a las bases. Asimismo, se comunicará el resultado de la licitación a la empresa adjudicataria de la obra nueva respectiva y a las empresas transmisoras propietarias de las obras de ampliación, según corresponda, y se informará a la Comisión y a la Superintendencia respecto de la evaluación de los proyectos y de la adjudicación.
+Decreto que fija los derechos y condiciones de ejecución y explotación de obras nuevas y Decreto de adjudicación de construcción de obras de ampliación. El Coordinador o las empresas propietarias de las obras que son objeto de ampliación, según corresponda, en un plazo no superior a sesenta días de recibidas las propuestas, deberán resolver la licitación y adjudicarán los derechos de ejecución y explotación del proyecto de obra nueva, o la adjudicación de la construcción y ejecución de las obras de ampliación, según corresponda, en conformidad a las respectivas bases.
 
-Dentro de los cinco días siguientes a dicho informe, la Comisión remitirá al Ministro de Energía un informe técnico con los resultados de la licitación, incluyendo en el caso de las obras de ampliación el "valor anual de la transmisión por tramo" (V.A.T.T.) a remunerar a la empresa transmisora propietaria de dicha obra, con todos los antecedentes del proceso. Sobre la base de dicho informe técnico, el Ministerio dictará un decreto supremo, expedido bajo la fórmula "por orden del Presidente de la República", que fijará, tratándose de las obras nuevas:
+Asimismo, comunicarán el resultado de la licitación a la respectiva empresa adjudicataria y se informará a la Comisión, a la Superintendencia y al Coordinador en el caso de obras de ampliación, respecto de la evaluación de los proyectos y de la adjudicación, conforme a los plazos y condiciones que establezca el reglamento.
+
+Dentro de los diez días siguientes a dicho informe, la Comisión remitirá al Ministro de Energía un informe técnico con los resultados de la licitación, incluyendo en el caso de las obras de ampliación el "valor anual de la transmisión por tramo" (V.A.T.T.) a remunerar a la empresa transmisora propietaria de dicha obra, con todos los antecedentes del proceso. Sobre la base de dicho informe técnico, el Ministerio dictará un decreto supremo, expedido bajo la fórmula "por orden del Presidente de la República", que fijará, tratándose de las obras nuevas:
 
 a) Los derechos y condiciones de ejecución y explotación de la obra nueva;
 
@@ -2604,7 +2688,7 @@ f) El A.V.I. determinado a partir del V.I. señalado en la letra anterior;
 
 g) El C.O.M.A. que corresponderá aplicar hasta el siguiente proceso de valorización, y
 
-h) Las fórmulas de indexación del valor señalado en la letra g) anterior.
+h) Las fórmulas de indexación de los valores señalados en las letras e) y g) anteriores.
 
 #### Artículo 97°
 
@@ -2630,15 +2714,21 @@ Calificada favorablemente la modificación del proyecto, el Ministerio proceder�
 
 #### Artículo 99°
 
-Remuneración de las Obras de Expansión. Las obras nuevas contenidas en los respectivos decretos que fijan el plan de expansión para los doce meses siguientes, señalados en el artículo 92° serán adjudicadas a una empresa de transmisión que cumpla con las exigencias definidas en la presente ley y la demás normativa aplicable. La licitación se resolverá según el valor anual de la transmisión por tramo que oferten las empresas para cada proyecto y sólo se considerarán de manera referencial el V.I. y C.O.M.A. definidos en el aludido decreto.
+Remuneración de las Obras de Expansión. Las obras nuevas contenidas en los respectivos decretos que fijan el plan de expansión para los doce meses siguientes, señalados en el artículo 92°, y aquellas obras nuevas necesarias y urgentes que se excluyen del proceso de planificación de la transmisión conforme a lo dispuesto en el artículo 91° bis, serán adjudicadas a una empresa de transmisión que cumpla con las exigencias definidas en la presente ley y la demás normativa aplicable. La licitación se resolverá según el valor anual de la transmisión por tramo que oferten las empresas para cada proyecto y sólo se considerarán de manera referencial el V.I. y C.O.M.A. definidos en los decretos correspondientes.
 
 El valor anual de la transmisión por tramo resultante de la licitación y su fórmula de indexación constituirá la remuneración de las obras nuevas y se aplicará durante cinco períodos tarifarios a partir de su entrada en operación, transcurridos los cuales las instalaciones y su valorización deberán ser revisadas y actualizadas en el proceso de tarificación de la transmisión correspondiente.
 
-La licitación de la construcción y ejecución de las obras de ampliación contenidas en el decreto señalado en el artículo 92°, se resolverán según el V.I. ofertado. El propietario de la obra de ampliación será el responsable de pagar al respectivo adjudicatario la referida remuneración, de acuerdo a lo que señalen las bases.
+La licitación de la construcción y ejecución de las obras de ampliación contenidas en el decreto señalado en el artículo 92°, y aquellas obras de ampliación necesarias y urgentes que se excluyen del proceso de planificación de la transmisión conforme a lo dispuesto en el artículo 91° bis, se resolverán según el V.I. ofertado. El propietario de la obra de ampliación será el responsable de pagar al respectivo adjudicatario la referida remuneración, de acuerdo a lo que señalen las bases.
 
 Por su parte, el propietario de la obra de ampliación recibirá como remuneración de dicha obra el V.A.T.T., compuesto por el A.V.I. más el C.O.M.A. correspondiente, y considerando los ajustes por efectos de impuestos a la renta, de conformidad a la metodología que establezca el reglamento. El A.V.I. será determinado considerando el V.I. adjudicado y la tasa de descuento correspondiente utilizada en el estudio de valorización vigente al momento de la adjudicación. El A.V.I. resultante le corresponderá al propietario por cinco períodos tarifarios a partir de la entrada en operación de la obra de ampliación respectiva, transcurridos los cuales las instalaciones y su valorización deberán ser revisadas y actualizadas en el proceso de tarificación de la transmisión correspondiente, a que se hace referencia en el Capítulo IV del presente Título.
 
 Las obras de ampliación adjudicadas deberán ser consideradas en los procesos tarifarios siguientes para los efectos de determinar el C.O.M.A. aplicable.
+
+En caso de término anticipado del contrato adjudicado para la ejecución de una obra de ampliación, el propietario de la o las obras de ampliación podrá solicitar a la Comisión la revisión del V.I. adjudicado que señale el decreto al cual se refieren el artículo 96° o el artículo 91° bis.
+
+La solicitud deberá efectuarse de acuerdo a las reglas que se establecen en el presente artículo y en el reglamento, debiendo ser fundada, atendiendo a causas graves y calificadas no imputables al propietario de la obra de ampliación. Además, la solicitud deberá contener una propuesta de V.I. de la obra y expresar la metodología de cálculo, junto con todos los documentos que respalden dicho valor, así como el estado de avance físico y financiero de la obra.
+
+La Comisión podrá solicitar un informe técnico al Coordinador que indique el estado de avance físico y financiero de la obra. Por su parte, el Coordinador podrá requerir información adicional al propietario de la obra para efectos del informe. La Comisión deberá emitir un informe pronunciándose respecto de la efectividad de las causales invocadas por el solicitante, y en caso de que estime procedente la modificación del V.I. adjudicado, de acuerdo a las consideraciones establecidas en el reglamento, deberá calcular el nuevo V.I. de la obra o las obras ampliación, y por consiguiente, el A.V.I y el V.A.T.T. En este último caso, la Comisión remitirá el respectivo informe al Ministerio de Energía para que se fije el nuevo V.I. de la o las obras de ampliación, el A.V.I y el V.A.T.T. mediante decreto exento expedido bajo la fórmula "por orden del Presidente de la República".
 
 Los pagos por el servicio de transporte o transmisión a la empresa propietaria de las obras nuevas y obras de ampliación de transmisión se realizarán de acuerdo con lo establecido en los artículos 115° y siguientes.
 
@@ -2686,7 +2776,9 @@ Capítulo IV: De la Tarificación de la Transmisión
 
 De la Tarificación. El valor anual de las instalaciones de transmisión nacional, zonal, de sistema de transmisión para polos de desarrollo y el pago por uso de las instalaciones de transmisión dedicadas utilizadas por parte de los usuarios sometidos a regulación de precios será determinado por la Comisión cada cuatro años en base a la valorización de las instalaciones que se establece en los artículos siguientes.
 
-Las empresas eléctricas que interconecten sus instalaciones de transmisión al sistema eléctrico sin que estas formen parte de la planificación de que trata el artículo 87° serán consideradas como obras existentes para efectos de su valorización, siempre y cuando la ejecución de estas obras haya sido autorizada previa y excepcionalmente por la Comisión, previo informe fundado que justifique la necesidad y urgencia de la obra y su exclusión del proceso de planificación de la transmisión, aprobado por el Coordinador, de acuerdo a lo que señale el reglamento. Estas instalaciones serán adscritas transitoriamente por la Comisión a uno de los segmentos señalados en el artículo 73° hasta la siguiente calificación cuatrienal a que hace referencia el artículo 100°, conforme lo establezca el reglamento.
+Las empresas eléctricas que interconecten sus instalaciones de transmisión al sistema eléctrico sin que estas formen parte de la planificación de que trata el artículo 87° o del procedimiento dispuesto en el artículo 91° bis serán consideradas como obras existentes para efectos de su valorización, siempre y cuando la ejecución de estas obras haya sido autorizada previa y excepcionalmente por la Comisión, previo informe fundado que justifique la necesidad y urgencia de la obra y su exclusión del proceso de planificación de la transmisión, aprobado por el Coordinador, de acuerdo a lo que señale el reglamento. Estas instalaciones serán adscritas transitoriamente por la Comisión a uno de los segmentos señalados en el artículo 73° hasta la siguiente calificación cuatrienal a que hace referencia el artículo 100°, conforme lo establezca el reglamento.
+
+Las empresas de generación podrán proponer y financiar obras de ampliación en instalaciones de transmisión a su cuenta y riesgo, que permitan inyectar al sistema todo el potencial de energía generado, siguiendo para tal efecto el procedimiento señalado en el inciso anterior.
 
 #### Artículo 103°
 
@@ -2820,15 +2912,15 @@ Capítulo V: De La Remuneración de la Transmisión
 
 Remuneración de la Transmisión. Las empresas propietarias de las instalaciones existentes en los sistemas de transmisión nacional, zonal y para polos de desarrollo deberán percibir anualmente el valor anual de la transmisión por tramo correspondiente a cada uno de dichos sistemas, definido en el artículo 103°. Este valor constituirá el total de su remuneración anual. Asimismo, los propietarios de las instalaciones de transmisión dedicada utilizada por parte de usuarios sometidos a regulación de precios, deberán percibir de los clientes regulados la proporción correspondiente a dicho uso.
 
-Para los efectos del inciso anterior, dentro de cada uno de los sistemas de transmisión nacional y zonal, se establecerá un cargo único por uso, de modo que la recaudación asociada a éste constituya el complemento a los ingresos tarifarios reales para recaudar el valor anual de la transmisión de cada tramo definido en el decreto señalado en el artículo 112°. Se entenderá por "ingreso tarifario real por tramo" a la diferencia que resulta de la aplicación de los costos marginales de la operación real del sistema, respecto de las inyecciones y retiros de potencia y energía en dicho tramo.
+Para los efectos del inciso anterior, dentro de cada uno de los sistemas de transmisión nacional y zonal, se establecerá un cargo único por uso, de modo que la recaudación asociada a éste constituya el complemento a los ingresos tarifarios reales para recaudar el valor anual de la transmisión de cada tramo definido en el decreto señalado en el artículo 112° y de los pagos realizados por los medios de generación y sistemas de almacenamiento por el uso del sistema de transmisión zonal, según corresponda. Se entenderá por "ingreso tarifario real por tramo" a la diferencia que resulta de la aplicación de los costos marginales de la operación real del sistema, respecto de las inyecciones y retiros de potencia y energía en dicho tramo.
 
 Asimismo, se establecerá un cargo único de modo que la recaudación asociada a éste remunere la proporción de las instalaciones de transmisión dedicada utilizada por parte de usuarios sometidos a regulación de precios, considerando la proporción de ingresos tarifarios reales asignables a ellos.
 
 Del mismo modo, se establecerá un cargo único de manera que la recaudación asociada a éste remunere la proporción de las instalaciones para polos de desarrollo no utilizada por la generación existente. El valor anual de la transmisión para polos de desarrollo no cubierta por dicho cargo, será asumida por los generadores que inyecten su producción en el polo correspondiente.
 
-Los cargos únicos a que hace referencia el presente artículo serán calculados por la Comisión en el informe técnico respectivo y fijado mediante resolución exenta.
+Los cargos únicos y pagos a que hace referencia el presente artículo serán calculados por la Comisión en el informe técnico respectivo y fijado mediante resolución exenta.
 
-El reglamento deberá establecer los mecanismos y procedimientos de reliquidación y ajuste de los cargos por uso correspondientes, de manera de asegurar que la o las empresas señaladas perciban la remuneración definida en el inciso primero de este artículo.
+El reglamento deberá establecer los mecanismos y procedimientos de reliquidación y ajuste de los cargos y pagos por uso correspondientes, de manera de asegurar que la o las empresas señaladas perciban la remuneración definida en el inciso primero de este artículo.
 
 #### Artículo 114° bis
 
@@ -2850,9 +2942,11 @@ Pago de la Transmisión. El pago de los sistemas de transmisión nacional, zonal
 
 a) El cargo por uso del sistema de transmisión nacional se determinará en base a la diferencia entre el 50% del valor anual de los tramos de transmisión nacional y los ingresos tarifarios reales disponibles del semestre anterior, de cada uno de dichos tramos, dividida por la suma de la energía proyectada total a facturar a los suministros finales del sistema interconectado para el mismo semestre;
 
-b) El cargo por uso de cada sistema de transmisión zonal se determinará en base a la diferencia entre el 50% del valor anual de los tramos correspondientes y los ingresos tarifarios reales disponibles del semestre anterior, dividida por la suma de la energía proyectada total a facturar a los suministros finales en dicho sistema para el mismo semestre;
+b) El cargo por uso de cada sistema de transmisión zonal se determinará en base a la diferencia entre el 50% del valor anual de los tramos correspondientes y los ingresos tarifarios reales disponibles del semestre anterior, dividida por la suma de la energía proyectada total a facturar a los suministros finales en dicho sistema para el mismo semestre. En caso de que existan medios de generación y sistemas de almacenamiento de energía conectados en redes de distribución que realicen pagos por el uso del sistema de transmisión zonal, dichos pagos también deberán ser descontados en la determinación del cargo por uso al que se refiere el presente literal;
 
 c) El cargo por uso de los sistemas de transmisión dedicada utilizada por parte de consumidores finales regulados se determinará en base a la diferencia entre el 50% del valor anual de la transmisión por tramo asignada y la proporción de los ingresos tarifarios reales disponibles del semestre anterior, dividida por la suma de la energía proyectada total a facturar a los suministros finales en el sistema interconectado para el mismo semestre.
+
+El costo de las expansiones de la transmisión zonal que tengan por objetivo suministrar requerimientos de demanda presente o futura de clientes conectados a los respectivos sistemas de transmisión, y que además permitan el servicio y la operación de medios de generación y sistemas de almacenamiento conectados en redes de distribución, será de cargo de los propietarios de dichos medios y sistemas y de los clientes, en la proporción que determine el reglamento, de acuerdo al uso que se les dé a dichas instalaciones, los requerimientos de estos medios de generación y sistemas de almacenamiento y a las reglas de pago de la transmisión establecidas en el presente artículo. Los requerimientos deberán ser solventados por los propietarios de dichos medios, en función de su capacidad instalada u otros criterios técnicos, y no podrán significar costos adicionales a los demás clientes. Asimismo, el reglamento establecerá todas las materias necesarias para la debida aplicación de lo señalado en el presente inciso.
 
 Los cargos únicos a que hace referencia el presente artículo serán calculados semestralmente por la Comisión en el informe técnico respectivo y fijado mediante resolución exenta, con ocasión de la determinación de los precios de nudo definidos en el artículo 162°. Dichos valores, así como las reliquidaciones o ajustes a que hubiere lugar, serán calculados por el Coordinador, según lo señalado en esta ley y conforme a los procedimientos que el reglamento establezca.
 
@@ -3259,6 +3353,8 @@ c) Cuando el momento de carga del cliente respecto de la subestación de distrib
 d) Cuando la potencia conectada del usuario final sea superior a 500 kilowatts. En este caso, el usuario final tendrá derecho a optar por un régimen de tarifa regulada o de precio libre, por un período mínimo de cuatro años de permanencia en cada régimen. El cambio de opción deberá ser comunicado a la concesionaria de distribución con una antelación de, al menos, 12 meses.
 
 El Ministerio de Energía podrá rebajar el límite de 500 kilowatts indicado en esta letra, previo informe del Tribunal de Defensa de la Libre Competencia.
+
+> **Nota.** El numeral 1 de la Resolución 58 Exenta, Energía, publicada el 09.12.2024, rebaja el límite de potencia conectada a que hace referencia la letra d) del presente artículo, de 500 kilowatts a 300 kilowatts, por empalme asociado al suministro de cada usuario final, conforme a la facultad conferida al Ministerio de Energía en el inciso segundo del literal d) antes citado.
 
 #### Artículo 148º
 
