@@ -28,38 +28,24 @@ Resuelvo:
 
 2. El envío deberá estar amparado por un Certificado Fitosanitario Oficial emitido por la autoridad fitosanitaria del país de origen, en el que consten las siguientes declaraciones adicionales:
 
-2.1 El envío se encuentra libre de Byturus unicolor (Col. Byturydae), Argyrotaenia franciscana (=A. citrana) (Lep. Tortricidae) y Choristoneura rosaceana (Lep. Tortricidae).
+2.1 El envío ha sido inspeccionado y se encuentra libre de Argyrotaenia franciscana (=A. citrana) (Lep.: Tortricidae), Byturus unicolor (Col.: Byturydae), Choristoneura rosaceana y Epiphyas postvittana (Lep.: Tortricidae).
 
-2.2 Para el caso de Epiphyas postvittana.
+2.2 Eliminado.
 
-2.2.1 El envío proviene de un área no reglamentada para Epiphyas postvittana y se encuentra libre de Epiphyas postvittana.
+### 3. El envío debe venir libre de suelo y otros restos vegetales
 
-o
+4. Los envases deberán ser de primer uso, no permitiéndose el reenvase, cerrados, resistentes a la manipulación. En los envases se deberá indicar el condado de procedencia de la fruta y el nombre de la empacadora en que fue procesada.
 
-2.2.2 El envío proviene de un área reglamentada para Epiphyas postvittana y ha sido sometido a un tratamiento fitosanitario para el control de Epiphyas postvittana (Lep.: Tortricidae), indicando producto, dosis, temperatura y tiempo de exposición.
+5. El material de embalaje debe ser adecuado para eventuales acciones de tratamientos fitosanitarios en los puntos de ingreso.
 
-3. Se aceptará el siguiente tratamiento cuarentenario para el control de Epiphyas postvittana (Lep.: Tortricidae), el que deberá ser realizado en origen o destino. Las especificaciones del tratamiento realizado deberán estar indicadas en la sección correspondiente del certificado Fitosanitario, indicando producto, dosis, temperatura y tiempo de exposición:
+6. Todos los contenedores deberán utilizar sellos o precintos oficiales de la ONPF. En el caso que la exportación sea vía aérea, las paletas transportadas deberán estar protegidos con plástico o malla tipo mosquitera y sellados o precintados en cada unidad.
 
-.
+7. La madera de los embalajes y pallet, como también la madera utilizada como material de acomodación deberá cumplir con las regulaciones cuarentenarias para el ingreso al país.
 
-T104-a-1-Bromuro de Metilo a presión atmosférica. Manual tratamientos USDA
+8. Cada partida será inspeccionada por el Servicio, en el punto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos para su importación. Ante la detección de plagas cuarentenarias listada en resolución Nº 3.080 de 2003 y sus modificaciones, o no listadas que sean potencialmente cuarentenarias de acuerdo a Evaluación de Riesgo, se podrá determinar la aplicación de medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
 
-4. Finalizado el tratamiento, debe asegurarse que el envío mantenga el resguardo en todo momento hasta su arribo a Chile, a fin de mantener su condición fitosanitaria.
+9. Deroga resolución 1.408 de 2001 que "Establece requisitos de ingreso de frutos frescos de frambuesa (Rubus spp) desde Estados Unidos de Norteamérica".
 
-### 5. El envío debe venir libre de suelo y otros restos vegetales
-
-6. Los envases deberán ser de primer uso, no permitiéndose el reenvase, cerrados, resistentes a la manipulación. En los envases se deberá indicar el condado de procedencia de la fruta y el nombre de la empacadora en que fue procesada.
-
-7. El material de embalaje debe ser adecuado para eventuales acciones de tratamientos fitosanitarios en los puntos de ingreso.
-
-8. Todos los contenedores deberán utilizar sellos o precintos oficiales de la ONPF. En el caso que la exportación sea vía aérea, las paletas transportadas deberán estar protegidos con plástico o malla tipo mosquitera y sellados o precintados en cada unidad.
-
-9. La madera de los embalajes y pallet, como también la madera utilizada como material de acomodación deberá cumplir con las regulaciones cuarentenarias para el ingreso al país.
-
-10. Cada partida será inspeccionada por el Servicio, en el punto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos para su importación. Ante la detección de plagas cuarentenarias listada en resolución Nº 3.080 de 2003 y sus modificaciones, o no listadas que sean potencialmente cuarentenarias de acuerdo a Evaluación de Riesgo, se podrá determinar la aplicación de medidas fitosanitarias de manejo del riesgo, acordes con el riesgo identificado.
-
-11. Deroga resolución 1.408 de 2001 que "Establece requisitos de ingreso de frutos frescos de frambuesa (Rubus spp) desde Estados Unidos de Norteamérica".
-
-12. Esta resolución entrará en vigencia al momento de su publicación en el Diario Oficial.
+10. Esta resolución entrará en vigencia al momento de su publicación en el Diario Oficial.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
