@@ -110,7 +110,7 @@ Dicha resolución deberá señalar el plazo, fecha y lugar para el retiro de las
 
 #### Artículo 11
 
-Tratándose de los permisos de operación que se extingan por aplicación de alguna de las causales previstas en las letras b), c), d) y e) del artículo 30 de la ley Nº 19.995, la Superintendencia deberá dictar la resolución señalada en el artículo anterior dentro de un plazo no superior a ciento ochenta ni inferior a ciento veinte días, contado desde que quede ejecutoriada la resolución que dé lugar a la extinción del correspondiente permiso, debiendo publicar igualmente en los mismos términos ya indicados. En todo caso, esta última resolución deberá contener la declaración de vacancia del respectivo permiso de operación y señalar expresamente el plazo en que se declarará abierto formalmente el proceso de otorgamiento de los permisos de operación correspondientes.
+Tratándose de los permisos de operación que se extingan por aplicación de alguna de las causales previstas en las letras b), c), d) y e) del artículo 30 de la ley Nº 19.995, la Superintendencia deberá dictar la resolución señalada en el artículo anterior dentro de un plazo no superior a ciento ochenta días, contado desde que quede ejecutoriada la resolución que dé lugar a la extinción del correspondiente permiso, debiendo publicar igualmente en los mismos términos ya indicados. En todo caso, esta última resolución deberá contener la declaración de vacancia del respectivo permiso de operación y señalar expresamente el plazo en que se declarará abierto formalmente el proceso de otorgamiento de los permisos de operación correspondientes.
 
 La misma norma se aplicará cuando habiéndose concluido el proceso de otorgamiento de permiso de operación, éste no se haya otorgado por cualquier circunstancia, de lo que se dejará constancia en una resolución que se dictará para estos efectos.
 
@@ -220,9 +220,23 @@ La oferta económica se entregará de la forma que detallen la ley, este reglame
 
 La oferta económica deberá enterarse dentro de los plazos y en la forma que se indica a continuación:
 
-a) Tratándose de casinos de juego que inicien sus operaciones, la oferta económica se pagará durante el mes siguiente a dicho inicio de operaciones, por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica, a menos que, el período de funcionamiento desde la fecha de inicio de operaciones sea inferior a un año calendario, caso en el cual se pagará la proporción correspondiente al monto anual del período, habida entre el inicio de la operación del casino y el 31 de diciembre de ese mismo año.
+a) Tratándose de casinos de juego que inicien sus operaciones, y para ofertas económicas inferiores al 15% de los ingresos brutos del juego, correspondiente al período de los doce meses inmediatamente anteriores al mes en que se presenta la oferta, en el respectivo proceso de otorgamiento de permiso de juego, aquellas se pagarán durante el mes siguiente al inicio de operaciones por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica.
 
-b) Para los años calendario siguientes, la oferta económica se pagará dentro del mes de enero de cada año, por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica; exceptuando el caso en que, el último período de funcionamiento del casino de juego, no alcance a cubrir el año calendario, en cuya hipótesis deberá enterarse la oferta económica en la proporción correspondiente al monto anual del período, habida entre el término de la operación del casino y el día primero de enero de ese mismo año.
+Sin perjuicio de lo anterior, si el período de funcionamiento desde la fecha de inicio de operaciones es inferior a un año calendario, se pagará la proporción correspondiente al monto anual del período habida entre el inicio de la operación del casino y el 31 de diciembre de ese mismo año.
+
+Para los años calendario siguientes, la oferta económica se pagará dentro del mes de enero de cada año, por la totalidad del monto anual comprometido por la sociedad operadora en su oferta económica.
+
+Cuando el último período de funcionamiento del casino de juego no alcance a cubrir el año calendario, se pagará la proporción correspondiente al monto anual del período, habida entre el término de la operación del casino y el día primero de enero de ese mismo año.
+
+b) Tratándose de casinos de juego que inicien sus operaciones, cuyas ofertas económicas sean iguales o superiores al 15% de los ingresos brutos del juego, correspondiente al período de los doce meses inmediatamente anteriores al mes en que se presenta la oferta, en el respectivo proceso de otorgamiento de permiso de juego, ésta se pagará mediante doce pagos mensuales de igual monto, a partir del mes siguiente al de inicio de operaciones.
+
+Sin perjuicio de lo anterior, si el período de funcionamiento desde la fecha de inicio de operaciones es inferior a un año calendario, se pagará mediante pagos mensuales equivalentes a la proporción correspondiente al monto anual del período, habida entre el inicio de la operación del casino y el 31 de diciembre de ese mismo año; en tanto para los años calendario siguientes, la oferta económica se pagará mediante doce pagos mensuales de igual monto.
+
+En caso en que el último período de funcionamiento del casino de juego no alcance a cubrir el año calendario, los pagos parciales, de igual monto, deberán cubrir la oferta económica en la proporción correspondiente al monto anual del período, habida entre el término de la operación del casino y el día primero de enero de ese mismo año.
+
+c) El pago de la oferta será de conformidad con lo establecido en la letra b) de este artículo si la oferta económica es igual o superior a UF 70.000.- para el caso de sociedades operadoras que obtengan por primera vez un permiso de operación, y respecto de los dos primeros años de operación; a partir del tercer año la referida modalidad se mantendrá si la oferta económica es igual o mayor al 15% de los ingresos brutos del juego anuales promedio, obtenidos en los primeros 24 meses de operación.
+
+Asimismo, durante la vigencia del permiso de operación, cuando una oferta económica supere el 15% de los ingresos brutos del juego anuales promedio de los últimos 24 meses, la sociedad operadora respectiva realizará el pago de conformidad a lo establecido en la letra b) de este artículo.
 
 #### Artículo 16
 
@@ -230,7 +244,11 @@ Para efectos del pago referido en el artículo precedente, se deberá considerar
 
 #### Artículo 17
 
-El Servicio de Tesorerías recaudará la referida oferta económica y pondrá a disposición de las municipalidades respectivas los recursos correspondientes, dentro del mes subsiguiente al de su recaudación, incluyendo, en su caso, aquellos provenientes de la eventual ejecución de las garantías establecidas en el artículo 46 de este reglamento.
+El Servicio de Tesorerías recaudará los pagos correspondientes a la referida oferta económica y pondrá sus recursos a disposición de las respectivas municipalidades dentro del mes siguiente al de su recaudación, se trate de un pago parcial de la oferta o de un pago total según el monto de la oferta, de conformidad con lo establecido en el artículo 15.
+
+En caso de que correspondan pagos por montos provenientes de la ejecución de la garantía establecida en el segundo inciso del artículo 46 de este reglamento, se transferirá al respectivo municipio mediante tres pagos anuales, que se verificarán en el mismo mes calendario al que corresponda el primer pago. Tratándose de ofertas económicas a que refiere la letra b) del artículo 15, se verificará mediante treinta y seis pagos mensuales.
+
+Igualmente, el Servicio de Tesorerías recaudará los recursos provenientes de la eventual ejecución de la garantía establecida en el inciso primero del artículo 46 de este reglamento, efectuando los traspasos que correspondan.
 
 #### Artículo 18
 
@@ -534,7 +552,25 @@ Toda vez que corresponda renovar los instrumentos de garantía antes referidos, 
 
 En la eventualidad de hacerse efectiva la garantía, a que se refiere el inciso segundo de este artículo, los recursos ingresarán al Servicio de Tesorerías para ser puestos a disposición de la municipalidad respectiva.
 
-Las garantías señaladas en este artículo se harán efectivas, por sus respectivos montos, cualquiera que sea el motivo del incumplimiento, de las obligaciones que aquellas resguardan, incluyendo la renuncia y cualquiera que implique el término anticipado del permiso de operación. Tratándose de la caución de la oferta económica, la Superintendencia determinará, atendido el incumplimiento que da lugar a su cobro, el monto que corresponderá traspasar al Servicio de Tesorerías en los términos antes referidos, debiendo restituir el exceso a la sociedad operadora en caso de ser procedente.
+Las garantías señaladas en este artículo se harán efectivas, por sus respectivos montos, cualquiera que sea el motivo del incumplimiento, de las obligaciones que aquellas resguardan, incluyendo la renuncia salvo en los casos establecidos en el artículo 46 bis siguiente, y cualquiera que implique el término anticipado del permiso de operación. Tratándose de la caución de la oferta económica, la Superintendencia determinará, atendido el incumplimiento que da lugar a su cobro, el monto que corresponderá traspasar al Servicio de Tesorerías en los términos antes referidos, debiendo restituir el exceso a la sociedad operadora en caso de ser procedente.
+
+#### Artículo 46 bis
+
+Sin perjuicio de lo establecido en el artículo anterior, no se harán efectivas las garantías si, excepcionalmente, la sociedad operadora renuncia al permiso adjudicado en el período que media entre el otorgamiento del mismo y la etapa previa a la certificación que realiza la Superintendencia de Casinos de Juego y que habilita la entrada en operaciones del respectivo casino de juego, en la medida que dicha renuncia se origine en circunstancias materiales y/o jurídicas, que impliquen un cambio en las condiciones existentes al momento de la respectiva postulación, no imputables a la sociedad operadora, y que hagan imposible la implementación del proyecto.
+
+Para estos efectos se entenderá como un cambio de condiciones existentes al momento de la respectiva postulación, situaciones imprevistas e imposibles de resistir que constituyan caso fortuito o fuerza mayor.
+
+La renuncia que se produzca de conformidad a lo antes indicado deberá ser formulada pura y simplemente, poniendo término a todos los derechos y obligaciones generadas a partir del otorgamiento del respectivo permiso de operación al que se renuncia.
+
+Tampoco se harán efectivas las garantías que aseguran el pago de la oferta económica, si después de la certificación que habilita el inicio de la operación a la que se refiere el artículo 47 del presente reglamento como también el inciso primero del presente artículo y encontrándose por tanto en operación el casino de juego, la sociedad respectiva solicita renunciar al permiso con una anticipación de tres años, en cuyo caso seguirá operando con todas las obligaciones legales y reglamentarias que correspondan hasta la fecha en que dicha renuncia se haga efectiva.
+
+No obstante lo señalado en el inciso precedente, si respecto de una misma comuna y realizado el respectivo procedimiento administrativo de otorgamiento de un nuevo permiso de operación, el nuevo operador adjudicado se encuentra en condiciones de operar, estando pendiente el cumplimiento del plazo de tres años señalado en el inciso anterior, la Superintendencia de Casinos de Juego podrá autorizar una reducción de dicho plazo, con acuerdo de la sociedad renunciante, quedando ésta en cualquier caso obligada al pago del saldo de oferta económica que, en su caso, no sea cubierto por la oferta del nuevo operador, por el período que restaba para cumplirse el mencionado plazo de tres años.
+
+Todas las solicitudes de renuncia al permiso de operación adjudicado se someterán a lo dispuesto en el artículo 28 del decreto supremo N° 287, de 2005, del Ministerio de Hacienda, que establece el reglamento de funcionamiento y fiscalización de casinos de Juego, debiendo el solicitante acompañar a la respectiva solicitud todos los antecedentes que den cuenta de la inexistencia de obligaciones pendientes con terceros por parte de la sociedad operadora requirente, circunstancia que deberá ser constatada por el Consejo Resolutivo, previo a su pronunciamiento.
+
+La sociedad operadora a la que se le haya aceptado la solicitud de renuncia establecida en el inciso cuarto del presente artículo y las entidades que formen parte de su grupo empresarial en los términos del artículo 96 de la ley N° 18.045, de Mercado de Valores, estarán impedidas de postular al proceso de otorgamiento del nuevo permiso de operación que se realice como consecuencia de la respectiva renuncia.
+
+No serán admisibles las solicitudes de renuncia establecidas en el inciso cuarto del presente artículo formuladas por las sociedades operadoras cuyo permiso de operación esté en proceso de revocación conforme al artículo 32 y siguientes de la ley N° 19.995.
 
 ## Título III — Desarrollo del proyecto autorizado
 
