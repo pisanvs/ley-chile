@@ -154,171 +154,207 @@ Tratándose de la educación parvularia, se entenderá por docente idóneo al qu
 
 Los establecimientos educacionales que impartan educación parvularia deberán contar con el personal docente directivo, profesional, técnico pedagógico, de aula y asistente de la educación de conformidad a la siguiente relación:
 
-a) Para cada establecimiento educacional
+a) Para cada establecimiento
 
-se exigirá un Coordinador o
+educacional se exigirá un
 
-Coordinadora del Nivel Parvulario,
+Coordinador o Coordinadora
 
-cargo que podrá ser desempeñado
+del Nivel Parvulario,
 
-por un Educador o Educadora
+cargo que podrá ser
 
-de Párvulos, o en su defecto,
+desempeñado por un
 
-por algún profesional de la
+Educador o Educadora de
 
-educación con experiencia
+Párvulos, o en su defecto,
 
-en el Nivel Parvulario de la
+por algún profesional de
 
-educación con experiencia en
+la educación con experiencia
 
-el Nivel Parvulario que
+en el Nivel Parvulario que
 
-ejerza otras funciones en dicho
+ejerza otras funciones en
 
-establecimiento. Cuando el
+dicho establecimiento. Cuando
 
-establecimiento educacional
+el establecimiento educacional
 
-imparta sólo educación parvularia,
+imparta sólo educación
 
-sólo se exigirá un Director
+parvularia, sólo se exigirá
 
-o Directora, cargo que podrá
+un Director o Directora,
 
-ser ejercido por una de las
+cargo que podrá ser ejercido
 
-educadoras de párvulos de
+por una de las educadoras de
 
-sala, cuando el establecimiento
+párvulos de sala, cuando
 
-esté constituido por un solo
+el establecimiento esté
+
+constituido por un solo
 
 grupo de atención.
 
 b) Para el nivel de sala cuna
 
-se exigirá una Educadora o
+se exigirá una Educadora
 
-Educador de Párvulos hasta
+o Educador de Párvulos
 
-21 lactantes, y una Técnica o
+hasta 21 lactantes, y
 
-Técnico de Educación Parvularia
+una Técnica o Técnico
 
-hasta 7 lactantes, debiendo
+de Educación Parvularia
 
-aumentarse el personal a partir
+hasta 7 lactantes,
 
-del lactante que excede de
+debiendo aumentarse el
 
-dichas cifras. Asimismo, deberá
+personal a partir del
 
-tener exclusivamente para este
+lactante que excede
 
-nivel una Manipuladora o
+de dichas cifras. Asimismo,
 
-Manipulador de Alimentos hasta
+deberá tener exclusivamente
 
-40 lactantes, debiendo aumentarse
+para este nivel una
 
-este personal a partir del
+Manipuladora o Manipulador
 
-lactante que excede de dicha
+de Alimentos hasta 40
 
-cifra. Cada grupo podrá
+lactantes, debiendo
+
+aumentarse este personal
+
+a partir del lactante que
+
+excede de dicha cifra.
+
+Cada grupo podrá estar
+
+conformado por un máximo
+
+de 21 lactantes;
+
+c) Para el nivel medio
+
+menor se exigirá una
+
+Educadora o Educador de
+
+Párvulos hasta 28 niños
+
+o niñas y una Técnica o
+
+Técnico de educación
+
+parvularia hasta 14 niños
+
+o niñas, debiendo
+
+aumentarse el personal a
+
+partir del niño o niña
+
+que excede de dichas
+
+cifras. Cada grupo podrá
 
 estar conformado por un
 
-máximo de 21 lactantes;
+máximo de 28 niños o
 
-c) Para el nivel medio menor
-
-se exigirá una Educadora
-
-o Educador de Párvulos hasta 28
-
-niños o niñas y una Técnica
-
-o Técnico de educación parvularia
-
-hasta 14 niños o niñas, debiendo
-
-aumentarse el personal a partir
-
-del niño o niña que excede de
-
-dichas cifras. Cada grupo podrá
-
-estar conformado por un máximo
-
-de 32 niños o niñas.
+niñas.
 
 d) Para el nivel medio mayor
 
-se exigirá una Educadora o
+se exigirá una Educadora
 
-Educador de Párvulos hasta
+o Educador de Párvulos hasta
 
-28 niñas o niños y una Técnica
+28 niñas o niños y una
 
-o Técnico de Educación Parvularia
+Técnica o Técnico de Educación
 
-hasta 14 niñas o niños, debiendo
+Parvularia hasta 14 niñas o
 
-aumentarse el personal a partir
+niños, debiendo aumentarse el
 
-del niño o niña que excede de
+personal a partir del niño
 
-dichas cifras. Cada grupo podrá
+o niña que excede de
 
-estar conformado por un máximo
+dichas cifras. Cada grupo
 
-de 28 niñas o niños.
+podrá estar conformado
 
-e) Para el primer nivel de transición
+por un máximo de 28 niñas
 
-se exigirá una Educadora o Educador
+o niños.
 
-de Párvulos y una Técnica o Técnico
+e) Para el primer nivel de
 
-de Educación Parvularia por grupo
+transición se exigirá una
 
-de hasta 35 niños o niñas. Si el
+Educadora o Educador de
 
-grupo es de hasta 10 niños, se
+Párvulos y una Técnica o
 
-exigirá sólo una Educadora o
+Técnico de Educación
 
-Educador de Párvulos.
+Parvularia por grupo de
 
-f) Para el segundo nivel de transición
+hasta 35 niños o niñas. Si
 
-se exigirá una Educadora o Educador
+el grupo es de hasta
 
-de Párvulos y una Técnica o Técnico
+10 niños, se exigirá sólo
 
-de Educación Parvularia hasta 45
+una Educadora o Educador
 
-niños o niñas. Si el grupo es de
+de Párvulos.
 
-hasta 15 niños, se exigirá sólo una
+f) Para el segundo nivel de
 
-Educadora o Educador de Párvulos.
+transición se exigirá una
+
+Educadora o Educador de
+
+Párvulos y una Técnica o
+
+Técnico de Educación
+
+Parvularia hasta 45 niños
+
+o niñas. Si el grupo es
+
+de hasta 15 niños, se
+
+exigirá sólo una Educadora
+
+o Educador de Párvulos.
 
 g) Los establecimientos
 
-educacionales deberán tener un
+educacionales deberán tener
 
-auxiliar de servicios menores por
+un auxiliar de servicios
 
-grupo de hasta 100 niños o niñas,
+menores por grupo de hasta
 
-debiendo aumentarse dicho personal
+100 niños o niñas, debiendo
 
-a partir del niño o niña que
+aumentarse dicho personal a
+
+partir del niño o niña que
 
 excede de dicha cifra.
 
@@ -332,7 +368,7 @@ Además, los lactantes, niños y niñas deberán siempre estar atendidos directa
 
 Lo dispuesto en el presente artículo no será exigible a aquellos establecimientos de educación parvularia durante los periodos en que no presten la atención integral a la que alude el artículo 1 de la ley Nº 20.832.
 
-> **Nota.** El artículo segundo transitorio del Decreto 241, Educación, publicado el 20.10.2018, dispone que las modificaciones introducidas mediante el número 3) letras f) y g), del artículo único del citado decreto, serán exigibles a partir del 1 de enero del año 2022. Por otra parte, las modificaciones introducidas por el número 3) letras c) y d) del artículo único del citado decreto, serán exigibles a partir del 1 de enero del año 2024.
+> **Nota.** Los Nºs 1) y 2) del Decreto 217, Educación, publicado el 13.01.2023, que modifica al artículo segundo transitorio del decreto supremo N° 241, de 2017, Educación, que a su vez modifica a la presente norma, dispone que las modificaciones introducidas mediante el número 3) letras f) y g), del artículo único del citado Decreto 241, de 2017, Educación, serán exigibles a partir del 1 de enero del año 2026. Por otra parte, las modificaciones introducidas por el número 3) letras c) y d) del artículo único del ya individualizado decreto, serán exigibles a partir del 1 de enero del año 2027.
 
 #### Artículo 11
 
@@ -480,6 +516,12 @@ Para trasladar un establecimiento educacional reconocido oficialmente a un nuevo
 
 El Subsecretario de Educación podrá, de manera excepcional y por resolución fundada, aumentar los plazos señalados en este párrafo.
 
+Asimismo, en casos en que exista falta de oferta educativa, de acuerdo a los criterios establecidos por resolución del Subsecretario de Educación; demanda insatisfecha en los términos del decreto N° 148, de 2016, del Ministerio de Educación; así como cuando por una demora en la revisión de una solicitud no sea posible cumplir con alguno de estos plazos respecto de otro trámite regulado en este párrafo; dicha autoridad podrá, mediante resolución fundada, otorgar un nuevo plazo para presentar las solicitudes a las que se refiere este párrafo.
+
+Lo señalado en el inciso anterior también se aplicará a los casos en que los plazos de la solicitud respectiva se rijan por el decreto N° 148, de 2016, del Ministerio de Educación.
+
+Las solicitudes que sean aprobadas por las Secretarías Regionales Ministeriales, y hayan sido acogidas a trámite en virtud de un nuevo plazo otorgado de acuerdo al presente artículo, cuando signifiquen una modificación en los cupos reportados por el establecimiento para el proceso de admisión escolar, podrán incorporar los cambios en la etapa que corresponda, sin requerir otro acto administrativo que lo autorice.
+
 Párrafo Segundo
 
 De la fusión, receso y renuncia del Reconocimiento Oficial
@@ -542,7 +584,9 @@ En los casos de receso y renuncia voluntaria a que se refiere este párrafo, el 
 
 El Secretario Regional Ministerial de Educación correspondiente sólo podrá pronunciarse en definitiva sobre la solicitud de receso de actividades o renuncia al reconocimiento oficial, una vez que el sostenedor haga entrega de las actas de la evaluación y promoción escolar de todos los alumnos y alumnas al Ministerio de Educación, acredite la entrega de la documentación escolar a los padres y apoderados y acredite el pago de la remuneración y cotizaciones previsionales de su personal hasta el término del año laboral docente en que se solicita el receso o renuncia voluntaria al reconocimiento oficial. Esta documentación deberá ser presentada por el sostenedor a más tardar el 15 de marzo del año siguiente a aquel en que se presentó la solicitud. Sin perjuicio de lo señalado, el sostenedor deberá cumplir con la obligación establecida en el Párrafo 3º del Título III de la ley Nº 20.529 y, en su caso, devolver recursos obtenidos por aporte de capital, así como de otros beneficios que tenga pendientes ante el Ministerio de Educación.
 
-En casos excepcionales, el Subsecretario de Educación podrá, por resolución fundada, prorrogar el plazo para solicitar el receso, siempre que el sostenedor acredite que el establecimiento educacional no cuenta con matrícula suficiente para el año escolar y ha realizado todas las gestiones posibles tendientes a evitarla. En ningún caso, dicha prórroga podrá exceder al último día hábil del mes de marzo del año en el que se solicita hacer efectivo dicho receso.
+Sin perjuicio de lo anterior, el Subsecretario de Educación podrá otorgar un nuevo plazo para solicitar el receso temporal o la renuncia voluntaria del reconocimiento oficial del Estado, siempre que el sostenedor acredite que el establecimiento educacional no cuenta con matrícula suficiente para el año escolar y ha realizado todas las gestiones posibles tendientes a evitarlo, no debiendo tener postulantes en lista de espera del Registro Público a que se refiere el decreto N° 152, de 2016, del Ministerio de Educación. En casos excepcionales y por resolución fundada, el Subsecretario podrá otorgar un nuevo plazo sin que se cumplan todas las condiciones indicadas en este inciso.
+
+En los casos que se solicite la renuncia voluntaria al reconocimiento oficial del Estado por parte de un establecimiento educacional que se encuentre en receso temporal, no será necesario acreditar los requisitos señalados en los incisos anteriores para autorizar la solicitud.
 
 Párrafo Tercero
 
