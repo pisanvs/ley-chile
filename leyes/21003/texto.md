@@ -10,7 +10,7 @@ Proyecto de ley:
 
 Aplícanse a los funcionarios y funcionarias de la Junta Nacional de Jardines Infantiles los artículos 1 al 15 y el artículo 18 de la ley Nº 20.948, que otorga una bonificación adicional y otros beneficios de incentivo al retiro para los funcionarios y funcionarias de los servicios públicos que se indican y modifica el título II de la ley Nº 19.882, en los mismos términos y condiciones que en ellos se establecen, sin perjuicio de las siguientes reglas especiales y las demás que fije un reglamento:
 
-1.- Podrán acceder a la bonificación adicional durante los años 2017 y 2018 hasta un máximo de 385 y 500 beneficiarios, respectivamente. Se accederá a los referidos cupos conforme a los procedimientos que se disponen en los artículos transitorios de la presente ley. Durante dichos años, a quienes se les aplique el artículo 8 y el inciso final del artículo 7, ambos de la ley Nº 20.948 y el artículo cuarto transitorio de esta ley, también quedarán afectos a los referidos cupos. A contar del año 2019 y hasta el 31 de diciembre de 2025, dicha bonificación se otorgará sin tope de cupos anuales.
+1.- Podrán acceder a la bonificación adicional durante los años 2026 y 2027 hasta por un máximo de 230 y 200 beneficiarios, respectivamente. Se accederá a los referidos cupos conforme a los procedimientos que se disponen en los artículos transitorios de la presente ley. Durante dichos años, a quienes se les aplique el artículo 8 y el inciso final del artículo 7, ambos de la ley Nº 20.948 y el artículo cuarto transitorio de esta ley, también quedarán afectos a los referidos cupos. Dicha bonificación se otorgará sin cupos durante el año 2025. Asimismo, a contar del año 2028, se otorgará sin cupos.
 
 2.- Los funcionarios deberán postular en la unidad de recursos humanos de la Junta Nacional de Jardines Infantiles para acceder a los beneficios de la ley Nº 20.948, de conformidad con el procedimiento y plazos que fije el reglamento.
 
@@ -149,6 +149,62 @@ A los beneficiarios de este artículo les será aplicable lo dispuesto en el num
 #### Artículo quinto
 
 El mayor gasto fiscal que represente la aplicación de esta ley durante el primer año presupuestario de su vigencia se financiará con los recursos del Ministerio de Educación y, en lo que faltare, con los recursos de la partida presupuestaria Tesoro Público de la Ley de Presupuestos del Sector Público.".
+
+#### Artículo sexto
+
+El procedimiento para asignar los cupos para los años 2026 y 2027, establecido en el numeral 1 del artículo 1 se sujetará a las siguientes reglas:
+
+1. Los funcionarios que presenten su postulación a los beneficios que establece esta ley para los años 2026 a 2027 podrán postular a la bonificación adicional y a bonos de los artículos 9 y 10 de la ley N° 20.948, en la unidad de recursos humanos en la Junta Nacional de Jardines Infantiles en los plazos y condiciones que a continuación se indican:
+
+a) Los funcionarios y las funcionarias que a contar del 1 de enero de 2026 y hasta el 31 de diciembre de 2026 cumplan 65 años de edad, podrán postular dentro de el o los plazos que establezca el reglamento, y comunicarán su decisión de renunciar voluntariamente a su cargo. También dentro de ese plazo podrán postular las funcionarias que cumplan entre 60 y 64 años de edad en las fechas indicadas. Del mismo modo podrán postular quienes cumplan 66 años en las fechas antes señaladas, y accederán a los beneficios en los porcentajes que establece el inciso primero del artículo 11 de la ley N° 20.948, según corresponda.
+
+b) Los funcionarios y las funcionarias que a contar del 1 de enero de 2027 y hasta el 31 de diciembre de 2027 cumplan 65 años de edad, podrán postular dentro de el o los plazos que establezca el reglamento, y comunicarán su decisión de renunciar voluntariamente a su cargo. Dentro de ese plazo también podrán postular las funcionarias que cumplan entre 60 y 64 años de edad en las fechas indicadas. Del mismo modo podrán postular quienes cumplan 66, 67, 68 o 69 años en las fechas antes señaladas, y accederán a los beneficios en los porcentajes que establece el artículo 11 de la ley N° 20.948, según corresponda.
+
+2. Dentro de los plazos que establezca el reglamento la Junta Nacional de Jardines Infantiles verificará que los funcionarios que postulen cumplan con los requisitos para acceder a los beneficios de la ley N° 20.948. Dicho servicio determinará, por medio de una o más resoluciones, la nómina de beneficiarios para cada uno de los cupos anuales, de conformidad con lo establecido en los numerales siguientes.
+
+3. En caso de haber un mayor número de postulantes que cumplan los requisitos respecto de los cupos disponibles para cada anualidad, éstos se asignarán de acuerdo a los siguientes criterios:
+
+i. En primer término serán seleccionados los postulantes de mayor edad, según su fecha de nacimiento.
+
+ii. En igualdad de condiciones de edad entre los postulantes, se desempatará en atención al mayor número de días de licencias médicas cursadas durante los trescientos sesenta y cinco días corridos inmediatamente anteriores al inicio del respectivo período de postulación.
+
+iii. En caso de persistir la igualdad, se considerarán los años de servicio en la Junta Nacional de Jardines Infantiles del funcionario a la fecha de inicio del período de postulación, y de persistir el empate, la cantidad de años del funcionario en la Administración del Estado.
+
+iv. De persistir la igualdad resolverá el Vicepresidente Ejecutivo de la Junta Nacional de Jardines Infantiles.
+
+4. La o las resoluciones que dicte la Junta Nacional de Jardines Infantiles deberán contener la nómina de todos los postulantes que cumplan con los requisitos para acceder a la bonificación adicional y la individualización de los beneficiarios de los cupos disponibles para el año que corresponda. Respecto de aquellos que no obtengan un cupo se aplicará el procedimiento dispuesto en el número 7.
+
+5. Dentro de los diez días hábiles siguientes a la fecha de la total tramitación de la resolución a que se refiere el numeral anterior, la institución empleadora deberá notificarla a cada uno de los funcionarios que participaron del proceso de postulación al correo electrónico institucional que tengan asignado o al que fije en su postulación, mediante carta certificada al domicilio registrado por el funcionario en la institución o según el inciso final del artículo 46 de la ley N° 19.880.
+
+6. La Junta Nacional de Jardines Infantiles deberá dictar los actos administrativos que conceden los beneficios de la ley N° 20.948 respecto del personal que cumpla los requisitos y siempre que se les haya asignado un cupo conforme a este artículo.
+
+7. A más tardar el día 15 del mes siguiente a la fecha de la total tramitación de la resolución a que se refiere el número anterior, los beneficiarios de cupos deberán informar por escrito a la unidad de recursos humanos la fecha en que harán dejación definitiva del cargo o empleo y el total de horas que sirvan, la cual deberá ajustarse a lo señalado en el párrafo siguiente.
+
+El funcionario deberá cesar en su cargo por renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva o hasta el día primero del quinto mes siguiente al cumplimiento de los 65 años de edad, si esta fecha es posterior a aquella; sin perjuicio de los beneficios decrecientes establecidos en el artículo 11 de la ley N° 20.948.
+
+8. Los postulantes a la bonificación adicional que cumplan con los requisitos para acceder a ella, que no sean seleccionados por falta de cupos, pasarán a integrar en forma preferente la nómina de seleccionados del proceso que corresponda al año siguiente, sin necesidad de realizar una nueva postulación, y mantendrán los beneficios que les correspondan a la época de su postulación, incluidos aquellos a que se refiere el título II de la ley N° 19.882. Si una vez incorporados en la nómina de beneficiarios de cupos del período o períodos siguientes quedan cupos disponibles, éstos serán completados con los postulantes de dicho año que resulten seleccionados. La individualización de los beneficiarios antes señalados podrá realizarse mediante una o más resoluciones dictadas por la Junta Nacional de Jardines Infantiles. Las resoluciones que incorporen a los seleccionados preferentes antes indicados podrán dictarse en cualquier época del año, sin necesidad que se haya desarrollado el proceso de postulación para la anualidad respectiva.
+
+9. Si durante el año 2028 existen postulantes en la situación descrita en el número 7, en el mes de enero de dicho año deberán informar por escrito a la unidad de recursos humanos de la Junta Nacional de Jardines Infantiles, la fecha en que harán efectiva su renuncia voluntaria. Con todo, deberán hacer efectiva su renuncia voluntaria a más tardar el 1 de junio de 2028.
+
+10. Si un funcionario fallece entre la fecha de su postulación para acceder a la bonificación adicional y a los beneficios de los artículos 9 y 10, todos de la ley N° 20.948, según corresponda, y antes de percibirlos, y cumple con los demás requisitos establecidos en dicha ley, éstos serán transmisibles por causa de muerte. Este beneficio quedará afecto a los cupos a que se refiere el numeral 1 del artículo 1 y al procedimiento señalado en este artículo.
+
+11. Para tener derecho a la bonificación adicional y a los bonos de los artículos 9 y 10 de la ley N° 20.948, los funcionarios a que se refiere este artículo deberán renunciar voluntariamente a todos los cargos y al total de horas que sirvan dentro de los plazos que indica este artículo y su reglamento. Si no renuncian dentro de dichos plazos se entenderá que renuncian irrevocablemente a estos beneficios, sin perjuicio de los beneficios decrecientes a que se refiere el artículo 11 de la ley N° 20.948.
+
+12. Los funcionarios y las funcionarias que postulen a la bonificación adicional, que cumplan los requisitos para acceder a ella y no obtengan un cupo y queden priorizados para los periodos siguientes, podrán cesar en funciones por renuncia voluntaria a contar de la notificación de su derecho preferente a un cupo. En este caso, la bonificación adicional del artículo 5 y los bonos de los artículos 9 y 10, todos de la ley N° 20.948, se pagarán el mes siguiente de la total tramitación de la resolución que les concede el cupo respectivo. El valor de la unidad tributaria mensual y la unidad de fomento para el cálculo de los beneficios que les correspondan será el vigente al último día del mes anterior a la total tramitación de dicha resolución. A su vez, la bonificación por retiro voluntario del título II de la ley N° 19.882, cuando corresponda, se pagará según el inciso cuarto del artículo octavo de la antedicha ley. Para los efectos del artículo 12 de la ley N° 20.948, los funcionarios deberán presentar la solicitud para acceder al bono establecido en la ley N° 20.305 en la misma oportunidad en que presenten su renuncia voluntaria.
+
+13. Los funcionarios y funcionarias afectos al título II de la ley N° 19.882, que se acojan a la presente ley, tendrán derecho a percibir la bonificación por retiro del referido título II, en las condiciones especiales que se indican:
+
+a) La comunicación de renunciar voluntariamente a su cargo para acceder a la bonificación por retiro será en la misma oportunidad en que presenten su postulación a la bonificación adicional, y no se aplicarán los plazos dispuestos en el inciso segundo del artículo octavo de la ley N° 19.882.
+
+b) La fecha de dejación de sus cargos o empleos por renuncia voluntaria deberá estar comprendida en el plazo a que se refiere el número 6.
+
+c) La bonificación por retiro que corresponda al funcionario o funcionaria no estará afecta a la disminución de meses que dispone el artículo noveno de la ley N° 19.882, siempre que postule en el plazo que establezca el reglamento para el período en que cumpla 65 años de edad. En el caso que el funcionario o funcionaria postule en el plazo que establezca el reglamento para el período en que cumpla 66, 67, 68 años de edad quedará afecto a la disminución de meses que dispone el artículo noveno de la ley N° 19.882
+
+#### Artículo séptimo
+
+Si un funcionario beneficiario de un cupo indicado en el artículo anterior se desiste de su renuncia voluntaria, la Junta Nacional de Jardines Infantiles procederá a reasignar el cupo siguiendo estrictamente el orden del listado contenido en la resolución que determinó los beneficiarios del año respectivo. Las mujeres menores de 65 años de edad, que habiendo sido seleccionadas se desistan, no conservarán el cupo para los siguientes años, y deberán volver a postular conforme a las normas señaladas en el artículo anterior. También se entenderá que renuncian a un cupo cuando no hagan efectiva su renuncia voluntaria dentro de los plazos que establece la ley.
+
+El funcionario al que se le reasigne el cupo de quien se desista tendrá como plazo máximo para fijar la fecha de su renuncia voluntaria el último día del mes siguiente a la fecha de la total tramitación de la resolución que le concede el cupo. Con todo, deberá hacer efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia definitiva o hasta el día primero del quinto mes en que cumpla 65 años de edad, si esta fecha es posterior a aquélla. Quienes tengan derecho a los beneficios decrecientes del artículo 11 de la ley N° 20.948 deberán hacer efectiva su renuncia voluntaria en las fechas que señala dicho artículo."
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

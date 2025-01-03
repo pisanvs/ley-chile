@@ -714,33 +714,33 @@ Categoría Descripción N° de cargos
 
 -------------------------------------------------------
 
-1a. Exterior Embajadores________________ 77
+1a. Exterior Embajadores________________ 78
 
 2a. Exterior Ministros Consejeros o
 
 Cónsules Generales de
 
-Primera Clase______________ 36
+Primera Clase______________36
 
 3a. Exterior Consejeros o Cónsules
 
-Generales de Segunda Clase_ 47
+Generales de Segunda Clase_47
 
 4a. Exterior Primeros Secretarios o
 
-Cónsules de Primera Clase__ 50
+Cónsules de Primera Clase_ 50
 
 5a. Exterior Segundos Secretarios o
 
-Cónsules de Segunda Clase__ 56
+Cónsules de Segunda Clase__56
 
 6a. Exterior Terceros Secretarios o
 
-Cónsules de Tercera Clase__ 77
+Cónsules de Tercera Clase__77
 
 -----
 
-TOTAL_______________________ 343
+TOTAL_______________________ 344
 
 B.- Presupuesto en moneda nacional.
 
@@ -786,7 +786,7 @@ Clase___________________ 15 13
 
 7a. Exterior Terceros Secretarios de
 
-Segunda Clase___________ 30 16
+Segunda Clase___________ 30 14
 
 -----
 
@@ -806,17 +806,21 @@ Categoría Descripción N° de cargos
 
 Asimilado a
 
-3a. Exterior Directivos Técnicos________ 3
+3a. Exterior Directivos, Profesionales
+
+y Técnicos ________ 5
 
 Asimilado a
 
-4a. Exterior Asesores Técnicos__________ 6
+4a. Exterior Directivos, Profesionales
+
+y Técnicos __________ 8
 
 Asimilado a
 
-6a. Exterior Operadores de centrales de
+5a. Exterior Directivos, Profesionales
 
-télex______________________ 2
+y Técnicos_________________ 2
 
 ----
 
@@ -974,7 +978,7 @@ Categoría Descripción N° de Cargos
 
 ------------------------------------------------------
 
-Asimilados Administrativos_________ 15
+Asimilados Administrativos_________ 17
 
 a 6a.
 
@@ -1030,7 +1034,7 @@ Categoría Descripción N° de cargos
 
 Asimilados Auxiliares y otros cargos__ 8
 
-a 80% de la
+a 100% de la
 
 6a. Exterior ---
 

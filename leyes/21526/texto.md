@@ -650,9 +650,11 @@ Facúltase, durante los años 2023 al 2026, a las jefas y a los jefes superiores
 
 40. Agencia Nacional de Investigación y Desarrollo.
 
-Al ejercicio de esta facultad le será aplicable lo dispuesto en los incisos segundo y tercero del artículo 45 de la ley Nº21.126.
+La Dirección de Presupuestos podrá requerir la opinión técnica favorable de la Dirección Nacional del Servicio Civil, para efectos de fijar la dotación máxima del personal del Servicio que podrá quedar eximida del control horario de la jornada diaria de trabajo.
 
-Lo dispuesto en el inciso primero, no se aplicará a los funcionarios y funcionarias pertenecientes a la planta Directiva; a quienes desempeñen funciones de jefatura según lo defina el jefe superior de servicio y que no se encuentren en la planta directiva; a quienes presten atención directa presencial a público o en terreno según lo defina la o el jefe superior de servicio. Además, la jefa o el jefe de servicio podrá establecer otras excepciones mediante resolución con el objeto de asegurar la continuidad de los servicios de la institución.
+Al ejercicio de esta facultad le será aplicable lo dispuesto en los incisos segundo y tercero del artículo 45 de la ley Nº21.126. Los servicios deberán implementar un sistema remoto de registro horario de la jornada ordinaria de trabajo para efectos de aplicar la modalidad dispuesta en este artículo. Los funcionarios y funcionarias no podrán hacer uso de esta modalidad fraccionando la jornada diaria de trabajo.
+
+Lo dispuesto en el inciso primero no se aplicará a los funcionarios y funcionarias pertenecientes a la planta Directiva, a quienes desempeñen funciones de jefatura y a quienes presten atención directa presencial a público. Además, la jefa o el jefe de servicio podrá establecer otras excepciones mediante resolución con el objeto de asegurar la continuidad de los servicios de la institución. Quienes desempeñen funciones en terreno podrán quedar afectos a la modalidad dispuesta en este artículo, como máximo una jornada diaria de trabajo dentro de la jornada semanal.
 
 Las instituciones señaladas en el inciso primero deberán respetar el derecho al tiempo de desconexión de aquellas funcionarias y funcionarios eximidos del control horario de jornada de trabajo, el que será regulado mediante la resolución del respectivo jefe de servicio.
 

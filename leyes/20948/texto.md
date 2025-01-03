@@ -10,7 +10,7 @@ Proyecto de ley:
 
 Otórgase una bonificación adicional, por una sola vez, a los funcionarios de carrera y a contrata que perciban la bonificación por retiro del título II de la ley Nº 19.882, que Regula nueva política de personal a los funcionarios públicos que indica, siempre que se encuentren afiliados al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, según lo dispuesto en su artículo 17, que a la fecha de postulación tengan veinte o más años de servicio, continuos o discontinuos, en la Administración Central del Estado o en sus antecesores legales, y cumplan los demás requisitos que establece esta ley.
 
-Además, para tener derecho a la bonificación adicional, los funcionarios deberán haber cumplido o cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de julio de 2014 y el 31 de diciembre de 2024, o haber cumplido dichas edades, según corresponda, al 30 de junio de 2014.
+Además, para tener derecho a la bonificación adicional, los funcionarios deberán tener 60 años de edad, si son mujeres, o 65 años de edad si son hombres.
 
 Asimismo, para tener derecho a la bonificación adicional, los funcionarios deberán renunciar voluntariamente a todos los cargos y al total de horas que sirvan dentro de los plazos que señalen esta ley y su reglamento.
 
@@ -24,7 +24,7 @@ b) Cuando el funcionario tenga, a lo menos, un año de servicio anterior a la fe
 
 Para efectos del cómputo de los años de servicio dispuesto en el artículo anterior, se podrán considerar los años trabajados en los Consejos Provinciales de Deportes a que se refiere el artículo 12 de la ley Nº 17.276.
 
-Los funcionarios podrán completar la antigüedad requerida para efectos del artículo 1, con hasta diez años servidos en calidad de honorarios, sujetos a jornada ordinaria de trabajo de cuarenta y cuatro horas semanales, prestados con anterioridad al 1 de enero de 2015, en servicios que integran la Administración Central del Estado.
+Los funcionarios podrán completar la antigüedad requerida para efectos del artículo 1, con hasta diez años servidos en calidad de honorarios, sujetos a jornada ordinaria de trabajo de cuarenta y cuatro horas semanales, prestados con anterioridad al 1 de enero de 2015, en servicios que integran la Administración Central del Estado. A partir del año 2026, los funcionarios y funcionarias podrán completar la antigüedad requerida para efectos del artículo 1, con hasta doce años servidos en calidad de honorarios, sujetos a jornada ordinaria de trabajo de cuarenta y cuatro horas semanales, prestados con anterioridad al 1 de enero de 2020, en servicios que integran la Administración Central del Estado.
 
 #### Artículo 3
 
@@ -36,13 +36,15 @@ Al personal indicado en este artículo se le aplicará lo dispuesto en el artíc
 
 #### Artículo 4
 
-Tendrán derecho a la bonificación adicional los funcionarios que desempeñen un cargo de carrera o a contrata y los contratados conforme al Código del Trabajo en las instituciones a que se refiere el inciso primero del artículo sexto transitorio de la ley Nº 20.212, no incluidos en el artículo 1, siempre que se encuentren afiliados al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, según lo establece su artículo 17; que a la fecha de postulación tengan veinte o más años de servicio, continuos o discontinuos, en la Administración Central del Estado o en sus antecesores legales, incluidas las instituciones antes señaladas, y cumplan los demás requisitos establecidos en el inciso segundo del artículo 1. Además, les será aplicable lo dispuesto en los artículos 2 y 3.
+Tendrán derecho a la bonificación adicional los funcionarios que desempeñen un cargo de carrera o a contrata y los contratados conforme al Código del Trabajo en las instituciones a que se refiere el inciso primero del artículo sexto transitorio de la ley Nº 20.212, no incluidos en el artículo 1 y en el Servicio de Biodiversidad y Áreas Protegidas, siempre que se encuentren afiliados al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, según lo establece su artículo 17; que a la fecha de postulación tengan veinte o más años de servicio, continuos o discontinuos, en la Administración Central del Estado o en sus antecesores legales, incluidas las instituciones antes señaladas, y cumplan los demás requisitos establecidos en el inciso segundo del artículo 1. Además, les será aplicable lo dispuesto en los artículos 2 y 3.
 
 Para tener derecho a la bonificación adicional, el personal señalado en este artículo, deberá cesar en sus cargos o terminar el contrato de trabajo, por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, dentro de los plazos que establecen esta ley y su reglamento.
 
+El personal del Servicio de Biodiversidad y Áreas Protegidas que haya sido traspasado a dicho organismo en virtud de lo dispuesto en el artículo primero transitorio de la ley N° 21.600, para efectos de los beneficios de esta ley, podrá computar los años servidos en la institución desde la que fue traspasado.
+
 #### Artículo 5
 
-Podrán acceder a la bonificación adicional durante los años 2016, 2017 y 2018 hasta un máximo de 3.000, 2.800 y 3.300 beneficiarios, respectivamente, conforme los procedimientos que se disponen en los artículos transitorios. A contar del año 2019 y hasta el 31 de diciembre de 2024, dicha bonificación se otorgará sin tope de cupos anuales. La bonificación adicional ascenderá a los montos siguientes, según los años de servicio que el trabajador haya prestado en instituciones señaladas en los artículos 1 o 4, según corresponda, a la fecha del cese de funciones o término del contrato de trabajo y según la planta de personal de que es titular o aquella a que se encuentre asimilado:
+Podrán acceder a la bonificación adicional durante los años 2026 y 2027 hasta un máximo de 2.200 y 2.000 beneficiarios, respectivamente, conforme los procedimientos que se disponen en los artículos transitorios. A contar del año 2028 dicha bonificación se otorgará sin tope de cupos anuales. El año 2025 tampoco tendrá cupos anuales. La bonificación adicional ascenderá a los montos siguientes, según los años de servicio que el trabajador haya prestado en instituciones señaladas en los artículos 1 o 4, según corresponda, a la fecha del cese de funciones o término del contrato de trabajo y según la planta de personal de que es titular o aquella a que se encuentre asimilado:
 
 .
 
@@ -66,7 +68,7 @@ Los funcionarios afectos al inciso final del artículo séptimo transitorio de l
 
 #### Artículo 8
 
-Podrán acceder sólo a la bonificación adicional que establece esta ley los funcionarios de las instituciones a que se refieren los artículos 1 y 4 que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley Nº 3.500, de 1980&lt;/HIPER, entre el 1 de julio de 2014 y el 31 de diciembre de 2024; que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese en su cargo por obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del mismo o por renuncia voluntaria en el caso de los regidos por el Código del Trabajo, y que reúnan los demás requisitos para su percepción. En ningún caso las edades señaladas podrán cumplirse más allá del 31 de diciembre de 2024.
+Podrán acceder sólo a la bonificación adicional que establece esta ley los funcionarios de las instituciones a que se refieren los artículos 1 y 4 que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley Nº 3.500, de 1980 que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese en su cargo por obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del mismo o por renuncia voluntaria en el caso de los regidos por el Código del Trabajo, y que reúnan los demás requisitos para su percepción.
 
 Para tener derecho a la bonificación adicional, los funcionarios a que se refiere el inciso anterior deberán tener veinte o más años de servicio continuos o discontinuos, en las instituciones a que se refieren los artículos 1 y 4, a la fecha del cese de funciones o término de su contrato de trabajo por cualquiera de las causales señaladas en el inciso anterior.
 
@@ -74,7 +76,7 @@ Asimismo, podrán acceder sólo a la bonificación adicional los funcionarios af
 
 El personal a que se refiere este artículo deberá postular a la bonificación adicional en su respectiva institución exempleadora, dentro de los noventa días siguientes al cumplimiento de la edad legal para pensionarse y de conformidad a lo que determine el reglamento, siempre que cumpla con las edades señaladas en el inciso primero. Si no postulare en el plazo establecido se entenderá que renuncia irrevocablemente a los beneficios. Sin embargo, el plazo de postulación para quienes cumplan las edades en los períodos señalados en las letras a), b) y c) del número 1 del artículo primero transitorio de esta ley será el que dispone dichos literales.
 
-El personal a que alude este artículo deberá obtener un cupo de aquellos establecidos en el artículo 5, para acceder a la bonificación adicional durante los años 2016 a 2018.
+El personal a que alude este artículo deberá obtener un cupo de aquellos establecidos en el artículo 5, para acceder a la bonificación adicional durante los años 2026 y 2027.
 
 El pago de la bonificación adicional se efectuará por la respectiva institución exempleadora en el mes siguiente al de la total tramitación del acto administrativo que la conceda. El valor de la unidad tributaria mensual que se considerará para el cálculo de la bonificación adicional será el vigente al mes inmediatamente anterior al pago de ella.
 
@@ -94,15 +96,13 @@ El bono por antigüedad será incompatible con la bonificación adicional que co
 
 #### Artículo 10
 
-Otórgase un bono por trabajo pesado, por una sola vez, a los funcionarios que, entre la fecha de publicación de esta ley y el 31 de diciembre de 2024, perciban la bonificación por retiro del título II de la ley Nº 19.882 o se acojan a la bonificación adicional del artículo 4, siempre que al hacer efectiva su renuncia voluntaria o al término de su contrato de trabajo por aplicación de la causal del inciso primero del artículo 161 del Código del Trabajo, se encuentren realizando o acrediten haber realizado trabajos calificados como pesados. La certificación de los trabajos pesados se efectuará conforme a las normas vigentes del respectivo régimen previsional.
+Otórgase un bono por trabajo pesado, por una sola vez, a los funcionarios que perciban la bonificación por retiro del título II de la ley Nº 19.882 o se acojan a la bonificación adicional del artículo 4, siempre que al hacer efectiva su renuncia voluntaria o al término de su contrato de trabajo por aplicación de la causal del inciso primero del artículo 161 del Código del Trabajo, se encuentren realizando o acrediten haber realizado trabajos calificados como pesados. La certificación de los trabajos pesados se efectuará conforme a las normas vigentes del respectivo régimen previsional.
 
-Asimismo, tendrán derecho al bono por trabajo pesado los funcionarios afectos al inciso final del artículo séptimo transitorio de la ley Nº 19.882 que se desempeñen en alguna de las instituciones a las cuales se aplique el título II de dicha ley, o en algunas de las entidades a que se refiere el artículo 4 de la presente ley, y siempre que, entre la fecha de publicación de esta ley y el 31 de diciembre de 2024, perciban la bonificación adicional en virtud de lo dispuesto en el inciso segundo del artículo 7, o que en la fecha antes señalada renuncien voluntariamente a sus cargos siendo afiliados a alguno de los regímenes previsionales administrados por el Instituto de Previsión Social y tengan cumplida la edad legal para jubilarse. Además, para acceder al bono deberán encontrarse realizando o acreditar haber realizado trabajos calificados como pesados al momento de hacer efectiva su renuncia voluntaria o al término de su contrato de trabajo por aplicación de la causal del inciso primero del artículo 161 del Código del Trabajo. La certificación de los trabajos pesados se efectuará conforme a las normas vigentes del respectivo régimen previsional.
+Asimismo, tendrán derecho al bono por trabajo pesado los funcionarios afectos al inciso final del artículo séptimo transitorio de la ley Nº 19.882 que se desempeñen en alguna de las instituciones a las cuales se aplique el título II de dicha ley, o en algunas de las entidades a que se refiere el artículo 4 de la presente ley, y siempre que a partir de la fecha de la publicación de esta ley perciban la bonificación adicional en virtud de lo dispuesto en el inciso segundo del artículo 7, o que renuncien voluntariamente a sus cargos siendo afiliados a alguno de los regímenes previsionales administrados por el Instituto de Previsión Social y tengan cumplida la edad legal para jubilarse. Además, para acceder al bono deberán encontrarse realizando o acreditar haber realizado trabajos calificados como pesados al momento de hacer efectiva su renuncia voluntaria o al término de su contrato de trabajo por aplicación de la causal del inciso primero del artículo 161 del Código del Trabajo. La certificación de los trabajos pesados se efectuará conforme a las normas vigentes del respectivo régimen previsional.
 
 El bono por trabajo pesado ascenderá a 10 unidades de fomento por cada año cotizado o que estuviere certificado como trabajos pesados, con un máximo de 100 unidades de fomento. El valor de la unidad de fomento que se considerará para el cálculo de este beneficio será el vigente al día que corresponda al cese de funciones.
 
-Este bono será de cargo fiscal, no será imponible ni constituirá renta para ningún efecto legal y,
-
-en consecuencia, no estará afecto a descuento alguno.
+Este bono será de cargo fiscal, no será imponible ni constituirá renta para ningún efecto legal y, en consecuencia, no estará afecto a descuento alguno.
 
 Asimismo, se pagará por la institución empleadora en el mes siguiente al de la fecha de cese de funciones o término del contrato de trabajo por las causales señaladas en el inciso primero.
 
@@ -156,7 +156,7 @@ Modifícase la ley Nº 19.882 en la forma que a continuación se indica:
 
 #### Artículo 17
 
-Desde la publicación de esta ley y hasta el 31 de diciembre de 2024 y para los efectos del reconocimiento de periodos discontinuos dispuesto en el inciso tercero del artículo séptimo de la ley Nº 19.882, se aplicará lo dispuesto en dicho inciso tercero y, además, lo establecido en la letra b) del inciso primero del artículo 2.
+Para los efectos del reconocimiento de periodos discontinuos dispuesto en el inciso tercero del artículo séptimo de la ley Nº 19.882, se aplicará lo dispuesto en dicho inciso tercero y, además, lo establecido en la letra b) del inciso primero del artículo 2.
 
 #### Artículo 18
 
@@ -281,6 +281,42 @@ La bonificación adicional para los exfuncionarios y las exfuncionarias a que se
 #### Artículo quinto
 
 El mayor gasto fiscal que represente la aplicación de esta ley durante el primer año presupuestario de su vigencia se financiará con cargo a los recursos que se contemplen en los presupuestos de las diversas entidades a que ella se refiere y, en lo que faltare, con los recursos de la Partida Presupuestaria Tesoro Público de la Ley de Presupuestos del Sector Público.".
+
+#### Artículo sexto
+
+El procedimiento para asignar los cupos para los años 2026 a 2027, establecidos en el artículo 5 se sujetará a las reglas siguientes:
+
+1. Los funcionarios que presenten su postulación a los beneficios que establece esta ley para los años 2026 a 2027 podrán postular a la bonificación adicional y bonos de los artículos 9 y 10, en su respectiva institución empleadora en los plazos y condiciones que a continuación se indican:
+
+a) Los funcionarios y las funcionarias que a contar del 1 de enero de 2026 y hasta el 31 de diciembre de 2026, cumplan 65 años de edad podrán postular dentro de el o los plazos que establezca el reglamento, comunicando su decisión de renunciar voluntariamente a su cargo. También dentro de ese plazo podrán postular las funcionarias que cumplan entre 60 y 64 años de edad en las fechas indicadas. Del mismo modo podrán postular quienes cumplan 66 años en las fechas antes señaladas, y accederán a los beneficios en los porcentajes que establece el inciso primero del artículo 11, según corresponda.
+
+b) Los funcionarios y las funcionarias que a contar del 1 de enero de 2027 y hasta el 31 de diciembre de 2027 cumplan 65 años de edad podrán postular dentro de el o los plazos que establezca el reglamento, comunicando su decisión de renunciar voluntariamente a su cargo. Dentro de ese plazo también podrán postular las funcionarias que cumplan entre 60 y 64 años de edad en las fechas indicadas. Del mismo modo podrán postular quienes cumplan 66, 67, 68 o 69 años en las fechas antes señaladas, y accederán a los beneficios en los porcentajes que establece el artículo 11, según corresponda.
+
+2. Las instituciones empleadoras remitirán a la Dirección de Presupuestos las postulaciones de los funcionarios que cumplan con los requisitos para acceder a los beneficios de esta ley dentro de los plazos que establezca el reglamento. Al efecto, se aplicará lo dispuesto en el numeral 2. del artículo primero transitorio.
+
+3. En caso de haber un mayor número de postulantes que cumplan los requisitos respecto de los cupos disponibles para cada anualidad, los beneficiarios se seleccionarán de acuerdo con los criterios señalados en el numeral 3. del artículo primero transitorio.
+
+4. Al procedimiento para asignar los cupos a que se refiere este artículo se le aplicará lo dispuesto en los numerales 4 y 5 del artículo primero transitorio, como también lo dispuesto en los párrafos primero y tercero de su numeral 7.
+
+5. A más tardar el día 15 del mes siguiente a la fecha de publicación de la resolución que se dicte de conformidad al numeral 4 del artículo primero transitorio, los beneficiarios de cupos deberán informar por escrito al Departamento de Recursos Humanos o a quien cumpla dicha función en su respectiva entidad empleadora, la fecha en que harán dejación definitiva del cargo o empleo y el total de horas que sirva, la cual deberá ajustarse a lo señalado en el párrafo siguiente.
+
+6. El funcionario deberá cesar en su cargo o terminar el contrato de trabajo, sea por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva o hasta el día primero del quinto mes siguiente al cumplimiento de los 65 años de edad, si esta fecha es posterior a aquella. Lo anterior es sin perjuicio de lo dispuesto respecto de los beneficios decrecientes de esta ley.
+
+7. Si el funcionario fallece entre la fecha de su postulación para acceder a la bonificación adicional y a los beneficios de los artículos 9 y 10, se aplicará lo dispuesto en el numeral 10 del artículo primero transitorio.
+
+8. Si durante el año 2028 existen postulantes en la situación descrita en el número 7 del artículo primero transitorio, en el mes de enero de dicho año deberán informar por escrito al Departamento de Recursos Humanos o a quien cumpla dicha función en su respectiva entidad empleadora, la fecha en que harán efectiva su renuncia voluntaria. Con todo, deberán hacer efectiva su renuncia voluntaria o terminar sus contratos de trabajo sea por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, a más tardar el 1 de junio de 2028.
+
+9. Los funcionarios y funcionarias afectos al título II de la ley N° 19.882, que se acojan a la presente ley, tendrán derecho a percibir la bonificación por retiro del referido título II, en las condiciones especiales que se indican:
+
+a) La comunicación de renunciar voluntariamente a su cargo para acceder a la bonificación por retiro será en la misma oportunidad en que presenten su postulación a la bonificación adicional, y no se aplicarán los plazos dispuestos en el inciso segundo del artículo octavo de la ley N° 19.882.
+
+b) La fecha de dejación de sus cargos o empleos por renuncia voluntaria deberá estar comprendida en el plazo a que se refiere el número 6.
+
+c) La bonificación por retiro que corresponda al funcionario o funcionaria no estará afecta a la disminución de meses que dispone el artículo noveno de la ley N° 19.882, siempre que postule en el plazo que establezca el reglamento para el período en que cumpla 65 años de edad. En el caso que el funcionario o funcionaria postule en el plazo que establezca el reglamento para el período en que cumpla 66, 67, 68 años de edad quedará afecto a la disminución de meses que dispone el artículo noveno de la ley N° 19.882.
+
+10. Si un funcionario beneficiario de un cupo se desiste de su renuncia voluntaria, la institución empleadora informará de manera inmediata a la Dirección de Presupuestos a fin de que ésta proceda a reasignar el cupo siguiendo estrictamente el orden del listado contenido en la resolución que determinó los beneficiarios del año respectivo. Las mujeres menores de 65 años de edad que habiendo sido seleccionadas se desistan no conservarán el cupo para los siguientes años y deberán volver a postular conforme a las normas señaladas en el artículo anterior. La resolución que reasigna cupos no requerirá el trámite de publicación a que se refiere el número 5 del artículo primero transitorio.
+
+El funcionario al que se le reasigne el cupo de quien se desista tendrá como plazo máximo para fijar la fecha de su renuncia voluntaria el último día del mes siguiente a la fecha de dictación de la resolución que le concede el cupo. Con todo, deberán hacer efectiva su renuncia voluntaria o terminar sus contratos de trabajo por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, a más tardar el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia definitiva o hasta el día primero del quinto mes en que cumpla 65 años de edad, si esta fecha es posterior a aquella. Lo anterior, sin perjuicio de lo dispuesto respecto de los beneficios decrecientes de esta ley.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

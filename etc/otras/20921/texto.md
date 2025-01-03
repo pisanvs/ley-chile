@@ -16,23 +16,19 @@ b) Los funcionarios y funcionarias de los establecimientos de salud de carácter
 
 c) Los profesionales funcionarios y las profesionales funcionarias afectas a las normas de las leyes N°15.076 y 19.664, que hayan sido traspasados y traspasadas desde los Servicios de Salud a la Subsecretaría de Salud Pública en virtud de lo dispuesto en el decreto con fuerza de ley Nº 5, de 2006, del Ministerio de Salud, siempre que cumplan con los requisitos de edad y renuncia voluntaria establecidos en el inciso siguiente y los demás que exija esta ley.
 
-El personal señalado en el inciso anterior tendrá derecho a la bonificación por retiro voluntario siempre que entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, y 65 años de edad, si son hombres. Además, dichos funcionarios y funcionarias deberán comunicar su decisión de renunciar voluntariamente, para luego hacer efectiva la renuncia, en los plazos y según las normas contenidas en esta ley y las que fije el reglamento.
+El personal señalado en el inciso anterior tendrá derecho a la bonificación por retiro voluntario siempre que tengan 60 años de edad, en el caso de las mujeres, y 65 años de edad, si son hombres. Además, dichos funcionarios y funcionarias deberán comunicar su decisión de renunciar voluntariamente, para luego hacer efectiva la renuncia, en los plazos y según las normas contenidas en esta ley y las que fije el reglamento.
 
 La bonificación por retiro voluntario será equivalente a un mes de remuneración imponible por cada año de servicio y fracción superior a seis meses, prestados en alguno de los organismos señalados en el inciso primero, con un máximo de once meses.
 
 La remuneración que servirá de base para el cálculo de la bonificación por retiro voluntario, será la que resulte del promedio de remuneraciones mensuales imponibles que le haya correspondido al funcionario o funcionaria durante los doce meses inmediatamente anteriores al retiro, actualizadas según el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas.
 
-#### Artículo 2°
+#### Artículo 2
 
-También tendrán derecho a la bonificación por retiro voluntario del artículo anterior, los funcionarios y funcionarias de las instituciones señaladas en el inciso primero de dicho artículo y el personal traspasado a que se refiere el mencionado artículo, que al 30 de junio de 2014 hayan cumplido 60 o más años de edad, si son mujeres, y 65 o más años de edad si son hombres, siempre que postulen a ella comunicando su decisión de renunciar voluntariamente en el o los plazos que establezca el reglamento y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva, según lo dispuesto en el artículo 3°.
-
-Las funcionarias que al 1 de julio de 2014 hayan tenido más de 60 años de edad y menos de 65 años de edad podrán participar en cualquier proceso de postulación hasta el correspondiente a aquél en que cumplan 65 años de edad de acuerdo a lo establecido en el reglamento. Si no postulan a la bonificación por retiro voluntario en el proceso correspondiente a los 65 años de edad se les aplicará lo dispuesto en el artículo 15.
-
-Los funcionarios y las funcionarias a que se refiere este artículo también podrán acceder a los beneficios señalados en los artículos 9°, 11, 12 y 13, siempre que cumplan los requisitos respectivos.
+Eliminado.
 
 #### Artículo 3°
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 24.250 beneficiarios y beneficiarias. Para el año 2016 se consultarán 4.000 cupos. Para los años 2017 al 2025, se contemplarán 2.250 cupos para cada anualidad. Con todo, los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+Las beneficiarias y beneficiarios podrán acceder a la bonificación por retiro voluntario conforme a los cupos que a continuación se indican. Para el año 2016 se consultarán 4.000 cupos. Para los años 2017 al 2025, se contemplarán 2.250 cupos para cada anualidad. Con todo, los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos del año 2025, después de dicho año no se traspasarán a las anualidades siguientes. Para el año 2026, se contemplarán 2.000 cupos; para los años 2027 a 2030, se contemplarán 1.500 cupos para cada año; para el año 2031, se contemplarán 2.000 cupos; desde el año 2032 en adelante, se contemplarán 2.250 cupos para cada año. Los cupos de los años 2026 y 2027 que no hubieren sido utilizados al término de su proceso de adjudicación podrán ser usados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos, éstos no podrán usarse en los procesos siguientes.
 
 Para que los funcionarios y funcionarias accedan a la bonificación por retiro voluntario deberán postular en su respectiva institución empleadora en los plazos que fije el reglamento, comunicando su decisión de renunciar voluntariamente. Las instituciones señaladas en el inciso primero del artículo 1° deberán remitir las postulaciones a la Subsecretaría de Redes Asistenciales, la cual mediante resolución determinará los beneficiarios y beneficiarias de los cupos correspondientes a un año.
 
@@ -58,9 +54,47 @@ Los y las postulantes a la bonificación por retiro voluntario que, cumpliendo l
 
 El reglamento definirá las fechas de postulación para la bonificación por retiro voluntario según el año en que los funcionarios y funcionarias cumplan 65 años de edad.
 
-Con todo, las funcionarias podrán postular a la bonificación por retiro voluntario, en cualquiera de los procesos que establezca el reglamento, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, sin perder los beneficios establecidos en esta ley. Si no postularen en este último proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley.
+Con todo, las funcionarias podrán postular a la bonificación por retiro voluntario, en cualquiera de los procesos que establezca el reglamento, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, sin perder los beneficios establecidos en esta ley. Si no postularen en este último proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley. Lo anterior, sin perjuicio de lo establecido en el artículo 6° bis.
 
 En el caso de las mujeres que cumplan entre 60 años y 65 años de edad, entre el 1 de enero y el 31 de diciembre de 2025, podrán postular en el proceso correspondiente para ese año según lo fije el reglamento, y de ser seleccionadas deberán hacer efectiva su renuncia voluntaria, a más tardar, hasta el primer día del quinto mes siguiente al que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho periodo.
+
+#### Artículo 6° bis
+
+El personal sujeto a los beneficios de esta ley, podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederá a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 65 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a más tardar, el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva o hasta el día primero del quinto mes en que cumpla 65 años de edad, si esta fecha es posterior a aquella, todo lo anterior, conforme a lo dispuesto en el artículo 2.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad de cada uno de los beneficios a que se refieren los artículos 1°, 9°, 11, 12 y 13, que les corresponda, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 66 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a más tardar, el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
+
+En este caso sólo podrán acceder al 75% de cada uno de los beneficios a que refieren los artículos 1°, 9°, 11, 12 y 13, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 67 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a más tardar, el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
+
+En este caso sólo podrán acceder al 55% de cada uno de los beneficios a que refieren los artículos 1°, 9°, 11, 12 y 13, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 68 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a más tardar, el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
+
+En este caso sólo podrán acceder al 30% de cada uno de los beneficios a que refieren los artículos 1°, 9°, 11, 12 y 13, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 69 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a más tardar, el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
+
+En este caso sólo podrán acceder al 10% de cada uno de los beneficios a que refieren los artículos 1°, 9°, 11, 12 y 13, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncian irrevocablemente a todos los beneficios establecidos en esta ley.
+
+Las funcionarias podrán optar por comunicar su decisión de hacer efectiva su renuncia voluntaria desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder a los beneficios señalados en los artículos 1°, 9°, 11, 12 y 13, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y
+
+- **e)** según corresponda.
+
+Los beneficios decrecientes señalados en este artículo serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027.
 
 #### Artículo 7°
 

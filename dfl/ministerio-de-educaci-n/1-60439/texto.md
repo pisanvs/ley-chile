@@ -722,7 +722,7 @@ Los instrumentos indicados en las letras a) y b) del inciso primero deberán con
 
 L.- El instrumento portafolio señalado en el artículo anterior se aplicará por el Centro respecto del profesional de la educación cada cuatro años.
 
-El instrumento de evaluación de conocimientos específicos y pedagógicos será aplicado por la Agencia de Calidad de la Educación y sus resultados serán entregados al Centro en la forma y plazos que determine el reglamento a que se refiere el artículo 19 U.
+El instrumento de evaluación de conocimientos específicos y pedagógicos será aplicado por la Agencia de Calidad de la Educación y sus resultados serán entregados al Centro en la forma y plazos que determine el reglamento a que se refiere el artículo 19 U. Para estos efectos, la Agencia determinará los establecimientos educacionales que funcionarán como sedes de aplicación de dicho instrumento, y notificará a los establecimientos seleccionados en la forma y plazos que defina dicho Servicio mediante el respectivo acto administrativo, acorde a las reglas previstas en la ley N° 19.880, en cuyo caso las instituciones respectivas se encontrarán obligadas a prestar sus instalaciones para la aplicación del instrumento durante las sesiones previamente establecidas por la Subsecretaría de Educación.
 
 Corresponderá al Ministerio de Educación la coordinación entre la Agencia de la Calidad de la Educación y el Centro para los efectos de la implementación del Sistema de Desarrollo Profesional Docente establecido en el Título III del decreto con fuerza de ley N°1, de 1996, del Ministerio de Educación.
 
@@ -1190,7 +1190,7 @@ Para los efectos de la aplicación del artículo 48 de esta ley, no se considera
 
 #### Artículo 41
 
-Para todos los efectos legales, el feriado de los profesionales de la educación que se desempeñen en establecimientos educacionales será el período de interrupción de las actividades escolares en los meses de enero a febrero o el que medie entre el término del año escolar y el comienzo del siguiente, según corresponda. Durante dicha interrupción podrán ser convocados para cumplir actividades de perfeccionamiento u otras que no tengan el carácter de docencia de aula, hasta por un período de tres semanas consecutivas.
+Para todos los efectos legales, el feriado de los profesionales de la educación que se desempeñen en establecimientos educacionales será el período de interrupción de las actividades escolares en los meses de enero a febrero o el que medie entre el término del año escolar y el comienzo del siguiente, según corresponda, así como durante la interrupción de las actividades académicas en la época invernal de cada año. Durante dicha interrupción sólo podrán ser convocados para cumplir actividades de formación reguladas en el Párrafo III del Título I y el Párrafo I del Título II de esta ley, o bien para realizar las actividades de capacitación contenidas en el plan de mejoramiento educativo de cada establecimiento y las iniciativas de desarrollo profesional reguladas en la ley N° 21.040, hasta por un período de tres semanas consecutivas durante el mes de enero. Dicha convocatoria deberá realizarse, a más tardar, el día 30 de noviembre del año escolar docente respectivo.
 
 #### Artículo 41 bis
 

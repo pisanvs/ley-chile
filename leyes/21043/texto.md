@@ -8,13 +8,17 @@ Proyecto de ley:
 
 #### Artículo 1
 
-El personal académico y directivo de las universidades del Estado, que perciba el beneficio compensatorio del artículo 9 de la ley N° 20.374, que entre el 1 de enero de 2012 y el 31 de diciembre de 2025 haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y se encuentre afiliado al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, tendrá derecho a una bonificación adicional, de cargo fiscal, siempre que cumpla los demás requisitos establecidos en esta ley. También podrá acceder a esta bonificación adicional dicho personal de las universidades del Estado que, al 31 de diciembre de 2011, haya cumplido las edades antes mencionadas siempre que cumpla con los requisitos para acceder a ella.
+El personal académico y directivo de las universidades del Estado, que perciba el beneficio compensatorio del artículo 9 de la ley N° 20.374, que tenga 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y se encuentre afiliado al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, tendrá derecho a una bonificación adicional, de cargo fiscal, siempre que cumpla los demás requisitos establecidos en esta ley.
 
-Del mismo modo, el personal profesional no académico de las universidades del Estado, que perciba el beneficio compensatorio del artículo 9 de la ley N° 20.374, que entre el 1 de enero de 2015 y hasta el 31 de diciembre de 2025 haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y se encuentre afiliado al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, tendrá derecho a la bonificación adicional de cargo fiscal a que se refiere el inciso anterior, siempre que cumpla los demás requisitos establecidos en esta ley. Igualmente, podrá acceder a esta bonificación adicional dicho personal de las universidades del Estado que, al 31 de diciembre de 2014, haya cumplido las edades antes mencionadas siempre que cumpla con los requisitos para acceder a ella.
+Del mismo modo, el personal profesional no académico de las universidades del Estado, que perciba el beneficio compensatorio del artículo 9 de la ley N° 20.374, que tenga 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres, y se encuentre afiliado al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, tendrá derecho a la bonificación adicional de cargo fiscal a que se refiere el inciso anterior, siempre que cumpla los demás requisitos establecidos en esta ley.
 
 El personal académico, directivo y profesional no académico tendrá derecho a la bonificación adicional, siempre que sirva sus cargos en calidad de planta o a contrata y que haya prestado servicios en cualquiera de dichas calidades por un período no inferior a diez años, continuos o discontinuos, en las universidades del Estado, a la fecha del inicio del respectivo período de postulación a dicha bonificación. Todo el personal antes señalado deberá hacer efectiva su renuncia voluntaria en los plazos que se señalan en el artículo siguiente.
 
 El reconocimiento de años de servicios discontinuos en las universidades del Estado para efectos del inciso anterior, sólo procederá cuando dicho personal tenga, a lo menos, cinco años continuos de servicios inmediatamente anteriores a la fecha de inicio del respectivo período de postulación a la bonificación adicional, en cargos de planta o a contrata en las mencionadas universidades.
+
+Para efectos del cómputo de la antigüedad a que se refiere el inciso tercero, se considerarán los años servidos en calidad de contratado a honorarios en la universidad del Estado empleadora si el funcionario a la fecha de inicio del periodo de postulación tiene cinco o más años continuos de servicios inmediatamente anteriores a dicha fecha en cargos de planta o a contrata en las universidades del Estado. Con todo, sólo se podrán computar los años servidos a honorarios con anterioridad al 1 de enero de 2020.
+
+El personal directivo, académico y profesional no académico a que se refiere este artículo, que se acoja a la bonificación adicional, podrá rebajar las edades exigidas para impetrar esa bonificación y del beneficio compensatorio del artículo 9 de la ley N° 20.374, en los casos y situaciones a que se refiere el artículo 68 bis del decreto ley N° 3.500, de 1980, por iguales causales, procedimientos y tiempos computables.
 
 #### Artículo 2
 
@@ -24,11 +28,11 @@ Con todo, las funcionarias, sean académicas, directivas o profesionales no acad
 
 El personal directivo, académico y profesional no académico beneficiario de la bonificación adicional conforme al artículo 1, cesará en funciones sólo si la universidad empleadora pone a su disposición la totalidad del beneficio compensatorio del artículo 9 de la ley Nº 20.374 que le corresponda.
 
-Sin perjuicio de lo dispuesto en los incisos primero y segundo de este artículo, los rectores de las universidades estatales que sean elegidos por períodos fijos y cumplan todos los requisitos que establece la presente ley, podrán hacer efectiva su renuncia voluntaria hasta el término del período de su nombramiento.
+Sin perjuicio de lo dispuesto en los incisos primero y segundo de este artículo y de lo señalado en el artículo 4 bis, los rectores de las universidades estatales que sean elegidos por períodos fijos y cumplan todos los requisitos que establece la presente ley, podrán hacer efectiva su renuncia voluntaria hasta el término del período de su nombramiento.
 
 #### Artículo 3
 
-La bonificación adicional se otorgará hasta por un máximo de 4.150 cupos para académicos y directivos, y hasta 990 cupos para profesionales no académicos, según lo dispuesto en el artículo 5, será de cargo fiscal y ascenderá, según los años de servicios que el funcionario haya prestado en universidades del Estado a la fecha de inicio del respectivo período de postulación a dicha bonificación, a los siguientes montos:
+La bonificación adicional se otorgará hasta por un máximo de cupos, según lo dispuesto en el artículo 5, será de cargo fiscal y ascenderá, según los años de servicios que el funcionario haya prestado en universidades del Estado a la fecha de inicio del respectivo período de postulación a dicha bonificación, a los siguientes montos:
 
 AÑOS DE SERVICIOS,
 
@@ -58,7 +62,7 @@ Académicos 15 o más años 950
 
 La bonificación adicional será equivalente a los montos señalados en el inciso anterior, por una jornada máxima de 44 horas semanales, calculándose en forma proporcional a la jornada de trabajo por la cual esté sirviendo, si ésta fuere inferior. Si el personal está contratado por una jornada mayor o desempeña funciones en más de una universidad estatal con jornadas cuya suma sea superior a dicho máximo, sólo tendrá derecho a una bonificación adicional correspondiente a las referidas 44 horas semanales.
 
-Para efectos del inciso primero de este artículo, el reconocimiento de años de servicios discontinuos en las universidades del Estado se efectuará conforme al inciso final del artículo 1.
+Para efectos del inciso primero de este artículo, el reconocimiento de años de servicios discontinuos en las universidades del Estado se efectuará conforme al inciso cuarto del artículo 1.
 
 La bonificación adicional no se considerará remuneración ni renta para ningún efecto legal, y no estará afecta a descuento alguno. El valor de la unidad de fomento que se considerará para el cálculo de este beneficio será el que corresponda a la fecha del cese de funciones.
 
@@ -68,9 +72,9 @@ La bonificación adicional se pagará por la universidad empleadora de una sola 
 
 #### Artículo 4
 
-También tendrá derecho a la bonificación adicional el personal académico, directivo y profesional no académico de las universidades del Estado, de planta o a contrata, que obtenga o haya obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o que cese o haya cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, entre la fecha de publicación de la presente ley y el 31 de diciembre de 2025, siempre que se encuentre afiliado al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, reúna los demás requisitos necesarios para su percepción y acceda a uno de los cupos a que se refiere el artículo 5.
+También tendrá derecho a la bonificación adicional el personal académico, directivo y profesional no académico de las universidades del Estado, de planta o a contrata, que obtenga o haya obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o que cese o haya cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, siempre que se encuentre afiliado al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, reúna los demás requisitos necesarios para su percepción y acceda a uno de los cupos a que se refiere el artículo 5.
 
-Además, los funcionarios señalados en el inciso anterior, dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia según las causales señaladas en el inciso anterior, deberán cumplir entre la fecha de publicación de la presente ley y el 31 de diciembre de 2025, 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
+Además, los funcionarios señalados en el inciso anterior, dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia según las causales señaladas en el inciso anterior, deberán cumplir 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
 
 El personal señalado en el inciso anterior que no cumpla con el requisito de edad allí establecido, igualmente podrá acceder a la bonificación adicional si tiene treinta o más años de servicios, continuos o discontinuos, a la fecha del cese de funciones, en cualquier calidad jurídica, sea de planta o a contrata, en las universidades del Estado; y siempre que al 31 de diciembre del año anterior al cese de sus funciones por las causales indicadas en el inciso primero haya tenido un mínimo de diez años de desempeño continuo o discontinuo en cargos de planta o a contrata en dichas universidades.
 
@@ -82,11 +86,49 @@ La bonificación adicional se pagará por la universidad del Estado empleadora d
 
 Las universidades estatales estarán facultadas para otorgar el beneficio compensatorio del artículo 9 de la ley Nº 20.374 al personal académico, directivo y profesional no académico, de planta o a contrata, que perciba la bonificación adicional en virtud del inciso primero de este artículo. En este caso, el número de meses a pagar por dicho beneficio compensatorio corresponderá a la diferencia entre los meses que hubiere podido percibir de acuerdo al artículo 9 de la ley Nº 20.374, si hubiere renunciado voluntariamente, y seis meses del inciso segundo del artículo 152 de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fijó el decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda.
 
+#### Artículo 4 bis
+
+El personal sujeto a los beneficios de esta ley podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederá a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrá postular el personal directivo, académico y profesional no académico que cumpla 65 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 65 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad del beneficio compensatorio del artículo 9 de la ley N° 20.374 y a la bonificación adicional que les corresponda, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrá postular el personal directivo, académico y profesional no académico que cumpla 66 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 66 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 75% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 75% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrá postular el personal directivo, académico y profesional no académico que cumpla 67 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 67 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 55% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 55% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrá postular el personal directivo, académico y profesional no académico que cumpla 68 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 68 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 30% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 30% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrá postular el personal directivo, académico y profesional no académico que cumplan 69 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 69 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 10% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 10% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncia irrevocablemente a todos los beneficios establecidos en esta ley.
+
+Las funcionarias podrán optar hacer efectiva su renuncia voluntaria a la universidad del Estado, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder al beneficio compensatorio del artículo 9 de la ley N° 20.374 y a la bonificación adicional que les corresponda, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y
+
+- **e)** según corresponda.
+
+Los beneficios decrecientes señalados en este artículo serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027.
+
 #### Artículo 5
 
-Podrán acceder a la bonificación adicional creada por esta ley hasta un total de 4.150 beneficiarios académicos y directivos. Para el año 2017 se contemplarán 300 cupos. Para los años 2018, 2019, 2020 y 2021 se contemplarán, por cada anualidad, 600 cupos. Para el año 2022 existirán 400 cupos. Para los años 2023, 2024 y 2025 se contemplarán, por cada anualidad, 350 cupos. Los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+El personal podrá acceder a la bonificación adicional según los cupos que se indican a continuación. Para el año 2017 se contemplarán 300 cupos. Para los años 2018, 2019, 2020 y 2021 se contemplarán, por cada anualidad, 600 cupos. Para el año 2022 existirán 400 cupos. Para los años 2023, 2024 y 2025 se contemplarán, por cada anualidad, 350 cupos. Los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos para el año 2025 después de dicho año no se traspasarán a las anualidades siguientes. Para los años 2026 al 2033 se contemplarán 200 cupos para cada una de dichas anualidades. A partir del año 2034 se contemplarán 300 cupos por cada anualidad. Con todo, los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación, podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos éstos no podrán usarse en los procesos siguientes.
 
-Podrán acceder a la bonificación adicional creada por esta ley hasta un total de 990 beneficiarios profesionales no académicos. Para el año 2017 se contemplarán 120 cupos. Para los años 2018 y 2019 se contemplarán, por cada anualidad, 150 cupos. Para los años 2020, 2021 y 2022 se contemplarán, por cada anualidad, 100 cupos. Para los años 2023, 2024 y 2025 se contemplarán, por cada anualidad, 90 cupos. Con todo, los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+Podrán acceder a la bonificación adicional creada por esta ley hasta los cupos asignados para cada anualidad para profesionales no académicos. Para el año 2017 se contemplarán 120 cupos. Para los años 2018 y 2019 se contemplarán, por cada anualidad, 150 cupos. Para los años 2020, 2021 y 2022 se contemplarán, por cada anualidad, 100 cupos. Para los años 2023, 2024 y 2025 se contemplarán, por cada anualidad, 90 cupos. Con todo, los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos para el año 2025 después de dicho año no se traspasarán a las anualidades siguientes. Para los años 2026 al 2033 se contemplarán de 50 cupos para cada una de esas anualidades. A partir del año 2034 se contemplarán 75 cupos por cada anualidad. Con todo, los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación, podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos éstos no podrán usarse en los procesos siguientes.
 
 Para que los funcionarios accedan a la bonificación adicional deberán postular en su respectiva universidad empleadora en los plazos que fije el reglamento, comunicando su decisión de renunciar voluntariamente. Dichas universidades deberán remitir al Ministerio de Educación las postulaciones de los funcionarios que cumplan con los requisitos para acceder a los beneficios de esta ley, en los plazos y formas que indique el reglamento.
 
@@ -106,7 +148,7 @@ d) En todo caso, si aplicados todos los criterios de selección persiste la igua
 
 Una vez dictada la resolución a que se refiere el inciso quinto, la universidad estatal empleadora la notificará dentro de los cinco días siguientes a la fecha de su dictación, a cada uno de los funcionarios que participaron del proceso de postulación, al correo electrónico institucional que tengan asignado o al que fijen en su postulación, o por carta certificada a la dirección que indicó el funcionario al postular, o de conformidad al inciso final del artículo 46 de la ley N° 19.880.
 
-A más tardar dentro de los diez días hábiles siguientes a la notificación a que se refiere el inciso anterior, los beneficiarios de cupos deberán informar por escrito a la respectiva universidad estatal empleadora la fecha en que harán dejación definitiva del cargo o empleo o del total de horas que sirvan. Dicho personal deberá presentar su renuncia voluntaria y hacerla efectiva en los plazos señalados en el artículo 2.
+A más tardar dentro de los diez días hábiles siguientes a la notificación a que se refiere el inciso anterior, los beneficiarios de cupos deberán informar por escrito a la respectiva universidad estatal empleadora la fecha en que harán dejación definitiva del cargo o empleo o del total de horas que sirvan. Dicho personal deberá presentar su renuncia voluntaria y hacerla efectiva en los plazos señalados en los artículos 2 y 4 bis de esta ley, según corresponda.
 
 No obstante lo dispuesto en el inciso anterior, el personal que postule a la bonificación adicional y cumpla con los requisitos para acceder a ella, podrá renunciar a todos los cargos y al total de horas que sirva, a contar de la fecha de presentación de su postulación a dicho beneficio, siempre que tenga cumplidas las edades establecidas en el artículo 1, según corresponda. En este caso, el pago de la bonificación adicional se efectuará por la universidad empleadora, en el mes siguiente al de la total tramitación de la resolución que conceda al funcionario un cupo para acceder a la bonificación, y siempre que el Ministerio de Educación haya traspasado los recursos a la respectiva universidad. Con todo, las universidades podrán adelantar el pago de la bonificación adicional con recursos propios, a partir de la asignación del cupo o desde que el funcionario se encuentre en la situación que regula el artículo 6, sin perjuicio del posterior traspaso de recursos que a su respecto realice el Ministerio de Educación. Dichos pagos anticipados no podrán realizarse durante el año 2024. El valor de la unidad de fomento para el cálculo de la bonificación será el vigente al último día del mes anterior a la fecha de la resolución que disponga su pago. A su vez, el beneficio compensatorio del artículo 9 de la ley N° 20.374 se pagará cuando corresponda, según el inciso cuarto de dicho artículo.
 
@@ -124,7 +166,7 @@ En el caso de que un funcionario o funcionaria seleccionado dentro de los cupos 
 
 Las mujeres menores de 65 años de edad que habiendo sido seleccionadas con un cupo se desistieren, no lo conservarán para los años siguientes, debiendo volver a postular conforme a las normas que establezca el reglamento.
 
-A quien se le reasigne el cupo del personal que se desista deberá hacer efectiva su renuncia voluntaria de acuerdo al artículo 2.
+A quien se le reasigne el cupo del personal que se desista deberá hacer efectiva su renuncia voluntaria de acuerdo al artículo 2 o 4 bis, según corresponda.
 
 #### Artículo 8
 
@@ -152,9 +194,7 @@ Asimismo, dicho personal no podrá utilizar los años de servicios para acceder 
 
 #### Artículo 13
 
-Las universidades estatales podrán otorgar el beneficio compensatorio que establece el artículo 9 de la ley N° 20.374, por única vez, al personal académico, directivo y profesional no académico, de planta o a contrata, que tuviere más de 65 años y 180 días de edad a la fecha de publicación de la presente ley, siempre que tenga derecho a ese beneficio y presente su renuncia voluntaria respecto de su cargo o del total de horas que sirva, dentro de los ciento ochenta días siguientes a dicha publicación, cuando sólo tenga derecho a este beneficio. Si el personal no presenta su renuncia dentro del plazo antes señalado, se entenderá que renuncia irrevocablemente a dicha compensación.
-
-Las universidades estatales también estarán facultadas para otorgar el beneficio compensatorio señalado en el inciso anterior, por única vez y en forma excepcional, al personal académico, directivo y profesional no académico, de planta o a contrata, que tuviere más de 65 años de edad con anterioridad a la fecha de inicio del primer proceso de postulación a la bonificación adicional dispuesto en el numeral 1 del artículo primero transitorio y tenga derecho a esta bonificación, siempre que haga efectiva su renuncia voluntaria respecto de su cargo o del total de horas que sirva dentro del plazo señalado en el artículo primero transitorio. Si el personal no hace efectiva su renuncia voluntaria dentro del plazo antes señalado se entenderá que renuncia irrevocablemente a dicha compensación.
+Eliminado.
 
 #### Artículo 14
 

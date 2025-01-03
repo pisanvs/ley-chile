@@ -298,6 +298,14 @@ Las causales establecidas en los literales a), c), d), e), f) y g) del artículo
 
 4. Agrégase en el inciso primero del artículo 89, a continuación de la expresión "penal" la siguiente frase final ", y lo dispuesto en artículo 82 letras l) y m) de la Ley N° 18.883".
 
+#### Artículo 6
+
+En el marco de las actividades de vigilancia destinadas a la prevención de riesgos laborales, los organismos administradores del seguro de la ley N° 16.744 deberán remitir semestralmente a la Superintendencia de Seguridad Social, la cantidad de denuncias que han sido presentadas en los lugares de trabajo en materia de acoso laboral, sexual o de violencia en el trabajo, además del tipo de acciones y/o medidas adoptadas en cada una de ellas.
+
+Los empleadores estarán obligados a proporcionar la información requerida por los organismos administradores para dar cumplimiento a lo establecido en el inciso precedente.
+
+La Superintendencia de Seguridad Social, mediante una norma de carácter general, entregará las directrices para el cumplimiento de lo dispuesto en el presente artículo, especialmente en lo que respecta al reporte y registro de información y la clasificación de las acciones y medidas adoptadas por los empleadores. Con todo, la Superintendencia deberá remitir al Ministerio del Trabajo y Previsión Social y al Consejo Superior Laboral, en los meses de enero y julio de cada año, un informe estadístico con los datos consolidados a que refiere el presente artículo.
+
 ## Artículos transitorios
 
 #### Artículo primero

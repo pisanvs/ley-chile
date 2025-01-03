@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Otórgase, por una sola vez, una bonificación por retiro voluntario al personal regido por la ley N°19.378, que establece el Estatuto de Atención Primaria de Salud Municipal, que entre el 1 de julio de 2014 y el 30 de junio de 2024, hubiese cumplido o cumpla 60 años de edad, en el caso de las mujeres, y 65 años de edad, si son hombres, que comuniquen su decisión de renunciar voluntariamente a una dotación de salud municipal respecto del total de horas que sirven, y que hagan efectiva su renuncia voluntaria, en los plazos y según las normas contenidas en esta ley y en el reglamento.
+Otórgase, por una sola vez, una bonificación por retiro voluntario al personal regido por la ley N°19.378, que establece el Estatuto de Atención Primaria de Salud Municipal, que tengan hubiese cumplido o cumpla 60 años de edad, en el caso de las mujeres, y 65 años de edad, si son hombres, que comuniquen su decisión de renunciar voluntariamente a una dotación de salud municipal respecto del total de horas que sirven, y que hagan efectiva su renuncia voluntaria, en los plazos y según las normas contenidas en esta ley y en el reglamento.
 
 La bonificación por retiro voluntario, de cargo municipal, será equivalente a un mes de remuneración imponible por cada año de servicio y fracción superior a seis meses prestados en establecimientos de salud públicos, municipales o corporaciones de salud municipal, con un máximo de diez meses.
 
@@ -16,19 +16,13 @@ Las funcionarias tendrán derecho a un mes adicional de bonificación por retiro
 
 La remuneración que servirá de base para el cálculo de la bonificación por retiro voluntario será la que resulte del promedio de las remuneraciones mensuales imponibles que le haya correspondido al personal durante los doce meses inmediatamente anteriores al retiro, actualizadas según el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas.
 
-#### Artículo 2°
+#### Artículo 2
 
-También tendrá derecho a la bonificación por retiro voluntario del artículo anterior, el personal regido por la ley N°19.378, que al 30 de junio de 2014 haya cumplido 60 o más años de edad, si son mujeres, y 65 o más años de edad, si son hombres, siempre que postulen a ella comunicando su decisión de renunciar voluntariamente en el o los plazos que establezca el reglamento, y hagan efectiva su renuncia voluntaria a más tardar dentro de los noventa días corridos siguientes al vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
-
-Los funcionarios y funcionarias señalados en el inciso primero, que a la fecha de publicación de esta ley tengan entre 65 años de edad y menos de 67 años, para tener derecho a los beneficios de los artículos 1°, 7°, 8° y 9°, deberán postular en el primer período que establezca el reglamento para ellos. No obstante lo anterior, podrán postular en los períodos señalados en las letras b) y c) del artículo 10, accediendo a los beneficios según lo establecido en dicho artículo.
-
-Los funcionarios y funcionarias señalados en el inciso primero, que a la fecha de publicación de la ley tengan 67 o más años de edad, sólo podrán postular en el período que determine el reglamento. Si no postulan, se entenderá que renuncian irrevocablemente a los beneficios establecidos en esta ley.
-
-Las funcionarias señaladas en el inciso primero, que a la fecha de publicación de esta ley tengan menos de 65 años de edad, podrán participar en cualquier proceso de postulación hasta el tercer proceso establecido en el artículo 10, accediendo a los beneficios según lo establecido en dicho artículo.
+Suprimido.
 
 #### Artículo 3°
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 7.000 beneficiarios. Para los años 2016 y 2017, se consultarán 700 cupos para cada año. Para los años 2018 a 2024, se contemplarán 800 cupos para cada uno de ellos. Con todo, los cupos que no hubieren sido utilizados en los años 2016 a 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+Los funcionarios y funcionarias de esta ley podrán acceder a la bonificación por retiro voluntario de conformidad con los cupos anuales que se indican a continuación. Para los años 2016 y 2017, se consultarán 700 cupos para cada año. Para los años 2018 a 2023, se contemplarán 800 cupos para cada uno de ellos. Para los años 2024 y 2025 se contemplarán 1.800 y 3.300 cupos respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2016 a 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos para el año 2025, después de dicho año no se traspasarán a las anualidades siguientes. Para el año 2026 se contemplarán 1.500 cupos. Para los años 2027 y 2028, 1.000 cupos, para cada anualidad. A contar del año 2029, se contemplarán 1.500 cupos para cada anualidad. Los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación podrán ser usados hasta el proceso de adjudicación correspondiente al año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos, éstos no podrán usarse en los procesos siguientes.
 
 Para acceder a la bonificación por retiro voluntario, los funcionarios y funcionarias deberán postular en el respectivo consultorio de Atención Primaria de Salud comunicando su decisión de renunciar voluntariamente, en los plazos y forma que fije el reglamento. Una vez concluido el período de postulación, los consultorios de Atención Primaria de Salud deberán remitir las postulaciones a los Servicios de Salud respectivos, y éstos las enviarán a la Subsecretaría de Redes Asistenciales, la cual mediante resolución determinará los beneficiarios y las beneficiarias de los cupos correspondientes a un año.
 
@@ -116,15 +110,13 @@ Las funcionarias podrán optar por comunicar su decisión de hacer efectiva su r
 
 - **b)** y c), según corresponda.
 
-Con todo, las mujeres que cumplan 60 años de edad y hasta 65 años, entre el 1 de enero y el 30 de junio de 2024, podrán postular en el proceso correspondiente a dicho año según lo fije el reglamento, y de ser seleccionadas deberán hacer efectiva su renuncia voluntaria, a más tardar, dentro de los noventa días corridos siguientes a que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho periodo.
-
 #### Artículo 11
 
 Los funcionarios y funcionarias que se acojan a la bonificación por retiro voluntario, al incremento de dicha bonificación, al bono adicional y al bono complementario, deberán renunciar voluntariamente a todos los cargos y al total de horas que sirvan. Asimismo, el personal que se desempeñe en más de un establecimiento o municipio deberá renunciar a la totalidad de las horas y nombramientos o contratos que tenga en los distintos establecimientos y municipios.
 
 #### Artículo 12
 
-El personal a que se refiere el inciso primero del artículo 1° que, entre el 1 de julio de 2014 y 30 de junio de 2024, haya obtenido u obtenga la pensión de invalidez que establece el decreto ley N°3.500, de 1980, y que dentro de los tres años siguientes a su obtención cumplan 60 años de edad, en el caso de las mujeres, y 65 años de edad, en el caso de los hombres, podrán acceder a los beneficios de los artículos 1°, 7° y 8° de esta ley, según corresponda, siempre que reúnan los demás requisitos necesarios para su percepción. En ningún caso dichas edades podrán cumplirse más allá del 30 de junio de 2024. En este caso, el requisito de antigüedad para efectos del incremento del artículo 7° y del bono adicional del artículo 8°, se computará a la fecha del cese de funciones por la obtención de la referida pensión.
+El personal a que se refiere el inciso primero del artículo 1° que haya obtenido u obtenga la pensión de invalidez que establece el decreto ley N°3.500, de 1980, y que dentro de los tres años siguientes a su obtención cumplan 60 años de edad, en el caso de las mujeres, y 65 años de edad, en el caso de los hombres, podrán acceder a los beneficios de los artículos 1°, 7° y 8° de esta ley, según corresponda, siempre que reúnan los demás requisitos necesarios para su percepción. En este caso, el requisito de antigüedad para efectos del incremento del artículo 7° y del bono adicional del artículo 8°, se computará a la fecha del cese de funciones por la obtención de la referida pensión.
 
 El personal señalado en el inciso anterior deberá postular a los beneficios en su respectiva institución empleadora, dentro de los plazos y de conformidad a lo que determine el reglamento. Los beneficiarios y beneficiarias que accedan a un cupo de los indicados en el artículo 3° serán incluidos en la resolución señalada en dicho artículo. Si no postulare en el plazo establecido se entenderá que renuncia irrevocablemente a los beneficios.
 
@@ -133,6 +125,12 @@ A quienes se les haya asignado un cupo, percibirán la bonificación por retiro 
 Para efectos del cálculo del bono adicional, el valor de la unidad de fomento será el correspondiente al último día del mes inmediatamente anterior al pago.
 
 El pago de los beneficios que les corresponda se efectuará en el mes siguiente al de la total tramitación del acto administrativo que lo conceda.
+
+#### Artículo 12 bis
+
+Las edades indicadas en el artículo 1° podrán rebajarse en los casos y situaciones a que se refiere el artículo 68 bis del decreto ley N° 3.500, de 1980, por iguales causales, procedimiento y tiempo computable.
+
+Los funcionarios que se acojan a lo previsto en el inciso anterior deberán acompañar un certificado otorgado por el Instituto de Previsión Social o la administradora de fondos de pensiones, según corresponda, que acredite la situación señalada en el artículo 68 bis del decreto ley N° 3.500, de 1980. El certificado deberá indicar que el funcionario cumple con los requisitos para obtener una rebaja de la edad legal para pensionarse por vejez, en cualquier régimen previsional, por la realización de labores calificadas como pesadas y respecto de las cuales se haya efectuado la cotización del artículo 17 bis del decreto ley N° 3.500, de 1980, o certificado de cobro anticipado del bono de reconocimiento por haber desempeñado trabajos pesados durante la afiliación al antiguo sistema, conforme al inciso tercero del artículo 12 transitorio del citado decreto ley, según corresponda.
 
 #### Artículo 13
 

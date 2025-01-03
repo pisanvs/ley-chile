@@ -258,17 +258,11 @@ _____
 
 Establécense los siguientes requisitos para el ingreso y promoción en las Plantas y cargos que se indican:
 
-Para los cargos de carrera de la Planta Directiva de niveles de Subdepartamento Administradores y Visitadores Jefes establécense los siguientes requisitos, alternativamente:
+a) Planta de Directivos:
 
-a) Título profesional de una carrera de a lo menos 8 semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste.
+- Título profesional de una carrera de, a lo menos, ocho semestres de duración otorgado por una Universidad o Instituto Profesional del Estado o reconocida por éste, o aquellos títulos validados en Chile de acuerdo a la legislación vigente, y acreditar una experiencia profesional no inferior a seis años.
 
-b) Título de una carrera de a lo menos 6 semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste, y desempeño de a lo menos 1 año en la Administración de la Planta de Profesionales, o en cargos que hubieren pertenecido a escalafones que han pasado a integrar esta planta.
-
-c) Título de Técnico de una carrera de duración inferior a 6 semestres, otorgado por un Establecimiento de Educación Superior del Estado o reconocido por éste y desempeño de a lo menos 2 años en la administración del Esatado en cargos de la Planta de Técnicos, o en cargos de escalafones que han pasado a integrar esta Planta.
-
-d) Desempeño de a lo menos 8 años en la Administración del Estado en cargos de la Planta de Técnicos, o en cargos que hubieren pertenecido a escalafones que han pasado a integrar esta Planta, más un curso de Gestión directiva de 90 horas a lo menos.
-
-e) Desempeño de a lo menos 10 años en la Administración del Estado en cargos de la Planta Administrativa o en cargos que hubieren pertenecido a escalafones que han pasado a integrarla, uno de los cuales debe ser en cargos tope de esta planta, más un curso de Gestión Directiva de a lo menos 90 horas.
+La expresión "validados", utilizada en el párrafo precedente, debe entenderse que comprende el reconocimiento, revalidación y convalidación de títulos profesionales obtenidos en el extranjero, que le corresponde efectuar a la Universidad de Chile, de acuerdo a lo establecido en el artículo 6° del decreto con fuerza de ley N° 3, de 2006, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 153, de 1981, de la misma Secretaría de Estado, que aprueba los Estatutos de esa Casa de Estudios Superiores, sin perjuicio de lo establecido en los tratados internacionales vigentes sobre la materia y de lo dispuesto en el artículo 143 de la ley N° 21.325.
 
 2) Planta de Profesionales:
 
@@ -305,6 +299,8 @@ a) Haber aprobado la Educación Básica.
 > **Nota.** NOTA: 1 El Artículo 3° de la Ley N° 19.269, publicada en el "Diario Oficial" de 29 de noviembre de 1993, modificó, a contar del 1° de enero de 1993, el presente decreto con fuerza de ley.
 
 > **Nota.** NOTA 2 El artículo primero, Nº 5, del DFL 15, Hacienda, publicado el 09.07.2018, crea un cargo de Administrador, grado 13, en la Planta de personal de Directivos de la Dirección General de Crédito Prnedario.
+
+> **Nota.** NOTA 3 El artículo 62 N° 2 de la Ley N° 21.724, publicada el 03.01.2025, dispone suprimir en la letra f) de la presente norma, dentro de los requisitos para los Administrativos de los grados 10° y 11°, la expresión: "- Curso de secretariado o técnicas administrativas de a lo menos 500 horas y". No obstante, el párrafo señalado por la ley no se encuentra en el texto de la norma.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- María Teresa Infante Barros, Ministro del Trabajo y Previsión Social.- Carlos Cáceres Contreras, Ministro del Interior.- Martín Costabal Llona, Ministro de Hacienda.
 

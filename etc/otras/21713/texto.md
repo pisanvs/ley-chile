@@ -2434,7 +2434,7 @@ séptimo.- Facúltase al Presidente de la República para que, dentro del plazo 
 
 2. También podrá modificar el monto de los recursos que deberán destinarse al financiamiento de la asignación del artículo 7 de la Ley Nº19.646, establecido en el artículo 8 de dicha ley. Asimismo, podrá establecer la gradualidad en que las modificaciones antes indicadas se lleven a efecto como la fecha de entrada en vigencia de dichas modificaciones.
 
-3. Además, podrá modificar los porcentajes de la asignación especial de estímulo en su componente fijo y los porcentajes de su componente asociado a la gestión tributaria, definidos en el artículo 4° de la ley Nº 19.646, para los estamentos técnicos, administrativos y auxiliares. También podrá establecer la gradualidad en que las modificaciones antes indicadas se lleven a efecto. Asimismo, podrá establecer la fecha de entrada en vigencia de dichas modificaciones.
+3. Además, podrá modificar los porcentajes de la asignación especial de estímulo en su componente fijo y los porcentajes de su componente asociado a la gestión tributaria, definidos en el artículo 4° de la ley Nº 19.646, para los estamentos técnicos, administrativos y auxiliares, incluyendo a profesionales de grados 13 a 16 y fiscalizadores grado 15. También podrá establecer la gradualidad en que las modificaciones antes indicadas se lleven a efecto. Asimismo, podrá establecer la fecha de entrada en vigencia de dichas modificaciones.
 
 #### Artículo decimo
 
@@ -2493,6 +2493,10 @@ El monto informado será del año precedente y se informará desagregado por nú
 Artículo vigesimocuarto.- Durante los años 2025 y 2026, el Servicio de Impuestos Internos podrá implementar programas de apoyo a la formalización de pequeños contribuyentes.
 
 Artículo vigesimoquinto.- Las modificaciones incorporadas por el artículo 16 comenzarán a regir doce meses después de la publicación de la presente ley.
+
+Artículo vigésimo sexto.- El Ministro de Hacienda, mediante uno o más decretos elaborados en la forma señalada en el artículo 70 del decreto ley N° 1.263 y sus modificaciones, podrá modificar los subtítulos, ítem, asignaciones y glosas del Servicio de Impuestos Internos, Servicio Nacional de Aduanas, Servicio de Tesorerías y Defensoría del Contribuyente para incorporar en sus presupuestos los mayores ingresos, gastos y dotaciones señalados en los diversos Informes Financieros que acompañaron el trámite de la presente ley.
+
+El mayor gasto asociado se financiará con cargo a la Partida 50, Tesoro Público, Programa 03, Operaciones Complementarias, subtítulo 24, Transferencias Corrientes, ítem 03, a otras Entidades Públicas, asignación 104, Provisión para Financiamientos Comprometidos de la Ley de Presupuestos vigente a la dictación de los decretos señalados.
 
 #### Artículo final
 

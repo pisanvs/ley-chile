@@ -242,7 +242,7 @@ Establécese, a contar del primer día del mes subsiguiente a la fecha de public
 
 El bono establecido en el inciso anterior se pagará mensualmente desde el primer día del mes siguiente a aquel en que cumplan diez años en el grado tope de la respectiva planta y mientras permanezcan en ella.
 
-El monto del bono a que se refiere este artículo será equivalente al 25,2% para los funcionarios pertenecientes a la planta de técnicos, al 25,2% para los de la planta de administrativos, y al 25,2%, para los de la planta de auxiliares.
+El monto del bono a que se refiere este artículo será equivalente al 25,2% para los funcionarios pertenecientes a la planta de técnicos, al 18% para los de la planta de administrativos, y al 16,2%, para los de la planta de auxiliares.
 
 Los porcentajes anteriores se aplicarán sobre la suma del sueldo base asignado al grado respectivo más la asignación de fiscalización que le corresponda establecida en el artículo 6º del decreto ley Nº3.551, de 1981, y la asignación señalada en el artículo 4º de la ley Nº18.717.
 

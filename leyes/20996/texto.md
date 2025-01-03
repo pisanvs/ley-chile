@@ -8,9 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1
 
-El personal no académico ni profesional de las universidades del Estado que perciba el beneficio compensatorio del artículo 9 de la ley N° 20.374, que entre el 1 de enero de 2015 y el 31 de diciembre de 2025 haya cumplido o cumpla 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres, y se encuentre afiliado al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, tendrá derecho a una bonificación adicional, de cargo fiscal, siempre que cumpla los demás requisitos establecidos en esta ley.
-
-También podrá acceder a esta bonificación adicional el personal no académico ni profesional de las universidades del Estado que al 31 de diciembre de 2014 haya cumplido las edades antes mencionadas o más.
+El personal no académico ni profesional de las universidades del Estado que perciba el beneficio compensatorio del artículo 9 de la ley N° 20.374, que tenga 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres, y se encuentre afiliado al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, tendrá derecho a una bonificación adicional, de cargo fiscal, siempre que cumpla los demás requisitos establecidos en esta ley.
 
 El personal señalado en el inciso primero tendrá derecho a la bonificación adicional siempre que sirva sus cargos en calidad de planta o a contrata y que, a la fecha del inicio del respectivo periodo de postulación, haya prestado servicios en cualquiera de dichas calidades en las universidades del Estado por un período no inferior a diez años, continuos o discontinuos. Además, el personal deberá hacer efectiva su renuncia voluntaria en los plazos que se señalan en el artículo siguiente.
 
@@ -22,7 +20,7 @@ El personal no académico ni profesional a que se refiere este artículo, que se
 
 El personal no académico ni profesional beneficiario de un cupo de la bonificación adicional deberá hacer efectiva su renuncia voluntaria a la universidad del Estado, respecto del cargo o del total de horas que sirva en virtud de su nombramiento o contrato, dentro de los ciento ochenta días siguientes al cumplimiento de los 65 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
 
-Con todo, las funcionarias podrán postular desde que cumplan 60 años y hasta el período que le corresponda postular a los 65 años de edad, cumpliendo con las demás condiciones fijadas por esta ley y su reglamento. Las funcionarias que postulen antes del cumplimiento de los 65 años de edad y sean seleccionadas deberán hacer efectiva su renuncia voluntaria dentro de los ciento ochenta días siguientes a la notificación del acto que le asigna un cupo. Si la funcionaria no hiciere efectiva su renuncia dentro de dicho plazo perderá su cupo, pero podrá postular en los períodos siguientes hasta aquel en que le corresponda postular a los 65 años de edad.
+Con todo, las funcionarias podrán postular desde que cumplan 60 años y hasta el período que le corresponda postular a los 65 años de edad, cumpliendo con las demás condiciones fijadas por esta ley y su reglamento. Las funcionarias que postulen antes del cumplimiento de los 65 años de edad y sean seleccionadas deberán hacer efectiva su renuncia voluntaria dentro de los ciento ochenta días siguientes a la notificación del acto que le asigna un cupo. Si la funcionaria no hiciere efectiva su renuncia dentro de dicho plazo perderá su cupo, pero podrá postular en los períodos siguientes hasta aquel señalado en el artículo 4 bis.
 
 El personal no académico ni profesional beneficiario de la bonificación adicional conforme al artículo 1 cesará en funciones sólo si la universidad empleadora pone a su disposición la totalidad del beneficio compensatorio del artículo 9 de la ley N° 20.374. En caso contrario, cesará en funciones cuando se le pague dicho beneficio compensatorio.
 
@@ -30,7 +28,7 @@ Si el personal no académico ni profesional no hace efectiva su renuncia volunta
 
 #### Artículo 3
 
-La bonificación adicional se otorgará hasta por un máximo de 3.420 cupos, según lo dispuesto en el artículo 5, será de cargo fiscal y ascenderá, según los años de servicio que el funcionario haya prestado en universidades del Estado a la fecha del cese de funciones, a los siguientes montos:
+La bonificación adicional se otorgará hasta por un máximo de cupos, según lo dispuesto en el artículo 5, será de cargo fiscal y ascenderá, según los años de servicio que el funcionario haya prestado en universidades del Estado a la fecha del cese de funciones, a los siguientes montos:
 
 Monto de la Bonificación
 
@@ -70,9 +68,45 @@ La bonificación adicional se pagará por la universidad empleadora de una sola 
 
 Las universidades estatales estarán facultadas para otorgar el beneficio compensatorio del artículo 9 de la ley N° 20.374 al personal no académico ni profesional, de planta o a contrata, que perciba la bonificación adicional en virtud del inciso primero de este artículo. En este caso, el número de meses a pagar por dicho beneficio compensatorio corresponderá a la diferencia entre los meses que hubiere podido percibir de acuerdo al artículo 9 de la ley N° 20.374, si hubiere renunciado voluntariamente, y seis meses del inciso segundo del artículo 152 del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, que fijó el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo.
 
+#### Artículo 4 bis
+
+El personal sujeto a los beneficios de esta ley, podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederá a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 65 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 65 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad del beneficio compensatorio del artículo 9 de la ley N° 20.374 y a la bonificación adicional del artículo 1 de esta ley, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 66 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 66 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 75% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 75% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 67 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 67 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 55% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 55% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 68 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 68 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 30% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 30% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 69 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 69 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 5, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 10% del beneficio compensatorio del artículo 9 de la ley N° 20.374 y al 10% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncian irrevocablemente a todos los beneficios establecidos en esta ley.
+
+Las funcionarias podrán optar hacer efectiva su renuncia voluntaria a la universidad del Estado, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder al beneficio compensatorio del artículo 9 de la ley N° 20.374 y a la bonificación adicional que les corresponda, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y e), según corresponda.
+
+Los beneficios decrecientes señalados en este artículo serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027.
+
 #### Artículo 5
 
-Podrán acceder a la bonificación adicional creada por esta ley hasta un total de 3.420 beneficiarios. Para el año 2017 se contemplarán 200 cupos. Para el año 2018 se contemplarán 400 cupos. Para los años 2019 y 2020, existirán 435 cupos por cada anualidad. A partir del año 2021 y hasta el año 2023, se contemplarán 350 cupos para cada año. Para los años 2024 y 2025 se contemplarán 400 y 500 cupos, respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
+El personal podrá acceder a la bonificación adicional de acuerdo a los cupos que se indican a continuación. Para el año 2017 se contemplarán 200 cupos. Para el año 2018 se contemplarán 400 cupos. Para los años 2019 y 2020, existirán 435 cupos por cada anualidad. A partir del año 2021 y hasta el año 2023, se contemplarán 350 cupos para cada año. Para los años 2024 y 2025 se contemplarán 400 y 500 cupos, respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente hasta los cupos para el año 2025 después de dicho año no se traspasarán a las anualidades siguientes. Para el año 2026 se contemplarán 450 cupos. Para los años 2027, 2028, 2029, 2030, 2031, 2032 y 2033 se contemplarán, por cada anualidad, 400 cupos. A partir del año 2034 se contemplarán 475 cupos por cada anualidad. Con todo, los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación, podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos éstos no podrán usarse en los procesos siguientes.
 
 Para que los funcionarios accedan a la bonificación adicional deberán postular en su respectiva institución empleadora en los plazos que fije el reglamento, comunicando su decisión de renunciar voluntariamente. Dichas instituciones deberán remitir las postulaciones a la Subsecretaría de Educación, la que mediante una o más resoluciones exentas, visadas por la Dirección de Presupuestos, establecerá la distribución de los cupos anuales entre las universidades estatales, en forma proporcional al número de postulaciones que cumplan con los requisitos fijados por esta ley.
 
@@ -90,7 +124,7 @@ d) En todo caso, si aplicados todos los criterios de selección persiste la igua
 
 Una vez dictada la resolución a que se refiere el inciso tercero, la universidad estatal empleadora la notificará dentro de los cinco días siguientes a la fecha de su dictación, a cada uno de los funcionarios que participaron del proceso de postulación, al correo electrónico institucional que tengan asignado o al que fijen en su postulación, o de conformidad al inciso final del artículo 46 de la ley N° 19.880.
 
-El personal beneficiario de un cupo deberá presentar su renuncia voluntaria y hacerla efectiva en los plazos señalados en el artículo 2. Sin perjuicio de lo anterior, el personal podrá hacer efectiva su renuncia voluntaria desde la presentación de su postulación a la bonificación adicional, siempre que tenga cumplida las edades señaladas en el inciso primero del artículo 1, según corresponda. En este caso, la bonificación adicional del artículo 3 se pagará al mes siguiente de la total tramitación de la resolución que les conceda el cupo respectivo a quienes cumplan con los requisitos exigidos conforme a la presente ley. Además, el valor de la unidad de fomento para el cálculo del beneficio será el vigente al último día del mes anterior a la total tramitación de dicha resolución. A su vez, el beneficio compensatorio del artículo 9 de la ley N° 20.374, cuando corresponda, se pagará según lo establecido en el inciso cuarto de dicha disposición. Para los efectos del artículo 8 de esta ley, los funcionarios deberán presentar la solicitud para acceder al bono establecido en la ley N° 20.305 en la misma oportunidad en que presenten su renuncia voluntaria.
+El personal beneficiario de un cupo deberá presentar su renuncia voluntaria y hacerla efectiva en los plazos señalados en los artículos 2 y 4 bis, según corresponda. Sin perjuicio de lo anterior, el personal podrá hacer efectiva su renuncia voluntaria desde la presentación de su postulación a la bonificación adicional, siempre que tenga cumplida las edades señaladas en el inciso primero del artículo 1, según corresponda. En este caso, la bonificación adicional del artículo 3 se pagará al mes siguiente de la total tramitación de la resolución que les conceda el cupo respectivo a quienes cumplan con los requisitos exigidos conforme a la presente ley. Además, el valor de la unidad de fomento para el cálculo del beneficio será el vigente al último día del mes anterior a la total tramitación de dicha resolución. A su vez, el beneficio compensatorio del artículo 9 de la ley N° 20.374, cuando corresponda, se pagará según lo establecido en el inciso cuarto de dicha disposición. Para los efectos del artículo 8 de esta ley, los funcionarios deberán presentar la solicitud para acceder al bono establecido en la ley N° 20.305 en la misma oportunidad en que presenten su renuncia voluntaria.
 
 #### Artículo 6
 
@@ -102,7 +136,7 @@ En los casos señalados en el inciso precedente, las universidades estatales pod
 
 En el evento que un funcionario seleccionado dentro de los cupos asignados a un proceso de postulación se desistiere de aquél, dicho cupo se reasignará por la respectiva universidad, siguiendo estrictamente el orden del listado contenido en la resolución señalada en el artículo 5. Las mujeres menores de 65 años de edad que habiendo sido seleccionadas con un cupo se desistieren, no lo conservarán para los años siguientes, debiendo volver a postular conforme a las normas que establezca el reglamento.
 
-A quien se le reasigne el cupo del personal que se desista deberá hacer efectiva su renuncia voluntaria de acuerdo al artículo 2 de esta ley.
+A quien se le reasigne el cupo del personal que se desista deberá hacer efectiva su renuncia voluntaria de acuerdo a los artículos 2 o 4 bis de esta ley, según corresponda.
 
 #### Artículo 8
 
@@ -126,9 +160,7 @@ El personal que se acoja a los beneficios de esta ley deberá renunciar a todos 
 
 #### Artículo 12
 
-Las universidades estatales podrán otorgar el beneficio compensatorio que establece el artículo 9 de la ley N° 20.374, por única vez, al personal no académico ni profesional, de planta o a contrata, que tuviere más de 65 años de edad con anterioridad a la fecha de inicio del primer período de postulación a la bonificación adicional, cuando tenga derecho a dicha bonificación y siempre que presente su renuncia voluntaria respecto de su cargo o del total de horas que sirva, dentro de ese período. Si el personal no presenta su renuncia dentro del plazo antes señalado, se entenderá que renuncia irrevocablemente a dicha compensación.
-
-Las universidades estatales también estarán facultadas para otorgar el beneficio compensatorio señalado en el inciso anterior, por única vez y en forma excepcional, al personal no académico ni profesional, de planta o a contrata, que tuviere más de 65 años de edad a la fecha de publicación de esta ley, siempre que haga efectiva su renuncia voluntaria dentro de los ciento ochenta días siguientes a dicha publicación, cuando sólo tenga derecho a este beneficio compensatorio. Si el personal no presenta su renuncia dentro del plazo antes señalado se entenderá que renuncia irrevocablemente a dicha compensación.
+Eliminado.
 
 #### Artículo 13
 

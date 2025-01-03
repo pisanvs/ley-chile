@@ -8,9 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-Los profesionales de la educación que pertenezcan a una dotación docente del sector municipal, administrada directamente por las municipalidades o por corporaciones municipales, ya sea en calidad de titulares o contratados, o estén contratados en los establecimientos regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, promulgado y publicado el año 1980, y que entre el 1 de enero de 2016 y el 31 de diciembre de 2025, ambas fechas inclusive, cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, podrán acceder a la bonificación por retiro voluntario establecida en la ley Nº 20.822 (en adelante "la bonificación") hasta por un total de 24.500 beneficiarios, siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en los organismos antes señalados, en los plazos que fijan esta ley y el reglamento.
-
-Asimismo, podrán acceder a la bonificación los profesionales de la educación que pertenezcan a una dotación docente de las instituciones señaladas en el inciso anterior o estén contratados en los establecimientos regidos por el citado decreto ley Nº 3.166, de 1980, que antes del 1 de enero de 2016 hayan cumplido 60 o más años de edad si son mujeres, y 65 o más años de edad si son hombres, siempre que accedan a un cupo de los señalados en el inciso precedente, y hagan efectiva su renuncia en los plazos fijados en la presente ley y el reglamento.
+Los profesionales de la educación que pertenezcan a una dotación docente del sector municipal, administrada directamente por las municipalidades o por corporaciones municipales, ya sea en calidad de titulares o contratados, o estén contratados en los establecimientos regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, promulgado y publicado el año 1980, y que tengan 60 años de edad si son mujeres, o 65 años de edad si son hombres, podrán acceder a la bonificación por retiro voluntario establecida en la ley Nº 20.822 (en adelante "la bonificación"), siempre que comuniquen su decisión de renunciar voluntariamente y hagan efectiva dicha renuncia respecto del total de horas que sirven en los organismos antes señalados, en los plazos que fijan esta ley y el reglamento.
 
 La bonificación establecida en esta ley regirá para todos los profesionales de la educación señalados en los incisos anteriores, hayan o no hecho uso de la opción establecida en el artículo quinto transitorio de la ley N° 20.903.
 
@@ -18,7 +16,7 @@ La bonificación establecida en esta ley regirá para todos los profesionales de
 
 La bonificación se regulará por la ley Nº 20.822. Con todo, se le aplicarán las siguientes reglas especiales y las demás que fije un reglamento:
 
-1.- De acuerdo a esta ley, podrán acceder a la bonificación hasta un total de 24.500 (veinticuatro mil quinientos) profesionales de la educación, distribuidos de acuerdo a la siguiente tabla:
+1.- Podrán acceder a la bonificación los profesionales de la educación, de acuerdo a los cupos que señala la tabla siguiente:
 
 Año Número de beneficiarios
 
@@ -44,11 +42,33 @@ Año Número de beneficiarios
 
 Total 24.500
 
-Los cupos que no hubieren sido utilizados en los años 2016, 2017 y 2018 incrementarán los cupos del año 2019. A partir de dicho año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+AÑO NÚMERO DE BENEFICIARIOS
 
-2.- Para el cálculo de la bonificación de cada profesional de la educación, se considerará el número de horas de contrato vigente, en la respectiva comuna o entidad administradora, según corresponda, al 31 de octubre del año inmediatamente anterior a aquel en que el profesional de la educación cumpla la edad legal para pensionarse por vejez. Por su parte, los años de servicio o fracción superior a seis meses se considerarán al último día del mes anterior a la fecha de la resolución que le adjudique un cupo.
+2026 2.500
 
-En el caso de los profesionales de la educación a que se refiere el inciso segundo del artículo 1°, se considerará el número de horas de contrato vigente al 31 de octubre de 2015.
+2027 2.000
+
+2028 2.000
+
+2029 2.000
+
+2030 2.000
+
+2031 2.000
+
+2032 2.000
+
+2033 2.000
+
+Los cupos que no hubieren sido utilizados en los años 2016, 2017 y 2018 incrementarán los cupos del año 2019. A partir de dicho año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos del año 2025. Después de dicho año no se traspasarán a las anualidades siguientes. Los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación, podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos éstos no podrán usarse en los procesos siguientes. A contar del año 2034, los cupos serán 3.000 por cada anualidad.
+
+2.- Para el cálculo de la bonificación de cada profesional de la educación se considerará el número de horas de contrato vigente, en la respectiva comuna o entidad administradora, según corresponda, al 31 de octubre del año inmediatamente anterior a aquel en que el profesional de la educación cumpla la edad legal para pensionarse por vejez. En el caso de las mujeres que postulen a este beneficio entre los 61 y 65 años de edad, se considerará el número de horas de contrato vigente al 31 de octubre del año anterior al de su postulación. Por su parte, los años de servicio o fracción superior a seis meses se considerarán al último día del mes anterior a la fecha de la resolución que le adjudique un cupo.
+
+En el caso de los educadores y las educadoras de párvulos que pertenezcan a una dotación docente, además se considerarán los períodos anteriores trabajados, sin solución de continuidad, para el mismo empleador de dicha dotación, en establecimientos financiados vía transferencia de fondos administrados por la respectiva municipalidad, corporación municipal o por el Servicio Local de Educación Pública, que sea el continuador legal, siempre que hayan desempeñado la referida función.
+
+Para el cálculo de la bonificación se computarán los años trabajados, sin solución de continuidad, en la dotación docente de un municipio o corporación municipal, o en un establecimiento regido por el decreto ley N° 3.166 del Ministerio de Educación Pública de 1980, respecto de los cuales se haya traspasado el servicio educativo a un Servicio Local de Educación Pública. En ningún caso podrán contabilizarse años de servicio que se hayan considerado para el pago de beneficios o indemnizaciones por concepto de término de la relación laboral o por años de servicio en las instituciones antes señaladas.
+
+Para efectos de lo dispuesto en el presente numeral, se aplicará lo dispuesto en el artículo 41 bis del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación.
 
 3.- En el mes de marzo de cada año, el valor de la bonificación establecida en el inciso segundo del artículo 1° de la ley N° 20.822 se reajustará de acuerdo a la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas entre los meses de enero y diciembre del año inmediatamente anterior.
 
@@ -58,7 +78,7 @@ Las instituciones empleadoras señaladas en el artículo 1° deberán remitir la
 
 5.- Las profesionales de la educación podrán postular a los cupos indicados en el numeral 1 a partir del año en que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad.
 
-6.- Las profesionales de la educación que cumplan 60 años de edad y hasta 65 años, entre el 1 de enero y el 31 de diciembre de 2025, podrán postular en el proceso correspondiente a dicho año según lo fije el reglamento y, de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria entre el 1 de enero y el 1 de marzo siguiente a la comunicación de que accedieron a un cupo.
+6.- Eliminado.
 
 7.- En caso de haber un mayor número de postulantes que cupos disponibles para un año, la Subsecretaría de Educación procederá a adjudicarlos de acuerdo a los siguientes criterios de prioridad:
 
@@ -98,6 +118,40 @@ El profesional de la educación a quien se le reasigne el cupo de quien desista 
 
 Las mujeres menores de 65 años de edad que, habiendo sido beneficiadas con un cupo no presenten su renuncia en el plazo establecido en el numeral 9, para efectos de poder volver a acceder a un cupo deberán postular a un nuevo proceso.
 
+#### Artículo 2 bis
+
+El personal sujeto a los beneficios de esta ley podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederá a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrán postular los profesionales de la educación que cumplan 65 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de la publicación señalada en el numeral 9 del artículo 2. Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad de la bonificación por retiro voluntario, que les corresponda, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrán postular profesionales de la educación que cumplan 66 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de la publicación señalada en el numeral 9 del artículo 2. En este caso sólo podrán acceder al 75% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrán postular profesionales de la educación que cumplan 67 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de la publicación señalada en el numeral 9 del artículo 2. En este caso sólo podrán acceder al 55% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrán postular profesionales de la educación que cumplan 68 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia, a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de la publicación señalada en el numeral 9 del artículo 2. En este caso sólo podrán acceder al 30% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrán postular profesionales de la educación que cumplan 69 años de edad, en el o los plazos que fije el reglamento. Deberán hacer efectiva su renuncia a más tardar, entre el 1 de enero y el 1 de marzo del año siguiente a la fecha de la publicación señalada en el numeral 9 del artículo 2. En este caso sólo podrán acceder al 10% de la bonificación por retiro voluntario que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncia irrevocablemente a todos los beneficios establecidos en esta ley.
+
+Las profesionales de la educación podrán optar por comunicar su decisión de hacer efectiva su renuncia voluntaria desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder a la bonificación por retiro voluntario, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y
+
+- **e)** según corresponda.
+
+Los beneficios decrecientes señalados en este artículo serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027.
+
+#### Artículo 2 ter
+
+Las edades indicadas en el artículo 1 podrán rebajarse en los casos y situaciones a que se refiere el artículo 68 bis del decreto ley N° 3.500, de 1980, por iguales causales, procedimiento y tiempo computable.
+
+Los profesionales de la educación que se acojan a lo previsto en el inciso anterior deberán acompañar un certificado otorgado por el Instituto de Previsión Social o la administradora de fondos de pensiones, según corresponda, que acredite la situación señalada en el artículo 68 bis del decreto ley N° 3.500, de 1980. El certificado deberá indicar que el profesional de la educación cumple con los requisitos para obtener una rebaja de la edad legal para pensionarse por vejez, en cualquier régimen previsional, por la realización de labores calificadas como pesadas y respecto de las cuales se haya efectuado la cotización del artículo 17 bis del decreto ley N° 3.500, de 1980, o certificado de cobro anticipado del bono de reconocimiento por haber desempeñado trabajos pesados durante la afiliación al antiguo sistema, conforme al inciso tercero del artículo 12 transitorio del citado decreto ley, según corresponda.
+
 #### Artículo 3°
 
 A los profesionales de la educación que accedan a un cupo de la bonificación por retiro voluntario se les aplicará lo dispuesto en el artículo 4° de la ley N° 20.822.
@@ -126,9 +180,7 @@ El reglamento de que trata este artículo deberá dictarse dentro de los noventa
 
 #### Artículo 7º
 
-Podrán acceder a la bonificación los profesionales de la educación del sector municipal que, hasta el día anterior a la fecha de publicación de esta ley, hayan presentado su renuncia anticipada conforme a lo establecido en el inciso final del artículo 70 del decreto con fuerza de ley Nº 1, del Ministerio de Educación, promulgado el año 1996 y publicado el año 1997, siempre que comuniquen su decisión de renunciar voluntariamente al total de horas que sirvan en los organismos señalados en el artículo 1º, en los plazos que fija esta ley y su reglamento, y que continúen desempeñándose en la dotación docente del respectivo sostenedor municipal por no haber recibido la bonificación establecida en el artículo 73 bis del citado decreto con fuerza de ley Nº 1, del Ministerio de Educación. Si presentada su postulación a la bonificación de que trata esta ley, el profesional de la educación no fuere seleccionado para acceder a uno de los cupos a que se refiere el numeral 1 del artículo 2°, ya sea en el mismo año o en forma preferente para cualquiera de los procesos posteriores, se entenderá que su renuncia ha surtido los efectos previstos en el artículo 70 del mencionado decreto con fuerza de ley N° 1, del Ministerio de Educación, sin que le sea aplicable en cuanto dispone que se hará efectiva al cumplir la edad legal para jubilar por el solo ministerio de la ley y prorrogándose la eximición de la evaluación por el tiempo que medie entre su postulación y la resolución que asigne los cupos.
-
-Asimismo, los profesionales de la educación señalados en el inciso anterior tendrán derecho a presentar la solicitud para acceder al bono que se establece en la ley N° 20.305, de conformidad con el artículo 4° de esta ley.
+Derogado.
 
 #### Artículo 8°
 

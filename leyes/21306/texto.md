@@ -464,7 +464,7 @@ Las prestaciones del seguro de la ley Nº 19.728 se pagarán contra la presentac
 
 #### Artículo 47
 
-Los funcionarios y funcionarias municipales y los trabajadores de los cementerios municipales, que habiendo postulado al proceso de los cupos correspondientes a los años 2018, 2019, 2020 y 2021 de la ley Nº 21.135, y que hayan pasado a integrar en forma preferente el listado de seleccionado de dicho proceso conforme a lo dispuesto en el artículo 6 de la citada ley, correspondiéndoles el beneficio en los años siguientes, podrán acceder anticipadamente al cupo respectivo siempre que tengan la condición de enfermos terminales o bien padecer trastorno neuro cognitivo mayor en fase terminal, debidamente certificado por el médico tratante. El número máximo de cupos a anticipar serán 61, los cuales serán descontados de las anualidades que hubieren correspondido al respectivo beneficiario. A partir de la publicación de esta ley, la Subsecretaría de Desarrollo Regional y Administrativo podrá asignar anticipadamente los cupos antes indicados, siempre que la municipalidad remita a dicha Subsecretaría el certificado emitido por el médico tratante, visado por el secretario municipal.
+Derogado.
 
 #### Artículo 48
 
@@ -632,7 +632,7 @@ Los ajustes derivados de la aplicación de este artículo serán establecidos po
 
 #### Artículo 70
 
-Los órganos y servicios públicos incluidos en la ley de presupuestos, las municipalidades, las universidades estatales, las empresas públicas creadas por ley y las empresas del Estado y sociedades en que éste tenga participación accionaria superior al 50 por ciento o mayoría en el directorio, deberán enviar mensualmente a la Dirección de Presupuestos la nómina de los trabajadores, cualquiera sea su régimen laboral, y de aquellos servidores que se desempeñen a honorarios, indicando las remuneraciones y demás contraprestaciones en dinero efectivamente pagadas a cada uno ellos en dicho período, e identificando la fuente de financiamiento. Esta información deberá ser entregada dentro de los quince días siguientes al término del mes respectivo a informar, según los medios y en los formatos que determine la Dirección de Presupuestos.
+Los órganos y servicios públicos incluidos en la ley de presupuestos, las municipalidades, las corporaciones municipales de educación y salud, las universidades estatales, las empresas públicas creadas por ley y las empresas del Estado y sociedades en que éste tenga participación accionaria superior al 50 por ciento o mayoría en el directorio, deberán enviar mensualmente a la Dirección de Presupuestos la nómina de los trabajadores, cualquiera sea su régimen laboral, y de aquellos servidores que se desempeñen a honorarios, indicando las remuneraciones y demás contraprestaciones en dinero efectivamente pagadas a cada uno ellos en dicho período, e identificando la fuente de financiamiento. Esta información deberá ser entregada dentro de los quince días siguientes al término del mes respectivo a informar, según los medios y en los formatos que determine la Dirección de Presupuestos.
 
 La información remitida será utilizada por la Dirección de Presupuestos para realizar las proyecciones económicas necesarias para el estudio y preparación de los proyectos de ley con efecto en las remuneraciones del sector público.
 

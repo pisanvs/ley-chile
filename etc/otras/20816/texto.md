@@ -14,6 +14,8 @@ De la duración máxima de becas de perfeccionamiento y de programas de perfecci
 
 Respecto de los profesionales funcionarios a que se refieren los artículos 8º y 11 de la ley Nº19.664, que ingresen a programas y becas de perfeccionamiento o especialización a contar del 1 de enero de 2015 o en una fecha posterior, no regirá la limitación relativa a la duración de tales programas y becas establecida en el inciso segundo del artículo 43 del decreto con fuerza de ley Nº 1, de 2001, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado de la ley Nº 15.076; ni lo dispuesto en el artículo 10 de la ley Nº 19.664, respecto de la duración máxima de las becas de perfeccionamiento o programas de perfeccionamiento o especialización, pudiendo autorizarse becas o programas de hasta cuatro años de duración.
 
+Lo dispuesto en el inciso anterior también será aplicable a los becarios que ingresen a programas y becas de perfeccionamiento o especialización de acuerdo al reglamento de becarios de la ley N° 15.076, en el Sistema Nacional de Servicios de Salud, siempre que se trate de profesionales egresados de la última promoción de las diferentes Facultades de Medicina, Odontología y de las Ciencias Químicas y Farmacéuticas de las universidades del país, mediante un proceso que se denominará "Concurso de becas para profesionales de la última promoción".
+
 Mediante resolución del Subsecretario de Redes Asistenciales, que además deberá ser visada por el Director de Presupuestos, se indicará anualmente las especialidades a las que se aplicará lo dispuesto en el inciso anterior.
 
 ## Título II

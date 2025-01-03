@@ -8,11 +8,11 @@ Proyecto de ley:
 
 #### Artículo 1
 
-Establécese una bonificación por retiro voluntario, en las condiciones que más adelante se señalan, para los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que fija el Estatuto Administrativo de los Funcionarios Municipales, que en el período comprendido entre el 1 de julio de 2014 y el 31 de diciembre del año 2025, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, y cesen en sus cargos por aceptación de renuncia voluntaria, en los plazos a que se refiere esta ley.
+Establécese una bonificación por retiro voluntario, en las condiciones que más adelante se señalan, para los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que fija el Estatuto Administrativo de los Funcionarios Municipales, que tengan 60 años de edad si son mujeres, o 65 años de edad si son hombres, y cesen en sus cargos por aceptación de renuncia voluntaria, en los plazos a que se refiere esta ley.
 
 La bonificación por retiro voluntario será el equivalente a un mes de remuneración por cada año de servicio o fracción superior a seis meses prestados por el funcionario en la administración municipal, con un máximo de seis meses. Se reconocerán los períodos discontinuos siempre que ellos sean superiores a un año o, al menos, uno de ellos sea superior a cinco años.
 
-Sin perjuicio de lo señalado en el inciso anterior, el alcalde someterá al acuerdo del concejo municipal el otorgar a los funcionarios beneficiarios de la bonificación a que se refiere el inciso precedente, en las condiciones y dentro del período señalado, una bonificación por retiro complementaria, la que en conjunto con la establecida en el inciso anterior, no podrá sobrepasar los años de servicios prestados en la administración municipal, ni ser superior a once meses de bonificación. El alcalde y el concejo no podrán acordar bonificaciones por retiro complementarias para algunos funcionarios, excluyendo a otros, como tampoco diferenciadas entre ellos.
+Sin perjuicio de lo señalado en el inciso anterior, el alcalde someterá al acuerdo del concejo municipal el otorgar a los funcionarios beneficiarios de la bonificación a que se refiere el inciso precedente, en las condiciones señaladas, una bonificación por retiro complementaria, la que en conjunto con la establecida en el inciso anterior, no podrá sobrepasar los años de servicios prestados en la administración municipal, ni ser superior a once meses de bonificación. El alcalde y el concejo no podrán acordar bonificaciones por retiro complementarias para algunos funcionarios, excluyendo a otros, como tampoco diferenciadas entre ellos.
 
 La remuneración que servirá de base para el cálculo de las bonificaciones será el promedio de las remuneraciones mensuales de los últimos doce meses inmediatamente anteriores al cese de funciones, actualizadas según el índice de precios al consumidor determinado por el Instituto Nacional de Estadísticas. Para tales efectos también se incluirán las asignaciones de los artículos 1° permanente y undécimo transitorio de la ley N° 20.922.
 
@@ -20,25 +20,19 @@ Las bonificaciones establecidas en los incisos precedentes no serán imponibles 
 
 #### Artículo 2
 
-Igualmente podrán acceder a las bonificaciones a que se refiere el artículo 1 los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que hayan obtenido u obtengan pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, entre el 1 julio de 2014 y el 31 de diciembre del año 2025, ambas fechas inclusive; que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese de su cargo por la obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo; y siempre que cuenten con un mínimo de diez años de servicios continuos o discontinuos prestados en la administración municipal a la fecha de su cese de funciones.
-
-En ningún caso las edades señaladas en el inciso anterior podrán cumplirse más allá del 31 de diciembre de 2025.
+Igualmente podrán acceder a las bonificaciones a que se refiere el artículo 1 los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que hayan obtenido u obtengan pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese de su cargo por la obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo; y siempre que cuenten con un mínimo de diez años de servicios continuos o discontinuos prestados en la administración municipal a la fecha de su cese de funciones.
 
 El personal señalado en este artículo que no cumpla con el requisito de edad establecido en el inciso primero igualmente podrá acceder a la bonificación adicional si tiene treinta o más años de servicio a la fecha del cese de funciones, en cualquier calidad jurídica, sea de planta o a contrata, en municipios, y siempre que al 1 de julio de 2014 haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata.
 
 #### Artículo 3
 
-También tendrán derecho a las bonificaciones por retiro voluntario del artículo 1 los funcionarios municipales regidos por el Título II del decreto ley Nº 3.551, de 1980, y por la ley Nº 18.883, que fija el Estatuto Administrativo de los Funcionarios Municipales, que al 30 de junio de 2014 hayan cumplido 60 o más años de edad, si son mujeres, y 65 o más años de edad, si son hombres, siempre que, al postular, comuniquen su decisión de renunciar voluntariamente en el o los plazos que establezca el reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
-
-Los funcionarios y funcionarias señalados en el inciso primero sólo podrán postular en el primer período de postulación a que se refiere el artículo primero transitorio. Si no postulan, se entenderá que renuncian irrevocablemente a los beneficios establecidos en esta ley.
-
-Sin embargo, las funcionarias señaladas en el inciso primero que a la fecha de publicación de esta ley tengan menos de 65 años de edad podrán participar en cualquier proceso de postulación hasta el que le corresponda a los 65 años de edad. A estas funcionarias les será aplicable lo dispuesto en el inciso segundo del artículo 7.
+Eliminado.
 
 #### Artículo 4
 
-Podrán acceder a la bonificación establecida en el inciso primero del artículo 1 y a lo dispuesto en el artículo 9 hasta un máximo de 13.100 beneficiarios, de conformidad con los cupos anuales que se indican en el inciso siguiente.
+El personal podrá acceder a la bonificación establecida en el inciso primero del artículo 1 y a lo dispuesto en el artículo 9, de conformidad con los cupos anuales que se indican en el inciso siguiente.
 
-Para el año 2018 se contemplarán 1.100 cupos y para el año 2019 existirán 1.000 cupos. Para los años 2020 y 2021, existirán 1.250 cupos por cada año. A partir del año 2022 y hasta el año 2023, se contemplarán 1.500 cupos para cada año. Para los años 2024 y 2025 se contemplarán 2.250 y 3.250 cupos, respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2018 y 2019, incrementarán los cupos del año 2020. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente.
+Para el año 2018 se contemplarán 1.100 cupos y para el año 2019 existirán 1.000 cupos. Para los años 2020 y 2021, existirán 1.250 cupos por cada año. A partir del año 2022 y hasta el año 2023, se contemplarán 1.500 cupos para cada año. Para los años 2024 y 2025 se contemplarán 2.250 y 3.250 cupos, respectivamente. Con todo, los cupos que no hubieren sido utilizados en los años 2018 y 2019, incrementarán los cupos del año 2020. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente hasta los cupos del año 2025 después de dicho año no se traspasarán a las anualidades siguientes. Para el año 2026, se contemplarán 2.000 cupos; para los años 2027 a 2030, se contemplarán 1.500 cupos para cada año; para el año 2031, se contemplarán 1.200 cupos; para el año 2032 y 2033, se contemplarán 1.400 cupos para cada año; desde el año 2034 en adelante, se contemplarán 2.000 cupos para cada año. Los cupos de los años 2026 y 2027 que no hubieren sido utilizados al término de su proceso de adjudicación podrán ser usados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizado dichos cupos, éstos no podrán usarse en los procesos siguientes.
 
 #### Artículo 5
 
@@ -72,7 +66,7 @@ La individualización de los beneficiarios antes señalados podrá realizarse me
 
 El personal municipal señalado en los artículos 1 y 3 deberá hacer efectiva su renuncia voluntaria a la municipalidad, respecto del cargo o del total de horas que sirva en virtud de su decreto de nombramiento o de contrata, a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5, o hasta el día 1 del quinto mes siguiente al cumplimiento de los 65 años de edad, si esta fecha es posterior a aquélla.
 
-Las funcionarias podrán postular desde que cumplan 60 años y hasta el período que les corresponda postular a los 65 años de edad, cumpliendo con las demás condiciones fijadas por esta ley y su reglamento. Con todo, las funcionarias que postulen antes del cumplimiento de los 65 años de edad y sean seleccionadas deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva. Si la funcionaria no hiciere efectiva su renuncia dentro de dicho plazo perderá su cupo, pero podrá postular en los períodos siguientes hasta aquel en que le corresponda postular a los 65 años de edad.
+Las funcionarias podrán postular desde que cumplan 60 años y hasta el período que les corresponda postular a los 65 años de edad, cumpliendo con las demás condiciones fijadas por esta ley y su reglamento. Con todo, las funcionarias que postulen antes del cumplimiento de los 65 años de edad y sean seleccionadas deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva. Si la funcionaria no hiciere efectiva su renuncia dentro de dicho plazo perderá su cupo, pero podrá postular en los períodos siguientes de acuerdo a las reglas contenidas en el artículo 11 bis.
 
 El funcionario municipal beneficiario de un cupo de la bonificación por retiro de esta ley cesará en funciones sólo si la municipalidad empleadora pone a su disposición la totalidad de la bonificación. En caso contrario, cesará en funciones cuando se le pague ese beneficio. No obstante, el funcionario que así lo solicitare, podrá cesar en sus funciones desde el momento en que se haya notificado la resolución señalada en el inciso cuarto del artículo 5. El alcalde deberá indicar en el decreto que acepte dicha renuncia, la fecha en que se pagarán los beneficios señalados en el artículo 1 y al mes siguiente de dicha fecha se pagarán los beneficios establecidos en los artículos 8, 10 y 11, según corresponda.
 
@@ -80,7 +74,7 @@ El funcionario municipal beneficiario de un cupo de la bonificación por retiro 
 
 La Subsecretaría de Desarrollo Regional y Administrativo determinará mediante una o más resoluciones la nómina de quienes habiendo postulado cumpliendo los requisitos no hayan resultado beneficiarios por falta de cupos para cada uno de los procesos anuales. Copia de la resolución será remitida a cada una de las municipalidades, las que deberán proceder a su inmediata difusión a través de un medio de general acceso. Asimismo, dicha Subsecretaría comunicará la resolución a los municipios a través del Sistema Nacional de Información Municipal.
 
-No obstante lo establecido en el inciso primero del artículo 6 y en el inciso tercero del artículo 9, los funcionarios y funcionarias municipales y los trabajadores de los cementerios municipales, que postulen a la bonificación por retiro voluntario y que, cumpliendo los requisitos para acceder a ella no obtengan un cupo, quedando priorizado para los periodos siguientes durante la vigencia de la ley podrán cesar en funciones por renuncia voluntaria, a contar de la notificación de su derecho preferente a un cupo. En este caso, los beneficios que correspondan conforme a esta ley, al funcionario o funcionaria o al trabajador de los cementerios municipales, se pagarán en el mes siguiente de la total tramitación de la resolución que les concede el cupo respectivo.
+No obstante lo establecido en el inciso primero del artículo 6 y en el inciso tercero del artículo 9, los beneficiarios de esta ley, que postulen a la bonificación por retiro voluntario y que, cumpliendo los requisitos para acceder a ella no obtengan un cupo, quedando priorizado para los periodos siguientes durante la vigencia de la ley podrán cesar en funciones por renuncia voluntaria, a contar de la notificación de su derecho preferente a un cupo. En este caso, los beneficios que correspondan conforme a esta ley, se pagarán en el mes siguiente de la total tramitación de la resolución que les concede el cupo respectivo.
 
 #### Artículo 8
 
@@ -110,7 +104,7 @@ Esta bonificación adicional no será imponible ni constituirá renta para ning�
 
 #### Artículo 9
 
-Los trabajadores de los cementerios municipales, regidos por el Código del Trabajo, sólo podrán acceder a la bonificación adicional del artículo anterior siempre que entre el 1 de julio de 2014 y el 31 de diciembre de 2025 cumplan o hayan cumplido 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres; se encuentren afiliados al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema; y cuenten con un mínimo de diez años de servicios continuos o discontinuos prestados en la administración municipal a la fecha de inicio del respectivo período de postulación a los cupos que se refiere el artículo 4.
+Los trabajadores de los cementerios municipales, los vigilantes contratados por las municipalidades y médicos que se desempeñen en gabinetes sicotécnicos, todos regidos por el Código del Trabajo, sólo podrán acceder a la bonificación adicional del artículo anterior siempre que tengan cumplido 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres; se encuentren afiliados al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema; y cuenten con un mínimo de diez años de servicios continuos o discontinuos prestados en la administración municipal a la fecha de inicio del respectivo período de postulación a los cupos que se refiere el artículo 4.
 
 Para tener derecho a la bonificación adicional, los trabajadores señalados en el inciso anterior deberán terminar su contrato de trabajo, sea por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva, o hasta el día 1 del quinto mes siguiente al cumplimiento de los 65 años de edad, si esta fecha es posterior a aquélla, según lo dispuesto en el inciso séptimo del artículo 5.
 
@@ -118,7 +112,17 @@ Los trabajadores a que se refiere este artículo deberán postular a los cupos s
 
 Las trabajadoras señaladas en el inciso primero podrán postular a la bonificación adicional desde que cumplan 60 años y hasta el período que les corresponda postular a los 65 años de edad, cumpliendo con las demás condiciones fijadas por este artículo. Con todo, las funcionarias que postulen antes del cumplimiento de los 65 años de edad y sean seleccionadas deberán terminar su contrato de trabajo, sea por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia. Si la funcionaria no hiciere efectiva su renuncia dentro de dicho plazo perderá su cupo, pero podrá postular en los períodos siguientes hasta aquel en que le corresponda postular a los 65 años de edad.
 
-Los trabajadores y las trabajadoras señalados en el inciso primero que, con anterioridad al 1 de julio de 2014, hayan tenido más de 65 años de edad, también podrán acceder a la bonificación adicional. Estos trabajadores sólo podrán postular en el primer período de postulación a que se refiere el artículo primero transitorio, y si no postulan en dicha fecha se entenderá que renuncian irrevocablemente a este beneficio.
+Los trabajadores y las trabajadoras señalados en el inciso primero podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederán a la bonificación adicional en forma decreciente, según la época de postulación, conforme a las reglas que a continuación se indican, las que serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027:
+
+a) Primer período de postulación: En este período podrán postular trabajadores que cumplan 65 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria de acuerdo a lo dispuesto en el inciso primero del artículo 7. Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad de la bonificación adicional, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrán postular los trabajadores que cumplan 66 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5. En este caso sólo podrán acceder al 75% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrán postular los trabajadores que cumplan 67 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5. En este caso sólo podrán acceder al 55% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrán postular los trabajadores que cumplan 68 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5. En este caso sólo podrán acceder al 30% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrán postular los trabajadores que cumplan 69 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5. En este caso sólo podrán acceder al 10% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
 
 Los trabajadores y las trabajadoras señalados en este artículo que no postulen en los plazos que establezca el reglamento o la ley, según corresponda, o no terminen sus contratos de trabajos conforme al inciso segundo, se entenderá que renuncian irrevocablemente a la bonificación adicional.
 
@@ -138,6 +142,44 @@ El bono por trabajo pesado ascenderá a 10 unidades de fomento por cada año cot
 
 Este bono por trabajo pesado será de cargo fiscal, no será imponible ni constituirá renta para ningún efecto legal y, en consecuencia, no estará afecto a descuento alguno. Asimismo, se pagará por la municipalidad empleadora en el mes siguiente al de la fecha del cese de funciones.
 
+#### Artículo 11 bis
+
+El personal afecto a la presente ley podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederán a los beneficios decrecientes, según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 65 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria de acuerdo a lo dispuesto en el inciso primero del artículo 7.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad de los beneficios a que refieren los artículos 1, 8, 10 y 11, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 66 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5.
+
+En este caso sólo podrán acceder al 75% de los beneficios a que refieren los artículos 1, 8, 10 y 11, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 67 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5.
+
+En este caso sólo podrán acceder al 55% de los beneficios a que refieren los artículos 1, 8, 10 y 11, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 68 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5.
+
+En este caso sólo podrán acceder al 30% de los beneficios a que refieren los artículos 1, 8, 10 y 11, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 69 años de edad, en el o los plazos que fije el reglamento. En este caso deberán hacer efectiva su renuncia voluntaria a más tardar el día 1 del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva señalado en el inciso séptimo del artículo 5.
+
+En este caso sólo podrán acceder al 10% de los beneficios a que refieren los artículos 1, 8, 10 y 11, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncian irrevocablemente a todos los beneficios establecidos en esta ley.
+
+Las funcionarias podrán optar por comunicar su decisión de hacer efectiva su renuncia voluntaria desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder a los beneficios señalados en los artículos 1, 8, 10 y 11, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y
+
+- **e)** según corresponda.
+
+Los beneficios decrecientes señalados en el inciso anterior serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027.
+
 #### Artículo 12
 
 Si el personal beneficiario de esta ley no postula en las fechas que establezca el reglamento, o no hace efectiva su renuncia voluntaria dentro de los plazos señalados en esta ley, se entenderá que renuncia irrevocablemente a sus beneficios.
@@ -153,6 +195,8 @@ Tanto la bonificación a que se refiere el artículo 1 como la adicional contemp
 Los funcionarios que cesen en sus empleos por aplicación de lo dispuesto en esta ley no podrán ser nombrados ni contratados asimilados a grado o sobre la base de honorarios en municipalidades ni en corporaciones municipales durante los cinco años siguientes al término de su relación laboral, a menos que previamente devuelvan la totalidad del beneficio percibido, debidamente reajustado conforme a la variación del índice de precios al consumidor determinado por el Instituto Nacional de Estadística, entre el mes del pago del beneficio respectivo y el mes anterior al de la restitución, más el interés corriente para operaciones reajustables.
 
 Lo dispuesto en el inciso anterior también será aplicable a los trabajadores señalados en el artículo 9, quienes tampoco podrán ser contratados en los términos del Código del Trabajo en los cementerios municipales.
+
+Lo dispuesto en el inciso primero también se aplicará respecto de los vigilantes y médicos en gabinetes sicotécnicos quienes tampoco podrán ser contratados en los términos del Código del Trabajo en las entidades a que se refiere dicho inciso.
 
 #### Artículo 15
 
@@ -174,7 +218,7 @@ El reglamento de que trata este artículo deberá dictarse dentro de los noventa
 
 El mayor gasto que represente la aplicación del artículo 1 de esta ley será de cargo municipal.
 
-Con tal objeto, facúltase al Servicio de Tesorerías para que, durante el período de vigencia de esta ley, efectúe anticipos con cargo al Fondo Común Municipal para destinarlos al pago de la bonificación por retiro establecida en el artículo 1, conforme a las reglas siguientes:
+Con tal objeto, facúltase al Servicio de Tesorerías para que efectúe anticipos con cargo al Fondo Común Municipal para destinarlos al pago de la bonificación por retiro establecida en el artículo 1, conforme a las reglas siguientes:
 
 a) La municipalidad interesada deberá suscribir un convenio con la Subsecretaría de Desarrollo Regional y Administrativo, el que deberá ser visado por la Dirección de Presupuestos del Ministerio de Hacienda. En el convenio se acordarán los montos que se anticiparán y las condiciones en que tales anticipos se descontarán de futuras cuotas del Fondo Común Municipal, o de los montos que les corresponda por recaudación del impuesto territorial.
 
@@ -231,6 +275,10 @@ La Subsecretaría publicará en el Diario Oficial un extracto de la referida res
 #### Artículo segundo
 
 El mayor gasto fiscal que represente la aplicación de esta ley durante el presente año se financiará con cargo al Presupuesto del Ministerio del Interior y Seguridad Pública. No obstante lo anterior, el Ministerio de Hacienda, con cargo a la partida presupuestaria del Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no se pudiere financiar con esos recursos.".
+
+#### Artículo tercero
+
+Los trabajadores vigilantes contratados por las municipalidades y médicos que se desempeñen en gabinetes sicotécnicos, todos regidos por el Código del Trabajo, solo podrán acceder a la bonificación adicional del artículo 9, a contar del proceso de adjudicación de cupos correspondiente al año 2026.
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
