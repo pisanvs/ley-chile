@@ -10,13 +10,15 @@ Decreto:
 
 Créase una comisión interinstitucional denominada "Comisión Coordinadora para dar cumplimiento a las Obligaciones del Estado de Chile en materia de Derecho Internacional de los Derechos Humanos" en adelante "la Comisión", cuyo objetivo será servir de instancia de coordinación, de acuerdo a los requerimientos internacionales, en la entrega de antecedentes que deben aportar los organismos públicos para elaborar las respuestas que el Estado de Chile, a través del Ministerio de Relaciones Exteriores, debe proporcionar a los diversos mecanismos internacionales de supervisión, promoción y protección del derecho internacional de los derechos humanos, tanto a nivel universal como interamericano, sin perjuicio de aquellos casos en que las normas legales o tratados internacionales puedan imponer directamente a un órgano del Estado aportar la información que se les requiera en la materia.
 
+También la comisión podrá recopilar información, analizarla y hacer su seguimiento, a fin de sugerir medidas en la implementación de las recomendaciones y sentencias formuladas por los citados mecanismos internacionales en materia de derechos humanos, así como para los compromisos asumidos en acuerdos de soluciones amistosas y acuerdos de cumplimiento de recomendaciones suscritos por el Estado de Chile
+
 #### Artículo 2
 
 La Comisión estará integrada por representantes de las siguientes instituciones:
 
 a) Ministerio de Relaciones Exteriores, quien la presidirá.
 
-b) Ministerio del Interior.
+b) Ministerio del Interior y Seguridad Pública.
 
 c) Ministerio de Defensa Nacional.
 
@@ -24,29 +26,41 @@ d) Ministerio Secretaría General de la Presidencia.
 
 e) Ministerio Secretaría General de Gobierno.
 
-f) Ministerio de Educación.
+f) Ministerio de Desarrollo Social y Familia.
 
-g) Ministerio de Justicia.
+g) Ministerio de Educación.
 
-h) Ministerio del Trabajo y Previsión Social.
+h) Ministerio de Justicia y Derechos Humanos.
 
-i) Ministerio de Salud.
+i) Ministerio del Trabajo y Previsión Social.
 
-j) Ministerio de Planificación.
+j) Ministerio de Salud.
 
-k) Servicio Nacional de la Mujer.
+k) Ministerio de la Vivienda y Urbanismo.
 
-l) Ministerio Público.
+l) Ministerio del Medio Ambiente.
 
-m) Carabineros de Chile.
+m) Ministerio de la Mujer y la Equidad de Género.
 
-n) Policía de Investigaciones de Chile.
+n) Ministerio Público.
 
-o) Defensoría Penal Pública.
+o) Carabineros de Chile.
 
-p) Gendarmería de Chile.
+p) Policía de Investigaciones de Chile.
 
-q) Servicio Nacional de Menores.
+q) Defensoría Penal Pública.
+
+r) Gendarmería de Chile.
+
+s) Servicio Nacional de Protección Especializada de la Niñez y Adolescencia.
+
+t) Servicio Nacional de Menores.
+
+u) Servicio Nacional de Reinserción Social Juvenil.
+
+v) Servicio Nacional de Migraciones.
+
+Adicionalmente, podrán asistir en calidad de invitados, con derecho a voz, el/la Director/a de Presupuestos del Ministerio de Hacienda y representantes de otros órganos y funcionarios/as de la Administración del Estado y de otros poderes del Estado que sean invitados por acuerdo de la Comisión.
 
 #### Artículo 3
 
@@ -62,7 +76,7 @@ La Comisión sesionará a requerimiento de su Presidente o de a lo menos cinco d
 
 #### Artículo 6
 
-La Comisión contará con una Secretaría radicada en la Dirección General de Política Exterior del Ministerio de Relaciones Exteriores.
+La Comisión contará con una Secretaría radicada en la División de Derechos Humanos de la Secretaría General de Política Exterior de la Subsecretaría de Relaciones Exteriores, la cual contará con la asesoría técnica y colaboración de la Subsecretaría de Derechos Humanos del Ministerio de Justicia y Derechos Humanos.
 
 #### Artículo 7
 
