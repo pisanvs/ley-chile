@@ -30,6 +30,12 @@ f) Servicios provenientes desde Oriente con destino Poniente, Viña del Mar:
 
 Av. Freire - San Martín - Av. Los Carrera - Av. Blanco Encalada - Camino Marga Marga - Troncal sur
 
+g) Servicios provenientes desde Santiago, vía Lo Orozco hacia Estación Belloto EFE, ubicado en calle Aviador Acevedo:
+
+Ida: Camino Marga Marga - Recoleta - V Centenario - Badén Powell - Av. Industrial - Aviador Acevedo.
+
+Regreso: Aviador Acevedo - Av. Industrial - Badén Powell - V Centenario - Recoleta - Camino Marga Marga.
+
 2º La presente resolución entrará en vigencia 30 días después de su publicación en el Diario Oficial.
 
 3º Carabineros de Chile e Inspectores fiscales y municipales fiscalizarán el fiel cumplimiento de la presente resolución.
