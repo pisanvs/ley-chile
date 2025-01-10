@@ -102,6 +102,8 @@ Conforme a los gastos que rinda al momento de presentar a cobro el certificado d
 
 10. El Certificado de Subsidio Habitacional tendrá una vigencia de 21 meses, contados desde la fecha de su emisión, consignada en el respectivo Certificado, siendo aplicables las disposiciones de plazo adicional y nuevo plazo de vigencia establecidas en el DS N° 1 (V. y U.), de 2011.
 
+Excepcionalmente el Secretario Regional Ministerial de Vivienda y Urbanismo, a solicitud del Serviu de la región, podrá por una sola vez, mediante resolución fundada, otorgar un nuevo plazo de vigencia de hasta 12 meses a contar de la fecha de la resolución que lo otorgue, en los casos en que se haya aplicado lo dispuesto en el inciso final del artículo 36, del DS N° 1 (V. y U.), de 2011.
+
 11. Quienes construyan las viviendas en la modalidad de construcción en sitio propio o densificación predial, deberán estar inscritos en el Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, normado por el DS N° 63 (V. y U.), de 1997, Reglamento del Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, a lo menos en Cuarta Categoría.
 
 El contratista o empresa constructora que construya la vivienda, deberá dar aviso al Serviu del inicio de las obras, el que podrá supervisar el avance de las obras durante su ejecución. Para el pago del subsidio, el Serviu deberá haber verificado previamente que la vivienda está terminada y que cumple con lo establecido en el resuelvo 6 de esta resolución.
