@@ -266,6 +266,8 @@ Ministros de Estado:
 
 - Ciencia, Tecnología, Conocimiento e Innovación
 
+Presidente de la Comisión para la Fijación de Remuneraciones
+
 Decano del Cuerpo Diplomático
 
 Embajadores Extranjeros
@@ -293,6 +295,8 @@ Ministros y Fiscal de la Corte Suprema
 Ministros del Tribunal Constitucional
 
 Miembros del Tribunal Calificador de Elecciones
+
+Consejeras y Consejeros del Servicio Electoral
 
 Diputados en orden alfabético
 
@@ -388,7 +392,9 @@ Director del Instituto Nacional de Derechos Humanos
 
 Defensor de los Derechos de la Niñez
 
-Intendente de la Región Metropolitana
+Gobernador Regional de la Región Metropolitana
+
+Delegado Presidencial Regional de la Región Metropolitana
 
 Alcalde de Santiago
 
@@ -426,7 +432,7 @@ Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción
 
 Presidente del Instituto de Chile
 
-Gobernadores Provinciales de la Región Metropolitana
+Delegados Presidenciales Provinciales de la Región Metropolitana
 
 Directores del Ministerio de Relaciones Exteriores con grado o rango de Embajador
 
@@ -514,7 +520,9 @@ Terceros Secretarios chilenos.
 
 B. En los actos y ceremonias oficiales celebradas en Regiones y Provincias, sin perjuicio de que las autoridades contempladas precedentemente mantengan la ubicación que les corresponde cuando asistan, la precedencia de las autoridades regionales será la siguiente:
 
-Intendente Regional
+Gobernador Regional
+
+Delegado Presidencial Regional
 
 Senadores de la Circunscripción por antigüedad
 
@@ -526,7 +534,7 @@ Contralor Regional
 
 Fiscal Regional del Ministerio Público
 
-Gobernador Provincial
+Delegado Presidencial Provincial
 
 Secretarios Regionales Ministeriales
 
@@ -634,7 +642,7 @@ Todas aquellas autoridades que detenten una o más calidades serán consideradas
 
 #### Artículo 39
 
-Si el Presidente de la República no asistiere será representado por el Ministro de Estado que correspondiere según el orden de precedencia señalado anteriormente y, en ausencia de Ministros de Estado, por el Intendente Regional o el Gobernador Provincial y, a falta de ellos, por la principal autoridad civil, según sea el caso.
+Si el Presidente de la República no asistiere será representado por el Ministro de Estado que correspondiere según el orden de precedencia señalado anteriormente y, en ausencia de Ministros de Estado, por el Delegado Presidencial Regional o el Delegado Presidencial Provincial y, a falta de ellos, por la principal autoridad civil, según sea el caso.
 
 En caso de ausencia del Presidente del Senado, será representado por el Vicepresidente del Senado o por el Senador más antiguo de la Circunscripción que estuviere presente o, si no asiste Senador alguno de ésta, por el Senador más antiguo que concurra.
 
