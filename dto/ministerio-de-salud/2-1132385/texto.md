@@ -86,561 +86,619 @@ Decreto:
 
 1º Determínanse como diagnósticos y tratamientos de alto costo para condiciones específicas de salud con sistema de protección financiera de la ley Nº 20.850 los siguientes:
 
-1. DIAGNÓSTICO Y TRATAMIENTO BASADO EN LARONIDASA PARA LA ENFERMEDAD DE MUCOPOLISACARIDOSIS TIPO I
+1. DIAGNÓSTICO Y TRATAMIENTO BASADO EN LARONIDASA PARA PERSONAS CON ENFERMEDAD DE MUCOPOLISACARIDOSIS TIPO I
 
-a) Definición:
+La Mucopolisacaridosis tipo I es una enfermedad del grupo de los errores innatos del metabolismo lisosomal, de carácter autosómica recesiva. Es causada por una acumulación progresiva de sustratos complejos de glucosaminoglucanos, dermatán y heparán sulfato, debido a la deficiencia de la enzima alfa-L-iduronidasa. Este depósito lisosomal se produce en una amplia variedad de órganos, lo que conlleva a una disfunción multiorgánica debilitante y fatal, con presentación clínica variable.
 
-La mucopolisacaridosis tipo I es una enfermedad del grupo de los errores innatos del metabolismo lisosomal, de carácter autosómica recesiva. Es causada por una acumulación progresiva de sustratos complejos de glucosaminoglucanos, dermatán y heparán sulfato, debido a la deficiencia de la enzima alfa-L-iduronidasa. Este depósito lisosomal se produce en una amplia variedad de órganos, lo que conlleva a una disfunción multiorgánica debilitante y fatal, con presentación clínica variable.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas con sospecha o diagnóstico de Mucopolisacaridosis tipo I que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1. Confirmación diagnóstica indispensable: Examen de medición de la actividad enzimática en fibroblastos o leucocitos, o examen genético molecular según indicación.
+b) Prestaciones garantizadas
 
-b.2. Tratamiento: Terapia de reemplazo enzimático con Laronidasa.
+b.1 Confirmación diagnós tica
 
-c) Garantía de Oportunidad:
+Examen de medición de la actividad enzimática en fibroblastos o leucocitos, o examen genético molecular según indicación para el diagnóstico.
 
-1.- Para el examen de medición de la actividad enzimática en fibroblastos o leucocitos: Con sospecha clínica fundada, el procesamiento de la muestra y su resultado se realizará dentro del plazo de 20 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática en la institución confirmadora. En caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, se debe realizar un examen genético molecular en un plazo de 90 días.
+b.2 Tratamiento
 
-2.- Inicio de tratamiento: Con confirmación diagnóstica, el inicio del tratamiento con Laronidasa se realizará en un plazo de 60 días.
+Medicamento Laronidasa para terapia de reemplazo enzimático.
 
-3.- Continuidad de atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+c) Garantías de oportunidad
 
-d) Seguimiento:
+c.1. Confirmación Diagnóstica
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para el tratamiento basado en Laronidasa para la enfermedad de mucopolisacaridosis Tipo I.
+El procesamiento de la muestra y resultado de examen de medición de la actividad enzimática en fibroblastos o leucocitos se realizará dentro de 20 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática por el prestador aprobado para la etapa de confirmación.
 
-2. DIAGNÓSTICO Y TRATAMIENTO BASADO EN IDURSULFASA PARA LA ENFERMEDAD DE MUCOPOLISACARIDOSIS TIPO II
+El examen genético molecular se realizará, en caso de existir dos exámenes de determinac ión de actividad enzimática con resultado indeterminado, dentro de 90 días desde la recepción de la muestra por el prestador aprobado para la etapa de confirmación.
 
-a) Definición:
+c.2. Tratamiento
 
-La mucopolisacaridosis tipo II o Síndrome de Hunter es un trastorno hereditario que presenta un patrón de herencia ligada al cromosoma X y es causada por el déficit de la enzima iduronatosulfatasa que participa en la degradación de dermatán sulfato y heparansulfato.
+El inicio del tratamiento con Laronidasa se realizará con confirmación diagnóstica y cumplimiento de los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, dentro de 60 días desde la solicitud del tratamiento.
 
-En la mucopolisacaridosis tipo II se acumulan cantidades perjudiciales de glucosaminoglucanos, dermatán y heparán sulfato en la matriz extracelular del tejido conectivo. Esta acumulación es progresiva, por lo que con el tiempo los síntomas se evidencian con mayor severidad.
+Estando en tratamiento con Laronidasa, previo a ser beneficiario de esta ley, y cumpliendo con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
 
-b) Prestaciones Garantizadas:
+d) Continuidad de la atención
 
-b.1. Confirmación diagnóstica indispensable: Examen de medición de la actividad enzimática en fibroblastos o leucocitos, o examen genético molecular según indicación.
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-b.2. Tratamiento: Terapia de reemplazo enzimático con Idursulfasa.
+2. DIAGNÓSTICO Y TRATAMIENTO BASADO EN IDURSULFASA PARA PERSONAS CON ENFERMEDAD DE MUCOPOLISACARIDOSIS TIPO II
 
-c) Garantía de Oportunidad:
+La Mucopolisacaridosis tipo II o Síndrome de Hunter es un trastorno hereditario que presenta un patrón de herencia ligada al cromosoma X y es causada por el déficit de la enzima iduronatosulfatasa que participa en la degradación de dermatán sulfato y heparansulfato.
 
-1.- Para el examen de medición de la actividad enzimática en fibroblastos o leucocitos: Con sospecha clínica fundada, el procesamiento de la muestra y su resultado se realizará dentro del plazo de 20 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática en la institución confirmadora. En caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, se debe realizar un examen genético molecular en un plazo de 90 días.
+En la Mucopolisacaridosis tipo II se acumulan cantidades perjudiciales de glucosaminoglucanos, dermatán y heparán sulfato en la matriz extracelular del tejido conectivo. Esta acumulación es progresiva, por lo que con el tiempo los síntomas se evidencian con mayor severidad.
 
-2.- Inicio de tratamiento: Con confirmación diagnóstica, el inicio del tratamiento con Idursulfasa se realizará en un plazo de 60 días.
+a) Población beneficiaria
 
-3.- Continuidad de atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+Personas con sospecha o diagnóstico de Mucopolisacaridosis tipo II que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-d) Seguimiento:
+b) Prestaciones garantizadas
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para el tratamiento basado en Idursulfasa para la enfermedad de mucopolisacaridosis tipo II.
+b.1. Confirmación diagnóstica
 
-3. DIAGNÓSTICO Y TRATAMIENTO BASADO EN GALSULFASA PARA LA ENFERMEDAD DE MUCOPOLISACARIDOSIS TIPO VI
+Examen de medición de la actividad enzimática en fibroblastos o leucocitos, o examen genético molecular según indicación para el diagnóstico.
 
-a) Definición:
+b.2. Tratamiento
 
-La mucopolisacaridosis tipo VI es una enfermedad autosómica recesiva causada por la deficiencia de la enzima lisosomal arilsulfatasa B o N -acetilgalactosamina-4- sulfatasa. Esto da como resultado la acumulación patológica de dermatán sulfato a nivel celular en distintos tejidos.
+Medicamento Idursulfasa para terapia de reemplazo enzimático.
 
-b) Prestaciones Garantizadas:
+c) Garantías de oportunidad
 
-b.1. Confirmación diagnóstica indispensable: Examen de medición de la actividad enzimática en fibroblastos o leucocitos, o examen genético molecular según indicación.
+c.1. Confirmación Diagnóstica
 
-b.2. Tratamiento: Terapia de reemplazo enzimático con Galsulfasa.
+El procesamiento de la muestra y resultado de examen de medición de la actividad enzimática en fibroblastos o leucocitos se realizará dentro de 20 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática por el prestador aprobado en la etapa de confirmación.
 
-c) Garantía de Oportunidad:
+El examen genético molecular se realizará, en caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, dentro de 90 días desde la recepción de la muestra por el prestador aprobado para la etapa de confirmación.
 
-1.- Para el examen de medición de la actividad enzimática en fibroblastos o leucocitos: Con sospecha clínica fundada, el procesamiento de la muestra y su resultado se realizará dentro del plazo de 20 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática en la institución confirmadora. En caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, se debe realizar un examen genético molecular en un plazo de 90 días.
+c.2. Tratamiento
 
-2.- Inicio de tratamiento: Con confirmación diagnóstica, el inicio del tratamiento con Galsulfasa se realizará en un plazo de 60 días.
+El inicio del tratamiento con Idursulfasa se realizará con confirmación diagnóstica y cumplimiento de los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, dentro de 60 días desde la solicitud del tratamiento.
 
-3.- Continuidad de atención y control en conformidad a lo prescrito por el médico para el caso específico.
+Estando en tratamiento con Idursulfasa, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestacione s de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
 
-d) Seguimiento:
+d) Continuidad de la atención
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para el tratamiento basado en Galsulfasa para la enfermedad de mucopolisacaridosis Tipo VI.
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-4. DIAGNÓSTICO Y TRATAMIENTO BASADO EN NITISINONA PARA LA TIROSINEMIA TIPO I
+3. DIAGNÓSTICO Y TRATAMIENTO BASADO EN GALSULFASA PARA PERSONAS CON ENFERMEDAD DE MUCOPOLISACARIDOSIS TIPO VI
 
-a) Definición:
+La Mucopolisacaridosis tipo VI es una enfermedad autosómica recesiva causada por la deficiencia de la enzima lisosomal Arilsulfatasa B o N -acetilgalactosamina-4-sulfatasa. Esto da como resultado la acumulación patológica de dermatán sulfato a nivel celular en distintos tejidos.
+
+a) Población beneficiaria
+
+Personas con sospecha o diagnóstico de Mucopolisacaridosis tipo VI que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
+
+b) Prestaciones garantizadas
+
+b.1. Confirmación diagnóstica
+
+Examen de medición de la actividad enzimática en fibroblastos o leucocitos, o examen genético molecular según indicación para el diagnóstico.
+
+b.2. Tratamiento
+
+Medicamento Galsulfasa para terapia de reemplazo enzimático.
+
+c) Garantías de oportunidad
+
+c.1. Confirmación Diagnóstica
+
+El procesamiento de la muestra y resultado de examen de medición de la actividad enzimática en fibroblastos o leucocitos se realizará dentro de 20 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática por el prestador aprobado en la etapa de confirmación.
+
+El examen genético molecular se realizará, en caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, dentro de 90 días desde la recepción de la muestra por el prestador aprobado para la etapa de confirmación.
+
+c.2. Tratamiento
+
+El inicio del tratamiento con Galsulfasa se realizará con confirmación diagnóstica y cumplimiento de los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, dentro de 60 días desde la solicitud del tratamiento. Estando en tratamiento con Galsulfasa, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+4. DIAGNÓSTICO Y TRATAMIENTO BASADO EN NITISINONA PARA PERSONAS CON TIROSINEMIA TIPO I
 
 La tirosinemia tipo I es una enfermedad metabólica que se produce por el déficit de las enzimas fumarilacetoacetasa hidrolasa, produciendo la acumulación de fumarilacetoacetato y maleilacetoacetato que serían agentes productores del daño hepatorrenal.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Confirmación diagnóstica indispensable: Examen de determinación de niveles elevados de succinilacetona en plasma u orina.
+Personas con sospecha o diagnóstico de tirosinemia tipo I que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.2. Tratamiento: Terapia de reemplazo enzimático con Nitisinona.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1. Confirmación diagnóstica
 
-1.- Con sospecha clínica fundada y laboratorio compatible (tirosina elevada por espectrometría de masa en tándem en papel filtro, succinilacetona elevada en plasma u orina por cromatografía de gases-espectrometría de masas (GC/MS)), comenzará a hacer uso del beneficio específico de inicio de tratamiento en un plazo de 48 horas, desde la recepción del formulario de sospecha fundada y de la muestra de sangre u orina.
+Examen de determinación de niveles elevados de succinilacetona en plasma u orina.
 
-2.- Para la confirmación diagnóstica, por determinación de niveles de succinilacetona en plasma u orina, la institución confirmadora tendrá un plazo de 4 días hábiles.
+b.2. Tratamiento
 
-3.- Con diagnóstico confirmado, continuará tratamiento.
+Medicamento Nitisinona para terapia de reemplazo enzimático
 
-4.- Continuidad de atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+c) Garantías de oportunidad
 
-d) Seguimiento:
+c.1. Confirmación Diagnóstica
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para el tratamiento basado en Nitisinona para la tirosinemia tipo I.
+El procesamiento de la muestra y resultado de examen de medición por determinación de niveles de succinilacetona en plasma u orina se realizará dentro de 4 días hábiles desde la recepción del formulario de sospecha fundada y la muestra de sangre u orina, por el prestador aprobado en la etapa de confirmación.
 
-5. TRATAMIENTO DE SEGUNDA LÍNEA BASADO EN FINGOLIMOD O NATALIZUMAB O ALEMTUZUMAB O CLADRIBINA U OCRELIZUMAB PARA PERSONAS CON ESCLEROSIS MÚLTIPLE RECURRENTE REMITENTE CON FALLA A TRATAMIENTO CON INMUNOMODULADORES Y TRATAMIENTO CON OCRELIZUMAB PARA PERSONAS CON ESCLEROSIS MÚLTIPLE PRIMARIA PROGRESIVA
+c.2. Tratamiento
 
-a) Definición:
+El inicio del tratamiento con Nitisinona se realizará con sospecha clínica fundada y laboratorio compatible (tirosina elevada por espectrometría de masa en tándem de papel filtro o succinilacetona elevada en plasma u orina por cromatografía de gases, espectrometría de masa (CG/MS)), dentro de 48 horas desde la recepción del formulario de sospecha fundada y de la muestra de sangre u orina por el prestador aprobado en la etapa de tratamiento. Con diagnóstico confirmado de tirosinemia tipo 1 tendrá acceso a continuar el tratamiento con Nitisinona.
+
+Estando en tratamiento con Nitisinona, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 48 horas, desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+5. TRATAMIENTO DE SEGUNDA LÍNEA BASADO EN FINGOLIMOD O NATALIZUMAB O ALEMTUZUMAB O CLADRIBINA U OCRELIZUMAB U OFATUMUMAB PARA PERSONAS CON ESCLEROSIS MÚLTIPLE RECURRENTE REMITENTE CON FALLA A TRATAMIENTO CON INMUNOMODULADORES Y TRATAMIENTO CON OCRELIZUMAB PARA PERSONAS CON ESCLEROSIS MÚLTIPLE PRIMARIA PROGRESIVA
 
 La Esclerosis Múltiple, corresponde a una enfermedad desmielinizante del sistema nervioso central, que se manifiesta con variada sintomatología deficitaria según el territorio anatómico afectado.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Tratamiento farmacológico: Fingolimod o Natalizumab o Alemtuzumab o Cladribina u Ocrelizumab.
+Personas con diagnóstico de esclerosis múltiple recurrente remitente con falla a tratamiento con inmunomoduladores, o con diagnóstico de esclerosis múltiple primaria progresiva, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1.1. En personas con Esclerosis Múltiple Recurrente Remitente con falla a terapia con fármacos inmunomoduladores, que cumplan los criterios de inclusión establecidos en el protocolo para esta condición de salud, se garantizará el tratamiento farmacológico con Fingolimod o Natalizumab o Alemtuzumab o Cladribina u Ocrelizumab.
+b) Prestaciones garantizadas
 
-b.1.2. En personas con Esclerosis Múltiple Primaria Progresiva, que cumplan los criterios de inclusión establecidos en el protocolo para esta condición de salud, se garantizará el tratamiento farmacológico con Ocrelizumab.
+b.1. Tratamiento
 
-b.1.3. Para la continuidad de tratamientos en personas ya usuarias de fármacos inmunomoduladores, se considerará la transición a los fármacos cubiertos por el fondo en las condiciones que se establecen en el protocolo para esta condición de salud.
+Medicamento Fingolimod o Natalizumab o Alemtuzumab o Cladribina u Ocrelizumab u Ofatumumab, para tratamiento farmacológico de esclerosis múltiple recurrente remitente con falla a tratamiento con inmunomoduladores.
 
-c) Garantía de Oportunidad:
+Medicamento Ocrelizumab, para tratamiento farmacológico de esclerosis múltiple primaria progresiva.
 
-c.1. Las personas que cumplan con los criterios de inclusión establecidos en el protocolo para esta condición de salud, harán uso del beneficio específico de inicio o continuidad de tratamiento con Fingolimod o Natalizumab o Alemtuzumab o Cladribina u Ocrelizumab, en un plazo no mayor a 60 días, desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+c) Garantías de oportunidad
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c.1. Tratamiento
 
-d) Seguimiento:
+Las personas que tengan confirmación del diagnóstico de esclerosis múltiple recurrente remitente con falla a tratamiento con inmunomoduladores, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Fingolimod o Natalizumab o Alemtuzumab o Cladribina u Ocrelizumab u Ofatumumab, según la indicación del médico tratante registrada al momento de generar la solicitud, dentro de 60 días desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme a lo establecido en el protocolo del Ministerio de Salud para el Tratamiento con Fingolimod o Natalizumab o Alemtuzumab o Cladribina u Ocrelizumab para personas con Esclerosis Múltiple Recurrente Remitente con falla a tratamiento con inmunomodulares y Tratamiento con Ocrelizumab para personas con Esclerosis Múltiple Primaria Progresiva.
+Las personas que tengan confirmación del diagnóstico de esclerosis múltiple primaria progresiva que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Ocrelizumab dentro de 60 días desde la solicitud del tratamiento.
 
-6. DIAGNÓSTICO Y TRATAMIENTO BASADO EN TALIGLUCERASA O IMIGLUCERASA PARA LA ENFERMEDAD DE GAUCHER
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
 
-a) Definición:
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+6. DIAGNÓSTICO Y TRATAMIENTO BASADO EN TALIGLUCERASA O IMIGLUCERASA PARA PERSONAS CON ENFERMEDAD DE GAUCHER
 
 La enfermedad de Gaucher es una enfermedad que se produce por el déficit de la enzima lisosomal glucocerebrosidasa que se transmite de manera autosómica recesiva. Se caracteriza por el compromiso visceral, hematológico y óseo.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Confirmación diagnóstica indispensable: Examen de medición de la actividad enzimática en leucocitos o examen genético molecular según indicación.
+Personas con sospecha o diagnóstico de enfermedad de Gaucher, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.2. Tratamiento: Terapia de reemplazo enzimática con Taliglucerasa o Imiglucerasa.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1. Confirmación diagnóstica
 
-1.- Para el examen de medición de la actividad enzimática en leucocitos: Con sospecha clínica fundada, el procesamiento de la muestra y su resultado se realizará dentro del plazo de 21 días desde la recepción del formulario de sospecha fundada en la institución confirmadora. En caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, se debe realizar un examen genético molecular en un plazo de 90 días.
+Examen de medición de la actividad enzimática en leucocitos o examen genético molecular según indicación.
 
-2.- Inicio de Tratamiento: Con confirmación diagnóstica, el inicio de tratamiento se realizará en un plazo de 60 días.
+b.2. Tratamiento
 
-3.- Continuidad de la atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+Medicamento Taliglucerasa o Imiglucerasa para terapia de reemplazo enzimático.
 
-d) Seguimiento:
+c) Garantías de oportunidad
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para tratamiento basado en Taliglucerasa o Imiglucerasa para enfermedad de Gaucher.
+c.1. Confirmación Diagnóstica
 
-7. DIAGNÓSTICO Y TRATAMIENTO BASADO EN AGALSIDASA PARA LA ENFERMEDAD DE FABRY
+El procesamiento de la muestra y resultado de examen de medición de la actividad enzimática en leucocitos se realizará dentro de 21 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática, por el prestador aprobado en la etapa de confirmación.
 
-a) Definición:
+El examen genético molecular se realizará, en caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado, dentro de 90 días desde la recepción de la muestra por el prestador aprobado para la etapa de confirmación.
+
+c.2. Tratamiento
+
+El inicio del tratamiento con Taliglucerasa o Imiglucerasa, se realizará con confirmación diagnóstica y cumplimiento de los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, dentro de 60 días desde la solicitud del tratamiento.
+
+Estando en tratamiento con Taliglucerasa o Imiglucerasa, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
+
+d) Continuidad de atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+7. DIAGNÓSTICO Y TRATAMIENTO BASADO EN AGALSIDASA PARA PERSONAS CON ENFERMEDAD DE FABRY
 
 La enfermedad de Fabry es una enfermedad multisistémica, crónica, progresiva, de carácter hereditario y ligada al cromosoma X. El déficit enzimático es consecuencia de una mutación en el gen de la a-galactosidasa A, determinando el depósito de glucoesfingolípidos neutros, que se acumulan en los lisosomas de diversos tejidos. El carácter progresivo de su evolución natural ocasiona una serie de complicaciones graves principalmente renales y cardiacas que reducen la expectativa y calidad de vida.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Confirmación diagnóstica:
+Personas con sospecha o diagnóstico de enfermedad de Fabry, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1.1. En Hombres medición enzimática en leucocitos o examen genético molecular según indicación.
+b) Prestaciones garantizadas
 
-b.1.2. En Mujeres examen genético molecular.
+b.1. Confirmación diagnóstica
 
-b.2. Tratamiento: Terapia de reemplazo enzimático con Agalsidasa.
+Examen de medición de la actividad enzimática en leucocitos o examen genético molecular según indicación para el diagnóstico.
 
-c) Garantía de Oportunidad:
+b.2. Tratamiento
 
-1.- Para los exámenes de confirmación diagnóstica: Con sospecha clínica fundada, el examen se realizará dentro del plazo de 30 días. En caso de existir dos exámenes de medición enzimática con resultado indeterminado para los hombres, se debe realizar un examen genético molecular dentro de un plazo de 90 días.
+Medicamento Agalsidasa alfa y beta para terapia de reemplazo enzimático.
 
-2.- Para el inicio de tratamiento: El inicio de tratamiento se realizará dentro del plazo de 60 días.
+c) Garantías de oportunidad
 
-3.- Continuidad de la atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+c.1. Confirmación diagnóstica
 
-d) Seguimiento:
+En personas de sexo masculino, el procesamiento de la muestra y resultado del examen de medición de la actividad enzimática en leucocitos se realizará dentro de 30 días desde la recepción del formulario de sospecha fundada y la muestra de leucocitos para determinación enzimática por el prestador aprobado en la etapa de confirmación. En caso de existir dos exámenes de determinación de actividad enzimática con resultado indeterminado se realizará el examen genético molecular, dentro de 90 días desde la recepción de la muestra por el prestador aprobado para la etapa de confirmación.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud basado en Agalsidasa para enfermedad de Fabry.
+En personas de sexo femenino, se realizará el examen genético molecular dentro de 30 días desde la recepción del formulario de sospecha fundada por el prestador aprobado para la etapa de confirmación.
 
-8. DIAGNÓSTICO Y TRATAMIENTO BASADO EN ILOPROST INHALATORIO O AMBRISENTAN O BOSENTAN PARA LA HIPERTENSIÓN ARTERIAL PULMONAR GRUPO I
+c.2. Tratamiento
 
-a) Definición:
+El inicio del tratamiento con Agalsidasa alfa o beta, se realizará con confirmación diagnóstica y cumplimiento de los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, dentro de 60 días desde la solicitud del tratamiento.
 
-Se define hipertensión pulmonar arterial (HAP) grupo I del punto de vista hemodinámico invasivo, como el aumento de la presión media de la arteria pulmonar >=; 25 mmHg (PAPm >=; 25 mmHg) con capilar pulmonar < 15mmHg. Es una enfermedad crónica y progresiva, de baja prevalencia pero alto impacto por su curso grave y potencialmente letal.
+Estando en tratamiento con Agalsidasa alfa o beta, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
 
-b) Prestaciones Garantizadas:
+d) Continuidad de la atención
 
-b.1. Confirmación diagnóstica indispensable: Cateterismo cardiaco.
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-b.2. Tratamiento: Iloprost Inhalatorio o Ambrisentan o Bosentan.
+8. DIAGNÓSTICO Y TRATAMIENTO BASADO EN ILOPROST INHALATORIO O AMBRISENTÁN O BOSENTÁN PARA PERSONAS CON HIPERTENSIÓN ARTERIAL PULMONAR GRUPO I
 
-c) Garantía de Oportunidad:
+Se define hipertensión pulmonar arterial (HAP) grupo I del punto de vista hemodinámico invasivo, como el aumento de la presión media de la arteria pulmonar ≥ 25 mmHg (PAPm ≥ 25 mmHg) con capilar pulmonar ≤ 15mmHg. Es una enfermedad crónica y progresiva, de baja prevalencia, pero alto impacto por su curso grave y potencialmente letal.
 
-1.- Para el examen de cateterismo cardiaco: Con sospecha clínica fundada, el examen se realizará en un plazo no mayor a 40 días hábiles desde la recepción del formulario de sospecha fundada.
+a) Población beneficiaria
 
-2.- Con confirmación diagnóstica de falla a tratamiento de primera línea, validada por el Comité de Expertos Clínicos del Prestador Aprobado, hará uso del beneficio específico de inicio de tratamiento con Ambrisentán o Bosentán en adultos y sólo Bosentán en niños, en un plazo no mayor a 15 días desde la confirmación por parte del comité de expertos, y en personas hospitalizadas en UCI, no más de 72 horas.
+Personas con sospecha o diagnóstico de hipertensión arterial pulmonar del grupo I, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-3.- Continuidad de la atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+b) Prestaciones garantizadas
 
-d) Seguimiento:
+b.1. Confirmación diagnóstica
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud, tratamiento basado en Iloprost inhalatorio o Ambrisentan o Bosentan para hipertensión arterial pulmonar grupo I.
+Examen de cateterismo cardiaco según indicación para el diagnóstico.
 
-9. TRATAMIENTO BASADO EN TRASTUZUMAB PARA EL CÁNCER DE MAMAS QUE SOBREEXPRESE EL GEN HER2
+b.2. Tratamiento
 
-a) Definición:
+Medicamento Iloprost inhalatorio o Ambrisentán o Bosentán.
+
+c) Garantías de oportunidad
+
+c.1. Confirmación diagnóstica
+
+Con sospecha clínica fundada, e indicación médica, se realizará examen de cateterismo cardiaco dentro de 40 días hábiles desde la recepción del formulario de sospecha fundada por el prestador aprobado para la etapa de confirmación.
+
+c.2. Tratamiento
+
+En personas mayores de 18 años que tengan confirmación del diagnóstico de hipertensión arterial pulmonar del grupo I y falla a tratamiento de primera línea, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Ambrisentan o Bosentan, o en terapia combinada con Iloprost inhalatorio, según la indicación del médico tratante registrada al momento de generar la solicitud, dentro de 15 días desde la solicitud del tratamiento. En el caso de estar hospitalizado en UCI el inicio del tratamiento será en 72 horas, desde la solicitud del tratamiento.
+
+En personas menores de 18 años que tengan confirmación del diagnóstico de hipertensión arterial pulmonar del grupo I y falla a tratamiento de primera línea que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Bosentan, según la indicación del médico tratante registrada al momento de generar la solicitud, dentro de 15 días desde la solicitud del tratamiento.
+
+En el caso de estar hospitalizado en UCI el inicio del tratamiento será en 72 horas, desde la solicitud del tratamiento. Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 15 días desde la solicitud del tratamiento y en caso de estar hospitalizado en UCI dentro de 72 horas, desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+9. TRATAMIENTO BASADO EN TRASTUZUMAB PARA PERSONAS CON CÁNCER DE MAMA QUE SOBREEXPRESAN EL GEN HER2 (HER2+)
 
 El cáncer de mama es una enfermedad en su mayoría hormono dependiente debido al crecimiento anormal y desordenado de células del epitelio de los conductos o lobulillos mamarios y que tiene la capacidad de diseminarse. Aproximadamente el 25% de los cánceres de mama son tipo HER2 positivo, el cual tiende a ser más agresivo, de peor pronóstico y con mayores tasas de recaída.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-Tratamiento: Trastuzumab.
+Personas con diagnóstico de cáncer de mama que sobreexprese el gen HER2, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-Para pacientes con diagnóstico confirmado de cáncer de mamas que sobreexprese el gen Her2.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1. Tratamiento
 
-1.- Con confirmación diagnóstica de cáncer de mamas Her2+, hará uso del beneficio específico de inicio de tratamiento con Trastuzumab en un plazo de 20 días
+Medicamento Trastuzumab para el tratamiento farmacológico de cáncer de mama que sobreexprese el gen HER2.
 
-2.- Continuidad en la atención y control, en conformidad a lo prescrito por el médico para el caso específico.
+c) Garantías de oportunidad
 
-3.- La solicitud del tratamiento por parte del prestador será validada por el Comité de Expertos Clínicos del Prestador Aprobado, de acuerdo a lo establecido en el protocolo.
+c.1. Tratamiento
 
-d) Seguimiento:
+En personas que tengan confirmación del diagnóstico de cáncer de mamas que sobreexprese el gen HER2, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Trastuzumab, dentro de 20 días desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para tratamiento con Trastuzumab para el cáncer de mamas que sobreexprese el gen HER2.
+Estando en tratamiento con Trastuzumab, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 20 días desde la solicitud del tratamiento.
 
-10. TRATAMIENTO CON ETANERCEPT O ABATACEPT O ADALIMUMAB O GOLIMUMAB O TOCILIZUMAB O TOFACITINIB O RITUXIMAB EN PERSONAS CON ARTRITIS REUMATOIDE ACTIVA REFRACTARIA A TRATAMIENTO HABITUAL
+d) Continuidad de la atención
 
-a) Definición:
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-La Artritis Reumatoide es una enfermedad inflamatoria crónica, autoinmune, y sistémica, de etiología desconocida que afecta principalmente a las articulaciones, evolucionando frecuentemente hacia la destrucción y deformidad articular. Se caracteriza por inflamación poli-articular y simétrica de: pequeñas y grandes articulaciones, con posible compromiso sistémico extra-articular en cualquier momento de su evolución. Las personas experimentan dolor crónico y discapacidad progresiva.
+10. TRATAMIENTO CON ETANERCEPT O ABATACEPT O ADALIMUMAB O GOLIMUMAB O TOCILIZUMAB O TOFACITINIB O RITUXIMAB O BARICITINIB O UPADACITINIB EN PERSONAS CON ARTRITIS REUMATOIDE ACTIVA REFRACTARIA A TRATAMIENTO HABITUAL
 
-b) Prestaciones Garantizadas:
+La Artritis Reumatoide es una enfermedad inflamatoria crónica, autoinmune, y sistémica, de etiología desconocida que afecta principalmente a las articulaciones, evolucionando frecuentemente hacia la destrucción y deformidad articular. Se caracteriza por inflamación poliarticular y simétrica de pequeñas y grandes articulaciones, con posible compromiso sistémico extraarticular en cualquier momento de su evolución. Las personas experimentan dolor crónico y discapacidad progresiva.
 
-b.1. Tratamiento: Etanercept o Abatacept o Adalimumab o Golimumab o Tocilizumab o Tofacitinib o Rituximab.
+a) Población beneficiaria
 
-b.1.1. Para los casos nuevos, el tratamiento se garantiza para personas con Artritis Reumatoide Activa Refractaria a tratamiento habitual, que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud.
+Personas con diagnóstico de artritis reumatoide activa refractaria a tratamiento habitual que cumplan los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1.2. Para la continuidad de tratamientos en personas ya usuarias de medicamentos garantizados, se considerará la transición a los medicamentos cubiertos por el Fondo en las condiciones que se establecen en el protocolo de esta condición de salud.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1 Tratamiento
 
-c.1. Si cumple con los criterios establecidos en el protocolo de esta condición de salud, hará uso del beneficio específico de inicio o continuidad de tratamiento con Etanercept o Abatacept o Adalimumab o Golimumab o Tocilizumab o Tofacitinib o Rituximab en un plazo no mayor de 60 días, desde la validación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Medicamento Etanercept o Abatacept o Adalimumab o Golimumab o Tocilizumab o Tofacitinib o Rituximab o Baricitinib o Upadacitinib, para el tratamiento de artritis reumatoide activa refractaria a tratamiento habitual.
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c) Garantías de oportunidad
 
-d) Seguimiento:
+c.1. Tratamiento
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para tratamiento con Etanercept o Abatacept o Adalimumab o Golimumab o Tocilizumab o Tofacitinib o Rituximab en personas con Artritis Reumatoide Activa Refractaria a tratamiento habitual.
+Las personas con diagnóstico de artritis reumatoide activa refractaria a tratamiento habitual que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Etanercept o Abatacept o Adalimumab o Golimumab o Tocilizumab o Tofacitinib o Rituximab o Baricitinib o Upadacitinib, según la indicación del médico tratante registrada al momento de generar la solicitud, dentro de 60 días desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 11. PROFILAXIS DE LA INFECCIÓN DEL VIRUS RESPIRATORIO SINCICIAL CON PALIVIZUMAB PARA PREMATUROS MENORES DE 32 SEMANAS Y LACTANTES MENORES DE 1 AÑO CON CARDIOPATÍAS CONGÉNITAS HEMODINÁMICAMENTE SIGNIFICATIVAS
 
-a) Definición:
-
 La infección por Virus Respiratorio Sincicial (VRS) es una causa viral principal de infección aguda de las vías respiratorias inferiores en lactantes y niños pequeños. Actualmente no existe cura para la infección por VRS y el tratamiento es principalmente de apoyo. Por lo tanto, la prevención es muy importante. Palivizumab es un anticuerpo monoclonal humanizado, dirigido contra el sitio antigénico A en la proteína F del VRS. Tiene una actividad inhibitoria de la fusión y es un potente neutralizante frente al subtipo A y cepas B del virus.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Tratamiento: Palivizumab. Administrado durante el período alta circulación viral con un máximo de 5 dosis anuales, para los siguientes subgrupos:
+En prematuros(as) menores de 32 semanas de edad gestacional al nacer o menos de 1.500 g de peso al nacer y su hermano gemelo, y que al inicio del período de alta circulación viral tengan menos de 1 año de edad cronológica.
 
-b.1.1. En prematuros(as) menores de 32 semanas de edad gestacional al nacer o < 1.500 g de peso al nacer y su hermano gemelo, y que al inicio del período de alta circulación viral tengan menos de 1 año de edad cronológica.
+En lactantes con cardiopatías congénitas hemodinámicamente significativas no resueltas o cardiopatía cianótica secundaria a cardiopatía de alta complejidad, y que al inicio del período de alta circulación viral tengan menos de 1 año de edad cronológica.
 
-b.1.2. En lactantes con cardiopatías congénitas hemodinámicamente significativas no resueltas o cardiopatía cianótica secundaria a cardiopatía de alta complejidad, y que al inicio del período de alta circulación viral tengan menos de 1 año de edad cronológica.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1. Tratamiento
 
-c.1. Si cumple con los criterios de inclusión establecidos en el protocolo de esta condición de salud, hará uso del beneficio específico de inicio de tratamiento con Palivizumab al menos 72 horas previas:
+Medicamento palivizumab para profilaxis de infección de virus respiratorio sincicial.
 
-c.1.1. Al alta en el caso de prematuros(as) menores de 32 semanas de edad gestacional al nacer o < 1.500 g de peso al nacer y su hermano gemelo, y que al inicio del período de alta circulación viral tengan menos de 1 año de edad cronológica, o en forma ambulatoria, si ya se encuentra en su domicilio cuando empiece el período de alta circulación viral.
+c) Garantía de oportunidad:
 
-c.1.2. A la cirugía en el caso de los lactantes con cardiopatías congénitas hemodinámicamente significativas no resueltas al momento de la solicitud o cardiopatía cianótica secundaria a cardiopatía de alta complejidad, y que al inicio del período de alta circulación viral tengan menos de 1 año de edad cronológica, o en forma ambulatoria, si ya se encuentra en su domicilio cuando empiece el período de alta circulación viral.
+c.1. Tratamiento
 
-c.2. Continuidad de atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+Se realizará la administración de una dosis mensual de profilaxis con palivizumab, durante el periodo de máxima circulación viral con un máximo de 5 dosis anuales, en aquellos pacientes que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud:
 
-d) Seguimiento:
+En recién nacidos prematuros de menos de 32 semanas de edad gestacional al nacer o menos de 1500 grs de peso al nacimiento y su hermano gemelo, que al inicio del periodo de máxima circulación viral tengan menos de 1 año de edad cronológica, el inicio del tratamiento podrá realizarse. 24 horas después del nacimiento o 24 horas después de la extubación en pacientes que estuvieron en ventilación mecánica, y al menos 72 horas previas al alta o de forma ambulatoria, si ya se encuentran en su domicilio. En recién nacidos o lactantes con cardiopatía congénita hemodinámicamente significativa no resuelta o cardiopatía secundaria cianótica a cardiopatía de alta complejidad, que al inicio del periodo de máxima circulación viral tengan menos de 1 año de edad cronológica, el inicio del tratamiento podrá realizarse 24 horas después del nacimiento o 24 horas después de la extubación en pacientes que estuvieron en ventilación mecánica, y al menos 72 horas previas al alta o de forma ambulatoria, si ya se encuentran en su domicilio. Estando en tratamiento con palivizumab, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para profilaxis de la infección del Virus Respiratorio Sincicial con Palivizumab.
+d) Continuidad de la atención
 
-12. TRATAMIENTO CON INFLIXIMAB O ADALIMUMAB EN LA ENFERMEDAD DE CROHN GRAVE REFRACTARIA A TRATAMIENTO HABITUAL
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo a lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud. Dichas prestaciones serán cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-a) Definición:
+12. TRATAMIENTO CON INFLIXIMAB O ADALIMUMAB PARA PERSONAS CON ENFERMEDAD DE CROHN GRAVE REFRACTARIA A TRATAMIENTO HABITUAL
 
-La Enfermedad de Crohn (EC) forma parte del grupo de enfermedades inflamatorias intestinales que puede afectar a cualquier parte del tubo digestivo y tiende a tener un compromiso (presencia de úlceras) segmentario. Las áreas que se comprometen con mayor frecuencia son el íleon terminal y el ciego. Esta enfermedad se caracteriza por episodios de actividad y remisión de la inflamación, de curso progresivo que puede avanzar a la estenosis o formación de fístulas.
+La Enfermedad de Crohn (EC) forma parte del grupo de enfermedades inflamatorias intestinales que puede afectar a cualquier parte del tubo digestivo y tiende a tener un compromiso segmentario. Las áreas que se comprometen con mayor frecuencia son el íleon terminal y el ciego. Esta enfermedad se caracteriza por episodios de actividad y remisión de la inflamación, de curso progresivo que puede avanzar a la estenosis o formación de fístulas.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Tratamiento: Adalimumab o Infliximab, para pacientes con diagnóstico confirmado de Enfermedad de Crohn del subgrupo grave refractaria a tratamiento habitual.
+Personas con diagnóstico de enfermedad de Crohn grave refractaria a tratamiento habitual, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-c) Garantía de Oportunidad:
+b) Prestaciones garantizadas
 
-c.1. Todo beneficiario con Enfermedad de Crohn grave, ante el fracaso al tratamiento habitual con medicamentos de primera línea (glucocorticoides, inmunosupresores), hará uso del beneficio específico de inicio de tratamiento con Adalimumab o Infliximab, de acuerdo a:
+b.1. Tratamiento
 
-- Para pacientes con EC grave hospitalizados: En un plazo no mayor a 7 días desde la indicación. Tendrá derecho a continuación de la inducción en un plazo no mayor a 10 días, desde la validación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Medicamento Adalimumab o Infliximab, para el tratamiento de enfermedad de Crohn grave refractaria a tratamiento habitual.
 
-- Para pacientes con EC grave no hospitalizados: En un plazo no mayor a 30 días, desde la confirmación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+c) Garantías de oportunidad
 
-- Para pacientes con fístulas perianales complejas: En un plazo no mayor a 30 días desde la confirmación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+c.1. Tratamiento
 
-- Para la continuidad de tratamiento en personas que ya estén con estos fármacos por decisión clínica adoptada e iniciada previo a la dictación de este decreto, se considerará su entrega de acuerdo a las condiciones que se establecen en el protocolo correspondiente para esta condición de salud.
+Las personas con diagnóstico de enfermedad de Crohn grave, ante el fracaso al tratamiento habitual con medicamentos de primera línea (glucocorticoides, inmunosupresores), que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con adalimumab o Infliximab, según la indicación del médico tratante registrada al momento de generar la solicitud, de acuerdo a:
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+- Para pacientes con enfermedad de Crohn grave hospitalizados: En un plazo de 7 días desde la solicitud del tratamiento. Tendrá derecho a continuación de la inducción en un plazo de 10 días, desde la solicitud del tratamiento.
 
-d) Seguimiento:
+- Para pacientes con enfermedad de Crohn grave no hospitalizados: En un plazo de 30 días, desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para tratamiento con Infliximab o Adalimumab en la Enfermedad de Crohn grave refractaria a tratamiento habitual.
+- Para pacientes con enfermedad de Crohn con fístulas perianales complejas: En un plazo de 30 días desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 30 días desde la solicitud del tratamiento y en caso de estar hospitalizado dentro de 7 días, desde la solicitud del tratamiento.
+
+a) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 13. NUTRICIÓN ENTERAL DOMICILIARIA TOTAL O PARCIAL, PARA PERSONAS CUYA CONDICIÓN DE SALUD IMPOSIBILITA LA ALIMENTACIÓN POR VÍA ORAL
 
-a) Definición:
+La Nutrición Enteral (NE) es una técnica de soporte nutricional mediante la cual se aportan sustancias nutritivas directamente al aparato digestivo, por medio de sondas instaladas por vía nasal u ostomía en pacientes que por su condición de salud no pueden cubrir sus requerimientos por vía oral o esta vía está contraindicada, pero cuentan con tracto gastrointestinal con suficiente capacidad funcional. La Nutrición Enteral Domiciliaria (NED) está indicada en pacientes clínicamente estables, con el objetivo de garantizar el tratamiento nutricional y los cuidados correspondientes en un entorno más cómodo para el paciente.
 
-La Nutrición Enteral (NE) es una técnica de soporte nutricional mediante la cual se aportan sustancias nutritivas directamente al aparato digestivo, por medio de sondas instaladas por vía nasal u ostomía en pacientes que por su condición de salud no pueden cubrir sus requerimientos por vía oral o esta vía está contraindicada, pero cuentan con tracto gastrointestinal con suficiente capacidad funcional. La Nutrición Enteral Domiciliaria (NED) está indicada en pacientes clínicamente estables, con el objetivo de garantizar el tratamiento nutricional y los cuidados correspondientes en un entorno más cómodo para el paciente. Para efectos de este decreto, se considerará que una persona está imposibilitada para alimentarse por vía oral cuando no alcancen a cubrir el 70% de sus necesidades nutricionales por esa vía.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas cuya condición de salud imposibilita la alimentación por vía oral. Para efectos de este decreto, se considerará que una persona está imposibilitada para alimentarse por vía oral, cuando requiera al menos un 30% del aporte nutricional por vía enteral.
 
-b.1. Fórmulas de alimentación enteral: Fórmulas poliméricas, oligoméricas, elementales (monométricas) o especiales, según protocolo específico para esta condición de salud.
+b) Prestaciones garantizadas
 
-b.2. Dispositivos médicos necesarios:
+b.1. Tratamiento
 
-a) Sonda nasogástrica:
+b.1.1. Fórmulas de alimentación enteral
 
-a. Jeringa
+Fórmulas poliméricas, oligoméricas, elementales (monoméricas) o especiales, según el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b. Sonda enteral siliconada
+b.1.2. Dispositivos de uso médico
 
-c. Contenedor
+Dispositivos de uso médicos necesarios para alimentación enteral domiciliaria vía sonda nasogástrica, sonda nasoyeyunal, ostomía gástrica u ostomía yeyunal, y sus recambios, renovaciones o mantenciones, según lo definido en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-d. Línea de infusión
+Sonda Nasogástrica
 
-e. Bomba
+Sonda Nasoyeyunal
 
-b) Sonda nasoyeyunal:
+Ostomía gástrica con botón de ostomía
 
-a. Jeringa
+Ostomía gástrica con sonda gastrostomía
 
-b. Sonda enteral siliconada
+Ostomía yeyunal con botón de ostomía
 
-c. Contenedor
+Ostomía yeyunal con sonda de yeyunostomía
 
-d. Línea de infusión
+c) Garantías de oportunidad
 
-e. Bomba
+c.1. Tratamiento
 
-c) Ostomía Gástrica:
+Las personas con confirmación diagnóstica del requerimiento de nutrición enteral domiciliaria, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, se les hará entrega de los alimentos y dispositivos médicos para la nutrición enteral domiciliaria, asignados al beneficiario, en un plazo no mayor a 30 días, desde la solicitud del tratamiento.
 
-a. Jeringa
+En caso de estar recibiendo las fórmulas y dispositivos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuar con su recepción. El inicio se realizará dentro de 30 días desde la solicitud del tratamiento.
 
-b. Repuesto extensión gruesa
+a) Continuidad de la atención
 
-c. Kit de gastrostomía percutánea
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-d. Botón
-
-e. Contenedor
-
-f. Línea de infusión
-
-g. Repuesto extensión angosta
-
-h. Repuesto extensión gruesa
-
-i. Sonda de gastrostomía
-
-j. Bomba
-
-d) Ostomía yeyunal:
-
-a. Jeringa
-
-b. Repuesto extensión angosta
-
-c. Kit de gastrostomía percutánea
-
-d. Botón
-
-e. Contenedor
-
-f. Línea de infusión
-
-g. Repuesto extensión angosta
-
-h. Bomba
-
-i. Sonda de yeyunostomía
-
-b.3. Los recambios, las renovaciones o las mantenciones de los dispositivos médicos necesarios señalados en la letra anterior durante el período de tratamiento.
-
-c) Garantía de Oportunidad:
-
-c.1. Si cumple con los criterios de inclusión definidos en el protocolo de esta condición de salud, se entregarán los alimentos y dispositivos médicos para la nutrición enteral domiciliaria, en un plazo no mayor a 30 días, una vez validada la indicación por el Comité de Expertos Clínicos del Prestador Aprobado.
-
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
-
-d) Seguimiento:
-
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para nutrición enteral domiciliaria total o parcial, para personas cuya condición de salud imposibilita la alimentación por vía oral.
-
-14. TRATAMIENTO BASADO EN LA ADMINISTRACIÓN DE INSULINA, A TRAVÉS DE INFUSORES SUBCUTÁNEOS CONTINUOS (BOMBAS DE INSULINA CON SENSOR) PARA PERSONAS CON DIAGNÓSTICO DE DIABETES MELLITUS TIPO I, INESTABLE SEVERA
-
-a) Definición:
+14. TRATAMIENTO BASADO EN LA ADMINISTRACIÓN DE INSULINA, A TRAVÉS DE INFUSORES SUBCUTÁNEOS DE INSULINA (BOMBAS DE INSULINA) PARA PERSONAS CON DIAGNÓSTICO DE DIABETES MELLITUS TIPO 1 INESTABLE SEVERA
 
 La diabetes tipo 1 (DM1) inestable severa, corresponde a aquella DM 1 que cursa con alta variabilidad glicémica (inestabilidad) y que conlleva a complicaciones severas y recurrentes, como la cetosis y cetoacidosis diabética, emergencia metabólica aguda potencialmente mortal, desencadenada por la hiperglicemia, así como eventos de hipoglicemia severa inadvertida cuya gravedad pueden conllevar desde convulsiones, el coma y la muerte.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Confirmación diagnóstica indispensable: Monitoreo continuo de glicemia.
+Personas con sospecha o diagnóstico de diabetes mellitus tipo 1 inestable o severa, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.2. Dispositivo: Infusor subcutáneo continuo de insulina con sensor, junto a sus insumos, de acuerdo a los subgrupos establecidos en el protocolo específico para esta condición de salud.
+b) Prestaciones garantizadas
 
-b.3. Los recambios, las renovaciones o las mantenciones de los dispositivos médicos necesarios señalados en la letra anterior durante el período de tratamiento.
+b.1 Confirmación diagnóstica
 
-c) Garantía de Oportunidad:
+Monitoreo continuo de glicemia.
 
-c.1. Si cumple con los criterios de inclusión establecidos en el protocolo de esta condición de salud, se entregará el dispositivo de uso médico, Infusor subcutáneo continuo de insulina (bomba de insulina) con sensor de glicemia, junto a sus insumos, a los 60 días, una vez validada la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+b.2 Tratamiento
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+b.2.1 Dispositivo de uso médico
 
-d) Seguimiento:
+Infusor subcutáneo continuo de insulina con sensor, junto a sus insumos, de acuerdo a los subgrupos establecidos en el protocolo específico para esta condición de salud.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para tratamiento basado en la administración de insulina, a través de infusores subcutáneos continuos (bombas de insulina con sensor) para personas con diagnóstico de diabetes mellitus tipo I, inestable severa.
+c) Garantías de oportunidad
 
-15. DISPOSITIVO DE ESTIMULACIÓN CEREBRAL PROFUNDA PARA DISTONÍA GENERALIZADA
+c.1. Tratamiento
 
-a) Definición:
+En personas con diagnóstico de diabetes mellitus tipo 1, inestable severa que cumpla con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, se entregará al beneficiario el dispositivo de uso médico infusor subcutáneo continuo de insulina (bomba de insulina) con sensor de glicemia, junto a sus insumos, dentro de 60 días desde la solicitud y confirmación del tratamiento.
+
+Los recambios, las renovaciones o las mantenciones de los dispositivos médicos necesarios señalados en la letra anterior durante el período de tratamiento.
+
+En caso de disponer del infusor subcutáneo continuo de insulina con sensor, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso al recambio o renovación, según lo definido de forma previa.
+
+d) Continuidad de la atención.
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+15. DISPOSITIVO DE ESTIMULACIÓN CEREBRAL PROFUNDA PARA PERSONAS CON DISTONÍA GENERALIZADA
 
 La distonía es un trastorno del movimiento caracterizado por contracciones musculares sostenidas o intermitentes que causan posturas o movimientos anormales, a menudo repetitivos, o ambos. Los movimientos distónicos generalmente son modelados, retorcidos y pueden ser temblorosos. La distonía a menudo se inicia o empeora por acción voluntaria y se asocia con el desbordamiento de la activación muscular.
 
 Dentro de las clasificaciones de distonías se encuentra aquella según la distribución en el cuerpo que esté afectada, en donde se identifica la de tipo generalizada, la cual involucra el tronco y al menos 2 otras partes del cuerpo.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-En personas con distonía generalizada que cumplan los criterios de inclusión establecidos en el protocolo respectivo y confirmados por el Comité de Expertos Clínicos del Prestador Aprobado para dispositivo de estimulación cerebral profunda, se garantizará:
+Personas con diagnóstico de distonía generalizada que cumplan los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-- Dispositivo de estimulación cerebral profunda: generador de pulsos implantable, extensión y electrodos.
+b) Prestaciones garantizadas
 
-- Generador de pulsos implantable de reemplazo para dispositivo de estimulación cerebral profunda.
+b.1. Tratamiento
 
-c) Garantía de Oportunidad:
+b.2.1 Dispositivo de uso médico
 
-c.1. Personas con distonía generalizada, confirmados por Comité de Expertos Clínicos del Prestador Aprobado para dispositivo de estimulación cerebral profunda, harán uso del beneficio específico según lo siguiente:
+Dispositivo de estimulación cerebral profunda: generador de pulsos implantable, extensión y electrodos.
 
-- Entrega del dispositivo de estimulación cerebral profunda al Centro de Referencia del Prestador Aprobado asignado al beneficiario en un plazo de 30 días desde la confirmación del caso por el Comité de Expertos Clínicos del Prestador Aprobado.
+Generador de pulsos implantable de reemplazo para dispositivo de estimulación cerebral profunda.
 
-- Entrega de "generador de pulsos implantable" de reemplazo, mínimo 150 días antes de que se cumplan 9 años desde la cirugía de implantación del Dispositivo de Estimulación Cerebral profunda o la última cirugía de reemplazo del generador de pulsos implantable, al Centro de Referencia del Prestador Aprobado.
+c) Garantías de oportunidad
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c.1. Tratamiento
 
-d) Seguimiento:
+Para personas con diagnóstico de distonía generalizada, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, se entregará al prestador aprobado en la etapa de tratamiento, el dispositivo de estimulación cerebral asignado al beneficiario en un plazo de 30 días desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme a lo establecido en protocolo del Ministerio de Salud para el dispositivo de estimulación cerebral profunda para distonía generalizada.
+La entrega al prestador aprobado en la etapa de tratamiento del "generador de pulsos implantable" de reemplazo, en personas que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, se realizará considerando un mínimo de 150 días antes de la fecha de certificación de vida útil del generador de pulsos implantables informada por el proveedor. Será responsabilidad del médico tratante realizar el registro del requerimiento en las vías definidas para ello.
 
-16. TRATAMIENTO CON SUNITINIB O EVEROLIMUS PARA ENFERMEDAD PROGRESIVA DE TUMORES NEUROENDOCRINOS PANCREÁTICOS
+En caso de disponer del dispositivo de estimulación cerebral profunda, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a la entrega del "generador de pulsos implantable" de reemplazo compatible, según lo indicado de forma previa.
 
-a) Definición:
+d) Continuidad de la atención
 
-Los tumores neuroendocrinos son neoplasias provenientes del sistema neuroendocrino y están integrados por células productoras de aminas y de ácidos con diferentes perfiles hormonales según el sitio de origen. Las células neuroendocrinas están ampliamente distribuidas a través del cuerpo, por lo que estas neoplasias se pueden presentar en la mayoría de los órganos. Los tumores neuroendocrinos se dividen según su origen en aquellos provenientes del tubo digestivo, tumores neuroendocrinos pancreáticos, tumores neuroendocrinos torácicos o pulmonares y de otras ubicaciones.
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-Los tumores neuroendocrinos pancreáticos se originan en las células de los islotes de Langerhans. Pueden ser funcionales o no funcionales.
+16. TRATAMIENTO CON SUNITINIB O EVEROLIMUS PARA PERSONAS CON ENFERMEDAD PROGRESIVA DE TUMORES NEUROENDOCRINOS PANCREÁTICOS
 
-b) Prestaciones Garantizadas:
+Los tumores neuroendocrinos son neoplasias provenientes del sistema neuroendocrino y están integrados por células productoras de aminas y de ácidos con diferentes perfiles hormonales según el sitio de origen. Las células neuroendocrinas están ampliamente distribuidas a través del cuerpo, por lo que estas neoplasias se pueden presentar en la mayoría de los órganos. Los tumores neuroendocrinos se dividen según su origen en aquellos provenientes del tubo digestivo, tumores neuroendocrinos pancreáticos, tumores neuroendocrinos torácicos o pulmonares y de otras ubicaciones. Los tumores neuroendocrinos pancreáticos se originan en las células de los islotes de Langerhans. Pueden ser funcionales o no funcionales.
 
-En personas de dieciocho años y más con Tumores Neuroendocrinos pancreáticos progresivos y bien diferenciados con enfermedad irresecable, localmente avanzada o metastásica, que cumplan los criterios establecidos en el protocolo, se garantizará el tratamiento farmacológico con Sunitinib o Everolimus.
+a) Población beneficiaria
 
-c) Garantía de Oportunidad:
+Personas mayores de 18 años con diagnóstico de tumores neuroendocrinos pancreáticos progresivos y bien diferenciados con enfermedad irresecable, localmente avanzada o metastásica, que cumplan los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-c.1. En personas de dieciocho años y más con Tumores Neuroendocrinos pancreáticos progresivos y bien diferenciados con enfermedad irresecable, localmente avanzada o metastásica, harán uso del beneficio específico de inicio o continuidad de tratamiento con Sunitinib o Everolimus, en un plazo no mayor a 15 días, una vez validada la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+b) Prestaciones garantizadas
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+b.1. Tratamiento
 
-d) Seguimiento:
+Medicamentos Sunitinib o Everolimus, para el tratamiento de enfermedad progresiva de tumores neuroendocrinos pancreáticos.
 
-El seguimiento se realizará conforme a lo establecido en protocolo del Ministerio de Salud para el Tratamiento con Sunitinib o Everolimus para enfermedad progresiva de Tumores Neuroendocrinos Pancreáticos.
+c) Garantías de oportunidad
 
-17. DISPOSITIVO DE IMPLANTE COCLEAR UNILATERAL PARA HIPOACUSIA SENSORIONEURAL BILATERAL SEVERA O PROFUNDA POSTLOCUTIVA
+c.1 Tratamiento
 
-a) Definición:
+Las personas mayores de 18 años con diagnóstico de tumores neuroendocrinos pancreáticos progresivos y bien diferenciados con enfermedad irresecable, localmente avanzada o metastásica, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciaran el tratamiento con Sunitinib o Everolimus, según la indicación del médico tratante, en un plazo de 15 días desde la recepción de la solicitud del medicamento.
+
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 15 días desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+17. DISPOSITIVO DE IMPLANTE COCLEAR UNILATERAL PARA PERSONAS CON HIPOACUSIA SENSORIONEURAL BILATERAL SEVERA O PROFUNDA POSTLOCUTIVA
 
 El término compuesto "Hipoacusia Sensorioneural Severa o Profunda" hace referencia, por una parte, a una condición audiológica de disminución, desde 70 dB - 90 dB (Severa y Profunda, respectivamente), en la capacidad auditiva y, por otra, a la localización coclear o retrococlear (nervio auditivo) de un daño o lesión, uni o bilateral.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-En personas con hipoacusia sensorioneural bilateral severa o profunda postlocutiva desde los 4 años, que cumplan los criterios de inclusión establecidos en el protocolo respectivo y confirmados por el Comité de Expertos Clínicos del Prestador Aprobado para el dispositivo de implante coclear, se garantizará:
+Personas mayores de 4 años con diagnóstico de hipoacusia sensorioneural bilateral severa o profunda postlocutivas, que cumplan los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud y con indicación médica de uso del dispositivo de implante coclear y el recambio de sus accesorios.
 
-- Implante Coclear unilateral.
+b) Prestaciones garantizadas
 
-- Recambio de accesorios según vida útil.
+b.1 Dispositivo de uso médico
 
-- Reemplazo de procesador del habla cada 5 años.
+Dispositivo de implante coclear unilateral, sus accesorios y el recambio de estos.
 
-c) Garantía de Oportunidad:
+c) Garantías de oportunidad
 
-c.1. En personas con hipoacusia sensorioneural bilateral severa o profunda postlocutiva desde los 4 años, confirmados por Comité de Expertos Clínicos del Prestador Aprobado para implante coclear, harán uso del beneficio específico según lo siguiente:
+c.1. Dispositivo de uso médico
 
-- Entrega del implante coclear al Centro de Referencia del Prestador Aprobado que realice la instalación de este, en un plazo no mayor de 90 días, desde la confirmación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+En personas con diagnóstico de hipoacusia sensorioneural bilateral severa o profunda, postlocutiva desde los 4 años, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, se entregará al prestador aprobado para la etapa de tratamiento el dispositivo asignado al beneficiario, dentro de 45 días desde la solicitud del tratamiento.
 
-- En caso de hipoacusia post meningitis o hipoacusia autoinmune bilateral (por riesgo de osificación coclear), entrega del implante coclear al Centro de Referencia del Prestador Aprobado que realice la instalación de este, en un plazo no mayor de 15 días, desde la confirmación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+En personas con diagnóstico de hipoacusia post meningitis o hipoacusia autoinmune bilateral, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, se entregará al prestador aprobado en la etapa de tratamiento el dispositivo asignado al beneficiario dentro de 15 días desde la solicitud del tratamiento.
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+El recambio de accesorios de implante coclear se realizará en aquellas personas que cumplan los criterios de inclusión y de acuerdo con la periodicidad establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud dependiendo del tipo de accesorio. Será responsabilidad del médico tratante realizar el registro del requerimiento en las vías definidas para ello.
 
-d) Seguimiento:
+El reemplazo de procesador del habla se realizará en aquellas personas que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, cada 5 años desde la instalación del dispositivo de implante coclear o el último recambio. Será responsabilidad del médico tratante realizar el registro del requerimiento en las vías definidas para ello.
 
-El seguimiento se realizará conforme a lo establecido en protocolo del Ministerio de Salud para el Dispositivo de Implante Coclear unilateral para Hipoacusia Sensorioneural Bilateral Severa o Profunda Postlocutiva.
+En caso de disponer del dispositivo de implante coclear, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso al recambio de accesorios y reemplazo del procesador del habla compatible, según lo indicado de forma previa.
 
-### 18. TRATAMIENTO CON INHIBIDOR DE C1 ESTERASA PARA ANGIOEDEMA HEREDITARIO
+d) Continuidad de la atención
 
-a) Definición:
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
+
+18. TRATAMIENTO CON INHIBIDOR DE C1 ESTERASA PARA PERSONAS CON ANGIOEDEMA HEREDITARIO
 
 El Angioedema es una enfermedad infrecuente que se define como una reacción vascular de la dermis profunda o de los tejidos subcutáneos/submucosos con dilatación localizada y aumento de la permeabilidad de los vasos sanguíneos, que produce inflamación del tejido. Existe el subtipo de angioedema hereditario, el cual se debe a deficiencias del inhibidor de C1. Este se transmite en un patrón genético autosómico dominante que causa una gran variedad de mutaciones diferentes del gen SERPING1 las que dan como resultado la deficiencia del inhibidor de C1 y una regulación alterada de la síntesis de bradiquinina, y por lo tanto una inhibición deficitaria del sistema complemento (fundamental en la respuesta inmunitaria).
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-Tratamiento Farmacológico: en personas con confirmación diagnóstica de angioedema hereditario con deficiencia de inhibidor de C1 esterasa por el Comité de Expertos Clínicos del Prestador Aprobado, se garantizará:
+Personas con diagnóstico de angioedema hereditario de tipo I o II, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-- Inhibidor de C1 esterasa ante episodio agudo de angioedema hereditario con deficiencia de inhibidor de C1.
+b) Prestaciones garantizadas
 
-- Inhibidor de C1 esterasa como profilaxis a corto plazo en caso de cirugía mayor, de cabeza, cuello u oral.
+b.1. Tratamiento
 
-c) Garantía de Oportunidad:
+Inhibidor de C1 esterasa ante episodio agudo de angioedema hereditario con deficiencia de inhibidor de C1.
 
-c.1. Personas con diagnóstico confirmado de angioedema hereditario con deficiencia de inhibidor de C1 esterasa por el Comité de Expertos Clínicos del Prestador Aprobado, harán uso del beneficio específico de Inhibidor de C1 esterasa, en los siguientes casos:
+Inhibidor de C1 esterasa como profilaxis a corto plazo en caso de cirugía mayor de cabeza, cuello u oral.
 
-- Ante episodio agudo de angioedema hereditario con deficiencia de inhibidor de C1 que afecten cara, cuello o abdomen, deberán recibir inmediatamente Inhibidor de C1 esterasa en Servicio de Urgencia de la Red de Prestadores Aprobados(1) (nivel de priorización C1 "emergencia vital"(2)).
+c) Garantías de oportunidad
 
-- Ante episodio agudo de angioedema hereditario con deficiencia de inhibidor de C1 que afecten partes del cuerpo distintas a cara, cuello o abdomen, deberán recibir Inhibidor de C1 esterasa en un periodo no mayor a 90 minutos en Servicio de Urgencia de la Red de Prestadores Aprobados1 (nivel de priorización C3 "carácter urgente"(2)).
+c.1. Tratamiento
 
-- Como tratamiento de profilaxis a corto plazo en cirugía mayor, de cabeza, cuello u oral, con 2 horas anticipación a la cirugía como máximo, siempre y cuando el Prestador Aprobado asignado haya realizado la solicitud con 10 días de anticipación previo a la cirugía.
+Ante episodio agudo de angioedema hereditario, según indicación médica recibirán inhibidor de C1 esterasa, de forma inmediata en servicio de urgencia de la red de prestadores aprobados en la etapa de tratamiento (nivel de priorización C2 o ESI2) (1)
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+Como tratamiento de profilaxis a corto plazo en cirugía mayor de cabeza, cuello u oral, se deberá administrar como máximo con 2 horas de anticipación a la cirugía.
 
-d) Seguimiento:
+d) Continuidad de la atención
 
-El seguimiento se realizará conforme a lo establecido en protocolo del Ministerio de Salud para el Tratamiento con Inhibidor de C1 esterasa para Angioedema Hereditario.
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 19. AYUDAS TÉCNICAS PARA PERSONAS CON ESCLEROSIS LATERAL AMIOTRÓFICA MODERADA O SEVERA
 
-a) Definición:
-
 La Esclerosis Lateral Amiotrófica (ELA) es un desorden neurodegenerativo, constituyendo un subgrupo dentro de las enfermedades neuromusculares motoras, las cuales son un grupo de patologías que afectan al sistema nervioso periférico, en alguno de los componentes de la unidad motora. No posee una cura conocida, causando debilidad muscular progresiva, discapacidad y eventualmente la muerte. Las ayudas técnicas favorecen el logro de los objetivos terapéuticos de rehabilitación.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1 Tratamiento: Ayudas técnicas para personas con Esclerosis Lateral Amiotrófica moderada y severa, según protocolo específico para esta condición de salud:
+Personas con diagnóstico de esclerosis lateral amiotrófica moderada o severa que requieran ayudas técnicas y cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1.1. Ayudas Técnicas para el desempeño de las actividades de la vida diaria (AVD):
+b) Prestaciones garantizadas
+
+b.1. Tratamiento
+
+b.1.1 Ayuda técnicas
+
+Ayudas técnicas para personas con Esclerosis Lateral Amiotrófica moderada y severa, según protocolo específico para esta condición de salud.
+
+b.1.1. Ayudas técnicas para el desempeño de las actividades de la vida diaria (AVD):
 
 a) Baño portátil.
 
 b) Silla de ruedas neurológica.
 
 c) Tecnologías de la comunicación aumentativas y alternativas (tecnologías de seguimiento ocular).
-
---------------------------------------------------------------------------------
-
-(1) Prestador Aprobado: Corresponde a cualquier persona natural o jurídica, establecimiento o institución, que se encuentre aprobada, conforme a lo dispuesto en el decreto Nº 54, del Ministerio de Salud, de 2015, que aprueba Reglamento que Establece Normas para el Otorgamiento y Cobertura Financiera de los Diagnósticos y Tratamientos incorporados al sistema establecido en la Ley Nº 20.850.
-
-(2) Según Ordinario C21/Nº101 "Escala de Categorización Selección de Demanda en Unidades de Emergencia del País" (DIGERA, 2012).
 
 b.1.2. Ayudas técnicas para el tratamiento rehabilitador:
 
@@ -654,25 +712,37 @@ a) Equipo ventilador mecánico no invasivo domiciliario con generador de flujo a
 
 b) Aspirador de secreciones.
 
-c) Garantía de Oportunidad:
+c) Garantías de oportunidad
 
-c.1. En personas con Esclerosis Lateral Amiotrófica moderada o severa que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud, hará uso del beneficio específico de ayudas técnicas en un plazo no mayor a 30 días, desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+____________________
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+(1) Ordinario C2/N° 313: Informa sobre herramienta ESI en la UEH del país, Subsecretaría de Redes Asistenciales, 26 de enero del 2018.
 
-d) Seguimiento:
+c.1. Tratamiento
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud de Ayudas Técnicas para personas con Esclerosis Lateral Amiotrófica moderada o severa.
+En personas con diagnóstico de esclerosis lateral amiotrófica que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, recibirán las ayudas técnicas asignadas al beneficiario, en un plazo de 30 días, desde la solicitud del tratamiento.
 
-20. DISPOSITIVOS DE USO MÉDICO PARA CURACIONES EN PERSONAS CON EPIDERMÓLISIS BULLOSA DISTRÓFICA O JUNTURAL
+d) Continuidad de la atención
 
-a) Definición:
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-La Epidermólisis Bullosa es un grupo de desórdenes hereditarios, caracterizados por la excesiva susceptibilidad de la piel y mucosas a separarse de su tejido subyacente luego de un trauma mecánico. Es causada por mutaciones que afectan a las proteínas estructurales de la piel, pudiendo afectar también mucosas, como las de la cavidad oral, esófago, cavidad nasal, faringe, tracto genitourinario, zona perianal y conjuntiva. No existe un tratamiento específico y su evolución es crónica. La rehabilitación es el mecanismo para lograr una mantención favorable de la enfermedad respecto a la movilización y realización de actividades de la vida diaria.
+20. DISPOSITIVOS DE USO MÉDICO PARA CURACIONES EN PERSONAS CON EPIDERMÓLISIS BULOSA DISTRÓFICA O DE LA UNIÓN (JUNTURAL)
 
-b) Prestaciones Garantizadas:
+La epidermólisis bulosa es un grupo de desórdenes hereditarios, caracterizados por la excesiva susceptibilidad de la piel y mucosas a separarse de su tejido subyacente luego de un trauma mecánico. Es causada por mutaciones que afectan a las proteínas estructurales de la piel, pudiendo afectar también mucosas, como las de la cavidad oral, esófago, cavidad nasal, faringe, tracto genitourinario, zona perianal y conjuntiva. No existe un tratamiento específico y su evolución es crónica. La rehabilitación es el mecanismo para lograr una mantención favorable de la enfermedad respecto a la movilización y realización de actividades de la vida diaria.
 
-b.1. Tratamiento: Dispositivos de uso médico para curaciones para personas con epidermólisis bullosa distrófica o juntural, según protocolo específico para esta condición de salud:
+a) Población beneficiaria
+
+Recién Nacidos con sospecha diagnóstica de epidermólisis bulosa distrófica o de la unión y personas con diagnóstico de epidermólisis bulosa distrófica o de la unión, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
+
+b) Prestaciones garantizadas
+
+b.1. Tratamiento
+
+b.1.1 Dispositivo de uso médico
+
+Dispositivos de uso médico para curaciones para personas con epidermólisis bulosa distrófica o de la unión según lo definido en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
+
+Dispositivos de uso médico para curaciones:
 
 ### 1. Kit de curación desechable
 
@@ -712,215 +782,249 @@ b.1. Tratamiento: Dispositivos de uso médico para curaciones para personas con 
 
 ### 19. Apósito hidroconductivo
 
-20. Apósito hidrocelular antimicrobiano con polihexametileno biguanida (PHMB).
+### 20. Apósito hidroactivo con poliacrilato superabsorbente (SAP)
 
-### 21. Apósito gasa absorbente impregnada con vaselina
+### 21. Apósito de malla de acetato de celulosa y petrolato
 
-### 22. Apósito de malla de acetato de celulosa y petrolato
+### 22. Apósito de gasa parafinada de baja adherencia
 
-### 23. Apósito de gasa parafinada de baja adherencia
+### 23. Apósito de transferencia de exudado
 
-### 24. Apósito de transferencia de exudado
+### 24. Apósito de membrana polimérica multifuncional
 
-### 25. Apósito de membrana polimérica multifuncional
+25. Apósito antimicrobiano de espuma de poliuretano absorbente con plata y capa de silicona.
 
-26. Apósito antimicrobiano de espuma de poliuretano absorbente con plata y capa de silicona.
+### 26. Apósito de hidrofibra de hidrocoloide con fibra reforzante de celulosa
 
-### 27. Apósito de hidrofibra de hidrocoloide con fibra reforzante de celulosa
+27. Cinta quirúrgica de rayón altamente respirable, no oclusiva y con adhesivo hipoalergénico.
 
-28. Cinta quirúrgica de rayón altamente respirable, no oclusiva y con adhesivo hipoalergénico.
+### 28. Cinta de fijación de silicona atraumática
 
-### 29. Cinta de fijación de silicona atraumática
+c) Garantías de oportunidad
 
-c) Garantía de Oportunidad:
+c.1. Tratamiento
 
-c.1. Las personas con Epidermólisis Bullosa Distrófica o Juntural que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud, harán uso del beneficio específico de dispositivos de uso médico para curaciones, según los siguientes plazos:
+En recién nacidos con sospecha diagnóstica de epidermólisis bulosa distrófica o de la unión, y que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, recibirán los dispositivos de uso médico para curaciones asignados al beneficiario, en un plazo de 24 horas, desde la solicitud del tratamiento.
 
-c.1.1. En recién nacidos con sospecha diagnóstica de Epidermólisis Bullosa Distrófica o Juntural, en las primeras 24 horas de vida.
+En personas hospitalizadas, cursando una infección o con indicación de cirugía que tengan diagnóstico confirmado de epidermólisis bulosa distrófica o de la unión y que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, recibirán los dispositivos de uso médico para curaciones asignados al beneficiario, en un plazo de 48 horas, desde la solicitud del tratamiento.
 
-c.1.2. En personas con diagnóstico confirmado de Epidermólisis Bullosa Distrófica o Juntural infectados, hospitalizados o con indicación de cirugía, en un plazo no mayor a 48 horas, una vez validada la solicitud por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+En personas con diagnóstico confirmado de epidermólisis bulosa distrófica o de la unión que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, recibirán los dispositivos de uso médico para curaciones asignados al beneficiario, en un plazo de 30 días, desde la solicitud del tratamiento.
 
-c.1.3. En personas con diagnóstico confirmado de Epidermólisis Bullosa Distrófica o Juntural, en un plazo no mayor a 30 días, una vez validada la solicitud por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+d) Continuidad de tratamiento
 
-c.2. Continuidad de atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
-
-d) Seguimiento:
-
-El seguimiento se realizará conforme lo establecido en el protocolo del Ministerio de Salud de Dispositivos de uso médico para curaciones en personas con Epidermólisis Bullosa Distrófica o Juntural.
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 21. TRATAMIENTO CON IMATINIB O SUNITINIB EN PERSONAS CON TUMORES DEL ESTROMA GASTROINTESTINAL NO RESECABLES O METASTÁSICOS
 
-a) Definición:
+Los tumores del estroma gastrointestinal (GIST) son un grupo de neoplasias que representa menos del 1% de los tumores primarios del tracto gastrointestinal. Se localizan preferentemente en el estómago y el intestino delgado, aunque pueden desarrollarse en cualquier lugar del aparato digestivo e incluso fuera de él.
 
-Los Tumores del Estroma Gastrointestinal (GIST) son un grupo de neoplasias que representa menos del 1% de los tumores primarios del tracto gastrointestinal. Se localizan preferentemente en el estómago y el intestino delgado, aunque pueden desarrollarse en cualquier lugar del aparato digestivo e incluso fuera de él.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas con sospecha o diagnóstico de tumor del estroma gastrointestinal no resecable o metastásico que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1. Confirmación Diagnóstica: Examen Inmunohistoquímica de proteína c-kit/CD117 y tomografía computada.
+b) Prestaciones garantizadas
 
-b.2. Tratamiento farmacológico: Imatinib o Sunitinib
+b.1. Confirmación diagnóstica
 
-b.2.1. Para los casos nuevos, el tratamiento con Imatinib se encuentra garantizado en personas con Tumor del Estroma Gastrointestinal no resecable o metastásico que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud.
+Examen inmunohistoquímico de proteína c-kit/CD117 y tomografía computada.
 
-b.2.2. Las personas que progresen en la patología estando en tratamiento con Imatinib y que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud, accederán al tratamiento con Sunitinib como terapia de segunda línea.
+b.2. Tratamiento
 
-b.2.3. Para la continuidad de tratamientos en personas ya usuarias de medicamentos garantizados, se considerará el ingreso al Sistema en las condiciones que se establecen en el protocolo correspondiente a este problema de salud.
+Medicamento Imatinib o Sunitinib para tratamiento de tumores del estroma gastrointestinal (GIST).
 
-c) Garantía de Oportunidad:
+c) Garantías de oportunidad
 
-c.1.1. Las personas con sospecha clínica fundada de Tumor del Estroma Gastrointestinal no resecable o metastásico tendrán acceso a Examen de Inmunohistoquímica de proteína c-kit/CD117 y tomografía computada, en un plazo no mayor a 30 días desde la recepción del formulario de sospecha fundada.
+c.1. Confirmación diagnóstica
 
-c.1.2. Las personas con diagnóstico confirmado de Tumor del Estroma Gastrointestinal no resecable o metastásico, tendrán acceso a tratamiento farmacológico con Imatinib o Sunitinib en un plazo no mayor a 20 días, desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Las personas con sospecha clínica fundada de tumores del estroma gastrointestinal no resecable o metastásico tendrán acceso a examen de inmunohistoquímica de proteína c-kit/CD117 y tomografía computada, en un plazo de 30 días desde la recepción del formulario de sospecha fundada por el prestador aprobado para la etapa de confirmación.
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c.2. Tratamiento
 
-d) Seguimiento:
+Las personas con diagnóstico confirmado de tumores del estroma gastrointestinal no resecable o metastásico, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con imatinib, en un plazo de 20 días, desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme a lo establecido en el protocolo del Ministerio de Salud para Tratamiento con Imatinib o Sunitinib para personas con Tumor del Estroma Gastrointestinal no resecable o metastásico.
+En aquellas personas que estando en tratamiento con Imanitib progresen en su condición y que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Sunitinib, en un plazo de 20 días, desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 20 días desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 22. TRATAMIENTO CON GOLIMUMAB O ETANERCEPT O ADALIMUMAB O SECUKINUMAB EN PERSONAS CON ARTRITIS PSORIÁSICA MODERADA A GRAVE REFRACTARIA A TRATAMIENTO HABITUAL
 
-a) Definición:
+La artritis psoriásica (APs) es una enfermedad inflamatoria crónica del sistema musculoesquelético generalmente asociada a psoriasis, que pertenece al grupo de las Espondiloartritis. Tiene diversas presentaciones clínicas, pudiendo afectar la columna vertebral y articulaciones sacroilíacas, las articulaciones periféricas, las entesis, las vainas tendinosas, las uñas y otros órganos como el intestino o el ojo.
 
-La Artritis Psoriásica (APs) es una enfermedad inflamatoria crónica del sistema musculoesquelético generalmente asociada a psoriasis, que pertenece al grupo de las Espondiloartritis. Tiene diversas presentaciones clínicas, pudiendo afectar la columna vertebral y articulaciones sacroilíacas, las articulaciones periféricas, las entesis, las vainas tendinosas, las uñas y otros órganos como el intestino o el ojo.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas con diagnóstico de artritis psoriásica moderada a grave refractaria al tratamiento habitual, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1 Tratamiento: Golimumab o Etanercept o Adalimumab o Secukinumab.
+b) Prestaciones garantizadas
 
-b.1.1. Para los casos nuevos, el tratamiento se encuentra indicado para personas con Artritis Psoriásica moderada a grave refractaria al tratamiento habitual, que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud.
+b.1. Tratamiento
 
-b.1.2. Para la continuidad de tratamientos en pacientes ya usuarios de medicamentos garantizados, se considerará la transición a los medicamentos cubiertos por el fondo en las condiciones que se establecen en el protocolo de esta condición de salud.
+Medicamentos Golimumab o Etanercept o adalimumab o Secukinumab, para el tratamiento de artritis psoriásica moderada a grave refractaria al tratamiento habitual.
 
-c) Garantía de Oportunidad:
+c) Garantías de oportunidad
 
-c.1. Si cumple con los criterios establecidos en el protocolo de esta condición de salud, hará uso del beneficio específico de inicio o continuidad de tratamiento con Golimumab o Etanercept o Adalimumab o Secukinumab, en un plazo no mayor a 60 días, desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+c.1. Tratamiento
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+Las personas con diagnóstico confirmado de artritis psoriásica moderada a grave refractaria al tratamiento habitual, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Golimumab o Etanercept o Adalimumab o Secukinumab, según la indicación del médico tratante registrada al momento de generar la solicitud, en un plazo de 60 días, desde la solicitud del tratamiento.
 
-d) Seguimiento:
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días, desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para tratamiento con Golimumab o Etanercept o Adalimumab o Secukinumab en personas con Artritis Psoriásica moderada a grave refractaria al tratamiento habitual.
+d) Continuidad de la atención
 
-23. TRATAMIENTO CON GOLIMUMAB O ADALIMUMAB PARA PERSONAS CON COLITIS ULCEROSA MODERADA E INFLIXIMAB EN PERSONAS CON COLITIS ULCEROSA GRAVE, REFRACTARIA AL TRATAMIENTO DE PRIMERA LÍNEA
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
-a) Definición:
+23. TRATAMIENTO CON GOLIMUMAB O ADALIMUMAB PARA PERSONAS CON COLITIS ULCEROSA MODERADA E INFLIXIMAB EN PERSONAS CON COLITIS ULCEROSA GRAVE, REFRACTARIA AL TRATAMIENTO DE PRIMERA LÍNEA.
 
 La colitis ulcerosa es una enfermedad inflamatoria crónica que afecta la mucosa del colon en forma continua, comprometiendo el recto y una porción variable de la extensión del resto del colon, sin la presencia de granulomas. Los pacientes con colitis ulcerosa usualmente presentan diarrea, sangrado rectal, dolor abdominal, tenesmo e incontinencia. Las causas de esta enfermedad no son conocidas, aunque se puede atribuir un mayor riesgo en personas con antecedentes familiares.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Tratamiento: Golimumab o Adalimumab o Infliximab.
+Personas con diagnóstico de colitis ulcerosa moderada y grave refractaria a tratamiento de primera línea, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de garantías de este problema de salud.
 
-b.1.1. En personas adultas con diagnóstico confirmado de Colitis Ulcerosa Moderada inmunorefractaria, se garantizará el tratamiento farmacológico con Golimumab o Adalimumab.
+b) Prestaciones garantizadas
 
-b.1.2. En personas adultas con diagnóstico confirmado de Colitis Ulcerosa Grave refractaria a corticoides, se garantizará el tratamiento farmacológico con Infliximab.
+b.1. Tratamiento
 
-b.1.3. En pacientes pediátricos con diagnóstico confirmado de Colitis Ulcerosa Grave refractaria a corticoides o Colitis Ulcerosa moderada inmunorefractaria, se garantizará el tratamiento farmacológico con Infliximab.
+b.1.1 Medicamento golimumab o adalimumab en personas adultas con diagnóstico confirmado de colitis ulcerosa moderada inmunorefractaria.
 
-c) Garantía de Oportunidad
+b.1.2 Medicamento infliximab en personas adultas con diagnóstico confirmado de colitis ulcerosa grave refractaria a corticoides.
 
-c.1. Si cumple con los criterios de inclusión establecidos en el protocolo de esta condición de salud, hará uso del beneficio especifico de inicio de tratamiento con Adalimumab o Golimumab o Infliximab, de acuerdo a los siguientes subgrupos:
+b.1.3 Medicamento infliximab en pacientes pediátricos con diagnóstico confirmado de colitis ulcerosa grave refractaria a corticoides o colitis ulcerosa moderada inmunorefractaria.
 
-c.1.1. Personas adultas y pediátricas con Colitis Ulcerosa Grave hospitalizados con crisis cortico refractaria, recibirán Infliximab en un plazo no mayor a 3 días, desde la validación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+c) Garantías de oportunidad
 
-c.1.2. Personas adultas con Colitis Ulcerosa Moderada inmunorefractaria, recibirán Golimumab o Adalimumab en un plazo no mayor a 30 días, desde la validación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+c.1. Tratamiento
 
-c.1.3. Pacientes pediátricos con Colitis Ulcerosa Moderada inmunorefractaria, recibirán Infliximab en un plazo no mayor a 30 días, desde la validación de su indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Las personas con diagnóstico de colitis ulcerosa moderada y grave refractaria a tratamiento de primera línea, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento, según la indicación del médico tratante registrada al momento de generar la solicitud, de acuerdo con lo siguiente:
 
-c.2. Continuidad en la atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c.1.1 En personas adultas y pediátricas con diagnóstico de colitis ulcerosa grave, hospitalizados con crisis cortico-refractaria, recibirán tratamiento con Infliximab en un plazo no mayor a 3 días, desde la solicitud del tratamiento.
 
-d) Seguimiento:
+c.1.2 En personas adultas con diagnóstico de colitis ulcerosa moderada inmunorefractaria, recibirán tratamiento con Golimumab o Adalimumab, en un plazo de 30 días, desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme lo establecido en protocolo del Ministerio de Salud para Tratamiento con Golimumab o Adalimumab para personas con Colitis Ulcerosa Moderada e Infliximab para personas con Colitis Ulcerosa Grave, refractaria al tratamiento de primera línea.
+c.1.3 En pacientes pediátricos con diagnóstico de colitis ulcerosa moderada inmunorefractaria, recibirán tratamiento con Infliximab en un plazo de 30 días, desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 30 días desde la solicitud del tratamiento y en caso de estar hospitalizado con crisis cortico-refractaria, dentro de 3 días, desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 24. TRATAMIENTO CON TETRABENAZINA PARA LA COREA EN PERSONAS CON ENFERMEDAD DE HUNTINGTON
 
-a) Definición:
+La enfermedad de Huntington es un trastorno neurodegenerativo heredado progresivo y fatal caracterizado por disfunción motora, cognitiva y del comportamiento, todo lo cual contribuye a la discapacidad acumulativa y la pérdida de la calidad de vida. En la actualidad no existe una cura para esta enfermedad y el tratamiento está enfocado en disminuir la sintomatología motora de este problema de salud.
 
-La enfermedad de Huntington es un trastorno neurodegenerativo heredado progresivo y fatal caracterizado por disfunción motora, cognitiva y del comportamiento, todo lo cual contribuye a la discapacidad acumulativa y la pérdida de la calidad de vida. En la actualidad no existe una cura para esta enfermedad.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas con sospecha o diagnóstico confirmado de enfermedad de Huntington, que presentan corea y que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1. Confirmación Diagnóstica: Test de Repetición de CAG del exón 1 del Gen HTT.
+b) Prestaciones garantizadas
 
-b.2. Tratamiento farmacológico: Tetrabenazina.
+b.1. Confirmación diagnóstica
 
-c) Garantía de Oportunidad:
+Test genético de repetición de CAG del exón 1 del Gen HTT.
 
-c.1. Confirmación Diagnóstica: Personas con Corea y sospecha de Enfermedad de Huntington, harán uso del beneficio específico del Test de repetición de CAG del exón 1 del Gen HTT, en un plazo no mayor a 30 días, desde la recepción del formulario de sospecha fundada y la muestra de sangre venosa.
+b.2. Tratamiento
 
-c.2. Tratamiento farmacológico: Personas con corea y diagnóstico confirmado de Enfermedad de Huntington, harán uso del beneficio específico de inicio o continuidad de tratamiento con Tetrabenazina, en un plazo no mayor a 60 días desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Medicamento Tetrabenazina, para el tratamiento de la corea en enfermedad de Huntington.
 
-c.3. Continuidad de atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c) Garantías de oportunidad
 
-d) Seguimiento:
+c.1. Confirmación diagnóstica
 
-El seguimiento se realizará conforme lo establecido en el protocolo del Ministerio de Salud para el Tratamiento con Tetrabenazina para la Corea en personas con Enfermedad de Huntington.
+Las personas con sospecha de enfermedad de Huntington y corea, se realizará el test de repetición de CAG del exón 1 del Gen HTT, dentro de 30 días, desde la recepción del formulario de sospecha fundada y la muestra de sangre venosa, por el prestador aprobado en la etapa de confirmación.
+
+c.2. Tratamiento
+
+El inicio del tratamiento con Tetrabenazina, se realizará en personas con corea y diagnóstico confirmado de enfermedad de Huntington, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones, dentro de 60 días desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con Tetrabenazina, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 25. TRATAMIENTO CON INMUNOGLOBULINA G EN PERSONAS CON INMUNODEFICIENCIAS PRIMARIAS
 
-a) Definición:
-
 Las inmunodeficiencias primarias conforman un grupo heterogéneo de más de 340 diferentes enfermedades de origen monogénico. Estas enfermedades se caracterizan por comprometer la función normal de las distintas ramas del sistema inmune y por manifestarse mediante una combinación de infecciones recurrentes, trastornos autoinmunes, trastornos autoinflamatorios, trastornos linfoproliferativos, procesos granulomatosos, enfermedades alérgicas graves y malignidad.
 
-b) Prestaciones Garantizadas:
+a) Población beneficiaria
 
-b.1. Tratamiento: Inmunoglobulina G endovenosa o inmunoglobulina G subcutánea
+Personas con diagnóstico de inmunodeficiencia primaria, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-c) Garantía de Oportunidad:
+b) Prestaciones garantizadas
 
-c.1. Personas con inmunodeficiencia primaria y que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud, harán uso del beneficio específico de tratamiento con Inmunoglobulina G endovenosa en un plazo no mayor a 14 días desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+b.1. Tratamiento
 
-c.2. Personas con inmunodeficiencia primaria, que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud y que cumplan al menos una de las siguientes condiciones: anafilaxia documentada debida a Inmunoglobulina G endovenosa, síntomas documentados relacionados a la infusión de Inmunoglobulina G endovenosa no manejables o imposibilidad certificada de obtener accesos venosos, harán uso del beneficio específico de inicio de tratamiento farmacológico con inmunoglobulina G subcutánea en un plazo no mayor a 14 días desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Medicamento inmunoglobulina G endovenosa o inmunoglobulina G subcutánea para el tratamiento de la inmunodeficiencia primaria.
 
-c.3. Personas con inmunodeficiencia primaria, que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud y que ya estén recibiendo Inmunoglobulina G endovenosa o subcutánea, se considerará la continuidad del tratamiento según lo establecido en el protocolo correspondiente para esta condición de salud.
+c) Garantías de oportunidad
 
-c.4. Continuidad de atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c.1. Tratamiento
 
-d) Seguimiento:
+Las personas con diagnóstico de inmunodeficiencia primaria, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento, con inmunoglobulina G endovenosa en un plazo de 14 días, desde la solicitud del tratamiento.
 
-El seguimiento se realizará conforme a lo establecido en el protocolo del Ministerio de Salud para el Tratamiento con Inmunoglobulina G en personas con Inmunodeficiencias Primarias.
+Las personas con diagnóstico de inmunodeficiencia primaria, que cumplan con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y que presenten al menos una de las siguientes condiciones: anafilaxia documentada debida a inmunoglobulina G endovenosa síntomas documentados relacionados a la infusión de inmunoglobulina G endovenosa no manejables o imposibilidad certificada de obtener accesos venosos, iniciarán el tratamiento, con inmunoglobulina G subcutánea en un plazo de 14 días, desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con alguno de los medicamentos garantizados, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 14 días desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 26. TRATAMIENTO CON BELIMUMAB PARA PERSONAS CON LUPUS ERITEMATOSO SISTÉMICO CON COMPROMISO CUTÁNEO O ARTICULAR REFRACTARIO A TRATAMIENTO HABITUAL
 
-a) Definición:
+El lupus eritematoso sistémico (LES) es una enfermedad autoinmune inflamatoria crónica de causa desconocida que puede afectar cualquier órgano. Se caracteriza por un curso cíclico con remisiones y recaídas. Puede causar una discapacidad física y funcional importante y sus manifestaciones varían desde una afectación cutánea y articular relativamente leve, hasta una fatiga debilitante, un deterioro cognitivo significativo, enfermedad renal en etapa terminal y trombosis.
 
-El Lupus Eritematoso Sistémico (LES) es una enfermedad autoinmune inflamatoria crónica de causa desconocida que puede afectar cualquier órgano. Se caracteriza por un curso cíclico con remisiones y recaídas. Puede causar una discapacidad física y funcional importante y sus manifestaciones varían desde una afectación cutánea y articular relativamente leve, hasta una fatiga debilitante, un deterioro cognitivo significativo, enfermedad renal en etapa terminal y trombosis.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas con diagnóstico de lupus eritematoso sistémico con compromiso cutáneo o articular refractario a tratamiento habitual y que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1. Tratamiento: Belimumab.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1. Tratamiento
 
-c.1. Personas con Lupus Eritematoso Sistémico con compromiso cutáneo o articular refractario a tratamiento habitual, y que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud, harán uso del beneficio específico de inicio de tratamiento farmacológico con Belimumab, en un plazo no mayor a 60 días desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Medicamento Belimumab para el tratamiento de lupus eritematoso sistémico con compromiso cutáneo o articular refractario a tratamiento habitual.
 
-c.2. Continuidad de atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c) Garantías de oportunidad
 
-d) Seguimiento:
+c.1. Tratamiento
 
-El seguimiento se realizará conforme a lo establecido en el protocolo del Ministerio de Salud para el Tratamiento con Belimumab para personas con Lupus Eritematoso Sistémico con compromiso cutáneo o articular refractario a tratamiento habitual.
+Las personas con diagnóstico confirmado de lupus eritematoso sistémico con compromiso cutáneo o articular refractario a tratamiento habitual, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Belimumab, en un plazo de 60 días, desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con Belimumab, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días, desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 27. TRATAMIENTO CON RUXOLITINIB PARA PERSONAS CON MIELOFIBROSIS PRIMARIA Y SECUNDARIA A OTRAS NEOPLASIAS MIELOPROLIFERATIVAS
 
-a) Definición:
+La Mielofibrosis es una neoplasia mieloproliferativa crónica, generalmente idiopática, caracterizada por la proliferación desregulada de células mieloides (incluyendo megacariocitos y progenitores mieloides y eritroides) en la médula ósea, de variable madurez morfológica y eficacia hematopoyética. Frecuentemente se presenta de manera asintomática, siendo motivos frecuentes de consulta la esplenomegalia, hepatomegalia, o hemograma alterado.
 
-La mielofibrosis es una neoplasia mieloproliferativa crónica, generalmente idiopática, caracterizada por la proliferación desregulada de células mieloides (incluyendo megacariocitos y progenitores mieloides y eritroides) en la médula ósea, de variable madurez morfológica y eficacia hematopoyética. Frecuentemente se presenta de manera asintomática, siendo motivos frecuentes de consulta la esplenomegalia, hepatomegalia, o hemograma alterado.
+a) Población beneficiaria
 
-b) Prestaciones Garantizadas:
+Personas con diagnóstico de Mielofibrosis primaria o Mielofibrosis secundaria a otras neoplasias mieloproliferativas, que cumplan con los criterios establecidos en el protocolo para el otorgamiento de las prestaciones de este problema de salud.
 
-b.1. Tratamiento: Ruxolitinib.
+b) Prestaciones garantizadas
 
-c) Garantía de Oportunidad:
+b.1. Tratamiento
 
-c.1. En personas con Mielofibrosis primaria o secundaria a otras neoplasias mieloproliferativas, que cumplan con los criterios de inclusión establecidos en el protocolo de esta condición de salud, harán uso del beneficio específico de inicio de tratamiento farmacológico con Ruxolitinib, en un plazo no mayor a 60 días desde la validación de la indicación por parte del Comité de Expertos Clínicos del Prestador Aprobado.
+Medicamento Ruxolitinib, para el tratamiento de Mielofibrosis primaria o Mielofibrosis secundaria a otras neoplasias mieloproliferativas.
 
-c.2. Continuidad de atención y control, en conformidad a lo establecido en el protocolo de esta condición de salud.
+c) Garantías de oportunidad
 
-d) Seguimiento:
+c.1. Tratamiento
 
-El seguimiento se realizará conforme a lo establecido en el protocolo del Ministerio de Salud para el Tratamiento con Ruxolitinib para personas con Mielofibrosis primaria y secundaria a otras neoplasias mieloproliferativas.
+Las personas con diagnóstico de Mielofibrosis primaria o Mielofibrosis secundaria a otras neoplasias mieloproliferativas, que cumplan los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, iniciarán el tratamiento con Ruxolitinib, en un plazo de 60 días, desde la solicitud del tratamiento.
+
+Estando en tratamiento farmacológico con Ruxolitinib, previo a ser beneficiario de esta ley, y de cumplir con los criterios determinados en el protocolo para el otorgamiento de las prestaciones de este problema de salud, tendrá acceso a continuarlo. El inicio se realizará dentro de 60 días, desde la solicitud del tratamiento.
+
+d) Continuidad de la atención
+
+La continuidad de la atención y controles clínicos posteriores, se realizarán de acuerdo con lo establecido en el protocolo para el otorgamiento de las prestaciones de este problema de salud, y las consultas médicas y exámenes complementarios si fuesen necesarios, deberán ser cubiertas por los seguros de salud correspondientes, de acuerdo con el plan de salud del beneficiario(a).
 
 2º Déjase establecido que los tratamientos garantizados conforme a lo dispuesto en el presente decreto, se otorgarán exclusivamente de acuerdo a los protocolos aprobados para cada uno de los tratamientos asociados a enfermedades o condiciones de salud especificas a través de las resoluciones exentas Nº 735, de 26 de octubre de 2015, 1.447, de 28 de noviembre de 2016, 1.664, de 29 de diciembre de 2017, y 38, de 17 de enero de 2019, todas del Ministerio de Salud. De este modo, en los casos en que se aprueba más de una alternativa terapéutica para un tratamiento asociado a una condición de salud determinada, la indicación del medicamento específico se efectuará conforme al protocolo, según las condiciones clínicas del paciente.
 
