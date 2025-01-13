@@ -40,6 +40,14 @@ e) Usuarios o Beneficiarios del Sistema: Toda persona que pueda estar o esté su
 
 f) Comisión del Sistema Nacional de Certificación de Competencias Laborales: Servicio público funcionalmente descentralizado, creado por ley Nº 20.267 que está compuesto por un órgano colegiado de dirección superior y una secretaría ejecutiva.
 
+g) Perfil Ocupacional: es una agrupación de Unidades de Competencias Laborales relevantes para una determinada área ocupacional u oficio en un sector productivo determinado, alineado a los niveles del Marco Nacional de Cualificaciones para la formación técnico profesional establecido en el artículo quinto transitorio de la ley N° 21.091, sobre Educación Superior.
+
+h) Sector productivo: Es una actividad económica o conjunto de actividades, según el tipo de proceso que se desarrolle, relacionadas con la producción, distribución y comercio de bienes y servicios.
+
+Se entenderá que corresponde, entre otros, a los sectores acuícola, agrícola, comercio, comunicaciones, construcción, electricidad, gas y agua, empresas de servicios, energía, entidades públicas, industria manufacturera, logística, metalmecánica, minería, pecuario, pesquero, portuario, servicios financieros, silvícola, transporte, turismo y vitivinícola y afines.
+
+i) Subsector: Área de actividad económica especificada en el Registro Nacional de Unidades de Competencias Laborales acreditadas por la Comisión.
+
 #### Artículo 3
 
 Las referencias que se hacen en este Reglamento al Sistema, la Comisión, los Centros y la ley, deberán entenderse efectuadas, respectivamente, al Sistema Nacional de Certificación de Competencias Laborales, a la Comisión del Sistema Nacional de Certificación de Competencias Laborales, a los Centros de Evaluación y Certificación de Competencias Laborales y a la ley Nº 20.267 que crea el Sistema Nacional de Certificación de Competencias Laborales.
@@ -70,11 +78,21 @@ c) Los organismos técnicos intermedios para capacitación, cuyo rol de intermed
 
 #### Artículo 6
 
-Las universidades, institutos profesionales y centros de formación técnica reconocidos por el Ministerio de Educación, o instituciones que desarrollen otras actividades de capacitación o de formación financiadas con fondos públicos, a excepción de las señaladas en el inciso segundo del artículo anterior, podrán ser acreditadas como Centros, pero no podrán certificar las competencias laborales de personas egresadas de sus propios establecimientos.
+Las universidades, institutos profesionales y centros de formación técnica reconocidos por el Ministerio de Educación podrán ser acreditados como Centros de Evaluación y Certificación de Competencias Laborales.
 
-Los Centros que tengan con las instituciones de capacitación reguladas en la ley Nº 19.518, sobre Estatuto de Capacitación y Empleo, o con las instituciones de formación reguladas en la Ley Nº 18.962, Orgánica Constitucional de Enseñanza, o con instituciones que desarrollen otras actividades de capacitación o de formación financiadas con fondos públicos, alguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley Nº 18.045, del Título XV, de Mercado de Valores, no podrán evaluar o certificar a los egresados de dichas instituciones. Para efectos de este artículo, se entenderá por entidades relacionadas, entre otras, aquellas que pertenezcan al mismo grupo empresarial, con las que exista relación de control, acuerdo de actuación conjunta, influencia en la toma de decisiones, o directores, gerentes y administradores relacionados.
+Las entidades antes señaladas serán responsables de cautelar en los procesos de evaluación y certificación que lleven a cabo, la correcta aplicación de la inhabilidad establecida en el inciso cuarto del artículo 15 de la ley N° 20.267, referida a que no podrán cumplir estas funciones de evaluador quienes se desempeñen en calidad de director, gerente, administrador de las instituciones reguladas en la ley N° 19.518, sobre Estatuto de Capacitación y Empleo o la hayan tenido dentro de los últimos dos años contados desde el término de su relación con ellas.
 
-Lo establecido en los incisos anteriores también rige para las personas contratadas por los Centros para ejercer los servicios relacionados con la labor de evaluación de competencias laborales, las que no podrán evaluar las competencias laborales de las personas egresadas de las instituciones de capacitación o de formación en las que el evaluador se desempeñe, ni evaluar a los egresados de instituciones con las que el evaluador tenga alguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley Nº 18.045, Título XV, de Mercado de Valores.
+Por su parte, los Organismos Técnicos de Capacitación cuyo objeto único sea la prestación de servicios de capacitación, y los Organismos Técnicos Intermedios para Capacitación, regulados en la ley N° 19.518, no podrán constituirse como Centros de Evaluación y Certificación de Competencias Laborales. Asimismo, no podrán concurrir directamente o a través de personas jurídicas en las que participen, en la constitución de un Centro de Evaluación y Certificación de Competencias Laborales, cualquiera sea su naturaleza jurídica.
+
+Los Centros de Evaluación y Certificación de Competencias Laborales acreditados que tengan con los Organismos Técnicos de Capacitación mencionados en el inciso anterior, alguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley N° 18.045, de Mercado de Valores, no podrán evaluar o certificar a los egresados de las instituciones.
+
+La limitación señalada en el inciso anterior no aplicará a los Centros que hayan sido creados por organizaciones sin fines de lucro representativas de empleadores o trabajadores, que cuentan con inscripción vigente en el Ministerio de Economía, Fomento y Turismo, o en la Dirección del Trabajo, según corresponda, siempre y cuando hayan comparecido en la escritura de constitución del Centro.
+
+Para los efectos de este artículo, los postulantes a la acreditación deberán prestar una declaración jurada suscrita por su representante legal, que acredite que no se encuentran afectos a alguna de las causales de inhabilidad previstas en los incisos precedentes y en la que se comprometan a resguardar la imparcialidad de sus decisiones y a prevenir conflictos de intereses.
+
+La declaración jurada será rendida al momento de presentar la solicitud de acreditación o renovación, y deberá actualizarse en el mes de enero de cada año, para lo cual la Comisión pondrá a disposición de los postulantes un formulario tipo, en formato electrónico, que deberá ser completado y suscrito por el representante legal de la entidad.
+
+La infracción a estas disposiciones será sancionada de la forma establecida en el artículo 24 de la ley N° 20.267, sin perjuicio de la eventual responsabilidad penal que correspondiere conforme al artículo 210 del Código Penal.
 
 #### Artículo 7
 
@@ -95,6 +113,8 @@ c) Mantener las evidencias del proceso de evaluación de las competencias labora
 d) Informar a la Comisión, por escrito, de cualquiera circunstancia que altere o cambie, de manera sustancial, los antecedentes de los Centros, considerados para el proceso de su acreditación, establecidos en el artículo 19 de la ley y en el Título III del presente reglamento, especialmente lo relativo a modificaciones de estatutos, apertura o cierre de filiales, cambio en el equipo de dirección y administración del centro y en el equipo de evaluadores, entre otros.
 
 e) Desarrollar su labor, con total independencia, imparcialidad e integridad.
+
+f) Utilizar el nombre, marca y logo de la Comisión solo con su autorización, de acuerdo con las normas y procedimientos que esta apruebe, circunscribiendo su uso exclusivamente a la documentación relativa a evaluaciones y certificaciones de competencias laborales realizadas en el marco del Sistema Nacional de Certificación de Competencias Laborales regulado por la ley N° 20.267.
 
 ## Título III
 
@@ -178,7 +198,7 @@ La auditoría deberá ser ejecutada conforme a las condiciones que defina la Com
 
 Al momento de solicitar su acreditación, la entidad postulante deberá presentar una metodología de certificación de competencias laborales, la que deberá incluir, a lo menos, los siguientes aspectos:
 
-a) Alcance de la certificación. Las personas deberán ser certificadas por perfil ocupacional, salvo que por recomendación del Organismo Sectorial de Competencias Laborales, la certificación pueda ser otorgada por unidades de competencia laboral por separado o por alguna agrupación de ellas.
+a) Alcance de la certificación. Las personas podrán ser certificadas por perfil ocupacional o por unidades de competencia laboral por separado, según sea la recomendación del Organismo Sectorial de Competencias Laborales, y los criterios establecidos por la Comisión.
 
 b) Niveles. El Organismo Sectorial de Competencias Laborales podrá establecer niveles de certificación que una persona puede lograr asociados a un perfil ocupacional.
 
@@ -206,7 +226,7 @@ De los evaluadores
 
 Para su labor de evaluación, los Centros contratarán evaluadores que desarrollarán los procesos de evaluación de competencias laborales. Para estos efectos, al momento de solicitar la acreditación, la entidad postulante deberá demostrar que cuenta con evaluadores habilitados para desarrollar los procesos de evaluación de competencias laborales en el ámbito de acreditación al cual postula.
 
-No podrán cumplir estas funciones quienes se desempeñen en calidad de director, gerente, administrador o relator de las instituciones reguladas en la ley Nº 19.518, sobre Estatuto de Capacitación y Empleo, o la hayan tenido dentro de los últimos dos años contados desde el término de su relación con ellas.
+No podrán cumplir estas funciones quienes se desempeñen en calidad de director, gerente o administrador de las instituciones reguladas en la ley Nº 19.518, sobre Estatuto de Capacitación y Empleo, o la hayan tenido dentro de los últimos dos años contados desde el término de su relación con ellas.
 
 Asimismo, no podrán ser evaluadores los miembros y personal de la Comisión, así como los funcionarios públicos que tengan que ejercer, de acuerdo a la ley, funciones de fiscalización o control sobre las personas jurídicas inscritas en el Registro Nacional de Centros.
 
@@ -214,7 +234,17 @@ Asimismo, no podrán ser evaluadores los miembros y personal de la Comisión, as
 
 Corresponderá a la Comisión acreditar la condición de Evaluador habilitado para evaluar competencias laborales de las personas, en conformidad al Sistema, mantener un registro público de éstos y revocar la inscripción en dicho registro cuando corresponda.
 
-Podrán solicitar la habilitación como evaluadores las personas naturales, mayores de edad, que cuenten con experiencia laboral de al menos dos años en el sector o subsector a evaluar y que demuestren tener conocimientos, habilidades y destrezas para la ejecución de los procesos de evaluación de competencias laborales. Lo anterior deberá ser acreditado a través de la presentación de los documentos que respalden la experiencia laboral y mediante la aprobación de un curso de formación de evaluadores, para cuya ejecución la Comisión podrá celebrar convenios de colaboración con entidades de derecho público o privado. Ello sin perjuicio de los demás antecedentes que la Comisión considere necesarios, atendidas las particularidades específicas de cada sector o subsector a evaluar.
+Podrán solicitar la habilitación como evaluadores las personas naturales, mayores de edad, que cuenten con experiencia laboral de, al menos, tres años en el perfil ocupacional a evaluar, que demuestren tener conocimientos, habilidades y destrezas para la ejecución de los procesos de evaluación de competencias laborales. Lo anterior deberá ser acreditado a través de la presentación de los documentos que respalden la experiencia laboral y mediante la aprobación de un curso de formación de evaluadores cuyo contenido sea fijado por la Comisión, de forma previa a la celebración de convenios de colaboración con entidades de derecho público o privado.
+
+Con todo, en la solicitud de acreditación de las unidades de competencias laborales o de los perfiles ocupacionales, los Organismos Sectoriales de Competencias Laborales ("OSCL") podrán proponer a la Comisión que se exija a los evaluadores un requerimiento mayor de experiencia laboral, según sea la complejidad de la unidad de competencias laborales o del perfil ocupacional.
+
+Sin perjuicio de la responsabilidad del Centro que los contrate, los evaluadores de competencias laborales deberán desarrollar su labor con total independencia, imparcialidad e integridad, dando cumplimiento a los criterios establecidos en el artículo 11 y a lo dispuesto en el literal f) del artículo 8 del presente reglamento.
+
+En ningún caso, el evaluador de competencias laborales que sea relator de capacitación podrá evaluar las competencias de las mismas personas a las que haya capacitado.
+
+La Comisión podrá revocar la inscripción de evaluador por inhabilidad sobreviviente o incumplimiento grave en el ejercicio de la función.
+
+Se considerará incumplimiento grave en el ejercicio de la función las conductas establecidas en los numerales 5, 6, 7, 9 y 10 del inciso tercero del artículo 24 de la ley N° 20.267.
 
 ## Título V
 
@@ -240,25 +270,23 @@ Se entiende por evidencias todos aquellos hechos observables o antecedentes docu
 
 Las evidencias son directas o indirectas. Son directas aquellas que se generan en forma presencial entre el evaluador y la persona, tales como observaciones en terreno, entrevistas, pruebas orales o escritas y simulaciones. Por su parte, las evidencias indirectas son aquellas que se generan por un tercero o por documentos que la persona acumula, tales como informes de desempeño, cartas de recomendación, cursos acreditados, certificaciones, licencias y otros.
 
-Los centros deberán registrar las evidencias en un portafolio, expediente u otro instrumento físico, que además deberá ser respaldado de manera electrónica.
+Los centros deberán registrar las evidencias en un portafolio, expediente u otro instrumento electrónico, que asegure su integridad, disponibilidad y autenticidad.
 
-Al momento de concluir el proceso de evaluación y certificación de competencias laborales, los centros tendrán la obligación de devolver al interesado el portafolio físico de evidencias. El respaldo electrónico debe mantenerse indefinidamente por el Centro y una copia del mismo ser enviada a la Comisión cuando concluya el proceso de cada candidato.
+Al momento de concluir el proceso de evaluación y certificación de competencias laborales de cada candidato, los centros tendrán la obligación de remitir al interesado y a la Comisión el portafolio electrónico de evidencias, cuyo respaldo digital, aunque solo se haya extendido a la etapa de evaluación, debe mantenerse indefinidamente por el Centro, sin perjuicio de lo establecido en el inciso siguiente.
 
-Si por alguna razón no fuera posible devolver el portafolio físico, los Centros deberán mantenerlo durante un período de tres años contados desde la fecha en que hubiera concluido el proceso de evaluación. Transcurrido este plazo, el Centro será responsable sólo de entregar el respaldo electrónico al interesado que lo solicite.
-
-Si el Centro no renovare su acreditación, deberá enviar a la Comisión los respaldos físicos y electrónicos que mantuviere en su poder. La Comisión mantendrá el portafolio físico por un período de tres años contados desde su recepción. Transcurrido este plazo, la Comisión será responsable sólo de entregar el respaldo electrónico al interesado que lo solicite.
+Si el Centro no renovare su acreditación, deberá enviar a la Comisión los respaldos electrónicos que mantuviere en su poder. La Comisión será responsable de mantener el respaldo del portafolio electrónico de manera indefinida, una vez que el Centro no renovare su acreditación.
 
 #### Artículo 22
 
 Los Centros autorizados para realizar la labor de certificación de competencias laborales, así como los evaluadores contratados por éstos, deberán mantener reserva y confidencialidad sobre todo tipo de antecedentes e información que requieran de los distintos procedimientos y estrategias de producción de las empresas, vinculados al proceso de certificación de competencias.
 
-Asimismo, la Comisión y su Secretario Ejecutivo deberán mantener reserva de la información que requieran de los Centros de Certificación de Competencias, en relación a la información señalada en el inciso anterior, lo que se aplicará especialmente al manejo de los antecedentes de las personas naturales beneficiadas con los procesos de certificación.
+Asimismo, la Comisión y su Director(a) Ejecutivo(a) deberán mantener reserva de la información que requieran de los Centros de Certificación de Competencias, en relación a la información señalada en el inciso anterior, lo que se aplicará especialmente al manejo de los antecedentes de las personas naturales beneficiadas con los procesos de certificación.
 
 #### Artículo 23
 
 En caso que uno o más Centros involucrados en los procesos de certificación de competencias laborales o sus evaluadores, no guarden reserva o confidencialidad de los antecedentes relacionados con los procedimientos y estrategias de producción de las empresas objeto de dicha certificación, les será aplicable lo dispuesto en el Título VII de la ley.
 
-Si quien incurriere en esta infracción fuese uno o más de los miembros integrantes de la Comisión, o su Secretario Ejecutivo, deberán ser removidos de su cargo, sin perjuicio de las demás responsabilidades que les fueren aplicables.
+Si quien incurriere en esta infracción fuese uno o más de los miembros integrantes de la Comisión, o su Director(a) Ejecutivo(a), deberán ser removidos de su cargo, sin perjuicio de las demás responsabilidades que les fueren aplicables.
 
 ## Título VI
 
@@ -270,25 +298,29 @@ La Acreditación es el proceso mediante el cual la Comisión verifica que una en
 
 Corresponderá a la Comisión acreditar a los Centros que cumplan con los requisitos de idoneidad, imparcialidad y competencia, así como con los requisitos y criterios que se establecen en la ley y sus reglamentos, y con los que apruebe la Comisión, para asegurar el cumplimiento de los objetivos del Sistema.
 
+En los procesos de acreditación de Centros de Evaluación y Certificación de Competencias Laborales la Comisión podrá cobrar los aranceles a que se refiere el artículo 12 de la ley N° 20.267.
+
 #### Artículo 25
 
-La acreditación se otorgará por un plazo de tres años, sin perjuicio de la facultad de la Comisión para revocarla anticipadamente, en los casos señalados en el Título VII de este Reglamento.
+La acreditación se otorgará por un plazo que podrá ir entre uno y cuatro años, conforme a los criterios que se establecen en el artículo siguiente, sin perjuicio de la facultad de la Comisión para revocarla anticipadamente, en los casos señalados en el Título VII de este reglamento.
+
+#### Artículo 25 bis
+
+El plazo de acreditación que se otorgará a los Centros se definirá de acuerdo a los siguientes criterios:
+
+a) Puntaje obtenido en la evaluación de su solicitud de acreditación o de renovación. Se otorgará un año de acreditación a aquellas entidades cuyo puntaje de evaluación se encuentre dentro del primer tramo por sobre el puntaje de corte. Por su parte, se otorgarán dos años de acreditación a aquellas entidades cuyo puntaje de evaluación se encuentre dentro del segundo tramo por sobre el primer tramo señalado precedentemente. El puntaje de corte y los tramos serán definidos por la Comisión en las bases de la correspondiente convocatoria.
+
+b) Estándar de calidad. Se otorgará un año adicional de vigencia a aquellas entidades que, habiendo obtenido un puntaje de aprobación, presenten antecedentes o documentos que acrediten la gestión de calidad en los procesos internos, resguardando un funcionamiento adecuado y proporcionando un servicio que se adapte a las necesidades de las personas.
+
+c) Sistema de atención de usuarios y mecanismos de información. Se otorgará un año adicional de vigencia a las solicitudes de acreditación o renovación que, habiendo obtenido un puntaje de aprobación, cuenten con un sistema que permita la comunicación permanente con los usuarios, entregando datos de manera clara y precisa sobre los procesos de evaluación que ofrecen.
 
 #### Artículo 26
 
 La acreditación que se otorgue a los Centros se extenderá exclusivamente a aquellos perfiles ocupacionales, subsectores y sectores que la Comisión señale, conforme al contenido de cada solicitud, a los antecedentes de la evaluación y a las condiciones establecidas por la Comisión en la convocatoria a que se refiere el artículo 27.
 
-Para los fines de este Reglamento se entenderá por:
-
-a) Sector productivo: Se entenderá que corresponde, entre otros, a los sectores acuícola, agrícola, comercio, comunicaciones, construcción, electricidad, gas y agua, empresas de servicios, energía, entidades públicas, industria manufacturera, logística, metalmecánica, minería, pecuario, pesquero, portuario, servicios financieros, silvícola, transporte, turismo y vitivinícola y afines.
-
-b) Subsector: Área de actividad económica especificada en el Registro Nacional de Unidades de Competencias Laborales acreditadas por la Comisión.
-
-c) Perfil Ocupacional: Una agrupación de unidades de competencias laborales, relevantes para una determinada área ocupacional u oficio, según lo determine el organismo sectorial de competencias laborales respectivo.
-
 #### Artículo 27
 
-La Comisión convocará, al menos una vez al año, al proceso de acreditación de Centros y habilitación de evaluadores, debiendo informar en cada convocatoria acerca de las condiciones, requisitos, metodología y plazos del proceso, así como de la documentación legal, económica y técnica que deberán presentar los postulantes para acreditar el cumplimiento de los requisitos establecidos en la ley y el presente Reglamento.
+La Comisión convocará, al menos una vez al año, al proceso de acreditación de Centros, debiendo informar en cada convocatoria acerca de las condiciones, requisitos, metodología y plazos del proceso, así como de la documentación legal, económica y técnica que deberán presentar los postulantes para acreditar el cumplimiento de los requisitos establecidos en la ley y el presente Reglamento.
 
 La Comisión definirá los medios por los cuales se comunicará dicha convocatoria, pudiendo utilizar todos aquellos que permitan garantizar una adecuada difusión del llamado y la igualdad de acceso para cualquier postulante.
 
@@ -330,7 +362,7 @@ El Ministro del Trabajo y Previsión Social tendrá un plazo de treinta días h�
 
 La renovación es el proceso mediante el cual un Centro ya acreditado solicita, antes de su vencimiento, la extensión de vigencia de su acreditación a la Comisión, quien verifica el cumplimiento de los requisitos dispuestos por la ley, este Reglamento y los demás establecidos por la Comisión, para que continúe efectuando procesos de evaluación y certificación de competencias laborales en el ámbito de su acreditación vigente.
 
-La renovación debe ser solicitada por el Centro al menos cuarenta y cinco días hábiles antes del vencimiento de la vigencia de su acreditación y será otorgada por un plazo de tres años.
+La renovación debe ser solicitada por el Centro al menos cuarenta y cinco días hábiles antes del vencimiento de la vigencia de su acreditación y será otorgada por un plazo de uno a cuatro años, de acuerdo a los criterios definidos en el artículo 25 bis, del presente reglamento.
 
 #### Artículo 33
 
@@ -356,13 +388,55 @@ Lo anterior se entiende sin perjuicio de las facultades que les corresponden a o
 
 Para el ejercicio de su labor de supervisión, la Comisión podrá realizar visitas en terreno, tanto a las dependencias de la entidad como a otros lugares donde se desarrollan los procesos de evaluación y certificación, a objeto de verificar el cumplimiento de los requisitos y estándares mínimos que fueron presentados por el centro al momento de obtener su acreditación. Para estos efectos, la Comisión estará facultada para revisar documentos, registros de evidencias del proceso y efectuar las entrevistas necesarias al personal de la entidad.
 
-Esta supervisión será programada y concluirá con un reporte que permitirá tomar medidas correctivas inmediatas o en un plazo que la Comisión determine.
+Esta supervisión concluirá con un reporte que permitirá tomar medidas correctivas inmediatas o en un plazo que la Comisión determine.
 
 Lo anterior es sin perjuicio de las labores de supervisión permanente que efectuará la Comisión, en base a la información entregada por los centros en los reportes regulados en el artículo 20 del presente Reglamento.
 
 #### Artículo 37
 
-Los Centros que infrinjan las normas de la ley o este Reglamento serán sancionados por la Comisión, conforme a las normas establecidas en el Título V de la ley 20.267.
+Los Centros que infrinjan la ley N° 20.267 o el presente reglamento serán sancionados por la Comisión, de conformidad a lo dispuesto en el artículo 24 de la ley:
+
+a) Amonestación por escrito.
+
+b) Suspensión de la acreditación por el periodo de un mes a un año.
+
+c) Cancelación de su inscripción en el registro.
+
+Para la determinación de las sanciones específicas que en cada caso corresponda aplicar, se considerarán los siguientes criterios: la naturaleza y gravedad de la infracción, el beneficio económico obtenido con motivo de ésta, la intencionalidad y el grado de participación en el hecho, acción u omisión constitutiva de ella, y la conducta anterior del infractor.
+
+Sin perjuicio de lo anterior, solo podrá imponerse la medida de cancelación de la inscripción en el registro de los centros, en los siguientes casos:
+
+1. Por error manifiesto que permita presumir que el Centro ha obrado con grave negligencia en la prestación de su servicio.
+
+2. Por coludirse con organismos técnicos de capacitación, con instituciones de educación superior o con usuarios del Sistema para la entrega de certificados.
+
+3. Por haber sido sancionado penalmente cualquiera de los directivos, gerentes o administrativos del Centro, por el delito de falsedad o utilización maliciosa a que se refiere el artículo 16 de la presente ley.
+
+4. Por no haber adoptado las medidas necesarias para solucionar las observaciones del Director Ejecutivo o Directora Ejecutiva, al momento de suspender la autorización, dentro de los plazos fijados; o cuando las medidas implementadas no sean conducentes a dicho fin o no produzcan los efectos perseguidos.
+
+5. Por no haber aplicado las unidades de competencias laborales acreditadas por la Comisión.
+
+6. Por no haber aplicado los procedimientos y metodologías conforme al sistema de calidad definido por la Comisión.
+
+7. Por incumplimiento grave o reiterado de las normas de la ley, su reglamento o de las instrucciones impartidas por la Comisión.
+
+8. Por infracción a lo dispuesto en los artículos 17 y 19 de la ley.
+
+9. Por utilización de la autorización de la Comisión en ámbitos distintos a los autorizados.
+
+10. Si proporcionare información falsa o engañosa acerca de las características de los servicios que presta, o del desempeño que exhiba al interior del Sistema.
+
+#### Artículo 38
+
+El (la) Director(a) Ejecutivo(a) deberá notificar al representante legal del Centro, la ocurrencia de uno o más incumplimientos sancionados en la ley, el presente reglamento o las normas y procedimientos sancionados por la Comisión, mediante correo electrónico dirigido a la casilla que este haya informado a la Secretaría Ejecutiva de la Comisión, con indicación de un plazo de 10 días hábiles para que presente sus descargos.
+
+La Comisión, luego de efectuada la revisión de los descargos o en rebeldía del Centro, podrá resolver la aplicación de sanciones o bien, la absolución, mediante resolución fundada.
+
+De la resolución que imponga una sanción, se podrá reclamar ante el (la) Ministro(a) del Trabajo y Previsión Social dentro del plazo de 5 días hábiles, contado desde la notificación de dicha resolución. El (la) Ministro(a) tendrá un plazo de 30 días hábiles para resolver.
+
+Los Centros a quienes se les revoque la acreditación e inscripción en el respectivo Registro, no podrán solicitarla nuevamente sino después de transcurridos dos años contados desde la fecha de la revocación.
+
+La cancelación de la inscripción en el Registro se efectuará por la Comisión, mediante resolución fundada.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
