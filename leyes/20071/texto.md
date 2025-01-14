@@ -166,27 +166,11 @@ Las sanciones se anotarán en el Registro.
 
 #### Artículo 14
 
-Los actos administrativos que se originen en este procedimiento no podrán reclamarse mediante los recursos que contempla la ley N° 19.880, de Bases de los Procedimientos Administrativos.
-
-Con todo, contra la resolución que ponga fin al procedimiento sancionatorio procederá el recurso de apelación ante la Comisión de Apelaciones del Registro, en adelante la Comisión, debiendo interponerse dentro de los 30 días siguientes a su notificación. Dicho recurso de apelación no tendrá efectos suspensivos a menos que así lo resuelva expresamente la Comisión, a petición fundada del interesado.
-
-Las resoluciones de la Comisión serán inapelables, sin perjuicio de las demás acciones y recursos que procedan.
+La resolución que ponga fin al procedimiento sancionatorio podrá reclamarse mediante el procedimiento establecido en el párrafo 2° del capítulo IV de la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado.
 
 #### Artículo 15
 
-La Comisión estará integrada por:
-
-a) Dos funcionarios del Ministerio de Vivienda y Urbanismo, uno de los cuales la presidirá.
-
-b) Un representante del Colegio de Arquitectos de Chile A.G.
-
-c) Un representante del Colegio de Ingenieros A.G.
-
-d) Un representante del Colegio de Constructores Civiles de Chile A.G.
-
-Los miembros titulares de la Comisión y sus suplentes serán designados por los respectivos organismos.
-
-La constitución de esta Comisión se formalizará mediante una resolución del Subsecretario de Vivienda y Urbanismo.
+Eliminado.
 
 ## Título V
 

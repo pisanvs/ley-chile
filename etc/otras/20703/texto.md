@@ -102,7 +102,7 @@ a) Reincidir en la comisión de alguna infracción leve dentro del período de d
 
 b) Actuar encontrándose afectado por alguna causal de incompatibilidad establecida en esta ley.
 
-c) No estar presente en la obra el titular o el suplente designado durante la ejecución de las partidas principales cuando deba supervisar su correcta ejecución, conforme lo establezca el reglamento.
+c) No supervisar el titular o el suplente designado la correcta ejecución de las obras conforme lo establezca el reglamento.
 
 d) Cuando se acreditare que en una obra en que ha actuado el inspector técnico de obra no se ha dado cumplimiento al proyecto de arquitectura aprobado en el permiso de construcción, incluidas sus modificaciones, sin que haya representado por escrito el incumplimiento.
 
@@ -116,11 +116,11 @@ g) No supervisar el oportuno cumplimiento de las medidas de gestión y de contro
 
 a) La reincidencia en la comisión de alguna infracción grave dentro del período de dos años.
 
-b) Cuando se acreditare que en una obra en que ha actuado el inspector técnico de obra no se han respetado los planos del proyecto estructural y las especificaciones técnicas correspondientes, incluidas sus modificaciones, sin que haya representado por escrito el incumplimiento.
+b) Cuando se acreditare que en una obra en que ha actuado el inspector técnico de obra no se han respetado los planos del proyecto estructural y/o las especificaciones técnicas correspondientes, incluidas sus modificaciones, sin que haya representado por escrito el incumplimiento.
 
-c) Cuando se acreditare que en una obra en que ha actuado el inspector técnico de obra se ha producido incumplimiento de las normas de construcción aplicables a la ejecución de la obra o no se han realizado los ensayos y certificaciones que exigen las normas técnicas de construcción vigentes, sin que haya representado por escrito el incumplimiento.
+c) Cuando se acredite que en una obra en que ha actuado el inspector técnico de obra se ha producido incumplimiento de las normas de construcción aplicables a la ejecución de la obra, o las especificaciones técnicas del proyecto, en la medida que éstas no sean de un estándar técnico inferior a la normativa vigente, o no se han realizado los ensayos y certificaciones que exigen las normas técnicas de construcción vigentes, sin que haya representado por escrito el incumplimiento.
 
-d) No dejar anotación en el Libro de Obras y no denunciar al propietario de la obra, ante la Dirección del Registro y la Dirección de Obras Municipales, si éste no hubiere ordenado que se corrijan los trabajos defectuosos, cuando se trate de la estructura soportante del edificio, de acuerdo a lo establecido por el profesional que realizó el cálculo estructural del proyecto.
+d) No dejar anotación en el Libro de Obras y no denunciar al constructor de la obra, ante la Dirección del Registro y la Dirección de Obras Municipales, si éste no hubiere ordenado que se corrijan los trabajos defectuosos, cuando se trate de la estructura soportante del edificio, de acuerdo a lo establecido por el profesional que realizó el cálculo estructural del proyecto.
 
 e) Actuar encontrándose afectado por alguna causal de inhabilidad o habiendo perdido alguno de los requisitos de inscripción en el Registro.
 
@@ -286,45 +286,23 @@ Contra la resolución que ponga fin al procedimiento sancionatorio previsto en e
 
 #### Artículo 21
 
-Tratándose de los inspectores técnicos de obra, el recurso de apelación deberá interponerse ante la Comisión de Apelaciones del Registro establecida en el artículo 14 de la ley Nº 20.071, en adelante la Comisión.
+Tratándose de los inspectores técnicos de obra, la resolución que ponga fin al procedimiento sancionatorio podrá reclamarse mediante el procedimiento establecido en el párrafo 2° del capítulo IV de la ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
 
 #### Artículo 22
 
-Respecto de los revisores de proyectos de cálculo estructural, el recurso de apelación deberá interponerse ante la Comisión Nacional de Apelación, establecida en el siguiente artículo.
+Respecto de los revisores de proyectos de cálculo estructural, la resolución que ponga fin al procedimiento sancionatorio podrá reclamarse mediante el procedimiento referido en el artículo anterior.
 
 #### Artículo 23
 
-Créase la Comisión Nacional de Apelación, que estará integrada por:
-
-1) El Jefe de la División Técnica de Estudios y Fomento Habitacional (DITEC) del Ministerio de la Vivienda y Urbanismo, o su representante, quien la presidirá.
-
-2) Un Director de Obras Municipales, en representación de los Directores de Obras Municipales.
-
-3) Un representarte del Ministerio de Obras Públicas.
-
-4) Un representante de la Cámara Chilena de la Construcción.
-
-5) Un representante de la Asociación de Ingenieros Estructurales A.G. (AICE).
-
-6) Un representante de la Asociación Chilena de Sismología e Ingeniería Antisísmica (ACHISINA).
-
-7) Un representante de la Sociedad Chilena de Geotecnia (SOCHIGE).
-
-8) Un representante del Colegio de Arquitectos de Chile.
-
-9) Un representante del Colegio de Ingenieros de Chile.
-
-El reglamento establecerá un procedimiento de designación y funcionamiento de la Comisión Nacional de Apelación.
-
-La constitución de la Comisión Nacional de Apelación se formalizará mediante resolución del Subsecretario de Vivienda y Urbanismo.
+Derogado.
 
 #### Artículo 24
 
-Las apelaciones interpuestas conforme a la presente ley sólo se concederán en el efecto devolutivo, rigiendo las sanciones aplicadas por la Secretaría Regional Ministerial de Vivienda y Urbanismo. Con todo, podrán tener efecto suspensivo si así lo resuelve expresamente la Comisión o la Comisión Nacional de Apelación, según el caso, a petición fundada del interesado.
+Derogado.
 
 #### Artículo 25
 
-Las resoluciones tanto de la Comisión, como de la Comisión Nacional de Apelación, serán inapelables, sin perjuicio de las demás acciones y recursos que procedan.
+Derogado.
 
 #### Artículo 26
 

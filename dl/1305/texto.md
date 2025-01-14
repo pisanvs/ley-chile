@@ -410,6 +410,8 @@ Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio
 
 Asimismo, les corresponderá otorgar permisos y recepciones definitivas de construcciones en zonas declaradas afectadas por catástrofe, en los casos especiales que contempla la Ley General de Urbanismo y Construcciones. Para tal efecto podrán nombrar delegados que cumplan dichas funciones en las localidades afectadas, con las mismas competencias que el Secretario Regional Ministerial en esta materia.
 
+Además, les corresponderá reportar anualmente a la División de Desarrollo Urbano el estado de los procedimientos referidos al otorgamiento de permisos, autorizaciones o certificados, seguidos ante las Direcciones de Obras Municipales de su jurisdicción, en el marco de sus facultades de supervigilancia. Dicho reporte deberá caracterizar las respectivas direcciones, considerando la dotación y antigüedad de funcionarios, perfiles profesionales, acceso y participación en capacitaciones, recursos físicos, entre otros.
+
 ## Título III
 
 De los Servicios Regionales y Metropolitano de Vivienda

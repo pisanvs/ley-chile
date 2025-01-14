@@ -2566,7 +2566,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $9.995 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $6.905 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $10.385 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $7.175 pesos.
 
 #### Artículo 199
 
@@ -4768,7 +4768,9 @@ De igual manera, el Presidente de la República podrá disponer, previo informe 
 
 #### Artículo 451
 
-Derogado.
+Los conservadores de bienes raíces deberán inscribir los títulos en los registros de propiedad, de hipotecas y gravámenes y de interdicciones y prohibiciones de enajenar, así como las anotaciones marginales, dentro del plazo máximo de veinte días desde la presentación de los requerimientos.
+
+En caso de reparos a las solicitudes señaladas en el inciso precedente, el plazo para inscribir será de diez días, contado desde el reingreso.
 
 #### Artículo 452
 

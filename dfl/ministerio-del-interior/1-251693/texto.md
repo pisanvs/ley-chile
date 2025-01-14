@@ -428,19 +428,25 @@ En el ejercicio de esta autonomía, las municipalidades podrán requerir del Ser
 
 Para garantizar el cumplimiento de los fines de las municipalidades y su adecuado funcionamiento, existirá un mecanismo de redistribución solidaria de recursos financieros entre las municipalidades del país, denominado Fondo Común Municipal, el cual estará integrado por los siguientes recursos:
 
-1.- Un sesenta por ciento del impuesto territorial que resulte de aplicar la tasa a que se refiere el artículo 7º de la Ley sobre Impuesto Territorial; no obstante, tratándose de las Municipalidades de Santiago, Providencia, Las Condes y Vitacura, su aporte por este concepto será de un sesenta y cinco por ciento;
+1.- Un sesenta por ciento del impuesto territorial que resulte de aplicar la tasa a que se refiere el artículo 7º de la Ley sobre Impuesto Territorial; no obstante, tratándose de las Municipalidades de Santiago, Providencia, Las Condes y Vitacura, su aporte por este concepto será de un sesenta y cinco por ciento.
 
-2.- Un sesenta y dos coma cinco por ciento del derecho por el permiso de circulación de vehículos que establece la Ley de Rentas Municipales, sin perjuicio de lo establecido en su artículo 12;
+2.- Un sesenta y dos coma cinco por ciento del derecho por el permiso de circulación de vehículos que establece la Ley de Rentas Municipales, sin perjuicio de lo establecido en su artículo 12.
 
-3.- Un cincuenta y cinco por ciento de lo que recaude la Municipalidad de Santiago y un sesenta y cinco por ciento de lo que recauden las Municipalidades de Providencia, Las Condes y Vitacura, por el pago de las patentes a que se refieren los artículos 23 y 32 de la Ley de Rentas Municipales, y 3º de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas;
+3.- Un cincuenta y cinco por ciento de lo que recaude la Municipalidad de Santiago y un sesenta y cinco por ciento de lo que recauden las Municipalidades de Providencia, Las Condes y Vitacura, por el pago de las patentes a que se refieren los artículos 23 y 32 de la Ley de Rentas Municipales, y 3º de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas.
 
-4.- Un cincuenta por ciento del derecho establecido en el Nº7 del artículo 41 del Decreto Ley Nº 3.063, de 1979, Ley de Rentas Municipales, en la transferencia de vehículos con permisos de circulación;
+4.- Un cincuenta por ciento del derecho establecido en el Nº7 del artículo 41 del Decreto Ley Nº 3.063, de 1979, Ley de Rentas Municipales, en la transferencia de vehículos con permisos de circulación.
 
-5.- El monto total del impuesto territorial que paguen los inmuebles fiscales afectos a dicho impuesto, conforme lo establece la Ley Nº 17.235; y por un aporte fiscal que se considerará anualmente en la Ley de Presupuestos, cuyo monto será equivalente en pesos a 1.052.000 unidades tributarias mensuales, a su valor del mes de agosto del año precedente, y
+5.- El monto total del impuesto territorial que paguen los inmuebles fiscales afectos a dicho impuesto, conforme lo establece la Ley Nº 17.235; y por un aporte fiscal que se considerará anualmente en la Ley de Presupuestos, cuyo monto será equivalente en pesos a 1.052.000 unidades tributarias mensuales, a su valor del mes de agosto del año precedente.
 
 6.- El cien por ciento de lo recaudado por multas impuestas por los Juzgados de Policía Local, por infracciones o contravenciones a las normas de tránsito, detectadas por medio de equipos de registro de infracciones.
 
 No obstante, tratándose de multas por infracciones o contravenciones al artículo 118 bis de la ley Nº 18.290, sólo el 70% de ellas pasarán a integrar el Fondo Común Municipal, quedando el porcentaje restante a beneficio de la municipalidad en que se hubiere aplicado la multa respectiva. Con todo, tratándose de las multas impuestas por infracción a la prohibición establecida en el inciso primero del artículo 114 del decreto con fuerza de ley N° 1, del Ministerio de Justicia, de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, sólo el cincuenta por ciento de lo recaudado ingresará al Fondo Común Municipal, pasando el cincuenta por ciento restante a beneficio municipal.
+
+7.- Un aporte fiscal adicional que consultará la Ley de Presupuestos del Sector Público a favor de aquellas comunas pertenecientes a regiones mineras donde se ubiquen las siguientes actividades asociadas a explotadores mineros sujetos al Royalty Minero: refinerías; fundiciones; yacimientos y depósitos de relaves activos que puedan generar un impacto significativo sobre la salud de la población, según determine el reglamento del Fondo Común Municipal. Además, será destinado a comunas pertenecientes a regiones mineras donde se ubiquen relaves abandonados de carácter prioritario por encontrarse cercanos a la población y que tengan el potencial de generar un impacto significativo sobre la salud de ésta; o puertos cuya actividad esté asociada mayoritariamente a la actividad minera, ambos según determine el reglamento del Fondo Común Municipal.
+
+Para estos efectos, se entenderá por regiones mineras aquellas cuyo producto interno bruto minero regional, excluyendo la minería de petróleo y gas natural, represente más de un 2,5% del producto interno bruto minero nacional y de su producto interno bruto regional.
+
+8.- Un aporte fiscal cuyo monto será equivalente en pesos a 2.500.000 unidades tributarias mensuales a favor de aquellas comunas que presenten una mayor dependencia del Fondo Común Municipal o pertenezcan al grupo con menos ingresos propios a nivel nacional.
 
 La distribución de este Fondo se sujetará a los criterios y normas establecidos en la Ley de Rentas Municipales.
 
@@ -566,7 +572,7 @@ Cuando exista corporación municipal a cargo de la administración de servicios 
 
 A la unidad encargada de obras municipales le corresponderán las siguientes funciones:
 
-a) Velar por el cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones, del plan regulador comunal y de las ordenanzas correspondientes, para cuyo efecto gozará de las siguientes atribuciones específicas:
+a) Velar por el cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza General, junto con los instrumentos de planificación territorial correspondientes, en la forma que determine la citada ley. Para dicho efecto, gozará de las siguientes atribuciones específicas:
 
 1) Dar aprobación a las fusiones,
 
@@ -582,25 +588,39 @@ del artículo 55 de la Ley General
 
 de Urbanismo y Construcciones;
 
-2) Dar aprobación a los
+2) Dar aprobación a los anteproyectos
 
-anteproyectos y proyectos de
+y proyectos de subdivisiones
 
-obras de urbanización y edificación
+afectas a declaratoria de utilidad
 
-y otorgar los permisos
+pública, loteos, obras de
 
-correspondientes, previa verificación
+urbanización y de edificación y
 
-de que éstos cumplen con los
+otorgar los permisos
 
-aspectos a revisar de acuerdo a
+correspondientes en las áreas
 
-la Ley General de Urbanismo y
+urbanas y de extensión urbana o
 
-Construcciones.
+rurales, en caso de aplicación
 
-3) Fiscalizar la ejecución de dichas obras hasta el momento de su recepción, y
+del artículo 55 de la Ley General
+
+de Urbanismo y Construcciones,
+
+previa verificación de que éstos
+
+cumplen con los aspectos a revisar
+
+de acuerdo a la citada ley.
+
+3) Fiscalizar la ejecución de dichas
+
+obras hasta el momento de su
+
+recepción, y
 
 4) Recibirse de las obras y
 
@@ -618,7 +638,7 @@ Construcciones.
 
 b) Fiscalizar las obras en uso, a fin de verificar el cumplimiento de las disposiciones legales y técnicas que las rijan;
 
-c) Aplicar normas ambientales relacionadas con obras de construcción y urbanización;
+c) Aplicar normas ambientales relacionadas con obras de urbanización y edificación en la forma que determine la Ley General de Urbanismo y Construcciones;
 
 d) Confeccionar y mantener actualizado el catastro de las obras de urbanización y edificación realizadas en la comuna;
 
@@ -626,9 +646,11 @@ e) Ejecutar medidas relacionadas con la vialidad urbana y rural y pronunciarse s
 
 f) Dirigir las construcciones que sean de responsabilidad municipal, sean ejecutadas directamente o a través de terceros, y
 
-g) En general, aplicar las normas legales sobre construcción y urbanización en la comuna.
+g) En general, aplicar las normas legales sobre edificación y urbanización en la comuna, en los términos que disponga la Ley General de Urbanismo y Construcciones y su respectiva Ordenanza General.
 
 Quien ejerza la jefatura de esta unidad deberá poseer indistintamente el título de arquitecto, de ingeniero civil, de constructor civil o de ingeniero constructor civil.
+
+En el ejercicio de las funciones descritas en las letras a), b), c) y g) del inciso primero de este artículo, la unidad encargada de obras municipales deberá dar estricto cumplimiento a las instrucciones que imparta la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva en el marco de su labor de supervigilancia de acuerdo con los artículos 4º y 12 de la Ley General de Urbanismo y Construcciones. Además, deberá entregar la información que le sea solicitada por dicha Secretaría respecto del estado de los procedimientos de otorgamiento de permisos, autorizaciones o certificados seguidos ante ella; la caracterización de dichas unidades, considerando la dotación y antigüedad de funcionarios, perfiles profesionales, acceso y participación en capacitaciones, recursos físicos, entre otros. Lo anterior, en el plazo máximo de veinte días hábiles, contado desde la recepción de la solicitud.
 
 #### Artículo 25
 
