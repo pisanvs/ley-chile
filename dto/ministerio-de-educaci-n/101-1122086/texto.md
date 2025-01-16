@@ -104,31 +104,31 @@ Para la designación de representantes por los alcaldes, en los Servicios Locale
 
 En los Servicios Locales que abarquen dos comunas, cada alcalde elegirá a un representante y en aquellos que abarquen tres o más comunas, los representantes serán designados por mayoría simple de los alcaldes del territorio.
 
-En este último caso, la Dirección de Educación Pública convocará mediante oficio a los alcaldes respectivos para los efectos de que, en una misma sesión, cada uno proponga a un candidato y se realice la votación correspondiente. La convocatoria deberá realizarse a lo menos 90 días corridos antes de la fecha en que el integrante del Comité cumpla su periodo de nombramiento o el de su renovación, según corresponda.
+En este último caso, el Servicio Local de Educación Pública convocará mediante oficio a los alcaldes respectivos para los efectos de que, en una misma sesión, cada uno proponga a un candidato y se realice la votación correspondiente. La convocatoria deberá realizarse a lo menos 90 días corridos antes de la fecha en que el integrante del Comité cumpla su periodo de nombramiento o el de su renovación, según corresponda.
 
-La Dirección de Educación Pública designará a un funcionario, el que actuará como ministro de fe y levantará acta de este proceso.
+el Servicio Local de Educación Pública designará a un funcionario, el que actuará como ministro de fe y levantará acta de este proceso.
 
-En el caso que no concurran la totalidad de los alcaldes, la Dirección de Educación Pública deberá convocarlos nuevamente, lo que deberá verificarse dentro de los 15 días siguientes a la convocatoria anterior, realizándose la votación con los alcaldes que asistan; los dos candidatos que obtengan las primeras dos mayorías serán designados como representantes.
+En el caso que no concurran la totalidad de los alcaldes, el Servicio Local de Educación Pública deberá convocarlos nuevamente, lo que deberá verificarse dentro de los 15 días siguientes a la convocatoria anterior, realizándose la votación con los alcaldes que asistan; los dos candidatos que obtengan las primeras dos mayorías serán designados como representantes.
 
 Si se verificara un empate entre tres o más candidatos mayoritarios, se repetirá la votación solo entre dichos candidatos.
 
 #### Artículo 8°
 
-Para la designación de los representantes de los centros de padres y apoderados, la Dirección de Educación Pública, al menos cuatro meses antes de la fecha en que expiren los mandatos de los miembros del Comité y mediante una publicación en el sitio electrónico del servicio, convocará a los centros de padres y apoderados de la totalidad de los establecimientos educacionales dependientes del respectivo Servicio Local para los efectos de que presenten sus candidatos.
+Para la designación de los representantes de los centros de padres y apoderados, el Servicio Local de Educación Pública, al menos cuatro meses antes de la fecha en que expiren los mandatos de los miembros del Comité y mediante una publicación en el sitio electrónico del servicio, convocará a los centros de padres y apoderados de la totalidad de los establecimientos educacionales dependientes del respectivo Servicio Local para los efectos de que presenten sus candidatos.
 
 El directorio del centro de padres y apoderados podrá definir que la nominación se realice previa consulta a los padres y apoderados del establecimiento, y sólo podrán ser candidatos los padres y apoderados de establecimientos educacionales dependientes del Servicio Local. El plazo para efectuar esta postulación será de 30 días hábiles desde la publicación de la convocatoria.
 
-Cerrada la recepción de candidaturas y mediante una publicación en su sitio electrónico, la Dirección de Educación Pública convocará a los presidentes de los directorios de los centros de padres y apoderados que correspondan a la elección de sus representantes; esta convocatoria deberá contener los nombres de todos los candidatos y el establecimiento educacional a que pertenecen, además de indicar el lugar, día y hora para la votación.
+Cerrada la recepción de candidaturas y mediante una publicación en su sitio electrónico, el Servicio Local de Educación Pública convocará a los presidentes de los directorios de los centros de padres y apoderados que correspondan a la elección de sus representantes; esta convocatoria deberá contener los nombres de todos los candidatos y el establecimiento educacional a que pertenecen, además de indicar el lugar, día y hora para la votación.
 
-La Dirección de Educación Pública designará un funcionario como ministro de fe, quien deberá levantar acta de este proceso.
+el Servicio Local de Educación Pública designará un funcionario como ministro de fe, quien deberá levantar acta de este proceso.
 
-Será necesaria la asistencia de al menos un 30% de los presidentes de los centros de padres y apoderados de los establecimientos dependientes del Servicio Local. En el caso que no se reuniera dicho quórum, la Dirección de Educación Pública deberá convocar a una nueva elección, la que deberá verificarse en un plazo máximo de 30 días desde la elección inicial. Esta elección no requerirá de quórum mínimo.
+Será necesaria la asistencia de al menos un 30% de los presidentes de los centros de padres y apoderados de los establecimientos dependientes del Servicio Local. En el caso que no se reuniera dicho quórum, el Servicio Local de Educación Pública deberá convocar a una nueva elección, la que deberá verificarse en un plazo máximo de 30 días desde la elección inicial. Esta elección no requerirá de quórum mínimo.
 
 Serán designados como representantes de los centros de padres y apoderados los dos candidatos que obtengan las primeras dos mayorías; en caso de empate entre tres o más candidatos mayoritarios, se repetirá de inmediato la votación solo entre dichos candidatos.
 
 #### Artículo 9°
 
-Para los efectos de la designación de los representantes del gobierno regional, el gobernador regional respectivo, en una sesión extraordinaria convocada para tal efecto, deberá proponer sus candidatos al Consejo Regional, dos meses antes de la fecha en que expiren los mandatos de los miembros del Comité que serán reemplazados.
+Para los efectos de la designación de los representantes del gobierno regional, el Servicio Local de Educación Pública informará al gobernador regional respectivo, mediante oficio, la fecha de expiración de los mandatos de los miembros del Comité que serán reemplazados. Dicho oficio deberá ser remitido al gobernador regional al menos dentro del tercer mes previo a la expiración del mandato respectivo. Dicha autoridad, en una sesión extraordinaria convocada para tal efecto a celebrarse al menos dos meses antes de dicha fecha, propondrá sus candidatos al Consejo Regional.
 
 El Consejo Regional deberá aprobar la designación por la mayoría absoluta de sus miembros asistentes a la sesión.
 
@@ -241,6 +241,12 @@ En el acto de nombramiento deberá constar la circunstancia de ejercerse el carg
 #### Artículo tercero
 
 transitorio.- Mientras no existan gobernadores regionales en ejercicio, las funciones que les otorga este reglamento serán ejercidas por el intendente respectivo. Asimismo, las incompatibilidades establecidas respecto del delegado presidencial regional y del delegado presidencial provincial entiéndase hechas al intendente y al gobernador, respectivamente.
+
+#### Artículo cuarto
+
+transitorio.- Mientras no haya sido traspasado el servicio educacional al Servicio Local respectivo, las obligaciones y atribuciones establecidas en los artículos 7°, 8° y 9° del presente reglamento serán ejercidas por la Dirección de Educación Pública conforme a lo indicado en los artículos trigésimo quinto transitorio y cuadragésimo octavo transitorio de la ley N° 21.040.
+
+Asimismo, tratándose de las elecciones que tengan lugar en esta oportunidad, el sostenedor municipal correspondiente deberá remitir la información de los directorios de los centros de padres y apoderados a la Dirección de Educación Pública.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Adriana Delpiano Puelma, Ministra de Educación.
 
