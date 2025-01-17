@@ -114,6 +114,8 @@ Región del Biobío
 
 . Puerto Industrial Cabo Froward.
 
+. Aeropuerto Carriel Sur.
+
 Región de la Araucanía
 
 . Paso Pino Hachado
