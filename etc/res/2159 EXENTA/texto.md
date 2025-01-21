@@ -58,6 +58,44 @@ Código de
 
 Acreditación: 3CV-ATX-EM-EM9-2024-006.
 
+Fabricante : Carlos Paulino
+
+Cabrera Reyes.
+
+Dirección : Chiloé 4032, San
+
+Miguel, Santiago,
+
+Chile.
+
+Teléfono : +562 - 2310 9757.
+
+Taxímetro : Marca Carca,
+
+modelo G-3000.
+
+Código de
+
+Acreditación: 3CV-ATX-CR-G30-2024-006.
+
+Fabricante : Wavesbyte Isla Ltda.
+
+Dirección : Pasaje Dos N° 1799,
+
+San Bernardo,
+
+Santiago, Chile.
+
+Teléfono : +569-8507 8891.
+
+Taxímetro : Marca Cibtron, modelo
+
+WB-001.
+
+Código de
+
+Acreditación: 3CV-ATX-CB-WB1-2024-008.
+
 Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
