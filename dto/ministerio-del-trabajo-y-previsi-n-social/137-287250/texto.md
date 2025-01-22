@@ -96,9 +96,11 @@ Para los efectos del presente Reglamento los siguientes conceptos tienen el sign
 
 a) Unidad de Competencia Laboral: Es un estándar que describe los conocimientos, las habilidades y aptitudes que un individuo debe ser capaz de desempeñar y aplicar en distintas situaciones de trabajo, incluyendo las variables, condiciones o criterios para inferir que el desempeño fue efectivamente logrado.
 
-b) Perfil ocupacional: Es una agrupación de UCL relevantes para una determinada área ocupacional u oficio.
+b) Perfil ocupacional: es una agrupación de Unidades de Competencias Laborales relevantes para una determinada área ocupacional u oficio en un sector productivo determinado, alineado a los niveles del Marco Nacional de Cualificaciones para la formación técnico profesional establecido en al artículo quinto transitorio de la ley N° 21.091, sobre Educación Superior.
 
-c) Sector productivo: Para los efectos del presente Reglamento, dentro de la expresión sector productivo se comprenderán, sin que esta enumeración sea taxativa, los sectores acuícola, agrícola, comercio, comunicaciones, construcción, electricidad, gas y agua, empresas de servicios, energía, entidades públicas, industria manufacturera, logística, metalmecánica, minería, pecuario, pesquero, portuario, servicios financieros, silvícola, transporte, turismo y vitivinícola y afines.
+c) Sector productivo: es una actividad económica o conjunto de actividades, según el tipo de proceso que se desarrolle, relacionadas con la producción, distribución y comercio de bienes y servicios.
+
+Se entenderá que corresponde, entre otros, a los sectores acuícolas, agrícolas, comercio, comunicaciones, construcción, electricidad, gas y agua, empresas de servicios, energía, entidades públicas, industria manufacturera, logística, metalmecánica, minería, pecuario, pesquero, portuario, servicios financieros, silvícola, transporte, turismo y vitivinícola y afines.
 
 d) Beneficiarios del sistema: Toda persona que pueda estar o esté sujeta a algún proceso de evaluación y certificación de competencias laborales, independiente de su situación laboral.
 
@@ -112,11 +114,11 @@ Párrafo Primero
 
 La Comisión estará integrada por nueve miembros que tengan reconocida calidad técnica en el ámbito de las competencias laborales, los que serán designados de la siguiente forma:
 
-a) Un miembro designado por el Ministro del Trabajo y Previsión Social.
+a) Un miembro designado por el (la) Ministro(a) del Trabajo y Previsión Social.
 
-b) Un miembro designado por el Ministro de Economía, Fomento y Reconstrucción.
+b) Un miembro designado por el (la) Ministro(a) de Economía, Fomento y Turismo.
 
-c) Un miembro designado por el Ministro de Educación.
+c) Un miembro designado por el (la) Ministro(a) de Educación.
 
 d) Tres miembros designados por las organizaciones de empleadores de mayor representatividad del país, entre los representantes de los sectores productivos participantes del Sistema.
 
@@ -126,11 +128,11 @@ e) Tres miembros designados por las centrales de trabajadores de mayor represent
 
 Para la designación de los miembros de la Comisión indicados en el artículo anterior, el Ministro del Trabajo y Previsión Social actuará conforme el siguiente procedimiento:
 
-a) Solicitará a los Ministros de Economía, Fomento y Reconstrucción y de Educación que cada uno designe un miembro, para que integre la Comisión, conforme a las facultades que les confiere el artículo 5 letra b) y letra c), respectivamente, de la ley Nº 20.267.
+a) Solicitará a los Ministros de Economía, Fomento y Turismo y de Educación que cada uno designe un miembro, para que integre la Comisión, conforme a las facultades que les confiere el artículo 5 letra b) y letra c), respectivamente, de la ley Nº 20.267.
 
 b) Solicitará a las organizaciones de empleadores de mayor representatividad del país entre los sectores productivos participantes en el sistema, que designen a los tres miembros que de conformidad al artículo 5, letra d) de la ley Nº 20.267, les corresponde designar de la Comisión.
 
-Para estimar la mayor representatividad de las organizaciones de empleadores se requerirá informe al Ministerio de Economía, Fomento y Reconstrucción. Para estimar los sectores productivos participantes del sistema se podrá requerir informe a los organismos correspondientes que centralicen esa información.
+Para estimar la mayor representatividad de las organizaciones de empleadores se requerirá informe al Ministerio de Economía, Fomento y Turismo. Para estimar los sectores productivos participantes del sistema se podrá requerir informe a los organismos correspondientes que centralicen esa información.
 
 c) Solicitará a las centrales de trabajadores de mayor representatividad del país, que designen a los tres miembros que de conformidad al artículo 5, letra e) de la ley Nº 20.267, les corresponde designar de la Comisión.
 
@@ -164,9 +166,9 @@ Las renovaciones se realizarán cada dos años, y afectarán a los miembros de l
 
 La renovación de los miembros de la Comisión se efectuará conforme al siguiente procedimiento:
 
-a) El Secretario Ejecutivo informará al Ministro del Trabajo y Previsión Social respecto de aquellos miembros de la Comisión que deban renovarse, con a lo menos dos meses de antelación a la fecha en que deban cesar en sus cargos.
+a) El (la) Director(a) Ejecutivo(a) informará al (a la) Ministro(a) del Trabajo y Previsión Social respecto de aquellos miembros de la Comisión que deban renovarse, con a lo menos dos meses de antelación a la fecha en que deban cesar en sus cargos.
 
-b) Recibida la comunicación antes señalada, el Ministro procederá conforme lo dispone el artículo 8º del presente Reglamento según corresponda.
+b) Recibida la comunicación antes señalada, el (la) Ministro(a) del Trabajo y Previsión Social. procederá conforme lo dispone el artículo 8º del presente Reglamento según corresponda.
 
 #### Artículo 13º
 
@@ -188,11 +190,13 @@ d) Inhabilidad sobreviniente por incurrir los miembros en alguna de las prohibic
 
 e) Haber sido sancionado con la medida de remoción, por infracción a las disposiciones contenidas en la ley Nº 20.267.
 
-Los miembros de la Comisión tienen la facultad de presentar su renuncia en cualquier momento, situación que será comunicada a la Comisión por intermedio del Secretario Ejecutivo, quien deberá procurar la realización de los procedimientos necesarios para llenar el espacio dejado por el miembro renunciado.
+f) Término de la representación encomendada por parte de la entidad o autoridad
+
+Los miembros de la Comisión tienen la facultad de presentar su renuncia en cualquier momento, situación que será comunicada a la Comisión por intermedio del (la) Director(a) Ejecutivo(a), quien deberá procurar la realización de los procedimientos necesarios para llenar el espacio dejado por el miembro renunciado.
 
 #### Artículo 15º
 
-El Secretario Ejecutivo deberá velar porque el proceso de renovaciones ordinarias de la Comisión se produzcan en los plazos que establezca el estatuto de funcionamiento de la Comisión, de modo tal que la Comisión no quede imposibilitada de actuar, y deberá entregar al Ministro del Trabajo y Previsión Social los antecedentes, informes y documentos que éste requiera para efectuar el procedimiento de renovación.
+El (la) Director(a) Ejecutivo(a) deberá velar porque el proceso de renovaciones ordinarias de la Comisión se produzcan en los plazos que establezca el estatuto de funcionamiento de la Comisión, de modo tal que la Comisión no quede imposibilitada de actuar, y deberá entregar al (a la) Ministro(a) del Trabajo y Previsión Social los antecedentes, informes y documentos que éste requiera para efectuar el procedimiento de renovación.
 
 Párrafo Tercero
 
@@ -210,35 +214,33 @@ Lo anterior es sin perjuicio de lo establecido en el artículo 64º del DFL Nº 
 
 #### Artículo 18º
 
-Corresponderá al Secretario Ejecutivo revisar las declaraciones de intereses y patrimonio de los miembros de la Comisión, a fin de acreditar alguna eventual causal de incompatibilidad o inhabilidad de uno o más de sus miembros.
+Corresponderá al (la) Director(a) Ejecutivo(a) revisar la declaración jurada de los miembros de la Comisión, a la que se refiere el artículo 19 del presente reglamento, para determinar alguna eventual causal de incompatibilidad o inhabilidad o de uno o más de sus miembros.
 
-En el caso de acreditar alguna causal, el Secretario Ejecutivo deberá poner en conocimiento de este hecho a la Comisión en la sesión inmediatamente posterior a su acreditación, mediante su anotación en tabla.
+En el caso de acreditar alguna causal, el (la) Directora(a) Ejecutivo(a) deberá poner en conocimiento de este hecho a la Comisión en la sesión inmediatamente posterior a su acreditación, mediante su anotación en tabla.
 
 ### Párrafo C — uarto
 
-De la declaración de intereses y de Patrimonio
+De las declaraciones
 
 #### Artículo 19º
 
-Cada miembro de la Comisión deberá presentar una declaración de intereses conforme lo establecido en el artículo 6º de la ley Nº 20.267 ante el Secretario Ejecutivo.
+Cada miembro de la Comisión deberá presentar una declaración jurada al asumir el cargo respecto a la ausencia de incompatibilidades a las que se refiere el artículo 16, respecto de los intereses o relaciones a que alude el artículo 17.
 
-La forma, oportunidad, contenido, publicidad, actualizaciones y las sanciones a la omisión de presentación de la misma se regularán conforme al decreto Nº 99, de 2000, del Ministerio Secretaría General de la Presidencia, o el que le reemplace, en todo lo que fuere pertinente.
+Cuando un miembro de la Comisión, en el ejercicio del cargo, tome conocimiento de alguna incompatibilidad o inhabilidad deberá presentar inmediatamente una declaración, en la forma que determine el estatuto de funcionamiento de la Comisión. Será recibida y autentificada al momento de su recepción por el (la) Director(a) Ejecutivo(a), en su calidad de ministro de fe de la Comisión.
 
 #### Artículo 20º
 
-Los miembros de la Comisión deberán efectuar ante el Secretario Ejecutivo una declaración jurada de patrimonio en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue aprobado por el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia.
+En cumplimiento del artículo 6° de la ley N° 20.267, los miembros de la Comisión deberán rendir una declaración de intereses y patrimonio, conforme a las normas establecidas en los capítulos 1° y 2° del Título II de la ley N° 20.880 sobre probidad en la función pública y prevención de los conflictos de intereses, o con arreglo a las disposiciones legales que reemplacen dicha regulación.
 
-La forma, oportunidad, contenido, publicidad, actualizaciones y las sanciones a la omisión de presentación de la misma se regularán conforme al decreto Nº 45, de 2006, del Ministerio Secretaría General de la Presidencia, o el que le reemplace, en todo lo que fuere pertinente.
+#### Artículo 21
 
-#### Artículo 21º
-
-Tanto la Declaración de Intereses como la de Patrimonio se presentarán en 3 ejemplares y dentro del plazo de 30 días contados desde que se asuma el cargo. Serán recibidas y autentificadas al momento de su recepción por el Secretario Ejecutivo, en su calidad de Ministro de Fe de la Comisión.
+Eliminado.
 
 #### Artículo 22º
 
-Se faculta al Presidente de la Comisión y al Secretario Ejecutivo para que adopten las medidas que estimen pertinentes para fomentar y propiciar el cumplimiento adecuado y oportuno de las obligaciones contenidas en el presente párrafo.
+Se faculta al Presidente de la Comisión y al (a la) Director(a) Ejecutivo(a) para que adopten las medidas que estimen pertinentes para fomentar y propiciar el cumplimiento adecuado y oportuno de las obligaciones contenidas en el presente párrafo.
 
-Se considerará incumplimiento grave a las obligaciones por parte de los integrantes de la Comisión el negarse de forma contumaz a rendir su declaración de Patrimonio.
+Sin perjuicio de lo establecido en la ley N° 20.880 sobre probidad en la función pública y prevención de los conflictos de intereses, se considerará incumplimiento grave a las obligaciones por parte de los integrantes de la Comisión negarse a presentar las declaraciones a que se refieren los artículos 19 y 20 de este reglamento.
 
 Párrafo Quinto
 
@@ -284,25 +286,33 @@ La Comisión tendrá una Secretaría Ejecutiva, cuyas funciones serán las que l
 
 #### Artículo 30º
 
-La Comisión designará una persona que actuará como Secretario Ejecutivo de la misma, con las atribuciones, funciones y responsabilidades previstas en la ley y especialmente en el artículo 9º de la misma.
+La Comisión designará una persona que actuará como Director(a) Ejecutivo(a) de la misma, con las atribuciones, funciones y responsabilidades previstas en la ley y especialmente en el artículo 9º de la misma.
 
-Sin perjuicio de lo anterior, corresponderá al Secretario Ejecutivo:
+Sin perjuicio de lo anterior, corresponderá al Director(a) Ejecutivo(a):
 
 a) Preparar y entregar al Ministro del Trabajo y Previsión Social los antecedentes, informes y materiales que éste requiera para efectuar el procedimiento de designación y renovación de los miembros de la Comisión.
 
-b) Confeccionar y proporcionar el formulario para que los miembros de la Comisión efectúen sus declaraciones de intereses y patrimonio, velando por el cumplimiento oportuno de estas obligaciones, así como revisar periódicamente las declaraciones de intereses y de patrimonio de los miembros de la Comisión, a fin de advertir eventuales inhabilidades.
+b) Supervisar que los miembros de la Comisión efectúen sus declaraciones de intereses y patrimonio, velando por el cumplimiento oportuno de estas obligaciones, así como revisar periódicamente las declaraciones de intereses y de patrimonio de los miembros de la Comisión, a fin de advertir eventuales inhabilidades.
 
 c) Solicitar asesoría especializada a otros organismos públicos o privados, para el mejor cumplimiento de las funciones que le corresponden conforme al presente artículo.
 
 d) Cumplir los deberes y obligaciones que le imponga la ley Nº 20.267 y su Reglamento.
 
+#### Artículo 30 bis
+
+La Comisión podrá establecer oficinas regionales en el territorio nacional, con el acuerdo de la mayoría absoluta de sus miembros en ejercicio, siempre que cuente con disponibilidad presupuestaria, de conformidad con la letra a) del artículo 10 de la ley N° 20.267 y la Ley de Presupuestos del Sector Público respectiva.
+
+El Director(a) Ejecutivo(a) de la Comisión tendrá a su cargo la contratación del personal para el funcionamiento de dichas oficinas, quienes se regirán por las disposiciones del Código del Trabajo, por aplicación de los artículos 8 y 9 de la ley N° 20.267.
+
+Tales oficinas serán dirigidas por una jefatura de la exclusiva confianza, la que será designada mediante un proceso de selección público que se realizará previa determinación de sus requisitos y condiciones.
+
 #### Artículo 31º
 
-No podrá ser Secretario Ejecutivo quien tenga un vínculo de dependencia, de propiedad o sea directivo de un centro de evaluación y certificación de competencias laborales, de un OTEC o de un OTIC. De igual forma el Secretario Ejecutivo no podrá ejercer como evaluador en el Sistema.
+No podrá ser Director(a) Ejecutivo(a) quien tenga un vínculo de dependencia, de propiedad o sea directivo de un centro de evaluación y certificación de competencias laborales, de un OTEC o de un OTIC. De igual forma el Director(a) Ejecutivo(a) no podrá ejercer como evaluador en el Sistema.
 
 #### Artículo 32º
 
-La Comisión deberá velar por el correcto funcionamiento de la Secretaría Ejecutiva y las actuaciones del Secretario Ejecutivo.
+La Comisión deberá velar por el correcto funcionamiento de la Secretaría Ejecutiva y las actuaciones del Director(a) Ejecutivo(a).
 
 #### Artículo 33º
 
@@ -310,7 +320,7 @@ La relación laboral del personal de la Secretaría Ejecutiva se regirá por las
 
 #### Artículo 34º
 
-El Secretario Ejecutivo deberá mantener reserva en los términos descritos en el artículo 25º de este Reglamento. La infracción al mismo se sancionará con la remoción del cargo, sin perjuicio de las demás responsabilidades que le pudiesen caber.
+El Director(a) Ejecutivo(a) deberá mantener reserva en los términos descritos en el artículo 25º de este Reglamento. La infracción al mismo se sancionará con la remoción del cargo, sin perjuicio de las demás responsabilidades que le pudiesen caber.
 
 ## Título III
 
@@ -324,37 +334,17 @@ Del Patrimonio
 
 El patrimonio de la Comisión estará integrado conforme a lo prescrito en el artículo 10 de la ley Nº 20.267 y será administrado por ésta, con plenas facultades conforme al artículo 4º letra j) de la ley.
 
-#### Artículo 36º
+#### Artículo 36
 
-Los recursos transferidos por el Ministerio del Trabajo y Previsión Social a la Comisión en virtud de convenios de desempeño visados por la Dirección de Presupuestos no podrán superar el 49% del gasto total de la Comisión.
+Eliminado.
 
-Se entenderá por gasto total todos los gastos efectuados por la Comisión, sean éstos en dinero o especies, incluidos los financiados con los aportes de los sectores productivos participantes efectuados a la Comisión en dinero o en especie.
+#### Artículo 37
 
-#### Artículo 37º
+Eliminado.
 
-La Comisión celebrará anualmente un Convenio de Desempeño con el Ministerio del Trabajo y Previsión Social, mecanismo a través del cual este Ministerio le transferirá los recursos indicados en la letra a) del artículo 10 de la ley Nº 20.267.
+#### Artículo 38
 
-La Comisión deberá enviar un anteproyecto de plan de trabajo al Ministerio del Trabajo y Previsión Social a más tardar el 1º de junio del año anterior a la entrada vigencia a fin de ser considerado en la formulación del anteproyecto de Ley de Presupuestos para el Sector Público. Dicho anteproyecto deberá pronunciarse sobre las materias consignadas en el artículo 11 de la ley.
-
-En el mes de diciembre la Comisión presentará una propuesta de convenio actualizada a la disponibilidad presupuestaria efectiva dispuesta en la ley, respecto de la cual el Ministerio del Trabajo y Previsión Social podrá:
-
-a) Aprobar la propuesta.
-
-b) Devolver la propuesta con las observaciones que le merezca. En este evento la Comisión deberá acoger dichas observaciones y proceder a subsanarlas dentro del plazo fijado por el Ministerio.
-
-#### Artículo 38º
-
-Menciones del convenio de desempeño. El Convenio de Desempeño contendrá, a lo menos, las siguientes menciones:
-
-1. La proporción del presupuesto anual de la Comisión que se financiará con recursos públicos;
-
-2. La forma, plazos y procedimientos de entrega de los recursos públicos a la Comisión por parte del Ministerio del Trabajo y Previsión Social;
-
-3. Los resultados o las acciones comprometidas en el Plan Anual de Trabajo de la Comisión;
-
-4. Los mecanismos o procedimientos de rendición de cuenta de la administración de los recursos públicos recibidos y del cumplimiento de los resultados o de las acciones comprometidas en el Convenio de Desempeño, y
-
-5. Los mecanismos de fiscalización del cumplimiento de este convenio.
+Eliminado.
 
 Párrafo Segundo
 
@@ -372,7 +362,7 @@ Los aportes de los sectores productivos participantes podrán consistir en diner
 
 #### Artículo 41º
 
-La recepción de otros aportes que deseen realizar los sectores productivos serán evaluados por el Secretario Ejecutivo, sin embargo, no se considerarán para los efectos previstos en el inciso segundo de la letra a) del artículo 10º de la ley.
+La recepción de otros aportes que deseen realizar los sectores productivos serán evaluados por el (la) Director(a) Ejecutivo(a), sin embargo, no se considerarán para los efectos previstos en el literal b) del artículo 10º de la ley.
 
 #### Artículo 42º
 
@@ -396,13 +386,35 @@ La Comisión podrá generar recursos propios con ocasión de la administración 
 
 #### Artículo 44º
 
-Corresponderá al Ministerio del Trabajo y Previsión Social, a propuesta de la Comisión y previa autorización del Ministerio de Hacienda, fijar por resolución el arancel máximo que se podrá cobrar por los servicios prestados por dicha Comisión.
-
-Para su fijación, el Ministerio del Trabajo y Previsión Social considerará los resultados operacionales del año en curso, la proyección de ingresos y gastos señalados en el presupuesto anual, de manera tal de equilibrar los ingresos y gastos proyectados para el año siguiente.
+Corresponderá al Ministerio del Trabajo y Previsión Social, a propuesta de la Comisión y previa autorización del Ministerio de Hacienda, fijar por resolución el arancel máximo que se podrá cobrar por los procesos de acreditación, de mantención en los registros y de entrega de duplicados de los certificados emitidos por los centros de evaluación y certificación de competencias laborales, establecidos en el artículo 12 de la ley.
 
 #### Artículo 45º
 
-Para efecto de fijar el arancel la Comisión deberá elaborar y proporcionar al menos información sobre costos directos e indirectos de los procesos de acreditación y de mantención de los registros e informe de costos de duplicados.
+Para la fijación del arancel máximo que se podrá cobrar en los procesos señalados precedentemente, la Comisión deberá elaborar una propuesta fundada para el Ministerio del Trabajo y Previsión Social, en instrumentos que al menos contengan la información sobre costos directos e indirectos de los procesos de:
+
+a) Acreditación, de los centros de evaluación y certificación de competencias laborales;
+
+b) Mantención en los registros de los centros de evaluación y certificación de competencias laborales;
+
+c) Entrega de duplicados de los certificados emitidos por los centros de evaluación y certificación de competencias laborales.
+
+Para tal efecto, la Comisión considerará los siguientes instrumentos:
+
+1) Informes de la Comisión que contengan los costos directos aplicados en el proceso de acreditación de centros de evaluación y certificación de competencias laborales; mantención de los registros y entrega de duplicados de certificados entregados por los referidos centros, como también los costos indirectos en los que incurrirá la Comisión para la realización de los precitados procesos.
+
+2) Informe u otros instrumentos en que conste la concurrencia en los costos de factores o variables que tengan incidencia en la base de cálculo de los aranceles, tales como: ajustes territoriales; acreditación por primera vez de un centro o su renovación o ampliación a otros perfiles ocupacionales del mismo subsector productivo o a otro distinto; existencia de más de una sede de los centros; diversidad de perfiles ocupacionales; número de herramientas de evaluación del centro, y todos aquellos que se consideren necesarios a la época de la fijación arancelaria.
+
+#### Artículo 45° bis
+
+Periódicamente, al menos cada dos años, la Comisión remitirá informe al Ministerio del Trabajo y Previsión Social, con un análisis de la fijación arancelaria y eventuales variaciones a su base de cálculo, sujetándose al siguiente procedimiento:
+
+1. Se deberá distinguir si se trata del servicio de acreditación de los Centros solicitado por primera vez o corresponde a su renovación y ampliación a otros perfiles ocupacionales, ya sea pertenecientes al mismo subsector productivo acreditado inicialmente o a otro diferente, según se trate.
+
+2. Los aranceles relativos a la letra a) y b) del artículo precedente podrán considerar factores de orden territorial.
+
+3. El monto máximo de arancel que la Comisión podrá cobrar será establecida en Unidades Tributarias Mensuales.
+
+4. Ante la variación de los valores que representen los factores o variables regulados en el N° 2 del artículo anterior o se sumen o resten otros, la Comisión dirigirá un informe con una propuesta fundada sobre eventual cambio arancelario, al Ministerio del Trabajo y Previsión Social.
 
 #### Artículo 46º
 
@@ -434,7 +446,7 @@ La información contenida en los registros será puesta a disposición de las pe
 
 Para cumplir con este propósito, los referidos registros deberán mantenerse a disposición permanente del público, a través del sitio electrónico que determine la Comisión, los que deberán ser actualizados con la periodicidad que ésta ordene.
 
-El SENCE podrá solicitar a la Comisión información de las unidades de competencias laborales acreditadas y las actualizadas por ella, con el fin que dicho servicio se encuentre informado oportunamente para ejecutar las acciones que le competen dentro del Sistema.
+El Sence y la Subsecretaría del Trabajo podrán solicitar a la Comisión información de las unidades de competencias laborales acreditadas y las actualizadas por ella, con el fin que se encuentren informados oportunamente para ejecutar las acciones que le competen dentro del Sistema.
 
 #### Artículo 49º
 
@@ -464,11 +476,11 @@ Certificación de Competencias Laborales
 
 #### Artículo 52º
 
-El Registro de Centros tendrá como objeto identificar las entidades certificadoras y los Centros acreditados para ejecutar las acciones de evaluación y de certificación de competencias laborales contempladas en la ley.
+El Registro de Centros tendrá como objeto identificar los Centros acreditados para ejecutar las acciones de evaluación y de certificación de competencias laborales contempladas en la ley.
 
 #### Artículo 53º
 
-Entidades registrables. Ingresarán a este Registro de Centros las personas jurídicas que la Comisión haya acreditado como Centros, conforme a las normas de la ley y el presente Reglamento y las entidades certificadoras contempladas en el artículo 17 de la ley Nº 20.267.
+Entidades registrables. Ingresarán a este Registro de Centros las personas jurídicas que la Comisión haya acreditado como Centros, conforme a las normas de la ley y el presente Reglamento.
 
 #### Artículo 54º
 
@@ -482,17 +494,15 @@ c) Datos del registro de la persona jurídica y donde conste la personería.
 
 d) Domicilio del Centro, y si tiene sucursales regionales, dichos domicilios.
 
-e) Nómina de socios, directivos, gerentes y administradores.
+e) Nómina de socios, directivos, gerentes y administradores, así como de los evaluadores de competencias laborales que tenga contratados.
 
 f) Fecha de inicio del proceso de acreditación y fecha de acreditación.
 
 g) Ámbitos respecto de los cuales se otorga la acreditación.
 
-h) Mención de las sanciones que se han aplicado al Centro desde la vigencia de la inscripción.
+h) Mención de las sanciones que se han aplicado al Centro o a sus evaluadores desde la vigencia de la inscripción.
 
 i) Cualquier otra mención que la ley, el presente Reglamento o la Comisión disponga por medio de resolución de general aplicación.
-
-j) Podrán incorporarse a este registro las entidades certificadoras contempladas en el artículo 17 de la ley Nº 20.267, para lo cual deberán indicar las menciones señaladas en las letras a), b), c), d), e), g), e i) precedentes.
 
 #### Artículo 55º
 
