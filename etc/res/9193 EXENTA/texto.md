@@ -110,6 +110,4 @@ El Servicio, mediante resolución exenta emanada por el Jefe de División de Pro
 
 11. Los productos no priorizados continuarán el proceso de evaluación normal según el orden de ingreso al Servicio.
 
-> **Nota.** La Resolución 518 Exenta, Agricultura, publicada el 31.01.2025, reitera modificar en idénticos términos lo indicado por la Resolución 389 Exenta, Agricultura, publicada el 23.01.2025, es por esta razón que no se ingresa nuevamente en su texto la actualización dispuesta por la citada Resolución.
-
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
