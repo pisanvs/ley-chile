@@ -10,106 +10,130 @@ Considerando:
 
 Resuelvo:
 
-Fíjanse al interior de la zona urbana de la comuna de Yumbel, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural e interurbana, según corresponda, para ingresar y salir de los terminales de buses que se señalan:
+1.- Fíjanse al interior de la zona urbana de la comuna de Yumbel, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural e interurbana, según corresponda, para ingresar y salir de los terminales de buses que se señalan:
 
-### 1. Desde y hacia la ruta O-630 (Concepción-Cabrero-
+1.1. Desde y hacia la Ruta O-630 (Concepción - Cabrero - Chillán)
 
-Chillán)
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-a) Terminal de buses "San Sebastián" (General Cruz
+Salida: Terminal San Sebastián - General Cruz - Pedro de Valdivia - O'Higgins - Ruta O-630
 
-Nº 880)
+Acceso: Ruta O-630 - O'Higgins - General Cruz - Castellón - Terminal de buses San Sebastián.
 
-Salida Terminal - Gral. Cruz - Pedro de Valdivia -
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-O'Higgins - Ruta O-630
+Salida: Terminal - Diagonal Alonso Sotomayor - Patricio Patrito - O'Higgins - Los Carrera - Goycolea - Castellón - O'Higgins - Ruta O-360
 
-Regreso Ruta O-630 - O'Higgins - Gral. Cruz - Castellón
+Acceso: Ruta O-630 - O'Higgins - General Cruz - Terminal.
 
-- Terminal.
+1.2. Desde y hacia la Ruta O-54 (Laja - La Aguada - Los Ángeles)
 
-b) Terminal de buses "San Francisco" (Las Heras
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-Nº 595)
+Salida: Terminal de buses "San Sebastián" - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - José Toulet - La Patagua - 20 de Enero - Tucapel - Ruta O-54
 
-Salida Terminal - Gral. Cruz - P. Patrito - O'Higgins
+Acceso: Ruta O-54 - Tucapel - 20 de Enero - Angamos - José Toulet - O'Higgins - Los Carrera - Goycolea - Castellón - Terminal de buses "San Sebastián".
 
-- Ruta O-630
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-Regreso Ruta O-630 - O'Higgins - Gral. Cruz - Terminal.
+Salida: Terminal "San Francisco" - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - José Toulet - La Patagua - 20 de Enero - Tucapel - Ruta O-54
 
-### 2. Desde y hacia la ruta O-54 (Laja-Los Angeles)
+Acceso: Ruta O-54 - Tucapel - 20 de Enero - Angamos - José Toulet - O'Higgins - Los Carrera - Goycolea - Castellón - General Cruz - Terminal "San Francisco".
 
-a) Terminal de buses "San Sebastián" (General Cruz
+1.3. Desde y hacia la Ruta O-60 (Monte Águila - Cabrero)
 
-Nº 880)
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-Salida Terminal - Gral. Cruz - Santa María - O'Higgins
+Salida: Terminal San Sebastián - General Cruz - Pedro de Valdivia - Ruta O-60
 
-- Ruta O-54
+Acceso: Ruta O-60 - Castellón - Terminal San Sebastián.
 
-Regreso Ruta O-54 - O'Higgins - Castellón - Terminal.
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-b) Terminal de buses "San Francisco" (Las Heras
+Salida: Terminal San Francisco - General Cruz - Diagonal Alonso de Sotomayor - Patricio Patrito - O'Higgins - Los Carrera - Goycolea - Pedro de Valdivia - Ruta O-60
 
-Nº 595)
+Acceso: Ruta O-60 - Castellón - General Cruz - Terminal San Francisco.
 
-Salida Terminal - Gral. Cruz - Santa María - O'Higgins
+1.4. Desde y hacia la Ruta O-60 (Rere - San Rosendo - Hualqui)
 
-- Ruta O-54
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-Regreso Ruta O-54 - O'Higgins - Los Carrera - Gral.
+Salida: Terminal San Sebastián - General Cruz - Pedro de Valdivia - O'Higgins - Castellón - Ruta O-60
 
-Cruz - Terminal
+Acceso: Ruta O-60 - Pedro de Valdivia - O'Higgins - Castellón - Terminal San Sebastián.
 
-### 3. Desde y hacia la ruta O-60 (Monte Aguila-Cabrero-
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-Chillán)
+Salida: Terminal - General Cruz - Diagonal Alonso de Sotomayor - Patricio Patrito - O'Higgins - Los Carrera - Goycolea - Castellón - Ruta O-60
 
-a) Terminal de buses "San Sebastián" (General Cruz
+Acceso: Ruta O-60 - Pedro de Valdivia - General Cruz - Terminal.
 
-Nº 880)
+1.5. Desde y hacia Ruta O-754 (Río Claro - San Rosendo)
 
-Salida Terminal - Gral. Cruz - P. de Valdivia - Ruta
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-O-60
+Salida: Terminal San Sebastián - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - Ruta O-754
 
-Regreso Ruta O-60 - Castellón - Terminal
+Acceso: Ruta O-754 - O'Higgins - Los Carrera - Goycolea - Castellón - Terminal San Sebastián.
 
-b) Terminal de buses "San Francisco" (Las Heras
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-Nº 595)
+Salida: Terminal - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - Ruta O-754
 
-Salida Terminal - Gral. Cruz - P. Patrito - O'Higgins
+Acceso: Ruta O-754 - O'Higgins - Los Carrera - Goycolea - Castellón - General Cruz - Terminal.
 
-- P. de Valdivia - Ruta O-60
+1.6. Desde y hacia Estación Yumbel
 
-Regreso Ruta O-60 - Castellón - A. Pinto - Urizar -
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-Gral. Cruz - Terminal
+Salida: Terminal San Sebastián - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - José Toulet - Rozas - Esmeralda - Angamos - José Toulet - La Patagua - 20 de Enero - Tucapel - Camino Laguna Las Flores
 
-### 4. Desde y hacia la ruta O-60 (Rere-San Rosendo-
+Acceso: Camino Laguna Las Flores - Tucapel - 20 de Enero - Angamos - Esmeralda - Rozas - José Toulet - O'Higgins - Los Carrera - Goycolea - Castellón - Terminal San Sebastián.
 
-Hualqui)
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-a) Terminal de buses "San Sebastián" (General Cruz
+Salida: Terminal San Francisco - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - José Toulet - Rozas - Esmeralda - Angamos - José Toulet - La Patagua - 20 de Enero - Tucapel - Camino Laguna Las Flores
 
-Nº 880)
+Acceso: Camino Laguna Las Flores - Tucapel - 20 de Enero - Angamos - Esmeralda - Rozas - José Toulet - O'Higgins - Los Carrera - Goycolea - Castellón - General Cruz - Terminal San Francisco.
 
-Salida Terminal - Gral. Cruz - P. de Valdivia -
+1.7. Desde y hacia Ruta O-620 (Obras de Río Claro - Cambrales)
 
-O'Higgins - Castellón - Ruta O-60
+a) Terminal de buses "San Sebastián" (General Cruz Nº 880)
 
-Regreso Ruta O-60 - Castellón - Terminal
+Salida: Terminal San Sebastián - General Cruz - Valdivia - Ruta O-60 - Ruta O-620
 
-b) Terminal de buses "San Francisco" (Las Heras
+Acceso: Ruta O-620 - Ruta O-630 - O'Higgins - General Cruz - Castellón - Terminal San Sebastián.
 
-Nº 595)
+b) Terminal de buses "San Francisco" (Las Heras Nº 595)
 
-Salida Terminal - Gral. Cruz - P. Patrito - O'Higgins
+Salida: Terminal San Francisco - General Cruz - Diagonal Alonso de Sotomayor - Patricio Patrito - O'Higgins - Los Carrera - Quintana - Valdivia - Ruta O-60 - Ruta O-620
 
-- Castellón - Ruta O-60
+Acceso: Ruta O-620 - Ruta O-630 - O'Higgins - General Cruz - Terminal San Francisco.
 
-Regreso Ruta O-60 - Castellón - Gral. Cruz - Terminal
+2.- Fíjanse, al interior de la zona urbana de la comuna de Yumbel, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural que dispongan de la autorización para salida de la vía pública por parte de la Municipalidad de Yumbel, en la parada ubicada en calle Urizar entre calle O'Higgins y General Cruz, según se indica a continuación:
+
+2.1 Desde y hacia Ruta O-60 (Rere)
+
+Salida: Urizar - General Cruz - Los Carrera - Goycolea - Castellón - Ruta O-60
+
+Acceso: Ruta O-60 - Pedro de Valdivia - Aníbal Pinto - Urizar.
+
+2.2 Desde y hacia Ruta O-754 (Río Claro - San Rosendo)
+
+Salida: Urizar - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - Ruta O-754
+
+Acceso: Ruta O-754 - O'Higgins - Urizar.
+
+2.3 Desde y hacia Estación Yumbel
+
+Salida: Urizar - General Cruz - Diagonal Alonso de Sotomayor - Vicente Reyes - Santa María - O'Higgins - José Toulet - Rozas - Esmeralda - Angamos - José Toulet - La Patagua - 20 de Enero - Tucapel - Camino Laguna Las Flores
+
+Acceso: Camino Laguna Las Flores - Tucapel - 20 de Enero - Angamos - Esmeralda - Rozas - José Toulet - O'Higgins - Los Carrera - Goycolea - Castellón - Aníbal Pinto - Urizar.
+
+2.4 Desde y hacia Ruta O-620 (Obras de Río Claro - Cambrales)
+
+Salida: Urizar - Quintana - Valdivia - Ruta O-60 - Ruta O-620
+
+Acceso: Ruta O-620 - Ruta O-630 - O'Higgins - General Cruz - Los Carrera - O'Higgins - Urizar.
 
 Anótese y publíquese.- Dalton Campos Seguin, Secretario Regional Ministerial, Transportes y Telecomunicaciones VIII Región del Bío Bío.
