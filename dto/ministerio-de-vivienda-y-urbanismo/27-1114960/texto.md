@@ -1262,9 +1262,19 @@ Derogado.
 
 DISPOSICIONES TRANSITORIAS
 
-#### Artículo único
+#### Artículo primero
 
 transitorio .- Establécese que los incrementos de subsidio que se otorguen en virtud del Reglamento que se aprueba por el presente decreto, podrán aplicarse a proyectos beneficiados por el DS N° 255 (V. y U.), de 2006, homologando sus exigencias a las del nuevo reglamento.
+
+#### Artículo Segundo
+
+Transitorio.- Establécese que a los proyectos que no iniciaron obras entre los años 2020 y 2024, no les será aplicable lo dispuesto en el inciso primero del artículo 56 del decreto supremo Nº 27, del Ministerio de Vivienda y Urbanismo, de 2016, que reglamenta el Programa de Mejoramiento de Viviendas y Barrios.
+
+#### Artículo Tercero
+
+Transitorio.- Facúltase excepcionalmente al Ministro de Vivienda, y Urbanismo para que, en casos calificados y mediante resoluciones fundadas, conceda un nuevo plazo de vigencia de hasta 24 meses, a los subsidios vencidos y que fueran otorgados entre los años 2019 y 2023.
+
+En los casos en que por aplicación del inciso anterior se otorgue un nuevo plazo de vigencia de subsidios cuyos proyectos no hayan iniciado obras, se otorgará un nuevo plazo para iniciar las obras, en los términos establecidos en el artículo 50 del decreto supremo Nº 27, del Ministerio de Vivienda y Urbanismo, de 2016, que reglamenta el Programa de Mejoramiento de Viviendas y Barrios.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
