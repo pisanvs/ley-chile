@@ -66,6 +66,8 @@ Tales experimentos, además, deberán practicarse en instalaciones adecuadas y s
 
 Los establecimientos en que se realicen estos experimentos deberán contar con instalaciones idóneas a las respectivas especies y categorías de animales, para evitar el maltrato y deterioro de su salud.
 
+Se prohíben los experimentos en animales vivos que tengan por finalidad desarrollar actividades de investigación, fabricación o comercialización de productos cosméticos, de higiene o de odorización personal.
+
 #### Artículo 8°
 
 Habrá un Comité de Bioética Animal permanente, al que corresponderá definir, sin perjuicio de las facultades de los ministerios para proponer y evaluar políticas y planes, las directrices bajo las cuales podrán desarrollarse los experimentos en animales vivos conforme a las normas de esta ley; absolver las consultas que se le formulen al efecto y coordinarse con las instituciones involucradas en la materia.
@@ -127,6 +129,8 @@ Las infracciones a los artículos 5°, inciso primero, y 11, así como a las nor
 Sin perjuicio de lo anterior, en las infracciones de los artículos 5º y 11 podrá imponerse la clausura temporal, hasta por tres meses, o la clausura definitiva del establecimiento, aplicándose el procedimiento señalado en el inciso anterior.
 
 Tratándose de especies hidrobiológicas, la fiscalización de las disposiciones de esta ley será ejercida por funcionarios del Servicio Nacional de Pesca, personal de la Armada de Chile y Carabineros de Chile, según corresponda la jurisdicción de cada una de estas instituciones. Para la aplicación de las sanciones correspondientes se seguirá el procedimiento señalado en el artículo 125 de la ley N° 18.892, General de Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado se fijó mediante el decreto Nº 430, del Ministerio de Economía, Fomento y Reconstrucción, de 1992.
+
+Las infracciones a lo dispuesto en el inciso final del artículo 7 serán castigadas conforme al artículo 291 bis del Código Penal.
 
 #### Artículo 14
 
