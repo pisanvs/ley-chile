@@ -3548,6 +3548,8 @@ Si como resultado de una acción u omisión se causare al animal daño, la pena 
 
 Si como resultado de las referidas acción u omisión se causaren lesiones que menoscaben gravemente la integridad física o provocaren la muerte del animal se impondrá la pena de presidio menor en su grado medio y multa de veinte a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de animales.
 
+Las mismas penas de los incisos anteriores se aplicarán si los actos de maltrato, crueldad, experimentación o sufrimiento innecesario con animales vivos se ejecutan para desarrollar actividades de investigación, fabricación o comercialización de productos cosméticos, de higiene o de odorización personal.
+
 #### Artículo 291 ter
 
 <!-- parte:9821636 -->
