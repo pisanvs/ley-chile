@@ -572,7 +572,7 @@ Inciso Derogado.
 
 #### Artículo 78 ter
 
-Medidas especiales de protección de fiscales. Excepcionalmente, cuando en el transcurso de una investigación o en cualquier otra etapa del procedimiento, surgiere algún antecedente grave de amenaza, agresión u otra potencial afectación a la integridad personal de los fiscales o de sus familias, o en todo caso tratándose de la investigación de delitos cometidos por asociaciones delictivas o criminales, el Fiscal Regional respectivo podrá disponer, mediante una decisión fundada, una o más de las siguientes medidas de protección:
+Medidas especiales de protección de fiscales. Excepcionalmente, cuando en el transcurso de una investigación o en cualquier otra etapa del procedimiento, surgiere algún antecedente grave de amenaza, agresión u otra potencial afectación a la integridad personal de los fiscales o de sus familias, o en todo caso tratándose de la investigación de hechos que revistan carácter de delito terrorista o de delitos cometidos por asociaciones delictivas o criminales, el Fiscal Regional respectivo podrá disponer, mediante una decisión fundada, una o más de las siguientes medidas de protección:
 
 a) La participación del fiscal o del abogado asistente de fiscal en las audiencias por vía remota mediante videoconferencia.
 
@@ -2276,7 +2276,7 @@ Lo señalado en el inciso anterior no se aplicará a la interceptación de comun
 
 #### Artículo 226
 
-X.- Regla especial referida a delitos terroristas. Cuando se hayan cometido o preparado la comisión de los delitos sancionados en la ley Nº 18.314, las diligencias especiales de investigación previstas en este Párrafo podrán ser utilizadas por el fiscal, sea que se trate de una persona, de una agrupación de dos o más personas o de una asociación delictiva o criminal.
+X.- Regla especial referida a delitos terroristas. Las técnicas especiales de investigación y las medidas de protección previstas en este Párrafo, así como la interceptación de comunicaciones prevista en los artículos 222 a 226, serán aplicables en procesos seguidos por delito terrorista, sea que se trate de una asociación terrorista, de una persona o de un grupo de dos o más personas, cualquiera sea la pena asignada al delito.
 
 #### Artículo 226
 
@@ -2346,9 +2346,9 @@ El acuerdo de cooperación establecerá las condiciones o el contenido básico q
 
 Acuerdo de cooperación eficaz calificada. Si se tratare de hechos relativos a los delitos señalados en el artículo 228 bis A, se entenderá como cooperación eficaz calificada la entrega de información o datos precisos, comprobados y verídicos, que permitan satisfacer uno o más de los siguientes fines:
 
-a) La identificación de líderes, jefes, financistas o fundadores de asociaciones delictivas o criminales. La información deberá permitir presumir fundadamente su intervención en el hecho punible.
+a) La identificación de líderes, jefes, financistas o fundadores de asociaciones delictivas, criminales o terroristas. La información deberá permitir presumir fundadamente su intervención en el hecho punible.
 
-b) La identificación de bienes, flujos de dinero y fuentes de financiación de asociaciones delictivas o criminales, que faciliten su incautación o la práctica de cualquier clase de comiso.
+b) La identificación de bienes, flujos de dinero y fuentes de financiación de asociaciones delictivas, criminales o terroristas, que faciliten su incautación o la práctica de cualquier clase de comiso.
 
 c) La identificación del lugar donde se encuentra la víctima de un delito de secuestro, de sustracción de menores, de trata de personas, o el cuerpo de una víctima de homicidio.
 

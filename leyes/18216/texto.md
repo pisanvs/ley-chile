@@ -26,6 +26,8 @@ No procederá la facultad establecida en el inciso precedente ni la del artícul
 
 En ningún caso podrá imponerse la pena establecida en la letra f) del inciso primero a los condenados por crímenes o simples delitos señalados por las leyes números 20.000, 19.366 y 18.403. No se aplicará ninguna de las penas sustitutivas contempladas en esta ley a las personas que hubieren sido condenadas con anterioridad por alguno de dichos crímenes o simples delitos en virtud de sentencia ejecutoriada, hayan cumplido o no efectivamente la condena.
 
+Tratándose de los autores de los delitos consumados que la ley califica como terroristas, no podrán aplicarse las penas señaladas en el inciso primero ni la del artículo 33.
+
 Tampoco podrán imponerse las penas establecidas en el inciso primero a los condenados por crímenes o simples delitos contemplados en la ley N° 17.798.
 
 Tratándose de simples delitos previstos en dicha ley, sólo procederán las penas sustitutivas de reclusión parcial y libertad vigilada intensiva.
