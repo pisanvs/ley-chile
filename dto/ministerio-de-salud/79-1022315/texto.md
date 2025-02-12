@@ -70,6 +70,8 @@ Solo en el caso de pacientes con intolerancia a excipientes determinados, se per
 
 La prescripción de un preparado magistral en el cual se varíe la dosis o la forma farmacéutica, en relación a una especialidad registrada, podrá ser indicada por el profesional tratante, respecto de aquellos pacientes que requieren de un ajuste de dosis o un cambio de forma farmacéutica. Respecto de las dosis, la composición de dichos preparados no podrá contener los principios activos dentro del rango más/menos 10% de la dosis de un producto registrado.
 
+Sin perjuicio de lo dispuesto precedentemente, en situaciones de escasez o desabastecimiento de alguna especialidad farmacéutica, declarada mediante resolución fundada del Ministerio de Salud, previo informe técnico del Instituto de Salud Pública de Chile y de la Central de Abastecimiento del Sistema Nacional de los Servicios de Salud, los preparados magistrales podrán contener principios activos en la misma dosis y forma farmacéutica de aquella especialidad. La resolución que dicte el Ministerio de Salud al efecto deberá precisar el período de su vigencia, pudiendo extenderse o dejarse sin efecto con posterioridad, de conformidad con la persistencia o cese de las situaciones o hechos que le dieron origen, a través del acto que corresponda.
+
 #### Artículo 6º
 
 Para los efectos del presente reglamento se entenderá por:
