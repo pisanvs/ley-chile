@@ -3078,4 +3078,68 @@ las víctimas de delitos
 
 violentos.
 
+1528 Fono La recepción de llamadas
+
+Emergencia de emergencia por parte
+
+Quillota de la Oficina de Gestión
+
+de Riesgo de Desastres
+
+ECO-31, de la Ilustre
+
+Municipalidad de Quillota,
+
+la cual entre sus
+
+tareas contempla la
+
+Municipalidad de Quillota,
+
+la cual entre sus tareas
+
+contempla la implementación
+
+de acciones de prevención
+
+en el ámbito de la
+
+seguridad y emergencia en
+
+la comuna. El personal de
+
+dicha unidad recibirá la
+
+llamada y efectuará las
+
+acciones concretas e
+
+inmediatas para afrontar
+
+la situación, sea esta
+
+de tránsito, incendios,
+
+estructurales, incendios
+
+forestales, emergencias
+
+meteorológicas,
+
+emergencias de materiales
+
+peligrosos, derrame de
+
+combustible, etc. y
+
+coordinación, según lo
+
+requiera, con las
+
+distintas instituciones
+
+de emergencia y recursos
+
+comunales.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
