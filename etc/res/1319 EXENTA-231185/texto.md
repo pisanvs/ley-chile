@@ -38,9 +38,15 @@ a) Servicios complementarios de información y entretención: Incluye servicios 
 
 b) Servicio complementario de cobro revertido automático.
 
-c) Servicio complementario de cobro compartido automático.
+c) Servicios complementarios de mensajería de voz.
 
-d) Servicios complementarios de mensajería vocal y de texto. e) Servicio complementario de acceso conmutado a Internet: Incluye el suministro del servicio de acceso a Internet mediante comunicaciones telefónicas sobre circuitos conmutados de voz por parte de un proveedor de acceso a Internet.
+d) Servicio complementario de acceso conmutado a Internet: Incluye el suministro del servicio de acceso a Internet mediante comunicaciones telefónicas sobre circuitos conmutados de voz por parte de un proveedor de acceso a Internet.
+
+e) Servicio complementario de comunicaciones masivas no solicitadas: incluye servicios de información y/o con fines publicitarios al suscriptor o usuario del suministro telefónico, a través de comunicaciones originadas de forma automatizada y/o masiva, y que no han sido solicitadas ni autorizadas por el referido suscriptor o usuario. Considera todo tipo de comunicación, verbal, escrita, pre grabada, generada por inteligencia artificial, entre otras. Se excluyen de esta definición las comunicaciones de emergencia y otras que la Subsecretaría defina mediante resolución.
+
+f) Servicio complementario de comunicaciones masivas solicitadas: incluye servicios de información y/o con fines publicitarios al suscriptor o usuario del servicio público telefónico, a través de comunicaciones originadas de forma automatizada y/o masiva, y que han sido solicitadas o autorizadas por el referido suscriptor o usuario. Considera todo tipo de comunicación verbal, escrita, pre grabada, generada por inteligencia artificial, entre otras. Se excluyen de esta definición las comunicaciones de emergencia y otras que la Subsecretaría defina mediante resolución.
+
+Lo anterior, sin perjuicio de la normativa sobre protección de los derechos de los consumidores que resulte aplicable.
 
 2. Atribúyense a cada una de las señaladas categorías, los siguientes bloques especiales de numeración:
 
@@ -48,11 +54,13 @@ a) Para los servicios complementarios de información y entretención, se atribu
 
 b) Para el servicio complementario de cobro revertido automático, se atribuye el bloque de numeración 800XXXXXX, donde X puede ser cualquier dígito entre 0 y 9.
 
-c) Para el servicio complementario de cobro compartido automático, se atribuye el bloque de numeración 600XXXXXXX, donde X puede ser cualquier dígito entre 0 y 9. El servicio de cobro compartido no podrá, directa o indirectamente, acarrear para el suscriptor cargos superiores a los de las respectivas comunicaciones telefónicas locales o móviles, para ser considerado en esta categoría.
+c) Para los servicios complementarios de mensajería de voz, se atribuye el bloque de numeración 300 XXXX, donde X puede ser cualquier dígito entre 0 y 9.
 
-d) Para los servicios complementarios de mensajería vocal y de texto, se atribuye el bloque de numeración 300 XXXX, donde X puede ser cualquier dígito entre 0 y 9.
+d) Para el servicio complementario de acceso conmutado a Internet, se atribuye el bloque de numeración 609 XXXXXXX. En el caso que este servicio se proporcione sobre la base del servicio de conexión al punto de terminación de red con facilidades de conmutación y transmisión, se atribuye el bloque de numeración 606 XXXXXXX. En ambos casos, X puede ser cualquier dígito entre 0 y 9.
 
-e) Para el servicio complementario de acceso conmutado a Internet, se atribuye el bloque de numeración 609 XXXXXXX. En el caso que este servicio se proporcione sobre la base del servicio de conexión al punto de terminación de red con facilidades de conmutación y transmisión, se atribuye el bloque de numeración 606 XXXXXXX. En ambos casos, X puede ser cualquier dígito entre 0 y 9.
+e) Para el servicio complementario de comunicaciones masivas no solicitadas, se atribuye el bloque de numeración 809 XXX XXX, siendo X cualquier dígito del 0 al 9. Toda comunicación masiva no solicitada deberá utilizar esta numeración y canalizar la comunicación de forma que ésta sea visible para el suscriptor o usuario telefónico. Esta numeración sólo podrá ser utilizada por el asignatario para los fines autorizados.
+
+f) Para el servicio complementario de comunicaciones masivas solicitadas, se atribuye el bloque de numeración 600 XXX XXX, siendo X cualquier dígito del 0 al 9. Toda comunicación masiva solicitada deberá utilizar esta numeración y canalizar la comunicación de forma que ésta sea visible para el suscriptor o usuario telefónico. Esta numeración sólo podrá ser utilizada por el asignatario para los fines autorizados.
 
 3. La numeración de los servicios indicados en el punto 2 precedente será asignada por la Subsecretaría de Telecomunicaciones, a solicitud de los interesados.
 
@@ -66,7 +74,7 @@ b) Asimismo, el suscriptor, en cualquier tiempo y mediante simple comunicación 
 
 c) La habilitación aludida en el párrafo final de la letra a) precedente, y la suspensión y renovación a que se refiere la letra b) precedente, deberá estar completamente operativa a más tardar a las 23:59:59 horas del día hábil siguiente a aquel en que haya sido ésta solicitada.
 
-d) El suscriptor podrá siempre acceder a todos los servicios complementarios de las categorías de cobro revertido y de cobro compartido conectados a la red pública telefónica, sin necesidad de habilitación previa. La implementación del sistema de suspensión y renovación de accesos por parte de las compañías telefónicas, no comprenderá por tanto los accesos a dichas categorías. Lo mismo regirá respecto de otros servicios complementarios que no signifiquen cargos al suscriptor, y de los servicios complementarios que requieran una clave personal para su uso, todos los que además, podrán utilizar numeración de abonado.
+d) El suscriptor podrá siempre acceder a todos los servicios complementarios de las categorías de cobro revertido conectados a la red pública telefónica, sin necesidad de habilitación previa. La implementación del sistema de suspensión y renovación de accesos por parte de las compañías telefónicas, no comprenderá por tanto los accesos a dichas categorías. Lo mismo regirá respecto de otros servicios complementarios que requieran una clave personal para su uso, todos los que además, podrán utilizar numeración de abonado.
 
 e) Las compañías telefónicas responsables del cumplimiento de los artículos 26º y siguientes del Reglamento del Servicio Público Telefónico, deberán, para estos efectos, establecer los acuerdos necesarios con los portadores u otros concesionarios a los que se encuentren conectados los suministradores de servicios complementarios, a fin de satisfacer en tiempo y forma de las solicitudes de habilitación, suspensión y renovación del acceso a cada una de las categorías de servicios complementarios.
 
