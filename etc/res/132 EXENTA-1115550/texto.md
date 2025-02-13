@@ -128,7 +128,7 @@ Quienes sean postulados sin subsidio habitacional y que correspondan al DS Nº 1
 
 11.1.- Acreditar haber enterado al último día del mes anterior al de la presentación de las nóminas, el ahorro mínimo exigido en la tabla del resuelvo 8 de esta resolución.
 
-11.2.- Los postulantes que opten por el Título I, Tramo 2 o por el Título II, deberán presentar el Certificado de Preaprobación de Crédito o Precalificación como sujeto de crédito. En caso de no presentarlo, los postulantes deberán acreditar un ahorro de 200 UF en el caso del Título I Tramo 2 y de 400 UF en el caso del Título II.
+11.2.- Eliminado.
 
 11.3.- En el caso de familias postulantes correspondientes al Título I Tramo 2 y al Título II del DS Nº 1 (V. y U.), de 2011, el Serviu Región de Coquimbo, deberá chequear el cumplimiento de todos los requisitos para ser beneficiados en este tipo de Proyectos de Integración Social y generar un Comprobante de Ingreso al Sistema Computacional, dispuesto para tal efecto.
 
@@ -195,5 +195,29 @@ Estos préstamos, se otorgarán mediante resoluciones del Director Serviu Regió
 El préstamo podrá restituirse contra el pago del subsidio habitacional, siempre que dicho pago se efectúe dentro del plazo máximo de 2 años señalado anteriormente, descontado el monto de restitución del subsidio a pagar.
 
 Si encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía, o una póliza de garantía de ejecución inmediata, o un Certificado de Fianza, que cauciona el préstamo, la restitución no se hubiere efectuado, el prestatario deberá renovar la vigencia de tales instrumentos, por el monto adeudado del préstamo; de no hacerlo, aquellos podrán hacerse efectivos. Transcurrido el plazo de 2 años desde el otorgamiento del préstamo, sin que se haya restituido en su totalidad, se harán efectivas las cauciones.
+
+1.- OPCIÓN DE RECONTRATAR.
+
+En caso de que la entidad desarrolladora adjudicada no termine las obras, las abandone en plena ejecución, se declare en quiebra, caiga en insolvencia, o emplee aquellas figuras contempladas en la ley 20.720, el Serviu podrá recontratar las obras por medio de las siguientes opciones:
+
+a) Mediante Licitación regulada por el decreto 236/2023, que "Aprueba bases generales reglamentarias de contratación de obras para los servicios de vivienda y urbanización".
+
+b) Realizar un concurso oferta de selección considerando los parámetros del presente llamado original. Lo anterior con la condición de que el terreno donde se emplace el proyecto se encuentre en propiedad del Serviu, Región de Coquimbo.
+
+2.- RECONOCIMIENTO DE COMITÉ Y TIPOLOGÍAS DE VIVIENDAS.
+
+En el caso que se produzca la recontratación descrita previamente, el Serviu Región de Coquimbo deberá considerar en ésta, tanto al comité asociado en el llamado original y las tipologías de viviendas contempladas en el proyecto seleccionado.
+
+3.- FINANCIAMIENTO.
+
+En la recontratación, el Serviu deberá contemplar la estructura de financiamiento dispuesto por el llamado. Para el caso de requerir modificaciones, Serviu Región de Coquimbo podrá ajustar el valor del Ítem bono integración social de manera de completar el valor o precio de la vivienda.
+
+En la alternativa de los beneficiarios que pertenezcan a algunos de los tramos que requieran crédito hipotecario para completar el valor de la vivienda y que presenten dificultades para obtener dicho crédito, Serviu podrá autorizar que el beneficiario pueda suplir el monto del crédito con un aumento del ahorro. Si esto no fuera posible, el Serviu solicitará al Comité de Vivienda que reemplace al beneficiario por otro que cumpla con los mismos requisitos exigidos en el llamado original.
+
+4.- PRÉSTAMO.
+
+Para el caso de recontratación, Serviu Región de Coquimbo podrá otorgar un nuevo préstamo de enlace, de acuerdo con la resolución de préstamo del Ministerio de Vivienda y Urbanismo existente a la fecha del otorgamiento del préstamo y no al título 13, de la resolución 132, de fecha 16 de febrero de 2018.
+
+5.- En el ámbito de la recontratación, Serviu podrá ejecutar o gestionar las medidas necesarias que permitan dar buen término a las obras.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Fernando Velásquez Brzovic, Secretario Regional Ministerial (S) Vivienda y Urbanismo Región Coquimbo.
