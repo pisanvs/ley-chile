@@ -720,6 +720,18 @@ El árbitro deberá resolver en favor de una de las proposiciones de las partes,
 
 Los concesionarios de servicios públicos de telecomunicaciones estarán obligados a proporcionar a la Subsecretaría de Telecomunicaciones acceso seguro a través de una interfaz web con perfiles de usuario específicos para lectura y exportación de datos, permitiendo el monitoreo en tiempo real de la información de los centros de control de red. Esta interfaz propenderá a garantizar la ciberseguridad tanto de los datos de los concesionarios como de la Subsecretaría. Adicionalmente, los concesionarios entregarán datos relevantes sobre la calidad del servicio y la gestión de incidentes, incluyendo alertas y resolución de fallas que sean críticos para el ejercicio de las facultades de la Subsecretaría. Un reglamento especificará los protocolos de seguridad y los requisitos técnicos necesarios para implementar estas medidas.
 
+#### Artículo 26 quáter
+
+Las concesionarias de servicio público telefónico, y de transmisión de datos, para la provisión de dichos servicios, deberán mantener un registro actualizado, cuya información se almacene por un plazo de cinco años, que contenga la identificación de sus suscriptores o usuarios que incluya los datos necesarios para su correcta individualización, tales como el nombre completo, el domicilio, el número de cédula de identidad o número de pasaporte del suscriptor o usuario, así como la identidad internacional del equipo móvil (IMEI), la estación móvil de la red digital de servicios integrados (MSISDN) y la identidad internacional del abonado móvil (IMSI) y otras que la Subsecretaría pueda indicar en la norma técnica aplicable, la que contemplará mecanismos que permitan garantizar la actualización de dicho registro.
+
+Las concesionarias de servicio público telefónico y de transmisión de datos deberán dar cumplimiento a lo dispuesto en la ley Nº 19.628 sobre protección de la vida privada, con especial atención respecto de las obligaciones de seguridad y cuidado de los datos; sobre su carácter secreto y sobre la finalidad de dicha recopilación. No podrán utilizarse los datos personales recopilados en virtud de la prestación del servicio para una finalidad distinta de la señalada en la ley.
+
+#### Artículo 26
+
+quinquies.- Las concesionarias de servicio público telefónico y de transmisión de datos deberán financiar un sistema que permita el bloqueo efectivo de los dispositivos robados, hurtados o extraviados.
+
+La Subsecretaría mediante normativa técnica definirá, entre otros, los mecanismos, condiciones o requisitos que deberá cumplir este sistema.
+
 #### Artículo 27
 
 Los concesionarios de servicios públicos de telecomunicaciones podrán efectuar cobros por la instalación del servicio e iniciar el cobro por el suministro de servicios al público usuario, con la autorización previa de la Subsecretaría de Telecomunicaciones.
@@ -1185,6 +1197,8 @@ Se considerará, para estos efectos, que la señal satelital se encuentra adecua
 f) Los que vulneren el deber de reserva o secreto previsto en los artículos 218 bis, 219 y 222 del Código Procesal Penal, mediante el acceso, almacenamiento o difusión de los antecedentes o la información señalados en dichas normas, serán sancionados con la pena de presidio menor en su grado máximo.
 
 g) El que maliciosamente destruya, dañe o inutilice la infraestructura de telecomunicaciones, e interrumpa su servicio, sufrirá la pena de presidio menor en sus grados medio a máximo.
+
+h) El que adultere o modifique el IMEI, entendido como la identidad internacional del equipo móvil, será sancionado con presidio menor en su grado mínimo y multa de 11 a 15 unidades tributarias mensuales.
 
 #### Artículo 37
 
