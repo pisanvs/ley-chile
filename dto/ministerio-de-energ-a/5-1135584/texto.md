@@ -232,7 +232,7 @@ La disposición y capacidad de los edificios, equipos, estructuras y otros eleme
 
 3.1 Descripción General de la Obra
 
-El proyecto consiste en la construcción de una nueva S/E en torno a la actual S/E Casablanca. Además, incluye la instalación de un nuevo banco de autotransformadores monofásicos de 220/66 kV de capacidad de 150 MVA, con su respectiva unidad de reserva, la cual deberá contar con conexión automática. El patio de 220 kV de esta nueva S/E deberá ser en configuración interruptor y medio, con media diagonal construida para la conexión del equipo de transformación y espacio para al menos cuatro diagonales completas, de las cuales dos serán utilizadas por la Nueva Línea Nueva Alto Melipilla – Nueva Casablanca – La Pólvora – Agua Santa. Adicionalmente, el proyecto incluye la construcción del enlace 2x66 kV a la actual S/E Casablanca. El patio de 66 kV será en configuración doble barra más transferencia con sus respectivos paños de conexión, uno para el transformador y dos para el enlace con la actual S/E Casablanca, más espacio para, a lo menos, dos paños futuros.
+El proyecto consiste en la construcción de una nueva S/E en torno a la actual S/E Casablanca. Además, incluye la instalación de un nuevo banco de autotransformadores monofásicos de 220/66 kV de capacidad de 150 MVA, con su respectiva unidad de reserva, la cual deberá contar con conexión automática. El patio de 220 kV de esta nueva S/E deberá ser en configuración interruptor y medio, con media diagonal construida para la conexión del equipo de transformación y espacio para al menos cuatro diagonales completas, de las cuales dos serán utilizadas por la Nueva Línea Nueva Alto Melipilla – Nueva Casablanca – La Pólvora – Agua Santa. Adicionalmente, el proyecto incluye el seccionamiento del circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo y la construcción de los enlaces en 66 kV a la S/E Nueva Casablanca desde las estructuras de seccionamiento. El patio de 66 kV será en configuración doble barra más transferencia con sus respectivos paños de conexión, uno para el transformador, uno para el enlace con la actual S/E Casablanca y otro para el enlace con el Tap Algarrobo, más espacio para, a lo menos, dos paños futuros.
 
 Para el correcto diseño de la subestación se deben considerar las siguientes capacidades por barra:
 
@@ -272,7 +272,9 @@ Las instalaciones mínimas a considerar por el Adjudicatario, sin ser exhaustivo
 
 - Paño en 66 kV para equipo de transformación 220/66 kV, 150 MVA.
 
-- Dos paños para el enlace con la S/E Casablanca.
+- Un paño para el enlace con la S/E Casablanca.
+
+- Un paño para el enlace con el Tap Algarrobo.
 
 - Espacio disponible para dos paños futuros en 66 kV.
 
@@ -288,21 +290,17 @@ El espacio para las diagonales que alojarán la Nueva Línea 2x220 kV Nueva Alto
 
 Se entenderá que el "espacio disponible" destinado a las futuras obras quedará dentro del cerco perimetral de la subestación, limpio, nivelado, con adecuada accesibilidad para su mantenimiento y posterior uso, y deberá contar con las obras necesarias para permitir el escurrimiento y conducción de las aguas lluvia.
 
-3.4 Características Técnicas Mínimas para los paños de Línea en la S/E Casablanca
+3.4 Características Técnicas Mínimas del Seccionamiento del circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo.
 
-El enlace 2x66 kV entre S/E Nueva Casablanca y la existente S/E Casablanca debe incluir la construcción de los paños en 66 kV en la actual Subestación Casablanca.
+Se debe realizar el seccionamiento del circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo. Adicionalmente, se deben construir los enlaces necesarios para conectar las estructuras de seccionamiento a la Subestación Nueva Casablanca. Para realizar este seccionamiento y enlaces, se deben considerar los requerimientos operacionales asociados a la línea a seccionar y a las de enlace, es decir, los tiempos disponibles para realizar desconexiones y realizar trabajos con las líneas.
 
-El Adjudicatario será el encargado de construir los paños en 66 kV destinados a la conexión del enlace entre S/E Casablanca y S/E Nueva Casablanca, de manera tal que permita la conexión de los paños a la subestación existente.
+Para el seccionamiento es necesario construir nuevas estructuras de seccionamiento o realizar modificaciones o refuerzos a las actuales estructuras o cualquier método que el adjudicatario considere, de modo que permitan realizar el seccionamiento a la línea.
 
-Se dispondrá de la extensión de barras, plataforma y malla de puesta a tierra para los dos paños de línea destinados a la conexión del enlace antes mencionado. El Adjudicatario será el encargado de hacer todas las obras necesarias para dicha conexión.
+Los nuevos tramos de líneas deben mantener o mejorar el estándar de diseño actual de la línea y no afectar la línea eléctrica de la zona en donde se realizará el seccionamiento.
 
-Para realizar cada una de las obras de la subestación descritas anteriormente, se debe considerar además la adquisición del terreno que se destinará a la construcción de la Nueva S/E Casablanca.
+Debido al cambio de trazado que se debe realizar a la línea, se debe tener en cuenta la eventual necesidad de considerar nuevas servidumbres para los tramos nuevos de líneas, además de los trámites medioambientales correspondientes.
 
-Los conjuntos de aislación utilizados en subestaciones deberán ser de vidrio o porcelana y los aisladores de los equipos deberán ser de porcelana.
-
-Los equipos de protección, control, comunicaciones deben instalarse en casetas construidas para cada diagonal.
-
-La disposición y capacidad de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
+Se deben considerar posibles desmontajes en los tramos de línea que no sean utilizados por el proyecto producto del seccionamiento en el circuito Nº 1 de la línea 2x66 kV Casablanca - Tap Algarrobo. Las estructuras que se desmonten deberán trasladarse a la instalación más cercana del propietario.
 
 ### 4. NUEVA S/E LA PÓLVORA 220/110 KV
 
@@ -2139,6 +2137,8 @@ d) Nueva Línea 2x220 Dichato - Hualqui: Corresponde a un 20,420% del V.A.T.T. c
 > **Nota.** NOTA 1 La letra b. del artículo primero del decreto 6T, Energía, publicado el 11.08.2022, modifica el plazo de cumplimiento del Hito Relevante Nº 5, establecido en el numeral 1 del imperativo 5º, en el sentido de prorrogar en 27 días corridos el plazo previsto para su cumplimiento, de forma tal que en definitiva éste deberá cumplirse a más tardar el 27 de septiembre de 2021.
 
 > **Nota.** NOTA 2 El número 2° del Decreto 5, Energía, publicado el 28.10.2022, modifica el resuelvo 5° de la presente norma, en el sentido de señalar que los plazos de cumplimiento de los Hitos Relevantes indicados en dicho resuelvo, para las obras S/E Nueva Metrenco 220/66 kV y Línea 2x66 kV Nueva Metrenco - Enlace Imperial, como asimismo, respecto a las mismas obras mencionadas, los plazos constructivos señalados en la tabla del resuelvo 1° del presente Decreto, se contabilizarán desde la publicación del citado decreto en el Diario Oficial.
+
+> **Nota.** NOTA 3 El numeral 2º del Decreto 4, Energía, publicado del 19.02.2025, dispone modificar la tabla inserta en el resuelvo 1º de la presente norma en el sentido de señalar que el plazo constructivo para la obra "S/E Nueva Casablanca 220/66 kV", así como también el plazo de cumplimiento del Hito Relevante Nº 5: Entrada en Operación, indicado en el literal e) del resuelvo 5º, corresponderá a 18 meses contabilizados desde la publicación del citado decreto en el Diario Oficial.
 
 Anótese, tómese razón y publíquese. - Por orden del Presidente de la República, Ricardo Irarrázabal Sánchez, Ministro de Energía (S).
 
