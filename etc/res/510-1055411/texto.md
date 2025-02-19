@@ -30,6 +30,10 @@ La instrucción de los sumarios administrativos previstos en la Ley Orgánica de
 
 Los sumarios administrativos serán el medio formal de establecer hechos sujetos a una investigación y, si éstos fueren constitutivos de infracción administrativa, determinar la participación y la responsabilidad consiguiente de los funcionarios involucrados, respetando un racional y justo procedimiento.
 
+## Título I
+
+Del procedimiento general de sumarios administrativos instruidos por la Contraloría General de la República
+
 #### Artículo 3º
 
 El Contralor General, o quienes designe, podrán ordenar la instrucción de sumarios administrativos. El sumario se iniciará mediante una resolución que individualice al fiscal instructor e indique los hechos que lo motivan.
@@ -44,7 +48,7 @@ Los sumarios instruidos por la Contraloría General serán secretos. Sin embargo
 
 #### Artículo 6º
 
-El plazo de sustanciación no podrá exceder el contemplado en la Ley Orgánica de esta Entidad de Control. El período indagatorio tendrá una duración de treinta días, el que podrá prorrogarse por resolución de la autoridad que ordenó la instrucción del sumario administrativo.
+El plazo de sustanciación no podrá exceder el contemplado en la Ley Orgánica de esta Entidad de Control. El período indagatorio tendrá una duración de veinte días, el que podrá prorrogarse por una sola vez y sólo hasta por diez días por resolución de la autoridad que ordenó la instrucción del sumario administrativo.
 
 #### Artículo 7º
 
@@ -74,7 +78,7 @@ Asimismo, tendrá amplias facultades para realizar las indagaciones pertinentes 
 
 #### Artículo 11º
 
-Podrá el fiscal instructor, durante la sustanciación del procedimiento, suspender, como medida preventiva, a los involucrados, informando de ello de inmediato al Contralor General y al Jefe de Servicio respectivo. Dicha medida no podrá prolongarse más allá de la aprobación de la Vista Fiscal, por la autoridad correspondiente, salvo que ésta disponga su prórroga hasta que se dicte la resolución final.
+Podrá el fiscal instructor, durante la sustanciación del procedimiento, suspender, como medida preventiva, a los funcionarios involucrados, informando de ello de inmediato y por escrito a la autoridad o jefatura que dispuso la instrucción del sumario y a la Jefatura de Servicio respectivo. Dicha medida no podrá prolongarse más allá de la aprobación de la Vista Fiscal, por la autoridad correspondiente, salvo que ésta disponga su prórroga hasta que se dicte la resolución final.
 
 #### Artículo 12º
 
@@ -104,19 +108,23 @@ En la etapa indagatoria, el fiscal instructor podrá solicitar la ratificación 
 
 #### Artículo 16º
 
-Los funcionarios citados a declarar ante el fiscal instructor deberán fijar, en su primera comparecencia, un domicilio dentro del radio urbano del lugar en que la Fiscalía de la Contraloría ejerza sus funciones, y una casilla de correo electrónico, en caso que cuenten con ésta. Recaerá en ellos la obligación de comunicar a la brevedad cualquier cambio de los mismos. Si no dieren cumplimiento a estas obligaciones, se practicarán las notificaciones por carta certificada al domicilio registrado en la institución y, en caso de no contarse con tal información, en la oficina del involucrado.
+Los funcionarios citados a declarar ante el fiscal instructor deberán fijar, en su primera comparecencia, una casilla de correo electrónico, en la que se verificarán las notificaciones de todas las actuaciones y resoluciones del sumario.
 
-Las resoluciones podrán ser notificadas por correo electrónico a la dirección que indicare el involucrado, si éste hubiese accedido a ello, o lo hubiese solicitado, lo cual deberá constar en el expediente.
+Las notificaciones deben contener íntegramente la resolución que se comunica, dejándose constancia de estas en el expediente.
 
-Con todo, la notificación de los cargos será personal. Si el funcionario no fuere habido por dos días consecutivos en su domicilio o en su lugar de trabajo, se le notificará por carta certificada.
-
-Todas las notificaciones deben contener íntegramente la resolución que se comunica, dejándose constancia de éstas en el expediente y en caso que la notificación se realice por carta certificada, se entenderán practicadas a contar del tercer día siguiente a su recepción en la oficina de Correos que corresponda.
+A la notificación de los cargos se acompañará conjuntamente una copia en formato digital del expediente correspondiente al procedimiento sumarial o, en su defecto, se proporcionará acceso digital mediante enlace u otro mecanismo al respectivo expediente electrónico.
 
 #### Artículo 17º
 
-Las declaraciones serán encabezadas con indicación del lugar y la fecha en que se reciban, el nombre de quien las presta, el número de su cédula de identidad, nacionalidad, su profesión o actividad, cargo, grado, función, si correspondiere, domicilio particular, teléfono de contacto y correo electrónico, dejándose, además, constancia de que el deponente declara bajo promesa de decir verdad. Si se tomaren declaraciones a una persona que ya hubiere testificado, bastará con individualizarla por su nombre. Se cerrarán señalando, en el acto de la firma, que el declarante leyó y ratificó lo aseverado en ellas. Si el deponente no pudiere o no quisiere firmar, el fiscal dejará testimonio de este hecho.
+Las diligencias que deban desarrollarse durante la etapa indagatoria se realizarán preferentemente por medios electrónicos y/o digitales, conforme lo disponga el fiscal instructor.
 
-Las declaraciones deberán consignarse en un estilo breve y preciso, transcribiéndose con la mayor fidelidad posible el relato del compareciente. En todo caso, el fiscal podrá negarse a incorporar expresiones que incidan en asuntos manifiestamente ajenos al objeto de la investigación o que no tengan relación alguna con la materia del sumario, sin perjuicio de las presentaciones escritas que el declarante acompañe, si lo estimare pertinente.
+En todo caso, las declaraciones que deban tomarse en el sumario administrativo se practicarán por medios electrónicos y/o digitales, debiendo el fiscal instructor adoptar las medidas de resguardo necesarias para asegurar la veracidad de la identidad del compareciente y la integridad e inviolabilidad del testimonio prestado.
+
+Las aludidas declaraciones contendrán la indicación del lugar y la fecha en que se reciban, el nombre de quien las presta, el número de su cédula de identidad, su nacionalidad, su profesión o actividad, cargo, grado, función, si correspondiere, domicilio particular, teléfono de contacto y correo electrónico, dejándose, además, constancia de que el deponente declara bajo promesa de decir verdad.
+
+Si se tomaren declaraciones a una persona que ya hubiere testificado, bastará con individualizarla por su nombre y número de su cédula de identidad.
+
+Las declaraciones se grabarán en medios electrónicos y/o digitales y se incorporarán al expediente sumarial en el formato que se estime más conveniente por el fiscal instructor, sin necesidad de transcribirlas.
 
 #### Artículo 18º
 
@@ -130,7 +138,7 @@ El fiscal instructor o el actuario deberá hacer presente su eventual implicanci
 
 Formulada la recusación, el fiscal instructor o el actuario, según corresponda, dejará de intervenir, salvo en lo relativo a diligencias que no puedan paralizarse sin comprometer el éxito de la investigación.
 
-La solicitud será resuelta, previo informe del recusado, en el plazo de cinco días, respecto del actuario por el fiscal instructor, y respecto de éste último por la autoridad que ordenó la instrucción del sumario administrativo. Si fuere acogida, se designará en el mismo acto un nuevo fiscal o actuario.
+La solicitud será resuelta, previo informe del recusado, en el plazo de tres días, respecto del actuario por el fiscal instructor, y respecto de éste último por la autoridad que ordenó la instrucción del sumario administrativo. Si fuere acogida, se designará en el mismo acto un nuevo fiscal o actuario.
 
 #### Artículo 20º
 
@@ -146,7 +154,7 @@ La sola circunstancia de haber participado en una investigación previa de los h
 
 #### Artículo 21º
 
-Una vez terminada la investigación, el fiscal instructor dictará una resolución que declare cerrada la etapa indagatoria.
+Una vez vencido el periodo indagatorio, el fiscal instructor dictará, en el plazo de dos días, una resolución que declare cerrada la etapa indagatoria.
 
 #### Artículo 22º
 
@@ -170,9 +178,9 @@ La prescripción de la acción disciplinaria podrá ser declarada por la autorid
 
 #### Artículo 25º
 
-Si el fiscal instructor encontrare mérito suficiente, procederá a formular cargos a los inculpados, quienes podrán tomar conocimiento del proceso e intervenir, una vez notificados, personalmente o a través de su abogado, y solicitar copia del expediente electrónico o fojas del mismo que estime pertinentes para su defensa, a su costa.
+Si el fiscal instructor encontrare mérito suficiente, procederá a formular cargos a los inculpados en el plazo de cinco días desde que se hubiere dictado la resolución que declara cerrada la etapa indagatoria, quienes podrán solicitar copia del expediente electrónico o fojas del mismo que estime pertinentes para su defensa, a su costa.
 
-La solicitud de copia de los antecedentes deberá formularse por correo electrónico o excepcionalmente por escrito ante el fiscal instructor del sumario administrativo, por el interesado o su abogado, petición que deberá ser agregada al expediente electrónico, dejándose constancia en el mismo, de los antecedentes o fojas de los que se entregó copia.
+La solicitud de copia de los antecedentes deberá formularse por correo electrónico, por el interesado o su abogado, petición que deberá ser agregada al expediente electrónico, dejándose constancia en el mismo, de los antecedentes o fojas de los que se entregó copia.
 
 La entrega de documentos electrónicos se efectuará preferentemente mediante medios de almacenamiento electrónico.
 
@@ -192,9 +200,11 @@ El inculpado tendrá un plazo de cinco días, contado desde la fecha de notifica
 
 En el escrito de contestación de cargos el inculpado podrá acompañar todos los antecedentes y documentos en que apoye su defensa y solicitar fundadamente la realización de diligencias probatorias concretas. En caso de requerir la rendición de prueba testimonial, deberá acompañar una lista de testigos y podrá entregar en esta oportunidad una minuta de preguntas que requiera se formulen al o los declarantes.
 
+Las diligencias probatorias que sean solicitadas por el inculpado se gestionarán, rendirán e incorporarán al expediente por medios electrónicos y/o digitales.
+
 #### Artículo 29º
 
-El fiscal instructor dispondrá la recepción de las pruebas ofrecidas y el cumplimiento de las diligencias solicitadas, para lo cual podrá fijar un período probatorio no superior a diez días, notificando de ello al inculpado. En casos calificados, al existir diligencias pendientes decretadas oportunamente y no cumplidas por fuerza mayor, se podrá prorrogar dicho plazo.
+El fiscal instructor dispondrá la recepción de las pruebas ofrecidas y el cumplimiento de las diligencias solicitadas, para lo cual podrá fijar un período probatorio no superior a diez días, notificando de ello al inculpado. En casos calificados, al existir diligencias pendientes decretadas oportunamente y no cumplidas por fuerza mayor, se podrá prorrogar dicho plazo por hasta cinco días.
 
 Sin embargo, podrá rechazar aquellas diligencias que no fueren conducentes al esclarecimiento de los hechos o la responsabilidad de los involucrados. De esta resolución podrá reclamarse ante el Jefe de la Unidad de Sumarios de la Fiscalía o ante el Jefe de la Unidad Jurídica en las Contralorías Regionales, según corresponda, dentro de segundo día.
 
@@ -204,11 +214,11 @@ El fiscal instructor podrá disponer, hasta antes de la Vista Fiscal, la prácti
 
 #### Artículo 31º
 
-Derogado
+El fiscal instructor podrá decretar, hasta antes de la emisión de la Vista Fiscal, la práctica de medidas para mejor resolver, las que deberán realizarse en un plazo no superior a 5 días hábiles. Vencido ese plazo, si tales diligencias no han podido realizarse, se entenderán como no decretadas.
 
 #### Artículo 32º
 
-Una vez presentados los descargos, vencido el plazo para formularlos, o realizadas las diligencias a que se refieren los artículos precedentes, se dará término a la etapa acusatoria con la emisión de la Vista Fiscal.
+Una vez presentados los descargos, vencido el plazo para formularlos, o realizadas las diligencias a que se refieren los artículos precedentes, el fiscal instructor deberá emitir, en el plazo de diez días, la Vista Fiscal, con lo que se dará término a la etapa acusatoria.
 
 #### Artículo 33º
 
@@ -216,7 +226,7 @@ La Vista Fiscal constará de exposición, análisis y conclusiones. En la exposi
 
 #### Artículo 34º
 
-La Vista Fiscal se elevará al Jefe de la Unidad de Sumarios de la Fiscalía o al Jefe de la Unidad Jurídica, quienes la aprobarán y emitirán su juicio respecto de las medidas que corresponda adoptar, o bien, podrán disponer fundadamente la reapertura del sumario, ordenando diligencias y fijando un plazo para tal efecto.
+La Vista Fiscal se elevará al Jefe de la Unidad de Sumarios de la Fiscalía o al Jefe de la Unidad Jurídica, quienes la aprobarán y emitirán su juicio respecto de las medidas que corresponda adoptar, o bien, podrán disponer fundadamente la reapertura del sumario, ordenando diligencias y fijando un plazo preciso para tal efecto. En uno u otro caso, la jefatura respectiva deberá pronunciarse en el plazo de diez días.
 
 En aquellas Contralorías Regionales en que exista una Unidad de Personal y Responsabilidad Administrativa (UPRA), las funciones que este reglamento le asigna al Jefe de la Unidad Jurídica, serán cumplidas por la Jefatura de la UPRA.
 
@@ -248,11 +258,139 @@ En caso de proceder una medida disciplinaria, ésta deberá estar contemplada en
 
 Si durante la sustanciación de un sumario el fiscal se forma la convicción de que hay hechos que deben ser puestos en conocimiento de la Justicia Ordinaria, se procederá de acuerdo con lo preceptuado en la Ley Orgánica de esta Contraloría General y en el artículo 175 del Código Procesal Penal.
 
-#### Artículo 41º
+## Título II
+
+Del procedimiento especial de sumarios administrativos instruidos por la Contraloría General de la República
+
+#### Artículo 41
+
+Los sumarios administrativos tramitados por las fiscalías administrativas permanentes de esta Contraloría General se ajustarán a las normas contenidas en el presente Título.
+
+Las fiscalías administrativas permanentes serán creadas por resolución exenta del Contralor General y estarán conformadas por un fiscal administrativo permanente y el número de fiscales investigadores a su cargo, que el mismo acto determine.
+
+#### Artículo 42
+
+El Contralor General, o quienes designe, podrán ordenar la instrucción de sumarios administrativos conforme al procedimiento especial que regula este título. El sumario se iniciará mediante una resolución que señale expresamente que aquel se regirá por el procedimiento especial y que indique los hechos precisos que lo motivan.
+
+En el mismo acto o en otro distinto, se individualizará la fiscalía administrativa permanente encargada de la substanciación del sumario. Del mismo modo, se podrá reasignar un sumario en curso a una fiscalía administrativa permanente distinta.
+
+#### Artículo 43
+
+El fiscal administrativo permanente será el responsable de la conducción y supervisión de todos los sumarios administrativos que se le han asignado.
+
+Son funciones y facultades del fiscal administrativo permanente:
+
+a) Dirigir la investigación del sumario administrativo, disponiendo y supervisando la realización de las diligencias probatorias necesarias para el esclarecimiento de los hechos y la determinación de responsabilidades administrativas.
+
+b) Formular cargos, emitir la vista fiscal y proponer sanciones, absolución o el sobreseimiento del sumario administrativo.
+
+c) Dictar las resoluciones necesarias para dar curso progresivo al sumario.
+
+d) Realizar las diligencias probatorias que estime pertinentes e incorporarlas al expediente electrónico.
+
+e) Resolver las solicitudes que formulen las partes en el sumario.
+
+f) Supervisar la labor de los fiscales investigadores de la fiscalía administrativa permanente respectiva.
+
+El fiscal administrativo permanente deberá actuar siempre con estricta sujeción a los principios que garantizan el debido proceso, velará por la discreción, rapidez e imparcialidad en todas sus actuaciones.
+
+Estará obligado a fundar sus resoluciones e investigar con igual celo y acuciosidad, no solo los hechos y circunstancias que establecen y agravan la responsabilidad de los afectados, sino también aquellos que les eximan de ella, la atenúen o extingan.
+
+Asimismo, tendrá amplias facultades para ordenar o realizar las indagaciones pertinentes y los funcionarios estarán obligados a prestar la colaboración que se les solicite.
+
+#### Artículo 44
+
+Los fiscales investigadores serán los responsables de ejecutar las inspecciones y diligencias probatorias y administrativas necesarias para el desarrollo de los sumarios administrativos asignados a la respectiva fiscalía administrativa permanente, actuando bajo la dirección y supervisión del fiscal administrativo permanente.
+
+Son funciones y facultades de los fiscales investigadores:
+
+a) Realizar todas las inspecciones y diligencias probatorias que disponga el fiscal administrativo permanente, para lo cual tendrá la facultad para requerir directamente informes o antecedentes al personal de los servicios públicos, para citarlos y tomarles declaración.
+
+b) Organizar y mantener el expediente electrónico del sumario administrativo, agregando directamente los documentos y piezas respectivas.
+
+c) Ejecutar las instrucciones que emita el fiscal administrativo permanente y dictar las resoluciones de mero trámite que sean necesarias para su cumplimiento.
+
+d) Notificar las actuaciones y resoluciones que se dicten en el proceso.
+
+Los fiscales investigadores se encuentran facultados para intervenir y realizar actuaciones y diligencias en todos los sumarios asignados a la respectiva fiscalía administrativa permanente, de acuerdo con las instrucciones que se les imparta al efecto, salvo en los casos en que les afecten causales de implicancia o recusación, según lo dispuesto en el artículo 45.
+
+Los fiscales investigadores deberán actuar siempre con estricta sujeción a los principios que garantizan el debido proceso, velarán por la discreción, rapidez e imparcialidad en todas sus actuaciones.
+
+#### Artículo 45
+
+Serán aplicables a los fiscales administrativos permanentes y a los fiscales investigadores las causales de recusación establecidas en el artículo 20 del presente reglamento.
+
+Los funcionarios citados a declarar, respecto de los cuales existan presunciones fundadas para estimar que han tenido una participación en los hechos materia del sumario administrativo, serán apercibidos para que, dentro del segundo día, formulen las causales de recusación en contra del fiscal administrativo permanente o de los fiscales investigadores que integran la fiscalía administrativa respectiva.
+
+El fiscal investigador que realice una diligencia deberá informar al declarante la identidad del fiscal administrativo permanente a cargo del sumario y de los fiscales investigadores que integran la respectiva fiscalía administrativa, a fin de que el declarante ejerza el derecho señalado en el inciso precedente.
+
+En el evento que el sumario sea reasignado a otra fiscalía administrativa permanente o bien se disponga un cambio en su integración, deberá notificarse este hecho a quienes hayan sido apercibidos en los términos precedentes, para que, dentro de segundo día, ejerzan el derecho a recusar.
+
+Tanto el fiscal administrativo permanente como el fiscal investigador deberán hacer presente su implicancia, si les afectare alguna de las causales mencionadas en el artículo 20 del presente reglamento.
+
+Formulada la recusación o manifestada la implicancia, el fiscal administrativo permanente o el fiscal investigador dejará de intervenir, salvo en lo relativo a diligencias que no puedan paralizarse sin comprometer el éxito de la investigación.
+
+Las solicitudes de recusación serán resueltas, previo informe del recusado, en el plazo de tres días por el Jefe del Departamento de Procesos Disciplinarios o por el Contralor Regional del cual dependa la respectiva fiscalía administrativa.
+
+Si fuere acogida la recusación del fiscal administrativo permanente, se reasignará el sumario administrativo a una fiscalía administrativa permanente distinta.
+
+Si fuere acogida la recusación de un fiscal investigador, éste dejará de intervenir en el sumario siendo reasignadas sus labores a los demás fiscales investigadores de la misma fiscalía administrativa permanente.
+
+#### Artículo 46
+
+Serán aplicables a los sumarios administrativos tramitados por las fiscalías administrativas permanentes las normas y plazos establecidos para el procedimiento general, en cuanto sean compatibles con lo establecido en el presente Título.
+
+El fiscal administrativo permanente y los fiscales investigadores gozan de las atribuciones generales de investigación señaladas en el artículo 15 de este reglamento para los fiscales instructores.
+
+Las diligencias probatorias serán ordenadas por el fiscal administrativo permanente y ejecutadas por los fiscales investigadores, quienes se encuentran facultados para llevar a cabo todas las actuaciones necesarias para cumplir con las diligencias decretadas. Sin perjuicio de lo anterior, el fiscal administrativo permanente podrá realizar personalmente las diligencias y actuaciones que estime pertinentes para el éxito de la investigación.
+
+En los sumarios regidos por este Título será procedente la designación de fiscales investigadores ad hoc, conforme con lo dispuesto en el artículo 9º del presente reglamento y a solicitud del fiscal administrativo permanente.
+
+En estos sumarios no procederá la designación de actuario.
+
+Cuando sea necesario, el fiscal administrativo permanente, por resolución fundada consignada en el cuaderno principal, podrá formar cuadernos separados con la realización de determinadas diligencias o agregación de documentos.
+
+El fiscal administrativo permanente podrá suspender, como medida preventiva, a los funcionarios involucrados, conforme con lo dispuesto en el artículo 11 del presente reglamento.
+
+En los procedimientos tramitados por las fiscalías administrativas permanentes, las facultades establecidas para el Jefe de la Unidad de Sumarios de la Fiscalía serán ejercidas por el Jefe del Departamento de Procesos Disciplinarios o el Contralor Regional respectivo, según corresponda.
+
+## Título III
+
+Normas especiales sobre sumarios administrativos instruidos por hechos constitutivos de acoso sexual y acoso laboral
+
+#### Artículo 47
+
+Los sumarios administrativos ordenados instruir por hechos constitutivos de acoso sexual o acoso laboral, vulneratorios de lo dispuesto en el artículo 84, letras
+
+- **l)** o
+
+- **m)** de la ley Nº 18.834 o el artículo 82, letras
+
+- **l)** y
+
+- **m)** de la ley Nº 18.883, deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
+
+#### Artículo 48
+
+Los sumarios administrativos ordenados instruir por hechos constitutivos de acoso sexual o acoso laboral, podrán sustanciarse de acuerdo con los procedimientos establecidos en los títulos I o II del presente reglamento, según lo disponga el Contralor General, o el funcionario que designe, en la resolución respectiva.
+
+En todo caso, a los sumarios administrativos señalados en el inciso anterior les serán aplicables las siguientes reglas especiales:
+
+a) Las víctimas y personas afectadas por las eventuales infracciones tendrán derecho a aportar antecedentes a la investigación, a conocer su contenido desde la formulación de cargos, a ser notificadas e interponer recursos en contra de los actos administrativos, en los mismos términos que el funcionario inculpado.
+
+b) Cuando el fiscal instructor o el fiscal administrativo permanente, según corresponda, proponga el sobreseimiento y éste sea aprobado, deberá notificarse la resolución que afina el procedimiento a la persona denunciante, dentro del plazo de cinco días, quien podrá interponer el recurso jerárquico en el plazo de veinte días contado desde que tomó conocimiento de aquella.
+
+#### Artículo 49
+
+En los sumarios administrativos a los que se refiere el presente título, el fiscal instructor o el fiscal administrativo permanente, según corresponda, deberá adoptar las medidas de resguardo que estime necesarias respecto de las personas involucradas. Para ello deberá considerar la gravedad de los hechos imputados, la seguridad de la persona denunciante y las posibles derivadas de las condiciones de trabajo, entre las que se encuentran la separación de los espacios físicos y el otorgamiento a la persona denunciante de atención psicológica temprana, a través de los programas que disponga el organismo administrador respectivo de la ley Nº 16.744.
+
+Las medidas adoptadas se encontrarán vigentes por el tiempo que dure el procedimiento disciplinario y hasta que éste se encuentre afinado.
+
+#### Artículo 50º
 
 Derógase la resolución Nº 236, de 1998, de esta Contraloría General.
 
-#### Artículo 42º
+#### Artículo 51º
 
 La presente resolución comenzará a regir el primer día hábil del mes subsiguiente al de su publicación en el Diario Oficial.
 
