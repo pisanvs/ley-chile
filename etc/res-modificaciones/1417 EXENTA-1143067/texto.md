@@ -28,19 +28,13 @@ Resuelvo:
 
 2. El envío deberá estar amparado por un Certificado Fitosanitario Oficial emitido por la autoridad fitosanitaria del país de origen, en el que consten las siguientes declaraciones adicionales:
 
-2.1. El envío se encuentra libre de Argyrotaenia franciscana (=A. citrana) (Lep. Tortricidae).
+2.1. El envío ha sido inspeccionado y se encuentra libre de Argyrotaenia franciscana (= A. citrana) y Epiphyas postvittana (Lep.: Tortricidae).
 
 2.2. El envío de frutillas frescas ha sido sometido a un tratamiento cuarentenario oficialmente supervisado de fumigación con Bromuro de Metilo, en dosis de 48 gr/m³, por 2-3 horas de exposición a 15,5 - 23,8º C contra Cnephasia longana (Lep. Tortricidae).
 
-2.3. Para el caso Epiphyas postvittana
+2.3. Eliminado.
 
-2.3.1. El envío proviene de un área no reglamentada para Epiphyas postvittana y se encuentra libre Epiphyas postvittana.
-
-o
-
-2.3.2. El envío proviene de un área reglamentada para Epiphyas postvittana y ha sido sometido a un tratamiento cuarentenario oficialmente supervisado de fumigación con Bromuro de Metilo, en dosis de 48 gr/m³, por 2-3 horas de exposición a 15,5 - 23,8º C contra Epiphyas postvittana.
-
-3. El tratamiento cuarentenario para el control de Epiphyas postvittana (Lep. Tortricidae) y Cnephasia longana (Lep. Tortricidae) deberá ser realizado en origen. Las especificaciones del tratamiento realizado deberán estar indicadas en la sección correspondiente del certificado Fitosanitario. indicando producto, dosis, temperatura y tiempo de exposición.
+3. El tratamiento cuarentenario para el control de Cnephasia longana (Lep. Tortricidae), deberá ser realizado en origen. Las especificaciones del tratamiento deberán estar indicadas en la sección correspondiente del Certificado Fitosanitario, indicando producto, dosis, temperatura y tiempo de exposición.
 
 4. Finalizado el tratamiento, debe asegurarse que el envío mantenga el resguardo en todo momento hasta su arribo a Chile, a fin de mantener su condición fitosanitaria.
 
