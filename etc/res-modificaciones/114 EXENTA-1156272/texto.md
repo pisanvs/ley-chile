@@ -26,4 +26,6 @@ c) Reemplazar la tabla inserta en el resuelvo 3., por la siguiente:
 
 Establécese que la resolución exenta Nº 281 del Seremi Metropolitano de V. y U., de fecha 10 de febrero de 2020, se mantendrá vigente en todo aquello que no ha sido modificado por la presente resolución.
 
+> **Nota.** La Resolución 1843, Vivienda, publicada el 21.02.2025, rectifica en el sentido que indica las letras a), b) y c) del Nº 1 de la Resolución 613 Exenta, Vivienda, publicada el 26.05.2021, que a su vez modifica a la presente norma en la forma que la citada resolución dispone.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Manuel José Errázuriz Tagle, Secretario Regional Ministerial Metropolitano de Vivienda y Urbanismo.
