@@ -354,23 +354,37 @@ Luego de la determinación definitiva de la infracción, la institución remitir
 
 La Subsecretaría de Educación Superior, mediante resolución constatará dicha nómina y las consecuencias de la infracción. La o el postulante en cuestión dispondrá de cinco (5) días hábiles contados desde la notificación del referido acto administrativo de la Subsecretaría, para presentar ante esta una reposición, en los términos establecidos en la ley Nº 19.880, sin perjuicio de otros medios que disponga esa u otras normas.
 
-Postulantes en situación de discapacidad: Para la inscripción se entenderá por persona con discapacidad lo establecido por el artículo 5º de la ley 20.422, que consigna: "Persona con discapacidad es aquella que teniendo una o más deficiencias físicas, mentales, sea por causa psíquica o intelectual, o sensoriales, de carácter temporal o permanente, al interactuar con diversas barreras presentes en el entorno, ve impedida o restringida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás."
+Postulantes en situación de discapacidad: Para la inscripción se entenderá por persona con discapacidad o con necesidades educativas especiales, lo establecido en la ley 20.422 y el decreto supremo Nº 170, de 2009, del Ministerio de Educación, o la norma que la modifique o reemplace.
 
-Los postulantes en situación de discapacidad tendrán derecho a solicitar que se les proporcionen los ajustes adecuados y apoyos necesarios que se requieran para resguardar la igualdad de oportunidades en la rendición de las pruebas. Lo anterior quedará sujeto a la disponibilidad de los recursos económicos, humanos y técnicos de la institución encargada de aplicar la prueba de admisión universitaria.
+En ese contexto, los postulantes en situación de discapacidad o con necesidades educativas especiales tendrán derecho a solicitar que se les proporcionen los ajustes adecuados y apoyos necesarios que se requieran para resguardar la igualdad de oportunidades en la rendición de las pruebas, en los términos establecidos en el acápite "condiciones generales" y "derechos" del presente acto administrativo, sin que dichos ajustes puedan significar ventajas indebidas en la rendición.
 
-Es condición necesaria para ejercer el derecho a requerir ajustes, adecuaciones o apoyos que los postulantes se hayan inscrito en los plazos regulares del proceso de admisión.
+Lo anterior, quedará sujeto a la disponibilidad de los recursos económicos, humanos y técnicos de la institución encargada de aplicar la prueba de admisión universitaria. Es condición necesaria para ejercer el derecho a requerir ajustes, adecuaciones o apoyos que los postulantes se hayan inscrito en los plazos regulares del proceso de admisión.
 
-En el momento de la inscripción, la persona con discapacidad deberá realizar la solicitud de ajustes, adecuaciones o apoyos acompañada de los siguientes antecedentes:
+Los ajustes serán determinados por la institución encargada de aplicar la prueba de admisión universitaria de acuerdo con el mérito de la solicitud y de los antecedentes que variarán según la condición declarada por el postulante, avalada por los documentos que lo acrediten, según se indica en el párrafo siguiente. En caso que sea pertinente, los referidos ajustes deberán considerar la trayectoria educativa de los postulantes, la que se evaluará con base a información que proporcione el respectivo establecimiento educacional.
 
-a) Exposición clara de su solicitud. Si el postulante recibió ajustes, adecuaciones o apoyos en su último establecimiento educacional, debe adjuntar un informe que lo suscriba.
+En el momento de la inscripción, la persona con discapacidad o con necesidades educativas especiales deberá realizar la solicitud de ajustes, adecuaciones o apoyos acompañada de los siguientes antecedentes:
 
-b) Fotocopia del certificado emitido por la respectiva Comisión de Medicina Preventiva e Invalidez (Compin) vigente, o bien, fotocopia del carné o certificado emitido por el Registro Nacional de Discapacidad vigente.
+a) Exposición clara de su solicitud.
 
-c) Si el postulante no cuenta con la documentación de la letra b) deberá presentar una certificación médica que determine la discapacidad que presenta y su grado. El documento no deberá tener una antigüedad mayor a tres años desde su emisión y deberá ser visado por el Servicio Médico de la Universidad de Chile (Semda).
+b) Presentar alguno de los siguientes documentos alternativos:
+
+b.1) Fotocopia del certificado emitido por la respectiva Comisión de Medicina Preventiva e Invalidez (Compin) vigente; o,
+
+b.2) Fotocopia del carné o certificado emitido por el Registro Nacional de Discapacidad vigente; o,
+
+b.3) Informe de Evaluación y Síntesis del Programa de Integración Escolar (actual FUDEI), que no deberá tener una antigüedad mayor a tres años desde su emisión (Evaluación Integral de Necesidades Educativas Especiales Ley 20.201-decreto supremo 170/2009, vigente, emanado de los Programas de Integración Escolar PIE).
+
+c) Si el postulante no cuenta con alguno de los documentos señalados en la letra b), deberá presentar los siguientes documentos copulativos:
+
+c1) Una certificación médica del especialista pertinente, según el protocolo de ajustes establecido por la institución encargada. Esta certificación no deberá tener una antigüedad mayor a 3 años, excepto en los casos de condiciones de salud mental, en cuyo caso la antigüedad no debe ser mayor a 6 meses; y
+
+c2) Un informe del establecimiento educativo de acuerdo con el formato establecido para estos efectos u otros documentos pertinentes a la condición acreditada, según lo determinado previamente por la institución encargada a través de un protocolo de ajustes que deberá ser publicado en las correspondientes páginas web. Estos informes podrán ser emitidos por especialistas no médicos, u otros, que se determinen, en relación con el tipo de discapacidad. Todos los documentos deberán cumplir con los requisitos establecidos en el protocolo de ajustes establecido por la institución encargada de aplicar la prueba de admisión universitaria.
 
 Si la solicitud no cumple con los requisitos exigidos será rechazada y, para todos los efectos, se tendrá por no presentada.
 
-La definición de los ajustes, adecuaciones o apoyos será resuelta por la institución encargada de la aplicación de la prueba, en atención a la evaluación efectuada por un Equipo Técnico Interdisciplinario que asesora este proceso y que está conformado por al menos 12 académicos y profesionales especializados en el apoyo a estudiantes en situación de discapacidad de instituciones de Educación Superior, invitados en atención a su currículo y área de especialidad, del Servicio Nacional de la Discapacidad, y de la Unidad de Educación Especial del Ministerio de Educación.
+La definición de los ajustes, adecuaciones o apoyos será resuelta por la institución encargada de la aplicación de la prueba, en atención a la evaluación efectuada por un Equipo Técnico Interdisciplinario que asesora este proceso y que está conformado por al menos 12 académicos y profesionales especializados en el apoyo a estudiantes en situación de discapacidad de instituciones de educación superior, invitados en atención a su currículo y área de especialidad, del Servicio Nacional de la Discapacidad y de la Unidad de Educación Especial del Ministerio de Educación.
+
+La presentación de antecedentes falsos o la obtención de ajustes de forma fraudulenta constituirá una infracción a la normativa que rige el Sistema de Acceso, cuya consecuencia será la exclusión inmediata del proceso en curso de admisión a las universidades adscritas al Sistema de Acceso, en los términos establecidos en el acápite de "condiciones de participación" del presente acto administrativo.
 
 Postulantes que rinden la prueba con nombre social: En atención a los principios orientadores del reconocimiento y protección de la identidad de género, desde el año 2018 las personas que utilizan, en razón de su identidad de género, un nombre social distinto al nombre legal o registral, pueden solicitar utilizar dicho nombre social para la rendición de las pruebas. Para ello, en la ficha de inscripción a la prueba de admisión universitaria, debe solicitar utilizar su nombre social y, posteriormente, deberá enviar a la institución encargada de la aplicación de la prueba, sus antecedentes y documentación correspondiente. Dicho nombre social será con el que se le identificará en la lista de llamado de la sala en que le corresponda rendir la prueba. El nombre legal seguirá figurando en los documentos oficiales y en todos los sistemas para efectos de inscripción, entrega de puntajes, selección y matrícula.
 
