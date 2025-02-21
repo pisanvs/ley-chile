@@ -52,19 +52,13 @@ Resolución:
 
 a) Reemplazar la tabla inserta en el resuelvo 1.1, por la siguiente:
 
-.
-
-b) Reemplazar tabla correspondiente a la nómina de postulantes seleccionados, que forma parte y que se adjunta a la resolución exenta N° 281 de la Seremi Metropolitana de Vivienda y Urbanismo, de fecha 10 de febrero 2020, por la siguiente:
+b) Reemplazar tabla correspondiente a la nómina de postulantes seleccionados, que forma parte y que se adjunta a la resolución exenta Nº 281 de la Seremi Metropolitana de Vivienda y Urbanismo de fecha 10 de febrero de 2020, por la siguiente:
 
 NÓMINA DE POSTULANTES SELECCIONADOS - RM
 
-Llamado en condiciones especiales, DS N° 27 (V. y U.), de 2016 Capítulo Primero
-
-Equipamiento Comunitario.
+Llamado en condiciones especiales, DS Nº 27 (V. y U.), de 2016 Capítulo primero Equipamiento Comunitario.
 
 Resolución exenta N° 1.881 (V. y U.) del 19.08.2019
-
-.
 
 c) Reemplazar la tabla inserta en el resuelvo 3., por la siguiente:
 
