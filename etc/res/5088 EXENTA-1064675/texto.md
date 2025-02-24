@@ -78,7 +78,7 @@ a) Para el caso de plantas para plantar, plantas madres, brotes o setos además 
 
 b) Alguno de los tratamientos fitosanitarios señalados en el numeral 6.1.5 ó 6.1.6, los que deberán ser aplicados bajo la supervisión de inspectores del SAG o ser verificados por éstos.
 
-c) Que los predios de origen de las maderas presenten una baja prevalencia de la plaga (menos del 1% de los árboles con infestación reciente de Pissodes castaneus) y se encuentran localizados a menos de 2 km de los puntos donde se ha verificado el establecimiento de Eubazus semirugosus.
+c) Que los predios de origen de las maderas presenten una baja prevalencia de la plaga (menos del 1% de los árboles con infestación reciente de Pissodes castaneus) y se encuentran localizados a menos de 8 km de los puntos donde se ha verificado el establecimiento de Eubazus semirugosus.
 
 d) Que los predios de origen de las maderas se haya liberado Eubazus semirugosus en los últimos dos años.
 
@@ -109,6 +109,12 @@ g.3) En destino las maderas deberán ser sometidas a tratamiento de descortezado
 11. Se prohíbe la movilización de adultos y estados inmaduros viables de la plaga hacia el área en peligro, sin la autorización previa del SAG mediante resolución exenta. Se exceptúan de esta medida las muestras para diagnósticos y estudios biológicos que realiza el SAG, las que se deberán movilizar bajo medidas de bioseguridad establecidas por el SAG.
 
 12. El SAG podrá determinar acciones de inspección, verificación de origen y corroboración de la condición sanitaria en viveros, campos de setos, bosques, plantaciones, cortinas cortavientos, árboles aislados, centros de acopio de maderas, aserraderos o centros de industrialización de maderas. Los propietarios, arrendatario, tenedores o administradores de estas instalaciones, deberán dar las facilidades a los inspectores del SAG para la realización de las mismas.
+
+12 bis. Los predios localizados en áreas declaradas bajo cuarentena de Pissodes castaneus y que se encuentren en zonas del territorio afectos a decretos supremos que declaran estados de excepción constitucional de emergencia o de protección de la infraestructura crítica, donde los respectivos Jefes de la Defensa Nacional determinen que hay riesgo y peligro para las personas, se aplicarán, en forma excepcional, las siguientes medidas:
+
+a. Se implementará una estrategia para la vigilancia y control de la plaga Pissodes castaneus considerando sólo las áreas que tienen un acceso seguro para el personal SAG.
+
+b. Los propietarios, arrendatarios o tenedores de estos predios que deseen movilizar artículos reglamentados correspondientes a maderas con corteza, para obtener la autorización del SAG, deberán cumplir con lo señalado en el numeral número 8, y podrán acogerse y cumplir las medidas que señala la letra f) durante todo el año. En el caso de la letra f. 4 el plazo máximo para el tratamiento de corteza es de 30 días desde la recepción de la madera.
 
 13. Las transgresiones o incumplimientos de las medidas que se disponen, serán sancionadas de acuerdo a lo dispuesto en el decreto ley Nº 3.557 de 1980 sobre Protección Agrícola y por la Ley Nº 18.755 Orgánica del Servicio Agrícola y Ganadero.
 
