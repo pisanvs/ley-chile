@@ -14,7 +14,9 @@ Considerando:
 
 R e s u e l v o:
 
-1.- Para su ingreso al país los frutos frescos para consumo de palta (Persea americana Mill) producidos en el Estado de California de Estados Unidos de Norteamérica, deberán venir amparados por un Certificado Fitosanitario Oficial del país de origen, en original, en el cual se deberá indicar como declaración adicional que el envío se encuentra libre de Scirtothrips perseae (Thy. Thripidae), Selenothrips rubrocinctus (Thy. Thripidae) y Amorbia cuneana (Lep. Tortricidae).
+1.- Para su ingreso al país, los frutos frescos para consumo de palto (Persea americana Mill) producidas en el estado de California, deberán estar amparados por un Certificado Fitosanitario Oficial del país de origen, en el que se deberá indicar la siguiente declaración adicional:
+
+"El envío ha sido inspeccionado y se encuentra libre de Amorbia cuneana, Epiphyas postvittana (Lep. Tortricidae), Scirtothrips perseae (Thy. Thripidae) y Selenothrips rubrocinctus (Thy. Thripidae)".
 
 2.- Complementariamente cada partida de importación deberá cumplir con los siguientes requisitos fitosanitarios:
 

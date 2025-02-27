@@ -18,59 +18,85 @@ Considerando:
 
 Resuelvo:
 
-1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 2.403 de 2000; 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
+1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
 
-1.1 Material de propagación (plantas, estacas,
+1.1 Material de propagación (plantas,
 
-ramillas, púas y esquejes):
+estacas, ramillas, púas y
+
+esquejes):
 
 1.2 Frutas frescas:
 
 2. Establécese los siguientes requisitos fitosanitarios de importación para plantas y/o partes de plantas hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica:
 
-2.1 El material procedente de un lugar de producción
+2.1 El material procedente de un lugar
 
-y empacado dentro de áreas no reglamentadas por
+de producción y empacado dentro
 
-USDA/APHIS, para Epiphyas postvittana
+de áreas no reglamentadas por
 
-(Lep.:Tortricidae), deberá venir amparado por un
+USDA/APHIS, para Epiphyas
 
-Certificado Fitosanitario del Departamento de
+postvittana (Lep.:Tortricidae),
 
-Agricultura de Estados Unidos (USDA/APHIS), en
+deberá venir amparado por un
 
-el cual se indique como declaración adicional:
+Certificado Fitosanitario del
 
-a) El nombre del Condado y Estado de Estados
+Departamento de Agricultura
 
-Unidos de Norteamérica, de procedencia del
+de Estados Unidos (USDA/APHIS),
+
+en el cual se indique como
+
+declaración adicional:
+
+a) El nombre del Condado
+
+y Estado de Estados
+
+Unidos de Norteamérica,
+
+de procedencia del
 
 envío.
 
-b) El envío proviene de un lugar de producción
+b) El envío proviene de
 
-y empaque dentro de un área no reglamentada
+un lugar de producción
+
+y empaque dentro de
+
+un área no reglamentada
 
 para Epiphyas postvittana
 
 (Lep.:Tortricidae).
 
-2.2 El material procedente de un lugar de producción
+2.2 El material procedente de un
 
-y empacado dentro de un área reglamentada por
+lugar de producción y empacado
 
-USDA/APHIS, para Epiphyas postvittana
+dentro de un área reglamentada
 
-(Lep.:Tortricidae), deberá cumplir con los
+por USDA/APHIS, para Epiphyas
 
-siguientes requisitos fitosanitarios y
+postvittana (Lep.:Tortricidae),
 
-declaraciones adicionales indicadas en el
+deberá cumplir con los
 
-Certificado Fitosanitario Oficial, según tipo de
+siguientes requisitos
 
-material vegetal:
+fitosanitarios y declaraciones
+
+adicionales indicadas en el
+
+Certificado Fitosanitario
+
+Oficial, según tipo de material
+
+vegetal:
 
 3. Los envíos certificados para ser exportados a Chile, deberán mantenerse debidamente resguardados para esta plaga, antes de ser embarcados a este país.
 
@@ -85,5 +111,21 @@ material vegetal:
 > **Nota.** NOTA 4 El Nº 2 del Resuelvo II de la Resolución 468 Exenta Agricultura, publicada el 17.04.2012, modifica la presente norma, en el sentido de eliminar en el cuadro inserto en el resuelvo número 1.2 las palabras "Actinidia spp.".
 
 > **Nota.** NOTA 5 El numeral 2 del Resuelvo II de la Resolución 2074 Exenta, Agricultura, publicada el 21.04.2012, modifica la presente norma, en el sentido de eliminar en el cuadro inserto en el resuelvo número 1.2, las palabras "Rubus sp.".
+
+> **Nota.** NOTA 6 El numeral 11 de la Resolución 1742 Exenta, Agricultura, publicada el 22.03.2019, modifica la presente norma en el sentido de eliminar en el cuadro inserto en el punto 1.1, la especie Vitis vinifera
+
+> **Nota.** NOTA 7 El numeral 9 de la Resolución 4239 Exenta, Agricultura, publicada el 03.08.2022, modifica la presente norma en el sentido de eliminar del punto 1.1 del primer resuelvo a Juglans regia.
+
+> **Nota.** NOTA 8 El numeral 2 de la Resolución 6727 Exenta, Agricultura, publicada el 13.11.2023, modifica el cuadro inserto en el resuelvo 1.1 de la presente norma, en el sentido de eliminar las siguientes especies: "Citrus spp. e híbridos, Troyer citrange, Poncirus trifoliata, Fortunella spp."
+
+> **Nota.** NOTA 9 El numeral 3 de la Resolución 6793 Exenta, Agricultura, publicada el 14.11.2024, modifica la presente norma en el sentido de eliminar en el cuadro inserto en el resuelvo 1.1, a la especie Fragaria x ananassa.
+
+> **Nota.** NOTA 10 El numeral 2 de la Resolución 8795 Exenta, Agricultura, publicada el 26.12.2024, modifica la presente norma en el sentido de eliminar en el cuadro inserto en el resuelvo 1.1, a la especie Persea americana.
+
+> **Nota.** NOTA 11 El numeral 2 de la Resolución 8798 Exenta, Agricultura, publicada el 26.12.2024, modifica la presente norma en el sentido de eliminar en el cuadro inserto en el resuelvo 1.1, a la especie Vaccinium corymbosum.
+
+> **Nota.** NOTA 12 Los numerales 2.1 y 2.2 del N° 2 de la Resolución 8971 Exenta, Agricultura, publicada el 27.12.2024, modifican respectivamente la presente norma en el sentido de eliminar del resuelvo 1 el texto "; 1.408 de 2001" y eliminar del cuadro del resuelvo 2 la especie "Rubus sp.". No obstante lo anterior, dichas modificaciones no se incorporaron en el presente texto actualizado en razón de que no coinciden los textos.
+
+> **Nota.** NOTA 13 El numeral 2.2 del N° 2 de la Resolución 1094 Exenta, Agricultura, publicada el 27.02.2025, modifica la presente norma en el sentido de eliminar del cuadro frutas frescas inserto en el resuelvo 1.2, la especie "Persea americana".
 
 Anótese, comuníquese y publíquese.- Víctor Venegas Venegas, Director Nacional Servicio Agrícola y Ganadero.
