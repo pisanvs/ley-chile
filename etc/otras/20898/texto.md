@@ -12,7 +12,7 @@ Regularización de Viviendas
 
 #### Artículo 1º
 
-Los propietarios de viviendas que no cuenten con recepción definitiva, total o parcial, emplazadas en áreas urbanas o rurales, podrán hasta el 31 de diciembre del 2025 obtener los permisos de edificación y de recepción definitiva, siempre que las viviendas cumplan, además, los siguientes requisitos:
+Los propietarios de viviendas que no cuenten con recepción definitiva, total o parcial, emplazadas en áreas urbanas o rurales, podrán hasta el 31 de diciembre de 2027 obtener los permisos de edificación y de recepción definitiva, en forma simultánea, siempre que las viviendas cumplan, además, los siguientes requisitos:
 
 1) Haber sido construidas antes
 
@@ -60,11 +60,9 @@ caso en el que podrá
 
 superar el referido avalúo.
 
-4) Tener una superficie cuyos
+4) Tener una superficie edificada
 
-recintos habitables, incluidos
-
-baños y cocina, no exceda de
+que no exceda de
 
 90 metros cuadrados;
 
@@ -372,13 +370,17 @@ Para estos efectos, se entenderá por profesionales competentes cualquiera de lo
 
 d) Certificado de avalúo a la fecha de publicación de esta ley, otorgado por el Servicio de Impuestos Internos.
 
+e) Formulario único de estadísticas de edificación o certificado de ingreso electrónico de dicho formulario.
+
+f) Copia del certificado de subsidio, en el caso de solicitudes de regularización financiadas de acuerdo a lo previsto en el artículo 15 de esta ley.
+
 La dirección de obras municipales, dentro de los noventa días hábiles siguientes a la presentación de la solicitud, revisará exclusivamente el cumplimiento de las normas urbanísticas a que se refiere el número 2) del artículo 1º de esta ley y, con el solo mérito de los documentos a que alude el presente artículo, otorgará el correspondiente certificado de regularización, si fuere procedente.
 
 Las regularizaciones que se efectúen de conformidad a este artículo pagarán los derechos municipales establecidos en el numeral 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados en 75% cuando el valor de la construcción no supere las 400 unidades de fomento y en un 50% cuando exceda esa cantidad. Si el propietario de la vivienda a regularizar tiene 65 años de edad o más, o si uno de los residentes de la misma estuviere inscrito en el Registro Nacional de la Discapacidad al que se refieren los artículos 55 y 56 de la ley Nº 20.422, la exención será de un 100% de los derechos municipales. La edad del propietario de la vivienda se acreditará con la cédula de identidad y la discapacidad con la inscripción en el Registro Nacional de Discapacidad. A estos proyectos no les será aplicable lo dispuesto en el artículo 70 del decreto con fuerza de ley N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones.
 
 #### Artículo 3º
 
-El procedimiento regulado por el presente Título podrá ser utilizado por propietarios de viviendas que tengan una superficie cuyos recintos habitables, incluidos baños y cocina, no exceda de 140 metros cuadrados, siempre que su avalúo fiscal no supere las 2.000 unidades de fomento, emplazadas en áreas urbanas y rurales, salvo, en este último caso, que las viviendas se hubieren construido en subdivisiones aprobadas conforme al decreto ley Nº 3.516, del Ministerio de Agricultura, promulgado y publicado el año 1980.
+El procedimiento regulado por el presente Título podrá ser utilizado por propietarios de viviendas que tengan una superficie edificada que no exceda de 140 metros cuadrados, siempre que su avalúo fiscal no supere las 2.000 unidades de fomento, emplazadas en áreas urbanas y rurales, salvo, en este último caso, que las viviendas se hubieren construido en subdivisiones aprobadas conforme al decreto ley Nº 3.516, del Ministerio de Agricultura, promulgado y publicado el año 1980.
 
 Las viviendas deberán cumplir, asimismo, con los requisitos señalados en los numerales 1), 2) y 5) del artículo 1º de la presente ley, con las normas de habitabilidad, estabilidad y seguridad, establecidas en la Ordenanza General de Urbanismo y Construcciones, contenida en el decreto supremo Nº 47, del Ministerio de Vivienda y Urbanismo, promulgado y publicado el año 1992, con aquellas aplicables a las instalaciones interiores de electricidad, agua potable, alcantarillado y gas, que correspondan, además de todas las normas urbanísticas que deriven de la Ley General de Urbanismo y Construcciones, de su Ordenanza General y de los instrumentos de planificación territorial respectivos, exceptuándose lo referido a lo siguiente:
 
@@ -414,7 +416,7 @@ Regularización de edificaciones destinadas a Microempresas Inofensivas o Equipa
 
 #### Artículo 4º
 
-Los propietarios de edificaciones emplazadas en áreas urbanas o rurales, destinadas a microempresas inofensivas o a equipamiento social, que hayan sido construidas con o sin permiso de edificación y que no cuenten con recepción definitiva o que hayan materializado de hecho el cambio de destino de las edificaciones existentes en forma no concordante con los usos de suelo permitidos por los planes reguladores, podrán, dentro del plazo de tres años contado desde la publicación de esta ley, regularizar su situación cumpliendo con las disposiciones contenidas en el presente Título.
+Los propietarios de edificaciones emplazadas en áreas urbanas o rurales, destinadas a microempresas inofensivas o a equipamiento social, que hayan sido construidas con o sin permiso de edificación y que no cuenten con recepción definitiva o que hayan materializado de hecho el cambio de destino de las edificaciones existentes en forma no concordante con los usos de suelo permitidos por los planes reguladores, podrán, dentro del plazo señalado en el artículo 1° de esta ley, regularizar su situación cumpliendo con las disposiciones contenidas en el presente Título.
 
 #### Artículo 5º
 
@@ -598,6 +600,8 @@ Para estos efectos, se entenderá por profesionales competentes cualquiera de lo
 
 d) Tratándose de microempresas, deberá acompañarse el certificado de calificación de actividad inofensiva, en conformidad a lo dispuesto en el artículo siguiente.
 
+e) Formulario único de estadísticas de edificación o certificado de ingreso electrónico de dicho formulario.
+
 #### Artículo 7º
 
 Para los efectos de este Título, se entenderá por microempresa toda actividad productiva, comercial o de servicios, excluidas las de salud, de educación y de expendio de alcoholes a que se refiere el artículo 3º de la ley Nº 19.925.
@@ -666,17 +670,21 @@ Los profesionales que certifiquen el cumplimiento de las normas de habitabilidad
 
 #### Artículo 14
 
-Sin perjuicio del cumplimiento de los requisitos establecidos en los Títulos I, II y III de la presente ley, tratándose de edificaciones que se acojan a sus beneficios y pertenezcan a una copropiedad, se deberá adjuntar los acuerdos respectivos de la asamblea de copropietarios, en conformidad a lo dispuesto en la ley Nº 19.537.
+Sin perjuicio del cumplimiento de los requisitos establecidos en los Títulos I, II y III de la presente ley, tratándose de edificaciones que se acojan a sus beneficios y pertenezcan a una copropiedad, se deberá adjuntar los acuerdos respectivos de la asamblea de copropietarios, en conformidad a lo dispuesto en la ley N° 21.442, que aprueba nueva ley de copropiedad inmobiliaria.
 
 #### Artículo 15
 
 Facúltase al Ministerio de Vivienda y Urbanismo para otorgar subsidios e invertir recursos destinados al financiamiento de los gastos y las obras necesarias para la regularización de viviendas, sea conforme al procedimiento previsto en esta ley o a los establecidos en otros textos legales.
 
-Estos subsidios, así como los que estén contemplados en los programas desarrollados por dicha Secretaría de Estado, podrán ser otorgados a personas naturales o jurídicas sin fines de lucro constituidas de conformidad al decreto supremo Nº 58, del Ministerio del Interior, promulgado y publicado el año 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 19.418, sobre juntas de vecinos y demás organizaciones comunitarias, y a comunidades de copropietarios constituidas de acuerdo a la ley Nº 19.537, sobre copropiedad inmobiliaria.
+Estos subsidios, así como los que estén contemplados en los programas desarrollados por dicha Secretaría de Estado, podrán ser otorgados a personas naturales o jurídicas sin fines de lucro constituidas de conformidad al decreto supremo Nº 58, del Ministerio del Interior, promulgado y publicado el año 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 19.418, sobre juntas de vecinos y demás organizaciones comunitarias, y a comunidades de copropietarios constituidas de acuerdo a la ley N° 21.442.
 
 #### Artículo 16
 
 Corresponderá al Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, impartir las capacitaciones que procedan y las instrucciones para la aplicación de las normas contenidas en la presente ley, mediante circulares que se mantendrán a disposición de cualquier interesado.
+
+#### Artículo 17
+
+Los plazos de vigencia aludidos en esta ley corresponden a aquellos que tienen los propietarios para ingresar las solicitudes de regularización ante las respectivas direcciones de obras municipales, sin perjuicio de que la tramitación culmine en una fecha posterior.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
