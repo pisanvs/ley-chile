@@ -36,165 +36,21 @@ A. Región de Antofagasta:
 
 B. Región de Atacama:
 
-9.- Fiscalía Local de Vallenar
+9.- Derogado.
 
-Vehículo : Camioneta
+10.- Derogado.
 
-Marca : Chevrolet
+11.- Derogado.
 
-Modelo : D MAX E5 DCAB 4X4 2.5
+12.- Derogado.
 
-Año : 2020
+13.- Derogado.
 
-Motor : UD3027
+14.- Derogado.
 
-Chasis : MPATFS86JLT001930
+15.- Derogado.
 
-Color : Blanco
-
-I.N.R.V.M. : LWBB.14-2
-
-Placa Única : LWBB.14.
-
-10.- Fiscalía Local de Freirina
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 4X4 2.5
-
-Año : 2020
-
-Motor : UD3024
-
-Chasis : MPATFS86JLT001921
-
-Color : Blanco
-
-I.N.R.V.M. : LVZZ.83-5
-
-Placa Única : LVZZ 83.
-
-11.- Fiscalía Local de Chañaral
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 4X4 2.5
-
-Año : 2020
-
-Motor : UD3037
-
-Chasis : MPATFS86JLT001937
-
-Color : Blanco
-
-I.N.R.V.M. : LWBB.12-6
-
-Placa Única : LWBB.12.
-
-12.- Fiscalía Local de Caldera
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 4X4 2.5
-
-Año : 2020
-
-Motor : UD3032
-
-Chasis : MPATFS86JLT001923
-
-Color : Blanco
-
-I.N.R.V.M. : LVZZ.82-7
-
-Placa Única : LVZZ.82.
-
-13.- Fiscalía Local de Diego de Almagro
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 4X4 2.5
-
-Año : 2020
-
-Motor : UD3023
-
-Chasis : MPATFS86JLT001919
-
-Color : Blanco
-
-I.N.R.V.M. : LWBB.11-8
-
-Placa Única : LWBB.11.
-
-14.- Fiscalía Regional de Atacama
-
-Vehículo : Camioneta
-
-Marca : Chevrolet
-
-Modelo : D MAX E5 DCAB 4X4 2.5
-
-Año : 2020
-
-Motor : UD3034
-
-Chasis : MPATFS86JLT001926
-
-Color : Blanco
-
-I.N.R.V.M. : LVZZ.76-2
-
-Placa Única : LVZZ.76.
-
-15.- Fiscalía Local de Copiapó
-
-Vehículo : Automóvil
-
-Marca : Chevrolet
-
-Modelo : Prisma LTZ 1.4
-
-Año : 2020
-
-Motor : JTW005330
-
-Chasis : 9BGKT69T0KG400036
-
-Color : Blanco
-
-I.N.R.V.M. : LXHW.86-3
-
-Placa Única : LXHW.86.
-
-16.- Unidad Regional de Atención a Víctimas y Testigos de Atacama
-
-Vehículo : Automóvil
-
-Marca : Chevrolet
-
-Modelo : Prisma LTZ 1.4
-
-Año : 2020
-
-Motor : JTV025886
-
-Chasis : 9BGKT69T0KG400244
-
-Color : Blanco
-
-I.N.R.V.M. : LXHW.87-1
-
-Placa Única : LXHW.87.
+16.- Derogado.
 
 C. Región del Biobío:
 
