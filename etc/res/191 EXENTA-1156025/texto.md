@@ -496,7 +496,7 @@ b) Comercializar los bienes y servicios que el Instituto produce.
 
 c) Centralizar la custodia de los convenios de prestación de servicios suscritos, en el ámbito de su competencia, con otras entidades públicas y privadas.
 
-d) Revisar, numerar, registrar, custodiar y derivar toda la documentación asociada a las prestaciones que la institución comercializa ingresada por los clientes y usuarios.
+d) Revisar, numerar, anotar, custodiar y derivar toda la documentación asociada a las prestaciones que la institución comercializa ingresada por los clientes y usuarios, con exclusión de las facultades conferidas respecto de decomisos de medicamentos a la Sección Control de Comercio Nacional.
 
 e) Proporcionar al Subdepartamento de Gestión Financiera los cierres diarios, mensuales y anuales de las ventas de bienes y servicios con sus respectivos libros de ventas y centralizado de ventas.
 
@@ -834,7 +834,7 @@ b) Evaluar las solicitudes de instalación, funcionamiento, modificación y tras
 
 c) Evaluar las solicitudes referentes al comercio electrónico de medicamentos.
 
-d) Llevar a cabo las pesquisas de los productos falsificados u otros ilegales y la investigación de decomisos por comercio ilegal, adoptando, cuando sea procedente, las medidas sanitarias previstas en el artículo 178 del Código Sanitario.
+d) Llevar a cabo las pesquisas de los productos falsificados u otros ilegales y la investigación de decomisos por comercio ilegal, adoptando, cuando sea procedente, las medidas sanitarias previstas en el artículo 178 del Código Sanitario. Asimismo, le corresponderá recibir los decomisos de medicamentos, identificando los productos y anotando los antecedentes relacionados con cada uno de ellos.
 
 e) Mantener un sistema de vigilancia a través de la recepción y evaluación de los Registros Oficiales de Elaboración de Preparados Farmacéuticos, que sean recibidos de los recetarios de farmacia por trimestre vencido.
 
