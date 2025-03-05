@@ -66,7 +66,7 @@ ESPECIFICACIONES TÉCNICAS MÍNIMAS PARA LOS RECEPTORES DE TELEVISIÓN DIGITAL T
 
 <!-- parte:10519728 -->
 
-El deber de incluir junto a los receptores de televisión digital terrestre una antena que permita su correcto funcionamiento, establecido en el artículo 2° de la presente Norma Técnica, será exigible a contar del 17 de marzo de 2025.
+El deber de incluir junto a los receptores de televisión digital terrestre una antena que permita su correcto funcionamiento, establecido en el artículo 2° de la presente Norma Técnica, será exigible a contar del 17 de abril de 2025.
 
 Anótese y publíquese en el Diario Oficial.- Pablo Bello Arellano, Subsecretario de Telecomunicaciones.
 
