@@ -38,13 +38,21 @@ GENERALIDADES
 
 135.1 DEFINICIONES
 
+AERONAVE AVANZADA
+
+Aeronave dotada de un equipo adicional al requerido para una aeronave básica para una operación determinada de despegue, aproximación o aterrizaje.
+
+AERONAVE BÁSICA
+
+Aeronave dotada del equipo mínimo requerido para realizar la operación de despegue, aproximación o aterrizaje que se tenga la intención de realizar.
+
 ACTUACIÓN HUMANA.
 
 Capacidades y limitaciones humanas que repercuten en la seguridad operacional y eficiencia de las operaciones aeronáuticas.
 
 AERONAVE.
 
-Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las reacciones del mismo contra la superficie de la tierra.
+Es todo vehículo apto para el traslado de personas o cosas y destinado a desplazarse en el espacio aéreo, en el que se sustenta por reacción del aire con independencia del suelo.
 
 AERONAVEGABLE.
 
@@ -92,6 +100,10 @@ CERTIFICADO DE EXPLOTADOR DE SERVICIOS AÉREOS (AOC).
 
 Certificado por el que se autoriza a un explotador a realizar determinadas operaciones de transporte aéreo comercial.
 
+COMAT
+
+Material del explotador transportado en una aeronave del explotador para sus propios fines.
+
 CONDICIÓN DE AERONAVEGABILIDAD.
 
 Estado de una aeronave, motor, hélice o pieza que se ajusta al diseño aprobado correspondiente y está en condiciones de operar de modo seguro.
@@ -106,13 +118,15 @@ Condiciones meteorológicas expresadas en términos de visibilidad, distancia de
 
 CONFORMIDAD DE MANTENIMIENTO.
 
-Documento por el que se certifica que los trabajos de mantenimiento a los que se refieren han sido concluidos de manera satisfactoria, bien sea de conformidad con datos técnicos aprobados o aceptados por la DGAC de acuerdo con los requisitos adecuados de aeronavegabilidad.
-
-A partir del 05 nov 2020, documento por el que se certifica que los trabajos de mantenimiento a los que se refiere han sido concluidos de manera satisfactoria, de conformidad con los requisitos adecuados de aeronavegabilidad.
+Documento por el que se certifica que los trabajos de mantenimiento a los que se refiere han sido concluidos de manera satisfactoria, de conformidad con los requisitos adecuados de aeronavegabilidad.
 
 CONTROL DE OPERACIONES.
 
 La autoridad ejercida respecto a la iniciación, continuación, desviación o terminación de un vuelo en interés de la seguridad operacional de la aeronave y de la regularidad y eficacia del vuelo.
+
+CRÉDITO OPERACIONAL
+
+Crédito autorizado para operaciones con una aeronave avanzada que posibilita un mínimo de utilización de aeródromo más bajo del que se autorizaría normalmente si se realizara con una aeronave básica, teniendo en cuenta el rendimiento que tienen los sistemas de la aeronave avanzada al utilizar la infraestructura externa disponible.
 
 DIRECTIVA DE AERONAVEGABILIDAD (AD/DA).
 
@@ -156,9 +170,9 @@ ESTADO DEL EXPLOTADOR/OPERADOR.
 
 Estado en el que está ubicada la oficina principal del operador o, de no haber tal oficina, la residencia permanente del operador.
 
-EXPLOTADOR/OPERADOR.
+EXPLOTADOR
 
-La persona, organismo o empresa que se dedica, o propone dedicarse, a la explotación de aeronaves.
+Persona que utiliza la aeronave por cuenta propia, con o sin fines de lucro, conservando su dirección técnica. Se presume explotador al propietario de la aeronave.
 
 FASE DE APROXIMACIÓN Y ATERRIZAJE - HELICÓPTEROS.
 
@@ -226,9 +240,7 @@ Lista establecida para un determinado tipo de aeronave por el organismo responsa
 
 MANTENIMIENTO.
 
-Realización de las tareas requeridas para asegurar el mantenimiento de la aeronavegabilidad de una aeronave, incluyendo, por separado o en combinación, la revisión general, inspección, sustitución, rectificación de defecto y la realización de una modificación o reparación.
-
-A partir del 5 nov 2010, realización de las tareas requeridas en una aeronave, motor, hélice o pieza conexa, para asegurar el mantenimiento de la aeronavegabilidad de una aeronave, motor, hélice o pieza conexa, incluyendo, por separado o en combinación, la revisión general, inspección, sustitución, rectificación de defecto y la realización de una modificación o reparación.
+Realización de las tareas requeridas en una aeronave, motor, hélice o pieza conexa, para asegurar el mantenimiento de la aeronavegabilidad de una aeronave, motor, hélice o pieza conexa incluyendo, por separado o en combinación, la revisión general, inspección, sustitución, rectificación de defecto y la realización de una modificación o reparación.
 
 MANTENIMIENTO DE LA AERONAVEGABILIDAD.
 
@@ -273,6 +285,16 @@ Miembro de la tripulación que, en interés de la seguridad de los pasajeros, cu
 MIEMBRO DE LA TRIPULACIÓN DE VUELO.
 
 Miembro de la tripulación, titular de la correspondiente licencia, a quien se asignan obligaciones esenciales para la operación de una aeronave durante el período de servicio de vuelo.
+
+MÍNIMO DE UTILIZACIÓN DE AERÓDROMO BASADO EN LA PERFORMANCE (PBAOM)
+
+Mínimo de utilización de aeródromo para una operación determinada de despegue, aproximación o aterrizaje más bajo que el disponible comúnmente cuando se utiliza una aeronave básica.
+
+Nota 1: El PBAOM se calcula teniendo en consideración las capacidades combinadas de la aeronave y de las instalaciones terrestres disponibles. Pueden encontrarse orientaciones adicionales sobre el PBAOM en el Manual de operaciones todo tiempo (Doc. 9365).
+
+Nota 2: El PBAOM puede basarse en créditos operacionales.
+
+Nota 3: El PBAOM no se limita a las operaciones PBN.
 
 MÍNIMOS DE UTILIZACIÓN DE HELIPUERTO.
 
@@ -468,6 +490,8 @@ VTOSS.
 
 Velocidad mínima a la cual puede lograrse el ascenso con el motor crítico fuera de funcionamiento, con los demás motores en funcionamiento dentro de los límites operacionales aprobados.
 
+Nota: Para fines de esta norma se entiende por operador al explotador de la aeronave.
+
 135.5 (b) Los Inspectores serán funcionarios de la DGAC y contarán con una credencial que los identifique como tales.
 
 (c) Los Inspectores tendrán respectivamente durante las fiscalizaciones que efectúen, la facultad de:
@@ -480,29 +504,21 @@ Velocidad mínima a la cual puede lograrse el ascenso con el motor crítico fuer
 
 (b) A partir del 20 nov 2025, las siguientes actividades requerirán de una Aprobación Específica.
 
-(1) Créditos operacionales por HUD, EVS, SVS, CVS, sistemas de aterrizaje automático, cuando se utilizan en operaciones de baja visibilidad
+(1) Créditos operacionales por HUD, EVS, SVS, CVS, sistemas de aterrizaje automático, cuando se utilizan en operaciones de baja visibilidad;
 
-(2) Operaciones con baja visibilidad
+(2) Operaciones con baja visibilidad;
 
-(3) Maletines de vuelo electrónicos
+(3) Maletines de vuelo electrónicos;
 
-(4) Especificaciones de navegación para operaciones PBN con AR
+(4) Especificaciones de navegación para operaciones PBN con AR;
 
-(5) Separación vertical mínima reducida
+(5) Separación vertical mínima reducida;
 
-(6) Mercancías peligrosas
+(6) Mercancías peligrosas; y
 
 (7) Otras que defina el Estado.
 
-135.9 HELICÓPTERO OPERADO BAJO UN ACUERDO EN VIRTUD DEL ARTÍCULO 83 bis
-
-(a) Un helicóptero que opere bajo un acuerdo en virtud del Artículo 83 bis concertado entre el Estado de matrícula y el Estado del explotador llevará a bordo una copia auténtica certificada del resumen del acuerdo, ya sea en formato electrónico o impreso. Cuando el resumen esté en un idioma distinto al inglés, se incluirá una traducción al inglés.
-
-(b) Los inspectores de seguridad operacional de la aviación civil tendrán acceso al resumen del acuerdo en virtud del Artículo 83 bis para determinar las funciones y obligaciones que conforme al acuerdo el Estado de matrícula ha transferido al Estado del explotador, cuando realicen actividades de supervisión tales como verificaciones en la plataforma.
-
-(c) La DGAC o el Estado del explotador transmitirá a la OACI el resumen del acuerdo junto con el acuerdo en virtud del Artículo 83 bis para su registro ante el Consejo de la OACI.
-
-(d) El resumen del acuerdo seguirá el formato del Apéndice 13.
+135.9 Eliminado.
 
 CAPÍTULO B
 
@@ -1466,7 +1482,7 @@ Para los fines de este capítulo, el término "helicóptero" incluye: motores, t
 
 (a) Cada helicóptero en servicio se mantiene en condición aeronavegable;
 
-(c) A partir del 05 nov 2020, el operador no operará un helicóptero a menos que el mantenimiento del mismo, así como de cualquier motor, hélice y pieza conexos, lo lleve a cabo:
+(c) El explotador no operará un helicóptero a menos que el mantenimiento del mismo, así como de cualquier motor, hélice y pieza conexos, lo lleve a cabo:
 
 (1) una OMA que cumpla las disposiciones del DAR/DAN 145, y esté aprobado o reconocido por la DGAC y habilitado en la marca y modelo del helicóptero; o
 
@@ -1488,7 +1504,7 @@ Para los fines de este capítulo, el término "helicóptero" incluye: motores, t
 
 (6) Inspecciones derivadas de alteraciones o reparaciones mayores.
 
-(7) Cumplimiento obligatorio de las tareas de mantenimiento y los intervalos de cumplimiento, de las Limitaciones de Aeronavegabilidad al aprobar el certificado de tipo y Directivas de Aeronavegabilidad establecidas por el Estado de diseño o por la DGAC.
+(7) Cumplimiento obligatorio de las tareas de mantenimiento y los intervalos de cumplimiento, de las Limitaciones de Aeronavegabilidad al aprobar el certificado de tipo (CMR) y Directivas de Aeronavegabilidad establecidas por el Estado de diseño o por la DGAC.
 
 (8) Los helicópteros con un PMD superior a 3.175 kg, además de lo indicado en (a)(1) al (7), considerarán lo siguiente cuando corresponda:
 
@@ -1530,6 +1546,14 @@ Para los fines de este capítulo, el término "helicóptero" incluye: motores, t
 
 (h) Cuando corresponda, una descripción de los procedimientos para controlar el arrendamiento de aeronaves y productos aeronáuticos afines.
 
+135.1108 Información sobre el mantenimiento de la aeronavegabilidad
+
+(a) El operador de un helicóptero cuya masa máxima certificada de despegue sea superior a 3.175 Kg. obtendrá y evaluará la información relativa al mantenimiento de la aeronavegabilidad y a las recomendaciones disponibles de la entidad responsable del diseño de tipo y de la persona u organización responsable del diseño de una modificación o reparación cuando corresponda y aplicará las medidas resultantes que se consideren necesarias de conformidad con un procedimiento aceptable para la DGAC.
+
+(b) El operador de un helicóptero cuya masa máxima certificada de despegue sea superior a 3.175 Kg., supervisará y evaluará la experiencia de mantenimiento y operacional con respecto al mantenimiento de la aeronavegabilidad y proporcionará y notificará la información prescrita en 135.1115.
+
+(d) El operador deberá obtener y evaluar las directivas de aeronavegabilidad o documentos equivalentes, emitidos por el estado de diseño, por el estado de diseño de una modificación, por el estado de matrícula y la DGAC, según corresponda.
+
 135.1109 REGISTROS DEL MANTENIMIENTO DE LA AERONAVEGABILIDAD
 
 (1) Tiempo total de servicio (horas, tiempo transcurrido y ciclos, según corresponda) del helicóptero, y de todos los componentes con vida límite;
@@ -1546,7 +1570,7 @@ Para los fines de este capítulo, el término "helicóptero" incluye: motores, t
 
 135.1115 (a) Notificación conforme al Anexo 7.
 
-(1) El operador de un helicóptero de más de 3.175 kg de masa máxima, debe informar al titular del certificado de tipo con copia a la DGAC cualquier falla, malfuncionamiento, o defecto en el helicóptero que ocurre o es detectado en cualquier momento si, en su opinión, esa falla, malfuncionamiento o defecto ha puesto en peligro o puede poner en peligro la operación segura del helicóptero utilizado por él.
+(1) El operador de un helicóptero de más de 3.175 Kg. de masa máxima debe informar al titular del certificado de tipo o a la persona u organización responsable del diseño de una modificación o reparación cuando corresponda con copia a la DGAC cualquier falla, malfuncionamiento, o defecto en el helicóptero que ocurre o es detectado en cualquier momento si, en su opinión, esa falla, malfuncionamiento o defecto ha puesto en peligro o puede poner en peligro la operación segura del helicóptero utilizado por él.
 
 (2) Los informes deben ser hechos en la forma y manera indicada en el Apéndice 7 y deben contener toda la información pertinente sobre la condición que sea de conocimiento del explotador.
 
@@ -1694,9 +1718,7 @@ APÉNDICE 7
 
 INFORME DE DIFICULTADES EN SERVICIO (IDS)
 
-(b) (1) Todo operador que opere helicópteros cuyo peso máximo de despegue sea de más de 3.175 Kgs., deberá notificar simultáneamente a la DGAC (SDTP/SDA, según corresponda), y a la Organización responsable del Diseño de Tipo de su aeronave, su experiencia operacional y de mantenimiento a través de un "INFORME DE DIFICULTADES EN SERVICIO" (IDS).
-
-Este informe será emitido obligatoriamente, dentro de las noventa y seis (96) horas siguientes, a que se produzca alguna de las condiciones que a continuación se indican:
+(b) (1) Todo operador que opere helicópteros cuyo peso máximo de despegue sea de más de 3.175 Kg., deberá notificar simultáneamente a la DGAC (SDTP/SDA, según corresponda), y a la Organización responsable del Diseño de Tipo de su helicóptero o a la persona u organización del diseño de una modificación o reparación cuando corresponda, su experiencia operacional y de mantenimiento a través de un "Informe de Dificultades en Servicio" (IDS).
 
 APÉNDICE N° 10
 
@@ -2173,3 +2195,5 @@ APÉNDICE 14
 APROBACIÓN ESPECÍFICA
 
 > **Nota.** La Resolución 285, Defensa, publicada el 08.07.2021, aprueba la Segunda Enmienda a la Segunda Edición de la DAN 135 Vol II "Requisitos de operación: Operaciones comerciales con Helicópteros", contenida en el Anexo de la presente norma, razón por la cual se ha reemplazado por el presente texto actualizado.
+
+> **Nota.** NOTA 1 La Resolución 1974 Exenta, Defensa, publicada el 06.03.2025, modifica la presente norma en el sentido que indica. No obstante lo anterior, la modificación dispuesta por el Nº 1 que reemplaza AERÓDROMO en el Capítulo A Generalidades, sección 135.001 Definiciones, no pudo ser incorporada al no coincidir los textos. Asimismo, se hace presente que las modificaciones que disponen los Nºs 6, 8, 10, 11, 12, 15, 16, 17, 19, 20 y 21 de la citada norma no se agregaron al presente texto actualizado en razón de que no coinciden los textos.
