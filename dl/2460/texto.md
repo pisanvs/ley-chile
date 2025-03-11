@@ -50,6 +50,8 @@ Para el ingreso a los planteles señalados en este artículo será requisito hab
 
 La dotación máxima de ingreso de los alumnos al primer año de formación en la Escuela de Investigaciones se determinará, a más tardar, el mes de junio de cada año, con vigencia al año siguiente, por decreto supremo del Ministerio del Interior y Seguridad Pública, expedido por medio de la Subsecretaría del Interior, el que deberá contar con la firma del Ministro de Hacienda.
 
+El mismo procedimiento señalado en el inciso anterior se aplicará para establecer la dotación máxima de ingreso de los Agentes Policiales Estudiantes en el Centro de Capacitación Profesional de la Policía de Investigaciones de Chile.
+
 #### Artículo 4°
 
 La misión fundamental de la Policía de Investigaciones de Chile es investigar los delitos de conformidad a las instrucciones que al efecto dicte el Ministerio Público, sin perjuicio de las actuaciones que en virtud de la ley le corresponde realizar sin mediar instrucciones particulares de los fiscales.

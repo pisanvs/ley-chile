@@ -172,7 +172,9 @@ A.- Agentes Policiales
 
 16 Agente Policial 240
 
-18 Agente Policial 200
+17 Agente Policial 1233
+
+18 Suprimido.
 
 B.- Asistentes Técnicos
 
@@ -222,6 +224,10 @@ D.- Auxiliares
 
 18 Auxiliar 166
 
+E.- Agentes Policiales Estudiantes
+
+20 Estudiante Agente Policial 250
+
 IV. PLANTA DOCENCIA 6.000 horas
 
 > **Nota.** El artículo 33 de la Ley 20642, publicada el 11.12.2012, crea en el escalafón de Oficiales Profesionales de Línea de la Planta de Oficiales de la Policía de Investigaciones de Chile, establecido en el presente artículo, 862 nuevos cargos de Subinspector grado 12º, pasando el número total de cargos de dicho grado de "900" a "1.762".
@@ -229,6 +235,12 @@ IV. PLANTA DOCENCIA 6.000 horas
 > **Nota.** NOTA 1 El numeral 1º del Artículo 1° de la Ley 20785, Interior, publicada el 21.10.2014, aumenta en la Planta de Oficiales, en el Escalafón de Oficiales Policiales, los cargos correspondientes al Alto Mando y a los Oficiales Policiales Profesionales de Línea, en la forma que señala. El artículo segundo transitorio indica que la provisión de estos cargos se realizaran de forma gradual entre los años 2015 a 2017.
 
 > **Nota.** NOTA 2 El numeral 2 del Artículo 1° de la Ley 20785, Interior, publicada el 21.10.2014, establece en 1.351 los cargos de Subinspector, grado 12, en la Planta de Oficiales, en el Escalafón de Oficiales Policiales.
+
+> **Nota.** NOTA 3 El Decreto 252, Interior, publicado el 31.01.2025, modifíca la distribución de la dotación de los escalafones de asistentes administrativos y auxiliares, ambos de la planta de apoyo general de la Policía de Investigaciones de Chile, en los términos que la citada norma indica.
+
+> **Nota.** NOTA 4 El literal b) del artículo 1° de la ley 21731, publicada el 11.03.2025, modifica el numeral III, PLANTA DE APOYO GENERAL, del presente artículo en el sentido de incrementar en 646 cargos el grado 16; en 136 cargos el grado 15; en 10 cargos el grado 14; en 62 cargos el grado 13; en 53 cargos el grado 12 y en 122 cargos el grado 11, todos Agente Policial.
+
+> **Nota.** NOTA 5 El artículo 2° de la ley 21731, publicada el 11.03.2025, incrementa, a contar del 1 de enero del noveno año siguiente a la publicación de la citada ley, en 305 cargos el grado 15; en 341 cargos el grado 14; en 215 cargos el grado 13 y en 149 cargos el grado 12, todos de la Planta de Apoyo General, Agentes Policiales, contenida en la letra A del numeral III de la presente ley, que Establece Plantas de la Policía de Investigaciones de Chile.
 
 #### Artículo 2º
 

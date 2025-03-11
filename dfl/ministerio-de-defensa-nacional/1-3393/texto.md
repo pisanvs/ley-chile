@@ -186,6 +186,8 @@ C.- Asistentes Administrativos
 
 D.- Auxiliares.
 
+E.- Agentes Policiales Estudiantes.
+
 #### Artículo 11°
 
 No obstante lo expresado en el artículo anterior, el personal de Aspirantes será considerado, para todos los efectos legales, como personal de Nombramiento Supremo y Oficial Policial, pero sujeto solamente, a las obligaciones que le impone el Reglamento de Disciplina respectivo.
@@ -198,7 +200,7 @@ No obstante, el ejercicio de esta facultad no podrá significar mayor gasto ni c
 
 #### Artículo 13°
 
-El Presidente de la República, a requerimiento del Director General, podrá aumentar transitoriamente las plazas de Personal de Nombramiento Supremo de un escalafón hasta en el número de plazas no ocupadas en grados superiores o inferiores al necesario, del mismo escalafón o de otro, cuando en aquél no existieren vacantes para atender a las necesidades del servicio. Igual facultad tendrá el Director General respecto del Personal de Nombramiento Institucional. El ejercicio de esta facultad sólo podrá ejercerse si existen recursos disponibles en el presupuesto de la institución.
+El Presidente de la República, a requerimiento del Director General, podrá aumentar transitoriamente las plazas de Personal de Nombramiento Supremo de un escalafón hasta en el número de plazas no ocupadas en grados superiores o inferiores al necesario, del mismo escalafón o de otro, cuando en aquél no existieren vacantes para atender a las necesidades del servicio. Igual facultad tendrá el Director General respecto del Personal de Nombramiento Institucional. Esta facultad sólo se ejercerá previa autorización de la Dirección de Presupuestos, la que verificará la disponibilidad presupuestaria que corresponda.
 
 Una vez que se produzca la vacancia de tales plazas, éstas se restituirán, en forma automática y por el solo ministerio de la ley, a su escalafón de origen.
 
@@ -221,6 +223,8 @@ El nombramiento de los Oficiales y del personal de Apoyo Científico-Técnico se
 El personal de Nombramiento institucional será designado mediante resolución del Director General y de acuerdo con las necesidades de la Institución.
 
 Los Aspirantes de la escuela de Investigaciones serán designados asimismo, mediante resolución de la Dirección General, a propuesta de la Escuela de Investigaciones.
+
+A su vez, los Agentes Policiales Estudiantes serán designados mediante resolución de la Dirección General, a propuesta del Centro de Capacitación Profesional de la Policía de Investigaciones de Chile.
 
 #### Artículo 16º
 
@@ -260,9 +264,11 @@ b) Escalafón de Técnicos: Título de una carrera con una duración de a lo men
 
 B.- El nombramiento del personal de la Planta de Apoyo General se hará por el Director General, previa selección de antecedentes, conforme a los siguientes requisitos generales de ingreso y otros específicos:
 
-a) Para ingresar al Escalafón de Asistentes Policiales se deberá haber aprobado segundo año de enseñanza media y un curso de formación en el Centro de Capacitación Profesional de la Policia de Investigaciones de Chile;
+a) Para ingresar al escalafón de Agentes Policiales Estudiantes, se deberá contar con licencia de enseñanza media o su equivalente.
 
-b) Para ingresar al Escalafón de Asistentes Técnicos se deberá haber aprobado segundo año de enseñanza media y estar en posesión de un certificado que acredite su capacitación para cumplir las labores atingentes a este escalafón, otorgado por un Centro de Formación Técnica del Estado o reconocido por éste, o su equivalente otorgado por un establecimiento educacional de las Fuerzas Armadas o Fuerzas de Orden y Seguridad Pública;
+Para ingresar al escalafón de Agentes Policiales, se deberá haber aprobado el segundo semestre del curso de formación impartido por el Centro de Capacitación Profesional de la Policía de Investigaciones de Chile.
+
+b) Para ingresar al Escalafón de Asistentes Técnicos se deberá haber aprobado segundo año de enseñanza media y estar en posesión de un certificado que acredite su capacitación para cumplir las labores atingentes a este escalafón, otorgado por un Centro de Formación Técnica del Estado o reconocido por éste, o su equivalente otorgado por un establecimiento educacional de las Fuerzas Armadas o Fuerzas de Orden y Seguridad Pública.
 
 c) Para ingresar al Escalafón de Asistentes Administrativos se deberá haber aprobado cuarto año de enseñanza media y estar en posesión de un certificado que acredite su capacitación para cumplir las labores atingentes a este escalafón, otorgado por un Centro de Formación Técnica del Estado o reconocido por éste, o su equivalente otorgado por un establecimiento educacional de las Fuerzas Armadas o Fuerzas de Orden y Seguridad Pública, y
 
@@ -436,7 +442,7 @@ El personal de las siguientes Plantas, para poder ascender al grado inmediatamen
 
 ### I. PLANTA DE OFICIALES
 
-A).- Oficiales Policiales
+A.- Oficiales Policiales
 
 Escalafón de Alto Mando
 
@@ -526,6 +532,24 @@ Grado 7 Técnicos 5 años
 
 ### III. PLANTA DE APOYO GENERAL
 
+Escalafón de Agentes Policiales
+
+Grado 17 Agente Policial 3 años
+
+Grado 16 Agente Policial 5 años
+
+Grado 15 Agente Policial 4 años
+
+Grado 14 Agente Policial 4 años
+
+Grado 13 Agente Policial 5 años
+
+Grado 12 Agente Policial 4 años
+
+Grado 11 Agente Policial 5 años
+
+Escalafón de Asistentes Técnicos, Asistentes Administrativos o Auxiliares
+
 Grado 18 Asistente o Auxiliar 3 años
 
 Grado 16 Asistente o Auxiliar 5 años
@@ -538,7 +562,7 @@ Grado 13 Asistente o Auxiliar 5 años
 
 Grado 12 Asistente o Auxiliar 4 años
 
-Grado 11 Asistente o Auxiliar 5 años.
+Grado 11 Asistente o Auxiliar 5 años
 
 #### Artículo 33°
 
@@ -1062,6 +1086,8 @@ f) Por estar comprendido en las disposiciones legales que rigen el alejamiento o
 
 Será aplicable al personal de Nombramiento Institucional lo dispuesto en el inciso final del artículo 91°.
 
+g) En el caso de los funcionarios del escalafón de Agentes Policiales, será causal de retiro absoluto, además de las establecidas en el presente artículo, no haber aprobado el curso de formación impartido por el Centro de Capacitación Profesional de la Policía de Investigaciones de Chile.
+
 C) Del Personal Femenino
 
 #### Artículo 95°
@@ -1329,6 +1355,14 @@ Lo dispuesto en el artículo anterior se aplicará también al personal que fall
 El personal que, habiéndose acogido a retiro, cuyas pensiones se encuentren en trámite, tendrán derecho a que la Dirección de Previsión de Carabineros de Chile le anticipe hasta 3 meses de la pensión que le corresponda, pagada por mensualidades.
 
 Para gozar de este derecho el interesado deberá presentar a dicha Dirección, copia autorizada de la resolución que le ha concedido la pensión y del cese de actividades correspondiente.
+
+#### Artículo 126 bis
+
+La pensión de retiro por invalidez de los Aspirantes a Oficial Policial y de los Agentes Policiales Estudiantes que no puedan continuar en el servicio como consecuencia de un accidente en acto de servicio o con ocasión de las tareas propias de su formación será siempre de cargo fiscal y se determinará sobre los sueldos de los siguientes empleos:
+
+a) Aspirante a Oficial Policial: Inspector grado 11.
+
+b) Agente Policial Estudiante: Agente Policial grado 14.
 
 ### Párrafo 3°
 
@@ -1618,7 +1652,13 @@ La Jefatura de Instruccíon de Policía de Investigaciones de Chile podrá dispo
 
 #### Artículo 149°
 
-La Escuela de Investigaciones, recibirá una asignación mensual equivalente al 75% del sueldo base del grado 19 por cada alumno aspirante, de dotación autorizada.
+Los Aspirantes a Oficiales de la Escuela de Investigaciones Policiales tendrán un sueldo mensual correspondiente al grado 17, el que será asignado a la referida Escuela. Este establecimiento deducirá de dicho sueldo los descuentos previsionales y de desahucio, y el remanente que resulte será percibido por la Escuela para atender los gastos que origine este personal.
+
+Igual procedimiento que el señalado en el inciso anterior se adoptará respecto de los Agentes Policiales Estudiantes que asistan al curso de formación de Agentes Policiales en el Centro de Capacitación Profesional, correspondiéndoles un sueldo mensual equivalente al grado 20. Una vez efectuados los descuentos previsionales y de desahucio, el 75% del remanente será percibido por el respectivo establecimiento para atender los gastos que demande la formación profesional de este personal y el 25% del remanente será percibido por el Estudiante.
+
+La Escuela de Investigaciones Policiales percibirá una subvención mensual equivalente al 75% del sueldo base del grado 17 por cada uno de los Aspirantes a Oficiales Policiales.
+
+El Centro de Capacitación Profesional percibirá, por cada uno de los Agentes Policiales Estudiantes que integren el curso de formación de agentes policiales, una subvención mensual equivalente al 50% del sueldo base del grado 20.
 
 #### Artículo 150°
 
