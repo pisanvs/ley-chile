@@ -184,8 +184,6 @@ Fíjase el siguiente Arancel para las prestaciones que se otorguen por el Régim
 
 > **Nota.** NOTA 18 El numeral 2 de la Resolución 176 Exenta, Salud, publicada el 15.03.2025, reajusta los valores indicados en el presente artículo, de la siguiente forma: 2.1 De acuerdo con el reajuste específico que se señala en anexo adjunto para cada Grupo, Subgrupo o prestación, anexo que forma parte de la presente resolución. 2.2 El porcentaje de reajuste se calcula sobre los valores de las prestaciones del Arancel vigente en nivel 1 o básico. 2.3 Aplicado el porcentaje de reajuste, los precios se aproximan a la decena superior, cuando la unidad es igual o superior a 5 (cinco) y a la decena más próxima cuando la unidad es inferior a 5 (cinco).
 
-> **Nota.** NOTA 19 Las letras a), b) y c) del numeral 1° de la Resolución 890 Exenta, Salud, publicada el 20.09.2025, modifican la presente norma en el sentido de incorporar prestaciones en el Grupo 29 "Tratamientos Integrales de Braquiterapia, Radioterapia, Neutropenia Oncológica y Farmacológico Oncológico", bajo el Subgrupo 08 "Tratamiento Farmacológico Oncológico", en el Anexo Modalidad Libre Elección, en el número 1.9 Inclusión, modifica y elimina textos para Arancel MLE 2025, Nota Grupo 29. Subgrupo 08, finalmente incorporar al Arancel MLE el siguiente grupo de prestaciones denominado Grupo 33: "Intervenciones Sanitarias Priorizadas", con sus respectivos tramos, en la forma que la citada norma indica.
-
 #### Artículo 20º
 
 La presente Resolución entrará en vigencia a contar del 08 de Febrero de 1999.
