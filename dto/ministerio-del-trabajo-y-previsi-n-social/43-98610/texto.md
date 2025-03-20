@@ -54,45 +54,17 @@ El Servicio de Bienestar podrá otorgar a los afiliados y sus cargas familiares 
 
 #### Artículo 6º
 
-El Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican: a) Matrimonio: Cuando el afiliado contraiga
+El Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-matrimonio.
+a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente;
 
-Si ambos contrayentes fuesen afiliados, la ayuda
+b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
 
-se pagará a cada uno de ellos en forma independiente;
+Si ambos padres fuesen afiliados, el beneficio lo percibirán ambos. En caso de nacimientos múltiples, se otorgarán tantas ayudas como hijos nazcan.
 
-b) Nacimiento: Cuando el afiliado compruebe con el
+c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar. En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente orden de precedencia:
 
-instrumento público correspondiente el nacimiento de un
-
-hijo.
-
-Si ambos padres fuesen afiliados, el beneficio lo
-
-percibirán ambos. En caso de nacimientos múltiples, se
-
-otorgarán tantas ayudas como hijos nazcan.
-
-c) Fallecimiento: Se concederá una ayuda por el
-
-fallecimiento del afiliado y de sus cargas familiares
-
-reconocidas, incluido el mortinato, a partir del 5º mes
-
-de gestación, y el fallecimiento del hijo recién nacido
-
-que no hubiere sido aún reconocido como carga familiar.
-
-En caso de fallecimiento del afiliado esta ayuda se
-
-otorgará en el siguiente orden de precedencia:
-
-1) A la persona designada expresamente para tales
-
-efectos por el afiliado. La designación
-
-precedente debe efectuarse por escrito
+1) A la persona designada expresamente para tales efectos por el afiliado. La designación precedente debe efectuarse por escrito
 
 2) Al cónyuge sobreviviente
 
@@ -102,69 +74,19 @@ precedente debe efectuarse por escrito
 
 5) A los padres legítimos
 
-6) A la persona que acredite haber efectuado los
+6) A la persona que acredite haber efectuado los gastos del funeral.
 
-gastos del funeral.
+d) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste. El monto de las ayudas a que se refiere este artículo será fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias de Bienestar.
 
-d) Educación: El Servicio de Bienestar concederá
+e) Seguros de vida y/o salud: El Bienestar podrá contratar y/o financiar, según sus posibilidades presupuestarias, seguros de vida para sus afiliados y/o seguros de salud para solventar los gastos no cubiertos por los sistemas de salud previsional de sus afiliados y cargas familiares. Ello sin perjuicio de que los propios beneficiarios, o la institución, puedan concurrir a sufragar dichos seguros.
 
-una asignación de escolaridad, siempre que las
+f) Becas de estudios: De acuerdo a sus disponibilidades presupuestarias, el Servicio de Bienestar podrá entregar Becas de Estudio a los afiliados que estén cursando los últimos años de una carrera de nivel superior. Esta se otorgará por una sola vez en el año escolar, previa evaluación socioeconómica realizada por Asistente Social. La modalidad de entrega y el monto lo fijará anualmente la Comisión Administrativa.
 
-disponibilidades presupuestarias lo permitan, una vez
+g) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviese pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiere otorgado.
 
-al año, al afiliado y cargas familiares que estudien
+h) Catástrofe e Incendio: Cuando el afiliado a consecuencia de un incendio haya sufrido un grave perjuicio en su vivienda o haya perdido parte importante de los enseres que la guarnecen a causa de un siniestro o por catástrofe de la naturaleza que afecten a la vivienda del afiliado y cuya gravedad sea verificada y cuantificada por el Consejo Administrativo a través de un informe realizado de manera presencial por el Jefe del Servicio de Bienestar y la asistente social de establecimiento al cual pertenece.
 
-regularmente en algún establecimiento educacional del
-
-Estado o reconocido por éste. El monto de las ayudas a
-
-que se refiere este artículo será fijado por el Consejo
-
-Administrativo de acuerdo a las disponibilidades
-
-presupuestarias de Bienestar.
-
-e) Seguros de vida y/o salud: El Bienestar podrá
-
-contratar y/o financiar, según sus posibilidades
-
-presupuestarias, seguros de vida para sus afiliados y/o
-
-seguros de salud para solventar los gastos no cubiertos
-
-por los sistemas de salud previsional de sus afiliados
-
-y cargas familiares. Ello sin perjuicio de que los
-
-propios beneficiarios, o la institución, puedan
-
-concurrir a sufragar dichos seguros.
-
-f) Becas de estudios: De acuerdo a sus
-
-disponibilidades presupuestarias, el Servicio de
-
-Bienestar podrá entregar Becas de Estudio a los
-
-afiliados que estén cursando los últimos años de una
-
-carrera de nivel superior. Esta se otorgará por una
-
-sola vez en el año escolar, previa evaluación
-
-socioeconómica realizada por Asistente Social. La
-
-modalidad de entrega y el monto lo fijará anualmente
-
-la Comisión Administrativa.
-
-g) Desgravamen: Al fallecimiento de un afiliado
-
-se entenderán condonadas automáticamente las deudas que
-
-tuviese pendientes con el Servicio de Bienestar por
-
-concepto de préstamos que éste le hubiere otorgado.
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieren afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
 
 #### Artículo 7º
 
@@ -195,6 +117,46 @@ Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar no
 El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y causantes de asignación familiar, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
 Con este objeto podrá celebrar, a través de la autoridad superior de la Institución de la cual forma parte, convenios entre sí o con profesionales e instituciones del área de la salud y otras entidades, con el propósito de mejorar el nivel de atención y servicios que entreguen a sus afiliados. Asimismo podrá conceder ayudas a los Jardines Infantiles, Colonias de Vacaciones, Hogares Sociales, Casinos del Personal, Clubes Deportivos, y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+
+El Servicio de Bienestar también podrá realizar las siguientes actividades:
+
+1.- Actividades educativas, culturales y sociales.
+
+2.- Actividades artísticas.
+
+3.- Actividades recreativas.
+
+4.- Actividades vacacionales
+
+5.- Cultura física y deportiva.
+
+6.- Celebración de navidad.
+
+7.- Celebración de fiestas patrias.
+
+8.- Celebración de año nuevo.
+
+9.- Día de la Secretaria.
+
+10.- Día del Padre.
+
+11.- Día de la Madre.
+
+12.- Día del Niño.
+
+13.- Día del Trabajador.
+
+14.- Día Internacional de la Mujer.
+
+15.- Día de la Familia.
+
+16.- Aniversario de la Institución.
+
+17.- Aniversario del Servicio de Bienestar.
+
+18.- Despedida de afiliados al momento de jubilar.
+
+19.- Ceremonia de incentivo al retiro.
 
 #### Artículo 12º
 
@@ -238,7 +200,7 @@ Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente 
 
 #### Artículo 16º
 
-Los Afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso y primer aporte al Servicio de Bienestar. Los demás beneficios podrán solicitarse 3 meses después que el afiliado se incorpore al Servicio o dentro de los plazos establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso y primer aporte al Servicio de Bienestar, siempre y cuando los gastos incurridos sean posteriores a la fecha de entrega de la solicitud de incorporación. Los demás beneficios, subsidios y préstamos (Beneficio dental, óptico, subsidio nacimiento, matrimonio, fallecimiento, escolar y unión civil) podrán solicitarse 6 meses desde el primer descuento. La beca Escolar podrá ser solicitada por el funcionario por única vez teniendo 1 año de antigüedad en bienestar.
 
 T I T U L O V
 
