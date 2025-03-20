@@ -38,6 +38,6 @@ Establécese que el adelanto de la hora oficial de Chile Continental dispuesto e
 
 4. A contar de las 24 horas del primer sábado del mes de septiembre de 2025 y hasta las 24 horas del primer sábado del mes de abril de 2026, se adelantará la hora oficial en 60 minutos.
 
-Sin perjuicio de lo señalado anteriormente, en la Región de Magallanes y la Antártica Chilena el adelanto de la Hora Oficial de Chile Continental se extenderá de manera indefinida, y corresponderá en forma permanente al huso horario tres horas al Oeste del meridiano de Greenwich (-3)
+Sin perjuicio de lo señalado anteriormente, en las Regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena el adelanto de la Hora Oficial de Chile Continental se extenderá de manera indefinida, y corresponderá en forma permanente al huso horario tres horas al Oeste del meridiano de Greenwich (-3).
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Rodrigo Ubilla Mackenney, Subsecretario del Interior.
