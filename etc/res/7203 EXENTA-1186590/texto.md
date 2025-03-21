@@ -18,7 +18,7 @@ Considerando:
 
 5º. Que, por los motivos reseñados precedentemente, esta Superintendencia en uso de sus facultades, resuelve aprobar el siguiente Instructivo, que regula las actuaciones de los liquidadores concursales, para el cumplimiento de las obligaciones que les imponen las leyes Nº 21.389, que crea el Registro Nacional de Deudores de Pensiones de Alimentos y Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, según se indica a continuación:
 
-INSTRUCTIVO
+INSTRUCTIVO SUPERIR N° 1
 
 #### Artículo 1°
 
@@ -58,39 +58,79 @@ La retención de las pensiones de alimentos se deberá reflejar en los respectiv
 
 Asimismo, los liquidadores deberán tener presente que si la suma retenida, de conformidad con lo dispuesto en los artículos 28 a 31 y en el artículo 36, es insuficiente para cubrir íntegramente las deudas consignadas en el Registro, a través de distintas inscripciones, la cuantía retenida deberá distribuirse de manera que todas las deudas inscritas sean solucionadas de forma proporcional, conforme lo dispone el artículo 37 de la ley Nº 21.389.
 
+Las distribuciones efectuadas a los acreedores de pensiones alimenticias o alimentarios del Deudor sometido a un procedimiento de liquidación, como las retenciones efectuadas a los acreedores del Deudor del respectivo procedimiento concursal, en su calidad alimentantes, deberán ser depositadas en la cuenta bancaria inscrita en el Registro Nacional de Deudores de Pensiones de Alimentos, a más tardar el día siguiente que se publique en el Boletín Concursal, la resolución del tribunal que ordene la distribución del reparto, en conformidad a lo dispuesto en el numeral 9) del artículo 248 de la ley Nº 20.720, sin consultar nuevamente el Registro Nacional de Deudores de Pensiones de Alimentos, salvo que el tribunal de familia disponga que no procede efectuar el pago de la respectiva pensión de alimentos.
+
 #### Artículo 6°
 
 En caso que proceda el pago de la indemnización sustitutiva del aviso previo a que se refieren los artículos 161 y 162 del Código del Trabajo, será obligación del liquidador, en representación del empleador sometido a un procedimiento de liquidación, de retener de ella la suma equivalente a la pensión alimenticia del mes siguiente a la fecha de término de la relación laboral, para su pago al alimentario, de acuerdo a lo dispuesto en el inciso 4° del artículo 13 de la ley Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, incorporado por la letra c) del numeral 13 del artículo 1º de la ley Nº 21.389.
+
+El/ La liquidador/a deberá cumplir con la obligación de hacer la o las retenciones a que se refieren los artículos 8º, 11 y 11 bis de la ley 14.908, de retener la suma equivalente a la pensión alimenticia del mes siguiente a la fecha de término de la relación laboral, en el caso que proceda el pago de la indemnización sustitutiva del aviso previo a que se refieren los artículos 161 y 162 del Código del Trabajo y tuviere la obligación de pagar pensión de alimentos, decretada judicialmente, todo lo anterior, en conformidad a lo dispuesto en el inciso 4º del artículo 13 de la ley Nº 14.908.
+
+Ahora bien, los artículos 161 y 162 del Código del Trabajo, no se aplican en los casos que el término de la relación laboral se produzca por la resolución de liquidación concursal del empleador, ya que en este último caso se aplican las reglas contempladas en el artículo 163 bis del Código del Trabajo, norma que, entre otros, regula la indemnización sustitutiva del aviso previo, siendo en consecuencia incompatibles estas indemnizaciones con las contempladas en los citados artículos 161 y 162.
+
+De esta forma, la instrucción contenida en este artículo solo será aplicable cuando la relación laboral del ex trabajador de un Deudor sometido a un procedimiento concursal de liquidación, hubiere terminado antes de la resolución de liquidación y le corresponda a ese ex trabajador la indemnización sustitutiva del aviso previo a que se refieren los artículos 161 y 162 del Código del Trabajo.
 
 #### Artículo 7°
 
 Asimismo, si fuere procedente la indemnización por años de servicio a que hace referencia el artículo 163 del Código del Trabajo, o se pactare ésta voluntariamente, el liquidador, en representación del empleador sometido a un procedimiento de liquidación, estará obligado a retener del total de dicha indemnización el porcentaje que corresponda al monto de la pensión de alimentos en el ingreso mensual del trabajador, con el objeto de realizar el pago al alimentario. El alimentante podrá, en todo caso, imputar el monto retenido y pagado a las pensiones futuras que se devenguen, según lo dispone el inciso 5º del artículo 13 de la ley Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, incorporado por la letra c) del numeral 13 del artículo 1º de la ley Nº 21.389.
 
-#### Artículo 8°
+#### Artículo 8º
 
-No obstante lo anterior, el liquidador, en representación del empleador sometido a un procedimiento concursal de liquidación, estará obligado a declarar por escrito su deber de retener judicialmente la pensión alimenticia, especialmente cuando dicha retención no apareciere especificada en las liquidaciones, en conformidad a lo establecido en el inciso 6º del artículo 13 de la ley Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, incorporado por la letra c) del numeral 13 del artículo 1º de la ley Nº 21.389.
+Los liquidadores y liquidadoras deberán remitir trimestralmente a esta Superintendencia, un informe de los pagos de pensiones alimenticias que efectúen en los procedimientos concursales en que intervengan, que contenga la individualización de los procedimientos concursales en los que se practicaron dichos pagos, monto pagado al alimentario respectivo en el procedimiento de liquidación o de renegociación en el que se haya designado un liquidador o liquidadora en el acuerdo de ejecución, su individualización del alimentario, fecha de los respectivos pagos a los acreedores de pensiones de alimentos o a quien sus derechos representen, mediante depósitos en la cuenta corriente que figuren inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos e individualización de cada alimentario, entre otros campos.
+
+Dicho informe se deberá efectuar de acuerdo con las instrucciones que se impartan en el Anexo I "Reporte de Pagos por Pensiones Alimenticias en los Procedimientos Concursales", y deberá contener la información requerida hasta el último día del trimestre que se informa y remitirse a esta Superintendencia a más tardar el último día del mes siguiente al trimestre que se informa, a través del correo electrónico fiscalizacion.alimentos@superir.gob.cl.
+
+El primer informe deberá comprender el período desde el 1 de octubre de 2024 al 31 de diciembre de 2024, y deberá ser informado a más tardar el 31 de enero de 2025; y el siguiente trimestre a informar comprenderá el período desde el 1 de enero de 2025 al 31 de marzo de 2025, y deberá ser informado a más tardar el 30 de abril de 2025, y así sucesivamente.
+
+#### Artículo 8º
+
+Los liquidadores y liquidadoras deberán remitir trimestralmente a esta Superintendencia, un informe de los pagos de pensiones alimenticias que efectúen en los procedimientos concursales en que intervengan, que contenga la individualización de los procedimientos concursales en los que se practicaron dichos pagos, monto pagado al alimentario respectivo en el procedimiento de liquidación o de renegociación en el que se haya designado un liquidador o liquidadora en el acuerdo de ejecución, su individualización del alimentario, fecha de los respectivos pagos a los acreedores de pensiones de alimentos o a quien sus derechos representen, mediante depósitos en la cuenta corriente que figuren inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos e individualización de cada alimentario, entre otros campos.
+
+Dicho informe se deberá efectuar de acuerdo con las instrucciones que se impartan en el Anexo I "Reporte de Pagos por Pensiones Alimenticias en los Procedimientos Concursales", y deberá contener la información requerida hasta el último día del trimestre que se informa y remitirse a esta Superintendencia a más tardar el último día del mes siguiente al trimestre que se informa, a través del correo electrónico fiscalizacion.alimentos@superir.gob.cl.
+
+El primer informe deberá comprender el período desde el 1 de octubre de 2024 al 31 de diciembre de 2024, y deberá ser informado a más tardar el 31 de enero de 2025; y el siguiente trimestre a informar comprenderá el período desde el 1 de enero de 2025 al 31 de marzo de 2025, y deberá ser informado a más tardar el 30 de abril de 2025, y así sucesivamente.
+
+#### Artículo 8º
+
+Los liquidadores y liquidadoras deberán remitir trimestralmente a esta Superintendencia, un informe de los pagos de pensiones alimenticias que efectúen en los procedimientos concursales en que intervengan, que contenga la individualización de los procedimientos concursales en los que se practicaron dichos pagos, monto pagado al alimentario respectivo en el procedimiento de liquidación o de renegociación en el que se haya designado un liquidador o liquidadora en el acuerdo de ejecución, su individualización del alimentario, fecha de los respectivos pagos a los acreedores de pensiones de alimentos o a quien sus derechos representen, mediante depósitos en la cuenta corriente que figuren inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos e individualización de cada alimentario, entre otros campos.
+
+Dicho informe se deberá efectuar de acuerdo con las instrucciones que se impartan en el Anexo I "Reporte de Pagos por Pensiones Alimenticias en los Procedimientos Concursales", y deberá contener la información requerida hasta el último día del trimestre que se informa y remitirse a esta Superintendencia a más tardar el último día del mes siguiente al trimestre que se informa, a través del correo electrónico fiscalizacion.alimentos@superir.gob.cl.
+
+El primer informe deberá comprender el período desde el 1 de octubre de 2024 al 31 de diciembre de 2024, y deberá ser informado a más tardar el 31 de enero de 2025; y el siguiente trimestre a informar comprenderá el período desde el 1 de enero de 2025 al 31 de marzo de 2025, y deberá ser informado a más tardar el 30 de abril de 2025, y así sucesivamente.
+
+#### Artículo 8º
+
+Los liquidadores y liquidadoras deberán remitir trimestralmente a esta Superintendencia, un informe de los pagos de pensiones alimenticias que efectúen en los procedimientos concursales en que intervengan, que contenga la individualización de los procedimientos concursales en los que se practicaron dichos pagos, monto pagado al alimentario respectivo en el procedimiento de liquidación o de renegociación en el que se haya designado un liquidador o liquidadora en el acuerdo de ejecución, su individualización del alimentario, fecha de los respectivos pagos a los acreedores de pensiones de alimentos o a quien sus derechos representen, mediante depósitos en la cuenta corriente que figuren inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos e individualización de cada alimentario, entre otros campos.
+
+Dicho informe se deberá efectuar de acuerdo con las instrucciones que se impartan en el Anexo I "Reporte de Pagos por Pensiones Alimenticias en los Procedimientos Concursales", y deberá contener la información requerida hasta el último día del trimestre que se informa y remitirse a esta Superintendencia a más tardar el último día del mes siguiente al trimestre que se informa, a través del correo electrónico fiscalizacion.alimentos@superir.gob.cl.
+
+El primer informe deberá comprender el período desde el 1 de octubre de 2024 al 31 de diciembre de 2024, y deberá ser informado a más tardar el 31 de enero de 2025; y el siguiente trimestre a informar comprenderá el período desde el 1 de enero de 2025 al 31 de marzo de 2025, y deberá ser informado a más tardar el 30 de abril de 2025, y así sucesivamente.
 
 #### Artículo 9°
 
-Esta Superintendencia gestionará ante el Servicio de Registro Civil e Identificación, el enrolamiento de los liquidadores como personas con interés legítimo en la consulta del Registro Nacional de Deudores de Pensiones de Alimentos, informando las credenciales de acceso al sistema a través del correo electrónico registrado ante este organismo.
+No obstante lo anterior, el liquidador, en representación del empleador sometido a un procedimiento concursal de liquidación, estará obligado a declarar por escrito su deber de retener judicialmente la pensión alimenticia, especialmente cuando dicha retención no apareciere especificada en las liquidaciones, en conformidad a lo establecido en el inciso 6º del artículo 13 de la ley Nº 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, incorporado por la letra c) del numeral 13 del artículo 1º de la ley Nº 21.389.
 
 #### Artículo 10°
 
-El acceso de los liquidadores al Registro Nacional de Deudores de Pensiones de Alimentos, es exclusivamente para consultar si los deudores, personas naturales, sometidas a procedimientos concursales y los acreedores, personas naturales, de dichos procedimientos, tienen inscripción vigente en calidad de deudor de alimentos, por lo tanto, no corresponde que se efectúen consultas respecto de personas distintas de las indicadas. El incumplimiento de lo señalado en el presente artículo podrá ser sancionado por esta Superintendencia conforme a los artículos 338 y siguientes de la ley Nº 20.720.
+Esta Superintendencia gestionará ante el Servicio de Registro Civil e Identificación, el enrolamiento de los liquidadores como personas con interés legítimo en la consulta del Registro Nacional de Deudores de Pensiones de Alimentos, informando las credenciales de acceso al sistema a través del correo electrónico registrado ante este organismo.
 
 #### Artículo 11°
+
+El acceso de los liquidadores al Registro Nacional de Deudores de Pensiones de Alimentos, es exclusivamente para consultar si los deudores, personas naturales, sometidas a procedimientos concursales y los acreedores, personas naturales, de dichos procedimientos, tienen inscripción vigente en calidad de deudor de alimentos, por lo tanto, no corresponde que se efectúen consultas respecto de personas distintas de las indicadas. El incumplimiento de lo señalado en el presente artículo podrá ser sancionado por esta Superintendencia conforme a los artículos 338 y siguientes de la ley Nº 20.720.
+
+#### Artículo 12°
 
 En el evento que algún liquidador requiera efectuar una consulta masiva en el Registro de Deudores de Pensiones Alimenticias, deberá comunicarlo a esta Superintendencia, a través del Módulo de Comunicación Directa, en el Portal de Sujetos Fiscalizados, seleccionando la materia "Consulta deudores de alimentos" y adjuntando la nómina de RUT a consultar en un archivo Excel, para gestionar su requerimiento ante el Servicio de Registro Civil e Identificación.
 
 El archivo Excel que se adjunte a la consulta señalada en el inciso anterior, deberá contener sólo una columna con la nómina de RUT sin puntos y con guion.
 
-#### Artículo 12°
+#### Artículo 13°
 
 Agréguese en el artículo 2º del Instructivo SIR Nº 3, de 6 de octubre de 2015, el siguiente inciso 3º:
 
 "Además de las remuneraciones de los trabajadores, las asignaciones familiares y la indemnización establecida en el número 2 del artículo 163 bis del Código del Trabajo con un límite de noventa unidades de fomento al valor correspondiente al último día del mes anterior a su pago, se podrán pagar administrativamente, las cotizaciones adeudadas a las instituciones de seguridad social o que se recauden por su intermedio, para ser destinadas a ese fin y, los alimentos que se deben por ley a ciertas personas de conformidad con las reglas previstas en el Título XVIII del Libro I, con un límite de ciento veinte unidades de fomento al valor correspondiente al último día del mes anterior a su pago, de acuerdo a lo dispuesto en el numeral 2 del artículo 244 de la ley Nº 20.720, por encontrarse actualmente estas prestaciones contempladas en el artículo 2472 Nº 5 del Código Civil.".
 
-#### Artículo 13°
+#### Artículo 14°
 
 Entrada en Vigencia. El presente instructivo comenzará a regir a contar de su notificación por correo electrónico a los liquidadores, sin perjuicio de su publicación en el Diario Oficial.
 
