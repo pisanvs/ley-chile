@@ -18,29 +18,19 @@ Que, en conformidad a lo anterior, se dicta la siguiente:
 
 NORMA DE CARÁCTER GENERAL
 
-## Título I
+## Título I — Cuentas Provisorias.- Derogado.
 
-Cuentas Provisorias
+#### Artículo 1
 
-#### Artículo 1º
+Derogado.
 
-Oportunidad. Las cuentas provisorias deberán rendirse mensualmente ante la junta de acreedores, debiendo publicarse en el Boletin Concursal, dentro del plazo de 2 días según lo establecido en los artículos 6º, 47º y siguientes de la Ley.
+#### Artículo 2
 
-Dentro del mismo plazo, las cuentas provisorias se deberán agregar al expediente del Procedimiento Concursal de Liquidación.
+Derogado.
 
-#### Artículo 2º
+#### Artículo 3
 
-Forma de las cuentas provisorias. Las cuentas provisorias se confeccionarán de acuerdo a las normas contables vigentes, deberán además adecuarse a las normas sobre aspectos contables y financieros de la administración concursal que al efecto dicte la Superintendencia.
-
-Las cuentas deberán contemplar todo el movimiento del Procedimiento Concursal de Liquidación a la fecha de su corte contable, incluyendo un desglose detallado de los ingresos y gastos realizados durante el último mes.
-
-Los saldos informados en las cuentas provisorias deberán concordar con los registros contables y sus respectivos respaldos.
-
-#### Artículo 3º
-
-Publicación de las cuentas provisorias en el Boletín Concursal. La publicación de las cuentas provisorias en el Boletín Concursal deberá efectuarla el Liquidador, en conformidad a las reglas contenidas en la Norma de Carácter General Nº 3 de esta Superintendencia.
-
-Asimismo, el Liquidador deberá ingresar la información contenida en las cuentas provisorias a través de su perfil en la Plataforma Electrónica de esta Superintendencia, en formato Excel.
+Derogado.
 
 ## Título II
 
