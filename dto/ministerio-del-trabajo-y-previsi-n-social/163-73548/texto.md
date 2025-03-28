@@ -322,6 +322,10 @@ El Bienestar podrá organizar y financiar en beneficio de los afiliados y de sus
 
 El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares, Día del niño, de la madre, del padre o de la familia y promoción del Servicio de Bienestar a través de actividades recreativas, saludables, expositivas. Asimismo, podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, "como igualmente y en la medida que los recursos lo permitan, realizar la celebración del Día del Socio, en el mes de abril de cada año".
 
+El beneficio facultativo de Navidad, puede hacerse efectivo para el afiliado y afiliada, transcurridos tres meses, contados desde la afiliación al Servicio de Bienestar siendo su modalidad de entrega en forma de canasta, caja o paquete navideño, en efectivo o mediante una giftcard, según quede establecido o definido por el Consejo Administrativo y/o con previa consulta a los afiliados, a través de una encuesta u otro medio, por ejemplo.
+
+De existir controversia del tipo que sea, la decisión de entrega y su forma, recaerá en el Consejo Administrativo.
+
 ## Título IV
 
 De la Dirección y Administración
@@ -463,6 +467,10 @@ En el caso de los funcionarios que se acogen a jubilación, este plazo comenzar�
 #### Artículo 25º
 
 Las cuotas mensuales que los afiliados deben pagar en virtud de préstamos, compras por convenios con empresas, o cualquier beneficio reembolsable, no podrán exceder en total del 15% de su remuneración mensual, entendida por ésta el total de emolumentos de carácter fijo que tienen derecho a percibir, sin considerar descuentos legales, lo cual será evaluado por el jefe de Servicio o quien lo subrogue.
+
+#### Artículo 26
+
+Se autoriza la inversión en depósitos o en instrumentos en el mercado de capitales, previa autorización del Ministerio de Hacienda y respecto de los organismos enumerados en el artículo 2° del DL N° 1.263, de 1975, dicha autorización sólo puede ser otorgada respecto de los recursos provenientes de la venta de activos o de excedentes estacionales de caja. Solo se procederá a invertir si se está otorgando un buen nivel de beneficios a los afiliados y cuando se generen excedentes estacionales de caja, situación que deberá ser acreditada previamente a fin de que califique la conveniencia de la inversión proyectada por el Servicio de Bienestar.
 
 #### Artículo transitorio
 
