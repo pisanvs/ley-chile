@@ -58,7 +58,7 @@ En su recorrido, la "Línea 2x220 kV Alto Reloncaví Tramo III" afectará las l�
 
 #### Artículo 10°
 
-El plazo de construcción desde el inicio de los trabajos hasta la terminación total de las obras será de dieciocho meses, considerando el inicio de ellas después de doce meses de la reducción a escritura pública del presente decreto, sin perjuicio que éstas podrán iniciarse con anterioridad a esa fecha, en el caso de contarse con acuerdo sobre servidumbres voluntarias y, además, con los permisos ambientales y sectoriales correspondientes. Las obras se desarrollarán de manera simultánea y los plazos para terminación por etapas y secciones serán los siguientes:
+El plazo de construcción desde el inicio de los trabajos hasta la terminación total de las obras será de dieciocho meses, considerando el inicio de ellas después de 115 meses de la reducción a escritura del decreto que otorgue la concesión eléctrica. Las etapas y secciones de actividades de obras se indican a continuación:
 
 .
 
