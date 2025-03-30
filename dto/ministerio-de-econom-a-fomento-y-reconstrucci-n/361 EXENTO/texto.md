@@ -8,53 +8,9 @@ Nº4643, de fecha 21.9.98; Nº5061, de fecha 13.10.98 y Nº6032, de fecha 30.11.
 
 D e c r e t o:
 
-#### Artículo 1º
+#### Artículo 1
 
-Decláranse Normas Oficiales de la República de Chile, las siguientes:
-
-NCh72.Of99 Gases licuados de petróleo -
-
-Especificaciones.
-
-NCh75.Of99 Gases licuados de petróleo - Detección
-
-de la humedad en propano - Método de
-
-congelamiento de válvula.
-
-NCh2264.Of99 ANULADA Y REEMPLAZADA
-
-NCh2349.Of99 Cilindros y tanques portátiles para
-
-gases comprimidos, licuados o disueltos
-
-a presión - Símbolos de propiedad.
-
-NCh2394.Of99 Gases licuados de petróleo y gas
-
-natural - Ensayo de olor.
-
-NCh78.Of99 Cilindros de acero, soldados para gases
-
-licuados de petróleo (Tipos: 5, 11; 15
-
-y 45) - Requisitos generales de diseño
-
-y fabricación.
-
-NCh2273.Of99 Gases licuados de petróleo -
-
-Componentes del sistema de combustibles
-
-de los vehículos motorizados -
-
-Requisitos de fabricación y
-
-funcionamiento.
-
-NCh61.Of99 Petróleo combustible (fuel oil) -
-
-Requisitos.
+Derogado.
 
 #### Artículo 2º
 

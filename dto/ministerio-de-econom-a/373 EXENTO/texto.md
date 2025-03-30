@@ -4,55 +4,9 @@ Núm. 373 exento.- Santiago, 23 de noviembre de 2000.- Visto: Estos antecedentes
 
 D e c r e t o:
 
-#### Artículo 1º
+#### Artículo 1
 
-Decláranse Normas Oficiales de la República las siguientes:
-
-NCh62.Of2000 Petróleos Diesel - Requisitos.
-
-NCh63.Of2000 Kerosene - Requisitos.
-
-NCh1983.Of2000 Productos de petróleo - determinación
-
-del punto de escurrimiento.
-
-NCh1984.Of2000 Productos de petróleo - determinación de
-
-cenizas.
-
-NCh2108.Of2000 Gases licuados de petróleo (GLP) -
-
-tanques de acero soldados, para uso de
-
-GLP como combustible en vehículos
-
-motorizados - requisitos generales de
-
-diseño, fabricación y mantenimiento.
-
-NCh2212/8.Of2000 Combustibles gaseosos - artefactos para
-
-cocinar de uso colectivo - Parte 8:
-
-Planchas y parrillas.
-
-NCh2212/9.Of2000 Combustibles gaseosos - artefactos para
-
-cocinar de uso colectivo - Parte 9:
-
-Marmitas.
-
-NCh2476.Of2000 Gases licuados de petróleo - tanques
-
-estacionarios de acero soldados para
-
-almacenamiento de GLP - Tanques de
-
-capacidad menor que 500 dm3 - requisitos
-
-generales de diseño y fabricación.
-
-> **Nota.** El artículo 2º de la RES 912 Exenta, Economía, publicada el 23.11.2007, modifica la presente norma, en el sentido de anular y reemplazar parcialmente las cláusulas 5.4.3; 6.41.3; y 8.6.
+Derogado.
 
 #### Artículo 2º
 
