@@ -206,7 +206,7 @@ d) Las trabajadoras de los cementerios señaladas en la letra c) del artículo 5
 
 #### Artículo 15
 
-Período de postulación año 2024. El periodo de postulación para la asignación de los 1.500 cupos del año 2024, comenzará el primer día hábil de enero de 2024, y se extenderá hasta el 31 de diciembre de 2024.
+Período de postulación año 2024. El periodo de postulación para la asignación de los 2.250 cupos del año 2024, comenzará el primer día hábil de enero de 2024, y se extenderá hasta el 31 de diciembre de 2024.
 
 En el proceso de postulación correspondiente al año 2024 podrán postular los funcionarios y funcionarias que a continuación se indican:
 
@@ -226,7 +226,7 @@ e) Las trabajadoras de los cementerios señaladas en la letra c) del artículo 5
 
 #### Artículo 16
 
-Período de postulación año 2025. El período de postulación para la asignación de los 1.500 cupos del año 2025, comenzará el primer día hábil de enero de 2025, y se extenderá hasta el 31 de diciembre de 2025.
+Período de postulación año 2025. El período de postulación para la asignación de los 3.250 cupos del año 2025, comenzará el primer día hábil de enero de 2025, y se extenderá hasta el 31 de diciembre de 2025.
 
 En el proceso de postulación correspondiente al año 2025 podrán postular los funcionarios y funcionarias que a continuación se indican:
 
@@ -326,7 +326,7 @@ Resolución de la Subsecretaría. Durante el período comprendido entre el 1 de 
 
 #### Artículo 22
 
-Comunicación de la resolución emitida por la Subsecretaría. Copia de la o las resoluciones emitidas por la Subsecretaría, serán remitidas entre el 1 y el 10 de octubre del año siguiente al de la postulación, a la Dirección de Presupuestos.
+Comunicación de la resolución emitida por la Subsecretaría. Copia de la o las resoluciones emitidas por la Subsecretaría, serán remitidas dentro de los primeros 10 días hábiles de octubre del año siguiente al de la postulación, a la Dirección de Presupuestos.
 
 Dentro del mismo período, la Subsecretaría remitirá copia de la o las resoluciones emitidas a cada una de las municipalidades cuyo personal sea considerado en la o las mismas, las que deberán proceder a su inmediata difusión a través de un medio de general acceso, tales como, intranet institucional, oficina del secretario municipal u oficina de personal, sin perjuicio de la publicación en el mismo período por parte de la Subsecretaría, en el Sistema Nacional de Información Municipal o el sistema electrónico que lo reemplace.
 
