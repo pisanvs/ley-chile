@@ -16,29 +16,43 @@ R e s u e l v o:
 
 1. Para su ingreso al país las manzanas y peras frescas para consumo producidas en el Estado de Idaho de Estados Unidos de Norteamérica, deberán estar amparadas por un Certificado Fitosanitario Oficial del país de origen, en original, en el cual se deberá indicar el condado de procedencia de la fruta y las declaraciones adicionales que se indican a continuación:
 
-* El envío de peras y manzanas frescas procede de
+* El envío de peras y manzanas frescas
 
-áreas bajo programa de control oficial (prospectadas
+procede de áreas bajo programa de control
 
-y monitoreadas) y libres de Rhagoletis pomonella.
+oficial (prospectadas y monitoreadas) y
 
-* El envío de peras y manzanas frescas procede de
+libres de Rhagoletis pomonella.
 
-áreas libres de Conotrachelus nenuphar.
+* El envío de peras y manzanas frescas
 
-* El envío de peras frescas está libre de Cacopsylla
+procede de áreas libres de Conotrachelus
 
-pyricola.
+nenuphar.
+
+* El envío de peras frescas está libre de
+
+Cacopsylla pyricola.
+
+* El envío de (manzanas o peras) ha sido
+
+inspeccionado y se encuentra libre de
+
+Epiphyas postvittana (Lep.: Tortricidae).
 
 2. Adicionalmente, cada envío o partida de peras y manzanas frescas deberá someterse a un tratamiento de inmersión contra Erwinia amylovora bajo la supervisión oficial del Servicio de Inspección Fito y Zoosanitaria del Departamento de Agricultura de los Estados Unidos de Norteamérica (USDA/APHIS) y bajo las siguientes especificaciones técnicas y que deberá estar declarado en la sección correspondiente del Certificado Fitosanitario:
 
-* Solución de 100 partes por millón (ppm) de cloro
+* Solución de 100 partes por millón (ppm)
 
-por un tiempo no menos de 1 minuto, o
+de cloro por un tiempo no menos de 1
 
-* Solución de 3.400 a 4.900 partes por millón (ppm)
+minuto, o
 
-de Ortofenil Fenato de sodio por 2 a 4 minutos.
+* Solución de 3.400 a 4.900 partes por
+
+millón (ppm) de Ortofenil Fenato de sodio
+
+por 2 a 4 minutos.
 
 3. Complementariamente, cada partida de importación deberá cumplir con los siguientes requisitos fitosanitarios:
 
