@@ -20,6 +20,8 @@ R e s u e l v o:
 
 . El envío de peras frescas está libre de Cacopsylla pyricola
 
+. El envío (manzanas o peras) ha sido inspeccionado y se encuentra libre de Epiphyas postvittana (Lep.: Tortricidae)
+
 2.- Adicionalmente cada envío o partida de peras y manzanas frescas deberá someterse a un tratamiento de inmersión contra Erwinia amylovora bajo la supervisión oficial del Servicio de Inspección Fito y Zoosanitaria del Departamento de Agricultura de los Estados Unidos de Norteamérica (USDA/APHIS) y bajo las siguientes especificaciones técnicas y que deberá estar declarado en la sección correspondiente del Certificado Fitosanitario:
 
 . Solución de 100 partes por millón (ppm) de cloro por un tiempo no menos de 1 minuto, o
