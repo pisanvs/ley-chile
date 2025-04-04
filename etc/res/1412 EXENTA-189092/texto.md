@@ -16,73 +16,33 @@ R e s u e l v o:
 
 1. Para su ingreso al país, las peras y manzanas frescas para consumo producidas en el Condado de Umatilla, Estado de Oregon de Estados Unidos de Norteamérica, deberán estar amparadas por un Certificado Fitosanitario, en original, en el cual se deberá indicar como declaraciones adicionales que:
 
-* El envío de peras y manzanas frescas procede del
+* El envío de peras y manzanas frescas procede del Condado de Umatilla el cual se encuentra bajo programa de control oficial, prospectado y monitoreado y libre de Rhagoletis pomonella.
 
-Condado de Umatilla el cual se encuentra bajo
+* El envío procede de áreas libres de Conotrachelus nenuphar.
 
-programa de control oficial, prospectado y
+* El envío de peras frescas está libre de Cacopsylla pyricola.
 
-monitoreado y libre de Rhagoletis pomonella.
-
-* El envío procede de áreas libres de Conotrachelus
-
-nenuphar.
-
-* El envío de peras frescas está libre de Cacopsylla
-
-pyricola.
+* El envío de (manzanas o peras) ha sido inspeccionado y se encuentra libre de Epiphyas postvittana (Lep.: Tortricidae).
 
 2. Adicionalmente cada envío de peras y manzanas frescas deberá someterse a un tratamiento de inmersión contra Erwinia amylovora bajo la supervisión oficial del Departamento de Agricultura de Estados Unidos (en adelante USDA/APHIS) y bajo las siguientes especificaciones técnicas y que deberá estar declarado en la sección correspondiente del Certificado Fitosanitario:
 
-* Solución de 100 partes por millón(ppm) de cloro
+* Solución de 100 partes por millón(ppm) de cloro por un tiempo no menor de 1 minuto, o
 
-por un tiempo no menor de 1 minuto, o
-
-* Solución de 3.400 a 4.900 partes por millón (ppm)
-
-de Ortofenil Fenato de Sodio por 2 a 4 minutos
+* Solución de 3.400 a 4.900 partes por millón (ppm) de Ortofenil Fenato de Sodio por 2 a 4 minutos
 
 3. Complementariamente cada envío deberá cumplir con los siguientes requisitos fitosanitarios:
 
 * La partida deberá encontrarse libre de suelo
 
-* La partida deberá estar desprovista de restos
+* La partida deberá estar desprovista de restos vegetales
 
-vegetales
+* La partida deberá venir en envases y material de acomodación de primer uso, cerrados, no permitiéndose el reenvase. En los envases se deberá indicar el condado de procedencia de la fruta y el nombre de la empacadora en que fue procesada.
 
-* La partida deberá venir en envases y material
+* El material de embalaje debe ser adecuado para acciones de tratamiento cuarentenario de fumigación.
 
-de acomodación de primer uso, cerrados, no
+* Al venir el producto en paletas, en bodegas de barco, éstas deben ser exclusivas para partidas de similares condiciones sanitarias y las puertas y entrepuentes debidamente sellados. Los números de los sellos deberán indicarse en el Certificado Fitosanitario.
 
-permitiéndose el reenvase. En los envases se
-
-deberá indicar el condado de procedencia de la
-
-fruta y el nombre de la empacadora en que fue
-
-procesada.
-
-* El material de embalaje debe ser adecuado para
-
-acciones de tratamiento cuarentenario de
-
-fumigación.
-
-* Al venir el producto en paletas, en bodegas de
-
-barco, éstas deben ser exclusivas para partidas
-
-de similares condiciones sanitarias y las puertas
-
-y entrepuentes debidamente sellados. Los números
-
-de los sellos deberán indicarse en el Certificado
-
-Fitosanitario.
-
-* En caso de transporte aéreo, las paletas deben
-
-venir con cubiertas plásticas y selladas.
+* En caso de transporte aéreo, las paletas deben venir con cubiertas plásticas y selladas.
 
 4. Los envíos de peras y manzanas frescas no podrán proceder de áreas reguladas debido a la presencia de moscas de la fruta de los géneros Ceratitis, Bactrocera, Anastrepha, Dacus o Rhagoletis o de áreas en el Condado de Umatilla en las cuales el Departamento de Agricultura del Estado de Oregon haya determinado que se encuentran bajo cuarentena por las mismas plagas.
 
