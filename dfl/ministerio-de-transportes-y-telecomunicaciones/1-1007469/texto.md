@@ -286,7 +286,9 @@ Los postulantes a licencia de conductor deberán reunir los siguientes requisito
 
 4) Acreditar, mediante declaración jurada, que no es consumidor de drogas, estupefacientes o sustancias sicotrópicas prohibidas que alteren o modifiquen la plenitud de las capacidades físicas o síquicas, conforme a las disposiciones contenidas en la ley Nº 20.000 y su Reglamento. La fiscalización del cumplimiento de esta disposición se hará de acuerdo con los artículos 182 y 183 de esta ley, y
 
-5) No haber sido sorprendido por Carabineros de Chile realizando alguna de las conductas descritas en los incisos primero de los artículos 25 y 26 de la ley N° 19.925, sobre expendio y consumo de bebidas alcohólicas, en los últimos doce meses.
+5) Acreditar, en caso de las clases A-1, A-2 y A-3, que no tiene anotaciones relativas a los delitos previstos en el Libro Segundo, Título VII, Párrafos 5, 6 y 6 bis del Código Penal. Lo anterior, mediante el respectivo certificado de antecedentes para fines especiales del Registro General de Condenas.
+
+6) No haber sido sorprendido por Carabineros de Chile realizando alguna de las conductas descritas en los incisos primero de los artículos 25 y 26 de la ley N° 19.925, sobre expendio y consumo de bebidas alcohólicas, en los últimos doce meses.
 
 Para obtener las licencias que a continuación se señalan, los postulantes deberán reunir, además, los siguientes requisitos especiales:
 
@@ -391,6 +393,8 @@ Para calificar la idoneidad moral de los interesados a que se refiere el artícu
 3. Por delitos contra el orden de la familia y la moralidad pública, y
 
 4. Por el delito de conducir con licencia de conductor, boleta de citación o permiso provisorio judicial para conducir, falsos u obtenidos en contravención a esta ley o pertenecientes a otra persona.
+
+5. Por delitos previstos en el Libro Segundo, Título VII, Párrafos 5, 6 y 6 bis del Código Penal para el caso de las licencias de conductor profesional clase A-1, A-2 y A-3.
 
 #### Artículo 17
 
@@ -607,6 +611,14 @@ La información sobre las denuncias incorporadas al Registro de Vehículos Motor
 La primera inscripción de los vehículos nuevos o usados, según corresponda, así como las variaciones del dominio de los vehículos inscritos; los gravámenes, prohibiciones, embargos y medidas precautorias; los arrendamientos con opción de compra y otros títulos que otorguen la mera tenencia material; las alteraciones que hagan cambiar la naturaleza de los vehículos, sus características esenciales o que los identifican; su abandono, destrucción o desarmaduría total o parcial; las denuncias por la apropiación de un vehículo motorizado; las rectificaciones de errores, omisiones o cualquier modificación equivalente de una inscripción; y las cancelaciones de inscripción, se tramitarán a través del sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, acompañando la documentación pertinente.
 
 Tratándose de la primera inscripción del dominio de un vehículo en el Registro de Vehículos Motorizados, quien solicite dicho trámite deberá presentar la respectiva factura electrónica, documentos aduaneros o sentencia judicial y el comprobante del pago de los tributos correspondientes, sin perjuicio de cualquier otra documentación cuya presentación disponga el reglamento indicado en el artículo 46.
+
+Si la solicitud está fundada en una factura de primera venta, ésta deberá haber sido emitida por empresas incluidas en la nómina de habilitados que el Servicio de Registro Civil e Identificación deberá llevar especialmente al efecto.
+
+El Servicio de Registro Civil e Identificación determinará, de conformidad con un reglamento que se dictará para ese efecto, los requisitos mínimos que deberá contener la nómina, tales como el nombre, razón social y número de RUT del emisor de la factura. En el reglamento se establecerá, además, la forma y requisitos para incorporarse a aquella nómina.
+
+Si el vendedor o emisor de la factura no se encuentra incluido en la nómina mencionada en el inciso anterior, el Servicio de Registro Civil e Identificación no procederá a la inscripción del vehículo y no podrá hacer entrega de las placas patentes respectivas.
+
+> **Nota.** NOTA 1 El artículo segundo transitorio de la ley 21601, publicada el 11.09.2023, dispone que la dictación del reglamento a que se refiere la presente norma, deberá efectuarse en el plazo de seis meses contado desde la publicación de esta ley en el Diario Oficial.
 
 #### Artículo 40
 
@@ -1095,6 +1107,12 @@ Prohíbese a los conductores de estos vehículos:
 7.- Fumar en el interior del vehículo.
 
 #### Artículo 87 bis
+
+Aquellos conductores con licencia de conducir profesional clase A-1, A-2 o A-3 que hayan sido condenados por los delitos previstos en el Libro Segundo, Título VII, Párrafos 5, 6 y 6 bis del Código Penal no podrán desempeñarse en ninguna modalidad de servicios de transporte público de pasajeros.
+
+En caso que un conductor contravenga esta prohibición, la licencia de conductor será cancelada según las reglas que establece el artículo 20 de la presente ley.
+
+#### Artículo 87 ter
 
 Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones:
 
