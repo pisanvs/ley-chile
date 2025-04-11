@@ -30,7 +30,7 @@ Resuelvo:
 
 Deléguese en los Secretarios Regionales Ministeriales de Educación, la facultad de resolver las solicitudes de matrícula en exceso por sobre los cupos reportados, en los supuestos que a continuación se señalan, para suscribir, bajo la fórmula "Por orden del Subsecretario de Educación", los actos administrativos correspondientes:
 
-1. En casos de fuerza mayor debidamente fundamentada que se refieran a traslados o destinaciones de funcionarios de las Fuerzas Armadas y Fuerzas de Orden y Seguridad, de acuerdo con el inciso segundo del artículo 7°, del decreto N° 152, de 2016, del Ministerio de Educación, y dentro de su territorio.
+1. En casos de fuerza mayor debidamente fundamentado que se refieran a traslados o destinaciones de funcionarios de los Fuerzas Armados, Fuerzas de Orden y Seguridad, y Gendarmería de Chile, de acuerdo con el inciso segundo del artículo 7 del decreto Nº 152, de 2016, del Ministerio de Educación y dentro de su territorio.
 
 2. Cuando exista falta de oferta educativa en los términos del artículo 7°, incisos tercero y cuarto, del decreto N° 152, pero se supere la capacidad máxima, configurándose así un supuesto de caso fortuito o fuerza mayor, conforme al inciso segundo de la misma disposición.
 
