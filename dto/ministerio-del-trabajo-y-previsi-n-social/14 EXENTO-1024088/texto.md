@@ -50,7 +50,7 @@ El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. En l
 
 #### Artículo 7º
 
-Las citaciones a las sesiones originarias y extraordinarias del Consejo Administrativo las efectuará el Jefe del Servicio de Bienestar, por dichas sesiones e incluirá la Tabla a desarrollar.
+Las citaciones a las sesiones ordinarias y extraordinarias del Consejo Administrativo las efectuará el Jefe del Servicio de Bienestar, por dichas sesiones e incluirá la Tabla a desarrollar.
 
 #### Artículo 8º
 
@@ -106,6 +106,8 @@ Atención médica y dental
 
 El Servicio de Bienestar podrá otorgar, en la medida que sus recursos lo permitan las ayudas de carácter Médico y Odontológico a sus afilados y cargas familiares, contempladas en el artículo Nº 15 del Reglamento General.
 
+El Servicio de Bienestar podrá financiar otros beneficios médicos para cubrir limitaciones o exclusiones del seguro o aquellos no contemplados en la ley Nº 18.469, cuando la solicitud de reembolso de gastos del afiliado y sus cargas legales del Fondo Nacional de Salud (Fonasa) y de las Instituciones de Salud Previsional (Isapre) vengan acompañadas de un diagnóstico emitido por un profesional de la salud, acreditadas con un bono, programa u orden médica y se trate de atenciones, tratamientos, medicamentos, instrumental o insumos autorizados en el reglamento interno del Servicio.
+
 El Consejo Administrativo, conforme a la letra g) del artículo Nº 29 del Reglamento General, determinará a lo menos, anualmente los porcentajes y los montos máximos de ayuda de cada prestación.
 
 Con el objeto de mejorar el nivel de atención a sus afiliados, el Servicio de Bienestar podrá además financiar con cargo a sus propios recursos y de acuerdo a sus disponibilidades presupuestarias, la contratación de seguros para solventar los gastos de salud de sus afiliados y cargas familiares, no cubiertos por sus Sistemas de Salud Previsional.
@@ -140,7 +142,7 @@ efectos por el afiliado,
 
 gastos del funeral;
 
-d) Educación: Se concederá un Subsidio de Educación siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y a sus cargas familiares, que se encuentren cursando estudios regulares en niveles prebásico, básico, medio especial, técnico o de educación superior, en establecimientos del Estado o reconocidos por éste.
+d) Educación: Se concederá un Subsidio de Educación siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y a sus cargas familiares, que se encuentren cursando estudios regulares en niveles prebásico, básico, medio, especial, técnico o de educación superior, en establecimientos del Estado o reconocidos por éste.
 
 Este beneficio se asignará una vez al año; el Consejo Administrativo determinará anualmente los requisitos, las modalidades y procedimientos;
 
@@ -150,19 +152,15 @@ f) Devastación: A fin de reconstruir lo deteriorado, se otorgará este Subsidio
 
 Si los afectados fueren matrimonio O convivientes civiles y ambos estuvieran afiliados al Servicio de Bienestar al momento de ocurrir el siniestro, esta ayuda será otorgada a ambos en forma independiente, y
 
-g) Desgravamen: Al fallecimiento de un afiliado, se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
+g) Desgravamen: Al fallecimiento de un afiliado, se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar.
 
-El monto de las ayudas contempladas en las letras a),
-
-- **b)** c), d),
-
-- **e)** y
-
-- **f)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
-
-- **g)** del artículo 29º, del Reglamento General.
+El monto de las ayudas contempladas en este artículo, será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General.
 
 h) Acuerdo de Unión Civil: Se otorgará un subsidio por la celebración de un Acuerdo de Unión Civil del afiliado. Si ambos convivientes civiles son afiliados, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En tal caso, el afiliado o afiliada deberá acompañar a la respectiva solicitud el certificado respectivo, emitido por el Servicio de Registro Civil e Identificación.
+
+i) Becas de estudio: Se podrán conceder beneficios para reconocer a afiliados y sus cargas legales, que se encuentren cursando estudios regulares, educación especial o carreras conducentes a título técnico o profesional de acuerdo con las modalidades y requisitos que establezca el Consejo.
+
+j) Otros subsidios: Se podrá entregar un subsidio en dinero de cumpleaños y/o un subsidio en dinero de navidad, para afiliados que se encuentren al día en sus compromisos, tengan 6 o más meses de afiliación, de acuerdo con la disponibilidad presupuestaria.
 
 Párrafo Tercero
 
