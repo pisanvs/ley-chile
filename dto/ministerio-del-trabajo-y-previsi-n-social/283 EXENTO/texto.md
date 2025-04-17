@@ -334,7 +334,7 @@ El Consejo Administrativo anualmente fijará el monto que deberá destinarse par
 
 #### Artículo 23°
 
-El Servicio de Bienestar podrá, además, administrar sala cuna, jardín infantil, club escolar, casa de huéspedes, de veraneo u otras instalaciones que le sean asignadas para el uso exclusivo de sus beneficiarios, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponderá a la respectiva Institución.
+El Servicio de Bienestar podrá, además, administrar sala cuna, jardín infantil, club escolar, casa de huéspedes, de veraneo u otros bienes muebles o inmuebles para el uso exclusivo de sus beneficiarios, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponderá a la respectiva Institución.
 
 ## Título VI
 
