@@ -24,9 +24,11 @@ Resuelvo:
 
 - Granos de Pennisetum spp., Triticum spp., Secale cereale, Panicum mileaceum, Nothofagus spp.
 
+- Paja de Triticum spp.
+
 3. Para su ingreso al país el envío deberá estar amparado por un Certificado Fitosanitario Oficial emitido por la autoridad fitosanitaria del país de origen, en original, sin declaraciones adicionales y que acredite que el envío corresponde a la especie del hongo autorizado.
 
-4. En aquellos casos de envíos en sustrato granos, el grano deberá ser sometido a un tratamiento de desvitalización por calor, el cual deberá estar señalado en la sección correspondiente del Certificado Fitosanitario.
+4. En aquellos envios en sustrato compuesto de granos o paja, estos deberán ser sometidos a un tratamiento térmico de desvitalización, el cual deberá estar señalado en la sección correspondiente del Certificado Fitosanitario.
 
 5. Los envíos de hongos frescos destinados a propagación y consumo deberán venir libres de suelo y restos vegetales.
 
