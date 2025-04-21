@@ -20,7 +20,7 @@ Disposiciones Generales
 
 #### Artículo 1°
 
-Los poseedores materiales de bienes raíces rurales o urbanos, cuyo avalúo fiscal para el pago del impuesto territorial sea inferior a ochocientas o a trescientas ochenta unidades tributarias, respectivamente, que carezcan de título inscrito, podrán solicitar de la Dirección de Tierras y Bienes Nacionales que se les reconozca la calidad de poseedores regulares de dichos bienes a fin de quedar habilitados para adquirir su dominio por prescripción, de acuerdo con el procedimiento que se establece en la presente ley.
+Los poseedores materiales de bienes raíces rurales o urbanos, cuyo avalúo fiscal para el pago del impuesto territorial sea igual o inferior a mil unidades tributarias mensuales, que carezcan de título inscrito, podrán solicitar de la Dirección de Tierras y Bienes Nacionales que se les reconozca la calidad de poseedores regulares de dichos bienes a fin de quedar habilitados para adquirir su dominio por prescripción, de acuerdo con el procedimiento que se establece en la presente ley.
 
 Para estos efectos se considerará el avalúo que esté vigente en la fecha que se presente la respectiva solicitud, referido al total o parte del bien raíz, según corresponda, proporcionado por el Servicio de Impuestos Internos.
 
