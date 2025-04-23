@@ -1312,11 +1312,11 @@ Excepcionalmente, el jefe de la oficina del lugar o el Gobernador, según el cas
 
 #### Artículo 132°
 
-Los terceros que se sientan afectados en sus derechos, podrán oponerse a la presentación dentro del plazo de treinta días contados desde la fecha de la última publicación o de la notificación, en su caso.
+Los terceros titulares de derechos de aprovechamiento constituidos e inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo que se sientan afectados en sus derechos, podrán oponerse a la presentación dentro del plazo de treinta días contados desde la fecha de la última publicación o de la notificación, en su caso.
 
 Dentro del quinto día de recibida la oposición, la autoridad dará traslado de ella al solicitante, para que éste responda dentro del plazo de quince días.
 
-> **Nota.** El numeral 63 del artículo 1 de la ley 21435, publicada el 06.04.2022, dispone modificar el inciso primero del presente artículo, en el sentido de intercalar entre las expresiones "Los terceros" y "que se sientan", la siguiente frase: "titulares de derechos de aprovechamiento constituidos e inscritos en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo". La referida modificación, conforme lo establece su artículo décimo transitorio, comenzará a regir a los dos años de la publicación de la citada ley. Sin embargo, a través del numeral 2 del artículo 1 de la ley 21586, publicada el 13.07.2023, se modifica el citado artículo décimo transitorio, sustituyendo la expresión "a los dos años de la publicación de esta ley" por "desde el 6 de abril de 2025", razón por la cual la referida modificación se encuentra disponible en la versión diferida correspondiente al 6 de abril de 2025.
+> **Nota.** El numeral 63 del artículo 1 de la ley 21435, publicada el 06.04.2022, dispone modificar el inciso primero del presente artículo, que de acuerdo a su artículo décimo transitorio, comenzará a regir a los dos años de la publicación de la citada ley. Sin embargo, en virtud de lo establecido en el numeral 2 del artículo 1 de la ley 21586, publicada el 13.07.2023, la entrada en vigor de la referida modificación ha quedado diferida para el 6 de abril de 2025, que se encuentra contenida en la presente versión actualizada.
 
 #### Artículo 133°
 
@@ -1348,7 +1348,7 @@ Respecto de los derechos de aprovechamiento de aguas consuntivos que han sido in
 
 7. Completadas las diligencias a las que se refieren los números 4, 5 y 6, el funcionario a cargo del procedimiento tendrá el plazo de treinta días para emitir un informe técnico, en el que analizará las cuestiones sometidas a su conocimiento relativas a la procedencia o no de la extinción del derecho de aprovechamiento por la no utilización efectiva del recurso, en los términos señalados en este artículo, y propondrá un pronunciamiento al Director General de Aguas.
 
-8. El Director General de Aguas, por resolución fundada, resolverá el expediente de extinción de un derecho de aprovechamiento, pronunciándose única y exclusivamente sobre si procede o no la extinción. Para adoptar esta resolución tendrá el plazo de quince días contado desde que se emitió el informe técnico a que se refiere el número anterior. Esta resolución se notificará según lo dispuesto en los incisos primero y segundo del artículo 139, o en su defecto a la dirección de correo electrónico que el titular hubiere registrado en su primera presentación en este procedimiento o en cualquier otro momento dentro de él. Sin perjuicio de lo anterior, y para el solo efecto de publicidad de terceros, la resolución se publicará en la página web institucional. Contra esta resolución procederán los recursos de reconsideración y de reclamación establecidos respectivamente en los artículos 136 y 137, y se suspenderán por su interposición los efectos del acto recurrido.
+8. El Director General de Aguas, por resolución fundada, resolverá el expediente de extinción de un derecho de aprovechamiento, pronunciándose única y exclusivamente sobre si procede o no la extinción. Para adoptar esta resolución tendrá el plazo de quince días contado desde que se emitió el informe técnico a que se refiere el número anterior. Esta resolución se notificará según lo dispuesto en el artículo 139, o en su defecto a la dirección de correo electrónico que el titular hubiere registrado en su primera presentación en este procedimiento o en cualquier otro momento dentro de él. Sin perjuicio de lo anterior, y para el solo efecto de publicidad de terceros, la resolución se publicará en la página web institucional. Contra esta resolución procederán los recursos de reconsideración y de reclamación establecidos respectivamente en los artículos 136 y 137, y se suspenderán por su interposición los efectos del acto recurrido.
 
 9. En lo no regulado en este inciso se estará a lo dispuesto en el procedimiento general del Título I del Libro Segundo de este Código.
 
@@ -1390,15 +1390,13 @@ El Director General de Aguas, por sí o por delegado, podrá requerir el auxilio
 
 En caso de incumplimiento o cumplimiento parcial de las resoluciones a que se refieren los incisos precedentes, el Servicio dictará una resolución que aplicará la multa correspondiente y, en caso de proceder, ordenará la ejecución de las medidas, acciones u obras que correspondan por parte del mismo Servicio o por parte de la Dirección de Obras Hidráulicas o cualquier otro servicio dependiente del Ministerio de Obras Públicas.
 
+A petición de la Dirección General de Aguas, las municipalidades u otros órganos de la Administración del Estado, de conformidad con sus competencias, podrán ejecutar las medidas ordenadas de acuerdo a lo previsto en este artículo, en el artículo 299 ter o en otros artículos de este Código.
+
 La Dirección General de Aguas dictará una resolución que determine el valor de las medidas, acciones u obras efectivamente realizadas, pudiendo establecer un recargo de hasta el 100% para aquellos originalmente obligados a cumplirlas. La copia autorizada de esta última resolución tendrá mérito ejecutivo para efectos de su cobro.
 
-#### Artículo 139°
+#### Artículo 139
 
-Las resoluciones de la Dirección General de Aguas se notificarán en el domicilio del afectado en la forma dispuesta en los artículos 44, inciso 2° y 48, del Código de Procedimiento Civil. Estas notificaciones las efectuará el funcionario que se designe en la respectiva resolución, quien tendrá el carácter de Ministro de Fe para esa actuación y todos sus efectos.
-
-En la primera presentación el interesado deberá designar un domicilio dentro de los límites urbanos del lugar en que funcione la oficina donde se haya efectuado la presentación, designación que se considerará subsistente mientras no haga otra, aun cuando de hecho lo haya cambiado.
-
-Si no se hace esta designación la resolución se entenderá notificada desde la fecha de su dictación. Sin perjuicio de lo señalado en los incisos precedentes, la Dirección General de Aguas deberá comunicar la resolución a la dirección de correo electrónico que las partes hubieren registrado en su primera presentación. Dicha comunicación deberá ser enviada por la Dirección General de Aguas y suscrita mediante firma electrónica avanzada.
+Las notificaciones que la Dirección General de Aguas deba realizar en cualquiera de sus procedimientos administrativos se practicarán personalmente o a través de medios electrónicos, conforme con lo previsto en el artículo 46 de la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
 
 2.- Normas Especiales
 
@@ -1692,7 +1690,7 @@ Si se realizaren obras con infracción de lo dispuesto en el artículo anterior,
 
 Si las obras que no cuentan con la debida autorización entorpecen el libre escurrimiento de las aguas o significan peligro para la vida o salud de los habitantes, la Dirección General de Aguas impondrá una multa del segundo al tercer grado, de conformidad al artículo 173 ter, y apercibirá al infractor fijándole un plazo perentorio para que destruya las obras o las modifique, ordenándole que presente el correspondiente proyecto de acuerdo a las normas de este Código. Si el infractor no diere cumplimiento a lo ordenado, la Dirección le impondrá una multa mínima de 100 y máxima de 1.000 unidades tributarias anuales, según fuere la magnitud del entorpecimiento ocasionado al libre escurrimiento de las aguas o el peligro para la vida o salud de los habitantes, y podrá adoptar las medidas para su cumplimiento de conformidad a lo dispuesto en el artículo 138.
 
-h. De la fiscalización
+h. De la fiscalización y la vigilancia
 
 #### Artículo 172 bis
 
@@ -1718,13 +1716,15 @@ El personal fiscalizador de la Dirección tendrá el carácter de ministro de fe
 
 #### Artículo 172 quáter
 
-Cuando constaren en el acta de inspección hechos que se estimen constitutivos de infracción, deberá notificarse personalmente al presunto infractor, entregándole copia del acta y señalándole que podrá presentar sus descargos dentro del plazo de quince días contado desde esa fecha. Si éste no es habido en el lugar fiscalizado, podrá ser notificado del acta y del plazo para los descargos en la forma dispuesta en el artículo 44 del Código de Procedimiento Civil.
+Cuando consten en el acta de inspección hechos que se estimen constitutivos de infracción deberá notificarse personalmente al presunto infractor, de conformidad con el artículo 139, se adjuntará o acompañará copia del acta y se mencionará que podrá presentar sus descargos y los plazos para deducirlos.
+
+El acta podrá ser notificada personalmente al presunto infractor si es que éste se encuentra en el lugar en que se realiza la inspección. En los casos en que ello no resulte posible, el funcionario ministro de fe encargado de la diligencia establecerá cuál es su habitación o el lugar donde habitualmente ejerce su industria, profesión o empleo, de lo que dejará constancia en el acta, procederá a su notificación en el mismo acto, y entregará el acta a cualquier persona adulta que se encuentre en el lugar. Si por cualquier causa ello no fuere posible, la notificación se hará fijando, en lugar visible, un aviso que dé noticia de la fiscalización y copia del acta que se notifica. En caso de que la habitación o el lugar donde habitualmente ejerce su industria, profesión o empleo se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio, y se dejará testimonio expreso de esta circunstancia en el acta. El ministro de fe deberá georreferenciar las diligencias que realice, y ello deberá constar en el expediente sancionatorio que se apertura.
 
 En caso de que no se hubieren detectado hechos constitutivos de infracción, se le entregará copia del acta al fiscalizado y se cerrará el expediente, poniendo fin al procedimiento respectivo.
 
 #### Artículo 172
 
-quinquies.- Evacuados los descargos por el presunto infractor, o vencido el plazo para ello, la Dirección General de Aguas resolverá sin más trámite cuando no existan hechos controvertidos o sean de pública notoriedad. En caso contrario, abrirá un término de prueba de quince días. Dicho plazo se ampliará, si corresponde, de conformidad a lo dispuesto en el artículo 26 de la ley N° 19.880.
+quinquies.- Evacuados los descargos o vencido el plazo para ello, la Dirección General de Aguas resolverá, sin más trámite, cuando no existan hechos controvertidos o sean de pública notoriedad. En caso contrario, abrirá un término de prueba de quince días. Dicho plazo podrá prorrogarse de conformidad con lo dispuesto en el artículo 26 de la ley Nº 19.880.
 
 La Dirección dará lugar a las medidas o diligencias probatorias que solicite el presunto infractor en sus descargos, siempre que resulten pertinentes y conducentes. En caso contrario, las rechazará mediante resolución fundada, sin perjuicio de que la Dirección pueda decretar otras medidas o solicitar antecedentes adicionales previos a resolver.
 
@@ -1737,6 +1737,66 @@ sexies.- Dentro del plazo de quince días contado desde la evacuación de los de
 Dicho informe deberá contener la individualización del o de los infractores, si se conociere; la relación de los hechos investigados y la forma en que se ha llegado a acreditarlos, y la proposición al Director de las sanciones que estimare procedente aplicar o de la absolución de uno o más de los infractores.
 
 El Director pondrá término al procedimiento mediante resolución fundada, la que deberá pronunciarse sobre cada uno de los hechos investigados, infracciones detectadas y alegaciones o descargos realizados por el presunto infractor. Contra esta resolución podrán interponerse los recursos contemplados en los artículos 136 y 137 de este Código.
+
+#### Artículo 172
+
+septies.- Se aplicará un procedimiento sancionatorio simplificado a los hechos investigados en que se verifique alguna de las siguientes circunstancias:
+
+1. Que sean sancionables con las multas expresadas en los literales a), b) y c) del inciso primero del artículo 173 ter.
+
+2. Que se realicen en zonas de escasez hídrica declaradas y vigentes, en conformidad con lo dispuesto en el artículo 314.
+
+3. Que no requieran la realización de fiscalización en terreno, como aquellas obligaciones comprendidas en los artículos 122 y 122 bis, entre otras.
+
+Se excluyen de la aplicación de este procedimiento, en todos los casos, las infracciones sancionadas en el número 5 del inciso primero del artículo 173.
+
+El procedimiento sancionatorio simplificado se sujetará a las siguientes reglas:
+
+a) El procedimiento se iniciará con un acta de inspección que, junto con la formulación de cargos, señalará expresamente la aplicación de este procedimiento. El acta y las resoluciones sucesivas serán notificadas de conformidad a lo previsto en el artículo 139.
+
+En los casos de los numerales 1 y 2 del inciso primero, el acta podrá ser notificada personalmente al presunto infractor si es que éste se encuentra en el lugar en que se realiza la inspección, y, en su defecto, podrá ser notificada de acuerdo a lo previsto en el artículo 172 quáter.
+
+El acta deberá señalar el o los hechos por los cuales se formulan cargos al presunto infractor, con indicación de cada uno de los antecedentes y elementos en que se fundó la Dirección para la formulación de cargos.
+
+b) El presunto infractor tendrá el plazo de ocho días hábiles, contado desde la notificación, para presentar sus descargos por escrito. En este acto el presunto infractor deberá acompañar todos los medios probatorios que sirvan de comprobante de su defensa. En el caso en que la infracción investigada trate sobre la extracción de aguas no autorizadas, se deberá exhibir el título que justifique dicha extracción o bien los antecedentes escritos que comprueben que la extracción se realiza al amparo de derechos que existen por el solo ministerio de la ley.
+
+c) Vencido el plazo indicado en la letra b) anterior, se procederá a elaborar el informe técnico. El plazo para ello será de treinta días, si no se presentaron descargos o de cuarenta y cinco días, si es que se presentaron. Este informe servirá de antecedente para dictar la resolución que resuelva el procedimiento aplicando la sanción, cuando corresponda. El presunto infractor podrá allanarse a los cargos formulados hasta antes de que venza el plazo para presentar sus descargos, en cuyo caso se aplicará el 25% de descuento sobre el mínimo del grado de la multa que corresponda.
+
+d) El Director General de Aguas, por medio de una resolución fundada, resolverá este expediente, y le pondrá término, en el plazo no superior a sesenta días hábiles contado desde que esté en condiciones de ser resuelto. Dicha resolución será notificada conforme al artículo 139.
+
+e) En contra de la resolución de término del procedimiento sólo procederán los recursos de reconsideración y reclamación dispuestos en los artículos 136 y 137. Para efectos de este artículo, el plazo para interponer el recurso de reconsideración será de quince días hábiles contado desde la notificación de la resolución de término. La interposición de estos recursos no suspenderá el cumplimiento de lo señalado en la resolución, sin perjuicio de que la Corte de Apelaciones respectiva pueda ordenar lo contrario en el caso del recurso de reclamación.
+
+En todo lo no regulado expresamente por este artículo se aplicarán las normas generales del procedimiento sancionatorio ordinario dispuesto en los artículos anteriores.
+
+#### Artículo 172
+
+octies.- En aquellos casos en que se constate la existencia de una infracción por extracción de aguas no autorizada o se trate de obras o labores que puedan afectar a un acuífero que alimente vegas, turberas y bofedales, la Dirección General de Aguas deberá ordenar en la respectiva resolución de término la paralización de dicha extracción hasta su regularización o autorización, salvo que, por razones fundadas en el interés público, de conformidad con lo dispuesto en el inciso tercero del artículo 5, no se considere necesario.
+
+Declarada esta medida, y sin más trámite, el personal de fiscalización procederá a la instalación de un sello u otro medio adecuado para evitar o inhibir la extracción no autorizada de aguas desde una obra de captación. La rotura del sello o del medio que se haya utilizado para evitar la extracción no autorizada de aguas será sancionada conforme al artículo 270 del Código Penal.
+
+Para los efectos de este artículo, la Dirección General de Aguas podrá requerir el auxilio de la fuerza pública en el lugar en que se realice la extracción de aguas no autorizada, en los términos establecidos en el artículo 138.
+
+Sin perjuicio de lo dispuesto en este artículo, para los procesos de fiscalización iniciados en zonas de escasez hídrica declaradas y vigentes, o cuando dicha infracción pueda afectar la disponibilidad de las aguas utilizadas para satisfacer el consumo humano, saneamiento o el uso doméstico de subsistencia, la Dirección General de Aguas también podrá ordenar, mediante resolución fundada, la paralización temporal de la extracción, aun cuando el procedimiento de fiscalización se encuentre pendiente, y podrá extenderse ésta hasta su total tramitación.
+
+#### Artículo 172
+
+nonies.- En conformidad con lo dispuesto en el párrafo segundo del literal c) del artículo 299, la Dirección General de Aguas, en el ejercicio de sus labores de vigilancia, podrá instruir medidas para la corrección temprana de inobservancias menores que haya constatado, con el fin de restituir el cumplimiento normativo en el más breve plazo, y podrá, cuando corresponda, dar lugar a lo previsto en el inciso cuarto del artículo 172 octies.
+
+Para efectos de lo anterior, se entenderán como inobservancias menores aquellos actos que impliquen desviaciones normativas de menor entidad. El Director General de Aguas dictará instrucciones para establecer los criterios que permitan determinar la entidad de dichos actos, de conformidad con lo previsto en la letra a) del artículo 300.
+
+La corrección temprana de inobservancias menores se sujetará a las siguientes reglas:
+
+a) No procederá en los casos en que una persona natural o jurídica haya sido sancionada con la aplicación de una multa de cuarto o quinto grado, conforme a lo previsto en el artículo 173 ter, durante los tres años inmediatamente anteriores al inicio del procedimiento.
+
+b) Procederá por una única vez, en el lapso de un año contado desde la instrucción de la medida, respecto de un mismo titular.
+
+c) Se comunicará a la persona natural o jurídica, mediante acta, la inobservancia que debe subsanar y se fijará el plazo máximo de hasta treinta días hábiles para su corrección. Este plazo se podrá ampliar por una sola vez y hasta por el mismo período.
+
+d) En caso de existir denuncias respecto de los hechos que son objeto de labores de vigilancia, éstas serán acumuladas a dicho procedimiento, y la Dirección General de Aguas deberá informar a los interesados todas las acciones que en ese contexto se realicen.
+
+e) Vencido el plazo del literal c), la Dirección General de Aguas deberá concluir las labores de vigilancia mediante la dictación de una resolución que dé cuenta del cumplimiento o que instruya la apertura de un expediente sancionatorio.
+
+f) En contra de la resolución de término del procedimiento sólo procederán los recursos de reconsideración y reclamación dispuestos en los artículos 136 y 137. Para efectos de este artículo, el plazo para interponer el recurso de reconsideración será de quince días hábiles, contado desde la notificación de dicha resolución.
 
 ### 3. De las sanciones
 
@@ -1828,7 +1888,7 @@ Las multas que no tuvieren un beneficiario determinado, se aplicarán a benefici
 
 El procedimiento de cobro de las multas se realizará por la Tesorería General de la República de acuerdo a lo dispuesto en el artículo 35 del decreto ley Nº 1.263, de 1975, Orgánico de Administración Financiera del Estado.
 
-Si la multa fuere pagada dentro de los nueve días siguientes a su notificación será rebajada en el 25%.
+Si no se interpone el recurso de reconsideración en contra de las resoluciones de la Dirección General de Aguas que impongan sanciones pecuniarias, y se paga la multa establecida dentro del plazo de nueve días hábiles, contado desde la notificación de la resolución, se reducirá su valor en el 25%.
 
 Este beneficio no será acumulable con otras rebajas de la pena, tales como aquella que beneficia al autodenunciante.
 
@@ -2823,6 +2883,8 @@ Para la realización de estas funciones la Dirección General de Aguas deberá c
 5. Reevaluar las circunstancias que dan origen a una declaración de agotamiento, a un área de restricción o a una zona de prohibición, así como aquellas que justifiquen una reducción temporal del ejercicio de los derechos.
 
 c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público y acuíferos; impedir, denunciar o sancionar la afectación a la cantidad y la calidad de estas aguas, de conformidad al inciso primero del artículo 129 bis 2 y los artículos 171 y siguientes; e impedir que en éstos se construyan, modifiquen o destruyan obras sin la autorización previa del servicio o autoridad a quien corresponda aprobar su construcción o autorizar su demolición o modificación;
+
+Se entenderá por labores de vigilancia, entre otras, aquellas efectuadas por funcionarios de la Dirección General de Aguas que tengan por objeto identificar inobservancias menores a las disposiciones del presente Código, y que puedan ser subsanadas sin la necesidad de ejercer las atribuciones de policía en el contexto de un procedimiento sancionatorio.
 
 d) Impedir que se extraigan aguas de los mismos cauces y en los acuíferos sin título o en mayor cantidad de lo que corresponda.
 
