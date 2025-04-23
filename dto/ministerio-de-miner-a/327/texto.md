@@ -254,11 +254,7 @@ En caso de solicitarse la ampliación del área otorgada en una concesión provi
 
 #### Artículo 26
 
-La resolución que otorgue la concesión provisional será publicada por la Superintendencia en el Diario Oficial, a cuenta del solicitante. La resolución que deniegue la concesión provisional será notificada al solicitante en conformidad al inciso cuarto del artículo 21.
-
-La resolución que otorgue la concesión provisional deberá ser reducida a escritura pública por el concesionario, dentro de los 30 días siguientes a su publicación en el Diario Oficial.
-
-El incumplimiento de lo dispuesto en el inciso anterior hará caducar de pleno derecho la concesión otorgada.
+La resolución que otorgue la concesión provisional será publicada por el concesionario en el Diario Oficial, dentro de los 30 días siguientes a su total tramitación. La resolución que deniegue la concesión provisional será notificada al solicitante en conformidad al inciso cuarto del artículo 21.
 
 #### Artículo 27
 
@@ -448,9 +444,7 @@ Inciso derogado.
 
 El decreto que se pronuncie sobre una solicitud de concesión, concediéndola o denegándola, deberá ser notificado al peticionario en conformidad al inciso cuarto del artículo 21.
 
-Dentro de los 30 días siguientes a su total tramitación, el decreto que otorgue la concesión deberá ser publicado en el Diario Oficial y reducido a escritura pública por el concesionario antes de 15 días contados desde la fecha de su publicación. Dentro de este último plazo, el Ministerio de Energía deberá publicar en su sitio electrónico el decreto respectivo. Copia de la escritura pública deberá remitirse a la Superintendencia en el plazo de 15 días, contados desde su otorgamiento.
-
-En caso de no otorgarse la escritura pública en el plazo indicado, caducará la concesión otorgada.
+El decreto que otorgue la concesión deberá ser publicado en el sitio electrónico del Ministerio de Energía en el plazo de quince días, contado desde la fecha de su publicación en el Diario Oficial, y deberá esta última efectuarse dentro del plazo de quince días contado desde la total tramitación del decreto.
 
 #### Artículo 50
 
@@ -504,11 +498,9 @@ En todos los casos de caducidad previstos en este capítulo, corresponderá a la
 
 Las concesiones definitivas de servicio eléctrico caducarán antes de entrar en explotación:
 
-1. Si el concesionario no redujere a escritura pública el decreto de concesión dentro del plazo establecido en el inciso tercero del artículo 29 de la ley.
+1. Si no se iniciaren los trabajos dentro de los plazos señalados y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.
 
-2. Si no se iniciaren los trabajos dentro de los plazos señalados y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.
-
-3. Si no se hubiesen ejecutado por lo menos los dos tercios de las obras dentro de los plazos establecidos y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.
+2. Si no se hubiesen ejecutado por lo menos los dos tercios de las obras dentro de los plazos establecidos y no mediare fuerza mayor o caso fortuito u otra causal grave y calificada que exima de responsabilidad al concesionario, la que deberá ser fundada por la Superintendencia.
 
 #### Artículo 54
 
