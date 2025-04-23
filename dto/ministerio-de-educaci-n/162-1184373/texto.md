@@ -432,21 +432,19 @@ El ámbito de competencia territorial del Servicio Local Hanga Roa comprenderá 
 
 El Servicio Local Hanga Roa iniciará sus funciones el día 1° de marzo de 2025.
 
-## Título III
-
-Del Servicio Local de Educación Pública de Manquehue
+## Título III — Del Servicio Local de Educación Pública de Manquehue.- Suprimido.
 
 #### Artículo 67
 
-Se denominará Servicio Local de Educación Pública Manquehue (en adelante también "Servicio Local de Manquehue") al Servicio Local de Educación Pública de la Región Metropolitana señalado en el numeral 10. del artículo 12 del decreto N° 73, de 2018, del Ministerio de Educación.
+Suprimido.
 
 #### Artículo 68
 
-El ámbito de competencia territorial del Servicio Local Manquehue comprenderá las comunas de La Reina, Las Condes, Lo Barnechea, Providencia y Vitacura, y tendrá su domicilio en la comuna de Providencia.
+Suprimido.
 
 #### Artículo 69
 
-El Servicio Local de Manquehue iniciará sus funciones el día 1° de marzo de 2025.
+Suprimido.
 
 ## Título IV
 
@@ -480,21 +478,19 @@ El ámbito de competencia territorial del Servicio Local de Talagante comprender
 
 El Servicio Local de Talagante iniciará sus funciones el día 1° de marzo de 2025.
 
-## Título VI
-
-Del Servicio Local de Educación Pública de Costa Colchagua
+## Título VI — Del Servicio Local de Educación Pública de Costa Colchagua.- Suprimido.
 
 #### Artículo 76
 
-Se denominará Servicio Local de Educación Pública de Costa Colchagua (en adelante también ''Servicio Local de Costa Colchagua") al Servicio Local de Educación Pública de la Región del Libertador General Bernardo O'Higgins señalado en el numeral 1. del artículo 5 del decreto N° 73, de 2018, del Ministerio de Educación.
+Suprimido.
 
 #### Artículo 77
 
-El ámbito de competencia territorial del Servicio Local de Costa Colchagua comprenderá las comunas de Chépica, Lolol, Palmilla, Peralillo, Pumanque y Santa Cruz, y tendrá su domicilio en la comuna de Santa Cruz.
+Suprimido.
 
 #### Artículo 78
 
-El Servicio Local de Costa Colchagua iniciará sus funciones el día 1° de marzo de 2025.
+Suprimido.
 
 ## Título VII
 
@@ -512,21 +508,19 @@ El ámbito de competencia territorial del Servicio Local de Los Cerezos comprend
 
 El Servicio Local de Los Cerezos iniciará sus funciones el día 1° de marzo de 2025.
 
-## Título VIII
-
-Del Servicio Local de Educación Pública de Maule Valle
+## Título VIII — Del Servicio Local de Educación Pública de Maule Valle.- Suprimido.
 
 #### Artículo 82
 
-Se denominará Servicio Local de Educación Pública de Maule Valle (en adelante también "Servicio Local de Maule Valle") al Servicio Local de Educación Pública de la Región del Maule señalado en el numeral 4. del artículo 6 del decreto N° 73, de 2018, del Ministerio de Educación.
+Suprimido.
 
 #### Artículo 83
 
-El ámbito de competencia territorial del Servicio Local de Maule Valle comprenderá las comunas de Talca, Maule, Pelarco, Pencahue, San Clemente, San Rafael y San Javier, y tendrá su domicilio en la comuna de Talca.
+Suprimido.
 
 #### Artículo 84
 
-El Servicio Local de Maule Valle iniciará sus funciones el día 1° de marzo de 2025.
+Suprimido.
 
 ## Título IX
 
@@ -562,19 +556,35 @@ El Servicio Local del Reloncaví iniciará sus funciones el día 1° de marzo de
 
 ## Título XI
 
-Suprimido.
+Del Servicio Local de Educación Pública de Chacabuco
 
 #### Artículo 91
 
-Suprimido.
+Se denominará Servicio Local de Educación Pública de Chacabuco (en adelante también "Servicio Local de Chacabuco") al Servicio Local de Educación Pública de la Región Metropolitana señalado en el numeral 4. del artículo 12 del decreto N° 73, de 2018, del Ministerio de Educación.
 
 #### Artículo 92
 
-Suprimido.
+El ámbito de competencia territorial del Servicio Local de Chacabuco comprenderá las comunas de Colina, Lampa y Tiltil y tendrá su domicilio en la comuna de Colina.
 
 #### Artículo 93
 
-Suprimido.
+El Servicio Local de Chacabuco iniciará sus funciones el día 30 de junio de 2025.
+
+## Título XII
+
+Del Servicio Local de Educación Pública de Los Viñedos
+
+#### Artículo 93 bis
+
+Se denominará Servicio Local de Educación Pública de Los Viñedos (en adelante también "Servicio Local de Los Viñedos") al Servicio Local de Educación Pública de la Región Metropolitana señalado en el numeral 12. del artículo 12 del decreto N° 73, de 2018, del Ministerio de Educación.
+
+#### Artículo 93 ter
+
+El ámbito de competencia territorial del Servicio Local de Los Viñedos comprenderá las comunas de Puente Alto, Pirque y San José de Maipo, y tendrá su domicilio en la comuna de Puente Alto.
+
+#### Artículo 93 quáter
+
+El Servicio Local de Los Viñedos iniciará sus funciones el día 30 de junio de 2025.
 
 ## Capítulo IV
 
@@ -614,35 +624,35 @@ El Servicio Local del Limarí iniciará sus funciones el día 1° de marzo de 20
 
 ## Título III
 
-Del Servicio Local de Educación Pública de Chacabuco
+Del Servicio Local de Educación Pública de Costa Colchagua
 
 #### Artículo 100
 
-Se denominará Servicio Local de Educación Pública de Chacabuco (en adelante también "Servicio Local de Chacabuco") al Servicio Local de Educación Pública de la Región Metropolitana señalado en el numeral 4. del artículo 12 del decreto N° 73, de 2018, del Ministerio de Educación.
+Se denominará Servicio Local de Educación Pública de Costa Colchagua (en adelante también "Servicio Local de Costa Colchagua") al Servicio Local de Educación Pública de la Región del Libertador General Bernardo O'Higgins señalado en el numeral 1. del artículo 5 del decreto N° 73, de 2018, del Ministerio de Educación.
 
 #### Artículo 101
 
-El ámbito de competencia territorial del Servicio Local de Chacabuco comprenderá las comunas de Colina, Lampa y Tiltil y tendrá su domicilio en la comuna de Colina.
+El ámbito de competencia territorial del Servicio Local de Costa Colchagua comprenderá las comunas de Chépica, Lolol, Palmilla, Peralillo, Pumanque y Santa Cruz, y tendrá su domicilio en la comuna de Santa Cruz.
 
 #### Artículo 102
 
-El Servicio Local de Chacabuco iniciará sus funciones el día 1° de marzo de 2026.
+El Servicio Local de Costa Colchagua iniciará sus funciones el día 1° de marzo de 2026.
 
 ## Título IV
 
-Del Servicio Local de Educación Pública de Los Viñedos
+Del Servicio Local de Educación Pública de Maule Valle
 
 #### Artículo 103
 
-Se denominará Servicio Local de Educación Pública de Los Viñedos (en adelante también "Servicio Local de Los Viñedos") al Servicio Local de Educación Pública de la Región Metropolitana señalado en el numeral 12. del artículo 12 del decreto N° 73, de 2018, del Ministerio de Educación.
+Se denominará Servicio Local de Educación Pública de Maule Valle (en adelante también "Servicio Local de Maule Valle") al Servicio Local de Educación Pública de la Región del Maule señalado en el numeral 4. del artículo 6 del decreto N° 73, de 2018, del Ministerio de Educación.
 
 #### Artículo 104
 
-El ámbito de competencia territorial del Servicio Local de Los Viñedos comprenderá las comunas de Puente Alto, Pirque y San José de Maipo, y tendrá su domicilio en la comuna de Puente Alto.
+El ámbito de competencia territorial del Servicio Local de Maule Valle comprenderá las comunas de Talca, Maule, Pelarco, Pencahue, San Clemente, San Rafael y San Javier, y tendrá su domicilio en la comuna de Talca.
 
 #### Artículo 105
 
-El Servicio Local de Los Viñedos iniciará sus funciones el día 1° de marzo de 2026.
+El Servicio Local de Maule Valle iniciará sus funciones el día 1° de marzo de 2026.
 
 ## Título V
 
@@ -935,6 +945,22 @@ El ámbito de competencia territorial del Servicio Local de Osorno comprenderá 
 #### Artículo 159
 
 El Servicio Local de Osorno iniciará sus funciones el día 1° de marzo de 2027.
+
+## Título XII
+
+Del Servicio Local de Educación Pública Manquehue
+
+#### Artículo 160
+
+Se denominará Servicio Local de Educación Pública Manquehue (en adelante también "Servicio Local Manquehue") al Servicio Local de Educación Pública de la Región Metropolitana señalado en el numeral 10. del artículo 12 del decreto N° 73, de 2018, del Ministerio de Educación.
+
+#### Artículo 161
+
+El ámbito de competencia territorial del Servicio Local Manquehue comprenderá las comunas de La Reina, Las Condes, Lo Barnechea, Providencia y Vitacura, y tendrá su domicilio en la comuna de Providencia.
+
+#### Artículo 162
+
+El Servicio Local Manquehue iniciará sus funciones el día 1° de marzo de 2027.
 
 #### Artículo transitorio
 
