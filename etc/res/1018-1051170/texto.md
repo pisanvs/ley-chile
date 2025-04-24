@@ -8,23 +8,25 @@ Que, acorde con lo previsto en el citado inciso segundo, del artículo 1º, del 
 
 Que, conforme a lo dispuesto en el artículo 3º, de Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, los Órganos de la Administración del Estado se encuentran obligados a observar, entre otros, los principios de eficiencia y eficacia.
 
-Que, en consecuencia, es preciso facilitar el expedito funcionamiento de las Intendencias y Gobernaciones, dado que aquél se podría ver entorpecido por la necesidad de resolver determinadas materias de ordinario acaecimiento, por parte de la Jefatura Superior del Servicio de Gobierno Interior.
+Que, en consecuencia, es preciso facilitar el expedito funcionamiento de las Intendencias y Delegaciones Presidenciales Provinciales, dado que aquél se podría ver entorpecido por la necesidad de resolver determinadas materias de ordinario acaecimiento, por parte de la Jefatura Superior del Servicio de Gobierno Interior.
 
-Que, lo señalado precedentemente se ve agudizado por la distancia geográfica que separa a las diversas Intendencias y Gobernaciones de esta Jefatura Superior.
+Que, lo señalado precedentemente se ve agudizado por la distancia geográfica que separa a las diversas Intendencias y Delegaciones Presidenciales Provinciales de esta Jefatura Superior.
 
-Que, a fin de asegurar los propósitos antes enunciados, es menester delegar en Intendentes Regionales y Gobernadores Provinciales determinadas atribuciones.
+Que, a fin de asegurar los propósitos antes enunciados, es menester delegar en Delegados Presidenciales Regionales y Delegados Presidenciales Provinciales determinadas atribuciones.
 
 Resuelvo:
 
-Primero: Deléganse en los Intendentes Regionales las siguientes atribuciones:
+Primero: Deléganse en los Delegados Presidenciales Regionales las siguientes atribuciones:
 
 ### 1. Responsabilidad Administrativa
 
-1.1) Ordenar la instrucción de sumarios administrativos e investigaciones sumarias, respecto de funcionarios con desempeño en las respectivas Intendencias Regionales y las Gobernaciones ubicadas dentro de la región en que ejercen sus funciones, con excepción de los Gobernadores Provinciales.
+1.1) Ordenar la instrucción de sumarios administrativos e investigaciones sumarias, respecto de funcionarios con desempeño en las respectivas Delegaciones Presidenciales Regionales y las Delegaciones Presidenciales Provinciales ubicadas dentro de la región en que ejercen sus funciones, con excepción de los Delegados Presidenciales Provinciales.
 
-1.2) Aplicar medidas disciplinarias respecto del personal a que se alude en el numeral precedente, en los mismos términos, con excepción de las medidas expulsivas.
+Sin perjuicio de lo anterior, esta delegación no comprenderá la instrucción de procedimientos disciplinarios por denuncias de acoso laboral, sexual o violencia en el trabajo, facultad que permanecerá radicada en la Jefatura Superior del Servicio.
 
-2. Vida Funcionaria, respecto de servidores con desempeño en la respectiva Intendencia Regional.
+1.2) Aplicar medidas disciplinarias respecto del personal a que se alude en el numeral precedente, en los mismos términos, con excepción de las medidas expulsivas y disponer el sobreseimiento de los procedimientos disciplinarios que los afecten, en los casos que corresponda.
+
+2. Vida Funcionaria, respecto de servidores con desempeño en la respectiva Delegación Presidencial Regional.
 
 2.1) Fijación de jornada laboral.
 
@@ -44,21 +46,19 @@ Primero: Deléganse en los Intendentes Regionales las siguientes atribuciones:
 
 2.9) Asignación de vivienda fiscal.
 
-2.10) Otorgamiento de asignaciones profesional y de pérdida de caja.
+2.10) Eliminado.
 
-### 3. Concursos Públicos
-
-3.1) Encomendamiento de funciones a servidores como encargados de personal, a fin de integrar las comisiones evaluadoras de los concursos públicos, realizados a fin de proveer cargos con desempeño en las respectivas Intendencias Regionales y en las Gobernaciones de la región en que ejercen sus funciones.
+### 3. Eliminado
 
 ### 4. Otros
 
-4.1) En relación con los Gobernadores Provinciales de la respectiva región, autorizar feriados y permisos con goce de remuneraciones. Asimismo, conceder todos los permisos relativos a las normas sobre protección de la maternidad, inclusive los permisos paternales por nacimiento, y aquellos a que se refiere el artículo 104 bis, del Estatuto Administrativo.
+4.1) En relación con los Delegados Presidenciales Provinciales de la respectiva región, autorizar feriados y permisos con goce de remuneraciones. Asimismo, conceder todos los permisos relativos a las normas sobre protección de la maternidad, inclusive los permisos paternales por nacimiento, y aquellos a que se refiere el artículo 104 bis, del Estatuto Administrativo.
 
-4.2) Disponer cometidos o comisiones de servicios dentro del territorio nacional, de los Gobernadores Provinciales de la pertinente región.
+4.2) Disponer cometidos o comisiones de servicios dentro del territorio nacional, de los Delegados Presidenciales Provinciales de la pertinente región.
 
-4.3) Autorizar la ejecución de prácticas profesionales en las respectivas Intendencias Regionales.
+4.3) Autorizar la ejecución de prácticas profesionales en las respectivas Delegaciones Presidenciales Regionales.
 
-Segundo: Deléganse en los Gobernadores Provinciales las siguientes atribuciones, respecto de servidores con desempeño en la respectiva Gobernación:
+Segundo: Deléganse en los Delegados Presidenciales Provinciales las siguientes atribuciones, respecto de servidores con desempeño en la respectiva Delegación Presidencial Provincial:
 
 1) Fijación de jornada laboral.
 
@@ -78,9 +78,9 @@ Segundo: Deléganse en los Gobernadores Provinciales las siguientes atribuciones
 
 9) Asignación de vivienda fiscal.
 
-10) Otorgamiento de asignaciones profesional y de pérdida de caja.
+10) Eliminado.
 
-11) Autorizar la ejecución de prácticas profesionales en las respectivas Gobernaciones Provinciales.
+11) Autorizar la ejecución de prácticas profesionales en las respectivas Delegaciones Presidenciales Provinciales.
 
 Anótese, tómese razón, comuníquese y publíquese.- Rodrigo Ubilla Mackenney, Subsecretario del Interior.
 
