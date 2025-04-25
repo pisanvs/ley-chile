@@ -34,23 +34,33 @@ Resuelvo:
 
 3. Para su ingreso al país, el envío deberá estar amparado por un Certificado Fitosanitario Oficial, emitido por la autoridad fitosanitaria del país de origen, en el que consten las siguientes declaraciones adicionales y requisitos:
 
-3.1 "El envío fue inspeccionado y se encuentra libre de Diaspis boisduvalii, Dysmicoccus brevipes, Dysmicoccus neobrevipes, Ferrisia virgata, Maconellicoccus hirsutus, Nipaecoccus nipae, Pseudococcus comstocki, Pseudococcus elisae, Pseudococcus jackbeardsleyi, Lissachatina fulica y Succinea spp.".
+3.1 "El envío fue inspeccionado y se encuentra libre de Dysmicoccus brevipes, Dysmicoccus neobrevipes, Ferrisia virgata, Maconellicoccus hirsutus, Nipaecoccus nipae, Pseudococcus comstocki, Pseudococcus elisae, Pseudococcus jackbeardsleyi, Lissachatina fulica y Succinea spp.".
 
 3.2 "El envío fue inspeccionado y se encuentra libre de Opogona sacchari.".
 
 Para otorgar esta declaración adicional, la inspección fitosanitaria de los envíos debe ser realizada por la ONPF del país exportador, considerando como lote para inspección los envíos realizados desde cada lugar de producción. De cada uno de estos lotes, se deberá inspeccionar una muestra del 2% de las cajas, cortando y trozando al menos 60 frutos (dedos), de la muestra.
 
-3.3 Para países con presencia de Bactrocera musae:
+3.3 Para Bactrocera spp.:
 
-"El envío fue producido en un área libre de Bactrocera musae, reconocida mediante resolución SAG.".
+3.3.1 Para países con presencia de Bactrocera musae:
 
-3.3 Para pa\ufffdses con presencia de especies de especies del género Bactrocera distintas a Bactrocera musae:
+"El envío fue producido en un área libre de Bactrocera musae, reconocida mediante resolución SAG".
 
-"El envío fue producido en un área libre de especies de Bactrocera spp reconocida mediante resolución SAG.".
+3.3.2 Para países con presencia de otras especies de Bactrocera, distintas a Bactrocera musae:
 
-o
+"El envío fue producido en un área libre de Bactrocera spp. (distintas a Bactrocera musae), reconocida mediante resolución SAG".
 
-"El envío fue producido en un país libre de Bactrocera musae y fue cosechado en grado de madurez verde duro".
+O bien,
+
+"El envío fue producido en un país libre de Bactrocera musae y cosechado en grado de madurez verde duro".
+
+3.3.3 Para países con presencia de la especie Bactrocera musae y otras Bactroceras.
+
+"El envío fue producido en un área libre de Bactrocera spp., reconocida mediante resolución SAG".
+
+O bien,
+
+"El envío fue producido en un área libre de Bactrocera musae, reconocida mediante resolución SAG" y cosechado en grado de madurez verde duro".
 
 3.4 En la emisión del Certificado Fitosanitario, y en las secciones correspondientes, deberán estar especificados los siguientes requisitos:
 
@@ -71,6 +81,8 @@ Alternativamente, la información referida al lugar de producción y de empacado
 5. Para el reconocimiento de áreas libres de Bactrocera spp, la Organización Nacional de Protección Fitosanitaria (ONPF) del país productor y exportador de frutos frescos de Musa spp, deberá presentar al SAG una solicitud oficial con el requerimiento. Su tramitación será realizada por el Servicio y seguirá los lineamientos dictados en la(s) Norma(s) Internacional(es) de Medidas Fitosanitarias de la CIPF, que correspondan.
 
 6. Previo al inicio de la primera temporada de exportaciones a Chile, el SAG en coordinación con la ONPF del país exportador, coordinarán la realización de una visita de inspectores del SAG al país productor con la finalidad de conocer el proceso de certificación oficial, lugares de producción y empacadoras. Los costos serán de cargo del interesado.
+
+Para los mercados con los cuales Chile ha mantenido un comercio histórico, considerando volumen y continuidad de envíos en los últimos años (Ecuador, Bolivia, Perú y Colombia), estas visitas se deberán programar con la respectiva ONPF, antes del 24 de julio de 2026. De no cumplir con este plazo, las importaciones quedarán suspendidas hasta que se realice la verificación in situ respectiva.
 
 Para los mercados con los cuales Chile ha mantenido un comercio histórico, considerando volumen y continuidad de envíos en los últimos 5 años (Ecuador, Bolivia, Perú y Colombia), estas visitas se programarán con la respectiva ONPF para realizarse en un plazo máximo de 3 años a partir de la entrada en vigencia de esta resolución.
 
@@ -103,6 +115,10 @@ El sello o precinto deberá llegar intacto a Chile, en caso contrario será caus
 14. Ante la detección de cualquier estado de desarrollo vivo o muerto de Bactrocera spp. en las inspecciones que efectúe el SAG en los puntos de ingreso a Chile, la ONPF del país exportador y SAG evaluarán la suspensión transitoria del Programa de Exportaciones de bananos a Chile, en el caso que los frutos procedan de áreas libres. SAG evaluará la situación y se implementarán las medidas adicionales que sean necesarias, antes de que se puedan reanudar las exportaciones, si así corresponde.
 
 La detección de un insecto cuarentenario vivo, listado en la resolución Nº 3.080, y sus modificaciones, o ausente potencialmente cuarentenario vivo, distinto a los regulados en la presente resolución, será motivo de rechazo del envío o, si es factible técnica y operativamente, la aplicación de una medida para eliminar la causal de rechazo o reexportación. Cualquier situación de incumplimiento a la presente resolución, detectada en el punto de ingreso a Chile, diferente a lo antes mencionado, será informada a la ONPF del país exportador para su corrección. La recurrencia en la detección de anomalías será motivo de rechazo y suspensión de las importaciones de los frutos frescos de Musa spp. desde el país involucrado, conllevando a una reevaluación de los requisitos fitosanitarios.
+
+Ante la detección de cualquier estado de desarrollo vivo de insectos de las familias Pseudococcidae y Diaspididae en las inspecciones que efectúe el SAG en los puntos habilitados de ingreso a Chile, se podrá aplicar una medida fitosanitaria, siempre y cuando, se determine que la aplicación del tratamiento es factible desde el punto de vista técnico y operativo.
+
+No obstante lo anterior, en aquellos casos que se detecte de forma reiterada la presencia de estos insectos en envíos procedentes del mismo origen, este Servicio no autorizará la aplicación de ninguna medida fitosanitaria en los puntos de ingreso habilitados, procediéndose al rechazo del envío. Además, se efectuarán las correspondientes notificaciones de no cumplimiento, con el fin de alertar sobre la situación de intercepciones reiteradas y facilitar la adopción de las medidas correctivas pertinentes, para así, evitar restricciones comerciales que pudieran comprometer las exportaciones a Chile.
 
 15. El SAG podrá efectuar auditorías y supervisiones al Programa de Exportaciones de Frutos Frescos de Musa spp. a Chile, si así lo estima conveniente, comunicando y coordinando en forma oportuna a la ONPF del país exportador. Se considerará un plazo mínimo de 30 días para dar aviso, antes a la fecha de la actividad. Los costos de las actividades deberán ser financiados por la parte exportadora.
 
