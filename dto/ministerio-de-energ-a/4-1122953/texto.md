@@ -136,8 +136,6 @@ Se entenderá por demanda máxima de potencia leída del mes, el más alto valor
 
 La demanda máxima de potencia de cada hora corresponderá al máximo valor de los registros leídos que se encuentren dentro de ésta.
 
-.
-
 6.1.2 Peaje DX-BT
 
 Opción tarifaria en baja tensión. Los clientes deberán contar con al menos medición de energía, de la demanda máxima de potencia leída en horas de punta y demanda máxima de potencia suministrada con resolución cada 15 minutos o inferior y memoria masa para su registro.
@@ -145,8 +143,6 @@ Opción tarifaria en baja tensión. Los clientes deberán contar con al menos me
 Se entenderá por demanda máxima de potencia leída del mes, el más alto valor de las demandas integradas en periodos sucesivos de 15 minutos.
 
 La demanda máxima de potencia de cada hora corresponderá al máximo valor de los registros leídos que se encuentren dentro de ésta.
-
-.
 
 6.2 CARGOS TARIFARIOS
 
@@ -184,11 +180,11 @@ La demanda máxima de potencia de cada hora corresponderá al máximo valor de l
 
 6.3.1 Precios de nudo
 
-Pe: Precio de nudo equivalente de energía. Corresponde al precio de nudo de energía a nivel de distribución aplicable a cada concesionario, conforme a lo establecido en los decretos de precios de nudo promedio vigentes.
+Pe: Precio de nudo equivalente de energía. Corresponde al precio de nudo de energía a nivel de distribución aplicable a cada concesionario, conforme a lo establecido en los decretos de precios de nudo promedio vigentes, sin considerar el cargo al que se refiere el artículo 9° de la ley N° 21.472, en adelante "Cargo MPC", establecido en el decreto vigente de precios de nudo promedio, al que se refiere el artículo 158° de la Ley General de Servicios Eléctricos.
 
 Pp: Precio de nudo equivalente de potencia. Corresponde al precio de nudo de potencia a nivel de distribución aplicable a cada concesionario, conforme a lo establecido en los decretos de precios de nudo promedio vigentes, incorporando el efecto de las diferencias en las compras de potencia que surjan producto de la aplicación del decreto supremo N° 62, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba el reglamento de transferencia de potencia entre empresas generadoras establecidas en la Ley General de Servicios Eléctricos, en los respectivos decretos de precios de nudo, en relación a la cantidad de demandas máximas a considerar en las mencionadas compras, en consistencia con lo dispuesto en el decreto que fija fórmulas tarifarias aplicables a los suministros sujetos a precios regulados efectuados por las empresas concesionarias de distribución, que se encuentre vigente, debidamente indexado.
 
-Pe s/e: Precio de nudo de energía a la entrada del sistema de distribución, en la subestación que alimenta al cliente, incorporando los ajustes para la aplicación del artículo 157° de la ley conforme lo fijado en el decreto que fija precios de nudo promedio, para la comuna correspondiente. Se expresa en $/kWh.
+Pe s/e: Precio de nudo de energía a la entrada del sistema de distribución, en la subestación que alimenta al cliente, incorporando los ajustes para la aplicación del artículo 157° de la Ley General de Servicios Eléctricos y los ajustes que se apliquen a efectos de lo indicado en el inciso segundo del artículo séptimo transitorio de la Ley N° 21.667, conforme lo fijado en el decreto que fija precios de nudo promedio, para la comuna correspondiente. Además, no se deberá considerar el Cargo MPC, establecido en el decreto vigente de precios de nudo promedio, al que se refiere el artículo 158° de la Ley General de Servicios Eléctricos. Se expresa en $/kWh.
 
 Pp s/e: Precio de nudo de potencia a la entrada del sistema de distribución, en la subestación que alimenta al cliente, incorporando el efecto de las diferencias en las compras de potencia que surjan producto de la aplicación del decreto supremo N° 62, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba el reglamento de transferencias de potencia entre empresas generadoras establecidas en la Ley General de Servicios Eléctricos, en los respectivos decretos de precios de nudo, en relación a la cantidad de demandas máximas a considerar en las mencionadas compras, en consistencia con lo dispuesto en el decreto que fija fórmulas tarifarias aplicables a los suministros sujetos a precios regulados efectuados por las empresas concesionarias de distribución, que se encuentre vigente, debidamente indexado. Se expresa en $/kW/mes.
 
@@ -230,7 +226,23 @@ PEBT : Factor de expansión de pérdidas de energía en baja tensión.
 
 PMPBT: Factor de expansión de pérdidas de potencia en baja tensión en horas de máxima utilización del sistema de distribución.
 
-Con excepción de los precios de nudo Pe y Pp, cuyo valor se determina conforme se establezca en el decreto de precio de nudo promedio que se encuentre vigente, el resto de los parámetros se obtiene directamente de la aplicación del decreto cuadrienal que establezca las fórmulas tarifarias aplicables a los clientes sujetos a regulación de precios de las empresas concesionarias, que se encuentre vigente.
+6.3.6 Cargo MPC:
+
+CMPC: Cargo MPC establecido en el decreto vigente de precios de nudo promedio, al que se refiere el artículo 158° de la ley. Los Cargos MPC a utilizar para el cálculo de los Peajes de Distribución serán informados por la Comisión en la resolución exenta que fija el listado de precios de energía y potencia de las subestaciones de distribución primarias del Sistema Eléctrico Nacional, cada vez que se publique en el Diario Oficial un decreto de precios de nudo promedio referido en el artículo 158° de la ley.
+
+6.3.7 Factor de participación del Mecanismo de Protección al Cliente:
+
+r: Factor de participación del Mecanismo de Protección al Cliente, el cual se determina de conformidad a lo siguiente:
+
+. Para aquellos clientes que hubieren optado por cambiar del régimen sujeto a regulación de precios al régimen de precios libres entre la publicación en el Diario Oficial de la Ley N° 21.185 y el 1 de agosto de 2022, el factor r será igual a 1 (uno) hasta el 31 de diciembre de 2027.
+
+. Para aquellos clientes que hubieren optado por cambiar del régimen sujeto a regulación de precios al régimen de precios libres entre el 2 de agosto de 2022 y el 31 de diciembre de 2035, el factor r será igual a 1 (uno) hasta el 31 de diciembre de 2035.
+
+. Para el resto de los clientes no sujetos a regulación de precios este factor será 0 (cero).
+
+Este valor se aplicará con independencia de los rangos de consumo correspondientes a clientes sujetos a regulación de precios, de acuerdo a lo definido en el artículo 3° de la Ley N° 21.472 y las modificaciones introducidas por la Ley N° 21.667.
+
+Con excepción de los precios de nudo Pe y Pp, y el Cargo MPC, cuyos valores se determinan conforme se establezca en el decreto de precio de nudo promedio que se encuentre vigente, el resto de los parámetros se obtiene directamente de la aplicación del decreto cuadrienal que establezca las fórmulas tarifarias aplicables a los clientes sujetos a regulación de precios de las empresas concesionarias, que se encuentre vigente.
 
 7. CONDICIONES DE APLICACIÓN DE LAS TARIFAS DE PEAJES DE DISTRIBUCIÓN
 
@@ -355,6 +367,12 @@ Los factores de coincidencia señalados en el numeral 6, corresponden a los apli
 8.4 FACTORES DE EXPANSIÓN DE PÉRDIDAS
 
 Los factores de expansión de pérdidas señalados en el numeral 6, serán los aplicables a clientes regulados de la misma área típica en que se clasifica la empresa concesionaria que presta el servicio de transporte, y conforme se establecen en el decreto vigente que fija fórmulas tarifarias aplicables a los suministros sujetos a precios regulados efectuados por las empresas concesionarias de servicio público de distribución.
+
+8.5 CARGO AL QUE SE REFIERE EL ARTÍCULO 9° DE LA LEY N° 21.472
+
+El Cargo MPC a que se refiere el artículo 9° de la Ley N° 21.472, será aplicable para aquellos clientes sometidos a regulación de precios que hubieren optado a cambiar al régimen de precios libres, desde la fecha de publicación de la Ley N° 21.185. De conformidad a lo dispuesto en la Ley N° 21.185, en la Ley N° 21.472, en la Ley N° 21.667, en el decreto supremo N° 49, de 2023, del Ministerio de Hacienda y en la resolución exenta N° 334, de 2023, de la Comisión Nacional de Energía, dichos clientes, incluidos en un registro elaborado para tales efectos por parte de la empresa concesionaria de distribución, deberán participar de este mecanismo de estabilización en igualdad de condiciones con el resto de los clientes regulados y en igualdad de condiciones entre tales clientes libres, a través de una componente específica que se adicionará al peaje de distribución, correspondiente al Cargo MPC fijado mediante el decreto de precio de nudo promedio al que se refiere el artículo 158° de la ley.
+
+Aquellos clientes identificados en el referido registro que hubieren optado por cambiar al régimen de precios libres entre la publicación en el Diario Oficial de la Ley N° 21.185 y el 1 de agosto de 2022, deberán concurrir al pago del Cargo MPC hasta el 31 de diciembre de 2027, mientras que los demás clientes del referido registro concurrirán al pago del referido cargo hasta el 31 de diciembre de 2035.
 
 9. INFORMACIÓN DE PEAJES DE DISTRIBUCIÓN
 
