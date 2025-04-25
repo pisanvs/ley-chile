@@ -546,19 +546,27 @@ De las Patentes Rebajadas
 
 Los titulares de pertenencias podrán optar a la patente de un décimo de unidad tributaria mensual por hectárea establecida en el artículo 142 bis del Código, siempre y cuando logren acreditar que se encuentran en alguna de las siguientes hipótesis:
 
+&nbsp;
+
 a) Trabajo efectivo de la concesión: Aquellas concesiones en las que se realicen actividades, trabajos u obras que de modo permanente y continuo permitan el desarrollo de operaciones mineras, entendiéndose por tales a las que se refiere la letra l) del artículo 3 de la ley N° 20.551, que Regula el Cierre de Faenas e Instalaciones Mineras, incluidas aquellas que derivan del cumplimiento de un plan de cierre de faenas mineras.
 
 b) Proyecto minero que cuente con Resolución de Calificación Ambiental favorable o en trámite: Aquellas concesiones que, sin estar en la hipótesis precedente, se encuentren contenidas en un proyecto de desarrollo minero con Resolución de Calificación Ambiental favorable o que haya sido admitido a tramitación en el Sistema de Evaluación de Impacto Ambiental.
 
 c) Proyectos asociados al Título XV del Reglamento de Seguridad Minera: Aquellas concesiones que, sin estar en alguna de las hipótesis precedentemente expuestas, se encuentren tramitando alguno de los permisos establecidos en el Título XV del Reglamento de Seguridad Minera.
 
+&nbsp;
+
 Para efectos de acreditar que las pertenencias se encuentran en alguna de las hipótesis señaladas anteriormente, el solicitante deberá acompañar los antecedentes que a continuación se indican, según corresponda:
+
+&nbsp;
 
 i. Documentos mínimos para cada solicitud:
 
+&nbsp;
+
 - Formulario dispuesto en el sitio web institucional del Servicio, el que será aprobado mediante resolución del Servicio.
 
-- Certificado de dominio vigente de la(s) concesión(es) de una antigüedad no mayor a tres meses.
+- Certificado de dominio vigente de la(s) concesión(es) de una antigüedad no mayor a tres meses. En caso de que la(s) concesión(es) estén registradas en el Registro Nacional al que se refiere el artículo 241 del Código de Minería y estén a nombre del solicitante, bastará con que se acompañe a la solicitud una declaración jurada simple acerca del dominio de la(s) concesión(es).
 
 - Comprobante de pago de patente minera correspondiente al año de la postulación, emitido por Tesorería General de la República.
 
@@ -566,9 +574,11 @@ i. Documentos mínimos para cada solicitud:
 
 - Personería o representación jurídica, si correspondiere.
 
-- Copia del contrato de arrendamiento, si corresponde, el cual deberá ser otorgado ante ministro de fe e identificar claramente las pertenencias que abarca.
+- Copia del contrato de arrendamiento, si corresponde, el cual deberá identificar claramente las pertenencias que abarca.
 
 - Croquis o plano legible en el cual se indiquen su escala gráfica; las concesiones cubiertas por la solicitud, individualizadas con su rol; la ubicación de las instalaciones y lugares de trabajo que forman parte del proyecto; y un cuadro resumen con las coordenadas de las instalaciones indicadas anteriormente.
+
+&nbsp;
 
 ii. Para acreditar la hipótesis del literal a) de este artículo, el solicitante deberá presentar una(s) resolución(es) vigente(s) dictada(s) por el Servicio que apruebe(n) el proyecto minero, la declaración minera, el método de explotación y/o tratamiento de minerales, la disposición de residuos masivos mineros y/o el plan de cierre.
 
@@ -628,9 +638,11 @@ Las reclamaciones deberán ser presentadas a través de la plataforma que el Ser
 
 Para acceder al beneficio contemplado en el artículo 142 ter del Código, el solicitante deberá acompañar los antecedentes que a continuación se indican:
 
+&nbsp;
+
 - Formulario dispuesto en el sitio web institucional del Servicio, el que será aprobado mediante resolución del Servicio.
 
-- Certificado dominio vigente de la(s) concesión(es) minera(s) de una antigüedad no mayor a tres meses.
+- Certificado dominio vigente de la(s) concesión(es) minera(s) de una antigüedad no mayor a tres meses. En caso de que la(s) concesión(es) estén registradas en el Registro Nacional al que se refiere el artículo 241 del Código de Minería y estén a nombre del solicitante, bastará con que se acompañe a la solicitud una declaración jurada simple acerca del dominio de la(s) concesión(es).
 
 - Comprobante de pago de patente minera, correspondiente al año de la solicitud, emitido por Tesorería General de la República.
 
@@ -638,9 +650,9 @@ Para acceder al beneficio contemplado en el artículo 142 ter del Código, el so
 
 - Personería o representación Jurídica, si correspondiere.
 
-- Copia del contrato de arrendamiento, si corresponde, el cual deberá ser otorgado ante ministro de fe e identificar claramente las pertenencias que abarca.
+- Copia del contrato de arrendamiento, si corresponde, el cual deberá identificar claramente las pertenencias que abarca.
 
-- Resolución(es) vigente(s) dictada(s) por el Servicio que apruebe(n) el proyecto minero, la declaración minera, el método de explotación y/o tratamiento de minerales, la disposición de residuos masivos mineros y/o el plan de cierre.".
+- Resolución(es) vigente(s) dictada(s) por el Servicio que apruebe(n) el proyecto minero, la declaración minera, el método de explotación y/o tratamiento de minerales, la disposición de residuos masivos mineros y/o el plan de cierre.
 
 El solicitante deberá postular a este beneficio en los plazos y conforme al procedimiento establecido en los artículos 53 y siguientes de este Reglamento. El Servicio deberá informar a la Tesorería General de la República, en el mismo plazo señalado en el artículo 56 y en una nómina distinta, las pertenencias que gozan de este beneficio.
 

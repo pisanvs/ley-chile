@@ -90,15 +90,13 @@ Podrán también acceder al beneficio de la patente especial, las personas natur
 
 Para acceder al beneficio de que trata este título, las personas mencionadas en el artículo anterior deberán cumplir, además, con los siguientes requisitos:
 
-a) Acreditar fehacientemente el arrendamiento de las pertenencias. Para esto, bastará que el contrato se otorgue por escrito, con las firmas del arrendatario y arrendador autorizadas por un notario.
+a) Acreditar fehacientemente el arrendamiento de las pertenencias. Para esto, bastará que el contrato se otorgue por escrito, con las firmas del arrendatario y arrendador.
 
 b) Acreditar que el arrendamiento tendrá una vigencia suficiente para cubrir los dos periodos anuales de amparo de la o las pertenencias por las que se impetra el beneficio.
 
 c) Dejar constancia que, durante la vigencia del contrato respectivo, el pago de la patente minera será de cargo del arrendatario, en los términos y para los efectos establecidos en el inciso final del artículo 164 del Código de Minería.
 
-d) Singularizar inequívocamente la o las
-
-pertenencias en que se ubique la faena que constituye la explotación.
+d) Singularizar inequívocamente la o las pertenencias en que se ubique la faena que constituye la explotación.
 
 #### Artículo séptimo
 
@@ -133,6 +131,8 @@ d. Que no se incurre en la prohibición establecida en el inciso 4º del artícu
 e. Que la persona natural, los socios o cooperados, según el caso, trabajan personalmente en la faena que constituye la explotación.
 
 3. Un certificado de dominio vigente emitido por el Conservador de Minas respectivo, en el cual conste que la o las pertenencias que el solicitante desea amparar con la patente especial se encuentran inscritas a su nombre o del arrendador, en su caso. Dicho certificado no podrá tener una antigüedad superior a 3 meses contados desde su expedición.
+
+En caso de que la o las pertenencias estén registradas en el Registro Nacional al que se refiere el artículo 241 del Código de Minería y estén a nombre del solicitante o del arrendador, según el caso, bastará con que se acompañe a la solicitud una declaración jurada simple acerca del dominio de la o las pertenencias.
 
 4. En el caso de los arrendatarios que deseen impetrar el beneficio de la patente especial, el contrato de arrendamiento, en el cual conste el cumplimiento de los requisitos exigidos por la ley 19.719 y este Reglamento.
 
