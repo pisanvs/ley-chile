@@ -58,7 +58,7 @@ No será causal de reclamo, la impugnación de los actos o convenios a que se re
 
 El decreto que declara una población en situación irregular deberá inscribirse, a requerimiento de cualquiera persona o de oficio por los Conservadores de Bienes Raíces, en el Registro de Interdicciones y Prohibiciones de Enajenar del Conservador de Bienes Raíces respectivo. Con el solo mérito de dicha inscripción, se entenderán embargadas, para todos los efectos legales, el inmueble en que se encuentra ubicada la población, los bienes destinados a su uso y beneficio y todos los demás destinados a las obras de urbanización.
 
-La Corporación de Servicios Habitacionales tendrá, por el solo ministerio de la ley, la calidad de depositaria de los bienes embargados y podrá requerir directamente del Intendente o Gobernador respectivo el auxilio de la fuerza pública para el mejor desempeño de su función.
+El Servicio de Vivienda y Urbanización tendrá, por el solo ministerio de la ley, la calidad de depositario de los bienes embargados y podrá requerir directamente del delegado presidencial regional o provincial respectivo el auxilio de la fuerza pública para el mejor desempeño de su función. En caso de hechos que revistan las características del delito de usurpación, cualquier persona podrá hacer la denuncia ante Carabineros de Chile, la Policía de Investigaciones de Chile, los tribunales con competencia penal o ante el Ministerio Público, sin que sea exigible la exhibición del título de dominio respectivo.
 
 Hay objeto ilícito en la enajenación de los bienes embargados de conformidad con lo dispuesto en el inciso 1° a menos que el Juez o la Corporación de Servicios Habitacionales lo autoricen.
 
@@ -506,6 +506,14 @@ c) Cuando el Presidente de la República determine, por decreto fundado, que la 
 
 Se declaren también de utilidad pública y se autoriza a las mismas entidades para expropiar los inmuebles en que se hubieren construido barrios, poblaciones, villorrios o aldeas por personas distintas del propietario del suelo.
 
+#### Artículo 51 bis
+
+Decláranse de utilidad pública el o los inmuebles disponibles pertenecientes a la población declarada en situación irregular que sean indispensables para el cumplimiento de los programas de construcción, alteración o reparación de viviendas de interés público, equipamiento comunitario, obras de infraestructura y remodelaciones que apruebe el Ministerio de Vivienda y Urbanismo, incluidos los inmuebles destinados a áreas verdes y parques industriales contemplados en los planes reguladores. Para lo anterior, deberá observarse lo establecido en el artículo 51 de la ley Nº 16.391.
+
+Para estos efectos, se entenderán disponibles los sitios que no hayan sido enajenados en virtud del artículo 25. Si existe resolución administrativa, de acuerdo al artículo 30, podrá procederse a la expropiación cuando hayan transcurrido diez años o más desde la fecha de su dictación sin que se haya firmado la escritura y entregado el título de dominio respectivo. En este último caso, se entenderá que no es posible continuar con el procedimiento de escrituración que permita la constitución del título definitivo de dominio en favor de los pobladores por el hecho sobreviniente del transcurso del tiempo, volviendo inútil el acto para las finalidades propias de la ley. El expropiado o su sucesión, si corresponde, mantendrán la calidad de loteadores conforme con los términos y para los efectos de esta ley.
+
+Para la expropiación de lotes no disponibles regirán las normas generales establecidas en el ordenamiento jurídico vigente.
+
 #### Artículo 52°
 
 Para determinar el monto de la indemnización que corresponde al expropiado, se aplicarán las siguientes reglas:
@@ -533,6 +541,12 @@ Las sumas así revalorizadas, serán las que en definitiva se deduzcan del aval�
 #### Artículo 55°
 
 Perfeccionada la expropiación, la entidad expropiante venderá el sitio respectivo a cada uno de los pobladores que acrediten derechos, de acuerdo con las normas de los Párrafos IV y V del Título anterior, en cuanto sean aplicables.
+
+El monto de la indemnización subrogará al bien expropiado para todos los efectos legales.
+
+#### Artículo 55 bis
+
+En todo lo no regulado en este Título regirán las normas generales aplicables al procedimiento de expropiación, conforme con el ordenamiento jurídico vigente.
 
 ## Título V
 
@@ -635,6 +649,10 @@ Igual pena se aplicará al que incurra en tales actos para adquirir un sitio o v
 #### Artículo 71°
 
 Para todos los efectos de esta ley, las adquisiciones que efectúe la mujer casada se presume de derecho realizadas dentro de su peculio profesional, aunque ello no se haya acreditado en la forma que exige el artículo 150° del Código Civil".
+
+#### Artículo 72
+
+El Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, impartirá las instrucciones para la aplicación de las disposiciones de esta ley en aquellas materias que sean de su competencia, mediante circulares.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, publíquese y llévese a efecto como ley de la República.
 

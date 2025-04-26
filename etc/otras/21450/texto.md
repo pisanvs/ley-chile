@@ -224,7 +224,7 @@ De la habilitación normativa de terrenos
 
 #### Artículo 3
 
-El Ministerio de Vivienda y Urbanismo, atendida la necesidad de viabilizar la construcción de viviendas para beneficiarios del programa Fondo Solidario de Elección de Vivienda o del programa destinado preferentemente a las familias más vulnerables que lo reemplace, podrá establecer normas urbanísticas especiales aplicables a uno o más terrenos, en forma excepcional y dando cumplimiento a lo dispuesto en este Párrafo y en las normas reglamentarias que pudieren dictarse al efecto. Adicionalmente, el Ministerio podrá establecer normas urbanísticas especiales para el o los terrenos destinados a la construcción de viviendas de interés público.
+El Ministerio de Vivienda y Urbanismo, atendida la necesidad de viabilizar la construcción de viviendas para beneficiarios del programa Fondo Solidario de Elección de Vivienda o del programa destinado preferentemente a las familias más vulnerables que lo reemplace, podrá establecer normas urbanísticas especiales aplicables a uno o más terrenos, en forma excepcional y dando cumplimiento a lo dispuesto en este Párrafo y en las normas reglamentarias que pudieren dictarse al efecto. Adicionalmente, el Ministerio podrá establecer normas urbanísticas especiales para el o los terrenos destinados a la construcción de viviendas de interés público y el equipamiento de clase comercio, culto y cultura, seguridad, deporte, educación o salud necesario para asegurar la integración en la ciudad y una adecuada relación con el entorno urbano de las familias beneficiadas por dichos proyectos.
 
 Este mecanismo excepcional sólo podrá ser aplicado respecto de terrenos que se encuentren inscritos a nombre del Servicio Regional de Vivienda y Urbanización respectivo o de otro órgano que integre la Administración del Estado.
 
@@ -232,13 +232,15 @@ También podrá aplicarse respecto de terrenos sobre los cuales exista una prome
 
 Respecto de terrenos de propiedad de un comité de vivienda, entidad o grupo organizado o sobre los cuales exista una promesa de compraventa en favor de éstos, en ambos casos inscritos o firmadas con anterioridad a la entrada en vigencia de esta ley, excepcionalmente podrá aplicarse el mecanismo contemplado en este Párrafo, previa calificación del Servicio Regional de Vivienda y Urbanización.
 
-En todos los casos referidos en los incisos precedentes, las normas urbanísticas especiales que se establezcan para el o los terrenos sólo podrán ser aplicadas para la construcción del o los proyectos acogidos al referido programa o para la construcción del o los proyectos de viviendas de interés público que justificaron el uso de esta facultad excepcional y no para la ejecución de proyectos que tengan un objeto distinto.
+En todos los casos referidos en los incisos precedentes, las normas urbanísticas especiales que se establezcan para el o los terrenos sólo podrán ser aplicadas para la construcción del o los proyectos acogidos al referido programa o para la construcción del o los proyectos de viviendas de interés público o equipamiento que justificaron el uso de esta facultad excepcional y no para la ejecución de proyectos que tengan un objeto distinto.
 
 #### Artículo 4
 
 Corresponderá a las Secretarías Regionales Ministeriales de Vivienda y Urbanismo elaborar la propuesta de normas urbanísticas especiales aplicables a uno o más terrenos, de oficio o a solicitud del Servicio Regional de Vivienda y Urbanización respectivo o del órgano o servicio público propietario del predio.
 
-Para determinar la pertinencia de elaborar una propuesta de normas urbanísticas especiales, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá verificar que se trate de proyectos que puedan contribuir a la integración de las familias en la ciudad y generar una adecuada relación con el entorno urbano, junto con ponderar las dificultades técnicas que pudiere presentar la ejecución de dichos proyectos, tales como la necesidad de efectuar obras extraordinarias de urbanización o de mitigación de riesgos. Lo anterior, sin perjuicio de los criterios y límites que en esta materia pudiere establecer la Ordenanza General, relativos a los estándares urbanos, de sustentabilidad y de integración social mínimos que deberán cumplir estos terrenos para poder aplicar este mecanismo.
+Para determinar la pertinencia de elaborar una propuesta de normas urbanísticas especiales, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá verificar que se trate de proyectos que puedan contribuir a la integración de las familias en la ciudad y generar una adecuada relación con el entorno urbano, junto con ponderar las dificultades técnicas que pudiere presentar la ejecución de dichos proyectos, tales como la necesidad de efectuar obras extraordinarias de urbanización o de mitigación de riesgos. Lo anterior, sin perjuicio de la posibilidad de establecer normas urbanísticas especiales para la construcción de equipamientos, y de los criterios y límites que en esta materia pudiere establecer la Ordenanza General, relativos a los estándares urbanos, de sustentabilidad y de integración social mínimos que deberán cumplir estos terrenos para poder aplicar este mecanismo.
+
+Cuando se requiera establecer normas urbanísticas especiales para la construcción del equipamiento necesario a fin de asegurar la integración social y urbana de las familias, la respectiva Secretaría Regional Ministerial deberá verificar que dichos proyectos cuenten con el financiamiento y la programación necesarios para que su construcción y puesta en operación sea de manera previa o simultánea a la construcción y recepción definitiva de los proyectos de vivienda de interés público, con el objeto de no producir o consolidar situaciones de segregación, déficit o baja disponibilidad de equipamiento.
 
 #### Artículo 5
 
@@ -246,7 +248,7 @@ La propuesta que elabore la Secretaría Regional Ministerial de Vivienda y Urban
 
 Si el o los terrenos se encuentran dentro del territorio operacional de una empresa sanitaria, bastará con el certificado emitido por ésta en que conste que el proyecto cuenta con factibilidad sanitaria. Si el terreno se encuentra fuera del territorio operacional, bastará con acompañar el convenio suscrito con un concesionario, en el que conste el compromiso de presentar una solicitud de nueva concesión o de ampliación de la existente, conforme a lo establecido en la Ley General de Servicios Sanitarios.
 
-En lo que respecta a la conectividad vial, deberá precisarse en el diagnóstico que el o los terrenos cuentan o podrían contar con acceso a través de una vía pública, existente o proyectada, e indicarse su categoría y el ancho entre líneas oficiales.
+En lo que respecta a la conectividad vial, deberá precisarse en el diagnóstico que el o los terrenos cuentan o podrían contar con acceso a través de una vía pública, existente o proyectada, que factibilizará la ejecución del o los proyectos que se habilitan, e indicarse su categoría y el ancho entre líneas oficiales. En el caso de equipamientos éstos deberán cumplir con las normas generales aplicables según su escala o nivel en lo relativo a su carga de ocupación y ubicación respecto de la categoría de la vía que enfrentan.
 
 No podrá aplicarse este mecanismo excepcional de establecimiento de normas urbanísticas especiales respecto de terrenos que, conforme al artículo 60 de la Ley General de Urbanismo y Construcciones, se encuentren emplazados en zonas no edificables, ni en Zonas Típicas o en Zonas de Conservación Histórica. En caso que se encuentren emplazados en áreas de riesgo o en áreas de protección, identificadas como tales en el respectivo instrumento de planificación territorial, deberán incluirse en el diagnóstico todos los antecedentes relacionados con dicha condición, con el objeto de contar con la información necesaria para determinar las medidas de subsanación, mitigación o resguardo, referidas en el artículo siguiente.
 
@@ -254,9 +256,9 @@ No podrá aplicarse este mecanismo excepcional de establecimiento de normas urba
 
 A partir de la identificación de los elementos de diagnóstico señalados en el artículo precedente, la Secretaría Regional Ministerial de Vivienda y Urbanismo elaborará la propuesta específica de normas urbanísticas especiales aplicables a uno o más terrenos.
 
-En cuanto al contenido de la propuesta de normas urbanísticas especiales, se deberá incluir el correspondiente cuadro normativo aplicable al uso de suelo residencial que tendrán el o los terrenos, en el que al menos se deberá identificar la densidad bruta, la altura máxima de edificación y el coeficiente de constructibilidad aplicables.
+En cuanto al contenido de la propuesta de normas urbanísticas especiales, se deberá incluir el correspondiente cuadro normativo aplicable al uso de suelo residencial o equipamiento que tendrán el o los terrenos, en el que al menos se deberá identificar la densidad bruta, la altura máxima de edificación y el coeficiente de constructibilidad aplicables.
 
-En cuanto a la expresión gráfica de la propuesta de normas urbanísticas especiales, no se requerirá la presentación de un plano detallado del o los proyectos que allí podrían ejecutarse, sino únicamente un esquema general, en el que se presenten las posibles tipologías de edificaciones que podrían incluirse en el terreno y su potencial volumetría, así como las superficies que podrían destinarse al uso residencial, a equipamiento comunitario, a área verde o a otros espacios públicos o de uso común.
+En cuanto a la expresión gráfica de la propuesta de normas urbanísticas especiales, no se requerirá la presentación de un plano detallado del o los proyectos que allí podrían ejecutarse, sino únicamente un esquema general, en el que se presenten las posibles tipologías de edificaciones que podrían incluirse en el terreno y su potencial volumetría, así como las superficies que podrían destinarse al uso residencial, a equipamiento, a área verde o a otros espacios públicos o de uso común.
 
 Si las características del o los terrenos lo requieren, en el esquema general también deberán presentarse las características de las posibles nuevas vías o circulaciones y sus conexiones con las existentes, así como la presentación preliminar y esquemática de las medidas para subsanar o mitigar los efectos de las áreas de riesgo y/o para resguardar los valores y atributos protegidos por las áreas de protección.
 
@@ -407,6 +409,28 @@ Tratándose de proyectos habitacionales que postulen a los programas habitaciona
 Los revisores independientes de obras de edificación se regirán además por las disposiciones contenidas en la ley N° 20.071, que crea y regula el Registro Nacional de Revisores Independientes de Obras de Edificación y su reglamento. Los revisores de cálculo estructural se regirán igualmente por la ley N° 19.748, que crea y regula el Registro Nacional de Revisores de Cálculo Estructural y su reglamento. En ambos casos, serán aplicables las sanciones correspondientes en caso de errores e infracciones derivadas de la elaboración de los informes señalados.
 
 #### Artículo 28
+
+Los poseedores materiales de bienes raíces urbanos o rurales en los cuales se ejecuten proyectos que formen parte del Plan de Emergencia Habitacional podrán solicitar al Ministerio de Bienes Nacionales la regularización de sus deslindes y el reconocimiento de la calidad de poseedores regulares de aquella superficie que no se encuentra amparada en la respectiva inscripción conservatoria de acuerdo con la normativa y el procedimiento establecido en el decreto ley Nº 2.695, de 1979, en lo que fuera procedente.
+
+Lo anterior, siempre que se dé cumplimiento a los siguientes requisitos mínimos:
+
+a) Que, teniendo título inscrito, los deslindes amparados por la inscripción conservatoria del inmueble se encuentren indefinidos o no coincidan con el estudio de levantamiento topográfico efectuado al efecto.
+
+b) Que el solicitante detente la posesión del inmueble, por si o por otra persona a su nombre, en forma continua y exclusiva, sin violencia ni clandestinidad, durante cinco años a lo menos.
+
+c) Que no exista juicio pendiente en contra del solicitante en que se discuta el dominio o posesión del inmueble, iniciado con anterioridad a la fecha de entrada en vigor de esta ley.
+
+d) Que no exista en contra del solicitante juicio pendiente o sentencia condenatoria respecto del delito de usurpación regulado en los artículos 457, 457 bis, 458 y 458 bis del Código Penal.
+
+No será obstáculo para el ejercicio de este derecho la circunstancia de que existan inscripciones de dominio anteriores que se superpongan con los deslindes cuya regularización se solicita.
+
+La solicitud deberá ir acompañada de un informe favorable del Servicio de Vivienda y Urbanización respectivo que dé cuenta del cumplimiento de los requisitos. La propuesta de plano de regularización de deslindes podrá ser elaborada por la Secretaría Regional Ministerial de Vivienda y Urbanismo o por el Servicio respectivo sobre la base de un levantamiento topográfico elaborado por aquel o por un profesional competente, debidamente suscrito.
+
+Un reglamento del Ministerio de Bienes Nacionales, suscrito también por el Ministerio de Vivienda y Urbanismo, determinará los antecedentes que deben presentarse para iniciar el procedimiento y demás disposiciones procedentes para la aplicación del presente artículo, junto con detallar la aplicación de las normas del decreto ley Nº 2.695. El referido reglamento establecerá la forma en que se deberá informar a los solicitantes sobre las oposiciones, acciones de dominio o compensaciones que podrían derivarse de la aplicación de este procedimiento, conforme a lo dispuesto en los artículos 19, 26, 27, 28, 29 y 30 del señalado decreto ley Nº 2.695.
+
+Para las solicitudes que se tramiten conforme con este artículo, el límite de avalúo fiscal máximo para el pago del impuesto territorial previsto en el artículo 1 del citado decreto ley Nº 2.695, será de 1.000 unidades tributarias mensuales respecto de bienes raíces urbanos.
+
+#### Artículo 29
 
 Las disposiciones de los Capítulos I y II de la presente ley se evaluarán anualmente. El Ministerio de Vivienda y Urbanismo deberá remitir un informe a la Comisión Mixta de Presupuestos y a las Comisiones de Vivienda, Desarrollo Urbano y Bienes Nacionales de la Cámara de Diputados y de Vivienda y Urbanismo del Senado.
 

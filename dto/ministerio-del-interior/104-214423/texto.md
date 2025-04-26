@@ -182,9 +182,9 @@ Derogado.
 
 DEROGADO
 
-#### Artículo 24º
+#### Artículo 24
 
-Dentro del plazo de ciento ochenta días, a contar desde la publicación del decreto a que se refiere el artículo 1º de esta ley, la Oficina de Planificación Nacional y los Organismos que integren el Sistema Nacional de Planificación creado por decreto supremo 180, de 2 de Febrero de 1971, del Ministerio del Interior, deberán presentar al Presidente de la República los planes regionales de reconstrucción y desarrollo por cada una de las regiones a que se refiere dicho decreto, planes que podrán comprender zonas adyacentes que integren unidades económicas geográficas completas.
+Eliminado.
 
 #### Artículo 25º
 
@@ -322,7 +322,7 @@ En casos calificados el Estado podrá absorber la totalidad o parte de dichos ga
 
 #### Artículo 43º
 
-En las comunas que se declaren afectadas por un sismo o catástrofe, las Municipalidades podrán proceder a la aprobación definitiva de los planos de loteos y subdivisión de predios pertenecientes a cooperativas o comunidades legalmente constituidas o en las cuales existan de hecho poblaciones de tipo popular, aun cuando dichos predios no cuenten con la urbanización y demás requisitos exigidos por la Ordenanza General de Construcciones y Urbanización o las ordenanzas municipales respectivas, y aún cuando estas poblaciones se encuentren ubicadas fuera del radio urbano de las respectivas comunas, todo ello sin perjuicio de la responsabilidad criminal correspondiente.
+En las comunas que se declaren afectadas por un sismo o catástrofe, las Municipalidades podrán proceder a la aprobación definitiva de los planos de loteos y subdivisión de predios pertenecientes a cooperativas o comunidades legalmente constituidas o en las cuales existan de hecho poblaciones de tipo popular, aun cuando dichos predios no cuenten con la urbanización y demás requisitos exigidos por la Ley General de Urbanismo y Construcciones y por la Ordenanza General de Urbanismo y Construcciones o las ordenanzas municipales respectivas, y aún cuando estas poblaciones se encuentren ubicadas fuera del radio urbano de las respectivas comunas, todo ello sin perjuicio de la responsabilidad criminal correspondiente.
 
 Las personas que acrediten haber adquirido un predio en alguna de dichas poblaciones, podrán solicitar del dueño de los terrenos en que ellos se encuentren ubicados, se les otorgue escritura definitiva de dominio. En caso de negativa por parte del actual propietario a otorgar la respectiva escritura de compraventa, el interesado podrá solicitar del Juzgado de Letras de Mayor Cuantía que corresponda, que declare su derecho, el que deberá proceder en forma breve y sumaria, procediendo y fallando en conciencia y sin ulterior recurso. La sentencia respectiva servirá de título suficiente para solicitar del Conservador de Bienes Raíces la correspondiente inscripción de dominio, debiendo contener dicha sentencia la indicación de los deslindes del predio y la constancia de haberse cancelado por el adquirente la totalidad de su valor.
 
@@ -332,11 +332,19 @@ Cualquiera dificultad que esto pudiere suscitar entre la institución compradora
 
 El Conservador de Bienes Raíces deberá proceder a practicar las inscripciones que fuere menester de conformidad a lo preceptuado en este artículo.
 
-Las escrituras e inscripciones que este artículo demande serán absolutamente gratuitas para los interesados. Los interesados podrán concurrir a los tribunales personalmente, sin sujetarse a las limitaciones establecidas en los artículos 40º y 41º de la Ley Orgánica del Colegio de Abogados.
+Las escrituras e inscripciones que este artículo demande serán absolutamente gratuitas para los interesados. Los interesados podrán concurrir a los tribunales personalmente, sin requerir el patrocinio de un abogado.
 
 Las disposiciones de este artículo rigen sólo para las poblaciones que existieren de hecho a la fecha de dictación del decreto a que se refiere el artículo 1º.
 
-Se incluyen con estos mismos beneficios a las poblaciones declaradas en situación irregular. Las respectivas Municipalidades deberán levantar y protocolizar un plano de las poblaciones que se acogieren al presente artículo.
+Se incluyen con estos mismos beneficios a las poblaciones declaradas en situación irregular. Las respectivas Municipalidades deberán levantar y protocolizar un plano de las poblaciones que se acogieren al presente artículo. En el caso de poblaciones declaradas en situación irregular, una vez aprobado el plano de loteo, el Servicio de Vivienda y Urbanización correspondiente deberá solicitar su anotación al margen de la inscripción de dominio de la población y al margen de la inscripción de la prohibición referida en los incisos primero y segundo del artículo 60 de la ley Nº 16.741. Desde el momento en que se realicen las referidas anotaciones marginales se entenderá efectuado el alzamiento de dicha prohibición y de las hipotecas constituidas en favor del Servicio de Vivienda y Urbanización.
+
+Efectuado tal alzamiento y sobre la base de dichas anotaciones, se procederá de oficio al alzamiento de las prohibiciones particulares que recaen en los títulos de los pobladores. Los conservadores de bienes raíces deberán proceder al alzamiento sin más trámite. Los certificados de hipotecas y gravámenes que se otorguen con posterioridad a dichas anotaciones respecto de lotes individuales situados en este tipo de poblaciones deberán entregarse sin prohibiciones ni gravámenes asociados a la situación de loteo irregular.
+
+Respecto de la causa judicial del loteo irregular, el respectivo Servicio de Vivienda y Urbanización, mediante la exhibición de la aprobación del plano de loteo, solicitará al tribunal que dicte la sentencia de término. La rendición de cuenta definitiva del referido Servicio contemplada en el inciso final del artículo 27 de la ley Nº 16.741 será presentada ante el tribunal con la finalidad de que sea tenida a la vista y archivada.
+
+Cumplido lo anterior, el Servicio de Vivienda y Urbanización dejará de ser administrador de la población declarada en situación irregular.
+
+> **Nota.** El artículo cuarto transitorio de la Ley 21741, publicada el 26.04.2025, dispone declarar interpretado el presente artículo, en el sentido de que las aprobaciones definitivas de los planos de loteos contienen a la vez su recepción definitiva.
 
 #### Artículo 44º
 
