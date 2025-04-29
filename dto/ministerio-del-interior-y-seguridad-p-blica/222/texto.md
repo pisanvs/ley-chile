@@ -72,10 +72,6 @@ f) Blindaje: La protección exterior del cajero automático, dispensador o conte
 
 g) Sistema disuasivo de entintado de billetes: El conjunto de mecanismos y tecnologías, que tienen por objeto impregnar con tintas indelebles y penetrantes al menos el 20% de la superficie de los billetes de cualquier especie contenidos en un cajero automático, frente a un ataque a los sistemas o medidas de seguridad física del mismo.
 
-h) Pilote o pilar: Mecanismo de protección físico instalado de forma contigua al cajero automático, el cual ofrece una barrera física adicional, reforzando la seguridad del cajero sin comprometer su operatividad. El mecanismo de protección deberá corresponder a un perfil de acero cuadrado o redondo de, al menos, 100x100x850 mm, debiendo quedar cubierto, como mínimo, 150 mm, cerradura electromagnética conectada a la alarma del cajero, remates y terminaciones de acero inoxidable.
-
-El pilote o pilar deberá resistir ataques en forma equivalente a lo señalado para el grado de seguridad III o superior de la norma técnica europea EN-1143-1, lo que deberá ser acreditado por la entidad obligada mediante certificado emitido por la empresa fabricante o por una entidad certificadora nacional o extranjera.
-
 ## Título II
 
 De las medidas mínimas de seguridad
@@ -162,13 +158,7 @@ Para acreditar el estándar mínimo que debe cumplir el sistema de anclaje, blin
 
 #### Artículo 12º bis
 
-Los cajeros automáticos que se encuentren ubicados en estaciones de trenes subterráneos, aeropuertos u otros lugares en que la Subsecretaría de Prevención del Delito, previo informe de la autoridad fiscalizadora, considere fundadamente que existe impedimento para utilizar las medidas establecidas en los literales a),
-
-- **b)** y
-
-- **c)** del artículo 12 del presente decreto, deberán contar de forma obligatoria con un pilote o pilar frontal, de conformidad a lo establecido en el artículo precedente y en el literal
-
-- **h)** del artículo 6º de este acto administrativo. Asimismo, el lugar en el que se encuentren emplazados deberá ser resguardado por vigilantes privados.
+En aquellos casos en que los cajeros automáticos se encuentren ubicados en estaciones de trenes subterráneos, aeropuertos u otros lugares en que la autoridad fiscalizadora considere fundadamente que existe impedimento para utilizar las medidas establecidas en las letras a), b) y c), del artículo 12 del presente decreto, siempre y cuando estos lugares cuenten con protección de vigilantes privados, se podrá autorizar como resguardo, en reemplazo de dichas medidas, la instalación de un pilote frontal al cajero que reúna, al menos, las siguientes características técnicas: perfil de acero cuadrado de, al menos, 100x100x850 mm, debiendo quedar cubierto al menos 150 mm, cerradura electromagnética conectada a la alarma del cajero, remates y terminaciones de acero inoxidable.
 
 #### Artículo 13º
 
