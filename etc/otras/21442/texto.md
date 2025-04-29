@@ -1340,9 +1340,17 @@ El reglamento de la ley y el del Registro Nacional de Administradores de Condomi
 
 El mayor gasto fiscal que represente la aplicación de esta ley, durante el primer año presupuestario de vigencia, se financiará con cargo al presupuesto del Ministerio de Vivienda y Urbanismo y, en lo que faltare, con cargo a los recursos de la partida presupuestaria Tesoro Público de la Ley de Presupuestos del Sector Público.
 
-#### Artículo 8°
+#### Artículo 8
 
-La exigencia de estacionamientos para nuevos condominios de viviendas de interés público, establecida en el inciso primero del artículo 60, será aplicable para los proyectos que soliciten permiso de edificación desde el 1 de enero de 2025, exceptuándose aquellos que contaren con anteproyecto vigente, aprobado con anterioridad.
+La exigencia de estacionamientos para nuevos condominios de viviendas de interés público, establecida en el inciso primero del artículo 60, será aplicable a los proyectos que soliciten permiso de edificación a contar del 1 de enero de 2025. Se exceptúan aquellos que a esa fecha se encuentren en alguno de los siguientes estados de avance:
+
+1. Cuenten con subsidio asignado.
+
+2. Hayan sido calificados por el Servicio Regional de Vivienda y Urbanización o ingresados a dicho Servicio para su evaluación.
+
+3. Cuenten con un anteproyecto aprobado por la Dirección de Obras Municipales respectiva o lo hayan ingresado para su aprobación o para el otorgamiento del permiso de edificación.
+
+En cualquiera de estos casos, los proyectos deberán contemplar la cantidad de estacionamientos para automóviles requerida conforme al plan regulador respectivo, la que podrá rebajarse hasta en 50% según lo defina el arquitecto autor del proyecto.
 
 #### Artículo 9°
 
@@ -1351,6 +1359,16 @@ Derogado.
 #### Artículo 10
 
 Los condominios que incluyan unidades con destino habitacional existentes a la fecha de publicación de esta ley, deberán incorporarse en el registro señalado en el artículo 98 en el plazo de dos años contados desde la referida publicación.".
+
+#### Artículo 11
+
+Lo dispuesto en el inciso primero del artículo 70 no será exigible respecto de aquellos proyectos que al 1 de enero de 2024 se encuentren en alguno de los siguientes estados de avance:
+
+1. Cuenten con subsidio asignado.
+
+2. Hayan sido calificados por el Servicio Regional de Vivienda y Urbanización o ingresados a dicho Servicio para su evaluación.
+
+3. Cuenten con un anteproyecto aprobado por la Dirección de Obras Municipales respectiva o lo hayan ingresado para su aprobación o para el otorgamiento del permiso de edificación.
 
 #### Artículo segundo
 
