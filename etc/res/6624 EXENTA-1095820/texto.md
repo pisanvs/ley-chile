@@ -598,7 +598,7 @@ a) Calicatas:
 
 . El material aislante térmico se debe almacenar protegido de la intemperie y la humedad. Además, se debe instalar sin forzarlo, manteniendo su densidad de fabricación. Para asegurar la continuidad de la aislación térmica, se debe traslapar el aislante en los puntos de unión.
 
-1.6.3. Ventilación y Condensación
+1.6.3. Ventilación y Condensación.
 
 . Para cada caso particular, según ubicación geográfica, diseño (sistema constructivo y grado de ventilación) y uso de la vivienda (generación de vapor de agua y calor), se deberá asegurar la disminución del riesgo de condensación superficial e intersticial en muros. El análisis del riesgo de condensación será realizado en base a la NCh 1973.
 
@@ -606,7 +606,7 @@ a) Calicatas:
 
 . Los muros deberán considerar un tratamiento hidrófugo que impida el paso de la humedad exterior al interior del muro y que permita el paso del vapor de agua desde el interior, esto podrá estar contenido en la solución de revestimiento o paquete constructivo y en ningún caso debe ser instalado hacia el interior de la vivienda.
 
-. En cocina y baño se debe instalar extractores de aire forzados con higrostato, en caso contrario, es necesario incluir algún sistema pasivo que asegure el mínimo de renovaciones requeridas para eliminar la producción de vapor al interior de los ambientes, según cálculo y aprobado por Serviu.
+. En cocina y baño se debe instalar extractores de aire forzados con control de higrostato, seteados al 60%.
 
 1.6.4. Condiciones de Seguridad Contra Incendios
 
@@ -1022,11 +1022,11 @@ a) Calicatas:
 
 . Todas las puertas deben consultar topes, ya sea en piso, muro o la misma puerta.
 
-3.4. VENTANAS
+3.4. VENTANAS.
 
-. En recintos habitables se debe considerar un tamaño mínimo de ventana de un 15% de la superficie del recinto que sirve, con un mínimo de 1m2 y la apertura total de al menos el 50% del paño, no obstante lo anterior, Serviu podrá evaluar un área de apertura mínima correspondiente al 25% del paño, en consideración a las características del clima donde se emplace el proyecto.
+. En recintos habitables se debe considerar un tamaño mínimo de ventana de un 15% de la superficie del recinto que sirve, con un mínimo de 1 m² y la apertura total de al menos el 50% del paño, no obstante lo anterior, Serviu podrá evaluar un área de apertura mínima correspondiente al 25% del paño, en consideración a las características del clima donde se emplace el proyecto.
 
-. En recintos no habitables (baño y cocina) que consulten ventanas, se debe considerar un tamaño no menor al 8% de la superficie del recinto, con un ancho mínimo de 0,45 m, con celosía transparente con operador de cierre, con un mínimo de 3 láminas o ventana practicable.
+. En recintos no habitables (baño y cocina) que consulten ventanas, se debe considerar un tamaño no menor al 8% de la superficie del recinto, con un ancho mínimo de 0,45 m.
 
 . Se debe considerar sistema de desagüe hacia el exterior para aguas de condensación superficial interior. No se aceptan soluciones in situ.
 
@@ -1034,15 +1034,13 @@ a) Calicatas:
 
 . Para el control de infiltraciones de aire todas las ventanas deben considerar un sello de silicona neutra por dentro de la vivienda, y un sello elastomérico en base a poliuretano por fuera de la vivienda. Estos sellos se deberán instalar en toda el área de contacto entre el marco de la ventana y el muro, de acuerdo a las especificaciones del fabricante.
 
-. Para el control de infiltraciones de aire, en el caso de ventanas correderas, se debe considerar un burlete adhesivo de caucho perfil E, colocado sobre todo el riel interior del marco de la ventana y un burlete de caucho adhesivo perfil P instalado por todo el resto del perímetro del marco, por ambos costados del perfil que lo constituye de acuerdo a las instrucciones del fabricante.
-
-. Para el caso de ventanas abatibles se deberá instalar un burlete perfil P por todo el perímetro del marco interior de la ventana, en la zona de contacto entre la hoja y el marco. Este burlete deberá ser instalado de forma continua, de acuerdo a las especificaciones del fabricante.
-
 . Todas las ventanas deben contar con seguro, de acuerdo a la materialidad de la solución especificada. Para el caso de ventanas de corredera y de guillotina, además debe considerar tiradores para todas las hojas móviles.
 
-. La ventana instalada debe corresponder a la dimensión del rasgo especificado en planos. No se acepta más de 5mm de sello en los contornos de la ventana.
+. La ventana instalada debe corresponder a la dimensión del rasgo especificado en planos. No se acepta más de 5 mm de sello en los contornos de la ventana.
 
-. Todas las ventanas deben permitir el fácil acceso para la limpieza de la totalidad del vidrio por el exterior. No se aceptan soluciones de ventanas de fierro.
+. Todas las ventanas deben permitir el fácil acceso para la limpieza de la totalidad del vidrio por el exterior.
+
+. No se aceptan soluciones de ventanas de fierro.
 
 3.5. QUINCALLERÍA
 
@@ -1194,6 +1192,24 @@ Los proyectistas serán los profesionales competentes definidos por los reglamen
 
 Los artefactos, aparatos, accesorios y materiales en general deben estar certificados por el organismo correspondiente.
 
+Las obras deberán ejecutarse en estricto apego a este Itemizado y a la normativa vigente aplicable en cada caso y en complemento a las recomendaciones del fabricante de los productos respectivos, sin perjuicio de lo anterior, se deberán respetar las siguientes consideraciones:
+
+. Los tubos deben estar uniformemente apoyados sobre una superficie plana cuando se instalan en el proyecto.
+
+. La superficie del transporte debe estar libre de elementos con filos o cortantes.
+
+. Los tubos deben estar sujetos o amarrados sólo con bandas o cuerdas textiles o de Nylon, cuando sea necesario.
+
+. Se deberá proteger los tubos de los rayos ultravioleta, la lluvia y los impactos de obra, especialmente en su superficie y los extremos (verificando que no existan grietas).
+
+. Cargue y/o descargue de los tubos debe ejecutarse evitando golpes o caídas violentas, que dañen la superficie y los extremos.
+
+. Los tubos deben ser acopiados sobre una superficie plana.
+
+. Antes de instalar los tubos, asegurar que están limpios, secos y libre de cualquier humedad, especialmente en área a soldar y/o unir.
+
+. El proceso de unión y/o termofusión debe ser realizado conforme a Ficha Técnica del producto.
+
 4.1. AGUA POTABLE DOMICILIARIA
 
 4.1.1. General
@@ -1215,6 +1231,8 @@ Los artefactos, aparatos, accesorios y materiales en general deben estar certifi
 . La ubicación de los artefactos debe ser coincidente en los proyectos de arquitectura e instalaciones.
 
 . Para la red de distribución se debe considerar como mínimo una dotación de 150lt/hab/día.
+
+. Las instalaciones de agua potable que se proyecten en materialidades como PP-R o PP-RCT, PVC y CPVC, deberán ser ejecutadas por mano de obra especializada, que cuente con los conocimientos específicos, capacitados en instituciones reconocidas OTIC y OTEC registradas en Sence. Las materialidades deberán cumplir con la normativa nacional vigente. El PP-R o PP-RCT deberá cumplir con la NCh 3151/1, el PVC con la NCh 1721 y el CPVC con la NCh 3161/1.
 
 4.1.2. Factibilidad
 
@@ -1583,6 +1601,14 @@ d. Para la cocina se deja el arranque equipado con su correspondiente válvula d
 5.4. PROYECTO DE EVACUACIÓN DE BASURAS
 
 . Es requisito para los proyectos de edificación en altura, contar con un sistema y evacuación de basura, el cual deberá obtener la aprobación de la Seremi de Salud respectiva cumpliendo con los requisitos específicos que cada una exija y con lo que indica la resolución Nº 7.328/76 del Ministerio de Salud, "Aprobación de proyectos de salas de basura en edificios elevados".
+
+5.5. CIRCULACIONES.
+
+. En circulaciones exteriores aéreas (del nivel 2 hacia arriba) y cajas de escala en edificaciones en altura, se deberá utilizar pavimentos de terminación antideslizante que generen superficies opacas y uniformes.
+
+. No se aceptan terminaciones traslucidas.
+
+. La unión entre los elementos que conformen la circulación deberá ser pareja, continua y sin diferencias de nivel.
 
 ### 6. URBANIZACIÓN
 
@@ -2021,3 +2047,5 @@ Se ubicarán a una altura mínima de 1.80 m sobre NPT y a 30 cm de la esquina de
 . Favorecer las ganancias solares, orientando los pasajes de oriente a poniente, en el criterio de diseño de las viviendas y loteo, para así direccionar las unidades habitacionales hacia el norte.
 
 . Para el control del sobrecalentamiento se recomienda la utilización de protecciones solares en ventanas, adecuadas para cada orientación (por ejemplo aleros horizontales para ventanas orientadas hacia el norte, postigos, celosías verticales para orientación oriente y/o poniente, etc.).
+
+> **Nota.** El numeral 1.1. del número 1 de la Resolución 557 Exenta, Vivienda, publicada el 29.04.2025, modifica la tabla inserta en la Letra B. del número II Parte 1 de la presente norma, en el sentido de reemplazar en el Ítem B.6. "Manuales, guías y otras referencias para diseño", el Subítem B.6.5. "Sistemas solares térmicos", por aquel que la citada norma indica.
