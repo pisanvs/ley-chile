@@ -356,7 +356,9 @@ Las comunicaciones con el abogado defensor no podrán suspenderse en caso alguno
 
 #### Artículo 45
 
-Cuando el establecimiento entregue vestuario a los internos, éste deberá ser digno y apropiado. Sin perjuicio de ello, los internos tendrán derecho a usar su propio vestuario en cuyo caso éste deberá reunir iguales requisitos.
+Las personas privadas de libertad podrán usar su propio vestuario, el que deberá ser digno y apropiado.
+
+Con todo, tratándose de las dependencias o establecimientos penitenciarios destinados a la custodia de personas que requieran mayores grados de seguridad, tales como aquellas señaladas en el artículo 28 del presente reglamento, la Administración Penitenciaria, por resolución fundada del Director Nacional, podrá ordenar el uso de vestuario provisto por ella. Dicho vestuario deberá ser digno, apropiado y adecuado para el clima.
 
 #### Artículo 46
 
