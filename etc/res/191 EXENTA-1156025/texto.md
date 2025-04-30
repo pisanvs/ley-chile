@@ -26,57 +26,49 @@ Resolución:
 
 1. Establécese la siguiente estructura orgánica del Instituto de Salud Pública de Chile, la cual constará de una Dirección que trabajará con un consejo técnico, un gabinete, cinco unidades asesoras y siete departamentos, de acuerdo a la organización que se plantea a continuación:
 
-2. La DIRECCIÓN del Instituto, la que estará a cargo de un Director, elegido de conformidad a la disposiciones de la Ley Nº 19.882, a quien le corresponderá ejercer la jefatura superior del Instituto y tendrá su representación judicial y extrajudicial, con las facultades definidas en los artículos 59 del Decreto con Fuerza de Ley Nº 1, del año 2005, que fija texto refundido, coordinado y sistematizado del Decreto Ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469 y 10 del Decreto Supremo Nº 1.222, del año 1996, que contiene el reglamento de este Instituto.
+2. La Dirección del Instituto, la que estará a cargo de un Director, elegido de conformidad a las disposiciones de la ley Nº 19.882, a quien le corresponderá ejercer la jefatura superior del Instituto y tendrá su representación judicial y extrajudicial, con las facultades definidas en los artículos 59 del decreto con fuerza de ley Nº 1, del año 2005, que fija texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469 y 10 del decreto supremo N° 1.222, del año 1996, que contiene el reglamento de este Instituto.
 
 La Dirección del Instituto establecerá los objetivos de la organización, asignando responsabilidades para alcanzarlos. Asimismo, definirá la visión, misión y valores institucionales y el grado de calidad y aceptación de riesgos dentro de la misma.
 
-Para el debido cumplimiento de sus funciones, el Director del Instituto será asesorado por un Consejo Técnico, que será presidido por el Director y que estará integrado por las jefaturas de los departamentos y de las unidades asesoras, pudiendo convocar a otros funcionarios internos o externos, de ser necesario.
+Para el debido cumplimiento de sus funciones, el Director del Instituto será asesorado por un Consejo Técnico, que presidirá y que estará integrado por las jefaturas de los departamentos y de las unidades asesoras, pudiendo convocar a otros funcionarios internos o externos, de ser necesario. Este Consejo Técnico se reunirá a requerimiento de la Dirección, para considerar los asuntos que su presidente indique al elaborar la tabla respectiva, por parte de la jefatura de gabinete.
 
-Este Consejo Técnico se reunirá a requerimiento de la Dirección, para considerar los asuntos que su presidente indique al elaborar la tabla respectiva, por parte de la jefatura de gabinete. Asimismo, el Consejo Técnico tendrá la calidad de Comité de Emergencia y de Crisis, en caso de cualquier tipo de emergencia o calamidad pública. Para estos efectos, los objetivos del Comité de Emergencia y Crisis serán los siguientes:
+2.1 Dependerá de Dirección, un Gabinete, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier Departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos que estime necesarios y pertinentes y fijar plazo para su respuesta. Asimismo, le corresponderá emitir instrucciones generales respecto de la gestión interna de la documentación institucional.
 
-a) Planificar y coordinar acciones con organismos relacionados con el Instituto para dar respuestas oportunas frente a emergencias o catástrofes.
+A esta jefatura le corresponderán las siguientes funciones:
 
-b) Planificar y coordinar a los departamentos del Instituto para cumplir con las acciones que se establezcan, conforme al punto anterior.
+a) Planificar, programar, coordinar y dirigir el apoyo administrativo que la Dirección requiera para el desempeño de sus funciones.
 
-c) Asesorar a la dirección, departamentos y unidades del Instituto que lo necesiten, en temas relativos a este comité.
-
-d) Desarrollar un plan de emergencias.
-
-El Director ejercerá como presidente del comité, quien podrá requerir el asesoramiento de personas expertas en temas específicos. La jefatura del Departamento Nacional y de Referencia en Salud Ambiental, por su parte, representará al Instituto en el Comité de Operaciones y Emergencias del Ministerio de Salud. En esta labor ejercerá como suplente la jefatura del Departamento Salud Ocupacional.
-
-La Secretaría del Comité estará a cargo de quien ejerza la coordinación de gestión del Departamento Nacional y de Referencia en Salud Ambiental, actuando como suplente la jefa de la Unidad de Comunicaciones e Imagen Institucional. Tendrá a su cargo las funciones que a continuación se enuncian:
-
-a) Administrar las actas y registros de las actividades del comité y mantener actualizado el listado de los datos de contacto de sus integrantes.
-
-b) Ser el punto de contacto con las entidades interesadas. Asimismo, deberá convocar las actividades del comité contenidas en el plan de emergencias, como también aquellas no planificadas, cuando sea necesario.
-
-c) Difundir al comité toda la información que sea de interés, como también consolidar información institucional para responder requerimientos de otros actores externos.
-
-d) Las demás funciones específicas que le sean asignadas en el plan de emergencias.
-
-2.1 Dependerá de Dirección, un Gabinete, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos que estime necesarios y pertinentes y fijar plazo para su respuesta. A esta jefatura le corresponderán las siguientes funciones:
-
-a) Planificar, programar, coordinar y dirigir el apoyo administrativo que la Dirección requiera para el desempeño de sus funciones, pudiendo impartir instrucciones generales que tengan por objeto mejorar la gestión interna de la documentación institucional.
-
-b) Recibir y atender a las autoridades, representantes de organizaciones, funcionarios y otras personas, de acuerdo con las pautas generales que el Director le indique.
+b) Recibir y atender a las autoridades, representantes de organizaciones, funcionarios y otras personas, de acuerdo con las pautas generales que la Directora le indique.
 
 c) Coordinar la comunicación con autoridades y jefaturas de instituciones externas, con los cuales se vincula la institución en el desarrollo de sus funciones.
 
 d) Organizar, programar, coordinar y administrar la agenda de actividades administrativas y reuniones internas como externas de la Dirección.
 
-e) Coordinar el contenido, la forma y oportunidad en que se entrega la información hacia el público general, en conjunto con la Unidad de Comunicaciones e Imagen Institucional.
+e) Coordinar el contenido, la forma y oportunidad en que se entrega la información hacia el público general, en conjunto con la Unidad de Comunicaciones y Participación Ciudadana.
 
-f) Dar visto bueno a los actos administrativos que suscriba el Director.
+f) Dar visto bueno a los actos administrativos que suscriba la Directora.
 
-g) Supervisar las actividades y asegurar la adecuada gestión de los requerimientos asociados a Participación Ciudadana, Ley de Lobby y la Ley de Transparencia, sin perjuicio de las facultades de la jefatura de atención de Clientes y usuarios.
+g) Hacer seguimiento de todas aquellas materias que la Directora estime de relevancia.
 
-h) Dictar providencias de mero trámite.
+h) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que la Directora encomiende.
 
-i) Agilizar todas aquellas materias que el Director estime de relevancia.
+2.1.1 Dependerá de Dirección, un Gabinete Técnico, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier Departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos de carácter técnico, que estime necesarios y pertinentes.
 
-j) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que el Director encomiende.
+A esta jefatura le corresponderán las siguientes funciones:
 
-2.1.1 Suprimido.
+a) Recibir y atender a las autoridades, representantes de organizaciones, funcionarios y otras personas, de acuerdo con las pautas generales que la Directora le indique, en el área de su competencia.
+
+b) Coordinar la comunicación con autoridades y jefaturas de instituciones externas, con los cuales se vincula la institución, en el ámbito de su competencia.
+
+c) Coordinar el contenido, la forma y oportunidad en que se entrega información técnica.
+
+d) Dar visto bueno a los actos administrativos que suscriba la Directora, en las materias de su competencia.
+
+e) Hacer seguimiento a todas aquellas materias que la Directora estime de relevancia.
+
+f) Supervisar materias internacionales.
+
+g) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que la Directora encomiende, respecto de su ámbito de competencia.
 
 2.2. Fiscalía, que será la unidad asesora de la Dirección que tendrá como función asesorar jurídica y judicialmente a la jefatura de Servicio, definir los criterios jurídicos que deba aplicar la institución en todas las materias de su competencia, y asesorar a los departamentos y unidades en la adopción de decisiones y políticas institucionales con el fin de incorporar el análisis de juridicidad en sus actuaciones.
 
@@ -92,11 +84,13 @@ d) Resoluciones que se pronuncien sobre los recursos de reposición que se prese
 
 e) Oficios que deban ser enviados a Contraloría General de la República para solicitar el retiro de actos administrativos que hayan sido enviadas a dicho ente de control para el trámite de toma de razón, así como aquellos que soliciten prórrogas para dar respuesta a un requerimiento desde dicha entidad.
 
+f) Firmar las comunicaciones dirigidas al Diario Oficial, para solicitar la publicación de actos administrativos emitidos por este Instituto.
+
 2.2.2 La Fiscalía estará conformada por las siguientes oficinas, con las funciones y delegaciones que se describen:
 
 2.2.2.1 Oficina Judicial y Convenios, que tiene la función de asumir la defensa judicial del Instituto y, en general, representar al Servicio ante los tribunales de justicia, con excepción de las responsabilidades que en esta materia tenga asignado el Subdepartamento de Gestión Financiera. Asimismo, es la responsable de gestionar los convenios que suscribe la institución con otras entidades, velando por la juridicidad de los mismos.
 
-2.2.2.2 Oficina Jurídica, cuya función es la de asesorar estratégicamente a la institución, proponiendo acciones y decisiones que consideren el cumplimiento de las normas sobre la Administración del Estado y respecto de la función pública en general, con énfasis en lo referido la juridicidad de las adquisiciones que requieren revisión de legalidad de acuerdo a los lineamientos de la Dirección, como también la asesoría en materia de procesos disciplinarios. Asimismo, es la responsable de gestionar las solicitudes que se realicen por los usuarios en relación con la Ley N° 20.285, sobre acceso a la información pública.
+2.2.2.2 Oficina Jurídica, cuya función es la de asesorar a la institución, proponiendo acciones y decisiones que consideren el cumplimiento de las normas sobre la Administración del Estado y respecto de la función pública en general, con énfasis en lo referido la juridicidad de las adquisiciones que requieren revisión de legalidad, como también la asesoría en materia de procesos disciplinarios. Asimismo, es la responsable del cumplimiento de las obligaciones asociadas a transparencia activa, así como también de gestionar las solicitudes que se realicen por los usuarios en relación con la ley Nº 20.285, sobre acceso a la información pública. A esta oficina le corresponderá también pronunciarse e impartir directrices en relación al cumplimiento de las normas contenidas en la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, tanto a quienes ejerzan como punto de enlace, como a los sujetos pasivos.
 
 La jefatura de la Oficina Jurídica tendrá las siguientes delegaciones de firma, en el ámbito de la Ley N° 20.285:
 
@@ -112,7 +106,7 @@ La jefatura de la Oficina de Asuntos Regulatorios tendrá delegada la facultad d
 
 2.3. La Unidad de Comunicaciones y Participación Ciudadana será la unidad asesora de la Dirección que tiene como función la de asesorar a la Dirección en materias relacionadas con la comunicación entre el Instituto y público interno y externo, estando a cargo de preparar el contenido relativo a las actividades del Instituto para su difusión en medios de comunicación y en la página web institucional y de coordinar actividades de prensa.
 
-Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección y de diseñar el contenido de la cuenta pública institucional. Asimismo, esta unidad es la encargada de la gestión de la participación ciudadana, conforme al Título IV del decreto con fuerza de ley N° 1-19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y de administrar la plataforma que ha dispuesto la ley N° 20.730, que regula el lobby y las gestiones de interés particular, ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
+Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección y de diseñar el contenido de la cuenta pública institucional. Asimismo, esta unidad es la encargada de la gestión de la participación ciudadana, conforme al Título IV del decreto con fuerza de ley Nº 1-19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y supervisar las actividades y la adecuada gestión de los requerimientos asociados a la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, administrando la plataforma que ha dispuesto para esos efectos y ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
 
 2.4. La Unidad de Control de Gestión y Riesgos Institucionales será la unidad asesora de la Dirección que tiene como función colaborar en la formulación de los instrumentos de gestión y el control y seguimiento de las metas del Instituto, de sus departamentos y unidades dependientes, así como la implementación y seguimiento del programa de gestión de riesgos institucionales.
 
@@ -124,55 +118,73 @@ Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de 
 
 A la jefatura de esta unidad se le delega la facultad de suscribir la resolución que aprueba los listados maestros de documentos del sistema de gestión de calidad institucional.
 
-2.8 La UNIDAD TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIONES (TIC), la que estará compuesta por las siguientes secciones, detallándose a continuación sus funciones:
+2.8 La Unidad de Sistemas de Información, dependiente de la Dirección, tiene los roles y responsabilidades relacionados con el diseño, desarrollo e implementación de los sistemas de información que respaldan los objetivos y operaciones del Instituto. Éstos consideran infraestructura y comunicaciones tecnológicas, continuidad operacional, seguridad de información, reingeniería de procesos en pro de la eficiencia, modelo y gobierno de datos, así como el cumplimiento de la Estrategia de Gobierno Digital 2030.
 
-2.8.1 Administración de Plataformas e Infraestructura Tecnológica:
+2.8.1 La Unidad de Sistemas de Información tendrá las siguientes oficinas:
 
-a) Controlar la plataforma tecnológica, en lo relacionado a hardware, software y comunicaciones, asegurando la disponibilidad y uso de la información, a través de respaldos oportunos y sistemáticos.
+2.8.2 Procesos: Responsable de establecer los modelos operacionales para asegurar la eficiencia, trazabilidad y calidad a través de la homologación y simplificación de los procesos. Ello implica liderar, elaborar e implantar de manera integral todos los proyectos y requerimientos de carácter operacional y tecnológico que se originen en las diferentes áreas del Instituto, siendo también responsable del soporte funcional de todos los sistemas de información.
 
-b) Intervenir en las decisiones sobre la calidad y medios de tecnología de información que emplea la institución, participando en la selección e instalación de equipos.
+La jefatura de esta Oficina tendrá son los siguientes roles:
 
-c) Coordinar y mantener la disponibilidad de la red de comunicación de la institución.
+a) Supervisar y liderar la implementación de modelos operacionales y tecnológicos, asegurando su alineación con los objetivos estratégicos del Instituto.
 
-d) Organizar, planificar, controlar y desarrollar la mantención de equipos e instalaciones de tipo correctivas que se realicen ante fallas imprevistas del sistema, velando por el restablecimiento de los elementos dañados en los plazos previstos.
+b) Supervisar el avance de los proyectos.
 
-e) Ser el encargado de seguridad (niveles, entrega, mantención y operación de claves de acceso de las aplicaciones).
+c) Mantener el correcto funcionamiento de todos los procesos y sistemas de información que soportan los productos y servicios del Instituto.
 
-2.8.2 Desarrollo, Soporte y Mantención de Sistemas:
+d) Supervisar la administración y soporte funcional de todos los sistemas de información.
 
-a) Liderar proyectos de tecnologías de la información en la institución.
+2.8.3 Transformación Digital: Responsable de asegurar el cumplimiento de la estrategia digital institucional y del Estado, consolidando en todas las actividades de Instituto, el avance hacia la digitalización, la interoperabilidad e integración con otros sistemas e instituciones. Será también responsable de la actualización y mantención del catálogo de todas las prestaciones y servicios del Instituto.
 
-b) Planificar, controlar y evaluar la incorporación de tecnología en el Instituto.
+El jefe de esta Oficina tendrá los siguientes roles:
 
-c) Asesorar a las áreas de negocio del Instituto en cuanto a la formulación de requerimientos o validaciones técnicas para proyectos internos o externos.
+a) Diseñar, liderar e implementar la estrategia digital del Instituto, como parte del Sistema de Transformación Digital del Estado.
 
-d) Administrar toda la información de los proyectos e informar a los interesados los avances y documentación disponible del mismo.
+b) Garantizar que los proyectos digitales estén alineados con los objetivos estratégicos del Instituto y del Estado.
 
-e) Coordinar, implementar, supervisar y controlar los proyectos internos.
+c) Promover la adopción de herramientas y los recursos provistos por el Estado en los sistemas y procesos del Instituto, así como promover el uso de tecnologías innovadoras asociadas.
 
-2.8.3 Control de Gestión y Planificación:
+d) Levantar, gestionar y supervisar el plan de implementación de interoperabilidad.
 
-a) Planificar, gestionar, dirigir, coordinar y evaluar las actividades de tecnologías de información y comunicaciones, en conjunto con la Jefatura de la Unidad.
+e) Controlar y supervisar el marco general de los datos del Estado.
 
-b) Coordinar acciones con otras áreas de tecnologías de información del sector público, a fin de facilitar la instrumentación de aplicaciones y herramientas que faciliten la gestión de los organismos.
+f) Controlar y supervisar de la calidad web y servicios digitales.
 
-c) Supervisar y controlar los recursos y contratos externos.
+g) Velar por la actualización permanente del maestro de productos, servicios, procedimientos administrativos y trámites, vinculados a los procesos del Instituto.
 
-d) Apoyar a la jefatura en la planificación de los programas de capacitación y fiscalizar su cumplimiento.
+h) Fomentar la cultura digital mediante capacitaciones permanentes, la adopción de nuevas tecnologías y promoviendo la gestión del cambio.
 
-e) Definir políticas internas de TIC, controlar su cumplimiento e instrumentalizar la incorporación de mejoras en forma continua.
+i) Colaborar con todas las áreas para alinear la estrategia digital con los objetivos institucionales.
 
-2.8.4 Soporte a Usuarios y Mantención de Equipos e Impresoras:
+2.8.4 Datos: Responsable del diseño, arquitectura, modelo, construcción, integración, normalización y mantención de todos los datos del Instituto, tanto los generados internamente, así como los que se puedan capturar de otras instituciones tanto nacionales como internacionales. Es responsable de asegurar la calidad, buenas prácticas y disponibilidad de los datos con los cuales el Instituto genera sus actividades de vigilancia y gestión para cumplir su propósito, en estrecha coordinación con el Departamento de Vigilancia Sanitaria e Investigación.
 
-a) Ser responsable del equipamiento computacional (equipos estacionarios o notebooks) e impresoras, en cuanto a su funcionamiento, servicio técnico, ubicación, control y traslado.
+El jefe de esta Oficina tendrá los siguientes roles:
 
-b) Ser responsable de atender y dar solución a los requerimientos de los usuarios recibidos a través del canal oficial de ayuda.
+a) Desarrollar y establecer políticas y estándares para la gestión de datos en todo el Instituto.
 
-c) Ser responsable del equipamiento de telefonía celular de la institución, en cuanto a su ubicación, asignación, habilitación y control.
+b) Crear y mantener un marco de gobierno de datos que establece roles, responsabilidades y procesos para gestionar los datos de manera efectiva.
 
-d) Ser responsable del control de contratos y servicios de continuidad operacional de la sección.
+c) Garantizar la calidad de los datos dentro de la organización, estableciendo estándares de calidad y realizando controles permanentes.
 
-e) Ser responsable del seguimiento del cumplimiento del plan de compras de la Unidad.
+d) Diseñar e implementar estrategias para integrar datos de diferentes fuentes dentro de la institución mediante la creación de un almacén de datos centralizado, la definición de modelos de datos estándar y la implementación de herramientas y tecnologías para facilitar el acceso, la integración y el intercambio de datos.
+
+e) Proponer, diseñar, implementar o apoyar la implementación de soluciones de inteligencia de negocios, ciencia y/o análisis de datos en la organización, incluyendo adopción de herramientas y tecnologías de análisis, el desarrollo de paneles de control y reportes y la capacitación de los usuarios que contribuyan a implementar los lineamientos estratégicos definidos por el Instituto.
+
+f) Promover una cultura de datos dentro de la organización, fomentando la toma de decisiones basada en datos y la valoración de la información como un activo estratégico, incluyendo la realización de capacitaciones y campañas de concientización sobre la importancia del uso y la gestión adecuada de los datos.
+
+2.8.5 Tecnología y Comunicaciones: Responsable de la arquitectura tecnológica para establecer la continuidad y eficiencia integral de los servicios del Instituto, a través de las plataformas, sistemas, ambientes de producción, topología de comunicaciones, soporte y mantención de éstos. Tendrá a su cargo también implantar las políticas de seguridad de información, continuidad operacional y externalización de servicios.
+
+Los roles de la jefatura de esta Oficina serán los siguientes:
+
+a) Diseñar, validar, implantar y mantener la arquitectura tecnológica integral para el soporte del servicio informático, a partir de la estrategia institucional.
+
+b) Asegurar la continuidad operacional de todos los sistemas que soportan los procesos asociados a las prestaciones y servicios.
+
+c) Proponer e implantar metodología y soluciones para proyectos informáticos, a nivel de infraestructura, comunicaciones, aplicaciones y canales digitales.
+
+d) Diseñar e implantar soluciones en el ámbito de la seguridad tanto física como lógica, que cumplan con los lineamientos de la política asociada a seguridad de la información.
+
+e) Proponer y validar la estrategia y plan informático del Instituto.
 
 3. Todos los jefes de Departamentos de este Instituto tendrán un COORDINADOR DE GESTIÓN que dependerá directamente de ellos, y que ejercerá como apoyo en el desarrollo de la estrategia departamental e institucional para el logro de los objetivos, desempeñando un rol orientador y de asesoría en materias relacionadas con el seguimiento de compromisos de gestión, disponiendo oportunamente de la información, optimizando los procesos relacionados con las áreas de soporte institucional y siendo responsables de la eficiencia de los recursos asignados. A estos profesionales les estarán asignadas las funciones que a continuación se mencionan:
 
@@ -192,7 +204,7 @@ f) Participar en la gestión del proceso de riesgos.
 
 a) Gestionar el Sistema de Gestión Integrado en el ámbito departamental.
 
-b) Ser contraparte técnica de la Unidad de Gestión de la Calidad.
+b) Ser contraparte técnica de la Unidad de Auditoría Interna.
 
 c) Representar al departamento frente a otras áreas institucionales en materias de gestión de la calidad.
 
@@ -230,7 +242,7 @@ f) Recibir, registrar, almacenar y gestionar la eliminación de los residuos tan
 
 5.5 SUBDEPARTAMENTO ABASTECIMIENTO, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
 
-a) Emitir las órdenes de compra y actos administrativos necesarios para la adquisición de bienes y contratación de servicios sujetos a la Ley Nº 19.886, por un monto no superior a 30 unidades tributarias mensuales, todo con excepción de la contratación de estudios e investigaciones.
+a) Suscribir las órdenes de compra y actos administrativos necesarios para la adquisición de bienes y contratación de servicios sujetos a la ley Nº 19.886, que se efectúen por compra ágil, siempre y cuando no se trate de contrataciones relativas a personal, asesorías, materias de infraestructura, equipos y sistemas informáticos y estudios e investigaciones.
 
 b) Firmar y endosar los documentos mercantiles de transporte de mercaderías requeridos en los procesos de importaciones.
 
@@ -1158,11 +1170,9 @@ b) Desarrollar e implementar las acciones de fiscalización de entidades acredit
 
 9. Departamento Nacional y de Referencia en Salud Ambiental, que estará a cargo de una jefatura, que tendrá delegada la firma de las siguientes actuaciones:
 
-a) Conceder, denegar, modificar y renovar registros sanitarios de producción pesticidas de uso sanitario y doméstico y desinfectantes, con excepción de las autorizaciones que se concedan al amparo del artículo 18º del decreto supremo N° 157, de 2005, del Ministerio de Salud.
+a) Firmar certificado anual de participación en PEEC por cada participante.
 
-b) Firmar certificado anual de participación en PEEC por cada participante.
-
-c) Emitir requerimientos de recursos y documentos técnicos, vinculados a convenios de colaboración y de transferencia de recursos suscritos por el Instituto y que sean relacionados con el ámbito de este Departamento.
+b) Emitir requerimientos de recursos y documentos técnicos, vinculados a convenios de colaboración y de transferencia de recursos suscritos por el Instituto y que sean relacionados con el ámbito de este Departamento.
 
 9.1 El Departamento Nacional y de Referencia en Salud Ambiental tendrá la siguiente Unidad y Subdepartamentos, que a continuación se mencionan:
 
@@ -1170,7 +1180,7 @@ c) Emitir requerimientos de recursos y documentos técnicos, vinculados a conven
 
 a) Ejercer la función de coordinación de laboratorios de salud pública en las áreas de bromatología y contaminación ambiental, gestionando los programas de supervisiones, capacitación y transferencia tecnológica que el ISP efectúa a los laboratorios de la Red de Laboratorios de Salud Pública.
 
-9.3 Subdepartamento de Registro de Plaguicidas y Desinfectantes, el que tendrá las siguientes funciones:
+9.3 Subdepartamento de Registro de Plaguicidas y Desinfectantes, cuya jefatura tendrá delegada la facultad de conceder, denegar, modificar y renovar registros sanitarios de producción pesticidas de uso sanitario y doméstico y desinfectantes, con excepción de las autorizaciones que se concedan al amparo del artículo 18º del decreto supremo Nº 157, de 2005, del Ministerio de Salud, área que tendrá las siguientes funciones:
 
 a) Evaluar las solicitudes de registro de productos pesticidas de uso sanitario y doméstico (que incluye los productos desinfectantes) sujetos a control sanitario, así como sus modificaciones y renovaciones.
 
