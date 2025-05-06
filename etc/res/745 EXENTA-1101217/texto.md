@@ -68,6 +68,12 @@ ALTITUD DE DECISIÓN (DA) O ALTURA DE DECISIÓN (DH).
 
 Altitud o altura especificada en una operación de aproximación por instrumentos 3D, a la cual debe iniciarse una maniobra de aproximación frustrada si no se ha establecido la referencia visual requerida para continuar la aproximación.
 
+Nota 1 Para la altitud de decisión (DA) se toma como referencia el nivel medio del mar y para la altura de decisión (DH), la elevación del umbral.
+
+Nota 2 La referencia visual requerida significa aquella sección de las ayudas visuales o del área de aproximación que debería haber estado a la vista durante tiempo suficiente para que el piloto pudiera hacer una evaluación de la posición y de la rapidez del cambio de posición de la aeronave, en relación con la trayectoria de vuelo deseada. En operaciones de Categoría III con altura de decisión, la referencia visual requerida es aquella especificada para el procedimiento y operación particulares.
+
+Nota 3. Cuando se utilicen estas dos expresiones, pueden citarse convenientemente como "altitud/altura de decisión" y abreviarse en la forma "DA/H
+
 ALTITUD DE FRANQUEAMIENTO DE OBSTÁCULOS (OCA) O ALTURA DE FRANQUEAMIENTO DE OBSTÁCULOS (OCH).
 
 La altitud más baja o la altura más baja por encima de la elevación del umbral de la pista pertinente o por encima de la elevación del aeródromo, según corresponda, utilizada para respetar los correspondientes criterios de franqueamiento de obstáculos.
@@ -75,6 +81,12 @@ La altitud más baja o la altura más baja por encima de la elevación del umbra
 ALTITUD MÍNIMA DE DESCENSO (MDA) O ALTURA MÍNIMA DE DESCENSO (MDH).
 
 Altitud o altura especificada en una operación de aproximación por instrumentos 2D o en una operación de aproximación en circuito, por debajo de la cual no debe efectuarse el descenso sin la referencia visual requerida.
+
+Nota 1: Para la altitud mínima de descenso (MDA) se toma como referencia el nivel medio del mar y para la altura mínima de descenso (MDH), la elevación del aeródromo o la elevación del umbral, si éste estuviera a más de 2 metros (7 pies) por debajo de la elevación de aeródromo. Para la altura mínima de descenso en aproximaciones en circuito se toma como referencia la elevación del aeródromo.
+
+Nota 2: La referencia visual requerida significa aquella sección de las ayudas visuales o del área de aproximación que debería haber estado a la vista durante tiempo suficiente para que el piloto pudiera hacer una evaluación de la posición y de la rapidez del cambio de posición de la aeronave, en relación con la trayectoria de vuelo deseada. En el caso de la aproximación en circuito, la referencia visual requerida es el entorno de la pista.
+
+Nota 3: Cuando se utilicen estas dos expresiones, pueden citarse convenientemente como "altitud/altura mínima de descenso" y abreviarse en la forma "MDA/H.
 
 APROBACIÓN ESPECÍFICA.
 
@@ -318,9 +330,13 @@ NAVEGACIÓN BASADA EN LA PERFORMANCE (PBN).
 
 Requisitos para la navegación de área basada en la performance que se aplican a las aeronaves que realizan operaciones en una ruta ATS, en un procedimiento de aproximación por instrumentos o en un espacio aéreo designado.
 
+Nota: Los requisitos de performance se expresan en las especificaciones para la navegación (especificaciones RNAV y RNP) en función de la precisión, integridad, continuidad, disponibilidad y funcionalidad necesarias para la operación propuesta en el contexto de un concepto para un espacio aéreo particular.
+
 NAVEGACIÓN DE ÁREA (RNAV).
 
 Método de navegación que permite la operación de aeronaves en cualquier trayectoria de vuelo deseada, dentro de la cobertura de las ayudas para la navegación basadas en tierra o en el espacio, o dentro de los límites de capacidad de las ayudas autónomas, o una combinación de ambas.
+
+Nota: La navegación de área incluye la navegación basada en la performance, así como otras operaciones no incluidas en la definición de navegación basada en la performance
 
 NOCHE.
 
@@ -345,6 +361,12 @@ Aproximación o aterrizaje en que se utilizan instrumentos como guía de navegac
 a) una operación de aproximación por instrumentos bidimensional (2D), en la que se utiliza guía de navegación lateral únicamente; y
 
 b) una operación de aproximación por instrumentos tridimensional (3D), en la que se utiliza guía de navegación tanto lateral como vertical.
+
+Nota: Guía de navegación lateral y vertical se refiere a la guía proporcionada por:
+
+a) una radioayuda terrestre para la navegación; o bien
+
+b) datos de navegación generados por computadora a partir de ayudas terrestres, con base espacial, autónomas para la navegación o una combinación de las mismas.
 
 OPERACIONES EN CONDICIONES DE BAJA VISIBILIDAD (LVO).
 
@@ -372,7 +394,11 @@ Piloto designado por el explotador, o por el propietario en el caso de la aviaci
 
 PLAN DE VUELO.
 
-Información especificada que, respecto a un vuelo proyectado o a parte de un vuelo de una aeronave, se somete a las dependencias de los servicios de tránsito aéreo.
+Información especificada respecto a un vuelo o a parte de un vuelo previsto de una aeronave.
+
+Nota 1: El término "plan de vuelo" puede ir acompañado de los adjetivos "preliminar", "presentado", "actualizado" u "operacional" a fin de señalar el contexto y las diferentes etapas de un vuelo.
+
+Nota 2: Cuando se utilizan las palabras "mensaje de" delante de esta expresión, se refiere al contenido y formato de los datos del plan de vuelo tal como han sido transmitidos
 
 PLAN OPERACIONAL DE VUELO.
 
@@ -401,6 +427,12 @@ Procedimiento de aproximación por instrumentos, basado en sistemas de navegaci�
 PROGRAMA DE MANTENIMIENTO.
 
 Documento que describe las tareas concretas de mantenimiento programadas y la frecuencia con que han de efectuarse y procedimientos conexos, por ejemplo, el programa de fiabilidad, que se requieren para la seguridad de las operaciones de aquellas aeronaves a las que se aplique el programa.
+
+PROPÓSITO
+
+Establecer la normativa técnica de las Operaciones Comerciales en Helicópteros que, derivada del Reglamento DAR 06 "Operaciones de Aeronaves" y basada en el Anexo 6 Parte 3 "Operación de Aeronaves: Operaciones internacionales - Helicópteros" de OACI, regule el tránsito aéreo, las maniobras de vuelo, el movimiento de este tipo de aeronaves en la superficie y la utilización del espacio aéreo dentro del territorio nacional y espacios aéreos delegados.
+
+Asimismo, fijar pautas, requisitos, obligaciones y restricciones a cumplir para obtener una autorización de operación, de las aeronaves del tipo Helicópteros, a fin de mantener los niveles de seguridad operacionales adecuados.
 
 PUNTO DE DECISIÓN PARA EL ATERRIZAJE (LDP).
 
@@ -498,6 +530,22 @@ Nota: Para fines de esta norma se entiende por operador al explotador de la aero
 
 (d) Los Operadores deberán otorgar facilidades a los Inspectores para que en el cumplimiento de sus funciones tengan acceso a la aeronave, cabina de mando siempre que la operación lo permita, facilidades para verificar las licencias del personal aeronáutico y tengan el derecho de inspeccionar toda la documentación relacionada con las operaciones, tanto a bordo de los aviones como en las dependencias de tierra.
 
+Nota: La velocidad citada anteriormente puede medirse por instrumentos o bien lograrse mediante un procedimiento indicado en el manual de vuelo.
+
+AUTORIDAD ATS COMPETENTE
+
+La autoridad apropiada designada por la DGAC responsable de proporcionar los servicios de tránsito aéreo en el espacio aéreo de que se trate.
+
+PLAN DE VUELO PRESENTADO (FPL O EFPL)
+
+Último plan de vuelo presentado por el piloto, un explotador o un representante designado, para ser utilizado por las dependencias ATS.
+
+Nota: La abreviatura FPL indica un plan de vuelo presentado, intercambiado mediante el servicio fijo aeronáutico, mientras que la abreviatura eFPL indica un plan de vuelo presentado, intercambiado mediante los servicios FF-ICE. El eFPL permite el intercambio de información adicional que no se incluye en el FPL.
+
+PLAN DE VUELO PRELIMINAR (PFP)
+
+Información relativa a un vuelo presentada por un explotador o un representante designado para planificar un vuelo en colaboración antes de presentar un plan de vuelo.
+
 135.7 APROBACIÓN ESPECÍFICA
 
 (a) El piloto al mando no realizará operaciones para las cuales se requiera una aprobación específica según se especifica en (b) siguiente, a menos que dicha aprobación haya sido otorgada por la DGAC o el Estado de Matrícula. Las aprobaciones específicas seguirán el formato de Apéndice 14 y contendrán por lo menos la información que se enumera en dicho Apéndice.
@@ -519,6 +567,14 @@ Nota: Para fines de esta norma se entiende por operador al explotador de la aero
 (7) Otras que defina el Estado.
 
 135.9 Eliminado.
+
+Nota: Los términos autorización, aprobación y aceptación se describen como sigue:
+
+1. Autorización: faculta a un explotador, propietario o piloto al mando para realizar las operaciones autorizadas. Las autorizaciones pueden ser en forma de aprobaciones específicas, aprobaciones o aceptaciones.
+
+2. Aprobación: constituye una constatación o determinación de cumplimiento de las normas pertinentes. La aprobación se demostrará mediante la firma del funcionario que aprueba, la expedición de un documento o certificado, u otra medida oficial que adopte el Estado.
+
+3. Aceptación: Se utiliza el concepto como método oficial para garantizar que el Estado ha examinado todos los aspectos críticos de la certificación del explotador antes de la expedición oficial del AOC
 
 CAPÍTULO B
 
@@ -1720,6 +1776,8 @@ INFORME DE DIFICULTADES EN SERVICIO (IDS)
 
 (b) (1) Todo operador que opere helicópteros cuyo peso máximo de despegue sea de más de 3.175 Kg., deberá notificar simultáneamente a la DGAC (SDTP/SDA, según corresponda), y a la Organización responsable del Diseño de Tipo de su helicóptero o a la persona u organización del diseño de una modificación o reparación cuando corresponda, su experiencia operacional y de mantenimiento a través de un "Informe de Dificultades en Servicio" (IDS).
 
+(2) Para efectos de este apéndice, la expresión "durante el vuelo" implica el período comprendido en "Tiempo de Vuelo", como se establece en Definiciones
+
 APÉNDICE N° 10
 
 MANUAL DEL SISTEMA DE ANÁLISIS Y VIGILANCIA CONTINUA
@@ -2197,3 +2255,5 @@ APROBACIÓN ESPECÍFICA
 > **Nota.** La Resolución 285, Defensa, publicada el 08.07.2021, aprueba la Segunda Enmienda a la Segunda Edición de la DAN 135 Vol II "Requisitos de operación: Operaciones comerciales con Helicópteros", contenida en el Anexo de la presente norma, razón por la cual se ha reemplazado por el presente texto actualizado.
 
 > **Nota.** NOTA 1 La Resolución 1974 Exenta, Defensa, publicada el 06.03.2025, modifica la presente norma en el sentido que indica. No obstante lo anterior, la modificación dispuesta por el Nº 1 que reemplaza AERÓDROMO en el Capítulo A Generalidades, sección 135.001 Definiciones, no pudo ser incorporada al no coincidir los textos. Asimismo, se hace presente que las modificaciones que disponen los Nºs 6, 8, 10, 11, 12, 15, 16, 17, 19, 20 y 21 de la citada norma no se agregaron al presente texto actualizado en razón de que no coinciden los textos.
+
+> **Nota.** NOTA 2 La Resolución 691 Exenta, Defensa, publicada el 06.05.2025, modifica la presente norma en el sentido que indica. No obstante lo anterior,en el Capítulo A Generalidades, sección 135.001 Definiciones, en la definición COMUNICACIÓN BASADA EN LA PERFORMANCE (PBC), donde se incorpora la siguiente nota: "Una especificación RCP comprende los requisitos de performance para las comunicaciones que se aplican a los componentes del sistema en términos de la comunicación que debe ofrecerse y del tiempo de transacción, la continuidad, la disponibilidad, la integridad, la seguridad y la funcionalidad correspondientes que se necesitan para la operación propuesta en el contexto de un concepto de espacio aéreo particular", no pudo ser incorporada al no coincidir los textos. Asimismo, se hace presente que las modificaciones que disponen los Nºs 12, 13, 15, 16, 17, 18, 19 Y 20 de la citada norma no se agregaron al presente texto actualizado en razón de que no coinciden los textos.
