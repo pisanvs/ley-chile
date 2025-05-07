@@ -90,7 +90,7 @@ En el recorrido de las instalaciones de transmisión de energía eléctrica no s
 
 <!-- parte:9900766 -->
 
-El plazo de construcción desde el inicio de los trabajos hasta la terminación total de las obras será de dieciocho meses, iniciándose el cómputo de éste después de doce meses desde la fecha de reducción a escritura pública del presente decreto.
+El plazo de construcción desde el inicio de los trabajos hasta la terminación total de las obras será de dieciocho meses, iniciándose el cómputo de este después de 103 (ciento tres) meses desde la fecha de reducción a escritura del presente decreto.
 
 Los plazos de las obras por etapas y secciones, se detallan a continuación:
 
