@@ -46,6 +46,8 @@ d) Deporte de Alto Rendimiento y Proyección Internacional.
 
 Los planes y programas a que se refiere el inciso anterior contemplarán, entre otras acciones, promover la formación de profesionales y técnicos de nivel superior en disciplinas relacionadas con el deporte; promover el deporte adaptado en los establecimientos educacionales del país; promover la prestación de servicios de difusión de la cultura del deporte; de orientación técnica y metodológica para programas de actividades y competiciones deportivas; de asesoría para creación y desarrollo de organizaciones deportivas; de asesoría y formación en gestión de recintos e instalaciones deportivas; de asesoría en arquitectura deportiva; de becas y cupos de participación en actividades y competiciones; de inversiones para la adquisición de terrenos, y construcción, ampliación, mejoramiento y equipamiento de recintos deportivos; de medición y evaluación periódica de la realidad deportiva nacional y de los planes y programas ejecutados en corto y mediano plazo, cuya periodicidad se determinará en el reglamento.
 
+Dichos planes y programas promoverán, además, la prestación de servicios de capacitación e implementación de protocolos de actuación y manejo básico de emergencias ante la ocurrencia de accidentes en el marco de actividades y competiciones deportivas. Para ello, se fomentará la colaboración de universidades, cuerpos de bomberos y otras personas jurídicas que, por sus funciones u objetivos, puedan cooperar en la capacitación y desarrollo de estos protocolos.
+
 #### Artículo 4 bis
 
 Los planes y programas de la Política Nacional del Deporte deberán asegurar a todas las personas en situación de discapacidad, incluyendo a los deportistas adaptados o paralímpicos, el derecho a la educación física, a la práctica deportiva, a la salud, al bienestar físico y mental, a la integración, al ocio y a las posibilidades que el deporte ofrece, y a contar con instalaciones adaptadas y accesibles para la práctica del deporte, de conformidad con la ley.
@@ -607,6 +609,10 @@ Las personas que integren el directorio de alguna de las organizaciones señalad
 Los directivos señalados deberán abstenerse de participar en estos asuntos, y pondrán en conocimiento del resto del directorio la inhabilidad que les afecta.
 
 Los directores que vulneren esta prohibición serán sancionados con la inhabilitación para desempeñar el cargo de dirigente deportivo por el plazo de diez años, sin perjuicio de responder por los perjuicios ocasionados a la Federación y a terceros.
+
+#### Artículo 32
+
+quinquies.- Las organizaciones superiores, sean éstas federaciones o asociaciones, deberán capacitar a las entidades que las integran e implementar protocolos de actuación y manejo básico de emergencias ante accidentes en actividades y competiciones deportivas. En cumplimiento de lo establecido en el número 8) del artículo 2° de la ley N° 20.686, que crea el Ministerio del Deporte, corresponderá a este último proponer los protocolos respectivos y adoptar las medidas necesarias para asegurar su correcto cumplimiento.
 
 #### Artículo 33
 
