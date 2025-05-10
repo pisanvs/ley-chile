@@ -76,13 +76,23 @@ Sólo podrán acceder a la información contenida en el Registro Nacional de Pr�
 
 6) La Dirección del Territorio Marítimo y de Marina Mercante.
 
-7) El Servicio de Registro Civil e Identificación.
+7) La Dirección General de Aeronáutica Civil.
 
-8) Los organismos públicos a que se refieren los artículos 9º y 10, para los fines allí previstos y en la forma señalada en dichos artículos.
+8) El Servicio de Registro Civil e Identificación.
 
-Las personas o instituciones señaladas en el número 8), tendrán acceso limitado al Registro Nacional de Prófugos de la Justicia, pudiendo únicamente ser informados sobre el hecho de encontrarse una persona determinada incorporada en éste. Dichas instituciones podrán acceder al Registro para el solo efecto del trámite que se realiza.
+9) Los organismos públicos a que se refieren los artículos 9º y 10, para los fines allí previstos y en la forma señalada en dichos artículos.
 
-Las instituciones señaladas en los números 1), 2), 3), 4), 5), 6) y 7) deberán establecer los procedimientos que determinarán las personas que tendrán acceso a la información, a fin de garantizar la debida confidencialidad.
+Las personas e instituciones señaladas en el numeral 9) tendrán acceso limitado al Registro Nacional de Prófugos de la Justicia, y podrán únicamente ser informados sobre el hecho de encontrarse una persona determinada incorporada en éste. Dichas instituciones podrán acceder a este registro para el solo efecto del trámite que se realiza.
+
+Las instituciones señaladas en los numerales 1), 2), 3), 4), 5), 6), 7) y 8) deberán establecer los procedimientos que determinarán las personas que tendrán acceso a la información, a fin de garantizar la debida confidencialidad.
+
+En investigaciones o procedimientos penales por crímenes o simples delitos, la Policía de Investigaciones de Chile, Carabineros de Chile y el Ministerio Público, de manera coordinada, identificarán casos prioritarios de búsqueda de personas que consten en el Registro Nacional de Prófugos de la Justicia y confeccionarán una nómina que será publicada en los portales institucionales de ambas instituciones de Orden y Seguridad Pública. La nómina incluirá información relacionada con el delito investigado o cometido, el nombre completo de la persona y una fotografía que permita su identificación, así como cualquier otra información que pudiera ser útil para ello. Esta información también podrá publicarse en medios de comunicación y en otros lugares que la Policía de Investigaciones de Chile o Carabineros de Chile estimen necesario. Un reglamento expedido por intermedio del ministerio encargado de la seguridad pública regulará el modo en que deberá elaborarse la referida nómina y señalará al menos los criterios de priorización.
+
+La publicación de la información a la que se refiere el inciso anterior tiene por único objetivo facilitar la denuncia de las personas prófugas de la justicia, por lo que no habilita su detención por un particular, sin perjuicio de lo dispuesto en el artículo 129 del Código Procesal Penal. La publicación que se realice de conformidad con lo dispuesto en el inciso anterior deberá advertir dicha circunstancia en términos claros y de fácil comprensión, e incluir los datos de contacto de la Policía de Investigaciones de Chile y de Carabineros de Chile a los que debe comunicarse quien tenga información relacionada con las personas buscadas.
+
+Cualquier persona o medio de comunicación que difunda la información referida en el inciso cuarto deberá dar cumplimiento a lo dispuesto en el inciso anterior.
+
+El Ministerio Público, en el marco de una investigación penal, podrá ordenar a los servicios de transporte aéreo a que se refiere el artículo 90 bis del Código Aeronáutico que contrasten, antes del embarque, el listado a que se refiere dicha disposición con la nómina pública establecida en el inciso cuarto de este artículo e informen inmediatamente si encontraren coincidencias.
 
 #### Artículo 8º
 
