@@ -40,8 +40,6 @@ En el Cuadro 1 se señala la nomenclatura de los planos que componen el Plan. En
 
 Cuadro 1: Nomenclatura de Plano
 
-.
-
 ## Título 2
 
 Descripción de límites
@@ -94,15 +92,13 @@ Zonificación usos de suelo y normas específicas
 
 Materias que contiene
 
-Las disposiciones del presente Título se refieren a zonificación, características de morfología urbana y demás condiciones técnico-urbanísticas para la edificación, regirán de acuerdo a los planos de zonificación del Área Urbana de la comuna de Talagante, escala 1:5.000; PRC Talagante - ZUS - 01 a 02 y PRC Lonquén - ZUS - 01 y PRC Talagante Oriente - ZUS - 01.
+Las disposiciones del presente Título se refieren a zonificación, características de morfología urbana y demás condiciones técnico-urbanísticas para la edificación, regirán de acuerdo a los planos de zonificación del Área Urbana de la comuna de Talagante, escala 1:5.000; PRC Talagante - ZUS - 01 a 02 y MPRC TALAGANTE - 3 - ZUS y PRC Lonquén - ZUS - 01 y PRC Talagante Oriente - ZUS - 01.
 
 #### Artículo 8
 
 El Área Urbana de la Comuna de Talagante se divide en las siguientes zonas:
 
 Cuadro 5: Nomenclatura de zonas
-
-.
 
 #### Artículo 9
 
@@ -255,6 +251,44 @@ Corresponde a las "áreas de riesgo" por presencia de pendientes y remoción en 
 Coeficiente de ocupación de suelo : 0,02
 
 Coeficiente de constructibilidad : 0,02
+
+#### Artículo 27 bis
+
+ZVN-HU, Zona de Valor Natural Humedal Urbano Río Mapocho
+
+Corresponde al Área de Protección de Recursos de Valor Natural, Zona de Protección Legal declarada en conformidad con la resolución exenta N° 1.452, del Ministerio del Medio Ambiente, de fecha 21 de diciembre de 2021, publicada el 12 de enero de 2022.
+
+Las condiciones para otorgarse los permisos de urbanización o construcción son:
+
+(1) Uso de suelo permitido:
+
+Áreas Verdes: Parques Comunales e Intercomunales.
+
+Uso de suelo prohibido:
+
+Todos los no indicados como permitidos.
+
+(2) Condiciones de subdivisión y edificación:
+
+Superficie Predial : 40.000 metros²
+
+Mínima
+
+Coeficiente de Ocupación : 0,001
+
+de suelo
+
+Coeficiente de : 0,001
+
+Constructibilidad
+
+Sistema de Agrupamiento : Aislado
+
+Altura Máxima de : 3.5 metros
+
+Edificación
+
+Antejardín : 10.00 metros.
 
 ## Título 5
 
