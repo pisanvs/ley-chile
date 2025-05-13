@@ -3198,4 +3198,66 @@ según lo requiera la
 
 situación.
 
+1213 Fono Emergencia La recepción de llamadas de
+
+Alto Hospicio emergencia por parte del Área
+
+de Emergencias y Seguridad
+
+Pública de la Ilustre
+
+Municipalidad de Alto Hospicio,
+
+ante las inquietudes o
+
+solicitudes tendientes a
+
+salvaguardar la vida y los
+
+bienes de las personas, que
+
+ocurran en la comuna. El
+
+personal de dicha unidad
+
+recibirá la llamada y
+
+efectuará las acciones
+
+concretas e inmediatas para
+
+afrontar la emergencia,
+
+mediante su equipo de
+
+seguridad, de manera de anticipar
+
+y facilitar las labores de las
+
+instituciones que tienen como
+
+fin la atención de estas mismas
+
+(Carabineros, Policía de
+
+Investigaciones, Bomberos,
+
+Ambulancias, etc.). Además, la
+
+Municipalidad dispone de una
+
+Oficina de Seguridad, que tiene
+
+como misión ser una facilitadora
+
+de la prevención del delito y un
+
+ente activo en la defensa y el
+
+apoyo a las víctimas de delitos
+
+violentos que residen en la
+
+comuna.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
