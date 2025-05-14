@@ -246,21 +246,15 @@ C) Valle del Malleco: Comprende las comunas de Angol, Collipulli, Ercilla, Los S
 
 En las etiquetas de los envases de los vinos se podrán señalar las Regiones, Subregiones, Zonas y Áreas que se presentan en el siguiente cuadro:
 
-6. Región Vitícola Austral: Comprende desde la provincia de Cautín, de la IX Región Administrativa de la Araucanía, hasta donde las condiciones edafoclimáticas permitan el desarrollo de la vid y que corresponde para estos efectos las siguientes Subregiones: Valle del Cautín y Valle de Osorno.
+6. Región Vitícola Austral: Comprende desde la provincia de Cautín, de la Región Administrativa de La Araucanía, hasta donde las condiciones edafoclimáticas permitan el desarrollo de la vid y que corresponde para estos efectos las siguientes subregiones: Valle del Cautín, Valle de Osorno y Chiloé.
 
-A) Valle del Cautín: Comprende las comunas de
+A) Valle del Cautín: Comprende las comunas de Perquenco y Galvarino, de la provincia de Cautín.
 
-Perquenco y Galvarino, de la provincia de Cautín.
+B) Valle de Osorno: Comprende las comunas Osorno, San Pablo y Purranque, de la provincia de Osorno, de la Región Administrativa de Los Lagos, y las comunas de La Unión y Futrono, de la provincia del Ranco, de la Región Administrativa de Los Ríos.
 
-B) Valle de Osorno: Comprende las comunas Osorno, San
+C) Chiloé: Comprende la totalidad del archipiélago de la provincia del mismo nombre
 
-Pablo y Purranque, de la provincia de Osorno, de la
-
-X Región Administrativa de Los Lagos, y las comunas
-
-de La Unión y Futrono, de la provincia del Ranco,
-
-de la XIV Región Administrativa de Los Ríos.
+7. Área Rapa Nui - Isla de Pascua, cuyo límite corresponde a la totalidad del territorio insular de la comuna del mismo nombre.
 
 En las etiquetas de los envases de los vinos se podrán señalar las Regiones, Subregiones, Zonas y Áreas que se presentan en el siguiente cuadro:
 
@@ -283,110 +277,6 @@ Las denominaciones de origen de Regiones, Subregiones, Zonas y Áreas señaladas
 a) A lo menos el 75 por ciento del vino debe ser producido con uvas provenientes del lugar geográfico indicado. Este porcentaje podrá enterarse con vinos producidos por terceros productores siempre que dichos vinos hayan sido previamente certificados respecto a su procedencia geográfica, cepaje y año de cosecha, por el Servicio Agrícola y Ganadero o por una empresa certificadora autorizada por éste de acuerdo a las normas de este decreto.
 
 b) Los siguientes cepajes de uva, o sus sinónimos internacionalmente aceptados, son los únicos que pueden señalarse en la etiqueta:
-
-Variedades Blancas Sinónimos
-
-Albariño
-
-Chardonnay Pinot Chardonnay
-
-Chenin blanc Chenin
-
-Gewurztraminer
-
-Marsanne
-
-Moscatel de Alejandría Blanca Italia
-
-Moscatel de Austria
-
-Moscatel Rosada
-
-Pedro Jiménez Pedro Ximénez
-
-Pinot blanc Pinot blanco, Burgunder Weisser
-
-Pinot gris Pinot grigio
-
-Riesling
-
-Roussanne
-
-Sauvignon blanc Blanc Fumé, Fumé
-
-Sauvignon gris Sauvignon rose
-
-Sauvignon vert Friulano
-
-Semillón
-
-Torontel Torrontés, Torrontés Riojano
-
-Verdejo
-
-Vermentino Malvasia
-
-Viognier
-
-Xarello
-
-Variedades Tintas Sinónimos
-
-Alicante Henri Bouschet Alicante Bouschet, Alicante
-
-Bouchet
-
-Barbera
-
-Bonarda
-
-Cabernet franc Cabernet franco
-
-Cabernet sauvignon Cabernet
-
-Carignan Carignane, Cariñena
-
-Carmenère Grande Vidure, Carmener,
-
-carménère, Carmenere
-
-Cot Cot rouge, Malbec, Malbek,
-
-Malbeck
-
-Garnacha Grenache
-
-Merlot
-
-Mourvedre Monastrell, Mataro
-
-Nebbiolo
-
-Petit verdot
-
-Petite Syrah Durif
-
-Pinot Meunier Meunier N
-
-Pinot noir Pinot negro
-
-Portugais bleu
-
-Romano Cesar, Cesar Noir
-
-Sangiovese Nielluccio
-
-Syrah Sirah, Shiraz
-
-Tannat
-
-Tempranillo
-
-Touriga nacional Azal
-
-Verdot
-
-Zinfandel Primitivo
 
 c) Podrá contener hasta un 25 por ciento de vinos producidos con uvas procedentes de otros lugares geográficos y de variedades distintas a las señaladas en la letra b), con excepción de las uvas de mesa.
 
