@@ -22,11 +22,11 @@ Decreto:
 
 1º Fíjanse los propietarios, empresas adjudicatarias encargadas de la construcción y ejecución, valor de inversión ("V.I.") adjudicado y plazo máximo para la entrada en operación de las obras de ampliación de los Sistemas de Transmisión Nacional y Zonal correspondientes al Plan de Expansión del año 2018, que se indican a continuación:
 
-______________
+_______________
 
 (¹)Tanto la obra "Ampliación en S/E Calama 220 kV" como la obra "Ampliación en S/E Calama 110 kV" son proyectos en la subestación denominada "Calama Nueva" de propiedad de Transemel S.A.
 
-Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la tabla anterior, contados desde la publicación del decreto supremo Nº 18T, de 2020, del Ministerio de Energía, en el Diario Oficial, con la excepción de los proyectos singularizados con el Nº 1 -Ampliación en S/E Pozo Almonte-, Nº 19 -Ampliación en S/E Polpaico (Enel Distribución)-, Nº 20 -Ampliación en S/E Rungue- Nº 21 -Refuerzo Tramo Tap Vitacura - Vitacura-, Nº 34 -Ampliación en S/E Escuadrón- y Nº 39 -Ampliación en S/E Pumahue-, los cuales deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto supremo Nº 2T, de 3 de marzo de 2025, del Ministerio de Energía, en el Diario Oficial, así como el proyecto singularizado con el Nº 30 - Ampliación de capacidad de línea 1x66 kV Monterrico - Cocharcas, el cual deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación en el Diario Oficial del decreto exento Nº 226, de 20 de agosto de 2025, del Ministerio de Energía, y el proyecto singularizado con el Nº 31 - Ampliación de capacidad de línea 1x66 kV Charrúa - Chillán, el cual deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto exento Nº 216, de 13 de agosto de 2025, del Ministerio de Energía, en el Diario Oficial.
+Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la tabla anterior, contados desde la publicación del Decreto Supremo N°18T, de 2020, del Ministerio de Energía, en el Diario Oficial, con la sola excepción de los proyectos singularizados con el N°1 –Ampliación en S/E Pozo Almonte–, N°19 –Ampliación en S/E Polpaico (Enel Distribución)–, N°20 –Ampliación en S/E Rungue– N°21 –Refuerzo Tramo Tap Vitacura – Vitacura–, N°34 –Ampliación en S/E Escuadrón– y N°39 –Ampliación en S/E Pumahue–, los cuales deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del Decreto Supremo N°2T, de 3 de marzo de 2025, del Ministerio de Energía, en el Diario Oficial.
 
 En caso de que el día de entrada en operación de un determinado proyecto de los indicados anteriormente sea un día sábado, domingo o festivo, éste deberá ser prorrogado al primer día hábil siguiente.
 
@@ -184,7 +184,7 @@ Asimismo, el proyecto incluye todas las obras y labores establecidas en las Base
 
 14.1. Descripción General de la Obra
 
-El proyecto consiste en la incorporación de dos paños para la línea 2x66kV Casablanca - Tap Algarrobo con equipos híbridos en el extremo en S/E Casablanca. El proyecto además considera nuevos paños para ambos transformadores existentes en media tensión, y la ampliación de la barra de 12 kV en, al menos, tres posiciones.
+El proyecto consiste en el reemplazo del transformador existente de 66/12 kV de 18 MVA de capacidad en la S/E Casablanca, por un equipo de 30 MVA. El proyecto además considera nuevos paños para ambos transformadores en media tensión, y la ampliación de la barra de 12 kV en, al menos, tres posiciones. Además, la obra incluye la ampliación de barras en 66 kV para recibir los circuitos que vienen desde la S/E Nueva Casablanca, la ampliación de plataforma y compra de terreno.
 
 El proyecto incluye todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio de las nuevas instalaciones, tales como adecuaciones en el patio de media tensión, adecuación de las protecciones, sistemas de comunicaciones, SCADA , obras civiles, montaje, malla de puesta a tierra y pruebas de los nuevos equipos, entre otras.
 
@@ -498,10 +498,6 @@ Componente del Valor Anual de la Transmisión por Tramo asociado al nuevo V.I. a
 
 El A.V.I., C.O.M.A. y A.E.I.R. de las obras de ampliación adjudicadas se reajustará anualmente, en dólares de los Estados Unidos de Norte América, según las siguientes fórmulas de indexación:
 
-El V.I. de las obras 'Aumento de Capacidad Línea 2x220 kV Maitencillo - Nueva Maitencillo', 'Ampliación de capacidad de línea 1x66 kV Monterrico - Cocharcas' y 'Ampliación de Capacidad de Línea 1x66 kV Charrúa - Chillán' fijados en los términos establecidos en el presente acto administrativo se reajustarán anualmente en dólares, según la siguiente fórmula de indexación:
-
-x
-
 Donde, para las fórmulas anteriores:
 
 IPCk Valor del Índice de Precios al Consumidor del segundo mes anterior al mes k, publicado por el Instituto Nacional de Estadísticas.
@@ -517,8 +513,6 @@ AVIn,0 OA Valor del A.V.I. que compone el V.A.T.T. de la obra de ampliación n, 
 COMAn,0 OA Valor del C.O.M.A. que compone el V.A.T.T. de la obra de ampliación n, indicado en el numeral 3º del presente decreto.
 
 AEIRn,0 OA Valor del A.E.I.R. que compone el V.A.T.T. de la obra de ampliación n, indicado en el numeral 3º del presente decreto.
-
-VI0OA Valor de inversión de la obra de ampliación, según lo indicado en el numeral 3° del presente decreto.
 
 Respecto al subíndice 0 de las fórmulas anteriores, éste corresponde al mes del último día de recepción de ofertas, con el fin de conformar los valores base de los índices, de forma tal que, al mes de la entrega de oferta, la aplicación de las fórmulas de indexación para el A.V.I., C.O.M.A. y A.E.I.R. dé como resultado el A.V.I., C.O.M.A. y A.E.I.R. que conforman el V.A.T.T. indicado en el numeral 3º del presente decreto.
 
@@ -541,12 +535,6 @@ El pago del A.V.I. se aplicará durante cinco períodos tarifarios a partir de l
 El C.O.M.A. determinado será remunerado hasta la entrada en vigencia del decreto tarifario correspondiente al período 2024 - 2027, período en el cual el C.O.M.A. se determinará de acuerdo a lo que indiquen las respectivas bases que regulen el estudio de valorización a que hace referencia el artículo 107º de la ley. Lo mismo aplicará para el A.E.I.R, según lo establecido en el literal d. del artículo 49 del decreto supremo Nº 10, de 2019, del Ministerio de Energía, que aprueba Reglamento de calificación, valorización, tarificación y remuneración de las instalaciones de transmisión.
 
 > **Nota.** El Nº 3 del artículo noveno del Decreto 2, Energía, publicado el 17.05.2025, modifica el resuelvo 3° de la presente norma en el sentido de eliminar íntegramente de la tabla las filas N°1 –Ampliación en S/E Pozo Almonte–, N°19 –Ampliación en S/E Polpaico (Enel Distribución)–, N°20 –Ampliación en S/E Rungue–, N°21 –Refuerzo Tramo Tap Vitacura – Vitacura–, N°34 –Ampliación en S/E Escuadrón– y N°39 –Ampliación en S/E Pumahue–.
-
-> **Nota.** NOTA 1 El numeral 1° del artículo sexto del Decreto 226 Exento, Energia, publicado el 03.09.2025 modifica la presente norma en el sentido reemplazar íntegramente la fila Nº 30 de la tabla del resuelvo 1°, por la fila que la citada norma indica.
-
-> **Nota.** NOTA 2 El numeral 3° del artículo sexto del Decreto 226 Exento, Energia, publicado el 03.09.2025 modifica la presente norma en el sentido reemplazar íntegramente la fila Nº 30 de la tabla del resuelvo 3°, por la fila que la citada norma indica.
-
-> **Nota.** NOTA 3 El artículo tercero del Decreto 26, Energía, publicado el 30.01.2026, dispone rectificar, a partir de la fecha de publicación en el Diario Oficial del Decreto 252, esto es, 30.10.2025, la tabla contenida en el resuelvo 1º de la presente norma, en la fila Nº 9, bajo la columna denominada "Plazo Constructivo (meses)", donde dice "55 meses y 29 días", debe decir "56 meses y 30 días".
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro de Energía.
 
