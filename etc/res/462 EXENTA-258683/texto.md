@@ -370,7 +370,7 @@ i) El ingreso a la pista exclusiva podrá efectuarse en cualquiera de las demarc
 
 ii) La salida desde la pista exclusiva podrá efectuarse en cualquiera de las demarcaciones correspondientes a los dos cruces posteriores a la ubicación de la residencia o estacionamiento respectivo.
 
-f) Vehículos asignados a las autoridades señaladas el inciso tercero del artículo 3º del DL Nº 799, de 1974, para ser usados en actividades propias del cargo y, aquellos vehículos que escolten a los primeros por motivos de seguridad, cuando corresponda. Para acreditar la condición de los señalados vehículos las instituciones a las cuales pertenezcan dichas autoridades deberán remitir a esta Secretaría Regional una nómina con el detalle de dichos vehículos, la que deberá renovarse cada vez que exista una modificación de la misma.
+f) Vehículos asignados para el traslado del Presidente de la República, Ministros de Estado, Subsecretarios, Contralor General de la República, Presidente, Ministros y Fiscal de la Corte Suprema y, Presidentes de las Cortes de Apelaciones de Santiago y de San Miguel, Presidente del Senado y de la Cámara de Diputados. En la referida asignación quedarán también comprendidos aquellos vehículos que sirvan de escolta a los primeros, por motivos de seguridad pública. Para acreditar la condición de los señalados vehículos, la institución a la cual pertenezcan dichas autoridades deberá remitir a esta Secretaría Regional una nómina con el detalle de dichos vehículos, la que deberá renovarse cada vez que exista una modificación de la misma.
 
 g) vehículos destinados o autorizados exclusivamente por las municipalidades para realizar labores de aseo de bienes nacionales de uso público y/o extracción y transporte de residuos sólidos domiciliarios.
 
