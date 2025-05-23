@@ -460,7 +460,7 @@ a) Una memoria explicativa, que contendrá los objetivos, metas y programas de a
 
 b) Una Ordenanza, que contendrá las disposiciones reglamentarias pertinentes, y
 
-c) Los planos, que expresen gráficamente las disposiciones sobre zonificación general, equipamiento, relaciones viales, áreas de desarrollo prioritario, límites de extensión urbana, densidades, etc.
+c) Los planos, que expresen gráficamente las disposiciones sobre zonificación general, equipamiento, relaciones viales, áreas de desarrollo prioritario, de riesgo y restricción, límites de extensión urbana, densidades, etc.
 
 Para los efectos de su aprobación, modificación y aplicación, estos documentos constituirán un solo cuerpo normativo.
 
@@ -530,7 +530,7 @@ b) Un estudio de factibilidad para ampliar o dotar de agua potable y alcantarill
 
 c) Una Ordenanza Local que contendrá las disposiciones reglamentarias pertinentes, y
 
-d) Los planos, que expresan gráficamente las disposiciones sobre uso de suelo, zonificación, equipamiento, relaciones viales, líimite urbano, áreas prioritarias de desarrollo urbano, etc.
+d) Los planos, que expresan gráficamente las disposiciones sobre uso de suelo, zonificación, equipamiento, relaciones viales, líimite urbano, áreas prioritarias de desarrollo urbano, de riesgo y restricción, etc.
 
 Para los efectos de su aprobación, modificación y aplicación, estos documentos constituirán un solo cuerpo normativo.
 
@@ -702,7 +702,13 @@ Lo dispuesto en este artículo será sin perjuicio de las limitaciones estableci
 
 #### Artículo 60°
 
-El Plan Regulador señalará los terrenos que por su especial naturaleza y ubicación no sean edificables. Estos terrenos no podrán subdividirse y sólo se aceptará en ellos la ubicación de actividades transitorias, manteniéndose las características rústicas del predio. Entre ellos se incluirán, cuando corresponda, las áreas de restricción de los aeropuertos.
+El Plan Regulador o Plan Seccional señalará los terrenos afectados por riesgos y las normas que les sean aplicables. Asimismo, señalará cuáles de dichos terrenos, por su especial naturaleza y ubicación, no serán edificables, no podrán subdividirse y sólo se aceptará en éstos la ubicación de actividades transitorias, manteniéndose las características rústicas del predio.
+
+Adicionalmente, el Plan Regulador o Seccional incorporará o establecerá, cuando corresponda, las áreas, zonas, franjas o radios de restricción, relativos a:
+
+a) Infraestructura, tales como aeródromos, aeropuertos, helipuertos, oleoductos, gaseoductos, líneas de alta tensión, de conformidad con el ordenamiento jurídico vigente.
+
+b) Instalaciones o actividades peligrosas.
 
 Igualmente, el Plan Regulador señalará los inmuebles o zonas de conservación histórica, en cuyo caso los edificios existentes no podrán ser demolidos o refaccionados sin previa autorización de la Secretaría Regional de Vivienda y Urbanismo correspondiente.
 
@@ -992,7 +998,7 @@ g) Condiciones de salubridad, seguridad, habitabilidad, iluminación y ventilaci
 
 h) Dotación de servicios sanitarios, de reciclaje o separación de residuos en origen y energéticos, y otras materias que señale la Ordenanza General, y
 
-i) Características de diseño, resistencia estructural y seguridad, para las edificaciones que se puedan emplazar en las áreas con riesgo de inundación, anegamiento, socavación, afloramiento potencial de napa freática, quebradas, deslizamiento o remoción en masa de materiales o sedimentos, u otras similares definidas en los planes reguladores, y, en el caso de urbanizaciones que se emplacen en tales áreas, las características de las obras de urbanización destinadas a mitigar los riesgos y facilitar la evacuación hacia zonas seguras o servir, cuando corresponda, como alternativa para el escurrimiento de las aguas.
+i) Características de diseño, materialidad, resistencia estructural y seguridad, para las edificaciones que se puedan emplazar en las áreas de riesgo y áreas de restricción incluidas en los planes reguladores y planes seccionales, y, en el caso de urbanizaciones que se emplacen en tales áreas, las características de las obras de urbanización destinadas a mitigar los riesgos y facilitar la evacuación hacia zonas seguras o servir, cuando corresponda, como alternativa para el escurrimiento de las aguas.
 
 #### Artículo 106
 
@@ -1608,7 +1614,7 @@ Las disposiciones anteriores se aplicarán a cualquier acto jurídico que impliq
 
 #### Artículo 139°
 
-Las Municipalidades, los Intendentes y Gobernadores y los Servicios Regionales o Metropolitano del Sector Vivienda estarán obligados a ejercitar las correspondientes acciones penales cuando tengan conocimiento de la comisión de alguno de los delitos descritos en el artículo anterior.
+Las Municipalidades, los secretarios o secretarias regionales ministeriales de seguridad pública y los Servicios Regionales o Metropolitano del Sector Vivienda estarán obligados a ejercitar las correspondientes acciones penales cuando tengan conocimiento de la comisión de alguno de los delitos descritos en el artículo anterior.
 
 Dichas autoridades y entidades gozarán del privilegio de pobreza en las querellas y denuncias que presenten para perseguir a los responsables de tales delitos, y estarán exentas de las obligaciones de rendir fianza de calumnia y de ratificar las querellas respectivas ante el Tribunal.
 
