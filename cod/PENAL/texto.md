@@ -1984,9 +1984,11 @@ El facultativo que librare certificación falsa de enfermedad o lesión con el f
 
 El que incurra en las falsedades del artículo 193 en el otorgamiento, obtención o tramitación de licencias médicas o declaraciones de invalidez será sancionado con las penas de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales.
 
-Si el que cometiere la conducta señalada en el inciso anterior fuere un facultativo se castigará con las mismas penas y una multa de cincuenta a quinientas unidades tributarias mensuales. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para emitir licencias médicas durante el tiempo de la condena.
+Si el que cometiere la conducta señalada en el inciso anterior fuere un facultativo se castigará con presidio menor en su grado medio a máximo y una multa de trescientas a mil unidades tributarias mensuales. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para ejercer la profesión de médico cirujano, matrona o cirujano dentista durante el tiempo de la condena.
 
 En caso de reincidencia, la pena privativa de libertad se aumentará en un grado y se aplicará multa de setenta y cinco a setecientas cincuenta unidades tributarias mensuales.
+
+Al que maliciosamente use los documentos falsos, cualquiera sea la forma en que los haya obtenido, se impondrá la pena de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales. En caso de reincidencia, la sanción aumentará en un grado.
 
 #### Artículo 203
 
@@ -2684,7 +2686,7 @@ Estarán exentas de las penas que establece este artículo las personas a que se
 
 #### Artículo 269 ter
 
-El funcionario policial, el fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
+El funcionario policial, el fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento, o imagen o sonido contenido en sistemas de registro y almacenamiento audiovisual que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
 
 ### III. De la rotura de sellos
 

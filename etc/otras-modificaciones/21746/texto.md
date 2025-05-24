@@ -1,6 +1,6 @@
-LEY NÚM. 20.585
+LEY NÚM. 21.746
 
-SOBRE OTORGAMIENTO Y USO DE LICENCIAS MÉDICAS
+MODIFICA LA LEY Nº 20.585, SOBRE OTORGAMIENTO Y USO DE LICENCIAS MÉDICAS, CON EL OBJETO DE FORTALECER LAS FACULTADES DE LOS ORGANISMOS REGULADORES Y FISCALIZADORES Y ESTABLECER LAS SANCIONES ADMINISTRATIVAS Y PENALES QUE INDICA
 
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
@@ -8,9 +8,13 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-La presente ley tiene por objeto establecer regulaciones que permitan asegurar el otorgamiento, uso correcto de la licencia médica y una adecuada protección al cotizante y beneficiarios de las Instituciones de Salud Previsional y del Fondo Nacional de Salud, mediante la aplicación de medidas de control y fiscalización, y de sanciones respecto de las conductas fraudulentas, ilegales o abusivas relacionadas con dicho instrumento.
+Modifícase la ley Nº 20.585, sobre otorgamiento y uso de licencias médicas, del siguiente modo:
 
-Sólo podrán emitir licencias médicas los médicos cirujanos, cirujano dentistas o matronas, que se encuentren debidamente inscritos y legalmente habilitados en el Registro Nacional de Prestadores Individuales de Salud que dispone la Superintendencia de Salud. En el caso de los médicos cirujanos que hayan obtenido o revalidado su título de médico cirujano a partir del 19 de abril de 2009, les será exigible además haber aprobado el examen único nacional de conocimientos de medicina.
+1.- Incorpórase, en el artículo 1º, el siguiente inciso segundo:
+
+"Sólo podrán emitir licencias médicas los médicos cirujanos, cirujano dentistas o matronas, que se encuentren debidamente inscritos y legalmente habilitados en el Registro Nacional de Prestadores Individuales de Salud que dispone la Superintendencia de Salud. En el caso de los médicos cirujanos que hayan obtenido o revalidado su título de médico cirujano a partir del 19 de abril de 2009, les será exigible además haber aprobado el examen único nacional de conocimientos de medicina.".
+
+2.- Incorpóranse los siguientes artículos 1º bis y 1º ter:
 
 #### Artículo 1º bis
 
@@ -30,7 +34,9 @@ Para la aplicación de las sanciones contempladas en esta ley, la Superintendenc
 
 #### Artículo 1º ter
 
-Con ocasión de una atención de salud realizada a distancia o por telemedicina apoyada en tecnologías de la información y las comunicaciones, los profesionales habilitados para la emisión de licencias médicas, además de los requisitos señalados en el artículo anterior, deberán estar habilitados para realizar atenciones de salud a distancia o por telemedicina, en especial, para utilizar una plataforma tecnológica de conformidad al artículo 10 bis de la ley Nº 20.584, que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud. Esta plataforma deberá contemplar un registro de atenciones.
+Con ocasión de una atención de salud realizada a distancia o por telemedicina apoyada en tecnologías de la información y las comunicaciones, los profesionales habilitados para la emisión de licencias médicas, además de los requisitos señalados en el artículo anterior, deberán estar habilitados para realizar atenciones de salud a distancia o por telemedicina, en especial, para utilizar una plataforma tecnológica de conformidad al artículo 10 bis de la ley Nº 20.584, que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud. Esta plataforma deberá contemplar un registro de atenciones.".
+
+3.- Reemplázase el artículo 2º por el siguiente:
 
 #### Artículo 2º
 
@@ -46,21 +52,15 @@ En contra de la resolución que imponga la sanción podrá reclamarse ante la Su
 
 Vigente la suspensión, las Comisiones, de oficio o a petición de parte, podrán ponerle término, si el profesional proporciona los antecedentes o informes requeridos, o acude a la citación. En caso de que el reclamo señalado en el inciso anterior sea resuelto a favor del profesional, se dejarán sin efecto las multas cursadas y cesará la suspensión aplicada.
 
-Las multas deberán ser pagadas en la Tesorería General de la República dentro del plazo de diez días hábiles, contado desde la fecha en que la resolución que las impuso quede firme o ejecutoriada. Para tales efectos, las copias de las resoluciones de las Comisiones tendrán mérito ejecutivo.
+Las multas deberán ser pagadas en la Tesorería General de la República dentro del plazo de diez días hábiles, contado desde la fecha en que la resolución que las impuso quede firme o ejecutoriada. Para tales efectos, las copias de las resoluciones de las Comisiones tendrán mérito ejecutivo.".
 
-#### Artículo 3º
+4.- En el artículo 3º:
 
-Sin perjuicio de lo dispuesto en el artículo 5º, las Instituciones de Salud Previsional podrán solicitar a los profesionales habilitados que emitan licencias médicas la entrega o remisión de los antecedentes o informes complementarios que las respalden.
+a) Incorpórase, en el inciso primero, a continuación del vocablo "profesionales", la palabra "habilitados".
 
-En caso de que los profesionales habilitados no proporcionen los antecedentes requeridos, la Institución de Salud Previsional podrá solicitar a la Comisión de Medicina Preventiva e Invalidez que aplique, en lo pertinente, el procedimiento del artículo 2° de esta ley.
+b) Incorpórase, en el inciso segundo, a continuación del vocablo "profesionales", la palabra "habilitados".
 
-En caso que la Institución de Salud Previsional determine la reducción o rechazo de una licencia médica, deberá remitir los antecedentes que fundamentan la decisión a la Comisión de Medicina Preventiva e Invalidez, quien podrá ratificar o denegar la modificación de la licencia médica.
-
-Los cotizantes o beneficiarios podrán solicitar a la Comisión de Medicina Preventiva e Invalidez la entrega o remisión de los antecedentes o informes complementarios que justifiquen el rechazo o disminución de una licencia médica.
-
-#### Artículo 4º
-
-Un reglamento dictado a través del Ministerio de Salud, y suscrito además por el Ministro del Trabajo y Previsión Social, establecerá respecto de determinadas patologías, guías clínicas referenciales relativas a los exámenes, informes y antecedentes que deberán respaldar la emisión de licencias médicas.
+5.- Reemplázase el artículo 5º por el siguiente:
 
 #### Artículo 5º
 
@@ -88,17 +88,11 @@ Para la determinación de las sanciones específicas que en cada caso correspond
 
 En el evento de existir antecedentes que acrediten que el profesional ha incurrido en falsedad en el otorgamiento de licencias médicas, la Superintendencia deberá remitir los antecedentes al Ministerio Público, sin más trámite.
 
-En contra de la resolución que imponga la sanción podrá deducirse recurso de reposición ante la Superintendencia de Seguridad Social en el plazo de cinco días contado desde su notificación. En contra de la resolución que rechace la reposición se podrá reclamar ante la Corte de Apelaciones correspondiente al territorio jurisdiccional del domicilio del sancionado, en los términos señalados en el artículo 58 de la ley Nº 16.395, que fija el texto refundido de la ley de organización y atribuciones de la Superintendencia de Seguridad Social.
+En contra de la resolución que imponga la sanción podrá deducirse recurso de reposición ante la Superintendencia de Seguridad Social en el plazo de cinco días contado desde su notificación. En contra de la resolución que rechace la reposición se podrá reclamar ante la Corte de Apelaciones correspondiente al territorio jurisdiccional del domicilio del sancionado, en los términos señalados en el artículo 58 de la ley Nº 16.395, que fija el texto refundido de la ley de organización y atribuciones de la Superintendencia de Seguridad Social.".
 
-#### Artículo 6
+6.- Derógase el artículo 6º.
 
-Derogado.
-
-#### Artículo 7º
-
-En caso de que el profesional otorgante estuviere afecto al Estatuto Administrativo, Estatuto de Atención Primaria de Salud Municipal, Estatuto del Personal de las Fuerzas Armadas, Estatuto del Personal de Carabineros de Chile, Estatuto Administrativo de Funcionarios Municipales, Estatuto para los médico-cirujanos, farmacéuticos o químico-farmacéuticos, bioquímicos y cirujanos dentistas u otra norma estatutaria que haga aplicable el Estatuto Administrativo, la emisión de licencias sin fundamento médico en el ámbito de su práctica profesional, tanto pública como privada, podrá ser considerada una vulneración al principio de la Probidad Administrativa y dará origen a la responsabilidad funcionaria que corresponda, previa instrucción del procedimiento pertinente conforme al respectivo estatuto.
-
-Lo señalado en el inciso anterior será aplicable al funcionario que, a sabiendas, participe en el otorgamiento y tramitación de licencias médicas sin fundamento o adultere los documentos que les sirven de base.
+7.- Reemplázase el artículo 8º por el siguiente:
 
 #### Artículo 8º
 
@@ -126,7 +120,9 @@ La resolución que aplique alguna de las sanciones señaladas deberá ser fundad
 
 Del mismo modo, la Institución de Salud Previsional a la que represente el profesional sancionado será solidariamente responsable del pago de la multa que se le imponga como sanción.
 
-El contralor médico de una Comisión de Medicina Preventiva e Invalidez o de la unidad de licencias médicas que incurra en la conducta descrita en el inciso primero también podrá ser denunciado por el afiliado ante la Superintendencia de Seguridad Social. En estos casos, la Superintendencia deberá remitir la denuncia a la Secretaría Regional Ministerial de Salud de la cual dependa el respectivo contralor. La o el Secretario Regional Ministerial de Salud respectivo deberá instruir el correspondiente proceso disciplinario, conforme a lo establecido en el decreto con fuerza de ley Nº 29, promulgado en 2004 y publicado en 2005, del Ministerio de Hacienda, que fija texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, en cuya virtud podrá ser destituido de su cargo, de conformidad a las reglas estatutarias respectivas.
+El contralor médico de una Comisión de Medicina Preventiva e Invalidez o de la unidad de licencias médicas que incurra en la conducta descrita en el inciso primero también podrá ser denunciado por el afiliado ante la Superintendencia de Seguridad Social. En estos casos, la Superintendencia deberá remitir la denuncia a la Secretaría Regional Ministerial de Salud de la cual dependa el respectivo contralor. La o el Secretario Regional Ministerial de Salud respectivo deberá instruir el correspondiente proceso disciplinario, conforme a lo establecido en el decreto con fuerza de ley Nº 29, promulgado en 2004 y publicado en 2005, del Ministerio de Hacienda, que fija texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, en cuya virtud podrá ser destituido de su cargo, de conformidad a las reglas estatutarias respectivas.".
+
+8.- Incorpórase, a continuación del artículo 8º, el siguiente artículo 8º bis:
 
 #### Artículo 8º bis
 
@@ -136,15 +132,15 @@ Para efectos de lo dispuesto en el inciso anterior, se entenderá que la resoluc
 
 Las multas que se impongan por infracción a las disposiciones de esta ley serán a beneficio fiscal.
 
-Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán exigibles por la Tesorería General de la República en los términos previstos en el inciso segundo del artículo 35 del decreto ley Nº 1.263, de 1975, del Ministerio de Hacienda, orgánico de Administración Financiera del Estado. Para los efectos anteriores, se aplicará lo establecido en el artículo 53 del Código Tributario.
+Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán exigibles por la Tesorería General de la República en los términos previstos en el inciso segundo del artículo 35 del decreto ley Nº 1.263, de 1975, del Ministerio de Hacienda, orgánico de Administración Financiera del Estado. Para los efectos anteriores, se aplicará lo establecido en el artículo 53 del Código Tributario.".
 
-#### Artículo 9º
+9.- En el artículo 9º:
 
-Las sanciones que aplique la Superintendencia de Seguridad Social en virtud de los artículos 5º y 9º ter deberán ser comunicadas a la Superintendencia de Salud.
+a) Reemplázase, en el inciso primero, la frase "los artículos 5º y 8º de esta ley" por "los artículos 5º y 9º ter".
 
-Asimismo, si el profesional fuese condenado por sentencia ejecutoriada, por alguna de las conductas señaladas en los artículos 202 y 234 del Código Penal, se le cancelará la inscripción en el Registro de Prestadores de la Superintendencia de Salud.
+b) Intercálase, en el inciso tercero, entre la locución "las Instituciones de Salud Previsional" y el punto y seguido, la siguiente frase: "y de las Comisiones de Medicina Preventiva e Invalidez".
 
-Para efectos de la presente ley, la Superintendencia de Salud llevará un registro público de los profesionales que ejerzan las funciones de contraloría médica de las Instituciones de Salud Previsional y de las Comisiones de Medicina Preventiva e Invalidez. Las Instituciones aludidas deberán remitir la información necesaria en los plazos y forma que disponga esa Superintendencia, de conformidad a las instrucciones generales que imparta.
+10.- Incorpóranse, a continuación del artículo 9º, los siguientes artículos 9º bis, 9º ter, 9º quáter, 9º quinquies, 9º sexies y 9º septies:
 
 #### Artículo 9º bis
 
@@ -153,8 +149,6 @@ La Superintendencia de Seguridad Social mantendrá en su sitio web un sistema de
 Los prestadores de salud deberán publicar el registro a que se refiere el inciso anterior en sus sitios web y en algún lugar físico del establecimiento de salud.
 
 Además, la Superintendencia de Seguridad Social deberá mantener publicado permanentemente en su sitio web un registro con el promedio de emisiones de licencias médicas de cada prestador individual desglosado por día, mes y año, y especialidad. Este registro deberá ser actualizado cada tres meses.
-
-> **Nota.** El artículo primero transitorio de la ley 21746, publicada el 24.05.2025, dispone que el registro público establecido en el presente artículo comenzará a regir desde el 01.07.2025.
 
 #### Artículo 9º ter
 
@@ -190,52 +184,80 @@ septies.- Salvo que se disponga expresamente otra modalidad, los plazos de esta 
 
 Las notificaciones a las que se refiere esta ley se practicarán por medios electrónicos en base a la última información que mantengan las Comisiones de Medicina Preventiva e Invalidez y la Superintendencia de Seguridad Social, salvo que el prestador informe su voluntad de ser notificado en un domicilio digital distinto. En todo lo demás, se aplicará lo dispuesto en el Párrafo 1º del Capítulo III de la ley Nº 19.880.
 
-En todo caso, a los procedimientos regulados en esta ley les será aplicables supletoriamente las normas de la ley Nº 19.880.
+En todo caso, a los procedimientos regulados en esta ley les será aplicables supletoriamente las normas de la ley Nº 19.880.".
 
-#### Artículo 10
+#### Artículo 2º
 
-Las instituciones de salud, Fondo Nacional de Salud e Instituciones de Salud Previsional serán las encargadas de justificar el rechazo en las apelaciones presentadas a las instituciones reguladoras del sistema de licencias médicas, no los usuarios o pacientes.
+Agrégase, en el inciso quinto del artículo 13 de la ley Nº 20.584, que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud, la siguiente letra h), nueva:
 
-#### Artículo 11
+"h) A la Superintendencia de Seguridad Social, a través del personal responsable de la investigación respectiva; a los contralores médicos de las Comisiones de Medicina Preventiva e Invalidez; y a los profesionales habilitados para emitir licencias médicas, todos los anteriores, en el ejercicio de las facultades que les concede la ley Nº 20.585, sobre otorgamiento y uso de licencias médicas, en lo que diga relación con la condición o patología que dio origen a la respectiva licencia.".
 
-Introdúcense las siguientes modificaciones en el Código Penal:
+#### Artículo 3º
 
-a) Intercálase en el artículo 21, en el acápite "Penas de simples delitos", a continuación de la oración "Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.", lo siguiente: "Inhabilitación especial temporal para emitir licencias médicas.".
+Introdúcense, en el artículo 1º de la ley Nº 20.261, que crea Examen Único Nacional de Conocimientos de Medicina, incorpora cargos que indica al Sistema de Alta Dirección Pública y modifica la ley Nº 19.664, las siguientes modificaciones:
 
-b) Agréganse los siguientes incisos segundo, tercero y cuarto en el artículo 202:
+1.- Incorpórase el siguiente inciso segundo, nuevo:
 
-"El que incurra en las falsedades del artículo 193 en el otorgamiento, obtención o tramitación de licencias médicas o declaraciones de invalidez será sancionado con las penas de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales.
+"También el examen único nacional de conocimientos de medicina será requisito para otorgar licencias médicas, de conformidad con la ley Nº 20.585, sobre otorgamiento y uso de licencias médicas.".
 
-Si el que cometiere la conducta señalada en el inciso anterior fuere un facultativo se castigará con las mismas penas y una multa de cincuenta a quinientas unidades tributarias mensuales. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para emitir licencias médicas durante el tiempo de la condena.
+2.- Incorpórase, a continuación del actual inciso cuarto, que ha pasado a ser inciso quinto, el siguiente inciso sexto, nuevo:
 
-En caso de reincidencia, la pena privativa de libertad se aumentará en un grado y se aplicará multa de setenta y cinco a setecientas cincuenta unidades tributarias mensuales.".
+"Sin perjuicio de lo expuesto, el examen deberá evaluar contenidos relativos al marco normativo vigente sobre sanciones administrativas y penales, por emisión injustificada o fraudulenta de licencias médicas.".
 
-#### Artículo 12
+#### Artículo 4º
 
-Agrégase en el Código Procesal Penal el siguiente artículo 156 bis:
+Introdúcense, en el artículo 202 del Código Penal, las siguientes modificaciones:
 
-#### Artículo 156 bis
+1.- En el inciso tercero:
 
-Medidas cautelares especiales. En los casos de investigaciones por fraude en el otorgamiento de licencias médicas, el tribunal podrá, en la oportunidad y a petición de las personas señaladas en el artículo 155, decretar la suspensión de la facultad de emitir dichas licencias mientras dure la investigación o por el menor plazo que, fundadamente, determine.".
+a) Reemplázase la frase "con las mismas penas y una multa de cincuenta a quinientas unidades tributarias mensuales" por "con presidio menor en su grado medio a máximo y una multa de trescientas a mil unidades tributarias mensuales".
 
-#### Artículo transitorio
+b) Sustitúyese la frase "inhabilitación especial temporal para emitir licencias médicas" por "inhabilitación especial temporal para ejercer la profesión de médico cirujano, matrona o cirujano dentista".
 
-Las disposiciones de la presente ley entrarán en vigencia a contar de su publicación en el Diario Oficial.
+2.- Incorpórase el siguiente inciso final, nuevo:
 
-No obstante, lo dispuesto en el inciso tercero del artículo 9º de esta ley entrará en vigencia el primer día del tercer mes siguiente al de su publicación.".
+"Al que maliciosamente use los documentos falsos, cualquiera sea la forma en que los haya obtenido, se impondrá la pena de reclusión menor en sus grados mínimo a medio y multa de veinticinco a doscientas cincuenta unidades tributarias mensuales. En caso de reincidencia, la sanción aumentará en un grado.".
 
-Habiéndose cumplido con lo establecido en el N° 1° del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+DISPOSICIONES TRANSITORIAS
 
-Santiago, 26 de abril de 2012.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jorge Díaz Anaiz, Ministro de Salud (S).- Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.
+#### Artículo primero
 
-Transcribo para su conocimiento ley N° 20.585/2012.- Saluda atentamente a Ud., Jorge Díaz Anaiz, Subsecretario de Salud Pública.
+La presente ley entrará en vigencia desde su publicación. El registro público del artículo 9º bis, contenido en el numeral 10 del artículo 1º, regirá desde el primer día del segundo mes de publicada la ley. La Superintendencia de Seguridad Social deberá incluir en el registro a profesionales habilitados para emitir licencias médicas a los que se les haya aplicado sanción de conformidad a la ley Nº 20.585 con anterioridad a la entrada en vigencia del registro, si la sanción siguiere vigente.
+
+Dentro del plazo de sesenta días contado desde la publicación de esta ley, la Superintendencia de Seguridad Social deberá dictar los actos administrativos generales necesarios para su correcta aplicación.
+
+#### Artículo segundo
+
+El mayor gasto fiscal que irrogue la aplicación de esta ley, durante el primer año presupuestario de su entrada en vigencia, se financiará con cargo a las partidas presupuestarias del Ministerio del Trabajo y Previsión Social y del Ministerio de Salud, según corresponda, y en lo que faltare se financiará con cargo a los recursos de la partida presupuestaria del Tesoro Público. En los años siguientes, se financiará con cargo a los recursos que anualmente contemple la Ley de Presupuestos del Sector Público correspondiente.
+
+#### Artículo tercero
+
+Los médicos cirujanos, cirujanos dentistas o matronas que emitan licencias médicas, tendrán el plazo de noventa días corridos, desde la publicación de la presente ley, para solicitar su inscripción en el Registro Nacional de Prestadores Individuales de Salud de la Superintendencia de Salud, o bien, para modificar, enmendar o complementar los antecedentes vigentes, en el caso de encontrarse incorporados en el referido Registro.
+
+Una vez transcurrido el plazo señalado en el inciso anterior, la Superintendencia de Salud remitirá a la Superintendencia de Seguridad Social la nómina de profesionales que consten en el Registro Nacional de Prestadores Individuales de Salud que se encuentren habilitados para emitir licencias médicas.
+
+El requisito de aprobación del examen único nacional de conocimientos de medicina para emitir licencias médicas será exigible a partir de un año de publicada esta ley. Si no se cumple con este requisito en el plazo señalado, la habilitación caducará de pleno derecho, y los antecedentes respectivos deberán ser remitidos a la Superintendencia de Salud para actualizar el Registro Nacional de Prestadores Individuales de Salud.
+
+#### Artículo cuarto
+
+Para efectos del requisito exigido en el artículo 1º ter, contenido en el numeral 2 del artículo 1º, los prestadores de salud podrán continuar realizando atenciones de salud a distancia o por telemedicina apoyadas en tecnologías de la información y las comunicaciones, hasta por seis meses luego de publicados todos los reglamentos y normas técnicas señaladas en la ley Nº 21.541, que modifica la normativa que indica para autorizar a los prestadores de salud a efectuar atenciones mediante telemedicina.
+
+Si no se cumple con este requisito en el plazo señalado, la habilitación caducará de pleno derecho, y los antecedentes respectivos deberán ser remitidos a la Superintendencia de Salud para actualizar el Registro Nacional de Prestadores Individuales de Salud.".
+
+Habiéndose cumplido con lo establecido en el Nº 1 del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+
+Santiago, 14 de mayo de 2025.- ÁLVARO ELIZALDE SOTO, Vicepresidente de la República.- Ximena Aguilera Sanhueza, Ministra de Salud.- Jaime Gajardo Falcón, Ministro de Justicia y Derechos Humanos.- Giorgio Boccardo Bosoni, Ministro del Trabajo y Previsión Social.
+
+Transcribo para su conocimiento ley Nº 21.746, 14 de mayo 2025.- Por orden de la Subsecretaría de Salud Pública.- Saluda atentamente a Ud., Yasmina Viera Bernal, Jefa de la División Jurídica, Ministerio de Salud.
 
 Tribunal Constitucional
 
-Proyecto de ley sobre otorgamiento y uso de licencias médicas. (Boletín N° 6811-11).
+Proyecto de ley que modifica la ley Nº 20.585, sobre otorgamiento y uso de licencias médicas, con el objeto de fortalecer las facultades de los organismos reguladores y fiscalizadores y establecer las sanciones administrativas y penales que indica, correspondiente al Boletín Nº 14.845-11
 
-La Secretaria del Tribunal Constitucional, quien suscribe, certifica que el Honorable Senado envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control preventivo de constitucionalidad respecto de los artículos orgánicos constitucionales contenidos en el mismo y, que por sentencia de 10 de abril de 2012 en los autos Rol N° 2181-11-CPR,
+La secretaria del Tribunal Constitucional, quien suscribe, certifica que el H. Senado, envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control de constitucionalidad respecto del inciso final del artículo 5º, contenido en el número 5, y del número 6, ambos del artículo 1º del proyecto de ley; y por sentencia de 30 de abril de 2025, en los autos Rol Nº 16.310-25-CPR.
 
-Se declara: Que el inciso final del artículo 6º del proyecto de ley sometido a control, es constitucional.
+Se resuelve:
 
-Santiago, 10 de abril de 2012.- Marta de la Fuente Olguín, Secretaria.
+Que la frase contenida en el inciso final del artículo 5º que se agrega por el número 5 del artículo 1º que dispone "En contra de la resolución que rechace la reposición se podrá reclamar ante la Corte de Apelaciones correspondiente al territorio jurisdiccional del domicilio del sancionado", y el número 6, ambos numerales del artículo 1º del proyecto de ley sometido a control preventivo de constitucionalidad, son propias de Ley Orgánica Constitucional y se encuentran ajustadas a la Constitución Política de la República.
+
+Santiago, 5 de mayo de 2025.- María Angélica Barriga Meza, Secretaria Abogada, Tribunal Constitucional.
