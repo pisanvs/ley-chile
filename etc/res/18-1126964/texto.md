@@ -268,7 +268,9 @@ Los consejeros que, estando inhabilitados, actúen en tales asuntos, serán remo
 
 #### Artículo 26°
 
-Los consejeros participarán en las sesiones físicamente. Sin perjuicio de lo anterior, si el/la Presidente/a lo autorizare, podrán participar a través de medios tecnológicos idóneos que les permitan intervenir en forma simultánea y continua en ellas, con un máximo de ocho sesiones virtuales por consejero durante el año calendario. En estos casos, su asistencia y participación será certificada por el/la Secretario/a, quien dejará constancia de ello en el acta respectiva.
+Los Consejeros podrán participar en las sesiones presencial y/o telemáticamente, esto último en la medida que cuenten con medios tecnológicos que permitan su participación de forma simultánea y permanente. No obstante, deberán asistir de forma presencial como mínimo a una sesión al mes. En todos estos casos, la asistencia y modo de participación de los/as Consejeros/as será certificada por el/la Secretario/a, quien dejará constancia de ello en el acta respectiva.
+
+Sin perjuicio de lo anterior, si el/la Presidente/a lo determinaré, podrán fijarse sesiones en las cuales la participación de los/as Consejeros/as sea exclusivamente presencial, lo cual será informado por el Secretario/a del Consejo con al menos 48 horas de anticipación.
 
 #### Artículo 27°
 
