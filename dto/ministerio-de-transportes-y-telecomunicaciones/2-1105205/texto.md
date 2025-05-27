@@ -28,6 +28,8 @@ ii. CFR 49_571 National Highway Traffic Safety Administration, Department of Tra
 
 iii. Resolução Nº 227, de 9 Fevereiro de 2007, Conselho Nacional de trânsito (CONTRAN), estabelece requisitos referentes aos sistemas de iluminação e sinaliação de veiculos.
 
+iv. GB 4785-2019, National Standard of the People's Republic of China; Provisions for installation of the external lighting and light-signalling devices for motor vehicles and their trailers.
+
 #### Artículo 2º
 
 <!-- parte:9813734 -->
