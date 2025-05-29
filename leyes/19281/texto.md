@@ -22,9 +22,9 @@ Las Cajas de Compensación de Asignación Familiar podrán abrir y mantener las 
 
 Estas cuentas se denominarán Cuentas de Ahorro para Arrendamiento de Viviendas con Promesa de Compraventa, en adelante "las cuentas", y los recursos depositados en ellas deberán ser mantenidos de manera separada e independiente del patrimonio de las instituciones, e invertidos en cuotas de fondos fiscalizados por la Superintendencia de Valores y Seguros que cumplan los requisitos establecidos en el artículo 54 de esta ley. En el evento que los fondos en que se invirtió dejen de cumplir tales requisitos, la institución deberá enajenar o rescatar las cuotas respectivas y reinvertir los recursos en otros fondos que cumplan esos requisitos en un plazo no superior a 30 días de sucedido tal evento. Dichas cuotas tendrán el carácter de inembargables, salvo para lo señalado en el artículo 10 con relación al cese de la inembargabilidad.
 
-#### Artículo 2°
+#### Artículo 2
 
-El interesado en ingresar a este sistema abrirá y mantendrá las cuentas que desee en cualquiera de las instituciones mencionadas en el artículo anterior, pudiendo cambiarse libremente dos veces en el año, con previo aviso de 30 días.
+Los interesados en ingresar a este sistema podrán abrir o mantener las cuentas que deseen en cualquiera de las instituciones mencionadas en el artículo anterior, y podrán cambiarse libremente dos veces en el año, con previo aviso de treinta días
 
 El reglamento establecerá las condiciones y la periodicidad con que las instituciones deberán informar a los titulares los movimientos registrados en sus respectivas cuentas.
 
@@ -208,11 +208,11 @@ Promesa de Compraventa
 
 #### Artículo 25
 
-Los titulares de las cuentas a que se refiere el Título I podrán celebrar contratos de arrendamiento de viviendas con promesa de compraventa con las sociedades inmobiliarias a que alude el Título II. Estos contratos podrán tener por objeto viviendas terminadas, nuevas, usadas o en construcción.
+Los interesados podrán celebrar contratos de arrendamiento de viviendas con promesa de compraventa con las sociedades inmobiliarias a que alude el Título II. Estos contratos podrán tener por objeto viviendas terminadas, nuevas, usadas o en construcción.
 
-Podrán también celebrar este tipo de contratos los titulares de cuentas, sobre viviendas de las cuales sean propietarios y que sean vendidas a una sociedad inmobiliaria, celebrando un contrato de arrendamiento con promesa de compraventa por la o las respectivas viviendas.
+Podrán también celebrarse este tipo de contratos sobre viviendas de las cuales sean propietarios y que sean vendidas a una sociedad inmobiliaria, mediante la celebración de un contrato de arrendamiento con promesa de compraventa por la o las respectivas viviendas.
 
-Para el titular de la cuenta que postula al subsidio habitacional, las viviendas objeto del contrato de arrendamiento con promesa de compraventa deberán ser viviendas económicas acogidas al decreto con fuerza de ley N° 2, de 1959, o viviendas sociales a que se refiere el artículo 3° del decreto ley N° 2.552, de 1979, o viviendas construidas con anterioridad a la vigencia del decreto con fuerza de ley N° 2, de 1959, que cumplan con los requisitos del artículo 6.1.13. del Capítulo 1 del Título 6 de la Ordenanza General de Urbanismo y Construcciones, aprobada por decreto supremo N° 47, de Vivienda y Urbanismo, de 1992.
+Para el interesado en postular al subsidio habitacional, las viviendas objeto del contrato de arrendamiento con promesa de compraventa deberán ser viviendas económicas de aquellas definidas en el decreto 1.101, de 1960, del Ministerio de Obras Públicas, que fija el texto definitivo del decreto con fuerza de ley Nº 2 del año 1959, sobre Plan Habitacional, y en el artículo 162 de la Ley General de Urbanismo y Construcciones, o viviendas construidas con anterioridad a la vigencia del decreto con fuerza de ley N° 2, de 1959, que cumplan con los requisitos de vivienda económica.
 
 En el caso de las viviendas en construcción, se podrá celebrar, previamente, un contrato de promesa de arrendamiento con promesa de compraventa, siempre que cuenten con el respectivo permiso de construcción, que el terreno en que estuvieren emplazadas esté debidamente urbanizado o su urbanización haya sido garantizada en la forma exigida por el artículo 129 del decreto con fuerza de ley N° 458, de 1975, Ley General de Urbanismo y Construcciones.
 
@@ -408,7 +408,7 @@ Viviendas con Promesa de Compraventa
 
 #### Artículo 45
 
-El titular de la cuenta a que se refiere el Título I, que no posea otra vivienda y que cumpla con los requisitos exigidos en el reglamento, podrá postular al subsidio habitacional que, para estos efectos, otorgará el Ministerio de Vivienda y Urbanismo, cuyo objeto será contribuir a financiar el pago del precio de compraventa de la vivienda como también a solventar los costos de originación del contrato de arrendamiento con promesa de compraventa. Sin embargo, no podrá aplicar el subsidio a la situación prevista en el inciso segundo del artículo 25.
+El interesado, que no posea otra vivienda y que cumpla con los requisitos exigidos en el reglamento, podrá postular al subsidio habitacional que, para estos efectos, otorgará el Ministerio de Vivienda y Urbanismo, cuyo objeto será contribuir a financiar el pago del precio de compraventa de la vivienda como también a solventar los costos de originación del contrato de arrendamiento con promesa de compraventa. Sin embargo, no podrá aplicar el subsidio a la situación prevista en el inciso segundo del artículo 25.
 
 Este subsidio, expresado en Unidades de Fomento, se pagará a todo evento al beneficiario, o a quien lo haya adquirido por endoso de dicho documento a su favor, fraccionado en cuotas periódicas, iguales y sucesivas, con un máximo de hasta 240 cuotas, o en una modalidad diferente, la que, en todo caso, quedará establecida en el correspondiente llamado a postulación.
 

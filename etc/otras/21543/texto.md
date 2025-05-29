@@ -138,7 +138,7 @@ El Ministerio de Hacienda emitirá el reglamento del Programa de Garantías Apoy
 
 El Programa consagrado en este artículo estará vigente hasta el 31 de diciembre del año 2035, o hasta 12 años después de que se otorgue el último crédito garantizado bajo este Programa, lo que ocurra último. Asimismo, los mencionados decretos supremos no podrán tener una vigencia superior al plazo de vigencia de este artículo. El cumplimiento de estos plazos no afectará la regulación y facultades, incluyendo las facultades de cobro, del Fondo de Garantías Especiales respecto de las garantías que se hayan otorgado en virtud el presente artículo y los referidos decretos supremos.
 
-Sólo se podrán otorgar financiamientos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre del año 2024.
+Sólo se podrán otorgar financiamientos con las condiciones señaladas en el presente artículo hasta el 31 de diciembre del año 2025.
 
 El administrador del Fondo podrá facilitar a las instituciones que otorguen financiamientos un mecanismo de consulta respecto a las empresas que cumplan con los requisitos de elegibilidad para optar a la garantía del Fondo. Para ello, podrá requerir al Servicio de Impuestos Internos que proporcione la información que permita la habilitación del mecanismo y la adecuada implementación del Programa, y al Ministerio de Vivienda y Urbanismo, al Ministerio de Obras Públicas, al Ministerio de Salud u otra institución pública que mandate proyectos inmobiliarios y/o de construcción, que proporcionen la información que fuere necesaria para los fines de la presente ley. La información será remitida al administrador del Fondo de conformidad con el procedimiento que determine el reglamento.
 
