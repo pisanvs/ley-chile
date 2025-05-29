@@ -1460,6 +1460,28 @@ El Plano de Detalle de la ZCH Conjunto Calle Triana está conformado por los sig
 
 - Plano de Detalle 02: ZCH 14 Conjunto Calle Triana; L3: Espacio privado - Características de las edificaciones originales - Normas para la edificación.
 
+Plano de Detalle 03: Barrio El Aguilucho.
+
+El Plano de Detalle del Barrio El Aguilucho está conformado por los siguientes documentos:
+
+- Plano de Detalle 03: Barrio El Aguilucho; Memoria explicativa.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L1: Objetivo general y límites del Plano de Detalle. Espacio público - Situación existente.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L2: Espacio público - Lineamientos.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L3: Espacio público - Lineamientos.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L4: Espacio privado - Edificaciones en calle El Aguilucho.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L5: Espacio privado - Edificaciones en calle El Aguilucho.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L6 Espacio privado - Características morfológicas en calle El Aguilucho.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L7 Espacio privado - Edificaciones en el Barrio El Aguilucho.
+
+- Plano de Detalle 03: Barrio El Aguilucho; L8 Espacio privado - Normas para la edificación.
+
 #### Artículo 1
 
 1.05 Area de aplicación del PRCP.
@@ -2676,6 +2698,48 @@ seguridad: unidades policiales, cuarteles de bomberos;
 
 social: sedes de juntas de vecinos, centros de madres, centros del adulto mayor, centros de la juventud, centros integrales de desarrollo social, locales y centros comunitarios y sedes de organizaciones funcionales.
 
+#### Artículo 4
+
+2.28. Incentivos en las normas urbanísticas.
+
+Conforme a lo dispuesto en los Art. 184 y 184 bis de la LGUC se permitirá el aumento de las normas base señaladas en los artículos 4.3.07, 4.3.10 bis, 4.3.11 y 4.3.12 bajo los siguientes incentivos normativos. La aplicación de este artículo deja sin efecto lo dispuesto en los artículos 3.3.04 y 3.3.05 de esta OL y comprende los predios del polígono del Plano de Detalle de la Modificación Nº 7 Barrio El Aguilucho delimitado por las calles Diego de Almagro, Hernando de Aguirre, Chile España, Jaime Guzmán Errázuriz y Los Leones.
+
+Para todos los incentivos propuestos será responsabilidad de los propietarios mantener a perpetuidad las condiciones que dieron origen al incentivo. Si las condiciones dejan de cumplirse, se considerará como una infracción a las disposiciones establecidas en la LGUC.
+
+a) Incentivo a la sustentabilidad de la edificación
+
+Los proyectos con destino residencial que cuenten con Certificación de Vivienda Sustentable (CVS), podrán acogerse a beneficios en la norma urbanística según los valores que se disponen en el cuadro a continuación.
+
+Para acceder al presente beneficio, al momento de solicitar el Permiso de Edificación deberá presentar la Precertificación de Vivienda Sustentable del Ministerio de Vivienda y Urbanismo, según lo establecido en la normativa correspondiente.
+
+Para la Recepción Definitiva de las Obras deberá presentar la Certificación de Vivienda Sustentable, con nivel "Certificado" o superior, conforme a lo consignado en el Permiso de Edificación, o bien una declaración jurada del profesional responsable que certifique la obtención de la Certificación de Vivienda Sustentable.
+
+b) Incentivo al aumento de la superficie vegetal
+
+Los proyectos que contemplen alguno de los aportes detallados a continuación podrán acceder al siguiente beneficio:
+
+Para acceder al presente beneficio será condición que el proyecto cumpla con uno de los siguientes requisitos de acuerdo al tipo de aporte:
+
+. Techos verdes: techos, cubiertas o terrazas verdes de acuerdo a la NCh 3626 Techos Verdes o Norma Chilena Oficial vigente de la misma materia.
+
+. Área libre plantada: el área libre deberá estar ubicada a nivel de terreno natural y deberá contemplar áreas verdes, con especies vegetales y árboles de bajo requerimiento hídrico y adaptadas al cambio climático. Esta área libre se recibirá plantada y con sistema de riego instalado.
+
+Para acceder al presente beneficio en las zonas de edificación E3, EA3, EA5, EA 5/pa y EA7 /pa, será condición que el aporte cumpla con los siguientes requisitos:
+
+. Apertura del antejardín al uso público: este espacio deberá quedar abierto de forma permanente y perpetua al tránsito peatonal. Esta apertura deberá quedar singularizada en el Permiso de Edificación y al momento de solicitar la Recepción Definitiva, se deberá verificar que se haya materializado. Será responsabilidad del propietario la mantención de este espacio privado de uso público.
+
+. El antejardín deberá estar a nivel de la vereda en toda su profundidad.
+
+. No se permitirán estacionamientos de visitas en este espacio debiendo estos situarse al interior de la línea de edificación correspondiente. En el caso de medidores de servicios domiciliarios, estos deberán instalarse enterrados.
+
+. Esta faja deberá entregarse urbanizada y plantada con especies de bajo requerimiento hídrico y adaptadas al cambio climático. No se autorizará la construcción de rampas, ni subterráneos, ni casetas de ningún tipo (ni para porteros, guardias o vigilantes).
+
+. Los pavimentos que se proyecten deberán ser exclusivamente para el paso de peatones y vehículos, debiendo ser permeables en el caso de estos últimos.
+
+c) Incentivo al mejoramiento de los niveles de integración social
+
+Todo proyecto de edificación que incluya una proporción de viviendas de interés público de los programas habitacionales del Ministerio de Vivienda y Urbanismo del total de unidades habitacionales, podrá acceder a los beneficios que se detallan en el siguiente cuadro:
+
 ZONAS DE EDIFICACIÓN
 
 NORMAS DE EDIFICACIÓN CONTINUA AISLADA
@@ -2828,13 +2892,9 @@ NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 19
 
 #### Artículo 4
 
-3.07. EC2 + A5 - Zona de Edif. Continua, de máx
+3.07. E5 (C+A) - Zona de Edificación de máx 5 pisos, continua más Aislada.
 
-2 pisos, más Aislada de máx. 5 pisos.
-
-Son zonas con una faja de edificación continua obligatoria en la línea de edificación, de 7,00 mts de altura obligatoria, con un máximo de 2 pisos, con excepción a la continuidad conforme al Art. 2.6.1. de la OGUC, siempre que el retranqueo no se produzca con un medianero; más edificación aislada sobre o tras la edificación continua, de hasta 5 pisos y 17,50 mts de altura como máximo. La altura total permitida para esta zona es de 7 pisos y 25,50 mts, con o sin antejardín, según se señale en el plano respectivo. Los parámetros que fijan sus condiciones se describen en el Cuadro Nº 12 siguiente:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 20
+Son zonas con un volumen continuo obligatorio en la línea de edificación, sin antejardín, de máximo 6 m de altura, con un máximo de 2 pisos y una profundidad máxima de 20 m desde la línea de edificación, sin retranqueos ni cuerpos salientes de más de 20 cm; más volumen aislado retirado 3 m del volumen continuo. La altura total permitida para esta zona es de 5 pisos y 15 m. Los parámetros que fijan sus condiciones se describen en el Cuadro Nº 12 siguiente:
 
 #### Artículo 4
 
@@ -2866,7 +2926,13 @@ máximo 3 pisos.
 
 Son zonas de edificación aislada de hasta 3 pisos y un máximo de 10,00 m de altura, con baja ocupación de suelo, con antejardín y con adosamientos, conforme a las condiciones de envolvente que señala el Art. 2.6.2. de la OGUC y los Arts. 4.2.14. y 4.2.15. de esta OL. Los parámetros que fijan sus condiciones se describen en el Cuadro Nº 15 siguiente:
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 20
+NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 20.
+
+#### Artículo 4
+
+3.10 bis. E3 - Zona de Edificación de máximo 3 pisos; Aislada, Pareada o Continua.
+
+Son zonas de edificación de hasta 3 pisos y un máximo de 9 m de altura, con antejardín y que permite sistema de agrupamiento aislado, pareado o continuo, conforme a las condiciones de envolvente que señala el Art. 2.6.2 de la OGUC y los Arts. 4.2.14. y 4.2.15. de esta OL. Los parámetros que fijan sus condiciones se describen en el Cuadro Nº 15 bis siguiente:
 
 #### Artículo 4
 
@@ -3570,8 +3636,6 @@ Los usos al margen de tener que cumplir con las normas de cada Zona en cuanto a 
 
 La densidad residencial neta máxima, expresada en Hab./ há y Viv./ há, para cada Zona de Edificación que contemple dicho destino, será la que se indica en el Cuadro Nº 39 siguiente, debiendo cumplirse en cada caso con la más restrictiva:
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 32
-
 #### Artículo 7
 
 1.03. Equivalencia de la densidad residencial
@@ -3701,3 +3765,5 @@ Jaime Márquez Rojas.- Arquitecto, Asesor Urbanista.
 > **Nota.** NOTA 7 Los numerales 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7 y 1.8 del número 1° del Decreto 1739 Exento, Municipalidad de Providencia, publicado el 23.12.2022, introducen modificaciones en la presente norma en los cuadros de los artículos siguientes: 5.6.04; cuadro 32 del artículo 6.2.12; cuadro 34 del artículo 6.2.14; cuadro 35 y 35 BIS del artículo 6.2.15; cuadro 36 del artículo 6.2.16; cuadro 37 del artículo 6.2.17 y cuadro 38 del artículo 6.2.18 del presente decreto, respectivamente, de la manera que la citada norma indica.
 
 > **Nota.** NOTA 8 El numeral 1.3 del número 1, los numerales 2.1, 2.2 y 2.3 del número 2 y los numerales 3.1 y 3.2 del número 3, del artículo único del Decreto 1662 Exento, Municipalidad de Providencia, publicado el 05.12.2024, introducen modificaciones en la presente norma en los cuadros y/o planos de los artículos siguientes: cuadro del artículo 5.6.04; planos "L1/7 M4: Áreas, zonas e inmuebles protegidos" y "L 7/7 M4: Espacio privado: zonas de uso de suelo"; e incorpora Planos de Detalle al PRCP 2007 contenido en el presente decreto, respectivamente, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 9 Los numerales 2.1, 2.2 y 2.3 del número 2 y el numeral 3.1 del número 3, del artículo único del Decreto 701 Exento, Municipalidad de Providencia, publicado el 29.05.2025, introducen modificaciones en la presente norma en los planos "L1/4 FE: Espacio público; Vialidad y áreas verdes públicas", "L2/7 M4: Espacio privado: zonas de edificación" y "L1/7 M4: Áreas, zonas e inmuebles protegidos; e incorpora al PRCP 2007 el Plano de Detalle: 3.1. Plano de Detalle 03: Barrio El Aguilucho, en los términos que la citada norma indica.
