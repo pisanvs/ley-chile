@@ -92,6 +92,10 @@ r) Proceso de Planificación: Proceso de planificación energética de largo pla
 
 s) Registro de Interesados: Registro de participación ciudadana al que se refiere el artículo 84° de la Ley, el que deberá ser electrónico, y en el que se podrá inscribir toda persona natural o jurídica con interés en participar en el Proceso de Planificación, conforme a las normas que establezca el Ministerio por resolución dictada al efecto.
 
+t) Planes Estratégicos con los que cuenten las regiones en materia de energía o Planes Estratégicos de Energía en Regiones: Instrumentos que orientan el desarrollo energético de la región, con un enfoque territorial, y que deberán ser considerados en los análisis del proceso de planificación energética de largo plazo de que trata el presente reglamento.
+
+u) Nómina de Interesados: nómina de participación ciudadana en la que podrá inscribirse toda persona natural o jurídica con interés en participar en el proceso de elaboración de los Planes Estratégicos de Energía en Regiones, conforme a las normas que establezca el Ministerio por resolución dictada al efecto.
+
 ## Título II
 
 DEL PROCESO DE PLANIFICACIÓN ENERGÉTICA
@@ -124,7 +128,7 @@ Etapas previas del proceso y registro de interesados
 
 Para efectos del desarrollo del Proceso de Planificación, el Ministerio podrá requerir de otros ministerios, servicios públicos, entidades en que el Estado tenga aportes de capital, participación o representación, del Coordinador, de las entidades y empresas vinculadas directa o indirectamente al sector energía y de los usuarios no sujetos a regulación de precios, los antecedentes y la información que estime necesaria, la que deberá ser entregada en la forma y plazo que el Ministerio establezca para dichos efectos.
 
-En especial, podrá requerir antecedentes o información relativa a los sistemas energéticos existentes, la proyección de variables macroeconómicas nacionales y regionales, precios internacionales de combustibles, variables demográficas, variables ambientales y territoriales, consumo y uso de la energía, tendencias en tecnologías de producción y consumo, identificación y caracterización de zonas donde existan recursos para la producción de energía eléctrica proveniente de energías renovables, planes de inversión o de expansión tanto en generación o producción de energía como de industrias intensivas en consumo energético, con sus respectivas probabilidades de concretarse, entre otros.
+En especial, podrá requerir antecedentes o información relativa a los sistemas energéticos existentes, la proyección de variables macroeconómicas nacionales y regionales, precios internacionales y disponibilidad de combustibles, variables demográficas, variables ambientales y territoriales, consumo y uso de la energía, tendencias en tecnologías de producción y consumo, identificación y caracterización de zonas donde existan recursos para la producción de energía eléctrica proveniente de energías renovables, planes de inversión o de expansión tanto en generación o producción de energía como de industrias intensivas en consumo energético, con sus respectivas probabilidades de concretarse, proyecciones climáticas actuales y futuras para el país, entre otros.
 
 Los funcionarios del Ministerio y las personas que le presten servicio bajo cualquier modalidad de contratación deberán guardar reserva de los documentos y antecedentes solicitados conforme a lo dispuesto en el presente reglamento, siempre que tales antecedentes no tengan el carácter de públicos.
 
@@ -218,7 +222,7 @@ Las observaciones al Informe Preliminar serán remitidas por vía electrónica a
 
 #### Artículo 14
 
-Para realizar las proyecciones de demanda energética, al menos se utilizarán como insumo los datos del Balance Nacional de Energía, las estimaciones de las fijaciones de precios de nudo de corto plazo efectuadas conforme al artículo 162° de la Ley, los informes de previsión de demanda para las fijaciones antes mencionadas y para las licitaciones de suministro eléctrico a clientes regulados a que se refieren los artículos 131° y siguientes de la Ley, la información contenida en el informe técnico señalado en el artículo 91° de la Ley, las proyecciones de demanda realizadas por el Coordinador, y la información proveniente de organismos internacionales pertinentes. A partir de dichos antecedentes se obtendrán las proyecciones de demanda eléctrica para cada Escenario Energético preliminar. Como mínimo las proyecciones de demanda eléctrica deberán ser desagregadas por cada una de las regiones en las que se emplaza el sistema eléctrico nacional.
+Para realizar las proyecciones de demanda energética, al menos se utilizarán como insumo los datos del Balance Nacional de Energía, las estimaciones de las fijaciones de precios de nudo de corto plazo efectuadas conforme al artículo 162° de la Ley, los informes de previsión de demanda para las fijaciones antes mencionadas y para las licitaciones de suministro eléctrico a clientes regulados a que se refieren los artículos 131° y siguientes de la Ley, la información contenida en el informe técnico señalado en el artículo 91° de la Ley, las proyecciones de demanda realizadas por el Coordinador, la información proveniente de organismos internacionales pertinentes y los Planes Estratégicos de Energía en Regiones que se encuentren aprobados al inicio del Proceso de Planificación, de acuerdo a lo establecido en el artículo 31 del presente reglamento. A partir de dichos antecedentes se obtendrán las proyecciones de demanda eléctrica para cada Escenario Energético preliminar. Como mínimo las proyecciones de demanda eléctrica deberán ser desagregadas por cada una de las regiones en las que se emplaza el sistema eléctrico nacional.
 
 #### Artículo 15
 
@@ -234,7 +238,7 @@ Para cada Escenario Energético preliminar existirá una única proyección de d
 
 #### Artículo 16
 
-Para la identificación de los Polos de Desarrollo de Generación Eléctrica, entre otros aspectos, se deberá tener en consideración el cumplimiento de la obligación establecida en el artículo 150° bis de la Ley, en los sistemas eléctricos que correspondan.
+Para la identificación de los Polos de Desarrollo de Generación Eléctrica, entre otros aspectos, se deberá tener en consideración el cumplimiento de la obligación establecida en el artículo 150° bis de la Ley, en los sistemas eléctricos que correspondan, y los Planes Estratégicos de Energía en Regiones que se encuentren aprobados al inicio del Proceso de Planificación, de acuerdo a lo establecido en el artículo 31 del presente reglamento.
 
 Para estos efectos, se utilizarán como insumos el informe técnico a que se refiere el artículo 7° del decreto supremo Nº 29, de 2014, del Ministerio de Energía, que aprueba reglamento de licitaciones para la provisión de bloques anuales de energía provenientes de medios de generación de energía renovable no convencional, y los antecedentes de las licitaciones para la provisión de bloques anuales de energía provenientes de medios de generación de energía renovable no convencional a que se refiere el artículo 150° ter de la Ley. Asimismo, se considerarán los antecedentes y la información aportada por las Personas Interesadas, de acuerdo a lo señalado en el literal b) del artículo 10 del presente reglamento.
 
@@ -252,7 +256,7 @@ El proceso de EAE culminará con una resolución de término dictada por el Mini
 
 Al término del o los procesos de EAE conforme a lo indicado en el artículo anterior, y en base a los análisis realizados, el Ministerio deberá emitir un Informe Final que identificará, al menos, los Escenarios Energéticos e incluirá el o los Polos de Desarrollo de Generación Eléctrica, identificados en el o los Informes Técnicos que resultan de interés público por ser eficientes económicamente para el suministro eléctrico, y que cumplen con la legislación ambiental y de ordenamiento territorial. Para la identificación de la zona a ser definida como Polo de Desarrollo de Generación Eléctrica, el Ministerio podrá considerar criterios tales como, la disponibilidad de recursos para la producción de energía eléctrica proveniente de energías renovables, la tecnología de centrales de generación existentes o proyectos de generación futuros en dicha zona, la ubicación de los mismos respecto a instalaciones de transmisión eléctrica existentes o futuras y el estado de desarrollo de proyectos de transmisión o generación relevantes para dicha zona. El Informe Final y sus antecedentes de respaldo serán publicados en el sitio web del Ministerio y enviado por correo electrónico a las Personas Interesadas.
 
-El Informe Final contendrá, al menos, el horizonte de planificación estudiado; las proyecciones de oferta y de demanda energética utilizadas, en particular la eléctrica; la información territorial y ambiental existente que fue utilizada durante el proceso; los criterios, antecedentes y datos empleados para la construcción de los Escenarios Energéticos; los resultados de las simulaciones, cálculos y análisis hechos para la identificación de los Escenarios Energéticos; las respuestas a las observaciones formuladas al Informe Preliminar y que no fueron acogidas; y la identificación de los Escenarios Energéticos, incluyendo el o los Polos de Desarrollo de Generación Eléctrica identificados en el Informe Técnico.
+El Informe Final contendrá, al menos, el horizonte de planificación estudiado; las proyecciones de oferta y de demanda energética utilizadas, en particular la eléctrica; la información territorial y ambiental existente que fue utilizada durante el proceso; los criterios, antecedentes y datos empleados para la construcción de los Escenarios Energéticos; los resultados de las simulaciones, cálculos y análisis hechos para la identificación de los Escenarios Energéticos; las respuestas a las observaciones formuladas al Informe Preliminar y que no fueron acogidas; y la identificación de los Escenarios Energéticos, incluyendo el o los Polos de Desarrollo de Generación Eléctrica identificados en el Informe Técnico y podrá incluir criterios orientadores para la priorización de regiones que requieren elaborar o actualizar los Planes Estratégicos de Energía en Regiones.
 
 #### Artículo 18
 
@@ -281,6 +285,94 @@ Una vez publicado el Informe Definitivo conforme a lo indicado en el artículo a
 El Ministerio podrá emitir, durante el mes de abril de cada año, un Informe de Actualización de Antecedentes, lo que será comunicado mediante correo electrónico a los inscritos en el Registro de Interesados y publicado en el sitio web del Ministerio junto con la metodología utilizada para permitir la reproducción de los análisis realizados. En caso de que el Ministerio emita el señalado informe, deberá comunicarlo a la Comisión, dentro de los cinco días siguientes a su publicación, para los efectos de que ésta lo considere en la planificación de la transmisión a la que se refieren los artículos 87º y siguientes de la Ley.
 
 Si con motivo de las actualizaciones antes mencionadas se modifican los Escenarios Energéticos definidos en el decreto de Planificación vigente, el Ministerio podrá desarrollar el Proceso de Planificación antes del vencimiento del plazo correspondiente, conforme a lo dispuesto en el artículo 5° del presente reglamento.
+
+## Título III
+
+DE LOS PLANES ESTRATÉGICOS DE ENERGÍA EN REGIONES
+
+#### Artículo 23
+
+Los Planes Estratégicos de Energía en Regiones deberán ser considerados por el Ministerio en la elaboración del Proceso de Planificación. Sin perjuicio de lo anterior, los Planes Estratégicos de Energía en Regiones podrán ser utilizados para la coordinación de planes, políticas y programas establecidos por el Ministerio para el buen funcionamiento y desarrollo del sector energético en el territorio regional correspondiente.
+
+#### Artículo 24
+
+Corresponderá al Ministerio la elaboración de los Planes Estratégicos de Energía en Regiones, debiendo considerar las proyecciones de oferta y de demanda energética, y los Escenarios Energéticos contenidos en el decreto vigente de la Planificación Energética.
+
+Los Planes Estratégicos de Energía en Regiones deberán incluir, al menos, los siguientes contenidos:
+
+a) Los lineamientos estratégicos que orienten el desarrollo energético regional, establecidos de acuerdo a la política energética nacional, determinada por el Ministerio.
+
+b) Las áreas de gestión energética regional, establecidas de acuerdo con los lineamientos estratégicos señalados en el literal a) precedente.
+
+c) Las zonas con aptitud energética, identificadas de acuerdo con los lineamientos estratégicos señalados en el literal a) anterior.
+
+#### Artículo 25
+
+Para efectos del proceso de elaboración de los Planes Estratégicos de Energía en Regiones, el Ministerio podrá requerir de otros ministerios, servicios públicos, entidades en que el Estado tenga aportes de capital, participación o representación, del Coordinador, de las entidades y empresas vinculadas directa o indirectamente al sector energía y de los usuarios no sujetos a regulación de precios, los antecedentes y la información que estime necesarios, los que deberán ser entregados en la forma y plazo que el Ministerio establezca para dichos efectos.
+
+En particular, el Ministerio podrá solicitar a los órganos de la Administración del Estado, dentro del ámbito de sus competencias, información de las políticas y planes vigentes o que se encuentren en desarrollo en la región respectiva, así como antecedentes, información o estudios de variables ambientales y territoriales a considerar, entre otros.
+
+Los funcionarios del Ministerio y las personas que le presten servicio bajo cualquier modalidad de contratación deberán guardar reserva de los documentos y antecedentes solicitados conforme a lo dispuesto en el presente reglamento, siempre que tales antecedentes no tengan el carácter de públicos.
+
+#### Artículo 26
+
+Para la elaboración de los Planes Estratégicos de Energía en Regiones el Ministerio implementará mecanismos de participación ciudadana a nivel regional y provincial, debiendo, para estos efectos, abrir una Nómina de Interesados, conforme a lo dispuesto en el presente reglamento. La apertura de la referida nómina dará inicio al proceso de elaboración de los Planes Estratégicos de Energía en Regiones.
+
+El llamado a inscripción en la Nómina de Interesados será publicado en el sitio web del Ministerio y, por una sola vez, en el Diario Oficial y en un diario de circulación regional, debiendo otorgarse a los interesados un plazo de, a lo menos, 15 días hábiles para la presentación de los antecedentes a que se refiere el artículo 27 del presente reglamento.
+
+Para efectos de inscribirse en la Nómina de Interesados, las personas naturales o jurídicas interesadas deberán presentar una solicitud en la que indicarán y acompañarán los siguientes antecedentes:
+
+a) Nombre o razón social.
+
+b) Copia del rol único tributario o de la cédula nacional de identidad de la persona jurídica o natural interesada.
+
+c) Certificado de vigencia de la persona jurídica, no anterior a 30 días contados desde la fecha de la presentación de la solicitud.
+
+d) Copia de la personería del representante legal de la persona jurídica, con certificado de vigencia.
+
+e) Domicilio.
+
+f) Dirección de correo electrónico.
+
+#### Artículo 27
+
+Las personas naturales y jurídicas inscritas en la Nómina de Interesados tendrán derecho a:
+
+a) Recibir por correo electrónico de parte del Ministerio las notificaciones de las etapas e hitos del proceso de elaboración de los Planes Estratégicos de Energía en Regiones.
+
+b) Participar en la audiencia pública convocada por el Ministerio a efectos de exponer el plan de trabajo del proceso de elaboración de los Planes Estratégicos de Energía en Regiones, realizar observaciones al mismo y acompañar los antecedentes o la información que estimen pertinente.
+
+c) Participar en audiencias que pudiese convocar el Ministerio para presentar los avances del proceso de elaboración de los Planes Estratégicos de Energía en Regiones y realizar observaciones a lo presentado en ellas, en los plazos y condiciones que defina el Ministerio.
+
+d) Realizar observaciones a la propuesta del Plan Estratégico de Energía en Regiones.
+
+La inscripción en la Nómina de Interesados será condición necesaria para realizar las observaciones a que se refiere el literal d) del presente artículo.
+
+#### Artículo 28
+
+El Ministerio convocará a las personas naturales y jurídicas inscritas en la Nómina de Interesados a una audiencia pública, que podrá realizarse de manera presencial o remota, en la que deberán presentarse los contenidos de los Planes Estratégicos de Energía en Regiones. La convocatoria deberá ser publicada en el sitio web del Ministerio, señalando el lugar, fecha y hora de realización de esta y será, además, notificada a quienes figuren en la Nómina de Interesados.
+
+Asimismo, el Ministerio podrá convocar a participar a los órganos de la Administración del Estado señalados en el artículo 25 del presente reglamento, de modo de procurar una actuación coordinada de las entidades públicas involucradas.
+
+#### Artículo 29
+
+Dentro de los doce meses siguientes de iniciado el proceso de elaboración, prorrogables por doce meses mediante resolución fundada, el Ministerio elaborará una propuesta del Plan Estratégico de Energía en Regiones que deberá contener lo señalado en el inciso segundo del artículo 24 del presente reglamento y que será publicada en su sitio web.
+
+#### Artículo 30
+
+Las personas naturales o jurídicas inscritas en la Nómina de Interesados, tendrán un plazo de 15 días contados desde la publicación a que se refiere el artículo anterior, para formular observaciones a la propuesta del Plan Estratégico de Energía en Regiones. Dentro de los 30 días siguientes al cumplimiento del plazo para recibir observaciones, el Ministerio deberá publicar un documento que contenga la totalidad de las observaciones recibidas y sus respectivas respuestas.
+
+La propuesta del Plan Estratégico de Energía en Regiones y todos los antecedentes que den cuenta del proceso de elaboración del mismo, deberán encontrarse a disposición permanente del público, en el sitio web del Ministerio, a través de un expediente electrónico que los contenga.
+
+#### Artículo 31
+
+Una vez publicado el documento con las observaciones recibidas, el Ministerio dictará la resolución que apruebe el Plan Estratégico de Energía en Regiones respectivo.
+
+#### Artículo 32
+
+Los plazos expresados en días establecidos en el presente título serán de días hábiles, salvo que se indique expresamente lo contrario, entendiéndose que son inhábiles los días sábado, los domingo y los festivos.
+
+Cuando el último día del plazo sea inhábil, éste se entenderá prorrogado al primer día hábil siguiente.
 
 DISPOSICIÓN TRANSITORIA
 
