@@ -46,7 +46,11 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 6. Firmar la resolución que designa la comisión evaluadora de licitación.
 
-7. Firmar la resolución que autoriza contratación directa y aprueba los respectivos términos de referencia, salvo en caso de urgencia, emergencia o imprevisto.
+7. Firmar la resolución que autoriza contratación directa y aprueba los respectivos términos de referencia, salvo en los siguientes casos:
+
+- Urgencia, emergencia o imprevisto.
+
+- En que por la magnitud o importancia que implica la contratación se hace indispensable recurrir a un proveedor determinado, debido a la confianza y seguridad que se derivan de su experiencia comprobada en la provisión de los bienes o servicios requeridos y no existieran otros proveedores que otorguen esa misma confianza y seguridad.
 
 8. Firmar la resolución que declara desierta licitación.
 
@@ -72,7 +76,7 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 19. Firmar la resolución que aplica multa a proveedores, en el contexto de las compras públicas que lleve la Subsecretaría.
 
-20. Firmar los contratos con personas naturales y jurídicas; y convenios de cooperación interinstitucional, cuyo monto total no exceda de 2.000 UTM.
+20. Firmar los contratos con personas naturales y jurídicas cuyo monto total no exceda de 2.000 UTM.
 
 C.- MATERIAS DE PERSONAL
 
@@ -141,6 +145,10 @@ Deléguese en los Secretarios Regionales Ministeriales de Economía, y en ausenc
 2. El ejercicio de la facultad referida en el artículo 5° de la ley N° 19.896, de visar los decretos o resoluciones que aprueben la contratación de personas naturales a honorarios en los órganos y servicios públicos incluidos en la ley de presupuestos y a las contrataciones en el mismo servicio con aplicación de lo dispuesto en la letra d) del artículo 81 de la ley N° 18.834.
 
 #### Artículo sexto
+
+Deléguese en la Jefatura del Departamento Administrativo y, en ausencia o impedimento de esta, en la Jefatura de la División Jurídica, el ejercicio de atribuciones y la facultad de firmar, bajo la fórmula "Por orden del Subsecretario" o "Por orden de la Subsecretaria" -según corresponda-, así como la de rectificar, modificar y dejar sin efecto o revocar, la resolución que aprueba las respuestas a las preguntas efectuadas por los proveedores en los procesos de licitación.
+
+#### Artículo séptimo
 
 Déjense sin efecto las resoluciones administrativas exentas Nos 3, de 2003; 2.191, de 2014; 3.230, de 2014, y 2.925, de 2017, todas de esta Subsecretaría.
 
