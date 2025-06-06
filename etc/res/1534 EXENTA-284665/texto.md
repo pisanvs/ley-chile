@@ -3198,25 +3198,31 @@ según lo requiera la
 
 situación.
 
-1213 Fono Emergencia La recepción de llamadas de
+1213 Fono La recepción de llamadas
 
-Alto Hospicio emergencia por parte del Área
+Emergencia de emergencia por
 
-de Emergencias y Seguridad
+Alto parte del Área de
+
+Hospicio Emergencias y Seguridad
 
 Pública de la Ilustre
 
-Municipalidad de Alto Hospicio,
+Municipalidad de Alto
 
-ante las inquietudes o
+Hospicio, ante las
 
-solicitudes tendientes a
+inquietudes o
 
-salvaguardar la vida y los
+solicitudes tendientes
 
-bienes de las personas, que
+a salvaguardar la vida
 
-ocurran en la comuna. El
+y los bienes de las
+
+personas, que ocurran
+
+en la comuna. El
 
 personal de dicha unidad
 
@@ -3224,40 +3230,104 @@ recibirá la llamada y
 
 efectuará las acciones
 
-concretas e inmediatas para
+concretas e inmediatas
 
-afrontar la emergencia,
+para afrontar la
 
-mediante su equipo de
+emergencia, mediante
 
-seguridad, de manera de anticipar
+su equipo de
 
-y facilitar las labores de las
+seguridad, de manera de
 
-instituciones que tienen como
+anticipar y facilitar
 
-fin la atención de estas mismas
+las labores de las
 
-(Carabineros, Policía de
+instituciones que tienen
 
-Investigaciones, Bomberos,
+como fin la atención de
 
-Ambulancias, etc.). Además, la
+estas mismas
 
-Municipalidad dispone de una
+(Carabineros,
 
-Oficina de Seguridad, que tiene
+Policía de
 
-como misión ser una facilitadora
+Investigaciones,
 
-de la prevención del delito y un
+Bomberos, Ambulancias,
 
-ente activo en la defensa y el
+etc.). Además, la
 
-apoyo a las víctimas de delitos
+Municipalidad dispone
 
-violentos que residen en la
+de una Oficina de
 
-comuna.
+Seguridad, que tiene
+
+como misión ser una
+
+facilitadora de la
+
+prevención del delito
+
+y un ente activo en
+
+la defensa y el apoyo
+
+a las víctimas de
+
+delitos violentos que
+
+residen en la comuna.
+
+1212 Fono La recepción de
+
+Emergencia llamadas de emergencia
+
+Bancaria bancaria que ocurran a
+
+nivel nacional, las que
+
+serán canalizadas hacia
+
+las distintas
+
+plataformas,
+
+permitiendo que las
+
+personas contacten a su
+
+institución bancaria
+
+para dar aviso de
+
+manera ágil e
+
+inmediata ante
+
+situaciones de
+
+seguridad y
+
+emergencia, tales
+
+como: Bloqueo de
+
+tarjetas y
+
+dispositivos;
+
+Prevenir transacciones
+
+no autorizadas tras
+
+un hurto, robo o
+
+pérdida de celular
+
+o tarjetas.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
