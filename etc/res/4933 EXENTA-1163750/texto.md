@@ -90,11 +90,15 @@ Resuelvo:
 
 4.1.3. La madera seca en horno (KD) o con tratamiento térmico (HT) de cualquier especie u origen no requiere de las declaraciones adicionales indicada en el resuelvo Nº 4.1.1.
 
-4.2. Se aceptará para cada tipo de madera especificada en el cuadro del Resuelvo 4.1.1 de la presente resolución, como Declaración Adicional alternativa, que:
+4.2. Se aceptará como Declaración Adicional alternativa, que:
 
-4.2.1. La/s plaga/s no está(n) presentes en el país de origen o,
+4.2.1. La/s plaga/s no está/n presentes en el país de origen.
 
-4.2.2. El envío proviene de área libre de la plaga, reconocida oficialmente por el Servicio, por resolución exenta, la cual debe indicarse en el certificado fitosanitario.
+Para dar cumplimiento a esta Declaración Adicional, el país de origen deberá mantener información de respaldo y los registros de plagas, en la que se basan para determinar la condición de país libre, teniendo en cuenta que estos registros podrán ser solicitados por el Servicio.
+
+o,
+
+4.2.2. El envío proviene de área libre de la/s plaga/s, reconocida oficialmente por el Servicio a través de una resolución exenta (Indicar número y año)..
 
 4.3. El envío debe encontrarse descortezado y libre de contaminantes tales como moluscos, suelo, ramas, ramillas, conos, hojas u otros restos vegetales susceptibles de transportar plagas.
 
