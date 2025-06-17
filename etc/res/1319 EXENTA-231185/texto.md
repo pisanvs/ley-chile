@@ -60,7 +60,7 @@ d) Para el servicio complementario de acceso conmutado a Internet, se atribuye e
 
 e) Para el servicio complementario de comunicaciones masivas no solicitadas, se atribuye el bloque de numeración 809 XXX XXX, siendo X cualquier dígito del 0 al 9. Toda comunicación masiva no solicitada deberá utilizar esta numeración y canalizar la comunicación de forma que ésta sea visible para el suscriptor o usuario telefónico. Esta numeración sólo podrá ser utilizada por el asignatario para los fines autorizados.
 
-f) Para el servicio complementario de comunicaciones masivas solicitadas, se atribuye el bloque de numeración 600 XXX XXX, siendo X cualquier dígito del 0 al 9. Toda comunicación masiva solicitada deberá utilizar esta numeración y canalizar la comunicación de forma que ésta sea visible para el suscriptor o usuario telefónico. Esta numeración sólo podrá ser utilizada por el asignatario para los fines autorizados.
+f) Para el servicio complementario de comunicaciones masivas solicitadas, se atribuye el bloque de numeración 600 XXX XXXX, siendo X cualquier dígito del 0 al 9. Toda comunicación masiva solicitada deberá utilizar esta numeración y canalizar la comunicación de forma que ésta sea visible para el suscriptor o usuario telefónico. Esta numeración sólo podrá ser utilizada por el asignatario para los fines autorizados.
 
 3. La numeración de los servicios indicados en el punto 2 precedente será asignada por la Subsecretaría de Telecomunicaciones, a solicitud de los interesados.
 
