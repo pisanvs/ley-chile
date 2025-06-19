@@ -74,9 +74,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11°
 
-El plazo de construcción de las obras, desde el inicio de los trabajos hasta la terminación total de las obras, será de 9 meses, considerando el inicio de ellas dentro de los 28 meses siguientes contados desde la reducción a escritura pública del presente decreto de concesión eléctrica definitiva. Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
-
-.
+El plazo de construcción de las obras, desde el inicio de los trabajos hasta la terminación total de las obras, será de 9 meses, considerando el inicio de ellas dentro de los 46 meses siguientes contados desde la reducción a escritura pública del presente decreto de concesión eléctrica definitiva. Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
 
 #### Artículo 12º
 
