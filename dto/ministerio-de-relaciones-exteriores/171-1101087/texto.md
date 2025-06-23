@@ -218,13 +218,15 @@ Presidente del Consejo Directivo del Servicio Electoral.
 
 Ministros de Estado:
 
-- Interior y Seguridad Pública
+- Interior
 
 - Relaciones Exteriores
 
 - Defensa Nacional
 
 - Hacienda
+
+- Seguridad Pública
 
 - Secretaría General de la Presidencia
 
@@ -316,13 +318,15 @@ Subsecretarios de Estado:
 
 - Desarrollo Regional y Administrativo
 
-- Prevención del Delito
-
 - Defensa
 
 - Fuerzas Armadas
 
 - Hacienda
+
+- Seguridad Pública
+
+- Prevención del Delito
 
 - Secretaría General de la Presidencia
 
