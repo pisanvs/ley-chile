@@ -386,7 +386,9 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 3. Venta o permuta de inmuebles fiscales, mediante trato directo, licitación privada o pública, cuyo valor comercial, fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del D.L. 1.939, de 1977, sea igual o inferior a 5.000 U.T.M. Esta delegación incluye todos los actos administrativos que se dicten en el respectivo proceso, incluyendo la aprobación de las bases de licitación, sus modificaciones y de los contratos respectivos.
 
-4. Aprobación de los contratos de permuta y venta de inmuebles fiscales cuyo valor sea superior a 5.000 U.T.M., así como la aprobación de los contratos de compra de inmuebles cualquiera sea su valor, con excepción de la aprobación de contratos de compra celebrados al amparo de la Ley Nº 20.385.
+4. Aprobación de los contratos de permuta y venta de inmuebles fiscales cuyo valor sea superior a 5.000 UTM, así como la aprobación, no aprobación y resciliación de los contratos de compra de bienes inmuebles, en todos los casos cualquiera sea su valor. Esta delegación incluye todos los actos administrativos que se dicten para la ejecución y perfeccionamiento de los respectivos procesos incluyendo sus revocaciones o modificaciones.
+
+La delegación no aplicará a la aprobación de contratos de compra celebrados al amparo de la ley Nº 20.385.
 
 5. DEROGADO.
 
