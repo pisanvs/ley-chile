@@ -1954,43 +1954,7 @@ En el plazo de dos años a contar de la entrada en vigencia de la presente ley, 
 
 #### Artículo sexto
 
-El fraccionamiento de la cuota global de captura entre el sector pesquero artesanal e industrial entre los años 2013 y 2032, ambos años inclusive, en los recursos hidrobiológicos y áreas que a continuación se indican, será el siguiente:
-
-a) Sardina española (Sardinops sagax) y Anchoveta (Engraulis ringens), en el área marítima entre el límite norte de la XV Región y el límite sur de la II Región: De la suma de ambas cuotas globales: Hasta 500.000 toneladas, el 16% para el sector pesquero artesanal y 84% para el sector pesquero industrial. Entre 500.000 y 1.000.000 de toneladas al monto que le corresponde al sector artesanal en el tramo anterior se le sumará un 12% de la diferencia entre la cuota global de captura a fraccionar y las 500.000 toneladas y el remanente será para el sector pesquero industrial. Entre las 1.000.000 a 1.500.000 toneladas el monto que le corresponde al sector artesanal en el tramo anterior se le sumará un 8% de la diferencia entre la cuota global de captura a fraccionar y las 1.000.000 de toneladas y el remanente será para el sector pesquero industrial. Sobre 1.500.000 toneladas un 12% de la cuota global de captura para el sector pesquero artesanal y 88% para el sector pesquero industrial.
-
-No obstante lo anterior, la cuota correspondiente al sector artesanal de la II Región se incrementará en un 1% de lo que le corresponde según el inciso anterior al sector industrial decreciendo la fracción industrial en la misma proporción.
-
-b) Jurel (Trachurus murphy) en el área marítima comprendida entre el límite norte de la XV Región al límite sur de la X Región, 10% para el sector pesquero artesanal y 90% para el sector pesquero industrial.
-
-No obstante lo anterior, la fracción de la cuota artesanal para el área comprendida entre el límite norte de la XV Región y el límite sur de la II Región, corresponde a un 5% para el sector artesanal y 95% para el sector industrial.
-
-c) Anchoveta (Engraulis ringens), en el área marítima comprendida entre el límite norte de la V Región al límite sur de la X Región, 78% para el sector pesquero artesanal y 22% para el sector pesquero industrial.
-
-d) Sardina común (Strangomera benticki), en el área marítima comprendida entre el límite norte de la V Región al límite sur de la X Región, 78% para el sector pesquero artesanal y 22% para el sector pesquero industrial.
-
-e) Anchoveta (Engraulis ringens), en el área marítima comprendida entre el límite norte de la III Región al límite sur de la IV Región, 50% para el sector pesquero artesanal y 50% para el sector pesquero industrial.
-
-f) Sardina española (Sardinops sagax), en el área marítima comprendida entre el límite norte de la III Región al límite sur de la IV Región, 50% para el sector pesquero artesanal y 50% para el sector pesquero industrial.
-
-g) Merluza Común (Merluccius gayi) en el área marítima comprendida entre el límite norte de la IV Región al paralelo 41°28,6' de latitud sur, 40% para el sector pesquero artesanal y 60% para el sector pesquero industrial.
-
-h) Merluza del sur (Merluccius australis), en el área marítima comprendida entre el límite norte de la X Región al límite sur de la XII Región para el sector pesquero artesanal y entre el 41°28,6' latitud sur al 57° latitud sur para el sector pesquero industrial, 60% para el sector pesquero artesanal y 40% para el sector pesquero industrial.
-
-i) Congrio dorado (Genypterus blacodes), en el área marítima comprendida entre el límite norte de la X Región al límite sur de la XII Región para el sector pesquero artesanal y entre el 41°28,6' latitud sur al 57° latitud sur para el sector pesquero industrial, 50% para el sector pesquero artesanal y 50% para el sector pesquero industrial.
-
-j) Camarón naylon (Heterocarpus reedi), en el área marítima comprendida entre el límite norte de la II Región y el límite sur de la VIII Región: Hasta las 600 toneladas el total de la cuota global será para el sector pesquero artesanal. Entre 600 y 4.000 toneladas al monto que le corresponde al sector artesanal en el tramo anterior se le sumará un 5,88% de la diferencia entre la cuota global de captura a fraccionar y las 600 toneladas y el remanente será para el sector pesquero industrial. Sobre 4.000 toneladas de la cuota global un 20% será para el sector pesquero artesanal y 80% para el sector pesquero industrial.
-
-De la fracción artesanal el 75% será distribuido en las Regiones que comprenden la unidad de pesquería considerando las capturas desembarcadas durante los dos años anteriores al año de aplicación de la distribución.
-
-k) Langostino Colorado (Pleuroncodes monodon), en el área marítima comprendida entre el límite norte de la I Región y el límite sur de la IV Región: Hasta las 700 toneladas el total de la cuota global será para el sector pesquero artesanal. Entre 701 y 2.100 toneladas, el sector pesquero artesanal conservará una fracción de 700 toneladas, siendo el exceso para el sector pesquero industrial. Sobre las 2.100 toneladas, el 30% de la cuota global será para el sector pesquero artesanal y 70% para el sector pesquero industrial.
-
-De la fracción artesanal el 75% será distribuido en las Regiones que comprenden la unidad de pesquería considerando las capturas desembarcadas durante los dos años anteriores al año de aplicación de la distribución.
-
-l) Langostino amarillo (Cervimunida johni), en el área marítima comprendida entre el límite norte de la III Región y el límite sur de la IV Región: Hasta las 350 toneladas el total de la cuota global será para el sector pesquero artesanal. Entre 350 y 1.350 toneladas al monto que le corresponde al sector artesanal en el tramo anterior se le sumará un 10% de la diferencia entre la cuota global de captura a fraccionar y las 350 toneladas y el remanente será para el sector pesquero industrial. Sobre 1.350 toneladas de cuota global un 33% será para el sector pesquero artesanal y 67% para el sector pesquero industrial.
-
-De la fracción artesanal el 75% será distribuido en las Regiones que comprenden la unidad de pesquería considerando las capturas desembarcadas durante los dos años anteriores al año de aplicación de la distribución.
-
-El porcentaje de la fracción artesanal que acrece con este artículo, se distribuirá preferentemente en aquella Región en que se registren los mayores desembarques por parte del sector industrial.
+Derogado.
 
 #### Artículo séptimo
 
