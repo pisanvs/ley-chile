@@ -2162,7 +2162,7 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 2. Equipamiento Mediano: El que contempla una carga de ocupación superior a 1.000 y hasta 6.000 personas y sólo se podrá ubicar en predios que enfrenten vías colectoras, troncales o expresas.
 
-3. Equipamiento Menor: El que contempla una carga de ocupación superior a 250 y hasta 1.000 personas y sólo se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas. Excepcionalmente, en aquellas localidades que no formen parte de un Plan Regulador Comunal, pero que sí cuenten con Límite Urbano, se podrán localizar equipamientos de salud, destinados a asistencia hospitalaria tales como hospitales, clínicas, policlínicas, consultorios, postas u otros establecimientos de similar naturaleza, en predios que enfrenten vías cuyo ancho entre líneas oficiales no sea inferior a 11 metros.
+3. Equipamiento Menor: El que contempla una carga de ocupación superior a 250 y hasta 1.000 personas y sólo se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas. Excepcionalmente, en aquellas localidades que no formen parte de un Plan Regulador Comunal, pero que sí cuenten con Límite Urbano, se podrán localizar equipamientos de salud, destinados a asistencia hospitalaria tales como hospitales, clínicas, policlínicos, consultorios, postas u otros establecimientos de similar naturaleza, en predios que enfrenten vías cuyo ancho entre líneas oficiales no sea inferior a 11 metros.
 
 4. Equipamiento Básico: El que contempla una carga de ocupación superior a 100 y hasta 250 personas y sólo se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
 
