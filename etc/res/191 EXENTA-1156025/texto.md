@@ -52,6 +52,10 @@ g) Hacer seguimiento de todas aquellas materias que la Directora estime de relev
 
 h) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que la Directora encomiende.
 
+i) Autorizar las comisiones de servicio y cometidos funcionarios.
+
+j) Autorizar los permisos administrativos y feriados legales que le corresponda autorizar a la jefatura superior del servicio.
+
 2.1.1 Dependerá de Dirección, un Gabinete Técnico, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier Departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos de carácter técnico, que estime necesarios y pertinentes.
 
 A esta jefatura le corresponderán las siguientes funciones:
@@ -70,7 +74,7 @@ f) Supervisar materias internacionales.
 
 g) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que la Directora encomiende, respecto de su ámbito de competencia.
 
-2.2. Fiscalía, que será la unidad asesora de la Dirección que tendrá como función asesorar jurídica y judicialmente a la jefatura de Servicio, definir los criterios jurídicos que deba aplicar la institución en todas las materias de su competencia, y asesorar a los departamentos y unidades en la adopción de decisiones y políticas institucionales con el fin de incorporar el análisis de juridicidad en sus actuaciones.
+2.2 Fiscalía, que será la unidad asesora de la Dirección que tendrá como función asesorar jurídica y judicialmente a la jefatura de Servicio, definir los criterios jurídicos que deba aplicar la institución en todas las materias de su competencia, y asesorar a los departamentos y unidades en la adopción de decisiones y políticas institucionales con el fin de incorporar el análisis de juridicidad en sus actuaciones. Le corresponderá, también, ser el punto de enlace directo con la Tesorería General de la República, solo para efectos de la cobranza que ese organismo debe ejecutar respecto de las multas que aplique el Instituto en los sumarios sanitarios, conforme lo dispuesto en el artículo 174 bis del Código Sanitario.
 
 2.2.1 La jefatura de la Fiscalía tendrá delegada la firma de las siguientes actuaciones:
 
@@ -86,9 +90,11 @@ e) Oficios que deban ser enviados a Contraloría General de la República para s
 
 f) Firmar las comunicaciones dirigidas al Diario Oficial, para solicitar la publicación de actos administrativos emitidos por este Instituto.
 
+g) Firmar las comunicaciones dirigidas a Tesorería General de la República, solo en el caso que estas que digan relación con la cobranza de sumarios sanitarios, con arreglo a lo establecido en el artículo 174 bis del Código Sanitario.
+
 2.2.2 La Fiscalía estará conformada por las siguientes oficinas, con las funciones y delegaciones que se describen:
 
-2.2.2.1 Oficina Judicial y Convenios, que tiene la función de asumir la defensa judicial del Instituto y, en general, representar al Servicio ante los tribunales de justicia, con excepción de las responsabilidades que en esta materia tenga asignado el Subdepartamento de Gestión Financiera. Asimismo, es la responsable de gestionar los convenios que suscribe la institución con otras entidades, velando por la juridicidad de los mismos.
+2.2.2.1 Oficina Judicial y Convenios, que tiene la función de asumir la defensa judicial del Instituto y, en general, representar al Servicio ante los tribunales de justicia. Asimismo, es la responsable de gestionar los convenios que suscribe la institución con otras entidades, velando por la juridicidad de los mismos.
 
 2.2.2.2 Oficina Jurídica, cuya función es la de asesorar a la institución, proponiendo acciones y decisiones que consideren el cumplimiento de las normas sobre la Administración del Estado y respecto de la función pública en general, con énfasis en lo referido la juridicidad de las adquisiciones que requieren revisión de legalidad, como también la asesoría en materia de procesos disciplinarios. Asimismo, es la responsable del cumplimiento de las obligaciones asociadas a transparencia activa, así como también de gestionar las solicitudes que se realicen por los usuarios en relación con la ley Nº 20.285, sobre acceso a la información pública. A esta oficina le corresponderá también pronunciarse e impartir directrices en relación al cumplimiento de las normas contenidas en la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, tanto a quienes ejerzan como punto de enlace, como a los sujetos pasivos.
 
@@ -242,7 +248,7 @@ f) Recibir, registrar, almacenar y gestionar la eliminación de los residuos tan
 
 5.5 SUBDEPARTAMENTO ABASTECIMIENTO, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
 
-a) Suscribir las órdenes de compra y actos administrativos necesarios para la adquisición de bienes y contratación de servicios sujetos a la ley Nº 19.886, que se efectúen por compra ágil, siempre y cuando no se trate de contrataciones relativas a personal, asesorías, materias de infraestructura, equipos y sistemas informáticos y estudios e investigaciones.
+a) Suscribir las órdenes de compra y actos administrativos necesarios para la adquisición de bienes y contratación de servicios sujetos a la ley N° 19.886, por un monto inferior a 100 UTM, siempre y cuando no se trate de contrataciones relativas a personal, asesorías, materias de infraestructura, equipos y sistemas informáticos y estudios e investigaciones.
 
 b) Firmar y endosar los documentos mercantiles de transporte de mercaderías requeridos en los procesos de importaciones.
 
@@ -308,13 +314,9 @@ viii. Permisos por descanso preparatorio, fallecimiento, nacimiento, matrimonio 
 
 ix. Horarios especiales y permiso de alimentación por hijo menor de dos años.
 
-x. Comisiones de servicio y cometidos funcionarios, previa instrucción de la Dirección.
+x. Calificaciones ejecutoriadas.
 
-xi. Trabajos extraordinarios, sean estos remunerados o con tiempo compensatorio, previa autorización de la Jefatura Superior del Servicio o de la Jefatura del Departamento Administración y Finanzas.
-
-xii. Calificaciones ejecutoriadas.
-
-xiii. Prórrogas de contrata.
+xi. Prórrogas de contrata.
 
 c) Contrataciones ad honorem de alumnos en práctica.
 
@@ -482,13 +484,11 @@ d) Tramitar y manejar los fondos y cuentas bancarias de la institución.
 
 5.8.5 Cobranzas:
 
-a) Recaudar y efectuar las gestiones de cobranza judicial y extrajudicial de deudores morosos.
+a) Recaudar y efectuar las gestiones de cobranza extrajudicial de deudores morosos.
 
-b) Ser el punto de enlace directo con la Tesorería General de la República, para efectos de la cobranza que ese organismo debe ejecutar respecto de las multas que aplique el Instituto en los sumarios sanitarios, conforme lo dispuesto en el artículo 174 bis del Código Sanitario
+b) Efectuar la rendición de lo recaudado, por pagos obtenidos de clientes e instituciones de salud previsional y privadas.
 
-c) Efectuar la rendición de lo recaudado, por pagos obtenidos de clientes e instituciones de salud previsional y privadas.
-
-d) Efectuar la cobranza de las licencias médicas adeudadas por las instituciones de salud previsional públicas y privadas.
+c) Efectuar la cobranza de las licencias médicas adeudadas por las instituciones de salud previsional públicas y privadas.
 
 5.8.6 Administración de Bienes:
 
