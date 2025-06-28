@@ -6,15 +6,15 @@ Proyecto de Ley
 
 #### Artículo 1
 
-A contar del 1 de mayo de 2023, la asignación familiar y maternal del Sistema Único de Prestaciones Familiares, regulada por el decreto con fuerza de ley Nº 150, promulgado el año 1981 y publicado el año 1982, del Ministerio del Trabajo y Previsión Social, tendrá los siguientes valores según los siguientes tramos:
+A contar del 1 de mayo de 2025, la asignación familiar y maternal del Sistema Único de Prestaciones Familiares, regulada por el decreto con fuerza de ley Nº 150, promulgado el año 1981 y publicado el año 1982, del Ministerio del Trabajo y Previsión Social, tendrá los siguientes valores según los siguientes tramos:
 
-a) De $21.243 por carga, para aquellos beneficiarios cuyo ingreso mensual no exceda de $586.227.
+a) De $22.007 por carga, para aquellos beneficiarios cuyo ingreso mensual no exceda de $620.251.
 
-b) De $13.036 por carga, para aquellos beneficiarios cuyo ingreso mensual supere los $586.227 y no exceda de $856.247.
+b) De $13.505 por carga, para aquellos beneficiarios cuyo ingreso mensual supere los $620.251 y no exceda de $905.941.
 
-c) De $4.119 por carga, para aquellos beneficiarios cuyo ingreso mensual supere los $856.247 y no exceda de $1.335.450.
+c) De $4.267 por carga, para aquellos beneficiarios cuyo ingreso mensual supere los $905.941 y no exceda de $1.412.957.
 
-d) Las personas que tengan acreditadas o que acrediten cargas familiares, cuyo ingreso mensual sea superior a $1.335.450, no tendrán derecho a las asignaciones aludidas en este artículo.
+d) Las personas que tengan acreditadas o que acrediten cargas familiares, cuyo ingreso mensual sea superior a $1.412.957, no tendrán derecho a las asignaciones aludidas en este artículo.
 
 Sin perjuicio de lo anterior, mantendrán plena vigencia los contratos, convenios y otros instrumentos que establezcan beneficios para estos trabajadores.
 
@@ -22,7 +22,7 @@ Dichos afiliados y sus respectivos causantes mantendrán su calidad de tales par
 
 Los beneficiarios contemplados en la letra f) del artículo 2 del citado decreto con fuerza de ley y los que se encuentren en goce de subsidio de cesantía, se entenderán comprendidos en el grupo de beneficiarios indicados en la letra a) del inciso primero.
 
-> **Nota.** El inciso primero del artículo primero transitorio de la ley 21685, publicada el 13.07.2024, dispone que los derechos que correspondiere ejercer en aplicación de las modificaciones incorporadas por la citada ley se devengarán a contar del 1 de julio de 2024.
+Las personas beneficiarias de la asignación familiar y maternal del Sistema Único de Prestaciones Familiares que hubieran sido beneficiarias del subsidio familiar de la ley N° 18.020 de manera inmediatamente anterior, tendrán derecho a un beneficio equivalente al valor establecido para el tramo señalado en la letra a) por los veinticuatro meses siguientes a su incorporación al Sistema, o por el plazo que les restare para recibir el subsidio familiar según lo dispuesto en el inciso segundo del artículo 5° de la ley N° 18.020, lo que ocurra primero, independientemente del tramo de ingreso mensual en el que efectivamente se encuentren.
 
 #### Artículo 2°
 
