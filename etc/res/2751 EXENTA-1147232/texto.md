@@ -56,11 +56,7 @@ Asígnanse los tramos de desarrollo profesional docente establecido en el Títul
 
 #### Artículo segundo
 
-Modifícase la resolución exenta N° 3.724, de 2016, modificada por las resoluciones exentas N° 6.778, de 2017, 6.481, de 2018, y 2.109, de 2019, todas de la Subsecretaría de Educación, reemplazándose el artículo primero por el siguiente:
-
-#### Artículo primero
-
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, y señálense los bienios correspondientes, a los profesionales de la educación que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "25102019Nómina_rex3724.pdf", almacenado en CD adjunto, caratulado "Anexos", el que se entiende formar parte integrante del presente acto administrativo.
+Derogado.
 
 #### Artículo tercero
 

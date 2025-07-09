@@ -30,7 +30,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Incorpórase en el artículo primero de la resolución exenta Nº 3.724, de 2016, del Ministerio de Educación, que asigna tramos para la transición al Sistema de Desarrollo Profesional Docente, de conformidad al párrafo 2º transitorio de la ley Nº 20.903, de los profesionales de la educación que indica, y señala bienios que corresponda, al profesional de la educación individualizado en el documento de formato portátil bajo el título "NicanorBurgos".
+Derogado.
 
 #### Artículo segundo
 

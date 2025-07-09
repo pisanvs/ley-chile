@@ -50,7 +50,7 @@ Téngase presente que los listados mencionados en los artículos que siguen, se 
 
 #### Artículo segundo
 
-Modifícase la resolución exenta N° 3.724, de 2016, que Asigna Tramos para la Transición al Sistema de Desarrollo Profesional Docente, de conformidad al párrafo 2° transitorio de la ley N° 20.903, de los profesionales de la educación que indica, y señala los bienios correspondientes, en el siguiente sentido: Incorpórase al listado de los profesionales de la educación, aquellos que se encuentran individualizados en el documento de formato portátil (PDF), a que hace referencia el artículo primero precedente, en la página 1 del archivo, bajo el título "Modifícase la resolución exenta N° 3.724, de 2016, de la Subsecretaría de Educación".
+Derogado.
 
 #### Artículo tercero
 
