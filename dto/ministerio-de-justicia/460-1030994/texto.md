@@ -14,9 +14,9 @@ Considerando:
 
 Decreto:
 
-1º.- Créase al interior del inmueble de propiedad fiscal, ubicado en el sector Salar del Carmen, comuna y provincia de Antofagasta, destinado al Ministerio de Justicia - Secretaría Regional Ministerial de Justicia II Región de Antofagasta, mediante resolución exenta Nº 777, de 2001, de la Secretaría Regional Ministerial de Bienes Nacionales de la Región de Antofagasta, un establecimiento penitenciario denominado "Centro de Cumplimiento Penitenciario de Antofagasta".
+1º.- Créase al interior del inmueble de propiedad fiscal, ubicado en el sector Salar del Carmen, comuna y provincia de Antofagasta, destinado al Ministerio de Justicia - Secretaría Regional Ministerial de Justicia II Región de Antofagasta, mediante resolución exenta Nº 777, de 2001, de la Secretaría Regional Ministerial de Bienes Nacionales de la Región de Antofagasta, un establecimiento penitenciario denominado "Complejo Penitenciario de Antofagasta".
 
-2º.- El establecimiento que se crea, tendrá la categoría o calidad administrativa de Centro de Cumplimiento Penitenciario de Mediana Seguridad y estará destinado a la atención, custodia y vigilancia de hombres condenados.
+2º.- El establecimiento antes indicado tendrá la categoría o calidad administrativa de Complejo Penitenciario de Mediana Seguridad y estará destinado a la atención, custodia y vigilancia de hombres imputados y condenados.
 
 3º.- Su administración interna se regirá por lo establecido en el Reglamento de Establecimientos Penitenciarios, decreto supremo Nº 518, de 1998, del Ministerio de Justicia, y sus modificaciones; por las normas ordinarias y generales que regulan el funcionamiento interno de los establecimientos penitenciarios, y por las resoluciones que se dicten para tal efecto por el Director Nacional de Gendarmería de Chile.
 
