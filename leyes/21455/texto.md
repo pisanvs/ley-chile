@@ -386,7 +386,7 @@ c) Descripción detallada de las medidas que consideran, con indicación de plaz
 
 d) Indicadores de monitoreo, reporte y verificación de cumplimiento de las medidas del plan, conforme a la Estrategia Climática de Largo Plazo.
 
-El no cumplimiento de lo dispuesto en este artículo por parte de los respectivos alcaldes, en el plazo de tres años contados desde la publicación de esta ley, se sancionará con multa correspondiente a una remuneración mensual del respectivo alcalde.
+El no cumplimiento de lo dispuesto en este artículo por parte de los respectivos alcaldes, en el plazo de cuatro años contados desde la publicación de esta ley, se sancionará con multa correspondiente a una remuneración mensual del respectivo alcalde.
 
 #### Artículo 13
 
@@ -1076,7 +1076,7 @@ Agrégase, el siguiente literal s), nuevo, en el artículo 65 de la ley N° 18.6
 
 #### Artículo primero
 
-La Estrategia Climática de Largo Plazo presentada ante la Convención Marco de Naciones Unidas sobre el Cambio Climático el 3 de noviembre del año 2021 mantendrá su vigencia para todos los efectos legales y deberá ser actualizada en el año 2030, de conformidad a esta ley. Por su parte, los Planes de Acción Regional sobre Cambio Climático que se encuentran en elaboración a la fecha de publicación de esta ley, se entenderá que cumplen con lo dispuesto en el artículo 11 y se actualizarán al año 2025.
+La Estrategia Climática de Largo Plazo presentada ante la Convención Marco de Naciones Unidas sobre el Cambio Climático el 3 de noviembre del año 2021 mantendrá su vigencia para todos los efectos legales y deberá ser actualizada en el año 2030, de conformidad a esta ley. Por su parte, los Planes de Acción Regional sobre Cambio Climático que se encuentran en elaboración a la fecha de publicación de esta ley, se entenderá que cumplen con lo dispuesto en el artículo 11.
 
 #### Artículo segundo
 

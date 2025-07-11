@@ -108,6 +108,42 @@ Las personas que emitan informes para ser presentados ante el Servicio de Aduana
 
 En el caso que los informes referidos contengan conclusiones erróneas o sean falsos, sus emisores serán solidariamente responsables con sus mandantes de las indemnizaciones que correspondan.
 
+#### Artículo 8 bis
+
+Sin perjuicio de los derechos garantizados por la Constitución Política de la República y las leyes, constituyen derechos de las personas señaladas en el artículo 71 de esta Ordenanza, los siguientes:
+
+1. El ser informado sobre el ejercicio de sus derechos, el que se facilite el cumplimiento de sus obligaciones tributarias y aduaneras, y a obtener información clara del sentido y alcance de todas las actuaciones en que tenga la calidad de interesado.
+
+2. El ser atendido en forma cortés, diligente y oportuna, con el debido respeto y consideración.
+
+3. Obtener en forma completa y oportuna las devoluciones a que tenga derecho conforme a las leyes tributarias y aduaneras, debidamente actualizadas.
+
+4. Obtener copias en formato electrónico, o certificaciones de las actuaciones realizadas o de los documentos presentados en los procedimientos, en los términos previstos en la ley.
+
+5. Que en las labores de fiscalización realizadas por el Servicio se respete la vida privada y se protejan los datos personales en conformidad con la ley; y que las declaraciones de destinación aduanera, salvo los casos de excepción legal, tengan carácter reservado.
+
+6. Ejercer los recursos e iniciar los procedimientos que correspondan, personalmente o representados; formular alegaciones y presentar antecedentes dentro de los plazos previstos en la ley y que tales antecedentes sean incorporados al procedimiento de que se trate y debidamente considerados por el funcionario competente.
+
+7. Plantear, en forma respetuosa y conveniente, sugerencias y quejas sobre las actuaciones del Servicio en que tenga interés o que le afecten.
+
+8. Conocer los criterios técnicos y jurídicos que funden las decisiones o resoluciones del Servicio. Para estos efectos el Servicio deberá publicar en su sitio web las normas de régimen interno y los manuales de funciones o de procedimiento, órdenes e instrucciones, salvo aquellos que sean reservados en conformidad con la ley. Asimismo, el Servicio deberá mantener un registro actualizado de los criterios interpretativos emitidos por el Director Nacional de Aduanas en ejercicio de sus facultades interpretativas y de la jurisprudencia judicial en materia tributaria y aduanera.
+
+9. Que las actuaciones del Servicio no afecten el normal desarrollo de las operaciones o actividades económicas, salvo en los casos previstos por la ley.
+
+10. Que, para todos los efectos legales y cualquiera sea el caso, se respeten los plazos de prescripción o caducidad tributaria y aduanera establecidos en la ley.
+
+Quienes actúen ante el Servicio podrán presentar un recurso de resguardo al considerar vulnerados sus derechos producto de una acción u omisión del Servicio, ante el competente Director Regional o ante el Director Nacional de Aduanas, en su caso, si la actuación es realizada por el Director Regional, dentro de décimo día contado desde su ocurrencia. Deberán recibirse todos los antecedentes que el solicitante acompañe a la presentación para fundar el acto u omisión que origina dicho recurso. Recibido el recurso de resguardo éste deberá resolverse fundadamente dentro de quinto día, ordenando se adopten las medidas que corresponda. Toda prueba que sea rendida deberá valorarse según las normas de la sana critica.
+
+De lo resuelto por el Director Regional se podrá reclamar ante el Juez Tributario y Aduanero, conforme al procedimiento del Número 4º del Título VI del Libro II.
+
+Sin perjuicio de lo anterior, alternativamente los solicitantes podrán reclamar en forma directa en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos establecidos en este artículo ante el Juez Tributario y Aduanero, conforme al procedimiento del Número 4º del Título VI del Libro II.
+
+El Servicio deberá tomar las medidas necesarias para que los funcionarios actúen en conocimiento y cabal respeto de los derechos de quienes interactúen con el Servicio Nacional de Aduanas.
+
+En toda dependencia del Servicio deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de quienes actúen ante el Servicio Nacional de Aduanas, expresados en la enumeración contenida en el inciso primero. Asimismo, deberán exhibirse en un lugar visible en el sitio web del Servicio.
+
+Los plazos a que se refiere el inciso segundo serán de días hábiles. Se entiende que son inhábiles los días sábado, domingo y festivos.
+
 4.- De las Aduanas
 
 #### Artículo 9º
@@ -144,7 +180,7 @@ Ninguna autoridad ni empleado de Aduana podrá intervenir en la zona secundaria 
 
 #### Artículo 15
 
-Para los efectos del fiel cumplimiento de las disposiciones de esta Ordenanza, toda persona que entre al país o salga de él podrá ser registrada por las autoridades aduaneras, con arreglo a los reglamentos que dicte el Director Nacional de Aduanas con aprobación del Presidente de la República.
+Para los efectos del fiel cumplimiento de las disposiciones de esta Ordenanza, toda persona que entre al país o salga de él podrá ser registrada por las autoridades aduaneras, con arreglo a la regulación que dicte el Director Nacional de Aduanas.
 
 #### Artículo 16
 
@@ -211,6 +247,24 @@ Asimismo, lo dispuesto en el inciso precedente se aplicará a los agentes de car
 #### Artículo 25
 
 Las mercancías responderán directa y preferentemente al Fisco por los derechos, impuestos, tasas, gastos y multas a que dieren lugar.
+
+#### Artículo 25 bis
+
+Toda notificación que deba realizar el Servicio Nacional de Aduanas se practicará por correo electrónico, salvo las excepciones legales que procedan.
+
+Toda persona natural o jurídica que actúe ante el Servicio Nacional de Aduanas, personal o debidamente representada, debe declarar en su primera presentación la dirección de correo electrónico para efectos de que se practiquen las notificaciones que correspondan. La notificación que deba efectuarse a un agente de aduanas o a otro operador que deba registrarse ante el Servicio Nacional de Aduanas, se realizará válidamente en la casilla de correo electrónico que haya declarado en su inscripción. En el caso de la tramitación de una destinación aduanera, la notificación de todos los actos relacionados con el despacho se efectuará válidamente con su envío a la dirección de correo electrónico incorporado en la declaración respectiva.
+
+En caso de que cualquiera de los interesados a que se refiere el inciso anterior no declare una dirección de correo electrónico las actuaciones del Servicio serán notificadas de acuerdo con las normas de los artículos 69, 92 bis, 93, 94 y 185 de esta Ordenanza, según el tipo de acto de que se trate.
+
+Quienes carezcan de medios tecnológicos, no tengan acceso a medios electrónicos o sólo actúen excepcionalmente a través de ellos, podrán solicitar al Servicio Nacional de Aduanas que las notificaciones les sean practicadas mediante carta certificada dirigida a su domicilio particular, el cual deberán señalar al momento de efectuar la respectiva solicitud. En este caso, la notificación se entenderá practicada a contar del tercer día siguiente a su recepción en la oficina de correos para su despacho. Esta solicitud será resuelta por el Servicio, de conformidad con el procedimiento que se establezca.
+
+La notificación por correo electrónico se entenderá practicada en la fecha de su envío. El correo electrónico de notificación deberá contener copia de la actuación del Servicio, incluyendo los datos necesarios para su acertada inteligencia.
+
+Es obligación del interesado mantener actualizada la dirección de correo electrónico declarada. Cualquier circunstancia ajena al Servicio por la que el interesado no reciba el correo electrónico, no anulará la notificación, salvo que el interesado acredite que no recibió la información por caso fortuito o fuerza mayor.
+
+Corresponderá al Director Nacional de Aduanas establecer el procedimiento para practicar las notificaciones por correo electrónico del Servicio.
+
+Sin perjuicio de lo señalado en los incisos anteriores, por decreto del Ministerio de Hacienda se podrá establecer otros medios de notificación electrónica respecto de los operadores de comercio exterior que cuenten con autorización para funcionar en sistemas de transmisión electrónica de datos. El Director Nacional deberá mediante resolución identificar los sistemas electrónicos de transmisión de datos incluidos en el presente inciso.
 
 # Libro I
 
@@ -786,6 +840,22 @@ Los cargos que se formulen en conformidad a este artículo se notificarán media
 
 El interesado tendrá el plazo de dos años para solicitar la devolución del exceso de los derechos de aduana, si los pagados resultaren ser mayores a los que correspondan.
 
+#### Artículo 92 ter
+
+El valor declarado en una destinación de importación podrá ser modificado a solicitud del importador, conforme lo dispuesto en el Acuerdo relativo a la Aplicación del Artículo VII del GATT de 1994, y en la ley Nº 18.525, que establece normas sobre importación de mercancías al país, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 31, de 2004, del Ministerio de Hacienda, cuando se trate de variaciones al valor, cuyas condiciones sean conocidas al momento de la legalización de la declaración respectiva, pero no permitan determinar el monto específico del ajuste al valor en dicho momento, y sean susceptibles de ser acreditadas.
+
+Para la aplicación de lo dispuesto en el inciso anterior, al momento de la legalización de la importación se deberá declarar que el valor se encuentra sujeto a revisión y cumplir con los plazos y demás requisitos que determine la regulación emitida al efecto por el Director Nacional de Aduanas, y deberán determinarse los ajustes que sean necesarios a los derechos, impuestos, tasas y demás gravámenes aplicables. El plazo que se establezca en cada caso para que el interesado solicite la modificación del valor aduanero no podrá exceder los dieciocho meses desde la fecha de legalización de la declaración.
+
+No se formulará denuncia al despachador por las modificaciones a las destinaciones aduaneras que se efectúen conforme este artículo. No obstante, en caso de constatarse la existencia de dolo o documentación maliciosamente falsa, el Servicio podrá formular denuncia por el delito de contrabando establecido en el artículo 168 inciso tercero.
+
+#### Artículo 92 quáter
+
+Los ajustes o autoajustes en materia de precios de transferencia, regulados en el artículo 41 E de la Ley sobre Impuesto a la Renta, inclusive aquellos cuyo origen sea la celebración de un acuerdo anticipado de precios, no producirán efectos en los valores declarados en una destinación de importación o exportación, ni será necesaria su modificación.
+
+Cuando se celebre un Acuerdo Anticipado de Precios que incluya la importación de mercancías, el acuerdo deberá ser suscrito por el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas. El Ministerio de Hacienda, mediante resolución establecerá el procedimiento a través del cual ambas instituciones resolverán sobre la materia.
+
+En caso que, con ocasión de la firma de un Acuerdo Anticipado de Precios, se realice un ajuste por los ejercicios anteriores, éstos producirán efecto sólo respecto del impuesto a la renta.
+
 #### Artículo 93
 
 Las declaraciones legalizadas y las denuncias cursadas serán notificadas diariamente mediante su inclusión en un estado que llevará cada Aduana.
@@ -1070,7 +1140,9 @@ Serán de competencia de los Tribunales Tributarios y Aduaneros las reclamacione
 
 a) Liquidaciones, cargos y actuaciones que sirvan de base para la fijación del monto o determinación de diferencias de derechos, impuestos, tasas o gravámenes.
 
-b) Clasificación y/o valoración aduanera de las declaraciones de exportación, practicada por el Servicio de Aduanas.
+b) Clasificación y/o valoración aduanera de las declaraciones de exportación e importación, practicada por el Servicio de Aduanas.
+
+Si como consecuencia de la aplicación de la referida clasificación y/o valoración el Servicio formula una denuncia, la reclamación sólo procederá en contra de la multa, de conformidad con el procedimiento dispuesto en los artículos 186 y siguientes.
 
 c) Actos o resoluciones que denieguen total o parcialmente las solicitudes efectuadas en conformidad al Título VII del Libro II.
 
@@ -1096,13 +1168,17 @@ En todas aquellas materias no sujetas a disposiciones especiales del presente T�
 
 #### Artículo 121
 
-Respecto de las actuaciones a que se refiere el artículo 117, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
+Respecto de las actuaciones a que se refiere el artículo 117, excepto en los casos a que se refiere el párrafo segundo de la letra b), será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
 
-a) El plazo para presentar la reposición será de quince días.
+a) El plazo para presentar la reposición será de treinta días.
 
-b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de cincuenta días contado desde su presentación.
+b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de noventa días contado desde su presentación.
 
-c) La presentación de la reposición no interrumpirá el plazo para la interposición de la reclamación judicial contemplada en el Párrafo siguiente.
+c) La presentación de la reposición suspenderá el plazo para la interposición de la reclamación judicial contemplada en el Párrafo siguiente.
+
+d) Durante la tramitación de la reposición administrativa deberá darse audiencia al contribuyente para que diga lo propio a sus derechos y acompañe a dicha audiencia los antecedentes requeridos que sean estrictamente necesarios para resolver la petición. No deberá darse esta audiencia cuando el recurso sea declarado inadmisible o cuando sea acogido completamente por el Servicio de Aduanas.
+
+e) La prueba rendida deberá apreciarse fundadamente.
 
 No serán procedentes en contra de las actuaciones a que se refiere el inciso primero los recursos jerárquico y extraordinario de revisión.
 
@@ -1142,19 +1218,17 @@ Sin perjuicio de las facultades del Director Nacional, corresponderá a los Dire
 
 #### Artículo 125
 
-Se formará el proceso, en soporte papel, con los escritos, documentos y actuaciones de toda especie que se presenten o verifiquen en el juicio.
+Se formará el proceso en soporte electrónico con los escritos, documentos y actuaciones de toda especie que se presenten o verifiquen en el juicio.
 
-Ninguna pieza del proceso podrá retirarse sin que previamente lo decrete el tribunal que conoce de la causa.
+Para ello el Tribunal Tributario y Aduanero mantendrá registro de todos sus procedimientos, causas o actuaciones judiciales en medio digital o electrónico apto para producir fe y que permita garantizar la conservación y reproducción de su contenido. Dicho registro se denominará, para todos los efectos legales, Sistema de Administración de Causas Tributarias y Aduaneras, en adelante "el Sistema", y cada uno de los expedientes como Expediente o Carpeta Electrónica. La conservación y respaldo periódico de los registros estará a cargo de la Unidad Administradora de los Tribunales Tributarios y Aduaneros.
 
-Todas las piezas que deben formar el proceso, de conformidad a lo anterior, se irán agregando sucesivamente según el orden de su presentación. Al tiempo de agregarlas, el secretario numerará cada foja en cifras y en letras. Se exceptúan las piezas que, por su naturaleza, no puedan agregarse o que por motivos fundados se manden reservar fuera del proceso.
+Se formará la carpeta electrónica con los escritos, documentos, resoluciones, actas de audiencias y actuaciones de toda especie que se presenten o verifiquen en el juicio. Estos antecedentes serán registrados y conservados íntegramente en orden sucesivo conforme a su fecha de presentación. El Sistema numerará automáticamente cada pieza del expediente en cifras y letras. Se exceptúan las piezas que por su naturaleza no puedan agregarse o que por motivos fundados se manden reservar fuera del expediente.
 
-Durante la tramitación, sólo las partes podrán imponerse de los autos del proceso.
+Durante la tramitación sólo las partes podrán imponerse de los autos del proceso. Esta limitación no comprende las sentencias definitivas de primera instancia, las cuales deberán ser publicadas por la Unidad Administradora del Tribunal y mantenerse a disposición permanente del público en el sitio electrónico de los Tribunales Tributarios y Aduaneros.
 
-Sin perjuicio de lo anterior, el Tribunal Tributario y Aduanero mantendrá registro de todos sus procedimientos, causas o actuaciones judiciales en medio digital o electrónico apto para producir fe y que permita garantizar la conservación y reproducción de su contenido. Dicho registro se denominará, para todos los efectos legales, Sistema de Administración de Causas Tributarias y Aduaneras, en adelante "el Sistema", y cada uno de los expedientes como Expediente Electrónico.
+En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o pieza del proceso, el trámite se cumplirá enviando la correspondiente comunicación de la carpeta electrónica a la que deben acceder a través del Sistema. Lo mismo se aplicará cada vez que la ley ordene la remisión, devolución o envío del proceso o de cualquiera de sus piezas a otro tribunal.
 
-Las partes, además, podrán hacer sus presentaciones al Tribunal por medio digital o electrónico, cargando sus escritos y documentos en el Sistema a través del sitio en internet de los Tribunales Tributarios y Aduaneros, el cual entregará el comprobante de recepción correspondiente cuando éstos hayan sido recibidos, debiendo el Tribunal incorporar la impresión de los escritos al expediente físico. No obstante lo anterior, el Tribunal podrá exigir que los documentos y demás pruebas que se acompañen en el proceso sean presentados en forma física.
-
-La Corte Suprema, mediante auto acordado, fijará los requisitos que estime pertinentes para el adecuado funcionamiento del Sistema, reglando, entre otras materias, el tamaño o peso máximo de los archivos que contengan los escritos y documentos que puedan ser presentados o acompañados en el Sistema.
+Ninguna pieza del expediente electrónico podrá eliminarse sin que previamente lo decrete el Tribunal que conoce de la causa. Las partes efectuarán sus presentaciones al Tribunal por medio digital o electrónico, y cargarán sus escritos y documentos en el Sistema a través del sitio en internet de los Tribunales Tributarios y Aduaneros, el cual entregará el comprobante de recepción correspondiente. No obstante lo anterior, y atendido el volumen de los antecedentes, el Tribunal siempre podrá exigir que los documentos y demás pruebas que se acompañen al proceso sean presentados en forma física, ya sea en formato físico propiamente tal, o bien a través de la entrega de algún dispositivo de almacenamiento de datos electrónico. Lo anterior podrá ser solicitado por las partes en el mismo caso. Si los documentos se presentan materialmente en el Tribunal, quedarán bajo la custodia del Secretario abogado, y deberá dejarse constancia de ello en el expediente electrónico.
 
 #### Artículo 126
 
@@ -1168,23 +1242,25 @@ Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a l
 
 Se dejará registro en el expediente electrónico y en el sitio en internet a que se refiere el inciso anterior de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos registros no invalidarán la notificación.
 
-Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esta publicación no anulará la notificación.
+Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por correo electrónico. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada el mismo día del envío por parte del tribunal del correo electrónico. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esta publicación no anulará la notificación.
 
-Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, un domicilio dentro del radio urbano de una localidad ubicada en alguna de las comunas de la Región sobre cuyo territorio aquél ejerce competencia, y esta designación se considerará subsistente mientras no haga otra, aun cuando de hecho cambie su morada. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
+Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, una dirección de correo electrónico, y esta designación se considerará subsistente mientras no designe otra. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
 
-Cualquiera de las partes podrá solicitar para sí el aviso, mediante correo electrónico, del hecho de haber sido notificada de una o más resoluciones. En todo caso, la falta de este aviso no anulará la notificación.
+Respecto de la notificación a terceros ajenos al juicio, la parte interesada, en su comparecencia o en la actuación correspondiente, deberá designar el correo electrónico del tercero ajeno al juicio, para estos efectos. Si alguna de las partes indica fundadamente no conocer un correo electrónico del tercero ajeno al juicio cuya comparecencia requiere, deberá señalar su domicilio. En estos casos la notificación se entenderá practicada al tercer día contado desde aquél en que la carta certificada fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esa publicación no anulará la notificación.
+
+Para el evento que la notificación por correo electrónico no pueda realizarse porque el contribuyente manifiesta expresamente no tener una dirección de correo electrónico o por otra causal que no sea la omisión en la designación de dicha dirección, las resoluciones a que alude el inciso tercero se le notificarán por carta certificada. En este caso la notificación por carta certificada podrá realizarse a través de cualquiera de las empresas de servicios de correos legalmente constituidas en el país y se entenderá practicada al tercer día contada desde aquel en que la carta fue expedida por el tribunal. Lo anterior, será igualmente aplicable a los terceros respecto de los cuales no se cuente con la información de correo electrónico.
 
 La notificación al Servicio de la resolución que le confiere traslado del reclamo se efectuará por correo electrónico, a la dirección que el Director Nacional, los Directores Regionales y los Administradores de Aduanas deberán registrar ante el Tribunal Tributario y Aduanero de su jurisdicción. La designación de la dirección de correo electrónico se entenderá vigente mientras no se informe al tribunal de su modificación.
 
 #### Artículo 128
 
-Del reclamo se conferirá traslado al Servicio por el término de veinte días. La contestación del Servicio deberá contener una exposición clara de los hechos y fundamentos de derecho en que se apoya, y las peticiones concretas que se someten a la decisión del Tribunal Tributario y Aduanero.
+Del reclamo se conferirá traslado al Servicio por el término de veinte días. La contestación del Servicio deberá contener una exposición clara de los hechos y fundamentos de derecho en que se apoya, y las peticiones concretas que se someten a la decisión del Tribunal Tributario y Aduanero. Si con los argumentos y antecedentes presentados en el reclamo, el Servicio Nacional de Aduanas concluye que las alegaciones del reclamante desvirtúan el acto impugnado, en su contestación podrá aceptar llanamente la pretensión contraria en todo o parte, según corresponda. Si el allanamiento es total, el Tribunal Tributario y Aduanero citará a las partes a oír sentencia sin más trámite. En virtud de esta aceptación, el Servicio Nacional de Aduanas no podrá ser condenado en costas.
 
 Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero deberá, de oficio o a petición de parte, llamar a las mismas a conciliación de conformidad al artículo 128 bis, citándolas para tales efectos a una audiencia oral. En dicha audiencia, el Juez Tributario y Aduanero propondrá las bases de arreglo, sin que las opiniones emitidas con tal propósito lo inhabiliten para seguir conociendo de la causa. La audiencia de conciliación se desarrollará en forma continua y podrá prolongarse en sesiones sucesivas, hasta su conclusión. Para estos efectos, constituirán sesiones sucesivas aquellas que tuvieren lugar en el día siguiente o subsiguiente del funcionamiento ordinario del Tribunal.
 
-Vencido el plazo a que se refiere el inciso primero, cuando la conciliación o parte de ésta fuere rechazada, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
+Vencido el plazo a que se refiere el inciso primero, cuando la conciliación o parte de ésta fuere rechazada, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente. En los mismos términos, a menos que las partes pidan que se falle el pleito sin más trámite, podrá recurrirse en contra de la resolución en que explícita o implícitamente se niegue el trámite de recepción de la causa a prueba. Para efectos del cómputo del plazo para interponer los recursos, se considerará la fecha en que el Tribunal realice una actuación que implique la negación de dicho trámite.
 
-El término probatorio será de veinte días y dentro de él se deberá rendir toda la prueba.
+El término probatorio será de veinte días y dentro de él se deberá rendir toda la prueba. El Servicio Nacional de Aduanas y el reclamante deberán acreditar sus respectivas pretensiones dentro del procedimiento.
 
 En los primeros cinco días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
 
@@ -1202,13 +1278,9 @@ El Director Nacional, los Subdirectores, los Directores Regionales y los Adminis
 
 Se admitirá, además, cualquier otro medio probatorio apto para producir fe.
 
-No serán admisibles aquellos antecedentes que, teniendo relación directa con operaciones fiscalizadas, hayan sido solicitados determinada y específicamente por el Servicio al reclamante, en ejercicio de sus facultades fiscalizadoras, y que este último, no obstante disponer de ellos, no acompañe en forma íntegra, dentro del plazo de un mes, contado desde la notificación del requerimiento. El reclamante siempre podrá probar que no acompañó la documentación en el plazo señalado por causas que no le hayan sido imputables.
-
-El Juez Tributario y Aduanero se pronunciará en la sentencia sobre esta inadmisibilidad.
-
 Cuando hayan de practicarse diligencias probatorias fuera del lugar en que se sigue el juicio, o si durante el término de prueba ocurren entorpecimientos que imposibiliten la recepción de ésta, el Tribunal Tributario y Aduanero podrá ampliar, por una sola vez, el término probatorio por el número de días que estime necesarios, no excediendo en ningún caso de diez días, contados desde la fecha de notificación de la resolución que ordena la ampliación.
 
-La prueba será apreciada por el Juez Tributario y Aduanero de conformidad con las reglas de la sana crítica. Al apreciar las pruebas de esta manera, el tribunal deberá expresar en la sentencia las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia en virtud de las cuales les asigna valor o las desestima. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+La prueba será apreciada por el Juez Tributario y Aduanero de conformidad con las reglas de la sana crítica. Al apreciar las pruebas de esta manera, el tribunal deberá expresar en la sentencia las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia en virtud de las cuales les asigna valor o las desestima y, asimismo, el razonamiento lógico y jurídico para llegar a su convicción. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
 
 No obstante lo anterior, los actos o contratos solemnes sólo podrán ser acreditados por medio de la solemnidad prevista por la ley. En aquellos casos en que la ley requiera probar mediante contabilidad fidedigna, el juez deberá ponderar preferentemente dicha contabilidad.
 
@@ -1218,17 +1290,21 @@ Si se rechaza la conciliación, existan o no diligencias pendientes, el Tribunal
 
 El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde que el Tribunal dicte la resolución a que se refiere el inciso anterior.
 
+En los casos en que el reclamante sea condenado en costas y la resolución que las establezca se encuentre ejecutoriada, lo que deberá ser certificado por el tribunal, el Servicio Nacional de Aduanas emitirá un giro para su cobro por el Servicio de Tesorerías.
+
 #### Artículo 128 bis
 
-La conciliación a que se refiere el artículo 128 podrá ser total o parcial. Será materia de conciliación el litigio sometido al conocimiento del Tribunal Tributario y Aduanero, incluyendo la existencia de los elementos que determinan el nacimiento de la obligación tributario aduanera, su cuantía o el monto de los derechos, impuestos o multas determinados; la calificación jurídica de los hechos conforme a los antecedentes aportados en el procedimiento, la ponderación o valoración de las pruebas respectivas y la existencia de los vicios o errores manifiestos de legalidad, ya sea de forma o de fondo, siempre que todo lo anterior haya sido alegado expresamente en el reclamo o se trate de casos en que el Tribunal pueda pronunciarse de oficio.
+La conciliación a que se refiere el artículo 128 podrá ser total o parcial. Será materia de conciliación el litigio sometido al conocimiento del Tribunal Tributario y Aduanero, incluyendo la existencia de los elementos que determinan el nacimiento de la obligación tributario aduanera, su cuantía o el monto de los derechos, impuestos o multas determinados; la calificación jurídica de los hechos conforme a los antecedentes aportados en el procedimiento, la ponderación o valoración de las pruebas respectivas y la existencia de los vicios o errores manifiestos de legalidad, ya sea de forma o de fondo.
 
 En ningún caso la conciliación podrá consistir en la mera disminución del monto del o los derechos aduaneros o impuestos adeudados, salvo cuando ello se funde en la existencia de errores de hecho o de derecho en su determinación, o en antecedentes que permitan concluir que no concurren los elementos del hecho gravado establecido en la ley o cuando los impuestos determinados resulten ser excesivos conforme a los demás antecedentes tenidos a la vista con motivo de la conciliación. La conciliación tampoco podrá tener por objeto el saneamiento de aquellos vicios de fondo que den lugar a la nulidad del acto administrativo reclamado, ni de los vicios de forma que cumplan con los requisitos a que se refiere el párrafo segundo del numeral 8° del artículo 1° de la ley N°20.322. En la o las audiencias de conciliación que se lleven a cabo, el Servicio podrá proponer la condonación total o parcial de las multas aplicadas, conforme a los criterios generales que fije mediante resolución.
 
-El llamado a conciliación será también aplicable en el procedimiento establecido en el artículo 186 bis, en los mismos términos que establece el presente artículo, caso en el cual la aprobación o rechazo deberá efectuarla el Director Regional o Administrador de Aduana respectivo. Sin embargo, no procederá el llamado a conciliación en el procedimiento especial de reclamo por vulneración de derechos.
+El llamado a conciliación será también aplicable en el procedimiento establecido en el artículo 186 bis y 129 K, en los mismos términos que establece el presente artículo, caso en el cual la aprobación o rechazo deberá efectuarla el Director Regional o Administrador de Aduana respectivo. No obstante lo señalado en el artículo 128, el Tribunal Tributario y Aduanero que esté actualmente conociendo del asunto, de oficio o a petición de parte, podrá llamarlas a conciliación en cualquier estado del juicio tramitado ante ellos.
 
 El juez deberá rechazar el acuerdo cuando no se cumplan los requisitos que establece este artículo o recaiga sobre materias respecto de las cuales no se admite conciliación.
 
-Sobre las bases de arreglo y la conciliación efectuada conforme a los incisos anteriores, deberá pronunciarse el Director, quien podrá aceptarla o rechazarla. La decisión del Director, cuando consista en aceptar la conciliación, deberá contener los fundamentos de hecho y de derecho en que se basa y las condiciones de dicha aceptación. El Director deberá pronunciarse sobre la conciliación dentro de los treinta días siguientes al término de la audiencia, estando facultado para aceptarla o rechazarla total o parcialmente. En caso de no pronunciarse en dicho plazo, se entenderá que rechaza las bases de arreglo y la conciliación.
+Sobre las bases de arreglo y la conciliación efectuada conforme a los incisos anteriores, deberá pronunciarse el abogado que represente al Servicio de Aduanas, quien podrá aceptarla o rechazarla. La decisión del abogado que represente al Servicio de Aduanas, cuando consista en aceptar la conciliación, deberá contener los fundamentos de hecho y de derecho en que se basa y las condiciones de dicha aceptación.
+
+El Director Nacional, mediante resolución fundada, establecerá los criterios generales para aceptar las bases de arreglo para una conciliación.
 
 De la conciliación total o parcial se levantará acta, que consignará las especificaciones del arreglo y los antecedentes de hecho y de derecho en que se funda, la cual suscribirán el juez y las partes. Una vez aprobada la conciliación mediante resolución fundada por el Tribunal Tributario y Aduanero, se considerará como sentencia ejecutoriada para todos los efectos legales. Contra la resolución que aprueba la conciliación solo procederá el recurso contemplado en el inciso primero del artículo 182 del Código de Procedimiento Civil.
 
@@ -1254,15 +1330,13 @@ C.- Notificada que sea la sentencia que falle el reclamo no podrá modificarse o
 
 #### Artículo 129
 
-D.- Contra la sentencia que falle un reclamo sólo podrá interponerse el recurso de apelación, dentro del plazo de quince días contados desde la fecha de su notificación.
+D.- Contra la sentencia que falle un reclamo podrán interponerse los recursos de apelación y casación en la forma, dentro del plazo de quince días contados desde la fecha de su notificación. En caso de que se deduzcan ambos recursos, éstos se interpondrán conjuntamente y en un mismo escrito.
 
-Respecto de la resolución que declare inadmisible un reclamo o haga imposible su continuación, podrán interponerse los recursos de reposición y de apelación, en el plazo de quince días contado desde la respectiva notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el sólo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
-
-El término para apelar no se suspende por la solicitud de aclaración, agregación o rectificación que se deduzca de acuerdo con el artículo anterior.
+El término para interponer el recurso de apelación y casación en la forma no se suspende por la solicitud de aclaración, agregación o rectificación que se deduzca de acuerdo con el artículo 129 C.
 
 #### Artículo 129
 
-E.- En contra de la sentencia de primera instancia no procederá el recurso de casación en la forma ni su anulación de oficio. Los vicios en que se hubiere incurrido deberán ser corregidos por la Corte de Apelaciones que corresponda.
+E.- Derogado.
 
 #### Artículo 129
 
@@ -1315,58 +1389,6 @@ El Tribunal podrá decretar orden de no innovar, en cualquier estado de la trami
 #### Artículo 129
 
 M.- En lo no establecido por este Párrafo, y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Párrafo 3 de este Título. En todo caso, el solicitante podrá comparecer sin patrocinio de abogado.
-
-#### Artículo 117
-
-Serán de competencia de los Tribunales Tributarios y Aduaneros las reclamaciones en contra de las siguientes actuaciones del Servicio Nacional de Aduanas:
-
-a) Liquidaciones, cargos y actuaciones que sirvan de base para la fijación del monto o determinación de diferencias de derechos, impuestos, tasas o gravámenes.
-
-b) Clasificación y/o valoración aduanera de las declaraciones de exportación, practicada por el Servicio de Aduanas.
-
-c) Actos o resoluciones que denieguen total o parcialmente las solicitudes efectuadas en conformidad al Título VII del Libro II.
-
-d) Las demás que establezca la ley.
-
-Será competente para conocer de las reclamaciones señaladas en el inciso anterior, el Tribunal en cuyo territorio jurisdiccional se encuentre la autoridad aduanera que hubiere practicado la actuación que se reclama.
-
-#### Artículo 121
-
-Respecto de las actuaciones a que se refiere el artículo 117, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
-
-a) El plazo para presentar la reposición será de quince días.
-
-b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de cincuenta días contado desde su presentación.
-
-c) La presentación de la reposición no interrumpirá el plazo para la interposición de la reclamación judicial contemplada en el Párrafo siguiente.
-
-No serán procedentes en contra de las actuaciones a que se refiere el inciso primero los recursos jerárquico y extraordinario de revisión.
-
-Los plazos a que se refiere este artículo se regularán por lo señalado en la ley Nº 19.880.
-
-#### Artículo 125
-
-El Tribunal llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil.
-
-Sólo las partes podrán imponerse de ellos, en cualquier estado de la tramitación.
-
-#### Artículo 127
-
-Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
-
-Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
-
-Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esta publicación no anulará la notificación.
-
-Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, un domicilio dentro del radio urbano de una localidad ubicada en alguna de las comunas de la Región sobre cuyo territorio aquél ejerce competencia, y esta designación se considerará subsistente mientras no haga otra, aun cuando de hecho cambie su morada. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
-
-Cualquiera de las partes podrá solicitar para sí el aviso, mediante correo electrónico, del hecho de haber sido notificada de una o más resoluciones. En todo caso, la falta de este aviso no anulará la notificación.
-
-La notificación al Servicio de la resolución que le confiere traslado del reclamo se efectuará por correo electrónico, a la dirección que el Director Nacional, los Directores Regionales y los Administradores de Aduanas deberán registrar ante el Tribunal Tributario y Aduanero de su jurisdicción. La designación de la dirección de correo electrónico se entenderá vigente mientras no se informe al tribunal de su modificación.
-
-#### Artículo 128
-
-Todas las notificaciones se harán por el estado diario, excepto la de la resolución que reciba la causa a prueba y las de las sentencias definitivas, que se notificarán por carta certificada con copia íntegra de la resolución que se trata de notificar, diligencia que se entenderá practicada al tercer día de expedida la referida carta.
 
 ## Título VII
 
@@ -1464,9 +1486,9 @@ Se presumen abandonadas:
 
 1) Aquellas mercancías que no fueren retiradas o no pudieren serlo dentro de los plazos establecidos para su depósito. Esta causal incluye:
 
-a) Las mercancías respecto de las cuales no se ha solicitado su desaduanamiento;
+a) Las mercancías respecto de las cuales no se ha solicitado su desaduanamiento, aun cuando se encuentren pagados los derechos, impuestos y gravámenes;
 
-b) Las mercancías respecto de las que se ha solicitado su desaduanamiento, pero no se han cancelado los derechos de Aduana;
+b) Las mercancías respecto de las que se ha solicitado su desaduanamiento, pero no se han pagado los derechos, impuestos y gravámenes;
 
 c) Las especies náufragas, y
 
@@ -1560,13 +1582,23 @@ c) Mercancías cuyo depósito sea manifiestamente perjudicial o no pudieren alma
 
 d) Mercancías que tengan nombres, signos o condiciones que les hayan dado carácter de exclusividad, a menos que se les quite dicho carácter de exclusividad, aun mediante su destrucción parcial, con el objeto de enajenarlas o incluirlas en la más próxima subasta.
 
-Los Directores Regionales o Administradores de Aduana, tratándose de combustibles o productos alimenticios perecibles que pudieren ser destruidos de acuerdo a la letra a) de este artículo, podrán entregar los a los Intendentes o Gobernadores para que éstos, con los resguardos sanitarios o de seguridad del caso, procedan a donarlos a un establecimiento público.
+Los Directores Regionales o Administradores de Aduana, tratándose de combustibles o productos alimenticios perecibles que pudieren ser destruidos de acuerdo a la letra a) de este artículo, podrán entregar los a los Delegados Presidenciales o Gobernadores para que éstos, con los resguardos sanitarios o de seguridad del caso, procedan a donarlos a un establecimiento público.
 
-Asimismo, el Director Nacional de Aduanas, previo informe favorable del Director Regional o Administrador de Aduanas respectivo, podrá donar a alguna institución de beneficencia o asistencia social, o a algún establecimiento educacional sin fines de lucro, las mercancías susceptibles de ser destruidas, no indicadas en el inciso anterior, y que sirvan para el cumplimiento de sus objetivos sociales, de conformidad con el procedimiento que determine. Se consideran también dentro de esta categoría aquellas mercancías que, habiéndose incluido en más de tres subastas consecutivas, no fueron rematadas por falta de postores. Esta donación estará exenta del trámite de insinuación y de toda clase de impuestos y tendrá el carácter de pública.
+Asimismo, el Director Nacional de Aduanas, previo informe favorable del Director Regional o Administrador de Aduanas respectivo, podrá donar a alguna institución de beneficencia o asistencia social, o a algún establecimiento educacional sin fines de lucro, las mercancías susceptibles de ser destruidas, no indicadas en el inciso anterior, y que sirvan para el cumplimiento de sus objetivos sociales, de conformidad con el procedimiento que determine. Se consideran también dentro de esta categoría aquellas mercancías que, habiéndose incluido en más de tres subastas consecutivas, no fueron rematadas por falta de postores.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, el Director Nacional de Aduanas podrá autorizar la donación de las mercancías señaladas en el inciso anterior en casos excepcionales, por resolución fundada, a otras entidades públicas o privadas sin fines de lucro, siempre que su objeto sea la beneficencia o realización de obras sociales.
+
+Las mercancías donadas por aplicación de los dos incisos anteriores están liberadas del trámite de insinuación y exentas del impuesto a las herencias, asignaciones y donaciones.
+
+#### Artículo 152 bis
+
+Las mercancías que sean objeto de una investigación penal por más de un año, podrán ser declaradas susceptibles de destrucción. Antes de ello, se dejará una muestra representativa y se informará al Ministerio Público o al tribunal respectivo. El Ministerio Público tendrá un plazo de 5 días hábiles para oponerse, contado desde la recepción de dicha información.
 
 #### Artículo 153
 
 Los gastos de la destrucción de mercancías se cancelarán con cargo al producido de la subasta. Será obligación de los Administradores de Aduana incluir en las deducciones de los gastos a que se refiere el artículo 165, las sumas requeridas para estas operaciones.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, el operador de comercio exterior podrá destruir, a su costa, las mercancías que se encuentren almacenadas en sus recintos, previa autorización del Director Nacional y en presencia de Aduanas, debiendo levantarse acta del procedimiento, dejando constancia de las mercancías destruidas.
 
 #### Artículo 154
 
@@ -1738,7 +1770,7 @@ Si la diferencia se refiere a falta de mercancía, la responsabilidad no se har�
 
 Las personas que, en los documentos de destinación aduanera a que se refiere el Título V del Libro II, hagan declaraciones que representen menores derechos o impuestos que los que corresponda aplicar, serán sancionadas con multa hasta el doble de la diferencia resultante entre dichos tributos que causen las mercancías y los que se habrían adeudado según la declaración. Si los tributos que se originen de la declaración errónea son mayores o iguales que los que proceda aplicar, o si la mercancía fuere extranjera libre de derechos o impuestos, la multa será hasta de 2% del valor de la mercancía, salvo que el despachador, con frecuencia y sin razones justificadas, o habitualmente, haga alzadas declaraciones de valores o indique partidas arancelarias equivocadas con derechos iguales o mayores, casos en que el máximo de la multa aplicable será equivalente a la tasa establecida para las verificaciones de aforo por examen, en el artículo 85 o en el 86, según orresponda. Si la mercancía fuere nacional o nacionalizada, la multa será hasta del 1% de su valor.
 
-Las diferencias que se establezcan en virtud de lo dispuesto en el presente artículo admitirán las tolerancias de peso, capacidad o medida y de valor, que fijen los reglamentos. Estas tolerancias serán para el solo efecto de librar de la sanción, debiendo efectuarse los aforos sin considerarlas. La tolerancia se aplicará sobre lo declarado por cada mercancía, sin admitirse compensación de unas con otras en las diferencias en más y en menos en aquellas de distinta especie, clase, calidad, aforo o valor.
+Las diferencias que se establezcan en virtud de lo dispuesto en el presente artículo admitirán las tolerancias de peso, capacidad o medida y de valor, que fije el Director Nacional. Estas tolerancias serán para el solo efecto de librar de la sanción, debiendo efectuarse los aforos sin considerarlas. La tolerancia se aplicará sobre lo declarado por cada mercancía, sin admitirse compensación de unas con otras en las diferencias en más y en menos en aquellas de distinta especie, clase, calidad, aforo o valor.
 
 El producido de las multas ingresará a Rentas Generales de la Nación.
 
@@ -1776,7 +1808,7 @@ k) El transportar pasajeros que desembarquen antes que se dé el respectivo perm
 
 l) La no entrega a la Aduana o a los recintos de depósito aduanero, en la forma y dentro de los plazos prescritos, de las mercancías desembarcadas o descargadas de los vehículos, con una multa de hasta el 10% del valor aduanero de las mercancías;
 
-m) La no presentación a la Aduana, al momento de pasar el control aduanero de doble circuito (luz roja - luz verde), de mercancías afectas a derechos que porten los viajeros, con una multa de hasta el 80% del valor aduanero de las mercancías.
+m) La no presentación a la Aduana, al momento de pasar el control aduanero, de mercancías afectas a derechos que porten los viajeros, con una multa de hasta el 80% del valor aduanero de las mercancías.
 
 Para fijar la multa se deberá atender al monto de los derechos e impuestos involucrados, al número de mercancías no declaradas, al valor de éstas, y además, si se trata de infractores reincidentes;
 
@@ -1785,6 +1817,10 @@ n) El no cumplimiento, dentro de los plazos, de las reexpediciones, tránsito, t
 ñ) Las infracciones de cualquiera disposición de la presente Ordenanza, reglamento o instrucciones dictadas por la Dirección Nacional de Aduanas, que tengan por objeto una medida de orden, fiscalización o policía de Aduana, con una multa de hasta 5 Unidades Tributarias Mensuales. Las normas a que alude la presente disposición deberán publicarse en el Diario Oficial, sin perjuicio de la publicación en extracto que disponga el Director Nacional, conforme al N° 29, del artículo 4, del decreto con fuerza de ley N° 329, de 1979, del Ministerio de Hacienda, sobre ley orgánica del Servicio Nacional de Aduanas.
 
 o) La no presentación o la presentación extemporánea a la Aduana del documento que da cuenta del valor definitivo de la exportación, de conformidad al plazo establecido según lo dispuesto en el artículo 70 bis de esta Ordenanza, con una multa de hasta el 2% del valor aduanero de la mercancías. En caso de reincidencia, se podrá aplicar una multa de hasta el 10% de dicho valor.
+
+p) Retirar o permitir el retiro de mercancías desde los recintos de depósito aduanero, o entregarlas, sin que se hayan cumplido todas las obligaciones legales, reglamentarias y administrativas, exigidas para dicho retiro, con multa de hasta el 25% del valor aduanero de dichas mercancías.
+
+q) En los regímenes suspensivos de derechos de admisión temporal, almacén particular y depósito, se sancionará con multa de hasta el 25% del valor aduanero de las mercancías, el almacenar o depositar las mercancías en un lugar distinto al declarado, la no cancelación o cancelación extemporánea de los citados regímenes.
 
 El producto de las multas impuestas en conformidad a este artículo, ingresará a Rentas Generales de la Nación.
 
@@ -1900,7 +1936,7 @@ El infractor será citado a una audiencia para día y hora determinados, dentro 
 
 Si la persona citada concurriere a la audiencia representada, el mandato deberá constar por escrito, salvo que se tratare de auxiliares debidamente reconocidos de despachadores, los cuales se entenderán autorizados para comparecer en representación de éstos, conforme al inciso segundo del artículo 204.
 
-La audiencia se llevará a cabo ante un funcionario especialmente designado para estos efectos, mediante resolución de carácter general, por el Director o Administrador de la Aduana respectiva. El citado podrá efectuar sus alegaciones verbalmente o por escrito. Si acepta la existencia de la infracción, se aplicará una multa no superior al 10% de la máxima legal y se emitirá el giro comprobante de pago o el documento que haga sus veces.
+La audiencia se llevará a cabo ante un funcionario especialmente designado para estos efectos, mediante resolución de carácter general, por el Director o Administrador de la Aduana respectiva. El citado podrá efectuar sus alegaciones verbalmente o por escrito. Si acepta la existencia de la infracción, se aplicará una multa no superior al 20% de la máxima legal y se emitirá el giro comprobante de pago o el documento que haga sus veces.
 
 De lo obrado se levantará acta en la que se hará constar el allanamiento, la multa aplicada y la declaración de que el infractor renuncia a todo recurso o reclamo posterior. El acta será firmada por el funcionario y el afectado, a quien se entregará copia de la misma.
 
@@ -2182,7 +2218,7 @@ f) Llevar la contabilidad de acuerdo con las normas que determine el Director Na
 
 #### Artículo 202
 
-Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana estarán sujetos a la jurisdicción disciplinaria del Director Nacional para sancionar el incumplimiento de las obligaciones inherentes a sus cargos, sin perjuicio de la responsabilidad tributaria, civil y penal que pudiere hacerse efectiva por los hechos que configuran dicho incumplimiento. Todo lo cual se entiende sin menoscabo de las facultades disciplinarias y preventivas que la ley entrega a otras autoridades u organismos.
+Los despachadores, los apoderados especiales, los auxiliares que tengan registrados o hayan debido registrar ante la Aduana y los demás que estén considerados por esta Ordenanza, estarán sujetos a la jurisdicción disciplinaria del Director Nacional para sancionar el incumplimiento de las obligaciones inherentes a sus cargos, sin perjuicio de la responsabilidad tributaria, civil y penal que pudiere hacerse efectiva por los hechos que configuran dicho incumplimiento. Todo lo cual se entiende sin menoscabo de las facultades disciplinarias y preventivas que la ley entrega a otras autoridades u organismos.
 
 El Director Nacional de Aduanas, en el ejercicio de su jurisdicción disciplinaria, de oficio o a petición de parte interesada, podrá aplicar las siguientes medidas:
 
@@ -2234,39 +2270,15 @@ Sin perjuicio de lo dispuesto en el artículo 203, la suspensión preventiva que
 
 No podrá suspenderse preventivamente a un Agente de Aduana por el no pago, en lo que excede de su caución, de cargos formulados por sumas dejadas de percibir por el Fisco en relación a un despacho ya terminado.
 
-Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana, podrán reclamar ante el Tribunal Tributario y
+Si las resoluciones fueren emitidas por la Dirección Nacional la reclamación deberá presentarse ante el Tribunal Tributario y Aduanero en cuyo territorio tenía su domicilio el usuario al momento de ser notificado de la fiscalización u acta de fiscalización que dé inicio al procedimiento disciplinario.
 
-Aduanero de la resolución que aplique
+Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana, podrán reclamar ante el Tribunal Tributario y Aduanero de la resolución que aplique sanciones de suspensión del ejercicio de la función y de cancelación de la licencia, nombramiento o permiso, que les haya sido impuesta por el Director Nacional de Aduanas en ejercicio de la jurisdicción disciplinaria que sobre ellos le confiere el artículo anterior.
 
-sanciones de suspensión del ejercicio
+El reclamo deberá interponerse dentro del plazo de diez días contado desde la fecha de notificación de dicha resolución y se sustanciará en conformidad con el artículo 186 bis.
 
-de la función y de cancelación de la
+#### Artículo 202 bis
 
-licencia, nombramiento o permiso,
-
-que les haya sido impuesta por el
-
-Director Nacional de Aduanas en
-
-ejercicio de la jurisdicción
-
-disciplinaria que sobre ellos le
-
-confiere el artículo anterior.
-
-El reclamo deberá interponerse
-
-dentro del plazo de diez
-
-días contado desde la fecha
-
-de notificación de
-
-dicha resolución y se
-
-sustanciará en conformidad
-
-con el artículo 186 bis.
+La responsabilidad disciplinaria prescribe en el plazo de 3 años contados desde el incumplimiento de la obligación y se interrumpe con la notificación del inicio del procedimiento al afectado. La comisión de un nuevo incumplimiento, dentro del mismo ejercicio comercial, hará perder el tiempo de prescripción transcurrido.
 
 #### Artículo 203
 

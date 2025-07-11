@@ -606,29 +606,31 @@ Del Cobro de Derechos
 
 Las personas y entidades que deban inscribirse en los registros que lleve la Comisión, o depositar antecedentes en dichos registros, obtener aprobaciones, o que soliciten certificaciones, pagarán los derechos que se indican a continuación:
 
-1. Derechos por inscripción en los registros que lleve la Comisión. El monto por inscripción en el Registro de Valores y en el Registro de Valores Extranjeros será fijo, por el equivalente a 20 unidades de fomento. No obstante lo anterior, las inscripciones en el Registro de Valores Extranjeros, de valores de igual naturaleza y provenientes de un mismo mercado de otro país, que sean presentadas por un mismo patrocinador en virtud de lo dispuesto en el título XXIV de la ley Nº 18.045, de Mercado de Valores, bajo una determinada modalidad de transacción, quedarán afectas al pago de derechos por un monto máximo de 500 unidades de fomento, ya sea que correspondan a solicitudes de inscripción simultáneas o presentadas en distintas oportunidades. A estas solicitudes de inscripción no les resultará aplicable lo dispuesto en el párrafo final de este numeral.
+1. Derechos por inscripción en los registros que lleve la Comisión. El monto por inscripción en el Registro de Valores y en el Registro de Valores Extranjeros será fijo, por el equivalente a 34 unidades de fomento. No obstante lo anterior, las inscripciones en el Registro de Valores Extranjeros, de valores de igual naturaleza y provenientes de un mismo mercado de otro país, que sean presentadas por un mismo patrocinador en virtud de lo dispuesto en el título XXIV de la ley Nº 18.045, de Mercado de Valores, bajo una determinada modalidad de transacción, quedarán afectas al pago de derechos por un monto máximo de 850 unidades de fomento, ya sea que correspondan a solicitudes de inscripción simultáneas o presentadas en distintas oportunidades. A estas solicitudes de inscripción no les resultará aplicable lo dispuesto en el párrafo final de este numeral.
 
-El monto por inscripción en otros registros será fijo, por el equivalente a 10 unidades de fomento.
+El monto por inscripción en otros registros será fijo, por el equivalente a 17 unidades de fomento.
 
-Sin perjuicio del monto señalado en el párrafo primero de este numeral, las emisiones de valores pagarán, adicionalmente, un derecho de un 0,5 por mil del capital involucrado en la operación, con un tope máximo de 200 unidades de fomento.
+Sin perjuicio del monto señalado en el párrafo primero de este numeral, las emisiones de valores pagarán, adicionalmente, un derecho de un 0,85 por mil del capital involucrado en la operación, con un tope máximo de 340 unidades de fomento".
 
-2. Anotaciones en los registros. El monto será único y corresponderá a 3 unidades de fomento por cada anotación que se practique.
+2. Anotaciones en los registros. El monto será único y corresponderá a 5 unidades de fomento por cada anotación que se practique.
 
-3. Derechos por aprobaciones y autorizaciones de reglamentos bursátiles o de depósito y custodia de valores y por aprobación de normas de funcionamiento de sistemas de compensación y liquidación de instrumentos financieros y sus modificaciones. El monto será único y por el equivalente a 30 unidades de fomento.
+3. Derechos por aprobaciones y autorizaciones de reglamentos bursátiles o de depósito y custodia de valores y por aprobación de normas de funcionamiento de sistemas de compensación y liquidación de instrumentos financieros y sus modificaciones. El monto será único y por el equivalente a 50 unidades de fomento.
 
-4. Derechos por aprobaciones, autorizaciones y depósitos de reglamentos internos y contratos de fondos autorizados por ley. El monto será único y por el equivalente a 15 unidades de fomento.
+4. Derechos por aprobaciones, autorizaciones y depósitos de reglamentos internos y contratos de fondos autorizados por ley. El monto será único y por el equivalente a 26 unidades de fomento.
 
-5. Derechos por aprobaciones de autorizaciones de existencia, reformas de estatutos, fusiones, divisiones, cancelaciones o disoluciones, de entidades sujetas a autorización de la Comisión. El monto será único y por el equivalente a 20 unidades de fomento.
+5. Derechos por aprobaciones de autorizaciones de existencia, reformas de estatutos, fusiones, divisiones, cancelaciones o disoluciones, de entidades sujetas a autorización de la Comisión. El monto será único y por el equivalente a 34 unidades de fomento.
 
-6. Derechos por aprobaciones de contratos y pólizas de seguros. El monto será único y por el equivalente a 6 unidades de fomento.
+6. Derechos por aprobaciones de contratos y pólizas de seguros. El monto será único y por el equivalente a 10 unidades de fomento.
 
-7. Derechos por certificaciones que consten en los registros. Las certificaciones que se otorguen por las inscripciones o aprobaciones que otorgue la Comisión y que consten en los registros públicos que las leyes le ordenan llevar tendrán un valor equivalente a 0,2 unidades de fomento por cada copia.
+7. Derechos por certificaciones que consten en los registros. Las certificaciones que se otorguen por las inscripciones o aprobaciones que otorgue la Comisión y que consten en los registros públicos que las leyes le ordenan llevar tendrán un valor equivalente a 0,34 unidades de fomento por cada copia.
 
 No procederá el cobro de una certificación cuando ella se expida con ocasión de haberse realizado un registro u otorgado una aprobación que hubiere pagado derechos.
 
 8. Derechos por modificaciones relacionadas a los numerales 3, 4 y 6. El monto será único y por el equivalente a la mitad de las unidades de fomento señaladas en esos numerales.
 
 Se encontrarán exentas de enterar los pagos a que se refiere este artículo las entidades que se encuentren afectas a la contribución de las cuotas a que se refiere el artículo 8 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos que se indican.
+
+El monto de los derechos señalados en los números 1 al 7 de este artículo, podrá aumentarse hasta en un 5%, cada cinco años, a contar del 1 de enero de 2025, mediante decreto supremo emitido por el Ministerio de Hacienda y dictado bajo la fórmula "Por orden del Presidente de la República".
 
 #### Artículo 34
 

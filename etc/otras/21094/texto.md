@@ -18,11 +18,13 @@ Definición, autonomía y régimen jurídico de las universidades del Estado
 
 Definición y naturaleza jurídica. Las universidades del Estado son instituciones de Educación Superior de carácter estatal, creadas por ley para el cumplimiento de las funciones de docencia, investigación, creación artística, innovación, extensión, vinculación con el medio y el territorio, con la finalidad de contribuir al fortalecimiento de la democracia, al desarrollo sustentable e integral del país y al progreso de la sociedad en las diversas áreas del conocimiento y dominios de la cultura.
 
-Estas instituciones universitarias son organismos autónomos, dotados de personalidad jurídica de derecho público y patrimonio propio, que forman parte de la Administración del Estado y se relacionan con el Presidente de la República a través del Ministerio de Educación. Tendrán su domicilio en la región que señalen sus estatutos.
+Estas instituciones universitarias son organismos autónomos, dotados de personalidad jurídica de derecho público y patrimonio propio, que forman parte de la Administración del Estado y se relacionan con el Presidente de la República a través del Ministerio de Educación. Tendrán su o sus domicilios en la o las regiones que señalen sus estatutos.
+
+El domicilio de su sede central corresponderá a aquel donde se ubican los órganos superiores del gobierno universitario.
 
 Para el cumplimiento de sus funciones, las universidades del Estado deben orientar su quehacer institucional de conformidad a la misión, principios y normas establecidas en la presente ley y en sus respectivos estatutos.
 
-Los estatutos de cada universidad podrán establecer un ámbito territorial preferente de su quehacer institucional, en razón de su domicilio principal y la misión específica de estas instituciones.
+Los estatutos de cada universidad podrán establecer un ámbito territorial preferente de su quehacer institucional, en razón de su domicilio y la misión específica de estas instituciones. Las universidades estatales podrán extender su ámbito territorial a dos regiones y adquirir el carácter de birregionales, siempre que se trate de regiones contiguas y que no haya otra universidad estatal domiciliada en dicha región, en conformidad con lo que señalen los planes de desarrollo institucional respectivos.
 
 #### Artículo 2
 
@@ -126,7 +128,7 @@ a) Tres representantes nombrados por el Presidente de la República, quienes ser
 
 b) Cuatro miembros de la universidad nombrados por el Consejo Universitario de conformidad al procedimiento establecido en los estatutos de cada institución. De ellos, dos deben ser académicos investidos con las dos más altas jerarquías, y los dos restantes deben corresponder a un funcionario no académico y a un estudiante, respectivamente, de acuerdo a los requisitos que señalen los estatutos de cada universidad.
 
-c) Un titulado o licenciado de la institución de destacada trayectoria y de un reconocido vínculo profesional con la región en que la universidad tiene su domicilio, nombrado por el Consejo Universitario a partir de una terna propuesta por el Gobierno Regional.
+c) Una persona titulada o licenciada de la institución de destacada trayectoria y de un reconocido vínculo profesional con la o las regiones en que la universidad tiene su domicilio, nombrada por el Consejo Universitario a partir de una terna propuesta por el Gobierno Regional de la región donde se ubica la sede central. Para el caso en que la universidad tenga carácter birregional, la terna deberá incorporar, al menos, una persona que junto con cumplir con los demás requisitos legales, tenga reconocido vínculo profesional con la región en que no se ubica la sede central de la universidad.
 
 d) El rector, elegido de conformidad a lo señalado en el artículo 21.
 
@@ -216,7 +218,7 @@ El rector deberá realizar, al menos una vez al año, una cuenta pública detall
 
 Elección del rector. El rector se elegirá de conformidad al procedimiento establecido en la ley Nº 19.305. No obstante, las universidades del Estado deberán garantizar que en esta elección tengan derecho a voto todos los académicos con nombramiento o contratación vigente y que desempeñen actividades académicas de forma regular y continua en las respectivas instituciones.
 
-El Tribunal Electoral Regional respectivo conocerá de las reclamaciones que se interpongan con motivo de la elección de Rector, las que deberán ser formuladas por a lo menos diez académicos con derecho a voto, dentro de los diez días hábiles siguientes al acto electoral. Contra la sentencia del Tribunal Electoral Regional procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá interponerse directamente dentro de cinco días hábiles contados desde la respectiva notificación. Contra la sentencia del Tribunal Calificador de Elecciones no procederá recurso alguno.
+El Tribunal Electoral Regional de la región donde se ubica la sede central de la Universidad conocerá de las reclamaciones que se interpongan con motivo de la elección de Rector, las que deberán ser formuladas por a lo menos diez académicos con derecho a voto, dentro de los diez días hábiles siguientes al acto electoral. Contra la sentencia del Tribunal Electoral Regional procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá interponerse directamente dentro de cinco días hábiles contados desde la respectiva notificación. Contra la sentencia del Tribunal Calificador de Elecciones no procederá recurso alguno.
 
 El rector durará cuatro años en su cargo, pudiendo ser reelegido, por una sola vez, para el período inmediatamente siguiente.
 
@@ -258,7 +260,7 @@ b) Elaborar el Plan de Desarrollo Institucional de la universidad que deba ser p
 
 c) Nombrar a los miembros de la comunidad universitaria que deben integrar el Consejo Superior de conformidad al procedimiento establecido en los estatutos de cada institución.
 
-d) Nombrar al titulado o licenciado de la institución que debe integrar el Consejo Superior, a partir de una terna propuesta por el respectivo Gobierno Regional.
+d) Nombrar a la persona titulada o licenciada de la institución que debe integrar el Consejo Superior, a partir de una terna propuesta por el Gobierno Regional de la región donde se ubica la sede central.
 
 e) Aprobar los reglamentos referidos al quehacer académico e institucional de la universidad que señalen los respectivos estatutos.
 
@@ -350,9 +352,13 @@ Convenios excluidos de la ley Nº 19.886. No obstante lo señalado en el artícu
 
 De la misma manera, estarán excluidos de la aplicación de la citada ley los contratos que celebren las universidades del Estado con personas jurídicas extranjeras o internacionales para el suministro de bienes muebles necesarios para el cumplimiento de sus funciones y que, por sus características específicas, no puedan ser adquiridos en Chile.
 
+#### Artículo 37 bis
+
+Quedarán excluidos de la aplicación de la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios, los centros de investigación, desarrollo, innovación o transferencia tecnológica, y en cuya administración o dirección participen dos o más universidades estatales, o una universidad estatal y una o más personas jurídicas de derecho privado, en virtud de lo dispuesto en el literal e) del inciso segundo del artículo 39.
+
 #### Artículo 38
 
-Licitación privada o trato directo. Las universidades del Estado, de forma individual o conjunta, podrán celebrar contratos a través de licitación privada o trato directo en virtud de las causales señaladas en el artículo 8 de la ley Nº 19.886, y, además, cuando se trate de la compra de bienes o la contratación de servicios, incluida la contratación de créditos, que se requieran para la implementación de actividades o la ejecución de proyectos de gestión institucional, de docencia, de investigación, de creación artística, de innovación, de extensión o de vinculación con el medio de dichas instituciones, en que la utilización del procedimiento de licitación pública ponga en riesgo la oportunidad, la finalidad o la eficacia de la respectiva actividad o proyecto.
+Licitación privada o trato directo. Las universidades del Estado, de forma individual o conjunta, podrán celebrar contratos a través de licitación privada o trato directo en virtud de las causales señaladas en el artículo 8 bis de la ley Nº 19.886, y, además, cuando se trate de la compra de bienes o la contratación de servicios, incluida la contratación de créditos, que se requieran para la implementación de actividades o la ejecución de proyectos de gestión institucional, de docencia, de investigación, de creación artística, de innovación, de extensión o de vinculación con el medio de dichas instituciones, en que la utilización del procedimiento de licitación pública ponga en riesgo la oportunidad, la finalidad o la eficacia de la respectiva actividad o proyecto.
 
 En estos casos, las universidades del Estado deberán establecer por medio de una resolución, disponible en el Sistema de Información de Compras y Contratación Pública, los procedimientos internos que permitan resguardar la publicidad, la transparencia, la igualdad de trato y la no discriminación arbitraria en esta clase de adquisiciones y contratación de servicios.
 
@@ -362,7 +368,7 @@ Ejecución y celebración de actos y contratos. Las universidades del Estado pod
 
 En virtud de lo anterior, dichas instituciones estarán expresamente facultadas para:
 
-a) Prestar servicios remunerados, conforme a la naturaleza de sus funciones y actividades, a personas naturales o jurídicas de derecho público o privado, nacionales, extranjeras o internacionales.
+a) Prestar servicios remunerados, conforme a la naturaleza de sus funciones y actividades, y vender los productos y bienes muebles que puedan producirse a partir de dichas funciones y actividades, tales como, las relativas a creación artística y cultural, innovación, investigación y transferencia tecnológica o extensión cultural, a personas naturales o jurídicas de derecho público o privado, nacionales, extranjeras o internacionales.
 
 b) Emitir estampillas y fijar aranceles por los servicios que presten a través de sus distintos organismos.
 

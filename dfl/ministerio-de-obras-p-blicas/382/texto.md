@@ -368,19 +368,19 @@ La transferencia del derecho de explotación, implica la entrega total de la ges
 
 #### Artículo 32º bis
 
-Inmediatamente de pronunciada la sentencia que declare la quiebra de una concesionaria, el Secretario del Tribunal cuidará que ella se notifique, a la brevedad posible, al Superintendente de Servicios Sanitarios.
+Inmediatamente de dictada la resolución de liquidación de una concesionaria, el Secretario del Tribunal cuidará que ella se notifique, a la brevedad posible, al Superintendente de Servicios Sanitarios.
 
-Pronunciada la declaración de quiebra, el fallido quedará inhibido, de pleno derecho, de la administración de la concesión y de los bienes afectos a ella.
+Pronunciada la resolución de liquidación, el deudor quedará inhibido, de pleno derecho, de la administración de la concesión y de los bienes afectos a ella.
 
 Notificado el Superintendente de la sentencia que declare la quiebra de una empresa concesionaria cuya concesión se encuentre en explotación, dispondrá la administración provisional del servicio, designando un administrador de entre aquellas personas naturales o jurídicas que se encuentren inscritas en el registro público a que se refiere el artículo 27º de esta ley.
 
-En el caso de quiebra de un prestador cuya concesión aún no entra en explotación, la administración de ésta será ejercida por el síndico.
+En el caso de dictación de la resolución de liquidación de un prestador cuya concesión aún no entra en explotación, la administración de ésta será ejercida por el liquidador.
 
 Los gastos en que se incurra con ocasión de la administración provisional quedarán incluidos dentro de los créditos señalados en el Nº 1 del artículo 2472 del Código Civil.
 
 #### Artículo 32º bis
 
-A.- La entidad normativa dispondrá la licitación de la concesión y los bienes afectos a ella, dentro del plazo de un año contado desde que quede a firme la sentencia que declare la quiebra. Dicha licitación se llevará a efecto de acuerdo a lo dispuesto en el artículo 28º y en el inciso primero del artículo 29º de la presente ley.
+A.- La entidad normativa dispondrá la licitación de la concesión y los bienes afectos a ella, dentro del plazo de un año contado desde que quede firme la resolución de liquidación. Dicha licitación se llevará a efecto de acuerdo a lo dispuesto en el artículo 28º y en el inciso primero del artículo 29º de la presente ley.
 
 Asimismo, el llamado a licitación de la concesión se realizará de acuerdo a lo dispuesto en el inciso primero del artículo 29º.
 
@@ -390,7 +390,7 @@ En el caso de no haber interesados, será aplicable lo dispuesto en el inciso fi
 
 #### Artículo 32º bis
 
-B.- Todo conflicto que pudiere suscitarse entre el síndico y el administrador provisional, será resuelto por el juez de la quiebra, oyendo previamente al Fiscal Nacional de Quiebras y al Superintendente de Servicios Sanitarios.
+B.- Todo conflicto que pudiere suscitarse entre el liquidador y el administrador provisional, será resuelto por el juez del procedimiento concursal de liquidación, oyendo previamente al Superintendente de Insolvencia y Reemprendimiento y al Superintendente de Servicios Sanitarios.
 
 ## Título III
 
@@ -465,6 +465,18 @@ La empresa prestadora deberá mantener en forma permanente y actualizada un regi
 En el evento de que la falta de provisión de agua cruda se debiera a fuerza mayor, y los concesionarios fueren obligados a suscribir contratos de provisión de la misma, se establecerán nuevas tarifas que incorporen el efecto del mayor costo, si éste existiere. Las nuevas tarifas regirán mientras no se supere la fuerza mayor, sin perjuicio del derecho a la revisión de las tarifas en los términos señalados en el artículo 12 A del decreto con fuerza de ley Nº 70, de 1988, del Ministerio de Obras Públicas. Los contratos se suscribirán con los adjudicatarios de una licitación pública convocada por el prestador a requirimiento de la Superintendencia, cuyas bases deberán ser puestas en su conocimiento estando dicha entidad facultada para exigir la modificación de sus términos por razones fundadas. La Superintendencia podrá obligar la suscripción del contrato sólo una vez conocidos los términos económicos de los mismos y su incidencia en las nuevas tarifas.
 
 > **Nota.** El Art. 3º transitorio de la LEY 19549, publicada el 04.02.1998, señala que lo dispuesto en el inciso 5º de este artículo será aplicable a contar de los 180 días siguientes a la fecha de publicación de esta ley.
+
+#### Artículo 35 bis
+
+Toda interrupción o suspensión del servicio de producción o distribución de agua potable, o del servicio de recolección o disposición de aguas servidas, que afecte parcial o íntegramente una o más áreas de la concesión, dará lugar a una compensación a los usuarios afectados por cada día de interrupción o suspensión, de cargo del respectivo concesionario, equivalente a diez veces el valor del servicio que fue interrumpido o suspendido, valorizado a la tarifa vigente que corresponda al momento de la respectiva interrupción o suspensión. Lo anterior, salvo que dicha interrupción o suspensión esté expresamente autorizada en la ley o derive de un evento de fuerza mayor debidamente calificado por la Superintendencia.
+
+Se entenderá como un día de interrupción o suspensión cada vez que el servicio haya sido interrumpido o suspendido por seis horas continuas o más dentro de un período de veinticuatro horas contado a partir del inicio del evento. Si la interrupción o suspensión del servicio tuvo una duración inferior a seis horas, el cálculo indicado en el inciso anterior se hará de manera proporcional al tiempo de la interrupción o suspensión del servicio respectivo.
+
+La compensación regulada en este artículo se efectuará inmediatamente por la correspondiente concesionaria, descontando las cantidades correspondientes en la facturación más próxima, sin perjuicio del derecho de la concesionaria a repetir en contra de terceros responsables.
+
+El pago de la compensación correspondiente a los usuarios afectados no obsta a la aplicación de las sanciones que correspondan a la concesionaria responsable.
+
+El incumplimiento de lo dispuesto en este artículo será sancionado de acuerdo con el artículo 55.
 
 #### Artículo 36°
 

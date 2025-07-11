@@ -392,7 +392,7 @@ Los que individualmente o concertados proporcionaren antecedentes, informes o de
 
 #### Artículo 1°
 
-transitorio.- Para los fines de acogerse al régimen de incentivos contemplado en la presente ley, los contribuyentes deberán presentar a la CORFO las solicitudes de certificación de sus contratos y proyectos hasta el día 31 de diciembre de 2025. En consecuencia, los contratos y proyectos debidamente certificados por la CORFO, darán derecho a los contribuyentes a hacer uso de los beneficios de esta ley, aun cuando estos beneficios se hagan efectivos con posterioridad al 31 de diciembre de 2025, con tal que la solicitud de certificación respectiva haya sido presentada hasta dicha fecha.
+transitorio.- Para los fines de acogerse al régimen de incentivos contemplado en la presente ley, los contribuyentes deberán presentar a la CORFO las solicitudes de certificación de sus contratos y proyectos hasta el día 31 de diciembre de 2035. En consecuencia, los contratos y proyectos debidamente certificados por la CORFO, darán derecho a los contribuyentes a hacer uso de los beneficios de esta ley, aun cuando estos beneficios se hagan efectivos con posterioridad al 31 de diciembre de 2035, con tal que la solicitud de certificación respectiva haya sido presentada hasta dicha fecha.
 
 #### Artículo 2°
 

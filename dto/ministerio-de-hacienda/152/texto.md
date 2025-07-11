@@ -220,9 +220,7 @@ De los Sorteos
 
 #### Artículo 10
 
-Del valor total de los boletos de lotería que se emitan en cada sorteo, excluido el impuesto establecido en el artículo 2° de la ley N° 18.110, deberá destinarse un 60% para premios. Del valor de los boletos vendidos, excluido, asimismo, el referido impuesto, se destinará el 5% a constituir un fondo de beneficiarios, otro 5% irá a rentas generales de la Nación y el saldo restante a Polla Chilena de Beneficencia S.A.
-
-Los premios mayores que determine el reglamento tendrán una deduccion del 2% de su valor, que se destinará a bonificar al Agente que venda dicho premio. En el caso que el vendedor fuere un Subagente, el referido porcentaje se repartirá entre éste y su Agente por iguales partes.
+Del valor total de los boletos vendidos, excluido el impuesto establecido en el artículo 2° de la Ley N° 18.110, deberá destinarse un 5% a constituir un fondo de beneficiarios, otro 5% irá a rentas generales de la Nación.
 
 #### Artículo 11
 

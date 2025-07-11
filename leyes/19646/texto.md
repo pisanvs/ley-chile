@@ -98,11 +98,9 @@ AUXILIAR 19 a 22 25,5% 13,5%
 
 No tendrán derecho a percibir esta asignación, en su parte asociada a la gestión tributaria, los funcionarios calificados en Lista Nº 3, Condicional o Lista Nº 4, de Eliminación, en el año anterior al del pago. Asimismo, no tendrán derecho a percibir la asignación, en su parte asociada a la gestión tributaria, los funcionarios que ingresen al Servicio, hasta que no hayan sido calificados de conformidad con las normas que los rijan para estos efectos.
 
-Sin embargo, tendrán derecho a percibir la asignación los funcionarios que no habiendo sido calificados en el período respectivo, en virtud de las normas legales vigentes, conserven la calificación del período anterior; el Jefe Superior del Servicio, su subrogante legal; los miembros de la Junta Calificadora Central, y los delegados del personal ante las juntas calificadoras.
+Sin embargo, tendrán derecho a percibir la asignación los funcionarios que no habiendo sido calificados en el período respectivo, en virtud de las normas legales vigentes, conserven la calificación del período anterior; el Jefe Superior del Servicio, su subrogante legal; los miembros de la Junta Calificadora Central; los delegados del personal ante las juntas calificadoras; y los Subdirectores de Departamento de Subdirección afectos al Sistema regulado en el Título VI de la ley N° 19.882, quienes también tendrán derecho a percibir la asignación en su parte asociada a la gestión tributaria.
 
 Los funcionarios beneficiarios de la asignación especial de estímulo, en su parte asociada a la gestión tributaria, tendrán derecho a su percepción durante el año calendario inmediatamente siguiente a aquél que se evalúa en la calificación.
-
-INCISO SUPRIMIDO
 
 No tendrán derecho a percibir la asignación, en sus componentes fijo y asociado a la gestión tributaria, los funcionarios que se acojan a permiso sin goce de remuneraciones, de conformidad al artículo 105 de la ley Nº 18.834, mientras dure el período de su ausencia.
 

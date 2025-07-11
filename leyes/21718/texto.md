@@ -370,7 +370,7 @@ Introdúcense las siguientes modificaciones en el inciso duodécimo del artícul
 
 1. Sustitúyese la expresión "cuarenta y cinco días" por "diez días".
 
-2. Agrégase, a continuación del punto y aparte que pasa a ser punto y seguido, el siguiente texto: "Si el acreedor hipotecario se niega a efectuar el respectivo alzamiento conforme a lo dispuesto en este inciso, deberá informar las causales del rechazo mediante respuesta fundada. Si los motivos no guardan relación con obligaciones directas o indirectas del deudor con el proveedor, se aplicará una multa de cinco unidades tributarias mensuales y, en caso de reincidencia, de diez unidades tributarias mensuales, según los procedimientos de la Comisión para el Mercado Financiero.".
+2. Eliminado.
 
 #### Artículo 7
 

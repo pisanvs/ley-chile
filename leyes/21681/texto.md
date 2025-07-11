@@ -16,17 +16,27 @@ Créase hasta el 31 de diciembre de 2026 el Fondo de Emergencia Transitorio por 
 
 Los recursos del Fondo se destinarán exclusivamente a financiar las siguientes iniciativas en la Región de Valparaíso:
 
-1. Reposición y construcción de viviendas.
+1. Estudios para la elaboración o modificación de instrumentos de planificación urbana.
 
-2. Intervenciones, proyectos y acciones de inversión para la habilitación, desarrollo, equipamiento, urbanización y arborización de espacios de uso público.
+2. Preparación de antecedentes y tramitación de proyectos de inversión pública relacionados con la reconstrucción.
 
-3. Subsidios de fomento productivo.
+3. Reparación, reposición y reconstrucción de viviendas y las acciones y asistencia técnica, social y jurídica que lo permitan.
 
-4. Subsidios laborales para personas que pierdan o presenten un grave riesgo de perder su fuente laboral.
+4. Adquisición de suelo para el desarrollo de proyectos habitacionales para familias damnificadas.
 
-5. Acciones y prestaciones de apoyo psico-social para las personas afectadas.
+5. Demoliciones.
 
-6. Reposición, reconstrucción y habilitación de infraestructura pública dañada.
+6. Intervenciones, proyectos y acciones de inversión para la habilitación, desarrollo, equipamiento, urbanización y arborización de espacios de uso público.
+
+7. Todo tipo de gasto necesario y exclusivo para apoyar la ejecución del proceso de reconstrucción.
+
+8. Subsidios de fomento productivo.
+
+9. Subsidios laborales para personas que pierdan o presenten un grave riesgo de perder su fuente laboral.
+
+10. Acciones y prestaciones de apoyo psico-social para las personas afectadas.
+
+11. Reposición, reconstrucción y habilitación de infraestructura pública dañada.
 
 Estos gastos se podrán ejecutar a través de programas creados para este efecto en las leyes de Presupuestos de los años 2024, 2025 y 2026, mediante decreto dictado en la forma dispuesta en el artículo 70 del decreto ley Nº 1.263, de 1975, orgánico de Administración Financiera del Estado, o en leyes específicas para esos programas, e incluyen acciones ejecutadas a través de municipalidades y personas jurídicas sin fines de lucro. Asimismo, estos recursos se podrán reasignar por decreto del Ministerio de Hacienda sin que le resulten aplicables a dichas reasignaciones el artículo 4º de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024, o el que le reemplace en las leyes de Presupuestos de los años siguientes hasta que el Fondo se extinga, y el inciso segundo del artículo 26 del señalado decreto ley Nº 1.263, de 1975.
 
@@ -84,7 +94,7 @@ De la misma manera, y por el mismo periodo, los directores de las empresas estra
 
 #### Artículo 8
 
-Las acciones implementadas o financiadas con cargo al Fondo podrán eximirse de la aplicación de los artículos 23 y 24 de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024. En estos casos, asimismo, el Ministerio de Obras Públicas podrá intervenir infraestructura vial y de canales de propiedad privada, previa autorización del o los adquirentes.
+Las acciones implementadas o financiadas con cargo al Fondo podrán eximirse de la aplicación de los artículos 23 y 24 de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024; de la aplicación de los artículos 23, 24, 25 y 26 de la ley N° 21.722, de Presupuestos del Sector Público correspondiente al año 2025; o los que los reemplacen en las leyes de Presupuestos de los años siguientes hasta que el Fondo se extinga. En estos casos, asimismo, el Ministerio de Obras Públicas podrá intervenir infraestructura vial y de canales de propiedad privada, previa autorización del o los adquirentes.
 
 #### Artículo 9
 

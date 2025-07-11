@@ -638,7 +638,7 @@ Los y las integrantes del tribunal elegirán, por mayoría de votos de sus juece
 
 Los y las integrantes designados en calidad de suplentes ejercerán el cargo que les haya sido asignado en aquellos casos en que por cualquier circunstancia no sea desempeñado por el titular. Dicha suplencia no podrá extenderse por más de seis meses continuos, al término de los cuales deberá, necesariamente, proveerse el cargo con un o una titular de la manera señalada en el artículo 22 bis, por el período de tiempo que reste para su ejercicio.
 
-El tribunal dictará las normas necesarias para su adecuado funcionamiento administrativo interno, y velará por la eficaz expedición de los asuntos que conozca.
+El tribunal dictará las normas necesarias para su adecuado funcionamiento administrativo interno, y velará por la eficaz expedición de los asuntos que conozca. Sin perjuicio de ello, el uso del feriado, cometidos, comisiones de servicio y de permisos por parte de los jueces y las juezas titulares del tribunal, serán autorizadas por el Presidente del tribunal, y deberán aplicar para tales efectos, y en lo que resulte pertinente a la naturaleza del cargo, lo dispuesto en el artículo 72 y en los párrafos 3°, 4° y 5° del Título IV de la ley Nº 18.834, que aprueba el Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 29, de 2005, del Ministerio de Hacienda.
 
 #### Artículo 22
 

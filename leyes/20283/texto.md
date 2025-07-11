@@ -22,7 +22,7 @@ Para los efectos de esta ley, se entenderá por:
 
 3) Bosque nativo: bosque formado por especies autóctonas, provenientes de generación natural, regeneración natural, o plantación bajo dosel con las mismas especies existentes en el área de distribución original, que pueden tener presencia accidental de especies exóticas distribuidas al azar.
 
-4) Bosque nativo de preservación: aquél, cualquiera sea su superficie, que presente o constituya actualmente hábitat de especies vegetales protegidas legalmente o aquéllas clasificadas en las categorías definidas en conformidad al artículo 37 de la ley N° 19.300; o que corresponda a ambientes únicos o representativos de la diversidad biológica natural del país, cuyo manejo sólo puede hacerse con el objetivo del resguardo de dicha diversidad.
+4) Bosque nativo de preservación: aquél, cualquiera sea su superficie, que presente o constituya actualmente hábitat de especies vegetales clasificadas de conformidad con el artículo 37 de la ley N° 19.300 y su reglamento, en las categorías en peligro crítico, en peligro, o vulnerable; o que corresponda a ambientes únicos o representativos de la diversidad biológica natural del país, cuyo manejo sólo puede hacerse con el objetivo del resguardo de dicha diversidad.
 
 Se considerarán, en todo caso, incluidos en esta definición, los bosques comprendidos en áreas que formen parte del Sistema Nacional de Áreas Protegidas.
 
@@ -206,7 +206,7 @@ Las normas señaladas en los artículos 15, 16 y 17 de este Título se aplicará
 
 #### Artículo 19
 
-Prohíbese la corta, eliminación, destrucción o descepado de individuos de las especies vegetales nativas clasificadas, de conformidad con el artículo 37 de la ley N° 19.300 y su reglamento, en las categorías en peligro crítico, en peligro, vulnerable, casi amenazada y datos insuficientes, que formen parte de un bosque nativo, como asimismo la alteración de su hábitat. Esta prohibición no afectará a los individuos de dichas especies plantados por el hombre, a menos que tales plantaciones se hubieren efectuado en cumplimiento de medidas de compensación, reparación o mitigación dispuestas por una resolución de calificación ambiental u otra autoridad competente.
+Prohíbese la corta, eliminación, destrucción o descepado de individuos de las especies vegetales nativas clasificadas, de conformidad con el artículo 37 de la ley N° 19.300 y su reglamento, en las categorías en peligro crítico, en peligro y vulnerables que formen parte de un bosque nativo, como asimismo la alteración de su hábitat. Esta prohibición no afectará a los individuos de dichas especies plantados por el hombre, a menos que tales plantaciones se hubieren efectuado en cumplimiento de medidas de compensación, reparación o mitigación dispuestas por una resolución de calificación ambiental u otra autoridad competente.
 
 Excepcionalmente, podrá intervenirse o alterarse el hábitat de los individuos de dichas especies, previa autorización de la Corporación, la que se otorgará por resolución fundada, siempre que tales intervenciones no amenacen la continuidad de la especie a nivel de la cuenca o, excepcionalmente, fuera de ella, que sean imprescindibles y que tengan por objeto la realización de investigaciones científicas, fines sanitarios o estén destinadas a la ejecución de obras o al desarrollo de las actividades señaladas en el inciso cuarto del artículo 7º, siempre que tales obras o actividades sean de interés nacional.
 
@@ -530,7 +530,7 @@ Toda corta de bosque no autorizada hará incurrir al propietario del predio, o a
 
 #### Artículo 52
 
-La corta, eliminación, destrucción o descepado u otra forma de dar muerte a ejemplares de especies clasificadas como en peligro de extinción, vulnerables, raras, insuficientemente conocidas o fuera de peligro, que no corresponda a intervenciones autorizadas de conformidad al artículo 19 de esta ley, será sancionada con multa de 5 a 50 unidades tributarias mensuales por ejemplar, si éste no tuviere valor comercial; en caso contrario, la multa será igual al doble del valor comercial de cada ejemplar objeto de la intervención.
+La corta, eliminación, destrucción o descepado u otra forma de dar muerte a ejemplares de especies clasificadas de conformidad con el artículo 37 de la ley N° 19.300 y su reglamento, en las categorías en peligro crítico, en peligro y vulnerables, que no corresponda a intervenciones autorizadas de conformidad al artículo 19 de esta ley, será sancionada con multa de 5 a 50 unidades tributarias mensuales por ejemplar, si éste no tuviere valor comercial; en caso contrario, la multa será igual al doble del valor comercial de cada ejemplar objeto de la intervención.
 
 En caso que los productos de la infracción estén en poder del infractor, caerán en comiso y serán enajenados por la Corporación. Si dichos productos hubieren sido retirados total o parcialmente del predio o centro de acopio, la multa que corresponda al infractor se aumentará en 200%.
 

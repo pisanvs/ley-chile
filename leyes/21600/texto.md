@@ -2014,7 +2014,7 @@ Facúltase al Presidente de la República para que, dentro del plazo de un año 
 
 2) Fijar la planta de personal de Directivos del Servicio, pudiendo al efecto fijar el número de cargos, los requisitos para el desempeño de los mismos, sus denominaciones, los cargos que se encuentren afectos al Título VI de la ley N° 19.882, y el grado de la escala única de remuneraciones del citado decreto ley N° 249, de 1974, asignado a cada uno de esos cargos.
 
-3) Ordenar el traspaso al Servicio, sin solución de continuidad, de todo el personal de la Corporación Nacional Forestal, o de su sucesor legal, que preste servicios exclusivamente para la administración y gestión de las áreas silvestres protegidas, fijando el plazo en que se llevará a cabo este proceso, el cual deberá ocurrir a los tres años contado desde la entrada en funcionamiento del Servicio. En cambio, la individualización del personal traspasado se llevará a cabo por decretos, expedidos bajo la fórmula "Por orden del Presidente de la República", por intermedio del Ministerio del Medio Ambiente, el cual señalará la época en que se hará efectivo el traspaso de acuerdo a lo indicado anteriormente.
+3) Ordenar el traspaso al Servicio, sin solución de continuidad, de todo el personal de la Corporación Nacional Forestal, o de su sucesor legal, que preste servicios exclusivamente para la administración y gestión de las áreas silvestres protegidas, fijando el plazo en que se llevará a cabo este proceso, el cual deberá ocurrir dentro del tercer año contado desde la entrada en funcionamiento del Servicio. En cambio, la individualización del personal traspasado se llevará a cabo por decretos, expedidos bajo la fórmula "Por orden del Presidente de la República", por intermedio del Ministerio del Medio Ambiente, el cual señalará la época en que se hará efectivo el traspaso de acuerdo a lo indicado anteriormente.
 
 4) El pago de los beneficios indemnizatorios al personal traspasado se entenderá postergado por causa que otorgue derecho a percibirlo. En tal caso la indemnización se determinará computando el tiempo servido en la Corporación Nacional Forestal. Además, se computará el tiempo trabajado en el Servicio que crea la presente ley.
 
@@ -2110,11 +2110,11 @@ Los actos, contratos y convenios otorgados o celebrados con comunidades, corpora
 
 Los sitios prioritarios para la conservación identificados en la Estrategia Nacional de Biodiversidad y en las Estrategias Regionales de Biodiversidad mantendrán sus efectos legales vigentes con anterioridad a la publicación de la presente ley.
 
-El Ministerio del Medio Ambiente, dentro del plazo de dos años contado desde la publicación señalada, dictará un decreto supremo para determinar los mencionados sitios prioritarios que pasarán a regirse por los efectos de la presente ley.
+El Ministerio del Medio Ambiente, dentro del plazo de cinco años contado desde la publicación señalada, dictará un decreto supremo para determinar los mencionados sitios prioritarios que pasarán a regirse por los efectos de la presente ley.
 
 #### Artículo noveno
 
-Las funciones y atribuciones del Servicio establecidas en la letra b) del artículo 5° entrarán en vigencia al tercer año, contado desde la entrada en funcionamiento del Servicio, cuando recaigan en áreas protegidas del Estado de las categorías Parque Nacional, Reserva Nacional y Monumento Natural.
+Las funciones y atribuciones del Servicio establecidas en la letra b) del artículo 5° entrarán en vigencia dentro del tercer año, contado desde la entrada en funcionamiento del Servicio, lo que será determinado por uno o más decretos, expedidos bajo la fórmula "Por orden del Presidente de la República", por intermedio del Ministerio del Medio Ambiente, el cual señalará la época en que se hará efectiva, la que deberá necesariamente corresponder con el traspaso del personal al Servicio al que se refiere numeral 3) del artículo primero transitorio, cuando recaigan en áreas protegidas del Estado de las categorías Parque Nacional, Reserva Nacional y Monumento Natural.
 
 #### Artículo décimo
 
