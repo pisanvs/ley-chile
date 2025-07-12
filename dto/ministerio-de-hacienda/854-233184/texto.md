@@ -634,6 +634,18 @@ Ley N° 19.850
 
 005 SUPRIMIDA
 
+006 Aportes Fiscales
+
+Adicionales por
+
+Aplicación de la
+
+ley N° 21.591
+
+sobre Royalty a
+
+la Minería
+
 04 Fondos de
 
 Terceros
@@ -711,6 +723,32 @@ Cobro de Pagos
 Duplicados
 
 999 Otros
+
+301 Recuperación
+
+Ley N°20.027 sobre
+
+Créditos de Educ.
+
+Sup. con Garantía
+
+Estatal (CAE)
+
+401 Fluctuación Deudores
+
+del Periodo de
+
+Otros Ingresos No
+
+Tributarios
+
+402 Fluctuación Deudores
+
+de Años Anteriores
+
+de Otros Ingresos No
+
+Tributarios
 
 09 APORTE FISCAL
 
@@ -2618,6 +2656,36 @@ Comprende las siguientes asignaciones:
 
 005 SUPRIMIDA
 
+006 Aportes Fiscales Adicionales
+
+por Aplicación de la ley
+
+Nº 21.591 sobre Royalty a
+
+la Minería
+
+Comprende los ingresos
+
+correspondientes a los aportes
+
+fiscales adicionales al Fondo
+
+Común Municipal que se
+
+disponen en los N°s 7 y 8 del
+
+#### Artículo 14
+
+del DFL Nº 1, de
+
+2006, del Ministerio del
+
+Interior, incorporados por la
+
+ley Nº 21.591 sobre Royalty
+
+a la Minería.
+
 04 FONDOS DE TERCEROS
 
 Comprende los recursos que recaudan los
@@ -2636,7 +2704,9 @@ especificados en las categorías
 
 anteriores.
 
-Comprende las siguientes asignaciones:
+Comprende las siguientes
+
+asignaciones:
 
 001 Devoluciones y Reintegros no Provenientes
 
@@ -2699,6 +2769,98 @@ Cobro de Pagos
 Duplicados
 
 999 Otros
+
+301 Recuperación Ley Nº20.027
+
+sobre Créditos de Educ.
+
+Sup. con Garantía Estatal
+
+(CAE)
+
+Corresponde a los ingresos
+
+netos asociados a la
+
+recuperación proveniente
+
+de los deudores del Crédito
+
+para la Educación Superior
+
+con Garantía Estatal de
+
+la ley N°20.027,
+
+recuperados y percibidos
+
+durante el periodo.
+
+401 Fluctuación Deudores
+
+del Periodo de Otros
+
+Ingresos No Tributarios
+
+Comprende los registros
+
+correspondientes a la
+
+variación neta en los
+
+montos que los
+
+contribuyentes deben
+
+al Fisco, generados
+
+durante el periodo en
+
+el sistema de pago
+
+correspondiente a Otros
+
+Ingresos No Tributarios,
+
+en relación con deudas
+
+pendientes e Ingresos
+
+esperados.
+
+402 Fluctuación Deudores de
+
+Años Anteriores de Otros
+
+Ingresos No Tributarios
+
+Comprende los registros
+
+correspondientes a la
+
+variación neta en los
+
+montos que los
+
+contribuyentes deben
+
+al Fisco, generados
+
+durante años anteriores
+
+al periodo vigente en el
+
+sistema de pago
+
+correspondiente a
+
+Otros Ingresos No
+
+Tributarios, referidos
+
+a deudas pendientes
+
+e Ingresos esperados.
 
 09 APORTE FISCAL
 
@@ -7029,6 +7191,28 @@ Para realizar la referida desagregación, se considerarán las siguientes distin
 05 Programas Recreacionales: comprende todo gasto vinculado con las actividades y/o iniciativas ejecutadas directamente por el municipio, con la finalidad de fomentar las disciplinas deportivas, de recreación, turismo y entretenimiento de la comunidad local. Incluye las subvenciones a entidades públicas o privadas que otorgue con igual propósito.
 
 06 Programas Culturales: comprende todo gasto relacionado con el desarrollo de iniciativas que ejecute directamente el municipio, orientadas al fomento y difusión de la cultura y de las artes entre los habitantes de la comuna. Incluye las subvenciones a entidades públicas o privadas que conceda con la misma finalidad.
+
+8. Sin perjuicio de lo señalado en los numerales 6 y 7, las municipalidades, para efectos de la formulación, ejecución e información del presupuesto, deberán desagregar los ingresos provenientes del Fondo Común Municipal asociados a la aplicación de la ley N° 21.591 sobre Royalty a la Minería, distinguiendo en la asignación "006 Aportes Fiscales Adicionales por Aplicación de la ley Nº 21.591 sobre Royalty a la Minería" del ítem 03 del Subtítulo 08, las siguientes subasignaciones:
+
+- 001 Aplicación Art. 14, Nº 7, del DFL Nº 1, de 2006, del Min. del Interior - Fondo Comunas Mineras
+
+Comprende el ingreso correspondiente al aporte fiscal adicional del Fondo Común Municipal, que se dispone en virtud de lo señalado en el Nº 7 del artículo 14 del DFL Nº 1, de 2006, del Ministerio del Interior, a favor de comunas pertenecientes a regiones mineras.
+
+- 002 Aplicación Art. 14, Nº 8, del DFL Nº 1, de 2006, del Min. del Interior - Fondo Equidad Territorial
+
+Comprende el ingreso correspondiente al aporte fiscal adicional del Fondo Común Municipal, que se dispone en virtud de lo señalado en el N° 8 del artículo 14 del DFL Nº 1, de 2006, del Ministerio del Interior, a favor de aquellas comunas que presenten una mayor dependencia del Fondo Común Municipal o pertenezcan al grupo con menos ingresos propios a nivel nacional.
+
+9. Declárese que, no obstante las asignaciones de uso general fijadas expresamente en el Clasificador de Ingresos y Gastos del presente decreto, las asignaciones de Fluctuación Deudores incorporadas en el ítem 99 del Subtítulo 08, así como su respectivo desglose en subasignaciones, serán de uso exclusivo del Fisco a través de la Partida del Tesoro Público. Además, para efectos de la desagregación en subasignaciones para las asignaciones que a continuación se señalan, se deberá contemplar lo siguiente:
+
+a) Para la asignación "301 Recuperación Ley Nº20.027 sobre Créditos de Educ. Sup. con Garantía Estatal (CAE)", se deberá desglosar en las siguientes subasignaciones:
+
+- 001 Ingresos por recuperación de créditos ley Nº 2.0.027 (CAE)
+
+- 004 Fluctuación Deudores del Periodo ley Nº 20.027 (CAE)
+
+- 005 Fluctuación Deudores de Años Anteriores ley Nº 20.027 (CAE)
+
+b) Para el desglose correspondiente a las asignaciones "401 Fluctuación Deudores del Periodo de Otros Ingresos No Tributarios" y "402 Fluctuación Deudores de Años Anteriores de Otros Ingresos No Tributarios", se deberán considerar para su desagregación a nivel de subasignación, los conceptos que se estimen pertinentes, distinguiendo en su desglose por tipo de ingreso asociado a la referida fluctuación.
 
 > **Nota.** El Decreto 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
 
