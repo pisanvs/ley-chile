@@ -186,93 +186,75 @@ Las resoluciones a que se refieren los artículos 18º y 19º deberán indicar c
 
 La administración de los bienes muebles de consumo será ejercida por la Unidad Operativa respectiva a la que le asignaron los bienes referidos o por el funcionario que determine el Jefe de esa Unidad.
 
-## Título IV
+## Título IV — De la disposición de Bienes Muebles Fiscales.- Derogado.
 
-De la disposición de Bienes Muebles Fiscales
-
-#### Artículo 22º
+#### Artículo 22
 
 <!-- parte:8642617 -->
 
-Los Jefes de Servicios podrán excluir los bienes muebles utilizables que no requieran para sus necesidades, solicitando a la Dirección Regional de Tierras y Bienes Nacionales la autorización para la baja con enajenación de estos bienes. Esta Dirección se pronunciará autorizando la baja solicitada o sugiriendo la entidad que necesitare los bienes, en cuyo caso el Servicio deberá proceder al correspondiente traslado. Si no se pronunciare dentro del plazo de 45 días, contado desde la fecha de la recepción de la solicitud, se entenderá que la Dirección Regional autoriza la baja.
+Derogado.
 
-Dentro del plazo de 10 días, contado desde la recepción de la autorización otorgada por la Dirección Regional mencionada o del vencimiento del plazo de 45 días a que se refiere el inciso anterior, el Jefe del Servicio deberá proceder a dictar la resolución de traslado o de baja con enajenación, según proceda.
-
-#### Artículo 23º
+#### Artículo 23
 
 <!-- parte:8642619 -->
 
-La enajenación se realizará a través de la Dirección de Aprovisionamiento del Estado, de acuerdo a las normas legales y reglamentarias vigentes.
+Derogado.
 
-No obstante, en las regiones la referida Dirección podrá encomendar la enajenación de los muebles a la Dirección Regional de Tierras y Bienes Nacionales respectiva.
-
-#### Artículo 24º
+#### Artículo 24
 
 <!-- parte:8642620 -->
 
-Los bienes muebles deteriorados o destruidos que no se puedan reparar y los que ofrecidos en remate no se hubieren enajenado por no existir interés en adquirirlos podrán ser dados de baja sin enajenación, mediante resolución del Servicio respectivo.
+Derogado.
 
-#### Artículo 25º
+#### Artículo 25
 
 <!-- parte:8642621 -->
 
-Las especies a que se refiere el artículo anterior o los residuos de ellas podrán ser donados a otras instituciones del Estado, entidades gremiales, Juntas de Vecinos, Centros de Madres o a cualquiera otra entidad similar que, sin ánimo de lucro, persiga fines de interés social. En casos calificados los bienes mencionados podrán ser donados a pobladores y campesinos.
+Derogado.
 
-Estas donaciones se perfeccionarán mediante un Acta de Entrega y Aceptación, suscrita por el Jefe de la Unidad Operativa o el encargado del Inventario y la persona o entidad favorecida con ella. La especie deberá ser claramente individualizada en dicha Acta.
-
-Sin perjuicio de lo anterior, las especies dadas en baja sin enajenación podrán permanecer en el Servicio que dictó la resolución con el objeto de que sirvan como elemento de reparación de otras especies muebles inventariadas.
-
-#### Artículo 26º
+#### Artículo 26
 
 <!-- parte:8642622 -->
 
-En el evento de no aplicarse el artículo anterior la especie debe ser destruida debiendo levantarse un Acta al efecto, suscrita por el Jefe de la Unidad Operativa o el encargado del Inventario, visada por la autoridad regional que determine el Jefe del Servicio.
+Derogado.
 
-#### Artículo 27º
+#### Artículo 27
 
 <!-- parte:8642623 -->
 
-Las bajas sin enajenación de bienes muebles fiscales ordenadas en los decretos o resoluciones que ponen término a sumarios administrativos por pérdidas, robos, incendios, etc., deben ser comunicadas al encargado del Inventario.
+Derogado.
 
-#### Artículo 28º
+#### Artículo 28
 
 <!-- parte:8642624 -->
 
-Los bienes muebles fiscales adquiridos por herencia se someterán, en cuanto a su liquidación, a las normas del D. S. Nº 625, del Ministerio de Tierras y Colonización, de 17 de Febrero de 1978.
+Derogado.
 
-#### Artículo 29º
+#### Artículo 29
 
 <!-- parte:8642625 -->
 
-No se aplicarán las disposiciones de este Título a los vehículos motorizados, a los cuales se les continuará aplicando las disposiciones legales vigentes.
+Derogado.
 
-## Título V
+## Título V — Reglas especiales relativas al material de desecho.- Derogado.
 
-Reglas especiales relativas al material de desecho
-
-#### Artículo 30º
+#### Artículo 30
 
 <!-- parte:8642626 -->
 
-La disposición del material de desecho de los Servicios de la Administración del Estado se someterá a las disposiciones siguientes.
+Derogado.
 
-#### Artículo 31º
+#### Artículo 31
 
 <!-- parte:8642628 -->
 
-Para estos efectos se considerará de desecho aquel material que ha perdido las condiciones que lo hacían útil o aprovechable para el Servicio respectivo. Podrán tener esta condición, por ejemplo, el papel, la cartulina, el cartón, las tarjetas perforadas, los archivos, las cintas magnéticas, el celuloide y cualquier otro elemento en desuso o no aprovechable.
+Derogado.
 
-En caso de duda, la Dirección de Tierras y Bienes Nacionales determinará si un material reúne las condiciones antes mencionadas.
-
-#### Artículo 32º
+#### Artículo 32
 
 <!-- parte:8642629 -->
 
-El Director Regional de Tierras y Bienes Nacionales respectivo podrá, en representación del Fisco, enajenar el material de desecho de los Servicios mediante subasta pública o propuesta pública o privada, fijando en cada caso las modalidades o condiciones que estime más favorables al interés fiscal. En casos calificados, la Dirección Regional podrá autorizar la venta directa del material de desecho.
-
-El Director Regional de Tierras y Bienes Nacionales podrá, igualmente, autorizar a los Servicios para que dispongan directamente las ventas a que se refiere el inciso anterior, en la forma y condiciones que se señalen en la respectiva resolución, u ordenar su destrucción o incineración, si procediere.
-
-En todo caso, corresponderá a la Dirección Regional respectiva controlar el cumplimiento estricto de las obligaciones impuestas a los particulares en los respectivos contratos y evitar que se produzcan irregularidades en la entrega del material de desecho.
+Derogado.
 
 ## Título VI
 
