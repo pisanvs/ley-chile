@@ -40,16 +40,6 @@ Tabla 1: Obras Adjudicadas del Sistema de Transmisión
 
 .
 
-En el caso de la obra "Construcción Bypass para la Línea 1x220 kV Atacama - Esmeralda, la Línea 1x110 kV Esmeralda - La Portada y Línea 1x110 kV Mejillones - Antofagasta y desmantelamiento", indicada en la fila 4 de la Tabla 1, dado que el proyecto se ha dividido en dos etapas, construcción y desmantelamiento, ambas con plazos constructivos diferentes, el V.A.T.T. adjudicado que se establece en la Tabla 1 se ha separado de manera proporcional a estas labores conforme lo calculado como valor de inversión referencial en el Plan de Expansión 2017. A partir de lo anterior, se obtienen para cada etapa del proyecto los valores que se indican en la Tabla 2.
-
-Tabla 2: Separación de V.A.T.T. según etapas del proyecto "Construcción Bypass para la Línea 1x220 kV Atacama - Esmeralda, la Línea 1x110 kV Esmeralda - La Portada y Línea 1x110 kV Mejillones - Antofagasta y desmantelamiento"
-
-.
-
-Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la Tabla 1, contados desde la publicación del presente decreto en el Diario Oficial.
-
-Respecto del proyecto "Construcción Bypass para la Línea 1x220 kV Atacama - Esmeralda, la Línea 1x110 kV Esmeralda - La Portada y Línea 1x110 kV Mejillones - Antofagasta y desmantelamiento", en vista de ser una obra que se desarrollará en dos etapas, se considera que la primera etapa del proyecto, asociada a la construcción del bypass, deberá estar construida y entrar en operación, a más tardar, dentro de los 30 meses siguientes a la fecha de publicación del presente decreto en el Diario Oficial, mientras que la segunda etapa, asociada al desmantelamiento de los tramos de líneas existentes, deberá ejecutarse dentro de los 48 meses siguientes a la fecha de publicación del presente decreto en el Diario Oficial.
-
 En caso de que el día de entrada en operación de un determinado proyecto de los indicados anteriormente sea un día sábado, domingo o festivo, éste deberá ser prorrogado al primer día hábil siguiente.
 
 2º Fíjanse las características técnicas mínimas de las obras nuevas señaladas en el artículo anterior.
@@ -202,69 +192,7 @@ vi. Comunicaciones: para el desarrollo e implementación de la solución técnic
 
 Se dispondrá en la subestación Nueva Los Pelambres de los paños de línea, la extensión de las barras, plataforma, malla de puesta a tierra, instalaciones comunes y servicios auxiliares para dos diagonales destinadas a la conexión de la nueva línea 4x220 kV. El adjudicatario será el encargado de hacer todas las obras necesarias para realizar dicha conexión.
 
-4. CONSTRUCCIÓN BYPASS PARA LA LÍNEA 1X220 KV ATACAMA - ESMERALDA, LA LÍNEA 1X110 KV ESMERALDA - LA PORTADA Y LÍNEA 1X110 KV MEJILLONES - ANTOFAGASTA Y DESMANTELAMIENTO
-
-4.1. Descripción General de la Obra
-
-La primera etapa del proyecto consiste en la construcción de un bypass que contendrá los tramos de los circuitos 1x220 kV Atacama - Esmeralda, 1x110 kV La Portada - Esmeralda y 1x110 kV Mejillones - Antofagasta, cuyo extremo sur se deberá emplazar aproximadamente a 1 km al norte de la actual subestación Antofagasta 110 kV, siguiendo el trazado de la línea lx110 kV Mejillones- Antofagasta, y dentro de un radio de 1 km respecto a este punto, en tanto el extremo norte del bypass se deberá emplazar dentro de un radio de 2 km respecto a la S/E La Portada 110 kV. El bypass deberá ubicarse al oriente de la actual línea 1x220 kV Atacama - Esmeralda, alejado de la zona urbana y contener todos los circuitos montados sobre la misma estructura. El tramo del circuito 220 kV deberá contar con una capacidad de, a lo menos, 197 MVA a 35ºC con sol. Asimismo, los tramos del circuito 110 kV La Portada - Esmeralda y del circuito 110 kV Mejillones - Antofagasta deberán contar con, a lo menos, 35 MVA y 92 MVA a 35ºC respectivamente. El proyecto deberá incluir adicionalmente las conexiones de las nuevas líneas en 110 kV a la subestación Guardiamarina.
-
-Adicionalmente, el proyecto considera los nuevos tramos de línea necesarios para la conexión del bypass con todas las líneas intervenidas que quedarán operativas. La segunda etapa del proyecto consiste en el desmontaje de los tramos de líneas que quedarán fuera de servicio.
-
-El proyecto deberá considerar las características técnicas y ubicación de la obra "Nueva S/E Guardiamarina 110/23-13 kV", fijada mediante el decreto exento Nº 418, de 4 de agosto de 2017, del Ministerio de Energía y en sus respectivas bases de licitación, además de la reutilización de las instalaciones que queden disponibles por dicha obra.
-
-El proyecto incluye todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio, tales como comunicaciones, teleprotecciones, SCADA, obras civiles, montaje, pruebas de los nuevos equipos y modificaciones estructurales y de ferretería, si estas son necesarias, entre otras.
-
-4.2. Características Técnicas Mínimas para el Nuevo Bypass
-
-El proyecto comprende el diseño, suministro, construcción, pruebas y puesta en servicio, así como todas las labores necesarias para el correcto funcionamiento de las siguientes obras, con sus respectivas características:
-
-Línea 1x220 kV Atacama - Esmeralda
-
-i. Tensión nominal: 220 kV.
-
-ii. Número de circuitos: 1.
-
-iii. Tipo de estructuras: autosoportantes metálicas reticuladas (líneas 1x220 kV y 2x110 kV, estructura compartida).
-
-iv. Capacidad de la línea por el circuito de 220 kV: 200 MVA a una temperatura del conductor de 75ºC, para una temperatura ambiente de 35ºC, considerando radiación solar y una velocidad del viento de 0,61 m/s.
-
-v. Cable de Guardia: sí.
-
-vi. Comunicaciones: para el desarrollo e implementación de la solución técnica del sistema de comunicaciones deberá realizarse el análisis correspondiente, de manera de integrar las características técnicas de los sistemas existentes en los extremos remotos.
-
-Línea 1x110 kV La Portada - Esmeralda
-
-i. Tensión nominal: 110 kV.
-
-ii. Número de circuitos: 1.
-
-iii. Tipo de estructuras: autosoportantes metálicas reticuladas (líneas 1x220 kV y 2x110 kV, estructura compartida).
-
-iv. Capacidad de la línea por el circuito de 110 kV: 95 MVA a una temperatura del conductor de 75ºC, para una temperatura ambiente de 35ºC, considerando radiación solar y una velocidad del viento de 0,61 m/s.
-
-v. Cable de Guardia: sí.
-
-vi. Comunicaciones: para el desarrollo e implementación de la solución técnica del sistema de comunicaciones deberá realizarse el análisis correspondiente, de manera de integrar las características técnicas de los sistemas existentes en los extremos remotos.
-
-Línea 1x110 kV Mejillones - Antofagasta
-
-i. Tensión nominal: 110 kV.
-
-ii. Número de circuitos: 1.
-
-iii. Tipo de estructuras: autosoportantes metálicas reticuladas (líneas 1x220 kV y 2x110 kV, estructura compartida).
-
-iv. Capacidad de la línea por el circuito de 110 kV: 95 MVA a una temperatura del conductor de 75ºC, para una temperatura ambiente de 35ºC, considerando radiación solar y una velocidad del viento de 0,61 m/s.
-
-v. Cable de Guardia: sí.
-
-vi. Comunicaciones: para el desarrollo e implementación de la solución técnica del sistema de comunicaciones deberá realizarse el análisis correspondiente, de manera de integrar las características técnicas de los sistemas existentes en los extremos remotos.
-
-4.3. Características Técnicas Mínimas adicionales de la obra
-
-Adicionalmente a lo indicado en el punto anterior, el adjudicatario de la obra deberá realizar las conexiones de las nuevas líneas de 110 kV del bypass a los tramos existentes del seccionamiento de las líneas 1x110 kV La Portada - Esmeralda y 1x110 kV Mejillones - Antofagasta, los cuales se conectan a la Subestación Guardiamarina.
-
-Finalmente, el desmantelamiento de las instalaciones que debe realizarse producto de este proyecto deberá efectuarse conforme a la normativa ambiental vigente. El adjudicatario deberá dejar los elementos desmantelados a disposición del propietario de la instalación correspondiente en una bodega, recinto de almacenamiento, o subestación más cercana a la obra, en la comuna de Antofagasta. Las condiciones en que deben ser dejados los elementos desmantelados deberán ser acordadas con cada uno de los propietarios de las instalaciones que se deben retirar.
+### 4. Eliminado
 
 ### 5. S/E SECCIONADORA NUEVA LA NEGRA 220/110 KV
 
@@ -654,13 +582,13 @@ Tabla 5: Fecha de Cumplimiento de Hitos Relevantes (*)
 
 *Los plazos de días indicados en la tabla corresponden a días corridos.
 
-**Los plazos indicados corresponden al cumplimiento de los distintos Hitos asociados a la Etapa 1 del proyecto, Construcción Bypass para la Línea 1x220 kV Atacama - Esmeralda, la Línea 1x110 kV Esmeralda - La Portada y Línea 1x110 kV Mejillones - Antofagasta Bypass para la Línea 1x220 kV Atacama - Esmeralda, la Línea 1x110 kV Esmeralda - La Portada y Línea 1x110 kV Mejillones - Antofagasta. Por su naturaleza, a la etapa asociada al desmantelamiento, no le serán aplicables el cumplimiento de Hitos indicados en el presente numeral, no obstante dicha etapa deberá encontrarse totalmente ejecutada conforme a los términos establecidos en las Bases de Licitación del Coordinador, dentro del plazo establecido para tal efecto.
-
 ### 2. Auditoría técnica de los proyectos
 
 Para cada proyecto adjudicado, el Coordinador contratará oportunamente una auditoría y seguimiento técnico que acompañará el desarrollo del proyecto durante la etapa de ejecución y doce meses posterior a la entrada en operación. La auditoría y seguimiento técnico tendrá por objetivo realizar el seguimiento y monitoreo del cumplimiento de plazos, hitos y características técnicas establecidas en las Bases de Licitación y en la oferta técnica para la ejecución del proyecto presentada por el adjudicatario.
 
 Esta auditoría y seguimiento técnico incluye la verificación del cumplimiento de los hitos relevantes del proyecto, así como también de las características técnicas, a las cuales se comprometió el adjudicatario en su oferta técnica, de acuerdo las Bases de Licitación elaboradas por el Coordinador.
+
+> **Nota.** El numeral 4 de la Resolución 45 Exenta, Energía, publicada 17.07.2025, ordena suprimir la cuarta fila de la Tabla N° 1 contenida en el numeral 1 y, asimismo dispone suprimir la cuarta fila de la Tabla N° 4 y la cuarta fila de la Tabla N° 5 insertas en el numeral 5 de la presente norma.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro de Energía.
 
