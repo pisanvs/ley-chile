@@ -10,6 +10,8 @@ Proyecto de ley:
 
 Para efectos de esta ley, y en el marco del pleno respeto de los derechos del niño y la niña en su primera infancia, establecidos en la Convención Internacional sobre los Derechos del Niño y en otros pactos internacionales suscritos por Chile, se entenderá que son establecimientos de educación parvularia aquellos que, contando con autorización para funcionar o con reconocimiento oficial, según corresponda, les imparten atención integral entre su nacimiento y la edad de ingreso a la educación básica, favoreciendo de manera sistemática, oportuna y pertinente su desarrollo integral, aprendizajes, conocimientos, habilidades y actitudes.
 
+La Superintendencia de Educación tendrá la facultad de identificar a los establecimientos de educación parvularia a los que refiere el presente artículo.
+
 #### Artículo 2º
 
 Todos los establecimientos de educación parvularia a que se refiere el artículo anterior deberán contar, a lo menos, con una autorización del Ministerio de Educación para funcionar como tales, de acuerdo al procedimiento establecido en la presente ley.
@@ -87,6 +89,8 @@ El Ministerio de Educación llevará un registro público de sostenedores y uno 
 #### Artículo 7º
 
 Los establecimientos que no cuenten con la autorización a que se refiere esta ley, o con el reconocimiento oficial, según corresponda, no podrán funcionar ni publicitarse como tales o con denominaciones análogas, como salas cunas o jardines infantiles, ya sea a través de carteles, avisos, ilustraciones o propaganda en prensa o cualquier otro medio.
+
+En el caso de que el establecimiento no cuente con alguna de las certificaciones señaladas en el inciso anterior, la Superintendencia de Educación dispondrá inmediatamente su clausura.
 
 #### Artículo 8º
 
@@ -241,6 +245,10 @@ El Ministerio de Educación dictará el reglamento a que se refiere el inciso fi
 #### Artículo tercero
 
 Los establecimientos de educación parvularia que, con anterioridad a la entrada en vigencia de esta ley, se encuentren funcionando sin tener el reconocimiento oficial del Estado en los niveles parvularios que impartan, deberán obtener dicho reconocimiento o la autorización de funcionamiento, según corresponda, al vencimiento del plazo contemplado en el artículo decimoquinto transitorio de la ley Nº 20.529. Durante dicho período estos establecimientos podrán seguir funcionando.
+
+Asimismo, si aquellos establecimientos que iniciaron su funcionamiento entre el 1 de enero de 2017 y el 31 de diciembre de 2024, sin contar con reconocimiento oficial o autorización de funcionamiento, solicitan ser identificados como establecimientos de educación parvularia, conforme a lo establecido en el inciso segundo del artículo 1° y a las instrucciones que a este efecto imparta la Superintendencia de Educación, podrán seguir funcionando hasta el 31 de diciembre de 2027.
+
+Vencido el plazo anterior solo podrán continuar funcionando si cuentan con reconocimiento oficial del Estado o autorización de funcionamiento. En caso contrario, la Superintendencia de Educación dispondrá su clausura inmediata, en los términos establecidos en el artículo 16.
 
 #### Artículo cuarto
 

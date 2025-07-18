@@ -196,6 +196,28 @@ c) Registro de Docentes, que deberá incluir el nombre, títulos, menciones y el
 
 d) Registro Público de Entidades Pedagógicas y Técnicas de Apoyo, que estarán certificadas para prestar apoyo a los establecimientos educacionales y para la elaboración y ejecución del Plan de Mejoramiento Educativo. Un reglamento establecerá los requisitos y estándares de certificación que permitirán el ingreso y la permanencia en el registro, así como una adecuada identificación de las personas o entidades técnicas y las especialidades que ofrecen y los antecedentes relativos a la calidad de los servicios que hubieren prestado. Igualmente establecerá el procedimiento de certificación, la duración de la misma y las causales de pérdida de ella.
 
+e) Registro Público de Establecimientos de Educación Parvularia, el que contendrá, a lo menos, lo siguiente:
+
+1. Nómina de establecimientos educacionales de nivel parvulario que cuenten o se encuentren en proceso de obtención del reconocimiento oficial del Estado o con autorización de funcionamiento.
+
+2. Fecha de inicio de funcionamiento del establecimiento.
+
+3. Domicilio del sostenedor y de su representante legal, o de quienes hagan las veces de tales.
+
+4. Dirección del establecimiento.
+
+La Superintendencia de Educación proporcionará información al Ministerio de Educación para la conformación de este registro.
+
+f) Registro de los niños matriculados en establecimientos educacionales de nivel parvulario que reciban subvención y/o aportes del Estado.
+
+Este registro no será de acceso público, sin perjuicio de lo cual será consultado por los sostenedores para efectos de verificar el cumplimiento de lo dispuesto en el inciso segundo del artículo 12 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005. Para estos efectos, se deberá comprobar que los postulantes a sus establecimientos no se encuentran matriculados en otro establecimiento.
+
+A los sostenedores les corresponderá cautelar que la información de las niñas y los niños sea debidamente resguardada, e impedirán el acceso no autorizado.
+
+g) Registro de información general del nivel parvulario. Este registro no será de acceso público.
+
+La Subsecretaría de Educación Parvularia determinará, mediante una resolución exenta, la información que este registro contendrá y el procedimiento para solicitar la información que deberán entregar los sostenedores de cada establecimiento para la confección y mantención del sistema al que alude el presente literal.
+
 #### Artículo 19
 
 El Ministerio de Educación deberá administrar y mantener con información actualizada los registros señalados en el artículo precedente, estableciendo instrucciones sobre las categorizaciones y formas de entrega de la misma.

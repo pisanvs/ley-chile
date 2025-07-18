@@ -26,6 +26,54 @@ Son Jardines Infantiles aquellos establecimientos educacionales que atienden ni�
 
 Son Jardines Infantiles Comunitarios aquellos establecimientos que atienden a un grupo reducido de párvulos, de modo heterogéneo u homogéneo, producto de una iniciativa comunitaria. Estos jardines podrán estar a cargo de un técnico en educación parvularia y, en caso excepcional que calificará el Reglamento, podrán estar a cargo de un agente educativo que no cuente con título profesional, pero que cumpla con las exigencias de idoneidad y supervisión que contemple especialmente dicho Reglamento.
 
+#### Artículo 3 bis
+
+Para favorecer el acceso a una educación de calidad a niñas y niños, la Junta Nacional de Jardines Infantiles podrá desarrollar programas alternativos con componentes curriculares flexibles y diversificados para atender integralmente a niñas y niños, desde su nacimiento hasta su ingreso a la educación básica, y responder así de forma contextualizada a sus necesidades educativas y a las de sus familias.
+
+Estos establecimientos se ajustarán a las bases curriculares vigentes, las que implementarán con distintos énfasis o lineamientos pedagógicos según sus particularidades.
+
+Los programas alternativos tendrán como objetivo favorecer el acceso a una educación de calidad a niñas y niños en zonas de difícil acceso, alta dispersión geográfica, territorios que hayan enfrentado desastres, durante incrementos significativos e inesperados de la demanda, u otras condiciones excepcionales similares.
+
+#### Artículo 3 ter
+
+El Ministerio de Educación, a través de la Subsecretaría de Educación Parvularia, podrá entregar la certificación de reconocimiento oficial del Estado a la que aluden los artículos 46 y 46 bis del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005, a los programas alternativos que se desarrollen en establecimientos de educación parvularia, cuando así lo soliciten y cumplan con los siguientes requisitos copulativos:
+
+1. Tener a la Junta Nacional de Jardines Infantiles como sostenedora.
+
+2. Funcionar en zonas de difícil acceso o de alta dispersión geográfica, territorios que hayan enfrentado desastres, contextos de incremento significativo e inesperado de la demanda, u otras condiciones excepcionales similares.
+
+3. Disponer de mobiliario, equipamiento, elementos de enseñanza y material didáctico adecuados al o los niveles de educación parvularia que impartan.
+
+4. Contar con un proyecto educativo institucional pertinente y contextualizado territorialmente, el que, en todo caso, deberá resguardar los derechos y libertades garantizados por la Constitución y las leyes.
+
+El proyecto deberá fomentar la formación integral de los niños y niñas, y promoverá el juego, los aprendizajes, los conocimientos, las habilidades y las actitudes que les permitan alcanzar los objetivos generales de la educación parvularia establecidos en el artículo 28 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005.
+
+5. Ceñirse a las bases curriculares elaboradas por el Ministerio de Educación, que podrán ser implementadas con distintos énfasis o lineamientos pedagógicos según las particularidades de cada programa.
+
+6. Tener y aplicar un reglamento interno que regule las relaciones entre el establecimiento de educación parvularia y los distintos actores de la comunidad educativa. Dicho reglamento deberá incorporar políticas de promoción de los derechos del niño y la niña, así como orientaciones pedagógicas y protocolos de prevención y actuación ante conductas que constituyan falta a su seguridad, a la buena convivencia y al buen trato, tales como abusos sexuales o maltrato infantil. Igualmente, contemplará medidas orientadas a garantizar la higiene y seguridad del establecimiento de educación parvularia.
+
+7. Contar con un local educativo con condiciones de infraestructura que resguarden la seguridad y garanticen la integridad física y psíquica de los miembros de la comunidad educativa.
+
+8. Tener el personal idóneo y suficiente que les permita cumplir con las funciones que les correspondan, atendido el nivel y modalidad de educación parvularia que impartan y la cantidad de párvulos que atiendan.
+
+Respecto del personal docente, se entenderá idóneo el que cuente con el título profesional de educación o licenciatura del respectivo nivel de, al menos, ocho semestres de duración, de una universidad o instituto profesional del Estado o reconocido por éste, o autorizado por el Ministerio de Educación para ejercer la función docente.
+
+No podrán desempeñarse en estos establecimientos aquellas personas que se encuentren en alguna de las siguientes situaciones:
+
+a) Haber sido condenadas por crimen o simple delito de aquellos establecidos en el Título VII o en los Párrafos 1, 1 bis, 1 ter, 2, 3 y 3 bis del Título VIII del Libro Segundo del Código Penal; en la ley N° 20.000, que sustituye la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas; o en la ley N° 20.066, que establece ley de violencia intrafamiliar; o a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal.
+
+b) Haber sido condenadas a inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, a que se refiere el artículo 39 bis del Código Penal.
+
+Si una persona que se desempeña en los programas alternativos es sometida a alguna medida cautelar en una investigación por alguno de los delitos señalados en los literales anteriores, podrá ser suspendida de sus funciones, por el tiempo que se prolongue la medida cautelar.
+
+Los requisitos contemplados en el presente artículo serán reglamentados mediante decreto supremo del Ministerio de Educación.
+
+Lo dispuesto en el presente artículo no será aplicable en aquellos casos en que una unidad educativa desarrolle programas alternativos y convencionales de manera híbrida, los que deben contar con el reconocimiento oficial del Estado al que refieren los artículos 46 y 46 bis del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005.
+
+#### Artículo 3 quater
+
+Los establecimientos que funcionen en calidad de programas alternativos de educación parvularia estarán sujetos a la fiscalización de la Superintendencia de Educación conforme a lo establecido en los Párrafos 1º, 2º, 4º, y 5º del Título III de la ley Nº 20.529, con el objeto de que se ajusten a la normativa educacional que les resulte aplicable y, en especial, al cumplimiento de los requisitos que dieron origen a su respectiva certificación.
+
 ## Título II
 
 De la Organización, Administración y Atribuciones de la Junta Nacional
@@ -183,6 +231,10 @@ Deberán haber cumplido con la Ley de Instrucción Primaria Obligatoria.
 Los auxiliares de educadores de párvulos estarán sometidos al régimen de previsión de empleados particulares y deberán estar en posesión de la Licencia de Enseñanza Básica o acreditar estudios equivalentes. El Ministerio de Educación Pública deberá crear cursos de especialización para este personal.
 
 En el reglamento respectivo se establecerá un escalafón especial para los profesionales que sirvan como funcionarios de la Junta.
+
+Los técnicos de educación parvularia de la Junta, que se encuentren cursando la carrera conducente al título universitario de Educador de Párvulos, podrán realizar las prácticas profesionales exigidas para la obtención del grado académico de Licenciado en Educación o el título indicado, en los jardines infantiles en los cuales desarrollen sus funciones laborales. Esta disposición también se aplicará a dichos trabajadores que ejerzan funciones en iguales condiciones en establecimientos financiados vía transferencia de fondos.
+
+Un reglamento del Ministerio de Educación, visado por la Dirección de Presupuestos, regulará los requisitos y condiciones que permitan complementar y asegurar que la aplicación del inciso anterior no impida el cumplimiento de la obligación de los establecimientos educacionales de nivel parvulario de contar con personal idóneo, suficiente y en la proporción establecida por la normativa vigente.
 
 #### Artículo 24°
 

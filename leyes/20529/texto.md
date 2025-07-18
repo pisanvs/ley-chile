@@ -1794,7 +1794,21 @@ cuarto.- Facúltase al Presidente de la República para que, mediante uno o más
 
 #### Artículo decimo
 
-quinto.- Los establecimientos que imparten educación parvularia, que reciben aportes del Estado y que no cuentan con el reconocimiento oficial de éste, tendrán plazo hasta el 31 de diciembre del año 2022 para obtener tal reconocimiento. Transcurrido ese plazo, los establecimientos educacionales de educación parvularia que no cuenten con dicho reconocimiento no podrán recibir recursos del Estado para la prestación del servicio educativo.".
+quinto.- Los establecimientos que imparten educación parvularia, que reciben aportes del Estado y que no cuentan con su reconocimiento oficial, tendrán plazo hasta el 31 de diciembre del año 2034 para obtenerlo. Transcurrido ese plazo los establecimientos educacionales de educación parvularia que no cuenten con dicho reconocimiento no podrán recibir recursos del Estado para la prestación del servicio educativo.
+
+Para el cumplimiento de lo establecido en el inciso anterior, la Subsecretaría de Educación Parvularia desarrollará, en el plazo de un año, un plan de cumplimiento para que los establecimientos de educación parvularia que reciben aportes regulares del Estado accedan al reconocimiento oficial. Este plan establecerá etapas y plazos para el cumplimiento de los diferentes requisitos exigidos, y priorizará la seguridad de los niños y la calidad del servicio entregado. También considerará estrategias de apoyo a los establecimientos de educación parvularia.
+
+La elaboración del plan al que se refiere el inciso anterior comprenderá una etapa de diagnóstico y otra de elaboración.
+
+La etapa de diagnóstico tendrá como objetivo el levantamiento de la información de la situación actual de los establecimientos de educación parvularia que reciben aportes del Estado, en particular si cumplen los requerimientos para acceder al reconocimiento oficial del Estado.
+
+La etapa de elaboración del plan podrá considerar instancias de participación o consulta pública a representantes de los sostenedores y de las comunidades educativas de la oferta pública en educación parvularia.
+
+El cumplimiento de los objetivos establecidos en el plan será objeto de revisión y evaluación cada tres años.
+
+#### Artículo decimo
+
+sexto.- Las municipalidades y las corporaciones municipales que tengan la calidad de sostenedoras de jardines infantiles financiados vía transferencia de fondos deberán presentar, previo al traspaso al que refiere el artículo decimoctavo transitorio de la ley N° 21.040, que crea el Sistema de Educación Pública, un informe que contenga el estado de situación de los establecimientos que estén bajo su administración y que tengan convenio vigente con la Junta Nacional de Jardines Infantiles a su fecha de elaboración. Este informe deberá contener, para cada establecimiento, información detallada respecto de cada uno de los requisitos normativos para la obtención del reconocimiento oficial del Estado. La información y contenido específico de este informe será establecido por la Subsecretaría de Educación Parvularia por resolución. El informe deberá ser entregado en un plazo no superior a ciento ochenta días ni inferior a sesenta días previo al traspaso del servicio educacional.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
