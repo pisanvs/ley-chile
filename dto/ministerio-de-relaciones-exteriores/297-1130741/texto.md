@@ -40,6 +40,8 @@ Dicho Comité estará integrado de forma permanente por:
 
 - Un representante del Ministerio de Agricultura;
 
+- Un representante del Ministerio de Transportes y Telecomunicaciones
+
 - Un representante del Servicio Nacional de Aduanas y
 
 - Un representante del Servicio Agrícola y Ganadero.
