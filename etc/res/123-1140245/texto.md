@@ -64,7 +64,7 @@ c) El porcentaje de cumplimiento de cada una de las cuatro variables que integra
 
 d) El monto que tiene derecho a percibir, considerando el componente fijo y variable, por cada empleador, al que preste servicios.
 
-Este acto administrativo será impugnable por los interesados mediante el recurso de reposición, dentro de los 5 días siguientes a su notificación, de conformidad a las reglas generales consignadas en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+Este acto administrativo será impugnable por los interesados mediante el recurso de reposición dentro de los 5 días siguientes de su publicación en el Diario Oficial. Asimismo, la resolución indicada se publicará en el sitio web www.comunidadescolar.cl o aquel que se determine para estos efectos. Sin perjuicio de lo anterior, y dentro del mismo plazo, los sostenedores podrán corregir, enmendar o actualizar la información reportada en el Sistema de Información General de Estudiantes (SIGE) o aquel que el Ministerio de Educación disponga al efecto, para la determinación de beneficiarios y el cálculo del bono de desempeño laboral.
 
 #### Artículo 5º
 
