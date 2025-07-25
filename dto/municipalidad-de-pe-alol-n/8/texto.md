@@ -104,6 +104,8 @@ Los permisos de ocupación de veredas y calzadas están afectos al pago de los d
 
 Asimismo, cuando comprometan bienes del mobiliario urbano municipal, tales como árboles, semáforos, áreas verdes, bancos, veredas, calzadas, u otros, se deberá garantizar su conservación mediante un vale vista o boleta bancaria cuyo monto y plazo será fijado cada vez por el municipio, a través de la Dirección competente en la materia, según los valores comprometidos.
 
+Excepcionalmente, cuando se trate de obras a ser desarrolladas por órganos de la Administración del Estado en la comuna -sea que lo hagan directamente, sea que lo hagan a través de terceros-, por medio de una resolución fundada especialmente dictada al efecto y siempre previa solicitud escrita del jefe del servicio interesado, el alcalde podrá disponer una dispensa del cumplimiento de la aludida obligación. Para evaluar esta solicitud -cuya pendencia no habilitará al interesado a iniciar las obras, salvo que pague los derechos y constituya las garantías-, el alcalde ponderará el tipo de obra de que se trate, el tipo de bien en que se desarrollará, el alcance territorial de sus beneficios y el número de unidades vecinales y/o macrosectores a los que servirá. En caso de ser favorable dicha evaluación, el beneficio deberá ser incorporado en el acto administrativo a que alude el inciso final del artículo 5 de esta ordenanza, en el que, adicionalmente, deberán incorporarse todas las cláusulas que la unidad de obras, previa consulta con la unidad de asesoría jurídica, estimen necesarias para proteger adecuadamente los intereses municipales. Lo anterior será informado periódicamente al Concejo Municipal.
+
 ## Título IV
 
 De la instalación de faenas
