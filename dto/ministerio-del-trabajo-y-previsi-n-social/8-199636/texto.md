@@ -58,7 +58,7 @@ Los representantes de los afiliados, titulares y suplentes, durarán dos años e
 
 El Consejo sesionará ordinariamente cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y se citará por escrito por el Jefe del Bienestar.
 
-Las sesiones extraordinarias se efectuarán cuando proceda en conformidad al artículo 23 del Reglamento General y se les citará por escrito, vía fax o teléfono cuando sea necesario, por el Jefe del Bienestar con una anticipación de 24 horas.
+Las sesiones extraordinarias se efectuarán cuando proceda en conformidad al artículo 23 del Reglamento General y se les citará por escrito, vía correo electrónico o teléfono cuando sea necesario, por el Jefe del Bienestar con una anticipación de 24 horas.
 
 ## Título III
 
@@ -74,7 +74,7 @@ b) Con las sumas que anualmente se consulten en el presupuesto de la Institució
 
 c) Con el aporte mensual de los afiliados en servicio activo, de hasta el 2% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo;
 
-d) Con el aporte mensual de los afiliados jubilados, de hasta el 1% de sus pensiones, porcentaje que fijará anualmente el Consejo, más la cantidad correspondiente al aporte institucional que deberá ser pagada por éste;
+d) Con el aporte mensual de los afiliados jubilados, de hasta el 1% de sus pensiones, porcentaje que fijará anualmente el Consejo, más la cantidad correspondiente al aporte institucional indicado por la autoridad y cuyo porcentaje de pago fijará anualmente en Consejo de Bienestar, de acuerdo a la disponibilidad presupuestaria que deberá ser pagada por éste;
 
 e) Con los intereses de los préstamos que otorgue el Bienestar a sus afiliados;
 
@@ -108,7 +108,7 @@ El Bienestar, podrá financiar con cargo a sus propios recursos, de acuerdo con 
 
 Asimismo el Bienestar, siempre que las disponibilidades presupuestarias lo permitan, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-a) Matrimonio: cuando el afiliado contraiga matrimonio. Si ambos contrayentes fueren afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
+a) Matrimonio o Acuerdo de Unión Civil: cuando el afiliado contraiga matrimonio o celebren acuerdo de unión civil. Si ambos contrayentes fueren afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
 
 b) Nacimiento: cuando el afiliado compruebe, con el instrumento público correspondiente, el nacimiento de un hijo. Si ambos padres fuesen afiliados, el beneficio lo percibirán ambos. En caso de nacimientos múltiples, se duplicará la ayuda.
 
@@ -130,9 +130,11 @@ También se otorgará, una vez ocurrido el fallecimiento del afiliado o de sus c
 
 d) Educación: el Bienestar concederá una asignación de escolaridad, una vez al año, al afiliado y cargas familiares reconocidas que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
 
-e) Becas de Estudio: el Bienestar podrá otorgar, en casos de extrema necesidad económica, calificada como tal por el Consejo, becas de estudio destinadas a complementar los gastos derivados de la educación superior de un afiliado o de sus hijos cargas familiares reconocidas.
+e) Becas de Estudio: el Bienestar podrá otorgar, en casos de extrema necesidad económica, calificada como tal por el Consejo, becas de estudio destinadas a complementar los gastos derivados de la educación superior, educación media de un afiliado o de sus hijos cargas familiares reconocidas.
 
 f) Catástrofe: se concederá una ayuda a cada afiliado que sufra daños a consecuencia de incendios, terremotos, inundaciones u otras catástrofes que afecten los enseres y/o vivienda del afectado. Se considerará como requisito la comprobación de los hechos por parte del Asistente Social del Personal.
+
+g) Se otorgará un monto en dinero a definir anualmente por el Consejo, por cada hijo carga y afiliado que obtenga un puntaje sobresaliente a definir por el Consejo Administrativo en la Prueba de Acceso a la Educación Superior o similar.
 
 El monto de las ayudas a que se refiere este artículo, será fijado por el Consejo, no pudiendo exceder de dos ingresos mínimos mensuales por ayuda, por cada año calendario.
 
@@ -166,11 +168,21 @@ La solicitud de cualquier tipo de préstamo será suscrita además del afiliado,
 
 #### Artículo 14º
 
-Las sumas que el afiliado deba cancelar mensualmente al Bienestar no podrán, en ningún caso, exceder del 40% de su renta mensual imponible para pensiones o de su pensión, según corresponda.
+Las sumas que el afiliado deba cancelar mensualmente al Bienestar no podrán, en ningún caso, exceder del 15% de su renta mensual imponible para pensiones o de su pensión, según corresponda.
 
-#### Artículo 15º
+#### Artículo 15°
 
-El Bienestar podrá celebrar las festividades de Navidad y Fiestas Patrias para sus afiliados y sus cargas familiares reconocidas, de acuerdo con sus recursos financieros.
+El Servicio de Bienestar propenderá al progreso y bienestar económico, social, cultural, educacional, recreativo, artístico, deportivo, físico y espiritual, de sus afiliados y cargas legales utilizando al máximo los recursos y facilidades que otras entidades y/o la comunidad puedan proporcionarle.
+
+Para el cumplimiento de este objetivo, si las posibilidades presupuestarias lo permiten y previo acuerdo del Consejo Administrativo, el Servicio de Bienestar podrá:
+
+a) Patrocinar, asesorar, financiar y cofinanciar actividades de incentivo al retiro, proyectos concursables, actividades deportivas y/o recreativas, entre otros, y, en general, otras actividades que propendan a los fines señalados en el artículo anterior.
+
+b) Organizar, financiar o cofinanciar las celebraciones de fechas especiales, tales como Fiestas Patrias, Navidad, Día del Trabajador, Día del Niño.
+
+c) Otorgar a sus afiliados regalos en ocasiones especiales como: cumpleaños, Fiestas Patrias y/o Navidad.
+
+d) Financiar o cofinanciar la adquisición de giftcard o equivalente, de supermercados, multitiendas, librerías, entradas a recintos recreativos, educativos, culturales y/o sociales, entre otros.
 
 ## Título V
 
