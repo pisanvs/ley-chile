@@ -74,7 +74,7 @@ Resuelvo:
 
 8. El propietario, arrendatario o tenedor de un predio, aserradero, industria u otro recinto que esté localizado dentro del área bajo cuarentena, desde el cual se realice movimiento de plantas, ramas, brotes, o madera con corteza en trozas (aserrables, debobinables, pulpables u otras) o madera simplemente aserrada con corteza (basas, cuartones, tablas, tablones, listones y lampazos), o leña con corteza de los géneros botánicos hospedantes de Pissodes castaneus, con destino al área en peligro, deberá contar con la autorización previa del Servicio, basada en el cumplimiento de la aplicación de una de estas alternativas:
 
-a) Para el caso de plantas para plantar, plantas madres, brotes o setos además de cumplir lo establecido en los puntos 6.1.3 y 6.1.4, debe verificarse, mediante muestreo realizado por parte de inspectores del SAG o a través del sistema de autorización de terceros, la ausencia de la plaga en los lotes de plantas que se despachan al área en peligro.
+a) Para el caso de plantas para plantar, plantas madres, brotes o setos además de cumplir lo establecido en los puntos 6.1.3 y 6.1.4, debe verificarse, mediante muestreo realizado por parte de inspectores del SAG o a través del sistema de autorización de terceros, la ausencia de la plaga en el predio o recinto de origen.
 
 b) Alguno de los tratamientos fitosanitarios señalados en el numeral 6.1.5 ó 6.1.6, los que deberán ser aplicados bajo la supervisión de inspectores del SAG o ser verificados por éstos.
 
@@ -92,7 +92,7 @@ f.2) En el lugar de destino, las maderas con corteza se mantengan separadas del 
 
 f.3) Se debe presentar al SAG un plan de vigilancia fitosanitaria que incluya al menos la instalación de 4 trampas de embudo y 10 parcelas de trozas cebo instaladas dentro de un radio de 2 km del lugar de destino de las maderas.
 
-f.4) En destino, las maderas deberán ser sometidas a tratamiento de descortezado antes del inicio del periodo de vuelo de la plaga. Se debe presentar un plan de tratamiento de esta corteza que asegure la eliminación de cualquier estado viable de la plaga.
+f.4) En destino, las maderas deberán ser sometidas a tratamiento de descortezado antes del inicio del periodo de vuelo de la plaga.
 
 g) Que las trozas sean sometidas a un procesamiento mecánico que extraiga la corteza (con procesador de corta y desrame u otro sistema similar) con menos de un 50% de corteza remanente y que, además, se cumpla con las siguientes condiciones:
 
@@ -100,7 +100,7 @@ g.1) Que los predios de origen de las maderas presenten una baja prevalencia de 
 
 g.2) Se cumplan las medidas fitosanitarias señaladas en las letras f.1, f.2 y f.3.
 
-g.3) En destino las maderas deberán ser sometidas a tratamiento de descortezado en un plazo máximo de 30 días desde la recepción. Se debe presentar un plan de tratamiento de esta corteza que asegure la eliminación de cualquier estado viable de la plaga.
+g.3) En destino las maderas deberán ser sometidas a tratamiento de descortezado en un plazo máximo de 30 días desde la recepción.
 
 9. Los medios de transporte que se utilicen en el traslado de plantas para plantar, plantas madres, setos, trozas y maderas (incluida la leña) de especies hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán cumplir con las medidas de resguardo establecidas por el SAG, lo cual deberá ser verificado por los dueños, arrendatarios o tenedores de los predios. Los propietarios, arrendatarios, tenedores o administradores de aserraderos, centros de acopio de maderas, industrias u otro tipo de recintos localizados en el área en peligro, que procesen o acopien maderas con corteza hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán verificar que éstas estén debidamente autorizadas por el SAG y dar cumplimiento a las medidas fitosanitarias establecidas para estas maderas.
 
@@ -114,7 +114,7 @@ g.3) En destino las maderas deberán ser sometidas a tratamiento de descortezado
 
 a. Se implementará una estrategia para la vigilancia y control de la plaga Pissodes castaneus considerando sólo las áreas que tienen un acceso seguro para el personal SAG.
 
-b. Los propietarios, arrendatarios o tenedores de estos predios que deseen movilizar artículos reglamentados correspondientes a maderas con corteza, para obtener la autorización del SAG, deberán cumplir con lo señalado en el numeral número 8, y podrán acogerse y cumplir las medidas que señala la letra f) durante todo el año. En el caso de la letra f. 4 el plazo máximo para el tratamiento de corteza es de 30 días desde la recepción de la madera.
+b. Los propietarios, arrendatarios o tenedores de estos predios que deseen movilizar artículos reglamentados correspondientes a maderas con corteza, para obtener la autorización del SAG, deberán cumplir con lo señalado en el numeral número 8, y podrán acogerse y cumplir las medidas que señala la letra f) durante todo el año. En el caso de la letra f. 4 el plazo máximo para el tratamiento de descortezado durante el periodo de vuelo de la plaga es de 30 días desde la recepción de la madera.
 
 13. Las transgresiones o incumplimientos de las medidas que se disponen, serán sancionadas de acuerdo a lo dispuesto en el decreto ley Nº 3.557 de 1980 sobre Protección Agrícola y por la Ley Nº 18.755 Orgánica del Servicio Agrícola y Ganadero.
 
