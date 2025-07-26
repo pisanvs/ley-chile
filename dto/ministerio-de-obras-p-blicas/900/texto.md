@@ -346,13 +346,15 @@ Las controversias que se susciten entre el concesionario y los contratistas o en
 
 El régimen jurídico durante la fase de explotación, será el siguiente:
 
-1.- El concesionario deberá conservar las obras, sus accesos, señalización y servicios en condiciones normales de utilización, y
+1.- El concesionario deberá conservar las obras, sus accesos, señalización y servicios en condiciones normales de utilización.
 
 2.- La continuidad de la prestación del servicio le obligará, especialmente, a:
 
 a) Facilitarlo en condiciones de absoluta normalidad, suprimiendo las causas que originen molestias, incomodidades, inconvenientes o peligrosidad a los usuarios de las obras, salvo que la adopción de medidas que alteren la normalidad del servicio obedezcan a razones de seguridad o de urgente reparación, y
 
 b) Prestarlo ininterrumpidamente, salvo situaciones excepcionales, debidas a caso fortuito o fuerza mayor, cuyos efectos serán calificados por los contratantes, conviniendo las medidas que sean necesarias para lograr la más rápida y eficiente reanudación del servicio. El valor de las obras será acordado entre los contratantes y, a falta de acuerdo, las partes podrán recurrir a un peritaje, que determinará, ajustándose a lo que indiquen las bases de licitación, la calificación, medidas o evaluación, según el caso. Las partes concurrirán al pago del precio según los términos del contrato de concesión.
+
+3.- El concesionario de obras viales deberá adoptar medidas de protección y seguridad al interior de las obras, las que se harán extensivas a los usuarios de las mismas y a sus bienes, debiendo establecerse en las respectivas bases de licitación las obligaciones de vigilancia, seguridad y asistencia, como por ejemplo la instalación de cámaras de seguridad, cámaras térmicas, de sistema lumínico y lectores de patentes, entre otras. A su vez, las bases de licitación determinarán las sanciones procedentes y las demás condiciones exigibles para proteger los derechos de los usuarios en caso de incumplimiento, sin perjuicio de su deber de responder según lo establecido en el artículo 35º de esta ley.
 
 #### Artículo 24°
 
@@ -677,6 +679,14 @@ Para la creación, implementación, mantención y administración del sitio elec
 Toda nueva concesionaria de obras viales que disponga de sistema electrónico de cobro deberá adherirse a su entero costo al sitio electrónico unificado.
 
 Sin perjuicio del sitio unificado que se establece en este artículo, las concesionarias de obras viales deberán mantener o implementar aquellos sitios electrónicos que les sean requeridos en las bases de licitación de la concesión de obra pública que les fue adjudicada. Además, podrán mantener o encargar a terceros en forma individual la creación, implementación, mantención y administración de sitios electrónicos adicionales que entreguen información a los usuarios de la respectiva concesión y que permitan el pago de sus cuentas de tarifas o peajes.
+
+#### Artículo 44
+
+En el cumplimiento de sus obligaciones de vigilancia, seguridad y asistencia, el concesionario de obras viales que opere con sistemas electrónicos o manuales de cobro de tarifas o peajes deberá permitir el acceso al Ministerio Público a la información e imágenes obtenidas, cuando aquél lo requiera en el contexto de la investigación de un delito. A su vez, deberá permitir el acceso a las policías, de forma automatizada, en tiempo real e interoperando con éstas, a la información relativa, al menos, a la placa patente o ausencia de la misma, marca, modelo y color de los vehículos motorizados que circulen por las obras, de acuerdo a sus respectivas facultades legales en materia investigativa o en el rol de policía preventiva de Carabineros de Chile, con el fin de detectar aquellos vehículos alterados y/o cuyo robo ha sido denunciado o detectado en flagrancia, o respecto de los cuales existan antecedentes de su utilización en delitos, o que circulen con placas patentes alteradas o sin las mismas, así como para informar y alertar de eventuales delitos o infracciones que se produzcan al interior de las obras.
+
+Con todo, el concesionario podrá convenir con las policías la transmisión de informaciones de seguridad que sean necesarias para prevenir los riesgos para la seguridad pública. Los convenios que se celebren deberán garantizar la interoperabilidad de los sistemas de información.
+
+Para el cumplimiento de lo dispuesto en los incisos precedentes, el tratamiento de datos de carácter personal y los sistemas utilizados para el resguardo del usuario y sus bienes se someterán a lo dispuesto en la normativa de protección de datos personales y a las respectivas bases de licitación.
 
 ARTICULOS TRANSITORIOS
 
