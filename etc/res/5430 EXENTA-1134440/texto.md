@@ -20,7 +20,7 @@ Considerando:
 
 6. Que, además del daño al patrimonio forestal, se estima necesario evitar daños a las personas y a los bienes públicos y privados, como consecuencia del colapso de las maderas de pino infestadas por Hylotrupes bajulus.
 
-7. Que, de acuerdo a la situación actual de la plaga en las comunas de Chimbarongo y de Teno, es necesario adoptar medidas fitosanitarias para el control de la plaga, tendientes a contener el avance de la plaga hacia otras áreas del país y erradicarla en los predios y propiedades donde se encuentre presente.
+7. Que, de acuerdo a la situación actual de la plaga en las comunas de Chimbarongo y de Teno, es necesario adoptar medidas fitosanitarias para el control de la plaga, tendientes a contener el avance de la plaga hacia otras áreas del país y suprimirla en los predios y propiedades donde se encuentre presente.
 
 Resuelvo:
 
@@ -32,17 +32,25 @@ Resuelvo:
 
 4. Facúltese a los Directores Regionales del SAG ampliar el área de cuarentena actual o establecer nuevas áreas, ante la detección de nuevos focos de la plaga, y para notificar a los propietarios, arrendatarios o tenedores de predios y propiedades afectados, las medidas fitosanitarias que regula la presente resolución, su forma de implementación, los plazos de cumplimiento y el medio de notificación, según corresponda. El costo de las medidas fitosanitarias será de cargo de los afectados antes mencionados.
 
+4 bis. Las áreas declaradas bajo cuarentena se mantendrán por un periodo de tres años contados desde la última detección de la plaga Hylotrupes bajulus en el área. Lo anterior será resuelto toda vez que inspectores del SAG hayan comprobado la condición sanitaria de la plaga mediante prospecciones en dicha área.
+
 5. Los propietarios, arrendatarios o tenedores de los predios y propiedades involucrados, deberán permitir el ingreso a los inspectores del SAG para realizar, supervisar, fiscalizar las actividades de vigilancia fitosanitaria, control cuarentenario, control biológico u otro que el SAG establezca orientado a la detección o control de la plaga.
 
-6. Dispóngase, según corresponda, la ejecución de las siguientes medidas fitosanitarias, tendientes a la contención y eliminación de la plaga, sin perjuicio de otras medidas que el SAG determine en el área bajo cuarentena:
+6. Dispóngase, según corresponda, la ejecución de las siguientes medidas fitosanitarias, tendientes a la contención y supresión de la plaga, sin perjuicio de otras medidas que el SAG determine en el área bajo cuarentena:
 
 6.1. Predios y Propiedades positivas a Hylotrupes bajulus:
 
-a. Disponer que las maderas infestadas o sospechosas de estarlo, sean destruidas, dentro del área bajo cuarentena, mediante incineración.
+a. Disponer que las maderas infestadas o sospechosas de estarlo, sean destruidas, dentro del área bajo cuarentena, mediante alguno de los siguientes tratamientos:
+
+a.1. Destrucción por incineración.
+
+a.2. Destrucción mediante procesamiento en máquinas astilladoras, trituradoras o chipeadoras, hasta que el material resultante tenga menos de 5 cm de largo y ancho y menos de 0,6 cm de espesor.
+
+a.3. Destrucción por enterramiento profundo en sitos autorizados por el SAG o la autoridad competente. El material debe ser cubierto inmediatamente con a lo menos 1 metro de tierra y permanecer así.
 
 b. Aplicación, en forma alternativa de los siguientes tratamientos fitosanitarios: Fumigación con Bromuro de Metilo, Fumigación con Fosfina o Fosfuro de Hidrógeno, u otro equivalente, a las maderas en uso que no puedan ser destruidas.
 
-c. Prohibición de movilizar madera, leña y restos de madera fuera del predio o propiedad, sin la autorización expresa del Servicio.
+c. Prohibición de movilizar madera, leña y restos de madera fuera del predio o propiedad, sin la autorización expresa del SAG mediante resolución exenta del/a respectivo/a Director/a Regional, donde señale las medidas de bioseguridad durante el traslado y las medidas fitosanitarias a aplicar en destino.
 
 6.2. Otros Predios y Propiedades localizados dentro del área bajo cuarentena:
 
@@ -54,9 +62,11 @@ b. Cualquier cambio de propiedad o mera tenencia del predio o propiedad, deberá
 
 Las maderas de pino no tratadas, que ingresen y posteriormente salgan de un área bajo cuarentena dentro de la temporada en que los adultos de la plaga no están volando, es decir entre los meses de mayo a septiembre, no requerirán autorización especial del SAG. Por el contrario, si el ingreso y posterior salida de la madera se produce durante el período de vuelo de la plaga, sólo podrá ser autorizada su movilización fuera del área cuarentenada si se han mantenido en un área de resguardo previamente aprobada por el SAG, se ha aplicado durante su permanencia un tratamiento con insecticida para el control preventivo de la plaga o han sido sometidas, previo a su salida del Área Reglamentada, a un tratamiento de fumigación.
 
-6.4. Con el propósito de evitar que individuos remanentes de la plaga, presentes en las áreas bajo cuarentena, dispongan de sustratos adecuados para su multiplicación, el SAG autorizará el ingreso a las mismas de madera de pino destinada a la construcción de viviendas, estructuras de uso agrícola, como gallineros, comederos, bodegas, galpones, cercos, u otras sólo si éstas han sido tratadas previamente con preservantes mediante un proceso de impregnación, en concordancia con lo establecido en las Normas Chilenas de construcción con maderas: NCh 789/1. Of 87: Madera - Parte 1: Clasificación de las maderas comerciales por su durabilidad natural y NCh 819:2009: Madera preservada - Pino radiata - Clasificación según uso y riesgo en servicio y muestreo.
+6.4. Para los tratamientos fitosanitarios señalados, los inspectores SAG podrán disponer medidas de mitigación tales como la aplicación preventiva de insecticidas al material infestado, aplicación de barniz con insecticida, o cubrir el material infestado con plástico grueso que evite el escape de la plaga. La aplicación de insecticidas podrá ser mediante pulverizaciones, fumigaciones o aspersiones, aéreas o terrestres.
 
-Así también, los inspectores del Servicio Agrícola y Ganadero dispondrán un tratamiento fitosanitario para el control de la plaga, incluido su destrucción, a aquellas maderas de pino destinadas a la construcción de viviendas, estructuras de uso agrícola u otras, que no hayan sido tratadas con preservantes y que ingresen al área de cuarentena con posterioridad a la vigencia de la presente resolución.
+6.5. Para la aplicación preventiva de insecticida en zonas urbanas se debe emplear un producto fitosanitario que controle la plaga, en base a ingrediente activo Cipermetrina, u otro similar, con autorización del Instituto de Salud Pública o de la Seremi Salud respectiva, para su uso en zonas urbanas.
+
+6 bis. El SAG autorizará mediante resolución exenta, el uso especial de plaguicidas que serán utilizados contra la plaga en predios agrícolas o forestales.
 
 7. Los incumplimientos de las normas y procedimientos establecidos en esta resolución serán sancionados de acuerdo al DL N° 3.557 de 1980, sobre Protección Agrícola y la Ley N° 18.755, Orgánica del Servicio Agrícola y Ganadero de 1989.
 
