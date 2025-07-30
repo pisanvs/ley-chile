@@ -34,15 +34,15 @@ Las normas establecidas en el presente reglamento serán aplicables para la desi
 
 4.- Premio Nacional de Artes de la Representación y Audiovisuales.
 
-Los referidos premios se otorgarán, según la siguiente alternancia: en los años pares, los Premios de Literatura y Artes Musicales; y en los años impares, los Premios de Artes Plásticas y de Artes de la Representación y Audiovisuales.
+Los referidos premios se otorgarán, según la siguiente alternancia: en los años pares, los Premios de Literatura - Narrativa y Artes Musicales; y en los años impares, los Premios de Literatura - Poesía, Artes Plásticas y de Artes de la Representación y Audiovisuales.
 
 PÁRRAFO SEGUNDO
 
 DEL PREMIO NACIONAL DE LITERATURA
 
-#### Artículo 2°
+#### Artículo 2º
 
-El Premio Nacional de Literatura se concederá cada dos años, según lo señalado en el inciso final del artículo primero y en forma indivisible al escritor cuya obra, en cualquier género literario, lo haga acreedor de dicha distinción.
+El Premio Nacional de Literatura se concederá anualmente, según lo señalado en el inciso final del artículo 1º y en forma indivisible, al escritor cuya obra, lo haga acreedor de dicha distinción.
 
 #### Artículo 3°
 
