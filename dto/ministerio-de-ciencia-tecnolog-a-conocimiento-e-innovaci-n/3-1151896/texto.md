@@ -54,7 +54,9 @@ f) La División Jurídica.
 
 g) La División de Administración y Finanzas.
 
-h) La Oficina de Comunicaciones. dependiente directamente del Ministro o Ministra, el Departamento de Auditoría Interna, dependiente del Subsecretario o Subsecretaria, y la Oficina de Estudios y Estadística, dependiente de la División de Políticas Públicas.
+h) La División de Tecnologías Emergentes.
+
+i) La Oficina de Comunicaciones dependiente directamente del Ministro o Ministra, el Departamento de Auditoría Interna, dependiente del Subsecretario o Subsecretaria, y la Oficina de Estudios y Estadística, dependiente de la División de Políticas Públicas.
 
 ## Título III
 
@@ -227,6 +229,20 @@ h) Proponer medidas que propendan a la racionalización de funciones y a la opti
 i) Coordinar, a nivel interno, la respuesta a los requerimientos de información que se efectúen al Ministerio, así como también el cumplimiento de las obligaciones que emanen de la ley N° 20.285, en relación a las normas de transparencia activa.
 
 j) Realizar todas las gestiones y actuaciones que le encomienden las autoridades del Ministerio, en el ámbito de competencia de la División.
+
+#### Artículo 11 bis
+
+La División de Tecnologías Emergentes, dependiente de la Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación es la encargada de diseñar estrategias y generar iniciativas que impulsen y potencien capacidades tecnológicas emergentes para ampliar oportunidades de innovación, inversión, desarrollo y regulación, en coordinación con los actores relevantes del sector público, privado y académico. Dicha división tiene, entre otras, las siguientes funciones:
+
+a) Proponer metodologías e instrumentos para la identificación, seguimiento y análisis de tecnologías emergentes con potencial impacto en el desarrollo productivo y social del país.
+
+b) Promover capacidades tecnológicas, inversión y desarrollo en sectores estratégicos en diversos ámbitos del desarrollo de tecnologías emergentes.
+
+c) Promover, fomentar y fortalecer los vínculos entre los sectores público, privado y académico en ámbitos del desarrollo de tecnologías emergentes.
+
+d) Generar instancias de diálogo y coordinación con la comunidad científica, instituciones públicas y privadas en ámbitos del desarrollo de tecnologías emergentes.
+
+e) Desempeñar las demás funciones que le encomiende la ley y las autoridades del Ministerio.
 
 ## Título V
 
