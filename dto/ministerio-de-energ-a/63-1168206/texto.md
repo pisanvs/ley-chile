@@ -26,11 +26,13 @@ De dichas instalaciones sólo se ha solicitado concesión eléctrica definitiva 
 
 La línea contempla un doble circuito con cuatro conductores por fase, de tensión 220 kV, de categoría C, con una potencia máxima de transporte de 1.000 MVA, que comienza su trazado en el marco de línea al interior de la Subestación Pampas y termina en el marco de línea al interior de la Subestación Parinas.
 
-La línea tiene una longitud de 30.886,85 metros, comenzando su trazado en el marco de línea ML Pampas, al interior de la Subestación Pampas, en las coordenadas UTM WGS84 19S Este [m] 394.142,33 y Norte [m] 7.235.796,21, y termina su trazado en el marco de línea ML Parinas, al interior de la Subestación Parinas, en las coordenadas UTM WGS84 19S Este [m] 414.166,74 y Norte [m] 7.256.217,67. De la longitud antes indicada, se solicita concesión eléctrica definitiva por una longitud total de 30.650,78 metros, la cual se inicia en el punto PI, en el límite de la Subestación Pampas, en las coordenadas UTM WGS84 19S Este [m] 394.187,36 y Norte [m] 7.235.817,94 y finaliza en el punto PF, en el límite de la Subestación Parinas, en las coordenadas UTM WGS84 19S Este [m] 414.020,54 y Norte [m] 7.256.102,57. La longitud respecto de la que se solicita concesión eléctrica definitiva considera el cruce de un bien nacional de uso público, por lo que la longitud de la servidumbre eléctrica es de 30.640,74 metros.
+La línea tiene una longitud de 16.184,38 metros desde el marco de línea al interior de línea al interior de la Subestación Pampas hasta el marco de línea al interior de la Subestación Parinas. De la longitud antes indicada, se solicita concesión eléctrica definitiva por una longitud total de 16.117,97 metros. Esta longitud se inicia en el punto PI ubicado en el límite de la Subestación Pampas, y finaliza en el marco de línea ML Parinas, de la Subestación Parinas.
+
+La longitud de la servidumbre eléctrica es de 16.108,12 metros, afectando a 2 predios, la cual inicia en el punto PI ubicado en el límite de la Subestación Pampas, y finaliza en el marco de línea ML Parinas, de la Subestación Parinas, exceptuando los Bienes Nacionales de Uso Público. La línea cruza un Bien Nacional de Uso Público entre los vértices V6 y V7. Dicho bien se trata de la ruta B-800 de la Región de Antofagasta y la longitud del cruce es de 9,85 metros.
 
 #### Artículo 3
 
-El presupuesto del costo de las obras asciende a la suma de $11.698.429.362 (once mil seiscientos noventa y ocho millones cuatrocientos veintinueve mil trescientos sesenta y dos pesos).
+El presupuesto del costo de las obras asciende a la suma de $6.239.162.326, (seis mil doscientos treinta y nueve millones ciento sesenta y dos mil trescientos veintiséis pesos).
 
 #### Artículo 4
 
@@ -64,7 +66,9 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11
 
-El plazo de construcción de las obras se estima en veinticuatro (24) meses, iniciándose dentro de los ciento ochenta (180) días corridos, contados desde la fecha de reducción a escritura pública del presente decreto. Los plazos para la terminación por etapas serán los siguientes:
+El plazo de construcción de las obras se estima en 96 (noventa y seis) meses, iniciándose dentro de los 180 (ciento ochenta) días corridos, contados desde la fecha de reducción a escritura pública del presente decreto.
+
+El plazo de construcción del Proyecto se desglosa de la siguiente manera:
 
 #### Artículo 12
 
