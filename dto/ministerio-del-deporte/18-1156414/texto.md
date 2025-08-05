@@ -90,13 +90,25 @@ iii. Que el deportista se ubique dentro de los tres primeros lugares en una de l
 
 9. Requisitos y condiciones para que, tanto los deportistas profesionales como aquellos que reciban algún tipo de retribución económica por su actividad deportiva puedan acceder al Sistema de Becas.
 
-La Resolución Complementaria vigente al momento en que el deportista obtiene el logro, regirá la totalidad del periodo de permanencia del Deportista Becario en el Sistema, en todas aquellas materias correspondientes a su ámbito regulatorio. Se exceptúa de la regla anteriormente señalada, el caso de los logros obtenidos en Mega Eventos del Ciclo Olímpico y Paralímpico, cuando una nueva Resolución Complementaria, dictada con posterioridad a la fecha de ingreso del deportista, modifica el tratamiento de las categorizaciones y/o montos de las subvenciones asignadas a esos logros, en cuyo caso se aplicará al Deportista Becario el régimen más beneficioso.
+La Resolución Complementaria vigente al momento en que el deportista obtiene el logro, regirá la totalidad del periodo de permanencia del Deportista Becario en el Sistema. Se exceptúan de la regla anteriormente señalada las siguientes situaciones:
+
+a.- Si una Resolución Complementaria dictada con posterioridad a la fecha de ingreso del deportista, establece un régimen más favorable para este, en materias tales como, categorizaciones, montos de las subvenciones asignadas a los logros y otras técnico-deportivas, se deberá aplicar al becario la Resolución Complementaria que le resulte más favorable.
+
+b.- En el caso de suspensiones, procesos de exclusión del Sistema de Becas, y evaluaciones del seguimiento técnico deportivo, regirá siempre lo establecido en la Resolución Complementaria vigente al momento en que se produzcan las situaciones que las motivan, salvo que la nueva regulación sea más favorable.
 
 f. Rendimiento Deportivo: a efectos de este Reglamento, se entiende por rendimiento deportivo, aquella condición fundamental para la permanencia de los Deportistas Becarios en el Sistema, lo que se cumple por la obtención de los logros que se encuentran proyectados periódicamente en la planificación de cada atleta, y la ejecución de las tareas planificadas para el mejoramiento de sus capacidades deportivas, lo cual quedará sujeto a la evaluación anual del Sistema, de conformidad a la normativa establecida en el presente Reglamento y su Resolución Complementaria.
 
 g. Evento Fundamental: es la competición deportiva internacional más relevante para el Deportista Becario y deberá ser expresamente señalada en la planificación deportiva que sea informada a la Unidad. Ésta podrá rechazar el Evento Fundamental informado por el Deportista Becario si no es de aquellos incorporados en el listado de logros o eventos homologables señalados en la Resolución Complementaria.
 
-h. Asesoría Técnica del Alto Rendimiento: es la instancia técnico-metodológica, conformada por especialistas metodólogos y analistas de diversas modalidades deportivas, integrados a federaciones deportivas, Comité Olímpico de Chile, en adelante "COCH", Comité Paralímpico de Chile, en adelante "COPACHI", organizaciones deportivas, instituciones de educación superior, u otras instituciones relacionadas a la modalidad del alto rendimiento, que cuenten con los conocimientos técnicos y experiencia de al menos cinco años en el deporte federado en modalidades convencionales y paralímpicas, según corresponda, convocados por la Unidad con el objeto de analizar el rendimiento deportivo de los Deportistas Becarios conforme a los informes técnicos confeccionados por la Unidad.
+h. Panel Técnico del Alto Rendimiento: Es la instancia técnico-metodológica del Sistema de Becas para Deportistas de Alto Rendimiento, conformada por especialistas y metodólogos y analistas del Instituto Nacional de Deportes, la cual deberá ser convocada por la Unidad, con el propósito de analizar situaciones específicas de exclusión o de baja de categoría en el Sistema de Becas por evaluación de rendimiento deportivo.
+
+La Unidad deberá convocar al Panel Técnico del Alto Rendimiento, cada vez que deba pronunciarse respecto de solicitudes referidas a los casos señalados precedentemente. Previo a resolver, la Unidad, deberá citar a los especialistas y metodólogos de la federación respectiva, del Plan Olímpico, del Comité Olímpico de Chile, en adelante "COCH", del Plan Paralímpico y del Comité Paralímpico de Chile, en adelante "Copachi", según corresponda, los que, junto a dos representantes de la Unidad, deberán analizar los antecedentes y emitir un informe técnico.
+
+De las sesiones del Panel Técnico del Alto Rendimiento deberá levantarse un acta, en la que se consignarán los votos de mayoría y minoría que se formulen en el debate.
+
+En cualquier caso, corresponderá al Director Nacional del Instituto Nacional del Deporte, resolver las solicitudes mediante resolución fundada, teniendo a la vista los informes elaborados por el Panel Técnico del Alto Rendimiento.
+
+Los especialistas y metodólogos que participen de las sesiones en representación de la federación respectiva y del Comité Olímpico de Chile o del Comité Paralímpico de Chile, según corresponda, deberán ser designados para estos efectos, por los presidentes de dichas entidades. Los que participen en representación del Plan Olímpico o Plan Paralímpico, serán designados por sus respectivos Secretarios Ejecutivos.
 
 i. Deportista Federado: es aquel atleta, convencional o adaptado, que se encuentra registrado en competiciones oficiales, nacionales e internacionales, organizadas por la federación deportiva respectiva, habilitado para representar a Chile en competiciones internacionales, para lo cual la federación respectiva debe estar afiliada a la Federación Internacional correspondiente. Corresponderá a la respectiva Federación o COPACHI validar la condición de deportista federado en los términos establecidos en este inciso.
 
@@ -150,6 +162,10 @@ q. Mega Eventos Deportivos: son aquellas competiciones multideportivas internaci
 
 r. Guía Paralímpico: Deportista que asiste a un deportista paralímpico en aquellas pruebas en las que se requiere que se le acompañe en la competición, de manera que dicha labor incide directamente en la posibilidad del deportista paralímpico de realizar su actuación competitiva. Para efectos del otorgamiento de la Beca, se considerará guía paralímpico a la persona que el deportista indique en su postulación. No se considerarán en esta definición a aquellas personas que cumplen la función de asistentes de vida y que colaboran con los deportistas paralímpicos asistiéndoles para su participación en competencia.
 
+s. Operador de Canaleta de Bochas Clase BC3: Deportista que asiste a un deportista paralímpico en la clase específica de Bochas Clase BC3 (o la denominación futura que pueda asignarle a esa prueba el Reglamento Internacional de Boccia), actividad deportiva, que incide directamente en la posibilidad del deportista paralímpico de realizar su actuación competitiva.
+
+Para los efectos del otorgamiento de la Beca al Operador de Canaleta de Bochas Clase BC3, se estará a lo señalado en el literal precedente.
+
 ## Capítulo I
 
 Del ingreso de deportistas al Sistema
@@ -198,7 +214,9 @@ Si durante el procedimiento de postulación el deportista fuese objeto de una me
 
 #### Artículo 6
 
-Para todos los casos, el plazo de postulación a la Beca será de sesenta (60) días corridos, contado desde la fecha de obtención del logro deportivo, o de la decisión oficial deportiva que con posterioridad otorgue dicho logro conforme a las reglas correspondientes. Transcurrido este plazo, el deportista pierde el derecho a optar a la Beca invocando dicho logro, a menos que justifique que ha sufrido un impedimento para ello debido a la ocurrencia de fuerza mayor o caso fortuito. En todo caso, si la decisión oficial deportiva excede del término de un (1) año desde la fecha de la competencia respectiva, el logro perderá validez para efectos de ser postulado al Sistema.
+Para todos los casos, el plazo de postulación a la Beca será de sesenta (90) días corridos, contado desde la fecha de obtención del logro deportivo, o de la decisión oficial deportiva que con posterioridad otorgue dicho logro conforme a las reglas correspondientes. Transcurrido este plazo, el deportista pierde el derecho a optar a la Beca invocando dicho logro, a menos que justifique que ha sufrido un impedimento para ello debido a la ocurrencia de fuerza mayor o caso fortuito. En todo caso, si la decisión oficial deportiva excede del término de un (1) año desde la fecha de la competencia respectiva, el logro perderá validez para efectos de ser postulado al Sistema.
+
+Sin perjuicio de lo establecido precedentemente, la Unidad estará habilitada para ingresar de oficio al Sistema a los deportistas que obtengan logros en Juegos Olímpicos, Juegos Paralímpicos, Juegos Panamericanos y Juegos Parapanamericanos. Todo ingreso de oficio al Sistema quedará sujeto a la acreditación que posteriormente debe efectuar el deportista respecto del cumplimiento de los requisitos exigidos en el presente Capítulo I para las postulaciones.
 
 Tratándose de resoluciones pendientes en casos de dopaje, que afecten el resultado definitivo de una competición, para efectos del ingreso o recategorización de un deportista en el Sistema, se resolverá considerando lo siguiente:
 
@@ -240,7 +258,7 @@ Tratándose de deportistas menores de edad, deberá procederse a la suscripción
 
 #### Artículo 11
 
-El rechazo de una postulación deberá formalizarse mediante resolución del Instituto, la que deberá especificar los requisitos que no fueron debidamente cumplidos, y notificarse directamente al postulante y a la Federación Deportiva correspondiente.
+El rechazo de una postulación deberá formalizarse mediante resolución del Instituto, la que deberá especificar los requisitos que no fueron debidamente cumplidos, y notificarse directamente al postulante y a la Federación Deportiva correspondiente. El deportista podrá impugnar dicha resolución de conformidad a lo establecido en el Capítulo IV de la "Revisión de los actos Administrativos", de la Ley Nº 19.880, que "Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
 
 #### Artículo 12
 
@@ -300,7 +318,7 @@ a. Al iniciarse la temporada deportiva, y en el plazo de diez (10) días corrido
 
 La planificación deportiva exigida al Deportista Becario solo podrá ser presentada en el formato digital que para estos efectos dispondrá la Unidad en la plataforma. En todo caso, la planificación deberá indicar el evento fundamental y el evento de carácter nacional más relevante de su prueba, debiendo justificar adecuadamente en caso de que por razones de calendario no pueda asistir.
 
-b. Ejecutar la planificación deportiva presentada, participando en las competencias validadas. Tratándose de modalidades paralímpicas, se deberá considerar el número de cupos que, en definitiva, se dispongan en cada competición.
+b. Ejecutar la planificación deportiva presentada, participando en las competencias validadas, para lo cual, se deberá considerar el número de cupos que, en definitiva, se dispongan en cada competición.
 
 c. Aquellas incorporadas en los términos y condiciones aceptados al postular a la Beca.
 
@@ -324,17 +342,15 @@ En el caso que el Deportista Becario obtenga un logro de mayor categoría durant
 
 #### Artículo 18
 
-Las decisiones que se adopten respecto del rendimiento deportivo de un Deportista Becario deberán ser siempre técnicas y estar fundadas en los reportes elaborados por la Unidad y las recomendaciones de la Asesoría Técnica del Alto Rendimiento. Para estos efectos, se deberá requerir informes técnicos al Comité Olímpico de Chile, Comité Paralímpico de Chile, Federaciones, Head Coach, entrenadores y otras entidades que se estimen pertinentes.
+Las decisiones que se adopten respecto del rendimiento deportivo de un Deportista Becario deberán ser siempre técnicas y estar fundadas en los reportes elaborados por la Unidad y las recomendaciones de la Panel Técnico del Alto Rendimiento. Para estos efectos, se deberá requerir informes técnicos al Comité Olímpico de Chile, Comité Paralímpico de Chile, Federaciones, Head Coach, Plan Olímpico, Plan Paralímpico, entrenadores y otras entidades que se estimen pertinentes.
 
-Las reuniones con la Asesoría Técnica del Alto Rendimiento se realizarán a lo menos tres veces al año, correspondiendo la citación de estas a la Unidad.
+Las reuniones con la Panel Técnico del Alto Rendimiento se realizarán a lo menos cuatro veces al año, correspondiendo la citación de estas a la Unidad.
 
 Inmediatamente efectuada la evaluación de rendimiento deportivo, esta le deberá ser notificada por la Unidad al respectivo Deportista Becario vía correo electrónico.
 
 #### Artículo 19
 
 La duración de la Beca podrá ser de uno, dos o cuatro (1, 2 o 4) años, de acuerdo al logro obtenido según lo que indique la Resolución Complementaria. En todo caso, la obtención de medallas en Juegos Olímpicos, Paralímpicos, Panamericanos o Parapanamericanos, o bien, medalla de oro en los Juegos Suramericanos o Parasuramericanos, habilitará al Deportista Becario para mantenerse en la Beca durante cuatro (4) años, siempre que dé cumplimiento a las obligaciones establecidas en el presente Reglamento.
-
-En las pruebas en las que un equipo de deportistas compiten colaborativamente con el objetivo de que uno de ellos obtenga un logro deportivo, se otorgará a los restantes integrantes del equipo, que colaboraron en ello, una Beca de un (1) año de duración, a la cual corresponderá una subvención equivalente al cincuenta por ciento del monto correspondiente al integrante del equipo que obtuvo el logro, siendo necesario para la asignación del beneficio señalado, que el integrante del equipo finalice la prueba y se ubique a lo menos en la mitad superior de la tabla de resultados finales de la prueba.
 
 #### Artículo 20
 
@@ -362,7 +378,17 @@ Sin perjuicio de lo anterior, la Unidad, en el caso de que el Deportista Becario
 
 En el caso de que la vigencia de la Beca sea de un (1) año, se aplicará lo señalado en el primer inciso de este artículo, sin embargo, de obtener durante ese año otro logro de aquellos incluidos en la Resolución Complementaria, podrá ser recategorizado desde la obtención de ese nuevo logro.
 
-Los deportistas que se encuentren en el último año de vigencia de sus becas, y en proceso de preparación y clasificación a Juegos Panamericanos, Juegos Parapanamericanos, Juegos Olímpicos y Juegos Paralímpicos, podrán mantenerse en el Sistema de Becas, hasta su evaluación en el megaevento validado por la Unidad, cuando la programación de éste fuese posterior al término de la vigencia de su Beca. La extensión de la Beca en la forma señalada precedentemente deberá cumplir siempre con los criterios técnicos establecidos conjuntamente por la Unidad y la Asesoría Técnica del Alto Rendimiento, lo que deberá consignarse en un informe técnico fundado. Los criterios técnicos y las condiciones de mantención aplicables a estos casos, deberán ser establecidos en la Resolución Complementaria. Lo señalado en este inciso, podrá aplicarse también a deportistas que se encuentren en proceso de exclusión del Sistema de Becas, por la causal establecida en el literal n) del artículo 32 del presente reglamento.
+Los deportistas que se encuentren en el último año de vigencia de sus becas, y en proceso de preparación y clasificación a Juegos Panamericanos, Juegos Parapanamericanos, Juegos Olímpicos y Juegos Paralímpicos, podrán mantenerse en el Sistema de Becas, hasta su evaluación en el megaevento validado por la Unidad, cuando la programación de éste fuese posterior al término de la vigencia de su Beca. La extensión de la Beca en la forma señalada precedentemente deberá cumplir siempre con los criterios técnicos establecidos conjuntamente por la Unidad y la Panel Técnico del Alto Rendimiento, lo que deberá consignarse en un informe técnico fundado. Los criterios técnicos y las condiciones de mantención aplicables a estos casos, deberán ser establecidos en la Resolución Complementaria. Lo señalado en este inciso, podrá aplicarse también a deportistas que se encuentren en proceso de exclusión del Sistema de Becas, por la causal establecida en el literal n) del artículo 28 del presente reglamento.
+
+Tanto en las becas de un (1) año, como en el último año de vigencia de las becas de 2 (dos) y cuatro (4) años, si el evento fundamental no se realiza dentro de dicha vigencia, la Unidad de manera excepcional, previo informe fundado del Panel Técnico del Alto Rendimiento, podrá extender la vigencia de la beca hasta la fecha de realización de un siguiente evento fundamental.
+
+En los casos en que situaciones o decisiones de responsabilidad de organizaciones deportivas, imposibiliten indebidamente al deportista becario para competir en el evento fundamental programado, la Unidad, en coordinación con el Panel Técnico del Alto Rendimiento podrá programar, por una única vez, un nuevo evento fundamental, aun cuando la fecha de este nuevo evento fundamental se encuentre fuera del término de vigencia de su respectiva beca. En tales casos la reprogramación, deberá:
+
+a.- Priorizar aquel evento fundamental de fecha más próxima, que cumpla con los requerimientos técnicos establecidos en el presente reglamento y su resolución complementaria.
+
+b.- Mantener los derechos, deberes y obligaciones del becario, desde la fecha del término de vigencia de la beca, hasta la fecha en la que deba competir en el evento fundamental reprogramado, sin perjuicio de su continuidad en la beca conforme a los resultados de dicho evento fundamental.
+
+Si por cualquier otra causa sobreviniente, el Deportista Becario no participa en el evento fundamental reprogramado, la Unidad iniciará un procedimiento de exclusión.
 
 #### Artículo 22
 
@@ -374,105 +400,11 @@ Los deportistas que hayan ingresado al sistema recibirán mensualmente el pago d
 
 Durante su permanencia en el Sistema los montos de las subvenciones correspondientes a cada Deportista Becario serán reajustados en el mes de enero de cada año teniendo como base la variación que determine el Índice de Precios al Consumidor, o el indicador que lo reemplace, durante el año calendario inmediatamente anterior.
 
-#### Artículo 24
-
-Además del pago de la subvención, el Deportista Becario tendrá derecho a los siguientes beneficios:
-
-a. Derecho a usar las instalaciones deportivas y servicios del Centro de Alto Rendimiento, en adelante "CAR". Asimismo, podrá usar las instalaciones y servicios de otros centros o recintos que el Instituto le señale bajo las condiciones que se indiquen en dichos establecimientos.
-
-b. Apoyo de la Unidad de Ciencias del Centro de Alto Rendimiento.
-
-c. Seguro de accidentes personales.
-
-d. Asistencia al Deportista, lo que incluye:
-
-1. Información respecto de la normativa que regula el Sistema y las eventuales modificaciones a la Resolución Complementaria.
-
-2. Información e instrucción respecto de la operatividad del seguro de accidentes personales.
-
-3. Información en materia educativa sobre rendición de exámenes libres.
-
-4. Orientación en materia de previsión social.
-
-5. Orientación y apoyo en postulaciones a instituciones de educación superior, post carrera deportiva y empleabilidad de los Deportistas Becarios.
-
-6. Orientación en todas aquellas áreas dirigidas al bienestar social del Deportista Becario.
-
-#### Artículo 25
-
-Beneficio complementario de ayuda previsional y de salud.
-
-Los deportistas de alto rendimiento que tengan derecho al pago de la Beca, que manifiesten expresamente su voluntad de acogerse al beneficio complementario de ayuda previsional y de salud establecido en esta disposición, se les incrementará el monto de la correspondiente Beca, con el único objeto de contribuir al pago de las cotizaciones previsionales de las cuentas de capitalización individual y de salud común de los Deportistas Becarios. Para estos efectos, el Instituto adicionará al monto de la Beca el monto que corresponda según lo establecido en este artículo. Este monto adicional pasará a formar parte de la Beca para todos los efectos legales, y, por tanto, conforme a lo dispuesto en el artículo 12, letra l) de la ley N° 19.712, no constituye renta para ningún efecto legal. El monto referido reembolsará el gasto realizado por los Deportistas Becarios al pago de cotizaciones para pensiones en la respectiva Administradora de Fondos de Pensiones en calidad de afiliado voluntario, en una cuenta de capitalización de afiliado voluntario, conforme a lo dispuesto en el párrafo segundo, del Título IX del decreto ley N° 3.500, de 1980, y al pago destinado al Régimen de Salud Común regulado por el D.F.L. N° 1, de 2005, del Ministerio de Salud, en el Fondo Nacional de Salud o en alguna de las Instituciones de Salud Previsional que el Deportista Becario elija.
-
-Este beneficio consistirá en un aporte complementario al monto de la respectiva Beca que se desglosa de la siguiente manera:
-
-a. Beneficio de ayuda previsional: Corresponde a un monto de hasta el 10% de la Beca, sumándose la comisión por administración de la cuenta individual en favor de la Administradora de Fondos de Pensión que corresponda a dicha cotización y asimismo la cotización correspondiente por el Seguro de Invalidez y Sobrevivencia.
-
-b. Beneficio para salud común: Corresponde a un monto de hasta el 7% de la Beca, para reembolsar la cotización de salud que corresponda.
-
-En el caso que el monto correspondiente a la Beca del deportista sea inferior a un ingreso mínimo mensual, el aporte complementario mencionado se calculará sobre dicho ingreso y se adicionará al monto de la Beca.
-
-Cuando el deportista becario perciba, como trabajador dependiente, rentas imponibles para efectos de salud y previsión, iguales o superiores al monto máximo imponible a que se refiere el artículo 16° del decreto ley N° 3.500, de 1980, no se percibirá el beneficio complementario de este artículo.
-
-No obstante, si dichas rentas son inferiores al señalado tope, dicho beneficio complementario se calculará aplicando los porcentajes del 7% y 10%, referidos en las letras a. y b. precedentes, al monto que resulte de la diferencia entre el tope imponible a que se refiere el citado artículo del decreto ley N° 3.500; y la suma del monto de la beca mensual, sin considerar el beneficio complementario, y la renta imponible percibida como trabajador dependiente.
-
-El pago mensual de este beneficio complementario requerirá que el Deportista Becario cumpla con la obligación de acreditar previamente, según corresponda, el pago a las entidades respectivas. El incumplimiento de esta obligación autorizará al Instituto para suspender la entrega de este beneficio en los meses posteriores hasta que acredite debidamente el pago de las imposiciones adeudadas. Asimismo, el Instituto podrá solicitar el reintegro del mismo si se hubiese pagado indebidamente. El incumplimiento reiterado de la obligación señalada dará inicio al procedimiento de exclusión conforme lo indica el artículo 32 literal f). Se entenderá que existe incumplimiento reiterado cuando el Deportista Becario no acredite los pagos señalados en tres ocasiones consecutivas.
-
-Los subsidios por licencia médica que se originen o tengan como causa directa el aporte complementario mencionado en este artículo, serán rebajados del monto de la Beca. Corresponderá a la Unidad efectuar las deducciones que procedan en cada caso.
-
-El beneficio consagrado en este artículo no podrá, en ningún caso, ser pagado de forma retroactiva, y solamente podrá ser calculado desde la fecha en que el Deportista Becario ha manifestado su voluntad de acogerse a este beneficio. Por su parte, el Deportista Becario podrá manifestar en cualquier momento su intención de renunciar a la asignación de este beneficio.
-
-#### Artículo 26
-
-De la incapacidad por patologías médicas.
-
-Todo Deportista Becario deberá informar a la Unidad, que se encuentra afectado por una patología médica en el plazo máximo de diez (10) días corridos contados desde que toma conocimiento de la afección. Asimismo, deberá remitir, en el plazo de treinta (30) días corridos a través de la plataforma digital en formato electrónico, todos los antecedentes de que disponga respecto de la situación que lo afecta, tales como licencias médicas, certificados médicos, exámenes, radiografías y otros.
-
-El incumplimiento de las obligaciones señaladas precedentemente es un hecho grave de conformidad a este Reglamento, y dará inicio al procedimiento de exclusión conforme lo indica el artículo 32 literal f).
-
-La Unidad deberá visar dicha información y los antecedentes que la respaldan con los médicos del Centro de Alto Rendimiento y poner en conocimiento de la Asesoría Técnica del Alto Rendimiento la situación que aqueja al Deportista Becario.
-
-En todo caso, cualquier patología médica que dure más de doce (12) meses implicará que la Unidad dé inicio a un procedimiento de exclusión.
-
-Las patologías médicas que impliquen una inactividad del Deportista Becario superior a seis (6) meses, o que impidan su evaluación durante una temporada completa, deberán ser siempre sometidas al examen del Médico Contralor del Sistema. En cualquier caso, si un informe fundado del Médico Contralor establece que resulta inviable la reincorporación de un Deportista Becario a la competición de alto rendimiento, la Unidad deberá iniciar un procedimiento de exclusión.
-
-Las patologías médicas que afecten a los Deportistas Becarios serán tratadas conforme a los siguientes criterios:
-
-a. Patologías médicas en el caso de becas de duración de un año: En tal caso, en cualquier época de la temporada que se produzca la patología médica que afecte al Deportista Becario y siempre que la inactividad impida su debida evaluación, la Beca durará solo hasta el término de su vigencia.
-
-b. Patologías médicas en el caso de becas de duración de dos años: Tratándose del primer año de la beca, en caso de una patología médica que implique una inactividad del Deportista Becario superior a seis (6) meses de la temporada deportiva, corresponderá la evaluación del mismo por el Médico Contralor del Sistema a objeto de determinar si es viable la continuidad de la actividad deportiva del Deportista Becario en la temporada siguiente. Si por razones médicas fundadas en el informe del Médico Contralor se estableciera que la actividad del Deportista Becario no resulta factible en la temporada siguiente, la Beca se extenderá hasta el término de ese primer año.
-
-En el caso que el deportista vuelva a sufrir una patología médica en los términos planteados en el inciso anterior, durante el segundo año de vigencia de la Beca, la Unidad iniciará el procedimiento de exclusión del Deportista Becario.
-
-Si la patología médica se produce en el segundo año de duración de la Beca, de forma que ella impida la participación del Deportista Becario en el evento fundamental programado, entonces previo informe del Médico Contralor que establezca la viabilidad médica de su participación y evaluación en un evento del año calendario inmediatamente posterior, la Unidad en conjunto con el cuerpo técnico del Deportista Becario procederá a la calendarización de dicho evento. Si por motivo de una nueva patología médica o cualquier otra causa sobreviniente, el Deportista Becario no participa en el evento acordado, la Unidad dará inicio a un procedimiento de exclusión.
-
-c. Patologías médicas en el caso de becas de duración de cuatro años: Tratándose del primer, segundo y tercer año en caso de una patología médica que implique una inactividad del Deportista Becario superior a seis meses de la temporada deportiva, corresponderá la evaluación del Deportista Becario por el Médico Contralor del Sistema a objeto de determinar si es viable la continuidad de la actividad deportiva del mismo en la temporada siguiente. Si por razones médicas fundadas en el informe del Médico Contralor se estableciera que la actividad del Deportista Becario no resulta factible en la temporada siguiente, la Unidad dará inicio a un procedimiento de exclusión.
-
-En el caso que el Deportista Becario vuelva a sufrir una patología médica que haga imposible su evaluación durante la temporada inmediatamente siguiente, la Unidad iniciará el procedimiento de exclusión.
-
-Si la patología médica se produce en el cuarto año de duración de la Beca, de forma que ello impida la participación del Deportista Becario en el evento fundamental programado, entonces, previo informe del Médico Contralor que establezca la viabilidad médica de su participación y evaluación en un evento del año calendario inmediatamente posterior, la Unidad en conjunto con el cuerpo técnico del Deportista Becario procederá a calendarizar dicho evento. Si por una nueva patología médica o cualquier otra causa el Deportista Becario no participa en el evento acordado, la Unidad iniciará un procedimiento de exclusión.
-
-#### Artículo 27
-
-De la protección a la maternidad.
-
-Las Deportistas Becarias mantendrán los beneficios del Sistema durante su embarazo, periodo de protección a la maternidad en que quedarán exceptuadas del cumplimiento de los deberes y obligaciones que establece este Reglamento.
-
-Asimismo, para efectos de lactancia y cuidados de la primera infancia, quedarán también exceptuadas del cumplimiento de los deberes y obligaciones que establece este Reglamento, por un periodo correspondiente a un año y 84 días corridos, contados desde el nacimiento. El embarazo deberá ser consignado mediante certificado médico que la Deportista Becaria cargará a la plataforma electrónica.
-
-La Deportista Becaria deberá informar a la Unidad del nacimiento del hijo o hija, mediante el certificado de nacimiento respectivo, que deberá subir a la plataforma electrónica dentro de diez (10) días corridos desde la fecha de parto.
-
-Antes de expirar el término de seis meses siguientes al nacimiento del hijo, la Deportista Becaria deberá presentar una nueva planificación deportiva a la Unidad con la individualización del Evento Fundamental de programación inmediatamente siguiente al término del periodo de protección a la maternidad, en el que se evaluará su nivel de rendimiento conforme a las reglas generales. Los entrenamientos de la Deportista Becaria deberán iniciarse desde el séptimo mes desde el nacimiento del hijo o hija. Si el hijo o hija padeciera de alguna enfermedad grave durante el primer año de vida, que exija la asistencia permanente de la madre, o si el hijo o hija presentara alguna alergia alimentaria, y la madre decidiera mantener la lactancia materna, se deberá informar de este hecho a la Unidad, pudiéndose extender en este caso el periodo de reposo establecido en este inciso, por un plazo mayor en consideración a los antecedentes recepcionados, sin que esto signifique en ningún caso extender el tiempo de garantía de protección a la maternidad.
-
-En caso de producirse cualquier circunstancia que amerite una modificación en la planificación, esta deberá ser debidamente informada a la Unidad, de modo tal que dicha circunstancia se considere para efectos de la evaluación de esta.
-
-En el caso de que la Deportista Becaria no cumpla con la entrega de su nueva planificación deportiva a la Unidad, ni haya iniciado los entrenamientos en los términos señalados en el inciso cuarto de este artículo, su calidad de Deportista Becaria se extenderá solo hasta el término del plazo de protección a la maternidad.
-
 ## Capítulo III
 
 De la Suspensión y la Exclusión del Deportista Becario del Sistema
 
-#### Artículo 28
+#### Artículo 24
 
 De la Suspensión del Deportista Becario.
 
@@ -484,27 +416,27 @@ b. Acusación de crimen o simple delito formulada por el Ministerio Público en 
 
 c. En caso de que el Deportista Becario se encuentre denunciado, ante el órgano jurisdiccional competente, según corresponda, por hechos vinculados a Violencia Intrafamiliar, abuso o acoso laboral o sexual, la suspensión se aplicará al momento de que la denuncia sea declarada admisible. La medida de suspensión se mantendrá hasta que se dicte una sentencia definitiva firme y ejecutoriada por el Tribunal correspondiente.
 
-d. La no entrega oportuna de la planificación deportiva por parte del Deportista Becario ocasionará su suspensión hasta que se produzca el cumplimiento efectivo de la obligación, lo cual no podrá extenderse más allá de un plazo máximo de treinta (30) días hábiles contados desde el requerimiento de la Unidad, caso en el que aplicará lo dispuesto en el artículo 32 literal f).
+d. La no entrega oportuna de la planificación deportiva por parte del Deportista Becario ocasionará su suspensión hasta que se produzca el cumplimiento efectivo de la obligación, lo cual no podrá extenderse más allá de un plazo máximo de treinta (30) días hábiles contados desde el requerimiento de la Unidad, caso en el que aplicará lo dispuesto en el artículo 28 literal f).
 
 e. Medida de suspensión y/o prohibición de participar, en competiciones deportivas, recaída en el Deportista Becario, que emane de un órgano disciplinario de la Federación Deportiva respectiva, del Comité Olímpico de Chile, Comité Paralímpico de Chile, de la Comisión Nacional de Control de Dopaje o de una organización o jurisdicción deportiva internacional, por el tiempo de duración de dicha medida.
 
 f. Notificación de procedimiento de exclusión.
 
-#### Artículo 29
+#### Artículo 25
 
 Si las causales que se le formulan al Deportista Becario consisten en aquellas establecidas en el artículo precedente, la Unidad suspenderá los derechos conferidos por el Sistema, mediante la notificación de la medida al Deportista Becario por correo electrónico.
 
-#### Artículo 30
+#### Artículo 26
 
 En los casos en que se dicte una resolución judicial absolutoria por el Tribunal competente, la Unidad deberá ordenar el pago de las subvenciones hasta por el máximo de un (1) año desde que se notifique la resolución que ordena la suspensión, o bien hasta el fin de la vigencia de la Beca cuando ésta termine antes de dicho plazo.
 
-#### Artículo 31
+#### Artículo 27
 
 De la Exclusión del Deportista Becario.
 
 El Deportista Becario perderá la calidad de tal, cuando le sea notificada por correo electrónico, la resolución de exclusión dictada por el Director Nacional del Instituto, sin perjuicio de los recursos que el Deportista Becario pueda utilizar en la defensa de sus intereses, en conformidad a la ley N° 19.880 que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado.
 
-#### Artículo 32
+#### Artículo 28
 
 Toda resolución de exclusión de un Deportista Becario del Sistema deberá ser dictada previa tramitación de un procedimiento de exclusión, en el que se deberá consagrar que el Deportista Becario tendrá el derecho a presentar los antecedentes y las alegaciones destinadas a revocar la medida de exclusión que le ha sido notificada.
 
@@ -524,13 +456,13 @@ f. Incumplimiento por parte del Deportista Becario, de las obligaciones establec
 
 Para el caso de la no entrega oportuna de la planificación deportiva respectiva, se iniciará el procedimiento de exclusión si el Deportista Becario no la entregara conforme a lo señalado en el artículo 28 literal d).
 
-g. Para el caso de Modalidades Colectivas, la comunicación de la Federación a la Unidad, respecto de la decisión del técnico o entrenador de excluir a un Deportista Becario del equipo respectivo, de acuerdo al artículo 38 de este Reglamento.
+g. Para el caso de Modalidades Colectivas, la comunicación de la Federación a la Unidad, respecto de la decisión del técnico o entrenador de excluir a un Deportista Becario del equipo respectivo, de acuerdo al artículo 34 de este Reglamento.
 
 h. Eliminación de la modalidad deportiva del Ciclo Olímpico o Paralímpico por la cual el Deportista Becario hizo ingreso al Sistema.
 
 i. Sentencia firme y ejecutoriada emanada de un órgano disciplinario de la Federación Deportiva respectiva, del Comité Olímpico de Chile, Comité Paralímpico de Chile, de la Comisión Nacional de Control de Dopaje o de una organización o jurisdicción deportiva nacional o internacional, que afecte la participación del Deportista Becario en futuras competiciones.
 
-j. Patología médica incompatible con la calidad de Deportista Becario, fundada en informe evacuado por Médico Contralor, conforme a lo establecido en el artículo 26 de este Reglamento.
+j. Patología médica incompatible con la calidad de Deportista Becario, fundada en informe evacuado por Médico Contralor, conforme a lo establecido en el artículo 49 de este Reglamento.
 
 k. En el caso de Deportistas Becarios paralímpicos, cuando su clasificación funcional sea de deportista No Elegible y dicha determinación haya sido confirmada.
 
@@ -540,11 +472,11 @@ m. Ser condenado por sentencia firme y ejecutoriada dictada en procedimiento seg
 
 n. Término de vigencia de la beca, sin logros que permitan su categorización y continuidad en el Sistema.
 
-#### Artículo 33
+#### Artículo 29
 
 Corresponderá a la Unidad la tramitación del procedimiento de exclusión del Deportista Becario del Sistema por el incumplimiento de una o más de las obligaciones que le impone el presente Reglamento.
 
-#### Artículo 34
+#### Artículo 30
 
 El procedimiento de exclusión se iniciará con la notificación al Deportista Becario de la resolución que establezca las causales que le imputa la Unidad, por el incumplimiento de una o más obligaciones o faltas a los deberes que impone este Reglamento, pudiendo la Unidad tomar conocimiento de los hechos que constituyen causal de exclusión por todos los mecanismos que establece la ley, especialmente a través de oficios a instituciones relacionadas. La notificación se efectuará vía correo electrónico.
 
@@ -552,25 +484,25 @@ La misma resolución dispondrá la suspensión del pago de la subvención mientr
 
 Las causales de exclusión que se formulen en contra del Deportista Becario deberán estar siempre basadas en antecedentes fundados.
 
-#### Artículo 35
+#### Artículo 31
 
 Una vez notificado, el Deportista Becario dispondrá del término de diez (10) días hábiles para presentar ante la Unidad las alegaciones y medios de prueba en su defensa, los cuales deberán ser cargados a la plataforma electrónica del Sistema.
 
-#### Artículo 36
+#### Artículo 32
 
 Dentro de los veinte (20) días hábiles siguientes de presentadas las alegaciones o defensas por el Deportista Becario, la Unidad deberá presentar a la consideración del Director Nacional un informe de cierre del procedimiento de exclusión, el que indicará las causales de incumplimiento en que incurrió el Deportista Becario, los antecedentes en los cuales se funda la causal o causales, las alegaciones y antecedentes que el Deportista Becario ha esgrimido en su defensa y la conclusión en la cual se ponderen todos estos antecedentes.
 
 En el caso de que el Deportista Becario, en el plazo señalado en el artículo precedente, no presente alegación o defensa para controvertir los cargos formulados por la Unidad, se entenderá que ha precluido la oportunidad de hacerlo.
 
-#### Artículo 37
+#### Artículo 33
 
 El informe elaborado por la Unidad deberá ser presentado al Director Nacional del Instituto, quien resolverá, en definitiva, en el término de diez (10) días hábiles desde su recepción, respecto de la exclusión del Deportista Becario del Sistema. Dicha resolución deberá fundarse en los antecedentes y en el mérito del informe elaborado por la Unidad.
 
-#### Artículo 38
+#### Artículo 34
 
-Tratándose de Modalidades Colectivas, la Federación Deportiva respectiva deberá informar mediante la plataforma electrónica a la Unidad de la circunstancia de que uno o más Deportistas Becarios han sido excluidos del equipo respectivo por decisión de su técnico o entrenador. Recibida dicha comunicación se iniciará el procedimiento de exclusión conforme a las disposiciones de este Capítulo. El incumplimiento de este deber por parte de la Federación, habilitará a la Unidad para suspender el pago de la Beca a todos los deportistas incluidos en la nómina presentada de conformidad a lo dispuesto en el artículo 7° de este Reglamento.
+Tratándose de Modalidades Colectivas, la Federación Deportiva respectiva deberá informar mediante la plataforma electrónica a la Unidad de la circunstancia de que uno o más Deportistas Becarios han sido excluidos del equipo respectivo por decisión de su técnico o entrenador. Recibida dicha comunicación se iniciará el procedimiento de exclusión conforme a las disposiciones de este Capítulo. El incumplimiento de este deber por parte de la Federación, habilitará a la Unidad para dar inicio a un proceso de exclusión de dichos deportistas, con fundamento en los antecedentes que le proporcionen directamente sus respectivos técnicos o entrenadores.
 
-#### Artículo 39
+#### Artículo 35
 
 El Comité Olímpico de Chile, el Comité Paralímpico de Chile y las Federaciones Deportivas, tienen la obligación de comunicar a la Unidad los antecedentes de que dispongan, relativos a resoluciones de sus órganos disciplinarios que establezcan sanciones a Deportistas Becarios. Sin perjuicio de lo anterior, la Unidad podrá solicitar dicha información en cualquier tiempo si lo estima necesario.
 
@@ -578,11 +510,11 @@ El Comité Olímpico de Chile, el Comité Paralímpico de Chile y las Federacion
 
 De la administración del Sistema
 
-#### Artículo 40
+#### Artículo 36
 
 La Unidad, dependiente del Departamento de Alto Rendimiento y Deporte Competitivo del IND, es el ente en el cual recae la administración y gestión operativa del Sistema. La Unidad ejerce sus funciones en las áreas técnico-deportiva, financiera y normativa del Sistema.
 
-#### Artículo 41
+#### Artículo 37
 
 En el ejercicio de su competencia, la Unidad tendrá a su cargo las siguientes tareas o labores:
 
@@ -604,11 +536,11 @@ h. Confección de una memoria anual del ejercicio del Sistema de Becas.
 
 i. En general, todas aquellas destinadas al cumplimiento de las obligaciones que le asigna este Reglamento.
 
-#### Artículo 42
+#### Artículo 38
 
-La Unidad funcionará en coordinación permanente con la Asesoría Técnica del Alto Rendimiento, los Deportistas Becarios y sus cuerpos técnicos. Si así lo requiere el cumplimiento de sus funciones, los integrantes de la Unidad podrán efectuar su labor de supervigilancia en terreno, debiendo velar, en todo caso, por la buena marcha del Sistema, para lo cual contará con las facultades para requerir toda información relevante a las Federaciones Deportivas, Comité Olímpico de Chile y Comité Paralímpico de Chile.
+La Unidad funcionará en coordinación permanente con la Panel Técnico del Alto Rendimiento, los Deportistas Becarios y sus cuerpos técnicos. Si así lo requiere el cumplimiento de sus funciones, los integrantes de la Unidad podrán efectuar su labor de supervigilancia en terreno, debiendo velar, en todo caso, por la buena marcha del Sistema, para lo cual contará con las facultades para requerir toda información relevante a las Federaciones Deportivas, Comité Olímpico de Chile y Comité Paralímpico de Chile.
 
-#### Artículo 43
+#### Artículo 39
 
 Corresponderá a la Unidad, además, confeccionar y mantener actualizado el perfil digital de cada uno de los Deportistas Becarios, el que contendrá la fecha de ingreso al Sistema, su categorización, monto de la subvención asignada, los informes de evaluación anual de cada deportista y aquellos que excepcionalmente se requieran del Deportista Becario, el registro de las competencias nacionales e internacionales en las que el Deportista Becario ha participado y su registro de resultados y todo otro antecedente relativo al cumplimiento de las obligaciones y deberes del Deportista Becario.
 
@@ -616,7 +548,7 @@ Corresponderá a la Unidad, además, confeccionar y mantener actualizado el perf
 
 Del deporte paralímpico en el Sistema
 
-#### Artículo 44
+#### Artículo 41
 
 Las normas de los capítulos anteriores se aplicarán a los deportistas paralímpicos, sin perjuicio de las siguientes disposiciones específicas.
 
@@ -626,31 +558,31 @@ Definición de Deportista Paralímpico.
 
 Para efectos de este Reglamento, son deportistas paralímpicos aquellos paratletas que tengan clasificación internacional validada, debidamente registrados en COPACHI o en las organizaciones deportivas afiliadas a este, según corresponda, habilitados para competir conforme a las reglas del Comité Paralímpico Internacional en deportes paralímpicos y/o adaptados.
 
-#### Artículo 46
+#### Artículo 42
 
 Logros homologables.
 
 En los casos en que no existan competencias anuales que permitan evaluar el rendimiento deportivo, la Resolución Complementaria establecerá el listado de logros homologables que habilitarán para la permanencia de los Deportistas Becarios en el Sistema.
 
-#### Artículo 47
+#### Artículo 43
 
 Cambios de Modalidades Deportivas.
 
 El Deportista Paralímpico podrá cambiar de modalidad deportiva sin perder los derechos adquiridos en el Sistema, siempre que dicho cambio se produzca luego de cumplir en el Evento Fundamental correspondiente, de acuerdo con su planificación deportiva. Para estos efectos, el Deportista Becario deberá solicitar el cambio de modalidad deportiva a la Unidad, acompañando los fundamentos técnicos que justifiquen dicha modificación.
 
-Los fundamentos y antecedentes entregados serán analizados por la Asesoría Técnica del Alto Rendimiento, la que emitirá una recomendación técnica a la Unidad.
+Los fundamentos y antecedentes entregados serán analizados por la Panel Técnico del Alto Rendimiento, la que emitirá una recomendación técnica a la Unidad.
 
 La Unidad remitirá los antecedentes al Director Nacional del Instituto para que dicte la resolución que autorice el cambio de modalidad. En esta se establecerá también el periodo, no superior a seis (6) meses contados desde su notificación, en que el Deportista Becario deba obtener un logro en la nueva modalidad que lo habilite para mantenerse dentro del Sistema.
 
 El Deportista Becario podrá cambiar de modalidad solo una vez para efectos del presente Reglamento.
 
-#### Artículo 48
+#### Artículo 44
 
 Logros Paralímpicos.
 
 La Resolución Complementaria deberá contener un capítulo especial que consigne los logros, categorías, clases, requisitos de países mínimos participantes, homologación de torneos, ranking de modalidades y demás materias que correspondan al Deporte Paralímpico.
 
-#### Artículo 49
+#### Artículo 45
 
 Clasificación Funcional.
 
@@ -658,9 +590,135 @@ Los deportistas paralímpicos, que en las competiciones en las cuales participan
 
 Las Federaciones o el COPACHI, según corresponda, deberán informar a la Unidad, la reclasificación funcional de un paratleta o la declaración de deportista no elegible, en el plazo de veinte (20) días hábiles desde que toman conocimiento de tal hecho.
 
-#### Artículo 50
+#### Artículo 46
 
 Los Guías Paralímpicos podrán ingresar en calidad de becarios al Sistema de Becas. En cualquier caso, la subvención que perciban será equivalente al cincuenta por ciento del monto correspondiente al deportista paralímpico que obtuvo el logro que fundamenta su ingreso al Sistema. La Resolución Complementaria establecerá las pruebas que consideran la participación de guía paralímpico, sus requisitos generales y específicos, los montos asignados, vigencia y cualquier otra materia necesaria para el establecimiento de este tipo de becas.
+
+## Capítulo VI
+
+De la Protección Integral al Deportista
+
+#### Artículo 47
+
+Además del pago de la subvención, el Deportista Becario tendrá derecho a los siguientes beneficios:
+
+a. Derecho a usar las instalaciones deportivas y servicios del Centro de Alto Rendimiento, en adelante "CAR". Asimismo, podrá usar las instalaciones y servicios de otros centros o recintos que el Instituto le señale, bajo las condiciones que se indiquen en el reglamento respectivo de dichos establecimientos.
+
+b. Apoyo de la Unidad de Ciencias del Centro de Alto Rendimiento.
+
+c. Seguro de accidentes personales y seguros complementarios de salud.
+
+d. Asistencia al Deportista, lo que incluye:
+
+1. Capacitación respecto de la normativa que regula el Sistema y las eventuales modificaciones a la Resolución Complementaria.
+
+2. Capacitación respecto de la operatividad del seguro de accidentes personales y seguros complementarios de salud, para quienes lo perciban.
+
+3. Capacitación en materia educativa sobre rendición de exámenes libres.
+
+4. Capacitación en materia de previsión social y de salud.
+
+5. Capacitación en postulaciones a instituciones de educación superior, post carrera deportiva y empleabilidad de los Deportistas Becarios.
+
+6. Capacitación en todas aquellas áreas dirigidas al bienestar social del Deportista Becario.
+
+#### Artículo 48
+
+Beneficio complementario de ayuda previsional y de salud.
+
+A los deportistas de alto rendimiento que tengan derecho al pago de la Beca, que manifiesten expresamente su voluntad de acogerse al beneficio complementario de ayuda previsional y de salud establecido en esta disposición, se les incrementará el monto de la correspondiente Beca, con el único objeto de contribuir al pago de las cotizaciones previsionales de las cuentas de capitalización individual y de salud común de los Deportistas Becarios. Para estos efectos, el Instituto adicionará al monto de la Beca el monto que corresponda según lo establecido en este artículo. Este monto adicional pasará a formar parte de la Beca para todos los efectos legales, y, por tanto, conforme a lo dispuesto en el artículo 12, letra l) de la ley Nº 19.712, no constituye renta para ningún efecto legal. El monto referido reembolsará el gasto realizado por los Deportistas Becarios respecto del pago de cotizaciones para pensiones en la respectiva Administradora de Fondos de Pensiones en calidad de afiliado voluntario, en una cuenta de capitalización de afiliado voluntario, conforme a lo dispuesto en el párrafo segundo, del Título IX del decreto ley Nº 3.500, de 1980, y al pago destinado al Régimen de Salud Común regulado por el DFL Nº 1, de 2005, del Ministerio de Salud, en el Fondo Nacional de Salud o en alguna de las Instituciones de Salud Previsional que el Deportista Becario elija.
+
+Este beneficio consistirá en un aporte complementario al monto de la respectiva Beca que se desglosa de la siguiente manera:
+
+a. Beneficio de ayuda previsional: Corresponde a un monto de hasta el 10% de la Beca, sumándose la comisión por administración de la cuenta individual en favor de la Administradora de Fondos de Pensiones que corresponda a dicha cotización y asimismo la cotización correspondiente por el Seguro de Invalidez y Sobrevivencia.
+
+b. Beneficio para salud común: Corresponde a un monto de hasta el 7% de la Beca, para reembolsar la cotización de salud que corresponda. Las y los deportistas becarios, que se encuentren afiliados a una institución de salud en calidad de cargas, podrán recibir el beneficio complementario, siempre que cumplan con la obligación de acreditar el monto pagado a la institución de salud respectiva. En el caso de que el plan de salud del becario considere a más de una persona, para efectos del reembolso del beneficio complementario, se dividirá el monto del valor de dicho plan por la cantidad de personas beneficiarias, correspondiendo el monto del beneficio complementario de salud a la fracción resultante de dicha operación.
+
+Se exceptúa del fraccionamiento antes señalado las cargas menores de dos años.
+
+En el caso que el monto correspondiente a la Beca del deportista sea inferior a un ingreso mínimo mensual, el aporte complementario mencionado se calculará sobre dicho ingreso y se adicionará al monto de la Beca.
+
+Cuando el deportista becario perciba, como trabajador dependiente, rentas imponibles para efectos de salud, iguales o superiores al monto máximo imponible a que se refiere el artículo 16 del decreto ley Nº 3.500, de 1980, no se percibirá el beneficio complementario de este artículo.
+
+No obstante, si dichas rentas son inferiores al señalado tope, dicho beneficio complementario se calculará aplicando el porcentaje del 7% referido en la letra b. precedente, al monto que resulte de la diferencia entre el tope imponible a que se refiere el citado artículo del decreto ley Nº 3.500; y la suma del monto de la beca mensual, sin considerar el beneficio complementario, y la renta imponible percibida como trabajador dependiente.
+
+El pago mensual del beneficio complementario requerirá que el Deportista Becario cumpla con la obligación de acreditar previamente, según corresponda, el pago a las entidades respectivas. Sin perjuicio de lo señalado precedentemente, el Instituto podrá solicitar, cuando así le sea posible, la información relativa a la acreditación del pago a las instituciones indicadas. El incumplimiento de esta obligación autorizará al Instituto para suspender la entrega de este beneficio en los meses posteriores hasta que acredite debidamente el pago de las imposiciones adeudadas. Asimismo, el Instituto podrá solicitar el reintegro del mismo si se hubiese pagado indebidamente. El incumplimiento reiterado de la obligación señalada dará inicio al procedimiento de exclusión conforme lo indica el artículo 28 literal f). Se entenderá que existe incumplimiento reiterado cuando el Deportista Becario no acredite los pagos señalados en tres ocasiones consecutivas.
+
+Los subsidios por licencia médica que se originen o tengan como causa directa el aporte complementario mencionado en este artículo, serán rebajados del monto de la Beca. Corresponderá a la Unidad efectuar las deducciones que procedan en cada caso.
+
+El beneficio consagrado en este artículo no podrá, en ningún caso, ser pagado de forma retroactiva, y solamente podrá ser calculado desde la fecha en que el Deportista Becario ha manifestado su voluntad de acogerse a este beneficio. Por su parte, el Deportista Becario podrá manifestar en cualquier momento su intención de renunciar a la asignación de este beneficio.
+
+#### Artículo 49
+
+De la incapacidad por patologías médicas.
+
+Todo Deportista Becario deberá informar a la Unidad, que se encuentra afectado por una patología médica en el plazo máximo de diez (10) días corridos contados desde que toma conocimiento de la afección. Asimismo, deberá remitir, en el plazo de treinta (30) días corridos a través de la plataforma digital en formato electrónico, todos los antecedentes de que disponga respecto de la situación que lo afecta, tales como licencias médicas, certificados médicos, exámenes, radiografías y otros.
+
+El incumplimiento de las obligaciones señaladas precedentemente es un hecho grave de conformidad a este Reglamento, y dará inicio al procedimiento de exclusión conforme lo indica el artículo 28 literal f).
+
+La Unidad deberá visar dicha información y los antecedentes que la respaldan con los médicos del Centro de Alto Rendimiento y poner en conocimiento del Panel Técnico del Alto Rendimiento la situación que aqueja al Deportista Becario.
+
+En todo caso, cualquier patología médica que dure más de doce (12) meses implicará que la Unidad dé inicio a un procedimiento de exclusión.
+
+Las patologías médicas que impliquen una inactividad del Deportista Becario superior a seis (6) meses, o que impidan su evaluación durante una temporada completa, deberán ser siempre sometidas al examen del Médico Contralor del Sistema. En cualquier caso, si un informe fundado del Médico Contralor establece que resulta inviable la reincorporación de un Deportista Becario a la competición de alto rendimiento, la Unidad deberá iniciar un procedimiento de exclusión.
+
+Las patologías médicas que afecten a los Deportistas Becarios serán tratadas conforme a los siguientes criterios:
+
+a. Patologías médicas en el caso de becas de duración de un año: En tal caso, en cualquier época de la temporada que se produzca la patología médica que afecte al Deportista Becario, que implique una inactividad superior a seis (6) meses de la temporada deportiva, corresponderá la evaluación de este por el Médico Contralor del Sistema, a objeto de determinar si es viable la continuidad del Deportista Becario. Si por razones médicas fundadas en el informe del Médico Contralor se estableciera que la actividad del Deportista Becario no resulta factible, la Beca se extenderá hasta el término de su vigencia.
+
+Si la patología médica impide la participación del Deportista Becario en el evento fundamental programado, entonces previo informe del Médico Contralor que establezca la viabilidad médica de su participación y evaluación en un evento de ese mismo año o del año calendario inmediatamente posterior, la Unidad procederá a la recalendarización de dicho evento. Si por motivo de una nueva patología médica o cualquier otra causa sobreviniente, el Deportista Becario no participa en el evento acordado, la Unidad iniciará un procedimiento de exclusión.
+
+b. Patologías médicas en el caso de becas de duración de dos años: Tratándose del primer año de la beca, en caso de una patología médica que implique una inactividad del Deportista Becario superior a seis (6) meses de la temporada deportiva, corresponderá la evaluación del mismo por el Médico Contralor del Sistema a objeto de determinar si es viable la continuidad de la actividad deportiva del Deportista Becario en la temporada siguiente. Si por razones médicas fundadas en el informe del Médico Contralor se estableciera que la actividad del Deportista Becario no resulta factible en la temporada siguiente, la Beca se extenderá hasta el término de ese primer año.
+
+En el caso que el deportista vuelva a sufrir una patología médica en los términos planteados en el inciso anterior, durante el segundo año de vigencia de la Beca, la Unidad iniciará el procedimiento de exclusión del Deportista Becario.
+
+Si la patología médica se produce en el segundo año de duración de la Beca, de forma que ella impida la participación del Deportista Becario en el evento fundamental programado, entonces previo informe del Médico Contralor que establezca la viabilidad médica de su participación y evaluación en un evento de ese mismo año calendario o del año inmediatamente posterior, la Unidad procederá a la recalendarización de dicho evento. Si por motivo de una nueva patología médica o cualquier otra causa sobreviniente, el Deportista Becario no participa en el evento acordado, la Unidad dará inicio a un procedimiento de exclusión.
+
+c. Patologías médicas en el caso de becas de duración de cuatro años: Tratándose del primer, segundo y tercer año en caso de una patología médica que implique una inactividad del Deportista Becario superior a seis meses de la temporada deportiva, corresponderá la evaluación del Deportista Becario por el Médico Contralor del Sistema a objeto de determinar si es viable la continuidad de la actividad deportiva del mismo en la temporada siguiente. Si por razones médicas fundadas en el informe del Médico Contralor se estableciera que la actividad del Deportista Becario no resulta factible en la temporada siguiente, la Unidad dará inicio a un procedimiento de exclusión.
+
+En el caso que el Deportista Becario vuelva a sufrir una patología médica que haga imposible su evaluación durante la temporada inmediatamente siguiente, la Unidad iniciará el procedimiento de exclusión.
+
+Si la patología médica se produce en el cuarto año de duración de la Beca, de forma que ello impida la participación del Deportista Becario en el evento fundamental programado, entonces, previo informe del Médico Contralor que establezca la viabilidad médica de su participación y evaluación en un evento de ese mismo año calendario o del año inmediatamente posterior, la Unidad procederá a calendarizar dicho evento. Si por una nueva patología médica o cualquier otra causa el Deportista Becario no participa en el evento acordado, la Unidad iniciará un procedimiento de exclusión.
+
+#### Artículo 50
+
+De la conciliación de la vida familiar y deportiva y del Beneficio Complementario de Sala Cuna.
+
+a.- De la conciliación de la vida familiar y deportiva.
+
+Las Deportistas Becarias mantendrán los beneficios del Sistema desde que acrediten su embarazo y durante el periodo de protección a la maternidad definido en este reglamento, en que quedarán exceptuadas del cumplimiento de los deberes y obligaciones establecidas en éste, sin perjuicio de lo establecido en el inciso sexto de este literal. El embarazo deberá ser consignado mediante certificado médico o de matrona que la Deportista Becaria cargará en la plataforma electrónica.
+
+Asimismo, para efectos de la alimentación y cuidados de la primera infancia, quedarán también exceptuadas del cumplimiento de los deberes y obligaciones que establece este Reglamento, durante el período de protección a la maternidad que se extenderá desde el comienzo del periodo postnatal hasta que el hijo o hija cumpla un año y 84 días. Dicho periodo podrá ser extendido por la existencia de un post natal suplementario por enfermedad de la madre debido al nacimiento del hijo o hija, que impida su regreso a los entrenamientos y competiciones, comprobado con el respectivo certificado médico, lo que en ningún caso podrá extenderse más allá de dos años contados desde el nacimiento.
+
+Los plazos establecidos en este artículo deberán ajustarse conforme a derecho en el caso de situaciones excepcionales producidas por estados de alertas sanitarias, calamidades públicas, y Estados de Excepción Constitucional de Catástrofe, de ser procedente.
+
+La Deportista Becaria deberá informar a la Unidad el nacimiento del hijo o hija, mediante el certificado de nacimiento respectivo, que deberá subir a la plataforma electrónica dentro de diez (10) días corridos desde la fecha de parto.
+
+Antes de expirar el término de seis meses siguientes al nacimiento del hijo o hija, la Deportista Becaria deberá presentar una nueva planificación deportiva a la Unidad con la individualización del Evento Fundamental de programación inmediatamente siguiente al término del periodo de protección a la maternidad, en el que se evaluará su nivel de rendimiento conforme a las reglas generales. En caso de que se produzca cualquier circunstancia que amerite una modificación en la planificación, esta deberá ser debidamente informada a la Unidad, de modo tal que dicha circunstancia se considere para efectos de la programación del evento fundamental.
+
+Los entrenamientos de la Deportista Becaria deberán iniciarse desde el séptimo mes desde el nacimiento del hijo o hija. Si el hijo o hija padeciera de alguna enfermedad grave durante el primer año de vida, que exija la asistencia permanente de la madre, se deberá informar de este hecho a la Unidad, la que extenderá el plazo señalado precedentemente, por uno mayor en consideración a los antecedentes recepcionados, sin que esto signifique en ningún caso extender el tiempo de garantía de protección a la maternidad.
+
+En el caso de que la Deportista Becaria no cumpla con la entrega de su nueva planificación deportiva a la Unidad, ni haya iniciado los entrenamientos en los términos señalados en los incisos precedentes quinto y sexto de este artículo, su calidad de Deportista Becaria se extenderá solo hasta el término del plazo de protección a la maternidad, es decir hasta que el hijo o hija cumpla un año y ochenta y cuatro días.
+
+b.- Beneficio Complementario de Sala Cuna.
+
+A objeto de procurar los cuidados en la primera infancia, el padre o madre becaria, desde la fecha del nacimiento de su hijo o hija, podrá solicitar a la Unidad un aporte económico consistente en un beneficio complementario de sala cuna o de pago de un cuidador para hijos o hijas de hasta dos años. Dicho beneficio, es una prestación destinada al resguardo de la actividad deportiva del padre o la madre becaria y a la protección y el debido cuidado y desarrollo del hijo o hija en su primera etapa de vida. Lo señalado precedentemente aplica de igualmente en casos de adopción, lo que se acreditará con los certificados correspondientes.
+
+En el caso que ambos padres sean deportistas beneficiarios de la beca Proddar, la madre deportista podrá elegir quien recibirá el beneficio.
+
+b.1.- Requisitos para acceder al beneficio:
+
+1. Presentar certificado de nacimiento del menor.
+
+2. Tener el hijo o hija hasta 2 años.
+
+3. Declaración jurada simple firmada por la madre o padre beneficiaria/o donde se indique que no percibe ningún tipo de otro beneficio adicional por el/la niño/a por concepto de sala cuna o cuidador, e igual declaración jurada simple del padre o madre no beneficiario.
+
+4. En caso de estar desempleada/o, presentar certificado de las últimas 3 cotizaciones previsionales, según corresponda.
+
+b.2.- El monto, forma y fecha de pago del beneficio, se establecerán en la resolución complementaria de este reglamento.
+
+Este beneficio deberá extenderse en forma igualitaria para todas las madres y padres deportistas becarios, que cumplan con los requisitos señalados precedentemente, resultando improcedente hacer distinciones de cualquier especie en base a la categoría del logro que le otorga el acceso a la beca.
 
 Disposiciones transitorias:
 
