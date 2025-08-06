@@ -2270,13 +2270,17 @@ la asistencia de
 
 móviles en terreno.
 
-1513 Fono Emergencia Las llamadas serán
+1513 Fono Las llamadas serán
 
-San Pedro de recepcionadas por el
+Emergencia recepcionadas
 
-Atacama centro de monitoreo de
+San Pedro por el centro
 
-la Ilustre Municipalidad
+de Atacama de monitoreo
+
+de la Ilustre
+
+Municipalidad
 
 de San Pedro de Atacama
 
@@ -3329,5 +3333,83 @@ un hurto, robo o
 pérdida de celular
 
 o tarjetas.
+
+1214 Fono La recepción de
+
+Emergencia llamadas de emergencia
+
+Copiapó por parte de la
+
+Direcciónde Seguridad
+
+Comunitaria de la
+
+Ilustre Municipalidad
+
+de Copiapó, ante
+
+una situación
+
+de seguridad y/o
+
+emergencia
+
+comunitaria que
+
+ocurraen la comuna
+
+(tránsito, delictual,
+
+emergencia). El
+
+personal de dicha
+
+unidad recibirá
+
+la llamada y
+
+efectuará las
+
+acciones concretas
+
+e inmediatas para
+
+afrontar la
+
+emergencia y, de
+
+esta manera,
+
+anticipar y facilitar
+
+las labores de
+
+las instituciones
+
+que tienen como
+
+fin la atención
+
+de estas mismas
+
+(Carabineros,
+
+Policía de
+
+Investigaciones,
+
+Bomberos, Ambulancias,
+
+etc.), excluyéndose
+
+de esta forma la
+
+simple desviación
+
+de estos llamados
+
+a dichas
+
+instituciones.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
