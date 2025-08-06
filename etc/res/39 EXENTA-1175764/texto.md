@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Delégase en el Director de Abastecimiento de la Armada, la facultad de efectuar, en representación del Fisco - Armada de Chile, y en el ámbito técnico que le corresponde, la contratación del suministro de lubricantes y servicios asociados, en la forma establecida en la reglamentación vigente, extendiendo las resoluciones y suscribiendo y celebrando todos los actos administrativos, y contratos correspondientes, hasta por la suma equivalente a 65.000 UTM.
+1.- Delégase en el Director de Abastecimiento de la Armada, la facultad de efectuar, en representación del Fisco - Armada de Chile, y en el ámbito técnico que le corresponde, la contratación del suministro de lubricantes y servicios asociados, en la forma establecida en la reglamentación vigente, extendiendo las resoluciones y suscribiendo y celebrando todos los actos administrativos, y contratos correspondientes, hasta por la suma equivalente a 98.000 UTM.
 
 2.- Declárase, que el ejercicio de las facultades delegadas deberá ceñirse a las disposiciones de las leyes Nº 18.575 y Nº 18.928, así como al resto de la normativa aplicable al caso.
 
