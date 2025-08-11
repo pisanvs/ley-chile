@@ -96,6 +96,24 @@ Código de
 
 Acreditación: 3CV-ATX-CB-WB1-2024-008.
 
+Fabricante : Rivera y Meza Ltda.
+
+Dirección : Javiera Salas 4289,
+
+Estación Central,
+
+Santiago, Chile.
+
+Teléfono : +569 - 9079 0094.
+
+Taxímetro : Marca River, modelo
+
+RM-2005.
+
+Código de
+
+Acreditación: 3CV-ATX-RV-RM2-2025-009.
+
 Anótese y publíquese.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
