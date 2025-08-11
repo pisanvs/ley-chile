@@ -48,8 +48,6 @@ VER DIARIO OFICIAL DE 21.02.1996, PAGINAS 4 - 6 |!
 
 El presente arancel entrará en vigencia a contar del 1º de marzo de 1996, fecha en que quedará derogada la resolución exenta N° 982, de 31 de julio de 1986, del Ministerio de Salud.
 
-El numeral 2 de la Resolución 331 Exenta, Salud, publicada el 09.04.2026, actualiza los valores arancelarios establecidos en la tabla del apartado "II. Aranceles de Prestaciones", conforme a la manera dispuesta por la tabla inserta en la citada norma.
-
 > **Nota.** La RES 1176 exenta, Salud, publicada el 24.08.2001, modificó la presente norma en la forma que indica. Por restricciones técnico temporales no se ha podido elaborar su texto actualizado.
 
 > **Nota.** NOTA 1: La RES 161 Exenta, Salud, publicada el 05.05.2005, modificó la presente norma en la forma que indica. Por restricciones técnico temporales no se ha podido elaborar su texto actualizado.
@@ -85,5 +83,3 @@ El numeral 2 de la Resolución 331 Exenta, Salud, publicada el 09.04.2026, actua
 > **Nota.** NOTA 16 El Nº 1 de la Resolución 761 Exenta, Salud, publicada el 11.06.2024, modifica la presente norma en el sentido de actualizar los valores arancelarios, conforme a la manera dispuesta por la tabla inserta en la citada norma.
 
 > **Nota.** NOTA 17 El numeral 1 del Nº 1 de la Resolución 857 Exenta, Salud, publicada el 11.08.2025, actualiza los valores arancelarios establecidos en la tabla del apartado "II. Aranceles de Prestaciones", conforme a la manera dispuesta por la tabla inserta en la citada norma.
-
-> **Nota.** NOTA 18 El Nº 1 de la Resolución 331 Exenta, Salud, publicada el 09.04.2026, modifica la presente norma en el sentido de actualizar los valores arancelarios, conforme a la manera dispuesta por la tabla inserta en la citada norma.
