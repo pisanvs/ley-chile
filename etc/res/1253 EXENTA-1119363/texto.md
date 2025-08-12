@@ -34,7 +34,7 @@ A.- MATERIAS GENERALES DE BUEN SERVICIO, VISACIÓN Y SUSCRIPCIÓN DE OFICIOS DE 
 
 1. Firmar oficios dirigidos a funcionarios de un rango jerárquico no superior al de primer nivel jerárquico.
 
-2. Visación de los actos administrativos que aprueben los contratos referidos en el numeral 20) del presente artículo.
+2. Visación de los actos administrativos que aprueben los contratos y convenios suscritos por el Subsecretario(a) o por quien este(a) haya delegado dicha atribución.
 
 B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS PÚBLICAS
 
@@ -78,11 +78,7 @@ B.- MATERIAS RELACIONADAS CON CONTRATACIONES, PROCESOS LICITATORIOS Y COMPRAS P�
 
 20. Firmar los contratos con personas naturales y jurídicas cuyo monto total no exceda de 2.000 UTM.
 
-C.- MATERIAS DE PERSONAL
-
-21. Firmar las notificaciones, comunicaciones y/o avisos a los funcionarios de la Subsecretaría sobre asunción de funciones, medidas disciplinarias resultantes de investigaciones sumarias y sumarios administrativos debidamente afinados, encasillamientos y nombramientos.
-
-22. Firmar convenciones que modifiquen contratos o que aprueben resciliaciones o terminaciones jurídicas, salvo que impliquen aumentos del precio por montos superiores a los establecidos en el numeral 20).
+C.- Derogada.
 
 D.- MATERIAS RELACIONADAS CON RENDICIONES
 
@@ -98,9 +94,7 @@ F.- MATERIAS RELACIONADAS CON BIENES MUEBLES FISCALES
 
 26. Firmar las resoluciones que asignan vehículos a la Subsecretaría, que designen conductores a tales vehículos y que establezcan sus respectivos lugares de estacionamiento.
 
-G.- MATERIAS FINANCIERAS
-
-27. Firmar las resoluciones que aprueben o rechacen la elegibilidad de los institutos, centros tecnológicos o centros de transferencia tecnológica, en los términos previstos en el decreto supremo N° 68, de 23 de febrero de 2009, del ex Ministerio de Economía, Fomento y Reconstrucción, que aprobó el reglamento para la elegibilidad de instituciones receptoras de recursos provenientes de la provisión del Fondo de Innovación para la Competitividad, de decisión regional, y la pérdida o recuperación de la citada elegibilidad.
+G.- Derogada.
 
 #### Artículo segundo
 
@@ -138,11 +132,7 @@ Deléguese, según corresponda, en la (el) Jefa(e) de la División de Empresas d
 
 #### Artículo quinto
 
-Deléguese en los Secretarios Regionales Ministeriales de Economía, y en ausencia de éste, en la (el) Jefa(e) de la División Jurídica:
-
-1. La facultad de firmar bajo la fórmula "Por orden del Subsecretario", convenios con instituciones públicas para la ejecución de proyectos y programas correspondientes a la respectiva región; de aprobar las bases administrativas generales y especiales y los términos de referencia que sean necesarios para la ejecución de los referidos proyectos y programas; de suscribir todos los contratos necesarios para la ejecución de los mismos y de aprobar los informes y los trabajos correspondientes, como así también la administración de recursos de los referidos proyectos y programas.
-
-2. El ejercicio de la facultad referida en el artículo 5° de la ley N° 19.896, de visar los decretos o resoluciones que aprueben la contratación de personas naturales a honorarios en los órganos y servicios públicos incluidos en la ley de presupuestos y a las contrataciones en el mismo servicio con aplicación de lo dispuesto en la letra d) del artículo 81 de la ley N° 18.834.
+Derogado.
 
 #### Artículo sexto
 
