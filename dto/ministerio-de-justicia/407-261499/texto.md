@@ -108,17 +108,19 @@ c) CENTRO DE INTERNACION PROVISORIA: en el inmueble ubicado en Ruta Temuco-Chol 
 
 X.- DECIMA REGION:
 
-a) CENTROS PARA LA INTERNACION EN REGIMEN CERRADO: los que se ubicarán en los siguientes domicilios: VALDIVIA: Loteo Sector Las Gaviotas, Kilómetro 3.2, comuna de Valdivia.
-
-PUERTO MONTT: en Panamericana Norte Nº 1039, Camino a Chin Chin, comuna de Puerto Montt.
-
-b) CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en Panamericana Norte Nº 1039, Camino a Chin Chin, comuna de Puerto Montt.
-
-c) CENTROS DE INTERNACION PROVISORIA: los que se ubicarán en los siguientes domicilios:
+a) CENTROS PARA LA INTERNACIÓN EN RÉGIMEN CERRADO: los que se ubicarán en los siguientes domicilios:
 
 VALDIVIA: Loteo Sector Las Gaviotas, Kilómetro 3.2, comuna de Valdivia.
 
-PUERTO MONTT: en Panamericana Norte Nº 1039, Camino a Chin Chin, comuna de Puerto Montt.
+PUERTO MONTT: en Sector Alto Bonito, Km. 1.025, Ruta 5, tramo Puerto Montt - Pargua, comuna de Puerto Montt.
+
+b) CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en Panamericana Norte Nº 1039, Camino a Chin Chin, comuna de Puerto Montt.
+
+c) CENTROS DE INTERNACIÓN PROVISORIA: los que se ubicarán en los siguientes domicilios:
+
+VALDIVIA: Loteo Sector Las Gaviotas, Kilómetro 3.2, comuna de Valdivia.
+
+PUERTO MONTT: en Sector Alto Bonito, Km. 1.025, Ruta 5, tramo Puerto Montt - Pargua, comuna de Puerto Montt
 
 XI.- UNDECIMA REGION:
 
