@@ -150,31 +150,37 @@ Otras Prestaciones
 
 El Servicio de Bienestar, siempre que las disposiciones presupuestarias lo permitan, podrá otorgar las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fueren afiliados, se otorgará la ayuda sólo a uno de ellos. b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Servicio de Bienestar, tendrá derecho al beneficio sólo uno de ellos.
+a) Matrimonio o acuerdo de unión civil: Cuando el afiliado contraiga matrimonio o unión civil. Si ambos contrayentes o convivientes civiles fueren afiliados, se otorgará el beneficio sólo a uno de ellos;
 
-c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, de su cónyuge y de cada una de sus cargas familiares, incluido el mortinato, a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Servicio de Bienestar, tendrá derecho al beneficio sólo uno de ellos.
+
+c) Adopción de un hijo o hija: Se concederá una ayuda por la adopción de cada hijo o hija. Si ambos padres estuvieren afiliados al Servicio de Bienestar, tendrá derecho al beneficio sólo uno de ellos;
+
+d) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, de su cónyuge o conviviente civil y de cada una de sus cargas familiares, incluido el mortinato y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1º A la persona designada expresamente para tales efectos por el afiliado;
+1° A la persona designada expresamente para tales efectos por el afiliado;
 
-2º Al cónyuge sobreviviente;
+2° Al cónyuge sobreviviente o conviviente civil;
 
-3º A los hijos;
+3° A los hijos;
 
-4º A los padres;
+4° A los padres;
 
-5º Si no existieren beneficiarios, el Servicio de Bienestar podrá efectuar directamente el pago de los gastos de funeral hasta la concurrencia de la ayuda o bien otorgar ésta a la persona que acredite haberlo efectuado;
+5° Si no existieren beneficiarios, el Servicio de Bienestar podrá efectuar directamente el pago a los gastos del funeral hasta la concurrencia de la ayuda o bien otorgar ésta a la persona que acredite haberlo efectuado;
 
-d) Educación: Se concederá una asignación de educación a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles prebásico, básico, medio, técnico o en educación superior, en algún establecimiento del Estado o reconocido por éste;
+e) Educación: Se concederá una asignación de educación a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles prebásico, básico, medio, técnico o en educación superior, en algún establecimiento del Estado o reconocido por éste;
 
-Se entenderá por niveles prebásicos: nivel medio menor, nivel medio mayor, primer nivel de transición (pre-kinder) y segundo nivel de transición (kinder).
+Se entenderá por niveles prebásicos: nivel medio |menor, nivel medio mayor, primer nivel de transición (pre-kinder) y segundo nivel de transición (kinder).
 
-e) Becas de estudio: El Servicio de Bienestar podrá otorgar becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar;
+f) Becas de estudio: El Servicio de Bienestar podrá otorgar becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar;
 
-f) Ayuda Médica: En caso de enfermedad grave o tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 8º de este Reglamento;
+g) Ayuda Médica: En caso de enfermedad grave o tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 8º de este Reglamento;
 
-g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar;
+h) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar;
+
+i) Desgravamen: En caso de fallecimiento de una persona afiliada al Servicio de Bienestar, se entenderán condonadas automáticamente todas las deudas que tuvieren pendientes con préstamos entregados por el Servicio de Bienestar, los cuales corresponden a los mencionados en el artículo 13, letras a), b), c) y d).
 
 El monto y procedimiento específico de estas ayudas será aprobado por el Consejo Administrativo, conforme a lo señalado en la letra g) del artículo 29 del Reglamento General.
 
@@ -232,7 +238,7 @@ El Consejo Administrativo establecerá anualmente el monto máximo y las condici
 
 Para conceder un préstamo, el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados.
 
-Para respaldar las deudas, de cualquier monto, contraídas con el Servicio de Bienestar, el afiliado requerirá la presentación de dos codeudores solidarios. Estos deberán ser funcionarios de planta o contrata de la Institución, con antigüedad mínima de 3 meses en el Servicio de Bienestar y tener una renta imponible que, evaluada por el Servicio de Bienestar, permita avalar la(s) deuda(s) contraída.
+Para respaldar las deudas, de cualquier monto, contraídas con el Servicio de Bienestar, el afiliado requerirá la presentación de un codeudor solidario. Estos deberán ser funcionarios de planta o contrata de la Institución, con antigüedad mínima de 3 meses en el Servicio de Bienestar y tener una renta imponible que, evaluada por el Servicio de Bienestar, permita avalar la(s) deuda(s) contraída.
 
 Para solicitar cualquier tipo de préstamo el afiliado deberá tener por lo menos seis tres (3) de afiliación ininterrumpida al Servicio de Bienestar. Excepcionalmente, se prescindirá de dicho plazo de afiliación, si así lo autoriza el Consejo Administrativo, previo informe del Jefe del Servicio de Bienestar.
 
@@ -258,7 +264,7 @@ Corresponderá al Consejo Administrativo determinar los procedimientos y/o docum
 
 #### Artículo 18º
 
-El derecho a solicitar los beneficios que concede el Servicio de Bienestar se extinguirá luego de transcurridos seis (6) meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
+El derecho a solicitar los beneficios que concede el Servicio de Bienestar se extinguirá luego de transcurridos diez (10) meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
 
