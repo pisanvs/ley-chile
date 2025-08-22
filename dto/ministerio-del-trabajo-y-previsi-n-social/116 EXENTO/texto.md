@@ -16,7 +16,7 @@ Del Servicio de Bienestar
 
 #### Artículo 1°
 
-El Servicio de Bienestar del Servicio de Evaluación Ambiental, en adelante "el Servicio", tendrá por objeto propender al mejoramiento de las condiciones de vida de los afiliados y sus cargas familiares legalmente acreditadas y al perfeccionamiento social y humano de los mismos.
+La Unidad de Calidad de Vida y Bienestar del Servicio de Evaluación Ambiental, en adelante, indistintamente "la Unidad de Calidad de Vida y Bienestar o el Servicio de Bienestar", tendrá por objeto propender al mejoramiento del bienestar del afiliado/a y sus causantes de asignación familiar legalmente acreditados, cooperando a su adaptación al medio y elevando sus condiciones de vida, en la medida que sus recursos presupuestarios lo permitan.
 
 #### Artículo 2°
 
@@ -24,15 +24,9 @@ Para el cumplimiento de sus fines le corresponderá:
 
 a) Proporcionar asistencia médica, social o económica a sus afiliados y a
 
-sus cargas familiares legalmente acreditadas, de acuerdo con las normas
+sus causantes de asignación familiar legalmente acreditados, de acuerdo con las normas que se establecen en el presente Reglamento.
 
-que se establecen en el presente Reglamento.
-
-b) Fomentar mediante acciones concretas, el perfeccionamiento social y
-
-cultural de sus afiliados.
-
-c) Fomentar actividades recreativas, culturales, deportivas y de
+B) Fomentar actividades recreativas, culturales, deportivas y de
 
 esparcimiento de sus afiliados.
 
@@ -74,6 +68,18 @@ Los representantes de los afiliados durarán dos años en sus funciones y podrá
 
 Para ser elegido representante de los afiliados se requiere que el afiliado tenga una antigüedad no inferior a seis meses en el Servicio; y no ser el Jefe(a) de Bienestar, además de los requisitos indicados en el artículo 20 del Reglamento General.
 
+Los representantes de los afiliados/as cesarán sus cargos:
+
+a) Por Muerte;
+
+b) Por renuncia;
+
+c) Por término del período de su mandato;
+
+d) Por pérdida de alguno de los requisitos para ser elegido representante de los afiliados/as, o por inhabilidad sobreviniente, y
+
+e) Por inasistencia, sin causa justificada, a tres sesiones consecutivas del Consejo Administrativo.
+
 #### Artículo 5°
 
 El Consejo Administrativo, además de las funciones establecidas en el artículo 29 del Reglamento General, tendrá las siguientes funciones:
@@ -90,7 +96,13 @@ y funcionamiento del Servicio.
 
 #### Artículo 6°
 
-El Consejo Administrativo sesionará ordinariamente una vez al mes, en el día, hora y lugar que fijen sus miembros en la primera sesión del año. Las sesiones extraordinarias serán convocadas por el Jefe(a) del Servicio mediante citación escrita, o por correo electrónico, con una antelación de al menos un día.
+El Consejo Administrativo sesionará ordinariamente una vez al mes, en el día, hora y lugar que fijen sus miembros en la primera sesión del año.
+
+Las sesiones extraordinarias serán convocadas por el/la Jefe/a del Servicio, cuando proceda, y en conformidad al artículo 23 del Reglamento General, mediante citación escrita o por correo electrónico, con una antelación de al menos un día.
+
+El Consejo Administrativo sesionará con la mayoría absoluta de sus miembros y sus acuerdos se adoptarán, en general, por simple mayoría, salvo las excepciones consignadas en el presente reglamento y en el Reglamento General. En caso de empate, decidirá el voto de quien presida.
+
+El Consejo Administrativo podrá, si lo estima conveniente, invitar a sus sesiones a personas que, por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
 
 ## Título III
 
@@ -106,47 +118,49 @@ Presupuesto del Servicio de Evaluación Ambiental, en conformidad a la
 
 legislación vigente.
 
-b) Una cuota de incorporación que fijará anualmente el Consejo
+b) Una cuota de incorporación que fijará anualmente el Consejo Administrativo, que deberán
 
-Administrativo que deberán pagar los afiliados al ingresar al Servicio.
+pagar los/las afiliados/as al ingresar al Servicio de Bienestar. Se cancelará por una sola
 
-Se cancelará por una sola vez y no podrá ser superior al 1,5% de la
+vez y no podrá ser superior al 3% de la remuneración imponible para pensiones, la que podrá
 
-remuneración imponible para pensiones, la que podrá ser descontada en 2
+ser descontada en 2 meses;
 
-meses.
+c) El aporte mensual de sus afiliados/as en servicio activo no podrá exceder el 3% de sus
 
-c) El aporte mensual de sus afiliados en servicio activo que lo fijará
+remuneraciones mensuales imponibles para pensiones, porcentaje que fijará anualmente el
 
-cada año el Consejo Administrativo que no podrá exceder el 1,5% de sus
+Consejo Administrativo, y será descontado por planilla;
 
-remuneraciones mensuales imponibles para pensiones, descontadas de sus
+d) Los aportes o cuotas extraordinarias de los/las afiliados/as acordadas por el Consejo
 
-planillas.
+Administrativo. En ningún caso éstos podrán exceder del 2% de las remuneraciones mensuales
 
-d) Los aportes o cuotas extraordinarias de los afiliados acordadas por el
+imponibles para pensiones o de las pensiones de jubilación de los/las afiliados/as, según
 
-Consejo Administrativo. En ningún caso éstos podrán exceder del 1,0% de
+corresponda. El monto de la cuota extraordinaria sumada a la cuota ordinaria no podrá exceder
 
-las remuneraciones mensuales imponibles para pensiones o de las
+el monto máximo fijado para la segunda;
 
-pensiones de jubilación de los afiliados, según corresponda. El monto
+e) El aporte mensual de los/las afiliados/as jubilados/as, no podrá exceder el 2% de sus
 
-de la cuota extraordinaria sumado a la cuota ordinaria no podrá exceder
+pensiones, el que será fijado anualmente por el Consejo Administrativo. Además, los/las
 
-el monto máximo fijado para la segunda.
+jubilados/as aportarán en doce cuotas iguales la cantidad correspondiente al aporte
 
-e) El aporte mensual de sus afiliados jubilados, de hasta el 1,5% de sus
+institucional anual que será de su cargo. Los/as funcionarios/as que obtengan pensión
 
-pensiones, el que será fijado anualmente por el Consejo Administrativo.
+habiendo sido a lo menos por 5 o más años afiliados al Servicio, no pagarán el aporte
 
-Además, los jubilados aportarán en doce cuotas iguales la cantidad
+institucional anual. Por otra parte, los/las afiliados/as jubilados/as que decidan continuar
 
-correspondiente al aporte institucional anual que será de su cargo. Los
+con la cobertura del plan complementario de salud, dental, de vida y catastrófico que ofrece
 
-funcionarios que obtengan pensión habiendo sido a lo menos por 5 o más
+el Servicio de Bienestar, deberán aportar el valor de la prima del respectivo plan, y
 
-años afiliados al Servicio, no pagarán el aporte institucional anual.
+aquellos afiliados/as jubilados/as que decidan no continuar con dicha cobertura estarán
+
+exentos de este aporte.
 
 f) Los intereses de los préstamos que otorgue el Servicio a sus afiliados.
 
@@ -162,11 +176,17 @@ i) Los demás bienes o recursos que el Servicio obtenga a cualquier título.
 
 j) Los aportes que legalmente se dispongan en el futuro para el Servicio.
 
+k) Aquellos dineros que generen de los fondos provenientes de las operaciones del artículo 8,
+
+inciso final.
+
 #### Artículo 8°
 
 Los fondos del Servicio se depositarán en cuentas corrientes bancarias subsidiarias de la cuenta única fiscal del Banco Estado de Chile. Contra ella podrán girar, conjuntamente, el Jefe(a) del Servicio y el funcionario(a) designado por el Consejo Administrativo, quien no podrá ser el Contador(a) del Servicio.
 
 En caso de ausencia o impedimento de los giradores mencionados, éstos serán reemplazados por los funcionarios que el Consejo Administrativo haya designado en calidad de suplentes.
+
+Eventualmente, y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio de Bienestar podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad con lo dispuesto en el articulo 3° del decreto ley N°1.056, de 1975, y sus modificaciones, previa autorización del Ministerio de Hacienda, y sólo respecto de los recursos provenientes de ventas de activos o excedentes estacionales de caja, conforme lo dispone el artículo 2° del decreto ley N°1.263, de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los afiliados/as. El monto de las inversiones y la forma en que serán depositados será determinado por el Consejo Administrativo anualmente.
 
 ## Título IV
 
@@ -234,15 +254,15 @@ De la Atención Económica
 
 #### Artículo 10°
 
-El Servicio otorgará las siguientes ayudas no sujetas a restitución, conforme a los montos establecidos en el presupuesto anual para cada caso.
+El Servicio, siempre que las disponibilidades presupuestarias lo permitan, otorgará las siguientes ayudas no sujetas a restitución, conforme a los montos establecidos en el presupuesto anual para cada caso:
 
-a) Matrimonio: Se concederá al afiliado que contraiga matrimonio y se
+a) Matrimonio o Acuerdo de Unión Civil: Se considerará una ayuda, por una sola vez, cuando el/la
 
-acreditará con el correspondiente certificado. Si ambos contrayentes
+afiliado/a contraiga matrimonio o celebre acuerdo de unión civil, lo que acreditará mediante
 
-fueren afiliados al Servicio, ambos tendrán derecho a solicitar el
+el correspondiente certificado. Si ambos contrayentes o celebrantes fueran funcionarios/as
 
-beneficio íntegro en forma independiente.
+del Servicio, ambos tendrán derecho a solicitar el beneficio íntegro en forma independiente.
 
 b) Nacimiento o adopción: Se concederá al afiliado que acredite, mediante
 
@@ -254,15 +274,15 @@ Servicio, cada uno tendrá derecho a recibir el beneficio íntegro en
 
 forma independiente.
 
-c) Estudios: Se concederá una asignación de escolaridad a todos los
+c) Estudios: Se concederá una asignación de escolaridad a todos los afiliados/as y causantes de
 
-afiliados y cargas familiares que se encuentren cursando estudios
+asignación familiar legalmente acreditados que se encuentren cursando estudios regulares en
 
-regulares en los niveles prebásico (Kinder) básico, medio, técnico o de
+los niveles prebásico (prekínder - kínder), básico, medio, técnico y de educación superior,
 
-educación superior, en algún establecimiento del Estado o reconocido
+en algún establecimiento del Estado o reconocido por éste, previa presentación de certificado
 
-por éste, previa presentación de certificado de alumno regular.
+de alumno regular.
 
 d) Becas de Estudio: El Servicio podrá otorgar becas de estudios por
 
@@ -330,85 +350,77 @@ automáticamente las deudas que tuviere pendiente con el Servicio por
 
 concepto de préstamos que éste le hubiere otorgado.
 
+h) Apoyo Educativo Especial: Se otorgará una asignación especial de escolaridad a todos los
+
+causantes de asignación familiar que acrediten presentar una condición de necesidades
+
+educativas especiales (NEE) y se encuentren cursando estudios regulares en los niveles
+
+prebásico (prekínder - kínder), básico, medio, técnico o de educación superior, en algún
+
+establecimiento del Estado o reconocido por éste, previa presentación de certificado de
+
+alumno regular. Dentro de las cuales se encuentran:
+
+- Déficit visual
+
+- Déficit mental
+
+- Déficit auditivo
+
+- Trastorno o déficit motor
+
+- Graves alteraciones de la capacidad de relación y comunicación.
+
 ### Párrafo 3°
 
 De los Préstamos
 
 #### Artículo 11°
 
-El Servicio podrá conceder los siguientes préstamos reajustables en Unidades de Fomento a sus afiliados, cuando sus recursos lo permitan. En el evento que la Unidad de Fomento dejase de existir, los préstamos se reajustarán de acuerdo a la variación que experimente el índice que la sustituya, fijado por el Instituto Nacional de Estadísticas o el organismo que lo reemplace.
+El Servicio de Bienestar podrá conceder préstamos reajustables o no, en pesos ($) a sus afiliados/as, de acuerdo con la disponibilidad presupuestaria con la que cuente.
 
-a) Préstamos médicos y odontológicos: Se otorgarán como complemento de las
+a) Préstamos médicos y odontológicos: Se otorgarán como complemento de las prestaciones a que se refiere el artículo 9° de este Reglamento.
 
-prestaciones a que se refiere el artículo 9° de este Reglamento.
+b) Préstamos de Emergencia: Se otorgarán con el objetivo de complementar gastos o imprevistos diversos que afecten a los afiliados/as. Las solicitudes serán debidamente calificadas por el Jefe/a del Servicio.
 
-b) Préstamos personales: Se otorgarán con el objetivo de complementar
+c) Préstamos habitacionales: Se podrán otorgar préstamos para fines habitacionales, tales como constituir ahorro previo para el financiamiento de la adquisición de una vivienda, pago de cuotas al contado o saldos de precio en operaciones de compra de propiedades.
 
-gastos o imprevistos diversos que afecten a los afiliados. Las
+Además, se otorgarán para obras de reparación, ampliación o terminación de una vivienda que habite el afiliado o su grupo familiar.
 
-solicitudes serán debidamente calificadas por el Jefe(a) del Servicio.
-
-c) Préstamos habitacionales: Se podrán otorgar préstamos para fines
-
-habitacionales, tales como constituir ahorro previo para el
-
-financiamiento de la adquisición de una vivienda, pago de cuotas al
-
-contado o saldos de precio en operaciones de compra de propiedades.
-
-Además, se otorgarán para obras de reparación, ampliación o terminación
-
-de una vivienda que habite el afiliado o su grupo familiar.
+Los montos máximos de préstamos, su carácter de reajustables o no, y la determinación de su tasa de interés, si la hubiera, será fijada anualmente por el Consejo Administrativo, de conformidad con la ley N°18.010, que establece normar para las operaciones de crédito y otras obligaciones de dinero que indica.
 
 #### Artículo 12°
 
 Los montos y topes máximos de los beneficios señalados en los artículos 9°, 10° y 11° de este Reglamento, serán fijados anualmente por el Consejo Administrativo, de acuerdo a sus disponibilidades presupuestarias.
 
-Para conceder un préstamo, será requisito indispensable la constitución de la garantía de un codeudor solidario, que sea funcionario de planta o contrata del Servicio de Evaluación Ambiental afiliado a este Servicio. La solvencia de ambos será calificada por el Jefe(a) del Servicio.
-
-Para solicitar cualquier tipo de préstamo, el afiliado deberá contar por lo menos con seis meses de afiliación en el Servicio.
+Estos préstamos se otorgarán con la garantía de dos codeudores/as solidarios que sean afiliados/as al Servicio de Bienestar y que tengan al menos seis meses de antigüedad en la afiliación.
 
 El pago de los préstamos deberá hacerse hasta un máximo de doce cuotas mensuales sucesivas, las que serán descontadas a partir del mes siguiente al de su otorgamiento.
 
+Sin embargo, un afiliado o afiliada al Servicio de Bienestar no podrá actuar como codeudor/a solidario/a en más de dos préstamos de otros afiliados en un año calendario.
+
 ### Párrafo 4°
 
-Otras Prestaciones
+Beneficios facultativos
 
 #### Artículo 13°
 
 Cuando las disponibilidades presupuestarias del Servicio así lo permitan, el Consejo Administrativo podrá acordar asignar recursos orientados a los siguientes objetivos:
 
-a) Desarrollar actividades culturales, sociales, físicas, recreacionales y
+a) Desarrollar actividades culturales, sociales y/o recreacionales, o en su defecto la entrega de bono sujeto a la entrega de documento contable que sustente la participación o adquisición de alguna de las actividades antes mencionadas.
 
-deportivas.
+b) Desarrollar actividades físicas y/o deportivas, o en su defecto la entrega de bono sujeto a la entrega de documento contable que sustente la participación o adquisición de alguna de las actividades mencionadas.
 
-b) Participación en la organización y/o financiamiento de la celebración
+c) Desarrollar actividades de celebración y/o reconocimiento, tales como: Día de la mamá, Día del papá, Día del trabajador, Día de la mujer, Mes del niño/a, cumpleaños de los/las afiliados/as, aniversario del Servicio de Bienestar, entre otros. O en su defecto la entrega de obsequio, gift card y/o bono.
 
-de las festividades de aniversario del Servicio de Bienestar.
+d) El Servicio de Bienestar podrá organizar una actividad de celebración de Navidad para los afiliados/as y sus hijos/as hasta los 12 años, o bien otorgar gift card, bono u obsequio.
 
-c) Participación de las Fiestas Patrias.
+e) El Servicio de Bienestar podrá participar y/o aportar en la celebración de fiestas patrias un monto en dinero según disponibilidad presupuestaria.
 
-d) Organizar la Fiesta de Navidad para los afiliados del Servicio de
+f) El Servicio podrá celebrar convenios con otros Servicios de Bienestar, o con profesionales, u otras entidades públicas o privadas que otorguen prestaciones de bienestar social, del área de la salud o seguridad social, cultural, social, física, recreacional y deportiva.
 
-Bienestar y sus cargas familiares hasta 12 años.
-
-e) El Servicio podrá celebrar convenios con otros Servicios de Bienestar,
-
-o con profesionales, u otras entidades públicas o privadas que otorguen
-
-prestaciones de bienestar social, del área de la salud o seguridad
-
-social, cultural, social, física, recreacional y deportiva,
-
-f) El Servicio podrá administrar colonias, refugios, casas de huéspedes,
-
-jardines infantiles, policlínicos, postas dentales u otras
-
-instalaciones que sean destinadas al uso de sus beneficiarios, quedando
-
-expresamente excluida de dicha facultad la contratación de personal,
-
-que corresponderá al Servicio de Evaluación Ambiental.
+g) El Servicio podrá administrar colonias, refugios, casas de huéspedes, jardines infantiles, policlínicos, postas dentales u otras instalaciones que sean destinadas al uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal, que corresponderá al Servicio de Evaluación Ambiental.
 
 Los beneficios a que se refiere la letra a) podrán otorgarse, mediante bonificaciones o ayudas, sólo para actividades grupales o individuales en que se haya convocado y toda vez que los beneficios se otorgan a los afiliados.
 
@@ -418,9 +430,13 @@ Disposiciones Generales
 
 #### Artículo 14°
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de ingreso y una vez que el Consejo Administrativo apruebe su solicitud.
+Los afiliados/as tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio de Bienestar a contar de la fecha de ingreso y una vez que el Consejo Administrativo apruebe su solicitud.
 
-El derecho a solicitar los beneficios que concede el Servicio caducará luego de transcurridos diez meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos. Lo anterior será aplicable a los afiliados activos o jubilados.
+Los demás beneficios podrán solicitarse luego de haber transcurrido seis meses desde la afiliación al Servicio de Bienestar o dentro de los plazos establecidos en el presente reglamento. Con todo y en forma excepcional, se podrá prescindir de los plazos establecidos precedentemente, si así lo autoriza el Consejo Administrativo, en consideración de la situación especial del afiliado/a.
+
+Corresponderá al Consejo Administrativo determinar los procedimientos y/o documentos que los/as afiliados/as deberán presentar para acreditar el cumplimiento de los requisitos establecidos en el Reglamento para la obtención de cualquier beneficio, sin que ello pueda significar la privación, limitación o restricción de los beneficios establecidos en el presente reglamento.
+
+El derecho a solicitar los beneficios que concede el Servicio se caducará luego de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que invoque para solicitarlos. Lo anterior será aplicable a los afiliados/as activos o jubilados.
 
 #### Artículo 15°
 
