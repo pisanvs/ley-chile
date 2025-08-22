@@ -58,7 +58,7 @@ Los representantes de los afiliados que integren el Consejo Administrativo, ser�
 
 Cada afiliado votará por una sola persona y se elegirán como representantes de los afiliados aquellos que obtengan las más altas mayorías. En caso de empate, será electo el afiliado más antiguo en el Servicio de Bienestar y en caso de persistir el empate, se considerará la antigüedad en la Agencia de Calidad de la Educación. Se entenderán elegidos como suplentes aquellos que sigan en el orden de las votaciones obtenidas y reemplazarán a los titulares, cuando proceda, siguiendo el mismo orden.
 
-Los representantes titulares y suplentes de los afiliados que sean elegidos por votación popular, durarán dos años en sus funciones y no podrán ser reelectos para el período siguiente.
+Los representantes titulares y suplentes de los afiliados que sean elegidos por votación popular, durarán dos años en sus funciones y podrán ser reelectos hasta por dos periodos adicionales.
 
 #### Artículo 6°
 
@@ -160,7 +160,7 @@ Subsidios de carácter social
 
 #### Artículo 12
 
-El Servicio de Bienestar podrá otorgar las siguientes ayudas, no sujetas a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
+El Servicio de Bienestar podrá otorgar las siguientes ayudas o asignaciones en dinero o especie en lo sucesivo "ayudas", no sujetas a restitución, por las causales y de acuerdo con las modalidades que a continuación se indican:
 
 a) Nacimiento o Adopción: Se concederá una ayuda por el nacimiento o adopción de cada hijo. Si ambos padres fuesen afiliados, se pagará el beneficio sólo al afiliado que lo registre como carga. En caso de nacimientos o adopciones múltiples, se otorgarán tantas ayudas, como hijos nazcan o se adopten. En el caso de la adopción, la ayuda podrá solicitarse una vez que se haya otorgado la tuición para la adopción del menor o se le reconozca como carga familiar;
 
@@ -190,6 +190,8 @@ h) Catástrofe: Se concederá ayuda en dinero o especies, al afiliado que sufran
 
 i) Condonación de Deudas: En caso de fallecimiento de un afiliado se entenderán automáticamente condonadas todas las deudas que tuviere con el Servicio.
 
+j) De vacaciones: Se podrá otorgar una ayuda en dinero o especie, al afiliado que hubiere solicitado y hecho efectivo su feriado legal en todo o parte, en el año calendario del presupuesto vigente, de acuerdo a lo establecido por el Consejo Administrativo de Bienestar.
+
 #### Artículo 13
 
 El monto y las condiciones en que se otorgarán los beneficios señalados en el artículo anterior se establecerán anualmente por el Consejo Administrativo. Del mismo modo se establecerán los procedimientos para solicitar y otorgar dichos beneficios.
@@ -218,7 +220,7 @@ e) Personales: Se podrán otorgar con el objeto de propender al mejoramiento de 
 
 #### Artículo 15
 
-Los montos máximos de los préstamos señalados en el artículo anterior, serán determinados anualmente por el Consejo Administrativo, y deberán reintegrarse en un plazo máximo de treinta y seis (36) meses, considerando sus distintos montos y circunstancias, en cuotas mensuales, iguales y sucesivas que serán descontadas a partir del mes siguiente al de su otorgamiento. Los préstamos devengarán el interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorgue el préstamo de que se trate. Tanto para el caso de las ayudas como de los préstamos, el Consejo Administrativo deberá elaborar la reglamentación necesaria en la que se especifique la documentación requerida para su obtención, plazos, etc. Sin perjuicio de lo anterior, para solicitar cualquier préstamo se requiere una antigüedad de, a lo menos, seis (6) meses como afiliados y la constitución de la garantía de dos codeudores solidarios que sean afiliados al Servicio de Bienestar de la Agencia de Calidad de la Educación.
+Los montos máximos de los préstamos señalados en el artículo anterior, serán determinados anualmente por el Consejo Administrativo, y deberán reintegrarse en un plazo máximo de treinta y seis (36) meses, considerando sus distintos montos y circunstancias, en cuotas mensuales, iguales y sucesivas que serán descontadas a partir del mes siguiente al de su otorgamiento. Los préstamos devengarán el interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorgue el préstamo de que se trate. Tanto para el caso de las ayudas como de los préstamos, el Consejo Administrativo deberá elaborar la reglamentación necesaria en la que se especifique la documentación requerida para su obtención, plazos, etc. Sin perjuicio de lo anterior, para solicitar cualquier préstamo se requiere una antigüedad de, a lo menos, seis (6) meses como afiliados y la constitución de la garantía de uno o dos codeudores solidarios que sean afiliados al Servicio de Bienestar de la Agencia de Calidad de la Educación.
 
 ### Párrafo 4°
 
@@ -230,13 +232,15 @@ El Servicio podrá:
 
 a) Administrar guarderías escolares, casas de huéspedes, policlínicos, refugios, casinos del personal, complejos deportivos, complejos recreativos, centros vacacionales, gimnasios, centros culturales, salas y salones que la Agencia de Calidad de la Educación adquiera a cualquier título, o que ésta u otra institución le asigne para estos fines y que sea para beneficio de sus afiliados;
 
-b) Financiar eventos culturales, deportivos, recreativos, artísticos y sociales que propendan el adecuado uso del tiempo libre de sus afiliados y cargas familiares;
+b) Patrocinar, organizar, asesorar, financiar y/o subvencionar actividades culturales, deportivas, recreativas, educativas, artísticas, espirituales y sociales;
 
-c) Patrocinar, asesorar y financiar cursos de desarrollo personal, actividades culturales y artísticas;
+c) Coordinar, financiar y/o subsidiar talleres que propendan a la promoción y mejoramiento de la calidad de vida de los afiliados y sus cargas familiares;
 
-d) Organizar y financiar celebraciones de Navidad y la adquisición de obsequios para sus afiliados e hijos cargas familiares hasta edades y montos que anualmente fije el Consejo Administrativo, y
+d) Patrocinar, promover, coordinar y financiar celebraciones de fechas especiales tales como Fiestas Patrias, Navidad, Año nuevo, Cumpleaños y otras actividades similares definidas por el Consejo Administrativo;
 
-e) Organizar, promover y financiar actividades de estímulo para sus afiliados.
+e) Otorgar a sus afiliados y cargas familiares obsequios en especies o dinero para ocasiones especiales tales como: Cumpleaños, Fiestas Patrias, Navidad, Día del Niño, Día para celebrar reconocimiento de gran labor en el Servicio, Día de la Mujer, Día del Padre, Día de la Madre, Día del Trabajador, fiestas tradicionales, y otros similares aprobados por el Consejo Administrativo, y
+
+f) Otorgar beneficios para los afiliados(as) tales como: tarjeta precargada para compra en distintos comercios que propendan a mejorar la economía y representen una ayuda económica de los afiliados(as) y sus cargas familiares.
 
 #### Artículo 17
 
