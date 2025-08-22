@@ -36,7 +36,9 @@ El Consejo Administrativo del Servicio de Bienestar estará constituido por 6 mi
 
 a) Director del Servicio de Salud, o la persona que designe en su reemplazo, quien lo presidirá;
 
-b) Jefe del Departamento de Recursos Humanos; y c) Jefe de Departamento designado por el Director del Servicio.
+b) Jefe del Departamento de Recursos Humanos; y
+
+c) jefe del Departamento Jurídico o asesor jurídico que éste designe.
 
 #### Artículo 5º
 
@@ -70,61 +72,43 @@ De los beneficios
 
 #### Artículo 8º
 
-El Servicio de Bienestar otorgará al afiliado y sus cargas familiares, según su disponibilidad presupuestaria, los beneficios médicos que establece el artículo 15 del Reglamento General.
+El Servicio de Bienestar, otorgará al afiliado y sus causantes de asignación familiar debidamente acreditados, según disponibilidad presupuestaria, los beneficios médicos y odontológicos que establece el artículo 15 del Reglamento General.
 
 #### Artículo 9º
 
-Este Servicio de Bienestar, otorgará las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
+Este Servicio de Bienestar otorgará las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-a) Matrimonio: Cuando el afiliado contraiga matrimonio.
+a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
 
-Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente;
+b) Acuerdo de unión civil o contrato equivalente: Cuando el afiliado celebre el acuerdo o contrato. Si ambos contrayentes fueran afiliados, se otorgará ayuda a cada uno de ellos.
 
-b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
+c) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Tal beneficio será otorgado también para el caso de las adopciones legales y para quienes obtengan a través de Tribunales de Familia el cuidado personal del menor recién nacido de manera permanente o hasta los 2 años. Si ambos padres estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de nacimientos múltiples, se otorgarán tantas ayudas como hijos, adopciones y cuidado personal permanente de menor recién nacido.
 
-En caso de nacimientos múltiples, se otorgarán tantas ayudas como hijos nazcan;
-
-c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, de su cónyuge y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
+d) Fallecimiento: El Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias, concederá una ayuda por el fallecimiento del afiliado, de su cónyuge o conviviente civil, de sus padres y de cada uno de sus hijos, causantes de asignación familiar debidamente acreditados, asimismo al recién nacido, que no hubiere sido aún reconocido como carga legal.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1. A la persona designada expresamente para tales efectos por el afiliado;
+1. Al cónyuge o conviviente civil sobreviviente;
 
-2. Al cónyuge sobreviviente
+2. A los hijos;
 
-3. A los hijos legítimos
+3. A los padres o quien fuese su tutor legal;
 
-4. A los hijos naturales
+4. Si no existiesen beneficiarios, el Servicio de Bienestar podrá efectuar directamente el pago de los gastos de funeral hasta la concurrencia de la ayuda o bien otorgar ésta a la persona que acredite haberlos efectuado.
 
-5. A los padres legítimos
+e) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por este. En el caso de estudiantes de educación superior se pagará el 50% del ítem en cada semestre del año.
 
-6. A la persona que acredite haber efectuado los gastos del funeral.
+f) Becas de estudio: Si el presupuesto lo permite, el Servicio de Bienestar podrá otorgar becas de estudio a los afiliados y sus cargas familiares, de acuerdo a las bases que establezca el Consejo Administrativo anualmente.
 
-El Consejo Administrativo, de acuerdo a las disponibilidades presupuestarias, podrá autorizar este beneficio por el fallecimiento del padre o madre del afiliado, siempre que compruebe que él realizó los gastos de sepultación.
+g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves en su domicilio a consecuencias de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos documentos oficiales, tales como parte de Bomberos, Carabineros de Chile, e informe social del Trabajo/Asistente Social de atención de personal que constate el hecho.
 
-d) Adquisición de Nicho-Bóveda: Se podrá otorgar una ayuda para adquisición de nicho-bóveda al funcionario que careciera de él.
+h) Ayuda médica: En caso de enfermedad grave y/o tratamiento médico prolongado de alto costo producto de una enfermedad catastrófica o bien no contemplada dentro de los programas de salud ministerial, que afecten al socio o a sus causantes de asignación familiar debidamente acreditadas, calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones aludidas en el artículo 8° de este Reglamento.
 
-e) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiendo educacional del Estado o reconocido por éste. En el caso de estudiantes de educación superior se cancelará el 50% del ítem en cada semestre del año;
-
-f) Becas de Estudio: Si el presupuesto lo permite, la Comisión Administrativa del Bienestar podrá otorgar becas de estudios a los afiliados y sus cargas familiares, que acrediten:
-
-1.- Excelencia académica: educación básica y media, promedio de notas igual o superior a 6, educación superior 5, y
-
-2.- Ingresos económicos del grupo familiar bajos.
-
-g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos con documentos oficiales o informe social de la asistente social de atención de personal.
-
-h) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones aludidas en el ar-tículo 8º de este Reglamento.
-
-i) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar, por concepto de préstamos que éste le hubiera otorgado.
-
-El monto de las ayudas a que se refiere este artículo será fijado por el Consejo Administrativo, de acuerdo a la disponibilidad presupuestaria del Servicio de Bienestar, no pudiendo exceder de 2 ingresos mínimos mensuales por ayuda.
-
-J) El Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con su disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertas por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+i) Desgravamen: Al fallecimiento de un afiliado se entenderá condonado automáticamente lo adeudado al Servicio de Bienestar por concepto de aporte y de préstamos que este le hubiera otorgado.
 
 #### Artículo 10º
 
-Para solicitar los beneficios señalados en las letras a, b, c y e del artículo 9º el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional que corresponda.
+Para solicitar los beneficios señalados en las letras a, b, c, d y f del artículo 9° el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por el Servicio de Registro Civil e Identificación y/o el establecimiento educacional que corresponda.
 
 #### Artículo 11º
 
@@ -132,33 +116,33 @@ El Servicio podrá celebrar y financiar la Navidad para los afiliados y sus carg
 
 #### Artículo 12º
 
-El Servicio de Bienestar podrá conceder préstamos a sus afiliados cuando sus recursos lo permitan, por las siguientes causales:
+El Servicio de Bienestar, podrá conceder u otorgar préstamos a sus afiliados cuando sus recursos presupuestarios lo permitan, por las siguientes causales:
 
-1) Préstamos Médicos: Se otorgará como complemento de las prestaciones a que se refiere el artículo 8 del presente Reglamento, y su monto no será superior a tres ingresos mínimos mensuales, por afiliado, en cada año calendario. 2) Préstamo de Auxilio: Se otorgará por necesidades urgentes del afiliado. Su monto no podrá exceder de uno o medio ingreso mínimo mensual por afiliado en cada año calendario. No obstante lo anterior, tratándose de situaciones de emergencia derivadas de sismos, incendios u otras catástrofes similares, estos préstamos podrán otorgarse hasta por un monto máximo de ocho ingresos mínimos mensuales. En tales casos, el préstamo podrá concederse sin que sea necesario que el afiliado haya cancelado íntegramente un préstamo de auxilio obtenido con anterioridad. 3) Préstamos Habitacionales: Se otorgarán para complementar el ahorro previo necesario para la adquisición de una vivienda, y su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales. Este mismo beneficio se podrá otorgar para la construcción, ampliación, reparación o término de vivienda propia según el monto que fije el Consejo Administrativo y que no exceda al máximo indicado.
+1) Préstamos Médicos: Se otorgarán, como complemento de las prestaciones que refiere el artículo 8°, y su monto no será superior a 3 ingresos mínimos mensuales, por afiliado, en cada año calendario.
+
+2) Préstamos de Auxilio: Se otorgará por necesidades urgentes del afiliado. Su monto no podrá exceder de 2 ingresos mínimos mensual por afiliado en cada año calendario. No obstante, lo anterior, tratándose de situaciones de urgencias derivadas de sismos, incendios o catástrofes similares que tengan la calidad de caso fortuito o fuerza mayor en los términos que establece el artículo 45 del Código Civil, estos préstamos podrán otorgarse hasta por un monto máximo de dos ingresos mínimos mensuales. En tales casos, el préstamo podrá concederse sin que sea necesario que el afiliado haya pagado íntegramente un préstamo de auxilio obtenido con anterioridad.
+
+3) Préstamos habitacionales: Se otorgarán para complementar el ahorro previo necesario para la adquisición de una vivienda, y su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales. Este mismo beneficio se podrá otorgar para la construcción, ampliación, reparación o término de vivienda propia, presentando presupuesto con timbre y firma de empresa o persona natural que realice los trabajos, o para la cancelación de dividendos que el afiliado demuestre mantener pagados atrasados. Según el monto que fije el Consejo Administrativo y que no exceda al máximo indicado.
 
 #### Artículo 13º
 
-Los préstamos médicos y de auxilio serán servidos en un plazo máximo de 10 meses, los habitacionales y los préstamos de auxilio concedidos con ocasión de un sismo o catástrofe en el plazo máximo de 24 meses, contados a partir del mes siguiente al de su otorgamiento.
+Los préstamos médicos serán servidos en un plazo máximo de 10 meses, los habitacionales y los préstamos de auxilio, concedidos con ocasión de un sismo o catástrofe o siniestro, en el plazo máximo de 24 meses, contados a partir del mes siguiente de su otorgamiento.
 
-Los préstamos devengarán un interés del 6% anual y se reajustarán en la forma que corresponda según la Ley Nº 18.010.
-
-En todo caso, el interés mensual no podrá ser superior al interés corriente a que se refiere el artículo 6º de la Ley Nº 18.010, debiendo rebajarse a dichos límites si fuere superior a él.
-
-Para solicitar un nuevo préstamo de auxilio será necesario haber cancelado íntegramente el primero, salvo lo dispuesto en el artículo Nº 12 del presente Reglamento.
+Los préstamos devengarán un interés del 6% anual y se reajustarán en la forma que corresponda según la Ley N°18.010. En todo caso el interés mensual no podrá ser superior al interés corriente a que se refiere el artículo 6° de la Ley N°18.010, debiendo rebajarse a dichos límites si fuere superior a él. Para solicitar un nuevo préstamo de auxilio será necesario haber pagado íntegramente el primero, salvo lo dispuesto en el numero 2) del artículo 12.
 
 #### Artículo 14º
 
-La solicitud de cualquier tipo de préstamo será suscrita además del afiliado por dos codeudores que deberán tener a lo menos 1 año de afiliación continuada al Servicio de Bienestar.
+La solicitud de cualquier tipo de préstamos será suscrita además del afiliado al menos por dos codeudores solidarios que deberán tener a lo menos 6 meses de afiliación continuada al Servicio de Bienestar.
 
 #### Artículo 15º
 
-Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 30% de su remuneración imponible para pensión o de su pensión, según corresponda.
+Las sumas que el afiliado o sus codeudores deban pagar mensualmente al Servicio de Bienestar, no podrán en ningún caso, exceder del 15% de su remuneración imponible, o de su pensión, según corresponda.
 
 #### Artículo 16º
 
 El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando el máximo de los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
-Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los Jardines Infantiles, Centros Escolares y Colonias de Vacaciones, Hogares Sociales, Casinos del Personal, Clubes Deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+Con la finalidad de procurar el logro de los objetivos señalados precedentemente, el Servicio de Bienestar podrá eventualmente, siempre que cuente con disponibilidad presupuestaria, conceder ayuda económica a los Jardines Infantiles, Centros Escolares y Colonias de vacaciones, Hogares sociales, Casinos del personal, Clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
 
 #### Artículo 17º
 
@@ -172,45 +156,19 @@ Del financiamiento
 
 El Servicio de Bienestar se financiará con los siguientes recursos:
 
-a) Los aportes que anualmente se consulten al
+a) Los aportes que anualmente se consulten al presupuesto de la Institución, con sujeción a las normas legales y estatutarias vigentes;
 
-presupuesto de la Institución, con sujeción a las normas
+b) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;
 
-legales y estatutarias vigentes;
+c) Con el aporte mensual de los afiliados jubilados de hasta el 1.3% de sus pensiones, más la cantidad correspondiente al 50% del aporte institucional o un porcentaje de él, si el Consejo Administrativo así lo dispone, según sean los recursos presupuestarios.
 
-b) Con el aporte mensual de los afiliados en
+d) Con las bonificaciones o porcentajes provenientes de los convenios que el Servicio de Bienestar suscriba con firmas comerciales e industriales.
 
-servicio activo de hasta el 2% de sus remuneraciones
+e) Con los intereses de los préstamos que otorgue el Servicio de Bienestar a sus afiliados;
 
-imponibles para pensiones;
+f) Con las sumas provenientes de herencias, legados o donaciones, y
 
-c) Con el aporte mensual de los afiliados jubilados
-
-de hasta el 1% de sus pensiones, más la cantidad
-
-correspondiente al 50% del aporte institucional o un
-
-porcentaje de él, si la Comisión Administrativa así lo
-
-dispone, según sean los recursos presupuestarios;
-
-d) Con las bonificaciones o porcentajes provenientes
-
-de los convenios que el Servicio de Bienestar suscriba
-
-con firmas comerciales e industriales.
-
-e) Con los intereses de los préstamos que otorgue el
-
-Servicio de Bienestar a sus afiliados;
-
-f) Con las sumas provenientes de herencias, legados
-
-o donaciones, y
-
-g) Con los demás bienes o recursos que el Servicio
-
-de Bienestar obtenga a cualquier otro título.
+g) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualquier otro título.
 
 #### Artículo 19º
 
