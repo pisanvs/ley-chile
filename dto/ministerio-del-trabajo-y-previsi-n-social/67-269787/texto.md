@@ -24,9 +24,9 @@ De la Dirección y Administración del Servicio
 
 Artículo Nº3 La dirección y administración del Servicio corresponderá a un Consejo Administrativo, que estará integrado por cuatro miembros, de la forma siguiente:
 
-1. Por el Intendente de la Región Metropolitana de Santiago o el funcionario del Gobierno Regional con nivel de Jefatura de División o Departamento que designe para que lo represente, quien presidirá las sesiones del Consejo.
+1. Por el Gobernador Regional de la Región Metropolitana de Santiago o el funcionario del Gobierno Regional con nivel de Jefatura de División o Departamento que designe para que lo represente, quien presidirá las sesiones del Consejo.
 
-### 2. Por el Jefe del Departamento de Recursos Humanos
+### 2. Por la Jefatura del Departamento de Gestión y Desarrollo de Personas
 
 3. Por un representante de los afiliados designado por la Asociación de Funcionarios del Gobierno Regional, en adelante la "Asociación", de entre sus asociados, si fuere procedente.
 
@@ -36,7 +36,7 @@ Artículo Nº4 Si la Asociación no tuviere como asociados al 80% del personal, 
 
 Los miembros titulares y suplentes durarán dos años en sus funciones, pudiendo ser reelegidos por una sola vez, ya sea en forma continua o discontinua.
 
-El Consejo sesionará en asamblea ordinaria a lo menos, una vez al mes, en el lugar, día, hora y con la tabla que fijen sus miembros. Las sesiones extraordinarias se efectuarán cuando concurran circunstancias que así lo ameriten, debidamente calificadas por los integrantes del Consejo y en la forma señalada en el artículo 23 del Reglamento General y las citaciones a sus miembros se harán por escrito u otro medio electrónico de difusión masiva, con 5 días hábiles de anticipación y lo hará el Presidente del Consejo.
+El Consejo celebrará sesiones ordinarias determinadas previamente por el Consejo del Servicio de Bienestar en la primera sesión de cada año calendario, en el lugar, día, hora y con la tabla que fijen sus miembros. Las sesiones extraordinarias se efectuarán cuando concurran circunstancias que así lo ameriten, debidamente calificadas por los integrantes del Consejo y en la forma señalada en el artículo 23 del Reglamento General y las citaciones a sus miembros se harán por escrito u otro medio electrónico de difusión masiva, con 5 días hábiles de anticipación y lo hará el Presidente del Consejo.
 
 El Jefe del Servicio de Bienestar actuará como Secretario del Consejo, teniendo en él sólo derecho a voz.
 
@@ -50,7 +50,7 @@ a) Con una cuota de incorporación, por una sola vez, de hasta el 3% de la remun
 
 b) Con un aporte mensual de hasta el 2% de la remuneración imponible para efectos previsionales o de su jubilación mensual, según sea funcionario activo o pasivo.
 
-c) Con la cantidad de dinero que, anualmente, se considere como aporte para el Servicio, en el presupuesto del Gobierno de la Región Metropolitana de Santiago.
+c) Con la cantidad de dinero que, anualmente, se considere como aporte para el Servicio, en el presupuesto del Gobierno Regional de la Región Metropolitana de Santiago.
 
 d) Con los intereses de los préstamos que el Servicio otorgue a sus afiliados.
 
@@ -60,9 +60,11 @@ f) Con las sumas de dinero provenientes de herencias, legados, donaciones y erog
 
 g) Con los bienes y recursos que el Servicio obtenga a cualquier título.
 
-h) Con las sumas de dinero provenientes de la realización de actividades tales como rifas, sorteos y bingos; actividades que sólo podrán llevarse a efecto previa autorización del Sr. Ministro del Interior o del Sr. Intendente de la Región Metropolitana de Santiago, según corresponda de acuerdo a la normativa vigente.
+h) Con las sumas de dinero provenientes de la realización de actividades tales como rifas, sorteos y bingos; actividades que sólo podrán llevarse a efecto previa autorización del Sr. Ministro del Interior o del Sr. Delegado Presidencial de la Región Metropolitana de Santiago, según corresponda de acuerdo a la normativa vigente.
 
-Los dineros del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Corriente Única Fiscal del BancoEstado y contra ella podrán girar conjuntamente el Presidente del Consejo y un representante de los afiliados que se designará en la primera sesión del Consejo posterior a la respectiva elección.
+i) La cuota mensual de los afiliados pasivos pensiones a partir del mes siguiente de la total tramitación y publicación de la presente modificación al reglamento, se incrementará en la cantidad equivalente al aporte institucional que entrega el Gobierno Regional Metropolitano de Santiago por cada funcionario y funcionaria activo que son parte del Servicio de Bienestar, monto que se determina anualmente en la Ley de Reajuste del Sector Público.
+
+Los dineros del Servicio serán depositados en una cuenta corriente bancaria del sistema financiero cuyo titular será el Servicio de Bienestar y contra ella podrán girar conjuntamente el Presidente del Consejo y un representante de los afiliados que se designará en la primera sesión del Consejo posterior a la respectiva elección.
 
 En caso de ausencia o impedimento de los giradores titulares, éstos serán reemplazados por los funcionarios que el Consejo haya designado en calidad de suplentes.
 
@@ -136,7 +138,7 @@ e) Social: Que el afiliado enfrente un estado de necesidad extraordinario, circu
 
 f) Médica: En caso de enfermedad grave y/o tratamiento médico prolongado de alto costo - calificado por el Consejo Administrativo- del afiliado y sus cargas familiares, se otorgará a éste una ayuda económica complementaria a las prestaciones contempladas en el párrafo anterior.
 
-g) Catástrofe: Por daños sufridos en el patrimonio del afiliado con ocasión de incendio, movimientos sísmicos, robo, inundaciones u otro tipo de catástrofes naturales, lo que deberá acreditarse por certificación del servicio público correspondiente o informe de la Asistente Social del Servicio; en ausencia de ella, corresponderá a la Asistente Social de la Intendencia de Santiago.
+g) Catástrofe: Por daños sufridos en el patrimonio del afiliado con ocasión de incendio, movimientos sísmicos, robo, inundaciones u otro tipo de catástrofes naturales, lo que deberá acreditarse por certificación del servicio público correspondiente o informe de la Asistente Social del Servicio; en ausencia de ella, corresponderá a la Asistente Social del Gobierno Regional Metropolitano de Santiago.
 
 h) Desgravamen: En caso de fallecimiento del afiliado, se entenderán condonadas las deudas que tuviere pendientes con el Servicio, de conformidad a las circunstancias y forma que establezca el Consejo Administrativo.
 
@@ -180,7 +182,7 @@ El monto de su tasa de interés y el plazo de amortización se ajustará a la ta
 
 En casos debidamente calificados y por circunstancias socioeconómicas o de salud, acreditadas por un informe del Presidente del Consejo Administrativo, éste último podrá autorizar un plazo mayor, no superior a veinticuatro meses, para la amortización de la deuda.
 
-Artículo Nº10 La cuota total mensual del reintegro de la deuda, más otros compromisos que mantenga el afiliado con el Servicio o la Asociación, no podrá exceder de un 30% de su remuneración mensual imponible para efectos previsionales o de su pensión de jubilación mensual.
+Artículo Nº10 La cuota total mensual del reintegro de la deuda, más otros compromisos que mantenga el afiliado con el Servicio o la Asociación, no podrá exceder de un 15% de su remuneración mensual imponible para efectos previsionales o de su pensión de jubilación mensual.
 
 Artículo Nº11 Para conceder un préstamo el Consejo deberá considerar especialmente las posibilidades de recuperación de los dineros prestados. Si lo considera necesario, exigirá, previa calificación de su solvencia, la concurrencia de un codeudor solidario que sea funcionario de planta afiliado al Servicio.
 
@@ -190,7 +192,7 @@ Otros beneficios
 
 Artículo Nº12 El Servicio podrá, siempre que sus recursos financieros lo permitan, efectuar actividades que tengan por objeto el esparcimiento, desarrollo físico, social y cultural de sus afiliados y cargas familiares, pudiendo para ello adquirir bienes, elementos deportivos y demás que fueren necesarios para la realización de estas actividades; podrá administrar colonias de vacaciones y adquirir implementos necesarios para el cumplimiento de estos objetivos. Además, podrá adquirir regalos de navidad, celebrar y financiar las fiestas de navidad, fiestas patrias, aniversario del Gobierno Regional, aniversario del Servicio, Día de la Secretaria, Día del Niño, Día Internacional de la Mujer, Día de la Madre, Día del Padre y/o cualquier otra actividad de carácter internacional, nacional, institucional o actividad propia del Servicio.
 
-El Servicio podrá administrar recintos de veraneo, jardines infantiles, casinos de personal, clubes corporativos y, en general, otros recintos destinados al uso de sus afiliados, no pudiendo en ningún caso contratar personal, facultad que corresponde al Intendente Regional.
+El Servicio podrá administrar recintos de veraneo, jardines infantiles, casinos de personal, clubes corporativos y, en general, otros recintos destinados al uso de sus afiliados, no pudiendo en ningún caso contratar personal, facultad que corresponde al Gobernador Regional.
 
 #### Artículo 12º bis
 
