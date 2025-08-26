@@ -254,7 +254,7 @@ K.- Las cotizaciones obligatorias del trabajador independiente darán derecho a 
 
 #### Artículo 11
 
-L.- El trabajador independiente que hubiere pagado sus cotizaciones obligatorias tendrá cobertura del seguro de invalidez y sobrevivencia desde el primero de mayo del año en que se declaren las rentas y hasta el último día del mes que corresponda, de acuerdo a lo estipulado en el artículo 92 E de la ley. De igual manera, estarán cubiertos por el seguro de invalidez y sobrevivencia aquellos trabajadores independientes que realicen pagos provisionales de cotizaciones en el mes anterior al siniestro.
+L.- El trabajador independiente que hubiere pagado sus cotizaciones obligatorias tendrá cobertura del seguro de invalidez y sobrevivencia desde el primero de julio del año en que pagó las cotizaciones y hasta el 30 de junio del año siguiente a dicho pago, de acuerdo a lo estipulado en el artículo 92 E de la ley. De igual manera, estarán cubiertos por el seguro de invalidez y sobrevivencia aquellos trabajadores independientes que realicen voluntariamente pagos de cotizaciones en el mes anterior al siniestro, por las rentas correspondientes al mes anteprecedente a dicho siniestro.
 
 #### Artículo 11
 
@@ -690,13 +690,15 @@ Para la determinación del grado de invalidez, las Comisiones Médicas Regionale
 
 La Comisión Técnica funcionará en Santiago, estará integrada por los miembros que la Ley señala y sesionará a requerimiento de uno o más de sus miembros. En todo caso, la Comisión deberá sesionar al menos una vez al año.
 
-Las Administradoras y Compañías de Seguros deberán nombrar un suplente para que reemplace a su representante en ausencia de éste; de igual forma actuará el Consejo de Rectores. El Superintendente y el Presidente de la Comisión Médica Central, serán reemplazados por sus subrogantes legales.
+Las Compañías de Seguros deberán nombrar un suplente para que reemplace a su representante en ausencia de éste; de igual forma actuará el Consejo de Rectores. El Superintendente y el Presidente de la Comisión Médica Central, serán reemplazados por sus subrogantes legales.
+
+Los decanos a los que se refiere la letra d) del artículo 11 bis de la Ley, o en su caso los suplentes, recibirán un honorario equivalente a veinticuatro unidades de fomento por sesión, con un tope de cuatro sesiones al año calendario. La dieta será pagada mensualmente por la Superintendencia de Pensiones, con cargo a su presupuesto.
 
 #### Artículo 49
 
 La Comisión Técnica tendrá las siguientes funciones:
 
-a. Conocer los proyectos de modificación a las "Normas para la evaluación y calificación del grado de invalidez de los trabajadores afiliados al nuevo sistema de pensiones", que preparen las Administradoras, las Compañías de Seguros, el Presidente de una Comisión Médica o la Superintendencia;
+a. Conocer los proyectos de modificación a las "Normas para la evaluación y calificación del grado de invalidez de los trabajadores afiliados al nuevo sistema de pensiones" que le sean presentados por la Superintendencia;
 
 b. Resolver, por mayoría absoluta, respecto de los proyectos modificatorios que se presenten, y
 
@@ -708,7 +710,7 @@ Un funcionario de la Superintendencia, especialmente designado al efecto, actuar
 
 #### Artículo 51
 
-La designación de los miembros de la Comisión a que se refieren las letras c), d) y e) del artículo 11 bis de la Ley, deberá ser comunicada por escrito al Secretario de la Comisión. Tratándose del representante a que se refiere la letra d), concurrirán a su nombramiento las Compañías de Seguros que mantengan contrato vigente con las Administradoras al momento de efectuarse la elección.
+La designación de los miembros de la Comisión a que se refieren las letras c) y d) del artículo 11 bis de la Ley, deberá ser comunicada por escrito al Secretario de la Comisión. Tratándose del representante a que se refiere la letra c), concurrirán a su nombramiento las Compañías de Seguros que mantengan contrato vigente con las Administradoras al momento de efectuarse la elección.
 
 ## Título VII
 
@@ -1184,15 +1186,11 @@ El Consejo estará integrado por las siguientes personas:
 
 a) Un miembro designado por el Presidente de la República. La designación deberá recaer en una persona que haya desempeñado el cargo de Ministro de Hacienda o de Superintendente o directivo de las Superintendencias de Pensiones, de Bancos e Instituciones Financieras o de Valores y Seguros, o de consejero o gerente del Banco Central de Chile;
 
-b) Un miembro designado por el Consejo del Banco Central de Chile. La designación deberá recaer en un profesional de reconocido prestigio por su experiencia y conocimiento en materias financieras y de mercado de capitales;
+b) Dos miembros designados por el Consejo del Banco Central de Chile. Uno de ellos deberá ser un profesional de reconocido prestigio por su experiencia y conocimiento en materias financieras y de mercado de capitales. El otro miembro deberá ser una persona que posea al menos seis años de experiencia en la administración de carteras de inversión y haber desempeñado el cargo de gerente o ejecutivo principal en alguna empresa del sector financiero;
 
-c) Un miembro designado por las Administradoras de Fondos de Pensiones. La designación deberá recaer en un profesional que posea al menos seis años de experiencia laboral en empresas que administren carteras de inversión y que haya sido gerente general, gerente de finanzas o gerente de inversiones, o haya ejercido otros cargos de nivel superior en alguna empresa del sector financiero;
+c) Dos miembros designados por los Decanos de las Facultades de Economía o de Economía y Administración de las Universidades que se encuentren acreditadas de conformidad a lo dispuesto en la ley N° 20.129.
 
-d) Dos miembros designados por los decanos de las Facultades de Economía o de Economía y Administración de Universidades que se encuentren acreditadas de conformidad a lo dispuesto en la ley Nº 20.129, de acuerdo a lo siguiente:
-
-1) Un miembro deberá ser un académico reconocido por su experiencia y conocimiento en materias financieras y de mercado de capitales, para lo cual deberá haber desarrollado labores de investigación o consultoría, o contar con publicaciones sobre estas materias.
-
-2) Un miembro deberá ser un académico de reconocido prestigio por su experiencia y conocimiento de macroeconomía, para lo cual deberá haber desarrollado labores de investigación o consultoría, o contar con publicaciones sobre estas materias.
+Ambos deberán ser académicos de reconocido prestigio por su experiencia y conocimiento en materias financieras y de mercado de capitales, para lo cual deberán haber desarrollado labores de investigación o consultorías, o contar con publicaciones sobre estas materias.
 
 #### Artículo 106º
 
@@ -1206,11 +1204,15 @@ De la designación de los miembros del Consejo
 
 #### Artículo 107º
 
-Los miembros designados de conformidad a lo previsto en las letras c) y d) del artículo 105º, deberán ser nominados a lo menos 30 días antes de la fecha de cesación en el cargo de los consejeros cuyo período finaliza.
+Los miembros designados de conformidad a lo previsto en la letra c) del artículo 105º, deberán ser nominados a lo menos 30 días antes de la fecha de cesación en el cargo de los consejeros cuyo período finaliza.
 
 #### Artículo 108º
 
-Las Administradoras de Fondos de Pensiones acordarán el procedimiento para llevar a cabo la designación del miembro que deberán nombrar, como asimismo para acreditar el cumplimiento de los requisitos que para tales efectos la ley y este reglamento exigen para el ejercicio de este cargo, sin perjuicio de las instrucciones que imparta la Superintendencia de Pensiones para tal efecto. Del mismo modo lo harán los decanos de las Facultades de Economía o de Economía y Administración, para designar a los dos miembros del Consejo que a ellos les corresponde.
+Los Decanos de las Facultades de Economía o de Economía y Administración, acordarán el procedimiento para llevar a cabo la designación de los miembros, el que deberá considerar criterios de transparencia, celeridad y diversidad.
+
+Para efectos de este procedimiento se deberá acreditar el cumplimiento de los requisitos que establece la ley y este reglamento para el ejercicio de las funciones. Lo anterior, sin perjuicio de las instrucciones que imparta la Superintendencia de Pensiones para tal efecto.
+
+Una vez efectuado el procedimiento de designación, los Decanos de las Facultades de Economía o Economía y Administración, remitirán la decisión a la Superintendencia de Pensiones para la respectiva formalización del acto.
 
 #### Artículo 109º
 
@@ -1224,7 +1226,7 @@ Con a lo menos 15 días de anticipación a la fecha en que inicien sus funciones
 
 #### Artículo 111º
 
-En caso que en el plazo señalado en el artículo 107º no se hubiere designado alguno de los miembros del Consejo a que se refiere la letra d) del artículo 105º, la Superintendencia de Pensiones podrá citar directamente a los decanos de las Facultades de Economía o de Economía y Administración de las Universidades acreditadas de conformidad a lo dispuesto en la ley Nº 20.129 e informadas a la referida Superintendencia según lo señalado en el inciso final del artículo 109º, para que los asistentes designen por mayoría a los académicos que cumplan con los requisitos señalados en la ley y en este reglamento.
+En caso que en el plazo señalado en el artículo 107º no se hubiere designado alguno de los miembros del Consejo a que se refiere la letra c) del artículo 105º, la Superintendencia de Pensiones podrá citar directamente a los decanos de las Facultades de Economía o de Economía y Administración de las Universidades acreditadas de conformidad a lo dispuesto en la ley Nº 20.129 e informadas a la referida Superintendencia según lo señalado en el inciso final del artículo 109º, para que los asistentes designen por mayoría a los académicos que cumplan con los requisitos señalados en la ley y en este reglamento.
 
 ### Párrafo 4º
 
@@ -1232,7 +1234,7 @@ De las incompatibilidades e inhabilidades
 
 #### Artículo 112º
 
-Los miembros del Consejo Técnico de Inversiones no podrán ser gerentes, administradores o directores de una Administradora de Fondos de Pensiones, ni de alguna de las entidades del grupo empresarial a la cual pertenezca, mientras dure su mandato.
+Los miembros del Consejo Técnico de Inversiones no podrán ser gerentes, administradores o directores de una Administradora de Fondos de Pensiones, ni de alguna de las entidades del grupo empresarial a la cual pertenezca, mientras dure su mandato. Asimismo, no podrán ser miembros del Consejo quienes se desempeñen como directores o ejecutivos de bancos o instituciones financieras, bolsas de valores, intermediarios de valores, administradoras generales de fondos, compañías de seguros y proveedores de servicios financieros a las Administradoras de Fondos de Pensiones, sean nacionales, extranjeros o internacionales. Tampoco podrán ser miembros del Consejo quienes se desempeñen como directores y ejecutivos de las asociaciones gremiales que agrupen a dichas entidades.
 
 El cumplimiento de la exigencia a que se refiere el inciso anterior, se acreditará a través de una declaración jurada, prestada ante Notario Público, por el respectivo miembro del Consejo, la cual se entregará al Secretario Técnico del mismo para su registro.
 
