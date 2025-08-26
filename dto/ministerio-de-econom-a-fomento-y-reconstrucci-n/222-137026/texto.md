@@ -1,4 +1,4 @@
-OTORGA A ENDESA CONCESION DEFINITIVA PARA ESTABLECER LINEA DE TRANSPORTE DE ENERGIA ELECTRICA
+OTORGA A RED ELÉCTRICA DEL NORTE S.A. CONCESIÓN DEFINITIVA PARA ESTABLECER LÍNEA DE TRANSPORTE DE ENERGÍA ELÉCTRICA.
 
 Núm. 222.- Santiago, 30 de abril de 1999.- Visto: Estos antecedentes y lo dispuesto en los artículos 11º y 28º del D.F.L. Nº 1, de 1982, del Ministerio de Minería, y en la ley Nº 18.410.
 
@@ -6,7 +6,7 @@ D e c r e t o:
 
 #### Artículo 1º
 
-Otórgase a la Empresa Nacional de Electricidad S.A., Endesa, concesión definitiva para establecer una línea de transporte de energía eléctrica de 2x220 kV denominada ''Línea Encuentro-El Tesoro'', según plano IE32-1e-1, láminas 1 y 2, de la referida empresa.
+Otórgase a la Red Eléctrica del Norte 2 S.A., Redenor, concesión definitiva para establecer una línea de transporte de energía eléctrica de 2x220 kV denominada "Línea Encuentro-El Tesoro", según plano IE32-1e-1, láminas 1 y 2, de la referida empresa.
 
 #### Artículo 2º
 
