@@ -624,13 +624,15 @@ Los Comités de Pavimentación que deseen participar en el Proceso de Selección
 
 Será requisito que las Municipalidades estén al día con el respectivo SERVIU en el ingreso de aportes del Programa correspondientes a anteriores llamados. La SEREMI deberá verificar la existencia de deudas de aportes, para lo cual, con anterioridad al concurso, deberá solicitar al SERVIU el informe específico. De existir deudas, la SEREMI lo informará a las respectivas Municipalidades antes de la fecha de cierre del llamado, otorgándoles un plazo para ponerse al día en el pago de éstas antes de la fecha de publicación de la selección preliminar. La SEREMI deberá devolver las correspondientes postulaciones de aquellos Municipios que no se pongan al día en el pago de su deuda. Los recursos que sean liberados por esta causa serán redistribuidos a otras comunas de la Región, respetando la distribución aprobada por el Gobierno Regional.
 
-7º.- El valor referencial del metro cuadrado de pavimentación y de repavimentación deberá ser determinado por el Serviu, y aprobado por la Secretaría Regional Ministerial de Vivienda y Urbanismo, basándose en el estudio y proyección de los costos reales de obras similares contratadas en períodos anteriores que lo justifique, y se fijará con carácter uniforme para todas las comunas de la respectiva región. Excepcionalmente, por condiciones climáticas, geográficas o de aislamiento de ciertas localidades, el valor referencial del metro cuadrado de pavimentación podrá ser diferente para una o más comunas dentro de la región. La Seremi informará a los Municipios el valor referencial del metro cuadrado de pavimento a más tardar el 30 de marzo de cada año. Para la determinación del valor referencial antes aludido, el Serviu resguardará la eficiencia y la eficacia en la utilización de los recursos fiscales. Para tal efecto, sólo considerará aquellos contratos cuyos costos reales no superen en más de un 30% su presupuesto original. Para la terminación de estos valores referenciales, la Unidad de Costos del Serviu deberá consultar al Departamento de Programación y Control y a la Unidad Técnica de Pavimentación de dicho Servicio, como también al Departamento de Planes y Programas de la respectiva Seremi.
+7º.- El valor referencial del metro cuadrado de pavimentación y de repavimentación deberá ser determinado por el Serviu y aprobado por la Seremi, basándose en el estudio y proyección de los costos reales de obras similares contratadas en períodos anteriores que lo justifique, al menos 3 años, y se fijará con carácter uniforme para todas las comunas de la respectiva región. Excepcionalmente, por condiciones climáticas, geográficas o de aislamiento de ciertas localidades, el valor referencial del metro cuadrado de pavimentación podrá ser diferente para una o más comunas dentro de la región y para una o más localidades apartadas de la capital comunal. La Seremi informará a los Municipios el valor referencial del metro cuadrado de pavimento a más tardar el 30 de marzo de cada año. Para la determinación del valor referencial antes aludido, el Serviu resguardará la eficiencia y la eficacia en la utilización de los recursos fiscales. Para tal efecto, sólo considerará aquellos contratos cuyos costos reales no superen en más de un 30% su presupuesto original y que represente al menos un 70% de la muestra contratada del período. Para la terminación de estos valores referenciales, la Unidad de Costos del SERVIU deberá consultar al Departamento de Programación y Control y a la Unidad Técnica de Pavimentación de dicho Servicio, como también al Departamento de Planes y Programas de la respectiva Seremi.
+
+En el caso de producirse escenarios económicos o de mercado excepcionales (crisis económicas internacionales; catástrofes; pandemias; otras) que temporalmente produzcan un significativo incremento en los costos reales de pavimentación, en el estudio y proyección de los costos reales de obras de pavimentación también se podrá tener en consideración la variabilidad en el período analizado del IPMIC (Indice de Precios de Materiales e Insumos de Construcción), obtenido del INE.
 
 Si el proyecto que se postula considera conjuntamente la pavimentación o repavimentación de calzadas y de sus aceras correspondientes, soluciones de aguas lluvia u obras anexas imprescindibles, el presupuesto de postulación debe incluir el costo de la totalidad de las obras a realizar.
 
 El Serviu tendrá que establecer y brindar a las respectivas comunas alternativas de pavimentación de diferente costo, de forma de permitir la elección de soluciones que requieran una menor inversión. El Serviu como mínimo deberá proporcionar valores referenciales para las siguientes materialidades de pavimentación: hormigón de cemento vibrado (HCV); concreto asfáltico en caliente (ASFC, no modificado con polímeros); concreto asfáltico en frío (ASFF); adocretos, según se establece en los Artículos 3.2.5 (tercer inciso), 3.2.6 y 3.2.8 de la Ordenanza General de Urbanismo y Construcciones. Además, podrá considerar otras materialidades de pavimentación, según la realidad regional o que requieran una menor inversión, como pavimentos delgados de hormigón de cemento vibrado o adoquín de piedra.
 
-Las soluciones de pavimentación a aplicar deberán cumplir las condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación año 2008, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
+Las soluciones de pavimentación a aplicar deberán cumplir las condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación año 2018, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
 
 a) Índice de Serviciabilidad Inicial (pi) 4,5 en hormigón de cemento vibrado y 4,2 en concreto asfáltico en caliente e Índice de Serviciabilidad Final (pf) 2,0 para ambas soluciones de pavimentación, o índice equivalente como el Índice de Rugosidad Internacional (IRI).
 
@@ -659,6 +661,8 @@ i) Ingreso de Postulación o Repostulación, verifica la oportunidad de ingreso 
 9º.- Para calcular el puntaje por concepto de cada uno de los factores definidos en el número anterior, se procederá de la siguiente forma:
 
 a) Corresponderá 1 punto de base, más 0,5 punto por cada 1% de aporte que exceda el aporte mínimo exigido. El porcentaje de aporte se calcula en base al valor referencial de la obra, con un límite máximo de un 50%. Si el proyecto de ingeniería fuere financiado por el Comité, se considerará como aporte adicional equivalente a un 3% del valor de la obra, calculado en base al valor referencial del metro cuadrado de pavimento, incluido en todo caso dentro del 50% antes señalado.
+
+En el caso que el Comité de Pavimentación en la postulación comprometa efectivamente su aporte requerido, acreditado en libreta de ahorro u otro instrumento similar, sin ser subvencionado por la Municipalidad u otro organismo, el puntaje por este factor será ponderado por 1,5.
 
 b) Magnitud o importancia urbana del proyecto:
 
@@ -712,7 +716,7 @@ Las Categorías corresponden a las definidas en el artículo 3º letra d) de la 
 
 e) Antigüedad de la postulación: Corresponderá 0 punto cuando participe por primera vez en un proceso de selección; cuando participe por segunda vez y las siguientes veces, el puntaje por este concepto será el que resulte de aplicar la siguiente formula:
 
-AP = 2n
+AP=4 n
 
 siendo, n : el número de veces que el proyecto ha
 
@@ -746,7 +750,7 @@ Los costos referenciales por m2 de pavimentos a utilizar en este cálculo corres
 
 Si el costo referencial por m2 del pavimento adoptado duplica al costo referencial del m2 del pavimento base, o es aún mayor dicho costo, el puntaje por este factor es cero (0).
 
-g) Acción de pavimentación: corresponde a 50 puntos si se trata de obra de pavimentación de calzada o de acera en tierra y 5 puntos si se trata de obra de repavimentación de calzada o acera existente con alto nivel de deterioro.
+g) Acción de pavimentación: corresponderá 30 puntos si se trata de obra de pavimentación de calzada o de acera en tierra y 5 puntos si se trata de obra de repavimentación de calzada o de acera existente con alto nivel de deterioro.
 
 La calzada que postule a repavimentación deberá cumplir las siguientes condiciones técnicas que den cuenta de su alto nivel de deterioro:
 
@@ -762,7 +766,9 @@ Si la postulación a repavimentación es de aceras exclusivamente, deberá cumpl
 
 De acuerdo a lo anterior, podrán postular a repavimentación calzadas o aceras continuas, en donde se cumplan las condiciones señaladas en tramos independientes de 100 metros de largo o entre cruces de vías.
 
-Cuando el proyecto de pavimentación se localice en algunos de los sectores del Programa Recuperación de Barrios, del Programa Pequeñas Localidades, del Programa de Protección del Patrimonio Familiar, del Programa de Mejoramiento de Viviendas y Barrios, del Programa de Espacios Públicos o del Programa de Asentamientos Precarios, el puntaje final obtenido conforme al presente literal, será ponderado por 1.2.
+El puntaje por este factor será ponderado de acuerdo con el % de deterioro del pavimento que proporcione la monografía del proyecto por los siguientes guarismos:
+
+Cuando el proyecto de pavimentación se localice en alguno de los sectores del Programa Recuperación de Barrios, del Programa Pequeñas Localidades, del Programa de Protección del Patrimonio Familiar, del Programa de Mejoramiento de Viviendas y Barrios, del Programa de Espacios Públicos o del Programa de Asentamientos Precarios, el puntaje final obtenido conforme al presente literal será ponderado por 2,0.
 
 h) Vulnerabilidad del Comité: Obtendrá 30 puntos el "Comité de Pavimentación muy Vulnerable", según lo dispuesto en el inciso tercero de la letra d) del número 3º de la presente Resolución. Los restantes Comités que no cumplan con esta condición tendrán cero puntos por este factor.
 
@@ -824,6 +830,10 @@ En todo caso, el Serviu procurará que los montos de las adjudicaciones de los c
 
 Excepcionalmente y por razones fundadas, el SERVIU, previa autorización escrita del Ministro de Vivienda y Urbanismo, podrá adjudicar una licitación cuando la oferta económica más baja sobrepase el 30% del presupuesto programado para la respectiva obra de pavimentación. El SERVIU al requerir dicha autorización deberá acompañar los antecedentes de respaldo técnicos y presupuestarios en que se sustenta su petición.
 
+Cuando el análisis de la adjudicación de contrato no se realice en el primer año de ejecución del Programa, si no en año posterior, dicho análisis se podrá realizar con el presupuesto (de selección) en moneda actualizada.
+
+En el caso de producirse escenarios económicos o de mercado excepcionales (crisis económicas internacionales; catástrofes; pandemias; otras) que temporalmente produzcan un significativo incremento en los costos reales de pavimentación, en la obtención del presupuesto en moneda actualizada señalado en el párrafo anterior, se podrá tener en consideración la variabilidad en el período analizado del IPMIC (Índice de Precios de Materiales e Insumos de Construcción), obtenido del INE.
+
 12º.- Será condición para la adjudicación de las propuestas de construcción de las obras seleccionadas, que el Municipio haya enterado en caja del Serviu respectivo los aportes correspondientes a los Comités y al Municipio o que al menos se haya establecido entre el Serviu y el Municipio una programación de ingreso de los aportes comunales comprometidos dentro del año en que se inicia el Programa, lo que deberá constar en el Convenio respectivo y ser objeto de aprobación por el Concejo Comunal. En caso de que el Municipio no dé cumplimiento a ninguna de las dos alternativas de ingreso de aportes al Serviu, la Secretaría Regional Ministerial de Vivienda y Urbanismo podrá proceder a una nueva redistribución de fondos sectoriales comprometidos en dicha comuna, seleccionando proyectos de la lista de espera de acuerdo a la distribución existente del Gobierno Regional y según el orden de prioridad obtenido por éstos o en su defecto disminuyendo el arrastre del Programa. El Serviu comunicará al Gobierno Regional respectivo los compromisos financieros asumidos por los Municipios de la Región y los plazos límites establecidos en cada convenio para enterar dichos aportes en las arcas del Serviu. Podrá también solicitar la intervención del Gobierno Regional en caso de producirse incumplimiento del Municipio respecto del integro de los aportes convenidos y del cumplimiento de los plazos establecidos para enterar dichos aportes en la caja del Serviu.
 
 13º.- Al menos un mes antes de publicar las licitaciones para la contratación de la ejecución de las obras del Programa, el SERVIU deberá informar a los respectivos Municipios las deudas por concepto de aportes de llamados anteriores que mantienen con el SERVIU, otorgando un plazo máximo hasta antes de la fecha de publicación para que los Municipios involucrados se pongan al día con dicho compromiso. Cumplido dicho plazo sin que ello ocurra, la SEREMI conjuntamente con el SERVIU evaluarán postergar las licitaciones de Municipios que mantengan estas deudas a otra fecha dentro del primer año de ejecución o excluir los respectivos proyectos del Programa, asignando los fondos liberados a proyectos de otras comunas.
@@ -853,6 +863,8 @@ La Seremi, considerando las postulaciones válidas, realizará mediante el siste
 > **Nota.** Por inconvenientes técnicos no se pudo realizar el texto actualizado de los numerales 2 y 3 de la Resolución 7102 Exenta, Vivienda, publicada el 22.09.2015.
 
 > **Nota.** El numeral 1.4 del numeral 1 de la Resolución 1900 Exenta, Vivienda, publicada el 17.11.2023, modifica la presente norma en el sentido de agregar una nueva letra d) en el antepenúltimo inciso de la letra i) del número 3° de la presente resolución, sin embargo no ha sido posible realizar su texto actualizado en la citada letra por no coincidir los textos.
+
+> **Nota.** NOTA 1 El numeral 1.2 del numeral 1 de la Resolución 1820 Exenta, Vivienda, publicada el 27.08.2025, modifica la presente norma en el sentido de reemplazar el segundo inciso de la letra b) del tercer párrafo de la letra i) del Resuelvo 3° de la presente resolución, sin embargo no ha sido posible realizar su texto actualizado en la citada letra por no coincidir los textos.
 
 #### Artículo 1º
 
