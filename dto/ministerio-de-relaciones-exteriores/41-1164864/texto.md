@@ -50,6 +50,20 @@ Existirá un Gabinete que será el apoyo inmediato del Subsecretario de Relacion
 
 El Gabinete colaborará inmediata y directamente con el Subsecretario, dirigirá y coordinará las labores del personal de apoyo y de los asesores directos, y actuará como órgano de enlace y comunicación con las distintas unidades de la Subsecretaría.
 
+Asimismo, tendrá las siguientes funciones:
+
+a) Proponer programas y planes de cumplimiento normativo a las áreas funcionales de la Subsecretaría de Relaciones Exteriores.
+
+b) Efectuar el seguimiento del estado de los procesos disciplinarios instruidos en la Subsecretaría de Relaciones Exteriores, como también llevar permanentemente al día el libro de sumarios e investigaciones sumarias.
+
+c) Elaborar proyectos de actos administrativos circunscritos en el ámbito de aplicación del Título V de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fuera fijado por el decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, como también la notificación de los mismos.
+
+d) Informar los estados de avance al Subsecretario de Relaciones Exteriores y a la Contraloría General de la República en materia de procedimientos disciplinarios.
+
+e) Realizar las acciones de inducción al personal designado como investigador o fiscal, si correspondiere, en los procedimientos disciplinarios de la Subsecretaría de Relaciones Exteriores, como también formular programas de capacitación sobre la materia, en coordinación con la División de Gestión de Personas.
+
+El Gabinete de la Subsecretaría de Relaciones Exteriores velará por la correcta organización interna para dar cumplimiento a las obligaciones descritas en el inciso anterior.
+
 #### Artículo 5
 
 Existirá una Auditoría Interna, encargada de los procesos de auditoría de la Subsecretaría de Relaciones Exteriores, que tendrá las siguientes funciones:
@@ -118,9 +132,13 @@ e) Apoyar a los gobiernos regionales, consejos regionales, gobernadores regional
 
 f) Asistir y colaborar en la gestión que desarrollan los coordinadores regionales del Ministerio, en las regiones del país, con el objeto de apoyarlas en la realización de sus proyectos e iniciativas en el ámbito internacional. Asimismo, instruirlos en materias y acciones en relación a las actividades llevadas a cabo en el ámbito regional y local;
 
-g) Asistir y colaborar en las actividades que desarrolla el Senado de la República y la Cámara de Diputados en materia internacional, en concordancia con los objetivos de la política exterior de Chile; y,
+g) Asistir y colaborar en las actividades que desarrolla el Senado de la República y la Cámara de Diputados en materia internacional, en concordancia con los objetivos de la política exterior de Chile;
 
-h) Proponer al Subsecretario de Relaciones Exteriores la inclusión de la política de género como parte integral de la política exterior de Chile, favoreciendo acciones de esa índole en el plano internacional.
+h) Proponer al Subsecretario de Relaciones Exteriores la inclusión de la política de género como parte integral de la política exterior de Chile, favoreciendo acciones de esa índole en el plano internacional;
+
+i) Coordinar y establecer lineamientos en materias propias de su competencia a las misiones diplomáticas de acuerdo con las directivas de la Subsecretaría de Relaciones Exteriores; y
+
+j) Las demás funciones que sean propias de las unidades sujetas a su dependencia.
 
 #### Artículo 9
 
@@ -148,9 +166,11 @@ j) División de Ciencia, Energía, Educación, Innovación y Astronomía;
 
 k) División de Derechos Humanos;
 
-l) División de Seguridad Internacional y Humana; y,
+l) División de Seguridad Internacional y Humana;
 
-m) División de Integración Regional Multilateral.
+m) División de Integración Regional Multilateral; y
+
+n) División de Asuntos de Género.
 
 Sección 2ª
 
@@ -251,10 +271,6 @@ e) Coordinar con las unidades competentes del Ministerio las prioridades de gest
 f) Realizar seguimiento a la ejecución de las actividades de política exterior de Chile que deben realizar las embajadas del país, así como de la agenda bilateral; y,
 
 g) Interactuar y colaborar con las misiones diplomáticas extranjeras acreditadas en Chile.
-
-#### Artículo 20
-
-La División Multilateral y Derechos Humanos tendrá la función de coordinar las relaciones internacionales del país ante las organizaciones internacionales, así como aquellas temáticas específicas internacionales de interés para la ejecución de la política exterior chilena.
 
 Sección 5ª
 
@@ -492,53 +508,65 @@ a) Efectuar acciones de coordinación y de seguimiento con instancias nacionales
 
 b) Coordinar con los órganos del Estado competentes en la materia y las organizaciones internacionales, según corresponda, la implementación y la ejecución de los compromisos y las obligaciones asumidas por el Estado de Chile;
 
-c) Participar en reuniones internacionales y en la negociación de instrumentos internacionales propios de la materia de su competencia;
+c) Participar en reuniones internacionales y en la negociación de instrumentos y otras iniciativas de alcance internacional, así como en otras propias de la materia de su competencia;
 
 d) Apoyar la elaboración y negociación de declaraciones, convenios, acuerdos y/o tratados internacionales sobre derechos humanos, y supervisar su posterior ratificación por Chile, en coordinación con la Dirección General de Asuntos Jurídicos;
 
-e) Coordinar y dirigir, conforme a las instrucciones pertinentes de la Subsecretaría de Relaciones Exteriores, la representación del Estado ante las organizaciones multilaterales de derechos humanos, en colaboración con la Dirección General de Asuntos Jurídicos; y,
+e) Coordinar y dirigir, conforme a las instrucciones pertinentes de la Subsecretaría de Relaciones Exteriores, la representación del Estado ante las organizaciones multilaterales de derechos humanos, en colaboración con la Dirección General de Asuntos Jurídicos;
 
-f) Desarrollar y gestionar los asuntos vinculados con la defensa de los intereses de Chile ante los tribunales y órganos internacionales de derechos humanos con la colaboración de la Subsecretaría de Derechos Humanos, la cual prestará su asesoría técnica especializada.
+f) Desarrollar y gestionar los asuntos vinculados con la defensa de los intereses de Chile ante los tribunales y órganos internacionales de derechos humanos con la colaboración de la Subsecretaría de Derechos Humanos, la que prestará su asesoría técnica especializada dentro del marco previsto en el decreto con fuerza de ley Nº 3, de 2016, del Ministerio de Justicia y Derechos Humanos; y
+
+g) Preparar los antecedentes vinculados a temáticas de derechos humanos que deban llevar a cabo las demás áreas funcionales y unidades de la Subsecretaría de Relaciones Exteriores en el marco de sus respectivas funciones.
 
 #### Artículo 20 bis
 
 La División de Derechos Humanos estará integrada por los siguientes departamentos:
 
-a) Departamento del Sistema Universal de Derechos Humanos; y,
+a) Departamento de Sistemas Multilaterales de Protección de Derechos Humanos y Asuntos Bilaterales; y
 
-b) Departamento del Sistema Interamericano de Derechos Humanos.
+b) Departamento Contencioso de Derechos Humanos.
 
 #### Artículo 20 ter
 
-El Departamento del Sistema Universal de Derechos Humanos tendrá las siguientes funciones:
+El Departamento de Sistemas Multilaterales de Protección de Derechos Humanos y Asuntos Bilaterales tendrá las siguientes funciones:
 
-a) Revisar documentos, preparar instrucciones y coordinar la participación de Chile en las tres sesiones anuales del Consejo de Derechos Humanos;
+a) Revisar documentos, preparar instrucciones y coordinar la participación de Chile en el Consejo de Derechos Humanos de Naciones Unidas;
 
 b) Revisar documentos, preparar instrucciones y coordinar la participación de Chile en la Tercera Comisión de la Asamblea General de Naciones Unidas;
 
-c) Coordinar y apoyar los informes y exámenes periódicos de Chile ante los diversos comités de tratados de Derechos Humanos;
+c) Coordinar y apoyar los informes y exámenes periódicos de Chile ante los órganos de tratados de derechos humanos de Naciones Unidas;
 
-d) Coordinar y sistematizar las respuestas del Estado ante requerimientos de las relatorías de procedimientos especiales de Naciones Unidas;
+d) Coordinar y sistematizar las respuestas del Estado ante requerimientos de las relatorías de procedimientos especiales del Consejo de Derechos Humanos de Naciones Unidas;
 
-e) Recopilar antecedentes y preparar instrucciones para la participación de Chile en el proceso de Examen Periódico Universal; y,
+e) Recopilar antecedentes y preparar instrucciones para la participación de Chile en el proceso de Examen Periódico Universal;
 
-f) Actuar de punto focal en materia de asuntos indígenas.
+f) Atender los requerimientos de las relatorías temáticas sobre derechos humanos de la Comisión Interamericana de Derechos Humanos;
+
+g) Analizar y preparar instrucciones en materia de derechos humanos en el contexto de la participación de Chile en la Asamblea General de la Organización de los Estados Americanos;
+
+h) Hacer seguimiento y coordinar las iniciativas y coaliciones internacionales vinculadas a la protección de los derechos humanos de que el Ministerio de Relaciones Exteriores forme parte;
+
+i) Preparar los antecedentes en materia de derechos humanos que otras áreas funcionales y unidades de la Subsecretaría de Relaciones Exteriores requieran en el marco de sus actividades bilaterales y aquellas que se vinculen con los foros multilaterales de derechos humanos;
+
+j) Atender los requerimientos de las relatorías temáticas sobre Derechos Humanos de la Organización de los Estados Americanos; y
+
+k) Coordinar y realizar las gestiones en materia de asuntos indígenas.
 
 #### Artículo 20 quáter
 
-El Departamento del Sistema Interamericano de Derechos Humanos tendrá las siguientes funciones:
+El Departamento Contencioso de Derechos Humanos tendrá las siguientes funciones:
 
-a) Coordinar con los órganos del Estado pertinentes la respuesta del Estado de Chile ante los casos que llegan a conocimiento de la Comisión Interamericana de Derechos Humanos, incluyendo la negociación de acuerdos de solución amistosa;
+a) Coordinar con los órganos del Estado pertinentes la preparación de la respuesta del Estado de Chile ante los casos que llegan a conocimiento de los órganos de tratados de derechos humanos de Naciones Unidas y los procedimientos especiales del Consejo de Derechos Humanos de esa organización internacional;
 
-b) Coordinar con los órganos del Estado pertinentes la defensa del Estado de Chile ante los casos que llegan a conocimiento de la Corte Interamericana de Derechos Humanos;
+b) Coordinar con los órganos del Estado pertinentes la preparación de la respuesta del Estado de Chile ante los casos que llegan a conocimiento de la Comisión Interamericana de Derechos Humanos y la Corte Interamericana de Derechos Humanos, incluyendo la negociación de acuerdos de solución amistosa;
 
-c) Hacer seguimiento del proceso de cumplimiento de sentencias, recomendaciones y acuerdos de solución amistosa;
+c) Hacer seguimiento del proceso de cumplimiento de las decisiones adoptadas por los órganos de tratados de derechos humanos de Naciones Unidas y de procedimientos especiales del Consejo de Derechos Humanos de Naciones Unidas;
 
-d) Coordinar y liderar la participación de las diversas agencias del Estado en audiencias temáticas de la Comisión Interamericana de Derechos Humanos;
+d) Hacer seguimiento del proceso de cumplimiento de los informes, decisiones y sentencias emitidas por la Comisión Interamericana de Derechos Humanos y la Corte Interamericana de Derechos Humanos, según corresponda;
 
-e) Atender los requerimientos de las relatorías temáticas sobre Derechos Humanos de la Organización de los Estados Americanos; y,
+e) Coordinar y liderar la participación de los diversos órganos del Estado en audiencias temáticas de la Comisión Interamericana de Derechos Humanos; y
 
-f) Analizar y preparar instrucciones en materia de Derechos Humanos en el contexto de la participación de Chile en la Asamblea General de la Organización de los Estados Americanos.
+f) Analizar y preparar instrucciones en materia de derechos humanos en el contexto de la participación de Chile en la Asamblea General de la Organización de los Estados Americanos.
 
 Sección 13ª
 
@@ -576,9 +604,29 @@ d) Coordinar, ejecutar y dar seguimiento a los proyectos de integración regiona
 
 e) Promover y dar seguimiento a la agenda de integración física que se desarrolla en la región y de la cual Chile es parte.
 
+Sección 15ª
+
+De la División de Asuntos de Género
+
 #### Artículo 23
 
-Derogado.
+La División de Asuntos de Género tendrá las siguientes funciones dentro del ámbito de las materias y temáticas asociadas a los asuntos de género:
+
+a) Coordinar las acciones necesarias para la incorporación de la visión de la política exterior feminista en la construcción de la estrategia de política exterior, formulando objetivos y sus correspondientes planes de acción en coordinación con las entidades competentes;
+
+b) Coordinar las acciones necesarias para la realización de estudios e informes con perspectiva de género, a fin de presentarlo a las autoridades del Ministerio como insumo para la propuesta de política exterior, así como para la revisión de los procesos internos de la Subsecretaría de Relaciones Exteriores con enfoque de género;
+
+c) Asesorar a las autoridades competentes respecto de materias de equidad, de género y colaborar en su implementación en la Subsecretaría de Relaciones Exteriores;
+
+d) Elaborar proyectos de instrucciones y coordinar antecedentes con propuestas de cursos de acción, de acuerdo a los intereses, objetivos y lineamientos estratégicos de la Subsecretaría de Relaciones Exteriores, y en razón de los compromisos y obligaciones vigentes en asuntos bilaterales y multilaterales en temáticas especializadas;
+
+e) Dar seguimiento permanente a las actividades y compromisos de política exterior de Chile, proponiendo cursos de acción y estrategias para abordar temas y procesos en los cuales Chile tenga un interés y/o pueda participar;
+
+f) Participar en reuniones internacionales y en la negociación de instrumentos internacionales propios de la materia de su competencia;
+
+g) Coordinar con las misiones de Chile en el exterior la ejecución de la política exterior del país en áreas temáticas específicas de interés nacional, regional y global, de acuerdo a los compromisos y obligaciones vigentes, y en línea con los intereses, objetivos y lineamientos estratégicos de la Subsecretaría de Relaciones Exteriores; y
+
+h) Coordinar con los órganos de la Administración del Estado y especialmente con el Ministerio de la Mujer y la Equidad de Género, los aspectos técnicos vinculados a asuntos de género, acorde a los lineamientos establecidos por la Secretaría General de Política Exterior.
 
 #### Artículo 24
 
@@ -622,9 +670,13 @@ d) Proponer a la Academia Diplomática de Chile "Andrés Bello", sin perjuicio d
 
 e) Realizar y proveer estudios e informes especializados de prospectiva;
 
-f) Recopilar y sistematizar la información y actividades generadas por la Subsecretaría de Relaciones Exteriores y sus servicios dependientes y relacionados; y,
+f) Recopilar y sistematizar la información y actividades generadas por la Subsecretaría de Relaciones Exteriores y sus servicios dependientes y relacionados;
 
-g) Actuar como nexo con las instituciones académicas y centros de estudios públicos y privados.
+g) Actuar como nexo con las instituciones académicas y centros de estudios públicos y privados; y,
+
+h) Supervisar y coordinar acciones en materias de seguridad de la información y ciberseguridad de la Subsecretaría de Relaciones Exteriores; e
+
+i) Las demás funciones que sean propias de las unidades sujetas a su dependencia.
 
 #### Artículo 30
 
@@ -684,7 +736,7 @@ d) Clasificar, catalogar, conservar y digitalizar la documentación y el materia
 
 e) Disponer, si resultare procedente, de la documentación de ese archivo, previa instrucción del Subsecretario de Relaciones Exteriores, en conformidad a las disposiciones y recomendaciones impartidas por la Contraloría General de la República; y,
 
-f) Difundir temas relevantes de política exterior a través de charlas y exhibiciones de material histórico, previa consulta al Subsecretario de Relaciones Exteriores.
+f) Difundir temas relevantes de política exterior a través de charlas y exhibiciones de material histórico, previa consulta a la Dirección de Planificación Estratégica.
 
 Sección 3ª
 
@@ -752,9 +804,13 @@ La Dirección General de Asuntos Consulares, Inmigración y de Chilenos en el Ex
 
 a) Estudiar, diseñar, proponer, coordinar y ejecutar la política pública en materia consular, migratoria y de protección de los derechos e intereses de los chilenos en el exterior;
 
-b) Colaborar con las políticas de inmigración establecidas por las autoridades pertinentes; y,
+b) Colaborar con las políticas de inmigración establecidas por las autoridades pertinentes;
 
-c) Velar por el funcionamiento de los Consulados de Chile y la atención del cuerpo consular residente.
+c) Velar por el funcionamiento de los Consulados de Chile y la atención del cuerpo consular residente; y,
+
+d) Coordinar y establecer lineamientos en materias de su competencia a las oficinas consulares de acuerdo con las directivas de la Subsecretaría de Relaciones Exteriores; y
+
+e) Las demás funciones que sean propias de las unidades sujetas a su dependencia.
 
 #### Artículo 40
 
@@ -774,19 +830,31 @@ De la División de Política Consular
 
 #### Artículo 41
 
-La División de Política Consular tendrá la función de coordinar el diseño y ejecución de la política del Ministerio de Relaciones Exteriores en materia consular, velando por el desarrollo de la labor consular mediante la red de consulados chilenos en el exterior, como también realizar el control de las rendiciones de cuentas de las recaudaciones percibidas por los actos establecidos en la ley Nº 18.340 o aquella que la sustituya.
+La División de Política Consular tendrá las siguientes funciones:
+
+a) Coordinar el diseño y ejecución de la política del Ministerio de Relaciones Exteriores en materia consular, velando por el desarrollo de la labor consular mediante la red de consulados chilenos en el exterior;
+
+b) Realizar el control de las rendiciones de cuentas de las recaudaciones percibidas por los actos establecidos en la ley Nº 18.340 o aquella que la sustituya;
+
+c) Procesar las solicitudes de visas que autorizan el ingreso de extranjeros al país, en coordinación con los órganos de la Administración del Estado competentes, de conformidad con la normativa legal vigente;
+
+d) Vincularse con las autoridades extranjeras frente a catástrofes naturales u otras contingencias ocurridas en Chile a fin de atender sus requerimientos; y
+
+e) Apoyar las labores de entrega y recepción de ayuda humanitaria internacional en situaciones de catástrofe natural u otras contingencias, en coordinación con la red consular en el exterior y con los órganos de la Administración del Estado chilenos.
 
 #### Artículo 42
 
 La División de Política Consular estará integrada por los siguientes departamentos:
 
-a) Departamento de Política Consular; y,
+a) Departamento de Planificación Consular;
 
-b) Departamento de Cuentas Consulares.
+b) Departamento de Cuentas Consulares; y
+
+c) Departamento de Inmigración.
 
 #### Artículo 43
 
-El Departamento de Política Consular tendrá las siguientes funciones:
+El Departamento de Planificación Consular tendrá las siguientes funciones:
 
 a) Diseñar, proponer, coordinar y ejecutar la política del Ministerio de Relaciones Exteriores en materia consular y de protección de los derechos e intereses de los chilenos en el exterior;
 
@@ -801,6 +869,10 @@ e) Realizar la coordinación entre el cuerpo consular residente y las autoridade
 #### Artículo 44
 
 El Departamento de Cuentas Consulares tendrá la función de revisar, aprobar y formular observaciones oportunas a las rendiciones de cuentas de la recaudación consular, percibidas por los actos establecidos en la ley Nº 18.340 o aquella que la sustituya, y los fondos asociados a los mismos a través de cuentas específicas que deben enviar los cónsules, fiscalizando la exacta aplicación de las disposiciones del Arancel Consular.
+
+#### Artículo 44 bis
+
+El Departamento de Inmigración tendrá la función de procesar las solicitudes de visas que autorizan el ingreso de extranjeros al país, en coordinación con los órganos de la Administración del Estado competentes y en conformidad con la normativa legal y reglamentaría vigente.
 
 Sección 3ª
 
@@ -818,31 +890,29 @@ b) Promover el ejercicio de los derechos políticos de los ciudadanos, la partic
 
 La División para la Comunidad de Chilenos en el Exterior estará integrada por los siguientes departamentos:
 
-a) Departamento de Políticas Públicas para Chilenos en el Exterior; y,
+a) Departamento de Participación Ciudadana y Actividades en Terreno; y
 
-b) Departamento de Programas en el Exterior.
+b) Departamento de Comunicaciones Consulares.
 
 #### Artículo 47
 
-El Departamento de Políticas Públicas para Chilenos en el Exterior tendrá las siguientes funciones:
+El Departamento de Participación Ciudadana y Actividades en Terreno tendrá las siguientes funciones:
 
-a) Promover la participación ciudadana de los chilenos en el exterior;
+a) Promover, en coordinación con la Dirección de Planificación Estratégica, la participación ciudadana de los chilenos en el exterior;
 
-b) Propiciar que los chilenos en el exterior accedan a las políticas públicas chilenas que les sean aplicables;
+b) Propiciar el acceso de los chilenos en el exterior a las políticas públicas chilenas que les sean aplicables;
 
-c) Facilitar el retorno a Chile de los nacionales que residen en el extranjero cuando correspondiere y conforme a los recursos presupuestarios disponibles; y,
+c) Prestar asistencia para el retorno a Chile de los nacionales que residen en el extranjero, cuando correspondiere, conforme a los recursos presupuestarios disponibles y la normativa vigente;
 
-d) Realizar las acciones de coordinación que correspondan con los órganos de la Administración del Estado competentes.
+d) Promover y apoyar el vínculo cultural, nacional y de arraigo con Chile de los chilenos en el exterior e impulsar el diálogo entre chilenos en Chile y el exterior;
+
+e) Apoyar a las comunidades de chilenos y fomentar la organización de los chilenos en el exterior, mediante fondos concursables y otras herramientas, conforme a las disponibilidades presupuestarias; y
+
+f) Realizar las acciones de coordinación que correspondan con los órganos de la Administración del Estado competentes.
 
 #### Artículo 48
 
-El Departamento de Programas en el Exterior tendrá las siguientes funciones:
-
-a) Promover y apoyar el vínculo cultural, nacional y de arraigo con Chile de los chilenos en el exterior e impulsar el diálogo entre chilenos en Chile y el exterior;
-
-b) Apoyar a las comunidades de chilenos y fomentar la organización de los chilenos en el exterior, mediante fondos concursables y otras herramientas; y,
-
-c) Desarrollar estrategias internas de comunicación y difusión de las políticas y servicios prestados por todas las unidades del área consular y los consulados de Chile en el exterior, en coordinación con las áreas de comunicaciones institucionales superiores.
+El Departamento de Comunicaciones Consulares tendrá la función de desarrollar estrategias internas de comunicación y difusión de las políticas y servicios prestados por todas las unidades de la Dirección General de Asuntos Consulares, Inmigración y de Chilenos en el Exterior y los consulados de Chile en el exterior, en coordinación con la Dirección de Comunicaciones Estratégicas.
 
 Sección 4ª
 
@@ -854,13 +924,11 @@ La División de Servicios Consulares tendrá las siguientes funciones:
 
 a) Coordinar las acciones de apoyo a los connacionales en el exterior, gestionando los procesos de asistencia, auxilio, protección consular y materias de seguridad social;
 
-b) Coordinar la atención de los connacionales afectados por catástrofes naturales u otras emergencias ocurridas en el exterior en coordinación con la red consular en el exterior y con los respectivos órganos de la Administración del Estado;
+b) Coordinar las labores de registro de los actos y hechos vitales que determinan el estado civil e identificación solicitados por los connacionales en el exterior, como también realizar las labores de tramitación de los documentos de identidad y de viaje, sean ordinarios, diplomáticos u oficiales; y
 
-c) Coordinar las labores de registro de los actos y hechos vitales que determinan el estado civil e identificación, solicitados por los connacionales en el exterior, como también realizar las labores de tramitación de los documentos de identidad y de viaje, sean ordinarios, diplomáticos u oficiales, para connacionales; y,
+c) Coordinar el proceso de apostillas respecto de documentos públicos y el proceso de legalización de otros instrumentos públicos, chilenos o extranjeros; como también el registro y el reconocimiento de títulos profesionales obtenidos en el extranjero en conformidad a los tratados en los que Chile es parte.
 
-d) Coordinar el proceso de apostillas respecto de documentos públicos y el proceso de legalización de otros instrumentos públicos, chilenos o extranjeros; como también el registro y el reconocimiento de títulos profesionales obtenidos en el extranjero, en conformidad a los tratados o acuerdos suscritos por Chile y que se encontraren vigentes.
-
-Las funciones antes descritas se realizarán dentro del marco de lo previsto en la Ley Nº 20.711, que implementa la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (Convención de la Apostilla), adoptada el 5 de octubre de 1961 en La Haya, Países Bajos; la Ley Nº 18.340, que fija nuevo texto del arancel consular de Chile; y el Decreto Supremo Nº 172, de 1977, del Ministerio de Relaciones Exteriores, que sustituye el Reglamento Consular, o aquellos que lo reemplacen.
+d) Eliminado.
 
 #### Artículo 50
 
@@ -870,11 +938,9 @@ a) Departamento de Servicio Social;
 
 b) Departamento de Seguridad Social;
 
-c) Departamento de Emergencias;
+c) Departamento de Registro Civil; y
 
-d) Departamento de Registro Civil; y,
-
-e) Departamento de Análisis y Validación de Documentos.
+d) Departamento de Análisis y Validación de Documentos.
 
 #### Artículo 51
 
@@ -890,13 +956,7 @@ b) Tramitar y gestionar solicitudes de connacionales recibidas desde la red cons
 
 #### Artículo 53
 
-El Departamento de Emergencias tendrá las siguientes funciones:
-
-a) Coordinar la atención de los connacionales por catástrofes naturales u otras contingencias ocurridas en el exterior;
-
-b) Vincularse con las autoridades extranjeras frente a catástrofes naturales u otras contingencias ocurridas en Chile a fin de atender sus requerimientos; y,
-
-c) Apoyar las labores de entrega y recepción de ayuda humanitaria internacional en situaciones de catástrofe natural u otras contingencias, en coordinación con la red consular en el exterior y con organismos gubernamentales chilenos.
+Eliminado.
 
 #### Artículo 54
 
@@ -912,9 +972,13 @@ El Departamento de Análisis y Validación de Documentos tendrá las siguientes 
 
 a) Apostillar documentos en conformidad a lo previsto en la ley Nº 20.711;
 
-b) Legalizar instrumentos públicos, chilenos o extranjeros; y,
+b) Legalizar instrumentos públicos, chilenos o extranjeros;
 
-c) Registrar y reconocer títulos profesionales obtenidos en el extranjero, en conformidad a los tratados suscritos por Chile y que se encuentren vigentes.
+c) Registrar y reconocer títulos profesionales obtenidos en el extranjero, en conformidad a los tratados en los que Chile es parte;
+
+d) Prestar el servicio de traducción de documentos cuando sea requerido por la Presidencia de la República, por el Ministerio de Relaciones Exteriores o por servicios dependientes y relacionados a este. Asimismo, le corresponderá la traducción de los documentos a que se refiere el artículo 437 del Código Procesal Penal; y
+
+e) Prestar al público servicios de traducción de documentos conforme con lo dispuesto en el artículo 97 del decreto con fuerza de ley Nº 33, de 1979, del Ministerio de Relaciones Exteriores.
 
 Sección 5ª
 
@@ -922,23 +986,19 @@ De la División de Migraciones
 
 #### Artículo 56
 
-La División de Migraciones tendrá la función de coordinar el diseño y ejecución de la política del Ministerio de Relaciones Exteriores aplicada a los procesos migratorios internacionales, como también procesar las solicitudes de visto de turismo o de visas que autorizan el ingreso de extranjeros al país.
+La División de Migraciones tendrá la función de diseñar, proponer e implementar la política del Ministerio de Relaciones Exteriores relativa a los procesos migratorios internacionales en coordinación con los respectivos órganos de la Administración del Estado.
 
 #### Artículo 57
 
-La División de Migraciones estará integrada por los siguientes departamentos:
-
-a) Departamento de Inmigración; y,
-
-b) Departamento de Migraciones.
+Eliminado.
 
 #### Artículo 58
 
-El Departamento de Inmigración tendrá la función de procesar las solicitudes de vistos de turismo o de visas que autorizan el ingreso de extranjeros a Chile, en coordinación con los órganos de la Administración del Estado competentes, de conformidad con la normativa legal vigente.
+Eliminado.
 
 #### Artículo 59
 
-El Departamento de Migraciones tendrá la función de diseñar, proponer e implementar la política del Ministerio de Relaciones Exteriores relativa a los procesos migratorios internacionales, en coordinación con los respectivos órganos de la Administración del Estado.
+Eliminado.
 
 ### Párrafo 4º
 
@@ -952,9 +1012,11 @@ De las funciones de la Dirección General Administrativa
 
 La Dirección General Administrativa tendrá las siguientes funciones:
 
-a) Dirigir, coordinar y gestionar los procedimientos vinculados a la gestión de personas, recursos financieros, materiales y tecnológicos de la Subsecretaría de Relaciones Exteriores, mediante la aplicación de los procedimientos existentes, en cumplimiento con la normativa vigente y con el diseño e implementación de proyectos de mejora; y,
+a) Dirigir, coordinar y gestionar los procesos vinculados a la gestión de personas, recursos financieros, materiales y tecnológicos de la Subsecretaría de Relaciones Exteriores, mediante la aplicación de los procedimientos existentes, en cumplimiento con la normativa vigente y con el diseño e implementación de proyectos de mejora;
 
-b) Efectuar el control administrativo de las misiones diplomáticas en el exterior, las representaciones permanentes ante organizaciones internacionales y las representaciones consulares, para asegurar el cumplimiento de los objetivos del Ministerio.
+b) Efectuar el control administrativo de las misiones diplomáticas en el exterior, las representaciones permanentes ante organizaciones internacionales y las representaciones consulares, para asegurar el cumplimiento de los objetivos del Ministerio; y,
+
+c) Las demás funciones que sean propias de las unidades sujetas a su dependencia.
 
 #### Artículo 61
 
@@ -980,21 +1042,35 @@ De la División de Gestión de Personas
 
 #### Artículo 62
 
-La División de Gestión de Personas tendrá la función de gestionar la planificación de los procesos vinculados al personal de la Subsecretaría de Relaciones Exteriores, lo que implica la definición de políticas en el manejo de personal, con el propósito de entregar coherencia a los diversos subsistemas de gestión de personas y garantizar su alineamiento con las necesidades y estrategia del Ministerio.
+La División de Gestión de Personas tendrá las siguientes funciones:
+
+a) Gestionar los procesos de planificación y definición de políticas de personal con el propósito de entregar coherencia a los diversos subsistemas de gestión de personas y garantizar su alineamiento con las necesidades y estrategia de la Subsecretaría de Relaciones Exteriores;
+
+b) Gestionar los procesos vinculados al personal de la Subsecretaría de Relaciones Exteriores;
+
+c) Identificar y definir las actividades, funciones, responsabilidades y propósitos que la Subsecretaría de Relaciones Exteriores asigna a un puesto de trabajo, así como las características de los perfiles de cargo y competencias requeridas;
+
+d) Proponer, diseñar e implementar los proyectos de desarrollo organizacional, gestionando los procesos de cambio de esa naturaleza a nivel institucional;
+
+e) Gestionar las actividades de formación, capacitación y perfeccionamiento de los funcionarios de la Subsecretaría de Relaciones Exteriores, en coordinación con las áreas funcionales respectivas;
+
+f) Gestionar estrategias de higiene y de seguridad laboral en la Subsecretaría de Relaciones Exteriores, en las misiones diplomáticas en el exterior, en las representaciones permanentes ante organizaciones internacionales y en las representaciones consulares; y
+
+g) Prestar asesoría en materias referentes al clima laboral de la Subsecretaría de Relaciones Exteriores, diseñar e implementar estrategias de intervención de clima laboral, instrumentos de evaluación psicolaboral y estudios de diagnóstico de clima laboral.
 
 #### Artículo 63
 
 La División de Gestión de Personas contará con los siguientes departamentos:
 
-a) Departamento de Gestión de Personas del Servicio Exterior y Contratos Locales;
+a) Departamento de Gestión de Personas del Servicio Exterior;
 
-b) Departamento de Gestión de Personas y Administración General; y,
+b) Departamento de Gestión de Personas y Administración General; y
 
-c) Departamento de Desarrollo y Apoyo a la Gestión de Personas.
+c) Departamento de Gestión de Personas de Contratos Locales.
 
 #### Artículo 64
 
-El Departamento de Gestión de Personas del Servicio Exterior y Contratos Locales tendrá las siguientes funciones:
+El Departamento de Gestión de Personas del Servicio Exterior tendrá las siguientes funciones:
 
 a) Prestar apoyo al proceso de ingreso del personal del Servicio Exterior gestionado por la Academia Diplomática de Chile "Andrés Bello";
 
@@ -1004,15 +1080,15 @@ c) Administrar los sistemas de evaluación periódica del personal del Servicio 
 
 d) Gestionar los procesos de ascensos del personal del Servicio Exterior;
 
-e) Gestionar los procesos de egreso y cesación de funciones, en coordinación con las áreas competentes de la Subsecretaría de Relaciones Exteriores;
+e) Gestionar los procesos de egreso y cesación de funciones, en coordinación con las áreas competentes de la Subsecretaría de Relaciones Exteriores; y
 
-f) Gestionar el proceso de reclutamiento y selección del personal contratado localmente en misiones y representaciones permanentes de Chile en el exterior;
+f) Registrar y actualizar la información del personal del Servicio Exterior para el manejo de los procesos de gestión de personas.
 
-g) Administrar los sistemas de evaluación periódica del personal contratado localmente en misiones y representaciones permanentes de Chile en el exterior, en base a criterios definidos en la normativa correspondiente y los lineamientos de la División de Gestión de Personas;
+g) Eliminado.
 
-h) Gestionar los procesos de egreso del personal contratado localmente en misiones y representaciones permanentes de Chile en el exterior; y,
+h) Eliminado.
 
-i) Registrar y actualizar la información del personal, para el manejo de los procesos de gestión de personas.
+i) Eliminado.
 
 #### Artículo 65
 
@@ -1038,21 +1114,15 @@ i) Registrar y actualizar la información del personal, para el manejo de los pr
 
 #### Artículo 66
 
-El Departamento de Desarrollo y Apoyo a la Gestión de Personas tendrá las siguientes funciones:
+El Departamento de Gestión de Personas de Contratos Locales tendrá las siguientes funciones:
 
-a) Apoyar a la División de Gestión de Personas en la gestión de procesos de planificación y definición de políticas de personal, en coordinación con los demás departamentos del área;
+a) Gestionar el proceso de reclutamiento y selección del personal contratado localmente en misiones diplomáticas, oficinas consulares y representaciones permanentes de Chile ante organizaciones internacionales en el exterior;
 
-b) Identificar y definir las actividades, funciones, responsabilidades y propósitos que la organización asigna a un puesto de trabajo, así como las características de los perfiles de cargo y competencias requeridas;
+b) Administrar los sistemas de evaluación periódica del personal contratado localmente en misiones diplomáticas, oficinas consulares y representaciones permanentes de Chile ante organizaciones internacionales en el exterior, en base a criterios definidos en la normativa correspondiente y los lineamientos de la División de Gestión de Personas;
 
-c) Proponer, diseñar e implementar los proyectos de desarrollo organizacional;
+c) Gestionar los procesos de egreso del personal contratado localmente en misiones diplomáticas, oficinas consulares y representaciones permanentes de Chile ante organizaciones internacionales en el exterior; y
 
-d) Gestionar procesos de cambio organizacional a nivel institucional;
-
-e) Gestionar las actividades de formación, capacitación y perfeccionamiento de los funcionarios de la Subsecretaría de Relaciones Exteriores, en coordinación con las áreas funcionales respectivas.
-
-f) Gestionar estrategias de higiene y de seguridad laboral en la Subsecretaría de Relaciones Exteriores en las misiones diplomáticas en el exterior, en las representaciones permanentes ante organizaciones internacionales y en las representaciones consulares; y,
-
-g) Prestar asesoría en materias referentes al clima laboral de la organización, diseñar e implementar estrategias de intervención de clima laboral, instrumentos de evaluación psicolaboral y estudios de diagnóstico de clima laboral.
+d) Registrar y actualizar la información del personal para el manejo de los procesos de gestión de personas.
 
 Sección 3ª
 
@@ -1112,7 +1182,7 @@ La División de Informática tendrá las siguientes funciones:
 
 a) Gestionar los procesos vinculados al funcionamiento operacional de los sistemas informáticos de Subsecretaría, incluyendo el soporte a usuarios, el desarrollo de nuevos sistemas y el mantenimiento de los sistemas de mensajería oficial;
 
-b) Velar, permanentemente, por la seguridad informática y la seguridad y confidencialidad de los documentos electrónicos de la Subsecretaría de Relaciones Exteriores;
+b) Desarrollar, permanentemente, las iniciativas de seguridad informática, la ciberseguridad y confidencialidad de los documentos electrónicos de la Subsecretaría de Relaciones Exteriores, en coordinación con la Dirección de Planificación Estratégica;
 
 c) Implementar planes de contingencia y ejecutar acciones correctivas para ataques informáticos;
 
@@ -1130,7 +1200,7 @@ b) Departamento de Proyectos Tecnológicos;
 
 c) Departamento de Soporte a Usuarios; y
 
-d) Departamento de Mensajería Oficial.
+d) Departamento de Administración de Sistemas.
 
 #### Artículo 74
 
@@ -1156,11 +1226,11 @@ c) Llevar a cabo la instalación de computadores y periféricos.
 
 #### Artículo 77
 
-El Departamento de Mensajería Oficial tendrá las siguientes funciones:
+El Departamento de Administración de Sistemas tendrá las siguientes funciones:
 
-a) Procesar y gestionar la mensajería oficial entre la Subsecretaría de Relaciones Exteriores y sus servicios dependientes y relacionados con las misiones diplomáticas en el exterior, las representaciones permanentes ante organizaciones internacionales y las representaciones consulares, atendiendo los requerimientos del usuario; y,
+a) Procesar y gestionar las solicitudes de acceso a los distintos sistemas informáticos de la Subsecretaría de Relaciones Exteriores; y
 
-b) Prestar apoyo ante situaciones de crisis y contingencias imprevistas, realizando las comunicaciones necesarias.
+b) Prestar apoyo ante situaciones de crisis y contingencias imprevistas, operando los equipos satelitales del Ministerio.
 
 Sección 5ª
 
@@ -1171,8 +1241,6 @@ De la División de Infraestructura y Logística
 La División de Infraestructura y Logística tendrá la función de gestionar los procesos vinculados a la infraestructura de la Subsecretaría de Relaciones Exteriores, considerando la implementación de los elementos de seguridad en los inmuebles de uso institucional, tanto en Chile como en el exterior, como también el funcionamiento de los servicios generales y la administración de la documentación oficial física.
 
 Asimismo, le corresponderá gestionar pólizas de seguros asociados a los servicios de infraestructura, seguridad y logística, administrar los contratos asociados a infraestructura y logística, y controlar la gestión de los arriendos de inmuebles de la Subsecretaría de Relaciones Exteriores, incluyendo aquellos que se encuentran en el exterior, debiendo, en lo pertinente, realizar las acciones de coordinación con la División de Compras y Contrataciones.
-
-De igual modo, deberá prestar el servicio de traducción de documentos cuando sea requerido por la Presidencia de la República, por el Ministerio de Relaciones Exteriores o por servicios dependientes y relacionados a éste. Asimismo, le corresponderá la traducción de los documentos a que se refiere el artículo 437 del Código Procesal Penal.
 
 #### Artículo 79
 
@@ -1276,23 +1344,25 @@ De la División de Asesoría Legal Administrativa
 
 #### Artículo 89
 
-La División de Asesoría Legal Administrativa tendrá las funciones de prestar asesoría en materias jurídicas de orden administrativo-financiero que sean requeridas por el Director General Administrativo, como también examinar y gestionar la elaboración y tramitación de los actos administrativos de la Subsecretaría de Relaciones Exteriores.
+La División de Asesoría Legal Administrativa tendrá las funciones de prestar asesoría en materias jurídicas de orden administrativo-financiero y de personal.
 
-Las funciones de esta División serán ejercidas sin perjuicio de las competencias de la Dirección General de Asuntos Jurídicos.
+Asimismo, le corresponderá examinar y gestionar la elaboración y tramitación de los actos administrativos de la Subsecretaría de Relaciones Exteriores, sin perjuicio de las competencias de la Dirección General de Asuntos Jurídicos sobre la materia.
 
 #### Artículo 90
 
 La División de Asesoría Legal Administrativa contará con los siguientes departamentos:
 
-a) Departamento de Asuntos Jurídicos Administrativos; y,
+a) Departamento de Asuntos Jurídicos Administrativos;
 
-b) Departamento de Actos Administrativos.
+b) Departamento de Actos Administrativos; y
+
+c) Departamento de Asuntos Jurídicos de Contratos Locales.
 
 #### Artículo 91
 
 El Departamento de Asuntos Jurídicos Administrativos tendrá las siguientes funciones:
 
-a) Preparar informes y minutas, así como proyectos de mensajes, memorándum y oficios relativos a materias jurídicas de orden administrativo y financiero requeridas por el Director General Administrativo;
+a) Preparar informes y minutas sobre materias jurídicas de orden administrativo-financiero y de personal;
 
 b) Gestionar internamente las respuestas a requerimientos que efectúen órganos de la Administración del Estado en materias legales vinculadas con la Dirección General Administrativa, constituyendo el nexo con las entidades requirentes; y,
 
@@ -1306,29 +1376,55 @@ a) Realizar el respectivo examen de juridicidad de los procedimientos y actos ad
 
 b) Gestionar la elaboración, tramitación y registro, este último si correspondiere, de los actos administrativos de la Subsecretaría de Relaciones Exteriores sometidos a su esfera de competencia.
 
+#### Artículo 92 bis
+
+El Departamento de Asuntos Jurídicos de Contratos Locales tendrá las siguientes funciones:
+
+a) Preparar informes, minutas, actos administrativos y oficios relativos a materias jurídicas de orden administrativo, financiero y de legislación laboral nacional y extranjera relacionadas con el personal contratado localmente en misiones diplomáticas, oficinas consulares y representaciones permanentes de Chile ante organizaciones internacionales en el exterior;
+
+b) Coordinar, gestionar y supervisar la contratación para la defensa de los intereses de Chile en los litigios en materias laborales o previsionales surgidos en el extranjero que involucren al personal contratado localmente en misiones diplomáticas, oficinas consulares y representaciones permanentes de Chile ante organizaciones internacionales en el exterior, e informar de estos a la Dirección General de Asuntos Jurídicos; y
+
+c) Coordinar las gestiones pertinentes orientadas a que el Subsecretario de Relaciones Exteriores pueda transigir litigios pendientes y precaver litigios eventuales en materias laborales o previsionales surgidos en el extranjero que afecten al Estado de Chile en los términos previstos en el artículo 14 Nº 15 de la ley Nº 21.080.
+
 Sección 8ª
 
 De la División de Atención Ciudadana y Transparencia
 
 #### Artículo 93
 
-La División de Atención Ciudadana y Transparencia tendrá las siguientes funciones:
+La División de Atención Ciudadana y Transparencia tendrá las funciones de gestionar las solicitudes ciudadanas y dar cumplimiento a las normativas que versan sobre materias de atención ciudadana, transparencia y lobby.
 
-a) Sustanciar y responder las consultas formuladas por la ciudadanía dentro del marco del derecho de petición contenido en el artículo 19 Nº 14 de la Constitución de la República, en concordancia a lo previsto, en lo pertinente, en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado;
+#### Artículo 93 bis
 
-b) Coordinar, desarrollar, implementar, ejecutar y controlar funcionalmente el Sistema Integral de Atención Ciudadana de la Subsecretaría de Relaciones Exteriores, realizando, asimismo, las tareas que se detallan en el Decreto Supremo Nº 680, de 1990, del entonces Ministerio del Interior, u otra norma que la sustituya;
+La División de Atención Ciudadana y Transparencia contará con los siguientes departamentos:
 
-c) Velar por el cumplimiento oportuno de la obligación de Transparencia Activa, realizando las acciones de coordinación necesarias con las áreas funcionales competentes de la Subsecretaría de Relaciones Exteriores, conforme a lo previsto a la ley Nº 20.285, sobre acceso a la información pública, y otras normas que resultaren aplicables;
+a) Departamento de Atención Ciudadana; y
 
-d) Gestionar las solicitudes de acceso a la información, en conformidad al procedimiento administrativo dispuesto por la ley Nº 20.285, sobre acceso a la información pública, y otras normas que resultaren aplicables, como también elaborar los actos trámite y decisorios respectivos que se circunscriben a ese procedimiento;
+b) Departamento de Transparencia y Lobby.
 
-e) Elaborar las propuestas de descargos u observaciones de la Subsecretaría de Relaciones Exteriores que sean requeridos por el Consejo para la Transparencia, conforme al procedimiento de reclamación que dispone la referida ley Nº 20.285, sobre acceso a la información pública;
+#### Artículo 93 ter
 
-f) Servir de enlace con el Consejo para la Transparencia y dar publicidad a las áreas funcionales de la Subsecretaría de Relaciones Exteriores de las instrucciones y recomendaciones que ese órgano imparta; y,
+El Departamento de Atención Ciudadana tendrá las siguientes funciones:
 
-g) Diligenciar el procedimiento administrativo y la plataforma electrónica dispuesta para el cumplimiento de la ley Nº 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios de la Subsecretaría de Relaciones Exteriores.
+a) Sustanciar y responder las consultas formuladas por la ciudadanía dentro del marco del derecho de petición contenido en el artículo 19 Nº 14 de la Constitución Política de la República o derivadas de otros órganos del Estado, en concordancia a lo previsto, en lo pertinente, en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; y
 
-Respecto a las funciones que se describen en los literales d) y e) del presente artículo, esta División podrá requerir la intervención de la Dirección General de Asuntos Jurídicos, previa instrucción del Subsecretario de Relaciones Exteriores.
+b) Coordinar, desarrollar, implementar, ejecutar y controlar funcionalmente el Sistema Integral de Atención Ciudadana de la Subsecretaría de Relaciones Exteriores, realizando, asimismo, las tareas que se detallan en el decreto supremo Nº 680, de 1990, del entonces Ministerio del Interior, u otra norma que la sustituya.
+
+#### Artículo 93 quáter
+
+El Departamento de Transparencia y Lobby tendrá las siguientes funciones:
+
+a) Dar cumplimiento oportuno a la obligación de Transparencia Activa, realizando las acciones de coordinación necesarias con las áreas funcionales competentes de la Subsecretaría de Relaciones Exteriores, conforme a lo previsto a la ley Nº 20.285, sobre acceso a la información pública, y otras normas que resultaren aplicables;
+
+b) Gestionar las solicitudes de acceso a la información en conformidad al procedimiento administrativo dispuesto por la ley Nº 20.285, sobre acceso a la información pública, y otras normas que resultaren aplicables, como también elaborar los actos trámite y decisorios respectivos que se circunscriben a ese procedimiento;
+
+c) Elaborar las propuestas de descargos, observaciones e informes de cumplimiento de la Subsecretaría de Relaciones Exteriores que sean requeridos por el Consejo para la Transparencia, conforme al procedimiento de reclamación que dispone la referida ley Nº 20.285, sobre acceso a la información pública;
+
+d) Servir de enlace con el Consejo para la Transparencia y demás órganos de la Administración del Estado vinculadas a las materias de su competencia, así como dar publicidad a las áreas funcionales de la Subsecretaría de Relaciones Exteriores de las instrucciones y, recomendaciones que, en lo pertinente, esos órganos impartan; y
+
+e) Diligenciar el procedimiento administrativo y la plataforma electrónica dispuesta para el cumplimiento de la ley Nº 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios de la Subsecretaría de Relaciones Exteriores.
+
+Respecto a las funciones que se describen en los literales b) y c) del presente artículo, la División de Atención Ciudadana y Transparencia podrá requerir la intervención de la Dirección General de Asuntos Jurídicos, previa instrucción del Subsecretario de Relaciones Exteriores.
 
 ### Párrafo 5º
 
@@ -1354,67 +1450,51 @@ e) Supervisar el estado procesal de los litigios que involucren a la Subsecretar
 
 f) Coordinar y establecer directrices jurídicas a las distintas áreas funcionales y servicios dependientes y relacionados con la Subsecretaría de Relaciones Exteriores;
 
-g) Vincularse con las entidades encargadas de la codificación del derecho internacional público y privado, especialmente con la Comisión de Derecho Internacional (CDI);
+g) Vincularse con las entidades encargadas de la codificación y el desarrollo progresivo del derecho internacional público y privado, especialmente con la Comisión de Derecho Internacional (CDI);
 
-h) Requerir el informe al Consejo de Defensa del Estado, a solicitud de la Subsecretaría de Relaciones Exteriores, en conformidad a lo dispuesto en el artículo 14 Nº 15 de la ley Nº 21.080; y,
+h) Estudiar y proponer medidas en materia de derecho internacional humanitario a las autoridades competentes;
 
-i) Las demás funciones que sean propias de las unidades sujetas a su dependencia.
+i) Elaborar los reglamentos y demás actos administrativos que sean de competencia de la Subsecretaría de Relaciones Exteriores, en coordinación con las respectivas áreas funcionales, con excepción de aquellos de orden administrativo-financiero, de personas y de procesos de compras que correspondan a la Dirección General Administrativa; y
+
+j) Las demás funciones que sean propias de las unidades sujetas a su dependencia."
 
 #### Artículo 95
 
 La Dirección General de Asuntos Jurídicos estará integrada por las siguientes divisiones:
 
-a) División de Derecho Internacional, Tratados y Asuntos Legislativos;
+a) División de Derecho Internacional;
 
 b) División de Derecho Nacional;
 
-c) División de Cooperación Judicial; y,
+c) División de Cooperación Jurídica Internacional; y
 
-d) División de Fiscalización Interna.
+d) División de Tratados y Asuntos Legislativos.
 
 Sección 2ª
 
-De la División de Derecho Internacional, Tratados y Asuntos Legislativos.
+De la División de Derecho Internacional.
 
 #### Artículo 96
 
-La División de Derecho Internacional, Tratados y Asuntos Legislativos tendrá, entre otras, las siguientes funciones:
+La División de Derecho Internacional tendrá, entre otras, las siguientes funciones:
 
-a) Asesorar en materias jurídicas internacionales a las autoridades del Ministerio de Relaciones Exteriores a los efectos de la adopción de determinadas decisiones políticas;
+a) Asesorar en materias jurídicas internacionales a las autoridades del Ministerio de Relaciones Exteriores;
 
-b) Requerir a las áreas funcionales de la Subsecretaría de Relaciones Exteriores información referente a la negociación de tratados y de otros acuerdos internacionales;
+b) Requerir a las áreas funcionales de la Subsecretaría de Relaciones Exteriores información referente a la negociación de tratados y de otros instrumentos internacionales;
 
-c) Emitir informes jurídicos sobre proyectos de tratados y de otros acuerdos internacionales, tanto bilaterales como multilaterales, en la etapa de negociación, ya sean instrumentos entre gobiernos o con organizaciones internacionales, velando fundamentalmente por la compatibilidad de dichos instrumentos con la normativa interna, y participar en los procesos de negociación de los mismos cuando ello se estime necesario;
+c) Emitir informes jurídicos sobre proyectos de tratados y de otros instrumentos internacionales y participar en los procesos de negociación de los mismos cuando ello se estime necesario;
 
-d) Absolver consultas referidas a la interpretación de los tratados vigentes;
+d) Absolver consultas referidas a la interpretación de normas internacionales en coordinación con la División de Tratados y Asuntos Legislativos;
 
-e) Asesorar jurídicamente a las distintas áreas funcionales del Ministerio de Relaciones Exteriores en los temas jurídicos internacionales de competencia de cada una de ellas, especialmente aquellos que versan sobre controversias jurídicas internacionales que puedan comprometer la responsabilidad internacional del Estado;
+e) Asesorar jurídicamente a las distintas áreas funcionales del Ministerio de Relaciones Exteriores en los temas jurídicos internacionales de competencia de cada una de ellas;
 
-f) Analizar los proyectos de artículos y otros documentos elaborados en el marco de procesos de codificación en el ámbito del derecho internacional privado, a excepción de aquellos aspectos que sean exclusivamente de naturaleza comercial o mercantil. Le corresponderá, asimismo, preparar los comentarios y observaciones de esos proyectos en coordinación, cuando corresponda, con las áreas funcionales directamente involucradas;
+f) Analizar los proyectos de artículos y otros documentos elaborados en el marco de procesos de codificación y desarrollo progresivo del derecho internacional público y privado, a excepción de aquellos aspectos que sean exclusivamente de naturaleza comercial o mercantil. Le corresponderá, asimismo, preparar los comentarios y observaciones de esos proyectos en coordinación, cuando corresponda, con las áreas funcionales directamente involucradas;
 
-g) Preparar, en coordinación con las autoridades políticas del Ministerio, la participación de la Dirección General de Asuntos Jurídicos en la Sexta Comisión (Asuntos Jurídicos) de la Asamblea General de las Naciones Unidas;
+g) Preparar, en coordinación con las autoridades políticas del Ministerio, la participación de la Dirección General de Asuntos Jurídicos en la Sexta Comisión (Asuntos Jurídicos) de la Asamblea General de las Naciones Unidas y otros foros internacionales;
 
-h) Mantener el vínculo con órganos jurisdiccionales internacionales y otras entidades relacionadas con el derecho internacional;
+h) Prestar asesoría a las autoridades del Ministerio en materias de competencia de órganos jurisdiccionales internacionales y otras entidades relacionadas con el derecho internacional; y
 
-i) Elaborar, en coordinación con las autoridades políticas del Ministerio, las instrucciones en materias jurídicas a las delegaciones nacionales en conferencias internacionales;
-
-j) Realizar los actos preparatorios para la suscripción de los tratados y acuerdos internacionales suscritos por el Estado de Chile, tales como elaborar textos y llevar a cabo el cotejo de los mismos;
-
-k) Elaborar plenos poderes, instrumentos de ratificación, adhesión, aprobación o aceptación, según corresponda, reservas, declaraciones interpretativas, denuncias o retiros, actas de canje; efectuar las comunicaciones con otros Estados y organizaciones internacionales y dar publicidad a los hechos que digan relación con los tratados suscritos por el Estado de Chile;
-
-l) Determinar el procedimiento aplicable para la incorporación de los tratados suscritos por el Estado de Chile al ordenamiento jurídico interno, de acuerdo a la Constitución Política de la República y las leyes;
-
-m) Elaborar los decretos supremos promulgatorios de los tratados suscritos por el Estado de Chile para su incorporación en el ordenamiento jurídico nacional;
-
-n) Elaborar informes sobre el derecho de los tratados y su práctica, de conformidad con la Convención de Viena sobre el Derecho de los Tratados;
-
-o) Preparar la agenda jurídico-legislativa del Ministerio de Relaciones Exteriores ante el Congreso Nacional y mantener la relación con las comisiones correspondientes de ambas Cámaras del Congreso Nacional y con el Ministerio Secretaría General de la Presidencia, en lo relativo a la tramitación e informes requeridos respecto de los tratados y de los proyectos de ley originados o vinculados con esta Secretaría de Estado;
-
-p) Custodiar, clasificar, catalogar y archivar la documentación relativa a los instrumentos internacionales suscritos por el Estado de Chile; y,
-
-q) Realizar las acciones relativas a la certificación de autenticidad de todos los tratados internacionales suscritos por el Estado de Chile, de las resoluciones o decisiones adoptadas conforme a los mismos y de los documentos relativos a la celebración de los tratados internacionales.
-
-Lo previsto en los literales j), k), l), m), n), o) y p) precedentes, es sin perjuicio de las funciones propias de la Subsecretaría de Relaciones Económicas Internacionales en la tramitación de instrumentos internacionales suscritos por el Estado de Chile de contenido exclusivamente económico.
+i) Elaborar, en coordinación con las autoridades políticas del Ministerio, las instrucciones en materias jurídicas a las delegaciones nacionales en conferencias internacionales.
 
 Sección 3ª
 
@@ -1446,7 +1526,7 @@ j) Informar en derecho, previo requerimiento de la autoridad, respecto de los di
 
 Sección 4ª
 
-De la División de Cooperación Judicial
+De la División de Cooperación Jurídica Internacional
 
 #### Artículo 98
 
@@ -1466,23 +1546,29 @@ f) Evaluar periódicamente la operatividad de los tratados bilaterales y multila
 
 Sección 5ª
 
-De la División de Fiscalización Interna
+De la División de Tratados y Asuntos Legislativos
 
 #### Artículo 99
 
-La División de Fiscalización Interna tendrá, entre otras, las siguientes funciones:
+La División de Tratados y Asuntos Legislativos tendrá, entre otras, las siguientes funciones:
 
-a) Proponer programas y planes de cumplimiento normativo a las áreas funcionales de la Subsecretaría de Relaciones Exteriores;
+a) Realizar los actos preparatorios para la celebración de los tratados y otros instrumentos internacionales del Estado de Chile, tales como elaborar textos, llevar a cabo el cotejo de los mismos y asistir a las autoridades en la ceremonia de firma de éstos;
 
-b) Efectuar el seguimiento del estado de los procesos disciplinarios instruidos en la Subsecretaría de Relaciones Exteriores, como también llevar permanentemente al día el libro de sumarios e investigaciones sumarias;
+b) Elaborar plenos poderes, instrumentos de ratificación, adhesión, aprobación o aceptación, según corresponda, reservas, declaraciones interpretativas, denuncias o retiros, actas de canje, efectuar las comunicaciones con otros Estados y organizaciones internacionales y dar publicidad a los hechos que digan relación con los tratados de los que el Estado de Chile sea parte;
 
-c) Elaborar proyectos de actos administrativos circunscritos en el ámbito de aplicación del Título V de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fuera fijado por el decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, como también la notificación de los mismos;
+c) Determinar el procedimiento aplicable para la incorporación de los tratados al ordenamiento jurídico interno de acuerdo a la Constitución Política de la República y las leyes;
 
-d) Informar los estados de avance a la Subsecretaría de Relaciones Exteriores, al Consejo de Auditoría General de Gobierno y a la Contraloría General de la República en materia de procedimientos disciplinarios; y,
+d) Elaborar los decretos supremos promulgatorios de tratados y otros instrumentos internacionales;
 
-e) Realizar las acciones de inducción al personal designado como investigador o fiscal, si correspondiere, en los procedimientos disciplinarios de la Subsecretaría de Relaciones Exteriores, como también formular programas de capacitación sobre la materia, en coordinación con el Departamento de Desarrollo y Apoyo a la Gestión de Personas.
+e) Elaborar informes sobre el derecho de los tratados y su práctica, de conformidad con la Convención de Viena sobre el Derecho de los Tratados y demás instrumentos aplicables en la especie, en coordinación con la División de Derecho Internacional;
 
-Los funcionarios de esta División podrán actuar como fiscales de sumarios administrativos, cuando el Subsecretario de Relaciones Exteriores lo disponga, o bien, como actuarios, cuando sean designados por los fiscales.
+f) Preparar la agenda jurídico-legislativa del Ministerio de Relaciones Exteriores ante el Congreso Nacional y mantener la relación con las comisiones correspondientes de ambas Cámaras del Congreso Nacional y con el Ministerio Secretaría General de la Presidencia, en lo relativo a la tramitación e informes requeridos respecto de los tratados y de los proyectos de ley originados o vinculados con esta Secretaría de Estado;
+
+g) Custodiar y archivar la documentación relativa a los instrumentos internacionales adoptados por el Estado de Chile; y
+
+h) Realizar las acciones relativas a la certificación de autenticidad de los tratados internacionales de los que Chile es parte, de las resoluciones o decisiones adoptadas conforme a los mismos y de los documentos relativos a la celebración de dichos tratados.
+
+Lo previsto en los literales a), b), c), d), e), f) y g) precedentes, es sin perjuicio de las funciones propias de la Subsecretaría de Relaciones Económicas Internacionales en la tramitación de instrumentos internacionales suscritos por el Estado de Chile de contenido exclusivamente económico.
 
 ### Párrafo 6º
 
@@ -1495,6 +1581,8 @@ De las funciones de la Dirección General del Ceremonial y Protocolo
 #### Artículo 100
 
 La Dirección General del Ceremonial y Protocolo tendrá la función de atender el ceremonial del Presidente de la República, autoridades del Ministerio y de las visitas oficiales y de Estado, y autoridades e invitados del Gobierno de Chile, organizando los aspectos protocolares y logísticos necesarios para el cumplimiento de esas actividades.
+
+Asimismo, tendrá las demás funciones que sean propias de las unidades sujetas a su dependencia.
 
 #### Artículo 101
 
@@ -1626,31 +1714,37 @@ c) Gestionar los convenios nacionales e internacionales de naturaleza interinsti
 
 La División Académica contará con los siguientes departamentos:
 
-a) Departamento de Coordinación Académica y Admisión;
+a) Departamento Académico;
 
-b) Departamento de Extensión; y,
+b) Departamento de Admisión;
 
-c) Departamento de Biblioteca.
+c) Departamento de Extensión; y
+
+d) Departamento de Biblioteca.
 
 #### Artículo 116
 
-El Departamento de Coordinación Académica y Admisión tendrá las siguientes funciones:
+El Departamento Académico tendrá las siguientes funciones:
 
 a) Elaborar los planes de estudio y mallas curriculares correspondientes a los cursos regulares de formación, perfeccionamiento y capacitación de los alumnos de la Academia;
 
-b) Determinar el cumplimiento de los requisitos académicos de ascenso de los funcionarios de la Planta del Servicio Exterior, en conformidad a lo previsto en el artículo 25 del decreto con fuerza de ley Nº 33, de 1979, del Ministerio de Relaciones Exteriores;
+b) Realizar cursos de temas específicos para funcionarios del Estado;
 
-c) Realizar cursos de temas específicos para funcionarios del Estado;
+c) Realizar cursos de temas específicos para funcionarios de otros países y organismos internacionales;
 
-d) Realizar cursos de temas específicos para funcionarios de otros países y organismos internacionales;
+d) Realizar cursos para diplomáticos extranjeros; y
 
-e) Realizar cursos para diplomáticos extranjeros;
+e) Diseñar y supervisar las labores de investigación, identificando temas relevantes que puedan ser objeto de estudio, así como los académicos idóneos para desarrollar tales investigaciones.
 
-f) Proponer el establecimiento de convenios de cooperación con otras instituciones nacionales y extranjeras, en materias propias de la Academia Diplomática de Chile "Andrés Bello";
+#### Artículo 116 bis
 
-g) Diseñar y supervisar las labores de investigación, identificando temas relevantes que puedan ser objeto de estudio, así como los académicos idóneos para desarrollar tales investigaciones; y,
+El Departamento de Admisión tendrá las siguientes funciones:
 
-h) Coordinar el proceso de ingreso de nuevos alumnos.
+a) Diseñar y ejecutar el proceso de reclutamiento de postulantes a la Academia Diplomática de Chile "Andrés Bello";
+
+b) Coordinar el proceso de ingreso de nuevos alumnos; y
+
+c) Determinar el cumplimiento de los requisitos académicos de ascenso de los funcionarios de la Planta del Servicio Exterior, en conformidad a lo previsto en el artículo 25 del decreto con fuerza de ley Nº 33, de 1979, del Ministerio de Relaciones Exteriores.
 
 #### Artículo 117
 
@@ -1662,9 +1756,11 @@ b) Generar las actividades necesarias para la difusión del proceso de selecció
 
 c) Gestionar actividades específicas de extensión, seleccionando expertos nacionales e internacionales, según corresponda;
 
-d) Organizar actividades especiales con otras entidades públicas y privadas; y,
+d) Organizar actividades especiales con otras entidades públicas y privadas;
 
-e) Realizar actividades de divulgación en temas de relaciones internacionales.
+e) Realizar actividades de divulgación en temas de relaciones internacionales; y
+
+f) Proponer y gestionar el establecimiento de convenios de cooperación con otras instituciones nacionales y extranjeras en materias propias de la Academia Diplomática de Chile 'Andrés Bello'
 
 #### Artículo 118
 
@@ -1712,9 +1808,11 @@ m) Diseñar y administrar los medios de diplomacia digital de la Subsecretaría 
 
 n) Implementar las acciones de difusión en redes sociales de acuerdo al plan comunicacional de la Subsecretaría de Relaciones Exteriores;
 
-o) Recabar y difundir información relevante para los objetivos de la institución, acercando la información a la ciudadanía; y,
+o) Recabar y difundir información relevante para los objetivos de la institución, acercando la información a la ciudadanía;
 
-p) Mantener actualizado el sitio electrónico del Ministerio de Relaciones Exteriores, de acuerdo a la información que provean las unidades del mismo, tanto en Chile como en el exterior.
+p) Mantener actualizado el sitio electrónico del Ministerio de Relaciones Exteriores, de acuerdo a la información que provean las unidades del mismo, tanto en Chile como en el exterior; y
+
+q) Diseñar la estrategia de comunicaciones internas de la institución en coordinación con las áreas funcionales de la Subsecretaría de Relaciones Exteriores para la implementación de la misma.
 
 ## Título III
 
