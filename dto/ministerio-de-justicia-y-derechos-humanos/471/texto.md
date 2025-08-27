@@ -94,7 +94,7 @@ Denuncia. La denuncia efectuada por un niño, niña o adolescente deberá ser re
 
 #### Artículo 5°
 
-Entrevista investigativa videograbada. La diligencia se realizará por un entrevistador designado por el fiscal de entre aquellos que cuenten con acreditación vigente en el Registro de Entrevistadores, en el tiempo más próximo a la denuncia, a menos que el niño, niña o adolescente no se encuentre disponible y en condiciones físicas y psíquicas para participar en ella, lo que deberá ser calificado por un profesional de la Unidad de Atención a Víctimas y Testigos de la fiscalía respectiva.
+Entrevista investigativa videograbada. La diligencia se realizará por un entrevistador designado por el fiscal de entre aquellos que cuenten con acreditación vigente en el Registro de Entrevistadores, en el tiempo más próximo a la denuncia, a menos que el niño, niña o adolescente no se encuentre disponible y en condiciones físicas y psíquicas para participar en ella, lo que deberá ser calificado por un profesional de la Unidad de Atención a Víctimas y Testigos de la fiscalía respectiva. La entrevista deberá efectuarse en un lenguaje y modo adecuados a su edad, madurez y condición psíquica.
 
 El propósito de la entrevista será proporcionar antecedentes que puedan orientar el desarrollo de la investigación penal mediante la información que el niño, niña o adolescente entregue de los hechos denunciados y de sus partícipes, cualquiera sea la forma en que ésta se exprese, procurando, por esta vía, evitar la exposición reiterada e injustificada del niño, niña o adolescente a instancias que busquen establecer la ocurrencia de los hechos materia de la investigación y de la participación criminal.
 
@@ -104,7 +104,7 @@ La entrevista se desarrollará en una Sala de Entrevistas Investigativas, en una
 
 Declaración judicial de niños, niñas y adolescentes. La diligencia tendrá por objeto que el niño, niña o adolescente preste declaración en juicio con intervención de un entrevistador que actuará como intermediario, el cual será designado por el juez de garantía o el tribunal de juicio oral en lo penal, de entre aquellos que cuenten con acreditación vigente en el Registro de Entrevistadores. El intermediario actuará como facilitador, formulando al niño, niña o adolescente las preguntas que dirigen los intervinientes por intermedio del juez presidente o del juez de garantía, según corresponda, en un lenguaje y modo adecuados a su edad, madurez y condición psíquica.
 
-La declaración se desarrollará en la Sala Especial del tribunal respectivo, en la que estarán presentes el entrevistador y el niño, niña o adolescente. Excepcionalmente, respecto de la declaración voluntaria en juicio de los adolescentes, el juez presidente ingresará a la Sala Especial en los términos establecidos en el artículo 14 de la ley.
+La declaración se desarrollará en una sala que cumpla con las características y condiciones previstas en los artículos 20 y 21 de la ley, en la que estarán presentes el entrevistador y el niño, niña o adolescente. Excepcionalmente, respecto de la declaración voluntaria en juicio de los adolescentes, el juez presidente ingresará a la Sala Especial en los términos establecidos en el artículo 14 de la ley.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, en aquellos casos en que existan dificultades de comunicación con el niño, niña o adolescente, el tribunal podrá autorizar la presencia en ella de un traductor, intérprete u otro especialista profesional o técnico idóneo.
 
@@ -340,15 +340,15 @@ k) Modelos de evaluación y autoevaluación de la técnica de entrevista investi
 
 Requisitos que deberá cumplir el CIFE. Los siguientes son los requisitos mínimos que deberá cumplir la planificación del CIFE:
 
-a) Contemplar una duración mínima de 60 horas cronológicas, las cuales deberán ser distribuidas en al menos 10 jornadas de trabajo, sin perjuicio de lo cual ciertos contenidos teóricos podrán ser impartidos complementariamente mediante sistema e-learning.
+a) Contemplar una duración mínima de 60 horas cronológicas, las cuales podrán impartirse por modalidad e-learning mediante un espacio educativo con plataforma virtual que considere recursos de aprendizaje que garanticen el cumplimiento de los objetivos del CIFE.
 
-b) Durante el curso, los alumnos tendrán acceso a las dependencias con las condiciones mínimas para una instancia de grabación.
+b) Durante el curso, los alumnos tendrán acceso a las dependencias o recursos virtuales con las condiciones mínimas para una instancia de grabación.
 
 c) Cada curso no podrá tener un número mayor de 16 alumnos.
 
 d) Elaboración de un informe final del CIFE en el cual se indiquen las fortalezas identificadas y los aspectos que sean necesarios mejorar de la persona participante, y se refiera sobre la idoneidad de ésta para ejercer las funciones de entrevistador.
 
-e) Contemplar la realización del primer ciclo de PFC inmediatamente después de haber concluido el CIFE.
+e) Contemplar la realización del primer ciclo de PFC, una vez se haya notificado la acreditación al entrevistador.
 
 ### Párrafo 3°
 
@@ -366,13 +366,13 @@ Sin perjuicio de lo anterior, la realización del PFC a que se refiere el inciso
 
 Actividades de capacitación teórica. El PFC deberá contemplar instancias de entrega de aquellos contenidos señalados en el artículo 23 del presente reglamento, así como de cualquier otro tema que la entidad que imparta el programa estime sea favorable para la mantención o mejora de los conocimientos o habilidades del entrevistador.
 
-La entidad que imparta el PFC deberá asegurar anualmente actividades de capacitación teórica por un mínimo de 8 horas cronológicas.
+La entidad que imparta el PFC deberá asegurar anualmente actividades de capacitación teórica por un mínimo de 8 horas cronológicas por cada año de duración del ciclo respectivo.
 
 #### Artículo 27
 
 Instancias de práctica con retroalimentación experta. El PFC deberá contemplar varias instancias de práctica con retroalimentación experta, la cual consiste en la entrega de información sobre el desempeño del entrevistador en la aplicación de la técnica de entrevista o intermediación, haciendo referencia a las fortalezas y aspectos a mejorar, entregando a su vez orientación y apoyo en la disminución de tales brechas.
 
-Cada ciclo de PFC deberá contemplar, al menos, dos instancias anuales de práctica con retroalimentación experta.
+Cada ciclo de PFC deberá contemplar, al menos, dos instancias prácticas con retroalimentación experta, por cada año de duración del ciclo respectivo.
 
 #### Artículo 28
 
@@ -416,7 +416,7 @@ Para los efectos de lo dispuesto en el artículo 30 de la Ley, en el marco de la
 
 #### Artículo 32
 
-Evaluación. La División de Reinserción Social de la Subsecretaría de Justicia efectuará un seguimiento anual del funcionamiento del sistema en atención a los aspectos contenidos en el inciso primero del artículo 29 de la Ley. La evaluación concluirá con un informe que será difundido y sometido a conocimiento y aprobación de las instituciones encargadas de dar cumplimiento a la Ley, para que, en caso de ser necesario, propongan cambios o adecuaciones para el mejoramiento del mismo.
+Evaluación. La División de Reinserción Social de la Subsecretaría de Justicia efectuará un seguimiento anual del funcionamiento del sistema en atención a los aspectos contenidos en el inciso primero del artículo 29 de la Ley. La evaluación concluirá con un informe que será puesto en conocimiento de las instituciones encargadas de dar cumplimiento a la ley, en forma previa a su difusión, para que, en caso de ser necesario, propongan cambios o adecuaciones para el mejoramiento del mismo.
 
 Los informes que trata el inciso anterior se tendrán a la vista al momento de revisar y actualizar el presente reglamento, conforme lo dispone el inciso segundo del artículo 29 de la Ley.
 
@@ -526,7 +526,7 @@ De la revalidación de la acreditación. La solicitud de revalidación de la acr
 
 Al momento de hacerse la solicitud, deberá llenarse el correspondiente formulario de postulación elaborado por la División de Reinserción Social del Ministerio de Justicia y Derechos Humanos, el que estará disponible en su sitio web, y deberán acompañarse los antecedentes que se detallan en el artículo 43 que permitan la verificación del cumplimiento de los requisitos señalados en los artículos siguientes.
 
-En caso de estar vencida la acreditación y habiendo cursado exitosamente un PFC con posterioridad al término de la vigencia de la misma, la persona interesada podrá solicitar la renovación de que trata este artículo, siempre que no hayan transcurrido más de 4 años desde la aprobación del respectivo CIFE. En los demás casos, se estará a lo señalado en el inciso segundo del artículo 44.
+En caso de estar vencida la acreditación y habiendo cursado exitosamente un PFC con posterioridad al término de la vigencia de la misma, la entidad respectiva o la persona interesada, podrá solicitar la renovación de que trata este artículo, siempre que no hayan transcurrido más de 4 años desde la aprobación del respectivo CIFE. En los demás casos, se estará a lo señalado en el inciso segundo del artículo 44.
 
 #### Artículo 42
 
@@ -566,17 +566,17 @@ Del Registro de Entrevistadores
 
 El Registro de Entrevistadores. El Registro de Entrevistadores, a que se refiere el artículo 6° de la ley, será único y su conformación y administración estarán a cargo del Ministerio de Justicia y Derechos Humanos, a través de la División de Reinserción Social de la Subsecretaría de Justicia.
 
-El referido registro contendrá un listado de los entrevistadores con acreditación vigente, con indicación de datos de contacto tales como número telefónico, correo electrónico y domicilio particular, la institución a la que pertenecen y su domicilio laboral, y será actualizado cada 48 horas, indicándose la hora y fecha de su última modificación.
+El referido registro contendrá un listado de los entrevistadores con acreditación vigente, con indicación de datos de contacto tales como número telefónico, correo electrónico, la institución a la que pertenecen y su domicilio laboral, y será actualizado cada 48 horas, indicándose la hora y fecha de su última modificación.
 
 #### Artículo 46
 
-Del deber de información. El entrevistador acreditado e inscrito en el Registro de Entrevistadores debe informar oportunamente al Ministerio de Justicia y Derechos Humanos todo cambio de circunstancia que le afecte, y que fuere de interés para la debida actualización del señalado registro.
+Del deber de información. Las instituciones respectivas deberán informar oportunamente al Ministerio de Justicia y Derechos Humanos todo cambio de circunstancia que afecte a sus entrevistadores acreditados e inscritos en el Registro de Entrevistadores, y que fuere de interés para la debida actualización del señalado registro, especificando cuando se trate de una imposibilidad para ejercer el rol por menos de treinta días.
 
 #### Artículo 47
 
-Suspensión de la inscripción. El entrevistador deberá solicitar fundadamente la suspensión de su inscripción en el Registro, por verse impedido de desempeñar sus funciones por un lapso superior a treinta días corridos.
+Las Instituciones respectivas deberán solicitar fundadamente al Ministerio de Justicia y Derechos Humanos la suspensión de la inscripción en el Registro de sus entrevistadores o intermediarios, por verse impedidos de desempeñar sus funciones por un lapso superior a treinta días corridos.
 
-La División de Reinserción Social deberá pronunciarse respecto de tal solicitud dentro de los cinco días desde que haya sido presentada.
+La División de Reinserción Social deberá pronunciarse respecto de tal solicitud dentro de los cinco días desde que haya sido presentada y notificará su pronunciamiento a las instituciones respectivas.
 
 #### Artículo 48
 
@@ -586,7 +586,7 @@ a) Vencimiento de la acreditación.
 
 b) Muerte del entrevistador.
 
-c) A solicitud del entrevistador con autorización de su jefatura directa y/o a petición de la institución a la que pertenezca.
+c) Cuando las Instituciones respectivas lo soliciten fundadamente.
 
 d) Incumplimiento sobreviniente de los requisitos establecidos en el artículo 37 del presente reglamento, mediante resolución fundada.
 
