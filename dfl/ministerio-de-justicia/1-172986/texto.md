@@ -21306,6 +21306,10 @@ El Oficial hará, en el registro, la inscripción respectiva, y expedirá la lic
 
 Para la inhumación en un cementerio ubicado en un lugar distinto del fallecimiento, se estará a lo prevenido en las leyes o reglamentos sanitarios correspondientes.
 
+En el caso de los funerales calificados como de riesgo mediante resolución del Delegado o la Delegada Presidencial Regional respectiva, el o la Oficial del Registro Civil expedirá la licencia o pase en el cual se consignará el número y fecha de la referida resolución, en la que se establezca la obligación de llevar a cabo la inhumación o cremación dentro de las veinticuatro horas siguientes, contadas desde la notificación de la señalada resolución, salvo que concurra la circunstancia de que el cadáver se encuentre en el Servicio Médico Legal, caso en el cual dicho plazo comenzará a correr una vez que el fiscal del Ministerio Público a cargo de la investigación penal respectiva haya emitido la orden que disponga la entrega del cadáver.
+
+Una copia de la resolución deberá adjuntarse a la inscripción de defunción.
+
 #### Artículo 47 (art. 3)
 
 <!-- parte:8720652 -->
@@ -22675,6 +22679,14 @@ Será también aplicable lo señalado en los incisos precedentes, tratándose de
 Con todo, si el favorecido por un beneficio estatal que implica una transferencia directa de dinero tiene inscripción vigente en el Registro, el ente estatal estará obligado a retener el equivalente al cincuenta por ciento de la transferencia directa o un monto inferior si éste es suficiente para solucionar el monto total de los alimentos adeudados, y entregar dicha suma al alimentario a través de una transferencia de los fondos a la cuenta bancaria inscrita en el Registro.
 
 Para efectos del presente artículo, en ningún caso se considerarán dentro de las categorías de beneficios económicos sujetos a sus disposiciones, aquéllos que estén destinados a ayudar a personas y familias en situación de vulnerabilidad socioeconómica, ni los destinados a enfrentar la cesantía.
+
+#### Artículo 35 bis (art. 7)
+
+<!-- parte:10560036 -->
+
+Sin perjuicio de lo señalado en el artículo anterior, en ningún caso podrán ser declaradas admisibles las postulaciones ni ser adjudicados los programas y los diferentes instrumentos ejecutados por la Agencia Nacional de Investigación y Desarrollo a quienes, al momento de la postulación y la adjudicación, respectivamente, tengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos.
+
+Para lo anterior, al momento de la postulación y, adicionalmente, de la adjudicación, la Agencia deberá efectuar un proceso de consulta masiva electrónica al Servicio de Registro Civil e Identificación, que certificará en línea si el postulante y el presunto adjudicatario tiene una inscripción vigente en el referido Registro en calidad de deudor de alimentos.
 
 #### Artículo 36 (art. 7)
 
