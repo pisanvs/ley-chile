@@ -26,7 +26,7 @@ _______________
 
 (¹)Tanto la obra "Ampliación en S/E Calama 220 kV" como la obra "Ampliación en S/E Calama 110 kV" son proyectos en la subestación denominada "Calama Nueva" de propiedad de Transemel S.A.
 
-Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la tabla anterior, contados desde la publicación del Decreto Supremo N°18T, de 2020, del Ministerio de Energía, en el Diario Oficial, con la sola excepción de los proyectos singularizados con el N°1 –Ampliación en S/E Pozo Almonte–, N°19 –Ampliación en S/E Polpaico (Enel Distribución)–, N°20 –Ampliación en S/E Rungue– N°21 –Refuerzo Tramo Tap Vitacura – Vitacura–, N°34 –Ampliación en S/E Escuadrón– y N°39 –Ampliación en S/E Pumahue–, los cuales deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del Decreto Supremo N°2T, de 3 de marzo de 2025, del Ministerio de Energía, en el Diario Oficial.
+Los proyectos deberán estar construidos y entrar en operación, a más tardar, dentro de los plazos constructivos indicados en la tabla anterior, contados desde la publicación del decreto supremo N°18T, de 2020, del Ministerio de Energía, en el Diario Oficial, con la excepción de los proyectos singularizados con el N°1 -Ampliación en S/E Pozo Almonte-, N°19 -Ampliación en S/E Polpaico (Enel Distribución)-, N°20 -Ampliación en S/E Rungue- N°21 -Refuerzo Tramo Tap Vitacura - Vitacura-, N°34 -Ampliación en S/E Escuadrón- y N°39 -Ampliación en S/E Pumahue-, los cuales deberán estar construidos y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto supremo N°2T, de 3 de marzo de 2025, del Ministerio de Energía, en el Diario Oficial, así como el proyecto singularizado con el N°31 - Ampliación de capacidad de línea 1x66 kV Charrúa - Chillán, el cual deberá estar construido y entrar en operación dentro de los plazos indicados a su respecto, contado desde la publicación del decreto exento N°216, de 13 de agosto de 2025, del Ministerio de Energía, en el Diario Oficial.
 
 En caso de que el día de entrada en operación de un determinado proyecto de los indicados anteriormente sea un día sábado, domingo o festivo, éste deberá ser prorrogado al primer día hábil siguiente.
 
@@ -498,6 +498,8 @@ Componente del Valor Anual de la Transmisión por Tramo asociado al nuevo V.I. a
 
 El A.V.I., C.O.M.A. y A.E.I.R. de las obras de ampliación adjudicadas se reajustará anualmente, en dólares de los Estados Unidos de Norte América, según las siguientes fórmulas de indexación:
 
+El V.I. de la obra "Ampliación de Capacidad de Línea 1x66 kV Charrúa-Chillán" fijado en los términos establecidos en el presente acto administrativo, se reajustará anualmente en dólares, según la siguiente fórmula de indexación:
+
 Donde, para las fórmulas anteriores:
 
 IPCk Valor del Índice de Precios al Consumidor del segundo mes anterior al mes k, publicado por el Instituto Nacional de Estadísticas.
@@ -513,6 +515,8 @@ AVIn,0 OA Valor del A.V.I. que compone el V.A.T.T. de la obra de ampliación n, 
 COMAn,0 OA Valor del C.O.M.A. que compone el V.A.T.T. de la obra de ampliación n, indicado en el numeral 3º del presente decreto.
 
 AEIRn,0 OA Valor del A.E.I.R. que compone el V.A.T.T. de la obra de ampliación n, indicado en el numeral 3º del presente decreto.
+
+VI0OA Valor de inversión de la obra de ampliación, según lo indicado en el numeral 3° del presente decreto.
 
 Respecto al subíndice 0 de las fórmulas anteriores, éste corresponde al mes del último día de recepción de ofertas, con el fin de conformar los valores base de los índices, de forma tal que, al mes de la entrega de oferta, la aplicación de las fórmulas de indexación para el A.V.I., C.O.M.A. y A.E.I.R. dé como resultado el A.V.I., C.O.M.A. y A.E.I.R. que conforman el V.A.T.T. indicado en el numeral 3º del presente decreto.
 
