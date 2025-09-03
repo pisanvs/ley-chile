@@ -276,6 +276,10 @@ En la incorporación de normas de resguardo o de incentivo en los planes regulad
 
 La Ordenanza General podrá establecer mecanismos de reporte y seguimiento periódico, con el objeto de revisar si las disposiciones para enfrentar el déficit habitacional y para resguardar o promover la integración social y urbana, incluidas en el respectivo plan por el gobierno regional o la municipalidad, están generando los efectos esperados o si requieren ser ajustadas o modificadas por dichos órganos antes de la siguiente actualización que corresponda efectuar conforme al artículo 28 sexies.
 
+#### Artículo 27 bis
+
+La Política Nacional a la que se refiere el artículo anterior tendrá en consideración las necesidades de las personas, con especial énfasis en las circunstancias que puedan afectarles durante todo el curso de vida, particularmente en atención a su sexo, edad o situación de discapacidad, e impulsará la generación de espacios públicos seguros y accesibles para éstas mediante la planificación territorial y su diseño y gestión, y la incorporación de elementos de prevención situacional que procuren la visibilidad y la seguridad.
+
 ## Capítulo II
 
 De la Planificación Urbana en particular
@@ -392,7 +396,7 @@ a) Ser fundado, señalando expresamente sus motivaciones y los objetivos especí
 
 b) Considerar información suficiente sobre la realidad existente y su evolución previsible.
 
-c) Ajustarse a los principios de sustentabilidad, cohesión territorial y eficiencia energética, procurando que el suelo se ocupe de manera eficiente y combine los usos en un contexto urbano seguro, saludable, accesible universalmente e integrado socialmente.
+c) Ajustarse a los principios de sustentabilidad, cohesión territorial y eficiencia energética, procurando que el suelo se ocupe de manera eficiente y combine los usos en un contexto urbano seguro, saludable, accesible universalmente e integrado socialmente, y considerará las múltiples formas de exclusión que pueden aquejar a las personas, con especial énfasis en las circunstancias que puedan afectarles durante todo el curso de vida, particularmente en atención a su sexo, edad o situación de discapacidad.
 
 d) Evitar la especulación y procurar la satisfacción de las necesidades de vivienda de la población.
 
@@ -1118,11 +1122,13 @@ B).- DEROGADO.
 
 #### Artículo 116 bis
 
-C.- Aprobado por el Director de Obras Municipales un anteproyecto u otorgada una autorización para subdividir, o un permiso de edificación, de urbanización o de cambio de destino de un edificio existente, el propietario podrá informar al público sobre dicha gestión administrativa, para lo cual deberá comunicar por escrito a la Dirección de Obras Municipales que se acoge al procedimiento de publicidad que regula este artículo.
+C.- La municipalidad deberá publicar en su sitio web, a más tardar el quinto día hábil de cada mes, una resolución de la Dirección de Obras Municipales que contenga el listado con todos los permisos y autorizaciones que hubiesen sido otorgados durante el mes anterior, junto con una copia de aquellos. En dicha publicación se dejará expresa constancia de la fecha en que se realiza y, a contar de ésta, los permisos y autorizaciones se presumirán de derecho conocidos, para efectos de lo dispuesto en el artículo 118 bis.
 
-La Ordenanza General establecerá la forma, plazo y condiciones mediante las cuales se podrá informar al público, al concejo y a las juntas de vecinos de la unidad vecinal correspondiente de la aprobación a que alude el inciso anterior. Entre dichas medidas, se considerará la instalación de un letrero visible en el lugar de la obra, la comunicación por escrito a los vecinos afectados y la comunicación a través de algún medio masivo, como radio o periódico, de acuerdo a las características de los proyectos. En todo caso, se deberá contemplar, como último trámite, la obligación de publicar un aviso en el Diario Oficial, el cual dará a conocer a la comunidad las características esenciales de la actuación de que se trate, la que se presumirá de derecho conocida desde la publicación del mencionado aviso.
+Lo previsto en el inciso anterior es un deber de transparencia activa, de conformidad a lo previsto en la ley N° 20.285, sobre acceso a la información pública, y le será aplicable lo dispuesto en dicha ley, salvo en lo que resulte contrario con este artículo. Para efectos de lo dispuesto en la letra d) del artículo 33, contenido en el artículo primero de la ley antes indicada, se considerará que los incisos primero y segundo del presente artículo forman parte de la legislación sobre transparencia y acceso a la información, no obstante, el deber del Consejo para la Transparencia de coordinarse y propender a la unidad de acción con el Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano.
 
-Transcurridos treinta días desde la publicación a que se refiere el inciso anterior, la Municipalidad, a petición de parte, emitirá un certificado en que deje constancia que, hasta la fecha de su emisión, no han ingresado reclamos ni se le han notificado judicialmente recursos que recaigan sobre la gestión publicitada.
+Dentro del décimo y el décimo quinto día hábil de cada mes, la Secretaría Regional Ministerial respectiva deberá publicar en su sitio web o, en su defecto, en el del Ministerio de Vivienda y Urbanismo, una resolución donde informe las fechas y las formas en que se realizaron las publicaciones del inciso primero y dejará constancia de las Direcciones de Obras Municipales que no hayan cumplido con la obligación dentro de plazo.
+
+Asimismo, la Ordenanza General establecerá la forma, plazo y condiciones mediante las cuales se podrá informar al público, al concejo municipal y a las juntas de vecinos de la unidad vecinal correspondiente de la aprobación de anteproyectos, autorizaciones para subdividir, permisos de edificación, de urbanización o de cambio de destino de un edificio existente. Entre dichas medidas, se considerará la instalación de un letrero visible en el lugar de la obra y la publicación a través de algún medio de circulación local, como radio o periódico, de acuerdo a las características de los proyectos.
 
 #### Artículo 116 bis
 
@@ -1236,7 +1242,7 @@ Las torres que estén instaladas y las que se pretenda emplazar en zonas declara
 
 - **h)** del presente artículo. En tanto, las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se intervengan o emplacen en reemplazo de otras torres, con el propósito de realizar un objeto de arte urbano certificado por la misma instancia señalada en el inciso anterior sólo requerirán de aviso de instalación, siempre que su modificación no supere el treinta por ciento de la altura total de la torre soporte original.
 
-La Dirección de Obras Municipales respectiva, dentro del plazo máximo de quince días hábiles contado de acuerdo a lo establecido en la letra e) precedente, otorgará el permiso si, de acuerdo a los antecedentes acompañados, la solicitud de instalación de la torre cumple con las disposiciones establecidas en esta ley, previo pago de los derechos municipales correspondientes a las Obras Provisorias conforme al Nº 3 de la tabla contenida en el artículo 130 de la Ley General de Urbanismo y Construcciones, o se pronunciará denegándolo. Si cumplido dicho plazo no hubiere pronunciamiento por escrito sobre el permiso, el interesado podrá pedir en forma expresa que se pronuncie otorgando o rechazando el permiso dentro de los dos días hábiles siguientes contados desde el requerimiento. De persistir el silencio se entenderá por ese solo hecho otorgado el permiso por la Dirección de Obras Municipales. Si el permiso fuere denegado los interesados podrán reclamar ante la Secretaría Regional Ministerial correspondiente del Ministerio de Vivienda y Urbanismo, aplicándose para tales efectos lo dispuesto en el inciso cuarto del artículo 118.
+La Dirección de Obras Municipales respectiva, dentro del plazo máximo de quince días hábiles contado de acuerdo a lo establecido en la letra e) precedente, otorgará el permiso si, de acuerdo a los antecedentes acompañados, la solicitud de instalación de la torre cumple con las disposiciones establecidas en esta ley, previo pago de los derechos municipales correspondientes a las Obras Provisorias conforme al Nº 3 de la tabla contenida en el artículo 130 de la Ley General de Urbanismo y Construcciones, o se pronunciará denegándolo. Si cumplido dicho plazo no hubiere pronunciamiento por escrito sobre el permiso, el interesado podrá pedir en forma expresa que se pronuncie otorgando o rechazando el permiso dentro de los dos días hábiles siguientes contados desde el requerimiento. De persistir el silencio se entenderá por ese solo hecho otorgado el permiso por la Dirección de Obras Municipales. Si el permiso fuere denegado los interesados podrán reclamar ante la Secretaría Regional Ministerial correspondiente del Ministerio de Vivienda y Urbanismo, aplicándose para tales efectos lo dispuesto en los artículos 118 bis, 118 ter y 118 quáter.
 
 El permiso de instalación se otorgará al concesionario de servicios públicos e intermedios de telecomunicaciones. Identificará claramente al beneficiario; la localización de las instalaciones autorizadas, y no podrá tener un plazo inferior al que le reste al interesado para completar el plazo de su concesión. Los costos relacionados con el retiro de las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, una vez expirados los plazos de los permisos, serán de cargo de cada operador, sin perjuicio de lo dispuesto en el inciso segundo del artículo 124, en lo que fuere pertinente.
 
@@ -1296,17 +1302,77 @@ En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta com
 
 #### Artículo 118
 
-La Dirección de Obras Municipales tendrá un plazo de 30 días, contados desde la presentación de la solicitud, para pronunciarse sobre los permisos de construcción.
+La Dirección de Obras Municipales dispondrá del plazo de treinta días, contado desde la presentación de la solicitud y sus antecedentes, para pronunciarse sobre los permisos de construcción. El plazo antes indicado será de sesenta días en proyectos cuya carga de ocupación sea igual o superior a 1.000 personas.
 
-Dicho plazo se reducirá a 15 días, si a la solicitud de permiso se acompañare el informe favorable de un revisor independiente o del arquitecto, en su caso.
+Los plazos señalados en el inciso anterior se reducirán a la mitad si a la solicitud se acompaña el informe favorable de un revisor independiente.
 
-Si cumplidos dichos plazos no hubiere pronunciamiento por escrito sobre el permiso o éste fuere denegado, el interesado podrá reclamar ante la Secretaría Regional correspondiente del Ministerio de Vivienda y Urbanismo. La Secretaría Regional Ministerial, dentro de los 3 días hábiles siguientes a la recepción del reclamo, deberá solicitar a la Dirección de Obras Municipales que dicte su resolución, si no se hubiere pronunciado o evacue el informe correspondiente en el caso de denegación del permiso. La Dirección de Obras Municipales dispondrá de un plazo de 15 días para evacuar el informe o dictar la resolución, según corresponda. En este último caso y vencido este nuevo plazo sin que aún hubiere pronunciamiento, se entenderá denegado el permiso.
+Transcurrido el plazo respectivo sin que la Dirección de Obras Municipales se pronuncie, el solicitante podrá hacer valer el silencio administrativo negativo. La solicitud se entenderá rechazada una vez realizada la presentación del solicitante ante la mencionada Dirección, en que manifiesta su voluntad de tenerla por rechazada.
 
-Denegado el permiso por la aludida Dirección, sea expresa o presuntivamente, la Secretaría Regional, dentro del plazo de 15 días hábiles, deberá pronunciarse sobre el reclamo y si fuere procedente ordenará que se otorgue el permiso, previo pago de los derechos municipales, que al efecto se reducirán en el 50%, correspondiendo el pago previo de igual monto a la Secretaría Regional Ministerial, a beneficio fiscal. Sin perjuicio de lo anterior, en caso de verificar una contravención del inciso quinto del artículo 116, dicha Secretaría deberá proceder conforme al artículo 15.
+La Dirección de Obras Municipales no podrá omitir la resolución de la solicitud de permiso bajo pretexto de haber transcurrido el plazo para pronunciarse. Sin embargo, estará impedida de emitir pronunciamiento desde el momento en que se haya realizado la presentación a que se refiere el inciso anterior.
 
-El interesado tendrá el plazo fatal de 30 días para deducir el reclamo a que se refiere este artículo, contado desde la fecha en que se denegare expresamente el permiso o en que venza el plazo para pronunciarse.
+La conclusión del procedimiento por silencio administrativo negativo es sin perjuicio de la responsabilidad administrativa que sea procedente.
 
-> **Nota.** El Art. Transitorio de la LEY 19472, publicada el 16.09.1996, dispuso su vigencia noventa días después de su publicación.
+#### Artículo 118 bis
+
+Los reclamos que se interpongan ante la Secretaría Regional Ministerial de Vivienda y Urbanismo, conforme a lo dispuesto en el artículo 12, se sujetarán a las siguientes reglas:
+
+a) Los reclamos deberán ser interpuestos por cualquier particular interesado o por el propietario del predio respecto del cual se solicitó el permiso o autorización, dentro del plazo de treinta días, contado desde la fecha de publicación de la resolución o de la presentación a que se refiere el inciso tercero del artículo 118, según corresponda.
+
+b) En el escrito de reclamación se deberá indicar con precisión:
+
+i. La calidad de parte interesada que motiva la presentación; la individualización, con indicación del nombre y apellidos del reclamante; cédula de identidad; domicilio y, en su caso, la individualización de su apoderado, así como los medios electrónicos a través de los cuales se llevarán a cabo las notificaciones.
+
+ii. La resolución que se reclama y, en su caso, la presentación por la cual se hizo valer el silencio administrativo negativo.
+
+iii. La norma legal, reglamentaria o del instrumento de planificación territorial que se estima infringida.
+
+iv. La forma en que se ha producido la infracción y, en los casos que corresponda, los hechos en los que se sustenta.
+
+v. Las peticiones concretas que se formulan.
+
+vi. El listado de los antecedentes y documentos que se acompañan.
+
+c) Dentro de los tres días hábiles siguientes al vencimiento del plazo indicado en el literal a) de este artículo, la Secretaría Regional Ministerial verificará que la o las reclamaciones hayan sido presentadas oportunamente y que se da cumplimiento a las exigencias establecidas en el literal b) precedente. Si la reclamación es extemporánea o no cumple con las exigencias indicadas, la declarará inadmisible por resolución fundada; ésta será susceptible del recurso de reposición, el que deberá interponerse dentro de tercero día.
+
+d) Admitida a trámite, y en el plazo de tres días hábiles, la Secretaría Regional Ministerial solicitará a la Dirección de Obras Municipales que informe respecto de la o las reclamaciones y que remita copia de los documentos que conforman el expediente y los demás antecedentes necesarios para resolver. Para lo anterior, la Dirección de Obras Municipales contará con el plazo de diez días hábiles, contado desde la recepción de la solicitud de informe. Si cumplido el plazo no ha recibido el informe, la Secretaría continuará con la tramitación del procedimiento sin más trámite.
+
+e) Si la reclamación fue interpuesta por un particular interesado distinto del propietario del inmueble que presentó la solicitud que dio origen a la resolución que se reclama, la Secretaría Regional Ministerial deberá comunicar la o las reclamaciones al referido propietario, dentro del plazo de tres días hábiles a que alude el literal d) precedente, con copia de el o los escritos de reclamación y de todos los antecedentes que hasta esa fecha formen parte del expediente, para que haga valer sus alegaciones o defensas, aporte documentos u otros elementos de juicio, dentro del plazo de diez días hábiles, contado desde su notificación. Si cumplido el plazo el propietario no comparece, podrá continuarse con el procedimiento, sin más trámite.
+
+f) La Secretaría Regional Ministerial deberá resolver fundadamente el o los reclamos en el plazo de cuarenta días hábiles, contado desde el vencimiento de los plazos previstos en las letras d) y e) de este artículo.
+
+En caso de acoger la reclamación, la Secretaría Regional Ministerial podrá dejar sin efecto, total o parcialmente, la resolución reclamada y ordenar su reemplazo, enmienda o la adopción de las medidas que correspondan para restablecer el cumplimiento de las normas infringidas.
+
+En el caso de reclamaciones contra los rechazos señalados en el inciso tercero del artículo 118, si la Secretaría Regional Ministerial verifica que el proyecto respectivo cumple lo señalado en el inciso sexto del artículo 116, declarará que el permiso o la autorización requerida debió concederse y ordenará a la Dirección de Obras Municipales otorgarla sin más trámite, previo pago de los derechos municipales reducidos en el 50%. En caso contrario, rechazará el reclamo, con indicación de la o las normas que incumple el proyecto respectivo.
+
+La resolución que resuelva la reclamación deberá ser remitida al particular interesado, al propietario del inmueble, a la Dirección de Obras Municipales, al alcalde y al concejo municipal respectivo.
+
+g) La Dirección de Obras Municipales cumplirá la instrucción dentro del plazo máximo de cinco días hábiles, contado desde su notificación. Si la instrucción no se cumple dentro de plazo, la Secretaría Regional Ministerial procederá conforme al artículo 15, y estará facultada para dictar la o las resoluciones de reemplazo o enmienda, en los términos que señala el artículo 11.
+
+h) Las resoluciones de la Secretaría Regional Ministerial que resuelvan las reclamaciones a que se refiere el presente artículo serán publicadas en el sitio web del Ministerio de Vivienda y Urbanismo, y se permitirá identificarlas por región y Dirección de Obras Municipales.
+
+#### Artículo 118 ter
+
+Las resoluciones de la Secretaría Regional Ministerial que resuelvan los reclamos interpuestos conforme a los términos de los artículos 12 y 118 bis podrán ser impugnadas ante la Corte de Apelaciones respectiva por todo particular interesado, dentro del plazo de quince días hábiles. Se entenderá que son inhábiles los días sábados, domingos y festivos.
+
+El plazo señalado en el inciso anterior se contará desde la notificación al particular interesado de la resolución que resuelve la reclamación.
+
+El escrito deberá indicar, con precisión, al menos, la calidad de interesado que motiva su presentación; el acto que se reclama; la norma legal, reglamentaria o del instrumento de planificación territorial que se estima infringida; la forma en que se ha producido la infracción, y las peticiones concretas que se formulan.
+
+Presentada la reclamación, la Corte examinará en cuenta si ha sido interpuesta oportunamente y cumple con las exigencias señaladas en el inciso anterior. Si no cumple con ello, la declarará inadmisible por resolución fundada, la que será susceptible de recurso de reposición ante la misma Corte, el que deberá interponerse dentro de tercero día. En subsidio de la reposición, procederá la apelación para ante la Corte Suprema, recurso que será resuelto en cuenta.
+
+Acogida a trámite la reclamación, la Corte dará traslado a la Secretaría Regional Ministerial y a todos los interesados que intervinieron en el procedimiento administrativo y que puedan resultar afectados por la sentencia definitiva, por el término de diez días para que remitan informe. Asimismo, podrá solicitar a la División de Desarrollo Urbano que informe, dentro de su ámbito de competencia. Además, podrá dictar orden de no innovar cuando la ejecución del acto impugnado produzca un daño irreparable al recurrente.
+
+Vencido el plazo señalado en el inciso anterior, la Corte continuará el procedimiento y podrá abrir un término de prueba, si lo estima necesario, que se regirá por las reglas de los incidentes que contempla el Código de Procedimiento Civil.
+
+Vencido el término de prueba, se remitirán los autos al fiscal judicial para su informe y, a continuación, se ordenará traer los autos en relación. La vista de esta causa gozará de preferencia.
+
+En caso de dar lugar al reclamo, la sentencia de la Corte dejará sin efecto, total o parcialmente, el acto impugnado; ordenará la dictación de la resolución que corresponda, y dispondrá el envío de los antecedentes al Ministerio Público, cuando estime que la infracción puede ser constitutiva de delito.
+
+Contra la sentencia que resuelve el reclamo sólo procederán los recursos de casación en la forma y el fondo. Dichos recursos deberán interponerse dentro del plazo de diez días hábiles, contado desde la notificación de la sentencia.
+
+#### Artículo 118 quáter
+
+Interpuesto reclamo contra una resolución de acuerdo con el artículo 118 bis, la Dirección de Obras Municipales deberá inhibirse de conocer cualquier reclamación o de iniciar de oficio cualquier revisión, respecto de la misma resolución.
 
 #### Artículo 119°
 
