@@ -544,7 +544,7 @@ El A.V.I., C.O.M.A. y A.E.I.R. de las obras de ampliación adjudicadas se reajus
 
 Donde, para las fórmulas anteriores:
 
-La fórmula de indexación del V.I. de las obras 'Ampliación en S/E Ana María y Seccionamiento Línea 2x220 kV Frontera - María Elena', 'Aumento Capacidad de Línea 1x66 kV Pelequén - Malloa', 'Ampliación en S/E Mulchén y Seccionamiento Línea 1x220 kV Charrúa - Temuco', 'Aumento de Capacidad Líneas 2x220 kV Frontera - María Elena y 2x220 kV María Elena - Kimal', 'Aumento de Capacidad Línea 1x110 kV Las Vegas - Esperanza', 'Aumento de Capacidad Línea 2x110 kV Esperanza - Río Aconcagua', 'Ampliación S/E Frontera y Seccionamiento Línea 2x220 kV Lagunas - Encuentro' y 'Aumento de Capacidad Línea 1x220 kV Charrúa -Temuco' fijados en los términos establecidos en el presente acto administrativo será la siguiente:
+Respecto al subíndice 0 de las fórmulas anteriores, éste corresponde al segundo mes anterior al mes del último día de recepción de ofertas, con el fin de conformar los valores base de los índices, de forma tal que, al mes de la entrega de oferta, la aplicación de las fórmulas de indexación para el A.V.I., C.O.M.A. y A.E.I.R. dé como resultado el A.V.I., C.O.M.A. y A.E.I.R. que conforman el V.A.T.T. indicado en el numeral 3º del presente decreto.
 
 Los valores base para los índices antes definidos corresponden a los que a continuación se indican:
 
@@ -561,20 +561,6 @@ El C.O.M.A. determinado será remunerado hasta la entrada en vigencia del decret
 > **Nota.** El numeral 1° de la Resolución 3, Energía, publicado el 23.11.2022, rectifica la presente norma en el sentido de sustituir en la tabla 1: Obras de Ampliación Adjudicadas del Sistema de Transmisión", en las filas Nºs 16 a 23 donde dice "Enel Transmisión S.A." por "Enel Transmisión Chile S.A.
 
 > **Nota.** NOTA 1 El literal a) del Nº 2 del Decreto 4, Energía, publicado el 03.09.2025, modifica la presente norma en el sentido de reemplazar, en la Tabla 2: Separación de V.I. por propietario según actividades señaladas en Bases de Licitación", del artículo 1º, en la fila 7.1, en la columna "V.I. adjudicado USD", el guarismo "4.192.932,74" por el siguiente "4.179.066,35".
-
-> **Nota.** NOTA 2 El numeral 1 del artículo Quinto del Decreto 329 Exento, Energía, publicado el 16.01.2026, dispone modificar la tabla 1 inserta en el resulevo 1 de la presente norma en el sentido de reemplazar íntegramente la fila Nº 3 por una nueva que la citada norma indica.
-
-> **Nota.** NOTA 3 El numeral 2 del artículo Quinto del Decreto 329 Exento, Energía, publicado el 16.01.2026, dispone modificar la tabla 2 inserta en el resulevo 1 de la presente norma, en el sentido de reemplazar íntegramente las filas Nº 3.1, Nº 3.2, Nº 3.3 y Nº 3.4 por las nuevas que la citada norma indica.
-
-> **Nota.** NOTA 4 El numeral 3 del artículo Quinto del Decreto 329 Exento, Energía, publicado el 16.01.2026, dispone modificar la tabla inserta en el resuelvo 3º de la presente norma, en el sentido de reemplazar íntegramente las filas Nº 3.1, Nº 3.2, Nº 3.3 y Nº 3.4 por aquellas nuevas que la citada norma indica.
-
-> **Nota.** NOTA 5 El numeral 1° del articulo quinto del Decreto 335 Exento, Energía, publicado el 27.01.2026 modifica la presente norma en el sentido de reemplazar integramente en el resuelvo 1º, la fila Nº2 de la Tabla 1, por la que la citada norma indica.
-
-> **Nota.** NOTA 6 El numeral 2° del articulo quinto del Decreto 335 Exento, Energía, publicado el 27.01.2026 modifica la presente norma en el sentido de reemplazar integramente en el resuelvo 3º, la fila Nº2, por la que la citada norma indica.
-
-> **Nota.** NOTA 7 Los Nºs 1 y 2 del artículo quinto del Decreto 327 Exento, Energía, publicado el 28.01.2026, modifican respectivamente la presente norma en el sentido de reemplazar íntegramente en el resuelvo 1° la fila N°27 de la Tabla 1 por una nueva fila, que la citada norma indica; y, en el resuelvo 3°, reemplaza íntegramente la fila N°27 de la tabla del citado resuelvo por una nueva.
-
-> **Nota.** NOTA 8 Los Nºs 1, 2 y 3 del artículo quinto del Decreto 14 Exento, Energía, publicado el 29.01.2026, modifican la presente norma en el siguiente sentido: 1) el numeral 1°, dispone reemplazar íntegramente la fila N° 32 de la Tabla 1 del resuelvo 1° de la presente norma, por la que se inserta en el citado Decreto; 2) el numeral 2º, dispone reemplazar íntegramente las filas N°32.1, N°32.2, N°32.3 y N°32.4 de la Tabla 2 del resuelvo 1º de la presente norma, por la que se inserta en el citado Decreto; 3) el numeral 3° dispone reemplazar íntegramente las filas N°32.1, N°32.2, N°32.3 y N°32.4 de la Tabla indicada en dicho resuelvo por la que se inserta en el citado Decreto.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Juan Carlos Jobet Eluchans, Ministro de Energía.
 
