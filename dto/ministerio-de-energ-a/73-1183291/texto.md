@@ -74,7 +74,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11º
 
-El plazo de construcción de las obras será de dieciocho (18) meses, iniciándose en el plazo de 24 meses, contado desde la fecha de reducción a escritura pública del presente decreto. Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
+El plazo de construcción de las obras será de dieciocho (18) meses, iniciándose en el plazo de cuarenta y seis (46) meses, contado desde la fecha de reducción a escritura pública del presente decreto. Los plazos para su terminación por etapas y secciones serán los que se indican a continuación:
 
 #### Artículo 12
 
