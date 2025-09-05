@@ -1012,7 +1012,7 @@ Asimismo, respecto a la coordinación de las obras, será responsabilidad de los
 
 14.2 Ubicación de la Obra
 
-El proyecto deberá ubicarse en un radio de 1.000 metros en torno al punto definido por las siguientes coordenadas:
+El proyecto deberá ubicarse en un radio de 3.000 metros en torno al punto definido por las siguientes coordenadas:
 
 Sistema WGS84
 
@@ -2138,7 +2138,13 @@ d) Nueva Línea 2x220 Dichato - Hualqui: Corresponde a un 20,420% del V.A.T.T. c
 
 > **Nota.** NOTA 2 El número 2° del Decreto 5, Energía, publicado el 28.10.2022, modifica el resuelvo 5° de la presente norma, en el sentido de señalar que los plazos de cumplimiento de los Hitos Relevantes indicados en dicho resuelvo, para las obras S/E Nueva Metrenco 220/66 kV y Línea 2x66 kV Nueva Metrenco - Enlace Imperial, como asimismo, respecto a las mismas obras mencionadas, los plazos constructivos señalados en la tabla del resuelvo 1° del presente Decreto, se contabilizarán desde la publicación del citado decreto en el Diario Oficial.
 
-> **Nota.** NOTA 3 El numeral 2º del Decreto 4, Energía, publicado del 19.02.2025, dispone modificar la tabla inserta en el resuelvo 1º de la presente norma en el sentido de señalar que el plazo constructivo para la obra "S/E Nueva Casablanca 220/66 kV", así como también el plazo de cumplimiento del Hito Relevante Nº 5: Entrada en Operación, indicado en el literal e) del resuelvo 5º, corresponderá a 18 meses contabilizados desde la publicación del citado decreto en el Diario Oficial.
+> **Nota.** NOTA 3 El numeral 2º del Decreto 4, Energía, publicado el 19.02.2025, dispone modificar la tabla inserta en el resuelvo 1º de la presente norma en el sentido de señalar que el plazo constructivo para la obra "S/E Nueva Casablanca 220/66 kV", así como también el plazo de cumplimiento del Hito Relevante Nº 5: Entrada en Operación, indicado en el literal e) del resuelvo 5º, corresponderá a 18 meses contabilizados desde la publicación del citado decreto en el Diario Oficial.
+
+> **Nota.** NOTA 4 El numeral 1 del artículo primero del Decreto 7, Energía, publicado el 08.07.2025, modifica la tabla inserta en el resuelvo 1° de la presente norma, respecto a la obra nueva denominada "Nueva S/E Lastarria 220/66 kV", en el sentido de reemplazar en la celda ubicada en la fila Nº 24 y en la columna denominada "Plazo Constructivo Meses", el guarismo "28" por "28 y 156 días corridos (22 de junio de 2022)".
+
+> **Nota.** NOTA 5 El numeral 2 del artículo primero del Decreto 7, Energía, publicado el 08.07.2025, modifica la tabla inserta en el número 1 del resuelvo 5° de la presente norma, respecto a la obra nueva denominada "Nueva S/E Lastarria 220/66 kV", en el sentido de reemplazar en la celda ubicada en la fila Nº 24 y en la columna denominada "Hito Nº 5 meses", el guarismo "28" por "28 y 156 días corridos (22 de junio de 2022)".
+
+> **Nota.** NOTA 6 El numeral 2° del decreto 16, Energía, publicado el 05.09.2025, modifica la tabla del resuelvo 1° de la citada norma, que fija derechos y condiciones de ejecución y explotación de las obras nuevas que se indican del Sistema de Transmisión Zonal del artículo decimotercero transitorio de la ley N° 20.936, en el sentido de que el plazo constructivo señalado en la misma para la obra "S/E Nueva Cauquenes 220/66 kV", así como el plazo de cumplimiento de los Hitos Relevantes N° 2, N° 4 y N° 5, indicados en el resuelvo 5° del mismo acto administrativo para aquella obra, corresponderán a: (i) Hito Relevante N° 2: 24 meses; (ii) Hito Relevante N° 4: 38 meses; y (iii) Hito Relevante N° 5: 54 meses.
 
 Anótese, tómese razón y publíquese. - Por orden del Presidente de la República, Ricardo Irarrázabal Sánchez, Ministro de Energía (S).
 
