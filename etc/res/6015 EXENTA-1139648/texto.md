@@ -30,7 +30,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que se desempeñan como director de establecimientos educacionales que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "DirectoresLey21152_REX6015_2019.pdf FIRMADA" almacenado en pendrive, caratulado "Directores 2019", inserto en caja de plástico con el nombre "Asimilación Directores 2019", el que se entiende formar parte integrante del presente acto administrativo.
+Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que se desempeñan como director de establecimientos educacionales que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "241105_DirectoresLey21152_202410 FIRMADA" almacenado en pendrive, caratulado "Directores 2019", inserto en caja de plástico con el nombre "Asimilación Directores 2019", el que se entiende formar parte integrante del presente acto administrativo.
 
 #### Artículo segundo
 
