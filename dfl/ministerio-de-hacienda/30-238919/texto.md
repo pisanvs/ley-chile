@@ -1728,9 +1728,13 @@ b) Cuando el dinero en efectivo o instrumentos negociables al portador no exceda
 
 La declaración maliciosamente falsa del origen, peso, cantidad o contenido de las mercancías de exportación, será castigada con la pena de presidio menor en su grado medio a máximo y multa de dos a cinco veces el valor aduanero de las mercancías. La pena será de presidio menor en su grado máximo a presidio mayor en su grado mínimo cuando el valor aduanero de las mercancías supere las 150 unidades tributarias mensuales.
 
-Con las mismas penas señaladas en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación.
+Con las mismas penas señaladas en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación. Idénticas sanciones se impondrá a quienes hagan uso malicioso de estas certificaciones o análisis falsos.
 
-Se castigará, asimismo, con las mismas penas indicadas en los incisos anteriores, a aquellos consignantes de mercancías que salen del país, que presenten documentos falsos, adulterados o parcializados, para servir de base a la confección de las declaraciones, determinándose a través de ellos la clasificación o valor de las mercancías.
+Se castigará, asimismo, con las mismas penas indicadas en los incisos anteriores, a aquellos consignantes de mercancías que salen del país, que presenten documentos falsos, adulterados o parcializados, para sustentar o servir de base a la confección de las declaraciones, determinándose a través de ellos el origen, la clasificación o valor de las mercancías.
+
+#### Artículo 169 bis
+
+El empleado público que, en el ejercicio de sus funciones, facilite el delito previsto y sancionado en los artículos 168, 168 bis y 169 de esta Ordenanza, será sancionado como autor del mismo delito.
 
 #### Artículo 170
 

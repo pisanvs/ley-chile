@@ -3284,6 +3284,8 @@ g). Derogado.
 
 El que practicare o hiciere practicar una inhumación contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio y demás formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
 
+Si se trata de incumplimientos en lo relativo al tiempo, el sitio y el procedimiento descrito para las inhumaciones o cremaciones relativas a funerales de riesgo se aplicarán las penas de reclusión menor en su grado medio y multa de diez a veinte unidades tributarias mensuales.
+
 #### Artículo 321
 
 Derogado.-
@@ -4380,7 +4382,7 @@ Si el delito a que se refiere el inciso precedente recayere sobre un vehículo m
 
 Se considerará robo y se castigará con la pena del inciso precedente la apropiación de un vehículo motorizado mediante la generación de cualquier maniobra distractora cuyo objeto sea que la víctima abandone el vehículo, fuera de los casos a los que se refiere el artículo 436.
 
-Si con ocasión de alguna de las conductas señaladas en el inciso primero, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo.
+Si con ocasión de alguna de las conductas señaladas en el inciso primero, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones, la pena se aplicará en su grado máximo. Si producto de lo anterior se afectara a una cantidad relevante de usuarios dentro de un poblado, la pena será de presidio mayor en su grado mínimo.
 
 #### Artículo 443 bis
 
@@ -4422,9 +4424,9 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 
 #### Artículo 447 bis
 
-El hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, será castigado con presidio menor en sus grados medio a máximo.
+El hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones, será castigado con presidio menor en sus grados medio a máximo.
 
-Si con ocasión de alguna de las conductas señaladas en este artículo se produce la interrupción o interferencia del servicio, la pena se aplicará en su grado máximo.
+Si con ocasión de alguna de las conductas señaladas en este artículo se produce la interrupción o interferencia del servicio, la pena se aplicará en su grado máximo. Si producto de lo anterior se afectara a una cantidad relevante de usuarios dentro de un poblado, la pena será de presidio mayor en su grado mínimo.
 
 #### Artículo 448
 
@@ -4580,9 +4582,11 @@ En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 
 3°) Ejecutar el delito usando un vehículo motorizado sin placa patente delantera, trasera o ambas; o con cualquiera oculta o con vidrios oscuros o polarizados, en contravención a la ley N° 18.290, de Tránsito; o en el que se haya utilizado cualquier otra práctica, técnica, intervención, herramienta, dispositivo o condición que favorezca su impunidad;
 
-4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito; y
+4°) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que este hecho importe otro delito;
 
-5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10.
+5°) Actuar con personas exentas de responsabilidad criminal, según el número 1.o del artículo 10, y
+
+6º) Ejecutar los delitos de robo o hurto de cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, simulando ser trabajador de alguna empresa proveedora de dichos servicios o haciendo uso de información obtenida como trabajador de la misma empresa.
 
 Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
 
@@ -4598,7 +4602,7 @@ El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder
 
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
 
-Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa equivalente al valor de la tasación fiscal del vehículo o la pena de presidio menor en su grado máximo, y multa de cinco a veinte unidades tributarias mensuales, respectivamente. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
+Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones, se impondrá la pena de presidio menor en su grado máximo y multa equivalente al valor de la tasación fiscal del vehículo o la pena de presidio menor en su grado máximo, y multa de cinco a veinte unidades tributarias mensuales, respectivamente. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, se aplicará el máximum de la pena privativa de libertad allí señalada y multa equivalente al doble de la tasación fiscal, al autor de receptación de vehículos motorizados que conociere o no pudiere menos que conocer que en la apropiación de éste se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439. Lo dispuesto en este inciso no será aplicable a quien, por el mismo hecho, le correspondiere participación responsable por cualquiera de las hipótesis del delito de robo previstas en el artículo 433 y en el inciso primero del artículo 436.
 
@@ -5009,6 +5013,8 @@ Serán castigados con la pena de reclusión menor en sus grados medio a máximo 
 8.° Arruinando al perjudicado;
 
 9.° En medios de transporte público de pasajeros o en bienes o infraestructura asociada a dicha actividad.
+
+10.º Causando la interrupción o interferencia de uno o más servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telecomunicaciones.
 
 #### Artículo 486
 
