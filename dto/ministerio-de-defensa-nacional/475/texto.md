@@ -142,11 +142,13 @@ La Comisión estará integrada por las siguientes personas:
 
 9. Un representante del Ministerio de Bienes Nacionales.
 
-10. Un representante de la Armada de Chile.
+10. Un representante del Ministerio de Energía.
 
-11. Un representante del Servicio Nacional de Turismo, y
+11. Un representante de la Armada de Chile.
 
-12. Un representante de la Comisión Nacional del Medio Ambiente.
+12. Un representante del Servicio Nacional de Turismo, y
+
+13. Un representante de la Comisión Nacional del Medio Ambiente.
 
 #### Artículo 4°
 
