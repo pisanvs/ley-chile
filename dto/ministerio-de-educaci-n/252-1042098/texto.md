@@ -18,7 +18,9 @@ Decreto:
 
 Declárase Monumento Nacional en la categoría de Monumento Histórico al Campo de Prisioneros Políticos Tres y Cuatro Álamos, ubicado en calle Canadá N° 5351, Comuna de San Joaquín, Provincia de Santiago, Región Metropolitana.
 
-El área protegida tiene una superficie de 6.968,97 m2, como se grafica en el polígono con las letras A - B - C - D - E - F - G - H - I - J - A, de los planos adjuntos Nº 047-1-2017 y Nº 047-2-2017, ambos de 06/10/2017, visados por el Consejo de Monumentos Nacionales, que forman parte del presente decreto cuyos límites son los siguientes:
+El área protegida tiene una superficie de 19.761 m², como se grafica en el plano de límites oficial Nº 4-2025, en los siguientes términos:
+
+> **Nota.** Los numerales 1 y 3 del Decreto 27 Exento, Culturas, publicado el 24.09.2025, modifican respectivamente la presente norma en el sentido de: reemplazar el nombre del Monumento Histórico Campo de Prisioneros Tres y Cuatro Álamos por el de Sitio de Memoria Campo de Prisioneros y Prisioneras Políticas Tres y Cuatro Álamos; asimismo, incorpora los valores asociados que señala a la presencia de mujeres en el centro de detención, tortura y desaparición.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Harald Beyer Burgos, Ministro de Educación.
 
