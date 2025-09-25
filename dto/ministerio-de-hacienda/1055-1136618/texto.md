@@ -12,41 +12,73 @@ Decreto:
 
 2.- El Préstamo estará destinado a financiar parcialmente el "Programa de Fortalecimiento de la Gestión Estratégica de Seguridad Pública en Chile", cuyo objeto general es contribuir a la reducción de los robos con violencia y mejorar la capacidad de gestión de los delitos e incidentes cibernéticos en Chile.
 
-3.- El Organismo Ejecutor del Programa será el Ministerio del Interior y Seguridad Pública a través de la Subsecretaría del Interior, que para los fines del Contrato de Préstamo será denominado el "Organismo Ejecutor".
+3.- El Organismo Ejecutor del Programa será el Ministerio de Seguridad Pública a través de la Subsecretaría de Seguridad Pública, que para los fines del Contrato de Préstamo será denominado el "Organismo Ejecutor".
 
 4.- Las condiciones financieras del préstamo serán las siguientes:
 
 Monto : Hasta USD 48.000.000.
 
-Plazo Total : Hasta 16 años, a partir de la fecha de
+Plazo Total : Hasta 16 años, a partir
 
-suscripción del contrato de préstamo.
+de la fecha de
 
-Amortización : Mediante el pago de amortización en una o
+suscripción del
 
-más cuotas, en los términos que se definan
+contrato de préstamo.
 
-en el contrato de préstamo a celebrar con
+Amortización : Mediante el pago de
 
-dicho Banco.
+amortización en una
 
-Tasa de Interés : Tasa variable determinada periódicamente por
+o más cuotas, en los
 
-el BID, en los términos que se dispongan en
+términos que se
 
-el contrato de préstamo a celebrar con dicho
+definan en el
+
+contrato de préstamo
+
+a celebrar con dicho
 
 Banco.
 
-Comisión de Crédito : Hasta 0,75% anual sobre la parte no desembolsada del
+Tasa de Interés : Tasa variable
 
-préstamo materia del contrato.
+determinada
 
-Comisión por Inspección : Hasta 1% sobre el importe del principal
+periódicamente por
 
-y Vigilancia Generales del crédito, durante el período de desembolsos
+el BID, en los
 
-5.- El servicio de la deuda y otros gastos que se deriven de la utilización del préstamo serán efectuados por la Tesorería General de la República, con cargo a los recursos que anualmente se consulten para estos efectos en el Presupuesto de la Subsecretaría del Interior del Ministerio del Interior y Seguridad Pública.
+términos que se
+
+dispongan en el
+
+contrato de préstamo
+
+a celebrar con dicho
+
+Banco.
+
+Comisión de Crédito: Hasta 0,75% anual
+
+sobre la parte no
+
+desembolsada del
+
+préstamo materia
+
+del contrato.
+
+Comisión por : Hasta 1% sobre el importe
+
+Inspección y del principal del
+
+Vigilancia crédito, durante el
+
+Generales período de desembolsos
+
+5.- El servicio de la deuda y otros gastos que se deriven de la utilización del préstamo serán efectuados por la Tesorería General de la República, con cargo a los recursos que anualmente se consulten para estos efectos en el Presupuesto de la Partida 32, Ministerio de Seguridad Pública, Capítulo 01, Subsecretaría de Seguridad Pública, Programa 01, Subsecretaría de Seguridad Pública.
 
 6.- Los documentos o títulos que en representación del Gobierno de Chile sean suscritos en conformidad a lo estipulado en el número 1 del presente decreto, deberán a la vez ser suscritos por el Tesorero General de la República y refrendados por el Contralor General de la República.
 
