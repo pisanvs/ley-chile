@@ -54,13 +54,7 @@ Derogado.
 
 #### Artículo tercero
 
-Modifícase la resolución exenta N° 3.263, de 2017, que Asigna Tramos para los Profesionales de la Educación que indica y señala los bienios correspondientes, en el siguiente sentido:
-
-a) Incorpórase al listado los siguientes profesionales de la educación, que se encuentran individualizados en el documento de formato portátil (PDF), a que hace referencia el artículo primero precedente, entre las páginas 2 y 8 ambas inclusive, del archivo, bajo el título "Modifícase la resolución exenta N° 3.263, de 2017, de la Subsecretaría de Educación agregándose lo siguiente.".
-
-b) Reemplace los siguientes profesionales de la educación que se encuentran individualizados en el documento de formato portátil (PDF), a que hace referencia el artículo primero precedente, en la página 9 del archivo, bajo el título "Modifícase la resolución exenta N° 3.263, de 2017, de la Subsecretaría de Educación en el siguiente sentido.".
-
-c) Elimínase del listado los profesionales de la educación, individualizados en el documento de formato portátil (PDF), a que hace referencia el artículo primero precedente, en la página 10 del archivo bajo el título "Modifícase la resolución exenta N° 3.263, de 2017, de la Subsecretaría de Educación eliminándose lo siguiente.".
+Derogado.
 
 #### Artículo cuarto
 
@@ -72,7 +66,7 @@ b) Eliminase del listado, a los profesionales de la educación que se encuentran
 
 #### Artículo quinto
 
-Elimínase del listado de la resolución exenta N° 5.076, de 2017, que Asigna tramos para la transición de desarrollo profesional docente, de conformidad al párrafo 2° transitorio de la ley N° 20.903, a los Jefes de Departamentos de Administración de Educación Municipal y Directores de Educación Municipal, y señala los bienios que corresponda, el profesional de la educación que se encuentre individualizado en el documento de formato portátil (PDF), a que hace referencia el artículo primero precedente, en la página 15 del archivo bajo el título "Modifícase la resolución exenta N° 5.076, de 2017, de la Subsecretaría de Educación eliminándose lo siguiente:".
+Derogado.
 
 #### Artículo sexto
 

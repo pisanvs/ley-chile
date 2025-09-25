@@ -60,11 +60,7 @@ Derogado.
 
 #### Artículo tercero
 
-Modifícase la resolución exenta N° 3.263, de 2017, modificada por las resoluciones exentas N° 6.778, de 2017, N° 6.532, de 2018, y N° 2.633, de 2019, todas de la Subsecretaría de Educación, reemplazándose el artículo primero el siguiente:
-
-#### Artículo primero
-
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2016, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "25102019Nómina_rex3263.pdf", almacenado en CD adjunto, caratulado "Anexos", el que se entiende formar parte integrante del presente acto administrativo.
+Derogado.
 
 #### Artículo cuarto
 
