@@ -122,7 +122,7 @@ Tabla 3: Límites máximos de emisión provenientes del sistema de escape en gra
 
 <!-- parte:10269368 -->
 
-Los grupos electrógenos con potencia máxima del motor mayor o igual a 130 kW y menor a 560 kW, cuya importación se realiza a contar de 48 meses desde la entrada en vigencia del presente decreto, deberán cumplir con lo señalado en la Tabla 4:
+Los grupos electrógenos con potencia máxima del motor mayor o igual a 130 kW y menor a 560 kW, cuya importación se realiza a contar del 15 de septiembre de 2028, deberán cumplir con lo señalado en la Tabla 4:
 
 Tabla 4: Límites máximos de emisión provenientes del sistema de escape en gramos por kilowatt hora (g/kWh).
 
@@ -130,7 +130,7 @@ Tabla 4: Límites máximos de emisión provenientes del sistema de escape en gra
 
 <!-- parte:10269369 -->
 
-Los grupos electrógenos con potencia máxima del motor mayor o igual a 560 kW, cuya importación se realiza a contar de 48 meses desde la entrada en vigencia del presente decreto, deberán cumplir con lo señalado en las tablas 5 y 6:
+Los grupos electrógenos con potencia máxima del motor mayor o igual a 560 kW, cuya importación se realiza a contar del 15 de septiembre de 2028, deberán cumplir con lo señalado en las tablas 5 y 6:
 
 Tabla 5: Límites máximos de emisión provenientes del sistema de escape en gramos por kilowatt hora (g/kWh), para desplazamiento volumétrico por cilindro del motor (d) menor a 30 litros.
 
