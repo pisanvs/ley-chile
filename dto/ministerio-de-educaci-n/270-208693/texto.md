@@ -14,7 +14,7 @@ D e c r e t o:
 
 #### Artículo 1º
 
-Reglaméntase la ejecución del Programa de Apoyo a la Docencia denominado Red Maestros de Maestros, cuyo propósito es fortalecer la profesión docente, mediante el aprovechamiento de las capacidades de los y las profesionales previamente acreditados como docentes de excelencia para percibir la Asignación de Excelencia Pedagógica, contribuyendo así al desarrollo profesional del conjunto de los docentes de aula, en cumplimiento con lo dispuesto en el artículo 4º Transitorio del decreto con fuerza de ley Nº 1 de Educación de 2002.
+Reglaméntase la ejecución del Programa de Apoyo a la Docencia denominado Red Maestros de Maestros, cuyo propósito es fortalecer la profesión docente, mediante el aprovechamiento de las capacidades de los y las profesionales que se encuentren en alguno de los tramos de desarrollo profesional docente Avanzado, Experto I, Experto II, contribuyendo así al desarrollo profesional del conjunto de los docentes de aula, en cumplimiento con lo dispuesto en el artículo 4º Transitorio del decreto con fuerza de ley Nº 1 de Educación de 2002.
 
 Normas Generales
 
@@ -54,7 +54,7 @@ De los Maestros de Maestros
 
 #### Artículo 5º
 
-Para los efectos del presente Reglamento, se entenderá por Maestro de Maestros a aquel profesional de la educación que estando acreditado para percibir la Asignación de Excelencia Pedagógica, haya sido seleccionado como miembro de la Red Maestros de Maestros de conformidad con lo dispuesto en el artículo 32 del DFL de Educación Nº 1 de 2002.
+Para los efectos del presente Reglamento, se entenderá por participante de la Red Maestros de Maestros a aquel profesional de la educación que, estando asignado en algunos de los tramos de desarrollo profesional docente Avanzado, Experto I, Experto II, haya sido seleccionado como miembro de la Red Maestros de Maestros de conformidad con lo dispuesto en el artículo 32 del DFL de Educación Nº 1 de 2002.
 
 De la Red Maestros de Maestros
 
@@ -68,21 +68,17 @@ La Red Maestros de Maestros se fundamenta en la capacidad de la profesión docen
 
 Anualmente se fijarán en la Ley de Presupuestos del Sector Público los recursos necesarios para financiar los procedimientos de selección para integrarse a la Red Maestros de Maestros, según lo establece el artículo 18 de ley Nº 19.715.
 
-De la postulación e integración de la Red Maestros
-
-de Maestros
+De la inscripción e integración de la Red Maestros de Maestros
 
 #### Artículo 8º
 
 El CPEIP convocará al menos una vez al año a un proceso de postulación voluntaria para la selección nacional de docentes que deseen incorporarse a la Red Maestros de Maestros, cumpliendo con los siguientes requisitos:
 
-1. Estar acreditado(a) en el respectivo tramo de la Asignación de Excelencia Pedagógica de acuerdo a su desarrollo profesional.
+1) Estar reconocido en alguno de los tramos de desarrollo profesional Avanzado, Experto I o Experto II del Sistema de Desarrollo Profesional Docente.
 
-2. Participar voluntariamente en el proceso de selección para integrarse a la Red, mediante el cual se evaluarán las competencias, desempeño y logros profesionales de los(as) docentes, mediante el instrumento elaborado con dicho propósito.
+2) Participar en un mecanismo voluntario de inscripción para integrarse a la Red, a través del cual se evaluarán las competencias, desempeño y logros profesionales de los docentes, mediante un instrumento elaborado con dicho propósito, cuando corresponda.
 
-3. Desempeñarse como docente de aula en
-
-establecimientos subvencionados, con un mínimo de 30 horas semanales en los de educación prebásica o básica o con un mínimo de 20 horas semanales en los de educación media, tanto del sector municipal como del sector particular subvencionado. Se considerarán dentro del total de horas acumuladas todos los contratos o designaciones que tenga el o la respectivo(a) profesional.
+3) Desempeñarse como docente de aula en establecimientos educaciones que reciban aportes regulares del Estado, con un mínimo de 20 horas semanales. Se considerarán dentro del total de las horas acumuladas todos los contratos o designaciones que tenga el respectivo profesional.
 
 #### Artículo 9º
 
@@ -90,21 +86,13 @@ Para cada proceso de selección se aprobarán bases de postulación, las que con
 
 #### Artículo 10º
 
-Los postulantes serán seleccionados sobre la base de la evaluación de un portafolio, esto es, aquel conjunto de evidencias estructuradas que presenten los profesores, que dé cuenta de sus competencias y/o capacidades para contribuir al desarrollo profesional de los docentes de aula y a la generación de comunidades de aprendizaje entre pares, teniendo presente los dominios de desempeño profesional contenidos en los Estándares de Desempeño Profesional para la percepción de la Asignación de Excelencia Pedagógica aprobados por el Ministerio de Educación, mediante resolución exenta Nº 3.225, de 20 de marzo de 2002.
+Los postulantes reconocidos en el tramo Avanzado del Sistema de Desarrollo Profesional Docente serán seleccionados sobre la base de la evaluación de un portafolio, esto es, aquel conjunto de evidencias estructuradas que presenten los profesores, que dé cuenta de sus competencias y/o capacidades para contribuir al desarrollo profesional de los docentes de aula y a la generación de comunidades de aprendizaje entre pares, teniendo presente los dominios de desempeño profesional contenidos en los Estándares de Desempeño Profesional.
+
+Los profesionales de la educación que se encuentren reconocidos en los tramos Experto I y Experto II del Sistema de Desarrollo Profesional Docente ingresarán, por el sólo hecho de postular, a la Red.
 
 #### Artículo 11º
 
-El portafolio estará estructurado en diferentes módulos que permitan identificar las competencias de los postulantes en los siguientes dominios:
-
-- **a)** Creación de un ambiente favorable para que el adulto aprenda;
-
-- **b)** Liderazgo y contribución al desarrollo profesional de sus pares;
-
-- **c)** Enseñanza para el aprendizaje de adultos, y
-
-- **d)** Contextualización del proceso educativo.
-
-El conjunto de evidencias estructuradas a evaluar serán precisadas en las respectivas bases de cada proceso de postulación.
+El conjunto de evidencias estructuradas a evaluar en el portafolio serán precisadas en las respectivas bases de cada proceso de postulación.
 
 #### Artículo 12º
 
@@ -130,13 +118,11 @@ Para ello, el CPEIP entregará a cada Maestro de Maestros un certificado de inte
 
 #### Artículo 14º
 
-Aquellos postulantes que no resulten seleccionados como miembros de la Red Maestros de Maestros, podrán volver a postular a ella cada tres años, sin límite de oportunidades.
+Aquellos postulantes que no resulten seleccionados como miembros de la Red Maestros de Maestros, podrán volver a postular a ella cada cuatro años, sin límite de oportunidades.
 
 #### Artículo 15º
 
-La calidad de miembro de la Red Maestros de Maestros es permanente, en tanto el docente mantenga la vigencia de su acreditación para percibir la asignación de excelencia pedagógica. Lo anterior, es sin perjuicio de las disposiciones contenidas en el Título VIII del DFL Nº 1 de Educación de 2002.
-
-Anualmente, el CPEIP publicará a través de un medio de comunicación masivo el listado actualizado de los miembros de la Red Maestros de Maestros, así como de aquellos que hayan perdido temporal o definitivamente dicha calidad.
+La calidad de miembros de la Red de Maestros de Maestros es permanente, en tanto el profesional cumpla los requisitos para aquello, conforme a lo señalado en los numerales 1) y 3) del artículo 8 del presente reglamento.
 
 De la participación de los miembros de la Red de
 
@@ -146,7 +132,7 @@ Maestros de Maestros
 
 Sin perjuicio de la participación activa a que se refieren los artículos siguientes, los Maestros de Maestros podrán también desarrollar otras acciones de fortalecimiento de la profesión docente.
 
-En el evento que las acciones desarrolladas se realicen a través de la Red, ellas deberán ceñirse a los estándares de desempeño profesional docente establecidos en el artículo 12 del DFL Nº 1 de Educación, de 2002.
+En el evento que las acciones desarrolladas se realicen a través de la Red Maestros de Maestros, ellas deberán ceñirse a los estándares de desempeño profesional docente.
 
 De la participación activa en la Red Maestros de
 
@@ -154,7 +140,9 @@ Maestros
 
 #### Artículo 17º
 
-Sólo los miembros de la Red Maestros de Maestros podrán postular y ser seleccionados para llevar a cabo proyectos de participación activa, conforme a las disposiciones del Título VIII del DFL Nº 1 de Educación, de 2002, y del presente Reglamento, en cuyo caso tendrán derecho a la percepción de la suma adicional prevenida en el artículo 17º de la ley Nº 19.715.
+Sólo los miembros de la Red Maestros de Maestros podrán postular y ser seleccionados para llevar a cabo proyectos de participación activa, conforme a las disposiciones contenidas en el presente reglamento, en cuyo caso tendrán derecho a la percepción de la suma adicional prevenida en el artículo 17 de la ley Nº 19.715.
+
+Los proyectos de participación activa tendrán por objeto el desarrollo de capacidades y el avance en el desarrollo profesional regulado por el Estatuto Docente a través del acompañamiento y trabajo colaborativo entre docentes.
 
 #### Artículo 18º
 
@@ -162,7 +150,7 @@ Anualmente se fijarán en la Ley de Presupuestos del Sector Público los recurso
 
 Corresponderá al Ministerio de Educación, a través del CPEIP, determinar la distribución regional de los cupos para la percepción de la referida suma adicional, para lo cual considerará las siguientes variables:
 
-número de docentes de aula por Región, número de docentes con derecho a percibir la Asignación de Excelencia Pedagógica y número de horas docentes por Región.
+número de docentes de aula y la proporción de alumnos prioritarios, ambos por región.
 
 Concursos de proyectos de participación activa
 
@@ -170,7 +158,15 @@ Concursos de proyectos de participación activa
 
 El Ministerio de Educación, a través del CPEIP, en su calidad de administrador de la Red Maestros de Maestros, identificará los ámbitos de acción prioritarios para el fortalecimiento de la profesión docente, en los cuales se solicitará la participación activa de sus miembros.
 
+Sin perjuicio de lo señalado en el inciso anterior, se considerará como ámbito de acción prioritario el acompañamiento a todos los docentes en su primer o segundo año de ejercicio y a aquellos que no logren progresar en el sistema de reconocimiento profesional docente.
+
 Para ello, considerará las necesidades de desarrollo profesional planteadas por los docentes de aula, sostenedores, comunidades educativas, en general, y las iniciativas propuestas por los propios miembros de la Red.
+
+#### Artículo 19 bis
+
+Para los efectos de lo indicado en el inciso segundo del artículo anterior, el acompañamiento a los docentes en su primer o segundo año de ejercicio y para aquellos que no logren progresar en el sistema, incluye el acceso al acompañamiento a nivel provincial por medio de la coordinación en el desarrollo de planes de mejora en el marco del proceso de acompañamiento profesional local.
+
+Respecto de estas acciones, dicho acompañamiento implicará siempre dar retroalimentación activa sobre las causas que impiden el progreso en el sistema de desarrollo profesional docente, que garantice la mejora continua y perfeccionamiento docente.
 
 #### Artículo 20º
 
@@ -232,7 +228,9 @@ Los contratos deberán contar, a lo menos, con los siguientes elementos esencial
 
 a) individualización de las partes,
 
-b) las obligaciones que impone el contrato, c) proyecto o actividad objeto del contrato, d) plazos de inicio y término,
+b) las obligaciones que impone el contrato,
+
+c) proyecto o actividad objeto del contrato, d) plazos de inicio y término,
 
 e) informes del contratado y otros mecanismos de verificación del cumplimiento de la obligación contraída, y los plazos de presentación de estos informes,
 
@@ -242,11 +240,17 @@ g) fecha y lugar del o los pagos.
 
 h) sanciones por incumplimiento de las obligaciones contractuales, las cuales podrán consistir en la pérdida temporal o definitiva de la calidad de Maestro de Maestros, sin perjuicio de la restitución de los pagos recibidos, si correspondiere, y
 
-i) anexo que contenga copia íntegra del proyecto o actividad a ejecutar.
+i) anexo que contenga copia íntegra del proyecto o actividad a ejecutar, incluyendo el nombre o listado de nombres de docentes participantes que cumplan con el requisito de asistencia y rendición del instrumento proporcionado por el CPEIP.
 
-De la pérdida temporal o definitiva de la calidad
+#### Artículo 29 bis
 
-de miembro de la Red Maestros de Maestros
+Los participantes de la Red de Maestros de Maestros que hayan convenido la ejecución de proyectos de participación activa deberán cumplir con los siguientes requisitos para percibir la correspondiente suma adicional durante la vigencia de sus respectivos contratos:
+
+1) Cumplir con los requisitos establecidos en el artículo 8 del presente reglamento.
+
+2) Dar cumplimiento oportuno y satisfactorio a las obligaciones contenidas en sus respectivos contratos.
+
+De las sanciones asociadas al incumplimiento del contrato
 
 #### Artículo 30º
 
@@ -270,39 +274,25 @@ b) Cuando se constate la reiteración de alguna de las conductas indicadas en el
 
 #### Artículo 33º
 
-La pérdida temporal de la calidad de Maestro de Maestros implicará la suspensión del derecho a integrar la Red Maestros de Maestros hasta por el lapso de dos años, contados desde la fecha de notificación de la resolución a que se refiere el artículo 35.
+La pérdida temporal de la calidad de miembro de la Red Maestros de Maestros implicará la imposibilidad de postular y ejecutar proyectos de participación activa, hasta por el lapso de dos años, contados desde la fecha de notificación de la resolución a que se refiere el artículo 35 del presente reglamento.
 
-Transcurrido dicho plazo, la calidad de Maestro de Maestros será recuperada automáticamente, en tanto el docente mantenga su acreditación para percibir la Asignación de Excelencia Pedagógica.
+Transcurrido dicho plazo, el docente podrá recuperar la calidad de miembro de la Red Maestros de Maestros siempre y cuando se cumpla con los requisitos establecidos en el artículo 8 de este decreto.
 
 #### Artículo 34º
 
-La pérdida temporal o definitiva de la calidad de Maestro de Maestros será resuelta por la autoridad máxima del CPEIP, previa investigación especial en que deberá ser oído el afectado.
-
-La resolución que se pronuncie sobre la absolución o aplicación de sanción será notificada al afectado por carta certificada.
-
-La investigación será iniciada por denuncia realizada en contra de un Maestro de Maestros en el marco de la ejecución de un contrato de participación activa.
+La resolución que se pronuncie sobre la mantención o pérdida de la calidad de Maestros de Maestros será notificada conforme al artículo 46 de la ley Nº 19.880 o mediante el correo electrónico informado por el profesional de la educación al momento de postular a la Red.
 
 #### Artículo 35º
 
-De la resolución que dé lugar a la pérdida temporal o definitiva de la calidad de Maestro de Maestros podrá reclamarse ante la misma autoridad que la dictó, dentro del plazo de 15 días contados desde la recepción de la notificación a que se refiere el artículo anterior.
+La resolución que determine la pérdida de la calidad de Maestros de Maestros, podrá reclamarse ante la misma autoridad que la dictó, dentro del plazo de 5 días contados desde la notificación a que se refiere el artículo anterior.
 
-Una vez recepcionada la reclamación, dicha autoridad tendrá el plazo de 10 días, a contar de la fecha de su recepción, para acogerla o rechazarla, para lo cual dictará una resolución al efecto, la que deberá ser notificada por carta certificada al reclamante.
+Una vez recepcionada la reclamación, la autoridad tendrá el plazo de 30 días, a contar de la fecha de su recepción, para acogerla o rechazarla, para lo cual dictará una resolución al efecto, la que deberá ser notificada por correo electrónico o en subsidio carta certificada.
 
-De las obligaciones de los (las) miembros de la
+De las obligaciones de los (las) miembros de la Red Maestros de Maestros para mantener su derecho a percibir la suma adicional por participación activa .- Derogado.
 
-Red Maestros de Maestros para mantener su derecho
+#### Artículo 36
 
-a percibir la suma adicional por participación
-
-activa
-
-#### Artículo 36º
-
-Los miembros de la Red Maestros de Maestros que hayan convenido la ejecución de proyectos de participación activa deberán cumplir con los siguientes requisitos para percibir la correspondiente suma adicional durante la vigencia de sus respectivos contratos:
-
-1. Conservar su derecho a percibir la asignación de excelencia pedagógica, en conformidad a lo estipulado en el DFL Nº 1, de Educación, de 2002.
-
-2. Dar cumplimiento oportuno y satisfactorio a las obligaciones contenidas en sus respectivos contratos.
+Derogado.
 
 Disposiciones conducentes a permitir la adecuada
 
@@ -312,7 +302,7 @@ Maestros de Maestros
 
 #### Artículo 37º
 
-Asimimo, la ejecución de este Programa comprende la realización de las siguientes actividades:
+La ejecución de este Programa comprende la realización de las siguientes actividades:
 
 a) Diseño, desarrollo y mantención de productos informáticos, programas computacionales y multimedia.
 
@@ -322,9 +312,7 @@ c) Desarrollo de campañas de difusión y publicidad de los objetivos, actividad
 
 d) Capacitación y perfeccionamiento de los equipos de supervisores, coordinadores regionales y profesionales del Programa.
 
-e) Actividades de coordinación técnica y
-
-administrativa, de seguimiento y supervisión del Programa.
+e) Actividades de coordinación técnica y administrativa, de seguimiento y supervisión del Programa.
 
 f) Realización de estudios para la evaluación del cumplimiento del Programa, mediante la contratación de servicios a personas naturales o jurídicas.
 
