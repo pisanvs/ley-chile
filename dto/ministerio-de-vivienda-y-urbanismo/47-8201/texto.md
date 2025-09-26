@@ -3460,6 +3460,8 @@ Las obras de pavimentación señaladas no requerirán permisos especiales o la a
 
 Con todo, en los condominios Tipo A y Tipo B, se deberá contemplar al menos una ruta accesible que conecte su acceso desde el espacio público con el acceso a las unidades o edificios que el proyecto contemple, los estacionamientos para personas con discapacidad y los locales o recintos de uso común que sean bienes comunes del condominio. Lo anterior, sin perjuicio de cumplir con las disposiciones contenidas en el artículo 4.1.7. de esta Ordenanza que les sean aplicables. La ruta accesible proyectada en el terreno de dominio común deberá tener un ancho mínimo de 1,20 m por 2,10 m de alto y dar cumplimiento al artículo 2.2.8. de esta Ordenanza, en lo que corresponda. Los pavimentos de la ruta accesible y de las circulaciones peatonales contempladas serán conforme a lo dispuesto en el inciso segundo precedente. Asimismo, los estacionamientos de visita que el proyecto contemple deberán cumplir con lo dispuesto en el artículo 2.4.2. de esta Ordenanza.
 
+Sin perjuicio de lo anterior, los condominios de densificación predial que contemplen hasta un máximo de cuatro unidades, referidos en el artículo 6.2.9. de esta Ordenanza, se regirán, en cuanto a las exigencias de accesibilidad universal, por las disposiciones contenidas en dicho artículo.
+
 #### Artículo 2
 
 6.18. En la tramitación de solicitudes de proyectos acogidos a Conjunto Armónico, sólo le corresponde intervenir al Director de Obras Municipales, quien verificará como parte del proceso normal de revisión que el proyecto cumple las condiciones para acogerse a tales disposiciones, todo ello sin perjuicio de las revisiones que, en su caso, correspondan a los revisores independientes.
@@ -10656,85 +10658,75 @@ Para solicitar las autorizaciones de los conjuntos de viviendas de que trata est
 
 #### Artículo 6
 
-2.9. En áreas urbanas, a los proyectos que se emplacen en predios con una vivienda económica o en lotes provenientes de Operaciones Sitio que hayan sido urbanizados por los antecesores legales de los Servicios de Vivienda y Urbanización, no les serán aplicables las normas del Instrumento de Planificación Territorial, siempre y cuando se trate de proyectos que se construyan con financiamiento total o parcial de los Programas Habitacionales del Ministerio de Vivienda y Urbanismo y cumplan con las disposiciones de este artículo.
+2.9. Los condominios de densificación predial a los que se refiere el artículo 79 de la ley Nº 21.442, que aprueba la nueva Ley de Copropiedad Inmobiliaria, o aquella que la reemplace, corresponderán a Condominios Tipo A que se regirán por las disposiciones de este título, y en especial, por lo regulado en el presente artículo. Asimismo, a estos proyectos no les serán aplicables las normas urbanísticas del respectivo Instrumento de Planificación Territorial, salvo aquellas que estén expresamente referidas en el presente artículo.
 
-En los predios señalados se podrá efectuar lo siguiente:
+En los predios donde no existan viviendas, en los que cuentan u originalmente contaron con una vivienda económica, social o construida con subsidio del Estado, así como en aquellos predios provenientes de Operaciones Sitio, podrá autorizarse en un mismo predio y por una sola vez, la construcción simultánea de hasta tres nuevas viviendas adicionales a la vivienda existente, si la hubiere, o la construcción simultánea de hasta cuatro nuevas viviendas en aquellos predios donde no existieren en él edificaciones o cuando el proyecto presentado contemple su demolición.
 
-1. Subdividir el predio y contemplar la construcción simultánea de hasta 3 nuevas viviendas económicas adicionales a la vivienda existente, o
+Asimismo, se permitirá la construcción de hasta doce unidades en un mismo predio, incluida la vivienda o las viviendas existentes, si las hubiere, cuando el proyecto a desarrollar se ejecute a través de programas de densificación predial impulsados por el Ministerio de Vivienda y Urbanismo y en tanto la densidad neta del predio no exceda las doscientas veinte viviendas por hectárea.
 
-2. Construir hasta 3 nuevas viviendas económicas adicionales a la vivienda existente, sin mediar subdivisión, debiendo en todo caso acogerse al régimen de copropiedad inmobiliaria.
+Sin perjuicio de lo anterior, no podrán acogerse a las disposiciones del presente artículo aquellos predios que tengan una superficie menor a 100 m2.
 
-En ambos casos, se deberá dar cumplimiento a lo señalado en la siguiente tabla:
+En ambos casos, las viviendas de los condominios de densificación predial a que se refieren los incisos anteriores deberán ser destinadas a la adquisición o arriendo por parte de beneficiarios de los Programas Habitacionales del Estado.
 
-Superficie Predio Máximo de Lotes resultantes de la
+A. Normas urbanísticas aplicables a los Condominios de Densificación Predial.
 
-Original Subdivisión o cantidad de Viviendas
+Los condominios de densificación predial deberán dar cumplimiento a las normas urbanísticas que a continuación se indican:
 
-No inferior a 100 m2 2
+1. Uso de Suelo: Las viviendas deberán emplazarse en predios en los que el respectivo Instrumento de Planificación Territorial admita el uso de suelo Residencial con destino vivienda.
 
-No inferior a 150 m2 3
+2. Densidad: En los condominios de densificación predial de hasta cuatro unidades, no aplicará la norma urbanística de densidad, siendo la cantidad máxima de viviendas a construir en el predio la que resulte de la aplicación de la siguiente tabla:
 
-No inferior a 200 m2 4
+Asimismo, en los condominios de densificación predial que contemplen la construcción de cinco a doce unidades, la cantidad de viviendas será la que derive de la aplicación de la norma urbanística de densidad contenida en el inciso tercero del presente artículo.
 
-Excepcionalmente, se podrán construir proyectos de vivienda de edificación colectiva que contemplen hasta un máximo de 12 unidades, incluida la existente, si la hubiere, en tanto no superen una densidad neta de 220 viviendas/hectárea y no exista subdivisión predial de por medio.
+3. Altura máxima de edificación: Los condominios que contemplen hasta cuatro unidades podrán tener una altura máxima de edificación de hasta 3 pisos más mansarda, pudiendo esta última constituirse como parte de una unidad, o en una o más unidades en sí mismas, en tanto se dé cumplimiento a las condiciones de habitabilidad contenidas en el Capítulo 1 del Título 4 de esta Ordenanza y no excedan los 3,5 m de altura libre interior. A estos proyectos no les será aplicable lo dispuesto en el penúltimo párrafo del numeral 1, del artículo 2.3.3. de la presente Ordenanza en lo relativo a que los pasajes no podrán servir de acceso exclusivo a viviendas que excedan los dos pisos de altura más mansarda.
 
-En aquellos casos que el Instrumento de Planificación Territorial exija antejardín, éste podrá rebajarse, de ser el caso, hasta un mínimo de 2 metros. En caso de sitios esquina, se podrá rebajar el antejardín sólo por uno de sus frentes.
+Los proyectos que consulten sobre cuatro y hasta doce unidades podrán tener una altura máxima de edificación de hasta 5 pisos más mansarda, en los mismos términos señalados en el párrafo anterior.
 
-Las edificaciones que se acojan al presente artículo podrán tener una altura de hasta 3 pisos más mansarda, pudiendo esta última constituirse como parte de una unidad, o en una o más unidades en sí mismas, en tanto dé cumplimiento a las condiciones de habitabilidad contenidas en el Capítulo 1 del Título 4 de esta Ordenanza y no excedan los 3,5 m de altura libre interior.
+4. Adosamiento: La altura y porcentaje máximo de adosamiento serán los que se indican en la siguiente tabla:
 
-Asimismo, las edificaciones podrán adosarse en los deslindes del predio original de acuerdo a la siguiente tabla:
+Excepcionalmente, el porcentaje de adosamiento podrá aumentarse hasta un 80% solo en el primer piso, respetando la altura máxima de adosamiento señalada en la tabla precedente, cuando la o las unidades ubicadas en ese piso estén destinadas a personas con discapacidad. Del mismo modo, se permitirá también el porcentaje de adosamiento antes señalado en aquellos proyectos que consideren en el primer piso recintos tales como lavanderías o bodegas de uso común, bodegas de dominio exclusivo asociadas a las viviendas o cuando contemplen en el piso señalado, recintos para realizar algunas de las actividades a que se refiere el inciso primero del artículo 2.1.26. de esta Ordenanza.
 
-Altura total de Altura de Porcentaje Máximo de
+Sin perjuicio de los porcentajes máximos de adosamiento dispuestos en el presente numeral, cuando el adosamiento de la construcción proyectada coincida con una edificación existente aprobada con mayor porcentaje de adosamiento a los señalados en los párrafos precedentes, se podrá contemplar una mayor longitud de adosamiento siempre que éste no exceda el porcentaje de adosamiento de la edificación vecina existente.
 
-la Edificación Adosamiento Adosamiento
+Adicionalmente, en el primer piso podrán autorizarse porcentajes mayores de adosamiento a los señalados precedentemente, previa autorización expresa del propietario del predio vecino mediante una declaración jurada simple. Con todo, el adosamiento no podrá en ningún caso ocupar el antejardín.
 
-1 piso Hasta 3,5 m 60%
+El adosamiento se ejecutará contiguo al muro de deslinde, y deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde común, desde la altura máxima de adosamiento permitida. Excepcionalmente, en proyectos de hasta cuatro unidades, el muro de adosamiento se podrá construir a una distancia máxima de 0,5 m del deslinde. Dicho espacio deberá quedar aislado mediante elementos de cerramiento en ambos extremos, cuya altura mínima será de 2,0 m y su resistencia mínima al fuego será F-60. El detalle técnico de esta solución constructiva deberá quedar consignado tanto en los planos de arquitectura del proyecto como en sus respectivas especificaciones técnicas.
 
-2 pisos Hasta 6,0 m 60%
+5. Distanciamientos: Las edificaciones deberán respetar un distanciamiento mínimo de 2,5 m en fachadas con vano y 1,4 m en fachadas sin vano en toda la altura de la edificación. En las fachadas en que existan tramos con vanos y otros sin vanos los distanciamientos se aplicarán a cada tramo por separado.
 
-3 pisos o 3 pisos Hasta 9,0 m 50%
+En aquellos proyectos de hasta cuatro viviendas que consulten escaleras abiertas, el distanciamiento de la escalera respecto de cualquier punto del deslinde podrá reducirse hasta 1,4 m, en cuyo caso deberá incorporarse a la escalera, en su tramo más cercano al deslinde, un paramento que resguarde la privacidad con el predio vecino. La altura de dicho paramento sumada a la altura de la baranda, incluido el pasamanos, deberá tener al menos 1,80 m medidos verticalmente desde el nivel de piso terminado de cada descanso de la escalera y desde cualquier punto de la escalera. En estos proyectos, tanto la escalera exterior como las circulaciones que conduzcan a las unidades de los pisos superiores, deberán tener un ancho mínimo de 0,90 m.
 
-más mansarda
+Sin perjuicio de lo anterior, a los locales no habitables a que se refiere el artículo 4.1.1. de esta Ordenanza que consideren vanos con celosías fijas de ventilación o elementos fijos translúcidos que impidan la visión hacia el deslinde y cuyos antepechos consideren una altura mínima de 0,9 m, les será aplicable el distanciamiento mínimo exigible a las fachadas sin vano referido en el párrafo primero de este numeral.
 
-Los porcentajes de adosamiento de la edificación señalados en la tabla precedente, se deberán aplicar uniformemente en toda la altura de adosamiento.
+Los distanciamientos a que se refiere el presente numeral solo aplicarán respecto de los deslindes con los predios vecinos al predio en donde se emplaza el condominio de densificación predial.
 
-Podrán autorizarse porcentajes mayores de adosamiento a los señalados en la tabla precedente, previa autorización expresa del propietario del predio vecino, suscrita ante Notario. Con todo, el adosamiento no podrá en ningún caso ocupar el antejardín.
+6. Antejardín: En aquellos casos en que el Instrumento de Planificación Territorial exija antejardín, éste podrá aumentarse o rebajarse si fuere el caso, hasta un mínimo de 2 m. En el caso de sitios de esquina este podrá aumentarse o rebajarse por ambos frentes del predio. En caso de no ser exigido por el respectivo Instrumento de Planificación Territorial, no será necesario contemplar antejardín.
 
-No obstante, cuando el adosamiento coincida con una edificación existente aprobada con mayor porcentaje de adosamiento, se podrá contemplar una mayor longitud, siempre que no sobrepase la edificación vecina existente.
+7. Áreas de Riesgo: Los condominios de densificación predial podrán emplazarse en las áreas de riesgo definidas por el Instrumento de Planificación Territorial respectivo, siempre y cuando se dé cumplimiento a lo dispuesto en el artículo 2.1.17. de esta Ordenanza.
 
-El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde, desde la altura máxima de adosamiento permitida.
+8. Estacionamientos: Los condominios a que se refiere el presente artículo que contemplen hasta cuatro viviendas, no requerirán contar con estacionamientos conforme a lo dispuesto en el inciso primero del artículo 80 de la ley Nº 21.442.
 
-Las condiciones de subdivisión predial, como, asimismo, el distanciamiento y agrupamiento entre las viviendas que se construyan en los sitios resultantes de la subdivisión o que sin mediar subdivisión se acojan al régimen de copropiedad inmobiliaria, serán de iniciativa del arquitecto autor del proyecto, sin perjuicio del cumplimiento de las condiciones de habitabilidad dispuestas en el Capítulo 1 del Título 4 de esta Ordenanza, que le sean aplicables.
+Asimismo, los condominios de densificación predial tanto en extensión como en altura que contemplen más de cuatro unidades, deberán considerar la dotación de estacionamientos prevista en el artículo 60 de la ley Nº 21.442 o aquel que lo modifique o reemplace.
 
-Por otra parte, los proyectos que se acojan al presente artículo deberán respetar un distanciamiento mínimo de 3 m en fachadas con vano y 1,4 m en fachadas sin vano en toda la altura de la edificación. En las fachadas en que existan tramos con vanos y otros sin vanos los distanciamientos se aplicarán a cada tramo por separado.
+Cuando los proyectos consideren unidades destinadas a personas con discapacidad, al menos uno de los estacionamientos, si los hubiere, deberá destinarse a dichas unidades debiendo darse cumplimiento a lo dispuesto en el inciso noveno del artículo 2.4.2. de esta Ordenanza y a lo previsto en los incisos quinto y sexto del artículo 60 de la ley Nº 21.442 o aquellos que los modifiquen o reemplacen.
 
-Los proyectos que se acojan al presente artículo, deberán contemplar 1 estacionamiento por cada 3 unidades de vivienda.
+Se autorizará la construcción de estacionamientos abiertos cubiertos adosados a los deslindes, en los términos previstos en el inciso octavo del artículo 2.6.2. de la presente Ordenanza, pudiendo utilizarse para ello hasta un tercio de la superficie destinada a antejardín.
 
-No les serán aplicables las disposiciones contenidas en el penúltimo párrafo del numeral 1 del artículo 2.3.3. de esta Ordenanza a los proyectos de viviendas que se acojan al presente artículo, en tanto contemplen un estacionamiento para automóviles por cada dos unidades de vivienda.
+B. Otras normas aplicables a los Condominios de Densificación Predial.
 
-En cualquiera de los casos descritos en los dos incisos anteriores, uno de los estacionamientos deberá ser destinado a personas con discapacidad, conforme las dimensiones y excepciones contenidas en el inciso décimo del artículo 2.4.2., de esta Ordenanza.
+Los condominios de densificación predial deberán considerar una superficie mínima de patio conforme a la siguiente tabla:
 
-Para el cumplimiento de la obligación de estacionamientos podrá ocuparse hasta 1/3 de la superficie destinada a antejardín.
+La superficie destinada a patio será la resultante de la suma del antejardín y las áreas de dominio común, descontadas de estas últimas las superficies de estacionamiento, si los hubiere, estén o no estos últimos emplazados en parte del antejardín, las azoteas o terrazas, las superficies correspondientes a los distanciamientos menores a 1,4 m y las circulaciones interiores de la edificación.
 
-Los proyectos de edificación colectiva, que se acojan a este artículo, deberán considerar una superficie mínima de patio, conforme a la siguiente tabla:
+Cuando las características topográficas del terreno no permitan el desarrollo de la ruta accesible en los términos señalados en el inciso quinto del artículo 2.6.17. de esta Ordenanza, se podrán establecer excepciones a dicha norma en lo relativo al ancho y pendiente de la misma en cuyo caso la justificación técnica deberá quedar descrita en la respectiva memoria de accesibilidad. Con todo, la solución propuesta deberá asegurar la continuidad en el desplazamiento de todas las personas desde el espacio público hasta el acceso al edificio o unidad. Las unidades destinadas a personas con discapacidad deberán dar cumplimiento a lo dispuesto en el artículo 6.4.2. de esta Ordenanza.
 
-Cantidad de Viviendas Superficie de Patio
+La tramitación del permiso para los condominios de densificación predial que contemplen hasta cuatro viviendas, incluida la regularización de la primera vivienda y sus ampliaciones, si las hubiese, se efectuará conforme al procedimiento dispuesto en el numeral 1, literal A, del artículo 5.1.4. de esta Ordenanza para las obras menores. Asimismo, la tramitación del permiso para los condominios de densificación predial que contemplen más de cuatro unidades se efectuará conforme a lo dispuesto en el artículo 5.1.6. de la presente Ordenanza.
 
-Hasta 4 viviendas 36 m2
+Al momento de solicitarse los respectivos permisos, deberá acreditarse que el proyecto de viviendas a ejecutar cuenta con financiamiento total o parcial del Estado. Dicho documento deberá ser expedido por el organismo que otorga el financiamiento y será requisito para la obtención del permiso debiendo adjuntarse a la respectiva solicitud.
 
-5 a 12 viviendas 60 m2
+A los proyectos referidos en este artículo que contemplen hasta 3 pisos de altura, no les será aplicable lo dispuesto en el artículo 5.1.25. de esta Ordenanza, no obstante, cuando se trate de proyectos sobre 3 pisos corresponderá la contratación de un Revisor de Proyecto de Cálculo Estructural, en los términos de dicho artículo.
 
-La superficie destinada a patio será la resultante de la suma del antejardín y las áreas de dominio común, descontadas las superficies de estacionamiento, estén o no estos últimos emplazados en todo o parte del antejardín, las azoteas o terrazas, las superficies correspondientes a los distanciamientos menores a 1,4 m y las circulaciones interiores de la edificación.
-
-La tramitación del permiso para las viviendas a que se refiere el inciso segundo de este artículo, incluida la regularización de la primera vivienda y sus ampliaciones, si las hubiese, se efectuará conforme al procedimiento dispuesto en el numeral 1, literal A, del artículo 5.1.4. de esta Ordenanza para las obras menores.
-
-Asimismo, la tramitación del permiso para las edificaciones colectivas a que se refiere el inciso cuarto del presente artículo, se efectuará conforme a lo dispuesto en el artículo 5.1.6. de la presente Ordenanza.
-
-En todos los casos, al momento de solicitar los respectivos permisos, deberá adjuntarse la certificación del Servicio de Vivienda y Urbanización que corresponda, que acredite que las viviendas nuevas corresponden a proyectos que se construirán con financiamiento total o parcial de dichos Programas Habitacionales.
-
-Lo señalado en el inciso vigésimo de este artículo será aplicable también a los casos que se establecen en el inciso segundo del artículo 6.2.4. de esta Ordenanza.
-
-A los proyectos referidos en este artículo no les será aplicable lo dispuesto en el artículo 5.1.25. de esta Ordenanza, no obstante, cuando se trate de proyectos que incluyan 3 pisos más mansarda, corresponderá la contratación de un Revisor de Proyecto de Cálculo Estructural
+Del mismo modo, a los condominios de densificación predial que contemplen hasta cuatro unidades, no les será aplicable la obligación de urbanizar a que se refiere el numeral 2 del artículo 2.2.4. de la presente Ordenanza debiendo solo cumplir con la obligación de ceder aquellas áreas del predio que se encuentren afectas a utilidad pública por el respectivo Instrumento de Planificación Territorial, no obstante, la obligación de urbanizar referida precedentemente será plenamente aplicable a los condominios de densificación predial que contemplen sobre cuatro unidades.
 
 ## Capítulo 3
 
