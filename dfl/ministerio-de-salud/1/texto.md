@@ -8,10 +8,6 @@ Teniendo presente: las facultades que me confiere el artículo 11 de la ley N° 
 
 dicto el siguiente Decreto
 
-#### Artículo 1
-
-<!-- parte:7112932 -->
-
 1°.- Determínanse las siguientes materias que, conforme a lo dispuesto en el artículo 7° del Código Sanitario requieren autorización sanitaria expresa:
 
 1.- Clínicas.
@@ -107,6 +103,8 @@ dicto el siguiente Decreto
 46.- Profesionales para efectuar revisiones y pruebas de calderas y generadores de vapor.
 
 2°.- El presente decreto con fuerza de ley comenzará a regir en la fecha de su publicación en el Diario Oficial, fecha en la cual también entrará en vigencia la modificación introducida al artículo 7° del Código Sanitario por el artículo 10° letra a) de la ley N° 18.796, conforme lo expresa el artículo 12 de la misma ley.
+
+3°.- Lo dispuesto en el presente decreto con fuerza de ley no afectará a las materias que conforme al inciso final del artículo 7° del Código Sanitario no requieran autorización sanitaria.
 
 Anótese, tómese razón, publíquese en el Diario Oficial e insértese en la recopilación oficial de Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Juan Giaconi Gandolfo, Ministro de Salud.
 

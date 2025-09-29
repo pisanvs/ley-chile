@@ -104,6 +104,22 @@ z) Declarar las alertas de origen meteorológico, su nivel y cobertura, y comuni
 
 > **Nota.** El DFL 28, Hacienda, publicado el 17.08.2004, modifica el presente artículo en el sentido de traspar, desde la Dirección General de Aeronáutica Civil a la Subsecretaría de Aviación, las funciones que se señalan en las letras g) y k) del presente artículo, que fija la organización y funciones y establece disposiciones generales a la Dirección General de Aeronáutica Civil.
 
+#### Artículo 3° bis
+
+<!-- parte:10563554 -->
+
+Conforme a la Ley Marco de Autorizaciones Sectoriales, la Dirección General de Aeronáutica Civil:
+
+a) Revisará la regulación aplicable a los proyectos o actividades objeto de su competencia, formulará un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+b) Podrá reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos reglamentariamente conforme con lo dispuesto en el Párrafo 2° del Título IV de la Ley Marco de Autorizaciones Sectoriales.
+
 #### Artículo 4°
 
 <!-- parte:8034409 -->
@@ -123,6 +139,12 @@ Las construcciones, instalaciones y plantaciones en los aeródromos públicos, e
 <!-- parte:8034411 -->
 
 Las aeronaves particulares de matrícula extranjera no podrán permanecer en Chile sin autorización de la Dirección General de Aeronáutica Civil, más allá del plazo fijado por el reglamento.
+
+#### Artículo 6° bis
+
+<!-- parte:10563555 -->
+
+Vencido el plazo legal para resolver acerca de una solicitud de autorización sin que la Dirección General de Aeronáutica Civil se pronuncie sobre ella, el interesado estará legitimado para hacer valer el silencio administrativo negativo.
 
 #### Artículo 7°
 
