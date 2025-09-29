@@ -58,7 +58,29 @@ El Ministro de Bienes Nacionales tiene a su cargo la dirección de las acciones 
 
 2.- Dictar las resoluciones, instrucciones y otras normas específicas, técnicas y de funcionamiento sectorial, que estime necesarias para el desarrollo regular, continuo y eficiente de las actividades que corresponden al Ministerio;
 
-3.- Aprobar los planes y programas de las unidades del Ministerio y de las Secretarías Regionales Ministeriales, y disponer la distribución del presupuesto destinado a esta Secretaría de Estado, y 4.- Establecer los sistemas de control que correspondan para la protección, conservación y utilización de los bienes del Estado, cuya administración corresponda al Ministerio.
+3.- Aprobar los planes y programas de las unidades del Ministerio y de las Secretarías Regionales Ministeriales, y disponer la distribución del presupuesto destinado a esta Secretaría de Estado;
+
+4.- Establecer los sistemas de control que correspondan para la protección, conservación y utilización de los bienes del Estado, cuya administración corresponda al Ministerio;
+
+5.- Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el párrafo primero el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
+
+6.- Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
+7.- Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+8.- Contratar a profesionales y entidades técnicamente idóneas, con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
+
+9.- Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento expedido por el Ministerio de Bienes Nacionales, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 4°
 

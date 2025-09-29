@@ -30,9 +30,29 @@ e) Otorgar el reconocimiento oficial a los establecimientos educacionales, cuand
 
 f) Fiscalizar las actividades de sus unidades dependientes;
 
-g) Elaborar instrumentos, desarrollar estrategias e implementar, por sí o a través de terceros, programas de apoyo educativo, y
+g) Elaborar instrumentos, desarrollar estrategias e implementar, por sí o a través de terceros, programas de apoyo educativo;
 
-h) Cumplir las demás funciones que le encomiende la ley.
+h) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el inciso primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación;
+
+i) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales;
+
+j) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión;
+
+k) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable;
+
+l) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales, y
+
+m) Cumplir las demás funciones que le encomiende la ley.
 
 #### Artículo 2º bis
 
@@ -217,6 +237,8 @@ A los sostenedores les corresponderá cautelar que la información de las niñas
 g) Registro de información general del nivel parvulario. Este registro no será de acceso público.
 
 La Subsecretaría de Educación Parvularia determinará, mediante una resolución exenta, la información que este registro contendrá y el procedimiento para solicitar la información que deberán entregar los sostenedores de cada establecimiento para la confección y mantención del sistema al que alude el presente literal.
+
+h) Registro Público de profesionales y entidades técnicamente idóneas reconocidas, conforme lo dispuesto en el artículo 2 literal l).
 
 #### Artículo 19
 

@@ -58,9 +58,17 @@ Con todo, respecto de lo dispuesto en el Art. 44 de dicha ley, la intervención 
 
 17) Aplicar el decreto con fuerza de ley N° 34, de 17 de Marzo de 1931, sobre Pesca y sus Reglamentos;
 
-18) Aplicar la ley N° 4,601, de 1° de Julio de 1929, sobre Caza y sus Reglamentos; y
+18) Aplicar la ley N° 4,601, de 1° de Julio de 1929, sobre Caza y sus Reglamentos;
 
-19) Todas las demás funciones y atribuciones, no mencionadas en los números precedentes, que le otorguen leyes especiales y sus decretos reglamentarios.
+19) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el inciso primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación;
+
+20) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme a lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales, y
+
+21) Todas las demás funciones y atribuciones, no mencionadas en los números precedentes, que le otorguen leyes especiales y sus decretos reglamentarios.
 
 ## Título III
 

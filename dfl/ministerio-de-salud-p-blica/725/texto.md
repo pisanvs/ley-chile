@@ -48,15 +48,31 @@ Las definiciones que se contienen en los preceptos siguientes, valdrán para el 
 
 Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
 
-La autoridad sanitaria ante quien se presente una solicitud de autorización o permiso, deberá pronunciarse dentro del plazo de 30 días hábiles, contado desde que el requirente complete los antecedentes exigidos para ello, y en caso de denegarla, deberá hacerlo fundadamente.
+La autoridad sanitaria ante quien se presente una solicitud de autorización o permiso deberá pronunciarse dentro del plazo de treinta días hábiles, contado desde el ingreso de la solicitud. En caso de que existan observaciones de forma, la autoridad sanitaria podrá por una sola vez, otorgar un plazo al interesado para que subsane la falta o acompañe los documentos respectivos, con indicación de que, si así no lo hace, se tendrá por desistida su petición. En caso de denegarla, deberá hacerlo fundadamente.
 
 Si la autoridad sanitaria no emitiere un pronunciamiento dentro de dicho plazo, la autorización se entenderá concedida salvo respecto de aquellas materias que de acuerdo con la ley requieren autorización expresa.
 
 Estas últimas actividades no podrán iniciar su funcionamiento mientras no obtengan la autorización sanitaria respectiva.
 
+Con todo, no requerirán autorización o permiso de la autoridad sanitaria los proyectos o actividades que se determinen en los respectivos reglamentos, de conformidad con el artículo 4 numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, en consideración al riesgo del proyecto o actividad a desarrollar, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
 > **Nota.** El Art. 12 de la ley 18796, publicada el 24.05.1989, dispone que la modificación introducida al presente artículo por el Art. 10° letra a) de la misma ley, comenzará a regir a contar de la fecha de publicación del decreto con fuerza de ley que determine las materias que requieren de autorización sanitaria expresa. El referido D.F.L. es el N° 1, Salud, publicado el 21 de febrero de 1990.
 
 > **Nota.** NOTA 1: El Decreto con fuerza de ley N° 1, Salud, publicado el 21.02.1990, dictado en uso de la facultad conferida por el Art. 11 de la LEY 18796, publicada el 24.05.1989, determina las materias que requieren de autorización sanitaria expresa, de conformidad con el presente artículo.
+
+#### Artículo 7 bis
+
+Para los casos señalados en el inciso final del artículo 7°, el titular deberá presentar a la autoridad respectiva una declaración jurada que dé cuenta que el proyecto o actividad cumple con la normativa sanitaria que le sea aplicable.
+
+El reglamento respectivo determinará el contenido de la declaración jurada y los antecedentes que deberán acompañarse junto con ésta.
+
+La declaración jurada surtirá efecto desde el día siguiente a su presentación, sin necesidad de aprobación posterior por parte de la autoridad sanitaria, quien considerará los antecedentes presentados para las acciones de fiscalización, vigilancia o control posterior.
+
+Los proyectos o actividades a que se refiere este artículo deberán ejecutarse con estricta sujeción a la declaración jurada y demás antecedentes presentados a la autoridad sanitaria.
+
+De oficio o a petición de parte, la autoridad sanitaria podrá disponer la paralización, suspensión o clausura del proyecto o actividad, según corresponda, en aquellos casos en que se advierta el incumplimiento de las normas aplicables a la presentación de una declaración jurada, de conformidad con lo establecido en el Libro X.
+
+La habilitación a que da lugar la declaración jurada tendrá la vigencia que para cada caso se establezca en los respectivos reglamentos.
 
 #### Artículo 8°
 
@@ -130,7 +146,9 @@ Corresponderá al Servicio Nacional de Salud la supresión de cualquier factor q
 
 Las Municipalidades de la República no podrán otorgar patentes ni permisos definitivos para el funcionamiento de locales o para el ejercicio de determinadas actividades que requieran de autorización del Servicio Nacional de Salud, sin que previamente se les acredite haberse dado cumplimiento a tal requisito.
 
-Las patentes o permisos concedidos por las Municipalidades con omisión del requisito establecido en el inciso precedente serán nulas y las Municipalidades que las hayan otorgado deberán proceder a cancelarlas.
+Para el caso de los locales y actividades sujetas al procedimiento establecido en el artículo 7° bis, bastará como acreditación ante la Municipalidad el comprobante de ingreso de la declaración jurada a que se refiere dicho artículo.
+
+Las patentes o permisos concedidos por las Municipalidades con omisión de los requisitos establecidos en los incisos precedentes serán nulas y las Municipalidades que las hayan otorgado deberán proceder a cancelarlas.
 
 Sin perjuicio de lo anterior, el Servicio Nacional de Salud procederá sin más trámite a ordenar la paralización de la obra, clausura del establecimiento o la prohibición del ejercicio de la actividad o comercio, según corresponda.
 
@@ -566,6 +584,8 @@ b) la evacuación, tratamiento o disposición final de desagües, aguas servidas
 
 Antes de poner en explotación las obras mencionadas, ellas deben ser autorizadas por el Servicio Nacional de Salud.
 
+Con todo, no requerirán autorización los proyectos u obras que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
 #### Artículo 72°
 
 El Servicio Nacional de Salud ejercerá la vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
@@ -592,11 +612,15 @@ Prohíbese usar las aguas de alcantarillado, desagües, acequias u otras aguas d
 
 No obstante, estas aguas se podrán usar en el riego agrícola cuando se obtenga la autorización correspondiente del Servicio Nacional de Salud, quien determinará el grado de tratamiento, de depuración o desinfección que sea necesario para cada tipo de cultivo.
 
+Con todo, no requerirán autorización los proyectos que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
 > **Nota.** El Decreto 1775, Salud, publicado el 19.07.1995, estableció normas para la aplicación del presente artículo.
 
 #### Artículo 76°
 
 Corresponderá a la autoridad sanitaria autorizar la instalación, ampliación y modificación de los balnearios, baños y piscinas destinados al uso público, como asimismo, vigilar su funcionamiento.
+
+Con todo, no requerirán autorización los proyectos o actividades que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
 
 ### Párrafo II
 
@@ -636,11 +660,15 @@ El Reglamento fijará las condiciones de saneamiento y seguridad relativas a la 
 
 Para proceder a la construcción, reparación, modificación y ampliación de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase, será necesaria la aprobación previa del proyecto por el Servicio Nacional de Salud.
 
+Con todo, no requerirán autorización previa del proyecto las plantas que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
 #### Artículo 80°
 
 Corresponde al Servicio Nacional de Salud autorizar la instalación y vigilar el funcionamiento de todo lugar destinado a la acumulación, selección, industrialización, comercio o disposición final de basuras y desperdicios de cualquier clase.
 
 Al otorgar esta autorización, el Servicio Nacional de Salud determinará las condiciones sanitarias y de seguridad que deben cumplirse para evitar molestia o peligro para la salud de la comunidad o del personal que trabaje en estas faenas.
+
+Con todo, no requerirán autorización previa los lugares que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
 
 #### Artículo 81°
 
@@ -889,6 +917,8 @@ Se considerarán alimentos especiales aquellos productos o preparados destinados
 Corresponderá a la Secretaría Regional Ministerial de Salud autorizar y fiscalizar, dentro de su territorio de competencia, la instalación de los locales destinados a la producción, elaboración, envase, almacenamiento, distribución y venta de alimentos y de los mataderos y frigoríficos, públicos y particulares.
 
 Corresponderá asimismo a dicha autoridad realizar, directamente o mediante delegación a entidades públicas o privadas idóneas o a profesionales calificados, la inspección médico-veterinaria de los animales que se beneficien y de las carnes.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso primero los locales que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
 
 #### Artículo 104
 
@@ -1324,6 +1354,8 @@ Son establecimientos del área de la salud aquellas entidades públicas o privad
 
 Estos establecimientos requerirán, para su instalación, ampliación, modificación o traslado, autorización sanitaria de la Secretaría Regional Ministerial de Salud de la región en que se encuentren situados, la que se otorgará previo cumplimiento de los requisitos técnicos que determine el reglamento, sin perjuicio de las atribuciones que este Código confiere al Instituto de Salud Pública de Chile.
 
+Los servicios de atención móviles que se desplacen o emplacen por un tiempo determinado en una región distinta de aquella en que fue otorgada la autorización sanitaria, se regirán por lo establecido en el artículo 7° inciso final, siempre que cumplan con el procedimiento establecido en el artículo 7° bis y según lo defina el reglamento respectivo.
+
 ## Título I
 
 De los establecimientos asistenciales de salud
@@ -1332,13 +1364,17 @@ De los establecimientos asistenciales de salud
 
 Los establecimientos asistenciales que realicen acciones de salud a las personas requerirán de autorización expresa de la Secretaría Regional Ministerial del territorio en que se encuentren situados y estarán sujetos a los requisitos de instalación, funcionamiento y dirección técnica que determine el reglamento que los regule en particular, en su condición de establecimientos de atención cerrada, generales o especializados. Dicho reglamento determinará, asimismo, los requisitos profesionales que deberá cumplir quien tenga su dirección técnica.
 
-El reglamento de que trata el inciso anterior deberá considerar las circunstancias particulares de aquellos establecimientos que otorgan prestaciones o atenciones apoyadas en tecnologías de la información y las comunicaciones a distancia.
+El reglamento de que trata el inciso anterior deberá considerar las circunstancias particulares de aquellos establecimientos que otorgan prestaciones o atenciones apoyadas en tecnologías de la información y las comunicaciones a distancia. Asimismo, deberá especificar los establecimientos asistenciales a que se refiere el inciso primero que no requerirán autorización previa en consideración al bajo riesgo de la actividad a realizar y conforme a los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
 
 #### Artículo 123
 
 Requerirán asimismo autorización sanitaria los establecimientos de atención abierta o ambulatoria en los cuales se realicen procedimientos especiales para el diagnóstico o tratamiento de las enfermedades que necesiten de infraestructura e instalaciones especiales para su realización y eventualmente de sedación o anestesia local, todos los cuales deberán cumplir con los requisitos de recursos físicos, humanos y de dirección técnica que a su respecto se contemple en los reglamentos pertinentes.
 
-Los establecimientos en que se ejerzan prácticas médicas alternativas o complementarias reguladas por decreto requerirán de autorización sanitaria, la que se otorgará de conformidad con lo establecido en dicha reglamentación.
+Con todo, no requerirán la autorización previa a que se refiere el inciso primero los establecimientos ambulatorios o salas de procedimiento que determine el respectivo reglamento en consideración al bajo riesgo de la actividad a realizar y conforme a los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+Los establecimientos en que se ejerzan prácticas médicas alternativas o complementarias reguladas por decreto, que utilicen instrumentos o equipos que afecten invasivamente el cuerpo humano, generen riesgo para éste, ejecuten maniobras o empleen instrumentos que penetren la piel y mucosas, requerirán de autorización sanitaria, la que se otorgará de conformidad con lo establecido en dicha reglamentación.
+
+Aquellos establecimientos en que se ejerzan prácticas médicas alternativas o complementarias no invasivas de conformidad con el inciso anterior, se sujetarán al procedimiento de declaración jurada establecido en el artículo 7° bis.
 
 El ejercicio de prácticas no reguladas en la forma antedicha será fiscalizado por la autoridad sanitaria y queda sujeto a las prohibiciones establecidas en los artículos 53 y 54 y en el Libro Quinto.
 
@@ -1353,6 +1389,8 @@ De los establecimientos de óptica y de otros elementos de uso médico y de otro
 #### Artículo 125
 
 Los establecimientos que fabriquen los elementos de uso médico aludidos en el artículo 111 requerirán de la autorización sanitaria de la Secretaría Regional Ministerial de Salud competente, la que se otorgará previa verificación del cumplimiento de los requisitos y condiciones relativos a su elaboración, control de calidad, distribución y venta que se determinen en los reglamentos que específicamente se dicten para cada clase o tipo, según el riesgo sanitario que involucre su uso o destino.
+
+Con todo, no requerirán autorización sanitaria los establecimientos de óptica, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
 
 Corresponderá a la autoridad sanitaria fiscalizar el funcionamiento de estos establecimientos en sus áreas de fabricación, distribución y venta.
 
@@ -1399,6 +1437,8 @@ Las farmacias y almacenes farmacéuticos podrán instalarse de manera independie
 Las farmacias son centros de salud, esto es, lugares en los cuales se realizan acciones sanitarias y, en tal carácter, cooperarán con el fin de garantizar el uso racional de los medicamentos en la atención de salud. Serán dirigidas por un químico farmacéutico y contarán con un petitorio mínimo de medicamentos para contribuir a las labores de fármacovigilancia.
 
 En aquellos lugares donde no existan farmacias establecidas, podrán autorizarse farmacias itinerantes, las que corresponderán a estructuras móviles que se ubicarán en lugares y horarios autorizados expresamente por la autoridad sanitaria, facilitando el acceso de la población a los medicamentos, cumpliendo en todo caso las condiciones que al efecto establezca el respectivo reglamento.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso anterior las farmacias itinerantes que determine el respectivo reglamento en consideración al bajo riesgo de la actividad a realizar y conforme con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.".
 
 Además, en aquellos lugares en los cuales no existan establecimientos de expendio de medicamentos al público, el Ministerio de Salud arbitrará las medidas necesarias para su adecuada disponibilidad, a través de los establecimientos de salud.
 
@@ -1507,6 +1547,8 @@ Sin embargo, el Director General de Salud podrá autorizar la inhumación tempor
 Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
 
 Los establecimientos señalados en el inciso precedente deberán disponer en sus reglamentos internos un horario de funcionamiento extraordinario para atender las ceremonias y las romerías nocturnas de integrantes de los Cuerpos de Bomberos de Chile o de otras instituciones que así lo requieran, previa autorización de la autoridad sanitaria.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso primero los establecimientos que determine el respectivo reglamento en consideración al bajo riesgo de la actividad a realizar y conforme con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
 
 #### Artículo 137°
 
@@ -1710,7 +1752,7 @@ DE LAS SANCIONES Y MEDIDAS SANITARIAS
 
 (165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicten los Directores de los Servicios de Salud o el Director del Instituto de Salud Pública de Chile, según sea el caso, salvo las disposiciones que tengan una sanción especial, será castigada con multa de un décimo de unidad tributaria mensual hasta mil unidades tributarias mensuales. Las reincidencias podrán ser sancionadas hasta con el doble de la multa original.
 
-Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, recintos, edificios, casas, locales o lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento o de los permisos concedidos; con la paralización de obras o faenas; con la suspensión de la distribución y uso de los productos de que se trate, y con el retiro, decomiso, destrucción o desnaturalización de los mismos, cuando proceda.
+Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, recintos, edificios, casas, locales o lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento, de la habilitación referida en el artículo 7° bis o de los permisos concedidos; con la paralización de obras o faenas; con la suspensión de la distribución y uso de los productos de que se trate, y con el retiro, decomiso, destrucción o desnaturalización de los mismos, cuando proceda.
 
 Lo anterior es sin perjuicio de hacer efectivas las responsabilidades que establezcan otros cuerpos legales respecto de los hechos.
 
@@ -1726,7 +1768,7 @@ Sin perjuicio de lo dispuesto en los incisos anteriores, en el pago de estas mul
 
 #### Artículo 175°
 
-(166).- En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
+(166).- En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento, de la habilitación referida en el artículo 7° bis o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
 
 #### Artículo 176°
 

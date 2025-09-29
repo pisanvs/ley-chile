@@ -38,7 +38,7 @@ Corresponderá al Servicio Nacional de Geología y Minería:
 
 7.- Confeccionar la estadística minera del país, el inventario de las reservas minerales y mantenerlos actualizados y difundir la información respectiva.
 
-8.- Velar porque se cumplan los reglamentos de policía y seguridad minera y aplicar las sanciones respectivas a sus infractores; proponer la dictación de normas que tiendan a mejorar las condiciones de seguridad en las actividades mineras de acuerdo con los avances técnicos y científicos; y requerir información sobre los programas y cursos de capacitación e informar a los trabajadores que se desempeñan en la industria extractiva.
+8.- Velar porque se cumplan los reglamentos de policía y seguridad minera y aplicar las sanciones respectivas a sus infractores, las que en caso de multa no podrán superar las 100 unidades tributarias anuales; proponer la dictación de normas que tiendan a mejorar las condiciones de seguridad en las actividades mineras de acuerdo con los avances técnicos y científicos; y requerir información sobre los programas y cursos de capacitación e informar a los trabajadores que se desempeñan en la industria extractiva.
 
 9.- Cumplir con las funciones que las disposiciones legales y reglamentarias le asignen en la fiscalización del abastecimiento, distribución, almacenamiento y uso de los explosivos destinados a las actividades mineras.
 
@@ -56,17 +56,23 @@ Toda persona, natural o jurídica, que acredite una capacidad de extracción de 
 
 15.- Otorgar, cuando le sean solicitados, certificados de origen y calidad de productos mineros que se destinen a la exportación.
 
-16.- Requerir, conforme al artículo 21 del Código de Minería, a toda persona que realice o haya realizado, por sí o a través de terceros, trabajos de exploración geológica básica, la entrega de la información de carácter general que al respecto obtenga.
-
-Se entenderá por información de carácter general, el conjunto de antecedentes, tales como muestras, mapas, levantamientos, tablas o estudios, obtenidos de los trabajos de exploración geológica básica.
-
-El incumplimiento del requerimiento de información que efectúe el Servicio, conforme al párrafo anterior, podrá ser sancionado con multa de hasta 100 unidades tributarias anuales.
-
-Un reglamento establecerá las definiciones, plazos, condiciones y procedimiento para el ejercicio de la presente atribución, así como aquel para la aplicación de la multa precitada de conformidad a lo establecido en la ley Nº 19.880.
+16.- Eliminado.
 
 17. Declarar las alertas derivadas de actividad volcánica o erupción y remoción en masa, que puedan afectar a la población, en sus niveles y cobertura, y comunicarlas de manera oportuna y suficiente, en la forma que determinen los protocolos generados para estos efectos, al Servicio Nacional de Prevención y Respuesta ante Desastres.
 
 18. Declarar la alerta de amenazas derivadas de emergencias mineras de gran alcance, en sus niveles y cobertura, y comunicarla de manera oportuna y suficiente, en la forma que determinen los protocolos generados para estos efectos, al Servicio Nacional de Prevención y Respuesta ante Desastres.
+
+19. Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, conforme a los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+20. Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, conforme a lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
+
+21. Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento expedido por el Ministerio de Minería, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 ## Título II
 

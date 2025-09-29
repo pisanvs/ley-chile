@@ -48,9 +48,21 @@ e) Propiciar la enseñanza, investigación y difusión de la utilización de la 
 
 f) Colaborar con el Servicio Nacional de Salud en la prevención de los riesgos inherentes a la utilización de la energía atómica, especialmente en los aspectos de higiene ocupacional, medicina del trabajo, contaminación ambiental, contaminación de los alimentos y del aire. Deberá mantener un sistema efectivo de control de riesgos para la protección de su propio personal, y para prevenir y controlar posibles problemas de contaminación ambiental dentro y alrededor de sus instalaciones nucleares;
 
-g) Ejercer en la forma que determine el Reglamento el control de la producción, adquisición, transporte, importación y exportación, uso y manejo de los elementos fértiles, fisionables y radioactivos, y
+g) Ejercer en la forma que determine el Reglamento el control de la producción, adquisición, transporte, importación y exportación, uso y manejo de los elementos fértiles, fisionables y radioactivos.
 
 h) Anualmente la Comisión proporcionará a las Comisiones de Minería y Economía y Comercio de ambas ramas del Congreso una memoria conteniendo el desarrollo de sus actividades.
+
+i) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales" y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+j) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
+
+k) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen a requerimiento de quien solicite una autorización de su competencia el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos reglamentariamente conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 4°
 

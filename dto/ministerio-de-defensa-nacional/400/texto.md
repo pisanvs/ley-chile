@@ -576,6 +576,10 @@ El total del rendimiento de los derechos y multas establecidos en la presente le
 
 La mencionada Dirección General proporcionará, por intermedio de sus respectivas Instituciones, a las Comandancias de Guarnición de las Fuerzas Armadas y autoridades de Carabineros de Chile, que se desempeñen como autoridades fiscalizadoras, el 50% de los derechos y multas recaudados por cada una de éstas, para que cumplan las funciones que les encomienda esta ley.
 
+#### Artículo 26 bis
+
+Vencido el plazo legal para resolver acerca de una solicitud de autorización sin que la Dirección General de Movilización Nacional, la autoridad fiscalizadora o la comandancia de guarnición de las Fuerzas Armadas, según corresponda, se pronuncie sobre ella, el interesado estará legitimado para hacer valer el silencio administrativo negativo.
+
 #### Artículo 27°
 
 Facúltase a quienes tengan o posean armas permitidas por esta ley, para inscribirlas antes de que se inicie procedimiento en su contra, ante las autoridades mencionadas en el artículo 4°.

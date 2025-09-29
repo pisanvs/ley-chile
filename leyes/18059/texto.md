@@ -14,9 +14,17 @@ b) Controlar y fiscalizar el cumplimiento de las acciones enumeradas en la letra
 
 c) Estudiar y proponer las normas legales y reglamentarias necesarias para llevar a cabo una adecuada política de tránsito público;
 
-d) Dictar, por orden del Presidente de la República, las normas necesarias e impartir las instrucciones correspondientes para el adecuado cumplimiento de las disposiciones relativas al tránsito terrestre por calles y caminos, y
+d) Dictar, por orden del Presidente de la República, las normas necesarias e impartir las instrucciones correspondientes para el adecuado cumplimiento de las disposiciones relativas al tránsito terrestre por calles y caminos;
 
-e) Las demás funciones que le encomienden las leyes.
+e) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes en materia de transportes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el inciso primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación;
+
+f) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones en materia de transportes de su competencia o de órganos sectoriales relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme a lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales, y
+
+g) Las demás funciones que le encomienden las leyes.
 
 #### Artículo 2°
 

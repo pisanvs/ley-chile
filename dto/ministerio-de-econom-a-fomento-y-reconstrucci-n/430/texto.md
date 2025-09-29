@@ -2638,11 +2638,13 @@ Se autorizará la operación de centros de acopio de peces en los casos en que s
 
 Los requisitos y el procedimiento para otorgar la autorización a que se refiere el inciso precedente se establecerán en el reglamento.
 
+No quedarán sujetos al régimen de autorización establecido en el inciso anterior los centros de acopio y centros de faenamiento en bienes nacionales de uso público que se determine en el reglamento, dictado conforme al artículo 14 literal e) del decreto con fuerza de ley N° 5, de 1983, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 34, de 1931, que legisla sobre la industria pesquera y sus derivados, siempre que el titular suscriba una declaración jurada. El reglamento determinará el contenido de la declaración jurada y los antecedentes que deberán acompañarse junto con ésta, que aseguren el cumplimiento de los requisitos sanitarios y de protección ambiental a que se refieren los incisos anteriores.
+
 Los permisos o concesiones sobre bienes nacionales de uso público que se requieran para el ejercicio de estas actividades se regirán por las disposiciones sobre concesiones marítimas.
 
 #### Artículo 90 ter
 
-Las resoluciones que autoricen la operación de centros de acopio o centros de faenamiento en bienes nacionales de uso público o que las modifiquen en cualquier forma serán inscritos por el Servicio en el registro. Los titulares de de centros de faenamiento y de centros de acopio en terrenos privados deberán inscribirlos de conformidad con lo dispuesto en el reglamento, previa acreditación del cumplimiento de los requisitos sanitarios y de protección ambiental señalados en el artículo anterior.
+Las declaraciones juradas o resoluciones que autoricen la operación de centros de acopio o centros de faenamiento en bienes nacionales de uso público o que las modifiquen en cualquier forma serán inscritos por el Servicio en el registro. Los titulares de de centros de faenamiento y de centros de acopio en terrenos privados deberán inscribirlos de conformidad con lo dispuesto en el reglamento, previa acreditación del cumplimiento de los requisitos sanitarios y de protección ambiental señalados en el artículo anterior.
 
 Para los efectos de esta ley, será siempre responsable del cumplimiento de la normativa, el titular de la correspondiente inscripción.
 
@@ -2650,7 +2652,7 @@ Los titulares de centros de acopio o centros de faenamiento deberán informar re
 
 El Servicio eliminará del registro la inscripción de las pisciculturas, los centros de cultivo que utilizan cursos o cuerpos de agua que nacen, corren y mueren en la misma heredad y los centros de faenamiento en terrenos privados, que no informen operación por el plazo de cuatro años en las condiciones señaladas en el reglamento, pudiendo ampliarse por un año en el evento de caso fortuito o fuerza mayor.
 
-Asimismo, será dejada sin efecto la autorización otorgada para la operación de centros de acopio o centros de faenamiento en bienes nacionales de uso público en los casos en que sus titulares no hubieren informado la operación por un plazo de cuatro años.
+Asimismo, será dejada sin efecto la declaración jurada o la autorización otorgada para la operación de centros de acopio o centros de faenamiento en bienes nacionales de uso público en los casos en que sus titulares no hubieren informado la operación por un plazo de cuatro años.
 
 #### Artículo 90 quáter
 

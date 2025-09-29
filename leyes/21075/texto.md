@@ -80,6 +80,8 @@ El Ministerio de Salud dictará un reglamento que contendrá las condiciones san
 
 Respecto de las solicitudes, la autoridad requerida se pronunciará de conformidad a lo establecido en el artículo 7° del Código Sanitario.
 
+Con todo, no requerirán autorización previa de proyecto o funcionamiento los sistemas de reutilización de aguas grises que determine el reglamento a que se refiere el inciso tercero, en consideración al bajo riesgo de la actividad a realizar y conforme a los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis del Código Sanitario.
+
 #### Artículo 4
 
 La resolución que autorice el sistema de reutilización de aguas grises considerará, entre otros, los siguientes aspectos:

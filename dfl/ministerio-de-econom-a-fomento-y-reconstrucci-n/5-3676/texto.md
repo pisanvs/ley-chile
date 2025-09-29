@@ -106,7 +106,15 @@ b) Adoptar medidas para evitar la introducción y propagación dentro del territ
 
 c) Aplicar las leyes y reglamentos sobre pesca y caza marítima, y
 
-d) Dictar resoluciones respecto de la asignación de fondos que la Ley de Presupuestos destine a la Subsecretaría de Pesca para proyectos de investigación pesquera.
+d) Dictar resoluciones respecto de la asignación de fondos que la Ley de Presupuestos destine a la Subsecretaría de Pesca para proyectos de investigación pesquera;
+
+e) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el párrafo primero el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
+
+f) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 DE LA SUBSECRETARIA DE PESCA
 
@@ -168,9 +176,21 @@ j) Regular las actividades de pesca deportiva o recreativa y caza submarina;
 
 k) Promover y fomentar la investigación y restauración de hábitat para especies hidrobiológicas de importancia para la pesca recreativa, así como la implementación y ejecución de proyectos de promoción, difusión, administración, vigilancia y fiscalización para esta actividad;
 
-l) Promover y fomentar el consumo de recursos hidrobiológicos, pudiendo impulsar el desarrollo, implementación y ejecución de proyectos de promoción de éste, y
+l) Promover y fomentar el consumo de recursos hidrobiológicos, pudiendo impulsar el desarrollo, implementación y ejecución de proyectos de promoción de éste;
 
-m) Las demás que le confieren las leyes.
+m) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión;
+
+n) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable;
+
+ñ) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento expedido por el Ministerio de Economía, Fomento y Turismo, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales, y
+
+o) Las demás que le confieren las leyes.
 
 > **Nota.** El artículo 122 de la LEY 18892, publicada el 23.12.1989, dispuso la derogación de las letras d) y g) de este artículo, a partir del 06.09.1991. El artículo 1° N° 151 de la LEY 19079, publicada el 06.09.1991 modificó el citado artículo 122 eliminando la referencia a estas letras.
 
@@ -540,9 +560,19 @@ l) Controlar la calidad sanitaria de los materiales y embarcaciones de importaci
 
 m) Deducir querella para la investigación de los delitos contemplados en la normativa pesquera y de acuicultura;
 
-n) Solicitar y obtener la destinación de aquella parte de los bienes comprendidos en el borde costero que se encuentran bajo la supervigilancia del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, de conformidad con el artículo 1 del decreto con fuerza de ley Nº 340, de 1960, del Ministerio de Hacienda, sobre concesiones marítimas, y
+n) Solicitar y obtener la destinación de aquella parte de los bienes comprendidos en el borde costero que se encuentran bajo la supervigilancia del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, de conformidad con el artículo 1 del decreto con fuerza de ley Nº 340, de 1960, del Ministerio de Hacienda, sobre concesiones marítimas;
 
-ñ) Solicitar y obtener la destinación de los bienes fiscales colindantes a los indicados en la letra anterior, que se encuentren bajo la supervigilancia del Ministerio de Bienes Nacionales.
+ñ) Solicitar y obtener la destinación de los bienes fiscales colindantes a los indicados en la letra anterior, que se encuentren bajo la supervigilancia del Ministerio de Bienes Nacionales;
+
+o) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, conforme a los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de la función reconocida por este numeral deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión, y
+
+p) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento expedido por el Ministerio de Economía, Fomento y Turismo, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 28
 

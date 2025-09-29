@@ -50,7 +50,7 @@ Segunda categoría. Serán, asimismo, considerados como delitos económicos los 
 
 6. El artículo 110 de la ley N° 18.092, que dicta Nuevas normas sobre letras de cambio y pagaré y deroga disposiciones del Código de Comercio.
 
-7. El artículo 7, letras f) y h), de la ley Nº 20.009, que Establece un régimen de limitación de responsabilidad para titulares o usuarios de tarjetas de pago y transacciones electrónicas en caso de extravío, hurto, robo o fraude.
+7. El artículo 7, letras a) y b), de la ley Nº 20.009, que Establece un régimen de limitación de responsabilidad para titulares o usuarios de tarjetas de pago y transacciones electrónicas en caso de extravío, hurto, robo o fraude.
 
 8. Los artículos 18, 21, 22, 22 bis y 22 ter del decreto N° 4.363, de 1931, del Ministerio de Tierras y Colonización, que aprueba texto definitivo de la Ley de Bosques.
 
@@ -102,6 +102,8 @@ Segunda categoría. Serán, asimismo, considerados como delitos económicos los 
 
 32. Los artículos 28, 28 bis, 52, 61, 67, 85 y 105 del artículo único del decreto con fuerza de ley Nº 4, de 2022, del Ministerio de Economía, Fomento y Turismo, que fija el texto refundido, coordinado y sistematizado de la ley Nº 19.039, de Propiedad Industrial.
 
+33. El inciso tercero del artículo 12 y el artículo 38 de la Ley Marco de Autorizaciones Sectoriales.
+
 #### Artículo 3
 
 Tercera categoría. Serán asimismo considerados como delitos económicos los hechos previstos en las disposiciones legales que a continuación se indican, siempre que en la perpetración del hecho hubiere intervenido, en alguna de las formas previstas en los artículos 15 o 16 del Código Penal, alguien en ejercicio de un cargo, función o posición en una empresa, o cuando el hecho fuere perpetrado en beneficio económico o de otra naturaleza para una empresa:
@@ -115,6 +117,8 @@ Tercera categoría. Serán asimismo considerados como delitos económicos los he
 4. El artículo 48 ter de la ley N° 19.300, que aprueba ley sobre Bases Generales del Medio Ambiente.
 
 5. Los artículos 193, 233, 234, 235, 236, 237, 239; 240, número 1; 240 bis, 241, 241 bis, 242, 243, 244, 246, 247; 247 bis, inciso primero; 248, 248 bis y 249 del Código Penal.
+
+6. El artículo 45 de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 4
 

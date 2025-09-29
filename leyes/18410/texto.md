@@ -138,7 +138,13 @@ No obstante lo establecido en el párrafo anterior, las nuevas normas que se dic
 
 38.- Ordenar, por resolución fundada, durante la vigencia de un decreto de racionamiento y previo informe favorable de la Comisión Nacional de Energía, la reducción de los consumos prescindibles de los particulares y órganos del Estado, y las demás medidas de carácter general que contribuyan a la disminución del déficit de energía.
 
-39.- Ejercer las demás funciones y atribuciones que el ordenamiento jurídico confiera a la Superintendencia de Servicios Eléctricos y de Gas o a la Superintendencia de Electricidad y Combustibles.
+39.- Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+40.- Ejercer las demás funciones y atribuciones que el ordenamiento jurídico confiera a la Superintendencia de Servicios Eléctricos y de Gas o a la Superintendencia de Electricidad y Combustibles.
 
 En los casos en que se obstaculizare o impidiere el pleno ejercicio de las atribuciones otorgadas a la Superintendencia para la protección y seguridad de las personas, o para evitar un grave daño a la población, ésta podrá solicitar, por razones fundadas, directamente del Intendente que corresponda, el auxilio de la fuerza pública, con facultades de allanamiento y descerrajamiento, si fuere necesario.
 
@@ -230,9 +236,15 @@ e) Ejecutar los actos y celebrar las convenciones necesarias para el cumplimient
 
 En el ejercicio de estas facultades, podrá libremente administrar, adquirir y enajenar bienes de cualquier naturaleza;
 
-f) Delegar atribuciones o facultades específicas en funcionarios de las plantas directiva, profesional o técnica de la Superintendencia, y
+Asimismo, podrá contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
+
+f) Delegar atribuciones o facultades específicas en funcionarios de las plantas directiva, profesional o técnica de la Superintendencia;
 
 g) Aplicar las sanciones que señala la presente ley y otras normas legales, de conformidad a la establecido en el Título IV.
+
+h) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos reglamentariamente conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 8°
 

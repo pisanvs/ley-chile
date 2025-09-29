@@ -32,6 +32,10 @@ La Ordenanza General, que contiene las disposiciones reglamentarias de esta ley 
 
 Las Normas Técnicas, que contienen y definen las características técnicas de los proyectos, materiales y sistemas de construcción y urbanización, de acuerdo a los requisitos de obligatoriedad que establece la Ordenanza General. Las normas técnicas de aplicación obligatoria deberán publicarse en internet y mantenerse a disposición de cualquier interesado de forma gratuita.
 
+#### Artículo 2 bis
+
+La Ordenanza General de Urbanismo y Construcciones podrá especificar los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones o permisos señalados en la presente ley, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y a las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
 #### Artículo 3°
 
 Al Ministerio de Vivienda y Urbanismo corresponderá proponer al Presidente de la República las modificaciones que esta Ley requiera para adecuarla al desarrollo nacional.
@@ -1136,7 +1140,7 @@ D).- La Ordenanza General de esta ley podrá establecer normas especiales y proc
 
 Los permisos y recepciones de obras de que trata el inciso anterior podrán ser otorgados por la Secretaría Regional Ministerial de Vivienda y Urbanismo cuando se trate de las siguientes situaciones especiales:
 
-a) Solicitudes sobre las cuales la Dirección de Obras Municipales no se hubiere pronunciado dentro del plazo máximo establecido en la presente ley, o se encuentren con observaciones que no corresponden de acuerdo a la normativa vigente.
+a) Solicitudes sobre las cuales la Dirección de Obras Municipales no se hubiere pronunciado dentro del plazo máximo establecido en la presente ley, o se encuentren con observaciones que no corresponden de acuerdo a la normativa vigente, sin perjuicio de la opción del solicitante para proceder de conformidad con el artículo 118 inciso tercero, a su elección.
 
 b) Obras ubicadas en localidades distantes más de 30 kilómetros de la ciudad sede de la Dirección de Obras Municipales.
 
@@ -1278,7 +1282,7 @@ Sin perjuicio de lo antes señalado, las torres soporte de antenas y sistemas ra
 
 #### Artículo 116 bis
 
-H.- Las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de tres o menos metros de altura, incluidos en ellos sus antenas y sistemas radiantes, requerirán de aviso de instalación a la Dirección de Obras Municipales conforme a los requisitos establecidos en la Ordenanza General de esta ley.
+H.- Las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de tres o menos metros de altura, incluidos en ellos sus antenas y sistemas radiantes, y aquellas torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que determine la Ordenanza General, de conformidad con el artículo 2° bis, requerirán de aviso de instalación a la Dirección de Obras Municipales conforme a los requisitos establecidos en la Ordenanza General.
 
 Al mismo aviso estará sujeta la instalación de aquellas estructuras porta antenas que se levanten sobre edificios de más de cinco pisos y aquellas que se pretenda instalar en zonas rurales, cualquiera fuese su tamaño.
 

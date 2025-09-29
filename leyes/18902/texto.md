@@ -76,9 +76,17 @@ i) Requerir la respuesta de las empresas prestadoras a los reclamos de los usuar
 
 j) Emitir informes periódicos sobre la calidad de servicio de las distintas prestadoras y sobre cualquier otra información útil para el usuario de servicios sanitarios. Los informes deberán basarse en indicadores objetivos;
 
-k) Solicitar a otras instituciones la información necesaria para el cumplimiento de sus funciones, y
+k) Solicitar a otras instituciones la información necesaria para el cumplimiento de sus funciones;
 
-l) Las demás funciones y atribuciones que las leyes le asignen.
+l) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, conforme a los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+m) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y en la demás normativa aplicable.
+
+n) Las demás funciones y atribuciones que las leyes le asignen.
 
 #### Artículo 5º
 

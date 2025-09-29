@@ -470,9 +470,21 @@ h) Actuar como árbitro frente a controversias que se susciten entre los miembro
 
 i) Velar por la preservación y la difusión del patrimonio arqueológico, histórico y cultural de las etnias y promover estudios e investigaciones al respecto;
 
-j) Sugerir al Presidente de la República los proyectos de reformas legales y administrativas necesarios para proteger los derechos de los indígenas, y
+j) Sugerir al Presidente de la República los proyectos de reformas legales y administrativas necesarios para proteger los derechos de los indígenas;
 
-k) Desarrollar todas las demás funciones establecidas en esta ley.
+k) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, conforme a los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de la función reconocida por este numeral, deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión;
+
+l) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable;
+
+m) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento expedido por el Ministerio de Desarrollo Social y Familia, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales, y
+
+n) Desarrollar todas las demás funciones establecidas en esta ley.
 
 En el cumplimiento de sus objetivos, la Corporación podrá convenir con los Gobiernos Regionales y Municipalidades respectivos, la formulación de políticas y la realización de planes y proyectos destinados al desarrollo de las personas y comunidades indígenas.
 

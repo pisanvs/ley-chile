@@ -30,6 +30,18 @@ DEROGADO.
 
 Corresponderá al Ministro de Transportes y Telecomunicaciones, proponer al Presidente de la República las políticas de Telecomunicaciones que deben aplicarse y adoptar todas las medidas técnicas normativas necesarias para orientar, controlar, dirigir, coordinar, fomentar, desarrollar, estructurar y organizar las Telecomunicaciones del país. En todo caso, cuando dichas medidas técnicas signifiquen un mayor gasto, requerirán la visación del Ministerio de Hacienda.
 
+#### Artículo 4 bis
+
+Corresponderá asimismo al Ministerio de Transportes y Telecomunicaciones:
+
+a) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes en materia de telecomunicaciones, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y a las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el inciso primero el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación;
+
+b) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones en materia de telecomunicaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme a lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
 #### Artículo 5°
 
 Créase en el Ministerio de Transportes y de Telecomunicaciones, la Subsecretaría de Telecomunicaciones y el cargo de Subsecretario.
@@ -58,9 +70,21 @@ i) Informar y pronunciarse, según corresponda, acerca de las solicitudes de con
 
 j) Coordinar con el Ministerio de Defensa Nacional y demás organismos y entidades competentes la dictación de las normas destinadas a controlar el ingreso al país de material y equipo de telecomunicaciones, como asimismo las relativas a su fabricación y uso;
 
-k) Requerir de las entidades que operen en el ámbito de las telecomunicaciones y de cualquier organismo público los antecedentes e informaciones necesarios para el desempeño de su cometido, los que estarán obligados a proporcionarlos, y
+k) Requerir de las entidades que operen en el ámbito de las telecomunicaciones y de cualquier organismo público los antecedentes e informaciones necesarios para el desempeño de su cometido, los que estarán obligados a proporcionarlos;
 
 l) Aplicar las sanciones administrativas que establece la Ley General de Telecomunicaciones.
+
+m) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad a los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión;
+
+n) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo dispuesto en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable, y
+
+ñ) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos reglamentariamente conforme a lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 7°
 

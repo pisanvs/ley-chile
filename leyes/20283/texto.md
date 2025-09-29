@@ -46,7 +46,7 @@ Se considerarán, en todo caso, incluidos en esta definición, los bosques compr
 
 14) Formación xerofítica: formación vegetal, constituida por especies autóctonas, preferentemente arbustivas o suculentas, de áreas de condiciones áridas o semiáridas ubicadas entre las Regiones I y VI, incluidas la Metropolitana y la XV y en las depresiones interiores de las Regiones VII y VIII.
 
-15) Interesado: el propietario o poseedor en proceso de saneamiento de título del predio, o titular de algunos de los derechos indicados en los incisos cuarto y quinto del artículo 7º.
+15) Interesado: el propietario o poseedor en proceso de saneamiento de título del predio, titular o solicitante de algunos de los derechos indicados en los incisos cuarto y quinto del artículo 7°.
 
 16) Ordenación forestal, en adelante "ordenación": conjunto de intervenciones silviculturales que, organizadas espacial y temporalmente, persiguen una estructuración tal del bosque que permite un rendimiento sostenido, sin afectar negativamente su productividad, ni de manera significativa las funciones ambientales del mismo, conforme a las prescripciones técnicas contenidas en un plan de manejo forestal.
 
@@ -114,7 +114,7 @@ En todo caso, los profesionales a que se refiere el presente artículo deberán 
 
 Dicho plan deberá contar con la firma del interesado y del profesional que lo hubiere elaborado.
 
-Cuando la construcción de caminos, el ejercicio de concesiones o servidumbres mineras, de gas, de servicios eléctricos, de ductos u otras reguladas por ley, según corresponda, implique corta de bosque nativo, el plan de manejo correspondiente deberá ser presentado por el respectivo concesionario o titular de la servidumbre, según los casos, quien será responsable del cumplimiento de todas las obligaciones contenidas en él. Lo establecido en el presente inciso será aplicable a los proyectos que formen parte del Plan de Emergencia Habitacional, cuando en dichos proyectos se considere la alteración del hábitat de especies en categoría de conservación; y deberá cumplirse con los restantes requisitos establecidos en el artículo 19.
+Cuando la construcción de caminos, el ejercicio de concesiones o servidumbres mineras, de gas, de servicios eléctricos, de ductos u otras reguladas por ley, según corresponda, implique corta de bosque nativo, el plan de manejo correspondiente deberá ser presentado por los respectivos concesionarios, titulares de servidumbres, o aquellas personas naturales o jurídicas que se encuentren tramitando el otorgamiento de estos derechos, quienes serán responsables del cumplimiento de todas las obligaciones contenidas en él. Lo establecido en el presente inciso será aplicable a los proyectos que formen parte del Plan de Emergencia Habitacional, cuando en dichos proyectos se considere la alteración del hábitat de especies en categoría de conservación; y deberá cumplirse con los restantes requisitos establecidos en el artículo 19.
 
 Cuando se trate de bosques fiscales, el plan de manejo deberá ser suscrito por el concesionario o arrendatario del respectivo inmueble fiscal, quien será responsable del cumplimiento de las obligaciones contenidas en él. Será también suscrito por la respectiva Secretaría Regional Ministerial de Bienes Nacionales, con lo que se acreditará que el solicitante tiene alguna de dichas calidades y que no existe oposición por parte del Ministerio de Bienes Nacionales.
 
@@ -214,7 +214,7 @@ Para autorizar las intervenciones a que se refiere el inciso anterior, se requer
 
 Para llevar adelante la intervención, el solicitante deberá elaborar un plan de manejo de preservación, que deberá considerar, entre otras, las medidas que señale la resolución fundada a que se refiere el inciso segundo precedente.
 
-Para calificar el interés nacional, la Corporación podrá solicitar los informes que estime necesarios a otras entidades del Estado.
+Para calificar el interés nacional, la Corporación podrá solicitar los informes que estime necesarios a las entidades del Estado con competencia para autorizar las obras y actividades señaladas en el inciso cuarto del artículo 7°.
 
 #### Artículo 20
 

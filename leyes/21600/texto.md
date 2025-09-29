@@ -176,7 +176,15 @@ q) Celebrar convenios con organismos e instituciones públicas y privadas, para 
 
 r) Integrar y participar en la formación y constitución de personas jurídicas de derecho privado, sin fines de lucro, a que se refiere el Título XXXIII del Libro Primero del Código Civil, cuya finalidad fundamental sea la conservación de la biodiversidad. Del mismo modo, el Servicio está facultado para participar en la disolución y liquidación de las entidades de que forme parte, con arreglo a sus estatutos. El Servicio, mediante resolución, nombrará a uno o más representantes, los que estarán facultados para participar en los órganos de dirección y de administración que contemplen los estatutos de las personas jurídicas que se constituyan en virtud de lo dispuesto en esta disposición.
 
-s) Las demás que establezcan las leyes.
+s) Proponer mejoras a la regulación relativa a las autorizaciones aplicables al Sistema Nacional de Áreas Protegidas, y acompañar el diagnóstico y medidas para su perfeccionamiento normativo y su adecuada implementación, conforme a los principios de esta ley y los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+El diagnóstico y las propuestas resultantes relativas al otorgamiento de autorizaciones serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+t) Registrar profesionales y entidades técnicas reconocidas para que, a requerimiento de quien solicite una autorización de su competencia, informe al Servicio sobre el análisis de cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, los que no tendrán carácter vinculante. El registro que disponga para estos efectos deberá mantenerse actualizado y publicado en su respectivo sitio web.
+
+Las características específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para ser incorporadas al registro por el Servicio, serán establecidos a través de un reglamento expedido por el Ministerio del Medio Ambiente, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
+u) Las demás que establezcan las leyes.
 
 ### Párrafo 2°
 
@@ -203,6 +211,8 @@ d) Delegar en funcionarios de la institución las funciones y atribuciones que e
 e) Coordinar las funciones del Servicio con otros servicios públicos con competencia ambiental.
 
 f) Ejecutar los actos y celebrar los contratos que sean necesarios o conducentes a la obtención de los objetivos del Servicio, ya sea con personas naturales o jurídicas, nacionales o extranjeras, de derecho público o privado.
+
+En ejercicio de esta atribución podrá contratar a profesionales y entidades técnicamente idóneas con el objeto de contar con asesoría o apoyo para la sistematización y análisis de información contenida en solicitudes de autorizaciones de su competencia, conforme a lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
 
 g) Crear y presidir comités o subcomités, para que desarrollen estudios, análisis o resuelvan consultas, con el fin de dar cumplimiento al objeto del Servicio.
 

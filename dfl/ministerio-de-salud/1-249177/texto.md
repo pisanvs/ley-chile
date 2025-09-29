@@ -74,7 +74,7 @@ La labor de inspección o verificación del cumplimiento de las normas podrá se
 
 Los mencionados estándares deberán ser establecidos usando criterios validados, públicamente conocidos y con consulta a los organismos técnicos competentes.
 
-12.- Establecer un sistema de acreditación para los prestadores institucionales autorizados para funcionar. Para estos efectos se entenderá por acreditación el proceso periódico de evaluación respecto del cumplimiento de los estándares mínimos señalados en el numeral anterior, de acuerdo al tipo de establecimiento y a la complejidad de las prestaciones.
+12.- Establecer un sistema de acreditación para los prestadores institucionales que necesiten de autorización sanitaria o declaración jurada para funcionar. Para estos efectos se entenderá por acreditación el proceso periódico de evaluación respecto del cumplimiento de los estándares mínimos señalados en el numeral anterior, de acuerdo al tipo de establecimiento y a la complejidad de las prestaciones.
 
 Un reglamento del Ministerio de Salud establecerá el sistema de acreditación, la entidad o entidades acreditadoras, públicas o privadas, o su forma de selección; los requisitos que deberán cumplir; las atribuciones del organismo acreditador en relación con los resultados de la evaluación; la periodicidad de la acreditación; las características del registro público de prestadores acreditados, nacional y regional, que deberá mantener la Superintendencia de Salud; los aranceles que deberán pagar los prestadores por las acreditaciones, y las demás materias necesarias para desarrollar el proceso.
 
@@ -94,7 +94,19 @@ Las universidades reconocidas oficialmente en Chile serán entidades certificado
 
 16.- Formular políticas que permitan incorporar un enfoque de salud intercultural en los programas de salud en aquellas comunas con alta concentración indígena.
 
-17.- Las demás que le confieren las leyes y reglamentos.
+17.- Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
+18.- Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de competencia de las Secretarías Regionales Ministeriales, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos reglamentariamente conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
+19.- Establecer, a través de un reglamento, los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en esta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el párrafo primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
+
+20.- Las demás que le confieren las leyes y reglamentos.
 
 #### Artículo 5º
 
@@ -186,31 +198,15 @@ Los procedimientos a que se refiere este numeral deberán ser concordados con lo
 
 9.- Organizar, bajo su dependencia y apoyar el funcionamiento de la Comisión de Medicina Preventiva e Invalidez.
 
-10.- Otorgar apostillas en
+10.- Otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los documentos en que consten las firmas de las autoridades del Ministerio de Salud o de algún profesional del área de la salud que acredite el estado de salud de una persona o le prescriba algún tratamiento o medicación.
 
-conformidad a lo establecido en la
+11.- Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
 
-Convención de La Haya que Suprime
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
 
-la Exigencia de Legalización de
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión, por intermedio del Ministro de Salud, cuando corresponda.
 
-Documentos Públicos Extranjeros,
-
-en los documentos en que consten
-
-las firmas de las autoridades del
-
-Ministerio de Salud o de algún
-
-profesional del área de la salud
-
-que acredite el estado de salud
-
-de una persona o le prescriba
-
-algún tratamiento o medicación.
-
-11.- Las demás que establezcan las leyes y reglamentos.
+12.- Las demás que establezcan las leyes y reglamentos.
 
 #### Artículo 13
 

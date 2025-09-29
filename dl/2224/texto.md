@@ -86,7 +86,15 @@ k) Capacitar y fomentar la capacitación y actualización técnica, en materias 
 
 l) Fomentar y facilitar la participación de personas naturales o jurídicas, con o sin fines de lucro, en la formulación de políticas, planes y normas, en materias de competencia del Ministerio.
 
-m) Cumplir las demás funciones y tareas que las leyes o el Gobierno le encomienden concernientes a la buena marcha y desarrollo del sector energía.
+m) Especificar, a través de un reglamento, los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el inciso primero el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
+
+n) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
+ñ) Cumplir las demás funciones y tareas que las leyes o el Gobierno le encomienden concernientes a la buena marcha y desarrollo del sector energía.
 
 #### Artículo 5º
 
@@ -119,6 +127,14 @@ b) Fijar las normas técnicas y de calidad indispensables para el funcionamiento
 c) Monitorear y proyectar el funcionamiento actual y esperado del sector energético, y proponer al Ministerio de Energía las normas legales y reglamentarias que se requieran, en las materias de su competencia.
 
 d) Asesorar al Gobierno, por intermedio del Ministerio de Energía, en todas aquellas materias vinculadas al sector energético para su mejor desarrollo.
+
+e) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función la Comisión deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
+f) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
 
 #### Artículo 8°
 

@@ -16,7 +16,7 @@ Decreto:
 
 El Presidente de la República ejercerá el gobierno y administración del Estado por intermedio de los siguientes Ministerios:
 
-1° Interior y Seguridad Pública;
+1° Interior;
 
 2° Relaciones Exteriores;
 
@@ -24,45 +24,47 @@ El Presidente de la República ejercerá el gobierno y administración del Estad
 
 4° Hacienda;
 
-5° Secretaría General de la Presidencia de la República;
+5° Seguridad Pública;
 
-6° Secretaría General de Gobierno;
+6° Secretaría General de la Presidencia de la República;
 
-7° Economía, Fomento y Turismo;
+7° Secretaría General de Gobierno;
 
-8° Desarrollo Social y Familia;
+8° Economía, Fomento y Turismo;
 
-9° Educación;
+9° Desarrollo Social y Familia;
 
-10° Justicia;
+10° Educación;
 
-11° Trabajo y Previsión Social;
+11° Justicia;
 
-12° Obras Públicas;
+12° Trabajo y Previsión Social;
 
-13° Salud;
+13° Obras Públicas;
 
-14° Vivienda y Urbanismo;
+14° Salud;
 
-15° Agricultura;
+15° Vivienda y Urbanismo;
 
-16° Minería;
+16° Agricultura;
 
-17° Transportes y Telecomunicaciones;
+17° Minería;
 
-18° Bienes Nacionales;
+18° Transportes y Telecomunicaciones;
 
-19º Energía;
+19° Bienes Nacionales;
 
-20º Medio Ambiente;
+20º Energía;
 
-21° Las Culturas, las Artes y el Patrimonio;
+21º Medio Ambiente;
 
-22º Deporte;
+22° Las Culturas, las Artes y el Patrimonio;
 
-23º Mujer y la Equidad de Género, y
+23º Deporte;
 
-24º Ciencia, Tecnología, Conocimiento e Innovación.
+24º Mujer y la Equidad de Género, y
+
+25º Ciencia, Tecnología, Conocimiento e Innovación.
 
 El orden de precedencia de los Ministerios será el asignado en el presente decreto.
 
@@ -78,17 +80,11 @@ I
 
 #### Artículo 3°
 
-Corresponde al Ministerio del Interior y Seguridad Pública:
+Corresponde al Ministerio del Interior:
 
-a) Todo lo relativo al Gobierno Político y Local del territorio y al mantenimiento de la seguridad, tranquilidad y orden públicos;
+a) Todo lo relativo al Gobierno Político y Local del territorio.
 
-Para los efectos señalados en el párrafo anterior de esta letra, y sin perjuicio de lo dispuesto por el artículo 111 del Código Procesal Penal y de las demás facultades otorgadas por leyes especiales, el Ministro del Interior y Seguridad Pública, los Intendentes y Gobernadores, según corresponda, podrán deducir querella:
-
-a) cuando el o los hechos que revistan caracteres de delito hubieren alterado el orden público, impidiendo o perturbando gravemente la regularidad de las actividades empresariales, laborales, educacionales o sociales o el funcionamiento de los servicios públicos o esenciales para la comunidad, o bien impidiendo o limitando severamente a un grupo de personas el legítimo goce o ejercicio de uno o más derechos, libertades o garantías reconocidos por la Constitución Política de la República;
-
-b) cuando el o los hechos que revistan caracteres de delito, considerados en conjunto con otros similares y próximos en el tiempo, hubieren afectado la seguridad pública, generando en toda la población o en un sector de ella el temor de ser víctima de delitos de la misma especie. En caso alguno podrán considerarse comprendidos en esta letra las faltas, los cuasidelitos, los delitos de acción privada, ni los incluidos en los Párrafos 2 y 5 del Título III; Párrafos 5, 7 y 8 del Título IV; Párrafos 2 bis, 3, 5 y 7 del Título VI; todos los del Título VII, salvo los de los Párrafos 5 y 6; los de los Párrafos 2, 4, 6 y 7 del Título VIII; los de los Párrafos 7 y 8 del Título IX, y los del Título X, todos del Libro Segundo del Código Penal, y
-
-c) cuando se trate de los delitos contemplados en las leyes N° 19.327, sobre prevención y sanción de hechos de violencia en recintos deportivos con ocasión de espectáculos de fútbol profesional, y Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias psicotrópicas.
+Para los efectos señalados en el párrafo anterior, y sin perjuicio de lo dispuesto por el artículo 111 del Código Procesal Penal, el Ministro o la Ministra del Interior y los delegados o las delegadas presidenciales regionales podrán deducir querella respecto de los delitos establecidos en la ley N° 12.927, sobre Seguridad del Estado, cuyo texto actualizado y refundido fue fijado por el decreto N° 890, de 1975, del Ministerio del Interior;
 
 b) Las relaciones con el Congreso Nacional que no correspondan a otros Ministerios;
 
@@ -111,8 +107,6 @@ j) SUPRIMIDO;
 k) SUPRIMIDO;
 
 l) SUPRIMIDO.
-
-> **Nota.** NOTA 2: La Ley 18.359 creó el cargo de Subsecretario de Desarrollo Regional y Administrativo en el Ministerio del Interior. El D.F.L. 1-18359, de 1985, le traspasó y asignó funciones a la Subsecretaría de Desarrollo Regional y Administrativo.
 
 II
 
@@ -188,13 +182,27 @@ o) La formación y estudio técnico del Presupuesto de la Nación y de la Cuenta
 
 p) El nombramiento del Contralor General.
 
+q) Establecer a través de un reglamento los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en ésta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Para la formulación del reglamento señalado en el inciso primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
+
+r) Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
+
 V
 
 #### Artículo 7°
 
-DEROGADO
+Corresponde al Ministerio de Seguridad Pública colaborar con el Presidente o Presidenta de la República en lo relativo al mantenimiento de la seguridad, tranquilidad y orden público.
 
-> **Nota.** NOTA: 3 Ver DL 3346 que fijó el Texto de la Ley Orgánica del Ministerio de Justicia.
+Para lo anterior, y sin perjuicio de lo dispuesto por el artículo 111 del Código Procesal Penal y de las demás facultades otorgadas por leyes especiales al Ministerio, el Ministro o Ministra de Seguridad Pública y la autoridad competente, previa delegación de facultades, podrán deducir querella ante hechos que revistan caracteres de delito y que:
+
+a) Han alterado el orden público, impidiendo o perturbando gravemente la regularidad de las actividades empresariales, laborales, educacionales o sociales o el funcionamiento de los servicios públicos o esenciales para la comunidad, o bien han impedido o limitado severamente a un grupo de personas el legítimo goce o ejercicio de uno o más derechos, libertades o garantías reconocidos por la Constitución Política de la República.
+
+b) Considerados en conjunto con otros similares y próximos en el tiempo, han afectado la seguridad pública, generando en toda la población o en un sector de ella el temor de ser víctimas de delitos de la misma especie. En caso alguno podrán considerarse comprendidos en esta letra las faltas, los cuasidelitos, los delitos de acción privada, ni los incluidos en los Párrafos 2 y 5 del Título III; Párrafos 5, 7 y 8 del Título IV; Párrafos 2 bis, 3, 5 y 7 del Título VI; todos los del Título VII, salvo los de los Párrafos 5 y 6; los de los Párrafos 2, 4, 6 y 7 del Título VIII; los de los Párrafos 7 y 8 del Título IX, y los del Título X, todos del Libro Segundo del Código Penal.
+
+c) Se trate de los delitos contemplados en las leyes N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional; N° 20.000, que sustituye la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, y N° 20.507, que tipifica los delitos de tráfico ilícito de migrantes y trata de personas y establece normas para su prevención y más efectiva persecución criminal.
 
 VI
 

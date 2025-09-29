@@ -14,7 +14,7 @@ Proyecto de ley:
 
 Objeto. La presente ley tiene por objeto establecer requisitos, limitaciones, prohibiciones y sanciones con el propósito de regular la instalación de elementos publicitarios destinados a captar la atención de quienes transitan por un camino público o vía urbana o de quienes concurren a un espacio público, sea que tales elementos se emplacen en bienes públicos o privados, a fin de velar por la seguridad vial y de minimizar el impacto que dichos elementos generan en su entorno.
 
-Para tales efectos, las instalaciones de elementos publicitarios deberán contar con las autorizaciones y permisos que les sean exigibles, cumpliendo con los requisitos y prohibiciones que para cada caso se establecen en esta ley y en las normas reglamentarias que al efecto se dicten.
+Para tales efectos, las instalaciones de elementos publicitarios deberán contar con las autorizaciones, permisos y/o habilitaciones que les sean exigibles, cumpliendo con los requisitos y prohibiciones que para cada caso se establecen en esta ley y en las normas reglamentarias que al efecto se dicten.
 
 #### Artículo 2°
 
@@ -86,11 +86,11 @@ q) Vía urbana declarada camino público: Vía de comunicación terrestre ubicad
 
 #### Artículo 4°
 
-Régimen aplicable. Para la instalación de un elemento publicitario, sea en un bien nacional de uso público, bien fiscal, bien municipal o bien privado, se requiere del permiso de instalación que regulan los artículos 9°, 10, 11, 12, 13 y 14 otorgado por la Dirección de Obras Municipales, previo pago de los derechos municipales correspondientes que procedan por este concepto.
+Régimen aplicable. Para la instalación de un elemento publicitario, sea en un bien nacional de uso público, bien fiscal, bien municipal o bien privado, se requiere del permiso de instalación o la habilitación que regulan los artículos 9°, 10, 11, 12, 13 y 14 otorgado por la Dirección de Obras Municipales, previo pago de los derechos municipales correspondientes que procedan por este concepto.
 
 Los elementos publicitarios que sean visibles desde caminos públicos, rurales o urbanos, o desde vías públicas urbanas deben contar además con los informes técnicos favorables a los que se refiere el artículo 6°.
 
-Lo anterior es sin perjuicio de que, para el otorgamiento de permisos de instalación de elementos publicitarios en el espacio público, también se requiere obtener previamente de la municipalidad respectiva la concesión o el permiso precario para el uso de dichos espacios, en conformidad a lo establecido en el artículo 36 del decreto con fuerza de ley N° 1, del Ministerio del Interior, de 2006, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.695, orgánica constitucional de Municipalidades. La municipalidad está facultada para cobrar derechos por estas concesiones o permisos precarios, distintos de los derechos municipales que deben pagarse por los permisos de instalación de elementos publicitarios, en concordancia con lo establecido en el artículo 41 del decreto supremo N° 2.385, del Ministerio del Interior, de 1996, que fija texto refundido y sistematizado del decreto ley N° 3.063, de 1979, sobre Rentas Municipales.
+Lo anterior es sin perjuicio de que, para el otorgamiento de permisos de instalación de elementos publicitarios en el espacio público y para la habilitación señalada en el artículo 14 bis, también se requiere obtener previamente de la municipalidad respectiva la concesión o el permiso precario para el uso de dichos espacios, en conformidad a lo establecido en el artículo 36 del decreto con fuerza de ley N° 1, del Ministerio del Interior, de 2006, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.695, orgánica constitucional de Municipalidades. La municipalidad está facultada para cobrar derechos por estas concesiones o permisos precarios, distintos de los derechos municipales que deben pagarse por los permisos de instalación de elementos publicitarios, en concordancia con lo establecido en el artículo 41 del decreto supremo N° 2.385, del Ministerio del Interior, de 1996, que fija texto refundido y sistematizado del decreto ley N° 3.063, de 1979, sobre Rentas Municipales.
 
 Con todo, sólo podrá otorgarse permiso de instalación cuando no exista prohibición expresa para el emplazamiento de elementos publicitarios.
 
@@ -100,7 +100,7 @@ Prohibiciones. Se prohíbe la instalación de elementos publicitarios con las co
 
 a) En la faja vial de un camino público.
 
-b) En la faja vial de una vía urbana. Con todo, podrá autorizarse la instalación de elementos publicitarios menores en las aceras de las vías urbanas siempre que el instrumento de planificación territorial no prohíba su instalación y en la medida que se adecúe a la restricción dispuesta en el artículo 97 del decreto con fuerza de ley N° 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, promulgado el año 2007 y publicado el año 2009, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito. Asimismo podrá autorizarse dichos elementos en bandejones y medianas, tratándose de elementos publicitarios instalados en paraderos o refugios peatonales de transporte público.
+b) En la faja vial de una vía urbana. Con todo, podrá habilitarse la instalación de elementos publicitarios menores en las aceras de las vías urbanas siempre que el instrumento de planificación territorial no prohíba su instalación y en la medida que se adecúe a la restricción dispuesta en el artículo 97 del decreto con fuerza de ley N° 1, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, promulgado el año 2007 y publicado el año 2009, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, de Tránsito. Asimismo podrá habilitarse dichos elementos en bandejones y medianas, tratándose de elementos publicitarios instalados en paraderos o refugios peatonales de transporte público.
 
 c) En puntos peligrosos, o a menos de la distancia mínima respecto de los mismos, definida en los reglamentos respectivos. De igual manera, aquellos que no cumplan con el distanciamiento mínimo entre letreros sucesivos establecido por dichos reglamentos. La determinación de los puntos peligrosos y de los distanciamientos mínimos corresponderá a la Dirección de Vialidad del Ministerio de Obras Públicas, en el caso de los caminos públicos, y a la Subsecretaría de Transportes, en el caso de las vías públicas urbanas que no correspondan a caminos públicos.
 
@@ -114,7 +114,7 @@ g) Los ubicados sobre o bajo líneas de transmisión de energía eléctrica y a 
 
 h) Los que por su dimensión y/o ubicación obstaculicen la visibilidad de conductores y peatones en cruces, empalmes, enlaces a nivel, enlaces a desnivel u otros definidos en los respectivos reglamentos.
 
-i) En los antejardines, esto es, en el área entre la línea oficial y la línea de edificación, regulada en el instrumento de planificación territorial. Con todo, podrá autorizarse la instalación de elementos publicitarios menores en estos espacios, siempre que el instrumento de planificación territorial no prohíba su instalación.
+i) En los antejardines, esto es, en el área entre la línea oficial y la línea de edificación, regulada en el instrumento de planificación territorial. Con todo, podrá habilitarse la instalación de elementos publicitarios menores en estos espacios, siempre que el instrumento de planificación territorial no prohíba su instalación.
 
 j) En áreas de protección de recursos de valor natural, tales como parques nacionales, reservas nacionales y monumentos naturales.
 
@@ -124,7 +124,7 @@ PERMISOS DE INSTALACIÓN DE ELEMENTOS PUBLICITARIOS
 
 #### Artículo 6°
 
-De los informes técnicos favorables relacionados con la seguridad vial. Previo al ingreso ante la Dirección de Obras Municipales de la solicitud de permiso a que se refiere el artículo 9°, el interesado deberá obtener el informe técnico favorable de la Dirección Regional de Vialidad del Ministerio de Obras Públicas para los elementos publicitarios que pueden ser vistos desde caminos públicos, rurales o urbanos. Asimismo, tratándose de elementos publicitarios mayores que pueden ser vistos desde vías públicas urbanas que no hubieren sido declaradas como caminos públicos, deberá obtener el informe técnico favorable de la Dirección de Tránsito municipal, y en el caso de que ésta no existiera de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones que corresponda. Lo anterior, con el objeto de verificar que tales elementos no constituyen un peligro para la seguridad vial. En ambos casos, el correspondiente informe técnico favorable constituye un requisito indispensable para el otorgamiento del referido permiso de instalación.
+De los informes técnicos favorables relacionados con la seguridad vial. Previo al ingreso ante la Dirección de Obras Municipales de la solicitud de permiso a que se refiere el artículo 9° o de la presentación de la declaración jurada de acuerdo con el artículo 14 bis, según corresponda, el interesado deberá obtener el informe técnico favorable de la Dirección Regional de Vialidad del Ministerio de Obras Públicas para los elementos publicitarios que pueden ser vistos desde caminos públicos, rurales o urbanos. Asimismo, tratándose de elementos publicitarios mayores que pueden ser vistos desde vías públicas urbanas que no hubieren sido declaradas como caminos públicos, deberá obtener el informe técnico favorable de la Dirección de Tránsito municipal, y en el caso de que ésta no existiera de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones que corresponda. Lo anterior, con el objeto de verificar que tales elementos no constituyen un peligro para la seguridad vial. En ambos casos, el correspondiente informe técnico favorable constituye un requisito indispensable para el otorgamiento del referido permiso de instalación.
 
 Para este efecto, las autoridades mencionadas en el inciso anterior, según corresponda, deberán verificar, dentro de cuarenta y cinco días contados desde el ingreso de la solicitud de informe técnico favorable, que los elementos publicitarios propuestos cumplen con las exigencias y obligaciones relacionadas con la seguridad vial y no infringen las prohibiciones establecidas en esta ley y en las normas reglamentarias que al efecto se dicten.
 
@@ -148,9 +148,11 @@ La Dirección Regional de Vialidad podrá, por resolución fundada y previo info
 
 #### Artículo 9°
 
-Solicitud de permiso de instalación ante la Dirección de Obras Municipales. Emitido el informe técnico favorable por parte de la Dirección Regional de Vialidad, de la Dirección de Tránsito o de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, según corresponda, podrá solicitarse el permiso de instalación de elemento publicitario.
+Solicitud de permiso de instalación ante la Dirección de Obras Municipales. Emitido el informe técnico favorable por parte de la Dirección Regional de Vialidad, de la Dirección de Tránsito o de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, según corresponda, podrá solicitarse el permiso de instalación de elemento publicitario mayor.
 
 Los interesados deberán solicitar el permiso correspondiente a la Dirección de Obras Municipales respectiva, en la forma y acorde a los requisitos establecidos en la presente ley y en las normas contenidas en la Ordenanza General de Urbanismo y Construcciones.
+
+No quedarán sujetos al régimen de autorización de la Dirección de Obras Municipales establecido en el inciso primero los elementos publicitarios menores ni aquellos elementos publicitarios mayores que se determinen en la Ordenanza General de Urbanismo y Construcciones, de conformidad con el artículo 4° bis del decreto ley N° 1.305, de 1975, del Ministerio de Vivienda y Urbanismo, que reestructura y regionaliza el Ministerio de la Vivienda y Urbanismo, en consideración al tipo de estructura de que se trate, su ubicación, tamaño, altura y los efectos susceptibles de generar en el entorno, siempre que cumplan con el procedimiento establecido en el artículo 14 bis.
 
 #### Artículo 10
 
@@ -176,7 +178,7 @@ a) Los elementos publicitarios no podrán superar la altura máxima de edificaci
 
 b) Los elementos publicitarios que cuenten con un sistema de iluminación o autorreflexión o que contengan pantallas con tecnologías electrónicas o similares, no podrán emplazarse en las zonas residenciales exclusivas determinadas por el instrumento de planificación territorial ni en las vías públicas insertas en estas zonas o subzonas o adyacentes a las mismas. Tampoco podrán emplazarse en aquellas zonas, subzonas o vías públicas que restrinja para tal efecto la ordenanza local de propaganda y publicidad. En aquellas zonas en las que sí estén permitidos este tipo de elementos publicitarios, deberán cumplir con la intensidad luminosa máxima, diurna y nocturna, que al efecto se determine mediante reglamento.
 
-c) Los elementos publicitarios provisorios que se instalen con el propósito de cubrir fachadas de las edificaciones para la ejecución de obras exteriores de remodelación, mantención o pintura de dichas fachadas, sólo podrán autorizarse por un período que no exceda al de ejecución de dichas obras, el cual no podrá ser superior a tres meses. Dicha autorización sólo podrá ser renovada una vez y por el mismo plazo señalado. Ejecutadas las obras o vencido el plazo correspondiente y atendido el carácter provisorio de este elemento publicitario, éste deberá ser completamente retirado. Sólo podrá otorgarse un nuevo permiso de este tipo, en el mismo inmueble, cuando hayan transcurrido tres años desde el vencimiento del permiso anterior.
+c) Los elementos publicitarios provisorios que se instalen con el propósito de cubrir fachadas de las edificaciones para la ejecución de obras exteriores de remodelación, mantención o pintura de dichas fachadas, sólo podrán autorizarse o habilitarse por un período que no exceda al de ejecución de dichas obras, el cual no podrá ser superior a tres meses. La autorización o habilitación sólo podrá ser renovada una vez y por el mismo plazo señalado. Ejecutadas las obras o vencido el plazo correspondiente y atendido el carácter provisorio de este elemento publicitario, éste deberá ser completamente retirado. Sólo podrá otorgarse un nuevo permiso o habilitación de este tipo, en el mismo inmueble, cuando hayan transcurrido tres años desde el vencimiento del permiso anterior.
 
 La limitación de plazo establecida en el párrafo precedente no regirá respecto de las obras de restauración o conservación de monumentos nacionales, de inmuebles de conservación histórica o, en general, de inmuebles que formen parte de un área de protección de recursos de valor patrimonial cultural, en cuyo caso los referidos elementos publicitarios podrán permanecer por todo el período de ejecución de las obras, aunque éste sea superior a tres meses, previa autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda.
 
@@ -204,13 +206,31 @@ Validez de la garantía presentada con ocasión del otorgamiento de una concesi�
 
 Otorgamiento del permiso. La Dirección de Obras Municipales otorgará el permiso si la solicitud cumple con las disposiciones establecidas en la presente ley, en la Ordenanza General de Urbanismo y Construcciones y en el respectivo instrumento de planificación territorial y en la ordenanza local de propaganda y publicidad, previa entrega de la correspondiente garantía y previo pago de los derechos municipales correspondientes a las obras provisorias, conforme al número 3 de la tabla contenida en el inciso primero del artículo 130 del decreto con fuerza de ley N° 458, del Ministerio de Vivienda y Urbanismo, promulgado el año 1975 y publicado el año 1976, que aprobó la nueva Ley General de Urbanismo y Construcciones.
 
+#### Artículo 14 bis
+
+Para los casos señalados en el inciso final del artículo 9, el solicitante deberá presentar a la Dirección de Obras Municipales una declaración jurada que dé cuenta que el elemento publicitario cumple con la normativa vigente y todas las normas que le sean aplicables.
+
+La Ordenanza General de Urbanismo y Construcciones determinará el contenido de la declaración jurada y los antecedentes que deberán acompañarse junto con ésta.
+
+La declaración jurada surtirá efecto desde el día siguiente a su presentación, sin necesidad de aprobación por parte de la Dirección de Obras Municipales, la que considerará los antecedentes presentados para las acciones de inspección, fiscalización, vigilancia o control posterior.
+
+Respecto de elementos publicitarios mayores, el solicitante deberá acompañar, junto con la declaración jurada, la respectiva garantía para caucionar el retiro del elemento publicitario a que refiere el artículo 12.
+
+De oficio o a petición de parte, la Dirección de Obras Municipales podrá proceder con los trámites para obtener el retiro del elemento, de conformidad con los artículos 19 y siguientes, cuando advierta el incumplimiento de las normas aplicables a la presentación de una declaración jurada.
+
+Los elementos publicitarios a que se refiere este artículo deberán ejecutarse con estricta sujeción a la declaración jurada y demás antecedentes presentados a la Dirección de Obras Municipales.
+
+La habilitación a que da lugar la declaración jurada tendrá la vigencia que se establezca en la Ordenanza General de Urbanismo y Construcciones.
+
+Si después de presentada la declaración y demás antecedentes, existe necesidad de introducir modificaciones o variaciones al elemento instalado, deberá observarse el procedimiento contemplado en el presente artículo o en el inciso primero del artículo 9°, según el tipo de modificación de que se trate.
+
 #### Artículo 15
 
-Reclamación ante la Secretaría Regional Ministerial de Vivienda y Urbanismo. Si el permiso es denegado, expresamente o conforme a lo dispuesto en el inciso tercero del artículo 118 de la Ley General de Urbanismo y Construcciones, el peticionario podrá reclamar ante la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente en los términos establecidos en los artículos 118 bis, 118 ter y 118 quáter de la misma ley.
+Reclamación ante la Secretaría Regional Ministerial de Vivienda y Urbanismo. La Dirección de Obras Municipales deberá pronunciarse por escrito sobre la solicitud de permiso, dentro del plazo de treinta días contado desde su presentación. Si el permiso es denegado, expresamente o conforme a lo dispuesto en el inciso tercero del artículo 118 de la Ley General de Urbanismo y Construcciones, el peticionario podrá reclamar ante la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente en los términos establecidos en los artículos 118 bis, 118 ter y 118 quáter de la misma ley.
 
 #### Artículo 16
 
-Remisión de copia de los permisos. Para el adecuado seguimiento y fiscalización del elemento publicitario, la Dirección de Obras Municipales deberá remitir mensualmente copia de los permisos otorgados, tanto a los Servicios que dieron su informe técnico favorable como al Registro Nacional de Avisadores Viales y Camineros.
+Remisión de copia de los permisos y declaraciones juradas. Para el adecuado seguimiento y fiscalización del elemento publicitario, la Dirección de Obras Municipales deberá remitir mensualmente copia de los permisos otorgados, y de las declaraciones juradas que se hubieren presentado, tanto a los Servicios que dieron su informe técnico favorable como al Registro Nacional de Avisadores Viales y Camineros.
 
 #### Artículo 17
 
@@ -232,7 +252,7 @@ Revocación de los permisos. A solicitud de parte interesada y por motivos funda
 
 #### Artículo 20
 
-Obligación de retiro de los elementos publicitarios y facultad para disponer del auxilio de la fuerza pública. Vencido el plazo de vigencia del permiso de instalación o decretada su revocación por la Dirección de Obras Municipales, deberá procederse al retiro del elemento publicitario, dentro del plazo máximo de treinta días contado desde el vencimiento del plazo de vigencia o desde la revocación del permiso. Los costos relacionados con dicho retiro serán de cargo del avisador.
+Obligación de retiro de los elementos publicitarios y facultad para disponer del auxilio de la fuerza pública. Vencido el plazo de vigencia del permiso o declaración jurada de instalación o decretada su revocación por la Dirección de Obras Municipales, deberá procederse al retiro del elemento publicitario, dentro del plazo máximo de treinta días contado desde el vencimiento del plazo de vigencia o desde la revocación del permiso. Los costos relacionados con dicho retiro serán de cargo del avisador.
 
 Para el caso de que el avisador no efectúe el retiro en el plazo otorgado, el Director de Obras Municipales, en uso de sus facultades legales, deberá efectuar la correspondiente denuncia ante el juzgado de policía local competente, para que éste, de acuerdo con el procedimiento establecido en la ley N° 18.287, ordene el retiro de los elementos publicitarios por la municipalidad respectiva, con cargo a la garantía constituida.
 
@@ -318,7 +338,7 @@ Infracciones. Las conductas que constituyan contravenciones de esta ley y/o de s
 
 a) Instalar o mantener un elemento publicitario sin contar con inscripción vigente en el Registro Nacional de Avisadores Viales y Camineros, con excepción de lo dispuesto en el artículo 33 respecto de los elementos publicitarios que singularizan la actividad que se desarrolla en un inmueble.
 
-b) Instalar o mantener un elemento publicitario mayor sin contar con el correspondiente permiso de instalación otorgado por la Dirección de Obras Municipales respectiva.
+b) Instalar o mantener un elemento publicitario mayor sin contar con el correspondiente permiso de instalación otorgado por la Dirección de Obras Municipales respectiva o con la habilitación que señala el artículo 14 bis, según corresponda.
 
 c) Instalar o mantener un elemento publicitario en un área de protección de recursos de valor natural, tales como parques nacionales, reservas nacionales y monumentos naturales.
 
@@ -450,7 +470,7 @@ Normas reglamentarias. Para la aplicación de esta ley se dictarán las siguient
 
 2. Un reglamento expedido a través del Ministerio de Transportes y Telecomunicaciones, firmado también por el Ministro de Obras Públicas, que regulará los aspectos concernientes a las normas de seguridad vial que deberán cumplir los elementos publicitarios que puedan ser vistos desde vías públicas urbanas que no correspondan a caminos públicos, especialmente en lo que respecta a la determinación de puntos peligrosos y distanciamientos mínimos, sea respecto de dichos puntos o entre elementos publicitarios sucesivos. Asimismo, regulará el procedimiento para obtener la autorización señalada en el artículo 6° y la fiscalización de los mencionados elementos publicitarios en lo que respecta a la seguridad vial.
 
-3. Una modificación al decreto supremo N° 47, del Ministerio de Vivienda y Urbanismo, de 1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, que regulará el procedimiento para el otorgamiento de permisos de instalación de elementos publicitarios por parte de las Direcciones de Obras Municipales. Asimismo, esta modificación podrá establecer requisitos específicos relacionados con el control del impacto que los elementos publicitarios provoquen en el entorno urbano.
+3. Una modificación al decreto supremo N° 47, del Ministerio de Vivienda y Urbanismo, de 1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, que regulará el procedimiento para el otorgamiento de permisos de instalación de elementos publicitarios por parte de las Direcciones de Obras Municipales y el procedimiento de declaración jurada establecido en el artículo 14 bis. Asimismo, esta modificación podrá establecer requisitos específicos relacionados con el control del impacto que los elementos publicitarios provoquen en el entorno urbano.
 
 #### Artículo 39
 

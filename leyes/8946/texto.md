@@ -470,7 +470,9 @@ En el ejercicio de la facultad de fiscalización que compete a los Servicios de 
 
 Conjuntamente con las solicitudes de rotura se deberá presentar un programa de ejecución de la obra donde se indiquen los plazos y demás antecedentes de la reposición de los pavimentos rotos.
 
-La aprobación de los proyectos de pavimentación se condicionará a la previa entrega de una garantía, que caucione su correcta ejecución y conservación. Los Servicios de Vivienda y Urbanización deberán inspeccionar, certificar y recepcionar las obras de pavimentación conforme al proyecto aprobado y las normas aplicables.
+La aprobación de los proyectos de pavimentación se condicionará a la previa entrega de una garantía que caucione su correcta ejecución y conservación. Con todo, no requerirán aprobación previa los proyectos que se determinen en la Ordenanza General de Urbanismo y Construcciones; de conformidad con el artículo 4° bis del decreto ley N° 1.305, de 1976, del Ministerio de Vivienda y Urbanismo, que reestructura y regionaliza el Ministerio de la Vivienda y Urbanismo; en consideración a sus características, envergadura e impacto, siempre que cumplan con el procedimiento establecido en el artículo 77 ter de la presente ley.
+
+Los Servicios de Vivienda y Urbanización deberán inspeccionar, certificar y recepcionar las obras de pavimentación conforme al proyecto aprobado o la declaración jurada presentada, y las normas aplicables.
 
 #### Artículo 77 bis
 
@@ -479,6 +481,14 @@ No será exigible la aprobación del proyecto ni la inspección, certificación 
 Tales intervenciones deberán ser calificadas previamente como reparaciones de emergencia por la respectiva Dirección de Obras Municipales y no podrán superar los veinte metros cuadrados por cada bache o irregularidad de la acera, calzada o ciclovía. Su ejecución deberá efectuarse de acuerdo a las especificaciones técnicas establecidas para la reparación de pavimentos en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación, aprobado por el Ministerio de Vivienda y Urbanismo.
 
 Una vez ejecutadas dichas reparaciones de emergencia, deberán ser recibidas por la Dirección de Obras Municipales e informadas a la Secretaría Regional Ministerial de Vivienda y Urbanismo, al Servicio de Vivienda y Urbanización y al Gobierno Regional correspondientes.
+
+#### Artículo 77 ter
+
+Para los casos señalados en el inciso cuarto del artículo 77, el solicitante deberá presentar a la autoridad respectiva una declaración jurada dando cuenta que el proyecto cumple con la normativa vigente.
+
+Los proyectos a que se refiere este artículo deberán ejecutarse con estricta sujeción a la declaración jurada y demás antecedentes presentados.
+
+La habilitación a que da lugar la declaración jurada tendrá la vigencia que para cada caso se establezca en la Ordenanza General de Urbanismo y Construcciones.
 
 #### Artículo 78
 

@@ -98,9 +98,17 @@ rr) Realizar anualmente la estadística de los diferentes medios de transportes 
 
 s) Delegar en los Jefes de Depar tamentos las facultades que se indican en las letras i), n), p) y rr) de este artículo 3°, 9°, 10° y 14°, 5°, 7° y 21° del decreto con fuerza de ley 343, de 25 de julio de 1953;
 
-t) Fiscalizar el cumplimiento de los convenios internacionales que celebre el Gobierno de Chile en materia de transportes, y
+t) Fiscalizar el cumplimiento de los convenios internacionales que celebre el Gobierno de Chile en materia de transportes;
 
-u) Todas las funciones y atribuciones que el decreto con fuerza de ley 343, de 25 de julio de 1953, y demás leyes sobre transportes han encomendado a la Subsecretaría de Transportes del Ministerio de Economía, en lo que no fueren contrarias a las disposiciones del presente decreto con fuerza de ley.
+u) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, conforme a los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión;
+
+v) Contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, de conformidad con lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable, y
+
+w) Todas las funciones y atribuciones que el decreto con fuerza de ley 343, de 25 de julio de 1953, y demás leyes sobre transportes han encomendado a la Subsecretaría de Transportes del Ministerio de Economía, en lo que no fueren contrarias a las disposiciones del presente decreto con fuerza de ley.
 
 #### Artículo 5°
 

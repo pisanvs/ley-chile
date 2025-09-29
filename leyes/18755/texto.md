@@ -62,6 +62,12 @@ p) Celebrar toda clase de actos jurídicos en las materias de su competencia, pu
 
 q) Restringir, en conformidad a las leyes que regulan la materia, mediante Resolución fundada del Director Nacional, el uso o aplicación de agroquímicos en determinadas áreas de zonas agroecológicas del país, cuando ello perjudique la salud animal o vegetal, o la conservación de los recursos naturales renovables.
 
+r) Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión.
+
 #### Artículo 4°
 
 En el ejercicio de las facultades de orden sanitario indicadas en el artículo anterior, el Director Nacional podrá proponer al Ministerio de Agricultura los puertos habilitados oficialmente para el ingreso al país de mercaderías silvoagropecuarias y, para los productos que ingresen en tránsito, fijar rutas, medidas especiales para el embalaje y transporte;
@@ -114,6 +120,8 @@ l) Designar al personal de planta y contratar al que sea necesario, con cargo a 
 
 m) Contratar, sobre la base de honorarios u otra forma de pago, con cargo a los recursos que para este fin se consulten en el presupuesto, a personas naturales, empresas e instituciones nacionales o extranjeras, públicas o privadas, para la prestación de servicios, ejecución de estudios, investigaciones o trabajos relacionados con las actividades del Servicio.
 
+En el ejercicio de esta atribución podrá contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable, conforme a lo establecido en el Título IV Párrafo 1° de la Ley Marco de Autorizaciones Sectoriales y la demás normativa aplicable.
+
 n) Celebrar toda clase de convenciones con personas naturales o jurídicas, de derecho público o privado, nacionales, extranjeras o internacionales, a fin de desarrollar programas de trabajo comprendidos dentro de los objetivos del Servicio, pudiendo efectuar los aportes correspondientes.
 
 ñ) Proponer las tarifas y derechos que deban cobrarse por las prestaciones y controles que efectúe el Servicio, los que se fijarán por decreto supremo del Ministerio de Agricultura, el que llevará, además, la firma del Ministro de Hacienda. Dichas tarifas y derechos deberán ser competitivos o equivalentes con los valores de mercado.
@@ -129,6 +137,10 @@ q) Fijar domicilios especiales del Servicio, y
 r) Dictar las resoluciones generales o particulares que fueren necesarias para el ejercicio de las atribuciones que se le confieren por el presente artículo o para el cumplimiento de los objetivos del Servicio, y podrá disponer su publicación en extracto en el Diario Oficial.
 
 s) Autorizar, de acuerdo con el reglamento, la contratación de pólizas que cubran la siniestralidad para funcionarios o empleados que cumplan labores de alto riesgo, en el terreno o en laboratorios del Servicio.
+
+t) Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de su competencia, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
+
+Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos a través de un reglamento expedido por el Ministerio de Agricultura, de acuerdo con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
 
 #### Artículo 8°
 

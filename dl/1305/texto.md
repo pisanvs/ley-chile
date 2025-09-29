@@ -36,6 +36,12 @@ Corresponderá al Ministerio formular y supervigilar las políticas nacionales e
 
 Le corresponderá, además, la coordinación y la supervigilancia de las instituciones que se relacionen con el Gobierno por su intermedio.
 
+#### Artículo 4 bis
+
+Sin perjuicio de lo anterior, corresponderá al Ministerio de Vivienda y Urbanismo especificar en la Ordenanza General de Urbanismo y Construcciones y en los demás reglamentos que correspondan, los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones establecidas en ésta y en otras leyes en materia urbanística, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y en las normas establecidas en los artículos 9 y siguientes de dicha ley.
+
+Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
+
 #### Artículo 5°
 
 Corresponderá a los Servicios Regionales y Metropolitano de Vivienda y Urbanización la ejecución de los planes que haya aprobado el Ministerio de Vivienda y Urbanismo.
@@ -189,6 +195,12 @@ n) Informar técnicamente los planes, proyectos y programas correspondientes al 
 o) Autorizar modificaciones de áreas de riesgo, previo estudio fundado suscrito por un profesional especialista, y previo informe favorable del Ministerio de Obras Públicas, o sus órganos dependientes, en caso que tales áreas hubieren sido establecidas por estudios de dichas entidades. En caso de obras a que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, dicho informe deberá ser evacuado por la citada autoridad en un plazo máximo de 15 días hábiles, contado desde la recepción del requerimiento respectivo. Transcurrido dicho plazo sin que hubiere pronunciamiento, se entenderá que no existen observaciones que formular.
 
 p) Resguardar que los instrumentos de planificación territorial contemplen criterios de integración e inclusión social y urbana, conforme a lo dispuesto en el numeral 17 del artículo 2 de la ley N° 16.391. La Ordenanza General de Urbanismo y Construcciones determinará el procedimiento y la forma en que se ejercerá esta facultad.
+
+q) Revisar la regulación aplicable a obras de edificación, urbanización o de otra naturaleza, en materia de urbanismo y construcciones, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
+
+En el ejercicio de esta función deberá revisar que las autorizaciones en materia de urbanismo y construcciones cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales", y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas. Para los efectos indicados, deberá oír a las Secretarías Regionales Ministeriales, a los Servicios Regionales y Metropolitano de Vivienda y Urbanización y a aquellas asociaciones que representen a los órganos con competencias para otorgar dichas autorizaciones o permisos sectoriales, según corresponda.
+
+El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión, por intermedio del Ministro de Vivienda y Urbanismo, cuando corresponda.
 
 Las facultades establecidas en las letras h), i), j), k), l), m), ñ), o) y p) deberán entenderse en concordancia con lo que dispone el artículo 24.
 
@@ -437,6 +449,14 @@ Los Servicios Regionales y Metropolitano de Vivienda y Urbanización estarán en
 Para la consecución de los fines antes señalados, los Servicios Regionales y Metropolitano de Vivienda y Urbanización encomendarán la ejecución de las obras que proyecten, tanto de urbanización como de edificación y habilitación de áreas o de equipamiento, de conformidad a la legislación habitacional vigente.
 
 Mediante el sistema de financiamiento urbano compartido, los Servicios de Vivienda y Urbanización podrán adquirir bienes o contratar con terceros la ejecución, operación y mantención de obras de equipamiento comunitario, remodelaciones, áreas verdes, parques industriales, vías urbanas, infraestructura urbana y, en general, de aquellas obras cuya ejecución y mantención les competa, ciñéndose a las políticas, planes y programas del Ministerio de Vivienda y Urbanismo y de acuerdo con la ley respectiva.
+
+#### Artículo 28 bis
+
+Corresponderá a los Servicios Regionales y Metropolitano de Vivienda y Urbanización colaborar con la División de Desarrollo Urbano en el ejercicio de la atribución establecida en el artículo 12 letra q).
+
+#### Artículo 28 ter
+
+Los Servicios Regionales y Metropolitano de Vivienda y Urbanización podrán contratar a profesionales y entidades técnicamente idóneas con el objeto de encomendarles temporalmente acciones puntuales de apoyo para la tramitación de autorizaciones sectoriales, orientadas a la revisión, inspección, medición, verificación, análisis o certificación del cumplimiento de las condiciones y requisitos técnicos establecidos en la normativa aplicable.
 
 #### Artículo 29°
 

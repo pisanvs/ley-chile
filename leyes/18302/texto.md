@@ -146,6 +146,20 @@ Las autorizaciones que se otorguen para instalar y operar instalaciones, plantas
 
 Las autorizaciones concedidas a alguna persona para la guarda, depósito o almacenamiento de sustancias nucleares o materiales radiactivos en un local o recinto, o para el transporte de ellos en un vehículo, nave o aeronave, determinarán también, conforme a la respectiva solicitud, el explotador responsable.
 
+#### Artículo 16 bis
+
+La Comisión deberá resolver las solicitudes para autorizar el emplazamiento, construcción y operación de instalaciones nucleares o equipos radioactivos en el plazo máximo de doscientos cuarenta días hábiles. Atendida la complejidad, envergadura o el uso de nuevas tecnologías que involucre la solicitud, la Comisión podrá disponer la suspensión del plazo a que se refiere este inciso, mediante resolución fundada. El plazo de suspensión deberá quedar establecido en el mismo acto administrativo y guardar debida coherencia con los hechos que lo fundan y los principios de celeridad, eficiencia y eficacia.
+
+Si se trata de las demás solicitudes a las que se refiere el artículo 4°, la Comisión deberá resolverlas en el plazo máximo de ciento veinte días hábiles. La Comisión podrá disponer la suspensión del plazo a que se refiere este inciso, mediante resolución fundada y hasta por cuarenta días hábiles.
+
+En lo que respecta a las autorizaciones singularizadas en el artículo 5°, la Comisión deberá resolver dichas solicitudes en el plazo máximo de sesenta días hábiles. La Comisión podrá disponer la suspensión del plazo máximo a que se refiere este artículo, mediante resolución fundada y hasta por quince días hábiles.
+
+Las suspensiones de plazo a que se refiere este artículo podrán ser ejercidas por una única vez durante el transcurso del procedimiento, sin perjuicio de otras causales de suspensión que procedan conforme a la ley.
+
+#### Artículo 16 ter
+
+Vencido el plazo legal para resolver acerca de una solicitud de autorización sin que la Comisión se pronuncie sobre ella, el interesado estará legitimado para hacer valer el silencio administrativo negativo.
+
 ### Párrafo III — De la Obligación de Informar
 
 #### Artículo 17
