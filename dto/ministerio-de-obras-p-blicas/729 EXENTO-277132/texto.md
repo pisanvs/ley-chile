@@ -308,6 +308,10 @@ VILUCO
 
 . El tramo urbano de la Ruta G-46, desde el límite urbano oriente hasta el límite urbano poniente, a través Camino Paine-Lonquén-Carampangue (T59S).
 
+COLINA:
+
+* Los tramos urbanos del sistema vial que interconecta la Ruta 5 con la Ruta 57, a través de: Avenida Interprovincial (E23N).
+
 5º Las vías declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, Plan Regulador Metropolitano de Santiago y Planes Reguladores Comunales o Seccionales, según corresponda.
 
 > **Nota.** El Nº 1 del Decreto 293 Exento, Obras Públicas, publicado el 27.05.2010, complementa la presente norma en el sentido de declarar Caminos Públicos en la Región Metropolitana de Santiago todos los tramos urbanos de las siguientes rutas:- Ruta 76, Camino Santiago-Malloco, Provincias de Santiago y Talagante;- Ruta G-78, Camino Malloco-Cuncumén, Provincias de Talagante y Melipilla.
