@@ -94,7 +94,7 @@ e) Hito Relevante N° 5: Fin del período de Puesta en Servicio.
 
 Corresponde a la finalización del período de puesta en servicio de la obra respectiva, de acuerdo a lo señalado en el inciso séptimo del artículo 72°-17 de la Ley. Se comprobará el cumplimiento del hito, para esta etapa del Proyecto, mediante la verificación del cumplimiento de todas las actividades previstas realizar en el cronograma de puesta en servicio que el Adjudicatario acuerde con el Coordinador conforme a la disposición antes citada. Dicha comprobación será realizada por parte del personal de la auditoría técnica, a que hace referencia el numeral 11.2.1 de las Bases.
 
-Este hito deberá cumplirse dentro de los 24 meses siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
+Este hito deberá cumplirse dentro de los 24 meses siguientes y 144 días corridos siguientes, contados desde la publicación del presente decreto en el Diario Oficial. Esto es, deberá cumplirse el 23 de abril de 2021.
 
 El cumplimiento de lo dispuesto en el párrafo anterior, se comprobará mediante la inspección en terreno por parte del personal de la auditoría e inspección técnica a que hace referencia el numeral 11.2.1. de las Bases. Para tales efectos, el personal de la auditoría e inspección técnica deberá verificar lo siguiente:
 
@@ -248,7 +248,7 @@ cada circuito : 0,04 ohm/km
 
 Los equipos, en cantidad y tipo, serán especificados de acuerdo al nivel de aislamiento, nivel de cortocircuito, grado de contaminación, tipo de servicio y su instalación. Las características se establecerán en el nivel de ingeniería básica según sean las exigencias del sistema en estos nudos.
 
-5º Fíjase la fecha de entrada en operación del Proyecto. De acuerdo a lo establecido en el decreto exento Nº 422 y en las Bases de Licitación, la etapa del Proyecto asociada a la construcción de la subestación seccionadora Nueva Chuquicamata junto con sus seccionamientos y todos sus elementos, deberá estar construida y entrar en operación, a más tardar, dentro de los 24 meses siguientes a la fecha de publicación del presente decreto en el Diario Oficial.
+5º Fíjase la fecha de entrada en operación del Proyecto. De acuerdo a lo establecido en el decreto exento Nº 422 y en las Bases de Licitación, la etapa del Proyecto asociada a la construcción de la subestación seccionadora Nueva Chuquicamata, junto con sus seccionamientos y todos sus elementos, deberá estar construida y entrar en operación, a más tardar, dentro de los 24 meses y 144 días corridos siguientes a la fecha de publicación del presente decreto en el Diario Oficial. Esto es, deberá cumplirse al 23 de abril de 2021.
 
 Por su parte, la etapa del Proyecto asociada a la construcción de la nueva línea 2x220 kV Nueva Chuquicamata - Calama, tendido del primer circuito, deberá estar construida y entrar en operación, a más tardar, dentro de los 48 meses siguientes a la fecha de publicación del presente decreto en el Diario Oficial.
 
