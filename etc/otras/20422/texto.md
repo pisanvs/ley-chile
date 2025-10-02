@@ -106,6 +106,14 @@ Las instituciones públicas y privadas establecerán las condiciones para que la
 
 El Estado promoverá, dentro del ámbito de sus competencias, de acuerdo con sus atribuciones, medios y presupuestos, la formación y capacitación continua de guías intérpretes, conforme a los estándares que determine el reglamento dictado para tal efecto por el Ministerio de Desarrollo Social y Familia.
 
+#### Artículo 8 quater
+
+Las personas que cuenten con credencial o certificado de discapacidad vigente emitido por el Servicio de Registro Civil e Identificación, y sus cuidadores o cuidadoras que cuenten con el certificado del Registro Nacional de Discapacidad, conforme a lo dispuesto en la letra b) del artículo 56, o que puedan acreditar dicha calidad mediante otro mecanismo reconocido por la ley, tendrán derecho a ser atendidas preferente y oportunamente en todas las instituciones públicas y privadas que brinden atención al público. Para el caso de atenciones en salud, regirá lo dispuesto en el Párrafo 3º del Título II de la ley Nº 20.584, que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud.
+
+En caso de que un proveedor, de acuerdo con la definición proporcionada por la ley Nº 19.496, que establece normas sobre protección de los derechos de los consumidores, cometa una infracción a lo dispuesto en el inciso anterior, se considerará una vulneración del derecho a la no discriminación arbitraria, según lo establecido en la letra c) del artículo 3 de dicha ley, sin perjuicio de los otros derechos que asisten a las personas con discapacidad y sus cuidadores en calidad de consumidores.
+
+Para los fines de ejercer el derecho previsto en este artículo, se entenderá por atención preferente y oportuna, la adopción y aplicación de acciones y medidas que aseguren el derecho de las personas a recibir un trato digno y respetuoso en todo momento y en cualquier circunstancia, disminuyendo sus tiempos de espera.
+
 ### Párrafo 2°
 
 De las personas con discapacidad en situación de especial vulnerabilidad
