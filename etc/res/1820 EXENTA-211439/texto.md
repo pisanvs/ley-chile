@@ -1056,6 +1056,10 @@ Sin embargo, en dichas regiones o comunas las solicitudes de inscripción para p
 
 Para estos efectos, las postulaciones con la documentación de respaldo en original deberán ser resguardadas por la Municipalidad y con posterioridad a este llamado ingresada a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, apenas sea posible, según coordinación regional. La Municipalidad deberá ingresar a la oficina de partes o a la oficina de partes electrónica o mediante correo electrónico de la Secretaría Regional Ministerial de Vivienda y Urbanismo, a más tardar en la fecha de cierre de recepción de postulaciones, el oficio conductor del Alcalde al Secretario Regional Ministerial de Vivienda y Urbanismo con su postulación, para los efectos de contabilizar la fecha de ingreso para efectos de su validación y determinación del puntaje por este factor.
 
+#### Artículo 39°
+
+Transitorio: Durante el año 2025 y para participar en el 35° Proceso de Selección de Proyectos, las fechas de recepción de postulaciones de Comités de Pavimentación a través y con el respaldo Municipal en los Servicios de Vivienda y Urbanización y en las Secretarías Regionales Ministeriales del país, serán instruidas e informadas por la Subsecretaria de Vivienda y Urbanismo.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
