@@ -172,7 +172,13 @@ Zonificación
 
 El Área Urbana normada por el presente Plan está conformada por las siguientes zonas y áreas, graficadas en los planos PRCGRA-06106 Localidad de Graneros y PRCLC-GRA-06106 Localidad de La Compañía, los que se describen y detallan a continuación:
 
-.
+ZH2-A Zona Habitacional
+
+de Densidad X
+
+Media A
+
+ZH2-A: Zona Habitacional de Densidad Media A (Localidad de Graneros)
 
 #### Artículo 8
 
