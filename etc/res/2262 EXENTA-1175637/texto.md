@@ -36,7 +36,7 @@ Resuelvo:
 
 2.1. Declaraciones adicionales.
 
-2.1.1 El envío fue inspeccionado y se encuentra libre de Diaspis boisduvalii, Dysmicoccus brevipes, Dysmicoccus neobrevipes, Ferrisia virgata, y Succinea spp (excepto S. chiloensis, S. cryptica, S. cumingi, S. donneti, S. fernandi, S. fragilis, S. labiosa, S. magellanica, S. mamillana, S. masafuerae, S. meridionalis, S. pinguis, S. rubicunda, S. semiglobosa y S. texta).
+2.1.1 El envío fue inspeccionado y se encuentra libre de, Dysmicoccus brevipes, Dysmicoccus neobrevipes, Ferrisia virgata, y Succinea spp (excepto S. chiloensis, S. cryptica, S. cumingi, S. donneti, S. fernandi, S. fragilis, S. labiosa, S. magellanica, S. mamillana, S. masafuerae, S. meridionalis, S. pinguis, S. rubicunda, S. semiglobosa y S. texta).
 
 2.1.2 El envío fue inspeccionado y se encuentra libre de Thaumatotibia leucotreta (Lepidoptero: Tortricidae).
 
@@ -70,9 +70,11 @@ Alternativamente, la información referida al lugar de producción y de empacado
 
 5. Para nuevos mercados que quieran ingresar al Programa de exportaciones de Piñas a Chile, en forma previa al inicio de la primera temporada de exportaciones a Chile, el SAG en conjunto con la ONPF del país exportador, coordinarán la realización de una visita de inspectores del SAG al país productor, con la finalidad de conocer el proceso de certificación oficial, lugares de producción y empacadoras y aprobarán el buen funcionamiento de éstas. Los costos serán de cargo del interesado.
 
-Para los mercados con los cuales Chile ha mantenido un comercio histórico, considerando volumen y continuidad de envíos en los últimos 10 años (Ecuador, Costa Rica, Panamá, Colombia y Bolivia), estas visitas se programarán con la respectiva ONPF para realizarse en un plazo máximo de 3 años a partir de la entrada en vigencia de esta resolución.
+Para los mercados con los cuales Chile ha mantenido un comercio histórico, considerando volumen y continuidad de envíos en los últimos años (Ecuador, Costa Rica, Panamá, Colombia y Bolivia), estas visitas se deberán programar con la respectiva ONPF, antes del 27 de octubre de 2026. De no cumplir con este plazo, las importaciones quedarán suspendidas hasta que se realice la verificación in situ respectiva.
 
 6. Los envíos de frutos frescos de Ananas spp., deben provenir de lugares de producción y empacadoras registrados por la ONPF del país exportador, y autorizados por ésta a través de la asignación de códigos únicos de identificación.
+
+La información de los lugares de producción y empacadoras registradas deberá ser enviada a la División de Protección Agrícola, Forestal y Semillas, con al menos 30 días de anticipación al proceso de exportación, o bien quedar disponibles en un sitio web oficial de la ONPF respectiva, con acceso por parte del SAG.
 
 7. El envío debe venir libre de restos vegetales y suelo; entiéndase por suelo los terrones mayores o iguales a 3 mm de diámetro, requisito que deberá ser verificado mediante inspección por la autoridad fitosanitaria exportadora, previo a emitir el certificado fitosanitario.
 
@@ -92,7 +94,7 @@ El artículo reglamentado no deberá encontrarse envuelto o cubierto con materia
 
 No se permite fumigar cuando el material de embalajes está constituido por esponja, espuma o poliestireno expandido (plumavit).
 
-10. Todos los contenedores o medios de transporte utilizarán sellos o precintos pudiendo completarse hasta el 80% de su capacidad, presentándose en cajas dispuestas sobre pallets. De no cumplirse estos requisitos, no se permitirán acciones de fumigación en destino por lo que, de presentarse intercepciones de plagas, el envío será rechazado. En el caso que la exportación sea vía aérea, adicionalmente las paletas deberán estar protegidas con plástico para embalaje capuchas de tivek o malla tipo mosquitera y sellados o precintados individualmente, proceso realizado por inspectores de la ONPF del país exportador.
+10. Todos los contenedores o medios de transporte utilizarán sellos o precintos. En el caso que la exportación sea vía aérea, adicionalmente las paletas deberán estar protegidos con plástico para embalaje, capuchas de tivek o malla tipo mosquitera y sellados o precintados individualmente, proceso realizado por inspectores de la ONPF del país exportador.
 
 El sello o precinto deberá llegar intacto a Chile, en caso contrario será causal de rechazo, situación que podrá ser analizada por el Servicio, a solicitud de la ONPF exportadora.
 
@@ -103,6 +105,10 @@ El sello o precinto deberá llegar intacto a Chile, en caso contrario será caus
 13. Ante la detección de cualquier estado de desarrollo vivo Bactrocera spp. en las verificaciones que efectúe el SAG en los puntos de ingreso a Chile, se procederá al rechazo del envío. Además, ante la detección de cualquier estado de desarrollo vivo o muerto de Bactrocera spp., la ONPF del país exportador y SAG evaluarán la suspensión transitoria del Programa de Exportaciones de Piñas a Chile. SAG evaluará la situación e implementará las medidas adicionales que sean necesarias, antes de que se puedan reanudar las exportaciones, si así corresponde.
 
 14. La detección de plagas cuarentenarias distintas a las exigidas en la presente resolución, listadas en resolución N° 3.080 de 2003 y sus modificaciones, o no listadas que sean potencialmente cuarentenarias, de acuerdo a Evaluación de Riesgo, se podrá determinar la aplicación de medidas fitosanitarias de manejo del riesgo identificado.
+
+Ante la detección de cualquier estado de desarrollo de insecto vivo de las familias Pseudococcidae y Diaspididae en las inspecciones que efectúe el SAG en los puntos habilitados de ingreso a Chile, se podrá aplicar una medida fitosanitaria, siempre y cuando, se determine que la aplicación del tratamiento es factible desde el punto de vista técnico y operativo.
+
+No obstante lo anterior, en aquellos casos en que se detecte de forma reiterada la presencia de estos insectos en envíos procedentes del mismo origen, este Servicio no autorizará la aplicación de ninguna medida fitosanitaria en los puntos habilitados de ingreso, procediéndose al rechazo del envío. Además, se efectuarán las correspondientes notificaciones de no cumplimiento, con el fin de alertar sobre la situación de intercepciones reiteradas y facilitar la adopción de las medidas correctivas pertinentes, para así evitar restricciones comerciales que pudieran comprometer las exportaciones a Chile.
 
 15. Cualquier situación de incumplimiento a la presente resolución, detectada en el punto de ingreso a Chile, diferente a lo antes mencionado, será evaluada e informada a la ONPF del país exportador para su corrección.
 
