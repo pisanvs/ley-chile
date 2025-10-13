@@ -402,6 +402,10 @@ Para las zonas indicadas en el Artículo 21º, se fijan las normas de uso de sue
 
 a) Áreas Urbanas
 
+ZONA U-7: EQUIPAMIENTO DEPORTIVO RECREACIONAL
+
+SUB ZONA U-7A EQUIPAMIENTO DEPORTIVO RECREACIONAL Y SEGURIDAD
+
 .
 
 b) Áreas Restringidas al Desarrollo Urbano
