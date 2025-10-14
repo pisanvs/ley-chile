@@ -112,13 +112,61 @@ ctavo: Se faculta a los inspectores del Servicio, destacados en los puertos de i
 
 noveno: Todas las personas naturales o jurídicas que detecten plagas cuarentenarias listadas en los Artículos vigésimo y vigésimo primero, o plagas no listadas consideradas ausentes del territorio nacional, están obligadas a declarar su presencia al Servicio, en forma inmediata a su detección, no pudiendo publicar su determinación hasta tanto no se tenga conocimiento y se realice la verificación y determine oficialmente la situación de la plaga en el territorio nacional y se evalúe su factibilidad de control oficial.
 
-Artículo vigésimo: Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental, y se encuentran relacionadas a los hospedantes/artículos reglamentados que indica:
+Artículo vigésimo: Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental y se encuentran relacionadas a los hospedantes que indica:
 
-.
+ÁCAROS
 
-Artículo vigésimo primero: Para conocer la distribución de plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación, refiérase a las resoluciones generales y específicas de cada uno de los controles oficiales vigentes, las que se encuentran en la página web del SAG http://www.sag.cl/ambitos-de-accion/plagas-y-enfermedades.
+INSECTOS COLEÓPTERA
+
+HEMÍPTERA
+
+HYMENÓPTERA
+
+LEPIDÓPTERA
+
+ORTHOPTERA
+
+THYSANOPTERA
+
+HONGOS Y CROMISTAS
+
+NEMATODOS
+
+MOLUSCOS
+
+BACTERIAS
+
+FITOPLASMAS Y SPIROPLASMAS
+
+VIRUS Y VIROIDES
+
+MALEZAS
+
+PLANTAS PARÁSITAS
+
+Artículo Vigésimo Primero: Para conocer la distribución de plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación refiérase a las resoluciones generales y específicas de cada uno de los controles oficiales vigentes, las que se encuentran en la página WEB del SAG https://www.sag.gob.cl/ambitos-de-accion/plagas-cuarentenarias-presentesbajocontrol-oficial y https://www.sag.gob.cl/ambitos-de-accion/plagas-cuarentenarias-presentes.
 
 La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación:
+
+ÁCAROS
+
+INSECTOS
+
+COLEOPTERA
+
+HEMIPTERA
+
+HYMENOPTERA
+
+LEPIDOPTERA
+
+HONGOS Y CROMISTAS
+
+NEMATODOS
+
+BACTERIAS
+
+VIRUS Y VIROIDES
 
 Artículo Vigésimo Segundo: Las faltas a la presente Resolución serán sancionadas de acuerdo a lo dispuesto por el Decreto Ley 1.764 y su Reglamento del Ministerio de Agricultura y Decreto Ley 3.557 de Protección Agrícola.
 
