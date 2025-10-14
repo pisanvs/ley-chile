@@ -158,17 +158,65 @@ Todas las personas naturales o jurídicas que detecten plagas cuarentenarias lis
 
 <!-- parte:8428214 -->
 
-Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental, y se encuentran relacionadas a los hospedantes/artículos reglamentados que indica:
+Las plagas señaladas a continuación se encuentran ausentes del territorio nacional, tanto insular como continental y se encuentran relacionadas a los hospedantes que indica:
 
-.
+ÁCAROS
+
+INSECTOS COLEÓPTERA
+
+HEMÍPTERA
+
+HYMENÓPTERA
+
+LEPIDÓPTERA
+
+ORTHOPTERA
+
+THYSANOPTERA
+
+HONGOS Y CROMISTAS
+
+NEMATODOS
+
+MOLUSCOS
+
+BACTERIAS
+
+FITOPLASMAS Y SPIROPLASMAS
+
+VIRUS Y VIROIDES
+
+MALEZAS
+
+PLANTAS PARÁSITAS
 
 #### Artículo vigésimo primero
 
 <!-- parte:8428215 -->
 
-Para conocer la distribución de plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación, refiérase a las resoluciones generales y específicas de cada uno de los controles oficiales vigentes, las que se encuentran en la página web del SAG http://www.sag.cl/ambitos-de-accion/plagas-y-enfermedades.
+Para conocer la distribución de plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación refiérase a las resoluciones generales y específicas de cada uno de los controles oficiales vigentes, las que se encuentran en la página WEB del SAG https://www.sag.gob.cl/ambitos-de-accion/plagas-cuarentenarias-presentesbajocontrol-oficial y https://www.sag.gob.cl/ambitos-de-accion/plagas-cuarentenarias-presentes.
 
 La lista que a continuación se señala considera plagas presentes en parte del territorio nacional y sometido a control oficial de contención, supresión o erradicación:
+
+ÁCAROS
+
+INSECTOS
+
+COLEOPTERA
+
+HEMIPTERA
+
+HYMENOPTERA
+
+LEPIDOPTERA
+
+HONGOS Y CROMISTAS
+
+NEMATODOS
+
+BACTERIAS
+
+VIRUS Y VIROIDES
 
 #### Artículo vigésimo segundo
 
