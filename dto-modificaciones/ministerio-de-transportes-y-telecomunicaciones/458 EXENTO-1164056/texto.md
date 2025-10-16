@@ -56,7 +56,7 @@ Decreto:
 
 Modifícase la concesión de Servicio Público de Transmisión de Datos, a la empresa Ingbell Chile SpA, Nº 76.452.881-6, con domicilio en Avenida Carlos Valdovinos Nº 918, comuna de San Miguel, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:
 
-1. Autorízase a la concesionaria a instalar, operar y explotar los sistemas que a continuación se indican, a fin de proveer el Servicio de Conectividad en los Establecimientos Educacionales Subvencionados (EES) de la Región Metropolitana de Santiago, que pertenezcan a la Zona 34, adjudicada a ella en el marco del Concurso Público "Conectividad para la Educación 2030", Código: FDT-2019-04, en los términos que exigen las Bases de Concurso y el Proyecto Comprometido y asignado, así como lo que en definitiva sea autorizado.
+1. Autorízase a la concesionaria a instalar, operar y explotar los sistemas que a continuación se indican, a fin de proveer el Servicio de Conectividad en los Establecimientos Educacionales Subvencionados (EES) de las Regiones Metropolitana de Santiago y de Valparaíso", que pertenezcan a la Zona 34, adjudicada a ella en el marco del Concurso Público "Conectividad para la Educación 2030", Código: FDT-2019-04, en los términos que exigen las Bases de Concurso y el Proyecto Comprometido y asignado, así como lo que en definitiva sea autorizado.
 
 2. Instalar, operar y explotar los siguientes tramos de Fibra Óptica, correspondientes a la red de transporte, según se indica a continuación:
 
