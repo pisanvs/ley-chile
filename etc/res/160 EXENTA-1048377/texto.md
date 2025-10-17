@@ -20,9 +20,137 @@ Establécense los siguientes requisitos fitosanitarios de importación para plan
 
 1.1. El material procede de un programa de producción bajo certificación oficial o de Viveros o Centros Repositorios de germoplasma, que se encuentren bajo el control del organismo fitosanitario oficial del país exportador.
 
-1.2. Además, se deben indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales, específicas para cada especie y tipo de material de propagación que a continuación se señalan:
+1.2. Además, se debe indicar en el Certificado Fitosanitario las siguientes declaraciones adicionales, específicas para cada especie y tipo de material de propagación que a continuación se señalan:
 
-.
+Citrus spp. (CITRICOS) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas en el momento óptimo y encontradas libres de Guignardia citricarpa y Elsinoë fawcettii.
+
+b. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Candidatus Liberibacter africanus.
+
+c. El envío se encuentra libre de Calacaurus citrifolii (Ac.: Eriophyidae) de acuerdo con el resultado del análisis oficial de laboratorio, según la técnica de diagnóstico de disección de yemas bajo microscopio binocular.
+
+d. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Brevipalpus californicus (Ac.: Tenuipalpidae), Brevipalpus phoenicis (Ac.: Tenuipalpidae), Eutetranychus orientalis (Ac.: Tetranychidae), Tetranychus kanzawai (Ac.: Tetranychidae), Aleurocanthus spiniferus (Hem.: Aleyrodidae), Aleurocanthus woglumi (Hem.: Aleyrodidae), Aonidiella orientalis (Hem.: Diaspididae), Aspidiotus destructor (Hem.: Diaspididae), Cacoecimorpha pronubana (Lep.: Tortricidae), Ceroplastes spp. (Hem.: Coccidae), Cryptoblabes gnidiella (Lep.: Pyralidae), Dysmicoccus brevipes (Hem.: Pseudococcidae), Ferrisia virgata (Hem.: Pseudococcidae), Howardia biclavis (Hem.: Diaspididae), Lepidosaphes gloverii (Hem.: Diaspididae), Nipaecoccus nipae (Hem.: Pseudococcidae), Nipaecoccus viridis (Hem.: Pseudococcidae), Paracoccus burnerae (Hem.: Pseudococcidae), Parlatoria spp. (Hem.: Diaspididae), Penthimiola bella (Hem.: Cicadellidae), Phyllocnistis citrella (Lep.: Gracillariidae), Prays citri (Lep.: Yponomeutidae), Scirtothrips aurantii (Thys.: Thripidae), Thaumatotibia leucotreta (Lep.: Tortricidae), Tortrix capensana (Lep.: Tortricidae) y Trioza erytreae (Hem.: Psyllidae).
+
+e. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que el envío se encuentra libre de Helicotylenchus multicinctus, Pratylenchus coffeae, Radopholus similis raza citrus, Rotylenchulus reniformis, Xiphinema americanum sensu lato (excepto poblaciones chilenas), Xiphinema brevicolle y Xiphinema italiae, de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Malus spp. (MANZANO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas en el momento óptimo y encontradas libres de Colletotrichum acutatum.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus kanzawai (Ac.: Tetranychidae), Tetranychus neocaledonicus (Ac.: Tetranychidae), Tetranychus turkestani (Ac.: Tetranychidae), Aphis pomi (Hem.: Aphididae), Coryphodema tristis (Lep.: Cossidae), Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que:
+
+i) El envío fue inspeccionado y se encuentra libre de Phlyctinus callosus (Col.: Curculionidae).
+
+ii) El envío se encuentra libre de Pratylenchus coffeae, Xiphinema americanum sensu lato (excepto poblaciones chilenas) y Xiphinema diversicaudatum, de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus armeniaca (DAMASCO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus kanzawai (Ac.: Tetranychidae), Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus avium (CEREZO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas en el momento óptimo y encontradas libres de Colletotrichum acutatum.
+
+b. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+c. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus kanzawai (Ac.: Tetranychidae), Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+d. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus cerasifera (CIRUELO MYROBALÁN) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus cerasus (CEREZO AGRIO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas en el momento óptimo y encontradas libres de Colletotrichum acutatum.
+
+b. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+c. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+d. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus domestica (CIRUELO EUROPEO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que:
+
+i) El envío fue inspeccionado y se encuentra libre de Phlyctinus callosus (Col.: Curculionidae).
+
+ii) El envío se encuentra libre de Xiphinema americanum sensu lato (excepto poblaciones chilenas), Xiphinema brevicolle y Xiphinema diversicaudatum de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus dulcis (ALMENDRO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus mahaleb (CEREZO MAHALEB) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que se encuentran libres de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus persica (DURAZNERO) y Prunus persica var. nucipersica (NECTARINO) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus kanzawai (Ac.: Tetranychidae), Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que:
+
+i) El envío fue inspeccionado y se encuentra libre de Phlyctinus callosus (Col.: Curculionidae).
+
+ii) El envío se encuentra libre de Meloidogyne hispanica, Radopholus similis, Xiphinema americanum sensu lato (excepto poblaciones chilenas), Xiphinema brevicolle y Xiphinema diversicaudatum de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Prunus salicina (CIRUELO JAPONÉS) - Plantas, estacas y ramillas
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Xanthomonas arboricola pv. pruni.
+
+b. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus turkestani (Ac.: Tetranychidae), Cacoecimorpha pronubana (Lep.: Tortricidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+c. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que:
+
+i) El envío fue inspeccionado y se encuentra libre de Phlyctinus callosus (Col.: Curculionidae).
+
+ii) El envío se encuentra libre de Xiphinema americanum sensu lato (excepto poblaciones chilenas), de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Pyrus spp. (PERAL) - Plantas, estacas y ramillas
+
+a. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Tetranychus kanzawai (Ac.: Tetranychidae), Tetranychus turkestani (Ac.: Tetranychidae), Aphis pomi (Hem.: Aphididae), Coryphodema tristis (Lep.: Cossidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
+
+b. Adicionalmente, en envíos de plantas o estacas enraizadas se debe indicar que:
+
+i) El envío fue inspeccionado y se encuentra libre de Phlyctinus callosus (Col.: Curculionidae).
+
+ii) El envío se encuentra libre de Xiphinema americanum sensu lato (excepto poblaciones chilenas) y Xiphinema diversicaudatum, de acuerdo con el resultado de un análisis oficial de laboratorio.
+
+Vitis spp. (VID) - Estacas sin enraizar
+
+a. Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico para cada caso) en el momento óptimo, y encontradas libres de Xylophilus ampelinus.
+
+b. El lugar de producción fue inspeccionado durante la última temporada de crecimiento activo y las muestras extraídas fueron sometidas a análisis oficial de laboratorio, encontrándose libre de Viteus vitifoliae (Hem.: Phylloxeridae).
+
+c. El envío fue inspeccionado y se encuentra libre de los siguientes artrópodos: Eutetranychus orientalis (Ac.: Tetranychidae), Tetranychus kanzawai (Ac.: Tetranychidae), Tetranychus turkestani (Ac.: Tetranychidae), Aonidiella orientalis (Hem.: Diaspididae), Ceroplastes rusci (Hem.: Coccidae), Coryphodema tristis (Lep.: Cossidae), Ferrisia malvastra (Hem.: Pseudococcidae), Nipaecoccus nipae (Hem.: Pseudococcidae), Nipaecoccus viridis (Hem.: Pseudococcidae), Planococcus ficus (Hem.: Pseudococcidae) y Pseudaulacaspis pentagona (Hem.: Diaspididae).
 
 2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizadas.
 
@@ -42,14 +170,12 @@ e. Los materiales de acondicionamiento destinados a amortiguar o conservar la hu
 
 5. La totalidad del material deberá cumplir con régimen de Cuarentena de Post Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto el importador deberá contar con la autorización del lugar de cuarentena, la que debe ser presentada en el puerto de ingreso, al momento del arribo del envío al país. Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y Ganadero que establecen regulaciones para material vegetal en régimen de Cuarentena de Post Entrada.
 
-6. Si el material proviene de Centros Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, deberá cumplir con lo establecido en las normativas de este Servicio que regulan el reconocimiento de centros de producción para exportar material de propagación de especies vegetales a Chile, indicándose además, en la sección correspondiente del Certificado Fitosanitario la siguiente declaración adicional:
-
-"El envío procede de (nombre del Centro), el cual ha sido Oficialmente reconocido hasta (fecha de vigencia) por resolución Nº (número de resolución de reconocimiento del Centro), de fecha (fecha)".
+6. La Cuarentena de Posentrada podrá obviarse o simplificarse al optar por el Sistema de reconocimiento de centros productores de material de propagación ubicados en el extranjero, de acuerdo a los requerimientos establecidos en la resolución Nº 2.878 de 2004.
 
 7. Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
 8. En el caso que los envíos estén compuestos por híbridos interespecíficos de alguna de las especies reguladas en esta resolución, deberán cumplir con todas las Declaraciones Adicionales y requisitos fitosanitarios correspondientes a cada especie parental.
 
-> **Nota.** El numeral N° 8 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica requisitos fitosanitarios de importación para material de propagación de las especies que indica, procedentes de Sudáfrica, para las especies que indica:Para "Citrus spp. (Cítricos)", reemplazar la segunda viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico en cada caso) en el momento óptimo y encontradas libres de Citrus tatter leaf virus y Candidatus Liberibacter africanus".Para "Prunus armeniaca (Damasco)", reemplazar la primera viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo y encontradas libres de Xanthomonas arboricola pv. pruni.".Para ''Prunus avium (Cerezo), reemplazar la segunda viñeta por la frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico en cada caso) en el momento óptimo y encontradas libres de Pseudomonas syringae pv. morsprunorum y Xanthomonas arboricola pv. Pruni".Para "Malus spp. (Manzano)" y Pyrus spp. (Peral), eliminar la siguiente frase: "Las plantas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar técnica de diagnóstico) en el momento óptimo y encontradas libres de Apple stem grooving virus."
+9. El ingreso del material vegetal al país y trámite de importación solo podrá realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
