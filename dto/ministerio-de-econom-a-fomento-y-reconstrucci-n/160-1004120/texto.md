@@ -534,15 +534,23 @@ Para tanques de acero soldado sobre superficie a baja presión, API Std 620 "Des
 
 Para tanques de acero soldado sobre superficie y para presiones internas cercanas a la presión atmosférica, API Std 650 "Welded Steel Tanks for Oil Storage", 10th. Edition, November 1998; Addendum 1, March 2000.
 
-Para tanques enterrados, cilíndricos, horizontales, UL 58 "Steel Underground Tanks for Flammable and Combustible Liquids", 8th. Edition, 1990.
+Para tanques enterrados cilíndricos, horizontales, UNE-EN 12285-1, "Tanques de acero fabricados en taller. Parte 1: Tanques horizontales cilíndricos, de pared simple o de pared doble, para el almacenamiento enterrado de líquidos inflamables y no inflamables contaminantes del agua", Enero 2004; y UL58 "Steel Underground Tanks for Flammable and Combustible Liquids", 10th. Edition, 2018.
 
-Para tanques sobre superficie, cilíndricos, horizontales y verticales, UL 142 "Steel Aboveground Tanks for Flammable and Combustible Liquids", 7th. Edition, April 1993.
+Para tanques sobre superficie, construidos en fábrica:
+
+* UL142 "Steel Aboveground Tanks for Flammable and Combustible Liquids", 7th. Edition, April 1993."; o
+
+* UNE-EN 12285-2, "Tanques de acero fabricados en taller. Parte 2: Tanques horizontales cilíndricos, de pared simple o de pared doble, para el almacenamiento por encima del suelo de líquidos inflamables y no inflamables contaminantes del agua", noviembre 2005; o
+
+* UL 142A, "Standard for Special Purpose Aboveground Tanks for Specific Flammable or Combustible Liquids", 1st Edition, 2018.
 
 Para tanques con presión de diseño superior a 98 kPa, ASME Section VIII "Rules for Construction of Pressure Vessels", Division1, Division 2 "Alternative Rules", Edition 2001.
 
 Para tanques enterrados de fibra de vidrio, cilíndricos, horizontales, ASTM D 4021 "Standard Specification for Glass-Fiber-Reinforced Polyester Underground Petroleum Storage Tanks", Edition 1986.
 
 Para tanques enterrados o de superficie, con una capacidad de almacenamiento de 5 a 90 m3, BS 2594: 1975 "Specification for cCarbon steel welded horizontal cylindrical storage tanks", August 1975.
+
+Para el sistema de protección secundaria referido a tanques enterrados con contención secundaria, acero - poliéster reforzado con fibra de vidrio, UL 1746 'External Corrosion Protection Systems for Steel Underground Storage Tanks', Segunda Edición, 1993.
 
 ### 4. Soportes, fundaciones y anclajes
 
@@ -840,6 +848,12 @@ La excavación en que se deposite el tanque y sus conexiones deberá quedar aisl
 
 Las conexiones flexibles, cabezal de bomba sumergida, entre otras, deberán ubicarse en una cámara estanca a los combustibles (SUMP), con el objetivo de contener cualquier derrame que se produzca en esa zona.
 
+#### Artículo 78º bis
+
+Los tanques enterrados con contención secundaria, en adelante e indistintamente, los tanques enterrados de doble, pared deberán tener asociadas tuberías de doble pared y estar equipados con un sensor de fuga intersticial capaz de detectar, en todo momento, cualquier fuga o filtración en el tanque primario. Dichos sensores deberán ser instalados e inspeccionados anualmente por personas naturales o jurídicas con competencias técnicas en la materia conforme a las especificaciones del fabricante y los procedimientos establecidos por la Superintendencia, a fin de garantizar su correcto funcionamiento. Asimismo, el operador de la instalación de CL deberá verificar permanentemente el correcto funcionamiento de los sensores de fuga intersticiales y, en caso de que tales sensores no se encuentren operativos, el operador de la instalación de CL se deberá abstener de utilizar dichos tanques.
+
+Los resultados de las inspecciones de los sensores intersticiales deberán ser registrados documentalmente y estar a disposición de la Superintendencia.
+
 #### Artículo 79º
 
 Previo a cubrir el tanque con material de relleno, deberá ser ensayado hidrostáticamente en terreno, a una presión comprendida entre 20,6 kPa (0,21 kgf/cm2) y 34,5 kPa (0,35 kgf/cm2), la que se deberá mantener durante una (1) hora, a fin de detectar posibles filtraciones.
@@ -1068,6 +1082,14 @@ En ningún caso esta frecuencia de inspección excederá a 20 años.
 
 Los tanques enterrados y sus conexiones se deberán inspeccionar, de acuerdo a los procedimientos establecidos por la Superintendencia para tal efecto, con el propósito de verificar que sean herméticos, tanto a los líquidos como a los vapores. Al detectarse una filtración, en forma inmediata el operador deberá vaciar de CL el tanque y dejarlo fuera de servicio; el propietario en forma inmediata deberá proceder a retirar el tanque y la tierra contaminada.
 
+#### Artículo 106º bis
+
+Cuando se registre una señal de alarma o diagnóstico de falla en un sensor de fuga intersticial de un tanque enterrado de doble pared, de forma inmediata se deberá verificar la correcta operatividad del sensor, debiéndose detener la operación del tanque en tanto no se descarte la falla del sensor.
+
+En el caso que se verifique que el sensor no funciona correctamente, éste deberá ser reparado o reemplazado de inmediato. Por el contrario, en el caso que se confirme la señal de alarma o que se descarte falla del sensor, el tanque de doble pared deberá ser sometido a una inspección de hermeticidad con el propósito de verificar la existencia de la fuga, por organismos de inspección autorizados por la Superintendencia, y de acuerdo con los procedimientos establecidos por ésta. Si dicha inspección de hermeticidad confirma una fuga, filtración o pérdida de hermeticidad, tanto para el tanque primario como secundario, se deberá proceder de acuerdo con lo estipulado en el artículo 106º del presente reglamento. En caso de que el ensayo de hermeticidad descarte la pérdida de estanqueidad, se deberán realizar las acciones que permitan restablecer la operatividad del monitoreo del espacio intersticial a través del respectivo sensor.
+
+Los resultados de las inspecciones de los sensores intersticiales deberán ser registrados documentalmente y estar a disposición de la Superintendencia.
+
 § 17. Tanques temporalmente fuera de servicio, Cierre de Tanques o extracción de Tanques y Reutilización
 
 #### Artículo 107º
@@ -1104,9 +1126,11 @@ d) Todas las otras líneas o tuberías deberán estar tapadas o taponadas.
 
 e) Se deberá notificar por escrito a la Superintendencia el cierre temporal del tanque.
 
-#### Artículo 111º
+#### Artículo 111°
 
-Los tanques enterrados que se encuentren fuera de servicio por más de un (1) año, se deberán cerrar permanentemente o extraerlos del sitio.
+Los tanques enterrados que se encuentren fuera de servicio por más de un (1) año, así como los tanques enterrados de pared simple que cuenten con una antig¼edad igual o superior a treinta (30) años contados desde su fecha de fabricación, se deberán cerrar permanentemente o extraerlos del sitio de acuerdo con lo establecido en el presente reglamento.
+
+Los operadores de instalaciones de CL no deberán operar tanques enterrados que hayan permanecido más un (1) año fuera de servicio; asimismo, no deberán operar tanques enterrados de pared simple que cuenten con una antig¼edad igual o superior a treinta (30) años contados desde su fecha de fabricación.
 
 #### Artículo 112º
 
@@ -2394,19 +2418,27 @@ La longitud de las mangueras de las unidades de suministro en instalaciones de a
 
 Sólo se permitirá el uso de pistolas automáticas con traba para apertura cuando el abastecimiento de CL sea efectuado exclusivamente por un empleado de la instalación.
 
-#### Artículo 262º
+#### Artículo 262°
 
 Estas instalaciones deberán disponer, en la isla de carga de CL, advertencias de seguridad, letreros o símbolos, con las siguientes leyendas:
 
-- "PROHIBIDO FUMAR"
+- "PROHIBIDO FUMAR".
 
-- "PARE EL MOTOR"
+- "PARE EL MOTOR".
 
-- "PROHIBIDO CARGAR COMBUSTIBLES A VEHÍCULOS DEL TRANSPORTE PÚBLICO CON PASAJEROS EN SU INTERIOR"
+- "PROHIBIDO CARGAR COMBUSTIBLES A VEHÍCULOS DEL TRANSPORTE PÚBLICO CON PASAJEROS EN SU INTERIOR".
 
-Adicionalmente, los establecimientos de tipo autoservicio deberán disponer en la isla de carguío la advertencia de seguridad con la leyenda: "NO UTILIZAR TELÉFONO CELULAR DURANTE EL AUTOSERVICIO".
+- "PROHIBIDO ABASTECER MOTOS CON PERSONAS SOBRE ÉSTAS".
 
-Tales leyendas deberán estar dispuestas en un lugar destacado de la isla de abastecimiento de CL, con un tamaño de letra que permita su lectura a una distancia de 2 metros desde la posición del conductor del vehículo que está siendo abastecido y para el usuario que se encuentra frente a las unidades de suministro y de un color que resalte del fondo en que está inscrita la leyenda.
+- "PROHIBIDO ABASTECER A ENVASES DE VIDRIO, FRÁGILES O BOTELLAS PLÁSTICAS".
+
+Adicionalmente, los establecimientos de tipo autoservicio deberán disponer en cada isla de carguío la advertencia de seguridad con la leyenda: "QUIEN REALICE LA CARGA DE COMBUSTIBLE AL VEHÍCULO, NO DEBERÁ UTILIZAR DISPOSITIVOS ELECTRÓNICOS PORTÁTILES DURANTE DICHA OPERACIÓN".
+
+Tales leyendas deberán estar dispuestas en un lugar destacado de la isla de abastecimiento de CL, con un tamaño de letra que permita su lectura a una distancia de 2 metros desde la posición del conductor del vehículo que está siendo abastecido y para el usuario que se encuentra frente a las unidades de suministro, y de un color que resalte del fondo en que está inscrita la leyenda.
+
+En la parte inferior de las leyendas antes señaladas, deberá incorporarse la siguiente leyenda: "Extracto del Art. 262" del decreto supremo N° 160, de 2008, del Ministerio de Economía, Fomento y Reconstrucción".
+
+Además, en estas instalaciones se deberán disponer letreros visibles que detallen la información señalada en las letras a) y b) del artículo 275° del presente reglamento.
 
 #### Artículo 263º
 
