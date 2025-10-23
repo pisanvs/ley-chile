@@ -42,11 +42,11 @@ b) De Nacimiento o adopción: Se concederá al afiliado que acredite el nacimien
 
 Si ambos padres fueren afiliados al Departamento, cada uno tendrá el derecho a recibir el beneficio íntegro en forma independiente;
 
-c) De escolaridad: Se concederá por cada afiliado estudiante o por cada estudiante que constituya carga familiar de aquél, una vez cada año. Se acreditará la condición de estudiante mediante el correspondiente certificado de estudios.
+c) De escolaridad: Se concederá por cada afiliado estudiante y por cada estudiante que constituya carga familiar de aquél, una vez cada año. Se acreditará la condición de estudiante mediante el correspondiente certificado de estudios, que podrá ser informado directamente al Departamento de Bienestar o en el Departamento de Recursos Humanos.
 
 Para el efecto de este subsidio, se entenderá que son estudiantes quienes cursen regularmente estudios o actividades en los niveles medio menor, medio mayor, prekinder y kindergarten de la educación parvularia, en educación básica, media, diferencial, universitaria, técnica, superior o comercial, en algún establecimiento del Estado o reconocido por éste. Asimismo, podrán dar lugar a este beneficio los estudios de perfeccionamiento que realice el afiliado, tales como cursos de idiomas u otros similares destinados a incrementar o desarrollar su preparación cultural, previa calificación según pautas que determine el Consejo Administrativo.
 
-En el caso de las cargas familiares que estén cursando los niveles medio menor y medio mayor, serán causantes del presente subsidio, quienes no reciban por parte de la Corporación Administrativa del Poder Judicial, otro beneficio fundado en la misma causa.
+El Consejo Administrativo podrá fundadamente aprobar anualmente la entrega de este beneficio a los estudiantes de establecimientos no reconocidos por el Estado, como colegios Montessori, colegios online, entre otros.
 
 d) Por fallecimiento: Procederá por el fallecimiento del socio o de alguna de sus cargas familiares. En caso de fallecimiento del socio, este subsidio se pagará, aun cuando el Departamento tenga contratado para sus afiliados un seguro de vida.
 
@@ -72,11 +72,25 @@ El monto de cada una de las asignaciones a que se refiere esta letra será deter
 
 e) Para fomento del estudio o beca de escolaridad: Anualmente el afiliado tendrá derecho a esta asignación por cada hijo reconocido como causante de asignación familiar que siga cursos regulares en la enseñanza básica, media, normal, técnica, especializada o superior, en instituciones del Estado o reconocidas por éste, y que cumpla las condiciones de rendimiento o de necesidad económica que determine el Consejo Administrativo. El afiliado devengará también este beneficio en caso que fuere el mismo quien sigue aquellos cursos regulares. Los montos y condiciones de estas becas se fijarán anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento y conforme a parámetros objetivos y generales, que se darán a conocer a los afiliados con a lo menos sesenta días de anticipación al inicio de las postulaciones;
 
-f) De Navidad: Se otorgará este beneficio a todos los socios que estén afiliados al Departamento de Bienestar al uno de diciembre de cada año. Los montos y modalidades serán fijados anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento.
+f) De navidad: Se otorgará este beneficio a todos los afiliados al Departamento de Bienestar. Los montos y modalidades serán fijados anualmente por el Consejo Administrativo de acuerdo con las disponibilidades presupuestarias del Departamento.
 
-g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten a causa de los efectos de cualquier fenómeno de la naturaleza, tales como terremoto, maremoto, inundación u otro evento calificado; o por cualquier otra situación imprevista y que cause grave daño personal o material al afiliado o su grupo familiar, calificada por el Consejo Administrativo.
+g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten y que hayan sufrido los efectos de cualquier fenómeno de la naturaleza que les haya causado daños materiales o personales al afiliado o su grupo familiar directo, tales como terremoto, maremoto, inundación u otro evento calificado como tal por el Consejo Administrativo.
 
-h) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+h) Acuerdo de Unión Civil: Se concederá este beneficio a cada afiliado que celebre el acuerdo de unión civil. Si ambos contrayentes fueran afiliados al Departamento, ambos tendrán el derecho a solicitar el beneficio en forma independiente. Este beneficio se otorgará por única vez con la misma persona.
+
+i) Ayuda Social: El Servicio de Bienestar podrá otorgar una asignación en dinero o especies al afiliado/a que cuente con una condición de salud que requiera tratamiento médico o terapia especializada, y la adquisición de insumos médicos sin cobertura de sistema de salud. Además, en casos de sufrir actos de violencia intrafamiliar conocidas pendientes ante los tribunales e internación para el tratamiento de adicciones.
+
+Todos estos casos deben ser debidamente calificados por un/una asistente social del Departamento de Bienestar y ser acreditados ante la jefatura del Departamento de Bienestar, para ser aprobados por el Consejo Administrativo.
+
+j) Ayuda médica: En caso de enfermedad grave y/o tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado y su grupo familiar una ayuda económica complementaria de las prestaciones contempladas en el artículo 3º.
+
+k) Siniestro: El departamento podrá otorgar una ayuda al afiliado que hubiere sufrido daños o pérdida de sus bienes por situaciones imprevistas o de fuerza mayor, debido a hechos aislados que no constituyan el subsidio por catástrofe.
+
+Se considerará como requisito para su otorgamiento la comprobación de los hechos por parte de la jefatura del Departamento de Bienestar.
+
+l) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiese otorgado, salvo que pudiera operar un seguro de desgravamen, si fuera el caso. Si no hubiera seguro de desgravamen, aplica lo indicado en la letra d) párrafo sexto de este artículo, y en caso de continuar con deudas, éstas se entenderán condonadas automáticamente.
+
+Todos estos beneficios no constituyen derechos adquiridos y quedarán sujetos en cada caso particular a la aprobación del Consejo de Administración, según la normativa vigente y a la disponibilidad presupuestaria del Departamento de Bienestar.
 
 #### Artículo 5°
 
@@ -85,6 +99,14 @@ El Departamento en la medida que su presupuesto lo permita podrá destinar recur
 El Departamento de Bienestar del Poder Judicial podrá, además, administrar bienes raíces que le sean donados, transferidos o entregados en concesión o en uso gratuito a la Corporación. Administrativa del Poder Judicial; establecer campos deportivos, colonias de veraneo, refugios, casas de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, dichas instalaciones constituirán servicios dependientes del Departamento de Bienestar, quedando expresamente excluida de esta facultad, la de contratar personal, la que corresponderá a la Corporación Administrativa del Poder Judicial. La administración de estos bienes por parte del Departamento de Bienestar se hará luego que así se establezca por el acto formal correspondiente, documento que también establecerá que dicho Departamento percibirá los excedentes que pudiesen generarse por dicha administración.
 
 El Departamento de Bienestar podrá explotar comercialmente sus Servicios Dependientes, permitiendo su uso por terceras personas sin que ello impida o perjudique la utilización preferente de dichas instalaciones por parte de los afiliados y sus cargas familiares.
+
+El departamento de Bienestar podrá gestionar la adquisición de bienes raíces o terrenos, para lo cual deberá aplicar los mismos procedimientos, gestiones y autorizaciones y exigencias que para ese efecto tiene la Corporación Administrativa del Poder Judicial.
+
+Asimismo, si se requiere equipar, reparar, habilitar, construir o restaurar bienes inmuebles de servicios dependientes que administra, también deberán aplicar los procedimientos de adquisiciones por los que se rige la Corporación Administrativa.
+
+El Departamento de Bienestar deberá solicitar la adquisición y las obras a la Corporación Administrativa. Previamente el Consejo de Administración debe haberlo aprobado, en la sesión en que se analice la adquisición u obras en Servicios dependientes. En dicho acuerdo deberán quedar adjuntos todos los estudios realizados y documentos que la sustentan. Asimismo, para la aprobación de estos acuerdos se requerirá la participación de la totalidad de los representantes de los afiliados. Por otra parte, el acuerdo se debe fundar en que la inversión que se proyecta cede en directo beneficio de sus afiliados, lo cual deberá quedar explícitamente señalado en el acuerdo, con indicación de sus fundamentos, sin que ocasione un desmedro en el otorgamiento de beneficios considerados básicos, como son los de orden médico y subsidios.
+
+Además de lo anterior, para la adquisición de inmuebles o realización de obras el acuerdo del Consejo Administrativo deberá contar con la aplicación de la Superintendencia de Seguridad Social, para lo cual deberá remitir la respectiva solicitud junto con el acta donde se aprueba el asunto individualizando en detalle el terreno o bien raíz a adquirir o las obras que se ejecutarán, su finalidad, los montos estimados, los plazos probables del proyecto que se estima concretar, los estudios de factibilidad económica y el impacto en la entrega de otros beneficios y cualquier otro antecedente que se estime necesario, sin perjuicio de los demás antecedentes que requiera este organismo para dar su aprobación.
 
 #### Artículo 6°
 
@@ -96,6 +118,12 @@ B.- Préstamos Médicos: Se otorgarán como complemento para las prestaciones no
 
 C.- Préstamos de Vacaciones: El Departamento, con el propósito de fomentar el acceso a la recreación, podrá conceder anualmente un préstamo para financiar las vacaciones del socio y sus cargas familiares, en cuyo caso deberá presentar copia de la solicitud de vacaciones autorizada por el jefe directo, junto a la solicitud del préstamo.
 
+D) Préstamo habitacional: El departamento de Bienestar podrá otorgar a sus afiliados por una sola vez un préstamo que permita completar el ahorro previo para la adquisición de un inmueble, o la parte del precio que pagará el afiliado con recursos propios al adquirirlo, y/o para pagar los gastos de la operación tales como notaría, inscripciones, impuestos, tasaciones, comisiones u otros.
+
+Este préstamo también podrá otorgarse una vez al año para reparación, ampliación o terminación de una vivienda que constituye el domicilio del afiliado o su grupo familiar, y para el pago de dividendos mensuales que el afiliado acredite que se encuentran vencidos o pago de contribuciones.
+
+E) Préstamos escolares: Se podrán otorgar una vez al año para gastos de matrícula, útiles y vestuario de los hijos estudiantes de los afiliados que sean causantes de asignación familiar o bien para los propios afiliados que cursen estudios en universidades, institutos profesionales o institutos de formación técnica.
+
 Los montos máximos a otorgar para cada tipo de préstamo, los plazos de amortización de los mismos y la tasa de interés aplicable serán determinados anualmente por el Consejo Administrativo, de conformidad a las disposiciones contenidas en la Ley Nº18.010.
 
 El afiliado que solicite un préstamo deberá cumplir con los siguientes requisitos:
@@ -104,17 +132,17 @@ El afiliado que solicite un préstamo deberá cumplir con los siguientes requisi
 
 2º) Estar al día en el pago del aporte mensual reglamentario.
 
-3º) Presentar la respectiva solicitud de préstamo en las oficinas del Departamento, completada por el solicitante y firmada por éste y el o los codeudores solidarios, según corresponda.
+3º) Presentar la respectiva solicitud de préstamo, completada por el solicitante y firmada por éste y el o los codeudores solidarios, según corresponda.
 
 4º) Poseer capacidad de pago, la que será determinada por los análisis del Departamento; sin perjuicio de las exigencias o restricciones referidas al límite de descuentos por planilla.
 
-5º) Tratándose de préstamos médicos para fines dentales u ópticos, deberá además acompañarse a la solicitud el presupuesto correspondiente.
+5º) Tratándose de préstamos médicos para fines dentales u ópticos, deberá además acompañarse a la solicitud la documentación correspondiente.
 
 Para conceder un préstamo se deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados, en virtud de la capacidad de descuento de las remuneraciones de los afiliados.
 
 La entrega de los dineros por préstamos se efectuará en forma nominativa.
 
-Para el otorgamiento de un préstamo, cualquiera sea su naturaleza, será requisito previo la constitución de un codeudor solidario que tenga la suficiente capacidad. de pago de acuerdo a las pautas fijadas por el Consejo Administrativo y a las exigencias o restricciones referidas al límite de descuentos por planilla. En el caso de afiliados que soliciten un nuevo préstamo inferior a cincuenta unidades de fomento, pero que sumado al saldo de el o los vigentes excedan de dicho monto, deberán presentar como codeudor del nuevo préstamo a un afiliado diferente al o los que estén garantizando los préstamos ya otorgados. Tratándose de préstamos de monto igual o superior a cincuenta unidades de fomento se requerirá la constitución de dos codeudores solidarios.
+Para el otorgamiento de un préstamo, cualquiera sea su naturaleza, será requisito previo la constitución de un codeudor solidario que tenga la suficiente capacidad. de pago de acuerdo a las pautas fijadas por el Consejo Administrativo y a las exigencias o restricciones referidas al límite de descuentos por planilla. Tratándose de préstamos de monto igual o superior a cincuenta unidades de fomento se requerirá la constitución de dos codeudores solidarios.
 
 Los codeudores solidarios deberán ser socios del Departamento de Bienestar. Y cumplir con los requisitos establecidos en los números 1º), 2º) y 4º) del inciso tercero precedente.
 
@@ -144,13 +172,13 @@ Para ser elegido representante de los afiliados se requiere, además de los requ
 
 1. Ser afiliado al Departamento de Bienestar con una antigüedad no inferior a dos años, y
 
-2. Residir en la Región Metropolitana.
+2. Eliminado.
 
 Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo durarán dos años en sus funciones y podrán ser reelegidos hasta por dos períodos adicionales.
 
 Los funcionarios del Departamento de Bienestar del Poder Judicial no podrán ser miembros de su Consejo Administrativo en representación de los afiliados.
 
-> **Nota.** El DTO 43, Trabajo, publicado el 28.01.2004, modifica el DTO 60, Trabajo, publicado el 11.04.2003, modificatorio de la presente norma. Dicha modificación ha sido incorporada al presente texto actualizado.
+> **Nota.** El Decreto 43, Trabajo, publicado el 28.01.2004, modifica el Decreto 60, Trabajo, publicado el 11.04.2003, modificatorio de la presente norma. Dicha modificación ha sido incorporada al presente texto actualizado.
 
 #### Artículo 8°
 
@@ -236,7 +264,7 @@ Eventualmente y previa aprobación del Consejo Administrativo, parte de los fond
 
 #### Artículo 14°
 
-Los afiliados tendrán derecho a percibir los beneficios médicos y el subsidio por catástrofe que el Departamento otorga desde la fecha de incorporación. Los demás beneficios, podrán ser solicitados un vez transcurridos 5 meses desde la incorporación, o dentro de los plazo especiales establecidos en el presente reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que correspondan y que otorgue el Departamento de Bienestar directamente o a través de seguros complementarios, a contar del primer día del mes de la primera afiliación, en casos de reincorporación, a partir del primer día del cuarto mes y en una segunda o más reincorporación a partir del séptimo mes. Los demás beneficios podrán solicitarse el primer día del séptimo mes después que el afiliado se incorpore o reincorpore al Departamento o dentro de los plazos especiales establecidos en el presente reglamento. En caso de uso de convenios que no significan gastos directos para el Departamento de Bienestar, podrá utilizarlos desde el primer día del mes de afiliación.
 
 #### Artículo 15°
 
