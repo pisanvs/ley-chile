@@ -108,11 +108,17 @@ Los siguientes son los instrumentos de acceso de aplicación general, cuya ponde
 
 El puntaje de equivalencia a las Notas de Enseñanza Media o NEM se obtiene promediando las notas finales de cada año escolar en que el postulante haya sido promovido al curso superior y aproximando este resultado al segundo decimal. Luego, este promedio se transforma a un puntaje estándar, en adelante Puntaje NEM, comparable con los de las pruebas de admisión, mediante tablas de conversión que son aprobadas por el Comité de Acceso.
 
-Cabe señalar que existen tablas de conversión diferenciadas por cada modalidad educativa: Científica-Humanista-diurna, vespertina nocturna y Técnico-Profesional. Estas tablas se encuentran disponibles en la Plataforma Electrónica Única del Sistema de Acceso.
+Las tablas de conversión diferenciadas por cada modalidad educativa son las siguientes: Científica-Humanista-diurna, Científica-Humanista-vespertina nocturna y Técnico-Profesional. Estas tablas se encuentran disponibles en la Plataforma Electrónica Única del Sistema de Acceso.
+
+En el caso de postulantes que hayan cursado uno o más niveles de la enseñanza media en el extranjero y hayan convalidado estudios en Chile, el Puntaje NEM se calculará exclusivamente con las notas obtenidas en los niveles cursados en territorio nacional, según la información registrada oficialmente en el Ministerio de Educación.
+
+Desde el proceso de admisión 2028 el puntaje NEM de cada postulante tendrá una vigencia de 5 años contados desde el egreso de la educación media. Luego de vencido ese plazo, el puntaje NEM en esos casos será reemplazo por el puntaje Ranking.
 
 2. Puntaje equivalente al Ranking de Notas:
 
-El puntaje equivalente al Ranking de Notas, en adelante Puntaje Ranking, considera el rendimiento académico de un estudiante en relación con su contexto educativo. Es un instrumento que busca beneficiar a quienes tienen un comportamiento académico destacado en su contexto. El puntaje de este instrumento es a lo menos igual al Puntaje NEM y utiliza para la conversión de nota a puntaje la misma escala de equivalencia que se requiere para el NEM.
+2.1 Puntaje Ranking hasta el proceso de admisión 2027:
+
+Hasta el proceso de admisión 2027, el puntaje equivalente al Ranking de Notas, en adelante Puntaje Ranking, considera el rendimiento académico de un estudiante en relación con su contexto educativo. Es un instrumento que busca beneficiar a quienes tienen un comportamiento académico destacado en su contexto. El puntaje de este instrumento es a lo menos igual al Puntaje NEM y utiliza para la conversión de nota a puntaje la misma escala de equivalencia que se requiere para el NEM.
 
 Se entiende como contexto educativo la institución en que está matriculado el estudiante durante cada año de la Enseñanza Media y se identifica mediante el RBD, que corresponde a la certificación que otorga el Estado mediante el cual reconoce a la institución oficialmente.
 
@@ -154,7 +160,81 @@ ii. Si algún establecimiento no tiene egresados en una o dos de las tres genera
 
 iii. Si un postulante rindió exámenes libres, su Puntaje Ranking se asignará comparando su desempeño académico con un establecimiento Científico-Humanista vespertino.
 
-iv. Si un postulante cursó parte de la enseñanza media en el extranjero y cuenta con Puntaje NEM, se le asignará su Puntaje NEM como Puntaje Ranking en aquellos cursos aprobados en el extranjero. Este puntaje será asociado a un contexto educativo. Luego su Puntaje Ranking será el promedio ponderado por la cantidad de cursos aprobados en los distintos contextos educativos, como fue descrito anteriormente."
+iv. Si un postulante cursó parte de la enseñanza media en el extranjero y cuenta con Puntaje NEM, se le asignará su Puntaje NEM como Puntaje Ranking en aquellos cursos aprobados en el extranjero. Este puntaje será asociado a un contexto educativo. Luego su Puntaje Ranking será el promedio ponderado por la cantidad de cursos aprobados en los distintos contextos educativos, como fue descrito anteriormente.
+
+2.2 Puntaje Ranking desde el proceso de admisión 2028:
+
+Desde el proceso de admisión 2028, el Puntaje Ranking se calculará a partir del desempeño académico del o la postulante en cada nivel de la enseñanza media, en relación con el contexto educativo específico para dicho nivel. Este contexto educativo se define por el establecimiento y la modalidad de enseñanza en que el o la estudiante cursó el respectivo curso, y se identifica mediante el Rol Base de Datos (RBD) del establecimiento y el código de enseñanza, conforme al reconocimiento oficial del Ministerio de Educación.
+
+El Puntaje Ranking es un instrumento que busca beneficiar a quienes tienen un comportamiento académico destacado en su contexto. Este indicador otorga un puntaje a cada estudiante a partir de su posición relativa, en función de sus notas de enseñanza media, dentro de su contexto educativo, prescindiendo del valor nominal de dichas calificaciones.
+
+El Puntaje Ranking tendrá la siguiente fórmula de cálculo:
+
+El Puntaje Ranking de una persona se calculará como el promedio simple de los cuatro puntajes obtenidos, uno por cada nivel de enseñanza media: R (Puntaje Ranking de primero medio), 1 R (Puntaje Ranking de segundo medio), 2 R (Puntaje Ranking de tercero medio) y 3 R (Puntaje Ranking de cuarto medio). Es decir, el puntaje Ranking, 4 R, corresponderá a:
+
+Para calcular cada uno de estos cuatro puntajes R y 1, R 2, R 3 R, se determinará la población de referencia para cada persona, a fin de calcular su Puntaje Base, el cual posteriormente será transformado a la escala PAES, según se indica a continuación:4
+
+1) Población de referencia: Se considerará como población de referencia a todos los y las estudiantes que, en el mismo nivel, tipo de enseñanza y establecimiento del estudiante en cuestión, hayan sido promovidos/as durante los tres años anteriores al año en que dicho/a estudiante es promovido/a, excluyendo a su propia generación.
+
+2) Cálculo de Puntaje Base. Para el cálculo del Puntaje Base, r, primero se ordenarán de menor a mayor las notas de promoción de todas las personas de la población de referencia. Luego, se ubicará el lugar correspondiente a la nota de promoción de la persona, en esa lista ordenada. El número correspondiente a ese lugar en la lista se denotará por p. Si esa nota coincidiera con una o más de las notas de la lista, es decir, un empate, el número p corresponderá a la mejor de estas posiciones.
+
+El Puntaje Base, r, es un número entre 0 y 1, que se calcula de acuerdo a la siguiente fórmula
+
+Donde p es la posición que ocupa la persona dentro de su población de referencia de acuerdo a su nota de promoción en ese nivel y N es el número de personas en esta población.
+
+Por ejemplo, si hay 100 personas en esa población, es decir N=100, y la persona a quien se le calcula su puntaje base tiene la mejor nota de promoción dentro de su población de referencia, entonces p=100 y:
+
+Si por el contrario, la persona tiene la peor nota de promoción de su población, entonces p=1 y
+
+De este modo, la persona tendrá un Puntaje Base por cada nivel educativo de enseñanza media: r (Puntaje Base de primero medio), 1 r (Puntaje Base de segundo medio), 2 r (Puntaje Base de tercero medio) y 3 r (Puntaje Base de cuarto medio).4
+
+3) Transformación a puntaje Ranking. Los Puntajes Base r y 1, r 2, r 3 r, deberán ser transformados a la escala de puntajes PAES mediante una función creciente 4 T que corresponde a la función inversa de una distribución normal asimétrica con parámetro de localización = 500, de escala, = 180, de asimetría, = 5. El resultado de esta transformación se trunca inferiormente en 458 puntos y superiormente en 1000 puntos. Es decir,
+
+No obstante todo lo anterior, existen casos especiales en los que aplican los siguientes procedimientos:
+
+i. En el caso de establecimientos educacionales con baja matrícula:
+
+Cuando un establecimiento educacional cuente con menos de 93 egresados/as en las últimas tres generaciones para un determinado nivel de Enseñanza Media, se procederá a agruparlo con otras unidades educativas similares, a fin de constituir una población de referencia válida para el cálculo del Puntaje Ranking de ese nivel.
+
+Se entenderá por unidades educativas similares aquellas que compartan, al menos, las siguientes características: dependencia administrativa, código de enseñanza y ubicación territorial. Para la definición del ámbito territorial, se aplicará progresivamente el siguiente orden de agrupación: comuna, provincia y región, hasta alcanzar el mínimo requerido de egresados.
+
+La unidad mínima de agrupación corresponderá a establecimientos con igual dependencia, código de enseñanza y comuna.
+
+Una vez conformado el grupo de unidades educativas, este se tratará como una unidad única para efectos del cálculo, y se aplicará íntegramente el procedimiento descrito en el numeral 2) precedente relativo a la asignación de Puntaje Ranking.
+
+ii. En el caso de establecimientos nuevos o cerrados:
+
+Se considerarán todos los establecimientos nuevos sin generaciones anteriores y los establecimientos que se cerraron hace más de tres años. Para cada colegio nuevo o cerrado se obtendrá la información de la población de referencia, agrupando las unidades educativas similares.
+
+Se entenderá por unidades educativas similares aquellas que compartan, al menos, las siguientes características: dependencia administrativa, código de enseñanza y ubicación territorial. Para la definición del ámbito territorial, se aplicará progresivamente el siguiente orden de agrupación: comuna, provincia y región, hasta alcanzar el mínimo requerido de egresados/as.
+
+La unidad mínima de agrupación corresponderá a establecimientos con igual dependencia, código de enseñanza y comuna.
+
+Una vez conformado el grupo de unidades educativas, este se tratará como una unidad única para efectos del cálculo, y se aplicará íntegramente el procedimiento descrito en el numeral 2) precedente relativo a la asignación de Puntaje Ranking.
+
+iii. En el caso de establecimientos con egresos parciales en las tres generaciones anteriores:
+
+Si un establecimiento educacional no registra egresados/as en una o dos de las tres generaciones anteriores, pero acumula un total igual o superior a 93 egresados/as entre las generaciones que sí presentan antecedentes, se aplicará el procedimiento de asignación de Puntaje Ranking señalado en el numeral 2) precedente, considerando únicamente las generaciones disponibles con egresados.
+
+iv. En el caso de postulantes que hayan rendido exámenes libres:
+
+A los y las postulantes que hayan obtenido su Licencia de Enseñanza Media mediante exámenes libres, se les asignará el Puntaje Ranking comparando su desempeño académico con la población de referencia correspondiente a establecimientos de modalidad Científico-Humanista vespertina, aplicando los mismos criterios de agrupación territorial progresiva definidos en el literal i), esto es: comuna, provincia y región, hasta alcanzar el mínimo requerido para conformar la población de referencia.
+
+v. En el caso de postulantes que hayan cursado parte de la Enseñanza Media en el extranjero:
+
+Cuando un/a postulante haya cursado uno o más niveles de Enseñanza Media en el extranjero y cuente con Puntaje NEM validado en Chile, su Puntaje Ranking se calculará únicamente a partir de los niveles cursados y validados en establecimientos nacionales. El Puntaje Ranking final corresponderá al promedio simple de los puntajes obtenidos en los niveles cursados en Chile.
+
+vi. En el caso de postulantes promovidos por decreto 71, artículo 11:
+
+Cuando un/a postulante haya sido aprobado en uno o más niveles de Enseñanza Media mediante el decreto 71, artículo 11, se le asignará en esos niveles un Puntaje Ranking de 458 puntos.
+
+vii. En el caso de postulantes que hayan cursado toda la Enseñanza Media en el extranjero:
+
+Cuando un/a postulante realizó íntegramente sus estudios de Enseñanza Media en el extranjero, no se le calculará Puntaje Ranking. En este caso, la ponderación correspondiente se redistribuirá entre los demás factores de selección.
+
+viii. En el caso de postulantes que hayan egresado antes del año 2008:
+
+Cuando un/a postulante haya egresado de Enseñanza Media antes del año 2008 no se les calculará Puntaje Ranking. En consecuencia, la ponderación asignada a este factor se redistribuirá en las pruebas de acceso a la educación superior.
 
 3. Pruebas de admisión universitaria de Matemáticas:
 
