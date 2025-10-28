@@ -16,11 +16,9 @@ D e c r e t o:
 
 Derógase el decreto supremo de Educación N°91, de 1999.
 
-#### Artículo 2°
+#### Artículo 2º
 
-Establécese como Día del Patrimonio Cultural de Chile, el último domingo del mes de mayo de cada año.
-
-> **Nota.** El Art. único del Decreto 28, Culturas, publicado el 04.11.2021, modifica la presente norma en el sentido de establecer como "Días del Patrimonio Cultural de Chile", los últimos días sábado y domingo del mes de mayo de cada año.
+Establézcase como Día del Patrimonio Cultural de Chile, el último sábado del mes de enero y los últimos días sábado y domingo del mes de mayo de cada año.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Mariana Aylwin Oyarzún, Ministra de Educación.
 
