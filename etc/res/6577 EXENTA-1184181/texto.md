@@ -30,16 +30,18 @@ Resuelvo:
 
 1.2. Documento anexo "Criterios para establecer la programación diaria de semilleros de maravilla a inspeccionar", código D-ATR-AAT-069, versión 01.
 
-1.3. Formulario "Tarjeta de evaluación de semilleros de maravilla", código F-ATR-AAT-295, versión 01.
+1.3. Derogado.
 
-1.4. Formulario "Informe de inspección para semilleros de maravilla", código F-ATR-AAT-296, versión 01.
+1.4. Derogado.
 
-1.5. Formulario "Plan de trabajo inspecciones de semilleros de maravilla", código F-ATR-AAT-297, versión 01.
+1.5. Derogado.
 
 2. El Instructivo Técnico y los documentos anexos y formularios relacionados aprobados por la presente resolución entrarán en vigencia a contar de la publicación de esta resolución en el Diario Oficial.
 
 3. La presente resolución, el Instructivo Técnico, los documentos anexos y formularios relacionados que esta norma aprueba, estarán a disposición de los usuarios en el sitio Web del Servicio Agrícola y Ganadero (www.sag.cl), conforme a lo dispuesto en el artículo 7, letra j) de la Ley N° 20.285 sobre acceso a la Información Pública.
 
 4. Se instruye a la División de Protección Agrícola-Forestal y Semillas y al Departamento de Transacciones Comerciales y Autorización de Terceros de este Servicio para que realicen de manera coordinada las acciones tendientes a la implementación y difusión de estos documentos, de acuerdo a sus respectivas funciones y competencias.
+
+> **Nota.** El 4.1 del numeral 4 de la Resolución 8907 Exenta, Agricultura, publicada el 30.10.2025, deja sin efecto el "Instructivo Técnico para la inspección de semilleros de maravilla", código D-ATR-AAT-064, versión 01, aprobado en el numeral 1 de la presente resolución. Asimismo, en los numerales 4.2, 4.3 y 4.4 de la citada resolución, dejan sin efecto los documentos señalados en los numerales 1.3, 1.4 y 1.5, respectivamente, los cuales, en el presente texto actualizado, se consignan como derogados.
 
 Anótese, comuníquese y publíquese.- Andrea Collao Véliz, Directora Nacional (S) Servicio Agrícola y Ganadero.
