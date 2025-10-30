@@ -1198,7 +1198,7 @@ Las frecuencias 4210 kHz, 6314 kHz, 8416,5 kHz, 12579 kHz, 16806,5 kHz, 19680,5 
 
 están designadas para aplicaciones industriales, científicas y médicas (ICM).
 
-34. ELIMINADO.
+34. La utilización de la banda de frecuencias 40-50 MHz por el servicio de exploración de la Tierra por satélite (activo) será conforme con las restricciones de zona geográfica y las condiciones técnicas y operativas definidas en la resolución N° 677 (CMR-23). Lo dispuesto en este número en modo alguno exime al servicio de exploración de la Tierra por satélite (activo) de la obligación de operar como un servicio secundario de conformidad con los números 5.29 y 5.30, del Reglamento de Radiocomunicaciones. (CMR-23).
 
 35. La utilización de la banda 7200-7300 kHz por el servicio de radioaficionados no deberá imponer limitaciones al servicio de radiodifusión destinado a utilizarse en la Región 1 y en la Región 3.
 
@@ -1464,7 +1464,7 @@ tal efecto.
 
 103. La utilización de la banda 1518-1525 MHz por el servicio móvil por satélite está sujeta a la coordinación internacional. Las estaciones del servicio móvil por satélite en la banda de 1518-1525 MHz no pueden reclamar protección contra las estaciones del servicio fijo.
 
-104. ELIMINADO.
+104. Las bandas 703-748 MHz, 758-803 MHz, 824-849 MHz, 869-894 MHz, 1710-1770 MHz, 1850-1990 MHz, 2110-2160 MHz y 2500-2690 MHz, se atribuyen adicionalmente en forma secundaria al móvil por satélite para ser empleadas exclusivamente en la provisión del servicio denominado directo al dispositivo (D2D, por sus siglas en inglés). Este servicio no debe causar interferencias perjudiciales a ningún servicio de telecomunicaciones. Con todo, la instalación, operación y explotación de este servicio estará supeditada a las condiciones técnicas que establezca la normativa correspondiente de la Subsecretaría de Telecomunicaciones.
 
 105. Las bandas 1525 - 1544 MHz, 1545 - 1559 MHz, 1626,5 - 1645,5 MHz y 1646,5 - 1660,5 MHz no se utilizarán para enlaces de conexión de ningún servicio. No obstante, en circunstancias excepcionales, se podrá autorizar a una estación terrena situada en un punto fijo determinado de cualquiera de los servicios móviles por satélite a comunicar a través de estaciones espaciales que utilicen estas bandas.
 
@@ -1772,7 +1772,7 @@ Puede utilizarse control automático de potencia para aumentar la densidad de p.
 
 Esta identificación no impide el empleo de tales bandas por otras aplicaciones del servicio fijo por satélite o por otros servicios a los cuales se encuentran atribuidas dichas bandas a título coprimario y no establece prioridad alguna entre los usuarios de las bandas estipuladas en el presente Decreto.
 
-206. ELIMINADO.
+206. El servicio fijo por satélite (espacio-Tierra) en la banda de frecuencias 17,3-17,8 GHz no deberá causar interferencia perjudicial ni reclamar protección contra las asignaciones del servicio de radiodifusión por satélite que funciona de conformidad con el Reglamento de Radiocomunicaciones.
 
 207. ELIMINADO.
 
@@ -1931,6 +1931,8 @@ Todas las frecuencias en la banda 1000-3000 GHz pueden ser utilizadas por los se
 > **Nota.** NOTA 5 El numeral 2 del Artículo Único del Decreto 19, Transportes, publicado el 30.07.2016, modifica la presente norma, en el sentido de eliminar y reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
 
 > **Nota.** NOTA 6 El numeral 1 del Artículo Único del Decreto 192, Transportes, publicado el 25.04.2023, modifica la presente norma, en el sentido de reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
+
+> **Nota.** NOTA 7 El numeral 1 del Artículo Único del Decreto 49, Transportes, publicado el 30.10.2025, modifica la presente norma, en el sentido de reemplazar en el artículo 4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de bandas de frecuencias, de la manera que en la citada norma indica.
 
 Anótese, regístrese, tómese razón, publíquese en el Diario Oficial e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
 
