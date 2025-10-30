@@ -170,15 +170,15 @@ Inhabilidades
 
 No podrán ser terceros autorizados:
 
-a. Las personas naturales que sean funcionarios o trabajadores o personal contratado sobre la base de honorarios a suma alzada del Servicio, inhabilidad que se mantendrá hasta por seis meses después de haberse desvinculado de sus funciones.
+a. Las personas naturales que sean funcionarios o trabajadores del Servicio, hasta por seis meses después de haberse desvinculado de sus funciones, y los prestadores de servicios contratados sobre la base de honorarios, hasta la fecha de la desvinculación efectiva del Servicio Agrícola y Ganadero.
 
-b. Las personas jurídicas que tengan entre sus socios, directores, administradores, gerentes, accionistas o trabajadores a personas que sean funcionarios, trabajadores o personal contratado sobre la base de honorarios a suma alzada del Servicio.
+b. Las personas naturales y jurídicas que tengan entre sus socios o colaboradores, directores, administradores, gerentes, accionistas o trabajadores a personas que sean funcionarios, trabajadores o personal contratado sobre la base de honorarios a suma alzada del Servicio.
 
-c. Del mismo modo las personas jurídicas no podrán ser terceros autorizados si existe un vínculo laboral con ex funcionarios, ex trabajadores o ex honorarios del Servicio, la que se mantendrá hasta por seis meses después de haberse desvinculado de sus funciones.
+c. Del mismo modo las personas naturales o jurídicas no podrán ser terceros autorizados si existe un vínculo laboral con ex funcionarios, ex trabajadores, la que se mantendrá hasta por seis meses después de haberse desvinculado de sus funciones.
 
-d. Las personas que fueron autorizadas y que perdieron su autorización por la aplicación de la revocación como medida por incumplimiento. Dicha inhabilidad tendrá una vigencia de dos (2) años, contados desde la fecha en que quede ejecutoriada la resolución que establece esta medida. Asimismo, esta inhabilidad se hará extensiva a las personas naturales y/o jurídicas que la constituyan. En este último caso, la responsabilidad también se hará extensiva a las personas naturales que las constituyan y así sucesivamente, hasta que la responsabilidad alcance a personas naturales. En el caso de las personas naturales, la inhabilidad se hará extensiva al responsable técnico.
+d. Las personas que fueron autorizadas y que perdieron su autorización por la aplicación de la revocación como medida por incumplimiento. Dicha inhabilidad tendrá una vigencia de cinco (5) años, contados desde la fecha en que quede ejecutoriada la resolución que establece esta medida. Asimismo, esta inhabilidad se hará extensiva a las personas naturales y/o jurídicas que la constituyan. En este último caso, la responsabilidad también se hará extensiva a las personas naturales que las constituyan y así sucesivamente, hasta que la responsabilidad alcance a personas naturales. En el caso de las personas naturales, la inhabilidad se hará extensiva al responsable técnico.
 
-e. Los terceros autorizados que se encuentren suspendidos no podrán postular a nuevas autorizaciones, ampliaciones o renovaciones, mientras ésta dure.
+e. Los terceros que se encuentren suspendidos de la autorización en algún otro alcance no podrán postular a nuevas autorizaciones, ampliaciones o renovaciones, mientras dicha suspensión dure. Asimismo, esta inhabilidad se hará extensiva a las personas naturales y/o jurídicas que constituyan al tercero.
 
 f. Otras inhabilidades previstas en los Reglamentos Específicos e Instructivos Técnicos.
 
@@ -186,9 +186,9 @@ f. Otras inhabilidades previstas en los Reglamentos Específicos e Instructivos 
 
 Incompatibilidades
 
-a. Las personas jurídicas que obtengan la autorización, no podrán realizar acciones en el marco de su autorización, por sí mismas o a través de terceras personas, en caso que su representante legal, socios, directores, administradores, accionistas, gerentes o responsable técnico, tenga un interés directo con la actividad autorizada. Sin perjuicio de lo establecido en los Reglamentos Específicos e Instructivos Técnicos sobre la materia.
+a. Las personas jurídicas y naturales que obtengan la autorización no podrán realizar acciones en el marco de su autorización, por sí mismas o a través de terceras personas, en el caso que su representante legal, socios, directores, administradores, accionistas, gerentes, responsable técnico o ellas mismas, cuando corresponda, tengan un interés directo con la actividad autorizada. Sin perjuicio de lo establecido en los Reglamentos Específicos e Instructivos Técnicos sobre la materia.
 
-b. Las personas jurídicas que obtengan la autorización, no podrán ejecutar acciones en el marco de su autorización, cuando el solicitante de las acciones corresponda al cónyuge, conviviente civil, personas con un parentesco hasta cuarto grado de consanguinidad o afinidad colateral y tercer grado de consanguinidad o afinidad vertical, de las personas naturales que la constituyan o de su representante legal, socios, directores, administradores, accionistas, gerentes o responsable técnico de la empresa. Esta incompatibilidad se hará extensiva a las personas naturales que constituyen a las personas jurídicas que a su vez constituyen a la persona jurídica autorizada, y así sucesivamente hasta alcanzar a personas naturales.
+b. Las personas naturales y jurídicas que obtengan la autorización no podrán ejecutar acciones en el marco de su autorización, cuando el solicitante de las acciones corresponda al cónyuge, conviviente civil, personas con un parentesco hasta cuarto grado de consanguinidad y segundo de afinidad inclusive, de las personas naturales que la constituyan o de su representante legal, socios, directores, administradores, accionistas, gerentes o responsable técnico del tercero. Esta incompatibilidad se hará extensiva a las personas naturales que constituyen a las personas jurídicas que a su vez constituyen a la persona jurídica autorizada y así sucesivamente hasta alcanzar a personas naturales.
 
 c. Las personas naturales que obtengan la autorización, no podrán ejecutar acciones en el marco de su autorización, cuando el solicitante de las acciones corresponda al cónyuge, conviviente civil, personas con un parentesco hasta cuarto grado de consanguinidad o afinidad colateral y tercer grado de consanguinidad o afinidad vertical, o su responsable técnico.
 
