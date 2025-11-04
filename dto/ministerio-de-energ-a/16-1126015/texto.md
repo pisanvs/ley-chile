@@ -96,7 +96,7 @@ e) Hito Relevante Nº 5: Fin del periodo de Puesta en Servicio.
 
 Corresponde a la finalización del periodo de puesta en servicio del Proyecto, de acuerdo a lo señalado en el inciso séptimo del artículo 72º-17 de la Ley. Se comprueba el cumplimiento del hito, para el Proyecto mediante la verificación del cumplimiento de todas las actividades previstas realizar en el cronograma de puesta en servicio que la Empresa Adjudicataria acuerde con el Coordinador conforme a la disposición antes citada. Dicha comprobación será realizada por parte del personal de la Auditoría Técnica, a que hace referencia el numeral 11.2.1 de las Bases.
 
-Este hito deberá cumplirse dentro de los 24 meses siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
+Este hito deberá cumplirse dentro de los 24 meses y 121 días corridos siguientes, contados desde la publicación del presente decreto en el Diario Oficial. Esto es, deberá cumplirse al 31 de marzo de 2021.
 
 ### 2. Auditoría Técnica del Proyecto
 
@@ -152,7 +152,7 @@ Los equipos de protección, control, comunicaciones deben instalarse en casetas 
 
 Los equipos, en cantidad y tipo, serán especificados de acuerdo al nivel de aislamiento, nivel de cortocircuito, grado de contaminación, tipo de servicio y su instalación. Las características se establecerán en el nivel de ingeniería básica según sean las exigencias del sistema en este nudo.
 
-5º Fíjase la fecha de entrada en operación del Proyecto. De acuerdo a lo establecido en el decreto exento Nº 422 y en las Bases de Licitación, el Proyecto, deberá estar construido y entrar en operación, a más tardar, dentro de los 24 meses siguientes a la fecha de publicación en el Diario Oficial del presente decreto.
+5º Fíjase la fecha de entrada en operación del Proyecto. El Proyecto, deberá estar construido y entrar en operación, a más tardar, dentro de los 24 meses y 121 días corridos siguientes, contados desde la publicación del presente decreto en el Diario Oficial. Esto es, deberá cumplirse al 31 de marzo de 2021.
 
 En caso de que el día de entrada en operación del Proyecto indicado anteriormente, sea un día sábado, domingo o festivo, éste deberá ser prorrogado al primer día hábil siguiente.
 
