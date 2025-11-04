@@ -20,11 +20,13 @@ La acreditación arriba descrita comprenderá los requisitos de seguridad, dise�
 
 #### Artículo 2º
 
-Los importadores, distribuidores, primer vendedor u otro, en adelante "el solicitante", deberá presentar la solicitud de acreditación ante el Ministerio de Transportes y Telecomunicaciones, específicamente en el Centro de Control y Certificación Vehicular, en adelante "el Centro", conforme al formato que se señala en el Anexo A de la presente resolución. Conjuntamente con la solicitud ya señalada, se deberán presentar los antecedentes descritos en el Anexo B de la presente resolución y una muestra física del casco que se solicita acreditar.
+Los importadores, distribuidores, primer vendedor u otro, en adelante "el solicitante", deberá presentar una solicitud de acreditación ante el Ministerio de Transportes y Telecomunicaciones, específicamente en el Centro de Control y Certificación Vehicular, en adelante "el Centro", mediante la plataforma electrónica de trámites de la Subsecretaría de Transportes disponible en el portal web https://www.mtt.gob.cl/portaldetramites, o presencialmente, utilizando el formato contenido en el Anexo A de la presente resolución. Conjuntamente con la solicitud ya señalada, se deberán presentar los antecedentes descritos en el Anexo B de la presente resolución y una muestra física del casco que se solicita acreditar.
 
 #### Artículo 3º
 
 Dentro de los 15 días hábiles siguientes a la fecha de presentación de los antecedentes, a que se refiere el artículo 2º anterior, el Centro emitirá un pronunciamiento respecto del cumplimiento de los requisitos señalados en el decreto supremo Nº 231, de 2000, del Ministerio de Transportes y Telecomunicaciones.
+
+El plazo señalado en el inciso anterior se computará a partir de la presentación completa de la solicitud, es decir, tanto de los antecedentes, así como de la muestra fisica.
 
 #### Artículo 4º
 
@@ -54,7 +56,7 @@ Número de Acreditación:
 
 #### Artículo 7º
 
-El horario de recepción de la solicitud y antecedentes en el Centro, será en días hábiles, de lunes a viernes, de 9:00 a 14:00 horas, en sus dependencias, ubicadas en Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
+El horario de recepción de solicitudes presenciales, y antecedentes o elementos relacionados, será de 9:00 a 14:00 horas, de lunes a viernes (en días hábiles), en las dependencias ubicadas en calle Vicente Reyes Nº 198, comuna de Maipú, ciudad de Santiago, Chile.
 
 Anótese y publíquese.- Paola Tapia Salas, Ministra de Transportes y Telecomunicaciones.
 
