@@ -22,33 +22,55 @@ Decreto:
 
 1º.- Apruébanse y decláranse Normas Oficiales de la República de Chile, las normas que se indican a continuación, las que se adjuntan al presente decreto y se entenderán formar parte integrante del mismo:
 
-NCh3303:2014 Estructuras de albañilería - Penetración de agua en
+NCh3303:2014 Estructuras de albañilería -
 
-superficies de muros de albañilería - Método de ensayo en
+Penetración de agua en
 
-terreno
+superficies de muros de
 
-NCh3295:2013 Aislación térmica - Determinación de la permeabilidad del
+albañilería - Método de
 
-aire en edificios - Método de presurización por medio del
+ensayo en terreno
+
+NCh3295:2013 Aislación térmica -
+
+Determinación de la
+
+permeabilidad del
+
+aire en edificios -
+
+Método de presurización
+
+por medio del
 
 ventilador
 
-NCh3308:2013 Ventilación - Calidad aceptable de aire interior - Requisitos
+NCh3368:2015 Puentes térmicos en la
 
-NCh3309:2014 Ventilación - Calidad de aire interior aceptable en
+edificación -
 
-edificios residenciales de baja altura - Requisitos
+Transmitancia térmica
 
-NCh3368:2015 Puentes térmicos en la edificación - Transmitancia térmica
+lineal - Métodos
 
-lineal - Métodos simplificados y valores por defecto
+simplificados y valores
 
-NCh3269:2013 Accesibilidad universal en la edificación y en los espacios
+por defecto
 
-de uso público - Criterios generales de diseño
+NCh3269:2013 Accesibilidad universal en la
 
-NCh3271:2012 Criterios DALCO para facilitar la accesibilidad universal
+edificación y en los
+
+espacios de uso público
+
+- Criterios generales
+
+de diseño
+
+NCh3271:2012 Criterios DALCO para facilitar
+
+la accesibilidad universal
 
 2º.- El presente decreto se publicará en el Diario Oficial, y las normas identificadas en él tendrán vigencia a partir de la fecha de dicha publicación. El texto íntegro de las normas será publicado en documento del Instituto Nacional de Normalización.
 

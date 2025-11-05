@@ -14,11 +14,15 @@ puertas y ventanas -
 
 Determinación de la
 
-transmitancia térmica por el
+transmitancia térmica
 
-método de la cámara térmica -
+por el método de la
 
-Parte 1: Puertas y Ventanas.
+cámara térmica -
+
+Parte 1: Puertas y
+
+Ventanas.
 
 NCh 3076/2. Of 2008 Comportamiento térmico de
 
@@ -26,51 +30,45 @@ puertas y ventanas -
 
 Determinación de la
 
-transmitancia térmica por el
+transmitancia térmica
 
-método de la cámara térmica -
+por el método de la
 
-Parte 2: Ventanas de techumbres
+cámara térmica -
 
-y otras ventanas sobresalientes.
+Parte 2: Ventanas de
 
-NCh 3117. Of 2008 Comportamiento térmico de
+techumbres y otras
 
-edificios - Transmisión de calor
+ventanas
 
-por el terreno - Métodos de
+sobresalientes.
+
+NCh 3136/1. Of 2008 Puentes térmicos
+
+en construcción
+
+de edificios - Flujos de
+
+calor y temperaturas de
+
+superficie - Parte 1:
+
+Métodos generales de
 
 cálculo.
 
-NCh 3136/1. Of 2008 Puentes térmicos en construcción
+NCh 3137/1. Of 2008 Comportamiento térmico
 
-de edificios - Flujos de calor y
+de ventanas, puertas y
 
-temperaturas de superficie -
+contraventanas -
 
-Parte 1: Métodos generales de
+Cálculo de transmitancia
 
-cálculo.
-
-NCh 3137/1. Of 2008 Comportamiento térmico de
-
-ventanas, puertas y
-
-contraventanas - Cálculo de
-
-transmitancia térmica - Parte 1:
+térmica - Parte 1:
 
 Generalidades.
-
-NCh 3137/2. Of 2008 Comportamiento térmico de
-
-ventanas, puertas y
-
-contraventanas - Cálculo de
-
-transmitancia térmica - Parte 2:
-
-Método Numérico para marcos.
 
 2°.- El presente decreto se publicará en el Diario Oficial. Las normas en él identificadas tendrán vigencia a partir de la fecha de su publicación. El texto íntegro de cada una de las normas será publicado en documentos oficiales del Instituto Nacional de Normalización.
 
