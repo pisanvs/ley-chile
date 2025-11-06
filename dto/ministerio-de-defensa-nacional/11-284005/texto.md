@@ -326,11 +326,19 @@ b. A las personas seleccionadas por el Jefe de la comisión para ser acuartelada
 
 3) Examen de detección del SIDA
 
-Estos exámenes podrán realizarse al personal seleccionado, una vez que éste sea acuartelado.
+4) Electrocardiograma.
+
+5) Hemograma.
+
+6) Creatinemia
+
+Estos exámenes deberán realizarse a todo el personal seleccionado que sea acuartelado. Una copia de los resultados o informes de los mencionados exámenes se entregará al soldado conscripto examinado bajo constancia escrita de recepción, archivándose dicha constancia conjuntamente con la respectiva Ficha de Control de Selección.
 
 #### Artículo 34
 
 Las Instituciones podrán completar estos exámenes con otros que se estimen necesarios para el particular desempeño del contingente en una determinada Unidad, especialmente en los aspectos psicológicos.
+
+Sin perjuicio de lo anterior, aquel contingente militar que será acuartelado en unidades militares con asiento en zonas del territorio nacional situadas a una altitud igual o superior a 3.000 metros sobre el nivel del mar, o que será sometido a instrucción en zonas territoriales que igualen o superen aquella altitud, deberá ser sometido, en forma previa a su alta o despacho a aquella unidad, a una evaluación pre-ocupacional, de acuerdo a lo dispuesto en la Norma Técnica N° 157, "Guía técnica sobre exposición ocupacional a hipobaria intermitente crónica por gran altitud", aprobada por decreto exento N° 1.113, de 2013, del Ministerio de Salud, o el texto que la reemplace.
 
 Igualmente, realizarán los tests de conocimientos y físicos que estimen necesarios.
 
