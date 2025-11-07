@@ -246,7 +246,7 @@ Con todo, el Serviu podrá eximir de hasta dos de las exigencias señaladas en e
 
 Los montos de subsidio y ahorro mínimo, según el precio de la vivienda, serán los siguientes:
 
-6.1. Regiones de Coquimbo, Valparaíso, Libertador General Bernardo O'Higgins, Maule, Ñuble, Biobío, la Araucanía, Los Ríos, Los Lagos y Metropolitana.
+6.1. Regiones de Coquimbo, Valparaíso, Libertador General Bernardo O'Higgins, Maule, Ñuble, Biobío, La Araucanía, Los Ríos, Los Lagos y Metropolitana.
 
 6.2. Regiones de Arica y Parinacota, de Tarapacá, Antofagasta, Atacama y Provincia de Chiloé.
 
@@ -353,6 +353,8 @@ En casos especiales, en que las empresas soliciten prórroga para la obtención 
 El préstamo deberá ser entregado en tres cuotas; la primera cuota será de un 20% al momento de acreditar el inicio de obras del proyecto, lo que será verificado en terreno por el Serviu; la segunda, será de un 40% una vez que Serviu verifique en terreno que el proyecto cuenta con más de un 25% de avance de las obras; y la tercera cuota por el 40% restante una vez que Serviu verifique en terreno que el proyecto cuenta con más de un 60% de avance de las obras.
 
 13. Para lo no previsto en esta resolución, se aplicarán supletoriamente en lo que corresponda, las normas contenidas en el DS Nº 1 (V. y U.), de 2011.
+
+> **Nota.** El numeral 2.1 del número 2 de la Resolución 1648 Exenta, Vivienda, publicada el 07.11.2025, dispone reemplazar en los numerales 4.2 y 4.5 de la presente resolución, los guarismos "1.200", "1.300" y "1.400", por "1.500", "1.600" y "2.000" respectivamente; los guarismos "1.600", "1.700" y "1.800", por "1.800", "1.900" y "2.400" respectivamente; y los guarismos "2.200" y "2.600" por "2.600" y "2.800" respectivamente.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
 
