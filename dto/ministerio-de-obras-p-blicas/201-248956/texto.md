@@ -354,6 +354,8 @@ la Ruta 60 CH; a través de By Pass
 
 Auco - Los Andes.
 
+. El tramo urbano de la variante de la Ruta 57; a través de: Av. Las Industrias y conexión ruta 57.
+
 San Antonio:
 
 . El tramo urbano de la Ruta G-82,
