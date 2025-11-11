@@ -70,19 +70,35 @@ Asimismo, se requerirá la inscripción de la entidad donante antes de la entreg
 
 A su vez, las instituciones que reciben subvenciones sin estar inscritas en este registro, deberán devolver los fondos recibidos, debidamente reajustados, más el interés máximo convencional vigente, aplicado desde la fecha de su recepción hasta su devolución efectiva.
 
+La Municipalidad, obligada a llevar Registros Institucionales conforme a la ley Nº 19.862, designará a través de un acto administrativo, el/la funcionario/a encargado/a de actuar, a nombre del órgano o servicio respectivo, ante el Registro Central de Colaboradores del Estado.
+
+El o la funcionario/a designado/a para estos efectos estará encargado de mantener actualizada la información relativa al órgano, como, asimismo, la información de las entidades receptoras de fondos públicos a las cuales su institución les haya transferido recursos públicos o les haya otorgado un beneficio o franquicia tributaria.
+
+A este efecto, dentro del plazo de 20 días hábiles siguientes a la dictación del presente oficio circular, los órganos y servicios públicos obligados a llevar registros institucionales deberán remitir a la Subsecretaría de Hacienda copia del acto administrativo que designe su encargado institucional ante el Registro Central de Colaboradores del Estado y Municipalidades. En caso de modificarse dicha designación, los órganos y servicios públicos a que se refiere este numeral deberán enviar en el mismo plazo, desde que la modificación se materialice, el oficio, indicando la nueva designación.
+
 #### Artículo 5º
 
-Corresponderá también a la Secretaría Municipal, remitir oportunamente a la Subsecretaría de Desarrollo Regional los antecedentes requeridos para la formación del Registro Central a cargo de esa Subsecretaría, de las personas jurídicas que reciben fondos de la Municipalidad de Catemu o que efectúen donaciones a ésta.
+Los/as funcionarios/as responsables de acceder al Registro Central, deberán ingresar dentro de los 10 primeros días hábiles de cada mes, las actualizaciones del registro municipal que se hayan verificado en el mes inmediatamente anterior.
+
+El ingreso de esta información podrá verificarse a través de mecanismos de carga masiva, bajo los requerimientos tecnológicos y formatos que la Subsecretaría de Hacienda mantenga en los manuales de operación del Registro Central. Dichos manuales se encuentran en la página https://registros19862.gob.cl/novedades/actualizacion-junio-2025-nuevas-funcionalidades-y-cambios-del registro y en lo que respecta a la carga masiva en:
+
+https://registros19862.gob.cl/novedades/actualizacion-de-cargas-masivas-de-instituciones-receptoras.
 
 Una vez formado el Registro Comunal, se deberán remitir a la Subdere, las nuevas incorporaciones, dentro de los diez días siguientes al acto de registro.
 
-#### Artículo 6º
+> **Nota.** El Decreto 9099, M. de Catemu, publicado el 11.11.2025, modificó el presente artículo mediante la transcripción de su contenido; sin embargo, dicha transcripción abarca únicamente el inciso primero y no la totalidad del texto, por lo que en el presente texto actualizado solo se sustituyó esa parte.
 
-Dentro de los treinta días siguientes a la publicación de la presente ordenanza, la Secretaría Municipal remitirá carta certificada a todas las instituciones que hayan recibido subvenciones o aportes de fondos municipales durante los dos últimos años, y a las juntas de vecinos y demás organizaciones comunitarias funcionales o territoriales inscritas en la comuna de Catemu, dando a conocer la creación del registro, los efectos de la inscripción y los antecedentes necesarios para hacerlo.
+#### Artículo 6º
 
 Recibida una solicitud de inscripción con los antecedentes completos requeridos, se procederá sin más trámite a la inscripción de la institución en el registro, debiendo la Secretaría Municipal emitir un certificado que así lo acredite.
 
 Entre la recepción de los antecedentes completos y el otorgamiento del certificado no podrán mediar más de diez días hábiles.
+
+Recibida una solicitud de inscripción con los antecedentes completos requeridos, se procederá sin más trámite a la inscripción de la institución en el registro, debiendo la Secretaría Municipal emitir un certificado que así lo acredite.
+
+Entre la recepción de los antecedentes completos y el otorgamiento del certificado no podrán mediar más de diez días hábiles.
+
+> **Nota.** El Decreto 9099, M. de Catemu, publicado el 11.11.2025, modificó el presente artículo mediante la transcripción de su contenido; sin embargo, dicha transcripción abarca únicamente el inciso primero y no la totalidad del texto, por lo que en el presente texto actualizado solo se sustituyó esa parte.
 
 #### Artículo 7º
 
@@ -104,7 +120,9 @@ El Registro de Personas Jurídicas Receptoras de Fondos Públicos deberá establ
 
 #### Artículo 11º
 
-La presente ordenanza comenzará a regir a contar del 1º de enero del 2004.
+Eliminado.
+
+> **Nota.** El Decreto 9099, M. de Catemu, publicado el 11.11.2025 dispuso además eliminar "Diario Oficial" y "pies de firmas" lo que no se incrporó al presente texto actualizado, por no resultar clara la parte específica en que debe efectuarse la modificación.
 
 #### Artículo 12º
 
