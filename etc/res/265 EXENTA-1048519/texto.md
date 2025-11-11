@@ -58,6 +58,16 @@ En caso de eventuales interferencias entre concesionarias del servicio que opere
 
 Las concesionarias del servicio que operen en las bandas de frecuencias reguladas en la presente norma, podrán ubicar las radioestaciones terminales de usuario del servicio fijo en cualquier parte de la zona de servicio autorizada y podrán reubicarlas dentro de ella de acuerdo a la demanda, constituyendo radioestaciones móviles para efectos de lo dispuesto en el numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones.
 
+#### Artículo final
+
+Las bandas de frecuencias reguladas por la presente resolución podrán ser empleadas para suministrar el servicio público móvil concesionado a través de satélites para una conectividad directa entre estaciones espaciales y los equipos de usuario de las Telecomunicaciones Móviles Internacionales (IMT), el cual cuenta con categoría de atribución secundaria en el Plan General de Uso del Espectro Radioeléctrico, sin que ello constituya un reemplazo del servicio móvil por medio de transmisión terrestre, ni exima, en ningún caso, a la concesionaria de cumplir con las obligaciones derivadas de las autorizaciones entregadas por el Ministerio y la Subsecretaría, en el marco de las correspondientes concesiones de servicio público móvil que tengan otorgadas.
+
+Para lo anterior, dichas concesionarias deberán solicitar a la Subsecretaría de Telecomunicaciones la respectiva autorización. La solicitud deberá contener, a lo menos, las frecuencias a utilizar, la red de satélites convenida en su caso, y las condiciones técnicas del acuerdo entre el operador satelital y la concesionaria. Esta solicitud se tramitará de acuerdo a las reglas del Título II de la ley. Las concesionarias de servicios móviles terrestres podrán utilizar las frecuencias asignadas en su respectiva concesión para convenir con operadores satelitales la prestación del servicio móvil a través de medios satelitales.
+
+Sólo podrá operar cuando no se encuentre disponible el servicio móvil terrestre de la concesionaria, o el de las concesionarias con las cuales existan acuerdos de roaming, voluntarios u obligatorios, sin perjuicio de la responsabilidad infraccional que corresponda en su caso, y estará sujeto al pago de derecho por el uso del espectro radioeléctrico.
+
+Además, no debe causar interferencias perjudiciales en la operación de la concesionaria móvil terrestre ni en la de otros permisionarios y/o concesionarios. De haberlas, la concesionaria deberá coordinarse con el operador satelital para efectos de eliminarlas, informando siempre a esta Subsecretaría.
+
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo Primero
