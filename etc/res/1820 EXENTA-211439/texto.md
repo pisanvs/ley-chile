@@ -1060,6 +1060,14 @@ Para estos efectos, las postulaciones con la documentación de respaldo en origi
 
 Transitorio: Durante el año 2025 y para participar en el 35° Proceso de Selección de Proyectos, las fechas de recepción de postulaciones de Comités de Pavimentación a través y con el respaldo Municipal en los Servicios de Vivienda y Urbanización y en las Secretarías Regionales Ministeriales del país, serán instruidas e informadas por la Subsecretaria de Vivienda y Urbanismo.
 
+#### Artículo 40°
+
+Transitorio: En las regiones o comunas del país con decreto vigente de "Zonas Afectadas por Catástrofe", para el 35° Proceso de Selección de Proyectos de Comités de Pavimentación, las Secretarías Regionales Ministeriales de Vivienda y Urbanismo respectivas podrán otorgar flexibilidades y coordinar con las respectivas Municipalidades el ingreso de las carpetas de postulación ante las primeras, que contengan la documentación de respaldo en original, la cual es un requisito de postulación al Programa de Pavimentación Participativa.
+
+Sin embargo, en estas regiones o comunas, las solicitudes de inscripción para postular conforme al Programa de Pavimentación Participativa deberán ser ingresadas al sistema informático existente para estos efectos, como también la documentación requerida o de respaldo, especificadas en el inciso primero y en el inciso final del resuelvo 3° de la resolución exenta N° 1.820 (V. y U.), del 2003, no siendo necesario en este Llamado el ingreso a la oficina de partes de la Secretaría Regional Ministerial de la postulación y respectiva carpeta con la documentación de respaldo en original.
+
+Para estos efectos, las postulaciones con la documentación de respaldo en original deberán ser resguardadas por la Municipalidad y con posterioridad a este Llamado ingresada a la Secretaría Regional Ministerial de Vivienda y Urbanismo, según coordinación regional. La Municipalidad deberá ingresar a la oficina de partes o a la oficina de partes electrónica (o dirección electrónica) de la Secretaría Regional Ministerial de Vivienda y Urbanismo que corresponda, a más tardar en la fecha de cierre de recepción de postulaciones, el oficio conductor del Alcalde al Secretario Regional Ministerial con su postulación, para los efectos de contabilizar la fecha de ingreso para efectos de su validación y determinación del puntaje por este factor.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
