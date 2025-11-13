@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1
 
-Prorrógase por cinco años, a contar de la fecha de su expiración, la vigencia de la ley Nº 20.867, que suspende por el plazo de cinco años la inscripción de taxis en el Registro Nacional de Servicios de Transporte de Pasajeros.
+Prorrógase por diez años, a contar de la fecha de su expiración, la vigencia de la ley Nº 20.867, que suspende por el plazo de cinco años la inscripción de taxis en el Registro Nacional de Servicios de Transporte de Pasajeros.
 
 Durante este periodo, facúltase al Ministerio de Transportes y Telecomunicaciones para que, en casos calificados técnicamente de acuerdo al reglamento, pueda autorizar nuevas inscripciones en el Registro Nacional de Servicios de Transporte de Pasajeros.
 
