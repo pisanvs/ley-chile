@@ -26,27 +26,27 @@ Resuelvo :
 
 a) Tarifa Servicios Puros:
 
-Tarifa Buses Adulto $750 (setecientos cincuenta pesos)
+Tarifa Buses Adulto $770 (setecientos setenta pesos)
 
-Tarifa Metro Valle $770 (setecientos setenta pesos)
+Tarifa Metro Valle $790 (setecientos noventa pesos)
 
-Tarifa Metro Periodo Punta $850 (ochocientos cincuenta pesos)
+Tarifa Metro Periodo Punta $870 (ochocientos setenta pesos)
 
-Tarifa Metro Baja $690 (seiscientos noventa pesos)
+Tarifa Metro Baja $710 (setecientos diez pesos)
 
-Tarifa Trenes Valle $770 (setecientos setenta pesos)
+Tarifa Trenes Valle $790 (setecientos noventa pesos)
 
-Tarifa Trenes Periodo Punta $850 (ochocientos cincuenta pesos)
+Tarifa Trenes Periodo Punta $870 (ochocientos setenta pesos)
 
-Tarifa Trenes Baja $690 (seiscientos noventa pesos)
+Tarifa Trenes Baja $710 (setecientos diez pesos)
 
 Escolar Sup. y Media Buses $250 (doscientos cincuenta pesos)
 
-Escolar Sup. y Media Metro
+Escolar Sup. y Media Metro y
 
-y Trenes Periodo Punta,
+Trenes Período Punta, Baja y
 
-Baja y Valle $250 (doscientos cincuenta pesos)
+Valle $250 (doscientos cincuenta pesos)
 
 Escolar Básica $0
 
@@ -161,6 +161,22 @@ de 24 de noviembre de
 2024, para todo contrato y
 
 etapa de viaje.
+
+Tarifa de Metro Elecciones de $0
+
+16 de noviembre de 2025,
+
+para todo contrato y
+
+etapa de viaje
+
+Tarifa de Trenes Elecciones $0
+
+de 16 de noviembre de 2025,
+
+para todo contrato y
+
+etapa de viaje
 
 Los valores contenidos en la presente tabla serán los que sirvan de base para la aplicación del procedimiento de ajuste de tarifas, contenido en el Artículo 14 literal a) de la ley N° 20.378 y el decreto supremo N° 140, de 2009, del Ministerio de Transportes y Telecomunicaciones, y del procedimiento de determinación de nivel de tarifas establecido en el artículo 14 literal c) y artículo 15 de la ley N° 20.378.
 
