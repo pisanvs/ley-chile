@@ -1,4 +1,4 @@
-OTORGA A EMPRESA ELÉCTRICA PILMAIQUÉN S.A. CONCESIÓN DEFINITIVA PARA ESTABLECER LA "LÍNEA DE TRANSMISIÓN ELÉCTRICA RUCATAYO - BARRO BLANCO" EN LAS REGIONES DE LOS LAGOS Y DE LOS RÍOS, PROVINCIAS DEL RANCO Y OSORNO, COMUNAS DE RÍO BUENO, PUYEHUE, SAN PABLO Y OSORNO
+OTORGA A TRANSRUCATAYO S.A. CONCESIÓN DEFINITIVA PARA ESTABLECER LA "LÍNEA DE TRANSMISIÓN ELÉCTRICA RUCATAYO - BARRO BLANCO" EN LAS REGIONES DE LOS LAGOS Y DE LOS RÍOS, PROVINCIAS DEL RANCO Y OSORNO, COMUNAS DE RÍO BUENO, PUYEHUE, SAN PABLO Y OSORNO
 
 Núm. 3.- Santiago, 14 de enero de 2011.- Visto: Lo informado por la Superintendencia de Electricidad y Combustibles en sus oficios ordinarios Nº 304 / ACC 556338 / DOC 328976 y Nº 305 / ACC 556330 / DOC 328969, ambos de fecha 13 de enero de 2011, por la Dirección Nacional de Fronteras y Límites del Estado, a través de RR.EE. (Difrol) Of. Público Nº F-1263, de fecha 21 de octubre de 2008; lo dispuesto en los artículos 11 y 29 del DFL Nº 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del DFL Nº 1, de 1982, del Ministerio de Minería, en adelante, Ley General de Servicios Eléctricos, y sus modificaciones posteriores; en la leyes Nº 18.410 y Nº 20.402; en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
 
@@ -12,7 +12,7 @@ Decreto:
 
 #### Artículo 1º
 
-Otórgase a Empresa Eléctrica Pilmaiquén S.A., concesión definitiva para establecer en la Región de Los Lagos y en la Región de Los Ríos, provincias del Ranco y Osorno, comunas de Río Bueno, Puyehue, San Pablo y Osorno, una línea de transmisión de energía eléctrica que se denominará "Línea de Transmisión Eléctrica Rucatayo-Barro Blanco" y cuyo trazado se describe en los planos de planta general Nos LT 17-42-601, LT 17-42-602, LT 17-42-603, LT 17-42-604, LT 17-42-605, LT 17-42-607, LT 17-42-608, LT 17-42-609 y LT 17-42-610.
+Otórgase a Transrucatayo S.A., concesión definitiva para establecer en la Región de Los Lagos y en la Región de Los Ríos, provincias del Ranco y Osorno, comunas de Río Bueno, Puyehue, San Pablo y Osorno, una línea de transmisión de energía eléctrica que se denominará "Línea de Transmisión Eléctrica Rucatayo-Barro Blanco" y cuyo trazado se describe en los planos de planta general Nos LT 17-42-601, LT 17-42-602, LT 17-42-603, LT 17-42-604, LT 17-42-605, LT 17-42-607, LT 17-42-608, LT 17-42-609 y LT 17-42-610.
 
 #### Artículo 2º
 
