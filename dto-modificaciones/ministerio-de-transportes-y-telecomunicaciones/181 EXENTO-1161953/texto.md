@@ -34,6 +34,12 @@ Modifícase la concesión de Servicio Intermedio de Telecomunicaciones, que úni
 
 Para la Región Metropolitana de Santiago:
 
+D.E.: Decreto Exento.
+
+D.S.: Decreto Supremo.
+
+Las direcciones, plazos y demás características técnicas, permanecerán inalterables, de conformidad al acto Autorizatorio señalado precedentemente.
+
 Las características técnicas de la instalación corresponden a torres soporte de antenas y sistemas radiantes conforme ya fueron autorizados. Dado que las mismas ya se encuentran instaladas no existen plazos involucrados.
 
 2. Apruébase el proyecto técnico base de la solicitud presentado por la concesionaria, conforme a las disposiciones técnico-legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
