@@ -68,7 +68,7 @@ d.- Naves de madera de construcción primitiva.
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-1.- Arqueo bruto: El registrado como tal, o como tonelaje de registro grueso, en los pertinentes certificados de la nave emitidos por la Autoridad Marítima competente.
+1.- Arqueo bruto: Es la expresión del tamaño total de una nave, que se determina en base al volumen total de todos sus espacios cerrados.
 
 2.- Artefacto naval: Es todo aquel que, no estando construido para navegar cumple en el agua funciones de complemento o de apoyo a las actividades marítimas, fluviales o lacustres o de extracción de recursos, tales como diques, grúas, plataformas fijas o flotantes, balsas u otros similares. No se incluyen en este concepto las obras portuarias, aunque se internen en el agua.
 
@@ -318,13 +318,155 @@ ATRIBUCIONES QUE CONFIEREN LOS TITULOS
 
 Los títulos de Capitán de Alta Mar y de oficiales de cubierta facultan a su titular para desempeñarse en los cargos y ejercer las atribuciones que se indican a continuación, en navegación marítima nacional e internacional:
 
-.
+a.- Título: Capitán de Alta Mar
+
+Nivel de gestión: - Capitán o primer oficial de cubierta en cualquier tipo de naves sin limitación de arqueo bruto.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves sin limitación de arqueo bruto.
+
+b.- Título: Piloto Primero
+
+Nivel de gestión: - Capitán en cualquier tipo de naves de arqueo bruto de hasta 3.000.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 4.000, solo en navegación marítima nacional.
+
+- Primer oficial de cubierta en cualquier tipo de naves sin limitación de arqueo bruto.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves sin limitación de arqueo bruto.
+
+c.- Título: Piloto Segundo
+
+Nivel de gestión: - Capitán en cualquier tipo de naves de arqueo bruto de hasta 2.000.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 3.000, solo en navegación marítima nacional.
+
+- Capitán de remolcador de arqueo bruto de hasta 2.000, con servicio de remolque.
+
+- Primer oficial de cubierta en cualquier tipo de naves de arqueo bruto de hasta 4.000.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves sin limitación de arqueo bruto.
+
+d.- Título: Piloto Tercero
+
+Nivel de gestión: - Capitán en cualquier tipo de naves de arqueo bruto de hasta 1.000, excepto remolcadores con servicio de remolque, debiendo acreditar seis meses de embarco, en posesión del título de piloto tercero, o haber ejercido el cargo de capitán de naves de arqueo bruto no inferior a 1.000, en posesión del título de Capitán Costero Superior, durante el mismo período.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 2.000, solo en navegación marítima nacional, excepto remolcadores con servicio de remolque, debiendo acreditar seis meses de embarco, en posesión del título de Piloto Tercero, o haber ejercido el cargo de Capitán de naves de arqueo bruto no inferior a 1.000, en posesión del título de Capitán Costero Superior, durante el mismo período.
+
+- Capitán de remolcador de arqueo bruto de hasta 1.000, sin servicio de remolque, sin necesidad de acreditar el período de embarco o ejercicio del cargo de capitán señalado precedentemente.
+
+- Primer oficial de cubierta en cualquier tipo de naves de arqueo bruto de hasta 3.000.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves sin limitación de arqueo bruto.
+
+e.- Título: Capitán Costero Superior
+
+Nivel de gestión: - Capitán en cualquier tipo de naves de arqueo bruto de hasta 2.000, en navegación próxima a la costa.
+
+- Capitán en remolcadores con servicio de remolque, en navegación próxima a la costa.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 3.000, en navegación próxima a la costa, habiendo acreditado previamente un embarco efectivo de veinticuatro meses, como Capitán en cualquier tipo de naves de arqueo bruto igual o superior a 1.500.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 2.500, en navegación próxima a la costa, habiendo acreditado previamente un embarco efectivo de veinticuatro meses, como Capitán en cualquier tipo de naves de arqueo bruto igual o superior a 500.
+
+- Primer oficial de cubierta en cualquier tipo de naves de arqueo bruto de hasta 3.000, en navegación próxima a la costa.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves sin limitación de arqueo bruto, en navegación próxima a la costa.
+
+f.- Título: Capitán Costero
+
+Nivel de gestión: - Capitán en cualquier tipo de naves de arqueo bruto de hasta 1.000, en navegación próxima a la costa, excepto remolcadores con servicio de remolque.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 2.000, en navegación próxima a la costa, habiendo acreditado previamente un embarco efectivo de dieciocho meses como Capitán en cualquier tipo de nave de arqueo bruto igual o superior a 1.000.
+
+- Primer oficial de cubierta en cualquier tipo de naves de arqueo bruto de hasta 2.000, en navegación próxima a la costa.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves de arqueo bruto de hasta 3.000, en navegación próxima a la costa.
+
+g.- Título: Piloto Costero
+
+Nivel de gestión: - Capitán en cualquier tipo de naves de arqueo bruto de hasta 500, en navegación próxima a la costa, excepto remolcadores con servicio de remolque, debiendo acreditar previamente doce meses de embarco, en posesión del título de Piloto Costero.
+
+- Capitán en cualquier tipo de naves de arqueo bruto de hasta 1.000, en navegación próxima a la costa, habiendo acreditado previamente un embarco efectivo de dieciocho meses como Capitán en cualquier tipo de nave de arqueo bruto igual o superior a 500.
+
+- Capitán de remolcador de arqueo bruto de hasta 500, sin servicio de remolque, en navegación próxima a la costa, sin necesidad de acreditar el período de embarco señalado precedentemente.
+
+- Primer oficial de cubierta en cualquier tipo de naves de arqueo bruto de hasta 1.000, en navegación próxima a la costa.
+
+Nivel operacional: - Oficial de guardia de navegación en cualquier tipo de naves de arqueo bruto de hasta 2.000, en navegación próxima a la costa.
 
 #### Artículo 15º
 
 Los títulos de los oficiales de máquinas facultan a su titular para desempeñarse en los cargos y ejercer las atribuciones que se indican a continuación, en navegación marítima nacional e internacional:
 
-.
+a.- Título: Ingeniero Jefe de Máquinas
+
+Nivel de Gestión: - Jefe de máquinas o primer oficial de máquinas, en cualquier tipo de naves, sin limitación de kilovatios de potencia propulsora.
+
+Nivel Operacional: - Oficial de guardia en cámaras de máquinas, en cualquier tipo de naves, sin limitación de kilovatios de potencia propulsora.
+
+b.- Título: Ingeniero Primero
+
+Nivel de Gestión: - Jefe de máquinas, en naves mercantes de hasta 5.000 kilovatios de potencia propulsora.
+
+- Jefe de máquinas, en naves especiales sin limitación de kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en cualquier tipo de naves, sin limitación de kilovatios de potencia propulsora.
+
+Nivel Operacional: - Oficial de guardia en cámaras de máquinas, en cualquier tipo de naves, sin limitación de kilovatios de potencia propulsora.
+
+c.- Título: Ingeniero Segundo
+
+Nivel de Gestión: - Jefe de máquinas, en naves mercantes de hasta 3.000 kilovatios de potencia propulsora.
+
+- Jefe de máquinas y primer oficial de máquinas, en naves especiales sin limitación de kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves mercantes de hasta 3.500 kilovatios de potencia propulsora.
+
+Nivel Operacional: - Oficial de guardia en cámaras de máquinas, en cualquier tipo de naves, sin limitación de kilovatios de potencia propulsora.
+
+d.- Título: Ingeniero Tercero
+
+Nivel de Gestión: - Jefe de máquinas, en naves mercantes de hasta 2.500 kilovatios de potencia propulsora, debiendo acreditar doce meses de embarco en posesión del título de Ingeniero Tercero, o haber ejercido como Jefe de Máquinas en naves especiales de no menos de 2.000 kilovatios de potencia propulsora, en posesión del título de Motorista Primero, durante el mismo período.
+
+- Jefe de máquinas, en naves especiales de hasta 9.000 kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves mercantes de hasta 2.800 kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves especiales sin limitación de kilovatios de potencia propulsora.
+
+Nivel Operacional: - Oficial de guardia en cámaras de máquinas, en cualquier tipo de naves, sin limitación de kilovatios de potencia propulsora.
+
+e.- Título: Motorista Primero
+
+Nivel de Gestión: - Jefe de máquinas, en naves mercantes de hasta 2.000 kilovatios de potencia propulsora.
+
+- Jefe de máquinas, en naves especiales de hasta 7.000 kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves mercantes de hasta 2.400 kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves especiales sin limitación de kilovatios de potencia propulsora.
+
+Nivel Operacional: - Oficial de guardia en cámaras de máquinas, en naves mercantes de hasta 3.000 kilovatios de potencia propulsora.
+
+- Oficial de guardia en cámaras de máquinas, en naves especiales sin limitación de kilovatios de potencia propulsora.
+
+f.- Título: Motorista Segundo
+
+Nivel de Gestión: - Jefe de máquinas, en naves mercantes de hasta 1.500 kilovatios de potencia propulsora, debiendo acreditar previamente doce meses de embarco, en posesión del título de Motorista Segundo.
+
+- Jefe de máquinas, en naves especiales de hasta 2.000 kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves mercantes de hasta 2.000 kilovatios de potencia propulsora.
+
+- Primer oficial de máquinas, en naves especiales de hasta 4.000 kilovatios de potencia propulsora.
+
+Nivel Operacional: - Oficial de guardia en cámaras de máquinas, en naves mercantes de hasta 2.500 kilovatios de potencia propulsora.
+
+- Oficial de guardia en cámaras de máquinas, en naves especiales sin limitación de kilovatios de potencia propulsora.
+
+g.- Título: Oficial Electrotécnico
+
+Nivel Operacional: - Oficial a cargo de la operación, supervisión del funcionamiento, mantenimiento y reparación de los sistemas eléctricos, electrónicos y de control en cualquier tipo de naves.
 
 #### Artículo 16º
 
@@ -342,41 +484,89 @@ El Director General podrá, en casos calificados y mediante resolución fundada,
 
 Los títulos de los tripulantes de cubierta de nave mayor facultan a su titular para desempeñarse en los cargos y ejercer las atribuciones que se indican a continuación, en navegación marítima nacional e internacional:
 
-a.- Título: Tripulante de
+a.- Título: Tripulante
 
-Primera de Puente
+de Primera de Puente
 
-Nivel de apoyo: - Todos los cargos de cubierta, prestando apoyo relativo a la operación
+Nivel de apoyo: - Todos los cargos de
 
-segura de la nave, al capitán, oficial de guardia y demás oficiales
+cubierta, prestando
 
-de cubierta, en aspectos vinculados con navegación, maniobras,
+apoyo relativo a
 
-manipulación de la carga, prevención de riesgos, prevención de la
+la operación segura
 
-contaminación del medio marino, mantenimiento y reparación de equipos,
+de la nave, al
 
-en cualquier clase de naves.
+capitán, oficial de
 
-b.- Título: Tripulante de
+guardia y demás
 
-la Guardia de
+oficiales de cubierta,
+
+en aspectos
+
+vinculados con
+
+navegación,
+
+maniobras,
+
+manipulación
+
+de la carga,
+
+prevención
+
+de riesgos,
+
+prevención
+
+de la contaminación
+
+del medio marino,
+
+mantenimiento y
+
+reparación de equipos,
+
+en cualquier clase de
+
+naves.
+
+b.- Título: Tripulante
+
+de la Guardia de
 
 Navegación
 
-Nivel de apoyo: - Cargos pertenecientes a la guardia de puente o navegación, en
+Nivel de apoyo: - Cargos pertenecientes
 
-cualquier clase de naves.
+a la guardia de puente
+
+o navegación, en
+
+cualquier
+
+clase de naves.
 
 c.- Título: Tripulante
 
 General de Cubierta
 
-Nivel de apoyo: - Cargos de cubierta en cualquier clase de naves, con excepción
+Nivel de apoyo: - Cargos de cubierta en
 
-a las de apoyo directo al capitán y oficiales de cubierta y a las
+cualquier clase de
 
-pertenecientes a la guardia de navegación.
+naves. Podrán desempeñarse
+
+como Timonel en navegación
+
+próxima a la costa, previa
+
+evaluación de
+
+competencia.
 
 Asimismo, quienes se encuentren en posesión de cualquiera de los títulos citados precedentemente, podrán ejercer las atribuciones que confiere el título de Tripulante de Cubierta de Nave Menor. No obstante, para optar a títulos superiores, sólo será válido el tiempo de embarco en naves superiores a 25 de arqueo bruto.
 
@@ -444,15 +634,15 @@ en cualquier clase de naves.
 
 #### Artículo 20º
 
-El título de Patrón de Nave Menor habilita a su titular para ejercer el cargo de Patrón o para desempeñarse como tripulante de cubierta de naves de hasta 50 de arqueo bruto, en navegación marítima nacional, próxima a la costa.
+El título de Patrón de Nave Menor habilita a su titular para ejercer el cargo de Patrón o para desempeñarse como tripulante de cubierta de naves de hasta 100 de arqueo bruto, en navegación marítima nacional, próxima a la costa.
 
 #### Artículo 21º
 
-El título de Tripulante de Cubierta de Nave Menor habilita a su titular para desempeñarse como tripulante de cubierta de naves de hasta 50 de arqueo bruto y para ejercer el cargo de Patrón y/o operar las máquinas de naves de hasta 25 de arqueo bruto, en navegación marítima nacional, próxima a la costa.
+El título de Tripulante de Cubierta de Nave Menor habilita a su titular para desempeñarse como tripulante de cubierta de naves de hasta 100 de arqueo bruto y para ejercer el cargo de Patrón y/o operar las máquinas de naves de hasta 25 de arqueo bruto, en navegación marítima nacional, próxima a la costa.
 
 #### Artículo 22º
 
-El título de Tripulante de Máquinas de Nave Menor habilita a su titular para ejercer la jefatura de máquinas o para desempeñarse como tripulante de máquinas de naves de hasta 50 de arqueo bruto, en navegación marítima nacional, próxima a la costa.
+El título de Tripulante de Máquinas de Nave Menor habilita a su titular para ejercer la jefatura de máquinas o para desempeñarse como tripulante de máquinas de naves de hasta 100 de arqueo bruto, en navegación marítima nacional, próxima a la costa.
 
 #### Artículo 23º
 
@@ -470,13 +660,13 @@ DE LA FORMACIÓN Y DESARROLLO DE LA CARRERA PROFESIONAL
 
 #### Artículo 25º
 
-La formación de los oficiales se impartirá en las Instituciones de educación superior del Estado o reconocidas por éste, mediante planes y programas de estudio que cuenten con la aprobación previa de la Dirección General.
+La formación de los oficiales para la obtención de títulos nacionales e internacionales, se impartirá en las Instituciones de educación superior del Estado o reconocidas por éste, mediante planes y programas de estudio que cuenten con la aprobación previa de la Dirección General.
 
-La formación de los tripulantes de naves mayores, así como la del patrón y tripulantes de naves menores, se realizará mediante cursos dictados por las mismas Instituciones señaladas en el artículo anterior, como también en establecimientos de educación media técnico profesional u organismos técnicos de capacitación, cuyos respectivos planes y programas cuenten con la aprobación de la Dirección General.
+La formación de los tripulantes de naves mayores, así como la del patrón y tripulantes de naves menores, se realizará mediante cursos dictados por las mismas Instituciones señaladas en el inciso anterior, como también en establecimientos de educación media técnico profesional u organismos técnicos de capacitación, cuyos respectivos planes y programas cuenten con la aprobación de la Dirección General.
 
 #### Artículo 26º
 
-La escolaridad mínima de los postulantes a cursos de formación para oficiales, para Patrón de Nave Menor, para tripulantes de naves mayores y menores, será la de egresado de enseñanza media, salvo el caso de quienes estén cursando enseñanza media técnico profesional, en la que se les imparta formación específica de tripulante.
+La escolaridad mínima de los postulantes a cursos de formación para oficiales, para Patrón de Nave Menor, para tripulantes de naves mayores y menores, será poseer licencia de educación media, salvo el caso de quienes estén cursando enseñanza media técnico profesional, en la que se les imparta formación específica de tripulante.
 
 #### Artículo 27º
 
@@ -552,23 +742,35 @@ c.- Para Piloto Segundo:
 
 d.- Para Piloto Tercero:
 
-1.- i.- Aprobar una instrucción teórica básica de ocho semestres lectivos de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo con las materias, programas y curso modelo OMI;
 
-ii.- Cumplir un año de embarco, en calidad de aspirante a oficial; y
+ii.- Cumplir un año de embarco, en calidad de aspirante a oficial para título internacional, y de seis meses para título nacional; y
 
 iii.- Aprobar la respectiva evaluación de competencia, o
 
-2.- i.- Acreditar 24 meses de embarco en posesión del título de Capitán Costero Superior, desempeñando el cargo de Capitán, o como primer oficial de cubierta u oficial de guardia de navegación, de acuerdo a sus atribuciones;
+2.- i.- Acreditar doce meses de embarco en posesión del título de Capitán Costero Superior, desempeñando el cargo de Capitán, o como primer oficial de cubierta u oficial de guardia de navegación, de acuerdo a sus atribuciones;
 
 ii.- Aprobar los cursos que establezca la Dirección General, y
 
 iii.- Aprobar la respectiva evaluación de competencia, o
 
-3.- i.- Acreditar 48 meses de embarco como Tripulante de Primera de Puente o Tripulante de la Guardia de Navegación, en naves de arqueo bruto igual o mayor de 1.000;
+3.- i.- Acreditar dieciocho meses de embarco en posesión del título de Capitán Costero, desempeñando el cargo de Capitán, o como primer oficial de cubierta u oficial de guardia de navegación, de acuerdo a sus atribuciones;
 
 ii.- Aprobar los cursos que establezca la Dirección General, una vez cumplido el requisito anterior; y
 
-iii.- Aprobar la respectiva evaluación de competencia
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+4.- i.- Acreditar veinticuatro meses de embarco efectivo en posesión del título de Piloto Costero, desempeñando el cargo de Capitán, o como primer oficial de cubierta u oficial de guardia de navegación, de acuerdo a sus atribuciones;
+
+ii.- Aprobar los cursos que establezca la Dirección General, una vez cumplido el requisito anterior, y
+
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+5.- i.- Acreditar treinta y seis meses de embarco como Tripulante de Primera de Puente o Tripulante de la Guardia de Navegación, en naves de arqueo bruto igual o mayor de 1.000;
+
+ii.- Aprobar los cursos que establezca la Dirección General, una vez cumplido el requisito anterior; y
+
+iii.- Aprobar la respectiva evaluación de competencia.
 
 e.- Para Capitán Costero Superior:
 
@@ -588,13 +790,13 @@ f.- Para Capitán Costero:
 
 g.- Para Piloto Costero:
 
-1.- i.- Aprobar una instrucción teórica básica de cuatro semestres lectivos de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y curso que establezca la Dirección General;
 
-ii.- Cumplir un año de embarco, en calidad de aspirante a oficial; y
+ii.- Cumplir tres meses de embarco, en calidad de aspirante a oficial; y
 
 iii.- Aprobar la respectiva evaluación de competencia, o
 
-2.-i.- Acreditar 24 meses de embarco como Tripulante de Primera de Puente, o Tripulante de la Guardia de Navegación, en posesión del respectivo título, o como Patrón de Nave Menor, acreditando 18 meses de embarco en posesión del respectivo título, desempeñando el cargo de Patrón de naves mayores de 25 de arqueo bruto, y
+2.- i.- Acreditar dieciocho meses de embarco como Tripulante de Primera de Puente, o Tripulante de la Guardia de Navegación, o Tripulante General de Cubierta, en posesión del respectivo título, o como Patrón de Nave Menor, acreditando dieciocho meses de embarco en posesión del respectivo título, desempeñando el cargo de Patrón de naves mayores de 25 de arqueo bruto, y
 
 ii.- Aprobar los cursos que establezca la Dirección General, una vez cumplido el requisito anterior; y
 
@@ -610,15 +812,21 @@ h.- Para Tripulante de Primera de Puente:
 
 i.- Para Tripulante de la Guardia de Navegación:
 
-1.- Acreditar 2 meses de embarco en naves mayores, en posesión del título de Tripulante General de Cubierta;
+1.- i.- Acreditar dos meses de embarco en naves mayores, en posesión del título de Tripulante General de Cubierta;
 
-2.- Aprobar los cursos que establezca la Dirección General; y
+ii.- Aprobar los cursos que establezca la Dirección General; y
 
-3.- Aprobar la respectiva evaluación de competencia.
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+2.- i.- Poseer licencia de enseñanza media de una Escuela Técnico-Profesional del Estado o reconocida por este;
+
+ii.- Cumplir dos meses de embarco, en calidad de aspirante a tripulante; y
+
+iii.- Aprobar la respectiva evaluación de competencia.
 
 j.- Para Tripulante General de Cubierta:
 
-1.- i.- Aprobar una instrucción teórica básica de dos semestres lectivos de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y curso que establezca la Dirección General;
 
 ii.- Cumplir dos meses de embarco, en calidad de aspirante a tripulante; y
 
@@ -688,21 +896,33 @@ c.- Para Ingeniero Segundo:
 
 d.- Para Ingeniero Tercero:
 
-1. i.- Aprobar una instrucción teórica básica de ocho semestres lectivos de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y curso modelo OMI;
 
 ii.- Cumplir seis meses de embarco, en calidad de aspirante a oficial; y
 
 iii.- Aprobar la respectiva evaluación de competencia, o
 
-2.- i.- Acreditar 24 meses de embarco en posesión del título de Motorista Primero, desempeñándose como jefe de máquinas, primer oficial de máquinas u oficial de guardia en cámaras de máquinas, de acuerdo a sus atribuciones;
+2.- i.- Acreditar dieciocho meses de embarco en posesión del título de Motorista Primero, desempeñándose como jefe de máquinas, primer oficial de máquinas u oficial de guardia en cámaras de máquinas, de acuerdo a sus atribuciones;
 
 ii.- Aprobar los cursos que establezca la Dirección General; y
 
 iii.- Aprobar la respectiva evaluación de competencia, o
 
-3.- i.- Acreditar 36 meses de embarco como Tripulante de Primera de Máquinas o Tripulante de la Guardia de Máquinas, en naves mayores de 1.800 kilovatios;
+3.- i.- Acreditar veinticuatro meses de embarco en posesión del título de Motorista Segundo, desempeñándose como jefe de máquinas, primer oficial de máquinas u oficial de guardia en cámaras de máquinas, de acuerdo a sus atribuciones;
+
+ii.- Aprobar los cursos que establezca la Dirección General; y
+
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+4.- i.- Acreditar treinta y seis meses de embarco como Tripulante de Primera de Máquinas o Tripulante de la Guardia de Máquinas o Tripulante General de Máquinas, en naves mayores de 1.800 kilovatios;
 
 ii.- Aprobar los cursos que establezca la Dirección General, una vez cumplido el requisito anterior; y
+
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+5.- i.- Egresados de instituciones de Educación Superior del Estado o reconocidas por este, como Ingenieros Mecánicos o afines;
+
+ii.- Cumplir seis meses de embarco, en calidad de aspirante a oficial; y
 
 iii.- Aprobar la respectiva evaluación de competencia.
 
@@ -716,15 +936,21 @@ e.- Para Motorista Primero:
 
 f.- Para Motorista Segundo:
 
-1.- i.- Aprobar una instrucción teórica básica de cuatro semestres lectivos de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y curso modelo OMI;
 
-ii.- Cumplir seis meses de embarco, en calidad de aspirante a oficial; y
+ii.- Cumplir tres meses de embarco, en calidad de aspirante a oficial; y
 
 iii.- Aprobar la respectiva evaluación de competencia, o
 
-2.-i.- Acreditar 18 meses de embarco como Tripulante de Primera de Máquinas o Tripulante de la Guardia de Máquinas, en posesión del respectivo título, o como Tripulante de Máquinas de Nave Menor, acreditando 12 meses de embarco en posesión del respectivo título, ejerciendo la jefatura de máquinas de naves mayores de 25 de arqueo bruto, y
+2.-i.- Acreditar seis meses de embarco como Tripulante de Primera de Máquinas o Tripulante de la Guardia de Máquinas, en posesión del respectivo título, o como Tripulante de Máquinas de Nave Menor, acreditando doce meses de embarco en posesión del respectivo título, ejerciendo la jefatura de máquinas de naves mayores de 25 de arqueo bruto, y
 
 ii.- Aprobar los cursos que establezca la Dirección General, una vez cumplido el requisito anterior; y
+
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+3.- i.- Egresados de Institutos Profesionales reconocidos por el Estado o Centros de Formación Técnica del Estado, o reconocidos por este, como Técnico Nivel Superior en Mecánica o afines;
+
+ii.- Cumplir seis meses de embarco, en calidad de aspirante a oficial; y
 
 iii.- Aprobar la respectiva evaluación de competencia.
 
@@ -752,15 +978,21 @@ h.- Para Tripulante de Primera de Máquinas:
 
 i.- Para Tripulante de la Guardia de Máquinas:
 
-1.- Acreditar 2 meses de embarco en naves mayores, en posesión del título de Tripulante General de Máquinas;
+1.- i.- Acreditar dos meses de embarco en naves mayores, en posesión del título de Tripulante General de Máquinas;
 
-2.- Aprobar los cursos que establezca la Dirección General; y
+ii.- Aprobar los cursos que establezca la Dirección General; y
 
-3.- Aprobar la respectiva evaluación de competencia.
+iii.- Aprobar la respectiva evaluación de competencia, o
+
+2.- i.- Poseer licencia de enseñanza media de una Escuela Técnico-Profesional del Estado o reconocida por este;
+
+ii.- Cumplir dos meses de embarco, en calidad de aspirante a tripulante; y
+
+iii.- Aprobar la respectiva evaluación de competencia.
 
 j.- Para Tripulante General de Máquinas:
 
-1.- i.- Aprobar una instrucción teórica básica de dos semestres lectivos de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y cursos que establezca la Dirección General;
 
 ii.- Cumplir dos meses de embarco, en calidad de aspirante a tripulante; y
 
@@ -772,9 +1004,9 @@ ii.- Aprobar la respectiva evaluación de competencia.
 
 k.- Para Tripulante Electrotécnico:
 
-1.- i.- Aprobar una instrucción teórica básica de un semestre lectivo de duración;
+1.- i.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y curso modelo OMI;
 
-ii.- Cumplir seis meses de embarco, en calidad de aspirante a tripulante electrotécnico; y
+ii.- Cumplir tres meses de embarco, en calidad de aspirante a tripulante electrotécnico; y
 
 iii.- Aprobar la respectiva evaluación de competencia.
 
@@ -800,9 +1032,9 @@ a.- Para Radioelectrónico Primero:
 
 b.- Para Radioelectrónico Segundo:
 
-1.- Aprobar una instrucción teórica básica de seis semestres lectivos de duración;
+1.- Aprobar una instrucción teórica básica de acuerdo a las materias, programas y curso modelo OMI;
 
-2.- Cumplir seis meses de embarco, en calidad de aspirante a oficial; y
+2.- Cumplir tres meses de embarco, en calidad de aspirante a oficial; y
 
 3.- Aprobar la respectiva evaluación de competencia.
 
@@ -824,11 +1056,9 @@ Para acceder al correspondiente certificado de título internacional, la gente d
 
 Para los tripulantes, los certificados de título internacional que corresponda otorgar, serán los que se indican en la siguiente tabla:
 
-.
-
 #### Artículo 40º
 
-Para los efectos del cómputo del tiempo de embarco exigido en el presente Reglamento, se considerará la suma de los períodos transcurridos entre la fecha de cada embarco y el siguiente desembarco, ambas inclusive, de acuerdo con lo registrado en la Libreta de Embarco. El cómputo del tiempo de embarco se expresará en meses calendario de 30 días.
+Para los efectos del cómputo del tiempo de embarco exigido en el presente Reglamento, se considerará la suma de los períodos transcurridos entre la fecha de cada embarco y el siguiente desembarco, ambas inclusive, de acuerdo con lo registrado en la Libreta de Embarco. El cómputo del tiempo de embarco se expresará en meses y días.
 
 #### Artículo 41º
 
@@ -898,13 +1128,11 @@ La Dirección General establecerá mediante resolución fundada la evaluación d
 
 #### Artículo 49º
 
-Los interesados que hayan cumplido los requisitos contemplados en el presente reglamento para rendir la evaluación de competencia o la examinación respectiva, presentarán una solicitud con a lo menos 30 días de antelación a la fecha fijada para su rendición, salvo autorización expresa de la Autoridad Marítima para aceptar inscripciones dentro de un plazo menor.
+Los interesados que hayan cumplido los requisitos contemplados en el presente reglamento para rendir la evaluación de competencia o la examinación respectiva, excepto el periodo de embarco en calidad de aspirante que aún puede estar en proceso de cumplimiento, deberán presentar una solicitud con a lo menos veinte días de antelación a la fecha fijada para su rendición. Sin embargo, la Autoridad Marítima podrá aceptar inscripciones dentro de un plazo menor.
 
 #### Artículo 50º
 
-Los postulantes que reprobaren la evaluación de competencia o examinación,
-
-El procedimiento para la repetición de la evaluación de competencia y de la examinación, se podrán repetirlas en otros períodos. establecerá mediante resolución fundada.
+El procedimiento para la repetición de las evaluaciones de competencia o exámenes de los postulantes que reprobaren, se establecerá mediante resolución fundada.
 
 #### Artículo 51º
 
@@ -916,7 +1144,7 @@ Para aprobar la evaluación escrita aplicada y la evaluación de competencia pr�
 
 a) Evaluación escrita aplicada: Nota Mínima de 6.0, en escala de 1 a 10.
 
-b) Evaluación de competencia práctica: Nota Mínima de 9.0 en escala de 1 a 10.
+b) Evaluación de competencia práctica: Nota Mínima de 8.0 en escala de 1 a 10.
 
 Para aprobar la examinación para optar a los títulos de Patrón de Nave Menor, Tripulante de Cubierta de Nave Menor y Tripulante de Máquinas de Nave Menor, según corresponda, el postulante deberá obtener nota mínima 6.0, en escala de 1 a 10.
 
