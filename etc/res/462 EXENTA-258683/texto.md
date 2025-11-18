@@ -242,9 +242,25 @@ Matta
 
 .
 
-Blanco Encalada Viel Exposición O-P
+Eje Av. Almirante Viel Exposición O-P
 
-Blanco Encalada Exposición Viel P-O
+Blanco Encalada
+
+- Plaza Ercilla
+
+- Av. Tupper -
+
+El Parque
+
+Eje Av. Almirante Exposición Viel P-O
+
+Blanco Encalada -
+
+Plaza Ercilla -
+
+Av. Tupper -
+
+El Parque
 
 Compañía Matucana Manuel Rodríguez P-O
 
