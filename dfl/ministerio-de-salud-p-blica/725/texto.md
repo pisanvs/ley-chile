@@ -696,7 +696,7 @@ Las Municipalidades no podrán otorgar patentes definitivas para la instalación
 
 Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los riesgos que el funcionamiento de la industria pueda causar a sus trabajadores, al vecindario y a la comunidad.
 
-No obstante lo dispuesto en el inciso anterior, la autoridad sanitaria informará favorablemente una determinada actividad industrial o comercial, siempre que la evaluación sanitaria ambiental que se realice para evacuar el informe, determine que técnicamente se han controlado todos los riesgos asociados a su funcionamiento.
+No obstante lo dispuesto en el inciso anterior, la autoridad sanitaria informará favorablemente una determinada actividad industrial, siempre que la evaluación sanitaria ambiental que se realice para evacuar el informe, determine que técnicamente se han controlado todos los riesgos asociados a su funcionamiento.
 
 #### Artículo 84°
 
@@ -1009,6 +1009,28 @@ nonies.- Las infracciones al presente párrafo serán sancionadas de acuerdo a l
 #### Artículo 105
 
 decies.- Los casos que no estén expresamente regulados en este párrafo, se regirán por las normas del presente Código y por las contenidas en el Reglamento Sanitario de los Alimentos, en cuanto fuere procedente.
+
+### Párrafo III
+
+De la carne
+
+#### Artículo 105
+
+undecies.- Con la denominación de carne se entiende la parte comestible de los músculos de los animales de abasto como bovinos, ovinos, porcinos, equinos, caprinos, camélidos, y de otras especies aptas para el consumo humano. Las carnes de animales de caza en sus procedimientos de manejo, elaboración, envase, almacenamiento, distribución y venta deberán ceñirse a lo dispuesto en el Reglamento Sanitario de los Alimentos, y a la norma técnica dictada para éstas, aprobada por decreto del Ministerio de Salud, la que se publicará en el Diario Oficial.
+
+#### Artículo 105
+
+duodecies.- La carne comprende todos los tejidos blandos que rodean el esqueleto, incluyendo su cobertura grasa, tendones, vasos, nervios, aponeurosis, huesos propios de cada corte cuando estén adheridos a la masa muscular correspondiente y todos los tejidos no separados durante la faena, excepto los músculos de sostén del aparato hioídeo y el esófago.
+
+Se entiende por subproducto comestible a las partes y órganos tales como corazón, hígado, riñones, timo, ubre, sangre, lengua, sesos o grasa, de las especies de abasto. Se exceptúan de esta categoría los pulmones y los establecidos en el artículo 274 del Reglamento Sanitario de los Alimentos.
+
+#### Artículo 105 ter
+
+decies.- Se prohíbe catalogar como carne a un producto que no sea de origen animal y que no cumpla con lo dispuesto en los artículos 105 undecies y 105 duodecies.
+
+Las denominaciones asociadas a los productos de origen animal, tales como "hamburguesa", "chorizo", "salchicha", "cecina" u otras, no pueden ser utilizadas para describir, promover o comercializar productos alimenticios que contengan mayor proporción de materia de origen vegetal que cárnica, salvo que indiquen de manera expresa, visible e inequívoca que son de origen vegetal.
+
+Las infracciones a este artículo serán sancionadas según lo dispuesto en el Libro Décimo, sin perjuicio de las demás sanciones que correspondan.
 
 ## Título III
 
