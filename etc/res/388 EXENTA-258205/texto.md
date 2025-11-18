@@ -72,19 +72,13 @@ VÍA DESDE HASTA SENTIDO VÍA
 
 EXCLUSIVA
 
-AV. JOSÉ Av. Teniente Av. Walker Sólo calzada
+AV. JOSÉ Las Torres Av. Walker P-O
 
-JOAQUÍN PÉREZ Cruz Martínez P-O
+JOAQUÍN Martínez
 
-e) SAN PABLO
+PÉREZ
 
-VÍA DESDE HASTA SENTIDO VÍA
-
-EXCLUSIVA
-
-SAN PABLO Av. La Barros Sólo calzada
-
-Estrella Arana P-O
+e) Eliminado
 
 f) IRARRÁZAVAL
 
