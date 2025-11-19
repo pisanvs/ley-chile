@@ -94,11 +94,9 @@ Para matricular una nave en Chile se requiere que su propietario sea chileno y q
 
 Si la nave fuere de propiedad de más de una persona o lo fuere de una persona jurídica, deberán aplicarse las reglas siguientes:
 
-a) Si el propietario de una nave fuere una sociedad, se considerará chilena siempre que tenga en Chile su domicilio principal y su sede real y efectiva; que su presidente, gerente y mayoría de directores o administradores, según el caso, sean chilenos; y que la mayoría del capital social pertenezca a personas naturales o jurídicas chilenas.
+a) Si el propietario de una nave fuere una sociedad, se considerará chilena siempre que tenga en Chile su domicilio principal y su sede real y efectiva.
 
-b) Si la nave perteneciere a una comunidad, se considerará chilena siempre que la mayoría de los comuneros sean chilenos, estén domiciliados y residan en Chile; que sus administradores, en su caso, sean chilenos; y que la mayoría de los derechos en la comunidad pertenezcan a personas naturales o jurídicas chilenas.
-
-c) Para efectos previstos en las dos letras anteriores se considerará que las personas jurídicas socias de una sociedad propietaria de naves o comuneras en el dominio de las mismas, son chilenas cuando reúnan los requisitos establecidos en las letras precedentes, respectivamente.
+b) Si la nave perteneciere a una comunidad, se considerará chilena siempre que la mayoría de los comuneros sean chilenos, estén domiciliados y residan en Chile; y que la mayoría de los derechos en la comunidad pertenezcan a personas naturales o jurídicas chilenas.
 
 Podrán también matricularse en Chile las naves especiales, con excepción de las pesqueras, pertenecientes a personas naturales o jurídicas extranjeras domiciliadas en el país, siempre que tengan en Chile el asiento principal de sus negocios, o ejerzan en el país alguna profesión o industria en forma permanente. Estos hechos deberán comprobarse a satisfacción de la autoridad marítima. La Dirección podrá, por razones de seguridad nacional, imponer a estas naves normas especiales restrictivas de sus operaciones.
 
