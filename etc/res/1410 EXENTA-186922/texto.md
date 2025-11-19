@@ -14,33 +14,21 @@ Considerando:
 
 R e s u e l v o:
 
-1. El envío deberá estar amparado por un Certificado Fitosanitario Oficial emitido por la autoridad fitosanitaria del país de origen, en el que consten las siguientes declaraciones adicionales:
+1. Para su ingreso al país, los frutos frescos de Kiwi (Actinidia spp.) para consumo, producidos en el estado de California, Estados Unidos de Norteamérica, deberán estar amparadas por un Certificado Fitosanitario, en el cual conste como declaración adicional:
 
-1.1. El envío se encuentra libre de Platynota stultana (Lep. tortricidae) y Argyrotaenia franciscana (=A. citrana) (Lep. Tortricidae).
+"El envío fue inspeccionado y se encuentra libre de Argyrotaenia citrana, Epiphyas postvittana y Platynota stultana".
 
-1.2. Para el caso Epiphyas postvittana.
+2. Adicionalmente, cada envío deberá cumplir con los siguientes requisitos fitosanitarios:
 
-1.2.1. El envío proviene de un área no reglamentada para Epiphyas postvittana y se encuentra libre Epiphyas postvittana.
+2.1 El envío debe venir libre de suelo y otros restos vegetales.
 
-1.2.2. El envío proviene de un área reglamentada para Epiphyas postvittana y ha sido sometido a un tratamiento fitosanitario para el control de Epiphyas postvittana (Lep. tortricidae), indicando producto, dosis, temperatura y tiempo de exposición.
+2.2 Los envases deberán ser de primer uso (no permitiéndose el reenvase), cerrados, resistentes a la manipulación. En los envases se deberá indicar el condado de procedencia de la fruta y el nombre de la empacadora en que fue procesada.
 
-2. Se aceptará el siguiente tratamiento cuarentenario para el control de Epiphyas postvittana (Lep. tortricidae), el que deberá ser realizado en origen o destino. Las especificaciones del tratamiento realizado deberán estar indicadas en la sección correspondiente del certificado Fitosanitario, indicando producto, dosis, temperatura y tiempo de exposición:
+2.3 El material de embalaje debe ser adecuado para eventuales acciones de tratamientos fitosanitarios en los puntos de ingreso.
 
-.
+2.4 Todos los contenedores deberán utilizar sellos o precintos oficiales de USDA/APHIS y, en el caso que la exportación sea vía aérea, las paletas transportadas deberán estar protegidas con plástico o malla tipo mosquitera y sellados o precintados en cada unidad.
 
-T104-a-1-Bromuro de Metilo a presión atmosférica. Manual Tratamientos USDA.
-
-2.1. Finalizado el tratamiento, debe asegurarse que el envío mantenga el resguardo en todo momento hasta su arribo a Chile, a fin de mantener su condición fitosanitaria.
-
-2.2. El envío debe venir libre de suelo y otros restos vegetales.
-
-2.3. Los envases deberán ser de primer uso, no permitiéndose el reenvase, cerrados, resistentes a la manipulación. En los envases se deberá indicar el condado de procedencia de la fruta y el nombre de la empacadora en que fue procesada.
-
-2.4. El material de embalaje debe ser adecuado para eventuales acciones de tratamientos fitosanitarios en los puntos de ingreso.
-
-2.5. Todos los contenedores deberán utilizar sellos o precintos oficiales de la ONPF, en el caso que la exportación sea vía aérea, las paletas transportadas deberán estar protegidas con plástico o malla tipo mosquitera y selladas o precintadas en cada unidad.
-
-2.6. La madera de los embalajes y pallet, como también la madera utilizada como material de acomodación, deberá cumplir con las regulaciones cuarentenarias para el ingreso al país.
+2.5 La madera de los embalajes y pallet, como también la madera utilizada como material de acomodación deberá cumplir con las regulaciones cuarentenarias para el ingreso al país.
 
 3. Los envíos frutos frescos de kiwi no podrán proceder de áreas reguladas debido a la presencia de moscas de la fruta de los géneros Ceratitis, Bactrocera, Anastrepha o, Dacus o de áreas en las cuales el Departamento de Agricultura del Estado de California haya determinado que se encuentran bajo cuarentena por las mismas plagas.
 
