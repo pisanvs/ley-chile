@@ -20,7 +20,7 @@ R e s u e l v o:
 
 2.1 La partida proviene de un área oficialmente reconocida como libre de moscas de la fruta de importancia económica, incluyendo los géneros Ceratitis, Bactrocera, Dacus y Anastrepha, con la excepción de la mosca del Caribe (A. suspensa) y desde un área libre de Xanthomonas axonopodis pv.citri.
 
-2.2 El envío se encuentra libre de Amyelois transitiella, Scirtothrips citri (Thysanoptera, Thrypidae), Brevipalpus lewisi, Brevipalpus phoenicis (Acarina, Tenuipalpidae), y Marmara spp. (Lep. Gracillariidae),
+2.2 El envío fue inspeccionado y se encuentra libre de Amyelois transitella, Brevipalpus lewisi, Brevipalpus phoenicis, Epiphyas postvittana, Marmara spp. y Scirtothrips citri,
 
 2.3 La partida está libre de la mosca de la fruta del Caribe como resultado de haberse originado en un área designada, según lo establecido en el Protocolo USDA-SAG.
 
@@ -28,39 +28,45 @@ R e s u e l v o:
 
 4. Complementariamente, cada partida de importación deberá cumplir con los siguientes requisitos fitosanitarios:
 
-4.1 La partida deberá encontrarse libre de suelo.
+4.1 La partida deberá encontrarse libre
 
-4.2 Los envases deberán estar identificados con
+de suelo.
 
-etiquetas en la cual se indique nombre o código
+4.2 Los envases deberán estar identificados
 
-del predio registrado y el código de la
+con etiquetas en la cual se indique
 
-empacadora en que fue procesada la fruta.
+nombre o código del predio registrado
 
-4.3 La partida deberá venir en envases y material de
+y el código de la empacadora en que
 
-acomodación de primer uso, no permitiéndose el
+fue procesada la fruta.
 
-reenvase.
+4.3 La partida deberá venir en envases y
 
-4.4 El material de embalaje debe ser adecuado para
+material de acomodación de primer uso,
 
-acciones de tratamientos cuarentenarios de
+no permitiéndose el reenvase.
 
-fumigación.
+4.4 El material de embalaje debe ser adecuado
 
-4.5 La madera de los embalajes y los pallets deberá
+para acciones de tratamientos
 
-estar libre de corteza y de daños causados por
+cuarentenarios de fumigación.
 
-insectos.
+4.5 La madera de los embalajes y los pallets
 
-4.6 En caso de transporte marítimo, los contenedores
+deberá estar libre de corteza y de daños
 
-y las bodegas, cuando sean de uso exclusivo para
+causados por insectos.
 
-transportar partidas de similar condición
+4.6 En caso de transporte marítimo, los
+
+contenedores y las bodegas, cuando sean
+
+de uso exclusivo para transportar
+
+partidas de similar condición
 
 fitosanitaria, deberán venir selladas.
 
