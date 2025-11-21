@@ -14,43 +14,51 @@ R e s u e l v o:
 
 2. Para su ingreso al país los frutos cítricos frescos para consumo, individualizados en el punto anterior, producidas en el Estado de Arizona de Estados Unidos de Norteamérica, deberán estar amparadas por un Certificado Fitosanitario Oficial del país de origen, en original, en el cual se deberá indicar el Condado de procedencia de la fruta y las declaraciones adicionales que se indican a continuación:
 
-* El envío de frutos cítricos frescos procede de
+* El envío de frutos cítricos frescos
 
-área reconocida oficialmente como libre de moscas
+procede de área reconocida
 
-de la fruta de relevancia económica de los géneros
+oficialmente como libre de moscas
 
-Ceratitis, Bactrocera, Dacus y Anastrepha y de
+de la fruta de relevancia económica
 
-área libre de Xanthomonas axonopodis pv. citri, no
+de los géneros Ceratitis, Bactrocera,
 
-pudiendo proceder de áreas reglamentadas o áreas
+Dacus y Anastrepha y de área libre
 
-en las cuales el Departamento de Agricultura del
+de Xanthomonas axonopodis pv. citri,
 
-Estado de Arizona haya determinado que se
+no pudiendo proceder de áreas
 
-encuentran bajo cuarentena por las mismas.
+reglamentadas o áreas en las cuales
 
-* El envío de frutos cítricos frescos deberá estar
+el Departamento de Agricultura del
 
-libre de Scirtothrips citri (Thysanoptera,
+Estado de Arizona haya determinado
 
-Thrypidae), Brevipalpus lewisii, Brevipalpus
+que se encuentran bajo cuarentena por
 
-phoenicis (Acarina Tenuipalpidae), Marmara spp.
+las mismas.
 
-(Lep. Gracillariidae) y Homalodisca coagulata
+* El envío fue inspeccionado y se encuentra
 
-(Hom. Cidadellidae).
+libre de Brevipalpus lewisi, Brevipalpus
+
+phoenicis, Epiphyas postvittana,
+
+Homalodisca coagulata, Marmara spp. y
+
+Scirtothrips citri.
 
 * El envío deberá realizarse según las
 
-especificaciones establecidas en el Protocolo
+especificaciones establecidas en el
 
-USDA-SAG para la importación de frutos cítricos
+Protocolo USDA-SAG para la importación
 
-frescos desde el Estado de Arizona, el cual se
+de frutos cítricos frescos desde el
+
+Estado de Arizona, el cual se
 
 considera parte de esta resolución.
 
