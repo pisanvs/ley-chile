@@ -16,43 +16,51 @@ R e s u e l v o:
 
 2.- Para su ingreso al país los frutos cítricos frescos para consumo, individualizados en el punto anterior, producidas en el Estado de California de Estados Unidos de Norteamérica, deberán estar amparadas por un Certificado Fitosantario Oficial del país de origen en original en el cual se deberá indicar el Condado de procedencia de la fruta y las declaraciones adicionales que se indican a continuación:
 
-* El envío de frutos cítricos frescos procede de
+* El envío de frutos cítricos frescos
 
-área reconocida oficialmente como libre de moscas
+procede de área reconocida oficialmente
 
-de la fruta de relevancia económica de los géneros
+como libre de moscas de la fruta de
 
-Ceratitis, Bactrocera, Dacus y Anastrepha y de
+relevancia económica de los géneros
 
-área libre de Xanthomonas axonopodis pv. citri,
+Ceratitis, Bactrocera, Dacus y
 
-no pudiendo proceder de áreas reglamentadas o
+Anastrepha y de área libre de
 
-áreas en las cuales el Departamento de Agricultura
+Xanthomonas axonopodis pv. citri,
 
-del Estado de California haya determinado que se
+no pudiendo proceder de áreas
 
-encuentran bajo cuarentena por las mismas.
+reglamentadas o áreas en las cuales
 
-* El envío de frutos cítricos frescos deberá estar
+el Departamento de Agricultura
 
-libre de Scirtothrips citri (Thysanoptera,
+del Estado de California haya
 
-Thrypidae), Brevipalpus lewisii, Brevipalpus
+determinado que se encuentran bajo
 
-phoenicis (Acarina Tenuipalpidae), Marmara spp.
+cuarentena por las mismas.
 
-(Lep. Gracillariidae) y Homalodisca coagulata
+* El envío fue inspeccionado y se
 
-(Hom. Cidadellidae).
+encuentra libre de Brevipalpus lewisi,
+
+Brevipalpus phoenicis, Epiphyas postvittana,
+
+Homalodisca coagulata,
+
+Marmara spp. y Scirtothrips citri.
 
 * El envío deberá realizarse según las
 
-especificaciones establecidas en el Protocolo
+especificaciones establecidas en el
 
-USDA-SAG para la importación de frutos cítricos
+Protocolo USDA-SAG para la importación
 
-frescos desde el Estado de California, el cual
+de frutos cítricos frescos desde el
+
+Estado de California, el cual
 
 se considera parte de esta resolución.
 
@@ -60,27 +68,29 @@ se considera parte de esta resolución.
 
 3.1. La partida deberá venir libre de suelo
 
-3.2. El material de embalaje debe ser adecuado para
+3.2. El material de embalaje debe ser adecuado
 
-acciones de tratamientos cuarentenarios de
+para acciones de tratamientos cuarentenarios
 
-fumigación
+de fumigación
 
-3.3. Al venir el producto paletizado en bodegas de
+3.3. Al venir el producto paletizado en bodegas
 
-barco, éstas deben ser exclusivas para partidas
+de barco, éstas deben ser exclusivas para
 
-de similares condiciones sanitarias y las puertas
+partidas de similares condiciones sanitarias
 
-y entrepuentes debidamente sellados. Los números
+y las puertas y entrepuentes debidamente
 
-de los sellos deberán indicarse en el Certificado
+sellados. Los números de los sellos deberán
 
-Fitosanitario.
+indicarse en el Certificado Fitosanitario.
 
-3.4. En el caso que vengan vía aérea, las paletas deben
+3.4. En el caso que vengan vía aérea, las paletas
 
-venir con cubiertas plásticas y selladas.
+deben venir con cubiertas plásticas y
+
+selladas.
 
 4.- El USDA/APHIS deberá comunicar al SAG la presencia de cualquier brote de las plagas antes mencionadas en el Estado de California y el establecimiento de áreas reglamentadas o bajo cuarentena, en un período no superior a las 96 horas de sucedido el evento.
 

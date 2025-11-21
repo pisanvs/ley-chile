@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
+1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 1.877 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
 
 1.1 Material de propagación (plantas,
 
@@ -127,5 +127,7 @@ vegetal:
 > **Nota.** NOTA 12 Los numerales 2.1 y 2.2 del N° 2 de la Resolución 8971 Exenta, Agricultura, publicada el 27.12.2024, modifican respectivamente la presente norma en el sentido de eliminar del resuelvo 1 el texto "; 1.408 de 2001" y eliminar del cuadro del resuelvo 2 la especie "Rubus sp.". No obstante lo anterior, dichas modificaciones no se incorporaron en el presente texto actualizado en razón de que no coinciden los textos.
 
 > **Nota.** NOTA 13 El numeral 2.2 del N° 2 de la Resolución 1094 Exenta, Agricultura, publicada el 27.02.2025, modifica la presente norma en el sentido de eliminar del cuadro frutas frescas inserto en el resuelvo 1.2, la especie "Persea americana".
+
+> **Nota.** NOTA 14 El numeral 3.2 del N° 3 de la Resolución 9366 Exenta, Agricultura, publicada el 21.11.2025, modifica la presente norma en el sentido de eliminar del cuadro del resuelvo 1.2, las especies "Citrus sinensis, C. paradisis, C. grandis, C. reticulata, C. reticulata x C. sinensis, C. limonium.
 
 Anótese, comuníquese y publíquese.- Víctor Venegas Venegas, Director Nacional Servicio Agrícola y Ganadero.
