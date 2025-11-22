@@ -1,4 +1,4 @@
-OTORGA A ANDES MAINSTREAM SpA CONCESIÓN DEFINITIVA PARA ESTABLECER LAS INSTALACIONES DE TRANSMISIÓN DE ENERGÍA ELÉCTRICA DENOMINADA "LÍNEA 1X220 KV RÍO ESCONDIDO - CARDONES", EN LA REGIÓN DE ATACAMA, PROVINCIA DE COPIAPÓ, COMUNAS DE TIERRA AMARILLA Y COPIAPÓ
+OTORGA A TRANSELEC S.A. CONCESIÓN DEFINITIVA PARA ESTABLECER LAS INSTALACIONES DE TRANSMISIÓN DE ENERGÍA ELÉCTRICA DENOMINADA "LÍNEA 1X220 KV RÍO ESCONDIDO - CARDONES", EN LA REGIÓN DE ATACAMA, PROVINCIA DE COPIAPÓ, COMUNAS DE TIERRA AMARILLA Y COPIAPÓ
 
 Núm. 71.- Santiago, 19 de agosto de 2019.
 
@@ -14,7 +14,7 @@ Decreto:
 
 #### Artículo 1
 
-Otórgase a Andes Mainstream SpA, concesión definitiva para establecer en la Región de Atacama, provincia de Copiapó, comunas de Tierra Amarilla y Copiapó, las instalaciones de transmisión de energía eléctrica correspondientes al siguiente proyecto:
+Otórgase a Transelec S.A., concesión definitiva para establecer en la Región de Atacama, provincia de Copiapó, comunas de Tierra Amarilla y Copiapó, las instalaciones de transmisión de energía eléctrica correspondientes al siguiente proyecto:
 
 .
 
