@@ -184,6 +184,8 @@ g.1) Que operen en la banda de frecuencias de 401 a 406 MHz con una potencia má
 
 g.2) Que operen en la banda de frecuencias de 2.400-2.483,5 MHz con una potencia máxima radiada de 2,5 mW y que empleen tecnología de saltos de frecuencia.
 
+g.3) Dispositivos de adquisición de datos médicos que operen en la banda de frecuencias de 430 - 440 MHz, con una p.i.r.e. de 0,1 µW y que empleen tecnología de saltos de frecuencia.
+
 h) Otros equipos empleados para aplicaciones médicas que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
 Bandas de frecuencias Intensidad de
@@ -357,6 +359,8 @@ Banda de Frecuencias Potencia Máxima
 5.725 - 5.850 1 W
 
 Sin perjuicio del empleo de frecuencias y potencias de los dispositivos IoT señaladas en la tabla precedente, también se podrán emplear dispositivos IoT certificados bajo las características de aplicaciones RFID, indicadas en el literal e) del presente artículo.
+
+> **Nota.** El Nº 6 del artículo primero de la Resolución 2219 Exenta, Transportes, publicada el 24.11.2025, derogó el numeral 9 de la resolución exenta N° 737, de 2025, la cual a su vez modificó el artículo 1 de la presente norma, en el sentido de intercalar después del literal g.2) un literal g.3), nuevo. A su vez, el Nº 7 del artículo primero de la citada resolución, intercaló a continuación del literal g.2) un literal g.3), nuevo. Dichas modificaciones entraron en vigor a partir de su publicación en el Diario Oficial, en conformidad a lo dispuesto por el artículo segundo de la referida norma.
 
 #### Artículo 2°
 
