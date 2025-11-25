@@ -70,7 +70,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 11º
 
-El plazo de construcción de las obras del proyecto será de 24 meses. Dichos 24 meses comenzarán a transcurrir inmediatamente cumplidos los 56 meses desde la reducción a escritura pública del presente decreto. Sin perjuicio de lo anterior, los trabajos podrán iniciarse con anterioridad al plazo indicado.
+El plazo de construcción de las obras del proyecto será de 48 meses. Dichos 48 meses comenzarán a transcurrir inmediatamente cumplidos 80 meses desde la publicación del presente decreto concesional en el Diario Oficial. Sin perjuicio de lo anterior, los trabajos podrán iniciarse con anterioridad al plazo indicado.
 
 Los plazos para su terminación por etapas y secciones serán los siguientes:
 
