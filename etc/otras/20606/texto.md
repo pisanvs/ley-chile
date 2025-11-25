@@ -46,7 +46,7 @@ Los alimentos procesados que no contengan gluten se etiquetarán mediante la exp
 
 #### Artículo 6°
 
-Los alimentos a que se refiere el artículo anterior no se podrán expender, comercializar, promocionar y publicitar dentro de establecimientos de educación parvularia, básica y media.
+Los alimentos a que se refiere el artículo 5º no se podrán expender, comercializar, promocionar y publicitar dentro de establecimientos de educación parvularia, básica y media, ni en puntos de acceso a los mismos.
 
 Asimismo, se prohíbe su ofrecimiento o entrega a título gratuito a menores de 14 años de edad, así como la publicidad de los mismos dirigida a ellos.
 
@@ -59,8 +59,6 @@ El etiquetado de los sucedáneos de la leche materna no deberá desincentivar la
 El Ministerio de Salud deberá disponer, en conjunto con el de Educación, de un sistema obligatorio de monitoreo nutricional de los alumnos de enseñanza parvularia, básica y media, el que los orientará en el seguimiento de estilos de vida saludables.
 
 En todas aquellas disposiciones de esta ley donde se utilice la expresión "menores de edad", deberá entenderse que se refiere a menores de catorce años.
-
-> **Nota.** La referencia al "artículo anterior" empleada en el inciso primero de este artículo, debe entenderse efectuada al artículo 5°, por cuanto el artículo 5 bis nuevo, es incorporado con posterioridad en la presente ley mediante el numeral 3 del artículo 1° de la ley 21362, publicada el 18.08.2021.
 
 #### Artículo 7°
 
