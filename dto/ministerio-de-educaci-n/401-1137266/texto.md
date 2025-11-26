@@ -90,9 +90,9 @@ El diseño e implementación de estas acciones formativas deberá:
 
 1) Considerar las necesidades de los equipos docentes de los establecimientos educacionales;
 
-2) Considerar aquellos requerimientos que proporcione el Sistema establecido en el título III del Estatuto, y los resultados del sistema de evaluación establecido en el artículo 70 del mismo, y;
+2) Considerar aquellos requerimientos que proporcione el Sistema establecido en el título III del Estatuto y;
 
-3) Favorecer la progresión en los tramos del Sistema, propendiendo a que los profesionales de la educación alcancen al menos el tramo profesional avanzado.
+3) Favorecer la progresión en los tramos del Sistema.
 
 #### Artículo 7º
 
@@ -100,15 +100,31 @@ El Centro deberá, además, realizar acciones formativas específicas, sea de ma
 
 1) Aquellos que se estén desempeñando dentro de los primeros cuatro años de su ejercicio profesional, a quienes se les ofrecerá acompañamiento pedagógico a través de talleres, cursos o tutorías, sin perjuicio de la inducción a que se refiere el artículo 18 G del Estatuto.
 
-2) Aquellos que no han logrado avanzar, a lo menos, al tramo profesional temprano en su primer proceso de reconocimiento profesional, a quienes se les ofrecerá apoyo para su desarrollo profesional.
+2) Docentes que se encuentren en los tramos inicial o temprano y que no han logrado avanzar en su proceso de reconocimiento profesional. Ofreciéndoles apoyo para su desarrollo profesional y para mejorar su desempeño, velando por que alcancen al menos el tramo profesional avanzado.
 
 #### Artículo 8º
 
-El Centro certificará las acciones formativas con el objeto de garantizar su calidad y pertinencia, entendiendo por aquello, el cumplimiento del estándar de carácter cualitativo y cuantitativo exigido a las propuestas de acciones formativas cuya certificación se solicita, en relación a su contextualización, a su diseño formativo, a sus condiciones organizativas y de gestión, y a su implementación y seguimiento, de acuerdo con las necesidades de formación para el desarrollo docente en servicio identificadas en los artículos 11, 12 ter, 12 quáter, 12 quinquies y 19 del Estatuto.
+El Centro certificará las acciones formativas con el objeto de garantizar su calidad y pertinencia, entendiendo por aquello, el cumplimiento de los elementos de carácter cualitativo y cuantitativo exigido a las propuestas de acciones formativas cuya certificación se solicita, en relación a su contextualización, a su diseño formativo, a sus condiciones organizativas y de gestión, y a su implementación y seguimiento, de acuerdo con las necesidades de formación para el desarrollo docente en servicio identificadas en los artículos 11, 12 ter, 12 quáter, 12 quinquies y 19 del Estatuto.
 
 #### Artículo 9º
 
-Para los efectos del artículo anterior, la contextualización tiene relación con el nivel de pertinencia de una acción formativa respecto de los requerimientos particulares en el desarrollo de los profesionales de la educación a quienes va dirigida, el medio en el que los profesionales se desempeñan y las necesidades de formación que se identifiquen a partir de la política pública, de conformidad a lo previsto en el artículo 11 inciso tercero del Estatuto. Por su parte, el diseño formativo se refiere a la articulación de estrategias, a los contenidos actitudinales, procedimentales y conceptuales, a los procesos de evaluación, a los recursos formativos y la metodología para asegurar un clima de aprendizaje que propicie el desarrollo profesional y de capacidades y competencias en un tiempo coherente, según lo dispuesto en el artículo 19 inciso cuarto del Estatuto.
+Para los efectos del artículo anterior, el Centro considerará en cada solicitud de certificación, el desarrollo de los siguientes aspectos:
+
+a) Contextualización: Corresponde a la relación y pertinencia de una acción formativa respecto de las necesidades de los profesionales de la educación y comunidades educativas en el contexto de su desempeño, y respecto de las identificadas a partir de las políticas públicas.
+
+b) Diseño formativo: Corresponde a la articulación y organización de los diferentes componentes de una experiencia de aprendizaje profesional para el desarrollo de las competencias y objetivos comprometidos. El diseño formativo deberá considerar, a lo menos, los siguientes aspectos:
+
+i) Contenidos actitudinales, procedimentales y conceptuales.
+
+ii) Metodología detallada que propicie un ambiente de aprendizaje coherente con los principios de desarrollo profesional establecidos en el título III del Estatuto Docente.
+
+iii) Procedimientos e instrumentos de evaluación, en caso de que correspondan.
+
+iv) Criterios de diseño instruccional en relación a la modalidad y el tiempo de la acción formativa.
+
+c) Condiciones organizativas y de gestión: Corresponde a aquellos aspectos que se enfocan en la viabilidad de la implementación de la acción formativa. Estas condiciones deben asegurar la administración de recursos y coordinaciones de la institución formadora de manera adecuada, para el logro de los objetivos a cumplir.
+
+d) Seguimiento e implementación: Corresponde a los mecanismos administrativos y técnicos que le permitirán monitorear y asegurar la implementación de la acción formativa según lo comprometido..
 
 #### Artículo 10
 
@@ -146,7 +162,7 @@ Para solicitar la certificación de las acciones formativas, la institución deb
 
 2) Denominación de la acción formativa;
 
-3) Modalidad en que se impartirá la acción formativa y en caso de ser presencial, lugar físico en que se impartirá;
+3) Diseño Formativo;
 
 4) Destinatarios de la acción formativa;
 
@@ -162,11 +178,13 @@ El formulario, deberá además ser acompañado de los siguientes antecedentes:
 
 2) Certificado de Vigencia de Personas Jurídicas Sin Fines de Lucro, emitido por el Servicio de Registro Civil e Identificación, cuando se trate de personas jurídicas de derecho privado;
 
-3) Copia simple de la normativa legal que regule la constitución y funcionamiento, cuando se trate de personas jurídicas de derecho público que no sean universidades;
+3) Certificado de acreditación de la Comisión Nacional de Acreditación, cuando se trate de universidades, institutos profesionales o centros de formación técnica organizados por personas jurídicas sin fines de lucro;
 
-4) En el caso de instituciones que no sean universidades acreditadas, aquélla que permita verificar el cumplimiento de los requisitos previstos en el artículo anterior, y;
+4) Copia simple de la normativa legal que regule la constitución y funcionamiento, cuando se trate de personas jurídicas de derecho público que no sean universidades;
 
-5) Aquellos que avalen la idoneidad de los relatores que impartirán la acción formativa, así como la pertinencia de los materiales que emplearán.
+5) En el caso de instituciones que no sean universidades acreditadas, aquélla que permita verificar el cumplimiento de los requisitos previstos en el artículo anterior, y;
+
+6) Aquellos que avalen la idoneidad de los relatores que impartirán la acción formativa, así como la pertinencia de los materiales que emplearán.
 
 En caso de ser necesario, el Centro podrá solicitar los documentos en original para continuar con la tramitación de la certificación.
 
@@ -180,7 +198,7 @@ Las instituciones extranjeras, sean éstas públicas o privadas, deberán acredi
 
 La solicitud de certificación deberá presentarse con a lo menos cuarenta y cinco días corridos de anticipación a la fecha en que se daría comienzo a la ejecución de la acción formativa propuesta, debiendo indicar el medio preferente de notificación, de acuerdo a lo establecido en el artículo 5º de este reglamento.
 
-Una vez recibida la solicitud de certificación, el Centro verificará que cuenta con todos los antecedentes requeridos para iniciar el proceso de certificación. En caso de no contar con ellos, el Centro requerirá a las instituciones para que, de acuerdo con lo dispuesto en el inciso primero del artículo 31 de la ley Nº 19.880, acompañe los documentos respectivos en un plazo de cinco días, con indicación de que, en caso de no hacerlo, se le tendrá por desistido de su petición.
+Una vez recibida la solicitud de certificación, el Centro verificará que cuenta con todos los antecedentes requeridos para iniciar el proceso de certificación. El Centro podrá formular observaciones a la solicitud, con los motivos que impiden su certificación, concediendo un plazo de diez días hábiles para que la institución aclare o subsane lo que corresponda, con la indicación de que, en caso de no hacerlo, el Centro tendrá por desistida su petición.
 
 #### Artículo 17
 
@@ -188,13 +206,15 @@ Admitidas a tramitación las solicitudes de certificación presentadas, de confo
 
 Mediante un informe fundado, el evaluador propondrá la aceptación o rechazo de la solicitud, dando detallada cuenta de la conformidad o divergencia con la propuesta de acción formativa con los respectivos indicadores de calidad y pertinencia; este informe deberá ser fechado y suscrito por el evaluador, y servirá de fundamento para la resolución a que se refiere el artículo siguiente.
 
+Anualmente la Subsecretaría de Educación dictará una o más resoluciones, que fijen la nómina de aquellos funcionarios especializados y competentes que deberán cumplir la función de evaluadores en el marco del procedimiento de certificación de acciones formativas.
+
 #### Artículo 18
 
-La Subsecretaría de Educación concederá o rechazará la solicitud de certificación, mediante resolución exenta, la que deberá dictarse dentro de los treinta días hábiles siguientes a la admisión de la solicitud presentada, debiendo fundamentarse en el informe a que se refiere el artículo anterior y señalar los documentos y demás antecedentes que se tuvieron a la vista para su tramitación, los que deberán encontrarse disponibles para su consulta por cualquier interesado. Dicha resolución, deberá ser notificada a la institución solicitante.
+La Subsecretaría de Educación concederá o rechazará la solicitud de certificación, mediante resolución, debiendo fundamentarse en el informe a que se refiere el artículo anterior y señalar los documentos y demás antecedentes que se tuvieron a la vista para su tramitación, los que deberán encontrarse disponibles para su consulta por cualquier interesado. Dicha resolución, deberá ser notificada a la institución solicitante.
 
 #### Artículo 19
 
-En caso de concederse la certificación, ésta tendrá una vigencia de cinco años contados desde la notificación de la resolución que la concedió. La institución podrá solicitar la renovación de la acción formativa certificada con anterioridad al vencimiento del plazo de vigencia antes señalado.
+En caso de concederse la certificación, ésta tendrá una vigencia de cinco años contados desde la notificación de la resolución que la concedió.
 
 En caso de rechazo de la misma, procederán contra esta resolución, los recursos administrativos previstos en la ley Nº 19.880, no siendo esta situación impedimento para que la institución pueda solicitar nuevamente la certificación de la acción formativa, debiendo, en este caso, acompañar todos los antecedentes que permitan acreditar la calidad y pertinencia de dicha acción.
 
@@ -206,11 +226,11 @@ Durante el plazo de vigencia de la certificación de la acción formativa, a que
 
 #### Artículo 21
 
-Con la finalidad de cautelar la calidad y pertinencia de las acciones formativas en cada una de sus ejecuciones, el Centro deberá aprobar mediante acto administrativo, cada nueva ejecución, para lo que la institución que la imparta deberá informar esta situación al Centro, con una antelación de cuarenta y cinco días corridos a la fecha de su iniciación, a través de los formularios y canales que el Centro disponga para tal efecto.
+Con la finalidad de cautelar la calidad y pertinencia de las acciones formativas, la institución que las imparta deberá solicitar al Centro a través de los formularios y canales que se dispongan para tal efecto, una autorización para cada nueva ejecución con una antelación de cuarenta y cinco días hábiles a la fecha de su iniciación. Respecto a esta solicitud, el Centro emitirá un certificado que apruebe cada ejecución.
 
-Las nuevas ejecuciones deberán cumplir con la metodología, objetivos, alcance, pertinencia y territorios declarados en el formulario de solicitud de la acción formativa por la cual se concedió su certificación. No se considerarán nuevas ejecuciones aquellas que no cumplan con estos requisitos.
+Las nuevas ejecuciones deberán mantener las condiciones comprometidas por las cuales se concedió la certificación en las dimensiones de Contextualización y Diseño Formativo. No se considerarán nuevas ejecuciones aquellas que no cumplan con estos requisitos.
 
-En caso de que las nuevas ejecuciones no sean aprobadas por el Centro, la institución no podrá impartir dichas acciones en calidad de certificadas, debiendo eliminar de su difusión y ejecución toda referencia en este sentido.
+En caso de que las nuevas ejecuciones no cumplan con lo indicado en el inciso anterior, la institución no podrá impartir dichas acciones en calidad de certificadas, debiendo eliminar de su difusión y ejecución toda referencia en este sentido.
 
 ## Título III
 
@@ -230,9 +250,9 @@ Para efectos de lo previsto en el artículo anterior, las instituciones ejecutor
 
 2) Nómina de profesionales de la educación matriculados;
 
-3) Porcentaje de asistencia de los participantes cuando se trate de cursos presenciales y semi-presenciales, y;
+3) Porcentaje de asistencia de los participantes cuando se trate de cursos presenciales y semi-presenciales, nómina de participantes retirados, y participantes que hayan incumplido la obligación de participación en los términos del artículo 13 bis del Estatuto Docente y;
 
-4) Resultados obtenidos en sus evaluaciones finales, indicando su aprobación, reprobación, retiro o deserción, según corresponda.
+4) Resultados obtenidos en sus evaluaciones finales, indicando su aprobación, reprobación.
 
 Además de lo anterior, el informe de ejecución deberá incorporar los instrumentos de seguimiento que para estos efectos defina el Centro, los cuales deberán dar cuenta de los siguientes aspectos:
 
@@ -268,15 +288,13 @@ El registro deberá comprender, a lo menos, la siguiente información:
 
 2) Denominación de la acción formativa.
 
-3) Sedes en que se dictará.
+3) Modalidad.
 
-4) Cuerpo docente o relatores que la impartirán.
+4) Alcance territorial.
 
 5) Destinatarios.
 
 6) Resolución que otorgó la certificación con su fecha de total tramitación.
-
-7) Sanciones aplicadas.
 
 #### Artículo 27
 
