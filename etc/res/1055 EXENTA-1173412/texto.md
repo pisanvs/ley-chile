@@ -36,7 +36,7 @@ DISPOSICIONES GENERALES
 
 Se establecerán dos tipos de autorización:
 
-2.1. Autorización especial de plaguicidas para uso comercial en aeronaves. Se otorga por 5 años, que podrán ser renovables por igual período, si cumple con las disposiciones establecidas del servicio. Esta autorización aplica a plaguicidas fabricados en el extranjero o de formulación nacional, y permite la distribución y venta del plaguicida en el territorio nacional. Su tenencia y aplicación es responsabilidad del operador aéreo. La aplicación estará regulada por la resolución que dispone medida sanitaria de prevención para aeronaves o aquella que la reemplace, la resolución que establece exigencias para la internación y tránsito de material de uso pecuario usado, y otras que dicte el servicio. Los plaguicidas presentados no pueden ser corrosivos ni inflamables.
+2.1. Autorización especial de plaguicidas para uso comercial en aeronaves. Se otorga por 10 años, que podrán ser renovables por igual período, si cumple con las disposiciones establecidas del servicio. Esta autorización aplica a plaguicidas fabricados en el extranjero o de formulación nacional, y permite la distribución y venta del plaguicida en el territorio nacional. Su tenencia y aplicación es responsabilidad del operador aéreo. La aplicación estará regulada por la resolución que dispone medida sanitaria de prevención para aeronaves o aquella que la reemplace, la resolución que establece exigencias para la internación y tránsito de material de uso pecuario usado, y otras que dicte el servicio. Los plaguicidas presentados no pueden ser corrosivos ni inflamables.
 
 2.2. Autorización especial de plaguicidas para uso particular en aeronaves, Se otorga por 5 años, que podrán ser renovables por igual período, si cumple con las disposiciones establecidas del servicio. Esta autorización aplica sólo para plaguicidas fabricados en el extranjero y no permite la comercialización, ni su uso fuera del aeropuerto o aeródromo correspondiente. La tenencia y aplicación es responsabilidad del operador aéreo, el que deberá disponer de instalaciones adecuadas en el aeropuerto o aeródromo y contar con aplicadores debidamente capacitados en conformidad a la normativa vigente, quienes deberán utilizar los equipos de protección personal señalados en la etiqueta, tanto durante la preparación de la mezcla como en la aplicación. La aplicación estará regulada por la resolución que dispone medida sanitaria de prevención para aeronaves o aquella que la reemplace. La resolución que establece exigencias para la internación y tránsito de material de uso pecuario usado, y otras que dicte el servicio. El uso sólo se permitirá en los compartimentos de carga sin la presencia de animales en el interior. No podrá ocuparse en cabina con pasajeros. Deberá presentar la documentación de disposición final de residuos peligrosos de los envases vacíos, después de ser ocupados. Este uso sólo podrá ser solicitado por personas jurídicas. Los plaguicidas presentados no pueden ser corrosivos ni inflamables.
 
@@ -48,7 +48,7 @@ Las solicitudes que se presenten serán sometidas a las etapas y plazos establec
 
 El servicio, mediante resolución exenta, otorgará la autorización para los plaguicidas, en la medida que la evaluación realizada sea favorable, debiendo pronunciarse al respecto dentro del plazo de nueve (9) meses, contados desde que el servicio cuente con la totalidad de la información necesaria para la evaluación técnica (Etapa II). Este plazo se suspenderá desde la fecha de la solicitud de antecedentes adicionales u observaciones por parte del servicio hasta la entrega por parte del solicitante, de los antecedentes requeridos.
 
-Una vez que la evaluación resulte favorable, se pasará a la revisión de etiqueta (Etapa III), en la que se solicitará lo indicado en "Documentación requerida posterior a la evaluación técnica favorable" de la resolución que establece exigencias para la autorización de plaguicidas. La resolución será notificada al titular. La autorización tendrá una vigencia de 5 años, y se renovará en los términos indicados en el ítem "Renovación de la autorización de un plaguicida" de la resolución que establece exigencias para la autorización de plaguicidas.
+Una vez que la evaluación resulte favorable, se pasará a la revisión de etiqueta (Etapa III), en la que se solicitará lo indicado en "Documentación requerida posterior a la evaluación técnica favorable" de la resolución que establece exigencias para la autorización de plaguicidas. La resolución será notificada al titular. La autorización tendrá una vigencia de 10 años, y se renovará en los términos indicados en el ítem "Renovación de la autorización de un plaguicida" de la resolución que establece exigencias para la autorización de plaguicidas.
 
 3.2. Autorización especial de plaguicidas para uso particular en aeronaves: Las solicitudes que se presenten serán sometidas a las etapas y plazos establecidos en la presente resolución. En la primera solicitud se contempla la revisión de etiqueta y HDS necesarias para la aplicación especial del plaguicida en aeronaves. En las siguientes, sólo se aprobará el uso correspondiente, si éste no difiere de las condiciones iniciales autorizadas. Con cada solicitud el interesado deberá pagar la tarifa correspondiente, dependiendo de si se trata de una primera solicitud o de solicitudes posteriores para uso particular en aeronaves.
 
@@ -130,7 +130,15 @@ Cualquier interesado podrá presentar ante el Servicio observaciones fundadas a 
 
 ### 5. Condiciones de la documentación
 
-Los documentos que se acompañen a la solicitud de autorización especial, sea comercial o particular, deberán presentarse en original impreso, debidamente foliado y una copia digital.
+Los documentos que se acompañen a la solicitud de autorización especial, sea comercial o particular, deberán presentarse mediante los medios que el Servicio establezca para dicho efecto. En el caso de la documentación emitida en el país, que sea suscrita en forma digital, deberá venir con Firma Electrónica Avanzada y a través de un prestador acreditado de servicios de certificación, cumpliendo con lo indicado en la ley Nº 19.799 y su reglamentación correspondiente.
+
+Las estaciones experimentales o laboratorios que decidan utilizar Firma Electrónica Avanzada, previo a la presentación de los informes referidos en este párrafo, deberán enviar mediante correo electrónico dirigido al Departamento de Regulación y Control de Insumos y Productos Silvoagrícolas de la División de Protección Agrícola, Forestal y Semillas del SAG, una lista de las personas autorizadas para emitir el certificado de análisis, determinación de parámetros fisicoquímicos, o en estudios de eficacia con Firma Electrónica Avanzada, adjuntando todos los antecedentes adicionales que respalden esta autorización.
+
+Las escrituras públicas y los documentos digitales legalizados ante notario con Firma Electrónica Avanzada deberán seguir lo indicado en el decreto Nº 73 de 2022, del Ministerio de Justicia y Derechos Humanos, y en la normativa vigente respectiva.
+
+En el caso de documentación digital emitida en el extranjero, será reconocida la firma digital o electrónica cuando exista algún Acuerdo de Reconocimiento Mutuo de Certificados de firma digital con el país de emisión de la documentación correspondiente vigente al momento de la presentación de la fecha de la solicitud.
+
+Para el caso de la documentación proveniente de la República Argentina, se procederá de acuerdo a lo indicado en el decreto Nº 261 de 2018 del Ministerio de Relaciones Exteriores. En el caso que no exista protocolo de reconocimiento mutuo, se procederá a recibir la documentación física o impresa, para el caso de reconocer la firma con la legalización de acuerdo a la normativa vigente del país emisor, cuando corresponda.
 
 Toda la documentación que se adjunte como antecedente para la autorización de un plaguicida, debe estar escrita en idioma español, inglés o portugués, en este último caso acompañado de su traducción al español. Con todo, es responsabilidad del solicitante la veracidad de los antecedentes que proporcione.
 
@@ -212,6 +220,8 @@ iii. Resumen Ejecutivo con la información de la sustancia activa en que está b
 
 c. Si corresponde a una sustancia activa que tiene un patrón, se someterá a la evaluación por equivalencia establecido en la resolución que establece exigencias para la autorización de plaguicidas. En caso de que no sea equivalente, se procederá de acuerdo a lo señalado en el literal a. anterior.
 
+d. Para el caso de Autorización de plaguicidas según el reconocimiento de sustancias activas autorizadas por Estados Unidos o la Unión Europea, deberá cumplir con el esquema establecido en el numeral 22 bis de la resolución Nº 1.557/2014
+
 9.2. Del producto formulado.
 
 a. Si corresponde a un producto formulado ya registrado, se deberán presentar los siguientes documentos:
@@ -230,7 +240,7 @@ vi. Informe Técnico con las medidas de mitigación para el personal de cabina, 
 
 b. Si corresponde a un producto formulado que no se encuentra en un producto registrado en el país, se deberán presentar lo siguiente:
 
-i. La documentación indicada en Requisitos técnicos para la evaluación de productos formulados de la resolución que establece exigencias para la autorización de plaguicidas.
+i. La documentación indicada en Requisitos técnicos para la evaluación de productos formulados de la resolución que establece exigencias para la autorización de plaguicidas. Solo para efectos de la presente resolución, se aceptarán estudios de eficacia realizados en el extranjero y deberá respaldar el numeral correspondiente con un informe de eficacia, información de metodología utilizada y antecedentes del investigador o profesional responsable y antecedentes de la institución (universidad, centro de investigación, empresa u otro).
 
 ii. Informe Técnico con las medidas de mitigación para el personal de cabina, basada en un análisis de riesgo, para el caso de aplicación en cabina de pasajeros.
 

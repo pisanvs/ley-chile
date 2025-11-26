@@ -44,4 +44,6 @@ j. Equipamiento suficiente y adecuado para realizar los ensayos con plaguicidas.
 
 6. Derógase la resolución Nº 19, de 1985, que señala requisitos para reconocer idoneidad de las Estaciones Experimentales destinadas a probar plaguicidas.
 
+7. Exceptúese del cumplimiento de los requerimientos de la presente resolución las solicitudes de autorización especial de plaguicidas o de solicitudes de autorizaciones de registro, solo en el caso de que por fundamentos técnicos no se considere apropiado este requerimiento para dar información de la eficacia del producto motivo de solicitud, lo cual será indicado por resolución fundada del Servicio."
+
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional (S).
