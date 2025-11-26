@@ -32,35 +32,11 @@ Resuelvo:
 
 2.1 El envío se encuentra libre de Tetranychus mcdanieli, Tetranychus pacificus (Ac. Tetranychidae), Argyrotaenia franciscana (=A. citrana), Platynota stultana (Lep. Tortricidae), Homalodisca vitripennis (=H. coagulata), Erythroneura spp. (Hem. Cicadellidae) y Planococcus ficus (Hem. Pseudococcidae).
 
-2.2 Para el caso Epiphyas postvittana:
+2.2 El envío fue inspeccionado y se encuentra libre de Epiphyas postvittana.
 
-2.2.1 El envío proviene de un área no reglamentada para Epiphyas postvittana y se encuentra libre de Epiphyas postvittana,
+3. Los envíos fueron sometidos a una inspección fitosanitaria oficial en origen, que consideró un muestreo utilizando una tabla hipergeométrica con un 95% de confianza, y dirigida, específicamente, a las zonas entre bayas y raquis.
 
-o
-
-2.2.2 El envío proviene de un área reglamentada para Epiphyas postvittana y ha sido sometido a un tratamiento fitosanitario para el control de Epiphyas postvittana (Lep.: Tortricidae), indicando producto, dosis, temperatura y tiempo de exposición.
-
-3. Se aceptarán los siguientes tratamientos cuarentenarios para el control de Epiphyas postvittana (Lep.: Tortricidae). El o los tratamiento(s) deberá(n) ser realizado(s) en origen o destino. Las especificaciones del o los tratamiento(s) realizado(s) deberán estar indicadas en la sección correspondiente del certificado Fitosanitario, indicando producto, dosis, temperatura y tiempo de exposición:
-
-3.1. Tratamiento con Bromuro de Metilo:
-
-.
-
-T104-a-1–Bromuro de Metilo a presión atmosférica. Manual Tratamientos USDA.
-
-3.2 Tratamiento con Bromuro de Metilo más tratamiento de frío:
-
-.
-
-T108-b–Bromuro de Metilo a presión atmosférica, seguido por tratamiento de frío. Manual Tratamientos USDA.
-
-3.3 Tratamiento de frío más tratamiento con Bromuro de Metilo:
-
-.
-
-T109-d-1–Tratamiento de frío seguido por Bromuro de Metilo a presión atmosférica. Manual Tratamientos USDA.
-
-4. Finalizado el tratamiento, debe asegurarse que el envío mantenga el resguardo en todo momento hasta su arribo a Chile, a fin de mantener su condición fitosanitaria.
+4. El envío debe mantenerse bajo resguardo en todo momento hasta su arribo a Chile, a fin de mantener su condición fitosanitaria.
 
 ### 5. El envío debe venir libre de suelo y otros restos vegetales
 
