@@ -34,7 +34,7 @@ Figura Nº 1: Polígono presentado para la aplicación de los beneficios estable
 
 De acuerdo a lo indicado en el artículo 7 letra c) del DS Nº 19, el porcentaje de viviendas a vender en las condiciones autorizadas por el presente resuelvo será fijado en las resoluciones de los llamados correspondientes, las que en todo caso no podrán superar el 40% del total de viviendas del proyecto.
 
-2. Autorízase, para la zona definida en el resuelvo anterior, un precio de venta mediante la aplicación de un subsidio, de hasta 2.400 UF, de acuerdo a lo indicado en la letra c) del artículo 7º, del DS Nº 19 (V. y U.), cuyo monto de subsidio corresponderá a lo señalado en la tabla inserta en la letra b) del artículo 3º del DS Nº 19 precitado, según zona de emplazamiento de la vivienda.
+2. Autorízase, para las zonas definidas en el resuelvo anterior, un precio máximo de venta, con la aplicación de un subsidio, que será definido mediante resolución del Ministro de Vivienda y Urbanismo, que regule los llamados en que se seleccionen proyectos en estas zonas. El monto de subsidio corresponderá a lo señalado en la tabla inserta en la letra b) del artículo 3º del DS Nº 19 (V. y U.), de 2016, según la zona de emplazamiento de la vivienda, o los que se indiquen mediante resoluciones del Ministro, que regulen llamados mencionados anteriormente, en que se seleccionen proyectos en estas zonas.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
