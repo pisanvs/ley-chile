@@ -38,7 +38,7 @@ Resolución:
 
 De acuerdo a lo establecido en el artículo 7° letra c) del DS N° 19, el porcentaje de viviendas a vender en las condiciones autorizadas por el presente resuelvo será fijado en las resoluciones de los Llamados correspondientes, las que en todo caso no podrán superar el 40% del total de viviendas del proyecto.
 
-2. Autorízase para la zona definida en el resuelvo anterior, un precio de venta de vivienda, con aplicación de un subsidio, de hasta 2.400 UF, lo que solo será aplicable a proyectos seleccionados en llamados realizados con posterioridad al 23 de julio de 2020, fecha de publicación del DS N° 16 (V. y U.), de 2019, a que se refiere el Visto a) de la presente resolución. Estas viviendas deberán destinarse a familias de sectores medios.
+2. Autorízase, para las zonas definidas en el resuelvo anterior, un precio máximo de venta, con la aplicación de un subsidio, que será definido mediante resolución del Ministro de Vivienda y Urbanismo, que regule los llamados en que se seleccionen proyectos en estas zonas. El monto de subsidio corresponderá a lo señalado en la tabla inserta en la letra b) del artículo 3º del DS Nº 19 (V. y U.), de 2016, según la zona de emplazamiento de la vivienda, o los que se indiquen mediante resoluciones del Ministro, que regulen llamados mencionados anteriormente, en que se seleccionen proyectos en estas zonas.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Felipe Ward Edwards, Ministro de Vivienda y Urbanismo.
 
