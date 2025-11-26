@@ -28,4 +28,10 @@ e) Emisión de certificados provisorios de RENASTRE, según lo señalado en el i
 
 f) Emisión certificados provisorios de Transporte Privado Remunerado de Pasajeros, según lo señalado en el artículo 7, inciso final, del DS 80/2004 del Ministerio de Transportes y Telecomunicaciones.
 
+g) Emisión de certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros, aludidos en el artículo 3º del DS Nº212/92 del Ministerio de Transportes y Telecomunicaciones.
+
+h) Emisión de certificados de inscripción en el Registro Nacional de Servicios de Transporte Remunerado de Escolares, aludido en el artículo 4, del DS 38/2003 del Ministerio de Transportes y Telecomunicaciones.
+
+i) Emisión de la constancia de autorización general de Servicios de Transporte Privado Remunerado de Pasajeros, según lo señalado en el artículo 11, del DS 80/2004 del Ministerio de Transportes y Telecomunicaciones.
+
 Anótese y publíquese.- Paz de la Maza Villalobos, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Los Ríos.
