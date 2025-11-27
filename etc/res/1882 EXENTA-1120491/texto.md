@@ -122,6 +122,8 @@ Delégase en el Director General Administrativo, o en quien le subrogue, la facu
 
 24. Autorización para la habilitación del servicio de telefonía "roaming" en el extranjero.
 
+Sin perjuicio de lo anterior, delégase en la Jefatura de la División de Compras y Contrataciones de esta Subsecretaría, la facultad de firmar mediante la fórmula "Por orden de la Subsecretaria", los actos administrativos que deban gestionarse exclusivamente en la plataforma www.mercadopublico.cl, respecto de contrataciones inferiores a 100 UTM (Licitación Tipo L1), con el objeto de asegurar la continuidad operativa del proceso de compras públicas.
+
 ### III. En materias varias:
 
 1. Resoluciones relativas a la ejecución de programas y/o proyectos que se ejecuten en la Secretaría General o en las Direcciones de la Subsecretaría de Relaciones Exteriores, así como en las misiones diplomáticas, representaciones permanentes ante organizaciones internacionales y representaciones consulares de Chile en el exterior dependientes del Ministerio de Relaciones Exteriores, en el marco de aquellas asignaciones de recursos contempladas en la respectiva Ley de Presupuestos.
