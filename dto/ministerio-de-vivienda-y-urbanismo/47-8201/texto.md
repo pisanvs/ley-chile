@@ -4328,247 +4328,425 @@ Los edificios a los que se refiere este artículo, no contarán con la obligaci�
 
 #### Artículo 4
 
-1.10. Todas las viviendas deberán cumplir con las exigencias de acondicionamiento térmico que se señalan a continuación:
+1.10. En las edificaciones de uso residencial, y de uso equipamiento de las clases educación y salud, exceptuados los cementerios y crematorios, su envolvente térmica deberá incorporar requisitos de acondicionamiento térmico, cumpliendo para esto con las exigencias de transmitancia térmica máxima o resistencia térmica mínima, condensación superficial e intersticial, infiltración de aire y ventilación, según lo dispuesto en este artículo.
 
-1. COMPLEJOS DE TECHUMBRE, MUROS PERIMETRALES Y PISOS VENTILADOS:
+Tratándose de permisos de obra nueva, ampliación o reconstrucción de edificaciones destinadas a viviendas en áreas en que se esté aplicando un plan de prevención o descontaminación conforme a lo establecido en la Ley N° 19.300 sobre Bases Generales del Medio Ambiente, deberá estarse, en materia de exigencias de acondicionamiento térmico, a lo dispuesto en dicho Plan.
 
-A. Exigencias:
+El cumplimiento de las exigencias señaladas en el inciso primero de este artículo referidas a transmitancia térmica máxima y resistencia térmica mínima, condensación superficial e intersticial, infiltraciones de aire y ventilación, cuando corresponda, se deberán acreditar de acuerdo a lo señalado en los respectivos literales contenidos en los numerales 1 y 2 de este artículo.
 
-Los complejos de techumbres, muros perimetrales y pisos inferiores ventilados, entendidos como elementos que constituyen la envolvente de la vivienda, deberán tener una transmitancia térmica "U" igual o menor, o una resistencia térmica total "Rt" igual o superior, a la señalada para la zona que le corresponda al proyecto de arquitectura, de acuerdo con los planos de zonificación térmica aprobados por resoluciones del Ministro de Vivienda y Urbanismo y a la siguiente tabla:
+Para los efectos de lo dispuesto en el inciso anterior, el cumplimiento de las exigencias ahí señaladas, se podrá acreditar mediante un Informe de acreditación de cumplimiento, un Informe de Ensayo, una Memoria de Cálculo, adopción de una solución constructiva inscrita en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico elaborado por el Ministerio de Vivienda y Urbanismo o mediante la incorporación de un material que, para cada caso proponga el arquitecto del proyecto, sin perjuicio que esto conste además en las especificaciones técnicas. En los casos que así se establezca en este artículo, los Informes o la Memoria podrán ser elaborados por un profesional competente o un profesional especialista, los cuales deberán ser suscritos además por el arquitecto del proyecto.
 
-TABLA 1
+Alternativamente, y solo para las edificaciones destinadas a viviendas, el cumplimiento de las exigencias se podrá acreditar con el Informe de Precalificación Energética, elaborado por un Evaluador Energético con inscripción vigente en el Registro Nacional de Evaluadores Energéticos, en el cual se demuestre que el valor de demanda de energía de la vivienda es igual o inferior al indicado en la resolución que para dicho efecto dicte el Ministerio de Vivienda y Urbanismo. Con todo, el cumplimiento de las exigencias referidas a condensación superficial e intersticial, infiltraciones de aire y ventilación, se deberán acreditar de acuerdo a lo señalado en el resto de literales de ese mismo numeral.
 
-ZONA TECHUMBRE MUROS PISOS VENTILADOS
+Para efectos de la aplicación de las disposiciones de este artículo, se deberán considerar las siguientes expresiones conforme a sus respectivas definiciones:
 
-U Rt U Rt U Rt
+Complejo de techumbre: Conjunto de elementos constructivos que conforman la techumbre de una edificación, cuyo plano de terminación interior tiene una inclinación de menos de 60° sexagesimales, medidos desde la horizontal. En el caso de mansardas o paramentos inclinados, se considerará complejo de techumbre todo elemento cuyo plano de terminación interior tenga una inclinación de 60° sexagesimales o menos, medidos desde la horizontal.
 
-W/m2K m2K/W W/m2K m2K/W W/m2K m2K/W
+Complejo de piso ventilado: Conjunto de elementos constructivos que conforman el piso de una edificación y que no están en contacto directo con el terreno. También se considerarán como pisos ventilados los planos horizontales inferiores de recintos cerrados que constituyan una prolongación del espacio interior hacia el exterior y los planos inclinados inferiores de escaleras o rampas cerradas que estén en contacto con el exterior.
 
-1 0,84 1,19 4,0 0,25 3,60 0,28
+Complejo de muros perimetrales: Conjunto de elementos constructivos que conforman los muros de una edificación, cuyo plano de terminación interior tiene una inclinación de más de 60° sexagesimales, medidos desde la horizontal.
 
-2 0,60 1,67 3,0 0,33 0,87 1,15
+Complejo de puertas opacas: Conjunto conformado por el marco de la puerta y la parte opaca de la hoja de esa puerta.
 
-3 0,47 2,13 1,9 0,53 0,70 1,43
+Complejo de ventanas: Conjunto de elementos constructivos que conforman los cerramientos traslúcidos o transparentes de los vanos de una edificación, insertos en los complejos de muros perimetrales, techumbre, piso ventilado y puertas opacas.
 
-4 0,38 2,63 1,7 0,59 0,60 1,67
+Elementos perimetrales: Componentes de la edificación expuestos al ambiente exterior tales como complejos de techumbre, muros perimetrales, piso ventilado, puertas opacas y ventanas, y sobrecimiento en una edificación.
 
-5 0,33 3,03 1,6 0,63 0,50 2,00
+Envolvente térmica: Conjunto que forman los elementos perimetrales de una edificación en los cuales se cumplen las exigencias de acondicionamiento térmico señaladas en esta Ordenanza y que, a su vez, la separan de un recinto no acondicionado o de elementos del ambiente exterior, tales como terreno, aire, agua, asoleamiento, temperatura, humedad u otros.
 
-6 0,28 3,57 1,1 0,91 0,39 2,56
+Infiltración de aire: Entrada no controlada de aire a recintos provocado por diferencias de presión entre recintos acondicionados y no acondicionados o el exterior, a través de aberturas en los complejos de techumbre, muros perimetrales, piso ventilado, puertas y ventanas.
 
-7 0,25 4,00 0,6 1,67 0,32 3,13
+Orientación Global Teórica (OGT): Orientación que se aplica cuando la edificación posee menos del 60% de la superficie total de los muros perimetrales expuesta al ambiente exterior, a espacios contiguos abiertos o a recintos no acondicionados.
 
-1. Techumbres:
+Puente Térmico: Parte de la envolvente térmica de una edificación en la que su resistencia térmica, normalmente uniforme, se reduce por efecto de un elemento estructural o producto de su geometría.
 
-Para efectos del presente artículo se considerará complejo de techumbre al conjunto de elementos constructivos que lo conforman, tales como cielo, cubierta, aislación térmica, cadenetas, vigas.
+Recinto acondicionado: Recinto cerrado o un conjunto de ellos, cuya envolvente térmica cumple con los requisitos de acondicionamiento térmico señalados en esta Ordenanza.
 
-Las exigencias de acondicionamiento térmico para la techumbre serán las siguientes:
+Las exigencias a la envolvente térmica de las edificaciones de uso residencial, y de las clases educación y salud, exceptuados los cementerios y crematorios, corresponden a las señaladas en los siguientes numerales:
 
-a) En el caso de mansardas o paramentos inclinados, se considerará complejo de techumbre todo elemento cuyo cielo tenga una inclinación de 60º sexagesimales o menos medidos desde la horizontal.
+1. USO RESIDENCIAL.
 
-b) Para minimizar la ocurrencia de puentes térmicos, los materiales aislantes térmicos o soluciones constructivas especificadas en el proyecto de arquitectura, sólo podrán estar interrumpidos por elementos estructurales de la techumbre, tales como cerchas, vigas y/o por tuberías, ductos o cañerías de las instalaciones domiciliarias.
+Las exigencias a las edificaciones de uso residencial, incluye a todos los destinos mencionados en el artículo 2.1.25. de esta Ordenanza, con las excepciones que señale este numeral, en las cuales se deberán cumplir las siguientes exigencias:
 
-c) Los materiales aislantes térmicos o las soluciones constructivas especificadas en el proyecto de arquitectura, deberán cubrir el máximo de la superficie de la parte superior de los muros en su encuentro con el complejo de techumbre, tales como cadenas, vigas, soleras, conformando un elemento continuo por todo el contorno de los muros perimetrales.
+A. TRANSMITANCIA TÉRMICA Y RESISTENCIA TÉRMICA.
 
-d) Para obtener una continuidad en el aislamiento térmico de la techumbre, todo muro o tabique que sea parte de ésta, tal como lucarna, antepecho, dintel, u otro elemento que interrumpa el acondicionamiento térmico de la techumbre y delimite un local habitable o no habitable, deberá cumplir con la misma exigencia que le corresponda al complejo de techumbre, de acuerdo a lo señalado en la Tabla 1 del presente artículo.
+Los complejos de techumbre, muros perimetrales, piso ventilado y puertas opacas deberán tener una transmitancia térmica U igual o menor, o una resistencia térmica total Rt igual o superior, a la señalada en la Tabla 1 de este numeral, para la zona térmica en la cual se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
 
-e) Para toda ventana que forme parte del complejo techumbre de una vivienda emplazada entre la zona 3 a 7, ambas inclusive, cuyo plano tenga una inclinación de 60º sexagesimales o menos, medidos desde la horizontal, se deberá especificar una solución de doble vidriado hermético, cuya transmitancia térmica debe ser igual o menor a 3,6 W/m2K.
+TABLA 1. Transmitancia térmica U máxima y resistencia térmica Rt mínima para complejos de techumbre, muros perimetrales, piso ventilado y puertas opacas.
 
-2. Muros:
+Los recintos contiguos a la edificación con uso residencial y destinados a bodegas, logias, instalaciones, quinchos, estacionamientos cubiertos u otros de similar naturaleza y uso, serán considerados como recintos abiertos para efectos de esta reglamentación y no tendrán requisitos de acondicionamiento térmico.
 
-Para la aplicación del presente artículo se considerará complejo de muro al conjunto de elementos constructivos que lo conforman y cuyo plano de terminación interior tenga una inclinación de más de 60º sexagesimales, medidos desde la horizontal.
+Los aislantes térmicos o soluciones constructivas especificadas en el proyecto de arquitectura deberán cubrir en forma continua el máximo de la superficie de los complejos de techumbre, muros perimetrales, piso ventilado y sobrecimiento, procurando la continuidad de la envolvente térmica, la que solo podrá interrumpirse por elementos de la estructura o por las redes o canalizaciones de las instalaciones.
 
-Las exigencias de acondicionamiento térmico para muros serán las siguientes:
+A.1 COMPLEJO DE TECHUMBRE.
 
-a) Las exigencias señaladas en la Tabla 1 del presente artículo serán aplicables sólo a aquellos muros y/o tabiques, soportantes y no soportantes, que limiten los espacios interiores de la vivienda con el espacio exterior o con uno o más locales abiertos y no será aplicable a aquellos muros medianeros que separen unidades independientes de vivienda.
+Para cumplir las exigencias de transmitancia térmica y resistencia térmica en los complejos de techumbre, los aislantes térmicos o la solución constructiva incorporada deberán cubrir el máximo de la superficie de la parte superior de los muros en su encuentro con el complejo de techumbre, tales como cadenas, vigas o soleras superiores, conformando un elemento continuo por todo el contorno de los muros perimetrales.
 
-b) Los recintos cerrados contiguos a una vivienda, tales como bodegas, leñeras, estacionamientos, invernadero, serán considerados como recintos abiertos para efectos de esta reglamentación, y sólo les será aplicable las exigencias de la Tabla 1 a los paramentos que se encuentren contiguos a la envolvente de la vivienda.
+Para obtener una continuidad en el aislamiento térmico, todo muro o tabique, antepecho o dintel que sea parte de una ventana de techo, lucarna, u otro elemento similar en la techumbre, y que interrumpa esa continuidad, deberá cumplir con la misma exigencia que le corresponde al complejo de techumbre, de acuerdo a lo señalado en la Tabla 1 del presente artículo. Lo mismo en caso que este muro o tabique delimite un recinto acondicionado de otro no acondicionado.
 
-c) Para minimizar la ocurrencia de puentes térmicos en tabiques perimetrales, los materiales aislantes térmicos o soluciones constructivas especificadas en el proyecto de arquitectura, sólo podrán estar interrumpidos por elementos estructurales, tales como pies derechos, diagonales estructurales y/o por tuberías, ductos o cañerías de las instalaciones domiciliarias.
+Los complejos de techumbre que contemplen entretecho, deberán considerar una rejilla, celosía u otro elemento que permita la ventilación cruzada, a través de los frontones, las cumbreras o los aleros.
 
-d) En el caso de la albañilería confinada de conformidad a la definición de la NCh 2123, no será exigible el valor de U de la Tabla 1 en los elementos estructurales, tales como pilares, cadenas y vigas.
+A.2 COMPLEJO DE MUROS PERIMETRALES.
 
-e) En el caso de que el complejo muro incorpore materiales aislantes, la solución constructiva deberá considerar barreras de humedad y/o de vapor, según el tipo de material incorporado en la solución constructiva y/o estructura considerada.
+Para cumplir las exigencias de transmitancia térmica y resistencia térmica en los complejos de muros perimetrales, los aislantes térmicos o la solución constructiva adoptada deberán cubrir el máximo de la superficie del muro conformando un elemento continuo por todo el contorno de los muros perimetrales, pudiendo estar interrumpidos solo por los vanos.
 
-f) En el caso de puertas vidriadas exteriores, deberá considerarse como superficie de ventana la parte correspondiente al vidrio de la misma. Las puertas al exterior de otros materiales no tienen exigencias de acondicionamiento térmico.
+A los cerramientos traslúcidos o transparentes de los vanos en los muros perimetrales les serán aplicables las exigencias establecidas en el literal A.5 Complejo de ventanas de este numeral.
 
-3. Pisos Ventilados:
+A.3 COMPLEJO DE PISO VENTILADO.
 
-Para efectos de la aplicación del presente artículo se considerará complejo de piso ventilado al conjunto de elementos constructivos que lo conforman que no están en contacto directo con el terreno. Los planos inclinados inferiores de escaleras o rampas que estén en contacto con el exterior, también se considerarán como pisos ventilados.
+Para obtener una continuidad en el aislamiento térmico del piso ventilado, los elementos salientes y que sean parte de éste deberán cumplir con la misma exigencia que le corresponde al complejo de piso ventilado, de acuerdo a lo señalado en la Tabla 1 de este artículo. Lo anterior, independiente del ángulo de inclinación del elemento.
 
-Para minimizar la ocurrencia de puentes térmicos en pisos ventilados, los materiales aislantes térmicos o soluciones constructivas especificadas en el proyecto de arquitectura, sólo podrán estar interrumpidos por elementos estructurales del piso o de las instalaciones domiciliarias, tales como vigas, tuberías, ductos o cañerías.
+A.4 COMPLEJO DE PUERTAS OPACAS.
 
-B. Alternativas para cumplir las exigencias térmicas definidas en el presente artículo:
+Las exigencias señaladas en la Tabla 1 de este artículo serán aplicables al complejo de puertas opacas y a las partes opacas de puertas con partes traslúcidas o transparentes, que comuniquen recintos acondicionados con el espacio exterior o con uno o más espacios o recintos no acondicionados. Lo anterior, independiente del ángulo de inclinación del elemento y del complejo donde se ubique.
 
-Para los efectos de cumplir con las condiciones establecidas en la Tabla 1 se podrá optar entre las siguientes alternativas:
+Las partes traslúcidas o transparentes de las puertas opacas serán consideradas como parte del complejo de ventanas y les serán aplicables las exigencias establecidas en el literal A.5 Complejo de ventanas, de este numeral.
 
-1. Mediante la incorporación de un material aislante etiquetado con el R100 correspondiente a la Tabla 2:
+Alternativas de cumplimiento
 
-Se deberá especificar y colocar un material aislante térmico, incorporado o adosado, al complejo de techumbre, al complejo de muro, o al complejo de piso ventilado cuyo R100 mínimo, rotulado según la norma técnica NCh 2251, de conformidad a lo indicado en la tabla 2 siguiente:
+Para efectos de cumplir con la transmitancia térmica U máxima y resistencia térmica Rt mínima para complejos de techumbre, muros perimetrales, piso ventilado y puertas opacas en edificaciones establecidas en la Tabla 1 de este numeral, se podrá optar entre las siguientes alternativas:
 
-TABLA 2
+1) Incorporación de un material aislante, rotulado según la norma técnica NCh 2251, que cumpla con una resistencia térmica R100 igual o superior a la señalada en la Tabla 2, para la zona térmica en la que se ubica el proyecto. En las especificaciones técnicas se deberá indicar el aislante térmico incorporado o adosado al complejo de techumbre, complejo de muros perimetrales o complejo de piso ventilado.
 
-ZONA TECHUMBRE PISOS
+TABLA 2. Resistencia térmica R100 mínima del material aislante térmico en complejos de techumbre, muros perimetrales y piso ventilado.
 
-R100(*) MUROS VENTILADOS
+2) Informe de Ensayo, con una antigüedad no mayor a 10 años a partir de la fecha de su realización, demostrando el cumplimiento de la transmitancia o resistencia térmica exigida, otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones.
 
-R100(*) R100(*)
+Para complejos de techumbre, muros perimetrales y piso ventilado, el ensayo debe realizarse conforme al procedimiento indicado en la NCh 851.
 
-1 94 23 23
+Para complejo de puertas opacas el ensayo debe realizarse conforme al procedimiento indicado en la NCh 3076/1 y NCh 3076/2.
 
-2 141 23 98
+3) Memoria de Cálculo demostrando el cumplimiento de la transmitancia o resistencia térmica exigida.
 
-3 188 40 126
+Para complejos de techumbre, muros perimetrales y piso ventilado el cálculo debe realizarse conforme al procedimiento indicado en la NCh 853 y NCh 3117 según corresponda.
 
-4 235 46 150
+Para complejo de puertas opacas, el cálculo debe realizarse conforme al procedimiento indicado en la NCh 3137/1 y NCh 3137/2.
 
-5 282 50 183
+4) Adopción de una solución constructiva inscrita en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, elaborado por el Ministerio de Vivienda y Urbanismo.
 
-6 329 78 239
+A.5 COMPLEJO DE VENTANAS.
 
-7 376 154 295
+El complejo de ventanas según su orientación y valor de transmitancia térmica U, deberá tener un porcentaje de superficies igual o menor al indicado en la Tabla 3, para la zona térmica en la cual se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
 
-(*) Según la norma NCh 2251: R100 = valor equivalente a la Resistencia Térmica (m2K / W) x 100.
+Cuando la edificación posea menos del 60% de la superficie total de los muros perimetrales expuesta al ambiente exterior, a espacios contiguos abiertos o a recintos no acondicionados, solo le será aplicable la exigencia de porcentaje indicado para la orientación global teórica ("OGT").
 
-2. Mediante un Certificado de Ensaye otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el D.S. Nº 10, (V. y U.), de 2002, demostrando el cumplimiento de la transmitancia o resistencia térmica total de la solución del complejo de techumbre, muro y piso ventilado.
+El porcentaje obtenido para la orientación OGT se aplicará al total de los paramentos verticales que componen la envolvente y podrá distribuirse entre los muros perimetrales expuestos al ambiente exterior, a espacios contiguos abiertos o recintos no acondicionados.
 
-3. Mediante cálculo, el que deberá ser realizado de acuerdo a lo señalado en la norma NCh 853, demostrando el cumplimiento de la transmitancia o resistencia térmica del complejo de techumbre, muro y piso ventilado. Dicho cálculo deberá ser efectuado por un profesional competente.
+TABLA 3. Porcentaje máximo permitido de superficie de ventanas según orientación y valor U, para cada zona térmica.
 
-4. Especificar una solución constructiva para el complejo de techumbre, muro y piso ventilado que corresponda a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, confeccionado por el Ministerio de Vivienda y Urbanismo.
+Para determinar el porcentaje máximo de superficie de ventanas permitido según la orientación del proyecto, se deberá realizar el siguiente procedimiento:
 
-2. EXIGENCIAS PARA VENTANAS:
+a) Identificar las orientaciones correspondientes a los paramentos verticales de la envolvente térmica. Se deberá determinar la orientación predominante para cada muro perimetral de la unidad habitacional a partir de la dirección normal, que corresponde a la línea imaginaria perpendicular al plano de fachada, expresada en grados sexagesimales. La dirección 0° estará definida por el norte geográfico, por lo que las orientaciones estarán limitadas de acuerdo a lo establecido en la Tabla 4.
 
-Se considerará complejo de ventana, a los elementos constructivos que constituyen los vanos vidriados de la envolvente de la vivienda.
+TABLA 4. Definición de orientaciones de los muros perimetrales para acreditación del cumplimiento de exigencias del complejo de ventanas.
 
-A. Porcentaje máximo superficie de ventanas respecto a paramentos verticales de la envolvente:
+b) Identificar el porcentaje máximo permitido de superficie de ventanas por orientación según transmitancia térmica del complejo de ventanas conforme a Tabla 3. En el caso que el proyecto considere ventanas de distinto valor de transmitancia térmica U en una misma orientación, el porcentaje máximo permitido de superficie de ventanas corresponderá al de la ventana de mayor valor U de dicha orientación.
 
-El complejo de ventana deberá cumplir con las exigencias establecidas en la Tabla 3, en relación al tipo de vidrio que se especifique y a la zona térmica en la cual se emplace el proyecto de arquitectura. El tipo de vidrio a utilizar en las superficies de ventanas deberá ser indicado en las especificaciones técnicas del proyecto de arquitectura.
+c) Determinar la superficie de los paramentos verticales de la envolvente térmica por orientación. La superficie por orientación a considerar para este cálculo corresponderá a la suma de las superficies interiores de todos los paramentos verticales perimetrales identificados para cada orientación, incluyendo muros medianeros.
 
-Para determinar el porcentaje máximo de superficie de ventanas de un proyecto de arquitectura, se deberá realizar el siguiente procedimiento:
+d) Determinar la superficie máxima de ventanas permitida por orientación, según la siguiente fórmula:
 
-a) Determinar la superficie de los paramentos verticales de la envolvente del proyecto de arquitectura. La superficie total a considerar para este cálculo, corresponderá a la suma de las superficies interiores de todos los muros perimetrales que considere la unidad habitacional, incluyendo los medianeros y muros divisorios.
+e) Determinar la superficie de ventanas por orientación del proyecto, correspondiente a la suma de la superficie de vanos de los paramentos verticales identificados para cada orientación. Las superficies de ventanas obtenidas deberán ser iguales o menores a la superficie máxima determinada de conformidad con lo establecido en la letra d) precedente, para cada orientación. Para el caso de ventanas salientes, se considerará como superficie de ventana aquella correspondiente al desarrollo completo del complejo de ventanas. En estos casos, se deberá determinar la orientación para cada superficie vidriada, de acuerdo a la dirección de la normal, para ser considerada en el cálculo por cada orientación según corresponda.
 
-b) Determinar la superficie total de ventanas del proyecto de arquitectura, correspondiente a la suma de la superficie de los vanos del muro en el cual está colocada la ventana, considerando, para ello, el marco como parte de su superficie. Para el caso de ventanas salientes, se considerará como superficie de ventana aquella correspondiente al desarrollo completo de la parte vidriada.
+Todo complejo de ventanas en techumbre de edificaciones ubicadas entre la zona térmica B a I, ambas inclusive, cuyo plano tenga una inclinación de 60° sexagesimales o menos, medidos desde la horizontal, deberá tener una transmitancia térmica igual o menor a 3,6 W/(m²K).
 
-La superficie máxima de ventanas que podrá contemplar el proyecto de arquitectura, corresponderá a la superficie que resulte de aplicar la Tabla 3, respecto de la superficie de los paramentos verticales de la unidad habitacional señalada en el punto a) precedente, considerando la zona y el tipo de vidrio que se especifique.
+De manera alternativa a las exigencias de porcentaje máximo de superficie de ventanas según orientación y valor U, establecidas en la Tabla 3, y para las zonas térmicas B a I (ambas inclusive), se podrá optar por el valor de transmitancia térmica ponderada máxima de los complejos de ventanas y muros perimetrales "Upvm", según lo establecido en la Tabla 5.
 
-TABLA 3
+Las soluciones constructivas para complejos de muros perimetrales y de ventanas, según su orientación y valor de U de la ventana, deberán cumplir con el valor de Upvm máximo por orientación indicado en la Tabla 5 según zona térmica.
 
-VENTANAS
+TABLA 5. Valor U ponderado máximo de los complejos de ventanas y de muros perimetrales según orientación y valor U de ventana, para cada zona térmica.
 
-% MÁXIMO DE SUPERFICIE VIDRIADA RESPECTO A PARAMENTOS VERTICALES DE LA ENVOLVENTE
+En el caso que el proyecto considere ventanas de distinto valor de transmitancia térmica U en una misma orientación, el Upvm se determinará utilizando el valor U mayor de las ventanas de dicha orientación.
 
-ZONA VIDRIO DVH
+El valor U de la solución constructiva de muro deberá cumplir las exigencias de valor U máximo indicado en la Tabla 1, para la zona térmica en la que se ubica el proyecto.
 
-MONOLÍTICO DOBLE VIDRIADO HERMÉTICO (c)
+Para determinar el valor de Upvm máximo permitido por orientación se deberá realizar el siguiente procedimiento:
 
-(b) 3.6 W/m2K ≥ U &gt; 2.4 W/m2K (a) U ≤ 2.4 W/m2K
+a) Identificar las orientaciones correspondientes a los paramentos verticales de la envolvente térmica. Se deberá determinar la orientación predominante para cada muro perimetral de la unidad habitacional a partir de la dirección normal, que corresponde a la línea imaginaria perpendicular al plano de fachada, expresada en grados sexagesimales. La dirección 0° estará definida por el norte geográfico, por lo que las orientaciones estarán limitadas de acuerdo a lo establecido en la Tabla 4.
 
-1 50% 60% 80%
+b) Determinar la superficie de los paramentos verticales de la envolvente térmica por orientación. La superficie por orientación a considerar para este cálculo corresponderá a la suma de las superficies interiores de todos los paramentos verticales perimetrales identificados para cada orientación, excluyendo medianeros.
 
-2 40% 60% 80%
+c) Determinar la superficie de ventanas por orientación del proyecto, correspondiente a la suma de la superficie de vanos de los paramentos verticales identificados para cada orientación.
 
-3 25% 60% 80%
+d) Determinar el valor de Upvm máximo permitido por orientación, según la siguiente fórmula:
 
-4 21% 60% 75%
+El resultado de Upvm obtenido según la fórmula anterior, para cada orientación, deberá ser igual o menor al indicado en la Tabla 5, para la zona térmica en la que se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
 
-5 18% 51% 70%
+Alternativas de cumplimiento.
 
-6 14% 37% 55%
+Para acreditar el valor de transmitancia térmica del complejo de ventanas, según lo dispuesto en este numeral, se podrá optar entre las siguientes alternativas:
 
-7 12% 28% 37%
+1) Informe de Ensayo de transmitancia térmica, realizado conforme a la NCh 3076/1 y NCh 3076/2, otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones.
 
-(a) La doble ventana que forme una cámara de aire, se asimila al DVH, con valor U entre 3,6 y 2,4 W/m2K (b) Vidrio monolítico:
+2) Memoria de Cálculo de transmitancia térmica "U", desarrollado conforme al procedimiento de la norma NCh 3137/1 y NCh 3137/2.
 
-De acuerdo a la NCh 132, se entenderá por aquel producto inorgánico de fusión, que ha sido enfriado hasta un estado rígido sin cristalización, formado por una sola lámina de vidrio.
+3) Adopción de una solución constructiva de ventana que corresponda a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, elaborado por el Ministerio de Vivienda y Urbanismo.
 
-(c) Doble vidriado hermético (DVH):
+Para acreditar el porcentaje de ventanas según orientación y valor "U" se presentará un informe acreditando el cumplimiento de la superficie de complejo de ventanas por orientación exigida y el valor de transmitancia térmica por orientación, según Tabla 3.
 
-De acuerdo a la NCh 2024, se entenderá por doble vidriado hermético el conjunto formado por dos o más vidrios paralelos, unidos entre sí, por un espaciador perimetral, que encierran en su interior una cámara con aire deshidratado o gas inerte.
+Para acreditar el valor de transmitancia térmica ponderada máxima de los complejos de ventanas y de muros perimetrales, según orientación y valor "U" de ventana se presentará un Informe acreditando el cumplimiento del valor de transmitancia térmica máxima ponderada de ventana y muro según orientación según la Tabla 5.
 
-En el caso que el proyecto de arquitectura considere más de un tipo de vidrio, según Tabla 3, se deberá determinar el máximo porcentaje posible para cada tipo de vidrio respecto a la superficie total de la envolvente vertical. Para ello, por cada tipo de vidrio a utilizar, se deberá aplicar la siguiente fórmula:
+El complejo de ventanas de las edificaciones de uso residencial destinadas a hoteles, deberá cumplir las exigencias establecidas en el literal A.5 del numeral 2. de este artículo.
 
-TP x MV = MSV
+A.6 SOBRECIMIENTOS.
 
-100
+El material aislante térmico utilizado en los sobrecimientos de pisos sobre el terreno en edificaciones deberá tener una resistencia térmica igual o superior a la indicada en la Tabla 6, para la zona térmica en la que se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079. Si no se contempla sobrecimientos, el elemento que cumpla la función de separar el nivel de piso terminado de la edificación y sus muros perimetrales del nivel del terreno, deberá cumplir esta misma exigencia.
 
-TP: Porcentaje del tipo de vidrio respecto del total de la superficie vidriada.
+Para cumplir esta resistencia, y minimizar el puente térmico en el o los pisos en contacto con el terreno, se deberá incorporar un material aislante, rotulado según la norma técnica NCh 2251, que cumpla con una resistencia térmica R100 igual o superior a la indicada en la Tabla 6.
 
-MV: Porcentaje máximo de superficie vidriada respecto a paramentos verticales de la envolvente, según Tabla 3.
+TABLA 6. Resistencia térmica R100 mínima del material aislante térmico utilizado en los sobrecimientos de pisos sobre el terreno.
 
-MSV: Porcentaje máximo de superficie, para tipo de vidrio, respecto de la superficie total de la envolvente.
+Los aislantes térmicos especificados en las soluciones constructivas que den cumplimiento a las exigencias señaladas anteriormente deberán ser instalados por el exterior, cubriendo el sobrecimiento o el elemento que corresponda, desde el nivel de piso terminado hasta el hombro de la fundación, o bien desde el nivel de piso terminado hasta 30 cm bajo el nivel de terreno.
 
-B. Método Alternativo del U ponderado:
+El radier afinado o la losa apoyada sobre el terreno, no tendrá exigencia de colocación de material aislante bajo este.
 
-Sólo en las zonas térmicas: 3, 4, 5, 6 y 7, se podrá utilizar un método alternativo del U ponderado el cual sólo podrá aplicarse para el caso de vidrios monolíticos.
+Alternativas de cumplimiento.
 
-Para los casos previstos en el párrafo anterior, se podrá aumentar la superficie vidriada sobre los valores de Tabla 3 de este artículo, compensando el aumento de superficie vidriada con el mejoramiento de la transmitancia térmica de la solución de muros. El U ponderado deberá tener un valor igual o menor al señalado para la zona en la que se ubique el proyecto de arquitectura, de acuerdo a la Tabla 4 siguiente:
+Para los efectos de acreditar el valor de resistencia térmica R100 de los aislantes térmicos incorporados en sobrecimientos, o en el elemento que corresponda, se podrá optar entre las siguientes alternativas:
 
-TABLA 4
+1) Incorporación de un material aislante, rotulado según la norma técnica NCh 2251, que cumpla con una resistencia térmica R100 igual o superior a la señalada en la Tabla 6 para la zona térmica que corresponda a la ubicación del proyecto.
 
-ZONA U Ponderado W/m2K
+2) Adopción de alguna de las soluciones constructivas inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, elaborado por el Ministerio de Vivienda y Urbanismo.
 
-3 2.88
+B. CONDENSACIÓN SUPERFICIAL E INTERSTICIAL.
 
-4 2.56
+En los complejos de techumbre, muros perimetrales y piso ventilado se deberá verificar que no exista riesgo de condensación superficial e intersticial, de acuerdo al procedimiento de la NCh 1973 y a las condiciones de cálculo que definirá el Ministerio de Vivienda y Urbanismo mediante Resolución, debiendo acreditar este cumplimiento por medio de una Memoria de Cálculo.
 
-5 2.36
+El análisis de condensación superficial debe incluir los puentes térmicos contenidos en la solución constructiva o en el sistema constructivo adoptado para los complejos de techumbre, muros perimetrales y piso ventilado.
 
-6 1.76
+El diseño de la solución constructiva de los complejos de techumbre, muros perimetrales y piso ventilado debe permitir que el vapor de agua que ingrese al respectivo complejo pueda salir al exterior.
 
-7 1.22
+Las edificaciones de uso residencial destinadas a hoteles estarán exentas de cumplir las exigencias de condensación superficial e intersticial en los complejos de techumbre, muros perimetrales y piso ventilado.
 
-Para determinar la transmitancia térmica ponderada de los paramentos verticales de la envolvente del proyecto de arquitectura se deberá calcular el U ponderado del proyecto de conformidad a la fórmula que se señala, debiendo los muros perimetrales en contacto al exterior poseer una transmitancia térmica igual o menor al valor establecido, según zona térmica, en las exigencias para muros de la Tabla 1 del presente artículo:
+C. INFILTRACIONES DE AIRE.
 
-(SM x UM) + (SV x UV) = U Ponderado
+Las edificaciones de uso residencial, exceptuando los hoteles, deberán controlar las infiltraciones de aire cumpliendo los estándares de clase de infiltración y clase de permeabilidad al aire indicados a continuación.
 
-STE
+La envolvente térmica deberá tener una clase de infiltración de aire medido a 50 Pa igual o menor a la clase de infiltración señalada en la Tabla 7, para la provincia en la cual se ubica el proyecto.
 
-SM: Superficie de muro
+TABLA 7. Clase de infiltración de aire máxima permitida para la envolvente térmica de las edificaciones, excluyendo de ésta los complejos de puertas opacas y ventanas.
 
-UM: Transmitancia térmica del muro
+La acreditación de la clase de infiltración de aire máxima de la envolvente térmica se realizará mediante un Informe de Ensayo en terreno, realizado conforme al procedimiento indicado en la NCh 3295, elaborado por el arquitecto del proyecto, un profesional competente o especialista, con inscripción vigente en el Registro de Consultores del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 135, de 1978 (V. y U.) y sus modificaciones, o por un laboratorio con Inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones.
 
-SV: Superficie de ventana
+El ensayo se aplicará una vez terminada la ejecución de la obra, a una muestra representativa cuyo tamaño será el indicado en la Tabla 8, según el tamaño del lote. Si el resultado de los ensayos alcanza la cantidad de ítemes no conformes indicados en esta Tabla, éste se entenderá como rechazado. En estos casos deberá repetirse el ensayo, aplicándose a un tamaño de muestra correspondiente al doble del indicado según el tamaño del lote.
 
-UV: Transmitancia térmica ventana
+TABLA 8. Tamaño de la muestra de ensayo en terreno, según tamaño del lote y cantidad de ítemes no conformes.
 
-STE: Superficie total de los paramentos verticales
+De manera alternativa a las exigencias de Clase de Infiltración de aire máxima establecidas en la Tabla 7, y mientras en la región donde se ubica el proyecto no existan profesionales competentes, especialistas y laboratorios con inscripción vigente en los registros del Ministerio de Vivienda y Urbanismo habilitados para realizar un ensayo en terreno conforme al procedimiento indicado en la NCh 3295, y para tamaños de lotes de 10 o menos unidades, se podrá optar por la especificación de una solución constructiva determinada en la partida de sellos de las Especificaciones Técnicas, en:
 
-de la envolvente del proyecto de arquitectura
+- encuentros entre marcos y vanos de puertas y ventanas.
 
-Para la aplicación de la fórmula del párrafo anterior, los muros que limiten con uno o más locales cerrados, deberán considerarse como parte de la envolvente para efectos de cálculo del U ponderado. Para estos muros se adoptará la transmitancia establecida para la zona térmica en la cual se emplace el proyecto de arquitectura, de acuerdo a la Tabla 1, independiente de su transmitancia térmica real.
+- uniones de elementos de distinta materialidad.
 
-En el caso en que los paramentos verticales del proyecto de arquitectura estén compuestos por más de una solución constructiva, determinando así, más de una transmitancia térmica para muros, se aplicará la siguiente fórmula para determinar el U ponderado:
+- uniones de elementos de una misma materialidad.
 
-(SM-1 x U 1) + (SM-2 x U - 2) + (SM- n... x U - n...) + (SV x UV) = U Ponderado
+- perforaciones de todas las instalaciones.
 
-STE
+- encuentro de solera inferior con su elemento de soporte.
 
-SM-1: Superficie muro 1
+- encuentro de solera superior con su elemento de soporte.
 
-U-1: Transmitancia térmica muro 1
+- dispositivos de ventilación.
 
-SM-2: Superficie muro 2
+- ductos de evacuación de gases.
 
-U-2: Transmitancia térmica muro 2
+- otros encuentros o uniones similares.
 
-SV: Superficie ventana
+Esta alternativa dejará de estar permitida cuando el Ministerio de Vivienda y Urbanismo lo establezca mediante resolución.
 
-UV: Transmitancia térmica ventana.
+Los complejos de puertas opacas y ventanas de las edificaciones de uso residencial, deberán tener una clase final de permeabilidad al aire, medido a 100Pa, igual o mayor a la señalada en la Tabla 9 para la zona térmica en la cual se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
 
-STE: Superficie total de los paramentos
+TABLA 9. Clase de Permeabilidad al aire mínima para complejos de puertas opacas y ventanas.
 
-verticales de la envolvente
+Para los efectos de acreditar la Clase de Permeabilidad al aire mínima de los complejos de puertas opacas y ventanas se podrá optar entre las siguientes alternativas:
 
-En ambos casos si el proyecto de arquitectura contempla más de un tipo de ventana, asimilados a distintos valores de Transmitancia, según la Tabla 3, se ponderará, toda la superficie vidriada con el valor de transmitancia térmica del vidrio monolítico.
+1. Informe de Ensayo, realizado conforme al procedimiento indicado en la NCh 3296 y NCh 3297, otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones, demostrando el cumplimiento de la Clasificación final de Permeabilidad al aire de los complejos de ventanas y puertas opacas de la edificación.
 
-La superficie de ventana para el vidrio monolítico del cálculo del U ponderado no podrá, en ningún caso, aumentar más de un 40 % respecto al porcentaje máximo de superficie permitido para la zona térmica, según lo señalado en la Tabla 3.
+2. Adopción de un elemento constructivo de puerta y ventana que corresponda a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, elaborado por el Ministerio de Vivienda y Urbanismo.
 
-> **Nota.** El artículo transitorio del Decreto 192, Vivienda, publicado el 04.01.2005, dispone que la presente norma, comenzará a regir una vez transcurrido un año desde la fecha de publicación.
+D. VENTILACIÓN.
 
-#### Artículo 4
+Las edificaciones destinadas al uso residencial, exceptuando los hoteles, deberán contar con un sistema de ventilación que asegure una tasa de ventilación no menor a las indicadas en las NCh 3308 y NCh 3309, según corresponda, y cuyo diseño esté orientado a proveer una calidad de aire interior aceptable.
 
-1.10 Bis. Tratándose de permisos de obra nueva, ampliación o reconstrucción de viviendas en áreas en que se esté aplicando un plan de prevención o descontaminación conforme a lo establecido en la Ley Nº19.300 sobre Bases Generales del Medio Ambiente, deberá estarse, en materia de exigencias de acondicionamiento térmico, a lo dispuesto en dicho Plan.
+Las tasas de ventilación mínimas se acreditarán mediante un Informe de acreditación de cumplimiento de la tasa de ventilación conforme lo señalan la NCh 3308 y NCh 3309, según corresponda.
+
+2. USO EQUIPAMIENTO DE LAS CLASES EDUCACIÓN Y SALUD (EXCEPTO CEMENTERIOS Y CREMATORIOS) Y AQUELLAS DEL USO RESIDENCIAL DESTINADAS A HOTELES, CUANDO SE INDIQUE.
+
+Las exigencias a las edificaciones de uso equipamiento de las clases educación y salud, señaladas en el artículo 2.1.33. de esta Ordenanza, con las excepciones que señale este numeral, y exceptuando los cementerios y crematorios, y aquellas del uso residencial destinadas a hoteles, cuando se indique, serán las siguientes:
+
+A. TRANSMITANCIA TÉRMICA y RESISTENCIA TÉRMICA.
+
+Los complejos de techumbre, muros perimetrales, piso ventilado y puertas opacas deberán tener una transmitancia térmica U igual o menor, o una resistencia térmica total Rt igual o superior, a la señalada en la Tabla 10 de este numeral, para la zona térmica en la que se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
+
+TABLA 10. Transmitancia térmica U máxima y resistencia térmica Rt mínima para complejos de techumbre, muros perimetrales, piso ventilado y puertas opacas.
+
+Los recintos cerrados no acondicionados, contiguos a la edificación, y destinados a bodegas, talleres de reparación o de materiales, instalaciones, estacionamientos cubiertos u otros de similar naturaleza, serán considerados como recintos abiertos para efectos de esta reglamentación y no tendrán requisitos de acondicionamiento térmico.
+
+Los aislantes térmicos o soluciones constructivas especificadas en el proyecto deberán cubrir en forma continua el máximo de la superficie de los complejos de techumbre, muros perimetrales, piso ventilado y sobrecimiento, procurando la continuidad de la envolvente térmica, la que solo podrá interrumpirse por elementos de la estructura o por las redes o canalizaciones de las instalaciones.
+
+A.1 COMPLEJO DE TECHUMBRE.
+
+Para cumplir las exigencias de transmitancia térmica y resistencia térmica, en los complejos de techumbre los aislantes térmicos o la solución constructiva incorporada deberá cubrir el máximo de la superficie de la parte superior de los muros en su encuentro con el complejo de techumbre, tales como cadenas, vigas o soleras superiores, conformando un elemento continuo por todo el contorno de los muros perimetrales.
+
+Para obtener una continuidad en el aislamiento térmico, todo muro o tabique, antepecho o dintel que sea parte de una ventana de techo, lucarna, u otro elemento similar en la techumbre, y que interrumpa esa continuidad, deberá cumplir con la misma exigencia que le corresponda al complejo de techumbre, de acuerdo a lo señalado en la Tabla 10 de este numeral. Igual exigencia se aplicará al muro o tabique que delimite un recinto acondicionado de otro no acondicionado.
+
+A.2 COMPLEJO DE MUROS PERIMETRALES.
+
+Para cumplir las exigencias de transmitancia térmica y resistencia térmica en los complejos de muros perimetrales, los aislantes térmicos o la solución constructiva adoptada deberán cubrir el máximo de la superficie del muro conformando un elemento continuo por todo el contorno de los muros perimetrales, pudiendo estar interrumpidos solo por los vanos.
+
+A los cerramientos traslúcidos o transparentes de los vanos en los muros perimetrales les serán aplicables las exigencias señaladas en el literal A.5 Complejo de ventanas de este numeral.
+
+A.3 COMPLEJO DE PISO VENTILADO.
+
+Para obtener una continuidad en el aislamiento térmico del piso ventilado, los elementos salientes y que sean parte de éste deberán cumplir con la misma exigencia que le corresponda al complejo del cual son parte, de acuerdo a lo señalado en la Tabla 10 de este artículo. Lo anterior independiente del ángulo de inclinación del elemento.
+
+A.4 COMPLEJO DE PUERTAS OPACAS.
+
+Las exigencias señaladas en la Tabla 10 del presente artículo serán aplicables al complejo de puertas opacas y a las partes opacas de puertas con partes traslúcidas o transparentes, que comuniquen recintos acondicionados con el espacio exterior o con uno o más espacios o recintos no acondicionados. Lo anterior, independiente del ángulo de inclinación del elemento y del complejo donde se ubique.
+
+Las partes vidriadas de las puertas serán consideradas como elementos traslúcidos y les serán aplicables las exigencias establecidas para el Complejo de ventanas señalados en el literal A.5 de este numeral.
+
+Alternativas de cumplimiento.
+
+Para los efectos de acreditar el cumplimiento de las exigencias establecidas en la Tabla 10, conforme a lo señalado en este numeral, se podrá optar entre las siguientes alternativas:
+
+a) Incorporación de un material aislante, rotulado según la norma técnica NCh 2251, que cumpla con una resistencia térmica R100 igual o superior a la señalada en la Tabla 11 para la zona térmica en la que se ubica el proyecto. Se deberá especificar y colocar un material aislante térmico, incorporado o adosado, a los complejos de techumbre, muros perimetrales o piso ventilado.
+
+TABLA 11. Resistencia térmica R100 mínima del material aislante térmico en complejos de techumbre, muros perimetrales y piso ventilado.
+
+b) Informe de Ensayo, con una antigüedad no mayor a 10 años a partir de la fecha de su realización, demostrando el cumplimiento de la transmitancia o resistencia térmica exigida, otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones.
+
+Para complejos de techumbre, muros perimetrales y piso ventilado, el ensayo debe realizarse conforme al procedimiento indicado en la NCh 851.
+
+Para complejo de puertas opacas el ensayo debe realizarse conforme al procedimiento indicado en la NCh 3076/1 y NCh 3076/2.
+
+c) Memoria de Cálculo demostrando el cumplimiento de la transmitancia o resistencia térmica exigida.
+
+Para complejos de techumbre, muros perimetrales y piso ventilado el cálculo debe realizarse conforme al procedimiento indicado en la NCh 853 y NCh 3117 según corresponda.
+
+Para complejo de puertas opacas, el cálculo debe realizarse conforme al procedimiento indicado en la NCh 3137/1 y NCh 3137/2.
+
+d) Adopción de alguna de las soluciones constructivas inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, confeccionado por el Ministerio de Vivienda y Urbanismo.
+
+A.5 COMPLEJO DE VENTANAS.
+
+El complejo de ventanas de edificaciones a las cuales le aplican las exigencias de este numeral, y aquellas del uso residencial destinadas a hoteles, deberán tener una transmitancia térmica U igual o menor, o una resistencia térmica Rt igual o mayor, a la señalada en la Tabla 12, para la zona térmica en la que se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
+
+TABLA 12. Transmitancia térmica U máxima y resistencia térmica Rt mínima para el complejo de ventanas.
+
+Todo complejo de ventanas en techumbre de las edificaciones ubicadas entre la zona térmica B a I, ambas inclusive, cuyo plano tenga una inclinación de 60° sexagesimales o menos, medidos desde la horizontal, deberá tener una transmitancia térmica igual o menor a 3,6 W/(m²K).
+
+Alternativas de cumplimiento
+
+Para efectos de acreditar el valor de transmitancia térmica del complejo de ventanas, de acuerdo a la Tabla 12 se podrá optar entre las siguientes alternativas:
+
+a) Informe de Ensayo de transmitancia térmica U, realizado conforme a la NCh 3076/1 y NCh 3076/2, demostrando el cumplimiento de la transmitancia térmica indicada en la Tabla 12, otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones.
+
+b) Memoria de Cálculo de transmitancia térmica U, elaborado conforme al procedimiento de la norma NCh 3137/1 y NCh 3137/2, demostrando el cumplimiento de la transmitancia térmica indicada en la Tabla 12.
+
+c) Adopción de un elemento que corresponda a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, confeccionado por el Ministerio de Vivienda y Urbanismo.
+
+A.6 SOBRECIMIENTOS.
+
+El material aislante térmico utilizado en los sobrecimientos de pisos sobre el terreno en edificaciones, deberá tener una resistencia térmica R100 igual o superior a la indicada en la Tabla 13, para la zona térmica en la que se ubica el proyecto de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079. Si no se contempla sobrecimiento, el elemento que cumpla la función de separar el nivel de piso terminado de la edificación y sus muros perimetrales, del nivel del terreno, deberá cumplir esta misma exigencia.
+
+TABLA 13. Resistencia térmica R100 mínima del material aislante térmico utilizado en los sobrecimientos de pisos sobre el terreno.
+
+Los aislantes térmicos especificados en las soluciones constructivas que den cumplimiento a las exigencias señaladas anteriormente, deberán ser instalados por el exterior del sobrecimiento o del elemento que corresponda, desde el nivel de piso terminado hasta el hombro de la fundación, o bien, desde el nivel de piso terminado hasta 30 cm bajo el nivel de terreno natural.
+
+El radier afinado o la losa apoyada sobre el terreno no tendrá exigencia de colocación de material aislante bajo esta.
+
+Alternativas de cumplimiento
+
+Para efectos de acreditar la resistencia térmica R100 igual o superior a la indicada en la Tabla 13, del material aislante térmico utilizado en los sobrecimientos de pisos sobre el terreno, para la zona térmica en la que se ubica el proyecto, se podrá optar entre las siguientes alternativas:
+
+1) Incorporación de un material aislante, rotulado según la norma técnica NCh 2251, que cumpla con una resistencia térmica R100 igual o superior a la señalada en la Tabla 13 para la zona térmica que le corresponda al proyecto de arquitectura.
+
+2) Especificación de alguna de las soluciones constructivas inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, elaborado por el Ministerio de Vivienda y Urbanismo.
+
+B. CONDENSACIÓN SUPERFICIAL E INTERSTICIAL.
+
+En los complejos de techumbre, muros perimetrales y piso ventilado de las edificaciones, deberá acreditarse que no existe riesgo de condensación superficial e intersticial mediante una Memoria de Cálculo, elaborada conforme al procedimiento de la NCh 1973 y a las condiciones de cálculo definidas por el Ministerio de Vivienda y Urbanismo mediante resolución, demostrando que no existe condensación superficial ni intersticial en los complejos constructivos indicados en la exigencia.
+
+El análisis de condensación superficial debe incluir los puentes térmicos contenidos en los sistemas constructivos de los complejos de techumbre, muros perimetrales y piso ventilado.
+
+C. INFILTRACIONES DE AIRE.
+
+Las edificaciones a las cuales le aplican las exigencias de este numeral, deberán controlar las infiltraciones de aire cumpliendo los estándares de clase de infiltración y clase de permeabilidad al aire indicados a continuación.
+
+La envolvente térmica deberá tener una clase de infiltración de aire medido a 50Pa igual o menor a la clase de infiltración señalada en la Tabla 14, para la provincia en la cual se ubica el proyecto.
+
+TABLA 14. Clase de infiltración de aire máxima permitida para la envolvente térmica de las edificaciones, excluyendo de ésta los complejos de puerta y ventanas.
+
+La acreditación de la clase de infiltración de aire máxima de la envolvente térmica se realizará mediante Informe de Ensayo en terreno, elaborado conforme al procedimiento indicado en la NCh 3295 por el arquitecto del proyecto, un profesional competente o especialista, con inscripción vigente en el Registro de Consultores del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 135, de 1978 (V. y U.) y sus modificaciones, o por un laboratorio con Inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones.
+
+El ensayo en terreno se aplicará una vez terminada la ejecución de la obra, a una muestra representativa dependiendo del tipo de edificación.
+
+Para edificaciones de la clase educación, el tamaño de la muestra a ensayar será el indicado en la Tabla 15, según la cantidad de recintos docentes que contemple el proyecto.
+
+Los proyectos ubicados en las provincias de Parinacota, Tamarugal, El Loa, Coyhaique, Aysén, General Carrera, Capitán Prat, Última Esperanza, Magallanes, Tierra del Fuego y Antártica Chilena, solo podrán utilizar esta alternativa de acreditación.
+
+TABLA 15. Tamaño de la muestra de ensayo en terreno en edificaciones de la clase educación.
+
+Para la determinación de la cantidad total de recintos docentes de las edificaciones de la clase educación que son parte de la muestra de ensaye, se contabilizarán los siguientes tipos de recintos que sean parte del proyecto:
+
+- Laboratorios.
+
+- Talleres y Multitalleres.
+
+- Aulas.
+
+- Aulas de integración.
+
+- Sala de profesores.
+
+- Salas de actividades de párvulos.
+
+- Biblioteca o CRA.
+
+Para edificaciones de la clase salud, el tamaño de la muestra corresponderá al 5% de la cantidad total de la sumatoria de los recintos perimetrales acondicionados en la edificación.
+
+De manera alternativa a las exigencias de Clase de Infiltración de aire máxima establecidas en la Tabla 14, y mientras en la región donde se ubica el proyecto no existan profesionales competentes, especialistas y laboratorios con inscripción vigente en los registros del Ministerio de Vivienda y Urbanismo habilitados para realizar un ensayo en terreno realizado conforme al procedimiento indicado en la NCh 3295, se podrá optar por la especificación de una solución constructiva determinada en la partida de sellos de las Especificaciones Técnicas, en:
+
+- encuentros entre marcos y vanos de puertas y ventanas.
+
+- uniones de elementos de distinta materialidad.
+
+- uniones de elementos de una misma materialidad.
+
+- perforaciones de todas las instalaciones.
+
+- encuentro de solera inferior con su elemento de soporte.
+
+- encuentro de solera superior con su elemento de soporte.
+
+- dispositivos de ventilación.
+
+- ductos de evacuación de gases.
+
+- otros encuentros o uniones similares.
+
+Esta alternativa dejará de estar permitida cuando el Ministerio de Vivienda y Urbanismo lo establezca mediante resolución.
+
+Los complejos de ventanas y de puertas opacas de las edificaciones a las cuales le aplican las exigencias de este numeral deberán tener una clase final de permeabilidad al aire, medido a 100Pa, igual o mayor a la señalada en la Tabla 16 para la zona térmica en la que se ubica el proyecto, de acuerdo con los planos de zonificación térmica para la reglamentación térmica, contenidos en la NCh 1079.
+
+TABLA 16. Clase de Permeabilidad al aire mínima para complejos de ventanas y de puertas opacas de las edificaciones.
+
+Alternativas de cumplimiento
+
+1) Informe de Ensayo, realizado conforme al procedimiento indicado en la NCh 3296 y NCh 3297, otorgado por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control Técnico de Calidad de la Construcción del Ministerio de Vivienda y Urbanismo, reglamentado por el DS N° 10 (V. y U.), de 2002, y sus modificaciones, demostrando el cumplimiento de la Clasificación final de Permeabilidad al aire de los complejos de ventanas y puertas de la edificación.
+
+2) Adopción de un elemento que corresponda a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, confeccionado por el Ministerio de Vivienda y Urbanismo.
+
+D. VENTILACIÓN.
+
+Las edificaciones de la clase educación deberán contar con un sistema de ventilación que asegure una tasa de ventilación no menor a la indicada en la NCh 3308 y cuyo diseño esté orientado a proveer una calidad de aire interior aceptable.
+
+La tasa de ventilación mínima y los requisitos del sistema de ventilación, necesarios para proveer una calidad de aire interior aceptable, se acreditarán mediante un Informe de cumplimiento de la tasa de ventilación conforme lo señala la NCh 3308.
+
+Las edificaciones de la clase salud estarán eximidas del cumplimiento de las exigencias de ventilación.
+
+> **Nota.** El artículo segundo transitorio del Decreto 15, Vivienda, publicado el 27.05.2024, dispone que el valor de la demanda aplicable a las edificaciones destinadas a vivienda, indicado en el inciso quinto del presente artículo, comenzará a regir una vez transcurridos treinta y seis meses contados desde la fecha de su publicación en el Diario Oficial.
 
 #### Artículo 4
 
@@ -8110,9 +8288,9 @@ b) Declaración simple del
 
 propietario de ser
 
-titular del dominio
+titular del dominio del
 
-del predio.
+predio.
 
 c) Las disposiciones especiales
 
@@ -8120,25 +8298,29 @@ a que se acoge el proyecto,
 
 en su caso.
 
-d) Los profesionales competentes
+d) Los profesionales
 
-que intervienen en los
+competentes que
+
+intervienen en los
 
 proyectos.
 
 e) Si el proyecto consulta,
 
-en todo o parte, edificios
+en todo o parte,
 
-de uso público.
+edificios de uso público.
 
 f) Si cuenta con informe
 
-favorable de un Revisor
+favorable de un
 
-Independiente y la
+Revisor Independiente
 
-individualización de éste.
+y la individualización
+
+de éste.
 
 g) Si cuenta con informe
 
@@ -8148,19 +8330,21 @@ de Proyecto de Cálculo
 
 Estructural y la
 
-individualización de éste.
+individualización de
+
+éste.
 
 h) Si cuenta con anteproyecto
 
-aprobado y vigente que haya
+aprobado y vigente que
 
-servido de base para el
+haya servido de base para
 
-desarrollo del proyecto,
+el desarrollo del proyecto,
 
-acompañando fotocopia
+acompañando fotocopia de
 
-de la resolución de aprobación.
+la resolución de aprobación.
 
 2. Fotocopia del Certificado de Informaciones Previas vigente o bien del que sirvió de base para desarrollar el anteproyecto vigente y de la plancheta catastral si ésta hubiere sido proporcionada .
 
@@ -8170,7 +8354,7 @@ de la resolución de aprobación.
 
 5. Informe favorable de Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación.
 
-6. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente. De no existir empresa concesionaria de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva. Tratándose de proyectos que incorporen sistemas de reutilización de aguas grises, en áreas donde exista una empresa concesionaria de servicios sanitarios, junto con el certificado de factibilidad se deberá presentar el comprobante de solicitud de aprobación del proyecto de reutilización de aguas grises ante la autoridad sanitaria regional. Tratándose de estos mismos proyectos, en áreas donde no exista una empresa concesionaria de servicios sanitarios, se deberá presentar copia de la resolución que aprueba el proyecto de reutilización de aguas grises emitida por la autoridad sanitaria regional.
+6. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
 
 7. Planos de arquitectura numerados, que deberán contener :
 
@@ -8194,17 +8378,17 @@ b) Emplazamiento de el o los
 
 edificios, en que aparezca
 
-su silueta en sus partes más
+su silueta en sus partes
 
-salientes, debidamente
+más salientes, debidamente
 
-acotada y con indicación de
+acotada y con indicación
 
-sus distancias hacia los
+de sus distancias hacia
 
-deslindes respectivos o
+los deslindes respectivos
 
-entre edificios, si
+o entre edificios, si
 
 correspondiera, incluyendo
 
@@ -8228,15 +8412,17 @@ c) Planta de todos los pisos,
 
 debidamente acotadas, señalando
 
-el o los destinos contemplados.
+el o los destinos
 
-Las cotas deberán ser
+contemplados. Las cotas
 
-suficientes para permitir
+deberán ser suficientes
 
-calcular la superficie
+para permitir calcular
 
-edificada de cada planta.
+la superficie edificada
+
+de cada planta.
 
 d) Cortes y elevaciones que
 
@@ -8246,51 +8432,55 @@ salientes de la edificación,
 
 sus pisos y niveles
 
-interiores, la línea de suelo
+interiores, la línea de
 
-natural y la rectificada del
+suelo natural y la
 
-proyecto, las rasantes en sus
+rectificada del proyecto,
 
-puntos más críticos con
+las rasantes en sus puntos
 
-indicación de sus cotas de
+más críticos con indicación
 
-nivel, salvo que se ilustren
+de sus cotas de nivel,
 
-en plano anexo, sus
+salvo que se ilustren en
 
-distanciamientos y la altura
+plano anexo, sus distancia-
 
-de la edificación. En caso
+mientos y la altura de la
 
-que haya diferencias de nivel
+edificación. En caso que haya
 
-con el terreno vecino o con el
+diferencias de nivel con el
+
+terreno vecino o con el
 
 espacio público, se indicarán
 
-las cotas de éstos y el punto
+las cotas de éstos y
 
-de aplicación de las rasantes.
+el punto de aplicación de
 
-Si se tratare de edificación
+las rasantes. Si se tratare
 
-continua, se acotará la altura
+de edificación continua, se
 
-de ésta, sobre la cual se
+acotará la altura de ésta,
 
-aplicarán las rasantes
+sobre la cual se aplicarán
 
-respectivas a la edificación
+las rasantes respectivas a la
 
-aislada que se permita sobre
+edificación aislada que
 
-ella. Los cortes incluirán las
+se permita sobre ella. Los
 
-escaleras y ascensores si los
+cortes incluirán las escaleras
 
-hubiere, las cotas verticales
+y ascensores si los hubiere,
+
+las cotas verticales
 
 principales y la altura libre
 
@@ -8308,7 +8498,7 @@ proyecto lo consulte.
 
 10. Proyecto de cálculo estructural cuando corresponda de acuerdo con el artículo 5.1.7. de la presente Ordenanza.
 
-11.Especificaciones técnicas de las partidas contempladas en el proyecto, especialmente las que se refieran al cumplimiento de normas contra incendio o estándares previstos en esta Ordenanza.
+11. Especificaciones técnicas de las partidas contempladas en el proyecto, especialmente las que se refieran al cumplimiento de las normas de seguridad contra incendio, acondicionamiento térmico u otros estándares previstos en esta Ordenanza. Tratándose de las edificaciones destinadas a los usos residencial y equipamiento de la clase educación y salud, exceptuados los cementerios y crematorios, se deberá adjuntar, además, y según corresponda, el Informe de acreditación, el Informe de Ensayo, la Memoria de Cálculo, el detalle de la solución constructiva adoptada inscrita en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, con las que se da cumplimiento a las exigencias de acondicionamiento término señaladas en el artículo 4.1.10. de esta Ordenanza. Alternativamente, y para los mismos fines, en el caso de las edificaciones destinadas a viviendas, se podrá presentar en cambio el Informe de Precalificación Energética, elaborado por un Evaluador Energético con inscripción vigente en el Registro Nacional de Evaluadores Energéticos.
 
 12.Levantamiento topográfico, debidamente acotado, con indicación de niveles, suscrito por un profesional o técnico competente y refrendado por el arquitecto proyectista, salvo que dicha información esté incorporada en las plantas de arquitectura.
 
@@ -8326,6 +8516,8 @@ Se incorporará además una Memoria de Accesibilidad del proyecto suscrita por e
 
 15. Proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones, cuando se trate de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios.
 
+16. Comprobante de ingreso del Informe de Mitigación de Impacto Vial o del certificado que acredite que el proyecto no requiere de dicho informe, en ambos casos emitido por el sistema electrónico.
+
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
 En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado se admitirán planos a otra escala.
@@ -8335,6 +8527,8 @@ Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de
 Las solicitudes de permiso de edificación de las construcciones ubicadas fuera de los límites urbanos establecidos en los Instrumentos de Planificación Territorial, deberán dar cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, debiendo adjuntar las autorizaciones o informes que correspondan.
 
 Se entienden incluidos en el permiso de edificación todas las autorizaciones o los permisos necesarios para la ejecución de una obra, tales como permisos de demolición, instalación de faenas, instalación de grúas y similares, cuando se hayan adjuntado los antecedentes respectivos.
+
+En los casos que sea obligatorio la elaboración de un Informe de Mitigación de Impacto Vial, será requisito para otorgar el permiso que se acompañe a la Dirección de Obras la resolución que lo apruebe o, la certificación del silencio positivo de acuerdo al artículo 64 de la ley N° 19.880, según sea el caso.
 
 #### Artículo 5
 
@@ -8800,7 +8994,7 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 1. Informe del constructor o de la empresa o profesional distinto del constructor, según corresponda, en que se detallen las medidas de gestión y de control de calidad adoptadas durante la obra y la certificación de su cumplimiento. En dicho informe deben incluirse las exigencias señaladas en el artículo 5.8.3. de este mismo Título.
 
-2. Certificado de instalaciones de agua potable y alcantarillado, emitido por la Empresa Concesionaria de Servicios Sanitarios que corresponda o por la autoridad sanitaria, según proceda. Tratándose de proyectos que incorporen o deban incorporar sistemas de reutilización de aguas grises, se deberá presentar copia de la resolución que autoriza su funcionamiento, emitida por la respectiva autoridad sanitaria regional.
+2. Certificado de instalaciones de agua potable y alcantarillado, emitido por la Empresa de Servicios Sanitarios que corresponda o por la autoridad sanitaria, según proceda.
 
 3. Documentos a que se refieren los artículos 5.9.2. y 5.9.3. , según se trate de instalaciones eléctricas interiores o instalaciones interiores de gas, respectivamente, cuando proceda.
 
@@ -8810,7 +9004,11 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 6. Declaración de instalaciones de calefacción, central de agua caliente y aire acondicionado, emitida por el instalador, cuando proceda.
 
-7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales, cuando proceda.
+7. Certificados de ensaye de los hormigones empleados en la obra, de acuerdo con las normas oficiales, cuando proceda. Asimismo, y según el destino del proyecto, para acreditar el cumplimiento de las exigencias de acondicionamiento térmico señaladas en el artículo 4.1.10. de esta Ordenanza, se deberán adjuntar, según corresponda, el informe de Precalificación Energética, el Informe de ensayo, Memorias de cálculo, o la descripción del material o de la o las soluciones constructivas adoptadas en el proyecto y en qué parte de éste, en estos dos últimos casos.
+
+8. En el caso de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, se deberá ingresar la documentación que acredite la ejecución de las medidas correspondientes o la boleta bancaria o póliza de seguro en el caso que la garantice su ejecución. Cuando se hayan considerado etapas con mitigaciones parciales, deberá acreditarse su ejecución o la existencia de la boleta bancaria o póliza de seguro que garantice la respectiva etapa, en los casos que corresponda.
+
+Lo señalado en el párrafo anterior será, también, exigible cuando se haya aprobado materializar los Aportes al Espacio Público a través de estudios, proyectos, obras y medidas conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
 
 Además, deberá acompañarse una declaración en el sentido de si ha habido o no cambios en el proyecto aprobado. Si los hubiere habido, deberán adjuntarse los documentos actualizados en los que incidan tales cambios. Si las modificaciones inciden en el proyecto de cálculo estructural, deberán adjuntarse, debidamente modificados, los documentos a que se refiere el artículo 5.1.7. Tratándose de proyectos de cálculo estructural que deben someterse a revisión conforme al artículo 5.1.25., estos documentos deberán estar visados por el Revisor de Proyecto de Cálculo Estructural.
 
@@ -8826,7 +9024,7 @@ Tratándose de la recepción definitiva de una obra menor, se adjuntarán al exp
 
 Tratándose de la recepción definitiva de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios, el Director de Obras Municipales deberá verificar previamente la correspondencia entre los antecedentes que constan en el Certificado que acredita ese registro, y en el Certificado de modificación de dicho registro cuando proceda, y los mismos antecedentes señalados en el permiso de edificación y en la solicitud de recepción definitiva. Cuando no se adjunte dicho Certificado o cuando no haya correspondencia, la solicitud de recepción será rechazada, emitiendo el respectivo comprobante de rechazo timbrado y fechado en el que se precise la causal en que se funda este rechazo.
 
-> **Nota.** El numeral 12.1 del numero 12 del Decreto 10, Vivienda, publicada el 17.12.2020, modifica la presente norma en el sentido de reemplazar en el numeral 2. la frase "dotación de instalaciones" por la expresión "instalaciones domiciliarias.
+Será requisito para cursar la recepción definitiva de los proyectos que generen crecimiento urbano por densificación que se consideren las cesiones de suelo que exige esta Ordenanza o, alternativamente, el comprobante del pago por aporte o la ejecución o garantía de los estudios, proyectos, obras y medidas aprobados conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones, según sea el caso.
 
 #### Artículo 5
 
