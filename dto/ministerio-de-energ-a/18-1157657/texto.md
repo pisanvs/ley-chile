@@ -184,7 +184,7 @@ Asimismo, el proyecto incluye todas las obras y labores establecidas en las Base
 
 14.1. Descripción General de la Obra
 
-El proyecto consiste en el reemplazo del transformador existente de 66/12 kV de 18 MVA de capacidad en la S/E Casablanca, por un equipo de 30 MVA. El proyecto además considera nuevos paños para ambos transformadores en media tensión, y la ampliación de la barra de 12 kV en, al menos, tres posiciones. Además, la obra incluye la ampliación de barras en 66 kV para recibir los circuitos que vienen desde la S/E Nueva Casablanca, la ampliación de plataforma y compra de terreno.
+El proyecto consiste en la incorporación de dos paños para la línea 2x66kV Casablanca - Tap Algarrobo con equipos híbridos en el extremo en S/E Casablanca. El proyecto además considera nuevos paños para ambos transformadores existentes en media tensión, y la ampliación de la barra de 12 kV en, al menos, tres posiciones.
 
 El proyecto incluye todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio de las nuevas instalaciones, tales como adecuaciones en el patio de media tensión, adecuación de las protecciones, sistemas de comunicaciones, SCADA , obras civiles, montaje, malla de puesta a tierra y pruebas de los nuevos equipos, entre otras.
 
