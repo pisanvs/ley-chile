@@ -246,7 +246,7 @@ Créanse los siguientes Servicios de Salud, en adelante los Servicios, que coord
 
 5. Uno en la Región de Coquimbo: Coquimbo.
 
-6. Tres en la Región de Valparaíso: Valparaíso-San Antonio, Viña del Mar-Quillota y Aconcagua.
+6. Tres en la Región de Valparaíso: Valparaíso-San Antonio, Viña del Mar-Quillota-Petorca y Aconcagua.
 
 7. Uno en la Región del Libertador General Bernardo O'Higgins: O'Higgins.
 
