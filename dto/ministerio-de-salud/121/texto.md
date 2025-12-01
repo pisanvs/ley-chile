@@ -40,9 +40,9 @@ F) Isapre: Institución de Salud Previsional regulada en la ley Nº 18.933.
 
 G) Ministerio: Ministerio de Salud.
 
-H) Prestaciones: Acciones de salud, tecnología sanitaria o dispositivos médicos, tales como consultas médicas, exámenes y procedimientos;
+H) Prestaciones o grupo de prestaciones: Acciones de salud, tecnología sanitaria o dispositivos médicos, tales como consultas médicas, exámenes y procedimientos; medicamentos; artículos farmacéuticos y de laboratorio; material quirúrgico, instrumental y demás elementos o insumos que se requieran para el diagnóstico de un problema de salud y su tratamiento, seguimiento y rehabilitación.
 
-medicamentos; artículos farmacéuticos y de laboratorio; material quirúrgico, instrumental y demás elementos o insumos que se requieran para el diagnóstico de un problema de salud y su tratamiento o seguimiento. Las prestaciones asociadas a cada uno de los problemas de salud se señalarán taxativamente en el decreto que establezca las garantías, de acuerdo a la etapa de diagnóstico, tratamiento o seguimiento en que se encuentre el beneficiario.
+Las prestaciones asociadas a cada uno de los problemas de salud se señalarán como grupo de prestaciones en el decreto que establezca las garantías, de acuerdo a la etapa de diagnóstico, tratamiento o seguimiento en que se encuentre el beneficiario; el detalle taxativo de cada grupo de prestaciones se determinará en la norma técnica que contenga el Listado Específico de Prestaciones aprobado mediante decreto del Ministerio de Salud.
 
 I) Prestador o prestadores de salud: Personas naturales o jurídicas que ejecutan acciones de salud, tales como consultorios, consultas, centros médicos, hospitales o clínicas, que formen parte de la Red de Prestadores, sin perjuicio de lo dispuesto en la ley y la reglamentación respectiva.
 
