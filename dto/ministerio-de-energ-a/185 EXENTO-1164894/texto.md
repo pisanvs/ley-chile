@@ -890,37 +890,33 @@ El V.I. referencial del Proyecto es de 2.266.082 dólares, moneda de los Estados
 
 El C.O.M.A. referencial se establece en 36.257 dólares (1,6% del V.I. referencial), moneda de los Estados Unidos de América.
 
-2.3.19 AMPLIACIÓN EN S/E CELULOSA PACÍFICO 220 KV (BS)
+2.3.19. AMPLIACIÓN EN S/E CELULOSA PACÍFICO (BPS)
 
 a. Descripción general y ubicación de la obra
 
-El proyecto consiste en la ampliación del patio de 220 kV e instalaciones comunes de la subestación Celulosa Pacífico, mediante la construcción de una nueva sección de barra, tal que su configuración resulte en barra principal seccionada, de manera de permitir la conexión de la línea 1x220 kV Epuleufu – Celulosa Pacífico, la conexión de la línea 1x220 kV La Invernada – Celulosa Pacífico y la conexión de, al menos, un nuevo proyecto en la zona en esta nueva sección de barra.
+El proyecto consiste en la ampliación del patio de 220 kV e instalaciones comunes de la subestación Celulosa Pacífico, mediante la construcción de una nueva sección de barra, tal que su configuración resulte en barra principal seccionada, de manera de permitir la conexión de la línea 1x220 kV Epuleufu - Celulosa Pacífico, la conexión de la línea 1x220 kV La Invernada - Celulosa Pacífico y la conexión de, al menos, un nuevo proyecto en la zona en esta nueva sección de barra.
 
-El proyecto incluye todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio de las nuevas instalaciones, tales como adecuaciones en los patios respectivos, adecuación de las protecciones, comunicaciones, SCADA, obras civiles, montaje, malla de puesta a tierra y pruebas de los nuevos equipos. En las respectivas bases de licitación se podrán definir otros requisitos mínimos que deberán cumplir las instalaciones para el fiel cumplimiento del desarrollo del proyecto.
+A su vez, el proyecto contempla la construcción de los paños de conexión asociados a las líneas 1x220 kV Epuleufu - Celulosa Pacífico y 1x220 kV La Invernada - Celulosa Pacífico en la nueva sección de barra de subestación Celulosa Pacífico.
+
+El proyecto incluye todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio de las nuevas instalaciones, tales como adecuaciones en los patios respectivos, adecuación de las protecciones, comunicaciones, SCADA, obras civiles, montaje, malla de puesta a tierra y pruebas de los nuevos equipos, entre otras. En las respectivas bases de licitación se podrán definir otros requisitos mínimos que deberán cumplir las instalaciones para el fiel cumplimiento del desarrollo del proyecto.
 
 A su vez, el proyecto contempla todas las tareas, labores y obras necesarias para evitar interrupciones en el suministro a clientes finales, considerando para ello una secuencia constructiva que evite o minimice dichas interrupciones.
 
 b. Entrada en operación
 
-El Proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 30 meses siguientes a la fecha de publicación en el Diario Oficial del respectivo Decreto a que hace referencia el artículo 96° de la Ley.
+El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 36 meses siguientes a la fecha de publicación en el Diario Oficial del respectivo decreto al que hace referencia el artículo 96° de la ley.
 
-c. Valor de inversión (V.I.) y costo de operación, mantenimiento y administración (COMA) referenciales
+c. Valor de inversión (V.I.) y costo de operación, mantenimiento y administración (C.O.M.A.) referenciales
 
-El V.I. referencial del Proyecto es de 4.476.521 dólares, moneda de los Estados Unidos de América.
+El V.I. referencial del proyecto es de 7.574.117 dólares, moneda de los Estados Unidos de América.
 
-El C.O.M.A. referencial se establece en 71.624 dólares (1,6% del V.I. referencial), moneda de los Estados Unidos de América.
+El C.O.M.A. referencial se establece en 218.892 dólares (2,89% del V.I. referencial), moneda de los Estados Unidos de América.
 
-d. Licitación
+d. Instalaciones del sistema de transmisión dedicado intervenidas por el proyecto
 
-La adjudicación de esta obra quedará condicionada a la adjudicación de la obra "Nueva S/E Seccionadora La Invernada", individualizada en el numeral 3.2.2 del Informe Técnico Definitivo de la Comisión, a la adjudicación de la obra de ampliación "Ampliación en S/E Angol 66 kV (BS)", fijada en el numeral 2.5.10 del artículo primero del Decreto Exento N° 171, de 2020, del Ministerio de Energía y a la adjudicación de las obras "Nueva S/E Seccionadora Epuleufu" y "Nueva Línea 1x66 kV Angol - Epuleufu", fijadas en los numerales 2.8 y 2.9, respectivamente, del artículo primero del Decreto Exento N° 185, de 2020, del Ministerio de Energía.
+El proyecto considera la expansión de una instalación perteneciente al sistema de transmisión dedicado para la conexión de la obra nueva del Sistema de Transmisión Nacional descrita en el presente numeral. De acuerdo a lo establecido en el inciso final del artículo 87º de la ley, las instalaciones dedicadas existentes que sean intervenidas con obras de expansión nacional, zonal o para polo de desarrollo, según corresponda, cambiarán su calificación y pasarán a integrar uno de dichos segmentos a partir de la publicación en el Diario Oficial de los decretos a los que hace referencia el artículo 92º de la ley. El proyecto interviene las siguientes instalaciones del sistema de transmisión dedicado.
 
-e. Instalaciones del sistema de transmisión dedicado intervenidas por el proyecto
-
-El proyecto considera la expansión de instalaciones pertenecientes al sistema de transmisión dedicado para la conexión de la obra de ampliación del Sistema de Transmisión Zonal E descrita en el presente numeral. De acuerdo a lo establecido en el inciso final del artículo 87° de la Ley, las instalaciones dedicadas existentes que sean intervenidas con obras de expansión de los sistemas de transmisión nacional, zonal o para polos de desarrollo, según corresponda, cambiarán su calificación y pasarán a integrar uno de dichos segmentos a partir de la publicación en el Diario Oficial de los decretos a que hace referencia el artículo 92° de la ley.
-
-El proyecto interviene las siguientes instalaciones del sistema de transmisión dedicado:
-
-Tabla 6: Instalaciones dedicadas intervenidas en el proyecto "Ampliación en S/E Celulosa Pacífico 220 kV (BS)"
+Tabla 6: Instalaciones dedicadas intervenidas en el proyecto ‘Ampliación en S/E Celulosa Pacífico 220 kV (BPS)'
 
 2.4 SISTEMA F
 
@@ -1027,6 +1023,8 @@ Para efectos de la remuneración a que hace referencia el párrafo primero de es
 > **Nota.** El literal a) del numeral 3.3.1 del artículo primero del Decreto 200 Exento, Energía, publicado el 04.11.2022, modifica el N° 19 de la tabla 4 de la presente norma, en el sentido de reemplazar en la columna "V.I. Referencial USD", la cifra "2.870.929" por "4.476.521"; en la columna "C.O.M.A. Referencial USD", la cifra "45.935" por "71.624", y en la columna "Vida Útil años", la cifra "24" por "26".
 
 > **Nota.** NOTA 1 El numeral 1 del Decreto 6, Energía, publicado el 23.10.2025, ordena sustituir en la tabla 1 inserta en el N° 1 del presente artículo, el nombre de la empresa propietaria de las obras de ampliación indicadas en las filas Nº 4, Nº 9 y Nº 12, denominada "Obras de Ampliación del Sistema de Transmisión Nacional", donde dice "Transelec S.A." por "Transelec Concesiones S.A.", donde dice "Transelec S.A." por "Transelec Concesiones S.A." y donde dice "Transelec Holding Rentas Limitada" por "Transmisora del Pacífico S.A.", respectivamente.
+
+> **Nota.** NOTA 2 El literal a.2 del numeral 3.5.1 del Nº 3.5 del Decreto Nº 276 Exento, Energía, publicado el 02.12.2025, dispone reemplazar de la Tabla 4, fila 19, del Nº 1 de la presente artículo, el plazo constructivo meses de "30" a "36", V.I. Referencial USD de "2.870.929" a "7.574.117", C.O.M.A. Referencial USD de "45.935" a "218.892", Vida Útil años de "24" a "28", Propietario de "CMPC Pacífico" a "CMPC PULP SPA" y Ejecución de "Condicionada" a "Obligatoria".
 
 #### Artículo segundo
 

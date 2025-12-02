@@ -76,45 +76,41 @@ d. Licitación
 
 La adjudicación de esta obra quedará condicionada a la adjudicación de las obras "Aumento de Capacidad Línea 2x220 kV Tarapacá - Lagunas, Tramo Nueva Lagunas - Lagunas" y "Ampliación en S/E Kimal 500 kV (IM)", individualizadas en los numerales 1.2 y 1.4 del artículo primero del decreto Nº 185/2021, respectivamente.
 
-1.2. Nueva S/E Seccionadora La Invernada
+1.2 Nueva S/E La Invernada
 
 a. Descripción general y ubicación de la obra
 
-El proyecto consiste en la construcción de una nueva subestación seccionadora, denominada La Invernada, mediante el seccionamiento de la línea 1x220 kV Duqueco - Los Peumos y la conexión de la línea 1x220 kV La Esperanza - Celulosa Pacífico, con sus respectivos paños de línea y patio en 220 kV.
+El proyecto consiste en la construcción de una nueva subestación con un patio de 220 kV, denominada La Invernada, mediante el seccionamiento de la línea 1x220 kV Duqueco - Los Peumos y la conexión de la línea 1x220 kV La Esperanza - Celulosa Pacífico.
 
-Adicionalmente, el proyecto considera la construcción de los enlaces para el seccionamiento de la línea mencionada en la subestación La Invernada, con capacidad de transmisión de, al menos, 530 MVA a 35ºC con sol.
+La subestación La Invernada contará con un patio de 220 kV en configuración interruptor y medio, con capacidad de barras de, al menos, 2.000 MVA, con 75°C en el conductor y 35°C temperatura ambiente con sol, y deberá considerar espacio en barras y plataforma para cinco diagonales, de manera de permitir la conexión del seccionamiento de la línea 1x220 kV Duqueco - Los Peumos, la conexión de la línea 1x220 kV La Esperanza - Celulosa Pacífico y la conexión de nuevos proyectos en la zona. En caso de definirse el desarrollo de este patio en tecnología encapsulada y aislada en gas del tipo GIS o equivalente, se deberán considerar los paños contenidos en esta descripción y el espacio en plataforma definido anteriormente para la conexión de nuevos proyectos.
 
-La configuración del patio de 220 kV de la subestación La Invernada corresponderá a interruptor y medio, con capacidad de barras de, al menos, 2.000 MVA, con 75ºC en el conductor y 35ºC temperatura ambiente con sol, y deberá considerar la construcción de dos medias diagonales para el seccionamiento de la línea 1x220 kV Duqueco - Los Peumos y una media diagonal para la conexión de la línea 1x220 kV La Esperanza - Celulosa Pacífico, la cual completará una de las medias diagonales asociadas al seccionamiento, y espacios con terreno nivelado para tres futuras diagonales. En caso de definirse el desarrollo de este patio en tecnología encapsulada y aislada en gas del tipo GIS o equivalente, se deberán considerar los paños contenidos en esta descripción, el espacio en plataforma para la conexión de nuevos proyectos y el terreno nivelado indicado.
+Adicionalmente, el proyecto considera la construcción de los enlaces que corresponda para realizar el seccionamiento de la línea 1x220 k V Duqueco - Los Peumos en la subestación La Invernada, con sus respectivos paños de conexión, los cuales deberán permitir una capacidad de transmisión de, al menos, 530 MVA a 35°C temperatura ambiente con sol. Además, el proyecto contempla la construcción del enlace para la conexión de la línea 1x220 kV La Esperanza - Celulosa Pacífico en la subestación La Invernada, con su respectivo paño de conexión, los cuales deberán mantener, al menos, las características técnicas de la línea que se conecta.
 
 La subestación se deberá emplazar aproximadamente a 23 km de la S/E Mulchén siguiendo el tendido de la línea 1x220 kV Duqueco - Los Peumos, dentro de un radio de 3 kilómetros desde dicho punto.
 
-El proyecto incluye también todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio de las nuevas instalaciones, tales como adecuaciones en los patios respectivos, adecuación de las protecciones, comunicaciones, SCADA, obras civiles, montaje, malla de puesta a tierra y pruebas de los nuevos equipos. En las respectivas bases de licitación se podrán definir otros requisitos mínimos que deberán cumplir las instalaciones para el fiel cumplimiento del objetivo del proyecto, tales como espacios disponibles, capacidad térmica, cable de guardia, reservas, equipamientos, entre otros.
+El proyecto incluye todas las obras, modificaciones y labores necesarias para la ejecución y puesta en servicio de las nuevas instalaciones, tales como adecuaciones en los patios respectivos, adecuación de las protecciones, comunicaciones, SCADA, obras civiles, montaje, malla de puesta a tierra y pruebas de los nuevos equipos, entre otras. En las respectivas bases de licitación se podrán definir otros requisitos mínimos que deberán cumplir las instalaciones para el fiel cumplimiento del desarrollo del proyecto.
 
 A su vez, el proyecto contempla todas las tareas, labores y obras necesarias para evitar interrupciones en el suministro a clientes finales, debiendo considerarse para ello una secuencia constructiva que evite o minimice dichas interrupciones.
 
-La disposición de los edificios, equipos, estructuras y otros elementos que conformen la subestación, deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de futuras líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras. Será responsabilidad del adjudicatario asegurar la compatibilidad tecnológica de los equipos utilizados en la ejecución del proyecto, de las instalaciones, y de la disposición de los equipos en la subestación, de manera tal de posibilitar futuras ampliaciones de la subestación, así como también el cumplimiento de lo dispuesto en la normativa vigente en relación al acceso abierto a las instalaciones de transmisión.
+La disposición de los edificios, equipos, estructuras y otros elementos que conformen la subestación deberá permitir que las expansiones futuras se realicen de manera adecuada, haciendo posible el ingreso ordenado y sin interferencias de fu turas líneas y circuitos, evitando generar espacios ciegos que impidan la plena utilización de las barras.
 
-Por su parte, será de responsabilidad de los propietarios de las diferentes instalaciones de generación y/o transporte coordinarse para efectuar las adecuaciones que se requieran en sus propias instalaciones para efectos de la ejecución del proyecto. En este sentido, es de responsabilidad y costo de los propietarios de las instalaciones existentes efectuar las adecuaciones que se requieran en ellas producto de las obras nuevas, y que no se encuentren incorporadas en el alcance del presente proyecto.
+Será responsabilidad del adjudicatario asegurar la compatibilidad tecnológica de los equipos utilizados en la ejecución del proyecto, de las instalaciones y de la disposición de los equipos en la subestación, de manera tal de posibilitar futuras ampliaciones de la subestación, así también como el cumplimiento de lo dispuesto en la normativa vigente en relación al acceso abierto a las instalaciones de transmisión.
+
+Por su parte, será responsabilidad de los propietarios de las diferentes instalaciones de generación y/o transporte coordinarse para efectuar las adecuaciones que se requieran en sus propias instalaciones para efectos de la ejecución del proyecto.
 
 b. Entrada en operación
 
-El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 30 meses siguientes a la fecha de publicación en el Diario Oficial del respectivo decreto a que hace referencia el artículo 96º de la ley.
+El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 60 meses siguientes a la fecha de publicación en el Diario Oficial del respectivo decreto al que hace referencia el artículo 96° de la ley.
 
-c. Valor de la inversión (V.I.) y costo de operación, mantenimiento y administración (C.O.M.A.) referenciales
+c. Valor de inversión (V.I.) y costo de operación, mantenimiento y administración (C.O.M.A.) referenciales
 
-El V.I. referencial del proyecto es de 7.519.702 dólares, moneda de los Estados Unidos de América.
+El V.I. referencial del proyecto es de 16.473.226 dólares, moneda de los Estados Unidos de América.
 
-El C.O.M.A. referencial se establece en 120.315 dólares (1,6% del V.I. referencial), moneda de los Estados Unidos de América.
+El C.O.M.A. referencial se establece en 294.871 dólares (1,79% del V.I. referencial), moneda de los Estados Unidos de América.
 
-d. Licitación
+d. Instalación del sistema de transmisión dedicado intervenida por el proyecto
 
-La adjudicación de esta obra quedará condicionada a la adjudicación de la obra "Ampliación en S/E Celulosa Pacífico 220 kV (BS)", individualizada en el numeral 2.3.19 del artículo primero del decreto Nº 185/2021; a la adjudicación de la obra de ampliación "Ampliación en S/E Angol 66 kV (BS)", individualizada en el numeral 2.5.10 del artículo primero del decreto Nº 171; y a la adjudicación de las obras "Nueva S/E Seccionadora Epuleufu" y "Nueva Línea 1x66 kV Angol - Epuleufu", individualizadas en los numerales 2.8 y 2.9 del artículo primero del decreto Nº 185/2020, respectivamente.
-
-e. Instalación del sistema de transmisión dedicado intervenida por el proyecto
-
-El proyecto considera la expansión de una instalación perteneciente al sistema de transmisión dedicado para la conexión de la obra nueva del Sistema de Transmisión Nacional descrita en el presente numeral. De acuerdo a lo establecido en el inciso final del artículo 87º de la ley, las instalaciones dedicadas existentes que sean intervenidas con obras de expansión nacional, zonal o para polo de desarrollo, según corresponda, cambiarán su calificación y pasarán a integrar uno de dichos segmentos a partir de la publicación en el Diario Oficial de los decretos a que hace referencia el artículo 92º de la ley.
-
-El proyecto interviene la siguiente instalación del sistema de transmisión dedicado.
+El proyecto considera la expansión de una instalación perteneciente al sistema de transmisión dedicado para la conexión de la obra nueva del Sistema de Transmisión Nacional descrita en el presente numeral. De acuerdo a lo establecido en el inciso final del artículo 87° de la ley, las instalaciones dedicadas existentes que sean intervenidas con obras de expansión nacional, zonal o para polo de desarrollo, según corresponda, cambiarán su calificación y pasarán a integrar uno de dichos segmentos a partir de la publicación en el Diario Oficial de los decretos a los que hace referencia el artículo 92° de la ley. El proyecto interviene la siguiente instalación del sistema de transmisión dedicado.
 
 Tabla 2: Instalación dedicada intervenida en el proyecto Nueva S/E Seccionadora La Invernada
 
@@ -345,6 +341,8 @@ d. Licitación
 La adjudicación de esta obra quedará condicionada a la adjudicación de las obras "Ampliación en S/E Quilmo II 66 kV (BS) y Seccionamiento Línea 1x66 kV Chillán - Tap Quilmo" y "Ampliación en S/E Santa Elisa 66 kV (NBP+BT), Nuevo Transformador (ATMT) y Seccionamiento Línea 1x66 kV Nueva Aldea - Santa Elvira", individualizadas en los numerales 2.3.14 y 2.3.15 del artículo primero del decreto Nº 185/2021, respectivamente.
 
 > **Nota.** El literal a) del numeral 3.4.1. del artículo primero del Decreto 200 Exento, Energía, publicado el 04.11.2022, reemplaza la obra de expansión descrita en el presente numeral por aquella descrita en el numeral 4.2.7 del Informe Técnico Definitivo mencionado en la citada norma, en términos de su título, descripción, fecha de entrada en operación, valor de inversión referencial y condiciones para su licitación y adjudicación.
+
+> **Nota.** NOTA 1 El literal a.2 del numeral 3.4.1 del Nº 3.4 del Decreto 276 Exento, Energía, publicado el 02.12.2025, reemplaza de la Tabla 1, fila 2 del presente artículo, el plazo constructivo meses de "30" a "60", V.I. Referencial USD "7.519.702" por "16.473.226", el C.O.M.A. Referencial USD de "120.315" por "294.871" y Ejecución de "Condicionada" a "Obligatoria".
 
 #### Artículo segundo
 
