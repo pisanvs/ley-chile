@@ -52,7 +52,7 @@ g) Hacer seguimiento de todas aquellas materias que la Directora estime de relev
 
 h) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que la Directora encomiende.
 
-i) Autorizar las comisiones de servicio y cometidos funcionarios.
+i) Autorizar las comisiones de servicio y cometidos funcionarios, lo que después será oficializado a través de resolución que dictará el Subdepto. Gestión y Desarrollo de Personas.
 
 j) Autorizar los permisos administrativos y feriados legales que le corresponda autorizar a la jefatura superior del servicio.
 
@@ -114,15 +114,13 @@ La jefatura de la Oficina de Asuntos Regulatorios tendrá delegada la facultad d
 
 Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección y de diseñar el contenido de la cuenta pública institucional. Asimismo, esta unidad es la encargada de la gestión de la participación ciudadana, conforme al Título IV del decreto con fuerza de ley Nº 1-19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y supervisar las actividades y la adecuada gestión de los requerimientos asociados a la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, administrando la plataforma que ha dispuesto para esos efectos y ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
 
-2.4. La Unidad de Control de Gestión y Riesgos Institucionales será la unidad asesora de la Dirección que tiene como función colaborar en la formulación de los instrumentos de gestión y el control y seguimiento de las metas del Instituto, de sus departamentos y unidades dependientes, así como la implementación y seguimiento del programa de gestión de riesgos institucionales.
+2.4. La Unidad de Control de Gestión y Riesgos Institucionales será la unidad asesora de la Dirección que tiene como función colaborar en la formulación de los instrumentos de gestión y el control y seguimiento de las metas del Instituto, de sus departamentos y unidades dependientes, así como la implementación y seguimiento del programa de gestión de riesgos institucionales y de los compromisos asociados a la gestión de calidad. Dicha jefatura tendrá delegada la facultad de suscribir la resolución que aprueba los listados maestros de documentos del sistema de gestión de calidad institucional.
 
 2.5 Eliminado.
 
 2.6 Eliminado.
 
-2.7. La Unidad de Auditoría Interna será la unidad asesora de la Dirección que tiene como función prestar asesoría técnica especializada a la jefatura superior del servicio en materias de auditoría y control interno, a objeto de evaluar y contribuir a la mejora de la eficacia del proceso de administración, gestión de calidad y control preventivo, proponiendo medidas necesarias para el fortalecimiento de la gestión institucional.
-
-A la jefatura de esta unidad se le delega la facultad de suscribir la resolución que aprueba los listados maestros de documentos del sistema de gestión de calidad institucional.
+2.7. La Unidad de Auditoría Interna será la unidad asesora de la Dirección que tiene como función prestar asesoría técnica especializada a la jefatura superior del servicio en materias de auditoría y control interno, a objeto de evaluar y contribuir a la mejora de la eficacia del proceso de administración y control preventivo, proponiendo medidas necesarias para el fortalecimiento de la gestión institucional.
 
 2.8 La Unidad de Sistemas de Información, dependiente de la Dirección, tiene los roles y responsabilidades relacionados con el diseño, desarrollo e implementación de los sistemas de información que respaldan los objetivos y operaciones del Instituto. Éstos consideran infraestructura y comunicaciones tecnológicas, continuidad operacional, seguridad de información, reingeniería de procesos en pro de la eficiencia, modelo y gobierno de datos, así como el cumplimiento de la Estrategia de Gobierno Digital 2030.
 
@@ -210,7 +208,7 @@ f) Participar en la gestión del proceso de riesgos.
 
 a) Gestionar el Sistema de Gestión Integrado en el ámbito departamental.
 
-b) Ser contraparte técnica de la Unidad de Auditoría Interna.
+b) Ser contraparte técnica de la Unidad de Control de Gestión y Riesgos Institucionales, para efectos de la gestión de calidad.
 
 c) Representar al departamento frente a otras áreas institucionales en materias de gestión de la calidad.
 
@@ -317,6 +315,8 @@ ix. Horarios especiales y permiso de alimentación por hijo menor de dos años.
 x. Calificaciones ejecutoriadas.
 
 xi. Prórrogas de contrata.
+
+xii. Sobre comisiones de servicio y cometidos funcionarios, previa autorización del Jefe de Gabinete.
 
 c) Contrataciones ad honorem de alumnos en práctica.
 
@@ -688,7 +688,7 @@ b) Efectuar la inspección, fiscalización y control sanitario de los establecim
 
 c) Efectuar inspección conjunta con otras áreas del departamento, de las entidades y establecimientos que realizan estudios clínicos, centros de bioequivalencia, entre otros, en relación con el uso de los medicamentos.
 
-d) Efectuar inspecciones a los sistemas de farmacovigilancia de los titulares de registros sanitarios.
+d) Eliminado.
 
 6.7.4 Denuncias de Calidad:
 
@@ -742,6 +742,8 @@ f) Desarrollar las actividades relativas a la vigilancia de las sospechas de efe
 
 g) Gestión y control de requerimientos de farmacovigilancia para titulares de registro sanitario.
 
+h) Realizar inspecciones a los sistemas de farmacovigilancia de los titulares de registros sanitarios.
+
 6.9.3 Información de medicamentos:
 
 a) Proporcionar información científica, efectiva y actualizada sobre medicamentos y farmacovigilancia a otras unidades del Instituto, otros organismos, entidades y profesionales de la salud.
@@ -751,6 +753,8 @@ b) Identificar y analizar información emergente sobre seguridad de medicamentos
 c) Proponer medidas sanitarias y regulatorias sobre situaciones emergentes de riesgo para las personas, derivado del uso de medicamentos y cosméticos.
 
 d) Actuar como centro de información de medicamentos de referencia a nivel nacional.
+
+e) Realizar inspecciones a los titulares de registros sanitarios para verificación del cumplimiento de medidas regulatorias de seguridad.
 
 6.9.4 Farmacovigilancia de vacunas:
 
@@ -1406,15 +1410,15 @@ c) Realizar prestaciones analíticas, según demanda, para la medición de conta
 
 8. Brindar asesoramiento a la jefatura superior del Instituto en temas relacionados con la vigilancia sanitaria e investigación.
 
-11.1 El Departamento Vigilancia Sanitaria e Investigación tendrá a su cargo la Biblioteca del Instituto y estará conformado por las Unidades y Subdepartamentos que se indican a continuación:
+11.1 El Departamento Vigilancia Sanitaria e Investigación tendrá a su cargo la Biblioteca del Instituto y estará conformado por las Unidades y Secciones que se indican a continuación:
 
 11.2 Unidad de Apoyo, que tendrá a su cargo la gestión administrativa del Departamento, así como también los aspectos de gestión de las personas y de finanzas.
 
 11.3 Unidad de Bioestadística.
 
-11.4 Subdepartamento Investigación e Innovación, que será la responsable de la coordinación de proyectos de investigación, ensayos clínicos y demás iniciativas de dicha índole.
+11.4 Sección Investigación e Innovación, que será la responsable de la coordinación de proyectos de investigación, ensayos clínicos y demás iniciativas de dicha índole.
 
-11.5 Subdepartamento Desarrollo y Análisis Avanzado de Datos, que tendrá a su cargo la generación y análisis de datos de interés en salud pública, así como en la vigilancia sanitaria de las distintas materias que son de competencia de este Instituto.
+11.5 Sección Desarrollo y análisis avanzado de datos, que tendrá a su cargo la generación y análisis de datos de interés en salud pública, así como en la vigilancia sanitaria de las distintas materias que son de competencia de este Instituto.
 
 12. Delégase en todas las jefaturas de Departamento, Subdepartamento, Unidades, Secciones y Oficinas las siguientes facultades, en materia de personal:
 
