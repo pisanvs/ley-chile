@@ -8,7 +8,7 @@ Lo dispuesto en el artículo 90°, inciso segundo, del Código Sanitario, aproba
 
 Considerando:
 
-1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de la marca de productos de tabaco Latino, en sus variantes Box Zero, Box Freee, KS Zero (todas en cajetillas de 20 cigarrillos), Freeze KS (en cajetillas de 10 cigarrillos) y Zero KS (en cajetillas de 20 y 10 cigarrillos), todas comercializadas por la empresa Tabacos Apolo S.A., RUT N° 99.511.860-2.
+1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de la marca de productos de tabaco Latino, en sus variantes Box Zero, Box Freeze, KS Zero (todas en cajetillas de 20 cigarrillos), Freeze KS (en cajetillas de 10 cigarrillos) y Zero KS (en cajetillas de 20 y 10 cigarrillos), todas comercializadas por la empresa Tabacos Apolo S.A., RUT N° 99.511.860-2.
 
 2. Que, evaluados los antecedentes aportados por dicha empresa y evacuado el informe técnico pertinente por parte de la Oficina de Tabaco de la División de Políticas Públicas Saludables y Promoción del Ministerio de Salud, se ha considerado que la solicitud en análisis es favorable.
 
