@@ -22,13 +22,11 @@ De la administración
 
 La administración del Servicio de Bienestar corresponderá a un Consejo Administrativo, el que estará integrado por:
 
-a) El Presidente del Consejo Nacional de Televisión o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) El Presidente del Consejo Nacional de Televisión o la persona que este designe en su reemplazo, quien lo presidirá;
 
-b) La Jefatura del Departamento de Administración y Finanzas;
+b) La Jefatura del Departamento de Administración, Finanzas y Tecnología, o la persona que este designe en su reemplazo, y
 
-c) El/la Encargado/a de Presupuesto del Departamento de Administración y Finanzas;
-
-d) Tres representantes de los afiliados, o sus respectivos suplentes cuando corresponda, elegidos de acuerdo a lo señalado en el Art. 19º del Reglamento General. De existir Asociación de Funcionarios/as en el Servicio, uno de los representantes de los afiliados y su suplente podrá ser designado por la respectiva Asociación, siempre y cuando se cumpla con lo establecido en estas materias en el Art. 18 del Reglamento General.
+c) Dos representares de los afiliados, o sus respectivos suplentes cuando corresponda, elegidos de acuerdo con lo señalado en el artículo 19º del Reglamento General. De existir Asociación de Funcionarios/as en el Servicio, uno de los representantes de los afiliados y su suplente podrá ser designado por la respectiva Asociación, siempre y cuando se cumpla con lo establecido en esta materia en el artículo 18º del Reglamento General.
 
 #### Artículo 3º
 
@@ -56,11 +54,11 @@ Tanto los representantes de los afiliados titulares, como sus respectivos suplen
 
 El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias.
 
-Las sesiones ordinarias se realizarán a lo menos una vez al mes, en el día y hora que fijen sus miembros en la primera sesión del año.
+Las sesiones ordinarias se realizarán a lo menos una vez cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año.
 
-Las sesiones extraordinarias tendrán lugar cuando proceda en conformidad al artículo 23º del Reglamento General.
+Las sesiones extraordinarias tendrán lugar cuando proceda en conformidad el artículo 23º del Reglamento General.
 
-El/la Encargado/a de Bienestar hará las citaciones por escrito, con indicación de la tabla sobre las materias a tratar, con una antelación mínima de tres días hábiles para las sesiones ordinarias y de un día hábil para las sesiones extraordinarias.
+La Jefatura del Servicio de Bienestar hará las citaciones por escrito, con indicación de la tabla sobre las materias a tratar, con una antelación mínima de dos días hábiles para las sesiones ordinarias y de un día hábil para las sesiones extraordinarias.
 
 El Consejo Administrativo podrá, si lo estima conveniente, invitar a sus sesiones a personas que, por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
 
@@ -180,7 +178,7 @@ De la atención económica
 
 El Servicio podrá otorgar, siempre que sus recursos lo permitan, los siguientes subsidios de carácter social, en dinero o en especies, no sujetas a restitución, por las causales que a continuación se indican:
 
-a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes estuviesen afiliados al Servicio de Bienestar, cada uno tendrá derecho a invocar el beneficio en forma independiente;
+a) Matrimonio o Acuerdo de Unión Civil: Se concederá una ayuda a la persona afiliada que acredite haber contraído Matrimonio o Acuerdo de Unión Civil. Si ambos contrayentes estuvieran afiliados/as al Servicio de Bienestar, se otorgará a cada uno/a uno ellos/as.
 
 b) Nacimiento: Se concederá un subsidio por el nacimiento de cada hijo/a. Si ambos padres estuviesen afiliados al Servicio, podrán invocar el beneficio en forma independiente. En caso de nacimientos múltiples se otorgará el subsidio por cada hijo nacido. Asimismo, corresponderá la ayuda en el caso de adopción de un hijo/a.
 
