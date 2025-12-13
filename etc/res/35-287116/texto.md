@@ -162,9 +162,19 @@ de 24 de noviembre de
 
 etapa de viaje.
 
+Tarifa
+
+Tarifa de Trenes Elecciones $0
+
+de 16 de noviembre de 2025,
+
+para todo contrato y
+
+etapa de viaje
+
 Tarifa de Metro Elecciones de $0
 
-16 de noviembre de 2025,
+14 de diciembre de 2025,
 
 para todo contrato y
 
@@ -172,7 +182,7 @@ etapa de viaje
 
 Tarifa de Trenes Elecciones $0
 
-de 16 de noviembre de 2025,
+de 14 de diciembre de 2025,
 
 para todo contrato y
 
