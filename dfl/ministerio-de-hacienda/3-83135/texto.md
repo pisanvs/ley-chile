@@ -330,25 +330,23 @@ Quedarán privadas del derecho a voto las acciones de un banco, cuando la person
 
 #### Artículo 37
 
-Las empresas bancarias son instituciones de funcionamiento obligatorio con sujeción al horario vigente. Ninguna empresa bancaria podrá iniciar, suspender o poner término a sus operaciones sin previa autorización de la Comisión.
+Las empresas bancarias son instituciones de funcionamiento obligatorio y deberán sujetarse a las disposiciones que establezca la Comisión respecto de horario mínimo de funcionamiento, apertura y cierre de oficinas y sucursales, y mecanismos o canales habilitados para la atención de público. Ninguna empresa bancaria podrá iniciar, suspender o poner término a sus operaciones sin previa autorización de la Comisión.
 
-Los bancos, antes de abrir cualquier oficina dentro del país, deberán informarlo a la Comisión. Esta, mediante norma de carácter general, determinará los antecedentes que deberán acompañarse para acreditar los requisitos necesarios para la apertura de la oficina y su registro.
+Los bancos, antes de abrir cualquier oficina dentro del país, deberán informarlo a la Comisión. Ésta, mediante norma de carácter general, determinará los antecedentes que deberán acompañarse para acreditar los requisitos necesarios para la apertura de la oficina y su registro.
 
-No obstante lo anterior, las instituciones que estén clasificadas en las dos últimas categorías, según el artículo 60, requerirán de autorización expresa para dicha apertura. En este caso, la Comisión deberá pronunciarse en un plazo de 90 días, contado desde la prestación de la solicitud y para rechazarla deberá dictar una resolución fundada.
+No obstante lo anterior, las instituciones que estén clasificadas en las dos últimas categorías, según el artículo 60, requerirán de autorización expresa para dicha apertura. En este caso, la Comisión deberá pronunciarse en un plazo de noventa días hábiles, contado desde la presentación de la solicitud y para rechazarla deberá dictar una resolución fundada.
 
-La Comisión determinará, mediante norma de carácter general, los requisitos y condiciones que deberán cumplir las empresas bancarias para el cierre de oficinas. Asimismo, el banco que decida cerrar alguna de sus sucursales deberá dar aviso a la Comisión, la que verificará el cumplimiento de los requisitos y condiciones preestablecidos.
+La Comisión determinará, mediante norma de carácter general, los requisitos y condiciones que deberán cumplir las empresas bancarias para el cierre de oficinas. Asimismo, el banco que decida cerrar alguna de sus sucursales deberá avisar a la Comisión, la que verificará el cumplimiento de los requisitos y condiciones preestablecidos.
 
 #### Artículo 38
 
-Corresponderá a la Comisión fijar, mediante norma de carácter general, el horario mínimo para la atención del público en el Banco del Estado de Chile y en el resto de los bancos, el que deberá ser uniforme para todas las oficinas de una misma localidad.
+Corresponderá a la Comisión fijar, mediante norma de carácter general, las condiciones mínimas que deberán cumplir las empresas bancarias en materia de atención al público, ya sea en oficinas, sucursales o corresponsalías o a través de otros canales de atención a público de que dispongan. También deberán cumplir con los requisitos que establezca la Comisión para su funcionamiento, dentro de los cuales se incluirán elementos tales como los estándares de seguridad de las operaciones que se efectúen por dichos canales y la disponibilidad mínima de ellos, entre otros.
 
-Las instituciones bancarias a que se refiere el inciso anterior, trabajarán de lunes a viernes de cada semana, ambos días inclusive, en jornada única bancaria en todas las provincias del país, sin perjuicio de las facultades conferidas a la Comisión para determinar el horario de dichas instituciones.
+No obstante, los bancos no atenderán presencialmente al público el 31 de diciembre de cada año, ni los días sábados de cada semana, salvo autorización de la Comisión. En ningún caso deberán considerarse esos días como festivos o feriados para los efectos legales, excepto en lo que se refiere al pago y protesto de letras de cambio.
 
-Podrá, además, autorizar a las empresas bancarias para que presten determinados servicios fuera de los días y horas de atención obligatoria al público.
+La Comisión, mediante normativa o resolución fundada, en atención a la naturaleza del servicio prestado o condiciones del mercado, podrá establecer la obligación de contar con determinados canales de atención, determinar la distribución del horario, condiciones y requerimientos de funcionamiento, disponibilidad u otras condiciones de la misma naturaleza que la Comisión determine.
 
-Salvo autorización de la Comisión otorgada en virtud del inciso anterior, los bancos no atenderán presencialmente al público los días sábado de cada semana y el día 31 de diciembre de cada año. En ningún caso deberán considerarse esos días como festivos o feriados para los efectos legales, excepto en lo que se refiere al pago y protesto de letras de cambio.
-
-Con todo, los bancos podrán disponer otros canales de atención de público, debiendo cumplir con los requisitos que para su funcionamiento establezca la Comisión, mediante norma de carácter general, dentro de los cuales deberán incluirse elementos tales como los estándares de seguridad de las operaciones que se efectúen por dichos canales y la disponibilidad mínima de los mismos, entre otros.
+Asimismo, la Comisión podrá determinar la obligación de las empresas bancarias de implementar un canal idóneo de atención de reclamos de clientes en consideración al número de clientes y tipo de servicio prestado, el cual deberá ajustarse a las características y condiciones que defina la Comisión mediante norma de carácter general, en proporción al número de clientes y tipo de servicio prestado por la entidad.
 
 #### Artículo 39
 
@@ -1774,9 +1772,9 @@ Secreto Bancario y otras Normas
 
 #### Artículo 154
 
-Las operaciones de depósitos y captaciones de cualquier naturaleza que reciban los bancos en virtud de la presente ley estarán sujetas a secreto bancario y no podrán proporcionarse antecedentes relativos a dichas operaciones sino a su titular o a quien haya sido expresamente autorizado por él o a la persona que lo represente legalmente. El que infringiere la norma anterior será sancionado con la pena de reclusión menor en sus grados mínimo a medio.
+Las operaciones de depósitos y captaciones de cualquier naturaleza que reciban los bancos en virtud de la presente ley estarán sujetas a secreto bancario y no podrán proporcionarse antecedentes relativos a dichas operaciones sino a su titular o a quien haya sido expresamente autorizado por él o a la persona que lo represente legalmente, o a quien haya sido autorizado por ley a requerir dicha información. El que infringiere la norma anterior será sancionado con la pena de reclusión menor en sus grados mínimo a medio.
 
-Las demás operaciones quedarán sujetas a reserva y los bancos en virtud de la presente ley solamente podrán darlas a conocer a quien demuestre un interés legítimo y siempre que no sea previsible que el conocimiento de los antecedentes pueda ocasionar un daño patrimonial al cliente.
+Las demás operaciones quedarán sujetas a reserva y los bancos en virtud de la presente ley solamente podrán darlas a conocer a quien demuestre un interés legítimo y siempre que no sea previsible que el conocimiento de los antecedentes pueda ocasionar un daño patrimonial al cliente, así como a quien haya sido autorizado por ley a requerir dicha información.
 
 Lo dispuesto en el inciso anterior no será aplicable a los casos en que la Comisión, en virtud de lo establecido en el numeral 35 del artículo 5 de la ley N° 21.000, que crea la Comisión para el Mercado Financiero, deba remitir antecedentes a la Unidad de Análisis Financiero, pudiendo en dichos casos enviarle la información bancaria sujeta a reserva que le fuere necesaria a dicha Unidad para evaluar el inicio de uno o más procedimientos administrativos en los términos señalados en el Título II de la ley N° 19.913, que crea la Unidad de Análisis Financiero.
 
