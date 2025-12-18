@@ -52,7 +52,7 @@ Decreto:
 
 Otórgase concesión de Servicio Público de Transmisión de Datos, a la empresa VTR Comunicaciones SpA, RUT N° 76.114.143-0, con domicilio en Avenida Apoquindo N°4800, piso 14, comuna de Las Condes, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
 
-1. Autorízase a la concesionaria a instalar, operar y explotar los sistemas que a continuación se indican, a fin de proveer el Servicio de Conectividad en los Establecimientos Educacionales Subvencionados (EES) de la Región del Biobío, que pertenezcan a la Zona 52, adjudicada a ella en el marco del Concurso Público "Conectividad para la Educación 2030", Código: FDT-2019-04, en los términos que exigen las Bases de Concurso y el Proyecto Comprometido y asignado, así como lo que en definitiva sea autorizado.
+1. Autorízase a la concesionaria a instalar, operar y explotar los sistemas que a continuación se indican, a fin de proveer el Servicio de Conectividad en los Establecimientos Educacionales Subvencionados (EES) de las regiones del Biobío, de Los Ríos y de Los Lagos, que pertenezcan a la Zona 52, adjudicada a ella en el marco del Concurso Público "Conectividad para la Educación 2030", Código: FDT-2019-04, en los términos que exigen las Bases de Concurso y el Proyecto Comprometido y asignado, así como lo que en definitiva sea autorizado.
 
 (*) En número de referencia a la Etapa corresponde a la fase en cuyo plazo máximo deberá prestarse el Servicio de Conectividad en los EES que pertenecen a la Zona 52 conforme a lo indicado en el resuelvo octavo de la resolución exenta N° 433, de fecha 01.03.2021, de la Subsecretaría de Telecomunicaciones.
 
