@@ -694,7 +694,7 @@ Si se trata de postulantes que se encuentren en condición migratoria irregular,
 
 <!-- parte:10574089 -->
 
-Durante el año 2026 la dictación del decreto supremo al que hace referencia el artículo octavo transitorio de la ley N° 21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, requerirá previamente la dictación del reglamento a que se refiere el artículo 29 de la misma ley.
+Eliminado.
 
 #### Artículo 53
 
