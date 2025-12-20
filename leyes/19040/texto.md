@@ -1,8 +1,10 @@
-ESTABLECE NORMAS PARA ADQUISICION POR EL FISCO DE VEHICULOS QUE INDICA Y OTRAS DISPOSICIONES RELATIVAS A LA LOCOMOCION COLECTIVA DE PASAJEROS
+ESTABLECE NORMAS PARA ADQUISICION POR EL FISCO DE VEHICULOS QUE INDICA Y OTRAS DISPOSICIONES RELATIVAS A LA TRANSPORTE REMUNERADO DE PASAJEROS
 
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
 Proyecto de ley:
+
+> **Nota.** El numeral 1° del articulo único de la ley 21787, publicada el 20.12.2025, dispone sustituir en el nombre de la presente ley, la frase “locomoción colectiva de pasajeros” por “transporte remunerado de pasajeros”, sin embargo, no dispone reemplazar las palabras "a la" que anteceden a la citada frase, es por esta razón que se mantienen en su texto actualizado.
 
 #### Artículo 1°
 
@@ -96,19 +98,25 @@ Los fondos que la Dirección de Aprovisionamiento del Estado recaude como result
 
 Cualquier procedimiento, maniobra dolosa, fraude o falsedad en que se incurra para vender u obtener un mejor precio por los vehículos que se ofrezcan a la Dirección de Aprovisionamiento del Estado de acuerdo con esta ley, o para cobrar la asignación compensatoria excepcional señalada en el artículo 5°, con perjuicio del Estado, ya sea suponiendo situaciones o condiciones inexistentes o en alguna de las formas que señala el artículo 193 del Código Penal, hará aplicables las penas del inciso primero del artículo 197 del mismo Código.
 
-#### Artículo 9°
+#### Artículo 9
 
-El empresario del transporte público de pasajeros que realice servicios de transporte de locomoción colectiva con vehículos impedidos de hacerlo según disposiciones del Ministerio de Transportes y Telecomunicaciones, en uso de sus atribuciones y en resguardo de la seguridad o de la preservación del medio ambiente, será sancionado con una multa, a beneficio fiscal, de hasta el valor equivalente a diez unidades tributarias mensuales.
+La persona natural o jurídica, propietario o mero tenedor del vehículo que realice servicios de transporte remunerado de pasajeros con vehículos no habilitados, según las disposiciones dictadas por el Ministerio de Transportes y Telecomunicaciones, será sancionado con una multa a beneficio fiscal de diez a cien unidades tributarias mensuales. En caso de reincidencia, la multa será de veinte a doscientas unidades tributarias mensuales, y se considerarán las infracciones cometidas en los últimos tres años, contados desde que la resolución que haya aplicado la sanción se encuentre firme y ejecutoriada.
 
-Cuando la prestación del servicio se haga en un vehículo que no se encuentre debidamente inscrito en el Registro Nacional de Servicios de Transporte de Pasajeros, la multa será de tres a quince unidades tributarias mensuales. En caso de reincidencia la multa será de cinco a veinte unidades tributarias mensuales.
+Los conductores de vehículos no habilitados, según las disposiciones dictadas por el Ministerio de Transportes y Telecomunicaciones, distintos del propietario o mero tenedor, serán sancionados con una multa a beneficio fiscal de cinco a cincuenta unidades tributarias mensuales. En caso de reincidencia, la multa será de diez a cien unidades tributarias mensuales, y se considerarán las infracciones cometidas en los últimos tres años, contados desde que la resolución que haya aplicado la sanción se encuentre firme o ejecutoriada. Adicionalmente, el juez suspenderá la licencia de conductor por un plazo no menor a quince ni superior a cuarenta y cinco días; y, en caso de reincidencia, por un plazo de cuarenta y cinco a noventa días.
 
-A las personas que condujeren vehículos afectos a las normas referidas, en caso de no ser dueñas del vehículo, se les aplicará una multa de uno coma cinco a tres unidades tributarias mensuales.
+Los vehículos podrán ser retirados de circulación por Carabineros de Chile y por inspectores fiscales o municipales, para ponerlos a disposición del tribunal competente en los lugares habilitados por las municipalidades para tal efecto. El costo del traslado, bodegaje y otros en el que por estos motivos incurra la autoridad será de cargo del propietario o mero tenedor del vehículo, y no podrá retirarlo del lugar de almacenamiento sin su pago previo.
 
-En tales casos, los vehículos serán retirados de la circulación por Carabineros de Chile o Inspectores Fiscales, poniéndolos a disposición del tribunal competente en los lugares habilitados por las Municipalidades para tal efecto, aplicándose lo dispuesto en el inciso segundo del artículo 161 de la ley citada en el inciso anterior, al propietario del vehículo.
+Asimismo, serán sancionados con una multa de cinco a cincuenta unidades tributarias mensuales aquellas personas que intermedien en la contratación de este tipo de servicios. En caso de reincidencia, la multa será de diez a cien unidades tributarias mensuales, y se considerarán las infracciones cometidas en los últimos tres años, contados desde que la resolución que haya aplicado la sanción se encuentre firme o ejecutoriada.
+
+Se entenderá por intermediación de un servicio de transporte informal aquella actividad mediante la cual una persona natural o jurídica, por sí o por un tercero, capta a pasajeros con el objeto de facilitar su traslado en un vehículo motorizado desde un lugar no autorizado para la prestación de servicios de transporte remunerado de pasajeros.
+
+Las personas que utilicen servicios de transporte ilegales a sabiendas serán sancionadas con una multa de una a tres unidades tributarias mensuales.
 
 Conocerán de estas infracciones los jueces de policía local, de acuerdo con sus atribuciones generales.
 
-> **Nota.** NOTA: 1.1 Ver el Decreto Supremo N° 116, del Ministerio de Transportes y Telecomunicaciones, publicado en el "Diario Oficial" de 26 de Junio de 1992, que reglamenta el presente artículo en relación con normas de procedimiento de policía local, y otro.
+#### Artículo 9 bis
+
+Los servicios de transporte terrestre que operen con mostradores o counters en las instalaciones aeroportuarias sólo podrán prestar servicios previamente pagados por los pasajeros."
 
 #### Artículo 10
 
