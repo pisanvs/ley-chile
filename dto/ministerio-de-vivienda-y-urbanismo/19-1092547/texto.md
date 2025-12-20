@@ -902,7 +902,7 @@ Las medidas antes señaladas se aplicarán mediante resoluciones del Secretario 
 
 <!-- parte:10506250 -->
 
-Siempre que el subsidio sea presentado a cobro hasta el 31 de diciembre de 2025, las familias de sectores medios que apliquen el subsidio a una vivienda de un proyecto seleccionado a través de este reglamento y que haya obtenido la recepción municipal del total de las viviendas del proyecto hasta el 31 de marzo de 2024 obtendrán un subsidio adicional de 100 Unidades de Fomento respecto del monto de subsidio determinado de acuerdo con las reglas establecidas en la tabla inserta en el literal b) del artículo 3° de este reglamento. En dichos casos el precio de la vivienda no podrá exceder de lo establecido en el convenio suscrito por la entidad desarrolladora con el Serviu respectivo para cada proyecto.
+Siempre que la respectiva escritura de compraventa sea de fecha igual o anterior al 31 de diciembre de 2025, las familias de sectores medios que apliquen el subsidio a una vivienda de un proyecto seleccionado a través de este reglamento y que haya obtenido la recepción municipal del total de las viviendas del proyecto hasta el 31 de marzo de 2024 obtendrán un subsidio adicional de 100 Unidades de Fomento respecto del monto de subsidio determinado de acuerdo con las reglas establecidas en la tabla inserta en el literal b) del artículo 3° de este reglamento. En dichos casos el precio de la vivienda no podrá exceder de lo establecido en el convenio suscrito por la entidad desarrolladora con el Serviu respectivo para cada proyecto.
 
 Para lo anterior, el beneficiario deberá acreditar un ahorro adicional al establecido en el artículo 3° letra b), de a lo menos 50 Unidades de Fomento.
 
