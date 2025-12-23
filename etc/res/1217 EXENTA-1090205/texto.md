@@ -168,6 +168,24 @@ Además de las funciones básicas (teclado numérico, selector de funciones y ca
 
 En el caso de televisores que incorporen receptores satelitales, éstos deberán ser compatibles con las características técnicas señaladas, a excepción de las salidas de señal, que serán opcionales.
 
+#### Artículo 5° bis
+
+En el caso de que la solución complementaria sea una aplicación tecnológica que contenga los canales nacionales de televisión abierta, instalada de fábrica o por el usuario en el aparato receptor, ésta deberá ser capaz de sintonizar las señales de todos los canales nacionales, disponibles por las concesionarias que opten por implementar estas soluciones.
+
+Para que esta aplicación sea considerada una solución complementaria dentro del territorio nacional, debe cumplir con las siguientes condiciones copulativas:
+
+a) Gratuita.
+
+b) Los usuarios deben contar previamente con una conexión de acceso a internet, que les permita recibir la señal de televisión, con la calidad acorde a lo señalado en el artículo 8º del Visto d), garantizándose así el acceso libre y directo de los usuarios a la señal.
+
+c) No discriminatoria, permitiendo la inclusión de otros canales nacionales de TV abierta, a través de condiciones estandarizadas, objetivas, y orientadas a costos.
+
+d) La solución complementaria satelital actualmente en operación no debe ser eliminada, por lo que deberá mantenerse en operación de conformidad a la normativa sectorial aplicable.
+
+e) Sea sostenible en el tiempo, con todos los soportes, y actualizaciones de seguridad, rendimiento y nuevas funciones, que permitan asegurar su adecuado funcionamiento.
+
+El respectivo proyecto técnico deberá demostrar que la solución propuesta permitirá, a los usuarios que la empleen, contar con una calidad acorde a lo señalado en el artículo 8º del Plan TVD.
+
 #### Artículo 6º
 
 Con el fin de asegurar la compatibilidad de los receptores de la solución complementaria, éstos deberán ser previamente certificados de conformidad a un procedimiento común que establezcan las concesionarias con cobertura nacional que opten por la solución complementaria, el cual deberá ser aprobado por Subtel.
