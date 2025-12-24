@@ -48,7 +48,7 @@ a) Forma de participación de los privados;
 
 b) Bienes y derechos que se incorporan al pacto, contrato o concesión que se licita;
 
-c) Análisis de los requerimientos de consulta a la Comisión Preventiva de acuerdo con lo establecido en la ley Nº19.542;
+c) Análisis de los requerimientos de consulta al Tribunal de Defensa de la Libre Competencia de acuerdo con lo establecido en la ley Nº19.542;
 
 d) Origen o autoría de la iniciativa de la licitación (empresa o privados);
 
@@ -58,9 +58,11 @@ f) Factores de adjudicación;
 
 g) Forma de determinar el valor económico de los activos y de los derechos traspasados y pagos correspondientes;
 
-h) Casos y condiciones en que puede afectarse o limitarse el ejercicio de los derechos del concesionario, y
+h) Casos y condiciones en que puede afectarse o limitarse el ejercicio de los derechos del concesionario;
 
-i) Programa de publicidad y promoción contemplado, y cronograma del proceso de licitación.
+i) Programa de publicidad y promoción contemplado, y cronograma del proceso de licitación, y
+
+j) Concordancia del proceso de licitación con los instrumentos de planificación vigentes de la Empresa Portuaria.
 
 #### Artículo 4º
 
@@ -82,17 +84,17 @@ f) El régimen de garantías, su naturaleza y cuantía, los plazos en que deben 
 
 g) El régimen económico del contrato;
 
-h) Las condiciones en que puede afectarse o limitarse el ejercicio de los derechos del arrendatario, concesionario o de la sociedad en su caso, incluidas, entre otras, las situaciones que den origen a consultas a la Comisión Preventiva o Resolutiva, de conformidad a la ley Nº19.542;
+h) Las condiciones en que puede afectarse o limitarse el ejercicio de los derechos del arrendatario, concesionario o de la sociedad en su caso, incluidas, entre otras, las situaciones que den origen a consultas al Tribunal de Defensa de la Libre Competencia, de conformidad a la ley Nº19.542;
 
 i) Las normas que regulen la participación del acreedor de una prenda especial de concesión portuaria, cuando corresponda;
 
-j) Si el contrato incorpora un bien material deberá señalarse la ubicación del mismo, con sus referencias de orientación a lugares o puntos permanentes y conocidos que lo precisen, sus dimensiones (frente y fondo en metros), superficie (en metros cuadrados), deslindes y naturaleza del bien;
+j) Si el contrato incorpora un bien material deberá señalarse la ubicación del mismo, mediante plano georreferenciado, con dimensiones (frente y fondo en metros), superficie (en metros cuadrados), deslindes y naturaleza del bien;
 
 k) Los seguros, sus coberturas, montos y plazos; l) Los procedimientos de control del cumplimiento del contrato;
 
 m) El régimen de sanciones aplicables a los incumplimientos del contrato y multas aplicables;
 
-n) Los mecanismos de resolución de controversias;
+n) Los mecanismos de resolución de controversias, con las condiciones establecidas en el artículo 31, inciso 3º, numeral 6, de la ley Nº 19.542;
 
 o) Las causales de suspensión de los efectos del contrato de arrendamiento o concesión, y
 
@@ -102,13 +104,23 @@ q) El plazo del contrato, de acuerdo a lo establecido en el artículo 12 de este
 
 En todo caso la empresa podrá incorporar cualquier otra disposición que considere necesaria en las bases de licitación, siempre que no contravenga los contenidos mínimos antes señalados y los establecidos en la ley Nº19.542.
 
-#### Artículo 4 bis
+#### Artículo 4º bis
 
-Tanto la Memoria Explicativa como las Bases de Licitación de cada proceso deberán ser informadas al Ministerio de Transportes y Telecomunicaciones, en adelante el Ministerio, a fin de que éste emita su opinión sobre ambas. El Ministerio dispondrá de un plazo no superior a 30 días para emitir su opinión, contados desde la fecha de recepción de los documentos. Con la opinión del Ministerio a la vista o vencido el plazo para ello, el directorio de la empresa correspondiente, procederá a someter a aprobación tanto la Minuta Explicativa como las Bases de Licitación, deberá quedar constancia de la opinión o silencio del Ministerio en el acta de la sesión.
+Tanto la Memoria Explicativa como las Bases de Licitación, sus Anexos y el Contrato preliminar de cada proceso deberán ser aprobados preliminarmente por el directorio de la empresa e informados al Ministerio de Transportes y Telecomunicaciones, en adelante el Ministerio, a fin de que éste último emita su opinión sobre los mismos. El Ministerio dispondrá de un plazo no superior a 30 días para emitir su opinión, contados desde la fecha de recepción de los documentos.
+
+Con la opinión del Ministerio a la vista o vencido el plazo para ello, el directorio de la empresa procederá a someter a aprobación definitiva tanto la Memoria Explicativa como las Bases de Licitación, sus Anexos y el Contrato preliminar, debiendo quedar constancia de la opinión o silencio del Ministerio en el acta de la sesión. En caso de que el directorio de la empresa decida efectuar cambios a los documentos, deberá reingresarlos al Ministerio para que éste emita su opinión en un plazo no superior a 10 días, contados desde la fecha de recepción de los documentos. Con la opinión del Ministerio a la vista o vencido el plazo para ello, el directorio de la empresa procederá a someter a aprobación definitiva los nuevos textos.
+
+En los casos establecidos en los artículos 14 y 23 de la ley Nº 19.542, la solicitud de consulta al Tribunal de Defensa de la Libre Competencia deberá realizarse en los mismos términos a los señalados en este artículo.
+
+#### Artículo 4º ter
+
+Durante el proceso de licitación, la empresa deberá someter a la opinión del Ministerio, de forma previa a su publicación, cualquier circular complementaria que implique modificaciones, rectificaciones, adiciones o aclaraciones a los contenidos esenciales de las Bases de Licitación señalados en el artículo 4º. El Ministerio dispondrá de un plazo no superior a 10 días para emitir su opinión, contados desde la fecha de recepción del documento.
+
+Con la opinión del Ministerio a la vista o vencido el plazo para ello, el directorio de la empresa procederá a someter a aprobación definitiva la circular complementaria, debiendo quedar constancia de la opinión o silencio del Ministerio en el acta de la sesión.
 
 #### Artículo 5º
 
-Sin perjuicio del cumplimiento de los requisitos mínimos señalados en el artículo anterior, de acuerdo a lo que determine el directorio de la empresa, el proceso de licitación podrá contemplar distintas modalidades (propuesta en sobre cerrado, remate, etc.), así como una o más etapas.
+Sin perjuicio del cumplimiento de los requisitos mínimos señalados en el artículo 4º del presente reglamento, de acuerdo a lo que determine el directorio de la empresa, el proceso de licitación podrá contemplar distintas modalidades (propuesta en sobre cerrado, remate, etc.), así como una o más etapas.
 
 En el evento que se considere un proceso de licitación en más de una etapa, la primera etapa de licitación abordará al menos los siguientes aspectos:
 
@@ -290,6 +302,8 @@ Las garantías de fiel cumplimiento del contrato no podrán tener un monto infer
 
 Serán de cargo del arrendatario, concesionario o de la sociedad, en su caso, las reparaciones por siniestros o daños materiales causados en los bienes que se encuentren bajo su responsabilidad, salvo caso fortuito o fuerza mayor, debidamente acreditado.
 
+Con todo, las bases de licitación deberán establecer los procedimientos y responsabilidades de las partes, incluyendo el tratamiento de los seguros asociados, respecto a las reparaciones que se deriven producto de un evento de fuerza mayor, debidamente acreditado, a fin de precaver la continuidad en la prestación de los servicios, ya sea si dicho evento de fuerza mayor provoca o no el término del contrato.
+
 #### Artículo 16
 
 Los contratos que suscriban las empresas de conformidad a este reglamento, sean de sociedad, arrendamiento o de concesión portuaria, deberán constar por escritura pública.
@@ -328,7 +342,7 @@ e) Establecer tarifas públicas y no discriminatorias, las que no podrán ser su
 
 f) Responder por los daños de cualquier naturaleza que con motivo del cumplimiento del contrato se ocasione al medio ambiente o a terceros, a menos que estos sean exclusiva consecuencia de medidas impuestas por la empresa. Con todo, el arrendatario, concesionario, o la sociedad, en su caso, deberá informar a la empresa de los efectos negativos que prevea como consecuencia de dichas medidas;
 
-g) Realizar los controles, mediciones y estadísticas que las bases de licitación y el contrato le exijan, responsabilizándose de la veracidad de la información entregada. Asimismo, permitir el acceso del personal designado por la empresa como el de otras entidades públicas competentes para cumplir en forma adecuada con sus funciones;
+g) Realizar los controles, mediciones y estadísticas que las bases de licitación y el contrato le exijan según los procedimientos y en base a los formatos que, a través de estos documentos, la empresa determine en coordinación con el Ministerio de Transportes y Telecomunicaciones, responsabilizándose de la veracidad de la información entregada. Asimismo, permitir el acceso del personal designado por la empresa como el de otras entidades públicas competentes para cumplir en forma adecuada con sus funciones;
 
 h) Deslindar los terrenos que se le entreguen, bajo la supervisión de la empresa y en la forma que ésta determine, vigilarlos y cuidar especialmente de mantenerlos libres de ocupantes ajenos a su objeto, así como no permitir alteraciones de sus límites y no admitir en ellos el depósito de material ajeno al objeto del contrato;
 
@@ -430,7 +444,7 @@ a) Especificaciones técnicas de la obra o mejora a ejecutar;
 
 b) Planos, memorias de cálculo, cuadros, diagramas u otros, relacionados con la obra o mejora a ejecutar;
 
-c) Estudio de impactos que cause la obra o mejora, así como de las medidas de mitigación contempladas;
+c) Estudio de impactos que cause la obra o mejora, tanto durante la fase de construcción como de operación, así como de las medidas de mitigación contempladas;
 
 d) Programa de ejecución, incluyendo la identificación de los planes de trabajo y plazos para el desarrollo de la obra;
 
@@ -438,15 +452,19 @@ e) Presupuesto de inversión, con los ítemes de las partidas, cubicaciones y pr
 
 f) Mecanismos para establecer los valores de las partidas que correspondan en caso de ampliación futura de la obra;
 
-g) Programas de inversiones, y
+g) Programas de inversiones;
 
 h) Certificados o documentos emitidos por la autoridad competente respecto de autorizaciones o aprobaciones específicas, cuando corresponda.
 
-La empresa podrá requerir con el debido fundamento técnico, modificaciones a los antecedentes presentados. La aprobación de los antecedentes por parte de la empresa deberá hacerse en un plazo breve, autorizando a iniciar la ejecución de las obras o mejoras, sin perjuicio de contar con otros permisos necesarios. Esta aprobación no exime al arrendatario, concesionario o la sociedad, en su caso, de su responsabilidad respecto a cálculos, detalles, dimensiones, especificaciones u otros, que sean necesarios para construir, fabricar, ejecutar o instalar las obras o mejoras previstas.
+La empresa podrá requerir con el debido fundamento técnico, modificaciones a los antecedentes presentados. La aprobación de los antecedentes por parte de la empresa deberá hacerse en un plazo breve, autorizando a iniciar la ejecución de las obras o mejoras, sin perjuicio de contar con otros permisos necesarios. Esta aprobación no exime al arrendatario, concesionario o la sociedad, en su caso, de su responsabilidad respecto a cálculos, detalles, dimensiones, especificaciones u otros, que sean necesarios para construir, fabricar, ejecutar o instalar las obras o mejoras previstas, y
+
+i) Análisis técnico que respalde la correspondencia entre la inversión proyectada y las proyecciones de desarrollo de los servicios portuarios en el horizonte previsto por el Plan Maestro de la empresa.
+
+La empresa podrá aprobar, rechazar o proponer modificaciones a cualquier proyecto de obra portuaria presentado por el concesionario, arrendatario o sociedad, en los términos y según los procedimientos que establezca el respectivo contrato de arrendamiento, concesión o sociedad.
 
 #### Artículo 31
 
-Las obras y mejoras deberán cumplir con las especificaciones técnicas que exija la empresa, y cuando proceda, las exigencias establecidas por la Ley General de Urbanismo y Construcciones y su reglamento, la reglamentación municipal y demás normativa vigente que corresponda.
+Las obras y mejoras deberán cumplir con las especificaciones técnicas que exija la empresa, y cuando proceda, la obtención de los permisos sectoriales en materia ambiental, de revisión de ingeniería y seguridad marítima, así como las exigencias establecidas por la Ley General de Urbanismo y Construcciones y su reglamento, la reglamentación municipal y demás normativa vigente que corresponda.
 
 El arrendatario, concesionario o la sociedad, en su caso, no podrá introducir modificaciones en la ejecución de las obras o mejoras autorizadas, sin contar con la correspondiente autorización previa por parte de la empresa. Para ello, deberá poner oportunamente en conocimiento de la empresa las modificaciones que se contemplen. En todo caso, todos los costos que se originen como consecuencia de las modificaciones serán de cargo del arrendatario, del concesionario o de la sociedad, en su caso.
 
@@ -464,7 +482,7 @@ Cuando para la ejecución de una obra o mejora resultare indispensable alterar l
 
 #### Artículo 35
 
-Corresponderá a la empresa controlar, durante la fase de ejecución, el avance, desarrollo y calidad de las obras y mejoras, en los términos aprobados. Asimismo, le corresponderá otorgar la autorización de puesta en servicio de la obra, en cuanto se encuentre en condiciones de prestarse.
+Corresponderá a la empresa controlar, durante la fase de ejecución, el avance, desarrollo y calidad de las obras y mejoras, en los términos aprobados tanto respecto del proyecto como a su impacto sobre el desarrollo de las actividades logísticas y portuarias del sistema. Asimismo, le corresponderá otorgar la autorización de puesta en servicio de la obra, en cuanto se encuentre en condiciones de prestarse.
 
 Será obligación del arrendatario, concesionario o de la sociedad, en su caso, subsanar a su costo aquellas observaciones que con fundamento técnico realice la empresa durante la ejecución de la obra o mejora.
 
@@ -526,9 +544,7 @@ Las empresas estarán obligadas a establecer en las bases de licitación los asp
 
 En el caso de concesiones portuarias de frente de atraque, previo al llamado de licitación, corresponderá al directorio de la empresa verificar la existencia de otro frente de atraque capaz de atender la misma nave de diseño, o una mayor, de aquel frente objeto de la concesión en los puertos o terminales estatales de la región.
 
-Si no se cumpliera la condición antes señalada, el directorio deberá recabar un informe de la Comisión Preventiva Central establecida por el decreto Nº511 que fija el texto refundido, coordinado y sistematizado del D.L.
-
-Nº211/73, de conformidad a lo establecido en el artículo 14 de la ley Nº19.542, en el que se establezcan los términos en que esa licitación deba efectuarse, o bien remitirse al o a los informes que sobre la materia se hayan expedido, con anterioridad, por la misma Comisión.
+Si no se cumpliera la condición antes señalada, el directorio deberá recabar un informe del Tribunal de Defensa de la Libre Competencia, de conformidad a lo establecido en el artículo 14 de la ley Nº19.542, en el que se establezcan los términos en que esa licitación deba efectuarse, o bien remitirse al o a los informes que sobre la materia se hayan expedido, con anterioridad.
 
 #### Artículo 47
 
