@@ -228,17 +228,15 @@ l. Otras obligaciones previstas en los Reglamentos Específicos e Instructivos T
 
 Supervisión a los terceros autorizados
 
-Los Reglamentos Específicos y/o Instructivos Técnicos definirán los procedimientos operativos de la supervisión, su frecuencia y los responsables tanto de elaborar el plan anual de supervisión, como los de su ejecución. Dicho plan deberá ser elaborado y enviado al Departamento de Transacciones Comerciales y Autorización de Terceros y a la unidad técnica establecida en cada Reglamento Específico, a más tardar el 31 de marzo de cada año. Cada tercero deberá ser supervisado al menos una (1) vez al año en sus dependencias o en terreno, con excepción de los médicos veterinarios autorizados, quienes serán supervisados según su nivel de actividad, de acuerdo a lo establecido en el reglamento específico correspondiente.
+Los Reglamentos Específicos y/o Instructivos Técnicos definirán los procedimientos operativos de la supervisión, su frecuencia y los responsables tanto de elaborar el plan anual de supervisión, como los de su ejecución. Dicho plan deberá ser elaborado y enviado al Departamento de Transacciones Comerciales y Autorización de Terceros y a la unidad técnica establecida en cada Reglamento Específico, a más tardar el 31 de marzo de cada año. Cada tercero deberá ser supervisado al menos una (1) vez al año en sus dependencias o en terreno, con excepción de los médicos veterinarios autorizados, quienes serán supervisados según su nivel de actividad, de acuerdo a lo establecido en el reglamento específico correspondiente, y de los laboratorios de análisis/ensayo autorizados que estén ubicados en el extranjero, cuya supervisión presencial podrá realizarse cada dos (2) años o de acuerdo a la periodicidad que determine el Servicio.
 
 Sin perjuicio de lo anterior, el Servicio podrá ejecutar otras supervisiones de acuerdo a lo establecido en el presente Reglamento, Reglamentos Específicos, Convenios de autorización y/o Instructivos Técnicos, tales como visitas, inspecciones, ensayos de aptitud, rondas interlaboratorios, controles documentales o revisión de sistemas informáticos.
 
-El Servicio deberá elaborar un informe por cada una de las supervisiones realizadas, del que se entregará una copia al supervisado, junto con ello, se remitirá una copia del informe al Departamento de Transacciones Comerciales y Autorización de Terceros.
+El Servicio deberá elaborar un informe por cada una de las supervisiones realizadas, entregando o haciendo llegar una copia al tercero supervisado. Los Reglamentos Específicos y/o Instructivos Técnicos definirán aquellos casos en que los informes de supervisión requieren ser enviados al Departamento de Transacciones Comerciales y Autorización de Terceros y/o unidades técnicas del SAG.
 
 En caso de detectarse no conformidades en el desempeño del tercero, el Servicio indicará en el informe de supervisión los puntos a subsanar y el plazo para ello.
 
-Posteriormente, el Servicio realizará una segunda supervisión, la cual podrá ser presencial o documental, dependiendo del tipo de observación, que tendrá como objeto verificar que fueron subsanadas.
-
-De mantenerse las no conformidades, otorgará un último plazo para subsanarlas y el Servicio efectuará una tercera supervisión, con el objeto antes señalado, y en caso de no haberse corregido la totalidad de no conformidades detectadas, éstas pasarán a considerarse un incumplimiento.
+De mantenerse las no conformidades detectadas, procederá iniciar el procedimiento de aplicación de medida por incumplimiento, según lo indicado en el título VI del presente Reglamento General.
 
 Por cada una de las supervisiones adicionales a las establecidas en los Reglamentos Específicos e Instructivos Técnicos, para verificar el cumplimiento de las no conformidades, el tercero deberá pagar la tarifa respectiva por cada una de ellas, con excepción de que la supervisión adicional sea por un objetivo distinto determinado por el Servicio, como lo son las actividades de seguimiento al sistema de gestión de calidad implementado por el tercero autorizado, las que no tendrán cobro alguno.
 
