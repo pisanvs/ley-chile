@@ -754,6 +754,14 @@ Tributarios
 
 01 Libre
 
+001 Remuneraciones
+
+002 Resto
+
+003 Resto Plataforma
+
+Pago Automatizado.
+
 02 Servicio de
 
 la Deuda Interna
@@ -2866,15 +2874,91 @@ e Ingresos esperados.
 
 01 LIBRE
 
-Aporte complementario que otorga el
+Aporte complementario
 
-Estado a través de la Ley de Presupuestos
+que otorga el Estado
 
-y sus modificaciones, destinado al
+a través de la Ley de
 
-financiamiento de gastos de los
+Presupuestos y sus
+
+modificaciones,
+
+destinado al
+
+financiamiento de
+
+gastos de los
 
 organismos públicos.
+
+001 Remuneraciones.
+
+Comprende los fondos de
+
+aporte fiscal libre
+
+destinados a financiar
+
+los gastos en personal
+
+de las instituciones
+
+y organismos públicos.
+
+002 Resto.
+
+Comprende los fondos de
+
+aporte fiscal libre
+
+destinados a financiar
+
+el resto de gastos de
+
+las instituciones y
+
+organismos públicos,
+
+con excepción de los
+
+que se paguen a través
+
+de la Plataforma de
+
+Pago Automatizado.
+
+003 Resto Plataforma
+
+Pago Automatizado.
+
+Comprende los fondos de
+
+aporte fiscal libre que
+
+otorga el Fisco, por
+
+concepto de los pagos
+
+que realiza el Servicio
+
+de Tesorerías a través
+
+de la plataforma de
+
+pago automatizado (PPA)
+
+de documentos tributarios
+
+electrónicos (DTE) de
+
+proveedores asociados a
+
+obligaciones contraídas
+
+por las instituciones
+
+y organismos públicos.
 
 02 SERVICIO DE LA DEUDA INTERNA
 
@@ -6788,6 +6872,44 @@ Adicional, Artículo
 
 8 ° Ley N º 18.566
 
+004 Cotización Cuenta
+
+Capitalización
+
+Individual, del
+
+literal a) numeral
+
+1 del Artículo 1,
+
+Ley Nº 21.735.
+
+005 Cotización
+
+Rentabilidad
+
+Protegida,
+
+del literal b)
+
+numeral 1 del
+
+#### Artículo 1
+
+,
+
+Ley Nº 21.735.
+
+006 Cotización
+
+Adicional FAPP,
+
+del numeral 2
+
+del Artículo 1,
+
+Ley Nº 21.735.
+
 003 Asignaciones por Desempeño
 
 001 Desempeño Institucional
@@ -7090,13 +7212,63 @@ la ley Nº 21.526.
 
 002 Aportes del Empleador
 
-001 A Servicios de Bienestar
+001 A Servicios de
 
-002 Otras Cotizaciones Previsionales
+Bienestar
 
-003 Cotización Adicional, Artículo
+002 Otras Cotizaciones
 
-8 ° Ley N º 18.566
+Previsionales
+
+003 Cotización Adicional,
+
+#### Artículo 8°
+
+Ley N º 18.566
+
+004 Cotización Cuenta
+
+Capitalización
+
+Individual,
+
+del literal a)
+
+numeral 1 del
+
+#### Artículo 1
+
+,
+
+Ley Nº 21.735.
+
+005 Cotización
+
+Rentabilidad
+
+Protegida, del
+
+literal b)
+
+numeral 1 del
+
+#### Artículo 1
+
+,
+
+Ley Nº 21.735.
+
+006 Cotización
+
+Adicional FAPP,
+
+del numeral 2 del
+
+#### Artículo 1
+
+,
+
+Ley Nº 21.735.
 
 003 Asignaciones por Desempeño
 
