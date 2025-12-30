@@ -22,6 +22,32 @@ Decreto:
 
 Créase el "Consejo Asesor Ministerial del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación", en adelante e indistintamente "El Consejo", cuya misión es asesorar y apoyar al Ministro o Ministra en el análisis y revisión periódica de las políticas públicas del sector.
 
+En el desarrollo de sus funciones el Consejo podrá participar en labores que involucren, entre otras, asesorar al Ministro o Ministra en:
+
+a) El análisis de políticas públicas en Ciencia, Tecnología, Conocimiento e Innovación (CTCI) y su impacto, proponiendo mejoras basadas en evidencia y buenas prácticas.
+
+b) La identificación y anticipación de desafíos y oportunidades emergentes en CTCI, proporcionando recomendaciones estratégicas.
+
+c) El seguimiento de políticas públicas en CTCI, asesorando en la evaluación del cumplimiento de objetivos, desempeño y metas del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.
+
+d) La identificación de las áreas críticas para el fomento de la Innovación y Desarrollo (I+D) tecnológico en el país.
+
+e) La creación de estrategias para fortalecer colaboraciones y redes internacionales en CTCI y Desarrollo.
+
+f) La divulgación y educación científica hacia la sociedad en el área de la CTCI.
+
+g) La propuesta de programas que promuevan la equidad de género y la diversidad e inclusión en CTCI.
+
+h) La propuesta de iniciativas y proyectos de innovación que abordan problemas críticos para la CTCI.
+
+i) La creación y actualización de normativas en el ámbito de la ética y seguridad en I+D tecnológico.
+
+j) Propiciar y apoyar la realización de, al menos, una reunión anual con representantes de las sociedades y organizaciones en Ciencia, Tecnología, Conocimiento e Innovación (CTCI), considerando la representatividad de las distintas áreas del conocimiento, según el catastro nacional administrado por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.
+
+k) Propiciar la comunicación entre la comunidad relacionada con CTCI y la autoridad del Ministerio, permitiendo instancias de escucha mutua y canalizando las opiniones e inquietudes de esta última hacia dicha autoridad.
+
+l) En la elaboración de informes y recomendaciones, sobre las materias de su competencia, los cuales no serán vinculantes, pero podrán ser considerados en la toma de decisiones del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.
+
 Dentro de sus labores deberá, además, asesorarlo en la conformación de los comités técnicos o de expertos, permanentes o temporales, los que apoyarán y asesorarán al Director o Directora de la Agencia en la elaboración de bases y en la adjudicación de los concursos o convocatorias que ésta ejecute.
 
 #### Artículo segundo
@@ -32,19 +58,45 @@ La integración del Consejo Asesor deberá ser plural y equilibrada, con una ade
 
 Los miembros del Consejo ejercerán sus funciones ad-honorem y su desempeño no implicará la creación de un cargo público.
 
+Las y los integrantes del Consejo deberán cumplir, a lo menos, con las siguientes obligaciones, en el ejercicio de sus funciones:
+
+a) Asistir y participar de las sesiones ordinarias y extraordinarias que se convoquen.
+
+b) Proveer de documentación, antecedentes, datos e información que se requiera para el adecuado funcionamiento del Consejo.
+
+c) Realizar las demás acciones necesarias para el adecuado cumplimiento de las funciones del Consejo.
+
+Serán causales de cesación de funciones en el Consejo, las siguientes:
+
+a) Expiración del plazo por el que fueron nombradas/os.
+
+b) Renuncia ante la Ministra o el Ministro de Ciencia, Tecnología, Conocimiento e Innovación.
+
+En caso de cesación de funciones por la causal prevista en la letra b), del inciso anterior, se designará un/a reemplazante por el lapso restante antes del término del periodo. El nuevo nombramiento se realizará por el Presidente o Presidenta de la República.
+
 #### Artículo tercero
 
 El Consejo será presidido por el Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación.
 
 Serán funciones del presidente o presidenta del Consejo:
 
-a. Presidir las sesiones, orientar el desarrollo de los debates y suspenderlos por causas justificadas.
+a) Presidir las sesiones, orientar el desarrollo de los debates y suspenderlos por causas justificadas.
 
-b. Dirimir con su voto los empates.
+b) Dirimir con su voto los empates.
 
-c. Representar protocolarmente al Consejo en reuniones, ceremonias, conferencias y actos en general, y
+c) Representar protocolarmente al Consejo en reuniones, ceremonias, conferencias y actos en general, y
 
-d. Desempeñar la vocería del Consejo, en las materias y de acuerdo con los criterios generales que éste acuerde.
+d) Desempeñar la vocería del Consejo, en las materias y de acuerdo con los criterios generales que éste acuerde.
+
+e) Proponer a sus integrantes la planificación anual de tareas y obligaciones del Consejo.
+
+f) Disponer la conformación de mesas o grupos de trabajo al interior del Consejo.
+
+g) Entregar insumos necesarios para el correcto análisis, evaluación, seguimiento de políticas públicas del sector.
+
+h) Solicitar al Consejo la elaboración de minutas en temas específicos de relevancia para el Ministerio.
+
+i) Las demás que resulten necesarias para el cumplimiento de sus funciones.
 
 #### Artículo cuarto
 
@@ -52,9 +104,27 @@ Corresponderá al Presidente o Presidenta del Consejo designar al consejero o co
 
 #### Artículo quinto
 
-El Consejo contará con una Secretaría Ejecutiva, que servirá de instancia de comunicación y coordinación con los organismos públicos y privados relacionados con el tema y será responsable del cumplimiento de la agenda de trabajo del Consejo, así como del registro y sistematización de sus audiencias y deliberaciones.
+El Consejo contará con una Secretaría Ejecutiva compuesta por un/a funcionario/a del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, que será designado por el presidente o presidenta del Consejo y tendrá las siguientes funciones:
 
-Corresponderá al Presidente o Presidenta del Consejo designar al Secretario Ejecutivo.
+a) Coordinar el apoyo de profesionales que se requiera.
+
+b) Coordinar la entrega al Consejo de informes o insumos necesarios a sus labores.
+
+c) Citar a sesiones ordinarias y extraordinarias por orden del Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación.
+
+d) Participar en las sesiones del Consejo y levantar acta de éstas.
+
+e) Poner las actas en conocimiento de los integrantes del Consejo.
+
+f) Publicar las actas aprobadas por el Consejo.
+
+g) Servir de instancia de nexo de comunicación entre el Consejo, la ANID y los distintos órganos de la Administración del Estado pertinentes.
+
+h) Prestar a los integrantes del Consejo cualquier otro apoyo referido a materias propias que éste le encomiende.
+
+i) Ejercer las demás labores que le encomienden los demás cuerpos normativos.
+
+La entrega de medios materiales para el adecuado funcionamiento del Consejo, así como el apoyo de profesionales, dependerá de la disponibilidad presupuestaria del Ministerio de Ciencia.
 
 #### Artículo sexto
 
@@ -62,7 +132,7 @@ El Consejo sesionará, de forma ordinaria y extraordinaria, en las dependencias 
 
 #### Artículo séptimo
 
-El Consejo sesionará con los miembros en ejercicio que asistan. Las decisiones se tomarán de forma preferencial a través del consenso, y cuando ello no sea posible, se realizará una votación, debiendo adoptarse por mayoría absoluta. En caso de empate, dirimirá el Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación.
+El Consejo sesionará con la asistencia de, al menos, cinco de sus miembros. Las decisiones se tomarán de forma preferencial a través del consenso, y cuando ello no sea posible, se realizará una votación, debiendo adoptarse por mayoría absoluta. En caso de empate, dirimirá el Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación.
 
 Los consejeros o consejeras podrán participar en las sesiones físicamente o a través de medios tecnológicos que les permitan intervenir simultánea y permanentemente en ellas como, por ejemplo, el sistema de videoconferencia. En estos casos, su asistencia y participación será certificada por el Presidente y el consejero o consejera podrá suscribir el acta mediante medios electrónicos.
 
@@ -82,7 +152,7 @@ c. Materias analizadas en la correspondiente sesión, a través de una relación
 
 d. Acuerdos adoptados por el Consejo con una descripción breve y somera de las opiniones en que se funde la aceptación, rechazo o abstención, si correspondiere.
 
-El acta será presentada al Consejo en la siguiente sesión a fin de que los miembros asistentes puedan formular las observaciones que estimen pertinentes. El acta deberá ser suscrita por los miembros asistentes a la respectiva sesión.
+El acta será puesta en conocimiento de las personas que integran el Consejo por medios electrónicos dentro del plazo de 5 días hábiles siguientes a la sesión respectiva. Posteriormente, los miembros del Consejo validarán el acta mediante firma electrónica, simple o avanzada, a través del mismo medio dentro de los 7 días siguientes a su envío. Una vez validada, se tendrá por aceptada.
 
 #### Artículo noveno
 
@@ -94,11 +164,9 @@ En las sesiones ordinarias, el Consejo podrá conocer, debatir y resolver sobre 
 
 Las sesiones ordinarias se ordenarán de la siguiente forma:
 
-a. Aprobación del acta de la sesión anterior.
+a. Tabla en la que se tratarán aquellas materias determinadas en la citación respectiva, que requieran de participación o pronunciamiento por parte de los integrantes del Consejo,
 
-b. Tabla en la que se tratarán aquellas materias determinadas en la citación respectiva, que requieran de participación o pronunciamiento por parte de los integrantes del Consejo,
-
-c. Materias no consideradas en la Tabla, que requieran de participación o acuerdo del Consejo.
+b. Materias no consideradas en la Tabla, que requieran de participación o acuerdo del Consejo.
 
 #### Artículo décimo
 
