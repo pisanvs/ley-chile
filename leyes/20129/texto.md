@@ -348,13 +348,17 @@ Un reglamento de la Comisión establecerá la forma, condiciones y requisitos pa
 
 El desarrollo de los procesos de acreditación institucional deberá, en todo caso, considerar las siguientes etapas:
 
-a) Autoevaluación interna. Consiste en un proceso analítico que consulta diferentes fuentes, tanto internas como externas a la institución, que, identificando los mecanismos de autorregulación existentes y las fortalezas y debilidades de la institución con relación a ellos, busca verificar el cumplimiento oportuno y satisfactorio de los objetivos y propósitos definidos en su misión y fines institucionales.
+a) Autoevaluación institucional: proceso participativo mediante el cual la institución de educación superior realiza un examen crítico, analítico y sistemático del cumplimiento de los criterios y estándares definidos por dimensión, teniendo en consideración su misión y su proyecto de desarrollo institucional. Este proceso deberá sustentarse en información válida, confiable y verificable.
 
-b) Evaluación externa. Consiste en un proceso tendiente a certificar que la institución cuenta con las condiciones necesarias para asegurar un avance sistemático hacia el logro de sus propósitos declarados, a partir de la evaluación de las políticas y mecanismos de autorregulación vigentes en ella.
+La institución de educación superior deberá elaborar un informe de autoevaluación, que dé cuenta del proceso y sus resultados, incluyendo una evaluación del cumplimiento de sus propósitos declarados y de los criterios y estándares de calidad, respecto de todos los niveles, modalidades y sedes en que la institución desarrolle funciones académicas e institucionales.
 
-c) Pronunciamiento de la Comisión. Consiste en el juicio emitido por la Comisión en base a la ponderación de los antecedentes recabados, mediante el cual se determina acreditar o no acreditar a la institución, en virtud de la existencia y nivel de desarrollo de sus políticas y mecanismos de aseguramiento de la calidad.
+El informe de autoevaluación deberá contemplar un Plan de Mejora verificable, que deberá vincularse con los procesos de planificación estratégica institucional. Asimismo, deberá identificar las principales áreas en las que la institución ha determinado desarrollar acciones de mejoramiento, y los mecanismos y acciones específicas mediante los cuales la institución solucionará las debilidades detectadas durante la autoevaluación y los plazos en los que se espera alcanzarlos.
 
-En todo caso, en el proceso de acreditación institucional, las instituciones deberán facilitar la participación de las organizaciones estudiantiles y de funcionarios en autoevaluación, garantizándoles, además, el pleno acceso a toda la información que se genere en las etapas de la evaluación externa y en el pronunciamiento de la Comisión.
+b) Evaluación externa: proceso tendiente a evaluar, respecto de cada una de las dimensiones señaladas en el artículo 17 siguiente, el grado de cumplimiento de los criterios y estándares de evaluación, y verificar la validez del informe de autoevaluación desarrollado por la institución, identificando si la institución cuenta -y en qué grado- con las condiciones necesarias para garantizar un proceso de formación de calidad, un avance sistemático hacia el logro de sus propósitos declarados y el cumplimiento de los demás fines de la institución.
+
+c) Pronunciamiento de la Comisión. Consiste en el juicio emitido por la Comisión en base a la ponderación de los antecedentes recabados, mediante el cual se determina acreditar o no acreditar a la institución, en virtud de la existencia y nivel de desarrollo de sus políticas y mecanismos de aseguramiento de la calidad. Previo a esta decisión, la Comisión deberá escuchar al Presidente de la Comisión de Pares Evaluadores y a la institución evaluada.
+
+En todo caso, en el proceso de acreditación institucional, las instituciones deberán facilitar la participación de las organizaciones estudiantiles y de funcionarios en el proceso de autoevaluación, garantizándoles, además, el pleno acceso a toda la información que se genere en las etapas de la evaluación externa y en el pronunciamiento de la Comisión.
 
 El reglamento de la Comisión establecerá la forma, condiciones y requisitos específicos para el desarrollo de los procesos de acreditación institucional.
 
@@ -368,11 +372,15 @@ Las instituciones de educación superior en proceso de licenciamiento deberán p
 
 #### Artículo 17
 
-La acreditación institucional se realizará en funciones específicas de la actividad de las instituciones de educación superior. Las entidades que se presenten al proceso deberán acreditarse siempre en los ámbitos de docencia de pregrado y gestión institucional.
+La acreditación institucional se realizará evaluando dimensiones específicas de la actividad de las instituciones de educación superior, sobre la base de criterios y estándares de calidad previamente definidos para dichas dimensiones, y teniendo en consideración la misión y el respectivo proyecto institucional.
 
-Adicionalmente, las instituciones podrán optar por la acreditación de otras áreas, tales como la investigación, la docencia de postgrado, y la vinculación con el medio.
+La Comisión deberá elaborar criterios y estándares de calidad que sean específicos para instituciones de los subsistemas universitario y técnico profesional de nivel superior.
 
-Un reglamento de la Comisión de Acreditación determinará el contenido de cada una de las áreas y los elementos que serán objeto de evaluación en cada una de ellas.
+Las instituciones de educación superior deberán acreditarse en las dimensiones de docencia y resultados del proceso de formación; gestión estratégica y recursos institucionales; aseguramiento interno de la calidad y vinculación con el medio.
+
+Adicionalmente, las instituciones de educación superior podrán acreditar la dimensión de investigación, creación y/o innovación.
+
+Un reglamento de la Comisión determinará el contenido de cada una de las dimensiones de evaluación
 
 #### Artículo 17 bis
 
@@ -618,27 +626,39 @@ b) El conjunto de recursos y procesos mínimos que permiten asegurar el cumplimi
 
 Si en el ejercicio de sus funciones, la Comisión toma conocimiento de que en determinadas carreras y programas de pregrado se han producido situaciones que pueden ser constitutivas de alguna de las causales señaladas en los artículos 64, 74 u 81 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, deberán poner los antecedentes respectivos en conocimiento del Ministerio de Educación, a fin de que dicho organismo proceda de acuerdo con lo dispuesto en dichas normas.
 
+### Párrafo 2°
+
+De la acreditación voluntaria de carreras y programas de pregrado
+
 #### Artículo 30
 
-Las instituciones de educación superior podrán apelar a la Comisión de las decisiones de acreditación que adopten las agencias autorizadas. Esta apelación deberá presentarse dentro del plazo de 30 días contados desde la fecha de comunicación de la decisión de acreditación recurrida. La Comisión se pronunciará, por resolución fundada, dentro de un plazo de 30 días contados desde la fecha de presentación del recurso.
+Para el mejoramiento continuo de la calidad de las instituciones de educación superior, existirá un proceso de acreditación voluntaria de las carreras y programas de pregrado al que podrán acceder las instituciones que cuenten, al menos, con acreditación institucional de nivel avanzado y cuyas carreras de acreditación obligatoria se encuentren acreditadas.
 
-#### Artículo 31
+Para estos efectos, la Comisión Nacional de Acreditación, en función de aquellas prioridades que se deberán definir en el Plan de Coordinación para el Mejoramiento de la Calidad de la Educación Superior establecido en la letra d) del artículo 4, establecerá periódicamente aquellas áreas o carreras respecto de las cuales las instituciones de educación superior podrán solicitar esta acreditación voluntaria.
+
+En estos procesos, la evaluación externa podrá ser efectuada por los pares evaluadores referidos en el artículo 19 precedente.
+
+También podrán ser efectuadas por entidades evaluadoras de reconocido prestigio, registradas ante la Comisión y autorizadas y supervisadas por esta. Dichas entidades podrán ser de origen nacional o extranjero y deberán estar constituidas como personas jurídicas sin fines de lucro.
+
+La Comisión asignará, según un procedimiento transparente y públicamente conocido, a los pares o entidades evaluadoras que realizarán la respectiva evaluación externa resguardando especialmente que no existan conflictos de intereses.
+
+Con todo, la decisión de acreditación de estas carreras será siempre adoptada por la Comisión, la cual deberá basarse en criterios y estándares específicos, que deberá dictar de conformidad a lo establecido en el artículo 18. Los aranceles que cobrará la Comisión por el desarrollo de estos procesos se regirán por el artículo 14.
+
+La decisión de acreditación adoptada por la Comisión Nacional de Acreditación será apelable ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
+
+Un reglamento de la Comisión Nacional de Acreditación, previa consulta al Comité de Coordinación señalado en el artículo 3°, regulará lo establecido en el presente artículo, especialmente lo referido a la autorización y supervisión de las entidades evaluadoras y los mecanismos de resolución de conflictos de intereses.
+
+#### Artículo 31°
 
 Derogado.
 
-#### Artículo 32
+#### Artículo 32°
 
 Derogado.
 
-#### Artículo 33
+#### Artículo 33°
 
 Derogado.
-
-### Párrafo 2º
-
-De la autorización y supervisión de las agencias de
-
-acreditación. Derogado
 
 #### Artículo 34°
 
@@ -659,10 +679,6 @@ Derogado.
 #### Artículo 38°
 
 Derogado.
-
-### Párrafo 3º
-
-De las obligaciones y sanciones. Derogado
 
 #### Artículo 39°
 
@@ -875,6 +891,20 @@ Mientras la Comisión Nacional de Acreditación no defina las pautas y procedimi
 Mientras la Comisión Nacional de Acreditación no defina las pautas de evaluación de programas de postgrado a que se refiere el artículo 44, ellos corresponderán a aquellos definidos por la Comisión de Evaluación de Calidad de Programas de Postgrado.
 
 Las respectivas Comisiones de Evaluación de Calidad de Pregrado y de Postgrado deberán completar los procesos de acreditación correspondientes a las carreras, programas o instituciones que a la fecha de la publicación de la presente ley les hubieran hecho entrega de sus respectivos informes de autoevaluación o de evaluación interna. Estos procesos deberán completarse en un plazo máximo de ocho meses, contados desde la fecha de publicación de la ley.
+
+#### Artículo 4 bis
+
+La condición establecida en el ordinal i. del literal b) del inciso primero del artículo 27 bis entrará en vigencia a partir del proceso de admisión universitaria del año 2030.
+
+Durante los procesos de admisión universitaria de los años 2026, 2027, 2028 y 2029, en lugar de lo establecido en el referido ordinal, se aplicará lo siguiente:
+
+1. Para el proceso de admisión universitaria correspondiente al año 2026: haber rendido la prueba de acceso a la educación superior, o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 33 o superior. Se considerará el promedio de las pruebas de acceso a la educación superior obligatorias rendidas en el proceso de admisión universitaria correspondiente al año 2025.
+
+2. Para el proceso de admisión universitaria correspondiente al año 2027: haber rendido la prueba de acceso a la educación superior, o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 37 o superior. Se considerará el promedio de las pruebas de acceso a la educación superior obligatorias rendidas en el proceso de admisión universitaria correspondiente al año 2026.
+
+3. Para el proceso de admisión universitaria correspondiente al año 2028: haber rendido la prueba de acceso a la educación superior, o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 42 o superior. Se considerará el promedio de las pruebas de acceso a la educación superior obligatorias rendidas en el proceso de admisión universitaria correspondiente al año 2027.
+
+4. Para el proceso de admisión universitaria correspondiente al año 2029: haber rendido la prueba de acceso a la educación superior, o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 47 o superior. Se considerará el promedio de las pruebas de acceso a la educación superior obligatorias rendidas en el proceso de admisión universitaria correspondiente al año 2028.
 
 #### Artículo 5º
 
