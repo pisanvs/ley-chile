@@ -46,11 +46,15 @@ Los materiales de acondicionamiento destinados a amortiguar o conservar la humed
 
 9. Los híbridos interespecíficos entre especies señaladas en la presente resolución, deberán cumplir con todas las declaraciones adicionales establecidas para cada una de las especies que conforman el híbrido.
 
+10. El ingreso del material vegetal al país y trámite de importación solo podrá realizarse en la Oficina SAG de Comercio Exterior situada en el Aeropuerto Internacional Arturo Merino Benítez, de la ciudad de Santiago, Región Metropolitana.
+
 > **Nota.** El 1.4 del numeral 1° de la Resolución 6753, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar continuación del último párrafo de las declaraciones adicionales, una nueva viñeta: "- Las plantas, proceden de un Estado Miembro (indicar país) que ha llevado a cabo inspecciones anuales para la detección de Xylella fastidiosa y se encuentra libre de esta plaga mediante análisis (especificar método de diagnóstico) a plantas madres en el momento óptimo de detección de la plaga" en las siguientes especies: . HIGUERA (Ficus carita) . CEREZO MONGOL (Prunus fruticosa) . CEREZO JAPONÉS (Prunus serrulata) . ENDRINO (Prunus spinosa)
 
 > **Nota.** NOTA 1 El numeral N° 6 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios para la importación de plantas, estacas y ramillas de Avellano europeo (Corylus avellana), Caqui (Diospyros kaki), Higuera (Ficus carica), Cerezo mongol (Prunus fruticosa), Cerezo japonés (Prunus serrulata) y Endrino (Prunus spinosa), procedentes de los Estados miembros de la Comunidad Europea, para la especie Avellano Europeo (Corylus avellana), la segunda viñeta por la siguiente frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas (especificar método de diagnóstico para cada caso) en el momento óptimo para la detección de las plagas y encontradas libres de 'Candidatus Phytoplasma mali' (=Apple proliferation phytoplasma), 'Candidatus Phytoplasma prunorum' (=Apricot chlorotic leafroll phytoplasma) y Pseudomonas syringae pv. avellanae".
 
 > **Nota.** NOTA 2 El literal b) del N° 4 de la Resolución 4271 Exenta, Agricultura, publicada el 17.07.2023, elimina del numeral 2.2 de la presente norma, del cuadro de requisitos específicos, las especies Cerezo Mongol (Prunus fruticosa), Cerezo japonés (Prunus serrulata) y Endrino (Prunus spinosa), y todos sus incisos.
+
+> **Nota.** NOTA 3 El numeral 1.1 del N° 1 de la Resolución 10824 Exenta, Agricultura, publicada el 31.12.2025, elimina del cuadro del numeral 2.2 de la presente norma, de las declaraciones adicionales para avellano europeo (Corylus avellana), la plaga Otiorhynchus ovatus.
 
 Disposición transitoria:
 
