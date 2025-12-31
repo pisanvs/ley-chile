@@ -178,7 +178,7 @@ Lo señalado en los dos incisos precedentes será aplicable tanto a las vivienda
 
 #### Artículo cuarto
 
-Apruébase, hasta el 31 de diciembre de 2025, la siguiente Ley sobre Gestión de Suelo para la Integración Social y Urbana y Plan de Emergencia Habitacional:
+Apruébase, hasta el 31 de diciembre de 2029, la siguiente Ley sobre Gestión de Suelo para la Integración Social y Urbana y Plan de Emergencia Habitacional:
 
 ## Capítulo I
 
@@ -196,7 +196,7 @@ a) El porcentaje máximo de recursos que el Ministerio podrá destinar a tales e
 
 b) Los terrenos que podrán ser objeto de este tipo de financiamiento deberán estar ubicados en comunas o intercomunas en las que, conforme a los datos que otorgue el Sistema de Información Territorial de la Demanda que administra el Ministerio de Vivienda y Urbanismo, exista una demanda significativa de viviendas para familias ubicadas en el tramo del 40% más vulnerable de la población o en comunas o intercomunas con un alto déficit habitacional de acuerdo a los datos del último Censo de Población y Vivienda disponible. Asimismo, los terrenos podrán estar emplazados en sectores en los que se han realizado o se realizarán inversiones públicas en materia de movilidad, transporte público, áreas verdes o equipamientos de interés público.
 
-c) Mediante decreto supremo del Ministerio de Vivienda y Urbanismo, suscrito también por el Ministro de Hacienda, se establecerán los criterios de adquisición de los respectivos terrenos y se definirán los aspectos operativos del presente artículo, comenzando por la necesidad de contar con diversas tasaciones respecto de cada terreno.
+c) Mediante decreto supremo del Ministerio de Vivienda y Urbanismo, suscrito también por el Ministro de Hacienda, se establecerán los criterios de adquisición de los respectivos terrenos y se definirán los aspectos operativos del presente artículo, comenzando por la necesidad de contar con diversas tasaciones respecto de cada terreno. Dicho instrumento tendrá vigencia durante todo el período de vigor de la presente ley.
 
 d) En cuanto a los criterios de adquisición, el reglamento señalado en el literal anterior deberá establecer requisitos mínimos de localización de los terrenos, de cantidad y tipo de tasaciones, de rangos de precios y/o de factibilidad técnica y normativa, y podrá contemplar reglas especiales según la cabida de los terrenos y/o la escala de la ciudad en que éstos se emplacen. También podrá establecer distintos puntajes de valoración de los terrenos y regular la posibilidad de admitir excepciones al cumplimiento de los requisitos mínimos, siempre que ello no condicione ni dificulte el adecuado desarrollo del futuro proyecto habitacional.
 
@@ -314,7 +314,7 @@ Se mantendrá un registro nacional, regional y comunal, debidamente actualizado,
 
 #### Artículo 13
 
-La implementación del Plan de Emergencia Habitacional deberá ser coordinada con los órganos de la Administración del Estado que intervienen en el desarrollo de proyectos habitacionales y urbanos, incluidos los municipios y gobiernos regionales, y procurará agilizar los plazos de tramitación, y la mejora en la efectividad y pertinencia de sus acciones.
+La implementación del Plan de Emergencia Habitacional deberá ser coordinada con los órganos de la Administración del Estado que intervienen en el desarrollo de proyectos habitacionales y urbanos, incluidos los municipios y gobiernos regionales, y procurará agilizar los plazos de tramitación, y la mejora en la efectividad y pertinencia de sus acciones. La coordinación podrá ser efectuada por la Comisión Interministerial de Ciudad, Vivienda y Territorio a que se refiere el párrafo quinto de la letra a) del artículo 17 del decreto con fuerza de ley N° 1-19.175, de 2005, que fija el texto refundido, coordinado, sistematizado y actualizado de la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.
 
 La Comisión Interministerial de Ciudad, Vivienda y Territorio, presidida por el Ministro de Vivienda y Urbanismo, deberá coordinar las acciones de los distintos órganos públicos, con el objeto de priorizar y concretar el Plan de Emergencia Habitacional, fortalecer la acción conjunta, optimizar los procesos y establecer plazos máximos para cumplir con las diversas responsabilidades, especialmente en lo que respecta al cumplimiento de exigencias y otorgamiento de permisos en materia ambiental, sanitaria, de urbanismo y construcciones, de obras públicas o de movilidad urbana, entre otras. No obstante lo anterior, cuando se presenten solicitudes ante las Secretarías Regionales Ministeriales de Salud respecto de proyectos que formen parte de dicho Plan, los plazos definidos en sus normativas sectoriales se reducirán a la mitad, salvo en los casos en que la Subsecretaría de Salud Pública disponga lo contrario mediante resolución fundada. Para acreditar que el proyecto forma parte del Plan bastará un certificado emitido por el Servicio Regional de Vivienda y Urbanización respectivo.
 
