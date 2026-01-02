@@ -348,13 +348,17 @@ Corresponderá, sin perjuicio de lo previsto en los artículos 11 y 12 de este R
 
 Sin perjuicio de lo establecido en el artículo anterior, las Universidades reconocidas por el Estado, estarán legalmente autorizadas para certificar las especialidades que este Reglamento establece, o de renovar tales certificaciones respecto de los alumnos que hayan cumplido y aprobado los programas de formación y entrenamiento ofrecidos por ellas, si los programas correspondientes se encuentran acreditados en conformidad con la normativa vigente.
 
+El plazo de vigencia de las certificaciones de especialidad, o su renovación, será de siete años, contado desde la inscripción del respectivo certificado o título en el Registro Nacional de Prestadores Individuales de Salud, de la Superintendencia de Salud.
+
 #### Artículo 6°
 
 Corresponderá a las entidades autorizadas para emitir las certificaciones informar a los interesados sobre los requisitos mínimos de conocimiento y experiencias relevantes que se exigirán para certificar cada una de las especialidades, los antecedentes respecto del cuerpo de evaluadores que utilizarán, así como los antecedentes que deberán mantener respecto del proceso de certificación de cada postulante.
 
 La entidad certificadora deberá mantener permanentemente a disposición de los interesados los antecedentes referidos en el inciso anterior, en el domicilio de la entidad y por medios informáticos de acceso público.
 
-Las entidades certificadoras fijarán y darán a conocer el período de vigencia de las certificaciones que otorguen, cuya duración no podrá ser inferior a cinco ni superior a diez años, plazo que establecerán de acuerdo a razones técnicas fundadas respecto de cada especialidad. Las certificaciones podrán ser renovadas en conformidad a las normas y criterios que se establezcan por decreto supremo del Ministerio de Salud. En dicho decreto el Ministerio podrá establecer la gradualidad y plazos que sean necesarios para que las certificaciones de tales especialidades, en conformidad a las normas permanentes o transitorias, sean debidamente renovadas, entendiéndose prorrogadas la vigencia de tales certificaciones mientras duren tales plazos.
+El período de vigencia de las certificaciones que otorguen las entidades certificadoras, y que deberán dar a conocer a los interesados, será de siete años contado desde la inscripción del respectivo certificado o título en el Registro Nacional de Prestadores Individuales de Salud, de la Superintendencia de Salud.
+
+Las certificaciones podrán ser renovadas en conformidad a las normas y criterios que se establezcan por decreto supremo del Ministerio de Salud. En dicho decreto el Ministerio podrá establecer la gradualidad y plazos que sean necesarios para que las certificaciones de tales especialidades, en conformidad a las normas permanentes o transitorias, sean debidamente renovadas, entendiéndose prorrogadas la vigencia de tales certificaciones mientras duren tales plazos.
 
 #### Artículo 7°
 
@@ -470,25 +474,49 @@ Derogado.
 
 #### Artículo tercero
 
-Las certificaciones de especialidades y subespecialidades otorgadas en virtud de las disposiciones permanentes y transitorias de este reglamento y del decreto supremo Nº 57, de 2007, de los Ministerios de Salud y Educación, mantendrán su vigencia hasta el día 31 de diciembre de 2025 y, en todo caso, conservarán su validez y vigencia por los plazos que originalmente se le hubieren otorgado, si excedieren dicha fecha. Las certificaciones antedichas deberán ser renovadas según las normas y criterios que se dispongan en el decreto del Ministerio de Salud a que se refiere el inciso final del artículo 6º de este reglamento.
+Las certificaciones de especialidades y subespecialidades otorgadas en virtud de las disposiciones permanentes y transitorias del presente reglamento y del decreto supremo Nº 57, de 2007, de los Ministerios de Salud y Educación, mantendrán su vigencia hasta el último día del sexto mes siguiente a la publicación en el Diario Oficial del decreto del Ministerio de Salud a que se refiere el inciso final del artículo 6º y, en todo caso, conservarán su validez y vigencia por los plazos que originalmente se le hubieren otorgado, si excedieren dicha fecha.
+
+Las certificaciones antedichas deberán ser renovadas según las normas y criterios que se dispongan en el decreto del Ministerio de Salud referido en el inciso final del artículo 6º del presente reglamento.
 
 #### Artículo cuarto
 
 Entre el 1 de enero de 2015 y el 31 de diciembre de 2025, quienes posean un título o grado académico de magíster o doctorado universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
 
-Para que los profesionales indicados se acojan a lo establecido en el inciso anterior, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades, presentando el original o copia autorizada del título o grado académico obtenido, o autorizándole a solicitar dicha información a la Universidad que corresponda. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este.
+A partir del 01 de enero de 2026 y hasta el 31 de diciembre de 2030, quienes posean un título otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de siete años.
+
+Para que los profesionales indicados se acojan a lo establecido en los incisos anteriores, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades, presentando el original o copia autorizada del título o grado académico obtenido, o autorizándole a solicitar dicha información a la Universidad que corresponda. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este.
 
 #### Artículo quinto
 
 Se reconocerán como certificadas por el plazo de siete años las especialidades y subespecialidades que se incorporen al reglamento, respecto de aquellos profesionales que a la fecha de publicación del decreto supremo que las incorporare, posean un certificado de reconocimiento sobre las mismas, extendido por las Universidades reconocidas por el Estado, y por las corporaciones de derecho privado denominadas Corporación Nacional Autónoma de Certificación de Especialidades Médicas (Conacem), Corporación Nacional Autónoma de Certificación de Especialidades Odontológicas (Conaceo) y de la Corporación Nacional Autónoma de Certificación de Especialidades Farmacéuticas (Conacef).
 
-La vigencia de la certificación se contará a partir de la fecha de emisión del certificado respectivo, y deberá renovarse según las normas y criterios que se dispongan, de acuerdo a lo establecido en el inciso final del artículo 6º de este reglamento.
+La vigencia de la certificación se contará a partir de la fecha de la inscripción del respectivo certificado de reconocimiento, y deberá renovarse según las normas y criterios que se dispongan, de acuerdo a lo establecido en el inciso final del artículo 6º de este reglamento.
 
 Para acceder a este reconocimiento, los profesionales deberán solicitar a la Superintendencia de Salud su incorporación en el Registro de Especialidades, presentando el original o copia autorizada del certificado o título que corresponda. La Superintendencia dejará constancia en el mencionado registro del origen de este.
 
 #### Artículo sexto
 
 Las certificaciones de especialidades y subespecialidades otorgadas respecto de aquellas que se suprimen mantendrán su validez y vigencia hasta los dos años siguientes contados desde la fecha de publicación del reglamento que las suprime, o bien, por los plazos que originalmente se le hubieren otorgado, si estos fueran mayores. Asimismo, las solicitudes de inscripción que se encontraren pendientes en la Superintendencia de Salud, respecto de las especialidades y subespecialidades que se suprimen, continuarán su tramitación y serán incorporadas al registro de acuerdo a las normas generales, y mantendrán su vigencia en la forma señalada en este artículo. En cualquier caso, tales certificaciones no podrán ser renovadas.
+
+#### Artículo séptimo
+
+El Ministerio de Salud podrá habilitar transitoriamente a las Universidades del Estado o reconocidas oficialmente por este, que imparten profesiones de la salud, para renovar las certificaciones relativas a las especialidades de tales profesiones, cuando estime que la capacidad de las entidades certificadoras autorizadas no es suficiente para renovar oportunamente el total de las certificaciones de las especialidades de los prestadores individuales de salud del país.
+
+Para los efectos indicados en el inciso anterior, las Universidades deberán cumplir los siguientes requisitos:
+
+a) Solicitar al Ministerio de Salud que se les habilite transitoriamente para renovar las certificaciones de especialidad;
+
+b) Contar con acreditación institucional vigente en los términos de la ley N° 20.129, que establece un Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
+
+c) Impartir programas de título de especialista para alguna o todas las especialidades señaladas en el decreto supremo N° 8, de 2013, de los Ministerios de Salud y de Educación, que establece el reglamento de certificación de las especialidades de los prestadores individuales de salud, y de las entidades que las otorgan; y
+
+d) Contar con los programas de título de especialista señalados en el numeral anterior, aprobados por Resolución o Decreto Universitario, identificando su comité académico o equivalente.
+
+Una vez comprobados tales requisitos, el Ministerio de Salud, mediante resolución exenta, indicará la Universidad que, a través de dicho acto administrativo, habilita para renovar las certificaciones, las especialidades que se le autoriza renovar, así como el plazo por el cual se otorga dicha habilitación.
+
+#### Artículo octavo
+
+Las certificaciones otorgadas por aplicación del artículo 5° del presente reglamento, y que no registran fecha de expiración en el Registro de Prestadores Individuales de Salud de la Superintendencia de Salud, deberán renovarse cuando entren en vigencia las normas permanentes del decreto del Ministerio de Salud a que se refiere el inciso final del artículo 6° de este reglamento.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.- Harald Beyer Burgos, Ministro de Educación.
 
