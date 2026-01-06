@@ -422,7 +422,7 @@ f) Constatar el registro de las situaciones anormales de funcionamiento presenta
 
 Además de los puntos mencionados anteriormente, es importante la verificación de otros aspectos durante la inspección. Al efecto:
 
-a) Se recomienda registrar la ubicación de las fuentes a través de las coordenadas UTM.
+a) Se recomienda registrar la ubicación de las fuentes a través de las coordenadas UTM, en Sistema de Referencia de Coordenadas WGS-84, indicando coordenadas Este, Norte y Huso, acorde a lo indicado en la "INSTRUCCIÓN GENERAL PARA EL REPORTE DE INFORMACIÓN GEOESPACIAL".
 
 b) Realizar registro fotográfico de los aspectos relevantes levantados durante la fiscalización (fuente, sala de control, etc.).
 

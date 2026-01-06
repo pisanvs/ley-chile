@@ -90,7 +90,7 @@ Ubicación de los puntos o sitios de muestreo, medición, análisis y/o control.
 
 a) División político administrativa: Región, provincia y comuna;
 
-b) Georreferenciación completa del punto o sitio de muestreo, medición, análisis y/o control, a través del sistema de coordenadas UTM, Datum WGS84, indicando a la vez el huso correspondiente;
+b) Georreferenciación completa del punto o sitio de muestreo, medición, análisis y/o control, a través de Coordenadas UTM, en Sistema de Referencia de Coordenadas WGS-84, indicando coordenadas Este, Norte y Huso, o en coordenadas en Sistema de Referencia Geodésico WGS-84, en grados, con al menos cinco decimales, ambos acorde a lo indicado en la "INSTRUCCIÓN GENERAL PARA EL REPORTE DE INFORMACIÓN GEOESPACIAL";
 
 c) Si la ubicación del punto de muestreo, medición, análisis y/o control es fija o variable en el tiempo, y los supuestos que motivan dichas variaciones, si es que así fuese.
 
