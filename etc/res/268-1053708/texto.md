@@ -708,67 +708,9 @@ materia de garantías en la presente
 
 resolución.
 
-2) Autorizar, suscribir y aprobar todos los actos
+2) Derogado.
 
-administrativos y contratos para el suministro de
-
-bienes muebles y provisión de servicios
-
-necesarios para el desarrollo de las funciones
-
-del Servicio, respecto de contrataciones
-
-reguladas por la ley Nº 19.886 y su reglamento,
-
-cuyas cuantías sean superiores a 10 UTM, y no
-
-exceda de 200 UTM, realizados por el nivel
-
-central del Servicio, incluida la facultad de
-
-modificar y rectificar dichos actos o contratos,
-
-poner término a estos últimos y de autorizar el
-
-pago a proveedores, cuando corresponda, en el
-
-evento de no darse estricto cumplimiento a dicha
-
-normativa, sin perjuicio de los procesos
-
-disciplinarios que ordene instruir la jefatura
-
-superior del Servicio por eventuales
-
-responsabilidades administrativas a que ello
-
-diere lugar.
-
-Se excluye de la presente delegación el trato o
-
-contratación directa contemplada en el literal c)
-
-del artículo 8º de la ley Nº 19.886 y el número 3
-
-del artículo 10 del reglamento de dicho cuerpo
-
-legal.
-
-3) No obstante la cuantía señalada en el numeral que
-
-antecede, estará facultada para autorizar,
-
-suscribir y aprobar todos los actos
-
-administrativos y contratos que se financien con
-
-gastos de representación en conformidad al número
-
-7, literal b), del artículo 10 del reglamento de
-
-la ley 19.886, cuyas cuantías fluctúen entre 0 y
-
-200 UTM; y
+3) Derogado.
 
 4) Fijar lugar de aparcamiento de vehículos
 
@@ -1022,11 +964,7 @@ D) EN LA JEFATURA DEL DEPARTAMENTO PLANIFICACIÓN Y PRESUPUESTO
 
 Los ajustes presupuestarios que no excedan el marco autorizado por el Subdirector Nacional, a solicitud de las jefaturas de departamentos y de los/las directores/as regionales, según corresponda, de acuerdo al procedimiento de asignación presupuestaria establecido internamente en el Servicio.
 
-E) EN LA JEFATURA DE LA SECCIÓN DE COMPRAS Y LICITACIONES DEL DEPARTAMENTO DE ADMINISTRACIÓN GENERAL
-
-Autorizar, suscribir y aprobar todos los actos administrativos y contratos para el suministro de bienes muebles y provisión de servicios necesarios para el desarrollo de las funciones del Servicio respecto de contrataciones cuyas cuantías no excedan de 10 UTM, realizados por el nivel central del Servicio, incluida la facultad de modificar y rectificar dichos actos o contratos, sométanse o no al Sistema de Información previsto en la ley Nº 19.886, incluida la facultad de poner término a los contratos que se suscriban en virtud de esta delegación y autorizar el pago a proveedores, cuando corresponda, en el evento de no darse estricto cumplimiento a dicha normativa, sin perjuicio de los procesos disciplinarios que ordene instruir la jefatura superior del Servicio por eventuales responsabilidades administrativas a que ello diere lugar.
-
-Se excluyen de la presente delegación los tratos o contrataciones directas contemplados en el literal c) del artículo 8º de la ley Nº 19.886 y en los numerales 3 y 7, literal b), ambos numerales del artículo 10 del reglamento de dicho cuerpo legal.
+E) Derogado.
 
 F) EN LOS DIRECTORES REGIONALES
 
