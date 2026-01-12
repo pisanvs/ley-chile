@@ -28,28 +28,32 @@ Resuelvo:
 
 2. Los titulares de predios que tengan animales, así como todos aquellos que se incorporen a los programas pecuarios señalados en la presente resolución, deberán inscribir su establecimiento pecuario en el Servicio de acuerdo a lo establecido en el Programa Oficial de Trazabilidad Animal.
 
-3. Los titulares deben mantener actualizada la información ante el Servicio o a través del Sistema de Información Pecuaria Oficial (Sipec web), conocer y cumplir los requisitos de los siguientes programas pecuarios del SAG:
+3. Los titulares deben mantener actualizada la información ante el Servicio o a través del Sistema de Información Pecuaria Oficial (SIPEC Web), conocer y cumplir los requisitos de los siguientes programas pecuarios del SAG:
 
-. Alimentación animal.
+3.1.- Alimentación animal.
 
-. Bienestar animal.
+3.2.- Bienestar animal.
 
-. Control de comercialización y uso de anabólicos con fines de promoción del crecimiento en bovinos.
+3.3.- Control de comercialización y uso de anabólicos con fines de promoción del crecimiento en bovinos.
 
-. Control oficial de enfermedades.
+3.4.- Control oficial de enfermedades.
 
-. Control de residuos.
+3.5.- Control de residuos.
 
-. Notificación de sospecha de enfermedades.
+3.6.- Notificación de sospecha de enfermedades.
 
-. Tenencia y uso de medicamentos veterinarios.
+3.7.- Tenencia y uso de medicamentos veterinarios.
 
-. Trazabilidad animal.
+3.8.- Trazabilidad animal.
+
+3.9.- Sistema Oficial de Bioseguridad en establecimientos pecuarios.
 
 4. La información de los programas señalados debe estar disponible en los establecimientos pecuarios, plantas faenadoras, centros de faenamiento y autoconsumo, establecimientos lácteos y procesadoras, para respaldar la información de la cadena alimentaria y las actividades de verificación y control del Servicio.
 
 5. El Servicio podrá, en el marco del Sinap aprobado por la presente resolución, establecer condiciones y requisitos equivalentes a los que se cumplan en el territorio nacional para la importación de animales, productos y subproductos de origen pecuario.
 
 6. El Sinap integrará la información de los programas mencionados en el numeral 3, a través de una plataforma informática oficial y verificará su cumplimiento mediante documentos definidos por el Servicio.
+
+7. Las infracciones a las normas de la presente resolución serán sancionadas de acuerdo al procedimiento establecido en la Ley Nº 18.755.
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
