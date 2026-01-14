@@ -888,9 +888,9 @@ Los vehículos motorizados deberán contar con su placa patente única grabada, 
 
 En casos de excepción debidamente calificados, y tratándose de cargas indivisibles la Dirección de Vialidad podrá autorizar la circulación de vehículos que excedan las dimensiones o pesos establecidos como máximos, con las precauciones que en cada caso se disponga.
 
-Esta autorización deberá ser comunicada, oportunamente, a Carabineros de Chile con el objeto de que adopte las medidas de seguridad necesarias para el desplazamiento de dichos vehículos.
+Esta autorización deberá ser comunicada, oportunamente, a Carabineros de Chile con el objeto de que adopte las medidas de seguridad necesarias para el desplazamiento de dichos vehículos para lo cual autorizará, según el nivel de riesgo, la contratación de servicios de seguridad privada que permitan la custodia y transporte de carga sobredimensionada.
 
-Dichas autorizaciones estarán sujetas a un cobro de los derechos que se establezcan por decreto supremo del Ministerio de Obras Públicas, a beneficio de la Dirección de Vialidad.
+La autorización establecida en el inciso primero estará sujeta a un cobro de los derechos que se establezcan por decreto supremo del Ministerio de Obras Públicas, a beneficio de la Dirección de Vialidad.
 
 §2. DE LA CARGA
 
@@ -1201,6 +1201,16 @@ Dicho documento o el de homologación, en su caso, y el de gases, deberán porta
 #### Artículo 90
 
 El Ministerio de Transportes y Telecomunicaciones podrá licitar la función de homologación de vehículos, entre empresas que persigan fines de lucro conforme a las bases de licitación, y por el tiempo que determine, pudiendo incluir el uso y goce o la mera tenencia de bienes que le hayan sido destinados para cumplir dicha función.
+
+#### Artículo 90 bis
+
+El Ministerio de Transportes y Telecomunicaciones podrá autorizar establecimientos o talleres que realicen transformación, adaptación o conversión de tipos de propulsión de vehículos motorizados en uso de combustión interna a eléctricos; así como otras adaptaciones y transformaciones a dichos vehículos que incidan sobre la seguridad vial, la seguridad de las personas que intervienen en dichos procedimientos y la de los ocupantes de los vehículos. Las transformaciones o adaptaciones indicadas deberán realizarse conforme lo determinen el o los reglamentos que el Ministerio de Transportes y Telecomunicaciones dicte al efecto, los que deberán contener, a lo menos, los alcances y procedimientos técnicos a seguir según los modelos de vehículo. Los valores que el Ministerio de Transportes y Telecomunicaciones podrá cobrar se definirán en el reglamento respectivo.
+
+En caso de aquellos establecimientos o talleres que, contando con estas autorizaciones, realicen transformaciones, adaptaciones o conversiones en vehículos cuyos modelos de vehículos no hayan sido autorizados por el Ministerio de Transportes y Telecomunicaciones; o no se ciñan al procedimiento y requisitos establecidos en el reglamento respectivo, serán sancionados con la revocación de la referida autorización.
+
+En el caso de los talleres o establecimientos que sin contar con las debidas autorizaciones realicen transformaciones, adaptaciones o conversiones de las que se encuentran reguladas por el Ministerio de Transportes y Telecomunicaciones, se les aplicará la multa establecida en el inciso segundo del artículo 180.
+
+Si se sorprende un vehículo motorizado en uso transformado, convertido o adaptado sin contar con el certificado respectivo, según lo establecido en el reglamento, Carabineros de Chile, Inspectores Fiscales o Municipales podrán retirar el vehículo de circulación para ser puesto a disposición del tribunal competente. A su vez, quien sea sorprendido conduciendo un vehículo que no cuente con los certificados correspondientes a los que hace alusión el presente inciso, será sancionado con una multa de una coma cinco a tres unidades tributarias mensuales.
 
 #### Artículo 91
 
