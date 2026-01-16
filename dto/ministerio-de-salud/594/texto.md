@@ -1126,6 +1126,20 @@ t1 + t2 + ........+ tn
 
 siendo M1, M2....y Mn el costo energético para las diversas actividades y períodos de descanso del trabajador durante los períodos de tiempo t1, t2....y tn (en horas).
 
+#### Artículo 98 bis
+
+Los empleadores y empleadoras deberán tomar las medidas necesarias para proteger la salud de las personas trabajadoras frente a condiciones climáticas que puedan ocasionar las altas temperaturas y altas temperaturas extremas, de acuerdo con lo informado por la Dirección Meteorológica de Chile y las alertas declaradas por el Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred). Lo anterior, sin perjuicio de las evaluaciones ambientales permanentes por exposición a estrés térmico que deben realizarse en los lugares de trabajo.
+
+Para estos efectos, las entidades empleadoras deberán realizar, al menos, las siguientes acciones:
+
+a) Informarse diariamente sobre las alertas meteorológicas establecidas por la Dirección Meteorológica de Chile y realizar el seguimiento ante la eventual declaración de alertas por calor establecidas por el Servicio Nacional de Prevención y Respuesta ante Desastres.
+
+b) Identificar y evaluar la exposición a altas temperaturas y altas temperaturas extremas en los distintos puestos de trabajo. Para lo anterior, los organismos administradores previstos en la ley Nº 16.744 y administración delegada deberán otorgar las herramientas necesarias para que la entidad empleadora pueda identificar el peligro.
+
+c) Elaborar, en conjunto con su organismo administrador previstos en la ley Nº 16.744, y con participación de las personas trabajadoras, un plan de gestión, reducción y respuestas en el caso de emergencias, desastres y catástrofes que considere medidas preventivas, de mitigación y respuesta, con el objetivo de gestionar anticipadamente la exposición a altas temperaturas o altas temperaturas extremas. Ello, sin perjuicio de las medidas prioritarias, urgentes y de cumplimiento inmediato para el cuidado de las personas trabajadoras que establezca la autoridad competente.
+
+d) Conocer y observar las demás condiciones dispuestas por el Ministerio de Salud a través de la correspondiente norma técnica.
+
 ### 5. DE LA EXPOSICION OCUPACIONAL AL FRIO
 
 #### Artículo 99
