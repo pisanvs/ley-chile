@@ -28,7 +28,9 @@ En la placa patente única, las letras de las combinaciones se presentarán en g
 
 #### Artículo 2º bis
 
-"Las combinaciones de dos letras y tres dígitos a que se refiere el inciso primero del artículo 2º anterior, serán sustituidas por combinaciones de tres letras y dos dígitos, dispuestos de izquierda a derecha, en el mismo orden, una vez que el Servicio de Registro Civil e Identificación determine que las señaladas combinaciones de dos letras y tres dígitos, se encuentren agotadas.
+Las combinaciones de cuatro letras y dos dígitos a que se refiere el artículo 2º anterior, serán sustituidas por combinaciones de cinco letras y un dígito, dispuestos de izquierda a derecha, en el mismo orden, una vez que el Servicio de Registro Civil e Identificación determine, mediante el acto administrativo respectivo, que las señaladas combinaciones de cuatro letras y dos dígitos posibles de utilizar se encuentran agotadas.
+
+Las combinaciones de dos letras y tres dígitos a que se refiere el inciso primero del artículo 2º anterior, serán sustituidas por combinaciones de tres letras y dos dígitos, dispuestos de izquierda a derecha, en el mismo orden, una vez que el Servicio de Registro Civil e Identificación determine que las señaladas combinaciones de dos letras y tres dígitos, se encuentren agotadas. De la misma manera, las combinaciones de tres letras y dos dígitos a que se refiere el presente artículo, serán sustituidas por combinaciones de cuatro letras y un dígito, dispuestos de izquierda a derecha, en el mismo orden, una vez que el Servicio de Registro Civil e Identificación determine que las señaladas combinaciones de tres letras y dos dígitos posibles de utilizar, se encuentran agotadas.
 
 #### Artículo 3º
 
@@ -43,6 +45,8 @@ b) Amarillo para taxi colectivo.
 Las letras, dígitos, orla y símbolos serán de color negro para taxi básico y taxi colectivo, y blanco para taxi de turismo.
 
 Tratándose de camiones y tractocamiones cuyo peso bruto vehicular sea igual o superior a 3.860 kilogramos, inscritos en el Registro Nacional de Vehículos Motorizados como "hechizos" en los términos establecidos en el número 1 de la resolución Nº 25 de 1993 del Ministerio de Transportes y Telecomunicaciones, y aquellos internados al país de acuerdo a lo dispuesto en el inciso 2º del artículo 21 de la ley 18.483, el fondo de la placa patente será de color rojo y las letras, dígitos, orla y símbolo serán de color blanco.
+
+Tratándose de vehículos motorizados de cuatro o más ruedas, así como los de dos o tres ruedas, todos contemplados en el inciso primero del artículo 2º del presente reglamento, inscritos en el Registro Nacional de Vehículos Motorizados como "eléctricos" o "híbridos con recarga eléctrica exterior", el fondo de la placa patente será de color verde y las letras, dígitos, orla y símbolo serán de color negro. Con todo, la antedicha obligación no resultará aplicable a los tipos de vehículos individualizados en el inciso 2º precedente, cuyas patentes mantendrán los colores de fondo singularizados en las letras a) y b).
 
 #### Artículo 3º bis
 
@@ -183,6 +187,10 @@ El canje de placas patentes antes señalado se realizará de acuerdo al siguient
 Día Lunes Martes Miércoles Jueves Viernes
 
 Dígito 0-1 2-3 4-5 6-7 8-9
+
+#### Artículo 9º bis
+
+La confección de las distintas placas patente únicas de vehículos motorizados reguladas en el presente reglamento, será realizada por quien determine el Servicio de Registro Civil e Identificación conforme a sus facultades, y de acuerdo al procedimiento y al marco normativo aplicable.
 
 #### Artículo Transitorio
 
