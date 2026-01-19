@@ -42,7 +42,7 @@ Requisitos.- Podrá acceder a la bonificación adicional por retiro, el personal
 
 a) Perciban el beneficio compensatorio del artículo 9 de la ley Nº 20.374.
 
-b) Entre el 1 de enero de 2015 y el 31 de diciembre de 2025, hayan cumplido o cumplan 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres.
+b) Tengan 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres.
 
 c) Hayan servido sus cargos en las universidades del Estado en calidad de planta o a contrata por un período no inferior a diez años, continuos o discontinuos, a la fecha del inicio del respectivo período de postulación.
 
@@ -50,35 +50,35 @@ Para el cómputo del plazo de 10 años señalado anteriormente, se considerarán
 
 d) Se encuentren afiliados al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema.
 
-e) Postulen en los plazos señalados en el artículo 7, comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento.
+e) Postulen en los plazos señalados en los respectivos procesos de postulación de asignación de cupos que establece el presente reglamento, comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento.
 
 f) Hagan efectiva su renuncia en los plazos indicados en este reglamento.
 
-2. Los funcionarios y funcionarias del numeral 1 del artículo anterior que, al 31 de diciembre de 2014 hayan cumplido 65 años de edad, en el caso de los hombres y 60 años de edad, tratándose de las mujeres, o más, y que además reúnan los requisitos señalados en las letras a), c), d), e) y f) del numeral anterior.
+2. Suprimido.
 
-3. Los funcionarios y funcionarias señalados en el número 2 del artículo anterior que, entre el 1 de abril de 2015 y el 31 de diciembre de 2025, obtengan o hayan obtenido una pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, o que cesen o hayan cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, y que cumplan los siguientes requisitos:
+3. Los funcionarios y funcionarias señalados en el número 2 del artículo anterior que, obtengan o hayan obtenido una pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, o que cesen o hayan cesado en sus funciones por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo, y que cumplan los siguientes requisitos:
 
 a) Se encuentren afiliados al sistema de pensiones establecido en el decreto ley Nº 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema.
 
 b) Hayan servido sus cargos en calidad de planta o a contrata en las universidades del Estado, a lo menos por un período de diez años, continuos o discontinuos, a la fecha del cese de funciones, ya sea por obtención de pensión de invalidez o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo.
 
-c) Dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia según las causales señaladas, cumplan entre el 1 de abril de 2015 y el 31 de diciembre de 2025, 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
+c) Dentro de los tres años siguientes a la obtención de la pensión de invalidez o cese en sus funciones por declaración de vacancia según las causales señaladas, deberán cumplir 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de las mujeres.
 
 El personal señalado en este numeral que no cumpla con el requisito de edad establecido en su literal c), podrá acceder de igual forma a la bonificación adicional, si tiene treinta o más años de servicio a la fecha del cese de funciones, en cualquier calidad jurídica, sea de planta o a contrata, y siempre que al 31 de diciembre del año anterior al cese de funciones por las causales precedentes haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata.
 
 #### Artículo 3
 
-Rebaja de las edades.- El personal señalado en los numerales 1 y 2 del artículo 2, que se acoja a la bonificación adicional, podrá rebajar las edades exigidas para impetrar esta bonificación y la del beneficio compensatorio del artículo 9 de la ley Nº 20.374, en los casos y situaciones a que se refiere el artículo 68 bis del decreto ley Nº 3.500, de 1980, por iguales causales, procedimientos y tiempos computables.
+Rebaja de las edades.- El personal señalado en el numeral 1 del artículo 2, que se acoja a la bonificación adicional, podrá rebajar las edades exigidas para impetrar esta bonificación y la del beneficio compensatorio del artículo 9 de la ley Nº 20.374, en los casos y situaciones a que se refiere el artículo 68 bis del decreto ley Nº 3.500, de 1980, por iguales causales, procedimientos y tiempos computables.
 
 #### Artículo 4
 
-Cupos.- La bonificación adicional se otorgará hasta un máximo de 3.420 beneficiados durante la vigencia del plan de incentivo al retiro. Para el año 2017 se contemplarán 200 cupos. Para el año 2018, 400 cupos. Para los años 2019 y 2020, existirán 435 cupos por cada anualidad. A partir del año 2021 y hasta el año 2023, se contemplarán 350 cupos para cada año. Para los años 2024 y 2025 se contemplarán 400 y 500 cupos, respectivamente.
+Cupos.- El personal podrá acceder a la bonificación adicional de acuerdo con los cupos que se indican a continuación: para el año 2017 se contemplarán 200 cupos. Para el año 2018 se contemplarán 400 cupos. Para los años 2019 y 2020, existirán 435 cupos por cada anualidad. A partir del año 2021 y hasta el año 2023, se contemplarán 350 cupos para cada año. Para los años 2024 y 2025 se contemplarán 400 y 500 cupos, respectivamente. Para el año 2026 se contemplarán 450 cupos. Para los años 2027, 2028, 2029, 2030, 2031, 2032 y 2033 se contemplarán, por cada anualidad, 400 cupos. A partir del año 2034 se contemplarán 475 cupos por cada anualidad.
 
-Con todo, los cupos que no hubieren sido utilizados en los años 2017 y 2018, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+Los cupos que no hubieren sido utilizados en los años 2017 y 2018 incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos para el año 2025; después de dicho año no se traspasarán a las anualidades siguientes. Con todo, los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos éstos no podrán usarse en los procesos siguientes.
 
 #### Artículo 5
 
-Del deber de postular.- Los funcionarios y funcionarias señalados en el artículo 1 de este reglamento, que cumplan con los requisitos dispuestos en los artículos anteriores, podrán postular en los procesos de asignación de cupos que señala el artículo 7. Si los funcionarios y funcionarias no postulan en el plazo establecido, se entenderá que renuncian irrevocablemente a dichos beneficios.
+Del deber de postular.- Los funcionarios y funcionarias señalados en el artículo 1 de este reglamento, que cumplan con los requisitos dispuestos en los artículos anteriores, podrán postular en los procesos de asignación de cupos que se establecen en este reglamento. Si los funcionarios y funcionarias no postulan en el plazo establecido, se entenderá que renuncian irrevocablemente a dichos beneficios.
 
 #### Artículo 6
 
@@ -86,13 +86,13 @@ Actualización de Información.- Anualmente, antes del inicio del proceso de pos
 
 Adicionalmente, las universidades estatales deberán establecer mecanismos para comunicar el inicio del período de postulación para el proceso de asignación de cupos, lo que deberá realizarse a lo menos, en la página web institucional, sin perjuicio de publicitarlo adicionalmente en el diario mural, pizarra u otro elemento físico dispuesto en las respectivas Unidades, Departamentos o Direcciones de Personal de las universidades del Estado, o mediante el envío de correos electrónicos a todo el personal. Además, se podrán contemplar otros mecanismos para tales efectos.
 
-Previo al inicio del proceso de postulación de asignación de cupos establecido en el artículo 7, los respectivos jefes de las Unidades, Departamentos o Direcciones de Personal de las universidades del Estado, informarán a cada funcionario sobre el proceso de revisión de la información y la consistencia de los datos existentes en los sistemas de información de recursos humanos.
+Previo al inicio del proceso de postulación de asignación de cupos establecido en este reglamento, los respectivos jefes de las Unidades, Departamentos o Direcciones de Personal de las universidades del Estado, informarán a cada funcionario sobre el proceso de revisión de la información y la consistencia de los datos existentes en los sistemas de información de recursos humanos.
 
 Dentro de los 10 días hábiles siguientes a la publicación de este reglamento, cada universidad del Estado deberá designar dentro de su personal a un coordinador para efectos de la aplicación de la ley Nº 20.996, informando de ello a la Subsecretaría de Educación. En las demás anualidades en que tenga lugar un proceso de postulación, las referidas universidades deberán nombrar a sus coordinadores, comunicándolo a la Subsecretaría de Educación en el mes de diciembre del año anterior al respectivo proceso.
 
 #### Artículo 7
 
-De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente reglamento y hasta el 31 de diciembre de 2025, se abrirán nueve procesos de postulación de asignación de cupos dispuestos en el artículo 4, a las personas que cumplan con las condiciones y requisitos señalados en los artículos 1, 2 y 3.
+De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente reglamento, se abrirán anualmente procesos de postulación de asignación de cupos, según lo dispuesto en el artículo 4 de este reglamento, a las personas que cumplan con las condiciones y requisitos señalados en los artículos 1, 2 y 3 del presente cuerpo reglamentario.
 
 En los procesos de postulación referidos en el inciso primero, podrán postular los funcionarios y las funcionarias que se indican, dentro de los siguientes plazos:
 
@@ -200,21 +200,121 @@ ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este regla
 
 iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
 
-1. Que entre el 1 de abril de 2015 y hasta el 31 de diciembre de 2025, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+1. Que hasta el 31 de diciembre de 2025, hayan obtenido una pensión de invalidez del decreto ley N° 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
 
 2. Alternativamente:
 
-2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, entre el primer día hábil de mayo de 2024 y hasta el 31 de diciembre de 2025. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas y no más allá del 31 de diciembre de 2025, o
+2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, entre el primer día hábil de mayo de 2024 y hasta el 31 de diciembre de 2025. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
 
 2.2.- Al cesar sus funciones tenían 30 o más años de servicios y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata, según lo señalado en el numeral 3 del artículo 2.
 
 3. Reunir los demás requisitos que establece el numeral 3 del artículo 2 de este reglamento.
 
+#### Artículo 7 bis
+
+Del décimo proceso de postulación de asignación de cupos correspondiente al año 2026.- En el décimo proceso de postulación, se asignarán 450 cupos correspondientes al año 2026. Podrá postular a este proceso, el personal que a continuación se indica, a partir del primer día hábil de marzo de 2026 y hasta el último día hábil de agosto de dicho año:
+
+i) Los funcionarios y funcionarias señalados en el número 1 del artículo 2 que, entre el 1 de enero de 2026 y el 31 de diciembre del año 2026, cumplan 65 años.
+
+ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este reglamento, que cumplan entre 60 y 64 años de edad, entre el 1 de enero de 2026 y el 31 de diciembre del año 2026.
+
+iii) Los funcionarios y funcionarias señalados en el número 1 del artículo 2 que, al 31 de diciembre de 2025, tengan 65 años de edad o más y cumplan con los requisitos establecidos en la ley Nº 20.996.
+
+iv) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 podrán postular en este proceso, siempre que reúnan los siguientes requisitos:
+
+1. Que, con anterioridad al inicio de este proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley Nº 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+
+2. Alternativamente:
+
+2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, a partir del 1 de enero de 2026 y hasta antes del inicio de este proceso de postulación. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
+
+2.2.- Al cesar sus funciones tenían 30 o más años de servicios y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata, según lo señalado en el numeral 3 del artículo 2 del presente reglamento.
+
+3. Reunir los demás requisitos que establece el número 3 del artículo 2 de este reglamento.
+
+#### Artículo 7 ter
+
+Procesos de postulación de asignación de cupos de los años 2027 y 2028.- Se asignarán 400 cupos para cada una de las anualidades, junto con los adicionales que puedan existir conforme al inciso segundo del artículo 4 de este reglamento. A estos procesos podrá postular el personal que a continuación se indica, a partir del primer día hábil de marzo y hasta el último día hábil de agosto de cada anualidad respectivamente:
+
+i) Los funcionarios y funcionarias señalados en el número 1 del artículo 2 del presente reglamento, que entre el 1 de enero y el 31 de diciembre del año de postulación, cumpla 65, 66, 67, 68 y 69 años de edad.
+
+ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este reglamento, que cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre del año de postulación.
+
+iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 del presente reglamento, podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
+
+1. Que, con anterioridad al inicio del respectivo proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley Nº 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+
+2. Alternativamente:
+
+2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, a partir del inicio del anterior proceso de postulación y antes del inicio del respectivo proceso de postulación. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
+
+2.2.- Al cesar sus funciones tenían 30 o más años de servicios y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata, según lo señalado en el numeral 3 del artículo 2 de este reglamento.
+
+3. Reunir los demás requisitos que establece el número 3 del artículo 2 de este reglamento.
+
+#### Artículo 7 quáter
+
+Procesos de postulación de asignación de cupos a partir del año 2029 y siguientes - Desde el proceso de asignación de los cupos del año 2029 podrá postular, a partir del primer día hábil de marzo y hasta el último día hábil de agosto del año respectivo, el personal que a continuación se indica:
+
+i) Los funcionarios y funcionarias señalados en el número 1 del artículo 2 del presente reglamento, que entre el 1 de enero y el 31 de diciembre del año de la postulación, cumplan 65, 66, 67, 68 y 69 años de edad.
+
+ii) Las funcionarias a que se refiere el número 1 del artículo 2 de este reglamento, que cumplan entre 60 y 64 años de edad, entre el 1 de enero y el 31 de diciembre del año de la postulación.
+
+iii) Los funcionarios y funcionarias señalados en el número 3 del artículo 2 del presente reglamento podrán postular en estos procesos siempre que reúnan los siguientes requisitos:
+
+1. Que, con anterioridad al inicio del respectivo proceso de postulación, hayan obtenido una pensión de invalidez del decreto ley Nº 3.500, de 1980, o hayan cesado en sus funciones por declaración de vacancia, por salud irrecuperable o incompatible con el desempeño del cargo.
+
+2. Alternativamente:
+
+2.1.- Hayan cumplido 60 años de edad si son mujeres, o 65 años de edad si son hombres, a partir del inicio del anterior proceso de postulación y antes del inicio del respectivo proceso de postulación. Dichas edades deben cumplirse dentro de los tres años siguientes a la obtención de la referida pensión de invalidez o cese en sus funciones por declaración de vacancia por las causales antes señaladas, o
+
+2.2.- Al cesar sus funciones tenían 30 o más años de servicios y siempre que al 31 de diciembre del año anterior al cese de funciones, haya tenido un mínimo de cinco años de desempeño continuo o discontinuo en cargos de planta o a contrata, según lo señalado en el numeral 3 del artículo 2 de este reglamento.
+
+3. Reunir los demás requisitos que establece el numeral 3 del artículo 2 de este reglamento.
+
+#### Artículo 7
+
+quinquies. Beneficios decrecientes.- A contar del proceso de postulación para la asignación de cupos correspondiente al año 2027, el personal sujeto a los beneficios de este reglamento podrá postular en cualquiera de los períodos que se establecen en las letras siguientes y accederá a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 65 años de edad, siempre que postule en el plazo señalado en los artículos 7 ter y 7 quáter según corresponda. Deberán hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 65 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 4 del presente reglamento, si esta última fecha fuera posterior a aquélla.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo antes señalado, tendrán derecho a la totalidad del beneficio compensatorio del artículo 9 de la ley Nº 20.374 y a la bonificación adicional del artículo 1 de la ley Nº 20.996, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 66 años de edad, siempre que postule en el plazo señalado en los artículos 7 ter y 7 quáter, según corresponda. Dicho personal deberá hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 66 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 4 del presente reglamento, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 75% del beneficio compensatorio del artículo 9 de la ley Nº 20.374 y al 75% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 67 años de edad, siempre que postule en el plazo señalado en los artículos 7 ter y 7 quáter, según corresponda. Dicho personal deberá hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 67 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 4 del presente reglamento, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 55% del beneficio compensatorio del artículo 9 de la ley Nº 20.374 y al 55% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 68 años de edad, siempre que postule en el plazo señalado en los artículos 7 ter y 7 quáter, según corresponda. Dicho personal deberá hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 68 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 4 del presente reglamento, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 30% del beneficio compensatorio del artículo 9 de la ley Nº 20.374 y al 30% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrá postular el personal no académico ni profesional que cumpla 69 años de edad, siempre que postule en el plazo señalado en los artículos 7 ter y 7 quáter, según corresponda. Dicho personal deberá hacer efectiva su renuncia voluntaria a la universidad del Estado, dentro de los ciento ochenta días siguientes al cumplimiento de los 69 años de edad o dentro de los noventa días siguientes a la notificación de la resolución que le asigna un cupo del artículo 4 del presente reglamento, si esta última fecha fuera posterior a aquélla.
+
+En este caso sólo podrán acceder al 10% del beneficio compensatorio del artículo 9 de la ley Nº 20.374 y al 10% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncia irrevocablemente a todos los beneficios establecidos en la ley Nº 20.996.
+
+Las funcionarias podrán optar hacer efectiva su renuncia voluntaria a la universidad del Estado, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder al beneficio compensatorio del artículo 9 de la ley Nº 20.374 y a la bonificación adicional que les corresponda, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso primero de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y e), según corresponda.
+
+#### Artículo 7
+
+sexies. Procedimiento de asignación de cupos en los casos señalados en los incisos segundo y tercero del artículo 12 bis.- En los casos señalados en los incisos segundo y tercero del artículo 12 bis del presente reglamento, una vez que la universidad empleadora haya verificado el cumplimiento de los requisitos para acceder a la bonificación adicional de la ley Nº 20.996, le asignará un cupo. La universidad remitirá a la Subsecretaría de Educación Superior, dentro de los cinco días hábiles siguientes, la resolución por medio de la cual le asignó el referido cupo. La señalada Subsecretaría dictará una resolución la que descontará de los cupos de la respectiva anualidad aquellos asignados al personal que ha postulado mediante este procedimiento excepcional. Una copia de esta última resolución será remitida a la Dirección de Presupuestos, dentro del plazo de cinco días hábiles desde su total tramitación.
+
 #### Artículo 8
 
-De la postulación.- La postulación deberá realizarse personalmente o por un tercero que cuente con poder simple junto con la fotocopia de la cédula de identidad del postulante, dentro de los períodos señalados en el artículo 7, ante las respectivas Unidades, Departamentos o Direcciones de Personal de las universidades del Estado o la entidad que realice esta función en dichas instituciones.
+De la postulación.- La postulación deberá realizarse personalmente o por un tercero que cuente con poder simple junto con la fotocopia de la cédula de identidad del postulante, dentro de los períodos de postulación de asignación de cupos señalados en este reglamento, ante las respectivas Unidades, Departamentos o Direcciones de Personal de las universidades del Estado o la entidad que realice esta función en dichas instituciones.
 
-Para estos efectos, cada institución dispondrá de un formulario denominado "Formulario Único de Postulación", el que será elaborado por la División de Educación Superior de Ministerio de Educación y publicado en su página web institucional. A través de este documento, el respectivo funcionario deberá comunicar la decisión de renunciar voluntariamente a su cargo en la institución de educación superior.
+Para estos efectos, cada institución dispondrá de un formulario denominado "Formulario Único de Postulación", el que será elaborado por la Subsecretaría de Educación Superior de Ministerio de Educación y publicado en su página web institucional. A través de este documento, el respectivo funcionario deberá comunicar la decisión de renunciar voluntariamente a su cargo en la institución de educación superior.
 
 El interesado deberá presentar el formulario señalado en el inciso segundo de este artículo, ante las respectivas Unidades, Departamentos o Direcciones de Personal de las universidades del Estado o la entidad que realice esta función en dichas instituciones, la cual deberá entregar copia del mismo al funcionario, con una constancia de su recepción.
 
@@ -246,7 +346,7 @@ A más tardar el último día del mes siguiente al cierre de cada proceso de pos
 
 La nómina señalada en el inciso anterior deberá ordenar a los postulantes que cumplen con los requisitos conforme a los siguientes criterios:
 
-1. En primer término, se preferirá aquellos con un mayor número de días por sobre la edad legal para pensionarse por vejez, sean funcionarios o funcionarias, considerados al inicio del período de postulación que fija el artículo 7.
+1. En primer término, se preferirá aquellos con un mayor número de días por sobre la edad legal para pensionarse por vejez, sean funcionarios o funcionarias, considerados al inicio del período de postulación respectivo.
 
 2. En igualdad de condiciones, se preferirá a los que tengan más años de servicios en la universidad estatal empleadora, y luego en todas las universidades estatales.
 
@@ -256,11 +356,11 @@ La nómina señalada en el inciso anterior deberá ordenar a los postulantes que
 
 La universidad empleadora dentro del plazo en el cual debe dictar la resolución del inciso segundo, también deberá dictar una resolución que contenga la nómina de los postulantes que no reúnen las condiciones para acceder a la bonificación adicional indicando los requisitos que no fueron acreditados.
 
-Las universidades del Estado deberán enviar a la Subsecretaría de Educación, hasta los cinco primeros días hábiles siguientes al vencimiento del plazo fijado en el inciso segundo de este artículo, copia de la resolución señalada en dicho inciso, a efectos que dicha Subsecretaría, a través de la División de Educación Superior, dicte la resolución exenta que asigne los cupos correspondientes.
+Las universidades del Estado deberán enviar a la Subsecretaría de Educación Superior, hasta los cinco primeros días hábiles siguientes al vencimiento del plazo fijado en el inciso segundo de este artículo, copia de la resolución señalada en dicho inciso, a efectos que dicha Subsecretaría dicte la resolución exenta que asigne los cupos correspondientes.
 
 #### Artículo 10
 
-Asignación de cupos.- La Subsecretaría de Educación, hasta el último día hábil del segundo mes siguiente al cierre del proceso de postulación, dictará una o más resoluciones exentas, visadas por la Dirección de Presupuestos, la que establecerá la distribución de los cupos anuales para cada una de las universidades estatales, en forma proporcional al número de postulaciones que cumplan con los requisitos para acceder a la bonificación adicional.
+Asignación de cupos.- La Subsecretaría de Educación Superior, hasta el último día hábil del segundo mes siguiente al cierre del proceso de postulación, dictará una o más resoluciones exentas, visadas por la Dirección de Presupuestos, que establecerá la distribución de los cupos anuales para cada una de las universidades estatales, en forma proporcional al número de postulaciones que cumplan con los requisitos para acceder a la bonificación adicional. Al efecto, dicha Subsecretaría deberá descontar de los cupos a distribuir aquellos que, en la respectiva anualidad, hayan sido asignados al personal a que se refieren los incisos segundo y tercero del artículo 12 bis de este reglamento y en virtud de los artículos 89 y 91 de la ley Nº 21.724.
 
 Dicha Subsecretaría dentro de los 5 días hábiles de dictada la resolución del inciso anterior, la remitirá a la Dirección de Presupuestos, quien deberá visarla y remitirla a esa Subsecretaría dentro de los 10 días hábiles siguientes a su recepción.
 
@@ -288,11 +388,23 @@ Fecha de renuncia efectiva: El personal no académico ni profesinal señalado en
 
 Las funcionarias que postulen al beneficio antes del cumplimiento de los 65 años de edad y sean seleccionadas deberán hacer efectiva su renuncia voluntaria dentro de los ciento ochenta días siguientes a la notificación del acto que le asigna un cupo. Si aquella funcionaria no hiciere efectiva su renuncia dentro de dicho plazo perderá su cupo, pero podrá postular en los períodos siguientes hasta aquel en que le corresponda postular a los 65 años de edad.
 
-Con todo, el personal podrá hacer efectiva su renuncia voluntaria desde la presentación de su postulación, siempre que tenga cumplidos 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres, en cuyo caso la respectiva bonificación adicional se pagará al mes siguiente de la total tramitación de la resolución que les conceda el cupo respectivo a que se refiere el inciso cuarto del artícuo 10. A su vez, el beneficio compensatorio del artículo 9 de la ley Nº 20.374, cuando corresponda, se pagará según lo establecido en el inciso cuarto de dicha disposición. En este caso, la solicitud para acceder al bono establecido en la ley Nº 20.305, si cumple con los respectivos requisitos, de acuerdo al artículo 8 de la ley Nº 20.996, deberá presentarse en la misma oportunidad en que presente su renuncia voluntaria.
+Con todo, el personal podrá hacer efectiva su renuncia voluntaria desde la presentación de su postulación, siempre que tenga cumplidos 65 años de edad, en el caso de los hombres, y 60 años de edad, tratándose de mujeres, en cuyo caso la respectiva bonificación adicional se pagará al mes siguiente de la total tramitación de la resolución que les conceda el cupo respectivo a que se refiere el inciso cuarto del artículo 10. A su vez, el beneficio compensatorio del artículo 9 de la ley Nº 20.374, cuando corresponda, se pagará según lo establecido en el inciso cuarto de dicha disposición. En este caso, la solicitud para acceder al bono establecido en la ley Nº 20.305, si cumple con los respectivos requisitos, de acuerdo al artículo 8 de la ley Nº 20.996, deberá presentarse en la misma oportunidad en que presente su renuncia voluntaria.
 
 El personal mencionado en el artículo 1 que se acoja a los beneficios de esta ley, deberá renunciar a todos los cargos y al total de horas que sirva; y si se desempeñasen en más de una universidad del Estado deberán renunciar a la totalidad de horas y nombramientos o contratos que sirven en las distintas entidades empleadoras.
 
 El personal contemplado en el número 1 del artículo 1 del presente reglamento, sólo cesará en sus funciones si la universidad del Estado pone a su disposición la totalidad del beneficio compensatorio del artículo 9 de la ley Nº 20.374. De no ser así, cesará en funciones cuando se le pague dicho beneficio compensatorio.
+
+Lo dispuesto en los incisos anteriores es sin perjuicio de lo establecido en los incisos segundo y tercero del artículo 12 bis del presente reglamento.
+
+A contar del proceso de postulación para la asignación de cupos correspondiente al año 2027, la fecha de renuncia efectiva se regirá según lo dispuesto en el artículo 7 quinquies.
+
+#### Artículo 12 bis
+
+Del proceso excepcional de asignación de cupos del año 2026 respecto del personal que indica.- Respecto del personal a que se refiere el numeral iii) del artículo 7 bis de este reglamento y que haya postulado en el proceso del año 2026, deberá hacer efectiva su renuncia voluntaria a más tardar dentro del mes siguiente a aquel en que se notifique que tiene derecho a un cupo. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+En el caso que la o el postulante a que se refiere el numeral iii) del artículo 7 bis de este reglamento, cumpla 75 años de edad estando pendiente dicho proceso, la respectiva universidad deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores. Asimismo, en caso de que el funcionario o funcionaria se encuentre en la nómina de seleccionados preferentes, también la respectiva institución empleadora deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores. En ambos casos el postulante deberá cumplir con los respectivos requisitos y cesar en funciones al cumplir 75 años. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+Con todo, las y los postulantes a que se refiere el numeral iii) del artículo 7 bis de este reglamento que, al 31 de diciembre del año 2026, tengan 75 o más años de edad y, que a dicha fecha, se encuentre pendiente el proceso de asignación de cupos o se encuentren en la nómina de seleccionados preferentes, la respectiva universidad deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores, siempre que cumplan con los respectivos requisitos y cesarán en funciones, a más tardar, el 31 de diciembre de 2026. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
 
 #### Artículo 13
 
@@ -302,15 +414,17 @@ Una vez que ellos sean incorporados a la lista de beneficiarios, si quedaren cup
 
 #### Artículo 14
 
-Desistimiento y reasignación de cupo.- Si un funcionario o funcionaria seleccionado dentro de los cupos asignados a un proceso se desistiere de aquél, deberá comunicarlo a través del formulario confeccionado para esos efectos por la División de Educación Superior del Ministerio de Educación, el cual deberá entregarse a las respectivas Unidades, Departamentos o Direcciones de personal de las universidades del Estado. Dicho cupo se reasignará por la respectiva universidad, siguiendo estrictamente el orden del listado contenido en la resolución señalada en el inciso cuarto del artículo 10 de este reglamento.
+Desistimiento y reasignación de cupo.- Si un funcionario o funcionaria seleccionado dentro de los cupos asignados a un proceso se desistiere de aquél, deberá comunicarlo a través del formulario confeccionado para esos efectos por la Subsecretaría de Educación Superior del Ministerio de Educación, el cual deberá entregarse a las respectivas Unidades, Departamentos o Direcciones de personal de las universidades del Estado. Dicho cupo se reasignará por la respectiva universidad, siguiendo estrictamente el orden del listado contenido en la resolución señalada en el inciso cuarto del artículo 10 de este reglamento.
 
-El funcionario o funcionaria a quien se le asigne el cupo de quien se desistió, deberá hacer efectiva su renuncia voluntaria conforme a lo señalado en el artículo 12 del reglamento.
+El funcionario o funcionaria a quien se le asigne el cupo de quien se desistió, deberá hacer efectiva su renuncia voluntaria conforme a lo señalado en este reglamento.
 
 Las funcionarias menores de 65 años de edad que habiendo sido seleccionadas con un cupo se desistieran, no lo conservarán para los siguientes años, debiendo volver a postular, conforme a las normas del presente reglamento.
 
 #### Artículo 15
 
-Falta de postulación.- El personal que, cumpliendo los requisitos establecidos en la ley, no postule a la bonificación adicional dentro del plazo establecido para ello en este reglamento, o no haga efectiva su renuncia voluntaria en los plazos señalados en el artículo 12, se entenderá que renuncia irrevocablemente a los beneficios que ella concede.
+Falta de postulación.- El personal que, cumpliendo los requisitos establecidos en la ley, no postule a la bonificación adicional dentro del plazo establecido para ello en este reglamento, o no haga efectiva su renuncia voluntaria en los plazos señalados en los artículos 7 quinquies, 12 y 12 bis del presente cuerpo normativo, se entenderá que renuncia irrevocablemente a los beneficios que ella concede.
+
+Por su parte, en el caso de los funcionarios y funcionarias que, al 31 de diciembre de 2025, tengan 65 o más años de edad y cumplan los demás requisitos establecidos en la ley Nº 20.996, que no postulen en la oportunidad señalada en el artículo 7 bis, de conformidad a su numeral iii), o no hicieren efectiva su renuncia voluntaria dentro del plazo señalado en el artículo 12 bis, se entenderá que renuncian irrevocablemente a dicho plazo excepcional de postulación y a los beneficios que señala el artículo 88 de la ley Nº 21.724. Sin embargo, a contar del proceso de postulación a la asignación de los cupos del año 2027, podrán acceder a los beneficios decrecientes según corresponda.
 
 #### Artículo 16
 
@@ -346,7 +460,7 @@ Inhabilidad.- El personal no académico ni profesional que cese en sus empleos p
 
 #### Artículo 21
 
-Solicitud de recursos fiscales.- El primer día hábil de cada mes, el Ministerio de Educación a través de la División de Educación Superior, mediante correo electrónico, solicitará a la Dirección de Presupuestos los recursos para el pago de las bonificaciones adicionales cuyos actos administrativos que lo ordenen estén totalmente tramitados al mes anterior del envío de dicha solicitud. Esta petición deberá adjuntar copia de los actos totalmente tramitados que ordenen el pago y de las resoluciones que individualizan a los beneficiarios de las correspondientes bonificaciones adicionales.
+Solicitud de recursos fiscales.- El primer día hábil de cada mes, el Ministerio de Educación a través de la Subsecretaría de Educación Superior, mediante correo electrónico, solicitará a la Dirección de Presupuestos los recursos para el pago de las bonificaciones adicionales cuyos actos administrativos que lo ordenen estén totalmente tramitados al mes anterior del envío de dicha solicitud. Esta petición deberá adjuntar copia de los actos totalmente tramitados que ordenen el pago y de las resoluciones que individualizan a los beneficiarios de las correspondientes bonificaciones adicionales.
 
 Dentro de los diez días hábiles siguientes a la solicitud señalada en el inciso anterior, la Dirección de Presupuestos informará a la Tesorería General de la República para que ésta proceda a las transferencias de recursos que correspondan.
 
