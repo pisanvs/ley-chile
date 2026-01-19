@@ -166,7 +166,7 @@ Son deberes de los sostenedores cumplir con los requisitos para mantener el reco
 
 #### Artículo 11
 
-El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.
+El embarazo, la maternidad y la paternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.
 
 En los establecimientos educacionales reconocidos oficialmente por el Estado, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.
 
