@@ -690,6 +690,12 @@ Con el fin de dar cumplimiento a lo dispuesto en el artículo 180 del Código Pr
 
 El requerimiento referido en el inciso anterior deberá contener la fecha y lugar de expedición, los antecedentes necesarios para darle cumplimiento, el plazo que se otorga para que se lleve a efecto y la identificación del organismo que lo requiere.
 
+#### Artículo 90 ter
+
+Las empresas de transporte aéreo de pasajeros que operen en el territorio nacional, estarán obligadas a presentar a la Policía de Investigaciones de Chile, a Carabineros de Chile y al Ministerio Público, una vez finalizado el embarque, la información anticipada de pasajeros o API (Advance Passenger Information), el registro de nombres de pasajeros o PNR (Passenger Name Record) y los documentos señalados en el artículo 90, según fuera el caso.
+
+Sin perjuicio de la referida obligación, los transportadores aéreos de pasajeros estarán siempre obligados a informar, a requerimiento del Ministerio Público, de las policías o del Ministerio de Seguridad Pública, sobre la identificación, lugar de embarque y destino de cada uno de los pasajeros que transporta, transportará o haya transportado.
+
 #### Artículo 91
 
 Las aeronaves comerciales de transporte llevarán, además, un diario de a bordo, en el cual el comandante deberá dejar constancia de cualquier hecho anormal o extraordinario ocurrido durante la operación de vuelo.
