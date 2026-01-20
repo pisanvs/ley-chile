@@ -3494,4 +3494,38 @@ siendo afectada por un
 
 delito o accidente.
 
+1220 SINAPROC Recepción de llamadas por
+
+Ñuble parte del personal del
+
+Centro Integrado de
+
+Emergencia y Seguridad
+
+(CIES) de la Región de
+
+Ñuble, del Gobierno
+
+Regional de Ñuble, que
+
+gestionará las acciones
+
+ejecutadas y coordinadas
+
+por distintos organismos
+
+del Estado y privados,
+
+destinados a responder
+
+de forma continua las
+
+alertas ciudadanas ante
+
+los riesgos, peligros
+
+y amenazas de seguridad
+
+pública.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
