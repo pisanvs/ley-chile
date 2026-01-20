@@ -50,15 +50,15 @@ Beneficiarios.- Podrán acceder a la bonificación por retiro voluntario, siempr
 
 3. Los profesionales funcionarios y las profesionales funcionarias afectas a las normas de las leyes Nº 15.076 y Nº 19.664, que hayan sido traspasados desde los Servicios de Salud a la Subsecretaría de Salud Pública en virtud de lo dispuesto en el decreto con fuerza de ley Nº 5, de 2004, del Ministerio de Salud.
 
-4. Los ex funcionarios y ex funcionarias a que se refiere el artículo primero transitorio del presente reglamento.
+4. Suprimido.
 
 #### Artículo 3º
 
 Requisitos.- Podrán acceder a la bonificación por retiro voluntario:
 
-1. Los funcionarios señalados en los números 1, 2 y 3 del artículo anterior que entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan cumplido o cumplan 60 de edad, si son mujeres, y 65 años de edad si son hombres, que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
+1. Los funcionarios señalados en los números 1, 2 y 3 del artículo anterior que tengan 60 de edad, si son mujeres, y 65 años de edad, si son hombres, que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
 
-2. Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo anterior que al 30 de junio de 2014 hayan cumplido 60 o más años de edad si son mujeres, y 65 o más años de edad si son hombres y que postulen a ella comunicando su decisión de renunciar voluntariamente en el plazo indicado en el presente reglamento, y hagan efectiva su renuncia voluntaria a más tardar el día primero del quinto mes siguiente al vencimiento del plazo para fijar la fecha de renuncia definitiva.
+2. Eliminado.
 
 3. Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo anterior que, entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, y que en dicho período, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
@@ -70,13 +70,27 @@ La remuneración que servirá de base para el cálculo de la bonificación por r
 
 #### Artículo 5º
 
-Cupos.- La bonificación por retiro voluntario se otorgará hasta un total de 24.250 beneficiarios y beneficiarias durante la vigencia del plan de incentivo al retiro. Para el año 2016 existirán 4.000 cupos y para los años 2017 al 2025, se contemplarán 2.250 cupos por cada anualidad.
+Cupos.- La bonificación por retiro voluntario se otorgará conforme a los cupos que a continuación se indican:
 
-Los cupos que no hubieren sido utilizados en los años 2016 al 2018, ambos incluidos, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+a) Para el año 2016 se consultarán 4.000 cupos.
+
+b) Para los años 2017 al 2025, se contemplarán 2.250 cupos para cada anualidad.
+
+Con todo, los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente hasta los cupos del año 2025, después de dicho año no se traspasarán a las anualidades siguientes.
+
+c) Para el año 2026, se contemplarán 2.000 cupos.
+
+d) Para los años 2027 a 2030, se contemplarán 1.500 cupos para cada año.
+
+e) Para el año 2031, se contemplarán 2.000 cupos.
+
+f) Desde el año 2032 en adelante, se contemplarán 2.250 cupos para cada año.
+
+Los cupos de los años 2026 y 2027 que no hubieren sido utilizados al término de su proceso de adjudicación podrán ser usados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos, éstos no podrán usarse en los procesos siguientes.
 
 #### Artículo 6º
 
-Del deber de postular.- Los funcionarios y funcionarias señalados en el artículo 2º, que cumplan con los requisitos dispuestos en el artículo 3º, para percibir la bonificación por retiro voluntario junto con los otros beneficios establecidos en la ley deberán postular en los procesos de asignación de cupos que señala el artículo siguiente. Si los funcionarios y funcionarias no postularen en el plazo establecido se entenderá que renuncian irrevocablemente a dichos beneficios.
+Del deber de postular.- Los funcionarios y funcionarias señalados en el artículo 2º, que cumplan con los requisitos dispuestos en el artículo 3º, para percibir la bonificación por retiro voluntario junto con los otros beneficios establecidos en la ley deberán postular en los procesos de asignación de cupos que señala el artículo 8º. Si los funcionarios y funcionarias no postularen en el plazo establecido se entenderá que renuncian irrevocablemente a dichos beneficios.
 
 #### Artículo 7º
 
@@ -88,7 +102,7 @@ Previo al inicio del proceso de postulación de asignación de cupos establecido
 
 #### Artículo 8º
 
-De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente Reglamento y hasta el 31 de diciembre de 2025 se abrirán diez procesos de postulación de asignación de cupos dispuestos en el artículo 5º a las personas que cumplan con las condiciones y requisitos señalados en los artículos 2º y 3º de este Reglamento.
+De los procesos de postulación de asignación de cupos.- Desde la fecha de publicación del presente Reglamento se abrirán diez procesos de postulación de asignación de cupos dispuestos en el artículo 5º a las personas que cumplan con las condiciones y requisitos señalados en los artículos 2º y 3º de este Reglamento.
 
 En los procesos de postulación referidos en el inciso primero, podrán postular comunicando su decisión de renunciar voluntariamente los funcionarios y las funcionarias que se indican dentro de los siguientes plazos:
 
@@ -121,6 +135,36 @@ ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del art�
 i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2° que entre el 1 de enero y el 31 de diciembre de 2025 cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres.
 
 ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2° que entre el 1 de julio de 2014 y el 31 de diciembre de 2025 hayan obtenido la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, y que entre el 1 de noviembre del año 2024 y el 31 de diciembre de 2025 hubiesen cumplido 60 años de edad, en el caso de las mujeres y 65 años de edad, en el caso de los hombres.
+
+(f) Undécimo proceso de postulación de asignación de cupos. A los 2.000 cupos correspondientes al año 2026, se deberá postular en el mes de noviembre de 2026, pudiendo participar en el proceso:
+
+i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que entre el 1 de enero y el 31 de diciembre de 2026 cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres.
+
+ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que, al 31 de diciembre de 2025, tengan 65 o más años de edad.
+
+(g) Duodécimo y décimo tercer proceso de postulación de asignación de cupos. A los 1.500 cupos correspondientes a los años 2027 y 2028 y a los adicionales que existan disponibles conforme al artículo 5º, se deberá postular en noviembre del año 2027 o en noviembre de 2028, respectivamente, pudiendo participar en cada proceso:
+
+i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres, entre el 1 de enero y el 31 de diciembre del mismo año de la postulación.
+
+ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 66 años de edad entre el 1 de enero y el 31 diciembre del año en que postulan.
+
+iii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 67 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
+
+iv) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 68 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
+
+v) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 69 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
+
+(h) A partir de los cupos del año 2029 en adelante, se deberá postular a éstos en noviembre de cada anualidad, pudiendo participar en cada proceso:
+
+i) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º que cumplan entre 60 y 65 años de edad si son mujeres, y 65 años de edad si son hombres, entre el 1 de enero y el 31 de diciembre del año de la postulación.
+
+ii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 66 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
+
+iii) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 67 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
+
+iv) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 68 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
+
+v) Los funcionarios y funcionarias señalados en los números 1, 2 y 3 del artículo 2º, que cumplan 69 años de edad entre el 1 de enero y el 31 de diciembre del año en que postulan.
 
 #### Artículo 9º
 
@@ -200,19 +244,71 @@ La notificación se realizará personalmente, por carta certificada dirigida al 
 
 #### Artículo 15
 
-Comunicación de fecha renuncia efectiva.- Los funcionarios y funcionarias señalados en los números 1 y 2 del artículo 3º que resultaren beneficiarios de cupos para la bonificación por retiro voluntario, deberán informar por escrito al Departamento de Recursos Humanos o a quien cumpla la función en su institución empleadora, a más tardar el último día hábil del mes siguiente a la fecha de la resolución a que se refiere el artículo 12 de este reglamento, la fecha en que dejarán definitivamente el cargo.
+Comunicación de fecha renuncia efectiva.- Los funcionarios y funcionarias señalados en el número 1 del artículo 3º que resultaren beneficiarios de cupos para la bonificación por retiro voluntario, deberán informar por escrito al Departamento de Recursos Humanos o a quien cumpla la función en su institución empleadora, a más tardar el último día hábil del mes siguiente a la fecha de la resolución a que se refiere el artículo 12 de este reglamento, la fecha en que dejarán definitivamente el cargo.
 
 La renuncia deberá hacerse efectiva una vez que el beneficiario cumpla el requisito de edad dispuesto en el artículo 3º y a más tardar el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva; o hasta el día primero del quinto mes en que cumpla 65 años de edad, si esta fecha es posterior a aquella. Tratándose de las funcionarias que sean beneficiarias de algún cupo para hacerlo efectivo antes de cumplir los 65 años de edad, se aplicará lo dispuesto en el inciso tercero del artículo 18, cuando corresponda.
 
 Sin perjuicio de lo anterior, las funcionarias que cumplan entre 60 años y 65 años de edad, entre el 1 de enero y el 31 de diciembre de 2025, y que postulen en el proceso correspondiente al año 2025, de ser seleccionadas deberán hacer efectiva su renuncia voluntaria, a más tardar, hasta el primer día del quinto mes siguiente al que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
 
-El personal que se acoja a los beneficios de esta ley deberá renunciar a todos los cargos y al total de horas que sirva; y si se desempeñase en más de un establecimiento de los mencionados en el artículo 2º, deberá renunciar a la totalidad de las horas y a los nombramientos o contratos que tenga en ellos.
+A partir del duodécimo proceso de asignación de cupos, tratándose de funcionarias o funcionarios que postulen en el período correspondiente a los 66, 67, 68 o 69 años de edad, deberán hacer efectiva su renuncia voluntaria, a más tardar, el día primero del quinto mes siguiente del vencimiento del plazo para fijar la fecha de renuncia voluntaria definitiva.
+
+#### Artículo 15 bis
+
+Renuncia voluntaria de funcionarios y funcionarias con 65 o más años de edad. Respecto del personal a que se refiere el numeral ii) del literal (f) del artículo 8º del presente reglamento y que haya postulado en el proceso del año 2026, deberá hacer efectiva su renuncia voluntaria a más tardar dentro del mes siguiente a aquel en que se notifique que tiene derecho a un cupo. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+En el caso de que la o el postulante a que se refiere el numeral ii) del literal (f) del artículo 8º del presente reglamento, cumpla 75 años de edad y se encuentre pendiente el proceso de asignación de cupos, la respectiva institución empleadora deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores. Asimismo, en caso de que el funcionario o funcionaria se encuentre en la nómina de seleccionados preferentemente, también la respectiva institución empleadora deberá asignarle inmediatamente un cupo, del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores. En ambos casos el postulante deberá cumplir con los respectivos requisitos y cesar en funciones al cumplir 75 años. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+Con todo, en el caso de las y los postulantes a que se refiere el numeral ii) del literal (f) del artículo 8º del presente reglamento, que al 31 de diciembre del año 2026 tengan 75 o más años de edad y, que a dicha fecha, se encuentre pendiente el proceso de asignación de cupos o se encuentren en la nómina de seleccionados preferentemente, la respectiva institución empleadora deberá asignarle inmediatamente un cupo del proceso del año 2026 o, si no existen cupos suficientes, de las anualidades posteriores; siempre que cumplan con los respectivos requisitos y cesarán en funciones, a más tardar, el 31 de diciembre de 2026. El pago de los beneficios deberá realizarse al mes siguiente del cese de sus funciones.
+
+Las entidades empleadoras deberán informar a la Subsecretaría de Redes Asistenciales los cupos asignados en virtud de los incisos segundo y tercero de este artículo, de acuerdo a lo señalado en el procedimiento del artículo 16 bis
+
+#### Artículo 15 ter
+
+Renuncia a todos los cargos y al total de horas.- El personal que se acoja a los beneficios de esta ley deberá renunciar a todos los cargos y al total de horas que sirva; y si se desempeñase en más de un establecimiento de los mencionados en el artículo 2º, deberá renunciar a la totalidad de las horas y a los nombramientos o contratos que tenga en ellos.
 
 Las instituciones referidas en el artículo 2º de este reglamento informarán a la Subsecretaría de Redes Asistenciales vía correo electrónico, en formato determinado por ésta, el listado de todos los funcionarios y funcionarias beneficiarias indicando la fecha en que harán efectiva su renuncia, a más tardar el quinto día hábil siguiente al término del plazo para fijar la fecha de renuncia.
 
 #### Artículo 16
 
-Resolución que fija los beneficios.- El Jefe Superior de los servicios señalados en el artículo 2º deberá dictar una resolución fijando los beneficios de la ley Nº 20.921 a que tiene derecho el funcionario y el monto de los mismos. Esta resolución deberá dictarse luego de aceptarse la renuncia tratándose de los funcionarios señalados en los números 1 y 2 del artículo 3°.
+Resolución que fija los beneficios.- El Jefe Superior de los servicios señalados en el artículo 2º deberá dictar una resolución fijando los beneficios de la ley Nº 20.921 a que tiene derecho el funcionario y el monto de los mismos. Esta resolución deberá dictarse luego de aceptarse la renuncia tratándose de los funcionarios señalados en el número 1 del artículo 3°.
+
+A partir del duodécimo proceso de postulación de asignación de cupos, el personal sujeto a los beneficios de la ley Nº 20.921 podrá postular en cualquiera de los períodos que se establecen en los literales (g) y (h) del artículo 8º, según corresponda, y accederá a los beneficios decrecientes que se señalan según la época de postulación, conforme a las reglas que a continuación se indican:
+
+a) Primer período de postulación: En este período podrán postular los funcionarios que cumplan 65 años de edad y las funcionarias que cumplan entre 60 y 65 años de edad, en el plazo señalado en el numeral i) de los literales (g) y (h) del artículo 8º.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo señalado en el inciso segundo del artículo 15, tendrán derecho a la totalidad de cada uno de los beneficios a que se refieren los artículos 1º, 9º, 11, 12 y 13 de la ley, que les corresponda, siempre que cumplan con los respectivos requisitos.
+
+b) Segundo período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 66 años de edad, en el plazo establecido en el numeral ii) de los literales (g) y (h) del artículo 8º.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo señalado en el inciso cuarto del artículo 15, en este caso sólo podrán acceder al 75% de cada uno de los beneficios a que se refieren los artículos 1º, 9º, 11, 12 y 13 de la ley, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Tercer período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 67 años de edad, en el plazo establecido en el numeral iii) de los literales (g) y (h) del artículo 8º.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo señalado en el inciso cuarto del artículo 15, en este caso sólo podrán acceder al 55% de cada uno de los beneficios a que se refieren los artículos 1º, 9º, 11, 12 y 13 de la ley, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Cuarto período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 68 años de edad, en el plazo establecido en el numeral iv) de los literales (g) y (h) del artículo 8º.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo señalado en el inciso cuarto del artículo 15, en este caso sólo podrán acceder al 30% de cada uno de los beneficios a que se refieren los artículos 1º, 9º, 11, 12 y 13 de la ley, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Quinto período de postulación: En este período podrán postular los funcionarios y funcionarias que cumplan 69 años de edad, en el plazo establecido en el numeral v) de los literales (g) y (h) del artículo 8º.
+
+Si hacen efectiva su renuncia voluntaria dentro del plazo señalado en el inciso cuarto del artículo 15, en este caso sólo podrán acceder al 10% de cada uno de los beneficios a que se refieren los artículos 1º, 9º, 11, 12 y 13 de la ley, que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto del personal que no postule en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncian irrevocablemente a todos los beneficios establecidos en la ley Nº 20.921.
+
+Las funcionarias podrán optar por comunicar su decisión de hacer efectiva su renuncia voluntaria desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, y podrán acceder a los beneficios señalados en los artículos 1º, 9º, 11, 12 y 13 de la ley, siempre que cumplan con los respectivos requisitos. También podrán postular en los períodos señalados en las letras b), c),
+
+- **d)** y
+
+- **e)** del inciso segundo de este artículo, siempre que cumplan las edades que en dichas letras se indican y sólo accederán a los beneficios decrecientes que para esos períodos se señalan en las mencionadas letras b), c),
+
+- **d)** y
+
+- **e)** según corresponda.
+
+#### Artículo 16 bis
+
+En los casos señalados en los incisos segundo y tercero del artículo 15 bis de este reglamento, una vez que la entidad empleadora haya verificado el cumplimiento de los requisitos para acceder a los beneficios de la ley Nº 20.921, le asignará un cupo al postulante. La entidad empleadora, remitirá a la Subsecretaría de Redes Asistenciales, dentro de los cinco días hábiles siguientes, la resolución por medio de la cual le asignó el referido cupo. La Subsecretaría de Redes Asistenciales, a más tardar dentro de los cinco días hábiles siguientes a la recepción de la resolución antes señalada, dictará una resolución en la que descontará de los cupos de la respectiva anualidad aquellos asignados al personal que ha postulado de conformidad al artículo antes citado. Una copia de esta última resolución será remitida a la Dirección de Presupuestos, dentro del plazo de cinco días hábiles desde su dictación.
 
 #### Artículo 17
 
@@ -244,9 +340,9 @@ Otras bonificaciones
 
 #### Artículo 21
 
-Los funcionarios y funcionarias a que se refieren los números 1 y 2 del inciso primero del artículo 3º podrán acceder a la bonificación por retiro voluntario, la bonificación adicional, el bono especial de permanencia y el bono por trabajos pesados establecidos en la ley, siempre que cumplan los requisitos respectivos.
+Los funcionarios y funcionarias a que se refiere el número 1 del inciso primero del artículo 3º podrán acceder a la bonificación por retiro voluntario, la bonificación adicional, el bono especial de permanencia y el bono por trabajos pesados establecidos en la ley, siempre que cumplan los requisitos respectivos.
 
-En el caso de los funcionarios señalados en el número 3 del artículo 3º y de los ex-funcionarios señalados en el número 4 del artículo 2, tendrán derecho a percibir sólo la bonificación por retiro voluntario y la bonificación adicional establecidas en la ley y en el presente reglamento, siempre que cumpla con los requisitos respectivos.
+En el caso de los funcionarios señalados en el número 3 del artículo 3º tendrán derecho a percibir sólo la bonificación por retiro voluntario y la bonificación adicional establecidas en la ley y en el presente reglamento, siempre que cumpla con los requisitos respectivos.
 
 ### Párrafo 1º
 
@@ -255,8 +351,6 @@ Bonificación adicional
 #### Artículo 22
 
 Concepto y requisitos.- Los funcionarios y funcionarias que, acogiéndose a la bonificación por retiro voluntario, tuvieren a la fecha de hacerse efectiva la renuncia voluntaria 10 o más años de servicio, continuos o discontinuos, en las instituciones mencionadas en el artículo 2º, y se encuentren afiliados al Sistema de Pensiones establecido en el decreto ley Nº 3.500, de 1980, y coticen o hubieren cotizado, según corresponda, en dicho sistema a través de una Administradora de Fondos de Pensiones, podrán acceder a una bonificación adicional.
-
-El requisito de antigüedad para los funcionarios señalados en el numeral 4 del artículo 2º, para efectos de la bonificación adicional, se computará a la fecha del cese de funciones por la obtención de la referida pensión.
 
 #### Artículo 23
 
@@ -362,25 +456,13 @@ Los beneficios otorgados son incompatibles con toda indemnización o bonificaci�
 
 Disposiciones transitorias
 
-#### Artículo primero
+#### Artículo PRIMERO
 
-transitorio.- Los ex funcionarios y ex funcionarias que habiéndose desempeñado en las instituciones señaladas en el artículo 2º de este reglamento, que hubieren cesado en funciones por renuncia voluntaria o por obtener pensión de vejez de conformidad con el decreto ley 3.500, de 1980, entre el 1 de julio de 2014 y el día 14 de junio de 2016, y que en dicho período hubieren cumplido 60 años de edad las mujeres y 65 años de edad los hombres, tendrán derecho a percibir sólo la bonificación por retiro voluntario y la bonificación adicional, siempre que cumplan los requisitos respectivos.
+(T).- Suprimido.
 
-Las postulaciones de los ex funcionarios y ex funcionarias para acceder a los beneficios señalados en el inciso anterior, se tramitarán en el primer proceso de postulación de asignación de cupos, siempre que hubieren postulado hasta el 28 de julio de 2016, según lo dispuesto en el inciso primero del artículo primero transitorio de la ley.
+#### Artículo SEGUNDO
 
-La institución ex empleadora deberá dictar una resolución fijando los beneficios a que tiene derecho el ex funcionario o ex funcionaria y el monto de los mismos, una vez que se le haya asignado un cupo.
-
-El pago de los beneficios a los ex funcionarios a que se refiere este artículo, se efectuará en el mes subsiguiente al de la total tramitación del acto administrativo que lo conceda, y según el valor de la Unidad de Fomento, correspondiente al último día del mes inmediatamente anterior al pago.
-
-#### Artículo segundo
-
-transitorio.- El primer proceso de postulación a que se refiere la letra (a), del inciso segundo del artículo 8º se regirá por los siguientes plazos:
-
-1. El plazo dispuesto en el inciso segundo del artículo 10 será de 10 días hábiles siguientes al cierre del proceso de postulación de asignación de cupos.
-
-2. El plazo dispuesto en el inciso tercero del artículo 10 será de 5 días hábiles siguientes al cierre del proceso de postulación de asignación de cupos.
-
-3. El plazo para dictar la resolución de que trata el inciso primero del artículo 12 será de 10 días hábiles, contados desde el término del plazo señalado en el Nº 1 del presente artículo.
+(T).- Suprimido.
 
 Anótese, tómese razón y publíquese.- MARIO FERNÁNDEZ BAEZA, Vicepresidente de la República.- Carmen Castillo Taucher, Ministra de Salud.- Rodrigo Valdés Pulido, Ministro de Hacienda.
 
