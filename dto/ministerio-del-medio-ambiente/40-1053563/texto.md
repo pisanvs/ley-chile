@@ -50,7 +50,7 @@ f) Ley: Ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
 
 g) Modificación de proyecto o actividad: Realización de obras, acciones o medidas tendientes a intervenir o complementar un proyecto o actividad, de modo tal que éste sufra cambios de consideración. Se entenderá que un proyecto o actividad sufre cambios de consideración cuando:
 
-g.1. Las partes, obras o acciones tendientes a intervenir o complementar el proyecto o actividad constituyen un proyecto o actividad listado en el artículo 3 del presente Reglamento;
+g.1. Las partes, obras o acciones tendientes a intervenir o complementar el proyecto o actividad constituyen un proyecto o actividad listado en el artículo 3 del presente Reglamento, a excepción de las tipologías de proyecto o actividad de dicho listado por las que fue calificado originalmente, en cuyo caso se atenderá al resto de los numerales de este literal;
 
 g.2. Para los proyectos que se iniciaron de manera previa a la entrada en vigencia del sistema de evaluación de impacto ambiental, si la suma de las partes, obras o acciones tendientes a intervenir o complementar el proyecto o actividad de manera posterior a la entrada en vigencia de dicho sistema que no han sido calificados ambientalmente, constituye un proyecto o actividad listado en el artículo 3 del presente Reglamento. Para los proyectos que se iniciaron de manera posterior a la entrada en vigencia del sistema de evaluación de impacto ambiental, si la suma de las partes, obras y acciones que no han sido calificadas ambientalmente y las partes, obras o acciones tendientes a intervenirlo o complementarlo, constituyen un proyecto o actividad listado en el artículo 3 del presente Reglamento;
 
@@ -112,7 +112,7 @@ a.5. La ejecución de obras o actividades que impliquen alteración de las carac
 
 b) Líneas de transmisión eléctrica de alto voltaje y sus subestaciones.
 
-b.1. Se entenderá por líneas de transmisión eléctrica de alto voltaje aquellas líneas que conducen energía eléctrica con una tensión mayor a veintitrés kilovoltios (23 kV).
+b.1. Se entenderá por líneas de transmisión eléctrica de alto voltaje a aquellas líneas que conduzcan energía eléctrica con una tensión mayor a veintitrés kilovoltios (23 kV) y cuyo trazado presente una longitud superior a dos kilómetros (2 km).
 
 b.2. Se entenderá por subestaciones de líneas de transmisión eléctrica de alto voltaje aquellas que se relacionan a una o más líneas de transporte de energía eléctrica y que tienen por objeto mantener el voltaje a nivel de transporte.
 
@@ -122,9 +122,7 @@ d) Reactores y establecimientos nucleares e instalaciones relacionadas.
 
 d.1. Se entenderá por establecimiento nuclear las dependencias en las que se procesan, manipulan, utilizan, almacenan, tratan o disponen materiales que contengan nucleídos fisionables en una concentración y purezas tales que, por sí solos o en combinación con otras sustancias, sean capaces de producir un proceso sostenido de fisión nuclear, salvo el uranio natural y el uranio empobrecido.
 
-Se entenderá por instalaciones relacionadas, las instalaciones radiactivas ubicadas dentro de un
-
-establecimiento nuclear.
+Se entenderá por instalaciones relacionadas, las instalaciones radiactivas ubicadas dentro de un establecimiento nuclear.
 
 e) Aeropuertos, terminales de buses, camiones y ferrocarriles, vías férreas, estaciones de servicio, autopistas y los caminos públicos que puedan afectar áreas protegidas.
 
@@ -140,7 +138,7 @@ e.4. Se entenderá por terminales de ferrocarriles aquellos recintos que se dest
 
 e.5. Se entenderá por vía férrea aquella línea de rieles que se habilite para el desplazamiento de trenes urbanos e interurbanos y las estaciones para embarque y desembarque de pasajeros o de carga. Se exceptuarán las vías o líneas férreas al interior de faenas industriales o mineras.
 
-e.6. Se entenderá por estaciones de servicio los locales destinados al expendio de combustibles líquidos o gaseosos para vehículos motorizados u otros usos, sea que presten o no otro tipo de servicios, cuya capacidad de almacenamiento sea igual o superior a doscientos mil litros (200.000 L).
+e.6. Se entenderá por estaciones de servicio los locales destinados al expendio de combustibles líquidos o gaseosos para vehículos motorizados u otros usos, sea que presten o no otro tipo de servicios, cuya capacidad de almacenamiento sea igual o superior a ochocientos cincuenta mil litros (850.000 L).
 
 e.7. Se entenderá por autopistas a las vías diseñadas con dos o más pistas unidireccionales por calzada separadas físicamente por una mediana, diseñadas para una velocidad de circulación igual o superior a ciento veinte kilómetros por hora (120 km/h), con prioridad absoluta al tránsito, con control total de los accesos, segregadas físicamente de su entorno y que se conectan a otras vías a través de enlaces.
 
@@ -166,7 +164,7 @@ g.1.2. Proyectos de equipamiento que correspondan a predios y/o edificios destin
 
 a) superficie construida igual o mayor a cinco mil metros cuadrados (5.000 m²);
 
-b) superficie predial igual o mayor a veinte mil metros cuadrados (20.000 m²);
+b) superficie predial a intervenir igual o mayor a veinte mil metros cuadrados (20.000 m²);
 
 c) capacidad de atención, afluencia o permanencia simultánea igual o mayor a ochocientas (800) personas;
 
@@ -178,11 +176,9 @@ g.2. Se entenderá por proyectos de desarrollo turístico aquellos que contemple
 
 a) superficie construida igual o mayor a cinco mil metros cuadrados (5.000 m²);
 
-b) superficie predial igual o mayor a quince mil metros cuadrados (15.000 m²);
+b) superficie predial a intervenir igual o mayor a quince mil metros cuadrados (15.000 m²);
 
-c) capacidad de atención, afluencia o permanencia simultánea igual o mayor a
-
-trescientas (300) personas;
+c) capacidad de atención, afluencia o permanencia simultánea igual o mayor a trescientas (300) personas;
 
 d) cien (100) o más sitios para el estacionamiento de vehículos;
 
@@ -206,9 +202,11 @@ h.1.4. Que consulten la construcción de edificios de uso público con una capac
 
 h.2. Se entenderá por proyectos industriales aquellas urbanizaciones y/o loteos con destino industrial de una superficie igual o mayor a veinte hectáreas (20 ha); o aquellas instalaciones industriales que generen una emisión diaria esperada de algún contaminante causante de la saturación o latencia de la zona, producido o generado por alguna(s) fuente(s) del proyecto o actividad, igual o superior al cinco por ciento (5%) de la emisión diaria total estimada de ese contaminante en la zona declarada latente o saturada, para ese tipo de fuente(s).
 
-i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas, comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos, turba o greda.
+i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas, comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos o greda.
 
 i.1. Se entenderá por proyectos de desarrollo minero aquellas acciones u obras cuyo fin es la extracción o beneficio de uno o más yacimientos mineros y cuya capacidad de extracción de mineral es superior a cinco mil toneladas mensuales (5.000 t/mes).
+
+Se exceptúan aquellos proyectos que, contando con una resolución de calificación ambiental favorable y vigente para la disposición de residuos masivos mineros, contemplen reprocesamiento de relaves dentro de la faena minera en operación o la valorización de residuos masivos mineros, siempre que cumplan con alguna de las siguientes circunstancias: a) Que se trate de reprocesamiento de relaves frescos; o b) Que las acciones u obras para el reprocesamiento o valorización de residuos masivos mineros contemplen una capacidad inferior al 25% de la capacidad nominal autorizada para el procesamiento de minerales.
 
 i.2. Se entenderá por prospecciones al conjunto de obras y acciones a desarrollarse con posterioridad a las exploraciones mineras, conducentes a minimizar las incertidumbres geológicas, asociadas a las concentraciones de sustancias minerales de un proyecto de desarrollo minero, necesarias para la caracterización requerida y con el fin de establecer los planes mineros en los cuales se base la explotación programada de un yacimiento, que consideren cuarenta (40) o más plataformas, incluyendo sus respectivos sondajes, tratándose de las Regiones de Arica y Parinacota a la Región de Coquimbo, o veinte (20) o más plataformas, incluyendo sus respectivos sondajes, tratándose de las Regiones de Valparaíso a la Región de Magallanes y Antártica Chilena, incluida la Región Metropolitana de Santiago.
 
@@ -226,7 +224,7 @@ i.5.2 Tratándose de extracciones en un cuerpo o curso de agua, el volumen total
 
 i.5.3 Tratándose de extracciones de arena en playa, entendiéndose por ésta aquella porción de territorio comprendida entre la línea de baja y alta marea, la extracción sea igual o superior a cincuenta mil metros cúbicos (50.000 m3) durante la vida útil del proyecto.
 
-i.6. Se entenderá que toda extracción de turba tiene características industriales. Se entenderá por turba aquella mezcla de restos vegetales en distintos grados de descomposición, presentes en las turberas y que se diferencia de los vegetales que se encuentran en su superficie dentro de los cuales se incluye, entre otros, al musgo sphagnum, y con los que se conecta funcionalmente.
+i.6. Eliminado.
 
 j) Oleoductos, gasoductos, ductos mineros u otros análogos.
 
@@ -296,9 +294,9 @@ Se entenderá por proyectos de explotación intensiva aquellos que impliquen la 
 
 Asimismo, se entenderá por proyectos de cultivo de recursos hidrobiológicos aquellas actividades de acuicultura, organizadas por el hombre, que tienen por objeto engendrar, procrear, alimentar, cuidar y cebar recursos hidrobiológicos a través de sistemas de producción extensivos y/o intensivos, que se desarrollen en aguas continentales, marítimas y/o estuarinas o requieran de suministro de agua, y que contemplen:
 
-n.1. Una producción anual igual o mayor a quinientas toneladas (500 t) y/o superficie de cultivo igual o superior a cien mil metros cuadrados (100.000 m²) tratándose de macroalgas;
+n.1. Una producción anual igual o mayor a mil toneladas (1.000 t) y/o superficie de cultivo igual o superior a cien mil metros cuadrados (100.000 m²) tratándose de macroalgas;
 
-n.2. Una producción anual igual o mayor a trescientas toneladas (300 t) y/o superficie de cultivo igual o superior a sesenta mil metros cuadrados (60.000 m²), tratándose de moluscos filtradores; o una producción anual igual o superior a cuarenta toneladas (40 t) tratándose de otras especies filtradoras, a través de un sistema de producción extensivo;
+n.2. Una producción anual igual o mayor a mil toneladas (1.000 t) y/o superficie de cultivo igual o superior a sesenta mil metros cuadrados (60.000 m²), tratándose de moluscos filtradores y otras especies filtradoras, a través de un sistema de producción extensivo;
 
 n.3. Una producción anual igual o superior a treinta y cinco toneladas (35 t) tratándose de equinodermos, crustáceos y moluscos no filtradores, peces y otras especies, a través de un sistema de producción intensivo;
 
@@ -312,35 +310,35 @@ Asimismo, se entenderá por plantas procesadoras de recursos hidrobiológicos, l
 
 ñ.1. Producción, disposición o reutilización de sustancias tóxicas que se realice durante un semestre o más, en una cantidad igual o superior a diez mil kilogramos diarios (10.000 kg/día).
 
-Capacidad de almacenamiento de sustancias tóxicas en una cantidad igual o superior a treinta mil kilogramos (30.000 kg). Se entenderá por sustancias tóxicas en general, aquellas señaladas en la Clase 6, División 6.1 de la NCh 382. Of 2004, o aquella que la reemplace.
+Capacidad de almacenamiento de sustancias tóxicas en una cantidad igual o superior a dos mil quinientas toneladas (2.500 t).
 
-Los residuos se considerarán sustancias tóxicas si se encuentran en alguna de las hipótesis de los artículos 12, 13 y 14 del Decreto Supremo N° 148, de 2003, del Ministerio de Salud, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9. de este artículo.
+Se entenderá por sustancias tóxicas en general, aquellas señaladas en la Clase 6, División 6.1 de la NCh 382:2013. Los residuos se considerarán sustancias tóxicas si se encuentran en alguna de las hipótesis de los artículos 12, 13 y 14 del decreto supremo Nº 148, de 2003, del Ministerio de Salud, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9. de este artículo.
 
 ñ.2. Producción, disposición o reutilización de sustancias explosivas, que se realice durante un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a dos mil quinientos kilogramos diarios (2.500 kg/día).
 
-Capacidad de almacenamiento de sustancias explosivas en una cantidad igual o superior a dos mil quinientos kilogramos (2.500 kg).
+Capacidad de almacenamiento de sustancias explosivas en una cantidad igual o superior a treinta toneladas (30 t).
 
-Se entenderá por sustancias explosivas aquellas señaladas en la Clase 1, División 1.1 de la NCh 382. Of 2004, o aquella que la reemplace.
+Se entenderá por sustancias explosivas aquellas señaladas en la Clase 1, División 1.1 de la NCh 382:2013.
 
 ñ.3. Producción, disposición o reutilización de sustancias inflamables que se realice durante un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a ochenta mil kilogramos diarios (80.000 kg/día).
 
-Capacidad de almacenamiento de sustancias inflamables en una cantidad igual o superior a ochenta mil kilogramos (80.000 kg).
+Capacidad de almacenamiento de sustancias inflamables en una cantidad igual o superior a mil toneladas (1.000 t).
 
-Se entenderá por sustancias inflamables en general, aquellas señaladas en la Clase 2, División 2.1, 3 y 4 de la NCh 382. Of 2004, o aquella que la reemplace.
+Se entenderá por sustancias inflamables, aquellas sustancias o mezclas que clasifiquen como gases inflamables, aerosoles inflamables, líquidos inflamables, sólidos pirofóricos, sustancias y mezclas que experimentan calentamiento espontáneo, sustancias o mezclas que en contacto con el agua desprenden gases inflamables, según los criterios establecidos en el Título III del artículo primero del decreto supremo Nº 57, de 2019, del Ministerio de Salud y el Ministerio del Medio Ambiente, o aquel que lo reemplace. En tanto no entre en vigencia la aplicación del citado decreto para las mezclas, se deberá aplicar la clasificación señalada en la Clase 2, División 2.1, 3 y 4 de la NCh 382:2013.
 
-Los residuos se considerarán sustancias inflamables si presentan cualquiera de las propiedades señaladas en el artículo 15 del decreto supremo Nº 148, que aprueba reglamento sanitario sobre manejo de residuos peligrosos, de 2003, del Ministerio de Salud, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9 del presente artículo
+Los residuos se considerarán sustancias inflamables si presentan cualquiera de las propiedades señaladas en el artículo 15 del decreto supremo Nº 148, de 2003, del Ministerio de Salud, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9 del presente artículo.
 
 ñ.4. Producción, disposición o reutilización de sustancias corrosivas o reactivas que se realice durante un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior a ciento veinte mil kilogramos diarios (120.000 kg/día).
 
-Capacidad de almacenamiento de sustancias corrosivas o reactivas en una cantidad igual o superior a ciento veinte mil kilogramos (120.000 kg).
+Capacidad de almacenamiento de sustancias corrosivas o reactivas en una cantidad igual o superior a dos mil quinientas toneladas (2.500 t).
 
-Se entenderá por sustancias corrosivas, aquellas señaladas en la Clase 8 de la NCh 382. Of 2004, o aquella que la reemplace.
+Se entenderá por sustancias corrosivas, aquellas sustancias o mezclas que clasifiquen como corrosivas para metales o corrosivas cutáneas, según los criterios establecidos en el Título III del artículo primero del decreto supremo Nº 57, de 2019, del Ministerio de Salud y el Ministerio del Medio Ambiente, o aquel que lo reemplace. En tanto no entre en vigencia la aplicación del citado decreto para las mezclas, se deberá aplicar la clasificación señalada en la Clase 8 de la NCh 382:2013.
 
-Se entenderá por sustancias reactivas, aquellas señaladas en la Clase 5 de la NCh 382. Of 2004, o aquella que la reemplace.
+Se entenderá por sustancias reactivas, aquellas sustancias o mezclas que clasifiquen como líquidos o sólidos comburentes o peróxidos orgánicos, según los criterios establecidos en el Título III del artículo primero del decreto supremo Nº 57, de 2019, del Ministerio de Salud y el Ministerio del Medio Ambiente, o aquel que lo reemplace. En tanto no entre en vigencia la aplicación del citado decreto para las mezclas, se deberá aplicar la clasificación señalada en la Clase 5 de la NCh 382:2013.
 
-Los residuos se considerarán sustancias corrosivas o reactivas si se encuentran en las hipótesis de los artículos 17 o 16 del Decreto Supremo N° 148, de 2003, del Ministerio de Salud, respectivamente, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9. de este artículo.
+Los residuos se considerarán sustancias corrosivas o reactivas si se encuentran en las hipótesis de los artículos 17 o 16 del decreto supremo Nº 148, de 2003, del Ministerio de Salud, respectivamente, o aquel que lo reemplace. Para efectos de su disposición o reutilización, deberá estarse a lo dispuesto en la letra o.9. de este artículo.
 
-ñ.5. Transporte por medios terrestres de sustancias tóxicas, explosivas, inflamables, corrosivas o reactivas que se realice durante un semestre o más, en una cantidad igual o superior a cuatrocientas toneladas diarias (400 t/día), entendiéndose por tales a las sustancias señaladas en las letras anteriores.
+ñ.5. Transporte por medios terrestres de sustancias tóxicas, explosivas, inflamables, corrosivas o reactivas que se realice durante un semestre o más, en una cantidad igual o superior a dos mil quinientas toneladas diarias (2.500 t/día), entendiéndose por tales a las sustancias señaladas en las letras anteriores.
 
 ñ.6. Producción, almacenamiento, disposición o reutilización de sustancias radioactivas, en la forma de material sólido radiactivo dispersable o de cápsulas no selladas de material radiactivo en cantidades superiores a los límites A2 del Decreto Supremo Nº 12, de 1985, del Ministerio de Minería, o superiores a 5000 A1 para materiales sólidos no dispersable o cápsulas selladas que contengan material radiactivo, y que se realice con una periodicidad mayor o igual que una vez a la semana y por un periodo mayor a seis meses.
 
@@ -350,39 +348,55 @@ Se entenderá por transporte por medios terrestres de sustancias radiactivas, el
 
 o) Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de tratamiento de agua o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos.
 
+Para efectos de este literal se entenderá por tratamiento las actividades en las que se vean modificadas las características químicas y/o biológicas de las aguas o residuos.
+
+Se entenderá por eliminación a todo procedimiento cuyo objetivo es disponer en forma definitiva o destruir un residuo en instalaciones autorizadas.
+
 Se entenderá por proyectos de saneamiento ambiental al conjunto de obras, servicios, técnicas, dispositivos o piezas que correspondan a:
 
 o.1. Sistemas de alcantarillado de aguas servidas que atiendan a una población igual o mayor a diez mil 10.000) habitantes.
 
 o.2. Sistemas de alcantarillado o evacuación de aguas lluvias, cuando se interconecten con redes de alcantarillado de aguas servidas que atiendan a una población igual o mayor a diez mil (10.000) habitantes.
 
-o.3. Sistemas de agua potable que comprendan obras que capten y conduzcan agua desde el lugar de captación hasta su entrega en el inmueble del usuario, considerando los procesos intermedios, y que atiendan a una población igual o mayor a diez mil (10.000) habitantes.
+o.3. Sistemas de agua potable que comprendan obras que capten y conduzcan agua desde el lugar de captación hasta su entrega en el inmueble del usuario, considerando los procesos intermedios, y que atiendan a una población igual o mayor a quince mil (15.000) habitantes.
 
-o.4. Plantas de tratamiento de aguas de origen domiciliario, que atiendan a una población igual o mayor a dos mil quinientos (2.500) habitantes.
+o.4. Plantas de tratamiento de aguas de origen domiciliario, que atiendan a una población igual o mayor a cinco mil (5.000) habitantes.
 
-o.5. Plantas de tratamiento y/o disposición de residuos sólidos de origen domiciliario, rellenos sanitarios, estaciones de transferencia y centros de acopio y clasificación que atiendan a una población igual o mayor a cinco mil (5.000) habitantes.
+o.5. Sistemas o plantas de tratamiento y/o eliminación de residuos sólidos de origen domiciliario, que cumplan al menos alguna de las siguientes condiciones:
+
+o.5.1. Sistemas o plantas de eliminación de residuos sólidos de origen domiciliario, incluidos los rellenos sanitarios, con una tasa de ingreso igual o mayor a treinta toneladas día (30 t/día).
+
+o.5.2. Sistemas o plantas de tratamiento de residuos sólidos de origen domiciliario, incluidas las plantas de compostaje y las de biodigestión, con una tasa de ingreso igual o mayor a cincuenta toneladas día (50 t/día).
+
+Se exceptúan las plantas o sistemas de compostaje que tratan exclusivamente residuos generados en el manejo de arbolado urbano, parques, áreas verdes y jardines.
+
+o.5.3. Estaciones de transferencia de residuos sólidos de origen domiciliario con una tasa de ingreso igual o mayor a cien toneladas día (100 t/día).
 
 o.6. Emisarios submarinos.
 
-o.7. Sistemas de tratamiento y/o disposición de residuos industriales líquidos, que cumplan al menos alguna de las siguientes condiciones:
+o.7 Sistemas de tratamiento y/o eliminación de residuos industriales líquidos que cumplan al menos alguna de las siguientes condiciones:
 
-o.7.1 Contemplen dentro de sus instalaciones lagunas de estabilización;
+o.7.1. Que sus efluentes sin tratar se usen para el riego, aspersión y humectación de terrenos o caminos, o se utilicen para el mismo efecto efluentes tratados, en cumplimiento de la respectiva norma de emisión, en una cantidad igual o mayor a cincuenta metros cúbicos día (50 m³/día);".
 
-o.7.2 Que sus efluentes se usen para el riego, infiltración, aspersión y humectación de terrenos o caminos;
+o.7.2. Traten un caudal de efluentes líquidos igual o superior a ciento sesenta metros cúbicos día (160 m³/día).
 
-o.7.3 Que den servicio de tratamiento a residuos provenientes de terceros, u
+o.8. Sistemas o plantas de tratamiento y/o eliminación de residuos industriales sólidos, que cumplan al menos alguna de las siguientes condiciones:
 
-o.7.4 Traten efluentes con una carga contaminante media diaria igual o superior al equivalente a las aguas servidas de una población de cien (100) personas, en uno o más de los parámetros señalados en la respectiva norma de descargas de residuos líquidos.
+o.8.1. Sistemas o plantas de eliminación de residuos industriales sólidos con una tasa de ingreso igual o superior a treinta toneladas día (30 t/día);
 
-o.8. Sistemas de tratamiento, disposición y/o eliminación de residuos industriales sólidos con una capacidad igual o mayor a treinta toneladas día (30 t/día) de tratamiento o igual o superior a cincuenta toneladas (50 t) de disposición.
+o.8.2. Sistemas o plantas de tratamiento de residuos industriales sólidos de origen animal o de lodos provenientes de plantas de tratamiento de aguas residuales de cualquier clase, con una tasa de ingreso igual o mayor a treinta toneladas día (30 t/día);
 
-o.9. Sistemas de tratamiento, disposición y/o eliminación de residuos peligrosos con una capacidad de veinticinco kilos día (25 kg/día) para aquellos que estén dentro de la categoría de "tóxicos agudos" según DS 148/2003 Ministerio de Salud; y de mil kilos día (1000 kg/día) para otros residuos peligrosos.
+o.8.3. Sistemas o plantas de tratamiento de residuos industriales sólidos, incluidas las plantas de compostaje y las de biodigestión, con una tasa de ingreso igual o mayor a cincuenta toneladas día (50 t/día).
 
-o.10 Sistemas de tratamiento, disposición y/o eliminación de residuos especiales provenientes de establecimientos de salud, con capacidad mayor o igual a doscientos cincuenta kilogramos diarios (250 kg/día).
+o.9 Sistemas de tratamiento y/o eliminación de residuos peligrosos, que cumplan al menos alguna de las siguientes condiciones:
+
+o.9.1. Sistemas o plantas de eliminación de residuos peligrosos con una tasa de ingreso igual o mayor de veinticinco kilos día (25 kg/día) para aquellos que estén dentro de la categoría de "tóxicos agudos" del decreto supremo Nº 148, de 2003, del Ministerio de Salud, o el que lo reemplace; y de una tonelada día (1 t/día) para los residuos peligrosos que presenten cualquier otra característica de peligrosidad;
+
+o.9.2. Sistemas o plantas de tratamiento de residuos que presenten alguna de las características de peligrosidad establecidas en el decreto supremo Nº 148, de 2003, del Ministerio de Salud, o el que lo reemplace, con una tasa de ingreso igual o mayor a cinco toneladas día (5 t/día).
+
+o.10 Sistemas de tratamiento o eliminación de residuos especiales provenientes de establecimientos de atención de salud, con una tasa de ingreso de recepción mayor o igual a 500 kilogramos diarios (500 kg/día).
 
 o.11 Reparación o recuperación de áreas que contengan contaminantes, que abarquen, en conjunto, una superficie igual o mayor a diez mil metros cuadrados (10.000 m²), salvo que se trate de medidas que formen parte de una propuesta de plan de reparación a que se refiere el artículo 43 de la Ley Orgánica de la Superintendencia del Medio Ambiente, cuyo texto fue fijado por el artículo segundo de la Ley Nº 20.417, caso en el cual se aplicará lo dispuesto en dicha disposición y en su Reglamento.
-
-Se entenderá por tratamiento las actividades en las que se vean modificadas las características químicas y/o biológicas de las aguas o residuos. Quedan excluidas expresamente las actividades relacionadas con la selección, segregación y manipulación de residuos sólidos que no contemplen reacciones químicas ni biológicas en sus procesos.
 
 p) Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas o en cualesquiera otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita.
 
@@ -1659,6 +1673,8 @@ d.4 Las mediciones, análisis y demás datos que los titulares deberán proporci
 d.5 La gestión, acto o faena mínima del proyecto o actividad que dé cuenta del inicio de su ejecución, de modo sistemático y permanente;
 
 d.6 Las fichas a que se refieren el literal l) del artículo 44 o el literal m) del artículo 56, según corresponda.
+
+d.7 Las tipologías del proyecto o actividad, así como las aplicables a sus partes, obras o acciones, de acuerdo al artículo 3 de este Reglamento.
 
 La Resolución de Calificación Ambiental podrá eximirse de lo señalado en la letra a), cuando la Comisión de Evaluación o el Director Ejecutivo, según sea el caso, apruebe íntegramente lo señalado en el Informe Consolidado de Evaluación al cual se refieren los artículos 44 y 56 según corresponda, y así se exprese en dicha resolución, el que será parte integrante de la resolución, para todos los efectos.
 
