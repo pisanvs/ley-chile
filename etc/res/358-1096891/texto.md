@@ -74,9 +74,9 @@ Departamento Jurídico
 
 1.- Iniciar las investigaciones infraccionales conforme al artículo 184 del Código Aeronáutico, resolver los asuntos que se promuevan durante su tramitación, formular cargos en el procedimiento administrativo, abrir términos probatorios si el infractor lo solicitare y, en general, dictar los actos necesarios para la formación del expediente y la mera sustanciación del procedimiento administrativo.
 
-2.- Iniciar las investigaciones infraccionales conforme al artículo 184 del Código Aeronáutico, formular cargos en el procedimiento administrativo y abrir términos probatorios si el infractor lo solicitare.
+2.- Iniciar las investigaciones infraccionales conforme al artículo 184 del Código Aeronáutico, resolver los asuntos que se promuevan durante su tramitación, formular cargos en el procedimiento administrativo, abrir términos probatorios si el infractor lo solicitare y, en general, dictar los actos necesarios para la formación del expediente y la mera sustanciación del procedimiento administrativo.
 
-3. Informar los requerimientos efectuados por Tribunales de Justicia y por el Ministerio Público.
+3.- Informar los requerimientos efectuados por Tribunales de Justicia y por el Ministerio Público.
 
 Conservador del Registro Nacional de Aeronaves
 
@@ -88,7 +88,7 @@ Disponer comisiones de servicio y cometidos funcionarios dentro del territorio n
 
 Departamento Prevención de Accidentes
 
-Dictar y firmar resoluciones exentas para iniciar las investigaciones administrativas de los accidentes e incidentes de aviación y nombrar a los investigadores correspondientes.
+Disponer el inicio y tramitación de las investigaciones de los accidentes e incidentes de aviación que ocurran a aeronaves civiles de cualquiera nacionalidad en territorio chileno y los que ocurran a aeronaves chilenas en aguas o territorios no sujetos a otra soberanía; observar o cooperar en la investigación de accidentes de aeronaves civiles chilenas que se realicen por otros Estados, cuando a éstos les corresponda esa investigación; nombrar a los investigadores correspondientes; y suscribir, conjuntamente con el investigador o los investigadores, el Informe Final, en el cual se registran los antecedentes del accidente o incidente, su respectivo análisis y se establecen las causas y/o factores contribuyentes, y se formulan las recomendaciones para fines de prevención.
 
 Departamento Seguridad Operacional
 
@@ -198,7 +198,7 @@ Subdepartamento Planificación y Control:
 
 1) Dictar resoluciones exentas sobre licencias médicas al personal del Departamento Aeródromos y Servicios Aeronáuticos.
 
-2) Adquirir, ejecutar actos y celebrar contratos en los términos previstos en la letra v) del artículo 3 de la ley N° 16.752 hasta 1.000 UTM y dictar resoluciones aprobando dichos contratos, entendiéndose incluida en esta facultad todo el proceso de propuesta pública, privada o trato directo, según correspondiere; dictar las resoluciones que justifiquen la necesidad de recurrir a uno u otro sistema de contratación y la adjudicación de los respectivos contratos.
+2) Adquirir, ejecutar actos y celebrar contratos en los términos previstos en la letra v) del artículo 3 de la ley Nº 16.752 hasta 1.000 UTM y dictar resoluciones aprobando dichos contratos, entendiéndose incluida en esta facultad todo el proceso de propuesta pública, privada o trato directo, según correspondiere; dictar las resoluciones que justifiquen la necesidad de recurrir a uno u otro sistema de contratación y la adjudicación de los respectivos contratos.
 
 3) Ejecutar los actos y celebrar los contratos que se requieran para conservación, reparación y mantención de los bienes fiscales muebles e inmuebles; aseo; jardines y otros servicios auxiliares y dictar resoluciones aprobando dichos contratos hasta 1.000 UTM, entendiéndose incluida en esta facultad todo el proceso de propuesta pública, privada o trato directo, según correspondiere; dictar las resoluciones que justifiquen la necesidad de recurrir a uno u otro sistema de contratación y la adjudicación de los respectivos contratos.
 
