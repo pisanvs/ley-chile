@@ -28,9 +28,9 @@ Considerando:
 
 Resuelvo:
 
-1. Desígnese al Sr. Gonzalo Eduardo Arriaza Guíñez, cédula nacional de identidad N° 15.372.195-5, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de miembro titular del Comité para la Fijación de Límites a las Tasas de Intercambio.
+1. Desígnese a la Sra. Carola Moreno Valenzuela, cédula nacional de identidad N° 13.211.467-6, Coordinadora de Finanzas y Asuntos Internacionales del Ministerio de Hacienda, en calidad de miembro titular del Comité para la Fijación de Límites a las Tasas de Intercambio.
 
-2. Desígnese al Sr. Nickolas Mena Palma, cédula nacional de identidad N° 16.945.490-6, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de miembro subrogante del Comité para la Fijación de Límites a las Tasas de Intercambio.
+2. Desígnese al Sr. Gonzalo Eduardo Arriaza Guíñez, cédula nacional de identidad N° 15.372.195-5, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de miembro subrogante del Comité para la Fijación de Límites a las Tasas de Intercambio.
 
 3. Desígnese al Sr. Borja Bernasconi Muñoz, cédula nacional de identidad N° 19.455.904-6, Asesor de la Coordinación de Mercado de Capitales del Ministerio de Hacienda, en calidad de secretario técnico del Comité para la Fijación de Límites a las Tasas de Intercambio. Sin perjuicio de lo anterior, y para casos excepcionales de ausencia o impedimento temporal, este será reemplazado, para la sesión respectiva, por otro funcionario del Ministerio de Hacienda, designado por el Coordinador de Mercado de Capitales del Ministerio de Hacienda por comunicación escrita a los integrantes del Comité en la cual se individualice a la persona reemplazante; o por acuerdo unánime de los miembros presentes en la sesión respectiva.
 
