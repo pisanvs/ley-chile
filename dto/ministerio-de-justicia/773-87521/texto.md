@@ -30,6 +30,10 @@ f) Para los menores de 10 años, la cédula de identidad tendrá siempre vencimi
 
 g) A las personas cuya fecha de nacimiento sea el 29 de febrero, para efectos del presente decreto, se les considerará como fecha de cumpleaños el día 28 de febrero del año correspondiente, en aquellos años en que no exista dicha fecha.
 
+h) Para los adultos mayores de la cuarta edad y aquellas personas mayores de sesenta años que se encuentren en situación de dependencia severa, debidamente certificadas por un centro de salud, las cédulas de identidad serán emitidas con una vigencia de veinte años. Estas cédulas de identidad tendrán como único propósito acreditar la identidad del titular dentro del territorio de la República de Chile.
+
+En el caso que dichas personas quieran utilizar sus cédulas de identidad como documento de viaje internacional deberán renovarla si han transcurrido más de diez años desde su emisión en el Servicio de Registro Civil e Identificación.
+
 #### Artículo 2º
 
 Sin perjuicio de lo dispuesto en el artículo precedente, en caso de emitirse cédulas de identidad para chilenos y chilenas, utilizando los mismos datos biométricos del titular que obren completos en poder del Servicio de Registro Civil e Identificación y hubieren sido capturados para la emisión de su última cédula de identidad vencida, aquéllas tendrán un período de vigencia de tres años. Este período de vigencia se calculará de la manera indicada en las reglas del artículo 1º, letras b) y g), según correspondiere.
