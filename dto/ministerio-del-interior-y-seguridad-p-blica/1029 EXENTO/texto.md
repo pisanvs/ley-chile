@@ -14,29 +14,13 @@ Decreto:
 
 #### Artículo primero
 
-Autorízase la circulación en horario inhábil y en días sábados en la tarde, domingos y festivos, exento del uso de disco fiscal, al vehículo asignado al uso del Fiscal Regional de la Región de Antofagasta, que se individualiza:
-
-Vehículo Station Wagon
-
-Marca Hyundai
-
-Modelo Santa Fe GLS 2.4
-
-Año 2017
-
-Motor G4KEHA920152
-
-Chasis KMHSU81CDHU768186
-
-Color Plateado Plata Titanio
-
-I.N.R.V.M. JKFF.46-8
-
-Patente JKFF-46
+Derogado.
 
 #### Artículo segundo
 
 Derogado.
+
+> **Nota.** El Artículo Segundo del Decreto 369 Exento, Interior, publicado el 13.04.2021, deja sin efecto la presente norma en lo referente a las autorizaciones para circulación en horario inhábil, dispuestas mediante el presente artículo, en lo que se refiere a las autorizaciones para los vehículos asignados al uso de la Fiscalía de la Región de Arica y Parinacota.
 
 #### Artículo tercero
 
