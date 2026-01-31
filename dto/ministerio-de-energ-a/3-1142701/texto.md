@@ -64,7 +64,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 13°
 
-El plazo de inicio de la construcción de la minicentral en comento se iniciará dentro de un plazo máximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura pública el decreto supremo mediante el cual se otorgue la concesión eléctrica solicitada, y tendrán un plazo de ejecución de 40 meses, según las etapas que se indican en el siguiente cronograma:
+El plazo de inicio de la construcción de la minicentral en comento se iniciará dentro de un plazo máximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura pública el decreto supremo mediante el cual se otorgue la concesión eléctrica solicitada, y tendrán un plazo de ejecución de cuarenta y dos meses, según las etapas que se indican en el siguiente cronograma:
 
 #### Artículo 14º
 
