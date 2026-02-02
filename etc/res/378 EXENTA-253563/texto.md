@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo :
 
-1.- Autorízase a los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros efectuados con taxis colectivos urbanos en la ciudad de Talca, para desviarse de sus trazados habituales, utilizando las alternativas viales que se indican:
+1.- Autorízase a los servicios inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros efectuados con taxis colectivos urbanos en la ciudad de Talca, para desviarse de sus trazados habituales utilizando las alternativas viales que se indican:
 
 Las alternativas descritas podrán utilizarse únicamente para eludir vías congestionadas cuando los vehículos mencionados hubieran completado su capacidad, y siempre que ningún pasajero se oponga.
 
