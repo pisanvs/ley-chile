@@ -818,7 +818,7 @@ Cuadro Nº 1. Operacionalización del indicador según sus dimensiones: cuestion
 
 Cuadro Nº 2. Operacionalización del indicador según sus dimensiones: cuestionarios de padres y apoderados
 
-------------------------------------------------------
+------
 
 13 Este porcentaje es determinado por la Agencia de Calidad, según los criterios técnicos establecidos en un protocolo.
 
@@ -846,7 +846,7 @@ Este procedimiento es equivalente para el cálculo del indicador para padres y a
 
 Fórmula Nº 3. Cálculo del indicador para padres y apoderados
 
---------------------------------------------------------
+----------------------------------------------------
 
 15 En caso que se agreguen nuevas pruebas y/o grados de rendición, el indicador incluirá las respuestas de los cuestionarios de estudiantes, y padres y apoderados, correspondientes.
 
@@ -1014,179 +1014,231 @@ Para calcular el indicador de asistencia escolar por ciclo es necesario agregar 
 
 Los detalles sobre cómo será ponderado y agregado este indicador para calcular el índice de Ordenación de los establecimientos corresponde a la metodología de Ordenación elaborada por la Agencia de Calidad.
 
-Retención escolar
+Permanencia escolar
 
 DEFINICIÓN
 
-El indicador de retención escolar considera la capacidad que tiene un establecimiento educacional para lograr la permanencia de sus estudiantes en el sistema de educación formal.
+El indicador de Permanencia escolar considera la capacidad de un establecimiento educacional para lograr la continuidad de las trayectorias educativas de sus estudiantes en el sistema de educación formal.
 
-El indicador utilizado evalúa el porcentaje de estudiantes por establecimiento que permanece en el sistema escolar durante un año determinado, definiendo a este grupo como aquellos estudiantes matriculados menos los desertores de un determinado establecimiento.
+El indicador evalúa el porcentaje de estudiantes por establecimiento que permanece en el sistema escolar durante un año determinado, definiendo a este grupo como aquellas y aquellos estudiantes matriculados, menos los que son desvinculados en un determinado establecimiento.
 
-Para que un estudiante sea considerado desertor se debe cumplir la siguiente condición:
+Para que un estudiante se considere desvinculada(o), se debe cumplir con la siguiente condición:
 
-- Un estudiante es considerado desertor si luego de
+. Un estudiante se considera desvinculada(o) si, luego de estar matriculado en un establecimiento, no aparece en los registros escolares(1) por dos años consecutivos, no termina un año escolar y no se matricula en todo el año siguiente.
 
-estar matriculado en un establecimiento, no aparece
+. Se resguarda que la no aparición en los registros escolares no sea atribuible a situaciones que no impliquen desvinculación, tales como fallecimiento, cambio de número de identificador, salida del país, entre otras causas.
 
-en los registros escolares23 por dos años consecutivos,
+Para que la desvinculación de una o un estudiante sea atribuible a un establecimiento se deben cumplir las siguientes condiciones:
 
-o no termina un año escolar y no se matricula en todo
+. La desvinculación es atribuible solo al último establecimiento en que estuvo matriculado(a).
 
-el año siguiente.
+. La desvinculación es atribuible a un establecimiento solo si ha cursado al menos un año
 
-Para que la deserción de un estudiante sea atribuible a un establecimiento se deben cumplir las siguientes condiciones:
-
-- La deserción de un estudiante es atribuible sólo al
-
-último establecimiento en que estuvo matriculado.
-
-- La deserción de un estudiante es atribuible a un
-
-establecimiento sólo si ha cursado al menos un año
-
-completo en él.
+completo en éste.
 
 CONSTRUCCIÓN DEL INDICADOR
 
-La metodología de construcción del indicador de retención escolar incluye dos etapas: La recolección de datos y el proceso de cálculo del indicador.
+La metodología de construcción del indicador de Permanencia escolar incluye dos etapas: la
+
+CONSTRUCCIÓN DEL INDICADOR
+
+La metodología de construcción del indicador de Permanencia escolar incluye dos etapas: la recolección de datos y el proceso de cálculo del indicador.
 
 1. Recolección de datos
 
-La construcción del indicador de retención escolar se basa en la información anual reportada por el Sistema de Información General de Estudiantes (SIGE) sobre la permanencia de los estudiantes en el sistema escolar. Esta plataforma entrega información a nivel individual sobre quiénes han cursado o abandonado el sistema escolar durante un determinado año.
+La construcción del indicador de Permanencia escolar se basa en la información anual reportada por el Sistema de Información General de Estudiantes (SIGE) sobre la permanencia de las y los estudiantes en el sistema escolar. Esta plataforma entrega información individual de quienes han cursado o abandonado el sistema escolar durante un determinado año.
+
+Adicionalmente, se debe incluir información que permita el seguimiento de las y los estudiantes. Esta información debe provenir de fuentes confiables y objetivas, ser estandarizada y estar disponible para todos los establecimientos. Algunas posibles fuentes de información son bases de datos del Registro Civil e Identificación que registran estudiantes fallecidos, de la Policía de Investigaciones de Chile con estudiantes que han abandonado el país, y el seguimiento del id provisional del Mineduc, entre otras variables.
 
 2. Cálculo del indicador
 
-El indicador de retención escolar se calcula de modo separado para el ciclo de enseñanza media y para el ciclo de enseñanza básica dado que la Ordenación también se realiza de forma independiente para cada ciclo.
+El indicador de Permanencia escolar se calcula de modo separado para Educación Básica y para Educación Media, dado que la Ordenación también se realiza de forma independiente para cada nivel educacional.
 
-El cálculo del indicador de retención escolar consta de los siguientes pasos:
+____________
 
-2.1 Cálculo del indicador por ciclo del establecimiento
+(1) Los registros escolares incluyen Educación parvularia, Educación básica, Educación media (científico-humanista, técnico-profesional y educación artística), Educación de personas jóvenes y adultas, Escuelas y Aulas hospitalarias y Educación especial.
 
-El indicador de retención se calcula tomando en cuenta a todos los estudiantes de un establecimiento. Por esta razón, el indicador de retención se calcula directamente para cada ciclo del establecimiento sin ser necesario calcular primero el indicador por grado.
+Para calcular el indicador de Permanencia escolar de cada nivel educacional se deben usar los siguientes criterios:
 
-Para calcular el indicador de retención primero es necesario calcular la tasa de retención por ciclo del establecimiento. La tasa de retención corresponde, tal como lo describe la fórmula Nº 1, a la proporción de estudiantes que matriculados en un determinado establecimiento para un año dado, no ha desertado según lo estipulado en las condiciones antes descritas.
+- El indicador debe calcularse en una escala de 0 a 100 puntos, en la que 100 puntos representan el nivel más alto de permanencia escolar. Al construir la escala se debe resguardar la comparabilidad de ésta con los años anteriores.
 
-Fórmula Nº 1. Cálculo de la tasa de retención por ciclo del establecimiento24
+- Los análisis estadísticos deben realizarse usando técnicas que permitan obtener resultados válidos y confiables. Estás técnicas serán definidas según los criterios técnicos protocolizados por la Agencia de Calidad, resguardando la comparabilidad con los resultados de años anteriores.
+
+El cálculo del indicador de Permanencia escolar consta de los siguientes pasos:
+
+2.1 Cálculo del indicador por nivel educacional del establecimiento
+
+El indicador de Permanencia escolar se calcula tomando en cuenta a todos los estudiantes de un establecimiento.
+
+Además, el indicador de permanencia se debe calcular para cada nivel educacional del establecimiento, sin necesidad de calcular primero el indicador por curso.
+
+Para calcular el indicador de Permanencia escolar, primero es necesario calcular la tasa de permanencia por nivel educacional del establecimiento. La tasa de permanencia corresponde, como se describe en la Fórmula N° 1, a la proporción de estudiantes que, matriculadas(os) en un determinado establecimiento para un año dado, no se han desvinculado según lo estipulado en las condiciones antes descritas.
+
+Fórmula N° 1. Cálculo de la tasa de Permanencia por nivel educacional del establecimiento(²)
+
+____________________________________________
+
+Pt-1: Tasa de permanecia en el año t-1
+
+Mt-2: Número de estudiantes matriculadas(os) en t-2
+
+Dt-1: Desvinculadas (os) en el año t-1
+
+____________________________________________
 
 2.2 Reescalamiento del indicador
 
-La tasa de retención corresponde al porcentaje de estudiantes retenidos por un establecimiento, sin embargo, para este indicador se estandarizaron los valores originales de retención para alcanzar una dispersión mayor y de esta forma discriminar mejor entre establecimientos con distintos niveles de retención.
+La tasa de Permanencia corresponde al porcentaje de estudiantes que permanecen en un establecimiento; sin embargo, para este indicador la fórmula estandariza los valores originales para alcanzar una dispersión mayor y, de esta forma, discriminar mejor entre establecimientos con distintos niveles de permanencia.
 
---------------------------------------------------------------
+El modo de calcular el indicador se describe en la Fórmula N° 2, donde r corresponde al valor original de permanencia de cada establecimiento, y min(r) y max(r) corresponden al índice de permanencia mínimo y máximo, respectivamente, entre los establecimientos. Ambos valores quedarán fijos el primer año de medición, para permitir la comparabilidad en el tiempo. Así, por ejemplo, un establecimiento con permanencia similar a la tasa mínima del sistema tendrá un indicador cercano a 0, y un establecimiento con la tasa máxima del sistema tendrá un indicador de 100.
 
-23 Los registros escolares incluyen educación básica, educación media (científico humanista, técnico profesional y artística), educación de adultos, educación especial, educación de cárceles y educación parvularia.
+____________
 
-24 El cálculo del indicador de retención escolar tiene un desfase de un año dado que es necesario aguardar un año completo para comprobar si un alumno es efectivamente desertor.
+(2) El cálculo del indicador de Permanencia escolar tiene un desfase de un año, pues es necesario aguardar un año completo para comprobar si un alumno es efectivamente desvinculado.
 
-El modo de calcular el indicador se describe en la fórmula Nº 2, donde r corresponde al valor original de retención de cada establecimiento, y min(r) y max(r) corresponden al índice de retención mínimo y al índice de retención máximo entre los establecimientos. Ambos valores quedarán fijos en base al primer año de medición para permitir la comparabilidad en el tiempo. Así, por ejemplo, un establecimiento con retención similar a la tasa mínima del sistema tendrá un indicador cercano a 0 y el con la tasa máxima del sistema tendrá un indicador de 100.
+Fórmula N° 2 Reescalamiento(3)
 
-Fórmula Nº 2. Reescalamiento
+____________________________________________
 
-Los detalles sobre cómo será ponderado y agregado este indicador para calcular el índice de Ordenación de los establecimientos corresponde a la metodología de Ordenación elaborada por la Agencia de Calidad.
+Pe : Indicador de Permanencia escolar reescalada, por nivel educacional de establecimiento
 
-Equidad de género
+r: Valor original de permanencia de cada establecimiento
+
+min(r): Tasa de permanencia mínima de los establecimientos
+
+max(r): Tasa de permanencia máxima de los establecimientos
+
+____________________________________________
+
+Los detalles sobre cómo será ponderado y agregado este indicador para calcular el índice de Ordenación de los establecimientos, corresponden a la metodología de Ordenación elaborada por la Agencia de Calidad.
+
+Equidad de género en aprendizajes
 
 DEFINICIÓN
 
-El indicador de equidad de género evalúa el logro equitativo de resultados de aprendizaje obtenidos por hombres y mujeres en establecimientos mixtos.
+El indicador de Equidad de género en aprendizajes evalúa el logro equitativo de resultados de aprendizaje obtenidos por mujeres y hombres en establecimientos mixtos.
 
-Se estima mediante el cálculo de la brecha entre los promedios que obtienen hombres y mujeres en las pruebas SIMCE de Lectura y Matemática, para luego identificar la situación de cada establecimiento respecto de las brechas promedio a nivel nacional.
+Se estima mediante el cálculo de la brecha entre los promedios que obtienen hombres y mujeres en las pruebas Simce de Lectura y Matemática, considerando la tendencia de la brecha durante los últimos tres años.
 
 CONSTRUCCIÓN DEL INDICADOR
 
-La metodología de construcción del indicador de equidad de género incluye dos etapas: la recolección de datos y el proceso de cálculo del indicador.
+La metodología de construcción del indicador de Equidad de género en aprendizajes incluye dos etapas: la recolección de datos y el proceso de cálculo del indicador.
 
 1. Recolección de datos
 
-La información para la construcción del indicador de equidad de género se obtiene de los resultados de las pruebas SIMCE de cada año, para todos los grados evaluados en las pruebas de Lectura y Matemática.
+La información para la construcción del indicador de equidad de género en aprendizajes se obtiene de los resultados de las pruebas Simce de cada año, para todos los cursos evaluados en las pruebas de Lectura y Matemática.
 
-El indicador se calcula sólo para establecimientos que cumplan con dos condiciones. Por un lado, deben ser establecimientos con matrícula mixta (con estudiantes hombres y mujeres). A su vez, sólo se consideran los establecimientos que tienen, como mínimo, cuatro casos válidos para hombres y para mujeres en cada prueba SIMCE considerada26. Lo anterior se debe a que se requieren, al menos, cuatro pruebas de cada género para obtener una medida confiable y representativa del establecimiento.
+El indicador se calcula sólo para establecimientos que cumplan con dos condiciones. Primero, que tengan matrícula mixta (hombres y mujeres). Segundo, sólo se consideran los establecimientos que tienen, como mínimo, cuatro casos válidos de hombres y de mujeres en cada prueba Simce considerada(4). Lo anterior se debe a que se requieren al menos cuatro pruebas para hombres y cuatro para mujeres, con el fin de resguardar la confiabilidad de la medición del indicador.
 
 2. Cálculo del indicador
 
-El indicador de equidad de género, al igual que los Otros Indicadores, se calcula de modo separado para el ciclo de enseñanza media y para el ciclo de enseñanza básica dado que la Ordenación también se realiza de forma independiente para cada ciclo.
+El indicador de equidad de género en aprendizajes se calcula de modo separado para Educación Básica y para Educación Media, pues la Ordenación también se realiza de forma independiente para cada nivel educacional.
 
-Para calcular el indicador de equidad de género por ciclo del establecimiento es necesario primero establecer un parámetro con el cual se comparen las brechas de cada establecimiento. En este marco, primero se mide la brecha por cada establecimiento, para luego con esas brechas construir el parámetro nacional, y finalmente categorizar los establecimientos según ese parámetro.
+Para calcular el indicador de Equidad de género en aprendizajes por nivel educacional del establecimiento, es necesario cuantificar las brechas entre los puntajes que obtienen mujeres y hombres de cada establecimiento en las pruebas Simce de Matemática y Lectura. Se incluyen brechas obtenidas en tres años consecutivos, que se ponderan para considerar si la trayectoria del establecimiento tiende a la disminución o al aumento de las brechas de género.
 
-----------------------------------------------------------
+Para calcular el indicador de Equidad de género en aprendizajes de cada nivel educacional se deben usar los siguientes criterios:
 
-25 Para calcular el mínimo y el máximo se eliminan el 1% peor y el 1% mejor de la distribución, de forma de sacar los casos extremos.
+- El indicador debe calcularse en una escala de 0 a 100 puntos, en la que 100 puntos representan la ausencia de brecha en los aprendizajes entre hombres y mujeres. Al construir la escala se debe resguardar la comparabilidad de ésta con los años anteriores.
 
-26 Las pruebas SIMCE consideradas para este efecto corresponden a evaluaciones rendidas en una asignatura, grado y año determinado.
+- Los análisis estadísticos deben realizarse usando técnicas que permitan obtener resultados válidos y confiables. Estas técnicas serán definidas según los criterios técnicos protocolizados por la Agencia de Calidad, resguardando la comparabilidad con los resultados de años anteriores.
 
-El cálculo del indicador de equidad de género consta de los siguientes pasos:
+____________
 
-2.1 Cálculo de la brecha por establecimiento en prueba SIMCE de Lectura y Matemática por grado
+(3) Para calcular el mínimo y el máximo se eliminan el 1% de peor distribución y el 1% de mejor distribución, de forma de excluir los casos extremos.
 
-El primer paso en la construcción del indicador de equidad de género es el cálculo del promedio y desviación estándar de las brechas entre hombres y mujeres en cada establecimiento por asignatura evaluada para cada grado.
+(4) Las pruebas Simce consideradas para este efecto corresponden a evaluaciones rendidas en una asignatura, curso y año determinado.
 
-La brecha se define como la diferencia entre los resultados promedios obtenidos por mujeres y hombres, tal como se especifica en la fórmula Nº 1. Este procedimiento se hace por separado para las pruebas de Lectura y Matemática en todos los grados en los que se evalúan estas asignaturas.
+El cálculo del indicador de Equidad de género, en aprendizajes para cada nivel educacional del establecimiento, consta de los siguientes pasos:
 
-Fórmula Nº 1. Brecha de resultados entre hombres y mujeres
+2.1. Cálculo de la brecha ajustada por establecimiento en prueba Simce de Lectura y Matemática por curso para cada año que se utiliza en el indicador.
 
-Brecha = Prom_mujeres_prueba - Prom_hombres_prueba
+Para la construcción del indicador de Equidad de género en aprendizajes se debe partir por el cálculo directo de la brecha entre puntajes de mujeres y hombres, para cada asignatura y en cada curso en cada uno de los tres años incluidos en el indicador. Para esto, se calculan los promedios obtenidos en la prueba Simce respectiva por las mujeres y los hombres del establecimiento.
 
-Prom_mujeres_prueba: Es el promedio en la prueba SIMCE de las mujeres de un establecimiento
+La brecha se define como la diferencia entre los resultados promedio obtenidos por mujeres y por hombres, como se especifica en la Fórmula N° 1. Este procedimiento se realiza por separado en las pruebas de Lectura y Matemática para cada curso en el que se evalúan estas asignaturas.
 
-Prom_hombres_prueba: Es el promedio en la prueba SIMCE de los hombres de un establecimiento
+Fórmula N° 1. Brecha de resultados entre mujeres y hombres por asignatura y curso para un año
 
-2.2 Cálculo de las brechas aceptables a nivel nacional
+____________________________________________
 
-Tras el cálculo de la brecha de género de todos los establecimientos por asignatura y grado, se calcula el promedio y la desviación estándar de las brechas de todos los establecimientos. A partir de los promedios y desviaciones estándar nacionales, se calcula un rango de brecha aceptable para cada asignatura y grado, dejando ésta fija en base al primer año de su evaluación. Por esto, sólo se considerará que no hay equidad en las oportunidades entregadas en aquellos casos en que se discrimina de forma marcada. Los límites de este rango corresponderán a la diferencia entre la brecha promedio a nivel nacional y una desviación estándar en cada prueba. El límite inferior corresponde a la brecha promedio menos una desviación estándar y el límite superior corresponde a la brecha promedio más una desviación estándar. Estos dos límites enmarcan el rango aceptable.
+Brecha = X - M XH
 
-En la fórmula Nº 2 se define matemáticamente el rango aceptable recién descrito para una prueba de lectura de cualquier grado. Este procedimiento es el mismo para la asignatura de matemática y para todos los grados considerados.
+XM : Promedio en la prueba Simce de las mujeres de un establecimiento.
 
-Establecimientos fuera del rango aceptable y que satisfacen la fórmula Nº 3 serán considerados como inequitativos debido a que presentan resultados desfavorables para las mujeres. Asimismo, los establecimientos fuera del rango aceptable y que satisfacen la fórmula Nº 4 también son inequitativos al presentar resultados desfavorables para los hombres.
+XH : Promedio en la prueba Simce de los hombres de un establecimiento.
 
-Los rangos de referencia para cada asignatura y grado se calculan en base a los resultados de las pruebas SIMCE del año anterior a la primera Ordenación y se mantienen fijos por seis años. Es decir, cada rango de brecha aceptable se fija en una ocasión y posteriormente las brechas de cada establecimiento se comparan con dichos rangos.
+____________________________________________
 
-Categorización de los establecimientos
+Posteriormente, para cada año por separado, se calcula la brecha ajustada por cada asignatura y cada curso, lo que implica realizar una corrección a la brecha directa considerando el tamaño de los grupos comparados y la desviación estándar de los puntajes Simce obtenidos por aquellos, como se especifica en la Fórmula N° 2.
 
-Se define una regla para la categorización de establecimientos según su equidad de género. Esta regla se construye a partir de los tres últimos resultados anuales en las pruebas de Lectura y Matemática si la prueba es anual y las dos últimas si la aplicación es cada dos años.
+Fórmula N° 2. Brecha ajustada de resultados entre mujeres y hombres por asignatura
 
-Para categorizar los establecimientos se observa su comportamiento durante los últimos tres años como un todo. Se considera adecuado distinguir las oportunidades que otorga un establecimiento como inequitativas con respecto al género según un historial de resultados y no en base al rendimiento de un solo año.
+y curso para un año
 
-A continuación se describe la regla de categorización propuesta. En primer lugar, para cada una de las asignaturas y grados evaluados, se asignan a los establecimientos los siguientes valores:
+____________________________________________
 
-- 1 punto al establecimiento que presenta diferencias
+2.2. Cálculo de la brecha ajustada por curso
 
-desfavorables para las mujeres (cuando la brecha del
+Para calcular la brecha ajustada para un determinado curso se deben hacer las agregaciones de las brechas, primero por año y luego por asignatura.
 
-establecimiento para esa asignatura y grado se
+En primer lugar, para cada establecimiento se calcula la brecha ponderada en cada asignatura de un curso, considerando el comportamiento de las brechas de los últimos tres años. Para ello, se ponderan las brechas por año asignando un mayor peso al último, por ser considerado el más relevante en la trayectoria, como se muestra en la Fórmula N° 3. Se debe realizar este proceso por separado para cada curso y prueba del establecimiento.
 
-encuentra bajo el límite inferior).
+Fórmula N° 3. Cálculo de brecha ponderada(5)
 
-- 0 puntos al establecimiento que el valor de su brecha
+____________________________________________
 
-está en el intervalo aceptable o no tiene datos
+Año 3: Última aplicación Simce
 
-para la prueba.
+Año 2: Año anterior a la última aplicación Simce
 
-- -1 punto al establecimiento que presenta diferencias
+Año 1: Dos años anteriores a la última aplicación Simce
 
-desfavorables para los hombres (cuando la brecha del
+____________________________________________
 
-establecimiento para esa asignatura y grado se
+Posteriormente, se calcula la brecha para cada curso agregando las brechas ponderadas obtenidas para Lectura y Matemática en un curso. Para tomar en consideración que en un curso de un establecimiento pueden observarse brechas a favor de hombres o de mujeres, dependiendo de la asignatura. Para obtener la brecha-curso se calcula el promedio simple del valor absoluto de las brechas ponderadas para cada asignatura, como se muestra en la Fórmula N° 4.
 
-encuentra sobre el límite superior).
+Fórmula N° 4. Cálculo de Brecha Curso
 
-En segundo lugar, para determinar el nivel de equidad de género en cada grado se suman, por asignatura, los puntajes asignados previamente de los dos o tres últimos años (dependiendo de la frecuencia de la prueba) y en tercer lugar, se define, de acuerdo a la tabla Nº 1, el nivel de equidad de género (Bajo, Regular o Adecuado)27.
+____________________________________________
 
-Tabla Nº 1. Clasificación de cada grado según brecha de género
+2.3. Reescalamiento
 
-A cada una de estas categorías, definidas para cada grado evaluado, se le asigna un valor. Con el fin de mantener la escala utilizada para los Otros Indicadores, los puntajes asignados van de 0 a 100 puntos.
+Para ser consistente con los otros indicadores, se lleva la brecha por curso a una escala de 0 a 100. Para ello se debe invertir la escala, de modo que la ausencia de brecha corresponda a 100 puntos. Además, para que la escala considere la existencia de una brecha de género a nivel nacional, el primer año en que se aplica la metodología de cálculo, se fija el promedio nacional de las brechas de los establecimientos por curso, en 75 puntos, ya que éste constituye un valor suficientemente alto en la escala, para no perjudicar a los establecimientos que se encuentran en la media nacional, pero que transparenta a su vez que aún no se ha logrado la equidad de género en los aprendizajes.
 
-Tabla Nº 2. Asignación de valores según clasificación de cada grado
+Las fórmulas N° 5 y N° 6 explicitan los pasos para realizar el reescalamiento.
 
-2.3 Cálculo del indicador por ciclo del establecimiento
+Fórmula N° 5: Primer paso de reescalamiento Equidad de género en aprendizajes(6)
 
-Para poder calcular el indicador de equidad de género por ciclo del establecimiento es necesario agregar el indicador de equidad de género de cada grado que rinde las pruebas SIMCE de Lectura y Matemática. Al realizar esta agregación se calcula un promedio ponderado en función de los estudiantes que han rendido el SIMCE en cada grado con el fin de que el indicador final refleje debidamente la distribución de los estudiantes.
+____________________________________________
 
----------------------------------------------------------
+Ind_eg_1: Valor obtenido en el primer paso del reescalamiento del Indicador de Equidad de Género en Aprendizajes de un curso de un establecimiento
 
-27 Cuando la prueba es bianual la tabla a utilizar es la misma, aunque no habrá establecimientos con puntaje 3 o -3.
+Min(brecha_curso): Mínimo valor de la brecha curso obtenido a nivel nacional por los establecimientos del curso analizado
 
-Los detalles sobre cómo será ponderado y agregado este indicador para calcular el índice de Ordenación de los establecimientos corresponde a la metodología de Ordenación elaborada por la Agencia de Calidad.
+Max(brecha_curso): Máximo valor de la brecha curso obtenido a nivel nacional por los establecimientos del curso analizado
+
+____________________________________________
+
+(5) Cuando la prueba se aplica cada dos años, las ponderaciones son proporcionales a las últimas dos mediciones.
+
+(6) Para calcular min(brecha curso), y max(brecha curso) se puede utilizar el percentil 1 y 99 de la brecha, respectivamente, con el objeto de eliminar valores extremos. En la misma línea, valores resultantes menores que cero o mayores que 100 serán truncados a estos límites.
+
+Fórmula N° 6. Segundo paso de reescalamiento Equidad de género en aprendizajes(7)
+
+____________________________________________
+
+Ind_eg: Valor reescalado del Indicador Equidad de Género en Aprendizajes de un curso de un establecimiento
+
+Ind_eg_1: Valor obtenido en el primer paso del reescalamiento del Indicador de Equidad de Género en Aprendizajes de un curso de un establecimiento
+
+Promedio_lb(Ind_eg_1): Promedio de los valores "Ind_eg_1" obtenido a nivel nacional por los establecimientos del curso analizado durante el primer año en que se calcula el indicador y que se establece como línea base (lb) para las futuras comparaciones
+
+____________________________________________
+
+2.4. Cálculo del indicador por nivel educacional del establecimiento
+
+Para calcular el indicador de Equidad de género en aprendizajes por nivel educacional del establecimiento, es necesario agregar este indicador para cada curso que rinde las pruebas Simce de Lectura y Matemática. Al realizar esta agregación se calcula un promedio ponderado en función de quienes han rendido el Simce en cada curso, con el fin de que el indicador final refleje debidamente la distribución de las y los estudiantes del establecimiento.
+
+Los detalles sobre cómo será ponderado y agregado este indicador para calcular el índice de Ordenación de los establecimientos, corresponden a la metodología de Ordenación elaborada por la Agencia de Calidad.
 
 Titulación técnico profesional
 
