@@ -16,13 +16,7 @@ Resuelvo:
 
 1.- Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros en calzada central del eje Av. Vicuña Mackenna - Av. Concha y Toro, de las comunas de Santiago, Providencia, Ñuñoa, La Florida y Puente Alto, en los tramos y sentidos de tránsito que se indican en el siguiente cuadro:
 
-Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control, y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados. Asimismo, podrán circular taxis colectivos urbanos cuyos trazados autorizados contemplen la circulación en cualquier tramo del eje Av. Vicuña Mackenna - Av. Concha y Toro.
-
-De igual forma, entre el 1 de marzo de 2023 y el 30 de abril de 2023, podrán circular por estas pistas, en ambos sentidos de tránsito, taxis colectivos urbanos inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros, siempre y cuando se cumplan las siguientes condiciones:
-
-a) Que se trate de vehículos correspondientes a servicios cuyos trazados autorizados contemplen la circulación en cualquier tramo del eje Av. Vicuña Mackenna - Av. Concha y Toro.
-
-b) Que los vehículos no realicen detenciones para tomar y/o dejar pasajeros en dichas pistas, en sus paraderos, ni en ningún sector del corredor de transporte público".
+Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control, y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados. Asimismo, podrán circular taxis colectivos urbanos y buses de servicios de transporte público rural de pasajeros, cuyos trazados autorizados contemplen la circulación en cualquier tramo del eje Av. Vicuña Mackenna - Av. Concha y Toro.
 
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de Señalización de Tránsito.
 
