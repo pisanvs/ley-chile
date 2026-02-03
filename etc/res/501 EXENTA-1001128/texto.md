@@ -14,11 +14,11 @@ NCh2018/1.Of2009 Tuberías y accesorios para instalaciones de cables eléctricos
 
 NCh2631/1.Of2009 Incertidumbre - Parte 1: Guía para la expresión de la incertidumbre de medida en la calibración.
 
-NCh2797.Of2009 Acuerdos de Producción Limpia (APL) - Especificaciones.
+NCh2797.Of2009 Anulada y reemplazada.
 
 NCh2807.Of2009 Acuerdos de Producción Limpia (APL) - Seguimiento y control, evaluación de la conformidad y certificación.
 
-NCh2825.Of2009 Acuerdos de Producción Limpia (APL) - Requisitos para los auditores y procedimiento de la auditoría de evaluación de la conformidad.
+NCh2825.Of2009 Anulada y reemplazada.
 
 NCh3157.Of2009 Envases - Marcas táctiles de peligro - Requisitos.
 

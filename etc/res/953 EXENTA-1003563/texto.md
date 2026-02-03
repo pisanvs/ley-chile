@@ -8,23 +8,29 @@ Resuelvo:
 
 Decláranse Normas Oficiales de la República de Chile las siguientes Normas Chilenas con su respectivo código y título de identificación:
 
-NCh2018/2.Of2009 Tuberías y accesorios para
+NCh2018/2.Of2009 Tuberías y accesorios
 
-instalaciones de cables eléctricos
+para instalaciones
 
-- Parte 2: Requisitos particulares
+de cables eléctricos
 
-- Tuberías no metálicas rígidas y
+- Parte 2: Requisitos
 
-tuberías no metálicas curvables y
+particulares
 
-sus accesorios.
+- Tuberías no metálicas
 
-NCh2796.Of2009 Acuerdos de Producción Limpia
+rígidas y tuberías
 
-(APL) - Vocabulario.
+no metálicas curvables
 
-NCh-ISO 9001.Of2009 Sistemas de gestión de la calidad
+y sus accesorios.
+
+NCh2796.Of2009 Anula y reemplaza.
+
+NCh-ISO 9001.Of2009 Sistemas de gestión
+
+de la calidad
 
 - Requisitos.
 
