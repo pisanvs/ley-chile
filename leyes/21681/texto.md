@@ -12,7 +12,7 @@ DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS
 
 #### Artículo 1
 
-Créase hasta el 31 de diciembre de 2026 el Fondo de Emergencia Transitorio por Incendios, en adelante el "Fondo", destinado a financiar, de acuerdo a las disposiciones de esta ley, un programa fiscal por el máximo equivalente a $800.000.000 miles de pesos, con el objeto de solventar todo tipo de gastos para enfrentar los efectos y atender las necesidades derivadas de los incendios que afectaron a la Región de Valparaíso durante el mes de febrero del año 2024.
+Créase hasta el 31 de diciembre de 2028 el Fondo de Emergencia Transitorio por Incendios, en adelante el "Fondo", destinado a financiar, de acuerdo a las disposiciones de esta ley, un programa fiscal por el máximo equivalente a $800.000.000 miles de pesos, con el objeto de solventar todo tipo de gastos para enfrentar los efectos y atender las necesidades derivadas de los incendios que afectaron a la Región de Valparaíso durante el mes de febrero del año 2024.
 
 Los recursos del Fondo se destinarán exclusivamente a financiar las siguientes iniciativas en la Región de Valparaíso:
 
@@ -38,7 +38,7 @@ Los recursos del Fondo se destinarán exclusivamente a financiar las siguientes 
 
 11. Reposición, reconstrucción y habilitación de infraestructura pública dañada.
 
-Estos gastos se podrán ejecutar a través de programas creados para este efecto en las leyes de Presupuestos de los años 2024, 2025 y 2026, mediante decreto dictado en la forma dispuesta en el artículo 70 del decreto ley Nº 1.263, de 1975, orgánico de Administración Financiera del Estado, o en leyes específicas para esos programas, e incluyen acciones ejecutadas a través de municipalidades y personas jurídicas sin fines de lucro. Asimismo, estos recursos se podrán reasignar por decreto del Ministerio de Hacienda sin que le resulten aplicables a dichas reasignaciones el artículo 4º de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024, o el que le reemplace en las leyes de Presupuestos de los años siguientes hasta que el Fondo se extinga, y el inciso segundo del artículo 26 del señalado decreto ley Nº 1.263, de 1975.
+Estos gastos se podrán ejecutar a través de programas creados para este efecto en las leyes de Presupuestos de los años 2024, 2025, 2026, 2027 y 2028 mediante decreto dictado en la forma dispuesta en el artículo 70 del decreto ley Nº 1.263, de 1975, orgánico de Administración Financiera del Estado, o en leyes específicas para esos programas, e incluyen acciones ejecutadas a través de municipalidades y personas jurídicas sin fines de lucro. Asimismo, estos recursos se podrán reasignar por decreto del Ministerio de Hacienda sin que le resulten aplicables a dichas reasignaciones el artículo 4º de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024, o el que le reemplace en las leyes de Presupuestos de los años siguientes hasta que el Fondo se extinga, y el inciso segundo del artículo 26 del señalado decreto ley Nº 1.263, de 1975.
 
 Las acciones implementadas o financiadas con cargo al Fondo no se extenderán por más tiempo que el de la existencia del Fondo, salvo que se trate de proyectos de inversión identificados con anterioridad a su extinción, que requieran mantenerse para su ejecución. No se podrá girar ni comprometer financiamiento con cargo al Fondo después de la fecha de su extinción.
 
@@ -48,7 +48,7 @@ En la ejecución de los recursos del Fondo se priorizarán las inversiones o pro
 
 El Fondo se financiará con los aportes provenientes de activos disponibles del Tesoro Público.
 
-El Fondo se extinguirá de pleno derecho el 31 de diciembre de 2026 y, antes de esa fecha, por el completo agotamiento de los recursos que lo integren.
+El Fondo se extinguirá de pleno derecho el 31 de diciembre de 2028 y, antes de esa fecha, por el completo agotamiento de los recursos que lo integren.
 
 El saldo que exista en la cuenta al tiempo de la extinción del Fondo se transferirá al Fondo de Estabilización Económica y Social, creado en virtud de la facultad conferida en el artículo 10 de la ley Nº 20.128, sobre responsabilidad fiscal.
 
@@ -94,7 +94,7 @@ De la misma manera, y por el mismo periodo, los directores de las empresas estra
 
 #### Artículo 8
 
-Las acciones implementadas o financiadas con cargo al Fondo podrán eximirse de la aplicación de los artículos 23 y 24 de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024; de la aplicación de los artículos 23, 24, 25 y 26 de la ley N° 21.722, de Presupuestos del Sector Público correspondiente al año 2025; o los que los reemplacen en las leyes de Presupuestos de los años siguientes hasta que el Fondo se extinga. En estos casos, asimismo, el Ministerio de Obras Públicas podrá intervenir infraestructura vial y de canales de propiedad privada, previa autorización del o los adquirentes.
+Las acciones implementadas o financiadas con cargo al Fondo podrán eximirse de la aplicación de los artículos 23 y 24 de la ley Nº 21.640, de Presupuestos del Sector Público correspondiente al año 2024; de la aplicación de los artículos 23, 24, 25 y 26 de la ley N° 21.722, de Presupuestos del Sector Público correspondiente al año 2025; de la aplicación de los artículos 23, 24, 25 y 26 de la ley N° 21.796, de Presupuestos del Sector Públco correspondiente al año 2026 o los que los reemplacen en las leyes de Presupuestos de los años siguientes hasta que el Fondo se extinga. En estos casos, asimismo, el Ministerio de Obras Públicas podrá intervenir infraestructura vial y de canales de propiedad privada, previa autorización del o los adquirentes.
 
 #### Artículo 9
 
@@ -186,7 +186,7 @@ Se contabilizarán con cargo al Fondo de Emergencia Transitorio por Incendios aq
 
 #### Artículo tercero
 
-En la formulación del presupuesto del sector público para los años 2025 y 2026, el Ejecutivo:
+En la formulación del presupuesto del sector público para los años 2025, 2026, 2027 y 2028, el Ejecutivo:
 
 1. Identificará claramente en el presupuesto aquellas iniciativas, incluyendo proyectos de inversión, que se financiarán con cargo al Fondo de Emergencia Transitorio por Incendios, y especificarán una estimación de los montos comprometidos y períodos de ejecución para cada una de ellas. Si el financiamiento fuera mixto (con cargo al presupuesto regular y al precitado Fondo), deberá indicarse de manera separada el monto correspondiente a cada una de las referidas fuentes de financiamiento.
 

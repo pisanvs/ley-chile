@@ -540,6 +540,8 @@ Las universidades estatales señaladas en el inciso primero informarán mediante
 
 Las universidades estatales deberán mantener a disposición permanente del público, a través de sus sitios electrónicos, el acto administrativo señalado en el inciso segundo de este artículo, así como los antecedentes actualizados, al menos una vez al mes, de las funcionarias y los funcionarios que estén afectos a la modalidad regulada en este artículo, de acuerdo a lo dispuesto en el artículo 7° del artículo primero de la ley Nº20.285.
 
+> **Nota.** El artículo 18 de la ley 21806, publicada el 05.02.2026, dispone prorrogar la facultad otorgada a los rectores y rectoras de las universidades estatales establecida en el presente artículo hasta el 1 de marzo de 2027, la que no se aplicará a los funcionarios que se determinen para asegurar la continuidad del servicio. La universidad estatal deberá implementar un sistema remoto de registro horario, sin fraccionar la jornada diaria. Asimismo, deberán informar durante mayo de 2026 y 2027 a la Comisión Especial Mixta de Presupuestos del Congreso Nacional, la evaluación de la modalidad incluyendo resultados y medios de verificación remiriendo copia a la Dirección de Presupuestos y a la Subsecretaría de Educación Superior, y mantener en sus sitios electrónicos el acto administrativo respectivo y la nómina actualizada del personal afecto a esta modalidad.
+
 #### Artículo 66
 
 Durante el año 2023, facúltase a las jefas y los jefes superiores de servicio de las subsecretarías y de los servicios públicos dependientes de los ministerios o que se relacionen con el Presidente de la República a través de ellos, para eximir del control horario de jornada de trabajo hasta el porcentaje de la dotación máxima del personal del respectivo Servicio que se indican en los incisos tercero y cuarto, cualquiera sea su régimen laboral, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio.
@@ -568,7 +570,7 @@ Los servicios deberán mantener a disposición permanente del público, a travé
 
 #### Artículo 67
 
-Facúltase, durante los años 2023 al 2026, a las jefas y a los jefes superiores de los servicios que se indican a continuación, para eximir del control horario de jornada de trabajo hasta el porcentaje de la dotación máxima del personal del Servicio que se fije por resolución de la Dirección de Presupuestos, cualquiera sea su régimen laboral, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio. Las instituciones afectas al presente artículo serán las siguientes:
+Facúltase, durante los años 2023 al 1 de marzo de 2027, a las jefas y a los jefes superiores de los servicios que se indican a continuación, para eximir del control horario de jornada de trabajo hasta el porcentaje de la dotación máxima del personal del Servicio que se fije por resolución de la Dirección de Presupuestos, cualquiera sea su régimen laboral, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio. Las instituciones afectas al presente artículo serán las siguientes:
 
 1. Subsecretaría de Relaciones Económicas Internacionales.
 
@@ -660,13 +662,13 @@ Las instituciones señaladas en el inciso primero deberán respetar el derecho a
 
 Las jefas y los jefes superiores de servicio señalados en el inciso primero implementarán un mecanismo propositivo, informativo y consultivo con las asociaciones de funcionarios constituidas de acuerdo a la ley Nº19.296 que existan en su institución para efectos de la aplicación de este artículo.
 
-Las instituciones señaladas en el inciso primero informarán mediante oficio, durante el mes de marzo de los años 2024, 2025, 2026 y 2027, a la Comisión Especial Mixta de Presupuestos del Congreso Nacional y a la Dirección de Presupuestos, la evaluación del año inmediatamente anterior de la aplicación de la modalidad dispuesta en este artículo, incluyendo resultados y medios de verificación.
+Las instituciones señaladas en el inciso primero informarán mediante oficio, durante el mes de mayo de los años 2026 y 2027, a la Comisión Especial Mixta de Presupuestos del Congreso Nacional y a la Dirección de Presupuestos, la evaluación del año inmediatamente anterior de la aplicación de la modalidad dispuesta en este artículo, incluyendo resultados y medios de verificación.
 
 Los servicios señalados en el inciso primero deberán mantener a disposición permanente del público, a través de sus sitios electrónicos, el acto administrativo a que se refiere el inciso segundo del artículo 45 de la ley Nº21.126 y los antecedentes actualizados, al menos una vez al mes, de los funcionarios que estén afectos a la modalidad regulada en este artículo, de acuerdo a lo dispuesto en el artículo 7 del artículo primero de la ley Nº20.285.
 
 #### Artículo 68
 
-Facúltase, durante los años 2023 al 2026, al Consejo Fiscal Autónomo para eximir del control horario de jornada de trabajo hasta el porcentaje de la dotación máxima del personal de dicho servicio determinado conforme al inciso tercero, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio.
+Facúltase, durante los años 2023 al 1 de marzo de 2027, al Consejo Fiscal Autónomo para eximir del control horario de jornada de trabajo hasta el porcentaje de la dotación máxima del personal de dicho servicio determinado conforme al inciso tercero, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio.
 
 Lo dispuesto en el inciso anterior, no se aplicará a los funcionarios y funcionarias según lo defina el jefe superior de servicio, con el objeto de asegurar la continuidad de los servicios de la institución.
 
@@ -678,7 +680,7 @@ A las funcionarias y los funcionarios afectos a esta disposición se les deberá
 
 El jefe de servicio implementará un mecanismo propositivo, informativo y consultivo con las asociaciones de funcionarios constituidas de acuerdo a la ley Nº19.296 que existan en su institución para efectos de la aplicación de este artículo.
 
-La institución señalada en el inciso primero informará mediante oficio a la Comisión Especial Mixta de Presupuestos del Congreso Nacional, durante los meses de marzo de los años 2024 al 2027, sobre la evaluación de la aplicación de la modalidad dispuesta en este artículo.
+La institución señalada en el inciso primero informará mediante oficio a la Comisión Especial Mixta de Presupuestos del Congreso Nacional, durante los meses de mayo de los años 2024 al 2027, sobre la evaluación de la aplicación de la modalidad dispuesta en este artículo.
 
 El servicio señalado en el inciso primero deberá mantener a disposición permanente del público, a través de su sitio electrónico, los antecedentes actualizados, al menos una vez al mes, de los funcionarios que estén afectos a la modalidad regulada en este artículo, de acuerdo a lo dispuesto en el artículo 7° del artículo primero de la ley Nº20.285.
 

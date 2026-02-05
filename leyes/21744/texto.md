@@ -492,9 +492,9 @@ b) Fijar los grados de la Escala Única de Sueldos, iniciales y superiores, de l
 
 c) Determinar la fecha de entrada en vigencia de la planta de directivos que fije, establecer la dotación máxima de personal del Servicio y señalar la fecha en que dicho Servicio entrará en funcionamiento.
 
-d) Crear una asignación especial para el personal que desempeñe labores de guardaparques, en condiciones de aislamiento, de conformidad con lo establecido en el artículo séptimo transitorio de la presente ley, para lo cual podrá fijar las condiciones para su otorgamiento, percepción, pago, extinción y cualquier otra norma necesaria para su adecuada aplicación.
+d) Crear una asignación especial para el personal que desempeñe labores de guardaparques, en condiciones de aislamiento, de conformidad con lo establecido en el artículo séptimo transitorio de la presente ley, para lo cual podrá fijar las condiciones para su otorgamiento, percepción, pago, extinción y cualquier otra norma necesaria para su adecuada aplicación. Dicha asignación se otorgará a los guardaparques antes señalados, que se desempeñen en la Corporación Nacional Forestal, en el Servicio Nacional Forestal o en el Servicio de Biodiversidad y Áreas Protegidas.
 
-A los funcionarios que sean traspasados desde la Corporación Nacional Forestal al Servicio, de conformidad con lo establecido en el artículo primero transitorio, no les será aplicable lo dispuesto en el artículo 13 de la presente ley, y deberán regirse en dichas materias por las normas vigentes al momento del traspaso.
+A los funcionarios que sean traspasados desde la Corporación Nacional Forestal al Servicio, de conformidad con lo establecido en el artículo primero transitorio, no les será aplicable lo dispuesto en el artículo 15 de la presente ley, y deberán regirse en dichas materias por las normas vigentes al momento del traspaso.
 
 Sin perjuicio de lo anterior, los mencionados trabajadores podrán someterse de manera voluntaria e irrevocable a la regulación de dicho artículo, lo que deberá constar en el respectivo contrato de trabajo.
 

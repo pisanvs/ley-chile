@@ -1260,6 +1260,8 @@ Con todo, las demás entidades que se encuentren obligadas de conformidad con la
 
 Las autorizaciones otorgadas a las personas naturales y jurídicas para ejercer actividades de seguridad privada y que se encuentren vigentes al momento de la entrada en vigencia de esta ley, se mantendrán hasta la fecha de su vencimiento conforme con la legislación vigente a la época de su otorgamiento.
 
+Sin perjuicio de lo anterior, los vigilantes privados, guardias de seguridad, porteros, nocheros, rondines, conserjes en los casos que proceda u otros de similar carácter, mantendrán la vigencia de su última autorización obtenida conforme al decreto ley N° 3.607 y sus reglamentos complementarios, una vez vencida, por un máximo de seis meses contados desde la entrada en vigor de la presente ley, periodo dentro del cual deberán obtener la respectiva autorización. Esta norma no será aplicable a aquellas autorizaciones que vencieren después de este período, las que deberán regirse por lo dispuesto en el inciso precedente.
+
 Las nuevas autorizaciones, de conformidad a esta ley, continuarán siendo emitidas por las Prefecturas de Carabineros de Chile mientras no se encuentre en funcionamiento la plataforma informática, administrada por la Subsecretaría de Prevención del Delito e interconectada con las autoridades fiscalizadoras para emitir las certificaciones, de acuerdo a lo dispuesto en el artículo 60. Dicha plataforma deberá estar operativa en el plazo máximo de un año desde que entre en vigencia esta ley, fecha a partir de la cual la Subsecretaría de Prevención del Delito comenzará a emitir las autorizaciones correspondientes.
 
 #### Artículo cuarto

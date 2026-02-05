@@ -84,6 +84,8 @@ Serán clasificados en la categoría auxiliar los asistentes de la educación qu
 
 Para acceder a esta categoría se deberá contar con licencia de educación media.
 
+> **Nota.** El artículo 11 de la Ley 21544, Educación, publicada el 09.02.2023, declara, interpretando el inciso primero del presente artículo, que la categoría auxiliar de los asistentes de la educación incluye a las personas que realizan labores de transporte de estudiantes y de alimentación.
+
 ### Párrafo 3º
 
 Del desarrollo laboral de los asistentes de la educación
@@ -148,9 +150,9 @@ a) Ser ciudadano.
 
 b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere procedente.
 
-c) Tener salud compatible con el desempeño del cargo.
+c) Tener salud compatible con el desempeño del cargo; lo que se acreditará mediante certificación del Servicio de Salud correspondiente. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con la ley N° 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no podrá obstar el cumplimiento de este requisito.
 
-d) Contar con licencia de educación media o poseer título profesional o técnico exigido por la presente ley para el desempeño de la función correspondiente.
+d) Contar con licencia de educación media o poseer título profesional o técnico exigido por la presente ley para el desempeño de la función correspondiente. Para aquellos cargos regidos por esta ley en los cuales se exija tener licencia de educación media, se entenderá que cumplen dicho requisito las personas con discapacidad mayores de 18 años que acrediten haber completado sus estudios en la modalidad de educación especial, de conformidad con lo dispuesto en el decreto N° 83, de 2015, del Ministerio de Educación, que aprueba criterios y orientaciones de adecuación curricular para estudiantes con necesidades educativas especiales de educación parvularia y educación básica o la normativa que lo reemplace.
 
 e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones.
 
@@ -358,15 +360,15 @@ e) Vencimiento del plazo del contrato.
 
 f) Obtención de jubilación, renta vitalicia o pensión de un régimen previsional, en relación con la función que desempeñen en el establecimiento.
 
-g) Salud irrecuperable o incompatible con el desempeño del cargo.
+g) Salud irrecuperable o incompatible con el desempeño del cargo. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con la ley Nº 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no configurará esta causal.
 
-h) Inhabilidad sobreviniente para desempeñarse como asistente de la educación, de acuerdo
-
-al artículo 3 de la ley N° 19.464.
+h) Inhabilidad sobreviniente para desempeñarse como asistente de la educación, de acuerdo al artículo 3 de la ley N° 19.464.
 
 Para efectos de la aplicación de la causal establecida en la letra g) de este artículo, el Director Ejecutivo del servicio sólo podrá considerar como salud incompatible con el desempeño del cargo, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, sin mediar declaración de salud irrecuperable. El Director Ejecutivo del servicio, para ejercer la facultad antes señalada, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del funcionario respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
 
 No se considerará para el cómputo de los seis meses señalado en el inciso anterior, las licencias otorgadas en los casos a que se refiere el artículo 115 del Estatuto Administrativo y el título II, del libro II, del Código del Trabajo.
+
+En caso de discapacidad sobreviniente, calificada y certificada según la ley N° 20.422, la evaluación que realice la Comisión de Medicina Preventiva e Invalidez en cumplimiento de lo establecido en el inciso segundo deberá considerar la condición de salud de la persona en relación con el cargo específico que desempeña, indicando si podrá continuar realizando las labores respectivas.
 
 Si se hubiere declarado irrecuperable la salud de un asistente, éste deberá retirarse del Servicio Local de Educación Pública, dentro del plazo de seis meses, contado desde la fecha en que se le notifique la resolución por la cual se declare su irrecuperabilidad. Si transcurrido este plazo el empleado no se retirare, procederá la declaración de vacancia del cargo.
 
@@ -505,6 +507,8 @@ Las remuneraciones de los asistentes de la educación que se desempeñen en los 
 a) La asignación del artículo 3 de la ley N° 20.905, en la medida que cumplan los requisitos para percibirla.
 
 b) La asignación de experiencia del artículo 48, siempre que se encuentren en las categorías técnicas, administrativas y auxiliares de los artículos 7, 8 y 9, respectivamente, y cumplan los demás requisitos.
+
+Los asistentes de la educación señalados en el inciso primero, tendrán derecho al bono de desempeño laboral del artículo 50, en la medida que cumplan los requisitos para percibirlo.
 
 ### Párrafo 3º
 
@@ -704,9 +708,11 @@ cuarto.- Mientras no opere el traspaso del servicio educacional, las organizacio
 
 quinto.- Si al momento de constituirse los Servicios Locales de Educación Pública existe una sobredotación de asistentes de la educación, los procesos de desvinculación contemplarán, entre otros, los siguientes criterios:
 
-a) Tener menor antigüedad en la función respectiva.
+a) La renuncia voluntaria del trabajador.
 
-b) Proceder de un establecimiento educacional dependiente de una municipalidad o corporación municipal con sobredotación.".
+b) Tener menor antigüedad en la función respectiva.
+
+c) Proceder de un establecimiento educacional dependiente de una municipalidad o corporación municipal con sobredotación.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

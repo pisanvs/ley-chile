@@ -10,7 +10,7 @@ Proyecto de ley:
 
 La presente ley tiene por objeto establecer regulaciones que permitan asegurar el otorgamiento, uso correcto de la licencia médica y una adecuada protección al cotizante y beneficiarios de las Instituciones de Salud Previsional y del Fondo Nacional de Salud, mediante la aplicación de medidas de control y fiscalización, y de sanciones respecto de las conductas fraudulentas, ilegales o abusivas relacionadas con dicho instrumento.
 
-Sólo podrán emitir licencias médicas los médicos cirujanos, cirujano dentistas o matronas, que se encuentren debidamente inscritos y legalmente habilitados en el Registro Nacional de Prestadores Individuales de Salud que dispone la Superintendencia de Salud. En el caso de los médicos cirujanos que hayan obtenido o revalidado su título de médico cirujano a partir del 19 de abril de 2009, les será exigible además haber aprobado el examen único nacional de conocimientos de medicina.
+Sólo podrán emitir licencias médicas los médicos cirujanos, cirujano dentistas o matronas, que se encuentren debidamente inscritos y legalmente habilitados en el Registro Nacional de Prestadores Individuales de Salud que dispone la Superintendencia de Salud. En el caso de los médicos cirujanos que hayan obtenido o revalidado su título de médico cirujano a partir del 19 de abril de 2009, les será exigible además haber aprobado el examen único nacional de conocimientos de medicina. Con todo, estarán exceptuados de este último requisito, los médicos cirujanos a quienes no les sea exigible dicho examen conforme al artículo 2 bis de la ley N° 20.261.
 
 #### Artículo 1º bis
 

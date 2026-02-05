@@ -10,11 +10,13 @@ Proyecto de ley:
 
 Otórgase una bonificación por retiro voluntario, por una sola vez, a los funcionarios y funcionarias del Poder Judicial que se desempeñen como titulares en cargos de los escalafones Primario, de Empleados, de la Tercera y Sexta Serie del escalafón Secundario, de la Primera Serie del escalafón Secundario que perciban sueldo fiscal correspondiente a los grados V y VI del artículo 5 del decreto ley N° 3.058, de 1979, del Ministerio de Justicia, al personal a contrata asimilado a los escalafones del Personal Superior, de los Consejos Técnicos y de Empleados, y al personal titular de planta y a contrata de la Corporación Administrativa del Poder Judicial.
 
-El personal señalado en el inciso anterior tendrá derecho a la bonificación por retiro voluntario siempre que, entre el 1 de julio de 2015 y el 31 de diciembre de 2025, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
+El personal señalado en el inciso anterior tendrá derecho a la bonificación por retiro voluntario siempre que, tengan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
 Tendrán también este derecho los funcionarios y funcionarias que ya hayan cumplido las edades señaladas en el inciso precedente al 30 de junio de 2015.
 
 Los funcionarios y funcionarias mencionados en el inciso primero, que desempeñen cargos pertenecientes al escalafón Primario, de la Primera Serie del escalafón Secundario que perciban sueldo fiscal correspondiente a los grados V y VI del artículo 5 del decreto ley N° 3.058, de 1979, del Ministerio de Justicia, los miembros de los consejos técnicos, los bibliotecarios judiciales y los administradores de tribunales, podrán optar a la bonificación por retiro voluntario a partir del cumplimiento de 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres, y hasta el cumplimiento de 73 años de edad en ambos casos, según lo dispuesto en el artículo 7.
+
+Los funcionarios y funcionarias beneficiarios de esta ley que no se encuentren comprendidos en el artículo 7 podrán optar a la bonificación por retiro voluntario de conformidad a lo dispuesto en el artículo 8 bis.
 
 #### Artículo 2
 
@@ -26,9 +28,23 @@ La remuneración que servirá de base de cálculo de la bonificación de este ar
 
 La bonificación por retiro voluntario será de cargo fiscal, no constituirá remuneración ni renta para ningún efecto legal, y no será imponible ni tributable.
 
+#### Artículo 2 bis
+
+Podrán acceder sólo a la bonificación adicional los funcionarios y funcionarias señalados en el inciso primero del artículo 1, que hayan obtenido u obtengan pensión de invalidez que establece el decreto ley Nº 3.500, de 1980 a contar del 1 de enero de 2026, que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese de su cargo por la obtención de la referida pensión o por declaración de vacancia por salud irrecuperable o incompatible con el desempeño del cargo; y que reúnan los demás requisitos para su percepción establecidos en el artículo 5.
+
+Para acceder a la bonificación adicional, los funcionarios y funcionarias a que se refiere el inciso anterior, deberán tener dieciocho o más años de servicio, continuos o discontinuos, en las instituciones mencionadas en el artículo 1, a la fecha del cese de sus funciones por cualquiera de las causales señaladas en el inciso anterior.
+
+El reconocimiento de años de servicio discontinuos en las instituciones señaladas en el artículo 1 sólo procederá cuando el funcionario o funcionaria tenga, a lo menos, cinco años de desempeño continuos inmediatamente anteriores a la fecha del cese de sus funciones.
+
+El personal a que se refiere este artículo deberá postular a la bonificación adicional ante la Corporación Administrativa del Poder Judicial, dentro de los noventa días siguientes al cumplimiento de la edad legal para pensionarse y de conformidad a lo que determine el auto acordado a que refiere el artículo 15, siempre que cumpla con las edades señaladas en el inciso primero. Si no postula en el plazo establecido se entenderá que renuncia irrevocablemente a los beneficios.
+
+El personal a que alude este artículo deberá obtener un cupo de aquellos establecidos en el artículo 3.
+
+El pago de la bonificación adicional se efectuará por la Corporación Administrativa del Poder Judicial en el mes siguiente al de la total tramitación del acto administrativo que la conceda. El valor de la unidad de fomento que se considerará para el cálculo de la bonificación adicional será el vigente al mes inmediatamente anterior al pago de ella.
+
 #### Artículo 3
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 1.750 beneficiarios y beneficiarias, según la siguiente distribución para cada año:
+Podrán acceder a la bonificación por retiro voluntario de conformidad con los cupos anuales que se indican en los incisos siguientes:
 
 Número de cupos
 
@@ -58,7 +74,11 @@ Primario Primario
 
 Total 250 1.500 1.750
 
-En caso de que no se utilicen todos los cupos en una anualidad, los cupos remanentes del escalafón Primario serán traspasados a los cupos de los otros beneficiarios del artículo 1, en la medida que sean requeridos. Los cupos no utilizados serán traspasados para el año siguiente, según corresponda al respectivo grupo de beneficiarios establecido en el inciso anterior. En el año 2025 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores para el respectivo grupo de beneficiarios establecido en el inciso anterior.
+A contar del año 2026, se podrá acceder a la bonificación por retiro voluntario de acuerdo a los siguientes cupos que se indican para cada año:
+
+En caso de que no se utilicen todos los cupos en una anualidad, los cupos remanentes del escalafón Primario serán traspasados a los cupos de los otros beneficiarios del artículo 1, en la medida que sean requeridos. Los cupos no utilizados serán traspasados para el año siguiente, según corresponda al respectivo grupo de beneficiarios establecido en el inciso anterior. En el año 2025 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores para el respectivo grupo de beneficiarios establecido en el inciso anterior, después de dicho año no se traspasarán a las anualidades siguientes.
+
+Los cupos de los años 2026 y 2027 que no hubieren sido utilizados al término de su proceso de adjudicación podrán ser usados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos, éstos no podrán usarse en los procesos siguientes.
 
 De haber mayor número de postulantes que cupos disponibles en un año, según se trate de escalafón Primario u otros beneficiarios del artículo 1, se seleccionarán conforme a los siguientes criterios: en primer término se atenderá a la mayor edad del funcionario de acuerdo a la fecha de nacimiento; en igualdad de edad, se recurrirá al mayor número de años, meses y días de servicio en la institución; de persistir la igualdad, se utilizará el sistema de sorteo público.
 
@@ -134,13 +154,27 @@ En el proceso de asignación de cupos del año 2018 también podrán postular lo
 
 #### Artículo 8
 
-Para los funcionarios y funcionarias beneficiarios de esta ley que no se encuentren comprendidos en el artículo anterior, el auto acordado señalado en el artículo 15 definirá las fechas de postulación para la bonificación por retiro voluntario según el año en que cumplan 65 años de edad. Si no postularen en este proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley.
+Para los funcionarios y funcionarias beneficiarios de esta ley que no se encuentren comprendidos en el artículo anterior, el auto acordado señalado en el artículo 15 definirá las fechas de postulación para la bonificación por retiro voluntario según el año en que cumplan 65 años de edad.
 
 Los funcionarios señalados en el inciso anterior que se encuentren en la situación del inciso tercero del artículo 1, podrán postular en el proceso de asignación de cupos para el año 2018 que defina el auto acordado. Si no postularen en ese proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley. Lo anterior, es sin perjuicio de lo dispuesto en los incisos siguientes para las funcionarias.
 
-Con todo, las funcionarias podrán postular a la bonificación por retiro voluntario, en cualquiera de los procesos que establezca el auto acordado, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, sin perder los beneficios establecidos en esta ley. Si no postularen en este último proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley.
+Con todo, las funcionarias podrán postular a la bonificación por retiro voluntario, en cualquiera de los procesos que establezca el auto acordado, desde que cumplan 60 años de edad y hasta el proceso correspondiente a los 65 años de edad, sin perder los beneficios establecidos en esta ley.
 
 Las mujeres que cumplan entre 60 y 65 años de edad durante el año 2025 podrán postular en el proceso correspondiente para ese año según lo fije el auto acordado, y de ser seleccionadas deberán hacer efectiva su renuncia voluntaria de acuerdo a lo dispuesto en los artículos 9 y 10.
+
+#### Artículo 8 bis
+
+Los funcionarios y funcionarias beneficiarios de esta ley que no se encuentren comprendidos en el artículo 7 deberán postular conforme al o los plazos que se fijen mediante auto acordado, según lo establecido en el artículo 15, y accederán a los beneficios decrecientes que se señalan, conforme a las siguientes reglas:
+
+a) Las funcionarias que postulen en el proceso en que cumplan 60 y hasta 65 años de edad y los funcionarios que postulen en el proceso en que cumplan 65 años de edad, tendrán derecho a la totalidad de la bonificación por retiro voluntario que les corresponda y a la bonificación adicional, siempre que cumplan con los requisitos respectivos.
+
+b) Las funcionarias y los funcionarios que postulen en el proceso en que cumplan 66 años de edad, tendrán derecho al 75% de la bonificación por retiro voluntario que les corresponda y al 75% de la bonificación adicional, siempre que cumplan con los requisitos respectivos.
+
+c) Las funcionarias y los funcionarios que postulen en el proceso en que cumplan 67 años de edad, tendrán derecho al 50% de la bonificación por retiro voluntario que les corresponda y al 50% de la bonificación adicional, siempre que cumplan con los requisitos respectivos.
+
+d) Las funcionarias y los funcionarios que postulen en el proceso en que cumplan 68 años de edad, tendrán derecho al 25% de la bonificación por retiro voluntario que les corresponda y al 25% de la bonificación adicional, siempre que cumplan con los requisitos respectivos. Si no postulan en este proceso, se entenderá que renuncian irrevocablemente a los beneficios de esta ley.
+
+Los beneficios decrecientes señalados en el inciso anterior serán aplicables desde el proceso de postulación para la asignación de cupos correspondiente al año 2027.
 
 #### Artículo 9
 
@@ -151,6 +185,8 @@ a) Dentro de los noventa días siguientes a la notificación de la resolución q
 b) Las funcionarias que postulen antes de cumplir 65 años de edad y sean seleccionadas para un cupo, deberán hacer efectiva su renuncia voluntaria dentro de los noventa días siguientes a la notificación de la resolución que les asigna un cupo o dentro de los noventa días siguientes al cumplimiento de 60 años de edad, si esta fecha fuera posterior.
 
 c) Los funcionarios y funcionarias a que se refiere el artículo 7 que postulen entre los 66 y 73 años de edad, deberán hacer efectiva su renuncia voluntaria dentro de los noventa días siguientes a la notificación de la resolución que les asigna un cupo o a la fecha en que cumplan 75 años de edad, si esta última fecha fuera anterior a aquélla.
+
+d) Los funcionarios y funcionarias no comprendidos en el artículo 7 que postulen entre los 66 y 68 años de edad, deberán hacer efectiva su renuncia voluntaria dentro de los noventa días siguientes a la notificación de la resolución que les asigna un cupo.
 
 El pago de la bonificación por retiro voluntario y de la bonificación adicional, en caso que corresponda, se efectuará por la institución empleadora a contar del mes subsiguiente de la fecha del cese de funciones.
 

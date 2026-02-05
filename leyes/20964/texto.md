@@ -18,7 +18,13 @@ La remuneración que servirá de base para el cálculo de la bonificación por r
 
 #### Artículo 2º
 
-Eliminado.
+También podrán acceder a la bonificación por retiro voluntario a que se refiere el artículo anterior, el personal señalado en el inciso primero del artículo 1° de esta ley, que hayan obtenido u obtengan, a partir del 1 de enero de 2026, la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, que cumplan 60 años de edad si son mujeres, o 65 años de edad si son hombres, dentro de los tres años siguientes al cese de su cargo por la obtención de la referida pensión o por renuncia voluntaria en el caso de los regidos por el Código del Trabajo; y siempre que cuenten con un mínimo de diez años de servicios continuos prestados a la fecha de su cese de funciones, en establecimientos educacionales administrados directamente por Servicios Locales de Educación Pública, municipalidades, corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal o en Departamentos de Administración de Educación Municipal, según corresponda, y en corporaciones municipales respecto de las funciones relacionadas con la administración del servicio educacional.
+
+El personal a que se refiere el inciso anterior deberá postular en su respectiva institución exempleadora, dentro de los noventa días siguientes del cumplimiento de la edad legal para pensionarse y de conformidad a lo que determine el reglamento. Si no postula en el plazo establecido se entenderá que renuncia irrevocablemente al beneficio.
+
+La remuneración que servirá de base para el cálculo de la bonificación por retiro voluntario a que se refiere el inciso anterior será el promedio de remuneraciones mensuales imponibles que le haya correspondido al trabajador durante los doce meses inmediatamente anteriores a la fecha del cese de funciones, actualizadas según el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas.
+
+El pago de la bonificación se realizará dentro del mes siguiente a la total tramitación del acto administrativo que le otorga el beneficio.
 
 #### Artículo 3º
 
@@ -61,6 +67,8 @@ Los y las postulantes a la bonificación por retiro voluntario que, cumpliendo l
 #### Artículo 6º
 
 El pago de la bonificación por retiro voluntario se efectuará por parte de la institución en que se haya desempeñado el trabajador. El término de la relación laboral se producirá cuando el empleador ponga a disposición del asistente de la educación la totalidad de la bonificación a que tenga derecho. Con todo, el término de la relación laboral deberá materializarse a más tardar en el plazo de sesenta días hábiles contado desde el traspaso de los recursos que corresponda realizar al Ministerio de Educación conforme a lo dispuesto en el inciso siguiente.
+
+A contar del 1 de enero de 2027, en todo caso, el término efectivo de la relación laboral no podrá ser posterior al cumplimiento de los 75 años de edad. Para estos efectos, la entidad empleadora podrá pagar los beneficios de incentivo al retiro, cualquiera sea su fuente de financiamiento, con recursos propios, procediendo posteriormente el traspaso de los recursos fiscales que correspondan para el pago de los beneficios de cargo fiscal.
 
 Esta bonificación no será imponible ni constituirá renta para ningún efecto legal y, en consecuencia, no estará afecta a descuento alguno. La bonificación será de cargo del empleador. Sin perjuicio de ello, éste podrá solicitar para su financiamiento el anticipo de subvención previsto en el artículo 11 de la ley Nº 20.159. Para el caso del personal que cumple funciones en establecimientos regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, del año 1980, esta bonificación será de cargo de la institución administradora y se financiará con el aporte que perciban para operaciones y funcionamiento.
 

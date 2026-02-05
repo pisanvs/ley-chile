@@ -86,7 +86,7 @@ c) Suprimido.
 
 6. Para el caso de los sistemas medianos, la componente de energía y potencia será estabilizada y fijada semestralmente de acuerdo a las condiciones definidas en los numerales anteriores y las demás disposiciones de la presente ley.
 
-7. No se recalcularán los factores de intensidad para cada comuna y los descuentos según porcentaje de aporte, de conformidad a lo establecido en los incisos cuarto y quinto del artículo 157 de la Ley General de Servicios Eléctricos, manteniendo los mismos establecidos en el informe técnico definitivo que dio origen al decreto 9T, de 30 de mayo de 2022, del Ministerio de Energía.
+7. Los factores de intensidad para cada comuna y los descuentos según porcentaje de aporte, se recalcularán semestralmente, de conformidad a lo establecido en los incisos cuarto y quinto del artículo 157 de la Ley General de Servicios Eléctricos, con excepción de aquellas comunas que hayan sido declaradas zonas en transición conforme a lo dispuesto en el artículo séptimo transitorio de la ley N° 21.667, y que, en el primer período tarifario de 2025 hayan recibido descuentos, de conformidad a lo establecido en los incisos cuarto y quinto del artículo 157 de la Ley General de Servicios Eléctricos, respecto de las cuales se mantendrán los factores de intensidad y los respectivos descuentos según el porcentaje de aporte, establecidos en el informe técnico definitivo que dio origen al decreto 9T, de 30 de mayo de 2022, del Ministerio de Energía, durante toda la vigencia del Mecanismo Transitorio de Protección al Cliente. Los descuentos aplicados de conformidad a lo establecido en el presente numeral deberán estar explícitamente reflejados en cada boleta o factura
 
 #### Artículo 4
 

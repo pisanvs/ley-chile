@@ -68,7 +68,9 @@ Sin perjuicio de lo establecido en el artículo anterior, las siguientes materia
 
 1. Comunicaciones oficiales entre los órganos de la Administración del Estado: Dichas comunicaciones deberán realizarse según lo dispuesto en el inciso sexto del artículo 19 de la ley Nº 19.880 y su respectivo reglamento.
 
-2. Notificaciones: La copia de todas las notificaciones que se realicen dentro de un procedimiento administrativo se incluirán en el Domicilio Digital Único de los interesados, que regulan los artículos 30 y 46 de la ley Nº 19.880 y su respectivo reglamento.
+2. Los órganos de la Administración del Estado podrán practicar sus notificaciones a través del medio establecido por la ley especial o al Domicilio Digital Único del interesado, de conformidad con el inciso cuarto del artículo 46 de la ley Nº 19.880.
+
+Cuando la notificación sea realizada por el medio establecido por la ley especial, se incluirá una copia de ésta en el Domicilio Digital Único de los interesados, que regulan los artículos 30 y 46 de la ley Nº 19.880 y su respectivo reglamento. Dicha copia, en ningún caso reemplazará a la notificación realizada por el medio establecido por la ley especial.
 
 Lo señalado en el párrafo anterior en ningún caso reemplazará a la notificación realizada por el medio establecido por la ley especial.
 

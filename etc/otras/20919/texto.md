@@ -48,6 +48,8 @@ Los y las postulantes a la bonificación por retiro voluntario que, cumpliendo l
 
 El pago de la bonificación por retiro voluntario se efectuará por parte de cada entidad administradora, a más tardar en el mes siguiente de la total tramitación del acto administrativo que disponga el cese de funciones. El término de la relación laboral se producirá cuando el empleador pague la totalidad del beneficio, de lo que se dejará constancia formal. Con todo, el término de la relación laboral deberá materializarse a más tardar en el plazo de seis meses contado desde el traspaso de los recursos que corresponda por parte del Ministerio de Salud de acuerdo al artículo 16.
 
+A contar del 1 de enero de 2027, en ningún caso el término efectivo de la relación laboral podrá producirse con posterioridad al cumplimiento de los 75 años de edad. Para estos efectos, la entidad empleadora podrá pagar los beneficios de incentivo al retiro, cualquiera sea su fuente de financiamiento, con recursos propios, y procederá posteriormente el traspaso de los recursos fiscales que correspondan para el pago de los beneficios de cargo fiscal.
+
 Esta bonificación no será imponible ni constituirá renta para ningún efecto legal y, en consecuencia, no estará afecta a descuento alguno.
 
 #### Artículo 7°

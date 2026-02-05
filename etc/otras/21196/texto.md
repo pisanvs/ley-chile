@@ -420,7 +420,7 @@ También tendrá derecho al bono de este artículo el personal asistente de la e
 
 #### Artículo 47
 
-Otórgase un bono de incentivo al retiro, por una sola vez, a los trabajadores beneficiarios del Programa Inversión en la Comunidad y del Programa de Mejoramiento Urbano y Equipamiento Comunal de las localidades que se determinen conforme al artículo 57 de esta ley, que al 31 de diciembre del 2020 sean beneficiarios de los Programas antes señalados, según corresponda, y que hayan permanecido en ellos de forma ininterrumpida, siempre que posean un contrato de trabajo vigente en virtud de los programas antes indicados en la localidad respectiva, y que los mencionados contratos terminen por la causal establecida en el numeral 2 del artículo 159 del Código del Trabajo en los plazos que indica esta ley. El plan de incentivo al retiro antes señalado se extenderá desde el 1 de enero de 2025 al 31 de diciembre de esa anualidad.
+Otórgase un bono de incentivo al retiro, por una sola vez, a los trabajadores beneficiarios del Programa Inversión en la Comunidad y del Programa de Mejoramiento Urbano y Equipamiento Comunal de las localidades que se determinen conforme al artículo 57 de esta ley, que al 31 de diciembre del 2021 sean beneficiarios de los Programas antes señalados, según corresponda, y que hayan permanecido en ellos de forma ininterrumpida, siempre que posean un contrato de trabajo vigente en virtud de los programas antes indicados en la localidad respectiva, y que los mencionados contratos terminen por la causal establecida en el numeral 2 del artículo 159 del Código del Trabajo en los plazos que indica esta ley. El plan de incentivo al retiro antes señalado se extenderá desde el 1 de enero de 2026 al 31 de diciembre de esa anualidad.
 
 #### Artículo 48
 
@@ -440,17 +440,17 @@ Los trabajadores que perciban el bono de incentivo al retiro a que se refiere el
 
 #### Artículo 51
 
-Otórgase un bono de complemento de carácter mensual a los trabajadores beneficiarios del Programa Inversión en la Comunidad y del Programa de Mejoramiento Urbano y Equipamiento Comunal de las localidades que se determinen de conformidad al artículo 57 de esta ley, que al 31 de diciembre de 2024 tengan 60 o más años de edad tratándose de mujeres y 65 o más años de edad tratándose de hombres, siempre que al 31 de diciembre del 2020 posean un contrato de trabajo vigente en virtud de los programas antes referidos en la localidad respectiva, como asimismo a la fecha de postulación que se indica en el artículo 58 de esta ley, y que los mencionados contratos terminen por la causal establecida en el numeral 2 del artículo 159 del Código del Trabajo en los plazos que señala el artículo 58. Además, a la fecha de término de sus contratos de trabajo, los trabajadores deberán encontrarse pensionados por vejez, invalidez o sobrevivencia, en cualquier régimen previsional, o ser beneficiarios de una pensión garantizada universal, de una pensión básica solidaria de vejez o una pensión básica solidaria de invalidez, en este último caso, sólo respecto de mujeres con, a lo menos, 60 años de edad. Con todo, sólo podrán acceder al bono de complemento los trabajadores que perciban pensiones por un monto inferior a un ingreso mínimo mensual.
+Otórgase un bono de complemento de carácter mensual a los trabajadores beneficiarios del Programa Inversión en la Comunidad y del Programa de Mejoramiento Urbano y Equipamiento Comunal de las localidades que se determinen de conformidad al artículo 57 de esta ley, que al 30 de junio de 2026 tengan 60 o más años de edad tratándose de mujeres y 65 o más años de edad tratándose de hombres, siempre que al 31 de diciembre del 2021 posean un contrato de trabajo vigente en virtud de los programas antes referidos en la localidad respectiva, como asimismo a la fecha de postulación que se indica en el artículo 58 de esta ley, y que los mencionados contratos terminen por la causal establecida en el numeral 2 del artículo 159 del Código del Trabajo en los plazos que señala el artículo 58. Además, a la fecha de término de sus contratos de trabajo, los trabajadores deberán encontrarse pensionados por vejez, invalidez o sobrevivencia, en cualquier régimen previsional, o ser beneficiarios de una pensión garantizada universal, de una pensión básica solidaria de vejez o una pensión básica solidaria de invalidez, en este último caso, sólo respecto de mujeres con, a lo menos, 60 años de edad. Con todo, sólo podrán acceder al bono de complemento los trabajadores que perciban pensiones por un monto inferior a un ingreso mínimo mensual.
 
-Las trabajadoras y los trabajadores que al 31 de diciembre de 2024 tengan menos de 60 años de edad, si se trata de mujeres, o menos de 65 años de edad, si se trata de hombres, que cumplan con todos los demás requisitos señalados en el inciso precedente, también podrán recibir el bono de complemento que otorga este artículo, siempre que a la fecha de término de sus contratos de trabajo se encuentren pensionados por invalidez.
+Las trabajadoras y los trabajadores que al 30 de junio de 2026 tengan menos de 60 años de edad, si se trata de mujeres, o menos de 65 años de edad, si se trata de hombres, que cumplan con todos los demás requisitos señalados en el inciso precedente, también podrán recibir el bono de complemento que otorga este artículo, siempre que a la fecha de término de sus contratos de trabajo se encuentren pensionados por invalidez.
 
 #### Artículo 52
 
-El bono de complemento ascenderá a la diferencia entre un ingreso mínimo mensual y la pensión promedio bruta que corresponda al beneficiario. Para estos efectos, se entenderá por:
+El bono de complemento ascenderá a la diferencia entre un ingreso mínimo mensual y la pensión bruta que corresponda al beneficiario. Para estos efectos, se entenderá por:
 
 a) Ingreso Mínimo Mensual: el valor del ingreso mínimo mensual para los trabajadores mayores de 18 años de edad y hasta los 65 años de edad vigente por ley, al mes anterior al pago del bono de complemento.
 
-b) Pensión Promedio Bruta: el promedio de todas las pensiones brutas devengadas por el trabajador, cualquiera sea su naturaleza, incluido el aporte previsional solidario de la ley Nº 20.255 y la Pensión Garantizada Universal, durante los tres meses anteriores al pago del bono de complemento, según los datos aportados por el Instituto de Previsión Social. Sin perjuicio de lo antes señalado, no se incluirán en el concepto de pensión bruta aquellas pensiones otorgadas conforme a las leyes Nºs. 19.123, 19.234, 19.980, 19.992 y 20.405.
+b) Pensión Bruta: corresponde a la suma de todas las pensiones brutas devengadas por el trabajador, cualquiera sea su naturaleza, incluido el aporte previsional solidario de la ley Nº 20.255 y la Pensión Garantizada Universal, en el mes ante precedente. al pago del bono de complemento, según los datos aportados por el Instituto de Previsión Social. Sin perjuicio de lo antes señalado, no se incluirán en el concepto de pensión bruta aquellas pensiones otorgadas conforme a las leyes Nºs. 19.123, 19.234, 19.980, 19.992 y 20.405.
 
 #### Artículo 53
 
@@ -461,6 +461,8 @@ El pago del bono de complemento se suspenderá si el trabajador a quien se le ha
 El bono de complemento será de cargo fiscal y se pagará mensualmente por el Instituto de Previsión Social, el que deberá calcularlo, extinguirlo o suspenderlo de conformidad a lo señalado en los artículos 47 al 61. Dicho bono comenzará a pagarse a contar del mes siguiente a la fecha del finiquito del contrato de trabajo por la causal establecida en el numeral 2 del artículo 159 del Código del Trabajo.
 
 Para ello, la Subsecretaría del Trabajo remitirá al Instituto de Previsión Social copia del acto administrativo que concede el bono. Además, deberá informar la fecha en que comenzará a pagarse el bono al beneficiario.
+
+El Instituto de Previsión Social enviará mensualmente a la Subsecretaría del Trabajo un reporte con, a lo menos, el monto del bono de complemento pagado a cada beneficiario, indicando su base de cálculo.
 
 #### Artículo 55
 
@@ -474,7 +476,7 @@ Los trabajadores que perciban el bono de complemento y que con posterioridad a l
 
 El bono de complemento y el bono de incentivo al retiro serán administrados por la Subsecretaría del Trabajo, a la que le corresponderá, especialmente, concederlos y resolver los reclamos a que haya lugar con ocasión de su otorgamiento, los que podrán ser notificados a los reclamantes a través de las secretarías regionales ministeriales.
 
-La Subsecretaría del Trabajo, a través de una o más resoluciones exentas visadas por la Dirección de Presupuestos, determinará las localidades cuyos trabajadores beneficiarios del Programa Inversión en la Comunidad y del Programa de Mejoramiento Urbano y Equipamiento Comunal podrán postular al bono de complemento y al bono de incentivo al retiro, las que podrán dictarse hasta el 31 de diciembre de 2025. Dichas resoluciones deberán ser publicadas en el Diario Oficial y en el sitio web de dicha Subsecretaría.
+La Subsecretaría del Trabajo, a través de una o más resoluciones exentas visadas por la Dirección de Presupuestos, determinará las localidades cuyos trabajadores beneficiarios del Programa Inversión en la Comunidad y del Programa de Mejoramiento Urbano y Equipamiento Comunal podrán postular al bono de complemento y al bono de incentivo al retiro, las que podrán dictarse hasta el 31 de diciembre de 2026. Dichas resoluciones deberán ser publicadas en el Diario Oficial y en el sitio web de dicha Subsecretaría.
 
 #### Artículo 58
 

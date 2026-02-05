@@ -10,7 +10,7 @@ Proyecto de ley:
 
 Otórgase una bonificación por retiro voluntario, por una sola vez, a los profesionales funcionarios de planta o a contrata, regidos por las leyes Nos 19.664 y 15.076, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2001, del Ministerio de Salud, a excepción de los cargos del primer y segundo nivel jerárquico pertenecientes al Sistema de Alta Dirección Pública establecido en la ley Nº 19.882, que se desempeñen en alguno de los servicios de salud señalados en el artículo 16 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763 de 1979 y de las leyes Nos 18.933 y 18.469; así como a los profesionales funcionarios de los establecimientos de salud de carácter experimental creados por los decretos con fuerza de ley Nos 29, 30 y 31, todos de 2000, del Ministerio de Salud, regidos por la Escala A) contenida en las respectivas resoluciones triministeriales Nos 20, 21 y 26, todas de 2004, del Ministerio de Salud, que fijan sus sistemas de remuneraciones, siempre que cumplan con los demás requisitos establecidos en esta ley y su reglamento.
 
-Los profesionales funcionarios señalados en el inciso anterior tendrán derecho a la bonificación por retiro voluntario siempre que entre el 1 de julio de 2014 y el 31 de diciembre de 2025, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, y que hagan efectiva su renuncia voluntaria a todos los cargos y al total de horas que sirven o que estén sirviendo en el conjunto de los organismos señalados en el inciso anterior, en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento.
+Los profesionales funcionarios señalados en el inciso anterior tendrán derecho a la bonificación por retiro voluntario siempre que tengan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, y que hagan efectiva su renuncia voluntaria a todos los cargos y al total de horas que sirven o que estén sirviendo en el conjunto de los organismos señalados en el inciso anterior, en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento.
 
 También tendrán derecho a la bonificación por retiro voluntario aquellos profesionales funcionarios señalados en el inciso primero que, al 30 de junio de 2014, hayan cumplido 60 o más años de edad, en el caso de las mujeres, y 65 o más años de edad, tratándose de los hombres, siempre que hagan efectiva su renuncia voluntaria a todos los cargos y al total de horas que sirven en el conjunto de los organismos señalados en el inciso primero, en los plazos y según las normas contenidas en esta ley y en las que se fijen en el reglamento.
 
@@ -48,7 +48,7 @@ Esta bonificación adicional se pagará en la misma oportunidad en que se pague 
 
 #### Artículo 4
 
-Podrán acceder a la bonificación por retiro voluntario y a la bonificación adicional hasta un total de 3.750 beneficiarios, distribuidos anualmente de la forma siguiente:
+Podrán acceder a la bonificación por retiro voluntario y a la bonificación adicional los profesionales funcionarios de conformidad con los cupos distribuidos anualmente de la forma siguiente:
 
 1. Los años 2016, 2017 y 2018 se consultarán 300 cupos por cada anualidad.
 
@@ -58,7 +58,11 @@ Podrán acceder a la bonificación por retiro voluntario y a la bonificación ad
 
 4. Los años 2021 a 2024, contemplarán 500 cupos para cada anualidad.
 
-Los cupos que no hubieren sido utilizados entre los años 2016 y 2018 inclusive, incrementarán los cupos para el año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente. En el año 2025 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores.
+Para los años 2026 y 2027 se contemplarán 500 cupos por cada anualidad. A contar del año 2028, los cupos serán 400 por cada anualidad.
+
+Los cupos que no hubieren sido utilizados entre los años 2016 y 2018 inclusive, incrementarán los cupos para el año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los del año inmediatamente siguiente. En el año 2025 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores. Después de dicho año no se traspasarán a las anualidades siguientes.
+
+Los cupos de los años 2026 y 2027 que no hayan sido utilizados al término de su proceso de adjudicación, podrán ser utilizados hasta el proceso de adjudicación de los cupos del año 2028. Transcurrido dicho plazo sin que hayan sido utilizados dichos cupos, éstos no podrán usarse en los procesos siguientes.
 
 #### Artículo 5
 
@@ -68,15 +72,23 @@ Los profesionales funcionarios deberán presentar su postulación conforme a los
 
 En caso de desempeñarse en más de uno de los organismos señalados en el artículo 1, los profesionales funcionarios podrán presentar su solicitud en cualquiera de ellos, indicando en su comunicación de renuncia voluntaria el total de cargos y horas que sirve y el lugar de desempeño de cada uno de ellos.
 
-Los profesionales funcionarios que cumplan con el requisito de edad señalado en el artículo 1 podrán participar en cualquiera de los procesos de postulación hasta el correspondiente a aquél en que cumplan 69 años de edad, de acuerdo a lo establecido en el reglamento. Si no participaren de este último proceso se entenderá que renuncian a los beneficios de esta ley.
+Los profesionales funcionarios que cumplan con el requisito de edad señalado en el artículo 1 podrán participar en cualquiera de los procesos de postulación hasta el correspondiente a aquél en que cumplan 69 años de edad, de acuerdo a lo establecido en el reglamento. A contar del proceso de postulación de los cupos 2027 podrán acceder a los beneficios decrecientes según corresponda. Si no participaren de estos procesos se entenderá que renuncian a los beneficios de esta ley.
 
-Los profesionales funcionarios de las instituciones señaladas en el inciso primero del artículo 1, que a la fecha de publicación de esta ley tengan cumplidos 69 o más años de edad, podrán postular a los beneficios contenidos en esta ley en los plazos siguientes:
+#### Artículo 5 bis
 
-1. Dentro de los veinticuatro meses siguientes a la fecha de publicación de esta ley, podrán postular aquellos que tengan a dicha fecha entre 69 y 72 años de edad.
+A partir del proceso de asignación de cupos del año 2027 los profesionales funcionarios podrán postular a los beneficios decrecientes según la época de postulación, conforme a las reglas que a continuación se indican:
 
-2. Dentro de los doce meses siguientes a la fecha de publicación de esta ley, podrán postular aquellos que tengan más de 72 años de edad.
+a) Profesionales funcionarios que cumplan entre 60 y 69 años de edad, en el caso de las mujeres; y entre 65 y 69 años de edad, en el caso de los hombres, durante el 1 de enero y el 31 de diciembre del año en que postulan. Deberán hacer efectiva su renuncia voluntaria en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento. En este caso, tendrán derecho a la totalidad de la bonificación por retiro voluntario y de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
 
-Las postulaciones presentadas por los profesionales funcionarios a los que se refiere el inciso anterior serán incorporadas al proceso de postulación más próximo según lo determine el reglamento.
+b) Profesionales funcionarios que cumplan 70 años de edad, durante el 1 de enero y el 31 de diciembre del año en que postulan. Deberán hacer efectiva su renuncia voluntaria en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento. En este caso, podrán acceder al 75% de la bonificación por retiro voluntario y al 75% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+c) Profesionales funcionarios que cumplan 71 años de edad, durante el 1 de enero y el 31 de diciembre del mismo año en que postulan. Deberán hacer efectiva su renuncia voluntaria en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento. En este caso, sólo podrán acceder al 55% de la bonificación por retiro voluntario y al 55% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+d) Profesionales funcionarios que cumplan 72 años de edad, durante el 1 de enero y el 31 de diciembre del año en que postulan. Deberán hacer efectiva su renuncia voluntaria en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento. En este caso, sólo podrán acceder al 30% de la bonificación por retiro voluntario y al 30 % de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+e) Profesionales funcionarios que cumplan 73 años de edad, durante el 1 de enero y el 31 de diciembre del año en que postulan. Deberán hacer efectiva su renuncia voluntaria en los plazos y según las normas contenidas en esta ley y las que se fijen en el reglamento. En este caso, sólo podrán acceder al 10% de la bonificación por retiro voluntario y al 10% de la bonificación adicional que les corresponda, siempre que cumplan con los requisitos respectivos.
+
+Respecto de los profesionales funcionarios que no postulen en ninguno de los períodos anteriores o no haga efectiva su renuncia voluntaria en ninguna de las oportunidades anteriores, se entenderá que renuncian irrevocablemente a todos los beneficios establecidos en la ley.
 
 #### Artículo 6
 
@@ -96,11 +108,11 @@ Los profesionales funcionarios que, habiendo postulado de conformidad al artícu
 
 #### Artículo 8
 
-El profesional funcionario que se desistiere de un cupo podrá volver a postular por una sola vez. Pero sólo podrá ejercer dicho derecho hasta el proceso correspondiente a aquel en que cumpla 69 años de edad, según lo que disponga el reglamento.
+El profesional funcionario que se desistiere de un cupo podrá volver a postular por una sola vez. Pero sólo podrá ejercer dicho derecho hasta el proceso correspondiente a aquel en que cumpla 73 años de edad, según lo que disponga el reglamento.
 
 #### Artículo 9
 
-También tendrán derecho a postular a la bonificación por retiro voluntario y a la bonificación adicional, los profesionales funcionarios de las instituciones señaladas en el artículo 1 que, entre el 1 de julio de 2014 y el 31 de diciembre de 2025, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, siempre que, dentro de los tres años siguientes a la obtención de la referida pensión, cumplan 60 años de edad las mujeres y 65 años de edad los hombres. En ningún caso dichas edades podrán cumplirse más allá del 31 de diciembre de 2025. Además, deberán cumplir los requisitos para acceder a dichas bonificaciones. En este caso, los años de servicio en las instituciones a que se refiere el artículo 1 y los demás requisitos, se computarán a la fecha de cese de funciones por la obtención de la referida pensión.
+También tendrán derecho a postular a la bonificación por retiro voluntario y a la bonificación adicional, los profesionales funcionarios de las instituciones señaladas en el artículo 1 que, a partir el 1 de julio de 2014, hayan obtenido u obtengan la pensión de invalidez que establece el decreto ley Nº 3.500, de 1980, siempre que, dentro de los tres años siguientes a la obtención de la referida pensión, cumplan 60 años de edad las mujeres y 65 años de edad los hombres. Además, deberán cumplir los requisitos para acceder a dichas bonificaciones. En este caso, los años de servicio en las instituciones a que se refiere el artículo 1 y los demás requisitos, se computarán a la fecha de cese de funciones por la obtención de la referida pensión.
 
 Para efectos de acceder a las bonificaciones señaladas en el inciso anterior, el profesional funcionario, una vez cumplido el requisito de edad indicado en dicho inciso, deberá postular ante su respectiva institución exempleadora, a los cupos a que se refiere el artículo 4 en los plazos que determine el reglamento. El pago de la bonificación por retiro voluntario y bonificación adicional, según corresponda, se efectuará por parte de dicha institución dentro de los treinta días siguientes a la total tramitación del acto administrativo que conceda las bonificaciones, según corresponda.
 
@@ -116,9 +128,9 @@ Los profesionales funcionarios que cesen en sus cargos por aplicación de lo dis
 
 No obstante lo señalado en el inciso anterior, los profesionales funcionarios podrán celebrar los convenios regulados por el artículo 24 de la ley Nº 19.664.
 
-Excepcionalmente, los profesionales funcionarios que percibieron cualquiera de las bonificaciones establecidas en esta ley, podrán ser contratados sobre la base de honorarios a suma alzada, de acuerdo a las disponibilidades presupuestarias anuales, para efectos de realizar funciones en un programa especial que será administrado por la Subsecretaría de Redes Asistenciales, en los casos siguientes:
+Excepcionalmente, los profesionales funcionarios que percibieron cualquiera de las bonificaciones establecidas en esta ley, podrán ser contratados sobre la base de honorarios a suma alzada, de acuerdo a las disponibilidades presupuestarias anuales, para efectos de realizar funciones en un programa especial debidamente justificado y aprobado mediante resolución. Dicho programa será administrado por la Subsecretaría de Redes Asistenciales o por el Ministerio de Salud, en los casos siguientes:
 
-1. Criterio sanitario, incluyendo, entre otros, disminución de listas de espera, situaciones de emergencia sanitaria y catástrofes naturales, de conformidad a lo que defina el reglamento a que se refiere el artículo 13.
+1. Criterio sanitario, incluyendo, entre otros, disminución de listas de espera, situaciones de emergencia sanitaria, carencia de especialistas y catástrofes naturales, de conformidad a lo que defina el reglamento a que se refiere el artículo 13.
 
 2. Localidad extrema y rezagada, de conformidad a lo que defina el reglamento a que se refiere el artículo 13.
 
@@ -136,9 +148,19 @@ Un reglamento expedido a través del Ministerio de Salud, y suscrito además por
 
 Si el funcionario o funcionaria fallece entre la fecha de su postulación para acceder a los beneficios de esta ley y antes de percibirlos, y siempre que cumpla con los requisitos para acceder a los mismos, éstos serán transmisibles por causa de muerte. Este beneficio quedará afecto a los cupos que establece el artículo 4.
 
-#### Artículo transitorio
+#### Artículo primero
 
-El mayor gasto fiscal que represente la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Ministerio de Salud. No obstante, el Ministerio de Hacienda, con cargo a la partida presupuestaria del Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no se pueda financiar con esos recursos. Para los años siguientes, los recursos se consultarán en las respectivas leyes de Presupuestos del Sector Público.".
+transitorio.- El mayor gasto fiscal que represente la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Ministerio de Salud. No obstante, el Ministerio de Hacienda, con cargo a la partida presupuestaria del Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no se pueda financiar con esos recursos. Para los años siguientes, los recursos se consultarán en las respectivas leyes de Presupuestos del Sector Público.
+
+#### Artículo segundo
+
+transitorio. Proceso de postulación a los cupos correspondientes al año 2026 de los beneficios de la ley N° 20.986.
+
+La postulación se realizará mediante un único proceso anual cuyo período será fijado por Resolución Exenta de la Subsecretaría de Redes Asistenciales. Dicho proceso comprenderá tanto a quienes cumplan los requisitos generales establecidos en la ley N° 20.986, como a aquellos profesionales funcionarios afectos a la citada ley, y a los que se refiere el artículo 88 de la ley N° 21.724.
+
+El proceso anual se sujetará a las reglas de admisibilidad, verificación de requisitos, priorización, asignación de cupos, notificación, desistimiento y reasignación de cupos, sucesión en caso de muerte, y presentación de la renuncia voluntaria establecidas en la ley N° 20.986 y en su reglamento. Los Servicios de Salud deberán remitir a la Subsecretaría de Redes Asistenciales la nómina de postulantes y los antecedentes que acrediten el cumplimiento de los requisitos legales y reglamentarios, dentro del plazo que la citada Subsecretaría determine mediante la resolución a la que se alude en el inciso precedente. Asimismo, la Subsecretaría de Redes Asistenciales dictará el acto administrativo que establezca la nómina de beneficiarios, fije los plazos de notificación y determine la oportunidad para que los postulantes seleccionados informen por escrito la fecha en que harán efectiva su renuncia voluntaria, la cual deberá comprender la totalidad de los cargos y horas servidos en las instituciones señaladas en el artículo 1 de la ley N° 20.986. La fecha de la renuncia voluntaria deberá materializarse dentro del plazo señalado en el artículo 6 de esta ley o en el señalado en el artículo 88 de la ley N° 21.724, según corresponda.
+
+Si el postulante no indica su fecha de renuncia dentro del período fijado, o no hace efectiva su renuncia voluntaria dentro del plazo establecido, se entenderá que renuncia irrevocablemente a los beneficios de la ley N° 20.986. A contar del proceso de postulación de los cupos 2027 podrá acceder a los beneficios decrecientes señalados en el artículo 5 bis de esta ley, según corresponda.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

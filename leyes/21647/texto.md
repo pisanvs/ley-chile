@@ -520,7 +520,7 @@ El mayor gasto fiscal que represente la aplicación del artículo 48 durante el 
 
 #### Artículo 51
 
-Durante los años 2024 y 2025, facúltase al Tribunal Calificador de Elecciones y a los Tribunales Electorales Regionales del país para establecer en dichos tribunales una bonificación por retiro voluntario para el personal contratado conforme al Código del Trabajo siempre que cumplan 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de enero de 2024 y el 31 de diciembre de 2025; cuyo contrato de trabajo termine por renuncia voluntaria a más tardar el día primero del quinto mes en que cumplan 65 años de edad y no más allá del 31 de diciembre de 2025. Dicha bonificación será financiada con los recursos propios de las referidas instituciones y de acuerdo a su disponibilidad presupuestaria.
+Durante los años 2024, 2025 y 2026, facúltase al Tribunal Calificador de Elecciones y a los Tribunales Electorales Regionales del país para establecer en dichos tribunales una bonificación por retiro voluntario para el personal contratado conforme al Código del Trabajo siempre que cumplan 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de enero de 2024 y el 31 de diciembre de 2026; cuyo contrato de trabajo termine por renuncia voluntaria a más tardar el día primero del quinto mes en que cumplan 65 años de edad y no más allá del 31 de diciembre de 2026. Dicha bonificación será financiada con los recursos propios de las referidas instituciones y de acuerdo a su disponibilidad presupuestaria.
 
 Durante el primer trimestre de cada una de esas anualidades los secretarios relatores de los tribunales a que refiere el inciso primero deberán comunicar a sus trabajadores y trabajadoras si se hará uso de la facultad señalada en el inciso anterior y su disponibilidad presupuestaria.
 
@@ -532,7 +532,7 @@ La bonificación por retiro voluntario se pagará por la institución empleadora
 
 En el ejercicio de la facultad del año 2024 podrán postular los trabajadores y trabajadoras de las instituciones señaladas en el inciso primero que tengan 65 o más años de edad, quienes deberán hacer efectiva su renuncia voluntaria a más tardar el día primero del cuarto mes a la notificación del acuerdo que le otorga la bonificación por retiro voluntario.
 
-Con todo, las trabajadoras podrán terminar su contrato de trabajo por renuncia voluntaria desde que cumplan 60 años de edad y hasta la oportunidad establecida en el inciso primero y no más allá del 31 de diciembre de 2025.
+Con todo, las trabajadoras podrán terminar su contrato de trabajo por renuncia voluntaria desde que cumplan 60 años de edad y hasta la oportunidad establecida en el inciso primero y no más allá del 31 de diciembre de 2026.
 
 Respecto de los trabajadores y trabajadoras que no hagan efectiva su renuncia voluntaria en los plazos que fija este artículo se entenderá que renuncian irrevocablemente a la bonificación por retiro voluntario.
 
@@ -544,7 +544,7 @@ El beneficio concedido por este artículo será incompatible con toda otra indem
 
 Otórgase una bonificación adicional al personal del Tribunal Calificador de Elecciones y de los Tribunales Electorales Regionales del país, contratados conforme al Código del Trabajo siempre que se encuentren afiliados al sistema de pensiones establecido en el decreto ley N° 3.500, de 1980, cotizando o habiendo cotizado en dicho sistema, según lo establece su artículo 17; que a la fecha de postulación tengan veinte o más años de servicio, continuos o discontinuos, en los tribunales señalados y que cumplan los demás requisitos que establece este artículo.
 
-Además, para tener derecho a la bonificación adicional, el personal señalado en el inciso anterior deberá cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de enero de 2024 y el 31 de diciembre de 2025. Además, podrá postular el personal que tenga 60 o más años de edad si son mujeres o 65 o más años de edad si son hombres, al 31 de diciembre de 2023.
+Además, para tener derecho a la bonificación adicional, el personal señalado en el inciso anterior deberá cumplir 60 años de edad, si son mujeres, o 65 años de edad si son hombres, entre el 1 de enero de 2024 y el 31 de diciembre de 2026. Además, podrá postular el personal que tenga 60 o más años de edad si son mujeres o 65 o más años de edad si son hombres, al 31 de diciembre de 2023.
 
 El reconocimiento de periodos discontinuos para el cálculo de la bonificación adicional sólo procederá cuando el trabajador tenga, a lo menos, cinco años de desempeño continuo, anteriores a la fecha de la postulación, en alguna de las entidades señaladas en el inciso primero.
 
@@ -552,13 +552,13 @@ También podrán acceder a la bonificación adicional el personal señalado en e
 
 Para tener derecho a la bonificación adicional, el personal señalado en este artículo deberá terminar su contrato de trabajo por renuncia voluntaria, dentro de los plazos que establece esta ley y el auto acordado a que refiere el inciso décimo octavo. La renuncia voluntaria deberá hacerse efectiva respecto de todos los cargos y al total de horas que sirvan en las referidas instituciones dentro de los plazos que señale esta ley y el respectivo auto acordado.
 
-Podrán acceder a la bonificación adicional durante los años 2024 y 2025, hasta 20 y 10 beneficiarios respectivamente.
+Podrán acceder a la bonificación adicional durante los años 2024 y 2025, hasta 20 y 10 beneficiarios respectivamente. En el año 2026 se utilizarán los cupos que no hayan sido ocupados en las anualidades anteriores.
 
 La bonificación adicional ascenderá a los montos siguientes, según los años de servicio que la trabajadora o el trabajador haya prestado en las instituciones señaladas en el inciso primero, según corresponda a la fecha de término de su contrato de trabajo:
 
 .
 
-El valor de la unidad tributaria mensual que se considerará para el cálculo de la bonificación adicional será el vigente a aquel mes en que la trabajadora o el trabajador haya terminado su contrato de trabajo. El monto establecido será para jornadas de cuarenta y cuatro horas o de cuarenta y cinco horas semanales, calculándose en forma proporcional si ésta es inferior.
+El valor de la unidad tributaria mensual que se considerará para el cálculo de la bonificación adicional será el vigente a aquel mes en que la trabajadora o el trabajador haya terminado su contrato de trabajo. El monto establecido será para jornadas completas de trabajo semanales, calculándose en forma proporcional si ésta es inferior.
 
 La bonificación adicional será de cargo fiscal y se pagará por la institución empleadora, al mes siguiente del término del contrato de trabajo.
 
@@ -576,7 +576,7 @@ Para que el personal señalado en el inciso primero acceda a los beneficios que 
 
 2. Las trabajadoras que postulen antes de cumplir 65 años de edad y sean seleccionadas para un cupo, deberán hacer efectiva su renuncia voluntaria dentro de los noventa días siguientes a la notificación de la resolución que les asigna un cupo o dentro de los noventa días siguientes al cumplimiento de 60 años de edad, si esta fecha es posterior.
 
-Para hacer uso del beneficio que dispone este artículo, el término del contrato de trabajo no podrá ser posterior al 31 de diciembre de 2025.
+Para hacer uso del beneficio que dispone este artículo, el término del contrato de trabajo no podrá ser posterior al 31 de diciembre de 2026.
 
 La bonificación adicional que se concede por este artículo será incompatible con cualquier otro incentivo al retiro de naturaleza homologable que se origine en una causal similar de otorgamiento y cualquier otro beneficio por retiro que haya percibido el trabajador con anterioridad. Del mismo modo, los beneficiarios del presente artículo no podrán contabilizar los mismos años de servicio que hayan sido considerados para percibir otros beneficios asociados al retiro voluntario.
 
@@ -684,6 +684,8 @@ Los centros de formación técnica del Estado señalados en el inciso primero in
 
 Los centros de formación técnica del Estado deberán mantener a disposición permanente del público, a través de sus sitios electrónicos, el acto administrativo señalado en el inciso segundo, así como la nómina actualizada del personal que esté afecto a la modalidad regulada en este artículo, de acuerdo a lo dispuesto en el artículo 7 del artículo primero de la ley N° 20.285.
 
+> **Nota.** El artículo 17 de la ley 21806, publicada el 05.02.2026, dispone prorrogar hasta el 1 de marzo de 2027, la facultad otorgada a los rectores y a las rectoras de los Centros de Formación Técnica del Estado creados por la ley N° 20.910 señalada en el presente artículo, la que no se aplicará a los funcionarios que se determinen para asegurar la continuidad del servicio. El Centro de Formación Técnica deberá implementar un sistema remoto de registro horario para aplicar esta modalidad, la que no podrá implicar el fraccionamiento de la jornada diaria de trabajo. Durante mayo de 2026 y 2027, los Centros de Formación Técnica del Estado deberán informar a la Comisión Especial Mixta de Presupuestos del Congreso Nacional la evaluación de dicha modalidad, incluyendo resultados y medios de verificación, remitiendo además el informe a la Dirección de Presupuestos y a la Subsecretaría de Educación Superior. Asimismo, deberán mantener disponible en sus sitios electrónicos el acto administrativo correspondiente y la nómina actualizada del personal afecto a esta modalidad, conforme a lo dispuesto en el artículo 7 del artículo primero de la ley 20285.
+
 #### Artículo 62
 
 Prorrógase para el año 2024 la facultad otorgada a los rectores y a las rectoras de las universidades estatales para eximir del control horario de jornada de trabajo del artículo 65 de la ley N° 21.526.
@@ -721,6 +723,8 @@ Los Gobernadores Regionales implementarán un mecanismo propositivo, informativo
 El Gobernador Regional deberá informar mediante oficio, durante el mes de marzo del año 2025, a la Comisión Especial Mixta de Presupuestos del Congreso Nacional y a la Dirección de Presupuestos, la evaluación de la aplicación de la modalidad dispuesta en este artículo, incluyendo resultados y medios de verificación.
 
 Los Gobiernos Regionales deberán mantener a disposición permanente del público, a través de sus sitios electrónicos, el acto administrativo señalado en el inciso tercero y la nómina actualizada de los funcionarios que estén afectos a la modalidad regulada en este artículo, de acuerdo a lo dispuesto en el artículo 7 del artículo primero de la ley N° 20.285.
+
+> **Nota.** El artículo 19 de la ley 21806, publicada el 05.02.2026, dispone prorrogar hasta el 1 de marzo de 2027, la facultad otorgada a los Gobernadores Regionales establecida en el presente artículo, quienes se acojan a esta modalidad deberán cumplir al menos tres jornadas presenciales semanales, sin perjuicio de las exclusiones que determine el Gobernador Regional para asegurar la continuidad del servicio, previo informe al Consejo Regional. Para su aplicación, el Gobierno Regional deberá implementar un sistema remoto de registro horario, sin fraccionar la jornada diaria, e informar en mayo de 2026 y 2027 a la Comisión Especial Mixta de Presupuestos y a la Dirección de Presupuestos la evaluación de la modalidad, incluyendo resultados y medios de verificación, manteniendo además disponibles en sus sitios electrónicos el acto administrativo correspondiente y la nómina actualizada del personal afecto, conforme a lo dispuesto en el artículo 7 del artículo primero de la ley 20285.
 
 #### Artículo 65
 

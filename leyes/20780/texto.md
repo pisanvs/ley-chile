@@ -1796,6 +1796,8 @@ Para efectos de la precitada fórmula, el precio de venta incluye el impuesto es
 
 El impuesto establecido en este artículo no se aplicará tratándose de vehículos motorizados destinados al transporte de pasajeros, con capacidad de más de 9 asientos, incluido el del conductor, y vehículos que estén destinados a prestar servicios de taxi en cualquiera de sus modalidades; ni respecto de camiones, camionetas y furgones de 2.000 o más kilos de capacidad de carga útil, ni a furgones cerrados de menor capacidad. Tampoco se aplicará, tratándose de contribuyentes afectos al impuesto al valor agregado, respecto de la adquisición de camionetas nuevas de hasta 2.000 kilos de capacidad de carga útil, siempre que pasen a formar parte del activo inmovilizado del contribuyente. En el caso que el contribuyente enajene estas camionetas, dentro del plazo de veinticuatro meses contados desde su adquisición, deberá pagar el monto correspondiente al impuesto que debería haber enterado en caso de no favorecerle la exención.
 
+El impuesto establecido en este artículo no se aplicará respecto de los vehículos motorizados nuevos adquiridos por la Policía de Investigaciones de Chile, o por terceros a nombre de dicha institución y que se destinen al cumplimiento de sus funciones institucionales
+
 Tampoco se aplicará este impuesto a los tractores, carretillas automóviles, vehículos a propulsión eléctrica, vehículos casa rodante autopropulsados, vehículos para transporte fuera de carretera, coches celulares, coches ambulancias, coches mortuorios, coches blindados para el transporte y en general vehículos especiales clasificados en la partida 87.03 del Arancel Aduanero. Asimismo, no se aplicará en los casos señalados en el inciso séptimo del artículo 43 bis del decreto ley N° 825 de 1974, ley sobre Impuesto a las Ventas y Servicios.
 
 El Ministerio de Transportes y Telecomunicaciones comunicará, por cada modelo de vehículo, al Servicio de Impuestos Internos, los valores correspondientes al rendimiento urbano y las emisiones de óxidos de nitrógeno necesarios para que dicho Servicio proceda al cálculo respectivo del monto del impuesto a pagar conforme a lo establecido en el presente artículo y determinará la forma y condiciones en que éste debe efectuarse.
@@ -1878,7 +1880,17 @@ Reemplázase, en el artículo 12 del decreto N° 1.101, del Ministerio de Obras 
 
 #### Artículo 8°
 
-Establécese un impuesto anual a beneficio fiscal que gravará las emisiones al aire de material particulado (MP), óxidos de nitrógeno (NOx), dióxido de azufre (SO2) y dióxido de carbono (CO2), producidas por establecimientos cuyas fuentes fijas, conformadas por calderas o turbinas, individualmente o en su conjunto sumen, una potencia térmica mayor o igual a 50 MWt (megavatios térmicos), considerando el límite superior del valor energético del combustible.
+Establécese un impuesto anual a beneficio fiscal que gravará las emisiones al aire de material particulado (MP), óxidos de nitrógeno (NOx), dióxido de azufre (SO2) y dióxido de carbono (CO2), producidas por establecimientos cuyas fuentes emisoras, individualmente o en su conjunto, emitan 100 o más toneladas anuales de material particulado (MP), o 25.000 o más toneladas anuales de dióxido de carbono (CO2).
+
+Para efectos de la aplicación de este artículo, se entenderá por:
+
+(a) Establecimiento: un recinto o local en el que se lleve a cabo una o varias actividades económicas que implique una transformación de la materia prima o de los materiales empleados, o se dé origen a nuevos productos, cuyas fuentes emisoras estén bajo un control operacional único o coordinado.
+
+(b) Fuente emisora: una fuente fija cuyas emisiones sean generadas, en todo o parte, a partir de combustión.
+
+(c) Combustión: un proceso de oxidación de sustancias o materias sólidas, líquidas o gaseosas que desprende calor y en el que se libera su energía interna para la producción de electricidad, vapor o calor útil, con la excepción de la materia prima que sea necesaria para el proceso productivo.
+
+No obstante, se excluyen de la aplicación del impuesto las emisiones asociadas a calderas de agua caliente utilizadas en servicios vinculados exclusivamente al personal y de grupos electrógenos de potencia menor a 500 kWt.
 
 El impuesto establecido en este artículo afectará a las personas naturales o jurídicas, titulares de los establecimientos cuyas fuentes emisoras generen las emisiones de MP, óxidos de nitrógeno (NOx), dióxido de azufre (SO2) o CO2.
 
@@ -1955,6 +1967,18 @@ El pago del impuesto deberá efectuarse al Servicio de Tesorerías en el mes de 
 El retardo en enterar en Tesorería los impuestos a que se refiere este artículo se sancionará en conformidad a lo dispuesto en el número 11 del artículo 97 del Código Tributario.
 
 Para los efectos de lo dispuesto en el inciso segundo del artículo 149 del decreto con fuerza de ley N° 4, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, ley General de Servicios Eléctricos, el impuesto que establece el presente artículo no deberá ser considerado en la determinación del costo marginal instantáneo de energía, cuando éste afecte a la unidad de generación marginal del sistema. No obstante, para las unidades cuyo costo total unitario, siendo éste el costo variable considerado en el despacho, adicionado el valor unitario del impuesto, sea mayor o igual al costo marginal, la diferencia entre la valorización de sus inyecciones a costo marginal y a dicho costo total unitario, deberá ser pagado por todas las empresas eléctricas que efectúen retiros de energía del sistema, a prorrata de sus retiros, debiendo el Coordinador Eléctrico Nacional, adoptar todas las medidas pertinentes para realizar la reliquidación correspondiente. El Servicio de Impuestos Internos enviará en el mes de abril de cada año al Coordinador Eléctrico Nacional y a la Comisión Nacional de Energía, un informe con el cálculo del impuesto por cada contribuyente. La Comisión Nacional de Energía, mediante resolución exenta, establecerá las disposiciones de carácter técnico que sean necesarias para la adecuada implementación del mecanismo señalado en este inciso.
+
+Los contribuyentes afectos al impuesto establecido en este artículo, podrán compensar todo o parte de sus emisiones gravadas, para efectos de determinar el monto del impuesto a pagar, mediante la implementación de proyectos de reducción de emisiones del mismo contaminante, sujeto a que dichas reducciones sean adicionales, medibles, verificables y permanentes. En todo caso las reducciones deberán ser adicionales a las obligaciones impuestas por planes de prevención o descontaminación, normas de emisión, resoluciones de calificación ambiental o cualquier otra obligación legal.
+
+Sólo podrán ser ejecutados los proyectos de reducción de emisiones de MP, NOx o SO2, en la zona declarada como saturada o latente en que se generen las emisiones a compensar. En el caso de no haberse realizado dicha declaración a la fecha de presentación del proyecto de reducción, éstos podrán realizarse en la misma comuna en que se generen dichas emisiones, o en las comunas adyacentes a ésta.
+
+Para la procedencia de un proyecto de reducción en los términos señalados en los incisos anteriores se deberá presentar una solicitud ante el Ministerio del Medio Ambiente, el que deberá pronunciarse, mediante resolución exenta, en un plazo de 60 días hábiles, contado desde la fecha en que se reciban todos los antecedentes necesarios para verificar el cumplimiento de los requisitos que resultan aplicables. El Ministerio del Medio Ambiente establecerá mediante un reglamento la forma y antecedentes requeridos para acreditar las características necesarias para la procedencia de dichos proyectos, el procedimiento para presentar la solicitud y los antecedentes que se deberán acompañar a la misma.
+
+Para acreditar la reducción de emisiones, los proyectos deberán ser certificados por un auditor externo autorizado por la Superintendencia del Medio Ambiente, sujeto a las metodologías que dicha Superintendencia determine. Para estos efectos, el Ministerio del Medio Ambiente determinará mediante reglamento los procedimientos de certificación, los requisitos mínimos para que un auditor forme parte del registro que llevará al efecto y las atribuciones de los auditores registrados.
+
+Una vez que se haya acreditado ante la Superintendencia del Medio Ambiente la ejecución del proyecto de reducción de emisiones, dicha Superintendencia realizará el cálculo de las emisiones de cada contribuyente afecto al impuesto, incluyendo aquellas reducciones de emisiones que se hayan utilizado como mecanismo de compensación, y deberá remitir dicha información al Servicio de Impuestos Internos, para efectos de realizar el cálculo y giro del impuesto que establece este artículo.
+
+La Superintendencia del Medio Ambiente mantendrá un registro público de los auditores externos autorizados a que hacen referencia los incisos anteriores. Asimismo, la Superintendencia deberá llevar un registro público de los proyectos cuya reducción de emisiones haya sido verificada de conformidad con los incisos anteriores, en el que se consignará, adicionalmente, las reducciones que se utilicen para compensar las emisiones gravadas con el impuesto que se establece en este artículo.
 
 #### Artículo 9°
 

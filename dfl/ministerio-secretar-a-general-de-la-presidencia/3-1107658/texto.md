@@ -52,7 +52,7 @@ d) Pagos efectuados a personas que presten servicios a las candidaturas.
 
 e) Gastos realizados para el desplazamiento de los candidatos, de los dirigentes de los partidos y de las personas que presten servicios a las candidaturas, como asimismo para el transporte de implementos de propaganda y para la movilización de personas con motivo de actos de campaña.
 
-f) El costo de los endosos y los intereses, el impuesto de timbre y estampillas, los gastos notariales y, en general, todos aquellos gastos en que haya incurrido por efecto de la obtención de los créditos recibidos para la campaña electoral, devengados hasta la fecha en que se dé cumplimiento a lo dispuesto en el inciso primero del artículo 47.
+f) El costo de los endosos y los intereses, el impuesto de timbre y estampillas, los gastos notariales y, en general, todos aquellos gastos en que haya incurrido por efecto de la obtención de los créditos recibidos para la campaña electoral, devengados hasta la fecha en que el Director del Servicio Electoral deba pronunciarse sobre la aprobación de la cuenta de ingresos y gastos electorales, en los términos previstos en el artículo 48.
 
 g) Gastos menores y frecuentes de campaña, tales como la alimentación de personas, mantención de vehículos o de las sedes u otros similares. Estos deberán ser declarados detalladamente y no podrán exceder el diez por ciento del límite total autorizado al candidato o partido político. Será responsabilidad del administrador electoral mantener la documentación de respaldo o justificarla debidamente en conformidad a la letra b) del artículo 37 de esta ley.
 

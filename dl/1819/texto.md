@@ -208,9 +208,9 @@ Declárase que la norma del artículo 7° del decreto ley N° 155, de 1973, cuyo
 
 Las mutualidades de empleadores a que se refiere la ley 16.744 y las demás instituciones que mantengan hospitales podrán solicitar autorización para extender la atención médica que presten sus establecimientos cuando estén en condiciones para ello sin desmedro de las funciones y obligaciones que les encomienden o imponen la legislación que les es aplicable, sus reglamentos o estatutos.
 
-La autorización a que se refiere el inciso anterior será solicitada al Ministerio del Trabajo y Previsión Social en el caso de las mutualidades regidas por la ley 16.744 o al Ministerio del cual dependan o por medio del cual se relacionen con el Ejecutivo, en el caso de las demás instituciones.
+La autorización a que se refiere el presente artículo será solicitada a la Superintendencia de Seguridad Social en el caso de las mutualidades regidas por la ley 16.744 o al Ministerio del cual dependan o por medio del cual se relacionen con el Ejecutivo, en el caso de las demás instituciones. Tratándose de las referidas mutualidades, la Superintendencia de Seguridad Social deberá pronunciarse respecto de su solicitud de autorización, de manera fundada, dentro del plazo de sesenta días hábiles. Transcurrido dicho plazo sin que la Superintendencia se pronuncie sobre dicha solicitud, se aplicará lo establecido en el artículo 64 de la ley N° 19.880.
 
-Por vía reglamentaria se fijarán las condiciones para el otorgamiento de dicha autorización y las modalidades que regularán los alcances de la ampliación de la atención médica, así como su duración, financiamiento y demás aspectos necesarios para su aplicación.
+Por vía reglamentaria se fijarán las condiciones para el otorgamiento de la autorización a que se refiere este artículo y las modalidades que regularán los alcances de la ampliación de la atención médica, así como su duración, financiamiento y demás aspectos necesarios para su aplicación.
 
 Las mutualidades de Empleadores de la ley N° 16.744 y demás instituciones referidas quedarán facultadas para celebrar los convenios que sean necesarios para la aplicación de lo dispuesto en los incisos anteriores.
 

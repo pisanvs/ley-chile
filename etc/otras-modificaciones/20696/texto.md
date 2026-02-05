@@ -200,7 +200,7 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo primero
 
-Los actos, contratos, proyectos y programas vigentes en el momento de la publicación de la presente ley, que se hayan ejecutado en virtud de normas que ésta modifica o deroga, se considerarán válidos para todos los efectos y continuarán ejecutándose y desarrollándose hasta su total término. Con todo, tratándose de los programas aprobados con arreglo a lo establecido en la letra a) del artículo 4° de la ley N° 20.378, derogada por la presente ley, podrán ser prorrogados anualmente hasta el año 2025, de acuerdo con lo dispuesto en la correspondiente Ley de Presupuestos del Sector Público.
+Los actos, contratos, proyectos y programas vigentes en el momento de la publicación de la presente ley, que se hayan ejecutado en virtud de normas que ésta modifica o deroga, se considerarán válidos para todos los efectos y continuarán ejecutándose y desarrollándose hasta su total término. Con todo, tratándose de los programas aprobados con arreglo a lo establecido en la letra a) del artículo 4° de la ley N° 20.378, derogada por la presente ley, se podrán prorrogar hasta el año 2032, de acuerdo con lo dispuesto en la correspondiente Ley de Presupuestos del Sector Público, o hasta que en las zonas geográficas respectivas se encuentren en régimen los perímetros de exclusión, condiciones de operación u otras modalidades equivalentes de la ley N° 18.696 o de los programas especiales establecidos en el artículo 5 de la referida ley N° 20.378; lo que ocurra primero.
 
 #### Artículo segundo
 

@@ -2158,7 +2158,11 @@ Cuando por aplicación de las nuevas disposiciones corresponda determinar intere
 
 3. Las modificaciones incorporadas en los artículos 9 y 11 entrarán en vigencia a partir del 1 de mayo de 2025. A partir del mes siguiente a la publicación de la ley los contribuyentes podrán modificar la cuenta de correos registrada en su sitio personal o presentar la solicitud contenida en el inciso primero del artículo 11 incorporado por el numeral 10 del artículo 1.
 
-4. Los procedimientos iniciados de conformidad con el párrafo primero del Título III del Libro III, antes de la entrada en vigencia de la presente ley continuarán su tramitación judicial según las normas vigentes a la fecha de inicio del procedimiento.
+4. Los procedimientos iniciados de conformidad con el párrafo primero del Título III del Libro III antes de la entrada en vigencia de la presente ley continuarán su tramitación en primera instancia según las normas vigentes a la fecha de inicio del procedimiento. Sin embargo, la apelación de las resoluciones será de competencia de la Corte de Apelaciones respectiva.
+
+Los recursos que estén conociendo los Tribunales Especiales de Alzada al momento de la entrada en vigencia de la presente ley serán remitidos a la Corte de Apelaciones respectiva para su conocimiento y fallo, salvo en cuanto estén en estado de fallo, caso en el cual deberá dictar la sentencia dicho Tribunal Especial de Alzada.
+
+En todo caso, los Tribunales Especiales de Alzada conservarán competencia para proveer los recursos de casación que se interpongan ante ellos con motivo de sus fallos y conocer de los recursos de aclaración, rectificación y enmienda relacionados con sus sentencias.
 
 5. El primer reporte semestral a que hace referencia el artículo 85 ter deberá realizarse respecto del segundo semestre de 2024.
 
@@ -2412,7 +2416,7 @@ En los respectivos concursos internos de antecedentes podrán participar los fun
 
 a) Los funcionarios titulares de un cargo de la misma planta de la vacante a proveer, siempre que se encuentren nombrados en el grado inmediatamente inferior al de la vacante convocada y reúnan los requisitos exigidos para el desempeño del respectivo cargo.
 
-b) Los funcionarios a contrata asimilado a la misma planta del cargo de la vacante a proveer, que tengan dicha calidad al 31 de diciembre de 2023 y siempre que: se encuentren calificados en lista Nº1, de Distinción, o lista Nº2, Buena, durante, a lo menos, los dos años previos al concurso y reúnan los requisitos exigidos para el desempeño del respectivo cargo. Los funcionarios a contrata asimilados a las plantas de fiscalizadores, técnicos, administrativos y auxiliares, solo podrán postular a los cargos vacantes del último grado de la planta a la cual se encuentren asimilados. Los funcionarios a contrata asimilados a la planta de profesionales solo podrán postular, como máximo, al mismo grado de la planta al que se encuentren asimilados al 31 de diciembre de 2023.
+b) Los funcionarios a contrata asimilado a la misma planta del cargo de la vacante a proveer, que tengan dicha calidad al 31 de diciembre de 2023 y siempre que: se encuentren calificados en lista Nº1, de Distinción, o lista Nº2, Buena, durante, a lo menos, los dos años previos al concurso y reúnan los requisitos exigidos para el desempeño del respectivo cargo. Los funcionarios a contrata asimilados a las plantas de fiscalizadores, técnicos, administrativos y auxiliares, solo podrán postular a los cargos vacantes del último grado de la planta a la cual se encuentren asimilados. Los funcionarios a contrata asimilados a la planta de profesionales sólo podrán postular, como máximo, al mismo grado de la planta al que se encuentren asimilados al 31 de diciembre de 2024.
 
 En la convocatoria de los concursos, deberán considerarse, a lo menos, los factores de experiencia calificada y evaluación de desempeño. La institución los determinará previamente y establecerá la forma en que ellos serán ponderados, lo que deberá ser informado a los funcionarios en el llamado a concurso, el que deberá publicarse, a lo menos, en la página web de la institución.
 

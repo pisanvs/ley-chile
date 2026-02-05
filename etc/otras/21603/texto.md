@@ -134,7 +134,7 @@ Quien ejerza la Secretaría Técnica de la Comisión tendrá las siguientes atri
 
 4. Mantener actualizado el registro al que se refiere el artículo 3 letra c).
 
-La designación para el cargo de Secretario Técnico o Secretaria Técnica se realizará, previo concurso público, por los integrantes de la Comisión mediante acuerdo que será publicado en el Diario Oficial.
+La designación para el cargo de Secretario Técnico o Secretaria Técnica se realizará, previo concurso público, por los integrantes de la Comisión mediante acuerdo que será publicado en el Diario Oficial. Dicho cargo será a contrata grado 7 de la Escala Única de Sueldos, correspondiente a la Subsecretaría de Hacienda, considerando la asignación del artículo 12 de la ley Nº 19.041.
 
 #### Artículo 10
 

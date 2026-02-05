@@ -148,13 +148,21 @@ Las autorizaciones concedidas a alguna persona para la guarda, depósito o almac
 
 #### Artículo 16 bis
 
-La Comisión deberá resolver las solicitudes para autorizar el emplazamiento, construcción y operación de instalaciones nucleares o equipos radioactivos en el plazo máximo de doscientos cuarenta días hábiles. Atendida la complejidad, envergadura o el uso de nuevas tecnologías que involucre la solicitud, la Comisión podrá disponer la suspensión del plazo a que se refiere este inciso, mediante resolución fundada. El plazo de suspensión deberá quedar establecido en el mismo acto administrativo y guardar debida coherencia con los hechos que lo fundan y los principios de celeridad, eficiencia y eficacia.
+En la tramitación de las autorizaciones de su competencia, la Comisión deberá observar las siguientes reglas:
 
-Si se trata de las demás solicitudes a las que se refiere el artículo 4°, la Comisión deberá resolverlas en el plazo máximo de ciento veinte días hábiles. La Comisión podrá disponer la suspensión del plazo a que se refiere este inciso, mediante resolución fundada y hasta por cuarenta días hábiles.
+1. La Comisión deberá resolver las solicitudes para autorizar el emplazamiento, construcción y operación de instalaciones nucleares, instalaciones radiactivas dentro de una instalación nuclear, e instalaciones de primera categoría que correspondan a ciclotrones, instalaciones y/o laboratorios de producción o manipulación de radiofármacos o nuevas tecnologías en el plazo máximo de doscientos cuarenta días hábiles. Atendida la complejidad, envergadura o el uso de nuevas tecnologías que involucre la solicitud, la Comisión podrá disponer la suspensión de dicho plazo, mediante resolución fundada. El plazo de suspensión deberá quedar establecido en el mismo acto administrativo y guardar debida coherencia con los hechos que lo fundan y los principios de celeridad, eficiencia y eficacia.
 
-En lo que respecta a las autorizaciones singularizadas en el artículo 5°, la Comisión deberá resolver dichas solicitudes en el plazo máximo de sesenta días hábiles. La Comisión podrá disponer la suspensión del plazo máximo a que se refiere este artículo, mediante resolución fundada y hasta por quince días hábiles.
+2. Tratándose de otras solicitudes relacionadas con instalaciones a las que se refiere el numeral anterior o con el material nuclear o radiactivo asociado a éstas, la Comisión deberá resolverlas en el plazo máximo de ciento veinte días hábiles. La Comisión podrá disponer la suspensión de este plazo, mediante resolución fundada en las mismas circunstancias señaladas en el inciso primero y hasta por cuarenta días hábiles.
+
+3. La Comisión deberá resolver las solicitudes para autorizar la construcción y operación de instalaciones radiactivas de primera categoría, no comprendidas en el numeral 1, en el plazo máximo de sesenta días hábiles. La Comisión podrá disponer la suspensión de este plazo mediante resolución fundada en las mismas circunstancias señaladas en el numeral 1 y hasta por quince días hábiles.
+
+4. Tratándose de las demás solicitudes relacionadas con las instalaciones mencionadas en el numeral anterior o con el material radiactivo asociado a éstas, la Comisión deberá resolverlas en el plazo máximo de cuarenta días hábiles. La Comisión podrá disponer la suspensión de este plazo, mediante resolución fundada en las mismas circunstancias señaladas en el inciso primero y hasta por diez días hábiles.
+
+5. En lo que respecta a las autorizaciones singularizadas en el artículo 5, la Comisión deberá resolver dichas solicitudes en el plazo máximo de treinta días hábiles. La Comisión podrá disponer la suspensión de este plazo, mediante resolución fundada y hasta por quince días hábiles. Sin perjuicio de lo anterior, el plazo original de treinta días hábiles podrá ampliarse por una única vez y sin necesidad de ingresar una nueva solicitud hasta por treinta días hábiles adicionales, en aquellos casos en que el solicitante deba rendir nuevamente los exámenes correspondientes. Con todo, la ampliación solo procederá cuando el plazo original no se encuentre suspendido. Finalmente, no procederá la suspensión en los casos en que se haya ampliado el plazo original de acuerdo a las reglas establecidas en este inciso.
 
 Las suspensiones de plazo a que se refiere este artículo podrán ser ejercidas por una única vez durante el transcurso del procedimiento, sin perjuicio de otras causales de suspensión que procedan conforme a la ley.
+
+Tratándose de solicitudes que tengan por finalidad obtener autorizaciones con fines sanitarios, tales como aquellas destinadas a radioterapia, braquiterapia, medicina nuclear u otros usos médicos de materiales radiactivos, la Comisión podrá priorizar su autorización, en los términos que establece el inciso final del artículo 7 de la ley N° 19.880.
 
 #### Artículo 16 ter
 

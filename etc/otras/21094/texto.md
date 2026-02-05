@@ -348,19 +348,35 @@ Normas aplicables a los contratos administrativos de suministro y prestación de
 
 #### Artículo 37
 
-Convenios excluidos de la ley Nº 19.886. No obstante lo señalado en el artículo anterior, quedarán excluidos de la aplicación de la ley Nº 19.886 los convenios que celebren las universidades del Estado con los organismos públicos que formen parte de la Administración del Estado y los convenios que celebren dichas universidades entre sí.
+Convenios excluidos de la ley Nº 19.886. No obstante lo señalado en el artículo anterior, quedarán excluidos de la aplicación de la ley Nº 19.886 los convenios que celebren las universidades del Estado con los organismos públicos que formen parte de la Administración del Estado y los convenios que celebren dichas universidades entre sí y con otras instituciones de educación superior domiciliadas en Chile o en el extranjero.
 
-De la misma manera, estarán excluidos de la aplicación de la citada ley los contratos que celebren las universidades del Estado con personas jurídicas extranjeras o internacionales para el suministro de bienes muebles necesarios para el cumplimiento de sus funciones y que, por sus características específicas, no puedan ser adquiridos en Chile.
+De la misma manera, estarán excluidos de la aplicación de la citada ley los contratos que celebren las universidades del Estado con personas jurídicas extranjeras o internacionales para el suministro de bienes muebles o la prestación de servicios, en tanto estos o aquellos sean necesarios para el cumplimiento de sus funciones y que, por sus características específicas, no puedan ser adquiridos en Chile o, pudiendo serlo, se ofrezcan en condiciones más ventajosas desde el extranjero.
 
 #### Artículo 37 bis
 
 Quedarán excluidos de la aplicación de la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios, los centros de investigación, desarrollo, innovación o transferencia tecnológica, y en cuya administración o dirección participen dos o más universidades estatales, o una universidad estatal y una o más personas jurídicas de derecho privado, en virtud de lo dispuesto en el literal e) del inciso segundo del artículo 39.
 
+#### Artículo 37 ter
+
+Contratos de infraestructura. Asimismo, los contratos que celebren las universidades del Estado para la construcción y mantención de infraestructura por sobre el umbral de inversión que establezca el reglamento establecido en el inciso final de este artículo, se encontrarán excluidos de la ley N° 19.886. Sin perjuicio de ello, a dichos contratos se les aplicará, solo respecto de la etapa de contratación, la normativa contenida en los Capítulos V y VII de dicha ley, a excepción de los numerales 2, 3 y 4 del artículo 24, y las disposiciones que, a consecuencia de ello no les sean aplicables, así como el inciso séptimo de su artículo 25 bis, y sus artículos 35 bis y 35 sexies, sin perjuicio de las sanciones que sean procedentes.
+
+Las etapas de dicho proceso de contratación deberán desarrollarse íntegramente a través del Sistema de Información y Gestión de Compras y Contrataciones del Estado, con las excepciones establecidas en los artículos 20 y 21 de la ley N° 19.886. Con todo, las garantías, planos, antecedentes legales, muestras y demás antecedentes que no estén disponibles en formato digital o electrónico podrán ser enviados por los proveedores de manera física, de acuerdo con lo que establezcan las bases en cada caso.
+
+Un reglamento, expedido a través del Ministerio de Obras Públicas, y suscrito además por los Ministros de Hacienda y de Educación, establecerá las condiciones que deberán cumplir los contratos regulados en este artículo, incluyendo, al menos, el monto mínimo de inversión al que será aplicable lo establecido en este artículo, los requisitos que deberán cumplir los contratistas, entre los cuales estará mantener su inscripción vigente en el Registro General de Contratistas que lleva la Dirección General de Obras Públicas, y los contenidos y requisitos mínimos que se incluirán en las bases de licitación y en el contrato. El reglamento deberá dar cumplimiento a lo dispuesto en el artículo 9° del decreto con fuerza de ley N° 1-19.653, del Ministerio Secretaría General de la Presidencia, de 2000, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, y definirá aquellos casos en que se podrá recurrir a licitación privada, o trato directo, en atención a la naturaleza de la negociación.
+
 #### Artículo 38
 
-Licitación privada o trato directo. Las universidades del Estado, de forma individual o conjunta, podrán celebrar contratos a través de licitación privada o trato directo en virtud de las causales señaladas en el artículo 8 bis de la ley Nº 19.886, y, además, cuando se trate de la compra de bienes o la contratación de servicios, incluida la contratación de créditos, que se requieran para la implementación de actividades o la ejecución de proyectos de gestión institucional, de docencia, de investigación, de creación artística, de innovación, de extensión o de vinculación con el medio de dichas instituciones, en que la utilización del procedimiento de licitación pública ponga en riesgo la oportunidad, la finalidad o la eficacia de la respectiva actividad o proyecto.
+Licitación privada o trato directo. Las universidades del Estado, de forma individual o conjunta, podrán celebrar contratos a través de licitación privada o trato directo en virtud de las causales señaladas en el artículo 8 bis de la ley Nº 19.886 y su reglamento, y, además, en los siguientes casos:
 
-En estos casos, las universidades del Estado deberán establecer por medio de una resolución, disponible en el Sistema de Información de Compras y Contratación Pública, los procedimientos internos que permitan resguardar la publicidad, la transparencia, la igualdad de trato y la no discriminación arbitraria en esta clase de adquisiciones y contratación de servicios.
+1. Cuando se trate de la compra de bienes o la contratación de servicios, incluida la contratación de créditos, que se requieran para la implementación de actividades o la ejecución de proyectos de gestión institucional, de docencia, de creación artística, de extensión o de vinculación con el medio de dichas instituciones, en que la utilización del procedimiento de licitación pública ponga en riesgo la oportunidad, la finalidad o la eficacia de la respectiva actividad o proyecto.
+
+2. Cuando se trate de la compra de bienes o la contratación de servicios que se requieran de manera imprevista o urgente para actividades de docencia en cursos de pregrado o posgrado, siempre que dichas actividades sean coherentes con los objetivos específicos de estos, contenidos en los respectivos planes de estudio.
+
+3. Cuando se trate de la compra de bienes o la contratación de servicios que se requieran para actividades, labores o proyectos necesarios para el cumplimiento de objetivos de investigación científica, innovación o transferencia tecnológica, siempre que dichos objetivos hayan sido reconocidos previa y formalmente por alguna facultad, escuela, instituto, centro de estudios, departamento u otra unidad académica de la institución, en los instrumentos que ésta disponga para tal efecto.
+
+4. Cuando se trate de la compra de bienes o contratación de servicios que se requieran en los ámbitos de alimentación, aseo o seguridad, cuya interrupción actual o inminente afecte la continuidad o calidad del servicio educativo o la seguridad o bienestar del estudiantado.
+
+En todos estos casos, las universidades del Estado deberán establecer por medio de una resolución, disponible en el Sistema de Información de Compras y Contratación Pública, los procedimientos internos que permitan resguardar la publicidad, la transparencia, la igualdad de trato y la no discriminación arbitraria en esta clase de adquisiciones y contratación de servicios.
 
 #### Artículo 39
 
@@ -458,7 +474,7 @@ Comisiones de servicio en el extranjero. Las comisiones de servicio de los funci
 
 #### Artículo 46
 
-Actividades de académicos extranjeros. Los académicos, investigadores, profesionales, conferencistas o expertos extranjeros, y que tengan residencia o domicilio permanente fuera del territorio nacional, estarán exentos de solicitar la autorización para desarrollar actividades remuneradas, señalada en el artículo 48, inciso primero, del decreto ley Nº 1.094, de 1975, del Ministerio del Interior, siempre que dichas labores correspondan a actividades académicas organizadas por instituciones universitarias y no se extiendan más allá de treinta días o del término del respectivo permiso de turismo
+Actividades de académicos extranjeros. Los académicos, investigadores, profesionales, conferencistas o expertos extranjeros, y que tengan residencia o domicilio permanente fuera del territorio nacional, estarán exentos de solicitar la autorización para desarrollar actividades remuneradas, señalada en el artículo 50 de la ley N° 21.325, de Migración y Extranjería, siempre que dichas labores correspondan a actividades académicas organizadas por instituciones universitarias y no se extiendan más allá de noventa días o del término del respectivo permiso de permanencia transitoria.
 
 #### Artículo 47
 

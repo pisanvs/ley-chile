@@ -3140,11 +3140,17 @@ El precio de la potencia, durante la vigencia del contrato de suministro, será 
 
 Las fórmulas de indexación de los precios de energía y potencia serán definidas por la Comisión en las bases de la licitación o, si éstas lo permiten, por los oferentes, conforme a las condiciones señaladas en ellas.
 
-INCISO ELIMINADO.
-
 En todo caso, el total de la energía que deberán facturar el o los suministradores a una distribuidora será igual a la energía efectivamente demandada por ésta en el período de facturación.
 
 Para ello, las empresas distribuidoras deberán contar con el equipamiento de medida necesario que permita el registro continuo de la energía a facturar, en cada punto de ingreso a su sistema de distribución, y su comunicación instantánea al Coordinador, de acuerdo a las especificaciones que establezca el reglamento y la normativa técnica.
+
+Las empresas eléctricas de distribución deberán garantizar que la atención al cliente sea proporcionada por personal humano, cuando así lo solicite el cliente en las interacciones telefónicas y electrónicas.
+
+El uso exclusivo de sistemas automáticos para la atención al cliente quedará prohibido en casos de consultas, quejas y solicitudes de información. Las empresas estarán obligadas a asegurar la disponibilidad de una atención personalizada dentro de un plazo máximo de cinco minutos desde el inicio de la interacción.
+
+El incumplimiento de estas disposiciones será sancionado conforme al Título IV de la Ley N° 18.410 de la Superintendencia de Electricidad y Combustibles, por cada infracción comprobada, sin perjuicio de la obligación de implementar las medidas correctivas necesarias para garantizar el cumplimiento de esta norma.
+
+Los costos asociados a la implementación y cumplimiento de esta disposición no podrán, bajo circunstancia alguna, ser traspasados al cliente.
 
 #### Artículo 134º
 
@@ -4228,9 +4234,19 @@ La información contenida en el registro se considerará datos sensibles de sus 
 
 #### Artículo 207
 
+2 bis.- Las empresas concesionarias deberán mantener actualizado el registro de clientes electrodependientes de su zona de concesión, debiendo verificar y reportar dicha información a la Superintendencia de Electricidad y Combustibles quincenalmente.
+
+Asimismo, las empresas deberán habilitar y mantener operativa una línea telefónica de atención prioritaria en sus centros de contacto, exclusiva para la atención de requerimientos relacionados con el suministro eléctrico de personas electrodependientes, incluyendo cuando el equipo de respaldo presente fallas, garantizando su disponibilidad permanente y respuesta oportuna.
+
+#### Artículo 207
+
 3.- Las empresas concesionarias deberán implementar, en forma eficaz y oportuna, las mejores soluciones técnicas disponibles para mitigar los efectos que las interrupciones de suministro eléctrico podrían tener respecto del funcionamiento del equipamiento de uso médico al que se encuentra conectada una persona electrodependiente, durante toda su extensión, considerando las condiciones del entorno y la estimación de la extensión de la interrupción, entre otras que señale el reglamento.
 
-Para dar cumplimiento a lo señalado en el inciso precedente, las empresas concesionarias deberán implementar la entrega temporal o permanente, en comodato, del equipamiento que permita abastecer de energía al dispositivo de uso médico respectivo.
+Para dar cumplimiento a lo señalado en el inciso precedente, las empresas concesionarias deberán entregar, sin costo para el usuario, un sistema de respaldo energético que permita abastecer de energía al dispositivo de uso médico respectivo. El sistema de respaldo deberá ser capaz de abastecer la totalidad de los equipos médicos necesarios para el soporte vital del paciente mientras dure cualquier interrupción del suministro eléctrico.
+
+Los costos de adquisición, operación, mantenimiento, reparación y eventual reemplazo del sistema de respaldo energético entregado a los pacientes electrodependientes serán asumidos íntegramente por la empresa distribuidora.
+
+Dichos costos podrán ser reconocidos como parte de los costos de explotación en los chequeos de rentabilidad anual, previa auditoría efectuada por la Superintendencia de Electricidad y Combustibles, de conformidad con las disposiciones reglamentarias que se dicten al efecto.
 
 #### Artículo 207
 
@@ -4247,6 +4263,16 @@ Para hacer efectiva la obligación establecida en el inciso anterior, las empres
 #### Artículo 207
 
 6.- Un reglamento expedido por el Ministerio de Energía establecerá las demás materias, requisitos, condiciones y procedimientos que sean necesarios para la debida y eficaz implementación de las disposiciones de este Capítulo.
+
+#### Artículo 207
+
+7.- Las empresas concesionarias de distribución eléctrica estarán obligadas a instalar, a más tardar el 1 de marzo de 2026, un sistema de medición remota del suministro eléctrico en cada punto de consumo asociado a una persona registrada como electrodependiente.
+
+Esta instalación tendrá carácter obligatorio, sin costo alguno para el cliente, y permitirá monitorear en línea la continuidad del suministro y generar alertas automáticas ante eventuales cortes.
+
+#### Artículo 207
+
+8.- En aquellos casos en que una familia deje de contar con el beneficio asociado al registro de persona electrodependiente y mantenga una deuda pendiente por no pago del suministro eléctrico, la empresa concesionaria deberá ofrecer un plan de reprogramación de dicha deuda en 24 cuotas mensuales. Durante el período en que se mantenga vigente la reprogramación y las cuentas se encuentren al día, no se podrá proceder a la suspensión del suministro eléctrico.
 
 ## Título VI
 

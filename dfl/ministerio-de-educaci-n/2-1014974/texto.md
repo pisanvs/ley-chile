@@ -1574,13 +1574,15 @@ Mientras no se efectúen los nombramientos de todos los integrantes del Consejo 
 
 #### Artículo 8º
 
-La estructura curricular establecida en el artículo 25 comenzará a regir a partir del año escolar 2026.
+La estructura curricular establecida en el artículo 25 comenzará a regir a partir del año escolar 2030.
 
 A contar de dicho año escolar, los cursos de séptimo y octavo año de la enseñanza básica y primero, segundo, tercero y cuarto año de la enseñanza media pasarán a denominarse primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
 
 En consecuencia, los alumnos que en el año escolar a que se refiere el inciso primero sean promovidos de sexto, séptimo y octavo año de la enseñanza básica y primero, segundo y tercer año de la enseñanza media lo serán a primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
 
 Por su parte, los alumnos que en el año escolar anterior a la entrada en vigencia de la nueva estructura curricular cursen y sean promovidos de cuarto año de la enseñanza media, egresarán de ésta y recibirán la licencia de educación media.
+
+Durante el año 2028, el Ministerio de Educación deberá realizar un estudio prospectivo que evalúe la pertinencia de aplicar la estructura curricular establecida en el artículo 25, y considerará a lo menos, los costos, adecuaciones de infraestructura, formación docente y bases curriculares requeridas, el que deberá presentarse a las Comisiones de Educación del Senado y de la Cámara de Diputadas y Diputados.
 
 #### Artículo 9º
 
