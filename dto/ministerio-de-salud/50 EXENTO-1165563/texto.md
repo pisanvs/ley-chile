@@ -30,6 +30,8 @@ Decreto:
 
 14.
 
+IMAGE
+
 .
 
 2º Derógase el decreto exento Nº 6, de 2010, del Ministerio de Salud.
