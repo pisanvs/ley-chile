@@ -2160,6 +2160,8 @@ d) Incorporación de un compromiso del Ministerio de Educación para colaborar y
 
 Este plan se ejecutará de conformidad a los recursos que establezca para estos efectos la respectiva Ley de Presupuestos del Sector Público, mediante los convenios señalados en el artículo siguiente.
 
+> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
+
 #### Artículo vigésimo quinto
 
 <!-- parte:9853109 -->
@@ -2192,6 +2194,8 @@ Una vez suscritos los convenios de ejecución, éstos deberán ser remitidos a l
 
 Para efectos de dar cumplimiento a lo señalado en el literal g) de este artículo, el Ministerio de Educación podrá requerir del apoyo del Servicio Nacional de Capacitación y Empleo, del Sistema Nacional de Certificación de Competencias Laborales y de la Subsecretaría de Desarrollo Regional y Administrativo, entre otros.
 
+> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
+
 #### Artículo vigésimo sexto
 
 <!-- parte:9853110 -->
@@ -2203,6 +2207,8 @@ El Ministerio de Educación determinará dichos gastos, pudiendo para ello solic
 a) Nombramiento de un administrador provisional respecto de uno o más establecimientos educacionales de su dependencia.
 
 b) Aplicación de sanciones por infracciones graves a la normativa educacional con excepción de las establecidas en los literales c), d) y e) del artículo 76 de la ley N° 20.529.
+
+> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
 
 #### Artículo vigésimo séptimo
 
@@ -2234,6 +2240,8 @@ c) Incumplimiento de las observaciones que el Ministerio de Educación realice r
 
 En caso de término de un convenio, de conformidad a lo señalado en el presente artículo, no se podrán celebrar los restantes convenios referentes a la transferencia de recursos por parte del Ministerio de Educación para contribuir al cumplimiento de los objetivos financieros del Plan de Transición que se hubiere suscrito.
 
+> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
+
 #### Artículo trigésimo
 
 <!-- parte:9853114 -->
@@ -2249,6 +2257,8 @@ c) Obligaciones contraídas con terceros proveedores de bienes y servicios direc
 d) Intereses y reajustes que correspondan, de las obligaciones señaladas en los literales anteriores.
 
 Las municipalidades o corporaciones municipales deberán remitir al Ministerio de Educación un informe desagregado por cada una de las obligaciones establecidas en el inciso anterior dentro de los ciento ochenta días siguientes a la entrada en vigencia de esta ley. Dicho informe deberá realizarse sobre la base de una auditoría externa al servicio educativo a cargo del respectivo municipio o corporación municipal, y será considerado para los efectos de lo establecido en el literal k) del artículo vigésimo quinto transitorio.
+
+> **Nota.** El artículo 83 de la ley 21806, publicada el 05.02.2026, declara interpretado el presente articulo en el sentido que la Dirección de Educación Pública estará facultada para transferir a los municipios y corporaciones municipales recursos destinados al cumplimiento de los objetivos financieros de los Planes de Transición y sus convenios de ejecución, con el objetivo de cubrir la deuda originada por la prestación del servicio educacional, que haya sido exigible hasta el 31 de diciembre de 2025.
 
 #### Artículo trigésimo primero
 
@@ -2611,6 +2621,26 @@ Adicionalmente, dichos actos administrativos y los convenios de ejecución del P
 <!-- parte:9853142 -->
 
 Extensión de los beneficios establecidos en la ley N° 20.964 para funcionarios que indica. El Presidente de la República enviará a tramitación durante el año 2017 un proyecto de ley que extienda la vigencia de la ley N° 20.964, que otorga bonificación por retiro voluntario al personal asistente de la educación, hasta el 31 de diciembre de 2025, incluyendo que los trabajadores regidos por el Código del Trabajo que se desempeñan en los Departamentos de Administración de Educación Municipal, en las Direcciones de Educación Municipal y el personal que cumple funciones relacionadas con la administración del servicio educacional en las corporaciones municipales, que cumplan con los requisitos correspondientes, gozarán de preferencia al postular a estos beneficios.".
+
+#### Artículo quincuagésimo sexto
+
+<!-- parte:10582502 -->
+
+Reglas especiales sobre el pago y reintegro de la deuda previsional de las municipalidades o corporaciones municipales. Cuando el Ministerio de Educación, con autorización de la Dirección de Presupuestos, pague directamente a las instituciones, o personas que corresponda, las deudas previsionales contraídas por las municipalidades o corporaciones municipales con anterioridad al traspaso del servicio educacional, el mecanismo de reintegro de los recursos fiscales que se utilicen para el pago correspondiente, a través de la resolución que disponga los descuentos al Fondo Común Municipal, se podrá realizar desde el mes inmediatamente siguiente a aquel en que se realicen los mencionados pagos.
+
+Previo al pago realizado por el Ministerio de Educación de acuerdo a lo dispuesto en el inciso anterior y, por consiguiente, previo a la formalización de la resolución de descuentos para el reintegro de los recursos fiscales, la Subsecretaría de Desarrollo Regional y Administrativo deberá simular la cantidad de cuotas e informar a la Dirección de Presupuestos y al Ministerio de Educación aquellos municipios en que la estimación de descuentos supere un período de 144 meses, lo que se determinará de acuerdo a un criterio de sostenibilidad financiera del municipio respectivo. En este último caso, el Ministerio de Educación solicitará a la Tesorería General de la República que retenga los fondos contemplados en los artículos 38 bis y 38 ter del Decreto Nº2.385 de 1996 del Ministerio del Interior, que fija texto refundido y sistematizado del decreto ley Nº3.063, de 1979, sobre Rentas Municipales, para que se efectúe el pago de la deuda o parte de ella, según se individualice por el referido Ministerio en su solicitud. Una vez practicado este descuento y efectuado el pago, el Ministerio de Educación informará a la Subsecretaría de Desarrollo Regional y Administrativo el nuevo saldo para aplicar la resolución que establece los descuentos al Fondo Común Municipal dispuesta en el inciso anterior.
+
+Al año siguiente de aplicada la resolución de descuentos, y si la deuda remanente sigue sin poder ser descontada a la municipalidad respectiva en un máximo de 144 meses, la Subsecretaría de Desarrollo Regional y Administrativo podrá recalcular los descuentos, en una nueva resolución, y aplicará nuevamente el proceso descrito en el inciso segundo, en el caso que la municipalidad respectiva sea beneficiaria nuevamente de los fondos señalados en los artículos 38 bis y 38 ter del decreto ley Nº3.063, de 1979, sobre Rentas Municipales.
+
+Sin perjuicio de lo anterior, y sujeto a la disponibilidad presupuestaria, el pago de la deuda previsional según lo dispuesto en el presente artículo se priorizará, al menos, de la siguiente manera:
+
+1. Pagos ordenados por sentencia judicial firme y ejecutoriada.
+
+2. Deudas correspondientes a trabajadores traspasados al respectivo Servicio Local de Educación Pública, de conformidad a la priorización por edad que se realice al efecto, y se comenzará por las personas de mayor edad, ya sea jubiladas o cercanas a la edad legal de jubilación.
+
+3. Trabajadores beneficiarios del Bono por Retiro Voluntario, conforme a las leyes N° 20.964 y N° 20.976, según corresponda.
+
+Los mecanismos procedimentales, términos, criterios para la prelación o condiciones de pago y reintegro establecidas en el presente artículo podrán ser complementadas mediante un reglamento dictado por el Ministerio de Educación, que además deberá ser suscrito por el Ministro de Hacienda y por el Ministro del Interior.
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

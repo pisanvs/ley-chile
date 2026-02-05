@@ -72,7 +72,7 @@ b) Una memoria justificada de la solicitud de concesión.
 
 En esta memoria se comprenderá un estudio general de la zona de atracción probable, una estimación del tráfico previsto con la indicación de los puntos de origen y destino de las diversas mercaderías por transportar y una avaluación de las entradas y gastos de explotación;
 
-c) Una boleta de garantía por el valor que resulte, a razón de 50 pesos por kilómetro, con mínimo de 1,000 pesos.
+c) Una boleta de garantía por el valor que resulte, a razón de 5 unidades tributarias mensuales por kilómetro, con mínimo de 50 unidades tributarias mensuales.
 
 #### Artículo 5°
 
@@ -358,7 +358,7 @@ Las vías férreas, como vías públicas, gozan de las servidumbres establecidas
 
 Es prohibido introducirse, estacionarse o transitar por la vía de un ferrocarril, ocuparla con animales, depósito de carga o cualesquiera otros objetos o embarazar de cualquiera otra manera el libre tránsito de los trenes.
 
-La contravención será penada con multa de cincuenta a mil pesos, sin perjuicio de las indemnizaciones a que hubiere lugar.
+La contravención será penada con multa de 5 a 10 unidades tributarias mensuales, sin perjuicio de las indemnizaciones a que hubiere lugar.
 
 #### Artículo 34
 
@@ -438,7 +438,7 @@ Podrán autorizarse los depósitos o acopios temporales a menor distancia de cin
 
 <!-- parte:7155223 -->
 
-Los que contraviniendo a lo prescrito en los artículos 34, 35, 36 y 37, ejecutaren los trabajos, construcciones, plantaciones y demás actos que en dichos artículos se enumeran, sufrirán una multa de cinco a cien pesos y estarán, además, obligados a destruir lo hecho y a restablecer el suelo al estado anterior.
+Los que contraviniendo a lo prescrito en los artículos 34, 35, 36 y 37, ejecutaren los trabajos, construcciones, plantaciones y demás actos que en dichos artículos se enumeran, sufrirán una multa de 1 a 5 unidades tributarias mensuales y estarán, además, obligados a destruir lo hecho y a restablecer el suelo al estado anterior.
 
 Si en el término perentorio que señalare el Departamento, no se hubiere destruído la obra construida, o restablecido el terreno a su estado anterior, podrá la empresa, previamente autorizada por dicho Departamento, proceder a ejecutar los trabajos a expensas del propietario del terreno. La cuenta del costo visada por el Departamento, tendrá el carácter de documento ejecutivo para exigir el pago.
 
@@ -708,7 +708,7 @@ El Presidente de la República podrá ordenar las modificaciones que sean necesa
 
 <!-- parte:7155249 -->
 
-El Presidente de la República, por intermedio del Departamento, podrá compeler a las empresas al cumplimiento de cualquiera de las obligaciones prescritas en los artículos que preceden con una multa de un 10% a un 50% del sueldo vital, escala "A", fijado para el departamento de Santiago, por cada día que subsista la infracción.
+El Presidente de la República, por intermedio del Departamento, podrá compeler a las empresas al cumplimiento de cualquiera de las obligaciones prescritas en los artículos que preceden con una multa de entre 1 y 5 unidades tributarias mensuales, por cada día que subsista la infracción.
 
 Si los trabajos no se ejecutaren dentro del plazo que se fije, la empresa podrá ser compelida con una multa doble, sin perjuicio del pago de aquella en que hubiere incurrido.
 
@@ -1200,7 +1200,7 @@ El autor de los hechos que hubieren producido el accidente, no sólo es obligado
 
 <!-- parte:7155302 -->
 
-La amenaza hecha de palabra o por escrito, de cometer algunos de los delitos previstos en el artículo 105, será castigada con prisión y multa de 50 a 500 pesos.
+La amenaza hecha de palabra o por escrito, de cometer algunos de los delitos previstos en el artículo 105, será castigada con prisión y multa de 5 a 25 unidades tributarias mensuales.
 
 #### Artículo 111
 
@@ -1212,7 +1212,7 @@ Si los delitos a que se refiere el artículo 105 fueren cometidos en los momento
 
 <!-- parte:7155304 -->
 
-El que por ignorancia, imprudencia, descuido o inobservancia de los reglamentos del ferrocarril causare involuntariamente accidentes que hubieren herido o dañado a alguna persona, sufrirá la pena de presidio menor en su grado mínimo y multa de 50 a 500 pesos, sin perjuicio de reparar el daño causado.
+El que por ignorancia, imprudencia, descuido o inobservancia de los reglamentos del ferrocarril causare involuntariamente accidentes que hubieren herido o dañado a alguna persona, sufrirá la pena de presidio menor en su grado mínimo y multa de 5 a 25 unidades tributarias mensuales, sin perjuicio de reparar el daño causado.
 
 #### Artículo 113
 
@@ -1220,19 +1220,19 @@ El que por ignorancia, imprudencia, descuido o inobservancia de los reglamentos 
 
 Si el accidente causado sin voluntad originase la muerte de alguna persona, el culpable sufrirá la pena de presidio menor, en sus grados medio a máximo.
 
-En caso de no haber muertos ni heridos, la pena será la de prisión y multa de 50 a 500 pesos, sin perjuicio de las reparaciones del daño causado.
+En caso de no haber muertos ni heridos, la pena será la de prisión y multa de 5 a 25 unidades tributarias mensuales, sin perjuicio de las reparaciones del daño causado.
 
 #### Artículo 114
 
 <!-- parte:7155306 -->
 
-El maquinista, conductor o guardafrenos que abandonase su puesto durante su servicio o lo atendiese en estado de ebriedad, será penado con presidio menor en sus grados mínimo a medio y multa de 50 a 500 pesos.
+El maquinista, conductor o guardafrenos que abandonase su puesto durante su servicio o lo atendiese en estado de ebriedad, será penado con presidio menor en sus grados mínimo a medio y multa de 5 a 25 unidades tributarias mensuales.
 
 #### Artículo 115
 
 <!-- parte:7155307 -->
 
-Si a consecuencia del abandono del puesto o del estado de embriaguez, ocurrieren accidentes que hicieren o causaren la muerte de alguna persona, se aplicará la pena de presidio menor en su grado máximo y multa de 50 a 500 pesos.
+Si a consecuencia del abandono del puesto o del estado de embriaguez, ocurrieren accidentes que hicieren o causaren la muerte de alguna persona, se aplicará la pena de presidio menor en su grado máximo y multa de 5 a 25 unidades tributarias mensuales.
 
 #### Artículo 116
 
@@ -1272,7 +1272,7 @@ Si de estos accidentes resultase herida alguna persona, la pena será de presidi
 
 <!-- parte:7155312 -->
 
-Todo ataque o resistencia violenta a los agentes o empleados de los ferrocarriles en el desempeño de sus funciones, será castigado con prisión y multa de $ 50 a $ 500.
+Todo ataque o resistencia violenta a los agentes o empleados de los ferrocarriles en el desempeño de sus funciones, será castigado con prisión y multa de 5 a 25 unidades tributarias mensuales.
 
 #### Artículo 120
 
@@ -1304,13 +1304,13 @@ Tanto los jefes de estaciones, como los conductores de trenes y los demás emple
 
 <!-- parte:7155317 -->
 
-Los que se resistieren a las representaciones o requisiciones de los jefes de estación, conductores de trenes u otros empleados encargados de cuidar de la seguridad del tránsito, acerca de la observancia de los reglamentos de policía de seguridad y orden, a más de la pena que le correspondiere por la contravención, sufrirán la pena de prisión y multa de cincuenta a cien pesos, sin perjuicio de la que corresponda a los actos que hubieren ejecutado contra el jefe de estación, conductor o empleado que los hubiere requerido.
+Los que se resistieren a las representaciones o requisiciones de los jefes de estación, conductores de trenes u otros empleados encargados de cuidar de la seguridad del tránsito, acerca de la observancia de los reglamentos de policía de seguridad y orden, a más de la pena que le correspondiere por la contravención, sufrirán la pena de prisión y multa de 1 a 5 unidades tributarias mensuales, sin perjuicio de la que corresponda a los actos que hubieren ejecutado contra el jefe de estación, conductor o empleado que los hubiere requerido.
 
 #### Artículo 125
 
 <!-- parte:7155318 -->
 
-Las infracciones de la presente ley, cometidas con voluntad criminal, que no tengan pena especial señalada, serán castigadas con presidio menor en su grado máximo, y multa de $ 50 a $ 3,000, por denuncia de los inspectores, de los pasajeros, o a solicitud del ministerio público.
+Las infracciones de la presente ley, cometidas con voluntad criminal, que no tengan pena especial señalada, serán castigadas con presidio menor en su grado máximo, y multa de 5 a 50 unidades tributarias mensuales, por denuncia de los inspectores, de los pasajeros, o a solicitud del ministerio público.
 
 #### Artículo 126
 
@@ -1340,7 +1340,7 @@ Las empresas de ferrocarriles son responsables de los actos u omisiones contrari
 
 <!-- parte:7155323 -->
 
-Cada infracción no penada especialmente en la presente ley, será castigada con una multa de 50 a 500 pesos.
+Cada infracción no penada especialmente en la presente ley, será castigada con una multa de 5 a 25 unidades tributarias mensuales.
 
 Se considerará como infracción distinta, cada día que dejen transcurrir sin ajustarse a las disposiciones de la ley o reglamento, después de la orden que al efecto hubieren recibido del Departamento.
 
