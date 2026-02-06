@@ -816,7 +816,7 @@ o) Incentivos en normas urbanísticas contenidos en los Planes Reguladores Comun
 
 6. Identificación de la resolución aprobatoria del Informe de Mitigación de Impacto Vial del loteo que dio origen al lote o del certificado que dé cuenta de su aprobación por silencio positivo, cuando el loteo haya debido elaborar dicho informe.
 
-6. Otras condiciones que afecten al predio:
+7. Otras condiciones que afecten al predio:
 
 a) Declaratoria de postergación de permisos, señalando el plazo de vigencia y el decreto o resolución correspondiente.
 
@@ -1134,7 +1134,7 @@ Las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza p
 
 Las comunas que no estén normadas por un Plan Regulador Intercomunal o Metropolitano, por un Plan Regulador Comunal o por un Plan Seccional, se regirán por las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza.
 
-En aquellas zonas urbanas que no estén normadas por un Plan Regulador Comunal o un Plan Seccional, situación aplicable en los casos regulados únicamente por un límite urbano, aplicarán las normas supletorias contenidas en el artículo 28 quinquies de la Ley General de Urbanismo y Construcciones. Estas normas también serán aplicables cuando se declare la nulidad total o parcial de un Plan Regulador Comunal o Seccional. Por el contrario, las normas supletorias contenidas en el artículo 28 quinquies de la Ley General de Urbanismo y Construcciones, no serán aplicables en las áreas de extensión urbana establecidas por un Plan Regulador Intercomunal o Metropolitano.
+En aquellas zonas urbanas que no estén normadas por un Plan Regulador Comunal o un Plan Seccional, situación aplicable en los casos regulados únicamente por un límite urbano, aplicarán las normas supletorias contenidas en el artículo 28 quinquies de la Ley General de Urbanismo y Construcciones, y aquellas normas urbanísticas establecidas en la Ley General de Urbanismo y Construcciones y esta Ordenanza General, como adosamientos, rasantes, distanciamientos, y cesiones. Lo anterior sin perjuicio del cumplimiento de las disposiciones sectoriales aplicables a las áreas de protección de recursos de valor natural o patrimonial cultural protegidas por el ordenamiento jurídico vigente y a las áreas, zonas, franjas o radios de restricción. Estas normas también serán aplicables cuando se declare la nulidad total o parcial de un Plan Regulador Comunal o Seccional. Por el contrario, las normas supletorias contenidas en el artículo 28 quinquies de la Ley General de Urbanismo y Construcciones, no serán aplicables en las áreas de extensión urbana establecidas por un Plan Regulador Intercomunal o Metropolitano.
 
 #### Artículo 2
 
@@ -1150,7 +1150,7 @@ Para efectos de lo dispuesto en el artículo 28 quinquies de la Ley General de U
 
 Copia certificada por el respectivo Ministro de Fe de la memoria explicativa, los planos y la ordenanza correspondiente, se archivarán en los Conservadores de Bienes Raíces respectivos, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la respectiva Secretaría Regional de dicho Ministerio y, cuando se trate de instrumentos de nivel comunal, en las Municipalidades correspondientes. Cuando se trate de modificaciones o enmiendas al Instrumento de Planificación Territorial, deberá archivarse el o los actos administrativos promulgatorios que contengan el detalle de las disposiciones modificadas, junto a la memoria explicativa y, en caso de corresponder, los planos aprobados.
 
-Los documentos indicados en los incisos anteriores, junto con el informe ambiental, deberán estar disponibles en el sitio electrónico del organismo que los promulgó, quedando en su poder la documentación original.
+Los documentos indicados en los incisos anteriores, junto con el informe ambiental y un resumen ejecutivo del instrumento de planificación territorial o su modificación que incluya su descripción y los principales efectos esperados, deberán estar disponibles en el sitio electrónico del organismo que los promulgó, quedando en su poder la documentación original.
 
 Los planos que conformen un Instrumento de Planificación Territorial deberán confeccionarse sobre base aerofotogramétrica o satelital, debidamente georreferenciada y según lo establecido en el Patrón Nacional de Instrumentos de Planificación Territorial que para los efectos instruya la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo a través de circulares.
 
@@ -1188,7 +1188,7 @@ b) No concordar con lo informado. En este caso, junto con formular observaciones
 
 Una vez recibido el pronunciamiento, la Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo tendrá un plazo máximo de treinta días, contado desde la recepción del pronunciamiento, para responder formalmente, conforme a las siguientes situaciones:
 
-b.1) En caso de aceptar las observaciones formuladas por la autoridad, la respuesta deberá explicitar el procedimiento a utilizar para la actualización del instrumento y el plazo para su inicio, el que no podrá superar los sesenta días contados desde la fecha de la respuesta.
+b.1) En caso de aceptar las observaciones formuladas por la autoridad, la respuesta deberá explicitar el procedimiento a utilizar para la actualización del instrumento y el plazo para su inicio, el que no podrá superar los ciento ochenta días contados desde la fecha de la respuesta.
 
 b.2) En caso de no acoger las observaciones, deberá justificar fundadamente las razones de ello, consignando expresamente los motivos por los que se considera que no se verifican las necesidades de actualización informadas por la autoridad.
 
@@ -1198,17 +1198,17 @@ En tal caso, dentro del mismo plazo se deberá, emitir el acto administrativo qu
 
 a) Concordar con lo informado. En tal situación deberá remitir su pronunciamiento a la Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda.
 
-Una vez recibido el pronunciamiento, la Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo tendrá un plazo de sesenta días para iniciar la actualización del Instrumento de Planificación Territorial, según lo concordado.
+Una vez recibido el pronunciamiento, la Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo tendrá un plazo de ciento ochenta días para iniciar la actualización del Instrumento de Planificación Territorial, según lo concordado.
 
 b) No concordar con las necesidades de actualización. En este caso, deberá formular las observaciones respectivas y remitir su pronunciamiento a la Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda. En este caso deberá explicitar si hay necesidades de actualización no advertidas.
 
 Una vez recibido el pronunciamiento, la Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo tendrá un plazo máximo de treinta días, contado desde la recepción del pronunciamiento, para responder formalmente, conforme a las siguientes situaciones:
 
-b.1) En caso de aceptar las observaciones formuladas por la autoridad, la respuesta deberá explicitar el procedimiento a utilizar y el plazo para iniciar la actualización, el que no podrá superar los sesenta días contados desde la fecha de la respuesta.
+b.1) En caso de aceptar las observaciones formuladas por la autoridad, la respuesta deberá explicitar el procedimiento a utilizar y el plazo para iniciar la actualización, el que no podrá superar los ciento ochenta días contados desde la fecha de la respuesta.
 
 b.2) En caso de no acoger parcial o totalmente las observaciones, deberá justificar fundadamente las razones de ello, y señalar expresamente los motivos por los que no se verifican las necesidades de actualización advertidas por la autoridad.
 
-Junto a lo anterior, deberá explicitar el procedimiento a utilizar y el plazo para iniciar la actualización del Instrumento conforme a las necesidades de actualización detectadas, el que no podrá superar los sesenta días contados desde la fecha de la respuesta.
+Junto a lo anterior, deberá explicitar el procedimiento a utilizar y el plazo para iniciar la actualización del Instrumento conforme a las necesidades de actualización detectadas, el que no podrá superar los ciento ochenta días contados desde la fecha de la respuesta.
 
 Con todo, si la Municipalidad respectiva no da inicio al procedimiento señalado en los numerales 1, 2 y 3, precedentes, para actualizar el Plan Regulador Comunal o Plan Seccional, las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, de oficio podrán realizar la evaluación del respectivo Instrumento de Planificación Territorial a objeto de determinar las necesidades de actualización, de acuerdo a lo señalado en el numeral 1 de este artículo.
 
@@ -1386,7 +1386,7 @@ Los planos originales del Plan Regulador Intercomunal o Metropolitano deberán l
 
 1.9. bis. Podrán aprobarse enmiendas a los Planes Reguladores Intercomunales o Metropolitanos, cuando se trate de las siguientes modificaciones calificadas como no sustantivas y recaigan solo en disposiciones relativas al ámbito de competencia que le es propio.
 
-a) Establecer declaratorias de utilidad pública destinadas a vías expresas y troncales, solo cuando se trate de ensanches, sin perjuicio de lo dispuesto en la letra j) de este inciso.
+a) Establecer declaratorias de utilidad pública destinadas a vías expresas y troncales, solo cuando se trate de ensanches, sin perjuicio de lo dispuesto en la letra i) de este inciso.
 
 b) Reclasificar o asimilar la vialidad.
 
@@ -1434,7 +1434,7 @@ b) Los objetivos del Plan, incluyendo metas e indicadores de seguimiento, en arm
 
 c) El diagnóstico territorial y ambiental estratégico, que contendrá un análisis sistémico territorial, proyecciones y tendencias, condicionantes y potencialidades.
 
-d) La descripción de los principales elementos o normas del Plan, señalando los antecedentes que los justifican según el ámbito de competencia del instrumento, contenidas en el artículo 2.1.1.0. bis de esta Ordenanza y las condiciones específicas del territorio a planificar, debiendo incluir, además, las metodologías empleadas.
+d) La descripción de los principales elementos o normas del Plan, señalando los antecedentes que los justifican según el ámbito de competencia del instrumento, contenidas en el artículo 2.1.10. bis de esta Ordenanza y las condiciones específicas del territorio a planificar, debiendo incluir, además, las metodologías empleadas.
 
 e) Los siguientes estudios técnicos, los que necesariamente deberán estar en coordinación con las políticas sectoriales asociadas a cada materia:
 
@@ -1558,7 +1558,7 @@ Si no existiera un Plan Regulador Metropolitano o Intercomunal que incluya el te
 
 El pronunciamiento del Consejo Regional se hará sobre la base del informe técnico de la Secretaría Regional Ministerial. Si el informe fuere desfavorable, el Consejo sólo podrá aprobar el proyecto de Plan Regulador Comunal mediante acuerdo fundado.
 
-Aprobado el proyecto de Plan Regulador Comunal en la forma establecida en los dos incisos anteriores, este será promulgado por resolución del Gobernador Regional.
+Aprobado el proyecto de Plan Regulador Comunal en la forma establecida en los tres incisos anteriores, este será promulgado por resolución del Gobernador Regional.
 
 Los gastos que demande la publicación de los actos administrativos que promulguen la aprobación del Plan junto con el resto de la información a que se alude en el artículo 28 septies de la Ley General de Urbanismo y Construcciones, serán de cargo del órgano al cual compete su aprobación.
 
