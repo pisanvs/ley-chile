@@ -966,7 +966,7 @@ Igual permiso se aplicará, por siete días hábiles, en el caso de muerte de un
 
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
 
-El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
+El trabajador al que se refiere el inciso primero gozará de fuero laboral por el periodo de un mes a partir del día del respectivo fallecimiento. Si se trata de trabajadores cuyos contratos de trabajo sean a plazo fijo, o por obra o servicio determinado, el fuero establecido en el presente artículo se mantendrá vigente por el mismo periodo o hasta el término de dicho contrato.
 
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
 
@@ -2735,6 +2735,18 @@ Las actividades realizadas durante la jornada de trabajo o fuera de ella deberá
 #### Artículo 157
 
 quinquies.- Las empresas sujetas a la obligación establecida en el artículo 157 bis deberán realizar los ajustes necesarios para adecuar sus mecanismos, procedimientos y prácticas de reclutamiento y selección de personal, en todo cuanto se requiera, para resguardar la igualdad de oportunidades de las personas con discapacidad que participen en ellos, de conformidad a lo dispuesto en el artículo 24 de la ley N° 20.422.
+
+#### Artículo 157
+
+sexies.- La infracción a la obligación establecida en el inciso primero del artículo 157 bis se sancionará con multa equivalente a veinte unidades tributarias mensuales en el caso de medianas empresas y a treinta unidades tributarias mensuales en el caso de grandes empresas, de conformidad a la clasificación establecida en el artículo 505 bis. La multa será aplicada por cada mes en el que el empleador incurra en dicha infracción y respecto de cada persona con discapacidad y/o asignataria de una pensión de invalidez que, en virtud del número de trabajadores de la empresa, debió estar contratada.
+
+Si el empleador optó por cumplir mediante alguna de las medidas establecidas en el artículo 157 ter y la Dirección del Trabajo rechaza las razones invocadas como fundamento, de acuerdo con el inciso segundo de dicho artículo, aplicará la misma sanción establecida en el inciso anterior respecto a cada persona con discapacidad y/o asignataria de una pensión de invalidez que, en virtud del número de trabajadores de la empresa, debió estar contratada.
+
+Igual sanción se aplicará en caso de que el empleador, habiendo optado por las medidas establecidas en el artículo 157 ter, no cumple con las condiciones establecidas en dicha disposición. Para efectos de determinar la multa a aplicar, se tendrá por cumplida la obligación del inciso primero del artículo 157 bis en la proporción que representan las donaciones efectuadas o los contratos celebrados, en su caso, en relación con el monto anual exigido.
+
+Para el resto de las infracciones a las obligaciones del presente Capítulo no reguladas en este artículo, se aplicarán las reglas generales establecidas en el Libro V, Título Final, sobre fiscalización, sanciones y prescripción.
+
+> **Nota.** El Dictamen N° 693/26 de fecha 23.10.2024 de la Dirección del Trabajo, que fija el sentido y alcance de la ley N° 21.690, establece en su literal b) del numeral IX, que el presente artículo entrará en vigor el 01.01.2025, de conformidad con el artículo cuarto transitorio de la citada ley. En cuanto a los procedimientos sancionadores iniciados por dicha Dirección con anterioridad al 01.01.2025 continuarán hasta su término conforme a las disposiciones vigentes al momento de su inicio, es decir, se sancionará conforme a las reglas establecidas en el Título final del Libro V del Código del Trabajo.
 
 ## Título IV
 

@@ -184,13 +184,13 @@ Para los efectos de esta ley, se considerará igualmente que son terceros afecta
 
 El seguro de accidentes personales garantizará las siguientes indemnizaciones:
 
-1. Una cantidad equivalente a 300 unidades de fomento en caso de muerte;
+1. Una cantidad equivalente a 600 unidades de fomento en caso de muerte;
 
-2. Una cantidad equivalente a 300 unidades de fomento en caso de incapacidad permanente total;
+2. Una cantidad equivalente a 600 unidades de fomento en caso de incapacidad permanente total;
 
-3. Una cantidad equivalente de hasta 200 unidades de fomento en caso de incapacidad permanente parcial, debiendo el monto definitivo ser una proporción de dicha indemnización máxima, según la clasificación que al efecto se haga en la póliza, y
+3. Una cantidad equivalente de hasta 400 unidades de fomento en caso de incapacidad permanente parcial, debiendo el monto definitivo ser una proporción de dicha indemnización máxima, según la clasificación que al efecto se haga en la póliza, y
 
-4. Una cantidad equivalente de hasta 300 unidades de fomento por concepto de gastos de hospitalización o de atención médica, quirúrgica, dental, prótesis, implantes, farmacéutica y cualquiera otra que se requiera para su rehabilitación. Estas 300 unidades de fomento se destinarán sólo al pago o copago de los gastos señalados precedentemente.
+4. Una cantidad equivalente de hasta 600 unidades de fomento por concepto de gastos de hospitalización o de atención médica, quirúrgica, dental, prótesis, implantes, farmacéutica y cualquiera otra que se requiera para su rehabilitación. Estas 600 unidades de fomento se destinarán sólo al pago o copago de los gastos señalados precedentemente.
 
 Las incapacidades temporales de cualquier especie no darán derecho a otra indemnización que la señalada en el número 4 del inciso anterior.
 
@@ -237,6 +237,8 @@ Las indemnizaciones previstas en esta ley en relación con el seguro de accident
 3.- En caso de incapacidad, certificado que acredite la naturaleza y grado de ella, y
 
 4.- Comprobantes que acrediten el valor o el precio de la atención, recuperación y rehabilitación médica y dental de cualquier orden, y de la atención farmacéutica a que haya debido someterse la víctima, como consecuencia de las lesiones sufridas.
+
+El plazo indicado en el inciso anterior se reducirá a siete días, para el caso de muerte de la víctima, desde la presentación de los documentos indicados precedentemente.
 
 #### Artículo 31
 
