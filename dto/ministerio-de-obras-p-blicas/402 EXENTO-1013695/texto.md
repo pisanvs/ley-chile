@@ -20,7 +20,7 @@ Decreto:
 
 2º Declárese Caminos Públicos en la XI Región de Aysén todos los tramos urbanos ubicados en los centros poblados, pueblos y ciudades de las siguientes rutas:
 
-Ruta 7, Longitudinal Austral, sector: Límite Regional - Puerto Yungay - Villa O'Higgins. (último tramo: Puerto Yungay - Ventisquero Montt).
+Ruta 7, Longitudinal Austral, Sector: Límite Regional - Puerto Yungay.
 
 Ruta 240 CH, Cruce Ruta 7 (Coihaique) - Puerto Chacabuco.
 
@@ -50,11 +50,7 @@ Ruta S/R-X, Cruce Ruta 7 - Caleta Tortel.
 
 Coihaique:
 
-. El tramo urbano de la Ruta 7, desde el límite urbano Norte hasta el límite urbano Sur; a través de Av. Norte Sur y Av. Ogana.
-
-. El tramo urbano de la Ruta 243-CH, desde Av. Norte Sur hasta el límite urbano Oriente; a través de Av. General Baquedano.
-
-El sistema vial que interconecta las rutas X-608 y X-614, desde el límite urbano surponiente hasta el límite urbano poniente, a través de: Camino a Lago Atravesado, Camino Aeródromo Tte. Vidal y Camino El Claro.
+. El sistema vial urbano que conecta la Ruta 7 con la Variante Sur Ruta 7, desde el límite urbano norte hasta el límite urbano sur; a través de: Avda. General Baquedano y Avda. Norte Sur.
 
 Aysén:
 
