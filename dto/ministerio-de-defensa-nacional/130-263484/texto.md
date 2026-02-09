@@ -122,7 +122,9 @@ Lo anterior, es sin perjuicio de la investigación o denuncia que a través de l
 
 #### Artículo 14º
 
-Las Instituciones de las Fuerzas Armadas deberán informar al Ministerio de Defensa Nacional sobre el funcionamiento de las respectivas Oficinas, denuncias presentadas y datos estadísticos, cada vez que le sea solicitado, a través de la respectiva Subsecretaría.
+Las Instituciones de las Fuerzas Armadas, deberán remitir mensualmente un informe a la o el Ministro de Defensa Nacional, en que se reporte estadísticamente el número de peticiones, solicitudes y denuncias recibidas. En dicho informe se deberá incorporar, asimismo, información sobre el estado y plazo de tramitación de las respuestas recaídas sobre aquellos requerimientos.
+
+Dicho informe contendrá, a lo menos, una relación de todas las denuncias formuladas por los padres o apoderados de un soldado conscripto, referidas a tratamientos que contravengan la dignidad y honor de las personas, o que no se ajusten a la reglamentación vigente, con indicación de las acciones y medidas adoptadas en relación a los hechos que la fundamentan.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada y Fuerza Aérea de Chile.- MICHELLE BACHELET JERIA, Presidenta de la República.- José Goñi Carrasco, Ministro de Defensa Nacional.
 
