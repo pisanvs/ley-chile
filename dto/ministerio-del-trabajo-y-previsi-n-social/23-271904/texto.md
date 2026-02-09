@@ -18,13 +18,9 @@ El Sistema de Pensiones Solidarias creado por la ley Nº 20.255, se regirá por 
 
 El presente reglamento regula la concesión, mantención, suspensión y extinción de los siguientes beneficios:
 
-a) Pensión Básica Solidaria de Vejez;
+a) Pensión Básica Solidaria de Invalidez, y
 
-b) Aporte Previsional Solidario de Vejez;
-
-c) Pensión Básica Solidaria de Invalidez, y
-
-d) Aporte Previsional Solidario de Invalidez.
+b) Aporte Previsional Solidario de Invalidez.
 
 ## Título Segundo
 
@@ -130,9 +126,9 @@ Con todo, el Instituto de Previsión Social estará facultado para exigir de otr
 
 #### Artículo 15
 
-Con el objeto de acreditar el cumplimiento de los correspondientes requisitos de residencia, a que se refieren las letras c) de los artículos 3º y 16 de la ley Nº 20.255, el Instituto de Previsión Social requerirá a la Policía de Investigaciones de Chile la información que ésta registre de los eventuales beneficiarios, sobre entradas y salidas del territorio de la República de Chile.
+Con el objeto de
 
-En el caso de las solicitudes de aportes previsionales solidarios de vejez, se entenderá cumplido el requisito de la letra c) del artículo 3º de la ley Nº 20.255, respecto de las personas que registren veinte años o más de cotizaciones en uno o más de los sistemas de pensiones en Chile. Para tal efecto, el Instituto de Previsión Social requerirá los datos pertinentes a los organismos correspondientes, de manera alternativa a la recabada conforme a lo dispuesto en el inciso precedente.
+acreditar el cumplimiento del requisito de residencia, a que se refiere la letra c) del artículo 16 de la ley N° 20.255, el Instituto de Previsión Social recurrirá a la información disponible en el Sistema de Información de Datos Previsionales, pudiendo efectuar los cruces de información necesarios para el cumplimiento de lo establecido en este artículo, sin perjuicio de otros medios de prueba que pueda acompañar el (la) beneficiario(a) para dicho fin.
 
 Si el solicitante de un beneficio del Sistema de Pensiones Solidarias declara haber tenido la calidad de exiliado o de haber permanecido en el extranjero por motivos de cumplimiento de misiones diplomáticas, representaciones consulares y demás funciones oficiales de Chile, el Instituto de Previsión Social requerirá cuando fuere necesario, la siguiente información, de manera complementaria a la información recabada de conformidad a lo dispuesto en el inciso primero:
 
@@ -142,9 +138,9 @@ b) Al Ministerio de Relaciones Exteriores: Los datos que tenga disponible para d
 
 La información a que se refieren los incisos precedentes será incorporada al Sistema de Información de Datos Previsionales.
 
-En el caso de personas carentes de recursos, solicitantes de pensión básica solidaria de vejez, el Instituto de Previsión Social deberá considerar el requisito de residencia contado desde la fecha de nacimiento del peticionario, de acuerdo a lo dispuesto en el inciso final del artículo 5º de la ley Nº 20.255, consultando al efecto el Sistema de Información de Datos Previsionales.
-
 > **Nota.** El Nº2 del Artículo primero del Decreto 14, Trabajo y Previsión social, publicado el 03.06.2010, modifica la presente norma en el sentido de establecer que su inciso 1º comenzará a regir una vez que se encuentre operativo el registro de datos que para tal efecto administre la Policía de Investigaciones de Chile, sustituyendo la redacción del artículo séptimo transitorio del presente decreto, que establecía vigencia diferida al 1 de Julio del 2010.
+
+> **Nota.** NOTA 1 El literal a) del N° 2 del artículo primero del Decreto 59, Trabajo, publicado el 09.02.2026, dispone reemplazar el inciso primero del presente artículo 15. No obstante, conforme a lo establecido en el numeral 2 del artículo primero del Decreto 14, Trabajo, publicado el 03.06.2010, la entrada en vigor de dicho inciso fue prorrogada desde el 1° de julio de 2010 hasta que se encuentre operativo el registro de datos administrado por la Policía de Investigaciones de Chile, quedando de esta manera supeditada su vigencia a dicha puesta en funcionamiento.
 
 #### Artículo 16
 
@@ -178,13 +174,13 @@ Del pago de los beneficios
 
 Otorgado el respectivo beneficio y calculado su monto, los beneficiarios recibirán el pago mensual correspondiente a través del mecanismo y en la oportunidad que establezca el Instituto de Previsión Social, según las normas generales que determine para tal efecto la Superintendencia de Pensiones. Con todo, la referida Superintendencia deberá entregar su autorización previa para cada nueva modalidad de pago que sea establecida por el Instituto.
 
-Tratándose de beneficiarios de aporte previsional solidario de vejez o invalidez, el Instituto de Previsión Social podrá traspasar los montos correspondientes a dichos beneficios a las entidades que deban efectuar los pagos de las respectivas pensiones, de conformidad a las instrucciones que imparta la Superintendencia de Pensiones. Asimismo, podrá traspasar los montos correspondientes a pensiones básicas solidarias a las instituciones que deban efectuar los pagos de las pensiones a que se refiere la ley Nº 18.056.
+Tratándose de beneficiarios de aporte previsional solidario de invalidez, el Instituto de Previsión Social podrá traspasar el monto correspondiente a dicho beneficio a las entidades que deban efectuar el pago de las respectivas pensiones, de conformidad a las instrucciones que imparta la Superintendencia de Pensiones. Asimismo, podrá traspasar el monto correspondiente a pensiones básicas solidarias a las instituciones que deban efectuar los pagos de las pensiones a que se refiere la ley Nº 18.056.
 
 #### Artículo 22
 
 El Instituto de Previsión Social o la institución pagadora del beneficio, según el caso, deberá efectuar los descuentos correspondientes para el pago de la cotización a que se refiere el artículo 85 del decreto ley Nº 3.500, de 1980.
 
-No obstante lo dispuesto en el inciso precedente, los beneficiarios de pensión básica solidaria de vejez o invalidez estarán exentos de dichos descuentos, en el caso que se determine que son carentes de recursos, de acuerdo a lo previsto en el artículo 31 de la ley Nº 20.255, previa verificación por parte del Instituto de Previsión Social con la información disponible en el Sistema de Información de Datos Previsionales.
+No obstante lo dispuesto en el inciso precedente, los beneficiarios de pensión básica solidaria de invalidez estarán exentos de dichos descuentos, en el caso que se determine que son carentes de recursos, de acuerdo a lo previsto en el artículo 31 de la ley Nº 20.255, previa verificación por parte del Instituto de Previsión Social con la información disponible en el Sistema de Información de Datos Previsionales.
 
 Asimismo, no estarán obligados a realizar la cotización a que se refiere el inciso primero los pensionados señalados en el inciso segundo del artículo segundo transitorio de la ley Nº 20.255.
 
@@ -226,7 +222,7 @@ Si, de la revisión de los beneficios a que se refiere el artículo 23 de este r
 
 #### Artículo 26
 
-El Instituto de Previsión Social y la institución pagadora del beneficio, cuando corresponda, informarán, con la debida antelación, a los beneficiarios de una pensión básica o de un aporte previsional solidario de invalidez, el hecho de que sus beneficios se extinguirán por dejar de cumplir el requisito a que se refiere la letra a) del artículo 16 de la ley Nº 20.255, para efectos de que procedan a solicitar una pensión básica o un aporte previsional solidario de vejez, según el caso, en la oportunidad correspondiente.
+El Instituto de Previsión Social y la institución pagadora del beneficio, cuando corresponda, informarán, con la debida antelación, a los beneficiarios de una pensión básica o de un aporte previsional solidario de invalidez, el hecho de que sus beneficios se extinguirán por dejar de cumplir el requisito a que se refiere la letra a) del artículo 16 de la ley Nº 20.255, para efectos de que procedan a solicitar una pensión garantizada universal en los términos de la ley N° 21.419.
 
 #### Artículo 27
 
@@ -259,6 +255,30 @@ Si el Instituto de Previsión Social no acogiese una solicitud de pensión bási
 #### Artículo 32
 
 La Superintendencia de Pensiones determinará la forma en la cual el Instituto de Previsión Social procederá al pago del correspondiente beneficio del Sistema de Pensiones Solidarias, una vez que se acredite que el respectivo beneficiario ha dejado de percibir ingresos laborales mensuales de acuerdo a lo establecido en el inciso tercero del artículo 22 de la ley Nº 20.255, señalando los medios a través de los cuales dicho Instituto verificará la información necesaria para tal efecto.
+
+## Título Quinto — Del Instrumento Técnico de Focalización
+
+#### Artículo 33
+
+El Instrumento Técnico de Focalización es el mecanismo que permite evaluar el nivel de pobreza de la población para los efectos de asignar los beneficios del Sistema de Pensiones Solidarias de la ley N° 20.255.
+
+El Instituto de Previsión Social utilizará el Instrumento Técnico de Focalización para los efectos de determinar si los potenciales beneficiarios del Sistema de Pensiones Solidarias cumplen con el requisito establecido en la letra b) del artículo 16 de la ley N° 20.255. Dicho instrumento será equivalente al establecido en el Título Quinto del decreto supremo N° 52, de 2022, del Ministerio del Trabajo y Previsión Social, que aprueba el reglamento del beneficio de Pensión Garantizada Universal establecido en la ley N° 21.419; el ingreso per cápita del grupo familiar, y un índice de necesidades del grupo familiar.
+
+Como parte del grupo familiar se considerará a las personas señaladas en el artículo 4° de la Ley N° 20.255.
+
+Como resultado de la aplicación del Instrumento Técnico de Focalización se obtendrá un puntaje de focalización previsional.
+
+La Subsecretaría de Previsión Social con la visación del Ministerio de Hacienda, a través de la Dirección de Presupuestos, previo informe del Consejo Consultivo Previsional de conformidad a la letra c) del artículo 66 de la ley N° 20.255, dictará una resolución que contendrá la fórmula matemática de cálculo del puntaje de focalización previsional. Para lo anterior, el Consejo deberá emitir el informe dentro de los veinte días hábiles contados desde que reciba el requerimiento de los Ministerios del Trabajo y Previsión Social y de Hacienda. El Consejo podrá solicitar, por razones fundadas, la prórroga de este plazo por un período que no exceda de 20 días. En caso de no emitirse este informe dentro del plazo, podrá dictarse la resolución precedente sin considerarlo.
+
+#### Artículo 34
+
+El Instituto de Previsión Social para determinar el puntaje de focalización previsional, podrá utilizar la información disponible en el Sistema de Información de Datos Previsionales; en el Registro de Información Social a que se refiere el Decreto Supremo N°160, de 2007, del Ministerio de Planificación, y la información del Registro Social de Hogares regulado en el decreto supremo N° 22, de 2015, del Ministerio de Desarrollo Social y Familia; así como la información que le proporcionen los organismos públicos, tales como el Servicio de Impuestos Internos según lo establecido en el artículo 56 de la ley N° 20.255, y los antecedentes que le entreguen los organismos privados a que se refiere la citada norma legal, entre otros. La Superintendencia de Pensiones, mediante norma de carácter general, establecerá la forma de utilización de la referida información en el Instrumento Técnico de Focalización.
+
+El Instituto de Previsión Social verificará la composición del grupo familiar del solicitante de los beneficios del Sistema de Pensiones Solidarias con la información señalada en el inciso precedente. No obstante lo anterior, el eventual beneficiario podrá solicitar ante el referido Instituto que sean o no consideradas en su grupo familiar las personas señaladas en los incisos segundo y tercero del artículo 4° de la ley 20.255, según corresponda, conforme a la norma de carácter general que dicte al efecto la Superintendencia de Pensiones.
+
+#### Artículo 35
+
+Los eventuales beneficiarios del Sistema de Pensiones Solidarias deberán tener un puntaje de focalización previsional igual o inferior a 3.024 puntos para efecto de acreditar el requisito establecido en la letra b) del artículo 16 de la ley N° 20.255. Dicho puntaje será calculado de conformidad con el inciso final del artículo 33 del presente reglamento.
 
 Disposiciones Transitorias
 
@@ -300,7 +320,7 @@ A contar de la fecha de publicación del presente reglamento y hasta el 30 de ju
 
 #### Artículo séptimo
 
-Lo dispuesto en el artículo 15 del presente reglamento, regirá a partir del día 1º de julio de 2010. Hasta dicha fecha, los solicitantes de beneficios del Sistema de Pensiones Solidarias, acreditarán el cumplimiento de los requisitos de residencia establecidos en las letras c) de los artículos 3º y 16 de la ley Nº 20.255, según corresponda, a través de una declaración que formará parte integrante de la solicitud del beneficio correspondiente.
+Lo dispuesto en el inciso primero del artículo 15 del presente reglamento, comenzará a regir una vez que se encuentre operativo el registro de datos que para tal efecto administre la Policía de Investigaciones de Chile. Hasta dicha fecha, los solicitantes de beneficios del Sistema de Pensiones Solidarias, acreditarán el cumplimiento de los requisitos de residencia establecidos en las letras c) de los artículos 3º y 16 de la ley Nº 20.255, según corresponda, a través de una declaración que formará parte integrante de la solicitud del beneficio correspondiente.
 
 INCISO SEGUNDO SUPRIMIDO.
 
@@ -323,6 +343,14 @@ Lo dispuesto en el presente artículo no obsta a otras obligaciones de informar 
 Conforme a lo dispuesto en el artículo vigésimo transitorio de la ley Nº 20.255, el Instituto de Normalización Previsional ejercerá las funciones y atribuciones que correspondan al Instituto de Previsión Social hasta la fecha en que esta última institución entre en funciones.
 
 Del mismo modo, la Superintendencia de Administradoras de Fondos de Pensiones ejercerá las funciones y atribuciones que correspondan a la Superintendencia de Pensiones, hasta que esta última institución entre en funcionamiento, con excepción de aquellas que se traspasen desde la Superintendencia de Seguridad Social, las que esta última continuará ejerciendo hasta dicha fecha.
+
+#### Artículo décimo
+
+El Instituto de Previsión Social será la entidad encargada de evaluar la mantención, suspensión y extinción del beneficio Aporte Previsional Solidario de Vejez, conforme con lo dispuesto en la ley N° 20.255 y lo establecido en la ley N° 21.419. Lo anterior, hasta el cese total del pago de los beneficios que correspondan en virtud del Aporte Previsional Solidario de Vejez.
+
+Para la mantención del beneficio de Aporte Previsional Solidario de Vejez, los beneficiarios deberán mantener un puntaje de focalización previsional igual o inferior a 1.736 a objeto de acreditar el requisito de focalización establecido en la ley N° 20.255. Este puntaje se calculará de conformidad a lo dispuesto en el artículo 33 del presente reglamento.
+
+Sin perjuicio de lo anterior, el referido aporte continuará rigiéndose en cuanto a su mantención, suspensión y extinción por lo dispuesto en los artículos 15 y 21 del presente decreto vigente, previo a la entrada en vigor de las modificaciones dispuestas al presente reglamento por el decreto N° 59, de 2025, del Ministerio del Trabajo y Previsión Social.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Osvaldo Andrade Lara, Ministro del Trabajo y Previsión Social.- Andrés Velasco Brañes, Ministro de Hacienda.
 
