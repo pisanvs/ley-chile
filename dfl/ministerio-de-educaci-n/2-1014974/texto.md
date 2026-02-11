@@ -68,6 +68,8 @@ n) Dignidad del ser humano. El sistema debe orientarse hacia el pleno desarrollo
 
 ñ) Educación integral. El sistema educativo buscará desarrollar puntos de vista alternativos en la evolución de la realidad y de las formas múltiples del conocer, considerando además, los aspectos físico, social, moral, estético, creativo y espiritual, con atención especial a la integración de todas las ciencias, artes y disciplinas del saber.
 
+o) Educación digital. El sistema educativo promoverá el uso responsable y seguro del contenido digital y de las tecnologías que lo soportan durante el proceso formativo, en particular, de aquel contenido vinculado a la información, la comunicación y la conectividad digital.
+
 ### Párrafo 2º
 
 Derechos y deberes
@@ -136,13 +138,13 @@ La comunidad educativa está integrada por alumnos, alumnas, padres, madres y ap
 
 Sin perjuicio de los derechos y deberes que establecen las leyes y reglamentos, los integrantes de la comunidad educativa gozarán de los siguientes derechos y estarán sujetos a los siguientes deberes:
 
-a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención y educación adecuada, oportuna e inclusiva, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales. Asimismo, tienen derecho a que se respeten las tradiciones y costumbres de los lugares en los que residen, conforme al proyecto educativo institucional y al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, y a asociarse entre ellos.
+a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención y educación adecuada, oportuna e inclusiva, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales. Asimismo, tienen derecho a que se respeten las tradiciones y costumbres de los lugares en los que residen, conforme al proyecto educativo institucional y al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, a asociarse entre ellos, y a disponer de actividades para fomentar la interacción social y el encuentro comunitario, tales como los juegos en equipo y los ejercicios grupales durante los recreos, con el propósito de desincentivar el uso excesivo de dispositivos móviles electrónicos de comunicación personal.
 
-Son deberes de los alumnos y alumnas brindar un trato digno, respetuoso y no discriminatorio a todos los integrantes de la comunidad educativa; asistir a clases; estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento.
+Son deberes de los alumnos y alumnas brindar un trato digno, respetuoso y no discriminatorio a todos los integrantes de la comunidad educativa; asistir a clases; estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, contribuir a promover juegos, la interacción social y el encuentro comunitario, especialmente en recreos; cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento.
 
 b) Los padres, madres y apoderados tienen derecho a asociarse libremente, con la finalidad de lograr una mejor educación para sus hijos, a ser informados por el sostenedor y los directivos y docentes a cargo de la educación de sus hijos o pupilos respecto de los rendimientos académicos, de la convivencia escolar y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.
 
-Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos, informarse, respetar y contribuir a dar cumplimiento al proyecto educativo, a las normas de convivencia y a las de funcionamiento del establecimiento que elijan para éstos; apoyar sus procesos educativos; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna y brindar un trato respetuoso a los integrantes de la comunidad educativa.
+Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos, informarse, respetar y contribuir a dar cumplimiento al proyecto educativo, a las normas de convivencia y a las de funcionamiento del establecimiento que elijan para éstos; apoyar sus procesos educativos; supervisar y acompañar el uso de dispositivos móviles electrónicos de comunicación personal por parte de los estudiantes fuera del horario escolar, así como asumir la responsabilidad por las consecuencias derivadas de su utilización indebida; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna y brindar un trato respetuoso a los integrantes de la comunidad educativa.
 
 c) Los profesionales de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo; del mismo modo, tienen derecho a que se respete su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa. Además, tienen derecho a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna, procurando, además, disponer de los espacios adecuados para realizar en mejor forma su trabajo.
 
@@ -163,6 +165,50 @@ Los derechos y deberes anteriores se ejercerán en el marco de la ley y en virtu
 f) Los sostenedores de establecimientos educacionales tendrán derecho a establecer y ejercer un proyecto educativo, con la participación de la comunidad educativa y de acuerdo a la autonomía que le garantice esta ley. También tendrán derecho a establecer planes y programas propios en conformidad a la ley, y a solicitar, cuando corresponda, financiamiento del Estado de conformidad a la legislación vigente.
 
 Son deberes de los sostenedores cumplir con los requisitos para mantener el reconocimiento oficial del establecimiento educacional que representan; garantizar la continuidad del servicio educacional durante el año escolar; rendir cuenta pública de los resultados académicos de sus alumnos y cuando reciban financiamiento estatal, rendir cuenta pública del uso de los recursos y del estado financiero de sus establecimientos a la Superintendencia. Esa información será pública. Además, están obligados a entregar a los padres y apoderados la información que determine la ley y a someter a sus establecimientos a los procesos de aseguramiento de calidad en conformidad a la ley.
+
+#### Artículo 10 bis
+
+Prohíbese el uso de dispositivos móviles electrónicos de comunicación personal, en adelante "dispositivos móviles", en los establecimientos educacionales que imparten niveles de educación parvularia, básica o media.
+
+Excepcionalmente, se podrá autorizar el empleo de dispositivos móviles en las siguientes situaciones:
+
+a) Si el estudiante presenta necesidades educativas especiales respecto de las cuales el uso adecuado de estos dispositivos móviles se considera como una ayuda técnica al servicio de sus aprendizajes. Esta circunstancia deberá ser acreditada por el padre, madre o apoderado del estudiante a través de un certificado emitido por un profesional competente, en los términos señalados en los incisos segundo y tercero del artículo 9° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 2, de 1996, sobre subvención del Estado a establecimientos educacionales.
+
+b) Si existe una situación de emergencia, desastre o catástrofe.
+
+c) Si el estudiante presenta una enfermedad o condición de salud, diagnosticada por un médico, que requiera monitoreo periódico a través de dispositivos móviles. Esta circunstancia deberá ser acreditada por el padre, madre o apoderado del estudiante a través de un certificado médico.
+
+d) Si la utilización de estos dispositivos móviles es útil para la enseñanza en función de la naturaleza de la actividad curricular o extracurricular en los establecimientos educacionales que imparten educación básica o media.
+
+e) Si el padre, madre o apoderado lo solicita fundadamente y de forma temporal, solo por razones de seguridad personal o familiar del estudiante.
+
+Las excepciones indicadas en los literales a); c); d), en lo que respecta a las actividades curriculares; y e) deberán ser autorizadas expresamente por el director del establecimiento educacional.
+
+En consonancia con las instrucciones que imparta la Superintendencia de Educación para la actualización, aprobación y difusión de los reglamentos internos, los establecimientos educacionales deberán disponer medidas para materializar tanto la prohibición establecida en el inciso primero, y considerar mecanismos, condiciones y consecuencias aplicables al uso de dispositivos móviles; como las excepciones señaladas.
+
+La prohibición de uso de dispositivos móviles señalada en el inciso primero se aplicará, especialmente, durante el desarrollo de actividades curriculares dentro de la sala de clases y se extenderá a todos los integrantes de la comunidad educativa, salvo en los casos excepcionales que contempla este artículo.
+
+Sin perjuicio de lo anterior, en el nivel de educación media, los reglamentos de los establecimientos educacionales podrán disponer espacios, horarios o actividades específicas en que la utilización de dispositivos móviles esté autorizada, en atención a la autonomía progresiva de los alumnos. Dichos reglamentos deberán establecer procedimientos, acciones y medidas para regular el uso adecuado de los dispositivos móviles, así como las consecuencias de su incumplimiento.
+
+En concordancia con las medidas dispuestas en el artículo 10 quater, los establecimientos educacionales que impartan educación básica o media deberán informar a sus estudiantes, así como a toda la comunidad educativa, sobre el empleo responsable de los dispositivos móviles y los riesgos asociados, y promover instancias formativas que prevengan su uso indebido o la comisión de delitos mediante tales medios.
+
+> **Nota.** El artículo 12 transitorio de la presente ley establece que lo indicado en este artículo 10 bis entrará en vigencia al inicio del año escolar 2026. Asimismo, dispone que los establecimientos de educación parvularia, básica y media deberán actualizar sus reglamentos internos antes del 30 de junio de 2026, conforme a las instrucciones de la Superintendencia de Educación. En marzo de 2030, el Ministerio de Educación presentará al Congreso una evaluación sobre la implementación y efectos de la medida, pudiendo proponer ajustes normativos y reglamentarios.
+
+#### Artículo 10 ter
+
+Para efectos de lo dispuesto en esta ley, se entenderá por dispositivos móviles electrónicos de comunicación personal aquellos medios tecnológicos que permiten efectuar telecomunicación, acceder a la red de internet para mantener interacción de telecomunicación y consultar contenidos o plataformas digitales.
+
+#### Artículo 10 quater
+
+El Estado desarrollará acciones informativas dirigidas a la población y, especialmente, a las comunidades educativas, respecto del impacto derivado del uso de dispositivos móviles electrónicos de comunicación personal por parte de estudiantes de educación parvularia, básica y media.
+
+Para estos efectos, el Ministerio de Educación, en coordinación con el Ministerio Secretaría General de Gobierno y con el Ministerio de Desarrollo Social y Familia, elaborará anualmente una campaña de difusión e información destinada a:
+
+a) Promover el uso responsable y gradual de los dispositivos móviles, de acuerdo con la edad y al grado de desarrollo personal de niñas, niños y adolescentes.
+
+b) Prevenir los riesgos asociados a la utilización inadecuada de tales dispositivos.
+
+c) Dar a conocer medidas eficaces para evitar su uso inadecuado, con resguardo de los derechos establecidos en la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y la adolescencia.
 
 #### Artículo 11
 
@@ -420,7 +466,7 @@ b) Pensar en forma reflexiva, evaluando y utilizando información y conocimiento
 
 c) Comunicarse con eficacia en lengua castellana, lo que implica comprender diversos tipos de textos orales y escritos adecuados para la edad y expresarse correctamente en forma escrita y oral.
 
-d) Acceder a información y comunicarse usando las tecnologías de la información y la comunicación en forma reflexiva y eficaz.
+d) Ejercer derechos en entornos digitales y fortalecer la convivencia mediante el uso responsable, seguro, creativo y reflexivo de las tecnologías digitales, con reconocimiento de los potenciales riesgos, beneficios y oportunidades de su utilización.
 
 e) Comprender y expresar mensajes simples en uno o más idiomas extranjeros.
 
@@ -464,7 +510,7 @@ c) Analizar procesos y fenómenos complejos, reconociendo su multidimensionalida
 
 d) Expresarse en lengua castellana en forma clara y eficaz, de modo oral y escrito; leer comprensiva y críticamente diversos textos de diferente nivel de complejidad, que representen lo mejor de la cultura, y tomar conciencia del poder del lenguaje para construir significados e interactuar con otros.
 
-e) Usar tecnología de la información en forma reflexiva y eficaz, para obtenerla, procesarla y comunicarla.
+e) Ejercer derechos en entornos digitales y fortalecer la convivencia democrática mediante el uso responsable, seguro, creativo, crítico y reflexivo de las tecnologías digitales, con reconocimiento de los potenciales riesgos, beneficios y oportunidades de su utilización.
 
 f) Comprender el lenguaje oral y escrito de uno o más idiomas extranjeros, y expresarse en forma adecuada.
 
@@ -1595,6 +1641,12 @@ En tanto no entren en vigencia las normas que crean la Superintendencia de Educa
 #### Artículo 11
 
 Lo dispuesto en el inciso segundo del artículo 31 de esta ley entrará en vigencia al inicio del año escolar 2026.
+
+#### Artículo 12
+
+Lo dispuesto en el artículo 10 bis entrará en vigencia al inicio del año escolar 2026. Los establecimientos que imparten educación parvularia, básica y media tendrán plazo hasta el 30 de junio de 2026 para la actualización de sus reglamentos internos en el marco de las instrucciones que, para estos efectos, dicte la Superintendencia de Educación.
+
+En marzo de 2030 el Ministerio de Educación presentará a las Comisiones de Educación de la Cámara de Diputados y del Senado los resultados de una evaluación respecto a la implementación y los efectos de las medidas dispuestas en el artículo 10 bis, incluida información sobre convivencia escolar, rendimiento académico, bienestar socioemocional y brechas de acceso digital. Dicho estudio podrá recomendar ajustes normativos y reglamentarios.
 
 Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Francisco Vidal Salinas, Ministro de Defensa Nacional.- Andrés Velasco Brañes, Ministro de Hacienda.- Paula Quintana Meléndez, Ministra de Planificación.
 
