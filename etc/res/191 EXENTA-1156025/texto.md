@@ -24,17 +24,15 @@ Lo dispuesto en la Ley Nº 18.575, Orgánica Constitucional de Bases Generales d
 
 Resolución:
 
-1. Establécese la siguiente estructura orgánica del Instituto de Salud Pública de Chile, la cual constará de una Dirección que trabajará con un consejo técnico, un gabinete, cinco unidades asesoras y siete departamentos, de acuerdo a la organización que se plantea a continuación:
+1. Establécese la siguiente estructura orgánica del Instituto de Salud Pública de Chile, la cual constará de una Dirección que trabajará con un consejo técnico, un gabinete, cinco unidades asesoras y seis departamentos, de acuerdo a la organización que se plantea a continuación.
 
-2. La Dirección del Instituto, la que estará a cargo de un Director, elegido de conformidad a las disposiciones de la ley Nº 19.882, a quien le corresponderá ejercer la jefatura superior del Instituto y tendrá su representación judicial y extrajudicial, con las facultades definidas en los artículos 59 del decreto con fuerza de ley Nº 1, del año 2005, que fija texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469 y 10 del decreto supremo N° 1.222, del año 1996, que contiene el reglamento de este Instituto.
+2. La Dirección del Instituto, la que estará a cargo de un Director, elegido de conformidad a las disposiciones de la ley Nº 19.882, a quien le corresponderá ejercer la jefatura superior del Instituto y tendrá su representación judicial y extrajudicial, con las facultades definidas en los artículos 59 del decreto con fuerza de ley Nº 1, del año 2005, que fija texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979 y de las leyes Nº 18.933 y Nº 18.469 y 10 del decreto supremo Nº 1.222, del año 1996, que contiene el reglamento de este Instituto.
 
 La Dirección del Instituto establecerá los objetivos de la organización, asignando responsabilidades para alcanzarlos. Asimismo, definirá la visión, misión y valores institucionales y el grado de calidad y aceptación de riesgos dentro de la misma.
 
 Para el debido cumplimiento de sus funciones, el Director del Instituto será asesorado por un Consejo Técnico, que presidirá y que estará integrado por las jefaturas de los departamentos y de las unidades asesoras, pudiendo convocar a otros funcionarios internos o externos, de ser necesario. Este Consejo Técnico se reunirá a requerimiento de la Dirección, para considerar los asuntos que su presidente indique al elaborar la tabla respectiva, por parte de la jefatura de gabinete.
 
-2.1 Dependerá de Dirección, un Gabinete, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier Departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos que estime necesarios y pertinentes y fijar plazo para su respuesta. Asimismo, le corresponderá emitir instrucciones generales respecto de la gestión interna de la documentación institucional.
-
-A esta jefatura le corresponderán las siguientes funciones:
+2.1 Dependerá de Dirección, un Gabinete, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos que estime necesarios y pertinentes y fijar plazo para su respuesta. Asimismo, le corresponderá emitir instrucciones generales respecto de la gestión interna de la documentación institucional. A esta jefatura le corresponderán las siguientes funciones:
 
 a) Planificar, programar, coordinar y dirigir el apoyo administrativo que la Dirección requiera para el desempeño de sus funciones.
 
@@ -56,9 +54,7 @@ i) Autorizar las comisiones de servicio y cometidos funcionarios, lo que despué
 
 j) Autorizar los permisos administrativos y feriados legales que le corresponda autorizar a la jefatura superior del servicio.
 
-2.1.1 Dependerá de Dirección, un Gabinete Técnico, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier Departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos de carácter técnico, que estime necesarios y pertinentes.
-
-A esta jefatura le corresponderán las siguientes funciones:
+2.1.1. Dependerá de Dirección, un Gabinete Técnico, a cargo de una jefatura, a la cual se le delega la facultad de dictar providencias de mero trámite, fijar plazos de respuesta a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier departamento, Subdepartamento, Sección u Oficina, informes, antecedentes u otros documentos de carácter técnico, que estime necesarios y pertinentes. A esta jefatura le corresponderán las siguientes funciones:
 
 a) Recibir y atender a las autoridades, representantes de organizaciones, funcionarios y otras personas, de acuerdo con las pautas generales que la Directora le indique, en el área de su competencia.
 
@@ -74,13 +70,13 @@ f) Supervisar materias internacionales.
 
 g) Efectuar el seguimiento de los acuerdos que se generen en el Consejo Técnico, así como de las otras tareas que la Directora encomiende, respecto de su ámbito de competencia.
 
-2.2 Fiscalía, que será la unidad asesora de la Dirección que tendrá como función asesorar jurídica y judicialmente a la jefatura de Servicio, definir los criterios jurídicos que deba aplicar la institución en todas las materias de su competencia, y asesorar a los departamentos y unidades en la adopción de decisiones y políticas institucionales con el fin de incorporar el análisis de juridicidad en sus actuaciones. Le corresponderá, también, ser el punto de enlace directo con la Tesorería General de la República, solo para efectos de la cobranza que ese organismo debe ejecutar respecto de las multas que aplique el Instituto en los sumarios sanitarios, conforme lo dispuesto en el artículo 174 bis del Código Sanitario.
+2.2 Fiscalía, que será la unidad asesora de la Dirección, que tendrá como función asesorar jurídica y judicialmente a la Jefatura de Servicio, definir los criterios jurídicos que deba aplicar la institución en todas las materias de su competencia, y asesorar a los departamentos y unidades en la adopción de decisiones y políticas institucionales con el fin de incorporar el análisis de juridicidad en sus actuaciones. Le corresponderá, también, ser el punto de enlace directo con la Tesorería General de la República, solo para efectos de la cobranza que ese organismo debe ejecutar respecto de las multas que aplique el Instituto en los sumarios sanitarios, conforme lo dispuesto en el artículo 174 bis del Código Sanitario.
 
 2.2.1 La jefatura de la Fiscalía tendrá delegada la firma de las siguientes actuaciones:
 
-a) Oficios que sean requeridos por los tribunales de justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, fiscalías militares y jefaturas jurídicas de otros órganos de la Administración del Estado, con excepción de la Contraloría General de la República y aquellos que estén especialmente delegados en otras áreas técnicas. Asimismo, podrá suscribir el oficio por el cual se derive un requerimiento de cualquier autoridad a la entidad competente, en aplicación del inciso segundo del artículo 14 de la ley N° 19.880.
+a) Oficios que sean requeridos por los tribunales de justicia, Ministerio Público, Carabineros de Chile, Policía de Investigaciones, fiscalías militares y jefaturas jurídicas de otros órganos de la Administración del Estado, con excepción de la Contraloría General de la República y aquellos que estén especialmente delegados en otras áreas técnicas. Asimismo, podrá suscribir el oficio por el cual se derive un requerimiento de cualquier autoridad a la entidad competente, en aplicación del inciso segundo del artículo 14 de la ley Nº 19.880.
 
-b) Resoluciones que denieguen parcial o totalmente el acceso a la información pública, en el marco de la ley N° 20.285.
+b) Resoluciones que denieguen parcial o totalmente el acceso a la información pública, en el marco de la ley Nº 20.285.
 
 c) Resoluciones que dicten sentencia en sumarios sanitarios y aquellas que se pronuncien sobre la solicitud de suspensión de los efectos de aquellas sentencias, así como también resolver los recursos de reposición.
 
@@ -98,9 +94,9 @@ g) Firmar las comunicaciones dirigidas a Tesorería General de la República, so
 
 2.2.2.2 Oficina Jurídica, cuya función es la de asesorar a la institución, proponiendo acciones y decisiones que consideren el cumplimiento de las normas sobre la Administración del Estado y respecto de la función pública en general, con énfasis en lo referido la juridicidad de las adquisiciones que requieren revisión de legalidad, como también la asesoría en materia de procesos disciplinarios. Asimismo, es la responsable del cumplimiento de las obligaciones asociadas a transparencia activa, así como también de gestionar las solicitudes que se realicen por los usuarios en relación con la ley Nº 20.285, sobre acceso a la información pública. A esta oficina le corresponderá también pronunciarse e impartir directrices en relación al cumplimiento de las normas contenidas en la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, tanto a quienes ejerzan como punto de enlace, como a los sujetos pasivos.
 
-La jefatura de la Oficina Jurídica tendrá las siguientes delegaciones de firma, en el ámbito de la Ley N° 20.285:
+La jefatura de la Oficina Jurídica tendrá las siguientes delegaciones de firma, en el ámbito de la ley Nº 20.285:
 
-a) Derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad la ley N° 20.285.
+a) Derivar directamente a los responsables las solicitudes de acceso a la información que se presenten al Instituto, en conformidad con la ley Nº 20.285.
 
 b) Informar al Consejo para la Transparencia la prórroga de una respuesta que se efectúe al alero de la ley.
 
@@ -110,25 +106,19 @@ c) Firmar las respuestas que se entreguen a los usuarios en el marco de la citad
 
 La jefatura de la Oficina de Asuntos Regulatorios tendrá delegada la facultad de firmar la resolución que instruye los sumarios sanitarios, designar fiscal en ellos y citar a las respectivas audiencias. Por otro lado, los funcionarios de la Oficina de Asuntos Regulatorios que ejerzan como fiscales en el marco de los sumarios sanitarios, podrán suscribir las resoluciones que abran términos probatorios, los oficios que requieren información a otras entidades y, en general, resolver sobre todo aquello que permita dar curso progresivo a estos procedimientos.
 
-2.3. La Unidad de Comunicaciones y Participación Ciudadana será la unidad asesora de la Dirección que tiene como función la de asesorar a la Dirección en materias relacionadas con la comunicación entre el Instituto y público interno y externo, estando a cargo de preparar el contenido relativo a las actividades del Instituto para su difusión en medios de comunicación y en la página web institucional y de coordinar actividades de prensa.
+2.3 La Unidad de Comunicaciones y Participación Ciudadana será la unidad asesora de la Dirección que tiene como función la de asesorar a la Dirección en materias relacionadas con la comunicación entre el Instituto y público interno y externo, estando a cargo de preparar el contenido relativo a las actividades del Instituto para su difusión en medios de comunicación y en la página web institucional y de coordinar actividades de prensa.
 
-Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección y de diseñar el contenido de la cuenta pública institucional. Asimismo, esta unidad es la encargada de la gestión de la participación ciudadana, conforme al Título IV del decreto con fuerza de ley Nº 1-19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y supervisar las actividades y la adecuada gestión de los requerimientos asociados a la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, administrando la plataforma que ha dispuesto para esos efectos y ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
+Por otra parte, será el área encargada de vigilar el adecuado cumplimiento de las normas vinculadas con el protocolo en cada una de las actividades públicas donde participe la Dirección y de diseñar el contenido de la cuenta pública institucional. Asimismo, esta unidad es la encargada de la gestión de la participación ciudadana, conforme al Título IV del decreto con fuerza de ley Nº 1-19.653, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y supervisar las actividades y la adecuada gestión de los requerimientos asociados a la ley Nº 20.730, que regula el lobby y las gestiones de interés particular, administrando la plataforma que ha dispuesto para esos efectos y ejerciendo como punto de enlace para los sujetos pasivos del Instituto.
 
-2.4. La Unidad de Control de Gestión y Riesgos Institucionales será la unidad asesora de la Dirección que tiene como función colaborar en la formulación de los instrumentos de gestión y el control y seguimiento de las metas del Instituto, de sus departamentos y unidades dependientes, así como la implementación y seguimiento del programa de gestión de riesgos institucionales y de los compromisos asociados a la gestión de calidad. Dicha jefatura tendrá delegada la facultad de suscribir la resolución que aprueba los listados maestros de documentos del sistema de gestión de calidad institucional.
+2.4 La Unidad de Control de Gestión y Riesgos Institucionales será la unidad asesora de la Dirección que tiene como función colaborar en la formulación de los instrumentos de gestión y el control y seguimiento de las metas del Instituto, de sus departamentos y unidades dependientes, así como la implementación y seguimiento del programa de gestión de riesgos institucionales y de los compromisos asociados a la gestión de calidad. Dicha jefatura tendrá delegada la facultad de suscribir la resolución que aprueba los listados maestros de documentos del sistema de gestión de calidad institucional.
 
-2.5 Eliminado.
+2.5 La Unidad de Auditoría Interna será la unidad asesora de la Dirección que tiene como función prestar asesoría técnica especializada a la jefatura superior del servicio en materias de auditoría y control interno, a objeto de evaluar y contribuir a la mejora de la eficacia del proceso de administración y control preventivo, proponiendo medidas necesarias para el fortalecimiento de la gestión institucional.
 
-2.6 Eliminado.
+2.6 La Unidad de Sistemas de Información, dependiente de la Dirección, tiene los roles y responsabilidades relacionados con el diseño, desarrollo e implementación de los sistemas de información que respaldan los objetivos y operaciones del Instituto. Éstos consideran infraestructura y comunicaciones tecnológicas, continuidad operacional, seguridad de información, reingeniería de procesos en pro de la eficiencia, modelo y gobierno de datos, así como el cumplimiento de la Estrategia de Gobierno Digital 2030.
 
-2.7. La Unidad de Auditoría Interna será la unidad asesora de la Dirección que tiene como función prestar asesoría técnica especializada a la jefatura superior del servicio en materias de auditoría y control interno, a objeto de evaluar y contribuir a la mejora de la eficacia del proceso de administración y control preventivo, proponiendo medidas necesarias para el fortalecimiento de la gestión institucional.
+2.6.1 La Unidad de Sistemas de Información tendrá las siguientes oficinas:
 
-2.8 La Unidad de Sistemas de Información, dependiente de la Dirección, tiene los roles y responsabilidades relacionados con el diseño, desarrollo e implementación de los sistemas de información que respaldan los objetivos y operaciones del Instituto. Éstos consideran infraestructura y comunicaciones tecnológicas, continuidad operacional, seguridad de información, reingeniería de procesos en pro de la eficiencia, modelo y gobierno de datos, así como el cumplimiento de la Estrategia de Gobierno Digital 2030.
-
-2.8.1 La Unidad de Sistemas de Información tendrá las siguientes oficinas:
-
-2.8.2 Procesos: Responsable de establecer los modelos operacionales para asegurar la eficiencia, trazabilidad y calidad a través de la homologación y simplificación de los procesos. Ello implica liderar, elaborar e implantar de manera integral todos los proyectos y requerimientos de carácter operacional y tecnológico que se originen en las diferentes áreas del Instituto, siendo también responsable del soporte funcional de todos los sistemas de información.
-
-La jefatura de esta Oficina tendrá son los siguientes roles:
+2.6.2 Procesos: Responsable de establecer los modelos operacionales para asegurar la eficiencia, trazabilidad y calidad a través de la homologación y simplificación de los procesos. Ello implica liderar, elaborar e implantar de manera integral todos los proyectos y requerimientos de carácter operacional y tecnológico que se originen en las diferentes áreas del Instituto, siendo también responsable del soporte funcional de todos los sistemas de información. La jefatura de esta Oficina tendrá los siguientes roles:
 
 a) Supervisar y liderar la implementación de modelos operacionales y tecnológicos, asegurando su alineación con los objetivos estratégicos del Instituto.
 
@@ -138,9 +128,7 @@ c) Mantener el correcto funcionamiento de todos los procesos y sistemas de infor
 
 d) Supervisar la administración y soporte funcional de todos los sistemas de información.
 
-2.8.3 Transformación Digital: Responsable de asegurar el cumplimiento de la estrategia digital institucional y del Estado, consolidando en todas las actividades de Instituto, el avance hacia la digitalización, la interoperabilidad e integración con otros sistemas e instituciones. Será también responsable de la actualización y mantención del catálogo de todas las prestaciones y servicios del Instituto.
-
-El jefe de esta Oficina tendrá los siguientes roles:
+2.6.3 Transformación Digital: Responsable de asegurar el cumplimiento de la estrategia digital institucional y del Estado, consolidando en todas las actividades de Instituto el avance hacia la digitalización, la interoperabilidad e integración con otros sistemas e instituciones. Será también responsable de la actualización y mantención del catálogo de todas las prestaciones y servicios del Instituto. El jefe de esta Oficina tendrá los siguientes roles:
 
 a) Diseñar, liderar e implementar la estrategia digital del Instituto, como parte del Sistema de Transformación Digital del Estado.
 
@@ -160,9 +148,7 @@ h) Fomentar la cultura digital mediante capacitaciones permanentes, la adopción
 
 i) Colaborar con todas las áreas para alinear la estrategia digital con los objetivos institucionales.
 
-2.8.4 Datos: Responsable del diseño, arquitectura, modelo, construcción, integración, normalización y mantención de todos los datos del Instituto, tanto los generados internamente, así como los que se puedan capturar de otras instituciones tanto nacionales como internacionales. Es responsable de asegurar la calidad, buenas prácticas y disponibilidad de los datos con los cuales el Instituto genera sus actividades de vigilancia y gestión para cumplir su propósito, en estrecha coordinación con el Departamento de Vigilancia Sanitaria e Investigación.
-
-El jefe de esta Oficina tendrá los siguientes roles:
+2.6.4 Datos: Responsable del diseño, arquitectura, modelo, construcción, integración, normalización y mantención de todos los datos del Instituto, tanto los generados internamente, así como los que se puedan capturar de otras instituciones tanto nacionales como internacionales. Es responsable de asegurar la calidad, buenas prácticas y disponibilidad de los datos con los cuales el Instituto genera sus actividades de vigilancia y gestión para cumplir su propósito. El jefe de esta Oficina tendrá los siguientes roles:
 
 a) Desarrollar y establecer políticas y estándares para la gestión de datos en todo el Instituto.
 
@@ -176,9 +162,7 @@ e) Proponer, diseñar, implementar o apoyar la implementación de soluciones de 
 
 f) Promover una cultura de datos dentro de la organización, fomentando la toma de decisiones basada en datos y la valoración de la información como un activo estratégico, incluyendo la realización de capacitaciones y campañas de concientización sobre la importancia del uso y la gestión adecuada de los datos.
 
-2.8.5 Tecnología y Comunicaciones: Responsable de la arquitectura tecnológica para establecer la continuidad y eficiencia integral de los servicios del Instituto, a través de las plataformas, sistemas, ambientes de producción, topología de comunicaciones, soporte y mantención de éstos. Tendrá a su cargo también implantar las políticas de seguridad de información, continuidad operacional y externalización de servicios.
-
-Los roles de la jefatura de esta Oficina serán los siguientes:
+2.6.5 Tecnología y Comunicaciones: Responsable de la arquitectura tecnológica para establecer la continuidad y eficiencia integral de los servicios del Instituto, a través de las plataformas, sistemas, ambientes de producción, topología de comunicaciones, soporte y mantención de éstos. Tendrá a su cargo también implantar las políticas de seguridad de información, continuidad operacional y externalización de servicios. Los roles de la jefatura de esta Oficina serán los siguientes:
 
 a) Diseñar, validar, implantar y mantener la arquitectura tecnológica integral para el soporte del servicio informático, a partir de la estrategia institucional.
 
@@ -189,6 +173,8 @@ c) Proponer e implantar metodología y soluciones para proyectos informáticos, 
 d) Diseñar e implantar soluciones en el ámbito de la seguridad tanto física como lógica, que cumplan con los lineamientos de la política asociada a seguridad de la información.
 
 e) Proponer y validar la estrategia y plan informático del Instituto.
+
+2.7 Vigilancia Sanitaria y Coordinación Académica, que es la unidad asesora encargada de coordinar las actividades relacionadas con la generación de información relevante para la vigilancia sanitaria confiada al Instituto, analizando datos que identifiquen tendencias, cambios de patrones, propagación, etc., proponiendo estrategias y medidas que garanticen el cumplimiento de la misión y funciones institucionales. Por otro lado, promoverá la colaboración con diversas entidades para incentivar el intercambio académico, debiendo para ello trabajar en conjunto con los departamentos de este Servicio.
 
 3. Todos los jefes de Departamentos de este Instituto tendrán un COORDINADOR DE GESTIÓN que dependerá directamente de ellos, y que ejercerá como apoyo en el desarrollo de la estrategia departamental e institucional para el logro de los objetivos, desempeñando un rol orientador y de asesoría en materias relacionadas con el seguimiento de compromisos de gestión, disponiendo oportunamente de la información, optimizando los procesos relacionados con las áreas de soporte institucional y siendo responsables de la eficiencia de los recursos asignados. A estos profesionales les estarán asignadas las funciones que a continuación se mencionan:
 
@@ -556,365 +542,157 @@ e) Administrar el contact center institucional.
 
 f) Ser el espacio en el cual se difunda la Carta de Derechos Ciudadanos elaborada por la institución.
 
-6. DEPARTAMENTO AGENCIA NACIONAL DE MEDICAMENTOS, el que será dirigido por una jefatura de Departamento que tendrá delegada la firma en las siguientes actuaciones:
+6. Departamento Agencia Nacional de Medicamentos, que es el departamento encargado del registro de los productos farmacéuticos y cosméticos, que se fabrican o importan para ser distribuidos en el país, garantizando su calidad, seguridad y eficacia, además de ejercer una fiscalización activa de ellos en todo su ciclo de vida, siendo también el encargado de otorgar las autorizaciones sanitarias a los establecimientos del rubro. Está a cargo, también, de la farmacovigilancia de estos productos y fiscalizando la correcta comercialización de estos. La jefatura de este Departamento tendrá delegadas las facultades que se indican:
 
-a) Cancelar y denegar los registros sanitarios de productos cosméticos.
+a) Firmar la resolución que cancela o deniega los registros sanitarios de productos cosméticos.
 
-b) Conceder los registros sanitarios de productos farmacéuticos, salvo los productos biológicos y demás productos que contengan moléculas que se incorporen por primera vez al país.
+b) Suscribir la resolución que concede los registros sanitarios de productos farmacéuticos.
 
-c) Resolver las solicitudes de autorización de instalación y funcionamiento de laboratorios farmacéuticos de control de calidad, laboratorios farmacéuticos acondicionadores, laboratorios de producción cosmética, así como la inscripción de establecimientos elaboradores o importadores de productos de higiene, de bajo riesgo de producción y odorizantes, de recetarios magistrales estériles y de los centros de bioequivalencia.
+c) Firmar la resolución que resuelva sobre las solicitudes de autorización de instalación y funcionamiento de laboratorios farmacéuticos de control de calidad, laboratorios farmacéuticos acondicionadores, laboratorios de producción cosmética, así como la inscripción de establecimientos elaboradores o importadores de productos de higiene, de bajo riesgo de producción y odorizantes, de recetarios magistrales estériles y de los centros de bioequivalencia.
 
-d) Resolver las solicitudes de autorización de modificación y traslado de laboratorios farmacéuticos de producción.
+d) Emitir la resolución que resuelve la solicitud de autorización especial para uso provisional de medicamentos con fines de investigación, según lo establecido en el artículo 111 A del Código Sanitario y sus respectivas modificaciones.
 
-e) Resolver la solicitud de autorización especial para uso provisional de medicamentos con fines de investigación, según lo establecido en el artículo 111 A del Código Sanitario y sus respectivas modificaciones.
+e) Firmar el oficio dirigido al Ministerio de Salud para que se pronuncie en forma previa a la cancelación de un registro sanitario de un producto farmacéutico.
 
-f) Oficiar al Ministerio de Salud para que se pronuncie en forma previa a la cancelación de un registro sanitario de un producto farmacéutico.
+f) Suscribir el acto administrativo que instruye retiros del mercado de productos farmacéuticos y cosméticos.
 
-g) Resolver las solicitudes de agotar stock de medicamentos.
+g) Resolver las presentaciones relativas a la obligación de entregar los informes periódicos de seguridad y plan de manejo de riesgo, así como la solicitud de modificación de los mismos.
 
-h) Instruir retiros del mercado de productos farmacéuticos y cosméticos.
+h) Firmar la resolución que se pronuncia sobre cancelaciones voluntarias de registro sanitario, solicitadas por los propios titulares.
 
-i) Suscribir los oficios a terceros relacionados con el control de serie y control de estantería.
+i) Suscribir el oficio dirigido a titulares respecto de hallazgos detectados en los programas de control de estantería, control de serie, muestras legales y otros programas de vigilancia.
 
-j) Resolver las presentaciones relativas a la obligación de entregar los informes periódicos de seguridad y plan de manejo de riesgo, así como lo solicitud de modificación de los mismos.
+j) Firmar la resolución que resuelve solicitudes de agotar stock de medicamentos.
 
-k) Resoluciones que se pronuncien sobre cancelaciones voluntarias de registro sanitario, solicitadas por los propios titulares.
+6.1 El Departamento Agencia Nacional de Medicamentos tendrá las Coordinaciones, Unidades y Subdepartamentos que se indican a continuación:
 
-l) Resoluciones por las que se rechaza una solicitud de alzamiento de una medida sanitaria adoptada por funcionarios del departamento.
+6.2 Coordinación Regulatoria, que estará a cargo de trabajar con los equipos internos la agenda regulatoria del Departamento, coordinando posteriormente el trabajo específico para elaborar propuestas que se enviarán a las autoridades correspondientes desde Fiscalía.
 
-6.1 El Depto. Agencia Nacional de Medicamentos tendrá las siguientes Coordinaciones, Unidades y Subdepartamentos que se indicarán a continuación:
+6.3 Coordinación de Régimen de Control Sanitario y Medicinas Complementarias, que estará a cargo de los procesos de determinación de régimen de control sanitario, coordinando las actividades y elaborando los documentos, conforme el procedimiento establecido en la resolución dictada al efecto, además, de coordinar y gestionar actividades relacionadas con las medicinas complementarias.
 
-6.2 COORDINACIÓN REGULATORIA:
+6.4 Coordinación de Gestión, a la que corresponderá la gestión de sistemas informáticos asociados a prestaciones y documentación del Departamento, lo que incluye la digitalización, incorporación, actualización y validación de documentos en formato físicos en sistema informático Gestión Documental; administrar el acceso al sistema, concediendo las claves al efecto, así como también coordinar el almacenaje y resguardo de expedientes de registro sanitario farmacéuticos y cosméticos en formato físico y el control de acceso y mantención del edificio Anamed. Le corresponderá, además, gestionar los presupuestos asignados, elaborando y supervisando el plan operativo anual, a propuesta de la jefatura departamental, así como del control del plan de viajes del departamento.
 
-a) Coordinar la agenda regulatoria anual del Departamento, realizando las actividades necesarias para levantar las necesidades del Instituto en esta materia, coordinando posteriormente el trabajo específico para elaborar propuestas.
+6.5 Unidad de Análisis y Coordinación Sanitaria, que será la unidad dependiente de la jefatura de Departamento encargada de trabajar en inteligencia de datos, centralizando el flujo de información que genera el Departamento, para efectuar análisis estadístico, reportes y publicaciones, así como -también- de determinar acciones de campo a los subdepartamentos. Tendrá a su cargo, además, la vigilancia estratégica, generando respuestas a alertas o eventos internacionales, pudiendo requerir la participación de cualquier instancia departamental. Asimismo, será la entidad responsable de la gestión de denuncias de calidad y establecimientos, asegurando su trazabilidad. Esta jefatura tendrá delegada la firma de los oficios de respuesta por denuncias de fallas a la calidad de productos farmacéuticos y cosméticos y de establecimientos.
 
-6.3 UNIDAD DE ANÁLISIS Y VIGILANCIA SANITARIA (AVISA):
+6.6. Subdepartamento Farmacovigilancia y Estudios Clínicos, que estará a cargo del proceso de la vigilancia de productos farmacéuticos y cosméticos, así como de generar información en relación a ese proceso, y de todo el ciclo de vida asociado a los estudios clínicos. Esta jefatura tendrá delegada la facultad de firmar la resolución que resuelva las solicitudes de los informes de cumplimiento de las obligaciones de farmacovigilancia y de ampliación de plazo para el sometimiento de informes periódicos de seguridad y planes de manejo de riesgos.
 
-a) Analizar y gestionar la información que produzca o recopile el Comité de Vigilancia Sanitaria, referidas a situaciones de emergencia relacionadas con los productos sometidos a control sanitario que sean de competencia de ANAMED, asesorando a la jefatura del Departamento en la toma de decisiones, proponiendo y coordinando las acciones que este instruya.
+6.6.1 El Subdepartamento Farmacovigilancia y Estudios Clínicos estará compuesto por las siguientes secciones:
 
-b) Generar información veraz, oportuna y con respaldo científico, a partir del análisis de los resultados de la vigilancia proveniente de las diversas áreas técnicas del departamento.
+a) Vigilancia de Medicamentos y Cosméticos, encargada de la recolección, evaluación y análisis de las notificaciones de eventos adversos, incluyendo reacciones adversas a medicamentos (RAM), eventos supuestamente atribuibles a vacunación e inmunización (ESAVI), reacciones adversas a productos cosméticos (RAC), entre otros, además de la evaluación de requisitos especiales de farmacovigilancia, con el objetivo de identificar señales de seguridad, así como la fiscalización del cumplimiento de la normativa en materias de farmacovigilancia por parte de los titulares de registro sanitario.
 
-c) Coordinar las actividades de vigilancia sanitaria del Departamento ANAMED.
+b) Información y seguridad de Medicamentos y Cosméticos, la que se hará cargo de la gestión integral de la seguridad de medicamentos y cosméticos, mediante el análisis de evidencia científica y datos de vigilancia, tanto nacionales como extranjeros, para la adopción de medidas y el diseño de estrategias comunicacionales, destinadas a prevenir efectos adversos o mitigar riesgos derivados del uso de estos productos en la población, fiscalizando el cumplimiento de éstas por parte de los titulares de registros sanitarios.
 
-6.4 UNIDAD DE RÉGIMEN DE CONTROL SANITARIO Y MEDICINAS COMPLEMENTARIAS:
+c) Estudios clínicos, que estará a cargo de evaluar las solicitudes de autorización, modificaciones y renovación de uso de medicamentos para investigación clínica, ya sea que no tengan registro sanitario nacional o de aquellos que sí lo tengan, pero que la investigación diga relación con una indicación terapéutica, esquema posológico o grupo etario diferente a lo ya autorizado, así como también verificar su cumplimiento y evaluar las notificaciones de eventos adversos serios y reportes periódicos de seguridad que ahí se generen.
 
-a) Coordinar y convocar las sesiones de régimen de control sanitario.
+6.7 Subdepartamento Laboratorio Nacional de Control, el que actúa como laboratorio oficial del Estado para garantizar la seguridad sanitaria de los productos de uso humano. Su labor principal consiste en apoyar la vigilancia del Instituto de Salud Pública mediante la realización de ensayos independientes de control de calidad, verificando tanto principios activos como productos terminados bajo estándares oficiales, efectuando los controles fisicoquímicos y fisicomecánicos a productos sujetos a procesos de control de serie, de calidad, brotes, estantería, entre otros. Asimismo, será responsable de la liberación de lotes de vacunas y hemoderivados, de la emisión de certificados de análisis y de la gestión de la bodega de muestras del departamento. Esta jefatura tendrá delegadas las facultades que se indican a continuación:
 
-b) Evaluar los productos a clasificar y elaborar informes técnicos para la sesión convocada.
+a) Firmar las resoluciones que se pronuncian sobre solicitudes de control de serie y demás requerimientos asociados a ese trámite, respecto de productos biológicos u otros sometidos a este régimen.
 
-c) Emitir informes y proporcionar apoyo a otras áreas técnicas que requieran conocer la clasificación de un producto o aporte técnico relativo al respaldo científico de medicinas complementarias.
+b) Resolver las solicitudes de exención de control de calidad de productos biológicos, con o sin registro sanitario y para eximir del control de serie a los productos farmacéuticos sometidos a este régimen de control.
 
-6.5 UNIDAD DE GESTIÓN:
+c) Resolver solicitudes de muestreo sucesivo parcial (MSP).
 
-a) Gestión y administración de uso y mantención de sistemas informáticos asociados a prestaciones y documentación del Departamento, lo que incluye:
+d) Suscribir oficios a terceros relacionados con control de serie, control de estantería y cualquier otro programa de vigilancia que sea gestionado por el Subdepartamento.
 
-i. Digitalización, incorporación, actualización y validación de documentos en formato físicos en sistema informático Gestión Documental.
+e) Aprobar informes de análisis e informes cientificotécnicos de las distintas áreas del Subdepartamento.
 
-ii. Validación de las bases de datos para registros sanitarios y sus modificaciones, antecedentes de productos de usuarios, empresas, bodegas autorizadas, convenios y otros datos requeridos sistema informático.
+f) Emitir certificados de liberación de lotes para vacunas y hemoderivados.
 
-b) Resolver solicitudes de claves de acceso, así como orientación a los usuarios para tramitación línea de prestaciones del Departamento.
+6.7.1 El Subdepartamento Laboratorio Nacional de Control tendrá las siguientes Unidades y Secciones:
 
-c) Almacenaje activo/pasivo y resguardo de expedientes de registro sanitario farmacéuticos y cosméticos en formato físico.
+a) Unidad de Gestión y Custodia de muestras, que revisará, registrará y custodiará las muestras recibidas, asegurando su trazabilidad, su comunicación al área competente y su posterior eliminación, según los instructivos aplicables.
 
-d) Control de acceso y mantención del edificio ANAMED.
+b) Unidad de Muestreo y Liberación, que ejecutará el programa de control de serie, efectuando la toma de muestras y la posterior liberación de productos. Además, evaluará los antecedentes relativos a peticiones de exención de control de calidad de productos biológicos.
 
-6.6 SUBDEPARTAMENTO DE AUTORIZACIONES Y REGISTRO DE PRODUCTOS FARMACÉUTICOS NUEVOS Y BIOLÓGICOS, el que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
+c) Fisicoquímico, la que realizará los controles fisicoquímicos y fisicomecánicos a productos sujetos a control sanitario de uso humano sometidos a procesos de control de serie, control de estantería, muestras legales por denuncias a la calidad u otros programas de vigilancia sanitaria.
 
-a) Resolver sobre la admisibilidad de las solicitudes de registro sanitario de productos nuevos y biológicos.
+d) Pruebas biológicas, que estará encargada de verificar la calidad de los productos biológicos mediante la ejecución de pruebas especializadas in vivo e in vitro, aplicadas a muestras de control de serie, liberación de lote, estantería y procesos legales.
 
-b) Resolver las solicitudes de modificaciones terapéuticas de los registros sanitarios de productos farmacéuticos.
+e) Microbiología Farmacéutica, que estará a cargo de desarrollar los controles microbiológicos y coagulométricos a productos sujetos a control sanitario de uso humano sometidos a procesos de control de serie, control de estantería, muestras legales, indagatorias por brotes microbiológicos u otros programas de vigilancia sanitaria.
 
-c) Resolver las solicitudes de instalación y funcionamiento de droguerías, depósitos, establecimientos herbarios tradicionales y bodegas de productos cosméticos importados terminados.
+6.8 Subdepartamento Registro de Productos Farmacéuticos, al que corresponderá conocer de las peticiones relacionadas con el registro de productos farmacéuticos, nuevos, biológicos y bioequivalentes, así como de sus modificaciones, que estará a cargo de una jefatura que tendrá las siguientes delegaciones de firma:
 
-d) Resolver las solicitudes de modificación y traslado de laboratorios farmacéuticos de control de calidad, laboratorios acondicionadores, laboratorios de producción cosmética, droguerías, depósitos, recetarios magistrales estériles y establecimientos elaboradores o importadores de productos de higiene, de bajo riesgo de producción y odorizantes.
+a) Firmar la resolución sobre admisibilidad de las solicitudes de registro sanitario de productos farmacéuticos.
 
-6.6.1 El Subdepartamento de Autorizaciones y Registro de Productos Nuevos y Biológicos estará compuesto por las siguientes Secciones, que tendrán las funciones que a continuación se indicarán:
+b) Resolver las solicitudes de modificaciones terapéuticas y no terapéuticas de los registros sanitarios de productos farmacéuticos.
 
-6.6.2 Registro de Productos Nuevos:
+c) Suscribir la resolución que resuelve sobre la presentación de estudios de bioequivalencia o bioexención, así como también aquella que se pronuncia sobre la instalación, funcionamiento, autorizaciones de planos, modificación y traslado de centros de bioequivalencia.
 
-a) Evaluar la admisibilidad de las solicitudes de registro sanitario de productos farmacéuticos nuevos.
+d) Resolver las solicitudes de renovaciones, reacondicionamiento y transferencias de los registros sanitarios de productos farmacéuticos.
 
-b) Evaluar solicitudes de registro sanitario de productos farmacéuticos nuevos.
+e) Resolver las solicitudes de autorización de publicidad de productos farmacéuticos.
 
-c) Evaluar las solicitudes de modificación terapéutica de productos farmacéuticos no biológicos.
+6.8.1 El Subdepartamento Registro de Productos Farmacéuticos estará compuesto por las siguientes Secciones:
 
-d) Evaluar las solicitudes de autorización provisional de venta, expendio y uso de productos farmacéuticos no biológicos, de conformidad con lo señalado en el artículo 99º del Código Sanitario y artículo 94 del Decreto Supremo Nº 3, de 2010, del Ministerio de Salud.
+a) Productos nuevos, al que le corresponderá evaluar las solicitudes de registro sanitario de productos farmacéuticos nuevos, incluyéndose en esto tanto su admisibilidad, la petición en sí misma, las modificaciones de índole terapéutica de estos medicamentos y de las solicitudes de autorización provisional de venta, expendio y uso de estos productos farmacéuticos que no cuenten con registro sanitario en el país, así como también las solicitudes de donaciones.
 
-e) Evaluar las solicitudes de donación de medicamentos no biológicos.
+b) Biológicos, al que le corresponderá evaluar las solicitudes de registro sanitario de productos farmacéuticos biológicos, incluyéndose en esto tanto su admisibilidad, la petición en sí misma, las modificaciones de índole terapéutica de estos medicamentos y de las solicitudes de autorización provisional de venta, expendio y uso de estos productos farmacéuticos que no cuenten con registro sanitario en el país, así como también las solicitudes de donaciones, conociendo también de los productos biológicos de terapias avanzadas.
 
-6.6.3 Registro de Productos Biológicos:
+c) Bioequivalentes, la que evaluará las solicitudes de registros sanitarios simplificados, con excepción de los productos nuevos y biológicos, así como la petición en sí misma, sus modificaciones, reacondicionamiento, renovaciones y de las solicitudes de autorización provisional de venta, expendio y uso de estos productos farmacéuticos que no cuenten con registro sanitario en el país, así como también las solicitudes de transferencias, donaciones y de agotar stock. En ese mismo orden, evaluará las solicitudes de modificaciones no terapéuticas de aquellos, las solicitudes de exención de control de calidad de productos con o sin registro sanitario. Además, conocerá de las solicitudes de autorización de publicidad de productos farmacéuticos. Esta Sección se dividirá en dos oficinas:
 
-a) Evaluar la admisibilidad de las solicitudes de registro sanitario de productos biológicos.
+i. Oficina de Calidad, a la que corresponderá conocer las solicitudes de evaluación de protocolos y reportes de validación de procesos productivos de medicamentos para la demostración de equivalencia terapéutica y para los productos de referencia, evaluando los antecedentes de calidad farmacéuticos inherentes a los procesos de registro y modificaciones de productos farmacéuticos, exceptuando los productos nuevos y biológicos. Evaluará también las solicitudes de modificaciones postvalidación del proceso de manufactura y la mantención del proceso de validación del proceso de manufactura a través de la vigilancia sobre la vigencia de los certificados de cumplimiento de Buenas Prácticas de Manufactura y Certificado de Producto Farmacéutico (CPP).
 
-b) Evaluar solicitudes de registros sanitarios de productos biológicos.
+ii. Oficina de Bioequivalencia, que evaluará las solicitudes de aprobación de protocolos y estudios de bioequivalencia, siendo encargados, además, de efectuar las visitas relativas a la autorización, reconocimiento y fiscalización de centros de bioequivalencia in vivo e in vitro. Deberá, también, conocer las solicitudes de instalación, funcionamiento, modificación y traslado de los centros de estudios de bioequivalencia y bioexención.
 
-c) Evaluar las solicitudes de modificación terapéutica de productos farmacéuticos biológicos.
+6.9 Subdepartamento Autorizaciones e Inspecciones, el que estará a cargo de los procesos de autorización de establecimientos sanitarios, de las inspecciones relativas al cumplimiento de las normas sanitarias a las que tanto el Código Sanitario, sus normas reglamentarias y técnicas, han conferido potestad a este Instituto y del programa de control de estantería. La jefatura de este Subdepartamento tendrá delegada la firma de los siguientes documentos:
 
-d) Evaluar las solicitudes de autorización provisional de venta, expendio y uso de productos biológicos, sin registro sanitario, de conformidad con lo señalado en el artículo 99º del Código Sanitario, y artículo 94 del Decreto Supremo Nº 3, de 2010, del Ministerio de Salud.
+a) Medidas sanitarias contempladas en la normativa sanitaria vigente, cuando se deduzca de los antecedentes recogidos que existe riesgo para la salud de la población, debiendo comunicar de inmediato a la Jefatura de Departamento y a la Dirección al respecto, tanto de la adopción de esta como de su levantamiento.
 
-e) Evaluar las solicitudes de donación de medicamentos biológicos.
+b) Oficios dirigidos a los sujetos fiscalizados, informando sobre el otorgamiento de plazos y prórrogas de los mismos, respecto de las medidas sanitarias adoptadas.
 
-6.6.4 Estudios Clínicos:
+c) La resolución que se pronuncia sobre solicitudes de instalación, funcionamiento, autorizaciones de planos, modificación y traslado de laboratorios farmacéuticos de producción, laboratorios farmacéuticos de control de calidad, laboratorios acondicionadores, laboratorios de producción cosmética, droguerías, depósitos, recetarios magistrales estériles y no estériles, farmacias, almacenes farmacéuticos y botiquines, establecimientos herbarios tradicionales, bodegas de productos cosméticos importados terminados, establecimientos elaboradores o importadores de productos de higiene, de bajo riesgo de producción y odorizantes.
 
-a) Evaluar las solicitudes de autorización y renovación de uso de medicamentos para investigación clínica, ya sea sin registro sanitario nacional o de aquellos que sí tengan, pero que la investigación diga relación con una indicación, esquema posológico o grupo etario diferente a lo ya autorizado.
+d) La resolución que resuelve solicitudes referentes al comercio electrónico de medicamentos.
 
-b) Evaluar las solicitudes de modificaciones de estudios clínicos.
+e) La resolución que fija los turnos de las farmacias de la Región Metropolitana.
 
-c) En conjunto con el Subdepartamento de Farmacovigilancia, realizar la vigilancia de las reacciones adversas a medicamentos en el contexto de la investigación clínica.
+f) Oficios dirigidos al Ministerio Público, previo visto bueno de Fiscalía, en que se denuncien infracciones detectadas en el ejercicio de las funciones de dicho Subdepartamento.
 
-d) En conjunto con el Subdepartamento de Inspecciones, efectuar inspecciones de estudios clínicos, para verificar las Buenas Prácticas de Almacenamiento y Distribución y las Buenas Prácticas de Manufactura.
+g) El acta por la que se rechaza una solicitud de alzamiento de una medida sanitaria adoptada por funcionarios del departamento.
 
-6.6.5 Autorización de establecimientos:
+h) Suscribir el certificado de autorización sanitaria de farmacias, botiquines y almacenes farmacéuticos y de encargados de botiquín.
 
-a) Evaluar las solicitudes de instalación, funcionamiento, modificación y traslado de establecimientos farmacéuticos de producción, laboratorios de control de calidad, laboratorios acondicionadores, laboratorios de producción cosmética, establecimientos elaboradores o importadores de productos de higiene, de bajo riesgo de producción y odorizantes, droguerías, depósitos, recetarios magistrales estériles, establecimientos herbarios tradicionales y bodegas de productos cosméticos importados terminados.
+6.9.1 El Subdepartamento Autorizaciones e Inspecciones estará constituido por las siguientes Secciones:
 
-6.7 SUBDEPARTAMENTO DE INSPECCIONES, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
+a) Establecimientos, la que, por un lado, conocerá de las solicitudes de instalación, funcionamiento, modificación y traslado de los establecimientos farmacéuticos de producción, laboratorios de control de calidad, laboratorios acondicionadores y laboratorios de producción cosmética. Asimismo, autorizará establecimientos elaboradores, de bajo riesgo de producción y odorizantes, droguerías, depósitos, recetarios magistrales estériles, establecimientos herbarios tradicionales y bodegas de productos cosméticos importados terminados. Además, le corresponderá verificar el cumplimiento de la normativa sanitaria vigente en los productos y establecimientos de su competencia, de evaluar el primer lote de producción y del otorgamiento de las certificaciones de Buenas Prácticas (Manufactura, Laboratorio o Almacenamiento y Distribución según corresponda), a los asegurando la calidad de los procesos en toda la cadena de suministro, con excepción de los establecimientos de expendio.
 
-a) Medidas sanitarias contempladas en la normativa sanitaria vigente, cuando se deduzca de los antecedentes recogidos, que existe riesgo para la salud de la población, debiendo comunicar de inmediato a la Jefatura de Departamento y a la Dirección al respecto, tanto de la adopción de esta como de su levantamiento.
+b) Comercio Nacional, que tendrá a su cargo fiscalizar el expendio de productos farmacéuticos y cosméticos, incluyendo la detección de productos falsificados u otros ilegales y la investigación de decomisos por comercio ilegal. Asimismo, conocerá de las solicitudes referentes al comercio electrónico de medicamentos. Además, le corresponderá resolver las solicitudes de autorización de planos, así como de la instalación, funcionamiento, modificación y traslado de farmacias, almacenes farmacéuticos, botiquines y recetarios magistrales no estériles, así como también la verificación de problemas de calidad de preparados farmacéuticos elaborados en recetarios magistrales no estériles. Será responsable, también, del sistema de evaluación de solicitudes para la incorporación de nuevas fórmulas a la Farmacopea Farmacéutica Oficinal (F.F.O.O.) y de las solicitudes de incorporación de nuevos principios activos a la nómina autorizada para recetarios de farmacia, debiendo también proponer a la jefatura del Subdepartamento la determinación de los turnos de las farmacias de la Región Metropolitana.
 
-b) Oficios de respuesta por denuncias de fallas a la calidad de productos farmacéuticos y cosméticos.
+6.10 Subdepartamento Control de Medicamentos y Cosméticos, que será la instancia que tendrá a su cargo conocer los trámites relativos al comercio de productos farmacéuticos, emitiendo los documentos al efecto, así como también aquellas materias relativas a productos especiales, como los estupefacientes y psicotrópicos y los productos cosméticos. Su jefatura tendrá delegada la firma de los siguientes documentos:
 
-c) Oficios dirigidos a los sujetos fiscalizados, informando sobre el otorgamiento de plazos y prórrogas de los mismos, respecto de las medidas sanitarias adoptadas.
+a) La solicitud de autorización de importación e internación de productos sujetos a control sanitario.
 
-6.7.1 Se delega además en los funcionarios pertenecientes al Subdepartamento Inspecciones, en el contexto de una fiscalización, la adopción de las medidas sanitarias contempladas en la normativa sanitaria vigente, cuando se deduzca de los antecedentes recogidos, que existe riesgo inminente para la salud de la población, debiendo comunicar de inmediato a la línea jerárquica directa, tanto de la adopción de esta como su posterior alzamiento. Con todo, el alzamiento de cualquier medida sanitaria deberá efectuarse previo visto bueno de las jefaturas de Subdepartamento y Departamento.
+b) Los certificados oficiales que autoricen la importación y exportación de drogas o productos estupefacientes, psicotrópicos, precursores o psicoactivos.
 
-6.7.2 El Subdepartamento Inspecciones estará constituido por las siguientes Secciones, que realizarán la evaluación del primer lote, junto a las funciones que a continuación se describen:
+c) El uso y disposición de productos sometidos a control sanitario. Asimismo, podrá emitir resoluciones de modificación, levantamiento de rechazo y desistimiento, respecto de estos trámites.
 
-6.7.3 Buenas Prácticas:
+d) Los Certificados de Destinación Aduanera que le corresponda otorgar al Instituto de Salud Pública de Chile.
 
-a) Verificar, inspeccionar y fiscalizar el cumplimiento de las buenas prácticas en los establecimientos farmacéuticos de producción, control de calidad y acondicionadores, droguerías, depósitos y recetarios magistrales estériles, de acuerdo a la legislación vigente, elaborando los informes técnicos que deriven de dicha actividad, para incoar los sumarios sanitarios que resulten procedentes.
+e) La notificación de exportación de productos sujetos a control sanitario.
 
-b) Efectuar la inspección, fiscalización y control sanitario de los establecimientos de fabricación de productos cosméticos.
+f) Los certificados de registro sanitario de productos farmacéuticos, cosméticos y desinfectantes, así como también los certificados de exportación de los mismos; de producto de referencia y de producto equivalente terapéutico; de productos no registrables y de no objeción; de vigencia de laboratorio cosmético y de droguería.
 
-c) Efectuar inspección conjunta con otras áreas del departamento, de las entidades y establecimientos que realizan estudios clínicos, centros de bioequivalencia, entre otros, en relación con el uso de los medicamentos.
+g) La previsión de importación y exportación por droga o por producto estupefaciente y psicotrópico.
 
-d) Eliminado.
+h) La solicitud de traspaso de drogas estupefacientes y psicotrópicas entre droguerías y establecimientos asistenciales y farmacias.
 
-6.7.4 Denuncias de Calidad:
+i) La transferencia, destrucción o baja de drogas o productos estupefacientes y psicotrópicos.
 
-a) Efectuar la investigación de las denuncias por faltas a la calidad de productos farmacéuticos y cosméticos de uso humano con registro sanitario, elaborando los informes técnicos que deriven de dicha actividad para incoar los sumarios sanitarios que resulten procedentes.
+j) Los trámites de importación de medicamentos para uso personal.
 
-b) Efectuar la inspección, control y fiscalización relativos a denuncias de productos farmacéuticos y cosméticos de uso humano, incluyendo productos magistrales estériles, y notificaciones de fallas de calidad.
+k) Firmar la resolución que resuelva las solicitudes de registro sanitario de productos cosméticos, así como su renovación, modificación y transferencia, agotar stock, así como de exención de control de calidad de productos cosméticos.
 
-6.8 SUBDEPARTAMENTO LABORATORIO NACIONAL DE CONTROL, que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
+6.10.1 El Subdepartamento Comercio Exterior y Control de Medicamentos y Cosméticos tendrá las siguientes Secciones:
 
-a) Resolver las solicitudes de control de serie y demás requerimientos asociados a ese trámite, respecto de productos biológicos u otros sometidos a este régimen.
+a) Comercio exterior, que conocerá las solicitudes de importación de productos sujetos a control sanitario y sus modificaciones, estableciendo un control de las mismas en relación a productos no regulados y que no se encuentren afectos a los requisitos señalados en la ley Nº 18.164, dando respuesta a las consultas del Servicio Nacional de Aduana.
 
-b) Resolver las solicitudes de exención de control de calidad de productos biológicos, con o sin registro sanitario.
+Otorgará los correspondientes certificados de destinación aduanera. Resolverá también las peticiones de uso y disposición de cualquier producto que sea de competencia de este Instituto, proponiendo la aprobación, rechazo y declaración de periodo de seguridad de aquellas mercancías que ingresen al país y evaluará las solicitudes de notificación de exportación de medicamentos.
 
-c) Eximir temporal o definitivamente del control de serie a los productos farmacéuticos sometidos a este régimen de control.
+b) Estupefacientes y psicotrópicos, que tendrá a su cargo conocer los trámites relativos a los productos estupefacientes y psicotrópicos respecto a su importación, exportación, tránsito, extracción y su uso ilícito en los procesos de producción, fabricación, dispensación y distribución, así como las solicitudes de devolución, baja por robo o hurto o la destrucción de los mismos, debiendo efectuar las actividades relacionadas con establecimientos asociados a estos productos, siendo la instancia que representa al Instituto ante los organismos internacionales competentes de solicitar las previsiones anuales de sustancias psicotrópicas y estupefacientes para el país, siendo la encargada de otorgar previsiones anuales de importación y exportación de drogas y productos estupefacientes y psicotrópicos y de controlar estas. Deberá elaborar los informes que solicite la Junta Internacional de Fiscalización de Estupefacientes (JIFE) y ser el punto focal de los programas de control pertenecientes a los organismos internacionales pertinentes.
 
-6.8.1 El Subdepartamento Laboratorio Nacional de Control estará compuesto por las siguientes Secciones, que tendrán las facultades que a continuación se mencionan:
+c) Productos cosméticos, que será la instancia que evaluará las solicitudes de registro de cosméticos, sus modificaciones, renovaciones, transferencias, agotar stock y exenciones de control de calidad, así como también respecto de las declaraciones de productos de higiene y bajo riesgo.
 
-6.8.2 Fisicoquímico:
-
-a) Realizar los controles fisicoquímicos y físico-mecánicos a productos sujetos a control sanitario de uso humano sometidos a procesos de control de serie, control de estantería, muestras legales por denuncias a la calidad u otros programas de vigilancia sanitaria que sean establecidos por el Departamento.
-
-6.8.3 Pruebas Biológicas:
-
-a) Efectuar el control de calidad, mediante pruebas biológicas in vivo o in vitro, a los productos biológicos sometidos a procesos de control de serie, control de estantería y muestras legales por denuncias a la calidad u otros programas de vigilancia sanitaria que sean establecidos por el Departamento.
-
-6.8.4 Microbiología Farmacéutica:
-
-a) Desarrollar los controles microbiológicos y coágulo-métricos a productos sujetos a control sanitario de uso humano sometidos a procesos de control de serie, control de estantería, muestras legales por denuncias a la calidad u otros programas de vigilancia sanitaria que sean establecidos por el Departamento.
-
-6.9 SUBDEPARTAMENTO FARMACOVIGILANCIA, que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
-
-a) Resolver sobre las solicitudes de los informes de cumplimiento de las obligaciones de farmacovigilancia.
-
-b) Resolver sobre las solicitudes de ampliación de plazo para el sometimiento de informes periódicos de seguridad y planes de manejo de riesgos.
-
-6.9.1 El Subdepartamento Farmacovigilancia estará compuesto por las siguientes secciones, que tendrán las funciones que se desarrollan a continuación:
-
-6.9.2 Fármaco y cosmetovigilancia:
-
-a) Coordinar el Sistema Nacional de Farmacovigilancia, incluyendo capacitaciones sobre la operación del sistema a los integrantes de la red de notificadores.
-
-b) Gestionar y enviar a Uppsala Monitoring Centre (UMC) u otra entidad de referencia, si corresponde, las notificaciones de sospechas de reacciones adversas relativas a medicamentos y cosméticos.
-
-c) Administrar y gestionar la base de datos de RAM y ESAVI del Programa Nacional de Farmacovigilancia, asegurando la validación y actualización de la información.
-
-d) Analizar información de seguridad recibida a través de los informes periódicos de seguridad.
-
-e) Evaluar planes de manejo de riesgos.
-
-f) Desarrollar las actividades relativas a la vigilancia de las sospechas de efectos no deseados de productos cosméticos.
-
-g) Gestión y control de requerimientos de farmacovigilancia para titulares de registro sanitario.
-
-h) Realizar inspecciones a los sistemas de farmacovigilancia de los titulares de registros sanitarios.
-
-6.9.3 Información de medicamentos:
-
-a) Proporcionar información científica, efectiva y actualizada sobre medicamentos y farmacovigilancia a otras unidades del Instituto, otros organismos, entidades y profesionales de la salud.
-
-b) Identificar y analizar información emergente sobre seguridad de medicamentos a partir de la revisión de información publicada por sitios web de otras agencias de medicamentos y organizaciones internacionales de referencia, publicaciones científicas, prensa y otras fuentes afines.
-
-c) Proponer medidas sanitarias y regulatorias sobre situaciones emergentes de riesgo para las personas, derivado del uso de medicamentos y cosméticos.
-
-d) Actuar como centro de información de medicamentos de referencia a nivel nacional.
-
-e) Realizar inspecciones a los titulares de registros sanitarios para verificación del cumplimiento de medidas regulatorias de seguridad.
-
-6.9.4 Farmacovigilancia de vacunas:
-
-a) Registrar, analizar e informar acerca de las notificaciones de eventos supuestamente atribuidos a la vacunación e inmunización (ESAVI) en la base de datos de RAM y ESAVI, haciendo seguimiento de los casos prioritarios y elaborando informes colaborativos dirigidos a los notificadores.
-
-b) Colaborar con el Departamento de Inmunizaciones del Ministerio de Salud, y otras áreas relacionadas, para contribuir a la vacunación segura mediante las herramientas que aporta la farmacovigilancia.
-
-c) Colaborar con el análisis de información de seguridad recibida a través de los informes periódicos de seguridad y con la evaluación de planes de manejo de riesgos de vacunas.
-
-6.10 SUBDEPARTAMENTO CONTROL Y VIGILANCIA DE MEDICAMENTOS Y COSMÉTICOS, cuya jefatura tendrá delegada la firma de las siguientes actuaciones:
-
-a) Resolver la solicitud de autorización de importación e internación de productos sujetos a control sanitario.
-
-b) Firmar los certificados oficiales que autoricen la importación y exportación de drogas o productos estupefacientes, psicotrópicos, precursores o psicoactivos.
-
-c) Resolver el uso y disposición de productos sometidos a control sanitario. Asimismo, podrá emitir resoluciones de modificación, levantamiento de rechazo y desistimiento, respecto de estos trámites.
-
-d) Firmar los Certificados de Destinación Aduanera que le corresponda otorgar al Instituto de Salud Pública de Chile. Asimismo, podrá emitir resoluciones de modificación, levantamiento de rechazo y desistimiento, respecto de estos trámites.
-
-e) Firmar la notificación de exportación de productos sujetos a control sanitario.
-
-f) Firmar los siguientes certificados: de registro sanitario; de producto de referencia y de producto equivalente terapéutico; de autorización sanitaria de farmacias, botiquines y almacenes farmacéuticos; de productos no registrables y de no objeción; de encargados de botiquín; de vigencia de laboratorio cosmético y de droguería.
-
-g) Resolver sobre la provisión de importación y exportación por droga o por producto estupefaciente y psicotrópico.
-
-h) Resolver sobre solicitud de traspaso de drogas estupefacientes y psicotrópicas entre droguerías y establecimientos asistenciales y farmacias.
-
-i) Resolver sobre la transferencia, destrucción o baja de drogas o productos estupefacientes y psicotrópicos.
-
-j) Resolver los trámites de importación de productos sujetos a control sanitario para uso personal.
-
-k) Resolver las solicitudes de registro sanitario de productos cosméticos, así como su renovación, modificación y transferencia.
-
-l) Resolver las solicitudes de exención de control de calidad de productos cosméticos.
-
-m) Resolver las solicitudes de instalación, funcionamiento, modificación y traslado de recetarios magistrales no estériles, farmacias, almacenes farmacéuticos y botiquines.
-
-n) Resolver las solicitudes referentes al comercio electrónico de medicamentos.
-
-o) Resolver los turnos de las farmacias de la Región Metropolitana.
-
-p) Oficios dirigidos al Ministerio Público, Carabineros de Chile y la Policía de Investigaciones, cuando se trate exclusivamente de informar respecto de resultados de análisis o pericias de productos o sustancias.
-
-q) Oficios dirigidos al Ministerio Público, previo visto bueno de la Asesoría Jurídica, en que se denuncien infracciones detectadas en el ejercicio de las funciones de dicho Subdepartamento.
-
-r) Medidas sanitarias contempladas en la normativa sanitaria vigente, cuando se deduzca de los antecedentes recogidos, que existe riesgo para la salud de la población, debiendo comunicar de inmediato a la Jefatura de Departamento y a la Dirección al respecto, tanto de la adopción de esta como de su levantamiento.
-
-s) Resolver las solicitudes de autorización de planos de establecimientos de su competencia.
-
-6.10.1 Se delega además en los funcionarios pertenecientes al Subdepartamento Control y Vigilancia de Medicamentos y Cosméticos, en el contexto de una fiscalización, la adopción de las medidas sanitarias contempladas en la normativa sanitaria vigente, cuando se deduzca de los antecedentes recogidos, que existe riesgo inminente para la salud de la población, debiendo comunicar de inmediato a la línea jerárquica directa, tanto de la adopción de esta como su posterior alzamiento. Con todo, el alzamiento de cualquier medida sanitaria deberá efectuarse previo visto bueno de las jefaturas de Subdepartamento y Departamento.
-
-6.10.2 El Subdepartamento Control y Vigilancia de Medicamentos y Cosméticos estará compuesto por las siguientes secciones, que tendrán las funciones que se indican:
-
-6.10.3 Comercio Exterior:
-
-a) Evaluar los procesos de importación de mercancías sujetas a control sanitario.
-
-b) Evaluar el otorgamiento de Certificados de Destinación Aduanera, de conformidad a lo establecido en la Ley Nº 18.164, que introduce modificaciones a la legislación aduanera.
-
-c) Evaluar las solicitudes de uso y disposición de medicamentos, cosméticos, dispositivos médicos, pesticidas de uso sanitario y doméstico y en general toda sustancia sometida a control sanitario.
-
-d) Proponer la aprobación, rechazo y declaración en periodo de seguridad de las mercancías sujetas a control sanitario que pretendan ingresar al territorio nacional.
-
-e) Evaluar las solicitudes de notificación de exportación de medicamentos.
-
-f) Evaluar los trámites de importación de medicamentos, cosméticos y dispositivos médicos para uso personal, y sus modificaciones.
-
-g) Establecer un control de las importaciones de productos no regulados, y que no se encuentren afectos a los requisitos de la Ley Nº 18.164, generando respuestas a las Direcciones Regionales de Aduana.
-
-6.10.4 Estupefacientes y Psicotrópicos:
-
-a) Realizar el control de productos estupefacientes y psicotrópicos en cuanto a su importación, exportación, tránsito, extracción y su uso lícito en los procesos de producción, fabricación, fraccionamiento y distribución.
-
-b) Proponer la certificación oficial de importación o exportación de productos estupefacientes y psicotrópicos en conformidad a las previsiones aprobadas para cada establecimiento, de acuerdo a lo establecido en los Decretos Nº 404, de 1983, que aprueba el Reglamento de Estupefacientes y Nº 405, de 1983, que aprueba el Reglamento de Productos Psicotrópicos, ambos del Ministerio de Salud.
-
-c) Participar del control y aforo de operaciones de importación de productos estupefacientes y psicotrópicos en los establecimientos de destino o en recintos primarios, en coordinación con el Servicio Nacional de Aduana.
-
-d) Resolver respecto de solicitudes de traslado, transferencia, venta o destrucción de productos estupefacientes y psicotrópicos.
-
-e) Ser la instancia responsable ante los organismos internacionales competentes de solicitar las previsiones anuales de sustancias psicotrópicas y estupefacientes para el país.
-
-f) Ser el responsable de otorgar previsiones anuales de importación y exportación de drogas y productos estupefacientes y psicotrópicos.
-
-g) Redactar los reportes internacionales a la Junta Internacional de Fiscalización de Estupefacientes (JIFE), respecto de conciliación de cuotas asignadas al país.
-
-h) Efectuar el control y asignación interna de previsiones a los laboratorios y establecimientos a nivel nacional, respecto de las asignaciones internacionales.
-
-6.10.5 Control de Comercio Nacional:
-
-a) Inspeccionar y fiscalizar el cumplimiento de la regulación vigente en los establecimientos de expendio de productos farmacéuticos y cosméticos, en relación a las solicitudes de autorización, programa de fiscalización y denuncias, así como la verificación de problemas de calidad de preparados farmacéuticos que se elaboren en recetarios magistrales no estériles.
-
-b) Evaluar las solicitudes de instalación, funcionamiento, modificación y traslado de recetarios magistrales no estériles, farmacias, almacenes farmacéuticos y botiquines.
-
-c) Evaluar las solicitudes referentes al comercio electrónico de medicamentos.
-
-d) Llevar a cabo las pesquisas de los productos falsificados u otros ilegales y la investigación de decomisos por comercio ilegal, adoptando, cuando sea procedente, las medidas sanitarias previstas en el artículo 178 del Código Sanitario. Asimismo, le corresponderá recibir los decomisos de medicamentos, identificando los productos y anotando los antecedentes relacionados con cada uno de ellos.
-
-e) Mantener un sistema de vigilancia a través de la recepción y evaluación de los Registros Oficiales de Elaboración de Preparados Farmacéuticos, que sean recibidos de los recetarios de farmacia por trimestre vencido.
-
-f) Mantener un sistema de evaluación de las solicitudes de incorporación de nuevas fórmulas a la Farmacopea Farmacéutica Oficinal Oficial (F.F.O.O.).
-
-g) Mantener un sistema de recepción y evaluación de las solicitudes de incorporación de nuevos principios activos a la nómina de principios activos que podrán ser utilizados en los recetarios de farmacia.
-
-h) Proponer al Director del Instituto los turnos de las farmacias de la Región Metropolitana.
-
-i) Evaluar las solicitudes de autorización de planos de establecimientos de su competencia.
-
-6.10.6 Productos Cosméticos:
-
-a) Evaluar las solicitudes de registro, modificaciones, renovaciones y exenciones de control de calidad de productos cosméticos.
-
-b) Evaluar las declaraciones de productos de higiene y bajo riesgo.
-
-6.11 SUBDEPARTAMENTO DE REGISTRO SANITARIO DE PRODUCTOS FARMACÉUTICOS BIOEQUIVALENTES, el que estará a cargo de una jefatura que tendrá delegada la firma de las siguientes actuaciones:
-
-a) Resolver sobre la presentación de estudios de bioequivalencia o bioexención.
-
-b) Resolver sobre la admisibilidad de las solicitudes de registro sanitario de productos farmacéuticos sometidos a procedimiento simplificado.
-
-c) Resolver las solicitudes de renovaciones, reacondicionamiento, agotar stock y transferencias de los registros sanitarios de productos farmacéuticos.
-
-d) Resolver las solicitudes de autorización de publicidad de productos farmacéuticos.
-
-e) Resolver las solicitudes de modificación y traslado de centros de bioequivalencia.
-
-f) Resolver las solicitudes de modificaciones de registro sanitario no terapéuticas.
-
-6.11.1 El Subdepartamento de Registro Sanitario de Productos Farmacéuticos Bioequivalentes estará compuesto por las siguientes secciones, que tendrán las funciones que se indican a continuación:
-
-6.11.2 Registro de productos bioequivalentes:
-
-a) Evaluar la admisibilidad de las solicitudes de registro sanitario de productos farmacéuticos con excepción de los productos nuevos y biológicos.
-
-b) Evaluar las solicitudes de registros sanitarios simplificados de productos farmacéuticos, con excepción de los productos nuevos y biológicos de los mismos.
-
-c) Evaluar las solicitudes de modificaciones no terapéuticas de productos farmacéuticos.
-
-d) Evaluar las solicitudes de exención de control de calidad de productos farmacéuticos no biológicos con o sin registro sanitario.
-
-e) Evaluar las solicitudes de renovaciones, reacondicionamiento, agotar stock y transferencias de los registros sanitarios de productos farmacéuticos.
-
-f) Evaluar las solicitudes de autorización de publicidad de productos farmacéuticos.
-
-6.11.3 Bioequivalencia e intercambiabilidad:
-
-a) Evaluar las solicitudes de aprobación de protocolos y estudios de bioequivalencia.
-
-b) Coordinar y efectuar las visitas de autorización, reconocimiento y fiscalización de centros de estudios de bioequivalencia in vivo e in vitro.
-
-c) Evaluar las solicitudes de instalación, funcionamiento, modificación y traslado de los centros de estudios de bioequivalencia y bioexención.
-
-6.11.4 Calidad y validación de productos bioequivalentes:
-
-a) Revisar las solicitudes de evaluación de protocolos y reportes de validación de procesos productivos de medicamentos para la demostración de equivalencia terapéutica y para los productos de referencia.
-
-b) Evaluar los antecedentes de calidad farmacéuticos inherentes a los procesos de registro y modificaciones de productos farmacéuticos, exceptuando los productos nuevos y biológicos.
-
-c) Evaluar las solicitudes de modificaciones post validación del proceso de manufactura.
-
-d) Evaluar la mantención del proceso de validación del proceso de manufactura a través de la vigilancia sobre la vigencia de los certificados de cumplimiento de Buenas Prácticas de Manufactura y certificado de producto farmacéutico (CPP).
+6.11 A los funcionarios y funcionarias del Departamento Agencia Nacional de Medicamentos se les delega, en el contexto de una fiscalización, la adopción de las medidas sanitarias contempladas en la normativa sanitaria vigente, cuando se deduzca de los antecedentes recogidos que existe riesgo inminente para la salud de la población, debiendo comunicar de inmediato a la línea jerárquica directa, tanto de la adopción de esta como su posterior alzamiento. Con todo, el alzamiento de cualquier medida sanitaria deberá efectuarse previo visto bueno de las jefaturas de Subdepartamento involucradas y del Departamento.
 
 7. Departamento Agencia Nacional de Dispositivos Médicos, el que es el encargado de garantizar la seguridad y el desempeño de los dispositivos médicos, incluyendo los dispositivos médicos de diagnóstico in vitro- utilizados en el país, a través de acciones de autorización, control, fiscalización y vigilancia en todas las etapas de su ciclo de vida, lo anterior con un enfoque de innovación en la gestión. Estará a cargo de una jefatura, que tendrá delegada la firma de las siguientes actuaciones:
 
@@ -972,7 +750,7 @@ a) Firmar y enviar a las autoridades competentes, con copia a la Dirección, los
 
 b) Firmar certificado anual de participación en PEEC por cada participante.
 
-8.1 El Departamento Laboratorio Biomédico Nacional y de Referencia tendrá los siguientes Subdepartamentos que a continuación se indican:
+8.1 Dependerá de la jefatura del Departamento Laboratorio Biomédico Nacional y de Referencia la tendrá la Unidad y Subdepartamentos que a continuación se indican:
 
 8.2 SUBDEPARTAMENTO GENÓMICA Y GENÉTICA MOLECULAR, el que estará formado por las Secciones que se señalan a continuación, las que tendrán las siguientes funciones:
 
@@ -1171,6 +949,8 @@ a) Organizar y coordinar las actividades requeridas para el desarrollo y ejecuci
 a) Desarrollar e implementar las acciones de fiscalización de laboratorios clínicos, de acuerdo a la normativa vigente y estrategias del Ministerio de Salud.
 
 b) Desarrollar e implementar las acciones de fiscalización de entidades acreditadoras de laboratorios clínicos, de acuerdo a la normativa vigente y estrategias del Ministerio de Salud.
+
+8.7 Unidad Investigación e Innovación, la que ejecutará actividades de investigación y desarrollo, innovación y transferencia tecnológica con impacto en salud, aplicable al ámbito de las competencias del Instituto, orientando ésta a las necesidades de salud pública y de los demás Departamentos del Instituto, mediante la aplicación de herramientas biológicas, moleculares, genéticas y analíticas de vanguardia, siendo el área encargada de difundir el conocimiento científico y técnico en la institución.
 
 9. Departamento Nacional y de Referencia en Salud Ambiental, que estará a cargo de una jefatura, que tendrá delegada la firma de las siguientes actuaciones:
 
@@ -1392,33 +1172,7 @@ b) Proveer y ejecutar el Programa de Evaluación Externa de la Calidad en Ensayo
 
 c) Realizar prestaciones analíticas, según demanda, para la medición de contaminantes químicos ambientales y marcadores biológicos de exposición laboral.
 
-11. Departamento Vigilancia Sanitaria e Investigación, que tiene como objetivo principal asesorar, recopilar, analizar y utilizar información relevante para proponer estrategias que garanticen el cumplimiento de la misión y funciones institucionales. Además, fomentará la realización de investigaciones que contribuyan al conocimiento científico, la innovación y a la mejora de la salud de la población. En particular, tendrá las siguientes funciones:
-
-1. Efectuar análisis avanzado de datos para la toma de decisiones, lo que contempla identificar tendencias y factores asociados a eventos de interés en vigilancia sanitaria, así como también detectar cambios en los patrones de ocurrencia, distribución y propagación de eventos bajo vigilancia, estimando riesgos asociados a actividades de vigilancia sanitaria, las que serán monitoreadas continuamente.
-
-2. Identificar necesidades de investigación e innovación relevantes para el país, en las áreas de competencia del Instituto. Asimismo, desarrollar y promover la generación de evidencia científica que respalde la toma de decisiones institucionales.
-
-3. Promover la colaboración con diversas entidades y potenciar el trabajo conjunto con los otros departamentos de este Servicio, además de brindar asistencia técnica para implementar, investigar y evaluar el Sistema de Vigilancia en Salud Pública.
-
-4. Facilitar la planificación en salud pública y definir, en conjunto con los otros departamentos, medidas de prevención y control de riesgos en materias de competencia del Instituto.
-
-5. Garantizar el seguimiento y la evaluación de intervenciones relacionadas con la vigilancia sanitaria y la investigación.
-
-6. Colaborar con el Ministerio de Salud en el desarrollo del sistema de vigilancia epidemiológica, en la formulación de políticas de salud pública y en la coordinación de acciones de vigilancia sanitaria entre los integrantes del Sistema de Salud.
-
-7. Coordinar la comunicación de los resultados de la vigilancia sanitaria al Ministerio de Salud, la comunidad, clientes internos y externos del Instituto, tanto a nivel nacional como internacional.
-
-8. Brindar asesoramiento a la jefatura superior del Instituto en temas relacionados con la vigilancia sanitaria e investigación.
-
-11.1 El Departamento Vigilancia Sanitaria e Investigación tendrá a su cargo la Biblioteca del Instituto y estará conformado por las Unidades y Secciones que se indican a continuación:
-
-11.2 Unidad de Apoyo, que tendrá a su cargo la gestión administrativa del Departamento, así como también los aspectos de gestión de las personas y de finanzas.
-
-11.3 Unidad de Bioestadística.
-
-11.4 Sección Investigación e Innovación, que será la responsable de la coordinación de proyectos de investigación, ensayos clínicos y demás iniciativas de dicha índole.
-
-11.5 Sección Desarrollo y análisis avanzado de datos, que tendrá a su cargo la generación y análisis de datos de interés en salud pública, así como en la vigilancia sanitaria de las distintas materias que son de competencia de este Instituto.
+### 11. Eliminado
 
 12. Delégase en todas las jefaturas de Departamento, Subdepartamento, Unidades, Secciones y Oficinas las siguientes facultades, en materia de personal:
 
