@@ -114,7 +114,7 @@ Todo propietario, arrendatario, usufructuario o quien explote a cualquier títul
 
 Las empresas concesionarias de servicio público de distribución deberán constituirse como sociedades anónimas abiertas o cerradas sujetas a las obligaciones de información y publicidad a que se refiere el inciso séptimo del artículo 2 de la ley N° 18.046 y a las normas sobre operaciones entre partes relacionadas del Título XVI de la misma ley. Asimismo, deberán tener giro exclusivo de distribución de energía eléctrica.
 
-Por su parte, las empresas concesionarias de distribución que estén constituidas de acuerdo a lo establecido en el decreto con fuerza de ley N° 5, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, en adelante "cooperativas", que además de prestar el servicio público de distribución de energía eléctrica desarrollen otras actividades que comprendan giros distintos del señalado, estarán obligadas, para los efectos de esta ley, a llevar una contabilidad separada respecto de las actividades que comprendan en cualquier forma el giro de distribución de energía eléctrica. Se entenderá por contabilidad separada aquella que mediante libros de contabilidad, cuentas, registros y documentación fidedigna permita establecer en forma diferenciada los resultados de la gestión económica desarrollada dentro del giro de distribución de energía eléctrica.
+Por su parte, las empresas concesionarias de distribución que operen únicamente en los sistemas medianos, en los sistemas aislados para pequeños consumidores y aquellas que estén constituidas de acuerdo a lo establecido en el decreto con fuerza de ley N° 5, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, en adelante "cooperativas", que además de prestar el servicio público de distribución de energía eléctrica desarrollen otras actividades que comprendan giros distintos del señalado, estarán obligadas, para los efectos de esta ley, a llevar una contabilidad separada respecto de las actividades que comprendan en cualquier forma el giro de distribución de energía eléctrica. Se entenderá por contabilidad separada aquella que mediante libros de contabilidad, cuentas, registros y documentación fidedigna permita establecer en forma diferenciada los resultados de la gestión económica desarrollada dentro del giro de distribución de energía eléctrica.
 
 #### Artículo 9°
 
@@ -123,6 +123,44 @@ La aplicación de la presente ley corresponderá a la Superintendencia de Electr
 #### Artículo 10°
 
 Los reglamentos que se dicten para la aplicación de la presente ley indicarán los pliegos de normas técnicas que deberá dictar la Superintendencia previa aprobación de la Comisión. Estos pliegos podrán ser modificados periódicamente en concordancia con los progresos que ocurran en estas materias.
+
+## Título I — bis
+
+De los sistemas eléctricos y su categorización
+
+#### Artículo 10
+
+1.- Definición de sistema eléctrico nacional. Es el sistema eléctrico interconectado único, destinado a cubrir la mayor parte de la demanda de clientes regulados y libres del país y que permite conformar un mercado eléctrico común.
+
+#### Artículo 10
+
+2.- Definición de sistema mediano. Es el sistema eléctrico con capacidad instalada de generación superior a 1500 kilowatts, que se encuentra desconectado del sistema eléctrico nacional, y está destinado a suministrar energía a clientes libres y regulados, para el cual se establecen estándares regulatorios y normativos específicos, de acuerdo al inciso tercero del artículo 173.
+
+#### Artículo 10
+
+3.- Definición de sistema aislado para pequeños consumidores. Es el sistema eléctrico con capacidad instalada de generación inferior o igual a 1.500 kilowatts, que se encuentra desconectado del sistema eléctrico nacional, y está destinado esencialmente a suministrar electricidad para actividades domiciliarias o comerciales de localidades que, por su ubicación, nivel de demanda u otras características particulares no resulta pertinente ni favorable someterlos a los estándares normativos de un sistema mediano.
+
+Sin perjuicio de lo anterior, en caso de que estos sistemas superen la capacidad instalada de generación indicada en el inciso anterior, se mantendrán en dicha categoría mientras la Comisión establezca el plan señalado en el artículo 10-6 y éste se encuentre en ejecución.
+
+#### Artículo 10
+
+4.- Definición de sistema para procesos productivos. Es el sistema eléctrico destinado esencialmente a abastecer los consumos asociados a la producción de bienes y productos. Estos sistemas no necesariamente se encuentran interconectados al sistema eléctrico nacional o a un sistema mediano, pero su interconexión con estos últimos podrá habilitarse a través de la solicitud de uso de acceso abierto o mediante el proceso de planificación, conforme a las disposiciones reglamentarias aplicables.
+
+#### Artículo 10
+
+5.- Categorización de sistemas eléctricos. Los sistemas eléctricos que no se encuentren interconectados al sistema eléctrico nacional serán categorizados por la Comisión como sistema mediano, sistema aislado para pequeños consumidores o sistema para procesos productivos, de acuerdo a las características establecidas en los artículos 10-2, 10-3 y 10-4, y en conformidad a lo que establezca el reglamento y demás normativa vigente.
+
+Cada cinco años la Comisión, mediante un proceso transparente, público y participativo, categorizará los sistemas eléctricos que hay en el país que no se encuentren interconectados al sistema eléctrico nacional. Finalizado este proceso, la Comisión dictará una resolución exenta que establecerá, fundadamente, la categorización respectiva.
+
+Sin perjuicio de lo anterior, la resolución exenta indicada en el inciso precedente podrá ser actualizada en caso de que la Comisión lo determine de manera fundada.
+
+Los plazos, condiciones, etapas y demás requisitos del proceso de categorización de los sistemas eléctricos y su actualización, cuando corresponda, serán establecidos en el reglamento, junto con los criterios y otras consideraciones necesarias para llevar adelante el proceso.
+
+#### Artículo 10
+
+6.- Cambio de categorización de un sistema eléctrico. Si un sistema eléctrico cambia de categorización en virtud del proceso descrito en el artículo anterior deberá cumplir con los requerimientos que exija la regulación de la nueva categorización de forma progresiva, de acuerdo al plan que para tal efecto establezca la Comisión.
+
+El reglamento regulará las materias necesarias para la debida implementación del presente artículo.
 
 ## Título II
 
@@ -2048,11 +2086,11 @@ Será Juez competente para conocer de los juicios a que se refiere el presente T
 
 3.- Garantizar el acceso abierto a todos los sistemas de transmisión, en conformidad a esta ley.
 
-Esta coordinación deberá efectuarse a través del Coordinador, de acuerdo a las normas técnicas que determinen la Comisión, la presente ley y la reglamentación pertinente.
+En el caso del sistema eléctrico nacional esta coordinación deberá efectuarse a través del Coordinador, de acuerdo con las normas técnicas que determinen la Comisión, la presente ley y la reglamentación pertinente.
 
-Adicionalmente, el Coordinador deberá realizar la programación de la operación de los sistemas medianos en que exista más de una empresa generadora, conforme a la ley, el reglamento y las normas técnicas. Dichas empresas deberán sujetarse a esta programación del Coordinador.
+En el caso de los sistemas medianos, la coordinación de las instalaciones deberá realizarse entre las empresas que operan en cada uno de los sistemas de acuerdo a lo dispuesto en el artículo 173 bis. Sin perjuicio de lo anterior, el Coordinador deberá realizar la programación de la operación de los sistemas medianos en que haya más de una empresa generadora, conforme a la ley, el reglamento y las normas técnicas. En dicho caso, las empresas que operan estos sistemas medianos deberán sujetarse a la programación que realice el Coordinador y deberán proporcionarle toda la información que para tal efecto les requiera.
 
-El Coordinador sólo podrá operar directamente las instalaciones sistémicas de control, comunicación y monitoreo necesarias para la coordinación del sistema eléctrico.
+El Coordinador sólo podrá operar directamente las instalaciones sistémicas de control, comunicación y monitoreo necesarias para la coordinación del sistema eléctrico nacional.
 
 #### Artículo 72°
 
@@ -2162,7 +2200,7 @@ El reglamento establecerá el procedimiento, etapas, plazos y demás condiciones
 
 #### Artículo 72°
 
-10.- Monitoreo de la Competencia en el Sector Eléctrico. Con el objetivo de garantizar los principios de la coordinación del sistema eléctrico, establecidos en el artículo 72°-1, el Coordinador monitoreará permanentemente las condiciones de competencia existentes en el mercado eléctrico.
+10.- Monitoreo de la Competencia en el Sector Eléctrico. Con el objetivo de garantizar los principios de la coordinación del sistema eléctrico, establecidos en el artículo 72°-1, el Coordinador monitoreará permanentemente las condiciones de competencia existentes en el mercado eléctrico, tanto en el sistema eléctrico nacional como en los sistemas medianos.
 
 En caso de detectar indicios de actuaciones que podrían llegar a ser constitutivas de atentados contra la libre competencia, conforme las normas del Decreto con Fuerza de Ley N°1, del año 2004, del Ministerio de Economía, Fomento y Reconstrucción, el Coordinador deberá ponerlas en conocimiento de la Fiscalía Nacional Económica o de las autoridades que corresponda.
 
@@ -2392,9 +2430,9 @@ Capítulo II: De la Planificación Energética y de la Transmisión
 
 #### Artículo 83°
 
-Planificación Energética. Cada cinco años, el Ministerio de Energía deberá desarrollar un proceso de planificación energética de largo plazo, para los distintos escenarios energéticos de expansión de la generación y del consumo, en un horizonte de al menos treinta años.
+Planificación Energética. Cada cinco años, el Ministerio de Energía deberá desarrollar un proceso de planificación energética de largo plazo, para los distintos escenarios energéticos de expansión de la generación y del consumo, en un horizonte de al menos treinta años, respecto al sistema eléctrico nacional y a los sistemas medianos.
 
-El proceso de planificación energética deberá incluir escenarios de proyección de oferta y demanda energética y en particular eléctrica, considerando la identificación de polos de desarrollo de generación, generación distribuida, intercambios internacionales de energía, políticas medio ambientales que tengan incidencia y objetivos de eficiencia energética entre otros, elaborando sus posibles escenarios de desarrollo. Asimismo, la planificación deberá considerar dentro de sus análisis los planes estratégicos con los que cuenten las regiones en materia de energía. Anualmente, el Ministerio podrá actualizar la proyección de la demanda, los escenarios macroeconómicos, y los demás antecedentes considerados en los escenarios definidos en el decreto a que hace referencia el artículo 86°.
+El proceso de planificación energética deberá incluir, según corresponda, escenarios de proyección de oferta y demanda energética y en particular eléctrica, de acuerdo a las especificidades del sistema eléctrico nacional y de los sistemas medianos, la identificación de polos de desarrollo de generación, generación distribuida, intercambios internacionales de energía, políticas medio ambientales que tengan incidencia y objetivos de eficiencia energética entre otros, elaborando sus posibles escenarios de desarrollo. Asimismo, la planificación deberá considerar dentro de sus análisis los planes estratégicos con los que cuenten las regiones en materia de energía. Anualmente, el Ministerio podrá actualizar la proyección de la demanda, los escenarios macroeconómicos, y los demás antecedentes considerados en los escenarios definidos en el decreto a que hace referencia el artículo 86°.
 
 Por razones fundadas el Ministerio de Energía podrá desarrollar el proceso de planificación energética antes del vencimiento del plazo señalado en el inciso primero.
 
@@ -2406,11 +2444,21 @@ Procedimiento de Planificación Energética. Al menos veinticuatro meses antes d
 
 Con la antelación que señale el reglamento, el Ministerio deberá abrir un registro de participación ciudadana, en el que se podrán inscribir toda persona natural o jurídica con interés en participar en el proceso, conforme a las normas que establezca el Ministerio de Energía por resolución dictada al efecto. El proceso de participación se someterá a lo establecido en el reglamento, debiendo considerar instancias de consulta pública a través de medios accesibles.
 
+#### Artículo 84 bis
+
+Planes estratégicos de energía en regiones. El Ministerio de Energía deberá dictar los planes estratégicos de energía para cada una de las regiones del país. Estos planes son instrumentos que orientan el desarrollo energético de la región, con un enfoque territorial, y que deben ser considerados en los análisis de los distintos instrumentos del proceso de planificación energética de largo plazo definido en el artículo 83°.
+
+Los planes estratégicos de energía aplicarán la evaluación ambiental estratégica, conforme a lo establecido en el Párrafo 1° bis del Título II de la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
+
+Previo a la aprobación de cada plan, se requerirá el informe del Comité Regional de Cambio Climático respectivo, el que deberá pronunciarse sobre la coherencia de aquél con los instrumentos de gestión del cambio climático correspondientes. El informe se deberá evacuar dentro del plazo de treinta días, contado desde la recepción de la solicitud. Transcurrido dicho plazo, sin que se haya emitido el informe, el Ministerio de Energía podrá continuar con la tramitación del plan respectivo.
+
+El reglamento establecerá el procedimiento, contenidos y materias necesarias para el desarrollo de los planes estratégicos de energía en regiones.
+
 #### Artículo 85°
 
 Definición de Polos de Desarrollo de Generación Eléctrica. En la planificación energética de largo plazo, el Ministerio deberá identificar las áreas donde pueden existir polos de desarrollo de generación eléctrica, en adelante polos de desarrollo.
 
-Se entenderá por polos de desarrollo a aquellas zonas territorialmente identificables en el país, ubicadas en las regiones en las que se emplaza el Sistema Eléctrico Nacional, donde existen recursos para la producción de energía eléctrica proveniente de energías renovables, cuyo aprovechamiento, utilizando un único sistema de transmisión, resulta de interés público por ser eficiente económicamente para el suministro eléctrico, debiendo cumplir con la legislación ambiental y de ordenamiento territorial. La identificación de las referidas zonas tendrá en consideración el cumplimiento de la obligación establecida en el artículo 150º bis, esto es, que una cantidad de energía equivalente al 20% de los retiros totales afectos en cada año calendario, haya sido inyectada al sistema eléctrico por medios de generación renovables no convencionales.
+Se entenderá por polos de desarrollo a aquellas zonas territorialmente identificables en el país donde existen recursos para la producción de energía eléctrica proveniente de energías renovables, cuyo aprovechamiento, utilizando un único sistema de transmisión, resulta de interés público por ser eficiente económicamente para el suministro eléctrico, debiendo cumplir con la legislación ambiental y de ordenamiento territorial. La identificación de las referidas zonas tendrá en consideración el cumplimiento de la obligación establecida en el artículo 150º bis, esto es, que una cantidad de energía equivalente al 20% de los retiros totales afectos en cada año calendario, haya sido inyectada al sistema eléctrico por medios de generación renovables no convencionales.
 
 El Ministerio deberá elaborar un Informe Técnico por cada polo de desarrollo, que especifique una o más zonas que cumplan con lo prescrito en el inciso anterior, distinguiendo cada tipo de fuente de generación. Para estos efectos y antes de la emisión del señalado informe, el Ministerio deberá realizar una evaluación ambiental estratégica en cada provincia o provincias donde se encuentren uno o más polos de desarrollo, conforme a lo establecido en el Párrafo 1° bis del Título II de la ley N°19.300, sobre Bases Generales del Medio Ambiente.
 
@@ -3082,9 +3130,9 @@ Las empresas eléctricas no podrán cobrar gastos por concepto de devolución de
 
 #### Artículo 130º
 
-La calidad de servicio de las empresas distribuidoras de servicio público que operen en sistemas cuyo tamaño es superior a 1.500 kilowatts en capacidad instalada de generación, en cuanto a tensión, frecuencia, disponibilidad y otros, corresponderá a estándares normales con límites máximos de variación que serán los que determinen los reglamentos.
+La calidad de servicio de las empresas distribuidoras de servicio público que operen en el sistema eléctrico nacional y en los sistemas medianos, en cuanto a tensión, frecuencia, disponibilidad y otros, corresponderá a estándares normales con límites máximos de variación que serán los que determinen el reglamento y las correspondientes normas técnicas.
 
-En los sistemas cuyo tamaño es inferior o igual a 1.500 kilowatts en capacidad instalada de generación, la calidad de servicio será establecida de común acuerdo entre el concesionario y la Municipalidad respectiva, según lo señalado en el artículo 201°.
+En los sistemas aislados para pequeños consumidores, la calidad de servicio será establecida de común acuerdo entre el concesionario y la Municipalidad respectiva, según lo señalado en el artículo 201°.
 
 Los usuarios no podrán exigir calidades especiales de servicio por sobre los estándares que se establezcan a los precios fijados, siendo de la exclusiva responsabilidad de aquéllos que lo requieran el adoptar las medidas necesarias para lograrlas.
 
@@ -3340,9 +3388,9 @@ Están sujetos a fijación de precios los suministros de energía eléctrica y l
 
 1.- Los suministros a usuarios finales cuya potencia conectada es inferior o igual a 5.000 kilowatts, ubicados en zonas de concesión de servicio público de distribución o que se conecten mediante líneas de su propiedad o de terceros a las instalaciones de distribución de la respectiva concesionaria;
 
-2.- Los suministros a usuarios finales de potencia conectada inferior o igual a 5.000 kilowatts, efectuados desde instalaciones de generación o transporte de una empresa eléctrica, en sistemas eléctricos de tamaño superior a 1.500 kilowatts en capacidad instalada de generación;
+2.- Los suministros a usuarios finales de potencia conectada inferior o igual a 5.000 kilowatts, efectuados desde instalaciones de generación o transporte de una empresa eléctrica, en el sistema eléctrico nacional y en los sistemas mediano;
 
-3.- Los suministros que se efectúen a empresas eléctricas que no dispongan de generación propia, en la proporción en que estas últimas efectúen a su vez suministros sometidos a fijación de precios. Lo anterior cuando se trate de sistemas eléctricos de tamaño superior a 1.500 kilowatts en capacidad instalada de generación, y
+3.- Los suministros que se efectúen a empresas eléctricas que no dispongan de generación propia, en la proporción en que estas últimas efectúen a su vez suministros sometidos a fijación de precios. Lo anterior cuando se trate del sistema eléctrico nacional y en los sistemas medianos, y
 
 4.- Los servicios no consistentes en suministros de energía, prestados por las empresas sean o no concesionarias de servicio público que, mediante resolución del Tribunal de Defensa de la Libre Competencia, dictada a solicitud de la Superintendencia o de cualquier interesado, sean expresamente calificados como sujetos a fijación de precios, en consideración a que las condiciones existentes en el mercado no son suficientes para garantizar un régimen de libertad tarifaria.
 
@@ -3440,15 +3488,15 @@ En caso de que sea necesario realizar mediciones de consumos o generación del c
 
 Para los efectos del pago, la concesionaria deberá remitir al cliente un documento nominativo representativo de las obligaciones de dinero emanadas de las inyecciones no descontadas, salvo que dicho cliente haya optado por otro mecanismo de pago en el contrato respectivo.
 
-Los remanentes, debidamente reajustados de acuerdo al índice de precios al consumidor, que tras cinco años desde el año calendario en que fueron generados por el usuario aún no hayan podido ser descontados de los cargos de suministro de la facturación correspondiente o pagados al mismo, deberán ser informados por las empresas distribuidoras a la Comisión y al usuario que los hubiere generado, de acuerdo a los procedimientos, plazos y formatos establecidos en el reglamento. Estos remanentes serán utilizados en la comuna donde se emplaza el equipamiento de generación o sistema de almacenamiento para la determinación de los cargos y descuentos a los que se refieren el inciso cuarto del artículo 157. En el caso de los sistemas eléctricos cuya capacidad instalada de generación sea inferior a 200 megawatts y superior a 1.500 kilowatts, los remanentes antes señalados deberán ser incorporados en las tarifas traspasables a cliente final con la periodicidad y forma que determine el reglamento.
+Los remanentes, debidamente reajustados de acuerdo al índice de precios al consumidor, que tras cinco años desde el año calendario en que fueron generados por el usuario aún no hayan podido ser descontados de los cargos de suministro de la facturación correspondiente o pagados al mismo, deberán ser informados por las empresas distribuidoras a la Comisión y al usuario que los hubiere generado, de acuerdo a los procedimientos, plazos y formatos establecidos en el reglamento. Estos remanentes serán utilizados en la comuna donde se emplaza el equipamiento de generación o sistema de almacenamiento para la determinación de los cargos y descuentos a los que se refieren el inciso cuarto del artículo 157. En el caso de los sistemas medianos, los remanentes antes señalados deberán ser incorporados en las tarifas traspasables a cliente final con la periodicidad y forma que determine el reglamento.
 
 #### Artículo 149 quáter
 
-Sin perjuicio de lo establecido en los artículos anteriores, la energía que los clientes finales inyecten por medios de generación renovables no convencionales de acuerdo al artículo 149 bis, podrá ser considerada por las empresas eléctricas que efectúen retiros de energía desde los sistemas eléctricos con capacidad instalada superior a 200 megawatts, a objeto del cumplimiento de la obligación establecida en el artículo 150 bis.
+Sin perjuicio de lo establecido en los artículos anteriores, la energía que los clientes finales inyecten por medios de generación renovables no convencionales de acuerdo al artículo 149 bis, podrá ser considerada por las empresas eléctricas que efectúen retiros de energía desde el sistema eléctrico nacional, a objeto del cumplimiento de la obligación establecida en el artículo 150 bis.
 
 Con dicho fin, anualmente, y cada vez que sea solicitado, la respectiva concesionaria de servicio público de distribución remitirá al cliente un certificado que dé cuenta de las inyecciones realizadas por el cliente a través de medios de generación renovables no convencionales. Copia de dicho certificado será remitida al Coordinador para efectos de su incorporación al registro a que se refiere el inciso sexto del artículo 150 bis. Mensualmente, y conjuntamente con cada facturación, la concesionaria deberá informar al cliente el monto agregado de inyecciones realizadas desde la última emisión del certificado a que se refiere este inciso.
 
-El certificado de inyecciones leídas constituirá título suficiente para acreditar inyecciones para el cumplimiento de la obligación establecida en el inciso primero del artículo 150 bis, por los valores absolutos de las inyecciones indicadas en él. Para tales efectos, el cliente podrá convenir, directamente, a través de la distribuidora o por otro tercero, el traspaso de tales inyecciones a cualquier empresa eléctrica que efectúe retiros en ese u otro sistema eléctrico. El reglamento establecerá los procedimientos que deberán seguirse para el traspaso de los certificados y la imputación de inyecciones pertinente.
+El certificado de inyecciones leídas constituirá título suficiente para acreditar inyecciones para el cumplimiento de la obligación establecida en el inciso primero del artículo 150 bis, por los valores absolutos de las inyecciones indicadas en él. Para tales efectos, el cliente podrá convenir, directamente, a través de la distribuidora o por otro tercero, el traspaso de tales inyecciones a cualquier empresa eléctrica que efectúe retiros en el sistema eléctrico nacional El reglamento establecerá los procedimientos que deberán seguirse para el traspaso de los certificados y la imputación de inyecciones pertinente.
 
 #### Artículo 149
 
@@ -3466,11 +3514,11 @@ Eliminado.
 
 #### Artículo 150° bis
 
-Cada empresa eléctrica que efectúe retiros de energía desde los sistemas eléctricos con capacidad instalada superior a 200 megawatts para comercializarla con distribuidoras o con clientes finales, estén o no sujetos a regulación de precios, deberá acreditar ante el Coordinador, que una cantidad de energía equivalente al 20% de sus retiros en cada año calendario haya sido inyectada a cualquiera de dichos sistemas, por medios de generación renovables no convencionales, propios o contratados.
+Cada empresa eléctrica que efectúe retiros de energía desde el sistema eléctrico nacional para comercializarla con distribuidoras o con clientes finales, estén o no sujetos a regulación de precios, deberá acreditar ante el Coordinador, que una cantidad de energía equivalente al 20% de sus retiros en cada año calendario haya sido inyectada a dicho sistema, por medios de generación renovables no convencionales, propios o contratados.
 
-La empresa eléctrica podrá también acreditar el cumplimiento de la obligación señalada en el inciso primero, mediante inyecciones de energía renovable no convencional realizadas a los sistemas eléctricos durante el año calendario inmediatamente anterior, en la medida que dichas inyecciones no hayan sido acreditadas para el cumplimiento de la obligación que correspondió a ese año.
+La empresa eléctrica podrá también acreditar el cumplimiento de la obligación señalada en el inciso primero, mediante inyecciones de energía renovable no convencional realizadas al sistema eléctrico nacional durante el año calendario inmediatamente anterior, en la medida que dichas inyecciones no hayan sido acreditadas para el cumplimiento de la obligación que correspondió a ese año.
 
-Cualquier empresa eléctrica que exceda el porcentaje señalado en el inciso primero de inyecciones de energía renovable no convencional dentro del año en que se debe cumplir la obligación, con energía propia o contratada y aunque no hubiese efectuado retiros, podrá convenir el traspaso de sus excedentes a otra empresa eléctrica, los que podrán realizarse incluso entre empresas de diferentes sistemas eléctricos.
+Cualquier empresa eléctrica que exceda el porcentaje señalado en el inciso primero de inyecciones de energía renovable no convencional dentro del año en que se debe cumplir la obligación, con energía propia o contratada y aunque no hubiese efectuado retiros, podrá convenir el traspaso de sus excedentes a otra empresa eléctrica.
 
 Una copia autorizada del respectivo convenio deberá entregarse al Coordinador para que se imputen tales excedentes en la acreditación que corresponda.
 
@@ -3482,9 +3530,7 @@ déficit.
 
 Sin perjuicio de lo anterior, cualquier empresa eléctrica deficitaria podrá, con un límite de 50%, postergar hasta en un año la acreditación de la obligación que le corresponda al término de un año calendario, siempre que lo haya comunicado a la Superintendencia antes del 1 de marzo siguiente al año calendario referido.
 
-El Coordinador de los sistemas eléctricos mayores a 200 megawatts deberán coordinarse y llevar un registro
-
-público único de las obligaciones, inyecciones y traspasos de energía renovable no convencional de cada empresa eléctrica, así como de toda la información necesaria que permita acreditar el cumplimiento de las obligaciones y la aplicación de las disposiciones contenidas en este artículo. Asimismo, el Coordinador llevarán un registro público de todas las transferencias y valores de los certificados de energías renovables no convencionales emitidos por dicha Dirección.
+El Coordinador debera llevar un registro público único de las obligaciones, inyecciones y traspasos de energía renovable no convencional de cada empresa eléctrica, así como de toda la información necesaria que permita acreditar el cumplimiento de las obligaciones y la aplicación de las disposiciones contenidas en este artículo. Asimismo, el Coordinador llevarán un registro público de todas las transferencias y valores de los certificados de energías renovables no convencionales emitidos.
 
 Los cargos señalados en el inciso cuarto se destinarán a los clientes finales y a los clientes de las distribuidoras cuyos suministros hubieren cumplido la obligación prevista en el inciso primero de este artículo.
 
@@ -3508,7 +3554,7 @@ Donde FP es el factor proporcional antes señalado y PM es la potencia máxima d
 
 #### Artículo 150 ter
 
-Para dar cumplimiento a parte de la obligación establecida en el inciso primero del artículo anterior, el Ministerio de Energía deberá efectuar licitaciones públicas anuales, para la provisión de bloques anuales de energía provenientes de medios de generación de energía renovable no convencional. Para estos efectos, el Ministerio de Energía efectuará hasta dos licitaciones por año en caso quo el bloque licitado no sea cubierto en su totalidad.
+Para dar cumplimiento a parte de la obligación establecida en el inciso primero del artículo anterior, el Ministerio de Energía deberá efectuar licitaciones públicas anuales, para la provisión de bloques anuales de energía provenientes de medios de generación de energía renovable no convencional. Para estos efectos, el Ministerio de Energía efectuará hasta dos licitaciones por año en caso que el bloque licitado no sea cubierto en su totalidad.
 
 Cada licitación se realizará para dar cobertura total a aquella parte de la obligación señalada en el inciso primero del artículo anterior, que no sea cubierta con la inyección de energía proveniente de proyectos de energías renovables no convencionales en operación, en construcción o bloques de energía adjudicados, al momento de iniciarse el proceso de licitación, respecto de la cuota exigible al tercer año posterior a ésta, el que será considerado para los efectos de este artículo como el año de inicio. Con todo, el Ministerio de Energía no estará obligado a efectuar las referidas licitaciones cuando la obligación señalada se encuentra cumplida.
 
@@ -3524,9 +3570,7 @@ Las bases de licitación serán elaboradas por el Ministerio de Energía. Un reg
 
 Sin perjuicio de lo anterior, las bases de la primera licitación de cada proceso serán publicadas dentro del primer semestre del período correspondiente y, a lo menos, deberán especificar las condiciones de licitación, la información técnica y comercial que deberá entregar cada participante, las garantías, los plazos y las condiciones para postular, la forma en que se deben presentar las ofertas y los mecanismos para caucionar el cumplimiento de sus obligaciones.
 
-Se podrán realizar procesos de licitación separados e independientes para cada sistema eléctrico con capacidad instalada superior a 200 megawatts respecto de los cuales deba cumplirse la obligación señalada en el inciso primero del artículo anterior.
-
-Podrán participar de los procesos de licitación todos aquellos proyectos que, al momento de publicarse las bases, no se encuentren interconectados al sistema eléctrico respectivo.
+Podrán participar de los procesos de licitación todos aquellos proyectos que, al momento de publicarse las bases, no se encuentren interconectados al sistema eléctrico nacional.
 
 Los proponentes que presenten ofertas en los respectivos procesos de licitación deberán señalar en su propuesta el compromiso de inyección de energía renovable no convencional que realizarán anualmente, indicando el compromiso de inyección mensual para dar cumplimiento al mencionado compromiso anual.
 
@@ -3630,7 +3674,7 @@ Una vez efectuados los descuentos referidos en el inciso anterior, las empresas 
 
 Las empresas eléctricas de generación y de transporte, sean o no concesionarias, que efectúen ventas sometidas a fijación de precios, tendrán siempre derecho a que la tarifa fijada por el Ministerio de Energía sea como mínimo la que se establece siguiendo los procedimientos del artículo 155° y siguientes de esta ley.
 
-Asimismo los concesionarios de servicio público de distribución que operan en sistemas eléctricos de más de 1.500 kilowatts de capacidad instalada en generación, tendrán siempre derecho a obtener con la tarifa fijada, una rentabilidad económica mínima, para el conjunto de todas las empresas que operan en estos sistemas, igual a la tasa de actualización a que se refiere el artículo 182° menos cinco puntos. El procedimiento para calcular la rentabilidad económica corresponde al que se establece en el artículo 193° de la presente ley. El Valor Nuevo de Reemplazo a usar en este cálculo no debe incluir los aportes de terceros.
+Asimismo los concesionarios de servicio público de distribución que operan en el sistema eléctrico nacional y en los sistemas medianos tendrán siempre derecho a obtener con la tarifa fijada, una rentabilidad económica mínima, para el conjunto de todas las empresas que operan en estos sistemas, igual a la tasa de actualización a que se refiere el artículo 182° menos cinco puntos. El procedimiento para calcular la rentabilidad económica corresponde al que se establece en el artículo 193° de la presente ley. El Valor Nuevo de Reemplazo a usar en este cálculo no debe incluir los aportes de terceros.
 
 #### Artículo 153º
 
@@ -3644,11 +3688,11 @@ El procedimiento para la determinación de precios dependerá del tamaño de los
 
 ## Capítulo II
 
-De los precios máximos en sistemas eléctricos cuyo tamaño es superior a 1.500 kilowatts en capacidad instalada de generación
+De los precios máximos en el sistema eléctrico nacional y en los sistemas medianos
 
 #### Artículo 155º
 
-En los sistemas eléctricos cuyo tamaño es superior a 1.500 kilowatts en capacidad instalada de generación se distinguirán dos niveles de precios sujetos a fijación:
+En el sistema eléctrico nacional y en los sistemas medianos se distinguirán dos niveles de precios sujetos a fijación:
 
 1.- Precios a nivel de generación- transporte. Estos precios se denominarán "precios de nudo" y se definirán para todas las subestaciones de generación- transporte desde las cuales se efectúe el suministro. Los precios de nudo tendrán dos componentes: precio de la energía y precio de la potencia de punta;
 
@@ -3670,23 +3714,23 @@ Sin embargo, los precios a nivel de distribución que se le fijen a la empresa q
 
 Los precios de energía y potencia obtenidos en las licitaciones reguladas en el artículo 131º y siguientes, llamados "precios de nudo de largo plazo", y sus fórmulas de indexación, se incluirán en el decreto contemplado en el artículo 171º que se dicte con posterioridad al término de la licitación respectiva. 1982, Minería
 
-#### Artículo 157º
+#### Artículo 157
 
-Los concesionarios de servicio público de distribución deberán traspasar a sus clientes finales sometidos a regulación de precios los precios generación que resulten de promediar los precios vigentes para dichos suministros conforme a sus respectivos contratos. El promedio se obtendrá ponderando los precios por el volumen de suministro correspondiente. El reglamento establecerá el mecanismo de traspaso de dichos precios promedio a los clientes sometidos a regulación de precios, resguardando la debida coherencia entre la facturación de los contratos de suministro en los puntos de compra y los retiros físicos asociados a dichos contratos, y la tarificación de los segmentos de transmisión. Las diferencias que resulten de la aplicación de lo señalado precedentemente deberán incorporarse en los precios traspasables a clientes sometidos a regulación de precios, a través de los correspondientes decretos tarifarios.
+Los concesionarios de servicio público de distribución deberán traspasar a sus clientes finales sometidos a regulación de precios, los precios de generación que resulten de promediar los precios vigentes para dichos suministros conforme a sus contratos o al decreto respectivo para el caso de los sistemas medianos. El promedio se obtendrá al ponderar los precios por la cantidad de energía correspondiente. El reglamento establecerá el mecanismo de traspaso de dichos precios promedio a los clientes sometidos a regulación de precios, con resguardo de la debida coherencia entre la facturación de los contratos de suministro en los puntos de compra y los retiros físicos asociados a dichos contratos, y la tarificación de los segmentos de transmisión. Las diferencias que resulten de la aplicación de lo señalado precedentemente deberán incorporarse en los precios traspasables a clientes sometidos a regulación de precios, a través de los correspondientes decretos tarifarios.
 
-En caso de que el precio promedio de energía de una concesionaria, determinado para la totalidad de su zona de concesión, sobrepase en más del 5% el promedio ponderado del precio de energía calculado para todas las concesionarias de los sistemas eléctricos cuya capacidad instalada de generación sea superior a 200 megawatts el precio promedio de tal concesionaria deberá ajustarse de modo de suprimir dicho exceso, el que será absorbido en los precios promedio de los demás concesionarios, a prorrata de las respectivas energías suministradas para clientes regulados. Para efectos de la comparación señalada, los precios promedio deberán referirse a una misma subestación eléctrica.
+Si el precio promedio de energía de una concesionaria, determinado para la totalidad de su zona de concesión, sobrepasa en más del 5% el promedio ponderado del precio de energía para todas las concesionarias del sistema eléctrico nacional y de los sistemas medianos, el precio promedio de tal concesionaria deberá ajustarse de modo de suprimir dicho exceso, el que será absorbido en los precios promedio de los demás concesionarios que operan en el sistema eléctrico nacional, a prorrata de las respectivas energías suministradas para clientes regulados. Para efectos de la comparación señalada, los precios promedio deberán referirse a una misma subestación eléctrica en el sistema eléctrico nacional y en los sistemas medianos, según corresponda.
 
-Adicionalmente, en aquellas comunas intensivas en generación eléctrica ubicadas en los sistemas eléctricos con capacidad instalada superior a 200 megawatts, se aplicará un descuento a la componente de energía del precio de nudo establecido en el punto de conexión con las instalaciones de distribución que las concesionarias de distribución traspasan a los suministros sometidos a regulación de precios. Este descuento se efectuará luego de aplicado el mecanismo contemplado en el artículo 191 y se calculará en función del Factor de Intensidad de cada comuna, de acuerdo a la siguiente escala:
+Adicionalmente, en aquellas comunas intensivas en generación eléctrica ubicadas en el sistema eléctrico nacional, se aplicará un descuento a la componente de energía del precio de nudo establecido en el punto de conexión con las instalaciones de distribución que las concesionarias de distribución traspasan a los suministros sometidos a regulación de precios. Este descuento se efectuará luego de aplicado el mecanismo contemplado en el artículo 191 y se calculará en función del Factor de Intensidad de cada comuna, de acuerdo a la siguiente escala:
 
 .
 
 El Factor de Intensidad de cada comuna será calculado por la Comisión sobre la base de los datos que ésta obtenga para tales efectos, e informado al Ministerio con ocasión de la fijación de precios semestral a que se refiere el artículo 158. Los descuentos señalados serán absorbidos por los suministros sometidos a regulación de precios de las comunas no intensivas en generación, a través de un cargo en la componente de energía del precio de nudo establecido en el punto de conexión con las instalaciones de distribución.
 
-Junto con lo anterior, en aquellas comunas en que se emplacen centrales cuya energía eléctrica generada, en su conjunto, sea mayor al 5% de la energía eléctrica generada por las centrales interconectadas a los sistemas de capacidad instalada superior a 200 megawatts, se aplicará un descuento adicional al establecido en el inciso anterior. Los descuentos adicionales a que dé lugar la aplicación del presente inciso serán absorbidos por todos los suministros de clientes sometidos a regulación de precios de las comunas no intensivas en generación. El descuento se aplicará en la misma forma señalada en los incisos anteriores y de acuerdo a la siguiente tabla:
+Junto con lo anterior, en aquellas comunas en que se emplacen centrales cuya energía eléctrica generada, en su conjunto, sea mayor al 5% de la energía eléctrica generada por las centrales interconectadas al sistema eléctrico nacional, se aplicará un descuento adicional al establecido en el inciso anterior. Los descuentos adicionales a que dé lugar la aplicación del presente inciso serán absorbidos por todos los suministros de clientes sometidos a regulación de precios de las comunas no intensivas en generación que se emplacen en el sistema eléctrico nacional. El descuento se aplicará en la misma forma señalada en los incisos anteriores y de acuerdo a la siguiente tabla:
 
 .
 
-Para estos efectos, se considerará como energía eléctrica generada por una central generadora, aquella energía que ha inyectado al sistema durante los doce meses continuos anteriores al mes en que comience el proceso de fijación de precios a que se refiere el inciso cuarto. Será deber de cada CDEC informar a la Comisión la cantidad de energía eléctrica generada por generadora, para que las considere en el informe técnico a que se refiere el artículo 158. Sin perjuicio de lo anterior, en caso que una determinada comuna favorecida por el mencionado descuento pase a aportar menos del 5% sobre la energía generada, la comuna recibirá un descuento equivalente al 7,5% hasta la siguiente fijación semestral, en los mismos términos indicados en los incisos anteriores.
+Para estos efectos, se considerará como energía eléctrica generada por una central generadora, aquella energía que ha inyectado al sistema durante los doce meses continuos anteriores al mes en que comience el proceso de fijación de precios a que se refiere el inciso cuarto. Será deber del Coordinado informar a la Comisión la cantidad de energía eléctrica generada por generadora, para que las considere en el informe técnico a que se refiere el artículo 158. Sin perjuicio de lo anterior, en caso que una determinada comuna favorecida por el mencionado descuento pase a aportar menos del 5% sobre la energía generada, la comuna recibirá un descuento equivalente al 7,5% hasta la siguiente fijación semestral, en los mismos términos indicados en los incisos anteriores.
 
 Para el caso de las centrales hidráulicas productoras de energía eléctrica, cuyas instalaciones principales, tales como la bocatoma, la sala de máquina, la represa y el embalse, se emplacen en el territorio de más de una comuna, la metodología señalada en los incisos tercero al sexto anteriores será aplicable a todas las comunas donde se emplace la central, de acuerdo al Factor de Intensidad de dichas comunas y a su porcentaje de aporte a la energía generada. Lo anterior también aplicará para el caso de las centrales definidas en el literal ab) del artículo 225 que se emplacen en el territorio de más de una comuna. Para efectos de determinar la ubicación de las centrales generadoras, la Comisión podrá requerir a otros servicios o autoridades antecedentes sobre la ubicación de éstas.
 
@@ -3696,7 +3740,7 @@ La reliquidación que pueda efectuarse entre concesionarios de servicio público
 
 Los procedimientos para dar cumplimiento a lo establecido en este artículo se contendrán en el reglamento, de acuerdo a lo que establezca el decreto a que hace referencia el artículo 158°.
 
-Para efecto de la aplicación del presente artículo, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por los CDEC y la Comisión.
+Para efecto de la aplicación del presente artículo, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por el Coordinador y la Comisión.
 
 > **Nota.** Las letras b) y c) del numeral 20 del artículo 1° de la Ley 20936, publicada el 20.07.2016, introducen modificaciones en los incisos tercero y final del presente artículo. Sin embargo, por las modificaciones que previamente introdujo la ley 20928, publicada el 22.06.2016, se alteró la ubicación de tales incisos, los que han pasado a ser, respectivamente, octavo y penúltimo, aunque sin cambios en su redacción. En comunicación con la Comisión Nacional de Energía, se ha determinado efectuar las modificaciones en los actuales incisos octavo y penúltimo, antiguos tercero y final, a fin que el texto actualizado contenga efectivamente las disposiciones de la ley 20936, en la ubicación que se tuvo presente al tiempo de su discusión legislativa.
 
@@ -3706,7 +3750,7 @@ Los precios promedio que los concesionarios de servicio público de distribució
 
 Una vez vencido el período de vigencia de los precios promedio, éstos continuarán vigentes mientras no sean fijados los nuevos precios de acuerdo a lo dispuesto en el presente artículo.
 
-Los concesionarios de servicio público de distribución pagarán a sus suministradores los niveles de precios de los contratos respectivos considerados en el decreto semestral vigente a que se refiere el presente artículo.
+Los concesionarios de servicio público de distribución del sistema eléctrico nacional pagarán a sus suministradores los niveles de precios de los contratos respectivos considerados en el decreto semestral vigente a que se refiere el presente artículo.
 
 Los precios asociados a los contratos señalados comenzarán a regir a partir de la fecha en que se inicie el suministro, conforme indique el contrato respectivo, y se aplicarán una vez que se dicte el decreto semestral correspondiente. Sólo en el caso de contratos que inicien su suministro durante el período de vigencia del respectivo decreto y mientras éste no se haya publicado, los concesionarios de servicio público de distribución pagarán a sus suministradores los precios del correspondiente contrato establecidos en el referido decreto que se encuentre dictado.
 
@@ -3714,11 +3758,13 @@ Asimismo, los precios que resulten de la indexación de los precios de los contr
 
 No obstante, la concesionaria de distribución pagará o descontará al suministrador a más tardar hasta el siguiente período semestral, las diferencias de facturación resultantes de la aplicación de los niveles de precios fijados en el respectivo contrato, respecto de aquellos establecidos en el decreto semestral correspondiente. Asimismo, tales diferencias de facturación deberán ser traspasadas a los clientes regulados a través de las tarifas del decreto semestral siguiente, reajustadas de acuerdo al interés corriente vigente a la fecha de dictación de dicho decreto. Lo anterior, en conformidad a lo que se establezca en el reglamento.
 
+Los concesionarios que presten servicio público de distribución en los sistemas medianos se regirán por lo dispuesto en los artículos 178 y siguientes, respecto de dicho sistema.
+
 #### Artículo 159º
 
-En los sistemas eléctricos de capacidad instalada de generación igual o superior a 200 megawatts, los precios de nudo calculados conforme a lo establecido en el artículo 162º, deberán reflejar un promedio en el tiempo de los costos marginales de suministro a nivel de generación-transporte para usuarios permanentes de muy bajo riesgo. Por su naturaleza, estos precios estarán sujetos a fluctuaciones que derivan de situaciones coyunturales, como variaciones en la hidrología, en la demanda, en los precios de combustibles y otros.
+En el sistema eléctrico nacional, los precios de nudo calculados conforme a lo establecido en el artículo 162º, deberán reflejar un promedio en el tiempo de los costos marginales de suministro a nivel de generación-transporte para usuarios permanentes de muy bajo riesgo. Por su naturaleza, estos precios estarán sujetos a fluctuaciones que derivan de situaciones coyunturales, como variaciones en la hidrología, en la demanda, en los precios de combustibles y otros.
 
-En los sistemas eléctricos de capacidad instalada de generación inferior a 200 megawatts y superior a 1.500 kilowatts, los precios de nudo se calcularán sobre la base del costo incremental de desarrollo y los costos totales de largo plazo para los segmentos de generación y transmisión, según corresponda, de sistemas eficientemente dimensionados, y considerando el abastecimiento total de la demanda del sistema eléctrico.
+En los sistemas medianos, los precios de nudo se calcularán sobre la base del costo incremental de desarrollo y los costos totales de largo plazo para los segmentos de generación y transmisión, según corresponda, de sistemas eficientemente dimensionados. Asimismo, el cálculo deberá propender al desarrollo óptimo de las inversiones y considerar la incorporación de energías renovables y almacenamiento, para el cumplimiento de los objetivos de eficiencia económica, competencia y seguridad. Todo lo anterior, con el fin de operar las instalaciones de modo de preservar la seguridad del servicio en dichos sistemas, y garantizar la operación más económica para el conjunto de las instalaciones del correspondiente sistema mediano.
 
 Los precios de nudo de los sistemas eléctricos indicados en el inciso anterior serán calculados y fijados según lo dispuesto en los artículos 173º y siguientes.
 
@@ -3758,7 +3804,7 @@ Para cada fijación semestral, los precios de nudo de corto plazo se calcularán
 
 El Ministerio de Energía, previo informe de la Comisión Nacional de Energía, podrá dictar un decreto de racionamiento, en caso de producirse o proyectarse fundadamente un déficit de generación en un sistema eléctrico, a consecuencia de fallas prolongadas de centrales eléctricas o de situaciones de sequía. El decreto que se dicte, además de establecer los cálculos, valores y procedimientos a que se refiere el inciso séptimo de este artículo, dispondrá las medidas que, dentro de sus facultades, la autoridad estime conducentes y necesarias para evitar, manejar, disminuir o superar el déficit, en el más breve plazo prudencial. Dichas medidas se orientarán, principalmente, a reducir los impactos del déficit para los usuarios, a incentivar y fomentar el aumento de capacidad de generación en el respectivo sistema, a estimular o premiar el ahorro voluntario y a aminorar los costos económicos que dicho déficit pueda ocasionar al país.
 
-El déficit registrado en el sistema deberá distribuirse proporcionalmente y sin discriminación de ninguna especie entre todas las empresas generadoras, tomando como base la globalidad de sus compromisos. Estas, por su parte, deberán pagar a sus clientes distribuidores o finales sometidos a regulación de precios, cada kilowatt-hora de déficit que los haya afectado, determinado sobre la base de sus consumos normales, a un valor igual a la diferencia entre el costo de racionamiento y el precio básico de la energía, a los que se refiere el artículo anterior.
+En el caso del sistema eléctrico nacional, el déficit registrado en el sistema deberá distribuirse proporcionalmente y sin discriminación de ninguna especie entre todas las empresas generadoras, tomando como base la globalidad de sus compromisos. Estas, por su parte, deberán pagar a sus clientes distribuidores o finales sometidos a regulación de precios, cada kilowatt-hora de déficit que los haya afectado, determinado sobre la base de sus consumos normales, a un valor igual a la diferencia entre el costo de racionamiento y el precio básico de la energía, a los que se refiere el artículo anterior.
 
 Para estos efectos se entenderá como consumo normal de un cliente en un período, aquel que resulte de considerar el consumo de energía facturado por el generador en el mismo período del último año sin racionamiento, incrementado en la tasa anual de crecimiento del consumo que se hubiere considerado en la previsión de demandas de energía para el sistema eléctrico, en la última fijación de precios de nudo a que se refiere el artículo 162º. Los clientes distribuidores, a su vez, deberán traspasar íntegramente el monto recibido a sus clientes finales sometidos a regulación de precios.
 
@@ -3773,6 +3819,10 @@ El decreto de racionamiento previsto en este artículo, además de las medidas y
 para traspasar a su vez los montos recibidos a sus clientes finales. Todos los cálculos deberán basarse en los valores utilizados en la última fijación de precios de nudo a que se refiere el artículo 162º para el sistema eléctrico en cuestión. No obstante, el valor a utilizar para el costo de racionamiento no podrá superar, expresado en unidades de fomento, el promedio de los costos de racionamiento utilizados en las últimas seis fijaciones de precios de nudo.
 
 Las transferencias de energía que se produzcan entre las empresas sujetas a coordinación, resultantes de la dictación de un decreto de racionamiento, también se valorizarán al costo marginal instantáneo aplicable a las transacciones de energía en el sistema, el que en horas de racionamiento equivale al costo de falla.
+
+En los sistemas medianos el reglamento establecerá las disposiciones necesarias para hacer frente al racionamiento, así como las condiciones de oferta de generación a partir de las cuales éste deba decretarse, tales como fallas prolongadas de centrales eléctricas o situaciones de sequía, entre otras razones, las que en ningún caso podrán ser calificadas como fuerza mayor o caso fortuito.
+
+Asimismo, el decreto que dicte el Ministerio señalará, en base a un informe previo de la Comisión Nacional de Energía, el monto del pago por cada kilowatt-hora de déficit, en consistencia con la metodología señalada en el inciso séptimo y en la demás normativa vigente, las otras condiciones que deberán aplicar las empresas generadoras para el cálculo o registro de los déficits, y los montos y procedimientos que aplicarán las empresas distribuidoras para traspasar a su vez los montos recibidos a sus clientes finales.
 
 #### Artículo 164º
 
@@ -3866,15 +3916,21 @@ Las empresas suministradoras deberán publicar los nuevos precios en un diario d
 
 #### Artículo 173º
 
-En los sistemas eléctricos cuya capacidad instalada de generación sea inferior a 200 megawatts y superior a 1.500 kilowatts, en adelante, "sistemas medianos", se deberá propender al desarrollo óptimo de las inversiones, así como operar las instalaciones de modo de preservar la seguridad del servicio en el sistema eléctrico, y garantizar la operación más económica para el conjunto de las instalaciones del sistema eléctrico.
+Planificación de los sistemas medianos. La planificación de los sistemas medianos deberá propender al desarrollo óptimo de las inversiones, y considerar la incorporación de energías renovables y almacenamiento, para el cumplimiento de los objetivos de eficiencia económica, competencia y seguridad. Lo anterior, con el fin de operar las instalaciones de modo de preservar la seguridad del servicio en dicho sistema, y garantizar la operación más económica para el conjunto de sus instalaciones.
+
+Durante la etapa de planificación, la Comisión podrá considerar inversiones para transformar generación térmica existente en generación basada en combustibles neutros en emisiones de dióxido de carbono (CO2) equivalente, de acuerdo con lo que establezca el reglamento.
 
 En dichos sistemas se aplicarán las normas pertinentes respecto de las exigencias de seguridad y calidad de servicio, así como las normas de obligatoriedad y racionamiento establecidas en esta ley, conforme se establezca en el reglamento.
 
-Cuando en dichos sistemas exista más de una empresa generadora, deberán operarse todas las instalaciones interconectadas en forma coordinada, de modo de garantizar el cumplimiento de los objetivos asociados a la operación de las instalaciones establecidos en el inciso precedente. El reglamento establecerá las normas que se requieran para cumplir con la operación y administración de dicho sistema en las condiciones señaladas en este inciso.
+#### Artículo 173 bis
+
+De la obligación de coordinarse en los sistemas medianos. Si en un sistema mediano hay más de una empresa generadora o de sistema de almacenamiento, deberán operarse todas las instalaciones interconectadas en forma coordinada, de modo de garantizar el cumplimiento de los objetivos asociados a la operación de las instalaciones establecidos en el artículo precedente, a través de un Comité Coordinador. El reglamento establecerá las normas que se requieran para cumplir con la operación y administración de dicho sistema en las condiciones señaladas en este artículo. Si surgen controversias entre las empresas que operan en los sistemas medianos respecto de la operación y administración de dicho sistema, éstas serán resueltas por el Panel de Expertos, el que deberá emitir su dictamen dentro del plazo de treinta días, contado desde la respectiva audiencia a que hace referencia el artículo 211°.
 
 #### Artículo 174º
 
-Los planes de expansión de las instalaciones de generación y de transmisión y los precios regulados a nivel de generación y de transmisión de cada sistema mediano, se determinarán conjuntamente, cada cuatro años, mediante la elaboración de los estudios técnicos establecidos en los artículos siguientes. Los precios señalados se calcularán sobre la base del costo incremental de desarrollo y del costo total de largo plazo de los segmentos de generación y transmisión, según corresponda, de sistemas eficientemente dimensionados, y considerando el abastecimiento total de la demanda del sistema eléctrico.
+Planes de expansión y precios regulados. Los planes de expansión de las instalaciones de generación, almacenamiento y de transmisión y los precios de nudo de energía y potencia a nivel de generación y de transmisión de cada sistema mediano se determinarán, conjuntamente, cada cuatro años, mediante la elaboración del estudio técnico establecido en los artículos siguientes, y cuyo proceso de elaboración será dirigido y coordinado por la Comisión.
+
+Los precios señalados se calcularán sobre la base del costo incremental de desarrollo y del costo total de largo plazo de los segmentos de generación y transmisión, según corresponda, de sistemas eficientemente dimensionados, para abastecer la totalidad de la demanda, habida consideración de los objetivos que indica el artículo 173.
 
 La estructura general de tarifas se basará en el costo incremental de desarrollo de cada segmento. El nivel general de tarifas, por su parte, deberá ser suficiente para cubrir el costo total de largo plazo del segmento correspondiente. No obstante, en los casos en que las instalaciones de generación y transmisión, o una proporción de ellas mayor al 50%, pertenezca a una misma empresa con sistemas verticalmente integrados, el nivel de tarifas de las instalaciones correspondientes se fijará de modo de cubrir el costo total de largo plazo global de la empresa.
 
@@ -3888,33 +3944,101 @@ Los planes de expansión de las instalaciones de generación de cada sistema med
 
 #### Artículo 175º
 
-Los costos incrementales de desarrollo y los costos totales de largo plazo de los segmentos de generación y de transmisión se calcularán, respectivamente, para un conjunto eficiente de instalaciones de generación y transmisión que permitan abastecer la demanda proyectada en cada sistema mediano. El reglamento establecerá la metodología detallada de cálculo de costos y de proyección de demanda, así como las características de las bases de los estudios que deberán realizarse para la fijación de precios a nivel de generación y transmisión.
+Costos incrementales de desarrollo y costos totales de largo plazo. Los costos incrementales de desarrollo y los costos totales de largo plazo de los segmentos de generación y de transmisión se calcularán, respectivamente, para un conjunto eficiente de instalaciones de generación y transmisión que permitan abastecer la demanda total proyectada en cada sistema mediano, en función de los objetivos señalados en el artículo 173. El reglamento establecerá la metodología detallada de cálculo de costos y de proyección de demanda, y las características de las bases del estudio que deberá realizarse para la fijación de precios a nivel de generación y transmisión.
 
 #### Artículo 176º
 
-El costo incremental de desarrollo a nivel de generación y a nivel de transmisión es el costo medio por unidad de demanda incremental de potencia y energía de un proyecto de expansión eficiente del sistema, cuyo valor actual neto es igual a cero. Dicho costo se obtendrá de la suma de los costos de inversión de las ampliaciones y del aumento de los costos de operación, de un sistema en que se realizan las ampliaciones de capacidad de generación y transmisión que minimizan el costo actualizado de inversión, operación, mantenimiento y energía no suministrada, en un período de planificación no inferior a quince años. Para su cálculo, se deberá establecer el plan de expansión que minimiza el costo actualizado de inversión, operación y mantenimiento del sistema para el período de planificación.
+Determinación del costo incremental de desarrollo y el costo total de largo plazo. El costo incremental de desarrollo a nivel de generación y a nivel de transmisión es el costo medio por unidad de demanda incremental de potencia y energía de un proyecto de expansión eficiente del sistema, cuyo valor actual neto es igual a cero. Dicho costo se obtendrá de la suma de los costos de inversión de las ampliaciones y del aumento de los costos de operación, de un sistema en que se realizan las ampliaciones de capacidad de generación y transmisión que permiten cumplir con los objetivos señalados en el artículo 173, y minimizan el costo actualizado de inversión, operación, mantenimiento y energía no suministrada, del sistema para el período de planificación no inferior a quince años. Para su cálculo, se deberá establecer el plan de expansión que minimiza el costo actualizado de inversión, operación y mantenimiento del sistema para el período de planificación.
 
-Para evaluar el plan de expansión óptimo se deberá considerar la variabilidad hidrológica, así como la incertidumbre relacionada con los costos de los insumos principales, tales como los precios de combustibles y otros costos asociados a las opciones tecnológicas de generación y transmisión.
+Para evaluar el plan de expansión óptimo se deberá considerar la variabilidad hidrológica, así como la incertidumbre relacionada con los costos de los insumos principales, tales como los precios de combustibles y otros costos asociados a las opciones tecnológicas de generación y transmisión. En este proceso se deberá considerar también la planificación energética de largo plazo que desarrolle el Ministerio de Energía, a que se refiere el artículo 83°, de acuerdo a los procedimientos que defina el reglamento.
 
-El costo total de largo plazo en el segmento de generación y de transmisión es aquel valor anual constante requerido para cubrir los costos de explotación y de inversión, en que se incurra durante el período tarifario de cuatro años que sucede a la fijación, de un proyecto de reposición que minimiza el total de los costos de inversión y explotación de largo plazo del servicio.
+Adicionalmente, el plan de expansión podrá considerar requerimientos de infraestructura asociada a modificaciones, refuerzos o adecuaciones en redes de distribución, en aquellos casos en que se demuestre que esta solución es factible técnicamente y sea económicamente más conveniente que la construcción de infraestructura nueva. La remuneración de estas modificaciones, refuerzos o adecuaciones deberá evitar en todo momento el doble pago de servicios o de infraestructura.
+
+El costo total de largo plazo en el segmento de generación y de transmisión es aquel valor anual constante requerido para cubrir los costos de explotación y de inversión, en que se incurra durante el período tarifario de cuatro años que sucede a la fijación, de un proyecto de reposición que minimiza el total de los costos de inversión y explotación de largo plazo del servicio, en consideración a los principios de eficiencia económica, competencia y seguridad señalados en el artículo 173.
+
+En la determinación del costo total de largo plazo se deberán incluir aquellas obras contenidas en los planes de expansión óptimos en generación, transmisión y modificaciones, refuerzos o adecuaciones en redes de distribución decretados en procesos anteriores, que cumplan con la condición de incorporar medios de generación renovables no convencionales a los sistemas, y conforme a lo indicado en el artículo 179°, junto con el valor de inversión identificado en el respectivo decreto tarifario, actualizado a la fecha del cálculo, de acuerdo a la fórmula de indexación señalada en el mismo decreto. Lo anterior, solo en el evento que dichas obras: hayan sido ejecutadas; se encuentren en ejecución conforme a los plazos e hitos definidos en el respectivo decreto; o se encuentren en la hipótesis señalada en el inciso final del artículo 180 y corresponda a alguno de los procesos tarifarios siguientes.
+
+#### Artículo 176 bis
+
+Registro de proyectos de generación y transmisión en sistemas medianos. La Comisión deberá crear y administrar un registro electrónico por cada uno de los sistemas medianos existentes, a efectos de que los promotores que tengan interés en desarrollar proyectos de generación, almacenamiento o transmisión en los respectivos sistemas realicen su inscripción, para ser considerados en el desarrollo del estudio señalado en el artículo 174.
+
+Para efectos de inscribirse en el registro antes señalado, los promotores de proyectos deberán presentar los antecedentes y respaldos técnicos, económicos y de financiamiento que justifiquen su propuesta, y deberán ajustarse a los formatos y requisitos que establezca la Comisión, conforme a lo dispuesto en el reglamento.
+
+Desde el momento de la incorporación de un proyecto en el registro electrónico, será responsabilidad de los promotores actualizar semestralmente, en los meses de enero y julio de cada año, el avance en el desarrollo de éste conforme al cronograma presentado. La actualización de la información en dichos términos permitirá al promotor del proyecto renovar su calidad de integrante del registro electrónico para el semestre siguiente al mes en que se recibió la actualización. Si ello no ocurre, el promotor del proyecto dejará de integrar el señalado registro electrónico.
+
+La Comisión considerará la lista de los proyectos inscritos en el registro electrónico que cumplan con los requisitos definidos en la ley y en el reglamento, y que cuenten con resolución de calificación ambiental si corresponde, para efectos de que sean incorporados en el desarrollo del estudio de planificación y tarificación. El reglamento establecerá los demás requisitos que deberán cumplir los proyectos para ser incorporados en la referida lista.
+
+#### Artículo 176 ter
+
+Proyecciones de demanda y deber de información en sistemas medianos. La proyección de demanda, libre y regulada, en cada uno de los sistemas medianos, para la totalidad de sus puntos de retiro y para todo el horizonte de planificación, deberá ser realizada por la Comisión, conforme a lo señalado en el reglamento, y considerará como insumo las proyecciones de demanda energética que son resultado del proceso de planificación energética de largo plazo, de acuerdo con lo establecido en el artículo 83°. Las empresas distribuidoras y quienes operen en los sistemas medianos deberán informar a la Comisión las proyecciones de demanda de sus clientes libres y regulados, y entregar la información de forma detallada y justificada, así como los supuestos y metodologías utilizadas, en la oportunidad y conforme a los formatos que disponga la Comisión.
+
+#### Artículo 176 quáter
+
+Participantes, usuarios e instituciones interesadas en sistemas medianos. La Comisión administrará un registro público de participación ciudadana, en el que se podrán inscribir las empresas generadoras, transmisoras y distribuidoras que operan en los sistemas medianos, en adelante los "participantes", y toda persona natural o jurídica con interés en participar en el proceso de planificación y tarificación de los sistemas medianos, en adelante "usuarios e instituciones interesadas".
+
+Los participantes y los usuarios e instituciones interesadas podrán participar del proceso y estudio de planificación y tarificación de los sistemas medianos conforme a las normas contenidas en los artículos siguientes y en el reglamento.
+
+El reglamento deberá especificar el procedimiento o trámite a través del cual se hará el llamado a los usuarios e instituciones interesadas a inscribirse, y la información que éstos deberán presentar para su registro. Asimismo, establecerá los medios y la forma en que la Comisión hará público los distintos documentos sometidos a un proceso de participación ciudadana, la oportunidad y la forma de entregar sus observaciones, y el mecanismo de actualización del registro. En todo caso, los antecedentes que solicite la autoridad para constituir dicho registro deberán estar dirigidos a acreditar la representación, el interés y la correcta identificación de cada usuario o entidad, y no podrán representar discriminación de ninguna especie.
+
+Los promotores de proyectos de generación y transmisión que se encuentren inscritos en el registro mencionado en el artículo 176 bis, en adelante "los promotores de proyectos", se entenderán automáticamente inscritos en el registro de que trata este artículo.
+
+Las notificaciones y comunicaciones a los participantes, usuarios e instituciones interesadas y a los promotores de proyectos podrán efectuarse a través de medios electrónicos, de acuerdo con la información que contenga el registro.
+
+El Ministerio de Energía y la Comisión deberán velar por la participación ciudadana en los sistemas medianos. Para ello otorgarán las facilidades necesarias mediante la entrega de información y difusión de los procesos tarifarios.
 
 #### Artículo 177º
 
-Antes de doce meses del término del período de vigencia de los precios de generación, de transmisión y de distribución, la Comisión deberá poner en conocimiento de las empresas que operen en sistemas medianos las bases de los estudios para la determinación del plan de expansión de las instalaciones de generación y de transmisión, y para el cálculo del costo incremental de desarrollo y el costo total de largo plazo de los segmentos de generación, de transmisión y de distribución, según corresponda. Las empresas podrán efectuar observaciones a las bases dentro de los quince días siguientes a la fecha de recibidas. La Comisión acogerá o rechazará fundadamente las observaciones de las empresas, y comunicará las bases definitivas. Si se mantuviesen controversias, las empresas podrán presentar sus discrepancias al Panel, en un plazo máximo de diez días contado desde la recepción de las bases técnicas definitivas. El panel de expertos deberá emitir su dictamen dentro del plazo de treinta días contados desde la respectiva audiencia a que hace referencia el artículo 211°. En todo caso, las bases definitivas deberán ser aprobadas por la Comisión antes de once meses del término de vigencia de los precios vigentes.
+Bases técnicas y administrativas del estudio. A más tardar veinticuatro meses antes del término del período de vigencia de los decretos que fijan los precios de generación y transmisión, la Comisión deberá poner en conocimiento de los participantes, de los usuarios e instituciones interesadas y de los promotores de proyectos, las bases técnicas y administrativas preliminares del estudio para la determinación de los planes de expansión de las instalaciones de generación, almacenamiento y de transmisión y para el cálculo del costo incremental de desarrollo y el costo total de largo plazo de los segmentos de generación y de transmisión de los sistemas medianos. Dicho estudio será realizado por una empresa consultora contratada por la Comisión, de conformidad con lo dispuesto en la ley, en el reglamento y en las bases técnicas y administrativas.
 
-En cada sistema mediano, el estudio será efectuado por una empresa consultora contratada por la o las empresas que operen en el respectivo sistema, que será seleccionada de una lista de empresas consultoras acordadas previamente con la Comisión, conforme a lo que establezca el reglamento.
+El reglamento definirá el contenido de las bases técnicas y administrativas preliminares del estudio. Adicionalmente, determinará los criterios de selección de las propuestas del consultor para su realización, las garantías que éste deberá rendir para asegurar su oferta y su correcta realización, incompatibilidades y todas las demás condiciones, etapas del estudio y obligaciones del referido consultor que deban formar parte de las bases administrativas y técnicas. Asimismo, el reglamento determinará las garantías que deberán entregar los promotores de proyectos para asegurar su integridad y seriedad, así como para garantizar su correcta y oportuna ejecución. Los montos, condiciones y oportunidades en que deban ser entregados serán definidas en las bases administrativas y técnicas.
 
-Cada estudio deberá identificar los planes de expansión de las instalaciones de generación y de transmisión del sistema correspondiente y los respectivos costos incrementales de desarrollo y costos totales de largo plazo para cada uno de los segmentos de generación, transmisión y distribución del sistema en cuestión.
+Los participantes, los usuarios e instituciones interesadas y los promotores de proyectos podrán efectuar observaciones a las bases técnicas y administrativas preliminares dentro de los quince días siguientes a la fecha de su recepción. La Comisión acogerá o rechazará fundadamente las observaciones y comunicará las bases finales dentro de los quince días siguientes al vencimiento del plazo para presentar observaciones.
 
-Antes de seis meses del término de la vigencia de las tarifas, las empresas que operan en sistemas medianos presentarán a la Comisión el resultado de los estudios, indicando los planes de expansión, los costos por segmento y las fórmulas de indexación propuestas. El reglamento, las bases del estudio y el contrato respectivo, establecerán la forma y contenido de los antecedentes que deberán ser aportados para respaldar los resultados del estudio, antecedentes que deberán permitir la reproducción completa de los resultados señalados por parte de la Comisión.
+Si se mantienen controversias, los participantes, los usuarios e instituciones interesadas y los promotores de proyectos podrán presentar sus discrepancias al Panel de Expertos, en un plazo máximo de diez días, contado desde la recepción de las bases finales. El Panel de Expertos dispondrá de veinte días para realizar la audiencia pública, contado desde el vencimiento del plazo para la presentación de discrepancias. Luego, el Panel de Expertos deberá emitir su dictamen dentro del plazo de treinta días, contado desde la respectiva audiencia a que hace referencia el artículo 211°.
 
-Recibidos los estudios, la Comisión dispondrá de un plazo de tres meses para revisarlos, efectuar las correcciones que estime pertinentes y estructurar las tarifas correspondientes. La Comisión deberá remitir a las empresas un informe técnico que contenga las observaciones y correcciones al estudio y las fórmulas tarifarias respectivas. Las empresas dispondrán de quince días para formalizar su acuerdo o desacuerdo con la Comisión. En caso de no alcanzar acuerdo, la Comisión enviará los antecedentes al panel de expertos, el que resolverá en el plazo de quince días.
+Para los efectos anteriores, se entenderá que existe discrepancia susceptible de ser sometida al dictamen del Panel de Expertos, si quien ha formulado observaciones a las bases técnicas y administrativas preliminares persevera en ellas, con posterioridad a su rechazo por parte de la Comisión y, también, si quien no ha formulado observaciones a las bases técnicas y administrativas preliminares, considera que se debe mantener su contenido, en caso de haberse modificado en las bases técnicas y administrativas finales.
+
+Transcurrido el plazo para formular discrepancias ante el Panel de Expertos o una vez resueltas éstas, la Comisión deberá formalizar las bases técnicas y administrativas definitivas dentro de los siguientes quince días, a través de una resolución que se publicará en el Diario Oficial y en un diario de circulación nacional o regional, y se comunicará a los participantes, a los usuarios e instituciones interesadas y a los promotores de proyectos. Asimismo, deberá publicarse en el sitio web de la Comisión.
+
+#### Artículo 177 bis
+
+Licitación y adjudicación del estudio. El estudio de planificación y tarificación de los sistemas medianos será licitado y adjudicado por la Comisión de conformidad con lo dispuesto en la presente ley, en el reglamento y en las bases técnicas y administrativas antes referidas. El estudio será supervisado por un comité integrado por dos representantes del Ministerio de Energía, dos de la Comisión, dos representantes de las empresas que operen los sistemas medianos y dos representantes del conjunto de los promotores de proyectos. El comité será presidido por uno de los representantes de la Comisión.
+
+La Comisión realizará el llamado a licitación y procederá a la adjudicación y firma del contrato. El reglamento determinará las funciones del comité señalado en el inciso anterior y establecerá el procedimiento para su constitución y funcionamiento.
+
+El estudio deberá identificar el plan de expansión de los segmentos de generación y de transmisión correspondiente a cada sistema mediano, y los respectivos costos incrementales de desarrollo y costos totales de largo plazo de cada uno de los segmentos, en la forma que indique el reglamento y las bases respectivas. El estudio deberá ejecutarse dentro del plazo establecido en las bases administrativas, el que no podrá ser superior a siete meses, a partir de la total tramitación del acto administrativo que aprueba el contrato con el consultor.
+
+#### Artículo 177 ter
+
+Financiamiento del estudio de planificación y tarificación de los sistemas medianos. Las empresas que operen en los sistemas medianos deberán concurrir al pago del estudio de planificación y tarificación de los respectivos sistemas, conforme a lo dispuesto en el reglamento. El valor resultante del proceso de adjudicación del estudio de planificación y tarificación de los sistemas medianos será incorporado en el proceso de valorización a prorrata de la capacidad instalada de generación de las empresas que operen en cada sistema mediano, de acuerdo con lo que establezca el reglamento.
+
+#### Artículo 177 quáter
+
+Resultados del estudio y audiencia pública. La empresa adjudicataria del estudio de planificación y tarificación presentará sus resultados al comité señalado en el artículo 177 bis, e indicará, a lo menos, los planes de expansión, los costos por segmento, las fórmulas de indexación propuestas y los rangos de validez de las hipótesis técnicas y económicas que sustentan los costos determinados por segmento y por sistema mediano.
+
+El reglamento y las bases del estudio de planificación y tarificación establecerán la forma y contenido de los antecedentes que deberán ser aportados por parte de la empresa adjudicataria del estudio para efectos de respaldar los resultados, los que deberán permitir la reproducción de éstos.
+
+Una vez recibido conforme el estudio de planificación y tarificación de los sistemas medianos por parte del comité señalado en el artículo 177 bis, la Comisión convocará, a lo menos, a una audiencia pública a los participantes, a los usuarios e instituciones interesadas y a los promotores de proyectos, en la que la empresa adjudicataria del estudio deberá exponer sus resultados.
+
+El reglamento establecerá el procedimiento y las demás normas a que se sujetarán las audiencias públicas que deban realizarse de conformidad al presente artículo, así como la forma y oportunidad en la que los participantes podrán formular sus observaciones.
+
+#### Artículo 177
+
+quinquies.- Informe técnico preliminar. Una vez realizada la última instancia de audiencia pública señalada en el artículo anterior, la Comisión dispondrá del plazo de tres meses para revisar el estudio de planificación y tarificación, efectuar las correcciones que estime pertinentes, elaborar el informe técnico preliminar y estructurar las tarifas correspondientes, y tendrá como antecedente las observaciones presentadas en la o las audiencias. La Comisión deberá remitir, a través de medios electrónicos, el mencionado informe técnico preliminar, y las fórmulas tarifarias respectivas, a los participantes, a los usuarios e instituciones interesadas y a los promotores de proyectos.
+
+A partir de la recepción del informe técnico preliminar, los participantes, los usuarios e instituciones interesadas y los promotores de proyectos dispondrán de quince días para presentar sus observaciones a la Comisión, por los medios electrónicos que ésta determine al efecto.
+
+Dentro de los veinte días siguientes al vencimiento del plazo para presentar observaciones, la Comisión emitirá y comunicará por vía electrónica el informe técnico final, con la aceptación o el rechazo de las observaciones planteadas.
+
+Dentro de los diez días siguientes a la comunicación del informe final, los participantes, los usuarios e instituciones interesadas y los promotores de proyectos podrán presentar sus discrepancias al Panel de Expertos. Éste realizará la audiencia pública dentro de los treinta días desde que le sea informada la discrepancia, y emitirá su dictamen en el plazo de treinta días contado desde la celebración de la audiencia referida en el artículo 211°.
+
+Para los efectos anteriores, se entenderá que existe discrepancia susceptible de ser sometida al dictamen del Panel de Expertos, si quien ha formulado observaciones al informe técnico preliminar, persevera en ellas, con posterioridad a su rechazo por parte de la Comisión y, también, si quien no ha formulado observaciones técnicas al informe técnico preliminar, considera que se debe mantener su contenido, en caso de haberse modificado en el informe técnico final.
 
 #### Artículo 178º
 
-Transcurrido el plazo dispuesto en el artículo anterior sin que se haya manifestado desacuerdo o resuelto el mismo por el panel de expertos, la Comisión deberá remitir al Ministerio de Energía, dentro de los siguientes quince días, un informe técnico definitivo con las tarifas para el siguiente período, con los antecedentes de los respectivos estudios, y un informe que se pronuncie fundadamente sobre todas las observaciones presentadas oportunamente durante el proceso de tarificación.
+Informe técnico definitivo y decreto tarifario. Dentro de los cinco días siguientes al vencimiento del plazo para presentar discrepancias sin que se hayan presentado o dentro de los veinte días siguientes desde que el Panel de Expertos haya emitido su dictamen en caso de haberse presentado, la Comisión deberá remitir al Ministerio de Energía el informe técnico definitivo con las tarifas para el siguiente período, así como los planes de expansión en los segmentos de generación, transmisión y modificaciones, refuerzos o adecuaciones en redes de distribución de los respectivos sistemas medianos, los responsables de ejecutar las obras, el valor de inversión de los medios de generación renovables no convencionales que serán parte del plan de expansión, sus fórmulas de indexación y los rangos de validez de las hipótesis técnicas y económicas que sustentan el plan de expansión a que se refiere el artículo 174.
 
-El Ministro fijará las tarifas de generación y de transmisión y sus respectivas fórmulas de indexación para el período siguiente, mediante decreto supremo expedido bajo la fórmula "por orden del Presidente de la República", el que deberá publicarse en el Diario Oficial dentro de los siguientes quince días de recibido el informe de la Comisión. Con posterioridad, se procederá a la aplicación de lo dispuesto en el inciso segundo del artículo 190º.
+El Ministro de Energía, mediante decreto supremo expedido bajo la fórmula "por orden del Presidente de la República", fijará para cada sistema mediano las tarifas de generación y de transmisión, sus fórmulas de indexación para el período siguiente y las respectivas condiciones de aplicación. A su vez, el decreto establecerá los planes de expansión en los segmentos de generación, transmisión, las modificaciones, refuerzos o adecuaciones en redes de distribución de acuerdo a lo indicado en el artículo 176°, los responsables de ejecutar las obras, el valor de inversión de medios de generación renovables no convencionales, y sus respectivas fórmulas de indexación. Dicho decreto deberá ser dictado dentro de los siguientes treinta días de recibido el informe técnico definitivo de la Comisión. Una vez publicado el decreto en el Diario Oficial será aplicable lo dispuesto en el inciso segundo del artículo 190°.
 
 Una vez vencido el período de vigencia del decreto señalado en el inciso anterior, los valores en él establecidos y sus respectivas fórmulas de indexación seguirán rigiendo, mientras no se dicte el siguiente decreto.
 
@@ -3922,21 +4046,103 @@ No obstante lo señalado en el inciso anterior, se deberán abonar o cargar a lo
 
 En todo caso, se entenderá que los nuevos valores entrarán en vigencia a contar del vencimiento de las tarifas del decreto anterior.
 
-Las bases, los estudios realizados por las empresas y los informes de la Comisión, del panel de expertos y del Ministerio de Energía serán públicos una vez publicado el respectivo decreto en el Diario Oficial, para efectos del decreto con fuerza de ley Nº1/19.653.
-
 #### Artículo 179º
 
-Los planes de expansión en instalaciones de generación y transmisión a que se refiere el artículo 176º, que resulten de los estudios referidos en los artículos precedentes y que sean establecidos en el o en los decretos respectivos, tendrán carácter de obligatorios para las empresas que operen en sistemas medianos, mientras dichos planes se encuentren vigentes.
+Planes de expansión. Los planes de expansión de los segmentos de generación y transmisión señalados en el decreto al que hace mención el artículo 178, y las modificaciones, refuerzos o adecuaciones a las redes de distribución que se determinen conforme al inciso tercero del artículo 176°, tendrán carácter de obligatorios, y deberán ejecutarse conforme al tipo, dimensionamiento y plazos que se definan en el decreto, sin perjuicio de lo señalado en el inciso final del artículo 180.
 
-En particular, las obras de generación o de transmisión cuyo inicio de construcción se definan conforme al respectivo plan de expansión, para dentro del siguiente período de cuatro años, deberán ser ejecutadas por las empresas que operen en sistemas medianos, conforme al tipo, dimensionamiento y plazos con que ellas fueron establecidas en el señalado plan.
+En particular, para aquellas unidades que forman parte de los medios de generación renovables no convencionales y para sistemas de almacenamiento de energía, el valor de inversión de las obras indicadas en el plan de expansión del decreto señalado en el artículo anterior y sus correspondientes fórmulas de indexación, serán incluidos en la determinación del costo total de largo plazo del proceso en curso y de los tres procesos tarifarios siguientes, a partir de la fecha de entrada en operación indicada en el decreto correspondiente. Lo anterior, siempre y cuando las obras: hayan sido efectivamente ejecutadas; se encuentren en proceso de ser ejecutadas cumpliendo con los plazos e hitos definidos en el respectivo decreto; o se encuentren en la hipótesis señalada en el inciso final del artículo 180.
+
+La realización de un estudio interperíodos no será considerada como un proceso tarifario para los efectos del cómputo de los siguientes tres procesos indicados en el inciso anterior.
 
 #### Artículo 180º
 
-Los estudios que dieron origen a los planes señalados establecerán, en su oportunidad, el rango de validez de las hipótesis técnicas y económicas que sustenten la conveniencia de la implementación de estos planes en la forma, dimensión y plazos recomendados.
+Actualización interperíodos. El informe técnico que dio origen a los planes señalados en el artículo anterior establecerá, en su oportunidad, el rango de validez de las hipótesis técnicas y económicas que sustenten la conveniencia de la implementación de estos planes en la forma, dimensión y plazos establecidos.
 
-En el período que medie entre dos fijaciones tarifarias, las empresas podrán solicitar a la Comisión la realización de un nuevo estudio de expansión y de costos, si se produjesen desviaciones en las condiciones de oferta o de demanda que se ubiquen fuera de las tolerancias establecidas conforme a lo señalado en el inciso precedente, caso en el cual los efectos tarifarios y los planes de expansión resultantes del nuevo estudio tendrán vigencia hasta el término del cuatrienio en curso.
+Dentro de la vigencia de un decreto tarifario la Comisión, de oficio o a solicitud fundada de las empresas que se encuentren operando en el correspondiente sistema mediano, podrá actualizar lo indicado en el decreto tarifario al que hace mención el artículo 178, en aquellos casos en que se produzcan desviaciones relevantes en las condiciones de oferta o de demanda o que se ubiquen fuera de las tolerancias establecidas conforme a lo señalado en el inciso precedente, caso en el cual las nuevas tarifas y sus correspondientes fórmulas de indexación, así como los planes de expansión resultantes de dicha actualización, tendrán vigencia hasta el término del cuadrienio en curso. El reglamento establecerá el procedimiento, los plazos y las demás materias necesarias para el adecuado desarrollo del procedimiento de actualización regulado en este artículo.
 
-En todo caso, las empresas siempre podrán adelantar o atrasar las inversiones respecto de las fechas establecidas en el plan de expansión vigente, sin mediar la condición establecida en el inciso precedente, previa autorización de la Comisión. En dicho caso, no habrá efectos en las tarifas.
+Para efectos de lo señalado en el inciso precedente, la actualización de los parámetros tarifarios, y los nuevos planes de expansión, serán calculados por la Comisión mediante un informe técnico y fijados mediante decreto expedido por el Ministerio de Energía, bajo la fórmula "por orden del Presidente de la República".
+
+En todo caso, las empresas siempre podrán adelantar o atrasar las inversiones respecto de las fechas establecidas en el decreto vigente señalado en el artículo 178 vigente, sin mediar la condición establecida en el inciso precedente, previa autorización de la Comisión. En dicho caso, no habrá efectos en las tarifas.
+
+#### Artículo 180
+
+1.- Acceso abierto y procedimientos de conexión en sistemas medianos. El Coordinador deberá otorgar permiso de conexión a nuevos proyectos en los sistemas medianos obligados a coordinarse de acuerdo a lo establecido en el artículo 173 bis, cuando éstos lo soliciten en subestaciones existentes o futuras, conforme lo que disponga el reglamento.
+
+Las empresas que operen instalaciones de distribución o transmisión en un sistema mediano deberán permitir la conexión de nuevos proyectos a sus instalaciones, cuando éstos se conecten a ellas mediante líneas propias o de terceros, conforme a lo que disponga la respectiva norma técnica.
+
+Las discrepancias que surjan con motivo de la aplicación del régimen de acceso abierto establecido en el presente artículo serán sometidas al dictamen del Panel de Expertos, el que deberá resolver dentro de los quince días siguientes de celebrada la audiencia de que trata el artículo 211°.
+
+#### Artículo 180
+
+2.- Acceso abierto y procedimientos de conexión a sistemas para procesos productivos, por parte de terceros bajo modalidad de sistemas con capacidad instalada menor a 1.500 kilowatts, sistemas medianos o el sistema eléctrico nacional. Los sistemas para procesos productivos están sometidos a un régimen de acceso abierto.
+
+Así, terceros podrán solicitar la conexión a sistemas para procesos productivos bajo condiciones técnicas y económicas no discriminatorias, de acuerdo a la normativa vigente. En este caso, el Coordinador deberá́ otorgar permiso de conexión a quienes soliciten acceso a dichos sistemas, conforme a lo dispuesto por el reglamento. Los detalles sobre límites, tarificación u otros aspectos técnicos y económicos del régimen de acceso abierto quedarán sujetos a lo establecido en la regulación reglamentaria pertinente. El reglamento establecerá las materias necesarias para la debida implementación del presente artículo.
+
+Las discrepancias que surjan en relación con el acceso abierto y la interconexión de los sistemas para procesos productivos con sistemas con capacidad instalada menor a 1.500 kilowatts, sistemas medianos o el sistema eléctrico nacional serán resueltas por el Panel de Expertos. Éste deberá dictaminar en el plazo máximo de quince días hábiles desde la celebración de la audiencia señalada en el artículo 211.
+
+#### Artículo 180
+
+3.- Interconexión de instalaciones a los sistemas medianos. Toda unidad generadora o sistema de almacenamiento deberá comunicar por escrito a la Comisión su fecha de interconexión al sistema mediano respectivo, con una anticipación no inferior a seis meses, y remitir copia de dicha comunicación a la Superintendencia, al Coordinador y al Comité Coordinador si corresponde. En el caso de las instalaciones de transmisión se deberá cumplir con la misma obligación. Igual plazo y procedimiento aplicará para el retiro, modificación, desconexión o cese de operaciones, que no sea por fallas o mantenimiento, de una central o instalación de transmisión.
+
+En casos calificados, y previo informe de seguridad del Comité Coordinador o de la empresa que opere en el respectivo sistema mediano, la Comisión podrá eximir a una empresa del cumplimiento de los plazos y fechas señaladas. Asimismo, la Comisión podrá prorrogar hasta por seis meses el plazo señalado, en caso de determinar que el retiro, modificación, desconexión o el cese de operaciones puede generar riesgo para la seguridad del sistema, previo informe de seguridad del Comité Coordinador o de la empresa que opere el respectivo sistema mediano.
+
+#### Artículo 180
+
+4.- Interconexión de dos o más sistemas medianos. La Comisión podrá incorporar en la planificación de los sistemas medianos la interconexión de dos o más de dichos sistemas. En el caso de presentarse una iniciativa privada de transmisión para la señalada interconexión, ésta deberá ser analizada en el estudio al que se refiere el artículo 174. Si son considerados en el plan de expansión, los proyectos deberán ser incorporados en el desarrollo de los sistemas eléctricos respectivos, en virtud de lo señalado en el artículo 179, y el decreto respectivo deberá definir las condiciones asociadas a la transición para la correcta integración de los sistemas medianos que se interconecten.
+
+#### Artículo 180
+
+5.- Otras interconexiones entre sistemas eléctricos. En cualquier otro caso de interconexión entre sistemas eléctricos, distinto del señalado en el artículo precedente, la Comisión deberá elaborar un informe técnico y señalar si se trata de una interconexión de interés privado o de servicio público destinada al abastecimiento de la demanda.
+
+El Ministerio deberá dictar el correspondiente decreto bajo la fórmula "por orden del Presidente de la República", e indicar el tipo de instalaciones de que se trata y, además, deberá definir las condiciones asociadas a la transición, al acceso abierto, a la remuneración y pago de las correspondientes instalaciones. Si se trata de una interconexión nacional privada ésta se regirá por su respectivo contrato.
+
+El reglamento establecerá las materias necesarias para la debida implementación del presente artículo.
+
+#### Artículo 180
+
+6.- Interconexión internacional. Cuando una interconexión internacional de servicio público interconecte instalaciones correspondientes a algún sistema mediano, dicha instalación será remunerada por los clientes finales del sistema eléctrico nacional a partir del cargo de transmisión y por un nuevo cargo de transmisión aplicado al correspondiente sistema mediano, de acuerdo a lo que disponga el reglamento.
+
+#### Artículo 180
+
+7.- Licitaciones de suministro en sistemas medianos. La Comisión, en concordancia con los objetivos de eficiencia económica, competencia y seguridad que establece la ley para la planificación de los sistemas medianos, podrá considerar la realización de licitaciones públicas de suministro necesarias para abastecer la demanda de los sistemas medianos, mediante procesos públicos, transparentes y no discriminatorios.
+
+Para efectos de determinar la procedencia de las licitaciones a que se refiere el inciso precedente, la Comisión deberá considerar las características del correspondiente sistema mediano, la proyección de la demanda, los proyectos inscritos en el Registro de Proyectos de Generación y Transmisión, el incentivo de nuevas tecnologías, el reemplazo de centrales o cualquier otra consideración debidamente fundada en un informe técnico, que justifique la realización de un proceso licitatorio.
+
+#### Artículo 180
+
+8.- Observaciones al informe técnico de licitación. Las concesionarias de servicio público de distribución, las empresas generadoras y aquellos usuarios e instituciones interesadas, que se encuentren inscritas en el registro de usuarios e instituciones interesadas que abrirá la Comisión, de acuerdo a lo que disponga el reglamento, y que tengan interés directo o eventual en el proceso de licitación señalado en el artículo anterior, podrán realizar observaciones de carácter técnico al referido informe en un plazo no superior a quince días, contado desde su publicación, de acuerdo a los formatos, requisitos y condiciones que establezca el reglamento.
+
+Dentro del plazo de treinta días, contado desde el vencimiento del plazo para presentar las observaciones, la Comisión deberá dar respuesta fundada a ellas y proceder a la rectificación del informe si corresponde. La Comisión deberá notificar el referido informe por medios electrónicos, el que deberá contener las modificaciones pertinentes producto de las observaciones que hayan sido acogidas.
+
+Dentro del plazo de quince días, contado desde la notificación a que se refiere el inciso anterior, podrán ser sometidas al dictamen del Panel de Expertos las discrepancias que se produzcan en relación con las proyecciones de demanda contenidas en el informe, y aquél deberá resolver conforme a lo dispuesto en el artículo 211°. La Comisión deberá elaborar el informe final de acuerdo a lo dictaminado por el Panel de Expertos, dentro del plazo de quince días.
+
+#### Artículo 180
+
+9.- Bases de licitación de suministro. Si corresponde, la Comisión deberá elaborar las bases de licitación de suministro de energía para el correspondiente sistema mediano, las que remitirá, a través de medios electrónicos, a las concesionarias de distribución licitantes, a efectos de que éstas efectúen las observaciones que estimen pertinentes.
+
+La Comisión establecerá en las bases las condiciones de la licitación, y señalará, a lo menos, la cantidad de energía a licitar; los bloques de suministro requeridos para tal efecto; el período de suministro que debe cubrir la oferta, el cual no podrá ser superior a veinte años; los puntos del sistema eléctrico en el cual se efectuará el suministro; las condiciones, criterios y metodologías que serán empleados para realizar la evaluación económica de las ofertas y un contrato tipo de suministro de energía para servicio público de distribución, que regirá las relaciones entre la concesionaria de distribución y la empresa generadora adjudicataria respectiva.
+
+El reglamento establecerá los plazos, procedimientos y condiciones necesarias para la debida implementación del presente artículo y, además, determinará los requisitos y las condiciones para ser oferente, las garantías que éste deba rendir para asegurar el cumplimiento de su oferta y del contrato de suministro que se suscriba, y toda otra garantía para el debido resguardo del proceso.
+
+#### Artículo 180
+
+10.- Valor máximo de las ofertas. En cada licitación el valor máximo de las ofertas de energía para cada bloque de suministro será fijado por la Comisión, en un acto administrativo separado de carácter reservado, que permanecerá en secreto hasta la apertura de las ofertas respectivas, momento en el cual el acto administrativo perderá el carácter de reservado. Con todo, dicho valor máximo deberá ser fundado y definirse en virtud del bloque de suministro de energía licitado.
+
+#### Artículo 180
+
+11.- Adjudicación y contrato de suministro. Las empresas concesionarias de distribución deberán adjudicar la licitación a aquellas ofertas más económicas, de acuerdo a las condiciones establecidas en las bases de licitación para su evaluación, y deberán comunicar a la Comisión la evaluación y la adjudicación de las ofertas, para los efectos de su formalización a través del correspondiente acto administrativo.
+
+El contrato tipo de suministro incorporado en las bases de licitación deberá ser suscrito por la concesionaria de distribución y su suministrador, por escritura pública, previa aprobación de la Comisión mediante resolución exenta, y una copia autorizada será registrada en la Superintendencia. Asimismo, las modificaciones que se introduzcan en los contratos deberán ser aprobadas por la Comisión.
+
+#### Artículo 180
+
+12.- Precio nudo promedio del sistema mediano. El total de la energía que deberán facturar el o los suministradores adjudicados en la correspondiente licitación a una distribuidora, será igual a la energía efectivamente inyectada por dicho generador en el período de facturación, de acuerdo a los requisitos y condiciones que establezca el reglamento.
+
+El precio medio que resulte de la adjudicación, calculado de acuerdo a lo que establezca el reglamento, será traspasado a los clientes finales de los sistemas medianos mediante una componente adicional agregada al precio de nudo resultante del proceso de tarificación, a que hace referencia el artículo 178, y formará un nuevo precio de nudo denominado precio de nudo promedio del sistema mediano. Con ocasión del cálculo a que se refiere el artículo 157, de acuerdo a lo que establezca el reglamento, la Comisión deberá incorporar ajustes y recargos derivados de indexaciones, desbalances producto de la demanda proyectada u otros.
+
+#### Artículo 180
+
+13.- Incorporación de nuevas plantas de generación. Las nuevas plantas de generación comprometidas producto de las licitaciones deberán incorporarse en el plan de expansión y en el plan de reposición eficiente, a fin de evitar el doble pago, de forma que estas instalaciones sean consideradas para efectos de las expansiones necesarias del sistema, y que su costo no quede reflejado en el precio de nudo resultante del proceso de tarificación.
 
 #### Artículo 181°
 
@@ -4100,9 +4306,9 @@ A más tardar, dentro de los treinta días siguientes a la publicación del resp
 
 Durante el período de vigencia de las fórmulas tarifarias, las tarifas máximas que las empresas podrán cobrar a sus clientes se obtendrán aplicando a dichas fórmulas las variaciones de los índices de precios que en ellas se establezcan. Aquellos índices de precios que sean entregados oficialmente por el Instituto Nacional de Estadísticas, pueden ser aplicados automáticamente por las empresas distribuidoras. Otros índices de precios, tales como el índice de precios del conductor de cobre, serán elaborados por la Comisión e informados a las empresas a requerimiento de éstas para ser aplicados. En todo caso, cada vez que las empresas distribuidoras reajusten sus tarifas, deberán previamente comunicar los nuevos valores a la Comisión y a la Superintendencia, y publicarlos en un diario de circulación nacional.
 
-Sin perjuicio de lo anterior, en el conjunto de los sistemas eléctricos con capacidad instalada superior a 1.500 kilowatts, las tarifas máximas que las empresas distribuidoras podrán cobrar por suministro a usuarios residenciales no podrán superar el promedio simple de éstas, calculadas sobre la base de un consumo tipo, incrementado en un 10% del mismo, considerando una muestra representativa. En caso que dichas tarifas excedan este porcentaje, deberá aplicarse un ajuste a la componente contemplada en el número 3 del artículo 182. Si a pesar de ello no se lograre alcanzar el porcentaje antes mencionado, se aplicará el máximo descuento obtenido, sin que procedan ajustes adicionales. Las diferencias serán absorbidas progresivamente por todos los demás suministros sometidos a regulación de precios que estén bajo el promedio señalado, con excepción de aquellos usuarios residenciales cuyo consumo promedio mensual de energía del año calendario anterior sea menor o igual a 200 kWh, de modo que no varíe la recaudación total inicial. Sin perjuicio de lo anterior, las tarifas correspondientes a aquellos usuarios residenciales que deban absorber las diferencias señaladas, no podrán resultar superiores al promedio simple de éstas. Con todo, la absorción de las diferencias aludidas anteriormente por parte de los clientes residenciales cuyo consumo promedio mensual de energía del año calendario anterior haya sido mayor a 200 kWh y menor o igual a 240 kWh, será proporcional a la correspondiente para consumos mayores a 240 kWh conforme a lo siguiente: 20% para el intervalo mayor a 200 kWh y menor o igual a 210 kWh, 40% para el intervalo mayor a 210 kWh y menor o igual a 220 kWh, 60% para el intervalo mayor a 220 kWh y menor o igual a 230 kWh y 80% para el intervalo mayor a 230 kWh y menor o igual a 240 kWh.
+Sin perjuicio de lo anterior, en el sistema eléctrico nacional y en los sistemas medianos, las tarifas máximas que las empresas distribuidoras podrán cobrar por suministro a usuarios residenciales no podrán superar el promedio simple de éstas, calculadas sobre la base de un consumo tipo, incrementado en un 10% del mismo, considerando una muestra representativa. Para aquellos usuarios residenciales cuyas tarifas, calculadas sobre la base del consumo tipo excedan este porcentaje, deberá aplicarse un ajuste a la componente contemplada en el número 3 del artículo 182. Si a pesar de ello no se lograre alcanzar el porcentaje antes mencionado, se aplicará el máximo descuento obtenido, sin que procedan ajustes adicionales. Las diferencias serán absorbidas progresivamente por los demás suministros sometidos a regulación de precios que con las excepciones de aquellos suministros no residenciales ubicados en comunas beneficiadas con la aplicación de este mecanismo, siempre y cuando sean abastecidos por la misma empresa distribuidora que los usuarios residenciales beneficiados; y de aquellos usuarios residenciales cuyo consumo promedio mensual de energía del año calendario anterior sea menor o igual a 200 kWh, de modo que no varíe la recaudación total inicial. Sin perjuicio de lo anterior, las tarifas correspondientes a aquellos usuarios residenciales que deban absorber las diferencias señaladas, no podrán resultar superiores al promedio simple de éstas. Con todo, la absorción de las diferencias aludidas anteriormente por parte de los clientes residenciales cuyo consumo promedio mensual de energía del año calendario anterior haya sido mayor a 200 kWh y menor o igual a 240 kWh, será proporcional a la correspondiente para consumos mayores a 240 kWh conforme a lo siguiente: 20% para el intervalo mayor a 200 kWh y menor o igual a 210 kWh, 40% para el intervalo mayor a 210 kWh y menor o igual a 220 kWh, 60% para el intervalo mayor a 220 kWh y menor o igual a 230 kWh y 80% para el intervalo mayor a 230 kWh y menor o igual a 240 kWh.
 
-Los ajustes y recargos a que dé origen el mecanismo señalado serán fijados en el decreto que dicte el Ministerio de Energía con ocasión de la fijación de precios semestral a que se refiere el artículo 158, previo informe técnico de la Comisión. A su vez, las transferencias entre empresas distribuidoras a que den origen las diferencias de facturación producto de la aplicación del mecanismo antes mencionado serán calculadas por los CDEC respectivos, de manera coordinada. El mecanismo de reliquidación de las diferencias de facturación entre empresas concesionarias de distribución será establecido por la Comisión mediante Resolución Exenta. Para estos efectos, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por los CDEC y la Comisión. La entrega de información errónea, incompleta o elaborada a partir de antecedentes no fidedignos dará lugar a las sanciones establecidas en el Título IV de la ley N° 18.410, que crea la Superintendencia de Electricidad y Combustibles.
+Los ajustes y recargos a que dé origen el mecanismo señalado serán fijados en el decreto que dicte el Ministerio de Energía con ocasión de la fijación de precios semestral a que se refiere el artículo 158, previo informe técnico de la Comisión. A su vez, las transferencias entre empresas distribuidoras a que den origen las diferencias de facturación producto de la aplicación del mecanismo antes mencionado serán calculadas por el Coordinador, de manera coordinada. El mecanismo de reliquidación de las diferencias de facturación entre empresas concesionarias de distribución será establecido por la Comisión mediante Resolución Exenta. Para estos efectos, las empresas concesionarias de distribución deberán proporcionar toda la información que sea requerida por el Coordinador y la Comisión. La entrega de información errónea, incompleta o elaborada a partir de antecedentes no fidedignos dará lugar a las sanciones establecidas en el Título IV de la ley N° 18.410, que crea la Superintendencia de Electricidad y Combustibles.
 
 #### Artículo 191 bis
 
@@ -4174,11 +4380,27 @@ La facturación de los consumos por suministros sometidos a fijación de precios
 
 ## Capítulo III
 
-De los precios máximos en sistemas eléctricos cuyo tamaño es igual o inferior a 1.500 kilowatts en capacidad instalada de generación.
+De los precios máximos en los sistemas aislados para pequeños consumidores
 
 #### Artículo 199º
 
-En los sistemas eléctricos cuyo tamaño es igual o inferior a 1.500 kilowatts en capacidad instalada de generación sólo se fijarán los precios correspondientes a los suministros indicados en el número 1 del artículo 147º.
+En los sistemas aislados para pequeños consumidores sólo se fijarán los precios correspondientes a los suministros indicados en el número 1 del artículo 147º.
+
+#### Artículo 199 bis
+
+Los Gobiernos Regionales podrán destinar recursos para el financiamiento de subsidios para la operación, que permitan la continuidad del suministro eléctrico en los sistemas aislados para pequeños consumidores.
+
+Los Gobiernos Regionales podrán utilizar la tarifa regulada de referencia para efectos de determinar el monto de los recursos a transferir. La tarifa regulada de referencia ("TRR") corresponderá a:
+
+a) La menor opción tarifaria BT1, de acuerdo al decreto tarifario vigente en dicha época, en todos sus componentes, sin considerar el cargo fijo mensual, aplicada a los usuarios finales señalados en el número 1 del artículo 147°, en la comuna donde está ubicado el sistema aislado para pequeños consumidores.
+
+b) Si la comuna no cuenta con usuarios finales señalados en el número 1 del artículo 147°, la TRR corresponderá a la menor opción tarifaria BT1 en todos sus componentes, sin considerar el cargo fijo mensual, aplicada a los usuarios finales de la comuna donde está ubicada la localidad geográficamente más cercana al sistema de autogeneración de energía eléctrica, que pertenezca a la provincia en donde está ubicado el referido sistema.
+
+c) Si la provincia no cuenta con usuarios finales señalados en el número 1 del artículo 147°, la TRR corresponderá a la menor opción tarifaria BT1 en todos sus componentes, sin considerar el cargo fijo mensual, aplicada a los usuarios finales de la comuna donde está ubicada la localidad geográficamente más cercana al sistema aislado para pequeños consumidores, que pertenezca a la región en donde está ubicado el sistema.
+
+d) En aquellos casos donde exista un acuerdo tarifario firmado entre el alcalde de la municipalidad respectiva y la empresa que entrega el suministro eléctrico y/o exista un convenio de operación con el Gobierno Regional respectivo, la TRR corresponderá a lo establecido en los instrumentos ya señalados.
+
+La transferencia de recursos a la cual se refiere el presente artículo se realizará de conformidad a lo dispuesto en las leyes de presupuestos del sector público respectivas.
 
 #### Artículo 200º
 
@@ -4654,17 +4876,15 @@ Deróganse todas las disposiciones legales que tratan sobre las materias conteni
 
 Para los efectos de la aplicación de la presente ley se entiende por:
 
-a) Sistema eléctrico: conjunto de instalaciones de centrales eléctricas generadoras, líneas de transporte, subestaciones eléctricas y líneas de distribución, interconectadas entre sí, que permite generar, transportar y distribuir energía eléctrica.
+a) Sistema eléctrico: conjunto de instalaciones de centrales eléctricas generadoras, sistemas de almacenamiento, líneas de transporte, subestaciones eléctricas y redes de distribución, interconectadas entre sí, que permite generar, almacenar, transportar y distribuir energía eléctrica.
 
-b) Sistema Eléctrico Nacional: Sistema eléctrico interconectado cuya capacidad instalada de generación sea igual o superior a 200 megawatts.
+b) Autoproductor: Todo propietario, arrendatario, usufructuario o quien explote a cualquier título centrales generadoras, cuya generación de energía eléctrica ocurra como resultado o con el objetivo de abastecer los consumos asociados a procesos productivos propios o de terceros, en el mismo punto de conexión a la red, y que puedan tener excedentes de energía para ser inyectados al sistema eléctrico.
 
 c) Curva de carga: gráfico que representa la potencia producida en el sistema eléctrico en función del tiempo.
 
 d) Potencia de punta: potencia máxima en la curva de carga anual.
 
-e) Margen de reserva teórico: mínimo sobreequipamiento en capacidad de generación que permite abastecer la potencia de punta en un sistema o subsistema eléctrico con una suficiencia determinada, dadas las características de las unidades generadoras y de los sistemas de transmisión del sistema
-
-eléctrico.
+e) Margen de reserva teórico: mínimo sobreequipamiento en capacidad de generación que permite abastecer la potencia de punta en un sistema o subsistema eléctrico con una suficiencia determinada, dadas las características de las unidades generadoras y de los sistemas de transmisión del sistema eléctrico.
 
 f) Costo marginal de suministro:
 
@@ -4738,19 +4958,17 @@ ac) Instalación de cogeneración eficiente: instalación en la que se genera en
 
 ad) Factor de Intensidad: se define como la razón entre la capacidad de generación instalada en cada comuna, expresada en kilowatts, y su número de clientes sometidos a regulación de precios.
 
-ad) Sistema de Almacenamiento de Energía: Equipamiento tecnológico capaz de retirar energía desde el sistema eléctrico, transformarla en otro tipo de energía (química, potencial, térmica, entre otras) y almacenarla con el objetivo de, mediante una transformación inversa, inyectarla nuevamente al sistema eléctrico, contribuyendo con la seguridad, suficiencia o eficiencia económica del sistema, según lo determine el reglamento.
+ae) Sistema de Almacenamiento de Energía: Equipamiento tecnológico capaz de retirar energía desde el sistema eléctrico, transformarla en otro tipo de energía (química, potencial, térmica, entre otras) y almacenarla con el objetivo de, mediante una transformación inversa, inyectarla nuevamente al sistema eléctrico, contribuyendo con la seguridad, suficiencia o eficiencia económica del sistema, según lo determine el reglamento.
 
 Para estos efectos, los retiros efectuados en el proceso de almacenamiento no estarán sujetos a los cargos asociados a clientes finales. El reglamento establecerá las disposiciones aplicables a dichos retiros.
 
-ae) Comuna Intensiva en Generación: comuna cuyo Factor de Intensidad es igual o mayor a 2,5 kW/N° Clientes Regulados.
+af) Comuna Intensiva en Generación: comuna cuyo Factor de Intensidad es igual o mayor a 2,5 kW/N° Clientes Regulados.
 
-af) Sistema generación-consumo: Infraestructura productiva destinada a fines tales como la producción de hidrógeno o la desalinización del agua, con capacidad de generación propia, mediante medios de generación renovables, que se conecta al sistema eléctrico a través de un único punto de conexión y que puede retirar energía del sistema eléctrico a través de un suministrador o inyectarle sus excedentes.
+ag) Sistema generación-consumo: Infraestructura productiva destinada a fines tales como la producción de hidrógeno o la desalinización del agua, con capacidad de generación propia, mediante medios de generación renovables, que se conecta al sistema eléctrico a través de un único punto de conexión y que puede retirar energía del sistema eléctrico a través de un suministrador o inyectarle sus excedentes.
 
 Los cargos que correspondan, asociados a clientes finales, serán sólo en base a la energía y potencia retirada del sistema y en ningún caso por la energía y potencia autoabastecida.
 
 A estos sistemas les serán aplicables todas las disposiciones correspondientes a las centrales generadoras y clientes finales no sometidos a regulación de precios, de acuerdo a lo que disponga el reglamento, el que establecerá las disposiciones y requisitos necesarios para la debida aplicación del presente literal.
-
-> **Nota.** El Art. único N° 6 de la ley 20928, publicada el 22.06.2016, modificó el presente artículo en el sentido de agregar las letras ad) y ae); posteriormente, el Art. 1° N° 41 d) de la ley 20936 agregó una letra ad) nueva, con texto difierente. Por esta razón han quedado dos letras ad), las que se han conservado en este texto actualizado.
 
 ## Título IX
 
