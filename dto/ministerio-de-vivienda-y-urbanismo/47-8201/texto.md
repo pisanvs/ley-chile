@@ -40,6 +40,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Acera»: parte de una vía destinada principalmente para circulación de peatones, separada de la circulación de vehículos.
 
+«Actualización de un Instrumento de Planificación Territorial»: modificación, que puede o no ser integral, que se realiza como consecuencia directa de la aplicación del artículo 28 sexies de la Ley General de Urbanismo y Construcciones, conforme el procedimiento establecido en el artículo 2.1.4. bis de esta Ordenanza, o aquel que lo reemplace.
+
 «Alteración": Obras que implican cualquier supresión o adición que afecte a un elemento de la estructura o de las fachadas de una edificación existente y las obras de restauración, rehabilitación o remodelación de esas edificaciones.
 
 «Altura de edificación»: la distancia vertical, expresada en metros, entre el suelo natural y un plano paralelo superior al mismo.
@@ -55,6 +57,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 "Aportes al Espacio Público": Cantidad equivalente al avalúo fiscal del porcentaje de terreno a ceder a la municipalidad respectiva que deba pagarse en dinero para reemplazar las cesiones que exige el artículo 70 de la Ley General de Urbanismo y Construcciones, o materializarse en la ejecución de estudios, proyectos, obras y medidas que tengan un valor equivalente al del aporte en dinero, en los términos establecidos en el artículo 179 de dicha ley.
 
 «Arcada, Arquería»: conjunto o serie de arcos de una construcción.
+
+«Áreas de desarrollo prioritario para viviendas de interés público»: corresponde a un tipo de norma de resguardo a través de la cual los planes reguladores intercomunales o metropolitanos, podrán identificar al interior del límite urbano, áreas con fines de integración social y urbana en torno a infraestructura pública de escala intercomunal, con el objeto de que los planes reguladores comunales establezcan en dichas áreas y en el ámbito de sus competencias, las normas que permitan promover la construcción, habilitación, o reconstrucción de viviendas de interés público, conforme a lo dispuesto en el artículo 27 de la Ley General de Urbanismo y Construcciones.
 
 «Area de extensión urbana»: superficie del territorio ubicada al interior del límite urbano, destinada al crecimiento urbano proyectado por el plan regulador intercomunal.
 
@@ -278,6 +282,10 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Modificación del destino o actividad": variar el destino o actividad establecida en el permiso de edificación concedido, a otro destino o actividad permitida por el uso de suelo admitido en el respectivo instrumento de planificación territorial, mediante un permiso de obra menor, reconstrucción, reparación, alteración o ampliación.
 
+«Modificación de un Instrumento de Planificación Territorial»: cambios a un instrumento de planificación territorial que deja subsistentes disposiciones normativas del instrumento que se modifica, y que, por lo tanto, no lo deroga.
+
+«Modificación integral de un Instrumento de Planificación Territorial»: reemplazo del instrumento de planificación territorial, que deroga el anteriormente vigente.
+
 "Montacarga": aparato elevador, que se desplaza a lo largo de rieles guía, destinado exclusivamente al transporte de carga, provisto de una cabina, plataforma o similar, cuya botonera de control está fuera de ésta.
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
@@ -296,6 +304,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Muro soportante»: aquel que forma parte de la estructura de un edificio y resiste una carga determinada, además de su propio peso.
 
+«Normas de resguardo»: exigencias que pueden fijar los instrumentos de planificación territorial en el marco de sus competencias, para asegurar la construcción, habilitación o reconstrucción de viviendas de interés público, con el objeto de reducir el déficit habitacional existente en el territorio regulado, tales como la incorporación de porcentajes o cuotas obligatorias de viviendas de interés público en zonas, subzonas, sectores o porciones del territorio, la fijación de áreas de desarrollo prioritario para viviendas de interés público en el caso de instrumentos de planificación de nivel intercomunal, u otras exigencias que establezca esta Ordenanza.
+
 «Norma oficial»: DEROGADO.
 
 «Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).".
@@ -303,6 +313,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
 «Normas urbanísticas»: todas aquellas disposiciones de carácter técnico derivadas de la Ley General de Urbanismo y Construcciones de esta Ordenanza y del Instrumento de Planificación Territorial respectivo aplicables a subdivisiones, loteos y urbanizaciones tales como, ochavos, superficie de subdivisión predial mínima, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y de protección, o que afecten a una edificación tales como, usos de suelo, sistemas de agrupamiento, coeficientes de constructibilidad, coeficientes de ocupación de suelo o de los pisos superiores, alturas máximas de edificación, adosamientos, distanciamientos, antejardines, ochavos y rasantes, densidades máximas, exigencias de estacionamientos, franjas afectas a declaratoria de utilidad pública, áreas de riesgo y de protección, o cualquier otra norma de este mismo carácter, contenida en la Ley General de Urbanismo y Construcciones o en esta Ordenanza, aplicables a subdivisiones, loteos y urbanizaciones o a una edificación.
+
+«Nuevos planes reguladores intercomunales o comunales»: corresponden a aquellos que se elaboran por primera vez y regirán en territorios que carecían de plan regulador comunal, intercomunal o metropolitano, según corresponda.
 
 «Obras de mantención»: aquellas destinadas a conservar la calidad de las terminaciones y de las instalaciones de edificios existentes, tales como el cambio de hojas de puertas y ventanas, los estucos, los arreglos de pavimentos, cielos, cubiertas y canales de aguas lluvias, pintura, papeles y la colocación de cañerías o canalización de aguas, desagües, alumbrado y calefacción.
 
@@ -484,7 +496,7 @@ Plan de inversiones en infraestructura de movilidad y espacio público": Instrum
 
 «Vía de evacuación»: circulación horizontal y vertical de un edificio, que permite la salida fluida de personas en situaciones de emergencia, desde el acceso de cada unidad hasta un espacio exterior libre de riesgo, comunicado a la vía pública.
 
-«Vivienda»: edificación o unidad destinada al uso habitacional.
+«Vivienda»: edificación o unidad destinada al uso habitacional, tales como casa habitación, vivienda unifamiliar, vivienda económica o vivienda de interés público.
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
@@ -739,6 +751,8 @@ El Director de Obras Municipales concederá el permiso de urbanización o edific
 En cada caso el cumplimiento de las disposiciones señaladas en el inciso anterior se verificará sobre la base de los antecedentes que bajo su responsabilidad hubiere acompañado el interesado y los profesionales competentes que suscriben la solicitud.
 
 Con el permiso de urbanización o edificación se aprobará a su vez el uso o destino que se les dará a las obras, el cual será concordante con el uso del suelo establecido en el respectivo Instrumento de Planificación Territorial. No podrá cambiarse el destino de vivienda sin previa autorización, así como tampoco podrá modificarse el uso o destino aprobado sin mediar un nuevo permiso o autorización conforme lo dispuesto en el artículo 116º de la Ley General de Urbanismo y Construcciones.
+
+Deberán quedar singularizadas en los respectivos permisos de edificación las viviendas de interés público que resulten de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 de la Ley General de Urbanismo y Construcciones, o en otras leyes, indicando su cantidad, emplazamiento y metros cuadrados construidos.
 
 Las solicitudes y trámites para la obtención de certificados, autorizaciones y permisos de que trata esta Ordenanza, y los actos y demás documentos de las Direcciones de Obras Municipales, podrán ser efectuados o expedidos mediante medios electrónicos. En tal caso la Dirección de Obras Municipales respectiva y los interesados deberán cumplir con lo dispuesto en la Ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, su reglamento y las normas técnicas vigentes sobre la materia, sin perjuicio del cumplimiento de todos los requisitos que para cada actuación establece esta Ordenanza.
 
@@ -1120,6 +1134,8 @@ Disposiciones generales
 
 Las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza priman sobre las disposiciones contempladas en los Instrumentos de Planificación Territorial que traten las mismas materias. Asimismo, estos instrumentos constituyen un sistema en el cual las disposiciones del instrumento de mayor nivel, propias de su ámbito de competencia, tienen primacía y son obligatorias para los de menor nivel.
 
+La Planificación Urbana deberá contemplar, en todos sus niveles, criterios de integración e inclusión social y urbana en la forma dispuesta en esta Ordenanza.
+
 #### Artículo 2
 
 1.2. Los Instrumentos de Planificación Territorial ordenados según su ámbito de competencia, son los siguientes:
@@ -1146,6 +1162,20 @@ Para efectos de lo dispuesto en el artículo 28 quinquies de la Ley General de U
 
 #### Artículo 2
 
+1.3. bis. En los nuevos planes reguladores intercomunales y comunales, en las modificaciones integrales o actualizaciones que deban efectuarse de los existentes, así como en los planes seccionales que establezcan normas para zonas residenciales, en comunas en que no exista plan regulador comunal, se deberán contemplar normas urbanísticas, u otras exigencias o disposiciones que resguarden o incentiven la construcción, habilitación o reconstrucción de viviendas de interés público, a través de normas de resguardo, condiciones o incentivos en normas urbanísticas, en todo o parte de su territorio, según corresponda.
+
+Con el objeto de evitar o revertir la segregación urbana de las viviendas de interés público, especialmente de aquellas destinadas a las familias más vulnerables, dichas disposiciones deberán establecerse en el territorio comprendido en el respectivo Instrumento de Planificación Territorial de manera tal que permitan el acceso equitativo de la población a los bienes públicos urbanos relevantes.
+
+En la incorporación de normas urbanísticas, normas de resguardo, condiciones o incentivos en normas urbanísticas para la construcción, habilitación o reconstrucción de viviendas de interés público, deberá asegurarse la participación de la comunidad en la forma que define esta Ordenanza. Asimismo, dichas disposiciones deberán ser coherentes con el diagnóstico territorial contenido en la Memoria Explicativa y sus estudios técnicos, y demás componentes de los instrumentos de planificación territorial, con el objeto de enfrentar de manera efectiva y oportuna el déficit habitacional vinculado existente en el territorio planificado.
+
+En cumplimiento de lo dispuesto en este artículo, los señalados instrumentos de planificación territorial dentro de su ámbito de competencia propio o mediante disposiciones transitorias con carácter supletorio según corresponda, deberán considerar a lo menos, como norma de resguardo, la incorporación de una cuota mínima de un 5% o superior, si fuere procedente de acuerdo al diagnóstico territorial, de viviendas de interés público aplicable en los nuevos proyectos que consideren un determinado número de unidades, en aquellas zonas, subzonas, sectores o porciones del territorio en que se admita el destino vivienda, según lo defina el mismo plan regulador; salvo que, de conformidad a los antecedentes en la Memoria Explicativa y sus estudios técnicos, con ello no sea posible promover el acceso equitativo de la población a los bienes públicos urbanos relevantes. En este último caso, de forma adicional a la cuota mínima, o en su reemplazo, según corresponda, deberán considerarse normas urbanísticas, incentivos o condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana, tales como la ejecución de obras en el espacio público, la incorporación o el mejoramiento del equipamiento o áreas verdes, entre otras.
+
+#### Artículo 2
+
+1.3. ter. Los nuevos planes reguladores intercomunales, comunales o planes seccionales, así como sus modificaciones sustanciales conforme a lo establecido en el artículo 7° bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente y el decreto supremo N° 32, de 2015, del Ministerio de Medio Ambiente, que aprueba reglamento para la Evaluación Ambiental Estratégica o aquel que lo reemplace, deberán incorporar desde la etapa de diseño, consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático, según corresponda, las que se evaluarán mediante el procedimiento de Evaluación Ambiental Estratégica, cuyo informe final deberá ser favorable para continuar con su tramitación conforme a lo previsto en el artículo 43 de la ley N° 21.455.
+
+#### Artículo 2
+
 1.4. Los Instrumentos de Planificación Territorial, sus modificaciones o enmiendas, entrarán en vigencia, previo cumplimiento de las condiciones que para cada caso se señalan en este Capítulo, a partir de la fecha de publicación de los actos administrativos promulgatorios, junto con su respectiva ordenanza en el sitio electrónico del organismo competente, según lo dispone el artículo 28 septies de la Ley General de Urbanismo y Construcciones, a menos que se consigne una vigencia diferida. Su disponibilidad en el sitio electrónico del referido organismo deberá ser informada a través de un aviso en un periódico regional o comunal o en una radio comunal o regional, así como en el Diario Oficial, los que deberán indicar, al menos, el número y fecha del acto administrativo que lo promulga, la Fecha de su publicación en el sitio electrónico, la fecha de entrada en vigencia y el sitio electrónico en que se encuentra publicado.
 
 Copia certificada por el respectivo Ministro de Fe de la memoria explicativa, los planos y la ordenanza correspondiente, se archivarán en los Conservadores de Bienes Raíces respectivos, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la respectiva Secretaría Regional de dicho Ministerio y, cuando se trate de instrumentos de nivel comunal, en las Municipalidades correspondientes. Cuando se trate de modificaciones o enmiendas al Instrumento de Planificación Territorial, deberá archivarse el o los actos administrativos promulgatorios que contengan el detalle de las disposiciones modificadas, junto a la memoria explicativa y, en caso de corresponder, los planos aprobados.
@@ -1160,6 +1190,8 @@ Junto con los planos que deban enviarse para su archivo a la División de Desarr
 
 La autoridad facultada para promulgar los Instrumentos de Planificación Territorial que hayan sido modificados, podrá aprobar versiones actualizadas de los planos y fijar el texto refundido, coordinado y sistematizado de las ordenanzas, pudiendo introducirles los cambios de forma que sean indispensables siempre que con ello no se altere, en caso alguno, su verdadero sentido y alcance.
 
+> **Nota.** El numeral VI del Decreto 29, Vivienda, publicado el 16.02.2026, dispone agregar a continuación del inciso final del artículo 2.1.3. de la presente norma y antes de la expresión "Los Instrumentos de Planificación Territorial, sus modificaciones o enmiendas" la mención "Artículo 2.1.4", sin embargo, la referida mención ya se encuentra incorporada en el presente artículo.
+
 #### Artículo 2
 
 1.4. bis Para dar cumplimiento a lo establecido en el Artículo 28 sexies de la Ley General de Urbanismo y Construcciones, las Municipalidades y las Secretarías Regionales Ministeriales de Vivienda y Urbanismo deberán actualizar periódicamente los Instrumentos de Planificación Territorial, según su ámbito de competencia, en un plazo no mayor a diez años.
@@ -1170,7 +1202,7 @@ La referida actualización deberá enmarcarse dentro del plazo aludido, por lo t
 
 Para efectos de determinar la necesidad de actualización, se deberá efectuar la coordinación necesaria entre los diversos organismos de la Administración del Estado que correspondan, y se deberá dar cumplimiento a lo siguiente:
 
-1. La Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda, deberá efectuar una revisión completa del Instrumento de Planificación Territorial vigente, a objeto de determinar las necesidades de actualización, para adecuarlo a cambios en la Ley General de Urbanismo y Construcciones o en la presente Ordenanza General, a pronunciamientos de órganos competentes que los afecten directamente, así como al crecimiento urbano experimentado no acorde a lo previsto en el Instrumento de Planificación Territorial. De igual forma, para determinar las necesidades de actualización, deberán tenerse en consideración las criterios e indicadores de seguimiento y rediseño del Instrumento y/o sus modificaciones sustanciales, definidos mediante la aplicación del procedimiento de Evaluación Ambiental Estratégica, en los casos en que se hubiese aplicado dicho procedimiento. Los resultados de dicha revisión deberán traducirse en un informe fundado en el que se indicará si se requiere actualizar el Plan, y de ser así, identificar las necesidades para su actualización. En caso de identificarse estas últimas, el informe deberá especificarlas y señalar el procedimiento de la Ley General de Urbanismo y Construcciones y de esta Ordenanza para materializar la actualización, sea este el procedimiento de modificación o enmienda. En caso contrario, de no identificarse necesidad alguna, el informe deberá dar cuenta de aquello fundadamente.
+1. La Municipalidad o la Secretaría Regional Ministerial de Vivienda y Urbanismo, según corresponda, deberá efectuar una revisión completa del Instrumento de Planificación Territorial vigente, a objeto de determinar las necesidades de actualización, para adecuarlo a cambios en la Ley General de Urbanismo y Construcciones o en la presente Ordenanza General, a pronunciamientos de órganos competentes que los afecten directamente, así como al crecimiento urbano experimentado no acorde a lo previsto en el Instrumento de Planificación Territorial. De igual forma, para determinar las necesidades de actualización, deberán tenerse en consideración las criterios e indicadores de seguimiento y rediseño del Instrumento y/o sus modificaciones sustanciales, definidos mediante la aplicación del procedimiento de Evaluación Ambiental Estratégica, en los casos en que se hubiese aplicado dicho procedimiento. Asimismo, se deberá revisar si el Instrumento de Planificación Territorial contempla criterios de integración social y urbana, mediante la incorporación de normas urbanísticas, normas de resguardo, condiciones o incentivos en las normas urbanísticas, según corresponda, y en caso de que se consideren, deberá analizarse si están o no generando los efectos esperados conforme a lo establecido en la Memoria Explicativa del plan y sus estudios técnicos. Los resultados de dicha revisión deberán traducirse en un informe fundado en el que se indicará si se requiere actualizar el Plan, y de ser así, identificar las necesidades para su actualización. En caso de identificarse estas últimas, el informe deberá especificarlas y señalar el procedimiento de la Ley General de Urbanismo y Construcciones y de esta Ordenanza para materializar la actualización, sea este el procedimiento de modificación o enmienda. En caso contrario, de no identificarse necesidad alguna, el informe deberá dar cuenta de aquello fundadamente.
 
 2. El informe referido en el numeral anterior deberá ser enviado:
 
@@ -1211,6 +1243,30 @@ b.2) En caso de no acoger parcial o totalmente las observaciones, deberá justif
 Junto a lo anterior, deberá explicitar el procedimiento a utilizar y el plazo para iniciar la actualización del Instrumento conforme a las necesidades de actualización detectadas, el que no podrá superar los ciento ochenta días contados desde la fecha de la respuesta.
 
 Con todo, si la Municipalidad respectiva no da inicio al procedimiento señalado en los numerales 1, 2 y 3, precedentes, para actualizar el Plan Regulador Comunal o Plan Seccional, las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, de oficio podrán realizar la evaluación del respectivo Instrumento de Planificación Territorial a objeto de determinar las necesidades de actualización, de acuerdo a lo señalado en el numeral 1 de este artículo.
+
+#### Artículo 2
+
+1.4. ter. Conforme a lo establecido en el artículo 28 nonies de la Ley General de Urbanismo y Construcciones, los particulares únicamente mediante presentaciones formales y por escrito, podrán proponer a las Municipalidades, o a las Secretarías Regionales Ministeriales de Vivienda y Urbanismo la tramitación de nuevos instrumentos de planificación territorial de nivel comunal o intercomunal según corresponda, o modificaciones a los existentes, sean o no integrales. Tratándose de instrumentos de planificación de nivel intercomunal, la respectiva Secretaría Regional Ministerial deberá enviar una copia de la propuesta recibida al respectivo Gobierno Regional.
+
+La presentación deberá contener, como mínimo:
+
+a) Nombre y apellido del particular que realiza la solicitud, y en su caso, de su apoderado debiendo acompañar el instrumento en el cual consta su personería.
+
+b) Órgano Administrativo al que se dirige.
+
+c) Individualización del instrumento al cual se refiere la propuesta.
+
+d) Descripción de la propuesta y de las razones que fundamentan la solicitud. La descripción podrá incluir la indicación de las normas urbanísticas que se proponen de acuerdo con el ámbito de competencia del nivel de planificación de que se trate, incluyendo el establecimiento de incentivos en las normas urbanísticas. En aquellos casos en que la propuesta diga relación con incorporar el uso de suelo residencial, o con aumentar la altura, densidad, coeficiente de constructibilidad o de ocupación de suelo en una zona o subzona, sector o porción del territorio que lo admita, se podrán adicionar en la propuesta normas de resguardo o incentivos para la construcción, habilitación o reconstrucción de viviendas de interés público y/o para proveer el acceso equitativo de la población a bienes públicos urbanos relevantes.
+
+Junto a la presentación, podrán acompañarse antecedentes tales como, estudios técnicos en materias de movilidad, equipamiento, déficit habitacional, o amenaza o cambio climático, en cuyo caso deberá consignarse con claridad quién los presenta, quién los elaboró y a qué título. Dichos antecedentes sólo podrán ser considerados por los órganos administrativos si, cumpliendo con lo anterior, son aprobados mediante una resolución dictada por un órgano de la Administración del Estado con competencia sectorial en la materia relacionada, de acuerdo al ordenamiento jurídico. Asimismo, la propuesta podrá hacer mención a las características de los proyectos que podrían ejecutarse bajo sus términos.
+
+En aquellos casos en que la solicitud se refiera a modificaciones a un Instrumento de Planificación Territorial de nivel intercomunal que se relacione con la definición de un nuevo límite urbano, con las normas urbanísticas aplicables al uso de suelo actividad productiva o infraestructura de impacto intercomunal, o con el establecimiento de usos de suelo para los efectos de la aplicación del artículo 55 de la Ley General de Urbanismo y Construcciones, podrá proponerse y fundamentarse el establecimiento de condiciones adicionales de urbanización o equipamiento, así como condiciones asociadas a obras que aporten al cuidado ambiental y consideraciones ambientales del desarrollo sustentable, relativas a la mitigación y adaptación al cambio climático, conforme a lo establecido en el artículo 183 de la Ley General de Urbanismo y Construcciones.
+
+La autoridad requerida podrá recabar del solicitante antecedentes o aclaraciones de los términos de la propuesta, otorgando para ello un plazo dentro del cual podrá complementarse la presentación. En el evento que el solicitante no ponga a disposición de la autoridad los antecedentes o no realice las aclaraciones en el plazo otorgado, el que se contará desde la comunicación formal de la autoridad, ésta podrá rechazar la propuesta. Con todo, la autoridad requerida podrá aceptar o rechazar las solicitudes planteadas por particulares, debiendo siempre dar respuesta fundada. En caso de ser rechazada la propuesta, deberán devolverse todos los antecedentes al interesado, debidamente timbrados.
+
+La autoridad que promueva un nuevo instrumento de planificación o la modificación de uno existente deberá mencionar expresamente las solicitudes planteadas por particulares que se realicen en el marco de lo dispuesto en el presente artículo y que se relacionen directamente con dicha propuesta, tanto en el resumen ejecutivo a que se refiere el artículo 28 octies de la Ley General de Urbanismo y Construcciones en caso de proceder, como en la Memoria Explicativa y en el acto administrativo que promulgue el respectivo instrumento de planificación territorial, o sus modificaciones, sean o no integrales, según corresponda.
+
+La infracción de los deberes señalados en los incisos anteriores será considerada una grave vulneración del principio de probidad administrativa.
 
 De la Imagen Objetivo y de los Sistemas de Información de los Instrumentos de Planificación Territorial
 
@@ -1282,7 +1338,7 @@ De la planificación urbana intercomunal
 
 #### Artículo 2
 
-1.7. La Planificación Urbana Intercomunal regulará el desarrollo físico de las áreas urbanas y rurales de diversas comunas que, por sus relaciones, se integran en una unidad urbana, a través de un Plan Regulador Intercomunal.
+1.7. La Planificación Urbana Intercomunal regulará el desarrollo físico de las áreas urbanas y rurales de diversas comunas que, por sus relaciones, se integran en una unidad urbana, y resguardará y promoverá la integración social y urbana y el acceso equitativo de la población a bienes y servicios públicos urbanos relevantes, a través de un Plan Regulador Intercomunal. En cumplimiento de lo anterior, a los referidos planes les corresponderá resguardar que la infraestructura pública de escala intercomunal sea aprovechada de manera eficiente y equitativa, mediante disposiciones que promuevan la integración social y urbana en torno a ejes de transporte público o equipamientos relevantes, conforme a las normas que dispone esta Ordenanza. Para estos efectos deberán considerarse, a lo menos, las vías expresas o troncales, las estaciones de servicio de transporte público como metro, ferrocarril u otros similares cuyo recorrido comunique a diversas comunas, parques intercomunales y el equipamiento de escala Mediana o Mayor destinados a educación, salud, servicios, comercio, deporte y cultura.
 
 Cuando esta unidad sobrepase los 500.000 habitantes, le corresponderá la categoría de área metropolitana para los efectos de su planificación. A las áreas metropolitanas definidas de conformidad al artículo 104 bis de la ley N°19.175, incorporado por la ley N° 21.074, que no superen dicho umbral, les corresponderá aprobar un Plan Regulador Intercomunal.
 
@@ -1312,6 +1368,12 @@ Con todo, mediante estudios de mayor detalle, los planes reguladores comunales p
 
 i) El reconocimiento de áreas de protección de recursos de valor natural y patrimonial cultural, de conformidad al artículo 2.1.18. de esta Ordenanza, cuando corresponda.
 
+j) La fijación de condiciones adicionales de urbanización o equipamiento, así como condiciones asociadas a obras que aporten al cuidado ambiental, y consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático, conforme a lo establecido en el artículo 183 de la Ley General de Urbanismo y Construcciones.
+
+k) El establecimiento de incentivos en las normas urbanísticas existentes aplicables en áreas urbanas que cuenten con plan regulador comunal y admitan el destino vivienda, en donde se identifiquen sectores de buena accesibilidad a bienes públicos urbanos relevantes, condicionando tales incentivos a la incorporación de un porcentaje de viviendas de interés público.
+
+l) La identificación de áreas de desarrollo prioritario para viviendas de interés público.
+
 3. En el área rural:
 
 a) La definición de las áreas de riesgo o zonas no edificables de nivel intercomunal, de conformidad al artículo 2.1.17. de esta Ordenanza.
@@ -1320,7 +1382,61 @@ b) El reconocimiento de áreas de protección de recursos de valor natural y pat
 
 c) La definición de subdivisión predial mínima en los casos de los Planes Reguladores Metropolitanos de Santiago, Valparaíso y Concepción.
 
-d) Establecer los usos de suelo, para los efectos de la aplicación del artículo 55º de la Ley General de Urbanismo y Construcciones.
+d) Establecer los usos de suelo, para los efectos de la aplicación del artículo 55º de la Ley General de Urbanismo y Construcciones. Para estos efectos podrán establecerse condiciones adicionales de urbanización o equipamiento, así como condiciones asociadas a obras que aporten al cuidado ambiental, y consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático, conforme al artículo 183 de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 2
+
+1.7. bis. De acuerdo con lo establecido en el artículo 183 de la Ley General de Urbanismo y Construcciones, los planes reguladores intercomunales o metropolitanos podrán establecer condiciones adicionales de urbanización o equipamiento, así como condiciones asociadas a obras que aporten al cuidado ambiental, y consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático.
+
+Las condiciones que pueden establecer los planes reguladores intercomunales o metropolitanos podrán estar referidas a las siguientes obras o medidas:
+
+a) La ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto.
+
+b) La ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos.
+
+c) La inclusión de tipos de vivienda, tales como vivienda económica o vivienda social, usos de suelo o tecnologías, tales como instalaciones necesarias para la generación de energía eléctrica distribuida para el autoconsumo mediante tecnología solar fotovoltaica, entre otras.
+
+d) La materialización o mejoramiento de equipamientos públicos y/o áreas verdes.
+
+e) La incorporación de medidas que promuevan la integración social, y la sustentabilidad urbana y ambiental del territorio.
+
+Dichas condiciones podrán establecerse, y en consecuencia serán exigibles, a los proyectos que se emplacen en:
+
+i. Áreas urbanas, incluidas las áreas de extensión urbana, en que se admita la actividad productiva o infraestructura de impacto intercomunal conforme al ámbito de competencia que le es propio al nivel de planificación intercomunal.
+
+ii. Áreas de extensión urbana, cuando actúe a través de disposiciones transitorias de carácter supletorio en territorios no planificados por el nivel comunal.
+
+iii. Áreas rurales, cuando se establezcan los usos de suelo para los efectos de la aplicación del artículo 55 de la Ley General de Urbanismo y Construcciones, conforme al ámbito de competencia que le es propio al nivel de planificación intercomunal.
+
+De forma previa a la solicitud del permiso de edificación y/o de urbanización, el propietario deberá solicitar a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva la aprobación de un estudio de impacto urbano, el cual deberá precisar la forma en que el proyecto cumplirá con las condiciones definidas en el plan regulador de nivel intercomunal del presente artículo, y cómo ello permite acometer las finalidades para las cuales fueron establecidas conforme se indique en el respectivo Instrumento de Planificación Territorial.
+
+La Secretaría Regional Ministerial de Vivienda y Urbanismo deberá verificar el cumplimiento del contenido del estudio de impacto urbano, para lo cual dispondrá de un plazo de quince días para su aprobación, o para formular observaciones fundadas, según corresponda, contados desde la fecha de su presentación. El propietario contará con quince días para aclarar o subsanar las observaciones efectuadas por la Secretaría Regional Ministerial a contar de su notificación, quien deberá resolver en definitiva la aprobación o rechazo del estudio, dentro del plazo de quince días contados a partir del ingreso de la subsanación de las observaciones. La resolución que apruebe el Estudio de Impacto Urbano deberá señalar expresamente si autoriza o no a garantizar el cumplimiento de las condiciones para efectos de la recepción definitiva de las obras, y una copia deberá ser enviada a la respectiva Secretaría Regional Ministerial de Transportes y Telecomunicaciones para su conocimiento.
+
+Los permisos de construcción que se requieran para la ejecución del proyecto respectivo no podrán otorgarse por parte de la Dirección de Obras Municipales, en tanto no se apruebe el respectivo estudio de impacto urbano. La Dirección de Obras Municipales no podrá formular observaciones al estudio de impacto urbano aprobado por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo.
+
+Los estudios de impacto urbano deberán considerar el área de influencia total del proyecto para efectos de las mitigaciones directas que regula el Capítulo II del Título V de la Ley General de Urbanismo y Construcciones, incorporando a lo menos, cuando corresponda, la red de vías estructurantes existentes o proyectadas con las que se conectarán las nuevas áreas urbanas, y territorio o sector geográfico con el que interactuarán funcionalmente, toda vez que el plan regulador de nivel intercomunal podrá establecer que las condiciones definidas deberán cumplirse en dichas áreas de influencia, lo cual deberá encontrarse justificado en la Memoria Explicativa. En tal caso, para la evaluación y aprobación de las medidas de mitigación del IMIV, el cumplimiento de las condiciones definidas en el instrumento de planificación territorial, deberán considerarse en la "situación con proyecto", de acuerdo con lo dispuesto en el decreto supremo N° 30, de 2017, del Ministerio de Transportes y Telecomunicaciones, reglamento sobre Mitigación de Impactos al Sistema de Movilidad Local derivados de proyectos de crecimiento urbano, o aquel que lo reemplace.
+
+El estudio de impacto urbano deberá contener como mínimo los siguientes antecedentes:
+
+1. Esquema general del proyecto, precisando la línea oficial y superficie del terreno en que se emplazará; ubicación y superficie de los lotes resultantes en el caso de proyectos de crecimiento urbano por extensión, el emplazamiento de las edificaciones consideradas y de los sectores de estacionamientos, y vías de circulación interna en caso de ser consideradas.
+
+2. Identificación de los usos, destinos y actividades que se desarrollarán.
+
+3. Descripción de las condiciones que deben cumplirse de acuerdo con el plan regulador intercomunal o metropolitano, según corresponda.
+
+4. Descripción de la forma en que se dará cumplimiento a las condiciones establecidas en el plan regulador intercomunal o metropolitano, según corresponda. Deberá incluirse una presentación preliminar y esquemática de las obras o medidas que se requiera ejecutar, junto a un presupuesto estimado.
+
+5. En caso de considerar la construcción por partes del proyecto, deberán individualizarse expresamente las obras o medidas proporcionales que permitan habilitar independientemente a cada una de dichas partes para efectos de la recepción definitiva parcial, en caso de corresponder.
+
+El informe deberá ser suscrito por un profesional competente de acuerdo con el tipo de condición de que se trate.
+
+Será requisito para cursar la recepción definitiva total o parcial de los proyectos a los que le sean aplicables las condiciones dispuestas en este artículo, acreditar que las respectivas obras o medidas estén ejecutadas, o en su defecto deberán garantizarse ajustándose a lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones. En estos casos, el interesado en caucionar alguna condición deberá presentar los proyectos y presupuestos aprobados por los organismos competentes, pudiendo la Dirección de Obras Municipales incrementar el valor a garantizar, por resolución fundada, hasta en un 50%, considerando imprevistos y costos administrativos de contratación e inspección de las obras. Para estos efectos el interesado deberá señalar las obras o medidas que corresponden a las condiciones por ejecutar, y el plazo de ejecución. Las garantías caucionarán la correcta ejecución de las condiciones dentro del año siguiente a la recepción definitiva de las obras, pudiendo renovarse este plazo una sola vez, por igual periodo. Las garantías podrán consistir, indistintamente, en una boleta bancaria o una póliza de seguro cuya vigencia exceda en sesenta días al plazo para la ejecución o al de la prórroga si la hubiere. El certificado de recepción definitiva deberá consignar las obras o medidas que han sido garantizadas.
+
+El incumplimiento de las condiciones garantizadas dentro del año siguiente a la recepción definitiva de las obras o su renovación acarreará, además del cobro de las cauciones, la caducidad de las autorizaciones o permisos otorgados por la Dirección de Obras Municipales cuyas obras no se hubiesen ejecutado a esa fecha. Las instituciones bancarias o aseguradoras que hayan emitido el respectivo documento de garantía pagarán los valores garantizados con el solo mérito del certificado que otorgue el Director de Obras Municipales señalando que las condiciones no se ejecutaron dentro de plazo, debiendo dichos valores destinarse a la ejecución de las obras o medidas garantizadas. En este caso, la Municipalidad deberá iniciar su ejecución en un plazo máximo de un año contado desde el pago de los valores caucionados, directamente o a través de otros órganos de la Administración del Estado, en este último caso, previa suscripción del respectivo convenio.
+
+La verificación del incumplimiento que conlleva la caducidad de las autorizaciones o permisos otorgados deberá realizarse por parte de la respectiva Dirección de Obras Municipales, mediante un procedimiento administrativo tramitado conforme a la ley N° 19.880. El procedimiento podrá iniciarse de oficio, a solicitud de otro órgano de la Administración del Estado o por denuncia de uno o más interesados. En todos los casos se deberán aportar los antecedentes para tener por incumplida la condición pertinente. La Dirección de Obras podrá solicitar informe a otros órganos de la Administración del Estado, quienes deberán informar dentro del plazo máximo de treinta días contados desde la solicitud. En dicho procedimiento administrativo siempre deberá darse audiencia previa, y traslado al interesado titular del proyecto.
+
+La Dirección de Obras Municipales tendrá un plazo máximo de sesenta días hábiles contados desde el inicio del procedimiento para pronunciarse. Si resuelve tener por acreditado el incumplimiento de la condición respectiva, informará en el mismo acto la caducidad de dicha autorización. La caducidad no afectará a las obras que contaren con recepciones definitivas parciales.
 
 #### Artículo 2
 
@@ -1334,7 +1450,7 @@ a) Un resumen ejecutivo de la imagen objetivo y los acuerdos alcanzados conforme
 
 b) Los objetivos del Plan, incluyendo metas e indicadores de seguimiento, en armonía con lo señalado en la Ley sobre Bases Generales del Medio Ambiente.
 
-c) El diagnóstico territorial y ambiental estratégico, que contendrá un análisis sistémico territorial, proyecciones y tendencias, condicionantes y potencialidades.
+c) El diagnóstico territorial y ambiental estratégico, que contendrá un análisis sistémico territorial, proyecciones y tendencias, condicionantes y potencialidades. En los casos de nuevos planes reguladores, en las modificaciones integrales o actualizaciones de los mismos, este diagnóstico deberá incluir el déficit habitacional cuantitativo vinculado a la provisión de vivienda de interés público existente en las comunas que conforman la unidad urbana respectiva, para lo cual deberán considerarse las siguientes fuentes estadísticas oficiales: el último Censo de Población y Vivienda y la Encuesta de Caracterización Socio Económica Nacional, o aquellos instrumentos que los reemplacen. Adicionalmente, en los casos indicados en este párrafo, este diagnóstico deberá identificar los ejes de transporte público o equipamientos relevantes que forman parte de la infraestructura pública de escala intercomunal, conforme con lo dispuesto en el artículo 2.1.7. de esta Ordenanza.
 
 d) La descripción de los principales elementos o normas del Plan, señalando los antecedentes que los justifican según el ámbito de competencia del instrumento, contenidas en el artículo 2.1.7. de esta Ordenanza y las condiciones específicas del territorio a planificar, debiendo incluir, además, las metodologías empleadas.
 
@@ -1350,13 +1466,21 @@ e) Los siguientes estudios técnicos, los que necesariamente deberán estar en c
 
 - Estudio de las Áreas de Protección de Recursos de Valor Natural y de Protección de Recursos de Valor Patrimonial Cultural presentes en el territorio, conforme al artículo 2.1.18. de este Capítulo. En caso de existir, se deberán citar los actos administrativos que declararon la protección oficial.
 
-f) Las condiciones adicionales de urbanización y equipamiento aplicables según el artículo 183 de la Ley General de Urbanismo y Construcciones.
+f) Las condiciones adicionales de urbanización o equipamiento, así como condiciones asociadas a obras que aporten al cuidado ambiental, y consideraciones ambientales del desarrollo sustentable relativas a la mitigación y adaptación al cambio climático, según el artículo 183 de la Ley General de Urbanismo y Construcciones.
 
 g) Los proyectos, obras, medidas y programas de acción que contribuyan a la materialización de los objetivos del Plan.
 
 h) Un informe que dé cuenta del proceso de participación y acredite el cumplimiento de los requisitos establecidos para las consultas referidas en los artículos 2.1.5. y 2.1.9. de esta Ordenanza.
 
 i) Los antecedentes necesarios para dar cumplimiento a la Ley sobre Bases Generales del Medio Ambiente.
+
+j) La descripción de las normas del plan que permiten verificar el cumplimiento de la obligación de resguardar que la infraestructura pública de escala intercomunal será aprovechada de manera eficiente y equitativa, conforme a lo exigido en el artículo 34 de la Ley General de Urbanismo y Construcciones y lo dispuesto en el artículo 2.1.7. de esta Ordenanza.
+
+k) En aquellos casos en que, conforme al inciso quinto del artículo 34 de la Ley General de Urbanismo y Construcciones el instrumento establezca incentivos en las normas urbanísticas en las áreas urbanas de nivel comunal, deberá contar con un acápite especial en el que se identifiquen los sectores y se justifique que ellos corresponden a zonas de buena accesibilidad a bienes públicos urbanos relevantes, con el objeto de resguardar que la infraestructura pública de escala intercomunal sea aprovechada de manera eficiente de acuerdo con lo dispuesto en el artículo 2.1.7. de esta Ordenanza. Junto con lo anterior, se deberá dejar constancia expresa de la revisión y análisis de la suficiencia de Movilidad Urbana y Equipamiento Comunal, en base a los respectivos Estudios Técnicos que forman parte del plan regulador comunal, en caso de existir, con el objeto de determinar que el sector seleccionado puede absorber el mayor número de habitantes por hectárea que se propone, o en su defecto deberán elaborase como parte de la Memoria Explicativa del Plan Regulador Intercomunal o Metropolitano, los estudios técnicos que permitan sustentar dicha determinación.
+
+Tratándose de sectores en que exista un área de riesgo definida por el plan regulador comunal, o respecto del cual haya antecedentes técnicos o históricos sobre la exposición de la población a amenazas naturales o antrópicas, deberá realizarse un análisis de riesgo que permita determinar la pertinencia de aumentar el número de habitantes. En ambos casos, tanto el análisis de suficiencia como el de riesgo, deberá ser elaborado y suscrito por profesional especialista.
+
+La revisión y análisis de la suficiencia de Movilidad Urbana y Equipamiento Comunal, así como el de riesgo no será necesaria en aquellos casos en que el incentivo se establezca dentro de los márgenes de la capacidad máxima de edificación admitida en la respectiva zona, subzona, sector o porción del territorio regulada por el respectivo plan regulador comunal, sin aumentarla.
 
 2. Ordenanza, que contendrá las disposiciones reglamentarias pertinentes a este nivel de planificación urbana intercomunal.
 
@@ -1432,7 +1556,7 @@ a) Un resumen ejecutivo de la imagen objetivo y los acuerdos alcanzados, conform
 
 b) Los objetivos del Plan, incluyendo metas e indicadores de seguimiento, en armonía con lo señalado en la Ley sobre Bases Generales del Medio Ambiente.
 
-c) El diagnóstico territorial y ambiental estratégico, que contendrá un análisis sistémico territorial, proyecciones y tendencias, condicionantes y potencialidades.
+c) El diagnóstico territorial y ambiental estratégico, que contendrá un análisis sistémico territorial, proyecciones y tendencias, condicionantes y potencialidades. En el caso de nuevos planes reguladores, en las modificaciones integrales o actualizaciones de los mismos, este diagnóstico deberá incluir un análisis expreso sobre el déficit habitacional cuantitativo y cualitativo vinculado a la provisión de vivienda de interés público existente en la comuna, para lo cual deberán considerarse al menos las siguientes fuentes estadísticas oficiales: el último Censo de Población y Vivienda y la Encuesta de Caracterización Socio Económica Nacional, o aquellos instrumentos que los reemplacen.
 
 d) La descripción de los principales elementos o normas del Plan, señalando los antecedentes que los justifican según el ámbito de competencia del instrumento, contenidas en el artículo 2.1.10. bis de esta Ordenanza y las condiciones específicas del territorio a planificar, debiendo incluir, además, las metodologías empleadas.
 
@@ -1458,6 +1582,8 @@ h) Un informe que dé cuenta del proceso de participación y acredite el cumplim
 
 i) Los antecedentes necesarios para dar cumplimiento a la Ley sobre Bases Generales del Medio Ambiente.
 
+j) La descripción de la forma en que se contemplan los criterios de integración e inclusión social y urbana conforme a lo dispuesto en el artículo 27 de la Ley General de Urbanismo y Construcciones y lo establecido en esta Ordenanza.
+
 2. Estudio de Factibilidad, para ampliar o dotar de agua potable y alcantarillado de aguas servidas y de aguas lluvias cuando corresponda, en relación con el crecimiento urbano proyectado. El Estudio podrá incluir la factibilidad de implementación de sistemas de recolección y reutilización de aguas grises. Este Estudio de Factibilidad requerirá consulta previa a la respectiva empresa concesionaria de servicios sanitarios.
 
 3. Ordenanza Local, que contendrá las disposiciones reglamentarias pertinentes a este nivel de planificación territorial.
@@ -1472,7 +1598,7 @@ Los estudios o trabajos complementarios del Plan deberán ser suscritos por los 
 
 #### Artículo 2
 
-1.10. bis: La Planificación Urbana Comunal regulará el desarrollo físico de las áreas urbanas, a través de un Plan Regulador Comunal, cuyas disposiciones se referirán a los siguientes aspectos urbanísticos:
+1.10. bis: La Planificación Urbana Comunal regulará el desarrollo físico de las áreas urbanas, a través de un Plan Regulador Comunal, en concordancia con las metas regionales de desarrollo social, económico, cultural y medioambiental contempladas en las respectivas políticas o instrumentos vigentes, incorporando disposiciones que resguardan y promuevan la integración social y el acceso equitativo de la población a bienes públicos urbanos. Las disposiciones del Plan Regulador Comunal se referirán a los siguientes aspectos urbanísticos:
 
 a) El límite urbano de los centros poblados.
 
@@ -1492,7 +1618,9 @@ e) Exigencias de plantaciones y obras de ornato en las áreas afectas a declarac
 
 f) Zonificación en que se dividirá la comuna, la que podrá desagregarse, a su vez, a nivel de subzonas, sectores o una porción específica del territorio, en base a algunas de las siguientes normas urbanísticas: usos de suelo, sistemas de agrupamiento de las edificaciones, coeficientes de constructibilidad, coeficientes de ocupación de suelo o de los pisos superiores, alturas máximas de edificación, adosamientos, distanciamientos mínimos a los medianeros, antejardines, ochavos y rasantes; superficie de subdivisión predial mínima; densidades máximas, exigencias de estacionamiento según destino de las edificaciones; áreas de riesgo o de protección, señalando las condiciones o prevenciones que se deberán cumplir en cada caso, conforme a los artículos 2.1.17. y 2.1.18. de este mismo Capítulo.
 
-g) Disposiciones relacionadas con los siguientes aspectos urbanísticos, conforme a la normativa legal vigente:
+g) Disposiciones que resguarden y promuevan la integración social y urbana y el acceso equitativo a bienes públicos urbanos relevantes, a través de normas urbanísticas, normas de resguardo expresadas como porcentajes o cuotas obligatorias de viviendas de interés público, o incentivos según corresponda. En aquellos casos en que el plan regulador intercomunal o metropolitano hubiere definido áreas de desarrollo prioritario para viviendas de interés público, cuando se elaboren, modifiquen integralmente o actualicen los planes reguladores comunales que incluyan tales áreas, éstos deberán reconocerlas y establecer las disposiciones normativas que correspondan para evitar o revertir la segregación urbana o habitacional de las viviendas de interés público. Las disposiciones que se establezcan deberán ser coherentes con aquella infraestructura pública de escala intercomunal identificada por el nivel intercomunal conforme con lo dispuesto en el artículo 2.1.7. de esta Ordenanza.
+
+h) Disposiciones relacionadas con los siguientes aspectos urbanísticos, conforme a la normativa legal vigente:
 
 - Alturas de cierros hacia el espacio público, y porcentajes de transparencia de los mismos en el caso de las propiedades abandonadas.
 
@@ -1506,15 +1634,15 @@ Asimismo, podrá exigir la adopción de una determinada morfología o un particu
 
 En los dos últimos casos, dichas características estarán referidas al área libre, antejardín, tipos de agrupamiento conforme a los destinos del proyecto, frente predial mínimo, tratamiento de fachadas, cubiertas, azoteas, mansardas, instalaciones subterráneas, portales y marquesinas, entre otros.
 
-El instrumento podrá definir la aplicación de las distintas normas y disposiciones supeditándolas entre sí.
+El instrumento podrá definir al interior de cada zona, subzona, sector o porción del territorio, la aplicación de las distintas normas y disposiciones supeditándolas entre sí. Deberá precisarse la forma de aplicar dichas normas y disposiciones en aquellos casos en que, atendidas las características del proyecto, pudiera ser aplicable más de una de ellas, como, por ejemplo, en el caso de proyectos que consideren dos o más usos de suelo y el plan supedite una norma urbanística al destino de la edificación.
 
-De acuerdo a lo dispuesto en el artículo 184 de la Ley General de Urbanismo y Construcciones, los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas, aplicadas en todo o parte de su territorio, condicionados al desarrollo de espacios públicos o al mejoramiento de los ya existentes, a la materialización, reparación o mejoramiento de equipamientos públicos, a la instalación o incorporación de obras de arte en el espacio público, o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana.
+De acuerdo a lo dispuesto en el artículo 184 de la Ley General de Urbanismo y Construcciones, los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de proyectos de viviendas de interés público, de espacios públicos o de espacios privados abiertos al uso o tránsito público; al mejoramiento de los espacios públicos ya existentes; a la materialización, reparación o mejoramiento de equipamientos públicos; a la instalación o incorporación de obras de arte en el espacio público; a la incorporación de equipamiento y obras que aporten al cuidado ambiental y a la eficiencia energética; a la incorporación de viviendas de interés público o usos de suelo en los proyectos o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana.
 
-Conforme a lo señalado, los planes reguladores comunales podrán establecer los incentivos con el objeto de fomentar la apertura de espacios privados al uso o tránsito público; la inclusión de medidas que propicien el cuidado del medio ambiente o eficiencia energética. Asimismo, podrán establecer normas que fomenten un determinado uso de suelo, destino y/o sistema de agrupamiento con el objeto de favorecer la cohesión territorial.
+El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos que utilicen los incentivos en las normas urbanísticas, aplicándoseles lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones.
 
-El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos, aplicándoseles lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones.
+El Plan Regulador Comunal deberá precisar el área en que dichos incentivos sean aplicables. La aprobación de un plan con estos incentivos dejará sin aplicación en dicha área los artículos 63, 107, 108 y 109 de la Ley General de Urbanismo y Construcciones, aun cuando el proyecto de que se trate no haga uso de los incentivos a las normas urbanísticas.
 
-El Plan Regulador Comunal deberá precisar el territorio en que dichos incentivos sean aplicables. La aprobación de un plan con estos incentivos dejará sin aplicación en dicho territorio los artículos 63°, 107°, 108° y 109° de la Ley General de Urbanismo y Construcciones.
+En aquellos sectores protegidos bajo la categoría de Zona Típica o Zona de Conservación Histórica, o en alguna de las categorías que las reemplacen, no podrán establecerse incentivos normativos.
 
 #### Artículo 2
 
@@ -1544,15 +1672,15 @@ El lugar y plazo de exposición del anteproyecto de Plan Regulador Comunal y el 
 
 Cumplidos los trámites anteriores, el Alcalde deberá presentar el anteproyecto de Plan Regulador Comunal para la aprobación del Concejo, junto con las observaciones que hayan hecho llegar los interesados, en un plazo no inferior a quince ni superior a treinta días, contado desde que venza el plazo para formular tales observaciones.
 
-El Concejo deberá pronunciarse sobre las proposiciones que contenga el anteproyecto de Plan Regulador Comunal dentro de un plazo máximo de sesenta días, analizando las observaciones recibidas y adoptando acuerdos respecto de cada una de las materias impugnadas. Transcurrido el plazo anterior sin un pronunciamiento expreso, es decir, sin que haya un acuerdo que rechace la totalidad del anteproyecto, o sin que haya un acuerdo que apruebe modificaciones al mismo, o que se pronuncie sobre las materias impugnadas por la comunidad a través de las observaciones recibidas, se entenderá que el anteproyecto fue aprobado. Cuando se tratare de objeciones o proposiciones concretas de los interesados, tales acuerdos deberán comunicarse por escrito a quienes las hubieren formulado. En caso que dicho Concejo aprobare modificaciones, deberá cautelar que éstas no impliquen nuevos gravámenes o afectaciones desconocidas por la comunidad. No podrá, en todo caso, pronunciarse sobre materias o disposiciones no contenidas en el aludido anteproyecto, salvo que el anteproyecto de Plan Regulador Comunal modificado se exponga nuevamente conforme a lo dispuesto en el inciso cuarto de este artículo.
+El Concejo deberá pronunciarse sobre las proposiciones que contenga el anteproyecto de Plan Regulador Comunal dentro de un plazo máximo de sesenta días, analizando las observaciones recibidas y adoptando acuerdos respecto de cada una de las materias impugnadas. Transcurrido el plazo anterior sin un pronunciamiento expreso, es decir, sin que haya un acuerdo que rechace la totalidad del anteproyecto, o sin que haya un acuerdo que apruebe modificaciones al mismo, o que se pronuncie sobre las materias impugnadas por la comunidad a través de las observaciones recibidas, se entenderá que el anteproyecto fue aprobado. Cuando se tratare de objeciones o proposiciones concretas de los interesados, tales acuerdos deberán comunicarse por escrito a quienes las hubieren formulado. En caso que dicho Concejo aprobare modificaciones, deberá cautelar que éstas no impliquen nuevos gravámenes o afectaciones desconocidas por la comunidad. No podrá, en todo caso, pronunciarse sobre materias o disposiciones no contenidas en el aludido anteproyecto, salvo que el anteproyecto de Plan Regulador Comunal modificado se exponga nuevamente conforme a lo dispuesto en el inciso cuarto de este artículo. Para estos efectos se entenderá que una modificación implica nuevos gravámenes, cuando por su intermedio se establezcan nuevas circulaciones, plazas y parques, incluidos sus ensanches, conforme al artículo 59 de la Ley General de Urbanismo y Construcciones, o se amplíen o modifiquen las superficies de aquellas consideradas originalmente en el anteproyecto. Asimismo, se entenderá que una modificación implica nuevas afectaciones, cuando por su intermedio se definan nuevas áreas de protección de valor patrimonial cultural, nuevas áreas de riesgo, nuevas zonas, subzonas, sectores o porciones específicas del territorio con uso de suelo área verde exclusivo, o se amplíen o modifiquen las superficies de aquellas consideradas originalmente en el anteproyecto; o se prohíba un uso de suelo admitido en el instrumento de planificación territorial vigente.
 
-El proyecto de Plan Regulador Comunal aprobado en definitiva será remitido con todos sus antecedentes a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva. Dicha Secretaría Ministerial, dentro del plazo de sesenta días contado desde su recepción, revisará el proyecto de Plan Regulador Comunal y emitirá un informe sobre sus aspectos técnicos, en lo que se refiere a su concordancia con esta Ordenanza General y con el Plan Regulador Metropolitano o Intercomunal, si lo hubiere. Si producto de su revisión, la Secretaría Ministerial formulare observaciones técnicas, podrá suspender el plazo señalado en este inciso, en cuyo caso deberá devolver los antecedentes que correspondan al Municipio para su subsanación, otorgando un plazo máximo de 20 días para ello. Una vez reingresados los antecedentes por parte del Municipio, la Secretaría Ministerial continuará con la tramitación debiendo evacuar su informe dentro del plazo restante. En el evento que el Municipio no subsane las observaciones en el plazo fijado por la Secretaría Ministerial, ésta deberá emitir un informe negativo indicando los aspectos técnicos observados.
+El proyecto de Plan Regulador Comunal aprobado en definitiva será remitido con todos sus antecedentes a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva. Dicha Secretaría Ministerial, dentro del plazo de sesenta días contados desde su recepción, revisará el proyecto de Plan Regulador Comunal y emitirá un informe sobre sus aspectos técnicos, en lo que se refiere a su concordancia con esta Ordenanza General y con el Plan Regulador Metropolitano o Intercomunal, si lo hubiere. Adicionalmente, en el caso de nuevos planes reguladores comunales, actualizaciones o modificaciones integrales de los mismos, a través de este informe deberá verificarse que el instrumento de planificación territorial contemple criterios de integración e inclusión social y urbana, a través de la incorporación de normas urbanísticas, normas de resguardo, o incentivos en las normas urbanísticas, y que ellos sean coherentes con los antecedentes de diagnóstico que forman parte de la memoria explicativa, refiriéndose expresamente a la forma en que ellos han sido incorporados. Si producto de su revisión, la Secretaría Ministerial formulare observaciones técnicas, o vinculadas a la falta de criterios de integración e inclusión social y urbana en el proyecto o su incoherencia, suspenderá el plazo señalado en este inciso, en cuyo caso deberá devolver los antecedentes que correspondan al Municipio para su subsanación, otorgando un plazo máximo de veinte días para ello. Una vez reingresados los antecedentes por parte del Municipio, la Secretaría Regional Ministerial de Vivienda y Urbanismo continuará con la tramitación debiendo evacuar su informe dentro del plazo restante. En el evento que el Municipio no subsane las observaciones en el plazo fijado por la Secretaría Regional Ministerial de Vivienda y Urbanismo, ésta deberá emitir un informe negativo indicando los aspectos técnicos o aquellos vinculados a la incoherencia o falta de criterios de integración social y urbana observados.
 
 Si el proyecto aprobado rechaza o altera la propuesta de modificación del límite urbano contenida en el acuerdo a que se refiere el artículo 2.1.5. de la presente Ordenanza, el Alcalde, dentro de quinto día de tomado el acuerdo, junto con enviarlo a la Secretaría Regional Ministerial respectiva, con copia al Concejo Municipal, informará de este hecho al Ministerio de Vivienda y Urbanismo, para efecto de lo dispuesto en la letra b) del artículo 28 undecies de dicha ley, y al Servicio de Impuestos Internos, identificando la zona afectada. El Alcalde deberá, asimismo, informar de este hecho a los consejos comunales de organizaciones de la sociedad civil, a las organizaciones de la sociedad civil, a los vecinos afectados y demás interesados que hayan formulado observaciones fundadas, cumpliendo con ello lo dispuesto en el numeral 6 del artículo 28 octies.
 
 Si la comuna está normada por un Plan Regulador Metropolitano o Intercomunal, el informe de la Secretaría Regional Ministerial junto con el proyecto de Plan Regulador Comunal y sus antecedentes, será remitido directamente al Municipio, con copia al Gobierno Regional. Si el informe es favorable, el Proyecto de Plan Regulador Comunal o de Plan Seccional será promulgado por decreto alcaldicio.
 
-Si el proyecto de Plan Regulador Comunal no se ajustare a esta Ordenanza General o al Plan Regulador Metropolitano o Intercomunal, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá emitir un informe negativo y lo remitirá al Municipio conjuntamente con el proyecto de Plan Regulador Comunal y sus antecedentes, debiendo este corregir las discordancias con esta Ordenanza General, en su caso, pudiendo modificar el proyecto de Plan Regulador Comunal para concordarlo con el Plan Regulador Metropolitano o Intercomunal o insistir en su proyecto. En este último caso remitirá al Gobierno Regional el proyecto de Plan Regulador Comunal, con todos los antecedentes, incluido el informe negativo de la Secretaría Regional Ministerial de Vivienda y Urbanismo, para que éste se pronuncie sobre los aspectos objetados.
+Si el proyecto de Plan Regulador Comunal no se ajustare a esta Ordenanza General o al Plan Regulador Metropolitano o Intercomunal, o no contemplare criterios de integración e inclusión social y urbana, o ellos fueren incoherentes con los antecedentes de diagnóstico que forman parte de la memoria explicativa, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá emitir un informe negativo y lo remitirá al Municipio conjuntamente con el proyecto de Plan Regulador Comunal y sus antecedentes, debiendo este corregir las discordancias con esta Ordenanza General, en su caso, pudiendo modificar el proyecto de Plan Regulador Comunal para concordarlo con el Plan Regulador Metropolitano o Intercomunal o insistir en su proyecto. En este último caso remitirá al Gobierno Regional el proyecto de Plan Regulador Comunal, con todos los antecedentes, incluido el informe negativo de la Secretaría Regional Ministerial de Vivienda y Urbanismo, para que éste se pronuncie sobre los aspectos objetados.
 
 Si no existiera un Plan Regulador Metropolitano o Intercomunal que incluya el territorio comunal, el informe de la Secretaría Regional Ministerial de Vivienda y Urbanismo junto con el proyecto de Plan Regulador Comunal y sus antecedentes, será remitido al Gobierno Regional para su aprobación por el Consejo Regional, con copia al Municipio.
 
@@ -1564,7 +1692,7 @@ Los gastos que demande la publicación de los actos administrativos que promulgu
 
 Los planos originales que conformen el Plan Regulador Comunal, sus modificaciones o enmiendas, deberán llevar la firma de la autoridad que promulgó el Plan.
 
-Las modificaciones a los Planes Reguladores Comunales se sujetarán al mismo procedimiento señalado en el presente artículo
+Las modificaciones a los Planes Reguladores Comunales se sujetarán al mismo procedimiento señalado en el presente artículo.
 
 #### Artículo 2
 
@@ -1572,17 +1700,17 @@ Las modificaciones a los Planes Reguladores Comunales se sujetarán al mismo pro
 
 #### Artículo 2
 
-1.13. Las enmiendas a que se refiere el inciso segundo del artículo 45º de la Ley General de Urbanismo y Construcciones serán elaboradas por la Municipalidad y aprobadas por el Concejo respectivo conforme a las reglas de este artículo.
+1.13. Las enmiendas a que se refiere el inciso segundo del artículo 45º de la Ley General de Urbanismo y Construcciones serán elaboradas por la Municipalidad y aprobadas por el Concejo respectivo conforme a las reglas de este artículo, sin perjuicio de las disposiciones aplicables en particular para las materias indicadas en los numerales 4, 5 y 6 del inciso segundo del citado artículo, conforme se establece en el artículo 2.1.13. bis de esta Ordenanza.
 
 Para los fines previstos en el número 1. del inciso segundo, del artículo 45º de la Ley General de Urbanismo y Construcciones, la municipalidad podrá redefinir la localización de un equipamiento vecinal existente en los barrios o sectores, para lo cual será necesario cambiar los usos de suelo establecidos en el Plan Regulador Comunal en su nueva ubicación, el que quedará destinado exclusivamente a equipamiento vecinal. Las normas en el terreno en que se localizaba originalmente el equipamiento vecinal podrán asimilarse a las de la zona predominante entre aquellas adyacentes al terreno, o bien, podrán mantenerse las que estaban vigentes en la zona en que este se ubicaba.
 
 Para efectos de lo dispuesto en el número 2, del inciso segundo, del citado artículo 45°, el Concejo podrá autorizar enmiendas a fin de introducir ajustes a los trazados contemplados en el Plan Regulador Comunal o en los Planes Seccionales vigentes, referidos a pasajes y vías locales o de servicio que tengan un informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
-Para efectos de lo dispuesto en el número 3. del inciso segundo del artículo precitado, el Concejo podrá autorizar enmiendas que alteren las condiciones de edificación y urbanización del Plan Regulador Comunal o de los Seccionales vigentes, dentro de los márgenes que se señalan a continuación:
+Para efectos de lo dispuesto en los números 3, 5 y 6 del inciso segundo del artículo precitado, el Concejo podrá autorizar enmiendas que alteren las condiciones de edificación y urbanización del Plan Regulador Comunal o de los Seccionales vigentes, según corresponda dentro de los márgenes que se señalan a continuación:
 
-a) Incrementar o disminuir hasta en un 20% la altura y la densidad.
+a) Incrementar o disminuir hasta en un 20% la altura y la densidad. En el caso de las enmiendas que inciden en las materias establecidas en los numerales 5 y 6 del artículo 45 de la Ley General de Urbanismo y Construcciones, el incremento de la altura o densidad podrá ser de hasta un 50%, sin perjuicio del deber de dar cumplimiento a lo dispuesto en el artículo 7 bis de la ley N° 19.300 sobre Bases Generales del Medio Ambiente.
 
-b) Incrementar o disminuir hasta en un 30% cuando se trate de coeficiente de constructibilidad, coeficiente de ocupación de suelo y tamaño predial.
+b) Incrementar o disminuir hasta en un 30% cuando se trate de coeficiente de constructibilidad, coeficiente de ocupación de suelo y tamaño predial. En el caso de las enmiendas que inciden en las materias establecidas en los numerales 5 y 6 del artículo 45 de la Ley General de Urbanismo y Construcciones, el incremento de los coeficientes señalados o el incremento o disminución del tamaño predial para efectos de la superficie de subdivisión predial mínima podrá ser de hasta un 50%, sin perjuicio del deber de dar cumplimiento a lo dispuesto en el artículo 7 bis de la ley 19.300 sobre Bases Generales del Medio Ambiente.
 
 c) Cuando se trate de zonas con uso de suelo de equipamiento correspondiente a la clase educación, el coeficiente de ocupación de suelo podrá disminuirse hasta 0,2 y en el caso de zonas con uso de suelo de equipamiento correspondiente a la clase comercio, el coeficiente de ocupación de suelo podrá aumentarse hasta 1.
 
@@ -1613,6 +1741,34 @@ Las enmiendas que alteren los márgenes en cada condición de edificación podr�
 Las enmiendas reglamentadas en el presente artículo se sujetarán al procedimiento previsto en los numerales 1 al 6 del inciso segundo del artículo 43° de la Ley General de Urbanismo y Construcciones y en los incisos tercero a quinto del mismo artículo. Una vez aprobadas tales enmiendas por el Concejo, serán promulgadas por decreto alcaldicio.
 
 Las enmiendas estarán exentas de cumplir con lo dispuesto en el artículo 28° octies de la referida Ley General, debiendo en todo caso dar cumplimiento a lo dispuesto en el artículo 28 septies de dicha ley, referido al acceso a la información de los Instrumentos de Planificación Territorial.
+
+#### Artículo 2
+
+1.13. bis. Conforme a lo establecido en el numeral 4 del inciso segundo del artículo 45 de la Ley General de Urbanismo y Construcciones, el Concejo podrá establecer por la vía de una enmienda condiciones para la utilización de la capacidad máxima de edificación admitida en una zona residencial o en parte de esta, tales como, la incorporación de una cuota, porcentaje o cantidad determinada de viviendas de interés público exigible los proyectos de edificación, u otras exigencias que permitan promover el acceso equitativo por parte de la población a bienes públicos urbanos relevantes. Para estos efectos, la capacidad máxima de edificación corresponderá a aquella definida en el artículo 1.1.2. de esta Ordenanza, y las condiciones para su utilización podrán establecerse por rangos proporcionales a dicha capacidad máxima.
+
+Para los fines dispuestos en los números 5 y 6 del inciso segundo del artículo 45 de la Ley General de Urbanismo y Construcciones, el Concejo podrá establecer incentivos normativos, para lo cual deberán delimitarse los sectores en que podrá tramitarse el procedimiento de enmienda, los que podrán corresponder a una zona existente del Plan o generase una nueva zona, subzona, sector o porción del territorio, según corresponda.
+
+A fin de delimitar dichos sectores se deberá verificar si sus indicadores y estándares de desarrollo urbano son deficitarios, o si por el contrario poseen un potencial de densificación en atención a los bienes públicos urbanos relevantes existentes o proyectados. Para ello deberá determinarse si se encuentran insertos dentro de un área que reúna, un servicio de transporte público o un eje estructurante de movilidad; dos equipamientos de interés público; y un área verde, en base a los siguientes parámetros:
+
+a) 700 metros de recorrido peatonal medidos desde alguno de los accesos a una estación de servicio de transporte público, tales como las utilizadas por sistemas de metro, ferrocarril urbano o suburbano u otros modos similares. Alternativamente, podrán considerarse los ejes de transporte que concentren una oferta significativa de transporte público, atendiendo a criterios como la cantidad de servicios en operación; la existencia de líneas de metro, trenes, tranvías o similares; la existencia de infraestructura especializada o con prioridad de circulación para el transporte público mediante buses, tales como vías segregadas, pistas solo bus o vías exclusivas; u otras condiciones, en cuyo caso la distancia a considerar será de 500 metros de recorrido peatonal, medidos desde el eje de la vía respectiva.
+
+b) 500 metros de recorrido peatonal, medidos desde alguno de los accesos de a lo menos dos equipamientos de interés público. Se entenderán por equipamientos de interés público para estos efectos, los establecimientos educacionales destinados a los niveles de educación básica o media, los establecimientos de salud que formen parte de la Red Asistencial del respectivo Servicio de Salud, el equipamiento comercial, con destinos referidos a la compraventa de mercaderías diversas, equipamiento de clase servicios, sean públicos o privados, que presten un servicio de interés público tales como oficinas públicas, bancos o financieras, y equipamiento deportivo o de cultura. En el caso de las tres últimas clases de equipamiento, éste deberá ser de escala mediana o mayor.
+
+c) 500 metros de recorrido peatonal, medidos desde cualquier punto de acceso a un Parque o área verde de uso público, de una superficie igual o superior a 5.000 metros cuadrados.
+
+La determinación del área podrá considerar aquellos servicios de transporte público o ejes estructurantes de movilidad, equipamientos, parques o áreas verdes respecto a los cuales exista una inversión pública con permiso, en ejecución o se encuentre recomendada satisfactoriamente en el Sistema Nacional de Inversiones para la etapa de ejecución de obras y cuente con presupuesto asignado para ello, que asegure su entrada en funcionamiento dentro de un plazo no mayor a dos años.
+
+Para efectos de la aplicación del artículo 45 de la Ley General de Urbanismo y Construcciones, se entenderá que los sectores presentan indicadores de desarrollo urbano deficitarios cuando éstos queden fuera del área definida por los parámetros establecidos en los incisos tercero y cuarto de este artículo, caso en el cual podrá aplicarse el numeral 5° del citado artículo. En este último caso, los incentivos en las normas urbanísticas que se establezcan deberán quedar condicionados a la incorporación de viviendas de interés público y copulativamente, al cumplimiento de exigencias adicionales que tengan por propósito la puesta en valor o la revitalización del sector, tales como la ejecución de obras en el espacio público o la obligación de destinar parte de lo edificado a destinos específicos en beneficio de la comunidad.
+
+En aquellos sectores que se encuentren dentro del área definida por los parámetros precedentemente citados, se entenderá que ellos poseen un potencial de densificación que puede aumentarse, caso en el cual podrá aplicarse el numeral 6 del artículo 45 de la Ley General de Urbanismo y Construcciones. En este caso, los incentivos en las normas urbanísticas que se establezcan deberán quedar condicionados a la incorporación de viviendas de interés público, sin perjuicio de la posibilidad de establecer otras condiciones adicionales destinadas a promover el acceso equitativo por parte de la población a bienes públicos urbanos relevantes.
+
+Las enmiendas reguladas en este artículo solo podrán tramitarse en sectores en los que el respectivo plan regulador comunal ya admite el uso de suelo residencial destino vivienda.
+
+#### Artículo 2
+
+1.13. ter. En aquellos casos en que la actualización de un plan regulador comunal conforme a lo exigido en el artículo 28 sexies de la Ley General de Urbanismo y Construcciones, se efectúe a través de un procedimiento de enmienda, el proyecto aprobado por el concejo municipal será remitido con todos sus antecedentes a la Secretaría Regional Ministerial de Vivienda y Urbanismo. Dicha Secretaría Ministerial dentro del plazo de 30 días contados desde su recepción, emitirá un informe mediante el cual verificará que el proyecto contemple criterios de integración e inclusión social y urbana a través de la incorporación de normas urbanísticas, normas de resguardo, o incentivos en las normas urbanísticas, y que ellos sean coherentes con los antecedentes de diagnóstico que forman parte de la memoria explicativa.
+
+Si producto de su revisión, la Secretaría Regional Ministerial de Vivienda y Urbanismo formulare observaciones, dentro del plazo antes señalado, deberá devolver los antecedentes que correspondan al Municipio para su subsanación, otorgando un plazo máximo de veinte días para ello. Una vez reingresados los antecedentes por parte del Municipio, la referida Secretaría Ministerial deberá evacuar su informe definitivo dentro del plazo de quince días. En el evento que el Municipio no subsane las observaciones, la Secretaría Ministerial respectiva deberá emitir un informe negativo fundado indicando expresamente las materias observadas. El proyecto junto con sus antecedentes y el informe que al efecto emita la Secretaría Ministerial será remitido a la Municipalidad para continuar con su aprobación conforme a lo dispuesto en el artículo 2.1.13. Con todo, el proyecto solo podrá ser promulgado contando con informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
 #### Artículo 2
 
@@ -1648,7 +1804,7 @@ De los planes seccionales
 
 #### Artículo 2
 
-1.15. En los casos a que se refiere el artículo 46° de la Ley General de Urbanismo y Construcciones, en que no exista Plan Regulador Comunal vigente, se podrán aprobar Planes Seccionales, utilizando el procedimiento establecido en los artículos 28 octies y 43° de la referida Ley General.
+1.15. En los casos a que se refiere el artículo 46° de la Ley General de Urbanismo y Construcciones, en que no exista Plan Regulador Comunal vigente, se podrán aprobar Planes Seccionales, utilizando el procedimiento establecido en los artículos 28 octies y 43° de la referida Ley General. Cuando dichos Planes Seccionales establezcan normas para zonas residenciales, se deberán contemplar normas urbanísticas, u otras exigencias o disposiciones que resguarden e incentiven la construcción, habilitación o reconstrucción de viviendas de interés público a través de normas de resguardo, o incentivos en normas urbanísticas. En estos casos, la memoria explicativa deberá explicar y fundamentar aquello y la Ordenanza del Plan deberá contener las normas que dan cuenta del cumplimiento de esta obligación.
 
 Los Planes Seccionales de que trata este artículo consistirán en una memoria explicativa, en una ordenanza local que fije las normas urbanísticas referidas a usos de suelo, altura máxima de edificación, densidad máxima, subdivisión predial mínima, sistema de agrupamiento, coeficiente de constructibilidad, áreas de riesgo, declaratorias de utilidad pública conforme al artículo 59 de la Ley General de Urbanismo y Construcciones, áreas de protección de recursos de valor natural o patrimonial cultural, y la red vial estructurante, y en uno o más planos que grafiquen lo anterior.
 
@@ -1827,6 +1983,8 @@ similares, para uso preferente de los residentes, mientras no requieran patente.
 Cuando los Instrumentos de Planificación Territorial existentes se refieran a uso de vivienda o habitacional, éstos se asimilarán al uso Residencial que señala este artículo.
 
 En los predios ubicados en zonas en que no esté permitido el uso de suelo residencial, se podrán localizar las viviendas necesarias para complementar la actividad permitida. En estos casos, la superficie construida total de las viviendas no podrá superar el 5% de la superficie total del predio.
+
+Los destinos correspondientes a establecimientos de larga estadía para el adulto mayor, centros diurnos para el adulto mayor, establecimientos deportivos de escala barrial asimilables a equipamiento básico conforme a lo establecido en el artículo 2.1.36. de esta Ordenanza, jardines infantiles y salas cunas, se entenderán como complementarios a cualquier destino del uso residencial, incluyendo la vivienda, por lo tanto, siempre serán admitidos en zonas o subzonas que el plan regulador comunal defina con dicho uso de suelo.
 
 #### Artículo 2
 
@@ -7904,273 +8062,7 @@ d) Presupuesto de la demolición.
 
 En caso de demolición completa de la edificación, previamente al pago de los derechos municipales correspondientes deberá adjuntarse un certificado de desratización otorgado por el Servicio de Salud que corresponda.
 
-6. Permisos para nuevas construcciones que se realicen en zonas declaradas afectadas por catástrofe.
-
-Se podrán aprobar nuevas construcciones en zonas declaradas afectadas por catástrofe con las normas especiales y procedimientos simplificados que se indican en este numeral, siempre que los permisos vayan dirigidos a construir o reconstruir total o parcialmente edificaciones que hubieran sido dañadas por la catástrofe que dio lugar a la declaración respectiva.
-
-Para los efectos de lo dispuesto en este numeral, se entenderá que la edificación ha sido dañada cuando el daño afecta la estructura soportante del inmueble o si tratándose de elementos constructivos o instalaciones, éste fuere relevante.
-
-6.1. De los Permisos de Reconstrucción de viviendas y edificaciones dañadas a consecuencia de una catástrofe:
-
-6.1.1. De los Permisos de Reconstrucción de viviendas.
-
-Los permisos de reconstrucción de viviendas estarán exentos del cumplimiento de las normas urbanísticas del Instrumento de Planificación Territorial respectivo, salvo las referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas declaradas de utilidad pública.
-
-Sin perjuicio de lo anterior, estos permisos deberán cumplir con las siguientes normas de esta Ordenanza:
-
-- Las del Título 4 "De la Arquitectura", relativas a
-
-normas de seguridad, habitabilidad, estabilidad y de
-
-las instalaciones interiores de electricidad, agua
-
-potable, alcantarillado y gas, cuando corresponda.
-
-- Las del artículo 5.1.7. referidas al proyecto de
-
-cálculo estructural, cuando corresponda.
-
-- Las de los artículos 2.6.2. y 2.6.3., sobre
-
-adosamientos, distanciamientos y rasantes.
-
-El Director de Obras Municipales otorgará el permiso, a condición de que se cumpla con lo dispuesto precedentemente y previo pago de los derechos municipales que correspondan, con el solo mérito de la presentación de la solicitud de permiso acompañada de los siguientes antecedentes:
-
-a) Declaración simple del propietario de ser titular del dominio del inmueble utilizando para ello el Formulario Único Nacional respectivo.
-
-b) Plano de ubicación, plantas de arquitectura y especificaciones técnicas resumidas, suscritos por un profesional competente, salvo que en la Dirección de Obras Municipales hubiere copia de los planos del permiso de la edificación dañada, en cuyo caso se podrán utilizar estos planos, debiendo ajustarse a ellos el profesional competente a cargo de las obras.
-
-c) Informe que contenga la identificación de los elementos de la vivienda que resultaron con daño, emitido por el profesional competente.
-
-d) Formulario único de estadísticas de edificación.
-
-e) Planos de estructuras y memoria de cálculo firmados por el profesional que elabore el cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza. El proyecto de cálculo estructural deberá incluir un estudio de mecánica de suelos.
-
-f) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
-
-La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo, dentro los plazos establecidos en el artículo 118 de la Ley General de Urbanismo y Construcciones.
-
-Los derechos municipales corresponden a los contemplados en el número 5 del artículo 130 de la Ley General de Urbanismo y Construcciones, con excepción de los que están exentos del pago de derechos municipales conforme a lo dispuesto en el inciso final del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
-
-Cuando las solicitudes de permiso de edificación a que se refiere este numeral se refieran a inmuebles ubicados fuera de los límites urbanos establecidos en los Planos Reguladores, deberá darse cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones.
-
-La recepción definitiva de las obras a que se refiere este punto, se tramitará en conformidad a lo dispuesto en el artículo 5.2.6. bis de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
-
-6.1.2. De los Permisos de Reconstrucción de edificaciones destinadas a otros usos distintos de vivienda.
-
-Los permisos de reconstrucción de edificaciones destinadas a otros usos distintos de vivienda, estarán exentos del cumplimiento de las normas urbanísticas del Instrumento de Planificación Territorial respectivo, salvo las referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas declaradas de utilidad pública.
-
-Sin perjuicio de lo anterior, estos permisos deberán cumplir con las siguientes normas de esta Ordenanza:
-
-- Las del Título 4 "De la Arquitectura", relativas
-
-a normas de seguridad, habitabilidad, estabilidad
-
-y de las instalaciones interiores de electricidad,
-
-agua potable, alcantarillado y gas, cuando
-
-corresponda.
-
-- Las del artículo 5.1.7. referidas al proyecto de
-
-cálculo estructural, cuando corresponda.
-
-- Las de los artículos 2.6.2. y 2.6.3., sobre
-
-adosamientos, distanciamientos y rasantes.
-
-El Director de Obras Municipales otorgará el permiso, a condición de que se cumpla con lo dispuesto precedentemente y previo pago de los derechos municipales que correspondan, con el solo mérito de la presentación de la solicitud de permiso acompañada de los siguientes antecedentes:
-
-a) Declaración simple del propietario de ser titular del dominio del inmueble utilizando para ello el Formulario Único Nacional respectivo.
-
-b) Plano de ubicación, plantas de arquitectura y especificaciones técnicas resumidas, suscritos por un profesional competente, salvo que en la Dirección de Obras Municipales hubiere copia de los planos del permiso de la edificación dañada, en cuyo caso, se podrán utilizar estos planos, debiendo ajustarse a ellos el profesional competente a cargo de las obras.
-
-c) Informe que contenga la identificación de los elementos de la edificación que resultaron con daño, emitido por el profesional competente.
-
-d) Formulario único de estadísticas de edificación.
-
-e) Planos de estructuras y memoria de cálculo firmados por el profesional que elabore el cálculo estructural, cuando proceda conforme al artículo 5.1.7. de esta Ordenanza. El proyecto de cálculo estructural deberá incluir un estudio de mecánica de suelos.
-
-f) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
-
-g) Informe favorable de un Revisor Independiente, cuando se trate de edificios de uso público.
-
-La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo, dentro los plazos establecidos en el artículo 118 de la Ley General de Urbanismo y Construcciones.
-
-Los derechos municipales corresponden a los contemplados en el número 5 del artículo 130 de la Ley General de Urbanismo y Construcciones.
-
-Cuando las solicitudes de permiso de edificación a que se refiere este numeral se refieran a inmuebles ubicados fuera de los límites urbanos establecidos en los Planos Reguladores, deberá darse cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones.
-
-La recepción definitiva de las obras a que se refiere este punto, se tramitará en conformidad a lo dispuesto en el artículo 5.2.6. bis de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
-
-6.2. De los Permisos de Edificación y/o de Ampliación de edificaciones dañadas a consecuencia de una catástrofe;
-
-6.2.1. De los permisos de edificación y/o ampliación de viviendas.
-
-Los permisos de edificación y/o de ampliación destinados a viviendas, que hubieran sido dañadas por la catástrofe que dio lugar a la declaración respectiva, estarán exentos del cumplimiento de las normas urbanísticas del Instrumento de Planificación Territorial respectivo, salvo las referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas declaradas de utilidad pública.
-
-Se permitirá la ampliación de viviendas, siempre y cuando la superficie total edificada no supere los ciento cuarenta metros cuadrados.
-
-Estos permisos deberán cumplir con las siguientes normas de esta Ordenanza:
-
-- Las del Título 4 "De la Arquitectura", relativas a
-
-normas de seguridad, habitabilidad, estabilidad y de
-
-las instalaciones interiores de electricidad, agua
-
-potable, alcantarillado y gas, cuando corresponda.
-
-- Las del artículo 5.1.7. referidas al proyecto de
-
-cálculo estructural, cuando corresponda.
-
-- Las de los artículos 2.6.2. y 2.6.3., sobre
-
-adosamientos, y distanciamientos y rasantes.
-
-El Director de Obras Municipales otorgará el permiso, a condición de que se cumpla con lo dispuesto precedentemente y previo pago de los derechos municipales que correspondan, con el solo mérito de la presentación de la solicitud de permiso acompañada de los siguientes antecedentes:
-
-a) Solicitud firmada por el propietario y el arquitecto proyectista, con declaración simple del propietario de ser titular del dominio del predio, utilizando para ello el Formulario Único Nacional respectivo.
-
-b) Formulario único de estadísticas de edificación.
-
-c) Informe que contenga la identificación de los elementos de la vivienda que resultaron con daño, emitido por el profesional competente.
-
-d) Planos de arquitectura a escala 1:50, en que se grafique las plantas de todos los pisos y elevaciones con las cotas mínimas indispensables, que permitan definir los aspectos formales, dimensionales y funcionales del proyecto, con singularización de los recintos y cuadro de superficies, firmados por el arquitecto proyectista.
-
-e) Especificaciones técnicas, señalando las partidas más relevantes de la obra, firmadas por el arquitecto proyectista.
-
-f) Proyecto de cálculo estructural, cuando corresponda, de acuerdo con el artículo 5.1.7. de la presente Ordenanza. El proyecto de cálculo estructural deberá incluir un estudio de mecánica de suelos.
-
-g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
-
-h) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos en caso que la solicitud se refiera a un predio que contaba con dichos servicios y no se aumentan las instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado suscrito por un profesional competente, el que deberá estar aprobado por la autoridad respectiva antes de la recepción definitiva de la obra.
-
-La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo, dentro los plazos establecidos en el artículo 118 de la Ley General de Urbanismo y Construcciones.
-
-Los derechos municipales corresponden a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, con excepción de los que están exentos del pago de derechos municipales conforme a lo dispuesto en el inciso final del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
-
-Cuando las solicitudes de permiso de edificación se refieran a inmuebles ubicados fuera de los límites urbanos establecidos en los Planos Reguladores, deberá darse cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones.
-
-La recepción definitiva de las obras a que se refiere este punto, se tramitará en conformidad a lo dispuesto en el artículo 5.2.6. bis de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
-
-6.2.2. De los permisos de edificación y/o de ampliación que contemplen otros destinos, distintos de vivienda.
-
-Los permisos de edificación y/o de ampliación que contemplen otros destinos, distintos de vivienda, deberán cumplir con las normas urbanísticas, del instrumento de Planificación Territorial respectivo.
-
-Tratándose de solicitudes de permisos de edificación y de ampliación de edificaciones destinadas a establecimientos de salud, educación y seguridad, que se soliciten en predios en que existían edificaciones del mismo destino y que resultaron dañadas por la catástrofe que dio lugar a la declaración respectiva, deberán cumplir con las normas urbanísticas del instrumento de planificación territorial respectivo, a excepción de las disposiciones sobre uso de suelo. En caso que en la zona en que se emplacen se establezca más de una norma urbanística se deberá aplicar la menos restrictiva.
-
-Adicionalmente, deberán cumplir con las siguientes disposiciones de esta Ordenanza:
-
-- Las del Título 4 "De la Arquitectura" relativas a
-
-normas de seguridad, habitabilidad, estabilidad y de
-
-las instalaciones interiores de electricidad, agua
-
-potable, alcantarillado y gas, cuando corresponda.
-
-- Las del artículo 5.1.7, referidas al proyecto de
-
-cálculo estructural, cuando corresponda.
-
-- Las de los artículos 2.6.2. y 2.6.3. sobre
-
-adosamientos, distanciamientos y rasantes.
-
-El Director de Obras Municipales otorgará los permisos a que se refiere este punto, a condición de que se cumpla con lo dispuesto precedentemente y previo pago de los derechos municipales que correspondan a la actuación requerida, con el solo mérito de la presentación de la solicitud de permiso acompañada de los siguientes antecedentes:
-
-a) Solicitud firmada por el propietario y el arquitecto proyectista, con declaración simple del propietario de ser titular del dominio del predio, utilizando para ello el Formulario Único Nacional respectivo.
-
-b) Formulario único de estadísticas de edificación.
-
-c) Informe que contenga la identificación de los elementos de la edificación que resultaron con daño, emitido por el profesional competente.
-
-d) Planos de arquitectura a escala 1:50, en que se grafique las plantas de todos los pisos y elevaciones con las cotas mínimas indispensables, que permitan definir los aspectos formales, dimensionales y funcionales del proyecto, con singularización de los recintos y cuadro de superficies, firmados por el arquitecto proyectista.
-
-e) Especificaciones técnicas, señalando las partidas más relevantes de la obra, firmadas por el arquitecto proyectista.
-
-f) Proyecto de cálculo estructural cuando corresponda de acuerdo con el artículo 5.1.7. de la presente Ordenanza. El proyecto de cálculo estructural deberá incluir un estudio de mecánica de suelos.
-
-g) Informe favorable del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación de acuerdo al artículo 5.1.25. de esta Ordenanza.
-
-h) Informe favorable de un Revisor Independiente, cuando se trate de edificios de uso público.
-
-i) Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa concesionaria de servicios sanitarios correspondiente, o bien fotocopia de los respectivos recibos en caso que la solicitud se refiera a un predio que contaba con dichos servicios y no se aumentan las instalaciones. De no existir empresa de servicios sanitarios en el área, se deberá presentar un proyecto de agua potable y alcantarillado suscrito por un profesional competente, el que deberá estar aprobado por la autoridad respectiva antes de la recepción final de la obra.
-
-La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de este tipo dentro los plazos establecidos en el artículo 118 de la Ley General de Urbanismo y Construcciones.
-
-Los derechos municipales corresponden a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones.
-
-Cuando las solicitudes de permiso de edificación se refieran a inmuebles ubicados fuera de los límites urbanos establecidos en los Planos Reguladores, deberá darse cumplimiento a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones.
-
-La recepción definitiva de las obras a que se refiere este punto, se tramitará en conformidad a lo dispuesto en el artículo 5.2.6. bis de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
-
-6.3. De los Permisos de Edificación de Viviendas Tipo:
-
-Tratándose de proyectos de viviendas tipo, entendidas éstas como viviendas unifamiliares cuyas condiciones técnicas hayan sido autorizadas previamente por el Ministerio de Vivienda y Urbanismo, estarán exentos del cumplimiento de normas urbanísticas del Instrumento de Planificación Territorial respectivo, salvo las referidas a zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas declaradas de utilidad pública.
-
-Para acogerse al procedimiento simplificado que regula el presente punto, el propietario deberá presentar ante la Dirección de Obras Municipales respectiva, una solicitud de Permiso de Edificación, acompañando los siguientes antecedentes:
-
-a) Solicitud firmada por el propietario y el profesional competente a cargo de las obras, con declaración simple del propietario de ser titular del dominio del predio, utilizando para ello el Formulario único Nacional respectivo.
-
-b) Formulario único de estadísticas de edificación.
-
-c) Informe que contenga la identificación de los elementos de la vivienda que resultaron con daño, emitido por el profesional competente.
-
-d) Documento emitido por el Ministerio de Vivienda y Urbanismo que de cuenta que se trata de una vivienda tipo.
-
-e) Fotocopia de las plantas de arquitectura y especificaciones técnicas resumidas de la vivienda tipo, suscritas por el profesional competente a cargo de las obras.
-
-f) Croquis de ubicación de la vivienda tipo, suscrito por el profesional competente a cargo de las obras, con indicación del emplazamiento de la vivienda, que acredite el cumplimiento de las normas urbanísticas establecidas para este tipo de permiso.
-
-La Dirección de Obras Municipales deberá pronunciarse dentro del plazo de 15 días siguientes a la presentación de la solicitud.
-
-Los derechos municipales corresponden a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, con excepción de los que están exentos del pago de derechos municipales conforme a lo dispuesto en el inciso final del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
-
-La recepción definitiva de las obras a que se refiere este punto, se tramitará en conformidad a lo dispuesto en el artículo 5.2.6. bis de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
-
-7. Regularizaciones de construcciones existentes en zonas declaradas afectadas por catástrofe.
-
-Se podrán regularizar construcciones existentes en zonas declaradas afectadas por catástrofe con las normas especiales y procedimientos simplificados que se indican en este numeral, siempre que la edificación que se regulariza hubiera sido dañada por la catástrofe que dio lugar a la declaración respectiva y se efectúen las reparaciones que permitan cumplir con las normas de seguridad, habitabilidad, estabilidad y de las instalaciones a que se refiere este artículo. Para los efectos de lo dispuesto en este numeral, se entenderá que la edificación ha sido dañada cuando el daño afecta la estructura soportante del inmueble o si tratándose de elementos constructivos o instalaciones, éste fuere relevante, por afectar la seguridad o habitabilidad.
-
-Las regularizaciones a que se refiere este numeral, estarán exentas del cumplimiento de las normas urbanísticas del instrumento de planificación territorial respectivo, salvo las referidas a uso de suelo, zonas no edificables, áreas de riesgo, áreas de protección de recursos de valor natural y de valor patrimonial cultural, además de las franjas declaradas de utilidad pública. Tratándose de la regularización de edificios destinados a establecimientos de salud, educación y seguridad, estarán exentos, además, de las disposiciones sobre uso de suelo.
-
-Sin perjuicio de lo anterior, estos permisos deberán cumplir con las siguientes normas de esta Ordenanza:
-
-- Las del Título 4 "De la Arquitectura", relativas a
-
-normas de seguridad, habitabilidad, estabilidad y de
-
-las instalaciones interiores de electricidad, agua
-
-potable, alcantarillado y gas, cuando corresponda.
-
-- Las del artículo 5.1.7. referidas al proyecto de
-
-cálculo estructural, cuando corresponda.
-
-Para acogerse al procedimiento simplificado que regula el presente numeral, el propietario deberá presentar ante la Dirección de Obras Municipales respectiva, una solicitud de permiso acompañada de los siguientes documentos:
-
-a) Declaración simple del propietario de ser titular del dominio del inmueble utilizando para ello el Formulario Único Nacional respectivo.
-
-b) Formulario único de estadísticas de edificación.
-
-c) Informe que contenga la identificación de los elementos de la edificación que resultaron con daño, emitido por el profesional competente.
-
-d) Plano de ubicación, plantas de arquitectura y especificaciones técnicas resumidas, suscritos por un profesional competente.
-
-e) Informe técnico de un profesional competente, respecto del cumplimiento de las normas sobre seguridad, habitabilidad, estabilidad y de sus instalaciones interiores de electricidad, agua potable, alcantarillado y gas, cuando corresponda.
-
-f) Informe de un profesional competente que acredite que se realizaron, de manera previa a la solicitud de regularización, las obras necesarias para reparar los daños de la edificación.
-
-La Dirección de Obras Municipales deberá pronunciarse, dentro de los 30 días siguientes a la presentación de la solicitud, con el sólo mérito de la presentación de los documentos a que se refiere este artículo y acreditado el pago de derechos municipales, si correspondiere, procederá a otorgar el permiso y recepción definitiva simultáneamente.
-
-Los derechos municipales corresponden a los contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, con excepción de los que están exentos del pago de derechos municipales conforme al inciso final del artículo 116 bis D) de la Ley General de Urbanismo y Construcciones.
-
-8. Permisos para instalaciones de recepción y almacenamiento de residuos de productos prioritarios que contemplen edificaciones sujetas a la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento del reciclaje.
+6. Permisos para instalaciones de recepción y almacenamiento de residuos de productos prioritarios que contemplen edificaciones sujetas a la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento del reciclaje.
 
 Las instalaciones para la recepción y almacenamiento de residuos de productos prioritarios que contemplen edificaciones requerirán permiso de edificación de acuerdo a los requisitos y procedimientos simplificados indicados en el presente numeral. Dichas instalaciones se entenderán complementarias a cualquier uso de suelo, con las restricciones que se indican para cada caso en los siguientes numerales:
 
@@ -8224,25 +8116,25 @@ La Dirección de Obras Municipales deberá pronunciarse sobre los permisos de es
 
 El Director de Obras Municipales otorgará el permiso a que se refiere este numeral, previo pago de los derechos municipales que correspondan, considerando para ello el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, y se calcularán conforme al procedimiento establecido en el artículo 5.1.14. de esta Ordenanza.
 
-El plazo para acogerse a los procedimientos simplificados a que se refieren los numerales 6 y 7 del inciso primero de este artículo, será de 6 años, contados desde la fecha del decreto que declaró la zona afectada por catástrofe, aún cuando éste no se encuentre vigente.
-
 Si las alteraciones, los cambios de destino o las demoliciones que se tratan en este artículo fueran parte de un proyecto mayor que contemplare obras nuevas o ampliaciones, la solicitud respectiva se podrá requerir conjuntamente con el permiso de edificación de dichas obras nuevas o ampliaciones.
 
 Tratándose de inmuebles de conservación histórica o emplazados en zonas con tal denominación, con anterioridad a la presentación de la solicitud a que se refiere este artículo, el propietario deberá presentar un informe suscrito por un arquitecto en el que se fundamenten las razones de seguridad o de fuerza mayor que harían recomendable la demolición de la edificación. En base a dicho informe el Director de Obras Municipales resolverá la procedencia o no de la demolición.
 
 Si dicha resolución fuere favorable, el propietario deberá solicitar la autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, según corresponda.
 
+Tratándose de viviendas de interés público que sean resultado de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 de la Ley General de Urbanismo y Construcciones, tal circunstancia deberá declararse en la respectiva solicitud, identificando tanto la cantidad de dichas viviendas como su emplazamiento y metros cuadrados construidos, de manera tal que puedan ser singularizadas en el respectivo permiso.
+
 #### Artículo 5
 
 1.5. Para solicitar al Director de Obras Municipales la aprobación de anteproyectos de obras de edificación, deberán presentarse los siguientes antecedentes:
 
-1. Solicitud, firmada por el propietario y el arquitecto proyectista, en la cual se indicará si las edificaciones consultadas se acogen a determinadas disposiciones especiales o si se trata, en todo o parte, de un edificio de uso público, como asimismo si el expediente cuenta con informe favorable de un Revisor Independiente.
+1. Solicitud, firmada por el propietario y el arquitecto proyectista, en la cual se indicará si las edificaciones consultadas se acogen a determinadas disposiciones especiales o si se trata, en todo o parte, de un edificio de uso público, como asimismo si el expediente cuenta con informe favorable de un Revisor Independiente. Adicionalmente, deberá indicarse si las edificaciones consisten o consideran viviendas de interés público resultantes de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 de la Ley General de Urbanismo y Construcciones, o en otras leyes. En este último caso, deberá indicarse la cantidad de viviendas, así como los metros cuadrados construidos y su emplazamiento.
 
 2. Fotocopia del Certificado de Informaciones Previas, salvo que se indique su fecha y número en la solicitud.
 
 3. Plano de ubicación, que señale la posición relativa del predio respecto de los terrenos colindantes y del espacio público. Dicho plano podrá consultarse dentro del plano general de conjunto.
 
-4. Plano de emplazamiento de el o los edificios, en que aparezca su silueta en sus partes más salientes, debidamente acotada y con indicación de sus distancias hacia los deslindes respectivos o entre edificios, si correspondiera, incluyendo los puntos de aplicación de rasantes y sus cotas con relación al nivel de suelo natural, indicando además los accesos vehiculares y peatonales y demás características del proyecto que permitan verificar el cumplimiento de las normas urbanísticas que le sean aplicables, según su destino.
+4. Plano de emplazamiento de el o los edificios, en que aparezca su silueta en sus partes más salientes, debidamente acotada y con indicación de sus distancias hacia los deslindes respectivos o entre edificios, si correspondiera, incluyendo los puntos de aplicación de rasantes y sus cotas con relación al nivel de suelo natural, indicando además las viviendas de interés público que se consideren, cuando corresponda, los accesos vehiculares y peatonales y demás características del proyecto que permitan verificar el cumplimiento de las normas urbanísticas que le sean aplicables, según su destino.
 
 5. Plantas esquemáticas, en que se ilustren los pisos subterráneos, el primer piso, las plantas repetitivas y demás pisos superiores, según el caso, señalando las áreas comunes, si las hubiere.
 
@@ -8310,7 +8202,35 @@ e) Si el proyecto consulta,
 
 en todo o parte,
 
-edificios de uso público.
+edificios de uso público
+
+o viviendas de interés
+
+público resultantes de
+
+la aplicación de las
+
+condiciones, exigencias,
+
+beneficios o incentivos
+
+referidos en los artículos
+
+27, 34, 45, 183 y 184 de
+
+la Ley General de Urbanismo
+
+y Construcciones, o en
+
+otras leyes. En este último
+
+caso, deberá indicarse la
+
+cantidad de viviendas, así
+
+como los metros cuadrados
+
+construidos y su emplazamiento.
 
 f) Si cuenta con informe
 
@@ -8401,6 +8321,12 @@ con relación al nivel de
 suelo natural. En este
 
 plano se indicarán, además,
+
+las viviendas de interés
+
+público que se contemplen
+
+cuando corresponda, y
 
 los accesos peatonales y
 
@@ -8517,6 +8443,8 @@ Se incorporará además una Memoria de Accesibilidad del proyecto suscrita por e
 15. Proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones, cuando se trate de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios.
 
 16. Comprobante de ingreso del Informe de Mitigación de Impacto Vial o del certificado que acredite que el proyecto no requiere de dicho informe, en ambos casos emitido por el sistema electrónico.
+
+17. Estudio de impacto urbano aprobado por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, en caso de corresponder conforme a lo dispuesto en el artículo 183 de la Ley General de Urbanismo y Construcciones y el artículo 2.1.7. bis de esta Ordenanza.
 
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
@@ -8948,7 +8876,7 @@ DE LAS INSPECCIONES Y RECEPCIONES DE OBRAS
 
 #### Artículo 5
 
-2.1. Corresponde a la Dirección de Obras Municipales fiscalizar toda construcción que se ejecute dentro del territorio de su jurisdicción y comprobar el destino que se dé a los edificios y a sus distintas dependencias.
+2.1. Corresponde a la Dirección de Obras Municipales fiscalizar toda construcción que se ejecute dentro del territorio de su jurisdicción y comprobar el destino que se dé a los edificios y a sus distintas dependencias, incluidos aquellos que se hubiesen singularizado como viviendas de interés público en los respectivos permisos de edificación y recepciones municipales conforme al artículo 184 bis de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 5
 
@@ -8983,6 +8911,10 @@ En los casos que la obra haya sido informada favorablemente por el Revisor Indep
 En el caso de proyectos que hayan aprobado un Informe de Mitigación de Impacto Vial, se deberá ingresar la documentación que acredite la ejecución de las mitigaciones directas contenidas en la resolución que lo aprobó o la boleta bancaria o póliza de seguro en el caso que se garantice su ejecución. Cuando se hayan considerado etapas con mitigaciones parciales, deberá acreditarse su ejecución o la existencia de la boleta bancaria o póliza de seguro que garantice la respectiva etapa, en los casos que corresponda. En tal caso el Director de Obras Municipales deberá consignar en el certificado de recepción definitiva las mitigaciones directas que hubieren sido garantizadas.
 
 Lo señalado en el inciso anterior será, también, aplicable a los casos que se haya aprobado materializar los Aportes al Espacio Público en estudios, proyectos, obras y medidas conforme al inciso segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones.
+
+En el caso de proyectos que hayan aprobado un Estudio de Impacto Urbano, se deberá ingresar la documentación que acredite la ejecución de las condiciones contenidas en la resolución que lo aprobó o la boleta bancaria o póliza de seguro en el caso que se garantice su ejecución cuando la resolución que aprobó el Estudio de Impacto Urbano lo autorice. Cuando se haya considerado la construcción por partes del proyecto, deberá acreditarse la ejecución de las obras o medidas proporcionales o la existencia de la boleta bancaria o póliza de seguro que garantice las respectivas obras o medidas, en los casos que corresponda. En tal caso el Director de Obras Municipales deberá consignar en el certificado de recepción definitiva las condiciones que hubieren sido garantizadas.
+
+Tratándose de viviendas de interés público resultantes de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 de la Ley General de Urbanismo y Construcciones, o en otras leyes, éstas deberán quedar singularizadas en la recepción definitiva, indicando su cantidad, emplazamiento y metros cuadrados construidos.
 
 #### Artículo 5
 
@@ -9025,6 +8957,10 @@ Tratándose de la recepción definitiva de una obra menor, se adjuntarán al exp
 Tratándose de la recepción definitiva de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios, el Director de Obras Municipales deberá verificar previamente la correspondencia entre los antecedentes que constan en el Certificado que acredita ese registro, y en el Certificado de modificación de dicho registro cuando proceda, y los mismos antecedentes señalados en el permiso de edificación y en la solicitud de recepción definitiva. Cuando no se adjunte dicho Certificado o cuando no haya correspondencia, la solicitud de recepción será rechazada, emitiendo el respectivo comprobante de rechazo timbrado y fechado en el que se precise la causal en que se funda este rechazo.
 
 Será requisito para cursar la recepción definitiva de los proyectos que generen crecimiento urbano por densificación que se consideren las cesiones de suelo que exige esta Ordenanza o, alternativamente, el comprobante del pago por aporte o la ejecución o garantía de los estudios, proyectos, obras y medidas aprobados conforme a los incisos segundo y siguientes del artículo 179 de la Ley General de Urbanismo y Construcciones, según sea el caso.
+
+En el caso de proyectos que hayan aprobado un Estudio de Impacto Urbano, se deberá ingresar la documentación que acredite la ejecución de las condiciones contenidas en la resolución que lo aprobó o la boleta bancaria o póliza de seguro en el caso que se garantice su ejecución cuando la resolución que aprobó el Estudio de Impacto Urbano lo autorice. Cuando se haya considerado la construcción por partes del proyecto, deberá acreditarse la ejecución de las obras o medidas proporcionales o la existencia de la boleta bancaria o póliza de seguro que garantice las respectivas obras o medidas, en los casos que corresponda. En tal caso el Director de Obras Municipales deberá consignar en el certificado de recepción definitiva las condiciones que hubieren sido garantizadas.
+
+Tratándose de la recepción definitiva de edificaciones que en todo o en parte consulten viviendas de interés público resultantes de la aplicación de las condiciones, exigencias, beneficios o incentivos referidos en los artículos 27, 34, 45, 183 y 184 de la Ley General de Urbanismo y Construcciones, o en otras leyes, tal circunstancia deberá indicarse en la solicitud, indicando su cantidad, emplazamiento y metros cuadrados construidos, de manera tal que puedan ser singularizadas en la respectiva recepción definitiva.
 
 #### Artículo 5
 
